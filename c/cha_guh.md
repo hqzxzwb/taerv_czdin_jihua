@@ -1,6 +1,6 @@
 # 蛼蛤
 
-cha1 huh
+cha1 guh
 
 - 文蛤
 
