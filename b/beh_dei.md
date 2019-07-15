@@ -1,6 +1,6 @@
 # 不㞢
 
-beh7 dei
+beh7 dii
 
 - 不是
 
