@@ -1,6 +1,6 @@
 # 净人
 
-chen6 ren
+chen1 ren
 
 - 物体温度低，很冷。
 
