@@ -1,6 +1,6 @@
 # 没交易
 
-meh8 jio1 i
+meh8 jio1 ieh
 
 - 没事情做，没生意；表示拒绝
 
