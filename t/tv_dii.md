@@ -1,6 +1,6 @@
 # 肚里
 
-tu6 dei
+tv6 dii
 
 - 里面
 

@@ -1,6 +1,6 @@
 # 太阳
 
-tae5 iang
+tae5 ian
 
 - 太阳
 
