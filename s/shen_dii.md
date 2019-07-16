@@ -1,6 +1,6 @@
 # 甚㞢
 
-shen2 dei, nei
+shen2 dii, shen2 nii
 
 - 什么
 
