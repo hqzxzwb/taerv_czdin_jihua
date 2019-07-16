@@ -1,6 +1,6 @@
 # 外头
 
-ve6 teu
+vae6 teu
 
 - 外面
 
