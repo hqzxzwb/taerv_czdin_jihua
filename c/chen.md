@@ -8,7 +8,7 @@ chen2
 
 # 𨀛
 
-chen2
+chen2, sen2
 
 - 蹲下
 
