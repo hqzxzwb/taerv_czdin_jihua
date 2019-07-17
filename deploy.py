@@ -18,12 +18,14 @@ for d in sorted(glob.glob("?/")):
 	print("## %s" % letter, file=target)
 	for f in sorted(glob.glob(d+"*.md")):
 		conts = open(f).read()
-		link_format="https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/%s%s.md#%s"
+		link_format="https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/%s#%s"
 		for cont in conts.split("#"):
 			if cont:
 				cont = cont.strip()
 				fs=re.split("\n+", cont)
-				link=link_format % (d, re.sub("\d", "", fs[1].replace(" ", "_")), fs[0])
+				link_md = re.sub("\d", "", fs[1].split(", ")[0].replace(" ", "_"))
+				if not f.endswith(link_md+".md"): print("【%s】不属于%s" %(fs[0], f))
+				link=link_format % (f, fs[0])
 				out="【[%s](%s)】`%s` " % (fs[0], link, fs[1])
 				meanings=cont.count("\n-")
 				meaning = 0
