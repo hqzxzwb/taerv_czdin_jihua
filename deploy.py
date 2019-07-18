@@ -5,7 +5,7 @@ import glob
 import os
 import re
 
-ORDERS = "⓿❶❷❸❹❺❻❼❽❾❿"
+ORDERS = "❶❷❸❹❺❻❼❽❾❿"
 LINK_FORMAT = "https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/%s#%s"
 
 def write_config():
@@ -37,10 +37,14 @@ def lower_er(py0, word):
         word = "".join(words)
     return word
 
+def get_path(py0):
+    """获取文件路径"""
+    py0 = re.sub(r"\d", "", py0.replace(" ", "_"))
+    return "%s/%s.md" % (py0[0], py0)
+
 def check_path(path, py0, word):
     """检查词语的文件名是否正确"""
-    py0 = re.sub(r"\d", "", py0.replace(" ", "_"))
-    if not path.endswith("%s/%s.md" % (py0[0], py0)):
+    if not path.endswith(get_path(py0)):
         print("【%s】不属于 %s" %(word, path))
 
 def parse_cont(cont):
@@ -56,9 +60,9 @@ def parse_cont(cont):
     for line in fields[2:]:
         if line.startswith("-"):
             example_count = 0
-            meaning_count += 1
             if show_order:
-                meaning += ORDERS[meaning_count]
+                meaning += " " + ORDERS[meaning_count]
+                meaning_count += 1
             meaning += " " + line.replace("-", "").strip()
         else:
             example_count += 1
@@ -67,7 +71,16 @@ def parse_cont(cont):
             if "/" in example:
                 example = example.replace("/", "<sub>")+"</sub>"
             meaning += example
-    return [word, pinyin, meaning]
+        #例句的冒号前不显示句号
+        meaning = meaning.replace("。：", "：").replace("~", "～").strip()
+        py0 = pinyin.split(",")[0]
+    return [py0, pinyin, word, meaning]
+
+def get_key(cont):
+    """词条排序"""
+    key = cont[0].split(" ")[0] + cont[2][0]+ ("2" if len(cont[2]) > 1 else "1")
+    #print(key)
+    return key
 
 def write_index():
     """生成主页"""
@@ -75,16 +88,16 @@ def write_index():
     lines = get_letters(dirs)
     for path in dirs:
         lines.append("## %s\n" % path.upper())
+        conts = []
         for fname in sorted(glob.glob(path+"/*.md")):
-            conts = open(fname).read()
-            for cont in re.findall(r"#[^#]+", conts):
-                word, pinyin, meaning = parse_cont(cont)
-                py0 = pinyin.split(",")[0]
-                link = LINK_FORMAT % (fname, word)
-                out = "【[%s](%s)】`%s` %s  \n" % (lower_er(py0, word), link, pinyin, meaning)
-                lines.append(out)
-                check_path(fname, py0, word)
-        lines.append("### [▲](#音序检索)\n")
+            cont = open(fname).read()
+            conts.extend(map(parse_cont, re.findall(r"#[^#]+", cont)))
+        for py0, pinyin, word, meaning in sorted(conts, key=get_key):
+            link = LINK_FORMAT % (get_path(py0), word)
+            out = "【[%s](%s)】`%s` %s  \n" % (lower_er(py0, word), link, pinyin, meaning)
+            lines.append(out)
+            #check_path(fname, py0, word)
+        lines.append("#### [▲](#音序检索)\n")
     open("docs/index.md", "w").writelines(lines)
 
 write_config()
