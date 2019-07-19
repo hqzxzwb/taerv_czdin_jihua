@@ -1,5 +1,7 @@
 收录泰如方言词汇
 
+- [已收录词汇](https://hqzxzwb.github.io/taerv_czdin_jihua/)
+
 - [拼音方案](http://taerv.nguyoeh.com/拼音方案介绍/)
 
 - 文件组织方案
@@ -13,6 +15,7 @@
     ```md
     # 中文
     zhon1 ven2
+    > 参考文献
     - 意义一
     	- 例子一
     	- 例子二

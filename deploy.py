@@ -54,6 +54,7 @@ def parse_cont(cont):
     word = fields[0].lstrip("#").strip()
     pinyin = fields[1].strip()
     meaning = ""
+    source = ""
     show_order = cont.count("\n-") > 1
     meaning_count = 0
     example_count = 0
@@ -64,6 +65,8 @@ def parse_cont(cont):
                 meaning += " " + ORDERS[meaning_count]
                 meaning_count += 1
             meaning += " " + line.replace("-", "").strip()
+        elif line.startswith(">"):
+            source = line.lstrip(">").strip()
         else:
             example_count += 1
             meaning += "｜" if example_count > 1 else "："
@@ -74,7 +77,7 @@ def parse_cont(cont):
         #例句的冒号前不显示句号
         meaning = meaning.replace("。：", "：").replace("~", "～").strip()
         py0 = pinyin.split(",")[0]
-    return [py0, pinyin, word, meaning]
+    return [py0, pinyin, word, meaning, source]
 
 def get_key(cont):
     """词条排序"""
@@ -92,9 +95,11 @@ def write_index():
         for fname in sorted(glob.glob(path+"/*.md")):
             cont = open(fname).read()
             conts.extend(map(parse_cont, re.findall(r"#[^#]+", cont)))
-        for py0, pinyin, word, meaning in sorted(conts, key=get_key):
+        for py0, pinyin, word, meaning, source in sorted(conts, key=get_key):
             link = LINK_FORMAT % (get_path(py0), word)
-            out = "【[%s](%s)】`%s` %s  \n" % (lower_er(py0, word), link, pinyin, meaning)
+            if source:
+                source = "<sup>[%s]</sup> " % source
+            out = "【[%s](%s)】`%s` %s%s  \n" % (lower_er(py0, word), link, pinyin, source, meaning)
             lines.append(out)
             #check_path(fname, py0, word)
         lines.append("#### [▲](#音序检索)\n")
