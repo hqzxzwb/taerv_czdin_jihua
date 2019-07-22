@@ -89,6 +89,7 @@ def write_index():
     """生成主页"""
     dirs = sorted(glob.glob("?"))
     lines = get_letters(dirs)
+    count = 0
     for path in dirs:
         lines.append("## %s\n" % path.upper())
         conts = []
@@ -99,7 +100,8 @@ def write_index():
             link = LINK_FORMAT % (get_path(py0), word)
             if source:
                 source = "<sup>[%s]</sup> " % source
-            out = "【[%s](%s)】`%s` %s%s  \n" % (lower_er(py0, word), link, pinyin, source, meaning)
+            count += 1
+            out = "<sub>%d</sub>【[%s](%s)】`%s` %s%s  \n" % (count, lower_er(py0, word), link, pinyin, source, meaning)
             lines.append(out)
             #check_path(fname, py0, word)
         lines.append("#### [▲](#音序检索)\n")
