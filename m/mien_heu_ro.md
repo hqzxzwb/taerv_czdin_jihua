@@ -1,4 +1,4 @@
-# 明后□
-mien6 heu6 ro
+# 慢后朝
+maen6 heu6 zho, maen6 heu6 do
 - 大后天
 
