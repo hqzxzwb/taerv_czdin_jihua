@@ -6,7 +6,6 @@ nga2 zz
 nga3 zz
 - 哑巴
 
-# □子
+# 閕子
 nga6 zz
 - 缺口
-
