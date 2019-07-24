@@ -1,4 +1,4 @@
 # 指□
-zheh7 kaen
+zheh7 kaeh
 - 指甲
 
