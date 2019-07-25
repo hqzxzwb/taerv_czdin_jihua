@@ -94,8 +94,9 @@ def write_index():
         lines.append("## %s\n" % path.upper())
         conts = []
         for fname in sorted(glob.glob(path+"/*.md")):
-            cont = open(fname).read()
-            conts.extend(map(parse_cont, re.findall(r"#[^#]+", cont)))
+            for cont in map(parse_cont, re.findall(r"#[^#]+", open(fname).read())):
+                conts.append(cont)
+                check_path(fname, cont[0], cont[1])
         for py0, pinyin, word, meaning, source in sorted(conts, key=get_key):
             link = LINK_FORMAT % (get_path(py0), word)
             if source:
