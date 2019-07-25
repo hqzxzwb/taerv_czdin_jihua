@@ -44,10 +44,11 @@ def get_path(py0):
 
 def check_path(path, py0, word):
     """检查词语的文件名是否正确"""
-    if not path.endswith(get_path(py0)):
-        print("【%s】不属于 %s" %(word, path))
+    should_path = get_path(py0)
+    if not path.endswith(should_path):
+        print("【%s】的位置不对：mv %s %s" %(word, path, should_path))
 
-def parse_cont(cont):
+def parse_cont(cont, fname):
     """解析词条"""
     cont = cont.strip()
     fields = re.split("\n+", cont)
@@ -77,7 +78,7 @@ def parse_cont(cont):
         #例句的冒号前不显示句号
         meaning = meaning.replace("。：", "：").replace("~", "～").strip()
         py0 = pinyin.split(",")[0]
-    return [py0, pinyin, word, meaning, source]
+    return [py0, pinyin, word, meaning, source, fname]
 
 def get_key(cont):
     """词条排序"""
@@ -94,11 +95,11 @@ def write_index():
         lines.append("## %s\n" % path.upper())
         conts = []
         for fname in sorted(glob.glob(path+"/*.md")):
-            for cont in map(parse_cont, re.findall(r"#[^#]+", open(fname).read())):
-                conts.append(cont)
-                check_path(fname, cont[0], cont[1])
-        for py0, pinyin, word, meaning, source in sorted(conts, key=get_key):
-            link = LINK_FORMAT % (get_path(py0), word)
+            for cont in re.findall(r"#[^#]+", open(fname).read()):
+                conts.append(parse_cont(cont, fname))
+        for py0, pinyin, word, meaning, source, fname in sorted(conts, key=get_key):
+            check_path(fname, py0, word)
+            link = LINK_FORMAT % (fname, word)
             if source:
                 source = "<sup>[%s]</sup> " % source
             count += 1
