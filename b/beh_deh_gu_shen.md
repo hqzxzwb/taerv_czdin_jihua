@@ -1,3 +1,3 @@
-# 不得过生
-beh7 deh7 gu1 shen1
+# 不得过身
+beh7 deh7 gu5 shen1
 - 不能够再承受，引申为“完蛋了，不行了”
