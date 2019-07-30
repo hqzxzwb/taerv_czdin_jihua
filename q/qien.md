@@ -8,3 +8,6 @@ qien2
 qien5
 - 按，压
 
+# 揿
+qien5
+- 按
