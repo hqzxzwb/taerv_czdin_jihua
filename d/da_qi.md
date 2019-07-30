@@ -1,3 +1,3 @@
 # 大气
-da6 qi5
+da5 qi, tae3 qi
 - 大方，不吝啬
