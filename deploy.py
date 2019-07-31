@@ -75,9 +75,9 @@ def parse_cont(cont, fname):
             if "/" in example:
                 example = example.replace("/", "<sub>")+"</sub>"
             meaning += example
-        #例句的冒号前不显示句号
-        meaning = meaning.replace("。：", "：").replace("~", "～").strip()
-        py0 = pinyin.split(",")[0]
+    #例句的冒号前不显示句号
+    meaning = meaning.replace("。：", "：").replace("~", "～").strip()
+    py0 = pinyin.split(",")[0]
     return [py0, pinyin, word, meaning, source, fname]
 
 def get_key(cont):
