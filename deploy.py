@@ -4,6 +4,7 @@
 import glob
 import os
 import re
+from itertools import product
 
 ORDERS = "❶❷❸❹❺❻❼❽❾❿"
 LINK_FORMAT = "https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/%s#%s"
@@ -48,12 +49,19 @@ def check_path(path, py0, word):
     if not path.endswith(should_path):
         print("【%s】的位置不对：mv %s %s" %(word, path, should_path))
 
+def parse_pinyin(pinyin):
+    """A B/C→AB, AC"""
+    if "/" not in pinyin:
+        return pinyin
+    py_list = [i.split("/") for i in pinyin.split(" ")]
+    return ", ".join(map(" ".join, product(*py_list)))
+
 def parse_cont(cont, fname):
     """解析词条"""
     cont = cont.strip()
     fields = re.split("\n+", cont)
     word = fields[0].lstrip("#").strip()
-    pinyin = fields[1].strip()
+    pinyin = parse_pinyin(fields[1].strip())
     meaning = ""
     source = ""
     show_order = cont.count("\n-") > 1

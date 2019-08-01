@@ -1,5 +1,5 @@
 # 时辰
-shr2 chen, shr2 shen
+shr2 chen/shen
 - 时刻
   - 什㞢～/什么时候
 - 一段时间

@@ -1,4 +1,4 @@
 # 柿子
-chr6 zz, shr6 zz
+chr6/shr6 zz
 - 柿子
 

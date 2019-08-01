@@ -1,4 +1,4 @@
 # 后朝
-heu6 zho, heu6 do
+heu6 zho/do
 - 后天
 

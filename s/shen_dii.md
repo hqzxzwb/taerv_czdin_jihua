@@ -1,4 +1,4 @@
 # 什㞢
-shen2 dii, shen2 nii
+shen2 dii/nii
 - 什么
 

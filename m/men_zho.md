@@ -1,4 +1,4 @@
 # 明朝
-men2 zho, men2 do
+men2 zho/do
 - 明天
 
