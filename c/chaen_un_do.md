@@ -1,3 +1,3 @@
-# 铲碗刀
-chaen3 un3 do1
+# 铲锅刀
+chaen3 gu1 do1
 - 锅铲
