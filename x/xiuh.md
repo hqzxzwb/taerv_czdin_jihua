@@ -1,3 +1,3 @@
 # 雪
-xiuh7, xyeh7, xih7
+xiuh7, xyeh7
 - 雪
