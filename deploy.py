@@ -41,7 +41,7 @@ def lower_er(py0, word):
 def get_path(py0):
     """获取文件路径"""
     py0 = re.sub(r"\d", "", py0.replace(" ", "_"))
-    return "%s/%s.md" % (py0[0], py0)
+    return os.path.join(py0[0], "%s.md" % py0)
 
 def check_path(path, py0, word):
     """检查词语的文件名是否正确"""
@@ -103,11 +103,11 @@ def write_index():
         lines.append("## %s\n" % path.upper())
         conts = []
         for fname in sorted(glob.glob(path+"/*.md")):
-            for cont in re.findall(r"#[^#]+", open(fname).read()):
+            for cont in re.findall(r"#[^#]+", open(fname,encoding="U8").read()):
                 conts.append(parse_cont(cont, fname))
         for py0, pinyin, word, meaning, source, fname in sorted(conts, key=get_key):
             check_path(fname, py0, word)
-            link = LINK_FORMAT % (fname, word)
+            link = LINK_FORMAT % (fname.replace("\\","/"), word)
             if source:
                 source = "<sup>[%s]</sup> " % source
             count += 1
@@ -115,7 +115,7 @@ def write_index():
             lines.append(out)
             #check_path(fname, py0, word)
         lines.append("#### [▲](#音序检索)\n")
-    open("docs/index.md", "w").writelines(lines)
+    open("docs/index.md", "w", encoding="U8").writelines(lines)
 
 write_config()
 write_index()
