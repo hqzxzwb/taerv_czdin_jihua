@@ -1,5 +1,5 @@
-# 当儿里[dan1 r lii]
-dangrn
+# 当儿里
+dan1 r lii
 > 如东方言词典
 - 地方。
   - 在哪个～。
