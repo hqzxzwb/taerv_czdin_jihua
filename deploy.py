@@ -20,8 +20,8 @@ EOF""")
 def get_letters(dirs):
     """音序"""
     lines = ["# 音序检索\n"]
-    letters = "｜".join("[%s](#%s)"%(d.upper(), d) for d in dirs)
-    lines.append("### %s\n" % letters)
+    letters = " | ".join("[%s](#%s)"%(d.upper(), d) for d in dirs)
+    lines.append("**%s**  \n" % letters)
     return lines
 
 def lower_er(py0, word):
@@ -114,7 +114,7 @@ def write_index():
             out = "<sub>%d</sub>【[%s](%s)】`%s` %s%s  \n" % (count, lower_er(py0, word), link, pinyin, source, meaning)
             lines.append(out)
             #check_path(fname, py0, word)
-        lines.append("#### [▲](#音序检索)\n")
+        lines.append("**[▲](#音序检索)**  \n")
     open("docs/index.md", "w", encoding="U8").writelines(lines)
 
 write_config()
