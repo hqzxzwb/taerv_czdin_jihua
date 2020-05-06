@@ -26,5 +26,5 @@ for line in open(input,encoding="U8"):
             print(file=f)
         print("# %s\n%s\n> 如皋方言词典" % (gs[0][0], py),file=f)
     else:
-        line=re.sub("\(\d\)","",line.strip()).strip().replace("例如：","\n  - ")
+        line=re.sub("\(\d\)","",line.strip()).strip().replace("例如：","\n  - ").replace("：","\n  - ")
         print("-", line,file=f)
