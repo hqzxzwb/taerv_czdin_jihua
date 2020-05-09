@@ -17,7 +17,7 @@ for line in open(input,encoding="U8"):
             f.close()
         py=gs[0][1].strip()
         py=re.sub('/[a-z0-8]+','',py)
-        fname=re.sub("\d","",py).replace('，',' ').replace(" ","_")
+        fname=re.sub("\d","",re.sub("[—， ]", "_", py)）
         fname=os.path.join(fname[0],fname+".md")
         exist = os.path.exists(fname)
         print(fname)
