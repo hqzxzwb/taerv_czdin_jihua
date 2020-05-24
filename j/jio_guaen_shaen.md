@@ -1,5 +1,5 @@
-# 交贯山
-jio1 guaen5 shaen
+# 交关山
+jio1 guaen1 shaen1
 > 如东方言词典
 - 形容很多很多。
   - 市场上㞢西瓜～。
