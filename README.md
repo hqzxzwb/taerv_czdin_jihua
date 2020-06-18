@@ -2,7 +2,7 @@
 
 - [已收录词汇](https://hqzxzwb.github.io/taerv_czdin_jihua/)
 
-- [拼音方案](http://taerv.nguyoeh.com/拼音方案介绍/)
+- [拼音方案](http://taerv.nguyoeh.com/pienien/)
 
 - 文件组织方案
 
