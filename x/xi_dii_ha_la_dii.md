@@ -1,4 +1,4 @@
-# 嘻㞢哈啦㞢
-xi1 dii ha1 la1 dii
+# 嘻里哈啦㞢
+xi1 lii ha1 la1 dii
 > 如皋方言词典
 - 不严肃、不拘小节、活泼。
