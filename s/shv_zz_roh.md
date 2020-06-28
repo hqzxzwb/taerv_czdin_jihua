@@ -7,3 +7,8 @@ shv1 zz roh8
 shv1 zz roh8
 > 如皋方言词典
 - 炮油肉。
+
+# 梳子肉
+shv1 zz roh8
+> 如皋方言词典
+- 见“跑油肉”。
