@@ -15,8 +15,10 @@ for line in open(input,encoding="U8"):
         if f:
             #print(file=f)
             f.close()
-        py=gs[0][1].strip()
-        py=re.sub('/[a-z1-8]+','',py)
+        line=gs[0][1].strip()
+        py=re.findall('^[a-z1-8 ]*',line)[0]
+        line=line[len(py):].strip()
+        py=py.strip()
         fname=re.sub("\d","",re.sub("[^a-z1-8]+", "_", py))
         fname = fname.rstrip("_")
         fname=os.path.join(fname[0],fname+".md")
@@ -26,6 +28,6 @@ for line in open(input,encoding="U8"):
         if exist:
             print(file=f)
         print("# %s\n%s\n> 如皋方言词典" % (gs[0][0], py),file=f)
-    else:
-        line=re.sub("\(\d\)","",line.strip()).strip().replace("例如：","\n  - ").replace("：","\n  - ")
-        print("-", line,file=f)
+        if line:
+            line=re.sub("\(\d\)","",line.strip()).strip().replace("例如：","\n  - ").replace("：","\n  - ")
+            print("-", line,file=f)
