@@ -32,7 +32,9 @@ def lower_er(py0, word):
         index = 0
         while "r" in syllables[index:]:
             index = syllables.index("r", index)
-            if words[index] == "儿":
+            if index >= len(words):
+                print("【%s】跟拼音%s不对应" % (word, py0))
+            elif words[index] == "儿":
                 words[index] = "<sub>儿</sub>"
             index += 1
         word = "".join(words)
