@@ -1,4 +1,4 @@
 # 丢黄
-deu1 huan2
+dieu1 huan2
 > 如东方言词典
 - 丢面子。
