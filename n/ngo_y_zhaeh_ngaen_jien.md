@@ -2,3 +2,8 @@
 ngo2 y2 zhaeh7 ngaen3 jien1
 > 如皋方言词典
 - 地震。
+
+# 鳌鱼眨眼睛
+ngo2 y2 zhaeh7 ngaen3 jien1
+> 如皋方言词典
+- 小地震。传说大地由鳌鱼驮着。鳌鱼稍一动就有地震。
