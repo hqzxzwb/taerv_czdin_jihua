@@ -1,4 +1,4 @@
 # 大家人家
-da6 jiaa1 ren2 ga
+da6 jia1 ren2 ga
 > 如皋方言词典
 - 家庭大、富有声望的人家。
