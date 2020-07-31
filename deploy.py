@@ -8,6 +8,7 @@ from itertools import product
 
 ORDERS = "❶❷❸❹❺❻❼❽❾❿"
 LINK_FORMAT = "https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/%s#%s"
+PY_FORMAT = re.compile("([bpmfdtnlgkhjqxzcsr]|[zcs]h|ng|dd)?([aoeivuyrz]+|ng)[nh]?[0-8]?")
 
 def write_config():
     """生成主题文件_config.yml"""
@@ -24,9 +25,16 @@ def get_letters(dirs):
     lines.append("**%s**  \n" % letters)
     return lines
 
+def validate(py0, word):
+    syllables = py0.split(" ")
+    for py in syllables:
+        if PY_FORMAT.match(py) is None:
+            print("【%s】的拼音%s不对" % (word, py0))
+
 def lower_er(py0, word):
     """儿尾变小"""
     syllables = py0.split(" ")
+    validate(py0, word)
     if "r" in syllables:
         words = list(word)
         index = 0
