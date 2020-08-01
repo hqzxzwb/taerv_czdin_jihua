@@ -6,6 +6,6 @@ cho2 hv1 hv1
   
 
 # 潮乎乎
-cho2 hv1 hu1
+cho2 hv1 hv1
 >如皋方言词典
 -湿润的样子。
