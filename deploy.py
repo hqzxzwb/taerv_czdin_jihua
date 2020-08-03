@@ -8,7 +8,7 @@ from itertools import product
 
 ORDERS = "❶❷❸❹❺❻❼❽❾❿"
 LINK_FORMAT = "https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/%s#%s"
-PY_FORMAT = re.compile("([bpmfdtnlgkhjqxzcsr]|[zcs]h|ng|dd)?([aoeivuyrz]+|ng)[nh]?[0-8]?")
+PY_FORMAT = re.compile("^([bpmfdtnlgkhjqxzcsr]|[zcs]h|ng|dd)?([aoeivuyrz]+|ng)[nh]?[0-8]?$")
 
 def write_config():
     """生成主题文件_config.yml"""
@@ -26,7 +26,9 @@ def get_letters(dirs):
     return lines
 
 def validate(py0, word):
-    syllables = py0.split(" ")
+    syllables = re.split("[^a-z1-8]+", py0)
+    if len(word) != len(syllables):
+        print("【%s(%d)】跟拼音%s(%d)不对应" % (word,len(word), py0,len(syllables)))
     for py in syllables:
         if PY_FORMAT.match(py) is None:
             print("【%s】的拼音%s不对" % (word, py0))
