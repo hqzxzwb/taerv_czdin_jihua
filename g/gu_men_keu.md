@@ -6,3 +6,8 @@ gu1 men2 keu
 gu1 men2 keu3
 > 如东方言词典
 - 灶膛门边。
+
+# 锅门口
+gu1 men keu3
+> 如皋方言词典
+- 灶门前。
