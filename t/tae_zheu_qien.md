@@ -1,4 +1,4 @@
 # 泰州青
-tae5 zheu1 qienq1
+tae5 zheu1 qien1
 > 如皋方言词典
 - 青菜品种之一。见“碗儿青”。
