@@ -1,4 +1,4 @@
 # 哿是不早㞢句话
-gu3 shr6 beh7 zo3 dii hua6
+gu3 shr6 beh7 zo3 dii jy5 hua6
 > 如皋方言词典
 - 表示要等待很久，性急无用:你等他？～！不到十点钟不得到班！

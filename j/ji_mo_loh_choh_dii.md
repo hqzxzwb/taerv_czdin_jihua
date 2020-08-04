@@ -1,4 +1,4 @@
 # 鸡猫六畜㞢
-ji1 mo2 loh8 choh7
+ji1 mo2 loh8 choh7 dii
 > 如皋方言词典
 - 形容轻微的意见不投，气氛不和谐。
