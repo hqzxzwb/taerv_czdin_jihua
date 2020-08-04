@@ -1,4 +1,4 @@
 # 黄齈鼻子
-van2 lon2 pih8 zz
+van2 lon2 pieh8 zz
 > 如皋方言词典
 - 状鼻涕多，且糊满鼻唇间。
