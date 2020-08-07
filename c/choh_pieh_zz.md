@@ -8,6 +8,6 @@ choh7 pieh8 zz
   - 听到这件事，他～。
 
 # 搐鼻子
-choh7 pih8 zz
+choh7 pieh8 zz
 > 如皋方言词典
 - （1）鼻子不断嗅气的动作。（2）鼻子收缩的样子。
