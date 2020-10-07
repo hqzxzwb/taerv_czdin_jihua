@@ -2,7 +2,6 @@
 zo3 gen1 teu
 - 早上，黎明时分
 
-
 # 早更头
 zo3 gen1 teu
 > 如皋方言词典
