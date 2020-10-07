@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import glob,re
 
 for fname in sorted(glob.glob("?/*.md")):
