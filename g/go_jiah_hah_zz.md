@@ -7,3 +7,8 @@ go1 jiah7 hah8 zz
 go1 jiah7 hah8 zz
 > 如皋方言词典
 - 形容个子高、腿长。见“晃条子”。
+
+# 高脚鹤子
+go1 jiah7 hah8 zz
+> 如皋方言词典
+- 形容人瘦而高。
