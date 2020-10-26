@@ -8,4 +8,4 @@ beh7 shan6 jien3
 beh7 shan6 jien5
 > 如东方言词典
 - 不起劲。
-  - 拖拖拉拉㞢，～。
+  - 拖拖拉拉的，～。

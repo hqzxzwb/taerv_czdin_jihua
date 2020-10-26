@@ -2,7 +2,7 @@
 go3 qieh7 go3 baeh7
 > 如东方言词典
 - 胡搞蛮缠。
-  - 不要～㞢。
+  - 不要～的。
 
 # 搞七搞八
 go3 qieh7 go3 baeh7
