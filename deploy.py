@@ -8,7 +8,7 @@ from itertools import product
 
 ORDERS = "❶❷❸❹❺❻❼❽❾❿"
 LINK_FORMAT = "https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/%s#%s"
-PY_FORMAT = re.compile("^([bpmfdtnlgkhjqxzcsr]|[zcs]h|ng|dd)?([aoeivuyrz]+|ng)[nh]?[0-8]?$")
+PY_FORMAT = re.compile("^([bpmfdtnlgkhjqxzcsr]|[zcs]h|ng|dd)?([aoeivuyrzm]+|ng)[nh]?[0-8]?$")
 
 def write_config():
     """生成主题文件_config.yml"""
