@@ -10,3 +10,8 @@ da3 zhun5 zhun5 r
 da3 zhun5 zhun5 r
 > 如皋方言词典
 - 盘旋，旋转。
+
+# 打转转儿
+da3 zhun5 zhun5 r
+> 如皋方言词典
+- 旋转。
