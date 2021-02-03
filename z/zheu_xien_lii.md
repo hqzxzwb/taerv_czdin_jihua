@@ -6,3 +6,8 @@ zheu5 xien1 lii
 zheu5 xien1 lii
 > 如皋方言词典
 - 夏日中午。
+
+# 昼心里
+zheu5 xien1 lii
+> 如皋方言词典
+- 中午。

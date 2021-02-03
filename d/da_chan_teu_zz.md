@@ -7,3 +7,8 @@ da6 chan2 teu2 zz
 da6 chan2 teu2 zz
 > 如皋方言词典
 - 直肠近肛门的一段，粗大肉厚。
+
+# 大肠头子
+da6 chan2 teu2 zz
+> 如皋方言词典
+- 见“胴疘”。
