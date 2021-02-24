@@ -16,10 +16,12 @@ for line in open(input,encoding="U8"):
             #print(file=f)
             f.close()
         line=gs[0][1].strip()
-        py=re.findall('^[a-z1-8 ]*',line)[0]
+        py=re.findall('^[a-z1-8/ ]*',line)[0]
         line=line[len(py):].strip()
         py=py.strip()
-        fname=re.sub("\d","",re.sub("[^a-z1-8]+", "_", py))
+        fname=re.sub("/[a-z1-8]+", "", py)
+        fname=re.sub("[^a-z1-8]+", "_", fname)
+        fname=re.sub("\d","",fname)
         fname = fname.rstrip("_")
         fname=os.path.join(fname[0],fname+".md")
         exist = os.path.exists(fname)
