@@ -6,7 +6,7 @@ import re
 
 input=sys.argv[1]
 f=None
-for line in open(input,encoding="U8"):
+for line in open(input,encoding="utf-8-sig"):
     line = line.rstrip().replace("~","～")
     if not line: continue
     gs = re.findall('^【(.+)】(.+)$',line)[::-1]
