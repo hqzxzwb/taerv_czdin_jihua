@@ -25,7 +25,7 @@ for line in open(input,encoding="utf-8-sig"):
         fname = fname.rstrip("_")
         fname=os.path.join(fname[0],fname+".md")
         exist = os.path.exists(fname)
-        print(fname)
+        #print(fname)
         f=open(fname, mode="a",encoding="U8")
         if exist:
             print(file=f)
@@ -33,3 +33,5 @@ for line in open(input,encoding="utf-8-sig"):
         if line:
             line=re.sub("\(\d\)","",line.strip()).strip().replace("例如：","\n  - ").replace("：","\n  - ")
             print("-", line,file=f)
+    else:
+        print(line, "解析失败")
