@@ -7,3 +7,8 @@ koh7 bo3 r chen5
 koh7 bo3 r chen5
 > 如皋方言词典
 - 见“袒”。
+
+# 哭宝儿秤
+koh7 bo3 r chen5
+> 如皋方言词典
+- 秤量不足，如哭宝儿的眼毛耷拉着。

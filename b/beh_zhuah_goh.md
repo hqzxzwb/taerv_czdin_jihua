@@ -8,3 +8,8 @@ beh7 zhuah7 goh7
 beh7 zhuah7 goh7
 > 如皋方言词典
 - 见“浪流浪”。
+
+# 不捉谷
+beh7 zhuah7 goh7
+> 如皋方言词典
+- 许诺不算数，无定准:他的话～，不能信他的。
