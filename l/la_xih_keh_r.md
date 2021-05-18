@@ -1,4 +1,4 @@
 # 哪歇刻儿
-la3 xih7 keh r
+la3 xih7 keh3 r
 > 如皋方言词典
 - 什么时候？
