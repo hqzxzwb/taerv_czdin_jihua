@@ -1,5 +1,5 @@
 # 耍子刻儿
-shua3 zz keh r
+shua3 zz keh3 r
 > 如皋方言词典
 - 玩一会儿。
 - 挽留用语。
