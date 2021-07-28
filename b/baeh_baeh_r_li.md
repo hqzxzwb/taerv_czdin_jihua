@@ -7,3 +7,8 @@ baeh7 baeh7 r li3
 baeh7 baeh7 r li3
 > 如皋方言词典
 - 歪理。
+
+# 八八儿理
+baeh7 baeh7 r li3
+> 如皋方言词典
+- 蛮理。
