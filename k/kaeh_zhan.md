@@ -8,3 +8,8 @@ kaeh8 zhan1
 kaeh8 zhan5
 > 如东方言词典
 - 算账，对账。
+
+# 轧账
+kaeh8 zhan5
+> 如皋方言词典
+- 核算帐目。

@@ -8,3 +8,8 @@ lv6 tin1 mo2 gan1
 lv6 tin1 mo2 gan1
 > 如皋方言词典
 - 指性关系混乱的女性。
+
+# 露天茅港
+lv6 tin1 mo2 gan3
+> 如皋方言词典
+- 见"搭搭上"。
