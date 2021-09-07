@@ -1,5 +1,5 @@
 # 出纰漏
-chueh7 pi2 leu6
+chueh7 pi1 leu6
 > 如东方言词典
 - 出差错。
 - 闯祸。
