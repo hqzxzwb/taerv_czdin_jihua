@@ -11,3 +11,8 @@ sheu6 jien5
 sheu3 jien5
 > 如皋方言词典
 - 握力。
+
+# 手巾
+sheu3 jien1
+> 如东方言词典
+- 毛巾。

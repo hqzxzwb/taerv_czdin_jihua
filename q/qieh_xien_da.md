@@ -7,3 +7,8 @@ qieh7 xien da6
 qieh7 xien1 da6
 > 如皋方言词典
 - 贪多，贪心。
+
+# 吃心大
+qieh7 xien1 da6
+> 如东方言词典
+- 占有的欲望大。例如:不能～。
