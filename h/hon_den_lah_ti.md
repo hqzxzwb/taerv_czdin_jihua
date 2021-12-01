@@ -6,7 +6,7 @@ hon2 den1 lah8 ti6
 # 红灯落地
 hon2 den1 lah8 ti6
 > 如皋方言词典
-- 同“二月二”（1）。
+- 同“二月二”❶。
 
 # 红灯落地
 hon2 den1 lah8 ti6
