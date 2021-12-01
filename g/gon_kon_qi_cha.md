@@ -6,4 +6,4 @@ gon1 kon6 qi5 cha1
 # 公共汽车
 gon1 kon6 qi5 cha1
 > 如皋方言词典
-- 见"搭搭上"。
+- 见“搭搭上”。

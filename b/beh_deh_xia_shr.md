@@ -6,4 +6,4 @@ beh7 deh7 xia6 shr6
 # 不得下事
 beh7 deh7 xia6 shr6
 > 如皋方言词典
-- 见"不依"。
+- 见“不依”。

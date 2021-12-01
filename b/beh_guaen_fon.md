@@ -6,4 +6,4 @@ beh7 guaen1 fon1
 # 不关风
 beh7 guaen1 fon1
 > 如皋方言词典
-- 见"豁䶕齿"。
+- 见“豁䶕齿”。

@@ -10,4 +10,4 @@ ngaen3 ngaen r
 # 眼眼儿
 ngaen3 ngaen3 r
 > 如皋方言词典
-- 见"奀奀儿"。
+- 见“奀奀儿”。

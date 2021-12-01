@@ -6,4 +6,4 @@ mun3 mun3 tah8 tah8 dii
 # 满满喥喥的
 mun3 mun3 tah8 tah8 dii
 > 如皋方言词典
-- 见"急急轧轧的"。
+- 见“急急轧轧的”。

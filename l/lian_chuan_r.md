@@ -6,4 +6,4 @@ lian2 chuan2 r
 # 凉床儿
 lian2 chuan2 r
 > 如皋方言词典
-- 见"竹床儿"。
+- 见“竹床儿”。

@@ -6,4 +6,4 @@ chueh7 qi5 tae6 r
 # 出气袋儿
 chueh7 qi5 tae6 r
 > 如皋方言词典
-- 见"出气筒"。
+- 见“出气筒”。

@@ -6,4 +6,4 @@ lieu2 heu6 sheu3
 # 留後手
 lieu2 heu6 sheu3
 > 如皋方言词典
-- 见"存後手"。
+- 见“存後手”。

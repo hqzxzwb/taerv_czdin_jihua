@@ -6,4 +6,4 @@ sz5 jiah7 poh8，ga1 ga1 shoh8
 # 四脚白，家家熟
 sz5 jiah7 poh8 ga1 ga1 shoh8
 > 如皋方言词典
-- 见"白脚猫儿"。
+- 见“白脚猫儿”。

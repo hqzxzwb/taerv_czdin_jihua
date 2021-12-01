@@ -6,4 +6,4 @@ ngen6 zhr5 zhr5 dii
 # 硬至至的
 ngen6 zhr5 zhr5 dii
 > 如皋方言词典
-- 见"活剥剥的"。
+- 见“活剥剥的”。
