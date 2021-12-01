@@ -2,7 +2,7 @@
 guae1 guae1 lon2 dii don1
 > 如东方言词典
 - 表示惊讶。
-  - ～!这们大呀！
+  - ～！这们大呀！
 
 # 乖乖龙啲冬
 guae1 guae1 lon2 dii don1

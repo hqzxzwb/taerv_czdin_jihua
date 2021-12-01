@@ -8,7 +8,7 @@ chen5 jiah7 r
 # 剩脚儿
 chen5 jiah7 r
 > 如皋方言词典
-- 剩下的东西:～菜、～货。
+- 剩下的东西：～菜、～货。
 
 # 剩脚儿
 chen5 jiah7 r

@@ -6,4 +6,4 @@ nieu3 teu2 kuaeh8 jien3 dii
 # 扭头□颈的
 nieu3 teu2 kuaeh8 jien3 dii
 > 如皋方言词典
-- 责语:指头颈扭动作态。Kuaeh8，写作口十重叠，类似⊕中横线竖线出头。
+- 责语：指头颈扭动作态。Kuaeh8，写作口十重叠，类似⊕中横线竖线出头。
