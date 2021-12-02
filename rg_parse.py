@@ -31,7 +31,7 @@ for line in open(input,encoding="utf-8-sig"):
             print(file=f)
         print("# %s\n%s\n> 如皋方言词典" % (gs[0][0], py),file=f)
         if line:
-            line=re.sub("\(\d\)","",line.strip()).strip().replace("例如：","\n  - ").replace("：","\n  - ")
+            line=re.sub("（\d）","\n- ",line.strip()).strip("\n- ").replace("例如：","\n  - ").replace("：","\n  - ")
             print("-", line,file=f)
     else:
         print(line, "解析失败")

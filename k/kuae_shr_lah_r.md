@@ -8,3 +8,8 @@ kuae1 shr3 lah8 r
 kuae1 shr3 lah8 r
 > 如皋方言词典
 - 见“揹屎笿儿”。
+
+# 㧟屎笿儿
+kuae3 shr3 lah8 r
+> 如皋方言词典
+- 拾粪肥的笿。
