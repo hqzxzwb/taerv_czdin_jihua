@@ -1,4 +1,4 @@
 # 满屋三间的
-mun3 voh7 saen1 gaen1 dii
+mun3 oh7 saen1 gaen1 dii
 > 如皋方言词典
 - 家里充满了、布满了：家里有啊猫儿屎，～的臭味；叫他晒粮饭，脱得～的！
