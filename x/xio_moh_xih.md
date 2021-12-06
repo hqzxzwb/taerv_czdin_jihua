@@ -7,3 +7,8 @@ xio3 moh8 xih7
 xio3 moh8 xih7
 > 如皋方言词典
 - 小麦面粉。
+
+# 小麦糏
+xio3 moh8 xih7
+> 如东方言词典
+- 小麦磨成的面粉。
