@@ -7,3 +7,8 @@ ngaeh7 teu2
 ngaeh7 teu
 > 如皋方言词典
 - 抵押品。
+
+# 鸭头
+ngaeh7 teu2
+> 如东方言词典
+- 鸭科动物家鸭头。
