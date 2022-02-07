@@ -7,3 +7,8 @@ pi1 leu6 gon1 sz1
 pi2 leu6 gon1 sz1
 > 如东方言词典
 - 比喻经常闯祸的人。
+
+# 纰漏公司
+pi1 leu6 gon1 sz1
+> 东台方言词典
+- ［喻］麻烦惹大了。

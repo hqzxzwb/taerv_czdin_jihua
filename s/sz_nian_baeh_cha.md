@@ -7,3 +7,8 @@ sz5 nian3 baeh7 cha5
 sz5 nian3 baeh7 cha5
 > 如东方言词典
 - 睡觉时手脚岔开，姿势难看。例如：～的躺吖床上。
+
+# 四仰八叉
+sz5 nian3 baeh7 cha5
+> 东台方言词典
+- 指人呈"大"字形仰卧，姿态不雅。

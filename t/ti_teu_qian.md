@@ -7,3 +7,8 @@ ti5 teu2 qian6
 ti5 teu2 qian6
 > 如皋方言词典
 - 理发师。
+
+# 剃头匠
+ti5 teu2 qian
+> 东台方言词典
+- 理发师的俗称。

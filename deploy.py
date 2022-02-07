@@ -26,6 +26,7 @@ def get_letters(dirs):
     return lines
 
 def validate(py0, word):
+    py0 = re.sub("-[a-z1-8]+", "", py0)
     syllables = re.split("[^a-z1-8]+", py0)
     s=re.sub("[，—、；×…]","",word)
     s=re.sub("（.*?）","",s)
