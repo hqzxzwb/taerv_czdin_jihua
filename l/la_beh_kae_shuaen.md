@@ -1,5 +1,5 @@
 # 拉不开闩
-la1 beh7 kae2 shuaen1
+la1 beh7 kae1 shuaen1
 > 如东方言词典
 - 比喻非常忙碌，非常困难。
   - 王光明忙吖～。
