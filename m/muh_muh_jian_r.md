@@ -1,5 +1,5 @@
 # 末末礓儿
-muh8 muh8 jian1 r
+muh8 muh8 jian3 r
 > 如东方言词典
 - 最细小的。
   - 这是～。
