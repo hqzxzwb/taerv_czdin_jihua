@@ -97,8 +97,8 @@ def parse_cont(cont, fname):
             example_count += 1
             meaning += "｜" if example_count > 1 else "："
             example = line.strip().replace("-", "").strip()
-            if "/" in example:
-                example = example.replace("/", "<sub>")+"</sub>"
+            # ~ if "/" in example:
+                # ~ example = example.replace("/", "<sub>")+"</sub>"
             meaning += example
     #例句的冒号前不显示句号
     meaning = meaning.replace("。：", "：").replace("~", "～").strip()
