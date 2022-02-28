@@ -27,8 +27,9 @@ def get_letters(dirs):
 
 def validate(py0, word):
     py0 = re.sub("-[a-z1-8]+", "", py0)
+    py0 = re.sub("（.*?）", "", py0)
     syllables = re.split("[^a-z1-8]+", py0)
-    s=re.sub("[，—、；×…]","",word)
+    s=re.sub("[，—、；×…？]","",word)
     s=re.sub("（.*?）","",s)
     if len(s) != len(syllables):
         print("【%s】(%d)跟拼音%s(%d)不对应" % (word,len(s), py0,len(syllables)))
