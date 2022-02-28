@@ -8,3 +8,8 @@ go3 qieh7 go3 baeh7
 go3 qieh7 go3 baeh7
 > 如皋方言词典
 - 胡搅蛮缠，不讲道理，事理错乱。
+
+# 搅七搅八
+go3 qieh7 go3 baeh7
+> 东台方言词典
+- 事情头绪多，理不清楚。
