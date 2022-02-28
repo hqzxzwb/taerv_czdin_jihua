@@ -28,5 +28,6 @@ for line in open(sys.argv[1],encoding="utf-8-sig"):
 			print(file=f)
 	else:
 		print("# %s\n%s\n> 东台方言词典" % (hz, py),file=f)
-		line=re.sub("（\d）","\n- ",line.strip()).strip("\n- ").replace("例如：","\n  - ").replace("：","\n  - ")
+		line = line.replace("/","｜")
+		line=re.sub("[①-⑳]","\n- ",line.strip()).strip("\n- ").replace("例如：","\n  - ").replace("：","\n  - ")
 		print("-", line,file=f)
