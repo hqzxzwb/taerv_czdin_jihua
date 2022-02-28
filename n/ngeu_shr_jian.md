@@ -1,4 +1,4 @@
-# 呕屎礓吖
-ngeu3 shr3 jian3 nga
+# 呕屎礓
+ngeu3 shr3 jian3
 > 东台方言词典
 - （詈语）指胡说八道。
