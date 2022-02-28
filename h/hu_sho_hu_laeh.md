@@ -5,7 +5,7 @@ hu3 sho1 hu3 laeh8
   - 身上～的，难过。
 
 # 火烧火辣
-hu3 sho1 hu3 laeh7
+hu3 sho1 hu3 laeh8
 > 东台方言词典
 - 热辣辣的感觉
   - 那天子身上～的，嘴唇也脱咖皮。
