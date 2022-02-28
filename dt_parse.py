@@ -14,7 +14,7 @@ for line in open(sys.argv[1],encoding="utf-8-sig"):
 			f.close()
 		hz, py = re.findall('^【(.+)】(.+)$',line)[0]
 		#print(hz,py)
-		hz = re.sub("[\-\=\*\?]", "", hz)
+		hz = re.sub("[\-\+\=\*\?]", "", hz)
 		py=py.strip()
 		fname=re.sub("/[a-z1-8]+", "", py)
 		fname=re.sub("[^a-z1-8]+", "_", fname)
