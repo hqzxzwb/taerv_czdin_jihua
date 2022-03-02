@@ -70,6 +70,7 @@ def parse_pinyin(pinyin):
     """A B/C→AB, AC"""
     if "/" not in pinyin:
         return pinyin
+    pinyin = re.sub("([a-z]+)(\d)/(\d)", "\\1\\2/\\1\\3", pinyin)
     py_list = [i.split("/") for i in pinyin.split(" ")]
     return ", ".join(map(" ".join, product(*py_list)))
 
