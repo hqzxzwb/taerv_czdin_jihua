@@ -56,6 +56,7 @@ def lower_er(py0, word):
 
 def get_path(py0):
     """获取文件路径"""
+    py0 = re.sub("-[a-z1-8]+", "", py0)
     py0 = re.sub(r"\d", "", re.sub("[^a-z1-8]+", "_", py0))
     py0 = py0.rstrip("_")
     return os.path.join(py0[0], "%s.md" % py0)
@@ -64,7 +65,8 @@ def check_path(path, py0, word):
     """检查词语的文件名是否正确"""
     should_path = get_path(py0)
     if not path.endswith(should_path):
-        print("【%s】的位置不对：mv %s %s" %(word, path, should_path))
+        cmd = "meld" if os.path.exists(should_path) else "mv"
+        print("【%s】的位置不对：%s %s %s" %(word, cmd, path, should_path))
 
 def parse_pinyin(pinyin):
     """A B/C→AB, AC"""
