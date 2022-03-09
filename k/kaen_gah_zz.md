@@ -11,3 +11,8 @@ kaen1 gah7 zz
 kaen1 gah7 zz
 > 如皋方言词典
 - 合金辅币，面值角、分。
+
+# 铅角子
+kaen1 gah7 zz
+> 东台方言词典
+- 硬币。

@@ -7,3 +7,9 @@ zhaen5 nga zha5 hae
 zhaen5 nga zha5 hae
 > 如皋方言词典
 - 一时间。
+
+# 站吖这许
+zhaen5 nga zha5 hae
+> 东台方言词典
+- 形容很快，连移动脚步都不需要
+  - 他一喊，我～就到啊。

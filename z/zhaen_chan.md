@@ -7,3 +7,8 @@ zhaen5 chan2
 zhaen5 chan2
 > 如皋方言词典
 - 见“经长”。
+
+# 站常
+zhaen5 chan2
+> 东台方言词典
+- 可以持久，常态化。

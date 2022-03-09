@@ -7,3 +7,8 @@ tin3 fei2 pi5 ngaen3
 tin3 fei2 pi5 ngaen3
 > 如东方言词典
 - 比喻巴结有钱有势的人。
+
+# 舔肥屁眼
+tin3 fei2 pi5 ngaen3
+> 东台方言词典
+- ［引］与"拍马屁"同义。也作"舔热屁眼"。

@@ -16,7 +16,7 @@ for line in open(sys.argv[1],encoding="utf-8-sig"):
 		#print(hz,py)
 		hz = re.sub("[\-\+\=\*\?]", "", hz)
 		py=py.strip()
-		fname=re.sub("/[a-z1-8]+", "", py)
+		fname=re.sub("[/-][a-z1-8]+", "", py)
 		fname=re.sub("[^a-z1-8]+", "_", fname)
 		fname=re.sub("\d","",fname)
 		fname = fname.rstrip("_")
