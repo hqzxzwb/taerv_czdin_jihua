@@ -1,4 +1,4 @@
 # 牵之游
-qin1 zhv1 ieu2
+qin1 zhr1 ieu2
 > 如皋方言词典
 - （辶）边过迅。
