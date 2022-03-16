@@ -1,5 +1,5 @@
 # 冒里冒失的
-mo6 li mo6 sheh7 dii
+mo6 lii mo6 sheh7 dii
 > 东台方言词典
 - 突如其来的
   - 昨朝～来啊场雨，衣服都不曾来得洎收。
