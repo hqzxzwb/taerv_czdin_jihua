@@ -1,4 +1,4 @@
 # 甚的花样
-shen2 ni2 hua1 ian
+shen2 nii hua1 ian
 > 如东方言词典
 - 什么手段，什么办法。例如：看看他能玩～？
