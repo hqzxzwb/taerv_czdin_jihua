@@ -1,4 +1,4 @@
 # 甚的娘儿
-shen2 ni2 nian2 r
+shen2 nii nian2 r
 > 如东方言词典
 - 什么样的人物。例如：一班～！
