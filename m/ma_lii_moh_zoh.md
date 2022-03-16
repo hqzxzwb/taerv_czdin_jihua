@@ -1,4 +1,4 @@
 # 麻里木足
-ma2 li moh7 zoh7
+ma2 lii moh7 zoh7
 > 东台方言词典
 - 麻木不仁，不上规矩。
