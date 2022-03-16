@@ -1,4 +1,4 @@
 # 癞里巴锔
-lae6 li ba1 jioh7
+lae6 lii ba1 jioh7
 > 东台方言词典
 - 不光滑。又称"癞疤核桃"。
