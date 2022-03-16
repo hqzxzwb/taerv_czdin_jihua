@@ -5,7 +5,7 @@ tin1 lah8 shuei3
 
 
 # 天落水
-tin1 lah7 shuei3
+tin1 lah8 shuei3
 > 东台方言词典
 - 同"天水"。
 - ［喻］毫不费力得到的东西
