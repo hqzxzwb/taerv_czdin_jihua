@@ -1,11 +1,11 @@
 # 洒亮的
-sha3 lian6 dii
+sa3 lian6 dii
 > 如皋方言词典
 - 很亮。
 - 很光洁。
 - 很耀眼。
 
 # 洒亮的
-sha3 lian6 dii
+sa3 lian6 dii
 > 东台方言词典
 - 形容非常亮堂、闪光。
