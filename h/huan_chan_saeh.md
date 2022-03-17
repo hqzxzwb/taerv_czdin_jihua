@@ -1,4 +1,4 @@
 # 荒场楔
-huan1 chan shaeh7
+huan1 chan saeh7
 > 如皋方言词典
 - 詈语。毒骂某人死无葬身之地，只能朝荒场中硬插。
