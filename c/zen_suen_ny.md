@@ -1,4 +1,4 @@
 # 曾孙女
-cen2 suen1 ny3
+zen1 suen1 ny3
 > 如东方言词典
 - 儿子的孙女。
