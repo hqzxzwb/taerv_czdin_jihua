@@ -7,3 +7,8 @@ meh8 teu2 can1 ien
 meh8 teu2 can1 ien
 > 如皋方言词典
 - 喻无中心、乱哄、乱干。
+
+# 没头苍蝇
+meh8 teu2 can1 ien
+> 东台方言词典
+- ［喻］做事没主张，没目标。

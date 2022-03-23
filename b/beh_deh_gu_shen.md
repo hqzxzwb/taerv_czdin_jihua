@@ -9,3 +9,8 @@ beh7 deh7 gu5 shen1
 beh7 deh7 gu5 shen1
 > 如皋方言词典
 - 不能解脱。
+
+# 不得过身
+beh7 deh7 gu5 shen1
+> 东台方言词典
+- 无法脱身。

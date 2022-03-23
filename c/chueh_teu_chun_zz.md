@@ -10,3 +10,9 @@ chueh7 teu2 chun2 zz
 chueh7 teu2 chun2 zz
 > 如皋方言词典
 - 喻勇于带头斗争的人：俗云“～先烂”。
+
+# 出头椽子
+chueh7 teu2 chun2 zz
+> 东台方言词典
+- ［喻］指带头做某事的人
+  - （俗语）～先烂。

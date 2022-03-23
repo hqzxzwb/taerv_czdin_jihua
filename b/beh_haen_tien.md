@@ -8,3 +8,8 @@ beh7 haen6 tien6
 beh7 haen6 tien6
 > 如皋方言词典
 - 不一定，不限制：可买可不买，～！
+
+# 不限定
+beh7 haen6 tien6
+> 东台方言词典
+- 不一定。（此处限读若旱）

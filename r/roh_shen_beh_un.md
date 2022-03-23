@@ -11,3 +11,9 @@ roh8 shen beh7 un1
 roh8 shen2 beh7 un1
 > 如东方言词典
 - 不安神。例如：一天到晚～。
+
+# 肉神不安
+roh8 shen2 beh7 un1
+> 东台方言词典
+- 坐不住，好动；
+- 形容恐慌、难受。
