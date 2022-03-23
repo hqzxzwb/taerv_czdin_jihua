@@ -7,3 +7,8 @@ zhen3 shen1 rih8
 zhen3 shen1 rih8
 > 如东方言词典
 - 虚岁逢十的生日。一般要吃面祝寿。
+
+# 整生日
+zhen3 shen1 rih7
+> 东台方言词典
+- 逢十岁的生日。

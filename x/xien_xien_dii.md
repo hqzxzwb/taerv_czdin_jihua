@@ -7,3 +7,9 @@ xien2 xien2 dii
 xien5 xien5 dii
 > 如皋方言词典
 - 见“行行的”。
+
+# …行行的
+xien2 xien2 dii
+> 东台方言词典
+- 指某种动作正在进行
+  - 手术做得～，突然停吖电。

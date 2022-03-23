@@ -7,3 +7,8 @@ dien3 nga tin1
 dien3 nga tin1
 > 如皋方言词典
 - 至多：如皋到海安～20公里。
+
+# 顶吖天
+dien3 nga tin1
+> 东台方言词典
+- 形容不能再高了。

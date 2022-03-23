@@ -7,3 +7,8 @@ lian2 iuh8 zz
 lian2 iuh8 zz
 > 如皋方言词典
 - 月亮。
+
+# 凉月子
+lian2 iuh8 zz
+> 东台方言词典
+- 月亮。

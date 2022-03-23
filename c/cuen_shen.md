@@ -8,3 +8,8 @@ cuen2 shen2
 cuen2 shen2
 > 如皋方言词典
 - 留神，小心。
+
+# 存神
+cuen2 shen2
+> 东台方言词典
+- 当心。

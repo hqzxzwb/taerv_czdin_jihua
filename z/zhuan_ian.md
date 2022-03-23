@@ -7,3 +7,8 @@ zhuan1 ian2
 zhuan1 ian2
 > 如东方言词典
 - 假装。
+
+# 装佯
+zhuan1 ian2
+> 东台方言词典
+- 假装不知道。

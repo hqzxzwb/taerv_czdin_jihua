@@ -6,3 +6,8 @@ tien5 bieh7
 tien5 bieh7
 > 如皋方言词典
 - 偷听。
+
+# 听壁
+tien5 bieh7
+> 东台方言词典
+- 偷听别人谈话。
