@@ -1,3 +1,8 @@
 # 穷𠵹丧，富烧香
 qion2 gan1 san1 fv5 sho1 xian1
 > 如皋方言词典
+
+# 穷𠵹丧，富烧香
+qion2 gan1 san1 fv5 sho1 xian1
+> 东台方言词典
+- （俗语）因为穷困而争吵不休，因为富有而祈求更富。

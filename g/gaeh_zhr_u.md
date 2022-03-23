@@ -7,3 +7,8 @@ gaeh7 zhr1 u1
 gaeh7 zhr1 u1
 > 如皋方言词典
 - 腋窝。
+
+# 胳肢窝
+gaeh7 zhr1 u1
+> 东台方言词典
+- 腋窝。
