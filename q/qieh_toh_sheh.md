@@ -7,4 +7,3 @@ qieh7 toh8 sheh8
 qieh7 toh8 sheh8
 > 东台方言词典
 - 一个人享受，占有。
-

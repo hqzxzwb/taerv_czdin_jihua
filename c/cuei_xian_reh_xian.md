@@ -7,4 +7,3 @@ cuei2 xian5 reh8 xian5
 cuei2 xian5 reh8 xian5
 > 如东方言词典
 - 跟随着走。例如：～，不要拗别。
-

@@ -7,4 +7,3 @@ gae1 xien1 lii
 gae1 xien1 lii
 > 东台方言词典
 - 指城里最繁华的地方。
-
