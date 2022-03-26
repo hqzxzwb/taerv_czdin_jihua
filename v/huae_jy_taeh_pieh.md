@@ -1,4 +1,4 @@
 # 歪嘴塌鼻
-vae1 jy3 taeh7 pieh8
+huae1 jy3 taeh7 pieh8
 > 东台方言词典
 - 形容人的五官不正，难看。也称"歪嘴毛桃"。
