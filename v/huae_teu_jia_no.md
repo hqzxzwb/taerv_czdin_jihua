@@ -1,4 +1,4 @@
 # 歪头笡脑
-vae1 teu2 jia3 no3
+huae1 teu2 jia3 no3
 > 东台方言词典
 - 形容歪歪扭扭，极不整齐。
