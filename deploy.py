@@ -58,6 +58,7 @@ def lower_er(py0, word):
 def get_path(py0):
     """获取文件路径"""
     py0 = re.sub("-[a-z1-8]+", "", py0)
+    py0 = re.sub("（.*?）", "", py0).strip()
     py0 = re.sub(r"\d", "", re.sub("[^a-z1-8]+", "_", py0))
     py0 = py0.rstrip("_")
     return os.path.join(py0[0], "%s.md" % py0)
