@@ -12,3 +12,8 @@ da6 ngaen3 xian5 xio3 ngaen3
 da6 ngaen3 xian5 xio3 ngaen3
 > 东台方言词典
 - 形容遇到难为情的事，大家面面相觑的尴尬场面。
+
+# 大眼相小眼
+da6 ngaen3 xian5 xio3 ngaen3
+> 东台方言词典
+- 形容遇到难事，大家面面相觑的尴尬场面。
