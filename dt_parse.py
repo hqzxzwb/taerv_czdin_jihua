@@ -5,10 +5,15 @@ import os,sys
 import re
 
 f=None
+hz=""
 for line in open(sys.argv[1],encoding="utf-8-sig"):
 	line = line.strip().replace("~","～").replace(" --  -- ","——").replace("★","").replace("▲","").replace("...","…")
 	if not line: continue
 	if line.startswith("【"):
+		if hz:
+			print("# %s\n%s\n> 东台方言词典" % (hz, py),file=f)
+			hz = ""
+			py = ""
 		if f:
 			#print(file=f)
 			f.close()
@@ -32,3 +37,9 @@ for line in open(sys.argv[1],encoding="utf-8-sig"):
 		line = line.replace("/","｜")
 		line=re.sub("[①-⑳]","\n- ",line.strip()).strip("\n- ").replace("例如：","\n  - ").replace("：","\n  - ")
 		print("-", line,file=f)
+		hz = ""
+		py = ""
+if hz:
+	print("# %s\n%s\n> 东台方言词典" % (hz, py),file=f)
+	hz = ""
+	py = ""
