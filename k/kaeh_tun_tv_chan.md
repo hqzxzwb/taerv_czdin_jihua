@@ -1,4 +1,4 @@
 # 掐断肚肠
-kaeh7 tun6 dv3 chan2
+kaeh7 tun6 tv6 chan2
 > 如皋方言词典
 - 断然舍弃、放开，不再留恋、限制。
