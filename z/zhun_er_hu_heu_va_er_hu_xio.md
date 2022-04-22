@@ -1,5 +1,5 @@
 # 砖儿何厚，瓦儿何𣻏
-zhun1 eh hu2 heu6 va3 eh hu2 xio1
+zhun1 er hu2 heu6 va3 er hu2 xio1
 > 东台方言词典
 - ［喻］人情冷暖世态炎凉
   - 他冷眼旁观周围一切，感慨地说
