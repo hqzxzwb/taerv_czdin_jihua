@@ -1,5 +1,5 @@
 # 掠进眼
-laeh8 jien5 ngaen3
+liah8 jien5 ngaen3
 > 东台方言词典
 - 偶尔一见，就引起关注
   - 他那天表演时捱她～，一见钟情。
