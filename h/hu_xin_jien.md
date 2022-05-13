@@ -1,9 +1,9 @@
-# 𧑚䘆筋
-hun2 xin1 jien1
+# 䗙䘆筋
+hu2 xin1 jien1
 > 如皋方言词典
 - 曲张的静脉血管。
 
-# 𧑚䘆筋
-hun2 xin1 jien1
+# 䗙䘆筋
+hu2 xin1 jien1
 > 如皋方言词典
 - 皮下主静脉血管。
