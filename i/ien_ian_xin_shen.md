@@ -12,3 +12,9 @@ ien1 ian2 xin1 shen1
 ien1 ian2 xin1 shen1
 > 东台方言词典
 - 帮人看风水的人。
+
+# 阴阳先生
+ien1 ian2 xin1 shen
+> 兴化方言词典
+- （借）阴阳怪气的人
+  - 他是～，说的话半真半假，不作数。

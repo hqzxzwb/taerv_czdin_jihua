@@ -7,3 +7,8 @@ jia1 lieu2, jia3 lieu2, jia3 lieu
 jia3 lieu
 > 如东方言词典
 - 蝉科昆虫黑蚱蝉，也称蝉。
+
+# 姐䗜
+jia3 lieu2
+> 兴化方言词典
+- 蝉。

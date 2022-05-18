@@ -7,3 +7,8 @@ teu2 faeh7 qian1 zz
 teu2 faeh7 qian1 zz
 > 东台方言词典
 - 理发时剪下的碎头发。
+
+# 头发呛子
+teu2 faeh7 qian1 zz
+> 兴化方言词典
+- 理发时产生的头发碎屑。

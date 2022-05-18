@@ -7,3 +7,9 @@ ieh7 gu5 ha1 ha1 laen3 gu5 xio5
 ieh7 gu ha1 ha1 laen3 gu xio5
 > 东台方言词典
 - 形容处理问题的结果让双方都满意。
+
+# 一个哈哈两个笑
+ieh7 gu ha1 ha1 laen3 gu xio5
+> 兴化方言词典
+- 皆大欢喜
+  - 这次边界水利纠纷，两县领导高姿态处理得好，结果～，两边干部群众全满意。

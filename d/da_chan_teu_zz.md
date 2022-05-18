@@ -12,3 +12,8 @@ da6 chan2 teu2 zz
 da6 chan2 teu2 zz
 > 如皋方言词典
 - 见“胴疘”。
+
+# 大肠头子
+da6 chan2 teu2 zz
+> 兴化方言词典
+- 直肠末端连接肛门的部分。

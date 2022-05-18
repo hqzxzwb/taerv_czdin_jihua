@@ -8,3 +8,9 @@ gen1 ben3 jia1 xian1
 gen1 ben3 jia1 xian1
 > 如皋方言词典
 - 有关某人的全部情况，包括隐私。
+
+# 根本家乡
+gen1 ben3 jia1 xian1
+> 兴化方言词典
+- 事物的底细
+  - 他的～我俫一清二楚，没问题。

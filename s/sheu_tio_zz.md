@@ -7,3 +7,9 @@ sheu5 tio2 zz
 sheu5 tio2 zz
 > 如皋方言词典
 - 形容人瘦而高。
+
+# 手条子
+sheu3 tio2 zz
+> 兴化方言词典
+- （贬）手段
+  - 他～辣。

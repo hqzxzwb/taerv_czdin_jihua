@@ -8,3 +8,9 @@ ieh7 gv laeh8 taeh
 ieh7 gv3 laeh8 taeh
 > 东台方言词典
 - 同“一塌刮子”，以及“哈不郎当”“海旮老儿”。
+
+# 一股邋遢
+ieh7 gv laeh8 taeh
+> 兴化方言词典
+- 全部、所有的
+  - 他把所有的脚货～全拉走啊。

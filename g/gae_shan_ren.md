@@ -7,3 +7,9 @@ gae1 shan ren2
 gae1 shan ren2
 > 东台方言词典
 - 指城里人。
+
+# 街上人
+gae1 shan ren2
+> 兴化方言词典
+- 集镇和城市的人
+  - 他是～。

@@ -7,3 +7,9 @@ dio5 ngaen3 sho1
 dio5 ngaen3 sho1
 > 如皋方言词典
 - 外眼角上扬的眼型。
+
+# 吊眼梢
+dio5 ngaen3 sho1
+> 兴化方言词典
+- 两角上翘的丹凤眼
+  - 勾郎鼻子～。

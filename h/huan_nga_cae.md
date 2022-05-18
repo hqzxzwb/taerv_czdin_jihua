@@ -7,3 +7,8 @@ huan2 nga2 cae5
 huan2 nga cae5
 > 如皋方言词典
 - 大白菜。
+
+# 黄芽菜
+huan2 nga2 cae5
+> 兴化方言词典
+- 大白菜。

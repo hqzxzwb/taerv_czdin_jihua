@@ -29,7 +29,7 @@ def validate(py0, word):
     py0 = re.sub("-[a-z1-8]+", "", py0)
     py0 = re.sub("（.*?）", "", py0).strip()
     syllables = re.split("[^a-z0-8]+", py0)
-    s=re.sub("[，—、：；×…？]","",word)
+    s=re.sub("[，—、：；×…？\*]","",word)
     s=re.sub("（.*?）","",s)
     s=re.sub("/.+", "", s)
     if len(s) != len(syllables):

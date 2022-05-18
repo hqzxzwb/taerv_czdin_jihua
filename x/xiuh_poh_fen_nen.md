@@ -8,3 +8,9 @@ xiuh7 poh8 fen3 nen6
 xiuh7 poh8 fen3 nen6
 > 东台方言词典
 - 形容皮肤白嫩。
+
+# 雪白粉嫩
+xiuh7 poh8 fen3 nen6
+> 兴化方言词典
+- 形容皮肤又白又嫩
+  - 桂香今年十八，长得～的。

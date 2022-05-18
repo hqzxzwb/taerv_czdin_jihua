@@ -8,3 +8,9 @@ fv2 teu2 zhon3 lin3
 fv2 teu2 zhon3 lin3
 > 东台方言词典
 - 形容浮肿的外貌。
+
+# 浮头肿脸
+fv2 teu2 zhon3 lin3
+> 兴化方言词典
+- 面部浮肿
+  - 他病吖几天，睏得～的。胖得～的。

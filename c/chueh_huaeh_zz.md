@@ -8,3 +8,9 @@ chueh7 huaeh7 zz
 chueh7 huaeh7 zz
 > 如皋方言词典
 - 出乱子。
+
+# 出豁子
+chueh7 huaeh7 zz
+> 兴化方言词典
+- 出纰漏、出岔子
+  - 你俫不能这吖乱来，弄不好要～。

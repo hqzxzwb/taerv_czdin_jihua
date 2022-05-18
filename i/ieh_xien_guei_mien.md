@@ -7,3 +7,9 @@ ieh7 xien1 guei1 mien6
 ieh7 xien1 guei1 mien6
 > 东台方言词典
 - 做事需要集中全部精力，心无二用，扎扎实实。
+
+# 一心皈命
+ieh7 xien1 guei1 mien6
+> 兴化方言词典
+- 指心思、意念专一
+  - 你不要七思八想，～的家来过日子吧！

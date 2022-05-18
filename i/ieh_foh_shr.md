@@ -16,3 +16,8 @@ ieh7 foh7 shr2
 ieh7 foh7 shr2
 > 东台方言词典
 - 一昼夜。
+
+# 一复时
+ieh7 foh7 shr2
+> 兴化方言词典
+- 一昼夜。

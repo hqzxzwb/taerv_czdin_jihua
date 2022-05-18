@@ -7,3 +7,9 @@ vei6 keh7 saen1 shen1 mi3
 vei6 keh7 saen1 shen1 mi3
 > 东台方言词典
 - 为了招待客人，总要多一些开支花销。
+
+# 为客三升米
+vei6 keh7 saen1 shen1 mi3
+> 兴化方言词典
+- 为招待客人而增加开支
+  - 俗说～，来啊人总归要弄点酒啊菜的招待招待。
