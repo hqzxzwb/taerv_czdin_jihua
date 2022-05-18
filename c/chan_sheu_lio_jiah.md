@@ -1,5 +1,5 @@
 # 长手蹽脚
-chan2 sheu3 lio1 jiah7
+chan2 sheu3 lio6 jiah7
 > 如东方言词典
 - 手脚很长，走路时，脚腿向前甩动。
   - 这个人～的，样子难看。
