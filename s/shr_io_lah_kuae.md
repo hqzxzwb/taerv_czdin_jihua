@@ -1,5 +1,5 @@
 # 陁腰落㧟
-shr2 io1 lah8 kuae1
+shr2 io lah8 kuae3
 > 兴化方言词典
 - 衣服因肥大而不整
   - 这件褂子～的，不好看。
