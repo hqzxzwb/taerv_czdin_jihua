@@ -1,4 +1,4 @@
 # 带吃带㧟
-dae5 qieh7 dae5 kuae1
+dae5 qieh7 dae5 kuae6
 > 东台方言词典
 - 吃了人家的，走时还带了人家送的东西。
