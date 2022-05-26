@@ -7,3 +7,8 @@ laen3 van2 jien1
 laen3 van2 jien1
 > 东台方言词典
 - 极端懒惰的人。
+
+# 懒王精
+laen3 van2 jien1
+> 兴化方言词典
+- 偷懒的人。

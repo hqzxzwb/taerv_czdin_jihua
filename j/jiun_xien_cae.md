@@ -12,3 +12,8 @@ jiun3 xien cae5
 jiun3 xien1 cae5
 > 东台方言词典
 - 见"牛心菜"。
+
+# 卷心菜
+jiun3 xien1 cae5
+> 兴化方言词典
+- 即包心菜（结球甘篮）。

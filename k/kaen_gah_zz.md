@@ -16,3 +16,8 @@ kaen1 gah7 zz
 kaen1 gah7 zz
 > 东台方言词典
 - 硬币。
+
+# 铅角子
+kaen1 gah7 zz
+> 兴化方言词典
+- 金属辅币。

@@ -8,3 +8,8 @@ saen1 zheh7 sheu3
 saen1 zheh7 sheu3
 > 东台方言词典
 - 扒手，小偷。
+
+# 三只手
+saen1 zheh sheu3
+> 兴化方言词典
+- 掱手，扒手：昨儿在公共汽车上捱～掱去几十块钱。
