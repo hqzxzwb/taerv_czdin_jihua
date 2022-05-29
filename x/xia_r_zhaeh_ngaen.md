@@ -1,5 +1,5 @@
 # 虾儿眨眼
-xiaa1 r zhaeh7 ngaen3
+xia1 r zhaeh7 ngaen3
 > 如东方言词典
 - 形容时间很短。
   - 毛毛睡啊床上，～功夫就醒吖。
