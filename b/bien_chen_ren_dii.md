@@ -1,4 +1,4 @@
-# 冰净人的
-bien1 chen1 ren2 dii
+# 冰㵾人的
+bien1 chen6 ren2 dii
 > 如皋方言词典
 - 像接触冰块一样有冷痛感：他的手脚总是～。
