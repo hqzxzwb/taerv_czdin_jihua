@@ -1,7 +1,7 @@
 # 𤵥心寡辣的
 co2 xien1 gua3 laeh8 dii
 > 如皋方言词典
-- 见“剐人”。
+- 见“寡人”。
 
 # 𤵥心寡辣的
 co2 xien1 gua3 laeh dii
