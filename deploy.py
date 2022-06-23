@@ -131,7 +131,7 @@ def write_index():
             check_path(fname, py0, word)
             link = LINK_FORMAT % (fname.replace("\\","/"), word)
             if source:
-                source = "<sup>[%s]</sup> " % source.rstrip("方言词典")
+                source = "<sup>[%s]</sup> " % source.rstrip("方言词典").rstrip("方言志")
             count += 1
             out = "<sub>%d</sub>【[%s](%s)】`%s` %s%s  \n" % (count, lower_er(py0, word), link, pinyin, source, meaning)
             lines.append(out)
