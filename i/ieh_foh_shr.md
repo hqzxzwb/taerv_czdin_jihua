@@ -21,3 +21,8 @@ ieh7 foh7 shr2
 ieh7 foh7 shr2
 > 兴化方言词典
 - 一昼夜。
+
+# 一复时
+ieh7 foh7 shr2
+> 泰县方言志
+- 一昼夜。

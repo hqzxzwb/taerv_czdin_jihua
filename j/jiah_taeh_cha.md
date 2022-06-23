@@ -16,3 +16,8 @@ jiah7 taeh8 cha1
 jiah7 taeh8 cha1
 > 兴化方言词典
 - 自行车。
+
+# 脚踏车
+jiah7 taeh cha1
+> 泰县方言志
+- 自行车。

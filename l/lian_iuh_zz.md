@@ -12,3 +12,13 @@ lian2 iuh8 zz
 lian2 iuh8 zz
 > 东台方言词典
 - 月亮。
+
+# 亮月子
+lian6 iuh8 zz
+> 泰县方言志
+- 月亮。
+
+# 凉月子
+lian2 iuh8 zz
+> 泰县方言志
+- 月亮。

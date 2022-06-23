@@ -19,3 +19,8 @@ chaen1 hua1
 chaen1 hua1
 > 兴化方言词典
 - 绣花：针儿。
+
+# 搀花
+chaen1 hua1
+> 泰县方言志
+- 绣花。

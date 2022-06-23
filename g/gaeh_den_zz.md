@@ -7,3 +7,8 @@ gaeh7 den5 zz
 gaeh7 den5 zz
 > 东台方言词典
 - 双层的中式上衣。
+
+# 夹𧘸子
+gaeh7 den5 zz
+> 泰县方言志
+- 二层布做成的衣服。

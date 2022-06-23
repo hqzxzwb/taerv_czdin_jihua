@@ -7,3 +7,8 @@ xio3 rih8 zhon1
 xio3 rih8 zhon1
 > 兴化方言词典
 - 近午时分。
+
+# 小日中
+xio3 rih8 zhon1
+> 泰县方言志
+- 上午十点左右。

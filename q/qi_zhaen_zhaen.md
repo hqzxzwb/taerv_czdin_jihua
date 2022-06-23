@@ -7,3 +7,8 @@ qi2 zhaen3 zhaen3
 qi2 zhaen3 zhaen3
 > 兴化方言词典
 - 见“齐齐整整”。
+
+# 齐崭崭
+qi2 zhaen3 zhaen3
+> 泰县方言志
+- 齐整。

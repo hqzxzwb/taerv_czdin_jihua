@@ -11,3 +11,8 @@ jien3 han6
 jien3 han
 > 东台方言词典
 - 脖子。
+
+# 颈项
+jien3 han
+> 泰县方言志
+- 头颈。

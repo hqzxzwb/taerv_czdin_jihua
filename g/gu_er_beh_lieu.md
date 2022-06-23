@@ -8,3 +8,8 @@ gu5 er3 beh7 lieu2
 gu5 er3 beh7 lieu2
 > 兴化方言词典
 - 指没注意，或听过就忘记了。
+
+# 过耳不留
+gu5 er3 beh7 lieu2
+> 泰县方言志
+- 耳边风：你咋的～的？

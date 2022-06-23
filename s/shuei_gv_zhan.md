@@ -7,3 +7,8 @@ shuei3 gv3 zhan5
 shuei3 gv3 zhan5
 > 如东方言词典
 - 指肝腹水。
+
+# 水鼓胀
+shuei3 gv3 zhan5
+> 泰县方言志
+- 肝腹水。

@@ -17,3 +17,8 @@ pu2 nae3 nae
 pu2 nae3 nae
 > 兴化方言词典
 - 外祖母。
+
+# 婆奶奶
+pu2 nae3 nae
+> 泰县方言志
+- 外婆。

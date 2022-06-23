@@ -7,3 +7,8 @@ v2 er baeh7 guae5
 v2 er2 baeh7 guae3
 > 东台方言词典
 - 同"芜而不轨"。
+
+# 无而八怪
+v2 er2 baeh7 guae5
+> 泰县方言志
+- 不正经、不上规矩：你不要～的。

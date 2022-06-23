@@ -8,3 +8,8 @@ daeh7 saeh7 r
 daeh7 saeh r
 > 兴化方言词典
 - 拖鞋。
+
+# 靼靸儿
+daeh7 saeh r
+> 泰县方言志
+- 拖鞋。

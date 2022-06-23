@@ -20,3 +20,8 @@ guae1 guae1 roh8
 guae1 guae1 roh8
 > 兴化方言词典
 - 对孩子最亲昵的称呼。
+
+# 乖乖肉
+guae1 guae1 roh8
+> 泰县方言志
+- （对小孩）小宝贝。

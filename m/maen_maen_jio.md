@@ -8,3 +8,8 @@ maen6 maen6 jio
 maen6 maen6 jio5
 > 如皋方言词典
 - 吩咐不忙，等一等。
+
+# 慢慢较
+maen6 maen6 jio5
+> 泰县方言志
+- 慢一点。

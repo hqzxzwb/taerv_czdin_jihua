@@ -7,3 +7,8 @@ hv2 lii beh7 tv2-1
 hv2 lii beh7 tv2
 > 兴化方言词典
 - 视觉模糊。
+
+# 糊里不涂
+hv2 lii beh7 tv2
+> 泰县方言志
+- 糊里糊涂：这家伙～的。

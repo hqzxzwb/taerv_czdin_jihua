@@ -14,3 +14,8 @@ beh7 deh7 gu5 shen1
 beh7 deh7 gu5 shen1
 > 东台方言词典
 - 无法脱身。
+
+# 不得过身
+beh7 deh7 gu5 shen1
+> 泰县方言志
+- 进退两难：他偷啊人家的东西，这回～吖。

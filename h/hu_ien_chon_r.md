@@ -7,3 +7,8 @@ hu3 ien chon2 r
 hu3 ien2 chon2 r
 > 兴化方言词典
 - 即“萤火虫”。
+
+# 火萤虫儿
+hu3 ien2 chon2 r
+> 泰县方言志
+- 萤火虫。

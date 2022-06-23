@@ -8,3 +8,8 @@ ba1 zhan3 xien1
 ba1 zhan3 xien1
 > 兴化方言词典
 - 手掌的中心部分。
+
+# 巴掌心
+ba1 zhan3 xien1
+> 泰县方言志
+- 手心。

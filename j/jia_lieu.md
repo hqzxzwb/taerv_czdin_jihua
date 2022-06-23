@@ -12,3 +12,8 @@ jia3 lieu
 jia3 lieu2
 > 兴化方言词典
 - 蝉。
+
+# 姐䗜
+jia3 lieu
+> 泰县方言志
+- 蝉。

@@ -7,3 +7,8 @@ xi3 xi zhv1 r
 xi3 xi zhv1 r
 > 兴化方言词典
 - 蜘蛛。
+
+# 蟢蟢蛛儿
+xi3 xi3 zhv1 r
+> 泰县方言志
+- 蜘蛛。

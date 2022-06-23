@@ -8,3 +8,8 @@ ngaen3 teu2 jin5 sheh7
 ngaen3 teu2 jin5 sheh7
 > 兴化方言词典
 - 机灵、乖觉：这小伙有～，讨喜。
+
+# 眼头见识
+ngaen3 teu2 jin5 sheh7
+> 泰县方言志
+- 察颜观色，办事机灵：我忙煞咖，你也没得一点儿～。

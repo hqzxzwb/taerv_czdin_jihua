@@ -8,3 +8,8 @@ sheh8 beh7 qiun2
 sheh8 beh qiun2
 > 兴化方言词典
 - 身体或器物有多处缺陷。
+
+# 十不全
+sheh8 beh qiun2
+> 泰县方言志
+- ①残疾人。②冗员。

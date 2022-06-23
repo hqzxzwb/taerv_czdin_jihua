@@ -8,3 +8,8 @@ kuae5 jy3 saen1 nian2 zz
 kuae5 jy3 saen1 nian2 zz
 > 东台方言词典
 - 放不住话，知道一点就抢先告诉别人。参见《古今小说》。
+
+# 快嘴三娘子
+kuae5 jy3 saen1 nian2 zz
+> 泰县方言志
+- 快嘴的女人。

@@ -12,3 +12,8 @@ gun1 cae xiun5 zz
 gun1 cae xiun5 zz
 > 兴化方言词典
 - 见“棺材瓤子”。
+
+# 棺材楦子
+gun1 cae2 xiun5 zz
+> 泰县方言志
+- 快死的老人。

@@ -7,3 +7,8 @@ zha5 cho3 mi3
 zha5 cho3 mi3
 > 兴化方言词典
 - 爆米花。
+
+# 炸炒米
+zha5 cho3 mi3
+> 泰县方言志
+- 爆米花。

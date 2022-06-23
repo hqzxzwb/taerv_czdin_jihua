@@ -8,3 +8,8 @@ faeh7 loh8
 faeh7 loh8
 > 如皋方言词典
 - 兴旺
+
+# 发禄
+faeh7 loh
+> 泰县方言志
+- 长得快。

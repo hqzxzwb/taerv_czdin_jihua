@@ -7,3 +7,8 @@ jieu3 dun1 zz
 jieu3 dun1 zz
 > 如皋方言词典
 - 长竖柄量具，多以竹制。
+
+# 酒端子
+jieu1 dun1 zz
+> 泰县方言志
+- 漕酒勺油的量器。

@@ -7,3 +7,8 @@ jieu3 tan2 r
 jieu3 tan2 r
 > 如皋方言词典
 - 酒窝。
+
+# 酒塘儿
+jieu3 tan2 r
+> 泰县方言志
+- 酒窝。

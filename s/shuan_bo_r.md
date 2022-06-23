@@ -16,3 +16,8 @@ shuan1 bo3 r
 shuan1 bo3 r
 > 东台方言词典
 - 双胞胎。
+
+# 双宝儿
+shuan1 bo3 r
+> 泰县方言志
+- 双胞胎。

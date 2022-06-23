@@ -8,3 +8,8 @@ huh8 xin1 huh8 tio5
 huh8 xin1 huh8 tio5
 > 东台方言词典
 - 新鲜的、充满生机活力的样子。
+
+# 活鲜活跳
+huh8 xin1 huh8 tio5
+> 泰县方言志
+- 新鲜：这个鱼～的。

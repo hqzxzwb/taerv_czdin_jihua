@@ -8,3 +8,8 @@ zah7 ren2 lae2 fon1
 zah7 ren2 lae2 fon1
 > 东台方言词典
 - 同“作佯形”和“人来疯”。
+
+# 作人来疯
+zah7 ren2 lae2 fon1
+> 泰县方言志
+- 在客人面前故意撒娇：这个伢儿有点～。

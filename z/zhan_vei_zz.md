@@ -7,3 +7,8 @@ zhan3 vei3 zz
 zhan3 vei3 zz
 > 兴化方言词典
 - 戏谓小儿过生日。
+
+# 长尾子
+zhan3 vei3 zz
+> 泰县方言志
+- 过生日。

@@ -7,3 +7,8 @@ geh7 bieh7 xian1
 geh7 bieh7 xian1
 > 兴化方言词典
 - 一种晚熟黄豆，在烹煮时有香味。
+
+# 隔壁香
+geh7 bieh7 xian1
+> 泰县方言志
+- 豌豆。

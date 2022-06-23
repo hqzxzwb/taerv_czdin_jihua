@@ -7,3 +7,8 @@ qian2 to3 ngah7 hua5
 qian2 to3 ngah7 hua5
 > 兴化方言词典
 - 强要别人钱财的乞丐。也作“强告化”。
+
+# 强讨恶化
+qian2 to3 ngah7 hua5
+> 泰县方言志
+- 强行要别人施舍钱物：那条船里有个～的家伙。

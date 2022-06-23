@@ -8,3 +8,8 @@ xia6 vaen3 r
 xia6 vaen3 r
 > 东台方言词典
 - 靠近黄昏的时候。
+
+# 下晚儿
+xia6 vaen3 r
+> 泰县方言志
+- 傍晚。

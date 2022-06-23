@@ -8,3 +8,8 @@ shen2 jien1 xi1 xi1
 shen2 jien1 xi1 xi1
 > 东台方言词典
 - 有神经质，举止异常。
+
+# 神经兮兮
+shen2 jien1 xi1 xi1
+> 泰县方言志
+- 精神不正常：你～的做甚的？

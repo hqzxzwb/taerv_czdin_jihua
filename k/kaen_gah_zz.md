@@ -21,3 +21,8 @@ kaen1 gah7 zz
 kaen1 gah7 zz
 > 兴化方言词典
 - 金属辅币。
+
+# 铅角子
+kaen1 gah7 zz
+> 泰县方言志
+- 硬币。

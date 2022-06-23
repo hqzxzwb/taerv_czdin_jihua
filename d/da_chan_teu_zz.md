@@ -17,3 +17,8 @@ da6 chan2 teu2 zz
 da6 chan2 teu2 zz
 > 兴化方言词典
 - 直肠末端连接肛门的部分。
+
+# 大肠头子
+da6 chan2 teu2 zz
+> 泰县方言志
+- 肛门。

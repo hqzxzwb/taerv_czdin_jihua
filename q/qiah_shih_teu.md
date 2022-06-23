@@ -7,3 +7,8 @@ qiah8 shih8 teu
 qiah8 shih8 teu
 > 东台方言词典
 - 信口胡说。也作“嚼舌根”。
+
+# 嚼舌头
+qiah8 shih8 teu
+> 泰县方言志
+- （禁忌语）胡说。

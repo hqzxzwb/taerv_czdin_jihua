@@ -7,3 +7,8 @@ ngaen3 jien po1 zz
 ngaen3 jien po1 zz
 > 兴化方言词典
 - 眼皮：他是个肿～。
+
+# 眼睛皰子
+ngaen3 jien po1 zz
+> 泰县方言志
+- 上眼皮。

@@ -12,3 +12,8 @@ pu2 dia1 dia1
 pu2 dia1 dia
 > 兴化方言词典
 - 外祖父。
+
+# 婆爹爹
+pu2 dia1 dia
+> 泰县方言志
+- 外公。

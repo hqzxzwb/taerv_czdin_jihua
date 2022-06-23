@@ -21,3 +21,8 @@ vaen3 nian2
 vaen3 nian2
 > 兴化方言词典
 - 继母。
+
+# 晚娘
+vaen3 nian2
+> 泰县方言志
+- 继母。
