@@ -7,8 +7,3 @@ bun5 bah7 kun3 r
 bun5 bah7 kun3 r
 > 泰县方言志
 - 河坎。
-
-# 半剥坎儿
-bun5 bah7 kun3 r
-> 泰县方言志
-- 河坎。

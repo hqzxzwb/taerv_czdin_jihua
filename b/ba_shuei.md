@@ -8,8 +8,3 @@ ba3 shuei3
 ba3 shuei3
 > 泰县方言志
 - 告密。
-
-# 把水
-ba3 shuei3
-> 泰县方言志
-- 告密。

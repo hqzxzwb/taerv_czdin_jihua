@@ -15,7 +15,6 @@ chuah7 bieh7 jiah7
 - 暗中使坏，中伤他人
   - 他看到同事进步就来气，躲在暗中～。
 
-
 # 戳壁脚
 chuah7 bieh7 jiah7
 > 泰县方言志

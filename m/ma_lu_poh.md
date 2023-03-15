@@ -7,8 +7,3 @@ ma2 lu2 poh
 ma2 lu2 poh
 > 泰县方言志
 - 萝卜。
-
-# 麻萝卜
-ma2 lu2 poh
-> 泰县方言志
-- 萝卜。

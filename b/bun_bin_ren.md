@@ -17,8 +17,3 @@ bun5 bin ren
 bun5 bin1 ren2
 > 泰县方言志
 - 寡妇。
-
-# 半边人
-bun5 bin1 ren2
-> 泰县方言志
-- 寡妇。

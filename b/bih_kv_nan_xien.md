@@ -5,7 +5,6 @@ bih7 kv1 nan2 xien1
 - 身体羸弱的样子。
 - 物体不饱满。
 
-
 # 瘪枯瓤心
 bih7 kv1 nan2 xien1
 > 兴化方言词典

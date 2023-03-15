@@ -3,7 +3,6 @@ ieh7 gv laeh8 taeh
 > 如皋方言词典
 - 见“一刮碌秃”。
 
-
 # 一古邋遢
 ieh7 gv3 laeh8 taeh
 > 东台方言词典
