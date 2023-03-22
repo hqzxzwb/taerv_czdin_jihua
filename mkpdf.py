@@ -130,6 +130,6 @@ def write_index():
             out = "<p><span class=order>%d</span>&nbsp;<a href=%s class=hz>%s</a>&nbsp;<span class=py>%s</span> %s<span class=meaning>%s</span></p>\n" % (count, link, lower_er(py0, word), pinyin, source, meaning)
             lines.append(out)
     open("docs/index.html", "w", encoding="U8").writelines(lines)
-    os.system("cd docs/; wkhtmltopdf -B 0 -L 0 -R 0 -T 0 --page-width 62 --page-height 110 --enable-local-file-access index.html ../泰如辞典%s.pdf" % datetime.datetime.now().strftime("%Y%m%d"))
+    os.system("cd docs/; wkhtmltopdf -B 0 -L 0 -R 0 -T 0 --page-width 100 --page-height 180 --enable-local-file-access index.html ../泰如辞典%s.pdf" % datetime.datetime.now().strftime("%Y%m%d"))
 
 write_index()
