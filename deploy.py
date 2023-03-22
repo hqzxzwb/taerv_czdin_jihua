@@ -28,12 +28,13 @@ def get_letters(dirs):
 def validate(py0, word):
     py0 = re.sub("-[a-z1-8]+", "", py0)
     py0 = re.sub("（.*?）", "", py0).strip()
+    py0 = re.sub("\(.*?\)", "", py0).strip()
     syllables = re.split("[^a-z0-8]+", py0)
     s=re.sub("[，—、：；×…？\*]","",word)
     s=re.sub("（.*?）","",s)
     s=re.sub("/.+", "", s)
     if len(s) != len(syllables):
-        print("【%s】(%d)跟拼音%s(%d)不对应" % (word, len(s), py0, len(syllables)))
+        print("%s 【%s】(%d)跟拼音(%d)不对应" % (get_path(py0), word, len(s), len(syllables)))
     for py in syllables:
         if PY_FORMAT.match(py) is None:
             print("【%s】的拼音%s不对" % (word, py0))
@@ -68,7 +69,7 @@ def check_path(path, py0, word):
     should_path = get_path(py0)
     if not path.endswith(should_path):
         cmd = "meld" if os.path.exists(should_path) else "mv"
-        print("【%s】的位置不对：%s %s %s" %(word, cmd, path, should_path))
+        print("【%s】的位置不对： %s %s %s" %(word, cmd, path, should_path))
 
 def parse_pinyin(pinyin):
     """A B/C→AB, AC"""
