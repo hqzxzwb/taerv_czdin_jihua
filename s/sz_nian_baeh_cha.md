@@ -11,7 +11,7 @@ sz5 nian3 baeh7 cha5
 # 四仰八叉
 sz5 nian3 baeh7 cha5
 > 东台方言词典
-- 指人呈"大"字形仰卧，姿态不雅。
+- 指人呈“大”字形仰卧，姿态不雅。
 
 # 四仰八叉
 sz5 nian3 baeh7 cha1

@@ -6,7 +6,7 @@ zhv1 teu2 saen1
 # 猪头三
 zhv1 teu2 saen1
 > 如东方言词典
-- 智力低下的人。例如:像个～。
+- 智力低下的人。例如：像个～。
 
 # 猪头三
 zhv1 teu2 saen1

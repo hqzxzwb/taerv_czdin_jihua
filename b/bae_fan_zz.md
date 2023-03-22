@@ -6,7 +6,7 @@ bae3 fan1 zz
 # 摆方子
 bae3 fan1 zz
 > 东台方言词典
-- 与"摆玑"近义。
+- 与“摆玑”近义。
 
 # 摆方子
 bae3 fan1 zz

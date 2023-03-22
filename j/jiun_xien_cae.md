@@ -11,7 +11,7 @@ jiun3 xien cae5
 # 卷心菜
 jiun3 xien1 cae5
 > 东台方言词典
-- 见"牛心菜"。
+- 见“牛心菜”。
 
 # 卷心菜
 jiun3 xien1 cae5

@@ -6,7 +6,7 @@ deu5 ji1 ngaen3
 # 斗鸡眼
 deu5 ji1 ngaen3
 > 东台方言词典
-- 见"对对眼"。
+- 见“对对眼”。
 
 # 斗鸡眼
 deu5 ji1 ngaen3

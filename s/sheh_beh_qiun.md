@@ -12,4 +12,4 @@ sheh8 beh qiun2
 # 十不全
 sheh8 beh qiun2
 > 泰县方言志
-- ①残疾人。②冗员。
+- 残疾人。②冗员。

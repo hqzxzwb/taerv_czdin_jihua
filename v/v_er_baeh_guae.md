@@ -6,7 +6,7 @@ v2 er baeh7 guae5
 # 无而八拐
 v2 er2 baeh7 guae3
 > 东台方言词典
-- 同"芜而不轨"。
+- 同“芜而不轨”。
 
 # 无而八怪
 v2 er2 baeh7 guae5

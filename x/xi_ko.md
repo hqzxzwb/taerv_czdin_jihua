@@ -17,4 +17,4 @@ xi5 ko
 # 细巧
 xi5 ko
 > 东台方言词典
-- 同"xi5 qio"。
+- 同“xi5 qio”。
