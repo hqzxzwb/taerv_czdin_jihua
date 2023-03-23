@@ -1,4 +1,4 @@
 # 猫儿洗脸，亲戚到
-mo2 r xi3 lin3  qien1 qieh7 do5
+mo2 r xi3 lin3 qien1 qieh7 do5
 > 东台方言词典
 - 民间有人认为，这是好的兆头，祥瑞之事。

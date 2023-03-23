@@ -6,7 +6,7 @@ luei2 zhuei5
   - 带啊个～。
 
 # 累赘
-luei2  zhuei5-1
+luei2 zhuei5-1
 > 东台方言词典
 - 拖累。
 - 多余、重复

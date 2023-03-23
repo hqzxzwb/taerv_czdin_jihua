@@ -8,7 +8,7 @@ chen5 sheu3
 chen5 sheu3
 > 如皋方言词典
 - 手掌握合适、满意
-  - 这把锄头～。也说“合手 huh8 sheu3”。
+  - 这把锄头～。也说“合手（huh8 sheu3）”。
 
 # 趁手
 chen5 sheu3
