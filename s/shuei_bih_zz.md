@@ -11,5 +11,5 @@ shuei3 bih7 zz
 # 水别子
 shuei3 bih7 zz
 > 泰县方言志
-- 水壶，
+- 水壶。
 - 会游泳的人。
