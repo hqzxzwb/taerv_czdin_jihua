@@ -8,7 +8,7 @@ zheu1 nin
 zheu1 nin
 > 兴化方言词典
 - 忌辰
-  - 烧～|过～。
+  - 烧～｜过～。
 
 # 周年
 zheu1 nin

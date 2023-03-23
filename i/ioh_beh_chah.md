@@ -8,7 +8,7 @@ ioh8 beh7 chah8
 ioh8 beh chah8
 > 兴化方言词典
 - 用不着，不必要
-  - ～旁人帮忙|～人就变脸。
+  - ～旁人帮忙｜～人就变脸。
 
 # 欲不着
 ioh8 beh7 chah8
