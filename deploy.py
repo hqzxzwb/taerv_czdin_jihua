@@ -12,7 +12,7 @@ PY_FORMAT = re.compile("^([bpmfdtnlgkhjqxzcsr]|[zcs]h|ng|dd)?([aoeivuyrzm]+|ng)[
 
 def write_config():
     """生成主题文件_config.yml"""
-    os.system("""rm -rf docs; mkdir docs; cat > docs/_config.yml <<EOF
+    os.system("""rm docs/*.yml docs/*.md; mkdir -p docs; cat > docs/_config.yml <<EOF
 theme: jekyll-theme-cayman
 title: 泰如辞典
 description: `TZ="Asia/Shanghai" date +"%Y年%m月%d号%H点"`更新
