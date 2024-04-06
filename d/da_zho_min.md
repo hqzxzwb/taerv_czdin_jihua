@@ -1,5 +1,5 @@
 # 打照面
-da3 zho5 min5
+da3 zho5 min
 > 东台方言词典
 - 对面相见。
 
