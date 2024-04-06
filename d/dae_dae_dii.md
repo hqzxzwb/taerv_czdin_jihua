@@ -1,5 +1,5 @@
 # 呆呆的
-dae1 daei1 dii
+dae1 dae1 dii
 > 如皋方言词典
 - 经常地
   - 他～去赌钱。
