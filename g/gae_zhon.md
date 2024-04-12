@@ -7,7 +7,7 @@ gae5 zhon5
 # 盖种
 gae5 zhon3
 > 如皋方言词典
-- 播种後覆土。
+- 播种后覆土。
 
 # 盖众
 gae5 zhon5

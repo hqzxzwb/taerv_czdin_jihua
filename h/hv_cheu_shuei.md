@@ -8,7 +8,7 @@ hv3 cheu5 shuei3
 # 𢮎臭水
 hv3 cheu5 shuei3
 > 如皋方言词典
-- 背後说别人的坏话。败坏别人的声誉。
+- 背后说别人的坏话。败坏别人的声誉。
 
 # 𢮎臭水
 hv3 cheu5 shuei3

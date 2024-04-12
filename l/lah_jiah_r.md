@@ -8,7 +8,7 @@ lah8 jiah7 r
 # 落脚儿
 lah8 jiah7 r
 > 如皋方言词典
-- 挑选後剩下的。
+- 挑选后剩下的。
 
 # 落脚儿
 lah8 jiah7 r
