@@ -69,10 +69,10 @@ def path_from_pinyin(py0):
 
 def check_path(path, py0, word):
     """检查词语的文件名是否正确"""
-    path_from_pinyin = path_from_pinyin(py0)
-    if not path.endswith(path_from_pinyin):
-        cmd = "meld" if os.path.exists(path_from_pinyin) else "mv"
-        print("【%s】的位置不对： %s %s %s" %(word, cmd, path, path_from_pinyin))
+    proper_path = path_from_pinyin(py0)
+    if not path.endswith(proper_path):
+        cmd = "meld" if os.path.exists(proper_path) else "mv"
+        print("【%s】的位置不对： %s %s %s" %(word, cmd, path, proper_path))
 
 def parse_pinyin(pinyin):
     """A B/C→AB, AC"""
