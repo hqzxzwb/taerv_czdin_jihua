@@ -30,6 +30,8 @@
   - 写法相同而读音和意义皆不同的词，按照两个词条处理。
 
   - 例子中用全角～替代当前词条，不论词条有几个字，都只用一个替代号。
+
+  - 若出现合音字，除了合音的第一个字，在其他字后面添加字符【ʰ】。
 - Contributing
   - 对git操作较熟悉者，直接提交Pull Request。
   - 余者可以创建[Issues](https://github.com/hqzxzwb/taerv_czdin_jihua/issues)。
