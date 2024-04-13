@@ -34,7 +34,7 @@ def validate(py0, word):
     s=re.sub("（.*?）","",s)
     s=re.sub("/.+", "", s)
     if len(s) != len(syllables):
-        print("%s 【%s】(%d)跟拼音(%d)不对应" % (get_path(py0), word, len(s), len(syllables)))
+        print("%s 【%s】(%d)跟拼音(%d)不对应" % (path_from_pinyin(py0), word, len(s), len(syllables)))
     for py in syllables:
         if PY_FORMAT.match(py) is None:
             print("【%s】的拼音%s不对" % (word, py0))
@@ -56,20 +56,23 @@ def lower_er(py0, word):
         word = "".join(words)
     return word
 
-def get_path(py0):
+def path_from_pinyin(py0):
     """获取文件路径"""
-    py0 = re.sub("-[a-z1-8]+", "", py0)
-    py0 = re.sub("（.*?）", "", py0).strip()
-    py0 = re.sub(r"\d", "", re.sub("[^a-z1-8]+", "_", py0))
-    py0 = py0.rstrip("_")
-    return os.path.join(py0[0], "%s.md" % py0)
+    py1 = re.sub("-[a-z1-8]+", "", py0)
+    py1 = re.sub("（.*?）", "", py1).strip()
+    py1 = re.sub(r"\d", "", re.sub("[^a-z1-8]+", "_", py1))
+    py1 = py1.rstrip("_")
+    if py1.__len__() == 0:
+        print("拼音异常：%s" % py0)
+        return '/unavailable@@@/'
+    return os.path.join(py1[0], "%s.md" % py1)
 
 def check_path(path, py0, word):
     """检查词语的文件名是否正确"""
-    should_path = get_path(py0)
-    if not path.endswith(should_path):
-        cmd = "meld" if os.path.exists(should_path) else "mv"
-        print("【%s】的位置不对： %s %s %s" %(word, cmd, path, should_path))
+    path_from_pinyin = path_from_pinyin(py0)
+    if not path.endswith(path_from_pinyin):
+        cmd = "meld" if os.path.exists(path_from_pinyin) else "mv"
+        print("【%s】的位置不对： %s %s %s" %(word, cmd, path, path_from_pinyin))
 
 def parse_pinyin(pinyin):
     """A B/C→AB, AC"""
