@@ -1,4 +1,4 @@
 # 打百日子
-da3 boh7 rih8 zz
+da3 buh7 rih8 zz
 > 如皋方言词典
 - 见“打摆子”。
