@@ -1,4 +1,4 @@
-# 刮锅打荡
-guaeh7 gu1 da3 tan6
+# 刮锅打当
+guaeh7 gu1 da3 dan1
 > 东台方言词典
 - 把饭菜吃得干干净净。
