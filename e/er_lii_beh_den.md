@@ -8,3 +8,8 @@ er6 lii beh7 den1
 er6 lii beh7 den1
 > 泰县方言志
 - （禁忌语）痴呆。
+
+# 二里不敦
+er6 lii beh7 den1
+> 东台方言词典
+- 有点不伦不类的角色。
