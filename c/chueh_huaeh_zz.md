@@ -18,4 +18,5 @@ chueh7 huaeh7 zz
 # 出豁子
 chueh7 huaeh7 zz
 > 泰县方言志
-- 闯祸：他出咖～。
+- 闯祸
+  - 他出咖～。
