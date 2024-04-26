@@ -8,10 +8,6 @@ cah8 guaeh7 zz
 cah8 guaeh7 zz
 > 如皋方言词典
 - 见“生姜拐儿”。
-
-# 凿刮子
-cah8 guaeh7 zz
-> 如皋方言词典
 - 用指关节凸起打人。
 
 # 凿刮子
