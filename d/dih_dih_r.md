@@ -16,6 +16,6 @@ dih7 dih8 r
   - 这个碗～小。
 
 # 奀奀儿
-dih7 din3 r
+dih7 dih3 r
 > 如东方言词典
 - 很少很少。
