@@ -1,5 +1,5 @@
 # 吊胃口
-dio5 vei6 keu3
+dio5 vei5 keu3
 > 如皋方言词典
 - 引起欲望。
 
