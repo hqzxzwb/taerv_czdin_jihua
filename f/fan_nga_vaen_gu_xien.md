@@ -1,5 +1,5 @@
 # 放吖万个心
-fan5 nga vaen6/vaen3 gu xien1
+fan5 nga vaen6-3 gu xien1
 > 如皋方言词典
 - 完全放心，毫不耽心。
-- 向对方保证使对方放心。“万”字变调。
+- 向对方保证使对方放心。
