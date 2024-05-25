@@ -1,4 +1,4 @@
 # 当家理事
-dan1 ga1 li3 shr6
+dan1 jia1 li3 shr6
 > 如东方言词典
 - 主持家务，处理事情。
