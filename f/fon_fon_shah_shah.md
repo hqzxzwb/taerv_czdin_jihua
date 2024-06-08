@@ -7,4 +7,4 @@ fon1 fon1 shah8 shah8
 # 疯疯𧺕𧺕
 fon1 fon1 shah8 shah8
 > 泰县方言志
-- 疯颠。
+- 疯癫。
