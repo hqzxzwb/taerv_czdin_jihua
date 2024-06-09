@@ -22,7 +22,7 @@ EOF""")
 def letter_index(dirs, out):
     """音序"""
     out.append("# 音序检索\n")
-    letters = " | ".join("[%s](#%s)"%(d.upper(), d) for d in dirs)
+    letters = " | ".join("[%s](./%s.md)"%(d.upper(), d) for d in dirs)
     out.append("**%s**  \n" % letters)
 
 def validate(py0, word):
@@ -120,13 +120,19 @@ def get_key(cont):
     #print(key)
     return key
 
-def write_index():
+def write_index(dirs):
     """生成主页"""
-    dirs = string.ascii_lowercase
     lines = []
     letter_index(dirs, lines)
+    lines.append("点击字母开始")
+    open("docs/index.md", "w", encoding="U8").writelines(lines)
+
+def write_pages(dirs):
+    """生成分页"""
     count = 0
     for path in dirs:
+        lines = []
+        letter_index(dirs, lines)
         lines.append("## %s\n" % path.upper())
         conts = []
         for fname in sorted(glob.glob(path+"/*.md")):
@@ -142,7 +148,9 @@ def write_index():
             lines.append(out)
             #check_path(fname, py0, word)
         lines.append("**[▲](#音序检索)**  \n")
-    open("docs/index.md", "w", encoding="U8").writelines(lines)
+        open("docs/%s.md"%path, "w", encoding="U8").writelines(lines)
 
+dirs = string.ascii_lowercase.replace('w', '')
 write_config()
-write_index()
+write_index(dirs)
+write_pages(dirs)
