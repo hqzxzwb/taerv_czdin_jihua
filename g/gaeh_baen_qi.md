@@ -4,6 +4,6 @@ gaeh7 baen3 qi5
 - 指来自对立双方的责难。
 
 # 夹板气
-gaeh7 baen qi5
+gaeh7 baen3 qi5
 > 兴化方言词典
 - 来自对立双方的责难。
