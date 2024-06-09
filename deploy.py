@@ -6,6 +6,9 @@ import os
 import re
 import string
 from itertools import product
+from collections import namedtuple
+
+Word = namedtuple('Word', ['py0', 'pinyin', 'word', 'meaning', 'source', 'fname', 'sort_key'])
 
 ORDERS = "①②③④⑤⑥⑦⑧⑨⑩"
 LINK_FORMAT = "https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/%s#%s"
@@ -48,9 +51,7 @@ def lower_er(py0, word):
         index = 0
         while "r" in syllables[index:]:
             index = syllables.index("r", index)
-            if index >= len(words):
-                print("【%s】跟拼音%s不对应" % (word, py0))
-            elif words[index] == "儿":
+            if words[index] == "儿":
                 words[index] = "<sub>儿</sub>"
             index += 1
         word = "".join(words)
@@ -106,19 +107,11 @@ def parse_cont(cont, fname):
             example_count += 1
             meaning += "｜" if example_count > 1 else "："
             example = line.strip().replace("-", "").strip()
-            # ~ if "/" in example:
-                # ~ example = example.replace("/", "<sub>")+"</sub>"
             meaning += example
     #例句的冒号前不显示句号
     meaning = meaning.replace("。：", "：").strip()
     py0 = pinyin.split(",")[0]
-    return [py0, pinyin, word, meaning, source, fname]
-
-def get_key(cont):
-    """词条排序"""
-    key = cont[1] + '$$' + cont[2]
-    # print(key)
-    return key
+    return Word(py0, pinyin, word, meaning, source, fname, py0 + '$$' + word)
 
 def write_index(dirs, examples):
     """生成主页"""
@@ -138,13 +131,15 @@ def write_page(dirs, path, sample_out):
     for fname in sorted(glob.glob(path+"/*.md")):
         for cont in re.findall(r"#[^#]+", open(fname,encoding="U8").read()):
             conts.append(parse_cont(cont, fname))
-    for py0, pinyin, word, meaning, source, fname in sorted(conts, key=get_key):
-        check_path(fname, py0, word)
-        link = LINK_FORMAT % (fname.replace("\\","/"), word)
-        if source:
-            source = "<sup>[%s]</sup> " % re.sub(r'(方言词典|方言志)$', '', source)
+    for w in sorted(conts, key=lambda c: c.sort_key):
+        check_path(w.fname, w.py0, w.word)
+        link = LINK_FORMAT % (w.fname.replace("\\","/"), w.word)
+        if w.source:
+            source = "<sup>[%s]</sup> " % re.sub(r'(方言词典|方言志)$', '', w.source)
+        else:
+            source = w.source
         count += 1
-        out = "<sub>%d</sub>【[%s](%s)】`%s` %s%s  \n" % (count, lower_er(py0, word), link, pinyin, source, meaning)
+        out = "<sub>%d</sub>【[%s](%s)】`%s` %s%s  \n" % (count, lower_er(w.py0, w.word), link, w.pinyin, source, w.meaning)
         lines.append(out)
         if count <= 20:
             sample_out.append(out)
@@ -155,7 +150,7 @@ dirs = string.ascii_lowercase.replace('w', '')
 write_config()
 samples = []
 for path in dirs:
-    samples.append("## %s\n"%path)
+    samples.append("## %s\n" % path.upper())
     write_page(dirs, path, samples)
     samples.append("[更多...](./%s.md)\n"%path)
 write_index(dirs, samples)
