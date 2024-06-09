@@ -139,7 +139,7 @@ def write_page(dirs, path, sample_out):
         else:
             source = w.source
         count += 1
-        out = "<sub>%d</sub>【[%s](%s)】`%s` %s%s  \n" % (count, lower_er(w.py0, w.word), link, w.pinyin, source, w.meaning)
+        out = "1. 【[%s](%s)】`%s` %s%s  \n" % (lower_er(w.py0, w.word), link, w.pinyin, source, w.meaning)
         lines.append(out)
         if count <= 20:
             sample_out.append(out)
