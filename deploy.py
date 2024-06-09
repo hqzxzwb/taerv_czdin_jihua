@@ -120,37 +120,43 @@ def get_key(cont):
     #print(key)
     return key
 
-def write_index(dirs):
+def write_index(dirs, examples):
     """生成主页"""
     lines = []
     letter_index(dirs, lines)
-    lines.append("点击字母开始")
-    open("docs/index.md", "w", encoding="U8").writelines(lines)
+    f = open("docs/index.md", "w", encoding="U8")
+    f.writelines(lines)
+    f.writelines(examples)
 
-def write_pages(dirs):
+def write_page(dirs, path, sample_out):
     """生成分页"""
     count = 0
-    for path in dirs:
-        lines = []
-        letter_index(dirs, lines)
-        lines.append("## %s\n" % path.upper())
-        conts = []
-        for fname in sorted(glob.glob(path+"/*.md")):
-            for cont in re.findall(r"#[^#]+", open(fname,encoding="U8").read()):
-                conts.append(parse_cont(cont, fname))
-        for py0, pinyin, word, meaning, source, fname in sorted(conts, key=get_key):
-            check_path(fname, py0, word)
-            link = LINK_FORMAT % (fname.replace("\\","/"), word)
-            if source:
-                source = "<sup>[%s]</sup> " % source.rstrip("方言词典").rstrip("方言志")
-            count += 1
-            out = "<sub>%d</sub>【[%s](%s)】`%s` %s%s  \n" % (count, lower_er(py0, word), link, pinyin, source, meaning)
-            lines.append(out)
-            #check_path(fname, py0, word)
-        lines.append("**[▲](#音序检索)**  \n")
-        open("docs/%s.md"%path, "w", encoding="U8").writelines(lines)
+    lines = []
+    letter_index(dirs, lines)
+    lines.append("## %s\n" % path.upper())
+    conts = []
+    for fname in sorted(glob.glob(path+"/*.md")):
+        for cont in re.findall(r"#[^#]+", open(fname,encoding="U8").read()):
+            conts.append(parse_cont(cont, fname))
+    for py0, pinyin, word, meaning, source, fname in sorted(conts, key=get_key):
+        check_path(fname, py0, word)
+        link = LINK_FORMAT % (fname.replace("\\","/"), word)
+        if source:
+            source = "<sup>[%s]</sup> " % re.sub(r'(方言词典|方言志)$', '', source)
+        count += 1
+        out = "<sub>%d</sub>【[%s](%s)】`%s` %s%s  \n" % (count, lower_er(py0, word), link, pinyin, source, meaning)
+        lines.append(out)
+        if count <= 20:
+            sample_out.append(out)
+        #check_path(fname, py0, word)
+    lines.append("**[▲](#音序检索)**  \n")
+    open("docs/%s.md"%path, "w", encoding="U8").writelines(lines)
 
 dirs = string.ascii_lowercase.replace('w', '')
 write_config()
-write_index(dirs)
-write_pages(dirs)
+samples = []
+for path in dirs:
+    samples.append("## %s\n"%path)
+    write_page(dirs, path, samples)
+    samples.append("[更多...](./%s.md)\n"%path)
+write_index(dirs, samples)
