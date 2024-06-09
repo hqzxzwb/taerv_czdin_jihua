@@ -5,6 +5,6 @@ gaen5 chen2 r
   - ～我就来。
 
 # 间辰儿
-gaen5 chen3 r
+gaen5 chen2-3 r
 > 如皋方言词典
 - 等一会儿。
