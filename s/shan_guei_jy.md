@@ -7,7 +7,8 @@ shan6 guei1 jy
 # 上规矩
 shan6 guei1 jy
 > 如东方言词典
-- 按照规范办事。例如：做事要～。
+- 按照规范办事。
+  - 做事要～。
 
 # 上规矩
 shan6 guei1 jy1

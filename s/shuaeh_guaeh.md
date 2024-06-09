@@ -9,7 +9,8 @@ shuaeh7 guaeh7
 # 刷刮
 shuaeh7 guaeh7
 > 如东方言词典
-- 很好。例如：这吖办理～。
+- 很好。
+  - 这吖办理～。
 
 # 刷刮
 shuaeh7 guaeh7

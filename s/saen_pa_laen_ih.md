@@ -6,7 +6,8 @@ saen1 pa2 laen3 ih7
 # 三扒两咽
 saen1 pa2 laen3 ih7
 > 如东方言词典
-- 很快地吃饭。例如：～，吃饱啊肚子就跑。
+- 很快地吃饭。
+  - ～，吃饱啊肚子就跑。
 
 # 三扒两咽
 saen1 pa2 laen3 ih7
