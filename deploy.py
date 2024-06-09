@@ -116,8 +116,8 @@ def parse_cont(cont, fname):
 
 def get_key(cont):
     """词条排序"""
-    key = cont[0].split(" ")[0] + cont[2][0]+ ("2" if len(cont[2]) > 1 else "1")
-    #print(key)
+    key = cont[1] + '$$' + cont[2]
+    # print(key)
     return key
 
 def write_index(dirs, examples):
@@ -148,7 +148,6 @@ def write_page(dirs, path, sample_out):
         lines.append(out)
         if count <= 20:
             sample_out.append(out)
-        #check_path(fname, py0, word)
     lines.append("**[▲](#音序检索)**  \n")
     open("docs/%s.md"%path, "w", encoding="U8").writelines(lines)
 
