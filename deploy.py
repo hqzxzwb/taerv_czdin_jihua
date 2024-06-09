@@ -4,6 +4,7 @@
 import glob
 import os
 import re
+import string
 from itertools import product
 
 ORDERS = "①②③④⑤⑥⑦⑧⑨⑩"
@@ -18,12 +19,11 @@ title: 泰如辞典
 description: `TZ="Asia/Shanghai" date +"%Y年%m月%d号%H点"`更新
 EOF""")
 
-def get_letters(dirs):
+def letter_index(dirs, out):
     """音序"""
-    lines = ["# 音序检索\n"]
+    out.append("# 音序检索\n")
     letters = " | ".join("[%s](#%s)"%(d.upper(), d) for d in dirs)
-    lines.append("**%s**  \n" % letters)
-    return lines
+    out.append("**%s**  \n" % letters)
 
 def validate(py0, word):
     py0 = re.sub("-[a-z1-8]+", "", py0)
@@ -110,7 +110,7 @@ def parse_cont(cont, fname):
                 # ~ example = example.replace("/", "<sub>")+"</sub>"
             meaning += example
     #例句的冒号前不显示句号
-    meaning = meaning.replace("。：", "：").replace("~", "～").strip()
+    meaning = meaning.replace("。：", "：").strip()
     py0 = pinyin.split(",")[0]
     return [py0, pinyin, word, meaning, source, fname]
 
@@ -122,8 +122,9 @@ def get_key(cont):
 
 def write_index():
     """生成主页"""
-    dirs = sorted(glob.glob("?"))
-    lines = get_letters(dirs)
+    dirs = string.ascii_lowercase
+    lines = []
+    letter_index(dirs, lines)
     count = 0
     for path in dirs:
         lines.append("## %s\n" % path.upper())
