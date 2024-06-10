@@ -1,4 +1,5 @@
-# 格格真真
-geh7 geh7 zhen1 zhen1
+# 格格正正
+geh7 geh7 zhen5 zhen5
 > 泰县方言志
-- 讲究：他穿得～的。
+- 讲究
+  - 他穿得～的。
