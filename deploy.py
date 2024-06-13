@@ -111,7 +111,7 @@ def parse_cont(cont, fname):
     #例句的冒号前不显示句号
     meaning = meaning.replace("。：", "：").strip()
     py0 = pinyin.split(",")[0]
-    return Word(py0, pinyin, word, meaning, source, fname, py0 + '$$' + word)
+    return Word(py0, pinyin, word, meaning, source, fname, py0 + '  ' + word)
 
 def write_index(dirs, examples):
     """生成主页"""
@@ -128,7 +128,7 @@ def write_page(dirs, path, sample_out):
     letter_index(dirs, lines)
     lines.append("## %s\n" % path.upper())
     conts = []
-    for fname in sorted(glob.glob(path+"/*.md")):
+    for fname in glob.glob(path+"/*.md"):
         for cont in re.findall(r"#[^#]+", open(fname,encoding="U8").read()):
             conts.append(parse_cont(cont, fname))
     for w in sorted(conts, key=lambda c: c.sort_key):
