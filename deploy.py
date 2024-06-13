@@ -33,9 +33,7 @@ def validate(py0, word):
     py0 = re.sub("（.*?）", "", py0).strip()
     py0 = re.sub("\(.*?\)", "", py0).strip()
     syllables = re.split("[^a-z0-8]+", py0)
-    s=re.sub("[，—、：；×…？\*]|\wʰ","",word)
-    s=re.sub("（.*?）","",s)
-    s=re.sub("/.+", "", s)
+    s=re.sub("[，—、：；×…？\*]|\wʰ|（.*?）|/.+","",word)
     if len(s) != len(syllables):
         print("%s 【%s】(%d)跟拼音(%d)不对应" % (path_from_pinyin(py0), word, len(s), len(syllables)))
     for py in syllables:
@@ -111,7 +109,17 @@ def parse_cont(cont, fname):
     #例句的冒号前不显示句号
     meaning = meaning.replace("。：", "：").strip()
     py0 = pinyin.split(",")[0]
-    return Word(py0, pinyin, word, meaning, source, fname, py0 + '  ' + word)
+    return Word(py0, pinyin, word, meaning, source, fname, mix(word, py0))
+
+def mix(word, py):
+    char_py_list = re.split("[^a-z0-8]+", py)
+    char_list = re.sub("[，—、：；×…？\*]|\wʰ|（.*?）|/.+","",word)
+    mix = ""
+    i = 0
+    while i < len(char_list):
+        mix += char_py_list[i] + char_list[i]
+        i += 1
+    return mix
 
 def write_index(dirs, examples):
     """生成主页"""
