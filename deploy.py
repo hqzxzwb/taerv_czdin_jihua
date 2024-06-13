@@ -117,7 +117,7 @@ def mix(word, py):
     mix = ""
     i = 0
     while i < len(char_list):
-        mix += char_py_list[i] + char_list[i]
+        mix += char_py_list[i] + " " + char_list[i] + " "
         i += 1
     return mix
 
