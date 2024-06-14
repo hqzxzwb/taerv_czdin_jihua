@@ -1,4 +1,4 @@
 # 𧽌沟
-huaeh8 geu1
+huaeh7 geu1
 > 如皋方言词典
 - 跳过河去。
