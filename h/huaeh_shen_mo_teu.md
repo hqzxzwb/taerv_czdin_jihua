@@ -1,5 +1,5 @@
 # 𧽌身冒头
-huaeh8 shen1 mo6 teu2
+huaeh7 shen1 mo6 teu2
 > 如皋方言词典
 - 从别人头上跨过，以示欺负。
 - 越级、越权
