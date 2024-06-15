@@ -9,7 +9,7 @@ from itertools import product
 from collections import namedtuple
 from collections import defaultdict
 
-Word = namedtuple('Word', ['py0', 'pinyin', 'word', 'meaning', 'source', 'fname', 'sort_key'])
+Word = namedtuple('Word', ['py0', 'pinyin', 'word', 'raw_word', 'meaning', 'source', 'fname', 'sort_key'])
 
 ORDERS = "①②③④⑤⑥⑦⑧⑨⑩"
 LINK_FORMAT = "https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/%s#%s"
@@ -111,7 +111,7 @@ def parse_cont(cont, fname, cz_ien):
         word += cz
         if ien != '' and len(cz) == 1 and cz not in cz_ien[ien.rstrip('9')]:
             print("字音未收录：【%s】中的【%s】读作【%s】" % (raw_word, cz, ien))
-    return Word(py0, pinyin, word, meaning, source, fname, sort_key)
+    return Word(py0, pinyin, word, raw_word, meaning, source, fname, sort_key)
 
 def mix(word, py):
     py = re.sub("-[a-z1-9]+", "", py)
