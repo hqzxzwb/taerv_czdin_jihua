@@ -4,7 +4,7 @@ laeh8 taeh
 - 不清洁。
 
 # 邋遢
-laeh8 taeh
+laeh8 taeh7
 > 东台方言词典
 - 不整洁；肮脏
   - ～鬼。
@@ -12,6 +12,7 @@ laeh8 taeh
   - 处理～事。
 
 # 邋遢
-laeh8 taeh
+laeh8 taeh7
 > 泰县方言志
-- 不清洁：这个人家比较～。
+- 不清洁
+  - 这个人家比较～。
