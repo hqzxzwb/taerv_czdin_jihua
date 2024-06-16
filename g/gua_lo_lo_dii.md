@@ -1,5 +1,5 @@
 # 寡捞捞的
-gua3 lo2 lo2 dii
+gua3 lo lo2/lo1 dii
 > 如皋方言词典
 - 内容空乏
   - 一碗汤～，没得多少菜。

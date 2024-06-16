@@ -1,5 +1,5 @@
 # 呱里呱啦
-gua3 lii gua3 la1
+gua1 lii gua1 la1
 > 兴化方言词典
 - 形容人言语过多
   - 他一天到晚～的。
