@@ -1,11 +1,11 @@
 # 耍子刻儿
-shua3 zz keh3 r
+shua3 zz keh9 r
 > 如皋方言词典
 - 玩一会儿。
 - 挽留用语。
 
 # 耍子刻儿
-shua3 zz keh3 r
+shua3 zz keh9 r
 > 如东方言词典
 - 逗留一会儿。比喻耽搁一会儿。
   - 我在这里～就家来。

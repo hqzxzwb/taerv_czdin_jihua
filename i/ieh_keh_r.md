@@ -1,10 +1,10 @@
 # 一刻儿
-ieh7 keh3 r
+ieh7 keh r
 > 如皋方言词典
 - 一会儿。
 
 # 一刻儿
-ieh7 keh3 r
+ieh7 keh r
 > 如东方言词典
 - 一会儿。
   - 过～就来。

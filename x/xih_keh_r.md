@@ -1,20 +1,20 @@
-# 歇刻儿
-xih7 keh3 r
+# ……歇刻儿
+xih7 keh9 r
 > 如皋方言词典
 - 见“早晚”。
 
 # 歇刻儿
-xih7 keh3 r
+xih7 keh9 r
 - 过一会儿。
 
 # 歇刻儿
-xih7 keh3 r
+xih7 keh9 r
 > 如东方言词典
 - 休息一会儿。
   - 我俫～再跑吧。
 
 # 歇刻儿
-xih7 keh r
+xih9 keh r
 > 东台方言词典
 - 很短暂的片刻或间隙
   - 请你等～，我就来。

@@ -1,4 +1,4 @@
 # 多歇刻儿
-du1 xih keh3 r
+du1 xih keh9 r
 > 如皋方言词典
 - 什么时候。
