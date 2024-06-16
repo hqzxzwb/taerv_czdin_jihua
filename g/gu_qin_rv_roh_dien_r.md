@@ -1,4 +1,4 @@
 # 个钱如肉丁儿
-gu3 qin2 rv2 roh8 dien1 r
+gu9 qin2 rv2 roh8 dien1 r
 > 如皋方言词典
-- 状十分吝啬小气。“个”有变调。
+- 状十分吝啬小气。
