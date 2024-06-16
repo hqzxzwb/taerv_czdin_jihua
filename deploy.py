@@ -12,7 +12,7 @@ Word = namedtuple('Word', ['py0', 'pinyin', 'word', 'meaning', 'source', 'fname'
 
 ORDERS = "①②③④⑤⑥⑦⑧⑨⑩"
 LINK_FORMAT = "https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/%s#%s"
-PY_FORMAT = re.compile("^([bpmfdtnlgkhjqxzcsr]|[zcs]h|ng|dd)?([aoeivuyrzm]+|ng)[nh]?[0-8]?$")
+PY_FORMAT = re.compile("^([bpmfdtnlgkhjqxzcsr]|[zcs]h|ng|dd)?([aoeivuyrzm]+|ng)[nh]?[0-9]?$")
 
 def write_config():
     """生成主题文件_config.yml"""
@@ -29,10 +29,10 @@ def letter_index(dirs, out):
     out.append("**%s**  \n" % letters)
 
 def validate(py0, word):
-    py0 = re.sub("-[a-z1-8]+", "", py0)
+    py0 = re.sub("-[a-z1-9]+", "", py0)
     py0 = re.sub("（.*?）", "", py0).strip()
     py0 = re.sub("\(.*?\)", "", py0).strip()
-    syllables = re.split("[^a-z0-8]+", py0)
+    syllables = re.split("[^a-z0-9]+", py0)
     s=re.sub("[，—、：；×…？\*]|\wʰ|（.*?）|/.+","",word)
     if len(s) != len(syllables):
         print("%s 【%s】(%d)跟拼音(%d)不对应" % (path_from_pinyin(py0), word, len(s), len(syllables)))
@@ -57,9 +57,9 @@ def lower_er(py0, word):
 
 def path_from_pinyin(py0):
     """获取文件路径"""
-    py1 = re.sub("-[a-z1-8]+", "", py0)
+    py1 = re.sub("-[a-z1-9]+", "", py0)
     py1 = re.sub("（.*?）", "", py1).strip()
-    py1 = re.sub(r"\d", "", re.sub("[^a-z1-8]+", "_", py1))
+    py1 = re.sub(r"\d", "", re.sub("[^a-z1-9]+", "_", py1))
     py1 = py1.rstrip("_")
     if py1.__len__() == 0:
         print("拼音异常：%s" % py0)
@@ -112,7 +112,7 @@ def parse_cont(cont, fname):
     return Word(py0, pinyin, word, meaning, source, fname, mix(word, py0))
 
 def mix(word, py):
-    char_py_list = re.split("[^a-z0-8]+", py)
+    char_py_list = re.split("[^a-z0-9]+", py)
     char_list = re.sub("[，—、：；×…？\*]|\wʰ|（.*?）|/.+","",word)
     mix = ""
     i = 0
