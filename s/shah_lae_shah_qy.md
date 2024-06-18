@@ -1,4 +1,4 @@
 # 𪾠来𪾠去
-shah8 lae shah8 qy6
+shah8 lae shah8 qy5
 > 泰县方言志
 - 不停地左右看：他进来以后～的，不晓得寻甚的。
