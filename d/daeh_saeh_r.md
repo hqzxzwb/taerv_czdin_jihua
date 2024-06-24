@@ -12,3 +12,8 @@ daeh7 saeh r
 daeh7 saeh r
 > 泰县方言志
 - 拖鞋。
+
+# 搭趿儿
+dah7 saeh7 r
+> 如皋方言词典
+- 蒲叶拖鞋。旧时公共浴室常用。
