@@ -1,4 +1,4 @@
 # 懈怠儿话
-hae6 tae6 r hua6
+hae6 dae1 r hua6
 > 如皋方言词典
 - 恢谐有趣的话。
