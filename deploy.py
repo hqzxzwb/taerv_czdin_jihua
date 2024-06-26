@@ -30,8 +30,7 @@ def letter_index(dirs, out):
 
 def validate(py0, word):
     py0 = re.sub("-[a-z1-9]+", "", py0)
-    py0 = re.sub("（.*?）", "", py0).strip()
-    py0 = re.sub("\(.*?\)", "", py0).strip()
+    py0 = re.sub("（.*?）|\(.*?\)|…", "", py0).strip()
     syllables = re.split("[^a-z0-9]+", py0)
     s=re.sub("[，—、：；×…？\*]|\wʰ|（.*?）|/.+","",word)
     if len(s) != len(syllables):
