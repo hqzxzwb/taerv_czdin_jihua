@@ -142,7 +142,7 @@ def write_page(dirs, path, sample_out):
         check_path(w.fname, w.py0, w.word)
         link = LINK_FORMAT % (w.fname.replace("\\","/"), w.word)
         if w.source:
-            source = "<sup>[%s]</sup> " % re.sub(r'(方言词典|方言志)$', '', w.source)
+            source = "<sup>[%s]</sup> " % re.sub(r'(方言词典|方言志|方言辞典)$', '', w.source)
         else:
             source = w.source
         count += 1
