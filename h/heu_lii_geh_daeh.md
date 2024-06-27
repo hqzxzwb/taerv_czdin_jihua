@@ -20,4 +20,5 @@ heu2 lii geh7 daeh
 # 瘊里疙瘩
 heu2 lii geh7 daeh7
 > 泰县方言志
-- 粗糙：他的脸上～的。
+- 粗糙
+  - 他的脸上～的。

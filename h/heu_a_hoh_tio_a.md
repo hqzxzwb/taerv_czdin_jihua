@@ -1,4 +1,4 @@
 # 𨂸啊湱掉啊
-heu2 eh hoh7 tio a
+heu2 a hoh7 tio a
 > 东台方言词典
 - ［形］人声鼎沸，非常嘈杂。
