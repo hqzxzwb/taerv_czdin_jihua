@@ -30,11 +30,8 @@ def letter_index(dirs, out):
 
 def validate(py0, word):
     py0 = re.sub("-[a-z1-9]+", "", py0)
-    py0 = re.sub("（.*?）|\(.*?\)|…", "", py0).strip()
+    py0 = re.sub(r"（.*?）|\(.*?\)|…", "", py0).strip()
     syllables = re.split("[^a-z0-9]+", py0)
-    s=re.sub("[，—、：；×…？\*]|\wʰ|（.*?）|/.+","",word)
-    if len(s) != len(syllables):
-        print("%s 【%s】(%d)跟拼音(%d)不对应" % (path_from_pinyin(py0), word, len(s), len(syllables)))
     for py in syllables:
         if PY_FORMAT.match(py) is None:
             print("【%s】的拼音%s不对" % (word, py0))
@@ -76,7 +73,7 @@ def parse_pinyin(pinyin):
     """A B/C→AB, AC"""
     if "/" not in pinyin:
         return pinyin
-    pinyin = re.sub("([a-z]+)(\d)/(\d)", "\\1\\2/\\1\\3", pinyin)
+    pinyin = re.sub(r"([a-z]+)(\d)/(\d)", r"\1\2/\1\3", pinyin)
     py_list = [i.split("/") for i in pinyin.split(" ")]
     return ", ".join(map(" ".join, product(*py_list)))
 
@@ -111,10 +108,15 @@ def parse_cont(cont, fname):
     return Word(py0, pinyin, word, meaning, source, fname, mix(word, py0))
 
 def mix(word, py):
+    py = re.sub("-[a-z1-9]+", "", py)
+    py = re.sub(r"（.*?）|\(.*?\)|…", "", py).strip()
     char_py_list = re.split("[^a-z0-9]+", py)
-    char_list = re.sub("[，—、：；×…？\*]|\wʰ|（.*?）|/.+","",word)
+    char_list = re.findall(r"[\w□](?:\wʰ)*", re.sub(r"[，—、：；×…？\*]|（.*?）|/.+","",word))
     mix = ""
     i = 0
+    if len(char_py_list) != len(char_list):
+        print(char_list, char_py_list)
+        print("【%s】(%d)跟拼音(%d)不对应" % (word, len(char_list), len(char_py_list)))
     while i < len(char_list):
         mix += char_py_list[i] + " " + char_list[i] + " "
         i += 1
