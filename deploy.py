@@ -7,6 +7,7 @@ import re
 import string
 from itertools import product
 from collections import namedtuple
+from collections import defaultdict
 
 Word = namedtuple('Word', ['py0', 'pinyin', 'word', 'meaning', 'source', 'fname', 'sort_key'])
 
@@ -62,7 +63,7 @@ def parse_pinyin(pinyin):
     py_list = [i.split("/") for i in pinyin.split(" ")]
     return ", ".join(map(" ".join, product(*py_list)))
 
-def parse_cont(cont, fname):
+def parse_cont(cont, fname, cz_ien):
     """解析词条"""
     cont = cont.strip()
     fields = re.split("\n+", cont)
@@ -94,9 +95,11 @@ def parse_cont(cont, fname):
     mixed = mix(raw_word, py0)
     sort_key = ''
     word = ''
-    for it in mixed:
-        sort_key += it[1] + ' ' + it[0] + ' '
-        word += it[0]
+    for cz, ien in mixed:
+        sort_key += ien + ' ' + cz + ' '
+        word += cz
+        if ien != '' and len(cz) == 1 and cz not in cz_ien[ien]:
+            print("字音未收录：【%s】中的【%s】读作【%s】" % (raw_word, cz, ien))
     return Word(py0, pinyin, word, meaning, source, fname, sort_key)
 
 def mix(word, py):
@@ -132,7 +135,22 @@ def write_index(dirs, examples):
     f.writelines(lines)
     f.writelines(examples)
 
-def write_page(dirs, path, sample_out):
+def parse_cz_ien(f):
+    io = open(f, encoding="U8")
+    dict = defaultdict(lambda: set())
+    io.readline()
+    while True:
+        line = io.readline().rstrip('\n')
+        if not line:
+            break
+        split = line.split(',')
+        cz = split[1]
+        ien = split[2]
+        dict[ien].add(cz)
+        dict[re.sub(r'\d', '', ien)].add(cz) # 轻声
+    return dict
+
+def write_page(dirs, path, sample_out, cz_ien):
     """生成分页"""
     count = 0
     lines = []
@@ -141,7 +159,7 @@ def write_page(dirs, path, sample_out):
     conts = []
     for fname in glob.glob(path+"/*.md"):
         for cont in re.findall(r"#[^#]+", open(fname,encoding="U8").read()):
-            conts.append(parse_cont(cont, fname))
+            conts.append(parse_cont(cont, fname, cz_ien))
     for w in sorted(conts, key=lambda c: c.sort_key):
         check_path(w.fname, w.py0, w.word)
         link = LINK_FORMAT % (w.fname.replace("\\","/"), w.word)
@@ -160,8 +178,9 @@ def write_page(dirs, path, sample_out):
 dirs = string.ascii_lowercase.replace('w', '')
 write_config()
 samples = []
+cz_ien = parse_cz_ien("daen_cz.csv")
 for path in dirs:
     samples.append("## %s\n" % path.upper())
-    write_page(dirs, path, samples)
+    write_page(dirs, path, samples, cz_ien)
     samples.append("[更多...](./%s.md)\n"%path)
 write_index(dirs, samples)
