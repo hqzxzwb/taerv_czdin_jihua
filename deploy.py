@@ -163,7 +163,7 @@ def parse_cz_ien2(f, out):
         if match:
             cz = match[1]
             ien = match[2]
-            print("line ", line, " cz ", cz, " ien ", ien)
+            # print("line ", line, " cz ", cz, " ien ", ien)
             out[ien].add(cz)
             out[re.sub(r'\d', '', ien)].add(cz) # 轻声
 
