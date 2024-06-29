@@ -15,6 +15,11 @@ ORDERS = "①②③④⑤⑥⑦⑧⑨⑩"
 LINK_FORMAT = "https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/%s#%s"
 PY_FORMAT = re.compile("^([bpmfdtnlgkhjqxzcsr]|[zcs]h|ng|dd)?([aoeivuyrzm]+|ng)[nh]?[0-9]?$")
 
+FILTERED_OUT_IEN = {
+    '浇': 'xio1',
+    '合': 'guh7',
+}
+
 def write_config():
     """生成主题文件_config.yml"""
     os.system("""rm docs/*.yml docs/*.md; mkdir -p docs; cat > docs/_config.yml <<EOF
@@ -144,13 +149,14 @@ def parse_cz_ien(f, out):
             break
         split = line.split(',')
         cz = split[2]
-        ien = (split[3] + split[4] + split[5]).replace('vv', 'v')
+        ien = (split[3] + split[4] + split[5]).replace('vv', 'v').rstrip('0')
+        # 单音化
+        if FILTERED_OUT_IEN.get(cz) == ien:
+            continue
         out[ien].add(cz)
         out[re.sub(r'\d', '', ien)].add(cz) # 轻声
         # print("line ", line, " cz ", cz, " ien ", ien)
     out['lii'].add('里')
-    out['xio1'].remove('浇')
-    out['xio'].remove('浇')
 
 def parse_cz_ien2(f, out):
     io = open(f, encoding="U8")
