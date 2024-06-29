@@ -145,7 +145,9 @@ def parse_cz_ien(f):
             break
         split = line.split(',')
         cz = split[1]
-        ien = re.sub(r'iu(?=\d|$)', 'ieu', split[2].replace('vv', 'v'))
+        ien = split[2].replace('vv', 'v')
+        ien = re.sub(r'iu(?=\d|$)', 'ieu', ien)
+        ien = re.sub(r'^([zcs])(?=ih\d?$)', r'\1h', ien)
         dict[ien].add(cz)
         dict[re.sub(r'\d', '', ien)].add(cz) # 轻声
         # print("line ", line, " cz ", cz, " ien ", ien)
