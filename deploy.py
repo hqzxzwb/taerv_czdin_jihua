@@ -36,21 +36,6 @@ def validate(py0, word):
         if PY_FORMAT.match(py) is None:
             print("【%s】的拼音%s不对" % (word, py0))
 
-def lower_er(py0, word):
-    """儿尾变小"""
-    syllables = py0.split(" ")
-    validate(py0, word)
-    if "r" in syllables:
-        words = list(word)
-        index = 0
-        while "r" in syllables[index:]:
-            index = syllables.index("r", index)
-            if words[index] == "儿":
-                words[index] = "<sub>儿</sub>"
-            index += 1
-        word = "".join(words)
-    return word
-
 def path_from_pinyin(py0):
     """获取文件路径"""
     py1 = re.sub("-[a-z1-9]+", "", py0)
@@ -81,7 +66,7 @@ def parse_cont(cont, fname):
     """解析词条"""
     cont = cont.strip()
     fields = re.split("\n+", cont)
-    word = fields[0].lstrip("#").strip()
+    raw_word = fields[0].lstrip("#").strip()
     pinyin = parse_pinyin(fields[1].strip())
     meaning = ""
     source = ""
@@ -105,21 +90,38 @@ def parse_cont(cont, fname):
     #例句的冒号前不显示句号
     meaning = meaning.replace("。：", "：").strip()
     py0 = pinyin.split(",")[0]
-    return Word(py0, pinyin, word, meaning, source, fname, mix(word, py0))
+    validate(py0, raw_word)
+    mixed = mix(raw_word, py0)
+    sort_key = ''
+    word = ''
+    for it in mixed:
+        sort_key += it[1] + ' ' + it[0] + ' '
+        word += it[0]
+    return Word(py0, pinyin, word, meaning, source, fname, sort_key)
 
 def mix(word, py):
     py = re.sub("-[a-z1-9]+", "", py)
     py = re.sub(r"（.*?）|\(.*?\)|…", "", py).strip()
     char_py_list = re.split("[^a-z0-9]+", py)
-    char_list = re.findall(r"[\w□](?:\wʰ)*", re.sub(r"[，—、：；×…？\*]|（.*?）|/.+","",word))
-    mix = ""
+    char_list = re.findall(r"[\w□](?:\wʰ)*|[，—、：；×…？\*]|（.*?）|/.+", word)
+    mix = []
+    pi = 0
     i = 0
-    if len(char_py_list) != len(char_list):
-        print(char_list, char_py_list)
-        print("【%s】(%d)跟拼音(%d)不对应" % (word, len(char_list), len(char_py_list)))
     while i < len(char_list):
-        mix += char_py_list[i] + " " + char_list[i] + " "
+        char = char_list[i]
+        if re.match(r'[\w□]', char[0]):
+            py = char_py_list[pi]
+            pi += 1
+            if py == 'r' and char == '儿':
+                char = '<sub>儿</sub>'
+            else:
+                char = re.sub(r'(\w)ʰ', r'<sub>\1</sub>', char)
+            mix.append((char, py))
+        else:
+            mix.append((char, ''))
         i += 1
+    if pi != len(char_py_list) or i != len(char_list):
+        print("【%s】(%s)跟拼音(%s)不对应" % (word, char_list, char_py_list))
     return mix
 
 def write_index(dirs, examples):
@@ -148,7 +150,7 @@ def write_page(dirs, path, sample_out):
         else:
             source = w.source
         count += 1
-        out = "1. 【[%s](%s)】`%s` %s%s  \n" % (lower_er(w.py0, w.word), link, w.pinyin, source, w.meaning)
+        out = "1. 【[%s](%s)】`%s` %s%s  \n" % (w.word, link, w.pinyin, source, w.meaning)
         lines.append(out)
         if count <= 20:
             sample_out.append(out)
