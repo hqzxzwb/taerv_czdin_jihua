@@ -98,7 +98,7 @@ def parse_cont(cont, fname, cz_ien):
     for cz, ien in mixed:
         sort_key += ien + ' ' + cz + ' '
         word += cz
-        if ien != '' and len(cz) == 1 and cz not in cz_ien[ien]:
+        if ien != '' and len(cz) == 1 and cz not in cz_ien[ien.rstrip('9')]:
             print("字音未收录：【%s】中的【%s】读作【%s】" % (raw_word, cz, ien))
     return Word(py0, pinyin, word, meaning, source, fname, sort_key)
 
@@ -145,9 +145,12 @@ def parse_cz_ien(f):
             break
         split = line.split(',')
         cz = split[1]
-        ien = split[2]
+        ien = re.sub(r'iu(?=\d|$)', 'ieu', split[2].replace('vv', 'v'))
         dict[ien].add(cz)
         dict[re.sub(r'\d', '', ien)].add(cz) # 轻声
+        # print("line ", line, " cz ", cz, " ien ", ien)
+    dict['lii'].add('里')
+    dict['dii'].add('的')
     return dict
 
 def write_page(dirs, path, sample_out, cz_ien):
