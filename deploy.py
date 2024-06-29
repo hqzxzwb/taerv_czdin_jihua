@@ -135,9 +135,8 @@ def write_index(dirs, examples):
     f.writelines(lines)
     f.writelines(examples)
 
-def parse_cz_ien(f):
+def parse_cz_ien(f, out):
     io = open(f, encoding="U8")
-    dict = defaultdict(lambda: set())
     io.readline()
     while True:
         line = io.readline().rstrip('\n')
@@ -148,12 +147,25 @@ def parse_cz_ien(f):
         ien = split[2].replace('vv', 'v')
         ien = re.sub(r'iu(?=\d|$)', 'ieu', ien)
         ien = re.sub(r'^([zcs])(?=i[hn]\d?$)', r'\1h', ien)
-        dict[ien].add(cz)
-        dict[re.sub(r'\d', '', ien)].add(cz) # 轻声
+        out[ien].add(cz)
+        out[re.sub(r'\d', '', ien)].add(cz) # 轻声
         # print("line ", line, " cz ", cz, " ien ", ien)
-    dict['lii'].add('里')
-    dict['dii'].add('的')
-    return dict
+    out['lii'].add('里')
+    out['dii'].add('的')
+
+def parse_cz_ien2(f, out):
+    io = open(f, encoding="U8")
+    while True:
+        line = io.readline().rstrip('\n')
+        if not line:
+            break
+        match = re.match(r'^# (\w) ([a-z]+\d?)$', line)
+        if match:
+            cz = match[1]
+            ien = match[2]
+            print("line ", line, " cz ", cz, " ien ", ien)
+            out[ien].add(cz)
+            out[re.sub(r'\d', '', ien)].add(cz) # 轻声
 
 def write_page(dirs, path, sample_out, cz_ien):
     """生成分页"""
@@ -183,7 +195,9 @@ def write_page(dirs, path, sample_out, cz_ien):
 dirs = string.ascii_lowercase.replace('w', '')
 write_config()
 samples = []
-cz_ien = parse_cz_ien("daen_cz.csv")
+cz_ien = defaultdict(lambda: set())
+parse_cz_ien("daen_cz.csv", cz_ien)
+parse_cz_ien2("用字.md", cz_ien)
 for path in dirs:
     samples.append("## %s\n" % path.upper())
     write_page(dirs, path, samples, cz_ien)
