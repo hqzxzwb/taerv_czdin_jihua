@@ -156,9 +156,10 @@ def parse_cz_ien(f, out):
 def parse_cz_ien2(f, out):
     io = open(f, encoding="U8")
     while True:
-        line = io.readline().rstrip('\n')
+        line = io.readline()
         if not line:
             break
+        line = line.rstrip('\n')
         match = re.match(r'^# (\w) ([a-z]+\d?)$', line)
         if match:
             cz = match[1]
