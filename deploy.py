@@ -18,6 +18,7 @@ PY_FORMAT = re.compile("^([bpmfdtnlgkhjqxzcsr]|[zcs]h|ng|dd)?([aoeivuyrzm]+|ng)[
 FILTERED_OUT_IEN = {
     '浇': 'xio1',
     '合': 'guh7',
+    '核': {'hueh8', 'veh8'},
 }
 
 def write_config():
@@ -150,9 +151,12 @@ def parse_cz_ien(f, out):
         split = line.split(',')
         cz = split[2]
         ien = (split[3] + split[4] + split[5]).replace('vv', 'v').rstrip('0')
+
         # 单音化
-        if FILTERED_OUT_IEN.get(cz) == ien:
-            continue
+        ien_filter = FILTERED_OUT_IEN.get(cz)
+        if ien == ien_filter: continue
+        if type(ien_filter) == set and ien in ien_filter: continue
+
         out[ien].add(cz)
         out[re.sub(r'\d', '', ien)].add(cz) # 轻声
         # print("line ", line, " cz ", cz, " ien ", ien)
