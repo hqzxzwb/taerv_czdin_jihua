@@ -1,5 +1,5 @@
 # 叮吖上颚上
-dien1 eh shan6 ngah8 shan
+dien1 nga shan6 ngah8 shan
 > 东台方言词典
 - 以鱼吞饵上钩比喻因贪图私利而误中别人圈套不能摆脱
   - 有些宴请不能去，当心吃咖～！
