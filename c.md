@@ -555,10 +555,10 @@
 1. 【[柴笆门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_ba_men.md#柴笆门)】`chae2 ba men2` <sup>[兴化]</sup> ① 用柴笆扎成的简陋的门。 ② （借）指贫家小户：她是走～出来的。  
 1. 【[柴笆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_ba.md#柴笆)】`chae2 ba1` <sup>[兴化]</sup> 用芦柴编的篱笆。  
 1. 【[柴草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_co.md#柴草)】`chae2 co3` <sup>[兴化]</sup> 整齐成捆的芦苇茎叶。  
-1. 【[𠑞尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_xy.md#𠑞尿)】`chae6 xy1` <sup>[如东]</sup> 排泄小便。  
-1. 【[𠑞尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_xy.md#𠑞尿)】`chae6 xy1` <sup>[如皋]</sup> 排小便。  
-1. 【[𠑞尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_xy.md#𠑞尿)】`chae6 xy1` <sup>[东台]</sup> 解小便：带伢儿睡觉，夜里要拉他～。  
-1. 【[𠑞尿变](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_xy_bin.md#𠑞尿变)】`chae6 xy1 bin5` <sup>[如东]</sup> 刚决定的主意，一趟小便就改变了。形容主张不稳定，容易改变：这个人喜欢～。  
+1. 【[𠏾尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_xy.md#𠏾尿)】`chae6 xy1` <sup>[如东]</sup> 排泄小便。  
+1. 【[𠏾尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_xy.md#𠏾尿)】`chae6 xy1` <sup>[如皋]</sup> 排小便。  
+1. 【[𠏾尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_xy.md#𠏾尿)】`chae6 xy1` <sup>[东台]</sup> 解小便：带伢儿睡觉，夜里要拉他～。  
+1. 【[𠏾尿变](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_xy_bin.md#𠏾尿变)】`chae6 xy1 bin5` <sup>[如东]</sup> 刚决定的主意，一趟小便就改变了。形容主张不稳定，容易改变：这个人喜欢～。  
 1. 【[察觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaeh_jiah.md#察觉)】`chaeh7 jiah7` <sup>[东台]</sup> 发现。也作“觉察”。  
 1. 【[插](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaeh.md#插)】`chaeh7` <sup>[如皋]</sup> 梁与柱的组合体。用以架檩：砌三间屋要串四捧～。  
 1. 【[插班](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaeh_baen.md#插班)】`chaeh7 baen1` <sup>[东台]</sup> 在班上增加新学生；或指不经过排队插进队伍的行为。  
