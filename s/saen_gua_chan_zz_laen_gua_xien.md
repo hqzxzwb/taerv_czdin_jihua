@@ -1,4 +1,4 @@
 # 三挂肠子两挂心
-saen1 gua5 chan2 zz liaen3 gua5 xien1
+saen1 gua5 chan2 zz laen3 gua5 xien1
 > 兴化方言词典
 - 心挂念着两处或多处：“不回去也好，那我们就离了，省得～的……”（线国怀：《行路难》）
