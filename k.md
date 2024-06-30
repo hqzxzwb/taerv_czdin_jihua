@@ -931,11 +931,11 @@
 1. 【[㧟油瓶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_ieu_pien.md#㧟油瓶)】`kuae6 ieu2 pien2` <sup>[泰县]</sup> 寡妇改嫁后带来的子女。  
 1. 【[㧟笿<sub>儿</sub>的，挑担的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_lah_r_dii_tio_daen_dii.md#㧟笿<sub>儿</sub>的，挑担的)】`kuae6 lah8 r dii tio1 daen5 dii` <sup>[如皋]</sup> 泛指做小买卖的。  
 1. 【[㧟脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_lin.md#㧟脸)】`kuae6 lin3` <sup>[如东]</sup> 脸色不悦：她今朝㧟啊脸，可能是捱人骂啊。  
-1. 【[㧟鍬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_qio_r.md#㧟鍬<sub>儿</sub>)】`kuae6 qio1 r` <sup>[如皋]</sup> 见“揹锹儿”。  
+1. 【[㧟鍬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_qio_r.md#㧟鍬<sub>儿</sub>)】`kuae6 qio1 r` <sup>[如皋]</sup> 见“背锹儿”。  
 1. 【[㧟锹<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_qio_r.md#㧟锹<sub>儿</sub>)】`kuae6 qio1 r` <sup>[如东]</sup> 用锹柄背着死孩子去埋葬。这是咒骂小孩的话。  
 1. 【[㧟锹<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_qio_r.md#㧟锹<sub>儿</sub>)】`kuae6 qio1 r` <sup>[如皋]</sup> 詈语或昵语。原意为将已死的小孩用函子装殓，锹柄擓着去埋。  
 1. 【[㧟锹<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_qio_r.md#㧟锹<sub>儿</sub>)】`kuae6 qio1 r` <sup>[东台]</sup> 本指小孩死了，挎个铁锹去埋，是骂小孩的话。现在常用于对小孩子贱称或昵称。  
-1. 【[㧟屎笿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_shr_lah_r.md#㧟屎笿<sub>儿</sub>)】`kuae6 shr3 lah8 r` <sup>[如皋]</sup> ① 拾粪肥的笿。见“揹屎笿儿”。 ② 谑指穿中式裤时裤腰后部脱离裤带的样子。  
+1. 【[㧟屎笿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_shr_lah_r.md#㧟屎笿<sub>儿</sub>)】`kuae6 shr3 lah8 r` <sup>[如皋]</sup> ① 拾粪肥的笿。见“背屎笿儿”。 ② 谑指穿中式裤时裤腰后部脱离裤带的样子。  
 1. 【[毌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaeh.md#毌)】`kuaeh8` <sup>[如东]</sup> 滞碍：缆绳捱～住啊。  
 1. 【[毌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaeh.md#毌)】`kuaeh8` <sup>[如皋]</sup> 勾连遏阻：树枝儿～脸、衣裳捱～咖个洞、横横～～的。如皋民间方音字。  
 1. 【[毌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaeh.md#毌)】`kuaeh8` <sup>[兴化]</sup> ① 被尖刺勾挂着：褂子捱钉儿～破啊。｜腿子上～破一块皮。 ② （引）滞留：他有点小事～住，暂时来不了。 ③ 兴化词典作“劀”，《广韵·辖韵》古滑切“～，刮也。”（声母不合）  

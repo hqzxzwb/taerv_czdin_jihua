@@ -994,33 +994,33 @@
 1. 【[不准](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_zhuen.md#不准)】`beh7 zhuen3` <sup>[如东]</sup> 不同意，不允许。  
 1. 【[不转爪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_zhun_zho.md#不转爪)】`beh7 zhun3 zho3` <sup>[如皋]</sup> ① 不让变化、转移：贼子儿手伸叫我袋儿里，我揿住他的手，不放他～。 ② 集中注意力，盯住：细伢儿～的朝我相，到底认得咖。  
 1. 【[悲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei.md#悲)】`bei1` <sup>[东台]</sup> ① 哀痛，伤心：～哀；～剧；～观。 ② 怜悯，哀怜：～天悯人；慈～。  
-1. 【[揹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei.md#揹)】`bei1` <sup>[如皋]</sup> 牵连：某某吃官司，他老婆捱～啊下吃苦。也说“㧼bio5”。  
-1. 【[揹揹担<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_bei_daen_r.md#揹揹担<sub>儿</sub>)】`bei1 bei1 daen5 r` <sup>[如皋]</sup> 挑担时前轻后重。  
-1. 【[揹风作浪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_fon_zah_lan.md#揹风作浪)】`bei1 fon1 zah7 lan6` <sup>[如皋]</sup> 兴风作浪喻生事、挑事。  
-1. 【[揹家伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_jia_hu.md#揹家伙)】`bei1 jia1 hu` <sup>[如皋]</sup> 喻吃苦头。  
-1. 【[揹锹<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_qio_r.md#揹锹<sub>儿</sub>)】`bei1 qio1 r` <sup>[如皋]</sup> 詈、昵语。原意指用鍬揹着装了死孩子的“函子”去掩埋。  
-1. 【[揹屎笿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_shr_lah_r.md#揹屎笿<sub>儿</sub>)】`bei1 shr3 lah8 r` <sup>[如皋]</sup> ① 拾粪。 ② 扛、挑时前轻后重，复以手压前部，称之。 ③ 谑指穿中式裤时裤腰后部离开腰带的样子。  
 1. 【[杯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei.md#杯)】`bei1` <sup>[东台]</sup> ① 盛液体的器皿，多为圆柱体，一般不大：酒～；玻璃～；～盘狼藉。 ② 授予优胜者的奖品：奖～；金～。  
 1. 【[杯<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_r.md#杯<sub>儿</sub>)】`bei1 r` 杯子  
 1. 【[杯<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_r.md#杯<sub>儿</sub>)】`bei1 r` <sup>[泰县]</sup> 杯子。  
 1. 【[碑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei.md#碑)】`bei1` <sup>[东台]</sup> 竖立起来作为纪念物或标志的石制品，上面刻有文字或图案：里程～；界～；～文；立～；～帖。  
+1. 【[背](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei.md#背)】`bei1` <sup>[如皋]</sup> 牵连：某某吃官司，他老婆捱～啊下吃苦。也说“㧼bio5”。  
 1. 【[背](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei.md#背)】`bei1` <sup>[东台]</sup> 驮的意思：没得车子，我～五十斤米家来。  
 1. 【[背不住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_beh_chv.md#背不住)】`bei1 beh chv6` <sup>[兴化]</sup> 吃不消、承受不了：你这种老爷身体，～冻。｜他是粗人……较量起来，我～他一巴掌。（扬一《凤雏理事》）  
 1. 【[背不住来去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_beh_chv_lae_qy.md#背不住来去)】`bei1 beh7 chv6 lae2 qy5` <sup>[东台]</sup> 又叫“经不住来去”或“撑不住来去”，经受不住折腾的意思。  
 1. 【[背不动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_beh_ton.md#背不动)】`bei1 beh7 ton6` <sup>[东台]</sup> 超过极限的负荷。  
+1. 【[背背担<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_bei_daen_r.md#背背担<sub>儿</sub>)】`bei1 bei1 daen5 r` <sup>[如皋]</sup> 挑担时前轻后重。  
 1. 【[背带](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_dae.md#背带)】`bei1 dae5` <sup>[东台]</sup> 搭在肩上系住裤或裙的带子。  
 1. 【[背带裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_dae_kv.md#背带裤)】`bei1 dae5 kv5` <sup>[东台]</sup> 用带子搭在肩上系住的裤。  
 1. 【[背得住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_deh_chv.md#背得住)】`bei1 deh chv6` <sup>[兴化]</sup> 承受得了，能够支持：这吖重的担子，你哿～压？  
 1. 【[背得动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_deh_ton.md#背得动)】`bei1 deh7 ton6` <sup>[东台]</sup> 经得起的负担。  
 1. 【[背东西](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_don_xi.md#背东西)】`bei1 don1 xi1` <sup>[如东]</sup> 驮东西。  
+1. 【[背风作浪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_fon_zah_lan.md#背风作浪)】`bei1 fon1 zah7 lan6` <sup>[如皋]</sup> 兴风作浪喻生事、挑事。  
 1. 【[背害](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_hae.md#背害)】`bei1 hae6` <sup>[东台]</sup> 同“背累”。  
 1. 【[背黑锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_heh_gu.md#背黑锅)】`bei1 heh7 gu1` <sup>[如东]</sup> ① 比喻代人受过。 ② 泛指受冤枉。  
+1. 【[背家伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_jia_hu.md#背家伙)】`bei1 jia1 hu` <sup>[如皋]</sup> 喻吃苦头。  
 1. 【[背脊后头唱喏——反礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_jieh_heu_teu_chan_ra_faen_li.md#背脊后头唱喏——反礼)】`bei1 jieh7 heu6 teu2 chan5 ra3 faen3 li3` <sup>[东台]</sup>   
 1. 【[背累](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_luei.md#背累)】`bei1 luei6` <sup>[东台]</sup> 受别人牵连，遭受伤害。  
 1. 【[背伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_nga_r.md#背伢<sub>儿</sub>)】`bei1 nga2 r` <sup>[如东]</sup> 把小孩驮在背上。  
 1. 【[背纤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_qin.md#背纤)】`bei1 qin5` <sup>[兴化]</sup> 把纤绳放在背上拉：过去行船，顺风扯篷，顶风～、用篙、用桨。也称“拉纤”。  
 1. 【[背锹<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_qio_r.md#背锹<sub>儿</sub>)】`bei1 qio1 r` <sup>[如东]</sup> ① 锹放在肩头上背着。 ② 小孩死了，草席包着，用锹柄背着去埋葬。也叫背锹楠子。这是咒骂小孩的话：你这个～，我不打死你！  
 1. 【[背锹<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_qio_r.md#背锹<sub>儿</sub>)】`bei1 qio1 r` <sup>[如皋]</sup> 见“㧟锹儿”。  
+1. 【[背锹<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_qio_r.md#背锹<sub>儿</sub>)】`bei1 qio1 r` <sup>[如皋]</sup> 詈、昵语。原意指用鍬背着装了死孩子的“函子”去掩埋。  
+1. 【[背屎笿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_shr_lah_r.md#背屎笿<sub>儿</sub>)】`bei1 shr3 lah8 r` <sup>[如皋]</sup> ① 拾粪。 ② 扛、挑时前轻后重，复以手压前部，称之。 ③ 谑指穿中式裤时裤腰后部离开腰带的样子。  
 1. 【[背死尸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_sz_shr.md#背死尸)】`bei1 sz3 shr1` <sup>[东台]</sup> （詈语）指很不愿意背，但又没法拒绝：要我把这吖重的西瓜带到山顶，简直是～。  
 1. 【[背繵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_taen_zz.md#背繵子)】`bei1 taen2 zz` <sup>[东台]</sup> 在岸上背纤使船前进。  
 1. 【[背头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_teu.md#背头)】`bei1 teu2` <sup>[如东]</sup> ① 一头轻，一头重。 ② 比喻吃亏：这趟生意，我吃咖～。  

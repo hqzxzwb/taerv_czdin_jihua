@@ -1574,7 +1574,7 @@
 1. 【[神头鬼脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_teu_guei_lin.md#神头鬼脸)】`shen2 teu2 guei3 lin3` <sup>[东台]</sup> 怪模怪样。  
 1. 【[神头鹿眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_teu_loh_ngaen.md#神头鹿眼)】`shen2 teu2 loh8 ngaen3` <sup>[如东]</sup> 比喻眼神非常敏锐：这个人～的，你要当心吖。  
 1. 【[神仙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_xin.md#神仙)】`shen2 xin1` <sup>[如东]</sup> 神话传说中的人物，有超人的能力，能够超脱尘世，长生不老。比喻能够预料或猜透事情的人。比喻逍遥自在、毫无拘束和牵挂的人。  
-1. 【[神仙葫芦<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_xin_hv_lv_r.md#神仙葫芦<sub>儿</sub>)】`shen2 xin1 hv2 lv r` <sup>[如皋]</sup> 小葫芦。果壳蜂腰两端各有一个球腹，若画中神仙所揹者。  
+1. 【[神仙葫芦<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_xin_hv_lv_r.md#神仙葫芦<sub>儿</sub>)】`shen2 xin1 hv2 lv r` <sup>[如皋]</sup> 小葫芦。果壳蜂腰两端各有一个球腹，若画中神仙所背者。  
 1. 【[神仙葫芦<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_xin_hv_lv_r.md#神仙葫芦<sub>儿</sub>)】`shen2 xin1 hv2 lv r` <sup>[如东]</sup> 一种小葫芦。果壳呈蜂腰状，两端各有一个球，似画中神仙所背者。  
 1. 【[神仙汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_xin_tan.md#神仙汤)】`shen2 xin1 tan1` <sup>[如皋]</sup> 用调味品冲开水做成的过口汤。  
 1. 【[神仙汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_xin_tan.md#神仙汤)】`shen2 xin1 tan1` <sup>[如东]</sup> 一种简单的汤菜。在碗里放入少许虾皮或紫菜、酱油、葱花、味精，用开水一冲即成。  

@@ -1862,7 +1862,7 @@
 1. 【[叶蝶<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih_tih_r.md#叶蝶<sub>儿</sub>)】`ih8 tih8 r` <sup>[泰县]</sup> 蝴蝶。  
 1. 【[叶子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih_zz.md#叶子)】`ih8 zz` <sup>[兴化]</sup> 纸牌：下午，四个老太婆在家里玩～。  
 1. 【[拽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih.md#拽)】`ih8` <sup>[东台]</sup> 本指拉、牵引，东台方言常形容艰难前行的样子：我俫腿脚不好，慢慢向前～吧。  
-1. 【[拽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih.md#拽)】`ih8` <sup>[如皋]</sup> 拖、揹、拉：你在后头推车子，我在前头～车子。  
+1. 【[拽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih.md#拽)】`ih8` <sup>[如皋]</sup> 拖、背（bei1）、拉：你在后头推车子，我在前头～车子。  
 1. 【[拽材](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih_cae.md#拽材)】`ih8 cae2` <sup>[如皋]</sup> 出殡时，孝子、孝孙在棺材前结白布牵引。  
 1. 【[页子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih_zz.md#页子)】`ih8 zz` <sup>[兴化]</sup> 钞票的隐语：好东好西我全想要，可惜手上没～。  
 1. 【[咦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ii.md#咦)】`ii2` <sup>[如东]</sup> 表示疑问惊讶的词。  
