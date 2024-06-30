@@ -1,5 +1,5 @@
 # 不推扳
-beh7 tuei1 baen3
+beh7 tuei1 baen1
 > 如东方言词典
 - 不会出差错。
   - 他做事～。
@@ -7,4 +7,5 @@ beh7 tuei1 baen3
 # 不推扳
 beh7 tuei1 baen1
 > 泰县方言志
-- 不差，不简单：这件事～。
+- 不差，不简单
+  - 这件事～。
