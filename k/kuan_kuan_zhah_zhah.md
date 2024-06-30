@@ -12,4 +12,4 @@ kuan1 kuan1 zhah7 zhah7
 # 匡匡酌酌
 kuan1 kuan1 zhah7 zhah7
 > 泰县方言志
-- 估算：这杲昃～有两斤多重。
+- 估算：这杲子～有两斤多重。
