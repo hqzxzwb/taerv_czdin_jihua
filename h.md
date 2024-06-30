@@ -425,8 +425,8 @@
 1. 【[苋菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_cae.md#苋菜)】`haen6 cae5` <sup>[如东]</sup> 苋科植物苋菜，一年生草本植物。高约150厘米。茎直立，分枝较少，枝绿色。叶互生，棱状广卵形或村角状楔形，叶有绿色、红色、暗紫色或带紫斑等。花序在下部者呈球形，上部呈稍断续的穗状花序。花黄绿色，单性，雌雄同株。胞果椭圆形。种子黑褐色。栽培。  
 1. 【[苋菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_cae.md#苋菜)】`haen6 cae5` <sup>[东台]</sup> 一种蔬菜。茎细长，叶子椭圆形，有长柄，暗紫色或绿色，花绿白色，种子黑色。  
 1. 【[苋菜果](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_cae_gu.md#苋菜果)】`haen6 cae5 gu3` <sup>[泰县]</sup> 苋菜茎部腌制成的食品。  
-1. 【[苋菜臌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_cae_gv.md#苋菜臌)】`haen6 cae5 gv3` <sup>[东台]</sup> 将老苋菜粗壮的茎放在咸菜卤中发酵泡制的小菜。  
-1. 【[苋菜臌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_cae_gv.md#苋菜臌)】`haen6 cae5 gv3` <sup>[兴化]</sup> 苋菜的茎腌制，有特殊臭味，能开胃。  
+1. 【[苋菜股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_cae_gv.md#苋菜股)】`haen6 cae5 gv3` <sup>[东台]</sup> 将老苋菜粗壮的茎放在咸菜卤中发酵泡制的小菜。  
+1. 【[苋菜股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_cae_gv.md#苋菜股)】`haen6 cae5 gv3` <sup>[兴化]</sup> 苋菜的茎腌制，有特殊臭味，能开胃。  
 1. 【[限定](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_tien.md#限定)】`haen6 tien6` 必须  
 1. 【[限定](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_tien.md#限定)】`haen6 tien6` <sup>[如东]</sup> 规定：不～甚的时候动身。  
 1. 【[陷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen.md#陷)】`haen6` <sup>[如东]</sup> 脚踩在烂泥上往下沉，叫陷：这许沙土软，～脚。  

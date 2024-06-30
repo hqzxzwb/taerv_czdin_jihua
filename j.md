@@ -1181,7 +1181,7 @@
 1. 【[酒饭相待](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_faen_xian_tae.md#酒饭相待)】`jieu3 faen6 xian1 tae6` <sup>[兴化]</sup> 置酒菜热情款待来客：娘家人来啊，她～。  
 1. 【[酒逢知己千杯少，话不投机半句多](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_fon_zhr_ji_qin_bei_sho_hua_beh_teu_ji_bun_jy_du.md#酒逢知己千杯少，话不投机半句多)】`jieu3 fon2 zhr1 ji3 qin1 bei1 sho3 hua6 beh7 teu2 ji1 bun5 jy5 du1` <sup>[东台]</sup> 饮酒、交谈取决于是否情投意合。  
 1. 【[酒鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_guei.md#酒鬼)】`jieu3 guei3` <sup>[如东]</sup> 酷爱喝酒的人。  
-1. 【[酒臌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_gv.md#酒臌)】`jieu3 gv3` <sup>[如东]</sup> 经常饮酒、过量饮酒而造成肝硬化、肝腹水，中医称酒臌症。  
+1. 【[酒鼓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_gv.md#酒鼓)】`jieu3 gv3` <sup>[如东]</sup> 经常饮酒、过量饮酒而造成肝硬化、肝腹水，中医称酒鼓症。  
 1. 【[酒海](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_hae.md#酒海)】`jieu3 hae3` <sup>[如东]</sup> 酒坛的一种。陶制，圆柿形，规格不一，一般标准，身高85厘米，颈高3厘米，口径20厘米，肚径78厘米，底径50厘米。容积大，称酒海。  
 1. 【[酒海](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_hae.md#酒海)】`jieu3 hae3` <sup>[东台]</sup> ① 旧时盛酒的器具。 ② 戏称酒量大的人。  
 1. 【[酒后吐真言](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_heu_tv_zhen_in.md#酒后吐真言)】`jieu3 heu6 tv3 zhen1 in2` <sup>[东台]</sup> 酒喝多了以后会说真话。  

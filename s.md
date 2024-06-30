@@ -2726,7 +2726,7 @@
 1. 【[水关](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_guaen.md#水关)】`shuei3 guaen1` <sup>[如皋]</sup> 城墙下的水门。  
 1. 【[水关](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_guaen.md#水关)】`shuei3 guaen1` <sup>[兴化]</sup> 旧时城内市河通外河的进出口：以前兴化有东、西、南、北四个～。  
 1. 【[水鬼子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_guei_zz.md#水鬼子)】`shuei3 guei3 zz` <sup>[泰县]</sup> 冬季穿皮衣摸鱼的人。  
-1. 【[水臌胀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_gv_zhan.md#水臌胀)】`shuei3 gv3 zhan5` <sup>[如皋]</sup> 病名。腹腔有积液而胀起可能是姜片虫、血吸虫、肝病的后期症状  
+1. 【[水鼓胀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_gv_zhan.md#水鼓胀)】`shuei3 gv3 zhan5` <sup>[如皋]</sup> 病名。腹腔有积液而胀起可能是姜片虫、血吸虫、肝病的后期症状  
 1. 【[水鼓胀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_gv_zhan.md#水鼓胀)】`shuei3 gv3 zhan5` <sup>[如东]</sup> 指肝腹水。  
 1. 【[水鼓胀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_gv_zhan.md#水鼓胀)】`shuei3 gv3 zhan5` <sup>[泰县]</sup> 肝腹水。  
 1. 【[水下巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_ha_ba.md#水下巴)】`shuei3 ha6 ba` <sup>[如皋]</sup> 传统水车的槽两端的下部。  
