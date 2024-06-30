@@ -164,7 +164,6 @@ def parse_cz_ien(f, out):
         out[ien].add(cz)
         out[re.sub(r'\d', '', ien)].add(cz) # 轻声
         # print("line ", line, " cz ", cz, " ien ", ien)
-    out['lii'].add('里')
 
 def parse_cz_ien2(f, out):
     io = open(f, encoding="U8")
