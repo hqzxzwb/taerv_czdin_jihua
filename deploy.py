@@ -18,8 +18,10 @@ PY_FORMAT = re.compile("^([bpmfdtnlgkhjqxzcsr]|[zcs]h|ng|dd)?([aoeivuyrzm]+|ng)[
 FILTERED_OUT_IEN = {
     '合': 'guh7',
     '核': {'hueh8', 'veh8'},
+    '烘': 'hon5',
     '期': 'ji1',
     '挨': 'ngae2',
+    '什': 'shen2',
     '浇': 'xio1',
 }
 
