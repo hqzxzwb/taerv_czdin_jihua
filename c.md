@@ -1034,7 +1034,7 @@
 1. 【[秤二毫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_er_ho.md#秤二毫)】`chen5 er6 ho2` <sup>[如东]</sup> 杆秤上第二根提纽。通常看怀花。  
 1. 【[秤钩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_geu_zz.md#秤钩子)】`chen5 geu1 zz` <sup>[如东]</sup> 连在秤刀上用以钩住物体秤重量的钩子。  
 1. 【[秤杆梁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_gun_lian.md#秤杆梁)】`chen5 gun3 lian2` <sup>[如东]</sup> 房屋上的一架梁。一根木头连接前后边檐，这架梁称秤杆梁。  
-1. 【[秤杆子插到鸡窠里——尽捣蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_gun_zz_chaeh_do_ji_ku_lii_jien_do_taen.md#秤杆子插到鸡窠里——尽捣蛋)】`chen5 gun3 zz chaeh7 do5 ji1 ku1 lii jien5 do3 taen6` <sup>[东台]</sup>   
+1. 【[秤杆子插到鸡窠里——尽捣蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_gun_zz_chaeh_do_ji_ku_lii_jien_do_taen.md#秤杆子插到鸡窠里——尽捣蛋)】`chen5 gun3 zz chaeh7 do5 ji1 ku1 lii jien3 do3 taen6` <sup>[东台]</sup>   
 1. 【[秤毫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_ho_r.md#秤毫<sub>儿</sub>)】`chen5 ho2 r` <sup>[如皋]</sup> 秤毫。  
 1. 【[秤毫提](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_ho_ti.md#秤毫提)】`chen5 ho2 ti2` <sup>[如东]</sup> 杆秤的提纽。  
 1. 【[秤花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_hua.md#秤花)】`chen5 hua1` <sup>[如东]</sup> 秤杆上的星。  

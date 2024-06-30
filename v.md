@@ -104,7 +104,7 @@
 1. 【[无可奈何](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_ku_nae_hu.md#无可奈何)】`v2 ku3 nae6 hu2` <sup>[如东]</sup> 没有办法。  
 1. 【[无赖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_lae.md#无赖)】`v2 lae6` <sup>[如东]</sup> 放刁耍赖，不讲道理：他耍～。游手好闲，品行不好的人。｜他是一个～。  
 1. 【[无零不成账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_lien_beh_chen_zhan.md#无零不成账)】`v2 lien2 beh7 chen2 zhan5` <sup>[东台]</sup> 指一般账目应该有尾数，不可能正好是整数。  
-1. 【[无理无故的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_lii_v_gv_dii.md#无理无故的)】`v2 lii v2 gv5 dii` <sup>[如皋]</sup> 见“无夭夭的”。  
+1. 【[无里无故的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_lii_v_gv_dii.md#无里无故的)】`v2 lii v2 gv5 dii` <sup>[如皋]</sup> 见“无夭夭的”。  
 1. 【[无聊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_lio.md#无聊)】`v2 lio2` <sup>[如东]</sup> 无事可做，觉得没有意思。  
 1. 【[无其数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_qi_shv.md#无其数)】`v2 qi2 shv5` <sup>[兴化]</sup> 形容多得无法计算：这聚宝门……何止一千个牛，一万个猪，粮食更一。（《儒林外史》二四）  
 1. 【[无情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_qien.md#无情)】`v2 qien2` <sup>[如东]</sup> 没有感情。不留情面：这样处理太～吖。  
