@@ -11,7 +11,7 @@ kuae6 qio1 r
 # 㧟鍬儿
 kuae6 qio1 r
 > 如皋方言词典
-- 见“揹锹儿”。
+- 见“背锹儿”。
 
 # 㧟锹儿
 kuae6 qio1 r
