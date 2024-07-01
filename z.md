@@ -995,7 +995,7 @@
 1. 【[砧板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_baen.md#砧板)】`zhen1 baen3` <sup>[如东]</sup> 垫在下面切东西的工具，叫做砧板。也叫切板。  
 1. 【[蒸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen.md#蒸)】`zhen1` <sup>[如东]</sup> 一种烹调方法。利用水蒸气的热量使食物变热、变熟。  
 1. 【[蒸饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_faen.md#蒸饭)】`zhen1 faen6` <sup>[如东]</sup> ① 做饭的一种方法。把米放在甑子里蒸熟。 ② 饭的一种。用甑子蒸熟的饭，叫蒸饭：这是～。 ③ 把冷饭放在蒸笼或甑子中加温。  
-1. 【[蒸饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_faen.md#蒸饭)】`zhen1 faen6` <sup>[兴化]</sup> 一种食品，蒸熟的糯米饭包砂糖、油条等，用布勒成团后进食。‖也作“粢饭”。  
+1. 【[蒸饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_faen.md#蒸饭)】`zhen1 faen6` <sup>[兴化]</sup> 一种食品，蒸熟的糯米饭包砂糖、油条等，用布勒成团后进食。‖也作“糍饭”。  
 1. 【[蒸笼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_lon.md#蒸笼)】`zhen1 lon2` <sup>[如东]</sup> 蒸馒头的工具。木制、竹制或金属制，方形或圆形，一层层地垒起来把馒头放在里面加温蒸熟。  
 1. 【[蒸秋脱伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_qieu_tuh_foh.md#蒸秋脱伏)】`zhen1 qieu1 tuh7 foh8` <sup>[兴化]</sup> 立秋以后的炎夏余威，令人酷热难当：现在是～，热不了几天就转凉㗁！  
 1. 【[蒸人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_ren.md#蒸人)】`zhen1 ren` <sup>[兴化]</sup> ① 夏天在阳光下暴晒时的燥热感。 ② 炎热天气，在楼顶层或屋面材料单薄的室内所产生的闷热感。  
