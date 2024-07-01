@@ -2128,6 +2128,7 @@
 1. 【[诸泡交易诸泡怨，窑子里婊子怕讨汉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_po_jio_i_zhv_po_iun_io_zz_lii_bio_zz_pa_to_hun.md#诸泡交易诸泡怨，窑子里婊子怕讨汉)】`zhv1 po1 jio1 i6 zhv1 po1 iun5 io2 zz lii bio3 zz pa5 to3 hun5` <sup>[东台]</sup> 什么活儿千多了都会产生厌倦情绪。  
 1. 【[诸亲六眷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_qien_loh_jiun.md#诸亲六眷)】`zhv1 qien1 loh8 jiun5` <sup>[兴化]</sup> 泛指各方面亲戚：过了三日，王德、王仁果然到严家来写了几十副贴子，遍请……（《儒林外史》五）  
 1. 【[诸债临门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_zhae_lien_men.md#诸债临门)】`zhv1 zhae5 lien2 men2` <sup>[兴化]</sup> 各方面债权人登门讨债：他为何要卖这个宅子呢？因一，生活不得过了……（《扬州说书选·戴宗巧计请萧止》）  
+1. 【[主家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_ga.md#主家)】`zhv3 ga` <sup>[如皋]</sup> 主方、主人。  
 1. 【[主家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_ga.md#主家)】`zhv3 ga1` <sup>[泰县]</sup> ① 老板。 ② 主人翁。  
 1. 【[主顾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_gv.md#主顾)】`zhv3 gv5` <sup>[如皋]</sup> 老顾客。  
 1. 【[主户](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_hv.md#主户)】`zhv3 hv6` <sup>[如东]</sup> 比喻重要户籍或主要人物：这些～。  
@@ -2135,7 +2136,6 @@
 1. 【[主家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_jia.md#主家)】`zhv3 jia` <sup>[兴化]</sup> 主人家，或指办事的人家。谚曰：随得～意，唱得好把戏。  
 1. 【[主家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_jia.md#主家)】`zhv3 jia1` <sup>[如东]</sup> 主事的人家。  
 1. 【[主家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_jia.md#主家)】`zhv3 jia1` <sup>[东台]</sup> 雇主，请人做事的一方：～出钱让你办，应该不成问题。  
-1. 【[主家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_ka.md#主家)】`zhv3 ka` <sup>[如皋]</sup> 主方、主人。  
 1. 【[主口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_keu.md#主口)】`zhv3 keu3` <sup>[如皋]</sup> 批准，同意。  
 1. 【[主屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_oh.md#主屋)】`zhv3 oh7` <sup>[如东]</sup> 居主位的房屋。也叫堂屋。  
 1. 【[主烧不一当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_sho_beh_ieh_dan.md#主烧不一当)】`zhv3 sho1 beh7 ieh7 dan` <sup>[东台]</sup> 形容拿不定主张，主意多变。见“烧主”。  
