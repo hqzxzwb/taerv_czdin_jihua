@@ -2047,11 +2047,9 @@
 1. 【[猪包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_bo.md#猪包)】`zhv1 bo1` <sup>[泰县]</sup> 卖猪的钱。  
 1. 【[猪包客人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_bo_keh_ren.md#猪包客人)】`zhv1 bo1 keh7 ren` <sup>[如皋]</sup> 见“猪客人”。  
 1. 【[猪仓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_can.md#猪仓)】`zhv1 can1` <sup>[兴化]</sup> 旧称面积较大，豢养头数较多的猪圈。  
-1. 【[猪肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_chan.md#猪肠)】`zhv1 chan2` <sup>[如东]</sup> 猪科动物猪肠。  
 1. 【[猪船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_chun.md#猪船)】`zhv1 chun2` <sup>[如皋]</sup> 专门装运生猪的木船。  
 1. 【[猪得起来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_deh_qi_lae.md#猪得起来)】`zhv1 deh7 qi3 lae2` <sup>[如皋]</sup> 顶撞，毫无顾忌。  
 1. 【[猪肚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_dv.md#猪肚)】`zhv1 dv3` <sup>[如东]</sup> 猪科动物猪肚。  
-1. 【[猪肺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_fei.md#猪肺)】`zhv1 fei5` <sup>[如东]</sup> 猪科动物猪肺。  
 1. 【[猪肤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_fv.md#猪肤)】`zhv1 fv1` <sup>[如东]</sup> 猪科动物猪皮肤。  
 1. 【[猪夹气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_gaeh_qi.md#猪夹气)】`zhv1 gaeh7 qi5` <sup>[如皋]</sup> 猪特有的腥味。  
 1. 【[猪拱拱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_gon_gon_r.md#猪拱拱<sub>儿</sub>)】`zhv1 gon3 gon3 r` 猪鼻子  
@@ -2059,7 +2057,6 @@
 1. 【[猪拱拱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_gon_gon_r.md#猪拱拱<sub>儿</sub>)】`zhv1 gon3 gon3 r` <sup>[如东]</sup> 猪口头上隆起的部分。  
 1. 【[猪拱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_gon_r.md#猪拱<sub>儿</sub>)】`zhv1 gon3 r` 猪鼻子  
 1. 【[猪骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_gueh.md#猪骨)】`zhv1 gueh7` <sup>[如东]</sup> 猪科动物猪骨。  
-1. 【[猪肝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_gun.md#猪肝)】`zhv1 gun1` <sup>[如东]</sup> 猪科动物猪肝。  
 1. 【[猪灌膏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_gun_go.md#猪灌膏)】`zhv1 gun5 go1` <sup>[如东]</sup> 鼬科动物猪獾脂肪油，也叫貒膏。  
 1. 【[猪行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_han.md#猪行)】`zhv1 han2` <sup>[如皋]</sup> 介绍或经营生猪的商家。  
 1. 【[猪货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_hu.md#猪货)】`zhv1 hu5` <sup>[如皋]</sup> 见“猪头三”。  

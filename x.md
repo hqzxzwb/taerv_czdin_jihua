@@ -1890,7 +1890,6 @@
 1. 【[涍猪食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_zhv_sheh.md#涍猪食)】`xio5 zhv1 sheh8` <sup>[如皋]</sup> 加水调猪食。如皋词典写“潲猪食”。  
 1. 【[笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio.md#笑)】`xio5` <sup>[如皋]</sup> ① 取笑、开心。 ② 讥笑。 ③ 耻笑。 ④ 裂：额头磕咖～下来啊。  
 1. 【[笑啊漷起来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_a_kuah_qi_lae_a.md#笑啊漷起来啊)】`xio5 a kuah8 qi lae2 a` <sup>[如皋]</sup> 笑声高而起浪。  
-1. 【[笑啊漷起来呀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_a_kuah_qi_lae_a.md#笑啊漷起来呀)】`xio5 a kuah8 qi3 lae2 a` <sup>[如皋]</sup> 大笑，笑声起浪。  
 1. 【[笑宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_bo_r.md#笑宝<sub>儿</sub>)】`xio5 bo3 r` <sup>[如皋]</sup> 责语或昵语。指特别爱笑、一笑难止的人。  
 1. 【[笑佛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_feh.md#笑佛)】`xio5 feh8` <sup>[如皋]</sup> 弥勒佛。  
 1. 【[笑佛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_feh_r.md#笑佛<sub>儿</sub>)】`xio5 feh8 r` <sup>[如皋]</sup> 弥勒佛。  
