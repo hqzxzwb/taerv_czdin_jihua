@@ -1446,7 +1446,7 @@
 1. 【[中间当<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_gaen_dan_r.md#中间当<sub>儿</sub>)】`zhon1 gaen1 dan5 r` <sup>[如东]</sup> 中部位置：把麻袋放吖～。  
 1. 【[中间段<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_gaen_tun_r.md#中间段<sub>儿</sub>)】`zhon1 gaen1 tun6 r` <sup>[如东]</sup> 中部的一段：把～给毛毛。  
 1. 【[中间心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_gaen_xien.md#中间心)】`zhon1 gaen1 xien1` <sup>[如东]</sup> 物体的中心：～变吖质。  
-1. 【[中间心里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_gaen_xien_dii.md#中间心里)】`zhon1 gaen1 xien1 dii` <sup>[如皋]</sup> 指包裹物的中心区：他把银洋钱包啊在棉花胎的～；他吃包儿专吃～的馅子。  
+1. 【[中间心里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_gaen_xien_lii.md#中间心里)】`zhon1 gaen1 xien1 lii` <sup>[如皋]</sup> 指包裹物的中心区：他把银洋钱包啊在棉花胎的～｜他吃包儿专吃～的馅子。  
 1. 【[中觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_go.md#中觉)】`zhon1 go5` <sup>[如皋]</sup> 午睡。  
 1. 【[中锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_gu.md#中锅)】`zhon1 gu1` <sup>[如皋]</sup> 砖灶三间，中间的一口锅。  
 1. 【[中光货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_guan_hu.md#中光货)】`zhon1 guan1 hu5` <sup>[兴化]</sup> 品位和质量一般的货色：这批服装都是～，比较适销。  
@@ -2102,7 +2102,6 @@
 1. 【[猪食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_sheh.md#猪食)】`zhv1 sheh8` <sup>[如东]</sup> 猪饲料。  
 1. 【[猪食槽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_sheh_co.md#猪食槽)】`zhv1 sheh8 co2` <sup>[如东]</sup> 存放猪饲料的容器。长方形或方形，石制或砖制，也有木制的。喂猪用。  
 1. 【[猪食槽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_sheh_co.md#猪食槽)】`zhv1 sheh8 co2` <sup>[兴化]</sup> 供猪吃食的器具，长条形，高约5寸许，中间为盛放猪食的凹槽。用木板、石料或混凝土制成。  
-1. 【[猪肾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_shen.md#猪肾)】`zhv1 shen5` <sup>[如东]</sup> 猪科动物猪肾。  
 1. 【[猪屎豆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_shr_teu_r.md#猪屎豆<sub>儿</sub>)】`zhv1 shr3 teu6 r` <sup>[如东]</sup> 野生绿豆。种子小，深褐色。可食。  
 1. 【[猪尿泡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_suei_po.md#猪尿泡)】`zhv1 suei1 po1` <sup>[兴化]</sup> 猪膀胱。  
 1. 【[猪头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_teu.md#猪头)】`zhv1 teu2` <sup>[如皋]</sup> 笨蛋，傻蛋。  
@@ -2469,11 +2468,11 @@
 1. 【[做獃人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_ngae_ren.md#做獃人)】`zu5 ngae2 ren2` <sup>[如皋]</sup> 不予通融，因之得罪于人。  
 1. 【[做矮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_ngae_zz.md#做矮子)】`zu5 ngae3 zz` <sup>[如皋]</sup> 交往攀比中被矮化下来：他家办喜事，我不曾去应酬，～啦！  
 1. 【[做矮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_ngae_zz.md#做矮子)】`zu5 ngae3 zz` <sup>[东台]</sup> 做事低人一等，感到没面子：前天老母生日，弟兄几个我出钱最少，真是～。  
+1. 【[做矮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_ngae_zz.md#做矮子)】`zu5 ngae3 zz` <sup>[兴化]</sup> 不参与请客送礼活动：他俫给头儿送礼贺寿，我怎吖好～？  
 1. 【[做碍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_ngae.md#做碍)】`zu5 ngae6` 起纠纷，闹别扭，多指小孩  
 1. 【[做碍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_ngae.md#做碍)】`zu5 ngae6` <sup>[如皋]</sup> ① 指小孩间闹矛盾。 ② 若称青年间闹矛盾为～，就表示看轻，不作一回事，起劝慰、化解作用。  
 1. 【[做碍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_ngae.md#做碍)】`zu5 ngae6` <sup>[如东]</sup> 小孩吵嘴打架：不要～。  
 1. 【[做眼色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_ngaen_seh.md#做眼色)】`zu5 ngaen3 seh7` <sup>[如皋]</sup> 以目示意。  
-1. 【[做矮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_ngaen_zz.md#做矮子)】`zu5 ngaen3 zz` <sup>[兴化]</sup> 不参与请客送礼活动：他俫给头儿送礼贺寿，我怎吖好～？  
 1. 【[做呢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_nii.md#做呢)】`zu5 nii` <sup>[泰县]</sup> 干什么。  
 1. 【[做呢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_nii.md#做呢)】`zu5 nii2` 做甚的的略音，做什么。  
 1. 【[做呢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_nii.md#做呢)】`zu5 nii2` <sup>[如东]</sup> 做什么：你在下～？  
@@ -2718,7 +2717,7 @@
 1. 【[子午线](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_v_xin.md#子午线)】`zz3 v3 xin5` <sup>[如东]</sup> ① 为测量地球而假设的南（午）北（子）方向的线，称子午线，也称子午圈。通称经线。 ② 磁场的南极与北极之间的连线称子午线。也称磁子午线。 ③ 与房屋垂直的一根南北线，称子午线。  
 1. 【[子息](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_xieh.md#子息)】`zz3 xieh7` <sup>[如皋]</sup> 后代，后代繁衍不息。  
 1. 【[子息单](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_xieh_daen.md#子息单)】`zz3 xieh7 daen1` <sup>[如皋]</sup> 后代不繁茂。  
-1. 【[子日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_ya.md#子日)】`zz3 ya1` <sup>[兴化]</sup> （借）名堂、头绪：问吖半天，也不曾说出个～来。  
+1. 【[子曰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_ya.md#子曰)】`zz3 ya1` <sup>[兴化]</sup> （借）名堂、头绪：问吖半天，也不曾说出个～来。  
 1. 【[子正](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_zhen.md#子正)】`zz3 zhen5` <sup>[如皋]</sup> 半夜十二点正。  
 1. 【[子猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_zhv.md#子猪)】`zz3 zhv1` <sup>[如皋]</sup> 骟过的小猪，不论原性别。  
 1. 【[梓叶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_ih.md#梓叶)】`zz3 ih8` <sup>[如东]</sup> 紫葳科植物梓树叶。  
