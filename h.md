@@ -1757,8 +1757,9 @@
 1. 【[豁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_zz.md#豁子)】`huaeh7 zz` <sup>[如东]</sup> ① 口子：河堤上冲吖个～。 ② 比喻问题：出咖大～。  
 1. 【[豁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_zz.md#豁子)】`huaeh7 zz` <sup>[东台]</sup> 纰漏：他手伸得太长，明吖越个～不得小。（另见“豁子”）  
 1. 【[𧽌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh.md#𧽌)】`huaeh7` <sup>[东台]</sup> 越过：这哿水沟，他一～就过去啊。  
-1. 【[𧽌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh.md#𧽌)】`huaeh7` <sup>[兴化]</sup> ① 跳越：小沟头子他一～就过去啊。 ② 越级：从三年级～到五年级（～级）。《集韵·黠的》户八切｜“～，走也”。  
+1. 【[𧽌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh.md#𧽌)】`huaeh7` <sup>[兴化]</sup> ① 跳越：小沟头子他一～就过去啊。 ② 越级：从三年级～到五年级（～级）。《集韵·黠的》户八切：“～，走也”。  
 1. 【[𧽌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh.md#𧽌)】`huaeh7` <sup>[泰县]</sup> 跳跃、超越而过：～过一条沟。  
+1. 【[𧽌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh.md#𧽌)】`huaeh7` <sup>[泰兴]</sup> ① 跳跃越过 ② 言行程远：老远的～得来，就为买个烧饼  
 1. 【[𧽌沟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_geu.md#𧽌沟)】`huaeh7 geu1` <sup>[如皋]</sup> 跳过河去。  
 1. 【[𧽌连叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_lin_cha.md#𧽌连叉)】`huaeh7 lin2 cha1` <sup>[东台]</sup> 双手点地，侧身腾跃。  
 1. 【[𧽌连叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_lin_cha.md#𧽌连叉)】`huaeh7 lin2 cha1` <sup>[兴化]</sup> 两手交替着地连续侧身翻，豁虎跳。儿歌：猫子不在家，老鼠～。  

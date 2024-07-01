@@ -1239,6 +1239,7 @@
 1. 【[拱蛆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_qy.md#拱蛆)】`gon3 qy1` 多动状，坐立不安状  
 1. 【[拱蛆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_qy_zz.md#拱蛆子)】`gon3 qy1 zz` <sup>[如皋]</sup> 像蛆子一样地拱动。  
 1. 【[拱卒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_zueh.md#拱卒)】`gon3 zueh7` <sup>[兴化]</sup> 象棋术语，指兵卒前进一步。  
+1. 【[𥧂井](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_jien.md#𥧂井)】`gon3 jien3` <sup>[泰兴]</sup> 打井，掘井  
 1. 【[𥧂墓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_mu.md#𥧂墓)】`gon3 mu6` <sup>[如皋]</sup> 盗挖坟墓。  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon.md#□)】`gon5` <sup>[泰县]</sup> 结：～吖仇。  
 1. 【[供饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_faen.md#供饭)】`gon5 faen6` <sup>[兴化]</sup> 供应膳食：（农村塾师）每天均由学生家里轮流～。（兴文《神算》）  

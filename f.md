@@ -234,6 +234,7 @@
 1. 【[翻糟饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_zo_bien.md#翻糟饼)】`faen1 zo1 bien3` <sup>[兴化]</sup> （喻）反复折腾，不能入睡：他睡不着觉在被窠里～。  
 1. 【[帆船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_chun.md#帆船)】`faen2 chun2` <sup>[如东]</sup> 渔船的一种。木壳，吨位较小，以风帆为动力，从事捕捞作业或货物运输。如东沿海的帆船为平底，适宜于沙滩港湾航行、停泊，称沙船。浙江沿海的帆船为尖底，适宜于深水港湾航行、停泊，称鸟船。  
 1. 【[烦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen.md#烦)】`faen2` <sup>[兴化]</sup> 啰唆、不停地说：你少要～吧，我这许有事唻！  
+1. 【[烦着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_chah.md#烦着)】`faen2 chah8` 值得：何～？｜不～  
 1. 【[烦烦倒倒的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_faen_do_do_dii.md#烦烦倒倒的)】`faen2 faen2 do5 do5 dii` <sup>[东台]</sup> 形容办某件事程序多，很麻烦：不打算搬家，省得～。  
 1. 【[烦神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_shen.md#烦神)】`faen2 shen2` <sup>[东台]</sup> 操心：这事用不着你～。  
 1. 【[烦神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_shen.md#烦神)】`faen2 shen2` <sup>[兴化]</sup> 烦心、劳神：这事由我来办，不要你～！  

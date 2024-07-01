@@ -2,6 +2,7 @@
 **[A](./a.md) | [B](./b.md) | [C](./c.md) | [D](./d.md) | [E](./e.md) | [F](./f.md) | [G](./g.md) | [H](./h.md) | [I](./i.md) | [J](./j.md) | [K](./k.md) | [L](./l.md) | [M](./m.md) | [N](./n.md) | [O](./o.md) | [P](./p.md) | [Q](./q.md) | [R](./r.md) | [S](./s.md) | [T](./t.md) | [U](./u.md) | [V](./v.md) | [X](./x.md) | [Y](./y.md) | [Z](./z.md)**  
 ## E
 1. 【[……儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh.md#……儿)】`eh` <sup>[东台]</sup> 儿缀的东台市区方言口音：茄～；小摊～；让你个子～。  
+1. 【[耳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er.md#耳)】`> 泰兴` 理睬：没工夫～他  
 1. 【[呃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh.md#呃)】`eh` <sup>[东台]</sup> 助词“啊a”“吖nga”在东台方言中的发音，通常用在非入声韵动词或形容词之后  
 1. 【[呃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh.md#呃)】`eh` 助词“啊a”“吖nga”在部分地区的发音：来～（来了）；醒～（醒了）。  
 1. 【[呃唷哇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh_io_va.md#呃唷哇)】`eh7 io va1` <sup>[兴化]</sup> 叹词。  
