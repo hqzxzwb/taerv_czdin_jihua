@@ -1571,9 +1571,8 @@
 1. 【[报晓鸡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_xio_ji_r.md#报晓鸡<sub>儿</sub>)】`bo5 xio3 ji1 r` <sup>[如东]</sup> ① 雄鸡在天亮时啼鸣，称报晓。 ② 母鸡下蛋后叫唤，称报晓。 ③ 比喻一些人知道了一点情况就马上告诉别人：陈志明是个～，听到一点风声就告诉人。  
 1. 【[报晓鸡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_xio_ji_r.md#报晓鸡<sub>儿</sub>)】`bo5 xio3 ji1 r` <sup>[如皋]</sup> 詈语，指专打小报告的人（晓，知）。  
 1. 【[报虚灾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_xy_zae.md#报虚灾)】`bo5 xy1 zae1` <sup>[泰县]</sup> 虚报灾情。  
-1. 【[暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#暴)】`bo5` <sup>[兴化]</sup> 秋冬季节的大风为～。《尔雅·释天》“日出而风为～。”：八月芦花～｜九月重阳～｜冬天黑风～  
-1. 【[暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#暴)】`bo5` <sup>[兴化]</sup> ① 在强光下晒：～伏｜民俗于大伏中将衣物摊出一晒，以防生霉。 ② 晒粮。《颜氏家训，书证》“言日中时，必须～晒，不尔者，失其时也。”～，今通作“曝”：～小麦。可叠用｜肥棉衣拿出来～～  
-1. 【[暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#暴)】`bo5` <sup>[兴化]</sup> ① 突然：那人原是闲吏……近来～有几贯浮财，只是为人行短。（《水浒传》四三） ② 显露：“事无可奈何，其所摧败，功亦足以～于天下。”（司马迁《报任少卿书》） ③ 突起：“……这有什么要紧，筋都叠～起来，急的一脸汗！”（《红楼梦》三二） ④ 开始、新：“～上毛坑三日新……”（《广陵潮》十二） ⑤ 生出：～芽；～头（生出新枝）；～青。  
+1. 【[暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#暴)】`bo5` <sup>[兴化]</sup> ① 秋冬季节的大风为～。《尔雅·释天》“日出而风为～。”：八月芦花～｜九月重阳～｜冬天黑风～ ② 在强光下晒：～伏｜民俗于大伏中将衣物摊出一晒，以防生霉。 ③ 晒粮。《颜氏家训，书证》“言日中时，必须～晒，不尔者，失其时也。”～，今通作“曝”：～小麦。可叠用｜肥棉衣拿出来～～  
+1. 【[暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#暴)】`bo5` <sup>[兴化]</sup> ① 突然：那人原是闲吏……近来～有几贯浮财，只是为人行短。（《水浒传》四三） ② 显露：“事无可奈何，其所摧败，功亦足以～于天下。”（司马迁《报任少卿书》） ③ 开始、新：“～上毛坑三日新……”（《广陵潮》十二）  
 1. 【[暴暴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_bo_dii.md#暴暴的)】`bo5 bo5 dii` <sup>[兴化]</sup> 刚开始、突然的：今日～到店里来住，嘿，巧书甚多！（《武松》六）  
 1. 【[暴伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_foh.md#暴伏)】`bo5 foh8` <sup>[如皋]</sup> ① 霉雨季后，伏天防霉，暴晒衣物。 ② 使在烈日下暴晒。 ③ 旧事重提，算旧帐。  
 1. 【[暴太阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_tae_ian.md#暴太阳)】`bo5 tae5 ian` <sup>[如皋]</sup> 日照强烈。见“太阳暴”。  
@@ -1584,6 +1583,7 @@
 1. 【[瀑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#瀑)】`bo5` <sup>[东台]</sup> ① 急雨。见《说文·水部》。 ② 溅起的水：郭璞《江赋》“挥弄洒珠，扮拂瀑沫。”  
 1. 【[爆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#爆)】`bo5` <sup>[如皋]</sup> 大而凸(的眼睛)：勒头～眼的。  
 1. 【[爆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#爆)】`bo5` <sup>[东台]</sup> 表皮突出；冒出：这松树年份不低，树皮都～开来啊｜这是雨后才～出来的新苗。  
+1. 【[爆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#爆)】`bo5` <sup>[兴化]</sup> ① 牙齿露出唇外（原文作“龅”，声调不合）：～牙齿。 ② 突起（原文作“暴”，音不合） ③ 生出（原文作“暴”，音不合）：～芽；～头（生出新枝）；～青。  
 1. 【[爆疤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_ba.md#爆疤)】`bo5 ba1` <sup>[如皋]</sup> ① 疮疤暴裂。 ② 重提旧事，使当事人难堪。  
 1. 【[爆疤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_ba.md#爆疤)】`bo5 ba1` <sup>[兴化]</sup> ① 已结痂的疮疖复发。 ② （喻）积怨因故发作：他们三年前结的仇，这次又为一件小事～。  
 1. 【[爆疤<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_ba_r.md#爆疤<sub>儿</sub>)】`bo5 ba1 r` <sup>[如东]</sup> 重提旧事，使当事人难堪。  
@@ -1600,7 +1600,6 @@
 1. 【[趵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#趵)】`bo5` <sup>[如皋]</sup> ① 跳起、跃起：黄豆儿炒啊～起来啊。 ② 胀裂：车胆子打气打啊～掉啊。  
 1. 【[趵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#趵)】`bo5` <sup>[东台]</sup> 弹起；跃起：篮球的气打得太足，一～老高。  
 1. 【[趵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#趵)】`bo5` <sup>[兴化]</sup> ① 弹：皮球掉下地，一～多高。 ② 跳：小河小沟他一～就过去啊。 ③ 溅：～啊一身的水。 ④ 《集的·效韵》巴校切“～，跳跃也。”  
-1. 【[龅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#龅)】`bo5` <sup>[兴化]</sup> ① 牙齿露出唇外：～牙齿。｜萧雅一脸麻子，眼眍齿～，好似飞天夜叉模样。（《醒世恒言》一） ② 《玉篇·齿部》“～，步交切，露齿。”  
 1. 【[䌟辫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_pin_zz.md#䌟辫子)】`boh7 pin6 zz` <sup>[如东]</sup> 打辫子。  
 1. 【[䌟辫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_pin_zz.md#䌟辫子)】`boh7 pin6 zz` <sup>[如皋]</sup> 打辫子。  
 1. 【[伯伯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_boh.md#伯伯)】`boh7 boh7` <sup>[如东]</sup> 伯父。父亲的哥哥。  
