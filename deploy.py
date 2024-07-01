@@ -21,6 +21,7 @@ FILTERED_OUT_IEN = {
     '烘': 'hon5',
     '期': 'ji1',
     '挨': 'ngae2',
+    '呆': 'ngae2',
     '什': 'shen2',
     '浇': 'xio1',
 }
