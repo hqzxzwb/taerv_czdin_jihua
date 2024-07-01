@@ -1718,8 +1718,8 @@
 1. 【[播](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bu.md#播)】`bu3` <sup>[如皋]</sup> 双脚并列，跳踢毽子的动作。  
 1. 【[簸罗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bu_lu.md#簸罗)】`bu3 lu2` <sup>[如东]</sup> 左右前后不平整：几块木板拼接得不好，～的。  
 1. 【[簸箕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bu_ji.md#簸箕)】`bu5 ji1` <sup>[东台]</sup> 用竹篾或柳条编成的器具，用来筛簸粮食等。  
-1. 【[半上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/buh_shan.md#半上)】`buh7 shan` <sup>[如皋]</sup> 旁边：放吖～。到～去。促化音。  
-1. 【[半上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/buh_shan.md#半上)】`buh7 shan` <sup>[东台]</sup> 安排在旁边（此处“半”发音促化）：他把房子给啊儿子，自己蹾吖～。  
+1. 【[半<sub>个</sub>上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/buh_shan.md#半<sub>个</sub>上)】`buh7 shan` <sup>[如皋]</sup> 旁边：放吖～。到～去。促化音。  
+1. 【[半<sub>个</sub>上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/buh_shan.md#半<sub>个</sub>上)】`buh7 shan` <sup>[东台]</sup> 安排在旁边（此处“半”发音促化）：他把房子给啊儿子，自己蹾吖～。  
 1. 【[拨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/buh.md#拨)】`buh7` <sup>[如皋]</sup> 农用水车的水（跨）轴上的两只木齿轮（旱～、水～），桑树根作盘，桑木作齿，坚固耐磨，水漫不变形。  
 1. 【[拨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/buh.md#拨)】`buh7` <sup>[东台]</sup> ① 用手或棍棒等推动或挑动：～动琴弦；～算盘珠儿。 ② 发配，调配：～款；调～物资。  
 1. 【[拨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/buh.md#拨)】`buh7` <sup>[兴化]</sup> 水车部件，在木制圆盘的周围栽有小木桩。中间的车轴旋转时，木桩拨动槽桶中拂、榷，将河水源源不断抽至田间。  
