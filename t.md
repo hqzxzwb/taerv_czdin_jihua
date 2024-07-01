@@ -4,14 +4,14 @@
 1. 【[咑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta.md#咑)】`ta` <sup>[兴化]</sup> 语气词：这挂车子是你的～？  
 1. 【[他](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta.md#他)】`ta1` 他  
 1. 【[他](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta.md#他)】`ta1` <sup>[如东]</sup> 人称代词。代表“我”和“你”以外的第三者。  
-1. 【[他对他](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta_dii_ta.md#他对他)】`ta1 dii ta1` <sup>[东台]</sup> 还是老样子。（也作“他的他”或“他的个他”）：对他教育一年效果不大，还是～！  
 1. 【[他的根本，我的家乡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta_dii_gen_ben_ngu_dii_jia_xian.md#他的根本，我的家乡)】`ta1 dii gen1 ben3 ngu3 dii jia1 xian1` <sup>[东台]</sup> 喻指我对他的底细十分清楚。  
+1. 【[他的他](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta_dii_ta.md#他的他)】`ta1 dii ta1` <sup>[东台]</sup> 还是老样子。（也作“他对他”或“他的个他”）：对他教育一年效果不大，还是～！  
+1. 【[他对他](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta_duei_ta.md#他对他)】`ta1 duei5 ta1` <sup>[兴化]</sup> ① 说明没有变化。（另见“他的他”）：谚曰：烧饼两块钱一个，还是～。 ② 两两相抵，无大差别：为省一张车票，送司机两包烟，～。  
 1. 【[他家家里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta_ga_ga_lii.md#他家家里)】`ta1 ga1 ga1 lii` <sup>[如皋]</sup> 他家里。  
 1. 【[他俫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta_lae.md#他俫)】`ta1 lae` 他们，第三人称复数  
 1. 【[他俫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta_lae.md#他俫)】`ta1 lae` <sup>[如东]</sup> 他们。  
 1. 【[他俫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta_lae.md#他俫)】`ta1 lae` <sup>[东台]</sup> 他们。  
 1. 【[他俫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta_lae.md#他俫)】`ta1 lae` <sup>[兴化]</sup> 代词，即他们。称自己和对方以外的若干人。  
-1. 【[他对他](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta_tuei_ta.md#他对他)】`ta1 tuei5 ta1` <sup>[兴化]</sup> ① 说明没有变化。谚曰：烧饼两块钱一个，还是～。 ② 两两相抵，无大差别：为省一张车票，送司机两包烟，～。  
 1. 【[胎膘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_bio.md#胎膘)】`tae1 bio1` <sup>[兴化]</sup> 胎儿刚出生时体重情况：～足｜～不足。  
 1. 【[胎胞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_bo.md#胎胞)】`tae1 bo1` <sup>[兴化]</sup> 胞衣。  
 1. 【[胎谐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_hae.md#胎谐)】`tae1 hae` <sup>[如皋]</sup> 有出息，还可指事物：这什衣裳没款式，不～。  
@@ -1096,7 +1096,7 @@
 1. 【[体己](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_ji.md#体己)】`ti3 ji3` <sup>[如皋]</sup> ① 亲密者：他是你的～。 ② 个人积蓄：拿出～钱来捐献。 ③ 坦诚话：谈点儿～话。  
 1. 【[体己](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_ji.md#体己)】`ti3 ji3` <sup>[如皋]</sup> 见“关己”。  
 1. 【[体己话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_ji_hua.md#体己话)】`ti3 ji3 hua6` <sup>[如东]</sup> 知心话：说句～话，我俫都一样。  
-1. 【[体已话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_ji_hua.md#体已话)】`ti3 ji3 hua6` <sup>[兴化]</sup> 知心话：她们唧唧哝哝地说着～。｜（文琴）觑老太太不在旁时，便和那小姐说～，拿些甜话儿骗他。（《二十年目睹之怪现状》七七）  
+1. 【[体己话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_ji_hua.md#体己话)】`ti3 ji3 hua6` <sup>[兴化]</sup> 知心话：她们唧唧哝哝地说着～。｜（文琴）觑老太太不在旁时，便和那小姐说～，拿些甜话儿骗他。（《二十年目睹之怪现状》七七）  
 1. 【[剃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti.md#剃)】`ti5` <sup>[如东]</sup> 把物体锯断：你用锯子把这根木头～掉。  
 1. 【[剃光头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_guan_teu.md#剃光头)】`ti5 guan1 teu2` <sup>[东台]</sup> 在计分比赛中一分未得，或一局未贏，又称送鸭蛋。  
 1. 【[剃头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_teu.md#剃头)】`ti5 teu2` <sup>[如皋]</sup> ① 用剃刀剃去头发。 ② 理发。 ③ 教训某人：给某人～。  
@@ -1492,13 +1492,13 @@
 1. 【[天桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_qio.md#天桥)】`tin1 qio2` <sup>[如皋]</sup> 彩虹。  
 1. 【[天桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_qio.md#天桥)】`tin1 qio2` <sup>[如皋]</sup> 虹。  
 1. 【[天日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_rih.md#天日)】`tin1 rih8` <sup>[如东]</sup> 时间：～短。  
+1. 【[天色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_seh.md#天色)】`tin1 seh` <sup>[兴化]</sup> 阴云密布，要下雨的先兆：～下来啊，快望家跑。  
 1. 【[天色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_seh.md#天色)】`tin1 seh7` <sup>[如东]</sup> 天气：～不好。  
 1. 【[天色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_seh.md#天色)】`tin1 seh7` <sup>[东台]</sup> 天空的颜色，借指天气变化：出门看～，进门看脸色。  
 1. 【[天色泛红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_seh_faen_hon.md#天色泛红)】`tin1 seh7 faen5 hon2` <sup>[如皋]</sup> 彤云密布，预示有雪。  
 1. 【[天色泛黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_seh_faen_huan.md#天色泛黄)】`tin1 seh7 faen5 huan2` <sup>[如皋]</sup> 云层泛黄，预示有冰雹。  
-1. 【[天杀的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_shaeh_dii.md#天杀的)】`tin1 shaeh7 dii` <sup>[兴化]</sup> 骂人的话：“～，……怎么平白地赖起我来！我同你拼了命……”（《二十年目睹之怪现状》三二）‖有时也作调笑语，《梼杌闲评》第二十二回有｜“原来就是你这～”句。  
+1. 【[天杀的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_shaeh_dii.md#天杀的)】`tin1 shaeh7 dii` <sup>[兴化]</sup> 骂人的话，有时也作调笑语：“～，……怎么平白地赖起我来！我同你拼了命……”（《二十年目睹之怪现状》三二）｜“原来就是你这～”（《梼杌闲评》第二十二回）  
 1. 【[天上老龙要吵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_shan_lo_lon_io_cho.md#天上老龙要吵)】`tin1 shan6 lo3 lon2 io5 cho3` <sup>[东台]</sup> 嘲讽语，意思是简直能惊天动地。  
-1. 【[天色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_she.md#天色)】`tin1 she` <sup>[兴化]</sup> 阴云密布，要下雨的先兆：～下来啊，快望家跑。  
 1. 【[天生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_shen.md#天生)】`tin1 shen1` <sup>[兴化]</sup> 副词，相当于“本来”“反正”：覅着急，～今朝没事。｜～得不到信任，干脆破罐子破摔。  
 1. 【[天㷹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_sho.md#天㷹)】`tin1 sho5` <sup>[如皋]</sup> 干热风天气。  
 1. 【[天少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_sho.md#天少)】`tin1 sho5` <sup>[如东]</sup> 白天时间短：立冬以后～。  
@@ -2211,7 +2211,6 @@
 1. 【[拖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#拖)】`tu1` <sup>[泰县]</sup> 吃。  
 1. 【[拖板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_baen.md#拖板)】`tu1 baen3` <sup>[如东]</sup> 农具。木制，长方形，用以压碎压平土块。  
 1. 【[拖板<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_baen_r.md#拖板<sub>儿</sub>)】`tu1 baen3 r` <sup>[如东]</sup> 鞋的一种。木制，长方形，前部有搭扣，穿着可在平地或草地上行走。  
-1. 【[拖尾巴蛆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_bei_ba_qy_zz.md#拖尾巴蛆子)】`tu1 bei3 ba qy1 zz` <sup>[如皋]</sup> 喻拖累着的儿女：她的男将死得早，又有这些～，日子真的苦！  
 1. 【[拖船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_chun.md#拖船)】`tu1 chun2` <sup>[兴化]</sup> ① 拖轮。 ② 拖轮所牵引的驳船。  
 1. 【[拖带](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_dae.md#拖带)】`tu1 dae5` <sup>[兴化]</sup> 牵引、牵连、牵累：他一人犯法，家属子女受到～。  
 1. 【[拖的抱的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_dii_po_dii.md#拖的抱的)】`tu1 dii po6 dii` <sup>[兴化]</sup> 并非亲生的子女：这个伢儿既不像爷，又不像娘，哪个晓得他是～。  
@@ -2240,6 +2239,7 @@
 1. 【[拖拖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_tu.md#拖拖)】`tu1 tu1` <sup>[如东]</sup> ① 拉动物体：把木头往西～。 ② 推迟一下：这件事再～吧。  
 1. 【[拖拖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_tu.md#拖拖)】`tu1 tu1` <sup>[泰县]</sup> 推迟。  
 1. 【[拖网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_van.md#拖网)】`tu1 van3` <sup>[如东]</sup> 一种网具。麻绳或尼龙绳结成，口大，尾小。作业时，用渔船拖着前进，从而捕鱼。  
+1. 【[拖尾巴蛆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_vei_ba_qy_zz.md#拖尾巴蛆子)】`tu1 vei3 ba qy1 zz` <sup>[如皋]</sup> 喻拖累着的儿女：她的男将死得早，又有这些～，日子真的苦！  
 1. 【[拖鲜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_xin.md#拖鲜)】`tu1 xin1` <sup>[如东]</sup> 用车辆贩运海鲜。  
 1. 【[拖鲜的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_xin_dii.md#拖鲜的)】`tu1 xin1 dii` <sup>[如东]</sup> 用车辆贩运海鲜的人。  
 1. 【[拖债](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_zhae.md#拖债)】`tu1 zhae5` <sup>[兴化]</sup> 借债：刚刚当会计就叫我去～，我才不去。  
@@ -2505,9 +2505,8 @@
 1. 【[土大黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_da_huan.md#土大黄)】`tv3 da6 huan2` <sup>[如皋]</sup> 见“地方根”。  
 1. 【[土大黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_da_huan.md#土大黄)】`tv3 da6 huan2` <sup>[如皋]</sup> 即“地方根”。  
 1. 【[土墩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_den.md#土墩)】`tv3 den1` <sup>[泰县]</sup> 临时砌的大锅灶：他家办喜事，特地沰个大～。  
-1. 【[土而奇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_er_qi.md#土而奇)】`tv3 er3 qi2` <sup>[东台]</sup> 与土耳其国名谐音，常戏称土里土气的事物：这件衣服～，你看不上。  
 1. 【[土耳其](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_er_qi.md#土耳其)】`tv3 er3 qi2` <sup>[如皋]</sup> 土气十足的人。  
-1. 【[土耳其](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_er_qi.md#土耳其)】`tv3 er3 qi2` <sup>[如皋]</sup> 见“乡下佬儿”。  
+1. 【[土耳其](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_er_qi.md#土耳其)】`tv3 er3 qi2` <sup>[东台]</sup> 谐音“土而奇”，常戏称土里土气的事物：这件衣服～，你看不上。  
 1. 【[土方草药，气死名医](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_fan_co_iah_qi_sz_mien_i.md#土方草药，气死名医)】`tv3 fan1 co3 iah8 qi5 sz3 mien2 i1` <sup>[东台]</sup> 民间实践经验有时比名家的办法管用。  
 1. 【[土狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_geu.md#土狗)】`tv3 geu3` <sup>[兴化]</sup> 蝼蛄。  
 1. 【[土狗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_geu_r.md#土狗<sub>儿</sub>)】`tv3 geu3 r` <sup>[如皋]</sup> 蝼蛄。  
