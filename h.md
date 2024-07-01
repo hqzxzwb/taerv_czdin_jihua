@@ -378,11 +378,11 @@
 1. 【[咸菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_cae.md#咸菜)】`haen2 cae5` <sup>[东台]</sup> 用盐腌制的某些菜蔬。  
 1. 【[咸菜拌豆腐——有盐（言）在先](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_cae_pun_teu_fv_ieu_in_cae_xin.md#咸菜拌豆腐——有盐（言）在先)】`haen2 cae5 pun6 teu6 fv ieu3 in2 cae6 xin1` <sup>[东台]</sup>   
 1. 【[咸丰六年生，饿煞鬼投胎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_fon_loh_nin_shen_ngu_shaeh_guei_teu_tae.md#咸丰六年生，饿煞鬼投胎)】`haen2 fon1 loh8 nin2 shen1 ngu6 shaeh7 guei3 teu2 tae1` <sup>[东台]</sup> 咸丰六年（1856）先旱后涝，里下河一带遭受特大饥荒。后人用这句俗语形容吃饭抢食，有失斯文的举止。  
+1. 【[咸丰三年到啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_fon_saen_nin_do_a.md#咸丰三年到啊)】`haen2 fon1 saen1 nin2 do5 a` <sup>[如皋]</sup> 这一年大灾大难，引申为艰苦的时刻到了。  
 1. 【[咸肉庄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_roh_zhuan.md#咸肉庄)】`haen2 roh8 zhuan1` <sup>[如皋]</sup> 谐音“衔肉桩”，指妓院。  
 1. 【[咸灒灒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_zaen_zaen.md#咸灒灒)】`haen2 zaen5 zaen5` <sup>[东台]</sup> 含盐食品进嘴后的感觉：这菜烧得～的。  
 1. 【[咸灒灒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_zaen_zaen.md#咸灒灒)】`haen2 zaen5 zaen5` <sup>[泰县]</sup> 咸得恰到好处：这回的咸蛋腌得～的。  
 1. 【[咸灒灒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_zaen_zaen.md#咸灒灒)】`haen2 zaen5 zaen5` <sup>[兴化]</sup> 形容菜肴、食品略带咸味：瓜子腌得～的。  
-1. 【[威丰三年到啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_fon_saen_nin_do_a.md#威丰三年到啊)】`haen2 fon1 saen1 nin2 do5 a` <sup>[如皋]</sup> 这一年大灾大难，引申为艰苦的时刻到了。  
 1. 【[衔在嘴里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_cae_zuei_lii.md#衔在嘴里)】`haen2 cae zuei3 lii` <sup>[兴化]</sup> 形容对孩子过分溺爱：按理说，施桂芳应该把小八子～，整天肉肝心胆的才是。（毕飞宇：《玉米》）｜谚曰：～怕吓咖，放吖地下怕渍啊。  
 1. 【[闲乐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_lah.md#闲乐)】`haen2 lah` <sup>[如皋]</sup> 空闲：这两天忙，～的刻儿上你家去！  
 1. 【[闲生日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_shen_rih.md#闲生日)】`haen2 shen1 rih8` <sup>[如东]</sup> 虚岁逢十以外的生日。一般不祝寿，举行家宴。  
