@@ -154,7 +154,7 @@
 1. 【[五脏庙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_can_mio.md#五脏庙)】`v3 can6 mio6` <sup>[兴化]</sup> （戏）肚皮：他有两个钱就去修～。正是，珍羞百味片时休，果然都送入～（《金瓶梅词话》十三）。  
 1. 【[五尺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_cheh.md#五尺)】`v3 cheh7` <sup>[如东]</sup> 木工使用的度量工具，长五木尺。  
 1. 【[五潮水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_cho_shuei.md#五潮水)】`v3 cho2 shuei3` 阴历初十和二十五日潮水水位开始升高，叫作起水。之后十天的潮水分别叫作一潮水至十潮水。十五日和三十日的潮水叫作五潮水，若该月没有三十日，则顺延至下月初一的潮水叫作五潮水。  
-1. 【[五齿钉把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_chr_dien_pa.md#五齿钉把)】`v3 chr3 dien1 pa2` <sup>[兴化]</sup> 钉耙通常为四齿，这里是手的戏称：他来不洎用筷子，直接玩起～来！  
+1. 【[五齿钉筢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_chr_dien_pa.md#五齿钉筢)】`v3 chr3 dien1 pa2` <sup>[兴化]</sup> 钉筢通常为四齿，这里是手的戏称：他来不洎用筷子，直接玩起～来！  
 1. 【[五次三番](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_cz_saen_faen.md#五次三番)】`v3 cz5 saen1 faen1` <sup>[兴化]</sup> 一次又一次的。也说“三番五次”。  
 1. 【[五大六粗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_da_loh_cv.md#五大六粗)】`v3 da6 loh8 cv1` <sup>[如东]</sup> 身材粗壮：这个人～的，肯定有力气。  
 1. 【[五大三粗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_da_saen_cv.md#五大三粗)】`v3 da6 saen1 cv1` <sup>[如皋]</sup> 身块高大。四肢粗壮。  
@@ -524,7 +524,7 @@
 1. 【[外面花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_min_hua.md#外面花)】`vae6 min6 hua1` <sup>[泰县]</sup> 秤杆上向外一面的星。  
 1. 【[外婆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_pu.md#外婆)】`vae6 pu2` <sup>[如皋]</sup> 外祖母。  
 1. 【[外甥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_shen.md#外甥)】`vae6 shen` <sup>[如东]</sup> 男子的姐妹的儿子。  
-1. 【[外甥女](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_shen_nv.md#外甥女)】`vae6 shen nv3` <sup>[如东]</sup> 男子的姐妹的女儿。  
+1. 【[外甥女](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_shen_ny.md#外甥女)】`vae6 shen ny3` <sup>[如东]</sup> 男子的姐妹的女儿。  
 1. 【[外甥女婿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_shen_ny_xy.md#外甥女婿)】`vae6 shen ny3 xy` <sup>[兴化]</sup> 外甥女的丈夫。  
 1. 【[外甥孙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_shen_suen.md#外甥孙)】`vae6 shen suen1` <sup>[兴化]</sup> 外甥或外甥女的儿子。  
 1. 【[外甥新妇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_shen_xien_fv.md#外甥新妇)】`vae6 shen xien1 fv` <sup>[兴化]</sup> 外甥的妻。  

@@ -142,7 +142,7 @@
 1. 【[玉米库箬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_mi_kv_rah.md#玉米库箬)】`y6 mi3 kv5 rah8` <sup>[如皋]</sup> 玉米棒子外裹的箬片。  
 1. 【[玉米头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_mi_teu_r.md#玉米头<sub>儿</sub>)】`y6 mi3 teu2 r` <sup>[如皋]</sup> 玉米棒头去籽后的莛儿。  
 1. 【[玉米莛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_mi_tien_r.md#玉米莛<sub>儿</sub>)】`y6 mi3 tien2 r` <sup>[如皋]</sup> 玉米棒头去籽后的莛儿。  
-1. 【[玉米梃子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_mi_tien_zz.md#玉米梃子)】`y6 mi3 tien3 zz` <sup>[如东]</sup> 禾本科植物玉蜀黍穗轴。  
+1. 【[玉米莛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_mi_tien_zz.md#玉米莛子)】`y6 mi3 tien2 zz` <sup>[如东]</sup> 禾本科植物玉蜀黍穗轴。  
 1. 【[玉米籽<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_mi_zz_r.md#玉米籽<sub>儿</sub>)】`y6 mi3 zz3 r` <sup>[如皋]</sup> ① 玉米的籽粒。 ② 比牙齿。  
 1. 【[玉手镯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_sheu_chuah.md#玉手镯)】`y6 sheu3 chuah8` <sup>[如东]</sup> 手镯的一种。玉制，圆环形，以绿白相间的晕纹为美。  
 1. 【[玉蜀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_shoh.md#玉蜀)】`y6 shoh` <sup>[东台]</sup> 玉米。也叫玉栖、玉芦栖。  

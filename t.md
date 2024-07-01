@@ -1234,10 +1234,9 @@
 1. 【[停汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_tan.md#停汤)】`tien2 tan1` <sup>[如东]</sup> 浴室停止营业，叫做停汤。  
 1. 【[停汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_tan.md#停汤)】`tien2 tan1` <sup>[兴化]</sup> 开水温度下降。  
 1. 【[停汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_tan.md#停汤)】`tien2 tan1` <sup>[泰县]</sup> 浴室停止营业：今朝停汤。  
-1. 【[桯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_zz.md#桯子)】`tien2 zz` <sup>[如皋]</sup> 见“梃子”。  
-1. 【[梃子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_zz.md#梃子)】`tien2 zz` <sup>[如皋]</sup> ① 纺棉花用的铁轴子。 ② 做本蜡烛烛心的红草茎。  
 1. 【[莛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_r.md#莛<sub>儿</sub>)】`tien2 r` <sup>[如东]</sup> 杆子：火柴～。  
 1. 【[莛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_r.md#莛<sub>儿</sub>)】`tien2 r` <sup>[如皋]</sup> 草本植物嫩的花茎：韭菜～。  
+1. 【[莛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_zz.md#莛子)】`tien2 zz` <sup>[如皋]</sup> ① 纺棉花用的铁轴子。 ② 做本蜡烛烛心的红草茎。  
 1. 【[莛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_zz.md#莛子)】`tien2 zz` <sup>[东台]</sup> ① 蔬菜等的花轴。 ② 玉米去粒后的棒棒。  
 1. 【[莛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_zz.md#莛子)】`tien2 zz` <sup>[兴化]</sup> 某些草本植物的茎（多指未成熟时）：荷叶～；芦秫～。莛，《广韵，青韵》特丁切｜草茎。  
 1. 【[葶苈子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_lieh_zz.md#葶苈子)】`tien2 lieh8 zz` <sup>[如东]</sup> 十字花科植物独行菜，一年生或二年生草本。高约30厘米。茎直立。叶互生，上部叶线形，较小，全缘。长总状花序，顶生。花小。短角果，卵状椭圆形，扁平。种子倒卵状椭圆形，淡红棕色。生长在田野、荒地、路旁。  
