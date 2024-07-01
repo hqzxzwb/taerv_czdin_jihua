@@ -1693,7 +1693,6 @@
 1. 【[小看](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_kun.md#小看)】`xio3 kun5` <sup>[如皋]</sup> 轻视、忽视：你不要～他，他的学问不比你少。  
 1. 【[小来来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_lae_lae.md#小来来)】`xio3 lae2 lae2` <sup>[如东]</sup> ① 做一点很小的交易。 ② 指打牌时，下很小的赌注。  
 1. 【[小量](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_lian.md#小量)】`xio3 lian` <sup>[兴化]</sup> 瞧不起人：你不要～人。｜“他若背放和气些，我好意骂他？他～人家。”（《金瓶梅闻话》七六）  
-1. 【[小料匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_liao_qian.md#小料匠)】`xio3 liao6 qian6` <sup>[如皋]</sup> 见“细料匠”。  
 1. 【[小殓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_lin.md#小殓)】`xio3 lin6` <sup>[如东]</sup> 尸体入棺，加盖而不密封。  
 1. 【[小料锯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_lio_jy.md#小料锯)】`xio3 lio6 jy5` <sup>[如东]</sup> 工具。锯条狭长，锯齿细密，用以加工精细木料。  
 1. 【[小料匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_lio_qian.md#小料匠)】`xio3 lio6 qian6` <sup>[如皋]</sup> 专制家具、红木器的木匠（与圆料匠、高料匠相对）。  

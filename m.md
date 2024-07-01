@@ -1192,7 +1192,6 @@
 1. 【[密黑的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mieh_heh_dii.md#密黑的)】`mieh8 heh7 dii` <sup>[如皋]</sup> 密不透光，极黑暗。  
 1. 【[密密层层](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mieh_mieh_cen_cen.md#密密层层)】`mieh8 mieh8 cen2 cen2` <sup>[兴化]</sup> 形容又多又密：天作变，屋檐口蠓虫子～的一大片。  
 1. 【[密窒窒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mieh_zheh_zheh.md#密窒窒)】`mieh8 zheh7 zheh7` <sup>[泰县]</sup> 形容东西紧密。  
-1. 【[幂黑的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mieh_heh_dii.md#幂黑的)】`mieh8 heh7 dii` <sup>[如皋]</sup> 见“乌黑的”。  
 1. 【[糸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mieh.md#糸)】`mieh8` <sup>[如皋]</sup> 程度副词，常用来修饰细、软等：蚕儿丝～细的、绸子～软的。  
 1. 【[糸软的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mieh_run_dii.md#糸软的)】`mieh8 run3 dii` <sup>[如皋]</sup> 柔软。  
 1. 【[蜜蜂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mieh_fon.md#蜜蜂)】`mieh8 fon` <sup>[如东]</sup> 蜜蜂科昆虫中华蜜蜂，有母蜂、工蜂和雄蜂三种。  

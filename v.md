@@ -40,11 +40,11 @@
 1. 【[乌鸦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_nga.md#乌鸦)】`v1 nga1` <sup>[如东]</sup> 鸦科动物大嘴乌鸦，也叫老鸦、黑老鸦，体长约50厘米。嘴粗壮强直色黑。虹膜黑褐色。通体纯黑色，染有绿蓝色光辉。脚趾爪黑色。多群居在树林中或田野间，以谷物果实昆虫等为食。  
 1. 【[乌鸦翅羽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_nga_zhr_y.md#乌鸦翅羽)】`v1 nga1 zhr5 y3` <sup>[如东]</sup> 鸦科动物大嘴乌鸦翅羽。  
 1. 【[乌篷船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_pon_chun.md#乌篷船)】`v1 pon2 chun2` <sup>[如皋]</sup> 船上罩有拱形黑色桐油席蓬的船。  
+1. 【[乌漆䵬黑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_qieh_taeh_heh.md#乌漆䵬黑)】`v1 qieh taeh heh7` <sup>[如皋]</sup> 见“乌黑的”。  
 1. 【[乌七八糟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_qieh_baeh_zo.md#乌七八糟)】`v1 qieh7 baeh7 zo1` <sup>[兴化]</sup> ① 形容十分脏乱：几个人打一夜扑克，把屋里弄得～的。 ② （借）指流品复杂，品格低下的人群：他常把一群～的朋友领家来，闹得乌烟瘴气的。“乌”也作“污”。  
 1. 【[乌漆抹黑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_qieh_maeh_heh.md#乌漆抹黑)】`v1 qieh7 maeh8 heh7` <sup>[东台]</sup> 形容夜晚或形容人的皮肤非常黑。  
 1. 【[乌漆墨黑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_qieh_moh_heh.md#乌漆墨黑)】`v1 qieh7 moh8 heh7` <sup>[如东]</sup> 一片漆黑：家里～的。  
 1. 【[乌漆墨黑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_qieh_moh_heh.md#乌漆墨黑)】`v1 qieh7 moh8 heh7` <sup>[兴化]</sup> 形容非常黑、非常暗：外头～的，你慢慢走，当心脚下。  
-1. 【[乌漆䵬黑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_qieh_taeh_heh.md#乌漆䵬黑)】`v1 qieh7 taeh8 heh7` <sup>[如皋]</sup> 见“乌黑的”。  
 1. 【[乌蓲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_qieu.md#乌蓲)】`v1 qieu1` <sup>[如皋]</sup> 荻。固岸草。  
 1. 【[乌桕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_qieu.md#乌桕)】`v1 qieu6` <sup>[如东]</sup> 大戟科植物乌桕，落叶乔木，高约15米。具乳液。树皮灰色而具浅纵裂。单叶互生，略呈菱形，全缘，秋天变红。花单性，雌雄同株。总状花序顶生。花小，绿黄色，无花瓣及花盘。种子近球形，外面披腊层，可用来制造腊烛。叶子可以做黑色染料。野生。。  
 1. 【[乌灼灼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_shah_shah.md#乌灼灼)】`v1 shah7 shah7` <sup>[兴化]</sup> 形容乌黑而发亮：又见淑仪两个小眼睛珠儿，～的只管望着自己……（《广陵潮》十四）  
@@ -216,7 +216,7 @@
 1. 【[五领三腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_lien_saen_io.md#五领三腰)】`v3 lien3 saen1 io1` <sup>[如东]</sup> 死者收殓时穿在身上的五件褂子、三件裤子，称五领三腰。也有七领五腰、九领七腰的。  
 1. 【[五领三腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_lien_saen_io.md#五领三腰)】`v3 lien3 saen1 io1` <sup>[兴化]</sup> 丧制，指人死后，其寿衣上身五件，下身三件。  
 1. 【[五流西散](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_lieu_xi_san.md#五流西散)】`v3 lieu2 xi1 san5` <sup>[兴化]</sup> 原在一起的人们分散在各方：当年的老同学早就～吖。也说“五零四散”。  
-1. 【[五绺箱子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_lieu_hv_zz.md#五绺箱子)】`v3 lieu3 hv2 zz` <sup>[如皋]</sup> 鬍、髭、鬚、双鬓分绺下垂。如关羽、天官像。  
+1. 【[五绺胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_lieu_hv_zz.md#五绺胡子)】`v3 lieu3 hv2 zz` <sup>[如皋]</sup> 鬍、髭、鬚、双鬓分绺下垂。如关羽、天官像。  
 1. 【[五离稀散](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_lii_xi_saen.md#五离稀散)】`v3 lii xi1 saen5` <sup>[如皋]</sup> 乱糟糟的四散开来。  
 1. 【[五绿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_loh.md#五绿)】`v3 loh8` <sup>[如皋]</sup> 如：蒲芹、绿豆粉皮、青菜、青椒、青豆、兰花瓣儿等。  
 1. 【[五路财神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_lv_cae_shen.md#五路财神)】`v3 lv6 cae2 shen2` <sup>[如皋]</sup> 如皋北门外五神庙中供奉的五位瘟神，又称五路财神。正月十七财神节，是此庙的庙会。  
@@ -704,7 +704,7 @@
 1. 【[万长久远](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_chan_jieu_iun.md#万长久远)】`vaen6 chan2 jieu3 iun3` <sup>[兴化]</sup> 时间长久：原来想跟你～的过日子，不想你丢下我娘儿两个先走啊！  
 1. 【[万佛楼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_feh_leu.md#万佛楼)】`vaen6 feh8 leu2` <sup>[如皋]</sup> 原如皋南门外的庙宇，椽子头都雕成佛像。  
 1. 【[万家饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_ga_faen.md#万家饭)】`vaen6 ga1 faen6` <sup>[如东]</sup> 许多人家的饭：不吃～。  
-1. 【[万贯家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_guaen_jia.md#万贯家)】`vaen6 guaen5 jia1` <sup>[兴化]</sup> “万贯家财”的节缩语，财、材同音，指“棺材”：唐家老屋里停放着一具～，几十年后才下葬。  
+1. 【[万贯家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_gun_jia.md#万贯家)】`vaen6 gun5 jia1` <sup>[兴化]</sup> “万贯家财”的节缩语，财、材同音，指“棺材”：唐家老屋里停放着一具～，几十年后才下葬。  
 1. 【[万金油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_jien_ieu.md#万金油)】`vaen6 jien1 ieu2` <sup>[东台]</sup> 即清凉油，喻指什么都能做，但什么都不精通的人。  
 1. 【[万能](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_nen.md#万能)】`vaen6 nen2` <sup>[如东]</sup> 形容无所不能：金钱不是～的。  
 1. 【[万年青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_nin_qien.md#万年青)】`vaen6 nin2 qien1` <sup>[如东]</sup> 百合科植物万年青，多年生常绿草本。根茎倾斜，肥厚而短，须根细长，密披白色绒毛。叶丛生；披针形或带状，全缘，革质而光滑，叶面深绿色，下面淡绿色。椭圆状穗状花序。花多数。桨果球形，肉质，熟时橘红色或黄色，内含种子1枚。栽培或野生。  
