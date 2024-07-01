@@ -695,7 +695,7 @@
 1. 【[山车<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_cha_r.md#山车<sub>儿</sub>)】`shaen1 cha1 r` <sup>[如皋]</sup> 见“连篷车子”。  
 1. 【[山车<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_cha_r.md#山车<sub>儿</sub>)】`shaen1 cha1 r` <sup>[如皋]</sup> 传统独轮车的一种。中间有高起的轮棚，两边装载。  
 1. 【[山茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_cha.md#山茶)】`shaen1 cha2` <sup>[如东]</sup> 山茶科植物山茶，常绿灌木或小乔木。高约15米。单叶互生，革质，卵形或椭圆形，边缘具软锯齿，上面浓绿色，有光泽，下面淡绿色。花单生于叶腋或顶端，有红、白、黄等多种颜色，很美丽，是一种名贵的观赏植物。蒴果球形。种子椭圆形。栽培。通常叫茶花。  
-1. 【[山池㖞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_chr_vae.md#山池㖞)】`shaen1 chr2 vae1` <sup>[如皋]</sup> 一种腹大的小黑蛙，善鸣，不明种属，俗说：肚子吃咖像个～。  
+1. 【[山池𧒘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_chr_vae.md#山池𧒘)】`shaen1 chr2 vae1` <sup>[如皋]</sup> 一种腹大的小黑蛙，善鸣，不明种属，俗说：肚子吃咖像个～。  
 1. 【[山架](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_ga.md#山架)】`shaen1 ga5` <sup>[兴化]</sup> 商店的货架。  
 1. 【[山猴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_heu_r.md#山猴<sub>儿</sub>)】`shaen1 heu2 r` <sup>[如皋]</sup> 猕猴。  
 1. 【[山药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_iah.md#山药)】`shaen1 iah8` <sup>[如东]</sup> 薯蓣科植物山药，多年生缠绕草本。块根肉质肥厚，圆柱形，长达1米，外皮灰褐色，生有须根。茎细长，蔓生，通常带紫色。叶对生或3叶轮生，叶腋间生珠芽；叶片三角状，通常三裂，两面光滑无毛。花单性，极小黄绿色，成穗状花序。蒴果。种子扁卵圆形。各地有栽培。  

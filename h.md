@@ -1745,7 +1745,7 @@
 1. 【[搳账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_zhan.md#搳账)】`huaeh7 zhan5` <sup>[东台]</sup> 债权债务相互抵消：他给我的货，价值几乎等于欠我的钱，这吖一来可以～啊。  
 1. 【[豁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh.md#豁)】`huaeh7` <sup>[如东]</sup> 口子拉得很大：这个布洞剪～掉啊。  
 1. 【[豁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh.md#豁)】`huaeh7` <sup>[如皋]</sup> 撕裂、割裂：手上捱树枝儿～咖个口子，只冒血。  
-1. 【[豁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh.md#豁)】`huaeh7` <sup>[兴化]</sup> ① 开裂：褂子～开来啊。｜～口子｜三岔～子。 ② （喻）岔子：出～。《广韵·末韵》呼括切｜“～，～达。”（义不合）  
+1. 【[豁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh.md#豁)】`huaeh7` <sup>[兴化]</sup> ① 开裂：褂子～开来啊。｜～口子｜三岔～子。 ② （喻）岔子：出～。  
 1. 【[豁边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_bin.md#豁边)】`huaeh7 bin1` <sup>[如东]</sup> 事情超出了原来的范围和程度：这件事～吖，要出问题。  
 1. 【[豁边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_bin.md#豁边)】`huaeh7 bin1` <sup>[泰县]</sup> 中途变卦：本来说好他去的，现在～吖。  
 1. 【[豁虎跳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_hv_tio.md#豁虎跳)】`huaeh7 hv3 tio5` <sup>[如皋]</sup> 侧空翻、前空翻。  
@@ -1757,7 +1757,7 @@
 1. 【[豁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_zz.md#豁子)】`huaeh7 zz` <sup>[如东]</sup> ① 口子：河堤上冲吖个～。 ② 比喻问题：出咖大～。  
 1. 【[豁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_zz.md#豁子)】`huaeh7 zz` <sup>[东台]</sup> 纰漏：他手伸得太长，明吖越个～不得小。（另见“豁子”）  
 1. 【[𧽌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh.md#𧽌)】`huaeh7` <sup>[东台]</sup> 越过：这哿水沟，他一～就过去啊。  
-1. 【[𧽌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh.md#𧽌)】`huaeh7` <sup>[兴化]</sup> ① 跳越：小沟头子他一～就过去啊。 ② 越级：从三年级～到五年级（～级）。《集韵·黠的》户八切：“～，走也”。  
+1. 【[𧽌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh.md#𧽌)】`huaeh7` <sup>[兴化]</sup> ① 跳越：小沟头子他一～就过去啊。 ② 越级：从三年级～到五年级（～级）。  
 1. 【[𧽌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh.md#𧽌)】`huaeh7` <sup>[泰县]</sup> 跳跃、超越而过：～过一条沟。  
 1. 【[𧽌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh.md#𧽌)】`huaeh7` <sup>[泰兴]</sup> ① 跳跃越过 ② 言行程远：老远的～得来，就为买个烧饼  
 1. 【[𧽌沟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_geu.md#𧽌沟)】`huaeh7 geu1` <sup>[如皋]</sup> 跳过河去。  
