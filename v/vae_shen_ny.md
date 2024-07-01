@@ -1,4 +1,4 @@
 # 外甥女
-vae6 shen nv3
+vae6 shen ny3
 > 如东方言词典
 - 男子的姐妹的女儿。
