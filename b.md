@@ -1263,12 +1263,12 @@
 1. 【[饼刨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_po_zz.md#饼刨子)】`bien3 po6 zz` <sup>[如皋]</sup> 刨豆饼的专用刨子。  
 1. 【[饼<sub>儿</sub>粑<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_r_ba_r.md#饼<sub>儿</sub>粑<sub>儿</sub>)】`bien3 r ba1 r` <sup>[如皋]</sup> 泛指家制饼类。  
 1. 【[饼<sub>儿</sub>花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_r_hua.md#饼<sub>儿</sub>花)】`bien3 r hua1` <sup>[如皋]</sup> 蜀葵。锦葵科。  
-1. 【[併堆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_duei_r.md#併堆<sub>儿</sub>)】`bien5 duei1 r` <sup>[如皋]</sup> 聚集一起。  
 1. 【[并](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien.md#并)】`bien5` <sup>[如皋]</sup> 比，比赛：大家一起儿～下子，看哪个快！  
 1. 【[并](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien.md#并)】`bien5` <sup>[东台]</sup> 双方较劲，相持。东台词典写“鈵”：他俫两个拗膀子，～到这刻儿还不分胜负。  
 1. 【[并](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien.md#并)】`bien5` <sup>[兴化]</sup> 坚持对立、互不相让：你不答应他的要求，他就跟你～！  
 1. 【[并](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien.md#并)】`bien5` <sup>[泰县]</sup> 倒，倒是：我～想去的。  
 1. 【[并本事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_ben_shr.md#并本事)】`bien5 ben3 shr` <sup>[如皋]</sup> 比谁的本领强。  
+1. 【[并堆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_duei_r.md#并堆<sub>儿</sub>)】`bien5 duei1 r` <sup>[如皋]</sup> 聚集一起。  
 1. 【[并家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_jia.md#并家)】`bien5 jia1` <sup>[兴化]</sup> ① 把两家合成一家：“我原是却不过孙子孙女的情面，才和他～的。”（马春阳《告状》） ② 一种讹诈手段：“芦笆也不许你动，你如动一点，我就把它全拉掉，跟你～。”（《皮五辣子》一）  
 1. 【[并吖……](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_nga.md#并吖……)】`bien5 nga` <sup>[东台]</sup> 比着某种行为：两人～说｜我俫～跑。  
 1. 【[并死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_sz.md#并死)】`bien5 sz3` <sup>[兴化]</sup> ① 坐着生闷气。 ② 沉默以对：她跟男人～，要男人跟她上街买衣裳。  
