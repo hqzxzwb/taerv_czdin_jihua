@@ -2222,7 +2222,7 @@
 1. 【[束脩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_xieu.md#束脩)】`shoh7 xieu1` <sup>[东台]</sup> 旧时给私塾先生的报酬。  
 1. 【[缩缩魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_shoh_huen.md#缩缩魂)】`shoh7 shoh7 huen2` <sup>[东台]</sup> 警告某人收敛些，不要张狂：现在反腐力度大，你～！  
 1. 【[缩水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_shuei.md#缩水)】`shoh7 shuei3` <sup>[东台]</sup> 纺织品浸泡后纤维收缩，现也比喻资产贬值。  
-1. 【[缩头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_teu.md#缩头)】`shoh7 teu` <sup>[如皋]</sup> 缩水率：：这种布下水～大，那种布～小。  
+1. 【[缩头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_teu.md#缩头)】`shoh7 teu` <sup>[如皋]</sup> 缩水率：这种布下水～大，那种布～小。  
 1. 【[熟不拘礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_beh_jy_li.md#熟不拘礼)】`shoh8 beh7 jy1 li3` <sup>[兴化]</sup> 熟人之间无需繁琐礼节：“老陈请坐。说说，工作忙吧？还来看我，～嘛。”（马春阳《你该住红楼》）  
 1. 【[熟草<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_co_r.md#熟草<sub>儿</sub>)】`shoh8 co3 r` <sup>[如皋]</sup> 晒乾的野草，作饲料、燃料。  
 1. 【[熟脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_lin.md#熟脸)】`shoh8 lin3` <sup>[如东]</sup> 曾经见过，有点印象：我俫是～吖。  
