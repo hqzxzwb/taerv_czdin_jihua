@@ -757,6 +757,7 @@
 1. 【[睺猪头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_zhv_teu.md#睺猪头)】`heu2 zhv1 teu2` <sup>[如东]</sup> 睡觉打呼噜。  
 1. 【[睺猪头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_zhv_teu.md#睺猪头)】`heu2 zhv1 teu2` <sup>[东台]</sup> 熟睡后打呼噜的声音过响，被人戏称为～（𪹍猪头）。  
 1. 【[睺猪头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_zhv_teu.md#睺猪头)】`heu2 zhv1 teu2` <sup>[泰县]</sup> 睡觉打呼噜。  
+1. 【[𣣡痰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_taen.md#𣣡痰)】`heu2 taen2` <sup>[如东]</sup> ① 滞留在病人气管中的痰，随着呼吸运动而发出一种哮声。 ② 小孩痴哭。 ③ 反复地叫喊：我家来啊啦，不要～吖。  
 1. 【[𨂸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu.md#𨂸)】`heu2` <sup>[如东]</sup> 大声地叫喊：你～甚的？  
 1. 【[𨂸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu.md#𨂸)】`heu2` ① 液体、气体涌动翻腾 ② 引申指喧闹、骚动  
 1. 【[𨂸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu.md#𨂸)】`heu2` <sup>[如皋]</sup> ① 腹中蠕动、泛动的声音：肚里～动。 ② 喘气声：～气、～～儿。  
@@ -779,7 +780,6 @@
 1. 【[𨂸上来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_shan_lae.md#𨂸上来)】`heu2 shan6 lae2` <sup>[如东]</sup> 从河水或低处拼命奔上来。  
 1. 【[𨂸石灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_sheh_huei.md#𨂸石灰)】`heu2 sheh8 huei1` <sup>[东台]</sup> ［动］生石灰泡水后碎裂，放热，呈沸腾状。  
 1. 【[𨂸神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_shen.md#𨂸神)】`heu2 shen2` <sup>[如东]</sup> 小孩游戏时，拼命奔跑打闹。  
-1. 【[𨂸痰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_taen.md#𨂸痰)】`heu2 taen2` <sup>[如东]</sup> ① 滞留在病人气管中的痰，随着呼吸运动而发出一种哮声。 ② 小孩痴哭。 ③ 反复地叫喊：我家来啊啦，不要～吖。  
 1. 【[𨂸动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_ton.md#𨂸动)】`heu2 ton6` <sup>[如东]</sup> 拼命奔跑：这些伢儿在场上～。  
 1. 【[𪹍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu.md#𪹍)】`heu2` <sup>[兴化]</sup> 蒸煮：～山芋；～角老菱；～猪头。  
 1. 【[𪹍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu.md#𪹍)】`heu2` <sup>[如皋]</sup> 煮沸后响动，引申指蒸煮：～猪食、～菜饭  
