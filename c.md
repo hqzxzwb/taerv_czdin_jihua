@@ -2778,7 +2778,7 @@
 1. 【[自留地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_lieu_ti.md#自留地)】`cz6 lieu2 ti6` <sup>[东台]</sup> 本指实行农业集体化后留给农民家庭经营的少量土地。［喻］指本职工作或干私活。  
 1. 【[自然](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_rin.md#自然)】`cz6 rin2` <sup>[如皋]</sup> ① 效果、作用：你到医院看看，不～就开刀。 ② 当然，表强调：你想去啊？——～！必要的话。我～会去！ ③ 不加装饰，原生状态。  
 1. 【[自绕自](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_ro_cz.md#自绕自)】`cz6 ro6 cz6` <sup>[兴化]</sup> 说话或者和人打交道时，自己使自己吃亏，即“绕进去”：乌龟吃馓子——～。  
-1. 【[自肉白蘣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_roh_cz_ton.md#自肉白蘣)】`cz6 roh8 cz6 ton5` <sup>[兴化]</sup> 自己的子女和晚辈看着顺眼、可喜。也说“自养自蘣”。  
+1. 【[自肉自蘣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_roh_cz_ton.md#自肉自蘣)】`cz6 roh8 cz6 ton5` <sup>[兴化]</sup> 自己的子女和晚辈看着顺眼、可喜。也说“自养自蘣”。  
 1. 【[自行车下坡——不必踩（睬）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_xien_cha_ha_pu_beh_bieh_cae.md#自行车下坡——不必踩（睬）)】`cz6 xien2 cha1 ha6 pu1 beh7 bieh7 cae3` <sup>[东台]</sup>   
 1. 【[自小<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_xio_r.md#自小<sub>儿</sub>)】`cz6 xio3 r` <sup>[兴化]</sup> 从年岁很小的时候起：“这是我～带的，与你系着，他日相会，以此为证。”（《梼杌闲评》五）  
 **[▲](#音序检索)**  
