@@ -757,13 +757,14 @@
 1. 【[睺猪头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_zhv_teu.md#睺猪头)】`heu2 zhv1 teu2` <sup>[如东]</sup> 睡觉打呼噜。  
 1. 【[睺猪头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_zhv_teu.md#睺猪头)】`heu2 zhv1 teu2` <sup>[东台]</sup> 熟睡后打呼噜的声音过响，被人戏称为～（𪹍猪头）。  
 1. 【[睺猪头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_zhv_teu.md#睺猪头)】`heu2 zhv1 teu2` <sup>[泰县]</sup> 睡觉打呼噜。  
+1. 【[𣣡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu.md#𣣡)】`heu2` <sup>[如皋]</sup> 喘气声：～气、～～儿。  
 1. 【[𣣡𣣡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_heu_r.md#𣣡𣣡<sub>儿</sub>)】`heu2 heu2-3 r` <sup>[如皋]</sup> 哮喘病患者。  
 1. 【[𣣡𣣡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_heu_r.md#𣣡𣣡<sub>儿</sub>)】`heu2 heu2 r` <sup>[东台]</sup> 指哮喘病人。  
 1. 【[𣣡气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_qi.md#𣣡气)】`heu2 qi5` <sup>[东台]</sup> 喘气喘出声音，也称吭气。  
 1. 【[𣣡痰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_taen.md#𣣡痰)】`heu2 taen2` <sup>[如东]</sup> ① 滞留在病人气管中的痰，随着呼吸运动而发出一种哮声。 ② 小孩痴哭。 ③ 反复地叫喊：我家来啊啦，不要～吖。  
 1. 【[𨂸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu.md#𨂸)】`heu2` <sup>[如东]</sup> 大声地叫喊：你～甚的？  
 1. 【[𨂸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu.md#𨂸)】`heu2` ① 液体、气体涌动翻腾 ② 引申指喧闹、骚动  
-1. 【[𨂸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu.md#𨂸)】`heu2` <sup>[如皋]</sup> ① 腹中蠕动、泛动的声音：肚里～动。 ② 喘气声：～气、～～儿。  
+1. 【[𨂸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu.md#𨂸)】`heu2` <sup>[如皋]</sup> 腹中蠕动、泛动的声音：肚里～动。  
 1. 【[𨂸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu.md#𨂸)】`heu2` <sup>[兴化]</sup> 体中排出大量液体：～汗；～血（大出血）。  
 1. 【[𨂸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu.md#𨂸)】`heu2` <sup>[东台]</sup> 液体移动：水～得快；汗只～。  
 1. 【[𨂸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu.md#𨂸)】`heu2` <sup>[东台]</sup> 动词、形容词，有喧闹、沸腾义：［形］会场～得很，不晓得为甚的事。  
