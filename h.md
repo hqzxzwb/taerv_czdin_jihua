@@ -696,7 +696,7 @@
 1. 【[齁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu.md#齁)】`heu1` <sup>[兴化]</sup> ① 因过甜或过咸刺人：蜂蜜甜得～人。｜菜烧得～咸。 ② 心病：不能提他～，一提就难过。  
 1. 【[齁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu.md#齁)】`heu1` 菜太咸，吃坏嗓子。  
 1. 【[齁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu.md#齁)】`heu1` <sup>[兴化]</sup> 哮喘：天气一冷他的～病就发作。  
-1. 【[齁齁<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_heu_r.md#齁齁<sub>儿</sub>)】`heu1 heu1 r` <sup>[如皋]</sup> 哮喘病患者。另见“𨂸𨂸儿”。  
+1. 【[齁齁<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_heu_r.md#齁齁<sub>儿</sub>)】`heu1 heu1 r` <sup>[如皋]</sup> 哮喘病患者。另见“𣣡𣣡儿”。  
 1. 【[齁齁<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_heu_r.md#齁齁<sub>儿</sub>)】`heu1 heu5 r` <sup>[兴化]</sup> 患有气管炎的人：他是个～，一到冬天就发病。也作“喉喉儿”。马春阳小说《风里雨里》有此写法。  
 1. 【[齁人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_ren.md#齁人)】`heu1 ren` <sup>[如东]</sup> 吃太甜或太咸的食物使喉咙不舒服。  
 1. 【[齁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_zz.md#齁子)】`heu1 zz` <sup>[如东]</sup> ① 说话声音沙哑。 ② 说话声音沙哑的人。  
