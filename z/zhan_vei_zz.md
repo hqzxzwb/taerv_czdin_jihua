@@ -12,3 +12,8 @@ zhan3 vei3 zz
 zhan3 vei3 zz
 > 泰县方言志
 - 过生日。
+
+# 长尾子
+zhan3 vei3 zz
+> 如皋方言词典
+- 趣指小孩过生日。

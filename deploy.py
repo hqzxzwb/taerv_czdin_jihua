@@ -173,13 +173,14 @@ def parse_cz_ien2(f, out):
         if not line:
             break
         line = line.rstrip('\n')
-        match = re.match(r'^# (\w) ([a-z]+\d?)$', line)
+        match = re.match(r'^# (\w) ([a-z0-9, ]+)$', line)
         if match:
             cz = match[1]
-            ien = match[2]
-            # print("line ", line, " cz ", cz, " ien ", ien)
-            out[ien].add(cz)
-            out[re.sub(r'\d', '', ien)].add(cz) # 轻声
+            ienList = re.split(r", ?", match[2])
+            # print("line ", line, " cz ", cz, " ien ", ienList)
+            for ien in ienList:
+                out[ien].add(cz)
+                out[re.sub(r'\d', '', ien)].add(cz) # 轻声
 
 def write_page(dirs, path, sample_out, cz_ien):
     """生成分页"""
