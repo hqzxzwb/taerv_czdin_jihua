@@ -14,8 +14,7 @@
 1. 【[巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba.md#巴)】`ba1` <sup>[如皋]</sup> 关心、记挂：～家。  
 1. 【[巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba.md#巴)】`ba1` <sup>[东台]</sup> 盼望：我～你来，～啊好长时间｜（童谣）巴啊巴，巴到三十夜，豆腐吃吃肉𠞊𠞊。  
 1. 【[巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba.md#巴)】`ba1` <sup>[东台]</sup> 抓住，把着。引申为刨、剥、拨、攀登等意：年纪大啊～到六楼吃力煞咖。  
-1. 【[巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba.md#巴)】`ba1` <sup>[兴化]</sup> 盼：一进腊月，细伢儿天天～过年。  
-1. 【[巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba.md#巴)】`ba1` <sup>[兴化]</sup> 接近：“……来到这里，前不～店，后不～村，欲投贵庄借宿一宵……。”（《水浒传》二）  
+1. 【[巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba.md#巴)】`ba1` <sup>[兴化]</sup> ① 盼：一进腊月，细伢儿天天～过年。 ② 接近：“……来到这里，前不～店，后不～村，欲投贵庄借宿一宵……。”（《水浒传》二）  
 1. 【[巴巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ba.md#巴巴)】`ba1 ba1` <sup>[东台]</sup> 用在形容词后，表示程度深：干～；凶～。  
 1. 【[巴巴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ba_dii.md#巴巴的)】`ba1 ba1 dii` <sup>[兴化]</sup> 急切：“……可怜我那母亲还～在家望我回去呢！”（《广陵潮》四二）  
 1. 【[巴巴锔锔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ba_jioh_jioh.md#巴巴锔锔)】`ba1 ba1 jioh7 jioh7` <sup>[东台]</sup> 原指瓷器锔了很多铜钉，形容器物陈旧，破损严重。  
