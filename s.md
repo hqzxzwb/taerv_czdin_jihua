@@ -2222,6 +2222,7 @@
 1. 【[束脩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_xieu.md#束脩)】`shoh7 xieu1` <sup>[东台]</sup> 旧时给私塾先生的报酬。  
 1. 【[缩缩魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_shoh_huen.md#缩缩魂)】`shoh7 shoh7 huen2` <sup>[东台]</sup> 警告某人收敛些，不要张狂：现在反腐力度大，你～！  
 1. 【[缩水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_shuei.md#缩水)】`shoh7 shuei3` <sup>[东台]</sup> 纺织品浸泡后纤维收缩，现也比喻资产贬值。  
+1. 【[缩头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_teu.md#缩头)】`shoh7 teu` <sup>[如皋]</sup> 缩水率：：这种布下水～大，那种布～小。  
 1. 【[熟不拘礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_beh_jy_li.md#熟不拘礼)】`shoh8 beh7 jy1 li3` <sup>[兴化]</sup> 熟人之间无需繁琐礼节：“老陈请坐。说说，工作忙吧？还来看我，～嘛。”（马春阳《你该住红楼》）  
 1. 【[熟草<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_co_r.md#熟草<sub>儿</sub>)】`shoh8 co3 r` <sup>[如皋]</sup> 晒乾的野草，作饲料、燃料。  
 1. 【[熟脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_lin.md#熟脸)】`shoh8 lin3` <sup>[如东]</sup> 曾经见过，有点印象：我俫是～吖。  
@@ -3282,7 +3283,6 @@
 1. 【[缩钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_qin.md#缩钱)】`soh7 qin2` <sup>[如皋]</sup> 暗中收藏钱财。  
 1. 【[缩身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_shen.md#缩身)】`soh7 shen1` <sup>[如东]</sup> 物体体积缩小。  
 1. 【[缩水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_shuei.md#缩水)】`soh7 shuei3` <sup>[如东]</sup> 布料浸水后的收缩现象。  
-1. 【[缩头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_teu.md#缩头)】`soh7 teu` <sup>[如皋]</sup> 缩水率：这种布下水～大，那种布～小。  
 1. 【[缩头夹颈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_teu_gaeh_jien.md#缩头夹颈)】`soh7 teu2 gaeh7 jien3` <sup>[兴化]</sup> 两肩高耸，头颈下缩：他捱冷风一吹，冻得～的。  
 1. 【[缩头<sub>儿</sub>炮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_teu_r_po.md#缩头<sub>儿</sub>炮)】`soh7 teu2 r po5` <sup>[如皋]</sup> 贬指短颈之人或物。  
 1. 【[缩头缩脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_teu_soh_no.md#缩头缩脑)】`soh7 teu2 soh7 no3` <sup>[东台]</sup> ① 因冷把头裹在衣裳里。 ② 胆小怕死，不敢上前。  
