@@ -75,10 +75,10 @@
 1. 【[打坝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ba.md#打坝)】`da3 ba5` <sup>[如东]</sup> ① 在河道上筑坝。 ② 比喻阻挠某事的完成或执行。  
 1. 【[打坝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ba.md#打坝)】`da3 ba5` <sup>[如皋]</sup> ① 比喻阻止：他从中～，事情就有难度咾。 ② 堵塞：千不怕，万不怕，就怕喉咙管儿～。  
 1. 【[打坝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ba.md#打坝)】`da3 ba5` <sup>[兴化]</sup> ① 用土石等在河流中筑坝。 ② （借）设置障碍：这件事有人～，不顺利。 ③ 堵塞：他喉咙～，咽不下去。  
-1. 【[打摆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_bae_zz.md#打摆子)】`da3 bae3 zz` <sup>[如皋]</sup> 患疟疾。发寒颤抖，旧时无特效药医，病程延长。  
-1. 【[打摆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_bae_zz.md#打摆子)】`da3 bae3 zz` <sup>[如皋]</sup> 见“百日子”。  
+1. 【[打摆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_bae_zz.md#打摆子)】`da3 bae3 zz` <sup>[如皋]</sup> 患疟疾。发寒颤抖，旧时无特效药医，病程延长。同“百日子”。  
 1. 【[打摆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_bae_zz.md#打摆子)】`da3 bae3 zz` <sup>[东台]</sup> ① 患疟疾，身上发寒颤抖。 ② ［喻］忽冷忽热、时好时差、时有时无的不正常现象。（作为詈语也说“打阴摆子”）  
 1. 【[打摆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_bae_zz.md#打摆子)】`da3 bae3 zz` <sup>[兴化]</sup> ① 发疟疾。 ② （喻）犯冷热病。  
+1. 【[打摆子去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_bae_zz_qy.md#打摆子去)】`da3 bae3 zz qy5` <sup>[如皋]</sup> 恶言逐客：你～吧！  
 [更多...](./d.md)
 ## E
 1. 【[……儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh.md#……儿)】`eh` <sup>[东台]</sup> 儿缀的东台市区方言口音：茄～；小摊～；让你个子～。  
