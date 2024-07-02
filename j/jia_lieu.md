@@ -1,5 +1,5 @@
-# 姐溜
-jia1 lieu2, jia3 lieu2, jia3 lieu
+# 姐䗜
+jia3 lieu2, jia3 lieu, jia1 lieu2
 > 汉语方言大词典
 - 蝉
 
