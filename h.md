@@ -757,6 +757,9 @@
 1. 【[睺猪头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_zhv_teu.md#睺猪头)】`heu2 zhv1 teu2` <sup>[如东]</sup> 睡觉打呼噜。  
 1. 【[睺猪头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_zhv_teu.md#睺猪头)】`heu2 zhv1 teu2` <sup>[东台]</sup> 熟睡后打呼噜的声音过响，被人戏称为～（𪹍猪头）。  
 1. 【[睺猪头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_zhv_teu.md#睺猪头)】`heu2 zhv1 teu2` <sup>[泰县]</sup> 睡觉打呼噜。  
+1. 【[𣣡𣣡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_heu_r.md#𣣡𣣡<sub>儿</sub>)】`heu2 heu2-3 r` <sup>[如皋]</sup> 哮喘病患者。  
+1. 【[𣣡𣣡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_heu_r.md#𣣡𣣡<sub>儿</sub>)】`heu2 heu2 r` <sup>[东台]</sup> 指哮喘病人。  
+1. 【[𣣡气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_qi.md#𣣡气)】`heu2 qi5` <sup>[东台]</sup> 喘气喘出声音，也称吭气。  
 1. 【[𣣡痰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_taen.md#𣣡痰)】`heu2 taen2` <sup>[如东]</sup> ① 滞留在病人气管中的痰，随着呼吸运动而发出一种哮声。 ② 小孩痴哭。 ③ 反复地叫喊：我家来啊啦，不要～吖。  
 1. 【[𨂸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu.md#𨂸)】`heu2` <sup>[如东]</sup> 大声地叫喊：你～甚的？  
 1. 【[𨂸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu.md#𨂸)】`heu2` ① 液体、气体涌动翻腾 ② 引申指喧闹、骚动  
@@ -770,12 +773,9 @@
 1. 【[𨂸肠疯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_chan_fon.md#𨂸肠疯)】`heu2 chan2 fon1` <sup>[如东]</sup> 因为消化不良肠内产生气体而发出响声。  
 1. 【[𨂸阵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_chen.md#𨂸阵)】`heu2 chen6` <sup>[如东]</sup> 许多人一起疯狂地奔跑。  
 1. 【[𨂸风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_fon.md#𨂸风)】`heu2 fon1` <sup>[如东]</sup> 刮大风。  
-1. 【[𨂸𨂸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_heu_r.md#𨂸𨂸<sub>儿</sub>)】`heu2 heu2-3 r` <sup>[如皋]</sup> 哮喘病患者。  
-1. 【[𨂸𨂸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_heu_r.md#𨂸𨂸<sub>儿</sub>)】`heu2 heu2 r` <sup>[东台]</sup> 指哮喘病人。  
 1. 【[𨂸浪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_lan.md#𨂸浪)】`heu2 lan6` <sup>[如东]</sup> 海浪快速滚动撞击而发出轰鸣声：今朝海上在下～。  
 1. 【[𨂸浪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_lan.md#𨂸浪)】`heu2 lan6` <sup>[如东]</sup> ① 海浪很快地向前滚动：今天垳场上在下～。 ② 比喻飞快地跑动：老鼠～。  
 1. 【[𨂸冷桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_len_ton.md#𨂸冷桶)】`heu2 len3 ton3` <sup>[如东]</sup> 没有根据地叫喊、指责：你就会～。  
-1. 【[𨂸气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_qi.md#𨂸气)】`heu2 qi5` <sup>[东台]</sup> 喘气喘出声音，也称吭气。  
 1. 【[𨂸丧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_san.md#𨂸丧)】`heu2 san1` <sup>[如东]</sup> ① 大声地哭叫。也叫嚎丧：她在下～。 ② 大叫大嚷：不要在外头～。  
 1. 【[𨂸上来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_shan_lae.md#𨂸上来)】`heu2 shan6 lae2` <sup>[如东]</sup> 从河水或低处拼命奔上来。  
 1. 【[𨂸石灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_sheh_huei.md#𨂸石灰)】`heu2 sheh8 huei1` <sup>[东台]</sup> ［动］生石灰泡水后碎裂，放热，呈沸腾状。  
