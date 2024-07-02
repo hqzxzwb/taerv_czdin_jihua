@@ -788,7 +788,6 @@
 1. 【[涨蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_taen.md#涨蛋)】`zhan3 taen6` <sup>[如皋]</sup> 蛋漷好拌和作料后，下温油锅，盖锅盖小火焖熟，体积涨大，翻面再焵，成熟。  
 1. 【[长班](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_baen.md#长班)】`zhan3 baen1` <sup>[东台]</sup> 即长辈，辈分大的人。  
 1. 【[长不住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_beh_chv.md#长不住)】`zhan3 beh chv6` <sup>[泰县]</sup> 经不起：再多的工资也～他俫这吖开销。  
-1. 【[长尾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_bei_zz.md#长尾子)】`zhan3 bei3 zz` <sup>[如皋]</sup> 趣指小孩过生日。  
 1. 【[长饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_bien.md#长饼)】`zhan3 bien3` <sup>[泰县]</sup> 用酵做饼。  
 1. 【[长得住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_deh_chv.md#长得住)】`zhan3 deh chv6` <sup>[泰县]</sup> 经受得住：这根扁担挑这吖重的东西哿～？  
 1. 【[长房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_fan.md#长房)】`zhan3 fan2` <sup>[东台]</sup> 家族中长子的一支。  
@@ -815,6 +814,7 @@
 1. 【[长尾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_vei_zz.md#长尾子)】`zhan3 vei3 zz` <sup>[东台]</sup> ［喻］过生日。多指小孩。  
 1. 【[长尾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_vei_zz.md#长尾子)】`zhan3 vei3 zz` <sup>[兴化]</sup> 戏谓小儿过生日。  
 1. 【[长尾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_vei_zz.md#长尾子)】`zhan3 vei3 zz` <sup>[泰县]</sup> 过生日。  
+1. 【[长尾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_vei_zz.md#长尾子)】`zhan3 vei3 zz` <sup>[如皋]</sup> 趣指小孩过生日。  
 1. 【[长相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_xian.md#长相)】`zhan3 xian5` <sup>[如东]</sup> ① 人的相貌：她的～好。 ② 种植的方式方法：玉米怎吖～？  
 1. 【[长云](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_yen.md#长云)】`zhan3 yen2` <sup>[如皋]</sup> ① 云层渐多渐厚。 ② 目生瞖，又称上膜络儿、上𣋟曪。  
 1. 【[长云](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_yen.md#长云)】`zhan3 yen2` <sup>[如东]</sup> ① 天空中出现了云层。 ② 比喻眼球上产生了翳障。  
@@ -2382,6 +2382,7 @@
 1. 【[做呆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_dae_zz.md#做呆子)】`zu5 dae1 zz` <sup>[如皋]</sup> ① 故意忍让。 ② 在游戏“打呆子”中做被打者。  
 1. 【[做电灯泡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_din_den_po.md#做电灯泡)】`zu5 din5 den1 po1` <sup>[东台]</sup> 男女谈情说爱，另有一人不知趣地待在一旁。  
 1. 【[做倒头梦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_do_teu_mon.md#做倒头梦)】`zu5 do3 teu2 mon6` <sup>[东台]</sup> （詈语）同“做大梦”，但语气更重，也作“做大头梦”。  
+1. 【[做东](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_don.md#做东)】`zu5 don1` <sup>[如皋]</sup> 见“惠东”。  
 1. 【[做东](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_don.md#做东)】`zu5 don1` <sup>[东台]</sup> 请客，做东道主。  
 1. 【[做东道主](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_don_to_zhv.md#做东道主)】`zu5 don1 to6 zhv3` <sup>[如皋]</sup> 见“惠东”。  
 1. 【[做对](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_duei.md#做对)】`zu5 duei5` <sup>[兴化]</sup> 跟人为难，做对头：“听说同你～的那个许道权也在其列……”（《广陵潮》七七）  
@@ -2560,7 +2561,6 @@
 1. 【[做拙事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_zhuh_shr.md#做拙事)】`zu5 zhuh7 shr6` <sup>[如皋]</sup> 见“做拙脚事”。  
 1. 【[做主](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_zhv.md#做主)】`zu5 zhv3` <sup>[如东]</sup> ① 拿主意：这件事，由你～。 ② 支撑：我的腿脚有病，不能～。  
 1. 【[做主](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_zhv.md#做主)】`zu5 zhv3` <sup>[东台]</sup> 负责、决定。  
-1. 【[做东](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_don.md#做东)】`zu6 don1` <sup>[如皋]</sup> 见“惠东”。  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuae.md#□)】`zuae1` <sup>[如皋]</sup> 放置、安置：～啊那许点儿。  
 1. 【[栽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuae.md#栽)】`zuae1` <sup>[如皋]</sup> 跌：头上捱～啊个瘤、～跟头。  
 1. 【[卒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zueh.md#卒)】`zueh7` <sup>[东台]</sup> 兵：马前～｜小～子过河胜似车。  
