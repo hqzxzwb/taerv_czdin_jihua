@@ -181,7 +181,7 @@
 1. 【[人字梁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_cz_lian.md#人字梁)】`ren2 cz6 lian2` <sup>[如皋]</sup> 三角形梁架。  
 1. 【[人大心大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_da_xien_da.md#人大心大)】`ren2 da6 xien1 da6` <sup>[兴化]</sup> 随着年岁的增长，心路也随之增大：前几年，她还是一个黄毛丫头，现在～，甚的都晓得咖。  
 1. 【[人档子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_dan_zz.md#人档子)】`ren2 dan5 zz` <sup>[兴化]</sup> 人与人之间的空隙：街上人挤人，他从～中穿来穿去。  
-1. 【[人到葬将垛，粯子䜺<sub>儿</sub>总下锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_do_zan_jian_tu_haen_zz_cae_r_zon_xia_gu.md#人到葬将垛，粯子䜺<sub>儿</sub>总下锅)】`ren2 do5 zan5 jian5 tu6 haen6 zz cae3 r zon3 xia6 gu1` <sup>[东台]</sup> 葬将垛在西溪，是隋朝抗倭英烈墓地，意思是饥肠辘辘的人回来急要吃饭，成为当地人的谚语。  
+1. 【[人到葬将垛，麲子䜺<sub>儿</sub>总下锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_do_zan_jian_tu_haen_zz_cae_r_zon_xia_gu.md#人到葬将垛，麲子䜺<sub>儿</sub>总下锅)】`ren2 do5 zan5 jian5 tu6 haen6 zz cae3 r zon3 xia6 gu1` <sup>[东台]</sup> 葬将垛在西溪，是隋朝抗倭英烈墓地，意思是饥肠辘辘的人回来急要吃饭，成为当地人的谚语。  
 1. 【[人多没好食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_du_meh_ho_sheh.md#人多没好食)】`ren2 du1 meh8 ho3 sheh8` <sup>[东台]</sup> 人多了，需求量大，就难以精心制作。  
 1. 【[人多抢食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_du_qian_sheh.md#人多抢食)】`ren2 du1 qian3 sheh8` <sup>[东台]</sup> 人一多，就有争着吃的兴致和吃不到的担心。  
 1. 【[人髮炭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_faeh_taen.md#人髮炭)】`ren2 faeh7 taen5` <sup>[如皋]</sup> 中药名，煅烧人髮为炭。又称血余炭。  
