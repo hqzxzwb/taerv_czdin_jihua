@@ -234,7 +234,6 @@
 1. 【[加𣜂/楔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_saeh.md#加𣜂/楔)】`jia1 saeh7` <sup>[如东]</sup> 在榫眼里插入木楔。比喻加码：这件事不能再～。  
 1. 【[加托](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_tah.md#加托)】`jia1 tah7` <sup>[泰县]</sup> 加重别人的责任：这些话全是～人时。  
 1. 【[嘉奖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_jian.md#嘉奖)】`jia1 jian3` <sup>[如东]</sup> 称赞和奖励。  
-1. 【[姐溜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_lieu.md#姐溜)】`jia1 lieu2, jia3 lieu2, jia3 lieu` <sup>[汉语方言大词典]</sup> 蝉  
 1. 【[家兵家将](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_bien_jia_jian.md#家兵家将)】`jia1 bien1 jia jian5` <sup>[兴化]</sup> （喻）全是家里人：这点儿活计～的就全包了。  
 1. 【[家边邻居](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_bin_lien_jy.md#家边邻居)】`jia1 bin1 lien2 jy1` <sup>[兴化]</sup> 见“邻居家边”。  
 1. 【[家产](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_chaen.md#家产)】`jia1 chaen3` <sup>[如东]</sup> 家庭财产。  
@@ -338,6 +337,7 @@
 1. 【[姐䗜衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_lieu_i.md#姐䗜衣)】`jia3 lieu i1` <sup>[如东]</sup> 蝉科昆虫黑蚱蝉的壳，又名蝉蜕、蝉衣。  
 1. 【[姐䗜壳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_lieu_kah_r.md#姐䗜壳<sub>儿</sub>)】`jia3 lieu kah7 r` <sup>[泰县]</sup> （中药）蝉衣。  
 1. 【[姐䗜壳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_lieu_kah_zz.md#姐䗜壳子)】`jia3 lieu kah7 zz` <sup>[兴化]</sup> 蝉蜕，可入药。  
+1. 【[姐䗜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_lieu.md#姐䗜)】`jia3 lieu2, jia3 lieu, jia1 lieu2` <sup>[汉语方言大词典]</sup> 蝉  
 1. 【[贾家马家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ga_ma_ga.md#贾家马家)】`jia3 ga ma3 ga` <sup>[兴化]</sup> “贾”“假”同音。意为假的、假装的：我现在～地要杀徐松朋，他一定要跟我争，他一争，我就顺水推舟……（扬一《扬州劫法场》）  
 1. 【[价格](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_geh.md#价格)】`jia5 geh7` <sup>[如东]</sup> 商品价值的货币表现。如1斤黄瓜卖8角钱，8角钱就是黄瓜的价格。  
 1. 【[价昂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ngan.md#价昂)】`jia5 ngan2` <sup>[如皋]</sup> 价格高。  
