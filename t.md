@@ -1816,7 +1816,7 @@
 1. 【[掏屎缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_shr_gan.md#掏屎缸)】`to1 shr3 gan1` <sup>[东台]</sup> ① 指冲刷、打当茅缸。 ② ［喻］指控别人的丑行。  
 1. 【[掏学](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_xiah.md#掏学)】`to1 xiah` <sup>[兴化]</sup> 虚心地向人学习：肖老肚子里学问大，要好好～他㖸！  
 1. 【[桃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to.md#桃)】`to2` <sup>[如东]</sup> 蔷薇科植物桃树，又名毛桃，落叶乔木，高约8米。小枝绿色或半边红褐色。叶互生，椭圆状披针形，边缘具细锯齿。花粉红色。核果近球形，有短绒毛；果肉白色或黄色。核极硬。种子1枚。生长在沟边、路旁或田园种植。成熟的果实入中药。性味甘酸，温。有生津、润肠、活血、消积作用。未成熟的果实，叫碧桃干。  
-1. 【[桃饱杏伤人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_bo_xien_shan_ren.md#桃饱杏伤人)】`to2 bo3 xien6 shan1 ren2` <sup>[东台]</sup> （俗语）本词条不能简单地照字面理解为：桃子可多吃，杏子只能少吃，而是说吃任何水果都要有度，超过了都有害。  
+1. 【[桃饱杏伤人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_bo_xien_shan_ren.md#桃饱杏伤人)】`to2 bo3 xien6 shan1 ren2` <sup>[东台]</sup> （俗语）本词条不能简单地照字面理解为“桃子可多吃，杏子只能少吃”，而是说吃任何水果都要有度，超过了都有害。  
 1. 【[桃饱杏伤人，李子树上挂死人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_bo_xien_shan_ren_li_zz_shv_shan_gua_sz_ren.md#桃饱杏伤人，李子树上挂死人)】`to2 bo3 xien6 shan1 ren2 li3 zz shv6 shan6 gua5 sz3 ren2` <sup>[如皋]</sup> 桃可多吃，杏子吃多了伤身体，李子吃多了要死人。  
 1. 【[桃根](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_gen.md#桃根)】`to2 gen1` <sup>[如东]</sup> 蔷薇科植物桃树根。  
 1. 【[桃花癣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_hua_xiun.md#桃花癣)】`to2 hua xiun3` <sup>[兴化]</sup> 春季，桃花、油菜花开放季节，皮肤上生的癣。也称“菜花癣”。  

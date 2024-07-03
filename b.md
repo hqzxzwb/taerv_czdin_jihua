@@ -1159,7 +1159,6 @@
 1. 【[㧙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh.md#㧙)】`bieh7` <sup>[如皋]</sup> 转捩也：拿竹篙子～船头。  
 1. 【[哔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh.md#哔)】`bieh7` <sup>[如皋]</sup> 象声词：“～卟一声响，空船大回往、干翘～卟的。”  
 1. 【[壁板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_baen.md#壁板)】`bieh7 baen3` <sup>[东台]</sup> 旧时正房堂屋四壁和墙体一样高的站板，上下入槽，下口仍用厚木板护在上面，～一般为杉木材质。也叫“杉板”。  
-1. 【[壁壁角落<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_bieh_gah_lah_r.md#壁壁角落<sub>儿</sub>)】`bieh7 bieh7 gah7 lah3 r` <sup>[如皋]</sup> 幽深隐蔽处：他家住在～里。  
 1. 【[壁壁孔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_bieh_kon.md#壁壁孔)】`bieh7 bieh7 kon3` <sup>[兴化]</sup> 偏僻幽深处：他家住啊～里，交关难寻。｜他把东西囥吖～里，不容易发现。  
 1. 【[壁壁孔里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_bieh_kon_lii.md#壁壁孔里)】`bieh7 bieh7 kon3 lii` <sup>[东台]</sup> ［喻］意思路塞狭，目光短浅，只能钻进很小的洞穴中看问题：你怎吖钻吖～爬不出来，事情的结果不会是这样子的。  
 1. 【[壁壁孔<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_bieh_kon_r.md#壁壁孔<sub>儿</sub>)】`bieh7 bieh7 kon3 r` <sup>[如皋]</sup> 偏僻的角落。  
@@ -1172,8 +1171,8 @@
 1. 【[壁风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_fon.md#壁风)】`bieh7 fon1` <sup>[如东]</sup> 壁缝中透出的风，阴冷。民间传说是壁虎吹出的风，能致面部神经麻痹，出现歪嘴、巴眼等症状。  
 1. 【[壁风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_fon.md#壁风)】`bieh7 fon1` <sup>[如皋]</sup> ① 墙壁小孔透过来的冷风，因集中而不断，能使被吹者生病，比如口眼歪斜。 ② 墙壁的回风。  
 1. 【[壁角塴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_gah_bon_r.md#壁角塴<sub>儿</sub>)】`bieh7 gah7 bon5 r` <sup>[如东]</sup> 偏僻的角落。  
-1. 【[壁角落<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_gah_lah_r.md#壁角落<sub>儿</sub>)】`bieh7 gah7 lah3 r` <sup>[如皋]</sup> 暗角落。  
 1. 【[壁角落<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_gah_lah_r.md#壁角落<sub>儿</sub>)】`bieh7 gah7 lah8 r` 角落，旮旯儿：东西放吖～里。  
+1. 【[壁角落<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_gah_lah_r.md#壁角落<sub>儿</sub>)】`bieh7 gah7 lah8-3 r` <sup>[如皋]</sup> 暗角落。  
 1. 【[壁角真真](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_gah_zhen_zhen.md#壁角真真)】`bieh7 gah7 zhen1 zhen1` <sup>[如皋]</sup> 十分像是事实：她说得～的，你不得不信。  
 1. 【[壁滑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_huaeh.md#壁滑)】`bieh7 huaeh8` ① 光滑的 ② 形容人或者东西好看；形容工作做得漂亮  
 1. 【[壁滑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_huaeh.md#壁滑)】`bieh7 huaeh8` <sup>[如东]</sup> ① 非常光滑。 ② 比喻非常好：这些服装做得～。  
@@ -1629,7 +1628,7 @@
 1. 【[百个麻雀做碗菜——多嘴多舌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_gu_ma_jiah_zu_un_cae_du_jy_du_shih.md#百个麻雀做碗菜——多嘴多舌)】`boh7 gu ma2 jiah7 zu5 un3 cae5 du1 jy3 du1 shih8` <sup>[东台]</sup>   
 1. 【[百花生日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_hua_shen_rih.md#百花生日)】`boh7 hua1 shen1 rih8` <sup>[如东]</sup> 阴历三月初三日，是如东的百花生日，也称桃花生日。有的地方把二月初二日、二月十二日定为百花生日。民间用红布给果树挂红，祝愿多结果子。  
 1. 【[百合菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_huh_cae.md#百合菜)】`boh7 huh cae5` <sup>[如皋]</sup> 腌菜名。叶柄肥大，端部蟠结像百合。也叫“百合头菜”。  
-1. 【[百合头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_huh_teu.md#百合头)】`boh7 huh7 teu2` <sup>[东台]</sup> 一种根部像百合的青菜。也叫“小短嘴”“短腿菜”。  
+1. 【[百合头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_huh_teu.md#百合头)】`boh7 huh teu2` <sup>[东台]</sup> 一种根部像百合的青菜。也叫“小短嘴”“短腿菜”。  
 1. 【[百叶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_ih.md#百叶)】`boh7 ih8` <sup>[兴化]</sup> 即千张，一种薄型豆制品。  
 1. 【[百叶底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_ih_di.md#百叶底)】`boh7 ih8 di3` <sup>[兴化]</sup> 多层布片整齐叠起而纳成的鞋底。也称“千层底”。  
 1. 【[百叶肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_ih_dv_zz.md#百叶肚子)】`boh7 ih8 dv3 zz` <sup>[兴化]</sup> 作为食品的牛羊等反刍动物的胃。  
