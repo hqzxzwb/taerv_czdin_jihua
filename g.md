@@ -2317,7 +2317,7 @@
 1. 【[姑绺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_lieu_r.md#姑绺<sub>儿</sub>)】`gv1 lieu3 r` <sup>[如皋]</sup> 见“刘海儿”。  
 1. 【[姑老爹、姑老太](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_lo_dia_gv_lo_tae.md#姑老爹、姑老太)】`gv1 lo dia1 gv1 lo tae5` <sup>[如皋]</sup> ① 对长、平辈出室女及其丈夫的尊称（主要指中老年时）。 ② 对晚辈出室女及其丈夫的昵称、贬称（尤其是年轻时）。  
 1. 【[姑老太](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_lo_tae.md#姑老太)】`gv1 lo3 tae5` <sup>[兴化]</sup> ① 父亲或母亲的姑祖母。 ② 丈夫的姑祖母。  
-1. 【[姑妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_ma.md#姑妈)】`gv1 ma1` <sup>[如皋]</sup> ① 一般指父亲的姐姐。 ② 指父亲的姐妹。因居地或家族而不同。参见“嬢嬢”。  
+1. 【[姑妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_ma.md#姑妈)】`gv1 ma1` <sup>[如皋]</sup> ① 一般指父亲的姐姐。 ② 指父亲的姐妹。因居地或家族而不同。参见“孃孃”。  
 1. 【[姑奶奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_nae_nae.md#姑奶奶)】`gv1 nae3 nae` <sup>[东台]</sup> 父母亲的姑妈。也尊称女士中的长者。  
 1. 【[姑奶奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_nae_nae.md#姑奶奶)】`gv1 nae3 nae` <sup>[兴化]</sup> ① 父亲或母亲的姑母。 ② 丈夫的姑母。 ③ 某些泼辣女性的自称：有甚的事冲我来，～不怕！  
 1. 【[姑娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_nian.md#姑娘)】`gv1 nian` <sup>[如皋]</sup> ① 称青少年女性。 ② 称未婚女子。 ③ 雅称女儿、媳妇。 ④ 指称丈夫的姐妹。  
@@ -2331,7 +2331,7 @@
 1. 【[姑婆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_pu.md#姑婆)】`gv1 pu2` <sup>[兴化]</sup> 丈夫的姑母。也称“姑奶奶”。  
 1. 【[姑婆婆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_pu_pu.md#姑婆婆)】`gv1 pu2 pu` <sup>[如皋]</sup> 见“姑外婆”。  
 1. 【[姑<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_r.md#姑<sub>儿</sub>)】`gv1 r` <sup>[如皋]</sup> 刘海儿。  
-1. 【[姑外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_vae.md#姑外)】`gv1 vae6` <sup>[东台]</sup> 嬢嬢（姑母）的丈夫。  
+1. 【[姑外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_vae.md#姑外)】`gv1 vae6` <sup>[东台]</sup> 孃孃（姑母）的丈夫。  
 1. 【[姑外公](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_vae_gon.md#姑外公)】`gv1 vae6 gon1` <sup>[如皋]</sup> 母亲的姑父。  
 1. 【[姑外婆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_vae_pu.md#姑外婆)】`gv1 vae6 pu2` <sup>[如皋]</sup> 母亲的姑母。  
 1. 【[姑作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_zah.md#姑作)】`gv1 zah7` <sup>[兴化]</sup> 暂且：“张三啊娃娃，～依你这个说法……把他救出来，往哪块送呢？”（扬一《扬州劫法场》）  

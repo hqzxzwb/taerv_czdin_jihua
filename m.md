@@ -1463,7 +1463,6 @@
 1. 【[庙上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio_shan.md#庙上)】`mio6 shan6` <sup>[如皋]</sup> 庙里，庙里的人或物。  
 1. 【[庙田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio_tin.md#庙田)】`mio6 tin2` <sup>[如东]</sup> 属寺庙所有的土地，称庙田。  
 1. 【[庙宇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio_y.md#庙宇)】`mio6 y3` <sup>[如东]</sup> 和尚修行的地方。也称寺庙。  
-1. 【[磨拐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mmu_guae.md#磨拐)】`mmu6 guae3` <sup>[兴化]</sup> 安在磨子上片，着力使其转动的曲柄，成“L”状。  
 1. 【[毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo.md#毛)】`mo2` <sup>[如皋]</sup> ① 指生了霉菌丝：上～。 ② 找借口玩虘、生事：起～、发～。  
 1. 【[毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo.md#毛)】`mo2` <sup>[东台]</sup> 除一般释义外，还指坏了、糟了：事情发咖～｜他俫这吖一闹，关系～掉啊。  
 1. 【[毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo.md#毛)】`mo2` <sup>[兴化]</sup> 时指技艺不精者：～师傅；～厨子。  
@@ -1941,6 +1940,7 @@
 1. 【[磨刀细](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_do_xi.md#磨刀细)】`mu6 do1 xi5` <sup>[东台]</sup> 形容特别精细。  
 1. 【[磨耳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_er.md#磨耳)】`mu6 er3` <sup>[如东]</sup> 安装在石磨上片一侧的一根扁形条木，外端有孔，供套磨嘴儿。  
 1. 【[磨缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_gan.md#磨缸)】`mu6 gan1` <sup>[如东]</sup> 将砂缸倾斜着旋转，移动位置。  
+1. 【[磨拐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_guae.md#磨拐)】`mu6 guae3` <sup>[兴化]</sup> 安在磨子上片，着力使其转动的曲柄，成“L”状。  
 1. 【[磨茵菜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_ien_cae_r.md#磨茵菜<sub>儿</sub>)】`mu6 ien1 cae5 r` <sup>[东台]</sup> 鲜嫩的小青菜。  
 1. 【[磨嘴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_jy_r.md#磨嘴<sub>儿</sub>)】`mu6 jy3 r` <sup>[如东]</sup> 安装在磨担头上的一根圆形条木，一端套在磨耳上，推动石磨旋转。  
 1. 【[磨口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_keu.md#磨口)】`mu6 keu3` <sup>[如皋]</sup> 石磨上下片之间。  

@@ -1535,11 +1535,11 @@
 1. 【[虐罚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/niah_faeh.md#虐罚)】`niah8 faeh8` <sup>[如皋]</sup> ① 虐待、歧视：恶婆娘就是会～小新妇儿。 ② 刁难：你不要～他吧，让他走吧。 ③ 责罚：你惹啊这吖大的祸，我也不～你，你自己请身吧。  
 1. 【[虐煞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/niah_shaeh.md#虐煞)】`niah8 shaeh7` <sup>[如皋]</sup> 心毒手狠：他对伢儿太～，打起来要命！  
 1. 【[□□<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_nian_r.md#□□<sub>儿</sub>)】`nian nian r` <sup>[如皋]</sup> 小、少、一点点。  
-1. 【[嬢嬢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_nian.md#嬢嬢)】`nian1 nian1` <sup>[兴化]</sup> 姑母，父亲的姐或妹。  
 1. 【[孃孃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_nian.md#孃孃)】`nian1 nian` 姑姑，爸爸的妹妹  
 1. 【[孃孃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_nian.md#孃孃)】`nian1 nian` <sup>[东台]</sup> 姑母。  
-1. 【[孃嬢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_nian.md#孃嬢)】`nian1 nian1` <sup>[如皋]</sup> 姑母。如城称父之妹。与姑妈（父之姐）相对。有些地区统称称父之姐妹。  
+1. 【[孃孃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_nian.md#孃孃)】`nian1 nian1` <sup>[如皋]</sup> 姑母。如城称父之妹。与姑妈（父之姐）相对。有些地区统称称父之姐妹。  
 1. 【[孃孃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_nian.md#孃孃)】`nian1 nian1` <sup>[如东]</sup> 父亲的妹妹。  
+1. 【[孃孃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_nian.md#孃孃)】`nian1 nian1` <sup>[兴化]</sup> 姑母，父亲的姐或妹。  
 1. 【[娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian.md#娘)】`nian2` <sup>[如皋]</sup> 母亲（老派称）。  
 1. 【[娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian.md#娘)】`nian2` <sup>[如东]</sup> 母亲。  
 1. 【[娘的威风爷的势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_dii_vei_fon_ia_dii_shr.md#娘的威风爷的势)】`nian2 dii vei1 fon1 ia2 dii shr5` <sup>[东台]</sup> 孩子的精气神往往与父母亲的地位名望有关。  
