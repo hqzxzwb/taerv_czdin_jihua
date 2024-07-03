@@ -1543,7 +1543,7 @@
 1. 【[饱肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_dv_zz.md#饱肚子)】`bo3 dv3 zz` <sup>[如东]</sup> 吃饭之后，称饱肚子。  
 1. 【[饱鼓鼓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_gv_gv.md#饱鼓鼓)】`bo3 gv gv3` <sup>[兴化]</sup> 十分饱满：麦粒儿～的。｜肚子吃得～的。  
 1. 【[饱汉不知饿汉饥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_hun_beh_zhr_ngu_hun_ji.md#饱汉不知饿汉饥)】`bo3 hun5 beh7 zhr1 ngu6 hun5 ji1` <sup>[东台]</sup> 比喻处境好的人，不理解困难人群的苦衷。  
-1. 【[饱浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_jian.md#饱浆)】`bo3 jian3` <sup>[如东]</sup> 植物子实发育饱满，叫做饱浆。  
+1. 【[饱浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_jian.md#饱浆)】`bo3 jian1` <sup>[如东]</sup> 植物子实发育饱满，叫做饱浆。  
 1. 【[饱喀喀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_ka_ka.md#饱喀喀)】`bo3 ka2 ka2` <sup>[兴化]</sup> 形容吃得很饱。旧时“数来宝”有云：两个烧饼一碗茶，肚子吃得～。  
 1. 【[饱拤拤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_ka_ka.md#饱拤拤)】`bo3 ka2 ka2` <sup>[如皋]</sup> 吃得过饱而微喘。  
 1. 【[饱拤拤的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_ka_ka_dii.md#饱拤拤的)】`bo3 ka2 ka2 dii` <sup>[东台]</sup> 饭、菜吃得既饱又痛快：今吖些弟兄一个个吃得～。  
