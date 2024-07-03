@@ -2,7 +2,6 @@
 **[A](./a.md) | [B](./b.md) | [C](./c.md) | [D](./d.md) | [E](./e.md) | [F](./f.md) | [G](./g.md) | [H](./h.md) | [I](./i.md) | [J](./j.md) | [K](./k.md) | [L](./l.md) | [M](./m.md) | [N](./n.md) | [O](./o.md) | [P](./p.md) | [Q](./q.md) | [R](./r.md) | [S](./s.md) | [T](./t.md) | [U](./u.md) | [V](./v.md) | [X](./x.md) | [Y](./y.md) | [Z](./z.md)**  
 ## E
 1. 【[……儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh.md#……儿)】`eh` <sup>[东台]</sup> 儿缀的东台市区方言口音：茄～；小摊～；让你个子～。  
-1. 【[耳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er.md#耳)】`> 泰兴` 理睬：没工夫～他  
 1. 【[呃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh.md#呃)】`eh` <sup>[东台]</sup> 助词“啊a”“吖nga”在东台方言中的发音，通常用在非入声韵动词或形容词之后  
 1. 【[呃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh.md#呃)】`eh` 助词“啊a”“吖nga”在部分地区的发音：来～（来了）；醒～（醒了）。  
 1. 【[呃唷哇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh_io_va.md#呃唷哇)】`eh7 io va1` <sup>[兴化]</sup> 叹词。  
@@ -25,6 +24,7 @@
 1. 【[儿孙满堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_suen_mun_tan.md#儿孙满堂)】`er2 suen1 mun3 tan2` <sup>[如东]</sup> 形容家庭人丁兴旺。  
 1. 【[儿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_zz.md#儿子)】`er2 zz` <sup>[如东]</sup> 自己的下一代男孩称儿子。亲生的，称生子；收养的，称养子；过继的，称嗣子。  
 1. 【[二饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_bien.md#二饼)】`er3 bien3` <sup>[兴化]</sup> ① 麻将中二筒。 ② （借）眼镜。 ③ 谓有女人气的男人。 ④ 一种浅口的小菜碗。  
+1. 【[耳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er.md#耳)】`er3` <sup>[泰兴]</sup> 理睬：没工夫～他  
 1. 【[耳板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_baen.md#耳板)】`er3 baen3` <sup>[如皋]</sup> 独轮车的轴承架。  
 1. 【[耳边风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_bin_fon.md#耳边风)】`er3 bin1 fon1` <sup>[如东]</sup> 听人说话以后，就像风刮过去一样，并不放在心上。也称耳旁风。  
 1. 【[耳报神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_bo_shen.md#耳报神)】`er3 bo5 shen2` <sup>[兴化]</sup> （喻）暗中通风报信的人：我家里有～，有点事马上传外去啊。  
