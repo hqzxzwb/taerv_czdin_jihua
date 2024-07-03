@@ -1903,6 +1903,7 @@
 1. 【[吹牛屄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuei_ngeu_bi.md#吹牛屄)】`chuei1 ngeu2 bi1` <sup>[如皋]</sup> 说大话，夸口。  
 1. 【[吹牛㖪㗘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuei_nieu_hoh_pah.md#吹牛㖪㗘)】`chuei1 nieu2 hoh7 pah7` <sup>[东台]</sup> 吹嘘，说不靠谱的大话：招商引资要讲诚信，～终究不行。  
 1. 【[吹人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuei_ren_zz.md#吹人子)】`chuei1 ren zz` <sup>[如皋]</sup> 风吹，使人不适。  
+1. 【[吹手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuei_sheu.md#吹手)】`chuei1 sheu3` <sup>[如东]</sup> 在婚礼或丧礼中吹奏乐器的人。  
 1. 【[吹手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuei_sheu.md#吹手)】`chuei1 sheu3` <sup>[如皋]</sup> 吹鼓手，民间乐工。  
 1. 【[吹手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuei_sheu.md#吹手)】`chuei1 sheu3` <sup>[兴化]</sup> 吹鼓手：十番锣鼓音乐篷子……里面是～，一律是笙箫细乐，边走边吹奏，（汪曾祺《故里三陈》）  
 1. 【[吹塘灰寻裂麻缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuei_tan_huei_qien_lih_ma_fon.md#吹塘灰寻裂麻缝)】`chuei1 tan2 huei1 qien2 lih8 ma2 fon6` <sup>[兴化]</sup> 千方百计找岔子：这次互查因为接待不周，来的人到处～。  
@@ -1912,7 +1913,6 @@
 1. 【[捶衣棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuei_i_pan.md#捶衣棒)】`chuei2 i1 pan6` <sup>[如皋]</sup> 专供洗衣、汰衣时捶打衣物用的木棒。体扁柄圆，形制不一。  
 1. 【[槌棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuei_pan.md#槌棒)】`chuei2 pan6` <sup>[东台]</sup> 用于捶打的木棒。  
 1. 【[锤<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuei_r.md#锤<sub>儿</sub>)】`chuei2 r` <sup>[如东]</sup> 工具。铁制，长条形或方锤形，有柄，用以敲击物体。也叫锤子。  
-1. 【[吹手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuei_sheu.md#吹手)】`chuei3 sheu3` <sup>[如东]</sup> 在婚礼或丧礼中吹奏乐器的人。  
 1. 【[坠手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuei_sheu.md#坠手)】`chuei6 sheu3` <sup>[如皋]</sup> 小孩体重大，讳“重”改称～，“重”专称死人体重大。坠，chuei6。  
 1. 【[春饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_bien.md#春饼)】`chuen1 bien3` <sup>[东台]</sup> 一种薄饼，立春应节食品。  
 1. 【[春半上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_bun_shan.md#春半上)】`chuen1 bun5 shan` <sup>[如皋]</sup> 春季。  
