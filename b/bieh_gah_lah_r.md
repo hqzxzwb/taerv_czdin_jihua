@@ -4,6 +4,6 @@ bieh7 gah7 lah8 r
   - 东西放吖～里。
 
 # 壁角落儿
-bieh7 gah7 lah3 r
+bieh7 gah7 lah8-3 r
 > 如皋方言词典
 - 暗角落。
