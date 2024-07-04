@@ -771,6 +771,7 @@
 1. 【[一板一眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_baen_ieh_ngaen.md#一板一眼)】`ieh7 baen3 ieh7 ngaen3` <sup>[如东]</sup> 举止正统刻板：他做事总是～的，快不起来。  
 1. 【[一板一眼的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_baen_ieh_ngaen_dii.md#一板一眼的)】`ieh7 baen3 ieh7 ngaen3 dii` <sup>[如皋]</sup> ① 说话吐字轻重疾徐得当，理事特别清楚。 ② 做事井井有条。  
 1. 【[一板一腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_baen_ieh_qian.md#一板一腔)】`ieh7 baen3 ieh7 qian1` <sup>[如皋]</sup> 行为正统、举止有序，略显刻板的样子。源自演唱与配乐有序不乱。  
+1. 【[一不做，二不休](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_beh_zu_er.md#一不做，二不休)】`ieh7 beh7 zu5 er6 beh7 xieu1` <sup>[泰兴]</sup> 谓除非不做，既然做了，就索性干到底。  
 1. 【[一辈子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_bei_zz.md#一辈子)】`ieh7 bei5 zz` <sup>[如东]</sup> 一生或一世。  
 1. 【[一报还一报](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_bo_huaen_ieh_bo.md#一报还一报)】`ieh7 bo5 huaen2 ieh7 bo5` <sup>[东台]</sup> 指人做了坏事终究会得到报应（佛家的因果报应思想）。  
 1. 【[一缽头糊粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_buh_teu_hv_fen.md#一缽头糊粉)】`ieh7 buh7 teu hv2 fen3` <sup>[如皋]</sup> 贬指臃肿的脸型。  
@@ -793,6 +794,7 @@
 1. 【[一冲之兴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_chon_zhr_xien.md#一冲之兴)】`ieh7 chon5 zhr1 xien5` <sup>[兴化]</sup> 由着性子，凭好恶行事：他做事总是～，过后就丢啊干干净净。也说“一兴之头”。  
 1. 【[一䟳一滑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_chr_ieh_huaeh.md#一䟳一滑)】`ieh7 chr1 ieh7 huaeh8` <sup>[如东]</sup> 路面泥泞行走困难：刚刚落咖雨，泥路上～的，不好跑。  
 1. 【[一䟳一滑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_chr_ieh_huaeh.md#一䟳一滑)】`ieh7 chr1 ieh7 huaeh8` <sup>[兴化]</sup> 在潮湿地面上艰难行走的样子：他冒啊风雨，～赶往工地。｜路上～的，走路要注意。  
+1. 【[一䟳一滑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_chr_ieh_vaeh.md#一䟳一滑)】`ieh7 chr1 ieh7 vaeh8` <sup>[泰兴]</sup> 地面不平而又泥泞不堪，走路很不方便。  
 1. 【[一床不睡两样人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_chuan_beh_shuei_laen_ian_ren.md#一床不睡两样人)】`ieh7 chuan2 beh7 shuei5 laen3 ian6 ren2` <sup>[东台]</sup> 夫妻总有共同之处。  
 1. 【[一床眠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_chuan_min.md#一床眠)】`ieh7 chuan2 min2` <sup>[如东]</sup> ① 两个人睡在一张床上，关系非常亲密。 ② 比喻男女同居。  
 1. 【[一串联<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_chun_lin_r.md#一串联<sub>儿</sub>)】`ieh7 chun5 lin2 r` <sup>[泰县]</sup> 一起，一伙：他俫～要去东北支边。  
@@ -803,6 +805,7 @@
 1. 【[一字值千金](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_cz_cheh_qin_jien.md#一字值千金)】`ieh7 cz6 cheh8 qin1 jien1` <sup>[泰兴]</sup> 谓文字价值高贵，也喻指教人识字，纠正别人的错别字是极值得称道的事。《史记•吕不韦列传》：“《吕氏春秋》书成，公布于咸阳城门，声言有能增删一字者，赏予千金。”清李渔《意中缘》：“一字值千金是说文理值钱的意思。”后以“一字值干金”极言文章价值的高贵。  
 1. 【[一字一板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_cz_ieh_baen.md#一字一板)】`ieh7 cz6 ieh7 baen3` <sup>[东台]</sup> ［喻］说话办事有板有眼，不乱方寸。  
 1. 【[一大把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_da_ba.md#一大把)】`ieh7 da ba3` <sup>[如皋]</sup> 手所能把握的最大量：～青草、～花生米儿。  
+1. 【[一打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_da.md#一打)】`ieh7 da3` <sup>[泰兴]</sup> 12个称为一打，为英语音译。火柴十盒为一打。  
 1. 【[一打头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_da_teu.md#一打头)】`ieh7 da3 teu2` <sup>[兴化]</sup> 刚开始的时候：他俫两个人～关系就不好。  
 1. 【[一大串](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_da_chun.md#一大串)】`ieh7 da6 chun5` <sup>[如东]</sup> 很长的一串。  
 1. 【[一大蛮片](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_da_maen_pin.md#一大蛮片)】`ieh7 da6 maen2 pin5` <sup>[东台]</sup> 很大的一块地方。  
@@ -838,6 +841,7 @@
 1. 【[一顶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_dien.md#一顶)】`ieh7 dien3` <sup>[如皋]</sup> 副词，相当于“最”，也可与“最”配用：在我俫班上～他最好！  
 1. 【[一顶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_dien.md#一顶)】`ieh7 dien3` <sup>[兴化]</sup> 副词，相当于最、尤其：这吖多客人，～他难服待。  
 1. 【[一吊钱四开——二百五](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_dio_qin_sz_kae_er_boh_v.md#一吊钱四开——二百五)】`ieh7 dio5 qin2 sz5 kae1 er6 boh7 v3` <sup>[东台]</sup>   
+1. 【[一刀两断](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_do_laen_tun.md#一刀两断)】`ieh7 do1 laen3 tun6` <sup>[泰兴]</sup> 比喻坚决地断绝关系。  
 1. 【[一刀切](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_do_qih.md#一刀切)】`ieh7 do1 qih7` <sup>[泰兴]</sup> 喻不针对具体情况，只用某种固定的方式统一处理。  
 1. 【[一堆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_duei_r.md#一堆<sub>儿</sub>)】`ieh7 duei1 r` <sup>[兴化]</sup> 一起、一块儿：两个伢儿放吖学在～写作业。｜（穆春）走到厨房，见香火、芳哥两个做～蹲在灶下草里，各自抖不止。（《水浒后传》十七）  
 1. 【[一肚的二百五](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_dv_dii_er_boh_v.md#一肚的二百五)】`ieh7 dv3 dii er6 boh7 v3` <sup>[东台]</sup> 形容意见很多，极端反感：他原来对厂长～，后来经过交心，才谅解啊。  
@@ -993,6 +997,7 @@
 1. 【[一了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_lio.md#一了)】`ieh7 lio3` <sup>[泰县]</sup> 一向：他～在北京。/那汉子道：“我～不说价，五贯足钱一桶，十贯一担。”（水浒·16回）  
 1. 【[一了百了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_lio_boh_lio.md#一了百了)】`ieh7 lio3 boh7 lio3` <sup>[如皋]</sup> 一了百了。  
 1. 【[一了百了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_lio_boh_lio.md#一了百了)】`ieh7 lio3 boh7 lio3` <sup>[如东]</sup> ① 主要的事情解决了，其他的小事也跟着解决了。 ② 比喻人死以后，一切事情都丢下了，不管了：人一死，～。  
+1. 【[一了百了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_lio_boh_lio.md#一了百了)】`ieh7 lio3 boh7 lio3` <sup>[泰兴]</sup> 谓主要的事情了结，其它的一切也跟着了结。  
 1. 【[一了百净](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_lio_boh_qien.md#一了百净)】`ieh7 lio3 boh7 qien6` <sup>[兴化]</sup> 了却牵挂：老婆离啊，伢儿死啊，从此～。俗语｜寡妇化牌子，～。  
 1. 【[一了百尽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_lio_boh_qien.md#一了百尽)】`ieh7 lio3 boh7 qien6` <sup>[如皋]</sup> 关键事做完就没有遗留问题了。  
 1. 【[一了<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_lio_r.md#一了<sub>儿</sub>)】`ieh7 lio3 r` <sup>[东台]</sup> 也说“一啥儿”。原来，当初：海丰～属四灶公社。  
@@ -1037,6 +1042,7 @@
 1. 【[一面戤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_min_kae.md#一面戤)】`ieh7 min6 kae5` <sup>[如东]</sup> ① 靠向一边。 ② 许多人顺着某一种意见跟着跑：他俫是～。  
 1. 【[一面理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_min_li.md#一面理)】`ieh7 min6 li3` <sup>[如东]</sup> 一个方面的意见，片面的理由：他说的只是～。  
 1. 【[一毛不拔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_mo_beh_paeh.md#一毛不拔)】`ieh7 mo2 beh7 paeh8` <sup>[如东]</sup> 比喻非常自私、吝啬：这个人～。  
+1. 【[一毛不拔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_mo_beh_paeh.md#一毛不拔)】`ieh7 mo2 beh7 paeh8` <sup>[泰兴]</sup> 形容极端吝啬。  
 1. 【[一目照](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_moh_zho.md#一目照)】`ieh7 moh8 zho5` <sup>[东台]</sup> 蓦然一望，没来得及细看。  
 1. 【[一脉相承](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_moh_xian_chen.md#一脉相承)】`ieh7 moh8 xian5 chen2` <sup>[如东]</sup> 由一个血统或者一个派别传下来的：他俫的功夫是～的。  
 1. 【[一模二样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_mu_er_ian.md#一模二样)】`ieh7 mu2 er6 ian6` <sup>[兴化]</sup> 即一模一样，完全相同：一对双子长得～。｜“适才礼物里边……也是一个玉蟾蜍，与前日风官人与姐姐的～……”（《二刻》九）  
@@ -1073,6 +1079,7 @@
 1. 【[一碰山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_pon_shaen.md#一碰山)】`ieh7 pon5 shaen1` <sup>[泰县]</sup> 一面山墙。  
 1. 【[一埲狼烟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_pon_lan_in.md#一埲狼烟)】`ieh7 pon6 lan2 in1` <sup>[泰兴]</sup> 一股烟雾；一塌糊涂。多指办某件事的后果不好，效果极差。  
 1. 【[一破](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_pu.md#一破)】`ieh7 pu5` <sup>[如皋]</sup> 一遍：～糏。  
+1. 【[一盘散沙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_pun_saen_sha.md#一盘散沙)】`ieh7 pun2 saen3 sha1` <sup>[泰兴]</sup> 形容力量分散，不能团结一致；或谓乱七八糟。  
 1. 【[一步一脚的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_pv_ieh_jiah_dii.md#一步一脚的)】`ieh7 pv6 ieh7 jiah7 dii` <sup>[如皋]</sup> 当心当意地、毫不松懈地。  
 1. 【[一步一脚的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_pv_ieh_jiah_dii.md#一步一脚的)】`ieh7 pv6 ieh7 jiah7 dii` <sup>[如皋]</sup> 时时刻地：细伢儿学咖跑的刻儿，～要注意安全。  
 1. 【[一步一锁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_pv_ieh_su.md#一步一锁)】`ieh7 pv6 ieh7 su3` <sup>[兴化]</sup> 门户严谨，外出及时关门上锁：这个仓库～，钥匙由专人保管。  
@@ -1133,6 +1140,7 @@
 1. 【[一身衣裳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_shen_i_shan.md#一身衣裳)】`ieh7 shen1 i1 shan` <sup>[如东]</sup> 一套衣裳。  
 1. 【[一手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_sheu.md#一手)】`ieh7 sheu3` <sup>[如东]</sup> ① 一个人把事情办完：由他～操办。 ② 一种技能或本领：他有～。  
 1. 【[一手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_sheu.md#一手)】`ieh7 sheu3` <sup>[兴化]</sup> ① 趁手：～泥墙｜请你～帮忙到底。 ② 量词：旧时六只鸭蛋（或鸡蛋）为～。  
+1. 【[一手交钱，一手交货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_sheu_jio_qin.md#一手交钱，一手交货)】`ieh7 sheu3 jio1 qin2 ieh7 sheu3 jio1 hu5` <sup>[泰兴]</sup> 谓现钱买卖，不赊欠。  
 1. 【[一手泥墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_sheu_ni_qian.md#一手泥墙)】`ieh7 sheu3 ni2 qian2` <sup>[兴化]</sup> （喻）在完成某件事后，趁便把相关的事做好：等打好橱柜，请你～把门窗修理下子。  
 1. 【[一手托两家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_sheu_tah_laen_ga.md#一手托两家)】`ieh7 sheu3 tah7 laen3 ga1` <sup>[东台]</sup> ① 含有中介的意味，由于身份特殊，可以代表两方意愿促成合作或交换的意向。 ② 一人可代表双方说话。  
 1. 【[一手托两家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_sheu_tah_laen_ga.md#一手托两家)】`ieh7 sheu3 tah7 laen3 ga1` <sup>[兴化]</sup> 在一件事上公平地为两家出力：我俫做中介的总是～，要让甲方满意，乙方也不吃亏。  
@@ -1170,6 +1178,7 @@
 1. 【[一丝不挂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_sz_beh_gua.md#一丝不挂)】`ieh7 sz1 beh7 gua5` <sup>[如东]</sup> 身上不穿衣服，光着身体。  
 1. 【[一代](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_tae.md#一代)】`ieh7 tae6` <sup>[如东]</sup> 世系辈分，父亲至儿子为一代：我俫是同～人。  
 1. 【[一代没好妻，三代没好子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_tae_meh_ho_qi_saen_tae_meh_ho_zz.md#一代没好妻，三代没好子)】`ieh7 tae6 meh8 ho3 qi1 saen1 tae6 meh8 ho3 zz3` <sup>[东台]</sup> 妻子的遗传、教育等因素影响子孙。  
+1. 【[一袋烟工夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_tae_in_gon.md#一袋烟工夫)】`ieh7 tae6 in1 gon1 fv1` <sup>[泰兴]</sup> 谓时间不长，一刻儿。  
 1. 【[一塌大包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_taeh_da_bo.md#一塌大包)】`ieh7 taeh7 da6 bo1` <sup>[泰兴]</sup> 所有的方面全部包下来：箇项工程你们公司～，竣工时结账  
 1. 【[一塌刮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_taeh_guaeh_zz.md#一塌刮子)】`ieh7 taeh7 guaeh zz` <sup>[如皋]</sup> 见“一刮碌秃”。  
 1. 【[一塌刮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_taeh_guaeh_zz.md#一塌刮子)】`ieh7 taeh7 guaeh7 zz` <sup>[如东]</sup> 统统，总共：～有多少？  
@@ -1231,6 +1240,7 @@
 1. 【[一窝子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_u_zz.md#一窝子)】`ieh7 u1 zz` <sup>[兴化]</sup> 一伙：他家～不请都来，料想有甚的事吧？｜“自家～男女，那有闲饭养他人……”（《警世通言》二四）  
 1. 【[一碗灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_un_den.md#一碗灯)】`ieh7 un3 den1` <sup>[如东]</sup> 一盏灯。  
 1. 【[一碗灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_un_den.md#一碗灯)】`ieh7 un3 den1` <sup>[泰县]</sup> 一盏灯。  
+1. 【[一五一十](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_v_ieh_sheh.md#一五一十)】`ieh7 v5 ieh7 sheh8` <sup>[泰兴]</sup> 形容叙述的内容原原本本，没有遗漏。  
 1. 【[一𢱉一𢱉的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_vae_ieh_vae_dii.md#一𢱉一𢱉的)】`ieh7 vae3 ieh7 vae3 dii` <sup>[如皋]</sup> 走路摇摆的样子。  
 1. 【[一汪亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_van_lian.md#一汪亮)】`ieh7 van1 lian6` <sup>[如皋]</sup> 一片亮光：瞎子磨刀——～。  
 1. 【[一网打啊皂壳树上去啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_van_da_a_co_kah_shv_shan_qy_a.md#一网打啊皂壳树上去啊)】`ieh7 van3 da3 a co6 kah7 shv6 shan qy5 a` <sup>[如皋]</sup> 彻底绝望了。  
