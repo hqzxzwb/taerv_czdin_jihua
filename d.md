@@ -2357,7 +2357,7 @@
 1. 【[吊纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_zhr.md#吊纸)】`dio5 zhr3` <sup>[兴化]</sup> 吊丧：他叔丈人死啊，他要去～。  
 1. 【[掉膘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_bio.md#掉膘)】`dio5 bio1` <sup>[兴化]</sup> 畜禽因少进食而消瘦。  
 1. 【[掉膘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_bio.md#掉膘)】`dio5 bio1` <sup>[如东]</sup> 牲畜膘情下降。  
-1. 【[掉暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_bo.md#掉暴)】`dio5 bo5` <sup>[如东]</sup> 天气转冷或刮风，叫调暴。  
+1. 【[掉暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_bo.md#掉暴)】`dio5 bo5` <sup>[如东]</sup> 天气转冷或刮风。  
 1. 【[掉暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_bo.md#掉暴)】`dio5 bo5` <sup>[如皋]</sup> 寒潮侵袭。  
 1. 【[掉秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_chen.md#掉秤)】`dio5 chen5` <sup>[兴化]</sup> 折秤，物品因故减少了斤两。  
 1. 【[调风汛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_fon_xien.md#调风汛)】`dio5 fon1 xien5` <sup>[兴化]</sup> 深秋季节，气候反常，出现将要刮大风的征兆。也说“掼风汛”。  

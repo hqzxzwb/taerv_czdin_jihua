@@ -1321,7 +1321,7 @@
 1. 【[结不熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_beh_shoh.md#结不熟)】`jih7 beh shoh8` <sup>[兴化]</sup> 咒骂青少年难长大、早夭：他二十岁，个子点点大，又阴又促，人都骂他～。  
 1. 【[结不熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_beh_shoh.md#结不熟)】`jih7 beh7 shoh8` <sup>[东台]</sup> ［喻］戏称发育迟缓的人。  
 1. 【[结冰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_bien.md#结冰)】`jih7 bien1` <sup>[如东]</sup> 液体在温度摄氏零度以下由液态转变为固态，这种转变称为结冰。  
-1. 【[结暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_bo.md#结暴)】`jih7 bo5` <sup>[如皋]</sup> 见“调暴”。  
+1. 【[结暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_bo.md#结暴)】`jih7 bo5` <sup>[如皋]</sup> 见“掉暴”。  
 1. 【[结绷绷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_bon_bon.md#结绷绷)】`jih7 bon1 bon1` <sup>[东台]</sup> ① 绷得很紧的样子。 ② ［喻］经济上拮据：这两天手头上～的，没得钱。  
 1. 【[结底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_di.md#结底)】`jih7 di3` <sup>[如皋]</sup> 终结。  
 1. 【[结荚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_gah_r.md#结荚<sub>儿</sub>)】`jih7 gah7 r` <sup>[如皋]</sup> 豆科植物结出荚来。  

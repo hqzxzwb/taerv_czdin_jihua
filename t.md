@@ -692,8 +692,7 @@
 1. 【[忑班](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_baen.md#忑班)】`teh7 baen1` <sup>[东台]</sup> 赶不上某一趟车船，也喻指掉队，跟不上一起前进的人。  
 1. 【[忑不下来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_beh_ha_lae.md#忑不下来)】`teh7 beh7 ha6 lae2` <sup>[东台]</sup> 形容某种商品十分畅销，供不应求：东台乳猪东南亚市场上～，吃香得很咧！  
 1. 【[忑膘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_bio.md#忑膘)】`teh7 bio1` <sup>[如东]</sup> 牲畜膘情下降。  
-1. 【[忑暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_bo.md#忑暴)】`teh7 bo5` <sup>[如皋]</sup> 见“调暴”。  
-1. 【[忑暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_bo.md#忑暴)】`teh7 bo5` <sup>[如皋]</sup> 寒潮浸袭。  
+1. 【[忑暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_bo.md#忑暴)】`teh7 bo5` <sup>[如皋]</sup> 寒潮浸袭。同“掉暴”。  
 1. 【[忑绽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_chaen.md#忑绽)】`teh7 chaen6` <sup>[如皋]</sup> 线缝裂开。  
 1. 【[忑绽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_chaen.md#忑绽)】`teh7 chaen6` <sup>[兴化]</sup> 绱鞋的绳断裂，鞋帮鞋底分开：鞋子～。｜也说“掉绽”。  
 1. 【[忑绽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_chaen.md#忑绽)】`teh7 chaen6` <sup>[泰县]</sup> ① 针线缝掉下来。 ② 说话有漏洞。  
@@ -709,7 +708,7 @@
 1. 【[忑扣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_keu.md#忑扣)】`teh7 keu1` <sup>[如东]</sup> 丢掉联系环节，掉链子：做事不能～。  
 1. 【[忑空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_kon.md#忑空)】`teh7 kon5` <sup>[如皋]</sup> 有了时空间隙：他家才搬吖走啊，房间～，你正好来住。  
 1. 【[忑浪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_lan.md#忑浪)】`teh7 lan6` <sup>[如东]</sup> 脱节：插秧不能～。  
-1. 【[忑冷暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_len_bo.md#忑冷暴)】`teh7 len3 bo5` <sup>[如皋]</sup> 见“调暴”。  
+1. 【[忑冷暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_len_bo.md#忑冷暴)】`teh7 len3 bo5` <sup>[如皋]</sup> 寒潮浸袭。同“掉暴”。  
 1. 【[忑襻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_paen.md#忑襻)】`teh7 paen5` <sup>[如东]</sup> ① 脱离：不能～。 ② 比喻离开常规：他这样做，～吖啦！  
 1. 【[忑事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_shr.md#忑事)】`teh7 shr6` <sup>[东台]</sup> ① 出了大事；发生事故。 ② 惹了麻烦：某人～啊。  
 1. 【[忑忑拉拉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_teh_la_la.md#忑忑拉拉)】`teh7 teh7 la1 la1` <sup>[东台]</sup> 丢三落四，屡出差错。  

@@ -535,7 +535,7 @@
 1. 【[虹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan.md#虹)】`gan5` <sup>[东台]</sup> 雨后天空出现的七色圆弧，是大气中小水珠在日光下发生折射和反射作用而形成的。  
 1. 【[虹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan.md#虹)】`gan5` <sup>[兴化]</sup> 雨后天空出现的弧形彩色光带：天上～～；东～日头西～雨。  
 1. 【[虹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan.md#虹)】`gan5` <sup>[泰县]</sup> 彩虹。  
-1. 【[降暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_bo.md#降暴)】`gan5 bo5` <sup>[如皋]</sup> ① 见“调暴”。 ② 寒潮侵袭。  
+1. 【[降暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_bo.md#降暴)】`gan5 bo5` <sup>[如皋]</sup> 寒潮侵袭。同“掉暴”。  
 1. 【[降暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_bo.md#降暴)】`gan5 bo5` <sup>[东台]</sup> 西北风越刮越大，气温陡降：外头～，多加几件衣裳。  
 1. 【[𧧭赖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_lae.md#𧧭赖)】`gan5 lae6` <sup>[如皋]</sup> 不服气，久久哭闹。  
 1. 【[𧧭赖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_lae.md#𧧭赖)】`gan5 lae6` <sup>[兴化]</sup> ① 小儿长时间哭闹：这个伢儿会～。 ② 耍赖：他借的钱到期不还，就跟债主～。  

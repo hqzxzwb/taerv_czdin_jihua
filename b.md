@@ -1569,6 +1569,7 @@
 1. 【[报晓鸡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_xio_ji_r.md#报晓鸡<sub>儿</sub>)】`bo5 xio3 ji1 r` <sup>[如东]</sup> ① 雄鸡在天亮时啼鸣，称报晓。 ② 母鸡下蛋后叫唤，称报晓。 ③ 比喻一些人知道了一点情况就马上告诉别人：陈志明是个～，听到一点风声就告诉人。  
 1. 【[报晓鸡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_xio_ji_r.md#报晓鸡<sub>儿</sub>)】`bo5 xio3 ji1 r` <sup>[如皋]</sup> 詈语，指专打小报告的人（晓，知）。  
 1. 【[报虚灾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_xy_zae.md#报虚灾)】`bo5 xy1 zae1` <sup>[泰县]</sup> 虚报灾情。  
+1. 【[暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#暴)】`bo5` <sup>[东台]</sup> 急雨。（原文作“瀑”，音不全合，今罕用此义。）：<!｜不采纳。缺乏例句。推测是“趵”的一种运用。  
 1. 【[暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#暴)】`bo5` <sup>[兴化]</sup> ① 秋冬季节的大风为～。《尔雅·释天》“日出而风为～。”：八月芦花～｜九月重阳～｜冬天黑风～ ② 在强光下晒：～伏｜民俗于大伏中将衣物摊出一晒，以防生霉。 ③ 晒粮。《颜氏家训，书证》“言日中时，必须～晒，不尔者，失其时也。”～，今通作“曝”：～小麦。可叠用｜肥棉衣拿出来～～  
 1. 【[暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#暴)】`bo5` <sup>[兴化]</sup> ① 突然：那人原是闲吏……近来～有几贯浮财，只是为人行短。（《水浒传》四三） ② 显露：“事无可奈何，其所摧败，功亦足以～于天下。”（司马迁《报任少卿书》） ③ 开始、新：“～上毛坑三日新……”（《广陵潮》十二）  
 1. 【[暴暴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_bo_dii.md#暴暴的)】`bo5 bo5 dii` <sup>[兴化]</sup> 刚开始、突然的：今日～到店里来住，嘿，巧书甚多！（《武松》六）  
@@ -1578,7 +1579,7 @@
 1. 【[暴躁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_zo.md#暴躁)】`bo5 zo5` <sup>[如皋]</sup> ① 急躁。 ② 果断、干脆。  
 1. 【[曝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#曝)】`bo5` <sup>[东台]</sup> 强烈的阳光晒：三伏天正是～晒衣被的大好时机。  
 1. 【[曝伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_foh.md#曝伏)】`bo5 foh8` <sup>[如东]</sup> 夏天将衣物放在外面曝晒。  
-1. 【[瀑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#瀑)】`bo5` <sup>[东台]</sup> ① 急雨。见《说文·水部》。 ② 溅起的水：郭璞《江赋》“挥弄洒珠，扮拂瀑沫。”  
+1. 【[瀑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#瀑)】`bo5` ① 溅起的水：郭璞《江赋》“挥弄洒珠，拊拂瀑沫。” ② >  
 1. 【[爆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#爆)】`bo5` <sup>[如皋]</sup> 大而凸(的眼睛)：勒头～眼的。  
 1. 【[爆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#爆)】`bo5` <sup>[东台]</sup> 表皮突出；冒出：这松树年份不低，树皮都～开来啊｜这是雨后才～出来的新苗。  
 1. 【[爆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#爆)】`bo5` <sup>[兴化]</sup> ① 牙齿露出唇外（原文作“龅”，声调不合）：～牙齿。 ② 突起（原文作“暴”，音不合） ③ 生出（原文作“暴”，音不合）：～芽；～头（生出新枝）；～青。  
