@@ -191,7 +191,9 @@ def write_page(dirs, path, sample_out, cz_ien):
     lines.append("## %s\n" % path.upper())
     conts = []
     for fname in glob.glob(path+"/*.md"):
-        for cont in re.findall(r"#[^#]+", open(fname,encoding="U8").read()):
+        file_content = open(fname,encoding="U8").read()
+        file_content = re.sub(r"<!--\n(.+\n)*-->", "", file_content)
+        for cont in re.findall(r"#[^#]+", file_content):
             conts.append(parse_cont(cont, fname, cz_ien))
     for w in sorted(conts, key=lambda c: c.sort_key):
         check_path(w.fname, w.py0, w.word)
