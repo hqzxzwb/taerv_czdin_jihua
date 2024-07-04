@@ -428,8 +428,8 @@
 1. 【[下框框<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_kuan_kuan_r.md#下框框<sub>儿</sub>)】`xia6 kuan1 kuan1 r` <sup>[如皋]</sup> 汉字的偏旁之一，“凵”：函凶凿。  
 1. 【[下落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_lah.md#下落)】`xia6 lah8` <sup>[如东]</sup> ① 解决：不得～。 ② 结束：已经～。 ③ 去处：有啊～。  
 1. 【[下礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_li.md#下礼)】`xia6 li3` <sup>[如皋]</sup> 行礼。  
-1. 【[下流坏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_lieu_pi_zz.md#下流坏子)】`xia6 lieu2 pi1 zz` <sup>[兴化]</sup> 卑鄙龌龊的人：这个～甚的脏话总说得出来。  
 1. 【[下流坯料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_lieu_pi_lio.md#下流坯料)】`xia6 lieu2 pi1 lio6` <sup>[如皋]</sup> 卑劣不端的品行。  
+1. 【[下流坯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_lieu_pi_zz.md#下流坯子)】`xia6 lieu2 pi1 zz` <sup>[兴化]</sup> 卑鄙龌龊的人：这个～甚的脏话总说得出来。  
 1. 【[下溜头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_lieu_teu.md#下溜头)】`xia6 lieu6 teu2` <sup>[兴化]</sup> 湍急河水流去的方向：（二郎）果一变变着个鱼鹰儿，飘荡在～波面上……（《西游记》六）  
 1. 【[下料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_lio.md#下料)】`xia6 lio6` <sup>[如皋]</sup> 定好谱后开始取（放）料。如木匠、裁缝、厨师等。  
 1. 【[下老钢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_lo_gan.md#下老钢)】`xia6 lo3 gan1` <sup>[东台]</sup> 动真格，下硬功夫。  
