@@ -795,6 +795,7 @@
 1. 【[一䟳一滑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_chr_ieh_huaeh.md#一䟳一滑)】`ieh7 chr1 ieh7 huaeh8` <sup>[如东]</sup> 路面泥泞行走困难：刚刚落咖雨，泥路上～的，不好跑。  
 1. 【[一䟳一滑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_chr_ieh_huaeh.md#一䟳一滑)】`ieh7 chr1 ieh7 huaeh8` <sup>[兴化]</sup> 在潮湿地面上艰难行走的样子：他冒啊风雨，～赶往工地。｜路上～的，走路要注意。  
 1. 【[一䟳一滑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_chr_ieh_vaeh.md#一䟳一滑)】`ieh7 chr1 ieh7 vaeh8` <sup>[泰兴]</sup> 地面不平而又泥泞不堪，走路很不方便。  
+1. 【[一䟳两个档](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_chr_laen_gu.md#一䟳两个档)】`ieh7 chr1 laen3 gu5 dan5` <sup>[泰兴]</sup> 一举两得  
 1. 【[一床不睡两样人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_chuan_beh_shuei_laen_ian_ren.md#一床不睡两样人)】`ieh7 chuan2 beh7 shuei5 laen3 ian6 ren2` <sup>[东台]</sup> 夫妻总有共同之处。  
 1. 【[一床眠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_chuan_min.md#一床眠)】`ieh7 chuan2 min2` <sup>[如东]</sup> ① 两个人睡在一张床上，关系非常亲密。 ② 比喻男女同居。  
 1. 【[一串联<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_chun_lin_r.md#一串联<sub>儿</sub>)】`ieh7 chun5 lin2 r` <sup>[泰县]</sup> 一起，一伙：他俫～要去东北支边。  
