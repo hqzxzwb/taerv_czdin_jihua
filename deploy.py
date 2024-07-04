@@ -49,23 +49,20 @@ def validate(py0, word):
         if PY_FORMAT.match(py) is None:
             print("【%s】的拼音%s不对" % (word, py0))
 
-def path_from_pinyin(py0):
-    """获取文件路径"""
-    py1 = re.sub("-[a-z1-9]+", "", py0)
-    py1 = re.sub("（.*?）", "", py1).strip()
-    py1 = re.sub(r"\d", "", re.sub("[^a-z1-9]+", "_", py1))
-    py1 = py1.rstrip("_")
-    if py1.__len__() == 0:
-        print("拼音异常：%s" % py0)
-        return '/unavailable@@@/'
-    return os.path.join(py1[0], "%s.md" % py1)
+def strip_tio(ien):
+    return re.sub(r'\d', '', ien)
 
-def check_path(path, py0, word):
+def check_path(path, mixed, word):
     """检查词语的文件名是否正确"""
-    proper_path = path_from_pinyin(py0)
-    if not path.endswith(proper_path):
-        cmd = "meld" if os.path.exists(proper_path) else "mv"
-        print("【%s】的位置不对： %s %s %s" %(word, cmd, path, proper_path))
+    computed_path1 = "_".join([strip_tio(ien) for cz, ien in mixed if ien]) + ".md"
+    if path.endswith(computed_path1):
+        return
+    computed_path2 = "_".join([strip_tio(ien) for cz, ien in mixed if ien][:4]) + ".md"
+    if path.endswith(computed_path2):
+        return
+    cmd = "meld" if os.path.exists(computed_path2) else "mv"
+    print("Alternative path ", computed_path1)
+    print("【%s】的位置不对： %s %s %s" %(word, cmd, path, os.path.join(mixed[0][1][0], computed_path2)))
 
 def parse_pinyin(pinyin):
     """A B/C→AB, AC"""
@@ -112,6 +109,7 @@ def parse_cont(cont, fname, cz_ien):
         word += cz
         if ien != '' and len(cz) == 1 and cz not in cz_ien[ien.rstrip('9')]:
             print("字音未收录：【%s】中的【%s】读作【%s】" % (raw_word, cz, ien))
+    check_path(fname, mixed, word)
     return Word(py0, pinyin, word, raw_word, meaning, source, fname, sort_key)
 
 def mix(word, py):
@@ -164,7 +162,7 @@ def parse_cz_ien(f, out):
         if type(ien_filter) == set and ien in ien_filter: continue
 
         out[ien].add(cz)
-        out[re.sub(r'\d', '', ien)].add(cz) # 轻声
+        out[strip_tio(ien)].add(cz) # 轻声
         # print("line ", line, " cz ", cz, " ien ", ien)
 
 def parse_cz_ien2(f, out):
@@ -192,11 +190,10 @@ def write_page(dirs, path, sample_out, cz_ien):
     conts = []
     for fname in glob.glob(path+"/*.md"):
         file_content = open(fname,encoding="U8").read()
-        file_content = re.sub(r"<!--\n(.+\n)*-->", "", file_content)
+        file_content = re.sub(r"<!--\n(.*\n)*-->", "", file_content) # 移除注释
         for cont in re.findall(r"#[^#]+", file_content):
             conts.append(parse_cont(cont, fname, cz_ien))
     for w in sorted(conts, key=lambda c: c.sort_key):
-        check_path(w.fname, w.py0, w.word)
         link = LINK_FORMAT % (w.fname.replace("\\","/"), w.word)
         if w.source:
             source = "<sup>[%s]</sup> " % re.sub(r'(方言词典|方言志|方言辞典)$', '', w.source)
