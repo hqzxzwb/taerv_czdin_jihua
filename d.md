@@ -1679,7 +1679,7 @@
 1. 【[扽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den.md#扽)】`den5` <sup>[东台]</sup> 用力拉：把线～紧！  
 1. 【[扽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den.md#扽)】`den5` <sup>[兴化]</sup> 拽、拉：把绳子～紧｜把衬衣朝下～～。  
 1. 【[扽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den.md#扽)】`den5` <sup>[泰县]</sup> ① 拉：把开关～断吖。 ② 贪吃  
-1. 【[扽吖鼓的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_nga_gv_dih.md#扽吖鼓的)】`den5 nga gv3 dii` <sup>[东台]</sup> 故意撩拨、挑逗：人家休息了，他还～把电视机开得交关响，真不应该｜小孩不宜多吃糖，你还～吃糖引他闹，何必唃？  
+1. 【[扽吖鼓的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_nga_gv_dii.md#扽吖鼓的)】`den5 nga gv3 dii` <sup>[东台]</sup> 故意撩拨、挑逗：人家休息了，他还～把电视机开得交关响，真不应该｜小孩不宜多吃糖，你还～吃糖引他闹，何必唃？  
 1. 【[扽吖故斜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_nga_gv_qia.md#扽吖故斜)】`den5 nga gv5 qia2` <sup>[兴化]</sup> 有意地‖也称“扽啊故吱”：你跟他好好商量，他～的跟你顶牛。  
 1. 【[扽奅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_po.md#扽奅)】`den5 po5` <sup>[东台]</sup> 吹牛，说大话。  
 1. 【[扽奅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_po.md#扽奅)】`den5 po5` <sup>[兴化]</sup> 夸大其词：扯鸡～｜他最喜欢～，说一件衬衫卖上千块唻！  

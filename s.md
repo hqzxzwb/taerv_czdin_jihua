@@ -3244,7 +3244,7 @@
 1. 【[䴛水井](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_shuei_jien.md#䴛水井)】`so5 shuei3 jien3` <sup>[如皋]</sup> 水味咸的水井。  
 1. 【[䴛小菜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_xio_cae_r.md#䴛小菜<sub>儿</sub>)】`so5 xio3 cae5 r` <sup>[如皋]</sup> 见“䴛菜”。  
 1. 【[䴛灒灒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_zaen_zaen.md#䴛灒灒)】`so5 zaen5 zaen5` <sup>[如东]</sup> 有些咸味，比较合口：这碗菜～的，好吃。  
-1. 【[䴛灒灒的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_zaen_zaen.md#䴛灒灒的)】`so5 zhaen5 zhaen5 dii` <sup>[如皋]</sup> 咸味适口。  
+1. 【[䴛灒灒的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_zaen_zaen_dii.md#䴛灒灒的)】`so5 zaen5 zaen5 dii` <sup>[如皋]</sup> 咸味适口。  
 1. 【[倒屎肚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_shr_dv_r.md#倒屎肚<sub>儿</sub>)】`so5 shr3 dv3 r` <sup>[如皋]</sup> 见“倒肚儿”。  
 1. 【[扫把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_ba.md#扫把)】`so5 ba3` <sup>[如东]</sup> 用竹枝扎成，把身较长，扇面较宽，用于打扫场院。  
 1. 【[扫帚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_zheu.md#扫帚)】`so5 zheu3` <sup>[如东]</sup> 用高梁苗子扎成，前端扁形，后边有柄。用于扫地。  

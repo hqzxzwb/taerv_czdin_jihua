@@ -951,7 +951,7 @@
 1. 【[好脚色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_jiah_seh.md#好脚色)】`ho3 jiah7 seh7` <sup>[如皋]</sup> ① 有本领、能干且顽强的人。 ② 反语，指有坏才的人或看似无用实有潜能的人。  
 1. 【[好较](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_jio.md#好较)】`ho3 jio5` <sup>[泰县]</sup> 幸亏：～不曾去。  
 1. 【[好看](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_kun.md#好看)】`ho3 kun5` <sup>[如东]</sup> 质量优，款式好，漂亮：这套服装～。  
-1. 【[好两<sub>个</sub>钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_laen_qin.md#好两<sub>个</sub>钱)】`ho3 laeh qin2` <sup>[东台]</sup> 钱很多、很贵重：这东西值～啊｜上大学要准备～嗷。  
+1. 【[好两<sub>个</sub>钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_laeh_qin.md#好两<sub>个</sub>钱)】`ho3 laeh qin2` <sup>[东台]</sup> 钱很多、很贵重：这东西值～啊｜上大学要准备～嗷。  
 1. 【[好落地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_lah_ti.md#好落地)】`ho3 lah8 ti6` <sup>[如皋]</sup> 好地方、好地点、好方位。  
 1. 【[好佬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_lo.md#好佬)】`ho3 lo3` <sup>[东台]</sup> ① （形容词）家庭富裕：他家～，我家可比不上。 ② 用反话嘲讽品行不好的人：他是个大～，相处要当心。  
 1. 【[好佬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_lo.md#好佬)】`ho3 lo3` <sup>[兴化]</sup> ① 好汉：他不足三十岁，手艺精，人缘好，在全车间要算个～。 ② 谓大大咧咧，或喜欢开玩笑的人。  

@@ -838,6 +838,7 @@
 1. 【[一顶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_dien.md#一顶)】`ieh7 dien3` <sup>[如皋]</sup> 副词，相当于“最”，也可与“最”配用：在我俫班上～他最好！  
 1. 【[一顶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_dien.md#一顶)】`ieh7 dien3` <sup>[兴化]</sup> 副词，相当于最、尤其：这吖多客人，～他难服待。  
 1. 【[一吊钱四开——二百五](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_dio_qin_sz_kae_er_boh_v.md#一吊钱四开——二百五)】`ieh7 dio5 qin2 sz5 kae1 er6 boh7 v3` <sup>[东台]</sup>   
+1. 【[一刀切](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_do_qih.md#一刀切)】`ieh7 do1 qih7` <sup>[泰兴]</sup> 喻不针对具体情况，只用某种固定的方式统一处理。  
 1. 【[一堆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_duei_r.md#一堆<sub>儿</sub>)】`ieh7 duei1 r` <sup>[兴化]</sup> 一起、一块儿：两个伢儿放吖学在～写作业。｜（穆春）走到厨房，见香火、芳哥两个做～蹲在灶下草里，各自抖不止。（《水浒后传》十七）  
 1. 【[一肚的二百五](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_dv_dii_er_boh_v.md#一肚的二百五)】`ieh7 dv3 dii er6 boh7 v3` <sup>[东台]</sup> 形容意见很多，极端反感：他原来对厂长～，后来经过交心，才谅解啊。  
 1. 【[一肚的数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_dv_dii_shv.md#一肚的数)】`ieh7 dv3 dii shv5` <sup>[东台]</sup> 心中有数，完全明白。  
@@ -894,7 +895,9 @@
 1. 【[一个烧香两个拜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_gu_sho_xian_laen_gu_bae.md#一个烧香两个拜)】`ieh7 gu sho1 xian1 laen3 gu bae5` <sup>[东台]</sup> ［喻］指一个人缺乏独立办事的能力，还需他人帮助，或指团队不精干。（含贬义）  
 1. 【[一个桃子两个𣝗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_gu_to_zz_laen_gu_veh_zz.md#一个桃子两个𣝗子)】`ieh7 gu to2 zz laen3 gu veh8 zz` <sup>[泰兴]</sup> 骂人语。谓人异于正常的言行、着装等：～，怪物  
 1. 【[一锅端](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_gu_dun.md#一锅端)】`ieh7 gu1 dun1` <sup>[如东]</sup> 全部：所有家产～。  
+1. 【[一锅端](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_gu_dun.md#一锅端)】`ieh7 gu1 dun1` <sup>[泰兴]</sup> 全部囊括，彻底收取。  
 1. 【[一锅汤水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_gu_tan_shuei.md#一锅汤水)】`ieh7 gu1 tan1 shuei3` <sup>[东台]</sup> ① 同在一家里吃饭。 ② 合作可以互惠互利。  
+1. 【[一锅粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_gu_zhoh.md#一锅粥)】`ieh7 gu1 zhoh7` <sup>[泰兴]</sup> 一团糟。喻混乱不堪。  
 1. 【[一个哈哈两个笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_gu_ha_ha_laen_gu_xio.md#一个哈哈两个笑)】`ieh7 gu5 ha1 ha1 laen3 gu5 xio5` <sup>[如皋]</sup> 指纠纷的处理使双方满意。  
 1. 【[一个学个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_gu_hah_gu.md#一个学个)】`ieh7 gu5 hah8 gu9` <sup>[如皋]</sup> 互相影响。（原文记音ieh7 gu5 hah8 gu1）  
 1. 【[一个看个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_gu_kun_gu.md#一个看个)】`ieh7 gu5 kun5 gu9` <sup>[如皋]</sup> 互相影响。（原文记音ieh7 gu5 kun5 gu1）  
@@ -916,6 +919,7 @@
 1. 【[一斛筒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_hoh_ton_zz.md#一斛筒子)】`ieh7 hoh ton3 zz` <sup>[兴化]</sup> （借）斛，量词。“斛”与“惑”同音。形容与人相处时热时冷：她是个～，好起来、恼起来，全是她。  
 1. 【[一湱朝前，一湱朝后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_hoh_cho_qin_ieh_hoh_cho_heu.md#一湱朝前，一湱朝后)】`ieh7 hoh7 cho2 qin2 ieh7 hoh7 cho2 heu6` <sup>[东台]</sup> 说话办事好走极端，片面性很强。  
 1. 【[一晃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_huan.md#一晃)】`ieh7 huan5` <sup>[如东]</sup> ① 形容时间过得很快：～就十来天过去啊。 ② 一闪：眼前～就过去啊。  
+1. 【[一回生，两回熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_huei_shen_laen.md#一回生，两回熟)】`ieh7 huei2 shen1 laen3 huei2 shoh8` <sup>[泰兴]</sup> 客套话。指第一次相处很生疏，接触多了就会熟悉。  
 1. 【[一回生两回熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_huei_shen_laen_huei_shoh.md#一回生两回熟)】`ieh7 huei2 shen1 laen3 huei2 shoh8` <sup>[东台]</sup> 指与人打交道，第二次就是熟人了。  
 1. 【[一呼趟<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_hv_tan_r.md#一呼趟<sub>儿</sub>)】`ieh7 hv1 tan5 r` <sup>[如东]</sup> 总共：～有多少？  
 1. 【[一糊塌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_hv_taeh_r.md#一糊塌<sub>儿</sub>)】`ieh7 hv2 taeh7 r` <sup>[如东]</sup> 不分好坏，一起算进去：～都装吖进包里。  
@@ -924,9 +928,12 @@
 1. 【[一夜夫妻百夜恩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_ia_fv_qi_boh_ia_ngen.md#一夜夫妻百夜恩)】`ieh7 ia6 fv1 qi1 boh7 ia6 ngen1` <sup>[东台]</sup> 夫妻情爱印象深刻。  
 1. 【[一有](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_ieu.md#一有)】`ieh7 ieu3` <sup>[泰县]</sup> 是否有：今吖下午～电影看㗁？  
 1. 【[一言半语](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_in_bun_y.md#一言半语)】`ieh7 in2 bun5 y3` <sup>[兴化]</sup> 言谈、议论：旁人有个～的，你不必在意。｜“快快说来，决不走漏～。”（《八窍珠》十四）  
+1. 【[一家不知一家，和尚不知道家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_jia_beh_zhr.md#一家不知一家，和尚不知道家)】`ieh7 jia1 beh7 zhr1 ieh7 jia1 hu2 chan beh7 zhr1 to6 jia1` <sup>[泰兴]</sup> 喻指两个家庭或教派之间相互情况不了解，对对方的事情就不要随便去议论、评判。儒、佛、道称为三教，和尚属佛教，对道教的事就不知道。  
+1. 【[一家饱暖千家怨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_jia_bo_nun.md#一家饱暖千家怨)】`ieh7 jia1 bo3 nun3 qin1 jia1 iun5` <sup>[泰兴]</sup> 一家衣食无忧，日子过得舒适，周围的人就眼红、嫉妒，生出许多怨言。  
 1. 【[一家伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_jia_hu.md#一家伙)】`ieh7 jia1 hu` <sup>[如皋]</sup> ① 打击的数量词。 ② 统统、一块儿、全部算。  
 1. 【[一家一当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_jia_ieh_dan.md#一家一当)】`ieh7 jia1 ieh7 dan5` <sup>[兴化]</sup> 全部家当：“……自从军门去世之后，我这里～，都在你刁大人手里……”（《官场现形记》五一）  
 1. 【[一家一计](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_jia_ieh_ji.md#一家一计)】`ieh7 jia1 ieh7 ji5` <sup>[兴化]</sup> 一家人同心协力：帮他成个家，让他俫小夫妻～过日子。  
+1. 【[一家人不说两家话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_jia_ren_beh.md#一家人不说两家话)】`ieh7 jia1 ren2 beh7 shuh7 laen3 jia1 hua6` <sup>[泰兴]</sup> 既然是一家人就应该推心置腹，诚信相处，和衷共济，不要讲客套。  
 1. 【[一脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_jiah.md#一脚)】`ieh7 jiah` <sup>[泰兴]</sup> 直接，专程：我～就到箇块来了  
 1. 【[一脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_jiah.md#一脚)】`ieh7 jiah7` <sup>[如皋]</sup> 直捷，中途不停：上吖马路我～朝前走｜这次出门，～到上海，不打停。  
 1. 【[一脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_jiah.md#一脚)】`ieh7 jiah7` <sup>[如东]</sup> 直接，一下子：我～就到啊无锡。  
@@ -956,6 +963,7 @@
 1. 【[一口咬啊个疼指头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_keu_ngo_a_gu_ten_zheh_teu.md#一口咬啊个疼指头)】`ieh7 keu3 ngo3 a gu5 ten2 zheh7 teu` <sup>[如皋]</sup> 喻说话刺痛对方的关键处。又作“一口咬啊个疼疖子”。  
 1. 【[一口咬个饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_keu_ngo_gu_bien.md#一口咬个饼)】`ieh7 keu3 ngo3 gu bien3` <sup>[兴化]</sup> （喻）一次完成：这吖多的钱，要～，我拿不出！｜“……我也不想～，只要把80万利息解决了就行……”（刘春龙《无意插柳》）  
 1. 【[一口咬个疼指头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_keu_ngo_gu_ten_zheh_teu.md#一口咬个疼指头)】`ieh7 keu3 ngo3 gu ten2 zheh7 teu` <sup>[东台]</sup> 与“捏住鼻子不则声”近义。  
+1. 【[一口咬个三角菱，难说难讲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_keu_ngo_gu.md#一口咬个三角菱，难说难讲)】`ieh7 keu3 ngo3 gu5 saen1 gah lien2 naen2 shuh7 naen2 gan3` <sup>[泰兴]</sup> 指遇到十分为难的事情，进退维谷，难以表述。  
 1. 【[一口<sub>儿</sub>饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_keu_r_faen.md#一口<sub>儿</sub>饭)】`ieh7 keu3 r faen6` 一口饭，比喻很少的饭：他就吃～。/他只吃一点点饭。  
 1. 【[一口吞棒冰——凉透啊心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_keu_ten_pan_bien_lian_teu_a_xien.md#一口吞棒冰——凉透啊心)】`ieh7 keu3 ten1 pan6 bien1 lian2 teu5 a xien1` <sup>[东台]</sup>   
 1. 【[一敲一答](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_ko_ieh_daeh.md#一敲一答)】`ieh7 ko1 ieh7 daeh7` <sup>[东台]</sup> 一唱一和，相互配合。（贬）  
@@ -1069,6 +1077,7 @@
 1. 【[一步一脚的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_pv_ieh_jiah_dii.md#一步一脚的)】`ieh7 pv6 ieh7 jiah7 dii` <sup>[如皋]</sup> 时时刻地：细伢儿学咖跑的刻儿，～要注意安全。  
 1. 【[一步一锁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_pv_ieh_su.md#一步一锁)】`ieh7 pv6 ieh7 su3` <sup>[兴化]</sup> 门户严谨，外出及时关门上锁：这个仓库～，钥匙由专人保管。  
 1. 【[一步三个谎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_pv_saen_gu_huan.md#一步三个谎)】`ieh7 pv6 saen1 gu huan3` <sup>[东台]</sup> 谎话太多，都不可信。  
+1. 【[一步三谎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_pv_saen_huan.md#一步三谎)】`ieh7 pv6 saen1 huan3` <sup>[泰兴]</sup> 走了一步路，说了三个谎。指特别会说谎。贬义。  
 1. 【[一步三摇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_pv_saen_io.md#一步三摇)】`ieh7 pv6 saen1 io2` <sup>[兴化]</sup> 走路摇摇摆摆，不慌不忙的样子：你看他老先生～的，生怕把蚂蚁（⻊閙）死啊。  
 1. 【[一步捅不到三寸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_pv_ton_beh_do_saen_cuen.md#一步捅不到三寸)】`ieh7 pv6 ton3 beh7 do5 saen1 cuen5` <sup>[如皋]</sup> 常指老人行动艰难的样子。  
 1. 【[一期水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_qi_shuei.md#一期水)】`ieh7 qi1 shuei3` <sup>[如皋]</sup> 踏动水车戽水的计量单位，含一百筹的提水量。  
@@ -1088,6 +1097,7 @@
 1. 【[一钱逼倒英雄汉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_qin_bieh_do_ien_xion_hun.md#一钱逼倒英雄汉)】`ieh7 qin2 bieh7 do3 ien1 xion2 hun5` <sup>[东台]</sup> ［喻］有时缺钱能迫使人低头让步。  
 1. 【[一跷一搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_qio_ieh_daeh.md#一跷一搭)】`ieh7 qio1 ieh7 daeh7` <sup>[兴化]</sup> 犹一唱一和：几个人～的，把小陈说得满脸通红。  
 1. 【[一锹不能挖个井，一口不能咬个饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_qio_beh_nen_vaeh_gu_jien_ieh_keu_beh_nen_ngo_gu_bien.md#一锹不能挖个井，一口不能咬个饼)】`ieh7 qio1 beh7 nen2 vaeh7 gu jien3 ieh7 keu3 beh7 nen2 ngo3 gu bien3` <sup>[东台]</sup> 凡事要循序渐进，不能急于求成。  
+1. 【[一锹<sub>儿</sub>挖不出一口井](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_qio_r_vaeh.md#一锹<sub>儿</sub>挖不出一口井)】`ieh7 qio1 r vaeh7 beh7 chueh7 ieh7 keu3 jien3` <sup>[泰兴]</sup> 同“一口吃不出个大胖子”。  
 1. 【[一巧干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_qio_gun.md#一巧干)】`ieh7 qio3 gun1` <sup>[如皋]</sup> 一次性晒干。  
 1. 【[一俏干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_qio_gun.md#一俏干)】`ieh7 qio5 gun1` <sup>[兴化]</sup> 刚洗的衣服或才打下的粮食等，在一个晴天里晒干：冬天洗衣裳最好赶太阳～。  
 1. 【[一绝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_qiuh.md#一绝)】`ieh7 qiuh8` <sup>[泰县]</sup> 好到极点：他画的画儿～。  
@@ -1131,6 +1141,7 @@
 1. 【[一肖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_sho.md#一肖)】`ieh7 sho5` <sup>[如东]</sup> 十二个生肖，称一肖。比喻十二：你比他小～。  
 1. 【[一肖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_sho.md#一肖)】`ieh7 sho5` <sup>[东台]</sup> 年龄相差12岁。（地支与生肖相配，一轮12年。这里“肖”读若“少”）：我比他大～。  
 1. 【[一事一当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_shr_ieh_dan.md#一事一当)】`ieh7 shr ieh7 dan` <sup>[泰兴]</sup> 谓办事妥当，稳当，不慌不忙。  
+1. 【[一是一，二是二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_shr_ieh_er.md#一是一，二是二)】`ieh7 shr ieh7 er6 shr er6` <sup>[泰兴]</sup> 指是什么就是什么，绝不虚构；或称办事稳妥，老老实实，说一不二。  
 1. 【[一时半间](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_shr_bun_gaen.md#一时半间)】`ieh7 shr2 bun5 gaen1` <sup>[兴化]</sup> ① 短暂的、临时的：～的上城里玩玩可以，长住不行。 ② 指很短的时间：～的到那块去找人吖？｜这件事～的想不起来。  
 1. 【[一时一霎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_shr_ieh_shaeh.md#一时一霎)】`ieh7 shr2 ieh7 shaeh7` <sup>[东台]</sup> 不定期，不经常，时有时无：有些事～，要密切关注。  
 1. 【[一时一霎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_shr_ieh_shaeh.md#一时一霎)】`ieh7 shr2 ieh7 shaeh7` <sup>[兴化]</sup> 情况时有变化：鲜活商品的价格～的，货少就贵些，货涌就贱些。  
@@ -1252,6 +1263,7 @@
 1. 【[一斩齐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_zhaen_qi.md#一斩齐)】`ieh7 zhaen3 qi2` <sup>[如皋]</sup> 形容特别整齐。  
 1. 【[一斩齐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_zhaen_qi.md#一斩齐)】`ieh7 zhaen3 qi2` <sup>[兴化]</sup> 形容整齐划一：学生的队伍～。｜路边的电杆远看～。‖也说“崭齐”。  
 1. 【[一着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_zhah.md#一着)】`ieh7 zhah7` <sup>[兴化]</sup> ① 弈棋时走一步或下一子为～。 ② 用的计谋和办法：武工队玩吖～，把鬼子耍得晕头转向。  
+1. 【[一着空，着着空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_zhah_kon_zhah.md#一着空，着着空)】`ieh7 zhah7 kon1 zhah7 zhah7 kon1` <sup>[泰兴]</sup> （解决问题的方法）第一步就错了，以后就十分被动，局面难以挽回。原指下棋时走错一步，导致整盘棋都输掉，比喻关键性的问题处理失当，会造成整个事情的失败。  
 1. 【[一张纸画个鼻子——脸大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_zhan_zhr_hua_gu_pieh_zz_lin_da.md#一张纸画个鼻子——脸大)】`ieh7 zhan1 zhr3 hua6 gu pieh8 zz lin3 da6` <sup>[东台]</sup>   
 1. 【[一只脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_zheh_jiah.md#一只脚)】`ieh7 zheh7 jiah7` <sup>[泰县]</sup> 雇佣半个活计。  
 1. 【[一只筷子吃藕——光挑眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_zheh_kuae_zz_qieh_ngeu_guan_tio_ngaen.md#一只筷子吃藕——光挑眼)】`ieh7 zheh7 kuae5 zz qieh7 ngeu3 guan1 tio1 ngaen3` <sup>[东台]</sup>   
