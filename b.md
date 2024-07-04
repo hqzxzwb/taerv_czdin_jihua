@@ -108,7 +108,7 @@
 1. 【[把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba.md#把)】`ba3` <sup>[东台]</sup> ① （东台话中作为动词和介词时读若“马”） ② ［动］给：把猪食（给猪吃食）｜她～啊他（她嫁给他） ③ ［介］宾语是后面动词的对象：～心抑下来｜不能～路跑啊竖起来。  
 1. 【[把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba.md#把)】`ba3` <sup>[泰县]</sup> ① 给：这块布～他。 ② 介词：我把他打啊鼻肿眼青的。  
 1. 【[把板凳说咖竖起来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_baen_den_shuh_ga_shv_qi_lae.md#把板凳说咖竖起来)】`ba3 baen3 den5 shuh7 ga shv6 qi3 lae2` <sup>[东台]</sup> 夸张某人能说会道，巧舌如簧。  
-1. 【[把柄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_bien.md#把柄)】`ba3 bien3` <sup>[如东]</sup> 器物上便于用手抓拿的装置。比喻可以被人用来进行要挟的过失或错误。  
+1. 【[把柄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_bien.md#把柄)】`ba3 bien5` <sup>[如东]</sup> 器物上便于用手抓拿的装置。比喻可以被人用来进行要挟的过失或错误。  
 1. 【[把柄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_bien.md#把柄)】`ba3 bien5` <sup>[东台]</sup> ［喻］尚未公开，但知情人可以用来要挟或攻击的错误或过失：他抓不住我的～。  
 1. 【[把底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_di.md#把底)】`ba3 di3` <sup>[如皋]</sup> 预告内情，底线。  
 1. 【[把底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_di.md#把底)】`ba3 di3` <sup>[兴化]</sup> 交底、透盛内情：久而久之，就有朋友～给文聘了。（《火烧赤壁》九）｜（乔国老）赶快枪步向前，～把刘备……（扬二《甘露寺相婿》）  
@@ -249,8 +249,7 @@
 1. 【[摆㗘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_pah.md#摆㗘)】`bae3 pah7` <sup>[如皋]</sup> 吹牛，说大话。  
 1. 【[摆㗘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_pah.md#摆㗘)】`bae3 pah7` <sup>[如皋]</sup> 吹牛。  
 1. 【[摆㗘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_pah.md#摆㗘)】`bae3 pah7` <sup>[兴化]</sup> 谈天、讲故事：以前夏天乘凉，最喜欢听韩老爹～。  
-1. 【[摆㗘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_pah.md#摆㗘)】`bae3 pah7` <sup>[泰县]</sup> 贫嘴。  
-1. 【[摆㗘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_pah.md#摆㗘)】`bae3 pah7` <sup>[泰县]</sup> 谈山海经：这家伙是个～大王。  
+1. 【[摆㗘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_pah.md#摆㗘)】`bae3 pah7` <sup>[泰县]</sup> 贫嘴，谈山海经：这家伙是个～大王。  
 1. 【[摆平](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_pien.md#摆平)】`bae3 pien2` <sup>[兴化]</sup> 惩治、收拾：他再来惹事，就让人把他～。  
 1. 【[摆谱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_pv_r.md#摆谱<sub>儿</sub>)】`bae3 pv3 r` <sup>[如东]</sup> 讲名位，摆排场。  
 1. 【[摆谱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_pv_r.md#摆谱<sub>儿</sub>)】`bae3 pv3 r` <sup>[兴化]</sup> 讲究排场、显示阔气、摆架子：才当个小科长，就欢喜在乡亲面前～。  
@@ -809,9 +808,8 @@
 1. 【[不怕不识货，就怕货比货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_pa_beh_sheh_hu_qieu_pa_hu_bi_hu.md#不怕不识货，就怕货比货)】`beh7 pa5 beh7 sheh7 hu5 qieu6 pa5 hu5 bi3 hu5` <sup>[东台]</sup> 对不同事物要善于比较分析。  
 1. 【[不怕官，就怕管](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_pa_gun_qieu_pa_gun.md#不怕官，就怕管)】`beh7 pa5 gun1 qieu6 pa5 gun3` <sup>[东台]</sup> 直接管理者与被管理者利益最密切。  
 1. 【[不怕慢，只怕掼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_pa_maen_zheh_pa_kuaen.md#不怕慢，只怕掼)】`beh7 pa5 maen6 zheh7 pa5 kuaen6` <sup>[东台]</sup> 浪费和折腾比慢速损失大。  
-1. 【[不碰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_pon.md#不碰)】`beh7 pon5` <sup>[兴化]</sup> 不沾边：他烟、酒、麻将全～。  
+1. 【[不碰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_pon.md#不碰)】`beh7 pon5` <sup>[兴化]</sup> ① 不沾边：他烟、酒、麻将全～。 ② 互不交往。也作“不遇”：他俫性情不投，两个人～。  
 1. 【[不碰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_pon.md#不碰)】`beh7 pon5` <sup>[泰县]</sup> 不团结。  
-1. 【[不碰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_pon.md#不碰)】`beh7 pon6` <sup>[兴化]</sup> 互不交往：他俫性情不投，两个人～。‖也作“不遇”。  
 1. 【[不起眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_qi_ngaen.md#不起眼)】`beh7 qi3 ngaen3` <sup>[如东]</sup> 不引人关注：这点儿货～。  
 1. 【[不起眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_qi_ngaen.md#不起眼)】`beh7 qi3 ngaen3` <sup>[东台]</sup> 微不足道，很不醒目。  
 1. 【[不忌偏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_qi_pin.md#不忌偏)】`beh7 qi6 pin1` <sup>[东台]</sup> 不忌讳某些风俗。  
@@ -1535,8 +1533,7 @@
 1. 【[宝塔菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_taeh_cae.md#宝塔菜)】`bo3 taeh7 cae5` <sup>[如皋]</sup> 宝塔菜。  
 1. 【[宝塔菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_taeh_cae.md#宝塔菜)】`bo3 taeh7 cae5` <sup>[兴化]</sup> ① 草石蚕，唇形科，多年生草本。 ② 特指用这种植物的块茎腌制的酱菜。也称“螺丝菜”。  
 1. 【[宝塔猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_taeh_zhv.md#宝塔猪)】`bo3 taeh7 zhv1` <sup>[泰县]</sup> 一个圈中行大中小三类猪。  
-1. 【[饱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#饱)】`bo3` <sup>[如皋]</sup> ① 秤的称量足：称得～～的。 ② 起：～起来啊。 ③ 胃中气：䬵～。  
-1. 【[饱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#饱)】`bo3` <sup>[如皋]</sup> 籽粒饱满。  
+1. 【[饱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#饱)】`bo3` <sup>[如皋]</sup> ① 秤的称量足：称得～～的。 ② 起：～起来啊。 ③ 胃中气：䬵～。 ④ 籽粒饱满。  
 1. 【[饱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#饱)】`bo3` <sup>[兴化]</sup> 因超过忍受限度而反感：……·他是）出名的花花公子，人称徐大少。说句不好听的话，郑板桥看到这种人就～了。（《郑板桥说·玉盎金盆徒自望》）  
 1. 【[饱啊饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_a_faen.md#饱啊饭)】`bo3 a faen6` <sup>[如皋]</sup> ① 康复到饭量正常了。 ② 见“上吖食”。  
 1. 【[饱啊眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_a_ngaen.md#饱啊眼)】`bo3 a ngaen3` <sup>[如皋]</sup> 满足后的味感：他吃螃蟹吃咖～，再吃就不香。  
@@ -1569,16 +1566,15 @@
 1. 【[报晓鸡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_xio_ji_r.md#报晓鸡<sub>儿</sub>)】`bo5 xio3 ji1 r` <sup>[如东]</sup> ① 雄鸡在天亮时啼鸣，称报晓。 ② 母鸡下蛋后叫唤，称报晓。 ③ 比喻一些人知道了一点情况就马上告诉别人：陈志明是个～，听到一点风声就告诉人。  
 1. 【[报晓鸡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_xio_ji_r.md#报晓鸡<sub>儿</sub>)】`bo5 xio3 ji1 r` <sup>[如皋]</sup> 詈语，指专打小报告的人（晓，知）。  
 1. 【[报虚灾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_xy_zae.md#报虚灾)】`bo5 xy1 zae1` <sup>[泰县]</sup> 虚报灾情。  
-1. 【[暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#暴)】`bo5` <sup>[东台]</sup> 急雨。（原文作“瀑”，音不全合，今罕用此义。）：<!｜不采纳。缺乏例句。推测是“趵”的一种运用。  
+1. 【[暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#暴)】`bo5` <sup>[东台]</sup> ① 急雨。（原文作“瀑”，音不全合，今罕用此义。） ② 强烈的阳光晒（原文作“曝”，音不合）：三伏天正是～晒衣被的大好时机。｜<!｜不采纳。缺乏例句。推测是“趵”的一种运用。  
 1. 【[暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#暴)】`bo5` <sup>[兴化]</sup> ① 秋冬季节的大风为～。《尔雅·释天》“日出而风为～。”：八月芦花～｜九月重阳～｜冬天黑风～ ② 在强光下晒：～伏｜民俗于大伏中将衣物摊出一晒，以防生霉。 ③ 晒粮。《颜氏家训，书证》“言日中时，必须～晒，不尔者，失其时也。”～，今通作“曝”：～小麦。可叠用｜肥棉衣拿出来～～  
 1. 【[暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#暴)】`bo5` <sup>[兴化]</sup> ① 突然：那人原是闲吏……近来～有几贯浮财，只是为人行短。（《水浒传》四三） ② 显露：“事无可奈何，其所摧败，功亦足以～于天下。”（司马迁《报任少卿书》） ③ 开始、新：“～上毛坑三日新……”（《广陵潮》十二）  
 1. 【[暴暴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_bo_dii.md#暴暴的)】`bo5 bo5 dii` <sup>[兴化]</sup> 刚开始、突然的：今日～到店里来住，嘿，巧书甚多！（《武松》六）  
+1. 【[暴伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_foh.md#暴伏)】`bo5 foh8` <sup>[如东]</sup> 夏天将衣物放在外面曝晒。  
 1. 【[暴伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_foh.md#暴伏)】`bo5 foh8` <sup>[如皋]</sup> ① 霉雨季后，伏天防霉，暴晒衣物。 ② 使在烈日下暴晒。 ③ 旧事重提，算旧帐。  
 1. 【[暴太阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_tae_ian.md#暴太阳)】`bo5 tae5 ian` <sup>[如皋]</sup> 日照强烈。见“太阳暴”。  
 1. 【[暴雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_y.md#暴雨)】`bo5 y3` <sup>[如皋]</sup> 短期内雨势急、雨量大的雨。不同于气象学解释的暴雨。  
 1. 【[暴躁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_zo.md#暴躁)】`bo5 zo5` <sup>[如皋]</sup> ① 急躁。 ② 果断、干脆。  
-1. 【[曝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#曝)】`bo5` <sup>[东台]</sup> 强烈的阳光晒：三伏天正是～晒衣被的大好时机。  
-1. 【[曝伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_foh.md#曝伏)】`bo5 foh8` <sup>[如东]</sup> 夏天将衣物放在外面曝晒。  
 1. 【[瀑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#瀑)】`bo5` ① 溅起的水：郭璞《江赋》“挥弄洒珠，拊拂瀑沫。” ② >  
 1. 【[爆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#爆)】`bo5` <sup>[如皋]</sup> 大而凸(的眼睛)：勒头～眼的。  
 1. 【[爆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#爆)】`bo5` <sup>[东台]</sup> 表皮突出；冒出：这松树年份不低，树皮都～开来啊｜这是雨后才～出来的新苗。  
@@ -1598,7 +1594,7 @@
 1. 【[豹猫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_mo_r.md#豹猫<sub>儿</sub>)】`bo5 mo2 r` <sup>[如皋]</sup> 狸。哺乳纲，食肉目。  
 1. 【[趵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#趵)】`bo5` <sup>[如皋]</sup> ① 跳起、跃起：黄豆儿炒啊～起来啊。 ② 胀裂：车胆子打气打啊～掉啊。  
 1. 【[趵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#趵)】`bo5` <sup>[东台]</sup> 弹起；跃起：篮球的气打得太足，一～老高。  
-1. 【[趵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#趵)】`bo5` <sup>[兴化]</sup> ① 弹：皮球掉下地，一～多高。 ② 跳：小河小沟他一～就过去啊。 ③ 溅：～啊一身的水。 ④ 《集的·效韵》巴校切“～，跳跃也。”  
+1. 【[趵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#趵)】`bo5` <sup>[兴化]</sup> ① 弹：皮球掉下地，一～多高。 ② 跳：小河小沟他一～就过去啊。 ③ 溅：～啊一身的水。  
 1. 【[䌟辫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_pin_zz.md#䌟辫子)】`boh7 pin6 zz` <sup>[如东]</sup> 打辫子。  
 1. 【[䌟辫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_pin_zz.md#䌟辫子)】`boh7 pin6 zz` <sup>[如皋]</sup> 打辫子。  
 1. 【[伯伯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_boh.md#伯伯)】`boh7 boh7` <sup>[如东]</sup> 伯父。父亲的哥哥。  
@@ -1714,7 +1710,7 @@
 1. 【[波斯献宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bu_sz_xin_bo.md#波斯献宝)】`bu1 sz1 xin5 bo3` <sup>[兴化]</sup> （喻）将自以为珍贵的东西拿出来炫耀：这个人有意思，有点东西就拿出来～。也讹读成“搬世现宝”。源于古代波斯珠宝商人在中国部分地区的经营活动。如《初刻拍案惊奇》卷一即有波斯胡经营珠宝的情节。  
 1. 【[波斯献宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bu_sz_xin_bo.md#波斯献宝)】`bu1 sz1 xin5 bo3` <sup>[泰县]</sup> 摆弄：你不要～的。  
 1. 【[玻璃菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bu_li_cae.md#玻璃菜)】`bu1 li cae5` <sup>[如皋]</sup> 生菜。  
-1. 【[播](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bu.md#播)】`bu3` <sup>[如皋]</sup> 双脚并列，跳踢毽子的动作。  
+1. 【[簸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bu.md#簸)】`bu3` <sup>[如皋]</sup> 双脚并列，跳踢毽子的动作。  
 1. 【[簸罗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bu_lu.md#簸罗)】`bu3 lu2` <sup>[如东]</sup> 左右前后不平整：几块木板拼接得不好，～的。  
 1. 【[簸箕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bu_ji.md#簸箕)】`bu5 ji1` <sup>[东台]</sup> 用竹篾或柳条编成的器具，用来筛簸粮食等。  
 1. 【[半<sub>个</sub>上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/buh_shan.md#半<sub>个</sub>上)】`buh7 shan` <sup>[如皋]</sup> 旁边：放吖～。到～去。促化音。  
@@ -1751,7 +1747,7 @@
 1. 【[搬淡话<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_taen_hua_r.md#搬淡话<sub>儿</sub>)】`bun1 taen6 hua6 r` <sup>[如东]</sup> 背后传话，搬弄是非：她就欢喜～。  
 1. 【[搬豆腐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_teu_fv.md#搬豆腐)】`bun1 teu6 fv` <sup>[如东]</sup> 买豆腐：上街去～。  
 1. 【[搬豆腐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_teu_fv.md#搬豆腐)】`bun1 teu6 fv` <sup>[如皋]</sup> 买豆腐。  
-1. 【[搬碗头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_un_teu.md#搬碗头)】`bun1 un2 teu2` <sup>[兴化]</sup> 一家做的菜肴给另一家盛一点：他俫两家处得好，有好吃的常常～。  
+1. 【[搬碗头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_un_teu.md#搬碗头)】`bun1 un3 teu2` <sup>[兴化]</sup> 一家做的菜肴给另一家盛一点：他俫两家处得好，有好吃的常常～。  
 1. 【[搬楦头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_xiun_teu.md#搬楦头)】`bun1 xiun5 teu` <sup>[东台]</sup> 原意是鞋匠楦鞋的楦头从这里搬到那里，喻指乱折腾。  
 1. 【[搬楦子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_xiun_zz.md#搬楦子)】`bun1 xiun5 zz` <sup>[兴化]</sup> 互相揭发隐私：他俫两家～，让些邻居看笑话。｜谚曰：鞋子店失火——～。  
 1. 【[搬砖弄瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_zhun_non_va.md#搬砖弄瓦)】`bun1 zhun1 non6 va3` <sup>[兴化]</sup> （喻）指人闲不住，喜欢找点事来折腾：他有福不享，就喜欢～的。  
@@ -1762,7 +1758,7 @@
 1. 【[半驳坎<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_bah_kun_r.md#半驳坎<sub>儿</sub>)】`bun5 bah7 kun3 r` <sup>[兴化]</sup> 指河坎。  
 1. 【[半驳坎<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_bah_kun_r.md#半驳坎<sub>儿</sub>)】`bun5 bah7 kun3 r` <sup>[泰县]</sup> 河坎。  
 1. 【[半边词](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_bin_cz.md#半边词)】`bun5 bin cz2` <sup>[兴化]</sup> 在争执中有利于自己的言词：大家说话要实事求是，不要尽说～。｜不好，我恐怕听了我家兄弟～了……（《武松》九）  
-1. 【[半边㧟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_bin_kuae.md#半边㧟)】`bun5 bin kuae1` <sup>[兴化]</sup> 因两边重量不均匀而斜向一边：这个担子～，挑不起来。  
+1. 【[半边㧟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_bin_kuae.md#半边㧟)】`bun5 bin kuae3` <sup>[兴化]</sup> 因两边重量不均匀而斜向一边：这个担子～，挑不起来。  
 1. 【[半边人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_bin_ren.md#半边人)】`bun5 bin ren` <sup>[兴化]</sup> 寡妇：陈家老大却一病不起……丢下的妻子一下子成了～。（兴文：《夺墓陈》）  
 1. 【[半边侧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_bin_zheh.md#半边侧)】`bun5 bin zheh7` <sup>[兴化]</sup> 向一边倾斜：摆渡船上～容易出事故。  
 1. 【[半边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_bin.md#半边)】`bun5 bin1` <sup>[兴化]</sup> 边：主屋东～搭了个棚子，放放杂物甚的的。｜东～；西～；南～；北～。  

@@ -859,7 +859,7 @@
 1. 【[㧟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae.md#㧟)】`kuae3` <sup>[如皋]</sup> ① 推卸：她把带伢儿的事～啊把啊我。 ② 纠缠：他～住你，你让不掉。  
 1. 【[㧟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae.md#㧟)】`kuae3` <sup>[东台]</sup> 不平衡的意思：事情要大家出力，不能～啊在哪一个人身上。  
 1. 【[㧟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae.md#㧟)】`kuae3` <sup>[兴化]</sup> 向一边倾斜：一边～｜左舷人多，船～过去啊。  
-1. 【[㧟东适西](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_don_sheh_xi.md#㧟东适西)】`kuae3 don1 sheh7 xi1` <sup>[东台]</sup> 带着某人或某物到处奔走：他带啊那们多东西～的，多累啊！  
+1. 【[㧟东摵西](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_don_seh_xi.md#㧟东摵西)】`kuae3 don1 seh7 xi1` <sup>[东台]</sup> 带着某人或某物到处奔走：他带啊那们多东西～的，多累啊！  
 1. 【[㧟来㧟去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_lae_kuae_qy.md#㧟来㧟去)】`kuae3 lae2 kuae3 qy5` <sup>[东台]</sup> 物体的重心不断移动，难以掌控。  
 1. 【[㧟篮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_laen.md#㧟篮)】`kuae3 laen2` <sup>[如皋]</sup> 粗篾大篮，有竹系，用臂肘擓着走。  
 1. 【[㧟笿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_lah_r.md#㧟笿<sub>儿</sub>)】`kuae3 lah8 r` <sup>[东台]</sup> 小竹篮子。  
@@ -896,7 +896,7 @@
 1. 【[快刀切豆腐——两面光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_do_qih_teu_fv_laen_min_guan.md#快刀切豆腐——两面光)】`kuae5 do1 qih7 teu6 fv laen3 min6 guan1` <sup>[东台]</sup>   
 1. 【[快东快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_don_kuae.md#快东快)】`kuae5 don kuae5` <sup>[如皋]</sup> 迅速。  
 1. 【[快活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_huh.md#快活)】`kuae5 huh` <sup>[兴化]</sup> （借）信任、有好感：由于他喜欢自作主张，老板不大～他。  
-1. 【[快活话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_huh_hua.md#快活话)】`kuae5 huh hua6` <sup>[兴化]</sup> 调侃的话：……赵一剑回敬道｜“贫下中农不敢高攀啊！”旁边有人插话｜“你小子别说～了。”（刘春农《无意插柳》）  
+1. 【[快活话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_huh_hua.md#快活话)】`kuae5 huh hua6` <sup>[兴化]</sup> 调侃的话：……赵一剑回敬道：“贫下中农不敢高攀啊！”旁边有人插话：“你小子别说～了。”（刘春农《无意插柳》）  
 1. 【[快活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_huh.md#快活)】`kuae5 huh8` <sup>[如东]</sup> 高兴。  
 1. 【[快活得没手抓痒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_huh_deh_meh_sheu_zhua_ian.md#快活得没手抓痒)】`kuae5 huh8 deh7 meh8 sheu3 zhua1 ian3` <sup>[东台]</sup> 形容极端快乐时手舞足蹈，不知所措。  
 1. 【[快活落咖膛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_huh_lah_ga_tan.md#快活落咖膛)】`kuae5 huh8 lah8 ga tan2` <sup>[东台]</sup> 形容心满意足，心想的目标到位了。膛指胸膛。  

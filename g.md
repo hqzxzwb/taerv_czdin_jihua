@@ -119,7 +119,7 @@
 1. 【[㨟屎耙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_shr_pa.md#㨟屎耙)】`gae1 shr3 pa2` <sup>[如东]</sup> 㧕扒猪圈中猪屎的工具。有齿，有柄，形似爪耙。  
 1. 【[杚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae.md#杚)】`gae1` <sup>[如东]</sup> 量谷物时用以刮平斗斛的工具。  
 1. 【[盖烦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_faen.md#盖烦)】`gae1 faen2` <sup>[泰县]</sup> 掩盖：你不要～吖。  
-1. 【[稭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae.md#稭)】`gae1` ［秸］农作物秸秆：豆～  
+1. 【[稭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae.md#稭)】`gae1` 农作物秸秆：豆～  
 1. 【[稭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_zz.md#稭子)】`gae1 zz` <sup>[东台]</sup> 农作物脱粒后剩下的茎叶：～要还田，不能随意焚烧。  
 1. 【[稭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_zz.md#稭子)】`gae1 zz` <sup>[兴化]</sup> 农作物脱粒后剩下的茎：黄豆～；棉花～；芦秫～。  
 1. 【[街](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae.md#街)】`gae1` 街道  
