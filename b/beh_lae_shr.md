@@ -1,10 +1,10 @@
 # 不来事
-beh7 lae2 shr1
+beh7 lae2 shr6
 > 东台方言词典
 - 不行，没有什么真本事。
 
 # 不来事
-beh7 lae2 shr1
+beh7 lae2 shr6
 > 如东方言词典
-- 不行，不好。
+- 不行，不好。（如东方音lae2 shr1。对照兴化lae2 sz6。）
   - 这吖做～。
