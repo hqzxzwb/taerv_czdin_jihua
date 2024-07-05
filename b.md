@@ -776,8 +776,8 @@
 1. 【[不来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_lae.md#不来)】`beh7 lae2` <sup>[如东]</sup> ① 不过来：他～。 ② 不继续，不参加：这牌和我～。  
 1. 【[不来音](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_lae_ien.md#不来音)】`beh7 lae2 ien1` <sup>[如皋]</sup> 昏厥或死亡，没有声音了：他一个跟头跌咖～吖！  
 1. 【[不来气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_lae_qi.md#不来气)】`beh7 lae2 qi5` <sup>[如皋]</sup> 不生气。  
-1. 【[不来事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_lae_shr.md#不来事)】`beh7 lae2 shr1` <sup>[东台]</sup> 不行，没有什么真本事。  
-1. 【[不来事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_lae_shr.md#不来事)】`beh7 lae2 shr1` <sup>[如东]</sup> 不行，不好：这吖做～。  
+1. 【[不来事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_lae_shr.md#不来事)】`beh7 lae2 shr6` <sup>[东台]</sup> 不行，没有什么真本事。  
+1. 【[不来事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_lae_shr.md#不来事)】`beh7 lae2 shr6` <sup>[如东]</sup> 不行，不好。（如东方音lae2 shr1。对照兴化lae2 sz6。）：这吖做～。  
 1. 【[不来者](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_lae_zhae.md#不来者)】`beh7 lae2 zhae3` <sup>[如皋]</sup> 不交往。（原文作“不来哉”，声调不合）  
 1. 【[不赖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_lae.md#不赖)】`beh7 lae6` <sup>[如东]</sup> ① 比较好：他的手艺～。 ② 承认：这些账目，他～。  
 1. 【[不落帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_lah_ban.md#不落帮)】`beh7 lah8 ban1` <sup>[东台]</sup> 在一帮人里上数，不落伍。  
