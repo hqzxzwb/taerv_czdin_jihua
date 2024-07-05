@@ -107,7 +107,7 @@
 1. 【[把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba.md#把)】`ba3` <sup>[如皋]</sup> ① 同一批：一～小猪儿。 ② 十双：一～筷儿。  
 1. 【[把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba.md#把)】`ba3` <sup>[东台]</sup> ① （东台话中作为动词和介词时读若“马”） ② ［动］给：把猪食（给猪吃食）｜她～啊他（她嫁给他） ③ ［介］宾语是后面动词的对象：～心抑下来｜不能～路跑啊竖起来。  
 1. 【[把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba.md#把)】`ba3` <sup>[泰县]</sup> ① 给：这块布～他。 ② 介词：我把他打啊鼻肿眼青的。  
-1. 【[把板凳说咖竖起来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_baen_den_shuh_ga_shv_qi_lae.md#把板凳说咖竖起来)】`ba3 baen3 den5 shuh7 ga shv6 qi3 lae2` <sup>[东台]</sup> 夸张某人能说会道，巧舌如簧。  
+1. 【[把板凳说咖竖起来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_baen_den_shuh.md#把板凳说咖竖起来)】`ba3 baen3 den5 shuh7 ga shv6 qi3 lae2` <sup>[东台]</sup> 夸张某人能说会道，巧舌如簧。  
 1. 【[把柄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_bien.md#把柄)】`ba3 bien5` <sup>[如东]</sup> 器物上便于用手抓拿的装置。比喻可以被人用来进行要挟的过失或错误。  
 1. 【[把柄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_bien.md#把柄)】`ba3 bien5` <sup>[东台]</sup> ［喻］尚未公开，但知情人可以用来要挟或攻击的错误或过失：他抓不住我的～。  
 1. 【[把底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_di.md#把底)】`ba3 di3` <sup>[如皋]</sup> 预告内情，底线。  
