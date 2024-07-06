@@ -100,9 +100,9 @@
 1. 【[倚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#倚)】`i3` <sup>[如皋]</sup> ① 依随。弟新妇的妈妈来啊，我～啊侄子叫她婆婆。 ② 延误：事情捱～下来啊。  
 1. 【[倚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#倚)】`i3` <sup>[如皋]</sup> 抵住：拿背脊～着咖门不让人进出。  
 1. 【[倚啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_a.md#倚啊)】`i3 a` <sup>[如皋]</sup> 倚仗、依照、倚赖。  
-1. 【[倚啊包袱㧟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_a_bo_foh_kuae.md#倚啊包袱㧟)】`i3 a bo1 foh kuae6` <sup>[如皋]</sup> 依赖功劳或成绩敷衍行事：你不要～，新任领导不吃这一套。  
-1. 【[倚啊草鞋戳咖脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_a_co_hae_chuah_ga_jiah.md#倚啊草鞋戳咖脚)】`i3 a co3 hae2 chuah7 ga jiah7` <sup>[如皋]</sup> 比喻倚靠错了：你想靠他是～，还是你吃亏。  
-1. 【[倚啊草鞋戳咖脚，倚啊洋机赤咖膊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_a_co_hae_chuah_ga_jiah_i_a_ian_ji_cheh_ga_bah.md#倚啊草鞋戳咖脚，倚啊洋机赤咖膊)】`i3 a co3 hae2 chuah7 ga jiah7 i3 a ian2 ji1 cheh7 ga bah7` <sup>[东台]</sup> 依赖不可靠的外部条件而误事。  
+1. 【[倚啊包袱㧟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_a_bo_foh.md#倚啊包袱㧟)】`i3 a bo1 foh kuae6` <sup>[如皋]</sup> 依赖功劳或成绩敷衍行事：你不要～，新任领导不吃这一套。  
+1. 【[倚啊草鞋戳咖脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_a_co_hae.md#倚啊草鞋戳咖脚)】`i3 a co3 hae2 chuah7 ga jiah7` <sup>[如皋]</sup> 比喻倚靠错了：你想靠他是～，还是你吃亏。  
+1. 【[倚啊草鞋戳咖脚，倚啊洋机赤咖膊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_a_co_hae.md#倚啊草鞋戳咖脚，倚啊洋机赤咖膊)】`i3 a co3 hae2 chuah7 ga jiah7 i3 a ian2 ji1 cheh7 ga bah7` <sup>[东台]</sup> 依赖不可靠的外部条件而误事。  
 1. 【[倚啊伢<sub>儿</sub>叫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_a_nga_r_jio.md#倚啊伢<sub>儿</sub>叫)】`i3 a nga2 r jio5` <sup>[如皋]</sup> 依小孩对某人的称呼而称呼，以避免难以弄清称谓的麻烦。见“倚”。  
 1. 【[倚大欺小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_da_qi_xio.md#倚大欺小)】`i3 da6 qi1 xio3` <sup>[兴化]</sup> 倚仗身强力大欺侮弱小者：你俫这吖大的人打人家伢儿，～，真没得意思！  
 1. 【[倚到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_do.md#倚到)】`i3 do` <sup>[兴化]</sup> ① 以为：我～他不来的。 ② 倚仗：你不要～有后台就在外头胡搅。  
@@ -798,7 +798,7 @@
 1. 【[一衝之性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_chon_zhr_xien.md#一衝之性)】`ieh7 chon3 zhr1 xien5` <sup>[如皋]</sup> 冲动、不冷静：少年人～做蠢事是常事，要接受教训，学会冷静才好。  
 1. 【[一冲之兴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_chon_zhr_xien.md#一冲之兴)】`ieh7 chon5 zhr1 xien5` <sup>[东台]</sup> 不假思索依着一时冲动和兴致说话、办事：你～，哿晓得后果有多严重？！  
 1. 【[一冲之兴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_chon_zhr_xien.md#一冲之兴)】`ieh7 chon5 zhr1 xien5` <sup>[兴化]</sup> 由着性子，凭好恶行事：他做事总是～，过后就丢啊干干净净。也说“一兴之头”。  
-1. 【[一冲之兴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_chon_zhr_xien.md#一冲之兴)】`ieh7 chon5 zhr1 xien5` <sup>[泰兴]</sup> 不经过认真思考，凭着性气行事：他一冲之兴，失手打人，是不对的。  
+1. 【[一冲之兴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_chon_zhr_xien.md#一冲之兴)】`ieh7 chon5 zhr1 xien5` <sup>[泰兴]</sup> 不经过认真思考，凭着性气行事：他～，失手打人，是不对的。  
 1. 【[一䟳一滑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_chr_ieh_huaeh.md#一䟳一滑)】`ieh7 chr1 ieh7 huaeh8` <sup>[如东]</sup> 路面泥泞行走困难：刚刚落咖雨，泥路上～的，不好跑。  
 1. 【[一䟳一滑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_chr_ieh_huaeh.md#一䟳一滑)】`ieh7 chr1 ieh7 huaeh8` <sup>[兴化]</sup> 在潮湿地面上艰难行走的样子：他冒啊风雨，～赶往工地。｜路上～的，走路要注意。  
 1. 【[一䟳一滑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_chr_ieh_vaeh.md#一䟳一滑)】`ieh7 chr1 ieh7 vaeh8` <sup>[泰兴]</sup> 地面不平而又泥泞不堪，走路很不方便。  
