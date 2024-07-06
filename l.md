@@ -211,7 +211,7 @@
 1. 【[来浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_jian.md#来浆)】`lae2 jian1` <sup>[兴化]</sup> 高兴、有劲头：他一听说有酒喝就～。  
 1. 【[来劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_jien.md#来劲)】`lae2 jien5` <sup>[如东]</sup> 上劲。  
 1. 【[来劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_jien.md#来劲)】`lae2 jien5` <sup>[兴化]</sup> 有了劲头：跟吖他后头做真～！｜有一回，叔公听见卖饺面的挑着担子，敲着竹梆走来，他又～了……（汪曾祺《大淖纪事》）  
-1. 【[来刻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_keh_r.md#来刻<sub>儿</sub>)】`lae2 keh r` <sup>[东台]</sup> 等一会儿。也说“来赖儿”“过等儿”“等歇儿”。  
+1. 【[来刻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_keh_r.md#来刻<sub>儿</sub>)】`lae2 keh7-ka5 r` <sup>[东台]</sup> 等一会儿。也说“来赖儿”“过等儿”“等歇儿”。  
 1. 【[来快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_kuae.md#来快)】`lae2 kuae5` <sup>[如皋]</sup> ① 来了机会。 ② 乘机得好处。  
 1. 【[来快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_kuae.md#来快)】`lae2 kuae5` <sup>[兴化]</sup> ① 生长快：温室育秧～。 ② 收效快。  
 1. 【[来来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_lae.md#来来)】`lae2 lae` <sup>[兴化]</sup> 渐渐地，或经过一段时间：才下乡生活不习惯，～也就好啊。  
@@ -1945,7 +1945,7 @@
 1. 【[老鼠忑到磨眼里——转吖折磨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_chv_teh_do_mu_ngaen_lii_zhun_nga_zhih_mu.md#老鼠忑到磨眼里——转吖折磨)】`lo3 chv3 teh7 do5 mu6 ngaen3 lii zhun5 nga zhih7 mu2` <sup>[东台]</sup>   
 1. 【[老鼠偷猫饭——提心吊胆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_chv_teu_mo_faen_ti_xien_dio_daen.md#老鼠偷猫饭——提心吊胆)】`lo3 chv3 teu1 mo2 faen6 ti2 xien1 dio5 daen3` <sup>[东台]</sup>   
 1. 【[老鼠拖板掀——大头在后面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_chv_tu_baen_xin_da_teu_cae_heu_min.md#老鼠拖板掀——大头在后面)】`lo3 chv3 tu1 baen3 xin1 da6 teu2 cae6 heu6 min6` <sup>[东台]</sup>   
-1. 【[老鼠尾巴熬汤——没甚的油水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_chv_vei_ba_ngo_tan_meh_shen_nii_ieu_xy.md#老鼠尾巴熬汤——没甚的油水)】`lo3 chv3 vei3 ba1 ngo2 tan1 meh8 shen nii ieu2 xy3` <sup>[东台]</sup>   
+1. 【[老鼠尾巴熬汤——没甚的油水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_chv_vei_ba.md#老鼠尾巴熬汤——没甚的油水)】`lo3 chv3 vei3 ba1 ngo2 tan1 meh8 shen dii ieu2 xy3` <sup>[东台]</sup>   
 1. 【[老鼠钻在风箱里——两头受气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_chv_zun_cae_fon_xian_lii_laen_teu_sheu_qi.md#老鼠钻在风箱里——两头受气)】`lo3 chv3 zun1 cae6 fon1 xian1 lii laen3 teu2 sheu6 qi5` <sup>[东台]</sup>   
 1. 【[老鼠钻油壶——有进无出](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_chv_zun_ieu_hv_ieu_jien_v_chueh.md#老鼠钻油壶——有进无出)】`lo3 chv3 zun1 ieu2 hv2 ieu3 jien5 v2 chueh7` <sup>[东台]</sup>   
 1. 【[老住身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_chv_shen.md#老住身)】`lo3 chv6 shen1` <sup>[如皋]</sup> 原居住地。  

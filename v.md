@@ -1066,7 +1066,7 @@
 1. 【[为客三升米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_keh_saen_shen_mi.md#为客三升米)】`vei6 keh7 saen1 shen1 mi3` <sup>[兴化]</sup> 为招待客人而增加开支：俗说～，来啊人总归要弄点酒啊菜的招待招待。  
 1. 【[为奇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_qi.md#为奇)】`vei6 qi2` 自以为稀奇，炫耀  
 1. 【[为奇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_qi.md#为奇)】`vei6 qi2` <sup>[如东]</sup> 自以为了不起：不要～。  
-1. 【[为甚的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_shen_ni.md#为甚的)】`vei6 shen2 ni` <sup>[如东]</sup> 为什么：～要去？  
+1. 【[为甚的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_shen_nii.md#为甚的)】`vei6 shen2 nii` <sup>[如东]</sup> 为什么：～要去？  
 1. 【[为小失大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_xio_sheh_da.md#为小失大)】`vei6 xio3 sheh7 da6` <sup>[兴化]</sup> 因贪图小利而造成大损失，或因小事而耽误大事：你为啊一点儿回扣把饭碗弄忑掉啊，这是～呀！也作“因小失大”。  
 1. 【[为嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_zuei.md#为嘴)】`vei6 zuei3` <sup>[兴化]</sup> 贪吃：这个婆娘～，有两个钱抓不住。  
 1. 【[位<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_r.md#位<sub>儿</sub>)】`vei6 r` <sup>[如皋]</sup> 身份、气派、派头。  

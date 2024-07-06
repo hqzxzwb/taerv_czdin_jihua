@@ -2499,11 +2499,11 @@
 1. 【[做色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_seh.md#做色)】`zu5 seh7` <sup>[如皋]</sup> ① 给食品上色：煮红烧肉要加糖色～。 ② 表情有异：他听吖这种难听的话，一点儿不～。 ③ 同“装真”：你不要～吧，才吃咖点儿，不曾饱唻。  
 1. 【[做色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_seh.md#做色)】`zu5 seh7` <sup>[东台]</sup> （贬）做样子，装腔作势。  
 1. 【[做色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_seh.md#做色)】`zu5 seh7` <sup>[兴化]</sup> 伪装、做表面文章：他平时吊儿郎当，听说上头来检查工作，就忙里忙外的～。  
-1. 【[做甚呢啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_shen_nii_a.md#做甚呢啊)】`zu5 shen nii a` <sup>[东台]</sup> 同“做什么啊？”  
+1. 【[做甚的啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_shen_nii_a.md#做甚的啊)】`zu5 shen nii a` <sup>[东台]</sup> 同“做什么啊？”  
 1. 【[做声](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_shen.md#做声)】`zu5 shen1` <sup>[如东]</sup> 说话：他不～。  
 1. 【[做生活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_shen_huh.md#做生活)】`zu5 shen1 huh` <sup>[兴化]</sup> ① 从事体力劳动：下田～。 ② 也指一切轻重活儿：“大丫头……镇日价只顾躲在房里～”（《广陵潮》六六）  
 1. 【[做生意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_shen_i.md#做生意)】`zu5 shen1 i` <sup>[兴化]</sup> 泛指各种营利性活动：如做买卖、匠人上街做活、渔民捕捞，等等。  
-1. 【[做甚的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_shen_ni.md#做甚的)】`zu5 shen2 ni` <sup>[如东]</sup> 做什么：你在下～？  
+1. 【[做甚的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_shen_nii.md#做甚的)】`zu5 shen2 nii` <sup>[如东]</sup> 做什么：你在下～？  
 1. 【[做手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_sheu.md#做手)】`zu5 sheu3` <sup>[兴化]</sup> 制作的技术和质量：这件上装布料一般，～蛮好。  
 1. 【[做手艺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_sheu_i.md#做手艺)】`zu5 sheu3 i` <sup>[兴化]</sup> 做手工工匠：你是～的人，寻这几个钱不容易。  
 1. 【[做手脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_sheu_jiah.md#做手脚)】`zu5 sheu3 jiah7` <sup>[东台]</sup> 暗中搞鬼，做小动作。  

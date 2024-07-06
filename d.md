@@ -1667,7 +1667,7 @@
 1. 【[等前伺后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_qin_sz_heu.md#等前伺后)】`den3 qin2 sz5 heu6` <sup>[兴化]</sup> 见“撑前伺后”。  
 1. 【[等水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_shuei.md#等水)】`den3 shuei3` <sup>[如皋]</sup> 承接落下的水。  
 1. 【[等歇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_xih.md#等歇)】`den3 xih` <sup>[兴化]</sup> 等一会儿：老王，～我俫一起家去。  
-1. 【[等歇<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_xih_r.md#等歇<sub>儿</sub>)】`den3 xih7-3 r` <sup>[东台]</sup> 等一会儿。也称“过等儿”“隔歇儿”“等歇歇儿”。  
+1. 【[等歇<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_xih_r.md#等歇<sub>儿</sub>)】`den3 xih9 r` <sup>[东台]</sup> 等一会儿。也称“过等儿”“隔歇儿”“等歇歇儿”。  
 1. 【[等雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_xiuh.md#等雪)】`den3 xiuh7` <sup>[兴化]</sup> 天色阴沉，朝阳屋面的积雪不化，预示还要降雪。  
 1. 【[等尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_xy.md#等尿)】`den3 xy1` <sup>[如皋]</sup> 用便盆侍侯排小便。  
 1. 【[趸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den.md#趸)】`den3` <sup>[东台]</sup> 整批的：成～｜～交。  
@@ -2555,7 +2555,7 @@
 1. 【[到门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_men.md#到门)】`do5 men2` <sup>[兴化]</sup> 恰到好处：这个水烫脚正～。｜武松两个眼睛望着他，早了不能变，迟了也不能变……就要不迟不早，刚刚～，就这个顶要紧。（《武松》三）  
 1. 【[到门铳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_men_chon.md#到门铳)】`do5 men2 chon5` <sup>[兴化]</sup> （喻）拦住别人话头：小张来说小王的不是，捱我一个～。  
 1. 【[到门的话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_men_dii_hua.md#到门的话)】`do5 men2 dii hua6` <sup>[如皋]</sup> 彻底的内情话，真话，实话。  
-1. 【[到甚的山砍甚的柴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_shen_nii_shaen_kaen_shen_nii_shae.md#到甚的山砍甚的柴)】`do5 shen nii shaen1 kaen3 shen nii shae2` <sup>[东台]</sup> 审时度势随机应变。  
+1. 【[到甚的山砍甚的柴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_shen_dii_shaen.md#到甚的山砍甚的柴)】`do5 shen2 nii shaen1 kun3 shen2 nii shae2` <sup>[东台]</sup> 审时度势随机应变。  
 1. 【[到位（味）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_vei.md#到位（味）)】`do5 vei6` <sup>[如皋]</sup> ① 达到最佳状态：这次音乐会听得～｜他的话说得～。 ② 办事得体、完美：同你把事情做啊～啊，你放心。  
 1. 【[到嘴不到肚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_zuei_beh_do_tv.md#到嘴不到肚)】`do5 zuei3 beh7 do5 tv6` <sup>[兴化]</sup> 食物太少，不能满足食欲：武二爷望望：酒虽好，吃的不过瘾，～。（《武松》一）  
 1. 【[㞘底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/doh_di.md#㞘底)】`doh7 di3` <sup>[兴化]</sup> 终点。《集韵·屋韵》都木切，《博雅》臀也。俗作“𡰪”：四路公交车到关门陈～。  
