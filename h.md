@@ -1020,7 +1020,7 @@
 1. 【[䦝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh.md#䦝)】`hoh7` <sup>[兴化]</sup> 用力关门：他把门一～，锁起来啊。｜风把门～起来。  
 1. 【[掝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh.md#掝)】`hoh7` <sup>[东台]</sup> 掀、抛：听到闹钟响，他被单一～就起啊床。｜垃圾要入箱，不能块块～！  
 1. 【[掝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh.md#掝)】`hoh7` <sup>[兴化]</sup> 用力泼：～水；～泥。｜谚曰：嫁出门的女儿，～出门的水。  
-1. 【[掝锨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh_xin.md#掝锨)】`hoh7 xin1` <sup>[兴化]</sup> 一种农具，长方形浅舀，长柄，用来从河下向岸上戽水、戽泥浆：在路上，一个扛罱子，一个拿˜，直往庄里跑。（马春阳《在春潮中》）  
+1. 【[掝锨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh_xin.md#掝锨)】`hoh7 xin1` <sup>[兴化]</sup> 一种农具，长方形浅舀，长柄，用来从河下向岸上戽水、戽泥浆：在路上，一个扛罱子，一个拿～，直往庄里跑。（马春阳《在春潮中》）  
 1. 【[湱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh.md#湱)】`hoh7` ① 波涛声 ② 大雨声  
 1. 【[湱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh.md#湱)】`hoh7` <sup>[如皋]</sup> 水涌动状。  
 1. 【[湱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh.md#湱)】`hoh7` <sup>[泰县]</sup> 水或液体几乎要渗出：你不要把水弄得～的。  

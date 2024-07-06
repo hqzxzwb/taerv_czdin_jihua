@@ -471,7 +471,6 @@
 1. 【[板鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_y.md#板鱼)】`baen3 y2` <sup>[如东]</sup> 舌鳎科动物宽体舌鳎，体舌状，两眼均在头的左侧。有眼侧淡褐色，被栉鳞，有两条侧线；无眼边白色，被圆鳞，无侧线。鳞较大。无胸鳍。生活在近海底层。肉鲜嫩。是如东常见鱼种。  
 1. 【[板脂油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_zhr_ieu.md#板脂油)】`baen3 zhr1 ieu2` <sup>[如皋]</sup> 私人积蓄。  
 1. 【[板脂油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_zhr_ieu.md#板脂油)】`baen3 zhr1 ieu2` <sup>[兴化]</sup> 人或某些哺乳动物体内呈板状的脂肪：他～厚实，不怕冻。  
-1. 【[瓪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen.md#瓪)】`baen3` <sup>[东台]</sup> 败瓦，碎瓦片。《说文·瓦部》“瓪，败也。从瓦，反声。布绾切。”：拾砖头瓦～儿。  
 1. 【[办公](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_gon.md#办公)】`baen5 gon1` <sup>[如皋]</sup> 谑指解大便。  
 1. 【[办后事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_heu_shr.md#办后事)】`baen5 heu6 shr6` <sup>[如皋]</sup> 贬指调离或离职后他人代办遗留之事。往往有怨恨之意。  
 1. 【[爿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen.md#爿)】`baen5` <sup>[如皋]</sup> 量词：一～店。  
@@ -1703,7 +1702,7 @@
 1. 【[波跷话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bu_qio_hua.md#波跷话)】`bu1 qio1 hua6` <sup>[如皋]</sup> 带刺的、暗讽的话  
 1. 【[波俏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bu_qio.md#波俏)】`bu1 qio5` <sup>[东台]</sup> ① 形容俊美而有风致。马致远《青杉泪》第二折：“小子金银又多，又～。”（与普通话中“峬峭”近义） ② 娇气而邀宠的神态。  
 1. 【[波斯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bu_sz.md#波斯)】`bu1 sz1` <sup>[如皋]</sup> ① 也说bu5 sz1。对小孩的昵称：～、小～。 ② 贬指有缺陷的人：这个～又是邪眼儿又是病脚儿，不晓得多难看！  
-1. 【[波斯𡰑宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bu_sz_qio_bo.md#波斯𡰑宝)】`bu1 sz1 qio2 bo3` <sup>[如皋]</sup> 贬指不好的东西或有缺陷、不起正派的人。  
+1. 【[波斯侨宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bu_sz_qio_bo.md#波斯侨宝)】`bu1 sz1 qio2 bo3` <sup>[如皋]</sup> 贬指不好的东西或有缺陷、不正派的人。  
 1. 【[波斯献宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bu_sz_xin_bo.md#波斯献宝)】`bu1 sz1 xin5 bo3` <sup>[东台]</sup> （贬）原指古波斯国有许多商人喜欢来中国展示自己的古董，后来喻指把心爱的东西拿出来炫耀：他～的把家藏的名人字画拿出来把人看。  
 1. 【[波斯献宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bu_sz_xin_bo.md#波斯献宝)】`bu1 sz1 xin5 bo3` <sup>[兴化]</sup> （喻）将自以为珍贵的东西拿出来炫耀：这个人有意思，有点东西就拿出来～。也讹读成“搬世现宝”。源于古代波斯珠宝商人在中国部分地区的经营活动。如《初刻拍案惊奇》卷一即有波斯胡经营珠宝的情节。  
 1. 【[波斯献宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bu_sz_xin_bo.md#波斯献宝)】`bu1 sz1 xin5 bo3` <sup>[泰县]</sup> 摆弄：你不要～的。  

@@ -385,6 +385,7 @@
 1. 【[搲米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_mi.md#搲米)】`va3 mi3` <sup>[东台]</sup> 量米。渔民避讳语。因量与凉谐音，故避讳。  
 1. 【[搲鱼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_y_r.md#搲鱼<sub>儿</sub>)】`va3 y2 r` <sup>[兴化]</sup> 即“搲疙瘩”。因煮熟的疙瘩浮在汤的表面，形似游鱼，故名。  
 1. 【[瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va.md#瓦)】`va3` <sup>[如东]</sup> 建筑材料。泥土烧制或水泥浇制，长方形，平面拱形或平形。覆盖在屋面上，用于挡雨水。  
+1. 【[瓦板<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_baen_r.md#瓦板<sub>儿</sub>)】`va3 baen3 r` <sup>[东台]</sup> 瓦。犹指碎瓦。（原文词条“瓪”，牵强。）  
 1. 【[瓦钵<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_buh_r.md#瓦钵<sub>儿</sub>)】`va3 buh7 r` <sup>[如东]</sup> 比较粗糙的陶器，用以盛水。  
 1. 【[瓦槽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_co.md#瓦槽)】`va3 co2` <sup>[如东]</sup> 屋面上用瓦片铺成的凹的槽，叫瓦槽。  
 1. 【[瓦瓷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_cz.md#瓦瓷)】`va3 cz2` <sup>[如皋]</sup> 瓷器的碎片。  

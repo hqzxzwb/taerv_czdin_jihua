@@ -1968,7 +1968,7 @@
 1. 【[砖头地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_teu_ti.md#砖头地)】`zhun1 teu ti6` <sup>[如皋]</sup> 用砖头铺成的地。  
 1. 【[砖头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_teu.md#砖头)】`zhun1 teu2` <sup>[如东]</sup> 种建筑材料。把黏土制成砖坯，多为长方形，放在窑中烧熟强度增加。一般实心，也有中间有孔的称空心砖。  
 1. 【[砖头佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_teu_lo_r.md#砖头佬<sub>儿</sub>)】`zhun1 teu2 lo3 r` <sup>[泰县]</sup> ① 断砖。 ② 为别人泄愤：你不能老是叫我去撂～。  
-1. 【[砖头瓦瓪<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_teu_va_baen_r.md#砖头瓦瓪<sub>儿</sub>)】`zhun1 teu2 va3 baen5 r` <sup>[东台]</sup> 碎砖碎瓦等建筑垃圾。  
+1. 【[砖头瓦瓣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_teu_va_baen_r.md#砖头瓦瓣<sub>儿</sub>)】`zhun1 teu2 va3 baen5 r` <sup>[东台]</sup> 碎砖碎瓦等建筑垃圾。  
 1. 【[转场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_chan.md#转场)】`zhun3 chan2` <sup>[兴化]</sup> 暂停争执，使气氛缓和：你不要硬顶，转个场再说。｜你先回避一下，好让他有个～。  
 1. 【[转潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_cho.md#转潮)】`zhun3 cho2` <sup>[如皋]</sup> 空气湿度大，物体由干变䵑乃至潮湿。  
 1. 【[转潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_cho.md#转潮)】`zhun3 cho2` <sup>[东台]</sup> 本来干燥的物品，吸收了空气中的水分，变潮湿了。  
