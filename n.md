@@ -2015,7 +2015,6 @@
 1. 【[女当家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_dan_jia.md#女当家)】`ny3 dan1 jia1` <sup>[东台]</sup> 指女人说了算的家庭。  
 1. 【[女当家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_dan_jia.md#女当家)】`ny3 dan1 jia1` <sup>[兴化]</sup> ① 在居家处事中，由妻子作主：他家是～，先生吃粮不管事。 ② （戏）称妻或别人的妻子：～的。  
 1. 【[女儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_er.md#女儿)】`ny3 er` <sup>[如东]</sup> 自己的下一代女孩称女儿。  
-1. 【[女儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_er.md#女儿)】`ny3 er` <sup>[如皋]</sup> ① 指称女孩子。面称称名。雅称姑娘。昵称“丫头”，或小伙，鄙称“外根、外根的、不上街”。 ② 女孩子乳名的尾缀：银～、莲～。 ③ （如皋词典音ny3 r，儿化）  
 1. 【[女儿节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_er_jih.md#女儿节)】`ny3 er jih7` <sup>[如皋]</sup> 农历二月二。出嫁女回母家过节。  
 1. 【[女儿节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_er_jih.md#女儿节)】`ny3 er jih7` <sup>[如东]</sup> 阴历二月初二日为女儿节。幼女梳妆打扮，极妍极美；出嫁的女儿回娘家团聚，吃蒿儿饼。民谣：“二月二，挑蒿儿，搜饼儿，带女儿。不带女儿穷鬼儿；女儿不来，烂腿儿。”  
 1. 【[女儿墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_er_qian.md#女儿墙)】`ny3 er qian2` <sup>[如东]</sup> 房顶四周的矮墙，叫做女儿墙。  
@@ -2031,6 +2030,7 @@
 1. 【[女伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_nga_r.md#女伢<sub>儿</sub>)】`ny3 nga2 r` <sup>[如东]</sup> 女孩子。  
 1. 【[女伢<sub>儿</sub>家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_nga_r_ga.md#女伢<sub>儿</sub>家)】`ny3 nga2 r ga` <sup>[如皋]</sup> 见“姑娘家”。  
 1. 【[女攀高亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_paen_go_qien.md#女攀高亲)】`ny3 paen1 go1 qien1` <sup>[兴化]</sup> 指两家结亲时，女方要求对方身份、财富高于自己：老实说，他这么情义，我是动了心的｜何况他爸又是新任乡长，～么。（马春阳《翁婿同还乡》）  
+1. 【[女<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_r.md#女<sub>儿</sub>)】`ny3 r` <sup>[如皋]</sup> ① 指称女孩子。面称称名。雅称姑娘。昵称“丫头”，或小伙，鄙称“外根、外根的、不上街”。 ② 女孩子乳名的尾缀：银～、莲～。  
 1. 【[女人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_ren.md#女人)】`ny3 ren2` <sup>[如东]</sup> 女性，多指成年女子。也称女的。男人的妻子：我家～。  
 1. 【[女生外向](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_shen_vae_xian.md#女生外向)】`ny3 shen1 vae6 xian5` <sup>[兴化]</sup> ① 传女胎儿在娘胎中的面部朝外：“……因为～，他两手两脚都在外面……”（《广陵潮》六） ② 旧指女子终究要出嫁，成为外姓：岂知～，虽系吾所生，到底是别家的人。（《初刻》三八）  
 1. 【[女婿一到，丈母娘靠灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_xy_ieh_do_chan_mu_nian_ko_zo.md#女婿一到，丈母娘靠灶)】`ny3 xy5 ieh7 do5 chan6 mu3 nian2 ko5 zo5` <sup>[东台]</sup> 丈母娘立刻为爱婿忙饭做菜。  
