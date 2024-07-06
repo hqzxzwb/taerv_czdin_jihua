@@ -171,8 +171,8 @@
 1. 【[二样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_ian.md#二样)】`er6 ian6` <sup>[兴化]</sup> 不同样，多用于否定：他俫两个人的脾气没得～。  
 1. 【[二样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_ian.md#二样)】`er6 ian6` <sup>[泰兴]</sup> 两样，两个样子：箇批货一式头，没得～  
 1. 【[二一添作五](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_ieh_tin_zah_v.md#二一添作五)】`er6 ieh7 tin1 zah7 v3` <sup>[泰兴]</sup> 珠算除法的一句口诀，二分之一的意思。借指双方平分或平均承担责任和任务。  
-1. 【[二月二，家家撑船带女<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_iuh_er_ga.md#二月二，家家撑船带女<sub>儿</sub>)】`er6 iuh er6 ga1 ga1 chen1 chun2 dae5 ny3 r` <sup>[东台]</sup> 水乡民俗，农历二月二接女儿回家省亲。  
-1. 【[二月二，家家人家带女<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_iuh_er_ga.md#二月二，家家人家带女<sub>儿</sub>)】`er6 iuh er6 ga1 ga1 ren2 ga1 dae5 ny3 r` <sup>[泰兴]</sup> 民俗。农历二月初二，娘家都要带已出嫁的女儿回来团聚。乡间有“～，不带女儿是穷鬼儿”一说。  
+1. 【[二月二，家家撑船带女儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_iuh_er_ga.md#二月二，家家撑船带女儿)】`er6 iuh er6 ga1 ga1 chen1 chun2 dae5 ny3 er` <sup>[东台]</sup> 水乡民俗，农历二月二接女儿回家省亲。  
+1. 【[二月二，家家人家带女儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_iuh_er_ga.md#二月二，家家人家带女儿)】`er6 iuh er6 ga1 ga1 ren2 ga1 dae5 ny3 er` <sup>[泰兴]</sup> 民俗。农历二月初二，娘家都要带已出嫁的女儿回来团聚。乡间有“～，不带女儿是穷鬼儿”一说。  
 1. 【[二月二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_iuh_er.md#二月二)】`er6 iuh8 er6` <sup>[如皋]</sup> ① 大落灯节。旧时家家从正月十三开始点天灯，至此日落灯。 ② 女儿节。出嫁女回母家过节。谚语：二月二，挑蒿儿，沰饼儿，带女儿。不带女儿，穷鬼儿，女儿不来，烂腿儿。盼女之意，溢于言表。 ③ 龙抬头：此时潜龙已醒。抬头，尚未走动。以物侯表季节气象。  
 1. 【[二家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_jia.md#二家)】`er6 jia1` <sup>[如东]</sup> 第二：他是～。  
 1. 【[二架](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_jia.md#二架)】`er6 jia5` <sup>[如东]</sup> 正梁往下的第二根横梁。前边的称前二架，后边有称后二架。  

@@ -85,7 +85,7 @@
 1. 【[玍固](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_gv.md#玍固)】`ga3 gv` <sup>[泰县]</sup> 古怪固执：这个人～。  
 1. 【[玍古](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_gv.md#玍古)】`ga3 gv3` <sup>[如皋]</sup> ① 乖僻：脾气～。 ② 摆威风、不随和：你～的哪一家！ ③ 见“𠢤脾气”。  
 1. 【[贾家<sub>儿</sub>桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_ga_r_qio.md#贾家<sub>儿</sub>桥)】`ga3 ga r qio2` <sup>[如皋]</sup> 旧地名，在如皋如城镇新生路与通城巷交叉处。明·嘉靖《如皋县志·城池图》有载。清季、民国间写成“姐姐桥”，但口语仍保留了古音。  
-1. 【[嫁出门的女<sub>儿</sub>，泼出门的水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_chueh_men_dii_ny_r_puh_chueh_men_dii_shuei.md#嫁出门的女<sub>儿</sub>，泼出门的水)】`ga5 chueh7 men2 dii ny3 r puh7 chueh7 men2 dii shuei3` <sup>[如皋]</sup> 嫁出的女儿就像泼出去的水一样，收不回来。  
+1. 【[嫁出门的女儿，泼出门的水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_chueh_men_dii.md#嫁出门的女儿，泼出门的水)】`ga5 chueh7 men2 dii ny3 er puh7 chueh7 men2 dii shuei3` <sup>[如皋]</sup> 嫁出的女儿就像泼出去的水一样，收不回来。  
 1. 【[嫁夫着主](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_fv_chah_zhv.md#嫁夫着主)】`ga5 fv1 chah8 zhv3` <sup>[如皋]</sup> 指女人有了夫家终身就有靠了，心定了。  
 1. 【[嫁夫随夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_fv_cuei_fv.md#嫁夫随夫)】`ga5 fv1 cuei2 fv1` <sup>[如皋]</sup> 指旧时女人嫁了丈夫，就跟随丈夫过日子。  
 1. 【[嫁鸡随鸡，嫁狗随狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_ji_cuei_ji_ga_geu_cuei_geu.md#嫁鸡随鸡，嫁狗随狗)】`ga5 ji1 cuei2 ji1 ga5 geu3 cuei2 geu3` <sup>[如皋]</sup> 嫁夫随夫。  
