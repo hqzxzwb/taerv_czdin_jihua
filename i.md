@@ -1156,6 +1156,7 @@
 1. 【[一上来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_shan_lae.md#一上来)】`ieh7 shan6 lae` <sup>[兴化]</sup> 刚开始。  
 1. 【[一十脚下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_sheh_jiah_ha.md#一十脚下)】`ieh7 sheh jiah7 ha` <sup>[如皋]</sup> 农历初十前后。  
 1. 【[一式一样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_sheh_ieh_ian.md#一式一样)】`ieh7 sheh7 ieh7 ian6` <sup>[如东]</sup> 款式完全相同：两张书橱～。  
+1. 【[一式头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_sheh_teu.md#一式头)】`ieh7 sheh7 teu2` <sup>[泰兴]</sup> 全是一个式样、样子；全具备一种特点：些伢儿～穿的校服  
 1. 【[一石田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_sheh_tin.md#一石田)】`ieh7 sheh8 tin2` <sup>[如东]</sup> 面积单位。10亩田为一石田  
 1. 【[一声](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_shen.md#一声)】`ieh7 shen1` <sup>[兴化]</sup> 不确定时间词，相当于“一旦”：他～查问起来，你拿甚的回答他？｜他在家等分配，～来啊通知立即动身。  
 1. 【[一生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_shen.md#一生)】`ieh7 shen1` <sup>[如东]</sup> 一辈子：度过～。  

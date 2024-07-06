@@ -75,7 +75,7 @@
 1. 【[𤹉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha.md#𤹉)】`ha3` <sup>[如皋]</sup> （借字）胡涂，不精明。  
 1. 【[𤹉爹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_dia.md#𤹉爹)】`ha3 dia1` <sup>[泰县]</sup> 糊涂人。  
 1. 【[𤹉货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_hu.md#𤹉货)】`ha3 hu5` <sup>[泰县]</sup> 傻子。  
-1. 【[𤹉糊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_hv.md#𤹉糊)】`ha3 hv` <sup>[泰兴]</sup> 稀里糊涂：箇个事还能～呢？/这个事难道可以稀里糊涂吗？  
+1. 【[𤹉糊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_hv.md#𤹉糊)】`ha3 hv` <sup>[泰兴]</sup> 稀里糊涂。也说𤹉𤹉糊：箇个事还能～呢？/这个事难道可以稀里糊涂吗？  
 1. 【[𤹉里𤹉气的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_lii_ha_qi_dii.md#𤹉里𤹉气的)】`ha3 lii ha3 qi5 dii` <sup>[如皋]</sup> 傻乎乎的。  
 1. 【[𤹉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_r.md#𤹉<sub>儿</sub>)】`ha3 r` <sup>[如皋]</sup> 即“傻瓜”。  
 1. 【[𤹉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_r.md#𤹉<sub>儿</sub>)】`ha3 r` <sup>[泰县]</sup> 呆。  

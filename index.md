@@ -143,7 +143,7 @@
 1. 【[家边邻居](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_bin_lien_jy.md#家边邻居)】`ga1 bin1 lien2 jy1` <sup>[兴化]</sup> 指近邻。也说“邻居家边”。  
 1. 【[家边邻居](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_bin_lien_jy.md#家边邻居)】`ga1 bin1 lien2 jy1` <sup>[如东]</sup> 与自己家庭相近的住户。（原文作“家毗”，音不合）：我俫是～，应该互相照顾。  
 1. 【[家边邻舍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_bin_lien_sha.md#家边邻舍)】`ga1 bin1 lien2 sha5` <sup>[如东]</sup> 与自己家庭相近的住户。（原文作“家毗”，音不合）：我俫是～，何必计较。  
-1. 【[家贼难防狗不咬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_ceh_naen_fan_geu_beh_ngo.md#家贼难防狗不咬)】`ga1 ceh8 naen2 fan2 geu3 beh7 ngo3` <sup>[东台]</sup> 内部的坏人更难排查。  
+1. 【[家贼难防狗不咬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_ceh_naen_fan.md#家贼难防狗不咬)】`ga1 ceh8 naen2 fan2 geu3 beh7 ngo3` <sup>[东台]</sup> 内部的坏人更难排查。  
 1. 【[家蚕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_cun.md#家蚕)】`ga1 cun2` <sup>[如东]</sup> 昆虫。幼虫灰白色，吃桑叶，蜕变四次，吐丝做茧，变成蛹，蛹变成蚕蛾。蚕蛾交尾产卵后就死去。幼虫吐的丝是重要的纺织品原料。也叫桑蚕。  
 [更多...](./g.md)
 ## H
