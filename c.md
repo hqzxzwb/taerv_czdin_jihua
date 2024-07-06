@@ -400,7 +400,7 @@
 1. 【[茶馆搬家——另起炉灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_gun_bun_ga_lien_qi_lv_zo.md#茶馆搬家——另起炉灶)】`cha2 gun3 bun1 ga1 lien6 qi3 lv2 zo5` <sup>[东台]</sup>   
 1. 【[茶馆店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_gun_din.md#茶馆店)】`cha2 gun3 din5` <sup>[如皋]</sup> 见“茶馆”。  
 1. 【[茶壶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_hv.md#茶壶)】`cha2 hv2` <sup>[如东]</sup> 茶具。圆形或棱形，有环和嘴，锡、铜或铁制，烧水用。  
-1. 【[茶壶欛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_hv_ba_zz.md#茶壶欛子)】`cha2 hv2 ba5 zz` <sup>[如东]</sup> 茶壶环。  
+1. 【[茶壶把子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_hv_ba_zz.md#茶壶把子)】`cha2 hv2 ba5 zz` <sup>[如东]</sup> 茶壶环。  
 1. 【[茶壶打掉把子——落个嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_hv_da_tio_ba_zz_lah_gu_jy.md#茶壶打掉把子——落个嘴)】`cha2 hv2 da3 tio ba5 zz lah8 gu jy3` <sup>[东台]</sup>   
 1. 【[茶壶里的水——滚开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_hv_lii_dii_shuei_guen_kae.md#茶壶里的水——滚开)】`cha2 hv2 lii dii shuei3 guen3 kae1` <sup>[东台]</sup>   
 1. 【[茶壶<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_hv_r.md#茶壶<sub>儿</sub>)】`cha2 hv2 r` <sup>[如皋]</sup> 供单人对着嘴子饮茶的壶。  

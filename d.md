@@ -1463,7 +1463,7 @@
 1. 【[铛铛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_dan_r.md#铛铛<sub>儿</sub>)】`dan1 dan1 r` <sup>[如东]</sup> 算命先生敲的一种小铜锣。  
 1. 【[噹噹嗤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_dan_chr.md#噹噹嗤)】`dan2 dan2 chr1` <sup>[如皋]</sup> ① 象声词。 ② 叹词，表希望落空。  
 1. 【[挡车工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_cha_gon.md#挡车工)】`dan3 cha1 gon1` <sup>[如东]</sup> 工种的一种。从事挡车职业的工人。  
-1. 【[挡住咖话欛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_chv_a_hua_ba_zz.md#挡住咖话欛子)】`dan3 chv6 a hua6 ba5 zz` <sup>[如皋]</sup> 插话而中止别人的讲话。  
+1. 【[挡住咖话把子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_chv_a_hua_ba_zz.md#挡住咖话把子)】`dan3 chv6 a hua6 ba5 zz` <sup>[如皋]</sup> 插话而中止别人的讲话。  
 1. 【[挡驾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_jia.md#挡驾)】`dan3 jia5` <sup>[东台]</sup> 婉辞，谢绝来客访问。  
 1. 【[挡马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_ma.md#挡马)】`dan3 ma3` <sup>[东台]</sup> 旧时剧场检票员。  
 1. 【[挡门面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_men_min.md#挡门面)】`dan3 men2 min6` <sup>[如东]</sup> 应酬：他箇是为啊～。  

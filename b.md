@@ -151,7 +151,6 @@
 1. 【[把肉他吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_roh_ta_qieh.md#把肉他吃)】`ba3 roh8 ta1 qieh7` <sup>[如皋]</sup> 用反话挖苦、讽刺对方。见“辱”。  
 1. 【[把式](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_sheh.md#把式)】`ba3 sheh` <sup>[泰县]</sup> 样子：非要照他的～。  
 1. 【[把式](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_sheh.md#把式)】`ba3 sheh7` <sup>[如东]</sup> 能手：他是老～。  
-1. 【[把手紧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_sheu_jien.md#把手紧)】`ba3 sheu3 jien3` <sup>[如皋]</sup> 精打细算，不肯乱花一文钱。见“手丫儿紧”。  
 1. 【[把势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_shr.md#把势)】`ba3 shr` <sup>[兴化]</sup> ① 在世面上混的人：总是混～的，见好就收吧！ ② 形容蛮横无理，盛气凌人的样子：他一副～样子，没人敢惹他。  
 1. 【[把水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_shuei.md#把水)】`ba3 shuei3` <sup>[兴化]</sup> 预先通风报信：因为有人～，一个贪污犯畏罪潜逃啊。‖也作“把底水”。  
 1. 【[把水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_shuei.md#把水)】`ba3 shuei3` <sup>[泰县]</sup> 告密。  
@@ -191,8 +190,8 @@
 1. 【[把缸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_gan_zz.md#把缸子)】`ba5 gan1 zz` <sup>[兴化]</sup> 有把子的茶杯。  
 1. 【[把<sub>儿</sub>话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_r_hua.md#把<sub>儿</sub>话)】`ba5 r hua6` <sup>[东台]</sup> ［喻］答复问题不干脆，拖泥带水，好像还留有话把儿：凡是要进事业单位的，都要经过考试，不能随意说～开口子。  
 1. 【[把实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_sheh.md#把实)】`ba5 sheh` <sup>[兴化]</sup> 形容器物牢固耐用：这张藤椅蛮～的。也作“坝实”。  
+1. 【[把手紧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_sheu_jien.md#把手紧)】`ba5 sheu3 jien3` <sup>[如皋]</sup> 精打细算，不肯乱花一文钱。见“手丫儿紧”。  
 1. 【[把壮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_zhuan.md#把壮)】`ba5 zhuan` <sup>[兴化]</sup> 多指器物材料粗厚，做工认真，因而牢固耐用：这张桌子打得～。｜这个篮子编得～。  
-1. 【[欛手紧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_sheu_jien.md#欛手紧)】`ba5 sheu3 jien3` <sup>[如皋]</sup> 不轻易花钱。  
 1. 【[爸爸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ba.md#爸爸)】`ba5 ba` <sup>[如东]</sup> 父亲。  
 1. 【[罢罢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ba.md#罢罢)】`ba5 ba` <sup>[兴化]</sup> 连词，相当“既然”：“甚么话！～的一生辛苦，半世背灯，才博得一第……岂可轻易丢去……”（《梼杌闲评》三四）｜“～他说我没学问，明天西教场操兵，把他看看……”（扬二《张松献地图》）  
 1. 【[罢罢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ba.md#罢罢)】`ba5 ba5` <sup>[如皋]</sup> ① 好不容易，既然：～的来啊，耍子两天再走。 ② 儿语：没有了。  

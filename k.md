@@ -64,7 +64,6 @@
 1. 【[揢嗓子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka_san_zz.md#揢嗓子)】`ka5 san3 zz` <sup>[如东]</sup> 用双手掐住对方的脖子。  
 1. 【[揢手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka_sheu.md#揢手)】`ka5 sheu3` <sup>[如皋]</sup> 聚财：她过日子有～，～紧、～松。  
 1. 【[揢手紧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka_sheu_jien.md#揢手紧)】`ka5 sheu3 jien3` <sup>[如皋]</sup> 不轻易花钱。  
-1. 【[揢手紧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka_sheu_jien.md#揢手紧)】`ka5 sheu3 jien3` <sup>[如皋]</sup> 见“把手紧”。  
 1. 【[开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#开)】`kae1` <sup>[泰县]</sup> 挖：～塘。  
 1. 【[开啊槅子说亮话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_a_geh_zz_shuh_lian_hua.md#开啊槅子说亮话)】`kae1 a geh7 zz shuh7 lian6 hua6` <sup>[如皋]</sup> 说明了，说穿了，说敝亮了。  
 1. 【[开笔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_bieh.md#开笔)】`kae1 bieh7` <sup>[兴化]</sup> ① 旧指一年中首次写字：新年～，诸事大吉。 ② 旧称学童开始学写文章。  
