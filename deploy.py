@@ -134,7 +134,7 @@ def mix(word, py):
             mix.append((char, ''))
         i += 1
     if pi != len(char_py_list) or i != len(char_list):
-        print("【%s】(%s)跟拼音(%s)不对应" % (word, char_list, char_py_list))
+        raise Exception("【%s】(%s)跟拼音(%s)不对应" % (word, char_list, char_py_list))
     return mix
 
 def write_index(dirs, examples):
