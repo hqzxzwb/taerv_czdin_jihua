@@ -336,8 +336,7 @@
 1. 【[户槛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_kaen.md#户槛)】`v6 kaen3` <sup>[如皋]</sup> 即“门槛”。  
 1. 【[户槛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_kaen.md#户槛)】`v6-3 kaen3` <sup>[东台]</sup> （这里“户”读若“午”）门框下部的横木（也有用石头、水泥做成的）。也作“门槛”“门坎”。  
 1. 【[护](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v.md#护)】`v6` <sup>[如皋]</sup> ① 保护：～食、～雏。 ② 袒护、包庇：～短。  
-1. 【[护啊家里爬肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_a_ga_lii_pa_dv_zz.md#护啊家里爬肚子)】`v6 a ga1 lii pa2 dv3 zz` <sup>[如皋]</sup> 詈语。意为过于溺爱，甚至纵容儿子非礼妈妈。  
-1. 【[护啊家里爬肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_a_ga_lii_pa_dv_zz.md#护啊家里爬肚子)】`v6 a ga1 lii pa2 dv3 zz` <sup>[如皋]</sup> 见“爬肚子”。  
+1. 【[护啊家里爬肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_a_ga_lii_pa_dv_zz.md#护啊家里爬肚子)】`v6 a ga1 lii pa2 dv3 zz` <sup>[如皋]</sup> ① 詈语。意为过于溺爱，甚至纵容儿子非礼妈妈。 ② 见“爬肚子”。  
 1. 【[护短](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_dun.md#护短)】`v6 dun3` <sup>[如东]</sup> 包庇缺点：自己的伢儿犯吖毛病大人不要～。  
 1. 【[护短](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_dun.md#护短)】`v6 dun3` <sup>[东台]</sup> 对孩子过分娇惯，有缺点也不肯批评教育。  
 1. 【[护食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_sheh.md#护食)】`v6 sheh8` <sup>[如皋]</sup> 不让碰到自己已有的食物：伢儿～、狗子～。  

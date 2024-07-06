@@ -1017,9 +1017,9 @@
 1. 【[㖪痰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh_taen.md#㖪痰)】`hoh7 taen2` <sup>[如皋]</sup> ① 使劲喀出痰液。 ② 重病人或临危病人的痰鸣音。如皋词典写“嗀”。  
 1. 【[㖪动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh_ton.md#㖪动)】`hoh7 ton` <sup>[如皋]</sup> 吵嚷、怂恿：大家不要～，先听吖我说几句。  
 1. 【[㖪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh_zz.md#㖪子)】`hoh7 zz` <sup>[如皋]</sup> 爱吵嚷、生事的人。  
-1. 【[䦝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh.md#䦝)】`hoh7` <sup>[兴化]</sup> 用力关门：他把门一～，锁起来啊。｜风把门～起来。《广韵·麦韵》呼麦切｜“～，～门声”。  
-1. 【[掝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh.md#掝)】`hoh7` <sup>[东台]</sup> 裂。（《广韵》“呼麦切，裂也。”）在本地方言中指掀、抛：听到闹钟响，他被单一～就起啊床。｜垃圾要入箱，不能块块～！  
-1. 【[掝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh.md#掝)】`hoh7` <sup>[兴化]</sup> 用力泼：～水｜～泥。谚曰｜嫁出门的女儿，～出门的水。  
+1. 【[䦝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh.md#䦝)】`hoh7` <sup>[兴化]</sup> 用力关门：他把门一～，锁起来啊。｜风把门～起来。  
+1. 【[掝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh.md#掝)】`hoh7` <sup>[东台]</sup> 掀、抛：听到闹钟响，他被单一～就起啊床。｜垃圾要入箱，不能块块～！  
+1. 【[掝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh.md#掝)】`hoh7` <sup>[兴化]</sup> 用力泼：～水；～泥。｜谚曰：嫁出门的女儿，～出门的水。  
 1. 【[掝锨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh_xin.md#掝锨)】`hoh7 xin1` <sup>[兴化]</sup> 一种农具，长方形浅舀，长柄，用来从河下向岸上戽水、戽泥浆：在路上，一个扛罱子，一个拿˜，直往庄里跑。（马春阳《在春潮中》）  
 1. 【[湱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh.md#湱)】`hoh7` ① 波涛声 ② 大雨声  
 1. 【[湱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh.md#湱)】`hoh7` <sup>[如皋]</sup> 水涌动状。  
@@ -1033,9 +1033,9 @@
 1. 【[焀气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh_qi.md#焀气)】`hoh7 qi5` <sup>[兴化]</sup> 中医谓肝阳引起的耳鸣：耳朵～，成天唔啊唔的。  
 1. 【[𠜻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh.md#𠜻)】`hoh7` <sup>[如皋]</sup> 扩大切口：疮上～个口子放脓。  
 1. 【[𠜻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh.md#𠜻)】`hoh7` <sup>[东台]</sup> 用尖利工具快速划破，或用耕具划开土壤：衣服捱刀～咖个口子。｜原来一个大村，后来从中间一～，分成两个小村。  
-1. 【[𠜻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh.md#𠜻)】`hoh7` <sup>[兴化]</sup> 开裂：风把雨棚～开。｜雨伞捱风～掉啊。《广韵·麦韵》呼麦切｜“～，刀破也”。  
+1. 【[𠜻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh.md#𠜻)】`hoh7` <sup>[兴化]</sup> 开裂：风把雨棚～开。｜雨伞捱风～掉啊。  
 1. 【[𢃤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh.md#𢃤)】`hoh7` <sup>[如皋]</sup> 旗子等被风吹动的样子和声音。也作“𢃎”。  
-1. 【[𢃤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh.md#𢃤)】`hoh7` <sup>[兴化]</sup> 风吹有声：旗子捱风吹得～～的。《集韵·德韵》忽或切｜“～，巾帛被风声”。  
+1. 【[𢃤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh.md#𢃤)】`hoh7` <sup>[兴化]</sup> 风吹有声：旗子捱风吹得～～的。  
 1. 【[𢃤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh.md#𢃤)】`hoh7` <sup>[泰县]</sup> 大风吹动门帘之类的东西：风把窗帘都～起来啊。  
 1. 【[𧌄虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh_chon.md#𧌄虫)】`hoh7 chon2` <sup>[如皋]</sup> 蚜虫。见huh7 chon2。  
 1. 【[咟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh.md#咟)】`hoh8` <sup>[东台]</sup> 唆使。（《集韵》“胡麦切，音获，㗲啧叫也。”）：你怎吖听他～？！  

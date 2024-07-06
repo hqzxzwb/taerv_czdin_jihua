@@ -147,7 +147,7 @@
 1. 【[作凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_den.md#作凳)】`zah7 den5` <sup>[兴化]</sup> 供木工作业用的粗大木凳。  
 1. 【[作的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_dii.md#作的)】`zah7 dii` <sup>[如皋]</sup> 见“作兴”。  
 1. 【[作对](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_duei.md#作对)】`zah7 duei5` <sup>[如东]</sup> 做对头。  
-1. 【[作而不作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_er_beh_zah.md#作而不作)】`zah7 er beh7 zah7` <sup>[如皋]</sup> ① 两可间。 ② 可能不可能：我想买，又不想买，～的。 ③ 应当不应当：现在时兴鞠躬，磕头的礼节是～的。  
+1. 【[作而不作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_er_beh_zah.md#作而不作)】`zah7 er beh7 zah7` <sup>[如皋]</sup> 两可间。可能或不可能、应当或不应当：我想买，又不想买，～的。｜现在时兴鞠躬，磕头的礼节是～的。  
 1. 【[作而不作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_er_beh_zah.md#作而不作)】`zah7 er beh7 zah7` <sup>[东台]</sup> 试试看，做好成功不成功两种打算：你帮我借点钱，不好办就算，～，不要紧。  
 1. 【[作而不作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_er_beh_zah.md#作而不作)】`zah7 er beh7 zah7` <sup>[兴化]</sup> 成败两手打算：他说的那笔钱～，有更好，没得再想别的办法。  
 1. 【[作法不是法](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_faeh_beh_shr_faeh.md#作法不是法)】`zah7 faeh7 beh7 shr6 faeh7` <sup>[兴化]</sup> 见“定法不是法”。  
@@ -712,7 +712,6 @@
 1. 【[着口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhah_keu.md#着口)】`zhah7 keu3` <sup>[泰县]</sup> 容纳的东西多。  
 1. 【[着相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhah_xian.md#着相)】`zhah7 xian5` <sup>[泰县]</sup> 饭菜：这些菜是我俫三个人中上的～。  
 1. 【[着子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhah_zz.md#着子)】`zhah7 zz` <sup>[如皋]</sup> 主意、计策、决策。  
-1. 【[遮肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhah_dv_zz.md#遮肚子)】`zhah7 dv3 zz` <sup>[如皋]</sup> 用被子覆盖住腹部。  
 1. 【[遮盖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhah_gae.md#遮盖)】`zhah7 gae5` <sup>[如东]</sup> 掩盖。  
 1. 【[遮嘴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhah_jy_r.md#遮嘴<sub>儿</sub>)】`zhah7 jy3 r` <sup>[如东]</sup> 方蟹科动物红螯相手蟹，也叫红螯蟛蜞。体长约2厘米。头胸甲呈长方形，淡紫色。螯足无毛。右螯足特大，色红，能把嘴遮住，故名；左螯足小。穴居海边泥涂中。可食。  
 1. 【[遮舌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhah_shih_r.md#遮舌<sub>儿</sub>)】`zhah7 shih8 r` <sup>[如皋]</sup> 鞋口上方的舌状鞋面。  
