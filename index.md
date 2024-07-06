@@ -141,10 +141,10 @@
 1. 【[家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga.md#家)】`ga1` <sup>[兴化]</sup> 动物经饲养己驯服：小狗小猫养～啊！  
 1. 【[家啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_a.md#家啊)】`ga1 a` <sup>[如东]</sup> 自己培养的牲畜，性情驯顺，认识自己了，称家啊。  
 1. 【[家边邻居](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_bin_lien_jy.md#家边邻居)】`ga1 bin1 lien2 jy1` <sup>[兴化]</sup> 指近邻。也说“邻居家边”。  
+1. 【[家边邻居](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_bin_lien_jy.md#家边邻居)】`ga1 bin1 lien2 jy1` <sup>[如东]</sup> 与自己家庭相近的住户。（原文作“家毗”，音不合）：我俫是～，应该互相照顾。  
+1. 【[家边邻舍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_bin_lien_sha.md#家边邻舍)】`ga1 bin1 lien2 sha5` <sup>[如东]</sup> 与自己家庭相近的住户。（原文作“家毗”，音不合）：我俫是～，何必计较。  
 1. 【[家贼难防狗不咬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_ceh_naen_fan_geu_beh_ngo.md#家贼难防狗不咬)】`ga1 ceh8 naen2 fan2 geu3 beh7 ngo3` <sup>[东台]</sup> 内部的坏人更难排查。  
 1. 【[家蚕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_cun.md#家蚕)】`ga1 cun2` <sup>[如东]</sup> 昆虫。幼虫灰白色，吃桑叶，蜕变四次，吐丝做茧，变成蛹，蛹变成蚕蛾。蚕蛾交尾产卵后就死去。幼虫吐的丝是重要的纺织品原料。也叫桑蚕。  
-1. 【[家家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_ga.md#家家)】`ga1 ga` <sup>[如东]</sup> ① （儿语）回去：我俫～。 ② （戏谑说法）死了：他己经～啊。  
-1. 【[家家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_ga.md#家家)】`ga1 ga1-3` <sup>[东台]</sup> 回家。（注意两字音调有别）  
 [更多...](./g.md)
 ## H
 1. 【[……呼啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_a.md#……呼啊)】`hv1 a` <sup>[东台]</sup> （作补语）指到了极点：这莱难吃咖～/这段路难跑啊～/他的歌儿好听吖～。  

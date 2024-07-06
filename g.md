@@ -17,6 +17,8 @@
 1. 【[家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga.md#家)】`ga1` <sup>[兴化]</sup> 动物经饲养己驯服：小狗小猫养～啊！  
 1. 【[家啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_a.md#家啊)】`ga1 a` <sup>[如东]</sup> 自己培养的牲畜，性情驯顺，认识自己了，称家啊。  
 1. 【[家边邻居](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_bin_lien_jy.md#家边邻居)】`ga1 bin1 lien2 jy1` <sup>[兴化]</sup> 指近邻。也说“邻居家边”。  
+1. 【[家边邻居](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_bin_lien_jy.md#家边邻居)】`ga1 bin1 lien2 jy1` <sup>[如东]</sup> 与自己家庭相近的住户。（原文作“家毗”，音不合）：我俫是～，应该互相照顾。  
+1. 【[家边邻舍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_bin_lien_sha.md#家边邻舍)】`ga1 bin1 lien2 sha5` <sup>[如东]</sup> 与自己家庭相近的住户。（原文作“家毗”，音不合）：我俫是～，何必计较。  
 1. 【[家贼难防狗不咬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_ceh_naen_fan_geu_beh_ngo.md#家贼难防狗不咬)】`ga1 ceh8 naen2 fan2 geu3 beh7 ngo3` <sup>[东台]</sup> 内部的坏人更难排查。  
 1. 【[家蚕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_cun.md#家蚕)】`ga1 cun2` <sup>[如东]</sup> 昆虫。幼虫灰白色，吃桑叶，蜕变四次，吐丝做茧，变成蛹，蛹变成蚕蛾。蚕蛾交尾产卵后就死去。幼虫吐的丝是重要的纺织品原料。也叫桑蚕。  
 1. 【[家家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_ga.md#家家)】`ga1 ga` <sup>[如东]</sup> ① （儿语）回去：我俫～。 ② （戏谑说法）死了：他己经～啊。  
@@ -53,8 +55,6 @@
 1. 【[家里数老好，外头数不到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_lii_shv_lo_ho_vae_teu_shv_beh_do.md#家里数老好，外头数不到)】`ga1 lii shv3 lo3 ho3 vae6 teu shv3 beh7 do5` <sup>[如皋]</sup> 在家里数一数二，在外边排不上号。  
 1. 【[家里凶，外头㞞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_lii_xion_vae_teu_son.md#家里凶，外头㞞)】`ga1 lii xion1 vae6 teu son2` <sup>[如皋]</sup> 在家里凶强、独大，在外边畏缩，无用。  
 1. 【[家门口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_men_keu.md#家门口)】`ga1 men2 keu3` <sup>[兴化]</sup> ① 住所的附近：“这不都是～的人吗？快全叫回去……”（《淮河边上的儿女》一三）》 ② 此概念可扩大到邻庄、邻县、邻省市：在～捱人家欺负，真想不通。  
-1. 【[家毗邻居](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_pi_lien_jy.md#家毗邻居)】`ga1 pi2 lien2 jy1` <sup>[如东]</sup> 与自己家庭相近的住户：我俫是～，应该互相照顾。  
-1. 【[家毗邻舍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_pi_lien_sha.md#家毗邻舍)】`ga1 pi2 lien2 sha5` <sup>[如东]</sup> 与自己家庭相近的住户：我俫是～，何必计较。  
 1. 【[家去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_qi.md#家去)】`ga1 qi` 回家去。  
 1. 【[家去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_qy.md#家去)】`ga1 qy` <sup>[如皋]</sup> 回家去。  
 1. 【[家去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_qy.md#家去)】`ga1 qy` <sup>[兴化]</sup> 从外边回家。从方位上讲，说话人在外边：“……我因为前日病了几天，～了……”（《红楼梦》三七）‖家——动趋兼表。  
