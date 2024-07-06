@@ -965,8 +965,8 @@
 1. 【[搸钉筢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_dien_pa.md#搸钉筢)】`zhen1 dien1 pa2` <sup>[如东]</sup> 钉耙柄插入钉耙脑中，用木楔加紧，叫做搸钉耙。  
 1. 【[搸𣜂/楔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_saeh.md#搸𣜂/楔)】`zhen1 saeh7` <sup>[东台]</sup> 填充空隙的小木片。  
 1. 【[搸榫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_xyen.md#搸榫)】`zhen1 xyen3` <sup>[如皋]</sup> 榫头与榫眼装配紧固。  
-1. 【[正月半](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_iuh_bun.md#正月半)】`zhen1 iuh7 bun5` <sup>[东台]</sup> 农历正月十五，即元宵节。是我国民间传统节日。  
-1. 【[正月半](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_iuh_bun.md#正月半)】`zhen1 iuh8 bun5` <sup>[兴化]</sup> 农历正月十五日，元宵节。  
+1. 【[正月半](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_iuh_bun.md#正月半)】`zhen1 iuh bun5` <sup>[东台]</sup> 农历正月十五，即元宵节。是我国民间传统节日。  
+1. 【[正月半](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_iuh_bun.md#正月半)】`zhen1 iuh bun5` <sup>[兴化]</sup> 农历正月十五日，元宵节。  
 1. 【[正月里打的兔子——有它过年，没它也过年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_iuh_lii_da_dii_tv_zz_ieu_ta_gu_nin_meh_ta_ia_gu_nin.md#正月里打的兔子——有它过年，没它也过年)】`zhen1 iuh8 lii da3 dii tv5 zz ieu3 ta1 gu5 nin2 meh8 ta1 ia3 gu5 nin2` <sup>[东台]</sup>   
 1. 【[正月十五贴门神——晚吖半个月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_iuh_sheh_v_tih_men_shen_vaen_nga_bun_gu_iuh.md#正月十五贴门神——晚吖半个月)】`zhen1 iuh8 sheh8 v3 tih7 men2 shen2 vaen3 nga bun5 gu iuh8` <sup>[东台]</sup>   
 1. 【[珍珠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zhv.md#珍珠)】`zhen1 zhv1` <sup>[如东]</sup> 蚌科动物背角无齿蚌珍珠囊中形成的无核珍珠。  

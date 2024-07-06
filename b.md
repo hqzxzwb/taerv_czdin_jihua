@@ -40,7 +40,7 @@
 1. 【[巴<sub>儿</sub>臭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_r_cheu.md#巴<sub>儿</sub>臭)】`ba1 r cheu5` <sup>[泰县]</sup> 吝啬的人。  
 1. 【[巴望](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_van.md#巴望)】`ba1 van6` <sup>[兴化]</sup> 盼望、希望：老两口～儿子早点儿成亲。｜“天下做母亲的哪有不～子女好的……”（似国怀《日月之梦·情愫》）  
 1. 【[巴心割股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_xien_guh_gv.md#巴心割股)】`ba1 xien1 guh7 gv3` <sup>[兴化]</sup> （喻）用尽精力，费尽心思：我～的培养他成人，不曾想他这吖没良心。  
-1. 【[巴星望月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_xien_van_iuh.md#巴星望月)】`ba1 xien1 van6 iuh7` <sup>[东台]</sup> ［喻］像盼星星、盼月亮一样热切地巴望。  
+1. 【[巴星望月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_xien_van_iuh.md#巴星望月)】`ba1 xien1 van6 iuh8` <sup>[东台]</sup> ［喻］像盼星星、盼月亮一样热切地巴望。（原文记音“月iuh7”）  
 1. 【[巴掌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_zhan.md#巴掌)】`ba1 zhan3` <sup>[如东]</sup> 手掌。  
 1. 【[巴掌心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_zhan_xien.md#巴掌心)】`ba1 zhan3 xien1` <sup>[兴化]</sup> 手掌心：孙悟空一千个跟头翻不出如来佛的～。  
 1. 【[巴掌心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_zhan_xien.md#巴掌心)】`ba1 zhan3 xien1` <sup>[兴化]</sup> 手掌的中心部分。  
@@ -157,13 +157,12 @@
 1. 【[把水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_shuei.md#把水)】`ba3 shuei3` <sup>[泰县]</sup> 告密。  
 1. 【[把他上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ta_shan.md#把他上)】`ba3 ta1 shan6` <sup>[如皋]</sup> 给以打击，使之吃亏。  
 1. 【[把头顉下来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_teu_qien_ha_lae.md#把头顉下来)】`ba3 teu2 qien5 ha6 lae` <sup>[东台]</sup> 把头低下来。  
-1. 【[把户槛踏咖勚掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_v_kaen_taeh_ga_i_tio.md#把户槛踏咖勚掉)】`ba3 v6-3 kaen3 taeh8 ga i6 tio` <sup>[东台]</sup> 形容登某一家门次数很多。  
+1. 【[把午槛踏咖勚掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_v_kaen_taeh.md#把午槛踏咖勚掉)】`ba3 v3 kaen3 taeh8 ga i6 tio` <sup>[东台]</sup> 形容登某一家门次数很多。  
 1. 【[把握](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_vah.md#把握)】`ba3 vah7` <sup>[如东]</sup> ① 抓住：～舵杆。 ② 成功的可能性：这次投资你有多大～？  
 1. 【[把稳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ven.md#把稳)】`ba3 ven3` <sup>[如东]</sup> 放稳：你把坛子～。  
 1. 【[把稳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ven.md#把稳)】`ba3 ven3` <sup>[兴化]</sup> ① 牢靠：他做事～，不会出岔子。 ② 物体放得平实。  
 1. 【[把戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_xi.md#把戏)】`ba3 xi` <sup>[如东]</sup> ① 杂技：做～。 ② 比喻耍手段。  
-1. 【[把戏人人会做，各有巧妙不同](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_xi_ren_ren_huei_zu_gah_ieu_qio_mio_beh_ton.md#把戏人人会做，各有巧妙不同)】`ba3 xi5 ren2 ren2 huei6 zu5 gah7 ieu3 qio3 mio6 beh7 ton2` <sup>[东台]</sup> 同做一件事，技巧不一样。  
-1. 【[把戏人人会做各有巧妙不同](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_xi_ren_ren_huei_zu_gah_ieu_qio_mio_beh_ton.md#把戏人人会做各有巧妙不同)】`ba3 xi5 ren2 ren2 huei6 zu5 gah7 ieu3 qio3 mio6 beh7 ton2` <sup>[东台]</sup> 同样做一件事，业务技巧千差万别。  
+1. 【[把戏人人会做，各有巧妙不同](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_xi_ren_ren.md#把戏人人会做，各有巧妙不同)】`ba3 xi5 ren2 ren2 huei6 zu5 gah7 ieu3 qio3 mio6 beh7 ton2` <sup>[东台]</sup> 同样做一件事，技巧千差万别。  
 1. 【[把细](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_xi.md#把细)】`ba3 xi5` <sup>[如东]</sup> 仔细：做这种事要～。  
 1. 【[把细](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_xi.md#把细)】`ba3 xi5` <sup>[兴化]</sup> 小心、仔细：他做事～，我放心。｜还是～点儿好，不要大意。  
 1. 【[把信](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_xien.md#把信)】`ba3 xien5` <sup>[如东]</sup> ① 送信。 ② 告诉对方信息。 ③ 孝子给亲戚送死信。  
