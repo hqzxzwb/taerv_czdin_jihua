@@ -1,9 +1,9 @@
 # 正月半
-zhen1 iuh7 bun5
+zhen1 iuh bun5
 > 东台方言词典
 - 农历正月十五，即元宵节。是我国民间传统节日。
 
 # 正月半
-zhen1 iuh8 bun5
+zhen1 iuh bun5
 > 兴化方言词典
 - 农历正月十五日，元宵节。
