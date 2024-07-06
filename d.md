@@ -1027,7 +1027,7 @@
 1. 【[呆瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_gua.md#呆瓜)】`dae1 gua1` <sup>[兴化]</sup> （戏）指傻里傻气的人：老维金认为“天理报应”，由于自己太聪明，才养了这个“小～”。（马春阳《两个小社员》）  
 1. 【[呆逛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_guan.md#呆逛)】`dae1 guan5` <sup>[如东]</sup> 无目的地在外面闲逛：我上午一个人在街上～。  
 1. 【[呆瘕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_ha.md#呆瘕)】`dae1 ha2` <sup>[东台]</sup> 即傻子。有时也作昵称。（“瘕”参见“瘕尿”）  
-1. 【[呆瘕<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_ha_r.md#呆瘕<sub>儿</sub>)】`dae1 ha3 r` <sup>[如皋]</sup> 傻瓜。  
+1. 【[呆𤹉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_ha_r.md#呆𤹉<sub>儿</sub>)】`dae1 ha3 r` <sup>[如皋]</sup> 傻瓜。  
 1. 【[呆货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_hu.md#呆货)】`dae1 hu5` <sup>[如皋]</sup> 同“呆瓜”。  
 1. 【[呆话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_hua.md#呆话)】`dae1 hua1` <sup>[如皋]</sup> 傻话，糊涂话，一般忌讳说的有关私生活、隐私的话。  
 1. 【[呆话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_hua.md#呆话)】`dae1 hua6` <sup>[兴化]</sup> ① 想入非非的话。 ② 被认为不吉的话：“……要和他说话，不是～，就是疯话。”（《红楼梦》七一）  
@@ -1937,6 +1937,7 @@
 1. 【[蹢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieh.md#蹢)】`dieh7` <sup>[如皋]</sup> 虫鸟停住：鸟儿～咖树上。  
 1. 【[丁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien.md#丁)】`dien1` <sup>[东台]</sup> ① 天干的第四位。 ② 蔬菜、肉类等切成的小块：肉～儿。 ③ 指人口或从事某种职业的人：壮丁；圆丁；人～兴旺。 ④ 姓氏。  
 1. 【[丁点<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_din_r.md#丁点<sub>儿</sub>)】`dien1 din3 r` <sup>[兴化]</sup> 表示极小、极少的一点儿：一～粮食能吃几天？｜～钱不够用。  
+1. 【[丁家花园](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_ga_hua_iun.md#丁家花园)】`dien1 ga1 hua1 iun2` <sup>[泰兴]</sup> 黄桥古典江南园林式建筑，丁文江先生故居。黄桥决战时陈毅办公处。  
 1. 【[丁头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_teu.md#丁头)】`dien1 teu2` <sup>[兴化]</sup> 物体或空间的一端：床～；桌子～；屋～。  
 1. 【[丁头府](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_teu_fv.md#丁头府)】`dien1 teu2 fv3` <sup>[东台]</sup> 也叫“顶头舍”，旧时农村的一种草房，通常南北向，因屋檐低，将门开在南山墙，现在已很难看到。  
 1. 【[丁头府](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_teu_fv.md#丁头府)】`dien1 teu2 fv3` <sup>[兴化]</sup> 从山墙上开门的小屋。又称“丁头屋”“丁头舍儿”：高粱瓦屋都卖掉，搭个～儿矮又小。（兴文《劝君莫赌钱》）  
@@ -1979,6 +1980,7 @@
 1. 【[钉耙大锹——不出土气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_pa_da_qio_beh_chueh_tv_qi.md#钉耙大锹——不出土气)】`dien1 pa2 da6 qio1 beh7 chueh7 tv3 qi5` <sup>[东台]</sup>   
 1. 【[钉耙头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_pa_teu.md#钉耙头)】`dien1 pa2 teu2` <sup>[如东]</sup> 钉耙齿的汇集处，有孔，供揕柄用。  
 1. 【[钉坛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_tun.md#钉坛)】`dien1 tun2` <sup>[如东]</sup> 容器。陶制。规格不一，一般的标准，身高53厘米，颈高3厘米，口直径13厘米，肩直径28厘米，底直径23厘米。用以盛酒、醋、油等物。  
+1. 【[钉子槐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_zz_huae.md#钉子槐)】`dien1 zz huae2` <sup>[泰兴]</sup> 长刺的槐树。  
 1. 【[钉子霜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_zz_shuan.md#钉子霜)】`dien1 zz shuan1` <sup>[如皋]</sup> 霜晶可接连很长，若钉子，表示霜大。  
 1. 【[靪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien.md#靪)】`dien1` <sup>[东台]</sup> 补鞋底：～前掌。  
 1. 【[顶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien.md#顶)】`dien3` 最  
@@ -2409,7 +2411,7 @@
 1. 【[倒瓤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_nan.md#倒瓤)】`do3 nan2` <sup>[如东]</sup> 瓜瓤与瓜肉脱离，表示瓜已熟透了。  
 1. 【[倒瓤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_nan.md#倒瓤)】`do3 nan2` <sup>[如皋]</sup> 瓜果过熟，果肉变烂（未坏）。  
 1. 【[倒牙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_nga.md#倒牙)】`do3 nga2` <sup>[兴化]</sup> 吃了较多的酸性食物，使牙齿感到不适：杏子吃多啊～。  
-1. 【[倒眼晴毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_ngaen_jien_mo.md#倒眼晴毛)】`do3 ngaen3 jien mo2` <sup>[兴化]</sup> 骂人或自责，谓眼睛不明：寻这吖个对象，真是倒啊眼睛毛。  
+1. 【[倒眼睛毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_ngaen_jien_mo.md#倒眼睛毛)】`do3 ngaen3 jien mo2` <sup>[兴化]</sup> 骂人或自责，谓眼睛不明：寻这吖个对象，真是倒啊眼睛毛。  
 1. 【[倒屋败舍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_oh_pae_sha.md#倒屋败舍)】`do3 oh7 pae6 sha5` <sup>[如东]</sup> 房屋破败不堪。  
 1. 【[倒墙塌壁的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_qian_taeh_bieh_dii.md#倒墙塌壁的)】`do3 qian2 taeh7 bieh7 dii` <sup>[如皋]</sup> 房屋严重毁坏的样子。  
 1. 【[倒噍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_qio.md#倒噍)】`do3 qio1` <sup>[如皋]</sup> 反刍。  

@@ -2461,6 +2461,7 @@
 1. 【[断气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_qi.md#断气)】`tun6 qi5` <sup>[如东]</sup> 人停止呼吸，表示已经死了。  
 1. 【[断七](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_qieh.md#断七)】`tun6 qieh7` <sup>[如东]</sup> 人死后，每七天举行一次祭祀，叫做烧七。共七次。第四十九天，即第七个“七”，称断七。也称终“七”。  
 1. 【[断七](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_qieh.md#断七)】`tun6 qieh7` <sup>[东台]</sup> 人死后每七天祭奠一次，第七个“七”为～，又叫“终七”。  
+1. 【[断七](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_qieh.md#断七)】`tun6 qieh7` <sup>[泰兴]</sup> 同“七七”  
 1. 【[断亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_qien.md#断亲)】`tun6 qien1` <sup>[兴化]</sup> 断绝亲威关系：前年，他俫姑表两家为老人遗产反目，从此～。｜“……我一文礼金没有，也不要孙府陪嫁，做了亲就～……”（《皮五辣子》一）  
 1. 【[断事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_shr.md#断事)】`tun6 shr6` <sup>[如皋]</sup> 判断是非，断定事理。  
 1. 【[断霜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_shuan.md#断霜)】`tun6 shuan1` <sup>[如皋]</sup> 一年中至此不再下霜。谚：清明断雪，谷雨～。  

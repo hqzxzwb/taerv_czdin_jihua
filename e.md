@@ -23,7 +23,6 @@
 1. 【[儿孙自有儿孙福，莫为儿孙当牛马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_suen_cz_ieu_er_suen_foh_mah_vei_er_suen_dan_ngeu_ma.md#儿孙自有儿孙福，莫为儿孙当牛马)】`er2 suen1 cz6 ieu3 er2 suen1 foh7 mah8 vei6 er2 suen1 dan1 ngeu2 ma3` <sup>[东台]</sup> 要教育后代自强不息。  
 1. 【[儿孙满堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_suen_mun_tan.md#儿孙满堂)】`er2 suen1 mun3 tan2` <sup>[如东]</sup> 形容家庭人丁兴旺。  
 1. 【[儿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_zz.md#儿子)】`er2 zz` <sup>[如东]</sup> 自己的下一代男孩称儿子。亲生的，称生子；收养的，称养子；过继的，称嗣子。  
-1. 【[二饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_bien.md#二饼)】`er3 bien3` <sup>[兴化]</sup> ① 麻将中二筒。 ② （借）眼镜。 ③ 谓有女人气的男人。 ④ 一种浅口的小菜碗。  
 1. 【[耳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er.md#耳)】`er3` <sup>[泰兴]</sup> 理睬：没工夫～他  
 1. 【[耳板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_baen.md#耳板)】`er3 baen3` <sup>[如皋]</sup> 独轮车的轴承架。  
 1. 【[耳边风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_bin_fon.md#耳边风)】`er3 bin1 fon1` <sup>[如东]</sup> 听人说话以后，就像风刮过去一样，并不放在心上。也称耳旁风。  
@@ -71,12 +70,12 @@
 1. 【[耳头眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_teu_ngaen_r.md#耳头眼<sub>儿</sub>)】`er3 teu ngaen3 r` <sup>[如皋]</sup> ① 耳道口。 ② 耳垂上人工穿出的小孔。  
 1. 【[耳罩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_zho_zz.md#耳罩子)】`er3 zho5 zz` <sup>[兴化]</sup> 皮毛制品，用于冬天罩在耳朵上防寒。  
 1. 【[耳子搨<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_zz_taeh_r.md#耳子搨<sub>儿</sub>)】`er3 zz taeh7 r` <sup>[如皋]</sup> 水作工人用以涂抹的工具。菠菜叶形铁板背心有L形柄。  
-1. 【[二梢子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_sho_zz.md#二梢子)】`er5 sho1 zz` <sup>[兴化]</sup> 一种小吨位的农船。  
 1. 【[二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er.md#二)】`er6` <sup>[东台]</sup> ① 排行居次：老～；一咖～的来（按顺序来）；他家～丫头在下读书。 ② 除表示数量、排序外，还有“像”“又一个”的意思：他是～张飞，太鲁莽。  
 1. 【[二巴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_ba_zz.md#二巴子)】`er6 ba1 zz` <sup>[东台]</sup> 次等水平的人：～起灴牌｜（歇后语）～喝薄酒——厚的在底下。  
 1. 【[二把手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_ba_sheu.md#二把手)】`er6 ba3 sheu3` <sup>[泰兴]</sup> 副手，位居第二位者：老李是我佼单位的～  
 1. 【[二八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_baeh.md#二八)】`er6 baeh7` <sup>[泰县]</sup> 有点儿呆。  
-1. 【[二八月，乱穿衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_baeh_iuh_lun_chun_i.md#二八月，乱穿衣)】`er6 baeh7 iuh8 lun6 chun1 i1` <sup>[东台]</sup> 农历二月和八月，气候多变，衣服也随着换。  
+1. 【[二八月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_baeh_iuh.md#二八月)】`er6 baeh7 iuh` <sup>[泰兴]</sup> 指农历二月、八月气候宜人、农活最少的时光。  
+1. 【[二八月，乱穿衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_baeh_iuh_lun.md#二八月，乱穿衣)】`er6 baeh7 iuh8 lun6 chun1 i1` <sup>[东台]</sup> 农历二月和八月，气候多变，衣服也随着换。  
 1. 【[二八京腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_baeh_jien_qian.md#二八京腔)】`er6 baeh7 jien1 qian1` <sup>[兴化]</sup> 旧指不地道的普通话：他在北方几年，学得一口的～。  
 1. 【[二板浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_baen_jian.md#二板浆)】`er6 baen3 jian5` <sup>[泰县]</sup> 第二次。  
 1. 【[二不溜秋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_beh_lieu_qieu.md#二不溜秋)】`er6 beh lieu1 qieu1` <sup>[泰县]</sup> ① 两头不落实：这件事～的。 ② 人或事不合规范。  
@@ -85,7 +84,9 @@
 1. 【[二不过三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_beh_gu_saen.md#二不过三)】`er6 beh7 gu5 saen1` <sup>[东台]</sup> ① 连续两次失误，兆头不好。 ② 有些事要经过三次以上试验才能成功。  
 1. 【[二不愣登](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_beh_len_den.md#二不愣登)】`er6 beh7 len6 den1` <sup>[泰兴]</sup> 愣乎乎的样子  
 1. 【[二不愣登的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_beh_len_den.md#二不愣登的)】`er6 beh7 len6 den1 dii` <sup>[东台]</sup> ① 同“二里不敦”（有点不伦不类的角色） ② 傻，愣头愣脑的样子  
+1. 【[二不离三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_beh_li_saen.md#二不离三)】`er6 beh7 li2 saen1` <sup>[泰兴]</sup> 谓有第二次还将会有第三次。  
 1. 【[二不瑕五](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_beh_xia_v.md#二不瑕五)】`er6 beh7 xia2 v3` <sup>[东台]</sup> 傻乎乎的样子。  
+1. 【[二饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_bien.md#二饼)】`er6 bien3` <sup>[兴化]</sup> ① 麻将中二筒。 ② （借）眼镜。 ③ 谓有女人气的男人。 ④ 一种浅口的小菜碗。  
 1. 【[二包头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_bo_teu.md#二包头)】`er6 bo1 teu2` <sup>[如东]</sup> 帆船的第三舱。  
 1. 【[二宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_bo.md#二宝)】`er6 bo3` <sup>[如皋]</sup> 行二的孩子。  
 1. 【[二百钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_boh_qin.md#二百钱)】`er6 boh qin2` <sup>[兴化]</sup> ① （借）金钱、名誉之类，也说“二百文”：覅狠，我没得～输把你！ ② 所谓魂魄：～吓咖跑掉啊。｜把你～买下来！（打得灵魂出窍）  
@@ -159,6 +160,7 @@
 1. 【[二婚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_huen.md#二婚)】`er6 huen1` <sup>[如东]</sup> 已经结过婚的男人或女人再婚，称二婚。  
 1. 【[二婚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_huen.md#二婚)】`er6 huen1` <sup>[兴化]</sup> 改嫁或续弦者。  
 1. 【[二婚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_huen.md#二婚)】`er6 huen1` <sup>[泰兴]</sup> 再婚，也称“二婚头”、“填房”。  
+1. 【[二混子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_huen_zz.md#二混子)】`er6 huen5 zz` <sup>[泰兴]</sup> 二流子，混日子不务正事的人。  
 1. 【[二乎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_hv.md#二乎)】`er6 hv1` <sup>[泰兴]</sup> 畏缩，犹豫：要跟我搝？哼，我才不～他唻！  
 1. 【[二胡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_hv.md#二胡)】`er6 hv2` <sup>[如东]</sup> 胡琴的一种，比京胡大，琴筒用木头做成，前端稍大，蒙蟒皮，有两根弦，声音低沉圆润。  
 1. 【[二胡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_hv.md#二胡)】`er6 hv2` <sup>[泰兴]</sup> 胡琴的一种。长三尺四寸左右，琴筒用木制成，一端蒙蟒皮或蛇皮，有内外二弦，声音柔和悦耳。四弦者称“四胡”。民间老幼多有喜好胡琴者。  
@@ -169,14 +171,16 @@
 1. 【[二样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_ian.md#二样)】`er6 ian6` <sup>[兴化]</sup> 不同样，多用于否定：他俫两个人的脾气没得～。  
 1. 【[二样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_ian.md#二样)】`er6 ian6` <sup>[泰兴]</sup> 两样，两个样子：箇批货一式头，没得～  
 1. 【[二一添作五](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_ieh_tin_zah_v.md#二一添作五)】`er6 ieh7 tin1 zah7 v3` <sup>[泰兴]</sup> 珠算除法的一句口诀，二分之一的意思。借指双方平分或平均承担责任和任务。  
+1. 【[二月二，家家撑船带女<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_iuh_er_ga.md#二月二，家家撑船带女<sub>儿</sub>)】`er6 iuh er6 ga1 ga1 chen1 chun2 dae5 ny3 r` <sup>[东台]</sup> 水乡民俗，农历二月二接女儿回家省亲。  
+1. 【[二月二，家家人家带女<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_iuh_er_ga.md#二月二，家家人家带女<sub>儿</sub>)】`er6 iuh er6 ga1 ga1 ren2 ga1 dae5 ny3 r` <sup>[泰兴]</sup> 民俗。农历二月初二，娘家都要带已出嫁的女儿回来团聚。乡间有“～，不带女儿是穷鬼儿”一说。  
 1. 【[二月二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_iuh_er.md#二月二)】`er6 iuh8 er6` <sup>[如皋]</sup> ① 大落灯节。旧时家家从正月十三开始点天灯，至此日落灯。 ② 女儿节。出嫁女回母家过节。谚语：二月二，挑蒿儿，沰饼儿，带女儿。不带女儿，穷鬼儿，女儿不来，烂腿儿。盼女之意，溢于言表。 ③ 龙抬头：此时潜龙已醒。抬头，尚未走动。以物侯表季节气象。  
-1. 【[二月二，家家撑船带女<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_iuh_er_ga_ga_chen_chun_dae_ny_r.md#二月二，家家撑船带女<sub>儿</sub>)】`er6 iuh8 er6 ga1 ga1 chen1 chun2 dae5 ny3 r` <sup>[东台]</sup> 水乡民俗，农历二月二接女儿回家省亲。  
 1. 【[二家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_jia.md#二家)】`er6 jia1` <sup>[如东]</sup> 第二：他是～。  
 1. 【[二架](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_jia.md#二架)】`er6 jia5` <sup>[如东]</sup> 正梁往下的第二根横梁。前边的称前二架，后边有称后二架。  
 1. 【[二接子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_jih_zz.md#二接子)】`er6 jih7 zz` <sup>[兴化]</sup> ① 中途接力的人：他要的东西捱～送吖走啊。 ② 中途将人或物截走：路上遇到～，把一车子木材拦吖去啊！  
 1. 【[二叫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_jio_zz.md#二叫子)】`er6 jio5 zz` <sup>[如皋]</sup> 高音胡琴。  
 1. 【[二豭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_ka_zz.md#二豭子)】`er6 ka3 zz` <sup>[东台]</sup> ［喻］本指半大的猪，喻指不大不小的人物。  
 1. 【[二柜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_kuei.md#二柜)】`er6 kuei6` <sup>[泰县]</sup> 站在头柜之后，生意经略差一点的人。  
+1. 【[二郎腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_lan_tuei.md#二郎腿)】`er6 lan tuei3` <sup>[泰兴]</sup> 把一条腿搁在另一条腿上的坐姿。  
 1. 【[二郎神的外甥——不爱舅（旧）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_lan_shen_dii_vae_shen_beh_ngae_qieu.md#二郎神的外甥——不爱舅（旧）)】`er6 lan2 shen2 dii vae6 shen1 beh7 ngae5 qieu6` <sup>[东台]</sup>   
 1. 【[二郎腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_lan_tuei.md#二郎腿)】`er6 lan2 tuei3` <sup>[如东]</sup> 坐凳时，一条腿搁在另一条腿上，叫做二郎腿，也叫跷二郎腿。  
 1. 【[二勒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_leh_zz.md#二勒子)】`er6 leh8 zz` <sup>[如东]</sup> 中等货：这些鱼都是～。  
@@ -194,6 +198,8 @@
 1. 【[二里不敦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_lii_beh_den.md#二里不敦)】`er6 lii beh7 den1` <sup>[泰县]</sup> （禁忌语）痴呆。  
 1. 【[二里不敦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_lii_beh_den.md#二里不敦)】`er6 lii beh7 den1` <sup>[东台]</sup> 有点不伦不类的角色。  
 1. 【[二老大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_lo_da.md#二老大)】`er6 lo3 da6` <sup>[如东]</sup> 老大的助手。负责日常工作，并开（摇）舢板。也称二副。二老大的份额为1.5倍。  
+1. 【[二码货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_ma_hu.md#二码货)】`er6 ma hu5` <sup>[泰兴]</sup> ① 二等品，次品，质量很差的产品。 ② 引喻人品差者：庄西头李家二少爷，人品太差，是个～。  
+1. 【[二马不离伴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_ma_beh_li.md#二马不离伴)】`er6 ma3 beh7 li2 pun6` <sup>[泰兴]</sup> 喻关系密切，形影不离：他佼两个人合得来，天天～。  
 1. 【[二门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_men.md#二门)】`er6 men2` <sup>[泰兴]</sup> 指大门内的一道总门  
 1. 【[二门堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_men_tan.md#二门堂)】`er6 men2 tan2` <sup>[如皋]</sup> 二门的过道式房屋，门前用小号“石户儿”。  
 1. 【[二锚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_mo.md#二锚)】`er6 mo2` <sup>[如东]</sup> 分量比大锚轻的锚，称二锚。  
@@ -225,6 +231,7 @@
 1. 【[二十八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_sheh_baeh.md#二十八)】`er6 sheh8 baeh7` 表示不存在的时间或者事情  
 1. 【[二十一天不出小鸡——坏蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_sheh_ieh_tin_beh_chueh_xio_ji_huae_taen.md#二十一天不出小鸡——坏蛋)】`er6 sheh8 ieh7 tin1 beh7 chueh7 xio3 ji1 huae6 taen6` <sup>[东台]</sup>   
 1. 【[二十响](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_sheh_xian.md#二十响)】`er6 sheh8 xian3` <sup>[泰县]</sup> 香烟。  
+1. 【[二梢子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_sho_zz.md#二梢子)】`er6 sho1 zz` <sup>[兴化]</sup> 一种小吨位的农船。  
 1. 【[二梢子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_sho_zz.md#二梢子)】`er6 sho1-3 zz` <sup>[泰县]</sup> 载重一吨半至两吨的农船。  
 1. 【[二师兄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_shr_xion.md#二师兄)】`er6 shr1 xion1` <sup>[如皋]</sup> 佛门称和尚为大师兄，尼姑为～。  
 1. 【[二时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_shr.md#二时)】`er6 shr2` <sup>[如皋]</sup> “时天”的中段，在夏至到小暑的中段。  

@@ -1767,6 +1767,7 @@
 1. 【[半百](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_boh.md#半百)】`bun5 boh7` <sup>[如东]</sup> 五十：他已过～。  
 1. 【[半半拉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_bun_la_r.md#半半拉<sub>儿</sub>)】`bun5 bun5 la1 r` <sup>[如东]</sup> ① 不完全：剩下～。 ② 没有全部完成：割稻割咖个～。  
 1. 【[半大天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_da_tin.md#半大天)】`bun5 da tin1` <sup>[兴化]</sup> 相当长一段时间：等他～，他才不慌不忙的跑过来。  
+1. 【[半打落下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_da_lah_ha.md#半打落下)】`bun5 da lah ha1` <sup>[泰兴]</sup> 事情进程未完：伢儿家坐不住，作业做得～的，就去耍子啊  
 1. 【[半大天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_da_tin.md#半大天)】`bun5 da6 tin1` <sup>[如东]</sup> 很长时间：去啊～还不家来。  
 1. 【[半大天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_da_tin.md#半大天)】`bun5 da6 tin1` <sup>[如皋]</sup> ① 好久。 ② 等待很久。感觉心焦、不耐烦、有责怪义。  
 1. 【[半呆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_dae.md#半呆)】`bun5 dae1` <sup>[如东]</sup> 不聪明：他是个～。  
