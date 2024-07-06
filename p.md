@@ -84,10 +84,10 @@
 1. 【[怕怕瑟瑟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_pa_seh_seh.md#怕怕瑟瑟)】`pa5 pa5 seh7 seh7` <sup>[如东]</sup> 因为害怕而身体微微擅抖：她～的，不敢进门。  
 1. 【[怕怕瑟瑟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_pa_seh_seh.md#怕怕瑟瑟)】`pa5 pa5 seh7 seh7` <sup>[泰县]</sup> ① 胆小：这人做事～。 ② 羞答答：这姑娘看到生人～的。  
 1. 【[怕怕𠗼𠗼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_pa_seh_seh.md#怕怕𠗼𠗼)】`pa5 pa5 seh7 seh7` <sup>[如皋]</sup> 害怕的样子。  
-1. 【[怕惧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_qy.md#怕惧)】`pa5 qy` <sup>[东台]</sup> 令人害怕。  
-1. 【[怕惧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_qy.md#怕惧)】`pa5 qy` <sup>[兴化]</sup> 恐俱心理：我们给他写封警告信，丢点～给他，叫他少要为非作歹。｜“……风丫头在外头，他们还有个～……”（《红楼梦》五五）  
-1. 【[怕惧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_qy.md#怕惧)】`pa5 qy6` <sup>[如皋]</sup> 畏惧严厉的规矩。  
-1. 【[怕惧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_qy.md#怕惧)】`pa5 qy6` <sup>[如东]</sup> 规矩：伢儿不能无～。压力。｜要给点儿～。  
+1. 【[怕惧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_qy.md#怕惧)】`pa5 qy` <sup>[东台]</sup> 令人害怕。（原文音pa5 jy5）  
+1. 【[怕惧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_qy.md#怕惧)】`pa5 qy` <sup>[兴化]</sup> 恐惧心理：我们给他写封警告信，丢点～给他，叫他少要为非作歹。｜“……风丫头在外头，他们还有个～……”（《红楼梦》五五）  
+1. 【[怕惧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_qy.md#怕惧)】`pa5 qy6` <sup>[如皋]</sup> 畏惧严厉的规矩。（原文音pa5 jy5）  
+1. 【[怕惧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_qy.md#怕惧)】`pa5 qy6` <sup>[如东]</sup> 规矩。（原文音pa5 jy5）：伢儿不能无～。压力。｜要给点儿～。  
 1. 【[怕人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_ren_zz.md#怕人子)】`pa5 ren zz` <sup>[如皋]</sup> 令人害怕：她发起疯来动刀动枪的，真～。  
 1. 【[怕人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_ren_zz.md#怕人子)】`pa5 ren zz` <sup>[如东]</sup> 令人害怕：刮这吖大的暴风，～啊。  
 1. 【[怕人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_ren_zz.md#怕人子)】`pa5 ren zz` <sup>[兴化]</sup> 令人害怕：啊呀，这吖响的炸雷，真～！｜“师父啊，切莫出风地里去。～……”（《西游记》五三）  

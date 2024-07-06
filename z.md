@@ -1197,10 +1197,10 @@
 1. 【[沾光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_guan.md#沾光)】`zhin1 guan1` <sup>[如东]</sup> 凭借别人或某种事物而得到好处。  
 1. 【[沾咸味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_haen_vei.md#沾咸味)】`zhin1 haen2 vei6` <sup>[如皋]</sup> 受牵连。  
 1. 【[沾咸味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_haen_vei.md#沾咸味)】`zhin1 haen2 vei6` <sup>[兴化]</sup> 指与案件或事件有牵连：老吴的儿子涉嫌贪污，他自己也～。  
-1. 【[沾亲带放](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_qien_dae_gv.md#沾亲带放)】`zhin1 qien1 dae5 gv5` <sup>[兴化]</sup> 指亲、朋、邻里等方面关系：她们大都沾点亲。即或不是～，一说起是无为哪里哪里的，很快就熟了。（汪曾祺《小芳》）‖也说“沾亲搭故”。  
 1. 【[沾亲带故](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_qien_dae_gv.md#沾亲带故)】`zhin1 qien1 dae5 gv5` <sup>[东台]</sup> 多少有些亲戚关系。  
-1. 【[沾亲搭故](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_qien_dae_gv.md#沾亲搭故)】`zhin1 qien1 dae5 gv5` <sup>[如皋]</sup> 细算下来是亲戚的亲戚（或朋友的朋友），但很远。  
-1. 【[沾亲搭故](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_qien_daeh_gv.md#沾亲搭故)】`zhin1 qien1 daeh7 gv5` <sup>[如皋]</sup> 沾亲带故。  
+1. 【[沾亲带故](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_qien_dae_gv.md#沾亲带故)】`zhin1 qien1 dae5 gv5` <sup>[兴化]</sup> 指亲、朋、邻里等方面关系：她们大都沾点亲。即或不是～，一说起是无为哪里哪里的，很快就熟了。（汪曾祺《小芳》）‖也说“沾亲搭故”。  
+1. 【[沾亲搭故](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_qien_daeh_gv.md#沾亲搭故)】`zhin1 qien1 daeh7 gv5` <sup>[如皋]</sup> 细算下来是亲戚的亲戚（或朋友的朋友），但很远。  
+1. 【[沾亲搭故](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_qien_daeh_gv.md#沾亲搭故)】`zhin1 qien1 daeh7 gv5` <sup>[兴化]</sup> 沾亲带故。  
 1. 【[沾软](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_run.md#沾软)】`zhin1 run3` <sup>[兴化]</sup> 贪便宜：他纵容女儿偷人，一家子从中～。  
 1. 【[沾身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_shen.md#沾身)】`zhin1 shen1` <sup>[兴化]</sup> 发生性关系：结婚一个多月，她不曾让男的～。｜“少妇不必含羞，那人～无有？”（《施公案》八二）  
 1. 【[沾沾搭搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_zhin_daeh_daeh.md#沾沾搭搭)】`zhin1 zhin1 daeh7 daeh7` <sup>[如东]</sup> 爱占小便宜：这人贪小便宜，就喜欢～的。  
