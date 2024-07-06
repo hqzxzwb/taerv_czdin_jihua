@@ -505,9 +505,9 @@
 1. 【[驳墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_qian.md#驳墙)】`bah7 qian2` <sup>[如东]</sup> 倚墙砌墙，叫做驳墙。  
 1. 【[驳岸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_un.md#驳岸)】`bah7 un6` <sup>[如东]</sup> 以砖石加固堤岸，叫做驳岸。  
 1. 【[驳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_zz.md#驳子)】`bah7 zz` <sup>[兴化]</sup> ① 运货的船：铁～；水泥～。 ② 短途货运的小型敞口船。  
+1. 【[𠺣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah.md#𠺣)】`bah7` <sup>[如皋]</sup> 指关节响声。  
 1. 【[𠺣鼓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_gv_r.md#𠺣鼓<sub>儿</sub>)】`bah7 gv3 r` <sup>[如皋]</sup> 见“𠺣子”。  
 1. 【[𠺣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_zz.md#𠺣子)】`bah7 zz` <sup>[如皋]</sup> 一种硬面扁鼓，其声清越，是京剧乐队的指挥鼓。  
-1. 【[𥭖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah.md#𥭖)】`bah7` <sup>[如皋]</sup> 指关节响声。  
 1. 【[𪙍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah.md#𪙍)】`bah7` <sup>[如皋]</sup> 嘴一张一合地：嘴只～。  
 1. 【[𪙍𪙍的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_bah_dii.md#𪙍𪙍的)】`bah7 bah7 dii` <sup>[如皋]</sup> 无可奈何地，只好：他没处抵赖啊，～承认事实。  
 1. 【[𪙍𪙍嘴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_bah_zuei_r.md#𪙍𪙍嘴<sub>儿</sub>)】`bah7 bah7 zuei3 r` <sup>[如东]</sup> 帆船上的一种大滑车。滑车的一侧有一块活动铁板，可以打开和关闭，像嘴一样。这种工具叫做𪙍𪙍嘴儿。  
@@ -598,8 +598,8 @@
 1. 【[不着塘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_chah_tan.md#不着塘)】`beh7 chah8 tan2` <sup>[如东]</sup> 不实在：他说的话～。  
 1. 【[不常行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_chan_xien.md#不常行)】`beh7 chan2 xien2` <sup>[如皋]</sup> 不轻易，难得，不经常：现在～上图书馆去。  
 1. 【[不长钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_chan_qin.md#不长钱)】`beh7 chan2 qin2` 形容某生意挣不到钱  
-1. 【[不值事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_cheh_shr.md#不值事)】`beh7 cheh7 shr6` <sup>[如皋]</sup> 不当回事，毫不尊重：他拿你～！  
 1. 【[不值钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_cheh_qin.md#不值钱)】`beh7 cheh8 qin2` <sup>[如皋]</sup> 詈语，指品质低劣，人品低下。  
+1. 【[不值事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_cheh_shr.md#不值事)】`beh7 cheh8 shr6` <sup>[如皋]</sup> 不当回事，毫不尊重：他拿你～！  
 1. 【[不成材](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_chen_cae.md#不成材)】`beh7 chen2 cae2` <sup>[如东]</sup> 没有长成有用的木材。比喻没有才能，没有出息：这个伢儿懒，～。  
 1. 【[不成器](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_chen_qi.md#不成器)】`beh7 chen2 qi5` <sup>[如东]</sup> ① 没有做成有用的器具。 ② 比喻没有出息：这个伢儿～。 ③ 比喻不正经：这个人到老都～。  
 1. 【[不成文](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_chen_ven.md#不成文)】`beh7 chen2 ven2` <sup>[兴化]</sup> 不规范、不配套：你买的这几件家具格式不同，颜色又杂，～。｜你这件衣裳不棉、不夹，真～。  
@@ -664,6 +664,7 @@
 1. 【[不得下市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_deh_xia_shr.md#不得下市)】`beh7 deh7 xia6 shr6` <sup>[如东]</sup> 不好结束。  
 1. 【[不登劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_den_jien.md#不登劲)】`beh7 den1 jien5` <sup>[如东]</sup> 信心不足：对于这次行动，许多人都～。  
 1. 【[不登三十六位](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_den_saen_sheh_loh_vei.md#不登三十六位)】`beh7 den1 saen1 sheh8 loh8 vei6` <sup>[如皋]</sup> 不在“三十六位尊神”中。意为品位低下的人。  
+1. 【[不呧咑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_di_da.md#不呧咑)】`beh7 di1 da1` <sup>[东台]</sup> 不啰唆；不理会。  
 1. 【[不抵款](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_di_kun.md#不抵款)】`beh7 di3 kun3` <sup>[东台]</sup> 不可靠，不可依赖。  
 1. 【[不顶事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_dien_shr.md#不顶事)】`beh7 dien3 shr6` <sup>[如东]</sup> 不管用：这样处理～。  
 1. 【[不顶事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_dien_shr.md#不顶事)】`beh7 dien3 shr6` <sup>[泰县]</sup> 不管用：这个人～。  
@@ -698,7 +699,7 @@
 1. 【[不服气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_fv_qi.md#不服气)】`beh7 fv2 qi5` <sup>[如东]</sup> 忍不下遭受的怨气：他还是～。  
 1. 【[不尴尬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_gaen_ga.md#不尴尬)】`beh7 gaen1 ga5` <sup>[兴化]</sup> ① 不方便：如果～，尽管来找我。 ② 处于两难境地，不好处理：“这事～……银子又用的精光，还剩了一屁股两肋巴的债……”（《儒林外史》五四） ③ 事有可疑：“大姐，这两个人来的～。”（《水浒传》十）  
 1. 【[不够动筷<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_geu_ton_kuae_r.md#不够动筷<sub>儿</sub>)】`beh7 geu5 ton6 kuae5 r` <sup>[如皋]</sup> 状饭、菜少。  
-1. 【[不够渍啊牙缝<sub>儿</sub>里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_geu_zz_a_nga_fon_r_lii.md#不够渍啊牙缝<sub>儿</sub>里)】`beh7 geu5 zz5 a nga2 fon6 r lii` <sup>[如皋]</sup> 状吃的东西太少了。  
+1. 【[不够啧啊牙缝<sub>儿</sub>里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_geu_zz_a_nga_fon_r_lii.md#不够啧啊牙缝<sub>儿</sub>里)】`beh7 geu5 zz5 a nga2 fon6 r lii` <sup>[如皋]</sup> 状吃的东西太少了。  
 1. 【[不公不法](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_gon_beh_faeh.md#不公不法)】`beh7 gon1 beh7 faeh7` <sup>[兴化]</sup> 违背道德和法纪：他仗吖老子的势，常做些～的事。｜那牛皋吃惯了的人，怎熬得清淡，未免做些～的事。（《说岳全传》二一）  
 1. 【[不过意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_gu_i.md#不过意)】`beh7 gu1 i5` 不好意思，过意不去  
 1. 【[不裹嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_gu_jy.md#不裹嘴)】`beh7 gu3 jy3` <sup>[如皋]</sup> 自家人破坏自己的威信：不要看他说嘴叭叭的，他家儿子～，还做贼吤（gae）！  
@@ -748,7 +749,6 @@
 1. 【[不要气，只要记](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_io_qi_zheh_io_ji.md#不要气，只要记)】`beh7 io5 qi5 zheh7 io5 ji5` <sup>[东台]</sup> 受到挫折气馁是没用的，只有记取教训才能进步。  
 1. 【[不要惹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_io_ra.md#不要惹)】`beh7 io5 ra3` <sup>[如皋]</sup> 不要摸（碰）。  
 1. 【[不要问得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_io_ven_deh.md#不要问得)】`beh7 io5 ven6 deh7` <sup>[如皋]</sup> 不须询问，肯定是：鞋子寻不到啊，～，是细狗儿衔的。  
-1. 【[不叽𠯈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_ji_da.md#不叽𠯈)】`beh7 ji1 da6` <sup>[东台]</sup> 不啰唆；不理会。  
 1. 【[不经厨子手，总有酱腥气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_jien_chv_zz_sheu_zon_ieu_jian_xien_qi.md#不经厨子手，总有酱腥气)】`beh7 jien1 chv2 zz sheu3 zon3 ieu3 jian5 xien1 qi5` <sup>[东台]</sup> 未经业内行家操作总有缺憾。  
 1. 【[不景气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_jien_qi.md#不景气)】`beh7 jien3 qi5` <sup>[如东]</sup> 不兴旺：棉织业～。  
 1. 【[不见不散](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_jin_beh_saen.md#不见不散)】`beh7 jin5 beh7 saen5` <sup>[如皋]</sup> 见“板等”。  
@@ -1211,8 +1211,8 @@
 1. 【[笔下超生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_xia_cho_shen.md#笔下超生)】`bieh7 xia6 cho1 shen1` <sup>[东台]</sup> 在书写判决书或给某人写结论文书时，尽可能地给予宽容或开脱。  
 1. 【[笔竹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_zhoh.md#笔竹)】`bieh7 zhoh7` <sup>[如皋]</sup> 竹子的一个品种，可制作毛笔杆。  
 1. 【[辟鼠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_chv.md#辟鼠)】`bieh7 chv3` <sup>[如皋]</sup> 镇慑、捕捉老鼠。  
+1. 【[辟鼠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_chv.md#辟鼠)】`bieh7 chv3` <sup>[兴化]</sup> 猫伏鼠能力  
 1. 【[逼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh.md#逼)】`bieh7` <sup>[兴化]</sup> ① 用冷水浸泡：打井水～西瓜。 ② 被冷水突然刺激：热身子经冷水一～，容易感冒。｜那进忠是被烧酒碎了的人，又被水一～……（《梼杌闲评》十八）  
-1. 【[逼鼠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_chv.md#逼鼠)】`bieh7 chv3` <sup>[兴化]</sup> 猫伏鼠能力：“……这猫～是不必说的。但有这猫的去处，周围十里之内，老鼠去的远远的……”（《醒世姻缘传》六）也作“辟鼠”。  
 1. 【[逼打成招](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_da_chen_zho.md#逼打成招)】`bieh7 da3 chen2 zho1` <sup>[东台]</sup> 严刑拷打逼迫对方招供。  
 1. 【[逼人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_ren.md#逼人)】`bieh7 ren2` <sup>[东台]</sup> 侵袭肌体：四九心里，寒气～，冷得人直打寒战。  
 1. 【[逼杀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_shaeh.md#逼杀)】`bieh7 shaeh7` <sup>[东台]</sup> 迫害致死：她活剥剥的捱～咖。  
@@ -1274,8 +1274,8 @@
 1. 【[别气/憋气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bih_qi.md#别气/憋气)】`bih7 qi5` <sup>[兴化]</sup> 负气：她跟妈妈～，睏吖床上不肯起来。｜“小的妻子向来与小的争竞口舌，～归家的。丈人欺心，藏过了……”（《初刻》二六）  
 1. 【[别腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bih_tuei.md#别腿)】`bih7 tuei3` <sup>[兴化]</sup> ① 象棋术语：马～，跳不出。 ② 使绊子：工作有人～，难开展。  
 1. 【[别爪<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bih_zho_r.md#别爪<sub>儿</sub>)】`bih7 zho3 r` <sup>[兴化]</sup> 一种病态：手或足的五指并拢，弯曲僵硬。  
-1. 【[憋憋循循](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bih_bih_xyen_xyen.md#憋憋循循)】`bih7 bih7 xyen2 xyen2` <sup>[东台]</sup> 规规矩矩，一个大气也不敢出的样子：你朝他相相，～的，哪许有个男子汉的气概！  
-1. 【[憋憋驯驯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bih_bih_xyen_xyen.md#憋憋驯驯)】`bih7 bih7 xyen2 xyen2` <sup>[泰县]</sup> 畏缩：这伢儿捱他俫吓咖～的。  
+1. 【[憋憋恂恂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bih_bih_xyen_xyen.md#憋憋恂恂)】`bih7 bih7 xyen2 xyen2` <sup>[东台]</sup> 规规矩矩，一个大气也不敢出的样子：你朝他相相，～的，哪许有个男子汉的气概！  
+1. 【[憋憋恂恂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bih_bih_xyen_xyen.md#憋憋恂恂)】`bih7 bih7 xyen2 xyen2` <sup>[泰县]</sup> 畏缩：这伢儿捱他俫吓咖～的。  
 1. 【[憋住气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bih_chv_qi.md#憋住气)】`bih7 chv6 qi5` <sup>[如东]</sup> 暂时抑制呼吸：～潜下去。  
 1. 【[憋住气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bih_chv_qi.md#憋住气)】`bih7 chv6 qi5` <sup>[如皋]</sup> ① 忍住，不呼吸。 ② 忍住，不生气，不发怒。  
 1. 【[憋气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bih_qi.md#憋气)】`bih7 qi5` <sup>[如东]</sup> 有委屈或烦恼而不能发泄出来：他一个人在房里～。  
@@ -1370,6 +1370,7 @@
 1. 【[扁担肩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_daen_jin_zz.md#扁担肩子)】`bin3 daen jin1 zz` <sup>[如皋]</sup> 扁担两头的止滑装置。木扁担装12根短桩，竹扁担削成蛇头形。  
 1. 【[扁担系<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_daen_xi_r.md#扁担系<sub>儿</sub>)】`bin3 daen xi6 r` <sup>[如皋]</sup> ① 一付担绳。 ② 一付货络儿。  
 1. 【[扁担](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_daen.md#扁担)】`bin3 daen5` <sup>[如东]</sup> 工具。长条形，木制或竹制。用以挑东西。  
+1. 【[扁担](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_daen.md#扁担)】`bin3 daen5-taen` <sup>[东台]</sup> 挑东西或抬东西的工具，用竹片或木头制成。  
 1. 【[扁担结](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_daen_jih.md#扁担结)】`bin3 daen5 jih7` <sup>[如东]</sup> 扁担绳捆东西后，将绳的一端在扁担钩子上打成剪刀结，不死，一拉就开。  
 1. 【[扁担肩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_daen_jin_zz.md#扁担肩子)】`bin3 daen5 jin1 zz` <sup>[如东]</sup> 扁担两端的装置，木扁担钉两根桩儿，竹扁担做成蘑姑形，起阻止扁担绳滑脱作用。  
 1. 【[扁担绳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_daen_shen.md#扁担绳)】`bin3 daen5 shen2` <sup>[如东]</sup> 专用麻绳，一头粗，一头细，粗的一头系着钩子。  
@@ -1385,7 +1386,6 @@
 1. 【[扁食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_sheh.md#扁食)】`bin3 sheh` <sup>[泰县]</sup> 饺儿，馄饨。  
 1. 【[扁食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_sheh.md#扁食)】`bin3 sheh8` <sup>[如东]</sup> ① 馄饨，也称饺儿 ② 节令食品。用小麦面做皮子，糖、芝麻、花生末做馅儿，包成各种形状，如畚箕状、针箍状、帽子状等，煮熟或蒸熟，在阴历七月十五日早晨吃。  
 1. 【[扁塌塌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_taeh_taeh.md#扁塌塌)】`bin3 taeh7 taeh7` <sup>[如皋]</sup> 见“扁粑粑”。  
-1. 【[扁担](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_taen.md#扁担)】`bin3 taen` <sup>[东台]</sup> 挑东西或抬东西的工具，用竹片或木头制成。  
 1. 【[扁螳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_tan.md#扁螳)】`bin3 tan2` <sup>[兴化]</sup> 壁虱。也称“臭壁”“臭虫”。  
 1. 【[扁豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_teu.md#扁豆)】`bin3 teu6` 豆科植物扁豆。  
 1. 【[扁豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_teu.md#扁豆)】`bin3 teu6` <sup>[东台]</sup> 一年生草本植物，嫩荚是普通蔬菜，白～种子可入药。  
@@ -1604,7 +1604,7 @@
 1. 【[北猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_zhv.md#北猪)】`boh7 zhv1` <sup>[兴化]</sup> ① 产于两准及盐阜地区的猪，相对于产自江（堰）曲（塘）海（安）的南猪。 ② （喻）矮胖粗黑的女人：她养吖像个～。  
 1. 【[北灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_zo.md#北灶)】`boh7 zo5` <sup>[如皋]</sup> 北方的盐场。通常指大丰县一带。谚云：“北灶的手——𢜶（䴛）手”。  
 1. 【[卜浪鼓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_lan_gv.md#卜浪鼓)】`boh7 lan6 gv3` <sup>[东台]</sup> 即拨浪鼓，儿童玩具，旧时糖货郎担子用其招徕顾客。  
-1. 【[掰豆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_teu_zz.md#掰豆子)】`boh7 teu6 zz` <sup>[东台]</sup> 将豆角（多指蚕豆）用食指、中指托住，大拇指在中间用力一摁，壳破豆出。  
+1. 【[擘豆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_teu_zz.md#擘豆子)】`boh7 teu6 zz` <sup>[东台]</sup> 将豆角（多指蚕豆）用食指、中指托住，大拇指在中间用力一摁，壳破豆出。  
 1. 【[柏油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_ieu.md#柏油)】`boh7 ieu2` <sup>[如东]</sup> 沥青。  
 1. 【[柏油路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_ieu_lv.md#柏油路)】`boh7 ieu2 lv6` <sup>[如东]</sup> 路面由沥青铺成的公路，称柏油路。  
 1. 【[柏油马路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_ieu_ma_lv.md#柏油马路)】`boh7 ieu2 ma3 lv6` <sup>[东台]</sup> 沥青路面的通称。  
@@ -1764,7 +1764,7 @@
 1. 【[半百](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_boh.md#半百)】`bun5 boh7` <sup>[如东]</sup> 五十：他已过～。  
 1. 【[半半拉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_bun_la_r.md#半半拉<sub>儿</sub>)】`bun5 bun5 la1 r` <sup>[如东]</sup> ① 不完全：剩下～。 ② 没有全部完成：割稻割咖个～。  
 1. 【[半大天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_da_tin.md#半大天)】`bun5 da tin1` <sup>[兴化]</sup> 相当长一段时间：等他～，他才不慌不忙的跑过来。  
-1. 【[半打落下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_da_lah_ha.md#半打落下)】`bun5 da lah ha1` <sup>[泰兴]</sup> 事情进程未完：伢儿家坐不住，作业做得～的，就去耍子啊  
+1. 【[半打落下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_da_lah_ha.md#半打落下)】`bun5 da lah ha6` <sup>[泰兴]</sup> 事情进程未完：伢儿家坐不住，作业做得～的，就去耍子啊  
 1. 【[半大天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_da_tin.md#半大天)】`bun5 da6 tin1` <sup>[如东]</sup> 很长时间：去啊～还不家来。  
 1. 【[半大天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_da_tin.md#半大天)】`bun5 da6 tin1` <sup>[如皋]</sup> ① 好久。 ② 等待很久。感觉心焦、不耐烦、有责怪义。  
 1. 【[半呆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_dae.md#半呆)】`bun5 dae1` <sup>[如东]</sup> 不聪明：他是个～。  

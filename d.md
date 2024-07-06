@@ -351,7 +351,6 @@
 1. 【[打呃啧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ngeh_zeh.md#打呃啧)】`da3 ngeh7 zeh7` <sup>[如东]</sup> 吃惊，怀疑，心中暗暗地琢磨：王友平听到张长余失手的消息，心里～。  
 1. 【[打呃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ngeh.md#打呃)】`da3 ngeh8` <sup>[东台]</sup> 就是打嗝。注意：这里“呃”的声调为阳入。  
 1. 【[打䛏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ni.md#打䛏)】`da3 ni6` <sup>[如皋]</sup> ① 开玩笑。 ② 见“发科、打嚎叫儿”。  
-1. 【[打䛏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ni.md#打䛏)】`da3 ni6` <sup>[如皋]</sup> 见“发科”。  
 1. 【[打仰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_nian.md#打仰)】`da3 nian3` <sup>[如皋]</sup> 见“打退堂鼓”。  
 1. 【[打仰蛙<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_nian_va_r.md#打仰蛙<sub>儿</sub>)】`da3 nian3 va1 r` <sup>[如东]</sup> ① 游泳的一种方式。脸朝天，浮在水面上，用手划水，推动身体前进。也叫仰泳。 ② 躺在地上，脸朝天，手划脚蹬，大喊大叫耍赖：她躺吖地下～。  
 1. 【[打纽扣<sub>儿</sub>桃<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_nieu_keu_r_to_r.md#打纽扣<sub>儿</sub>桃<sub>儿</sub>)】`da3 nieu3 keu1 r to2 r` <sup>[如皋]</sup> 将“斜口”缲成布条儿后，先盘风车儿结，中心穿鼻，然后逐节抽紧，成桃状结，作中服的纽子，与纽扣儿相配。  
