@@ -1,5 +1,5 @@
 # 为甚的
-vei6 shen2 ni
+vei6 shen2 nii
 > 如东方言词典
 - 为什么。
   - ～要去？
