@@ -1,5 +1,5 @@
 # 七上八下
-> qieh7 shan6 baeh7 ha6
+qieh7 shan6 baeh7 ha6
 > 泰兴方言辞典
 - 心神不定、无所适从
 - 零落纷乱，很不整齐
