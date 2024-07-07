@@ -701,7 +701,7 @@
 1. 【[忑字](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_cz.md#忑字)】`teh7 cz6` <sup>[如皋]</sup> 落字。  
 1. 【[忑单](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_daen.md#忑单)】`teh7 daen1` <sup>[如皋]</sup> ① 单个离群（落单）：黑夜暗星的，大家一齐儿走，互相照应点儿，不要～。 ② 由成双配套变成单数：这是～的鞋子，重配一只。  
 1. 【[忑咖后头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_ga_heu_teu.md#忑咖后头)】`teh7 ga heu6 teu` <sup>[东台]</sup> 掉队。  
-1. 【[忑咖睡吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_ga_kuen_nga.md#忑咖睡吖)】`teh7 ga kuen5 nga` <sup>[如皋]</sup> 无意中睡着了。  
+1. 【[忑咖睡啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_ga_shuei_a.md#忑咖睡啊)】`teh7 ga shuei5 a` <sup>[如皋]</sup> 无意中睡着了。  
 1. 【[忑下来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_ha_lae.md#忑下来)】`teh7 ha lae2` <sup>[如东]</sup> 掉下来。  
 1. 【[忑下去啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_ha_qy_a.md#忑下去啊)】`teh7 ha qy5 a` <sup>[如皋]</sup> 掉落：他迷恋打游戏机，学习成绩～。如皋词典写“䠈”。  
 1. 【[忑下来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_ha_lae.md#忑下来)】`teh7 ha6 lae` <sup>[东台]</sup> ① 掉下来。 ② 起码：风力发电场投资大呢，～就是十几个亿。 ③ ［喻］麻烦惹大了，不好收拾：癞子抓痒，～啊！  
@@ -1729,13 +1729,11 @@
 1. 【[调适](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_sheh.md#调适)】`tio2 sheh7` <sup>[泰县]</sup> ① 合理，得当：吃饭要～。 ② 舒服：今朝肚子有点不～。  
 1. 【[调适粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_sheh_zhoh.md#调适粥)】`tio2 sheh7 zhoh7` <sup>[东台]</sup> 清淡、黏和、可口的稀饭。  
 1. 【[调调适适](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_tio_sheh_sheh.md#调调适适)】`tio2 tio2 sheh7 sheh7` <sup>[如皋]</sup> 舒舒服服。  
-1. 【[嬥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio.md#嬥)】`tio3` <sup>[如皋]</sup> 给以优待、优惠：这个差事～～你。  
-1. 【[嬥生意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_shen_i.md#嬥生意)】`tio3 shen1 i` <sup>[如皋]</sup> 见“嬥”。  
 1. 【[挑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio.md#挑)】`tio3` <sup>[兴化]</sup> 提携、帮助：这东西你自己又不要，何不～～旁人呢？｜“……只要六老爷别的事上多～他姐儿们几回就是了……”（《儒林外史》四二）  
 1. 【[挑祸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_hu.md#挑祸)】`tio3 hu6` <sup>[东台]</sup> 搬弄是非引发纠纷的行为。（注意“挑”读上声）  
 1. 【[挑祸精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_hu_jien.md#挑祸精)】`tio3 hu6 jien1` <sup>[东台]</sup> 专门搬弄是非的人。  
 1. 【[斢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio.md#斢)】`tio3` 调换  
-1. 【[斢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio.md#斢)】`tio3` <sup>[如皋]</sup> 调换：～座位、大票子～小票子。  
+1. 【[斢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio.md#斢)】`tio3` <sup>[如皋]</sup> ① 调换：～座位、大票子～小票子。 ② 给以优待、优惠：这个差事～～你。  
 1. 【[斢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio.md#斢)】`tio3` <sup>[东台]</sup> ① 给人好处，使人受益；这件事把你做，是～你赚钱的，你不要得福不觉。 ② 换掉：～豆种。  
 1. 【[斢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio.md#斢)】`tio3` <sup>[兴化]</sup> 掉换：～种子｜～钱。  
 1. 【[斢包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_bo.md#斢包)】`tio3 bo1` <sup>[如皋]</sup> 以乙代甲，偷梁换柱。  
@@ -1745,6 +1743,7 @@
 1. 【[斢换](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_hun.md#斢换)】`tio3 hun6` <sup>[如东]</sup> 调换：张家的瓜苗与陈家的豆苗～。  
 1. 【[斢肩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_jin.md#斢肩)】`tio3 jin1` <sup>[如皋]</sup> 换肩。  
 1. 【[斢戗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_qian.md#斢戗)】`tio3 qian5` <sup>[如皋]</sup> ① 通常指调整船帆的方向以接受风力。词典作“……弶” ② 处事中为适应新情势随时调正原有立场。  
+1. 【[斢生意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_shen_i.md#斢生意)】`tio3 shen1 i` <sup>[如皋]</sup> 照顾、光顾生意。使对方获得生意。  
 1. 【[誂祸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_hu.md#誂祸)】`tio3 hu6` <sup>[如皋]</sup> 告诉，使受罚。  
 1. 【[誂祸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_hu.md#誂祸)】`tio3 hu6` <sup>[如东]</sup> 背后说人坏话：她又在～。  
 1. 【[誂祸精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_hu_jien.md#誂祸精)】`tio3 hu6 jien1` <sup>[如皋]</sup> 詈语。专会誂祸的人。  
@@ -2278,10 +2277,8 @@
 1. 【[𤭨<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_r.md#𤭨<sub>儿</sub>)】`tu2 r` <sup>[如皋]</sup> 铜～：厚而圆的铜、铁等小玩具，比铜钞大而厚，是玩“趖抛抛儿”、“摵钱墩儿”的主玩具。  
 1. 【[妥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#妥)】`tu3` <sup>[兴化]</sup> ① 行、好了：～啊，不要再弄吖！ ② 死亡的隐语：王老九昨儿晚上～下来啊。  
 1. 【[妥啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_a.md#妥啊)】`tu3 a` <sup>[东台]</sup> 事情已经办妥，相当于“好了！”：～，水开啊，不要再烧！  
-1. 【[左半边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_bun_bin.md#左半边)】`tu3 bun5 bin1` <sup>[如东]</sup> 人体方位的左边：花瓶摆啊在～。  
 1. 【[左耳搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_er_daeh.md#左耳搭)】`tu3 er3 daeh7` <sup>[如皋]</sup> 左耳刀儿（阝）：防阻院  
 1. 【[左右](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_ieu.md#左右)】`tu3 ieu6` <sup>[如东]</sup> ① 左和右两方面：～都要考虑。 ② 表示概数：一万～吧。  
-1. 【[左右手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_ieu_sheu.md#左右手)】`tu3 ieu6 sheu3` <sup>[如东]</sup> 左手与右手。比喻帮手：他是我的～。  
 1. 【[左撇子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_pih_zz.md#左撇子)】`tu3 pih7 zz` <sup>[如东]</sup> 习惯于用左手拿筷子、刀、剪等物的人：他俫两个都是～。  
 1. 【[左手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_sheu.md#左手)】`tu3 sheu3` <sup>[如东]</sup> ① 左边的手。 ② 左边（多指座位）：你坐啊我的～。  
 1. 【[椭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#椭)】`tu3` <sup>[如东]</sup> 弧圆凸起：他𨀛在那里，屁股～吖下。  

@@ -65,8 +65,6 @@
 1. 【[吴二八鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_er_baeh_guei.md#吴二八鬼)】`v2 er6 baeh7 guei3` <sup>[如皋]</sup> 奇巧、诡秘，难捉摸：这家伙～的，你难猜透他的心思。  
 1. 【[吴嘉纪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_jia_ji.md#吴嘉纪)】`v2 jia1 ji5` <sup>[东台]</sup> （16181684）东台安丰人，明末清初著名平民诗人，其著作《陋轩诗集》收录其诗作一千余首。许多诗作出于亲身体验，为贫困的盐民灶户“状难状之景，言难言之情”。其故居在东台安丰镇北王家巷8号。  
 1. 【[吴茱萸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_zhv_y.md#吴茱萸)】`v2 zhv1 y2` <sup>[如东]</sup> 芸香科植物吴茱萸，常绿灌木或小乔木，高约5米。幼枝、叶轴、叶柄均密被黄褐色长柔毛。单数羽状复叶，小叶对生，卵形或椭圆形，全缘。聚伞花序。花单性，雌雄异株。花小，绿白色。蒴果扁球形，熟时紫红色。种子1枚，卵圆形，黑色。生长在路边或林中。  
-1. 【[壶蜂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_fon.md#壶蜂)】`v2 fon1` <sup>[如皋]</sup> 见“胡蜂”。  
-1. 【[壶蜂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_fon.md#壶蜂)】`v2 fon1` <sup>[兴化]</sup> 黄蜂的俗称。《方言》十一：“峰……其大而蜜谓之～。”  
 1. 【[无耻界](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_chr_gae.md#无耻界)】`v2 chr3 gae5` <sup>[如东]</sup> 无人关注的地方：这件事我都撂啊～里啊。  
 1. 【[无大不大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_da_beh_da.md#无大不大)】`v2 da6 beh7 da6` <sup>[东台]</sup> 就是非常之大，也夸张地说“要多大有多大”：新建的厂房～的！  
 1. 【[无大不大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_da_beh_da.md#无大不大)】`v2 da6 beh7 da6` <sup>[兴化]</sup> 形容非常巨大：“……他变做～的白牛，我变了法天象地的身量……”（《西游记》六一）  
@@ -141,6 +139,7 @@
 1. 【[胡蜂<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_fon_r.md#胡蜂<sub>儿</sub>)】`v2 fon r` 马蜂  
 1. 【[胡蜂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_fon.md#胡蜂)】`v2 fon1` <sup>[如皋]</sup> 胡蜂、黄蜂、马蜂。  
 1. 【[胡蜂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_fon.md#胡蜂)】`v2 fon1` <sup>[东台]</sup> 即马蜂。昆虫，褐黄色，尾部有毒刺，能蜇人。  
+1. 【[胡蜂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_fon.md#胡蜂)】`v2 fon1` <sup>[兴化]</sup> 黄蜂的俗称。  
 1. 【[胡蜂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_fon.md#胡蜂)】`v2 fon1` <sup>[泰县]</sup> 马蜂。  
 1. 【[胡蜂窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_fon_ku.md#胡蜂窠)】`v2 fon1 ku1` <sup>[如皋]</sup> 马蜂窝。  
 1. 【[胡蜂窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_fon_ku.md#胡蜂窠)】`v2 fon1 ku1` <sup>[东台]</sup> 胡蜂窝穴，呈六角形，常挂在树上、墙壁上或屋檐下。也喻指不能碰的是非之地：那个单位是个～，当心！  
