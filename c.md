@@ -1403,7 +1403,6 @@
 1. 【[触眼目](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh_ngaen_moh.md#触眼目)】`choh7 ngaen3 moh8` <sup>[东台]</sup> 看到不愿意见到的人或事。  
 1. 【[触起来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh_qi_lae.md#触起来)】`choh7 qi3 lae` <sup>[东台]</sup> 由某种情境引发突然想起：对，我～啊，你是广东人！  
 1. 【[豖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh.md#豖)】`choh7` <sup>[如皋]</sup> 豕足为绳所牵制不便行动之状：一～一～的、～咖～的。  
-1. 【[啄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh.md#啄)】`choh8` <sup>[如东]</sup> ① 雕刻：～喜钱。 ② 用嘴取食东西：红烧肉摆啊桌上，许多苍蝇在上头～。  
 1. 【[妯娌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh_li.md#妯娌)】`choh8 li` <sup>[如东]</sup> 哥哥和弟弟的妻子的合称。  
 1. 【[妯娌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh_li.md#妯娌)】`choh8 li` <sup>[东台]</sup> 弟兄们的妻子之间的关系。  
 1. 【[轴闩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh_shuaen.md#轴闩)】`choh8 shuaen1` <sup>[如皋]</sup> 水车踏车轴上的“拐子柄”，横穿踏车轴的轴心，其两端装拐子。比如四人轴，有4根拐子柄，在轴的横切圆面上，八等分均布。  
@@ -2387,6 +2386,7 @@
 1. 【[俗气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_qi.md#俗气)】`coh8 qi5` <sup>[如东]</sup> ① 粗笨。 ② 不时兴：这套家具～。  
 1. 【[族](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh.md#族)】`coh8` <sup>[如皋]</sup> 聚结，集中  
 1. 【[族](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh.md#族)】`coh8` <sup>[泰县]</sup> ① 积聚：～住块儿。 ② 吸引聚集。方言志原释义“叮”：这荤菜不吃，摆啊那块～苍蝇。  
+1. 【[族](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh.md#族)】`coh8` <sup>[如东]</sup> 用嘴取食东西：红烧肉摆啊桌上，许多苍蝇在上头～。  
 1. 【[族住块<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_chv_kuae_r.md#族住块<sub>儿</sub>)】`coh8 chv6 kuae5 r` <sup>[如皋]</sup> 聚集在一起。  
 1. 【[族谱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_pv.md#族谱)】`coh8 pv3` <sup>[东台]</sup> 家族或宗族记载本族世系和重要人物的文书。  
 1. 【[族蛆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_qy_zz.md#族蛆子)】`coh8 qy1 zz` <sup>[如皋]</sup> 见“拱蛆子”。  
@@ -2395,6 +2395,7 @@
 1. 【[族长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_zhan.md#族长)】`coh8 zhan3` <sup>[东台]</sup> 旧时宗法家族的首领，通常由家族中辈分高有权威的男性担任，裁决族内争端。  
 1. 【[镞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh.md#镞)】`coh8` <sup>[如皋]</sup> 在纸上凿刻：～喜笺、～毛丈。  
 1. 【[镞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh.md#镞)】`coh8` <sup>[兴化]</sup> ① 在木板上雕花：～花板子。 ② 在纸上镂刻图案或文字。《集韵·屋的》昨木切：“～，缕也”。俗作“镞”：～花边纸。  
+1. 【[镞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh.md#镞)】`coh8` <sup>[如东]</sup> 雕刻（纸）：～喜钱。  
 1. 【[聪明](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/con_mien.md#聪明)】`con1 mien2` <sup>[如东]</sup> 智商高，理解力强，记忆力强：小明从小就～。  
 1. 【[葱果<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/con_gu_r.md#葱果<sub>儿</sub>)】`con1 gu3 r` <sup>[如皋]</sup> 葱的地下茎。  
 1. 【[葱果<sub>儿</sub>鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/con_gu_r_pieh_zz.md#葱果<sub>儿</sub>鼻子)】`con1 gu3 r pieh8 zz` <sup>[如皋]</sup> 俊美若葱头的鼻子。  
