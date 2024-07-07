@@ -1403,6 +1403,7 @@
 1. 【[触眼目](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh_ngaen_moh.md#触眼目)】`choh7 ngaen3 moh8` <sup>[东台]</sup> 看到不愿意见到的人或事。  
 1. 【[触起来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh_qi_lae.md#触起来)】`choh7 qi3 lae` <sup>[东台]</sup> 由某种情境引发突然想起：对，我～啊，你是广东人！  
 1. 【[豖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh.md#豖)】`choh7` <sup>[如皋]</sup> 豕足为绳所牵制不便行动之状：一～一～的、～咖～的。  
+1. 【[啄木鸟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh_moh_nio.md#啄木鸟)】`choh8 moh8 nio3` <sup>[如东]</sup> 啄木鸟科动物斑啄木鸟、绿啄木鸟和黑枕啄木鸟。  
 1. 【[妯娌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh_li.md#妯娌)】`choh8 li` <sup>[如东]</sup> 哥哥和弟弟的妻子的合称。  
 1. 【[妯娌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh_li.md#妯娌)】`choh8 li` <sup>[东台]</sup> 弟兄们的妻子之间的关系。  
 1. 【[轴闩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh_shuaen.md#轴闩)】`choh8 shuaen1` <sup>[如皋]</sup> 水车踏车轴上的“拐子柄”，横穿踏车轴的轴心，其两端装拐子。比如四人轴，有4根拐子柄，在轴的横切圆面上，八等分均布。  
