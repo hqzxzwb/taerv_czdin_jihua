@@ -327,7 +327,7 @@
 1. 【[车鼓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_gv_r.md#车鼓<sub>儿</sub>)】`cha1 gv3 r` <sup>[如皋]</sup> 车轮中心装车辐的鼓状轴。  
 1. 【[车行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_han.md#车行)】`cha1 han2` <sup>[如东]</sup> 经营自行车等车辆的销售和修理的商行。  
 1. 【[车行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_han.md#车行)】`cha1 han2` <sup>[如皋]</sup> 见“脚踏车行”。  
-1. 【[车焀焀<sub>儿</sub>水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_hoh_hoh_r_shuei.md#车焀焀<sub>儿</sub>水)】`cha1 hoh7 hoh7 r shuei3` <sup>[如皋]</sup> 踏水如飞。  
+1. 【[车湱湱<sub>儿</sub>水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_hoh_hoh_r_shuei.md#车湱湱<sub>儿</sub>水)】`cha1 hoh7 hoh7 r shuei3` <sup>[如皋]</sup> 踏水如飞。  
 1. 【[车辕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_iun.md#车辕)】`cha1 iun2` <sup>[如皋]</sup> 独轮车最前面的横木。  
 1. 【[车脚𣑁<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_jiah_chon_r.md#车脚𣑁<sub>儿</sub>)】`cha1 jiah7 chon5 r` <sup>[如皋]</sup> 小车撑脚之间相连的木料。  
 1. 【[车脊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_jieh.md#车脊)】`cha1 jieh7` <sup>[如东]</sup> 牛车部件。长条形方木，中间固定车桄，下端固定前、后耳，前端固定车牵。  
@@ -676,7 +676,6 @@
 1. 【[猖毛狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_mo_geu.md#猖毛狗)】`chan1 mo2 geu3` <sup>[如东]</sup> ① 狗的一种。身上生长着蓬松的毛。 ② 比喻人的头发蓬乱：头发像～一样的。 ③ 此喻人穿的衣服褴褛：穿得像～一样。  
 1. 【[菖蒲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_pv.md#菖蒲)】`chan1 pv2` <sup>[东台]</sup> 草本植物，叶子像剑，根茎可做香料，也可入药。民间有端午节插艾草和～的风俗。  
 1. 【[裮头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_teu.md#裮头)】`chan1 teu2` （应该戴帽子而）不戴帽子：大冬天～不冷吖？  
-1. 【[长锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_gu.md#长锅)】`chan1 gu1` <sup>[兴化]</sup> 虚拟的“煨人”的锅：只有团锅烧肉，没得～煨人。  
 1. 【[鲳鳊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_bin.md#鲳鳊)】`chan1 bin3` <sup>[如东]</sup> 鲳科动物银鲳，也叫镜鲳、平鱼。俗称鱆鳊。  
 1. 【[鲳鳊鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_bin_y.md#鲳鳊鱼)】`chan1 bin3 y2` <sup>[兴化]</sup> 一种海鱼，身体短而侧扁。又称“鲳鱼”“平鱼”。  
 1. 【[鲳丿鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_pih_y.md#鲳丿鱼)】`chan1 pih7 y2` <sup>[东台]</sup> 一种海鱼，又叫鲳鱼、鲳鳊鱼。身体近菱形，扁侧，吻圆、口小、牙细。成鱼腹鳍消失。  
@@ -703,6 +702,7 @@
 1. 【[长把<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_ba_r.md#长把<sub>儿</sub>)】`chan2 ba3 r` <sup>[泰县]</sup> 未下小猪的母猪。  
 1. 【[长膀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_ban_r.md#长膀<sub>儿</sub>)】`chan2 ban3 r` <sup>[东台]</sup> 长袖衬衫。  
 1. 【[长短](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_dun.md#长短)】`chan2 dun3` 长度  
+1. 【[长锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_gu.md#长锅)】`chan2 gu1` <sup>[兴化]</sup> 虚拟的“煨人”的锅：只有团锅烧肉，没得～煨人。  
 1. 【[长腰腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_io_io.md#长腰腰)】`chan2 io1 io1` <sup>[如东]</sup> 长圆形或葫芦形：这块田～的。  
 1. 【[长远](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_iun.md#长远)】`chan2 iun3` <sup>[兴化]</sup> 指时间很长：他处朋友不得～，容易反脸。｜“你这里～了，不怕没八人轿你坐。”（《红楼梦》十九）  
 1. 【[长脚𣑁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_jiah_chon.md#长脚𣑁)】`chan2 jiah7 chon5` <sup>[如东]</sup> 在木床上连接床脚的方木，叫长脚𣑁。  
@@ -1449,7 +1449,7 @@
 1. 【[虫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_zz.md#虫子)】`chon2 zz` <sup>[泰县]</sup> 虫。  
 1. 【[褈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon.md#褈)】`chon2` <sup>[如皋]</sup> 制衣、帽、鞋时的铺垫：～棉花、～破布儿底。  
 1. 【[褈火药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_hu_iah.md#褈火药)】`chon2 hu3 iah8` <sup>[如皋]</sup> 给鸟枪、火铳等添加火药，待放。  
-1. 【[褈磨肚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_mu_tv.md#褈磨肚)】`chon2 mu2 tv6` <sup>[如皋]</sup> 在石磨中铺垫一层原粮，准备开磨。  
+1. 【[褈磨肚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_mu_tv.md#褈磨肚)】`chon2 mu6 tv6` <sup>[如皋]</sup> 在石磨中铺垫一层原粮，准备开磨。  
 1. 【[褈种火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_zhon_hu.md#褈种火)】`chon2 zhon3 hu3` <sup>[如皋]</sup> 给取暖用的炉子添燃料。  
 1. 【[重倒话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_do_hua.md#重倒话)】`chon2 do hua6` <sup>[如皋]</sup> 啰唆、说话重复紊乱。  
 1. 【[重倒话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_do_hua.md#重倒话)】`chon2 do5 hua6` <sup>[东台]</sup> 啰唆，重三倒四的话。  

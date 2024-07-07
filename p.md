@@ -918,7 +918,7 @@
 1. 【[跑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po.md#跑)】`po2` <sup>[如东]</sup> 速度较快地向前运动。走。  
 1. 【[跑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po.md#跑)】`po2` <sup>[东台]</sup> ① 走。 ② 物体离开应在的位置：我的眼镜～到哪许去啊？｜瓶塞子不曾塞好，汽油都～光吖。 ③ 幼儿夭亡：她家里的小姑娘怎吖一下子～掉啊。  
 1. 【[跑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po.md#跑)】`po2` <sup>[兴化]</sup> ① 走：～路。 ② 讳饰词，指小孩死亡：到七日上，把个白白胖胖的孩子～掉了。（《需林外史》六）  
-1. 【[跑不□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_beh_paen.md#跑不□)】`po2 beh7 paen1` <sup>[如皋]</sup> 来不及跑，跑个没完。  
+1. 【[跑不攀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_beh_paen.md#跑不攀)】`po2 beh7 paen1` <sup>[如皋]</sup> 来不及跑，跑个没完。  
 1. 【[跑不攀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_beh_paen.md#跑不攀)】`po2 beh7 paen1` <sup>[泰县]</sup> 不打停，急忙走：六月苋吃咖～。  
 1. 【[跑不动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_beh_ton.md#跑不动)】`po2 beh7 ton6` <sup>[东台]</sup> （口语）累得实在不能走。  
 1. 【[跑报](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_bo.md#跑报)】`po2 bo5` <sup>[如皋]</sup> 旧时衙役报送公文，时限急，要快跑因喻急跑，有贬义。  
@@ -1281,7 +1281,7 @@
 1. 【[碰心话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_xien_hua.md#碰心话)】`pon5 xien1 hua6` <sup>[如东]</sup> 知心话。  
 1. 【[䳞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#䳞)】`pon6` <sup>[如皋]</sup> 张扬貌。词典原释“大笑”：笑啊～起来呀。  
 1. 【[䳞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#䳞)】`pon6` <sup>[东台]</sup> ① 小鸟学飞：小鸟才出窠，一～一～的。 ② 乱飞的样子：鸡子看见黄鼠狼吓得直～。  
-1. 【[䳞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#䳞)】`pon6` <sup>[兴化]</sup> ① 禽惊飞：鸡子～上屋咖。 ② （引）张扬、逞强：这个丫头能吖～起来啊。｜跩啊～起来｜劲吖～起来。《集韵·董韵》蒲蠓切“～，鸟乱飞貌”。  
+1. 【[䳞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#䳞)】`pon6` <sup>[兴化]</sup> ① 禽惊飞：鸡子～上屋咖。 ② （引）张扬、逞强：这个丫头能吖～起来啊。｜跩啊～起来｜劲吖～起来  
 1. 【[䳞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#䳞)】`pon6` <sup>[泰县]</sup> ① 张扬：他吵啊～掉啊。 ② 乱飞：麻雀子～掉啊啦。  
 1. 【[䳞䳞腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_pon_tuei.md#䳞䳞腿)】`pon6 pon6 tuei3` <sup>[兴化]</sup> 罗圈腿的俗称。  
 1. 【[匉𠵹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_gan.md#匉𠵹)】`pon6 gan1` <sup>[东台]</sup> 虚张声势，故意张扬。（东台词典作“唪𠵹”，《说文。段注》唪即“大声”）：这点儿小事，你就乱～，不策略！  
@@ -1348,7 +1348,6 @@
 1. 【[破布底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_bv_di.md#破布底)】`pu5 bv5 di3` <sup>[兴化]</sup> 用破布叠成的毛边鞋底。  
 1. 【[破布<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_bv_r.md#破布<sub>儿</sub>)】`pu5 bv5 r` <sup>[如皋]</sup> 破碎布片、布筋等。  
 1. 【[破布<sub>儿</sub>底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_bv_r_di.md#破布<sub>儿</sub>底)】`pu5 bv5 r di3` <sup>[如皋]</sup> 碎布片褈成的，手工扎成的鞋底，又称百页底。以别于糨子底。  
-1. 【[破布<sub>儿</sub>底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_bv_r_di.md#破布<sub>儿</sub>底)】`pu5 bv5 r di3` <sup>[如皋]</sup> 见“百页底”。  
 1. 【[破布<sub>儿</sub>嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_bv_r_jy.md#破布<sub>儿</sub>嘴)】`pu5 bv5 r jy3` <sup>[如皋]</sup> 状人说话啰唆不停。  
 1. 【[破布<sub>儿</sub>𧚅裆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_bv_r_lan_dan_r.md#破布<sub>儿</sub>𧚅裆<sub>儿</sub>)】`pu5 bv5 r lan3 dan5 r` <sup>[如皋]</sup> 破碎的布片，布条儿。  
 1. 【[破布<sub>儿</sub>蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_bv_r_taen.md#破布<sub>儿</sub>蛋)】`pu5 bv5 r taen6` <sup>[如皋]</sup> 炒鸡蛋时炒得很碎，入味，可口。  
