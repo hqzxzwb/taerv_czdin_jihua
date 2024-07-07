@@ -11,6 +11,7 @@
 1. 【[猜字<sub>儿</sub>镘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_cz_r_mun_r.md#猜字<sub>儿</sub>镘<sub>儿</sub>)】`cae1 cz6 r mun6 r` <sup>[如皋]</sup> 游戏名：手握一枚钱币，令人猜哪一面不贴手心。见“字儿镘儿”条。  
 1. 【[猜猫<sub>儿</sub>佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_mo_r_lo_r.md#猜猫<sub>儿</sub>佬<sub>儿</sub>)】`cae1 mo2 r lo3 r` <sup>[如皋]</sup> 见“猜字儿镘儿”。  
 1. 【[猜冒冒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_mo_mo.md#猜冒冒)】`cae1 mo6 mo6` <sup>[东台]</sup> 同“猜猜儿”。  
+1. 【[猜冒冒<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_mo_mo_r.md#猜冒冒<sub>儿</sub>)】`cae1-cuae1 mo6 mo6 r` <sup>[兴化]</sup> ① 猜谜。 ② 胡乱猜测：你晓得就说晓得，不要～。  
 1. 【[才](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae.md#才)】`cae2` <sup>[如皋]</sup> 不久之前，刚才。  
 1. 【[才不轻哎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_beh_qien_ngae.md#才不轻哎)】`cae2 beh7 qien1 ngae` <sup>[东台]</sup> （口头禅）表示惊讶或否定，意思是哪有这样：你说我年收入有十万？～，一半都不到！  
 1. 【[才调<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_dio_r.md#才调<sub>儿</sub>)】`cae2 dio5 r` <sup>[兴化]</sup> ① 才情：“……我必定要拣一个绝好的人物，模样儿，～，性情儿，一件也少不得……”（《广陵潮》七） ② 牙齿的隐语，有人早晨忌说“牙”字，则以～代之。  
