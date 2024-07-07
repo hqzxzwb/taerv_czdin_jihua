@@ -13,3 +13,8 @@ sheh8 saen1 din3
 sheh8 saen1 din3
 > 泰县方言志
 - 言行不正常，傻里傻气。
+
+# 十三点
+sheh8 saen1 din3
+> 泰兴方言辞典
+- 喻傻子。若“二十五”、“二百五”。
