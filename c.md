@@ -48,7 +48,6 @@
 1. 【[财神日子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_shen_rih_zz.md#财神日子)】`cae2 shen2 rih8 zz` <sup>[兴化]</sup> 旧俗正月初五为～，家家黎明即起，忙于接财神，取一年中“财源茂盛”的吉兆。  
 1. 【[财神团<sub>儿</sub>、财神糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_shen_tun_r_cae_shen_go.md#财神团<sub>儿</sub>、财神糕)】`cae2 shen2 tun2 r cae2 shen2 go1` <sup>[如皋]</sup> 敬财神专做的米团和长方形米粉糕，上有财神像或图戳。  
 1. 【[财爻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_xio.md#财爻)】`cae2 xio` <sup>[兴化]</sup> 财气，“爻”为卦象。多作否定句式：这许不是～，你最好远处发财。  
-1. 【[踩水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_shuei.md#踩水)】`cae2 shuei3` <sup>[如皋]</sup> 游泳一式，直立水中，用脚踏水前进。  
 1. 【[䜺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_r.md#䜺<sub>儿</sub>)】`cae3 r` <sup>[如皋]</sup> 杂粮磨成的粒度较小的粉粒：玉米～、大麦～。䜺≠糁。见《现代汉语词典》。  
 1. 【[䜺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_r.md#䜺<sub>儿</sub>)】`cae3 r` <sup>[如东]</sup> 元麦、大麦、玉米等谷物经过碾磨，变成碎粒儿，这种粮食叫䜺儿。也叫䜺子。  
 1. 【[䜺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_r.md#䜺<sub>儿</sub>)】`cae3 r` <sup>[东台]</sup> 碾碎了的豆类、玉米或其他杂粮。也叫“䜺子”。  
@@ -72,6 +71,7 @@
 1. 【[踩么<sub>儿</sub>墩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_mu_r_den.md#踩么<sub>儿</sub>墩)】`cae3 mu3 r den1` <sup>[如皋]</sup> 旧时儿童游戏之一。以杏核为“么儿”，参与者各置一粒于墩子（地上放一块城砖）之上，依次各以手中一粒“么儿”举至眼下丢落，踩击墩上之“么儿”，击落与墩下则取之，并继续踩，掉在墩上则给别人踩，未曾击落则让下一人踩。  
 1. 【[踩藕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_ngeu.md#踩藕)】`cae3 ngeu3` <sup>[如皋]</sup> 收获藕时先用脚踩，确定方位，再挖。  
 1. 【[踩水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_shuei.md#踩水)】`cae3 shuei3` <sup>[如东]</sup> 一种游泳方法。人直立在水中，两腿交替上抬下踩，身体保持不沉，并向前进。  
+1. 【[踩水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_shuei.md#踩水)】`cae3 shuei3` <sup>[如皋]</sup> 游泳一式，直立水中，用脚踏水前进。  
 1. 【[踩水佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_shuei_lo_r.md#踩水佬<sub>儿</sub>)】`cae3 shuei3 lo3 r` <sup>[如皋]</sup> 形容刚会走而步态不稳的小孩。  
 1. 【[踩跳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_tio.md#踩跳)】`cae3 tio5` <sup>[兴化]</sup> 走在跳板上：他才～上岸，忽见码头上跪着一人……（扬说《隋场皇帝看琼花》）  
 1. 【[采草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_co.md#采草)】`cae3 co3` <sup>[如皋]</sup> 采割青饲料。  
@@ -1298,7 +1298,6 @@
 1. 【[朝阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_ian.md#朝阳)】`cho2 ian2` <sup>[如东]</sup> 向着太阳的地方或方向。  
 1. 【[朝里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_li.md#朝里)】`cho2 li3` <sup>[如皋]</sup> 不足，略少于。见“不到”：这一袋米在30斤～。  
 1. 【[朝里不朝外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_li_beh_cho_vae.md#朝里不朝外)】`cho2 li3 beh7 cho2 vae6` <sup>[如皋]</sup> 少于，不多于。  
-1. 【[朝里不朝外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_li_beh_cho_vae.md#朝里不朝外)】`cho2 li3 beh7 cho2 vae6` <sup>[如皋]</sup> 见“不到”。  
 1. 【[朝外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_vae.md#朝外)】`cho2 vae6` <sup>[如皋]</sup> 估计略多于：这一袋米有30斤～。  
 1. 【[朝外不朝里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_vae_beh_cho_li.md#朝外不朝里)】`cho2 vae6 beh7 cho2 li3` <sup>[如皋]</sup> 只有多，不少于。  
 1. 【[潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho.md#潮)】`cho2` <sup>[如东]</sup> 湿润：刚下雨，地面～湿。  
@@ -1404,7 +1403,6 @@
 1. 【[触起来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh_qi_lae.md#触起来)】`choh7 qi3 lae` <sup>[东台]</sup> 由某种情境引发突然想起：对，我～啊，你是广东人！  
 1. 【[豖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh.md#豖)】`choh7` <sup>[如皋]</sup> 豕足为绳所牵制不便行动之状：一～一～的、～咖～的。  
 1. 【[啄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh.md#啄)】`choh8` <sup>[如东]</sup> ① 雕刻：～喜钱。 ② 用嘴取食东西：红烧肉摆啊桌上，许多苍蝇在上头～。  
-1. 【[啄木鸟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh_moh_nio.md#啄木鸟)】`choh8 moh8 nio3` <sup>[如东]</sup> 啄木鸟科动物斑啄木鸟、绿啄木鸟和黑枕啄木鸟。  
 1. 【[妯娌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh_li.md#妯娌)】`choh8 li` <sup>[如东]</sup> 哥哥和弟弟的妻子的合称。  
 1. 【[妯娌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh_li.md#妯娌)】`choh8 li` <sup>[东台]</sup> 弟兄们的妻子之间的关系。  
 1. 【[轴闩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh_shuaen.md#轴闩)】`choh8 shuaen1` <sup>[如皋]</sup> 水车踏车轴上的“拐子柄”，横穿踏车轴的轴心，其两端装拐子。比如四人轴，有4根拐子柄，在轴的横切圆面上，八等分均布。  
@@ -1604,7 +1602,7 @@
 1. 【[池](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr.md#池)】`chr2` <sup>[如皋]</sup> ① 池塘。为田间蓄水池，不外通。又称园沟。 ② 地名通名，由池塘引伸而来：三角～、杨～、蛵蛉儿～。 ③ 粪池的省称：下～沤。 ④ 公共浴室的浴池：下～洗澡、头～、二池、三～。  
 1. 【[池杉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_shaen.md#池杉)】`chr2 shaen1` <sup>[如东]</sup> 落叶乔木，树干基部膨大，常有屈膝状的吸盘根。材质似水杉，韧性则过之，是建筑、电杆、家具的用材，尤其是水桶、蒸笼的最好用材。  
 1. 【[池水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_shuei.md#池水)】`chr2 shuei3` <sup>[如皋]</sup> 旧时本地水质较好的池塘水，常挑运回家烹茶，有别于天水、井水。  
-1. 【[池蛙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_vae.md#池蛙)】`chr2 vae1` <sup>[如皋]</sup> 一种腹大善鸣的蛙。一作“山～”：肚子吃咖像～。  
+1. 【[池𧒘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_vae.md#池𧒘)】`chr2 vae1` <sup>[如皋]</sup> 一种腹大善鸣的蛙。一作“山～”：肚子吃咖像～。  
 1. 【[漦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr.md#漦)】`chr2` <sup>[如皋]</sup> 流涂：血～啊褥单上吖。  
 1. 【[漦底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_di.md#漦底)】`chr2 di3` <sup>[东台]</sup> 锅里食物加热过程中沉淀在锅底，烧糊了。  
 1. 【[漦底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_di.md#漦底)】`chr2 di3` <sup>[如皋]</sup> 粘锅：煮䜺儿粥要耖几次，不要～。  
@@ -2500,7 +2498,6 @@
 1. 【[座租](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_zv.md#座租)】`cu6 zv1` <sup>[如东]</sup> 佃农向地主缴纳的押金。  
 1. 【[座租](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_zv.md#座租)】`cu6 zv1` <sup>[兴化]</sup> 旧时租房的保证金。也作“押租”。  
 1. 【[啐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuae.md#啐)】`cuae1` <sup>[如皋]</sup> 微嗔：～，不是这吖做相，你看吖我做。  
-1. 【[猜冒冒<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuae_mo_mo_r.md#猜冒冒<sub>儿</sub>)】`cuae1 mo6 mo6 r` <sup>[兴化]</sup> ① 猜谜。 ② 胡乱猜测：你晓得就说晓得，不要～。  
 1. 【[誶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuae.md#誶)】`cuae5` <sup>[如皋]</sup> 怒嗔、唾面。  
 1. 【[掘树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cueh_shv.md#掘树)】`cueh7 shv6` <sup>[如皋]</sup> 挖树。  
 1. 【[掘着咖他走](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cueh_zhah_ga_ta_zeu.md#掘着咖他走)】`cueh7 zhah ga ta1 zeu3` <sup>[如皋]</sup> 设法使他走开。  
