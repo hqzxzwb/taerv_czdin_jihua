@@ -168,8 +168,6 @@
 1. 【[袋<sub>儿</sub>口朝下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_r_keu_cho_ha.md#袋<sub>儿</sub>口朝下)】`tae6 r keu3 cho2 ha6` <sup>[东台]</sup> ［喻］大方，舍得掏钱用。  
 1. 【[𢪯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#𢪯)】`tae6` <sup>[兴化]</sup> 松驰下垂：绳子～下来啊。兴化词典作“绐”，《说文·系部》｜“～，丝劳即～。”徒亥切。  
 1. 【[㿹皮<sub>儿</sub>疮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_pi_r_chuan.md#㿹皮<sub>儿</sub>疮)】`taeh7 pi2 r chuan1` <sup>[如皋]</sup> 皮上小脓疱疮。  
-1. 【[呫刮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_guaeh.md#呫刮)】`taeh7 guaeh7` <sup>[如皋]</sup> 趣指吃：今朝上人家去～。  
-1. 【[呫刮呫刮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_guaeh_taeh_guaeh.md#呫刮呫刮)】`taeh7 guaeh7 taeh7 guaeh7` <sup>[如皋]</sup> 见“呫刮”。  
 1. 【[塌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh.md#塌)】`taeh7` <sup>[东台]</sup> 坡度小，平缓，不陡：堤东沙土的河坎比较～。  
 1. 【[塌汊<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_cha_r.md#塌汊<sub>儿</sub>)】`taeh7 cha r` <sup>[如皋]</sup> 分汉而又淤浅的河段。  
 1. 【[塌成](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_chen.md#塌成)】`taeh7 chen2` <sup>[如东]</sup> 在耷子和游戏中，由耷子、坎儿和杠构成的成和（hv2），称塌成。  
@@ -204,7 +202,9 @@
 1. 【[搨板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_baen.md#搨板)】`taeh7 baen3` 泥瓦匠往墙上抹水泥是使用的工具，从灰草板上铲起水泥浆往墙上涂抹。  
 1. 【[搨饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_faen.md#搨饭)】`taeh7 faen6` <sup>[如皋]</sup> 将冷饭置锅中加热时炒动，一会即可。  
 1. 【[搨饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_faen.md#搨饭)】`taeh7 faen6` <sup>[泰县]</sup> 把饭热一下。  
+1. 【[搨刮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_guaeh.md#搨刮)】`taeh7 guaeh7` <sup>[如皋]</sup> 趣指吃：今朝上人家去～。  
 1. 【[搨刮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_guaeh.md#搨刮)】`taeh7 guaeh7` <sup>[泰县]</sup> 平息纠纷：这件事你再～～，叫他不要生气。  
+1. 【[搨刮搨刮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_guaeh_taeh_guaeh.md#搨刮搨刮)】`taeh7 guaeh7 taeh7 guaeh7` <sup>[如皋]</sup> 见“搨刮”。  
 1. 【[搨糊<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_hv_r.md#搨糊<sub>儿</sub>)】`taeh7 hv2 r` <sup>[东台]</sup> 回避、掩盖矛盾，大事化小小事化了。也叫“搨搨糊”。  
 1. 【[搨糨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_jian.md#搨糨)】`taeh7 jian5` <sup>[如东]</sup> 到处乱涂。  
 1. 【[搨马三虎的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_ma_saen_hv_dii.md#搨马三虎的)】`taeh7 ma3 saen1 hv3 dii` <sup>[如皋]</sup> 不深究，马虎了事。  
