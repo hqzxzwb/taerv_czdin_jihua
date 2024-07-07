@@ -1294,7 +1294,6 @@
 1. 【[听头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_teu.md#听头)】`tien5 teu` <sup>[东台]</sup> ① 听觉：这个老爹九十高龄吖，～还这吖好。 ② 有意思：这个故事有～。  
 1. 【[听云板吃饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_yen_baen_qieh_faen.md#听云板吃饭)】`tien5 yen2 baen3 qieh7 faen6` <sup>[东台]</sup> ［喻］缺乏主动性、积极性（云板为旧时打击乐器，用长铁片做成，两端作云头形）。  
 1. 【[打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien.md#打)】`tien5` <sup>[如皋]</sup> 以拳击之：～你两拳头。  
-1. 【[掭锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_gu.md#掭锅)】`tien5 gu1` <sup>[东台]</sup> 烧锅，用拨火棍拨火：我～，你炒菜。  
 1. 【[定](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien.md#定)】`tien6` <sup>[如皋]</sup> 针法。用针线粗略连或绗（使两块布品固定住）：补补丁要先～后敲。  
 1. 【[定邦定式的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_ban_tien_sheh_dii.md#定邦定式的)】`tien6 ban1 tien6 sheh7 dii` <sup>[如皋]</sup> 认真地，稳妥地。  
 1. 【[定不准](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_beh_zhuen.md#定不准)】`tien6 beh zhuen3` <sup>[如皋]</sup> 不敢认定、决定。  
@@ -1633,6 +1632,7 @@
 1. 【[掭灯棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_den_pan.md#掭灯棒)】`tin5 den1 pan6` <sup>[泰县]</sup> 拨灯草的篾子。  
 1. 【[掭灯棒<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_den_pan_r.md#掭灯棒<sub>儿</sub>)】`tin5 den1 pan6 r` <sup>[如皋]</sup> 掭油灯灯芯的棒儿，俗名灯㮇子。  
 1. 【[掭灯棒<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_den_pan_r.md#掭灯棒<sub>儿</sub>)】`tin5 den1 pan6 r` <sup>[如皋]</sup> 见“灯㮇子”。  
+1. 【[掭锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_gu.md#掭锅)】`tin5 gu1` <sup>[东台]</sup> 烧锅，用拨火棍拨火：我～，你炒菜。  
 1. 【[掭话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hua.md#掭话)】`tin5 hua6` <sup>[如东]</sup> 用引诱的方法，引出某种话语或某种事情：王二在伢儿面前～，希望送礼。  
 1. 【[掭锁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_su.md#掭锁)】`tin5 su3` <sup>[如皋]</sup> 用铁丝等工具试图开锁。  
 1. 【[舚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin.md#舚)】`tin5` <sup>[兴化]</sup> ① 用舌尖剔出齿缝中异物。 ② 用舌舔唇。《广韵·㮇韵》他念切“～，舌出貌”。  
@@ -1694,7 +1694,6 @@
 1. 【[挑鲜的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_xin_dii.md#挑鲜的)】`tio1 xin1 dii` <sup>[如东]</sup> 挑海鲜到市场上去出卖的小贩。  
 1. 【[挑针](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_zhen.md#挑针)】`tio1 zhen1` <sup>[如皋]</sup> ① 梳头髮时分缝用的骨针或篾针。 ② 一种针法。  
 1. 【[挑猪草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_zhv_co.md#挑猪草)】`tio1 zhv1 co3` <sup>[如皋]</sup> 打猪草。  
-1. 【[条苗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_mio.md#条苗)】`tio1 mio` <sup>[兴化]</sup> ① “苗条”的逆序词：形容妇女身材修长柔美。 ② 形容家用器具粗细适中：这张橱相打得蛮～的。  
 1. 【[条桌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_zhuah.md#条桌)】`tio1 zhuah7` <sup>[兴化]</sup> 一种狭长的桌子，长一丈左右，宽一尺多，一般在会议室使用。  
 1. 【[条凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_den.md#条凳)】`tio2 den5` <sup>[如皋]</sup> 即“高凳”。  
 1. 【[条凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_den.md#条凳)】`tio2 den5` <sup>[如东]</sup> 凳的一种。木制，长100厘米，宽12厘米高48厘米。坐两个人。也叫板凳、高凳。  
@@ -1704,6 +1703,7 @@
 1. 【[条虾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_ha.md#条虾)】`tio2 ha1` <sup>[如东]</sup> 对虾科动物中国对虾，体长1824厘米。身体长而侧扁。甲壳薄，光滑透明，雌体青蓝色，雄体棕黄色。通常雌体大于雄体。全体由20节组成，头部5节，胸部8节，腹部7节。除尾节外，各节均有附肢1对。步足5对，前3对呈钳状，后2对呈爪状。头胸前缘中央突出形成额角。额角上下缘均有锯齿。生活在泥沙底的浅海中。肉质鲜美。是如东特色海鲜。  
 1. 【[条理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_li.md#条理)】`tio2 li3` <sup>[如东]</sup> 次序，规矩：他做事有～。  
 1. 【[条苗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_mio.md#条苗)】`tio2 mio` <sup>[如东]</sup> 细而长：她的身材～。  
+1. 【[条苗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_mio.md#条苗)】`tio2 mio` <sup>[兴化]</sup> ① “苗条”的逆序词：形容妇女身材修长柔美。 ② 形容家用器具粗细适中：这张橱相打得蛮～的。  
 1. 【[条苗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_mio.md#条苗)】`tio2 mio2` <sup>[如皋]</sup> 苗条。  
 1. 【[条苗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_mio.md#条苗)】`tio2 mio2` <sup>[东台]</sup> 苗条：跳舞的身材要～。  
 1. 【[条台](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_tae.md#条台)】`tio2 tae2` <sup>[兴化]</sup> 一种高而狭长的桌子，长一丈左右，宽尺许。桌面两端及桌腿上部有雕板等装饰：因为大厅上不晓得哪一天有人坐的了，桌椅～上都落了铜钱厚的灰……（扬二《甘露寺相婿》）  
