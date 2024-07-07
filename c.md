@@ -988,11 +988,6 @@
 1. 【[辰光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_guan.md#辰光)】`chen2 guan` <sup>[如皋]</sup> 大约的时间、时候：甚的～、有啊～。  
 1. 【[辰光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_guan.md#辰光)】`chen2 guan` <sup>[兴化]</sup> 时候：在他吃酒～，过来两个小和尚……（《施耐庵的传说·酒菜活了》）  
 1. 【[辰光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_guan.md#辰光)】`chen2 guan1` <sup>[东台]</sup> ① 时候，时辰：甚的～走？ ② 程度：企业亏到这个～，要赶快采取改革措施。  
-1. 【[辰<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_r.md#辰<sub>儿</sub>)】`chen2 r` <sup>[如东]</sup> 一会儿：～工夫。  
-1. 【[辰<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_r.md#辰<sub>儿</sub>)】`chen2 r` <sup>[如皋]</sup> 一会儿。（注：此处“辰”经常变调为上声。）  
-1. 【[辰<sub>儿</sub>风辰<sub>儿</sub>雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_r_fon_chen_r_y.md#辰<sub>儿</sub>风辰<sub>儿</sub>雨)】`chen2 r fon1 chen2 r y3` <sup>[如东]</sup> 一会儿这样，一会儿那样，变化无常：不要～的。  
-1. 【[辰<sub>儿</sub>风辰<sub>儿</sub>雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_r_fon_chen_r_y.md#辰<sub>儿</sub>风辰<sub>儿</sub>雨)】`chen2 r fon1 chen2 r y3` <sup>[如皋]</sup> ① 指天气多变。 ② 喻人的脾气坏，变化无常。 ③ 喻事态多变。  
-1. 【[辰<sub>儿</sub>工夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_r_gon_fv.md#辰<sub>儿</sub>工夫)】`chen2 r gon1 fv1` <sup>[如东]</sup> 形容时间很短：只要～就能办好。  
 1. 【[鈂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen.md#鈂)】`chen2` <sup>[如皋]</sup> 点播（播种）种子：～麦、～玉米、～黄豆。如皋词典写“𣜣”。  
 1. 【[鈂麦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_moh.md#鈂麦)】`chen2 moh8` <sup>[如东]</sup> 在田地里用铁锹摇开口子将麦种撒下去。  
 1. 【[鈂豆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_teu_zz.md#鈂豆子)】`chen2 teu6 zz` <sup>[东台]</sup> 破土下豆种：我们这里霜降前后～，主要指蚕豆。  
@@ -1015,7 +1010,6 @@
 1. 【[碜刺碜刺的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_cz_chen_cz_dii.md#碜刺碜刺的)】`chen3 cz chen3 cz dii` <sup>[东台]</sup> 形容食物夹杂泥沙，嚼起来牙齿不舒服。  
 1. 【[碜眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_ngaen.md#碜眼)】`chen3 ngaen3` <sup>[兴化]</sup> 刺眼、难看：她丈夫才死不久，就穿这些大红大绿的，太～。｜大白天把公家东西往家拿，也不怕～。  
 1. 【[碜嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_zuei.md#碜嘴)】`chen3 zuei3` <sup>[兴化]</sup> 食物中杂有砂子，咀嚼时硌牙：今朝的中饭米不曾淘干净，饭有点～。碜，《集韵·寝韵》楚锦切｜物杂砂也。  
-1. 【[辰<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_r.md#辰<sub>儿</sub>)】`chen3 r` <sup>[如皋]</sup> 一会儿。小称调。  
 1. 【[逞强好胜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_qian_ho_shen.md#逞强好胜)】`chen3 qian2 ho5 shen5` <sup>[东台]</sup> 意思是说过于争夺名利，总想以强势的姿态、话语胜人一筹，不让别人占上风。  
 1. 【[剩半子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_bun_zz.md#剩半子)】`chen5 bun5 zz` 剩饭，剩饭碗  
 1. 【[剩儿剩女](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_er_chen_ny.md#剩儿剩女)】`chen5 er2 chen5 ny3` <sup>[兴化]</sup> 极言找不到配偶的大龄子女。谚曰：只有剩粥剩饭，哪有～。  
@@ -1095,7 +1089,6 @@
 1. 【[阵阵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_chen.md#阵阵)】`chen6 chen6` <sup>[如皋]</sup> 见“阵头”。  
 1. 【[阵阵不离穆桂英](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_chen_beh_li_moh_guei_ien.md#阵阵不离穆桂英)】`chen6 chen6 beh7 li2 moh8 guei5 ien1` <sup>[东台]</sup> 以宋代杨门女将穆桂英比喻某人能者多劳。（与“趟趟上”近义）  
 1. 【[阵<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_r.md#阵<sub>儿</sub>)】`chen6 r` 一会儿，时候  
-1. 【[阵<sub>儿</sub>工夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_r_gon_fv.md#阵<sub>儿</sub>工夫)】`chen6 r gon1 fv1` 很短的时间，马上，一会儿  
 1. 【[阵场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_shan.md#阵场)】`chen6 shan` <sup>[泰县]</sup> 阵雨。（另见chen6 chan）  
 1. 【[阵头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_teu.md#阵头)】`chen6 teu` <sup>[如皋]</sup> 夏季来去快速的雨云。  
 1. 【[阵头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_teu.md#阵头)】`chen6 teu` <sup>[兴化]</sup> ① 天空厚云层伴随雷电，似要下雨的样子，也称“天色”：～来啊。｜果然～过，雨小了……（《初刻》九） ② 雷阵雨：～雨。  
@@ -1104,6 +1097,11 @@
 1. 【[阵头子风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_teu_zz_fon.md#阵头子风)】`chen6 teu zz fon1` <sup>[如皋]</sup> 风力大的阵风。  
 1. 【[阵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_zz.md#阵子)】`chen6 zz` <sup>[如皋]</sup> 分娩的阵痛。  
 1. 【[阵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_zz.md#阵子)】`chen6 zz` <sup>[东台]</sup> ① 孕妇临产时阵痛。 ② 一段时间：这一～她在家里忙甚的？  
+1. 【[阵<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_r.md#阵<sub>儿</sub>)】`chen9 r` <sup>[如东]</sup> 一会儿：～工夫。  
+1. 【[阵<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_r.md#阵<sub>儿</sub>)】`chen9 r` <sup>[如皋]</sup> 一会儿。  
+1. 【[阵<sub>儿</sub>风阵<sub>儿</sub>雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_r_fon_chen_r_y.md#阵<sub>儿</sub>风阵<sub>儿</sub>雨)】`chen9 r fon1 chen9 r y3` <sup>[如东]</sup> 一会儿这样，一会儿那样，变化无常：不要～的。  
+1. 【[阵<sub>儿</sub>风阵<sub>儿</sub>雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_r_fon_chen_r_y.md#阵<sub>儿</sub>风阵<sub>儿</sub>雨)】`chen9 r fon1 chen9 r y3` <sup>[如皋]</sup> ① 指天气多变。 ② 喻人的脾气坏，变化无常。 ③ 喻事态多变。  
+1. 【[阵<sub>儿</sub>工夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_r_gon_fv.md#阵<sub>儿</sub>工夫)】`chen9 r gon1 fv1` <sup>[如东]</sup> 形容时间很短：只要～就能办好。  
 1. 【[㿒心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_xien.md#㿒心)】`cheu1 xien1` <sup>[如皋]</sup> 生活艰难，意不畅。  
 1. 【[抽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu.md#抽)】`cheu1` <sup>[如东]</sup> 筛选：把黄豆用筛子～下子。  
 1. 【[抽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu.md#抽)】`cheu1` <sup>[兴化]</sup> 烟熏：香烟把手～黄吖。  
@@ -1393,7 +1391,6 @@
 1. 【[畜牲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh_shen.md#畜牲)】`choh7 shen` <sup>[如皋]</sup> ① 禽兽鱼虫等。 ② 贬指违礼之人：～货、活～、精～、做～事、人毛～。  
 1. 【[畜生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh_shen.md#畜生)】`choh7 shen` <sup>[如东]</sup> ① 牲畜的通称。 ② 比喻愚蠢、野蛮、不懂道理、道德低下的人：流氓是一群～。  
 1. 【[畜生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh_shen.md#畜生)】`choh7 shen` <sup>[东台]</sup> 本指动物，也做詈语，指没有教养如同禽兽。也作“畜牲”。  
-1. 【[触](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh.md#触)】`choh7` <sup>[兴化]</sup> ① 眼鼻受到强烈刺激：这洋葱荤气～人。 ② （迷信）见到应避讳的事物，就会受～。  
 1. 【[触壁脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh_bieh_jiah.md#触壁脚)】`choh7 bieh7 jiah7` <sup>[如皋]</sup> 揭老底。  
 1. 【[触阳寿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh_ian_sheu.md#触阳寿)】`choh7 ian2 sheu6` <sup>[如东]</sup> 因为做缺德的事情而早死。  
 1. 【[触机](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh_ji.md#触机)】`choh7 ji1` <sup>[如皋]</sup> 由某事联想起：看见人家买衣裳，我一～，想到你要买衣裳的事，赶紧通知你来买。  
@@ -2395,7 +2392,7 @@
 1. 【[族长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_zhan.md#族长)】`coh8 zhan3` <sup>[东台]</sup> 旧时宗法家族的首领，通常由家族中辈分高有权威的男性担任，裁决族内争端。  
 1. 【[镞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh.md#镞)】`coh8` <sup>[如皋]</sup> 在纸上凿刻：～喜笺、～毛丈。  
 1. 【[镞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh.md#镞)】`coh8` <sup>[兴化]</sup> ① 在木板上雕花：～花板子。 ② 在纸上镂刻图案或文字。《集韵·屋的》昨木切：“～，缕也”。俗作“镞”：～花边纸。  
-1. 【[镞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh.md#镞)】`coh8` <sup>[如东]</sup> ① 雕刻（纸）：～喜钱。 ② 用嘴取食东西：红烧肉摆啊桌上，许多苍蝇在上头～。  
+1. 【[镞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh.md#镞)】`coh8` <sup>[如东]</sup> 雕刻（纸）：～喜钱。  
 1. 【[聪明](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/con_mien.md#聪明)】`con1 mien2` <sup>[如东]</sup> 智商高，理解力强，记忆力强：小明从小就～。  
 1. 【[葱果<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/con_gu_r.md#葱果<sub>儿</sub>)】`con1 gu3 r` <sup>[如皋]</sup> 葱的地下茎。  
 1. 【[葱果<sub>儿</sub>鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/con_gu_r_pieh_zz.md#葱果<sub>儿</sub>鼻子)】`con1 gu3 r pieh8 zz` <sup>[如皋]</sup> 俊美若葱头的鼻子。  

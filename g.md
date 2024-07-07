@@ -340,8 +340,8 @@
 1. 【[锏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_zz.md#锏子)】`gaen5 zz` <sup>[东台]</sup> 套在手指上用作纪念或装饰用的指环：一对新人在交换结婚～。  
 1. 【[间壁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_bieh.md#间壁)】`gaen5 bieh7` <sup>[如东]</sup> 隔壁：王妈妈住啊～。  
 1. 【[间壁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_bieh.md#间壁)】`gaen5 bieh7` <sup>[东台]</sup> 隔壁。  
-1. 【[间辰<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_chen_r.md#间辰<sub>儿</sub>)】`gaen5 chen2 r` <sup>[如东]</sup> 隔一会儿：～我就来。  
-1. 【[间辰<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_chen_r.md#间辰<sub>儿</sub>)】`gaen5 chen2-3 r` <sup>[如皋]</sup> 等一会儿。  
+1. 【[间阵<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_chen_r.md#间阵<sub>儿</sub>)】`gaen5 chen9 r` <sup>[如东]</sup> 隔一会儿：～我就来。  
+1. 【[间阵<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_chen_r.md#间阵<sub>儿</sub>)】`gaen5 chen9 r` <sup>[如皋]</sup> 等一会儿。  
 1. 【[间间口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_gaen_keu.md#间间口)】`gaen5 gaen5 keu3` <sup>[东台]</sup> 调换食品，换换口味。  
 1. 【[间花样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_hua_ian.md#间花样)】`gaen5 hua1 ian6` <sup>[兴化]</sup> 变换花色：今朝吃鱼，明朝吃肉，他要～儿。  
 1. 【[间花<sub>儿</sub>扬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_hua_r_ian.md#间花<sub>儿</sub>扬)】`gaen5 hua1 r ian2` <sup>[如皋]</sup> 不规则相间。  
