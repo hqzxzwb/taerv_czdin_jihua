@@ -99,7 +99,7 @@
 1. 【[太阳曤曤的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_huah_huah_dii.md#太阳曤曤的)】`tae5 ian huah7 huah7 dii` <sup>[如皋]</sup> 指夏日，太阳强烈时。  
 1. 【[太阳一树头高](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_ieh_shv_teu_go.md#太阳一树头高)】`tae5 ian ieh7 shv6 teu2 go1` <sup>[如皋]</sup> 约冬在8时。夏在6时。  
 1. 【[太阳影子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_ien_zz.md#太阳影子)】`tae5 ian ien3 zz` <sup>[如皋]</sup> ① 树荫、竹荫下的阳光透过来形成的小圆斑。 ② 人或物体遮阳的阴影。  
-1. 【[太阳圐啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_ku_a.md#太阳圐啊)】`tae5 ian ku1 a` <sup>[如皋]</sup> 日晕。  
+1. 【[太阳窠啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_ku_a.md#太阳窠啊)】`tae5 ian ku1 a` <sup>[如皋]</sup> 日晕。  
 1. 【[太阳落山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_lah_shaen.md#太阳落山)】`tae5 ian lah8 shaen1` <sup>[如东]</sup> 日暮，太阳下沉，光线逐渐被地球遮挡，称太阳落山。  
 1. 【[太阳平南](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_pien_nun.md#太阳平南)】`tae5 ian pien2 nun2` <sup>[如东]</sup> 上午十点钟左右的时间。  
 1. 【[太阳偏西](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_pin_xi.md#太阳偏西)】`tae5 ian pin1 xi1` <sup>[如东]</sup> 下午两三点钟：一觉睡到～。  
@@ -159,7 +159,7 @@
 1. 【[待女](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ny.md#待女)】`tae6 ny3` <sup>[东台]</sup> 姑娘出嫁前一天的酒席。这一天男方称“暖轿”。  
 1. 【[待匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_qian.md#待匠)】`tae6 qian6` <sup>[东台]</sup> 指工程竣工，招待工匠：房子明吖～。  
 1. 【[怠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#怠)】`tae6` <sup>[兴化]</sup> （借）松懈：这件事就是他～下来的。  
-1. 【[拖啊拖的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_a_tae_dii.md#拖啊拖的)】`tae6 a1 tae6 dii` <sup>[东台]</sup> 动作拖沓、慢吞吞：行动快点儿，不要～的。  
+1. 【[怠啊怠的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_a_tae_dii.md#怠啊怠的)】`tae6 a1 tae6 dii` <sup>[东台]</sup> 动作拖沓、慢吞吞：行动快点儿，不要～的。  
 1. 【[汏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#汏)】`tae6` <sup>[如皋]</sup> 漂洗。  
 1. 【[汏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#汏)】`tae6` <sup>[东台]</sup> 洗过的衣被，再放到清水里漂洗。  
 1. 【[汏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#汏)】`tae6` <sup>[兴化]</sup> 洗后漂清：金如松一面把洗的衣裳～～清，一面……（马春阳《姐妹姻缘船迷传》）｜《后汉书·陈元传》｜“解释先圣之积结，洮汰学者之累惑。”李贤注｜“洗汰，犹洗濯也。”  
@@ -2402,12 +2402,12 @@
 1. 【[团](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun.md#团)】`tun2` <sup>[东台]</sup> ① 用糯米粉做成的食品：麻～｜桂花板油凉～。 ② 与盐业相关的地名：新～｜垛～。 ③ 蜷缩：俯就～一宿吧。  
 1. 【[团](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun.md#团)】`tun2` <sup>[兴化]</sup> ① 蹲：～吖地下。 ② 停留：～吖家里不出来。 ③ 聚集：家人～吖一起，欢欢喜喜过年。  
 1. 【[团](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun.md#团)】`tun2` <sup>[泰县]</sup> 踡缩：他～吖在那间家里。  
+1. 【[团匾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_bin.md#团匾)】`tun2 bin3` <sup>[如皋]</sup> 精篾编制的席装在长圆形的粗篾壳中做成的睡具。  
 1. 【[团圆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_iun.md#团圆)】`tun2 iun2` <sup>[如东]</sup> 散而复聚：夫妻～。  
 1. 【[团圆饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_iun_bien.md#团圆饼)】`tun2 iun2 bien3` <sup>[东台]</sup> 八月中秋节吃的实心无馅的大饼，在锅中放少许油烙成，供奉月光菩萨，因此种饼圆形，象征团圆，故称之为心。  
 1. 【[团圆镜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_iun_jien.md#团圆镜)】`tun2 iun2 jien5` <sup>[如皋]</sup> 谑语，指马桶盖儿。  
 1. 【[团圆节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_iun_jih.md#团圆节)】`tun2 iun2 jih7` <sup>[如皋]</sup> 通常指中秋节和除夕。  
 1. 【[团吖下睏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_nga_ha_kuen.md#团吖下睏)】`tun2 nga ha kuen5` <sup>[如皋]</sup> 屈侧卧。  
-1. 【[团匾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_pin.md#团匾)】`tun2 pin3` <sup>[如皋]</sup> 精篾编制的席装在长圆形的粗篾壳中做成的睡具。  
 1. 【[团脐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_qi.md#团脐)】`tun2 qi2` <sup>[东台]</sup> 指母蟹，蟹油较多。  
 1. 【[团前左右](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_qin_zu_ieu.md#团前左右)】`tun2 qin2 zu3 ieu6` <sup>[兴化]</sup> 前后左右：看看～的人家，哪个像你家天天吵嘴的。  
 1. 【[团穗头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_qy_teu_r.md#团穗头<sub>儿</sub>)】`tun2 qy6 teu2 r` <sup>[如皋]</sup> 黍稷型圆椎花序。如：狗尾儿（穀子）。  
