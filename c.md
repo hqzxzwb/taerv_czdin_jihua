@@ -1327,7 +1327,8 @@
 1. 【[潮叽叽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_ji_ji.md#潮叽叽)】`cho2 ji1 ji1` <sup>[东台]</sup> 形容湿漉漉的，含水较多的样子。  
 1. 【[潮叽抹杀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_ji_maeh_shaeh.md#潮叽抹杀)】`cho2 ji1 maeh8 shaeh7` <sup>[如皋]</sup> 湿润的样子。  
 1. 【[潮烂泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_laen_ni.md#潮烂泥)】`cho2 laen6 ni2` <sup>[如皋]</sup> 湿润的泥土  
-1. 【[潮露露](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_lv_lv.md#潮露露)】`cho2 lv lv1` <sup>[兴化]</sup> 形容非常潮湿。  
+1. 【[潮落落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_lah_lah.md#潮落落)】`cho2 lah lah` <sup>[兴化]</sup> 形容非常潮湿。（原文作“潮漉漉 cho2 lah7 lah7”，音不合）  
+1. 【[潮卤卤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_lv_lv.md#潮卤卤)】`cho2 lv lv` <sup>[兴化]</sup> 形容非常潮湿。  
 1. 【[潮气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_qi.md#潮气)】`cho2 qi5` <sup>[如东]</sup> 空气里水分较多：春天早晨，～大。  
 1. 【[潮气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_qi.md#潮气)】`cho2 qi5` <sup>[兴化]</sup> （戏）旧称情夫、情妇互为对方的：玩～。  
 1. 【[潮湿湿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_sheh_sheh.md#潮湿湿)】`cho2 sheh7 sheh7` <sup>[如皋]</sup> 湿润的样子。  
