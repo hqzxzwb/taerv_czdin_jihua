@@ -1,10 +1,10 @@
-# 间辰儿
-gaen5 chen2 r
+# 间阵儿
+gaen5 chen9 r
 > 如东方言词典
 - 隔一会儿。
   - ～我就来。
 
-# 间辰儿
-gaen5 chen2-3 r
+# 间阵儿
+gaen5 chen9 r
 > 如皋方言词典
 - 等一会儿。

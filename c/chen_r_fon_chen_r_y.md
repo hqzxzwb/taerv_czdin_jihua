@@ -1,11 +1,11 @@
-# 辰儿风辰儿雨
-chen2 r fon1 chen2 r y3
+# 阵儿风阵儿雨
+chen9 r fon1 chen9 r y3
 > 如东方言词典
 - 一会儿这样，一会儿那样，变化无常。
   - 不要～的。
 
-# 辰儿风辰儿雨
-chen2 r fon1 chen2 r y3
+# 阵儿风阵儿雨
+chen9 r fon1 chen9 r y3
 > 如皋方言词典
 - 指天气多变。
 - 喻人的脾气坏，变化无常。

@@ -16,6 +16,7 @@ LINK_FORMAT = "https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/%s#%s"
 PY_FORMAT = re.compile("^([bpmfdtnlgkhjqxzcsr]|[zcs]h|ng|dd)?([aoeivuyrzm]+|ng)[nh]?[0-9]?$")
 
 FILTERED_OUT_IEN = {
+    '炸': {'chaeh8', 'shaeh8'},
     '秸': 'gae1',
     '合': 'guh7',
     '核': {'hueh8', 'veh8'},
