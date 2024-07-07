@@ -1617,6 +1617,7 @@
 1. 【[齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr.md#齿)】`chr3` <sup>[兴化]</sup> 物体上齿形部分：锯～；梳～；糙～。  
 1. 【[齿陡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_deu.md#齿陡)】`chr3 deu3` <sup>[如皋]</sup> 石磨、钉钯、锯子等的齿的迎面与根部的夹角小于90°，工作时吃力而快。  
 1. 【[齿眠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_min.md#齿眠)】`chr3 min2` <sup>[如皋]</sup> 石磨、钉钯、锯子等的齿的迎面与根部的夹角大于90°，工作时省力而慢。  
+1. 【[厕所里安电扇——出臭风头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_su_lii_un.md#厕所里安电扇——出臭风头)】`chr5 su3 lii un1 din5 shin5 chueh7 cheu5 fon1 teu` <sup>[东台]</sup>   
 1. 【[滞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr.md#滞)】`chr5` <sup>[如皋]</sup> ① 眼神呆～：他的眼神是～的。 ② 脸色无光：他一脸的～色。 ③ 剩：吃咖～下来啊；～饭碗。  
 1. 【[滞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr.md#滞)】`chr5` <sup>[东台]</sup> 吃剩下的东西：他舍不得把～饭～粥倒掉。  
 1. 【[滞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr.md#滞)】`chr5` <sup>[如皋]</sup> 食积不化：伢儿肚里有～，要吃保赤丸打～。  
@@ -2727,7 +2728,6 @@
 1. 【[刺猬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_y.md#刺猬)】`cz5 y2` <sup>[如皋]</sup> 刺猬，哺乳纲，食虫目。读音同武汉，是楚音遗存。一般写“刺鱼”。  
 1. 【[刺鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_y.md#刺鱼)】`cz5 y2` <sup>[如东]</sup> 刺猬科动物刺猬。  
 1. 【[刺鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_y.md#刺鱼)】`cz5 y2` <sup>[东台]</sup> 刺猬的俗称。也喻指某些喜欢挑事的好斗之人。  
-1. 【[厕所里安电扇——出臭风头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_su_lii_un_din_shin_chueh_cheu_fon_teu.md#厕所里安电扇——出臭风头)】`cz5 su3 lii un1 din5 shin5 chueh7 cheu5 fon1 teu` <sup>[东台]</sup>   
 1. 【[次](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz.md#次)】`cz5` <sup>[如皋]</sup> 次序：不要乱，挨～儿的来。  
 1. 【[次把次](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_ba_cz.md#次把次)】`cz5 ba cz5` <sup>[兴化]</sup> 一两次或谓次数不多：（他）冬寒天也不过来照顾～，所以也不想要他的钱。（《皮五辣子》二）  
 1. 【[次<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_r.md#次<sub>儿</sub>)】`cz5 r` <sup>[如皋]</sup> 次序。  
