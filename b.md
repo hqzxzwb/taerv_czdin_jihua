@@ -1059,7 +1059,6 @@
 1. 【[畚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben.md#畚)】`ben1` <sup>[如皋]</sup> ① 用畚斗儿、粪箕撮物。 ② 指吃相粗鄙。  
 1. 【[畚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben.md#畚)】`ben1` <sup>[兴化]</sup> 以簸箕撮物：～土；～粮食。  
 1. 【[畚斗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_deu_r.md#畚斗<sub>儿</sub>)】`ben1 deu3 r` <sup>[如皋]</sup> 簸箕或𡊄箕。  
-1. 【[畚斗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_deu_r.md#畚斗<sub>儿</sub>)】`ben1 deu3 r` <sup>[如皋]</sup> 江芦篾编扼成的撮垃圾用具，像半只筐，家庭清洁用。  
 1. 【[畚斗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_deu_r.md#畚斗<sub>儿</sub>)】`ben1 deu3 r` <sup>[兴化]</sup> 粪箕。撮物工具。  
 1. 【[畚斗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_deu_r.md#畚斗<sub>儿</sub>)】`ben1 deu3 r` <sup>[泰县]</sup> 簸箕。  
 1. 【[贲家集](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_ga_qieh.md#贲家集)】`ben1 ga1 qieh8` <sup>[东台]</sup> 古东台地名，现属海安县。  

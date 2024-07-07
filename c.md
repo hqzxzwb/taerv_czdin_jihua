@@ -34,7 +34,7 @@
 1. 【[豺吊<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_dio_r.md#豺吊<sub>儿</sub>)】`cae2 dio5 r` <sup>[如东]</sup> 牙齿。  
 1. 【[财担](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_daen.md#财担)】`cae2 daen` <sup>[兴化]</sup> 开支：个人砌房子～太大。  
 1. 【[财东](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_don.md#财东)】`cae2 don1` <sup>[如东]</sup> 企业或财物的所有者，通称老板：陈宝珠是大～。  
-1. 【[财发精神长，人穷瞌睡多](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_faeh_jien_shen_zhan_ren_qion_kuh_shuei_du.md#财发精神长，人穷瞌睡多)】`cae2 faeh7 jien1 shen2 zhan3 ren2 qion2 kuh7 shuei5 du1` <sup>[东台]</sup> 形容物质条件或机遇影响人的精神状态。  
+1. 【[财发精神长，人穷瞌睡多](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_faeh_jien_shen_zhan_ren_qion_kuh_shuei_du.md#财发精神长，人穷瞌睡多)】`cae2 faeh7 jien1 shen zhan3 ren2 qion2 kuh7 shuei du1` <sup>[东台]</sup> 形容物质条件或机遇影响人的精神状态。  
 1. 【[财气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_qi.md#财气)】`cae2 qi5` <sup>[如东]</sup> 发财的运气：～不旺。  
 1. 【[财去人安乐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_qy_ren_un_lah.md#财去人安乐)】`cae2 qy5 ren2 un1 lah8` <sup>[东台]</sup> （俗语）人在破财以后的自我安慰：车子碰掉一块，不要气，～｜风吹鸭蛋壳，～。  
 1. 【[财神老<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_shen_lo_r.md#财神老<sub>儿</sub>)】`cae2 shen lo3 r` <sup>[如东]</sup> ① 管理财物的人：周会计是～。 ② 会赚钱的人：王刚会做生意，是个～。 ③ 春节期间的乞丐：送两只馒头匃～。  
@@ -551,10 +551,10 @@
 1. 【[差脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_jiah.md#差脚)】`chae1 jiah7` <sup>[兴化]</sup> 船家装货谓“装差”，载重量谓～：～大；～小。  
 1. 【[差人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_ren.md#差人)】`chae1 ren` <sup>[如皋]</sup> 衙役。  
 1. 【[差人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_ren.md#差人)】`chae1 ren2` <sup>[如东]</sup> 旧社会在衙门里当差的人。  
-1. 【[㾹骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_gueh.md#㾹骨)】`chae2 gueh7` <sup>[兴化]</sup> ① 消瘦。 ② 由于骨骼小而显瘦：他生得～。㾹，《玉篇，广部》｜仕皆切，瘦也。  
 1. 【[柴笆门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_ba_men.md#柴笆门)】`chae2 ba men2` <sup>[兴化]</sup> ① 用柴笆扎成的简陋的门。 ② （借）指贫家小户：她是走～出来的。  
 1. 【[柴笆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_ba.md#柴笆)】`chae2 ba1` <sup>[兴化]</sup> 用芦柴编的篱笆。  
 1. 【[柴草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_co.md#柴草)】`chae2 co3` <sup>[兴化]</sup> 整齐成捆的芦苇茎叶。  
+1. 【[柴骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_gueh.md#柴骨)】`chae2 gueh7` <sup>[兴化]</sup> ① 消瘦。 ② 由于骨骼小而显瘦：他生得～。  
 1. 【[𠏾尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_xy.md#𠏾尿)】`chae6 xy1` <sup>[如东]</sup> 排泄小便。  
 1. 【[𠏾尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_xy.md#𠏾尿)】`chae6 xy1` <sup>[如皋]</sup> 排小便。  
 1. 【[𠏾尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_xy.md#𠏾尿)】`chae6 xy1` <sup>[东台]</sup> 解小便：带伢儿睡觉，夜里要拉他～。  
@@ -1139,7 +1139,7 @@
 1. 【[䌷泥螺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_ni_lu.md#䌷泥螺)】`cheu2 ni2 lu1` <sup>[如皋]</sup> 用嘴吸出熟泥螺肉。  
 1. 【[䌷气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_qi.md#䌷气)】`cheu2 qi5` <sup>[如皋]</sup> 口吸气  
 1. 【[䌷气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_qi.md#䌷气)】`cheu2 qi5` <sup>[兴化]</sup> 吸气：他惊得直～。｜“冰冷的嘴亲在我的嘴上～”（《醒世姻缘传》第九十二回）。  
-1. 【[䌷汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_tan.md#䌷汤)】`cheu2 tan2` <sup>[如皋]</sup> ① 口吸汤。 ② 粮食煮熟时吸汤汁的过程。  
+1. 【[䌷汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_tan.md#䌷汤)】`cheu2 tan1` <sup>[如皋]</sup> ① 口吸汤。 ② 粮食煮熟时吸汤汁的过程。  
 1. 【[仇家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_jia.md#仇家)】`cheu2 jia1` <sup>[如东]</sup> 仇人。  
 1. 【[仇口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_keu.md#仇口)】`cheu2 keu3` <sup>[如皋]</sup> 互相仇恨的人。  
 1. 【[愁帽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_mo_zz.md#愁帽子)】`cheu2 mo6 zz` <sup>[兴化]</sup> 令人烦恼、忧愁的事情：大家都戴啊～，生怕完不成任务。  
@@ -1223,8 +1223,7 @@
 1. 【[彻趟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih_tan.md#彻趟)】`chih7 tan5` <sup>[如东]</sup> 利索彻底：这个问题处理得～。  
 1. 【[慑惧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih_jy.md#慑惧)】`chih7 jy5` <sup>[如皋]</sup> 敬畏、害怕：他～你，见到你就躲。  
 1. 【[撤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih.md#撤)】`chih7` <sup>[兴化]</sup> ① 搬开：把堂屋里桌椅～掉。｜把桌上剩菜～掉。 ② 清除液体中沉淀物：～缸脚子｜～油脚子。  
-1. 【[撤撤<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih_chih_r.md#撤撤<sub>儿</sub>)】`chih7 chih3 r` <sup>[如皋]</sup> 江芦篾编扼成的撮垃圾用具，像半只筐，家庭清洁用。  
-1. 【[撤撤<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih_chih_r.md#撤撤<sub>儿</sub>)】`chih7 chih7 r` <sup>[如皋]</sup> 较浅的一类粪箕。  
+1. 【[撤撤<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih_chih_r.md#撤撤<sub>儿</sub>)】`chih7 chih7-3 r` <sup>[如皋]</sup> 较浅的一类𡊄箕。  
 1. 【[撤盘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih_pun_zz.md#撤盘子)】`chih7 pun2 zz` <sup>[如东]</sup> 把菜盘、菜碗从酒桌上拿走，表示酒席结束。  
 1. 【[撤跳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih_tio.md#撤跳)】`chih7 tio5` <sup>[兴化]</sup> 搬开搭在岸上的跳板：汽笛一响，水手连忙解缆，～开船。  
 1. 【[侄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih.md#侄)】`chih8` <sup>[东台]</sup> 哥或弟之子。  
@@ -2291,7 +2290,7 @@
 1. 【[草帽<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_mo_r.md#草帽<sub>儿</sub>)】`co3 mo6 r` <sup>[如皋]</sup> 草帽。  
 1. 【[草屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_oh.md#草屋)】`co3 oh7` <sup>[如东]</sup> 以茅草苫盖屋面的房屋。  
 1. 【[草棚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_pon_zz.md#草棚子)】`co3 pon2 zz` <sup>[兴化]</sup> ① 用竹木等搭架子，上面覆盖芦䉬、笆和草用来遮蔽阳光和风雨。 ② 草屋。  
-1. 【[草匠收工——步步往下走](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_qian_sheu_gon_pv_pv_van_ha_zeu.md#草匠收工——步步往下走)】`co3 qian6 sheu1 gon1 pv6 pv6 van6 ha6 zeu3` <sup>[东台]</sup>   
+1. 【[草匠收工——步步望下走](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_qian_sheu_gon_pv_pv_van_ha_zeu.md#草匠收工——步步望下走)】`co3 qian6 sheu1 gon1 pv6 pv6 van6 ha6 zeu3` <sup>[东台]</sup>   
 1. 【[草席](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_qieh.md#草席)】`co3 qieh8` <sup>[如东]</sup> ① 用席草编织的席子。 ② 用芒棵编织的席子，主要用于晒粮和堆粮。  
 1. 【[草席子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_qieh_zz.md#草席子)】`co3 qieh8 zz` <sup>[如皋]</sup> 用席子草织的席子，卧具。  
 1. 【[草芍药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_shah_iah.md#草芍药)】`co3 shah8 iah8` <sup>[如东]</sup> 毛茛科植物芍药，多年生草本。  
