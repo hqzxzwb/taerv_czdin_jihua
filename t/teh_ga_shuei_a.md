@@ -1,4 +1,4 @@
-# 忑咖睡吖
-teh7 ga kuen5 nga
+# 忑咖睡啊
+teh7 ga shuei5 a
 > 如皋方言词典
 - 无意中睡着了。
