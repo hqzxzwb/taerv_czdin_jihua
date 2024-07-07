@@ -1179,9 +1179,11 @@
 1. 【[十八房佮咖一个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_baeh_fan_guh_ga_ieh_gu.md#十八房佮咖一个)】`sheh8 baeh7 fan2 guh7 ga ieh7 gu5` <sup>[东台]</sup> 形容极其宝贵，不能有一点闪失。  
 1. 【[十八里相送——难舍难分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_baeh_li_xian_son_naen_sha_naen_fen.md#十八里相送——难舍难分)】`sheh8 baeh7 li3 xian1 son5 naen2 sha3 naen2 fen1` <sup>[东台]</sup>   
 1. 【[十八岁长胡子——老相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_baeh_xy_zhan_hv_zz_lo_xian.md#十八岁长胡子——老相)】`sheh8 baeh7 xy5 zhan3 hv2 zz lo3 xian5` <sup>[东台]</sup>   
+1. 【[十八子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_baeh_zz.md#十八子)】`sheh8 baeh7 zz3` <sup>[泰兴]</sup> 指李姓，“李”拆字：邻家李先生，人都称他～先生。  
 1. 【[十不全](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_beh_qiun.md#十不全)】`sheh8 beh qiun2` <sup>[兴化]</sup> 身体或器物有多处缺陷。  
 1. 【[十不全](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_beh_qiun.md#十不全)】`sheh8 beh qiun2` <sup>[泰县]</sup> ① 残疾人。 ② 冗员。  
 1. 【[十不全](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_beh_qiun.md#十不全)】`sheh8 beh7 qiun2` <sup>[如皋]</sup> ① 残疾。 ② 知识博而疏。  
+1. 【[十边坎子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_bin_kun_zz.md#十边坎子)】`sheh8 bin1 kun3 zz` <sup>[泰兴]</sup> 谓沟边、路边、家前屋后等边角废地，多种植菜蔬等。  
 1. 【[十边地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_bin_ti.md#十边地)】`sheh8 bin1 ti6` <sup>[东台]</sup> 指农村屋边路边河边沟边及各类设施旁边的零星隙地。  
 1. 【[十成十](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_chen_sheh.md#十成十)】`sheh8 chen2 sheh8` <sup>[如皋]</sup> 全部、百分之百、绝对：调解总是调解，不能～的解决；他说的情况～的可靠。  
 1. 【[十丑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_cheu.md#十丑)】`sheh8 cheu3` <sup>[如东]</sup> ① 人的相貌难看：这个人～。 ② 物体款式、质量不好：这套家具～。  
@@ -1191,6 +1193,7 @@
 1. 【[十大功劳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_da_gon_lo.md#十大功劳)】`sheh8 da6 gon1 lo2` <sup>[如东]</sup> 小檗科植物十大功劳，常绿乔木。高约4米。羽状复叶互生，宽卵形，上面绿色，下面灰色。总状花序丛生茎顶。花黄色。浆果卵形，暗蓝色。栽培。  
 1. 【[十大功劳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_da_gon_lo_zz.md#十大功劳子)】`sheh8 da6 gon1 lo2 zz` <sup>[如东]</sup> 小檗科植物十大功劳的果实。  
 1. 【[十殿阎君（王）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_din_in_jyen.md#十殿阎君（王）)】`sheh8 din5 in2 jyen1` <sup>[如皋]</sup> 道教称地府有十个阎王，五阎王最厉害。旧时在城隍庙两廊有塑像。  
+1. 【[十二分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_er_fen.md#十二分)】`sheh8 er6 fen1` <sup>[泰兴]</sup> 形容程度极深，比用“十分”的语气更强。  
 1. 【[十二个菩萨没四两重——轻神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_er_gu_pv_saeh_meh_sz_lian_chon_qien_shen.md#十二个菩萨没四两重——轻神)】`sheh8 er6 gu pv2 saeh7 meh8 sz5 lian3 chon6 qien1 shen2` <sup>[如皋]</sup>   
 1. 【[十番十调](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_faen_sheh_dio.md#十番十调)】`sheh8 faen1 sheh8 dio5` <sup>[如皋]</sup> 贬义。指用心机而不断玩花头、翻花样、耍花招以达到自己的目的。  
 1. 【[十翻十调](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_faen_sheh_dio.md#十翻十调)】`sheh8 faen1 sheh8 dio5` <sup>[东台]</sup> 形容出尔反尔反复无常：你如果～，哪个还敢跟你合作？  
@@ -1215,8 +1218,10 @@
 1. 【[十三点](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_saen_din.md#十三点)】`sheh8 saen1 din3` <sup>[如东]</sup> 乌龟壳共有十三块，意为龟。老婆与别人相好的男人为十三点，即乌龟。“痴”字的笔划共有十三笔，意谓不聪明。扑克牌有一种游戏方法叫“摸十一点”，超过十一点叫“果”。“十三点”喻指呆子。  
 1. 【[十三点](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_saen_din.md#十三点)】`sheh8 saen1 din3` <sup>[兴化]</sup> 形容人傻里傻气：这个人是～，道理讲不起来。  
 1. 【[十三点](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_saen_din.md#十三点)】`sheh8 saen1 din3` <sup>[泰县]</sup> 言行不正常，傻里傻气。  
+1. 【[十三点](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_saen_din.md#十三点)】`sheh8 saen1 din3` <sup>[泰兴]</sup> 喻傻子。若“二十五”、“二百五”。  
 1. 【[十三块](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_saen_kuae.md#十三块)】`sheh8 saen1 kuae5` <sup>[如皋]</sup> 龟壳中心花纹为～。因指“做龟”。  
 1. 【[十三块](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_saen_kuae.md#十三块)】`sheh8 saen1 kuae5` <sup>[兴化]</sup> 龟壳上裂纹十三块。市井语，暗指戴绿帽的男子。  
+1. 【[十三块](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_saen_kuae.md#十三块)】`sheh8 saen1 kuae5` <sup>[泰兴]</sup> 龟板上花纹形成十三块形状，故称其十三块。乡人讥讽妻有外遇者为“龟头”、“缩头龟”、“戴绿帽子”等，亦呼为“十三块”。  
 1. 【[十五个吊桶打水——七上八下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_v_gu_dio_ton_da_shuei_qieh_shan_baeh_ha.md#十五个吊桶打水——七上八下)】`sheh8 v3 gu dio5 ton3 da3 shuei3 qieh7 shan6 baeh7 ha6` <sup>[东台]</sup>   
 1. 【[十五个瞎子坐桌子——瞎七瞎八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_v_gu_haeh_zz_cu_zhuah_zz_haeh_qieh_haeh_baeh.md#十五个瞎子坐桌子——瞎七瞎八)】`sheh8 v3 gu haeh7 zz cu6 zhuah7 zz haeh7 qieh7 haeh7 baeh7` <sup>[东台]</sup>   
 1. 【[十五个蠓蠓虫从眼前一飞，分得清七雌八雄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_v_gu_mon_mon_chon_con_ngaen_qin_ieh_fei_fen_deh_qien_qieh_cz_baeh_ion.md#十五个蠓蠓虫从眼前一飞，分得清七雌八雄)】`sheh8 v3 gu mon3 mon3 chon2 con2 ngaen3 qin2 ieh7 fei1 fen1 deh7 qien1 qieh7 cz1 baeh7 ion2` <sup>[东台]</sup> 对眼力特好的夸张说法。  

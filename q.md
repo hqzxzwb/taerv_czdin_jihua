@@ -596,14 +596,19 @@
 1. 【[七不离八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_beh_li_baeh.md#七不离八)】`qieh7 beh7 li2 baeh7` <sup>[如东]</sup> 相差不多：做到～就行吖。  
 1. 【[七不离八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_beh_li_baeh.md#七不离八)】`qieh7 beh7 li2 baeh7` <sup>[东台]</sup> 差不多的意思。  
 1. 【[七不离八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_beh_li_baeh.md#七不离八)】`qieh7 beh7 li2 baeh7` <sup>[兴化]</sup> 形容相距不远：这个工程已经～，接近扫尾啊。｜农历六月头上，田头场头活儿忙得～了……（钱国怀《桃子》）。  
+1. 【[七不离八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_beh_li_baeh.md#七不离八)】`qieh7 beh7 li2 baeh7` <sup>[泰兴]</sup> 差不多，悬殊不大。  
 1. 【[七搞八搞的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_bo_baeh_bo_dii.md#七搞八搞的)】`qieh7 bo3 baeh7 bo3 dii` <sup>[如皋]</sup> 纠缠不清。  
 1. 【[七长八短](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_chan_baeh_dun.md#七长八短)】`qieh7 chan2 baeh7 dun3` <sup>[兴化]</sup> 参差不齐：他搬家来一捆～的竹子，说是搭鸡棚的。  
+1. 【[七长八短](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_chan_baeh_dun.md#七长八短)】`qieh7 chan2 baeh7 dun3` <sup>[泰兴]</sup> ① 长短高低，零落不全 ② 或谓说长道短，唠叨不绝  
 1. 【[七缠八缠的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_chin_baeh_chin_dii.md#七缠八缠的)】`qieh7 chin6 baeh7 chin6 dii` <sup>[如皋]</sup> 状纠缠不清。  
+1. 【[七出](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_chueh.md#七出)】`qieh7 chueh7` <sup>[泰兴]</sup> 旧社会丈夫遗弃妻子的七种条款。“七出”谓：无子，淫佚，不事舅姑，口舌，盗窃，妒忌，恶疾。乡人有初春“七不出，八不归”之俗，云“正月初七不出门，”疑因此而来，盖今人不知“七出”之说也。  
 1. 【[七串联](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_chun_lin.md#七串联)】`qieh7 chun5 lin2` <sup>[如东]</sup> 风筝的一种。用竹条做骨架，扎成六角形，上面糊银皮纸。七只六角风筝联在一起称七串联。最多的三十二串联。  
 1. 【[七簇星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_coh_xien.md#七簇星)】`qieh7 coh7 xien1` <sup>[如皋]</sup> ① 海豚座七星密集，谓之。 ② 用七只圆圈串联成的风筝，下有绳尾。  
 1. 【[七簇星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_coh_xien.md#七簇星)】`qieh7 coh7 xien1` <sup>[如东]</sup> 海豚座七星密集，称七簇星。  
+1. 【[七簇星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_coh_xien.md#七簇星)】`qieh7 coh7 xien1` <sup>[泰兴]</sup> 北斗星。  
 1. 【[七葱八蒜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_con_baeh_sun.md#七葱八蒜)】`qieh7 con1 baeh7 sun5` <sup>[如皋]</sup> 农历七月栽葱，八月栽蒜。  
 1. 【[七坐八爬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_cu_baeh_pa.md#七坐八爬)】`qieh7 cu6 baeh7 pa2` <sup>[东台]</sup> 婴儿到了七个月就能坐起来，八个月就会爬了。  
+1. 【[七坐八爬，半岁出牙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_cu_baeh_pa.md#七坐八爬，半岁出牙)】`qieh7 cu6 baeh7 pa2 bun5 suei5 chueh7 nga2` <sup>[泰兴]</sup> 谓小孩七八个月就会坐爬了，六个月大开始长乳牙，这是民间对婴儿成长的经验总结。  
 1. 【[七寸八挡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_cuen_baeh_dan.md#七寸八挡)】`qieh7 cuen5 baeh7 dan3` <sup>[泰县]</sup> 大约、差不多：这件事已经～。  
 1. 【[七寸八当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_cuen_baeh_dan.md#七寸八当)】`qieh7 cuen5 baeh7 dan5` <sup>[如东]</sup> ① 标准要适当：跟公司谈判要～ ② 遵守一定规矩，不要太过分：这次办喜事要～，影响不要太大。  
 1. 【[七寸扣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_cuen_keu_r.md#七寸扣<sub>儿</sub>)】`qieh7 cuen5 keu1 r` <sup>[如皋]</sup> 犁辕前与犁盘子相连的短绳。  
@@ -611,6 +616,7 @@
 1. 【[七寸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_cuen_zz.md#七寸子)】`qieh7 cuen5 zz` <sup>[如皋]</sup> ① 见“草龙儿”。 ② 蛇颈。谚：打蛇打啊～上。 ③ 喻关键处。  
 1. 【[七寸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_cuen_zz.md#七寸子)】`qieh7 cuen5 zz` <sup>[如东]</sup> 蛇的心脏位置。比喻要害部位：打蛇要打～。  
 1. 【[七寸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_cuen_zz.md#七寸子)】`qieh7 cuen5 zz` <sup>[兴化]</sup> ① 一种毒蛇。 ② 七首。 ③ （喻）要害处：打蛇要打～。  
+1. 【[七寸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_cuen_zz.md#七寸子)】`qieh7 cuen5 zz` <sup>[泰兴]</sup> ① 一种短小的剧毒蛇。 ② 比喻要害：俗云：“打蛇打～。”  
 1. 【[七字读<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_cz_du_r.md#七字读<sub>儿</sub>)】`qieh7 cz6 du5 r` <sup>[如皋]</sup> 七个字一行的叙事韵文唱本，用民歌曲调演唱。  
 1. 【[七打八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_da_baeh.md#七打八)】`qieh7 da baeh7` <sup>[兴化]</sup> 差不多，所剩无几：“……别的大队的秧田草，都已薅得～。就剩你们拖这么大的尾巴……”（马春阳《书记的风格》）  
 1. 【[七打八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_da_baeh.md#七打八)】`qieh7 da3 baeh` <sup>[如皋]</sup> 差不多了：工程已经～咖，快完成吖。  
@@ -622,6 +628,7 @@
 1. 【[七灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_den.md#七灯)】`qieh7 den1` <sup>[如皋]</sup> 初丧在灵前、棺尾点的豆油灯。灯光昏暗。  
 1. 【[七灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_den.md#七灯)】`qieh7 den1` <sup>[兴化]</sup> 人死后的七七四十九天内在遗像或牌位前点的油灯。  
 1. 【[七灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_den.md#七灯)】`qieh7 den1` <sup>[泰县]</sup> ① 人死后在尸体旁边点的豆油灯。 ② 泛指不明亮的灯。  
+1. 【[七颠八倒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_din_baeh_do.md#七颠八倒)】`qieh7 din1 baeh7 do5` <sup>[泰兴]</sup> 颠三倒四  
 1. 【[七而八碰的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_er_baeh_pon_dii.md#七而八碰的)】`qieh7 er baeh7 pon5 dii` <sup>[如皋]</sup> ① 没有定准。 ② 浪迹：他在外头～做点儿帮工。  
 1. 【[七二八碰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_er_baeh_pon.md#七二八碰)】`qieh7 er6 baeh7 pon5` <sup>[兴化]</sup> 碰巧、碰运气：他在外地～的寻个老婆家来。｜他～的中吖个大奖。  
 1. 【[七讲八讲的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_gan_baeh_gan_dii.md#七讲八讲的)】`qieh7 gan3 baeh7 gan3 dii` <sup>[如皋]</sup> 传闻越传越变样：本当是一个人捱蛇咬啊，～的就变吖捱蛇吃掉啊。又作“七传八传的”。  
@@ -630,16 +637,22 @@
 1. 【[七个八个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_gu_baeh_gu.md#七个八个)】`qieh7 gu baeh7 gu` <sup>[兴化]</sup> 牵缠、拉扯：你覅听他～的乱说一气。｜“……他一个堂客家，我怎好同他～的？”（《儒林外史》五四）  
 1. 【[七个八杂的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_gu_baeh_zaeh_dii.md#七个八杂的)】`qieh7 gu baeh7 zaeh dii` <sup>[如皋]</sup> 见“七七八八的”。  
 1. 【[七个厨子八个客，忙煞厨子饿煞客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_gu_chv_zz_baeh_gu_keh_man_shaeh_chv_zz_ngu_shaeh_keh.md#七个厨子八个客，忙煞厨子饿煞客)】`qieh7 gu chv2 zz baeh7 gu keh7 man2 shaeh7 chv2 zz ngu6 shaeh7 keh7` <sup>[东台]</sup> 形容服务人员多，效率低。  
-1. 【[七个三八个四的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_gu_saen_baeh_gu_sz_dii.md#七个三八个四的)】`qieh7 gu saen1 baeh7 gu sz5 dii` <sup>[东台]</sup> 啰里啰唆、乱七八糟的。  
+1. 【[七个三，八个四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_gu_saen_baeh.md#七个三，八个四)】`qieh7 gu saen1 baeh7 gu sz5` <sup>[泰兴]</sup> 谓语言唠叨，说了这个，又说那个，穷嘴。  
+1. 【[七个三，八个四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_gu_saen_baeh.md#七个三，八个四)】`qieh7 gu saen1 baeh7 gu sz5` <sup>[兴化]</sup> 见“七十三，八十四”  
+1. 【[七个三八个四的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_gu_saen_baeh.md#七个三八个四的)】`qieh7 gu saen1 baeh7 gu sz5 dii` <sup>[东台]</sup> 啰里啰唆、乱七八糟的。  
 1. 【[七个铜钞平半分——不三不四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_gu_ton_cho_pien_bun_fen_beh_saen_beh_sz.md#七个铜钞平半分——不三不四)】`qieh7 gu ton2 cho5 pien2 bun5 fen1 beh7 saen1 beh7 sz5` <sup>[东台]</sup>   
 1. 【[七股八杂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_gu_baeh_zaeh.md#七股八杂)】`qieh7 gu baeh7 zaeh7` <sup>[如东]</sup> 许多东西，乱七八糟：～的一大堆。  
+1. 【[七个人当家，八个人出主意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_gu_ren_dan.md#七个人当家，八个人出主意)】`qieh7 gu5 ren2 dan1 jia1 baeh7 gu5 ren2 chueh7 zhv3 i` <sup>[泰兴]</sup> 谓人多口舌多，各持己见，意见不能统一。  
+1. 【[七佮头的升子八佮头的命，有啊九佮就生病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_guh_teu_dii.md#七佮头的升子八佮头的命，有啊九佮就生病)】`qieh7 guh7 teu2 dii shen1 zz baeh7 guh7 teu2 dii mien6 ieu3 a jieu3 guh7 qieu6 shen1 pien6` <sup>[泰兴]</sup> 迷信说法。谓人命中注定有多少财富，是不可能多的，多了就会生病。佮，容量单位，10勺谓1合，10合为1升。  
 1. 【[七股八杂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_gv_baeh_zaeh.md#七股八杂)】`qieh7 gv baeh7 zaeh7` <sup>[泰县]</sup> 全部的意思：你～抓起来算算。  
+1. 【[七股八杂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_gv_baeh_zaeh.md#七股八杂)】`qieh7 gv baeh7 zaeh7` <sup>[泰兴]</sup> 杂七杂八，乱七八糟。  
 1. 【[七估八酌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_gv_baeh_zhah.md#七估八酌)】`qieh7 gv3 baeh7 zhah7` <sup>[东台]</sup> 同“七七八八”。  
 1. 【[七股八杂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_gv_baeh_zaeh.md#七股八杂)】`qieh7 gv3 baeh7 zaeh7` <sup>[兴化]</sup> 形容多而杂乱：她把上顿的剩菜～和啊一起，又混过一顿。｜小屋里放的～的东西。  
 1. 【[七轰八炸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_hon_baeh_zha.md#七轰八炸)】`qieh7 hon1 baeh7 zha5` <sup>[东台]</sup> ［喻］形容轮番恐吓、威逼，进攻，使对方低头让步。  
 1. 【[七花八花的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_hua_baeh_hua_dii.md#七花八花的)】`qieh7 hua1 baeh7 hua1 dii` <sup>[如皋]</sup> ① 钱的用项多：才拿的点儿工资，经不起～就没得咖。 ② 绕来绕去的：他拿啊个帽子，～就变吖个鸽子飞掉啊。  
 1. 【[七昏八跄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_huen_baeh_qian.md#七昏八跄)】`qieh7 huen1 baeh7 qian5` <sup>[泰县]</sup> 昏头昏脑：他喝得～的。  
 1. 【[七荤八素](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_huen_baeh_sv.md#七荤八素)】`qieh7 huen1 baeh7 sv5` <sup>[兴化]</sup> 形容头昏脑胀，糊里糊涂：这几天捱他缠得～的。  
+1. 【[七荤八素](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_huen_baeh_sv.md#七荤八素)】`qieh7 huen1 baeh7 sv5` <sup>[泰兴]</sup> 晕头转向，乱糟糟，不可收拾。  
 1. 【[七月半](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_iuh_bun.md#七月半)】`qieh7 iuh bun5` <sup>[如皋]</sup> ① 道教的中元节，地官生日。 ② 佛教兰盆会。 ③ 民间烧经祭祖，吃扁食。鬼节之一。  
 1. 【[七月半](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_iuh_bun.md#七月半)】`qieh7 iuh bun5` <sup>[兴化]</sup> 阴历七月十五日，中元节：不觉已是穿针过期，又值～盂兰盆大斋时节。（《初刻》三四）  
 1. 【[七月半](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_iuh_bun.md#七月半)】`qieh7 iuh bun5` <sup>[泰兴]</sup> 指农历七月十五中元节。旧俗于是日设祭超度亡故亲人，称孟兰盆节。今仍有此俗，是日家家必裹扁食，设祭供祖宗亡人。  
@@ -652,11 +665,14 @@
 1. 【[七月七](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_iuh_qieh.md#七月七)】`qieh7 iuh8 qieh7` <sup>[如皋]</sup> 七夕。  
 1. 【[七架梁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_jia_lian.md#七架梁)】`qieh7 jia5 lian2` <sup>[如皋]</sup> 七檩的大房屋。  
 1. 【[七架梁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_jia_lian.md#七架梁)】`qieh7 jia5 lian2` <sup>[东台]</sup> 共有七根梁的一种民房，中间正梁叫中脊，两边各三根与之平行，分别为二桁、三桁和边桁。  
+1. 【[七架梁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_jia_lian.md#七架梁)】`qieh7 jia5 lian2` <sup>[泰兴]</sup> 昔时乡间较普及的砖木结构瓦房，每间由七根梁条架起，故称。  
 1. 【[七进子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_jien_zz.md#七进子)】`qieh7 jien5 zz` <sup>[如东]</sup> 鬣蜥科动物龙蜥。  
 1. 【[七九](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_jieu.md#七九)】`qieh7 jieu3` <sup>[泰兴]</sup> 冬至日起第55天至第63天。古语：“六九五十四，口中取暖气；七九六十三，行人把衣单。”  
 1. 【[七挍八挍的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_ko_baeh_ko_dii.md#七挍八挍的)】`qieh7 ko6 baeh7 ko6 dii` <sup>[如皋]</sup> 纠缠在一起乱七八糟的样子。  
+1. 【[七拉八扯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_la_baeh_cha.md#七拉八扯)】`qieh7 la1 baeh7 cha3` <sup>[泰兴]</sup> 漫无边际地闲谈，或谓乱拉来一些不相干的人：年纪大了，谈到家常就～的  
 1. 【[七零八落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_lien_baeh_lah.md#七零八落)】`qieh7 lien2 baeh7 lah8` <sup>[如东]</sup> 没有整块的东西。许多东西摆着挂着很不整齐。  
 1. 【[七领五腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_lien_v_io.md#七领五腰)】`qieh7 lien3 v3 io1` <sup>[如皋]</sup> 收殓用衣上身七件，下身五件。  
+1. 【[七里通吖八里，裤子扯啊夹里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_lii_ton_nga.md#七里通吖八里，裤子扯啊夹里)】`qieh7 lii ton5 nga baeh7 lii kv5 zz cha3 a gaeh7 lii` <sup>[泰兴]</sup> 喻七拉八扯，乱七八糟，层次紊乱。  
 1. 【[七老八十](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_lo_baeh_sheh.md#七老八十)】`qieh7 lo baeh7 sheh` <sup>[泰兴]</sup> 形容年纪很大。  
 1. 【[七老八十](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_lo_baeh_sheh.md#七老八十)】`qieh7 lo3 baeh7 sheh8` <sup>[东台]</sup> 形容年纪大的人。  
 1. 【[七老八十的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_lo_baeh_sheh.md#七老八十的)】`qieh7 lo3 baeh7 sheh8 dii, qieh7 lo3 baeh7 sheh dii` <sup>[如皋]</sup> 年老，到了老年时。  
@@ -665,6 +681,7 @@
 1. 【[七箩八笆斗的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_lu_baeh_ba_deu_dii.md#七箩八笆斗的)】`qieh7 lu2 baeh7 ba1 deu3 dii` <sup>[如皋]</sup> ① 形容事多而集中：～的事，总要我来理。 ② 形容话多而杂乱：说咖～的话，也不曾说出个头绪来。  
 1. 【[七拼八凑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_pien_baeh_ceu.md#七拼八凑)】`qieh7 pien1 baeh7 ceu5` <sup>[如东]</sup> 许多东西凑合起来。  
 1. 【[七拼八凑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_pien_baeh_ceu.md#七拼八凑)】`qieh7 pien1 baeh7 ceu5` <sup>[东台]</sup> 拼拼凑凑，勉强足数。  
+1. 【[七拼八凑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_pien_baeh_ceu.md#七拼八凑)】`qieh7 pien1 baeh7 ceu5` <sup>[泰兴]</sup> 勉强拼凑，或谓胡乱凑合：连伙食费总是～的，哪有得钱去置甚的家私。  
 1. 【[七唪八诈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_pon_baeh_zha.md#七唪八诈)】`qieh7 pon6 baeh7 zha5` <sup>[东台]</sup> 用假话欺骗人，或用真假难辨的话套出对方的真话。  
 1. 【[七戗八扶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_qian_baeh_fv.md#七戗八扶)】`qieh7 qian5 baeh7 fv2` <sup>[东台]</sup> ［喻］很多人帮助扶持。  
 1. 【[七戗八扶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_qian_baeh_fv.md#七戗八扶)】`qieh7 qian5 baeh7 fv2` <sup>[兴化]</sup> ① 倾斜的墙壁等用棍棒支撑使不倒。 ② （喻）对有困难的人多方扶持。‖也说“七帮八扶”。  
@@ -675,12 +692,15 @@
 1. 【[七七八八的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_qieh_baeh_baeh_dii.md#七七八八的)】`qieh7 qieh7 baeh7 baeh7 dii` <sup>[如皋]</sup> 杂乱的事情、物件：睡下来，～事总在心里盘。  
 1. 【[七夕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_qieh.md#七夕)】`qieh7 qieh8` <sup>[东台]</sup> 农历七月初七的晚上。传说牛郎织女这天在鹊桥相会。（东台音qieh7 xih7）  
 1. 【[七翘八跛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_qio_baeh_bu.md#七翘八跛)】`qieh7 qio2 baeh7 bu3` <sup>[东台]</sup> 同“里翘外跛”。也作“七翘八跛”。  
+1. 【[七翘八挜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_qio_baeh_nga.md#七翘八挜)】`qieh7 qio5 baeh7 nga6` <sup>[泰兴]</sup> ① 地面不平 ② 单位或家庭内部不团结，闹矛盾：单位虽小，干群之间～的，实在难于管理 ③ 亦常用于人惹是生非，难以相处：他同个个～的  
+1. 【[七绕八靠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_ro_baeh_ko.md#七绕八靠)】`qieh7 ro6 baeh7 ko5` <sup>[泰兴]</sup> 兜圈子、想主意（企图达到目的）。  
 1. 【[七绕八绕的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_ro_baeh_ro_dii.md#七绕八绕的)】`qieh7 ro6 baeh7 ro6 dii` <sup>[如皋]</sup> 绕来绕去的。  
 1. 【[七绕八转](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_ro_baeh_zhun.md#七绕八转)】`qieh7 ro6 baeh7 zhun3` <sup>[东台]</sup> 形容说话办事绕圈子。  
 1. 【[七上八下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_shan_baeh_ha.md#七上八下)】`qieh7 shan6 baeh7 ha6` <sup>[泰兴]</sup> ① 心神不定、无所适从 ② 零落纷乱，很不整齐：十五个吊桶打水，～  
 1. 【[七十二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_sheh_er.md#七十二)】`qieh7 sheh er6` <sup>[兴化]</sup> 嫌人、讨厌者的隐语：那个～又来找事。此为孔子“三千弟子，～贤人”的节缩语，“贤”与“嫌”同音。  
 1. 【[七十二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_sheh_er.md#七十二)】`qieh7 sheh er6` <sup>[泰兴]</sup> ① 多，很多。 ② 一种巨大的风筝（直径约一丈）称为七十二，因其由九个八角形组合而成，今已极少见。  
-1. 【[七十三，八十四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_sheh_saen_baeh_sheh_sz.md#七十三，八十四)】`qieh7 sheh saen1 baeh7 sheh sz5` <sup>[兴化]</sup> 形容说话内容杂乱，声音嘈杂：那婆子坐在横头桌子边，口里～只顾嘈。（《水浒传》二一）也说“七个三，八个四”。  
+1. 【[七十三，八十四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_sheh_saen_baeh.md#七十三，八十四)】`qieh7 sheh saen1 baeh7 sheh sz5` <sup>[兴化]</sup> 形容说话内容杂乱，声音嘈杂：那婆子坐在横头桌子边，口里～只顾嘈。（《水浒传》二一）也说“七个三，八个四”。  
+1. 【[七十三，八十四，阎王不请自家去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_sheh_saen_baeh.md#七十三，八十四，阎王不请自家去)】`qieh7 sheh saen1 baeh7 sheh sz5 in2 van2 beh7 qien3 sz6 ga1 qy5` <sup>[泰兴]</sup> 谓人年纪大了，必然会辞世到所谓阴曹地府去。传孔子七十三岁谢世，孟子八十四岁离开人间，孔孟这些圣人尚且七八十岁就去世，何况平民百姓？所以老人们到了这个年龄，就有了“阎王不请私家去”之说。  
 1. 【[七手八脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_sheu_baeh_jiah.md#七手八脚)】`qieh7 sheu3 baeh7 jiah7` <sup>[如皋]</sup> ① 状忙乱。 ② 状大家帮忙。  
 1. 【[七手八脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_sheu_baeh_jiah.md#七手八脚)】`qieh7 sheu3 baeh7 jiah7` <sup>[泰兴]</sup> 形容手忙脚乱，一起动手办某件事。  
 1. 【[七事八事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_shr_baeh_shr.md#七事八事)】`qieh7 shr6 baeh7 shr6` <sup>[兴化]</sup> 事情多而烦杂：“你不知，我这两日～，心不得个闲”。（《金瓶梅词话》七五）  

@@ -1554,7 +1554,7 @@
 1. 【[挂夹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_gaeh.md#挂夹)】`gua5 gaeh7` <sup>[如皋]</sup> 见“挂肩”。  
 1. 【[挂角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_gah.md#挂角)】`gua5 gah7` <sup>[如皋]</sup> 加座于桌角。  
 1. 【[挂角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_gah.md#挂角)】`gua5 gah7` <sup>[东台]</sup> 方桌一桌八人吃饭，多来的人挤在桌角旁边叫“～”。  
-1. 【[挂角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_gah.md#挂角)】`gua5 gah7` <sup>[兴化]</sup> ① 相棋术语，指某棋子走到对方“九宫”的两角：～将军。 ② 每张方桌八个座位，如有九人必有一人～坐在桌角上进食。  
+1. 【[挂角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_gah.md#挂角)】`gua5 gah7` <sup>[兴化]</sup> ① 象棋术语，指某棋子走到对方“九宫”的两角：～将军。 ② 每张方桌八个座位，如有九人必有一人～坐在桌角上进食。  
 1. 【[挂钩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_geu.md#挂钩)】`gua5 geu1` <sup>[如东]</sup> ① 弯形的钩子。有铁制的，有木制的：把淘箩挂啊～上。 ② 两人或单位达成某种联系，叫做挂钩。  
 1. 【[挂官](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_gun.md#挂官)】`gua5 gun1` <sup>[如东]</sup> 把官帽挂在壁上或摆在桌上而离开，表示主动辞职：～而走。  
 1. 【[挂黑板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_heh_baen.md#挂黑板)】`gua5 heh7 baen3` <sup>[如东]</sup> ① 将黑板挂起来。 ② 老师某个问题解答不出来而站在黑板前面发愁，好像挂在黑板上一样。  
