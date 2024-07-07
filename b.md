@@ -1241,7 +1241,7 @@
 1. 【[槟榔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_lan.md#槟榔)】`bien1 lan` <sup>[如皋]</sup> 牛鼻桊儿的又名。  
 1. 【[槟榔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_lan.md#槟榔)】`bien1 lan2` <sup>[如东]</sup> 穿在牛鼻子中的木棍或铜棍，一头系绳，供牵牛用。  
 1. 【[槟榔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_lan.md#槟榔)】`bien1 lan2` <sup>[东台]</sup> 常绿乔木，树干很高，羽状复叶。果实可以吃，也供药用。  
-1. 【[𧏖山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_shaen.md#𧏖山)】`bien1 shaen1` <sup>[如东]</sup> 掘港的雅称。据《如皋县志》记载，古时，掘港西北部有一座由蛼蛤壳堆积起来的小山，在阳光照耀下，闪烁升腾，犹如珍珠，故称𧏖山。  
+1. 【[蠙山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_shaen.md#蠙山)】`bien1 shaen1` <sup>[如东]</sup> 掘港的雅称。据《如皋县志》记载，古时，掘港西北部有一座由蛼蛤壳堆积起来的小山，在阳光照耀下，闪烁升腾，犹如珍珠，故称蠙山。  
 1. 【[丙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien.md#丙)】`bien3` <sup>[东台]</sup> 天干的第三位。  
 1. 【[丙弓理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_gon_li.md#丙弓理)】`bien3 gon1 li3` <sup>[泰县]</sup> 歪理。  
 1. 【[比](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien.md#比)】`bien3` <sup>[如皋]</sup> 比，避讳音，介词：事情做啊成吖功～吃肉总快活些。  
