@@ -1209,7 +1209,7 @@
 1. 【[十月里小阳春](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_iuh_lii_xio.md#十月里小阳春)】`sheh8 iuh lii xio3 ian2 chuen1` <sup>[泰兴]</sup> 谓到了农历十月，仍会有春天气息的温暖天气。  
 1. 【[十月朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_iuh_zho.md#十月朝)】`sheh8 iuh zho1` <sup>[如皋]</sup> 农历十月初一秦正建亥，以此日为新年。  
 1. 【[十月朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_iuh_zho.md#十月朝)】`sheh8 iuh zho1` <sup>[兴化]</sup> 农历十月初一，旧俗于近午设馔，焚纸钱祭祀先人。（见《兴化市志·民俗》）  
-1. 【[十月朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_iuh_zho.md#十月朝)】`sheh8 iuh zho1` <sup>[泰兴]</sup> ：农历十月初一，古俗为扫墓日，今此俗早废。乡间尚有十月朝吃茄饼之俗，传可少生疮疖。  
+1. 【[十月朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_iuh_zho.md#十月朝)】`sheh8 iuh zho1` <sup>[泰兴]</sup> 农历十月初一，古俗为扫墓日，今此俗早废。乡间尚有十月朝吃茄饼之俗，传可少生疮疖。  
 1. 【[十月中，梳头打扮总是工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_iuh_zhon_shv.md#十月中，梳头打扮总是工)】`sheh8 iuh zhon1 shv1 teu2 da3 baen zon3 shr gon1` <sup>[泰兴]</sup> 谓农历十月，日短夜长，白天很容易就过去了，须珍惜时间，抓紧办事。  
 1. 【[十月中，梳头吃饭工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_iuh_zhon_shv.md#十月中，梳头吃饭工)】`sheh8 iuh zhon1 shv1 teu2 qieh7 faen6 gon1` <sup>[东台]</sup> 形容农历十月白天短，梳头吃饭之外忙不了什么。  
 1. 【[十月朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_iuh_cho.md#十月朝)】`sheh8 iuh8 cho2` <sup>[如东]</sup> 传统节日。阴历十月初一日，旧俗为扫墓日。民间举行敬祖上坟等祭祀活动。  
