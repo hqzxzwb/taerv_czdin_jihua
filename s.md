@@ -624,6 +624,7 @@
 1. 【[晒虹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_gan.md#晒虹)】`shae5 gan5` <sup>[如皋]</sup> 出彩虹。  
 1. 【[晒𩄬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_heu.md#晒𩄬)】`shae5 heu5` <sup>[如东]</sup> 空中现出彩虹。  
 1. 【[晒灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_huei.md#晒灰)】`shae5 huei1` <sup>[如东]</sup> 把盐灰挑到盐场上去曝晒，吸收盐分，以利沥卤。  
+1. 【[晒秧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_ian.md#晒秧)】`shae5 ian1` <sup>[如东]</sup> 一种培植方法。把秧田里的水放小或放干，让太阳晒，增加地温，促进秧苗生长。  
 1. 【[晒秧母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_ian_mu.md#晒秧母)】`shae5 ian1 mu3` <sup>[如东]</sup> 一种培植方法。把秧母田里的水放小或放干，让太阳晒，增加地温，促进秧苗根须生长。  
 1. 【[晒阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_ian.md#晒阳)】`shae5 ian2` <sup>[兴化]</sup> 春末的晴天，鱼在浅滩或水草丛中交配产卵。  
 1. 【[晒一个太阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_ieh_gu_tae_ian.md#晒一个太阳)】`shae5 ieh7 gu tae5 ian` <sup>[如皋]</sup> 晒一个整天的阳光。  

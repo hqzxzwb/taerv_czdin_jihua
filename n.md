@@ -1086,8 +1086,8 @@
 1. 【[硬至至的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_zhr_zhr_dii.md#硬至至的)】`ngen6 zhr5 zhr5 dii` <sup>[如皋]</sup> 见“活剥剥的”。  
 1. 【[熰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu.md#熰)】`ngeu1` <sup>[如皋]</sup> 大汤久煮：～粽子、～玉米、～牛肉、～骨头汤。  
 1. 【[熰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu.md#熰)】`ngeu1` <sup>[如东]</sup> 多煮一会儿：老牛肉，多～一会儿。  
-1. 【[熰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu.md#熰)】`ngeu1` <sup>[东台]</sup> 用水长时间煮：～老母鸡｜～老菱｜～粽子。  
-1. 【[熰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu.md#熰)】`ngeu1` <sup>[兴化]</sup> 大火慢煮：～猪头｜把肉放吖锅里慢慢～。《集韵·侯韵》乌侯切｜“～，炮也。”  
+1. 【[熰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu.md#熰)】`ngeu1` <sup>[东台]</sup> 用水长时间煮：～老母鸡；～老菱；～粽子。  
+1. 【[熰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu.md#熰)】`ngeu1` <sup>[兴化]</sup> 大火慢煮：～猪头｜把肉放吖锅里慢慢～。  
 1. 【[熰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu.md#熰)】`ngeu1` <sup>[泰县]</sup> 煮：～猪头。  
 1. 【[熰不烂煮不熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_beh_laen_zhv_beh_shoh.md#熰不烂煮不熟)】`ngeu1 beh7 laen6 zhv3 beh7 shoh8` <sup>[东台]</sup> ［喻］指讲阴阳怪气的话，叫人无法接受。  
 1. 【[瓯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_zz.md#瓯子)】`ngeu1 zz` <sup>[泰县]</sup> 小碗：拿个～来。/妇人……拿～陪着西门供，每人吃了两～，方才洗脸梳妆。（金瓶梅·20）  

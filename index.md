@@ -485,7 +485,6 @@
 1. 【[嘻嘻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xi.md#嘻嘻)】`xi1 xi1` <sup>[如皋]</sup> 炫耀：拿新玩具～你。  
 1. 【[嘻嘻哈哈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xi_ha_ha.md#嘻嘻哈哈)】`xi1 xi1 ha1 ha1` <sup>[东台]</sup> 说话做事不认真、不严肃。  
 1. 【[嬉大六缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_da_loh_gan.md#嬉大六缸)】`xi1 da6 loh8 gan1` <sup>[泰县]</sup> 轻浮，办事不专心：你不要～的，到底哿去？  
-1. 【[晒秧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ian.md#晒秧)】`xi1 ian1` <sup>[如东]</sup> 一种培植方法。把秧田里的水放小或放干，让太阳晒，增加地温，促进秧苗生长。  
 1. 【[曦光曦亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_guan_xi_lian.md#曦光曦亮)】`xi1 guan1 xi1 lian6` <sup>[如东]</sup> 非常明亮：这把刀磨啊～。  
 1. 【[稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#稀)】`xi1` <sup>[如皋]</sup> 糖～，麦芽糖：做炒米糖要用～。  
 1. 【[稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#稀)】`xi1` <sup>[如皋]</sup> 形容用钱多；钱不够～、钱～得快。  
@@ -497,6 +496,7 @@
 1. 【[稀缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_fon.md#稀缝)】`xi1 fon6` <sup>[如东]</sup> 板块接合部裂开：桌面～。  
 1. 【[稀缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_fon.md#稀缝)】`xi1 fon6` <sup>[兴化]</sup> ① 缝隙：可巧，板使有几条～，那个乔家运……瞧看得不亦乐乎。（《广陵满》十三） ② 开裂有缝：这扇后门经过风吹日晒老早就稀啊缝。  
 1. 【[稀罕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_hun.md#稀罕)】`xi1 hun3` <sup>[如东]</sup> 少有：这种东西非常～。  
+1. 【[稀脚丫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_jiah_nga_r.md#稀脚丫<sub>儿</sub>)】`xi1 jiah7 nga1 r` <sup>[如东]</sup> 表示不干了：他又～啊。  
 [更多...](./x.md)
 ## Y
 1. 【[淤泥河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_ni_hu.md#淤泥河)】`y1 ni2 hu2` <sup>[东台]</sup> 东台城古地名（现中亚城市花园背后），相传唐太宗李世民曾在此遇险，马陷～。  

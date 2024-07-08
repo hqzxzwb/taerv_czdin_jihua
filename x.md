@@ -9,7 +9,6 @@
 1. 【[嘻嘻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xi.md#嘻嘻)】`xi1 xi1` <sup>[如皋]</sup> 炫耀：拿新玩具～你。  
 1. 【[嘻嘻哈哈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xi_ha_ha.md#嘻嘻哈哈)】`xi1 xi1 ha1 ha1` <sup>[东台]</sup> 说话做事不认真、不严肃。  
 1. 【[嬉大六缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_da_loh_gan.md#嬉大六缸)】`xi1 da6 loh8 gan1` <sup>[泰县]</sup> 轻浮，办事不专心：你不要～的，到底哿去？  
-1. 【[晒秧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ian.md#晒秧)】`xi1 ian1` <sup>[如东]</sup> 一种培植方法。把秧田里的水放小或放干，让太阳晒，增加地温，促进秧苗生长。  
 1. 【[曦光曦亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_guan_xi_lian.md#曦光曦亮)】`xi1 guan1 xi1 lian6` <sup>[如东]</sup> 非常明亮：这把刀磨啊～。  
 1. 【[稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#稀)】`xi1` <sup>[如皋]</sup> 糖～，麦芽糖：做炒米糖要用～。  
 1. 【[稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#稀)】`xi1` <sup>[如皋]</sup> 形容用钱多；钱不够～、钱～得快。  
@@ -115,8 +114,8 @@
 1. 【[洗几告](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ji_go.md#洗几告)】`xi3 ji3 go5` <sup>[东台]</sup> 洗几遍。  
 1. 【[洗脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_jiah.md#洗脚)】`xi3 jiah7` <sup>[如皋]</sup> ① 就是洗脚。 ② 讳称清洗阴部。  
 1. 【[洗马池](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ma_chr.md#洗马池)】`xi3 ma3 chr2` <sup>[东台]</sup> 地名，位于东台城大月塘附近。相传唐太宗李世民遇险，马陷淤泥河，曾在此洗马。  
+1. 【[洗牙𪣩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_nga_ken.md#洗牙𪣩)】`xi3 nga2 ken5` <sup>[如皋]</sup> 讲解、劝说无效后的叹语。  
 1. 【[洗牙𪣩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_nga_ken.md#洗牙𪣩)】`xi3 nga2 ken5` <sup>[如东]</sup> ① 洗刷牙缝中的污垢。通常称刷牙。 ② 比喻没紧没慢地说话：没功夫跟你～。  
-1. 【[洗牙𪣩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_nga_ken.md#洗牙𪣩)】`xi3 nga3 ken5` <sup>[如皋]</sup> 讲解、劝说无效后的叹语。  
 1. 【[洗眼睛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ngaen_jien.md#洗眼睛)】`xi3 ngaen3 jien` <sup>[如皋]</sup> ① 用清水或淡盐水喷或浸眼睛，是一种卫生、治眼疾的方法。 ② 旧时理发店服务项目之一，用剃刀背棱刮眼黏膜，有快感。但有危险而不卫生，后被禁止。  
 1. 【[洗牌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_pae.md#洗牌)】`xi3 pae2` <sup>[东台]</sup> 把牌打乱，重新码齐。  
 1. 【[洗屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_pi_gu.md#洗屁股)】`xi3 pi5 gu` <sup>[如皋]</sup> ① 讳称“洗脚”。 ② 为婴儿清洗时直称～。  
@@ -334,7 +333,6 @@
 1. 【[写仿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_fan.md#写仿)】`xia3 fan3` <sup>[泰县]</sup> 练习毛笔字。  
 1. 【[写难字](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_naen_cz.md#写难字)】`xia3 naen2 cz6` <sup>[如皋]</sup> 为难：我不叫你～，你能做就做，不能做就丢下来。  
 1. 【[写细字<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_xi_cz_r.md#写细字<sub>儿</sub>)】`xia3 xi5 cz6 r` <sup>[如皋]</sup> 耐心细致地做思想工作。见“玩软功”。  
-1. 【[下翘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_qio_zz.md#下翘子)】`xia5 qio5 zz` <sup>[如皋]</sup> 脚下使绊子，使对方被绊倒。  
 1. 【[卸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia.md#卸)】`xia5` <sup>[如皋]</sup> 成趸批发：他把货～啊把二道贩子。  
 1. 【[卸班](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_baen.md#卸班)】`xia5 baen1` <sup>[如东]</sup> 按照规定的上班时间结束工作，离开现场。通称下班。  
 1. 【[卸货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_hu.md#卸货)】`xia5 hu5` <sup>[如皋]</sup> 比喻排大便。  
@@ -441,6 +439,7 @@
 1. 【[下戗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_qian_zz.md#下戗子)】`xia6 qian5 zz` <sup>[如皋]</sup> 旧时卖酒人给酒中羼水过量，为了冒充好酒。给酒中加某种材料（如皂荚水）。扬酒花时，泡泡儿大小均匀，经久不灭，以表示酒好。  
 1. 【[下求](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_qieu.md#下求)】`xia6 qieu` <sup>[东台]</sup> 放下架子求人，或者低三下四迁就人，故也叫“下迁”。  
 1. 【[下桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_qio.md#下桥)】`xia6 qio2` <sup>[兴化]</sup> ① （喻）从巅峰上下来。 ② 旧称妓女人老珠黄，走下坡路。  
+1. 【[下翘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_qio_zz.md#下翘子)】`xia6 qio5 zz` <sup>[如皋]</sup> 脚下使绊子，使对方被绊倒。  
 1. 【[下全礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_qiun_li.md#下全礼)】`xia6 qiun2 li3` <sup>[如皋]</sup> 双膝跪，磕头点地，合十作揖。  
 1. 【[下人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_ren.md#下人)】`xia6 ren` <sup>[东台]</sup> 仆人或直系晚辈。  
 1. 【[下人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_ren.md#下人)】`xia6 ren` <sup>[泰县]</sup> 晚辈。  
