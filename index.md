@@ -331,6 +331,7 @@
 1. 【[𤆵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa.md#𤆵)】`pa1` <sup>[如皋]</sup> 食物熟烂太过：肉煮啊～啊，盛不起来。  
 1. 【[𤆵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa.md#𤆵)】`pa1` <sup>[东台]</sup> 烹调方法之一。把食材煮熟收汤后淋上调好的卤子：冰糖～蹄子。  
 1. 【[𤆵红蹄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_hon_ti.md#𤆵红蹄)】`pa1 hon2 ti2` <sup>[如皋]</sup> 选蹄膀肉一块焖烂，加料酒、酱油、冰糖等作料收汤起锅。皮面向上，下衬绿色蔬菜，装盘。色、香，味俱全，是餐桌上的大菜。  
+1. 【[𤆵蹄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_ti_zz.md#𤆵蹄子)】`pa1 ti2 zz` <sup>[兴化]</sup> 红烧猪肘子。（原文记音pa6，难解，疑借音）  
 1. 【[𤆵猪头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_zhv_teu.md#𤆵猪头)】`pa1 zhv1 teu2` <sup>[如皋]</sup> ① 大汤久煮整猪头至烂，择骨，加酱油、冰糖、五香及一应作料焖烂装盘。 ② 趣指打呼噜。  
 1. 【[妑妑角<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_pa_gah_r.md#妑妑角<sub>儿</sub>)】`pa2 pa2 gah7 r` <sup>[如皋]</sup> 见“梳角子”。  
 1. 【[妑妑角<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_pa_gah_r.md#妑妑角<sub>儿</sub>)】`pa2 pa2 gah7 r` <sup>[如皋]</sup> 女童发式。头顶两侧各梳一髻。见“梳角子”。  
@@ -342,7 +343,6 @@
 1. 【[扒灰公公](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_huei_gon_gon.md#扒灰公公)】`pa2 huei1 gon1 gon` <sup>[兴化]</sup> 乡邻亲友对初为公公者戏称：看来乡人对～大有欢笑戏谑之意。提起这来，男女老少皆喜乐。（马春阳《扬州水乡婚俗散记》）  
 1. 【[扒灰佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_huei_lo_r.md#扒灰佬<sub>儿</sub>)】`pa2 huei1 lo3 r` <sup>[如东]</sup> 工具。一头为方形木块，有柄。用于㧕扒炉膛里的灰烬。公公与媳妇有奸，称公公为扒灰佬儿。  
 1. 【[扒灰老头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_huei_lo_teu.md#扒灰老头)】`pa2 huei1 lo3 teu2` <sup>[兴化]</sup> 见“扒灰公公”。  
-1. 【[扒回头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_huei_teu_r.md#扒回头<sub>儿</sub>)】`pa2 huei2 teu2 r` <sup>[兴化]</sup> 在盐水中加香料煮过的豆腐干，方寸许，厚约半寸。  
 [更多...](./p.md)
 ## Q
 1. 【[……起啊浪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_a_lan.md#……起啊浪)】`qi3 a lan6` <sup>[东台]</sup> 形容某种行动干得很起劲，情绪热烈，气氛高涨：腊月里大家都在下办年货，忙吖～。  

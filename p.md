@@ -9,6 +9,7 @@
 1. 【[𤆵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa.md#𤆵)】`pa1` <sup>[如皋]</sup> 食物熟烂太过：肉煮啊～啊，盛不起来。  
 1. 【[𤆵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa.md#𤆵)】`pa1` <sup>[东台]</sup> 烹调方法之一。把食材煮熟收汤后淋上调好的卤子：冰糖～蹄子。  
 1. 【[𤆵红蹄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_hon_ti.md#𤆵红蹄)】`pa1 hon2 ti2` <sup>[如皋]</sup> 选蹄膀肉一块焖烂，加料酒、酱油、冰糖等作料收汤起锅。皮面向上，下衬绿色蔬菜，装盘。色、香，味俱全，是餐桌上的大菜。  
+1. 【[𤆵蹄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_ti_zz.md#𤆵蹄子)】`pa1 ti2 zz` <sup>[兴化]</sup> 红烧猪肘子。（原文记音pa6，难解，疑借音）  
 1. 【[𤆵猪头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_zhv_teu.md#𤆵猪头)】`pa1 zhv1 teu2` <sup>[如皋]</sup> ① 大汤久煮整猪头至烂，择骨，加酱油、冰糖、五香及一应作料焖烂装盘。 ② 趣指打呼噜。  
 1. 【[妑妑角<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_pa_gah_r.md#妑妑角<sub>儿</sub>)】`pa2 pa2 gah7 r` <sup>[如皋]</sup> 见“梳角子”。  
 1. 【[妑妑角<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_pa_gah_r.md#妑妑角<sub>儿</sub>)】`pa2 pa2 gah7 r` <sup>[如皋]</sup> 女童发式。头顶两侧各梳一髻。见“梳角子”。  
@@ -99,7 +100,6 @@
 1. 【[怕动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_ton.md#怕动)】`pa5 ton6` <sup>[如皋]</sup> ① 懒。 ② 精力差，不愿动弹。  
 1. 【[派司](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_sz.md#派司)】`pa5 sz1` <sup>[兴化]</sup> ① 旧时由厚纸印成的出入证、通行证：他拿出～，大摇大摆的出咖城。 ② 传球的动作：3号，～！ ③ 玩扑克牌：打～。  
 1. 【[䇑䇑<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_pa_r.md#䇑䇑<sub>儿</sub>)】`pa6 pa6 r` <sup>[如皋]</sup> 又矮又小：～屋。又矮又小的泥墙草顶屋。旧时农村多见。  
-1. 【[扒*蹄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_ti_zz.md#扒*蹄子)】`pa6 ti2 zz` <sup>[兴化]</sup> 红烧猪肘子。  
 1. 【[罢市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_shr.md#罢市)】`pa6 shr6` <sup>[如皋]</sup> 与“上市”相对，时间、季节已过，难以销售。  
 1. 【[罢市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_shr.md#罢市)】`pa6 shr6` <sup>[兴化]</sup> ① 市场停止营业、商品已售完或过了销售季节，和“上市”相对。 ② （借）完结、放弃：这件事早就～啊。  
 1. 【[罢市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_shr.md#罢市)】`pa6 shr6` <sup>[泰县]</sup> 过时：现在梨已经～。  
