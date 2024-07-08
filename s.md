@@ -1176,6 +1176,7 @@
 1. 【[适转转<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_zhun_zhun_r.md#适转转<sub>儿</sub>)】`sheh7 zhun5 zhun5 r` <sup>[东台]</sup> 围绕某一点兜圈子。  
 1. 【[𥼶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh.md#𥼶)】`sheh7` <sup>[如皋]</sup> 浸泡：～场米、～蚕豆儿。  
 1. 【[什啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_a.md#什啊)】`sheh8 a` <sup>[泰县]</sup> 什么。  
+1. 【[十八层地狱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_baeh_cen_ti.md#十八层地狱)】`sheh8 baeh cen2 ti6 ioh7` <sup>[泰兴]</sup> 传说中的阴司地府，为鬼神惩戒恶人之所。打入十八层地狱，即谓受尽极刑之苦，乡人常用于受尽苦难方面。  
 1. 【[十八房佮咖一个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_baeh_fan_guh_ga_ieh_gu.md#十八房佮咖一个)】`sheh8 baeh7 fan2 guh7 ga ieh7 gu5` <sup>[东台]</sup> 形容极其宝贵，不能有一点闪失。  
 1. 【[十八里相送——难舍难分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_baeh_li_xian_son_naen_sha_naen_fen.md#十八里相送——难舍难分)】`sheh8 baeh7 li3 xian1 son5 naen2 sha3 naen2 fen1` <sup>[东台]</sup>   
 1. 【[十八岁长胡子——老相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_baeh_xy_zhan_hv_zz_lo_xian.md#十八岁长胡子——老相)】`sheh8 baeh7 xy5 zhan3 hv2 zz lo3 xian5` <sup>[东台]</sup>   
@@ -1185,8 +1186,10 @@
 1. 【[十不全](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_beh_qiun.md#十不全)】`sheh8 beh7 qiun2` <sup>[如皋]</sup> ① 残疾。 ② 知识博而疏。  
 1. 【[十边坎子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_bin_kun_zz.md#十边坎子)】`sheh8 bin1 kun3 zz` <sup>[泰兴]</sup> 谓沟边、路边、家前屋后等边角废地，多种植菜蔬等。  
 1. 【[十边地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_bin_ti.md#十边地)】`sheh8 bin1 ti6` <sup>[东台]</sup> 指农村屋边路边河边沟边及各类设施旁边的零星隙地。  
-1. 【[十成十](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_chen_sheh.md#十成十)】`sheh8 chen2 sheh8` <sup>[如皋]</sup> 全部、百分之百、绝对：调解总是调解，不能～的解决；他说的情况～的可靠。  
+1. 【[十成](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_chen.md#十成)】`sheh8 chen2` <sup>[泰兴]</sup> 完全，百分之百：我有～把握箇件事能办成  
+1. 【[十成十](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_chen_sheh.md#十成十)】`sheh8 chen2 sheh8` <sup>[如皋]</sup> 全部、百分之百、绝对：调解总是调解，不能～的解决｜他说的情况～的可靠。  
 1. 【[十丑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_cheu.md#十丑)】`sheh8 cheu3` <sup>[如东]</sup> ① 人的相貌难看：这个人～。 ② 物体款式、质量不好：这套家具～。  
+1. 【[十字街](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_cz_gae.md#十字街)】`sheh8 cz gae1` <sup>[泰兴]</sup> 交叉像十字的街道口。  
 1. 【[十字街头贴告示——众所周知](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_cz_gae_teu_tih_go_shr_zhon_su_zheu_zhr.md#十字街头贴告示——众所周知)】`sheh8 cz6 gae1 teu2 tih7 go5 shr6 zhon5 su3 zheu1 zhr1` <sup>[东台]</sup>   
 1. 【[十字路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_cz_lv.md#十字路)】`sheh8 cz6 lv6` <sup>[如东]</sup> 左右交叉的道路，称十字路。  
 1. 【[十字路口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_cz_lv_keu.md#十字路口)】`sheh8 cz6 lv6 keu3` <sup>[如东]</sup> 十字路的交叉处。  
@@ -1198,35 +1201,49 @@
 1. 【[十番十调](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_faen_sheh_dio.md#十番十调)】`sheh8 faen1 sheh8 dio5` <sup>[如皋]</sup> 贬义。指用心机而不断玩花头、翻花样、耍花招以达到自己的目的。  
 1. 【[十翻十调](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_faen_sheh_dio.md#十翻十调)】`sheh8 faen1 sheh8 dio5` <sup>[东台]</sup> 形容出尔反尔反复无常：你如果～，哪个还敢跟你合作？  
 1. 【[十翻十掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_faen_sheh_tio.md#十翻十掉)】`sheh8 faen1 sheh8 tio6` <sup>[兴化]</sup> 言行反复无常：这个人说话～，你晓得哪一句是真的？  
-1. 【[十个指头伸出来有长短](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_gu_zheh_teu_shen_chueh_lae_ieu_chan_dun.md#十个指头伸出来有长短)】`sheh8 gu zheh7 teu shen1 chueh7 lae2 ieu3 chan2 dun3` <sup>[东台]</sup> 人总有差别，不能强求一律。  
+1. 【[十个节头伸出来有长短](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_gu_jih_teu.md#十个节头伸出来有长短)】`sheh8 gu jih7 teu shen1 chueh lae ieu3 chan2 dun` <sup>[泰兴]</sup> 本指十个指头长短不一，喻各个人、或所有子女各不相同，各有所长，不可能都达到同一个标准。古谚：“寸心十指有长短，妙人神处无人知。”：～，桩桩事总遂你的心愿不可能。  
+1. 【[十个指头伸出来有长短](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_gu_zheh_teu.md#十个指头伸出来有长短)】`sheh8 gu zheh7 teu shen1 chueh7 lae2 ieu3 chan2 dun3` <sup>[东台]</sup> 人总有差别，不能强求一律。  
+1. 【[十瓜九不圆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_gua_jieu_beh.md#十瓜九不圆)】`sheh8 gua1 jieu3 beh7 iun2` <sup>[泰兴]</sup> 喻指人无完人，人或事物不可能各方面都是完美无缺的。  
+1. 【[十有八九](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_ieu_baeh_jieu.md#十有八九)】`sheh8 ieu3 baeh7 jieu3` <sup>[泰兴]</sup> 谓绝大多数，或大致差不多。  
+1. 【[十月里小阳春](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_iuh_lii_xio.md#十月里小阳春)】`sheh8 iuh lii xio3 ian2 chuen1` <sup>[泰兴]</sup> 谓到了农历十月，仍会有春天气息的温暖天气。  
+1. 【[十月朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_iuh_zho.md#十月朝)】`sheh8 iuh zho1` <sup>[如皋]</sup> 农历十月初一秦正建亥，以此日为新年。  
+1. 【[十月朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_iuh_zho.md#十月朝)】`sheh8 iuh zho1` <sup>[兴化]</sup> 农历十月初一，旧俗于近午设馔，焚纸钱祭祀先人。（见《兴化市志·民俗》）  
+1. 【[十月朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_iuh_zho.md#十月朝)】`sheh8 iuh zho1` <sup>[泰兴]</sup> ：农历十月初一，古俗为扫墓日，今此俗早废。乡间尚有十月朝吃茄饼之俗，传可少生疮疖。  
+1. 【[十月中，梳头打扮总是工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_iuh_zhon_shv.md#十月中，梳头打扮总是工)】`sheh8 iuh zhon1 shv1 teu2 da3 baen zon3 shr gon1` <sup>[泰兴]</sup> 谓农历十月，日短夜长，白天很容易就过去了，须珍惜时间，抓紧办事。  
+1. 【[十月中，梳头吃饭工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_iuh_zhon_shv.md#十月中，梳头吃饭工)】`sheh8 iuh zhon1 shv1 teu2 qieh7 faen6 gon1` <sup>[东台]</sup> 形容农历十月白天短，梳头吃饭之外忙不了什么。  
 1. 【[十月朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_iuh_cho.md#十月朝)】`sheh8 iuh8 cho2` <sup>[如东]</sup> 传统节日。阴历十月初一日，旧俗为扫墓日。民间举行敬祖上坟等祭祀活动。  
 1. 【[十月的桑叶——谁采（睬）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_iuh_dii_san_ih_shuei_cae.md#十月的桑叶——谁采（睬）)】`sheh8 iuh8 dii san1 ih8 shuei2 cae3` <sup>[东台]</sup>   
-1. 【[十月朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_iuh_zho.md#十月朝)】`sheh8 iuh8 zho1` <sup>[如皋]</sup> 农历十月初一秦正建亥，以此日为新年。  
-1. 【[十月朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_iuh_zho.md#十月朝)】`sheh8 iuh8 zho1` <sup>[兴化]</sup> 农历十月初一，旧俗于近午设馔，焚纸钱祭祀先人。（见《兴化市志·民俗》）  
 1. 【[十月朝，早上斫草晚上烧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_iuh_zho_zo_shan_zhah_co_vaen_shan_sho.md#十月朝，早上斫草晚上烧)】`sheh8 iuh8 zho1 zo3 shan zhah7 co3 vaen3 shan sho1` <sup>[如皋]</sup> 草已枯，天气又干燥。  
-1. 【[十月中，梳头吃饭工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_iuh_zhon_shv_teu_qieh_faen_gon.md#十月中，梳头吃饭工)】`sheh8 iuh8 zhon1 shv1 teu2 qieh7 faen6 gon1` <sup>[东台]</sup> 形容农历十月白天短，梳头吃饭之外忙不了什么。  
 1. 【[十姐妹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_ji_mei.md#十姐妹)】`sheh8 ji3 mei` <sup>[如皋]</sup> 白腰文鸟。鸟纲雀形目。喜群飞。  
 1. 【[十斤瓶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_jien_pien.md#十斤瓶)】`sheh8 jien1 pien2` <sup>[如皋]</sup> 一种陶器。似坛子，上有口有盖，其周围有四耳，可系绳，并有一小嘴可以倒酒容量十市斤。现已不见。  
 1. 【[十斤瓶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_jien_pien.md#十斤瓶)】`sheh8 jien1 pien2` <sup>[如皋]</sup> 一种可容十市斤的高肩瓶形陶器，肩上有四个鼻子供串绳子，口颈部有小嘴子和小把子。  
 1. 【[十来个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_lae_gu.md#十来个)】`sheh8 lae gu5` <sup>[如皋]</sup> 十个左右。  
 1. 【[十来天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_lae_tin.md#十来天)】`sheh8 lae tin1` <sup>[如东]</sup> 约十天：来去～。  
 1. 【[十来天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_lae_tin.md#十来天)】`sheh8 lae tin1` <sup>[如皋]</sup> 十天左右。  
+1. 【[十瘌九刁，不瘌做强盗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_laeh_jieu_dio.md#十瘌九刁，不瘌做强盗)】`sheh8 laeh8 jieu3 dio1 beh7 laeh8 zu5 qian2 to` <sup>[泰兴]</sup> 粗俗的讥人语、不文明语。  
 1. 【[十两纹银——一锭（定）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_laen_ven_ien_ieh_dien.md#十两纹银——一锭（定）)】`sheh8 laen3 ven2 ien2 ieh7 dien5 （tien6）` <sup>[东台]</sup>   
+1. 【[十里不同风，百里不同俗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_li_beh_ton.md#十里不同风，百里不同俗)】`sheh8 li3 beh7 ton2 fon1 boh9 li3 beh7 ton2 soh8` <sup>[泰兴]</sup> 指各地的风俗习惯不尽相同。  
 1. 【[十麻九俏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_ma_jieu_qio.md#十麻九俏)】`sheh8 ma2 jieu3 qio5` <sup>[东台]</sup> ① 十个麻子往往有九个好看。 ② ［喻］对某方面有明显缺陷的人，也要看到长处。  
+1. 【[十亩三间，住在庄中间](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_mu_saen_gaen.md#十亩三间，住在庄中间)】`sheh8 mu3 saen1 gaen1 chv6 cae6 zhuan1 zhon1 gaen1` <sup>[泰兴]</sup> 旧时乡间农家的“小康”庄园，喻日子过得很舒服。  
 1. 【[十拿九稳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_na_jieu_ven.md#十拿九稳)】`sheh8 na2 jieu3 ven3` <sup>[如东]</sup> 形容很有把握：今朝我去谈判，～能够成功。  
+1. 【[十拿九稳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_na_jieu_ven.md#十拿九稳)】`sheh8 na2 jieu3 ven3` <sup>[泰兴]</sup> 比喻很有把握：因为困难比较大，成功还不能说～的。  
 1. 【[十三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_saen.md#十三)】`sheh8 saen1` <sup>[如皋]</sup> 如皋人认为不吉利的数字之一。  
 1. 【[十三点](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_saen_din.md#十三点)】`sheh8 saen1 din3` <sup>[如东]</sup> 乌龟壳共有十三块，意为龟。老婆与别人相好的男人为十三点，即乌龟。“痴”字的笔划共有十三笔，意谓不聪明。扑克牌有一种游戏方法叫“摸十一点”，超过十一点叫“果”。“十三点”喻指呆子。  
 1. 【[十三点](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_saen_din.md#十三点)】`sheh8 saen1 din3` <sup>[兴化]</sup> 形容人傻里傻气：这个人是～，道理讲不起来。  
 1. 【[十三点](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_saen_din.md#十三点)】`sheh8 saen1 din3` <sup>[泰县]</sup> 言行不正常，傻里傻气。  
 1. 【[十三点](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_saen_din.md#十三点)】`sheh8 saen1 din3` <sup>[泰兴]</sup> 喻傻子。若“二十五”、“二百五”。  
+1. 【[十三捣拳高](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_saen_do_qiun.md#十三捣拳高)】`sheh8 saen1 do3 qiun2 go1` <sup>[泰兴]</sup> 喻很矮小。  
 1. 【[十三块](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_saen_kuae.md#十三块)】`sheh8 saen1 kuae5` <sup>[如皋]</sup> 龟壳中心花纹为～。因指“做龟”。  
 1. 【[十三块](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_saen_kuae.md#十三块)】`sheh8 saen1 kuae5` <sup>[兴化]</sup> 龟壳上裂纹十三块。市井语，暗指戴绿帽的男子。  
 1. 【[十三块](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_saen_kuae.md#十三块)】`sheh8 saen1 kuae5` <sup>[泰兴]</sup> 龟板上花纹形成十三块形状，故称其十三块。乡人讥讽妻有外遇者为“龟头”、“缩头龟”、“戴绿帽子”等，亦呼为“十三块”。  
-1. 【[十五个吊桶打水——七上八下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_v_gu_dio_ton_da_shuei_qieh_shan_baeh_ha.md#十五个吊桶打水——七上八下)】`sheh8 v3 gu dio5 ton3 da3 shuei3 qieh7 shan6 baeh7 ha6` <sup>[东台]</sup>   
-1. 【[十五个瞎子坐桌子——瞎七瞎八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_v_gu_haeh_zz_cu_zhuah_zz_haeh_qieh_haeh_baeh.md#十五个瞎子坐桌子——瞎七瞎八)】`sheh8 v3 gu haeh7 zz cu6 zhuah7 zz haeh7 qieh7 haeh7 baeh7` <sup>[东台]</sup>   
-1. 【[十五个蠓蠓虫从眼前一飞，分得清七雌八雄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_v_gu_mon_mon_chon_con_ngaen_qin_ieh_fei_fen_deh_qien_qieh_cz_baeh_ion.md#十五个蠓蠓虫从眼前一飞，分得清七雌八雄)】`sheh8 v3 gu mon3 mon3 chon2 con2 ngaen3 qin2 ieh7 fei1 fen1 deh7 qien1 qieh7 cz1 baeh7 ion2` <sup>[东台]</sup> 对眼力特好的夸张说法。  
+1. 【[十五个吊桶打水，七上八下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_v_gu_dio.md#十五个吊桶打水，七上八下)】`sheh8 v gu dio5 ton da3 shuei3 qieh7 shan6 baeh7 ha6` <sup>[泰兴]</sup>   
+1. 【[十五个吊桶打水——七上八下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_v_gu_dio.md#十五个吊桶打水——七上八下)】`sheh8 v3 gu dio5 ton3 da3 shuei3 qieh7 shan6 baeh7 ha6` <sup>[东台]</sup>   
+1. 【[十五个瞎子坐桌子——瞎七瞎八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_v_gu_haeh.md#十五个瞎子坐桌子——瞎七瞎八)】`sheh8 v3 gu haeh7 zz cu6 zhuah7 zz haeh7 qieh7 haeh7 baeh7` <sup>[东台]</sup>   
+1. 【[十五个蠓蠓虫从眼前一飞，分得清七雌八雄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_v_gu_mon.md#十五个蠓蠓虫从眼前一飞，分得清七雌八雄)】`sheh8 v3 gu mon3 mon3 chon2 con2 ngaen3 qin2 ieh7 fei1 fen1 deh7 qien1 qieh7 cz1 baeh7 ion2` <sup>[东台]</sup> 对眼力特好的夸张说法。  
 1. 【[十万八万](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_vaen_baeh_vaen.md#十万八万)】`sheh8 vaen6 baeh7 vaen6` <sup>[如皋]</sup> 状数量多。有不在乎的意思。  
+1. 【[十网九网空，一网就成功](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_van_jieu_van.md#十网九网空，一网就成功)】`sheh8 van3 jieu3 van3 kon1 ieh7 van3 qieu6 chen2 gon1` <sup>[泰兴]</sup> 渔家语。喻事情办了多次都未成功，但条件成熟了能一次就成功。  
 1. 【[十朝半月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_zho_bun_iuh.md#十朝半月)】`sheh8 zho bun5 iuh8` <sup>[兴化]</sup> 约一二十天：他这次出门～才家来。  
+1. 【[十指连心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_zhr_lin_xien.md#十指连心)】`sheh8 zhr lin2 xien2` <sup>[泰兴]</sup> 谓十个指头的痛楚都与心息息相通，比喻关系极为密切：常言十指连心疼，儿女受难，哪个做娘老子的心里不挂念？  
 1. 【[实膘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_bio.md#实膘)】`sheh8 bio1` <sup>[如皋]</sup> 猪肉中结实而不松软的部分。  
 1. 【[实膘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_bio.md#实膘)】`sheh8 bio1` <sup>[兴化]</sup> 指人畜的背、臂及大腿根部比较实在的肉。  
 1. 【[实饱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_bo.md#实饱)】`sheh8 bo3` <sup>[如皋]</sup> 吃的食物质量高，不易饿。与“虚饱”相对。  

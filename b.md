@@ -293,8 +293,9 @@
 1. 【[覅就它吧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_qieu_ta_ba.md#覅就它吧)】`bae5 qieu6 ta1 ba1` <sup>[东台]</sup> 讨厌、气愤时的口头禅，相当于“算了吧”：你还自我感觉良好，～！  
 1. 【[覅虚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_xy.md#覅虚)】`bae5 xy1` <sup>[东台]</sup> 不要过分惊慌：头疼？～！吃点儿药，马上好。  
 1. 【[八拜之交](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_bae_zhr_jio.md#八拜之交)】`baeh7 bae5 zhr1 jio1` <sup>[如东]</sup> 旧时异姓男子或女子结拜为兄弟或姐妹的关系，称八拜之交。  
-1. 【[八八钱八八货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_baeh_qin_baeh_baeh_hu.md#八八钱八八货)】`baeh7 baeh7 qin2 baeh7 baeh7 hu5` <sup>[兴化]</sup> 以价论质：老兄，你覅嫌我俫货色丑，～！｜谚曰：～，八八生意八八做。  
-1. 【[八八钱八八货，八八生意八八做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_baeh_qin_baeh_baeh_hu_baeh_baeh_shen_i_baeh_baeh_zu.md#八八钱八八货，八八生意八八做)】`baeh7 baeh7 qin2 baeh7 baeh7 hu5 baeh7 baeh7 shen1 i5 baeh7 baeh7 zu5` <sup>[东台]</sup> 一种庸俗、消极的等价交换观念。  
+1. 【[八八钱，八八货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_baeh_qin_baeh.md#八八钱，八八货)】`baeh7 baeh7 qin2 baeh7 baeh7 hu5` <sup>[泰兴]</sup> 什么货色就是什么价钱，按质论价。乡间常用语，有“～，八八生意八八做”之说，含公平交易的意思。  
+1. 【[八八钱八八货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_baeh_qin_baeh.md#八八钱八八货)】`baeh7 baeh7 qin2 baeh7 baeh7 hu5` <sup>[兴化]</sup> 以价论质：老兄，你覅嫌我俫货色丑，～！｜谚曰：～，八八生意八八做。  
+1. 【[八八钱八八货，八八生意八八做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_baeh_qin_baeh.md#八八钱八八货，八八生意八八做)】`baeh7 baeh7 qin2 baeh7 baeh7 hu5 baeh7 baeh7 shen1 i5 baeh7 baeh7 zu5` <sup>[东台]</sup> 一种庸俗、消极的等价交换观念。  
 1. 【[八八<sub>儿</sub>理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_baeh_r_li.md#八八<sub>儿</sub>理)】`baeh7 baeh7 r li3` <sup>[如皋]</sup> 不正当的理由、或故意胡蛮缠的歪理，蛮理。八，古义相背。  
 1. 【[八板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_baen.md#八板)】`baeh7 baen3` <sup>[如皋]</sup> 状呆板，不知变通：老～。  
 1. 【[八标](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_bio.md#八标)】`baeh7 bio1` <sup>[如东]</sup> 形容很远很远：他离这许还有～远哎！  
@@ -314,6 +315,8 @@
 1. 【[八大碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_da_un.md#八大碗)】`baeh7 da6 un3` <sup>[如皋]</sup> 乡村传统菜谱，一席全用八只大碗上菜，富足而不考究。  
 1. 【[八带鱼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_dae_y_r.md#八带鱼<sub>儿</sub>)】`baeh7 dae5 y2 r` <sup>[如东]</sup> 章鱼科动物长蛸。  
 1. 【[八搭<sub>儿</sub>个子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_daeh_r_gu_zz.md#八搭<sub>儿</sub>个子)】`baeh7 daeh7 r gu5 zz` <sup>[如东]</sup> 不高不矮的身材：他是～。  
+1. 【[八担](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_daen.md#八担)】`baeh7 daen5` <sup>[泰兴]</sup> 谓极多，很多：我箇许～的事，忙得不得了。  
+1. 【[八刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_do.md#八刀)】`baeh7 do1` <sup>[泰兴]</sup> “分”的隐语：今朝收入不少，来，大家～吧。  
 1. 【[八刀子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_do_zz.md#八刀子)】`baeh7 do1 zz` <sup>[兴化]</sup> 分手、分拆等的隐语：这笔钱由在座的人～。｜他俫～啊。  
 1. 【[八角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_gah.md#八角)】`baeh7 gah7` <sup>[如皋]</sup> ① 八角形风筝的俗称。 ② 药草或香料的一味。  
 1. 【[八更八点](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_gen_baeh_din.md#八更八点)】`baeh7 gen1 baeh7 din3` <sup>[如东]</sup> 旧时一夜分为五更，八更是没有的。表示深夜：哪怕～也要赶到！（形容决心很大）  
@@ -335,7 +338,8 @@
 1. 【[八脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_jiah_r.md#八脚<sub>儿</sub>)】`baeh7 jiah7 r` <sup>[如皋]</sup> 双脚间不平行的畸型。  
 1. 【[八脚头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_jiah_teu_r.md#八脚头<sub>儿</sub>)】`baeh7 jiah7 teu2 r` <sup>[兴化]</sup> 形容爱凑热闹的人：他是～，热闹地方少不了他。｜这婆娘～，脚散哩！（钱国怀《最后的族长》）  
 1. 【[八脚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_jiah_zz.md#八脚子)】`baeh7 jiah7 zz` <sup>[兴化]</sup> 螃蟹的隐语。  
-1. 【[八九不离十](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_jieu_beh_li_sheh.md#八九不离十)】`baeh7 jieu3 beh7 li2 sheh8` <sup>[如皋]</sup> 来去不大、相差无几。  
+1. 【[八九不离十](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_jieu_beh_li.md#八九不离十)】`baeh7 jieu3 beh7 li2 sheh8` <sup>[如皋]</sup> 来去不大、相差无几。  
+1. 【[八九不离十](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_jieu_beh_li.md#八九不离十)】`baeh7 jieu3 beh7 li2 sheh8` <sup>[泰兴]</sup> 差不多，大体上相差无几：如今看来，他两个的亲事也～go。  
 1. 【[八面威风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_min_vei_fon.md#八面威风)】`baeh7 min6 vei1 fon1` <sup>[如东]</sup> ① 帆船能够航行八面风向：大将军（大樯）～。 ② 形容非常有权势：这个人～。  
 1. 【[八败命还怕个死来做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_pae_mien_hae_pa_gu_sz_lae_zu.md#八败命还怕个死来做)】`baeh7 pae mien6 hae2 pa5 gu sz3 lae2 zu5` <sup>[如皋]</sup> 只要辛勤劳动，就能战胜不好的命运。  
 1. 【[八败命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_pae_mien.md#八败命)】`baeh7 pae6 mien6` <sup>[如东]</sup> 形容命运非常不好：她是一个～。  
@@ -344,10 +348,12 @@
 1. 【[八品佳才](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_pien_jia_cae.md#八品佳才)】`baeh7 pien3 jia1 cae2` <sup>[如皋]</sup> 见“八品”。  
 1. 【[八部](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_pv.md#八部)】`baeh7 pv6` <sup>[如皋]</sup> 状衙门等级高（事实上只有六部。没有八部）：哪怕官司打到～里总同你打！  
 1. 【[八人轴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_ren_choh.md#八人轴)】`baeh7 ren choh8` <sup>[如皋]</sup> 八人踏的大号踏轴，与26杖的槽筒匹配，适用于地高水低区。  
+1. 【[八人大轿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_ren_da_qio.md#八人大轿)】`baeh7 ren2 da6 qio6` <sup>[泰兴]</sup> 也说八抬大轿、八抬。旧时高官等乘用的一种由八人抬的大轿子。乡间常用“八抬”讽刺拿架子，抬身份者：一天到晚踱方步，捧茶杯，就像个‘八抬’。  
 1. 【[八十岁学吹鼓手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_sheh_xy_hah_chuei_gv_sheu.md#八十岁学吹鼓手)】`baeh7 sheh xy5 hah8 chuei1 gv3 sheu3` <sup>[东台]</sup> 喻指错过了学习的最佳时机。  
 1. 【[八十岁学吹手，学到老，学不了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_sheh_xy_hah_chuei_sheu_hah_do_lo_hah_beh_lio.md#八十岁学吹手，学到老，学不了)】`baeh7 sheh8 xy5 hah8 chuei1 sheu hah8 do5 lo3 hah8 beh7 lio3` <sup>[如皋]</sup> 学本领一辈子也学不完。  
 1. 【[八十岁学吹手，中气不足](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_sheh_xy_hah_chuei_sheu_zhon_qi_beh_zoh.md#八十岁学吹手，中气不足)】`baeh7 sheh8 xy5 hah8 chuei1 sheu zhon1 qi5 beh7 zoh7` <sup>[如皋]</sup> 老了，气不够用。  
 1. 【[八世](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_shr.md#八世)】`baeh7 shr5` <sup>[兴化]</sup> 极言永远：这笔买卖～谈不成功，覅白费口舌咖！也作“一世”，儿童语则为“八年八世”。  
+1. 【[八世](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_shr.md#八世)】`baeh7 shr5` <sup>[泰兴]</sup> 谓时间很长：箇个伢儿～总没得出息  
 1. 【[八抬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_tae.md#八抬)】`baeh7 tae2` <sup>[兴化]</sup> ① 旧时高官乘坐的八人大轿。 ② 指斥人架子大、不搭理人：你看他倒像个～喓！  
 1. 【[八抬八㪕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_tae_baeh_chah.md#八抬八㪕)】`baeh7 tae2 baeh7 chah7` <sup>[东台]</sup> 一说为八人抬的大轿；一说为八人抬八人扶的大棺材（詈语）。㪕，搀扶：你多难请吖，哿是要～才能动身？  
 1. 【[八抬八㪕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_tae_baeh_chah.md#八抬八㪕)】`baeh7 tae2 baeh7 chah7` <sup>[兴化]</sup> ① 旧时高官出行，坐八人大轿旁有八人扶着。㪕，搀扶。 ② （喻）威风。  
@@ -359,7 +365,9 @@
 1. 【[八乡底下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_xian_di_ha.md#八乡底下)】`baeh7 xian1 di3 ha` <sup>[如皋]</sup> 偏僻的远乡间。  
 1. 【[八仙过海——各显神通](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_xin_gu_hae_gah_xin_shen_ton.md#八仙过海——各显神通)】`baeh7 xin1 gu5 hae3 gah7 xin3 shen2 ton1` <sup>[东台]</sup>   
 1. 【[八仙花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_xin_hua.md#八仙花)】`baeh7 xin1 hua1` <sup>[如东]</sup> 虎耳草科植物绣球。  
+1. 【[八仙台子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_xin_tae_zz.md#八仙台子)】`baeh7 xin1 tae2 zz` <sup>[泰兴]</sup> 八仙桌。  
 1. 【[八仙桌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_xin_zhuah.md#八仙桌)】`baeh7 xin1 zhuah7` <sup>[如东]</sup> 一种四方形的桌子，边长100厘米，高84厘米，可以坐8个人。宋时已有。宋·晃补之《八仙案铭》：“东皋松菊堂，饮中八仙桉。”  
+1. 【[八仙桌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_xin_zhuah_zz.md#八仙桌子)】`baeh7 xin1 zhuah7 zz` <sup>[泰兴]</sup> 也称八仙台子。每边可坐两人的大方桌。桌面四周下沿常雕有“八仙过海”等图案。  
 1. 【[八鲜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_xin.md#八鲜)】`baeh7 xin1` <sup>[如东]</sup> 有素八鲜和荤八鲜两种。素八鲜为：芹菜、茨菇、荸荠、荷藕、生姜、洋葱、大头菜、龙头芋。荤八鲜，不同集镇有不同的内容。  
 1. 【[八鲜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_xin.md#八鲜)】`baeh7 xin1` <sup>[兴化]</sup> 指瓜、果、菱藕、蔬菜及部分海鲜：～行。  
 1. 【[八鲜行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_xin_han.md#八鲜行)】`baeh7 xin1 han2` <sup>[如东]</sup> 买卖鲜货的商行。  
@@ -1602,6 +1610,7 @@
 1. 【[北坛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_taen.md#北坛)】`boh7 taen2` <sup>[如皋]</sup> 见“吕祖殿”。  
 1. 【[北猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_zhv.md#北猪)】`boh7 zhv1` <sup>[兴化]</sup> ① 产于两准及盐阜地区的猪，相对于产自江（堰）曲（塘）海（安）的南猪。 ② （喻）矮胖粗黑的女人：她养吖像个～。  
 1. 【[北灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_zo.md#北灶)】`boh7 zo5` <sup>[如皋]</sup> 北方的盐场。通常指大丰县一带。谚云：“北灶的手——𢜶（䴛）手”。  
+1. 【[卜卦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_gua.md#卜卦)】`boh7 gua5` <sup>[泰兴]</sup> 占卜卦相以测吉凶。旧时乡间颇流行算命打卦。迷信。  
 1. 【[卜浪鼓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_lan_gv.md#卜浪鼓)】`boh7 lan6 gv3` <sup>[东台]</sup> 即拨浪鼓，儿童玩具，旧时糖货郎担子用其招徕顾客。  
 1. 【[擘豆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_teu_zz.md#擘豆子)】`boh7 teu6 zz` <sup>[东台]</sup> 将豆角（多指蚕豆）用食指、中指托住，大拇指在中间用力一摁，壳破豆出。  
 1. 【[柏油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_ieu.md#柏油)】`boh7 ieu2` <sup>[如东]</sup> 沥青。  
@@ -1719,6 +1728,7 @@
 1. 【[拨水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/buh_shuei.md#拨水)】`buh7 shuei3` <sup>[如东]</sup> 将大河里的水戽到小河里去。  
 1. 【[拨水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/buh_shuei.md#拨水)】`buh7 shuei3` <sup>[如皋]</sup> 槽筒下端的定齿轮，与“拨齿”相对。  
 1. 【[拨桩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/buh_zhuan.md#拨桩)】`buh7 zhuan1` <sup>[兴化]</sup> 车拨上的小木桩，楔形，由硬杂木制成，作用相当于齿轮上的齿。  
+1. 【[百页](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/buh_ih.md#百页)】`buh7 ih` <sup>[泰兴]</sup> 又称“千张”。豆制品，由豆浆压榨而成，乡人最喜食之。  
 1. 【[百页](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/buh_ih.md#百页)】`buh7 ih8` <sup>[如皋]</sup> 豆制品，薄皮状，又名千张。  
 1. 【[百页底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/buh_ih_di.md#百页底)】`buh7 ih8 di3` <sup>[如皋]</sup> 褈多层布扎成的鞋底。  
 1. 【[百页肚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/buh_ih_dv_r.md#百页肚<sub>儿</sub>)】`buh7 ih8 dv3 r` <sup>[如皋]</sup> 牛羊的重瓣胃。食品。  
