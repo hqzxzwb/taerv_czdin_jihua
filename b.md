@@ -515,7 +515,7 @@
 1. 【[剥皮鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_pi_y.md#剥皮鱼)】`bah7 pi2 y2` <sup>[如皋]</sup> 马面鲀。  
 1. 【[剥铁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_tih.md#剥铁)】`bah7 tih7` <sup>[如皋]</sup> 铁器外层锈蚀后成片剥落。  
 1. 【[剥玉米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_y_mi.md#剥玉米)】`bah7 y6 mi` <sup>[如皋]</sup> 用手工将玉米棒头儿脱粒。  
-1. 【[泊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_zz.md#泊子)】`bah7 zz` <sup>[泰县]</sup> （禁忌语）这个东西。（正字存疑）  
+1. 【[剥子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_zz.md#剥子)】`bah7 zz` <sup>[泰县]</sup> （禁忌语）这个东西。  
 1. 【[煿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah.md#煿)】`bah7` <sup>[如皋]</sup> ① 在锅中出焵黄斑：～豆腐。 ② 干燥：晒得干～～的。  
 1. 【[煿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah.md#煿)】`bah7` <sup>[东台]</sup> 将食物摊在锅里烤，剥离水分，发出毕毕剥剥的声音：～豆腐渣｜把沱粉放吖锅里～咖子。  
 1. 【[煿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah.md#煿)】`bah7` <sup>[兴化]</sup> 在锅中干烤。《集韵·铎韵》伯各切：“～，火乾也，一曰热也”：～糰；～糍粑；～山芋  
