@@ -293,6 +293,7 @@
 1. 【[脏巴巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zan_ba_ba.md#脏巴巴)】`zan1 ba1 ba1` <sup>[兴化]</sup> 形容肮脏不洁的样子：满身～的还不去洗洗。  
 1. 【[脏巴擸𢶍的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zan_ba_laeh_saeh_dii.md#脏巴擸𢶍的)】`zan1 ba1 laeh8 saeh7 dii` <sup>[东台]</sup> 形容某物很不清爽且污染环境的状况。  
 1. 【[脏巴邋遢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zan_ba_laeh_taeh.md#脏巴邋遢)】`zan1 ba1 laeh8 taeh` <sup>[如东]</sup> 十分肮脏，使人恶心。  
+1. 【[脏巴邋遢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zan_ba_laeh_taeh.md#脏巴邋遢)】`zan1 ba1 laeh8 taeh` <sup>[泰兴]</sup>   
 1. 【[脏巴邋遢的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zan_ba_laeh_taeh_dii.md#脏巴邋遢的)】`zan1 ba1 laeh8 taeh7 dii` <sup>[东台]</sup> 形容非常肮脏的状况。  
 1. 【[脏话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zan_hua.md#脏话)】`zan1 hua6` <sup>[东台]</sup> 下流的、不文明的话。  
 1. 【[脏病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zan_pien.md#脏病)】`zan1 pien6` <sup>[东台]</sup> 指性病。  

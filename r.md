@@ -219,6 +219,7 @@
 1. 【[人来风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_lae_fon.md#人来风)】`ren2 lae2 fon1` <sup>[泰县]</sup> 小孩在客人面前的一些忘乎所以的表现，如撒娇，或向大人提出一些过分的要求：这伢儿心～。  
 1. 【[人来客到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_lae_keh_do.md#人来客到)】`ren2 lae2 keh7 do5` <sup>[兴化]</sup> 见“来人到客”。  
 1. 【[人来客去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_lae_keh_qy.md#人来客去)】`ren2 lae2 keh7 qy5` <sup>[兴化]</sup> 有亲朋好友或其他客人来往：平常～的，他总是热情招待。‖也说“人来客到”“来人到客”。  
+1. 【[人力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_lieh.md#人力)】`ren2 lieh` <sup>[泰兴]</sup> 劳动力：老的老，小的小，现在家里没得甚的～  
 1. 【[人牢物牢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_lo_veh_lo.md#人牢物牢)】`ren2 lo2 veh8 lo2` <sup>[如皋]</sup> 人惜物而物牢固。  
 1. 【[人蛮理不蛮，弯木上线弹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_maen_li_beh_maen_vaen_moh_shan_xin_taen.md#人蛮理不蛮，弯木上线弹)】`ren2 maen2 li3 beh7 maen2 vaen1 moh8 shan6 xin5 taen2` <sup>[东台]</sup> 以木匠弹线比喻只要上规矩，就不怕不讲理的人。  
 1. 【[人没得十三拳高](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_meh_deh_sheh_saen_qiun_go.md#人没得十三拳高)】`ren2 meh8 deh7 sheh8 saen1 qiun2 go1` <sup>[东台]</sup> 形容人很矮小。  

@@ -1154,6 +1154,7 @@
 1. 【[九串联](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_chun_lin.md#九串联)】`jieu3 chun5 lin2` <sup>[如皋]</sup> 九只八角风筝用竹骨串联而成。上面装满风哨，疾风吹过，宛如天籁。  
 1. 【[九族](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_coh.md#九族)】`jieu3 coh8` <sup>[如东]</sup> 高祖父、曾祖父、祖父、父亲、自己、儿子、孙子、曾孙、玄孙，共九代，称九族。  
 1. 【[九方子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_fan_zz.md#九方子)】`jieu3 fan1 zz` <sup>[如皋]</sup> 一种方面有三条纸尾的简易风筝。  
+1. 【[九月里南风两天半，十月里南风等不到暗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_iuh_lii_nun.md#九月里南风两天半，十月里南风等不到暗)】`jieu3 iuh lii nun2 fon1 laen3 tin1 bun5 sheh8 iuh lii nun2 fon1 den3 beh do un5` <sup>[泰兴]</sup> 气象谚语。谓深秋季节刮南风，预示将很快要下雨。  
 1. 【[九斤黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_jien_huan.md#九斤黄)】`jieu3 jien huan2` <sup>[兴化]</sup> 鸡的一个品种，老黄色，最大个体可达九斤左右。  
 1. 【[九斤王](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_jien_van.md#九斤王)】`jieu3 jien1 van2` <sup>[如皋]</sup> 狼山鸡。肉用体大毛黑。  
 1. 【[九九歌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_jieu_gu.md#九九歌)】`jieu3 jieu3 gu1` <sup>[东台]</sup> 按时间顺序编排的数九消寒歌：“一九二九不出手，三九四九冰上走，五九和六九，河边看杨柳，七九河冻开，八九燕子来，九九加一九，耕牛遍地走。”  
