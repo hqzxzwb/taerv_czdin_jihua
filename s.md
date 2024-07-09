@@ -1212,8 +1212,8 @@
 1. 【[十月朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_iuh_zho.md#十月朝)】`sheh8 iuh zho1` <sup>[泰兴]</sup> 农历十月初一，古俗为扫墓日，今此俗早废。乡间尚有十月朝吃茄饼之俗，传可少生疮疖。  
 1. 【[十月中，梳头打扮总是工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_iuh_zhon_shv.md#十月中，梳头打扮总是工)】`sheh8 iuh zhon1 shv1 teu2 da3 baen zon3 shr gon1` <sup>[泰兴]</sup> 谓农历十月，日短夜长，白天很容易就过去了，须珍惜时间，抓紧办事。  
 1. 【[十月中，梳头吃饭工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_iuh_zhon_shv.md#十月中，梳头吃饭工)】`sheh8 iuh zhon1 shv1 teu2 qieh7 faen6 gon1` <sup>[东台]</sup> 形容农历十月白天短，梳头吃饭之外忙不了什么。  
-1. 【[十月朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_iuh_cho.md#十月朝)】`sheh8 iuh8 cho2` <sup>[如东]</sup> 传统节日。阴历十月初一日，旧俗为扫墓日。民间举行敬祖上坟等祭祀活动。  
 1. 【[十月的桑叶——谁采（睬）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_iuh_dii_san_ih_shuei_cae.md#十月的桑叶——谁采（睬）)】`sheh8 iuh8 dii san1 ih8 shuei2 cae3` <sup>[东台]</sup>   
+1. 【[十月朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_iuh_zho.md#十月朝)】`sheh8 iuh8 zho1` <sup>[如东]</sup> 传统节日。阴历十月初一日，旧俗为扫墓日。民间举行敬祖上坟等祭祀活动。  
 1. 【[十月朝，早上斫草晚上烧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_iuh_zho_zo_shan_zhah_co_vaen_shan_sho.md#十月朝，早上斫草晚上烧)】`sheh8 iuh8 zho1 zo3 shan zhah7 co3 vaen3 shan sho1` <sup>[如皋]</sup> 草已枯，天气又干燥。  
 1. 【[十姐妹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_ji_mei.md#十姐妹)】`sheh8 ji3 mei` <sup>[如皋]</sup> 白腰文鸟。鸟纲雀形目。喜群飞。  
 1. 【[十斤瓶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_jien_pien.md#十斤瓶)】`sheh8 jien1 pien2` <sup>[如皋]</sup> 一种陶器。似坛子，上有口有盖，其周围有四耳，可系绳，并有一小嘴可以倒酒容量十市斤。现已不见。  

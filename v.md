@@ -250,6 +250,8 @@
 1. 【[五心烦躁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_xien_faen_zo.md#五心烦躁)】`v3 xien1 faen2 zo5` <sup>[兴化]</sup> 形容人心烦意乱，焦躁不安的情态：老头子才从工作岗位上退下来，成天～的。  
 1. 【[午](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v.md#午)】`v3` <sup>[东台]</sup> 地支第七位。  
 1. 【[午饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_faen.md#午饭)】`v3 faen6` <sup>[如东]</sup> 十二点钟左右就餐，这顿饭称午饭。  
+1. 【[午槛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_kaen.md#午槛)】`v3 kaen3` <sup>[如东]</sup> 门框下部的横木板。也叫门槛。  
+1. 【[午槛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_kaen.md#午槛)】`v3 kaen3` <sup>[东台]</sup> 门框下部的横木（也有用石头、水泥做成的）。也作“门槛”“门坎”。  
 1. 【[午槛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_kaen.md#午槛)】`v3 kaen3` <sup>[兴化]</sup> 门槛。  
 1. 【[午时茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_shr_cha.md#午时茶)】`v3 shr2 cha2` <sup>[兴化]</sup> 由中草药配制而成的饮料，夏季饮用可生津止渴，防暑祛病。  
 1. 【[午市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_shr.md#午市)】`v3 shr6` <sup>[如皋]</sup> 中午的贸易潮。  
@@ -258,7 +260,6 @@
 1. 【[忤逆㞞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_nieh_son.md#忤逆㞞)】`v3 nieh7 son2` <sup>[东台]</sup> （詈语）不孝顺父母的人。  
 1. 【[忤逆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_nieh.md#忤逆)】`v3 nieh8` <sup>[如东]</sup> 对长辈不孝敬。  
 1. 【[忤逆货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_nieh_hu.md#忤逆货)】`v3 nieh8 hu5` <sup>[如皋]</sup> 指不孝的人。  
-1. 【[户槛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_kaen.md#户槛)】`v3 kaen3` <sup>[如东]</sup> 门框下部的横木板。也叫门槛。  
 1. 【[捂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v.md#捂)】`v3` <sup>[如东]</sup> 遮盖或封闭起来：把口子～住。  
 1. 【[武把子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_ba_zz.md#武把子)】`v3 ba3 zz` <sup>[兴化]</sup> 戏曲表演中的武打和与之有关的舞蹈动作。  
 1. 【[武叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_cha.md#武叉)】`v3 cha` 形容小孩调皮，很野，不文雅  
@@ -333,7 +334,6 @@
 1. 【[务本堂水龙会所](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_ben_tan_shuei_lon_huei_su.md#务本堂水龙会所)】`v6 ben3 tan2 shuei3 lon2 huei6 su3` <sup>[东台]</sup> 位于东台时堰镇，始建于清末，由清末水利学家冯道立倡办的清代消防设施。  
 1. 【[戊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v.md#戊)】`v6` <sup>[东台]</sup> 天干第五位。  
 1. 【[户槛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_kaen.md#户槛)】`v6 kaen3` <sup>[如皋]</sup> 即“门槛”。  
-1. 【[户槛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_kaen.md#户槛)】`v6-3 kaen3` <sup>[东台]</sup> （这里“户”读若“午”）门框下部的横木（也有用石头、水泥做成的）。也作“门槛”“门坎”。  
 1. 【[护](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v.md#护)】`v6` <sup>[如皋]</sup> ① 保护：～食、～雏。 ② 袒护、包庇：～短。  
 1. 【[护啊家里爬肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_a_ga_lii_pa_dv_zz.md#护啊家里爬肚子)】`v6 a ga1 lii pa2 dv3 zz` <sup>[如皋]</sup> ① 詈语。意为过于溺爱，甚至纵容儿子非礼妈妈。 ② 见“爬肚子”。  
 1. 【[护短](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_dun.md#护短)】`v6 dun3` <sup>[如东]</sup> 包庇缺点：自己的伢儿犯吖毛病大人不要～。  
@@ -376,9 +376,8 @@
 1. 【[搲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va.md#搲)】`va3` <sup>[如皋]</sup> 用勺子等挖取油膏、砂糖、西瓜瓤等。  
 1. 【[搲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va.md#搲)】`va3` <sup>[如东]</sup> 用凹状器皿把东西取出来：用瓢～米。  
 1. 【[搲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va.md#搲)】`va3` <sup>[东台]</sup> 指舀、挖。（《集韵。麻韵》“搲，乌瓜切，手捉物”）：到缸里～米。  
-1. 【[搲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va.md#搲)】`va3` <sup>[兴化]</sup> 用勺或瓢取物：～米；～干面；～西瓜吃。《集韵·马韵》乌瓦切｜“～，吴俗谓手爬物曰～。”  
-1. 【[搲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va.md#搲)】`va3` <sup>[泰县]</sup> 把手弯成勺状抓取：去，～把米来煮饭。（《集韵》上声马韵乌瓦切：“吴俗谓手爬物曰～”。）  
-1. 【[搲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va.md#搲)】`va3` <sup>[泰县]</sup> 捞取物品：你到米缸里～点米来。  
+1. 【[搲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va.md#搲)】`va3` <sup>[兴化]</sup> 用勺或瓢取物：～米；～干面；～西瓜吃。  
+1. 【[搲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va.md#搲)】`va3` <sup>[泰县]</sup> ① 把手弯成勺状抓取：去，～把米来煮饭。（《集韵》上声马韵乌瓦切：“吴俗谓手爬物曰～”。） ② 捞取物品：你到米缸里～点米来。  
 1. 【[搲返心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_faen_xien.md#搲返心)】`va3 faen3 xien1` <sup>[如东]</sup> 从外往里挖东西：陈志萍是个～，只顾往自己家里捞东西。  
 1. 【[搲疙瘩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_geh_daeh.md#搲疙瘩)】`va3 geh7 daeh` <sup>[兴化]</sup> 用汤匙将米粉或面粉和成的薄浆舀入汤中，煮熟后成团状。  
 1. 【[搲米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_mi.md#搲米)】`va3 mi3` <sup>[东台]</sup> 量米。渔民避讳语。因量与凉谐音，故避讳。  

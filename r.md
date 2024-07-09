@@ -508,8 +508,7 @@
 1. 【[绕帐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_zhan.md#绕帐)】`ro6 zhan5` <sup>[如皋]</sup> ① 敷衍应付：他同你玩～，不是真心。 ② 质量差：这种货不能买。  
 1. 【[绕帐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_zhan.md#绕帐)】`ro6 zhan5` <sup>[如皋]</sup> 敷衍了事。  
 1. 【[肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh.md#肉)】`roh8` <sup>[如皋]</sup> 贬指傻而韧。  
-1. 【[肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh.md#肉)】`roh8` <sup>[如东]</sup> 人或动物体内接近皮肤的柔韧组织。假惺惺地说奉承话：他这个是～我。  
-1. 【[肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh.md#肉)】`roh8` <sup>[兴化]</sup> ① 认死理，不知进退：人家让你，就覅～吧！｜与你无关的事，你说甚的戗话？～吤！ ② 讽刺、挖苦，使难堪，通“辱”：我称他学者是～他的，他倒当吖真！  
+1. 【[肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh.md#肉)】`roh8` <sup>[兴化]</sup> 认死理，不知进退：人家让你，就覅～吧！｜与你无关的事，你说甚的戗话？～吤！  
 1. 【[肉板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_baen.md#肉板)】`roh8 baen3` <sup>[如东]</sup> 帆船眼板下边的一块很宽的木板，叫肉板。  
 1. 【[肉膊<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_bah_r.md#肉膊<sub>儿</sub>)】`roh8 bah7 r` <sup>[如皋]</sup> 光着上身。  
 1. 【[肉膊<sub>儿</sub>雄鸡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_bah_r_ion_ji_r.md#肉膊<sub>儿</sub>雄鸡<sub>儿</sub>)】`roh8 bah7 r ion2 ji1 r` <sup>[如皋]</sup> 刚长大羽而体羽不全的小公鸡。  
@@ -597,8 +596,7 @@
 1. 【[肉疼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_ten.md#肉疼)】`roh8 ten2` <sup>[东台]</sup> 形容舍不得：教他出几千块钱，他～得很吖！  
 1. 【[肉疼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_ten.md#肉疼)】`roh8 ten2` <sup>[兴化]</sup> 心疼、舍不得：可怜他省吃俭用攒吖几百块钱捱人偷啊，未免～得很。也作“肉痛”。汪曾祺小说《星期天》中有“谢先生为了看国手下棋，花起钱不觉得肉痛”句。  
 1. 【[肉头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_teu.md#肉头)】`roh8 teu` 被愚弄的人，凯子。  
-1. 【[肉头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_teu.md#肉头)】`roh8 teu` <sup>[如皋]</sup> 贬指傻而韧的人。  
-1. 【[肉头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_teu.md#肉头)】`roh8 teu` <sup>[如皋]</sup> ① 指做事笨拙不得体的人。 ② 光头发的发式。又称“光头、肉光头”。  
+1. 【[肉头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_teu.md#肉头)】`roh8 teu` <sup>[如皋]</sup> ① 贬指傻而韧的人。 ② 指做事笨拙不得体的人。 ③ 光头发的发式。又称“光头、肉光头”。  
 1. 【[肉头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_teu.md#肉头)】`roh8 teu` <sup>[如东]</sup> 肉头是任人宰割的。比喻总是吃亏：他又做～。  
 1. 【[肉头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_teu.md#肉头)】`roh8 teu` <sup>[东台]</sup> ［喻］不会动脑，容易被人利用，出头露面的人。  
 1. 【[肉头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_teu.md#肉头)】`roh8 teu` <sup>[东台]</sup> ［引］脾气倔，有事难商量。  
@@ -648,6 +646,8 @@
 1. 【[褥子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_zz.md#褥子)】`roh8 zz` <sup>[如东]</sup> 垫在床铺上的棉胎。  
 1. 【[褥子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_zz.md#褥子)】`roh8 zz` <sup>[东台]</sup> 坐卧的垫具，一般用棉花胎制成。  
 1. 【[辱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh.md#辱)】`roh8` <sup>[如皋]</sup> 说反话、阴话以讽刺、挖苦：我是～他的，不晓得他哿懂？  
+1. 【[辱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh.md#辱)】`roh8` <sup>[如东]</sup> 假惺惺地说奉承话：他这个是～我。  
+1. 【[辱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh.md#辱)】`roh8` <sup>[兴化]</sup> 讽刺、挖苦，使难堪：我称他学者是～他的，他倒当吖真！  
 1. 【[辱句](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_jy.md#辱句)】`roh8 jy` <sup>[如皋]</sup> 说反话讽刺。  
 1. 【[辱没](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_meh.md#辱没)】`roh8 meh8` <sup>[东台]</sup> 侮辱埋没，有损声誉。  
 1. 【[辱绝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_qiuh.md#辱绝)】`roh8 qiuh8` <sup>[兴化]</sup> 羞辱、挖苦：你这个不是夸奖，直接就是～人。  
