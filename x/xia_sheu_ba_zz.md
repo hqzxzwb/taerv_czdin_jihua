@@ -13,3 +13,8 @@ xia6 sheu ba3 zz
 xia3 sheu3 ba3 zz
 > 泰县方言志
 - 助手。
+
+# 下手把子
+xia6 sheu3 ba3 zz
+> 如皋方言词典
+- 助手。
