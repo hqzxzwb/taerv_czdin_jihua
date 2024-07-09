@@ -214,6 +214,7 @@ samples = []
 cz_ien = defaultdict(lambda: set())
 parse_cz_ien("daen_cz.csv", cz_ien)
 parse_cz_ien2("用字.md", cz_ien)
+parse_cz_ien2("候选正字.md", cz_ien)
 for path in dirs:
     samples.append("## %s\n" % path.upper())
     write_page(dirs, path, samples, cz_ien)
