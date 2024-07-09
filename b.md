@@ -520,6 +520,7 @@
 1. 【[煿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah.md#煿)】`bah7` <sup>[东台]</sup> 将食物摊在锅里烤，剥离水分，发出毕毕剥剥的声音：～豆腐渣｜把沱粉放吖锅里～咖子。  
 1. 【[煿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah.md#煿)】`bah7` <sup>[兴化]</sup> 在锅中干烤。《集韵·铎韵》伯各切：“～，火乾也，一曰热也”：～糰；～糍粑；～山芋  
 1. 【[煿脆饼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_qy_bien_r.md#煿脆饼<sub>儿</sub>)】`bah7 qy5 bien3 r` <sup>[如皋]</sup> 上等脆饼，饼起多层，层薄如纸。谚云：丁堰的脆饼儿十八层，层层照见人。  
+1. 【[煿脆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_qy_r.md#煿脆<sub>儿</sub>)】`bah7 qy5 r` <sup>[泰县]</sup> 泰县特产的一种脆饼。  
 1. 【[驳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah.md#驳)】`bah7` <sup>[如皋]</sup> 用砖石等加砌外层：～墙、～河岸子。  
 1. 【[驳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah.md#驳)】`bah7` <sup>[兴化]</sup> 将河岸或圩堤向外拓展：圩外帮坍得不少，挖几船荒垡来～～。  
 1. 【[驳差](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_chae.md#驳差)】`bah7 chae1` <sup>[兴化]</sup> ① 驳运，用小船在码头与大船或船与船之间转运乘客或货物。 ② （喻）前来拿东西的人：刚买一箱子荔枝，就有人来～。｜～的来啊，总要拿点儿东西把他吧！  

@@ -250,7 +250,6 @@
 1. 【[薄皮<sub>儿</sub>材](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_pi_r_cae.md#薄皮<sub>儿</sub>材)】`pah8 pi2 r cae2` <sup>[如皋]</sup> 边皮料做成的很小很薄的棺材。  
 1. 【[薄皮<sub>儿</sub>冻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_pi_r_don.md#薄皮<sub>儿</sub>冻)】`pah8 pi2 r don5` <sup>[如皋]</sup> 薄冰。  
 1. 【[薄脆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_qy.md#薄脆)】`pah8 qy5` <sup>[东台]</sup> ① 一种又甜又脆的点心。 ② 戏指一记耳光：他老子给啊他一个～。  
-1. 【[薄脆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_qy_r.md#薄脆<sub>儿</sub>)】`pah8 qy5 r` <sup>[泰县]</sup> 泰县特产的一种脆饼。  
 1. 【[薄汤拐稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_tan_guae_xi.md#薄汤拐稀)】`pah8 tan1 guae3 xi1` <sup>[兴化]</sup> 形容粥或其他汤汁过于稀薄：这粥～的，几泡尿一散就没有啊。  
 1. 【[薄汤稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_tan_xi.md#薄汤稀)】`pah8 tan1 xi1` <sup>[如东]</sup> 很稀的粥。  
 1. 【[薄田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_tin.md#薄田)】`pah8 tin2` <sup>[如东]</sup> 不肥沃的田。  
