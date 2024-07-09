@@ -1032,7 +1032,7 @@
 1. 【[背害](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_hae.md#背害)】`bei1 hae6` <sup>[东台]</sup> 同“背累”。  
 1. 【[背黑锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_heh_gu.md#背黑锅)】`bei1 heh7 gu1` <sup>[如东]</sup> ① 比喻代人受过。 ② 泛指受冤枉。  
 1. 【[背家伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_jia_hu.md#背家伙)】`bei1 jia1 hu` <sup>[如皋]</sup> 喻吃苦头。  
-1. 【[背脊后头唱喏——反礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_jieh_heu_teu_chan_ra_faen_li.md#背脊后头唱喏——反礼)】`bei1 jieh7 heu6 teu2 chan5 ra3 faen3 li3` <sup>[东台]</sup>   
+1. 【[背脊后头唱喏——反礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_jieh_heu_teu.md#背脊后头唱喏——反礼)】`bei1 jieh7 heu6 teu2 chan5 ra3 faen3 li3` <sup>[东台]</sup>   
 1. 【[背累](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_luei.md#背累)】`bei1 luei6` <sup>[东台]</sup> 受别人牵连，遭受伤害。  
 1. 【[背伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_nga_r.md#背伢<sub>儿</sub>)】`bei1 nga2 r` <sup>[如东]</sup> 把小孩驮在背上。  
 1. 【[背纤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_qin.md#背纤)】`bei1 qin5` <sup>[兴化]</sup> 把纤绳放在背上拉：过去行船，顺风扯篷，顶风～、用篙、用桨。也称“拉纤”。  
@@ -1054,7 +1054,7 @@
 1. 【[背后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_heu.md#背后)】`bei5 heu6` <sup>[如东]</sup> 身后。  
 1. 【[背晦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_huei.md#背晦)】`bei5 huei5` <sup>[兴化]</sup> 年老胡涂：老爷爷如今上吖年纪，不免有点儿～。  
 1. 【[背阴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_ien.md#背阴)】`bei5 ien1` <sup>[如东]</sup> 阳光照射不到的地方。  
-1. 【[背脊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_ji.md#背脊)】`bei5 ji1` <sup>[如东]</sup> 背部。  
+1. 【[背脊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_jieh.md#背脊)】`bei5 jieh7` <sup>[如东]</sup> 背部。  
 1. 【[背脊后头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_jieh_heu_teu.md#背脊后头)】`bei5 jieh7 heu6 teu` <sup>[如皋]</sup> ① 背部。 ② 背后，身后。  
 1. 【[背理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_li.md#背理)】`bei5 li3` <sup>[如东]</sup> 没有理。  
 1. 【[背霉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_mei.md#背霉)】`bei5 mei2` <sup>[兴化]</sup> 倒霉失意的时候：这老头子一时～，日后官复原职，找他的人就多了……（《郑板桥传说·半副对联》）  
