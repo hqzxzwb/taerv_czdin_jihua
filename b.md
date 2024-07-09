@@ -717,11 +717,11 @@
 1. 【[不分清](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_fen_qien.md#不分清)】`beh7 fen1 qien1` <sup>[如东]</sup> 不清楚，不清醒。  
 1. 【[不分头底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_fen_teu_di.md#不分头底)】`beh7 fen1 teu2 di3` <sup>[东台]</sup> 理不清事情的头绪，顺序。  
 1. 【[不服赌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_foh_dv.md#不服赌)】`beh7 foh8 dv3` <sup>[泰县]</sup> 不服气：我就～。  
+1. 【[不服气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_foh_qi.md#不服气)】`beh7 foh8 qi5` <sup>[如东]</sup> 忍不下遭受的怨气：他还是～。  
 1. 【[不服输](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_foh_shv.md#不服输)】`beh7 foh8 shv1` <sup>[如东]</sup> 不承认失败：他就是～。  
 1. 【[不服周](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_foh_zheu.md#不服周)】`beh7 foh8 zheu1` <sup>[东台]</sup> 不服输；不服赌；不言败。伯夷、叔齐在商亡之后不食周粟而饿死，东台人敬重他们的气节，所以说成“不服周”。  
 1. 【[不奉重别人的屁眼装门窝子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_fon_chon_pih_ren_dii_pi_ngaen_zhuan_men_u_zz.md#不奉重别人的屁眼装门窝子)】`beh7 fon6 chon6 pih8 ren2 dii pi5 ngaen3 zhuan1 men2 u1 zz` <sup>[东台]</sup> 能自力更生，就不必低三下四求他人。  
 1. 【[不夫不妻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_fv_beh_qi.md#不夫不妻)】`beh7 fv1 beh7 qi1` <sup>[如东]</sup> 男女关系不太正常：两个人～的，像个甚的样子。  
-1. 【[不服气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_fv_qi.md#不服气)】`beh7 fv2 qi5` <sup>[如东]</sup> 忍不下遭受的怨气：他还是～。  
 1. 【[不尴尬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_gaen_ga.md#不尴尬)】`beh7 gaen1 ga5` <sup>[兴化]</sup> ① 不方便：如果～，尽管来找我。 ② 处于两难境地，不好处理：“这事～……银子又用的精光，还剩了一屁股两肋巴的债……”（《儒林外史》五四） ③ 事有可疑：“大姐，这两个人来的～。”（《水浒传》十）  
 1. 【[不够动筷<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_geu_ton_kuae_r.md#不够动筷<sub>儿</sub>)】`beh7 geu5 ton6 kuae5 r` <sup>[如皋]</sup> 状饭、菜少。  
 1. 【[不够啧啊牙缝<sub>儿</sub>里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_geu_zz_a_nga_fon_r_lii.md#不够啧啊牙缝<sub>儿</sub>里)】`beh7 geu5 zz5 a nga2 fon6 r lii` <sup>[如皋]</sup> 状吃的东西太少了。  
