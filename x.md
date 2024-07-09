@@ -1200,7 +1200,7 @@
 1. 【[歇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih.md#歇)】`xih7` <sup>[如皋]</sup> 睡觉：今朝晚上～咖这许，明朝再走。  
 1. 【[歇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih.md#歇)】`xih7` <sup>[兴化]</sup> 睡眠：长老领智深到方丈～了一夜。（《水浒传》四）  
 1. 【[歇咖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_ga_zz.md#歇咖子)】`xih7 ga zz` <sup>[东台]</sup> 歇一下；短时间休息。  
-1. 【[歇觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_go.md#歇觉)】`xih7 go4` <sup>[兴化]</sup> 睡觉：他己经～啊，覅吵！  
+1. 【[歇觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_go.md#歇觉)】`xih7 go5` <sup>[兴化]</sup> 睡觉：他己经～啊，覅吵！  
 1. 【[歇个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_gu.md#歇个)】`xih7 gu` <sup>[如皋]</sup> 见“早晚”。  
 1. 【[歇脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_jiah.md#歇脚)】`xih7 jiah7` <sup>[如东]</sup> 休息：我俫在五总桥～。  
 1. 【[歇脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_jiah.md#歇脚)】`xih7 jiah7` <sup>[东台]</sup> 暂停前进休息一下，又叫歇肩，卸去肩上的担负：走啊这吖远，让我～吃口烟。  
@@ -1418,7 +1418,7 @@
 1. 【[现身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_shen.md#现身)】`xin6 shen1` <sup>[兴化]</sup> 指人在一定场合露面：你在一旁䁭䁭，先覅～。｜“你们明早走去看看，不要～。”（《梼杌闲评》四）  
 1. 【[现世](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_shr.md#现世)】`xin6 shr5` <sup>[如东]</sup> 出丑，丢脸：你不要在外头～。  
 1. 【[现世](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_shr.md#现世)】`xin6 shr5` <sup>[东台]</sup> 也叫“现世宝”，即出丑，丢脸的意思：活～。有时也是昵称｜你个～，还带啊礼物。  
-1. 【[现世](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_shr.md#现世)】`xin6 shr5` <sup>[泰县]</sup> 丢人：你不要～，快回家去。  
+1. 【[现世](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_shr.md#现世)】`xin6 shr5` <sup>[泰县]</sup> 丢人（泰县音xin5 sz5）：你不要～，快回家去。  
 1. 【[现世宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_shr_bo.md#现世宝)】`xin6 shr5 bo3` <sup>[如皋]</sup> 贬指出丑、丢脸的人。  
 1. 【[现世宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_shr_bo.md#现世宝)】`xin6 shr5 bo3` <sup>[兴化]</sup> （贬）不肖子弟：“你这～！你老子是个好汉，怎么生出你这个脓包来，这样怕死……”（《说岳全传》六四）  
 1. 【[现世报](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_shr_bo.md#现世报)】`xin6 shr5 bo5` <sup>[东台]</sup> 佛教认为：做了坏事会得到报应｜这家伙交通肇事多次，这回是～，醉驾栽啊下河啊。  
