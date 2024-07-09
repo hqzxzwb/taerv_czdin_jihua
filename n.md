@@ -400,7 +400,6 @@
 1. 【[牙棱子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_len_zz.md#牙棱子)】`nga2 len6 zz` 牙龈  
 1. 【[牙棱子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_len_zz.md#牙棱子)】`nga2 len6 zz` <sup>[如东]</sup> 牙床。  
 1. 【[牙楞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_len_zz.md#牙楞子)】`nga2 len6 zz` <sup>[如皋]</sup> 牙龈。  
-1. 【[牙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#牙子)】`nga2 zz` 牙齿  
 1. 【[牙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#牙子)】`nga2 zz` <sup>[如皋]</sup> 牙齿。  
 1. 【[牙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#牙子)】`nga2 zz` <sup>[兴化]</sup> ① 牙齿。 ② 像牙一样的东西：路～。 ③ 旧时买卖双方的中介人：房～｜鱼～。  
 1. 【[牙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#牙子)】`nga2 zz` <sup>[兴化]</sup> 旧称买卖、租赁的中介人。  
@@ -425,7 +424,6 @@
 1. 【[哑噎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_ih.md#哑噎)】`nga3 ih7` <sup>[东台]</sup> 无话可说的样子。  
 1. 【[哑谜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_mi.md#哑谜)】`nga3 mi2` <sup>[如东]</sup> ① 隐晦的话。 ② 比喻难以猜测的问题：他在下跟你打～。  
 1. 【[哑蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_taen.md#哑蛋)】`nga3 taen6` <sup>[兴化]</sup> 壳上有璺的蛋：三斤～全卖把你，少收你一块钱。  
-1. 【[哑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#哑子)】`nga3 zz` 哑巴  
 1. 【[哑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#哑子)】`nga3 zz` <sup>[如皋]</sup> ① 哑巴。 ② 雌蝉，不鸣，尾部有刀状生殖器。  
 1. 【[哑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#哑子)】`nga3 zz` <sup>[如东]</sup> ① 不会说话的人。 ② 雌性昆虫不会鸣叫，称哑子。  
 1. 【[哑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#哑子)】`nga3 zz` <sup>[东台]</sup> ① 哑巴。 ② 未炸响的爆竹。  

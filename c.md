@@ -437,7 +437,7 @@
 1. 【[茶食篓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_sheh_leu_r.md#茶食篓<sub>儿</sub>)】`cha2 sheh8 leu3 r` <sup>[如皋]</sup> 用篾黄编成的稀眼的碗状篓。旧时包装茶食用。今已少见。  
 1. 【[茶水炉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_shuei_lv_zz.md#茶水炉子)】`cha2 shuei3 lv2 zz` <sup>[如皋]</sup> 见“老虎灶”。  
 1. 【[茶水炉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_shuei_lv_zz.md#茶水炉子)】`cha2 shuei3 lv2 zz` <sup>[东台]</sup> 旧时的老虎灶，现已极少。  
-1. 【[茶透了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_teu_a.md#茶透了)】`cha2 teu5 a` <sup>[如东]</sup> 茶水烧开了：～，可以冲茶叶。  
+1. 【[茶透啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_teu_a.md#茶透啊)】`cha2 teu5 a` <sup>[如东]</sup> 茶水烧开了：～，可以冲茶叶。  
 1. 【[茶豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_teu.md#茶豆)】`cha2 teu6` <sup>[兴化]</sup> 子粒呈绿色的大黄豆。  
 1. 【[茶豆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_teu_r.md#茶豆<sub>儿</sub>)】`cha2 teu6 r` <sup>[泰县]</sup> 豌豆。  
 1. 【[茶铫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_tio_r.md#茶铫<sub>儿</sub>)】`cha2 tio6 r` <sup>[如东]</sup> 茶壶。  
@@ -677,7 +677,7 @@
 1. 【[猖毛狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_mo_geu.md#猖毛狗)】`chan1 mo2 geu3` <sup>[如东]</sup> ① 狗的一种。身上生长着蓬松的毛。 ② 比喻人的头发蓬乱：头发像～一样的。 ③ 此喻人穿的衣服褴褛：穿得像～一样。  
 1. 【[菖蒲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_pv.md#菖蒲)】`chan1 pv2` <sup>[东台]</sup> 草本植物，叶子像剑，根茎可做香料，也可入药。民间有端午节插艾草和～的风俗。  
 1. 【[裮头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_teu.md#裮头)】`chan1 teu2` （应该戴帽子而）不戴帽子：大冬天～不冷吖？  
-1. 【[鲳鳊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_bin.md#鲳鳊)】`chan1 bin3` <sup>[如东]</sup> 鲳科动物银鲳，也叫镜鲳、平鱼。俗称鱆鳊。  
+1. 【[鲳鳊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_bin.md#鲳鳊)】`chan1 bin1` <sup>[如东]</sup> 鲳科动物银鲳，也叫镜鲳、平鱼。俗称鱆鳊。  
 1. 【[鲳鳊鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_bin_y.md#鲳鳊鱼)】`chan1 bin3 y2` <sup>[兴化]</sup> 一种海鱼，身体短而侧扁。又称“鲳鱼”“平鱼”。  
 1. 【[鲳丿鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_pih_y.md#鲳丿鱼)】`chan1 pih7 y2` <sup>[东台]</sup> 一种海鱼，又叫鲳鱼、鲳鳊鱼。身体近菱形，扁侧，吻圆、口小、牙细。成鱼腹鳍消失。  
 1. 【[场米糏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_mi_xih.md#场米糏)】`chan2 mi3 xih7` <sup>[如皋]</sup> 见“糯米糏”。  
@@ -707,7 +707,7 @@
 1. 【[长腰腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_io_io.md#长腰腰)】`chan2 io1 io1` <sup>[如东]</sup> 长圆形或葫芦形：这块田～的。  
 1. 【[长远](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_iun.md#长远)】`chan2 iun3` <sup>[兴化]</sup> 指时间很长：他处朋友不得～，容易反脸。｜“你这里～了，不怕没八人轿你坐。”（《红楼梦》十九）  
 1. 【[长脚𣑁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_jiah_chon.md#长脚𣑁)】`chan2 jiah7 chon5` <sup>[如东]</sup> 在木床上连接床脚的方木，叫长脚𣑁。  
-1. 【[长脚蹽髈的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_jiah_lio_pan_dii.md#长脚蹽髈的)】`chan2 jiah7 lio6 pan3 dii` <sup>[如皋]</sup> 人瘦而高。  
+1. 【[长脚尥髈的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_jiah_lio_pan_dii.md#长脚尥髈的)】`chan2 jiah7 lio6 pan3 dii` <sup>[如皋]</sup> 人瘦而高。  
 1. 【[长脚髈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_jiah_pan_r.md#长脚髈<sub>儿</sub>)】`chan2 jiah7 pan3 r` <sup>[如东]</sup> 脚腿长的人。  
 1. 【[长脚髈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_jiah_pan_r.md#长脚髈<sub>儿</sub>)】`chan2 jiah7 pan3 r` <sup>[如皋]</sup> 人瘦而高。  
 1. 【[长脚雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_jiah_y.md#长脚雨)】`chan2 jiah7 y3` <sup>[如东]</sup> 长时间地下雨（相对于雷阵雨），叫长脚雨：今朝下的是～。  
@@ -1292,6 +1292,7 @@
 1. 【[超朞走](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_ji_zeu.md#超朞走)】`cho1 ji1 zeu3` <sup>[如皋]</sup> 婴儿未满周岁即会走路，是发育良好的表现。  
 1. 【[超朞走](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_ji_zeu.md#超朞走)】`cho1 ji1 zeu3` <sup>[东台]</sup> 婴儿未过周岁就会走路，“超”指能力超过同龄婴儿，“朞”指周岁。  
 1. 【[超头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_teu.md#超头)】`cho1 teu2` <sup>[兴化]</sup> 抢在前头到达目的地：一个个直奔中军帐。有人～奔寝帐来摇醒曹操……（《火烧赤壁》五）也作“穿头”。  
+1. 【[钞票](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_pio.md#钞票)】`cho1 pio5` <sup>[如东]</sup> 纸币。  
 1. 【[朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho.md#朝)】`cho2` 针对  
 1. 【[朝贺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_hu.md#朝贺)】`cho2 hu` <sup>[东台]</sup> 暗示要表示点（请客或送礼）的意思。  
 1. 【[朝阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_ian.md#朝阳)】`cho2 ian2` <sup>[如东]</sup> 向着太阳的地方或方向。  
@@ -1364,7 +1365,6 @@
 1. 【[炒肉束<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_roh_shoh_r.md#炒肉束<sub>儿</sub>)】`cho3 roh8 shoh7 r` <sup>[泰县]</sup> 炒肉丝。  
 1. 【[炒石膏粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_sheh_go_fen.md#炒石膏粉)】`cho3 sheh8 go1 fen3` <sup>[如皋]</sup> 将生石膏粉炒制成熟石膏粉。  
 1. 【[炒蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_taen.md#炒蛋)】`cho3 taen6` <sup>[如东]</sup> ① 加工蛋制品的一种方法。把蛋青、蛋黄放入锅中，加作料，烧火炒熟。 ② 捣乱：你不要再～。  
-1. 【[钞票](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_pio.md#钞票)】`cho3 pio5` <sup>[如东]</sup> 纸币。  
 1. 【[抄头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_teu.md#抄头)】`cho5 teu2` <sup>[兴化]</sup> 从近路快步拦在被追赶对象的前头：小偷向南逃，我俫～揦住他。  
 1. 【[召](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho.md#召)】`cho6` 叫喊，喊叫  
 1. 【[召](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho.md#召)】`cho6` <sup>[如皋]</sup> 喊，叫：你不要～，有话好好说。  
