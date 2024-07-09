@@ -457,10 +457,10 @@
 1. 【[下手把子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_sheu_ba_zz.md#下手把子)】`xia6 sheu ba3 zz` <sup>[兴化]</sup> 做辅助性工作的人：你当大师傅，我当你的～。  
 1. 【[下手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_sheu.md#下手)】`xia6 sheu3` <sup>[如东]</sup> ① 位于自己的右手边：他在我的～。 ② 自己的帮手：他是我的～。  
 1. 【[下手把子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_sheu_ba_zz.md#下手把子)】`xia6 sheu3 ba3 zz` <sup>[东台]</sup> 主要操作者的助手。  
+1. 【[下手把子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_sheu_ba_zz.md#下手把子)】`xia6 sheu3 ba3 zz` <sup>[如皋]</sup> 助手。  
 1. 【[下梢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_sho.md#下梢)】`xia6 sho1` <sup>[兴化]</sup> 结果或结局：你只管逍遥自在，不好好做人，当心没得～。｜却是富贵的人……眯着心，任情去做，那里管后来有～没～？（《初刻》二二）  
 1. 【[下熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_shoh.md#下熟)】`xia6 shoh8` <sup>[如皋]</sup> 即秋熟作物。  
 1. 【[下市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_shr.md#下市)】`xia6 shr6` <sup>[如东]</sup> 比喻结束：不得～。  
-1. 【[下手把子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_shue_ba_zz.md#下手把子)】`xia6 shue3 ba3 zz` <sup>[如皋]</sup> 助手。  
 1. 【[下水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_shuei.md#下水)】`xia6 shuei3` <sup>[如东]</sup> ① 下游。 ② 面对水流过来的方向，自己的右边，称下水：他在～作业。 ③ 牲畜的内脏，有时专指猪的肚子和肠子。  
 1. 【[下水道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_shuei_to.md#下水道)】`xia6 shuei3 to6` <sup>[如东]</sup> 房屋里排除雨水和污水的管道。  
 1. 【[下台](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_tae.md#下台)】`xia6 tae2` <sup>[兴化]</sup> 和尚的焰口结束：焰口～！｜前庄放焰口的和尚吃过～斋粥以后……（兴文《夺墓陈》）  
