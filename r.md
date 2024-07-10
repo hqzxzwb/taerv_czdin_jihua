@@ -290,10 +290,10 @@
 1. 【[人无笑脸莫开店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_v_xio_lin_mah_kae_din.md#人无笑脸莫开店)】`ren2 v2 xio5 lin3 mah8 kae1 din5` <sup>[东台]</sup> 微笑服务，和气生财。  
 1. 【[人无职业不遮身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_v_zheh_ih_beh_zha_shen.md#人无职业不遮身)】`ren2 v2 zheh7 ih8 beh7 zha1 shen1` <sup>[东台]</sup> 就业是民生之本，每个人都要有职业及职能。  
 1. 【[人误地一时，地误人一年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_v_ti_ieh_shr_ti_v_ren_ieh_nin.md#人误地一时，地误人一年)】`ren2 v6 ti6 ieh7 shr2 ti6 v6 ren2 ieh7 nin2` <sup>[东台]</sup> 要掌握季节，遵循规律，及时耕种。  
-1. 【[人望](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_van.md#人望)】`ren2 van1` <sup>[泰兴]</sup> 声望，威望：贪污腐败，干尽了坏事，还有甚的人望？  
 1. 【[人王](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_van.md#人王)】`ren2 van2` <sup>[如东]</sup> 自作聪明能干的人：这个家伙好做～。  
 1. 【[人王](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_van.md#人王)】`ren2 van2` <sup>[泰兴]</sup> 诋责以势欺人或以力侮人者，有“狗大为王，人大见强”一说。贬语。  
 1. 【[人往高处走，水往低处流](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_van_go_chv_zeu_shuei_van_di_chv_lieu.md#人往高处走，水往低处流)】`ren2 van6 go1 chv5 zeu3 shuei3 van6 di1 chv5 lieu2` <sup>[东台]</sup> 人要有上进心。  
+1. 【[人望](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_van.md#人望)】`ren2 van6` <sup>[泰兴]</sup> 声望，威望：贪污腐败，干尽了坏事，还有甚的人望？  
 1. 【[人物](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_veh.md#人物)】`ren2 veh8` <sup>[如皋]</sup> 不寻常的人。  
 1. 【[人物](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_veh.md#人物)】`ren2 veh8` <sup>[如东]</sup> 有才能有地位有影响的人：他是一个～。  
 1. 【[人物头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_veh_teu_r.md#人物头<sub>儿</sub>)】`ren2 veh8 teu2 r` <sup>[兴化]</sup> 指拔尖的、了不起的人：他往人前一站，还真像个～。  

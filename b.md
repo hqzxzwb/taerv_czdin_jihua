@@ -196,7 +196,7 @@
 1. 【[罢罢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ba.md#罢罢)】`ba5 ba` <sup>[兴化]</sup> 连词，相当“既然”：“甚么话！～的一生辛苦，半世背灯，才博得一第……岂可轻易丢去……”（《梼杌闲评》三四）｜“～他说我没学问，明天西教场操兵，把他看看……”（扬二《张松献地图》）  
 1. 【[罢罢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ba.md#罢罢)】`ba5 ba5` <sup>[如皋]</sup> ① 好不容易，既然：～的来啊，耍子两天再走。 ② 儿语：没有了。  
 1. 【[罢罢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ba.md#罢罢)】`ba5 ba5` <sup>[东台]</sup> （童语）没有了。  
-1. 【[罢不价](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_beh_jia.md#罢不价)】`ba5 beh jia3` <sup>[兴化]</sup> 语气词，表同意：你要我请客哪？——～！也说“罢吧”“罢不哪”。  
+1. 【[罢不假](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_beh_jia.md#罢不假)】`ba5 beh jia3` <sup>[兴化]</sup> 语气词，表同意：你要我请客哪？——～！也说“罢吧”“罢不哪”。  
 1. 【[罢咾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_lo.md#罢咾)】`ba5 lo` <sup>[如皋]</sup> 算了，温和平静地：一点小事，～，～。  
 1. 【[霸住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_chuh.md#霸住)】`ba5 chuh` <sup>[如皋]</sup> 强行控制：他～咖大门不准走。  
 1. 【[霸剌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_laeh.md#霸剌)】`ba5 laeh` <sup>[东台]</sup> 霸道、凶狠、手辣：人要厚道，不能～。  
@@ -1065,6 +1065,7 @@
 1. 【[背时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_shr.md#背时)】`bei5 shr2` <sup>[东台]</sup> 不走运。  
 1. 【[背时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_shr.md#背时)】`bei5 shr2` <sup>[兴化]</sup> 不合时宜：他上吖年纪，有些～啊，遇事总喜欢唠叨几句。也作“悖时”。  
 1. 【[背地里头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_ti_li_teu.md#背地里头)】`bei5 ti6 li3 teu` <sup>[东台]</sup> 私下，不当面暗地里的意思。  
+1. 【[背道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_to.md#背道)】`bei5 to` <sup>[兴化]</sup> 偏僻的地方：那个地方～，晚上路过要留点儿神。  
 1. 【[背道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_to.md#背道)】`bei5 to6` <sup>[如皋]</sup> 偏僻闭塞。  
 1. 【[背心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_xien.md#背心)】`bei5 xien1` <sup>[如皋]</sup> 背部中央。  
 1. 【[背心里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_xien_lii.md#背心里)】`bei5 xien1 lii` <sup>[如皋]</sup> 背部中央。  
@@ -1072,7 +1073,6 @@
 1. 【[褙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei.md#褙)】`bei5` <sup>[兴化]</sup> 用稀浆糊把布或纸一层一层地粘在一起：裱～；打～。  
 1. 【[辈分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_fen.md#辈分)】`bei5 fen` <sup>[东台]</sup> 家族中世代相传的顺序，与“字序”和“班辈”同义：他虽然年龄比我大，但～比我还小。  
 1. 【[背底下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_di_ha.md#背底下)】`bei6 di ha6` <sup>[兴化]</sup> 私下：这句话我俫只能～说说。  
-1. 【[背道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_to.md#背道)】`bei6 to` <sup>[兴化]</sup> 偏僻的地方：那个地方～，晚上路过要留点儿神。  
 1. 【[奔波](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_bu.md#奔波)】`ben1 bu1` <sup>[东台]</sup> 忙碌奔走：他常年在外～，没得个歇时。  
 1. 【[奔丧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_san.md#奔丧)】`ben1 san1` <sup>[东台]</sup> 从外地急着赶回家料理长辈亲属的丧事。  
 1. 【[奔丧报死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_san_bo_sz.md#奔丧报死)】`ben1 san1 bo5 sz3` <sup>[兴化]</sup> （贬）急迫匆忙的样子：你匆匆忙忙的就像～，撞吖人也不打声招呼。  
@@ -1267,7 +1267,7 @@
 1. 【[槟榔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_lan.md#槟榔)】`bien1 lan` <sup>[如皋]</sup> 牛鼻桊儿的又名。  
 1. 【[槟榔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_lan.md#槟榔)】`bien1 lan2` <sup>[如东]</sup> 穿在牛鼻子中的木棍或铜棍，一头系绳，供牵牛用。  
 1. 【[槟榔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_lan.md#槟榔)】`bien1 lan2` <sup>[东台]</sup> 常绿乔木，树干很高，羽状复叶。果实可以吃，也供药用。  
-1. 【[蠙山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_shaen.md#蠙山)】`bien1 shaen1` <sup>[如东]</sup> 掘港的雅称。据《如皋县志》记载，古时，掘港西北部有一座由蛼蛤壳堆积起来的小山，在阳光照耀下，闪烁升腾，犹如珍珠，故称蠙山。  
+1. 【[𧏖山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_shaen.md#𧏖山)】`bien1 shaen1` <sup>[如东]</sup> 掘港的雅称。据《如皋县志》记载，古时，掘港西北部有一座由蛼蛤壳堆积起来的小山，在阳光照耀下，闪烁升腾，犹如珍珠，故称𧏖山。  
 1. 【[丙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien.md#丙)】`bien3` <sup>[东台]</sup> 天干的第三位。  
 1. 【[丙弓理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_gon_li.md#丙弓理)】`bien3 gon1 li3` <sup>[泰县]</sup> 歪理。  
 1. 【[比](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien.md#比)】`bien3` <sup>[如皋]</sup> 比，避讳音，介词：事情做啊成吖功～吃肉总快活些。  
@@ -1876,7 +1876,6 @@
 1. 【[半籽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_zz.md#半籽)】`bun5 zz3` <sup>[兴化]</sup> 西瓜中部分种子尚未成熟：～瓜甜虽甜，就是不酥。  
 1. 【[𡜵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bv.md#𡜵)】`bv1` <sup>[东台]</sup> 姑妈，即东台话中的孃孃。受盐阜方言影响，对与父母同辈或大致同龄的女士也叫“大～”“～儿”“～子”。  
 1. 【[𡜵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bv.md#𡜵)】`bv1` <sup>[兴化]</sup> 姑母：～子。《集韵，模韵》滂模切｜“～，女字。”（声、义不全合）  
-1. 【[捕风捉影](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bv_fon_zhuah_ien.md#捕风捉影)】`bv3 fon1 zhuah7 ien3` <sup>[东台]</sup> 风和影子都是抓不着的，比喻说话做事没有根据。  
 1. 【[补](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bv.md#补)】`bv3` <sup>[如皋]</sup> 插言揭短：他说得太不像话，我～啊他两句，他就不好开口啊。  
 1. 【[补](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bv.md#补)】`bv3` <sup>[兴化]</sup> 反唇相讥：“我说了一句玩话，你还要来～我……”（《广陵潮》八四）  
 1. 【[补疤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bv_ba.md#补疤)】`bv3 ba1` <sup>[如皋]</sup> 用锔疤或烫疤法修锅、缸、碗等。  
