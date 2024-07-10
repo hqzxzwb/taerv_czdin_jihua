@@ -1573,6 +1573,7 @@
 1. 【[神节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_jih.md#神节)】`shen2 jih7` <sup>[如皋]</sup> 儒、释、道、耶、回等百神的节日、香期。与“人节、鬼节”相对。  
 1. 【[神里鬼泛的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_lii_guei_faen_dii.md#神里鬼泛的)】`shen2 lii guei3 faen5 dii` <sup>[如皋]</sup> 主意、行为难以预料：他做事～，叫你想不到。  
 1. 【[神鹿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_loh.md#神鹿)】`shen2 loh` <sup>[如东]</sup> 灵活，神气。  
+1. 【[神气国国](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_qi_goh_goh.md#神气国国)】`shen2 qi goh7 goh` <sup>[泰兴]</sup> 神气活现  
 1. 【[神气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_qi.md#神气)】`shen2 qi5` <sup>[如东]</sup> ① 精神好：他～啊交关。 ② 精明强干，办法多：他多～啊！ ③ 衣装整齐漂亮：你穿这身衣服～唻。  
 1. 【[神气把子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_qi_ba_zz.md#神气把子)】`shen2 qi5 ba3 zz, shen2 qi5 ma3 zz` <sup>[东台]</sup> 头脑灵活门路精的人。（有人将“把”读若“马”）  
 1. 【[神气大六国](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_qi_da_loh_goh.md#神气大六国)】`shen2 qi5 da6 loh8 goh7` <sup>[东台]</sup> 同“神气六国”，更夸张：那小伙～的，是个好料子。  

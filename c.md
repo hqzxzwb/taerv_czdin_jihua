@@ -1855,6 +1855,7 @@
 1. 【[出气筒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chueh_qi_ton.md#出气筒)】`chueh7 qi5 ton3` <sup>[如皋]</sup> 喻无辜受气的人：他在外头吃咖人家的货，家去就拿妈妈儿做～。  
 1. 【[出气筒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chueh_qi_ton.md#出气筒)】`chueh7 qi5 ton3` <sup>[东台]</sup> ［喻］用来发泄怒气的人：小刘简直成吖他的～。  
 1. 【[出人情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chueh_ren_qien.md#出人情)】`chueh7 ren2 qien2` <sup>[东台]</sup> 在正常的人情往来中给别人送礼。  
+1. 【[出人情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chueh_ren_qien.md#出人情)】`chueh7 ren2 qien2` <sup>[泰兴]</sup> 送礼贺亲友喜事  
 1. 【[出生出世](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chueh_shen_chueh_shr.md#出生出世)】`chueh7 shen1 chueh7 shr5` <sup>[兴化]</sup> 有生以来：我生长在城市，～不曾吃过这吖鲜的桂鱼汤。  
 1. 【[出神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chueh_shen.md#出神)】`chueh7 shen2` <sup>[如东]</sup> 因精神过度集中而发呆：她看吖～。  
 1. 【[出手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chueh_sheu.md#出手)】`chueh7 sheu3` <sup>[如东]</sup> ① 衣袖的长度：这件褂子的～是多少？ ② 动手打人：王二已经～。  
