@@ -517,7 +517,7 @@
 1. 【[绕牙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_nga_zz.md#绕牙子)】`ro6 nga2 zz` <sup>[如皋]</sup> 食物缠住牙齿：韭菜～。  
 1. 【[绕人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_ren.md#绕人)】`ro6 ren2` <sup>[如皋]</sup> 用诡辩术把对方套住。  
 1. 【[绕人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_ren.md#绕人)】`ro6 ren2` <sup>[兴化]</sup> ① 蒙骗人。 ② 问题复杂难解：这个问题～哩，好不容易才钻出来。 ③ 在说笑中占人便宜。  
-1. 【[绕绕账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_ro_zhan.md#绕绕账)】`ro6 ro6 zhan5` <sup>[东台]</sup> 账务涉及的几个方面互为债权债务关系，见“挍挍账”。  
+1. 【[绕绕账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_ro_zhan.md#绕绕账)】`ro6 ro6 zhan5` <sup>[东台]</sup> 账务涉及的几个方面互为债权债务关系，见“㩭㩭账”。  
 1. 【[绕绕账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_ro_zhan.md#绕绕账)】`ro6-5 ro6-5 zhan5` <sup>[东台]</sup> 办事极不认真，走过场，敷衍了事。（注意这里“绕”阴去声；）  
 1. 【[绕骚胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_so_hv_zz.md#绕骚胡子)】`ro6 so hv2 zz` <sup>[兴化]</sup> 连着鬓角的胡须。也称“兜腮胡子”。  
 1. 【[绕头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_teu.md#绕头)】`ro6 teu2` <sup>[如皋]</sup> 事理难清，头脑发昏：他同你说～话，你总弄不分清他说的甚的杲子。  

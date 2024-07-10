@@ -877,7 +877,7 @@
 1. 【[不上紧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_shan_jien.md#不上紧)】`beh7 shan6 jien3` <sup>[如东]</sup> 不抓紧：他做活技总是～。  
 1. 【[不上紧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_shan_jien.md#不上紧)】`beh7 shan6 jien3` <sup>[泰县]</sup> 不抓紧：他学习～。  
 1. 【[不上劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_shan_jien.md#不上劲)】`beh7 shan6 jien5` <sup>[如东]</sup> 不起劲：拖拖拉拉的，～。  
-1. 【[不上挍挍<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_shan_ko_ko_r.md#不上挍挍<sub>儿</sub>)】`beh7 shan6 ko6 ko6 r` <sup>[如东]</sup> 不上规矩：这个伢儿～。  
+1. 【[不上㩭㩭<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_shan_ko_ko_r.md#不上㩭㩭<sub>儿</sub>)】`beh7 shan6 ko6 ko6 r` <sup>[如东]</sup> 不上规矩：这个伢儿～。  
 1. 【[不上理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_shan_li.md#不上理)】`beh7 shan6 li3` <sup>[如东]</sup> ① 不懂道理：这个人～。 ② 不讲道理：这个丫头～。  
 1. 【[不上路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_shan_lv.md#不上路)】`beh7 shan6 lv6` 不懂人情世故的，不识时务的  
 1. 【[不上路子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_shan_lv_zz.md#不上路子)】`beh7 shan6 lv6 zz` <sup>[如皋]</sup> 见“不上道儿”。  

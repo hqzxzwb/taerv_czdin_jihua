@@ -668,7 +668,7 @@
 1. 【[七架梁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_jia_lian.md#七架梁)】`qieh7 jia5 lian2` <sup>[泰兴]</sup> 昔时乡间较普及的砖木结构瓦房，每间由七根梁条架起，故称。  
 1. 【[七进子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_jien_zz.md#七进子)】`qieh7 jien5 zz` <sup>[如东]</sup> 鬣蜥科动物龙蜥。  
 1. 【[七九](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_jieu.md#七九)】`qieh7 jieu3` <sup>[泰兴]</sup> 冬至日起第55天至第63天。古语：“六九五十四，口中取暖气；七九六十三，行人把衣单。”  
-1. 【[七挍八挍的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_ko_baeh_ko_dii.md#七挍八挍的)】`qieh7 ko6 baeh7 ko6 dii` <sup>[如皋]</sup> 纠缠在一起乱七八糟的样子。  
+1. 【[七㩭八㩭的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_ko_baeh_ko_dii.md#七㩭八㩭的)】`qieh7 ko6 baeh7 ko6 dii` <sup>[如皋]</sup> 纠缠在一起乱七八糟的样子。  
 1. 【[七拉八扯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_la_baeh_cha.md#七拉八扯)】`qieh7 la1 baeh7 cha3` <sup>[泰兴]</sup> 漫无边际地闲谈，或谓乱拉来一些不相干的人：年纪大了，谈到家常就～的  
 1. 【[七零八落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_lien_baeh_lah.md#七零八落)】`qieh7 lien2 baeh7 lah8` <sup>[如东]</sup> 没有整块的东西。许多东西摆着挂着很不整齐。  
 1. 【[七领五腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_lien_v_io.md#七领五腰)】`qieh7 lien3 v3 io1` <sup>[如皋]</sup> 收殓用衣上身七件，下身五件。  

@@ -648,19 +648,19 @@
 1. 【[靠资](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_zz.md#靠资)】`ko5 zz1` <sup>[如皋]</sup> 沾光。  
 1. 【[靠资](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_zz.md#靠资)】`ko5 zz1` <sup>[东台]</sup> ① 吃白食：这两天家属外出，我就到姐姐家～。 ② 沾光：要自力更生，不要老想吖去别人那块～。  
 1. 【[靠资](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_zz.md#靠资)】`ko5 zz1` <sup>[泰县]</sup> 沾光：今朝他又来～。  
-1. 【[挍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko.md#挍)】`ko6` <sup>[如皋]</sup> 纠缠，言、行、理、形皆有之：说～～儿理、同你～、～事。  
-1. 【[挍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko.md#挍)】`ko6` <sup>[东台]</sup> 两条小腿相交：坐要有坐相，不要两个腿～啊一起。  
-1. 【[挍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko.md#挍)】`ko6` <sup>[兴化]</sup> ① 缠绕：～住头。 ② 交叉：十字～儿。  
-1. 【[挍夹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_gaeh.md#挍夹)】`ko6 gaeh7` <sup>[东台]</sup> 相互之间纠缠在一起，理事不清楚：这里头有～，不能随便说是说非。  
-1. 【[挍梗<sub>儿</sub>白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_gen_r_poh.md#挍梗<sub>儿</sub>白)】`ko6 gen3 r poh8` <sup>[如皋]</sup> 初冬上市供腌咸菜用的青菜，白梗多而高，且互相交叉，故名。  
-1. 【[挍挍<sub>儿</sub>理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_ko_r_li.md#挍挍<sub>儿</sub>理)】`ko6 ko6 r li3` <sup>[如皋]</sup> 不正当的理由、或故意胡蛮缠的歪理。  
-1. 【[挍挍<sub>儿</sub>账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_ko_r_zhan.md#挍挍<sub>儿</sub>账)】`ko6 ko6 r zhan5` <sup>[如皋]</sup> 七缠八缠，理不清的帐。  
-1. 【[挍挍<sub>儿</sub>捘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_ko_r_zuen.md#挍挍<sub>儿</sub>捘)】`ko6 ko6 r zuen5` <sup>[如东]</sup> 绳索绞了许多捘：这根绳上吖～。  
-1. 【[挍挍账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_ko_zhan.md#挍挍账)】`ko6 ko6 zhan5` <sup>[东台]</sup> 账务涉及的几个方面互为债权债务关系，也称“绕绕账”：～，要仔细理。  
-1. 【[挍蛮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_maen.md#挍蛮)】`ko6 maen2` <sup>[如皋]</sup> 商借者的自谦用语：同你～，借个梯子。  
-1. 【[挍蛮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_maen.md#挍蛮)】`ko6 maen2` <sup>[东台]</sup> 蛮不讲理地纠缠：要耐心接待，不要轻易说上访群众～。  
-1. 【[挍边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_pin.md#挍边)】`ko6 pin1` <sup>[如皋]</sup> 锁边机给布料锁边。  
-1. 【[挍七挍八的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_qieh_ko_baeh_dii.md#挍七挍八的)】`ko6 qieh7 ko6 baeh7 dii` <sup>[如皋]</sup> 纠缠在一起乱七八糟的样子。  
+1. 【[㩭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko.md#㩭)】`ko6` <sup>[如皋]</sup> 纠缠，言、行、理、形皆有之：说～～儿理、同你～、～事。  
+1. 【[㩭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko.md#㩭)】`ko6` <sup>[东台]</sup> 两条小腿相交：坐要有坐相，不要两个腿～啊一起。  
+1. 【[㩭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko.md#㩭)】`ko6` <sup>[兴化]</sup> ① 缠绕：～住头。 ② 交叉：十字～儿。  
+1. 【[㩭夹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_gaeh.md#㩭夹)】`ko6 gaeh7` <sup>[东台]</sup> 相互之间纠缠在一起，理事不清楚：这里头有～，不能随便说是说非。  
+1. 【[㩭梗<sub>儿</sub>白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_gen_r_poh.md#㩭梗<sub>儿</sub>白)】`ko6 gen3 r poh8` <sup>[如皋]</sup> 初冬上市供腌咸菜用的青菜，白梗多而高，且互相交叉，故名。  
+1. 【[㩭㩭<sub>儿</sub>理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_ko_r_li.md#㩭㩭<sub>儿</sub>理)】`ko6 ko6 r li3` <sup>[如皋]</sup> 不正当的理由、或故意胡蛮缠的歪理。  
+1. 【[㩭㩭<sub>儿</sub>账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_ko_r_zhan.md#㩭㩭<sub>儿</sub>账)】`ko6 ko6 r zhan5` <sup>[如皋]</sup> 七缠八缠，理不清的帐。  
+1. 【[㩭㩭<sub>儿</sub>捘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_ko_r_zuen.md#㩭㩭<sub>儿</sub>捘)】`ko6 ko6 r zuen5` <sup>[如东]</sup> 绳索绞了许多捘：这根绳上吖～。  
+1. 【[㩭㩭账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_ko_zhan.md#㩭㩭账)】`ko6 ko6 zhan5` <sup>[东台]</sup> 账务涉及的几个方面互为债权债务关系，也称“绕绕账”：～，要仔细理。  
+1. 【[㩭蛮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_maen.md#㩭蛮)】`ko6 maen2` <sup>[如皋]</sup> 商借者的自谦用语：同你～，借个梯子。  
+1. 【[㩭蛮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_maen.md#㩭蛮)】`ko6 maen2` <sup>[东台]</sup> 蛮不讲理地纠缠：要耐心接待，不要轻易说上访群众～。  
+1. 【[㩭边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_pin.md#㩭边)】`ko6 pin1` <sup>[如皋]</sup> 锁边机给布料锁边。  
+1. 【[㩭七㩭八的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_qieh_ko_baeh_dii.md#㩭七㩭八的)】`ko6 qieh7 ko6 baeh7 dii` <sup>[如皋]</sup> 纠缠在一起乱七八糟的样子。  
 1. 【[哭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/koh.md#哭)】`koh7` <sup>[如东]</sup> 困痛苦悲哀或感情激动而流泪，有时还发出声音。  
 1. 【[哭宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/koh_bo_r.md#哭宝<sub>儿</sub>)】`koh7 bo3 r` 爱哭的小孩。  
 1. 【[哭宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/koh_bo_r.md#哭宝<sub>儿</sub>)】`koh7 bo3 r` <sup>[如皋]</sup> 爱哭伢儿的谑称。  
