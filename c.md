@@ -369,7 +369,6 @@
 1. 【[𠞊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha.md#𠞊)】`cha1` <sup>[泰县]</sup> ① 用叉子挑东西：～草。（《广韵》平声麻韵初牙切：“㔆物。”） ② 捞：把面～起来。  
 1. 【[𠞊住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_chv.md#𠞊住)】`cha1 chv` <sup>[泰县]</sup> ① 挽住。 ② 说话时，中途有误，遭人指责。  
 1. 【[扯野<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ia_r.md#扯野<sub>儿</sub>)】`cha2 ia3 r` <sup>[兴化]</sup> 闲聊。  
-1. 【[扯脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_lin.md#扯脸)】`cha2 lin3` <sup>[兴化]</sup> 旧时，妇女用棉线绞去面部汗毛的美容方法。  
 1. 【[搽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha.md#搽)】`cha2` 望脸上身上涂抹化妆品护肤霜之类  
 1. 【[搽粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_fen.md#搽粉)】`cha2 fen3` <sup>[如东]</sup> 往脸上涂抹粉末状的化装品。  
 1. 【[搽头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_teu.md#搽头)】`cha2 teu2` <sup>[如皋]</sup> ① 给头发涂油或泡花儿水等定型剂。 ② 给头疮搽药。 ③ 比喻整治其人。  
@@ -489,6 +488,7 @@
 1. 【[扯脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_lin.md#扯脸)】`cha3 lin3` <sup>[如东]</sup> 结婚后的第二天早晨，为新娘摘除脸上的绒毛，叫做扯脸。也叫开脸。  
 1. 【[扯脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_lin.md#扯脸)】`cha3 lin3` <sup>[如皋]</sup> 旧时妇人定期用线扯去脸上的汗毛儿等，称之。  
 1. 【[扯脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_lin.md#扯脸)】`cha3 lin3` <sup>[东台]</sup> 同“开脸”。  
+1. 【[扯脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_lin.md#扯脸)】`cha3 lin3` <sup>[兴化]</sup> 旧时，妇女用棉线绞去面部汗毛的美容方法。  
 1. 【[扯脸的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_lin_dii.md#扯脸的)】`cha3 lin3 dii` <sup>[如皋]</sup> 旧时专职为结婚的女子化妆、司礼、搀扶、开脸的女人。  
 1. 【[扯笼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_lon_r.md#扯笼<sub>儿</sub>)】`cha3 lon r` <sup>[如东]</sup> 空竹，圆形竹筒制成，左右两只，有哨口，中间以竹竿相担，用绳索搓动，高速旋转后，能够发出响声。  
 1. 【[扯麻把子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ma_ba_zz.md#扯麻把子)】`cha3 ma2 ba3 zz` <sup>[东台]</sup> ［喻］因为说话做事不谨慎，引起许多麻烦：把那笔账结清就走，不要～。  
@@ -679,7 +679,7 @@
 1. 【[裮头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_teu.md#裮头)】`chan1 teu2` （应该戴帽子而）不戴帽子：大冬天～不冷吖？  
 1. 【[鲳鳊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_bin.md#鲳鳊)】`chan1 bin1` <sup>[如东]</sup> 鲳科动物银鲳，也叫镜鲳、平鱼。俗称鱆鳊。  
 1. 【[鲳鳊鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_bin_y.md#鲳鳊鱼)】`chan1 bin3 y2` <sup>[兴化]</sup> 一种海鱼，身体短而侧扁。又称“鲳鱼”“平鱼”。  
-1. 【[鲳丿鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_pih_y.md#鲳丿鱼)】`chan1 pih7 y2` <sup>[东台]</sup> 一种海鱼，又叫鲳鱼、鲳鳊鱼。身体近菱形，扁侧，吻圆、口小、牙细。成鱼腹鳍消失。  
+1. 【[鲳撇鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_pih_y.md#鲳撇鱼)】`chan1 pih7 y2` <sup>[东台]</sup> 一种海鱼，又叫鲳鱼、鲳鳊鱼。身体近菱形，扁侧，吻圆、口小、牙细。成鱼腹鳍消失。  
 1. 【[场米糏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_mi_xih.md#场米糏)】`chan2 mi3 xih7` <sup>[如皋]</sup> 见“糯米糏”。  
 1. 【[场面账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_min_zhan.md#场面账)】`chan2 min6 zhan5` <sup>[如东]</sup> 表面交情，表面样式。  
 1. 【[常法](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_faeh.md#常法)】`chan2 faeh7` <sup>[兴化]</sup> 为长远利益谋划的办法：“……咱们每日在一搭儿，若无事就吃，也不是个～……”（《岐路灯》三七）  
@@ -1267,8 +1267,7 @@
 1. 【[弨下巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_ha_ba.md#弨下巴)】`cho1 ha6 ba` <sup>[如东]</sup> 下巴向前伸着的人，叫弨下巴。  
 1. 【[弨下巴颏<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_ha_ba_kah_r.md#弨下巴颏<sub>儿</sub>)】`cho1 ha6 ba kah7 r` <sup>[如东]</sup> ① 人的下巴向前突出。 ② 从旁边乱插话。  
 1. 【[弨瓢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_pio_r.md#弨瓢<sub>儿</sub>)】`cho1 pio2 r` <sup>[如东]</sup> ① 工具。木制，前方后圆，三边有榜，前边有口，中间凹。有柄。 ② 比喻上嘴唇短、下嘴唇长，嘴形似瓢儿的人。  
-1. 【[弨瓢<sub>儿</sub>嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_pio_r_jy.md#弨瓢<sub>儿</sub>嘴)】`cho1 pio2 r jy3` <sup>[如皋]</sup> “地包天”。  
-1. 【[弨瓢<sub>儿</sub>嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_pio_r_jy.md#弨瓢<sub>儿</sub>嘴)】`cho1 pio2 r jy3` <sup>[如皋]</sup> 下颚比上鄂朝前的脸型。见“季□牙ji5 ko nga2”。  
+1. 【[弨瓢<sub>儿</sub>嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_pio_r_jy.md#弨瓢<sub>儿</sub>嘴)】`cho1 pio2 r jy3` <sup>[如皋]</sup> 下颚比上颚朝前的脸型。见“地包天”、“济㩭牙”。  
 1. 【[抄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho.md#抄)】`cho1` <sup>[如东]</sup> 把东西从水中捞起来：你用海子把鱼～起来。  
 1. 【[抄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho.md#抄)】`cho1` <sup>[兴化]</sup> ① 两手交相插在袖筒里：～着手。 ② 将手掌弯成弧形舀水：～水漱口｜～点儿水喝喝。  
 1. 【[抄豝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_ba_r.md#抄豝<sub>儿</sub>)】`cho1 ba1 r` <sup>[如东]</sup> 产崽的母猪被骟了，叫抄巴儿。  
@@ -2434,7 +2433,6 @@
 1. 【[坐得正，行得正，和尚尼姑佮坐凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_deh_zhen_xien_deh_zhen_hu_shan_ni_gv_guh_cu_den.md#坐得正，行得正，和尚尼姑佮坐凳)】`cu6 deh7 zhen5 xien2 deh7 zhen5 hu2 shan ni2 gv guh7 cu6 den5` <sup>[如皋]</sup> 心地磊落，品行端正，和尚、尼姑坐在一起也不会让人说三道四。  
 1. 【[坐得正，行得正，和尚尼姑佮板凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_deh_zhen_xien_deh_zhen_hu_shan_ni_gv_guh_baen_den.md#坐得正，行得正，和尚尼姑佮板凳)】`cu6 deh7 zhen5 xien2 deh7 zhen5 hu2 shan ni2 gv1 guh7 baen3 den5` <sup>[东台]</sup> 自己心中没鬼，不怕别人说闲话。  
 1. 【[坐臀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_den.md#坐臀)】`cu6 den` <sup>[如东]</sup> 生猪后肢上端的一部分肉，称坐臀，瘦而鲜。  
-1. 【[坐臀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_den.md#坐臀)】`cu6 den1` <sup>[如皋]</sup> 猪臀部肉。  
 1. 【[坐臀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_den.md#坐臀)】`cu6 den1` <sup>[如皋]</sup> 猪臀部肉。即“腿板”。  
 1. 【[坐二等车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_er_den_cha.md#坐二等车)】`cu6 er6 den3 cha1` 搭便车（一般指自行车）  
 1. 【[坐粪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_fen.md#坐粪)】`cu6 fen5` <sup>[如皋]</sup> 预先用粪作基肥。  
@@ -2519,7 +2517,7 @@
 1. 【[随弯<sub>儿</sub>就弯<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuei_vaen_r_qieu_vaen_r.md#随弯<sub>儿</sub>就弯<sub>儿</sub>)】`cuei2 vaen1 r qieu6 vaen1 r` <sup>[如皋]</sup> ① 顺从，不违拗。依情势办事。 ② 顺从，跟着行动。见“就弯儿转弯儿”。  
 1. 【[随相入相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuei_xian_reh_xian.md#随相入相)】`cuei2 xian5 reh8 xian5` <sup>[如皋]</sup> 见“随弯儿就弯儿”。“识相”。  
 1. 【[随相入相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuei_xian_reh_xian.md#随相入相)】`cuei2 xian5 reh8 xian5` <sup>[如东]</sup> 跟随着走：～，不要拗别。  
-1. 【[随粥便饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuei_zhoh_pin_faen.md#随粥便饭)】`cuei2 zhoh8 pin6 faen6` <sup>[兴化]</sup> 不讲究菜肴，只吃家常饭食：我到你家～最好，不要特为。  
+1. 【[随粥便饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuei_zhoh_pin_faen.md#随粥便饭)】`cuei2 zhoh7 pin6 faen6` <sup>[兴化]</sup> 不讲究菜肴，只吃家常饭食（原文记音“随”suei2）：我到你家～最好，不要特为。  
 1. 【[随嘴说](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuei_zuei_shuh.md#随嘴说)】`cuei2 zuei3 shuh7` <sup>[兴化]</sup> 不加思考，不负责任地信口而谈：批评人要讲事实，不能～。  
 1. 【[翠绿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuei_loh.md#翠绿)】`cuei5 loh8` <sup>[东台]</sup> 像翡翠一样的绿色。  
 1. 【[脆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuei.md#脆)】`cuei5` <sup>[兴化]</sup> ① 幽默：老先生说话多～啊。 ② 声音清脆：嗓子真～。  
@@ -2712,7 +2710,7 @@
 1. 【[辞先](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_xin.md#辞先)】`cz2 xin1` <sup>[兴化]</sup> 旧俗，腊月末某日近午，民户设馔、焚纸锭祭类先人辞岁。也谓“辞年”。  
 1. 【[此谈此消](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_taen_cz_xio.md#此谈此消)】`cz3 taen2 cz3 xio1` <sup>[东台]</sup> 事情谈到这里为止，以后不要再提。也说“此谈此了”。  
 1. 【[此地无银三百两——不打自招](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_ti_v_ien_saen_boh_lian_beh_da_cz_zho.md#此地无银三百两——不打自招)】`cz3 ti6 v2 ien2 saen1 boh7 lian3 beh7 da3 cz6 zho1` <sup>[东台]</sup>   
-1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz.md#□)】`cz5` <sup>[泰县]</sup> 透：你把菜妙～啊再盛起来。  
+1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz.md#□)】`cz5` <sup>[泰县]</sup> 透：你把菜炒～啊再盛起来。  
 1. 【[伺候](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_heu.md#伺候)】`cz5 heu` <sup>[泰县]</sup> 等待、准备。  
 1. 【[刺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz.md#刺)】`cz5` <sup>[如东]</sup> ① 用刀尖戳。 ② 扎在皮肤里的竹、木小棍或鱼骨，称刺。  
 1. 【[刺戳戳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_chuah_chuah.md#刺戳戳)】`cz5 chuah7 chuah7` <sup>[东台]</sup> 一种受到刺激，又疼又痒、十分难受的感觉。  
@@ -2768,7 +2766,7 @@
 1. 【[自关门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_guaen_men.md#自关门)】`cz6 guaen1 men2` <sup>[兴化]</sup> ① 安装弹簧铰链的门扇，开启后能自动关闭。 ② 门框变形或因安装不善，门扇不垂直，开启后往往自动关闭或开启。  
 1. 【[自惯自](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_guaen_cz.md#自惯自)】`cz6 guaen5 cz6` <sup>[如皋]</sup> 自个儿撒娇、卖蘣，自己疼自己，别人并不理会。  
 1. 【[自顾自](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_gv_cz.md#自顾自)】`cz6 gv5 cz6` <sup>[如皋]</sup> ① 自己照顾自己：他那吖点儿工资只够～。 ② 自私，不顾别人：他是～，老婆伢儿受害。  
-1. 【[自绞自灭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_jio_cz_mih.md#自绞自灭)】`cz6 jio3 cz6 mih8` <sup>[东台]</sup> 自我毁灭的意思。  
+1. 【[自剿自灭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_jio_cz_mih.md#自剿自灭)】`cz6 jio3 cz6 mih8` <sup>[东台]</sup> 自我毁灭的意思。  
 1. 【[自拉自唱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_la_cz_chan.md#自拉自唱)】`cz6 la1 cz6 chan5` <sup>[兴化]</sup> ① 自己操琴为自己演唱伴奏。 ② （喻）自吹自擂：他望望没得人答理，只好～的胡吹啊一通。  
 1. 【[自来火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_lae_hu.md#自来火)】`cz6 lae2 hu3` <sup>[兴化]</sup> ① 旧谓火柴。 ② 今称打火机。  
 1. 【[自留地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_lieu_ti.md#自留地)】`cz6 lieu2 ti6` <sup>[东台]</sup> 本指实行农业集体化后留给农民家庭经营的少量土地。［喻］指本职工作或干私活。  

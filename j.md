@@ -165,13 +165,13 @@
 1. 【[季节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_jih.md#季节)】`ji5 jih7` <sup>[如东]</sup> 一年里某个特定的时期：农忙～。  
 1. 【[季节不饶人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_jih_beh_ro_ren.md#季节不饶人)】`ji5 jih7 beh7 ro2 ren2` <sup>[东台]</sup> 农谚，种庄稼要遵循其客观规律，不能耽误农时。  
 1. 【[季节工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_jih_gon.md#季节工)】`ji5 jih7 gon1` <sup>[如东]</sup> 用工制度的一种。按照季节参加企业劳动的工人。  
-1. 【[季□牙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ko_nga.md#季□牙)】`ji5 ko nga2` <sup>[如皋]</sup> 下门齿超出上门齿的口型。雅称“地包天”。  
 1. 【[寄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#寄)】`ji5` <sup>[如东]</sup> 东西暂时放在这里：我东西～你家。  
 1. 【[济](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#济)】`ji5` 左（手）。吴语区是尖音，所以不写成“季”。  
 1. 【[济彆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_bih_zz.md#济彆子)】`ji5 bih7 zz` <sup>[如皋]</sup> 以左手为主即左重的人。  
 1. 【[济半边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_bun_bin.md#济半边)】`ji5 bun5 bin1` <sup>[如东]</sup> 左半边。  
 1. 【[济脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_jiah.md#济脚)】`ji5 jiah7` <sup>[如东]</sup> 左脚。  
 1. 【[济脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_jiah.md#济脚)】`ji5 jiah7` <sup>[如皋]</sup> 左脚。  
+1. 【[济㩭牙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ko_nga.md#济㩭牙)】`ji5 ko nga2` <sup>[如皋]</sup> 下门齿超出上门齿的口型。雅称“地包天”。  
 1. 【[济撇子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_pih_zz.md#济撇子)】`ji5 pih7 zz` <sup>[如东]</sup> 用左手干活儿或拿东西。  
 1. 【[济手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_sheu.md#济手)】`ji5 sheu3` <sup>[如东]</sup> 左手。  
 1. 【[济手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_sheu.md#济手)】`ji5 sheu3` <sup>[如皋]</sup> 左手。(原文作“季手”，对照吴语，尖团不合)  
