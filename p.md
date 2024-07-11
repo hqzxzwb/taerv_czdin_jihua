@@ -844,7 +844,7 @@
 1. 【[便当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pin_dan.md#便当)】`pin6 dan1` <sup>[如东]</sup> 方便，顺手：这样做～。  
 1. 【[便当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pin_dan.md#便当)】`pin6 dan1` <sup>[东台]</sup> 方便，容易：这许买杲子蛮～，出门就是超市。  
 1. 【[便饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pin_faen.md#便饭)】`pin6 faen6` <sup>[如东]</sup> 简单的饭菜。  
-1. 【[便过咾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pin_gu_lo.md#便过咾)】`pin6 gu1 lo` <sup>[如皋]</sup> 礼貌话，指自已已经在对方之先行动过。  
+1. 【[便过咾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pin_gu_lo.md#便过咾)】`pin6 gu1 lo` <sup>[如皋]</sup> 礼貌话，指自己已经在对方之先行动过。  
 1. 【[便钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pin_qin.md#便钱)】`pin6 qin2` <sup>[如东]</sup> 以大面额的钱换小面额的钱  
 1. 【[便斢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pin_tio.md#便斢)】`pin6 tio3` <sup>[如皋]</sup> 调换：我的值班时间他～下子。你同他把座位～下子。  
 1. 【[缏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pin.md#缏)】`pin6` <sup>[如皋]</sup> 动词：～百索儿。～草帽鞭儿。  

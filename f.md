@@ -398,8 +398,8 @@
 1. 【[妨法](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_faeh.md#妨法)】`fan1 faeh7` <sup>[东台]</sup> 犯法：～的事不能做。  
 1. 【[妨法](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_faeh.md#妨法)】`fan1 faeh7` <sup>[泰县]</sup> 违法：你要关照伢儿，～的事不能做。  
 1. 【[妨过事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_gu_shr.md#妨过事)】`fan1 gu shr6` <sup>[东台]</sup> 刚才吃过饭了：我已经～啊，你俫请。  
-1. 【[妨过啊事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_gu_a_shr.md#妨过啊事)】`fan1 gu1 a shr6` <sup>[如皋]</sup> 礼貌话，指自已已经在对方之先行动过。  
-1. 【[妨吖事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_nga_shr.md#妨吖事)】`fan1 nga shr6` <sup>[如皋]</sup> 礼貌话，指自已已经在对方之先行动过。  
+1. 【[妨过啊事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_gu_a_shr.md#妨过啊事)】`fan1 gu1 a shr6` <sup>[如皋]</sup> 礼貌话，指自己已经在对方之先行动过。  
+1. 【[妨吖事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_nga_shr.md#妨吖事)】`fan1 nga shr6` <sup>[如皋]</sup> 礼貌话，指自己已经在对方之先行动过。  
 1. 【[妨人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_ren.md#妨人)】`fan1 ren2` <sup>[如皋]</sup> 指称某禽兽。指人时可为詈语或昵语。  
 1. 【[妨人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_ren.md#妨人)】`fan1 ren2` <sup>[东台]</sup> （詈语）指家禽家畜。因其常妨害人，故有此说法。古人也有类似说法。如刘备缴获“的卢”马，相马的人说此马“妨主”，后刘备骑此马陷檀溪，大呼：“的卢、的卢，今日妨吾！”那马忽然一跃三丈，飞上西岸，摆脱蔡瑁追杀。  
 1. 【[妨事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_shr.md#妨事)】`fan1 shr6` <sup>[如皋]</sup> 妨碍行事，引起麻烦：这个人蹾吖这许实在～，大家总有意见。  
@@ -539,7 +539,7 @@
 1. 【[放水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_shuei.md#放水)】`fan5 shuei3` <sup>[如皋]</sup> ① 给容器中注水。 ② 农田管水，包括排、灌两方面的工作。 ③ 泄露机密。  
 1. 【[放水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_shuei.md#放水)】`fan5 shuei3` <sup>[兴化]</sup> ① 挖开口子，排出田中多余的水。 ② （借）某事在进行中遭破坏：这个计划流产，骨里是有人～的。  
 1. 【[放松](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_son.md#放松)】`fan5 son1` <sup>[如东]</sup> ① 把捆紧的东西放松一点。 ② 松弛一下。  
-1. 【[放肆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_sz.md#放肆)】`fan5 sz5` <sup>[兴化]</sup> 客套话，说自已正在进餐或已用过餐：噢，我放过肆啊！｜对不起，我先～啊。  
+1. 【[放肆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_sz.md#放肆)】`fan5 sz5` <sup>[兴化]</sup> 客套话，说自己正在进餐或已用过餐：噢，我放过肆啊！｜对不起，我先～啊。  
 1. 【[放蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_taen.md#放蛋)】`fan5 taen6` <sup>[东台]</sup> （詈辞）放屁的委婉说法。  
 1. 【[放汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_tan.md#放汤)】`fan5 tan1` <sup>[如东]</sup> 汤水从碗里流出来。比喻发生问题：在你手上～。  
 1. 【[放汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_tan.md#放汤)】`fan5 tan1` <sup>[如皋]</sup> ① 给锅或碗中加水或其它液体。 ② 公共浴室打烊放污水。  

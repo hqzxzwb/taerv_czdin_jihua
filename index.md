@@ -469,7 +469,7 @@
 1. 【[乌龟吼曲子——鳖（别）调](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_guei_heu_qioh_zz_bih_dio.md#乌龟吼曲子——鳖（别）调)】`v1 guei1 heu3 qioh7 zz bih7 dio5` <sup>[东台]</sup>   
 1. 【[乌龟壳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_guei_kah.md#乌龟壳)】`v1 guei1 kah7` <sup>[兴化]</sup> 旧时一种小木船，棚子低矮成弧形，似龟壳，故名。又称“龟壳船”。  
 1. 【[乌龟壳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_guei_kah_r.md#乌龟壳<sub>儿</sub>)】`v1 guei1 kah7 r` <sup>[如东]</sup> 乌龟的甲壳。指一种老式的汽车。指日本人的碉堡。  
-1. 【[乌龟吃馓子——自绕头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_guei_qieh_caen_zz_cz_ro_teu.md#乌龟吃馓子——自绕头)】`v1 guei1 qieh7 caen3 zz——cz6 ro6 teu2` <sup>[如皋]</sup> 自已钻进了自己做的圈套里。  
+1. 【[乌龟吃馓子——自绕头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_guei_qieh_caen_zz_cz_ro_teu.md#乌龟吃馓子——自绕头)】`v1 guei1 qieh7 caen3 zz——cz6 ro6 teu2` <sup>[如皋]</sup> 自己钻进了自己做的圈套里。  
 1. 【[乌龟吃秤砣——铁咖心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_guei_qieh_chen_tu_tih_ga_xien.md#乌龟吃秤砣——铁咖心)】`v1 guei1 qieh7 chen5 tu2 tih7 ga xien1` <sup>[东台]</sup>   
 1. 【[乌龟吃大麦——活窖作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_guei_qieh_da_moh_huh_go_zah.md#乌龟吃大麦——活窖作)】`v1 guei1 qieh7 da6 moh8——huh8 go5 zah7` <sup>[如皋]</sup> 不应吃大麦，实在是浪费。  
 1. 【[乌龟吃馓子——自绕头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_guei_qieh_saen_zz_cz_ro_teu.md#乌龟吃馓子——自绕头)】`v1 guei1 qieh7 saen3 zz cz6 ro6 teu2` <sup>[东台]</sup>   

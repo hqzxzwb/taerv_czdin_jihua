@@ -2853,7 +2853,7 @@
 1. 【[护袖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_qieu.md#护袖)】`hv6 qieu6` <sup>[兴化]</sup> 为防止把衣袖弄脏而外加的套袖。  
 1. 【[护日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_rih.md#护日)】`hv6 rih8` <sup>[兴化]</sup> 日蚀。  
 1. 【[护食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_sheh.md#护食)】`hv6 sheh8` <sup>[兴化]</sup> 不让靠近或拿走自己的食物：猫儿～；小孩子～。  
-1. 【[护身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_shen.md#护身)】`hv6 shen1` <sup>[兴化]</sup> 保护自已，避免受到伤害和打击：他万没料到她这么～，出口伤人。（马春阳《月朗和她的娘舅们》）  
+1. 【[护身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_shen.md#护身)】`hv6 shen1` <sup>[兴化]</sup> 保护自己，避免受到伤害和打击：他万没料到她这么～，出口伤人。（马春阳《月朗和她的娘舅们》）  
 1. 【[护疼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_ten.md#护疼)】`hv6 ten2` <sup>[兴化]</sup> 怕疼，害怕碰着疼痛的地方：“……纵然打不死他，好道也～发晕……”（《四游记》四九）  
 1. 【[护网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_van.md#护网)】`hv6 van3` <sup>[如东]</sup> 网具的一种。麻线织成，片状，高约5尺，较短。作业时，许多网连接起来挂在沙滩上的竹竿上，形成长龙，利用潮水涨落，把鱼虾拦住，这种网具称护网。  
 1. 【[护脏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_zan.md#护脏)】`hv6 zan1` <sup>[兴化]</sup> 外穿旧的、质差的衣服，或系围裙、套护袖等，以防把质料好的衣裳弄脏：……为了～，她马上拿出红布带子青短裙，往腰间一围一扎……（马春阳《扬州水乡婚俗散记》）  

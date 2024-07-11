@@ -1221,7 +1221,7 @@
 1. 【[寻钱的锥子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_qin_dii_zhuei_zz.md#寻钱的锥子)】`qien2 qin2 dii zhuei1 zz` <sup>[如皋]</sup> 指会赚钱的人。  
 1. 【[寻人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ren.md#寻人)】`qien2 ren2` <sup>[如东]</sup> 找人。雇用人：我准备～带伢儿。  
 1. 【[寻人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ren.md#寻人)】`qien2 ren2` <sup>[东台]</sup> 口语中指雇人做事，不同于一般的寻找人：栽秧要～帮忙。  
-1. 【[寻人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ren.md#寻人)】`qien2 ren2` <sup>[兴化]</sup> ① 找人：……见范进抱着鸡，手里插个草标……在那里～买。（《儒林外史》三） ② 雇人：这些事～做比自已动手好。 ③ 找配偶：他今年二十八岁，至今不曾～哎！  
+1. 【[寻人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ren.md#寻人)】`qien2 ren2` <sup>[兴化]</sup> ① 找人：……见范进抱着鸡，手里插个草标……在那里～买。（《儒林外史》三） ② 雇人：这些事～做比自己动手好。 ③ 找配偶：他今年二十八岁，至今不曾～哎！  
 1. 【[寻人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ren.md#寻人)】`qien2 ren2` <sup>[泰县]</sup> ① 男人丧偶再娶。 ② 找保姆：他家又重新～。  
 1. 【[寻人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ren.md#寻人)】`qien2 ren2` <sup>[泰县]</sup> 雇佣人：～做伙计。  
 1. 【[寻散疤<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_saen_ba_r.md#寻散疤<sub>儿</sub>)】`qien2 saen5 ba1 r` <sup>[如东]</sup> 故意找问题找毛病，找麻烦：他又来～。  
@@ -1229,7 +1229,7 @@
 1. 【[寻事头，散事脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_shr_teu_qiah_shr_no.md#寻事头，散事脑)】`qien2 shr teu2 qiah7 shr no3` <sup>[如皋]</sup> 专门地到处寻衅。  
 1. 【[寻尸骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_shr_gueh.md#寻尸骨)】`qien2 shr1 gueh7` <sup>[东台]</sup> （詈语）着急找人又找不到时的气话：帮他～，急煞人！  
 1. 【[寻事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_shr.md#寻事)】`qien2 shr6` <sup>[如皋]</sup> 找麻烦：你是～做的，歇歇要死啊！  
-1. 【[寻事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_shr.md#寻事)】`qien2 shr6` <sup>[兴化]</sup> ① 惹事：好在……自已不出去～，也还不至在这租界上会生出意外风波。（《广陵潮》五九） ② 找碴儿作践人：这次是你来～我，我可不曾惹你。  
+1. 【[寻事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_shr.md#寻事)】`qien2 shr6` <sup>[兴化]</sup> ① 惹事：好在……自己不出去～，也还不至在这租界上会生出意外风波。（《广陵潮》五九） ② 找碴儿作践人：这次是你来～我，我可不曾惹你。  
 1. 【[寻事莫干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_shr_mah_gun.md#寻事莫干)】`qien2 shr6 mah8 gun1` <sup>[兴化]</sup> 挖空心思地：～的乱翻、乱找。  
 1. 【[寻死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_sz.md#寻死)】`qien2 sz3` 寻死，自杀  
 1. 【[寻死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_sz.md#寻死)】`qien2 sz3` <sup>[如东]</sup> 自己找死：她是自己～的。自己找麻烦。  
@@ -1351,7 +1351,7 @@
 1. 【[求嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_jy.md#求嘴)】`qieu2 jy3` <sup>[东台]</sup> 受到批评，还在回嘴，顶嘴，强词夺理。也作“求嘴求舌”：你识点儿相，不要再～啊啦！  
 1. 【[求情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_qien.md#求情)】`qieu2 qien2` <sup>[如东]</sup> 请求对方宽恕：由王二出面～。  
 1. 【[求签](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_qin.md#求签)】`qieu2 qin1` <sup>[东台]</sup> 在神佛面前抽签占卜吉凶。  
-1. 【[求人不如求己](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_ren_beh_rv_qieu_ji.md#求人不如求己)】`qieu2 ren2 beh7 rv2 qieu2 ji3` <sup>[如皋]</sup> 凡事自已办好。  
+1. 【[求人不如求己](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_ren_beh_rv_qieu_ji.md#求人不如求己)】`qieu2 ren2 beh7 rv2 qieu2 ji3` <sup>[如皋]</sup> 凡事自己办好。  
 1. 【[求仙方](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_xin_fan.md#求仙方)】`qieu2 xin1 fan1` <sup>[如皋]</sup> 见“讨仙方”。  
 1. 【[求仙方](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_xin_fan.md#求仙方)】`qieu2 xin1 fan1` <sup>[如皋]</sup> 迷信者向某一神仙求药或药方。  
 1. 【[求仙方](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_xin_fan.md#求仙方)】`qieu2 xin1 fan1` <sup>[东台]</sup> 在神佛面前问病求药方。  
@@ -1444,7 +1444,7 @@
 1. 【[舅奶奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_nae_nae.md#舅奶奶)】`qieu6 nae3 nae` <sup>[东台]</sup> 父亲或母亲的舅妈。  
 1. 【[舅舅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_qieu.md#舅舅)】`qieu6 qieu` 舅舅，妈妈的哥哥或弟弟  
 1. 【[舅舅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_qieu.md#舅舅)】`qieu6 qieu6` <sup>[如东]</sup> 母亲的哥哥、弟弟。亦称舅父、娘舅。  
-1. 【[舅舅理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_qieu_li.md#舅舅理)】`qieu6 qieu6 li3` <sup>[兴化]</sup> 歪理、只对自已有利的理由：……讲一种胡搅蛮缠的歪理，叫做“讲～”。（汪曾祺《八千岁》）。  
+1. 【[舅舅理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_qieu_li.md#舅舅理)】`qieu6 qieu6 li3` <sup>[兴化]</sup> 歪理、只对自己有利的理由：……讲一种胡搅蛮缠的歪理，叫做“讲～”。（汪曾祺《八千岁》）。  
 1. 【[舅太爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_tae_i.md#舅太爷)】`qieu6 tae5 i` <sup>[兴化]</sup> （借）对蛮横无理、妄自尊大者的鄙称：本地把蛮不讲理的人叫做～。（汪曾祺《鲍团长》）  
 1. 【[舅子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_zz.md#舅子)】`qieu6 zz` <sup>[如东]</sup> 妻子的兄弟。  
 1. 【[舅子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_zz.md#舅子)】`qieu6 zz` <sup>[泰县]</sup> 舅舅。  
@@ -1752,7 +1752,7 @@
 1. 【[𡰑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#𡰑)】`qio2` <sup>[如皋]</sup> 卖方不让价，还价不卖：拿～；～啊上吖天。  
 1. 【[𡰑啊埲起来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_a_pon_qi_lae_a.md#𡰑啊埲起来啊)】`qio2 a pon6 qi lae2 a` <sup>[如皋]</sup> 见“𡰑qio2”。  
 1. 【[𡰑啊上吖天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_a_shan_nga_tin.md#𡰑啊上吖天)】`qio2 a shan6 nga tin1` <sup>[如皋]</sup> 见“𡰑qio2”。  
-1. 【[𡰑举](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_jy.md#𡰑举)】`qio2 jy` <sup>[如东]</sup> 拿架子：你不要～，他自已会做。  
+1. 【[𡰑举](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_jy.md#𡰑举)】`qio2 jy` <sup>[如东]</sup> 拿架子：你不要～，他自己会做。  
 1. 【[𡰑碌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_loh.md#𡰑碌)】`qio2 loh8` <sup>[如东]</sup> 不肯帮忙。  
 1. 【[𡰑<sub>儿</sub>㝿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_r_bu_r.md#𡰑<sub>儿</sub>㝿<sub>儿</sub>)】`qio2 r bu3 r` <sup>[兴化]</sup> ① 形不正。 ② （借）性情古怪：喜欢闹别扭｜她一碰～的，真难处。  
 1. 【[𡰑三㝿四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_saen_bu_sz.md#𡰑三㝿四)】`qio2 saen1 bu3 sz5` <sup>[如皋]</sup> 交往商谈不顺利，几番拿价。  

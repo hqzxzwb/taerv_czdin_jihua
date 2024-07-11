@@ -1170,7 +1170,7 @@
 1. 【[离啊骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_a_gueh.md#离啊骨)】`li6 a gueh7` <sup>[东台]</sup> 肉与骨头分开。  
 1. 【[离齿离骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_chr_li_gueh.md#离齿离骨)】`li6 chr3 li6 gueh7` <sup>[兴化]</sup> ① 形容肉食煨得很烂，肉和骨已经分离。 ② （借）把各种关系分析得很清晰：看你说得～的，这件事就像跟你毫不相干。  
 1. 【[离卡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_ka.md#离卡)】`li6 ka3` <sup>[兴化]</sup> 鱼死的时间长，肉和骨已分离：这条鱼都离啊卡，不能买。  
-1. 【[离身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_shen.md#离身)】`li6 shen1` <sup>[兴化]</sup> 离开自已：我这次一病半年多，上个月病才～。｜“要保全却也容易，只怕足下舍不得他～。”（《古今小说》二二）  
+1. 【[离身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_shen.md#离身)】`li6 shen1` <sup>[兴化]</sup> 离开自己：我这次一病半年多，上个月病才～。｜“要保全却也容易，只怕足下舍不得他～。”（《古今小说》二二）  
 1. 【[离手离脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_sheu_li_jiah.md#离手离脚)】`li6 sheu3 li6 jiah7` <sup>[如皋]</sup> 无牵挂或不缠人：伢儿大啊，自己耍子，～的｜伢儿大啊，大人～的，跑得掉啊。  
 1. 【[离水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_shuei.md#离水)】`li6 shuei3` <sup>[如皋]</sup> ① 离开水：鱼一～就死。 ② 不易吸附水分：化纤～，不像棉布含水。  
 1. 【[离𣝗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_veh.md#离𣝗)】`li6 veh8` <sup>[如皋]</sup> ① 桃杏等熟透，果肉与核不粘。 ② 榫与眼松开。  
@@ -1949,7 +1949,7 @@
 1. 【[老鼠钻在风箱里——两头受气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_chv_zun_cae_fon_xian_lii_laen_teu_sheu_qi.md#老鼠钻在风箱里——两头受气)】`lo3 chv3 zun1 cae6 fon1 xian1 lii laen3 teu2 sheu6 qi5` <sup>[东台]</sup>   
 1. 【[老鼠钻油壶——有进无出](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_chv_zun_ieu_hv_ieu_jien_v_chueh.md#老鼠钻油壶——有进无出)】`lo3 chv3 zun1 ieu2 hv2 ieu3 jien5 v2 chueh7` <sup>[东台]</sup>   
 1. 【[老住身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_chv_shen.md#老住身)】`lo3 chv6 shen1` <sup>[如皋]</sup> 原居住地。  
-1. 【[老大人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_da_ren.md#老大人)】`lo3 da ren2` <sup>[兴化]</sup> （戏）指自已以外的其他人：约好八点钟会齐，他～九点半才到。｜他～出差到上海，身份证也不带。  
+1. 【[老大人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_da_ren.md#老大人)】`lo3 da ren2` <sup>[兴化]</sup> （戏）指自己以外的其他人：约好八点钟会齐，他～九点半才到。｜他～出差到上海，身份证也不带。  
 1. 【[老大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_da.md#老大)】`lo3 da5` <sup>[兴化]</sup> 掌舵的船夫；也泛指其他的船夫：船～。  
 1. 【[老大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_da.md#老大)】`lo3 da6` <sup>[如东]</sup> ① 掌管船舶航行及处理日常事务的负责人。渔船老大的份额为3.33。 ② 兄弟中排行第一的人。也称大哥。  
 1. 【[老大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_da.md#老大)】`lo3 da6` <sup>[如皋]</sup> 民船的舵手，相当于船长。  
@@ -2669,7 +2669,7 @@
 1. 【[捋掇事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/luh_duh_shr.md#捋掇事)】`luh8 duh shr6` <sup>[泰县]</sup> 急于要做的事。  
 1. 【[捋里捋掇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/luh_lii_luh_duh.md#捋里捋掇)】`luh8 lii luh8 duh` <sup>[东台]</sup> ［表音］形容非常窝囊、怯懦、胆小而又懒惰：我年纪老啊，有些～的，你覅嫌弃我！  
 1. 【[𢺈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun.md#𢺈)】`lun2` <sup>[如皋]</sup> 笼聚：他有本事把大家～住块儿。  
-1. 【[𢺈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun.md#𢺈)】`lun2` <sup>[兴化]</sup> ① 积聚：吴家大儿媳见到娘家好东西总往自已小家里～。 ② 笼络：好好～住她，免她生外心。《集韵·桓韵》卢丸切：“～，聚也，择也”。  
+1. 【[𢺈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun.md#𢺈)】`lun2` <sup>[兴化]</sup> ① 积聚：吴家大儿媳见到娘家好东西总往自己小家里～。 ② 笼络：好好～住她，免她生外心。《集韵·桓韵》卢丸切：“～，聚也，择也”。  
 1. 【[𢺈吖手上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_nga_sheu_shan.md#𢺈吖手上)】`lun2 nga sheu3 shan` <sup>[如东]</sup> 抓在手上：不要样样东西都～。  
 1. 【[𢺈吖手上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_nga_sheu_shan.md#𢺈吖手上)】`lun2 nga sheu3 shan` <sup>[如皋]</sup> 笼聚住、掌握住。  
 1. 【[𢺈心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_xien.md#𢺈心)】`lun2 xien1` <sup>[兴化]</sup> 贪心：大姑娘～重。  

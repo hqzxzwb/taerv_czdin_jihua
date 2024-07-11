@@ -530,7 +530,7 @@
 1. 【[打转转<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_zhun_zhun_r.md#打转转<sub>儿</sub>)】`da3 zhun5 zhun5 r` <sup>[如皋]</sup> 盘旋，旋转。  
 1. 【[打转转<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_zhun_zhun_r.md#打转转<sub>儿</sub>)】`da3 zhun5 zhun5 r` <sup>[如皋]</sup> 旋转。  
 1. 【[打足](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_zoh.md#打足)】`da3 zoh7` <sup>[兴化]</sup> 满打满算：这条鲤鱼～咖三斤。  
-1. 【[打嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_zuei.md#打嘴)】`da3 zuei3` <sup>[兴化]</sup> ① 揍耳光。 ② （借）自夸者当场出丑：他这个夸夸其谈的人，今朝自已～啊。  
+1. 【[打嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_zuei.md#打嘴)】`da3 zuei3` <sup>[兴化]</sup> ① 揍耳光。 ② （借）自夸者当场出丑：他这个夸夸其谈的人，今朝自己～啊。  
 1. 【[打嘴不丢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_zuei_beh_dieu.md#打嘴不丢)】`da3 zuei3 beh7 dieu1` <sup>[兴化]</sup> 形容食物味道极美或正是饥中得食的时候，舍不得将食物放下：这种粉团，他不晓得哪一年吃过的，今天吃着，其正打嘴也舍不得丢。（《皮五辣子》二）  
 1. 【[大伯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_boh_zz.md#大伯子)】`da5 boh7 zz` <sup>[如皋]</sup> 指称夫之兄。  
 1. 【[大大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_da.md#大大)】`da5 da` <sup>[兴化]</sup> 伯伯，或比父亲年长的姑母。  

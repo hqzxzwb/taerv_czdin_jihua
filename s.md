@@ -1010,7 +1010,7 @@
 1. 【[上山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_shaen.md#上山)】`shan6 shaen1` <sup>[兴化]</sup> 蚕儿上簇：没几天蚕儿就要～吖。  
 1. 【[上上海](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_shan_hae.md#上上海)】`shan6 shan6 hae3` <sup>[如皋]</sup> 尿床的戏称。  
 1. 【[上手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_sheu.md#上手)】`shan6 sheu3` <sup>[如皋]</sup> 见“上吖手”。  
-1. 【[上手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_sheu.md#上手)】`shan6 sheu3` <sup>[如东]</sup> ① 自已的左手边。上家：他在我的～。 ② 获得成功：我已经～。  
+1. 【[上手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_sheu.md#上手)】`shan6 sheu3` <sup>[如东]</sup> ① 自己的左手边。上家：他在我的～。 ② 获得成功：我已经～。  
 1. 【[上手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_sheu.md#上手)】`shan6 sheu3` <sup>[兴化]</sup> ① 打牌时坐在左侧的一家。 ② 买卖中前环节的人：这批货的～是哪个？也称“上家”。  
 1. 【[上手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_sheu.md#上手)】`shan6 sheu3` <sup>[兴化]</sup> ① 开始进行：这件事一～就快啊。 ② 获得、拿到：玩～｜勾搭～。  
 1. 【[上首](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_sheu.md#上首)】`shan6 sheu3` <sup>[如皋]</sup> ① 上一次。 ② 按礼节居上位  
@@ -1448,7 +1448,7 @@
 1. 【[生姜米<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_jian_mi_r.md#生姜米<sub>儿</sub>)】`shen1 jian1 mi3 r` <sup>[如皋]</sup> 讽喻能人：她是个～，块块少不了。  
 1. 【[生姜米<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_jian_mi_r.md#生姜米<sub>儿</sub>)】`shen1 jian1 mi3 r` <sup>[泰县]</sup> ① 剁碎的生姜。 ② 处处配得上：～的干部。  
 1. 【[生姜米<sub>儿</sub>——块块搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_jian_mi_r_kuae_kuae_daeh.md#生姜米<sub>儿</sub>——块块搭)】`shen1 jian1 mi3 r kuae5 kuae5 daeh7` <sup>[东台]</sup>   
-1. 【[生姜忑咖肉锅里——肉麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_jian_teh_ga_roh_gu_lii_roh_ma.md#生姜忑咖肉锅里——肉麻)】`shen1 jian1 teh7 ga roh8 gu1 lii roh8 ma2` <sup>[如皋]</sup> 讽认不得自已、表现自己、高抬自己的人。  
+1. 【[生姜忑咖肉锅里——肉麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_jian_teh_ga_roh_gu_lii_roh_ma.md#生姜忑咖肉锅里——肉麻)】`shen1 jian1 teh7 ga roh8 gu1 lii roh8 ma2` <sup>[如皋]</sup> 讽认不得自己、表现自己、高抬自己的人。  
 1. 【[生姜芋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_jian_y.md#生姜芋)】`shen1 jian1 y6` 菊芋  
 1. 【[生姜芋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_jian_y.md#生姜芋)】`shen1 jian1 y6` <sup>[如皋]</sup> 菊芋。  
 1. 【[生姜芋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_jian_y.md#生姜芋)】`shen1 jian1 y6` <sup>[如东]</sup> 一年生草本植物，也称山芋、菊芋、江南芋。茎直立。叶互生，扇形，有柄。花黄色。地下茎成块状，无辛辣味，可食。  
@@ -2063,7 +2063,7 @@
 1. 【[烧锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_gu.md#烧锅)】`sho1 gu1` <sup>[如皋]</sup> 见“锅下”。  
 1. 【[烧锅草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_gu_co.md#烧锅草)】`sho1 gu1 co3` <sup>[如皋]</sup> 草灶用的燃料。包括：行草、荒草、熟草、木柴等。  
 1. 【[烧锅草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_gu_co.md#烧锅草)】`sho1 gu1 co3` <sup>[如东]</sup> 用以烧锅的柴草，如茅草、芦苇、玉米秸树枝等。  
-1. 【[烧锅的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_gu_dii.md#烧锅的)】`sho1 gu1 dii` <sup>[如东]</sup> ① 在灶膛口烧火的人：他是～。 ② 比喻自已的老婆：我家～出去啊。  
+1. 【[烧锅的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_gu_dii.md#烧锅的)】`sho1 gu1 dii` <sup>[如东]</sup> ① 在灶膛口烧火的人：他是～。 ② 比喻自己的老婆：我家～出去啊。  
 1. 【[烧锅娘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_gu_nian_zz.md#烧锅娘子)】`sho1 gu1 nian2 zz`   
 1. 【[烧虾等不得红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_ha_den_beh_deh_hon.md#烧虾等不得红)】`sho1 ha1 den3 beh7 deh7 hon2` <sup>[东台]</sup> 形容脾气太急，急于求成反而欲速不达。  
 1. 【[烧虾等不得红——心太急](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_ha_den_beh_deh_hon_xien_tae_jieh.md#烧虾等不得红——心太急)】`sho1 ha1 den3 beh7 deh7 hon2 xien1 tae5 jieh7` <sup>[东台]</sup>   
@@ -2208,12 +2208,12 @@
 1. 【[叔伯大大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_boh_da_da.md#叔伯大大)】`shoh7 boh7 da5 da5` <sup>[如皋]</sup> 此伯父与父亲是同曾祖兄弟。  
 1. 【[叔伯大大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_boh_da_da.md#叔伯大大)】`shoh7 boh7 da6 da` <sup>[如东]</sup> 叔伯伯父。  
 1. 【[叔伯公](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_boh_gon.md#叔伯公)】`shoh7 boh7 gon1` <sup>[如东]</sup> 妻子对丈夫父亲的哥哥和弟弟的称谓。  
-1. 【[叔伯哥哥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_boh_gu_gu.md#叔伯哥哥)】`shoh7 boh7 gu1 gu` <sup>[如东]</sup> 叔伯伯父和叔伯叔父所生的年龄比自已大的男子  
+1. 【[叔伯哥哥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_boh_gu_gu.md#叔伯哥哥)】`shoh7 boh7 gu1 gu` <sup>[如东]</sup> 叔伯伯父和叔伯叔父所生的年龄比自己大的男子  
 1. 【[叔伯姨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_boh_i.md#叔伯姨)】`shoh7 boh7 i2` <sup>[如东]</sup> 叔伯伯父和叔伯叔父的姐妹，年龄比父亲小的称叔伯姨。  
 1. 【[叔伯爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_boh_i.md#叔伯爷)】`shoh7 boh7 i2` <sup>[如东]</sup> 叔伯叔父。  
-1. 【[叔伯姐姐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_boh_jia_jia.md#叔伯姐姐)】`shoh7 boh7 jia3 jia` <sup>[如东]</sup> 叔伯伯父和叔伯叔父所生的年龄比自已大的女子。  
+1. 【[叔伯姐姐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_boh_jia_jia.md#叔伯姐姐)】`shoh7 boh7 jia3 jia` <sup>[如东]</sup> 叔伯伯父和叔伯叔父所生的年龄比自己大的女子。  
 1. 【[叔伯老老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_boh_lo_lo.md#叔伯老老)】`shoh7 boh7 lo3 lo` <sup>[如东]</sup> 祖父的哥哥和弟弟。  
-1. 【[叔伯妹妹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_boh_mei_mei.md#叔伯妹妹)】`shoh7 boh7 mei6 mei` <sup>[如东]</sup> 叔伯伯父和叔伯叔父所生的年龄比自已小的女子。  
+1. 【[叔伯妹妹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_boh_mei_mei.md#叔伯妹妹)】`shoh7 boh7 mei6 mei` <sup>[如东]</sup> 叔伯伯父和叔伯叔父所生的年龄比自己小的女子。  
 1. 【[叔伯奶奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_boh_nae_nae.md#叔伯奶奶)】`shoh7 boh7 nae3 nae` <sup>[如东]</sup> 叔伯老老的妻子。  
 1. 【[叔伯孃孃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_boh_nian_nian.md#叔伯孃孃)】`shoh7 boh7 nian1 nian` <sup>[如东]</sup> 叔伯伯父和叔伯叔父的姐妹。  
 1. 【[叔伯娘娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_boh_nian_nian.md#叔伯娘娘)】`shoh7 boh7 nian2 nian` <sup>[如东]</sup> 叔伯伯父的妻子。  
@@ -2221,7 +2221,7 @@
 1. 【[叔伯婶娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_boh_shen_nian.md#叔伯婶娘)】`shoh7 boh7 shen3 nian2` <sup>[如东]</sup> 叔伯叔父的妻子。  
 1. 【[叔伯叔父](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_boh_shoh_fv.md#叔伯叔父)】`shoh7 boh7 shoh7 fv6` <sup>[如东]</sup> 叔伯老老所生的年龄比父亲小的男子。也称叔伯爷。  
 1. 【[叔伯叔叔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_boh_shoh_shoh.md#叔伯叔叔)】`shoh7 boh7 shoh7 shoh` <sup>[如东]</sup> 叔伯叔父。  
-1. 【[叔伯弟弟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_boh_ti_ti.md#叔伯弟弟)】`shoh7 boh7 ti6 ti` <sup>[如东]</sup> 叔伯伯父和叔伯叔父所生的年龄比自已小的男子。  
+1. 【[叔伯弟弟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_boh_ti_ti.md#叔伯弟弟)】`shoh7 boh7 ti6 ti` <sup>[如东]</sup> 叔伯伯父和叔伯叔父所生的年龄比自己小的男子。  
 1. 【[叔伯兄弟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_boh_xion_ti.md#叔伯兄弟)】`shoh7 boh7 xion1 ti` 堂兄弟  
 1. 【[叔伯兄弟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_boh_xion_ti.md#叔伯兄弟)】`shoh7 boh7 xion1 ti6` <sup>[如东]</sup> 叔伯哥哥和叔伯弟弟的通称  
 1. 【[叔丈母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_chan_mu.md#叔丈母)】`shoh7 chan6 mu` <sup>[兴化]</sup> 妻的婶母。  
@@ -3639,7 +3639,7 @@
 1. 【[私塾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_shoh.md#私塾)】`sz1 shoh8` <sup>[如东]</sup> 旧时由家庭、家族或教师自己所办的学校，一般规模较小，教师只有一名，采用单个教学的方法没有学习年限，也没有毕业文凭：他过去是读～的，没得毕业文凭。  
 1. 【[私事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_shr.md#私事)】`sz1 shr6` <sup>[如东]</sup> 个人的事情：买鞋子，这个是～。  
 1. 【[私写私告，不如栽秧割稻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_xia_sz_go_beh_rv_zae_ian_guh_to.md#私写私告，不如栽秧割稻)】`sz1 xia3 sz1 go5 beh7 rv2 zae1 ian1 guh7 to6` <sup>[东台]</sup> 一般事与人计较打官司，不如埋头干实事。  
-1. 【[私心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_xien.md#私心)】`sz1 xien1` <sup>[如东]</sup> 为自已打算的念头：王老四的～重。  
+1. 【[私心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_xien.md#私心)】`sz1 xien1` <sup>[如东]</sup> 为自己打算的念头：王老四的～重。  
 1. 【[私章](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_zhan.md#私章)】`sz1 zhan1` <sup>[如东]</sup> 私人的印章：在文书上要盖～。  
 1. 【[飔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz.md#飔)】`sz1` <sup>[如皋]</sup> 悠悠凉风吹拂状：墙缝儿里透过来～～儿的风。  
 1. 【[丝头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_teu.md#丝头)】`sz2 teu2` <sup>[如皋]</sup> ① 丝的脚料。 ② 丝的端绪。 ③ 现又指螺丝的螺纹。 ④ 木纹路。  
@@ -3676,7 +3676,7 @@
 1. 【[死酵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_go.md#死酵)】`sz3 go5` <sup>[兴化]</sup> 面粉和水成团后不经发酵即成。  
 1. 【[死鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_guei.md#死鬼)】`sz3 guei3` <sup>[如皋]</sup> ① 作名词，贬指已死的人；詈语。 ② 作形容词，形容过分精明，特别小气、吝啬。 ③ 昵语：你个～，早点来。  
 1. 【[死鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_guei.md#死鬼)】`sz3 guei3` <sup>[如东]</sup> 已死的人。丈夫或妻子对已死的妻子或丈夫的称谓：～在世的时侯就喜欢吃西瓜。  
-1. 【[死下来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ha_lae.md#死下来)】`sz3 ha lae2` <sup>[兴化]</sup> 死亡以后：“……你悄悄的每人豌里替我拈一撮砒霜放着。等他们～，我自有理会……”（《广陵潮》三六）。“……自已辛苦了一辈子，挣了这分大家私，～又没有个传宗接代的人……”（《官场现形记》四九）  
+1. 【[死下来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ha_lae.md#死下来)】`sz3 ha lae2` <sup>[兴化]</sup> 死亡以后：“……你悄悄的每人豌里替我拈一撮砒霜放着。等他们～，我自有理会……”（《广陵潮》三六）。“……自己辛苦了一辈子，挣了这分大家私，～又没有个传宗接代的人……”（《官场现形记》四九）  
 1. 【[死咸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_haen.md#死咸)】`sz3 haen2` <sup>[东台]</sup> 堤东人称“死䴛”。食物非常咸，难以下口。  
 1. 【[死后加刑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_heu_jia_xien.md#死后加刑)】`sz3 heu6 jia1 xien2` <sup>[如皋]</sup> 死后加盐腌制的春鱼。与“活落盐”不同。  
 1. 【[死货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_hu.md#死货)】`sz3 hu5` <sup>[如皋]</sup> 詈语、昵语。多骂年轻女性。  

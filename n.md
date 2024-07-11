@@ -1326,7 +1326,7 @@
 1. 【[咬籽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_zz.md#咬籽)】`ngo3 zz3` <sup>[如皋]</sup> 雄鱼紧随雌鱼后上方一边游，一边产卵授精。  
 1. 【[袄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo.md#袄)】`ngo3` <sup>[如皋]</sup> 棉𧘸子、棉衣。  
 1. 【[袄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo.md#袄)】`ngo3` <sup>[如皋]</sup> 见“𧘸子”。  
-1. 【[懊报](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_bo.md#懊报)】`ngo5 bo5` <sup>[如东]</sup> 后悔而又抱怨别人：你不要～，这是你自已做的。  
+1. 【[懊报](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_bo.md#懊报)】`ngo5 bo5` <sup>[如东]</sup> 后悔而又抱怨别人：你不要～，这是你自己做的。  
 1. 【[懊慒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_co.md#懊慒)】`ngo5-3 co2` <sup>[东台]</sup> 烦闷、懊恼、后悔：昨夜皮夹被人家偷了，～得很。《玉篇》｜“慒，乱也。”  
 1. 【[懊悔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_huei.md#懊悔)】`ngo5 huei5` <sup>[如东]</sup> 做错了事或说错了话，心里自恨不该这样。  
 1. 【[懊恼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_no.md#懊恼)】`ngo5-3 no3` <sup>[东台]</sup> 后悔。  
@@ -1962,7 +1962,7 @@
 1. 【[男将](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nun_jian.md#男将)】`nun2 jian` <sup>[如皋]</sup> ① 指称丈夫。 ② 成年男子。  
 1. 【[男将](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nun_jian.md#男将)】`nun2 jian` <sup>[如东]</sup> 男人。妻子对丈夫的称谓：他是我家～。  
 1. 【[男将](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nun_jian.md#男将)】`nun2 jian` <sup>[东台]</sup> ① 丈夫。 ② 对成年男子的称呼。  
-1. 【[男将](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nun_jian.md#男将)】`nun2 jian` <sup>[兴化]</sup> ① 男人：～们不容易看得到，他们一定躲到什么地方赌自已的手气去了。（毕飞宇：《玉米》） ② 丈夫：他家～在人家站店。  
+1. 【[男将](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nun_jian.md#男将)】`nun2 jian` <sup>[兴化]</sup> ① 男人：～们不容易看得到，他们一定躲到什么地方赌自己的手气去了。（毕飞宇：《玉米》） ② 丈夫：他家～在人家站店。  
 1. 【[男将](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nun_jian.md#男将)】`nun2 jian` <sup>[泰县]</sup> ① 男人。 ② 丈夫。  
 1. 【[男将家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nun_jian_ga.md#男将家)】`nun2 jian ga` <sup>[如皋]</sup> 意为男人要有男子汉的样子。  
 1. 【[男将气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nun_jian_qi.md#男将气)】`nun2 jian qi5` <sup>[如皋]</sup> 男子汉气概。  

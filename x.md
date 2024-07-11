@@ -1290,7 +1290,7 @@
 1. 【[先日子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_rih_zz.md#先日子)】`xin1 rih8 zz` <sup>[如皋]</sup> 前天。  
 1. 【[先日子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_rih_zz.md#先日子)】`xin1 rih8 zz` <sup>[如东]</sup> 前天。  
 1. 【[先生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_shen.md#先生)】`xin1 shen` ① 医生 ② 老师  
-1. 【[先生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_shen.md#先生)】`xin1 shen1` <sup>[如东]</sup> ① 对教师的称呼：张～。 ② 对知识分子的称呼：请王～写一封信。 ③ 对医生的称呼。 ④ 对别人的丈夫或自已丈夫的称呼。 ⑤ 旧时对管账人的称呼：账房～。 ⑥ 旧时对说书算命看风水等职业人员的称呼。 ⑦ 对人的尊称：王～。  
+1. 【[先生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_shen.md#先生)】`xin1 shen1` <sup>[如东]</sup> ① 对教师的称呼：张～。 ② 对知识分子的称呼：请王～写一封信。 ③ 对医生的称呼。 ④ 对别人的丈夫或自己丈夫的称呼。 ⑤ 旧时对管账人的称呼：账房～。 ⑥ 旧时对说书算命看风水等职业人员的称呼。 ⑦ 对人的尊称：王～。  
 1. 【[先生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_shen.md#先生)】`xin1 shen1` <sup>[东台]</sup> ① 特指教师、医生。 ② 对成年男子，或对某种职业人的尊称：算命～｜说书～｜阴阳～。 ③ 称别人的丈夫或对人称自己的丈夫：你家～、我家～。  
 1. 【[先生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_shen.md#先生)】`xin1 shen1` <sup>[兴化]</sup> 特指医生：有病及时找～看，千万不要拖。  
 1. 【[先头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_teu.md#先头)】`xin1 teu` 刚才，之前，当时  
@@ -1844,7 +1844,7 @@
 1. 【[小崽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_zae_zz.md#小崽子)】`xio3 zae3 zz` <sup>[泰县]</sup> 男仆  
 1. 【[小劗肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_zaen_roh.md#小劗肉)】`xio3 zaen1 roh8` <sup>[如皋]</sup> 小肉圆。又分油炸、水煮两种。  
 1. 【[小账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_zhan.md#小账)】`xio3 zhan5` <sup>[如东]</sup> 大账以外的账册。  
-1. 【[小照](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_zho.md#小照)】`xio3 zho5` <sup>[如东]</sup> 照片，特指自已的尺寸较小的照片。  
+1. 【[小照](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_zho.md#小照)】`xio3 zho5` <sup>[如东]</sup> 照片，特指自己的尺寸较小的照片。  
 1. 【[小照](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_zho.md#小照)】`xio3 zho5` <sup>[泰县]</sup> 照片。  
 1. 【[小猪<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_zhv_r.md#小猪<sub>儿</sub>)】`xio3 zhv1 r` <sup>[泰县]</sup> 小猪。  
 1. 【[小猪<sub>儿</sub>行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_zhv_r_han.md#小猪<sub>儿</sub>行)】`xio3 zhv1 r han2` <sup>[如皋]</sup> 苗猪行。  

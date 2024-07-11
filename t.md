@@ -546,7 +546,7 @@
 1. 【[堂食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_sheh.md#堂食)】`tan2 sheh8` <sup>[兴化]</sup> 伙食：“不是怕你人多，只是～米粮，恐人犯疑……”（《绿牡丹》五六）  
 1. 【[堂弟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_ti.md#堂弟)】`tan2 ti6` <sup>[如东]</sup> 高祖父兄弟姐妹的玄孙、曾祖父兄弟姐妹的曾孙，年龄比自己小的，称堂弟。  
 1. 【[堂相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_xian.md#堂相)】`tan2 xian5` <sup>[如皋]</sup> 漂亮、干办、妥贴、符合要求、使人满意：这伢儿做事蛮～的，可以接受；那个伢儿就不～，家去学学再来吧。  
-1. 【[堂兄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_xion.md#堂兄)】`tan2 xion1` <sup>[如东]</sup> 高祖父兄弟姐妹的玄孙、曾祖父兄弟姐妹的曾孙，年龄比自已大的，称堂兄。  
+1. 【[堂兄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_xion.md#堂兄)】`tan2 xion1` <sup>[如东]</sup> 高祖父兄弟姐妹的玄孙、曾祖父兄弟姐妹的曾孙，年龄比自己大的，称堂兄。  
 1. 【[堂兄弟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_xion_ti.md#堂兄弟)】`tan2 xion1 ti6` <sup>[如东]</sup> 堂兄和堂弟，统称堂兄弟。  
 1. 【[堂子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_zz.md#堂子)】`tan2 zz` <sup>[如皋]</sup> 旧称公共浴室。  
 1. 【[堂子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_zz.md#堂子)】`tan2 zz` <sup>[如东]</sup> 公共浴室。  

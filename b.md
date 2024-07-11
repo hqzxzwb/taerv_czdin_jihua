@@ -1347,7 +1347,7 @@
 1. 【[蹩关窍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bih_guaen_qio.md#蹩关窍)】`bih7 guaen1 qio5` <sup>[兴化]</sup> 窍门、机关：你覅看这东西复杂，寻到～一点儿不难弄。  
 1. 【[蹩脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bih_jiah.md#蹩脚)】`bih7 jiah7` <sup>[如东]</sup> ① 脚腕扭伤。 ② 没有本事：这个人的手艺～。 ③ 生活窘迫：这个人家～。  
 1. 【[蹩脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bih_jiah.md#蹩脚)】`bih7 jiah7` <sup>[如皋]</sup> ① 象棋术语：马～。 ② 质差：～货。 ③ 本领差：本事～。 ④ 倒楣、潦倒、穷困：当先多兴旺吖，现在过啊～咖。  
-1. 【[蹩脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bih_jiah.md#蹩脚)】`bih7 jiah7` <sup>[东台]</sup> ［喻］因外部环境不利或自已能力不够处于逆境：那段时间我交关～。｜市场上～货没人要。  
+1. 【[蹩脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bih_jiah.md#蹩脚)】`bih7 jiah7` <sup>[东台]</sup> ［喻］因外部环境不利或自己能力不够处于逆境：那段时间我交关～。｜市场上～货没人要。  
 1. 【[蹩脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bih_jiah.md#蹩脚)】`bih7 jiah7` <sup>[兴化]</sup> ① 质量不好，技艺不精：～货｜他手艺～。 ② 穷途潦倒，处境窘迫：这几年，他好几个朋友发咖，他还在乡下～。｜可城市有城市一套，没技术，没户口、没后门，照样～。（马春阳《父女双婚事》）  
 1. 【[蹩脚货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bih_jiah_hu.md#蹩脚货)】`bih7 jiah7 hu5` <sup>[如东]</sup> ① 货物质量不好：进吖一批～。 ② 比喻本领不强：他是一个～。  
 1. 【[蹩脚货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bih_jiah_hu.md#蹩脚货)】`bih7 jiah7 hu5` <sup>[兴化]</sup> ① 质量差的货物：廉价店卖的大多是～。 ② （喻）没有出息的人：这种～哪个肯跟他过？  

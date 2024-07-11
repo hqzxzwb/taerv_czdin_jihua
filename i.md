@@ -53,12 +53,12 @@
 1. 【[姨夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_fv.md#姨夫)】`i2 fv` <sup>[兴化]</sup> 连襟之间互称～：他俫是～两个。  
 1. 【[姨父](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_fv.md#姨父)】`i2 fv` <sup>[如东]</sup> 姨娘的丈夫。  
 1. 【[姨夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_fv.md#姨夫)】`i2 fv1` <sup>[东台]</sup> 姨子的丈夫，即连襟。  
-1. 【[姨哥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_gu.md#姨哥)】`i2 gu1` <sup>[如东]</sup> 姨妈和姨娘生的年龄比自已大的男子。  
-1. 【[姨姐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_jia.md#姨姐)】`i2 jia3` <sup>[如东]</sup> 姨妈和姨娘生的年龄比自已大的女子。  
+1. 【[姨哥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_gu.md#姨哥)】`i2 gu1` <sup>[如东]</sup> 姨妈和姨娘生的年龄比自己大的男子。  
+1. 【[姨姐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_jia.md#姨姐)】`i2 jia3` <sup>[如东]</sup> 姨妈和姨娘生的年龄比自己大的女子。  
 1. 【[姨老老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_lo_lo.md#姨老老)】`i2 lo3 lo3` <sup>[如东]</sup> 姨丈、姨父的父亲。  
 1. 【[姨妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_ma.md#姨妈)】`i2 ma1` <sup>[如东]</sup> 母亲的姐姐。  
 1. 【[姨妈妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_ma_ma.md#姨妈妈)】`i2 ma1 ma` 姨妈，妈妈的姐姐  
-1. 【[姨妹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_mei.md#姨妹)】`i2 mei6` <sup>[如东]</sup> 姨妈和姨娘生的年龄比自已小的女子。  
+1. 【[姨妹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_mei.md#姨妹)】`i2 mei6` <sup>[如东]</sup> 姨妈和姨娘生的年龄比自己小的女子。  
 1. 【[姨奶奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_nae_nae.md#姨奶奶)】`i2 nae3 nae3` <sup>[如东]</sup> 姨丈、姨父的母亲。  
 1. 【[姨娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_nian.md#姨娘)】`i2 nian` 姨，妈妈的妹妹  
 1. 【[姨娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_nian.md#姨娘)】`i2 nian` <sup>[如东]</sup> 母亲的妹妹。  
@@ -66,8 +66,8 @@
 1. 【[姨娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_nian.md#姨娘)】`i2 nian2` <sup>[东台]</sup> 姨妈，母亲的姐妹。  
 1. 【[姨亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_qien.md#姨亲)】`i2 qien1` <sup>[如东]</sup> 姐姐与妹妹之间的亲属关系。  
 1. 【[姨太太](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_tae_tae.md#姨太太)】`i2 tae5 tae5` <sup>[如皋]</sup> 尊称妾。  
-1. 【[姨弟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_ti.md#姨弟)】`i2 ti6` <sup>[如东]</sup> 姨妈和姨娘生的年龄比自已小的男子。  
-1. 【[姨兄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_xion.md#姨兄)】`i2 xion` <sup>[如东]</sup> 姨妈和姨娘生的年龄比自已大的男子。  
+1. 【[姨弟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_ti.md#姨弟)】`i2 ti6` <sup>[如东]</sup> 姨妈和姨娘生的年龄比自己小的男子。  
+1. 【[姨兄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_xion.md#姨兄)】`i2 xion` <sup>[如东]</sup> 姨妈和姨娘生的年龄比自己大的男子。  
 1. 【[姨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_zz.md#姨子)】`i2 zz` <sup>[如东]</sup> 妻子的姐妹。  
 1. 【[姨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_zz.md#姨子)】`i2 zz` <sup>[东台]</sup> 妻子的姐妹。  
 1. 【[姨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_zz.md#姨子)】`i2 zz` <sup>[兴化]</sup> 妻的姐或妹：大～；小～。  
@@ -242,7 +242,7 @@
 1. 【[野不收](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_beh_sheu.md#野不收)】`ia3 beh7 sheu1` <sup>[如东]</sup> 性情野，收养不住：我再待她好，她都要往外跑，真是一个～。  
 1. 【[野菜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_cae_r.md#野菜<sub>儿</sub>)】`ia3 cae5 r` <sup>[如皋]</sup> 野菜，一般指荠菜儿。  
 1. 【[野茶叶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_cha_ih.md#野茶叶)】`ia3 cha2 ih8` <sup>[如东]</sup> 山茶科植物钝叶柃，小灌木。高约2米。小枝较粗糙。叶互生，革质，叶形变化很大，披针形、椭圆形或倒卵形，近全缘。花小，腋生。浆果，紫红色。生长在林中。  
-1. 【[野狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_geu.md#野狗)】`ia3 geu3` <sup>[如东]</sup> 不属于自已喂养的狗。  
+1. 【[野狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_geu.md#野狗)】`ia3 geu3` <sup>[如东]</sup> 不属于自己喂养的狗。  
 1. 【[野鸽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_guh_zz.md#野鸽子)】`ia3 guh7 zz` <sup>[如皋]</sup> 鹁鸪。  
 1. 【[野鸽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_guh_zz.md#野鸽子)】`ia3 guh7 zz` <sup>[兴化]</sup> ① 鹧鸪。 ② 闲聊：扯～。  
 1. 【[野匣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_haeh_zz.md#野匣子)】`ia3 haeh8 zz` <sup>[兴化]</sup> 见“野猴子”。  
@@ -686,7 +686,7 @@
 1. 【[养精神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_jien_shen.md#养精神)】`ian3 jien1 shen` <sup>[兴化]</sup> 使精神饱满舒畅：没钱打肉吃，睡觉～。  
 1. 【[养命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_mien.md#养命)】`ian3 mien6` <sup>[兴化]</sup> 维持生命：寻钱～，不能为钱送命。｜这两锭银子乃是～之根，不争失了……一家良普，没甚过活……（《醒世恒言》十八）。也作“养性命”。谚曰｜佮伙儿～。  
 1. 【[养面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_min.md#养面)】`ian3 min6` <sup>[兴化]</sup> 将面条放在开水中多煮一会儿，使烂一些：来一腕～一。区别于“戗面”。  
-1. 【[养母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_mu.md#养母)】`ian3 mu3` <sup>[如东]</sup> 非血缘的抚养自已的母亲。  
+1. 【[养母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_mu.md#养母)】`ian3 mu3` <sup>[如东]</sup> 非血缘的抚养自己的母亲。  
 1. 【[养吖发下来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_nga_faeh_ha_lae_a.md#养吖发下来啊)】`ian3 nga faeh7 ha lae2 a` <sup>[如皋]</sup> 养得很胖，发福了。  
 1. 【[养吖蒙吖心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_nga_mon_nga_xien.md#养吖蒙吖心)】`ian3 nga mon2 nga xien1` <sup>[如皋]</sup> 体肥而智弱。  
 1. 【[养吖潽下来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_nga_pv_ha_lae_a.md#养吖潽下来啊)】`ian3 nga pv1 ha lae2 a` <sup>[如皋]</sup> 养得很胖，发福了。  

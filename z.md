@@ -219,7 +219,7 @@
 1. 【[作气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_qi.md#作气)】`zah7 qi5` <sup>[兴化]</sup> ① 争吵：小两口～。｜“队长，不要为我的闲事～吧！”（马春阳《陈大年一家人》） ② 发怒、怄气：“～不～，休对我说，我不管你……”（《金瓶梅词话》二一）  
 1. 【[作气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_qi.md#作气)】`zah7 qi5` <sup>[泰县]</sup> ① 呕气、生气：伢儿说话不懂事，你不要～。 ② 吵架：这个人家经常～。  
 1. 【[作气袋<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_qi_tae_r.md#作气袋<sub>儿</sub>)】`zah7 qi5 tae6 r` <sup>[如皋]</sup> 经常引起人们生气的人。  
-1. 【[作贱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_qin.md#作贱)】`zah7 qin6` <sup>[如东]</sup> 自已糟蹋自已的名声。  
+1. 【[作贱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_qin.md#作贱)】`zah7 qin6` <sup>[如东]</sup> 自己糟蹋自己的名声。  
 1. 【[作贱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_qin.md#作贱)】`zah7 qin6` <sup>[东台]</sup> 贬损自己，糟蹋自己。  
 1. 【[作贱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_qin.md#作贱)】`zah7 qin6` <sup>[兴化]</sup> 犯贱、自轻自贱：她男人伢儿不要，跟个有家有室的人鬼混，真是～！  
 1. 【[作践](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_qin.md#作践)】`zah7 qin6` <sup>[东台]</sup> 糟蹋：不能～粮食。  
@@ -549,7 +549,7 @@
 1. 【[这哪许](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_la_hae.md#这哪许)】`zha5 la3 hae` <sup>[如皋]</sup> 这是哪儿？  
 1. 【[这们](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_men.md#这们)】`zha5 men` <sup>[如皋]</sup> 这样，这么，那么。  
 1. 【[这们](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_men.md#这们)】`zha5 men` <sup>[如皋]</sup> 反诘：你光是让我吃，～你怎吖不吃嗲？  
-1. 【[这票货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_pio_hu.md#这票货)】`zha5 pio5 hu5` <sup>[兴化]</sup> 对人或人品的贬义说法：我家～我自已有数。  
+1. 【[这票货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_pio_hu.md#这票货)】`zha5 pio5 hu5` <sup>[兴化]</sup> 对人或人品的贬义说法：我家～我自己有数。  
 1. 【[这世里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_shr_lii.md#这世里)】`zha5 shr5 lii` <sup>[东台]</sup> 今生今世。  
 1. 【[这趟弯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_tan_vaen_zz.md#这趟弯子)】`zha5 tan5 vaen3 zz` <sup>[东台]</sup> ① 这趟路的来去。 ② ［引］人的这一辈子：他老人家90岁，～不想去美国咖。  
 1. 【[这条号](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_tio_ho.md#这条号)】`zha5 tio ho6` <sup>[东台]</sup> 这件事、这个问题：嗳，～就拜托你。  
