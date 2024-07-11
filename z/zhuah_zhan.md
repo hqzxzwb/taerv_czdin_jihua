@@ -5,7 +5,7 @@ zhuah7 zhan5
 # 𢽚账
 zhuah7 zhan5
 > 如皋方言词典
-- 清理、清点帐目。
+- 清理、清点账目。
 
 # 捉账
 zhuah7 zhan5
