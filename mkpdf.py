@@ -5,44 +5,8 @@ import glob
 import os
 import re
 import string
-from itertools import product
 import datetime
 from deploy import *
-
-html = """<html lang="zh-CN">
-<head>
-    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <meta charset="UTF-8">
-    <title>泰如辞典</title>
-    <style>
-        @font-face {
-            font-family: "LXGW WenKai";
-            src: url("/usr/share/fonts/TTF/LXGWWenKai-Regular.ttf")
-        }
-        @font-face {
-            font-family: "Charis SIL";
-            src: url("/usr/share/fonts/TTF/CharisSIL-Regular.ttf")
-        }
-        body {font-family: "LXGW WenKai";}
-        h2 {page-break-before: always;}
-        .order {font-size: 60%%;}
-        .hz {font-family: "sans"; text-decoration: none; color: black;}
-        .py {font-size: 90%%; color: green;}
-        .ipa {font-size: 90%%; font-family: "Charis SIL";}
-        .meaning {}
-        .book {font-size: 70%%; color: gray;}
-    </style>
-</head>
-<body>
-      <h2 class=hz style="page-break-before: avoid;">泰如辞典</h1>
-      <p>%s</p>
-      <p><a href="https://hqzxzwb.github.io/taerv_czdin_jihua/">在线辞典</a></p>
-      <p><a href="https://dict.taerv.cn/">泰如字典</a></p>
-<p>韵母</p>
-      <img src="image003.jpg"></img>
-<p>声调</p>
-      <img src="image004.jpg"></img>
-""" % (datetime.datetime.now().strftime("%Y年%m月%d号%H点"))
 
 def py2ipa(py):
     syd = {
@@ -53,8 +17,8 @@ def py2ipa(py):
         '\\bb': 'p',
         '\\bt': 'tʰ',
         '\\bd': 't',
-        '\\bch': 'tʂʰ',
-        '\\bzh': 'tʂ',
+        '\\bch': 'ꭧʰ',
+        '\\bzh': 'ꭧ',
         '\\bsh': 'ʂ',
         '\\br': 'ɻ',
         "\\bz": "ʦ",
@@ -73,7 +37,7 @@ def py2ipa(py):
         'z': 'ɿ',
         'ae': 'ɛ',
         'r': 'ʅ',
-        'eu': 'əʊ',
+        'eu': 'əɯ',
         'e': 'ə',
         'o': 'ɔ',
         'ii': 'iɪ',
@@ -90,7 +54,7 @@ def py2ipa(py):
         py = re.sub(key, value, py)
     return py
 
-def write_page(dirs, path, f):
+def get_lines(dirs, path):
     """生成分页"""
     global count
     lines = []
@@ -109,19 +73,31 @@ def write_page(dirs, path, f):
             lines.append(f"<h3>{py0}</h3>\n")
         link = LINK_FORMAT % (w.fname.replace("\\","/"), w.raw_word)
         if w.source:
-            source = "<span class=book>%s</span> " % re.sub(r'(方言词典|方言志|方言辞典)$', '', w.source)
+            source = "<span class=book>%s</span>" % re.sub(r'(方言词典|方言志|方言辞典)$', '', w.source)
         else:
             source = w.source
         count += 1
-        out = "<p><span class=order>%d</span>&nbsp;<a href=%s class=hz>%s</a>&nbsp;<span class=py>%s</span> <span class=ipa>/%s/</span> %s<span class=meaning>%s</span></p>\n" % (count, link, w.word, w.pinyin, py2ipa(w.pinyin), source, w.meaning)
+        out = "<p><span class=order>%d</span> <a href=%s class=hz>%s</a> <span class=py>%s</span> <span class=ipa>/%s/</span> %s %s</p>\n" % (count, link, w.word, w.pinyin, py2ipa(w.pinyin), source, w.meaning)
         lines.append(out)
-    f.writelines(lines)
+    return lines
 
-f = open("docs/index.html", "w", encoding="U8")
-f.write(html)
-count = 0
-for path in dirs:
-    write_page(dirs, path, f)
-f.close()
-os.chdir("docs")
-os.system("wkhtmltopdf -B 0 -L 0 -R 0 -T 0 --enable-local-file-access --outline --page-width 100 --page-height 180 ./index.html 泰如辞典%s.pdf" % datetime.datetime.now().strftime("%Y%m%d"))
+def add_ipa(m):
+    py = m.group(1)
+    ipa = py2ipa(py+"0")
+    return f"<td><span class=py>{py}</span> <span class=ipa>/{ipa}/</span> {m.group(2)}</td>"
+
+def main():
+    f = open("docs/pdf.html", "w", encoding="U8")
+    now = datetime.datetime.now()
+    html = open("template.html", encoding="U8").read().replace("%", "%%").replace("%%s", "%s") % (now.strftime("%Y年%m月%d号%H点"))
+    f.write(html)
+    global count
+    count = 0
+    for path in dirs:
+        lines = get_lines(dirs, path)
+        f.writelines(lines)
+    f.close()
+    os.system('wkhtmltopdf -B 1 -L 1 -R 1 -T 1 --enable-local-file-access --outline --disable-smart-shrinking --page-size A4 docs/pdf.html docs/泰如辞典%s.pdf' % now.strftime("%Y%m%d"))
+
+if __name__ == "__main__":
+    main()
