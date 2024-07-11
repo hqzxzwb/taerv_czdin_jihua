@@ -668,7 +668,7 @@
 1. 【[狠声恶气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_shen_ngah_qi.md#狠声恶气)】`hen3 shen1 ngah7 qi5` <sup>[东台]</sup> 口声不好，出言吐语气汹汹的样子。又叫“狠声𪙍气”：有话好好说，不要～的。  
 1. 【[狠心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_xien.md#狠心)】`hen3 xien1` <sup>[如东]</sup> 决心：他箇吖～，让人想不到。  
 1. 【[䬶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen.md#䬶)】`hen5` <sup>[如皋]</sup> ① 小气：这个人～，你不要想叫他拔一根汗毛儿出来。 ② 过于节俭：他过日子～，一年到头肉总舍不得买一回。 ③ 艰苦积聚：他慢慢儿～，终于～吖一份家业；～气。 ④ 贪：～食。 ⑤ 皮色干瘪：他的脸皮子～的，一点儿不像个少年人。 ⑥ 干瘪，不松脆：萝卜放的时间长吖，发咖～。  
-1. 【[䬶𩞰<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_deh_r.md#䬶𩞰<sub>儿</sub>)】`hen5 deh7-3 r` <sup>[如皋]</sup> 从盛尽的粥锅、麵锅中铲起的团团。  
+1. 【[䬶𩞰<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_deh_r.md#䬶𩞰<sub>儿</sub>)】`hen5 deh7-3 r` <sup>[如皋]</sup> 从盛尽的粥锅、面锅中铲起的团团。  
 1. 【[䬶食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_sheh.md#䬶食)】`hen5 sheh8` <sup>[如皋]</sup> 贪食、贪吃。故易致“伤食”。  
 1. 【[䬶死瓜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_sz_gua_r.md#䬶死瓜<sub>儿</sub>)】`hen5 sz gua1 r` <sup>[如皋]</sup> ① 极为小气、吝啬。 ② 焦黄干瘪的样子。  
 1. 【[垳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen.md#垳)】`hen5` <sup>[如东]</sup> 海滩上涨潮时淹没、退潮后露出的沙面，称垳。  
@@ -1382,7 +1382,7 @@
 1. 【[火酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_jien.md#火酒)】`hu3 jien1` <sup>[兴化]</sup> 酒精。  
 1. 【[火酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_jieu.md#火酒)】`hu3 jieu3` <sup>[如皋]</sup> 烧酒。65°以上，可燃。  
 1. 【[火焦火辣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_jio_hu_laeh.md#火焦火辣)】`hu3 jio1 hu3 laeh8` <sup>[兴化]</sup> 形容又热又痛的感觉：大伏里经太阳一晒，身上～的难过。  
-1. 【[火饺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_jio.md#火饺)】`hu3 jio3` <sup>[如皋]</sup> 圆麵皮的油炸饺子。  
+1. 【[火饺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_jio.md#火饺)】`hu3 jio3` <sup>[如皋]</sup> 圆面皮的油炸饺子。  
 1. 【[火轮船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_len_chun.md#火轮船)】`hu3 len2 chun2` <sup>[如东]</sup> 以内燃机为动力的船。  
 1. 【[火里抢包袱——趁火打劫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_lii_qian_bo_foh_chen_hu_da_jih.md#火里抢包袱——趁火打劫)】`hu3 lii qian3 bo1 foh chen5 hu3 da3 jih7` <sup>[东台]</sup>   
 1. 【[火老鸦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_lo_nga.md#火老鸦)】`hu3 lo3 nga1` <sup>[兴化]</sup> （喻）失火时空中飞腾的大火苗。‖也称“火鸽子”。  
@@ -1975,8 +1975,8 @@
 1. 【[黄眉柳莺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_mi_lieu_ien.md#黄眉柳莺)】`huan2 mi2 lieu3 ien1` <sup>[如东]</sup> 一种小型莺类。体长约9厘米，体色与叶相似，翼上有两道黄斑。生活在杨柳树上或其他树上，跳跃敏捷。常三五成群觅食，以昆虫为主。鸣叫声洪亮。属益鸟。  
 1. 【[黄明胶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_mien_jio.md#黄明胶)】`huan2 mien2 jio1` <sup>[如东]</sup> 牛科动物黄牛皮熬成的胶。  
 1. 【[黄面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_min.md#黄面)】`huan2 min6` <sup>[如皋]</sup> 见“大刀面”。  
+1. 【[黄面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_min.md#黄面)】`huan2 min6` <sup>[如皋]</sup> 见“切面”。也说van2 min6。  
 1. 【[黄面佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_min_lo_r.md#黄面佬<sub>儿</sub>)】`huan2 min6 lo3 r` <sup>[如皋]</sup> 脸色发黄、贫血、营养不良、有病的人。  
-1. 【[黄麵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_min.md#黄麵)】`huan2 min6` <sup>[如皋]</sup> 见“切麵”。也说van2 min6。  
 1. 【[黄苗猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_mio_zhv.md#黄苗猪)】`huan2 mio2 zhv1` <sup>[如皋]</sup> 一种肉色发黄，肉味有狐臭的猪。  
 1. 【[黄毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_mo.md#黄毛)】`huan2 mo2` 黄头发；黄头发的人  
 1. 【[黄毛丫头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_mo_nga_teu.md#黄毛丫头)】`huan2 mo2 nga1 teu` <sup>[如东]</sup> 年幼的女孩子。  

@@ -1326,7 +1326,7 @@
 1. 【[石灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_huei.md#石灰)】`sheh8 huei1` <sup>[如东]</sup> 无机化合物，主要成分是氧化钙，由石灰岩煅烧而成，为白色不固定体用于建筑、农业等方面。  
 1. 【[石灰行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_huei_han.md#石灰行)】`sheh8 huei1 han2` <sup>[如东]</sup> 经营石灰的商店。  
 1. 【[石灰行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_huei_han.md#石灰行)】`sheh8 huei1 han2` <sup>[如皋]</sup> 专营石灰的商行。  
-1. 【[石碱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_jiaen.md#石碱)】`sheh8 jiaen3` <sup>[如皋]</sup> 一种矿物，可以用于发麵面及去污等。  
+1. 【[石碱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_jiaen.md#石碱)】`sheh8 jiaen3` <sup>[如皋]</sup> 一种矿物，可以用于发面面及去污等。  
 1. 【[石腊红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_laeh_hon.md#石腊红)】`sheh8 laeh8 hon2` <sup>[如皋]</sup> 天竺葵。  
 1. 【[石榴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_lieu.md#石榴)】`sheh8 lieu` <sup>[如东]</sup> 石榴科植物石榴，落叶乔木。高约5米。树皮青灰色。叶对生或簇生，叶片倒卵形。花红色。浆果近球形熟时黄色。种子多数，倒卵形，带棱角。生长在向阳处或栽培在庭园里。果实，也称甜石榴。  
 1. 【[石磥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_luei.md#石磥)】`sheh8 luei` <sup>[如皋]</sup> 见“石头磙子”。  
@@ -2744,7 +2744,7 @@
 1. 【[水浮莲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_fv_lin.md#水浮莲)】`shuei3 fv2 lin2` <sup>[如东]</sup> 天南星科植物水浮莲，又名大浮萍、大藻。浮水无茎草本，有长而悬垂成束的根。叶簇生，倒卵状楔形，无叶柄，扇形。肉穗花序。浆果。生长在淡水中，可做猪饲料。  
 1. 【[水虼蚤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_geh_zo.md#水虼蚤)】`shuei3 geh7 zo3` <sup>[如皋]</sup> 一种跳虫，能在水中游，又能在水边爬、跳。  
 1. 【[水沟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_geu.md#水沟)】`shuei3 geu1` <sup>[如东]</sup> ① 田间或路边排水的沟渠。 ② 在两幢房屋连接处的排水槽。 ③ 在帆船舱口上面的横槽木。  
-1. 【[水糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_go.md#水糕)】`shuei3 go1` <sup>[如皋]</sup> 家中用发酵麵液做的大蒸饼。  
+1. 【[水糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_go.md#水糕)】`shuei3 go1` <sup>[如皋]</sup> 家中用发酵面液做的大蒸饼。  
 1. 【[水酵饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_go_bien.md#水酵饼)】`shuei3 go5 bien3` <sup>[东台]</sup> 用水兑和面粉或米粉涨酵，然后上蒸笼蒸的饼。  
 1. 【[水酵饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_go_bien.md#水酵饼)】`shuei3 go5 bien3` <sup>[兴化]</sup> 见“米饭饼”。  
 1. 【[水酵饼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_go_bien_r.md#水酵饼<sub>儿</sub>)】`shuei3 go5 bien3 r` <sup>[如皋]</sup> 见“水糕”。  
@@ -3261,7 +3261,7 @@
 1. 【[䴛叽叽的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_ji_ji_dii.md#䴛叽叽的)】`so5 ji1 ji1 dii` <sup>[如皋]</sup> 有些咸。  
 1. 【[䴛津津的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_jien_jien_dii.md#䴛津津的)】`so5 jien1 jien1 dii` <sup>[如皋]</sup> 有些咸味。  
 1. 【[䴛鸭蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_ngaeh_taen.md#䴛鸭蛋)】`so5 ngaeh7 taen6` 咸鸭蛋  
-1. 【[䴛䭣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_qi_r.md#䴛䭣<sub>儿</sub>)】`so5 qi2 r` <sup>[如皋]</sup> 䭣儿为茶食类六角麵饼，分甜、䴛两种。  
+1. 【[䴛䭣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_qi_r.md#䴛䭣<sub>儿</sub>)】`so5 qi2 r` <sup>[如皋]</sup> 䭣儿为茶食类六角面饼，分甜、䴛两种。  
 1. 【[䴛气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_qi.md#䴛气)】`so5 qi5` <sup>[如皋]</sup> ① 咸味：弄根咸菜嚼嚼，啧啧～。 ② 咸菜、酱菜：你吃粥怎吖一点儿～总不吃嗲（diah）？  
 1. 【[䴛水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_shuei.md#䴛水)】`so5 shuei3` <sup>[如皋]</sup> ① 水味咸：这口井是～井，水不能吃。 ② 海水：海货摊儿卖的总是～货。  
 1. 【[䴛水货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_shuei_hu.md#䴛水货)】`so5 shuei3 hu5` <sup>[如皋]</sup> 过去因水质硬软而称北方货为～，南方货称甜水货。  

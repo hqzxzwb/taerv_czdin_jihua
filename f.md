@@ -602,7 +602,7 @@
 1. 【[飞来椅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_lae_i.md#飞来椅)】`fei1 lae2 i3` <sup>[兴化]</sup> 一种设于亭台、水榭上的长椅，椅背外斜，两用长的钩搭固定在墙上或木柱上。  
 1. 【[飞蝼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_leu_r.md#飞蝼<sub>儿</sub>)】`fei1 leu2-3 r` <sup>[东台]</sup> 即蜻蜓。  
 1. 【[飞廉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_lin.md#飞廉)】`fei1 lin2` <sup>[如东]</sup> 菊科植物飞廉，二年生草本。  
-1. 【[飞麵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_min.md#飞麵)】`fei1 min6` <sup>[如皋]</sup> 磨坊墙壁等地方积存的麵粉。可以打浆糊。  
+1. 【[飞面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_min.md#飞面)】`fei1 min6` <sup>[如皋]</sup> 磨坊墙壁等地方积存的面粉。可以打浆糊。  
 1. 【[飞蛾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_ngu.md#飞蛾)】`fei1 ngu2` <sup>[如东]</sup> 昆虫。腹部短而粗，有四个带鳞片的翅膀。多在夜间活动，常飞向灯光。其中很多种是农业害虫。  
 1. 【[飞蛾扑火——自取灭亡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_ngu_poh_hu_cz_qy_mih_van.md#飞蛾扑火——自取灭亡)】`fei1 ngu2 poh7 hu3 cz6 qy3 mih8 van2` <sup>[东台]</sup>   
 1. 【[飞洒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_sa.md#飞洒)】`fei1 sa3` <sup>[泰县]</sup> 花钱大手大脚。  

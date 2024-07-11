@@ -2203,8 +2203,8 @@
 1. 【[点<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_r.md#点<sub>儿</sub>)】`din3 r` <sup>[如东]</sup> ① 数量很少：～东西。 ② 体积很小：～大。 ③ 距离很短：～路程。  
 1. 【[点<sub>儿</sub>不懂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_r_beh_don.md#点<sub>儿</sub>不懂)】`din3 r beh7 don3` <sup>[如东]</sup> ① 什么也不明白：这些问题她～。 ② 什么也不知道：他俫出去，我～。  
 1. 【[点<sub>儿</sub>影子总想不起来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_r_ien_zz_zon_xian_beh_qi_lae.md#点<sub>儿</sub>影子总想不起来)】`din3 r ien3 zz zon3 xian3 beh7 qi3 lae2` <sup>[如皋]</sup> 回忆不出。  
+1. 【[点汤面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_tan_min.md#点汤面)】`din3 tan1 min6` <sup>[如皋]</sup> 碗中带汤的面条儿。  
 1. 【[点汤面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_tan_min.md#点汤面)】`din3 tan1 min6` <sup>[兴化]</sup> 配有作料和汤汁的面条。  
-1. 【[点汤麵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_tan_min.md#点汤麵)】`din3 tan1 min6` <sup>[如皋]</sup> 碗中带汤的麵条儿。  
 1. 【[点塘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_tan_r.md#点塘<sub>儿</sub>)】`din3 tan2 r` <sup>[如皋]</sup> 见“点粪”。  
 1. 【[点头晃脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_teu_huan_no.md#点头晃脑)】`din3 teu2 huan5 no3` <sup>[兴化]</sup> 形容自得其乐或自以为是的样子：他～的，像个了不起的人物。  
 1. 【[点头之交](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_teu_zhr_jio.md#点头之交)】`din3 teu2 zhr1 jio1` <sup>[如皋]</sup> 情谊很浅。  
@@ -2385,7 +2385,7 @@
 1. 【[刀削面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_xiah_min.md#刀削面)】`do1 xiah7 min6` <sup>[如东]</sup> 小麦面粉经过反复揉压，面团柔软熟透，然后用刀削成薄片，飘入锅里煮熟，称刀削面。2000年，始有陕西商家至掘港经营。  
 1. 【[刀鱼馄饨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_y_huen_den.md#刀鱼馄饨)】`do1 y2 huen2 den` <sup>[如皋]</sup> 刀鱼肉剁成泥，加作料调和成馅，包成馄饨。是如皋有名的高等食品。  
 1. 【[刀鱼圆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_y_iun.md#刀鱼圆)】`do1 y2 iun2` <sup>[如皋]</sup> 刀鱼做的鱼圆。  
-1. 【[刀鱼麵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_y_min.md#刀鱼麵)】`do1 y2 min6` <sup>[如皋]</sup> 刀鱼汤下的麵。  
+1. 【[刀鱼面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_y_min.md#刀鱼面)】`do1 y2 min6` <sup>[如皋]</sup> 刀鱼汤下的面。  
 1. 【[刀子嘴，豆腐心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_zz_jy_teu_fv_xien.md#刀子嘴，豆腐心)】`do1 zz jy3 teu6 fv xien1` <sup>[东台]</sup> 说话虽狠，但心软。  
 1. 【[刀子鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_zz_y.md#刀子鱼)】`do1 zz y2` <sup>[兴化]</sup> 鲫鱼。不同于长江“刀鱼”。  
 1. 【[叨叨嘚嘚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_do_deh_deh.md#叨叨嘚嘚)】`do1 do1 deh7 deh7` <sup>[东台]</sup> 形容说话啰嗦、重三倒四。  

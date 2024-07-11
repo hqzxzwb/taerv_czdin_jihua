@@ -881,7 +881,7 @@
 1. 【[头高头低](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_go_teu_di.md#头高头低)】`teu2 go1 teu2 di1` <sup>[兴化]</sup> 头绪、实际情况：你才进门，摸不着～，不要说三道四的。  
 1. 【[头交面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_go_min.md#头交面)】`teu2 go5 min6` <sup>[如皋]</sup> 见“头交糏”。  
 1. 【[头交汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_go_tan.md#头交汤)】`teu2 go5 tan1` <sup>[如东]</sup> 食物熬出的第一次汤汁：这个是～，汁水好。  
-1. 【[头交糏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_go_xih.md#头交糏)】`teu2 go5 xih7` <sup>[如皋]</sup> 旧时用石磨磨小麦，一般磨四次（交），第一次磨后筛出的面称～，是上等精麵。  
+1. 【[头交糏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_go_xih.md#头交糏)】`teu2 go5 xih7` <sup>[如皋]</sup> 旧时用石磨磨小麦，一般磨四次（交），第一次磨后筛出的面称～，是上等精面。  
 1. 【[头交糏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_go_xih.md#头交糏)】`teu2 go5 xih7` <sup>[如东]</sup> 小麦的头一批面粉。泛指谷物磨出的第一批面粉。  
 1. 【[头毫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_ho_r.md#头毫<sub>儿</sub>)】`teu2 ho2 r` <sup>[如皋]</sup> 杆秤的一号钮。  
 1. 【[头一回](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_ieh_huei.md#头一回)】`teu2 ieh7 huei2` <sup>[如东]</sup> 第一次。  
@@ -920,7 +920,7 @@
 1. 【[头拳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_qiun.md#头拳)】`teu2 qiun2` <sup>[如皋]</sup> 以头撞人。  
 1. 【[头拳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_qiun.md#头拳)】`teu2 qiun2` <sup>[兴化]</sup> 以头当拳撞人：一～把人家撞倒。  
 1. 【[头绪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_qy.md#头绪)】`teu2 qy6` <sup>[如东]</sup> ① 条理：理出咖～。 ② 办法：他有～。 ③ 靠山：这个人有～。  
-1. 【[头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_r.md#头<sub>儿</sub>)】`teu2 r` <sup>[如皋]</sup> ① 领头人。 ② 短小的、剩余的：萝卜～、玉米～、木柴～、麵～。 ③ 幼小：鲢子～。  
+1. 【[头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_r.md#头<sub>儿</sub>)】`teu2 r` <sup>[如皋]</sup> ① 领头人。 ② 短小的、剩余的：萝卜～、玉米～、木柴～、面～。 ③ 幼小：鲢子～。  
 1. 【[头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_r.md#头<sub>儿</sub>)】`teu2 r` <sup>[如东]</sup> ① 开头的一段：绳～。 ② 头领，领导：他是我俫的～。  
 1. 【[头<sub>儿</sub>钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_r_qin.md#头<sub>儿</sub>钱)】`teu2 r qin2` <sup>[泰县]</sup> 赌博提成到的钱。  
 1. 【[头上苍蝇叮不住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_shan_can_ien_dien_beh_chv.md#头上苍蝇叮不住)】`teu2 shan can1 ien dien1 beh7 chv6` <sup>[东台]</sup> 形容人的头发用油梳理得特光滑。  

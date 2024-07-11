@@ -1457,7 +1457,7 @@
 1. 【[切菜刀剃头——怕人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qih_cae_do_ti_teu_pa_ren_zz.md#切菜刀剃头——怕人子)】`qih7 cae5 do1 ti5 teu2 pa5 ren2 zz` <sup>[东台]</sup>   
 1. 【[切己](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qih_ji.md#切己)】`qih7 ji3` <sup>[兴化]</sup> 贴已，关系密切：让～的人管账放得心。｜通天教主见左右四个～门徒俱丧，切齿深恨……（《封神演义》八四）  
 1. 【[切面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qih_min.md#切面)】`qih7 min6` <sup>[如皋]</sup> 见“大刀面”。  
-1. 【[切麵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qih_min.md#切麵)】`qih7 min6` <sup>[如皋]</sup> 手工擀制切成的麵条儿。与“摇麵”“机麵”相对。  
+1. 【[切面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qih_min.md#切面)】`qih7 min6` <sup>[如皋]</sup> 手工擀制切成的面条儿。与“摇面”“机面”相对。  
 1. 【[切脉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qih_moh.md#切脉)】`qih7 moh8` <sup>[东台]</sup> 同“肖脉”。中医给人搭脉，进行“脉诊”。  
 1. 【[切忌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qih_qi.md#切忌)】`qih7 qi6` <sup>[东台]</sup> 务必避免。  
 1. 【[切心切意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qih_xien_qih_i.md#切心切意)】`qih7 xien1 qih7 i5` <sup>[东台]</sup> 痛恨、后悔极了，牢记在心：他炒股亏啊，～不再炒。  

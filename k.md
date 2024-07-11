@@ -258,7 +258,7 @@
 1. 【[轧花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh_hua.md#轧花)】`kaeh8 hua1` <sup>[东台]</sup> 用机器剥棉籽、剥棉绒。  
 1. 【[轧价](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh_jia.md#轧价)】`kaeh8 jia5` <sup>[如皋]</sup> 核算出价格。  
 1. 【[轧棉花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh_min_hua.md#轧棉花)】`kaeh8 min2 hua1` <sup>[如皋]</sup> 用机器轧除籽棉中的棉籽。  
-1. 【[轧麵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh_min.md#轧麵)】`kaeh8 min6` <sup>[如皋]</sup> ① 用机器轧制麵皮子、麵条儿。 ② 机制麵条儿。  
+1. 【[轧面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh_min.md#轧面)】`kaeh8 min6` <sup>[如皋]</sup> ① 用机器轧制面皮子、面条儿。 ② 机制面条儿。  
 1. 【[轧姘头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh_pien_teu.md#轧姘头)】`kaeh8 pien1 teu` <sup>[兴化]</sup> 非夫关系而同居：“这刘老头子……大不了想同我～罢咧！又不是明媒正娶……”（《广陵潮》七十）  
 1. 【[轧朋友](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh_pon_ieu.md#轧朋友)】`kaeh8 pon2 ieu3` <sup>[兴化]</sup> ① 交朋友：几个少年宝宝～，我看蛮好的。 ② 特指交异性朋友：先～，再谈婚论嫁。  
 1. 【[轧张](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh_zhan.md#轧张)】`kaeh8 zhan1` <sup>[如东]</sup> 在耷子和游戏中，一张牌的连张已经断绝，成为非常关键的牌，称轧张。比喻非常关键的问题：这个问题是～。  
@@ -549,7 +549,7 @@
 1. 【[口水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_shuei.md#口水)】`keu3 shuei3` <sup>[东台]</sup> 唾液：～直髿。  
 1. 【[口数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_shv.md#口数)】`keu3 shv5` <sup>[如东]</sup> 个数：水井有多少～。  
 1. 【[口袋装锥子——锋芒毕露](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_tae_zhuan_zhuei_zz_fon_man_bieh_lv.md#口袋装锥子——锋芒毕露)】`keu3 tae6 zhuan1 zhuei1 zz fon1 man2 bieh7 lv6` <sup>[东台]</sup>   
-1. 【[口汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_tan.md#口汤)】`keu3 tan1` <sup>[如皋]</sup> 吃干食时“过口”的汤料：下般水麵要带～。  
+1. 【[口汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_tan.md#口汤)】`keu3 tan1` <sup>[如皋]</sup> 吃干食时“过口”的汤料：下般水面要带～。  
 1. 【[口头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_teu.md#口头)】`keu3 teu` 比较接近外面，但是仍然是里面的地方。  
 1. 【[口头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_teu.md#口头)】`keu3 teu` <sup>[如东]</sup> 外头：桌子摆啊～。  
 1. 【[口头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_teu.md#口头)】`keu3 teu` <sup>[如皋]</sup> 外边，靠近外边的地方。  

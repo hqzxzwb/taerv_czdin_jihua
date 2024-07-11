@@ -474,10 +474,10 @@
 1. 【[脚料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_lio.md#脚料)】`jiah7 lio6` <sup>[如东]</sup> 零碎残料。  
 1. 【[脚炉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_lv.md#脚炉)】`jiah7 lv2` <sup>[如东]</sup> 取暖器皿。铜制，圆桶形，有盖，盖上有孔。装进煲灰，脚搁在上面取暖。  
 1. 【[脚炉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_lv_r.md#脚炉<sub>儿</sub>)】`jiah7 lv2 r` <sup>[如皋]</sup> 冬天焐脚的大号铜炉子。  
+1. 【[脚面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_min.md#脚面)】`jiah7 min6` <sup>[如皋]</sup> 旧时用石磨磨小麦，第四次磨出的面粉，色暗紫，称～，又称黑面。  
 1. 【[脚面上支锅腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_min_shan_zhr_gu_qian.md#脚面上支锅腔)】`jiah7 min6 shan zhr1 gu1 qian1` <sup>[兴化]</sup> （喻）处于临时的、不稳定的地位：我是～的人，你一声不满意，我就要跑路。  
 1. 【[脚面子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_min_zz.md#脚面子)】`jiah7 min6 zz` <sup>[如皋]</sup> 脚背面。  
 1. 【[脚面子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_min_zz.md#脚面子)】`jiah7 min6 zz` <sup>[兴化]</sup> 脚背，脚掌的背面。  
-1. 【[脚麵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_min.md#脚麵)】`jiah7 min6` <sup>[如皋]</sup> 旧时用石磨磨小麦，第四次磨出的麵粉，色暗紫，称～，又称黑麵。  
 1. 【[脚拇头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_mu_teu_r.md#脚拇头<sub>儿</sub>)】`jiah7 mu3 teu2 r` <sup>[如东]</sup> 脚趾尖。  
 1. 【[脚丫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_nga.md#脚丫)】`jiah7 nga1` <sup>[东台]</sup> 脚趾头之间。  
 1. 【[脚丫巴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_nga_ba_r.md#脚丫巴<sub>儿</sub>)】`jiah7 nga1 ba1 r` <sup>[泰县]</sup> 脚丫。  
@@ -894,7 +894,7 @@
 1. 【[精胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_hv_zz.md#精胡子)】`jien1 hv2 zz` <sup>[兴化]</sup> （戏）“京胡子”的谐音，指平时神经兮兮，但从来不吃亏的人：他是个～，没得错账算！  
 1. 【[精样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_ian.md#精样)】`jien1 ian6` <sup>[如皋]</sup> 精巧细緻。  
 1. 【[精脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_jiah.md#精脚)】`jien1 jiah7` <sup>[如东]</sup> 会算细账的人：他是一个～，不会吃亏的。  
-1. 【[精粮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_lian.md#精粮)】`jien1 lian2` <sup>[如皋]</sup> ① 特别加工的粮：精白米、精麵。 ② 大米、乾面，与“荒粮、粗粮”相对。  
+1. 【[精粮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_lian.md#精粮)】`jien1 lian2` <sup>[如皋]</sup> ① 特别加工的粮：精白米、精面。 ② 大米、乾面，与“荒粮、粗粮”相对。  
 1. 【[精灵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_lien.md#精灵)】`jien1 lien2` <sup>[兴化]</sup> 聪明、机灵：你俫知识分子就是～，不管甚的事一点就明。  
 1. 【[精米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_mi.md#精米)】`jien1 mi3` <sup>[如东]</sup> 经过脱皮加工的大米，色泽白净光亮。  
 1. 【[精明](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_mien.md#精明)】`jien1 mien2` <sup>[如东]</sup> ① 聪明能干。 ② 小气。  
@@ -964,7 +964,7 @@
 1. 【[金锏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gaen_zz.md#金锏子)】`jien1 gaen5 zz` <sup>[如皋]</sup> 金戒指。  
 1. 【[金刚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gan.md#金刚)】`jien1 gan1` <sup>[泰县]</sup> 机灵。  
 1. 【[金刚脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gan_jiah.md#金刚脚)】`jien1 gan1 jiah7` <sup>[如东]</sup> 帆船上抵住大樯樯脚的两块木板。  
-1. 【[金刚䭣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gan_qi_r.md#金刚䭣<sub>儿</sub>)】`jien1 gan1 qi2 r` <sup>[如皋]</sup> 即䭣儿，一种六丫麵饼。  
+1. 【[金刚䭣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gan_qi_r.md#金刚䭣<sub>儿</sub>)】`jien1 gan1 qi2 r` <sup>[如皋]</sup> 即䭣儿，一种六丫面饼。  
 1. 【[金扛银饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gan_ien_bien.md#金扛银饼)】`jien1 gan1 ien2 bien3` <sup>[如皋]</sup> 中秋节时乡村人家自做的一种饼，分五层。  
 1. 【[金钩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_geu_r.md#金钩<sub>儿</sub>)】`jien1 geu1 r` <sup>[如皋]</sup> 枳椇。鼠李科。  
 1. 【[金钩虾米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_geu_xia_mi.md#金钩虾米)】`jien1 geu1 xia1 mi3` <sup>[如东]</sup> 长臂虾科动物脊尾白虾的虾仁，煮熟晒干，金黄色，弯钩形。  
@@ -1600,7 +1600,7 @@
 1. 【[娇气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_qi.md#娇气)】`jio1 qi5` <sup>[如东]</sup> 意志脆弱、不能吃苦、习惯于享受的作风。  
 1. 【[娇丝老太](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_sz_lo_tae.md#娇丝老太)】`jio1 sz1 lo3 tae5` <sup>[东台]</sup> 形容十分娇气，自我尊贵，对周围环境不满意，多有指责：（俗语）～，吃饭不吃菜。  
 1. 【[椒盐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_in.md#椒盐)】`jio1 in2` <sup>[如皋]</sup> 见“花椒盐”。  
-1. 【[浇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio.md#浇)】`jio1` <sup>[如皋]</sup> ① 麵团含水多而烂称酵～。 ② 盖在碗中食品上的菜肴：盖～面；～头。  
+1. 【[浇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio.md#浇)】`jio1` <sup>[如皋]</sup> ① 面团含水多而烂称酵～。 ② 盖在碗中食品上的菜肴：盖～面；～头。  
 1. 【[浇粪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_fen.md#浇粪)】`jio1 fen5` <sup>[如东]</sup> 把大便浇在田里。也叫施粪肥。  
 1. 【[浇麻串](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_ma_chun.md#浇麻串)】`jio1 ma2 chun5` <sup>[如东]</sup> 阴历正月十五日晚，在田里烧草垛，南坎地区叫浇麻串，掘港地区叫放哨火。迷信者认为，火苗红色，预示着旱年，火苗绿色，预示着水年。  
 1. 【[浇切片](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_qih_pin.md#浇切片)】`jio1 qih7 pin5` <sup>[兴化]</sup> 见“浇切糖”。  

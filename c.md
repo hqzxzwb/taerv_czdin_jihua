@@ -158,7 +158,7 @@
 1. 【[残冬岁底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/caen_don_suei_di.md#残冬岁底)】`caen2 don1 suei5 di3` <sup>[东台]</sup> 冬天将尽，一年将结束。  
 1. 【[残吖啦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/caen_nga_la.md#残吖啦)】`caen2 nga la` <sup>[如皋]</sup> 歉语：表示食品已被先用，对不起。如：菜～，重去烧。残，剩。  
 1. 【[馓子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/caen_zz.md#馓子)】`caen3 zz` <sup>[如东]</sup> 一种油炸的面食，形如栅状，细如面条。  
-1. 【[馓子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/caen_zz.md#馓子)】`caen3 zz` <sup>[如皋]</sup> 古称环饼。麵索，经油炸，呈册字形，主要供泡食。旧时产妇必用。  
+1. 【[馓子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/caen_zz.md#馓子)】`caen3 zz` <sup>[如皋]</sup> 古称环饼。面索，经油炸，呈册字形，主要供泡食。旧时产妇必用。  
 1. 【[馓子把<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/caen_zz_ba_r.md#馓子把<sub>儿</sub>)】`caen3 zz ba3 r` <sup>[如皋]</sup> 呈长“X”形的环饼，主要供嚼食。  
 1. 【[刬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/caen.md#刬)】`caen5` <sup>[兴化]</sup> 全、都：这批货～是次品。｜“哥啊，我们连日造化低了。这两日～日里见鬼……”（《西游记》二一）  
 1. 【[刬是](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/caen_shr.md#刬是)】`caen5 shr6` <sup>[如东]</sup> 都是：～熟人。  
@@ -1342,7 +1342,7 @@
 1. 【[炒百虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_boh_chon.md#炒百虫)】`cho3 boh7 chon2` <sup>[如东]</sup> 阴历正月十五日晚，农家炒花生、炒豆儿，称炒百虫，意思是把害虫都炒死了。  
 1. 【[炒菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_cae.md#炒菜)】`cho3 cae5` <sup>[如皋]</sup> ① 炒的菜。 ② 炒制菜。 ③ 买现炒的菜。  
 1. 【[炒饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_faen.md#炒饭)】`cho3 faen6` <sup>[如皋]</sup> ① 使冷饭变热的一种方法。常见为用油～。 ② 加其他菜料和佐料一起炒成的饭。如蛋～、笋丁～、香肠丁～。  
-1. 【[炒干面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_gun_min.md#炒干面)】`cho3 gun1 min6` <sup>[如皋]</sup> 将干麵置铁锅内炒熟，供沸水泡食。  
+1. 【[炒干面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_gun_min.md#炒干面)】`cho3 gun1 min6` <sup>[如皋]</sup> 将干面置铁锅内炒熟，供沸水泡食。  
 1. 【[炒货店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_hu_din.md#炒货店)】`cho3 hu5 din5` <sup>[如皋]</sup> 专门经营炒货的商店。  
 1. 【[炒糊粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_hv_fen.md#炒糊粉)】`cho3 hv2 fen3` <sup>[如皋]</sup> 糊粉片切成小块和韭菜等炒成的食品。  
 1. 【[炒圆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_iun_zz.md#炒圆子)】`cho3 iun2 zz` <sup>[如皋]</sup> 用油将圆子炒熟。  
@@ -1521,7 +1521,7 @@
 1. 【[重会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_huei.md#重会)】`chon6 huei6` <sup>[如东]</sup> 在请会活动中，得会偏前，称重会。  
 1. 【[重会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_huei.md#重会)】`chon6 huei6` <sup>[如皋]</sup> “得会”偏前者。（但付利息多）见“请会”。  
 1. 【[重换重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_hun_chon.md#重换重)】`chon6 hun6 chon6` <sup>[兴化]</sup> ① 价格相当的物品，按重量交换，不计价。 ② 以物易物：“……当日承姐姐当着我的面儿……，～儿合人家换了一百金子给我添箱……”（《儿女英雄传》二六）  
-1. 【[重碱面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_jiaen_min.md#重碱面)】`chon6 jiaen3 min6` <sup>[如皋]</sup> 又名黄麵、大刀麵、跳切麵，由烧饼店擀制。  
+1. 【[重碱面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_jiaen_min.md#重碱面)】`chon6 jiaen3 min6` <sup>[如皋]</sup> 又名黄面、大刀面、跳切面，由烧饼店擀制。  
 1. 【[重色茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_seh_cha.md#重色茶)】`chon6 seh7 cha2` <sup>[如皋]</sup> 用茶叶多而色重味浓的茶饮料。  
 1. 【[重实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_sheh.md#重实)】`chon6 sheh` <sup>[兴化]</sup> 物品沉重、牢固：这个面盆是双料货，蛮～的。也说“重实实”“重重实实”。  
 1. 【[重实实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_sheh_sheh.md#重实实)】`chon6 sheh8 sheh` <sup>[兴化]</sup> “重实”的生动形式。  
@@ -1925,9 +1925,9 @@
 1. 【[春节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_jih.md#春节)】`chuen1 jih7` <sup>[如东]</sup> 传统节日。春节一词为立春节气的简称  
 1. 【[春节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_jih.md#春节)】`chuen1 jih7` <sup>[东台]</sup> 农历正月初一，是我国传统的最重要的节日。  
 1. 【[春菊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_jioh.md#春菊)】`chuen1 jioh7` <sup>[如皋]</sup> 雏菊。  
-1. 【[春卷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_jiun.md#春卷)】`chuen1 jiun3` <sup>[如皋]</sup> 一种冬、春间常吃的食品。薄麵皮包调制好的馅，成卷状，油炸上盘。  
+1. 【[春卷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_jiun.md#春卷)】`chuen1 jiun3` <sup>[如皋]</sup> 一种冬、春间常吃的食品。薄面皮包调制好的馅，成卷状，油炸上盘。  
 1. 【[春卷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_jiun.md#春卷)】`chuen1 jiun3` <sup>[东台]</sup> 常吃的一种食品，用薄面皮裹馅，卷成长条形，经油炸熟吃。  
-1. 【[春卷皮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_jiun_pi_zz.md#春卷皮子)】`chuen1 jiun3 pi2 zz` <sup>[如皋]</sup> 包春卷的薄麵皮。  
+1. 【[春卷皮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_jiun_pi_zz.md#春卷皮子)】`chuen1 jiun3 pi2 zz` <sup>[如皋]</sup> 包春卷的薄面皮。  
 1. 【[春冷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_len.md#春冷)】`chuen1 len3` <sup>[东台]</sup> 立春以后天气稍稍转暖又出现严寒。  
 1. 【[春联](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_lin.md#春联)】`chuen1 lin2` <sup>[如东]</sup> 春节贴在大门、房门、耳门以及楹柱上的对联，称春联。  
 1. 【[春雷一声十日寒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_ly_ieh_shen_sheh_rih_hun.md#春雷一声十日寒)】`chuen1 ly2 ieh7 shen1 sheh8 rih8 hun2` <sup>[东台]</sup> 农谚，春雷后有十来天低温。  

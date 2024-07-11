@@ -373,8 +373,8 @@
 1. 【[韧脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_jiah.md#韧脚)】`ren6 jiah7` <sup>[如皋]</sup> ① 办事有耐力、坚持力的人。 ② 会磨蹭的人。 ③ 脾气极慢的人。  
 1. 【[韧纠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_jieu.md#韧纠)】`ren6 jieu1` <sup>[如皋]</sup> 咀嚼食物觉得松爽而有弹性：馒头酵又好，又蒸得透，吃咖嘴喱～的。皮糖进嘴～的。  
 1. 【[韧纠纠的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_jieu_jieu_dii.md#韧纠纠的)】`ren6 jieu1 jieu1 dii` <sup>[如皋]</sup> 见“韧纠”。  
-1. 【[韧麵𢷹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_min_chin.md#韧麵𢷹)】`ren6 min6 chin5` <sup>[如皋]</sup> ① 脾气韧。 ② 会纠缠，令人难以解脱。  
-1. 【[韧麵筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_min_jien.md#韧麵筋)】`ren6 min6 jien1` <sup>[如皋]</sup> 脾气韧，言行不放弃。一似黏韧型气质。  
+1. 【[韧面𢷹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_min_chin.md#韧面𢷹)】`ren6 min6 chin5` <sup>[如皋]</sup> ① 脾气韧。 ② 会纠缠，令人难以解脱。  
+1. 【[韧面筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_min_jien.md#韧面筋)】`ren6 min6 jien1` <sup>[如皋]</sup> 脾气韧，言行不放弃。一似黏韧型气质。  
 1. 【[韧韧㾭㾭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_ren_jieu_jieu.md#韧韧㾭㾭)】`ren6 ren6 jieu5 jieu5` <sup>[东台]</sup> 模棱两可，犹豫不决的样子：他～的，态度不明朗。  
 1. 【[韧绉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_zheu.md#韧绉)】`ren6 zheu` <sup>[如东]</sup> 柔软而有弹性：糯米糕～。  
 1. 【[韧绉绉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_zheu_zheu.md#韧绉绉)】`ren6 zheu3 zheu3` <sup>[东台]</sup> 意同“韧悠悠”。  

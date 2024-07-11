@@ -1563,7 +1563,7 @@
 1. 【[隐墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_qian.md#隐墙)】`ien3 qian2` <sup>[如皋]</sup> 大门外的照壁。  
 1. 【[饮酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_jieu.md#饮酒)】`ien3 jieu3` <sup>[如东]</sup> 小口地喝酒。  
 1. 【[饮料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_lio.md#饮料)】`ien3 lio6` <sup>[如东]</sup> 经过加工而供饮用的液体，如酒、茶、汽水、橘子水等。  
-1. 【[饮食店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_sheh_din.md#饮食店)】`ien3 sheh din5` <sup>[如皋]</sup> 制作并出售酒、饭、菜肴、麵点的店家。  
+1. 【[饮食店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_sheh_din.md#饮食店)】`ien3 sheh din5` <sup>[如皋]</sup> 制作并出售酒、饭、菜肴、面点的店家。  
 1. 【[饮食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_sheh.md#饮食)】`ien3 sheh8` <sup>[如东]</sup> 食物：～哿好？  
 1. 【[饮汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_tan.md#饮汤)】`ien3 tan1` 粥汤  
 1. 【[饮汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_tan.md#饮汤)】`ien3 tan1` <sup>[如皋]</sup> 粥汁。  
@@ -1676,7 +1676,7 @@
 1. 【[油嘴滑舌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_jy_huaeh_shih.md#油嘴滑舌)】`ieu2 jy3 huaeh8 shih8` <sup>[如东]</sup> ① 爱说调皮话儿：一天到晚～的。 ② 会说奉承话：王三～的就会奉承人。  
 1. 【[油里油气的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_lii_ieu_qi_dii.md#油里油气的)】`ieu2 lii ieu2 qi5 dii` <sup>[如皋]</sup> 见“油气”。  
 1. 【[油老鼠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_lo_chv.md#油老鼠)】`ieu2 lo3 chv3` 蝙蝠  
-1. 【[油老鼠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_lo_chv.md#油老鼠)】`ieu2 lo3 chv3` <sup>[如皋]</sup> ① 蝙蝠。 ② 发酵烂麵团油炸成的团形食品。  
+1. 【[油老鼠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_lo_chv.md#油老鼠)】`ieu2 lo3 chv3` <sup>[如皋]</sup> ① 蝙蝠。 ② 发酵烂面团油炸成的团形食品。  
 1. 【[油老鼠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_lo_chv.md#油老鼠)】`ieu2 lo3 chv3` <sup>[如东]</sup> 蝙蝠科动物蝙蝠，头部和躯干像老鼠，四翅和尾部之间有皮质的膜，夜间在空中飞翔，吃蚊、蛾等昆虫。视力很弱，靠本身发出的超声波来引导飞行。  
 1. 【[油老鼠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_lo_chv.md#油老鼠)】`ieu2 lo3 chv3` <sup>[东台]</sup> 蝙蝠。因过去有人说蝙蝠是老鼠偷吃了油变成的。  
 1. 【[油老鼠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_lo_chv.md#油老鼠)】`ieu2 lo3 chv3` <sup>[兴化]</sup> 蝙蝠。  

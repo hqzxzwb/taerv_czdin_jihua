@@ -1950,7 +1950,7 @@
 1. 【[拙驴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuh_ly.md#拙驴)】`zhuh7 ly2` <sup>[泰县]</sup> 智力差、愚拙的人。  
 1. 【[拙丫头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuh_nga_teu.md#拙丫头)】`zhuh7 nga1 teu` <sup>[如东]</sup> ① 不聪明的女孩子。 ② 鲸鱼。  
 1. 【[拙婆娘张帐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuh_pu_nian_zhan_zhan_zz.md#拙婆娘张帐子)】`zhuh7 pu2 nian2 zhan1 zhan5 zz` <sup>[如皋]</sup> ① 海豚座瓠瓜五星。 ② 喻不规则、不整齐，做事不道地。  
-1. 【[拙窍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuh_qio.md#拙窍)】`zhuh7 qio5` <sup>[如皋]</sup> 窍门：她下的麵条就是好吃，不晓得甚的～！  
+1. 【[拙窍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuh_qio.md#拙窍)】`zhuh7 qio5` <sup>[如皋]</sup> 窍门：她下的面条就是好吃，不晓得甚的～！  
 1. 【[专门<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_men_r.md#专门<sub>儿</sub>)】`zhun1 men2 r` <sup>[如东]</sup> 一心一意，专心致意：他是～做这些事情的。  
 1. 【[砖儿何厚，瓦儿何𣻏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_er_hu_heu_va_er_hu_xio.md#砖儿何厚，瓦儿何𣻏)】`zhun1 er hu2 heu6 va3 er hu2 xio1` <sup>[东台]</sup> ［喻］人情冷暖世态炎凉：他冷眼旁观周围一切，感慨地说｜“～，哪个还会帮哪个的忙？”  
 1. 【[砖盖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_gae.md#砖盖)】`zhun1 gae5` <sup>[如东]</sup> 场院用砖铺地，称砖盖。  

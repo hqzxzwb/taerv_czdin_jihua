@@ -1109,16 +1109,16 @@
 1. 【[较家伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_ga_hu.md#较家伙)】`go5 ga1 hu` <sup>[兴化]</sup> 比试力气、本领：他俫～，看哪个能把石头香炉举起来。  
 1. 【[酵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go.md#酵)】`go5` <sup>[东台]</sup> 微生物在酶的催化作用下的生化变化：涨～（也作长～）。  
 1. 【[酵饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_bien.md#酵饼)】`go5 bien3` <sup>[如皋]</sup> 发酵后做的饼：玉米糏～、大麦糏～。  
-1. 【[酵饼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_bien_r.md#酵饼<sub>儿</sub>)】`go5 bien3 r` <sup>[如皋]</sup> 富含酵母菌的湿麵团或晒干的麵饼，供再行发酵用。  
-1. 【[酵㹕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_huaen.md#酵㹕)】`go5 huaen1` <sup>[如皋]</sup> 麵团含水少而显得强硬。  
-1. 【[酵有劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_ieu_jien.md#酵有劲)】`go5 ieu3 jien5` <sup>[如皋]</sup> 由于麵团在盘压中蛋白质麵筋化的程度高，延展和拉力强，成熟后的口感不黏而有弹性，耐嚼而香。  
-1. 【[酵浇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_jio.md#酵浇)】`go5 jio1` <sup>[如皋]</sup> 麵团含水多而显得软烂。  
-1. 【[酵烂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_laen.md#酵烂)】`go5 laen6` <sup>[如皋]</sup> 麵团含水多而显得软烂。  
+1. 【[酵饼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_bien_r.md#酵饼<sub>儿</sub>)】`go5 bien3 r` <sup>[如皋]</sup> 富含酵母菌的湿面团或晒干的面饼，供再行发酵用。  
+1. 【[酵㹕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_huaen.md#酵㹕)】`go5 huaen1` <sup>[如皋]</sup> 面团含水少而显得强硬。  
+1. 【[酵有劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_ieu_jien.md#酵有劲)】`go5 ieu3 jien5` <sup>[如皋]</sup> 由于面团在盘压中蛋白质面筋化的程度高，延展和拉力强，成熟后的口感不黏而有弹性，耐嚼而香。  
+1. 【[酵浇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_jio.md#酵浇)】`go5 jio1` <sup>[如皋]</sup> 面团含水多而显得软烂。  
+1. 【[酵烂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_laen.md#酵烂)】`go5 laen6` <sup>[如皋]</sup> 面团含水多而显得软烂。  
 1. 【[酵妈妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_ma_ma.md#酵妈妈)】`go5 ma1 ma` <sup>[如皋]</sup> 见“老酵饼儿”。  
 1. 【[酵水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_shuei.md#酵水)】`go5 shuei3` <sup>[如东]</sup> 含有酵母的浆水。  
 1. 【[酵水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_shuei.md#酵水)】`go5 shuei3` <sup>[如皋]</sup> 富含酵母菌的浆液。一般用酒药子、浆糟酘入稍温的糯米粥中发酵后制成。有浓烈的酵水香味。用以大批量发酵做馒头等。  
 1. 【[酵水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_shuei.md#酵水)】`go5 shuei3` <sup>[东台]</sup> 影响老酵馒头或饼的口感的综合因素，包括面粉、水分、酸碱、涨酵时间等：～不丑。  
-1. 【[酵水扁食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_shuei_bin_sheh.md#酵水扁食)】`go5 shuei3 bin3 sheh` <sup>[如皋]</sup> 用发酵麵团擀成薄皮包成的饺子。  
+1. 【[酵水扁食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_shuei_bin_sheh.md#酵水扁食)】`go5 shuei3 bin3 sheh` <sup>[如皋]</sup> 用发酵面团擀成薄皮包成的饺子。  
 1. 【[酵水扁食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_shuei_bin_sheh.md#酵水扁食)】`go5 shuei3 bin3 sheh8` <sup>[如东]</sup> 采用经过发酵的面皮包裹起来的扁食。  
 1. 【[酵糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_tan.md#酵糖)】`go5 tan2` <sup>[如皋]</sup> 做成酵饼状的麦芽糖。  
 1. 【[酵头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_teu.md#酵头)】`go5 teu` <sup>[如东]</sup> 含有酵母的面团。  
@@ -1128,7 +1128,7 @@
 1. 【[酵条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_tio.md#酵条)】`go5 tio2` 长馒头  
 1. 【[酵条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_tio.md#酵条)】`go5 tio2` <sup>[如东]</sup> 面粉经过发酵而制成的长条形馒头。也叫胖婆娘腿子。  
 1. 【[酵条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_tio.md#酵条)】`go5 tio2` <sup>[如皋]</sup> 条形无馅馒头。  
-1. 【[酵庄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_zhuan.md#酵庄)】`go5 zhuan1` <sup>[如皋]</sup> 麵团含水少而显得强硬。  
+1. 【[酵庄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_zhuan.md#酵庄)】`go5 zhuan1` <sup>[如皋]</sup> 面团含水少而显得强硬。  
 1. 【[啯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/goh.md#啯)】`goh7` <sup>[如皋]</sup> 叽咕、絮叨：她光是在男的跟前～，男的不能不信吖她。  
 1. 【[啯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/goh.md#啯)】`goh7` <sup>[东台]</sup> ［象声词］东台话中常用于大口喝酒或饮料：把酒～掉！  
 1. 【[啯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/goh.md#啯)】`goh7` <sup>[兴化]</sup> 喝：晚上没事弄点儿酒～～。  
@@ -1437,7 +1437,7 @@
 1. 【[过冥寿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_mien_sheu.md#过冥寿)】`gu5 mien2 sheu6` <sup>[如皋]</sup> 为死者计龄并祝寿：他父亲是58岁死的，今年子过80冥寿。  
 1. 【[过年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_nin.md#过年)】`gu5 nin2` <sup>[如东]</sup> ① 阴历十二月二十九日或三十日，旧年结束，新年开始，称过年。全家人团聚，举办宴请活动，表示喜庆。 ② 明年：～再去。  
 1. 【[过七](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_qieh.md#过七)】`gu5 qieh7` <sup>[如皋]</sup> 人初丧，每七日为一个“七”，祭祀。凡七七四十九日，祭七次。称头七、二七、六七、终七。  
-1. 【[过桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_qio.md#过桥)】`gu5 qio2` <sup>[如皋]</sup> 煮熟的麵条，一经捞起即浸入冷水中，中止后熟过程。吃时再下沸水烫。这一过程称为～。同“盘水”。  
+1. 【[过桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_qio.md#过桥)】`gu5 qio2` <sup>[如皋]</sup> 煮熟的面条，一经捞起即浸入冷水中，中止后熟过程。吃时再下沸水烫。这一过程称为～。同“盘水”。  
 1. 【[过桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_qio.md#过桥)】`gu5 qio2` <sup>[兴化]</sup> ① 一种烹饪方法：将在清水中煮熟的食物捞起后放入另配的汤料｜～面。 ② 在饮酒的间隙吃菜。  
 1. 【[过去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_qy.md#过去)】`gu5 qy5` <sup>[如东]</sup> ① 从前：～就存在。 ② 死亡：他已经～啊。  
 1. 【[过去啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_qy_a.md#过去啊)】`gu5 qy5 a` <sup>[如皋]</sup> 讳指死了。  
@@ -1668,7 +1668,7 @@
 1. 【[怪道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guae_to.md#怪道)】`guae5 to6` <sup>[如东]</sup> 怪不得：～有人说咖！  
 1. 【[怪团<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guae_tun_r.md#怪团<sub>儿</sub>)】`guae5 tun2 r` <sup>[如皋]</sup> 评语。指爱打扮的人。  
 1. 【[怪物团<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guae_veh_tun_r.md#怪物团<sub>儿</sub>)】`guae5 veh8 tun2 r` <sup>[如东]</sup> 爱打扮的女孩子。  
-1. 【[怪味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guae_vei.md#怪味)】`guae5 vei6` <sup>[如皋]</sup> 奇怪的味：～麵、～豆。  
+1. 【[怪味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guae_vei.md#怪味)】`guae5 vei6` <sup>[如皋]</sup> 奇怪的味：～面、～豆。  
 1. 【[刮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaeh.md#刮)】`guaeh7` <sup>[如皋]</sup> ① 用指背横抹：～鼻子。 ② 推拿：～痧。 ③ 打当（原文“打、荡”，疑误。）：～缸脚儿。 ④ 刮除：～锅锈。  
 1. 【[刮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaeh.md#刮)】`guaeh7` <sup>[兴化]</sup> ① 不指名的批评：他今朝在会上捱～。 ② 挣小钱：我出去～个酒作儿再家来。  
 1. 【[刮刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaeh_do.md#刮刀)】`guaeh7 do1` <sup>[如皋]</sup> 篾匠刮篾子的工具。  
@@ -2110,7 +2110,7 @@
 1. 【[佮界](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_gae.md#佮界)】`guh7 gae5` <sup>[东台]</sup> 邻里之间土地毗邻交界。  
 1. 【[佮角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_gah.md#佮角)】`guh7 gah7` <sup>[东台]</sup> ① 两人坐在桌子同一个角落两侧，紧紧靠在一起。 ② 财务报表行列总和对头。  
 1. 【[佮骨头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_gueh_teu.md#佮骨头)】`guh7 gueh7 teu` <sup>[兴化]</sup> 形容人争吵不休，互不相容：两个人像～的，见面就吵！  
-1. 【[佮佮<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_guh_r.md#佮佮<sub>儿</sub>)】`guh7 guh7 r` <sup>[如皋]</sup> 用剩余的饭、菜、麵等一齐煮的粥。  
+1. 【[佮佮<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_guh_r.md#佮佮<sub>儿</sub>)】`guh7 guh7 r` <sup>[如皋]</sup> 用剩余的饭、菜、面等一齐煮的粥。  
 1. 【[佮鞋绳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_hae_shen_r.md#佮鞋绳<sub>儿</sub>)】`guh7 hae2 shen2 r` <sup>[如皋]</sup> 见“佮线”。  
 1. 【[佮伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_hu.md#佮伙)】`guh7 hu3` 合作  
 1. 【[佮伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_hu.md#佮伙)】`guh7 hu3` <sup>[东台]</sup> 聚合在一起吃饭、干事。  

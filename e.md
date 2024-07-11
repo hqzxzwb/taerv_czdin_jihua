@@ -129,7 +129,7 @@
 1. 【[二更头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_gen_teu.md#二更头)】`er6 gen1 teu` <sup>[如东]</sup> 二更开始以后（21点钟之后）。  
 1. 【[二交](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_go.md#二交)】`er6 go5` <sup>[兴化]</sup> 第二遍：“你好我不好，一夜爬得我两手泡，再不去为你磨～。”（兴文《秃“驴”拉磨》）  
 1. 【[二交药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_go_iah.md#二交药)】`er6 go5 iah8` <sup>[兴化]</sup> ① 一副中药煎服的第二遍。 ② （输）事后省悟：他像～吃下去，反应过来啊。  
-1. 【[二交糏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_go_xih.md#二交糏)】`er6 go5 xih7` <sup>[如皋]</sup> 旧时用石磨磨小麦，第一次磨出的麵粉为“头交糏”；筛后再磨，磨出的麵粉为～。  
+1. 【[二交糏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_go_xih.md#二交糏)】`er6 go5 xih7` <sup>[如皋]</sup> 旧时用石磨磨小麦，第一次磨出的面粉为“头交糏”；筛后再磨，磨出的面粉为～。  
 1. 【[二国槐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_goh_huae.md#二国槐)】`er6 goh7 huae2` <sup>[东台]</sup> 刺槐，又叫洋槐。羽状复叶，椭圆形，类似本国槐树故名。  
 1. 【[二杆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_gun_zz.md#二杆子)】`er6 gun3 zz` <sup>[如东]</sup> 脾气倔强的人。  
 1. 【[二姑娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_gv_nian.md#二姑娘)】`er6 gv1 nian` 娘娘腔的人。  

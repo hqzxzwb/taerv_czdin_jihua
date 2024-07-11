@@ -1249,7 +1249,7 @@
 1. 【[蝎子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_zz.md#蝎子)】`xih7 zz` <sup>[东台]</sup> 有毒的节肢动物，可入药。  
 1. 【[蝎子的尾巴——针（真）毒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_zz_dii_vei_ba_zhen_toh.md#蝎子的尾巴——针（真）毒)】`xih7 zz dii vei3 ba1 zhen1 toh8` <sup>[东台]</sup>   
 1. 【[蝎子精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_zz_jien.md#蝎子精)】`xih7 zz jien1` <sup>[如皋]</sup> ① 如皋民间传说中的冰雹神。 ② 喻专爱惹祸生事的青少年：他是个～，出门就惹祸。  
-1. 【[蝎子精䁭妈妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_zz_jien_bio_ma_ma.md#蝎子精䁭妈妈)】`xih7 zz jien1 bio1 ma1 ma1` <sup>[如皋]</sup> 指狂风暴雨下冰雹的天气。传说蝎子精会施放巨雹，危害甚大，被张天师用九条火龙裹着，禁在泰州。其母水母娘娘吃了观音下的麵，变成铁索贯肠，禁在通州（今南通市）北门的井里。每年夏秋间，允许～，即出现这种天气。其危害已很小，因为巨雹都化成小块了。  
+1. 【[蝎子精䁭妈妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_zz_jien_bio_ma_ma.md#蝎子精䁭妈妈)】`xih7 zz jien1 bio1 ma1 ma1` <sup>[如皋]</sup> 指狂风暴雨下冰雹的天气。传说蝎子精会施放巨雹，危害甚大，被张天师用九条火龙裹着，禁在泰州。其母水母娘娘吃了观音下的面，变成铁索贯肠，禁在通州（今南通市）北门的井里。每年夏秋间，允许～，即出现这种天气。其危害已很小，因为巨雹都化成小块了。  
 1. 【[蝎子驮百脚——上下都是毒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_zz_tu_boh_jiah_shan_ha_du_shr_toh.md#蝎子驮百脚——上下都是毒)】`xih7 zz tu2 boh7 jiah7 shan6 ha6 du1 shr6 toh8` <sup>[东台]</sup>   
 1. 【[挟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih.md#挟)】`xih8` <sup>[如皋]</sup> 要挟：她～住你做，你不做，她放泼；她～住你要，要不到，她耍赖。  
 1. 【[歇刻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_keh_r.md#歇刻<sub>儿</sub>)】`xih9 keh r` <sup>[东台]</sup> 很短暂的片刻或间隙：请你等～，我就来。  

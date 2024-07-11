@@ -964,7 +964,7 @@
 1. 【[冷脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_lin.md#冷脸)】`len3 lin3` <sup>[如皋]</sup> 喻对人板着面孔，不见笑容。  
 1. 【[冷路货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_lv_hu.md#冷路货)】`len3 lv6 hu5` <sup>[如东]</sup> 销路不好的商品：这是一批～。  
 1. 【[冷露](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_lv.md#冷露)】`len3 lv6` <sup>[如东]</sup> 地面物体上已见明显的露水，表示气温已经很低，但还没有形成霜：今朝有～啊。  
-1. 【[冷麵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_min.md#冷麵)】`len3 min6` <sup>[如皋]</sup> 凉拌麵。夏季多食之。即麵条煮熟后下冷水，捞出甩去水份，拌食。  
+1. 【[冷面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_min.md#冷面)】`len3 min6` <sup>[如皋]</sup> 凉拌面。夏季多食之。即面条煮熟后下冷水，捞出甩去水份，拌食。  
 1. 【[冷被](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_pi.md#冷被)】`len3 pi6` <sup>[如皋]</sup> 停灵，收殓所用的盖被。  
 1. 【[冷盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_pun.md#冷盘)】`len3 pun2` <sup>[如皋]</sup> 供冷食的菜。  
 1. 【[冷席](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_qieh.md#冷席)】`len3 qieh8` <sup>[如皋]</sup> 停灵，收殓所用的草席。  
@@ -2452,7 +2452,7 @@
 1. 【[龙缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_gan.md#龙缸)】`lon2 gan1` <sup>[兴化]</sup> 一种圆筒形的小缸，底略小，内外涂釉，外有龙形图案。  
 1. 【[龙骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_gueh.md#龙骨)】`lon2 gueh7` <sup>[如东]</sup> 帆船船底上的大梁，一般为三根。  
 1. 【[龙骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_gueh.md#龙骨)】`lon2 gueh7` <sup>[东台]</sup> 车船、建筑物等的像脊椎骨那样的支撑和承重结构。  
-1. 【[龙虎斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_hv_deu.md#龙虎斗)】`lon2 hv3 deu5` <sup>[如皋]</sup> 又称饺儿麵，即一碗中有麵条和馄饨。  
+1. 【[龙虎斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_hv_deu.md#龙虎斗)】`lon2 hv3 deu5` <sup>[如皋]</sup> 又称饺儿面，即一碗中有面条和馄饨。  
 1. 【[龙虎斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_hv_deu.md#龙虎斗)】`lon2 hv3 deu5` <sup>[东台]</sup> 烧饼的一种，咸中带甜。  
 1. 【[龙虎斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_hv_deu.md#龙虎斗)】`lon2 hv3 deu5` <sup>[兴化]</sup> ① 烹饪方法，即将鳝丝和虾仁放在一起爆炒。 ② 包子或烧饼中同时放入甜、咸两种馅。  
 1. 【[龙游河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_ieu_hu.md#龙游河)】`lon2 ieu2 hu2` <sup>[如皋]</sup> 从如皋城河向南至杨花桥，折西至西河湾，折南经吴窑、桑木桥、新生港通长江。杨花桥至长江段是隋初南境坍江时的岸线；城河至杨花桥段原称马塘河。  
@@ -2549,7 +2549,7 @@
 1. 【[罗罗网<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_lu_van_r.md#罗罗网<sub>儿</sub>)】`lu2 lu2 van3 r` <sup>[兴化]</sup> 蜘蛛网。  
 1. 【[罗盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_pun.md#罗盘)】`lu2 pun2` <sup>[如东]</sup> 指示方向的仪器。也叫指南针。  
 1. 【[罗圈腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_qiun_tuei.md#罗圈腿)】`lu2 qiun1 tuei3` <sup>[如东]</sup> ① 两腿略呈弓形。 ② 两腿略呈弓形的人。  
-1. 【[罗筛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_shae.md#罗筛)】`lu2 shae1` <sup>[如皋]</sup> 用罗鞔的筛子，网眼很小，用以筛麵、粉、糏。  
+1. 【[罗筛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_shae.md#罗筛)】`lu2 shae1` <sup>[如皋]</sup> 用罗鞔的筛子，网眼很小，用以筛面、粉、糏。  
 1. 【[罗筛架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_shae_ga_zz.md#罗筛架子)】`lu2 shae1 ga5 zz` <sup>[如皋]</sup> 罗筛的支架。用两根约80cm长的毛竹片，竹皮向上，平行，两端装上燕尾形木片即成。  
 1. 【[罗心重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_xien_chon.md#罗心重)】`lu2 xien1 chon6` <sup>[泰县]</sup> 私心重：这个人的～。  
 1. 【[罗躁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_zo.md#罗躁)】`lu2 zo5` <sup>[泰县]</sup> 找麻烦：你不要～人。  

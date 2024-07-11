@@ -1380,8 +1380,10 @@
 1. 【[䛉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min.md#䛉)】`min6` <sup>[如皋]</sup> 以哼唱催眠：我手里摇住嘎，嘴里～住嘎，小家伙渐渐要睏吖；伢儿要睏，你～～他。  
 1. 【[䛉伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_nga_r.md#䛉伢<sub>儿</sub>)】`min6 nga2 r` <sup>[如皋]</sup> 见“䛉”。  
 1. 【[泯良](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_lian.md#泯良)】`min6 lian2` <sup>[如皋]</sup> 丧失良心。  
+1. 【[面不等客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_beh_den_keh.md#面不等客)】`min6 beh7 den3 keh7` <sup>[如皋]</sup> 面条煮熟即应吃，不能等别人一齐吃，因为久了会变糊。  
 1. 【[面场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_chan.md#面场)】`min6 chan2` <sup>[兴化]</sup> 在大面上或交际应酬场合：她这吖不检点，男人～上怎吖下得来？  
 1. 【[面场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_chan.md#面场)】`min6 chan2` <sup>[泰县]</sup> 外表。  
+1. 【[面抽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_cheu.md#面抽)】`min6 cheu1` <sup>[如皋]</sup> 酱油的一种。甜面酱的缸中，“抽”篓抽出的乳液，味鲜甜。  
 1. 【[面腐盆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_fv_pen.md#面腐盆)】`min6 fv3 pen2` <sup>[泰县]</sup> 糊涂人。  
 1. 【[面花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hua.md#面花)】`min6 hua1` <sup>[如皋]</sup> 杆秤向上一面的秤星。  
 1. 【[面黄肌瘦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_huan_ji_sheu.md#面黄肌瘦)】`min6 huan2 ji1 sheu5` <sup>[如东]</sup> 形容病情沉重：只见他～的，恐怕不行4。  
@@ -1392,11 +1394,15 @@
 1. 【[面糊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hv.md#面糊)】`min6 hv2` <sup>[兴化]</sup> 浆糊。  
 1. 【[面糊刷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hv_shuaeh_zz.md#面糊刷子)】`min6 hv2 shuaeh7 zz` <sup>[东台]</sup> ［喻］指无原则地和稀泥：有矛盾要及时解决，不能当～。  
 1. 【[面糊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hv.md#面糊)】`min6 hv6` <sup>[如东]</sup> 糨糊。  
+1. 【[面糊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hv.md#面糊)】`min6 hv6` <sup>[如皋]</sup> 浆糊，粘合剂。半熟时有黏性  
 1. 【[面糊糊<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hv_hv_r.md#面糊糊<sub>儿</sub>)】`min6 hv6 hv6 r` <sup>[如东]</sup> 小麦粉放在水中搅拌成糊状，倒入开水中，配青菜叶，煮熟的食物。  
+1. 【[面糊糊<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hv_hv_r.md#面糊糊<sub>儿</sub>)】`min6 hv6 hv6 r` <sup>[如皋]</sup> 水煮面粉液，食品。熟透则不黏。  
 1. 【[面糊脑<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hv_no_r.md#面糊脑<sub>儿</sub>)】`min6 hv6 no3 r` <sup>[如东]</sup> 用小麦粉做成的面糊糊。  
 1. 【[面糊手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hv_sheu.md#面糊手)】`min6 hv6 sheu3` <sup>[如东]</sup> 爱占小便宜的人。  
+1. 【[面糊刷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hv_shuaeh_zz.md#面糊刷子)】`min6 hv6 shuaeh7 zz` <sup>[如皋]</sup> 喻敷衍或平衡人际关系的表现，或指人。  
 1. 【[面筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_jien.md#面筋)】`min6 jien1` <sup>[如东]</sup> 小麦面和麸皮入水揉洗后所获得的胶黏状物质。  
 1. 【[面筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_jien.md#面筋)】`min6 jien1` <sup>[东台]</sup> 一种食品。用面粉加水拌和，洗去其中所含淀粉，剩下的混合蛋白质。  
+1. 【[面筋泡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_jien_po_r.md#面筋泡<sub>儿</sub>)】`min6 jien1 po1 r` <sup>[如皋]</sup> 油发面筋，泡若园球，内可衬肉糜馅。  
 1. 【[面筋黐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_jien_chr.md#面筋黐)】`min6 jien3 chr1` <sup>[泰县]</sup> 用米麦制成的粘合剂  
 1. 【[面愧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_kuei.md#面愧)】`min6 kuei5` <sup>[兴化]</sup> 感到惭愧：自己做啊对不起人的事，有点～。  
 1. 【[面磕地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_kuh_ti.md#面磕地)】`min6 kuh7 ti6` <sup>[如皋]</sup> 俯跌。  
@@ -1416,6 +1422,7 @@
 1. 【[面皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_pi.md#面皮)】`min6 pi2` <sup>[兴化]</sup> ① 肤色、表情：白净～｜紫棠色～！张都监看了大怒，变了～。（《水浒传》三十） ② 情面、脸面：“（小人）凭托柴大官人～，径投大寨入伙……”（《水浒传》十一）｜幸亏他这副～还生得既厚且老……（《广陵南》七十）  
 1. 【[面盘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_pun_z.md#面盘子)】`min6 pun3 z` 脸，面孔。  
 1. 【[面食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_sheh.md#面食)】`min6 sheh8` <sup>[如东]</sup> 以小麦面为主的食品。  
+1. 【[面食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_sheh.md#面食)】`min6 sheh8` <sup>[如皋]</sup> 乾面食品的总称。  
 1. 【[面生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_shen.md#面生)】`min6 shen1` <sup>[如东]</sup> 没有见过面。比喻不熟悉：这个人我俫～。  
 1. 【[面生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_shen.md#面生)】`min6 shen1` <sup>[东台]</sup> 面貌生疏：这位先生看起来～，请问尊姓大名？  
 1. 【[面熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_shoh.md#面熟)】`min6 shoh8` <sup>[如东]</sup> 对方的面貌有些印象。  
@@ -1431,6 +1438,7 @@
 1. 【[面瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_va.md#面瓦)】`min6 va3` <sup>[如皋]</sup> 屋面上瓦背向上的瓦盖瓦，别于底瓦。  
 1. 【[面外花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_vae_hua.md#面外花)】`min6 vae6 hua1` <sup>[如皋]</sup> 有的杆秤有八面花，上面的外花称之。  
 1. 【[面相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_xian.md#面相)】`min6 xian5` <sup>[如东]</sup> 相貌，样子。  
+1. 【[面鱼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_y_r.md#面鱼<sub>儿</sub>)】`min6 y2 r` <sup>[如皋]</sup> ① 间银鱼。鱼纲，鲱形目。 ② 水煮的不规则面疙丁。  
 1. 【[面鱼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_y_r.md#面鱼<sub>儿</sub>)】`min6 y2 r` <sup>[东台]</sup> 用面粉加水刮成一条条小鱼状，下在沸水里煮熟食用，堤东一带又叫捺鱼儿、刮抓底。北方人叫“面疙瘩”。  
 1. 【[面子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_zz.md#面子)】`min6 zz` <sup>[如东]</sup> ① 物体的表面：书～好。 ② 人的脸面。 ③ 表皮，表层：被～。 ④ 体面，情面：丢不下～。  
 1. 【[面子话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_zz_hua.md#面子话)】`min6 zz hua6` <sup>[兴化]</sup> 没有实际意义的情面话：我俫不是外人，你行就行，覅说～。  
@@ -1438,16 +1446,8 @@
 1. 【[面子账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_zz_zhan.md#面子账)】`min6 zz zhan5` <sup>[如东]</sup> 表面上的人情。  
 1. 【[面子账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_zz_zhan.md#面子账)】`min6 zz zhan5` <sup>[如皋]</sup> 情谊很浅。  
 1. 【[面子账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_zz_zhan.md#面子账)】`min6 zz zhan5` <sup>[兴化]</sup> 为照顾情面而敷衍：他去电话替你打招呼不过是～，有用没用他才不管。  
-1. 【[麪店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_din.md#麪店)】`min6 din5` <sup>[如皋]</sup> ① 制售麵条的店家。 ② 卖煮麵条、馄饨等的店家。  
-1. 【[麵不等客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_beh_den_keh.md#麵不等客)】`min6 beh7 den3 keh7` <sup>[如皋]</sup> 麵条煮熟即应吃，不能等别人一齐吃，因为久了会变糊。  
-1. 【[麵抽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_cheu.md#麵抽)】`min6 cheu1` <sup>[如皋]</sup> 酱油的一种。甜麵酱的缸中，“抽”篓抽出的乳液，味鲜甜。  
-1. 【[麵糊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hv.md#麵糊)】`min6 hv6` <sup>[如皋]</sup> 浆糊，粘合剂。半熟时有黏性  
-1. 【[麵糊糊<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hv_hv_r.md#麵糊糊<sub>儿</sub>)】`min6 hv6 hv6 r` <sup>[如皋]</sup> 水煮麵粉液，食品。熟透则不黏。  
-1. 【[麵糊刷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hv_shuaeh_zz.md#麵糊刷子)】`min6 hv6 shuaeh7 zz` <sup>[如皋]</sup> 喻敷衍或平衡人际关系的表现，或指人。  
-1. 【[麵筋泡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_jien_po_r.md#麵筋泡<sub>儿</sub>)】`min6 jien1 po1 r` <sup>[如皋]</sup> 油发麵筋，泡若园球，内可衬肉糜馅。  
-1. 【[麵食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_sheh.md#麵食)】`min6 sheh8` <sup>[如皋]</sup> 乾麵食品的总称。  
-1. 【[麵鱼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_y_r.md#麵鱼<sub>儿</sub>)】`min6 y2 r` <sup>[如皋]</sup> ① 间银鱼。鱼纲，鲱形目。 ② 水煮的不规则麵疙丁。  
-1. 【[麵子<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_zz_r.md#麵子<sub>儿</sub>)】`min6 zz3 r` <sup>[如皋]</sup> 麵条量的单位：一个子儿麵（约2市两左右的一小堆）、半个子儿麵。  
+1. 【[面子<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_zz_r.md#面子<sub>儿</sub>)】`min6 zz3 r` <sup>[如皋]</sup> 面条量的单位：一个子儿面（约2市两左右的一小堆）、半个子儿面。  
+1. 【[麪店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_din.md#麪店)】`min6 din5` <sup>[如皋]</sup> ① 制售面条的店家。 ② 卖煮面条、馄饨等的店家。  
 1. 【[喵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio.md#喵)】`mio` <sup>[如皋]</sup> 猫叫声。  
 1. 【[描红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio_hon.md#描红)】`mio2 hon2` <sup>[如东]</sup> 练习毛笔字的一种方法。在红色的字上蒙纸，照着描绘，叫做描红。  
 1. 【[苗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio.md#苗)】`mio2` <sup>[东台]</sup> 形容词，指饼或馒头酵的水分偏多，与“壮酵馒头”相对。  

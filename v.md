@@ -760,7 +760,7 @@
 1. 【[瀖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah.md#瀖)】`vah8` <sup>[泰县]</sup> 液体溢出。  
 1. 【[瀖板<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_baen_r.md#瀖板<sub>儿</sub>)】`vah8 baen3 r` <sup>[东台]</sup> ① ［引］指过于活泼开放：这个细～，玩吖认不得家啊！ ② ［引］行为放荡的男女。  
 1. 【[瀖头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_teu.md#瀖头)】`vah8 teu` <sup>[东台]</sup> ［引］指有油水可捞：这生意～不大，他恐怕不高兴做。  
-1. 【[瀖动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_ton.md#瀖动)】`vah8 ton` <sup>[如皋]</sup> 闪动、晃动：水面上下～。麵团、鲜肉等因外力而～。也读vah7 ton。  
+1. 【[瀖动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_ton.md#瀖动)】`vah8 ton` <sup>[如皋]</sup> 闪动、晃动：水面上下～。面团、鲜肉等因外力而～。也读vah7 ton。  
 1. 【[瀖瀖的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_vah_dii.md#瀖瀖的)】`vah8 vah8 dii` <sup>[泰县]</sup> ① 太满，溢出来：这汤盛得这吖多，～。 ② 亮闪闪，显眼：他手表戴啊～。  
 1. 【[矐咖矐的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_ga_vah_dii.md#矐咖矐的)】`vah8 ga vah8 dii` <sup>[东台]</sup> 光线不稳定地闪烁：这电灯泡接触不良，～。  
 1. 【[矐闪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_shin.md#矐闪)】`vah8 shin3` <sup>[东台]</sup> 闪电：响雷～。  

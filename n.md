@@ -1219,7 +1219,7 @@
 1. 【[呕屎礓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_shr_jian.md#呕屎礓)】`ngeu3 shr3 jian3` <sup>[东台]</sup> （詈语）指胡说八道。  
 1. 【[呕㞞礓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_son_jian.md#呕㞞礓)】`ngeu3 son2 jian3` <sup>[东台]</sup> 与“呕屎礓”近义。  
 1. 【[牛屎巴巴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_shr_ba_ba_r.md#牛屎巴巴<sub>儿</sub>)】`ngeu3 shr3 ba1 ba1 r` <sup>[如皋]</sup> ① 一堆牛粪。 ② 贬指旧时妇女脑后髮髻，即蟠髻。  
-1. 【[藕饼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_bien_r.md#藕饼<sub>儿</sub>)】`ngeu3 bien3 r` <sup>[如皋]</sup> 用藕片夹馅蘸麵浆，油炸或油焖成的饼，为中秋节食品。  
+1. 【[藕饼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_bien_r.md#藕饼<sub>儿</sub>)】`ngeu3 bien3 r` <sup>[如皋]</sup> 用藕片夹馅蘸面浆，油炸或油焖成的饼，为中秋节食品。  
 1. 【[藕饼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_bien_r.md#藕饼<sub>儿</sub>)】`ngeu3 bien3 r` <sup>[如东]</sup> 藕切成饼儿，中间嵌肉末、姜末，外面沾上面粉糊，放在锅中炸熟，呈淡黄色，肥、脆、香，营养丰富。  
 1. 【[藕饼<sub>儿</sub>鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_bien_r_pieh_zz.md#藕饼<sub>儿</sub>鼻子)】`ngeu3 bien3 r pieh8 zz` <sup>[如皋]</sup> 趣指猪鼻孔区。  
 1. 【[藕擦子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_caeh_zz.md#藕擦子)】`ngeu3 caeh7 zz` <sup>[兴化]</sup> 小型厨具，在铁皮上凿成密集小孔，可把藕擦成碎屑，也可把萝卜擦成细丝。  

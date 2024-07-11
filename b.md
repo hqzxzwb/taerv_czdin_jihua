@@ -1119,8 +1119,8 @@
 1. 【[本领](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_lien.md#本领)】`ben3 lien3` <sup>[如东]</sup> ① 能力。 ② 技术。  
 1. 【[本门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_men.md#本门)】`ben3 men2` <sup>[如东]</sup> 属于自己的，属于自己行业的：～的工作一定要做好。  
 1. 【[本门亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_men_qien.md#本门亲)】`ben3 men2 qien1` <sup>[如皋]</sup> 在大家庭中属于本房的姻亲。  
+1. 【[本面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_min.md#本面)】`ben3 min6` <sup>[如皋]</sup> 用传统工具将本种小麦磨出的面粉。与“洋面”相对。  
 1. 【[本面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_min.md#本面)】`ben3 min6` <sup>[兴化]</sup> 旧称磨坊生产的面粉，相对于机制麦粉——洋面。  
-1. 【[本麵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_min.md#本麵)】`ben3 min6` <sup>[如皋]</sup> 用传统工具将本种小麦磨出的麵粉。与“洋麵”相对。  
 1. 【[本派](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_pae.md#本派)】`ben3 pae5` <sup>[兴化]</sup> 应当：“……我～要进去见嫂子请安呀！”（《武松》六）｜你去年的考试成绩～录取，因为肝上有毛病不曾能入学。  
 1. 【[本钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_qin.md#本钱)】`ben3 qin` <sup>[兴化]</sup> （讳饰语）指男性生殖器官：他是天生的太监，没～的货。｜“李大哥……只是这～没了，将甚么赔令正……”（《三刻》二一）  
 1. 【[本钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_qin.md#本钱)】`ben3 qin2` <sup>[东台]</sup> 用以办事、营利、生息、赌博之类的钱财。比喻可以凭借依靠的条件和必要的代价。  
