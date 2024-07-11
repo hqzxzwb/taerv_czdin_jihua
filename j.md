@@ -779,7 +779,7 @@
 1. 【[急水下创](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_shuei_xia_chuan.md#急水下创)】`jieh7 shuei3 xia6 chuan5` <sup>[兴化]</sup> 在匆忙中行事：现在腊月底，～的到哪块寻房子搬家呀。  
 1. 【[急水下急篙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_shuei_xia_jieh_go.md#急水下急篙)】`jieh7 shuei3 xia6 jieh7 go1` <sup>[东台]</sup> ［喻］也说“急水下陡篙”。遇到紧急情况果断快速处理。  
 1. 【[急烫馋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_tan_shaen.md#急烫馋)】`jieh7 tan5 shaen2` <sup>[东台]</sup> 看到好吃的急着要吃。  
-1. 【[急吞馋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_ten_saen.md#急吞馋)】`jieh7 ten1 saen2` <sup>[如皋]</sup> 十分想吃、吃得很快、吃相饕餮的样子。  
+1. 【[急吞馋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_ten_shaen.md#急吞馋)】`jieh7 ten1 shaen2` <sup>[如皋]</sup> 十分想吃、吃得很快、吃相饕餮的样子。  
 1. 【[急头䙀脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_teu_bon_lin.md#急头䙀脸)】`jieh7 teu2 bon3 lin3` <sup>[东台]</sup> 很着急很生气的样子。  
 1. 【[急宰急杀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_zae_jieh_shaeh.md#急宰急杀)】`jieh7 zae3 jieh7 shaeh7` <sup>[如皋]</sup> 旧时发现禽畜有病，立即宰杀。  
 1. 【[急中急](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_zhon_jieh.md#急中急)】`jieh7 zhon1 jieh7` <sup>[兴化]</sup> 形容急迫匆忙：老婆临产，～，快点儿打的送他上医院。  

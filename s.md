@@ -284,13 +284,6 @@
 1. 【[涎唾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_tu_zz.md#涎唾子)】`saen2 tu5 zz` <sup>[如皋]</sup> 唾液。  
 1. 【[涎唾子气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_tu_zz_qi.md#涎唾子气)】`saen2 tu5 zz qi5` <sup>[如皋]</sup> 唾液干后的臭味。  
 1. 【[涎唾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_tv.md#涎唾)】`saen2 tv5` <sup>[东台]</sup> 同“涎水”。  
-1. 【[馋货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_hu.md#馋货)】`saen2 hu5` <sup>[如皋]</sup> 贬指或昵指好吃者。  
-1. 【[馋急吼吼的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_jieh_heu_heu_dii.md#馋急吼吼的)】`saen2 jieh7 heu3 heu3 dii` <sup>[如皋]</sup> 急着要吃的样子。  
-1. 【[馋急捞捞的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_jieh_lo_lo_dii.md#馋急捞捞的)】`saen2 jieh7 lo1 lo1 dii` <sup>[如皋]</sup> 急着要吃的样子。见“急吞馋”。  
-1. 【[馋猫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_mo_r.md#馋猫<sub>儿</sub>)】`saen2 mo2 r` <sup>[如皋]</sup> 贬指或昵指好吃者。  
-1. 【[馋猫<sub>儿</sub>鼻子尖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_mo_r_pieh_zz_jin.md#馋猫<sub>儿</sub>鼻子尖)】`saen2 mo2 r pieh8 zz jin1` <sup>[如皋]</sup> 趣言。指有了好吃的东西时，正好到来的人。  
-1. 【[馋婆娘磨冷𩚫，磨完吃了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_pu_nian_mu_len_zhen_mu_un_qieh_lio.md#馋婆娘磨冷𩚫，磨完吃了)】`saen2 pu2 nian mu6 len3 zhen5，mu6 un2 qieh7 lio3` <sup>[如皋]</sup> 馋婆娘本来就馋，边磨边吃，磨完了，也吃光了。  
-1. 【[馋水<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_shuei_r.md#馋水<sub>儿</sub>)】`saen2 shuei3 r` <sup>[泰县]</sup> 馋诞，口水。  
 1. 【[伞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen.md#伞)】`saen3` <sup>[如东]</sup> 由伞头、伞骨、伞柄组成。伞骨为竹丝或铁丝。由810根伞骨构成锥体。伞骨上蒙油纸、油布或丝绸布塑料布。可以开合。撑开伞骨，能够挡雨、遮阳。例如雨伞、阳伞等。  
 1. 【[伞顶漏雨——搞到自己头上来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_dien_leu_y_go_do_cz_ji_teu_shan_lae_a.md#伞顶漏雨——搞到自己头上来啊)】`saen3 dien3 leu6 y3 go3 do5 cz6 ji3 teu2 shan6 lae2 a` <sup>[东台]</sup>   
 1. 【[伞骨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_gueh_zz.md#伞骨子)】`saen3 gueh7 zz` <sup>[兴化]</sup> 伞的骨架，由铁丝或竹篾制成，连着伞柄，可使伞张开。  
@@ -659,6 +652,7 @@
 1. 【[杀杀水气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_shaeh_shuei_qi.md#杀杀水气)】`shaeh7 shaeh7 shuei3 qi5` <sup>[如皋]</sup> 发发狠，出掉心中郁闷之气。  
 1. 【[杀馋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_shaen.md#杀馋)】`shaeh7 shaen2` <sup>[如皋]</sup> 解馋。  
 1. 【[杀馋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_shaen.md#杀馋)】`shaeh7 shaen2` <sup>[东台]</sup> 尝一下，初步止馋。  
+1. 【[杀馋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_shaen.md#杀馋)】`shaeh7 shaen2` <sup>[如东]</sup> 充分满足饮食欲望：今朝我吃咖两碗圆子，真～吖！  
 1. 【[杀生害命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_shen_hae_mien.md#杀生害命)】`shaeh7 shen1 hae6 mien6` <sup>[兴化]</sup> 佛教指戕害生灵：“你这猢狲～，连累了我多少，如今实不要你了……”（《西游记》五七）｜“此人前生不敬天地，不孝父母，毁僧谤佛，～……”（《初刻》三五）  
 1. 【[杀神上吖身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_shen_shan_nga_shen.md#杀神上吖身)】`shaeh7 shen2 shan6 nga shen1` <sup>[东台]</sup> 杀气腾腾，不计后果。  
 1. 【[杀头刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_teu_do.md#杀头刀)】`shaeh7 teu2 do1` <sup>[如皋]</sup> 詈语，指在一批要杀的人中第一个捱杀。  
@@ -679,7 +673,6 @@
 1. 【[煞劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_jien.md#煞劲)】`shaeh7 jien5` <sup>[泰县]</sup> 用力。  
 1. 【[煞气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_qi.md#煞气)】`shaeh7 qi5` <sup>[如东]</sup> ① 凶狠，：～腾腾 ② 出气：你不要拿伢儿～。  
 1. 【[煞如](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_rv.md#煞如)】`shaeh7 rv` <sup>[如皋]</sup> 好像：不睬你～搳你，不答你～杀你！  
-1. 【[煞馋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_saen.md#煞馋)】`shaeh7 saen2` <sup>[如东]</sup> 充分满足饮食欲望：今朝我吃咖两碗圆子，真～吖！  
 1. 【[煞着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_zhah.md#煞着)】`shaeh7 zhah7` <sup>[兴化]</sup> 弈棋术语，指厉害的招数：倘或旁观的口嘴不紧，遇～处溜出半句话来，赢者反输，输者反赢……（《醒世恒言》九）也作“杀作”。  
 1. 【[霎霎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_shaeh.md#霎霎)】`shaeh7 shaeh7` <sup>[兴化]</sup> 索性：反正在假期里，～多玩几天再走。  
 1. 【[刹车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_cha.md#刹车)】`shaeh8 cha1` <sup>[东台]</sup> ① 制动车辆，停止前进； ② ［喻］制止某种行为。  
@@ -733,6 +726,9 @@
 1. 【[舢板横板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_baen_on_baen.md#舢板横板)】`shaen1 baen3 on2 baen3` <sup>[如东]</sup> 舢板的头尾横板。  
 1. 【[舢板踏脚板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_baen_taeh_jiah_baen.md#舢板踏脚板)】`shaen1 baen3 taeh8 jiah7 baen3` <sup>[如东]</sup> 舢板盖口上面的平板，较宽，用于行走。  
 1. 【[衫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_r.md#衫<sub>儿</sub>)】`shaen1 r` <sup>[兴化]</sup> ① 衣裳的隐语：来人～破旧。 ② 指上衣。 ③ 也称“衫子”。  
+1. 【[馋货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_hu.md#馋货)】`shaen2 hu5` <sup>[如皋]</sup> 贬指或昵指好吃者。  
+1. 【[馋急吼吼的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_jieh_heu_heu.md#馋急吼吼的)】`shaen2 jieh7 heu3 heu3 dii` <sup>[如皋]</sup> 急着要吃的样子。  
+1. 【[馋急捞捞的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_jieh_lo_lo.md#馋急捞捞的)】`shaen2 jieh7 lo1 lo1 dii` <sup>[如皋]</sup> 急着要吃的样子。见“急吞馋”。  
 1. 【[馋酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_jieu.md#馋酒)】`shaen2 jieu3` <sup>[东台]</sup> 见酒就想喝，虽然酒量不大，但已有瘾。  
 1. 【[馋嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_jy.md#馋嘴)】`shaen2 jy3` <sup>[如东]</sup> 贪吃：不要～。  
 1. 【[馋嘴猫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_jy_mo_r.md#馋嘴猫<sub>儿</sub>)】`shaen2 jy3 mo2 r` <sup>[如东]</sup> 猫儿非常好吃。比喻喜欢吃零食的小儿：冬冬是个～。  
@@ -742,6 +738,10 @@
 1. 【[馋老虎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_lo_hv.md#馋老虎)】`shaen2 lo3 hv3` <sup>[东台]</sup> ［喻］指特别贪食的人。  
 1. 【[馋猫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_mo.md#馋猫)】`shaen2 mo2` <sup>[东台]</sup> ［喻］戏称好吃的人。  
 1. 【[馋猫鼻子尖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_mo_pieh_zz_jin.md#馋猫鼻子尖)】`shaen2 mo2 pieh8 zz jin1` <sup>[东台]</sup> ［喻］以戏谑的口吻说碰上了好吃的东西：你真的是～，我刚刚忙吖些好菜，你来得正好。  
+1. 【[馋猫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_mo_r.md#馋猫<sub>儿</sub>)】`shaen2 mo2 r` <sup>[如皋]</sup> 贬指或昵指好吃者。  
+1. 【[馋猫<sub>儿</sub>鼻子尖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_mo_r_pieh.md#馋猫<sub>儿</sub>鼻子尖)】`shaen2 mo2 r pieh8 zz jin1` <sup>[如皋]</sup> 趣言。指有了好吃的东西时，正好到来的人。  
+1. 【[馋婆娘磨冷𩚫，磨完吃了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_pu_nian_mu.md#馋婆娘磨冷𩚫，磨完吃了)】`shaen2 pu2 nian mu6 len3 zhen5，mu6 un2 qieh7 lio3` <sup>[如皋]</sup> 馋婆娘本来就馋，边磨边吃，磨完了，也吃光了。  
+1. 【[馋水<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_shuei_r.md#馋水<sub>儿</sub>)】`shaen2 shuei3 r` <sup>[泰县]</sup> 馋诞，口水。  
 1. 【[硕腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shah_ty.md#硕腿)】`shah7 ty3` <sup>[东台]</sup> 血丝虫病或者静脉曲张引起的下肢水肿。  
 1. 【[勺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shah.md#勺)】`shah8` <sup>[如皋]</sup> 较大舀具：铜～、汤～、挂～统称～子。与较小的“勺儿”相对。  
 1. 【[勺角<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shah_gah_r.md#勺角<sub>儿</sub>)】`shah8 gah7 r` <sup>[如皋]</sup> 形状不正或不规则的小块零料。  
