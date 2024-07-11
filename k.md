@@ -565,6 +565,7 @@
 1. 【[口味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_vei.md#口味)】`keu3 vei6` <sup>[如东]</sup> 食品的滋味：紫菜的～好。  
 1. 【[口味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_vei.md#口味)】`keu3 vei6` <sup>[如皋]</sup> 口感。  
 1. 【[口小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_xio.md#口小)】`keu3 xio3` <sup>[兴化]</sup> ① 菜比较淡。反之“口大”。 ② 牛马等牲畜年岁较小。反之“口老”。  
+1. 【[口谕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_y.md#口谕)】`keu3 y` <sup>[兴化]</sup> 婚俗：女方将生辰八字交给男方，由巫者合婚，谓之“发～”。  
 1. 【[口子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_zz.md#口子)】`keu3 zz` <sup>[如东]</sup> ① 一个洞：灯笼上有一个～。 ② 一条裂缝：衣服上划啊一条～。  
 1. 【[口子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_zz.md#口子)】`keu3 zz` <sup>[如皋]</sup> 食物、食品的咸度：～大（咸）、～小（淡）。  
 1. 【[口子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_zz.md#口子)】`keu3 zz` <sup>[东台]</sup> ① 指人口，也特指夫妻之中的一人：两～｜我家那～。 ② 物体或皮肤破裂的地方：手臂上有个～｜堤坝～。 ③ 先例：开～。 ④ 类型相近的行政系统：政法～｜农林～｜财税～。  
@@ -768,7 +769,6 @@
 1. 【[共账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_zhan.md#共账)】`kon6 zhan5` <sup>[兴化]</sup> 互有账目往来：我俫～七八年，不曾有过差错。  
 1. 【[共总](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_zon.md#共总)】`kon6 zon3` <sup>[如皋]</sup> 总共。  
 1. 【[共总](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_zon.md#共总)】`kon6 zon3` <sup>[东台]</sup> 一共；合计；总共。  
-1. 【[口谕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kou_y.md#口谕)】`kou3 y` <sup>[兴化]</sup> 婚俗：女方将生辰八字交给男方，由巫者合婚，谓之“发～”。  
 1. 【[圐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku.md#圐)】`ku1` <sup>[如皋]</sup> ① 画圈：～圆圈儿、把字～掉。 ② 日、月之晕：太阳～啊、凉日子～啊。  
 1. 【[圐仿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku_fan.md#圐仿)】`ku1 fan3` <sup>[如皋]</sup> 看毛笔字练习簿时，给写得好的字用红笔加圆圈，以示嘉奖。  
 1. 【[棵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku.md#棵)】`ku1` <sup>[东台]</sup> 除作为量词外，还指移植后成活的植株：醒～。  
