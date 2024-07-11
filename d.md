@@ -282,7 +282,7 @@
 1. 【[打瞌𥅻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_kuh_chon.md#打瞌𥅻)】`da3 kuh7 chon5` <sup>[如皋]</sup> 见“瞌𥅻”。  
 1. 【[打瞌𥅻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_kuh_chon.md#打瞌𥅻)】`da3 kuh7 chon5` <sup>[东台]</sup> 打瞌睡。喻指懵懵懂懂。  
 1. 【[打瞌𥅻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_kuh_chon.md#打瞌𥅻)】`da3 kuh7 chon5` <sup>[兴化]</sup> 由疲倦而进入睡眠或半睡眠状态：他看书看得行行的，倒～吖。  
-1. 【[打瞌睡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_kuh_shuei.md#打瞌睡)】`da3 kuh7 shuei6` <sup>[如东]</sup> 昏昏欲睡的样子。  
+1. 【[打瞌睡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_kuh_shuei.md#打瞌睡)】`da3 kuh7 shuei5` <sup>[如东]</sup> 昏昏欲睡的样子。  
 1. 【[打坎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_kun.md#打坎)】`da3 kun3` <sup>[兴化]</sup> 打瞌睡。  
 1. 【[打坎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_kun.md#打坎)】`da3 kun3` <sup>[东台]</sup> 打瞌睡。（原文作“打瞌”，备注“‘瞌’原为入声字，通过阳入对转，白读若‘款’”）  
 1. 【[打来骂来，折本不来；横说竖说，假话不说](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lae_ma_lae_shih_ben_beh_lae_on_shuh_shv_shuh_jia_hua_beh_shuh.md#打来骂来，折本不来；横说竖说，假话不说)】`da3 lae2 ma6 lae2 shih8 ben3 beh7 lae2 on2 shuh7 shv6 shuh7 jia3 hua6 beh7 shuh7` <sup>[东台]</sup> 随机应变要守住底线。  

@@ -1137,11 +1137,11 @@
 1. 【[瞌睡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh_shuei.md#瞌睡)】`kuh7 shuei5` <sup>[如东]</sup> 打盹。  
 1. 【[瞌睡虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh_shuei_chon.md#瞌睡虫)】`kuh7 shuei5 chon2` <sup>[泰县]</sup> 好睡觉的人。  
 1. 【[瞌睡虫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh_shuei_chon_r.md#瞌睡虫<sub>儿</sub>)】`kuh7 shuei5 chon2 r` <sup>[如东]</sup> 比喻好睡觉的人。  
+1. 【[瞌睡虫<sub>儿</sub>上吖身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh_shuei_chon_r_shan_nga_shen.md#瞌睡虫<sub>儿</sub>上吖身)】`kuh7 shuei5 chon2 r shan6 nga shen1` <sup>[如皋]</sup> 打瞌睡。  
 1. 【[瞌睡帽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh_shuei_mo.md#瞌睡帽)】`kuh7 shuei5 mo6` <sup>[泰县]</sup> 死人戴的帽子。  
 1. 【[瞌睡帽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh_shuei_mo_zz.md#瞌睡帽子)】`kuh7 shuei5 mo6 zz` <sup>[兴化]</sup> 旧称给死人戴的帽子。  
 1. 【[瞌睡碰到枕头——正巧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh_shuei_pon_do_zhen_teu_zhen_qio.md#瞌睡碰到枕头——正巧)】`kuh7 shuei5 pon5 do5 zhen3 teu2 zhen5 qio3` <sup>[东台]</sup>   
 1. 【[瞌睡送枕头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh_shuei_son_zhen_teu.md#瞌睡送枕头)】`kuh7 shuei5 son5 zhen3 teu` <sup>[东台]</sup> ［喻］提供的帮助正合对方心意，而且及时。  
-1. 【[瞌睡虫<sub>儿</sub>上吖身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh_shuei_chon_r_shan_nga_shen.md#瞌睡虫<sub>儿</sub>上吖身)】`kuh7 shuei6 chon2 r shan6 nga shen1` <sup>[如皋]</sup> 打瞌睡。  
 1. 【[磕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh.md#磕)】`kuh7` <sup>[如皋]</sup> ① 用碓把粮食舂成粉：～场米糏、～圆子糏。 ② 伏跌：面～地。 ③ 轻击：～烟灰。  
 1. 【[磕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh.md#磕)】`kuh7` <sup>[东台]</sup> 跌：～咖个跟头。  
 1. 【[磕拜香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh_bae_xian.md#磕拜香)】`kuh7 bae5 xian1` <sup>[兴化]</sup> 迎神赛会时拜香还愿的人，手捧香凳，自庙出发，沿途逢庙宇，桥梁、巷口均虔诚拜揖。（见《兴化市志·民俗》）  

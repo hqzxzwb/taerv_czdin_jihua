@@ -2929,7 +2929,9 @@
 1. 【[水子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_zz.md#水子)】`shuei3 zz` <sup>[兴化]</sup> 钞票的隐语。  
 1. 【[瑞雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_xiuh.md#瑞雪)】`shuei5 xiuh7` <sup>[如东]</sup> 冬天降雪，称瑞雪。  
 1. 【[睡啊鼓里摸钟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_a_gv_lii_mah_zhon.md#睡啊鼓里摸钟)】`shuei5 a gv3 lii mah8 zhon1` <sup>[兴化]</sup> 处于封闭、隔膜状态：你～，对外头的情况全然不知。“睡”也作“睏”。  
+1. 【[睡不眠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_beh_min.md#睡不眠)】`shuei5 beh7 min2` <sup>[如皋]</sup> 睡眠浅，似睡非睡。  
 1. 【[睡长觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_chan_go.md#睡长觉)】`shuei5 chan2 go5` <sup>[兴化]</sup> 骂人长睡不醒，死也：这个家伙坏事做绝，终于睡啊长觉。  
+1. 【[睡得眠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_deh_min.md#睡得眠)】`shuei5 deh7 min2` <sup>[如皋]</sup> 睡眠深，熟睡。  
 1. 【[睡得死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_deh_sz.md#睡得死)】`shuei5 deh7 sz3` <sup>[如东]</sup> 睡眠深熟。  
 1. 【[睡觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_go.md#睡觉)】`shuei5 go5` <sup>[如东]</sup> 进人睡眠状态。  
 1. 【[睡椅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_i.md#睡椅)】`shuei5 i3` <sup>[兴化]</sup> 靠背长而后倾的椅子，人可斜躺在上面。也称“躺椅”。  
@@ -2940,8 +2942,6 @@
 1. 【[睡中觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_zhon_go.md#睡中觉)】`shuei5 zhon1 go5` <sup>[东台]</sup> 中午睡觉。  
 1. 【[睡早觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_zo_go.md#睡早觉)】`shuei5 zo3 go5` <sup>[兴化]</sup> 贪睡，起身迟：他喜欢～，八点多钟还躺吖在床上！  
 1. 【[睡早曦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_zo_xi.md#睡早曦)】`shuei5 zo3 xi` <sup>[东台]</sup> 早上睡懒觉，迟迟不起床：最近事情多，不能～。  
-1. 【[睡不眠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_beh_min.md#睡不眠)】`shuei6 beh7 min2` <sup>[如皋]</sup> 睡眠浅，似睡非睡。  
-1. 【[睡得眠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_deh_min.md#睡得眠)】`shuei6 deh7 min2` <sup>[如皋]</sup> 睡眠深，熟睡。  
 1. 【[纯和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_hu.md#纯和)】`shuen2 hu` <sup>[兴化]</sup> 柔软、纯熟：新稻草戳人，要捶捶铺床才～。｜“咦喂，这个新稻草不～啊，戳人呀……”（《武松》六）  
 1. 【[菟丝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_sz.md#菟丝)】`shuen2 sz1` <sup>[如东]</sup> 旋花科植物菟丝子，又名无根草，一年生寄生草本。茎细柔呈线状，左旋缠绕，多分枝，黄色，随处生吸器，侵入寄主组织内。无绿色叶，而有三角状卵形鳞片叶。花白色，簇生。蒴果扁球形，褐色。种子卵圆形，黄褐色。寄生在草本植物秆茎上。  
 1. 【[醇和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_hu.md#醇和)】`shuen2 hu` <sup>[兴化]</sup> 形容人淳朴、和善：这个人性子蛮～的。｜……马琼琼见朱廷之生性～……几次央浼姐姐与杨谦说，要与朱廷之相处。（《西湖二集》十一）  
