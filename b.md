@@ -725,7 +725,7 @@
 1. 【[不夫不妻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_fv_beh_qi.md#不夫不妻)】`beh7 fv1 beh7 qi1` <sup>[如东]</sup> 男女关系不太正常：两个人～的，像个甚的样子。  
 1. 【[不尴尬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_gaen_ga.md#不尴尬)】`beh7 gaen1 ga5` <sup>[兴化]</sup> ① 不方便：如果～，尽管来找我。 ② 处于两难境地，不好处理：“这事～……银子又用的精光，还剩了一屁股两肋巴的债……”（《儒林外史》五四） ③ 事有可疑：“大姐，这两个人来的～。”（《水浒传》十）  
 1. 【[不够动筷<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_geu_ton_kuae_r.md#不够动筷<sub>儿</sub>)】`beh7 geu5 ton6 kuae5 r` <sup>[如皋]</sup> 状饭、菜少。  
-1. 【[不够啧啊牙缝<sub>儿</sub>里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_geu_zz_a_nga_fon_r_lii.md#不够啧啊牙缝<sub>儿</sub>里)】`beh7 geu5 zz5 a nga2 fon6 r lii` <sup>[如皋]</sup> 状吃的东西太少了。  
+1. 【[不够𧂐啊牙缝<sub>儿</sub>里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_geu_zz_a.md#不够𧂐啊牙缝<sub>儿</sub>里)】`beh7 geu5 zz5 a nga2 fon6 r lii` <sup>[如皋]</sup> 状吃的东西太少了。  
 1. 【[不公不法](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_gon_beh_faeh.md#不公不法)】`beh7 gon1 beh7 faeh7` <sup>[兴化]</sup> 违背道德和法纪：他仗吖老子的势，常做些～的事。｜那牛皋吃惯了的人，怎熬得清淡，未免做些～的事。（《说岳全传》二一）  
 1. 【[不过意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_gu_i.md#不过意)】`beh7 gu1 i5` 不好意思，过意不去  
 1. 【[不裹嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_gu_jy.md#不裹嘴)】`beh7 gu3 jy3` <sup>[如皋]</sup> 自家人破坏自己的威信：不要看他说嘴叭叭的，他家儿子～，还做贼吤（gae）！  

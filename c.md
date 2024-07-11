@@ -65,7 +65,6 @@
 1. 【[彩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_zz.md#彩子)】`cae3 zz` <sup>[如东]</sup> 海滩上结成的细小冰块，叫彩子。  
 1. 【[睬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae.md#睬)】`cae3` 理睬，答应  
 1. 【[睬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae.md#睬)】`cae3` <sup>[如皋]</sup> 答理、理睬：他不～我；不～你赛如搳你；他俫淘啊气，不～啊啦。  
-1. 【[菜梗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_gen_r.md#菜梗<sub>儿</sub>)】`cae3 gen3 r` <sup>[如皋]</sup> 菜的叶柄。  
 1. 【[踩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae.md#踩)】`cae3` <sup>[如东]</sup> 用脚轻轻地踏。  
 1. 【[踩高跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_go_qio.md#踩高跷)】`cae3 go1 qio1` <sup>[东台]</sup> 一种民间表演形式。表演者双脚缚在木制撬棍上，高约13米，装扮成戏中人物，边走边表演。  
 1. 【[踩摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_mah.md#踩摸)】`cae3 mah8` <sup>[兴化]</sup> 打听、调查：这件事先～～再做决断。｜情况～不真不能乱来。  
@@ -85,6 +84,7 @@
 1. 【[菜饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_faen.md#菜饭)】`cae5 faen6` <sup>[兴化]</sup> ① 青菜末和大米煮成的饭。 ② 谓只有素菜的饭食，比喻生活清苦：粗布衣，～饱。 ③ 东南乡也称“酸饭”。  
 1. 【[菜芥<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_gae_r.md#菜芥<sub>儿</sub>)】`cae5 gae5 r` <sup>[如皋]</sup> ① 菜初生的两片子叶。 ② 间苗拔下的菜苗。  
 1. 【[菜梗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_gen_r.md#菜梗<sub>儿</sub>)】`cae5 gen3 r` <sup>[如东]</sup> 菜的茎。  
+1. 【[菜梗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_gen_r.md#菜梗<sub>儿</sub>)】`cae5 gen3 r` <sup>[如皋]</sup> 菜的叶柄。  
 1. 【[菜瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_gua.md#菜瓜)】`cae5 gua1` <sup>[兴化]</sup> 即“越瓜”。一年生草本植物，果实筒形，深绿色，可以腌瓜菜。  
 1. 【[菜馆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_gun.md#菜馆)】`cae5 gun3` <sup>[兴化]</sup> 出售饭菜的店铺。  
 1. 【[菜蕻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_hon_zz.md#菜蕻子)】`cae5 hon5 zz` <sup>[如皋]</sup> 见“菜莛儿”。  
