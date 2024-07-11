@@ -963,7 +963,7 @@
 1. 【[萎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei.md#萎)】`vei1` <sup>[东台]</sup> 疲倦，累：把你忙吖～啊。（“萎”读若“威”）。  
 1. 【[萎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei.md#萎)】`vei1` <sup>[兴化]</sup> 疲乏：他忙吖一天，刚晚就～下来啊。《集韵·贿韵》乌贿切｜“～，萎脮，软弱也。”  
 1. 【[萎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei.md#萎)】`vei1` <sup>[泰县]</sup> ① 疲劳：今吖他挑啊一天的泥，～煞咖。 ② 捧、托，添：～毛窝。  
-1. 【[萎困](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_kuen.md#萎困)】`vei1 kuen5` <sup>[兴化]</sup> 过度疲劳：他做啊一天重活技，吃夜饭的时候一阵～，筷子一放就睡着咖。  
+1. 【[萎睏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_kuen.md#萎睏)】`vei1 kuen5` <sup>[兴化]</sup> 过度疲劳：他做啊一天重活技，吃夜饭的时候一阵～，筷子一放就睡着咖。  
 1. 【[萎煞咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_shaeh_ga.md#萎煞咖)】`vei1 shaeh7 ga` <sup>[东台]</sup> 疲劳极了。  
 1. 【[萎头耷屌的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_teu_dah_dio_dii.md#萎头耷屌的)】`vei1 teu2 dah7 dio3 dii` <sup>[如皋]</sup> 见“萎头耷脑的”。  
 1. 【[萎头耷脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_teu_dah_no.md#萎头耷脑)】`vei1 teu2 dah7 no3` <sup>[东台]</sup> 情绪低落没得精神，萎靡不振的样子。  

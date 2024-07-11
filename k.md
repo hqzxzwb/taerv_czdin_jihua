@@ -662,7 +662,7 @@
 1. 【[㩭蛮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_maen.md#㩭蛮)】`ko6 maen2` <sup>[东台]</sup> 蛮不讲理地纠缠：要耐心接待，不要轻易说上访群众～。  
 1. 【[㩭边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_pin.md#㩭边)】`ko6 pin1` <sup>[如皋]</sup> 锁边机给布料锁边。  
 1. 【[㩭七㩭八的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_qieh_ko_baeh_dii.md#㩭七㩭八的)】`ko6 qieh7 ko6 baeh7 dii` <sup>[如皋]</sup> 纠缠在一起乱七八糟的样子。  
-1. 【[哭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/koh.md#哭)】`koh7` <sup>[如东]</sup> 困痛苦悲哀或感情激动而流泪，有时还发出声音。  
+1. 【[哭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/koh.md#哭)】`koh7` <sup>[如东]</sup> 因痛苦悲哀或感情激动而流泪，有时还发出声音。  
 1. 【[哭宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/koh_bo_r.md#哭宝<sub>儿</sub>)】`koh7 bo3 r` 爱哭的小孩。  
 1. 【[哭宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/koh_bo_r.md#哭宝<sub>儿</sub>)】`koh7 bo3 r` <sup>[如皋]</sup> 爱哭伢儿的谑称。  
 1. 【[哭宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/koh_bo_r.md#哭宝<sub>儿</sub>)】`koh7 bo3 r` <sup>[东台]</sup> 爱哭的小孩。  
@@ -1090,7 +1090,7 @@
 1. 【[捆捆扎扎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_kuen_zhaeh_zhaeh.md#捆捆扎扎)】`kuen3 kuen3 zhaeh7 zhaeh7` <sup>[东台]</sup> 把东西收拾好，捆起来扎起来。  
 1. 【[捆捆扎扎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_kuen_zhaeh_zhaeh.md#捆捆扎扎)】`kuen3 kuen3 zhaeh7 zhaeh7` <sup>[兴化]</sup> 把东西归并、收拢在一起：把你的破烂～走路吧！  
 1. 【[捆盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_pun.md#捆盘)】`kuen3 pun2` <sup>[如皋]</sup> 转让企业时估算总价格。  
-1. 【[困](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen.md#困)】`kuen5` ［睏］睡觉：～早起/早晨睡懒觉｜～中觉/睡午觉  
+1. 【[睏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen.md#睏)】`kuen5` 睡觉：～早起/早晨睡懒觉｜～中觉/睡午觉  
 1. 【[睏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen.md#睏)】`kuen5` <sup>[如东]</sup> ① 疲劳欲睡的状态。 ② 睡觉。  
 1. 【[睏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen.md#睏)】`kuen5` <sup>[如皋]</sup> ① 睡。 ② 欲睡：伢儿作～场。 ③ 粗鄙语，指不正当两性关系。  
 1. 【[睏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen.md#睏)】`kuen5` <sup>[兴化]</sup> 睡觉：“我～在大门旁边南屋里，你老有事，来招呼我罢。”（《老残游记》五）  

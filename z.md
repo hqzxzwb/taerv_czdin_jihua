@@ -195,8 +195,8 @@
 1. 【[作急](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_jieh.md#作急)】`zah7 jieh7` <sup>[如东]</sup> 心中焦急。  
 1. 【[作急慌忙的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_jieh_huan_man_dii.md#作急慌忙的)】`zah7 jieh7 huan1 man2 dii` <sup>[如皋]</sup> 见“作兴慌忙的”。  
 1. 【[作九](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_jieu.md#作九)】`zah7 jieu3` <sup>[兴化]</sup> 冬至后，伴随每个“九”的到来往往风雪变天：后朝交四九，又要～啦。  
-1. 【[作困床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_kuen_chuan.md#作困床)】`zah7 kuen5 chuan2` <sup>[如东]</sup> 躺在床上睡不着，叫作困床。  
 1. 【[作睏场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_kuen_chan.md#作睏场)】`zah7 kuen5 chan2` <sup>[如皋]</sup> 小孩欲睡而哭闹。  
+1. 【[作睏床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_kuen_chuan.md#作睏床)】`zah7 kuen5 chuan2` <sup>[如东]</sup> 躺在床上睡不着  
 1. 【[作渴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_kuh.md#作渴)】`zah7 kuh7` <sup>[如皋]</sup> 口渴。  
 1. 【[作渴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_kuh.md#作渴)】`zah7 kuh7` <sup>[兴化]</sup> 口中干渴思饮。也称“作干”：“我今日比昨不同，咽喉里十分～。你去那里，有凉水寻些来我吃。”（《西游记》八一）  
 1. 【[作料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_lio.md#作料)】`zah7 lio` <sup>[如皋]</sup> 调味品、调味材料。  
