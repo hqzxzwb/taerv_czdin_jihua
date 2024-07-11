@@ -1832,7 +1832,7 @@
 1. 【[还债](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_zhae.md#还债)】`huaen2 zhae5` <sup>[如东]</sup> ① 支付借款。 ② 偿还人情：你过去待我那吖好，我是来～的。  
 1. 【[还债](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_zhae.md#还债)】`huaen2 zhae5` <sup>[东台]</sup> 归还所欠的债务。  
 1. 【[还账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_zhan.md#还账)】`huaen2 zhan5` <sup>[如东]</sup> 偿还借款。  
-1. 【[抝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen.md#抝)】`huaen5` 甩  
+1. 【[𫝺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen.md#𫝺)】`huaen5` 甩  
 1. 【[幻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen.md#幻)】`huaen6` <sup>[兴化]</sup> 一种捕鱼设施，内部曲折迁回，鱼类进入后，只能向前，不能后退，直至被捕获。  
 1. 【[患](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen.md#患)】`huaen6` <sup>[兴化]</sup> ① 某些经常发作的病痛：他身上有个～，成年面黄肌瘦的。｜“……我看你这牙子真是个～，一年都要发好几次……”（场二：《混城》） ② 祸患：满让我把这几个拿住，为首的跑了，以后仍然是～……（《小五义》八〇）  
 1. 【[患根](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_gen.md#患根)】`huaen6 gen1` <sup>[兴化]</sup> ① 病根：你到大医院看看，把身上～除掉。 ② 祸根：这个匪首漏网，又留下一个～。  
