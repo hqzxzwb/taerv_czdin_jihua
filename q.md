@@ -1064,7 +1064,7 @@
 1. 【[清序](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_qy.md#清序)】`qien1 qy6` <sup>[东台]</sup> 嘈杂情况结束了，显得很清静：些伢儿走啊，才～啊。  
 1. 【[清爽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_shuan.md#清爽)】`qien1 shuan` ① 明白，知道，清楚 ② 清晰，不模糊  
 1. 【[清爽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_shuan.md#清爽)】`qien1 shuan` <sup>[东台]</sup> 干净、整洁：家里蛮～的。  
-1. 【[清爽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_shuan.md#清爽)】`qien1 shuan3` <sup>[如东]</sup> ① 干净：家里收拾得～ ② 清楚：来往帐目～。  
+1. 【[清爽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_shuan.md#清爽)】`qien1 shuan3` <sup>[如东]</sup> ① 干净：家里收拾得～ ② 清楚：来往账目～。  
 1. 【[清爽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_shuan.md#清爽)】`qien1 shuan3` <sup>[兴化]</sup> ① 洁净：把房间打扫～。 ② 清楚：他写的字我看不～。 ③ 清淡爽口：大热的天，点～的。 ④ 清净：“……这回来上海，不知道怎么被他打听着，天天来缠不～……”（《官场现形记》十一）  
 1. 【[清水货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_shuei_hu.md#清水货)】`qien1 shuei3 hu5` <sup>[兴化]</sup> 指漆家具时不上底色，显出木板自然纹路。  
 1. 【[清水货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_shuei_hu.md#清水货)】`qien1 shuei3 hu5` <sup>[泰县]</sup> 不加色彩油漆的家具：这家具是～。  
@@ -1648,8 +1648,8 @@
 1. 【[欠人情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_ren_qien.md#欠人情)】`qin5 ren2 qien2` <sup>[如皋]</sup> ① 受恩惠而未报答。 ② 收到人情而未回馈  
 1. 【[欠手续](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_sheu_soh.md#欠手续)】`qin5 sheu3 soh` <sup>[兴化]</sup> 指欠债未还。因为借贷时常办有相关手续，故如是说。  
 1. 【[欠债](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_zhae.md#欠债)】`qin5 zhae5` <sup>[如东]</sup> 借钱未还。  
-1. 【[欠帐交易](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_zhan_jio_i.md#欠帐交易)】`qin5 zhan5 jio1 i` <sup>[如皋]</sup> 买货而不给现钱只记帐的交易。  
 1. 【[欠账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_zhan.md#欠账)】`qin5 zhan5` <sup>[如东]</sup> 购买商品暂不付钱，叫欠账。  
+1. 【[欠账交易](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_zhan_jio_i.md#欠账交易)】`qin5 zhan5 jio1 i` <sup>[如皋]</sup> 买货而不给现钱只记账的交易。  
 1. 【[歉收](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_sheu.md#歉收)】`qin5 sheu1` <sup>[如东]</sup> 收成不好：今年小麦～。  
 1. 【[纤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin.md#纤)】`qin5` <sup>[如东]</sup> 帆船上用于抛锚的粗缆绳。  
 1. 【[纤板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_baen.md#纤板)】`qin5 baen3` <sup>[如皋]</sup> 纤夫背船行进时肩、胸部担劲的短木扁担。  

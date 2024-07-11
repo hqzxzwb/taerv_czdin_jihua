@@ -526,8 +526,8 @@
 1. 【[绕线](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_xin.md#绕线)】`ro6 xin5` <sup>[如皋]</sup> 把线绕上架子或绕成线球。  
 1. 【[绕线板子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_xin_baen_zz.md#绕线板子)】`ro6 xin5 baen3 zz` <sup>[东台]</sup> 原指纺纱绕线的板子，后喻指小孩贪玩，好动。  
 1. 【[绕线砣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_xin_tu_zz.md#绕线砣子)】`ro6 xin5 tu2 zz` <sup>[如皋]</sup> 打丝线的一道程序。把丝的一端绕结在线砣子柄的槽中，并上架。  
-1. 【[绕帐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_zhan.md#绕帐)】`ro6 zhan5` <sup>[如皋]</sup> ① 敷衍应付：他同你玩～，不是真心。 ② 质量差：这种货不能买。  
-1. 【[绕帐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_zhan.md#绕帐)】`ro6 zhan5` <sup>[如皋]</sup> 敷衍了事。  
+1. 【[绕账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_zhan.md#绕账)】`ro6 zhan5` <sup>[如皋]</sup> ① 敷衍应付：他同你玩～，不是真心。 ② 质量差：这种货不能买。  
+1. 【[绕账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_zhan.md#绕账)】`ro6 zhan5` <sup>[如皋]</sup> 敷衍了事。  
 1. 【[肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh.md#肉)】`roh8` <sup>[如皋]</sup> 贬指傻而韧。  
 1. 【[肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh.md#肉)】`roh8` <sup>[兴化]</sup> 认死理，不知进退：人家让你，就覅～吧！｜与你无关的事，你说甚的戗话？～吤！  
 1. 【[肉板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_baen.md#肉板)】`roh8 baen3` <sup>[如东]</sup> 帆船眼板下边的一块很宽的木板，叫肉板。  

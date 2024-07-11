@@ -1593,7 +1593,7 @@
 1. 【[暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#暴)】`bo5` <sup>[兴化]</sup> ① 突然：那人原是闲吏……近来～有几贯浮财，只是为人行短。（《水浒传》四三） ② 显露：“事无可奈何，其所摧败，功亦足以～于天下。”（司马迁《报任少卿书》） ③ 开始、新：“～上毛坑三日新……”（《广陵潮》十二）  
 1. 【[暴暴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_bo_dii.md#暴暴的)】`bo5 bo5 dii` <sup>[兴化]</sup> 刚开始、突然的：今日～到店里来住，嘿，巧书甚多！（《武松》六）  
 1. 【[暴伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_foh.md#暴伏)】`bo5 foh8` <sup>[如东]</sup> 夏天将衣物放在外面曝晒。  
-1. 【[暴伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_foh.md#暴伏)】`bo5 foh8` <sup>[如皋]</sup> ① 霉雨季后，伏天防霉，暴晒衣物。 ② 使在烈日下暴晒。 ③ 旧事重提，算旧帐。  
+1. 【[暴伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_foh.md#暴伏)】`bo5 foh8` <sup>[如皋]</sup> ① 霉雨季后，伏天防霉，暴晒衣物。 ② 使在烈日下暴晒。 ③ 旧事重提，算旧账。  
 1. 【[暴太阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_tae_ian.md#暴太阳)】`bo5 tae5 ian` <sup>[如皋]</sup> 日照强烈。见“太阳暴”。  
 1. 【[暴雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_y.md#暴雨)】`bo5 y3` <sup>[如皋]</sup> 短期内雨势急、雨量大的雨。不同于气象学解释的暴雨。  
 1. 【[暴躁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_zo.md#暴躁)】`bo5 zo5` <sup>[如皋]</sup> ① 急躁。 ② 果断、干脆。  

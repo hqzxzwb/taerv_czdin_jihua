@@ -1924,7 +1924,6 @@
 1. 【[拽材](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih_cae.md#拽材)】`ih8 cae2` <sup>[如皋]</sup> 出殡时，孝子、孝孙在棺材前结白布牵引。  
 1. 【[页子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih_zz.md#页子)】`ih8 zz` <sup>[兴化]</sup> 钞票的隐语：好东好西我全想要，可惜手上没～。  
 1. 【[咦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ii.md#咦)】`ii2` <sup>[如东]</sup> 表示疑问惊讶的词。  
-1. 【[盐豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iin_teu.md#盐豆)】`iin2 teu6` <sup>[兴化]</sup> 炒黄豆洒盐水制成的食品：桌上纵纵横横乱摆着几个瓜子碟子，几个～碟子……（《广陵潮》十五）  
 1. 【[咽喉屌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_heu_dio_r.md#咽喉屌<sub>儿</sub>)】`in1 heu2 dio3 r` <sup>[如皋]</sup> 悬雍垂。  
 1. 【[咽喉屌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_heu_dio_r.md#咽喉屌<sub>儿</sub>)】`in1 heu2 dio3 r` <sup>[东台]</sup> 就是小舌头，学名叫悬雍垂：我这两天受啊凉，怕的～忑下来了，噎唾沫总疼。  
 1. 【[咽喉屌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_heu_dio_r.md#咽喉屌<sub>儿</sub>)】`in1 heu2 dio3 r` <sup>[兴化]</sup> 悬雍垂。  
@@ -2051,6 +2050,7 @@
 1. 【[盐生果<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_shen_gu_r.md#盐生果<sub>儿</sub>)】`in2 shen1 gu3 r` <sup>[如皋]</sup> 用盐水烫过，晾干炒熟的花生米儿。  
 1. 【[盐霜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_shuan.md#盐霜)】`in2 shuan1` <sup>[东台]</sup> 含盐分的东西干燥后表面呈现出白色细盐粒，像霜一样。  
 1. 【[盐水肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_shuei_roh.md#盐水肉)】`in2 shuei3 roh8` <sup>[如皋]</sup> 略腌后水煮的大块猪肉。  
+1. 【[盐豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_teu.md#盐豆)】`in2 teu6` <sup>[兴化]</sup> 炒黄豆洒盐水制成的食品：桌上纵纵横横乱摆着几个瓜子碟子，几个～碟子……（《广陵潮》十五）  
 1. 【[盐文化](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_ven_hua.md#盐文化)】`in2 ven2 hua5` <sup>[东台]</sup> 先民煎盐生产活动中逐渐形成的独具特色的意识形态。  
 1. 【[盐灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_zo.md#盐灶)】`in2 zo5` <sup>[如东]</sup> ① 烧盐的灶。用泥土砌成，长条形，一般安放5至7口整锅。 ② 烧盐的地方：住啊在～里。  
 1. 【[盐灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_zo.md#盐灶)】`in2 zo5` <sup>[东台]</sup> 煮海水煎盐所用的灶。后来灶名逐步变为地名。  

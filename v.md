@@ -609,7 +609,7 @@
 1. 【[玩意<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_i_r.md#玩意<sub>儿</sub>)】`vaen2 i5 r` <sup>[如东]</sup> 东西：那是甚的～？比喻无足轻重的人。  
 1. 【[玩意<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_i_r.md#玩意<sub>儿</sub>)】`vaen2 i5 r` <sup>[泰县]</sup> 无足轻重的人或事。  
 1. 【[玩意<sub>儿</sub>头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_i_r_teu.md#玩意<sub>儿</sub>头)】`vaen2 i5 r teu2` <sup>[如东]</sup> 比喻品格低下的人：他算个甚的～！  
-1. 【[玩意<sub>儿</sub>帐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_i_r_zhan.md#玩意<sub>儿</sub>帐)】`vaen2 i5 r zhan5` <sup>[如皋]</sup> 毫不在乎：他花起钱来如敌（vaeh8）水，千吖八百的～。  
+1. 【[玩意<sub>儿</sub>账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_i_r_zhan.md#玩意<sub>儿</sub>账)】`vaen2 i5 r zhan5` <sup>[如皋]</sup> 毫不在乎：他花起钱来如敌（vaeh8）水，千吖八百的～。  
 1. 【[玩意<sub>儿</sub>账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_i_r_zhan.md#玩意<sub>儿</sub>账)】`vaen2 i5 r zhan5` <sup>[如东]</sup> 不是正规的门路，碰碰机会：这是～，也许会成功。  
 1. 【[玩意头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_i_teu.md#玩意头)】`vaen2 i5 teu2` <sup>[泰县]</sup> ① 玩具。 ② 脾气随和的人。  
 1. 【[玩意账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_i_zhan.md#玩意账)】`vaen2 i5 zhan5` <sup>[东台]</sup> 同“玩意腔”。  

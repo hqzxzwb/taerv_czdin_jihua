@@ -1798,7 +1798,7 @@
 1. 【[𢽚屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_pi_gu.md#𢽚屁股)】`zhuah7 pi5 gu` <sup>[如皋]</sup> 人体落下时，屁股先触及物体而被反弹力打击。  
 1. 【[𢽚钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_qin.md#𢽚钱)】`zhuah7 qin2` <sup>[如皋]</sup> 清点钱数。  
 1. 【[𢽚瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_va.md#𢽚瓦)】`zhuah7 va3` <sup>[如皋]</sup> 整理屋面瓦。  
-1. 【[𢽚账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_zhan.md#𢽚账)】`zhuah7 zhan5` <sup>[如皋]</sup> 清理、清点帐目。  
+1. 【[𢽚账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_zhan.md#𢽚账)】`zhuah7 zhan5` <sup>[如皋]</sup> 清理、清点账目。  
 1. 【[𢽚𢽚齐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_zhuah_qi.md#𢽚𢽚齐)】`zhuah7 zhuah7 qi2` <sup>[如皋]</sup> 整理时带有拍打动作，使之变得整齐：你把橱里的书～。  
 1. 【[妆妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuan_ma.md#妆妈)】`zhuan1 ma1` <sup>[如皋]</sup> 见“扯脸的”。  
 1. 【[妆妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuan_ma.md#妆妈)】`zhuan1 ma1` <sup>[如东]</sup> 为新娘梳洗打扮的女人，称妆妈。  

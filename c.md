@@ -173,7 +173,7 @@
 1. 【[暂为](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/caen_vei.md#暂为)】`caen6 vei2` <sup>[如东]</sup> 暂时。  
 1. 【[暂为](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/caen_vei.md#暂为)】`caen6 vei2` <sup>[兴化]</sup> ① 姑且：你说的话，我～记下来，等查实后再说。 ② 偶尔：先不过日间～消遣，后来情浓意治，竟连夜留在宫中。（《绿牡丹》一）  
 1. 【[暂为暂为](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/caen_vei_caen_vei.md#暂为暂为)】`caen6 vei2 caen6 vei2` <sup>[如皋]</sup> 告别时的客套话。先表示口头致谢。  
-1. 【[暂悬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/caen_xiun.md#暂悬)】`caen6 xiun2` <sup>[如皋]</sup> ① 临时借用。 ② 临时欠帐。  
+1. 【[暂悬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/caen_xiun.md#暂悬)】`caen6 xiun2` <sup>[如皋]</sup> ① 临时借用。 ② 临时欠账。  
 1. 【[暂悬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/caen_xiun.md#暂悬)】`caen6 xiun2` <sup>[兴化]</sup> ① 暂欠。 ② 暂借。  
 1. 【[绽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/caen.md#绽)】`caen6` <sup>[如东]</sup> 谷物饱满。  
 1. 【[绽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/caen.md#绽)】`caen6` <sup>[如皋]</sup> ① 籽粒饱满：蚕豆荚儿长得～。 ② 线缝：忑～（线缝开裂）。  
@@ -2476,7 +2476,7 @@
 1. 【[坐台点将](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_tae_din_jian.md#坐台点将)】`cu6 tae2 din3 jian5` <sup>[如皋]</sup> 常指作主指挥别人办事。也指人胸有韬略，指挥若定。  
 1. 【[坐太平椅子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_tae_pien_i_zz.md#坐太平椅子)】`cu6 tae5 pien2 i3 zz` <sup>[如皋]</sup> ① 安心。 ② 旁观，不介入。 ③ 放松警惕。  
 1. 【[坐瘫虎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_taen_hv.md#坐瘫虎)】`cu6 taen1 hv3` <sup>[兴化]</sup> （喻）不离家或很少离开住地的人：我是个～，为你俫看家联络最适合。  
-1. 【[坐堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_tan.md#坐堂)】`cu6 tan2` <sup>[如东]</sup> ① 做佛祀时，和尚坐在主位上讼经，称坐堂。 ② 儆喜事时，负责记帐的人，称坐堂。 ③ 药铺里负责开方治病的医生，称坐堂。  
+1. 【[坐堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_tan.md#坐堂)】`cu6 tan2` <sup>[如东]</sup> ① 做佛祀时，和尚坐在主位上讼经，称坐堂。 ② 儆喜事时，负责记账的人，称坐堂。 ③ 药铺里负责开方治病的医生，称坐堂。  
 1. 【[坐堂虎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_tan_hv.md#坐堂虎)】`cu6 tan2 hv3` <sup>[如皋]</sup> 喻只在室内工作不外出办事的人。  
 1. 【[坐堂客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_tan_keh.md#坐堂客)】`cu6 tan2 keh7` <sup>[如东]</sup> 经常来的人：他是我家的～。  
 1. 【[坐地贩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_ti_faen_zz.md#坐地贩子)】`cu6 ti6 faen5 zz` <sup>[如东]</sup> 在市场上有固定摊位、接受货物转手倒卖的商贩。  

@@ -673,7 +673,7 @@
 1. 【[没得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_deh.md#没得)】`meh8 deh7` <sup>[东台]</sup> 没有。  
 1. 【[没得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_deh.md#没得)】`meh8 deh7` <sup>[兴化]</sup> ① 没有：小丫头跑啊～咖。｜“晚饭米都～一颗，还你妈的之乎——者也！”（汪曾祺《徙》） ② 不如：小刘～小王高。｜裂子～苹果好吃。  
 1. 【[没得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_deh.md#没得)】`meh8 deh7` <sup>[泰县]</sup> 没有。  
-1. 【[没得二成帐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_deh_er_chen_zhan.md#没得二成帐)】`meh8 deh7 er6 chen2 zhan5` <sup>[如皋]</sup> 可信、成功的程度极低：批准这份报告～。  
+1. 【[没得二成账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_deh_er_chen_zhan.md#没得二成账)】`meh8 deh7 er6 chen2 zhan5` <sup>[如皋]</sup> 可信、成功的程度极低：批准这份报告～。  
 1. 【[没得个安事墩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_deh_gu_un_shr_den_r.md#没得个安事墩<sub>儿</sub>)】`meh8 deh7 gu un1 shr6 den1 r` <sup>[东台]</sup> 一直东奔西忙，没有安逸的时辰。  
 1. 【[没得爷娘教导](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_deh_ia_nian_jio_to.md#没得爷娘教导)】`meh8 deh7 ia2 nian2 jio5 to3` <sup>[东台]</sup> 骂人素质差，缺乏父母亲教养。  
 1. 【[没得油水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_deh_ieu_shuei.md#没得油水)】`meh8 deh7 ieu2 shuei3` <sup>[如皋]</sup> 见“没（得）捞摸”。  
@@ -1210,8 +1210,8 @@
 1. 【[冥票](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_pio.md#冥票)】`mien2 pio5` <sup>[如皋]</sup> 烧化给死者的纸钱币。  
 1. 【[冥寿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_sheu.md#冥寿)】`mien2 sheu6` <sup>[如东]</sup> 死后的诞辰纪念日。纪年与生年相连续。  
 1. 【[冥寿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_sheu.md#冥寿)】`mien2 sheu6` <sup>[如皋]</sup> 人死后继续计算的年龄和生日。  
-1. 【[名目帐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_moh_zhan.md#名目帐)】`mien2 moh8 zhan5` <sup>[如皋]</sup> 表面的、不实在的，又作“意思帐”。  
 1. 【[名目账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_moh_zhan.md#名目账)】`mien2 moh8 zhan5` <sup>[如皋]</sup> 敷衍、象征性的表示，并无深交。  
+1. 【[名目账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_moh_zhan.md#名目账)】`mien2 moh8 zhan5` <sup>[如皋]</sup> 表面的、不实在的，又作“意思账”。  
 1. 【[名堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_tan.md#名堂)】`mien2 tan` <sup>[东台]</sup> ① 花样；名目。 ② 成就；结果：搞出～来。  
 1. 【[名头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_teu.md#名头)】`mien2 teu` <sup>[兴化]</sup> 人的名声：你做这种丑事，把自己的～都弄低啊。  
 1. 【[明摆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_bae.md#明摆)】`mien2 bae3` <sup>[如皋]</sup> 公开的。  

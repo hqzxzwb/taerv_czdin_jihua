@@ -654,7 +654,7 @@
 1. 【[㩭夹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_gaeh.md#㩭夹)】`ko6 gaeh7` <sup>[东台]</sup> 相互之间纠缠在一起，理事不清楚：这里头有～，不能随便说是说非。  
 1. 【[㩭梗<sub>儿</sub>白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_gen_r_poh.md#㩭梗<sub>儿</sub>白)】`ko6 gen3 r poh8` <sup>[如皋]</sup> 初冬上市供腌咸菜用的青菜，白梗多而高，且互相交叉，故名。  
 1. 【[㩭㩭<sub>儿</sub>理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_ko_r_li.md#㩭㩭<sub>儿</sub>理)】`ko6 ko6 r li3` <sup>[如皋]</sup> 不正当的理由、或故意胡蛮缠的歪理。  
-1. 【[㩭㩭<sub>儿</sub>账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_ko_r_zhan.md#㩭㩭<sub>儿</sub>账)】`ko6 ko6 r zhan5` <sup>[如皋]</sup> 七缠八缠，理不清的帐。  
+1. 【[㩭㩭<sub>儿</sub>账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_ko_r_zhan.md#㩭㩭<sub>儿</sub>账)】`ko6 ko6 r zhan5` <sup>[如皋]</sup> 七缠八缠，理不清的账。  
 1. 【[㩭㩭<sub>儿</sub>捘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_ko_r_zuen.md#㩭㩭<sub>儿</sub>捘)】`ko6 ko6 r zuen5` <sup>[如东]</sup> 绳索绞了许多捘：这根绳上吖～。  
 1. 【[㩭㩭账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_ko_zhan.md#㩭㩭账)】`ko6 ko6 zhan5` <sup>[东台]</sup> 账务涉及的几个方面互为债权债务关系，也称“绕绕账”：～，要仔细理。  
 1. 【[㩭蛮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_maen.md#㩭蛮)】`ko6 maen2` <sup>[如皋]</sup> 商借者的自谦用语：同你～，借个梯子。  
@@ -760,11 +760,11 @@
 1. 【[共](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon.md#共)】`kon6` <sup>[如皋]</sup> ① 人际信用关系。 ② 计算、暗中使坏：放吖肚子肚里～。  
 1. 【[共](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon.md#共)】`kon6` <sup>[兴化]</sup> ① 与人相处：他信誉不好，不能～。｜……朋友们见他是个扶不起来的梯子，也就与他不～了。（《皮五辣子》一） ② 指互通吊庆和经济往来：他俫虽说是亲眷，已经有好些年不～吖。  
 1. 【[共共](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_kon.md#共共)】`kon6 kon6` <sup>[如皋]</sup> 人际间试行往来。  
-1. 【[共来去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_lae_qy.md#共来去)】`kon6 lae2 qy5` <sup>[如皋]</sup> 经济往来，帐目往来。  
+1. 【[共来去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_lae_qy.md#共来去)】`kon6 lae2 qy5` <sup>[如皋]</sup> 经济往来，账目往来。  
 1. 【[共来往](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_lae_van.md#共来往)】`kon6 lae2 van3` <sup>[如皋]</sup> 见“共来去”。  
 1. 【[共拢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_lon.md#共拢)】`kon6 lon3` <sup>[泰县]</sup> 共计：我～就剩吖这几个钱。  
 1. 【[共信用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_xien_ion.md#共信用)】`kon6 xien5 ion6` <sup>[如皋]</sup> 交往中取信于人。  
-1. 【[共帐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_zhan.md#共帐)】`kon6 zhan5` <sup>[如皋]</sup> 交易双方互相记帐结算。  
+1. 【[共账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_zhan.md#共账)】`kon6 zhan5` <sup>[如皋]</sup> 交易双方互相记账结算。  
 1. 【[共账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_zhan.md#共账)】`kon6 zhan5` <sup>[兴化]</sup> 互有账目往来：我俫～七八年，不曾有过差错。  
 1. 【[共总](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_zon.md#共总)】`kon6 zon3` <sup>[如皋]</sup> 总共。  
 1. 【[共总](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_zon.md#共总)】`kon6 zon3` <sup>[东台]</sup> 一共；合计；总共。  
@@ -955,7 +955,7 @@
 1. 【[环港堤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen_gan_ti.md#环港堤)】`kuaen2 gan3 ti2` <sup>[如东]</sup> 1971年匡围环港垦区而修筑。东起环东堤西北角，西至洋口农场堤东北角。全长3.83公里。  
 1. 【[环毛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen_mo_r.md#环毛<sub>儿</sub>)】`kuaen2 mo2 r` <sup>[兴化]</sup> ① 卷曲的头发：她花五十块上街烫吖个～。 ② 指头发卷曲的人。  
 1. 【[环吖指头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen_nga_zheh_teu.md#环吖指头)】`kuaen2 nga zheh7 teu` <sup>[如皋]</sup> 暗中有打算：他在招工的时候～，把姘头安插进去啊。  
-1. 【[环头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen_teu.md#环头)】`kuaen2 teu2` <sup>[如皋]</sup> 状缠绕不清：这笔帐有些～，要理理分清。  
+1. 【[环头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen_teu.md#环头)】`kuaen2 teu2` <sup>[如皋]</sup> 状缠绕不清：这笔账有些～，要理理分清。  
 1. 【[环头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen_teu.md#环头)】`kuaen2 teu2` <sup>[兴化]</sup> 指账目等交叉、重复：你细想下子，这里头有两笔账～的！  
 1. 【[环腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen_tuei.md#环腿)】`kuaen2 tuei3` <sup>[兴化]</sup> ① 使腿弯曲：把腿环起来，让人走路。 ② 多人挤在一张床上睡觉：外头不早啊，你就在我床上环环腿吧！  
 1. 【[掼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen.md#掼)】`kuaen6` 摔；扔  
@@ -1300,7 +1300,7 @@
 1. 【[骷髅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_lan.md#骷髅)】`kv1 lan` <sup>[东台]</sup> 死人的头骨。  
 1. 【[𠸋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv.md#𠸋)】`kv1` <sup>[如皋]</sup> 鼻中直喷气：气得他只是～气。  
 1. 【[喖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv.md#喖)】`kv2` <sup>[如东]</sup> 轻微地哭泣：她还在下～。  
-1. 【[喖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv.md#喖)】`kv2` <sup>[如皋]</sup> ① 糊涂：他的帐是～的。 ② 散漫不羁：他过日子～得交关，是个大～东。 ③ 训斥：他捱我～啊一顿。 ④ 语音不清：她发嗲，说话～儿哑儿的。 ⑤ 呻吟、喘息、梦呓之声：他做梦做啊～起来啊。  
+1. 【[喖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv.md#喖)】`kv2` <sup>[如皋]</sup> ① 糊涂：他的账是～的。 ② 散漫不羁：他过日子～得交关，是个大～东。 ③ 训斥：他捱我～啊一顿。 ④ 语音不清：她发嗲，说话～儿哑儿的。 ⑤ 呻吟、喘息、梦呓之声：他做梦做啊～起来啊。  
 1. 【[喖东](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_don.md#喖东)】`kv2 don1` <sup>[如皋]</sup> 糊涂、散漫不明事理或指人。  
 1. 【[喖喖<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_kv_r.md#喖喖<sub>儿</sub>)】`kv2 kv2 r` <sup>[如东]</sup> ① 糊涂：他是一个～。 ② 办事拖拉的人。  
 1. 【[喖伢狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_nga_geu.md#喖伢狗)】`kv2 nga2 geu3` <sup>[如东]</sup> ① 经常呻吟的小狗。 ② 比喻经常哭叫的孩子。  

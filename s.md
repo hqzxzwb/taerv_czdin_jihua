@@ -1726,7 +1726,7 @@
 1. 【[收作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_zah.md#收作)】`sheu1 zah7` <sup>[东台]</sup> 工程收工。  
 1. 【[收作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_zah.md#收作)】`sheu1 zah7` <sup>[兴化]</sup> 收工：外头落雨，赶快～吧！  
 1. 【[收作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_zah.md#收作)】`sheu1 zah7` <sup>[泰县]</sup> 收工：今吖就做到这许，～吧。  
-1. 【[收帐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_zhan.md#收帐)】`sheu1 zhan5` <sup>[如皋]</sup> 讨债。  
+1. 【[收账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_zhan.md#收账)】`sheu1 zhan5` <sup>[如皋]</sup> 讨债。  
 1. 【[收账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_zhan.md#收账)】`sheu1 zhan5` <sup>[如东]</sup> 收取欠账资金。结束记账业务。  
 1. 【[收账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_zhan.md#收账)】`sheu1 zhan5` <sup>[兴化]</sup> ① 旧时商店于端午、中秋、春节三大节前，派人催讨欠款。 ② 债权人到期向债务人索债。  
 1. 【[收之下下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_zhr_xia_xia.md#收之下下)】`sheu1 zhr1 xia6 xia6` <sup>[如皋]</sup> ① 状收了别人的礼，而没有反应。收礼而不致谢，似乎理所当然。 ② 吃了别人的苦头，不能反抗，吃闷憋。  
@@ -3501,7 +3501,7 @@
 1. 【[糁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun.md#糁)】`sun3` <sup>[如皋]</sup> 细酒。  
 1. 【[糁䜺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_cae_r.md#糁䜺<sub>儿</sub>)】`sun3 cae3 r` <sup>[如皋]</sup> 将䜺儿糁到锅里煮䜺儿粥。  
 1. 【[算憃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_chon.md#算憃)】`sun5 chon5` <sup>[如皋]</sup> 见“算掼”。  
-1. 【[算倒帐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_do_zhan.md#算倒帐)】`sun5 do5 zhan5` <sup>[如皋]</sup> 重新算帐，以索回应得的部分。  
+1. 【[算倒账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_do_zhan.md#算倒账)】`sun5 do5 zhan5` <sup>[如皋]</sup> 重新算账，以索回应得的部分。  
 1. 【[算计](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_ji.md#算计)】`sun5 ji` <sup>[兴化]</sup> 计划、打算：居家过日子要有个～。｜搞大的活动预先要有～，否则临时就要忙乱。  
 1. 【[算肌算骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_ji_sun_gueh.md#算肌算骨)】`sun5 ji1 sun5 gueh7` <sup>[如东]</sup> 计算非常精细：这个人～的，怎吖会得吃亏噢？盘算非常仔细，考虑十分周全。  
 1. 【[算计](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_ji.md#算计)】`sun5 ji5` <sup>[如皋]</sup> ① 计算、估算、预算、盘算。 ② 谋划、部署。  

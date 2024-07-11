@@ -537,7 +537,7 @@
 1. 【[獃揣货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_chuae_hu.md#獃揣货)】`ngae2 chuae hu5` <sup>[如皋]</sup> 见“獃货”。  
 1. 【[獃出](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_chueh.md#獃出)】`ngae2 chueh7` <sup>[如东]</sup> 机械不灵活：这个齿轮十分～，不好用。  
 1. 【[獃敦敦的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_den_den_dii.md#獃敦敦的)】`ngae2 den den1 dii` <sup>[如皋]</sup> 状人的行动不灵活：他穿吖驼起来啊，做事～。  
-1. 【[獃的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_dii.md#獃的)】`ngae2 dii` <sup>[如皋]</sup> ① 不可变、不灵活：这扇窗子是～，不好开。 ② 必然、必定：这个救命的人～是他！ ③ 明白不过的：这笔帐是～，不用怀疑。  
+1. 【[獃的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_dii.md#獃的)】`ngae2 dii` <sup>[如皋]</sup> ① 不可变、不灵活：这扇窗子是～，不好开。 ② 必然、必定：这个救命的人～是他！ ③ 明白不过的：这笔账是～，不用怀疑。  
 1. 【[獃的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_dii.md#獃的)】`ngae2 dii` <sup>[东台]</sup> 固定的，一定的：阴历初八的月亮总是半圆形，这个是～。  
 1. 【[獃格子啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_geh_zz_a.md#獃格子啊)】`ngae2 geh7 zz a` <sup>[东台]</sup> 固定的，没有变通余地：改革前每人每月四两油，那是～，想多一点也没办法。  
 1. 【[獃沟<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_geu_r.md#獃沟<sub>儿</sub>)】`ngae2 geu1 r` <sup>[如皋]</sup> 不外通的小河沟。  

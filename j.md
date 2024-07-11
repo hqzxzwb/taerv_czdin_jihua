@@ -1004,7 +1004,7 @@
 1. 【[金汁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zheh.md#金汁)】`jien1 zheh7` <sup>[兴化]</sup> ① 指粪尿。 ② 对水的贬义说法：～子。  
 1. 【[金针](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zhen.md#金针)】`jien1 zhen1` <sup>[东台]</sup> 黄花菜的花，可作食物：～炒木耳。  
 1. 【[金针菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zhen_cae.md#金针菜)】`jien1 zhen1 cae5` <sup>[如东]</sup> 百合科植物萱草的花蕾。  
-1. 【[金摺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zhr_r.md#金摺<sub>儿</sub>)】`jien1 zhr r` <sup>[如皋]</sup> 旧时用的摺迭式小帐册。如租赁住房，房客持～交月租，房东在～上签收。  
+1. 【[金摺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zhr_r.md#金摺<sub>儿</sub>)】`jien1 zhr r` <sup>[如皋]</sup> 旧时用的摺迭式小账册。如租赁住房，房客持～交月租，房东在～上签收。  
 1. 【[金砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zhun.md#金砖)】`jien1 zhun1` <sup>[如东]</sup> 黄金铸造的砖，一只一两。  
 1. 【[鲸鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_y.md#鲸鱼)】`jien1 y2` <sup>[如东]</sup> 水栖哺乳动物，外形似鱼。  
 1. 【[井](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien.md#井)】`jien3` <sup>[如东]</sup> 从地面往下打成的能够汲取地下水的圆洞，称井。井壁一般由砖砌成，也有用水泥浇铸的。  

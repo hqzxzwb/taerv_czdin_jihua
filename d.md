@@ -75,7 +75,7 @@
 1. 【[打草把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_co_ba.md#打草把)】`da3 co3 ba3` <sup>[如皋]</sup> 将稻、麦杆等绕成结，用于烧锅、塞檐等。  
 1. 【[打草包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_co_bo.md#打草包)】`da3 co3 bo1` <sup>[如皋]</sup> 用简单机械手工扼制稻草包，供装土或包装用。  
 1. 【[打草鞋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_co_hae.md#打草鞋)】`da3 co3 hae2` <sup>[如皋]</sup> 用草鞋扒儿穿经绳，用茅草或布条为纬扼制无面鞋。  
-1. 【[打草码<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_co_ma_r.md#打草码<sub>儿</sub>)】`da3 co3 ma3 r` <sup>[如皋]</sup> 收发货时用草码儿记草帐，并用土笔在货物包皮上用草码儿记数的过程。  
+1. 【[打草码<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_co_ma_r.md#打草码<sub>儿</sub>)】`da3 co3 ma3 r` <sup>[如皋]</sup> 收发货时用草码儿记草账，并用土笔在货物包皮上用草码儿记数的过程。  
 1. 【[打草帽<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_co_mo_r.md#打草帽<sub>儿</sub>)】`da3 co3 mo6 r` <sup>[如皋]</sup> 用缝纫机将草帽辫儿缝成草帽儿。  
 1. 【[打催牌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_cuei_pae.md#打催牌)】`da3 cuei1 pae2` <sup>[兴化]</sup> 催促，敦请：……如其来，就罢了，如没有来，也预备下去～了。（《武松》七）  
 1. 【[打粗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_cv.md#打粗)】`da3 cv1` <sup>[如皋]</sup> 帮助做粗活儿。  
@@ -287,7 +287,7 @@
 1. 【[打坎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_kun.md#打坎)】`da3 kun3` <sup>[东台]</sup> 打瞌睡。（原文作“打瞌”，备注“‘瞌’原为入声字，通过阳入对转，白读若‘款’”）  
 1. 【[打来骂来，折本不来；横说竖说，假话不说](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lae_ma_lae_shih_ben_beh_lae_on_shuh_shv_shuh_jia_hua_beh_shuh.md#打来骂来，折本不来；横说竖说，假话不说)】`da3 lae2 ma6 lae2 shih8 ben3 beh7 lae2 on2 shuh7 shv6 shuh7 jia3 hua6 beh7 shuh7` <sup>[东台]</sup> 随机应变要守住底线。  
 1. 【[打赖皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lae_pi.md#打赖皮)】`da3 lae6 pi2` <sup>[如皋]</sup> 见“赌稽”。  
-1. 【[打赖皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lae_pi.md#打赖皮)】`da3 lae6 pi2` <sup>[如皋]</sup> 不承认，赖帐。  
+1. 【[打赖皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lae_pi.md#打赖皮)】`da3 lae6 pi2` <sup>[如皋]</sup> 不承认，赖账。  
 1. 【[打赖皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lae_pi.md#打赖皮)】`da3 lae6 pi2` <sup>[东台]</sup> 原来答应的事后来不承认了：他说今吖付款的，咋～？  
 1. 【[打拦头班](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_laen_teu_baen.md#打拦头班)】`da3 laen2 teu2 baen1` <sup>[如皋]</sup> 劝阻，阻止。  
 1. 【[打拦头板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_laen_teu_baen.md#打拦头板)】`da3 laen2 teu2 baen3` <sup>[兴化]</sup> 迎头阻拦别人的计划或行动：他想辞职下海经商，捱我一个～，打消啊这个念头。  
@@ -1128,7 +1128,7 @@
 1. 【[带身上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_shen_shan.md#带身上)】`dae5 shen1 shan6` 怀孕  
 1. 【[带身子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_shen_zz.md#带身子)】`dae5 shen1 zz` <sup>[兴化]</sup> 怀孕。  
 1. 【[带手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_sheu.md#带手)】`dae5 sheu3` <sup>[如皋]</sup> 顺带做，不是专门做。  
-1. 【[带手<sub>儿</sub>帐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_sheu_r_zhan.md#带手<sub>儿</sub>帐)】`dae5 sheu3 r zhan5` <sup>[如皋]</sup> 顺带的性质。  
+1. 【[带手<sub>儿</sub>账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_sheu_r_zhan.md#带手<sub>儿</sub>账)】`dae5 sheu3 r zhan5` <sup>[如皋]</sup> 顺带的性质。  
 1. 【[带舵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_tu.md#带舵)】`dae5 tu6` <sup>[兴化]</sup> （喻）转换话题，挽回被动局面：他发觉说走了嘴，急得满脸通红，只好哈哈一笑，自己～。｜眼看事情要谈崩，他赶紧～，把事圆成。｜你赶快～，就说刚才说的玩话，是认不得真的。  
 1. 【[带晚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_vaen.md#带晚)】`dae5 vaen3` 晚上继续做  
 1. 【[带晚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_vaen.md#带晚)】`dae5 vaen3` <sup>[兴化]</sup> 白天干不完的事，晚上接着干：起早～。也说“带晚作”。  
@@ -1266,7 +1266,7 @@
 1. 【[单票子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_pio_zz.md#单票子)】`daen1 pio5 zz` <sup>[兴化]</sup> 零钱、面额小的钞票：身上不曾带～，出门搭公共汽车不顺便。  
 1. 【[单泡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_po_zz.md#单泡子)】`daen1 po1 zz` <sup>[如皋]</sup> 单眼皮。  
 1. 【[单墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_qian.md#单墙)】`daen1 qian2` <sup>[如皋]</sup> 单砖墙。一般只作隔墙，不能承重。  
-1. 【[单<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_r.md#单<sub>儿</sub>)】`daen1 r` <sup>[如皋]</sup> 单子：药～、帐～。  
+1. 【[单<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_r.md#单<sub>儿</sub>)】`daen1 r` <sup>[如皋]</sup> 单子：药～、账～。  
 1. 【[单人傍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_ren_ban.md#单人傍)】`daen1 ren2 ban1` <sup>[兴化]</sup> 汉字偏旁，形状是“亻”。  
 1. 【[单人帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_ren_ban.md#单人帮)】`daen1 ren2 ban1` <sup>[如皋]</sup> （亻）：仁，信，你。  
 1. 【[单人舍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_ren_sha.md#单人舍)】`daen1 ren2 sha5` <sup>[兴化]</sup> 搭在田间看护庄稼的小屋。  
@@ -2967,7 +2967,7 @@
 1. 【[赌东东](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_don_don.md#赌东东)】`dv3 don1 don1` <sup>[泰县]</sup> 打赌：你不信，我俫来～。  
 1. 【[赌东道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_don_to.md#赌东道)】`dv3 don1 to` <sup>[如皋]</sup> 比、争。输方作东。  
 1. 【[赌东道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_don_to.md#赌东道)】`dv3 don1 to6` <sup>[如东]</sup> 打赌：你哿敢跟我～？  
-1. 【[赌稽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_ji.md#赌稽)】`dv3 ji1` <sup>[如皋]</sup> ① 见“稽品”。 ② 输了又要赖帐，说过了又要否认。 ③ 不承认，赖账。  
+1. 【[赌稽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_ji.md#赌稽)】`dv3 ji1` <sup>[如皋]</sup> ① 见“稽品”。 ② 输了又要赖账，说过了又要否认。 ③ 不承认，赖账。  
 1. 【[赌酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_jieu.md#赌酒)】`dv3 jieu3` <sup>[如东]</sup> 以酒作赌注。  
 1. 【[赌赖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_lae.md#赌赖)】`dv3 lae6` <sup>[如皋]</sup> ① 见“赌稽”。 ② 不承认，赖账。  
 1. 【[赌品](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_pien.md#赌品)】`dv3 pien3` <sup>[如皋]</sup> 赌博的品德休养。  
