@@ -23,15 +23,10 @@ html = """<html lang="zh-CN">
             font-family: "Charis SIL";
             src: url("/usr/share/fonts/TTF/CharisSIL-Regular.ttf")
         }
-        @font-face {
-            font-family: "MiSans";
-            src: url("/usr/share/fonts/TTF/MiSans-Regular.ttf");
-            src: url("/usr/share/fonts/TTF/MiSans L3.ttf");
-        }
         body {font-family: "LXGW WenKai";}
         h2 {page-break-before: always;}
         .order {font-size: 60%%;}
-        .hz {font-family: "MiSans"; text-decoration: none; color: black;}
+        .hz {font-family: "sans"; text-decoration: none; color: black;}
         .py {font-size: 90%%; color: green;}
         .ipa {font-size: 90%%; font-family: "Charis SIL";}
         .meaning {}
@@ -81,7 +76,7 @@ def py2ipa(py):
         'eu': 'əʊ',
         'e': 'ə',
         'o': 'ɔ',
-        'ii': 'i',
+        'ii': 'iɪ',
         '([iuɛ])n': '\\1̃',
         '([aəɔ])n': '\\1ŋ',
         'a([^ŋʔ])': 'ɑ\\1',
@@ -102,7 +97,9 @@ def write_page(dirs, path, f):
     lines.append("<h2>%s</h2>\n" % path.upper())
     conts = []
     for fname in glob.glob(path+"/*.md"):
-        for cont in re.findall(r"#[^#]+", open(fname,encoding="U8").read()):
+        file_content = open(fname,encoding="U8").read()
+        file_content = re.sub(r"<!--\n(.*\n)*-->", "", file_content) # 移除注释
+        for cont in re.findall(r"#[^#]+", file_content):
             conts.append(parse_cont(cont, fname, cz_ien))
     py0 = ""
     for w in sorted(conts, key=lambda c: c.sort_key):
@@ -112,7 +109,7 @@ def write_page(dirs, path, f):
             lines.append(f"<h3>{py0}</h3>\n")
         link = LINK_FORMAT % (w.fname.replace("\\","/"), w.raw_word)
         if w.source:
-            source = "<span class=book>%s</span> " % re.sub(r'(方言词典|方言志)$', '', w.source)
+            source = "<span class=book>%s</span> " % re.sub(r'(方言词典|方言志|方言辞典)$', '', w.source)
         else:
             source = w.source
         count += 1
