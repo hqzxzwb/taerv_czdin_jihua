@@ -1,4 +1,4 @@
 # 打瞌睡
-da3 kuh7 shuei6
+da3 kuh7 shuei5
 > 如东方言词典
 - 昏昏欲睡的样子。
