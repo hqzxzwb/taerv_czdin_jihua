@@ -722,7 +722,7 @@
 1. 【[凹沰子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_dah_zz.md#凹沰子)】`vah7 dah7 zz` <sup>[兴化]</sup> 偏僻的地方：他家住在巷子东头～里。  
 1. 【[凹档<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_dan_r.md#凹档<sub>儿</sub>)】`vah7 dan5 r` <sup>[泰县]</sup> 凹进去的地方。  
 1. 【[凹咖肚里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_ga_tv_lii.md#凹咖肚里)】`vah7 ga tv6 lii` <sup>[如皋]</sup> 凹在里面。  
-1. 【[凹□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_jien.md#凹□)】`vah7 jien1` 脸颊  
+1. 【[凹□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_jien.md#凹□)】`vah7 jien1` <sup>[泰兴]</sup> 脸颊  
 1. 【[凹水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_shuei.md#凹水)】`vah7 shuei3` <sup>[如皋]</sup> 低凹处积水。如皋词典作“沃水”。  
 1. 【[凹塘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_tan.md#凹塘)】`vah7 tan2` <sup>[兴化]</sup> ① 低洼地：那个鱼池是在～上浚深加大的。 ② 小的池塘。 ③ （引）比较贫困，落后的地方。‖通读作va5。  
 1. 【[凹塘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_tan_r.md#凹塘<sub>儿</sub>)】`vah7 tan2 r` <sup>[如皋]</sup> ① 小坑。 ② 小凹点。  
