@@ -1145,8 +1145,8 @@
 1. 【[色<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_r.md#色<sub>儿</sub>)】`sheh7 r` <sup>[东台]</sup> 也叫骰子。用骨头、木头或塑料制成的赌具，立体小方块，用手抛，六面分刻123456点。  
 1. 【[色<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_r.md#色<sub>儿</sub>)】`sheh7 r` <sup>[如皋]</sup> 即色子。一种玩具、赌具。  
 1. 【[虱子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_zz.md#虱子)】`sheh7 zz` <sup>[如东]</sup> 昆虫。灰白色、浅黄色或灰黑色，有短毛，头小，没有翅膀，腹部大。卵白色，椭圆形。寄生在人、猪、牛等身上，吸食血液。能传播斑疹、伤寒和回归热等疾病。  
-1. 【[虱子活咖忑下来呀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_zz_huh_ga_teh_ha_lae_a.md#虱子活咖忑下来呀)】`sheh7 zz huh8 ga teh7 ha lae2 a` <sup>[如皋]</sup> 见“嗑穷”。  
-1. 【[虱子活咖怢下来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_zz_huh_ga_teh_ha_lae.md#虱子活咖怢下来)】`sheh7 zz huh8 ga teh7 ha lae2` <sup>[如皋]</sup> 哭穷、嗑穷、活穷。  
+1. 【[虱子活咖忑下来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_zz_huh_ga.md#虱子活咖忑下来)】`sheh7 zz huh8 ga teh7 ha lae2` <sup>[如皋]</sup> 哭穷、嗑穷、活穷。  
+1. 【[虱子活咖忑下来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_zz_huh_ga.md#虱子活咖忑下来啊)】`sheh7 zz huh8 ga teh7 ha lae2 a` <sup>[如皋]</sup> 见“嗑穷”。  
 1. 【[识宝的回子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_bo_dii_huei_zz.md#识宝的回子)】`sheh7 bo3 dii huei2 zz` <sup>[兴化]</sup> ① 对波斯珠宝商人的旧称。《拍案惊案》第一卷就讲述了一个波斯胡（回子）识宝的故事。 ② （喻）识才重才的人：“左”时的领导，也有～，他们把宗石均就地安排为公社副书记……（马春阳《白发青丝好夫妇》）  
 1. 【[识宝猴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_bo_heu_zz.md#识宝猴子)】`sheh7 bo3 heu2 zz` <sup>[如东]</sup> 对宝物有鉴别能力的人。比喻办事精明：他是～，咋得会弄错？  
 1. 【[识宝回子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_bo_huei_zz.md#识宝回子)】`sheh7 bo3 huei2 zz` <sup>[如皋]</sup> 珠宝古董行家。  
@@ -3029,7 +3029,7 @@
 1. 【[说咖白啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_ga_poh_ga.md#说咖白啊)】`shuh7 ga poh8 ga` <sup>[东台]</sup> 说清楚，说明白了。  
 1. 【[说咖七箩八笆斗的话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_ga_qieh_lu_baeh_ba_deu_dii_hua.md#说咖七箩八笆斗的话)】`shuh7 ga qieh7 lu2 baeh7 ba1 deu3 dii hua6` <sup>[东台]</sup> 形容说了许多许多的话。  
 1. 【[说咖天带夜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_ga_tin_dae_ia.md#说咖天带夜)】`shuh7 ga tin1 dae5 ia6` <sup>[东台]</sup> 形容说了很多遍了，比一天到晚还多。  
-1. 【[说咖形起来呀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_ga_xien_qi_lae_a.md#说咖形起来呀)】`shuh7 ga xien2 qi3 lae2 a` <sup>[如皋]</sup> 说得夸张形象化，活像真的。  
+1. 【[说咖形起来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_ga_xien_qi_lae_a.md#说咖形起来啊)】`shuh7 ga xien2 qi3 lae2 a` <sup>[如皋]</sup> 说得夸张形象化，活像真的。  
 1. 【[说家常](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_ga_chan.md#说家常)】`shuh7 ga1 chan2` <sup>[如东]</sup> 谈谈家务事：王奶奶经常过来～。  
 1. 【[说改过<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_gae_gu_r.md#说改过<sub>儿</sub>)】`shuh7 gae3 gu5 r` <sup>[如皋]</sup> 辩解、偏说、掩盖，以帮助解脱或避讳。  
 1. 【[说改故<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_gae_gv_r.md#说改故<sub>儿</sub>)】`shuh7 gae3 gv5 r` <sup>[如皋]</sup> 见“说改过儿”。  

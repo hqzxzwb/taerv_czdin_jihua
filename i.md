@@ -303,7 +303,7 @@
 1. 【[夜不收](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_beh_sheu.md#夜不收)】`ia6 beh7 sheu1` <sup>[如东]</sup> 深夜还在外面游荡的人。  
 1. 【[夜不收](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_beh_sheu.md#夜不收)】`ia6 beh7 sheu1` <sup>[兴化]</sup> ① 旧指驿卒递送紧急公文时，连夜赶路，夜不投宿。 ② （戏）夜晚忘记收回的洗晒衣物及店铺的幌子等：日晒黄金～。  
 1. 【[夜潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_cho.md#夜潮)】`ia6 cho2` <sup>[如皋]</sup> 学名鳓鱼。此为苏俗名。  
-1. 【[夜得来呀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_deh_lae_a.md#夜得来呀)】`ia6 deh7 lae2 a` <sup>[如皋]</sup> 天暗起来了，天黑下来了。  
+1. 【[夜得来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_deh_lae_a.md#夜得来啊)】`ia6 deh7 lae2 a` <sup>[如皋]</sup> 天暗起来了，天黑下来了。  
 1. 【[夜得晏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_deh_ngaen.md#夜得晏)】`ia6 deh7 ngaen5` <sup>[如皋]</sup> 春分后昼长夜短，天黑得较晚。  
 1. 【[夜得早](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_deh_zo.md#夜得早)】`ia6 deh7 zo3` <sup>[如皋]</sup> 秋分后昼短夜长，天黑得较早。  
 1. 【[夜顿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_den_zz.md#夜顿子)】`ia6 den5 zz` <sup>[兴化]</sup> 夜餐：他每天临睡前要吃～。｜“……幸好跑得快，才滑出来，稍微慢一点，我也要被妖怪当～吃了……”（《皮五辣子》四）  
@@ -1926,9 +1926,8 @@
 1. 【[咦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ii.md#咦)】`ii2` <sup>[如东]</sup> 表示疑问惊讶的词。  
 1. 【[咽喉屌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_heu_dio_r.md#咽喉屌<sub>儿</sub>)】`in1 heu2 dio3 r` <sup>[如皋]</sup> 悬雍垂。  
 1. 【[咽喉屌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_heu_dio_r.md#咽喉屌<sub>儿</sub>)】`in1 heu2 dio3 r` <sup>[东台]</sup> 就是小舌头，学名叫悬雍垂：我这两天受啊凉，怕的～忑下来了，噎唾沫总疼。  
-1. 【[咽喉屌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_heu_dio_r.md#咽喉屌<sub>儿</sub>)】`in1 heu2 dio3 r` <sup>[兴化]</sup> 悬雍垂。  
 1. 【[咽喉屌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_heu_dio_r.md#咽喉屌<sub>儿</sub>)】`in1 heu2 dio3 r` <sup>[兴化]</sup> 小舌，即悬雍垂。  
-1. 【[咽喉屌<sub>儿</sub>忑下来呀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_heu_dio_r_teh_ha_lae_a.md#咽喉屌<sub>儿</sub>忑下来呀)】`in1 heu2 dio3 r teh7 ha lae2 a` <sup>[如皋]</sup> 悬雍垂发炎肿大。  
+1. 【[咽喉屌<sub>儿</sub>忑下来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_heu_dio_r.md#咽喉屌<sub>儿</sub>忑下来啊)】`in1 heu2 dio3 r teh7 ha lae2 a` <sup>[如皋]</sup> 悬雍垂发炎肿大。  
 1. 【[烟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in.md#烟)】`in1` <sup>[如皋]</sup> ① 水的雾气：笼锅的～足。 ② 汗气：他把帽子褪掉，头上只将冒～。 ③ 气管中的热气蒸腾：他说话说得喉咙起～。  
 1. 【[烟草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_co.md#烟草)】`in1 co3` <sup>[如东]</sup> 茄科植物烟草，一年生草本。高约2米。茎直立，粗壮，基部木质化。叶互生，甚大，椭圆状披针形。圆锥花序或总状花序顶生。花冠漏斗形，粉红色。蒴果卵圆形。种子细小，黄褐色。田间种植。叶是制造烟丝的原料。伤。  
 1. 【[烟囱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_con.md#烟囱)】`in1 con1` <sup>[如东]</sup> 排烟的管道。  

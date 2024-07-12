@@ -2112,7 +2112,7 @@
 1. 【[许愿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xy_iun.md#许愿)】`xy3 iun6` <sup>[如东]</sup> 旧时，相信迷信的人遇到危险时，向菩萨许下心愿，如给菩萨重塑金身、上庙敬香、唱戏等，以求菩萨保佑。这种活动叫做许愿。  
 1. 【[碎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xy.md#碎)】`xy5` <sup>[如皋]</sup> 详细：～账儿。  
 1. 【[碎啊穰吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xy_a_ran_nga.md#碎啊穰吖)】`xy5 a ran2 nga` <sup>[如皋]</sup> 粉碎了。  
-1. 【[碎啊砟呀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xy_a_zha_a.md#碎啊砟呀)】`xy5 a zha3 a` <sup>[如皋]</sup> 粉碎了。  
+1. 【[碎啊砟啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xy_a_zha_a.md#碎啊砟啊)】`xy5 a zha3 a` <sup>[如皋]</sup> 粉碎了。  
 1. 【[碎撮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xy_cuh.md#碎撮)】`xy5 cuh7` <sup>[如皋]</sup> 形容细小纷杂：说～话、杲子～。  
 1. 【[碎撮话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xy_cuh_hua.md#碎撮话)】`xy5 cuh7 hua6` <sup>[如皋]</sup> 见“屑子话”。  
 1. 【[碎瓷花瓶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xy_cz_hua_pien.md#碎瓷花瓶)】`xy5 cz2 hua1 pien2` <sup>[东台]</sup> 实指开片哥窑花瓶，喻指不能碰、惹不得的人。  

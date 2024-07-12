@@ -1031,7 +1031,7 @@
 1. 【[硬里硬跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_lii_ngen_qio.md#硬里硬跷)】`ngen6 lii ngen6 qio1` <sup>[泰县]</sup> ① 不纯和。 ② 软得不到家。  
 1. 【[硬绵心<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_min_xien_r.md#硬绵心<sub>儿</sub>)】`ngen6 min2 xien1 r` <sup>[泰县]</sup> 故意：这个人～捣蛋。  
 1. 【[硬木纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_moh_zhr.md#硬木纸)】`ngen6 moh8 zhr3` <sup>[如皋]</sup> 硬纸板。  
-1. 【[硬吖蹫起来呀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_nga_jyeh_qi_lae_a.md#硬吖蹫起来呀)】`ngen6 nga jyeh7 qi lae a` <sup>[如皋]</sup> 变硬而挺起的样子：车胆子一打气就～。  
+1. 【[硬吖蹫起来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_nga_jyeh_qi_lae_a.md#硬吖蹫起来啊)】`ngen6 nga jyeh7 qi lae a` <sup>[如皋]</sup> 变硬而挺起的样子：车胆子一打气就～。  
 1. 【[硬挜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_nga.md#硬挜)】`ngen6 nga5` <sup>[兴化]</sup> ① 硬把东西送给对方或卖给对方：我这点猪肉～把食堂，价钱便宜一点。｜我这个卖户脸要放老扎些哩……～硬逗了。（扬二《张松献地图》） ② 吃饱以后继续吃：他见吖好东西吃不下去～。  
 1. 【[硬攀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_paen.md#硬攀)】`ngen6 paen1` <sup>[如皋]</sup> 见“对攀”。  
 1. 【[硬棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_pan.md#硬棒)】`ngen6 pan` <sup>[兴化]</sup> ① 结实、坚挺：这根棍子蛮～的，拿它顶门没话说。 ② 壮实：他虽是七十岁的人吖，身体还蛮～的。  
