@@ -40,8 +40,8 @@
 1. 【[耳聋缠八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_lon_chin_baeh.md#耳聋缠八)】`er3 lon2 chin6 baeh7` <sup>[如东]</sup> ① 耳朵听不清楚。 ② 答非所问，缠七缠八的：～的，问吖半天也朆说清楚。  
 1. 【[耳聋缠八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_lon_chin_baeh.md#耳聋缠八)】`er3 lon2 chin6 baeh7` <sup>[东台]</sup> 形容听觉不灵，常闹笑话：他～的，不要同他啰唆。  
 1. 【[耳聋缠八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_lon_chin_baeh.md#耳聋缠八)】`er3 lon2 chin6 baeh7` <sup>[兴化]</sup> 由于耳朵失聪，常听不清或理解错别人的话：“……爷爷～的，能管什么？”（马春阳《陈大年一家人》）  
+1. 【[耳聋缠八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_lon_chin_baeh.md#耳聋缠八)】`er3 lon2 chin6 baeh7` <sup>[泰县]</sup> ① 耳聋听不清：这个人～的。 ② 指责人答非所问：你这人～的。  
 1. 【[耳聋缠八的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_lon_chin_baeh_dii.md#耳聋缠八的)】`er3 lon2 chin6 baeh7 dii` <sup>[如皋]</sup> 因耳聋而误会别人意思。  
-1. 【[耳聋缠八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_lon_chin_baeh.md#耳聋缠八)】`er3 lon2 chin8 baeh7` <sup>[泰县]</sup> ① 耳聋听不清：这个人～的。 ② 指责人答非所问：你这人～的。  
 1. 【[耳门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_men.md#耳门)】`er3 men2` <sup>[如东]</sup> 堂屋（主屋）或厢房大门外侧两边的小门。  
 1. 【[耳门子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_men_zz.md#耳门子)】`er3 men2 zz` <sup>[兴化]</sup> 大门旁的小门：工厂上班时间，只能从～进出。  
 1. 【[耳毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_mo.md#耳毛)】`er3 mo2` <sup>[如皋]</sup> 耳道中的绒毛或老年时的长毫。  

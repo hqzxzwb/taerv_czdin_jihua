@@ -1618,7 +1618,7 @@
 1. 【[沈万三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_vaen_saen.md#沈万三)】`shen3 vaen6 saen1` <sup>[东台]</sup> 元末明初苏州周庄的一个富商，后成为财主、富豪的代名词：～打死人——钱妨法。  
 1. 【[沈万山打死人——钱妨法](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_vaen_shaen_da_sz_ren_qin_fan_faeh.md#沈万山打死人——钱妨法)】`shen3 vaen6 shaen1 da3 sz3 ren2 qin2 fan1 faeh7` <sup>[东台]</sup>   
 1. 【[省住啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_chv_a.md#省住啊)】`shen3 chv a` <sup>[如皋]</sup> 避免、免得。前有叙述语（可隐含不明说），后为理由：我同他分开来住，～作闲气；他家去的好，～我一天夜里为他耽心思。  
-1. 【[省住句](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_chv_qy.md#省住句)】`shen3 chv qy3` <sup>[如皋]</sup> 劝人停止争论。句，一句，相争的话。  
+1. 【[省住句](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_chv_qy.md#省住句)】`shen3 chv qy9` <sup>[如皋]</sup> 劝人停止争论。句，一句，相争的话。  
 1. 【[省得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_deh.md#省得)】`shen3 deh7` <sup>[东台]</sup> 免得。  
 1. 【[省得血腥气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_deh_xiuh_xien_qi.md#省得血腥气)】`shen3 deh7 xiuh7 xien1 qi5` <sup>[东台]</sup> 形容节省得太可怜：这点儿钱对一个农民来说，真是～。  
 1. 【[省油灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_ieu_den.md#省油灯)】`shen3 ieu2 den1` <sup>[如皋]</sup> 规矩、老实或指人：她不是个～。  
