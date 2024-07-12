@@ -1043,7 +1043,7 @@
 1. 【[清沰沰的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_dah_dah_dii.md#清沰沰的)】`qien1 dah7 dah7 dii` <sup>[如皋]</sup> 状液体澄清无色。  
 1. 【[清当当的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_dan_dan_dii.md#清当当的)】`qien1 dan5 dan5 dii` <sup>[如皋]</sup> ① 状家中很空旷。 ② 印象清晰：他在世的样子我～记得。  
 1. 【[清锅冷灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_gu_len_zo.md#清锅冷灶)】`qien1 gu1 len3 zo5` <sup>[兴化]</sup> 形容冷落凋零的样子：走到计氏院内，只见～，一物也无。（《醒世姻缘传》三）也作“清灰冷灶”。  
-1. 【[清官难断家务事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_gun_naen_dun_ga_v_shr.md#清官难断家务事)】`qien1 gun1 naen2 dun5 ga1 v5 shr6` <sup>[东台]</sup> 家庭的矛盾很难说谁是谁非，最好和为贵。  
+1. 【[清官难断家务事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_gun_naen_dun.md#清官难断家务事)】`qien1 gun1 naen2 dun5 jia1 v shr6` <sup>[东台]</sup> 家庭的矛盾很难说谁是谁非，最好和为贵。  
 1. 【[清火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_hu.md#清火)】`qien1 hu3` <sup>[兴化]</sup> 某些食品性凉，食之可去除体内火气：煮熟的荸荠是～的。也作“去火”。  
 1. 【[清火汏凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_hu_tae_lian.md#清火汏凉)】`qien1 hu3 tae6 lian2` <sup>[兴化]</sup> 去除火气，降低体温：开一剂～的方子，让病人吃下去睡一觉。  
 1. 【[清雅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ia.md#清雅)】`qien1 ia3` <sup>[兴化]</sup> 形容清秀雅致：新房布置得蛮～的。｜那马胜胜虽不比得马琼琼标致，却也毫无俗韵，～过人。（《二湖二集》十一）  
