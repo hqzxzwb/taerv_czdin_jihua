@@ -12,9 +12,9 @@ in1 heu2 dio3 r
 # 咽喉屌儿
 in1 heu2 dio3 r
 > 兴化方言词典
-- 悬雍垂。
-
-# 咽喉屌儿
-in1 heu2 dio3 r
-> 兴化方言词典
 - 小舌，即悬雍垂。
+
+# 咽喉屌儿忑下来啊
+in1 heu2 dio3 r teh7 ha lae2 a
+> 如皋方言词典
+- 悬雍垂发炎肿大。
