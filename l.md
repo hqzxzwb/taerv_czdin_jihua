@@ -581,7 +581,7 @@
 1. 【[烂烂泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_laen_ni.md#烂烂泥)】`laen6 laen6 ni2` <sup>[如皋]</sup> 含水多难成形的泥。  
 1. 【[烂漠咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_mah_ga.md#烂漠咖)】`laen6 mah ga` <sup>[东台]</sup> 被人批评得太多，简直都被嫌烂了。  
 1. 【[烂眯搭眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_mi_daeh_ngaen.md#烂眯搭眼)】`laen6 mi1 daeh7 ngaen3` <sup>[东台]</sup> 不爽，让人看了恶心。  
-1. 【[烂面黐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_min_chi.md#烂面黐)】`laen6 min6 chi1` <sup>[兴化]</sup> ① 黏性很强的浆糊。 ② （喻）惹不起的人：他是个～，钉上你甩也甩不掉。  
+1. 【[烂面黐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_min_chr.md#烂面黐)】`laen6 min6 chr1` <sup>[兴化]</sup> ① 黏性很强的浆糊。 ② （喻）惹不起的人：他是个～，叮上你甩也甩不掉。  
 1. 【[烂猫<sub>儿</sub>尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_mo_r_shr.md#烂猫<sub>儿</sub>尿)】`laen6 mo2 r shr3` <sup>[如皋]</sup> 喻指地鳖蛇（蝮蛇）盘着的样子。  
 1. 【[烂猫屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_mo_shr.md#烂猫屎)】`laen6 mo2 shr3` <sup>[东台]</sup> ［喻］不能打交道，一沾上身就甩不掉：这家伙是个～，不要同他搭煞。  
 1. 【[烂木头躺吖一堆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_moh_teu_tan_nga_ieh_dy.md#烂木头躺吖一堆)】`laen6 moh8 teu tan3 nga ieh7 dy1` <sup>[东台]</sup> （俗语）［喻］坏人凑到一起。  
@@ -1149,9 +1149,9 @@
 1. 【[里外里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_vae_li.md#里外里)】`li3 vae6 li3` <sup>[泰县]</sup> 反正：这见事～就这吖。  
 1. 【[里子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_zz.md#里子)】`li3 zz` <sup>[如东]</sup> 面子里边的布料。  
 1. 【[里子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_zz.md#里子)】`li3 zz` <sup>[如皋]</sup> ① 表衣物的里料。 ② 表事物的内里、内部、内囊。  
-1. 【[鲤角刮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_y_guaeh_zz.md#鲤角刮子)】`li3 y2 guaeh7 zz` <sup>[兴化]</sup> 不上斤的小鲤鱼。  
 1. 【[鲤鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_y.md#鲤鱼)】`li3 y2` <sup>[如东]</sup> 鲤科动物鲤鱼，也称花鱼。  
 1. 【[鲤鱼拐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_y_guae_zz.md#鲤鱼拐子)】`li3 y2 guae3 zz` <sup>[兴化]</sup> ① 不上斤的小鲤鱼：这种打鱼的，每天打不了多少……大都是不到半斤的～、鲫瓜子、鲶鱼。（汪曾祺《故乡人》） ② 鲤鱼的卵块。  
+1. 【[鲤鱼刮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_y_guaeh_zz.md#鲤鱼刮子)】`li3 y2 guaeh7 zz` <sup>[兴化]</sup> 不上斤的小鲤鱼。  
 1. 【[例假](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_jia.md#例假)】`li6 jia3` <sup>[如东]</sup> ① 国家法律规定公民应该享受的假期。 ② 雅语，妇女的月经期。  
 1. 【[例俗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_soh.md#例俗)】`li6 soh8` <sup>[东台]</sup> 民间一些人兴起，多数人跟着做、逐渐形成的习俗。姑母给爷娘侄子做生日，偶尔、个别的可以，但不能弄成～。  
 1. 【[利巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_ba.md#利巴)】`li6 ba1` <sup>[如皋]</sup> 笨、笨蛋：“见钱不抓，是个大～。”  

@@ -922,6 +922,7 @@
 1. 【[捥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/veh.md#捥)】`veh7` <sup>[如东]</sup> ① 手脚筋骨因扭而受挫肿痛。 ② 使直的东西变弯曲：把竹竿～弯。  
 1. 【[捥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/veh.md#捥)】`veh7` <sup>[兴化]</sup> 手足扭伤。  
 1. 【[捥秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/veh_chen.md#捥秤)】`veh7 chen5` <sup>[如皋]</sup> 称秤者使秤杆失衡以蒙骗顾客的手法。或作yeh7。  
+1. 【[捥咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/veh_ga.md#捥咖)】`veh7 ga` <sup>[如皋]</sup> 关节扭伤：～手爪儿、脚踝儿～下子。  
 1. 【[捥执](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/veh_zheh.md#捥执)】`veh7 zheh7` <sup>[泰县]</sup> 不表明自己的意愿，但固执已见：这人交关～。  
 1. 【[捥竹子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/veh_zhoh_zz.md#捥竹子)】`veh7 zhoh7 zz` <sup>[如皋]</sup> 将竹子用火薰软加力矫形。或作yeh7。  
 1. 【[昒暾<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/veh_den_r.md#昒暾<sub>儿</sub>)】`veh7 den5 r` <sup>[如皋]</sup> 喻微温：早上吃的～粥，肚子有点儿不安逸。  
@@ -933,7 +934,6 @@
 1. 【[殟拱殟拱的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/veh_gon_veh_gon_dii.md#殟拱殟拱的)】`veh7 gon3 veh7 gon3 dii` <sup>[东台]</sup> 心中有怨愤，急欲表达：这次不曾拿到奖，他心里～。  
 1. 【[殟矻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/veh_kueh.md#殟矻)】`veh7 kueh` <sup>[兴化]</sup> 心中憋闷生气：受啊冤枉气，心里～。矻，《广韵·没韵》苦骨切｜用心～。  
 1. 【[殟矻坏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/veh_kueh_huae.md#殟矻坏)】`veh7 kueh7 huae6` <sup>[兴化]</sup> 表面沉默寡言，暗中却使坏弄人：这个小伙～，老把暗苦人吃。｜也称“殟矻子”。  
-1. 【[踒咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/veh_ga.md#踒咖)】`veh7 ga` <sup>[如皋]</sup> 关节扭伤：～手爪儿、脚踝儿～下子。或作“踠”。  
 1. 【[𩑦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/veh.md#𩑦)】`veh7` 淹水：～杀咖。  
 1. 【[𩑦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/veh.md#𩑦)】`veh7` <sup>[东台]</sup> 淹没在水中：他下河游水～煞咖啦。｜他～咖一桶水。  
 1. 【[𩑦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/veh.md#𩑦)】`veh7` <sup>[兴化]</sup> ① 没于水中：一个人忑咖河里～杀咖。 ② 用桶、舀等取水：下河～一𪳄子水来。《广韵·没韵》乌没切“～，内头水中”。  

@@ -1097,7 +1097,7 @@
 1. 【[红麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_ma.md#红麻)】`hon2 ma2` <sup>[如东]</sup> 多年生草本植物。茎有节，紫红色或褐色。叶对生，椭圆形或长圆状披针形。聚伞花序。花红色或淡紫色。全株含有白色乳汁。茎皮的纤维可供织布、制绳索和造纸等。  
 1. 【[红麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_ma.md#红麻)】`hon2 ma2` <sup>[如皋]</sup> 苘麻；槿麻。  
 1. 【[红芒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_man_zz.md#红芒子)】`hon2 man2 zz` <sup>[如东]</sup> 海虾的一种。虾芒呈红色。  
-1. 【[红副<sub>儿</sub>糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_min_r_go.md#红副<sub>儿</sub>糕)】`hon2 min6 r go1` <sup>[如东]</sup> 糯米粉蒸制而成，长方形，上面饰有花纹，并加红色。柔韧清香。  
+1. 【[红面<sub>儿</sub>糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_min_r_go.md#红面<sub>儿</sub>糕)】`hon2 min6 r go1` <sup>[如东]</sup> 糯米粉蒸制而成，长方形，上面饰有花纹，并加红色。柔韧清香。  
 1. 【[红毛色稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_mo_seh_xi.md#红毛色稀)】`hon2 mo2 seh7 xi1` <sup>[东台]</sup> 颜色红得不恰当，看了不舒服。  
 1. 【[红毛荻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_mo_tieh_zz.md#红毛荻子)】`hon2 mo2 tieh8 zz` <sup>[兴化]</sup> 长在海滨或盐酸地上的一种多年生草本植物，形似芦苇，色紫，茎可盖房、编席及帘箔等。‖又称“荻柴儿”。  
 1. 【[红木店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_moh_din.md#红木店)】`hon2 moh8 din5` <sup>[如皋]</sup> 制售红木家俱、器物、摆饰的店。  
