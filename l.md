@@ -1940,7 +1940,7 @@
 1. 【[老鼠药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_chv_iah.md#老鼠药)】`lo3 chv3 iah8` <sup>[如皋]</sup> 引指量少、价昂：他家卖的杲子是～，点点儿卖这许多钱！  
 1. 【[老鼠腰子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_chv_io_zz.md#老鼠腰子)】`lo3 chv3 io1 zz` <sup>[泰县]</sup> 酱制的黄豆。  
 1. 【[老鼠啃书——咬文嚼字](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_chv_ken_shv_ngo_ven_qiah_cz.md#老鼠啃书——咬文嚼字)】`lo3 chv3 ken3 shv1 ngo3 ven2 qiah8 cz6` <sup>[东台]</sup>   
-1. 【[老鼠拉秤砣——自塞门路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_chv_la_chen_tu_cz_zeh_men_lv.md#老鼠拉秤砣——自塞门路)】`lo3 chv3 la1 chen5 tu2 cz6 zeh7 men2 lv6` <sup>[东台]</sup>   
+1. 【[老鼠拉秤砣——自窒门路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_chv_la_chen.md#老鼠拉秤砣——自窒门路)】`lo3 chv3 la1 chen5 tu2 cz6 zheh7 men2 lv6` <sup>[东台]</sup>   
 1. 【[老鼠爬秤杆——自称](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_chv_pa_chen_gun_cz_chen.md#老鼠爬秤杆——自称)】`lo3 chv3 pa2 chen5 gun3 cz6 chen1` <sup>[东台]</sup>   
 1. 【[老鼠忑到磨眼里——转吖折磨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_chv_teh_do_mu_ngaen_lii_zhun_nga_zhih_mu.md#老鼠忑到磨眼里——转吖折磨)】`lo3 chv3 teh7 do5 mu6 ngaen3 lii zhun5 nga zhih7 mu2` <sup>[东台]</sup>   
 1. 【[老鼠偷猫饭——提心吊胆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_chv_teu_mo_faen_ti_xien_dio_daen.md#老鼠偷猫饭——提心吊胆)】`lo3 chv3 teu1 mo2 faen6 ti2 xien1 dio5 daen3` <sup>[东台]</sup>   

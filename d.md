@@ -570,10 +570,9 @@
 1. 【[大伯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_boh.md#大伯)】`da6 boh7` <sup>[如东]</sup> 父亲的大哥。  
 1. 【[大伯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_boh_zz.md#大伯子)】`da6 boh7 zz` <sup>[兴化]</sup> 丈夫的兄长。‖也称“大叔子”。  
 1. 【[大半天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_bun_tin.md#大半天)】`da6 bun5 tin1` <sup>[如皋]</sup> 虚指很久，限白天以内，又作“老半天”“半大天”。  
-1. 【[大布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_bv.md#大布)】`da6 bv1` <sup>[兴化]</sup> 粗布。  
 1. 【[大布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_bv.md#大布)】`da6 bv5` <sup>[如东]</sup> 旧时手工纺织的粗布。  
-1. 【[大布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_bv.md#大布)】`da6 bv5` <sup>[如皋]</sup> 用古传统方法纺织的布。  
-1. 【[大布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_bv.md#大布)】`da6 bv5` <sup>[如皋]</sup> 铁机织布。布幅宽。相对于小布而言。  
+1. 【[大布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_bv.md#大布)】`da6 bv5` <sup>[如皋]</sup> ① 用古传统方法纺织的布。 ② 铁机织布。布幅宽。相对于小布而言。  
+1. 【[大布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_bv.md#大布)】`da6 bv5` <sup>[兴化]</sup> 粗布。  
 1. 【[大菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_cae.md#大菜)】`da6 cae5` <sup>[如东]</sup> 宴席时，碗盆盛装的热菜（与冷盘对应）。  
 1. 【[大菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_cae.md#大菜)】`da6 cae5` <sup>[如皋]</sup> 宴席中的正菜。多指碗装的汤菜、烧烤等。与冷盘、热碟相对。  
 1. 【[大菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_cae.md#大菜)】`da6 cae5` <sup>[如皋]</sup> 见“桌菜”。  

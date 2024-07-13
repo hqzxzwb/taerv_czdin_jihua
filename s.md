@@ -2168,6 +2168,7 @@
 1. 【[少要时髦老要乖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_io_shr_mo_lo_io_guae.md#少要时髦老要乖)】`sho5 io5 shr2 mo2 lo3 io5 guae1` <sup>[东台]</sup> 年轻人要跟得上形势，老年人要多听少说。  
 1. 【[少年人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_nin_ren.md#少年人)】`sho5 nin ren2` <sup>[兴化]</sup> 即青年人。和普通话中“少年”一词所指年龄上下限不一致：……只听那台下正座上，有一个～，不到三十岁光景……（《老残游记》二）「“……少年人。年纪轻轻的，不要含血喷人……”（《武松》二）  
 1. 【[少年人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_nin_ren.md#少年人)】`sho5 nin ren2` <sup>[泰县]</sup> 青年人。  
+1. 【[少年时候](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_nin_shr_heu.md#少年时候)】`sho5 nin shr2 heu` <sup>[如皋]</sup> 年轻时  
 1. 【[少年夫妻老来伴，一时不见淌冷汗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_nin_fv_qi_lo_lae_pun_ieh_shr_beh_jin_tan_len_hun.md#少年夫妻老来伴，一时不见淌冷汗)】`sho5 nin2 fv1 qi1 lo3 lae2 pun6 ieh7 shr2 beh7 jin5 tan3 len3 hun6` <sup>[如皋]</sup> 就是老伴也要时时在一起。  
 1. 【[少年豪气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_nin_ho_qi.md#少年豪气)】`sho5 nin2 ho2 qi5` <sup>[兴化]</sup> 指年轻气盛：……一个叫做窦尚文，一个叫做窦尚武，多是～，眼底无人之辈。（《二刻》九）  
 1. 【[少年豪气的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_nin_ho_qi_dii.md#少年豪气的)】`sho5 nin2 ho2 qi5 dii` <sup>[如皋]</sup> 责语。意为：少年人正是充满毫情的时候，不该暮气沉沉、老气横秋。  
@@ -2179,7 +2180,6 @@
 1. 【[少年人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_nin_ren.md#少年人)】`sho5 nin2 ren2` <sup>[如皋]</sup> 青年人。  
 1. 【[少年人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_nin_ren.md#少年人)】`sho5 nin2 ren2` <sup>[如东]</sup> 青年人：他俫都是～。  
 1. 【[少年身子老年命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_nin_shen_zz_lo_nin_mien.md#少年身子老年命)】`sho5 nin2 shen1 zz lo3 nin2 mien6` <sup>[如皋]</sup> 年轻而体弱显得衰老的人。  
-1. 【[少年时候](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_nin_shir_heu.md#少年时候)】`sho5 nin2 shir2 heu` <sup>[如皋]</sup> 年轻时  
 1. 【[少年水虫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_nin_shuei_chon_r.md#少年水虫<sub>儿</sub>)】`sho5 nin2 shuei3 chon2 r` <sup>[如皋]</sup> 见“奅儿”。  
 1. 【[少年水虫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_nin_shuei_chon_r.md#少年水虫<sub>儿</sub>)】`sho5 nin2 shuei3 chon2 r` <sup>[如皋]</sup> 因缺少经验而容易上当吃亏的年轻人。  
 1. 【[少年亡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_nin_van.md#少年亡)】`sho5 nin2 van2` <sup>[东台]</sup> 本指很年轻就死亡的人，常常作为詈语。  

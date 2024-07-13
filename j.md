@@ -110,7 +110,7 @@
 1. 【[鸡杂碎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zaeh_xy.md#鸡杂碎)】`ji1 zaeh7 xy5` <sup>[如皋]</sup> 鸡的内脏、头、脚等次等食品的总称。  
 1. 【[鸡争鸭斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zhen_ngaeh_deu.md#鸡争鸭斗)】`ji1 zhen1 ngaeh7 deu5` <sup>[如皋]</sup> 表示经常的小争执。  
 1. 【[鸡争鸭斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zhen_ngaeh_deu.md#鸡争鸭斗)】`ji1 zhen1 ngaeh7 deu5` <sup>[东台]</sup> 为了小事而不停地争吵。  
-1. 【[鸡争鸭斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zhen_ngaen_deu.md#鸡争鸭斗)】`ji1 zhen1 ngaen7 deu5` <sup>[兴化]</sup> （喻）吵吵闹闹的：（他）从此一心一意做生意……不再跟人～的了。（《皮五城子》一）  
+1. 【[鸡争鸭斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zhen_ngaeh_deu.md#鸡争鸭斗)】`ji1 zhen1 ngaeh7 deu5` <sup>[兴化]</sup> （喻）吵吵闹闹的：（他）从此一心一意做生意……不再跟人～的了。（《皮五辣子》一）  
 1. 【[鸡爪<sub>儿</sub>风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zho_r_fon.md#鸡爪<sub>儿</sub>风)】`ji1 zho3 r fon1` <sup>[如皋]</sup> 指（趾）肌肉痉挛。  
 1. 【[鸡爪疯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zhua_fon.md#鸡爪疯)】`ji1 zhua1 fon1` <sup>[兴化]</sup> 由于手足痉挛，指头不能伸屈的一种疾病：（这个小伙）手朝起环，筋朝起皱，又疼又痠……活象得了～。（扬一《扬香武一盗九龙杯》）  
 1. 【[鸡肫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zhuen_zz.md#鸡肫子)】`ji1 zhuen1 zz` <sup>[如皋]</sup> 鸡的沙囊，即胃。  
@@ -1263,7 +1263,6 @@
 1. 【[救性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_xien.md#救性)】`jieu5 xien` <sup>[兴化]</sup> ① 危重病人尚可救治：“谢天地！恁的时还有～！”（《水浒传》五四）。 ② （借）染有恶习的人尚可教育挽救：他有～没～，就看他自己哿有决心！  
 1. 【[救性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_xien.md#救性)】`jieu5 xien5` <sup>[如皋]</sup> 挽救的可能性：病太重吖，没～吖。  
 1. 【[疚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu.md#疚)】`jieu5` <sup>[东台]</sup> 由于自己的过失而产生不安或惭愧的心情：内～｜负～。  
-1. 【[旧年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_nin.md#旧年)】`jieu6 nin2` <sup>[兴化]</sup> 去年：“～闻得这人惹了祸逃走了，不知回来了不曾？”（《红楼梦》六六）。  
 1. 【[劫财神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_cae_shen.md#劫财神)】`jih7 cae2 shen2` <sup>[泰县]</sup> 土匪把富人劫走。  
 1. 【[劫难](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_naen.md#劫难)】`jih7 naen5` <sup>[东台]</sup> 指宿世恶业所带来的灾难。后泛指灾难。  
 1. 【[劫抢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_qian.md#劫抢)】`jih7 qian3` <sup>[兴化]</sup> “抢劫”的逆序词：歹徒拦路～。  

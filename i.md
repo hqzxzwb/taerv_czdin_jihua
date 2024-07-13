@@ -594,7 +594,7 @@
 1. 【[洋尿脬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_xy_bo.md#洋尿脬)】`ian2 xy1 bo1` <sup>[如皋]</sup> 玩具汽球胶囊。  
 1. 【[洋芋头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_y_teu.md#洋芋头)】`ian2 y6 teu` <sup>[如皋]</sup> 葵花芋，又名生姜芋。  
 1. 【[洋芋头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_y_teu.md#洋芋头)】`ian2 y6 teu2` <sup>[如东]</sup> 茄科植物马铃薯，又名洋番芋，一年生草本。地下块茎椭圆形外皮黄白色，内白色，具芽眼，着生于不长的匍匐茎上。地上茎柔弱，多分枝。羽状复叶，互生，小叶卵形或椭圆状卵形，全缘。聚伞花序。花白色或淡紫色。浆果球形。栽培。  
-1. 【[洋虘武虘至](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_zha_v_zha_dii.md#洋虘武虘至)】`ian2 zha1 v3 zha1 dii` <sup>[如皋]</sup> 耀武扬威、非常蛮横的样子。  
+1. 【[洋虘武虘的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_zha_v_zha_dii.md#洋虘武虘的)】`ian2 zha1 v3 zha1 dii` <sup>[如皋]</sup> 耀武扬威、非常蛮横的样子。  
 1. 【[洋针](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_zhen.md#洋针)】`ian2 zhen1` <sup>[如东]</sup> 缝纫机。  
 1. 【[洋针车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_zhen_cha.md#洋针车)】`ian2 zhen1 cha1` 缝纫机  
 1. 【[洋枕头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_zhen_teu.md#洋枕头)】`ian2 zhen3 teu` <sup>[如皋]</sup> 扁而阔的枕头，与传统方柱形枕头相对。  

@@ -1133,6 +1133,7 @@
 1. 【[轻头毌颈的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_teu_kuaeh_jien_dii.md#轻头毌颈的)】`qien1 teu2 kuaeh8 jien3 dii` <sup>[如皋]</sup> 责语，指举止不庄重的样子。  
 1. 【[轻下难逢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_xia_naen_fon.md#轻下难逢)】`qien1 xia6 naen2 fon2` <sup>[如东]</sup> 很不容易相遇。  
 1. 【[青饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_bien.md#青饼)】`qien1 bien3` <sup>[东台]</sup> 即柿饼，因出自山东青州故名。  
+1. 【[青布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_bv.md#青布)】`qien1 bv5` <sup>[如皋]</sup> 旧时染坊用大青叶沤出汁做颜料染出的土布。  
 1. 【[青布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_bv.md#青布)】`qien1 bv5` <sup>[如东]</sup> 旧时染坊用大青叶颜料染出的大布。  
 1. 【[青菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_cae.md#青菜)】`qien1 cae5` <sup>[如东]</sup> 十字花科植物青菜，又称菘菜，一年生或二年生草本。  
 1. 【[青菜豆腐保平安](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_cae_teu_fv_bo_pien_un.md#青菜豆腐保平安)】`qien1 cae5 teu6 fv bo3 pien2 un1` <sup>[东台]</sup> 本指送灶这天的菜，现泛指素菜有益健康。  
@@ -1270,7 +1271,6 @@
 1. 【[请神容易送神难](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_shen_ion_i_son_shen_naen.md#请神容易送神难)】`qien3 shen2 ion2 i6 son5 shen2 naen2` <sup>[东台]</sup> 请有身份或有影响的人物进来不难，但打发是费事的。  
 1. 【[请士用将](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_shr_ion_jian.md#请士用将)】`qien3 shr6 ion6 jian5` <sup>[兴化]</sup> 有事找亲友帮忙：以后有事雇人来做，免得～的，欠人家情。  
 1. 【[请中请](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_zhon_qien.md#请中请)】`qien3 zhon qien3` <sup>[兴化]</sup> 间接请托：有些事情寻不到人直接帮忙，只好～。  
-1. 【[青布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_bv.md#青布)】`qien3 bv5` <sup>[如皋]</sup> 旧时染坊用大青叶沤出汁做颜料染出的土布。  
 1. 【[亲家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ga.md#亲家)】`qien5 ga` <sup>[如皋]</sup> 姻亲的双方家族间长辈的关系称。  
 1. 【[亲家公](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ga_gon.md#亲家公)】`qien5 ga gon1` <sup>[如东]</sup> 女儿的父亲和女婿的父亲。  
 1. 【[亲家公](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ga_gon.md#亲家公)】`qien5 ga gon1` <sup>[东台]</sup> 称儿子的岳父或女儿的公公。  
@@ -1421,6 +1421,7 @@
 1. 【[旧货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_hu.md#旧货)】`qieu6 hu5` <sup>[如皋]</sup> 二手货。  
 1. 【[旧货店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_hu_din.md#旧货店)】`qieu6 hu5 din5` <sup>[如皋]</sup> 二手货商店（旧货调剂商店）。  
 1. 【[旧年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_nin.md#旧年)】`qieu6 nin2` <sup>[如皋]</sup> 过去的年份。  
+1. 【[旧年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_nin.md#旧年)】`qieu6 nin2` <sup>[兴化]</sup> 去年：“～闻得这人惹了祸逃走了，不知回来了不曾？”（《红楼梦》六六）。  
 1. 【[臼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu.md#臼)】`qieu6` <sup>[如皋]</sup> 见“碓臼”。  
 1. 【[臼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu.md#臼)】`qieu6` <sup>[如皋]</sup> 麻石内凿成漏斗形的用具。口语音qiun6。  
 1. 【[臼齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_chr.md#臼齿)】`qieu6 chr3` <sup>[东台]</sup> 以研磨为用途的牙齿，位置在口腔后方两侧。（“白”本指春米或捣物用的器具）  
