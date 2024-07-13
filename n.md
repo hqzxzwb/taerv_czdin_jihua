@@ -1604,7 +1604,6 @@
 1. 【[牛皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu_pi.md#牛皮)】`nieu2 pi2` <sup>[泰县]</sup> ① 说空话：吹～。 ② 有本事，他现在的～大𪠸！  
 1. 【[牛皮忑忑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu_pi_teh_teh.md#牛皮忑忑)】`nieu2 pi2 teh7 teh7` <sup>[东台]</sup> 也称“牛屄吽吽”，形容接连不断地吹牛，说大话。  
 1. 【[牛皮筒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu_pi_ton_zz.md#牛皮筒子)】`nieu2 pi2 ton3 zz` <sup>[东台]</sup> 戏指吹牛吹得太厉害的人。  
-1. 【[妞<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu_r.md#妞<sub>儿</sub>)】`nieu3 r` <sup>[如皋]</sup> 瓜果的雌花和嫩胚。  
 1. 【[扭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu.md#扭)】`nieu3` <sup>[如东]</sup> 摇摆着。  
 1. 【[扭扭怪怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu_nieu_guae_guae.md#扭扭怪怪)】`nieu3 nieu3 guae5 guae5` <sup>[兴化]</sup> 矫揉造作，举止不大方：你有话好好说，覅～的。  
 1. 【[扭扭郭郭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu_nieu_guah_guah.md#扭扭郭郭)】`nieu3 nieu3 guah7 guah7` <sup>[如东]</sup> ① 身体扭动：红儿走路时，身子总是～的。 ② 比喻决定问题迟疑不决：张红兰决定问题总是～的。  
@@ -1620,6 +1619,7 @@
 1. 【[纽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu.md#纽)】`nieu3` <sup>[兴化]</sup> 各种瓜果刚结的果实：斜瓜～。  
 1. 【[纽扣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu_keu_r.md#纽扣<sub>儿</sub>)】`nieu3 keu1 r` <sup>[如东]</sup> 布条儿做的纽襻，与桃儿成对。  
 1. 【[纽襻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu_paen.md#纽襻)】`nieu3 paen5` <sup>[兴化]</sup> 扣住纽扣的套儿：他穿了一身铁机纺绸褂裤……盘花钮扣，～拖出一截银表链。（汪曾祺《落魄》）  
+1. 【[纽<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu_r.md#纽<sub>儿</sub>)】`nieu3 r` <sup>[如皋]</sup> 瓜果的雌花和嫩胚。  
 1. 【[拗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu.md#拗)】`nieu5` <sup>[东台]</sup> 固执。  
 1. 【[拗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu.md#拗)】`nieu6` <sup>[如皋]</sup> 固执、不驯顺：执～、～脾气。  
 1. 【[嗫鬼噊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nih_guei_jyeh_zz.md#嗫鬼噊子)】`nih8 guei3 jyeh7 zz` <sup>[如皋]</sup> 独自轻声叽咕或二人低声叽咕。  

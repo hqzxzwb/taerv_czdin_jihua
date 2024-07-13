@@ -1831,7 +1831,7 @@
 1. 【[手条子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_tio_zz.md#手条子)】`sheu3 tio2 zz` <sup>[兴化]</sup> （贬）手段：他～辣。  
 1. 【[手条子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_tio_zz.md#手条子)】`sheu3 tio2 zz` <sup>[泰县]</sup> 手段、手腕：你～太辣。  
 1. 【[手套<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_to_r.md#手套<sub>儿</sub>)】`sheu3 to5 r` <sup>[泰县]</sup> 手套。  
-1. 【[手腕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_un.md#手腕)】`sheu3 un3` <sup>[东台]</sup> ① 本指人体连接手掌和前手臂的部位。 ② ［喻］不正当的手段：那人不够光明正大，喜欢耍～。  
+1. 【[手腕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_un.md#手腕)】`sheu3 un5-3` <sup>[东台]</sup> ① 本指人体连接手掌和前手臂的部位。 ② ［喻］不正当的手段：那人不够光明正大，喜欢耍～。  
 1. 【[手弯<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_vaen_r.md#手弯<sub>儿</sub>)】`sheu3 vaen1 r` <sup>[如皋]</sup> 肘内缘。  
 1. 【[手弯<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_vaen_r.md#手弯<sub>儿</sub>)】`sheu3 vaen1 r` <sup>[如东]</sup> 胳膊肘内侧可以向里弯曲的部位。  
 1. 【[手弯<sub>儿</sub>里的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_vaen_r_li_dii.md#手弯<sub>儿</sub>里的)】`sheu3 vaen1 r li3 dii` <sup>[如东]</sup> 比喻是自己内部的人。  

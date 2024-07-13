@@ -582,10 +582,9 @@
 1. 【[格子床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_zz_chuan.md#格子床)】`geh7 zz chuan2` <sup>[如东]</sup> 床的一种，床架为格子结构。  
 1. 【[格子门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_zz_men.md#格子门)】`geh7 zz men2` <sup>[如东]</sup> 门的一种。上半部为格子，下半部为门板。  
 1. 【[槅扇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_shin.md#槅扇)】`geh7 shin5` <sup>[如东]</sup> 堂屋大门两侧腰墙上面安装的木槅子门，叫槅扇  
-1. 【[槅扇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_shin.md#槅扇)】`geh7 shin5` <sup>[如皋]</sup> 古式房屋用的装有很多小木桶的杉木门窗。  
-1. 【[槅头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_teu.md#槅头)】`geh7 teu` <sup>[如皋]</sup> 见“牛槅头”。  
+1. 【[槅扇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_shin.md#槅扇)】`geh7 shin5` <sup>[如皋]</sup> 古式房屋用的装有很多小木格的杉木门窗。  
 1. 【[槅头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_teu.md#槅头)】`geh7 teu` <sup>[如皋]</sup> 驾于牛肩上的人字木。  
-1. 【[槅头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_teu.md#槅头)】`geh7 teu2` <sup>[如东]</sup> 水牛驾车时套在脖子上的木条，形如弯钩，这种工具称桶头。  
+1. 【[槅头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_teu.md#槅头)】`geh7 teu2` <sup>[如东]</sup> 水牛驾车时套在脖子上的木条，形如弯钩。  
 1. 【[槅子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_zz.md#槅子)】`geh7 zz` <sup>[如皋]</sup> 见“槅扇”。  
 1. 【[槅子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_zz.md#槅子)】`geh7 zz` <sup>[兴化]</sup> 旧式建筑中的长窗，上部由细木条拼成格眼，内糊白纸或嵌明角。下部为木板：这大厅的前面一排六扇～。  
 1. 【[疙瘩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_daeh.md#疙瘩)】`geh7 daeh` <sup>[兴化]</sup> ① 煮面团，也称“面鱼儿”。 ② 粗面条：青菜下～。  

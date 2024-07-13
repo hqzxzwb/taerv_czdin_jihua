@@ -2167,7 +2167,7 @@
 1. 【[腰鼓子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_gv_zz.md#腰鼓子)】`io1 gv3 zz` <sup>[如皋]</sup> 腰围。  
 1. 【[腰花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_hua.md#腰花)】`io1 hua1` <sup>[东台]</sup> 用刀把猪肾打花刀后再切成小块。  
 1. 【[腰里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_lii.md#腰里)】`io1 lii` <sup>[如皋]</sup> ① 胯下。 ② 腰部。 ③ 腰部放钱处：～没钱不上街。  
-1. 【[腰里夹个死老鼠——假充打猎的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_lii_gaeh_gu_sz_lo_chv_jia_chon_da_lih_dii.md#腰里夹个死老鼠——假充打猎的)】`io1 lii gaeh7 gu sz3 lo3 chv3 jia3 chon1 da3 lih7 dii` <sup>[东台]</sup>   
+1. 【[腰里夹个死老鼠——假充打猎的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_lii_gaeh_gu.md#腰里夹个死老鼠——假充打猎的)】`io1 lii gaeh7 gu sz3 lo3 chv3 jia3 chon1 da3 lih8 dii` <sup>[东台]</sup>   
 1. 【[腰里无铜，不能称雄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_lii_v_ton_beh_nen_chen_xion.md#腰里无铜，不能称雄)】`io1 lii v2 ton2 beh7 nen2 chen1 xion2` <sup>[东台]</sup> 经济实力非常重要。  
 1. 【[腰料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_lio.md#腰料)】`io1 lio6` <sup>[如东]</sup> 窗子中间的横档。  
 1. 【[腰门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_men.md#腰门)】`io1 men2` <sup>[东台]</sup> 大门外加的半人高的木门。  

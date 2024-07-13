@@ -785,10 +785,10 @@
 1. 【[相貌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_mo.md#相貌)】`xian5 mo6` <sup>[如东]</sup> 人的容貌。  
 1. 【[相吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_nga.md#相吖)】`xian5 nga` <sup>[东台]</sup> 看着，相当于明明是，后面接转折意：这许～干净，他却嫌脏。  
 1. 【[相吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_nga.md#相吖)】`xian5 nga` <sup>[兴化]</sup> 明明的：这个钱～是他拿啊去的，现在不承认，想赖哪个？  
+1. 【[相吖脚的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_nga_jiah_dii.md#相吖脚的)】`xian5 nga jiah7 dii` <sup>[东台]</sup> 提醒走路时脚下小心。  
 1. 【[相吖他（我）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_nga_ta.md#相吖他（我）)】`xian5 nga ta1` <sup>[如皋]</sup> 干瞪眼。此语有叹息的意思。  
 1. 【[相吖他（我）㗇气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_nga_ta_ha_qi.md#相吖他（我）㗇气)】`xian5 nga ta1 ha2 qi5` <sup>[如皋]</sup> 干瞪眼。此语有叹息的意思。  
 1. 【[相吖他（我）懒眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_nga_ta_laen_ngaen.md#相吖他（我）懒眼)】`xian5 nga ta1 laen3 ngaen3` <sup>[如皋]</sup> 干瞪眼。此语有叹息的意思。  
-1. 【[相吖脚的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_nga_jiah_dii.md#相吖脚的)】`xian5 nga5 jiah7 dii` <sup>[东台]</sup> 提醒走路时脚下小心。  
 1. 【[相㗘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_pah.md#相㗘)】`xian5 pah7` <sup>[如皋]</sup> 眼看他人得益而自己无望，无可奈何。  
 1. 【[相嗙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_pan.md#相嗙)】`xian5 pan5` <sup>[如东]</sup> 看着别人说话，自己不能发言。比喻无权参与：现在只好～。  
 1. 【[相奊头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_qia_teu_r.md#相奊头<sub>儿</sub>)】`xian5 qia1 teu2 r` <sup>[如皋]</sup> 头歪着看别人玩棋、牌。  

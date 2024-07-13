@@ -1245,7 +1245,7 @@
 1. 【[明路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_lv.md#明路)】`mien2 lv6` <sup>[兴化]</sup> 正路、能顺利达到目标的路：你覅再乱闯吖，我给你指条～吧！｜“……他还说，指了小的这条～，得了手，他要分半成账……”（《儿女英雄传》三一）  
 1. 【[明明](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_mien.md#明明)】`mien2 mien2` <sup>[如皋]</sup> 强调感知很清楚：手表～是放吖桌上的，怎吖会没得咖的？～是你不对，不要狡辩。  
 1. 【[明气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_qi.md#明气)】`mien2 qi5` <sup>[如东]</sup> 气温、地温：立春以后，～奔上。  
-1. 【[明取明采](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_qy_mien_cae.md#明取明采)】`mien2 qy2 mien2 cae3` <sup>[兴化]</sup> 大明大白地索取：你要甚的就～的，不要转出花样来弄人。  
+1. 【[明取明采](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_qy_mien_cae.md#明取明采)】`mien2 qy3 mien2 cae3` <sup>[兴化]</sup> 大明大白地索取：你要甚的就～的，不要转出花样来弄人。  
 1. 【[明人不说暗话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_ren_beh_shuh_un_hua.md#明人不说暗话)】`mien2 ren2 beh7 shuh7 un5 hua6` <sup>[东台]</sup> 有话当面说。  
 1. 【[明霜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_shuan.md#明霜)】`mien2 shuan1` <sup>[如东]</sup> 霜晶清晰可见。  
 1. 【[明霜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_shuan.md#明霜)】`mien2 shuan1` <sup>[如皋]</sup> 可见霜，与“暗霜”相对。  
@@ -1547,7 +1547,7 @@
 1. 【[毛躁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_zo.md#毛躁)】`mo2 zo5` <sup>[兴化]</sup> 脾气急躁：不是我～，他的做法太气人。  
 1. 【[猎<sub>儿</sub>肉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_r_roh_zz.md#猎<sub>儿</sub>肉子)】`mo2 r roh8 zz` <sup>[兴化]</sup> （喻）形容未成熟的西瓜口感酸而起腻。  
 1. 【[猫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo.md#猫)】`mo2` <sup>[如东]</sup> 猫科动物猫。  
-1. 【[猫耳朵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_er_tu.md#猫耳朵)】`mo2 er3 tu` <sup>[兴化]</sup> 一种油炸食品，以其形状得名。  
+1. 【[猫耳朵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_er_du.md#猫耳朵)】`mo2 er3 du` <sup>[兴化]</sup> 一种油炸食品，以其形状得名。  
 1. 【[猫养猫蘣，狗养狗蘣，刺鱼养的滑滴滴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_ian_mo_ton_geu_ian_geu_ton_cz_y_ian_dii_huaeh_dieh_dieh.md#猫养猫蘣，狗养狗蘣，刺鱼养的滑滴滴)】`mo2 ian3 mo2 ton5 geu3 ian3 geu3 ton5 cz5 y2 ian3 dii huaeh8 dieh7 dieh7` <sup>[东台]</sup> 一种偏爱子女的心理。  
 1. 【[猫哭老鼠——假慈悲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_koh_lo_chv_jia_cz_bei.md#猫哭老鼠——假慈悲)】`mo2 koh7 lo3 chv3 jia3 cz2 bei1` <sup>[东台]</sup>   
 1. 【[猫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_r.md#猫<sub>儿</sub>)】`mo2 r` 猫  

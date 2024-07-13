@@ -1697,6 +1697,7 @@
 1. 【[疮口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_keu.md#疮口)】`chuan1 keu3` <sup>[东台]</sup> 疮的破口。  
 1. 【[窗封](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_fon.md#窗封)】`chuan1 fon` <sup>[如东]</sup> 房屋墙壁或屋面上通风透光的装置，有方形、圆形、棱形等多种形状。也称窗户。  
 1. 【[窗封](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_fon.md#窗封)】`chuan1 fon1` <sup>[如皋]</sup> 窗户。  
+1. 【[窗槅子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_geh_zz.md#窗槅子)】`chuan1 geh7 zz` <sup>[如皋]</sup> 内有许多小格子的老式木窗扇。  
 1. 【[窗檐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_in.md#窗檐)】`chuan1 in2` <sup>[如东]</sup> 窗户上方遮挡雨水的建筑物。  
 1. 【[窗框](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_kuan.md#窗框)】`chuan1 kuan1` <sup>[如东]</sup> 安置窗户的框子，称窗框。有木质和金属两种。  
 1. 【[窗棂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_lien.md#窗棂)】`chuan1 lien2` <sup>[如东]</sup> 窗子的横档。也叫槅子。  
@@ -1745,7 +1746,6 @@
 1. 【[床肚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_tv.md#床肚)】`chuan2 tv6` <sup>[兴化]</sup> 床下。  
 1. 【[床围](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_vei.md#床围)】`chuan2 vei2` <sup>[东台]</sup> 披在床沿前的布，用以遮住床底下的东西。  
 1. 【[床罩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_zho.md#床罩)】`chuan2 zho5` <sup>[东台]</sup> 新式床上用绸布面料制成的罩在床上的罩子。  
-1. 【[窗槅子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_geh_zz.md#窗槅子)】`chuan2 geh7 zz` <sup>[如皋]</sup> 内有许多小格子的老式木窗扇。  
 1. 【[闯祸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_hu.md#闯祸)】`chuan3 hu6` <sup>[如东]</sup> 因疏忽大意、行动粗莽而引起事端或造成损失：你闯吖祸啦！  
 1. 【[闯祸的大王](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_hu_dii_tae_van.md#闯祸的大王)】`chuan3 hu6 dii tae6 van2` <sup>[东台]</sup> ［喻］会经常地惹事生非，不得安宁的人。  
 1. 【[闯马路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_ma_lv.md#闯马路)】`chuan3 ma3 lv6` <sup>[如东]</sup> 横穿马路：不要～。  

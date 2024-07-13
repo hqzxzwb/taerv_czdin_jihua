@@ -1336,7 +1336,6 @@
 1. 【[婆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_zz.md#婆子)】`pu2 zz` <sup>[兴化]</sup> 中老年妇女，且常指仆妇：就是王纪先有两个待妾，在后面居住，有几个丫头～。（《续小五义》）  
 1. 【[婆子气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_zz_qi.md#婆子气)】`pu2 zz qi5` <sup>[兴化]</sup> 见“婆婆腔”。  
 1. 【[笸篮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_laen.md#笸篮)】`pu2 laen2` <sup>[如皋]</sup> 也说pu2 laen3，篾制深盘状盛器。口径约11.5m。  
-1. 【[罗皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_pi.md#罗皮)】`pu2 pi2` <sup>[兴化]</sup> 即海蜇皮，可食用。  
 1. 【[剖解/破解](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_gae.md#剖解/破解)】`pu4 gae3` <sup>[泰县]</sup> 解剖。  
 1. 【[剖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu.md#剖)】`pu5` <sup>[如东]</sup> 用刀刃切开。训读。  
 1. 【[剖解](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_gae.md#剖解)】`pu5 gae3` <sup>[如东]</sup> 剖析解释：他的脑筋不分清，你～给他听。  

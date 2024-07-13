@@ -1306,7 +1306,6 @@
 1. 【[近路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_lv.md#近路)】`qien6 lv6` <sup>[如东]</sup> 距离最短的路。比喻做事简捷爽利，不绕弯子，不搞繁琐：走～。  
 1. 【[近巧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_qio.md#近巧)】`qien6 qio` <sup>[东台]</sup> 路途近一些：现在苏通大桥一通，到上海比过去～多啊。  
 1. 【[近觑眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_qy_ngaen.md#近觑眼)】`qien6 qy ngaen3` <sup>[兴化]</sup> 近视眼。  
-1. 【[近𥋖眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_qy_ngaen.md#近𥋖眼)】`qien6 qy ngaen3` <sup>[兴化]</sup> 近视眼。  
 1. 【[近𥋖眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_qy_ngaen.md#近𥋖眼)】`qien6 qy1 ngaen3` <sup>[如皋]</sup> 近视眼。  
 1. 【[近身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_shen.md#近身)】`qien6 shen1` <sup>[兴化]</sup> 接触身体：她又是哭又是跳，就是不让那个男的～。｜爱娘把顾娘子相待甚厚，并提控不进房、不～的事，说了一遍。（《二刻》十五）  
 1. 【[靖海门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_hae_men.md#靖海门)】`qien6 hae3 men2` <sup>[如皋]</sup> 明代如皋东城门名。  

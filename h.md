@@ -2398,7 +2398,7 @@
 1. 【[豁嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_jy.md#豁嘴)】`huh7 jy3` <sup>[东台]</sup> 嘴唇裂缺，又叫兔唇。  
 1. 【[豁里扳齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_lii_baen_chr.md#豁里扳齿)】`huh7 lii baen1 chr3` <sup>[泰县]</sup> 很不整齐：这张纸你裁得～的。  
 1. 【[豁里弯齿的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_lii_vaen_chr_dii.md#豁里弯齿的)】`huh7 lii vaen1 chr3 dii` <sup>[东台]</sup> 形容很不整齐，非常难看。  
-1. 【[豁牙扳齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_nga_baen_chr.md#豁牙扳齿)】`huh7 nga2 baen5 chr3` <sup>[兴化]</sup> ① 形容口中缺齿且排列不整。 ② （借）形容器物、墙壁等破损不堪：这堵墙～的，人一爬就过去啊。  
+1. 【[豁牙𢴬齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_nga_baen_chr.md#豁牙𢴬齿)】`huh7 nga2 baen5 chr3` <sup>[兴化]</sup> ① 形容口中缺齿且排列不整。 ② （借）形容器物、墙壁等破损不堪：这堵墙～的，人一爬就过去啊。  
 1. 【[豁牙落齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_nga_lah_chr.md#豁牙落齿)】`huh7 nga2 lah8 chr3` <sup>[如东]</sup> ① 牙齿落了很多。 ② 不整齐：把个布剪吖～。  
 1. 【[豁䶕齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_pa_chr.md#豁䶕齿)】`huh7 pa chr3` <sup>[东台]</sup> 门牙残缺，或指幼童乳牙掉落，恒牙未长全。  
 1. 【[豁䶕齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_pa_chr.md#豁䶕齿)】`huh7 pa2 chr3` <sup>[泰县]</sup> 牙齿不全。  

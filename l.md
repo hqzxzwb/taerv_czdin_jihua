@@ -2547,6 +2547,7 @@
 1. 【[罗罗网<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_lu_van_r.md#罗罗网<sub>儿</sub>)】`lu2 lu2 van3 r` <sup>[如皋]</sup> 蜘蛛网。  
 1. 【[罗罗网<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_lu_van_r.md#罗罗网<sub>儿</sub>)】`lu2 lu2 van3 r` <sup>[如皋]</sup> 蛛网。  
 1. 【[罗罗网<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_lu_van_r.md#罗罗网<sub>儿</sub>)】`lu2 lu2 van3 r` <sup>[兴化]</sup> 蜘蛛网。  
+1. 【[罗皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_pi.md#罗皮)】`lu2 pi2` <sup>[兴化]</sup> 即海蜇皮，可食用。  
 1. 【[罗盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_pun.md#罗盘)】`lu2 pun2` <sup>[如东]</sup> 指示方向的仪器。也叫指南针。  
 1. 【[罗圈腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_qiun_tuei.md#罗圈腿)】`lu2 qiun1 tuei3` <sup>[如东]</sup> ① 两腿略呈弓形。 ② 两腿略呈弓形的人。  
 1. 【[罗筛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_shae.md#罗筛)】`lu2 shae1` <sup>[如皋]</sup> 用罗鞔的筛子，网眼很小，用以筛面、粉、糏。  
