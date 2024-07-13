@@ -523,9 +523,9 @@
 1. 【[洋码<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ma_r.md#洋码<sub>儿</sub>)】`ian2 ma3 r` <sup>[如皋]</sup> 阿拉伯数字。  
 1. 【[洋马齿苋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ma_chr_haen.md#洋马齿苋)】`ian2 ma3 chr3 haen6` <sup>[如皋]</sup> 半枝莲。一种小型花卉。  
 1. 【[洋名广](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_mien_guan.md#洋名广)】`ian2 mien2 guan3` <sup>[兴化]</sup> 花样、名堂：昨晚七八百一桌也不晓得吃的甚的～？｜他子午卯酉半大天，也不曾说出个～来。  
+1. 【[洋面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_min.md#洋面)】`ian2 min6` <sup>[如皋]</sup> 指机器加工的干面。  
 1. 【[洋面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_min.md#洋面)】`ian2 min6` <sup>[兴化]</sup> 机制小麦粉：～袋子。  
 1. 【[洋面广](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_min_guan.md#洋面广)】`ian2 min6 guan3` <sup>[东台]</sup> 或作“洋文广”。不着边际的乱说。  
-1. 【[洋麪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_min.md#洋麪)】`ian2 min6` <sup>[如皋]</sup> 指机器加工的干面。  
 1. 【[洋茉莉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_muh_li.md#洋茉莉)】`ian2 muh8 li` <sup>[如皋]</sup> 香水草。  
 1. 【[洋鸦雀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_nga_jiah.md#洋鸦雀)】`ian2 nga1 jiah7` <sup>[如东]</sup> 鸦科动物灰喜鹊，也叫山喜鹊、马尾鹊。体长约40厘米。头部黑色，天蓝色的大尾巴。常在住宅旁活动，喜结群穿梭于林间。鸣叫声较为单调。爱吃昆虫，兼食浆果与种子。属益鸟。  
 1. 【[洋牛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ngeu_r.md#洋牛<sub>儿</sub>)】`ian2 ngeu2 r` <sup>[如皋]</sup> 西洋牛，即荷兰牛。俗说：召起来像～，即叫声很响、很高。  

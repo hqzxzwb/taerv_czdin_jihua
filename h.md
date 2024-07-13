@@ -573,7 +573,7 @@
 1. 【[黑羊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_ian.md#黑羊)】`heh7 ian2` <sup>[如东]</sup> ① 手上粘满黑色的脏物。 ② 比喻犯罪团伙：他俫是～，不能参与他俫的活动。  
 1. 【[黑良心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_lian_xien.md#黑良心)】`heh7 lian2 xien1` <sup>[如东]</sup> 比喻思想不好：这个人是～。  
 1. 【[黑老鸦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_lo_nga.md#黑老鸦)】`heh7 lo3 nga1` <sup>[如东]</sup> ① 乌鸦。 ② 旧时指警察。  
-1. 【[黑麪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_min.md#黑麪)】`heh7 min6` <sup>[如皋]</sup> 含麸皮多，色深。与白麪相对。  
+1. 【[黑面（麪）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_min.md#黑面（麪）)】`heh7 min6` <sup>[如皋]</sup> 含麸皮多，色深。与白面相对。  
 1. 【[黑墨肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_moh_dv_zz.md#黑墨肚子)】`heh7 moh8 dv3 zz` <sup>[如东]</sup> ① 比喻有文化知识。 ② 比喻有文化知识的人。  
 1. 【[黑墨水<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_moh_shuei_r.md#黑墨水<sub>儿</sub>)】`heh7 moh8 shuei3 r` <sup>[如皋]</sup> 代指文化、文化程度：他肚里有点儿～，会写写算算。  
 1. 【[黑眼珠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_ngaen_zhv.md#黑眼珠)】`heh7 ngaen3 zhv1` <sup>[如东]</sup> 眼球上黑色的部分，即瞳孔。  

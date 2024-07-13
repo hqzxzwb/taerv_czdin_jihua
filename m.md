@@ -1384,6 +1384,7 @@
 1. 【[面场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_chan.md#面场)】`min6 chan2` <sup>[兴化]</sup> 在大面上或交际应酬场合：她这吖不检点，男人～上怎吖下得来？  
 1. 【[面场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_chan.md#面场)】`min6 chan2` <sup>[泰县]</sup> 外表。  
 1. 【[面抽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_cheu.md#面抽)】`min6 cheu1` <sup>[如皋]</sup> 酱油的一种。甜面酱的缸中，“抽”篓抽出的乳液，味鲜甜。  
+1. 【[面店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_din.md#面店)】`min6 din5` <sup>[如皋]</sup> ① 制售面条的店家。 ② 卖煮面条、馄饨等的店家。  
 1. 【[面腐盆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_fv_pen.md#面腐盆)】`min6 fv3 pen2` <sup>[泰县]</sup> 糊涂人。  
 1. 【[面花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hua.md#面花)】`min6 hua1` <sup>[如皋]</sup> 杆秤向上一面的秤星。  
 1. 【[面黄肌瘦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_huan_ji_sheu.md#面黄肌瘦)】`min6 huan2 ji1 sheu5` <sup>[如东]</sup> 形容病情沉重：只见他～的，恐怕不行4。  
@@ -1447,7 +1448,6 @@
 1. 【[面子账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_zz_zhan.md#面子账)】`min6 zz zhan5` <sup>[如皋]</sup> 情谊很浅。  
 1. 【[面子账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_zz_zhan.md#面子账)】`min6 zz zhan5` <sup>[兴化]</sup> 为照顾情面而敷衍：他去电话替你打招呼不过是～，有用没用他才不管。  
 1. 【[面子<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_zz_r.md#面子<sub>儿</sub>)】`min6 zz3 r` <sup>[如皋]</sup> 面条量的单位：一个子儿面（约2市两左右的一小堆）、半个子儿面。  
-1. 【[麪店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_din.md#麪店)】`min6 din5` <sup>[如皋]</sup> ① 制售面条的店家。 ② 卖煮面条、馄饨等的店家。  
 1. 【[喵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio.md#喵)】`mio` <sup>[如皋]</sup> 猫叫声。  
 1. 【[描红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio_hon.md#描红)】`mio2 hon2` <sup>[如东]</sup> 练习毛笔字的一种方法。在红色的字上蒙纸，照着描绘，叫做描红。  
 1. 【[苗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio.md#苗)】`mio2` <sup>[东台]</sup> 形容词，指饼或馒头酵的水分偏多，与“壮酵馒头”相对。  
