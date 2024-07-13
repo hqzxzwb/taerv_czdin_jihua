@@ -2277,10 +2277,6 @@
 1. 【[𤭨<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_r.md#𤭨<sub>儿</sub>)】`tu2 r` <sup>[如皋]</sup> 铜～：厚而圆的铜、铁等小玩具，比铜钞大而厚，是玩“趖抛抛儿”、“摵钱墩儿”的主玩具。  
 1. 【[妥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#妥)】`tu3` <sup>[兴化]</sup> ① 行、好了：～啊，不要再弄吖！ ② 死亡的隐语：王老九昨儿晚上～下来啊。  
 1. 【[妥啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_a.md#妥啊)】`tu3 a` <sup>[东台]</sup> 事情已经办妥，相当于“好了！”：～，水开啊，不要再烧！  
-1. 【[左耳搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_er_daeh.md#左耳搭)】`tu3 er3 daeh7` <sup>[如皋]</sup> 左耳刀儿（阝）：防阻院  
-1. 【[左右](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_ieu.md#左右)】`tu3 ieu6` <sup>[如东]</sup> ① 左和右两方面：～都要考虑。 ② 表示概数：一万～吧。  
-1. 【[左撇子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_pih_zz.md#左撇子)】`tu3 pih7 zz` <sup>[如东]</sup> 习惯于用左手拿筷子、刀、剪等物的人：他俫两个都是～。  
-1. 【[左手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_sheu.md#左手)】`tu3 sheu3` <sup>[如东]</sup> ① 左边的手。 ② 左边（多指座位）：你坐啊我的～。  
 1. 【[椭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#椭)】`tu3` <sup>[如东]</sup> 弧圆凸起：他𨀛在那里，屁股～吖下。  
 1. 【[椭屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_pi_gu.md#椭屁股)】`tu3 pi5 gu` <sup>[如皋]</sup> 臀部后凸偏下的体型。  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#□)】`tu5` <sup>[如皋]</sup> 缩后不前：～啊后头。  

@@ -2352,11 +2352,15 @@
 1. 【[喌喌……](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_zu.md#喌喌……)】`zu2 zu2……` <sup>[如皋]</sup> 唤鸡声。  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu.md#□)】`zu3` <sup>[如皋]</sup> 副词同“总、都”，如皋词典写“左”：这块田～是他种的。  
 1. 【[左半边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_bun_bin.md#左半边)】`zu3 bun5 bin1` <sup>[如东]</sup> 人体方位的左边：花瓶摆啊在～。  
+1. 【[左耳搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_er_daeh.md#左耳搭)】`zu3 er3 daeh7` <sup>[如皋]</sup> 左耳刀儿（阝）：防阻院  
 1. 【[左右](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_ieu.md#左右)】`zu3 ieu6` <sup>[兴化]</sup> 副词，相当于反正、无非：我～闲吖在下，就去帮几天忙吧！｜～是一伙的人……没一个不思量骗他的。（《初刻》十八）  
+1. 【[左右](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_ieu.md#左右)】`zu3 ieu6` <sup>[如东]</sup> ① 左和右两方面：～都要考虑。 ② 表示概数：一万～吧。  
 1. 【[左右手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_ieu_sheu.md#左右手)】`zu3 ieu6 sheu3` <sup>[如东]</sup> 左手与右手。比喻帮手：他是我的～。  
 1. 【[左框框<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_kuan_kuan_r.md#左框框<sub>儿</sub>)】`zu3 kuan1 kuan1 r` <sup>[如皋]</sup> 框栏儿（匚）：区匪臣  
 1. 【[左撇子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_pih_zz.md#左撇子)】`zu3 pih7 zz` <sup>[东台]</sup> 习惯用左手的人。  
+1. 【[左撇子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_pih_zz.md#左撇子)】`zu3 pih7 zz` <sup>[如东]</sup> 习惯于用左手拿筷子、刀、剪等物的人：他俫两个都是～。  
 1. 【[左嗓子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_san_zz.md#左嗓子)】`zu3 san3 zz` <sup>[兴化]</sup> ① 指唱歌时音准欠佳的人。 ② 说话时仿佛勒着嗓子发出的声音：他是个～。  
+1. 【[左手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_sheu.md#左手)】`zu3 sheu3` <sup>[如东]</sup> ① 左边的手。 ② 左边（多指座位）：你坐啊我的～。  
 1. 【[做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu.md#做)】`zu5` <sup>[如皋]</sup> ① 持家：～人家。 ② 杀：～鸡子。 ③ 成为：～望门寡。  
 1. 【[做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu.md#做)】`zu5` <sup>[如皋]</sup> 打：～你。  
 1. 【[做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu.md#做)】`zu5` <sup>[如东]</sup> 劳动：～衣服。  
