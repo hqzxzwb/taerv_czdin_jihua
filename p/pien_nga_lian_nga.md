@@ -1,5 +1,5 @@
 # 病吖凉吖僵
-pien6 eh lian2 nga jian1
+pien6 nga lian2 nga jian1
 > 东台方言词典
 - 骂人像生了重病一样糊涂
   - 这吖简单的账，你都弄错啊，造成大损失，真是～！

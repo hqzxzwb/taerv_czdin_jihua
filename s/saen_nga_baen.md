@@ -1,4 +1,4 @@
 # 散吖板
-saen3 eh baen3
+saen3 nga baen3
 > 东台方言词典
 - ［喻］散架了，不可收拾。
