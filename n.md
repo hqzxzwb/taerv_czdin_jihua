@@ -1386,7 +1386,6 @@
 1. 【[讹些<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_xih_r.md#讹些<sub>儿</sub>)】`ngu2 xih7 r` <sup>[东台]</sup> 相差一点点。  
 1. 【[讹些险<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_xih_xin_r.md#讹些险<sub>儿</sub>)】`ngu2 xih7 xin3 r` <sup>[东台]</sup> 很危险，差一点点就出事故：地震时，我刚出门，房子就倒啊，～，可怕！  
 1. 【[讹账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_zhan.md#讹账)】`ngu2 zhan5` <sup>[如皋]</sup> 错账。  
-1. 【[鵝毛劗肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_r_zaen_roh.md#鵝毛劗肉)】`ngu2 r zaen1 roh8` <sup>[如皋]</sup> 猪肉圆的外层为糯米。是夏日食品。  
 1. 【[鹅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu.md#鹅)】`ngu2` <sup>[如东]</sup> 鸭科动物鹅，体长约60厘米。嘴扁圆，前额有肉瘤，雄者膨大，黄色或黑褐色。颈长。体躯宽壮，龙骨长，胸部丰满。尾短，羽毛白色或灰色。脚大有蹼，黄色或黑褐色，能游水。饲养家禽。吃谷物、蔬菜、鱼虾等。  
 1. 【[鹅不食草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_beh_sheh_co.md#鹅不食草)】`ngu2 beh7 sheh8 co3` <sup>[如东]</sup> 石竹科植物蚤缀，又名小无心菜，一年生或二年生草本。高约30厘米。茎多数簇生，稍铺散，密生白色短毛。叶对生，卵形。聚伞花序。花白色。蒴果。种子肾形，褐色。生长在稻田或阴湿处、路边。  
 1. 【[鹅臎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_cuei.md#鹅臎)】`ngu2 cuei5` <sup>[如东]</sup> 鸭科动物鹅的尾肉。  
@@ -1394,6 +1393,7 @@
 1. 【[鹅行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_han.md#鹅行)】`ngu2 han2` <sup>[兴化]</sup> “鹅”与“讹”同音。（讽）从事讹诈的人：这个人鸭行不开开～。｜“……眼目下这种世道，开～的多啦……我开的是个细～……手一伸二百文……”（《皮五辣子》三）  
 1. 【[鹅毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_mo.md#鹅毛)】`ngu2 mo2` <sup>[如东]</sup> 鸭科动物鹅毛。  
 1. 【[鹅毛月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_mo_iuh.md#鹅毛月)】`ngu2 mo2 iuh8` <sup>[兴化]</sup> 形容月初的上弦月，弯弯的形似鹅毛。谚曰：初三初四～。  
+1. 【[鹅毛劗肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_mo_zaen_roh.md#鹅毛劗肉)】`ngu2 mo2 zaen1 roh` <sup>[如皋]</sup> 猪肉圆的外层为糯米。是夏日食品。  
 1. 【[鹅眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_ngaen.md#鹅眼)】`ngu2 ngaen3` <sup>[兴化]</sup> ① 古代私铸的一种劣质小钱：人人爱果然在他衣兜里掏出一大把钱来，约莫小洋有十几个，铜板有十几个，其余便尽是～小钱。（《广陵潮》六三） ② 小、少：滴滴～儿。  
 1. 【[鹅眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_ngaen_r.md#鹅眼<sub>儿</sub>)】`ngu2 ngaen3 r` <sup>[泰县]</sup> 一点儿：～大的个地方。  
 1. 【[鹅内金](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_nuei_jien.md#鹅内金)】`ngu2 nuei6 jien1` <sup>[如东]</sup> 鸭科动物鹅的砂囊内壁。  
