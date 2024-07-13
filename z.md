@@ -727,7 +727,7 @@
 1. 【[张飞穿针——大眼相小眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_fei_chun_zhen_da_ngaen_xian_xio_ngaen.md#张飞穿针——大眼相小眼)】`zhan1 fei1 chun1 zhen1 da6 ngaen3 xian5 xio3 ngaen3` <sup>[东台]</sup>   
 1. 【[张家长，李家短，别人家闲事我不管](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_ga_chan_li_ga_dun_pih_ren_ga_xiaen_shr_ngu_beh_gun.md#张家长，李家短，别人家闲事我不管)】`zhan1 ga chan2 li3 ga dun3 pih8 ren ga xiaen2 shr6 ngu3 beh7 gun3` <sup>[如皋]</sup> 管好自己就行了。  
 1. 【[张家长，李家短，人家闲事我不管](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_ga_chan_li_ga_dun_ren_ga_xiaen_shr_ngu_beh_gun.md#张家长，李家短，人家闲事我不管)】`zhan1 ga1 chan2 li3 ga1 dun3 ren2 ga1 xiaen2 shr6 ngu3 beh7 gun3` <sup>[东台]</sup> 不要背后议人之短，搬弄是非。  
-1. 【[张果老骑毛驴——望后䁭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_gu_lo_qi_mo_ly_van_heu_bio.md#张果老骑毛驴——望后䁭)】`zhan1 gu3 lo3 qi2 mo2 ly2 van6 heu6 bio1` <sup>[东台]</sup>   
+1. 【[张果老骑毛驴——望后䁃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_gu_lo_qi_mo_ly_van_heu_bio.md#张果老骑毛驴——望后䁃)】`zhan1 gu3 lo3 qi2 mo2 ly2 van6 heu6 bio1` <sup>[东台]</sup>   
 1. 【[张罟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_gv.md#张罟)】`zhan1 gv3` <sup>[如东]</sup> 种海洋捕捞方式。作业时，把10张或更多的罟网连接起来，挂在篙子（竹竿）上，拉成很长的一段拦栅，鱼闯网后，便下潜逃生，于是钻进罟网的网袋，被捕捉。  
 1. 【[张口厣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_keu_in_zz.md#张口厣子)】`zhan1 keu3 in3 zz` <sup>[如东]</sup> 比喻口实不严，随便说话。也叫寡嘴。  
 1. 【[张邋遢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_laeh_taeh.md#张邋遢)】`zhan1 laeh8 taeh` <sup>[兴化]</sup> 明代道士张三丰，以其不修边幅号称～。兴化俗称不讲卫生或衣履不整者为～。又作“脏邋遢”。  

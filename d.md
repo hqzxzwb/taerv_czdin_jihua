@@ -106,7 +106,7 @@
 1. 【[打盹盹<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_den_den_r.md#打盹盹<sub>儿</sub>)】`da3 den3 den3 r` <sup>[如东]</sup> ① 眼皮控制不住往下搭，打瞌睡，叫做打盹盹儿。 ② 小睡片刻：让我～。  
 1. 【[打盹盹<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_den_den_r.md#打盹盹<sub>儿</sub>)】`da3 den3 den3 r` <sup>[东台]</sup> ① 指人没精打采的样子。 ② 形容小鸟小鸡小鸭等奄奄一息的样子。  
 1. 【[打等](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_den.md#打等)】`da3 den3` <sup>[如东]</sup> 短暂停留：你在路上不能～。  
-1. 【[打等](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_den.md#打等)】`da3 den3` <sup>[如皋]</sup> 短暂停留：儿子从外地一到家，不～就上医院䁭他老子去啊。  
+1. 【[打等](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_den.md#打等)】`da3 den3` <sup>[如皋]</sup> 短暂停留：儿子从外地一到家，不～就上医院䁃他老子去啊。  
 1. 【[打等](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_den.md#打等)】`da3 den3` <sup>[泰县]</sup> 短暂停留：这人说话又～。  
 1. 【[打底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_di.md#打底)】`da3 di3` <sup>[如皋]</sup> ① 煮䜺儿粥先下颗粒大的粮煮开：米～、赤豆儿～。 ② 涂底层色。 ③ 赴宴前怕等待过久而先吃一点。 ④ 见“点饥”。 ⑤ 做某些菜时衬于碗底的菜：扒红蹄用豌豆头儿～（一作衬底）。  
 1. 【[打底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_di.md#打底)】`da3 di3` <sup>[如皋]</sup> 见“搅粥锅”。  

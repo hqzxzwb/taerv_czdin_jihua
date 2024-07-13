@@ -1233,7 +1233,7 @@
 1. 【[和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu.md#和)】`hu2` <sup>[如东]</sup> 混合搅拌。  
 1. 【[和暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_bo.md#和暴)】`hu2 bo5` <sup>[如皋]</sup> 寒潮过去，天气转好、转暖。  
 1. 【[和尚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_shan.md#和尚)】`hu2 shan` <sup>[如东]</sup> 出家修行的男佛教徒。  
-1. 【[和尚䁭轿子——空欢喜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_shan_bio_qio_zz_kon_hun_xi.md#和尚䁭轿子——空欢喜)】`hu2 shan bio1 qio6 zz kon1 hun1 xi3` <sup>[东台]</sup>   
+1. 【[和尚䁃轿子——空欢喜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_shan_bio_qio_zz_kon_hun_xi.md#和尚䁃轿子——空欢喜)】`hu2 shan bio1 qio6 zz kon1 hun1 xi3` <sup>[东台]</sup>   
 1. 【[和尚住瓦屋——沾的菩萨光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_shan_chv_va_oh_zhin_dii_pv_saeh_guan.md#和尚住瓦屋——沾的菩萨光)】`hu2 shan chv6 va3 oh7 zhin1 dii pv2 saeh7 guan1` <sup>[东台]</sup>   
 1. 【[和尚打伞——无发（法）无天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_shan_da_saen_v_faeh_v_tin.md#和尚打伞——无发（法）无天)】`hu2 shan da3 saen3 v2 faeh7 v2 tin1` <sup>[东台]</sup>   
 1. 【[和尚衭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_shan_fv.md#和尚衭)】`hu2 shan fv1` <sup>[兴化]</sup> 大襟上衣。旧时儿童穿这种衣服，希图避邪。  

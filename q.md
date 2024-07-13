@@ -327,7 +327,7 @@
 1. 【[斜麻刳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_ma_kua.md#斜麻刳)】`qia2 ma2 kua2` <sup>[兴化]</sup> 态度蛮横而又不讲道理的人：人家看他一眼，他就动手打人，真是个～。  
 1. 【[斜门斜势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_men_qia_shr.md#斜门斜势)】`qia2 men2 qia2 shr5` <sup>[东台]</sup> 同“斜里𧺕刀”。  
 1. 【[斜眉吊眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_mi_dio_ngaen.md#斜眉吊眼)】`qia2 mi2 dio5 ngaen3` <sup>[东台]</sup> 形容眉眼歪斜，长相难看。  
-1. 【[斜眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_ngaen_r.md#斜眼<sub>儿</sub>)】`qia2 ngaen3 r` <sup>[如皋]</sup> 眼球不正。内斜“斗鸡眼”，外斜“羊子眼”，上斜“䁭天儿”。  
+1. 【[斜眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_ngaen_r.md#斜眼<sub>儿</sub>)】`qia2 ngaen3 r` <sup>[如皋]</sup> 眼球不正。内斜“斗鸡眼”，外斜“羊子眼”，上斜“䁃天儿”。  
 1. 【[斜眼<sub>儿</sub>寻吖个瞎子——好得多](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_ngaen_r_qien_nga_gu_haeh_zz_ho_deh_du.md#斜眼<sub>儿</sub>寻吖个瞎子——好得多)】`qia2 ngaen3 r qien2 nga gu haeh7 zz ho3 deh7 du1` <sup>[东台]</sup>   
 1. 【[斜皮吊眼的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_pi_dio_ngaen_dii.md#斜皮吊眼的)】`qia2 pi2 dio5 ngaen3 dii` <sup>[如皋]</sup> ① 五官不正的样子。 ② 神情不正派的样子。  
 1. 【[斜皮头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_pi_teu_zz.md#斜皮头子)】`qia2 pi2 teu2 zz` <sup>[东台]</sup> 邪恶团伙的头目。  
