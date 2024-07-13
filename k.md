@@ -831,7 +831,7 @@
 1. 【[侉话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_hua.md#侉话)】`kua3 hua6` <sup>[兴化]</sup> 村话，低级庸俗的话。  
 1. 【[侉话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_hua.md#侉话)】`kua3 hua6` <sup>[泰县]</sup> 下流话：他最会说～。  
 1. 【[侉话调<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_hua_dio_r.md#侉话调<sub>儿</sub>)】`kua3 hua6 dio5 r` <sup>[如皋]</sup> ① 粗放。 ② 北方话。 ③ 学北方口音说话。  
-1. 【[侉侉驴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_kua_lv_r.md#侉侉驴<sub>儿</sub>)】`kua3 kua3 lv2 r` <sup>[兴化]</sup> 雄蚱蜢。  
+1. 【[侉侉驴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_kua_ly_r.md#侉侉驴<sub>儿</sub>)】`kua3 kua3 ly2 r` <sup>[兴化]</sup> 雄蚱蜢。  
 1. 【[侉里侉气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_li_kua_qi.md#侉里侉气)】`kua3 li3 kua3 qi5` <sup>[东台]</sup> ① 办事毛糙，不细巧。 ② 操外地口音。  
 1. 【[侉䗜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_lieu_r.md#侉䗜<sub>儿</sub>)】`kua3 lieu r` <sup>[如皋]</sup> 蝈蝈儿，一名叫哥哥。  
 1. 【[侉搝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_qieu.md#侉搝)】`kua3 qieu3` <sup>[兴化]</sup> 乱来：大冷天他拿凉水同伢儿洗澡，真是～。  

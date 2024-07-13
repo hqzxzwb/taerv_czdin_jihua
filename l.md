@@ -2789,7 +2789,6 @@
 1. 【[芦竹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_zhoh.md#芦竹)】`lv2 zhoh7` <sup>[如皋]</sup> 即“江芦”。  
 1. 【[芦竹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_zhoh.md#芦竹)】`lv2 zhoh7` <sup>[兴化]</sup> 一种高大、粗壮质地比较坚韧的芦苇，原产江边。也称“江芦柴”。  
 1. 【[芦竹箨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_zhoh_tah.md#芦竹箨)】`lv2 zhoh7 tah7` <sup>[如东]</sup> 禾本科植物芦苇箨叶。  
-1. 【[驴吵马喊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_cho_ma_haen.md#驴吵马喊)】`lv2 cho3 ma3 haen3` <sup>[兴化]</sup> 见“驴喊马叫”。  
 1. 【[鲈虎<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_hv_r.md#鲈虎<sub>儿</sub>)】`lv2 hv3 r` <sup>[如东]</sup> 鱼。体圆，长约7厘米。吻短，面部略呈方形，眼凸。背黑褐色。生活在淡水中。  
 1. 【[鲈鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_y.md#鲈鱼)】`lv2 y2` <sup>[如东]</sup> 科动物鲈鱼，身体侧扁。  
 1. 【[乳腐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_fv.md#乳腐)】`lv3 fv3` <sup>[兴化]</sup> 豆腐乳。用小块豆腐干做坯，经发酵、腌制而成。有香、臭两种。  
@@ -2889,6 +2888,7 @@
 1. 【[雷神霍闪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_shen_vah_shin.md#雷神霍闪)】`ly2 shen2 vah8 shin3` <sup>[泰县]</sup> 雷电交加。  
 1. 【[驴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly.md#驴)】`ly2` <sup>[如东]</sup> 马科动物驴，体形如马而较小。  
 1. 【[驴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly.md#驴)】`ly2` <sup>[兴化]</sup> （喻）形容人性情执拗：小余怒气冲冲的，不晓得又为甚的事～起来啊？  
+1. 【[驴吵马喊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_cho_ma_haen.md#驴吵马喊)】`ly2 cho3 ma3 haen3` <sup>[兴化]</sup> 见“驴喊马叫”。  
 1. 【[驴喊马叫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_haen_ma_jio.md#驴喊马叫)】`ly2 haen3 ma3 jio5` <sup>[兴化]</sup> ① 形容牲畜叫声。 ② 骂人的话，用以指斥人大喊大叫：“不要～的，罗哩罗苏……滚！滚！”（扬说《闯昭关》）也说“驴吵马喊”。  
 1. 【[驴栗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_lieh_zz.md#驴栗子)】`ly2 lieh8 zz` <sup>[如皋]</sup> 驴粪蛋。  
 1. 【[驴撩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_lio_zz.md#驴撩子)】`ly2 lio2 zz` <sup>[如东]</sup> 马科动物雄性驴的外生殖器，也叫驴阴茎。  

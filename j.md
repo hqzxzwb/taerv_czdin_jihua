@@ -1690,8 +1690,8 @@
 1. 【[叫窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_ku.md#叫窠)】`jio5 ku1` <sup>[如东]</sup> 牲畜发情。  
 1. 【[叫窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_ku.md#叫窠)】`jio5 ku1` <sup>[如皋]</sup> 雌畜发情，不住地叫，烦躁不安。  
 1. 【[叫窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_ku.md#叫窠)】`jio5 ku1` <sup>[泰县]</sup> 母猪发情。  
-1. 【[叫驴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_lv_r.md#叫驴<sub>儿</sub>)】`jio5 lv2 r` <sup>[兴化]</sup> 雄蚱蜢。  
 1. 【[叫驴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_ly_r.md#叫驴<sub>儿</sub>)】`jio5 ly2 r` <sup>[如东]</sup> 公驴。  
+1. 【[叫驴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_ly_r.md#叫驴<sub>儿</sub>)】`jio5 ly2 r` <sup>[兴化]</sup> 雄蚱蜢。  
 1. 【[叫明](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_mien.md#叫明)】`jio5 mien2` <sup>[如东]</sup> 说明：这些货物怎吖分，请你～。  
 1. 【[叫明](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_mien.md#叫明)】`jio5 mien2` <sup>[如皋]</sup> ① 说明白，不隐悔。 ② 明摆着的：些老爷来，～的是刮钱的。  
 1. 【[叫钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_qin.md#叫钱)】`jio5 qin2` <sup>[如皋]</sup> 长辈给第一次见面、正式请叫自己的晚辈的赏钱。  
@@ -1750,7 +1750,6 @@
 1. 【[𠢤脾气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh_pi_qi.md#𠢤脾气)】`jiuh7 pi2 qi` <sup>[如皋]</sup> 乖僻的脾气。  
 1. 【[捐助](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiun_chv.md#捐助)】`jiun1 chv6` <sup>[东台]</sup> 拿出财物来帮助。  
 1. 【[捐款](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiun_kun.md#捐款)】`jiun1 kun3` <sup>[东台]</sup> 捐助款项：向地震灾区～。  
-1. 【[圆成](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiun_chen.md#圆成)】`jiun2 chen` <sup>[兴化]</sup> 别人争执不下的时候前去调解、说和：做～。  
 1. 【[卷字头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiun_cz_teu_r.md#卷字头<sub>儿</sub>)】`jiun3 cz6 teu2 r` <sup>[如皋]</sup> （龹）：卷券拳。  
 1. 【[卷丹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiun_daen.md#卷丹)】`jiun3 daen1` <sup>[如东]</sup> 一年生草本植物，鳞茎卵圆状扁球形，外带紫色。叶散生，披针形或线状披针形，叶腋内常有珠芽。总状花序，橘红色，密生紫黑色斑点，开放后向外反巷，花药紫色。蒴果长圆形或倒卵形。供观赏。鳞茎含淀粉，供食用。  
 1. 【[卷海蜇皮<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiun_hae_zhih_pi_r.md#卷海蜇皮<sub>儿</sub>)】`jiun3 hae3 zhih7 pi2 r` <sup>[如东]</sup> 将海蜇皮儿卷起来切成丝，做菜吃。比喻收拾被单等行李，准备动身：他俫～，怕的要跑。  

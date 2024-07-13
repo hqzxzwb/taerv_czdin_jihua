@@ -2499,6 +2499,7 @@
 1. 【[圆凿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_cah.md#圆凿)】`iun2 cah8` <sup>[如东]</sup> 工具。铁制，有柄凿口呈半圆形。用以加工圆形洞眼。  
 1. 【[圆凿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_cah.md#圆凿)】`iun2 cah8` <sup>[兴化]</sup> 木工工具，凿口为弧形，用来凿弧形的线条或圆形花纹。  
 1. 【[圆场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_chan.md#圆场)】`iun2 chan2` <sup>[东台]</sup> 打开僵局，帮助上圆。  
+1. 【[圆成](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_chen.md#圆成)】`iun2 chen` <sup>[兴化]</sup> 别人争执不下的时候前去调解、说和：做～。  
 1. 【[圆墩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_den.md#圆墩)】`iun2 den1` <sup>[如东]</sup> ① 凑足规定数目：这笔账圆吖墩。 ② 恢复原来的模样：这吖才～。 ③ 问题解决了：这个问题圆吖墩。  
 1. 【[圆泛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_faen.md#圆泛)】`iun2 faen` <sup>[如皋]</sup> ① 无棱角：花瓶的肩部～的。 ② 处事细致而周到，各方满意，不得罪人。  
 1. 【[圆泛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_faen.md#圆泛)】`iun2 faen` <sup>[如东]</sup> ① 形容物体很圆：这只木盆～。 ② 办事圆通：他办事～。  
