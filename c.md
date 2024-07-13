@@ -56,7 +56,7 @@
 1. 【[䜺<sub>儿</sub>粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_r_zhoh.md#䜺<sub>儿</sub>粥)】`cae3 r zhoh7` <sup>[如皋]</sup> 用䜺儿煮的粥。又因谷物不同而异称：玉米～、元麦～。  
 1. 【[䜺<sub>儿</sub>粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_r_zhoh.md#䜺<sub>儿</sub>粥)】`cae3 r zhoh7` <sup>[如东]</sup> 元麦、大麦或玉米䜺儿煮成的粥，黏韧而香醇，营养丰富。  
 1. 【[䜺<sub>儿</sub>粥没得血，这边𤒘那边喝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_r_zhoh_meh_deh_xiuh_zha_bin_duh_lu_bin_huh.md#䜺<sub>儿</sub>粥没得血，这边𤒘那边喝)】`cae3 r zhoh7 meh8 deh7 xiuh7 zha5 bin1 duh7 lu5 bin1 huh7` <sup>[东台]</sup> 玉米䜺儿粥可以一边煮一边吃。  
-1. 【[䜺子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_zz.md#䜺子)】`cae3 zz` <sup>[兴化]</sup> 磨碎的稻米、麦、玉米、高粱、豆类等：米～｜麦～｜芦秫～｜稖头～  
+1. 【[䜺子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_zz.md#䜺子)】`cae3 zz` <sup>[兴化]</sup> 磨碎的稻米、麦、玉米、高粱、豆类等：米～｜麦～｜芦秫～｜棒头～  
 1. 【[彩礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_li.md#彩礼)】`cae3 li3` <sup>[东台]</sup> 订婚时男家送给女家的财物。  
 1. 【[彩刨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_po.md#彩刨)】`cae3 po6` <sup>[兴化]</sup> 木工用来刨花边的刨子。  
 1. 【[彩水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_shuei.md#彩水)】`cae3 shuei3` <sup>[如皋]</sup> 踏水有奖比赛。彩，奖。  
@@ -870,12 +870,14 @@
 1. 【[直道其详](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_to_qi_qian.md#直道其详)】`cheh8 to6 qi2 qian2` <sup>[东台]</sup> 直截了当地说明情况，表达意见。  
 1. 【[直道其详](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_to_qi_qian.md#直道其详)】`cheh8 to6 qi2 qian2` <sup>[兴化]</sup> 有话直接说：你有话～，不要拐弯抹角的。  
 1. 【[嗔气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_qi.md#嗔气)】`chen1 qi5` <sup>[如皋]</sup> 生气、负气、赌气。  
+1. 【[撑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen.md#撑)】`chen1` <sup>[如皋]</sup> 贪吃使胃胀起（如皋词典作“𩠏”）：死～死胀、硬～。  
 1. 【[撑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen.md#撑)】`chen1` <sup>[东台]</sup> 站立。  
 1. 【[撑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen.md#撑)】`chen1` <sup>[兴化]</sup> 站：没事朝门口一～，碍手碍脚的。  
 1. 【[撑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen.md#撑)】`chen1` <sup>[泰县]</sup> ① 撑：～伞。 ② 站：他～吖在那块。  
 1. 【[撑厂子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_chan_zz.md#撑厂子)】`chen1 chan3 zz` <sup>[东台]</sup> 为某个场面捧场增光。  
 1. 【[撑撑相相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_chen_xian_xian.md#撑撑相相)】`chen1 chen1 xian5 xian5` <sup>[如皋]</sup> 悠闲地站站看看。  
 1. 【[撑撑相相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_chen_xian_xian.md#撑撑相相)】`chen1 chen1 xian5 xian5` <sup>[兴化]</sup> 见“撑吖相的”。  
+1. 【[撑饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_faen.md#撑饭)】`chen1 faen6` <sup>[如东]</sup> 饭吃饱了，还要再吃。多指小孩：小明就会～。  
 1. 【[撑行市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_han_shr.md#撑行市)】`chen1 han2 shr6` <sup>[兴化]</sup> 占了同行的生意买卖：我的洗染店刚刚开张，你又在隔壁开一家，不是～啊？  
 1. 【[撑野篙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_ia_go.md#撑野篙)】`chen1 ia3 go1` <sup>[如皋]</sup> 说话避开正题，绕圈子。  
 1. 【[撑野篙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_ia_go.md#撑野篙)】`chen1 ia3 go1` <sup>[如皋]</sup> 喻会谈时不愿靠拢，所提要求过分。  
@@ -905,8 +907,6 @@
 1. 【[蛏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen.md#蛏)】`chen1` <sup>[东台]</sup> 软体动物，甲壳长形，两端圆，壳顶靠前方，壳面黄绿色，生活在浅海内湾，肉质鲜美：市场上多为干～。东台的萝卜烧大～，非常有名。  
 1. 【[蛏钩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_geu_zz.md#蛏钩子)】`chen1 geu1 zz` <sup>[如东]</sup> 钩蛏的工具。前部一根铁丝，顶端弯曲成钩，后部一根木柄。作业时，顺着蛏穴插下去，即可钩蛏。  
 1. 【[蛏壳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_kah_r.md#蛏壳<sub>儿</sub>)】`chen1 kah7 r` <sup>[如东]</sup> 工具。长方形，似一片蛏壳儿。扑匠整理屋面时，用以拍平草面。  
-1. 【[𩠏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen.md#𩠏)】`chen1` <sup>[如皋]</sup> 贪吃使胃胀起：死～死胀、硬～。  
-1. 【[𩠏饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_faen.md#𩠏饭)】`chen1 faen6` <sup>[如东]</sup> 饭吃饱了，还要再吃，叫𩞦饭。多指小孩：小明就会～。  
 1. 【[㲀箍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_gv.md#㲀箍)】`chen2 gv1` <sup>[如东]</sup> 做木盆、木桶时，将箍向大的一端打紧。  
 1. 【[㲀箍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_gv.md#㲀箍)】`chen2 gv1` <sup>[如皋]</sup> 箍盆桶时，将箍向径大的一端打紧。  
 1. 【[乘风凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_fon_lian.md#乘风凉)】`chen2 fon1 lian2` <sup>[兴化]</sup> 纳凉：夏天晚上，到大桥上去～。  

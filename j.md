@@ -215,6 +215,7 @@
 1. 【[鬾报子话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_bo_zz_hua.md#鬾报子话)】`ji5 bo5 zz hua6` <sup>[如皋]</sup> 反悔的话。抱怨对方不好好回报。  
 1. 【[鬾二爹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_er_dia.md#鬾二爹)】`ji5 er6 dia1` <sup>[如皋]</sup> 见“鬾”。  
 1. 【[鯚花鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_hua_y.md#鯚花鱼)】`ji5 hua y2` <sup>[兴化]</sup> 鳜（桂）鱼：～不用整条的，只取两块嘴后腮边眼下蒜瓣肉。（汪曾祺《金冬心》）  
+1. 【[鯚花鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_hua_y.md#鯚花鱼)】`ji5 hua y2` <sup>[如皋]</sup> 鳜鱼  
 1. 【[鯚花鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_hua_y.md#鯚花鱼)】`ji5 hua1 y2` <sup>[东台]</sup> 又叫鳜鱼、桂鱼，是淡水鱼中的名贵鱼类，肉质纯白细嫩，味道鲜美可口。  
 1. 【[鯚婆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_pu_zz.md#鯚婆子)】`ji5 pu2 zz` <sup>[如皋]</sup> 鳜鱼。又称鯚花鱼。  
 1. 【[𪊆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#𪊆)】`ji5` <sup>[如东]</sup> 一种腌制方法。鲜鱼、虾、菜，加少许盐，腌渍一会儿，即可食。  
@@ -368,7 +369,7 @@
 1. 【[嫁夫着主](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_fv_chah_zhv.md#嫁夫着主)】`jia5 fv1 chah8 zhv3` <sup>[兴化]</sup> 旧礼教要求妇女“三从四德”，丈夫是家主，妻子对丈夫人身依附：“常言道：～。怎的说这个话？”（《金瓶梅词语》八九）  
 1. 【[嫁妆店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_zhuan_din.md#嫁妆店)】`jia5 zhuan din5` <sup>[兴化]</sup> 旧称经营木器家具的商店：朱家～。  
 1. 【[架](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia.md#架)】`jia5` <sup>[如东]</sup> ① 房屋上的横梁，称架。一根，称一架。 ② 单位：一～风琴。 ③ 吆喝牛起步的口语。  
-1. 【[架](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia.md#架)】`jia5` <sup>[兴化]</sup> 吹捧、放纵：……再遇到个呆叔父把我一～，我就飘起来了……（扬说《秦琼让印》）  
+1. 【[架](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia.md#架)】`jia5` <sup>[兴化]</sup> ① 吹捧、放纵：……再遇到个呆叔父把我一～，我就飘起来了……（扬说《秦琼让印》） ② 桁条根数及两桁间距离。俗以“几～梁”表明房屋进深。（原文作“𢉤”，义不合）  
 1. 【[架啊起](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_a_qi.md#架啊起)】`jia5 a qi3` <sup>[东台]</sup> 经得起：他身体强，～冻。  
 1. 【[架不住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_beh_chv.md#架不住)】`jia5 beh7 chv6` <sup>[如东]</sup> 经受不了：～拷问，他就招供吖。  
 1. 【[架不起](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_beh_qi.md#架不起)】`jia5 beh7 qi3` 经不住，受不起  
@@ -377,13 +378,12 @@
 1. 【[架架势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_jia_shr.md#架架势)】`jia5 jia5 shr5` <sup>[东台]</sup> 帮帮忙：你就～噻！  
 1. 【[架落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_lah.md#架落)】`jia5 lah` <sup>[兴化]</sup> 形容架子、姿势：顷刻间英雄八仙拳耍毕，原处收住～……（《武松》四）  
 1. 【[架泡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_po_r.md#架泡<sub>儿</sub>)】`jia5 po1 r` <sup>[如皋]</sup> 打丝线的工作架子上用篾子弯成的拱圈。  
+1. 【[架步](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_pv.md#架步)】`jia5 pv6` <sup>[兴化]</sup> ① 每两根桁条之间的距离。 ② 由桁条的根数构成的房屋进深。  
 1. 【[架势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_shr.md#架势)】`jia5 shr5` <sup>[如东]</sup> ① 一种姿势：摆出个～。 ② 一种气势：看他那个～。  
 1. 【[架势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_shr.md#架势)】`jia5 shr5` <sup>[东台]</sup> 帮忙：这事难为你～。  
 1. 【[架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_zz.md#架子)】`jia5 zz` <sup>[如东]</sup> ① 由木头、竹竿、钢管等材料纵横交错地搭建的一种装置，用于搁置器物、支撑物体或安装工具：竹～。 ② 自高自大、装腔作势的作风：不要摆～。 ③ 姿势，样子：看他是个甚的～？  
 1. 【[驾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia.md#驾)】`jia5` <sup>[如皋]</sup> 令马前进。  
 1. 【[驾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia.md#驾)】`jia5` <sup>[兴化]</sup> 用某种借口走开：他看到这许有事，连忙～掉啊。  
-1. 【[𢉤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia.md#𢉤)】`jia5` <sup>[兴化]</sup> 桁条根数及两桁间距离。俗以“几～梁”表明房屋进深。《广韵·玛韵》古讶切：“～，屋间也。”  
-1. 【[𢉤步](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_pv.md#𢉤步)】`jia5 pv6` <sup>[兴化]</sup> ① 每两根桁条之间的距离。 ② 由桁条的根数构成的房屋进深。  
 1. 【[阶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiae.md#阶)】`jiae1` <sup>[东台]</sup> 建筑物中用砖、石等分层砌成的附属部分，多在门前或坡道上供人上下用：旧时西溪泰山寺天妃山前有多层石～，远远望去显得十分肃穆庄严。  
 1. 【[解](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiae.md#解)】`jiae3` <sup>[东台]</sup> ① 剖开，分开。 ② 把束缚着、系着的东西打开。  
 1. 【[甲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiaeh.md#甲)】`jiaeh7` <sup>[东台]</sup> 天干的第一位。  
@@ -1197,7 +1197,7 @@
 1. 【[酒帘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_lin_zz.md#酒帘子)】`jieu3 lin2 zz` <sup>[如皋]</sup> 酒店门前的布旗标。  
 1. 【[酒佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_lo_r.md#酒佬<sub>儿</sub>)】`jieu3 lo3 r` <sup>[如皋]</sup> 酒徒。  
 1. 【[酒□子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_ngaen_zz.md#酒□子)】`jieu3 ngaen2 zz` <sup>[如皋]</sup> 一种陶器。似坛子，上有口有盖，其周围有四耳，可系绳，并有一小嘴可以倒酒容量十市斤。现已不见。  
-1. 【[酒酿饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_nian_bien.md#酒酿饼)】`jieu3 nian5 bien3` <sup>[东台]</sup> 东台传统糕点（清真），用精面发酵后加入酒酿成熟后的原汁再发酵，做成扁圆形，用平底锅烘熟，饼的正面点上红朵朵装饰，现已不多见。  
+1. 【[酒酿饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_nian_bien.md#酒酿饼)】`jieu3 nian bien3` <sup>[东台]</sup> 东台传统糕点（清真），用精面发酵后加入酒酿成熟后的原汁再发酵，做成扁圆形，用平底锅烘熟，饼的正面点上红朵朵装饰，现已不多见。  
 1. 【[酒酿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_nian.md#酒酿)】`jieu3 nian6` <sup>[如东]</sup> 糯米和酒曲酿制而成的酵米。  
 1. 【[酒酿圆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_nian_iun_zz.md#酒酿圆子)】`jieu3 nian6 iun2 zz` <sup>[如东]</sup> 糯米糏做成圆子，下在酒酿汤中煮熟，叫做酒酿圆子。  
 1. 【[酒酿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_nian_r.md#酒酿<sub>儿</sub>)】`jieu3 nian6 r` <sup>[兴化]</sup> 用糯米加酒药制成的食品，有淡淡的酸甜味。  
