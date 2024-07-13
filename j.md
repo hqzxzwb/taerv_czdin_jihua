@@ -1902,13 +1902,13 @@
 1. 【[橘络](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jyeh_lah.md#橘络)】`jyeh7 lah8` <sup>[如东]</sup> 芸香科植物橘果皮内层的筋络，入中药。  
 1. 【[橘白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jyeh_poh.md#橘白)】`jyeh7 poh8` <sup>[如东]</sup> 芸香科植物橘果皮的白色内层部分，入中药。  
 1. 【[橘青皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jyeh_qien_pi.md#橘青皮)】`jyeh7 qien1 pi2` <sup>[如东]</sup> 芸香科植物橘的未成熟的果皮或幼果。  
+1. 【[趉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jyeh.md#趉)】`jyeh7` <sup>[如皋]</sup> 怒而走开：你这吖说相他接受不了，～咖跑掉啊啦！  
+1. 【[趉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jyeh.md#趉)】`jyeh7` <sup>[东台]</sup> 忿忿而去（《广韵》九勿切。《吴下方言考》“吴中谓人含怒不别而行曰趉。”）：有人同他开玩笑过啊头，他当场就～咖跑掉啊。  
 1. 【[趉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jyeh.md#趉)】`jyeh7` <sup>[泰县]</sup> 突然走开：想不到他～咖走啊。  
 1. 【[蹫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jyeh.md#蹫)】`jyeh7` <sup>[如皋]</sup> 液体溅起：～水点儿油花儿～咖衣裳上。  
 1. 【[蹫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jyeh.md#蹫)】`jyeh7` <sup>[如皋]</sup> 蹦跳：虾儿一～多高；鱼走网里～掉啊。  
-1. 【[蹫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jyeh.md#蹫)】`jyeh7` <sup>[如皋]</sup> 怒而走开：你这吖说相他接受不了，～咖跑掉啊啦！  
 1. 【[蹫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jyeh.md#蹫)】`jyeh7` <sup>[东台]</sup> 跳来跳去：鱼从桶里～到地上去了。  
 1. 【[蹫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jyeh.md#蹫)】`jyeh7` <sup>[东台]</sup> 小步走路的样子：他跑起路来～咖～的。  
-1. 【[蹫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jyeh.md#蹫)】`jyeh7` <sup>[东台]</sup> 忿忿而去（东台词典作趉。《广韵》九勿切。《吴下方言考》“吴中谓人含怒不别而行曰趉。”）：有人同他开玩笑过啊头，他当场就～咖跑掉啊。  
 1. 【[蹫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jyeh.md#蹫)】`jyeh7` <sup>[兴化]</sup> ① 跳：他一～多高。 ② 兴化词典作“𧽸”，《广韵·月韵》居月切“～，跳～”，反切不合。  
 1. 【[蹫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jyeh.md#蹫)】`jyeh7` <sup>[泰县]</sup> 禽鸟虫鱼身肢跳动：这条鱼还在下～。  
 1. 【[蹫皮<sub>儿</sub>脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jyeh_pi_r_lin.md#蹫皮<sub>儿</sub>脸)】`jyeh7 pi2 r lin3` <sup>[如东]</sup> 气量狭小，听到不同意见就变脸：这人是个～。  
