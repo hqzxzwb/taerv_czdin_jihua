@@ -1,5 +1,5 @@
 # 黑肉秋秋
-heh7 roh7 qieu1 qieu1
+heh7 roh qieu1 qieu1
 > 东台方言词典
 - 指某人皮肤黑，很壮实的样子
   - 他～的，肯吃苦。
