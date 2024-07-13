@@ -1129,7 +1129,7 @@
 1. 【[性子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_zz.md#性子)】`xien5 zz` <sup>[如东]</sup> 性格，脾气：～要放淡点儿。  
 1. 【[性子躁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_zz_zo.md#性子躁)】`xien5 zz zo5` <sup>[如东]</sup> 脾气急躁：不能～。  
 1. 【[臖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien.md#臖)】`xien5` <sup>[如皋]</sup> 由病灶波及：牙子疼～吖骨头里去啊；手爪儿疼，夹肢窝里～起𣝗子来啊。  
-1. 【[臖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien.md#臖)】`xien5` <sup>[兴化]</sup> 肿痛波及他处：大腿丫巴疼得～起𣝗子来。｜牙疼把半脸～吖肿起来。《广韵·证韵》许应切“～，肿起”。  
+1. 【[臖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien.md#臖)】`xien5` <sup>[兴化]</sup> 肿痛波及他处：大腿丫巴疼得～起𣝗子来。｜牙疼把半脸～吖肿起来。  
 1. 【[臖𣝗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_veh.md#臖𣝗)】`xien5 veh8` <sup>[东台]</sup> （腹股沟）淋巴发炎而成的肿块。（臖，《广韵》“许应切，肿起。”）  
 1. 【[舋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien.md#舋)】`xien5` <sup>[如皋]</sup> 共振：黄海里地震，我家橱门搭子～得只摇。如皋词典写“扟”。  
 1. 【[舋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien.md#舋)】`xien5` <sup>[泰县]</sup> 震动、影响：你脚一𨁽，我这许都～动吖。  
