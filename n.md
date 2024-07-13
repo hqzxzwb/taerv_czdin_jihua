@@ -1326,6 +1326,8 @@
 1. 【[咬籽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_zz.md#咬籽)】`ngo3 zz3` <sup>[如皋]</sup> 雄鱼紧随雌鱼后上方一边游，一边产卵授精。  
 1. 【[袄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo.md#袄)】`ngo3` <sup>[如皋]</sup> 棉𧘸子、棉衣。  
 1. 【[袄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo.md#袄)】`ngo3` <sup>[如皋]</sup> 见“𧘸子”。  
+1. 【[坳沟头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_geu_teu_zz.md#坳沟头子)】`ngo5 geu1 teu2 zz` <sup>[兴化]</sup> 一端不通行的小河沟。也作“坳子”。  
+1. 【[坳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_zz.md#坳子)】`ngo5 zz` <sup>[兴化]</sup> 一端不通行的小河沟。  
 1. 【[懊报](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_bo.md#懊报)】`ngo5 bo5` <sup>[如东]</sup> 后悔而又抱怨别人：你不要～，这是你自己做的。  
 1. 【[懊慒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_co.md#懊慒)】`ngo5-3 co2` <sup>[东台]</sup> 烦闷、懊恼、后悔：昨夜皮夹被人家偷了，～得很。《玉篇》｜“慒，乱也。”  
 1. 【[懊悔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_huei.md#懊悔)】`ngo5 huei5` <sup>[如东]</sup> 做错了事或说错了话，心里自恨不该这样。  
@@ -1347,8 +1349,6 @@
 1. 【[擙磨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_mu.md#擙磨)】`ngo5 mu6` <sup>[如皋]</sup> 旧时用石磨磨粮，中等石磨，由12人用“磨担”推拉，称“拉磨”或“牵磨”。另1人一手掌握“磨担”的头部，另一手望磨眼里添料，称～。  
 1. 【[擙磨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_mu.md#擙磨)】`ngo5 mu6` <sup>[东台]</sup> 石磨磨粮时有一人左手抓住磨担，右手抓粮食往磨眼里注入的动作。  
 1. 【[擙水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_shuei.md#擙水)】`ngo5 shuei3` <sup>[如皋]</sup> 用人力或畜力推动辋子戽水。  
-1. 【[泑沟头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_geu_teu_zz.md#泑沟头子)】`ngo5 geu1 teu2 zz` <sup>[兴化]</sup> 一端不通行的小河沟。也作“泑子”。  
-1. 【[泑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_zz.md#泑子)】`ngo5 zz` <sup>[兴化]</sup> 一端不通行的小河沟。  
 1. 【[隩壁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_bieh.md#隩壁)】`ngo5 bieh7` <sup>[如皋]</sup> 偏僻。  
 1. 【[隩廦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_bieh.md#隩廦)】`ngo5 bieh7` <sup>[如皋]</sup> 幽深隐蔽。  
 1. 【[隩僻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_pieh.md#隩僻)】`ngo5 pieh7` <sup>[兴化]</sup> 形容所处位置偏僻荒凉：以前西门一带十分～，现在成吖大马路。  

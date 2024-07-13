@@ -107,7 +107,7 @@
 1. 【[漓屎猫<sub>儿</sub>形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_shr_mo_r_xien.md#漓屎猫<sub>儿</sub>形)】`la2 shr3 mo2 r xien2` <sup>[如皋]</sup> 指不整洁、形象猥琐的样子。  
 1. 【[漓屎搨酱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_shr_taeh_jian.md#漓屎搨酱)】`la2 shr3 taeh7 jian5` <sup>[如皋]</sup> 大便失禁，并且涂搨开来。  
 1. 【[漓屎星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_shr_xien.md#漓屎星)】`la2 shr3 xien1` <sup>[如皋]</sup> 流星。  
-1. 【[漓黄龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_va_lon.md#漓黄龙)】`la2 va2 lon2` <sup>[如皋]</sup> 流鼻涕。  
+1. 【[漓黄龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_van_lon.md#漓黄龙)】`la2 van2 lon2` <sup>[如皋]</sup> 流鼻涕。  
 1. 【[漓尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_xy.md#漓尿)】`la2 xy1` <sup>[如皋]</sup> 尿床，排尿失禁。  
 1. 【[漓尿宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_xy_bo_r.md#漓尿宝<sub>儿</sub>)】`la2 xy1 bo3 r` <sup>[如皋]</sup> ① 嘲笑用语。指经常尿床的人，主要指小孩。 ② 大蓑蛾的幼虫，藏在用叶、柄裹成的长椎形茧中，挂在树枝上。  
 1. 【[哪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la.md#哪)】`la3` <sup>[如东]</sup> 疑问代词。  
@@ -1376,7 +1376,6 @@
 1. 【[拎草鞋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_co_hae.md#拎草鞋)】`lien2 co3 hae2` <sup>[东台]</sup> 形容做不了大事，只能听人支派或协助别人做小事。  
 1. 【[棂子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_zz.md#棂子)】`lien2 zz` <sup>[如东]</sup> 窗户中间安装的木槅子。  
 1. 【[淋灰水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_huei_shuei.md#淋灰水)】`lien2 huei1 shuei3` <sup>[如皋]</sup> 见“𤃀灰水”。  
-1. 【[淋浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_jain.md#淋浆)】`lien2 jain1` <sup>[如皋]</sup> 见“𤃀浆”。  
 1. 【[灵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien.md#灵)】`lien2` <sup>[如皋]</sup> 蟋蟀精子：过～。  
 1. 【[灵床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_chuan.md#灵床)】`lien2 chuan2` <sup>[东台]</sup> 停放尸体的床铺。  
 1. 【[灵泛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_faen.md#灵泛)】`lien2 faen` 聪明  
@@ -1449,7 +1448,7 @@
 1. 【[令堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_tan.md#令堂)】`lien6 tan2` <sup>[如东]</sup> 旧时对他人母亲的尊称。  
 1. 【[另茶另饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_cha_lien_faen.md#另茶另饭)】`lien6 cha2 lien6 faen6` <sup>[如皋]</sup> 生活上特优照料。  
 1. 【[淋灰水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_huei_shuei.md#淋灰水)】`lien6 huei1 shuei3` <sup>[如皋]</sup> 过滤灶灰得之碱水，供洗涤用（旧时无肥皂、洗衣粉等洗涤用品）。  
-1. 【[淋浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_jian.md#淋浆)】`lien6 jian1` <sup>[如皋]</sup> 滤浆。  
+1. 【[淋浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_jian.md#淋浆)】`lien6 jian1` <sup>[如皋]</sup> 滤浆。另见“𤃀浆”。  
 1. 【[溜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu.md#溜)】`lieu1` 溜走，逃走；快跑  
 1. 【[溜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu.md#溜)】`lieu1` <sup>[如东]</sup> 逃。  
 1. 【[溜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu.md#溜)】`lieu1` <sup>[如皋]</sup> 水流湍急：闸口的水～。  

@@ -191,9 +191,9 @@
 1. 【[𦚢手𦚢脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/ya_sheu_ya_jiah.md#𦚢手𦚢脚)】`ya1 sheu3 ya1 jiah7` <sup>[如东]</sup> 做事不利落：～的，怎吖得快？  
 1. 【[𦚢手𦚢脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/ya_sheu_ya_jiah.md#𦚢手𦚢脚)】`ya1 sheu3 ya1 jiah7` <sup>[东台]</sup> 做事动作不灵敏（𦚢，《广韵》“於靴切手足曲病。”）：天又不曾太冷，你怎吖～，做事不刷脱？  
 1. 【[挼将](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/ya_jian.md#挼将)】`ya2 jian` <sup>[东台]</sup> 势头衰减、体质弱的趋向：他年纪增大，精气神也不如以前吖，渐渐～啊！｜你以前能喝半斤酒，今吖只喝这一点点，怎吖～吖啦？  
+1. 【[曰口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/ya_keu.md#曰口)】`ya5 keu` <sup>[如皋]</sup> 言下之意，言外之音：听他的～是想买二胡。  
 1. 【[□责](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yae_zeh.md#□责)】`yae2 zeh7` <sup>[泰县]</sup> 得罪人。  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yaeh.md#□)】`yaeh7` <sup>[泰县]</sup> 淘汰。  
-1. 【[曰口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yah_keu.md#曰口)】`yah7 keu3` <sup>[如皋]</sup> 言下之意，言外之音：听他的～是想买二胡。  
 1. 【[入秋的高粱——老来红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yeh_qieu_dii_go_lian_lo_lae_hon.md#入秋的高粱——老来红)】`yeh7 qieu1 dii go1 lian2 lo3 lae2 hon2` <sup>[东台]</sup>   
 1. 【[捥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yeh.md#捥)】`yeh7` <sup>[如皋]</sup> ① 矫形：～竹子、～扁担；桑树从小儿～，到老直笔笔。 ② 扳：～腰。或作“𢺴”。  
 1. 【[捥/𢺴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yeh.md#捥/𢺴)】`yeh7` <sup>[东台]</sup> 扳；使条状物变形：桑树从小～，到老直笔笔。  

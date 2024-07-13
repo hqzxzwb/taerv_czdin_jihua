@@ -1295,7 +1295,7 @@
 1. 【[担绳扣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_shen_keu_r.md#担绳扣<sub>儿</sub>)】`daen1 shen2 keu1 r` <sup>[如皋]</sup> 见“担绳结”。  
 1. 【[担待](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_tae.md#担待)】`daen1 tae6` <sup>[东台]</sup> 原谅，谅解：伢子不懂事，请你多～。  
 1. 【[耽搁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_gah.md#耽搁)】`daen1 gah` <sup>[如东]</sup> 耽误。  
-1. 【[䋎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen.md#䋎)】`daen3` <sup>[东台]</sup> 补缝。《说文解字段注》“从糸，旦声。”：古艳歌行曰：“故衣谁当补，新衣谁当䋎。赖得贤主人，览取为我组。”｜这裤子有个小洞，让我～一下。  
+1. 【[䋎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen.md#䋎)】`daen3` <sup>[东台]</sup> 补缝：这裤子有个小洞，让我～一下。  
 1. 【[掸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen.md#掸)】`daen3` <sup>[兴化]</sup> ① 接触：他这几天太忙，屁股不曾～到板凳又捱人叫走啊。｜河水太深，～不到底（不知深浅）。 ② 拂拭：～被｜～帐子｜～灰尘  
 1. 【[掸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen.md#掸)】`daen3` <sup>[泰县]</sup> 眼晴看到：不能让他～到眼。  
 1. 【[掸不到九底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_beh_do_jieu_di.md#掸不到九底)】`daen3 beh do5 jieu3 di3` <sup>[泰县]</sup> 不知深浅：这个事有点儿～。  
@@ -2498,8 +2498,8 @@
 1. 【[倒进门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_jien_men.md#倒进门)】`do5 jien5 men2` <sup>[如皋]</sup> 招女婿。  
 1. 【[倒酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_jieu.md#倒酒)】`do5 jieu3` <sup>[如东]</sup> ① 斟酒。 ② 给对方添酒。  
 1. 【[倒苦水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_kv_shuei.md#倒苦水)】`do5 kv3 shuei3` <sup>[东台]</sup> 倾吐心中的苦闷和烦恼。  
-1. 【[倒篓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_leu_r.md#倒篓<sub>儿</sub>)】`do5 leu2 r` <sup>[泰县]</sup> ① 盗墓。 ② 全部取尽。  
 1. 【[倒篓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_leu_r.md#倒篓<sub>儿</sub>)】`do5 leu3 r` <sup>[东台]</sup> 把不愉快的往事或给别人好处的事情一件件说出来。  
+1. 【[倒篓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_leu_r.md#倒篓<sub>儿</sub>)】`do5 leu3 r` <sup>[泰县]</sup> ① 盗墓。 ② 全部取尽。  
 1. 【[倒篓子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_leu_zz.md#倒篓子)】`do5 leu3 zz` <sup>[兴化]</sup> 盗墓。  
 1. 【[倒老子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_lo_zz.md#倒老子)】`do5 lo3 zz` <sup>[泰县]</sup> 不听话的儿子。  
 1. 【[倒毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_mo.md#倒毛)】`do5 mo2` <sup>[兴化]</sup> 禽类换毛羽：鸡子～，不好吃。  

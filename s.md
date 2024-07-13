@@ -2274,8 +2274,7 @@
 1. 【[摏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shon.md#摏)】`shon1` <sup>[如皋]</sup> 横向捣击：摏一撉儿。  
 1. 【[舂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shon.md#舂)】`shon1` <sup>[如皋]</sup> ① 纵向捣击：他拿高凳头儿～人！ ② 用碓臼给粮食去壳、精加工：～稻、～米、……。按，舂、磕、臿同为用碓臼加工，但词义用法不同。磕，粉碎：～糏。臿，去杂质：～稻、～米。 ③ 状头部偏低：倒～头。  
 1. 【[舂池](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shon_chr.md#舂池)】`shon1 chr2` <sup>[如皋]</sup> 筑粪池。因有将坑中土捣实的重要工序，故称舂池。  
-1. 【[舂碓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shon_dy.md#舂碓)】`shon1 dy1` <sup>[如皋]</sup> 踏碓。  
-1. 【[舂碓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shon_dy.md#舂碓)】`shon1 dy5` <sup>[如皋]</sup> 见“踏碓”。  
+1. 【[舂碓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shon_dy.md#舂碓)】`shon1 dy5` <sup>[如皋]</sup> 踏碓  
 1. 【[舂碓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shon_dy.md#舂碓)】`shon1 dy5` <sup>[东台]</sup> 把稻子放在石臼里面脱壳，或将米捣碎成粉。  
 1. 【[舂粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shon_fen.md#舂粉)】`shon1 fen3` <sup>[泰县]</sup> 用碓制米粉。  
 1. 【[舂稻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shon_to.md#舂稻)】`shon1 to6` <sup>[如东]</sup> 把稻谷放在石臼中捣去稻壳的过程。  
@@ -3401,7 +3400,6 @@
 1. 【[送灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_zo.md#送灶)】`son5 zo5` <sup>[东台]</sup> 见“灶老爷”。  
 1. 【[送灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_zo.md#送灶)】`son5 zo5` <sup>[兴化]</sup> 旧俗：腊月二十四日晚，民户设馔及麦芽糖（灶糖），撒草豆，焚香烛、纸马，送灶王爷“上天言好事”。  
 1. 【[𢱤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son.md#𢱤)】`son5` <sup>[兴化]</sup> 推、托：墙头太高，你在下边～他一把，帮他爬上去。《集韵·董韵》损动切｜“～，推也”。  
-1. 【[二事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sr_shr.md#二事)】`sr6 shr5` <sup>[兴化]</sup> 帮忙做杂事：星期天，小于忙吖洗衣做饭，他先生跟吖在后边做～。  
 1. 【[䞭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su.md#䞭)】`su1` <sup>[东台]</sup> 小步快跑：他一～的下子，就走啊｜伢儿在下～来～去的。  
 1. 【[梭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su.md#梭)】`su1` <sup>[如东]</sup> 一种加工方法，用钢丝锯或狭条锯将木料锯开。  
 1. 【[梭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su.md#梭)】`su1` <sup>[东台]</sup> 来来去去锯东西：把凸咖在上面的铁钉～掉｜这许树枝太密，要～掉一些。  

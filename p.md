@@ -82,9 +82,9 @@
 1. 【[怕梦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_mon.md#怕梦)】`pa5 mon6` <sup>[兴化]</sup> 噩梦：他夜里做～，吓咖喊起来。  
 1. 【[怕你如忌鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_nii_rv_qi_guei.md#怕你如忌鬼)】`pa5 nii rv2 qi6 guei3` <sup>[如皋]</sup> 非常怕他（你）。有贬义。  
 1. 【[怕怕悒悒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_pa_ieh_ieh.md#怕怕悒悒)】`pa5 pa5 ieh7 ieh7` <sup>[东台]</sup> 又叫怕怕瑟瑟，担惊受怕的样子。  
+1. 【[怕怕瑟瑟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_pa_seh_seh.md#怕怕瑟瑟)】`pa5 pa5 seh7 seh7` <sup>[如皋]</sup> 害怕的样子。  
 1. 【[怕怕瑟瑟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_pa_seh_seh.md#怕怕瑟瑟)】`pa5 pa5 seh7 seh7` <sup>[如东]</sup> 因为害怕而身体微微擅抖：她～的，不敢进门。  
 1. 【[怕怕瑟瑟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_pa_seh_seh.md#怕怕瑟瑟)】`pa5 pa5 seh7 seh7` <sup>[泰县]</sup> ① 胆小：这人做事～。 ② 羞答答：这姑娘看到生人～的。  
-1. 【[怕怕𠗼𠗼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_pa_seh_seh.md#怕怕𠗼𠗼)】`pa5 pa5 seh7 seh7` <sup>[如皋]</sup> 害怕的样子。  
 1. 【[怕惧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_qy.md#怕惧)】`pa5 qy` <sup>[东台]</sup> 令人害怕。（原文音pa5 jy5）  
 1. 【[怕惧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_qy.md#怕惧)】`pa5 qy` <sup>[兴化]</sup> 恐惧心理：我们给他写封警告信，丢点～给他，叫他少要为非作歹。｜“……风丫头在外头，他们还有个～……”（《红楼梦》五五）  
 1. 【[怕惧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_qy.md#怕惧)】`pa5 qy6` <sup>[如皋]</sup> 畏惧严厉的规矩。（原文音pa5 jy5）  

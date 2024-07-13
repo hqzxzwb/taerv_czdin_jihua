@@ -235,6 +235,7 @@
 1. 【[二梢子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_sho_zz.md#二梢子)】`er6 sho1-3 zz` <sup>[泰县]</sup> 载重一吨半至两吨的农船。  
 1. 【[二师兄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_shr_xion.md#二师兄)】`er6 shr1 xion1` <sup>[如皋]</sup> 佛门称和尚为大师兄，尼姑为～。  
 1. 【[二时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_shr.md#二时)】`er6 shr2` <sup>[如皋]</sup> “时天”的中段，在夏至到小暑的中段。  
+1. 【[二事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_shr.md#二事)】`er6 shr5` <sup>[兴化]</sup> 帮忙做杂事：星期天，小于忙吖洗衣做饭，他先生跟吖在后边做～。  
 1. 【[二水货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_shuei_hu.md#二水货)】`er6 shuei hu5` <sup>[泰兴]</sup> ① 指已经用过的物品：不管什么名牌，～我不要，要买就买新的 ② 有时用于贬称再嫁的妇女  
 1. 【[二水钩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_shuei_geu_zz.md#二水钩子)】`er6 shuei3 geu1 zz` <sup>[兴化]</sup> 伸足绊人：他一个～把人家撂下来咾！  
 1. 【[二水子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_shuei_zz.md#二水子)】`er6 shuei3 zz` <sup>[兴化]</sup> ① 并非原装的或非初次使用的：他忙吖多时，结果弄来个～。 ② 旧物或剩下的：拾人家～。｜他身穷落魄，在酒馆里等～饭菜充饥。  

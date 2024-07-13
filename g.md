@@ -867,7 +867,7 @@
 1. 【[狗婿何忠宪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_xy_hu_zhon_xin.md#狗婿何忠宪)】`geu3 xy5 hu2 zhon1 xin5-3` <sup>[东台]</sup> 本为古戏《薛仁贵征东》的人物，本领不大。打仗时张常派伙头军薛仁贵替他出征。后来～成为冒名顶替的代名词。  
 1. 【[狗仗人势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_zhan_ren_shr.md#狗仗人势)】`geu3 zhan5 ren2 shr5` <sup>[东台]</sup> 形容仗势欺人。  
 1. 【[狗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_zz.md#狗子)】`geu3 zz` <sup>[泰县]</sup> 狗。  
-1. 【[狗子嘴里没得象牙吐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_zz_jy_lii_me_deh_xian_ia_tv.md#狗子嘴里没得象牙吐)】`geu3 zz jy3 lii me8 deh xian5 ia2 tv3` <sup>[如皋]</sup> 詈语。指某人决不会说出好话来。  
+1. 【[狗子嘴里没得象牙吐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_zz_jy_lii.md#狗子嘴里没得象牙吐)】`geu3 zz jy3 lii meh8 deh xian5 ia2 tv3` <sup>[如皋]</sup> 詈语。指某人决不会说出好话来。  
 1. 【[狗子肏的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_zz_reh_dii.md#狗子肏的)】`geu3 zz reh8 dii` <sup>[如皋]</sup> 见“狗肏的”。  
 1. 【[狗子赸鸭子——刮刮叫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_zz_shuaen_ngaeh_zz_guaeh_guaeh_jio.md#狗子赸鸭子——刮刮叫)】`geu3 zz shuaen1 ngaeh7 zz guaeh7 guaeh7 jio5` <sup>[东台]</sup>   
 1. 【[狗子𢪯舌头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_zz_tae_shih_teu.md#狗子𢪯舌头)】`geu3 zz tae1 shih8 teu` <sup>[如皋]</sup> 犬无汗腺，伸舌散热，状天气热。  

@@ -590,7 +590,7 @@
 1. 【[黑<sub>儿</sub>牙膏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_r_nga_go.md#黑<sub>儿</sub>牙膏)】`heh7 r nga2 go1` <sup>[如皋]</sup> 指肤色较黑的人。  
 1. 【[黑<sub>儿</sub>牙膏，不挤不冒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_r_nga_go_beh_ji_beh_mo.md#黑<sub>儿</sub>牙膏，不挤不冒)】`heh7 r nga2 go1 beh7 ji3 beh7 mo6` <sup>[如皋]</sup> 喻有隐瞒，不问不说，问点说点，吞吞吐吐，不肯将真像全盘托出。  
 1. 【[黑人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_ren.md#黑人)】`heh7 ren2` <sup>[如东]</sup> ① 肌肤黑色的人种。 ② 没有在政府户籍机关注册的人。  
-1. 【[黑肉秋秋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_roh_qieu_qieu.md#黑肉秋秋)】`heh7 roh7 qieu1 qieu1` <sup>[东台]</sup> 指某人皮肤黑，很壮实的样子：他～的，肯吃苦。  
+1. 【[黑肉秋秋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_roh_qieu_qieu.md#黑肉秋秋)】`heh7 roh qieu1 qieu1` <sup>[东台]</sup> 指某人皮肤黑，很壮实的样子：他～的，肯吃苦。  
 1. 【[黑市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_shr.md#黑市)】`heh7 shr6` <sup>[如东]</sup> 暗中进行非法买卖的市场。  
 1. 【[黑松](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_son.md#黑松)】`heh7 son1` <sup>[如东]</sup> 乔木。树冠扁平，伞状。  
 1. 【[黑䵬子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_taeh_zz.md#黑䵬子)】`heh7 taeh7 zz` <sup>[泰县]</sup> 很黑的东西：这家伙是个～。  

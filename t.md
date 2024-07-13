@@ -159,7 +159,7 @@
 1. 【[待女](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ny.md#待女)】`tae6 ny3` <sup>[东台]</sup> 姑娘出嫁前一天的酒席。这一天男方称“暖轿”。  
 1. 【[待匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_qian.md#待匠)】`tae6 qian6` <sup>[东台]</sup> 指工程竣工，招待工匠：房子明吖～。  
 1. 【[怠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#怠)】`tae6` <sup>[兴化]</sup> （借）松懈：这件事就是他～下来的。  
-1. 【[怠啊怠的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_a_tae_dii.md#怠啊怠的)】`tae6 a1 tae6 dii` <sup>[东台]</sup> 动作拖沓、慢吞吞：行动快点儿，不要～的。  
+1. 【[怠啊怠的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_a_tae_dii.md#怠啊怠的)】`tae6 a tae6 dii` <sup>[东台]</sup> 动作拖沓、慢吞吞：行动快点儿，不要～的。  
 1. 【[汏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#汏)】`tae6` <sup>[如皋]</sup> 漂洗。  
 1. 【[汏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#汏)】`tae6` <sup>[东台]</sup> 洗过的衣被，再放到清水里漂洗。  
 1. 【[汏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#汏)】`tae6` <sup>[兴化]</sup> 洗后漂清：金如松一面把洗的衣裳～～清，一面……（马春阳《姐妹姻缘船迷传》）｜《后汉书·陈元传》｜“解释先圣之积结，洮汰学者之累惑。”李贤注｜“洗汰，犹洗濯也。”  
@@ -848,11 +848,11 @@
 1. 【[头大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_da.md#头大)】`teu2 da6` <sup>[兴化]</sup> 头脑发胀。借指厌恶和为难：我见吖他就～。｜“……先生出了题目，要作‘八股’，侄儿先就～了……”（《二十年目睹之怪现状》十）  
 1. 【[头墩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_den.md#头墩)】`teu2 den1` <sup>[如东]</sup> 旧时对特级厨师的称谓。  
 1. 【[头底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_di.md#头底)】`teu2 di3` <sup>[东台]</sup> 底细：不清～。  
+1. 【[头底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_di.md#头底)】`teu2 di3` <sup>[如皋]</sup> 头尾、情由。  
 1. 【[头顶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_dien.md#头顶)】`teu2 dien3` <sup>[如东]</sup> 人头的顶部。头顶上的旋。  
 1. 【[头顶上长眼睛——目中无人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_dien_shan_zhan_ngaen_jien_moh_zhon_v_ren.md#头顶上长眼睛——目中无人)】`teu2 dien3 shan zhan3 ngaen3 jien moh8 zhon1 v2 ren2` <sup>[东台]</sup>   
 1. 【[头顶长疮脚底流脓——坏透啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_dien_zhan_chuan_jiah_di_lieu_non_huae_teu_a.md#头顶长疮脚底流脓——坏透啊)】`teu2 dien3 zhan3 chuan1 jiah7 di3 lieu2 non2 huae6 teu5 a` <sup>[东台]</sup>   
 1. 【[头钉吖下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_dien_nga_ha.md#头钉吖下)】`teu2 dien5 nga ha` <sup>[如皋]</sup> 硬挺着的样子。  
-1. 【[头底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_dii.md#头底)】`teu2 dii3` <sup>[如皋]</sup> 头尾、情由。  
 1. 【[头店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_din.md#头店)】`teu2 din5` <sup>[如皋]</sup> 理发店。  
 1. 【[头店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_din.md#头店)】`teu2 din5` <sup>[如皋]</sup> 理发店，旧称剃头店。  
 1. 【[头二十岁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_er_sheh_xy.md#头二十岁)】`teu2 er sheh xy5` <sup>[泰县]</sup> 近二十岁：他才～。  
@@ -2363,8 +2363,8 @@
 1. 【[脱粒机](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuh_lieh_ji.md#脱粒机)】`tuh7 lieh8 ji1` <sup>[如东]</sup> 农具。一只带齿的滚轴固定在框架上，以电动机或柴油机为动力，带动滚轴旋转，把谷粒刷下来。  
 1. 【[脱帽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuh_mo_zz.md#脱帽子)】`tuh7 mo6 zz` <sup>[如东]</sup> 把帽子从头上取下来。比喻把加在某些人头上的政治罪名去掉。  
 1. 【[脱牙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuh_nga.md#脱牙)】`tuh7 nga2` <sup>[如东]</sup> 孩子换乳牙。  
-1. 【[脱白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuh_poh.md#脱白)】`tuh7 poh7` <sup>[兴化]</sup> 猪宰杀后去毛。  
 1. 【[脱白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuh_poh.md#脱白)】`tuh7 poh8` <sup>[如东]</sup> 将猪或其他牲畜身上的毛刮光，叫做脱白。  
+1. 【[脱白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuh_poh.md#脱白)】`tuh7 poh8` <sup>[兴化]</sup> 猪宰杀后去毛。  
 1. 【[脱白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuh_poh.md#脱白)】`tuh7 poh8` <sup>[泰县]</sup> 刮光猪身上的毛。  
 1. 【[脱臼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuh_qieu.md#脱臼)】`tuh7 qieu6` <sup>[如东]</sup> 骨关节错位。  
 1. 【[脱趣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuh_qy.md#脱趣)】`tuh7 qy5` <sup>[东台]</sup> 脱离低级、庸俗趣味：这件事办得蛮～的。  

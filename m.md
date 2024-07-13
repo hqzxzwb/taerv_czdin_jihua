@@ -816,8 +816,8 @@
 1. 【[没头鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_teu_guei.md#没头鬼)】`meh8 teu2 guei3` <sup>[兴化]</sup> （喻）行为葬撞，无所顾忌的市井无赖  
 1. 【[没头官<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_teu_gun_r.md#没头官<sub>儿</sub>)】`meh8 teu2 gun1 r` <sup>[如东]</sup> ① 比喻没有来源的话：他说的都是些～。 ② 比喻无关紧要的事：都是一些～的事，等刻儿再说。  
 1. 【[没头官司](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_teu_gun_sz.md#没头官司)】`meh8 teu2 gun1 sz` <sup>[兴化]</sup> ① 不明不白的官司。 ② （喻）没有头绪的事：机构撤并吖七、八次，人换吖几茬，几十年前的案子早成吖～。｜扣驾照的不晓得是哪个单位，这个～怎吖打法咖？  
-1. 【[没头没脸的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_teu_me_lin_dii.md#没头没脸的)】`meh8 teu2 me8 lin3 dii` <sup>[如皋]</sup> 不分头脸：打起伢儿来～的瞎打。  
 1. 【[没头没脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_teu_meh_lin.md#没头没脸)】`meh8 teu2 meh8 lin3` <sup>[兴化]</sup> 连头盖脸地：他睡啊床上，拿一条被把自己～的盖起来。｜他把小王～的数落咖一顿。  
+1. 【[没头没脸的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_teu_meh_lin.md#没头没脸的)】`meh8 teu2 meh8 lin3 dii` <sup>[如皋]</sup> 不分头脸：打起伢儿来～的瞎打。  
 1. 【[没头没脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_teu_meh_no.md#没头没脑)】`meh8 teu2 meh8 no3` <sup>[兴化]</sup> ① 茫无头绪：这～的几个字，哪个晓得他甚的意思？ ② 不问情由：（素姐）一手将狄希陈采番在地，拾起一个小板凳来，～的就打。（《醒世姻缘传》七六）  
 1. 【[没头绪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_teu_qy.md#没头绪)】`meh8 teu2 qy6` <sup>[如东]</sup> ① 没有办法：黄林明～。 ② 没有靠山：这个人～，吃不开。  
 1. 【[没头绪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_teu_qy.md#没头绪)】`meh8 teu2 qy6` <sup>[东台]</sup> 没水平，没本事，或者指某人地位低，某物质量差。  
