@@ -1265,7 +1265,7 @@
 1. 【[碰一鼻子灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_ieh_pieh_zz_huei.md#碰一鼻子灰)】`pon5 ieh7 pieh8 zz huei1` <sup>[东台]</sup> 遭到拒绝或斥责，落得没趣。  
 1. 【[碰吖一鼻子灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_nga_ieh_pieh_zz_huei.md#碰吖一鼻子灰)】`pon5 nga ieh7 pieh8 zz huei1` <sup>[如皋]</sup> 遭到冷遇，接触失败。  
 1. 【[碰屁股不转弯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_pi_gu_beh_zhun_vaen.md#碰屁股不转弯)】`pon5 pi5 gu beh7 zhun3 vaen1` <sup>[如皋]</sup> 状空间过小。  
-1. 【[碰鼻子转弯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_pieh_zz_guae_vaen.md#碰鼻子转弯)】`pon5 pieh8 zz guae3 vaen1` <sup>[兴化]</sup> ① 遇阻拐弯：一直朝东走，～就到他家。 ② 碰钉子回头：你劝他不听，他要碰鼻子才转弯哎。  
+1. 【[碰鼻子转弯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_pieh_zz_zhun_vaen.md#碰鼻子转弯)】`pon5 pieh8 zz zhun3 vaen1` <sup>[兴化]</sup> ① 遇阻拐弯：一直朝东走，～就到他家。 ② 碰钉子回头：你劝他不听，他要碰鼻子才转弯哎。  
 1. 【[碰碰看](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_pon_kun.md#碰碰看)】`pon5 pon5 kun` <sup>[东台]</sup> 试一试有没有运气。  
 1. 【[碰碰<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_pon_r.md#碰碰<sub>儿</sub>)】`pon5 pon5 r` <sup>[如皋]</sup> ① 无规律、不定准。 ② 指行动不定的人：他是个～，难寻。  
 1. 【[碰碰<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_pon_r.md#碰碰<sub>儿</sub>)】`pon5 pon5 r` <sup>[如东]</sup> 也许：～会成功。耷子和的一种进牌方式。两张相同花色的牌，吃进另一张相同花色的牌，叫做碰碰儿。  

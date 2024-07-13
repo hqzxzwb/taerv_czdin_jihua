@@ -1863,7 +1863,6 @@
 1. 【[晓得来尿就爬坐起来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_deh_lae_xy_qieu_pa_cu_qi_lae.md#晓得来尿就爬坐起来)】`xio3 deh7 lae2 xy1 qieu6 pa2 cu6 qi3 lae2` <sup>[东台]</sup> 后悔做错了事，同时又有点自我解嘲自我原谅的意味。  
 1. 【[晓杲昃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_go_zeh.md#晓杲昃)】`xio3 go3 zeh` <sup>[东台]</sup> 懂事，会办事、处世。  
 1. 【[晓杲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_go_zz.md#晓杲子)】`xio3 go3 zz` 懂事  
-1. 【[晓脉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_moh.md#晓脉)】`xio3 moh8` <sup>[如东]</sup> ① 切脉。 ② 比喻诊断问题的症结：你把情况告诉我，我帮你～。  
 1. 【[晓星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xien.md#晓星)】`xio3 xien1` <sup>[如皋]</sup> 金星黎明时在东天边、黄昏时在西天边，最亮。  
 1. 【[晓星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xien.md#晓星)】`xio3 xien1` <sup>[如东]</sup> 拂晓时出现在东方的一颗亮星——金星，绕太阳公转周期是224.7天，自转周期是243天，自东向西逆转。金星是太阳系各大行星中离地球最近的一颗。中国古代把金星叫做太白星，早晨出现在东方时叫启明星，晚上出现在西方时叫长庚星。  
 1. 【[晓喻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_y.md#晓喻)】`xio3 y` <sup>[如皋]</sup> 善意警告：我把个～你，你今朝惹啊祸，家去煞个放吖乖啊点儿。  
@@ -1910,6 +1909,7 @@
 1. 【[笑嘻嘻的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xi_xi_dii.md#笑嘻嘻的)】`xio5 xi1 xi1 dii` <sup>[东台]</sup> ① 微笑的样子。 ② 轻而易举，不费事：这个店一年赚几十万，～。  
 1. 【[需<sub>要</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio.md#需<sub>要</sub>)】`xio5` <sup>[如皋]</sup> 需要的合音字。  
 1. 【[号脉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_moh.md#号脉)】`xio6 moh8` <sup>[如皋]</sup> 中医把脉。  
+1. 【[号脉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_moh.md#号脉)】`xio6 moh8` <sup>[如东]</sup> ① 切脉。 ② 比喻诊断问题的症结：你把情况告诉我，我帮你～。  
 1. 【[号脉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_moh.md#号脉)】`xio6 moh8` <sup>[东台]</sup> 中医的搭脉。也说切脉。  
 1. 【[校长兼校工，上课带打钟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_zhan_jin_xio_gon_shan_ku_dae_da_zhon.md#校长兼校工，上课带打钟)】`xio6 zhan3 jin1 xio6 gon1 shan6 ku5 dae5 da3 zhon1` <sup>[东台]</sup> 喻指机构精干，或单位人手少，负责人大小事都要亲自干。  
 1. 【[兄弟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xion_ti.md#兄弟)】`xion1 ti` 弟弟  

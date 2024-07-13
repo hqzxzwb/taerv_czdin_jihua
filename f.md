@@ -610,7 +610,7 @@
 1. 【[飞𢜶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_so.md#飞𢜶)】`fei1 so5` <sup>[兴化]</sup> 速度极高：摩托在公路上开得～。  
 1. 【[飞烫的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_tan_dii.md#飞烫的)】`fei1 tan5 dii` <sup>[如皋]</sup> 很烫的  
 1. 【[飞透](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_teu.md#飞透)】`fei1 teu5` <sup>[东台]</sup> 形容某个物体很热，与“滚烫”同义：锅里水～，泡茶、泡焦糏正好。  
-1. 【[飞天过海](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_tin_gu_hae.md#飞天过海)】`fei1 tin2 gu5 hae3` <sup>[兴化]</sup> 见“飞过海”。  
+1. 【[飞天过海](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_tin_gu_hae.md#飞天过海)】`fei1 tin1 gu5 hae3` <sup>[兴化]</sup> 见“飞过海”。  
 1. 【[飞象](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_xian.md#飞象)】`fei1 xian6` <sup>[兴化]</sup> 象棋术语，指“象”向上角走。  
 1. 【[飞鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_y.md#飞鱼)】`fei1 y2` <sup>[如东]</sup> 飞鱼科动物燕鳐鱼，体长而扁圆，略呈梭形。  
 1. 【[飞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_zz.md#飞子)】`fei1 zz` <sup>[东台]</sup> 以纸条（古代以竹签）为据领取钱物的券、筹、符、发票等。（《汉典》释为一种以窄纸条做成，凭以领钱的筹码。）：“借书人把书单叫做～。” (汪曾祺《翠湖心影》)  

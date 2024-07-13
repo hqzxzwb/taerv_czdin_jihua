@@ -858,7 +858,7 @@
 1. 【[惊惊乍乍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_jien_zha_zha.md#惊惊乍乍)】`jien1 jien1 zha5 zha5` <sup>[兴化]</sup> 因惊恐而神情异常：她这几天～的，不晓得怕甚的？  
 1. 【[惊吖惊的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_nga_jien_dii.md#惊吖惊的)】`jien1 nga jien1 dii` <sup>[如皋]</sup> 见“惊惊憷憷”的。  
 1. 【[惊□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_tan.md#惊□)】`jien1 tan1` <sup>[兴化]</sup> ① 紧张：他一见这种大阵势，有点～。 ② 受突然刺激而感惊恐不适：婴儿初下浴池洗澡都会～啼哭。  
-1. 【[惊蛰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zhih.md#惊蛰)】`jien1 zhih7` <sup>[东台]</sup> 二十四节气之一，通常在3月5、6或7日。  
+1. 【[惊蛰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zheh.md#惊蛰)】`jien1 zheh7` <sup>[东台]</sup> 二十四节气之一，通常在3月5、6或7日。  
 1. 【[斤重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_chon.md#斤重)】`jien1 chon` <sup>[兴化]</sup> 重量：这条鱼～不小。  
 1. 【[斤两](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_lian.md#斤两)】`jien1 lian3` <sup>[东台]</sup> 分量：你看这个山芋有多少～？  
 1. 【[斤两担子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_lian_daen_zz.md#斤两担子)】`jien1 lian3 daen5 zz` <sup>[如皋]</sup> 责任、压力：我同他谈过啊，这个任务～不轻，要认真对待。  
@@ -952,7 +952,7 @@
 1. 【[经纬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_vei.md#经纬)】`jien1 vei3` <sup>[如东]</sup> 做事谨慎，有经验：他有～。  
 1. 【[经折<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zhih_r.md#经折<sub>儿</sub>)】`jien1 zhih7 r` <sup>[如东]</sup> 一种记账的册子，长五寸，宽三寸，八至十折。封面和底板硬纸制作，便于携带。  
 1. 【[经折<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zhih_r.md#经折<sub>儿</sub>)】`jien1 zhih7 r` <sup>[兴化]</sup> 厚纸折成的记事小手折，长方形，使用时可拉长：只见何清去身边招文袋内摸出一个～来，指道｜“这伙贼人都在上面。”（《水浒传》十八）  
-1. 【[誩誩𠵜𠵜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_jien_gan_gan.md#誩誩𠵜𠵜)】`jien1 jien1 gan1 gan1` <sup>[如皋]</sup> 吵闹。  
+1. 【[誩誩𠵹𠵹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_jien_gan_gan.md#誩誩𠵹𠵹)】`jien1 jien1 gan1 gan1` <sup>[如皋]</sup> 吵闹。  
 1. 【[金帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_ban.md#金帮)】`jien1 ban1` <sup>[如皋]</sup> 金字旁儿（钅，釒）：钢钦铃。  
 1. 【[金苍蝇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_can_ien.md#金苍蝇)】`jien1 can1 ien` <sup>[如皋]</sup> 金蝇。苍蝇的一种。  
 1. 【[金柱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_chv.md#金柱)】`jien1 chv6` <sup>[如东]</sup> 房屋最外边的柱子。  

@@ -75,8 +75,8 @@
 1. 【[拉网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_van.md#拉网)】`la1 van3` <sup>[如东]</sup> 一种捕鱼网具。长约1丈，高约5尺。网眼较小。网纲上装着竹竿，网袋口上装着锡砣。作业时，渔人用绳索拉着网纲在港汊里拖，把鱼虾兜进网袋。这种网具，称拉网。  
 1. 【[拉网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_van.md#拉网)】`la1 van3` <sup>[如皋]</sup> ① 一种小渔网，一张网有许多小兜，用绳背动，沿河底兜鱼。 ② 拉动渔网。  
 1. 【[拉线](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_xin.md#拉线)】`la1 xin5` <sup>[如东]</sup> 在两物之间拉一根绳索，或测量长度，或度量水平。  
+1. 【[拉尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_xy.md#拉尿)】`la1 xy1` <sup>[如皋]</sup> 照料不能自理者小便。  
 1. 【[拉尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_xy.md#拉尿)】`la1 xy1` <sup>[泰县]</sup> 端尿：把伢儿～。  
-1. 【[拉屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_xy.md#拉屎)】`la1 xy1` <sup>[如皋]</sup> 照料不能自理者小便。  
 1. 【[拉债](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_zhae.md#拉债)】`la1 zhae5` <sup>[兴化]</sup> 借债：为啊子女上学，逼住啊去～。  
 1. 【[拉账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_zhan.md#拉账)】`la1 zhan5` <sup>[如东]</sup> 欠账。  
 1. 【[辣蓼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_lio.md#辣蓼)】`la1 lio6` <sup>[如皋]</sup> 水蓼。俗又称扫帚苗儿（地肤）。  

@@ -1927,6 +1927,7 @@
 1. 【[绝头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_teu_r.md#绝头<sub>儿</sub>)】`qiuh8 teu2 r` <sup>[如皋]</sup> 促狭的人。  
 1. 【[绝头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_teu_r.md#绝头<sub>儿</sub>)】`qiuh8 teu2 r` <sup>[如皋]</sup> 指惯用刁钻主意使别人上当吃亏的人。  
 1. 【[绝头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_teu_zz.md#绝头子)】`qiuh8 teu2 zz` <sup>[兴化]</sup> 骂刁钻、损人者的话：这个～，一天不搝人就难过。  
+1. 【[绝地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_ti.md#绝地)】`qiuh8 ti6` <sup>[兴化]</sup> 指环境险恶或人色极坏的地方：这种～，下次再也不敢来啊。  
 1. 【[绝望](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_van.md#绝望)】`qiuh8 van6` <sup>[东台]</sup> 断绝希望。  
 1. 【[绝相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_xian.md#绝相)】`qiuh8 xian5` <sup>[兴化]</sup> 丑态：看你这个～，不能洗洗涮涮别再出来啊？｜～，别人出丑，你就长吖肉！也称“绝形”。  
 1. 【[绝相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_xian.md#绝相)】`qiuh8 xian5` <sup>[泰县]</sup> （禁忌语）丑陋：看你这个～，让人受不了。  
@@ -2006,7 +2007,6 @@
 1. 【[蔨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_zz.md#蔨子)】`qiun6 zz` <sup>[东台]</sup> 蘑菇，过去多数是野生的，有的可食用，有的有毒。现在多为人工培育：到荒田里拾～。  
 1. 【[蔨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_zz.md#蔨子)】`qiun6 zz` <sup>[兴化]</sup> 指蕈等菌类植物：落咖雨，烂木头上长出咖好些～。  
 1. 【[蔨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_zz.md#蔨子)】`qiun6 zz` <sup>[泰县]</sup> 蘑菇。  
-1. 【[绝地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/quh_ti.md#绝地)】`quh8 ti6` <sup>[兴化]</sup> 指环境险恶或人色极坏的地方：这种～，下次再也不敢来啊。  
 1. 【[催生婆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_shen_pu.md#催生婆)】`qy1 shen1 pu2` <sup>[东台]</sup> 旧时农村接生婆。  
 1. 【[催生婆摸屁眼——大外教](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_shen_pu_mah_pi_ngaen_da_vae_jio.md#催生婆摸屁眼——大外教)】`qy1 shen1 pu2 mah8 pi5 ngaen3 da6 vae6 jio5` <sup>[东台]</sup>   
 1. 【[崔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy.md#崔)】`qy1` <sup>[东台]</sup> 姓。  

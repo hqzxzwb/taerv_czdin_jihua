@@ -1213,8 +1213,8 @@
 1. 【[坎子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_zz.md#坎子)】`kun3 zz` <sup>[如皋]</sup> 河床的斜坡。  
 1. 【[坎子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_zz.md#坎子)】`kun3 zz` <sup>[如皋]</sup> 河岸、土堆的斜坡。  
 1. 【[坎子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_zz.md#坎子)】`kun3 zz` <sup>[如皋]</sup> 见“沟坎儿”。  
-1. 【[款待](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_dae.md#款待)】`kun3 dae5` <sup>[东台]</sup> 亲切优厚地招待：这次受到你俫热情～，非常感谢。  
 1. 【[款式](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_sheh.md#款式)】`kun3 sheh7` <sup>[东台]</sup> 规格、样式：这套服装，～不坏，蛮时髦的。  
+1. 【[款待](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_tae.md#款待)】`kun3 tae6` <sup>[东台]</sup> 亲切优厚地招待（东台方音kun3 dae5）：这次受到你俫热情～，非常感谢。  
 1. 【[款子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_zz.md#款子)】`kun3 zz` <sup>[如东]</sup> 资金。  
 1. 【[砍价](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_jia.md#砍价)】`kun3 jia5` <sup>[东台]</sup> 尽量压低商品的销售价。  
 1. 【[砍头疮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_teu_chuan.md#砍头疮)】`kun3 teu2 chuan1` <sup>[东台]</sup> 通常指生在脖子后部的痈。此痈生在敏感部位，死亡率较高，故有此名。  
