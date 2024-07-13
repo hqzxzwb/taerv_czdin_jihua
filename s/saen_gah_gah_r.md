@@ -1,4 +1,4 @@
 # 三角角儿
-saen1 gah7 gah3 r
+saen1 gah7 gah7-3 r
 > 如皋方言词典
 - 私字旁（厶）：允去么。
