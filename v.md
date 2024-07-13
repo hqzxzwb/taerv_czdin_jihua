@@ -498,7 +498,7 @@
 1. 【[外公](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_gon.md#外公)】`vae6 gon1` <sup>[如皋]</sup> 外祖父。  
 1. 【[外公死啊独子——没舅（救）啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_gon_sz_a_toh_zz_meh_qieu_a.md#外公死啊独子——没舅（救）啊)】`vae6 gon1 sz3 a toh8 zz meh8 qieu6 （jieu5） a` <sup>[东台]</sup>   
 1. 【[外锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_gu.md#外锅)】`vae6 gu1` <sup>[如皋]</sup> 砖灶上最远的一口锅。  
-1. 【[外踝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_guae_r.md#外踝<sub>儿</sub>)】`vae6 guae3 r` <sup>[如皋]</sup>   
+1. 【[外拐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_guae_r.md#外拐<sub>儿</sub>)】`vae6 guae3 r` <sup>[如皋]</sup> 足外侧的大骨节。  
 1. 【[外后啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_heu_a.md#外后啊)】`vae6 heu6 a` <sup>[泰县]</sup> 大后天：我～才上北京去。/明日是破日，后日也不好，直到外后日方是裁衣日期。（金瓶梅·3回）  
 1. 【[外后朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_heu_do.md#外后朝)】`vae6 heu6 do` <sup>[如皋]</sup> 大后天，即后天的明天。  
 1. 【[外后年子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_heu_nin_zz.md#外后年子)】`vae6 heu6 nin zz` <sup>[如皋]</sup> 大后年，即后年的明年。  

@@ -467,7 +467,7 @@
 1. 【[踱步](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_pv.md#踱步)】`tah8 pv6` <sup>[如东]</sup> 慢慢走动：我在外头～。  
 1. 【[踱踱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_tah.md#踱踱)】`tah8 tah8` <sup>[如皋]</sup> 走走，散步。  
 1. 【[踱踱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_tah.md#踱踱)】`tah8 tah8` <sup>[东台]</sup> 也称“摇踱下子”，吃饱了慢步行走：饭后我俫一起外去～。  
-1. 【[踱掉了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_tio_a.md#踱掉了)】`tah8 tio a` <sup>[东台]</sup> 悄悄地离开了：不晓得甚的时候，他一个人单独～。  
+1. 【[踱掉啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_tio_a.md#踱掉啊)】`tah8 tio a` <sup>[东台]</sup> 悄悄地离开了：不晓得甚的时候，他一个人单独～。  
 1. 【[踱午](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_v.md#踱午)】`tah8 v3` <sup>[如皋]</sup> 端午节的午后出游。  
 1. 【[汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#汤)】`tan1` 菜汤，汤  
 1. 【[汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#汤)】`tan1` <sup>[如东]</sup> 种比较浓厚的液体，加调料，味佳。  

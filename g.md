@@ -2357,8 +2357,8 @@
 1. 【[箍桶匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_ton_qian.md#箍桶匠)】`gv1 ton3 qian6, gv1 ton qian6` <sup>[如皋]</sup> 同“圆料匠”。箍盆箍桶的匠人。  
 1. 【[箍桶匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_ton_qian.md#箍桶匠)】`gv1 ton3 qian6` <sup>[东台]</sup> 或叫圆料匠，指专门制作盆、桶等圆木家具的工匠。  
 1. 【[箍网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_van.md#箍网)】`gv1 van3` <sup>[如皋]</sup> 围网。  
-1. 【[軱踝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_guae.md#軱踝)】`gv1 guae3` <sup>[如皋]</sup> 脚踝，《西游记》作“孤拐”。  
-1. 【[軱踝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_guae.md#軱踝)】`gv1 guae3` <sup>[兴化]</sup> 脚踝骨，小腿与脚之间两侧突出的部分，兴化词典作“孤拐”：“伸过～来，各打五棍见面，与老孙散散心！”（《西游记》十五）又称“～瘤儿”。  
+1. 【[軱拐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_guae.md#軱拐)】`gv1 guae3` <sup>[如皋]</sup> 脚踝，《西游记》作“孤拐”。  
+1. 【[軱拐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_guae.md#軱拐)】`gv1 guae3` <sup>[兴化]</sup> 脚踝骨，小腿与脚之间两侧突出的部分，兴化词典作“孤拐”  
 1. 【[估猜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_cae.md#估猜)】`gv3 cae1` <sup>[兴化]</sup> 猜测、估摸：这件事你是～的，不一定真实。  
 1. 【[估估堆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_gv_dy_r.md#估估堆<sub>儿</sub>)】`gv3 gv dy1 r` <sup>[东台]</sup> 估计，推测（也作“毛估估”）：你的眼光好，～，这袋棉花值几钱？  
 1. 【[估估堆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_gv_dy_r.md#估估堆<sub>儿</sub>)】`gv3 gv3 dy1 r` <sup>[如皋]</sup> 对一堆物品的大略匡估。  

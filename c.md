@@ -936,7 +936,7 @@
 1. 【[成更半夜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_gen_bun_ia.md#成更半夜)】`chen2 gen1 bun5 ia6` <sup>[如东]</sup> 深夜：～的在外头跑。  
 1. 【[成更半夜的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_gen_bun_ia_dii.md#成更半夜的)】`chen2 gen1 bun5 ia6 dii` <sup>[如皋]</sup> 状夜深了还……  
 1. 【[成更半夜的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_gen_bun_ia_dii.md#成更半夜的)】`chen2 gen1 bun5 ia6 dii` <sup>[东台]</sup> 经常深更半夜的意思。  
-1. 【[成合](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_guh.md#成合)】`chen2 guh7` <sup>[兴化]</sup> ① 促成其事：借几万块钱把他，把个小店～起来。 ② 特指促成婚烟：摆个家筵席儿，欢欢喜喜，大家吃了几杯，两口儿一了。（《初刻》十六）  
+1. 【[成佮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_guh.md#成佮)】`chen2 guh7` <sup>[兴化]</sup> ① 促成其事：借几万块钱把他，把个小店～起来。 ② 特指促成婚烟：摆个家筵席儿，欢欢喜喜，大家吃了几杯，两口儿～了。（《初刻》十六）  
 1. 【[成伙浪趟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_hu_lan_tan.md#成伙浪趟)】`chen2 hu3 lan6 tan5` <sup>[兴化]</sup> 形容成群结队：大年初五，庄上人～的上城摸奖。  
 1. 【[成和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_hv.md#成和)】`chen2 hv2` <sup>[如东]</sup> 耷子和成和的条件已经满足，叫做成和。  
 1. 【[成夜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_ia.md#成夜)】`chen2 ia6` <sup>[如东]</sup> 整夜：～不归。  

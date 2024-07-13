@@ -77,7 +77,7 @@
 1. 【[开初](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_chv.md#开初)】`kae1 chv1` <sup>[如皋]</sup> 当初。  
 1. 【[开初](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_chv.md#开初)】`kae1 chv1` <sup>[兴化]</sup> 开始、起初：这门亲事我～就有看法。  
 1. 【[开打头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_da_teu.md#开打头)】`kae1 da3 teu2` <sup>[东台]</sup> 原先，当初。  
-1. 【[开档裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_dan_kv.md#开档裤)】`kae1 dan1 kv5` <sup>[如东]</sup> 裤裆开口的裤子。  
+1. 【[开裆裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_dan_kv.md#开裆裤)】`kae1 dan1 kv5` <sup>[如东]</sup> 裤裆开口的裤子。  
 1. 【[开间](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_gaen.md#开间)】`kae1 gaen1` <sup>[如东]</sup> 平房房间的横向长度。  
 1. 【[开间](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_gaen.md#开间)】`kae1 gaen1` <sup>[如皋]</sup> 室内宽度，与“进深”相对。  
 1. 【[开间](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_gaen.md#开间)】`kae1 gaen1` <sup>[兴化]</sup> 指房屋的宽度：三米～｜五米～。  

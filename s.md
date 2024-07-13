@@ -396,7 +396,7 @@
 1. 【[啬豆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh_teu_r.md#啬豆<sub>儿</sub>)】`seh7 teu6 r` <sup>[泰县]</sup> 吝啬的人。  
 1. 【[塞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh.md#塞)】`seh7` 阻  
 1. 【[塞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh.md#塞)】`seh7` <sup>[如东]</sup> 强行把东西送给对方：硬是～咖两个鸡蛋。  
-1. 【[塞档](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh_dan.md#塞档)】`seh7 dan1` <sup>[如皋]</sup> 交通阻塞。  
+1. 【[塞当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh_dan.md#塞当)】`seh7 dan1` <sup>[如皋]</sup> 交通阻塞。  
 1. 【[塞尔搭尔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh_er_daeh_er.md#塞尔搭尔)】`seh7 er daeh7 er` <sup>[如东]</sup> 由于心中有不满情绪，嘴里说话不干不净的：嘴里～的，当心捱打。  
 1. 【[塞狗洞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh_geu_ton.md#塞狗洞)】`seh7 geu3 ton6` <sup>[如皋]</sup> 贬指贿赂，或花冤枉钱：他要谋事就要～；～塞得不少，事情还没办好。  
 1. 【[塞勒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh_leh.md#塞勒)】`seh7 leh8` 堵塞，阻塞  
@@ -2756,8 +2756,8 @@
 1. 【[水鼓胀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_gv_zhan.md#水鼓胀)】`shuei3 gv3 zhan5` <sup>[泰县]</sup> 肝腹水。  
 1. 【[水下巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_ha_ba.md#水下巴)】`shuei3 ha6 ba` <sup>[如皋]</sup> 传统水车的槽两端的下部。  
 1. 【[水下巴颏<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_ha_ba_kah_r.md#水下巴颏<sub>儿</sub>)】`shuei3 ha6 ba kah7 r` <sup>[如皋]</sup> 见“水下巴”。  
+1. 【[水还不到脚面子就沗起来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_hae_beh_do.md#水还不到脚面子就沗起来啊)】`shuei3 hae2 beh7 do5 jiah7 min6 zz qieu6 pan5 qi3 lae2 a` <sup>[东台]</sup> 形容还没有取得什么成绩就忘乎所以。  
 1. 【[水咸菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_haen_cae.md#水咸菜)】`shuei3 haen2 cae5` <sup>[兴化]</sup> 青菜末用盐拌匀，过片刻挤去其中菜汁即成：吃粥搭～｜～烧豆腐｜～烧小鱼。  
-1. 【[水还不到脚面子就沗起来了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_haen_beh_do_jiah_min_zz_qieu_pan_qi_lae_a.md#水还不到脚面子就沗起来了)】`shuei3 haen2 beh7 do5 jiah7 min6 zz qieu6 pan5 qi3 lae2 a` <sup>[东台]</sup> 形容还没有取得什么成绩就忘乎所以。  
 1. 【[水货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_hu.md#水货)】`shuei3 hu5` <sup>[东台]</sup> ① ［喻］假冒伪劣的商品； ② 走私物品，其售价往往低于市场价。  
 1. 【[水花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_hua.md#水花)】`shuei3 hua1` <sup>[如东]</sup> 一种面食。将面粉调匀，稍浓，用筷子或勺儿一块块地放入开水中煮熟即成。也叫水老鼠、落水鬼儿。通称面疙瘩。  
 1. 【[水花<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_hua_r.md#水花<sub>儿</sub>)】`shuei3 hua1 r` <sup>[如皋]</sup> 绿萍。  
@@ -3026,7 +3026,7 @@
 1. 【[说咖不曾歇台](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_ga_beh_cen_xih_tae.md#说咖不曾歇台)】`shuh7 ga beh7 cen2 xih7 tae2` <sup>[东台]</sup> 说了很多，一直没停止。  
 1. 【[说咖在高头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_ga_cae_go_teu.md#说咖在高头)】`shuh7 ga cae6 go1 teu` <sup>[东台]</sup> 说得在理，符合实情。  
 1. 【[说咖你心上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_ga_nii_xien_shan.md#说咖你心上)】`shuh7 ga nii3 xien1 shan` <sup>[东台]</sup> （俗语）拜托你放在心上。  
-1. 【[说咖白啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_ga_poh_ga.md#说咖白啊)】`shuh7 ga poh8 ga` <sup>[东台]</sup> 说清楚，说明白了。  
+1. 【[说咖白咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_ga_poh_ga.md#说咖白咖)】`shuh7 ga poh8 ga` <sup>[东台]</sup> 说清楚，说明白了。  
 1. 【[说咖七箩八笆斗的话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_ga_qieh_lu_baeh_ba_deu_dii_hua.md#说咖七箩八笆斗的话)】`shuh7 ga qieh7 lu2 baeh7 ba1 deu3 dii hua6` <sup>[东台]</sup> 形容说了许多许多的话。  
 1. 【[说咖天带夜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_ga_tin_dae_ia.md#说咖天带夜)】`shuh7 ga tin1 dae5 ia6` <sup>[东台]</sup> 形容说了很多遍了，比一天到晚还多。  
 1. 【[说咖形起来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_ga_xien_qi_lae_a.md#说咖形起来啊)】`shuh7 ga xien2 qi3 lae2 a` <sup>[如皋]</sup> 说得夸张形象化，活像真的。  

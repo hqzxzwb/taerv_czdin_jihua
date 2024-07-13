@@ -2196,7 +2196,7 @@
 1. 【[点吖半点](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_nga_bun_din.md#点吖半点)】`din3 nga bun5 din3` <sup>[东台]</sup> 一点点：安全是大事，～的差错，都不能容忍。  
 1. 【[点吖点的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_nga_din_dii.md#点吖点的)】`din3 nga din3 dii` <sup>[如皋]</sup> 状开始下雨，雨滴稀。  
 1. 【[点吖眼的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_nga_ngaen_dii.md#点吖眼的)】`din3 nga ngaen3 dii` <sup>[东台]</sup> 很少的意思：～不要计较。  
-1. 【[点吖足啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_nga_zoh_ga.md#点吖足啊)】`din3 nga zoh7 ga` <sup>[东台]</sup> 把话题说透：你不～，他还是麻里木足的，不省（xien3）得天多高，地多厚。  
+1. 【[点吖足咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_nga_zoh_ga.md#点吖足咖)】`din3 nga zoh7 ga` <sup>[东台]</sup> 把话题说透：你不～，他还是麻里木足的，不省（xien3）得天多高，地多厚。  
 1. 【[点清](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_qien.md#点清)】`din3 qien1` <sup>[如东]</sup> 货物或钞票当场核对清楚：请当面～。  
 1. 【[点钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_qin.md#点钱)】`din3 qin2` <sup>[如东]</sup> 清点资金。  
 1. 【[点<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_r.md#点<sub>儿</sub>)】`din3 r` <sup>[如东]</sup> ① 数量很少：～东西。 ② 体积很小：～大。 ③ 距离很短：～路程。  

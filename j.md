@@ -444,8 +444,8 @@
 1. 【[脚跟脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_gen_jiah.md#脚跟脚)】`jiah7 gen1 jiah7` <sup>[兴化]</sup> 二人或多人先后到达或离开：你跟他一个才走，一个刚到，～。也说“脚赶脚”。  
 1. 【[脚箍眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_gu_ngaen.md#脚箍眼)】`jiah7 gu1 ngaen3` <sup>[如东]</sup> 踝骨部位。  
 1. 【[脚拐啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_guae_a.md#脚拐啊)】`jiah7 guae3 a` <sup>[如东]</sup> 脚扭了。  
+1. 【[脚拐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_guae_r.md#脚拐<sub>儿</sub>)】`jiah7 guae3 r` <sup>[如皋]</sup> 在小腿骨与跗骨结合处。外踝为胫骨端，内踝为腓骨端。  
 1. 【[脚拐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_guae_r.md#脚拐<sub>儿</sub>)】`jiah7 guae3 r` <sup>[东台]</sup> 脚踝，也称踝关节，是足部与腿相连的部位。  
-1. 【[脚踝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_guae_r.md#脚踝<sub>儿</sub>)】`jiah7 guae3 r` <sup>[如皋]</sup> 在小腿骨与跗骨结合处。外踝为胫骨端，内踝为腓骨端。  
 1. 【[脚鞈子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_guh_zz.md#脚鞈子)】`jiah7 guh7 zz` <sup>[如皋]</sup> 蹄甲。  
 1. 【[脚孤拐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_gv_guae.md#脚孤拐)】`jiah7 gv1 guae3` 脚踝  
 1. 【[脚下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_ha.md#脚下)】`jiah7 ha` 加在表示地点或者时间或数量的名后面，表示某地附近，某个时间附近，或者大约的数量  
@@ -1050,9 +1050,9 @@
 1. 【[紧房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_fan.md#紧房)】`jien3 fan2` <sup>[如皋]</sup> 同祖亲属，即“堂”。  
 1. 【[紧隔壁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_geh_bieh.md#紧隔壁)】`jien3 geh7 bieh7` <sup>[如皋]</sup> 紧邻。  
 1. 【[紧隔壁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_geh_bieh.md#紧隔壁)】`jien3 geh7 bieh7` <sup>[兴化]</sup> 指并列的房屋之间：“都头不消访问，王婆在～住，只问王婆就知了。”（《金瓶梅词话》九）  
+1. 【[紧佮佮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_guh_guh.md#紧佮佮)】`jien3 guh7 guh7` <sup>[兴化]</sup> 形容很紧凑：他家住啊三间一厨房，～的。  
+1. 【[紧佮佮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_guh_guh.md#紧佮佮)】`jien3 guh7 guh7` <sup>[泰县]</sup> 松紧正好。  
 1. 【[紧佮佮的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_guh_guh_dii.md#紧佮佮的)】`jien3 guh7 guh7 dii` <sup>[东台]</sup> 两物相合，缝隙很小：这双皮鞋穿吖脚上～。  
-1. 【[紧割割](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_guh_guh.md#紧割割)】`jien3 guh7 guh7` <sup>[泰县]</sup> 松紧正好。  
-1. 【[紧合合](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_guh_guh.md#紧合合)】`jien3 guh7 guh7` <sup>[兴化]</sup> 形容很紧凑：他家住啊三间一厨房，～的。  
 1. 【[紧揖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_ieh.md#紧揖)】`jien3 ieh` <sup>[如东]</sup> 紧束：这种衣服穿吖身上～。  
 1. 【[紧脚鞋子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_jiah_hae_zz.md#紧脚鞋子)】`jien3 jiah hae2 zz` <sup>[兴化]</sup> 犹小鞋：你向他提意见，他背后弄个～把你穿穿。  
 1. 【[紧脚鞋子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_jiah_hae_zz.md#紧脚鞋子)】`jien3 jiah7 hae2 zz` <sup>[兴化]</sup> 见“小脚鞋子”。  
