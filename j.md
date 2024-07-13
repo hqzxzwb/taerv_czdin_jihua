@@ -1726,9 +1726,9 @@
 1. 【[锔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jioh.md#锔)】`jioh7` <sup>[兴化]</sup> ① 两头有钩可以连合器物的铜铁小片：巴～｜铁～｜铜～。 ② 用～连合破裂的器物：补锅～碗｜灶旁边是一只大水缸，一道裂痕从头歪到脚，五六个大铁钉～在裂痕上，如一排大蚂蟥。（毕飞宇《上海往事》）《广韵·烛韵》居玉切｜“～，以铁缚物”。  
 1. 【[锔盆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jioh_pen.md#锔盆)】`jioh7 pen2` <sup>[东台]</sup> 用锔子连合破裂的盆。  
 1. 【[锔碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jioh_un.md#锔碗)】`jioh7 un3` <sup>[东台]</sup> 用锔子连合破裂的碗。改革开放以来，已没有人用这种碗，～的手艺也随之失传吖。  
-1. 【[奢住啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jion_chv_a.md#奢住啊)】`jion3 chv a` <sup>[如皋]</sup> 窘迫难下。  
 1. 【[窘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jion.md#窘)】`jion3` <sup>[东台]</sup> 为难；尴尬。  
 1. 【[窘包<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jion_bo_r.md#窘包<sub>儿</sub>)】`jion3 bo1 r` <sup>[泰县]</sup> 责备、批评：他今吖捱领导批评，吃咖～。  
+1. 【[窘住咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jion_chuh_ga.md#窘住咖)】`jion3 chuh ga` <sup>[如皋]</sup> 窘迫难下。  
 1. 【[决断](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh_dun.md#决断)】`jiuh7 dun5` <sup>[如东]</sup> 决定：这个问题请村长～。  
 1. 【[决断](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh_dun.md#决断)】`jiuh7 dun5` <sup>[东台]</sup> 做决定，拿主意。  
 1. 【[决断](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh_dun.md#决断)】`jiuh7 dun5` <sup>[泰县]</sup> 决定：这件事请你～，谁是谁非。  

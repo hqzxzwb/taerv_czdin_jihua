@@ -602,7 +602,6 @@
 1. 【[蟒蛇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_sha.md#蟒蛇)】`man3 sha2` <sup>[如东]</sup> 无毒的大蛇，体长可达6米，头部长，口大，舌的尖端有分叉，背部黑褐色，有暗色斑点。腹部白色。多生活在近水的树林里，捕食小禽兽。  
 1. 【[妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh.md#妈)】`meh` <sup>[东台]</sup> 加自成音节的“m”（姆），构成“姆～”，是子女在母亲面前轻声叫妈的声音。  
 1. 【[没娘悄气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_nian_qio_qi.md#没娘悄气)】`meh1 nian qio3 qi5` <sup>[东台]</sup> 像失去母亲的孩子一样，一点儿声响也没有。  
-1. 【[末朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_cho.md#末朝)】`meh8 cho2` <sup>[如皋]</sup> 毁灭性的灾难，如地陷、海啸、大地震。  
 1. 【[没](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh.md#没)】`meh8` <sup>[如东]</sup> 被水淹没：棉花全部～掉啊。  
 1. 【[没（得）巴成](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_ba_chen.md#没（得）巴成)】`meh8 ba1 chen2` <sup>[如皋]</sup> 指没指望、没希望。  
 1. 【[没（得）板子打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_baen_zz_da.md#没（得）板子打)】`meh8 baen3 zz da3` <sup>[如皋]</sup> ① 特别清闲，没事做：他在家里～，就跑啊外头去耍子。 ② 消遣性劳作：他～，在家里养金鱼耍子。 ③ 没价值，不值得：请你去帮忙，一天弄吖5块钱，～唻。  
@@ -1977,6 +1976,7 @@
 1. 【[劘削](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/muh_xiah.md#劘削)】`muh8 xiah7` <sup>[如皋]</sup> 见“劘”。  
 1. 【[抹咖抹的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/muh_ga_muh_dii.md#抹咖抹的)】`muh8 ga muh8 dii` <sup>[如皋]</sup> 走路时跨度小、为平衡而摇摆的样子：细脚儿奶奶走路～。  
 1. 【[抹煞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/muh_shaeh.md#抹煞)】`muh8 shaeh7` <sup>[如东]</sup> 被人有意地取消：他的资格捱～咖。  
+1. 【[末朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/muh_cho.md#末朝)】`muh8 cho2` <sup>[如皋]</sup> 毁灭性的灾难，如地陷、海啸、大地震。  
 1. 【[末座](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/muh_cu.md#末座)】`muh8 cu6` <sup>[东台]</sup> 席次最卑小的座位。  
 1. 【[末末礓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/muh_muh_jian_r.md#末末礓<sub>儿</sub>)】`muh8 muh8 jian3 r` <sup>[如东]</sup> ① 最细小的：这是～。 ② 排行最小的：他在家里是～。 ③ 小人物：他是～。 ④ 最后的一点儿东西：剩下一点～，你拿啊去吧。  
 1. 【[末末礓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/muh_muh_jian_r.md#末末礓<sub>儿</sub>)】`muh8 muh8 jian3 r` <sup>[如皋]</sup> ① 最后、最小的：你是头一名，他是～。 ② 辈份在某人的五代之后：灰灰孙儿～。  

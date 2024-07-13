@@ -838,7 +838,7 @@
 1. 【[㫰工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_gon.md#㫰工)】`lan6 gon1` <sup>[如东]</sup> 不劳动，误工时：材料供应不上，只好～。  
 1. 【[㫰工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_gon.md#㫰工)】`lan6 gon1` <sup>[兴化]</sup> 因计划或调配不当，上工时间没有活干：材料不能及时运到，造成～概由甲方负责。  
 1. 【[㫰瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_gua.md#㫰瓜)】`lan6 gua1` <sup>[如东]</sup> 一年生草本植物。茎蔓生，横断面呈五角形。叶子心脏形。花黄色。果实长条形，中间细，像象葫芦。嫩时绿色，成熟后赤黄色，昧甜。可做蔬菜。  
-1. 【[㫰衣裳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_i_shan.md#㫰衣裳)】`lan6 i1 shan0-3` <sup>[东台]</sup> 把衣服挂起来晒干或晾干。  
+1. 【[㫰衣裳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_i_shan.md#㫰衣裳)】`lan6 i1 shan-shan3` <sup>[东台]</sup> 把衣服挂起来晒干或晾干。  
 1. 【[㫰僵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_jian.md#㫰僵)】`lan6 jian1` <sup>[兴化]</sup> 指在寒风中长时间停留：覅在外头～，当心受冻。  
 1. 【[㫰络<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_lah_r.md#㫰络<sub>儿</sub>)】`lan6 lah8 r` <sup>[如东]</sup> 在大屋里的一侧，竹箅子的四角用绳索吊在梁架上，上面可以搁置东西，这种装置叫做㫰络儿：把蒲锹放吖～上。  
 1. 【[㫰门敞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_men_chan.md#㫰门敞)】`lan6 men2 chan3` <sup>[如皋]</sup> 大门洞开，无人看管。  
@@ -2261,7 +2261,6 @@
 1. 【[老细](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_xi.md#老细)】`lo3 xi5` <sup>[如皋]</sup> 排行最小的一位。  
 1. 【[老相胡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_xian_hv.md#老相胡)】`lo3 xian1 hv2` <sup>[泰县]</sup> 摆老资格。  
 1. 【[老相交](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_xian_jio.md#老相交)】`lo3 xian1 jio1` <sup>[兴化]</sup> ① 老朋友。 ② 老相好：“莫非是你～送的表记。”（《古今小说》一）  
-1. 【[老腥气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_xian_qi.md#老腥气)】`lo3 xian1 qi5` <sup>[如东]</sup> 随着机体老化，老年人身上散发着一种特殊的气味，称老腥气。  
 1. 【[老香瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_xian_gua.md#老香瓜)】`lo3 xian1 gua1` <sup>[如东]</sup> 已经成熟的香瓜。比喻人已经老了。  
 1. 【[老香瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_xian_gua.md#老香瓜)】`lo3 xian1 gua1` <sup>[如皋]</sup> 贬指老年长辈。  
 1. 【[老香瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_xian_gua.md#老香瓜)】`lo3 xian1 gua1` <sup>[兴化]</sup> （戏）旧称乡下老头。  
@@ -2277,6 +2276,7 @@
 1. 【[老相巴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_xian_ba_zz.md#老相巴子)】`lo3 xian5 ba1 zz` <sup>[如皋]</sup> 贬指老相的人。  
 1. 【[老相公](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_xian_gon.md#老相公)】`lo3 xian5 gon` <sup>[如皋]</sup> 大龄未婚男性。  
 1. 【[老相豆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_xian_teu_r.md#老相豆<sub>儿</sub>)】`lo3 xian5 teu6 r` <sup>[如东]</sup> 装着很有知识、很有能力的人。  
+1. 【[老腥气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_xien_qi.md#老腥气)】`lo3 xien1 qi5` <sup>[如东]</sup> 随着机体老化，老年人身上散发着一种特殊的气味，称老腥气。  
 1. 【[老歇个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_xih_gu.md#老歇个)】`lo3 xih7 gu` <sup>[如皋]</sup> 老长时间。  
 1. 【[老先生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_xin_shen.md#老先生)】`lo3 xin1 shen1` <sup>[兴化]</sup> （戏）对另一方的谓称：你～袖子一甩走啊，屁股由我俫来揩！  
 1. 【[老小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_xio.md#老小)】`lo3 xio3` <sup>[兴化]</sup> 谓某些老人像孩子那样没正经：～、～，你经常给他带点儿好吃的，他就高兴。  

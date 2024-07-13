@@ -1538,7 +1538,6 @@
 1. 【[寡人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_ren_zz.md#寡人子)】`gua3 ren zz` <sup>[如皋]</sup> 见“寡人”。  
 1. 【[寡水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_shuei.md#寡水)】`gua3 shuei3` <sup>[兴化]</sup> 汤汁中营养成分少：清汤～。  
 1. 【[寡嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_zuei.md#寡嘴)】`gua3 zuei3` <sup>[兴化]</sup> 饶舌的人‖也说“寡话嘴”：他是个～，见吖人说个不停。｜田尔耕本是个～夸诈之人……（《梼杌闲评》十一）  
-1. 【[挂坎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_kun.md#挂坎)】`gua3 kun3` <sup>[泰县]</sup> 河坡。  
 1. 【[卦辞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_cz.md#卦辞)】`gua5 cz2` <sup>[东台]</sup> 说明《周易》六十四卦每卦要义的文辞。  
 1. 【[挂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua.md#挂)】`gua5` <sup>[东台]</sup> 书画轴子叫“挂”：宁写千张“化”（化缘单子），不写一张“挂”。（要经得起品鉴）  
 1. 【[挂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua.md#挂)】`gua5` <sup>[兴化]</sup> 赊欠：这笔账～啊年把，请你结下子吧！也作“挂账”。  
@@ -1569,6 +1568,7 @@
 1. 【[挂金灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_jien_den.md#挂金灯)】`gua5 jien1 den1` <sup>[如皋]</sup> 酸浆。  
 1. 【[挂肩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_jin.md#挂肩)】`gua5 jin1` <sup>[如皋]</sup> 衣身与袖山相连处即肩上与腋下的直线长度。  
 1. 【[挂坎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_kun.md#挂坎)】`gua5 kun3` <sup>[如东]</sup> 河坎坍塌。  
+1. 【[挂坎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_kun.md#挂坎)】`gua5 kun3` <sup>[泰县]</sup> 河坡。  
 1. 【[挂坎子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_kun_zz.md#挂坎子)】`gua5 kun3 zz` <sup>[兴化]</sup> 从田面至河坎：兴化水位达1.8米时……并抽排预降到田面～0.8一1米。（《兴化水利志·防汛抗旱》）  
 1. 【[挂兰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_laen.md#挂兰)】`gua5 laen2` <sup>[如东]</sup> 百禾科植物挂兰，多年生草本。  
 1. 【[挂脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_lin.md#挂脸)】`gua5 lin3` <sup>[如东]</sup> 脸色突然改变了，表示不高兴。  

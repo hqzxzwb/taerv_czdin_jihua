@@ -828,6 +828,7 @@
 1. 【[膝头盘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieh_teu_pun_r.md#膝头盘<sub>儿</sub>)】`xieh7 teu pun2 r` <sup>[如皋]</sup> 膝盖。  
 1. 【[膝头盘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieh_teu_pun_r.md#膝头盘<sub>儿</sub>)】`xieh7 teu pun2 r` <sup>[东台]</sup> 髌骨，也叫膝盖骨，膝关节。俗称磨筋骨儿、腿拐儿。  
 1. 【[膝头盘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieh_teu_pun_r.md#膝头盘<sub>儿</sub>)】`xieh7 teu pun2 r` <sup>[兴化]</sup> 膝盖骨。  
+1. 【[膝头盘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieh_teu_pun_r.md#膝头盘<sub>儿</sub>)】`xieh7-qih7 teu pun2 r` <sup>[泰县]</sup> 膝盖。  
 1. 【[膝头盘<sub>儿</sub>长吖朝后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieh_teu_pun_r_zhan_nga_cho_heu.md#膝头盘<sub>儿</sub>长吖朝后)】`xieh7 teu pun2 r zhan3 nga cho2 heu6` <sup>[东台]</sup> ［喻］到处奔波，路跑得太多：为了招商引资，他不晓得跑啊多少路，简直是～。  
 1. 【[膝弯<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieh_vaen_r.md#膝弯<sub>儿</sub>)】`xieh7 vaen1 r` <sup>[如皋]</sup> 膝后弯处。  
 1. 【[膝弯<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieh_vaen_r.md#膝弯<sub>儿</sub>)】`xieh7 vaen1 r` <sup>[如东]</sup> 膝盖后部。也叫膝头弯儿。  

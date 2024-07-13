@@ -815,6 +815,7 @@
 1. 【[偷冷冷机<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_len_len_ji_r.md#偷冷冷机<sub>儿</sub>)】`teu1 len3 len3 ji1 r` <sup>[东台]</sup> 乘人冷不防时突然袭击。  
 1. 【[偷伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_nga_r.md#偷伢<sub>儿</sub>)】`teu1 nga2 r` <sup>[如东]</sup> 未婚先孕的孩子。也叫偷儿、偷宝儿。  
 1. 【[偷吃扒拿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_qieh_pa_na.md#偷吃扒拿)】`teu1 qieh7 pa2 na2` <sup>[东台]</sup> 指目无法纪，经常偷盗。  
+1. 【[偷吃扒拿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_qieh_pa_na.md#偷吃扒拿)】`teu1 qieh7 pa2 na2` <sup>[兴化]</sup> 指一般偷摸行为：这个人虽然大法不犯，但～之类的事总免不了。  
 1. 【[偷人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_ren.md#偷人)】`teu1 ren2` <sup>[如皋]</sup> 女人有婚外情。  
 1. 【[偷人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_ren.md#偷人)】`teu1 ren2` <sup>[如东]</sup> 女子与非婚男子发生性关系。  
 1. 【[偷人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_ren.md#偷人)】`teu1 ren2` <sup>[东台]</sup> 指女子与婚外男性偷情。  
@@ -830,7 +831,6 @@
 1. 【[偷针眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_zhen_ngaen.md#偷针眼)】`teu1 zhen1 ngaen3` <sup>[如东]</sup> 由葡萄球菌侵入眼睑的皮脂腺引起，眼睑痛，眼睑的边缘靠近睫毛处出现粒状小疙瘩，局部红肿。也称麦粒肿。  
 1. 【[偷针眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_zhen_ngaen.md#偷针眼)】`teu1 zhen1 ngaen3` <sup>[兴化]</sup> 麦粒肿的俗称。  
 1. 【[偷种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_zhon.md#偷种)】`teu1 zhon3` <sup>[兴化]</sup> 因男人无生育能力，为得到孩子，默许女人红杏出墙。  
-1. 【[偷吃扒拿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_qieh_pa_na.md#偷吃扒拿)】`teu2 qieh7 pa2 na2` <sup>[兴化]</sup> 指一般偷摸行为：这个人虽然大法不犯，但～之类的事总免不了。  
 1. 【[头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu.md#头)】`teu2` 头  
 1. 【[头把劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_ba_jien.md#头把劲)】`teu2 ba3 jien5` <sup>[东台]</sup> 特别来劲：说到跳舞健身，她是～。  
 1. 【[头班车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_baen_cha.md#头班车)】`teu2 baen1 cha1` <sup>[如东]</sup> 第一趟车。比喻第一：张明德在长跑中经过奋斗，登上吖～。  
@@ -1707,7 +1707,7 @@
 1. 【[条苗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_mio.md#条苗)】`tio2 mio2` <sup>[如皋]</sup> 苗条。  
 1. 【[条苗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_mio.md#条苗)】`tio2 mio2` <sup>[东台]</sup> 苗条：跳舞的身材要～。  
 1. 【[条台](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_tae.md#条台)】`tio2 tae2` <sup>[兴化]</sup> 一种高而狭长的桌子，长一丈左右，宽尺许。桌面两端及桌腿上部有雕板等装饰：因为大厅上不晓得哪一天有人坐的了，桌椅～上都落了铜钱厚的灰……（扬二《甘露寺相婿》）  
-1. 【[条台桌椅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_tae_zhuaeh_i.md#条台桌椅)】`tio2 tae2 zhuaeh7 i3` <sup>[如皋]</sup> ① 客厅用的老式木制家俱。 ② 概指家用各种木制家俱。  
+1. 【[条台桌椅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_tae_zhuah_i.md#条台桌椅)】`tio2 tae2 zhuah7 i3` <sup>[如皋]</sup> ① 客厅用的老式木制家俱。 ② 概指家用各种木制家俱。  
 1. 【[条田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_tin.md#条田)】`tio2 tin2` <sup>[如东]</sup> 长方形的田块，称条田。  
 1. 【[条桌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_zhuah.md#条桌)】`tio2 zhuah7` <sup>[如皋]</sup> 长而狭的桌子。  
 1. 【[条桌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_zhuah.md#条桌)】`tio2 zhuah7` <sup>[如东]</sup> 桌的一种。长方形，称条桌。  

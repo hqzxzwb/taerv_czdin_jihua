@@ -998,7 +998,6 @@
 1. 【[缉理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_li.md#缉理)】`qieh7 li3` <sup>[如皋]</sup> 料理。  
 1. 【[缉麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_ma.md#缉麻)】`qieh7 ma2` <sup>[如皋]</sup> 苎麻刮去表皮后，麻片在手上用指甲剖丝捻线，供纺织用。  
 1. 【[缉针子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_zhen_zz.md#缉针子)】`qieh7 zhen1 zz` <sup>[如皋]</sup> 见“倒针子”。  
-1. 【[膝头盘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_teu_pun_r.md#膝头盘<sub>儿</sub>)】`qieh7 teu pun2 r` <sup>[泰县]</sup> 膝盖。泰县“膝”发音qieh7。  
 1. 【[习](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh.md#习)】`qieh8` <sup>[泰县]</sup> 学：你要～咖做。  
 1. 【[习惯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_guaen.md#习惯)】`qieh8 guaen5` <sup>[如东]</sup> 经久养成、时不易改变的行为或社会风俗  
 1. 【[习惯成自然](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_guaen_chen_cz_rin.md#习惯成自然)】`qieh8 guaen5 chen2 cz6 rin2` <sup>[东台]</sup> （俗语）不管什么事，大家习惯了，也就成为自然而然的事情了。  
@@ -1127,8 +1126,8 @@
 1. 【[轻手掩脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_sheu_in_jiah.md#轻手掩脚)】`qien1 sheu3 in3 jiah7` <sup>[兴化]</sup> 形容用力小，动作轻：他下夜班家来～的上床睡觉。  
 1. 【[轻手轻脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_sheu_qien_jiah.md#轻手轻脚)】`qien1 sheu3 qien1 jiah7` <sup>[如东]</sup> 小心谨慎。  
 1. 【[轻事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_shr.md#轻事)】`qien1 shr` <sup>[如皋]</sup> 撒娇、卖蘣：十几岁的丫头还同妈妈～。  
+1. 【[轻事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_shr.md#轻事)】`qien1 shr` <sup>[泰县]</sup> 亲昵，泰县方言志作“亲私”：这个伢儿见到她妈妈就有点儿～。  
 1. 【[轻事薄乖的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_shr_pah_guae_dii.md#轻事薄乖的)】`qien1 shr pah8 guae1 dii` <sup>[如皋]</sup> 贬指轻浮的样子。  
-1. 【[轻事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_sz.md#轻事)】`qien1 sz1` <sup>[泰县]</sup> 亲昵，泰县方言志作“亲私”：这个伢儿见到她妈妈就有点儿～。  
 1. 【[轻头毌颈的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_teu_kuaeh_jien_dii.md#轻头毌颈的)】`qien1 teu2 kuaeh8 jien3 dii` <sup>[如皋]</sup> 见“扭头□颈的”。  
 1. 【[轻头毌颈的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_teu_kuaeh_jien_dii.md#轻头毌颈的)】`qien1 teu2 kuaeh8 jien3 dii` <sup>[如皋]</sup> 责语，指举止不庄重的样子。  
 1. 【[轻下难逢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_xia_naen_fon.md#轻下难逢)】`qien1 xia6 naen2 fon2` <sup>[如东]</sup> 很不容易相遇。  

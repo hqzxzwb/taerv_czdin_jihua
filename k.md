@@ -171,7 +171,7 @@
 1. 【[开头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_teu.md#开头)】`kae1 teu2` <sup>[如皋]</sup> 开始之时。  
 1. 【[开外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_vae.md#开外)】`kae1 vae6` <sup>[如皋]</sup> 见“朝外”。  
 1. 【[开外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_vae.md#开外)】`kae1 vae6` <sup>[如皋]</sup> 朝外，以上。  
-1. 【[开玩笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_vaen_xio.md#开玩笑)】`kae1 vaen1 xio5` <sup>[如东]</sup> 用不严肃的言语或态度戏弄人。  
+1. 【[开玩笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_vaen_xio.md#开玩笑)】`kae1 vaen2 xio5` <sup>[如东]</sup> 用不严肃的言语或态度戏弄人。  
 1. 【[开网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_van.md#开网)】`kae1 van3` <sup>[如东]</sup> 渔船上向海洋里撒网捕鱼，叫做开网。  
 1. 【[开网的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_van_dii.md#开网的)】`kae1 van3 dii` <sup>[如东]</sup> 负责开网的渔民。开网渔民的份额一般为1.25。  
 1. 【[开胃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_vei.md#开胃)】`kae1 vei5` <sup>[兴化]</sup> 开玩笑：你覅拿老实人～吧！  
@@ -363,7 +363,7 @@
 1. 【[囥量](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kan_lian.md#囥量)】`kan5 lian6` <sup>[兴化]</sup> 聚饮时瞒住自己的酒量：你覅～，我晓得你吃半斤没问题。  
 1. 【[囥量](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kan_lian.md#囥量)】`kan5 lian6` <sup>[泰县]</sup> 隐瞒：你能喝半斤酒，今朝不能～。  
 1. 【[囥墙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kan_qian_zz.md#囥墙子)】`kan5 qian2 zz` <sup>[如皋]</sup> 抽屉园两侧及后方的竖板。  
-1. 【[抗早](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kan_hun.md#抗早)】`kan5 hun6` <sup>[如皋]</sup> 脚踏式水车的配件“眠牛儿”上的立柱，供搁“扶手儿”用。  
+1. 【[抗旱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kan_hun.md#抗旱)】`kan5 hun` <sup>[如皋]</sup> 脚踏式水车的配件“眠牛儿”上的立柱，供搁“扶手儿”用。  
 1. 【[炕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kan.md#炕)】`kan5` <sup>[如东]</sup> 用火烘烤，叫做炕。  
 1. 【[炕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kan.md#炕)】`kan5` <sup>[兴化]</sup> 体温升高：身上发～｜他～到38.5度。  
 1. 【[炕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kan.md#炕)】`kan5` <sup>[兴化]</sup> ① 烤：～山芋（烤红薯）。 ② 烘：阴雨天～尿布。《说文·火部》｜“～，乾也，苦浪切。”段玉裁注｜谓以火乾之也。  
