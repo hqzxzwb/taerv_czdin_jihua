@@ -344,9 +344,9 @@
 1. 【[棒头胡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_teu_hv_r.md#棒头胡<sub>儿</sub>)】`pan6 teu hv2 r` <sup>[兴化]</sup> ① 玉米须子。 ② （借）不稳重的青少年：他是个～，你叫他办事十有九次办不成。也说“棒头胡子”。  
 1. 【[棒头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_teu_r.md#棒头<sub>儿</sub>)】`pan6 teu r` <sup>[如皋]</sup> 指穗状花序：如玉米～、蒲～。  
 1. 【[棒头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_teu_zz.md#棒头子)】`pan6 teu zz` <sup>[如皋]</sup> 用以责罚人的木棍。俗说“～作跳”，意为将要用棒打人。  
+1. 【[棒头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_teu.md#棒头)】`pan6 teu2-3` <sup>[泰县]</sup> 棒。  
 1. 【[棒头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_teu_r.md#棒头<sub>儿</sub>)】`pan6 teu2 r` <sup>[如东]</sup> 穗状花序：～花。植物的条形果穗。｜玉米～。  
 1. 【[棒头人<sub>儿</sub>戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_teu_ren_r_xi.md#棒头人<sub>儿</sub>戏)】`pan6 teu2 ren2 r xi5` <sup>[东台]</sup> ① 提线木偶戏。 ② ［喻］指傀儡听人使唤的行动。  
-1. 【[棒头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_teu.md#棒头)】`pan6 teu3` <sup>[泰县]</sup> 棒。  
 1. 【[磅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan.md#磅)】`pan6` <sup>[兴化]</sup> 形容小孩淘气：这个小的太～，收拾收拾好过年。  
 1. 【[𢪋掉啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_tio_a.md#𢪋掉啊)】`pan6 tio a` <sup>[如皋]</sup> 打坏用物：伢儿把碗～。  
 1. 【[哱哧咖唻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/peh_cheh_ga_lae.md#哱哧咖唻)】`peh7 cheh7 ga lae` <sup>[如皋]</sup> 呸。责语或昵语。  

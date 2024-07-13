@@ -1765,8 +1765,8 @@
 1. 【[有板有眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_baen_ieu_ngaen.md#有板有眼)】`ieu3 baen3 ieu3 ngaen3` <sup>[如皋]</sup> 状清楚有序，丝毫不乱。板、眼，打击乐奏出的节拍。  
 1. 【[有贼心没贼胆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_ceh_xien_meh_ceh_daen.md#有贼心没贼胆)】`ieu3 ceh8 xien1 meh8 ceh8 daen3` <sup>[东台]</sup> 心里想做坏事，但又不敢。  
 1. 【[有处](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_chv.md#有处)】`ieu3 chv` 可以，能够：箇支笔～写的。｜哿～弄㗁？  
-1. 【[有咑无](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_da_v.md#有咑无)】`ieu3 da5 v2` <sup>[如皋]</sup> 可有可无，两者之间，无足轻重。  
 1. 【[有当无](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_dan_v.md#有当无)】`ieu3 dan5 v2` <sup>[兴化]</sup> 反正有与没有一个样，就当着没有：他上班不上班玩意账，反正是个～的人。  
+1. 【[有当无](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_dan_v.md#有当无)】`ieu3 dan5-da5 v2` <sup>[如皋]</sup> 可有可无，两者之间，无足轻重。  
 1. 【[有得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_deh.md#有得)】`ieu3 deh` <sup>[兴化]</sup> ① 有：这许～吃～喝，你就安心蹾下去吧！ ② 某种情况将会持续下去：你惹恼啊他，～寻你麻烦哎！｜你年纪轻轻，～过唻！  
 1. 【[有得没得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_deh_meh_deh.md#有得没得)】`ieu3 deh meh8 deh` <sup>[兴化]</sup> ① 有或没有，缺乏根据地：你这张嘴，～的不要瞎嚼蛆。 ② 通通、所有的：“……只因是十方常住，被一个云游和尚引着一个道人来此住持，把常住有的没的都毁坏了……”（《水浒传》六）  
 1. 【[有得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_deh.md#有得)】`ieu3 deh7` <sup>[如皋]</sup> ① 富有：他家里～。 ② 会得，并且长时间的：上人死啊，他～哭吤；衣裳一大堆，她～洗唻！  

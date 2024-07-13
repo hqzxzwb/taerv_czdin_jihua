@@ -742,8 +742,7 @@
 1. 【[急火饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_hu_faen.md#急火饭)】`jieh7 hu3 faen6` <sup>[兴化]</sup> ① 虽然煮熟，但火候未到的饭。 ② （喻）办事操切：做思想工作要和风细雨，不能煮～。  
 1. 【[急火饭夹生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_hu_faen_gaeh_shen.md#急火饭夹生)】`jieh7 hu3 faen6 gaeh7 shen1` <sup>[东台]</sup> 比喻欲速不达。  
 1. 【[急火<sub>儿</sub>饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_hu_r_faen.md#急火<sub>儿</sub>饭)】`jieh7 hu3 r faen6` <sup>[如皋]</sup> 大火快速煮熟的饭，没得慢火饭熟得透。  
-1. 【[急火<sub>儿</sub>粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_hu_r_hzoh.md#急火<sub>儿</sub>粥)】`jieh7 hu3 r hzoh7` <sup>[如皋]</sup> 大火快速煮熟的粥，没得慢火粥黏稠。  
-1. 【[急火<sub>儿</sub>粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_hu_r_zhoh.md#急火<sub>儿</sub>粥)】`jieh7 hu3 r zhoh7` <sup>[如皋]</sup> 见“喃喃儿粥”。  
+1. 【[急火<sub>儿</sub>粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_hu_r_zhoh.md#急火<sub>儿</sub>粥)】`jieh7 hu3 r zhoh7` <sup>[如皋]</sup> 大火快速煮熟的粥，没得慢火粥黏稠。另见“喃喃儿粥”。  
 1. 【[急呼呼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_hv_hv.md#急呼呼)】`jieh7 hv1 hv1` <sup>[东台]</sup> 非常急促的样子。  
 1. 【[急呼呼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_hv_hv.md#急呼呼)】`jieh7 hv1 hv1` <sup>[兴化]</sup> ① 即将：小宁肚大腰圆的，～要生养吖。 ② 很急迫：你别再撩他，他～的要发毛啦。  
 1. 【[急将](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_jian.md#急将)】`jieh7 jian5` <sup>[东台]</sup> 快速地、不断地：他～说～说，别人不曾完全听清楚。  
@@ -1521,8 +1520,8 @@
 1. 【[见样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_ian.md#见样)】`jin5 ian6` <sup>[泰县]</sup> 每一样：这些菜你要～吃点儿。  
 1. 【[见样……一点](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_ian_ieh_din.md#见样……一点)】`jin5 ian6 ieh7 din3` <sup>[东台]</sup> 在多种物品中每一样取一点：超市水果多，我～买啊～。  
 1. 【[见样<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_ian_r.md#见样<sub>儿</sub>)】`jin5 ian6 r` <sup>[如皋]</sup> 各样东西：你家有的菜，～拿点儿出来。  
-1. 【[见闻王去啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_in_van_qy_a.md#见闻王去啊)】`jin5 in2 van2 qy5 a` <sup>[如东]</sup> 阎王是阴间管理鬼魂的王。比喻人已死掉了。  
 1. 【[见阎王](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_in_van.md#见阎王)】`jin5 in2 van2` <sup>[如皋]</sup> 贬指死：他马上去～！  
+1. 【[见阎王去啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_in_van_qy_a.md#见阎王去啊)】`jin5 in2 van2 qy5 a` <sup>[如东]</sup> 阎王是阴间管理鬼魂的王。比喻人已死掉了。  
 1. 【[见架](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_jia.md#见架)】`jin5 jia5` <sup>[东台]</sup> 就是随机应变。  
 1. 【[见景生情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_jien_shen_qien.md#见景生情)】`jin5 jien3 shen1 qien2` <sup>[兴化]</sup> ① 看到当前情景而产生联想：旧地重游，～，当年旅伴的音容笑貌又在脑际浮现。 ② 看情形、看会行事：“……请你，你就去，见他何妨？随机应变，～……”（《施公案》二）  
 1. 【[见麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_ma.md#见麻)】`jin5 ma` <sup>[东台]</sup> 遇事敏感，主动出手帮忙：他蛮～的，凉风一来，马上给我批上罩衣。（“麻”轻读）  

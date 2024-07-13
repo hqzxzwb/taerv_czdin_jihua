@@ -540,6 +540,7 @@
 1. 【[𪙍咖嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_ga_jy.md#𪙍咖嘴)】`bah7 ga jy3` <sup>[泰县]</sup> 无话可说。  
 1. 【[𪙍嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_jy.md#𪙍嘴)】`bah7 jy3` <sup>[如皋]</sup> ① 舌位低声带不振动，双唇猛张的动作及发出的声音。 ② 借指捣鬼。附耳细语。 ③ 表示无可奈何。  
 1. 【[𪙍嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_zuei.md#𪙍嘴)】`bah7 zuei3` <sup>[如东]</sup> 嘴唇一张一合的样子：鲫鱼～。  
+1. 【[傍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ban.md#傍)】`ban1` <sup>[如皋]</sup> 字的偏旁：单人～、火～、祁～、跃土～等。  
 1. 【[傍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ban.md#傍)】`ban1` <sup>[如皋]</sup> 将近：～天亮、～暗儿。  
 1. 【[傍黑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ban_heh.md#傍黑)】`ban1 heh7` <sup>[东台]</sup> 即傍晚，临近晚上的时候。  
 1. 【[傍黑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ban_heh.md#傍黑)】`ban1 heh7` <sup>[兴化]</sup> 黄昏时候：金家茶炉子生意很好。一早、响午、～，来打开水的人很多……（汪曾祺《故乡人》）  
@@ -547,8 +548,7 @@
 1. 【[傍暗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ban_un_r.md#傍暗<sub>儿</sub>)】`ban1 un5 r` <sup>[如皋]</sup> 太阳落下后天色渐暗而未暗的时段。  
 1. 【[傍暗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ban_un_r.md#傍暗<sub>儿</sub>)】`ban1 un5 r` <sup>[如皋]</sup> 见“掸暗儿”。  
 1. 【[傍午](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ban_v.md#傍午)】`ban1 v3` <sup>[东台]</sup> 临近中午的时候。  
-1. 【[帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ban.md#帮)】`ban1` <sup>[如皋]</sup> 字的偏旁：单人～、火～、祁～、跃土～等。  
-1. 【[帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ban.md#帮)】`ban1` <sup>[东台]</sup> 附着：扫啊半天雪，大家裤管儿上～满吖泥水｜米饮汤～吖在衭领上。  
+1. 【[帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ban.md#帮)】`ban1` <sup>[东台]</sup> 附着：扫啊半天雪，大家裤管儿上～满吖泥水。｜米饮汤～吖在衭领上。  
 1. 【[帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ban.md#帮)】`ban1` <sup>[兴化]</sup> ① 附着：鞋子上～吖层烂泥。 ② 镶：这块木板不够宽，要～上一块才来事。 ③ 依傍：（那婆子）只怕宋江走去，便～在身边坐了……（《水浒传》二一） ④ 挟持：“你一个～住一个，等我暗念紧箍儿咒……”（《西游记》五八）  
 1. 【[帮𬥐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ban_bae.md#帮𬥐)】`ban1 bae1` <sup>[兴化]</sup> 市井戏弄小孩的话，意为妈妈的相好。  
 1. 【[帮场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ban_chan.md#帮场)】`ban1 chan2` <sup>[兴化]</sup> 帮助支撑场面：今朝老干部文工队汇报演出，请诸位前来～。  

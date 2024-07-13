@@ -527,7 +527,7 @@
 1. 【[巷口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_keu.md#巷口)】`han6 keu3` <sup>[兴化]</sup> 巷子的两端：你在～等他，他马上就家来。｜“街头～，用围幕挡严”（《红楼梦》第十八回）  
 1. 【[巷<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_r.md#巷<sub>儿</sub>)】`han6 r` <sup>[如皋]</sup> 小巷：细～、夹～、獃～（死胡同）。  
 1. 【[巷头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_teu.md#巷头)】`han6 teu2` <sup>[兴化]</sup> 巷子的入口处及其附近地段，通常为街市：我家～上有酱园、南货店，还有澡堂、理发店。  
-1. 【[巷头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_teu.md#巷头)】`han6 teu3` <sup>[泰县]</sup> 巷口。  
+1. 【[巷头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_teu.md#巷头)】`han6 teu2-3` <sup>[泰县]</sup> 巷口。  
 1. 【[巷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_zz.md#巷子)】`han6 zz` <sup>[如东]</sup> 两屋之间的通道。亦称弄堂。  
 1. 【[巷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_zz.md#巷子)】`han6 zz` <sup>[东台]</sup> 屋宇之间狭窄的通道，即北方人所说的胡同。  
 1. 【[巷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_zz.md#巷子)】`han6 zz` <sup>[兴化]</sup> 巷：这条～里住有七八户人家。  
@@ -1247,7 +1247,7 @@
 1. 【[和淘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_to.md#和淘)】`hu2 to2` <sup>[如东]</sup> 混和在一起：她不能与大家～。  
 1. 【[和淘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_to.md#和淘)】`hu2 to2` <sup>[如皋]</sup> 关系和谐。  
 1. 【[和性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xien.md#和性)】`hu2 xien5` <sup>[如皋]</sup> 见“和暴”。  
-1. 【[回头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_teu.md#回头)】`hu2 teu2` <sup>[泰县]</sup> 等一段时间：我～晚上去玩。@假如：～他不证明怎吖弄相？  
+1. 【[回头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_teu.md#回头)】`hu2 teu2` <sup>[泰县]</sup> ① 等一段时间：我～晚上去玩。 ② 假如：～他不证明怎吖弄相？  
 1. 【[河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu.md#河)】`hu2` <sup>[如东]</sup> 在陆地上，天然或人工开凿的大水道，称河。  
 1. 【[河帮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_ban_zz.md#河帮子)】`hu2 ban1 zz` <sup>[如东]</sup> 河岸。  
 1. 【[河帮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_ban_zz.md#河帮子)】`hu2 ban1 zz` <sup>[如皋]</sup> 河床的斜坡。  
@@ -1289,7 +1289,7 @@
 1. 【[河水煮河鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_shuei_zhv_hu_y.md#河水煮河鱼)】`hu2 shuei3 zhv3 hu2 y2` <sup>[兴化]</sup> （喻）还是原来的成分，性状没起变化：“……（没有肥料）总不能让田～吧。”（马春阳《姐妹姻缘船迷传》）｜拿清水洗你这身脏衣裳，～，有甚的用？  
 1. 【[河头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_teu.md#河头)】`hu2 teu2` <sup>[如东]</sup> 河的顶端。  
 1. 【[河头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_teu.md#河头)】`hu2 teu2` <sup>[兴化]</sup> 河边：米行～停满吖买粮和卖粮的船。  
-1. 【[河头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_teu.md#河头)】`hu2 teu3` <sup>[泰县]</sup> 河口。  
+1. 【[河头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_teu.md#河头)】`hu2 teu2-3` <sup>[泰县]</sup> 河口。  
 1. 【[河𧒘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_vae.md#河𧒘)】`hu2 vae1` <sup>[如东]</sup> 蚌科动物背角无齿蚌，贝壳2片，具有角突的卵圆形。  
 1. 【[河𧒘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_vae.md#河𧒘)】`hu2 vae1` <sup>[如皋]</sup> ① 河蚌。瓣腮纲。 ② 隐称女外阴。  
 1. 【[河𧒘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_vae.md#河𧒘)】`hu2 vae1` <sup>[东台]</sup> 就是河蚌，软体动物，有两个椭圆形外壳，可以开闭。  
@@ -1350,7 +1350,6 @@
 1. 【[火着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_chah.md#火着)】`hu3 chah8` <sup>[泰县]</sup> 火叉。  
 1. 【[火赤练](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_cheh_lin.md#火赤练)】`hu3 cheh7 lin6` <sup>[如皋]</sup> 赤练蛇。身上黑、红圈相间。  
 1. 【[火赤练](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_cheh_lin.md#火赤练)】`hu3 cheh7 lin6` <sup>[东台]</sup> 周身有红褐色斑纹的蛇。  
-1. 【[火烧不剌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_cho_beh_laeh.md#火烧不剌)】`hu3 cho1 beh7 laeh8` <sup>[兴化]</sup> 皮肤像被烫灼后的感觉：脚捱热水烫得～的。｜王婆打了一阵子，手打的～……（《武松》二）  
 1. 【[火重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_chon.md#火重)】`hu3 chon6` <sup>[如皋]</sup> 中医指身体五行中火旺。  
 1. 【[火箸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_chv.md#火箸)】`hu3 chv6` <sup>[兴化]</sup> 火筷子，用来拨火或搛煤球等。  
 1. 【[火丹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_daen.md#火丹)】`hu3 daen1` <sup>[如皋]</sup> 丹毒。  
@@ -1411,6 +1410,7 @@
 1. 【[火石](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_sheh.md#火石)】`hu3 sheh8` <sup>[如皋]</sup> 燧石。  
 1. 【[火石上磨刀——一碰就着火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_sheh_shan_mu_do_ieh_pon_qieu_chah_hu.md#火石上磨刀——一碰就着火)】`hu3 sheh8 shan mu2 do1 ieh7 pon5 qieu6 chah8 hu3` <sup>[东台]</sup>   
 1. 【[火绳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_shen.md#火绳)】`hu3 shen2` <sup>[如皋]</sup> 见“火绒”。  
+1. 【[火烧不剌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_sho_beh_laeh.md#火烧不剌)】`hu3 sho1 beh7 laeh8` <sup>[兴化]</sup> 皮肤像被烫灼后的感觉：脚捱热水烫得～的。｜王婆打了一阵子，手打的～……（《武松》二）  
 1. 【[火烧棺材——急死人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_sho_gun_cae_jieh_sz_ren.md#火烧棺材——急死人)】`hu3 sho1 gun1 cae jieh7 sz3 ren2` <sup>[东台]</sup>   
 1. 【[火烧火辣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_sho_hu_laeh.md#火烧火辣)】`hu3 sho1 hu3 laeh8` <sup>[如东]</sup> 灼热而又感觉刺人：身上～的，难过。  
 1. 【[火烧火辣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_sho_hu_laeh.md#火烧火辣)】`hu3 sho1 hu3 laeh8` <sup>[东台]</sup> 热辣辣的感觉：那天子身上～的，嘴唇也脱咖皮。  

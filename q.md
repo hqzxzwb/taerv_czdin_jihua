@@ -233,7 +233,7 @@
 1. 【[气急病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_jieh_pien.md#气急病)】`qi5 jieh7 pien6` <sup>[如东]</sup> 气管炎。  
 1. 【[气接不上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_jih_beh_shan.md#气接不上)】`qi5 jih7 beh7 shan6` <sup>[如皋]</sup> 见“气急”。  
 1. 【[气喖喖的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_kv_kv_dii.md#气喖喖的)】`qi5 kv2 kv2 dii` <sup>[如皋]</sup> 很生气的样子。  
-1. 【[气量](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_lian.md#气量)】`qi5 lian5` <sup>[东台]</sup> 气魄，涵量。  
+1. 【[气量](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_lian.md#气量)】`qi5 lian` <sup>[东台]</sup> 气魄，涵量。  
 1. 【[气量](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_lian.md#气量)】`qi5 lian6` <sup>[如东]</sup> 肚量，修养：这个人有～。  
 1. 【[气闷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_men.md#气闷)】`qi5 men6` <sup>[兴化]</sup> 因气压低或受窘迫而感到压抑：（胡镜孙）一场没趣，愈加～。（《官场现形记》二一）。  
 1. 【[气冒𪸺烟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_mo_ngan_in.md#气冒𪸺烟)】`qi5 mo6 ngan2 in1` <sup>[如皋]</sup> 烟气、水蒸气弥漫。  

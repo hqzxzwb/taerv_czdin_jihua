@@ -1358,7 +1358,7 @@
 1. 【[临上轿，穿耳朵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_shan_qio_chun_er_do.md#临上轿，穿耳朵)】`lien2 shan6 qio6 chun1 er3 do` <sup>[东台]</sup> 以姑娘出嫁喻指准备工作太仓促，没有回旋余地。  
 1. 【[临时工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_shr_gon.md#临时工)】`lien2 shr2 gon1` <sup>[如东]</sup> 用工制度的一种。临时招募参加企业劳动的工人。  
 1. 【[临时待月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_shr_tae_iuh.md#临时待月)】`lien2 shr2 tae6 iuh8` <sup>[兴化]</sup> 妇女怀孕足月，即将分娩。  
-1. 【[临时待月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_shr_taeh_iuh.md#临时待月)】`lien2 shr2 taeh6 iuh8` <sup>[泰县]</sup> 即将临产。  
+1. 【[临时待月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_shr_tae_iuh.md#临时待月)】`lien2 shr2 tae6 iuh8` <sup>[泰县]</sup> 即将临产。  
 1. 【[临时足月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_shr_zoh_iuh.md#临时足月)】`lien2 shr2 zoh7 iuh8` <sup>[兴化]</sup> 妇女怀孕足月，即将分娩。  
 1. 【[临死骚三脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_sz_so_saen_jiah.md#临死骚三脚)】`lien2 sz3 so1 saen1 jiah7` <sup>[东台]</sup> 就是垂死挣扎，死不悔改。  
 1. 【[临帖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_tih.md#临帖)】`lien2 tih7` <sup>[东台]</sup> 模仿字帖练习写字。  

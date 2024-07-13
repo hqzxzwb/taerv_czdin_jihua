@@ -712,8 +712,7 @@
 1. 【[山头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_teu.md#山头)】`shaen1 teu` <sup>[如皋]</sup> 山墙。  
 1. 【[山头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_teu.md#山头)】`shaen1 teu` <sup>[如东]</sup> 山脉的顶端。房屋山墙的上部。  
 1. 【[山头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_teu.md#山头)】`shaen1 teu2` <sup>[兴化]</sup> ① 房屋两侧的墙壁：（大厅）上有六张交椅。两～挂着四季吊屏。（《西游记》二三） ② 山墙的外边：东～就是大巷。  
-1. 【[山头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_teu.md#山头)】`shaen1 teu2` <sup>[泰县]</sup> 山墙：屋～。｜两个～挂着四季吊屏？（西游记·23回）  
-1. 【[山头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_teu.md#山头)】`shaen1 teu3` <sup>[泰县]</sup> 山墙。  
+1. 【[山头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_teu.md#山头)】`shaen1 teu2` <sup>[泰县]</sup> 山墙：屋～  
 1. 【[山芋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_y.md#山芋)】`shaen1 y6` <sup>[东台]</sup> 甘薯。  
 1. 【[山楂果<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_zha_gu_r.md#山楂果<sub>儿</sub>)】`shaen1 zha1 gu3 r` <sup>[如皋]</sup> 糖葫芦儿。  
 1. 【[山中无老虎——猴子称大王](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_zhon_v_lo_hv_heu_zz_chen_da_van.md#山中无老虎——猴子称大王)】`shaen1 zhon1 v2 lo3 hv3 heu2 zz chen1 da6 van2` <sup>[东台]</sup>   
@@ -2294,10 +2293,10 @@
 1. 【[狮毛狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_mo_geu.md#狮毛狗)】`shr1 mo2 geu3` <sup>[如东]</sup> 狗的一种。腿短，身上的毛呈卷曲状，有各种颜色。多为家庭饲养宠物。  
 1. 【[狮猫失张](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_mo_sheh_zhan.md#狮猫失张)】`shr1 mo2 sheh7 zhan1` <sup>[兴化]</sup> 因心神慌乱而坐立不安，举止失措：他一到家就～的，不晓得在外头出咖甚的事呃。  
 1. 【[狮子鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_zz_pieh_zz.md#狮子鼻子)】`shr1 zz pieh8 zz` <sup>[如皋]</sup> 形容阔大的鼻型。  
+1. 【[狮子头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_zz_teu.md#狮子头)】`shr1 zz teu2` <sup>[如皋]</sup> ① 一种果形像狮子头的辣椒。 ② 猪肉做的大肉圆。  
 1. 【[狮子头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_zz_teu.md#狮子头)】`shr1 zz teu2` <sup>[东台]</sup> 在餐桌上指做得较大的肉圆。  
 1. 【[狮子头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_zz_teu.md#狮子头)】`shr1 zz teu2` <sup>[兴化]</sup> 肉圆：红烧～。  
 1. 【[狮子头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_zz_teu.md#狮子头)】`shr1 zz teu2` <sup>[泰县]</sup> 肉圆。  
-1. 【[狮子头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_zz_teu.md#狮子头)】`shr1 zz teu3` <sup>[如皋]</sup> ① 一种果形像狮子头的辣椒。 ② 猪肉做的大肉圆。  
 1. 【[诗文拽拽的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_ven_zhuae_zhuae_dii.md#诗文拽拽的)】`shr1 ven2 zhuae3 zhuae3 dii` <sup>[东台]</sup> 指喜欢转文，卖弄自己的才华。  
 1. 【[弛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr.md#弛)】`shr2` <sup>[如皋]</sup> ① 松垂：房粱后角～下来啊。 ② 下沉：磉棵墩儿～下去啊。 ③ 踩空：脚下～啊下子。  
 1. 【[弛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr.md#弛)】`shr2` <sup>[东台]</sup> ① 松下来：门～啊劲。 ② 下沉：门窝子～下来啊。  

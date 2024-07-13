@@ -651,6 +651,7 @@
 1. 【[没边<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_bin_r.md#没边<sub>儿</sub>)】`meh8 bin1 r` <sup>[兴化]</sup> 没有根据、不着边际：这些～的话覅乱说。｜你吹牛吹得～，哪个信？  
 1. 【[没治](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_chr.md#没治)】`meh8 chr6` <sup>[兴化]</sup> ① 糟糕到无法挽救：这个露天市场秩序糟得～。 ② 无可奈何：他这吖自暴自弃，旁人拿他～。  
 1. 【[没处](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_chv.md#没处)】`meh8 chv` 不可以，不能：东西太多，～拿。｜  
+1. 【[没处弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_chv_lon.md#没处弄)】`meh8 chv lon6` <sup>[如东]</sup> 没法解决：这条路～。  
 1. 【[没处到任](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_chv_do_ren.md#没处到任)】`meh8 chv5 do5 ren6` <sup>[泰县]</sup> 莫名共妙。  
 1. 【[没处落脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_chv_lah_jiah.md#没处落脚)】`meh8 chv5 lah8 jiah7` <sup>[如皋]</sup> 地上满是杂物，难以从这里走过。  
 1. 【[没处弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_chv_non.md#没处弄)】`meh8 chv5 non6` <sup>[如皋]</sup> 状事态繁乱无序，难处理。  
@@ -686,7 +687,6 @@
 1. 【[没底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_di.md#没底)】`meh8 di3` <sup>[兴化]</sup> ① 没有把握：这件事心里～，不敢下决断。 ② 难以满足：他敲起竹杠来～，你千万要当心。  
 1. 【[没多点<sub>儿</sub>捞摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_du_din_r_lo_mah.md#没多点<sub>儿</sub>捞摸)】`meh8 du1 din3 r lo2 mah8` <sup>[如皋]</sup> 盈利少。  
 1. 【[没发达](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_faeh_taeh.md#没发达)】`meh8 faeh7 taeh8` <sup>[泰县]</sup> 没出息。  
-1. 【[没处弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_faeh_lon.md#没处弄)】`meh8 faeh7 lon6` <sup>[如东]</sup> 没法解决：这条路～。  
 1. 【[没法说](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_faeh_shuh.md#没法说)】`meh8 faeh7 shuh7` <sup>[如东]</sup> ① 不好说：这件事～。 ② 说不清楚：一个人出的豁子，我俫～。  
 1. 【[没解着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_gae_zhah.md#没解着)】`meh8 gae3 zhah7` <sup>[东台]</sup> 指木已成舟，或灾难性后果已定局。也作“没改着”。  
 1. 【[没根](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_gen.md#没根)】`meh8 gen1` <sup>[兴化]</sup> ① 荒唐：他四九心里下河游泳，～哎！ ② 无度地：他有啊钱就～的噇。  
