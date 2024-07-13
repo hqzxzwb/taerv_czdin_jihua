@@ -806,7 +806,7 @@
 1. 【[一床不睡两样人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_chuan_beh_shuei_laen_ian_ren.md#一床不睡两样人)】`ieh7 chuan2 beh7 shuei5 laen3 ian6 ren2` <sup>[东台]</sup> 夫妻总有共同之处。  
 1. 【[一床眠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_chuan_min.md#一床眠)】`ieh7 chuan2 min2` <sup>[如东]</sup> ① 两个人睡在一张床上，关系非常亲密。 ② 比喻男女同居。  
 1. 【[一串联<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_chun_lin_r.md#一串联<sub>儿</sub>)】`ieh7 chun5 lin2 r` <sup>[泰县]</sup> 一起，一伙：他俫～要去东北支边。  
-1. 【[一炷香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_chv_xian.md#一炷香)】`ieh7 chv6 xian1` <sup>[如东]</sup> 一支或一束香：早晚～。  
+1. 【[一柱香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_chv_xian.md#一柱香)】`ieh7 chv6 xian1` <sup>[如东]</sup> 一支或一束香：早晚～。  
 1. 【[一草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_co.md#一草)】`ieh7 co3` <sup>[东台]</sup> 旧时商界“一萬”的隐语，“萬”字，草字头。  
 1. 【[一次眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_cz_ngaen_r.md#一次眼<sub>儿</sub>)】`ieh7 cz ngaen9 r` <sup>[泰兴]</sup> ① 按次序（原文未收此义）：队排排好，～来拿杲子｜～站站好 ② 谓遍地皆是（某物），密度很高。  
 1. 【[一字不忑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_cz_beh_teh.md#一字不忑)】`ieh7 cz6 beh7 teh7` <sup>[如东]</sup> 比喻照样办理。  

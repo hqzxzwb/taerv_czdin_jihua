@@ -2087,7 +2087,6 @@
 1. 【[初头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_teu.md#初头)】`chv1 teu2` <sup>[如皋]</sup> 农历的年初、月初。  
 1. 【[初头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_teu.md#初头)】`chv1 teu2` <sup>[兴化]</sup> 一年或一月刚开始的日子：到了一九四九年～，他请来双喜爷爷商量钉新船的事。（马春阳《姐妹姻缘船迷传》）｜“且住。他生辰是六月十五日，如今却是五月～，尚有四五十日……”（《水浒传》十五）  
 1. 【[初遇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_y.md#初遇)】`chv1 y6` <sup>[兴化]</sup> 第一次见面：我俫是～，面生得很。  
-1. 【[除](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv.md#除)】`chv1` <sup>[东台]</sup> 擦去：作业本子上多余的字，要用橡皮～干净。  
 1. 【[刍话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_hua.md#刍话)】`chv2 hua6` <sup>[如皋]</sup> 蛮横顶撞的话。  
 1. 【[厨房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_fan.md#厨房)】`chv2 fan2` <sup>[兴化]</sup> 一种专门代办伙食，包办筵席的饭店：王～；刘～。｜这地方有这么一种～，专门包办筵席，不设客座。（汪曾祺《八千岁》）  
 1. 【[厨师](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_shr.md#厨师)】`chv2 shr1` <sup>[如东]</sup> 从事烹调业务的人。也称厨子。  
@@ -2101,6 +2100,7 @@
 1. 【[锄田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_tin.md#锄田)】`chv2 tin2` <sup>[如东]</sup> 用锄头翻地。  
 1. 【[锄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_zz.md#锄子)】`chv2 zz` <sup>[如东]</sup> 工具。铁制，呈三角形，刃平，有柄。用以除草，松土。  
 1. 【[锄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_zz.md#锄子)】`chv2 zz` <sup>[泰县]</sup> 锄头。  
+1. 【[除](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv.md#除)】`chv2` <sup>[东台]</sup> 擦去（东台该用法方音cv1）：作业本子上多余的字，要用橡皮～干净。  
 1. 【[除](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv.md#除)】`chv2` <sup>[兴化]</sup> ① 叫 ② 卸、摘：～大门。“你这张嘴，～得下来安得上去，专会说鬼话……”（《梼杌闲评》三三）。｜～耳环；～帽子。 ③ 丢开：“……天下事～得死法，想活法……”（《广陵潮》七十）  
 1. 【[除啊宜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_a_i.md#除啊宜)】`chv2 a i2` <sup>[东台]</sup> ① 叹息某种事物不如人意：他家连桌子都没有，真是～/歇后语｜储二的哥哥——储大爷（除大宜）。 ② 表示吃够了苦头：与那个狠心老板相处，真是～！  
 1. 【[除除疑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_chv_i.md#除除疑)】`chv2 chv2 i2` <sup>[如皋]</sup> ① 消消疑虑：他怕剩饭不卫生，重新蒸下子～。 ② 精神上安慰、放心：敬香烧纸有甚的用，不过是让老人家～。  

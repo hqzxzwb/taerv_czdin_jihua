@@ -2187,9 +2187,9 @@
 1. 【[动不动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_beh_ton.md#动不动)】`ton6 beh7 ton6` <sup>[东台]</sup> 动辄：不能～就发火。  
 1. 【[动粗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_cv.md#动粗)】`ton6 cv1` <sup>[兴化]</sup> 指粗鲁的举动：有话好好说，不能～。  
 1. 【[动都不能动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_du_beh_nen_ton.md#动都不能动)】`ton6 du1 beh7 nen2 ton6` <sup>[东台]</sup> 指某件事绝对不能做：高利贷？这个交易风险大，～。  
-1. 【[动吖他的板脂油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_gu_ta_dii_baen_zhr_ieu.md#动吖他的板脂油)】`ton6 gu ta1 dii baen3 zhr1 ieu2` <sup>[如皋]</sup> 耗用了他的内囊资财。  
 1. 【[动火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_hu.md#动火)】`ton6 hu3` <sup>[兴化]</sup> 被财色所惑而心动：（徐能）看见搬上许多箱笼囊箧，心中早有七分～。（《警世通言》十一）｜“却也怪你们不得，这样一对娇滴滴的人儿，怎叫他们不～……”（《梼杌闲评》三）。  
 1. 【[动吖他仓里的廒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_nga_ta_can_lii_dii_ngo.md#动吖他仓里的廒)】`ton6 nga ta1 can1 lii dii ngo2` <sup>[如皋]</sup> 见“动吖他的板脂油”。  
+1. 【[动吖他的板脂油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_nga_ta_dii.md#动吖他的板脂油)】`ton6 nga ta1 dii baen3 zhr ieu2` <sup>[如皋]</sup> 耗用了他的内囊资财。  
 1. 【[动气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_qi.md#动气)】`ton6 qi5` <sup>[如东]</sup> 生气：你再说我要～啦。  
 1. 【[动气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_qi.md#动气)】`ton6 qi5` <sup>[泰县]</sup> 生气。  
 1. 【[动抢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_qian.md#动抢)】`ton6 qian3` <sup>[如皋]</sup> 出现抢劫行为。  

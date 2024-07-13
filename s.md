@@ -102,7 +102,7 @@
 1. 【[三伏虾油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_foh_xia_ieu.md#三伏虾油)】`saen1 foh8 xia1 ieu2` <sup>[如东]</sup> 调味品。以春汛麻虾为原料，经初伏、中伏、末伏曝晒发酵、精制加工而成，色深红，味浑鲜，浇面、浇菜上乘，为如东特色海味产品。  
 1. 【[三夹板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_gaeh_baen.md#三夹板)】`saen1 gaeh7 baen3` <sup>[兴化]</sup> 即三合板。用三层薄木片胶合汇成的木板。  
 1. 【[三间灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_gaen_zo.md#三间灶)】`saen1 gaen1 zo5` <sup>[如皋]</sup> 三口锅的砖灶。  
-1. 【[三角角<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_gah_gah_r.md#三角角<sub>儿</sub>)】`saen1 gah7 gah3 r` <sup>[如皋]</sup> 私字旁（厶）：允去么。  
+1. 【[三角角<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_gah_gah_r.md#三角角<sub>儿</sub>)】`saen1 gah7 gah7-3 r` <sup>[如皋]</sup> 私字旁（厶）：允去么。  
 1. 【[三角野菱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_gah_ia_lien_r.md#三角野菱<sub>儿</sub>)】`saen1 gah7 ia3 lien2 r` <sup>[东台]</sup> ［喻］指那种缺乏教养，蛮不讲理，到处伤害别人的人。  
 1. 【[三角<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_gah_r.md#三角<sub>儿</sub>)】`saen1 gah7 r` <sup>[如皋]</sup> ① 锅中蒸屉下的三角架。 ② 一种三角形的黏糏甜点心。  
 1. 【[三角<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_gah_r.md#三角<sub>儿</sub>)】`saen1 gah7 r` <sup>[如东]</sup> 棉花桃儿的萼片。  
@@ -3314,7 +3314,6 @@
 1. 【[㧐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son.md#㧐)】`son1` <sup>[如东]</sup> ① 推：～他一家伙！ ② 打：～你的屁股。  
 1. 【[松巴落壳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_ba_lah_kah.md#松巴落壳)】`son1 ba1 lah8 kah7` <sup>[如东]</sup> 松松散散的样子：这些草捆子～的，怎吖好运输咯？  
 1. 【[松包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_bo.md#松包)】`son1 bo1` <sup>[兴化]</sup> 掏腰包：孙子孙女开学，老两口又要～啦。  
-1. 【[松腰包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_bo_r.md#松腰包)】`son1 bo1 r` <sup>[泰县]</sup> 出钱：外孙要过生日，你又要～啦。  
 1. 【[松的落壳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_dii_lah_kah.md#松的落壳)】`son1 dii lah8 kah7` <sup>[如皋]</sup> 松动、摇动，不紧固。  
 1. 【[松泛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_faen.md#松泛)】`son1 faen` <sup>[如东]</sup> 酥松：这种馒头～。  
 1. 【[松泛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_faen.md#松泛)】`son1 faen` <sup>[东台]</sup> ① 宽松；舒适：洗啊桑拿，又䢢吖背，身上～多啊。 ② 个人经济上相对宽松。  
@@ -3322,6 +3321,7 @@
 1. 【[松腰包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_io_bo.md#松腰包)】`son1 io1 bo1` <sup>[如皋]</sup> 指花钱多：侄子结婚，他要～咯。  
 1. 【[松腰包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_io_bo.md#松腰包)】`son1 io1 bo1` <sup>[如东]</sup> 从口袋里掏出钱来：明天朋朋生日，你要～啦。  
 1. 【[松腰包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_io_bo.md#松腰包)】`son1 io1 bo1` <sup>[东台]</sup> ［引］出钱、掏钞票。  
+1. 【[松腰包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_io_bo.md#松腰包)】`son1 io1 bo1` <sup>[泰县]</sup> 出钱：外孙要过生日，你又要～啦。  
 1. 【[松紧口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_jien_keu.md#松紧口)】`son1 jien keu3` <sup>[兴化]</sup> 缝了松紧带，可以伸缩的鞋口、袖口：～鞋子｜带～的裤腰。  
 1. 【[松紧口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_jien_keu.md#松紧口)】`son1 jien3 keu3` <sup>[如皋]</sup> 鞋口、裤腰等处装了松紧带。有弹性。  
 1. 【[松劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_jien.md#松劲)】`son1 jien5` 懈气，没了精神  
@@ -3603,7 +3603,6 @@
 1. 【[咝啊颬的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_a_ha_dii.md#咝啊颬的)】`sz1 a ha1 dii` <sup>[如皋]</sup> 怕冷的样子。  
 1. 【[思坦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_taen.md#思坦)】`sz1 taen3` <sup>[如东]</sup> ① 舒服，顺眼：这件衣裳穿吖身上～。 ② 平坦：把东西放～。  
 1. 【[撕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz.md#撕)】`sz1` <sup>[如东]</sup> ① 剥：把墙上的纸～下来。 ② 分开：把这块布～开来。  
-1. 【[撕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz.md#撕)】`sz1` <sup>[泰县]</sup> 裂开：～啊一条缝。  
 1. 【[撕耷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_dah_zz.md#撕耷子)】`sz1 dah7 zz` <sup>[如东]</sup> 玩耷子和的一种方法。把耷子中的牌拆开来打出去。  
 1. 【[撕对子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_duei_zz.md#撕对子)】`sz1 duei5 zz` <sup>[如东]</sup> 玩耷子和的一种方法。把对子中的牌拆开来打出去。  
 1. 【[撕皮烂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_pi_laen.md#撕皮烂)】`sz1 pi2 laen6` <sup>[兴化]</sup> 一种皮青脆，肉质多淀粉，甜而且烂的甜瓜。  

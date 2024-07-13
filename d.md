@@ -64,7 +64,7 @@
 1. 【[打赤脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_cheh_jiah.md#打赤脚)】`da3 cheh7 jiah7` <sup>[兴化]</sup> 光着脚：下雨天，他不穿胶鞋就～。  
 1. 【[打直脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_cheh_jiah.md#打直脚)】`da3 cheh8 jiah7` <sup>[兴化]</sup> 借死人进行敲诈：田老四趁姑妈去世，到老表家～，敲去五千块才歇手。  
 1. 【[打秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chen.md#打秤)】`da3 chen5` <sup>[兴化]</sup> 压秤：山芋～，一篮子三十多斤哎！  
-1. 【[打抽风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_cheu_fon.md#打抽风)】`da3 cheu2 fon1` <sup>[泰县]</sup> 讹诈人。  
+1. 【[打抽风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_cheu_fon.md#打抽风)】`da3 cheu1 fon1` <sup>[泰县]</sup> 讹诈人。  
 1. 【[打冲头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chon_teu.md#打冲头)】`da3 chon5 teu` <sup>[如东]</sup> 用手突然打击对方的额头：当心我～。  
 1. 【[打滞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chr.md#打滞)】`da3 chr5` <sup>[兴化]</sup> 用某些药物或食品消除积食，促进消化：锅巴茶能～。  
 1. 【[打春](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chuen.md#打春)】`da3 chuen1` <sup>[如东]</sup> 立春。  

@@ -495,6 +495,7 @@
 1. 【[摸不着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_beh_chah.md#摸不着)】`mah8 beh chah8` <sup>[兴化]</sup> 不了解、不清楚：这件事头绪复杂，我～头脑。  
 1. 【[摸壁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_bieh.md#摸壁)】`mah8 bieh7` <sup>[如东]</sup> 小儿用手摸着墙壁学习走步。  
 1. 【[摸壁鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_bieh_guei.md#摸壁鬼)】`mah8 bieh7 guei3` <sup>[兴化]</sup> （迷信）虚拟的一种鬼魅：他像个～，总喜欢扶着墙或扳壁走来走去的。  
+1. 【[摸壁鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_bieh_guei.md#摸壁鬼)】`mah8 bieh7 guei3` <sup>[如皋]</sup> 詈语，指特别摸索磨蹭的人。  
 1. 【[摸凿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_cah.md#摸凿)】`mah8 cah` <sup>[东台]</sup> 动作缓慢，磨磨蹭蹭：怎吖还不曾到，这吖～！  
 1. 【[摸凿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_cah.md#摸凿)】`mah8 cah` <sup>[泰县]</sup> 做事不爽快，慢：他做事情比较～。  
 1. 【[摸凿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_cah.md#摸凿)】`mah8 cah8` <sup>[兴化]</sup> 形容做事慢慢腾腾：她～得凶哎，早上梳头洗脸就得个把钟头。｜谚曰：日不做，夜～。‖也作“摸索”。  
@@ -601,7 +602,6 @@
 1. 【[蟒蛇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_sha.md#蟒蛇)】`man3 sha2` <sup>[如东]</sup> 无毒的大蛇，体长可达6米，头部长，口大，舌的尖端有分叉，背部黑褐色，有暗色斑点。腹部白色。多生活在近水的树林里，捕食小禽兽。  
 1. 【[妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh.md#妈)】`meh` <sup>[东台]</sup> 加自成音节的“m”（姆），构成“姆～”，是子女在母亲面前轻声叫妈的声音。  
 1. 【[没娘悄气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_nian_qio_qi.md#没娘悄气)】`meh1 nian qio3 qi5` <sup>[东台]</sup> 像失去母亲的孩子一样，一点儿声响也没有。  
-1. 【[摸壁鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_bieh_guei.md#摸壁鬼)】`meh8 bieh7 guei3` <sup>[如皋]</sup> 詈语，指特别摸索磨蹭的人。  
 1. 【[末朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_cho.md#末朝)】`meh8 cho2` <sup>[如皋]</sup> 毁灭性的灾难，如地陷、海啸、大地震。  
 1. 【[没](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh.md#没)】`meh8` <sup>[如东]</sup> 被水淹没：棉花全部～掉啊。  
 1. 【[没（得）巴成](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_ba_chen.md#没（得）巴成)】`meh8 ba1 chen2` <sup>[如皋]</sup> 指没指望、没希望。  
@@ -1184,7 +1184,7 @@
 1. 【[乜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mia.md#乜)】`mia3` <sup>[如皋]</sup> ① 掠视：眼睛一～就懂吖。 ② 监视：你站吖门口～住他。  
 1. 【[乜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mia.md#乜)】`mia3` <sup>[东台]</sup> ① 瞟，张望：那边簇咖许多人，甚的事？你去～一下子。 ② 跟踪盯梢。  
 1. 【[𥄲下去啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mia_ha_qy_a.md#𥄲下去啊)】`mia3 ha qy5 a` <sup>[如皋]</sup> 目小，极兴奋、快乐的样子：他欢喜啊～！舒服咖～。  
-1. 【[𥄲乎啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mia_v_a.md#𥄲乎啊)】`mia3 v a` <sup>[如皋]</sup> ① 睡觉了。 ② 死了。  
+1. 【[𥄲呜啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mia_v_a.md#𥄲呜啊)】`mia3 v a` <sup>[如皋]</sup> ① 睡觉了。 ② 死了。  
 1. 【[密](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mieh.md#密)】`mieh8` <sup>[泰县]</sup> 抿：～咖嘴笑。  
 1. 【[密层层](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mieh_cen_cen.md#密层层)】`mieh8 cen2 cen2` <sup>[泰县]</sup> 密密麻麻。  
 1. 【[密缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mieh_fon.md#密缝)】`mieh8 fon6` <sup>[如东]</sup> 缝隙密合。  
@@ -1704,8 +1704,7 @@
 1. 【[木锉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_cu.md#木锉)】`moh8 cu5` <sup>[如东]</sup> 锉的一种，齿较粗，用以锉木料。  
 1. 【[木打人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_da_ren.md#木打人)】`moh8 da ren` <sup>[泰县]</sup> 哄骗人：不要～。  
 1. 【[木耳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_er.md#木耳)】`moh8 er3` <sup>[如东]</sup> 菌的一种。生长在腐朽的树干上，形状如人耳，黑褐色，胶质，外面密生柔软的短毛。可供食用。  
-1. 【[木杮<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_fei_r.md#木杮<sub>儿</sub>)】`moh8 fei r` <sup>[如皋]</sup> 见“斫花儿”。  
-1. 【[木杮<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_fei_r.md#木杮<sub>儿</sub>)】`moh8 fei5 r` <sup>[如皋]</sup> 斫木的木花儿和木屑。  
+1. 【[木杮<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_fei_r.md#木杮<sub>儿</sub>)】`moh8 fei5 r` <sup>[如皋]</sup> 斫木的木花儿和木屑。同“斫花儿”。  
 1. 【[木哥草枯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_gu_co_kv.md#木哥草枯)】`moh8 gu1 co3 kv1` <sup>[泰县]</sup> 布谷鸟。  
 1. 【[木瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_gua.md#木瓜)】`moh8 gua1` <sup>[如东]</sup> 蔷薇科植物贴梗海裳。  
 1. 【[木瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_gua.md#木瓜)】`moh8 gua1` <sup>[东台]</sup> 本指一种瓜果，喻指愚蠢的人。  

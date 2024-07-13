@@ -1031,7 +1031,6 @@
 1. 【[尽吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_qieh.md#尽吃)】`jien3 qieh7` <sup>[东台]</sup> 放开吃，不受任何限制。  
 1. 【[尽钱克货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_qin_keh_hu.md#尽钱克货)】`jien3 qin2 keh7 hu5` <sup>[东台]</sup> 有多少钱，买多少货。  
 1. 【[尽嗓子摡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_san_zz_gae.md#尽嗓子摡)】`jien3 san3 zz gae1` <sup>[东台]</sup> 形容放开喉咙大声说话，唱歌，或嚎啕大哭的状态。  
-1. 【[斤求两](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_qieu_lian.md#斤求两)】`jien3 qieu2 lian3` <sup>[如皋]</sup> 口诀。  
 1. 【[景云](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_yen.md#景云)】`jien3 yen2` <sup>[如皋]</sup> 又名“巧云”，七月里天空云景变幻无穷。  
 1. 【[景致](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zhr.md#景致)】`jien3 zhr5` 风景  
 1. 【[景子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zz.md#景子)】`jien3 zz` <sup>[如东]</sup> 风景。  

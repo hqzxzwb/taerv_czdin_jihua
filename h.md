@@ -1380,8 +1380,8 @@
 1. 【[火油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_ieu.md#火油)】`hu3 ieu2` <sup>[兴化]</sup> 煤油。  
 1. 【[火焰灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_in_den.md#火焰灯)】`hu3 in den1` <sup>[如皋]</sup> 灯光如豆的小油灯。  
 1. 【[火急火燎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_jieh_hu_lio.md#火急火燎)】`hu3 jieh7 hu3 lio2` <sup>[如东]</sup> 形容非常急躁：王明～的说：“你怎吖还不去的啦！”  
-1. 【[火酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_jien.md#火酒)】`hu3 jien1` <sup>[兴化]</sup> 酒精。  
 1. 【[火酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_jieu.md#火酒)】`hu3 jieu3` <sup>[如皋]</sup> 烧酒。65°以上，可燃。  
+1. 【[火酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_jieu.md#火酒)】`hu3 jieu3` <sup>[兴化]</sup> 酒精。  
 1. 【[火焦火辣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_jio_hu_laeh.md#火焦火辣)】`hu3 jio1 hu3 laeh8` <sup>[兴化]</sup> 形容又热又痛的感觉：大伏里经太阳一晒，身上～的难过。  
 1. 【[火饺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_jio.md#火饺)】`hu3 jio3` <sup>[如皋]</sup> 圆面皮的油炸饺子。  
 1. 【[火轮船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_len_chun.md#火轮船)】`hu3 len2 chun2` <sup>[如东]</sup> 以内燃机为动力的船。  
@@ -2699,7 +2699,6 @@
 1. 【[壶<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_r.md#壶<sub>儿</sub>)】`hv2 r` <sup>[如东]</sup> 长圆形的玻璃容器，如油壶儿、酒壶儿、醋壶儿等。  
 1. 【[湖桑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_san.md#湖桑)】`hv2 san1` <sup>[兴化]</sup> 一种树干不高，叶大而肥的桑树品种，叶用来喂蚕。  
 1. 【[湖心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_xien.md#湖心)】`hv2 xien1` <sup>[兴化]</sup> 湖泊的中央：这纵堡湖上，湖边的芦柴稳稳的，～的水面平平的……（马春阳《双灯照》）  
-1. 【[煳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv.md#煳)】`hv2` <sup>[如东]</sup> 烂，焦：饭烧～啊。  
 1. 【[狐大仙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_da_xin.md#狐大仙)】`hv2 da xin1` <sup>[兴化]</sup> 迷信的人惧狐、鼬为祟，称之为～：“……总以为有个～在跟着你哩！哪晓得你面前居然还用着细探子呢。”（《火烧赤壁》五）  
 1. 【[狐大仙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_da_xin.md#狐大仙)】`hv2 da6 xin1` <sup>[东台]</sup> 旧时东台城称狐狸为“大仙”。逢年过节人们敬香供奉，祈求～保宅内老小平安。  
 1. 【[狐大仙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_da_xin.md#狐大仙)】`hv2 da6 xin1` <sup>[兴化]</sup> 迷信的人对狐鼬的敬称。  
@@ -2710,7 +2709,7 @@
 1. 【[狐臊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_so.md#狐臊)】`hv2 so` <sup>[兴化]</sup> 腋臭。  
 1. 【[狐臊气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_so_qi.md#狐臊气)】`hv2 so1 qi5` <sup>[如东]</sup> 由于腋窝、阴部等部位的皮肤内汗腺分泌异常而产生的刺鼻味。也称狐臭。  
 1. 【[狐骚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_so.md#狐骚)】`hv2 so1` <sup>[东台]</sup> 狐臭味。  
-1. 【[糊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv.md#糊)】`hv2` <sup>[如东]</sup> ① 把纸或布粘贴在物体的表面上。 ② 模糊：眼睛～。  
+1. 【[糊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv.md#糊)】`hv2` <sup>[如东]</sup> ① 把纸或布粘贴在物体的表面上。 ② 模糊：眼睛～。 ③ 烂，焦：饭烧～啊。  
 1. 【[糊包子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_bo_zz.md#糊包子)】`hv2 bo1 zz` <sup>[东台]</sup> 祭祀用的锡箔馃子，用红纸或黄元纸包装糊成包子。  
 1. 【[糊大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_da.md#糊大)】`hv2 da` <sup>[如皋]</sup> 敷衍塞责：他是～你的，你不要信他。  
 1. 【[糊大老爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_da_lo_i.md#糊大老爷)】`hv2 da5 lo3 i` <sup>[东台]</sup> 是对糊涂人的戏称或蔑称：要保持清醒头脑，不能当～。  

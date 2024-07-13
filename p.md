@@ -784,7 +784,6 @@
 1. 【[病歪歪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_vae_vae.md#病歪歪)】`pien6 vae1 vae1` <sup>[兴化]</sup> 因久病而身体虚弱的样子。也说“病咍咍”：队长老婆整日～的，说是得了痨病，黄巴黄巴的。（刘仁前《香河风情·香河纪事》）  
 1. 【[病西施](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_xi_shr.md#病西施)】`pien6 xi1 shr1` <sup>[如皋]</sup> 喻体弱而貌美的女子。  
 1. 【[□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pih_do.md#□□)】`pih7 do1` <sup>[泰县]</sup> 学普通话又学不准确的人。  
-1. 【[䥕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pih.md#䥕)】`pih7` <sup>[东台]</sup> 熬盐的浅锅。（旧时写“鐅”）。  
 1. 【[丿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pih.md#丿)】`pih7` <sup>[东台]</sup> 同“䥕”“鐅”，现在多用此字：曹～｜潘～。  
 1. 【[撇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pih.md#撇)】`pih7` <sup>[如皋]</sup> 捞取液体表面的东西：～粥饮汤、～沫。  
 1. 【[撇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pih.md#撇)】`pih7` <sup>[东台]</sup> ① 从表面舀汤。 ② 特指孩子撒娇、嗲：这个小伙有点儿～。  
@@ -800,6 +799,7 @@
 1. 【[撇子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pih_zz.md#撇子)】`pih7 zz` <sup>[兴化]</sup> 一种散口的容器，上有密布的小孔：篮～（苇篾编成）｜塑料～。  
 1. 【[蹩脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pih_jiah_r.md#蹩脚<sub>儿</sub>)】`pih7 jiah7 r` <sup>[如皋]</sup> 见“蹩蹩脚儿”。  
 1. 【[蹩蹩脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pih_pih_jiah_r.md#蹩蹩脚<sub>儿</sub>)】`pih7 pih7 jiah7 r` <sup>[如皋]</sup> 脚掌不能平实着地的脚型。  
+1. 【[鐅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pih.md#鐅)】`pih7` <sup>[东台]</sup> 熬盐的浅锅。又作“䥕”。今又作“丿”。  
 1. 【[鐅缸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pih_gan_r.md#鐅缸<sub>儿</sub>)】`pih7 gan1 r` <sup>[如皋]</sup> 一种浅缸。  
 1. 【[鐅锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pih_gu.md#鐅锅)】`pih7 gu1` <sup>[如东]</sup> 烧盐的一种器皿。锅底平，浅，口径有大有小。  
 1. 【[鐅锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pih_gu.md#鐅锅)】`pih7 gu1` <sup>[兴化]</sup> 比较浅的锅。  

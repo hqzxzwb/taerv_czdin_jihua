@@ -1644,7 +1644,7 @@
 1. 【[捏小鱼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nih_xio_y_r.md#捏小鱼<sub>儿</sub>)】`nih8 xio3 y2 r` <sup>[如皋]</sup> ① 捏去小鱼儿内脏。 ② 喻冬季鼻子流清水，用手捏除去的动作。  
 1. 【[蹑手蹑脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nih_sheu_nih_jiah.md#蹑手蹑脚)】`nih8 sheu3 nih8 jiah7` <sup>[东台]</sup> 形容走路脚步很轻。  
 1. 【[镍角子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nih_gah_zz.md#镍角子)】`nih8 gah7 zz` <sup>[如皋]</sup> 镍质辅币。  
-1. 【[𥬬子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nih_zz.md#𥬬子)】`nih8 zz` <sup>[兴化]</sup> 由竹片编成，圆形置于锅中，其下放水加热蒸面食。𥬬，《广韵·叶韵》尼辄切：竹𥬬。  
+1. 【[𥬬子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nih_zz.md#𥬬子)】`nih8 zz` <sup>[兴化]</sup> 由竹片编成，圆形置于锅中，其下放水加热蒸面食。  
 1. 【[你](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nii.md#你)】`nii3` 你  
 1. 【[你](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nii.md#你)】`nii3` <sup>[如东]</sup> 人称代词。代表听话的人。  
 1. 【[你有你的关门计，我有我的跳墙法](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nii_ieu_nii_dii_guaen_men_ji_ngu_ieu_ngu_dii_tio_qian_faeh.md#你有你的关门计，我有我的跳墙法)】`nii3 ieu3 nii3 dii guaen1 men2 ji5 ngu3 ieu3 ngu3 dii tio5 qian2 faeh7` <sup>[东台]</sup> 一方有计策，另一方有对策。  
