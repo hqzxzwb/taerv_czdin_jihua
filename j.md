@@ -1738,14 +1738,14 @@
 1. 【[决明子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh_mien_zz.md#决明子)】`jiuh7 mien2 zz` <sup>[如东]</sup> 豆科植物决明，也叫野花生。  
 1. 【[决算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh_sun.md#决算)】`jiuh7 sun5` <sup>[东台]</sup> 依照年度预算执行结算而编制的会计年报。  
 1. 【[厥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh.md#厥)】`jiuh7` <sup>[东台]</sup> 晕倒；失去知觉：～过去啊。  
-1. 【[撅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh.md#撅)】`jiuh7` <sup>[兴化]</sup> 翘起：～嘴｜秤杆～得老高。《广韵·月韵》居月切｜“～，～拨物也”。  
-1. 【[撅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh.md#撅)】`jiuh7` <sup>[泰县]</sup> 折断：他把竹子～咖。  
+1. 【[撅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh.md#撅)】`jiuh7` <sup>[兴化]</sup> 翘起：～嘴｜秤杆～得老高。《广韵·月韵》居月切“～，～拨物也”。  
 1. 【[撧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh.md#撧)】`jiuh7` <sup>[东台]</sup> 折断：～断一只筷子。又作“撅”。  
-1. 【[撧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh.md#撧)】`jiuh7` <sup>[兴化]</sup> 折断：把筷子～断｜～树枝。《广韵·薛韵》子悦切｜“～，～断物也”。‖字本作“㔢”。  
+1. 【[撧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh.md#撧)】`jiuh7` <sup>[兴化]</sup> 折断：把筷子～断｜～树枝。《广韵·薛韵》子悦切“～，～断物也”。‖字本作“㔢”。  
+1. 【[撧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh.md#撧)】`jiuh7` <sup>[泰县]</sup> 折断：他把竹子～咖。  
 1. 【[撧咖断吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh_ga_tun_nga.md#撧咖断吖)】`jiuh7 ga tun6 nga` <sup>[如皋]</sup> 扳折：树棒儿捱～。  
-1. 【[橛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh.md#橛)】`jiuh7` <sup>[兴化]</sup> ① 硬挺：硬～～的。 ② 硬的块子：狗屎～子。《集韵·月韵》居月奶｜“～，弋也”（弋ieh8，木桩）  
+1. 【[橛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh.md#橛)】`jiuh7` <sup>[兴化]</sup> ① 硬挺：硬～～的。 ② 硬的块子：狗屎～子。《集韵·月韵》居月切“～，弋也”（弋ieh8，木桩）  
 1. 【[橛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh_zz.md#橛子)】`jiuh7 zz` <sup>[泰县]</sup> 小团团：屎～。  
-1. 【[瘚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh.md#瘚)】`jiuh7` <sup>[兴化]</sup> 昏厥：气啊～过去。《广韵·月韵》居月切｜“～，气逆”。  
+1. 【[瘚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh.md#瘚)】`jiuh7` <sup>[兴化]</sup> 昏厥：气啊～过去。《广韵·月韵》居月切“～，气逆”。  
 1. 【[诀窍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh_qio.md#诀窍)】`jiuh7 qio5` <sup>[东台]</sup> 关键性的方法；窍门：学手艺有好些～要自己慢慢领会。  
 1. 【[𠢤脾气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh_pi_qi.md#𠢤脾气)】`jiuh7 pi2 qi` <sup>[如皋]</sup> 乖僻的脾气。  
 1. 【[捐助](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiun_chv.md#捐助)】`jiun1 chv6` <sup>[东台]</sup> 拿出财物来帮助。  
