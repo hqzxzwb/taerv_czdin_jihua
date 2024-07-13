@@ -16,3 +16,8 @@ xieh7 teu pun2 r
 xieh7 teu pun2 r
 > 兴化方言词典
 - 膝盖骨。
+
+# 膝头盘儿
+xieh7-qih7 teu pun2 r
+> 泰县方言志
+- 膝盖。

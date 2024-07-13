@@ -4,6 +4,6 @@ gua5 kun3
 - 河坎坍塌。
 
 # 挂坎
-gua3 kun3
+gua5 kun3
 > 泰县方言志
 - 河坡。
