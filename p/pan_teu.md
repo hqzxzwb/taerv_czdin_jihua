@@ -15,6 +15,6 @@ pan6 teu
 - 玉米。
 
 # 棒头
-pan6 teu3
+pan6 teu2-3
 > 泰县方言志
 - 棒。
