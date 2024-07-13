@@ -895,7 +895,6 @@
 1. 【[奅<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_r.md#奅<sub>儿</sub>)】`po1 r` <sup>[如东]</sup> 说大话、吹牛皮的人。  
 1. 【[奅<sub>儿</sub>拉沙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_r_la_sha.md#奅<sub>儿</sub>拉沙)】`po1 r la sha` <sup>[如东]</sup> 说大话，说空话：王二～的，没有人喜欢。  
 1. 【[奅<sub>儿</sub>头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_r_teu.md#奅<sub>儿</sub>头)】`po1 r teu2` <sup>[如东]</sup> 说大话、吹牛皮的人：他是一个～。  
-1. 【[庖灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_huei.md#庖灰)】`po1 huei1` <sup>[东台]</sup> 锅膛里柴草的灰烬。（庖指厨房，此处音若“抛”）  
 1. 【[庖灰也有发焐的时候](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_huei_ia_ieu_faeh_v_dii_shr_heu.md#庖灰也有发焐的时候)】`po1 huei1 ia3 ieu3 faeh7 v5 dii shr2 heu` <sup>[东台]</sup> 即使很困难，也有好转的希望，见“庖灰”。  
 1. 【[抛荒田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_huan_tin.md#抛荒田)】`po1 huan1 tin2` <sup>[如皋]</sup> 弃耕的田。  
 1. 【[抛锚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_mo.md#抛锚)】`po1 mo2` <sup>[如东]</sup> 将船上的铁锚抛入水中，固定船位，叫做抛锚。  
@@ -904,9 +903,10 @@
 1. 【[泡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po.md#泡)】`po1` <sup>[泰县]</sup> 量词：一～屎。  
 1. 【[泡灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_huei.md#泡灰)】`po1 huei1` 柴薪灰烬  
 1. 【[泡灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_huei.md#泡灰)】`po1 huei1` <sup>[如皋]</sup> 灶下出的草木灰  
+1. 【[泡灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_huei.md#泡灰)】`po1 huei1` <sup>[如东]</sup> 灶膛里的草灰。  
+1. 【[泡灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_huei.md#泡灰)】`po1 huei1` <sup>[东台]</sup> 锅膛里柴草的灰烬。  
 1. 【[泡泡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_po_r.md#泡泡<sub>儿</sub>)】`po1 po1 r` <sup>[如东]</sup> 圆形物体，如弹子、轮圈等。  
 1. 【[泡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_r.md#泡<sub>儿</sub>)】`po1 r` <sup>[如东]</sup> 一种空心的圆形物体，如电灯泡儿。一种能够浮在水面上的物体，如空心玻璃球、空心塑料球等。也叫浮子。  
-1. 【[煲灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_huei.md#煲灰)】`po1 huei1` <sup>[如东]</sup> 灶膛里的草灰。  
 1. 【[咆躁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_zo.md#咆躁)】`po2 zo5` <sup>[如皋]</sup> 烦躁：伢儿出疹子，才～啊一阵子，刚平伏咖。  
 1. 【[炮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po.md#炮)】`po2` <sup>[如皋]</sup> ① 油炸。 ② 干炒：～姜（中药饮片名）。  
 1. 【[袍服](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_foh.md#袍服)】`po2 foh` <sup>[东台]</sup> 传统戏曲演出的服饰。  

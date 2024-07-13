@@ -180,7 +180,7 @@
 1. 【[解和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_hu.md#解和)】`gae3 hu2` <sup>[兴化]</sup> 消除隔阂，重归于好：他俫闹啊几年的矛盾，近来终于～啊。  
 1. 【[解怀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_huae.md#解怀)】`gae3 huae2` <sup>[如东]</sup> 妇女婚后第一次怀孕，称解怀：翠兰已经解啊怀。  
 1. 【[解怀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_huae.md#解怀)】`gae3 huae2` <sup>[兴化]</sup> 谓妇女第一次生孩子‖也说“开怀”：……而新娘呢，四十岁不～，仍有人叫他新娘子……（马春阳《扬州水乡婚俗散记》）  
-1. 【[解杯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_huae.md#解杯)】`gae3 huae2` <sup>[泰县]</sup> 妇女婚后第一次生孩子。  
+1. 【[解怀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_huae.md#解怀)】`gae3 huae2` <sup>[泰县]</sup> 妇女婚后第一次生孩子。  
 1. 【[解结](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_jih.md#解结)】`gae3 jih7` <sup>[兴化]</sup> 化解长期难以解决的问题：“……不想撞着这官，闹了一场，亏你解了这结……”（《儒林外史》十二）｜不想你一来，帮他俫解啊结。  
 1. 【[解捆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_kuen.md#解捆)】`gae3 kuen3` <sup>[兴化]</sup> 脱衣：他忙吖三天三夜不曾～。  
 1. 【[解缆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_laen.md#解缆)】`gae3 laen3` <sup>[兴化]</sup> 把拴船的铁索或粗绳从桩上解下：～开船。  

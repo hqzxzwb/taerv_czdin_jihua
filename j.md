@@ -13,7 +13,7 @@
 1. 【[叽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#叽)】`ji1` <sup>[如皋]</sup> 副词，很。常组成“叽A的”或“A叽叽”的语式。可为苦、酸、涩、䴛、瘦等的缀词。如皋词典写“𪊆”。  
 1. 【[叽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#叽)】`ji1` <sup>[泰县]</sup> 很：地下～潮的。  
 1. 【[叽嘈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_co.md#叽嘈)】`ji1 co` <sup>[兴化]</sup> 因天气闷热或事情不顺利等原因引起的烦燥感：请你覅～！烦死啊。  
-1. 【[叽呱鬼叫的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_gua_guei_jiao_dii.md#叽呱鬼叫的)】`ji1 gua1 guei3 jiao5 dii` <sup>[如皋]</sup> 号叫。又作“鬼叽哇召”。  
+1. 【[叽呱鬼叫的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_gua_guei_jio_dii.md#叽呱鬼叫的)】`ji1 gua1 guei3 jio5 dii` <sup>[如皋]</sup> 号叫。又作“鬼叽哇召”。  
 1. 【[叽咕若咕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_gv_rah_gv.md#叽咕若咕)】`ji1 gv1 rah8 gv1` <sup>[东台]</sup> （贬）形容背后闲言碎语多。也称“叽吧啰唆”。  
 1. 【[叽咕入咕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_gv_reh_gv.md#叽咕入咕)】`ji1 gv1 reh8 gv1` 嘀咕  
 1. 【[叽叽量](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ji_lian.md#叽叽量)】`ji1 ji1 lian6` <sup>[泰县]</sup> 气量狭窄：这个人～，不要跟他较量。  
@@ -1132,7 +1132,6 @@
 1. 【[揪揪掐掐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_jieu_kaeh_kaeh.md#揪揪掐掐)】`jieu1 jieu1 kaeh7 kaeh7` <sup>[兴化]</sup> 提着皮肉使动扭：这个娘心狠哎，对前头丢下来的伢儿一碰～的。  
 1. 【[揪扭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_nieu.md#揪扭)】`jieu1 nieu3` <sup>[东台]</sup> 抓住，扭打在一块：他俫～啊上吖派出所。  
 1. 【[赳遛遛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_lieu_lieu_r.md#赳遛遛<sub>儿</sub>)】`jieu1 lieu1 lieu1 r` <sup>[如东]</sup> 追赶着到处跑。  
-1. 【[酒端子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_dun_zz.md#酒端子)】`jieu1 dun1 zz` <sup>[泰县]</sup> 漕酒勺油的量器。  
 1. 【[鬏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu.md#鬏)】`jieu1` <sup>[如东]</sup> 头发盘成的结。  
 1. 【[鬏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu.md#鬏)】`jieu1` <sup>[东台]</sup> 头发盘成的结：梳～｜头上梳啊一个～儿。  
 1. 【[鸠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu.md#鸠)】`jieu1` <sup>[东台]</sup> 鸠鸽鸟的统称，常指斑鸠，形状像野鸽，羽毛灰褐色，有斑纹，嘴短，尾长，不善于筑巢。  
@@ -1178,8 +1177,9 @@
 1. 【[酒刺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_cz.md#酒刺)】`jieu3 cz5` <sup>[兴化]</sup> 生在面部的痤疮。也称“粉刺”。  
 1. 【[酒店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_din.md#酒店)】`jieu3 din5` <sup>[如东]</sup> 经营烟酒的商店。  
 1. 【[酒店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_din.md#酒店)】`jieu3 din5` <sup>[如皋]</sup> 卖酱、酒、盐等的店。  
-1. 【[酒端子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_dun_zz.md#酒端子)】`jieu3 dun1 zz` <sup>[如东]</sup> 量酒的衡器。圆筒形，竹制，有底，有柄。分一两、二两、半斤、一斤等规格。  
-1. 【[酒耑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_dun_zz.md#酒耑子)】`jieu3 dun1 zz` <sup>[如皋]</sup> 长竖柄量具，多以竹制。  
+1. 【[酒瓭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_dun_zz.md#酒瓭子)】`jieu3 dun1 zz` <sup>[如东]</sup> 量酒的衡器。圆筒形，竹制，有底，有柄。分一两、二两、半斤、一斤等规格。  
+1. 【[酒瓭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_dun_zz.md#酒瓭子)】`jieu3 dun1 zz` <sup>[如皋]</sup> 长竖柄量具，多以竹制。  
+1. 【[酒瓭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_dun_zz.md#酒瓭子)】`jieu3 dun1 zz` <sup>[泰县]</sup> 漕酒勺油的量器。  
 1. 【[酒饭相待](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_faen_xian_tae.md#酒饭相待)】`jieu3 faen6 xian1 tae6` <sup>[兴化]</sup> 置酒菜热情款待来客：娘家人来啊，她～。  
 1. 【[酒逢知己千杯少，话不投机半句多](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_fon_zhr_ji_qin_bei_sho_hua_beh_teu_ji_bun_jy_du.md#酒逢知己千杯少，话不投机半句多)】`jieu3 fon2 zhr1 ji3 qin1 bei1 sho3 hua6 beh7 teu2 ji1 bun5 jy5 du1` <sup>[东台]</sup> 饮酒、交谈取决于是否情投意合。  
 1. 【[酒鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_guei.md#酒鬼)】`jieu3 guei3` <sup>[如东]</sup> 酷爱喝酒的人。  
@@ -1275,8 +1275,8 @@
 1. 【[接顿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_den_r.md#接顿<sub>儿</sub>)】`jih7 den5 r` <sup>[如皋]</sup> 上下午的加餐。  
 1. 【[接顿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_den_r.md#接顿<sub>儿</sub>)】`jih7 den5 r` <sup>[兴化]</sup> 正餐之外的便餐：大忙时候下午要吃～。  
 1. 【[接顿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_den_r.md#接顿<sub>儿</sub>)】`jih7 den5 r` <sup>[泰县]</sup> 附加的一顿：夏天下午要～。  
-1. 【[接斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_deu.md#接斗)】`jih7 deu4` <sup>[泰县]</sup> 紧接着：我～就来，你稍等刻儿。  
 1. 【[接斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_deu.md#接斗)】`jih7 deu5` <sup>[兴化]</sup> 紧接着：四个武将走后，～又来四个文人。（《火烧赤壁》一）  
+1. 【[接斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_deu.md#接斗)】`jih7 deu5` <sup>[泰县]</sup> 紧接着：我～就来，你稍等刻儿。  
 1. 【[接家伙打家伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_ga_hu_da_ga_hu.md#接家伙打家伙)】`jih7 ga1 hu da3 ga1 hu` <sup>[兴化]</sup> （喻）形容七嘴八舌，人声杂乱：会场上他一言，你一语，～，乱成一锅粥。  
 1. 【[接骨木](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_gueh_moh.md#接骨木)】`jih7 gueh7 moh8` <sup>[如东]</sup> 忍冬科植物接骨木，落叶灌木或乔木。  
 1. 【[接夜觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_ia_go.md#接夜觉)】`jih7 ia6 go5` <sup>[如皋]</sup> 下午入睡不醒，与晚间入睡相连。  

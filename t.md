@@ -606,7 +606,7 @@
 1. 【[淌汗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_hun.md#淌汗)】`tan3 hun6` <sup>[如皋]</sup> ① 喻负担过重，支出过多，十分吃力。 ② 状瓜菜腌出些许汁来。  
 1. 【[淌汗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_hun.md#淌汗)】`tan3 hun6` <sup>[如东]</sup> 流汗：天热，浑身～。  
 1. 【[淌浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_jian.md#淌浆)】`tan3 jian1` <sup>[如东]</sup> 墙壁上往下淋水。没有用处了：这批货淌吖浆。  
-1. 【[淌麻油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_ma_ieu.md#淌麻油)】`tan3 ma3 ieu3` <sup>[兴化]</sup> （戏）流泪。  
+1. 【[淌麻油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_ma_ieu.md#淌麻油)】`tan3 ma2 ieu2` <sup>[兴化]</sup> （戏）流泪。  
 1. 【[淌猫<sub>儿</sub>屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_mo_r_shr.md#淌猫<sub>儿</sub>屎)】`tan3 mo2 r shr3` <sup>[泰县]</sup> 流泪。  
 1. 【[淌猫<sub>儿</sub>尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_mo_r_xy.md#淌猫<sub>儿</sub>尿)】`tan3 mo2 r xy1` <sup>[如皋]</sup> 詈语。指流泪。  
 1. 【[淌猫尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_mo_suei.md#淌猫尿)】`tan3 mo2 suei1` <sup>[兴化]</sup> （戏）流泪。也说“淌麻油”。  
@@ -1684,8 +1684,8 @@
 1. 【[挑眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_ngaen.md#挑眼)】`tio1 ngaen3` <sup>[兴化]</sup> 挑剔毛病，指摘缺点：他家老亲多，礼数不周有人专会～。  
 1. 【[挑荠菜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_qi_cae_r.md#挑荠菜<sub>儿</sub>)】`tio1 qi6 cae5 r` <sup>[如皋]</sup> 采挖荠菜。  
 1. 【[挑<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_r.md#挑<sub>儿</sub>)】`tio1 r` <sup>[如东]</sup> 前后两样东西，中间用扁担穿起来，称挑儿。  
-1. 【[挑绳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_shen_r.md#挑绳<sub>儿</sub>)】`tio1 shen1 r` <sup>[如皋]</sup> 游戏名。二人轮流从对方手上将一圈线绳勾绷成新的几何图形，同时移绷到自己手上。如乱劈柴、大河、伢儿窠箩儿。又名“挑河”。  
 1. 【[挑身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_shen.md#挑身)】`tio1 shen1` <sup>[如东]</sup> 翻身：我的腰疼，睡吖床上不能～。  
+1. 【[挑绳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_shen_r.md#挑绳<sub>儿</sub>)】`tio1 shen2 r` <sup>[如皋]</sup> 游戏名。二人轮流从对方手上将一圈线绳勾绷成新的几何图形，同时移绷到自己手上。如乱劈柴、大河、伢儿窠箩儿。又名“挑河”。  
 1. 【[挑艄木](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_sho_moh.md#挑艄木)】`tio1 sho1 moh8` <sup>[如东]</sup> 帆船搁艄管子上边的两根木梁，叫做挑艄木。  
 1. 【[挑事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_shr.md#挑事)】`tio1 shr6` <sup>[如皋]</sup> 挑起事端，挑拨离间。  
 1. 【[挑事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_shr.md#挑事)】`tio1 shr6` <sup>[泰县]</sup> 挑拨：你不要～。  

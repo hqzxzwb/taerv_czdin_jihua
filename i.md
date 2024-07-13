@@ -844,7 +844,7 @@
 1. 【[一等一](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_den_ieh.md#一等一)】`ieh7 den3 ieh7` <sup>[泰兴]</sup> 第一等中的第一名，形容超群出众：三姑娘无论是相貌，还是才华，在街上总是～的。  
 1. 【[一抖二活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_deu_er_huh.md#一抖二活)】`ieh7 deu3 er6 huh8` <sup>[如皋]</sup> 不住颤抖。  
 1. 【[一斗米是恩人，三石米是仇人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_deu_mi_shr_ngen_ren_saen_daen_mi_shr_cheu_ren.md#一斗米是恩人，三石米是仇人)】`ieh7 deu3 mi3 shr6 ngen1 ren2 saen1 daen5 mi3 shr6 cheu2 ren2` <sup>[如皋]</sup> ① 意为媳妇不孝，姑娘可亲。 ② 适度济人成为恩人，过度济人变为仇人。  
-1. 【[一斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_deu.md#一斗)】`ieh7 deu4` <sup>[泰县]</sup> 一直：～说叫你不要走，你就是不所。  
+1. 【[一斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_deu.md#一斗)】`ieh7 deu5` <sup>[泰县]</sup> 一直：～说叫你不要走，你就是不所。  
 1. 【[一滴鼻涕忑咖锅里，我能派多少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_dieh_pieh_ti_teh_ga_gu_lii_ngu_nen_pae_du_sho.md#一滴鼻涕忑咖锅里，我能派多少)】`ieh7 dieh7 pieh8 ti teh8 ga gu1 lii ngu3 nen2 pae5 du1 sho3` <sup>[泰兴]</sup> “派”，得到，分得。喻指因对自己的利益影响很小就不去计较，这是一种典型的事不关己的个人主义行为。  
 1. 【[一滴水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_dieh_shuei.md#一滴水)】`ieh7 dieh7 shuei3` <sup>[东台]</sup> 旧式木架雕花铺板床，配有灯柜、踏板，有一道门扇和戗板。  
 1. 【[一顶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_dien.md#一顶)】`ieh7 dien3` <sup>[如皋]</sup> 副词，相当于“最”，也可与“最”配用：在我俫班上～他最好！  

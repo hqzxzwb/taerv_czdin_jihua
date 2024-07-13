@@ -318,7 +318,7 @@
 1. 【[打芦䉬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lv_fei.md#打芦䉬)】`da3 lv2 fei5` <sup>[如皋]</sup> 用芦柴篾编织成板块。作建材。  
 1. 【[打骂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma.md#打骂)】`da3 ma` <sup>[东台]</sup> 含沙射影地讽刺、讥笑：才将他说的故事，是在下～你呢，你听不出来？（“骂”轻读）  
 1. 【[打骂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma.md#打骂)】`da3 ma` <sup>[兴化]</sup> 表面骂这个人，实际上骂另一个人，犹“指桑骂槐”：有意见你直说，不要～人。  
-1. 【[打麻绳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma_shen.md#打麻绳)】`da3 ma2 shen1` <sup>[如皋]</sup> 用手摇动简单机械，把三股麻丝同时加捻度，然后反转合成一根麻绳。  
+1. 【[打麻绳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma_shen.md#打麻绳)】`da3 ma2 shen2` <sup>[如皋]</sup> 用手摇动简单机械，把三股麻丝同时加捻度，然后反转合成一根麻绳。  
 1. 【[打麻线](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma_xin.md#打麻线)】`da3 ma2 xin5` <sup>[如皋]</sup> 同打麻绳，径小。  
 1. 【[打码米<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma_mi_r.md#打码米<sub>儿</sub>)】`da3 ma3 mi3 r` <sup>[如东]</sup> 暗地里叽咕，估计。  
 1. 【[打码人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma_ren.md#打码人)】`da3 ma3 ren2` <sup>[如东]</sup> 用比喻的方法讽刺挖苦人。  
@@ -2516,6 +2516,7 @@
 1. 【[倒梢子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_sho_zz.md#倒梢子)】`do5 sho1 zz` <sup>[如皋]</sup> 芦穄；芦粟。嚼食如甘蔗。  
 1. 【[倒舂头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_shon_teu.md#倒舂头)】`do5 shon1 teu2` <sup>[如皋]</sup> 平卧时头部偏低的姿势。  
 1. 【[倒示](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_shr.md#倒示)】`do5 shr` <sup>[如皋]</sup> 贬指。追述待某人的好处来显示某人现在不思回报的可恶：他会～人，你不要收他的礼物。  
+1. 【[倒屎肚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_shr_dv_r.md#倒屎肚<sub>儿</sub>)】`do5 shr3 dv3 r` <sup>[如皋]</sup> 见“倒肚儿”。  
 1. 【[倒缩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_soh.md#倒缩)】`do5 soh` <sup>[兴化]</sup> 形容人体力、智力衰退，言行失序：我望你像～过来啊。｜清·翟灏《通俗编》“人老～，《释名》叟缩也，人及物老皆缩小于旧也”。也作“倒熟”。｜（《儒林外史》三十一、三十二回，即有“倒熟”“倒熟话”一词。）  
 1. 【[倒缩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_soh.md#倒缩)】`do5 soh` <sup>[泰县]</sup> 倒退。  
 1. 【[倒粟子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_soh_zz.md#倒粟子)】`do5 soh7-3 zz` <sup>[东台]</sup> 甜高粱。因为茎秆可食，籽粒反而不食，故名。  
@@ -2867,12 +2868,12 @@
 1. 【[端马桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dun_ma_ton.md#端马桶)】`dun1 ma3 ton3` <sup>[如皋]</sup> 平端，缓步端出去倾倒、涮洗。  
 1. 【[端盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dun_pun.md#端盘)】`dun1 pun2` <sup>[如东]</sup> 办酒席时，将菜放在盘内，用一只手托着，举过头顶，在人群中吆喝着向前走动，送到桌位上去。  
 1. 【[端盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dun_pun.md#端盘)】`dun1 pun2` <sup>[如皋]</sup> 一种大而扁的托盘，用以装饭菜碗端送。  
+1. 【[端<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dun_r.md#端<sub>儿</sub>)】`dun1 r` <sup>[东台]</sup> 植物初绽之嫩芽：这个姑娘的手指头像芦芽～。  
 1. 【[端手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dun_sheu.md#端手)】`dun1 sheu` <sup>[兴化]</sup> 有保留地：本事不能全拿出来，要留个～。  
 1. 【[端屎端尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dun_shr_dun_suei.md#端屎端尿)】`dun1 shr3 dun1 suei1` <sup>[兴化]</sup> 从后面用手托起小孩两腿，让他大小便。  
 1. 【[端午节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dun_v_jih.md#端午节)】`dun1 v3 jih7` <sup>[如东]</sup> 阴历五月初五日是中华民族传统节日端午节。“端”，意为初。“五”字与“午”谐音相通。“初五”等于“端午”。  
 1. 【[端午节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dun_v_jih.md#端午节)】`dun1 v3 jih7` <sup>[东台]</sup> 农历五月初五日。我国传统民间节日，纪念屈原。有裹粽子、插艾草和菖蒲、吃“五红”和“雄黄酒”等习俗。  
 1. 【[端尿端㞎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dun_xy_dun_ba.md#端尿端㞎)】`dun1 xy1 dun1 ba3` <sup>[如皋]</sup> 用双手平托着小孩的一双大腿，使叉开，“坐”在自己胸前以排大小便。  
-1. 【[耑<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dun_r.md#耑<sub>儿</sub>)】`dun1 r` <sup>[东台]</sup> 植物初绽之嫩芽。（《说文·耑部》“耑，物初生之题也。上象生形，下象其根。多官切。”）：这个姑娘的手指头像芦芽～。  
 1. 【[断](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dun.md#断)】`dun3` <sup>[如皋]</sup> 经常写“短”。截取：他经手买货会～钱｜这次至少有200块钱捱他～吖去啊！  
 1. 【[断](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dun.md#断)】`dun3` <sup>[兴化]</sup> 中途截取：这笔钱由经手人～吖去啊。  
 1. 【[断路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dun_lv.md#断路)】`dun3 lv6` <sup>[如东]</sup> 拦路抢劫。断读作上声，表示拦截。  

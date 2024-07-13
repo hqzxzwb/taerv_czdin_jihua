@@ -274,7 +274,7 @@
 1. 【[害怕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hae_pa.md#害怕)】`hae6 pa5` <sup>[如东]</sup> 遇到困难或危险而心中不安或发愁。  
 1. 【[害病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hae_pien.md#害病)】`hae6 pien6` <sup>[如皋]</sup> 生病。  
 1. 【[害病怕鬼叫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hae_pien_pa_guei_jio.md#害病怕鬼叫)】`hae6 pien6 pa5 guei3 jio5` <sup>[兴化]</sup> （喻）人最怕道着心病：听人骂贪官他就脸红，真是～。  
-1. 【[害人不入已，不如不害人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hae_ren_beh_reh_ji_beh_rv_beh_hae_ren.md#害人不入已，不如不害人)】`hae6 ren2 beh7 reh8 ji3 beh7 rv2 beh7 hae6 ren2` <sup>[如皋]</sup>   
+1. 【[害人不入己，不如不害人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hae_ren_beh_reh_ji_beh_rv_beh_hae_ren.md#害人不入己，不如不害人)】`hae6 ren2 beh7 reh8 ji3 beh7 rv2 beh7 hae6 ren2` <sup>[如皋]</sup>   
 1. 【[害人精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hae_ren_jien.md#害人精)】`hae6 ren2 jien1` <sup>[如东]</sup> ① 喜欢诬陷别人的人：单位里有个～。 ② 喜欢捉弄别人的人：她是一个～。  
 1. 【[害人精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hae_ren_jien.md#害人精)】`hae6 ren2 jien1` <sup>[东台]</sup> 指损害他人利益的恶人。  
 1. 【[害人之心不可有，防人之心不可无](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hae_ren_zhr_xien_beh_ku_ieu_fan_ren_zhr_xien_beh_ku_v.md#害人之心不可有，防人之心不可无)】`hae6 ren2 zhr1 xien1 beh7 ku3 ieu3 fan2 ren2 zhr1 xien1 beh7 ku3 v2` <sup>[东台]</sup> 不能害人，但要警惕别人害己。  
@@ -445,7 +445,7 @@
 1. 【[蠚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hah.md#蠚)】`hah7` <sup>[兴化]</sup> （引）靠着：瘦啊～上去。｜皮～咖骨头上。｜两家住啊～住块儿。｜谚曰：开会时间不怕长，弄张板凳～咖墙。  
 1. 【[蠚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hah.md#蠚)】`hah7` <sup>[泰县]</sup> ① 贴紧：他脸上都瘦啊～上去啊。 ② 靠：他俫两家～咖在一起。 ③ 倚靠：把扁担～咖墙上。  
 1. 【[蠚骨疽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hah_gueh_jy.md#蠚骨疽)】`hah7 gueh7 jy1` <sup>[如皋]</sup> 深及骨头的毒疮。  
-1. 【[蠚已](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hah_ji.md#蠚已)】`hah7 ji3` <sup>[如皋]</sup> 见“关己”。如皋词典写“藃”。  
+1. 【[蠚己](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hah_ji.md#蠚己)】`hah7 ji3` <sup>[如皋]</sup> 见“关己”。如皋词典写“藃”。  
 1. 【[蠚墙板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hah_qian_baen.md#蠚墙板)】`hah7 qian2 baen3` <sup>[如皋]</sup> 房屋内层靠墙壁的装饰木板。  
 1. 【[蠚墙插](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hah_qian_chaeh.md#蠚墙插)】`hah7 qian2 chaeh7` <sup>[如皋]</sup> 两山的梁柱，一半砌进墙里。与墙紧在一起，故名。  
 1. 【[蠚墙睏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hah_qian_kuen.md#蠚墙睏)】`hah7 qian2 kuen5` <sup>[如皋]</sup> 詈语，昵语，隐骂人是畜牲：你个～。  
@@ -1069,7 +1069,6 @@
 1. 【[横生倒养](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_shen_do_ian.md#横生倒养)】`hon2 shen1 do5 ian3` <sup>[兴化]</sup> 因胎位不正而难产。  
 1. 【[洪潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_cho.md#洪潮)】`hon2 cho2` <sup>[如东]</sup> ① 大水：今吖是～。 ② 比喻旺盛：棉花已经开～啊。  
 1. 【[红巴拉西的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_ba_la_xi_dii.md#红巴拉西的)】`hon2 ba la1 xi1 dii, hon2 ba la2 xi1 dii` <sup>[如皋]</sup> 红得难看的颜色。  
-1. 【[红尾伯劳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_bei_boh_lo.md#红尾伯劳)】`hon2 bei3 boh7 lo` <sup>[如东]</sup> 候鸟。体长约19厘米。嘴粗有钩，似鹰嘴。夏季在北方繁殖，冬季迁至华南一带，几遍全国。性凶猛。叫声粗犷，激昂多变。栖息在灌木丛中。喜吃昆虫和其他小动物。  
 1. 【[红扁豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_bin_teu.md#红扁豆)】`hon2 bin3 teu6` <sup>[如东]</sup> 豆科植物扁豆红褐色的种子。  
 1. 【[红布帽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_bv_mo_zz.md#红布帽子)】`hon2 bv5 mo6 zz` <sup>[如皋]</sup> 婴幼儿出痧子时戴的红布连成的帽子。  
 1. 【[红茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_cha.md#红茶)】`hon2 cha2` <sup>[如东]</sup> 茶叶的一大类。是全发酶茶。色泽乌黑油润，沏出的茶色红艳，具有特别的香气和滋味。  
@@ -1141,6 +1140,7 @@
 1. 【[红案](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_un.md#红案)】`hon2 un5` <sup>[如东]</sup> 炒菜：买～。  
 1. 【[红案](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_un.md#红案)】`hon2 un5` <sup>[东台]</sup> ① 饮服行业中做菜的工作（相对于“白案”）。 ② 装裱业中兼裱彩色水印木刻的技术。  
 1. 【[红案](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_un.md#红案)】`hon2 un5` <sup>[兴化]</sup> 厨师中负责配菜的。  
+1. 【[红尾伯劳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_vei_boh_lo.md#红尾伯劳)】`hon2 vei3 boh7 lo` <sup>[如东]</sup> 候鸟。体长约19厘米。嘴粗有钩，似鹰嘴。夏季在北方繁殖，冬季迁至华南一带，几遍全国。性凶猛。叫声粗犷，激昂多变。栖息在灌木丛中。喜吃昆虫和其他小动物。  
 1. 【[红蚊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_ven_zz.md#红蚊子)】`hon2 ven2 zz` <sup>[如皋]</sup> 库蚊。  
 1. 【[红虾<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_xia_r.md#红虾<sub>儿</sub>)】`hon2 xia1 r` <sup>[如东]</sup> 对虾科动物鹰爪虾，体长约6厘米。体较粗短，甲壳很厚，表面粗糙不平。额角上缘有锯齿。头胸甲的触角刺具较短的纵缝。腹部背面有节。尾节末端尖细，两侧有活动刺。体红黄色，腹部各节前缘白色，后背为红黄色，弯曲时颜色的浓淡与鸟爪相似。生活在泥沙底的浅海中。  
 1. 【[红苋菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_xiaen_cae.md#红苋菜)】`hon2 xiaen6 cae5` <sup>[如东]</sup> 苋科植物老枪谷，一年生草本。  
@@ -1196,6 +1196,7 @@
 1. 【[呵标](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_bio.md#呵标)】`hu1 bio1` <sup>[如皋]</sup> 器物的弯曲、缺陷、伤痕：床脚上有块～；他买杲子带不住一点儿～。“呵”表音。  
 1. 【[呵大卵泡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_da_lun_po.md#呵大卵泡)】`hu1 da6 lun3 po1` <sup>[泰县]</sup> 奉承：你专门～。  
 1. 【[呵大卵脬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_da_lun_po.md#呵大卵脬)】`hu1 da6 lun3 po1` <sup>[兴化]</sup> 对权势者吹捧、奉承：（石砺）却不肯学这些假山人、假墨客，一味奴颜婢膝，捧那臭脚，～……（《三刺》十二）  
+1. 【[呵大卵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_da_lun_zz.md#呵大卵子)】`hu1 da6 lun3 zz` <sup>[东台]</sup> 讽喻溜须拍马的粗话。  
 1. 【[呵腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_io.md#呵腰)】`hu1 io1` <sup>[如皋]</sup> 腰部前曲。  
 1. 【[呵唏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xi.md#呵唏)】`hu1 xi` <sup>[兴化]</sup> 哈欠：他晚上睡得迟，白天直打～。  
 1. 【[欢喜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xi.md#欢喜)】`hu1 xi, hun1 xi` 喜欢，喜爱，疼爱：他～吃肉。/他喜欢吃肉。｜奶奶～孙子。/奶奶疼爱孙子。  
@@ -1310,7 +1311,7 @@
 1. 【[禾帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_ban.md#禾帮)】`hu2 ban1` <sup>[如皋]</sup> 禾字旁儿（禾）：和秋种。  
 1. 【[荷包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_bo.md#荷包)】`hu2 bo1` <sup>[如东]</sup> 装饰品。用布缝制小袋，内装香草，系在身上能散发出幽幽的香味。  
 1. 【[荷包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_bo.md#荷包)】`hu2 bo1` <sup>[泰县]</sup> 倾听。  
-1. 【[荷包蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_bo_taen.md#荷包蛋)】`hu2 bo1 taen1` <sup>[如东]</sup> 鸡蛋放在水中煮沸，蛋黄尚未硬结时，即捞起来，加糖，称荷包蛋。  
+1. 【[荷包蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_bo_taen.md#荷包蛋)】`hu2 bo1 taen6` <sup>[如东]</sup> 鸡蛋放在水中煮沸，蛋黄尚未硬结时，即捞起来，加糖，称荷包蛋。  
 1. 【[荷包蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_bo_taen.md#荷包蛋)】`hu2 bo1 taen6` <sup>[如皋]</sup> 去壳入油煎的整蛋。（去壳入水煮的整蛋叫蛋瘪子）  
 1. 【[荷包蛵蛉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_bo_xien_lien_r.md#荷包蛵蛉<sub>儿</sub>)】`hu2 bo1 xien1 lien2 r` <sup>[如皋]</sup> 绿蜻蜓。体大而美。  
 1. 【[荷包杏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_bo_xien_zz.md#荷包杏子)】`hu2 bo1 xien6 zz` <sup>[如皋]</sup> 一种个体较大的杏子品种。  
@@ -2678,7 +2679,6 @@
 1. 【[痪掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_tio.md#痪掉)】`hun6 tio` <sup>[东台]</sup> 指某种植物因被其它东西遮蔽，影响通风透光而生长不良，像瘫痪了似的：这里杂草太多，再不薅掉，就要把菜～。  
 1. 【[蔊菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_cae.md#蔊菜)】`hun6 cae5` <sup>[如东]</sup> 十字花科植物蔊菜，又名野麻菜，多年生草本。  
 1. 【[𤽂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun.md#𤽂)】`hun6` <sup>[兴化]</sup> 生醭，咸菜及其卤汁中白色的霉点：咸菜～吖。～，《集韵·翰韵》侯旰切：“～，《博雅》白也。”  
-1. 【[呵大卵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_da_lun_zz.md#呵大卵子)】`hv1 da6 lun3 zz` <sup>[东台]</sup> 讽喻溜须拍马的粗话。  
 1. 【[呼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv.md#呼)】`hv1` <sup>[如东]</sup> 小睡：我在椅子上～刻儿。  
 1. 【[呼啊命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_a_mien.md#呼啊命)】`hv1 a mien6` <sup>[如皋]</sup> 拼命地：他挨松吖绑就～的遛。  
 1. 【[呼剥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_bah.md#呼剥)】`hv1 bah7` <sup>[泰县]</sup> 急忽忽：你倒～。  
@@ -2830,10 +2830,10 @@
 1. 【[𢮎毛昌纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_mo_chan_zhr.md#𢮎毛昌纸)】`hv3 mo2 chan1 zhr3` <sup>[如东]</sup> 在灵柩出殡途中，丧家不断地向外抛出毛昌纸，表示丢下了买路钱。  
 1. 【[𢮎种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_zhon.md#𢮎种)】`hv3 zhon3` <sup>[如皋]</sup> 撒种：～麦种、～菜种。  
 1. 【[□汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_tan.md#□汤)】`hv5 tan1` <sup>[兴化]</sup> 下面条或下汤圆的水因使用多次而变稠。又谓“淴汤”。  
-1. 【[宴宴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_hv.md#宴宴)】`hv5 hv5` <sup>[如皋]</sup> 转动、舞动、吹动、飘动的样子。  
 1. 【[戽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv.md#戽)】`hv5` <sup>[如皋]</sup> ① 风吹：～风、风～～的。 ② 快速转动：车轮儿只～。 ③ 形容吸烟：香烟～起来啊。 ④ 形容舞动、飘动：苍蝇乱～。  
 1. 【[戽风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_fon.md#戽风)】`hv5 fon1` <sup>[如皋]</sup> 迎风，承受风力：衣裳～，捱吹啊鼓起来啊。  
 1. 【[戽风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_fon.md#戽风)】`hv5 fon1` <sup>[兴化]</sup> 物体前进时受到风的阻力，兴化词典写“护风”：……乃因他穿的长衣服，走起路来……（《武松》六）也。说“夯风”。  
+1. 【[戽戽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_hv.md#戽戽)】`hv5 hv5` <sup>[如皋]</sup> 转动、舞动、吹动、飘动的样子。  
 1. 【[戽水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_shuei.md#戽水)】`hv5 shuei3` <sup>[如东]</sup> ① 水车提水。 ② 人工把水从低处往高处泼。  
 1. 【[戽水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_shuei.md#戽水)】`hv5 shuei3` <sup>[如皋]</sup> ① 文称，指水车提水。口称踏水、赶水、吆水。 ② 二人对立握绳拉一木桶从低处取水望高处倒的过程。这是本义。  
 1. 【[𥲉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_zz.md#𥲉子)】`hv5 zz` <sup>[如皋]</sup> 一种花瓶式扁竹篓，渔人用以𣥼鱼，旧时学校用以𣥼字纸儿。  

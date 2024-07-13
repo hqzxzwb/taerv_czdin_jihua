@@ -985,7 +985,6 @@
 1. 【[嗯二唔二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_er_v_er.md#嗯二唔二)】`ngen1 er6 v3 er6` <sup>[兴化]</sup> 支支吾吾，不爽气：找他一点小事，有得～唻！  
 1. 【[恩惠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_huei.md#恩惠)】`ngen1 huei6` <sup>[东台]</sup> 也称恩德，好处。  
 1. 【[恩实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_sheh.md#恩实)】`ngen1 sheh8` <sup>[如东]</sup> 家中比较富裕  
-1. 【[硬抲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_ka.md#硬抲)】`ngen1 ka1` <sup>[泰县]</sup> 用力塞进；这门你不要～。  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen.md#□)】`ngen2` 推  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen.md#□)】`ngen2` <sup>[如皋]</sup> 蛮横顶撞：这个伢儿就会玩～，其实没得用。  
 1. 【[□大筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_da_jien.md#□大筋)】`ngen2 da6 jien1` <sup>[如皋]</sup> 蛮横顶撞的脾性，或指人。  
@@ -1022,6 +1021,7 @@
 1. 【[硬蹫蹫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_jyeh_jyeh.md#硬蹫蹫)】`ngen6 jyeh7 jyeh7` <sup>[东台]</sup> ① 形容很硬（含厌恶意）。 ② 形容态度生硬。  
 1. 【[硬蹫蹫的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_jyeh_jyeh_dii.md#硬蹫蹫的)】`ngen6 jyeh7 jyeh7 dii` <sup>[如皋]</sup> 硬挺的样子：挂啊钩子上的湿手巾捱冻得～的，活像个鱼干儿。皮球打足咖气，～。  
 1. 【[硬抲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_ka.md#硬抲)】`ngen6 ka1` <sup>[兴化]</sup> 硬塞：硬面的馒头吃不下去就～。  
+1. 【[硬抲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_ka.md#硬抲)】`ngen6 ka1` <sup>[泰县]</sup> 用力塞进；这门你不要～。  
 1. 【[硬跍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_kv.md#硬跍)】`ngen6 kv1` <sup>[如皋]</sup> ① 硬性要求，不达目的不止。 ② 连鞋袜在泥水之中走，毫不爱惜。  
 1. 【[硬剌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_laeh.md#硬剌)】`ngen6 laeh` <sup>[如皋]</sup> 褒指质量好：这双鞋子的牛皮底～些，买这双吧。  
 1. 【[硬剌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_laeh.md#硬剌)】`ngen6 laeh` <sup>[如东]</sup> ① 坚硬：这根料子～。 ② 结实：老人的身体还蛮～的。  

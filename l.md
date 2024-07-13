@@ -1037,6 +1037,7 @@
 1. 【[犁把手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_ba_sheu.md#犁把手)】`li2 ba3 sheu3` <sup>[如东]</sup> 犁梢上的短木棍，供犁手提犁使用。  
 1. 【[犁把手<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_ba_sheu_r.md#犁把手<sub>儿</sub>)】`li2 ba3 sheu3 r` <sup>[如皋]</sup> 犁后部右侧的短木，供耕者提犁身用。  
 1. 【[犁柄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_bien.md#犁柄)】`li2 bien5` <sup>[如皋]</sup> 耕者扶犁用的长柄。  
+1. 【[犁鞭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_bin_zz.md#犁鞭子)】`li2 bin1 zz` <sup>[如东]</sup> 工具。由鞭杆和鞭绳构成。鞭杆是一根木棍，长约三尺，用于撑犁和掘土。鞭绳由黄麻搓成，一头粗，一头细，用于赶牛。  
 1. 【[犁笮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_cheh.md#犁笮)】`li2 cheh8` <sup>[如东]</sup> 连接犁盘子与槅头的缆绳，叫犁笮。  
 1. 【[犁底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_di.md#犁底)】`li2 di3` <sup>[如东]</sup> 木制，长方形，在犁的底部，安装犁楗、犁梢和犁头用。  
 1. 【[犁底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_di.md#犁底)】`li2 di3` <sup>[如皋]</sup> 犁身最下部贴泥的木料。  
@@ -1089,7 +1090,6 @@
 1. 【[娌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li.md#娌)】`li3` <sup>[东台]</sup> 弟之妻谓之～：妯～（兄弟之妻的合称）。  
 1. 【[李树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_shv.md#李树)】`li3 shv6` <sup>[如东]</sup> 蔷薇科植物李树，落叶乔木。  
 1. 【[李铁拐的葫芦——不晓得卖的甚的药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_tih_guae_dii_hv_lv_beh_xio_deh_mae_dii_shen_nii_iah.md#李铁拐的葫芦——不晓得卖的甚的药)】`li3 tih7 guae3 dii hv2 lv beh7 xio3 deh7 mae6 dii shen nii iah8` <sup>[东台]</sup>   
-1. 【[犁鞭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_bin_zz.md#犁鞭子)】`li3 bin1 zz` <sup>[如东]</sup> 工具。由鞭杆和鞭绳构成。鞭杆是一根木棍，长约三尺，用于撑犁和掘土。鞭绳由黄麻搓成，一头粗，一头细，用于赶牛。  
 1. 【[理不到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_beh_do.md#理不到)】`li3 beh7 do5` <sup>[东台]</sup> 记不得，顾不上：医生关照我锻炼，可我病一好就～啊。  
 1. 【[理择](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_cheh.md#理择)】`li3 cheh8` <sup>[如东]</sup> 处理：家里的事也要去～下子。  
 1. 【[理择](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_cheh.md#理择)】`li3 cheh8` <sup>[兴化]</sup> ① 安排、处理：出差家来，先把积压的事情～咖子。 ② 调理：你这一向面黄肌瘦，要请个先生～～。  
@@ -2490,7 +2490,7 @@
 1. 【[拢边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_bin.md#拢边)】`lon3 bin1` <sup>[东台]</sup> 靠拢、沾边：这件事他不～。  
 1. 【[拢边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_bin.md#拢边)】`lon3 bin1` <sup>[兴化]</sup> 到位、接近：这块有事，他俫一个都不～。｜他见这个女人凶狠泼辣，吓得不敢～。  
 1. 【[拢边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_bin.md#拢边)】`lon3 bin1` <sup>[泰县]</sup> 接近：小赵现在跟我都不～。  
-1. 【[拢缠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_chin.md#拢缠)】`lon3 chin5` <sup>[如皋]</sup> 靠拢、接触。  
+1. 【[拢𢷹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_chin.md#拢𢷹)】`lon3 chin5` <sup>[如皋]</sup> 靠拢、接触。  
 1. 【[拢家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_ga.md#拢家)】`lon3 ga1` <sup>[如东]</sup> 外出后，经过家乡，顺便到家里看一下。  
 1. 【[拢下子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_ha_zz.md#拢下子)】`lon3 ha zz` <sup>[如皋]</sup> 见“拢”。  
 1. 【[拢共](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_kon.md#拢共)】`lon3 kon6` 一共，总共  
@@ -2573,7 +2573,7 @@
 1. 【[萝卜头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_poh_teu_r.md#萝卜头<sub>儿</sub>)】`lu2 poh teu2 r` <sup>[如东]</sup> 个体小的萝卜，进行腌制，为普通蔬菜。  
 1. 【[萝卜鲞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_poh_xian.md#萝卜鲞)】`lu2 poh xian3` <sup>[兴化]</sup> 腌萝卜干：这薄粥、这～，在此时此境下，玫琇吃得特别香。（艾煊《乡关何处》）  
 1. 【[萝卜干<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_poh_gun_r.md#萝卜干<sub>儿</sub>)】`lu2 poh8 gun1 r` <sup>[如皋]</sup> 用秋萝卜切成橘子丫儿状，晒半干（风干脱水），浸栀子花水后加花椒盐腌，下缸压紧封存，泥灰封口，数日成熟。  
-1. 【[萝卜朳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_poh_pa_r.md#萝卜朳<sub>儿</sub>)】`lu2 poh8 pa2 r` <sup>[如皋]</sup> 萝卜田里中耕用的如意形小朳儿。  
+1. 【[萝卜筢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_poh_pa_r.md#萝卜筢<sub>儿</sub>)】`lu2 poh8 pa2 r` <sup>[如皋]</sup> 萝卜田里中耕用的如意形小筢儿。  
 1. 【[萝卜丝<sub>儿</sub>刨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_poh_sz_r_po_zz.md#萝卜丝<sub>儿</sub>刨子)】`lu2 poh8 sz1 r po6 zz` <sup>[如皋]</sup> 专刨萝卜丝儿的礤床。像洗衣搓板，中有方空窟，装有一排排小圆洞刨口的铜片。  
 1. 【[萝卜头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_poh_teu_r.md#萝卜头<sub>儿</sub>)】`lu2 poh8 teu2 r` <sup>[如皋]</sup> 个体小的萝卜，切块下酱缸腌成酱菜。  
 1. 【[萝卜鲞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_poh_xian.md#萝卜鲞)】`lu2 poh8 xian3` <sup>[如皋]</sup> 个体大的萝卜纵切成两半，晒七成干，椒盐腌，下缸封存数日成熟。  

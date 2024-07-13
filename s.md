@@ -276,7 +276,6 @@
 1. 【[涎漓漓的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_la_la_dii.md#涎漓漓的)】`saen2 la2 la2 dii` <sup>[如皋]</sup> ① 状馋。 ② 状年老。 ③ 状病态。  
 1. 【[涎沫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_muh_zz.md#涎沫子)】`saen2 muh8 zz` <sup>[如皋]</sup> 唾液。  
 1. 【[涎沫子味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_muh_zz_vei.md#涎沫子味)】`saen2 muh8 zz vei6` <sup>[如皋]</sup> 唾液干后的臭味。  
-1. 【[涎腥气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_qien_qi.md#涎腥气)】`saen2 qien qi5` <sup>[如皋]</sup> 唾液干后的臭味。  
 1. 【[涎水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_shuei.md#涎水)】`saen2 shuei3` <sup>[东台]</sup> 口水，较多的唾沫：咽～。  
 1. 【[涎胎<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_tae_r.md#涎胎<sub>儿</sub>)】`saen2 tae1 r` <sup>[如东]</sup> 口腔中汾泌唾液的腺体。  
 1. 【[涎胎<sub>儿</sub>破啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_tae_r_pu_a.md#涎胎<sub>儿</sub>破啊)】`saen2 tae1 r pu5 a` <sup>[如东]</sup> 小儿唾液腺体发生异常，嘴里经常淌口水，称涎胎儿破了。  
@@ -284,6 +283,7 @@
 1. 【[涎唾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_tu_zz.md#涎唾子)】`saen2 tu5 zz` <sup>[如皋]</sup> 唾液。  
 1. 【[涎唾子气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_tu_zz_qi.md#涎唾子气)】`saen2 tu5 zz qi5` <sup>[如皋]</sup> 唾液干后的臭味。  
 1. 【[涎唾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_tv.md#涎唾)】`saen2 tv5` <sup>[东台]</sup> 同“涎水”。  
+1. 【[涎腥气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_xien_qi.md#涎腥气)】`saen2 xien qi5` <sup>[如皋]</sup> 唾液干后的臭味。  
 1. 【[伞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen.md#伞)】`saen3` <sup>[如东]</sup> 由伞头、伞骨、伞柄组成。伞骨为竹丝或铁丝。由810根伞骨构成锥体。伞骨上蒙油纸、油布或丝绸布塑料布。可以开合。撑开伞骨，能够挡雨、遮阳。例如雨伞、阳伞等。  
 1. 【[伞顶漏雨——搞到自己头上来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_dien_leu_y_go_do_cz_ji_teu_shan_lae_a.md#伞顶漏雨——搞到自己头上来啊)】`saen3 dien3 leu6 y3 go3 do5 cz6 ji3 teu2 shan6 lae2 a` <sup>[东台]</sup>   
 1. 【[伞骨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_gueh_zz.md#伞骨子)】`saen3 gueh7 zz` <sup>[兴化]</sup> 伞的骨架，由铁丝或竹篾制成，连着伞柄，可使伞张开。  
@@ -2172,6 +2172,7 @@
 1. 【[少年豪气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_nin_ho_qi.md#少年豪气)】`sho5 nin2 ho2 qi5` <sup>[兴化]</sup> 指年轻气盛：……一个叫做窦尚文，一个叫做窦尚武，多是～，眼底无人之辈。（《二刻》九）  
 1. 【[少年豪气的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_nin_ho_qi_dii.md#少年豪气的)】`sho5 nin2 ho2 qi5 dii` <sup>[如皋]</sup> 责语。意为：少年人正是充满毫情的时候，不该暮气沉沉、老气横秋。  
 1. 【[少年老人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_nin_lo_ren.md#少年老人)】`sho5 nin2 lo3 ren` <sup>[如皋]</sup> 年轻而体弱显得衰老的人。  
+1. 【[少年麻木](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_nin_ma_moh.md#少年麻木)】`sho5 nin2 ma2 moh8` <sup>[兴化]</sup> 形容少不更事，目空一切：有人说他是～，不晓得是真是假。  
 1. 【[少年伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_nin_nga_r.md#少年伢<sub>儿</sub>)】`sho5 nin2 nga2 r` 年轻人，青少年  
 1. 【[少年伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_nin_nga_r.md#少年伢<sub>儿</sub>)】`sho5 nin2 nga2 r` <sup>[如皋]</sup> 青、少年人。  
 1. 【[少年伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_nin_nga_r.md#少年伢<sub>儿</sub>)】`sho5 nin2 nga2 r` <sup>[如东]</sup> 青少年人：来啊一些～。  
@@ -2185,7 +2186,6 @@
 1. 【[少年亡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_nin_van.md#少年亡)】`sho5 nin2 van2` <sup>[兴化]</sup> 咒骂人夭亡。  
 1. 【[少年亡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_nin_van.md#少年亡)】`sho5 nin2 van2` <sup>[泰县]</sup> ① （禁忌语）骂不听话惹事的年轻人。 ② 夭折的小孩。  
 1. 【[少年小伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_nin_xio_hu.md#少年小伙)】`sho5 nin2 xio3 hu3` <sup>[兴化]</sup> 年轻男子：一路上，第一个遇到的是个种田的～，二十多岁……（兴文《三个女婿对对子》）  
-1. 【[少年麻木](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_non_ma_moh.md#少年麻木)】`sho5 non2 ma2 moh8` <sup>[兴化]</sup> 形容少不更事，目空一切：有人说他是～，不晓得是真是假。  
 1. 【[少亡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_van.md#少亡)】`sho5 van2` <sup>[如皋]</sup> ① 未过三十三岁“本寿”而死亡。 ② 詈语。咒某年轻人早死。常作名词：你这个～，要上哪许去呀！  
 1. 【[少壮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_zhuan.md#少壮)】`sho5 zhuan5` <sup>[如东]</sup> 三十至四十岁年龄段的人：～派。形容老年人身体结实，不显得苍老。｜看他这吖～，其实年纪已经不小啊。  
 1. 【[少壮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_zhuan.md#少壮)】`sho5 zhuan5` <sup>[兴化]</sup> 指人的容颜比实际年龄显得年轻：“（刘将军）虽四旬开外年纪，生得一……”（扬二《甘露寺相婿》）  
@@ -3269,7 +3269,6 @@
 1. 【[䴛小菜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_xio_cae_r.md#䴛小菜<sub>儿</sub>)】`so5 xio3 cae5 r` <sup>[如皋]</sup> 见“䴛菜”。  
 1. 【[䴛灒灒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_zaen_zaen.md#䴛灒灒)】`so5 zaen5 zaen5` <sup>[如东]</sup> 有些咸味，比较合口：这碗菜～的，好吃。  
 1. 【[䴛灒灒的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_zaen_zaen_dii.md#䴛灒灒的)】`so5 zaen5 zaen5 dii` <sup>[如皋]</sup> 咸味适口。  
-1. 【[倒屎肚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_shr_dv_r.md#倒屎肚<sub>儿</sub>)】`so5 shr3 dv3 r` <sup>[如皋]</sup> 见“倒肚儿”。  
 1. 【[扫把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_ba.md#扫把)】`so5 ba3` <sup>[如东]</sup> 用竹枝扎成，把身较长，扇面较宽，用于打扫场院。  
 1. 【[扫帚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_zheu.md#扫帚)】`so5 zheu3` <sup>[如东]</sup> 用高梁苗子扎成，前端扁形，后边有柄。用于扫地。  
 1. 【[扫帚眉毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_zheu_mi_mo.md#扫帚眉毛)】`so5 zheu3 mi2 mo2` <sup>[如东]</sup> 粗眉：吴强有一副漂亮的～。  

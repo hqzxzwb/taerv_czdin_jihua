@@ -265,7 +265,6 @@
 1. 【[䞗篷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_pon.md#䞗篷)】`cha1 pon2` <sup>[兴化]</sup> ① 把篷布扯到篷篙上，使风车旋转，取水灌田。 ② 把帆扯上桅杆，使船借风力航行。  
 1. 【[䞗旗竿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_qi_gun.md#䞗旗竿)】`cha1 qi2 gun3` <sup>[如皋]</sup> 在高竿上升起旗竿，并且使尾部向下，使头部的旗子扬起。  
 1. 【[䞗旗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_qi_zz.md#䞗旗子)】`cha1 qi2 zz` <sup>[东台]</sup> 上世纪七十年代以前，各生产队以升旗通知农民上工。  
-1. 【[俥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha.md#俥)】`cha1` <sup>[如东]</sup> 船上动力机器的简称。两部机器称两部俥。起动机器，称开俥。  
 1. 【[叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha.md#叉)】`cha1` <sup>[兴化]</sup> ① 架住人的腋部往外推：把他～出去。 ② 指出别人言语中的错误：他七说八说的，捱人家～住啊。 ③ 大块的夹菜：一碗菜上来背不住他几一～。 ④ 用筷子把面条从锅里夹到碗里，或把面条挑进口中：～面。  
 1. 【[叉话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_hua.md#叉话)】`cha1 hua6` <sup>[兴化]</sup> 插嘴：我俫说周正事，你不要～。  
 1. 【[叉鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ji.md#叉鸡)】`cha1 ji1` <sup>[兴化]</sup> 偷鸡：哪块来的“桃子”？这是～的给鸡起的别名。～，……叫做“崩桃子”。（扬二《时迁偷鸡》）  
@@ -305,6 +304,7 @@
 1. 【[蛼螯𧒘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ngo_vae_r.md#蛼螯𧒘<sub>儿</sub>)】`cha1 ngo vae1 r` <sup>[如皋]</sup> 蛤蜊壳。  
 1. 【[蛼螯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ngo.md#蛼螯)】`cha1 ngo2` <sup>[如东]</sup> 帘蛤科动物蛼螯。周代叫蜃，南朝称蛼螯。南朝。宋·谢灵运在《答弟书》中说：“车螯不如北海。”也叫黄蛤、蛼𧋋。后字又音u，hu，fv。  
 1. 【[訍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha.md#訍)】`cha1` <sup>[如皋]</sup> 攻讦其短：他信口雌黄，捱人家一～就瘪咖嘴。  
+1. 【[车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha.md#车)】`cha1` <sup>[如东]</sup> 船上动力机器的简称。两部机器称两部车。起动机器，称开车。  
 1. 【[车把子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ba_zz.md#车把子)】`cha1 ba5 zz` <sup>[如皋]</sup> 小车儿向后伸出的两根长柄，是推车着力和掌握的部位。  
 1. 【[车帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ban.md#车帮)】`cha1 ban1` <sup>[如东]</sup> 牛车部件。车盘四周高出堂板的方木。  
 1. 【[车边桄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_bin_kuan.md#车边桄)】`cha1 bin1 kuan1` <sup>[如皋]</sup> 水车两边载重部位的弯边框，又叫“车杠”。  
