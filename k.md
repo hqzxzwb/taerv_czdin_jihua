@@ -769,8 +769,6 @@
 1. 【[共账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_zhan.md#共账)】`kon6 zhan5` <sup>[兴化]</sup> 互有账目往来：我俫～七八年，不曾有过差错。  
 1. 【[共总](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_zon.md#共总)】`kon6 zon3` <sup>[如皋]</sup> 总共。  
 1. 【[共总](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_zon.md#共总)】`kon6 zon3` <sup>[东台]</sup> 一共；合计；总共。  
-1. 【[圐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku.md#圐)】`ku1` <sup>[如皋]</sup> ① 画圈：～圆圈儿、把字～掉。 ② 日、月之晕：太阳～啊、凉日子～啊。  
-1. 【[圐仿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku_fan.md#圐仿)】`ku1 fan3` <sup>[如皋]</sup> 看毛笔字练习簿时，给写得好的字用红笔加圆圈，以示嘉奖。  
 1. 【[棵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku.md#棵)】`ku1` <sup>[东台]</sup> 除作为量词外，还指移植后成活的植株：醒～。  
 1. 【[棵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku_zz.md#棵子)】`ku1 zz` <sup>[如皋]</sup> 农作物、蔬菜等单株的大小：黄英菜的～大，大～有二十几斤。  
 1. 【[棵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku_zz.md#棵子)】`ku1 zz` <sup>[兴化]</sup> 指植物的茎和叶：这田里黄芽菜（大白菜）～不小。｜这个树苗～不小。  
@@ -778,10 +776,11 @@
 1. 【[疴疴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku_ku_r.md#疴疴<sub>儿</sub>)】`ku1 ku1-3 r` <sup>[东台]</sup> 口腔中的小疹泡。  
 1. 【[科话<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku_hua_r.md#科话<sub>儿</sub>)】`ku1 hua6 r` <sup>[如皋]</sup> 插科打诨，诙谐有趣的话，或指某些惹笑的黄段子。  
 1. 【[窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku.md#窠)】`ku1` <sup>[如东]</sup> ① 窝：鸟～。 ② 圈：把这块地～起来。  
-1. 【[窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku.md#窠)】`ku1` <sup>[如皋]</sup> 喻家：金～、银～、抵不上自家的穷～。  
+1. 【[窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku.md#窠)】`ku1` <sup>[如皋]</sup> ① 喻家：金～、银～、抵不上自家的穷～。 ② 画圈（原文作“圐”）：～圆圈儿、把字～掉。 ③ 日、月之晕（原文作“圐”）：太阳～啊、凉日子～啊。  
 1. 【[窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku.md#窠)】`ku1` <sup>[东台]</sup> 窝。也作量词，指动物的一胎或一次孵出：一～小猪。  
 1. 【[窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku.md#窠)】`ku1` <sup>[兴化]</sup> ① 动物怀胎：收～；有～。 ② 受胎或刚生过仔的母畜：～猪；～狗。  
 1. 【[窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku.md#窠)】`ku1` <sup>[泰县]</sup> 窝：狗～。  
+1. 【[窠仿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku_fan.md#窠仿)】`ku1 fan3` <sup>[如皋]</sup> 看毛笔字练习簿时，给写得好的字用红笔加圆圈，以示嘉奖。  
 1. 【[窠狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku_geu.md#窠狗)】`ku1 geu3` <sup>[如皋]</sup> 哺乳期的母狗，凶猛。为护崽可攻击人。  
 1. 【[窠狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku_geu.md#窠狗)】`ku1 geu3` <sup>[东台]</sup> 刚生养小狗的母狗。  
 1. 【[窠虾蟆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku_ha_ma.md#窠虾蟆)】`ku1 ha2 ma2-3` <sup>[东台]</sup> 一边念咒语，一边用黑墨在小孩腮帮耳垂下涂抹个实心黑圆圈，是旧时治疗腮腺炎的巫术。（此处“窠”指先圈后涂抹的动作）  

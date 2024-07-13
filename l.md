@@ -1220,7 +1220,7 @@
 1. 【[凉月子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_iuh_zz.md#凉月子)】`lian2 iuh8 zz` <sup>[东台]</sup> 月亮。  
 1. 【[凉月子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_iuh_zz.md#凉月子)】`lian2 iuh8 zz` <sup>[泰县]</sup> 月亮。  
 1. 【[凉月子底下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_iuh_zz_di_ha.md#凉月子底下)】`lian2 iuh8 zz di3 ha` <sup>[如皋]</sup> 月光下。  
-1. 【[凉月子圐啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_iuh_zz_ku_a.md#凉月子圐啊)】`lian2 iuh8 zz ku1 a` <sup>[如皋]</sup> 月晕。  
+1. 【[凉月子窠啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_iuh_zz_ku_a.md#凉月子窠啊)】`lian2 iuh8 zz ku1 a` <sup>[如皋]</sup> 月晕。  
 1. 【[凉月子心里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_iuh_zz_xien_lii.md#凉月子心里)】`lian2 iuh8 zz xien1 lii` <sup>[如皋]</sup> 月光下。  
 1. 【[凉快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_kuae.md#凉快)】`lian2 kuae5` <sup>[如东]</sup> 凉爽，舒适。  
 1. 【[凉快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_kuae.md#凉快)】`lian2 kuae5` <sup>[东台]</sup> 清凉爽快。  
