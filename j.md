@@ -866,7 +866,6 @@
 1. 【[斤求两](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_qieu_lian.md#斤求两)】`jien1 qieu2 lian3` <sup>[如皋]</sup> 口诀。  
 1. 【[禁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien.md#禁)】`jien1` <sup>[如皋]</sup> 抖：打寒～、打尿～。如皋词典写“痉”。  
 1. 【[禁不住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_beh_chv.md#禁不住)】`jien1 beh chv6` <sup>[如皋]</sup> 忍耐不住。  
-1. 【[禁用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_ion.md#禁用)】`jien1 ion6` <sup>[如皋]</sup> 长久使用而不坏。  
 1. 【[筋爆爆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_bo_bo.md#筋爆爆)】`jien1 bo5 bo5` <sup>[兴化]</sup> 因激动或用力而青筋鼓起：他急得大嘘大吵，太阳穴～的。  
 1. 【[筋爆爆的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_bo_bo_dii.md#筋爆爆的)】`jien1 bo5 bo5 dii` <sup>[如皋]</sup> ① 静脉凸起状：他腿子上～。 ② 盛怒状：他气得～。 ③ 声音宏亮：他说起话来。  
 1. 【[筋爆爆的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_bo_bo_dii.md#筋爆爆的)】`jien1 bo5 bo5 dii` <sup>[东台]</sup> 因为气愤、急躁而青筋毕露。  
@@ -926,7 +925,7 @@
 1. 【[经馆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gun.md#经馆)】`jien1 gun3` <sup>[兴化]</sup> 旧时高等私塾，以四书、五经为主要教学内容，有的还教授吟诗、作对、写八股文。  
 1. 【[经馆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gun.md#经馆)】`jien1 gun3` <sup>[泰县]</sup> 教四书五经的私塾。  
 1. 【[经馆<sub>儿</sub>先生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gun_r_xin_shen.md#经馆<sub>儿</sub>先生)】`jien1 gun3 r xin1 shen1` <sup>[如皋]</sup> 旧时指秀才以上的塾师，能讲经书。现引指餐食少而精的人。  
-1. 【[经用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_ion.md#经用)】`jien1 ion6` <sup>[如皋]</sup> 耐用：钱～；杲子～。也说“见用”。  
+1. 【[经用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_ion.md#经用)】`jien1 ion6` <sup>[如皋]</sup> 长久使用而不坏，耐用：钱～；杲子～。也说“见用”。  
 1. 【[经饥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_ji.md#经饥)】`jien1 ji1` <sup>[如皋]</sup> 食物耐消化，不易饿：吃饭～，吃粥不～。又作“经饿”。也说“见饥”。  
 1. 【[经饥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_ji.md#经饥)】`jien1 ji1` <sup>[东台]</sup> 同“经饿”。  
 1. 【[经久](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_jieu.md#经久)】`jien1 jieu3` <sup>[如皋]</sup> 耐久。也说“见久”。  
