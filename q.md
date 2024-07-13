@@ -554,10 +554,10 @@
 1. 【[戗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian.md#戗)】`qian5` <sup>[兴化]</sup> 硬、挺：～面｜～饼｜他说话～～的。‖字亦作“抢”，意为顶撞。《官场现形记》第三十一回有“生恐他两个人把话说抢”句。  
 1. 【[戗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian.md#戗)】`qian5` <sup>[泰县]</sup> 支持庇护：你哿是要～住他？  
 1. 【[戗壁板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_bieh_baen.md#戗壁板)】`qian5 bieh7 baen3` <sup>[如东]</sup> 装在堂板外边的木板。  
-1. 【[戗吖一边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_eh_ieh_bin.md#戗吖一边)】`qian5 eh ieh7 bin1` <sup>[东台]</sup> 不公正，偏向一方。  
 1. 【[戗酵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_go.md#戗酵)】`qian5 go5` <sup>[兴化]</sup> 面团含水少或掺进了干面粉，蒸或烙出的食物挺硬，耐阻嚼：人老啊，～的馒头咬起来费力。  
 1. 【[戗下风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_ha_fon.md#戗下风)】`qian5 ha6 fon1` <sup>[如东]</sup> 躲在障碍物后边避风。  
 1. 【[戗话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_hua.md#戗话)】`qian5 hua6` <sup>[兴化]</sup> 顶牛或带挑衅性的话：执法人员检查假货，他在旁边说～。  
+1. 【[戗吖一边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_nga_ieh_bin.md#戗吖一边)】`qian5 nga ieh7 bin1` <sup>[东台]</sup> 不公正，偏向一方。  
 1. 【[戗网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_van.md#戗网)】`qian5 van3` <sup>[如东]</sup> 一种捕鱼网具。片状，长方形高1.5米，宽6米。一种捕鱼方式。在垳场上，把网具挂在竹杆（篙子）上，构成一条网栅，一般长60米，或者更长，利用海水落潮现象把鱼拦住捕捉  
 1. 【[戗枕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_zhen.md#戗枕)】`qian5 zhen3` <sup>[东台]</sup> 落枕，颈椎病加上睡觉时受寒或姿势不当，致使脖子疼痛，转动不便。  
 1. 【[戗枕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_zhen.md#戗枕)】`qian5 zhen3` <sup>[兴化]</sup> 睡觉时脖子受寒，或因枕头的角度不合适，以致脖子疼痛，转动不便。北方话称“落枕”。  

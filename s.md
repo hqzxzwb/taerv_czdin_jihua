@@ -288,12 +288,12 @@
 1. 【[伞顶漏雨——搞到自己头上来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_dien_leu_y_go_do_cz_ji_teu_shan_lae_a.md#伞顶漏雨——搞到自己头上来啊)】`saen3 dien3 leu6 y3 go3 do5 cz6 ji3 teu2 shan6 lae2 a` <sup>[东台]</sup>   
 1. 【[伞骨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_gueh_zz.md#伞骨子)】`saen3 gueh7 zz` <sup>[兴化]</sup> 伞的骨架，由铁丝或竹篾制成，连着伞柄，可使伞张开。  
 1. 【[散板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_baen.md#散板)】`saen3 baen3` <sup>[兴化]</sup> ① （借）极顶：穷吖～｜坏啊一｜快活～。 ② （喻）散架：王连方虽说还能故作镇静，到底断了箍，散了板了。（毕飞宇：《玉米》）  
-1. 【[散吖板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_eh_baen.md#散吖板)】`saen3 eh baen3` <sup>[东台]</sup> ［喻］散架了，不可收拾。  
 1. 【[散放](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_fan.md#散放)】`saen3 fan5` <sup>[如东]</sup> 牲畜放在外边自由活动、觅食：细鸡儿可以～。  
 1. 【[散黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_huan.md#散黄)】`saen3 huan2` <sup>[兴化]</sup> 禽蛋因变质，卵黄由球状而成糊状：鸡蛋～。  
 1. 【[散架](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_jia.md#散架)】`saen3 jia5` <sup>[如东]</sup> 架子散开。比喻物体坏了：我的这把老骨头一跌跟头就～。  
 1. 【[散脚神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_jiah_shen.md#散脚神)】`saen3 jiah7 shen2` <sup>[泰县]</sup> 坐不住的人。  
 1. 【[散乐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_lah.md#散乐)】`saen3 lah8` <sup>[泰县]</sup> 散散心，轻松一下。  
+1. 【[散吖板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_nga_baen.md#散吖板)】`saen3 nga baen3` <sup>[东台]</sup> ［喻］散架了，不可收拾。  
 1. 【[散吖架](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_nga_jia.md#散吖架)】`saen3 nga jia5` <sup>[如皋]</sup> 房屋、家具主架散开，坏了。  
 1. 【[散吖神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_nga_shen.md#散吖神)】`saen3 nga shen2` <sup>[如皋]</sup> ① 注意不集中。 ② 难以入睡。  
 1. 【[散吖捘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_nga_zuen.md#散吖捘)】`saen3 nga zuen5` <sup>[如皋]</sup> 见“披啊股”。  

@@ -627,11 +627,11 @@
 1. 【[鐾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#鐾)】`pi6` <sup>[如皋]</sup> 把刀口在荡刀布上稍稍荡磨几下。  
 1. 【[𰆘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#𰆘)】`pi6` <sup>[如东]</sup> 下雨或冲水后，泥土表面板结称𰆘。  
 1. 【[啪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pia.md#啪)】`pia1` <sup>[如皋]</sup> ① 象声词：～！枪声！ ② 飘摇：一巴掌，就把他打啊～下去啊。合音字“飘啊”的快读音。  
-1. 【[□料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pia_lio.md#□料)】`pia3 lio6` <sup>[如皋]</sup> ① 不规则的材料。 ② 耗材料，不划算。  
-1. 【[□七□八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pia_qieh_pia_baeh.md#□七□八)】`pia3 qieh7 pia3 baeh7` <sup>[如皋]</sup> 见“pia3”。  
-1. 【[□子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pia_zz.md#□子)】`pia3 zz` <sup>[如皋]</sup> 思想言行不合常理、常情或会虘的人。  
 1. 【[𠷨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pia.md#𠷨)】`pia3` <sup>[如皋]</sup> ① 不正。 ② 不讲理，虘：这伢儿～七～八的。  
 1. 【[𠷨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pia.md#𠷨)】`pia3` <sup>[泰县]</sup> 读音不正：他读书读～啊音。  
+1. 【[𠷨料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pia_lio.md#𠷨料)】`pia3 lio6` <sup>[如皋]</sup> ① 不规则的材料。 ② 耗材料，不划算。  
+1. 【[𠷨七𠷨八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pia_qieh_pia_baeh.md#𠷨七𠷨八)】`pia3 qieh7 pia3 baeh7` <sup>[如皋]</sup> 见“𠷨pia3”。  
+1. 【[𠷨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pia_zz.md#𠷨子)】`pia3 zz` <sup>[如皋]</sup> 思想言行不合常理、常情或会虘的人。  
 1. 【[㩧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/piah.md#㩧)】`piah7` <sup>[兴化]</sup> ① 象声词：枪声｜～的一声枪响。 ② 鞭炮声：～～。《广韵·觉韵》匹角切｜“～，击声。”又蒲角切（音“泊”）。  
 1. 【[劈叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_cha.md#劈叉)】`pieh7 cha1` <sup>[东台]</sup> 双腿向相反方向分开，臀部落地的一种动作。  
 1. 【[劈蛼螯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_cha_ngo.md#劈蛼螯)】`pieh7 cha1 ngo` <sup>[如东]</sup> 用刀将蛼螯壳劈开，把肉取出来，这种活计叫做劈蛼螯。  
@@ -754,7 +754,6 @@
 1. 【[病字头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_cz_teu.md#病字头)】`pien6 cz6 teu2` <sup>[兴化]</sup> 汉字部首，形状是“广”。  
 1. 【[病字头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_cz_teu_r.md#病字头<sub>儿</sub>)】`pien6 cz6 teu2 r` <sup>[如皋]</sup> 病字旁儿（疒）：病症疼。  
 1. 【[病呆啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_dae_a.md#病呆啊)】`pien6 dae1 a` <sup>[如东]</sup> 形容疾病非常严重。比喻人的精神状态非常呆板和糊涂。  
-1. 【[病吖凉吖僵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_eh_lian_nga_jian.md#病吖凉吖僵)】`pien6 eh lian2 nga jian1` <sup>[东台]</sup> 骂人像生了重病一样糊涂：这吖简单的账，你都弄错啊，造成大损失，真是～！  
 1. 【[病反吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_faen_nga.md#病反吖)】`pien6 faen3 nga` <sup>[如皋]</sup> 病情恶化。  
 1. 【[病根](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_gen.md#病根)】`pien6 gen1` <sup>[如东]</sup> 生病的根源。未根治的旧病。比喻发生问题的根本原因：～在哪许？  
 1. 【[病罐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_gun_r.md#病罐<sub>儿</sub>)】`pien6 gun5 r` <sup>[如东]</sup> 经常生病的人。  
@@ -768,6 +767,7 @@
 1. 【[病吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_nga.md#病吖)】`pien6 nga` <sup>[如皋]</sup> 病了。  
 1. 【[病吖着咖床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_nga_chah_ga_chuan.md#病吖着咖床)】`pien6 nga chah8 ga chuan2` <sup>[东台]</sup> 本指重病卧床，也用于骂人太懒惰，不肯起床干活。  
 1. 【[病吖冲的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_nga_chon_dii.md#病吖冲的)】`pien6 nga chon5 dii` <sup>[东台]</sup> 指身体有这样那样的疾病。老年人难免有个～，儿女要细心体贴。  
+1. 【[病吖凉吖僵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_nga_lian_nga.md#病吖凉吖僵)】`pien6 nga lian2 nga jian1` <sup>[东台]</sup> 骂人像生了重病一样糊涂：这吖简单的账，你都弄错啊，造成大损失，真是～！  
 1. 【[病伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_nga_r.md#病伢<sub>儿</sub>)】`pien6 nga2 r` <sup>[如东]</sup> 妇女怀孕以后的生理反应，如呕吐、头晕等，叫做病伢儿。  
 1. 【[病病𠹛𠹛的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_pien_hae_hae_dii.md#病病𠹛𠹛的)】`pien6 pien6 hae2 hae2 dii` <sup>[如皋]</sup> 因病呻吟。  
 1. 【[病病歪歪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_pien_vae_vae.md#病病歪歪)】`pien6 pien6 vae1 vae1` <sup>[东台]</sup> 形容病体衰弱无力的样  
