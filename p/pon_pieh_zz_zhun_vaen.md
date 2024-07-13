@@ -1,5 +1,5 @@
 # 碰鼻子转弯
-pon5 pieh8 zz guae3 vaen1
+pon5 pieh8 zz zhun3 vaen1
 > 兴化方言词典
 - 遇阻拐弯
   - 一直朝东走，～就到他家。
