@@ -2523,7 +2523,7 @@
 1. 【[土老<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_lo_r.md#土老<sub>儿</sub>)】`tv3 lo3 r` <sup>[兴化]</sup> 旧时，对农民和小城镇居民的郡称：“你的表哥哥，不是田舍翁，定是～，我为什么要怕他？”（《四杰传》五二）  
 1. 【[土六碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_loh_un.md#土六碗)】`tv3 loh8 un3` <sup>[兴化]</sup> 城乡贫家小户宴客的规格。一般由猪肉、鱼、鸡鸭和芋头、慈姑等凑成六样。也称“六碗头”。  
 1. 【[土麦冬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_moh_don.md#土麦冬)】`tv3 moh8 don1` <sup>[如东]</sup> 百合科植物三角草，多年生草本。叶基出，线形，有一条明显的中脉。总状花序从叶丛抽出。花淡紫色。蒴果三角状。种子圆形。生长在湿润肥沃的草土或庭园。  
-1. 【[土鳔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_pio.md#土鳔)】`tv3 pio5` <sup>[东台]</sup> 炸肉皮，（鮸鱼的鳔是美味佳肴。猪皮油炸后与之相似，故称土鳔）与小肉圆、青菜头、虾米等烧成的杂烩汤，又叫“烧南洋”。  
+1. 【[土□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_pio.md#土□)】`tv3 pio5` <sup>[东台]</sup> 炸肉皮。～与小肉圆、青菜头、虾米等烧成的杂烩汤，又叫“烧南洋”。  
 1. 【[土气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_qi.md#土气)】`tv3 qi5` <sup>[如东]</sup> 不时髦的风格、式样。不时尚的风俗、习惯。  
 1. 【[土墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_qian.md#土墙)】`tv3 qian2` <sup>[如皋]</sup> 泥土做的墙。  
 1. 【[土墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_qian.md#土墙)】`tv3 qian2` <sup>[如皋]</sup> 老泥墙。  

@@ -890,7 +890,6 @@
 1. 【[漂亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_lian.md#漂亮)】`pio5 lian` <sup>[如皋]</sup> ① 识相、知趣：你放吖～吖点儿，少吃点儿苦！ ② 利索：手段～，做得～。  
 1. 【[漂亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_lian.md#漂亮)】`pio5 lian` <sup>[如东]</sup> 美观，出色。  
 1. 【[票](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio.md#票)】`pio5` <sup>[兴化]</sup> 量词，批次：一～生意｜一～买卖。｜他俫是一～货——一样的货色。  
-1. 【[鳔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio.md#鳔)】`pio5` <sup>[东台]</sup> 鱼体内可胀缩的囊状物。其中饒鱼的鳔是美味佳肴。猪皮油炸后与之相似，故称土鳔。  
 1. 【[奅话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_hua.md#奅话)】`po1 hua6` <sup>[如皋]</sup> 大而空的话：说～。  
 1. 【[奅<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_r.md#奅<sub>儿</sub>)】`po1 r` <sup>[如东]</sup> 说大话、吹牛皮的人。  
 1. 【[奅<sub>儿</sub>拉沙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_r_la_sha.md#奅<sub>儿</sub>拉沙)】`po1 r la sha` <sup>[如东]</sup> 说大话，说空话：王二～的，没有人喜欢。  
