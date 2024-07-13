@@ -451,11 +451,11 @@
 1. 【[掯炭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken_taen.md#掯炭)】`ken5 taen5` <sup>[如皋]</sup> 一种燃过后炭渣疏松的蜂窝煤，加炭时一揿即下。与“搛炭”相对。  
 1. 【[掯头掯脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken_teu_ken_no.md#掯头掯脑)】`ken5 teu2 ken5 no3` <sup>[兴化]</sup> 形容埋头苦干，任劳任怨：老周一天到晚～做事，从不躲懒、隑奸。  
 1. 【[掯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken_zz.md#掯子)】`ken5 zz` <sup>[如东]</sup> 刮皮、吝啬的人。  
-1. 【[硍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken.md#硍)】`ken5` <sup>[泰县]</sup> 汗垢，泥垢。  
-1. 【[𪣩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken.md#𪣩)】`ken5` <sup>[如东]</sup> 身体上的污垢。  
-1. 【[𪣩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken.md#𪣩)】`ken5` <sup>[如皋]</sup> 积垢，污垢：人身上有～。  
-1. 【[𪣩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken.md#𪣩)】`ken5` <sup>[东台]</sup> 污垢：挫澡擦掉不少～｜茶杯上傍吖茶～。  
-1. 【[𪣩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken.md#𪣩)】`ken5` <sup>[兴化]</sup> ① 积淀的污垢：牙～（垢）｜水～（垢）｜茶～｜尿～｜「马（桶）～。 ② 人身上的滓垢：老～｜古～。 ③ 兴化词典作“硍”，《集韵·恨韵》苦恨切“～，吴俗谓石有痕曰～”。  
+1. 【[硍/𪣩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken.md#硍/𪣩)】`ken5` <sup>[如东]</sup> 身体上的污垢。  
+1. 【[硍/𪣩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken.md#硍/𪣩)】`ken5` <sup>[如皋]</sup> 积垢，污垢：人身上有～。  
+1. 【[硍/𪣩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken.md#硍/𪣩)】`ken5` <sup>[东台]</sup> 污垢：挫澡擦掉不少～｜茶杯上傍吖茶～。  
+1. 【[硍/𪣩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken.md#硍/𪣩)】`ken5` <sup>[兴化]</sup> ① 积淀的污垢：牙～（垢）｜水～（垢）｜茶～｜尿～｜「马（桶）～。 ② 人身上的滓垢：老～｜古～。 ③ 兴化词典作“硍”，《集韵·恨韵》苦恨切“～，吴俗谓石有痕曰～”。  
+1. 【[硍/𪣩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken.md#硍/𪣩)】`ken5` <sup>[泰县]</sup> 汗垢，泥垢。  
 1. 【[𪣩斑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken_baen.md#𪣩斑)】`ken5 baen1` <sup>[如皋]</sup> 见“𪣩”。  
 1. 【[𪣩溚溚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken_daeh_daeh.md#𪣩溚溚)】`ken5 daeh7 daeh7` <sup>[如东]</sup> ① 形容身体脏而潮湿 ② 形容衣服很脏。  
 1. 【[𪣩幺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken_io_r.md#𪣩幺<sub>儿</sub>)】`ken5 io1 r` <sup>[如皋]</sup> 见“𪣩”。  
