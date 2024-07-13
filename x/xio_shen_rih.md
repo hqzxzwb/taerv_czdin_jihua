@@ -1,4 +1,4 @@
 # 小生日
-xio3 shen1 rih7
+xio3 shen1 rih
 > 东台方言词典
 - 岁数不是整十的生日。
