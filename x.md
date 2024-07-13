@@ -1797,7 +1797,7 @@
 1. 【[小日中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_rih_zhon.md#小日中)】`xio3 rih8 zhon1` <sup>[泰县]</sup> 上午十点左右。  
 1. 【[小食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_sheh.md#小食)】`xio3 sheh8` <sup>[兴化]</sup> 茶食、糕点：他吃饭有限，就喜欢吃～。｜……贾母等五更便去了。下处用些点心～，然后入朝。（《红楼梦》五八）  
 1. 【[小生意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_shen_i.md#小生意)】`xio3 shen1 i` <sup>[如皋]</sup> 小本经营。  
-1. 【[小生日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_shen_rih.md#小生日)】`xio3 shen1 rih7` <sup>[东台]</sup> 岁数不是整十的生日。  
+1. 【[小生日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_shen_rih.md#小生日)】`xio3 shen1 rih` <sup>[东台]</sup> 岁数不是整十的生日。  
 1. 【[小手膀子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_sheu_ban_zz.md#小手膀子)】`xio3 sheu3 ban3 zz` <sup>[如皋]</sup> 下臂，肘至脉。  
 1. 【[小舌头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_shih_teu.md#小舌头)】`xio3 shih8 teu` <sup>[兴化]</sup> 悬雍垂的俗称。也称“咽喉屌儿。”  
 1. 【[小扇子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_shin_zz.md#小扇子)】`xio3 shin5 zz` <sup>[兴化]</sup> （喻）煽惑别人斗气、闹事的阴险手段：枝山暗暗得意，自思我这把～扇得几下，竟扇出了他们炉中的妒火。（《四杰传》六八）  

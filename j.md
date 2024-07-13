@@ -1582,8 +1582,8 @@
 1. 【[交秋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_qieu.md#交秋)】`jio1 qieu1` <sup>[兴化]</sup> 立秋。  
 1. 【[交圈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_qiun.md#交圈)】`jio1 qiun1` <sup>[兴化]</sup> ① 木工制作器具，构件相互投榫后，垂直、见方。 ② 建筑房屋时，屋面封顶。  
 1. 【[交生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_shen.md#交生)】`jio1 shen1` <sup>[如皋]</sup> 母家给出室女送第一个生日礼，表祝福，也提醒婆家此女过生日的时间。  
-1. 【[交生日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_shen_rih.md#交生日)】`jio1 shen1 rih7` <sup>[东台]</sup> 女子出嫁以后的第一个生日，父母以祝寿仪式将其生日告知男方。  
-1. 【[交生日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_shen_rih.md#交生日)】`jio1 shen1 rih8` <sup>[泰县]</sup> 婚后第一年女方向男方交代生日。  
+1. 【[交生日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_shen_rih.md#交生日)】`jio1 shen1 rih` <sup>[东台]</sup> 女子出嫁以后的第一个生日，父母以祝寿仪式将其生日告知男方。  
+1. 【[交生日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_shen_rih.md#交生日)】`jio1 shen1 rih` <sup>[泰县]</sup> 婚后第一年女方向男方交代生日。  
 1. 【[交时节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_shr_jih.md#交时节)】`jio1 shr2 jih7` <sup>[兴化]</sup> 指逢农历的某个节气：每逢～，他的病情就要发作。也称“交节刻”。  
 1. 【[交莳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_shr.md#交莳)】`jio1 shr2` <sup>[兴化]</sup> 俗称夏至为～。  
 1. 【[交尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_vei.md#交尾)】`jio1 vei3` <sup>[如东]</sup> 动物交配。  

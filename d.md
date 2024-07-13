@@ -47,7 +47,7 @@
 1. 【[打百索<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_boh_sah_r.md#打百索<sub>儿</sub>)】`da3 boh7 sah7 r` <sup>[如皋]</sup> 将四股红色丝线各绕成球，悬挂后，十字交叉对抛，编成粗索。专供端午节儿童挂于颈上。  
 1. 【[打百岁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_boh_suei.md#打百岁)】`da3 boh7 suei5` <sup>[如东]</sup> 小儿打喷嚏。  
 1. 【[打百日子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_buh_rih_zz.md#打百日子)】`da3 buh7 rih8 zz` <sup>[如皋]</sup> 见“打摆子”。  
-1. 【[打半日子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_bun_rih_zz.md#打半日子)】`da3 bun5 rih7 zz` <sup>[东台]</sup> 同“打摆子”。  
+1. 【[打半日子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_bun_rih_zz.md#打半日子)】`da3 bun5 rih zz` <sup>[东台]</sup> 同“打摆子”。  
 1. 【[打半日子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_bun_rih_zz.md#打半日子)】`da3 bun5 rih8 zz` <sup>[如东]</sup> 发疟疾。  
 1. 【[打补丁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_bv_dien.md#打补丁)】`da3 bv3 dien` <sup>[兴化]</sup> 对衣服或其他物品破损的地方进行修补。  
 1. 【[打补丁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_bv_dien.md#打补丁)】`da3 bv3 dien1` <sup>[如东]</sup> ① 衣服破了一个洞，进行缝补，叫做打补丁。 ② 器物破了一个洞，进行修复，叫做打补丁。  

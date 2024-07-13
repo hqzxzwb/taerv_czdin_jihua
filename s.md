@@ -204,7 +204,7 @@
 1. 【[三句话不离本行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_qy_hua_beh_li_ben_han.md#三句话不离本行)】`saen1 qy6 hua6 beh7 li2 ben3 han2` <sup>[如皋]</sup> 说话中，不自觉的流露出本行当的习惯语言。  
 1. 【[三人佮养的牛像刀，三人佮用条船动瓢刮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_ren_guh_ian_dii_ngeu_qian_do_saen_ren_guh_ion_tio_chun_ton_pio_guaeh.md#三人佮养的牛像刀，三人佮用条船动瓢刮)】`saen1 ren2 guh7 ian3 dii ngeu2 qian6 do1 saen1 ren2 guh7 ion6 tio2 chun2 ton6 pio2 guaeh7` <sup>[东台]</sup> 责任不明导致相互倚赖。  
 1. 【[三人两不齐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_ren_laen_beh_qi.md#三人两不齐)】`saen1 ren2 laen3 beh7 qi2` <sup>[如东]</sup> 人员不能按照规定时间到齐。比喻人心不一致：今朝集合的～，不像话。  
-1. 【[三日肩头四日脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_rih_jin_teu_sz_rih_jiah.md#三日肩头四日脚)】`saen1 rih7 jin1 teu sz5 rih7 jiah7` <sup>[东台]</sup> 刚开始干体力活肯定吃不消，需要几天的锻炼才能慢慢适应。一般说来，肩膀要练三天，腿脚要练四天。  
+1. 【[三日肩头四日脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_rih_jin_teu.md#三日肩头四日脚)】`saen1 rih jin1 teu sz5 rih jiah7` <sup>[东台]</sup> 刚开始干体力活肯定吃不消，需要几天的锻炼才能慢慢适应。一般说来，肩膀要练三天，腿脚要练四天。  
 1. 【[三色堇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_seh_jien.md#三色堇)】`saen1 seh7 jien3` <sup>[如东]</sup> 堇菜科植物三色堇，一年或二年生草本。高约30厘米。茎直立。茎生叶卵状长圆形，锯齿圆钝。花两性，每花有蓝、白、黄三色。蒴果，三角形。庭园栽培，观赏。  
 1. 【[三十夜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheh_ia.md#三十夜)】`saen1 sheh ia6` <sup>[如皋]</sup> 除夕，腊月的最后一天，大月为三十，小月为二十九。  
 1. 【[三十六行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheh_loh_han.md#三十六行)】`saen1 sheh loh8 han2` <sup>[兴化]</sup> （讽）指人从事的职业过多，但无专业：～，业多不养生。  
