@@ -1398,9 +1398,9 @@
 1. 【[升子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_zz.md#升子)】`shen1 zz` <sup>[如皋]</sup> 量具，常见为毛竹筒制成。  
 1. 【[升子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_zz.md#升子)】`shen1 zz` <sup>[如东]</sup> 衡器。竹制或木制。有圆筒形和四角形两种。  
 1. 【[参商](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_shan.md#参商)】`shen1 shan1` <sup>[兴化]</sup> ① （喻）因意见分歧引起不睦：不是有人挑唆，他弟兄几个不得～。 ② 性格不合：不想如今后人繁盛，其中贫富不一，或性情～……（《红楼梦》十五）。参、商二星一在极东，一在极西，此出彼没，永不相见。（典出《左传·昭公元年》）  
-1. 【[声叫声应](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_jio_shen_ien.md#声叫声应)】`shen1 jio1 shen1 ien5` <sup>[兴化]</sup> ① 形容人机敏、顺从：“……（师父）说你还是个聪明伶俐之人，常时～，问一答十……”（《西游记》三十） ② （迷信）谓神鬼显灵：……神灵显赫，～。（《西湖二集》二九）  
 1. 【[声叫声应](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_jio_shen_ien.md#声叫声应)】`shen1 jio5 shen1 ien5` <sup>[如皋]</sup> 喻配合无间，随喊随应。  
 1. 【[声叫声应](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_jio_shen_ien.md#声叫声应)】`shen1 jio5 shen1 ien5` <sup>[如东]</sup> 一喊就答应：这个伢儿～的，一喊就来。  
+1. 【[声叫声应](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_jio_shen_ien.md#声叫声应)】`shen1 jio5 shen1 ien5` <sup>[兴化]</sup> ① 形容人机敏、顺从：“……（师父）说你还是个聪明伶俐之人，常时～，问一答十……”（《西游记》三十） ② （迷信）谓神鬼显灵：……神灵显赫，～。（《西湖二集》二九）  
 1. 【[声口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_keu.md#声口)】`shen1 keu` <sup>[兴化]</sup> 说话的语调：他这种～叫人听吖不舒服。  
 1. 【[声气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_qi.md#声气)】`shen1 qi` <sup>[兴化]</sup> 说话的声音、语气：听他的声气不像是本地人。  
 1. 【[声气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_qi.md#声气)】`shen1 qi5` <sup>[如皋]</sup> ① 语气、声量：他才病吖的，说话～不大。 ② 方音：听他的～是北方人。  

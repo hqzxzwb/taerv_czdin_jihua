@@ -20,10 +20,10 @@
 1. 【[叽叽喳喳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ji_zha_zha.md#叽叽喳喳)】`ji1 ji1 zha1 zha1` <sup>[东台]</sup> 形容鸟叫声或许多人发出的嘈杂声。  
 1. 【[叽苦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_kv.md#叽苦)】`ji1 kv3` <sup>[如皋]</sup> 味很苦：黄连～。  
 1. 【[叽哩抹喳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_li_maeh_zha.md#叽哩抹喳)】`ji1 li1 maeh8 zha1` <sup>[东台]</sup> 尖声讲话，使人感到刺耳：几个小丫头七嘴八舌，～的。  
-1. 【[叽哩咕噜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_lii_gv_lv.md#叽哩咕噜)】`ji1 lii gv1 lv1` <sup>[东台]</sup> 低声说话，别人听不清楚。  
-1. 【[叽哩哇啦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_lii_va_la.md#叽哩哇啦)】`ji1 lii va1 la1` <sup>[如皋]</sup> ① 形容语音尖厉刺耳。 ② 说话过快或声音嘈杂而听不清楚。  
+1. 【[叽里咕噜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_lii_gv_lv.md#叽里咕噜)】`ji1 lii gv1 lv1` <sup>[东台]</sup> 低声说话，别人听不清楚。  
 1. 【[叽里木促](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_lii_moh_coh.md#叽里木促)】`ji1 lii moh8 coh7` <sup>[兴化]</sup> 啰里啰唆，令人生厌：这个老太婆，成天～的。  
 1. 【[叽里入咕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_lii_reh_gv.md#叽里入咕)】`ji1 lii reh8 gv` <sup>[兴化]</sup> 口中唠唠叨叨，念念有词：你嘴里～的说甚的啊？也作“叽咕”“叽咕祷咂”。  
+1. 【[叽里哇啦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_lii_va_la.md#叽里哇啦)】`ji1 lii va1 la1` <sup>[如皋]</sup> ① 形容语音尖厉刺耳。 ② 说话过快或声音嘈杂而听不清楚。  
 1. 【[叽湿的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_sheh_dii.md#叽湿的)】`ji1 sheh7 dii` <sup>[东台]</sup> 湿透了：落雨天他不曾打伞，浑身～。  
 1. 【[叽瘦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_sheu.md#叽瘦)】`ji1 sheu5` <sup>[如皋]</sup> 很瘦弱：这个猪子～。  
 1. 【[叽䴛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_so.md#叽䴛)】`ji1 so5` <sup>[如皋]</sup> 很咸：盐～。  
@@ -996,7 +996,7 @@
 1. 【[金头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_teu.md#金头)】`jien1 teu` <sup>[如东]</sup> 帆船船头上部连接船体两边大栏的一根横木，一般采用榆树、榉树或其他硬木制成，起收紧船头的作用。  
 1. 【[金锭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_tien.md#金锭)】`jien1 tien6` <sup>[如东]</sup> 熔铸成一定形状的黄金。明清代有“金元宝”“金锞”等名称。  
 1. 【[金条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_tio.md#金条)】`jien1 tio2` <sup>[如东]</sup> 黄金铸成的长条，一般每条重10两，也有5两或20两的。  
-1. 【[金童玉女](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_ton_ioh_nv.md#金童玉女)】`jien1 ton2 ioh8 nv3` <sup>[如皋]</sup> ① 褒指貌美聪慧的男孩、女孩。 ② 停灵时在供桌上放立的男女纸人。  
+1. 【[金童玉女](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_ton_ioh_ny.md#金童玉女)】`jien1 ton2 ioh8 ny3` <sup>[如皋]</sup> ① 褒指貌美聪慧的男孩、女孩。 ② 停灵时在供桌上放立的男女纸人。  
 1. 【[金糰<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_tun_r.md#金糰<sub>儿</sub>)】`jien1 tun2 r` <sup>[如皋]</sup> 大圆子裹芝麻炸成的点心。  
 1. 【[金鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_y.md#金鱼)】`jien1 y2` <sup>[如东]</sup> 鲤科动物金鱼，是鲫鱼的变种。  
 1. 【[金鱼虫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_y_chon_zz.md#金鱼虫子)】`jien1 y2 chon2 zz` <sup>[兴化]</sup> 水蚤，可作金鱼的饵料。  
@@ -1588,7 +1588,6 @@
 1. 【[交莳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_shr.md#交莳)】`jio1 shr2` <sup>[兴化]</sup> 俗称夏至为～。  
 1. 【[交尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_vei.md#交尾)】`jio1 vei3` <sup>[如东]</sup> 动物交配。  
 1. 【[交卸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_xia.md#交卸)】`jio1 xia5` <sup>[东台]</sup> 移交事务，解脱自己。  
-1. 【[叫争](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_zhen.md#叫争)】`jio1 zhen1` <sup>[如皋]</sup> 猫交配的过程，事前对叫，事后追逐。  
 1. 【[娇央](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_ian.md#娇央)】`jio1 ian1` <sup>[泰县]</sup> 轿嫩：这个花～，不大好管理。  
 1. 【[娇养](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_ian.md#娇养)】`jio1 ian3` <sup>[如皋]</sup> ① 柔弱。 ② 娇气，不愿吃苦。  
 1. 【[娇娇<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_jio_r.md#娇娇<sub>儿</sub>)】`jio1 jio1 r` <sup>[如皋]</sup> 指虚弱易病的身体或人。  
@@ -1701,6 +1700,7 @@
 1. 【[叫天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_tin.md#叫天)】`jio5 tin1` <sup>[如皋]</sup> 母牛发情。  
 1. 【[叫响批](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_xian_pi.md#叫响批)】`jio5 xian3 pi1` <sup>[如东]</sup> 大声地叫喊。  
 1. 【[叫争](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_zhen.md#叫争)】`jio5 zhen1` <sup>[如东]</sup> 雌性牲畜发情而雄性牲畜相互争斗叫唤。也称叫春。  
+1. 【[叫争](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_zhen.md#叫争)】`jio5 zhen1` <sup>[如皋]</sup> 猫交配的过程，事前对叫，事后追逐。  
 1. 【[叫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_zz.md#叫子)】`jio5 zz` <sup>[兴化]</sup> 哨儿。又称“叫叫子”“叫鸡子”。  
 1. 【[嘦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio.md#嘦)】`jio5` <sup>[兴化]</sup> 方言俗字，这要、只要：这个也不行，那个也不好，～怎吖弄？  
 1. 【[教把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_ba.md#教把)】`jio5 ba3` <sup>[兴化]</sup> 指经济状况拮据的人：他是个～，恐怕又是来打秋丰的。  

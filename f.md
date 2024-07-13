@@ -1119,7 +1119,7 @@
 1. 【[赴命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_mien.md#赴命)】`fv5 mien6` <sup>[兴化]</sup> 形容不顾一切，为达目的竭尽全力：他两口子为伢儿治病，简直～吖。为当上这个宝贝局长，他就像赴啊命。  
 1. 【[附](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv.md#附)】`fv5` <sup>[兴化]</sup> 迷信所说的鬼神附着身体：“……卢伯的魂～在你身上啦！”（马春阳《翁婿同还乡》）｜他听见就象神～着的发了疯，从此不应考了，要做个高人。（《儒林外史》十二）  
 1. 【[附<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_r.md#附<sub>儿</sub>)】`fv5 r` <sup>[如东]</sup> ① 板嶂外面的把扶，叫做附儿。 ② 加在木板外面的木条，叫做附儿。  
-1. 【[妇男小女](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_nun_xio_nv.md#妇男小女)】`fv6 nun2 xio3 nv3` <sup>[兴化]</sup> 泛指男女老幼：全庄～加起来一共五百多人。  
+1. 【[妇男小女](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_nun_xio_ny.md#妇男小女)】`fv6 nun2 xio3 ny3` <sup>[兴化]</sup> 泛指男女老幼：全庄～加起来一共五百多人。  
 1. 【[妇道人家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_to_ren_ga.md#妇道人家)】`fv6 to6 ren2 ga` <sup>[如东]</sup> 中年女妇。  
 1. 【[父](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv.md#父)】`fv6` 爸爸（指称，面称）  
 1. 【[父](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv.md#父)】`fv6` <sup>[如皋]</sup> 父亲。老派口称。  

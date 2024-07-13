@@ -471,7 +471,7 @@
 1. 【[踱午](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_v.md#踱午)】`tah8 v3` <sup>[如皋]</sup> 端午节的午后出游。  
 1. 【[汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#汤)】`tan1` 菜汤，汤  
 1. 【[汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#汤)】`tan1` <sup>[如东]</sup> 种比较浓厚的液体，加调料，味佳。  
-1. 【[汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#汤)】`tan1` <sup>[兴化]</sup> 热水：一个人在外，～吖水的也不顺便。｜看看五更鸡叫，东方将明，土兵起来烧～，武二洗嗽了……（《金瓶梅词话》九）《广韵·唐韵》吐郎切｜“～，热水”。  
+1. 【[汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#汤)】`tan1` <sup>[兴化]</sup> 热水：一个人在外，～吖水的也不顺便。  
 1. 【[汤包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_bo.md#汤包)】`tan1 bo1` <sup>[兴化]</sup> 含有多汁的肉馅包子，个大皮薄。‖又称“灌汤包子”。  
 1. 【[汤包<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_bo_r.md#汤包<sub>儿</sub>)】`tan1 bo1 r` <sup>[如皋]</sup> 包子的馅料中有肉皮熬的胶冻，蒸熟则为汤，鲜嫩可口。  
 1. 【[汤菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_cae.md#汤菜)】`tan1 cae5` <sup>[如皋]</sup> 宴席中用碗或品锅盛装的有汤的一类菜，又称“大菜”。“碗”与“碟”相对。  
@@ -664,12 +664,12 @@
 1. 【[趟鸭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_ngaeh.md#趟鸭)】`tan5 ngaeh7` <sup>[兴化]</sup> 大批量饲养的鸭子：群鸡～。  
 1. 【[趟趟上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_tan_shan.md#趟趟上)】`tan5 tan5 shan6` <sup>[东台]</sup> 指每个节目或项目都参与的人：昨子的表演他～，来事！  
 1. 【[宕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#宕)】`tan6` <sup>[兴化]</sup> ① 拖延、搁起：这种事情要抓紧办，千万不能再～。 ② 任意花费：这几个钱背不住一～就光吖。  
-1. 【[盪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#盪)】`tan6` <sup>[泰县]</sup> 汰：碗洗好啊再～下子。  
 1. 【[荡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#荡)】`tan6` <sup>[如皋]</sup> 原是浅湖沼泽，后淤积成陆，但地势低。地名通名中有保留：北～、高阳～。变名有草荡、荡子、荡里。  
 1. 【[荡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#荡)】`tan6` <sup>[如东]</sup> ① 物体挂在绳上摆来摆去：篮子挂啊绳上～。 ② 洗，汰：洗好的碗再～下子。 ③ 闲散懒惰：他一天到晚在家里～。  
 1. 【[荡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#荡)】`tan6` <sup>[东台]</sup> ① 摇动；摆动。 ② 冲洗：把茶杯～一下。 ③ 积水洼地，或称浅水湖：天鹅～、中～、六～。 ④ 放纵，不检点：说话要负责任，不能“没提纲随口～”。  
 1. 【[荡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#荡)】`tan6` <sup>[兴化]</sup> 划船动作：只见有只小船从海面上远远～来……（《水浒后传》三六）｜说着，万二虎猛～几桨，准准与巡逻船擦帮而来。（马春阳《夜袭叹气庙》）  
 1. 【[荡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#荡)】`tan6` <sup>[兴化]</sup> ① 将热水在容器间倒来倒去，使变凉：～热茶。 ② 将刀斧口在砖石糙面上来回刮，使锋利：～刀。  
+1. 【[荡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#荡)】`tan6` <sup>[泰县]</sup> 汰：碗洗好啊再～下子。  
 1. 【[荡刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_do.md#荡刀)】`tan6 do1` <sup>[如皋]</sup> 荡磨刀刃。  
 1. 【[荡刀布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_do_bv.md#荡刀布)】`tan6 do1 bv5` <sup>[如皋]</sup> 理发店荡磨剃刀的条状布。  
 1. 【[荡刀布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_do_bv.md#荡刀布)】`tan6 do1 bv5` <sup>[东台]</sup> 悬挂在理发店里，剃头匠用来荡抹剃头刀污垢的厚布。  

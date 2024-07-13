@@ -210,7 +210,7 @@
 1. 【[叽叽喳喳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ji_zha_zha.md#叽叽喳喳)】`ji1 ji1 zha1 zha1` <sup>[东台]</sup> 形容鸟叫声或许多人发出的嘈杂声。  
 1. 【[叽苦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_kv.md#叽苦)】`ji1 kv3` <sup>[如皋]</sup> 味很苦：黄连～。  
 1. 【[叽哩抹喳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_li_maeh_zha.md#叽哩抹喳)】`ji1 li1 maeh8 zha1` <sup>[东台]</sup> 尖声讲话，使人感到刺耳：几个小丫头七嘴八舌，～的。  
-1. 【[叽哩咕噜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_lii_gv_lv.md#叽哩咕噜)】`ji1 lii gv1 lv1` <sup>[东台]</sup> 低声说话，别人听不清楚。  
+1. 【[叽里咕噜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_lii_gv_lv.md#叽里咕噜)】`ji1 lii gv1 lv1` <sup>[东台]</sup> 低声说话，别人听不清楚。  
 [更多...](./j.md)
 ## K
 1. 【[抲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka.md#抲)】`ka1` <sup>[如东]</sup> 把东西往里塞：把馒头朝嘴里～。  

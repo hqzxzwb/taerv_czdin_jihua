@@ -1080,7 +1080,7 @@
 1. 【[信嘴漂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_jy_pio.md#信嘴漂)】`xien5 jy3 pio1` <sup>[如皋]</sup> 不负责任地信口说。  
 1. 【[信嘴射](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_jy_sha.md#信嘴射)】`xien5 jy3 sha6` <sup>[如皋]</sup> 不负责任地信口说。  
 1. 【[信嘴𧪦佯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_jy_taeh_ian.md#信嘴𧪦佯)】`xien5 jy3 taeh7 ian2` <sup>[如皋]</sup> 信口胡编，说话不可信：他～惯吖。他的话不要听。  
-1. 【[信嘴盪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_jy_tan.md#信嘴盪)】`xien5 jy3 tan6` <sup>[如皋]</sup> 不负责任地信口说。  
+1. 【[信嘴荡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_jy_tan.md#信嘴荡)】`xien5 jy3 tan6` <sup>[如皋]</sup> 不负责任地信口说。  
 1. 【[信壳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_kah_r.md#信壳<sub>儿</sub>)】`xien5 kah7 r` 信封  
 1. 【[信壳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_kah_r.md#信壳<sub>儿</sub>)】`xien5 kah7 r` <sup>[如皋]</sup> 信封。  
 1. 【[信壳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_kah_zz.md#信壳子)】`xien5 kah7 zz` <sup>[兴化]</sup> 信封。  
