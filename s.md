@@ -990,7 +990,7 @@
 1. 【[上吖手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_nga_sheu.md#上吖手)】`shan6 nga sheu3` <sup>[如皋]</sup> ① 到了手中：～的钱不要也是呆。 ② 熟悉了、掌握了：这门课程我已摸咖～。 ③ 顺手、顺利：这种货不难做，已经做啊～。  
 1. 【[上吖苏州](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_nga_sv_zheu.md#上吖苏州)】`shan6 nga sv1 zheu1` <sup>[东台]</sup> ［引］就是睡着了。因不少东台人的祖先在苏州，进入梦乡就好比回到老家：他才将还下在谈八鹉，这刻儿倒～啦。  
 1. 【[上崖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_ngae.md#上崖)】`shan6 ngae2` <sup>[兴化]</sup> 上岸：“那怪如今怯战，不肯～，只在水里潜踪……”（《西游记》二二）  
-1. 【[上眼皰子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_ngaen_po_zz.md#上眼皰子)】`shan6 ngaen3 po1 zz` <sup>[如皋]</sup> 上眼睑。  
+1. 【[上眼泡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_ngaen_po_zz.md#上眼泡子)】`shan6 ngaen3 po1 zz` <sup>[如皋]</sup> 上眼睑。  
 1. 【[上年子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_nin_zz.md#上年子)】`shan6 nin zz` 去年  
 1. 【[上年子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_nin_zz.md#上年子)】`shan6 nin zz` <sup>[如皋]</sup> 去年。  
 1. 【[上瓶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_pien.md#上瓶)】`shan6 pien2` <sup>[如皋]</sup> 向瓶中注入水或插花。  

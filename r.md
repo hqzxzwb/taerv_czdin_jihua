@@ -585,7 +585,7 @@
 1. 【[肉奶奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_nae_nae.md#肉奶奶)】`roh8 nae3 nae` <sup>[如东]</sup> 人体肥胖柔软：这个姑娘长得～的。  
 1. 【[肉皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_pi.md#肉皮)】`roh8 pi2` <sup>[如皋]</sup> 油炸过的海棉状的猪肉皮。  
 1. 【[肉㬓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_pio.md#肉㬓)】`roh8 pio5` <sup>[兴化]</sup> 干猪皮油炸膨化而成，用作菜肴。㬓，《广韵·笑韵》匹妙切：置风日中令干。  
-1. 【[肉皰子眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_po_zz_ngaen.md#肉皰子眼)】`roh8 po1 zz ngaen3` <sup>[如皋]</sup> 眼睑肥厚。  
+1. 【[肉泡子眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_po_zz_ngaen.md#肉泡子眼)】`roh8 po1 zz ngaen3` <sup>[如皋]</sup> 眼睑肥厚。  
 1. 【[肉气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_qi.md#肉气)】`roh8 qi` <sup>[如皋]</sup> 厚道：他待人～；说～话。  
 1. 【[肉气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_qi.md#肉气)】`roh8 qi` <sup>[如东]</sup> 粗笨：这套家具太～。  
 1. 【[肉气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_qi.md#肉气)】`roh8 qi` <sup>[泰县]</sup> 厚道。  

@@ -749,7 +749,7 @@
 1. 【[眼（睛）皮耷咖下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_pi_dah_ga_ha.md#眼（睛）皮耷咖下)】`ngaen3 pi2 dah7 ga ha` <sup>[如皋]</sup> 眼微睁。  
 1. 【[眼（睛）皮发重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_pi_faeh_chon.md#眼（睛）皮发重)】`ngaen3 pi2 faeh7 chon6` <sup>[如皋]</sup> 有了睡意。  
 1. 【[眼（睛）皮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_pi_zz.md#眼（睛）皮子)】`ngaen3 pi2 zz` <sup>[如皋]</sup> 眼睑。  
-1. 【[眼（睛）皰子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_po_zz.md#眼（睛）皰子)】`ngaen3 po1 zz` <sup>[如皋]</sup> 眼睑，眼皮。  
+1. 【[眼（睛）泡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_po_zz.md#眼（睛）泡子)】`ngaen3 po1 zz` <sup>[如皋]</sup> 眼睑，眼皮。  
 1. 【[眼（睛）白子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_poh_zz.md#眼（睛）白子)】`ngaen3 poh8 zz` <sup>[如皋]</sup> 结膜。  
 1. 【[眼（睛）屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_shr.md#眼（睛）屎)】`ngaen3 shr3` <sup>[如皋]</sup> 见“眼（睛）眵”。  
 1. 【[眼（睛）钝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_ten.md#眼（睛）钝)】`ngaen3 ten6` <sup>[如皋]</sup> 目力差（辨识力差）：我～，走路上忽略咖多少人。  
@@ -789,9 +789,9 @@
 1. 【[眼睛绿咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jien_loh_ga.md#眼睛绿咖)】`ngaen3 jien loh8 ga` <sup>[如皋]</sup> 虹膜成蓝绿色，表示人将死。常作詈语。  
 1. 【[眼睛冒金星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jien_mo_jien_xien.md#眼睛冒金星)】`ngaen3 jien mo6 jien1 xien1` <sup>[如东]</sup> 人蹭下后，突然站起来，眼睛里一瞬间缺血而出现金色的星点。比喻十分疲劳。  
 1. 【[眼睛冒血丝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jien_mo_xiuh_sz.md#眼睛冒血丝)】`ngaen3 jien mo6 xiuh7 sz1` <sup>[如东]</sup> 愤怒已极的状态：他气啊～。  
+1. 【[眼睛泡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jien_po_zz.md#眼睛泡子)】`ngaen3 jien po1 zz` <sup>[东台]</sup> 有点鼓起来的上眼皮。  
 1. 【[眼睛泡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jien_po_zz.md#眼睛泡子)】`ngaen3 jien po1 zz` <sup>[兴化]</sup> 眼皮：他是个肿～。  
-1. 【[眼睛皰子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jien_po_zz.md#眼睛皰子)】`ngaen3 jien po1 zz` <sup>[东台]</sup> 有点鼓起来的上眼皮。  
-1. 【[眼睛皰子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jien_po_zz.md#眼睛皰子)】`ngaen3 jien po1 zz` <sup>[泰县]</sup> 上眼皮。  
+1. 【[眼睛泡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jien_po_zz.md#眼睛泡子)】`ngaen3 jien po1 zz` <sup>[泰县]</sup> 上眼皮。  
 1. 【[眼睛白咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jien_poh_ga.md#眼睛白咖)】`ngaen3 jien poh8 ga` <sup>[如东]</sup> ① 眼球上长出一种白翳，遮蔽光线，看不见东西。 ② 比喻看不清问题。 ③ 比喻死了。  
 1. 【[眼睛白子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jien_poh_zz.md#眼睛白子)】`ngaen3 jien poh8 zz` <sup>[兴化]</sup> 眼眶内除眼珠以外部分。  
 1. 【[眼睛<sub>儿</sub>定吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jien_r_tien_nga.md#眼睛<sub>儿</sub>定吖)】`ngaen3 jien r tien6 nga` <sup>[如皋]</sup> ① 眼球不动。表示昏迷。 ② 詈语。  
@@ -834,7 +834,7 @@
 1. 【[眼泪汪汪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_luei_van_van.md#眼泪汪汪)】`ngaen3 luei6 van1 van1` <sup>[如东]</sup> 眼睛里饱含着泪水：这个伢儿～的，等哭。  
 1. 【[眼泪巴搨的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_ly_ba_taeh_dii.md#眼泪巴搨的)】`ngaen3 ly ba1 taeh7 dii` <sup>[如皋]</sup> ① 眼泪常流出的样子，表示：有眼疾。 ② 很伤心。  
 1. 【[眼泪咕咕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_ly_gu_gu.md#眼泪咕咕)】`ngaen3 ly gu1 gu1` <sup>[如皋]</sup> 眼中含泪不断。表示很伤心。  
-1. 【[眼泪含皰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_ly_hun_po.md#眼泪含皰)】`ngaen3 ly hun2 po1` <sup>[如皋]</sup> 见“眼泪咕咕”。  
+1. 【[眼泪含泡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_ly_hun_po.md#眼泪含泡)】`ngaen3 ly hun2 po1` <sup>[如皋]</sup> 见“眼泪咕咕”。  
 1. 【[眼泪巴沙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_ly_ba_sha.md#眼泪巴沙)】`ngaen3 ly6 ba1 sha1` <sup>[东台]</sup> 迎着风或谈起苦事就掉泪的样子。  
 1. 【[眼泪千漺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_ly_qin_shuan.md#眼泪千漺)】`ngaen3 ly6 qin1 shuan2` <sup>[东台]</sup> 形容十分伤心，眼泪直流：看见她～，我心里也难过。  
 1. 【[眼泪债](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_ly_zhae.md#眼泪债)】`ngaen3 ly6 zhae5` <sup>[如皋]</sup> 因亲密者死去而久久伤心落泪：一提到儿子她就哭，死掉十年吖啦，真真还不清的～！  
@@ -851,7 +851,7 @@
 1. 【[眼怕手不怕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_pa_sheu_beh_pa.md#眼怕手不怕)】`ngaen3 pa5 sheu3 beh7 pa5` <sup>[东台]</sup> 看起来很难，真正动手就能改观见效：～，这几亩田的豆子，我俫也种好啊。  
 1. 【[眼皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_pi.md#眼皮)】`ngaen3 pi2` <sup>[东台]</sup> 眼睑。  
 1. 【[眼泡虚肿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_po_xy_zhon.md#眼泡虚肿)】`ngaen3 po xy1 zhon3` <sup>[兴化]</sup> 上眼泡因哭泣或缺乏睡眠面浮肿：小刘因高考落榜，哭得～的。  
-1. 【[眼皰子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_po_zz.md#眼皰子)】`ngaen3 po1 zz` <sup>[如东]</sup> 眼皮。  
+1. 【[眼泡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_po_zz.md#眼泡子)】`ngaen3 po1 zz` <sup>[如东]</sup> 眼皮。  
 1. 【[眼白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_poh.md#眼白)】`ngaen3 poh8` <sup>[兴化]</sup> 眼眶内除眼珠以外部分，俗称“眼睛白子”。  
 1. 【[眼前](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_qin.md#眼前)】`ngaen3 qin2` <sup>[如东]</sup> 现在：不能只顾～利益。  
 1. 【[眼前亏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_qin_kuei.md#眼前亏)】`ngaen3 qin2 kuei1` <sup>[东台]</sup> 当前就会受到的损害：好汉不吃～。  
