@@ -894,7 +894,7 @@
 1. 【[上锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_gu.md#上锅)】`shan6 gu1` <sup>[兴化]</sup> ① 掌勺的厨师，也称“红锅”：老王在养和园当～。 ② 当锅做菜：（王二）拿了些鸡鸭肉酒菜等件，送在厨下，忙叫老婆～……（《粉妆楼》二五）  
 1. 【[上规矩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_guei_jy.md#上规矩)】`shan6 guei1 jy` <sup>[如皋]</sup> ① 合规范，严格，正轨。 ② 要求严格。又作“把规矩”。  
 1. 【[上规矩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_guei_jy.md#上规矩)】`shan6 guei1 jy` <sup>[如东]</sup> 按照规范办事：做事要～。  
-1. 【[上规矩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_guei_jy.md#上规矩)】`shan6 guei1 jy1` <sup>[兴化]</sup> 严格、正规、符合规范：这个培训班是上～的，不是谁想进就可以进的。  
+1. 【[上规矩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_guei_jy.md#上规矩)】`shan6 guei1 jy` <sup>[兴化]</sup> 严格、正规、符合规范：这个培训班是上～的，不是谁想进就可以进的。  
 1. 【[上下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_ha.md#上下)】`shan6 ha6` <sup>[如东]</sup> ① 大约：三层～。 ② 调整，变通：～一点儿没关系。  
 1. 【[上下把子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_ha_ba_zz.md#上下把子)】`shan6 ha6 ba3 zz` <sup>[如东]</sup> 比喻自己的帮手：他是我的～。  
 1. 【[上下手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_ha_sheu.md#上下手)】`shan6 ha6 sheu3` <sup>[如东]</sup> 自己的帮手：他是我的～。  

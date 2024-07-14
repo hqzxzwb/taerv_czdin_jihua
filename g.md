@@ -1923,7 +1923,7 @@
 1. 【[归宗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_zon.md#归宗)】`guei1 zon1` <sup>[东台]</sup> 旧时流落在外的宗亲异支归回本来的宗族。  
 1. 【[归总](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_zon.md#归总)】`guei1 zon3` <sup>[如东]</sup> 把分散的并到一处：～有多少？  
 1. 【[规矩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_jy.md#规矩)】`guei1 jy` <sup>[如东]</sup> ① 一定的标准、法则或习惯：做事要上～。 ② （行为）端正老实：王二蛮～的。  
-1. 【[规矩礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_jy_li.md#规矩礼)】`guei1 jy1 li3` <sup>[如皋]</sup> 既定的程序、手续：大家都这样，这是～。  
+1. 【[规矩礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_jy_li.md#规矩礼)】`guei1 jy li3` <sup>[如皋]</sup> 既定的程序、手续：大家都这样，这是～。  
 1. 【[规真](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_zhen.md#规真)】`guei1 zhen1` <sup>[如皋]</sup> 正规：一般说，上海货～些。｜他做事～，不马虎。｜～吖，不哄你。  
 1. 【[规整](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_zhen.md#规整)】`guei1 zhen3` <sup>[东台]</sup> 整齐，规矩。  
 1. 【[龟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei.md#龟)】`guei1` <sup>[如东]</sup> 龟科动物乌龟。  
