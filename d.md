@@ -135,7 +135,7 @@
 1. 【[打架<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ga_r.md#打架<sub>儿</sub>)】`da3 ga5 r` <sup>[兴化]</sup> ① 问价，但不一定要买：你要买就出个老实价，不要～。 ② （引）透出某种信息：陈老头子今年病歪歪的，阁王老爷来～啊。  
 1. 【[打架<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ga_r.md#打架<sub>儿</sub>)】`da3 ga5 r` <sup>[泰县]</sup> 试探、戏弄，打岔：你覅～，诚心买说个老实价。  
 1. 【[打街喊巷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_gae_haen_han.md#打街喊巷)】`da3 gae1 haen3 han6` <sup>[东台]</sup> 到处张扬，扩大影响。  
-1. 【[打𢾩箩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_gah_lu.md#打𢾩箩)】`da3 gah7 lu2` <sup>[兴化]</sup> 磨坊工人脚踩踏板带动面筛筛面谓之～。  
+1. 【[打搁箩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_gah_lu.md#打搁箩)】`da3 gah7 lu2` <sup>[兴化]</sup> 磨坊工人脚踩踏板带动面筛筛面谓之～。  
 1. 【[打𠵹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_gan.md#打𠵹)】`da3 gan1` <sup>[如皋]</sup> 答理：这个人玍古，你少同他～。  
 1. 【[打讲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_gan.md#打讲)】`da3 gan3` <sup>[如东]</sup> ① 说话：没人同他～。 ② 答理：他走出去，没人跟他～。  
 1. 【[打讲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_gan.md#打讲)】`da3 gan3` <sup>[东台]</sup> 先造舆论或只说不做：这件事～吖几年吖，还没得动作。  

@@ -424,6 +424,7 @@
 1. 【[脚板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_baen.md#脚板)】`jiah7 baen3` <sup>[如东]</sup> 人的脚。  
 1. 【[脚板底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_baen_di.md#脚板底)】`jiah7 baen3 di3` <sup>[如东]</sup> 脚底部。也称脚巴掌。  
 1. 【[脚板底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_baen_di.md#脚板底)】`jiah7 baen3 di3` <sup>[如皋]</sup> 脚底部分的统称。  
+1. 【[脚板底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_baen_di.md#脚板底)】`jiah7 baen3 di3` <sup>[兴化]</sup> 脚掌：我一气跑五十多里，～都跑啊疼吖。  
 1. 【[脚板心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_baen_xien.md#脚板心)】`jiah7 baen3 xien1` <sup>[如皋]</sup> 脚弓下方。  
 1. 【[脚板心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_baen_xien.md#脚板心)】`jiah7 baen3 xien1` <sup>[兴化]</sup> 脚掌中央部分。  
 1. 【[脚板心抹油——开溜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_baen_xien_maeh_ieu_kae_lieu.md#脚板心抹油——开溜)】`jiah7 baen3 xien1 maeh8 ieu2 kae1 lieu1` <sup>[东台]</sup>   
@@ -437,7 +438,6 @@
 1. 【[脚长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_chan.md#脚长)】`jiah7 chan2` 腿长  
 1. 【[脚大脸丑的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_da_lin_cheu_dii.md#脚大脸丑的)】`jiah7 da6 lin3 cheu3 dii` <sup>[东台]</sup> ［喻］某种言行过激伤害感情或暴露了丑陋的一面：小事情宽容一些，覅都弄得～。  
 1. 【[脚底下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_di_xia.md#脚底下)】`jiah7 di3 xia` <sup>[兴化]</sup> 下面：我家住的三楼，～是一户转业军人。  
-1. 【[脚板底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_di_baen.md#脚板底)】`jiah7 di3 baen3` <sup>[兴化]</sup> 脚掌：我一气跑五十多里，～都跑啊疼吖。  
 1. 【[脚家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_ga.md#脚家)】`jiah7 ga` <sup>[如皋]</sup> 搬运工人。  
 1. 【[脚跟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_gen.md#脚跟)】`jiah7 gen1` <sup>[如皋]</sup> ① 脚后跟。 ② 墙基及附近：墙～、城～。  
 1. 【[脚跟脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_gen_jiah.md#脚跟脚)】`jiah7 gen1 jiah7` 一前一后，时间相隔不长  

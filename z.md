@@ -526,8 +526,8 @@
 1. 【[这到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_do.md#这到)】`zha5 do` <sup>[泰县]</sup> 这一下。  
 1. 【[这叨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_do.md#这叨)】`zha5 do` <sup>[如皋]</sup> 从现在起：我连吃咖三大杯，～好啊吧？  
 1. 【[这朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_do.md#这朝)】`zha5 do` <sup>[如皋]</sup> 从此以后，这样一来。  
+1. 【[这朝子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_do_zz.md#这朝子)】`zha5 do zz` <sup>[如皋]</sup> 见“这朝”。  
 1. 【[这𠴼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_do.md#这𠴼)】`zha5 do` <sup>[如东]</sup> 这样，这一下，这一回。也说“箇𠴼（geh7 do）”。  
-1. 【[这朝子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_do_zz.md#这朝子)】`zha5 do5 zz` <sup>[如皋]</sup> 见“这朝”。  
 1. 【[这个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_gu.md#这个)】`zha5 gu` <sup>[如东]</sup> 这个：～东西不好。  
 1. 【[这个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_gu.md#这个)】`zha5 gu` <sup>[如东]</sup> 这一个：～不好。  
 1. 【[这葛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_guh.md#这葛)】`zha5 guh7` <sup>[东台]</sup> 此刻。也称这刻儿、这晚这早晚。da5 guh7。  
