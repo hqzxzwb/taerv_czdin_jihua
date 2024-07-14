@@ -691,7 +691,7 @@
 1. 【[根底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_di.md#根底)】`gen1 di3` <sup>[如东]</sup> 根源：要把～搞清楚。  
 1. 【[根底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_di.md#根底)】`gen1 di3` <sup>[如皋]</sup> 有关某人的全部情况。  
 1. 【[根源](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_iun.md#根源)】`gen1 iun2` <sup>[如东]</sup> ① 起源。 ② 事物发生发展的根本原因：～是甚的，要搞清楚。  
-1. 【[根基](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_ji.md#根基)】`gen1 ji3` <sup>[如东]</sup> ① 基础：～强。 ② 比喻家底：李明的～好。  
+1. 【[根基](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_ji.md#根基)】`gen1 ji1` <sup>[如东]</sup> ① 基础：～强。 ② 比喻家底：李明的～好。  
 1. 【[根脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_jiah.md#根脚)】`gen1 jiah7` <sup>[如东]</sup> 禾苗的生长密度、状况等：这块田里的棉花～不错。  
 1. 【[根脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_jiah.md#根脚)】`gen1 jiah7` <sup>[兴化]</sup> 住址、底细：雇保姆先把～弄清爽楚。｜倪太守连忙转身……教他访那女子～……（此处“根”作“跟”）（《古今小说》十）  
 1. 【[根牢石稳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_lo_sheh_ven.md#根牢石稳)】`gen1 lo2 sheh8 ven3` <sup>[东台]</sup> 形容建筑基础和竖立的七梁八柱牢固，不可动摇：办事要～，才让人放心。  

@@ -1331,8 +1331,8 @@
 1. 【[苦苦哝哝的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_kv_non_non_dii.md#苦苦哝哝的)】`kv3 kv non2 non2 dii` <sup>[如皋]</sup> 痛苦可怜的样子。  
 1. 【[苦领](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_lien.md#苦领)】`kv3 lien3` <sup>[兴化]</sup> 在艰难困苦中抚育子女：小顾的爸爸死得早，是母亲把他俫姐弟两个～成人的。  
 1. 【[苦留](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_lieu.md#苦留)】`kv3 lieu2` <sup>[兴化]</sup> 殷勤地挽留客人：老朋友～，我又多住啊几天。  
-1. 【[苦楝树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_lin_shv.md#苦楝树)】`kv3 lin3 shv6` <sup>[兴化]</sup> 楝树，落叶乔木，树汁味苦，不生虫，果实、树皮可入药，木材可制作农具、家具。  
 1. 【[苦脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_lin.md#苦脸)】`kv3 lin3` <sup>[兴化]</sup> 形容忧愁、苦闷的样子：这个爷们讨了便宜还想便宜……厨头～了……（《武松》七）  
+1. 【[苦楝树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_lin_shv.md#苦楝树)】`kv3 lin6 shv6` <sup>[兴化]</sup> 楝树，落叶乔木，树汁味苦，不生虫，果实、树皮可入药，木材可制作农具、家具。  
 1. 【[苦老伤心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_lo_shan_xien.md#苦老伤心)】`kv3 lo3 shan1 xien1` <sup>[泰县]</sup> 很伤心：她哭得～的，眼泪直淌。  
 1. 【[苦麻草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_ma_co.md#苦麻草)】`kv3 ma co3` <sup>[东台]</sup> 一年生草本野生植物，药名“败酱草”，异名女郎花，俗称苦菜，别名刺楬、天香菜等。药用食用兼具。本地常作猪草。  
 1. 【[苦捱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_ngae.md#苦捱)】`kv3 ngae2` <sup>[兴化]</sup> 在艰难困苦中度过岁月：为啊伢儿，再穷的日子也要朝前～呀！  

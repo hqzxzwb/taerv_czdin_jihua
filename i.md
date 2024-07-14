@@ -1273,7 +1273,7 @@
 1. 【[一碗灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_un_den.md#一碗灯)】`ieh7 un3 den1` <sup>[泰县]</sup> 一盏灯。  
 1. 【[一碗水端平](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_un_shuei_dun.md#一碗水端平)】`ieh7 un3 shuei3 dun1 pien2` <sup>[泰兴]</sup> 喻处事公平：当干部的不问处理甚的纠纷，总要～。  
 1. 【[一无所有](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_v_su_ieu.md#一无所有)】`ieh7 v2 su3 ieu3` <sup>[泰兴]</sup> 什么都没有，喻穷得很厉害。乡人有“王小二过年，～”之谚。  
-1. 【[一五一十](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_v_ieh_sheh.md#一五一十)】`ieh7 v5 ieh7 sheh8` <sup>[泰兴]</sup> 形容叙述的内容原原本本，没有遗漏。  
+1. 【[一五一十](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_v_ieh_sheh.md#一五一十)】`ieh7 v3 ieh7 sheh8` <sup>[泰兴]</sup> 形容叙述的内容原原本本，没有遗漏。  
 1. 【[一𢱉一𢱉的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_vae_ieh_vae_dii.md#一𢱉一𢱉的)】`ieh7 vae3 ieh7 vae3 dii` <sup>[如皋]</sup> 走路摇摆的样子。  
 1. 【[一汪亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_van_lian.md#一汪亮)】`ieh7 van1 lian6` <sup>[如皋]</sup> 一片亮光：瞎子磨刀——～。  
 1. 【[一网打啊皂壳树上去啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_van_da_a_co_kah_shv_shan_qy_a.md#一网打啊皂壳树上去啊)】`ieh7 van3 da3 a co6 kah7 shv6 shan qy5 a` <sup>[如皋]</sup> 彻底绝望了。  

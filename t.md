@@ -1518,7 +1518,7 @@
 1. 【[天天天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_tin_tin.md#天天天)】`tin1 tin1 tin1` <sup>[兴化]</sup> 指每一天：这个家伙太讨厌，～来找麻烦。  
 1. 【[天天新](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_tin_xien.md#天天新)】`tin1 tin1 xien1` <sup>[泰县]</sup> 草鞋。  
 1. 【[天条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_tio.md#天条)】`tin1 tio2` <sup>[如东]</sup> 上帝规定的戒律，称天条。这是神和人都必须遵守的：切不可犯～。比喻国家法律。  
-1. 【[天□下来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_uh_ha_lae_a.md#天□下来啊)】`tin1 uh7 ha lae2 a` <sup>[如东]</sup> 形容大雨即将来临的天气状况：快点儿收工吧，～。  
+1. 【[天盦下来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_uh_ha_lae_a.md#天盦下来啊)】`tin1 uh7 ha lae2 a` <sup>[如东]</sup> 形容大雨即将来临的天气状况：快点儿收工吧，～。  
 1. 【[天暗蓬蓬的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_un_pon_pon_dii.md#天暗蓬蓬的)】`tin1 un5 pon1 pon1 dii` <sup>[如皋]</sup> 天色暗而视觉浑。  
 1. 【[天晚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_vaen.md#天晚)】`tin1 vaen3` <sup>[兴化]</sup> 太阳落山至深夜以前：他早上出去打工，～才家来。  
 1. 【[天王老子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_van_lo_zz.md#天王老子)】`tin1 van2 lo3 zz` <sup>[如皋]</sup> 最大者：我决定去参军，～也拦不住我！  

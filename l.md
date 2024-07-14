@@ -1689,7 +1689,6 @@
 1. 【[楝树牛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_shv_ngeu_r.md#楝树牛<sub>儿</sub>)】`lin6 shv6 ngeu2 r` <sup>[如东]</sup> 天牛科昆虫星天牛。  
 1. 【[㞠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio.md#㞠)】`lio2` <sup>[兴化]</sup> ① 男子的外生殖器。 ② 雄性驴、马等的外生殖器。原文作“屪”，《字汇·尸部》力宵切，“～，男阴名”：谚曰驴～子向东，马～子向西。  
 1. 【[㞠礓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_jian_r.md#㞠礓<sub>儿</sub>)】`lio2 jian3 r` <sup>[兴化]</sup> 小便的贬义说法：射～。  
-1. 【[了首尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_sheu_vei.md#了首尾)】`lio2 sheu3 vei3` <sup>[兴化]</sup> 给儿女办完婚事：我还有小儿子结婚一桩大事，就全部～啊。  
 1. 【[僚气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_qi.md#僚气)】`lio2 qi5` <sup>[兴化]</sup> （戏）官僚作风、官气：别看他官不大，～十足。  
 1. 【[嫽拨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_buh.md#嫽拨)】`lio2 buh7` <sup>[如皋]</sup> 撩拨。  
 1. 【[嫽人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_ren.md#嫽人)】`lio2 ren2` <sup>[如皋]</sup> 见“嫽骚”。  
@@ -1732,6 +1731,7 @@
 1. 【[了手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_sheu.md#了手)】`lio3 sheu3` <sup>[东台]</sup> 办完；了结。  
 1. 【[了手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_sheu.md#了手)】`lio3 sheu3` <sup>[兴化]</sup> ① 事情办完：张家的活计还有三天～。 ② 了结：“……我又不是个丫头，把我关在家里，何日是个～……”（《红楼梦》四八）  
 1. 【[了首尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_sheu_vei.md#了首尾)】`lio3 sheu3 vei3` <sup>[东台]</sup> 指完成对子女的责任。  
+1. 【[了首尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_sheu_vei.md#了首尾)】`lio3 sheu3 vei3` <sup>[兴化]</sup> 给儿女办完婚事：我还有小儿子结婚一桩大事，就全部～啊。  
 1. 【[了首尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_sheu_vei.md#了首尾)】`lio3 sheu3 vei3` <sup>[泰县]</sup> 完成了培育子女的事。  
 1. 【[了微<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_vei_r.md#了微<sub>儿</sub>)】`lio3 vei2 r` <sup>[如东]</sup> 稍微：～晚点。  
 1. 【[了戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_xi.md#了戏)】`lio3 xi5` <sup>[兴化]</sup> ① 完了：～！皮五辣子今日是非打肉不可了……（扬说《皮五辣子打肉》三） ② “死”的隐语：老王三～啊。  

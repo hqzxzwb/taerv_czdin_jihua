@@ -341,7 +341,7 @@
 1. 【[八怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_guae.md#八怪)】`baeh7 guae5` <sup>[如皋]</sup> 状奇特：丑～。  
 1. 【[八怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_guae.md#八怪)】`baeh7 guae5` <sup>[兴化]</sup> 旧时无固定经营场所，专事小额商品中介的业者：他过去当～，靠一张嘴、两条腿混饭吃。也称“辵辵儿行”。  
 1. 【[八怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_guae.md#八怪)】`baeh7 guae5` <sup>[泰兴]</sup> 对调皮的小孩、不务正业、不修边幅者的贬称：箇个伢儿太调皮，一天到夜脏巴邋遢的，真是个丑～。  
-1. 【[八下的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_ha_dii.md#八下的)】`baeh7 ha6 dii` <sup>[如皋]</sup> 同“四里八下的”，表示面广：他现在不得了啦，～赅债，怎吖还得起呀！  
+1. 【[八下里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_ha_lii.md#八下里)】`baeh7 ha6 lii` <sup>[如皋]</sup> 同“四里八下的”，表示面广：他现在不得了啦，～赅债，怎吖还得起呀！  
 1. 【[八音锣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_ien_lu.md#八音锣)】`baeh7 ien1 lu2` <sup>[如皋]</sup> 实际按在架子上的有十面小锣，八音，是指完整的一组音阶。  
 1. 【[八音钟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_ien_zhon.md#八音钟)】`baeh7 ien1 zhon1` <sup>[如皋]</sup> 是指高级音乐座钟。  
 1. 【[八月半](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_iuh_bun.md#八月半)】`baeh7 iuh bun5` <sup>[兴化]</sup> 农历八月十五，中秋节：今朝～，晚上敬月光，吃团圆酒。  

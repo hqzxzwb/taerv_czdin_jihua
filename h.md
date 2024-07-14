@@ -2247,7 +2247,8 @@
 1. 【[会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei.md#会)】`huei6` <sup>[兴化]</sup> 民间一种筹款方式，由需款人发起请～，邀集若干人按时分批缴款，首会由发起人取用，此后分期“标会”，中标（得会）者收回付款。  
 1. 【[会船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_chun.md#会船)】`huei6 chun2` <sup>[泰县]</sup> 下河农民香期比赛的船。  
 1. 【[会当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_dan.md#会当)】`huei6 dan1` <sup>[东台]</sup> 两车相遇称之谓～。  
-1. 【[会档](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_dan.md#会档)】`huei6 dan3` <sup>[兴化]</sup> 小车船在途中交会：西往芦荡，取鱼的、放鸭的、罱肥料的。船虽多，～从不相撞。（马春阳《父女双婚事》）  
+1. 【[会当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_dan.md#会当)】`huei6 dan1` <sup>[泰县]</sup> 迎面相会：两辆汽车在～的时候撞吖。  
+1. 【[会挡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_dan.md#会挡)】`huei6 dan3` <sup>[兴化]</sup> 小车船在途中交会：西往芦荡，取鱼的、放鸭的、罱肥料的。船虽多，～从不相撞。（马春阳《父女双婚事》）  
 1. 【[会得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_deh.md#会得)】`huei6 deh` <sup>[如皋]</sup> 能够：落雪天他不～来。  
 1. 【[会得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_deh.md#会得)】`huei6 deh` <sup>[兴化]</sup> 能够、会：这道题我～。｜“……是北乡郑三山的女儿，十八岁……煮茶、做饭、织布、绩麻，件件～……”（《三刻》十一）  
 1. 【[会得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_deh.md#会得)】`huei6 deh7` 相当于普通话的“会”，表示事情可能发生。一般用于否定句和疑问句。  
@@ -2286,7 +2287,6 @@
 1. 【[慧眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_ngaen.md#慧眼)】`huei6 ngaen3` <sup>[东台]</sup> 佛家语。能认识过去、未来的眼力。也泛指能照见实相的智慧。  
 1. 【[桧柽柳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_chen_lieu.md#桧柽柳)】`huei6 chen1 lieu3` <sup>[如东]</sup> 柽柳科植物柽柳，灌木或小乔木。  
 1. 【[槥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei.md#槥)】`huei6` <sup>[如皋]</sup> 简易棺材，无𤖱头。施～：给无力收者送的简易棺材。  
-1. 【[汇当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_dan.md#汇当)】`huei6 dan1` <sup>[泰县]</sup> 迎面相会：两辆汽车在～的时候撞吖。  
 1. 【[汇齐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qi.md#汇齐)】`huei6 qi2` <sup>[兴化]</sup> 聚集：明早八点半到板桥宾馆～。  
 1. 【[烩肝肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_gun_chan.md#烩肝肠)】`huei6 gun1 chan2` <sup>[东台]</sup> 用已经煮熟的猪肝、大肠，外加菠菜、茨菇片一道下锅烩熟，糖醋起锅勾芡即成。  
 1. 【[婚嫁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_ga.md#婚嫁)】`huen1 ga5` <sup>[东台]</sup> 泛指男女成婚：哪个父母不为儿女的～操劳？  
@@ -2685,7 +2685,7 @@
 1. 【[呼打流星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_da_lieu_xien.md#呼打流星)】`hv1 da3 lieu2 xien1` <sup>[如皋]</sup> 形容熟睡打呼噜。常作补语：他睡得～的。  
 1. 【[呼而塌嗤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_er_taeh_chi.md#呼而塌嗤)】`hv1 er taeh7 chi1` <sup>[兴化]</sup> 形容酣睡的样子：他一上床就～的睏着咖。  
 1. 【[呼家庄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_ga_zhuan.md#呼家庄)】`hv1 ga1 zhuan1` <sup>[如东]</sup> 比喻睡觉：王二已经上吖～。  
-1. 【[呼么喝六](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_io_huh_loh.md#呼么喝六)】`hv1 io1 huh7 loh8` <sup>[兴化]</sup> ① 掷骰时的喊声（么、六是骰子的点子），泛指赌博时的喧闹声。 ② 形容盛气凌人的样子：（倪善继）见老子病势沉重，料是不起，便～，打童骂仆，预先装出家主公的架子来。（《古今小说》十）  
+1. 【[呼吆喝六](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_io_huh_loh.md#呼吆喝六)】`hv1 io1 huh7 loh8` <sup>[兴化]</sup> ① 掷骰时的喊声（么、六是骰子的点子），泛指赌博时的喧闹声。 ② 形容盛气凌人的样子：（倪善继）见老子病势沉重，料是不起，便～，打童骂仆，预先装出家主公的架子来。（《古今小说》十）  
 1. 【[呼来喝去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_lae_huh_qy.md#呼来喝去)】`hv1 lae2 huh7 qy5` <sup>[如皋]</sup> 粗暴叫喊使唤的样子。  
 1. 【[呼来喝去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_lae_huh_qy.md#呼来喝去)】`hv1 lae2 huh7 qy5` <sup>[东台]</sup> 用粗暴的声音使唤人：你这吖～的，哪个睬你呀？！  
 1. 【[呼辣气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_laeh_qi.md#呼辣气)】`hv1 laeh8 qi` <sup>[如皋]</sup> 指食葱蒜类食物后人体散发出的气味。  

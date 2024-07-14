@@ -148,7 +148,6 @@
 1. 【[败毒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pae_toh.md#败毒)】`pae6 toh8` <sup>[泰县]</sup> 解读：水蛭儿吃咖清火～。  
 1. 【[败兴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pae_xien.md#败兴)】`pae6 xien5` <sup>[兴化]</sup> 因为遇到不如意的事情而扫兴：乘兴而来，～而归。｜这次出门遇到小偷，真是～。  
 1. 【[败仗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pae_zhan.md#败仗)】`pae6 zhan5` <sup>[如东]</sup> 失利的战斗。比喻工作失败了。  
-1. 【[八下的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paeh_ha_dii.md#八下的)】`paeh7 ha6 dii` <sup>[如皋]</sup> 见“四里八下的”。  
 1. 【[拔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paeh.md#拔)】`paeh8` 拔  
 1. 【[拔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paeh.md#拔)】`paeh8` <sup>[兴化]</sup> ① 在水中浸泡，吸出被浸物中某种东西，如在水中浸泡芡粉，去掉酸味：～驼粉。 ② 把东西浸在凉水中，吸去热量：井～西瓜。  
 1. 【[拔插](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paeh_chaeh.md#拔插)】`paeh8 chaeh7` <sup>[如东]</sup> 房屋里第五架梁前边的一架梁之间的空间，称拔插。房屋里过梁上面的槅板，称拔插。  

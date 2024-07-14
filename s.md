@@ -2639,7 +2639,7 @@
 1. 【[双吖事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_nga_shr.md#双吖事)】`shuan1 nga shr6` <sup>[东台]</sup> 两桩事同时，不便分身。  
 1. 【[双眼不通](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_ngaen_beh_ton.md#双眼不通)】`shuan1 ngaen3 beh7 ton1` <sup>[兴化]</sup> 盲人：他奶奶～，是个瞎子。  
 1. 【[双眼箍子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_ngaen_gv_zz.md#双眼箍子)】`shuan1 ngaen3 gv1 zz` <sup>[东台]</sup> 双眼皮。  
-1. 【[双眼疱子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_ngaen_po_zz.md#双眼疱子)】`shuan1 ngaen3 po1 zz` <sup>[如皋]</sup> 双眼皮。上眼睑有一条褶线，使眼形美  
+1. 【[双眼泡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_ngaen_po_zz.md#双眼泡子)】`shuan1 ngaen3 po1 zz` <sup>[如皋]</sup> 双眼皮。上眼睑有一条褶线，使眼形美  
 1. 【[双皮老虎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_pi_lo_hv.md#双皮老虎)】`shuan1 pi2 lo3 hv3` <sup>[兴化]</sup> （喻）有双重罪行的人：他是汉奸，又是一贯道点传师，标准的～。  
 1. 【[双皮老虎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_pi_lo_hv.md#双皮老虎)】`shuan1 pi2 lo3 hv3` <sup>[泰县]</sup> 有几重反动身份的坏蛋。  
 1. 【[双泡<sub>儿</sub>眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_po_r_ngaen.md#双泡<sub>儿</sub>眼)】`shuan1 po1 r ngaen3` <sup>[泰县]</sup> 双眼皮。  
