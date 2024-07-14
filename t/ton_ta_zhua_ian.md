@@ -1,4 +1,4 @@
 # 同他抓痒
-ton1 ta1 zhua1 ian3
+ton2 ta1 zhua1 ian3
 > 如皋方言词典
 - 喻批评过轻或打得过轻。
