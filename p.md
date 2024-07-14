@@ -285,7 +285,7 @@
 1. 【[螃蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_hae.md#螃蟹)】`pan2 hae3` 戏称身上洗澡时擦下的污垢，同“𪣩ken5”。  
 1. 【[螃蟹壳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_hae_kah.md#螃蟹壳)】`pan2 hae3 kah7` <sup>[如东]</sup> 方蟹科动物中华绒螯蟹甲壳。  
 1. 【[螃蟹壳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_hae_kah_r.md#螃蟹壳<sub>儿</sub>)】`pan2 hae3 kah7 r` <sup>[泰县]</sup> 砖头包在外面的土墙。  
-1. 【[鳑鲏<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_pi_r.md#鳑鲏<sub>儿</sub>)】`pan2 pi3 r` <sup>[泰县]</sup> 一种小鱼。  
+1. 【[鳑鲏<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_pi_r.md#鳑鲏<sub>儿</sub>)】`pan2 pi2-3 r` <sup>[泰县]</sup> 一种小鱼。  
 1. 【[髈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan.md#髈)】`pan3` <sup>[东台]</sup> 大腿：春节前他给老丈人送吖只猪蹄～。  
 1. 【[髈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan.md#髈)】`pan3` <sup>[兴化]</sup> ① 大腿：大～。 ② 作为食品的猪腿，也称“肘子”。《广韵·荡韵》匹朗切：“～，髀，吴人云～。”  
 1. 【[髈肚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_dv_r.md#髈肚<sub>儿</sub>)】`pan3 dv3 r` <sup>[如皋]</sup> ① 小腿后部有肌肉的部分。 ② 小腿。  
@@ -665,7 +665,7 @@
 1. 【[鼻涕拉乎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_ti_la_hv.md#鼻涕拉乎)】`pieh8 ti la1 hv1` <sup>[兴化]</sup> 鼻涕流出，挂在唇上：那个伢儿～的也顾不得揩。  
 1. 【[鼻涕巴沙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_ti_ba_sha.md#鼻涕巴沙)】`pieh8 ti1 ba1 sha1` <sup>[东台]</sup> 鼻涕多，不停地淌的样子。  
 1. 【[鼻涕虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_ti_chon.md#鼻涕虫)】`pieh8 ti1 chon2` <sup>[东台]</sup> 蜒蛐，又叫蛞蝓。外表看起来像没壳的蜗牛，体表湿润有黏液，雌雄同体，害虫。  
-1. 【[鼻涕往嘴里淌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_ti_van_jy_lii_tan.md#鼻涕往嘴里淌)】`pieh8 ti1 van6 jy3 lii tan3` <sup>[东台]</sup> ［喻］顺理成章，必然会发生的，或道理很简单的事：多劳则多得，这个是～的事。  
+1. 【[鼻涕望嘴里淌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_ti_van_jy.md#鼻涕望嘴里淌)】`pieh8 ti1 van6 jy3 lii tan3` <sup>[东台]</sup> ［喻］顺理成章，必然会发生的，或道理很简单的事：多劳则多得，这个是～的事。  
 1. 【[鼻涕拉沙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_ti_la_sha.md#鼻涕拉沙)】`pieh8 ti5 la sha` <sup>[如东]</sup> 不断地流鼻涕。鼻孔上粘着鼻涕巴子。  
 1. 【[鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_zz.md#鼻子)】`pieh8 zz` 鼻子  
 1. 【[鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_zz.md#鼻子)】`pieh8 zz` <sup>[如皋]</sup> ① 鼻涕：流清水～。 ② 喻人格、脸面：你做这种事。你哿要～啊？ ③ 器盖的钮。  

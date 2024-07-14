@@ -1120,7 +1120,6 @@
 1. 【[睏眨眨<sub>儿</sub>觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_zhaeh_zhaeh_r_go.md#睏眨眨<sub>儿</sub>觉)】`kuen5 zhaeh7 zhaeh7 r go5` <sup>[如皋]</sup> 刚入睡就醒了。  
 1. 【[睏中觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_zhon_go.md#睏中觉)】`kuen5 zhon1 go5` 午睡  
 1. 【[睏早起](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_zo_qi.md#睏早起)】`kuen5 zo3 qi3` <sup>[如东]</sup> 早晨起不来：毛毛喜欢～。  
-1. 【[睡啊着咖笑啊醒吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_nga_chah_ga_xio_a_xien_nga.md#睡啊着咖笑啊醒吖)】`kuen5 nga chah8 ga xio5 a xien3 nga` <sup>[如皋]</sup> 实在开心，特别开心。  
 1. 【[嗑牙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh_nga.md#嗑牙)】`kuh7 nga2` <sup>[兴化]</sup> 闲谈：几个人没事就在一起闲～。  
 1. 【[嗑穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh_qion.md#嗑穷)】`kuh7 qion2` <sup>[如皋]</sup> 哭穷。  
 1. 【[嗑穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh_qion.md#嗑穷)】`kuh7 qion2` <sup>[兴化]</sup> 即哭穷：老朱这几年混得不错，但是见吖老乡就～。  
@@ -1247,7 +1246,7 @@
 1. 【[看见鲤鱼天门大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_jin_li_y_tin_men_da.md#看见鲤鱼天门大)】`kun5 jin5 li3 y2 tin1 men2 da6` <sup>[东台]</sup> （俗语）实际情况并没有传说中的那么大。  
 1. 【[看郎中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_lan_zhon.md#看郎中)】`kun5 lan2 zhon1` <sup>[东台]</sup> 看医生。  
 1. 【[看冷破](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_len_pu.md#看冷破)】`kun5 len3 pu5` <sup>[如皋]</sup> 冷眼相看，看出问题也不指出，让他吃苦头。  
-1. 【[看吖扁啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_nga_bin_nga.md#看吖扁啊)】`kun5 nga bin3 nga` <sup>[如皋]</sup> 看透真相后表示瞧不起。  
+1. 【[看吖扁吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_nga_bin_nga.md#看吖扁吖)】`kun5 nga bin3 nga` <sup>[如皋]</sup> 看透真相后表示瞧不起。  
 1. 【[看吖𡰑啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_nga_qio_a.md#看吖𡰑啊)】`kun5 nga qio2 a` <sup>[如皋]</sup> 看透真相后表示瞧不起。  
 1. 【[看吖下啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_nga_xia_a.md#看吖下啊)】`kun5 nga xia6 a` <sup>[如皋]</sup> 不愿、不能再看下去了。  
 1. 【[看病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_pien.md#看病)】`kun5 pien6` <sup>[如东]</sup> 请医生诊断治疗疾病。  

@@ -2936,6 +2936,7 @@
 1. 【[水猪头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_zhv_teu.md#水猪头)】`shuei3 zhv1 teu2` <sup>[如东]</sup> 此喻不聪明：此人是个～。  
 1. 【[水子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_zz.md#水子)】`shuei3 zz` <sup>[兴化]</sup> 钞票的隐语。  
 1. 【[瑞雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_xiuh.md#瑞雪)】`shuei5 xiuh7` <sup>[如东]</sup> 冬天降雪，称瑞雪。  
+1. 【[睡啊着咖笑啊醒吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_a_chah_ga.md#睡啊着咖笑啊醒吖)】`shuei5 a chah8 ga xio5 a xien3 nga` <sup>[如皋]</sup> 实在开心，特别开心。  
 1. 【[睡啊鼓里摸钟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_a_gv_lii_mah_zhon.md#睡啊鼓里摸钟)】`shuei5 a gv3 lii mah8 zhon1` <sup>[兴化]</sup> 处于封闭、隔膜状态：你～，对外头的情况全然不知。“睡”也作“睏”。  
 1. 【[睡不眠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_beh_min.md#睡不眠)】`shuei5 beh7 min2` <sup>[如皋]</sup> 睡眠浅，似睡非睡。  
 1. 【[睡长觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_chan_go.md#睡长觉)】`shuei5 chan2 go5` <sup>[兴化]</sup> 骂人长睡不醒，死也：这个家伙坏事做绝，终于睡啊长觉。  
