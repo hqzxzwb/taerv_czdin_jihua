@@ -2598,10 +2598,10 @@
 1. 【[涮马把<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuaen_ma_ba_r.md#涮马把<sub>儿</sub>)】`shuaen5 ma3 ba3 r` <sup>[如皋]</sup> 涮洗马桶的把儿，一般用竹篾、高粱苗子等捆扎而成。  
 1. 【[涮马桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuaen_ma_ton.md#涮马桶)】`shuaen5 ma3 ton3` <sup>[如皋]</sup> 清洗马桶，用篾制刷马把儿刮刷马桶内壁，冲洗干净，阴干备用。  
 1. 【[涮涮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuaen_shuaen.md#涮涮)】`shuaen5 shuaen` <sup>[如东]</sup> 把东西放在水中摆摆：把菜叶子放吖水里～。  
-1. 【[嗍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuah.md#嗍)】`shuah7` 吮吸  
 1. 【[嗍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuah.md#嗍)】`shuah7` <sup>[如皋]</sup> 吮吸：～奶、～指头、～棒冰。  
 1. 【[嗍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuah.md#嗍)】`shuah7` <sup>[如东]</sup> 用嘴唇吸吮食物。  
 1. 【[嗍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuah.md#嗍)】`shuah7` <sup>[东台]</sup> 吮吸：婴儿～奶头｜抠屁眼十八～（对小气鬼的夸张说法）。  
+1. 【[嗍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuah.md#嗍)】`shuah7` <sup>[兴化]</sup> 吮吸：～棒冰；～糖；～奶头。  
 1. 【[嗍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuah.md#嗍)】`shuah7` <sup>[泰县]</sup> ① 变色：他脸上～色。 ② 瘦削：病吖才几关，他瘦啊～下去啊。  
 1. 【[嗍蟹渣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuah_hae_zha.md#嗍蟹渣)】`shuah7 hae3 zha1` <sup>[东台]</sup> 吮吸蟹渣的鲜咸汁水。（见“蟹渣”）  
 1. 【[嗍筷<sub>儿</sub>头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuah_kaue_r_teu_zz.md#嗍筷<sub>儿</sub>头子)】`shuah7 kaue5 r teu2 zz` <sup>[如皋]</sup> 见“嗍筷儿”。  
@@ -2609,13 +2609,12 @@
 1. 【[嗍筷头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuah_kuae_teu_r.md#嗍筷头<sub>儿</sub>)】`shuah7 kuae5 teu2 r` <sup>[如东]</sup> 用舌头把筷头儿上的菜汤吸干净。比喻没有菜吃。  
 1. 【[嗍腮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuah_sae.md#嗍腮)】`shuah7 sae1` <sup>[如皋]</sup> 下部瘦削的脸型：他尖嘴儿～的像个猴儿。  
 1. 【[嗍色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuah_seh.md#嗍色)】`shuah7 seh7` <sup>[如皋]</sup> 脸色苍白，无血色：病久了，脸上～咖；听到判死刑，他的脸站吖下～咖。  
+1. 【[嗍嗍糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuah_shuah_tan.md#嗍嗍糖)】`shuah7 shuah7 tan2` <sup>[兴化]</sup> 棒棒糖，一种带有小棒的糖块。也称“棒儿糖”  
 1. 【[嗍味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuah_vei.md#嗍味)】`shuah7 vei6` <sup>[如皋]</sup> 喻意思、价值：这趟差事～不小。  
 1. 【[嗍味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuah_vei.md#嗍味)】`shuah7 vei6` <sup>[如东]</sup> 有味道，有价值：在这许工作有～。  
 1. 【[搠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuah.md#搠)】`shuah7` <sup>[如皋]</sup> 用力上下提摔：拿网袋儿装芋头往地下～，没多刻儿皮就下来。  
 1. 【[朔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuah.md#朔)】`shuah7` <sup>[兴化]</sup> 形容两颏瘦削：嘴巴瘦啊～上去。  
 1. 【[朔气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuah_qi.md#朔气)】`shuah7 qi5` <sup>[东台]</sup> 冰、霜、雾冷气袭人或北方来的冷空气：～传金柝，寒光照铁衣（木兰辞）｜今吖早上～大，出门要多穿衣裳。  
-1. 【[欶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuah.md#欶)】`shuah7` <sup>[兴化]</sup> 吮吸：～棒冰｜～糖｜～奶头。《广韵·觉韵》所角切｜“～，口噏也”。  
-1. 【[欶欶糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuah_shuah_tan.md#欶欶糖)】`shuah7 shuah7 tan2` <sup>[兴化]</sup> 棒棒糖，一种带有小棒的糖块。也称“棒儿糖”  
 1. 【[蒴藋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuah_chuah.md#蒴藋)】`shuah7 chuah8` <sup>[如东]</sup> 忍冬科植物蒴菹，又名落得打，灌木状草本。高约3米。主根垂直。茎具棱，多分枝。叶对生，单数羽状复叶，小叶长椭圆状披针形，边缘具尖锐锯齿。复伞房花序顶生。花小，白色。浆果球形，红色。生长在河边或宅旁。  
 1. 【[蒴藋赤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuah_chuah_cheh_zz.md#蒴藋赤子)】`shuah7 chuah8 cheh7 zz` <sup>[如东]</sup> 忍冬科植物蒴藿的果实。  
 1. 【[双胞<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_bo_r.md#双胞<sub>儿</sub>)】`shuan1 bo1 r` 双胞胎  
