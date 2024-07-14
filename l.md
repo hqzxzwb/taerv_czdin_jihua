@@ -1951,7 +1951,6 @@
 1. 【[老大哥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_da_gu.md#老大哥)】`lo3 da6 gu1` <sup>[如皋]</sup> 土气十足的人。  
 1. 【[老大哥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_da_gu.md#老大哥)】`lo3 da6 gu1` <sup>[如皋]</sup> ① 尊称兄长。尊称友人（男性）。 ② 贬称农民。源自“农民老大哥”一词。  
 1. 【[老呆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_dae.md#老呆)】`lo3 dae1` <sup>[如皋]</sup> 老，副词，指礼让不争或不想相争的人。  
-1. 【[老爹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_dia.md#老爹)】`lo3 dai1` <sup>[如东]</sup> ① 对父亲的称谓。 ② 年老的妇女对丈夫的称呼。 ③ 对老年男子的尊称。  
 1. 【[老驐牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_den_ngeu.md#老驐牛)】`lo3 den1 ngeu2` <sup>[东台]</sup> 形容缺乏朝气，动作慢吞吞的人。  
 1. 【[老等](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_den.md#老等)】`lo3 den3` <sup>[兴化]</sup> 鹭鸶的俗称。  
 1. 【[老等](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_den.md#老等)】`lo3 den3` <sup>[兴化]</sup> 鸬鹚，鹭鸶。  
@@ -1961,6 +1960,7 @@
 1. 【[老爹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_dia.md#老爹)】`lo3 dia1` <sup>[如皋]</sup> ① 对中老年男性的尊称；对中老年男性长辈的尊称。 ② 曾祖父。 ③ 对老鼠的避讳称。  
 1. 【[老爹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_dia.md#老爹)】`lo3 dia1` <sup>[东台]</sup> 曾祖父，即父亲的爷爷。也可作为对老年男子的尊称。  
 1. 【[老爹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_dia.md#老爹)】`lo3 dia1` <sup>[兴化]</sup> ① 父亲：（武松）将了十二三两银子，与了郓哥的～。（《水浒传》二七） ② 对年长男子的称谓：大～；二～｜侉奶奶想必本是一个侉子的家属，他应当有过一个丈夫，一个侉～。（汪曾祺《故里杂记》）  
+1. 【[老爹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_dia.md#老爹)】`lo3 dia1` <sup>[如东]</sup> ① 对父亲的称谓。 ② 年老的妇女对丈夫的称呼。 ③ 对老年男子的尊称。  
 1. 【[老爹爹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_dia_dia.md#老爹爹)】`lo3 dia1 dia1` <sup>[如东]</sup> 曾祖父。  
 1. 【[老爹爹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_dia_dia.md#老爹爹)】`lo3 dia1 dia1` <sup>[如皋]</sup> 见“太公”。  
 1. 【[老爹爹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_dia_dia.md#老爹爹)】`lo3 dia1 dia1` <sup>[如皋]</sup> 曾祖父。  

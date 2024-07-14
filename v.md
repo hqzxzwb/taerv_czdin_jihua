@@ -244,10 +244,10 @@
 1. 【[五香茶叶蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_xian_cha_ih_taen.md#五香茶叶蛋)】`v3 xian1 cha2 ih8 taen6` <sup>[兴化]</sup> 加香料、酱油、茶叶等调料煮熟的鸡蛋。  
 1. 【[五香蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_xian_taen.md#五香蛋)】`v3 xian1 taen6` <sup>[如东]</sup> 食品。先将鸡蛋煮熟，再把蛋壳敲裂，放进配有八角、桂皮、香叶、酱油等作料的水中煮。色绛，味香。  
 1. 【[五香蜗螺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_xian_u_lu_r.md#五香蜗螺<sub>儿</sub>)】`v3 xian1 u1 lu1 r` <sup>[如皋]</sup> 作料中有五香的炒煮螺，已剪去尾壳，用嘴吸食其肉。  
-1. 【[五心烦躁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_xien_faen_zo.md#五心烦躁)】`v3 xien1 faen2 co5` <sup>[如皋]</sup> 想法很多、情绪多变、焦躁不安。五心，五脏、五内、五中：指心、肝、脾、肺、肾。  
 1. 【[五心烦躁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_xien_faen_zo.md#五心烦躁)】`v3 xien1 faen2 zo5` <sup>[如东]</sup> 心情烦闷急躁：芳芳这几天～，甚的事都不想做。  
 1. 【[五心烦躁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_xien_faen_zo.md#五心烦躁)】`v3 xien1 faen2 zo5` <sup>[东台]</sup> 本指生理上五心（两手心、两足心与心胸处），有烦热、烦闷感。泛指烦躁得坐立不安。  
 1. 【[五心烦躁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_xien_faen_zo.md#五心烦躁)】`v3 xien1 faen2 zo5` <sup>[兴化]</sup> 形容人心烦意乱，焦躁不安的情态：老头子才从工作岗位上退下来，成天～的。  
+1. 【[五心烦躁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_xien_faen_zo.md#五心烦躁)】`v3 xien1 faen2 zo5` <sup>[如皋]</sup> 想法很多、情绪多变、焦躁不安。五心，五脏、五内、五中：指心、肝、脾、肺、肾。  
 1. 【[午](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v.md#午)】`v3` <sup>[东台]</sup> 地支第七位。  
 1. 【[午饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_faen.md#午饭)】`v3 faen6` <sup>[如东]</sup> 十二点钟左右就餐，这顿饭称午饭。  
 1. 【[午槛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_kaen.md#午槛)】`v3 kaen3` <sup>[如东]</sup> 门框下部的横木板。也叫门槛。  
