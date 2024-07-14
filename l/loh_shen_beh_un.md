@@ -9,7 +9,7 @@ loh8 shen2 beh7 un1
 - 同“肉神不安”。
 
 # 六神不安
-loh8 shen2 beh7 un2
+loh8 shen2 beh7 un1
 > 兴化方言词典
 - 形容心神慌乱，烦躁
   - 伢儿又哭又闹，弄得人～的。
