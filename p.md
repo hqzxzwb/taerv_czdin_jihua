@@ -1426,17 +1426,15 @@
 1. 【[拚不得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_beh_deh.md#拚不得)】`pun1 beh deh7` <sup>[如皋]</sup> 舍不得：购物时嫌价高，不愿多花钱。  
 1. 【[拚不起](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_beh_qi.md#拚不起)】`pun1 beh qi3` <sup>[如皋]</sup> 力量的能耐不能与人並比。  
 1. 【[拚不得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_beh_deh.md#拚不得)】`pun1 beh7 deh7` 舍不得  
-1. 【[拚得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_deh.md#拚得)】`pun1 deh` <sup>[如皋]</sup> 豁出去：你～，我舍得。  
-1. 【[拚得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_deh.md#拚得)】`pun1 deh` <sup>[如皋]</sup> 见“确备”。  
+1. 【[拚得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_deh.md#拚得)】`pun1 deh` <sup>[如皋]</sup> ① 豁出去：你～，我舍得。 ② 另见“确备”。  
 1. 【[拚得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_deh.md#拚得)】`pun1 deh` <sup>[如东]</sup> 舍得：花这吖多钱，他～。  
-1. 【[拚得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_deh.md#拚得)】`pun1 deh` <sup>[兴化]</sup> 不惜一切地去做：～倾家荡产，跟他把这场官司打到底。｜你～死，我～埋！  
-1. 【[拚得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_deh.md#拚得)】`pun1 deh7` 舍得  
-1. 【[拚得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_deh.md#拚得)】`pun1 deh7` <sup>[东台]</sup> 舍得：你舍得我～｜这小伙～做（干活肯卖力）。  
+1. 【[拚得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_deh.md#拚得)】`pun1-paen6 deh` <sup>[兴化]</sup> 不惜一切地去做：～倾家荡产，跟他把这场官司打到底。｜你～死，我～埋！  
+1. 【[拚得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_deh.md#拚得)】`pun1 deh7` <sup>[东台]</sup> 舍得：你舍得我～｜这小伙～做/这小伙干活肯卖力  
 1. 【[拚命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_mien.md#拚命)】`pun1 mien6` <sup>[东台]</sup> 不顾一切，哪怕搭上性命：今吖你不把东西交出来，我同你～。  
 1. 【[拚死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_sz.md#拚死)】`pun1 sz3` <sup>[东台]</sup> 哪怕死也不顾：～吃河豚。河豚营养价值高，但内脏与血液含毒素，如洗不干净，食后可危及生命。  
-1. 【[拚死吃河豚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_sz_qieh_hu_den.md#拚死吃河豚)】`pun1 sz3 qieh7 hu2 den1` <sup>[如皋]</sup> 决心强，不惜代价：这次大家～，一定把厂办起来。  
 1. 【[拚死吃河豚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_sz_qieh_hu_ten.md#拚死吃河豚)】`pun1 sz3 qieh7 hu2 ten2` <sup>[东台]</sup> 冒着风险追求享受。  
-1. 【[拚死吃河豚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_sz_qieh_hu_ten.md#拚死吃河豚)】`pun1 sz3 qieh7 hu2 ten2` <sup>[兴化]</sup> （喻）受利益驱动去冒险：他明知走私犯法，为啊赚大钱，～。  
+1. 【[拚死吃河豚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_sz_qieh_hu_ten.md#拚死吃河豚)】`pun1-paen6 sz3 qieh7 hu2 ten2` <sup>[兴化]</sup> （喻）受利益驱动去冒险：他明知走私犯法，为啊赚大钱，～。  
+1. 【[拚死吃河豚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_sz_qieh_hu_ten.md#拚死吃河豚)】`pun1 sz3 qieh7 hu2 ten2-den1` <sup>[如皋]</sup> 决心强，不惜代价：这次大家～，一定把厂办起来。  
 1. 【[潘泾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_jien.md#潘泾)】`pun1 jien1` <sup>[如皋]</sup> 古水名，注入牟尼湖。久湮。时水侧有市，名～。后衍为搬经，今镇名。然读音仍为～。  
 1. 【[盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun.md#盘)】`pun2` 把玩  
 1. 【[盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun.md#盘)】`pun2` <sup>[如皋]</sup> 反复盘弄。  

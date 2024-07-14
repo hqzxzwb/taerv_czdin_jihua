@@ -438,7 +438,7 @@
 1. 【[热嘈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_co.md#热嘈)】`rih8 co2` <sup>[如皋]</sup> 热闹。  
 1. 【[热嘈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_co.md#热嘈)】`rih8 co2` <sup>[兴化]</sup> ① 热闹：每逢集期，街上蛮～的。｜今年闲生日，不～。 ② 开玩笑：覅～，我这刻儿心情不好。  
 1. 【[热嘈人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_co_ren.md#热嘈人)】`rih8 co2 ren2` <sup>[兴化]</sup> 爱说爱笑的人：他是个～，来不多时，同上上下下都处得蛮合式的。  
-1. 【[热沰沰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_da_dah.md#热沰沰)】`rih8 da7 dah7` <sup>[兴化]</sup> 热情可掬：小吴待人～的。  
+1. 【[热沰沰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_dah_dah.md#热沰沰)】`rih8 dah7 dah7` <sup>[兴化]</sup> 热情可掬：小吴待人～的。  
 1. 【[热得只㗇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_deh_zeh_ha.md#热得只㗇)】`rih8 deh7 zeh7 ha2` <sup>[如皋]</sup> 热得直喘气。  
 1. 【[热碟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_dih.md#热碟)】`rih8 dih7` <sup>[如皋]</sup> 桌菜中现炒的菜。  
 1. 【[热饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_faen.md#热饭)】`rih8 faen6` <sup>[如东]</sup> 温度较高的饭。给冷饭加温。  

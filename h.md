@@ -2062,7 +2062,7 @@
 1. 【[晃脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_jiah.md#晃脚)】`huan5 jiah7` <sup>[如东]</sup> 爱干冒险活动的人：这家伙是个～。  
 1. 【[晃麻油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ma_ieu.md#晃麻油)】`huan5 ma2 ieu2` <sup>[兴化]</sup> 用装有长柄的空心铜锤，在研磨过的熟芝麻浆上不停地压，让麻油渗出，油渣沉于缸底。  
 1. 【[晃荡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_tan.md#晃荡)】`huan5 tan6` <sup>[如东]</sup> 闲逛，游荡。  
-1. 【[㧾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh.md#㧾)】`hueh7` <sup>[兴化]</sup> 击、打：～他两家伙｜～他嘴巴子。《集韵·没韵》呼骨切｜“～，楚谓击为～”。  
+1. 【[㧾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh.md#㧾)】`hueh7` <sup>[兴化]</sup> 击、打：～他两家伙；～他嘴巴子。  
 1. 【[㱮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh.md#㱮)】`hueh7` <sup>[如皋]</sup> 朽：柱棵脚儿～掉啊。  
 1. 【[䶤𪘼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_laeh.md#䶤𪘼)】`hueh7 laeh` <sup>[如皋]</sup> 象声词：啮物声、咀嚼声。  
 1. 【[寣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh.md#寣)】`hueh7` <sup>[如皋]</sup> 小睡：吃咖饭，隑啊沙发上～着咖刻儿。  
@@ -2109,7 +2109,7 @@
 1. 【[殨嘟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_dv.md#殨嘟)】`hueh8 dv` <sup>[兴化]</sup> 形容面汤、圆子汤起粘：汤～起来啊。｜一锅～子。  
 1. 【[殨动吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_ton_nga.md#殨动吖)】`hueh8 ton6 nga` <sup>[东台]</sup> 食品开始发酵变坏了。  
 1. 【[𣝗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh.md#𣝗)】`hueh8` <sup>[东台]</sup> 核果中心的坚硬部分：桃～子。  
-1. 【[𣝗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh.md#𣝗)】`hueh8` <sup>[兴化]</sup> 果核：枣～子｜梨～子。《广韵·没韵》户骨切｜“～，果子～也，出《声谱》”。  
+1. 【[𣝗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh.md#𣝗)】`hueh8` <sup>[兴化]</sup> 果核（原文记音hueh7）：枣～子；梨～子  
 1. 【[𣝗得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_deh.md#𣝗得)】`hueh8 deh` <sup>[如皋]</sup> 惊呆、痴呆状。  
 1. 【[𣝗髅<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_leu_r.md#𣝗髅<sub>儿</sub>)】`hueh8 leu2 r` <sup>[如东]</sup> ① 干枯无肉的死人头骨。 ② 比喻人的头：～不小。  
 1. 【[𣝗髅<sub>儿</sub>搬家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_leu_r_bun_jia.md#𣝗髅<sub>儿</sub>搬家)】`hueh8 leu2 r bun1 jia1` <sup>[如东]</sup> 头被砍了。  

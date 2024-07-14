@@ -1686,7 +1686,7 @@
 1. 【[跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#跷)】`qio1` <sup>[如皋]</sup> 作梗：你做事，他总同你～。  
 1. 【[跷的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_dii.md#跷的)】`qio1 dii` <sup>[如皋]</sup> 波折，不顺。  
 1. 【[跷二郎腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_er_lan_tuei.md#跷二郎腿)】`qio1 er6 lan tuei3` <sup>[兴化]</sup> 坐着的时候，把一条腿搁在另一条腿上的姿势。  
-1. 【[跷二郎腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_er_lan_jiah.md#跷二郎腿)】`qio1 er6 lan2 jiah7` <sup>[如皋]</sup> 坐着，将一条腿搁在另一条腿上，晃着。  
+1. 【[跷二郎腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_er_lan_tuei.md#跷二郎腿)】`qio1 er6 lan2 tuei3-ty3` <sup>[如皋]</sup> 坐着，将一条腿搁在另一条腿上，晃着。  
 1. 【[跷夹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_gaeh.md#跷夹)】`qio1 gaeh7` <sup>[如东]</sup> 指桑骂槐，暗语伤人。  
 1. 【[跷𠵹头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_gan_teu.md#跷𠵹头)】`qio1 gan1 teu2` <sup>[如皋]</sup> 先反对后顺从的性：他是个～，又不是不做，总要先同你顶下子。  
 1. 【[跷话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_hua.md#跷话)】`qio1 hua6` <sup>[如皋]</sup> 讽刺挖苦的话。  
