@@ -2000,7 +2000,6 @@
 1. 【[旋网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_van.md#旋网)】`qiun6 van3` <sup>[泰县]</sup> 鱼网的一种。  
 1. 【[旋网星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_van_xien.md#旋网星)】`qiun6 van3 xien1` <sup>[如东]</sup> 星座名称，位于银河东侧，众星围成椭圆型，似撒开的旋网。  
 1. 【[旋下句](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_xia_jy.md#旋下句)】`qiun6 xia6 jy5` <sup>[兴化]</sup> 刚开始、原来：他俫～感情蛮好的。  
-1. 【[旋下来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_xia_jy.md#旋下来)】`qiun6 xia6 jy5` <sup>[兴化]</sup> 原来，刚开始。  
 1. 【[蔨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_zz.md#蔨子)】`qiun6 zz` <sup>[如皋]</sup> 野生菌。  
 1. 【[蔨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_zz.md#蔨子)】`qiun6 zz` <sup>[如东]</sup> 野生蘑菇。品种很多。  
 1. 【[蔨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_zz.md#蔨子)】`qiun6 zz` <sup>[东台]</sup> 蘑菇，过去多数是野生的，有的可食用，有的有毒。现在多为人工培育：到荒田里拾～。  

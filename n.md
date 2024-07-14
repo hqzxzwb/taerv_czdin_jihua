@@ -1706,7 +1706,6 @@
 1. 【[年作子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_zah_zz.md#年作子)】`nin2 zah7 zz` <sup>[如东]</sup> 过年期间所需要花费的钱：箇趟生意把～赚家来啊。  
 1. 【[年租](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_zv.md#年租)】`nin2 zv1` <sup>[如皋]</sup> 租赁一年的租金。  
 1. 【[年租](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_zv.md#年租)】`nin2 zv1` <sup>[如东]</sup> 一年的租金：～一万。  
-1. 【[拈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin.md#拈)】`nin2, nin1` 捡到，拾起  
 1. 【[鲇滑<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_huaeh_r.md#鲇滑<sub>儿</sub>)】`nin2 huaeh8 r` <sup>[如东]</sup> 胡子鲇（鲶）科动物胡子鲇，长约14厘米。  
 1. 【[黏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin.md#黏)】`nin2` <sup>[如皋]</sup> 亲热、怜爱、笼络：你这吖～他，他的心更加忆咖你这许。  
 1. 【[黏饼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_bien_r.md#黏饼<sub>儿</sub>)】`nin2 bien3 r` <sup>[如皋]</sup> 多为糯米粉做的有馅饼。  

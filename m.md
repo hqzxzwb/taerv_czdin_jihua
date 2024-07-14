@@ -865,7 +865,7 @@
 1. 【[霉话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_hua.md#霉话)】`mei2 hua6` <sup>[兴化]</sup> 背兴的、过时的话：……大米饭含在嘴里，叫老天爷要饿死人……这是哪年的～呀！（马春阳《四十块钱》）  
 1. 【[霉绿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_loh.md#霉绿)】`mei2 loh8` <sup>[东台]</sup> 不了解外面的形势而作出的一种过时的判断：你真的是～咖，怎吖不看看大势？  
 1. 【[霉米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_mi.md#霉米)】`mei2 mi3` <sup>[如东]</sup> 受潮而发霉的大米。  
-1. 【[霉䤓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_mo.md#霉䤓)】`mei2 mo6` <sup>[东台]</sup> 因受潮长出霉菌。“䤓”读若“冒”。  
+1. 【[霉毷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_mo.md#霉毷)】`mei2 mo6` <sup>[东台]</sup> 因受潮长出霉菌。  
 1. 【[霉煞屌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_shaeh_dio.md#霉煞屌)】`mei2 shaeh7 dio3` <sup>[如东]</sup> 倒霉的人。  
 1. 【[霉煞鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_shaeh_guei.md#霉煞鬼)】`mei2 shaeh7 guei3` <sup>[如东]</sup> 倒霉的人。  
 1. 【[每年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_nin.md#每年)】`mei3 nin2` <sup>[东台]</sup> 年年，每一年。  
@@ -1920,9 +1920,9 @@
 1. 【[牡蛎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_li.md#牡蛎)】`mu3 li6` <sup>[如东]</sup> 牡蛎科动物近江牡蛎。  
 1. 【[牡牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_ngeu.md#牡牛)】`mu3 ngeu2` <sup>[如东]</sup> 公牛。  
 1. 【[𣳠花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_hua.md#𣳠花)】`mu3 hua1` <sup>[如东]</sup> 浮在液体表面上的泡沫。  
-1. 【[摩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu.md#摩)】`mu6` <sup>[兴化]</sup> ① 移动：把凳子～啊子。 ② 扭转：他掏了一个小钱，往柜台面前的钱筒子里一甩……然后身子一～……（《皮五辣子》二） ③ 暂借：～钱交学费。 ④ 砌：～土墼墙。  
 1. 【[磨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu.md#磨)】`mu6` <sup>[如东]</sup> ① 旋转：～动。 ② 移动：你把水缸～下子。  
 1. 【[磨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu.md#磨)】`mu6` <sup>[如皋]</sup> 将笨重物体稍许倾斜，然后摆动移位：把水缸～啊里头去点儿。  
+1. 【[磨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu.md#磨)】`mu6` <sup>[兴化]</sup> ① 移动：把凳子～啊子。 ② 扭转：他掏了一个小钱，往柜台面前的钱筒子里一甩……然后身子一～……（《皮五辣子》二） ③ 暂借：～钱交学费。 ④ 砌：～土墼墙。  
 1. 【[磨齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_chr.md#磨齿)】`mu6 chr3` <sup>[如皋]</sup> 上下磨片间边环部辐棱。上片逆时针运转时辐棱不断把磨料向外输送并磨碎。每条辐棱的横断面若锯齿，有“眠”和“陡”之分。过眠则磨不碎，过陡则磨不动或上片跳动不能工作  
 1. 【[磨担](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_daen.md#磨担)】`mu6 daen5` <sup>[如东]</sup> 工具。三角形，后边有一横杆，用以推动石磨旋转。  
 1. 【[磨担](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_daen.md#磨担)】`mu6 daen5` <sup>[如皋]</sup> 牵磨用的三角形木架。前有“磨担嘴儿”与绑在磨片上的“磨拽子”相配：后边是横杠以“磨担绳”吊平，供人手握牵拉。  

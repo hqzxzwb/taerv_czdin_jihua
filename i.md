@@ -1985,7 +1985,6 @@
 1. 【[严丝合缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_sz_huh_fon.md#严丝合缝)】`in2 sz1 huh8 fon6` <sup>[东台]</sup> 与“斗缝合榫”近义，指缝隙密合。  
 1. 【[延摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_mah.md#延摸)】`in2 mah8` <sup>[如皋]</sup> 慢噋噋地，漫不经心的、不住的动作。  
 1. 【[延摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_mah.md#延摸)】`in2 mah8` <sup>[兴化]</sup> 形容做事慢条斯理：他做事不得快，有得～吤。  
-1. 【[延细<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_xi_r.md#延细<sub>儿</sub>)】`in2 xi5 r` <sup>[如东]</sup> 从小：～就要加强教育。  
 1. 【[延小<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_xio_r.md#延小<sub>儿</sub>)】`in2 xio3 r` <sup>[如东]</sup> 从小：他～就有这个习惯。  
 1. 【[檐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in.md#檐)】`in2` <sup>[东台]</sup> ① 屋面向下伸出的边缘部分：走马廊～。 ② 某些器物上形状像屋檐的部分：帽～儿。  
 1. 【[檐沟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_geu.md#檐沟)】`in2 geu1` <sup>[如东]</sup> 屋檐下边横向的排水沟。  
@@ -2009,6 +2008,7 @@
 1. 【[沿吖磨盘走路——没头没尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_nga_mu_pun_zeu_lv_meh_teu_meh_vei.md#沿吖磨盘走路——没头没尾)】`in2 nga mu6 pun2 zeu3 lv6 meh8 teu2 meh8 vei3` <sup>[东台]</sup>   
 1. 【[沿条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_tio.md#沿条)】`in2 tio2` <sup>[兴化]</sup> 缝衣服或制作布鞋底，包裹边缘用的绸、布条。  
 1. 【[沿细<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_xi_r.md#沿细<sub>儿</sub>)】`in2 xi5 r` <sup>[如皋]</sup> 见“沿小儿”。  
+1. 【[沿细<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_xi_r.md#沿细<sub>儿</sub>)】`in2 xi5 r` <sup>[如东]</sup> 从小：～就要加强教育。  
 1. 【[沿小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_xio.md#沿小)】`in2 xio3` 从小  
 1. 【[沿小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_xio.md#沿小)】`in2 xio3` <sup>[泰县]</sup> 从小：小杨～就喜欢跳舞。  
 1. 【[沿小<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_xio_r.md#沿小<sub>儿</sub>)】`in2 xio3 r` <sup>[如皋]</sup> ① 童年。 ② 从童年起：他～没娘，苦哇！  
@@ -2089,7 +2089,6 @@
 1. 【[厣脐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_qi_r.md#厣脐<sub>儿</sub>)】`in3 qi2 r` <sup>[如东]</sup> 蟹腹下面呈三角形的薄壳，也称厣。这是退化了的尾巴。  
 1. 【[厣钱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_qin_r.md#厣钱<sub>儿</sub>)】`in3 qin2 r` <sup>[东台]</sup> 螺蛳口圆片状的盖。  
 1. 【[厣钱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_qin_r.md#厣钱<sub>儿</sub>)】`in3 qin2 r` <sup>[兴化]</sup> ① 螺蛳头上的盖。 ② 螃蟹腹下的薄壳。厣：《广韵·琰韵》於琰切｜蟹腹下厣。  
-1. 【[厣脐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_xi_r.md#厣脐<sub>儿</sub>)】`in3 xi5 r` <sup>[如皋]</sup> 见“螺蛳盖儿”。  
 1. 【[厣脐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_xi_r.md#厣脐<sub>儿</sub>)】`in3 xi5 r` <sup>[如皋]</sup> ① 螺盖。 ② 蟹腹盖。 ③ 水烟台儿装烟丝的部位，有三个孔的小盅。  
 1. 【[厣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_zz.md#厣子)】`in3 zz` 螺壳口部圆片状的盖  
 1. 【[掩扯<sub>儿</sub>摸鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_cha_r_mah_pieh_zz.md#掩扯<sub>儿</sub>摸鼻子)】`in3 cha3 r mah8 pieh8 zz` <sup>[东台]</sup> 通过一些下意识的小动作分散别人注意力，回避某些事情。  
