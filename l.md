@@ -1141,7 +1141,7 @@
 1. 【[里胆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_taen.md#里胆)】`li3 taen3` <sup>[如皋]</sup> 车轮的内胎。  
 1. 【[里头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_teu.md#里头)】`li3 teu` <sup>[如东]</sup> 里面。  
 1. 【[里通](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_ton.md#里通)】`li3 ton` <sup>[泰县]</sup> 里面：这个盒子～有饼干。  
-1. 【[里外里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_vae_li.md#里外里)】`li3 vae5 li3` <sup>[东台]</sup> 反正；更加：随你怎吖说，～我不去丢这个相/你是老师，又是长辈，我敬你～应该。  
+1. 【[里外里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_vae_li.md#里外里)】`li3 vae li3` <sup>[东台]</sup> 反正；更加：随你怎吖说，～我不去丢这个相｜你是老师，又是长辈，我敬你～应该。  
 1. 【[里外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_vae.md#里外)】`li3 vae6` <sup>[兴化]</sup> ① 里面和外面：～不讨好。 ② 反正：～没事做，不如外去闯闯。  
 1. 【[里外里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_vae_li.md#里外里)】`li3 vae6 li3` <sup>[如东]</sup> 内外比较：～推扳三千多元。  
 1. 【[里外里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_vae_li.md#里外里)】`li3 vae6 li3` <sup>[如皋]</sup> 反正已定局了，不可变了。有怨恨色彩：我～落不到个好。  
@@ -1705,7 +1705,7 @@
 1. 【[撩金](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_jien.md#撩金)】`lio2 jien1` <sup>[如皋]</sup> 猪舌。本作“筋”，改为“金”吉语。  
 1. 【[撩金](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_jien.md#撩金)】`lio2 jien1` <sup>[兴化]</sup> 猪舌。也称“口条”。  
 1. 【[撩金（筋）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_jien.md#撩金（筋）)】`lio2 jien1` <sup>[如皋]</sup> 猪舌。  
-1. 【[撩轻摸重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_qien_mah_chon.md#撩轻摸重)】`lio2 qien1 mah8 chon5` <sup>[兴化]</sup> ① 因挑逗而受到还击。 ② 因惹哭了孩子，自觉难堪：你覅～的，把他惹哭咖难为情吖！  
+1. 【[撩轻摸重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_qien_mah_chon.md#撩轻摸重)】`lio2 qien1 mah8 chon6` <sup>[兴化]</sup> ① 因挑逗而受到还击。 ② 因惹哭了孩子，自觉难堪：你覅～的，把他惹哭咖难为情吖！  
 1. 【[撩浅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_qin.md#撩浅)】`lio2 qin3` <sup>[东台]</sup> 在老河道清除淤泥，使河水由浅变深，流得更畅通：这条河～后，老百姓都说好。  
 1. 【[撩事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_shr.md#撩事)】`lio2 shr6` <sup>[泰县]</sup> 惹事：请你不要到这块来～。  
 1. 【[撩骚眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_so_ngaen.md#撩骚眼)】`lio2 so ngaen3` <sup>[东台]</sup> 引逗的眼神；媚眼。  

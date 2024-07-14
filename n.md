@@ -1114,6 +1114,7 @@
 1. 【[牛串子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_chun_zz.md#牛串子)】`ngeu2 chun5 zz` <sup>[如东]</sup> 穿牛鼻子的短绳。  
 1. 【[牛草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_co.md#牛草)】`ngeu2 co3` <sup>[兴化]</sup> ① 割给牛吃的青草：剐～。 ② 牛吃的干稻草：出去抱～。  
 1. 【[牛胆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_daen.md#牛胆)】`ngeu2 daen3` <sup>[如东]</sup> 牛科动物黄牛或水牛胆。  
+1. 【[牛得起来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_deh_qi_lae.md#牛得起来)】`ngeu2 deh7 qi3 lae2` <sup>[如皋]</sup> 顶撞，毫无顾忌。  
 1. 【[牛得起来的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_deh_qi_lae_dii.md#牛得起来的)】`ngeu2 deh7 qi3 lae2 dii` <sup>[如皋]</sup> 粗野的样子。  
 1. 【[牛肚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_dv.md#牛肚)】`ngeu2 dv3` <sup>[如东]</sup> 牛科动物黄牛或水牛的胃。  
 1. 【[牛耳刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_er_do.md#牛耳刀)】`ngeu2 er3 do1` <sup>[如东]</sup> 宰杀牛羊的一种刀，形似牛耳。也叫攮子。  
@@ -1186,7 +1187,6 @@
 1. 【[牛㞞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_son.md#牛㞞)】`ngeu2 son2` <sup>[泰县]</sup> 最固执的人。  
 1. 【[牛嘶暴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_sz_bo_zz.md#牛嘶暴子)】`ngeu2 sz1 bo5 zz` <sup>[如皋]</sup> 老鹰。  
 1. 【[牛踏扁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_taeh_bin.md#牛踏扁)】`ngeu2 taeh8 bin3` <sup>[如皋]</sup> 一种颗粒大的蚕豆。  
-1. 【[牛得起来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_teh_qi_lae.md#牛得起来)】`ngeu2 teh7 qi3 lae2` <sup>[如皋]</sup> 顶撞，毫无顾忌。  
 1. 【[牛偷掉摸桩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_teu_tio_mah_zhuan.md#牛偷掉摸桩)】`ngeu2 teu1 tio6 mah8 zhuan1` <sup>[东台]</sup> ① ［借］类似“马后炮”，喻指损失已经造成，难以挽回。 ② ［借］指后下手的小偷好处捞不到，却落了个坏名声。  
 1. 【[牛头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_teu.md#牛头)】`ngeu2 teu2` <sup>[如皋]</sup> 独轮车最前面的横木。  
 1. 【[牛头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_teu.md#牛头)】`ngeu2 teu2` <sup>[如皋]</sup> 独轮车的车辕。  

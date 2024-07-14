@@ -619,7 +619,7 @@
 1. 【[没（得）影子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_ien_zz.md#没（得）影子)】`meh8 ien3 zz` <sup>[如皋]</sup> 毫无根据：他说的事情～。  
 1. 【[没（得）教门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_jio_men.md#没（得）教门)】`meh8 jio5 men` <sup>[如皋]</sup> 素质差，不懂规矩，未受教育训练。  
 1. 【[没（得）觉睏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_ko_kuen.md#没（得）觉睏)】`meh8 ko5 kuen5` <sup>[如皋]</sup> ① 失眠：他一成多少日子总～，人难过。 ② 欠觉：伢儿夜里烦人，妈妈～；连续受审，几夜～。  
-1. 【[没（得）擓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_kuae_r.md#没（得）擓<sub>儿</sub>)】`meh8 kuae3 r` <sup>[如皋]</sup> 没有框框儿，没有限度：用钱～，可多可少。  
+1. 【[没（得）㧟<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_kuae_r.md#没（得）㧟<sub>儿</sub>)】`meh8 kuae3 r` <sup>[如皋]</sup> 没有框框儿，没有限度：用钱～，可多可少。  
 1. 【[没（得）来头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_lae_teu.md#没（得）来头)】`meh8 lae2 teu` <sup>[如皋]</sup> ① 无正当来源：～的货不能买，～的钱不能赚。 ② 玩得不满意，无趣。  
 1. 【[没（得）捞摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_lo_mah.md#没（得）捞摸)】`meh8 lo2 mah` <sup>[如皋]</sup> ① 无利可图。 ② 质差：这种布～。  
 1. 【[没（得）牢坐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_lo_cu.md#没（得）牢坐)】`meh8 lo2 cu6` <sup>[如皋]</sup> 同“没（得）板子打”❸。没价值，不值得。  

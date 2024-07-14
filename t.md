@@ -1856,7 +1856,6 @@
 1. 【[逃伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_nga_r.md#逃伢<sub>儿</sub>)】`to2 nga2 r` <sup>[如东]</sup> 寡妇生的孩子，叫逃伢儿。  
 1. 【[选难儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_naen_er.md#选难儿)】`to2 naen6 er2` <sup>[如皋]</sup> 生于难中的孩子的称呼。  
 1. 【[选种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_zhon.md#选种)】`to2 zhon3` <sup>[如东]</sup> 选择优良品种。  
-1. 【[饶头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_teu.md#饶头)】`to2 teu2` <sup>[如皋]</sup> 额外添加的：买肉有夹冇，卖菜有～。  
 1. 【[讨出语](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_chueh_y.md#讨出语)】`to3 chueh7 y` <sup>[泰县]</sup> 想听到吉利的话。  
 1. 【[讨出语](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_chueh_y.md#讨出语)】`to3 chueh7 y3` <sup>[如皋]</sup> 迷信者认为正月初一听到的第一句话；听到大人物、道行高的人随口说出的话；幼儿无心说的话等，有关自己的命运，谓之～。  
 1. 【[讨出语](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_chueh_y.md#讨出语)】`to3 chueh7 y3` <sup>[兴化]</sup> 旧俗正月十六夜外出讨口采、听吉言。迷信认为偶然听到的话最灵验。  

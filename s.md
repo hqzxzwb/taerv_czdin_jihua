@@ -1243,7 +1243,7 @@
 1. 【[十万八万](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_vaen_baeh_vaen.md#十万八万)】`sheh8 vaen6 baeh7 vaen6` <sup>[如皋]</sup> 状数量多。有不在乎的意思。  
 1. 【[十网九网空，一网就成功](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_van_jieu_van.md#十网九网空，一网就成功)】`sheh8 van3 jieu3 van3 kon1 ieh7 van3 qieu6 chen2 gon1` <sup>[泰兴]</sup> 渔家语。喻事情办了多次都未成功，但条件成熟了能一次就成功。  
 1. 【[十朝半月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_zho_bun_iuh.md#十朝半月)】`sheh8 zho bun5 iuh8` <sup>[兴化]</sup> 约一二十天：他这次出门～才家来。  
-1. 【[十指连心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_zhr_lin_xien.md#十指连心)】`sheh8 zhr lin2 xien2` <sup>[泰兴]</sup> 谓十个指头的痛楚都与心息息相通，比喻关系极为密切：常言十指连心疼，儿女受难，哪个做娘老子的心里不挂念？  
+1. 【[十指连心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_zhr_lin_xien.md#十指连心)】`sheh8 zhr lin2 xien1` <sup>[泰兴]</sup> 谓十个指头的痛楚都与心息息相通，比喻关系极为密切：常言十指连心疼，儿女受难，哪个做娘老子的心里不挂念？  
 1. 【[实膘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_bio.md#实膘)】`sheh8 bio1` <sup>[如皋]</sup> 猪肉中结实而不松软的部分。  
 1. 【[实膘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_bio.md#实膘)】`sheh8 bio1` <sup>[兴化]</sup> 指人畜的背、臂及大腿根部比较实在的肉。  
 1. 【[实饱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_bo.md#实饱)】`sheh8 bo3` <sup>[如皋]</sup> 吃的食物质量高，不易饿。与“虚饱”相对。  

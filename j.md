@@ -1830,7 +1830,7 @@
 1. 【[嘴咧到耳朵根子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_lae_do_er_du_gen_zz.md#嘴咧到耳朵根子)】`jy3 lae3 do5 er3 du gen1 zz` <sup>[东台]</sup> 形容因太高兴而大笑的样子。  
 1. 【[嘴厉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_li.md#嘴厉)】`jy3 li6` <sup>[如皋]</sup> 见“嘴凶”。  
 1. 【[嘴里带草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_lii_dae_co.md#嘴里带草)】`jy3 lii dae5 co3` <sup>[东台]</sup> 语言中有不文明的脏话。  
-1. 【[嘴里没料沫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_lii_meh_lio_ma.md#嘴里没料沫)】`jy3 lii meh8 lio6 ma` <sup>[东台]</sup> 没有食欲：发咖几天热，～。  
+1. 【[嘴里没撂摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_lii_meh_lio.md#嘴里没撂摸)】`jy3 lii meh8 lio6 mah-ma` <sup>[东台]</sup> 没有食欲：发咖几天热，～。  
 1. 【[嘴里食紧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_lii_sheh_jien.md#嘴里食紧)】`jy3 lii sheh8 jien3` <sup>[如皋]</sup> 贪占食物，舍不得顾人。  
 1. 【[嘴里是香肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_lii_shr_xian_roh.md#嘴里是香肉)】`jy3 lii shr6 xian1 roh8` <sup>[如皋]</sup> 比喻口腔中损伤，易自愈合。  
 1. 【[嘴里淡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_lii_taen.md#嘴里淡)】`jy3 lii taen6` <sup>[如皋]</sup> 见“嘴淡”。  

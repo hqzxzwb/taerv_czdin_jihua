@@ -306,13 +306,13 @@
 1. 【[人形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_xien.md#人形)】`ren2 xien2` <sup>[泰兴]</sup> 人的形象、风貌。常与否定词连用于责备人：箇个伢儿没得～。  
 1. 【[人小鬼大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_xio_guei_da.md#人小鬼大)】`ren2 xio3 guei3 da6` <sup>[兴化]</sup> 指人年龄虽小，但心绪复杂、点子多：“好囚攮的！～，你竟敢弄这样的戏法……”（《三侠五义》六一）  
 1. 【[人争一口气，佛争一炷香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_zhen_ieh_keu_qi_feh_zhen_ieh_zhv_xian.md#人争一口气，佛争一炷香)】`ren2 zhen1 ieh7 keu3 qi5 feh8 zhen1 ieh7 zhv5 xian1` <sup>[东台]</sup> 人贵在有志气有追求。  
-1. 【[人指甲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_zhi_jiaeh.md#人指甲)】`ren2 zhi3 jiaeh7` <sup>[如东]</sup> 人手上的指甲。  
 1. 【[人中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_zhon.md#人中)】`ren2 zhon1` <sup>[泰兴]</sup> 人的上唇正中凹下的部分，其略上请“人中穴”，为急救昏厥的要穴。  
 1. 【[人中黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_zhon_huan.md#人中黄)】`ren2 zhon1 huan2` <sup>[如皋]</sup> 中药名，马桶𪣩中色黄者。  
 1. 【[人中黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_zhon_huan.md#人中黄)】`ren2 zhon1 huan2` <sup>[如东]</sup> 用甘草磨成粗粉，装入一端有节的竹筒内，另一端用布塞紧，松香封口，将竹筒刮去篾青，浸人清水糞坑中23个月。一般冬季浸入，翌年春天取出，用清水漂23星期，每天一次，至无臭为度。阴干后，劈破竹筒，取出甘草，晒干即成，入中药。  
 1. 【[人中白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_zhon_poh.md#人中白)】`ren2 zhon1 poh8` <sup>[如皋]</sup> 中药名，马桶𪣩中色白者。  
 1. 【[人中白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_zhon_poh.md#人中白)】`ren2 zhon1 poh8` <sup>[如东]</sup> 人尿自然沉结的固体物，又名尿垢，入中药。  
 1. 【[人众](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_zhon.md#人众)】`ren2 zhon5` <sup>[泰兴]</sup> 大众，众人：你有话当住～说说/你有话当面大家说说  
+1. 【[人指甲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_zhr_jiaeh.md#人指甲)】`ren2 zhr3 jiaeh7` <sup>[如东]</sup> 人手上的指甲。  
 1. 【[仁丹胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_daen_hv_zz.md#仁丹胡子)】`ren2 daen1 hv2 zz` <sup>[如皋]</sup> 有如日本仁丹商标上的鬍式。  
 1. 【[仁义](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_i.md#仁义)】`ren2 i` <sup>[如皋]</sup> 为人厚道宽宏，讲义气：他家兄弟两个，老大～，老二不～。  
 1. 【[仁义](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_i.md#仁义)】`ren2 i` <sup>[兴化]</sup> ① 性情温和善良：老吴～，工友有难都肯伸手帮忙。 ② 与人相处通情达理：本以为这个人难处，想不到他这吖～。  
@@ -438,7 +438,7 @@
 1. 【[热嘈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_co.md#热嘈)】`rih8 co2` <sup>[兴化]</sup> ① 热闹：每逢集期，街上蛮～的。｜今年闲生日，不～。 ② 开玩笑：覅～，我这刻儿心情不好。  
 1. 【[热嘈人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_co_ren.md#热嘈人)】`rih8 co2 ren2` <sup>[兴化]</sup> 爱说爱笑的人：他是个～，来不多时，同上上下下都处得蛮合式的。  
 1. 【[热沰沰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_dah_dah.md#热沰沰)】`rih8 dah7 dah7` <sup>[兴化]</sup> 热情可掬：小吴待人～的。  
-1. 【[热得只㗇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_deh_zeh_ha.md#热得只㗇)】`rih8 deh7 zeh7 ha2` <sup>[如皋]</sup> 热得直喘气。  
+1. 【[热得只㗇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_deh_zheh_ha.md#热得只㗇)】`rih8 deh7 zheh7 ha2` <sup>[如皋]</sup> 热得直喘气。  
 1. 【[热碟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_dih.md#热碟)】`rih8 dih7` <sup>[如皋]</sup> 桌菜中现炒的菜。  
 1. 【[热饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_faen.md#热饭)】`rih8 faen6` <sup>[如东]</sup> 温度较高的饭。给冷饭加温。  
 1. 【[热炕气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_han_qi.md#热炕气)】`rih8 han qi5` <sup>[如皋]</sup> ① 发热者口中呼出的热臭气味。 ② 豆、菜、粮堆积发热的气味。  
@@ -498,8 +498,7 @@
 1. 【[饶得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_deh.md#饶得)】`ro2 deh7` <sup>[如皋]</sup> 虽然、尽管：～他会说，还是说不过你。  
 1. 【[饶你过天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_nii_gu_tin.md#饶你过天)】`ro2 nii3 gu5 tin1` <sup>[东台]</sup> 宽恕，免于责罚：这回子～，下次再犯就不客气！  
 1. 【[饶人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_ren.md#饶人)】`ro2 ren2` <sup>[如东]</sup> 对人宽容：他就是不～。  
-1. 【[饶头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_teu.md#饶头)】`ro2 teu` 买方索取的外加部分。  
-1. 【[饶头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_teu.md#饶头)】`ro2 teu` <sup>[如东]</sup> 额外增加的一点儿：这个是～。  
+1. 【[饶头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_teu.md#饶头)】`ro2 teu` <sup>[如皋]</sup> 额外添加的：买肉有夹冇，卖菜有～。  
 1. 【[扰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro.md#扰)】`ro3` <sup>[如皋]</sup> ① 叨扰。我～啊他两块肉；我不作兴～你！ ② 白占便宜：值二角钱的货，卖啊你一块钱，～啊你啦！  
 1. 【[扰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro.md#扰)】`ro3` <sup>[如东]</sup> 用手来回推动物体，使其摇摆：先～竹竿，再拨起来。  
 1. 【[扰啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_a.md#扰啊)】`ro3 a` <sup>[东台]</sup> 扰，指打扰：～通常指吃了人家的｜前朝～你一顿。  
@@ -520,8 +519,6 @@
 1. 【[绕绕账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_ro_zhan.md#绕绕账)】`ro6 ro6 zhan5` <sup>[东台]</sup> 账务涉及的几个方面互为债权债务关系，见“㩭㩭账”。  
 1. 【[绕绕账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_ro_zhan.md#绕绕账)】`ro6-5 ro6-5 zhan5` <sup>[东台]</sup> 办事极不认真，走过场，敷衍了事。（注意这里“绕”阴去声；）  
 1. 【[绕骚胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_so_hv_zz.md#绕骚胡子)】`ro6 so hv2 zz` <sup>[兴化]</sup> 连着鬓角的胡须。也称“兜腮胡子”。  
-1. 【[绕头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_teu.md#绕头)】`ro6 teu2` <sup>[如皋]</sup> 事理难清，头脑发昏：他同你说～话，你总弄不分清他说的甚的杲子。  
-1. 【[绕头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_teu.md#绕头)】`ro6 teu2` <sup>[东台]</sup> 使人一下子弄不清楚：这个题目太～，稍一大意就做错。  
 1. 【[绕弯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_vaen_zz.md#绕弯子)】`ro6 vaen1 zz` <sup>[如东]</sup> 走弯路：不要～。  
 1. 【[绕线](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_xin.md#绕线)】`ro6 xin5` <sup>[如皋]</sup> 把线绕上架子或绕成线球。  
 1. 【[绕线板子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_xin_baen_zz.md#绕线板子)】`ro6 xin5 baen3 zz` <sup>[东台]</sup> 原指纺纱绕线的板子，后喻指小孩贪玩，好动。  
@@ -764,7 +761,7 @@
 1. 【[如意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rv_i.md#如意)】`rv2 i5` <sup>[如皋]</sup> 如愿、满意。  
 1. 【[如意大调](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rv_i_da_dio.md#如意大调)】`rv2 i5 da6 dio5` <sup>[东台]</sup> 大大咧咧，随意散漫，不按规矩办事：工作要专心，不能～，不负责任。  
 1. 【[如意蛇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rv_i_sha.md#如意蛇)】`rv2 i5 sha2` <sup>[如皋]</sup> 黄色，有黑纵线纹。如意头。体无骨无节，扁圆，约5mm宽，长可400mm，伸缩则变。体表有黏涎。蠕行。生活于潮湿土壤中，阴雨天出洞。常见啮蚯蚓吸血。据说有毒。人见之，则以豆油、盐腌杀。不知学名，不明类属。  
-1. 【[如来涅檗节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rv_lae_nih_pun_jih.md#如来涅檗节)】`rv2 lae2 nih8 pun2 jih7` <sup>[如皋]</sup> 在农历二月十五。佛寺香期。  
+1. 【[如来涅槃节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rv_lae_nih_pun_jih.md#如来涅槃节)】`rv2 lae2 nih8 pun2 jih7` <sup>[如皋]</sup> 在农历二月十五。佛寺香期。  
 1. 【[如色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rv_seh.md#如色)】`rv2 seh7` <sup>[如皋]</sup> 如愿、满意的样子。见“称心”。  
 1. 【[如适](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rv_sheh.md#如适)】`rv2 sheh7` <sup>[兴化]</sup> 满意、舒服：“她这个病啊，都是心里不快乐，不～，郁闷出来的……”（《武松》五）  
 1. 【[如兄若弟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rv_xion_rah_ti.md#如兄若弟)】`rv2 xion1 rah8 ti6` <sup>[兴化]</sup> 关系密切，就像兄弟一样：数月之中……我请你，你请我，日日欢饮，真个～，形迹俱忘。（《一刻》四）  
