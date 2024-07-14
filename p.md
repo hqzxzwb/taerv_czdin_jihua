@@ -172,9 +172,6 @@
 1. 【[攀垛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_du_zz.md#攀垛子)】`paen1 du3 zz` <sup>[如皋]</sup> 砌墙时，砌给墙加固的部分称之。  
 1. 【[攀阴亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_ien_qien.md#攀阴亲)】`paen1 ien1 qien1` <sup>[如皋]</sup> 旧时残存的一种风俗，为死人办“结婚”仪式。  
 1. 【[攀死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_sz.md#攀死)】`paen1 sz3` <sup>[泰县]</sup> 哪怕去死：～吃河豚。  
-1. 【[踫河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_hu.md#踫河)】`paen2 hu2` <sup>[如东]</sup> 从河水中走过去：河水不深，我俫～吧。  
-1. 【[踫水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_shuei.md#踫水)】`paen2 shuei3` <sup>[如东]</sup> 从水中走过去：没得桥，我俫～过河吧。  
-1. 【[踫水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_shuei.md#踫水)】`paen2 shuei3` <sup>[东台]</sup> 蹚水过河，或在烂泥中行走。  
 1. 【[𤖭穰子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_ran_zz.md#𤖭穰子)】`paen2 ran2 zz` <sup>[兴化]</sup> 骂女孩的话：细～，一点点大就学咖怪。  
 1. 【[𤖭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_zz.md#𤖭子)】`paen2 zz` <sup>[兴化]</sup> ① 劈成片的竹篾或剖开的芦苇：篾～｜芦柴～。 ② 碎瓦片、瓷片：瓦～。  
 1. 【[𨂝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen.md#𨂝)】`paen2` 也写作“踫”，涉水  
@@ -186,6 +183,9 @@
 1. 【[𨂝本](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_ben.md#𨂝本)】`paen2 ben3` <sup>[如东]</sup> 把蚀掉的本钱赚回来：他还想～。  
 1. 【[𨂝本](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_ben.md#𨂝本)】`paen2 ben3` <sup>[东台]</sup> 通过努力把原来已经损失了的财富夺回来。  
 1. 【[𨂝本](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_ben.md#𨂝本)】`paen2 ben3` <sup>[兴化]</sup> 翻本，把赌输的钱赢回来  
+1. 【[𨂝河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_hu.md#𨂝河)】`paen2 hu2` <sup>[如东]</sup> 从河水中走过去：河水不深，我俫～吧。  
+1. 【[𨂝水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_shuei.md#𨂝水)】`paen2 shuei3` <sup>[如东]</sup> 从水中走过去：没得桥，我俫～过河吧。  
+1. 【[𨂝水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_shuei.md#𨂝水)】`paen2 shuei3` <sup>[东台]</sup> 蹚水过河，或在烂泥中行走。  
 1. 【[盼头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_teu.md#盼头)】`paen5 teu` <sup>[东台]</sup> 指可能实现的良好愿望。  
 1. 【[襻舌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_shih_r.md#襻舌<sub>儿</sub>)】`paen5 shih8 r` <sup>[兴化]</sup> 舌系带的俗称。  
 1. 【[襻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_zz.md#襻子)】`paen5 zz` <sup>[兴化]</sup> ① 用布条做的扣住钮扣的圈：钮～。 ② 披风之类的衣服上可以打结的布条。 ③ 形状或功能像襻子的东西：鞋一。  
