@@ -1713,6 +1713,7 @@
 1. 【[关拦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_laen.md#关拦)】`guaen1 laen2` <sup>[兴化]</sup> 门户栅栏，能阻止外人进入的设施：大门没上，外边没得～。｜“此林中没有～，跑了是我们的干系，不是玩的……”（《粉妆楼》三二）  
 1. 【[关殓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_lin.md#关殓)】`guaen1 lin6` <sup>[如东]</sup> 将死者尸体放入棺材并加盖，叫做关殓。  
 1. 【[关老爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_lo_i.md#关老爷)】`guaen1 lo3 i` <sup>[兴化]</sup> 老辈人对关羽的一般称呼。谚曰：～卖豆腐——人硬货不硬。  
+1. 【[关老爷卖豆腐——人硬货不硬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_lo_i_mae.md#关老爷卖豆腐——人硬货不硬)】`guaen1 lo3 i mae6 teu6 fv6 ren2 ngen6 hu5 beh7 ngen6` <sup>[如皋]</sup>   
 1. 【[关老爷门口舞薄刀——不自量力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_lo_i_men_keu_v_pah_do_beh_cz_lian_lieh.md#关老爷门口舞薄刀——不自量力)】`guaen1 lo3 i men2 keu3 v3 pah8 do1 beh7 cz6 lian6 lieh8` <sup>[如皋]</sup>   
 1. 【[关老爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_lo_ia.md#关老爷)】`guaen1 lo3 ia` <sup>[如东]</sup> ① 三国时期的关云长，群众把他敬奉为神，称关老爷。 ② 感叹词，相当于“我的天呀”：～！他怎吖死啊！  
 1. 【[关门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_men.md#关门)】`guaen1 men2` <sup>[东台]</sup> 停业或歇业。  
@@ -1748,7 +1749,6 @@
 1. 【[秆丝草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_sz_co.md#秆丝草)】`guaen1 sz1 co3` <sup>[如皋]</sup> 狼尾草。即“䓞草”。扎白蒲茶干时用到。  
 1. 【[秆子草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_zz_co.md#秆子草)】`guaen1 zz co3` <sup>[如皋]</sup> 删选过的小麦秸秆，齐的麦草  
 1. 【[鳏夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_fv.md#鳏夫)】`guaen1 fv1` <sup>[如东]</sup> 无妻或丧妻的人。  
-1. 【[关老爷卖豆腐——人硬货不硬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_lo_i_mae_teu_fv_ren_ngen_hu_beh_ngen.md#关老爷卖豆腐——人硬货不硬)】`guaen3 lo3 i mae6 teu6 fv6 ren2 ngen6 hu5 beh7 ngen6` <sup>[如皋]</sup>   
 1. 【[管他娘肏㞞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_ta_nian_reh_son.md#管他娘肏㞞)】`guaen3 ta nian2 reh8 son2` <sup>[如皋]</sup> 不管什么事都不要问。  
 1. 【[惯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen.md#惯)】`guaen5` <sup>[如东]</sup> 宠爱：你把这个伢儿～坏啊。  
 1. 【[惯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen.md#惯)】`guaen5` <sup>[如皋]</sup> 疼爱，溺爱。  

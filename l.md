@@ -1007,7 +1007,6 @@
 1. 【[搂莽一相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_man_ieh_xian.md#搂莽一相)】`leu3 man3 ieh7 xian5` 乍一看  
 1. 【[搂莽搂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_man_leu.md#搂莽搂)】`leu3 man3 leu3` <sup>[如东]</sup> 突然：他～的抓住啊我的手。  
 1. 【[篓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_r.md#篓<sub>儿</sub>)】`leu3 r` <sup>[如东]</sup> 工具。柳条编成，一般圆形，有口，无盖．用以盛物。  
-1. 【[晒盐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_in.md#晒盐)】`leu6 in2` <sup>[如东]</sup> 把海水放在盐池里曝晒，蒸发水分，使海水结晶成盐。由海水曝晒结晶的盐，称晒盐。  
 1. 【[漏疮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_chuan.md#漏疮)】`leu6 chuan1` <sup>[如东]</sup> 肛漏的通称。  
 1. 【[漏春年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_chuen_nin.md#漏春年)】`leu6 chuen1 nin2` <sup>[东台]</sup> 春节后才立春的年头。  
 1. 【[漏单](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_daen.md#漏单)】`leu6 daen1` <sup>[兴化]</sup> 落单，一人独处或单人行路：你覅凶，等你哪天子～狠狠𢪎你一顿。  

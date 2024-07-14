@@ -296,9 +296,9 @@
 1. 【[拿住咖老爷不当官](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_chuh_ga_lo_i_beh_dan_gun.md#拿住咖老爷不当官)】`na2 chuh7 ga lo3 i beh7 dan5 gun1` <sup>[如皋]</sup> 因不明对方身份而有所轻慢。  
 1. 【[拿住咖丫头割卵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_chuh_ga_nga_teu_guh_lun_zz.md#拿住咖丫头割卵子)】`na2 chuh7 ga nga1 teu guh7 lun3 zz` <sup>[如皋]</sup> 比喻逼人去做不可能做到的事。  
 1. 【[拿住咖做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_chuh_ga_zu.md#拿住咖做)】`na2 chuh7 ga zu5` <sup>[如皋]</sup> 要挟着做。  
+1. 【[拿住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_chv.md#拿住)】`na2 chv` <sup>[如东]</sup> ① 捉住：你要把他俫两个～。 ② 抓住：上楼你要～扶手。 ③ 比喻抓住问题：这个问题要～。  
 1. 【[拿大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_da.md#拿大)】`na2 da6` <sup>[如皋]</sup> 摆资格、架势来压人。  
 1. 【[拿大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_da.md#拿大)】`na2 da6` <sup>[东台]</sup> 摆架子，不轻易理睬别人。  
-1. 【[拿大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_da.md#拿大)】`na2 da6` <sup>[兴化]</sup> 自大、摆架子：“……他家的二小姐，着实爽快会待人的，倒不～……”（《红楼梦》六）  
 [更多...](./n.md)
 ## O
 1. 【[哦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/o.md#哦)】`o, ngo, go` <sup>[泰兴]</sup> 助词。表示催促。读音因前字韵尾而不同：快点走～（o）。  

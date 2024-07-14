@@ -326,7 +326,6 @@
 1. 【[蝦蚂灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_ma_den.md#蝦蚂灯)】`xia2 ma3 den1` <sup>[如皋]</sup> 三脚蛤蟆形的提灯。旧时灯节上常见。  
 1. 【[霞光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_guan.md#霞光)】`xia2 guan1` <sup>[兴化]</sup> 有意思、有情趣：这次抽奖蛮有～的。｜昨儿的晚会一个名角没得，真是没～。  
 1. 【[霞天膏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_tin_go.md#霞天膏)】`xia2 tin1 go1` <sup>[如东]</sup> 牛科动物黄牛肉经熬炼而成之膏，入中药。  
-1. 【[下手把子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_sheu_ba_zz.md#下手把子)】`xia3 sheu3 ba3 zz` <sup>[泰县]</sup> 助手。  
 1. 【[写字](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_cz.md#写字)】`xia3 cz6` 做作业，写字  
 1. 【[写仿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_fan.md#写仿)】`xia3 fan3` <sup>[如东]</sup> 练习毛笔字的一种方法。以母体字为样本，上面复盖仿纸，照样临，称写仿。也叫描红。  
 1. 【[写仿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_fan.md#写仿)】`xia3 fan3` <sup>[兴化]</sup> ① 照着字贴在习字本上练习写字（多指毛笔）。 ② 特指描红。  
@@ -457,6 +456,7 @@
 1. 【[下手把子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_sheu_ba_zz.md#下手把子)】`xia6 sheu ba3 zz` <sup>[兴化]</sup> 做辅助性工作的人：你当大师傅，我当你的～。  
 1. 【[下手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_sheu.md#下手)】`xia6 sheu3` <sup>[如东]</sup> ① 位于自己的右手边：他在我的～。 ② 自己的帮手：他是我的～。  
 1. 【[下手把子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_sheu_ba_zz.md#下手把子)】`xia6 sheu3 ba3 zz` <sup>[东台]</sup> 主要操作者的助手。  
+1. 【[下手把子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_sheu_ba_zz.md#下手把子)】`xia6-xia5 sheu3 ba3 zz` <sup>[泰县]</sup> 助手。  
 1. 【[下手把子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_sheu_ba_zz.md#下手把子)】`xia6 sheu3 ba3 zz` <sup>[如皋]</sup> 助手。  
 1. 【[下梢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_sho.md#下梢)】`xia6 sho1` <sup>[兴化]</sup> 结果或结局：你只管逍遥自在，不好好做人，当心没得～。｜却是富贵的人……眯着心，任情去做，那里管后来有～没～？（《初刻》二二）  
 1. 【[下熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_shoh.md#下熟)】`xia6 shoh8` <sup>[如皋]</sup> 即秋熟作物。  
@@ -988,7 +988,7 @@
 1. 【[腥□气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_ngaen_qi.md#腥□气)】`xien1 ngaen qi5` <sup>[东台]</sup> ① 东西虽少腥臭味不小。 ② ［喻］事情不大，却有废话：收一点儿东西，也是收，～！  
 1. 【[腥眼搭眵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_ngaen_daeh_chr.md#腥眼搭眵)】`xien1 ngaen3 daeh7 chr1` <sup>[如东]</sup> 一种又肮脏又腥气的样子和气味。  
 1. 【[腥眼气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_ngaen_qi.md#腥眼气)】`xien1 ngaen3 qi5` <sup>[如东]</sup> 一种腥气味：从渔船上回来，衣裳上有一种～。  
-1. 【[腥气不刺的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_qi_beh_laeh_dii.md#腥气不刺的)】`xien1 qi beh laeh dii` <sup>[如皋]</sup> 对腥味表示厌恶的说法。相当于普通话“～巴拉的”。  
+1. 【[腥气不剌的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_qi_beh_laeh_dii.md#腥气不剌的)】`xien1 qi beh laeh dii` <sup>[如皋]</sup> 对腥味表示厌恶的说法。  
 1. 【[腥气味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_qi_vei.md#腥气味)】`xien1 qi vei6` <sup>[兴化]</sup> ① 腥气：这死鱼一股子～。 ② 指沾上违纪违法的事或惹上嫌疑：他一个人犯事，同办公室的人都沾上～。  
 1. 【[腥气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_qi.md#腥气)】`xien1 qi5` <sup>[如东]</sup> 鱼腥味：鱼网非常～。  
 1. 【[腥气搭吽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_qi_daeh_hon.md#腥气搭吽)】`xien1 qi5 daeh7 hon1` <sup>[东台]</sup> 嘲讽某人在人情交往中出手不大，却喜欢显摆：不就两瓶酒啊，还老挂啊嘴上，～的！  

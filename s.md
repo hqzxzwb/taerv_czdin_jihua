@@ -621,6 +621,7 @@
 1. 【[晒秧母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_ian_mu.md#晒秧母)】`shae5 ian1 mu3` <sup>[如东]</sup> 一种培植方法。把秧母田里的水放小或放干，让太阳晒，增加地温，促进秧苗根须生长。  
 1. 【[晒阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_ian.md#晒阳)】`shae5 ian2` <sup>[兴化]</sup> 春末的晴天，鱼在浅滩或水草丛中交配产卵。  
 1. 【[晒一个太阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_ieh_gu_tae_ian.md#晒一个太阳)】`shae5 ieh7 gu tae5 ian` <sup>[如皋]</sup> 晒一个整天的阳光。  
+1. 【[晒盐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_in.md#晒盐)】`shae5 in2` <sup>[如东]</sup> 把海水放在盐池里曝晒，蒸发水分，使海水结晶成盐。由海水曝晒结晶的盐，称晒盐。  
 1. 【[晒脚丫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_jiah_nga_r.md#晒脚丫<sub>儿</sub>)】`shae5 jiah7 nga1 r` <sup>[如东]</sup> 互相出丑：她俫两个在下～。  
 1. 【[晒粮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_lian.md#晒粮)】`shae5 lian2` <sup>[如东]</sup> 将谷物放在太阳下曝晒，称晒粮。  
 1. 【[晒人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_ren.md#晒人)】`shae5 ren` <sup>[如皋]</sup> 见“太阳暴”。  
@@ -1319,7 +1320,7 @@
 1. 【[石碱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_gaen.md#石碱)】`sheh8 gaen3` <sup>[如东]</sup> 从蒿、蓼等植物草灰中提取碱汁，和以面粉，经加工而成的固体。  
 1. 【[石膏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_go.md#石膏)】`sheh8 go1` <sup>[如东]</sup> 硫酸盐类矿物石膏的矿石。  
 1. 【[石磙上搁灯——照场（常）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_guen_shan_gah_den_zho_chan.md#石磙上搁灯——照场（常）)】`sheh8 guen3 shan gah7 den1 zho5 chan2` <sup>[东台]</sup>   
-1. 【[石户<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_gv_r.md#石户<sub>儿</sub>)】`sheh8 gv3 r` <sup>[如皋]</sup> 旧式大门门框外的一对石饰，下部伸入门内为门下窝儿。  
+1. 【[石鼓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_gv_r.md#石鼓<sub>儿</sub>)】`sheh8 gv3 r` <sup>[如皋]</sup> 旧式大门门框外的一对石饰，下部伸入门内为门下窝儿。  
 1. 【[石夯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_han.md#石夯)】`sheh8 han1` <sup>[如东]</sup> 工具。石制，圆柱形，用以砸实泥土。  
 1. 【[石夯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_han.md#石夯)】`sheh8 han1` <sup>[如皋]</sup> 夯，实地的工具。主要为石制，故称石夯。  
 1. 【[石灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_huei.md#石灰)】`sheh8 huei1` <sup>[如东]</sup> 无机化合物，主要成分是氧化钙，由石灰岩煅烧而成，为白色不固定体用于建筑、农业等方面。  

@@ -18,6 +18,7 @@
 1. 【[拿住咖老爷不当官](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_chuh_ga_lo_i_beh_dan_gun.md#拿住咖老爷不当官)】`na2 chuh7 ga lo3 i beh7 dan5 gun1` <sup>[如皋]</sup> 因不明对方身份而有所轻慢。  
 1. 【[拿住咖丫头割卵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_chuh_ga_nga_teu_guh_lun_zz.md#拿住咖丫头割卵子)】`na2 chuh7 ga nga1 teu guh7 lun3 zz` <sup>[如皋]</sup> 比喻逼人去做不可能做到的事。  
 1. 【[拿住咖做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_chuh_ga_zu.md#拿住咖做)】`na2 chuh7 ga zu5` <sup>[如皋]</sup> 要挟着做。  
+1. 【[拿住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_chv.md#拿住)】`na2 chv` <sup>[如东]</sup> ① 捉住：你要把他俫两个～。 ② 抓住：上楼你要～扶手。 ③ 比喻抓住问题：这个问题要～。  
 1. 【[拿大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_da.md#拿大)】`na2 da6` <sup>[如皋]</sup> 摆资格、架势来压人。  
 1. 【[拿大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_da.md#拿大)】`na2 da6` <sup>[东台]</sup> 摆架子，不轻易理睬别人。  
 1. 【[拿大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_da.md#拿大)】`na2 da6` <sup>[兴化]</sup> 自大、摆架子：“……他家的二小姐，着实爽快会待人的，倒不～……”（《红楼梦》六）  
@@ -103,7 +104,6 @@
 1. 【[拿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_zz.md#拿子)】`na2 zz` <sup>[东台]</sup> 刁难别人、制服别人的借口或手段：这个老板～真大！  
 1. 【[拿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_zz.md#拿子)】`na2 zz` <sup>[兴化]</sup> 架子：玩～（摆架子）；～不小。  
 1. 【[牙花子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_hua_zz.md#牙花子)】`na2 hua1 zz` <sup>[兴化]</sup> ① 牙垢。 ② 齿龈。  
-1. 【[拿住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_chv.md#拿住)】`na3 chv` <sup>[如东]</sup> ① 捉住：你要把他俫两个～。 ② 抓住：上楼你要～扶手。 ③ 比喻抓住问题：这个问题要～。  
 1. 【[那摩文](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_mu_ven.md#那摩文)】`na5 mu ven2` <sup>[东台]</sup> number one的变音。原指工头，现多指头一个、第一名：谈到唱歌，他竖起大拇指说，小王在全班是～！  
 1. 【[奶子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_zz.md#奶子)】`nae1 zz` <sup>[如东]</sup> 乳房。  
 1. 【[褦襶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_dae.md#褦襶)】`nae1 dae` <sup>[兴化]</sup> ① 粗笨、不利索：出门旅游，他带上多少吃的、穿的、用的，路都走不动，真～。 ② 不晓事、不合时宜：几个人当中就数他～，开口就捱人家叉住。｜晋，程晓《嘲热客》｜“闭门避署卧，出入不相过，只今～子，触热到人家。”《吴下方言考》｜“～，不解事而笨也，吴谚呼笨人为～。”  

@@ -1053,7 +1053,6 @@
 1. 【[扑匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_qian.md#扑匠)】`poh7 qian` <sup>[如东]</sup> 建造和修理扑屋的小手工业者。  
 1. 【[拍巴掌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_ba_zhan.md#拍巴掌)】`poh7 ba1 zhan` <sup>[东台]</sup> 拍手。  
 1. 【[拍镲<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_cha_r.md#拍镲<sub>儿</sub>)】`poh7 cha3 r` <sup>[东台]</sup> 钹，像铙，一种打击乐器，是两个形同凉帽的圆铜片，顶上穿绸条相对拍打发声。  
-1. 【[拍桌子打板凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_hzuah_zz_da_baen_den.md#拍桌子打板凳)】`poh7 hzuah7 zz da3 baen3 den5` <sup>[如皋]</sup> 盛怒时举止粗野的样子。  
 1. 【[拍马屁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_ma_pi.md#拍马屁)】`poh7 ma3 pi5` <sup>[东台]</sup> 谄媚奉承（多指对上级）。  
 1. 【[拍马山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_ma_shaen.md#拍马山)】`poh7 ma3 shaen1` <sup>[东台]</sup> 同“拍马屁”。  
 1. 【[拍马山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_ma_shaen.md#拍马山)】`poh7 ma3 shaen1` <sup>[兴化]</sup> 即拍马屁。  
@@ -1064,7 +1063,8 @@
 1. 【[拍双](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_shuan.md#拍双)】`poh7 shuan1` <sup>[兴化]</sup> 双倍：这种小商品从义务进家来，按本钱～卖出去没问题。  
 1. 【[拍双转弯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_shuan_zhun_vaen.md#拍双转弯)】`poh7 shuan1 zhun3 vaen1` <sup>[兴化]</sup> 双倍过头：这东西进四个钱，卖十个钱，～。  
 1. 【[拍小照](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_xio_zho.md#拍小照)】`poh7 xio3 zho5` <sup>[东台]</sup> 照相，多指人的肖像。  
-1. 【[拍桌子打板凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_zhuah_zz_da_baen_den.md#拍桌子打板凳)】`poh7 zhuah7 zz da3 baen3 den5` <sup>[兴化]</sup> 情绪冲动时的情态：（符老爷）说到那里，～的大骂……（《二十年目睹之怪现状》七四）｜邓九公听了，乐得～的，连说“有理！”（《儿女英雄传》二十）  
+1. 【[拍桌子打板凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_zhuah_zz_da.md#拍桌子打板凳)】`poh7 zhuah7 zz da3 baen3 den5` <sup>[兴化]</sup> 情绪冲动时的情态：（符老爷）说到那里，～的大骂……（《二十年目睹之怪现状》七四）｜邓九公听了，乐得～的，连说“有理！”（《儿女英雄传》二十）  
+1. 【[拍桌子打板凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_zhuah_zz_da.md#拍桌子打板凳)】`poh7 zhuah7 zz da3 baen3 den5` <sup>[如皋]</sup> 盛怒时举止粗野的样子。  
 1. 【[□□跳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_poh_tio.md#□□跳)】`poh8 poh8 tio5` <sup>[如东]</sup> 活蹦乱跳：河鱼刚打上来，～。  
 1. 【[白巴咧齿的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_ba_lae_chr_dii.md#白巴咧齿的)】`poh8 ba lae3 chr3 dii` <sup>[如皋]</sup> ① 贬指。一种难看的白色。 ② 褪色后显出的暗白色。  
 1. 【[白巴剌呲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_ba_laeh_cz.md#白巴剌呲)】`poh8 ba laeh8 cz1` <sup>[兴化]</sup> 形容白得难看：这块肉～的，怕的是瘟猪肉。｜这件灰衬衫被吹得～的。｜鱼煮得～的，真倒胃口。  

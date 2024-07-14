@@ -302,7 +302,8 @@
 1. 【[壳壳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_kah_r.md#壳壳<sub>儿</sub>)】`kah7 kah r` <sup>[如皋]</sup> ① 质差：这张橱是坏～。 ② 无价值：还做甚的唻，做他个～！  
 1. 【[壳壳<sub>儿</sub>梦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_kah_r_mon.md#壳壳<sub>儿</sub>梦)】`kah7 kah r mon6` <sup>[如皋]</sup> 见“壳壳儿”。  
 1. 【[壳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_r.md#壳<sub>儿</sub>)】`kah7 r` <sup>[如东]</sup> ① 甲壳动物的外甲，如蟹壳、虾壳、螺壳等。 ② 人的躯体的外表：他的年龄虽大，～还蛮好。  
-1. 【[壳树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_shv.md#壳树)】`kah7 shv6` <sup>[如皋]</sup> 构树。  
+1. 【[壳树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_shv.md#壳树)】`kah7 shv6` <sup>[如皋]</sup> 楮树、构树。  
+1. 【[壳树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_shv.md#壳树)】`kah7 shv6` <sup>[兴化]</sup> 楮树、构树。  
 1. 【[壳铎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_tah.md#壳铎)】`kah7 tah` <sup>[兴化]</sup> 象声词：折枝或重物落地声｜（他）正在凝神，只听～一声，觉得腿裆里一软，身子一摇，竟滚下山涧去了。（《老残游记》八）  
 1. 【[壳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_zz.md#壳子)】`kah7 zz` <sup>[兴化]</sup> ① 封套：信～｜香烟～。 ② 骂人的话：细～｜焦～｜大烟～。  
 1. 【[搉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah.md#搉)】`kah7` <sup>[如东]</sup> 敲击：你用榔头～。  
@@ -316,7 +317,6 @@
 1. 【[搉搉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_kah.md#搉搉)】`kah7 kah` <sup>[兴化]</sup> （儿童语）休想、办不到：你想赢我啊？～！  
 1. 【[搉牌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_pae_zz.md#搉牌子)】`kah7 pae2 zz` <sup>[如东]</sup> ① 把店铺的门牌砸坏了。 ② 商品的质量和信誉遭到损坏。  
 1. 【[搉枪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_qian.md#搉枪)】`kah7 qian1` <sup>[如皋]</sup> 儿时自制的玩具手枪。  
-1. 【[榖树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_shv.md#榖树)】`kah7 shv6` <sup>[兴化]</sup> 即楮树。《说文·木部》，榖，楮也，㱿声。  
 1. 【[确备](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_pei.md#确备)】`kah7 pei` <sup>[如皋]</sup> 下决心，准备付出代价：我～一夜不睡，单要看住他！  
 1. 【[确生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_shen.md#确生)】`kah7 shen` <sup>[如皋]</sup> 见“确备”。  
 1. 【[康管](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kan_gun.md#康管)】`kan1 gun1` <sup>[泰县]</sup> 装有墨粉的安瓿。  
