@@ -898,8 +898,8 @@
 1. 【[望屋梁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_oh_lian.md#望屋梁)】`van6 oh7 lian2` <sup>[兴化]</sup> 死后不能及时收殓的隐语：人死下来没钱打当，躺吖那块～。  
 1. 【[望箔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_pah.md#望箔)】`van6 pah8` <sup>[兴化]</sup> 铺在椽子上的芦帘或竹席，上面铺油毡盖瓦。  
 1. 【[望起爬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_qi_pa.md#望起爬)】`van6 qi pa2` <sup>[如皋]</sup> 由卧、伏、坐、跪等开始爬起来。  
-1. 【[望前弨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_qin_cho.md#望前弨)】`van6 qin2 cho1` <sup>[如皋]</sup> 向前翘起：他的下齿包上齿，下巴～。  
-1. 【[望上弨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_shan_cho.md#望上弨)】`van6 shan6 cho1` <sup>[如皋]</sup> 向上翘起：他的帽叶子～。  
+1. 【[望前抄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_qin_cho.md#望前抄)】`van6 qin2 cho1` <sup>[如皋]</sup> 向前翘起：他的下齿包上齿，下巴～。  
+1. 【[望上抄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_shan_cho.md#望上抄)】`van6 shan6 cho1` <sup>[如皋]</sup> 向上翘起：他的帽叶子～。  
 1. 【[望头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_teu.md#望头)】`van6 teu` <sup>[兴化]</sup> 指望、盼头：她儿子考上大学，往后日子有～啊。  
 1. 【[望头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_teu.md#望头)】`van6 teu2` <sup>[如东]</sup> 希望：这趟生意可能有～。  
 1. 【[望天收](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_tin_sheu.md#望天收)】`van6 tin1 sheu1` <sup>[东台]</sup> 种田人只种不管，收多收少，全由老天爷做主。  

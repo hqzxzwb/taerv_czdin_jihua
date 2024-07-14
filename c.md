@@ -1261,20 +1261,20 @@
 1. 【[缠事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin_shr.md#缠事)】`chin6 shr1` <sup>[如皋]</sup> 胡涂不清：他会～，你同他说不清。  
 1. 【[缠事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin_shr.md#缠事)】`chin6 shr1` <sup>[东台]</sup> ① 胡搅蛮缠，也作“缠丝”。 ② 是责怪对方把事情弄错了的口头禅：你把张老师的东西送到啊章老师家，～！  
 1. 【[缠事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin_shr.md#缠事)】`chin6 shr6` <sup>[泰县]</sup> ① 惹事。 ② 说不清。  
-1. 【[弨啊前头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_a_qin_teu.md#弨啊前头)】`cho1 a qin2 teu` <sup>[如皋]</sup> 下颚比上颚朝前。  
-1. 【[弨弨<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_cho_r.md#弨弨<sub>儿</sub>)】`cho1 cho1 r` <sup>[如皋]</sup> 帽舌：帽～。  
-1. 【[弨弨<sub>儿</sub>帽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_cho_r_mo_zz.md#弨弨<sub>儿</sub>帽子)】`cho1 cho1 r mo6 zz` <sup>[如皋]</sup> 有帽舌的帽子。  
-1. 【[弨下巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_ha_ba.md#弨下巴)】`cho1 ha6 ba` <sup>[如东]</sup> 下巴向前伸着的人，叫弨下巴。  
-1. 【[弨下巴颏<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_ha_ba_kah_r.md#弨下巴颏<sub>儿</sub>)】`cho1 ha6 ba kah7 r` <sup>[如东]</sup> ① 人的下巴向前突出。 ② 从旁边乱插话。  
-1. 【[弨瓢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_pio_r.md#弨瓢<sub>儿</sub>)】`cho1 pio2 r` <sup>[如东]</sup> ① 工具。木制，前方后圆，三边有榜，前边有口，中间凹。有柄。 ② 比喻上嘴唇短、下嘴唇长，嘴形似瓢儿的人。  
-1. 【[弨瓢<sub>儿</sub>嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_pio_r_jy.md#弨瓢<sub>儿</sub>嘴)】`cho1 pio2 r jy3` <sup>[如皋]</sup> 下颚比上颚朝前的脸型。见“地包天”、“济㩭牙”。  
 1. 【[抄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho.md#抄)】`cho1` <sup>[如东]</sup> 把东西从水中捞起来：你用海子把鱼～起来。  
 1. 【[抄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho.md#抄)】`cho1` <sup>[兴化]</sup> ① 两手交相插在袖筒里：～着手。 ② 将手掌弯成弧形舀水：～水漱口｜～点儿水喝喝。  
+1. 【[抄啊前头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_a_qin_teu.md#抄啊前头)】`cho1 a qin2 teu` <sup>[如皋]</sup> 下颚比上颚朝前。  
 1. 【[抄豝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_ba_r.md#抄豝<sub>儿</sub>)】`cho1 ba1 r` <sup>[如东]</sup> 产崽的母猪被骟了，叫抄巴儿。  
+1. 【[抄抄<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_cho_r.md#抄抄<sub>儿</sub>)】`cho1 cho1 r` <sup>[如皋]</sup> 帽舌：帽～。  
+1. 【[抄抄<sub>儿</sub>帽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_cho_r_mo_zz.md#抄抄<sub>儿</sub>帽子)】`cho1 cho1 r mo6 zz` <sup>[如皋]</sup> 有帽舌的帽子。  
 1. 【[抄家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_ga.md#抄家)】`cho1 ga1` <sup>[如东]</sup> 查抄家产。  
+1. 【[抄下巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_ha_ba.md#抄下巴)】`cho1 ha6 ba` <sup>[如东]</sup> 下巴向前伸着的人，叫抄下巴。  
+1. 【[抄下巴颏<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_ha_ba_kah_r.md#抄下巴颏<sub>儿</sub>)】`cho1 ha6 ba kah7 r` <sup>[如东]</sup> ① 人的下巴向前突出。 ② 从旁边乱插话。  
 1. 【[抄后脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_heu_jiah.md#抄后脚)】`cho1 heu6 jiah7` <sup>[如东]</sup> 背后说人坏话：不要～。  
 1. 【[抄后脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_heu_jiah.md#抄后脚)】`cho1 heu6 jiah7` <sup>[如皋]</sup> 从后方牵制、打击。  
 1. 【[抄灰板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_huei_baen.md#抄灰板)】`cho1 huei1 baen3` <sup>[兴化]</sup> 泥瓦匠工具，形似乒乓球拍而略大，用于等砂浆、灰浆粉刷墙壁。  
+1. 【[抄瓢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_pio_r.md#抄瓢<sub>儿</sub>)】`cho1 pio2 r` <sup>[如东]</sup> ① 工具。木制，前方后圆，三边有榜，前边有口，中间凹。有柄。 ② 比喻上嘴唇短、下嘴唇长，嘴形似瓢儿的人。  
+1. 【[抄瓢<sub>儿</sub>嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_pio_r_jy.md#抄瓢<sub>儿</sub>嘴)】`cho1 pio2 r jy3` <sup>[如皋]</sup> 下颚比上颚朝前的脸型。见“地包天”、“济㩭牙”。  
 1. 【[抄斜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_qia.md#抄斜)】`cho1 qia2` <sup>[如皋]</sup> 不走直角路或圆弧路而走斜边，以求快捷。  
 1. 【[抄近](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_qien.md#抄近)】`cho1 qien6` <sup>[如东]</sup> 选择近路：你好～跑，不要绕弯子。  
 1. 【[抄近路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_qien_lv.md#抄近路)】`cho1 qien6 lv6` <sup>[东台]</sup> 从侧面走捷径。  

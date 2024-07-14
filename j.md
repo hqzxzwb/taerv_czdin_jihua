@@ -160,7 +160,7 @@
 1. 【[虮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zz.md#虮子)】`ji3 zz` <sup>[东台]</sup> 虱子的卵。  
 1. 【[㾵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#㾵)】`ji5` <sup>[如皋]</sup> 表皮的天然色斑（脸部另称）。有黑、青、紫、红等色。胎记。  
 1. 【[㾵识](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_sheh.md#㾵识)】`ji5 sheh7` <sup>[如皋]</sup> 胎记。一般写“记识”。  
-1. 【[季弨牙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_cho_nga.md#季弨牙)】`ji5 cho1 nga2` <sup>[如东]</sup> 门牙排列不齐，叫做季弨牙。  
+1. 【[季抄牙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_cho_nga.md#季抄牙)】`ji5 cho1 nga2` <sup>[如东]</sup> 门牙排列不齐，叫做季抄牙。  
 1. 【[季家市到黄桥——二十五](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ga_shr_do.md#季家市到黄桥——二十五)】`ji5 ga shr6 do5 huan2 qio er6 sheh v3` <sup>[泰兴]</sup>   
 1. 【[季节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_jih.md#季节)】`ji5 jih7` <sup>[如东]</sup> 一年里某个特定的时期：农忙～。  
 1. 【[季节不饶人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_jih_beh_ro_ren.md#季节不饶人)】`ji5 jih7 beh7 ro2 ren2` <sup>[东台]</sup> 农谚，种庄稼要遵循其客观规律，不能耽误农时。  
