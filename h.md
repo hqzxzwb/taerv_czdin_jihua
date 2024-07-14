@@ -2197,7 +2197,6 @@
 1. 【[回盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_pun.md#回盘)】`huei2 pun2` <sup>[兴化]</sup> 送礼用的托盘称之“礼盘”。借指回礼：～是五粮液两瓶，中华烟一条。  
 1. 【[回软](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_run.md#回软)】`huei2 run3` <sup>[兴化]</sup> ① 原来很硬很脆的东西由于受潮变软：馓子～｜饼干～。 ② 一种烹调方法：原来炸脆的菜肴从油中走过使变软｜脆长鱼～。 ③ 态度由强硬而软化，由倔强变顺从：她憋咖几天气，这天把有点～吖。  
 1. 【[回食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_sheh.md#回食)】`huei2 sheh8` <sup>[如皋]</sup> 转噍，反刍。  
-1. 【[回食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_sheh.md#回食)】`huei2 sheh8` <sup>[如皋]</sup> 反刍。  
 1. 【[回声](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_shen.md#回声)】`huei2 shen1` <sup>[如皋]</sup> 异议：他的权威高，一句话说出去，其他人没得～。  
 1. 【[回手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_sheu.md#回手)】`huei2 sheu3` <sup>[东台]</sup> 转过手来，或者指还手。  
 1. 【[回手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_sheu.md#回手)】`huei2 sheu3` <sup>[兴化]</sup> 回扣：这笔交易做成吖，百分之五的～。  
