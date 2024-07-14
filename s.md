@@ -3779,7 +3779,7 @@
 1. 【[四九心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_jieu_xien.md#四九心)】`sz5 jieu3 xien1` <sup>[兴化]</sup> 从冬至日起，每九天为“一九”，共九九，是为“数九寒天”，而一为全年最冷的时候。  
 1. 【[四九心里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_jieu_xien_lii.md#四九心里)】`sz5 jieu3 xien1 lii` 冬天四九的时候，很冷的时候。  
 1. 【[四九心里吃西瓜——凉透心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_jieu_xien_lii_qieh_xi_gua_lian_teu_xien.md#四九心里吃西瓜——凉透心)】`sz5 jieu3 xien1 lii qieh7 xi1 gua1 lian2 teu5 xien1` <sup>[东台]</sup>   
-1. 【[四接垛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_jih_to_zz.md#四接垛子)】`sz5 jih7 to6 zz` <sup>[兴化]</sup> 四面环水的小土墩。  
+1. 【[四接垛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_jih_tu_zz.md#四接垛子)】`sz5 jih7 tu6 zz` <sup>[兴化]</sup> 四面环水的小土墩。  
 1. 【[四两棉花八把弓——细弹细弹（谈）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_laen_min_hua_baeh_ba_gon_xi_taen_xi_taen.md#四两棉花八把弓——细弹细弹（谈）)】`sz5 laen3 min2 hua1 baeh7 ba3 gon1 xi5 taen2 xi5 taen2` <sup>[东台]</sup>   
 1. 【[四梁八柱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_lian_baeh_chv.md#四梁八柱)】`sz5 lian2 baeh7 chv6` <sup>[东台]</sup> ［喻］支撑局面的精英骨干：厂有今朝，～功不可没。  
 1. 【[四流八淌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_lieu_baeh_tan.md#四流八淌)】`sz5 lieu2 baeh7 tan3` <sup>[如东]</sup> 到处流淌：这场雨～的。  

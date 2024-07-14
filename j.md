@@ -1766,7 +1766,6 @@
 1. 【[绢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiun_r.md#绢<sub>儿</sub>)】`jiun5 r` <sup>[如皋]</sup> 手帕。  
 1. 【[□子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_zz.md#□子)】`jy1 zz` <sup>[泰县]</sup> 小猪。  
 1. 【[俱家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_jia.md#俱家)】`jy1 jia1` <sup>[如东]</sup> 统统：请你～拿过来。  
-1. 【[嘴不饶人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_beh_ro_ren.md#嘴不饶人)】`jy1 beh7 ro2 ren2` <sup>[如东]</sup> 爱挑剔别人的缺点：张三就是～。  
 1. 【[居住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_chv.md#居住)】`jy1 chv6` <sup>[如东]</sup> 长期生活的一个地方。  
 1. 【[居后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_heu.md#居后)】`jy1 heu6` <sup>[如皋]</sup> 空间或时间上都在后。  
 1. 【[居虎霸下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_hv_ba_xia.md#居虎霸下)】`jy1 hv3 ba5 xia6` <sup>[兴化]</sup> 形容盛气凌人的样子：他不过当个民兵营长，老～的训人。  
@@ -1795,6 +1794,7 @@
 1. 【[嘴巴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_ba_zz.md#嘴巴子)】`jy3 ba1 zz` <sup>[东台]</sup> ① 脸的两侧。 ② 口才：这个人～厉害。  
 1. 【[嘴不关风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_beh_guaen_fon.md#嘴不关风)】`jy3 beh7 guaen1 fon1` <sup>[东台]</sup> 因门牙缺失而发不出唇齿音，［喻］指随意透露消息。  
 1. 【[嘴不嘴，脸不脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_beh_jy_lin_beh_lin.md#嘴不嘴，脸不脸)】`jy3 beh7 jy3 lin3 beh7 lin3` <sup>[东台]</sup> 故意给人脸色看：你就这吖～的，哪个受你的？  
+1. 【[嘴不饶人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_beh_ro_ren.md#嘴不饶人)】`jy3 beh7 ro2 ren2` <sup>[如东]</sup> 爱挑剔别人的缺点：张三就是～。  
 1. 【[嘴边<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_bin_r.md#嘴边<sub>儿</sub>)】`jy3 bin1 r` <sup>[如东]</sup> 嘴唇。  
 1. 【[嘴边<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_bin_r.md#嘴边<sub>儿</sub>)】`jy3 bin1 r` <sup>[如皋]</sup> 嘴唇。  
 1. 【[嘴边<sub>儿</sub>𣻏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_bin_r_xio.md#嘴边<sub>儿</sub>𣻏)】`jy3 bin1 r xio1` <sup>[如皋]</sup> 嘴唇薄，常认为会说。  

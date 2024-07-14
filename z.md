@@ -2612,6 +2612,7 @@
 1. 【[簪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zun_zz.md#簪子)】`zun1 zz` <sup>[东台]</sup> 插在发髻上的物件，一头粗，一头尖，用金、银、玳瑁、玉石等做成。  
 1. 【[钻骨蛆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zun_gueh_qy_zz.md#钻骨蛆子)】`zun1 gueh7 qy1 zz` <sup>[如东]</sup> ① 非常钻营的人：这个伢儿就像～一样，天天都在下搝钱。 ② 比喻令人讨厌的人：这个人像～样的，叫人焐数。  
 1. 【[钻空子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zun_kon_zz.md#钻空子)】`zun1 kon1 zz` <sup>[如东]</sup> 利用漏洞进行对自己有利的活动。  
+1. 【[钻眼打洞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zun_ngaen_da_ton.md#钻眼打洞)】`zun1 ngaen3 da3 ton6` <sup>[兴化]</sup> 千方百计寻找有利的机会：他为啊升官，～的找关系，走后门。  
 1. 【[钻眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zun_ngaen_r.md#钻眼<sub>儿</sub>)】`zun1 ngaen3 r` <sup>[如东]</sup> ① 追根求底：这件事不要～。 ② 钻空子：不能让他～。  
 1. 【[钻眼子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zun_ngaen_zz.md#钻眼子)】`zun1 ngaen3 zz` <sup>[东台]</sup> 想尽方法找关系，托门路：这件事要会～，才能办成。  
 1. 【[钻腮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zun_sae.md#钻腮)】`zun1 sae1` <sup>[如皋]</sup> ① 状食物租，有杂质，吃时易钻入腮帮中。 ② 状食物异味，刺激腮部。  
@@ -2620,7 +2621,6 @@
 1. 【[钻山打洞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zun_shaen_da_ton.md#钻山打洞)】`zun1 shaen1 da3 ton6` <sup>[如皋]</sup> 喻尽量设法打探消息。  
 1. 【[钻山打洞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zun_shaen_da_ton.md#钻山打洞)】`zun1 shaen1 da3 ton6` <sup>[东台]</sup> ［喻］想各种办法找出路。也作“钻心挖窟”。  
 1. 【[钻心虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zun_xien_chon.md#钻心虫)】`zun1 xien1 chon2` <sup>[如皋]</sup> 甘蔗螟、玉米螟幼虫的统称，也叫蛀心虫。  
-1. 【[钻眼打洞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zun_ngaen_da_ton.md#钻眼打洞)】`zun3 ngaen3 da3 ton6` <sup>[兴化]</sup> 千方百计寻找有利的机会：他为啊升官，～的找关系，走后门。  
 1. 【[钻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zun.md#钻)】`zun5` <sup>[如东]</sup> 工具。分钻头、钻身两部分。钻头铁制，尖锐。钻身可以旋转，有的以人工为动力，有的以机械为动力。主要用以打眼。  
 1. 【[钻床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zun_chuan.md#钻床)】`zun5 chuan2` <sup>[如东]</sup> 在金属或其他材料的零件上加工圆孔的机床。工件不动，刀具一面旋转，一面推进。常用的有立式钻床旋臂钻床等。  
 1. 【[钻工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zun_gon.md#钻工)】`zun5 gon1` <sup>[如东]</sup> 工种的一种。以操纵钻床为职业的工人。  

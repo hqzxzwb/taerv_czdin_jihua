@@ -617,7 +617,7 @@
 1. 【[烂污龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_v_lon.md#烂污龙)】`laen6 v1 lon2` <sup>[如东]</sup> ① 手、脚或鼻孔不干净的小孩：毛毛不洗手，变吖个～吖。 ② 比喻不清洁的人：衣服不换下来洗洗，像个～。  
 1. 【[烂袜子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_vaeh_zz.md#烂袜子)】`laen6 vaeh8 zz` <sup>[兴化]</sup> ① （老派戏言）指意外交好运：～的，他中吖个头奖！ ② 赞人有一手：这个～的二胡拉得不丑啊！  
 1. 【[烂黄<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_van_r.md#烂黄<sub>儿</sub>)】`laen6 van2 r` <sup>[如皋]</sup> 不成形的鸡粪尿。  
-1. 【[烂小器](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_xio_chv.md#烂小器)】`laen6 xio3 chv3` <sup>[如皋]</sup> 小暑天已出梅应晴热，仍阴雨连日，造成多霉变。  
+1. 【[烂小暑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_xio_chv.md#烂小暑)】`laen6 xio3 chv3` <sup>[如皋]</sup> 小暑天已出梅应晴热，仍阴雨连日，造成多霉变。  
 1. 【[烂雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_xiuh.md#烂雪)】`laen6 xiuh7` <sup>[如皋]</sup> 先雨后雪或雨夹雪，雪花落地即化，不能堆积，谓之。  
 1. 【[烂雪填井](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_xiuh_tin_jien.md#烂雪填井)】`laen6 xiuh7 tin2 jien3` <sup>[东台]</sup> ［喻］烂雪是容易融化的雪，用其填井永远填不满，比喻白费气力：扶贫要扶志，否则是～。  
 1. 【[烂忠厚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_zhon_heu.md#烂忠厚)】`laen6 zhon1 heu6` <sup>[兴化]</sup> 指老实而无用的人：老人是个～，一世听人摆布。｜“……你是个～没用的人，所以这些话我不得不教导你，免得惹人笑话。”（《儒林外史》三）  

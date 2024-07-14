@@ -193,6 +193,7 @@
 1. 【[码子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_zz.md#码子)】`ma3 zz` <sup>[如皋]</sup> ① 暗语，指某人：刚才的～不识好。 ② 骰子（色儿）所表示的数：笃定～开！  
 1. 【[码子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_zz.md#码子)】`ma3 zz` <sup>[兴化]</sup> ① “人”的隐语：神气～；土佬～；九二～（刘）。 ② （喻）等级：这个徒弟比我好一百个～。  
 1. 【[蚂蟥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_huan.md#蚂蟥)】`ma3 huan2` <sup>[如东]</sup> 水蛭科动物宽体金线蛭，又叫蚂虮。  
+1. 【[蚂蚁草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_i_co.md#蚂蚁草)】`ma3 i co3` <sup>[如皋]</sup> 萹蓄。（原文作“马尾草”，音不合）  
 1. 【[蚂蚁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_i.md#蚂蚁)】`ma3 i3` <sup>[如东]</sup> 蚁科昆虫黑蚁，又称蚂米儿。  
 1. 【[蚂蚁布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_i_bv.md#蚂蚁布)】`ma3 i3 bv5` <sup>[如皋]</sup> 土布中呈黑白小格的一种。  
 1. 【[蚂蚁尿书——湿（识）字不多](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_i_nio_shv_sheh_cz_beh_du.md#蚂蚁尿书——湿（识）字不多)】`ma3 i3 nio6 shv1 sheh7 cz6 beh7 du1` <sup>[东台]</sup>   
@@ -230,7 +231,6 @@
 1. 【[马虎帽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_hv_mo_zz.md#马虎帽子)】`ma3 hv mo6 zz` <sup>[兴化]</sup> 一种从头顶到脖子只露出眼和嘴的棉帽：老陈从衣柜单拿出一顶大雪天戴的～……（马春阳《双灯照》）  
 1. 【[马虎团<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_hv_tun_r.md#马虎团<sub>儿</sub>)】`ma3 hv tun2 r` <sup>[兴化]</sup> 指遇事马马虎虎的人。  
 1. 【[马虎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_hv.md#马虎)】`ma3 hv3` <sup>[如东]</sup> 蝗科昆虫马虎，也称蝈蝈、叫哥哥。  
-1. 【[马尾草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_i_co.md#马尾草)】`ma3 i co3` <sup>[如皋]</sup> 萹蓄。  
 1. 【[马腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_io.md#马腰)】`ma3 io1` <sup>[如东]</sup> ① 马背，平而微凹。 ② 海滩上像马背一样长而圆的水洼，渔民称为马腰。  
 1. 【[马架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_jia_zz.md#马架子)】`ma3 jia5 zz` <sup>[泰县]</sup> 马灯的框架。  
 1. 【[马缰绳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_jian_shen.md#马缰绳)】`ma3 jian1 shen2` <sup>[泰县]</sup> 一种谷子。  

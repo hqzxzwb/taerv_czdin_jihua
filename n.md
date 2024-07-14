@@ -731,7 +731,6 @@
 1. 【[䶠斩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_zhaen.md#䶠斩)】`ngaen2 zhaen` <sup>[泰县]</sup> 说话刺人。  
 1. 【[䶠子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_zz.md#䶠子)】`ngaen2 zz` 虾蟹的螯  
 1. 【[楌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_zz.md#楌子)】`ngaen2 zz` 草珠子，土薏米，薏苡，回回米，菩提子。经常串起来做佛珠、手链、门帘等。  
-1. 【[眼<sub>儿</sub>话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_r_hua.md#眼<sub>儿</sub>话)】`ngaen2 r hua6` <sup>[如皋]</sup> 仅涉及琐事的挑剔话、是非话。  
 1. 【[颜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen.md#颜)】`ngaen2` <sup>[如皋]</sup> 帘、帘饰；窗～子、帐～子。  
 1. 【[颜光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_guan.md#颜光)】`ngaen2 guan` <sup>[东台]</sup> 看得见的效果；程度：这剂药下去，马上能见～｜那个项目到甚的～吖？  
 1. 【[颜光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_guan.md#颜光)】`ngaen2 guan1` <sup>[如皋]</sup> ① 程度：事情到啊甚的～吖啦？ ② 时间。  
@@ -857,6 +856,7 @@
 1. 【[眼前](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_qin.md#眼前)】`ngaen3 qin2` <sup>[如东]</sup> 现在：不能只顾～利益。  
 1. 【[眼前亏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_qin_kuei.md#眼前亏)】`ngaen3 qin2 kuei1` <sup>[东台]</sup> 当前就会受到的损害：好汉不吃～。  
 1. 【[眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_r.md#眼<sub>儿</sub>)】`ngaen3 r` <sup>[如东]</sup> 洞：被上烫吖个～。  
+1. 【[眼<sub>儿</sub>话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_r_hua.md#眼<sub>儿</sub>话)】`ngaen3 r hua6` <sup>[如皋]</sup> 仅涉及琐事的挑剔话、是非话。  
 1. 【[眼仁<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_ren_r.md#眼仁<sub>儿</sub>)】`ngaen3 ren2 r` <sup>[如东]</sup> 眼睛瞳孔。  
 1. 【[眼仁<sub>儿</sub>花的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_ren_r_hua_dii.md#眼仁<sub>儿</sub>花的)】`ngaen3 ren2 r hua1 dii` <sup>[如东]</sup> 眼睛出现花纹。比喻看不清东西：路上有缺口也不避让，～。  
 1. 【[眼仁<sub>儿</sub>竖的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_ren_r_shv_dii.md#眼仁<sub>儿</sub>竖的)】`ngaen3 ren2 r shv6 dii` <sup>[如东]</sup> 眼睛瞳孔竖的，表示一种霸气或者横蛮：这个人～，不好商议。  
@@ -1124,6 +1124,7 @@
 1. 【[牛角梢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_gah_sho.md#牛角梢)】`ngeu2 gah7 sho1` <sup>[兴化]</sup> ① （喻）难题或无法解决的问题：钻～。 ② 岔道：（他）直接朝～里想，越想越舒服。（《武松》六）  
 1. 【[牛槅头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_geh_teu.md#牛槅头)】`ngeu2 geh7 teu` <sup>[如皋]</sup> 架在牛肩上的“人”字木，是牛牵引时的力点。  
 1. 【[牛瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_gua.md#牛瓜)】`ngeu2 gua1` <sup>[泰县]</sup> 固执的人。  
+1. 【[牛下啊河拖尾巴——迟啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_ha_a_hu.md#牛下啊河拖尾巴——迟啊)】`ngeu2 ha6 a hu2 tu1 vei3 ba1 chr2 a` <sup>[东台]</sup>   
 1. 【[牛下河扽尾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_ha_hu_den_vei_zz.md#牛下河扽尾子)】`ngeu2 ha6 hu2 den5 vei3 zz` <sup>[东台]</sup> ［喻］指不好的事情已经发生，临时采取措施已晚了。  
 1. 【[牛行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_han.md#牛行)】`ngeu2 han2` <sup>[如皋]</sup> 专门做牛交易的市场。  
 1. 【[牛货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_hu.md#牛货)】`ngeu2 hu5` <sup>[如皋]</sup> 贬指粗横者。  
@@ -1200,7 +1201,6 @@
 1. 【[牛汪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_van.md#牛汪)】`ngeu2 van1` <sup>[兴化]</sup> 稀泥塘，夏秋供水牛栖息，以避蚊蝇叮咬：……新娘子再没有回到庄上来，一说她投河了，一说她跳～了。（兴文《地主逼出新发周》）  
 1. 【[牛汪塘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_van_tan.md#牛汪塘)】`ngeu2 van1 tan2` <sup>[如皋]</sup> 专供水牛夏季浸水散热的水塘。  
 1. 【[牛汪塘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_van_tan.md#牛汪塘)】`ngeu2 van1 tan2` <sup>[如东]</sup> 夏天，挖掘一个圆塘，灌进水，水牛卧在其中浑身粘满泥浆，以防蚊虫叮咬。也叫牛汪。  
-1. 【[牛下啊河拖尾巴——迟啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_xia_a_hu_tae_vei_ba_chr_a.md#牛下啊河拖尾巴——迟啊)】`ngeu2 xia6 a hu2 tae1 vei3 ba1 chr2 a` <sup>[东台]</sup>   
 1. 【[牛心菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_xien_cae.md#牛心菜)】`ngeu2 xien1 cae5` <sup>[东台]</sup> 也称卷心菜。结球甘蓝形似牛心。  
 1. 【[牛腥气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_xien_qi.md#牛腥气)】`ngeu2 xien1 qi5` <sup>[如东]</sup> 牛身上散发出来的一种特殊的气味。  
 1. 【[牛血](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_xiuh.md#牛血)】`ngeu2 xiuh7` <sup>[如东]</sup> 牛科动物黄牛或水牛的血。  

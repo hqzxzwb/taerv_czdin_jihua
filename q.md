@@ -1610,7 +1610,6 @@
 1. 【[钱疯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_fon_zz.md#钱疯子)】`qin2 fon1 zz` <sup>[东台]</sup> ［喻］寻钱欲望太强，并以疯狂手段贪财好利的人。  
 1. 【[钱疯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_fon_zz.md#钱疯子)】`qin2 fon1 zz` <sup>[兴化]</sup> 因想发财而产生心理变态：她是个～，成天想中大奖。  
 1. 【[钱鬼子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_guei_zz.md#钱鬼子)】`qin2 guei3 zz` <sup>[如皋]</sup> 贬指开钱庄的人。  
-1. 【[钱锥子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_jy_zz.md#钱锥子)】`qin2 jy1 zz` <sup>[东台]</sup> ［喻］指特别精明、会赚钱的人，或指工资收入高的人。  
 1. 【[钱柜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_kuei.md#钱柜)】`qin2 kuei6` <sup>[兴化]</sup> 旧时一种四脚的矮柜，可作坐凳，兼放银元、铜板。  
 1. 【[钱柜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_kuei_r.md#钱柜<sub>儿</sub>)】`qin2 kuei6 r` <sup>[如皋]</sup> 店家放钱兼坐的门向上的木柜。  
 1. 【[钱人<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_ren_r.md#钱人<sub>儿</sub>)】`qin2 ren2 r` <sup>[如东]</sup> 浑身都是钱。比喻钱很多：我又不是～，你老是问我要钱做甚的？  
@@ -1625,6 +1624,7 @@
 1. 【[钱锥子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_zhuei_zz.md#钱锥子)】`qin2 zhuei1 zz` <sup>[如皋]</sup> 想方设法挣钱的人。  
 1. 【[钱锥子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_zhuei_zz.md#钱锥子)】`qin2 zhuei1 zz` <sup>[如东]</sup> 比喻非常善于钻营赚钱的人。  
 1. 【[钱锥子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_zhuei_zz.md#钱锥子)】`qin2 zhuei1 zz` <sup>[兴化]</sup> （喻）不顾一切拼命弄钱的人：他是个～，钱眼大一点儿一定能拱进去。  
+1. 【[钱锥子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_zhuei_zz.md#钱锥子)】`qin2 zhuei1-jy1 zz` <sup>[东台]</sup> ［喻］指特别精明、会赚钱的人，或指工资收入高的人。  
 1. 【[钳工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_gon.md#钳工)】`qin2 gon1` <sup>[如东]</sup> 工种的一种。以从事钳工为职业的工人。  
 1. 【[浅浅<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_qin_r.md#浅浅<sub>儿</sub>)】`qin3 qin r` <sup>[泰县]</sup> 浅浅的。  
 1. 【[浅曲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_qioh.md#浅曲)】`qin3 qioh7` <sup>[如皋]</sup> 状思想简单，不能从深层次考虑。  
