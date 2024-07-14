@@ -5,7 +5,7 @@ gen1 zho
   - ～是个好日子。
 
 # 今朝
-gen1 zho
+gen1 zho/do
 > 泰县方言志
 - 今天
   - 我～不去。
