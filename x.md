@@ -327,7 +327,6 @@
 1. 【[霞光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_guan.md#霞光)】`xia2 guan1` <sup>[兴化]</sup> 有意思、有情趣：这次抽奖蛮有～的。｜昨儿的晚会一个名角没得，真是没～。  
 1. 【[霞天膏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_tin_go.md#霞天膏)】`xia2 tin1 go1` <sup>[如东]</sup> 牛科动物黄牛肉经熬炼而成之膏，入中药。  
 1. 【[下手把子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_sheu_ba_zz.md#下手把子)】`xia3 sheu3 ba3 zz` <sup>[泰县]</sup> 助手。  
-1. 【[些些<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_xia_r.md#些些<sub>儿</sub>)】`xia3 xia3 r` <sup>[如皋]</sup> ① 很少：剩吖～。 ② 可能性很小：报告可以送，等批复就～咾。  
 1. 【[写字](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_cz.md#写字)】`xia3 cz6` 做作业，写字  
 1. 【[写仿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_fan.md#写仿)】`xia3 fan3` <sup>[如东]</sup> 练习毛笔字的一种方法。以母体字为样本，上面复盖仿纸，照样临，称写仿。也叫描红。  
 1. 【[写仿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_fan.md#写仿)】`xia3 fan3` <sup>[兴化]</sup> ① 照着字贴在习字本上练习写字（多指毛笔）。 ② 特指描红。  
@@ -522,6 +521,7 @@
 1. 【[夏至](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_zhr.md#夏至)】`xia6 zhr5` <sup>[如东]</sup> 二十四节气之一，在阴历6月21日或22日。这一天太阳经过夏至点，北半球白天最长，夜间最短。  
 1. 【[夏至](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_zhr.md#夏至)】`xia6 zhr5` <sup>[东台]</sup> 二十四节气之一。通常在6月21或22日。  
 1. 【[夏至草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_zhr_co.md#夏至草)】`xia6 zhr5 co3` <sup>[如东]</sup> 唇形科植物夏至草，多年生直立草本。高约60厘米。茎方形，被有倒生细毛。叶掌状，3全裂，裂片有钝锯齿或小裂，两面均密生细毛。花冠白色，钟状。小坚果褐色，长圆状，三棱形。生长在水边、路旁。棉蚜等害虫常寄生在这种草上过冬。  
+1. 【[些些<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_xia_r.md#些些<sub>儿</sub>)】`xia9 xia1-3 r` <sup>[如皋]</sup> ① 很少：剩吖～。 ② 可能性很小：报告可以送，等批复就～咾。  
 1. 【[闲扯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_cha.md#闲扯)】`xiaen2 cha3` <sup>[东台]</sup> 漫无边际地随便聊天。  
 1. 【[闲端午](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_dun_v.md#闲端午)】`xiaen2 dun1 v` <sup>[如皋]</sup> 端午节不在农忙时段。  
 1. 【[闲话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_hua.md#闲话)】`xiaen2 hua6` <sup>[东台]</sup> ① 与正题无关的话。 ② 引人猜疑的、背地里议论的是非话：男同志一般不要单独找女士谈心，免得人家说～。  

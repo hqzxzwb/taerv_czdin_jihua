@@ -2510,7 +2510,7 @@
 1. 【[活穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_qion.md#活穷)】`huh8 qion2` <sup>[如皋]</sup> 见“嗑穷”。  
 1. 【[活人妻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_ren_qi.md#活人妻)】`huh8 ren2 qi1` <sup>[兴化]</sup> 有夫之妇或离异后前夫尚在的女人：“……什么好老婆，一个贼～淫妇……”（《金瓶梅词话》七二）｜“这盗卖发妻，是他说合，把人家～卖了么？”（《岐路灯》四十）  
 1. 【[活丧形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_san_xien.md#活丧形)】`huh8 san5 xien2` <sup>[东台]</sup> 形象太差，简直丢尽面子。  
-1. 【[活丧形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_san_xien.md#活丧形)】`huh8 san6 xien2` <sup>[泰县]</sup> 丢人：你不要～。  
+1. 【[活丧形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_san_xien.md#活丧形)】`huh8 san5 xien2` <sup>[泰县]</sup> 丢人：你不要～。  
 1. 【[活上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_shan.md#活上)】`huh8 shan` <sup>[泰兴]</sup> 到处。带贬义意味：～沗流尸  
 1. 【[活食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_sheh.md#活食)】`huh8 sheh8` <sup>[如东]</sup> 鲜活动物，如鱼、虫、贝等：鸭子喜欢吃～。  
 1. 【[活守寡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_sheu_gua.md#活守寡)】`huh8 sheu3 gua3` <sup>[如皋]</sup> 见“守活寡”。  

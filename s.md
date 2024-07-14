@@ -2984,7 +2984,7 @@
 1. 【[顺遂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_qy.md#顺遂)】`shuen6 qy6` <sup>[如皋]</sup> ① 顺利、如愿。 ② 吉利，如意：诸事～。 ③ 表示反驳和警告，常作独词句：你家猪子哿曾惹瘟吖？～，我家猪子不曾生病，你不要送～！  
 1. 【[顺遂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_qy.md#顺遂)】`shuen6 qy6` <sup>[如东]</sup> ① 树疤儿：你把树上的～砍掉。 ② 顺当，吉利：今朝出门不～。 ③ 比喻糨糊。  
 1. 【[顺遂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_qy.md#顺遂)】`shuen6 qy6` <sup>[东台]</sup> 顺利、吉利、顺心如意。  
-1. 【[顺遂不纳的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_qy_beh_naeh_dii.md#顺遂不纳的)】`shuen6 qy6 beh7 naeh7 dii` <sup>[东台]</sup> 指说的话或做的事不吉利、不顺遂：大过年头上扎块白布像甚的？～！  
+1. 【[顺遂不剌的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_qy_beh_laeh.md#顺遂不剌的)】`shuen6 qy6 beh laeh dii` <sup>[东台]</sup> 指说的话或做的事不吉利、不顺遂：大过年头上扎块白布像甚的？～！  
 1. 【[顺遂话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_qy_hua.md#顺遂话)】`shuen6 qy6 hua6` <sup>[东台]</sup> 顺心的、吉利的、美好的祝愿。反之叫“不顺遂”，东台人往往用其反义，省去“不”：我把～说咖前头，这件事不妙｜今吖生意亏啊，都怪你说咖～的。  
 1. 【[顺遂条<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_qy_tio_r.md#顺遂条<sub>儿</sub>)】`shuen6 qy6 tio2 r` <sup>[如皋]</sup> 过春节时用红纸书写并在院室内外张贴的吉利话，如：对我生财、黄金万两、人畜两旺、五谷丰登、太公在此百无禁忌、五福临门、寿比南山、和为贵等。  
 1. 【[顺人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_ren.md#顺人)】`shuen6 ren2` <sup>[兴化]</sup> 趁便受委托办的人：你要的东西有～就带过去。｜“……事不宜迟，如今东店有～上京，就带了去……”（《岐路灯》三十）也称“顺便人”。  
