@@ -1009,7 +1009,6 @@
 1. 【[席口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_keu.md#席口)】`qieh8 keu3` <sup>[东台]</sup> 席次，宴会的座次：上她家去，大～要让给长辈。  
 1. 【[席子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_zz.md#席子)】`qieh8 zz` <sup>[如东]</sup> 用席草编成的长方形的片状物，用于垫床睡人。用先棵编成的长方形的片状物，用于垫地囤粮。  
 1. 【[极溜<sub>儿</sub>转](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_lieu_r_zhun.md#极溜<sub>儿</sub>转)】`qieh8 lieu1 r zhun5` <sup>[如东]</sup> 飞快地转动：风车～。  
-1. 【[漆匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_qian.md#漆匠)】`qieh8 qian` 漆匠  
 1. 【[集期](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_qi.md#集期)】`qieh8 qi1` <sup>[东台]</sup> 赶集的日期，一般以庙会或菩萨诞辰作为规定的日期。  
 1. 【[集市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_shr.md#集市)】`qieh8 shr6` <sup>[东台]</sup> 定期聚会交易的场所。  
 1. 【[亲自](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_cz.md#亲自)】`qien1 cz6` <sup>[如东]</sup> 自己：我～去一趟。  

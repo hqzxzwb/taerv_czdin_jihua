@@ -541,7 +541,7 @@
 1. 【[肉钉<sub>儿</sub>饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_dien_r_faen.md#肉钉<sub>儿</sub>饭)】`roh8 dien1 r faen6` <sup>[如东]</sup> 大米饭煮熟后，加肉钉、菜丝、姜末等，色绿，口肥，味香。  
 1. 【[肉电话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_din_hua.md#肉电话)】`roh8 din5 hua` <sup>[泰县]</sup> 向敌人告密的奸细。  
 1. 【[肉多拣肥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_du_gaen_fei.md#肉多拣肥)】`roh8 du1 gaen3 fei2` <sup>[东台]</sup> ［喻］挑三拣四。（短缺经济年代，肥肉比瘦肉受人青睐）  
-1. 【[肉多拣肥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_du_ngaen_fei.md#肉多拣肥)】`roh8 du1 ngaen3 fei2` <sup>[兴化]</sup> 东西多了就选好的：过去计划经济，供应甚的买甚的；现在物资丰富，人都～。  
+1. 【[肉多拣肥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_du_gaen_fei.md#肉多拣肥)】`roh8 du1 gaen3 fei2` <sup>[兴化]</sup> 东西多了就选好的：过去计划经济，供应甚的买甚的；现在物资丰富，人都～。  
 1. 【[肉㾑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_duh.md#肉㾑)】`roh8 duh` <sup>[如东]</sup> 比喻身体丰腴：这个姑娘蛮～的。  
 1. 【[肉㾑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_duh.md#肉㾑)】`roh8 duh7` <sup>[泰县]</sup> 丰满。  
 1. 【[肉㾑㾑的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_duh_duh_dii.md#肉㾑㾑的)】`roh8 duh7 duh7 dii` <sup>[如皋]</sup> 丰满而有弹性；肥满晃动的样子。  

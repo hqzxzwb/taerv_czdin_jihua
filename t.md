@@ -512,7 +512,6 @@
 1. 【[汤焐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_v_zz.md#汤焐子)】`tan1 v5 zz` <sup>[如东]</sup> 取暖用具。铜制，圆形或椭圆形，有密封口。用时，将热水灌入罐中，可以长时间保温。  
 1. 【[汤焐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_v_zz.md#汤焐子)】`tan1 v5 zz` <sup>[东台]</sup> 灌进热水后取暖的用具。也称“汤婆子”。  
 1. 【[汤窄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_zheh.md#汤窄)】`tan1 zheh7` <sup>[如皋]</sup> 煮时，锅中放汤量偏小。  
-1. 【[糖儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_er.md#糖儿)】`tan1 er2` <sup>[如皋]</sup> 用麦芽糖加不同的色素各熬成软块，由艺人手工做成各种塑像，拈在篾子棒儿上，可玩也可吃。与做“面儿”类似。  
 1. 【[蹚浑水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_huen_shuei.md#蹚浑水)】`tan1 huen2 shuei3` <sup>[兴化]</sup> （喻）跟随别人一起干坏事：那个小子不可靠，覅跟他一起～。  
 1. 【[镗工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_gon.md#镗工)】`tan1 gon1` <sup>[如东]</sup> 工种的一种。以操纵镗床为职业的工人。  
 1. 【[𢴳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#𢴳)】`tan1` <sup>[东台]</sup> 用手推阻：歹徒一拳打过来，捱我抬手一～，就势一推，摔啊个狗吃屎。  
@@ -576,6 +575,7 @@
 1. 【[溏心蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_xien_taen.md#溏心蛋)】`tan2 xien1 taen6` <sup>[兴化]</sup> 煮熟后蛋黄没有完全凝固的蛋。  
 1. 【[糖包<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_bo_r.md#糖包<sub>儿</sub>)】`tan2 bo1 r` <sup>[如皋]</sup> 以赤豆沙、猪油、砂糖、桂花为馅的包子。  
 1. 【[糖簸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_bu_r.md#糖簸<sub>儿</sub>)】`tan2 bu5 r` <sup>[如皋]</sup> 一种较小的笸篮。做糖果者多用之。  
+1. 【[糖儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_er.md#糖儿)】`tan2 er2` <sup>[如皋]</sup> 用麦芽糖加不同的色素各熬成软块，由艺人手工做成各种塑像，拈在篾子棒儿上，可玩也可吃。与做“面儿”类似。  
 1. 【[糖儿担子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_er_daen_zz.md#糖儿担子)】`tan2 er2 daen5 zz` <sup>[如皋]</sup> 用麦芽糖一边手工做成各种款式的人形塑像，一边出售的担子。  
 1. 【[糖坊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_fan.md#糖坊)】`tan2 fan1` <sup>[如皋]</sup> 生产麦芽糖的作坊。  
 1. 【[糖罐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_gun_r.md#糖罐<sub>儿</sub>)】`tan2 gun5 r` <sup>[如皋]</sup> 一种甜瓜名。  

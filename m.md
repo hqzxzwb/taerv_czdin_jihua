@@ -46,9 +46,9 @@
 1. 【[麻划](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_hua.md#麻划)】`ma2 hua` <sup>[兴化]</sup> 大约：这只鸡～三斤。  
 1. 【[麻花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_hua.md#麻花)】`ma2 hua1` <sup>[兴化]</sup> ① （喻）像油炸麻花一样的东西：她在门前的两棵半大榆树之间拴了两根棕绳，拧成了～。（汪曾祺《鸡毛》） ② 爆玉米花：儿歌：～～你不炸，一炸炸个笆斗大。  
 1. 【[麻花汗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_hua_hun.md#麻花汗)】`ma2 hua1 hun6` <sup>[东台]</sup> 微微出汗：出点～蛮舒服。  
-1. 【[麻花幺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_hua_io_r.md#麻花幺<sub>儿</sub>)】`ma2 hua1 io1 r` <sup>[如皋]</sup> 一种油炸的幺状面食茶点，酥脆香甜。  
+1. 【[麻花䌁<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_hua_io_r.md#麻花䌁<sub>儿</sub>)】`ma2 hua1 io5 r` <sup>[如皋]</sup> 一种油炸的幺状面食茶点，酥脆香甜。  
+1. 【[麻花䌁<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_hua_io_r.md#麻花䌁<sub>儿</sub>)】`ma2 hua1 io5 r` <sup>[东台]</sup> 一种食品，把两三股条状面拧若粗绳状，用油炸熟。  
 1. 【[麻花䌁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_hua_io_zz.md#麻花䌁子)】`ma2 hua1 io5 zz` <sup>[兴化]</sup> ① 一种食品，也称“麻花”。 ② （喻）象麻花一样的绳状物：……四股皮条，这么绕来绕去的，一走神，就错了花，就拧成～了。（汪曾祺《羊舍一夕》）  
-1. 【[麻花葽<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_hua_io_r.md#麻花葽<sub>儿</sub>)】`ma2 hua1 io5 r` <sup>[东台]</sup> 一种食品，把两三股条状面拧若粗绳状，用油炸熟。  
 1. 【[麻花亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_hua_lian.md#麻花亮)】`ma2 hua1 lian6` <sup>[东台]</sup> 天才发白。也称麻麻亮。  
 1. 【[麻花亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_hua_lian.md#麻花亮)】`ma2 hua1 lian6` <sup>[兴化]</sup> 天蒙明：家丁遵照主人的吩附，天～打开大门……（兴文《误走盐城》）  
 1. 【[麻花<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_hua_r.md#麻花<sub>儿</sub>)】`ma2 hua1 r` <sup>[如东]</sup> 糕点的一种。面粉经过发酵，拉成许多长条，再拧几周，放人油锅里炸熟，色黄而香脆。  

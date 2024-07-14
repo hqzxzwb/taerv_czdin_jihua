@@ -2638,7 +2638,6 @@
 1. 【[摞橱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_chv.md#摞橱)】`lu6 chv2` <sup>[如皋]</sup> 指旧式上下分节的衣橱。  
 1. 【[摞橱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_chv.md#摞橱)】`lu6 chv2` <sup>[兴化]</sup> 一种由二层或三层相叠的橱柜，对开橱门。门膛有雕花木板或玻璃镜面。  
 1. 【[摞摞扎扎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_lu_zhaeh_zhaeh.md#摞摞扎扎)】`lu6 lu6 zhaeh7 zhaeh7` <sup>[兴化]</sup> 把东西聚扰一起、拾掇整齐：把文件、书籍和笔记本～，准备家去度假。  
-1. 【[露天心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_tin_xien.md#露天心)】`lu6 tin1 xien1` <sup>[泰县]</sup> 露天：不要把伢儿站吖～里。  
 1. 【[擂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/luei.md#擂)】`luei2` <sup>[如东]</sup> 磨擦：用绳子来回～，把木槽磨光滑。  
 1. 【[累堆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/luei_duei.md#累堆)】`luei2 duei1` 累赘的，麻烦的，事物很费时间或者占据很大空间的。  
 1. 【[累神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/luei_shen.md#累神)】`luei2 shen2` <sup>[如东]</sup> 操心：一天到晚为你俫～。  
@@ -2859,6 +2858,7 @@
 1. 【[露天茅港](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_tin_mo_gan.md#露天茅港)】`lv6 tin1 mo2 gan3` <sup>[如皋]</sup> 见“搭搭上”。  
 1. 【[露天戏台](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_tin_xi_tae.md#露天戏台)】`lv6 tin1 xi5 tae2` <sup>[如东]</sup> 搭在广场上的戏台，一般用雨布做棚，遮阳遮雨。  
 1. 【[露天心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_tin_xien.md#露天心)】`lv6 tin1 xien1` <sup>[兴化]</sup> 指房屋外边的地方：睡啊～里容易受凉。  
+1. 【[露天心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_tin_xien.md#露天心)】`lv6 tin1 xien1` <sup>[泰县]</sup> 露天：不要把伢儿站吖～里。  
 1. 【[露天心里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_tin_xien_lii.md#露天心里)】`lv6 tin1 xien1 lii` <sup>[如皋]</sup> 直接见天而无遮盖的地方。  
 1. 【[露水龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_tin_lon.md#露水龙)】`lv6 tin1 lon2` <sup>[如皋]</sup> 民间传说中的专司下露水的龙。  
 1. 【[露相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_xian.md#露相)】`lv6 xian5` <sup>[兴化]</sup> 露出其面目：俗语｜真人不～。  
