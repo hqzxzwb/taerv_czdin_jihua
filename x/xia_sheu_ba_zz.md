@@ -10,7 +10,7 @@ xia6 sheu ba3 zz
   - 你当大师傅，我当你的～。
 
 # 下手把子
-xia3 sheu3 ba3 zz
+xia6-xia5 sheu3 ba3 zz
 > 泰县方言志
 - 助手。
 
