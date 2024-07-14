@@ -1219,7 +1219,7 @@
 1. 【[䗙䘆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xin.md#䗙䘆)】`hu2 xin1` 蚯蚓，口语讹音为河香。  
 1. 【[䗙䘆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xin.md#䗙䘆)】`hu2 xin1` <sup>[如皋]</sup> 蚯蚓。学名直隶环毛蚓。毛足纲，寡毛目。  
 1. 【[䗙䘆翻跟头——腰里悬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xin_faen_gen_teu_io_lii_xiun.md#䗙䘆翻跟头——腰里悬)】`hu2 xin1 faen1 gen1 teu2 io1 lii xiun2` <sup>[东台]</sup>   
-1. 【[䗙䘆炣屌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xin_hu_dio_r.md#䗙䘆炣屌<sub>儿</sub>)】`hu2 xin1 hu1 dio3 r` <sup>[如皋]</sup> 据说小孩包皮水肿是～所致。  
+1. 【[䗙䘆呵屌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xin_hu_dio_r.md#䗙䘆呵屌<sub>儿</sub>)】`hu2 xin1 hu1 dio3 r` <sup>[如皋]</sup> 据说小孩包皮水肿是～所致。  
 1. 【[䗙䘆筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xin_jien.md#䗙䘆筋)】`hu2 xin1 jien1` <sup>[如皋]</sup> 曲张的静脉血管。  
 1. 【[䗙䘆筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xin_jien.md#䗙䘆筋)】`hu2 xin1 jien1` <sup>[如皋]</sup> 皮下主静脉血管。  
 1. 【[䗙䘆路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xin_lv.md#䗙䘆路)】`hu2 xin1 lv6` <sup>[如皋]</sup> 羊肠小道。  
