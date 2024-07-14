@@ -245,7 +245,7 @@
 1. 【[气哺哺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_pv_pv.md#气哺哺)】`qi5 pv3 pv3` <sup>[兴化]</sup> 形容气忿不平的样子：季遐年恼了……～的又随堂吃了一顿饭。（《儒林外史》五五）。  
 1. 【[气软](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_run.md#气软)】`qi5 run3` <sup>[如东]</sup> 温和：说话要～些。  
 1. 【[气嗓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_san.md#气嗓)】`qi5 san3` <sup>[如皋]</sup> 气管。  
-1. 【[气嗓管子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_san_gun_zz.md#气嗓管子)】`qi5 san3 gun1 zz` <sup>[兴化]</sup> 气管。  
+1. 【[气嗓管子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_san_gun_zz.md#气嗓管子)】`qi5 san3 gun3 zz` <sup>[兴化]</sup> 气管。  
 1. 【[气噪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_san.md#气噪)】`qi5 san3` <sup>[兴化]</sup> 气管。也说“气嗓管子”。  
 1. 【[气色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_seh.md#气色)】`qi5 seh7` <sup>[如皋]</sup> 从面部显示的健康状况、精神状态。  
 1. 【[气色不好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_seh_beh_ho.md#气色不好)】`qi5 seh7 beh7 ho3` <sup>[如皋]</sup> 见“脸色发滞”。  
@@ -1165,6 +1165,7 @@
 1. 【[青蒲簖蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_pv_dun_hae.md#青蒲簖蟹)】`qien1 pv2 dun5 hae3` <sup>[东台]</sup> 溱东青蒲一带用竹枝或苇杆立于水中捕捞的螃蟹。  
 1. 【[青丝气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_sz_qi.md#青丝气)】`qien1 sz1 qi5` <sup>[如皋]</sup> 象田青等绿色植物弄破后的气味。  
 1. 【[青黛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_tae.md#青黛)】`qien1 tae6` <sup>[如东]</sup> 十字花科植物菘蓝叶的干燥色素。  
+1. 【[青堂白日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_tan_poh_rih.md#青堂白日)】`qien1 tan2 poh8 rih8` <sup>[兴化]</sup> 大白天：你覅～说梦话，这件事万万办不到。也说“青天白日”。  
 1. 【[青天白日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_tin_poh_rih.md#青天白日)】`qien1 tin1 poh8 rih8` <sup>[兴化]</sup> 大白天。  
 1. 【[青条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_tio.md#青条)】`qien1 tio2` <sup>[如皋]</sup> 见“筛青”。  
 1. 【[青条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_tio.md#青条)】`qien1 tio2` <sup>[如皋]</sup> 水烟丝。  
@@ -1246,7 +1247,6 @@
 1. 【[秦泥路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ni_lv.md#秦泥路)】`qien2 ni2 lv6` <sup>[如东]</sup> 路面由粘质土壤铺成的路，称秦泥路。透水性差，雨后泥泞难行。  
 1. 【[芹菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_cae.md#芹菜)】`qien2 cae5` <sup>[如东]</sup> 伞科植物旱芹，又名蒲芹，一年或二年生草本。  
 1. 【[芹菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_cae.md#芹菜)】`qien2 cae5` <sup>[东台]</sup> 一种蔬菜，叶羽状，叶柄肥大，茎叶均可食用，对预防高血压、动脉硬化等十分有益，又叫“药芹”“秋壅菜”。  
-1. 【[青堂白日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_tan_poh_rih.md#青堂白日)】`qien2 tan2 poh8 rih8` <sup>[兴化]</sup> 大白天：你覅～说梦话，这件事万万办不到。也说“青天白日”。  
 1. 【[苘麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ma.md#苘麻)】`qien3 ma2` <sup>[如东]</sup> 锦葵科植物苘麻，一年生草本。  
 1. 【[请](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien.md#请)】`qien3` <sup>[东台]</sup> 除一般释义外，指对神圣物品的购买，说“买”便是大不敬，只能说“请”：～香。  
 1. 【[请不得先生告不得娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_beh_deh_xin_shen_go_beh_deh_nian.md#请不得先生告不得娘)】`qien3 beh7 deh7 xin1 shen1 go5 beh7 deh7 nian2` <sup>[东台]</sup> 由于某种原因，有苦说不出，不好请别人帮忙，只能由自己顶着。（先生可指医生）  

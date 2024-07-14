@@ -319,7 +319,7 @@
 1. 【[搉枪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_qian.md#搉枪)】`kah7 qian1` <sup>[如皋]</sup> 儿时自制的玩具手枪。  
 1. 【[确备](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_pei.md#确备)】`kah7 pei` <sup>[如皋]</sup> 下决心，准备付出代价：我～一夜不睡，单要看住他！  
 1. 【[确生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_shen.md#确生)】`kah7 shen` <sup>[如皋]</sup> 见“确备”。  
-1. 【[康管](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kan_gun.md#康管)】`kan1 gun1` <sup>[泰县]</sup> 装有墨粉的安瓿。  
+1. 【[康管](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kan_gun.md#康管)】`kan1 gun3` <sup>[泰县]</sup> 装有墨粉的安瓿。  
 1. 【[炕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kan.md#炕)】`kan1` <sup>[泰县]</sup> 烤：～山芋。  
 1. 【[糠圆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kan_iun.md#糠圆)】`kan1 iun2` <sup>[泰县]</sup> 喂鸭子的饲料。  
 1. 【[糠圆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kan_iun_zz.md#糠圆子)】`kan1 iun2 zz` <sup>[兴化]</sup> 皮糠迭成的小圆球，用来喂鸭。  

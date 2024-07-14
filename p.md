@@ -792,12 +792,12 @@
 1. 【[撇油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pih_ieu.md#撇油)】`pih7 ieu2` <sup>[东台]</sup> ① 把汤水中的浮油捞掉。 ② 假公济私捞好处。  
 1. 【[撇油花<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pih_ieu_hua_r.md#撇油花<sub>儿</sub>)】`pih7 ieu2 hua1 r` <sup>[如皋]</sup> 从中捞好处。  
 1. 【[撇油花<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pih_ieu_hua_r.md#撇油花<sub>儿</sub>)】`pih7 ieu2 hua1 r` <sup>[如皋]</sup> 喻小贪。  
+1. 【[撇脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pih_jiah_r.md#撇脚<sub>儿</sub>)】`pih7 jiah7 r` <sup>[如皋]</sup> 见“撇撇脚儿”。  
 1. 【[撇侉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pih_kua.md#撇侉)】`pih7 kua3` <sup>[东台]</sup> 故意学外地人的口音说话，或学说普通话说得生硬：他才外去半年，就有些～啊。  
+1. 【[撇撇脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pih_pih_jiah_r.md#撇撇脚<sub>儿</sub>)】`pih7 pih7 jiah7 r` <sup>[如皋]</sup> 脚掌不能平实着地的脚型。  
 1. 【[撇清](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pih_qien.md#撇清)】`pih7 qien1` <sup>[东台]</sup> 辩白自己与某事无关：你不要～，忙吖洗干净身子。  
 1. 【[撇清](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pih_qien.md#撇清)】`pih7 qien1` <sup>[兴化]</sup> 装着清白或辩称自己清白：有事说事，覅先忙～。｜“……我娘自来人前会～，干净暗里养着女婿”。（《金瓶梅词话》八三）  
 1. 【[撇子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pih_zz.md#撇子)】`pih7 zz` <sup>[兴化]</sup> 一种散口的容器，上有密布的小孔：篮～（苇篾编成）｜塑料～。  
-1. 【[蹩脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pih_jiah_r.md#蹩脚<sub>儿</sub>)】`pih7 jiah7 r` <sup>[如皋]</sup> 见“蹩蹩脚儿”。  
-1. 【[蹩蹩脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pih_pih_jiah_r.md#蹩蹩脚<sub>儿</sub>)】`pih7 pih7 jiah7 r` <sup>[如皋]</sup> 脚掌不能平实着地的脚型。  
 1. 【[鐅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pih.md#鐅)】`pih7` <sup>[东台]</sup> 熬盐的浅锅。又作“䥕”。今又作“丿”。  
 1. 【[鐅缸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pih_gan_r.md#鐅缸<sub>儿</sub>)】`pih7 gan1 r` <sup>[如皋]</sup> 一种浅缸。  
 1. 【[鐅锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pih_gu.md#鐅锅)】`pih7 gu1` <sup>[如东]</sup> 烧盐的一种器皿。锅底平，浅，口径有大有小。  

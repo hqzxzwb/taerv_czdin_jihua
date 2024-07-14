@@ -1840,11 +1840,6 @@
 1. 【[广口瓶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_keu_pien.md#广口瓶)】`guan3 keu3 pien2` <sup>[东台]</sup> 大口径的玻璃瓶，如罐头瓶、咖啡瓶、奶粉瓶等。  
 1. 【[广是](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_shr.md#广是)】`guan3 shr6` <sup>[如皋]</sup> 总是、老是。  
 1. 【[广种薄收](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_zhon_pah_sheu.md#广种薄收)】`guan3 zhon3 pah8 sheu1` <sup>[东台]</sup> 种植面积大，单位面积产量低。也用来喻意广泛施行，最后结果收效甚微。  
-1. 【[光火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_hu.md#光火)】`guan5 hu3` <sup>[如东]</sup> 发火。  
-1. 【[光火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_hu.md#光火)】`guan5 hu3` <sup>[如皋]</sup> 生气、发火、发气。  
-1. 【[光火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_hu.md#光火)】`guan5 hu3` <sup>[东台]</sup> 发火，显出愤怒的情绪。  
-1. 【[光火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_hu.md#光火)】`guan5 hu3` <sup>[兴化]</sup> 发怒：看到他窝囊样子，老头子忍不住又要～。  
-1. 【[光火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_hu.md#光火)】`guan5 hu3` <sup>[泰县]</sup> 发火：这些天他经常～。  
 1. 【[桄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan.md#桄)】`guan5` <sup>[如皋]</sup> 横木。槽桄，槽桶上方的对长横木。  
 1. 【[桄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan.md#桄)】`guan5` <sup>[东台]</sup> ① 床、门、车等物上的横木。 ② 绕线的器具：一～线。  
 1. 【[桄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan.md#桄)】`guan5` <sup>[兴化]</sup> 木器家具上的横木。  
@@ -1856,6 +1851,11 @@
 1. 【[𠈑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan.md#𠈑)】`guan5` <sup>[东台]</sup> 使物体表面光泽。《广韵》“古旷切，上色。”：皮夹克上～吖。  
 1. 【[𠈑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan.md#𠈑)】`guan5` <sup>[兴化]</sup> 轻轻摩擦：他把剃刀在荡刀布上～～。｜（侉奶奶）有时把锥子插在头发里～一～。（汪曾祺《故里杂记》）  
 1. 【[𠈑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan.md#𠈑)】`guan5` <sup>[泰县]</sup> 剃、刮、扫：你把地下～下子。  
+1. 【[𠈑火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_hu.md#𠈑火)】`guan5 hu3` <sup>[如东]</sup> 发火。  
+1. 【[𠈑火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_hu.md#𠈑火)】`guan5 hu3` <sup>[如皋]</sup> 生气、发火、发气。  
+1. 【[𠈑火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_hu.md#𠈑火)】`guan5 hu3` <sup>[东台]</sup> 发火，显出愤怒的情绪。  
+1. 【[𠈑火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_hu.md#𠈑火)】`guan5 hu3` <sup>[兴化]</sup> 发怒：看到他窝囊样子，老头子忍不住又要～。  
+1. 【[𠈑火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_hu.md#𠈑火)】`guan5 hu3` <sup>[泰县]</sup> 发火：这些天他经常～。  
 1. 【[𠈑胡刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_hv_do.md#𠈑胡刀)】`guan5 hv2 do1` <sup>[东台]</sup> 剃须刀。  
 1. 【[𠈑胡刀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_hv_do_r.md#𠈑胡刀<sub>儿</sub>)】`guan5 hv2 do1 r` <sup>[泰县]</sup> 胡须刀。  
 1. 【[𠈑胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_hv_zz.md#𠈑胡子)】`guan5 hv2 zz` 做动词，刮胡子  
