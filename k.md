@@ -298,20 +298,17 @@
 1. 【[嵌山梁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen_shaen_lian.md#嵌山梁)】`kaen5 shaen1 lian2` <sup>[如东]</sup> 房屋两侧的柱杆一半嵌在山墙内，称嵌山梁。  
 1. 【[嵌掌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen_zhan.md#嵌掌)】`kaen5 zhan3` <sup>[如东]</sup> ① 脚趾甲弯曲插进皮肤里。 ② 房屋后架下边的一根木条或木板。  
 1. 【[限长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen_zhan.md#限长)】`kaen5 zhan3` <sup>[如皋]</sup> 生长很慢，长不高：伢儿～。  
-1. 【[㱿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah.md#㱿)】`kah7` <sup>[兴化]</sup> 舂碓：到碓上～稻｜～圆子粉（糯米粉）。《集韵·觉韵》克角切｜“～，《说文》从上击下也”。  
-1. 【[壳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah.md#壳)】`kah7` <sup>[东台]</sup> 坚硬的外壳：甲～｜脱～。  
+1. 【[壳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah.md#壳)】`kah7` <sup>[东台]</sup> 坚硬的外壳：甲～；脱～。  
 1. 【[壳壳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_kah_r.md#壳壳<sub>儿</sub>)】`kah7 kah r` <sup>[如皋]</sup> ① 质差：这张橱是坏～。 ② 无价值：还做甚的唻，做他个～！  
 1. 【[壳壳<sub>儿</sub>梦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_kah_r_mon.md#壳壳<sub>儿</sub>梦)】`kah7 kah r mon6` <sup>[如皋]</sup> 见“壳壳儿”。  
 1. 【[壳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_r.md#壳<sub>儿</sub>)】`kah7 r` <sup>[如东]</sup> ① 甲壳动物的外甲，如蟹壳、虾壳、螺壳等。 ② 人的躯体的外表：他的年龄虽大，～还蛮好。  
 1. 【[壳树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_shv.md#壳树)】`kah7 shv6` <sup>[如皋]</sup> 构树。  
 1. 【[壳铎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_tah.md#壳铎)】`kah7 tah` <sup>[兴化]</sup> 象声词：折枝或重物落地声｜（他）正在凝神，只听～一声，觉得腿裆里一软，身子一摇，竟滚下山涧去了。（《老残游记》八）  
 1. 【[壳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_zz.md#壳子)】`kah7 zz` <sup>[兴化]</sup> ① 封套：信～｜香烟～。 ② 骂人的话：细～｜焦～｜大烟～。  
-1. 【[搉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah.md#搉)】`kah7` 敲打，打，砸  
 1. 【[搉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah.md#搉)】`kah7` <sup>[如东]</sup> 敲击：你用榔头～。  
-1. 【[搉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah.md#搉)】`kah7` <sup>[如皋]</sup> 敲、打：拿锤儿～核桃；犯犟我～你！  
+1. 【[搉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah.md#搉)】`kah7` <sup>[如皋]</sup> 敲、打：拿锤儿～核桃｜犯犟我～你！  
 1. 【[搉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah.md#搉)】`kah7` <sup>[东台]</sup> 砸，敲击：敲敲～～｜淘米后要把米～干净。  
-1. 【[搉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah.md#搉)】`kah7` <sup>[兴化]</sup> ① 敲、击打：～鸡蛋｜～匾子。｜～他一家伙。 ② 枪毙的隐语：今朝～掉一个杀人犯。《广韵·觉韵》苦角切｜“～，击也”。  
-1. 【[搉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah.md#搉)】`kah7` <sup>[兴化]</sup> 打：调皮就～他。兴化词典作“毃”，《集韵·觉韵》克角切｜“～，《说文》击头也”。  
+1. 【[搉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah.md#搉)】`kah7` <sup>[兴化]</sup> ① 敲、击打：～鸡蛋；～匾子｜调皮就～他一家伙 ② 枪毙的隐语：今朝～掉一个杀人犯 ③ 舂碓：到碓上～稻｜～圆子粉（糯米粉）  
 1. 【[搉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah.md#搉)】`kah7` <sup>[泰县]</sup> 打：～他的手。  
 1. 【[搉糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_go.md#搉糕)】`kah7 go1` <sup>[泰县]</sup> 蒸糕。  
 1. 【[搉锅底<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_gu_di_r.md#搉锅底<sub>儿</sub>)】`kah7 gu1 di3 r` <sup>[如东]</sup> 一种民俗。假如某人说某人的婆娘与人通奸，某人的婆娘就到某人家去用砖头砸锅底儿，打破煮饭的家伙，表示反对和愤恨：你不要乱说，当心有人～。  

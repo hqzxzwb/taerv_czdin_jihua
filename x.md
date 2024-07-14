@@ -1534,6 +1534,7 @@
 1. 【[小菜<sub>儿</sub>一碟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cae_r_ieh_dih.md#小菜<sub>儿</sub>一碟)】`xio3 cae5 r ieh7 dih7` <sup>[如皋]</sup> 小事一桩。即不上眼的小事情。  
 1. 【[小菜子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cae_zz.md#小菜子)】`xio3 cae5 zz` <sup>[兴化]</sup> ① 用小碳盛的下酒饭的菜蔬：酱～。 ② 特指用米佐茶的烫干丝等。  
 1. 【[小馓子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_caen_zz.md#小馓子)】`xio3 caen3 zz` <sup>[如皋]</sup> 一种寸许大的微子，酥脆香甜（相对于大把子的泡食的馓子）。  
+1. 【[小车<sub>儿</sub>行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cha_r_han.md#小车<sub>儿</sub>行)】`xio3 cha r han2` <sup>[如皋]</sup> 制造、出售独轮车的店。上世纪六七十年代还见到过。  
 1. 【[小车𣑁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cha_chon.md#小车𣑁)】`xio3 cha1 chon5` <sup>[如东]</sup> 小车楼棚上的横木。  
 1. 【[小车耳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cha_er.md#小车耳)】`xio3 cha1 er3` <sup>[如东]</sup> 固定车轮轴承的装置。  
 1. 【[小车锏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cha_gaen.md#小车锏)】`xio3 cha1 gaen5` <sup>[如东]</sup> 嵌在轴承上方的耐磨装置，用檀木制成。  
@@ -1549,7 +1550,6 @@
 1. 【[小车<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cha_r.md#小车<sub>儿</sub>)】`xio3 cha1 r` <sup>[如东]</sup> 一种木制独轮小推车。由楼棚、榔杆、车杠、车辕、车耳、锏子、小车盘（轮盘）、车𣑁、翘板、车脚、车襻子组成。旧时为乡镇主要运输和交通工具。  
 1. 【[小车子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cha_zz.md#小车子)】`xio3 cha1 zz` <sup>[兴化]</sup> 旧指独轮车，今指小轿车。  
 1. 【[小车子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cha_zz.md#小车子)】`xio3 cha1 zz` <sup>[泰县]</sup> 独轮车。  
-1. 【[小车<sub>儿</sub>行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cha_r_han.md#小车<sub>儿</sub>行)】`xio3 cha2 r han2` <sup>[如皋]</sup> 制造、出售独轮车的店。上世纪六七十年代还见到过。  
 1. 【[小插花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_chaeh_hua.md#小插花)】`xio3 chaeh7 hua1` <sup>[如皋]</sup> 杆秤星的小花，表示衡量在大插花和秤星之间。  
 1. 【[小插花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_chaeh_hua.md#小插花)】`xio3 chaeh7 hua1` <sup>[如东]</sup> 秤杆上的小花，在大插花与秤星之间。  
 1. 【[小插子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_chaeh_zz.md#小插子)】`xio3 chaeh7 zz` <sup>[如皋]</sup> 匕首。  

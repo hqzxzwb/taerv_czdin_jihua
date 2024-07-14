@@ -717,7 +717,7 @@
 1. 【[乞巧节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_qio_jih.md#乞巧节)】`qieh7 qio3 jih7` <sup>[如东]</sup> 阴历七月初七日晚，妇女在庭院中结彩楼，陈瓜果，向织女祈祷请求帮助她们提高刺绣缝纫的智慧和技巧，称乞巧节。  
 1. 【[吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh.md#吃)】`qieh7` 吃东西，吸烟，喝水  
 1. 【[吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh.md#吃)】`qieh7` <sup>[如皋]</sup> ① 指人进食。同义词很多。雅称：用饭、进餐。 ② 中性称：吃饭、畚、逮、啖、啖刮、顺、兜、𠯪。 ③ 贬称：捣喉嗓、噇、喠、噇牢、噇囚。 ④ 隐语：装吖红罐里，放吖两脚橱里。  
-1. 【[吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh.md#吃)】`qieh7` <sup>[兴化]</sup> ① 喝：～茶｜～酒。 ② 吸：～烟｜～大烟（抽鸦片） ③ 领受：他就～这一套。  
+1. 【[吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh.md#吃)】`qieh7` <sup>[兴化]</sup> ① 喝：～茶；～酒。 ② 吸：～烟；～大烟（抽鸦片） ③ 领受：他就～这一套。  
 1. 【[吃驳锤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_bah_chuei.md#吃驳锤)】`qieh7 bah7 chuei2` <sup>[如东]</sup> 挨拳头打：你再调皮，当心～。  
 1. 【[吃𪙍头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_bah_teu_zz.md#吃𪙍头子)】`qieh7 bah7 teu2 zz` <sup>[如皋]</sup> 比喻被责骂。  
 1. 【[吃不开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_beh_kae.md#吃不开)】`qieh7 beh7 kae1` <sup>[如东]</sup> 自己的才能或人品不受重视：他在这许～。  
@@ -1005,11 +1005,11 @@
 1. 【[及时雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_shr_y.md#及时雨)】`qieh8 shr2 y3` <sup>[东台]</sup> 自然界适时的雨水。［喻］指在别人危难时给予的帮助。  
 1. 【[及早](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_zo.md#及早)】`qieh8 zo3` <sup>[如皋]</sup> 预先，事先。  
 1. 【[嫉妒大似仇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_dv_da_sz_cheu.md#嫉妒大似仇)】`qieh8 dv5 da6 sz6 cheu2` <sup>[东台]</sup> 嫉妒的心理往往比仇恨心理还可怕。  
+1. 【[席](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh.md#席)】`qieh8` <sup>[东台]</sup> 铺在床上的卧具（东台记音xih8）：蒲～；草～；凉～。  
 1. 【[席口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_keu.md#席口)】`qieh8 keu3` <sup>[东台]</sup> 席次，宴会的座次：上她家去，大～要让给长辈。  
 1. 【[席子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_zz.md#席子)】`qieh8 zz` <sup>[如东]</sup> 用席草编成的长方形的片状物，用于垫床睡人。用先棵编成的长方形的片状物，用于垫地囤粮。  
 1. 【[极溜<sub>儿</sub>转](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_lieu_r_zhun.md#极溜<sub>儿</sub>转)】`qieh8 lieu1 r zhun5` <sup>[如东]</sup> 飞快地转动：风车～。  
 1. 【[漆匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_qian.md#漆匠)】`qieh8 qian` 漆匠  
-1. 【[蓆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh.md#蓆)】`qieh8` <sup>[东台]</sup> 铺在床上的卧具：蒲～｜草～｜凉～。（也可写作“席”）  
 1. 【[集期](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_qi.md#集期)】`qieh8 qi1` <sup>[东台]</sup> 赶集的日期，一般以庙会或菩萨诞辰作为规定的日期。  
 1. 【[集市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_shr.md#集市)】`qieh8 shr6` <sup>[东台]</sup> 定期聚会交易的场所。  
 1. 【[亲自](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_cz.md#亲自)】`qien1 cz6` <sup>[如东]</sup> 自己：我～去一趟。  

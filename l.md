@@ -1649,7 +1649,7 @@
 1. 【[脸妒啊下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_dv_a_ha.md#脸妒啊下)】`lin3 dv5 a ha` <sup>[如皋]</sup> 愠怒的样子。  
 1. 【[脸厚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_heu.md#脸厚)】`lin3 heu6` <sup>[兴化]</sup> 脸皮厚，不知羞耻：你真～，骂不怕！｜“你们小伙子的～，怕怎么的？你们看他看去。”（《醒世姻缘传》六三）  
 1. 【[脸号<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_ho_r.md#脸号<sub>儿</sub>)】`lin3 ho6 r` <sup>[东台]</sup> 人的面孔：他的～不丑｜我俫好像见过面，是个熟～。  
-1. 【[脸禁住咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_jien_chvh_ga.md#脸禁住咖)】`lin3 jien5 chvh ga` <sup>[东台]</sup> 板着面孔，很生气的样子。  
+1. 【[脸禁住咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_jien_chuh_ga.md#脸禁住咖)】`lin3 jien5 chuh ga` <sup>[东台]</sup> 板着面孔，很生气的样子。  
 1. 【[脸嘴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_jy_r.md#脸嘴<sub>儿</sub>)】`lin3 jy3 r` <sup>[如东]</sup> 相貌：这个伢儿～不丑。  
 1. 【[脸㧟啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_kuae_a.md#脸㧟啊)】`lin3 kuae6 a` <sup>[如东]</sup> 比喻很不高兴的样子。  
 1. 【[脸老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_lo.md#脸老)】`lin3 lo3` <sup>[东台]</sup> ［引］老练，不害羞。  
@@ -2703,6 +2703,7 @@
 1. 【[乱打朝纲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_da_cho_gan.md#乱打朝纲)】`lun6 da3 cho2 gan1` <sup>[如皋]</sup> 见“乱朝纲”。  
 1. 【[乱捣酱缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_do_jian_gan.md#乱捣酱缸)】`lun6 do3 jian5 gan1` <sup>[东台]</sup> ［喻］指那些不守规矩无事生非的行为。  
 1. 【[乱掇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_duh.md#乱掇)】`lun6 duh7` <sup>[如东]</sup> 混乱：非常～。  
+1. 【[乱坟场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_fen_chan.md#乱坟场)】`lun6 fen2-men chan` <sup>[如皋]</sup> 荒冢地。  
 1. 【[乱坟场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_fen_chan.md#乱坟场)】`lun6 fen2 chan2` <sup>[如东]</sup> 旧时贫民丧葬的场所。  
 1. 【[乱坟葬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_fen_zan.md#乱坟葬)】`lun6 fen2 zan5` <sup>[兴化]</sup> 无主的乱葬坟地：（他）实在跑不动了，就在一个～上停了下来。（兴文：《中堡庄》）  
 1. 【[乱营](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_ien.md#乱营)】`lun6 ien2` <sup>[如东]</sup> 内部发生混乱：操场上～吖。  
@@ -2723,7 +2724,6 @@
 1. 【[乱头草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_teu_con.md#乱头草)】`lun6 teu con3` <sup>[兴化]</sup> 由杂草束成的捆子。  
 1. 【[乱套](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_to.md#乱套)】`lun6 to5` <sup>[如东]</sup> 乱了次序或秩序。  
 1. 【[乱稻草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_to_co.md#乱稻草)】`lun6 to6 co3` <sup>[如皋]</sup> 脱粒碾过的稻草。与“管草”相对。  
-1. 【[乱坟场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_ven_chan.md#乱坟场)】`lun6 ven2 chan` <sup>[如皋]</sup> 荒冢地。  
 1. 【[乱性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_xien.md#乱性)】`lun6 xien5` <sup>[兴化]</sup> 形容人举止反常，迷失了本性：酒能～，还是少饮为佳。  
 1. 【[乱杂嘈兵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_zaeh_co_bien.md#乱杂嘈兵)】`lun6 zaeh7 co2 bien1` <sup>[东台]</sup> 形容秩序紊乱，声音嘈杂。  
 1. 【[乱砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_zhun.md#乱砖)】`lun6 zhun1` <sup>[兴化]</sup> 不能整齐码放的碎砖：～堆子。  

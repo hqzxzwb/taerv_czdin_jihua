@@ -677,7 +677,7 @@
 1. 【[今<sub>儿</sub>个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_r_gu.md#今<sub>儿</sub>个)】`gen1 r gu` <sup>[兴化]</sup> 今天，兴化西北部说法。同“今儿子”。  
 1. 【[今<sub>儿</sub>子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_r_zz.md#今<sub>儿</sub>子)】`gen1 r zz` <sup>[兴化]</sup> 今天：～我值班。西北少数村镇也说“今儿个”。  
 1. 【[今朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_zho.md#今朝)】`gen1 zho` <sup>[兴化]</sup> 说话的这一天：～是个好日子。  
-1. 【[今朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_zho.md#今朝)】`gen1 zho` <sup>[泰县]</sup> 今天：我～不去。  
+1. 【[今朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_zho.md#今朝)】`gen1 zho, gen1 do` <sup>[泰县]</sup> 今天：我～不去。  
 1. 【[庚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen.md#庚)】`gen1` <sup>[东台]</sup> ① 天干第七位。 ② 年龄：先生贵～几何？  
 1. 【[更把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_ba.md#更把)】`gen1 ba` <sup>[如东]</sup> ① 一更天（19时至20时）。 ② 大约一更（两个小时）左右。  
 1. 【[更把天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_ba_tin.md#更把天)】`gen1 ba tin1` <sup>[兴化]</sup> 旧时一夜分成五更，晚八时左右为初更，～约在九到十时左右。  

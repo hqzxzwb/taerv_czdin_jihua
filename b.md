@@ -427,13 +427,13 @@
 1. 【[扳罾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_zen.md#扳罾)】`baen1 zen1` <sup>[东台]</sup> 用罾（一种方形鱼网）捕鱼：他在河口～，一年下来也有万把块的进项。  
 1. 【[扳罾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_zen.md#扳罾)】`baen1 zen1` <sup>[兴化]</sup> 将长竹竿做支架的大网（罾）放置河中捕鱼：河边柳荫下有一位老人在那里～捕鱼。  
 1. 【[攽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen.md#攽)】`baen1` <sup>[如东]</sup> 用手把东西分开或折断：～玉米。  
+1. 【[斑麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_ma.md#斑麻)】`baen1 ma2` <sup>[如东]</sup> 大戟科植物蓖麻。  
 1. 【[爿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen.md#爿)】`baen1` <sup>[兴化]</sup> 量词，如皋东台均为阴去声：一～商店；一～工厂。  
 1. 【[班辈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_bei.md#班辈)】`baen1 bei5` <sup>[如皋]</sup> 班，平行。辈，上下。总指辈分。  
 1. 【[班辈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_bei.md#班辈)】`baen1 bei5` <sup>[东台]</sup> 辈分，也叫字序：不要看她年纪轻，她的～～还就蛮高的。  
 1. 【[班辈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_bei.md#班辈)】`baen1 bei5` <sup>[兴化]</sup> ① 辈份：他娶表姐的女儿为妻，也不问差与不差。 ② 也指同辈：（滕爷）又问：“嫁的甚人？”刘氏道：“是～的裁缝叫沈八汉。”（《古今小说》十）  
 1. 【[班房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_fan.md#班房)】`baen1 fan2` <sup>[东台]</sup> 监狱或拘留所。  
 1. 【[班母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_mu.md#班母)】`baen1 mu3` <sup>[如皋]</sup> 木匠用木斗中墨线顶端的钩子。  
-1. 【[蓖麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_ma.md#蓖麻)】`baen1 ma2` <sup>[如东]</sup> 大戟科植物蓖麻。  
 1. 【[板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen.md#板)】`baen3` <sup>[如皋]</sup> ① 古板、呆板：他的脾气～。 ② 硬、直：年纪大啊，腰发～；这种毯子蛮～气的。 ③ 僵持：互相～住啊，事情不好办。  
 1. 【[板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen.md#板)】`baen3` <sup>[兴化]</sup> 作副词，意为一定：我估计他今朝～家来。  
 1. 【[板板页页](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_baen_ih_ih.md#板板页页)】`baen3 baen3 ih8 ih8` <sup>[兴化]</sup> “板页”的生动形式。  

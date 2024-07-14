@@ -1330,7 +1330,7 @@
 1. 【[坳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_zz.md#坳子)】`ngo5 zz` <sup>[兴化]</sup> 一端不通行的小河沟。  
 1. 【[懊报](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_bo.md#懊报)】`ngo5 bo5` <sup>[如东]</sup> 后悔而又抱怨别人：你不要～，这是你自己做的。  
 1. 【[懊慒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_co.md#懊慒)】`ngo5-3 co2` <sup>[东台]</sup> 烦闷、懊恼、后悔：昨夜皮夹被人家偷了，～得很。《玉篇》｜“慒，乱也。”  
-1. 【[懊悔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_huei.md#懊悔)】`ngo5 huei5` <sup>[如东]</sup> 做错了事或说错了话，心里自恨不该这样。  
+1. 【[懊悔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_huei.md#懊悔)】`ngo5 huei` <sup>[如东]</sup> 做错了事或说错了话，心里自恨不该这样。  
 1. 【[懊恼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_no.md#懊恼)】`ngo5-3 no3` <sup>[东台]</sup> 后悔。  
 1. 【[懊躁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_zo.md#懊躁)】`ngo5 zo5` <sup>[如皋]</sup> 因懊恼而烦躁、急躁。  
 1. 【[扷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo.md#扷)】`ngo5` <sup>[兴化]</sup> ① 量：把这袋米～～看，到底多重。 ② 上、注：把缸里水～满。 ③ 《集韵。号韵》於到切“～，量也。”也作“拗”，《西游记》第二十五回有“把油拗上一锅”句。  

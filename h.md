@@ -1210,7 +1210,7 @@
 1. 【[炣茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_cha.md#炣茶)】`hu1 cha2` <sup>[如皋]</sup> 旧时乡村中的待客之礼。在一只大锅中烧开水兼炣馒头、糕之类，请客人饮用。即便近中午，也是先～，后煮饭。  
 1. 【[炣蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_hae.md#炣蟹)】`hu1 hae3` <sup>[如皋]</sup> 将活蟹洗净置锅内蒸熟。  
 1. 【[炣络<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_lah_r.md#炣络<sub>儿</sub>)】`hu1 lah8 r` <sup>[如东]</sup> 厨具。圆形或十字形，竹制或金属制，搁在锅中，上面放置食物，加温，使食物变热或蒸熟。也叫架子。  
-1. 【[炣篓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_leu_r.md#炣篓<sub>儿</sub>)】`hu1 leu1 r` <sup>[如皋]</sup> 锅内蒸屜。旧以竹篾编成，圆形。  
+1. 【[炣篓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_leu_r.md#炣篓<sub>儿</sub>)】`hu1 leu3 r, hu1 leu r` <sup>[如皋]</sup> 锅内蒸屜。旧以竹篾编成，圆形。  
 1. 【[炣篓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_leu_r.md#炣篓<sub>儿</sub>)】`hu1 leu3 r` <sup>[东台]</sup> 蒸糕点、馒头的圆形片状用具。使用时垫上一层白纱布，上面放食物，放在锅里蒸。又叫“炣领儿”。  
 1. 【[炣馒头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_mun_teu.md#炣馒头)】`hu1 mun2 teu` <sup>[如东]</sup> 把冷馒头放在锅里的炣络儿上加温，使之变热变软。  
 1. 【[炣馒头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_mun_teu.md#炣馒头)】`hu1 mun2 teu` <sup>[如皋]</sup> 将冷馒头置锅内蒸透食用。  
