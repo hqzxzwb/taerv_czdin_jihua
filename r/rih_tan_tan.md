@@ -21,6 +21,6 @@ rih8 tan1 tan1
 - 很熟。
 
 # 热汤汤
-rih7 tan1 tan1
+rih8 tan1 tan1
 > 泰县方言志
 - 热乎平：这碗面～的，你快点儿吃。
