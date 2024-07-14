@@ -581,7 +581,7 @@
 1. 【[烂漠咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_mah_ga.md#烂漠咖)】`laen6 mah ga` <sup>[东台]</sup> 被人批评得太多，简直都被嫌烂了。  
 1. 【[烂眯搭眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_mi_daeh_ngaen.md#烂眯搭眼)】`laen6 mi1 daeh7 ngaen3` <sup>[东台]</sup> 不爽，让人看了恶心。  
 1. 【[烂面黐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_min_chr.md#烂面黐)】`laen6 min6 chr1` <sup>[兴化]</sup> ① 黏性很强的浆糊。 ② （喻）惹不起的人：他是个～，叮上你甩也甩不掉。  
-1. 【[烂猫<sub>儿</sub>尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_mo_r_shr.md#烂猫<sub>儿</sub>尿)】`laen6 mo2 r shr3` <sup>[如皋]</sup> 喻指地鳖蛇（蝮蛇）盘着的样子。  
+1. 【[烂猫<sub>儿</sub>屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_mo_r_shr.md#烂猫<sub>儿</sub>屎)】`laen6 mo2 r shr` <sup>[如皋]</sup> 喻指地鳖蛇（蝮蛇）盘着的样子。  
 1. 【[烂猫屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_mo_shr.md#烂猫屎)】`laen6 mo2 shr3` <sup>[东台]</sup> ［喻］不能打交道，一沾上身就甩不掉：这家伙是个～，不要同他搭煞。  
 1. 【[烂木头躺吖一堆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_moh_teu_tan_nga_ieh_dy.md#烂木头躺吖一堆)】`laen6 moh8 teu tan3 nga ieh7 dy1` <sup>[东台]</sup> （俗语）［喻］坏人凑到一起。  
 1. 【[烂麦场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_moh_chan.md#烂麦场)】`laen6 moh8 chan2` <sup>[东台]</sup> 收麦季节遇到连续阴雨。  
@@ -1179,7 +1179,7 @@
 1. 【[𤃀浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_jian.md#𤃀浆)】`li6 jian1` <sup>[如皋]</sup> 将黄豆磨出的豆浆、蚕豆磨出的粉浆、米酒的洒浆之类用浆布过滤，以去渣或去水。  
 1. 【[𤃀浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_jian.md#𤃀浆)】`li6 jian1` <sup>[如皋]</sup>   
 1. 【[掠进眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/liah_jien_ngaen.md#掠进眼)】`liah8 jien5 ngaen3` <sup>[东台]</sup> 偶尔一见，就引起关注：他那天表演时捱她～，一见钟情。  
-1. 【[略索](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/liah_sah.md#略索)】`liah8 sah8` <sup>[如皋]</sup> 方向难辨：有的路段蛮～的，分不清是朝东朝南。  
+1. 【[略𧺕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/liah_shah.md#略𧺕)】`liah8 shah8` <sup>[如皋]</sup> 方向难辨：有的路段蛮～的，分不清是朝东朝南。  
 1. 【[凉匾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_bin.md#凉匾)】`lian2 bin3` <sup>[如皋]</sup> 精篾编制的席装在长圆形的粗篾壳中做成的睡具。  
 1. 【[凉匾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_bin.md#凉匾)】`lian2 bin3` <sup>[如皋]</sup> 见“团匾”。  
 1. 【[凉匾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_bin.md#凉匾)】`lian2 bin3` <sup>[兴化]</sup> 竹篾编成的长匾，可用来晒物，夏天也可作睡具。  

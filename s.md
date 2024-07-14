@@ -809,8 +809,8 @@
 1. 【[商船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_chun.md#商船)】`shan1 chun2` <sup>[如东]</sup> 运载货物和旅客的船。  
 1. 【[商店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_din.md#商店)】`shan1 din5` <sup>[如东]</sup> 经营商品的店铺。  
 1. 【[商号](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_ho.md#商号)】`shan1 ho6` <sup>[如东]</sup> 商店。  
-1. 【[商议细敲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_i_xi_ko.md#商议细敲)】`shan1 i5 xi5 ko1` <sup>[东台]</sup> 和风细雨地商量事情：他俫有事总是～的，非常和谐。  
 1. 【[商议计较](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_i_ji_go.md#商议计较)】`shan1 i6 ji5 go5` <sup>[如皋]</sup> 状亲密和谐互相尊重，共同商量。  
+1. 【[商议细敲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_i_xi_ko.md#商议细敲)】`shan1 i6 xi5 ko1` <sup>[东台]</sup> 和风细雨地商量事情（原文记音“议”i5）：他俫有事总是～的，非常和谐。  
 1. 【[商业](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_ih.md#商业)】`shan1 ih8` <sup>[如东]</sup> 从事商品交换的经济活动。组织商品流通的国民经济部门。  
 1. 【[商陆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_loh.md#商陆)】`shan1 loh8` <sup>[如东]</sup> 商陆科植物商陆，多年生草本。高约100厘米。根粗壮，肉质外皮淡黄色。茎直立，绿色或紫红色，具纵沟。叶互生椭圆形，全缘。总状花序。花初开白色，后变为淡红色。浆果，熟时紫黑色。种子肾圆形，扁平黑色。生长在林边、路旁湿地。  
 1. 【[商品](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_pien.md#商品)】`shan1 pien3` <sup>[如东]</sup> 为了交换而生产的产品。  
@@ -2300,7 +2300,7 @@
 1. 【[弛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr.md#弛)】`shr2` <sup>[如皋]</sup> ① 松垂：房粱后角～下来啊。 ② 下沉：磉棵墩儿～下去啊。 ③ 踩空：脚下～啊下子。  
 1. 【[弛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr.md#弛)】`shr2` <sup>[东台]</sup> ① 松下来：门～啊劲。 ② 下沉：门窝子～下来啊。  
 1. 【[弛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr.md#弛)】`shr2` <sup>[泰县]</sup> 东西微微下陷。  
-1. 【[弛啊空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_a_kon.md#弛啊空)】`shr2 a kon4` <sup>[东台]</sup> 指脚踩在空处，或东西未打中目标，打在空处：他一脚～，跌咖个跟头。  
+1. 【[弛啊空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_a_kon.md#弛啊空)】`shr2 a kon5` <sup>[东台]</sup> 指脚踩在空处，或东西未打中目标，打在空处：他一脚～，跌咖个跟头。  
 1. 【[弛腰落㧟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_io_lah_kuae.md#弛腰落㧟)】`shr2 io1 lah8 kuae3` <sup>[泰县]</sup> ① 衣服不合身。 ② 指人言行不规范：他就是这吖一个～的人。  
 1. 【[时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr.md#时)】`shr2` <sup>[如东]</sup> 计时单位，等于一个平均太阳日的二十四分之一。  
 1. 【[时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr.md#时)】`shr2` <sup>[兴化]</sup> 时运。谚曰：有～猫儿凶似虎，失时凤凰不如鸡。  

@@ -2038,7 +2038,6 @@
 1. 【[读书不讲，如同隔靴搔痒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_shv_beh_jian_rv_ton_geh_xya_so_ian.md#读书不讲，如同隔靴搔痒)】`toh8 shv1 beh7 jian3 rv2 ton2 geh7 xya1 so1 ian3` <sup>[东台]</sup> 读书要讲透精神实质。  
 1. 【[𠠔树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_shv.md#𠠔树)】`toh8 shv6` <sup>[如皋]</sup> 修剪树枝。  
 1. 【[𠠔树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_shv.md#𠠔树)】`toh8 shv6` <sup>[如皋]</sup> 修整树枝。𠠔，徒木切。形声字。  
-1. 【[同他抓痒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_ta_zhua_ian.md#同他抓痒)】`ton1 ta1 zhua1 ian3` <sup>[如皋]</sup> 喻批评过轻或打得过轻。  
 1. 【[通](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton.md#通)】`ton1` <sup>[泰兴]</sup> 遍及（某地区），（某地区内）到处，整个（某地区）：他喉咙大，～庄上总听见吖｜～乡里寻不到他人  
 1. 【[通板手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_baen_sheu.md#通板手)】`ton1 baen3 sheu3` <sup>[泰县]</sup> 打人很厉害的手。  
 1. 【[通扯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_cha.md#通扯)】`ton1 cha3` <sup>[如皋]</sup> 见“缠扯”❷。  
@@ -2085,6 +2084,7 @@
 1. 【[同事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_shr.md#同事)】`ton2 shr6` <sup>[兴化]</sup> 旧称店员：这位绸缎庄的～想必在家很讲究吃食，学会了烹调……（汪曾祺；《落魄》）  
 1. 【[同水做香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_shuei_zu_xian.md#同水做香)】`ton2 shuei3 zu5 xian1` <sup>[如皋]</sup> 粗略洗一下，并未洗浄。  
 1. 【[同他](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_ta.md#同他)】`ton2 ta1` <sup>[如东]</sup> 指女的与男的相好。  
+1. 【[同他抓痒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_ta_zhua_ian.md#同他抓痒)】`ton2 ta1 zhua1 ian3` <sup>[如皋]</sup> 喻批评过轻或打得过轻。  
 1. 【[同她](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_ta.md#同她)】`ton2 ta1` <sup>[如东]</sup> 指男的与女的相好。  
 1. 【[同学](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_xiah.md#同学)】`ton2 xiah8` <sup>[如东]</sup> 对学生的称呼。在同一个学校里学习。在同一个学校里学习的人。  
 1. 【[同志](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_zhr.md#同志)】`ton2 zhr5` <sup>[如东]</sup> 为共同的理想、事业而奋斗的人。同一个政党的成员。  

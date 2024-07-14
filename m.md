@@ -211,8 +211,7 @@
 1. 【[马叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_cha.md#马叉)】`ma3 cha` <sup>[兴化]</sup> 形容女孩泼辣好动：朱家三姑娘真～，活像个野小伙。  
 1. 【[马叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_cha.md#马叉)】`ma3 cha1` <sup>[兴化]</sup> 古代的一种冷兵器，前端有三把双尖刀，成“山”字形。  
 1. 【[马齿苋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_chr_haen.md#马齿苋)】`ma3 chr3 haen6` <sup>[如东]</sup> 马齿苋科植物马齿苋，一年生肉质草本。  
-1. 【[马槽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_co.md#马槽)】`ma3 co2` <sup>[如皋]</sup> 见“槥”。  
-1. 【[马槽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_co.md#马槽)】`ma3 co3` <sup>[如皋]</sup> ① 马吃草料的木槽。 ② 简陋的棺材。  
+1. 【[马槽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_co.md#马槽)】`ma3 co2` <sup>[如皋]</sup> ① 马吃草料的木槽。 ② 简陋的棺材。另见“槥”。  
 1. 【[马草马料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_co_ma_lio.md#马草马料)】`ma3 co3 ma3 lio6` <sup>[如皋]</sup> 本指饲马的草料，又指腊月二十四送灶时给灶神所骑的“马”准备的稻草48小段，麸皮少许。灶神是“蟑螂”，灶马是“钱驮子”。  
 1. 【[马大哈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_da_ha.md#马大哈)】`ma3 da6 ha1` <sup>[如东]</sup> 粗心大意：做事不能～。  
 1. 【[马灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_den.md#马灯)】`ma3 den1` <sup>[如皋]</sup> 桅灯。  
