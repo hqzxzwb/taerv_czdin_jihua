@@ -989,7 +989,7 @@
 1. 【[真札货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zhaeh_hu.md#真札货)】`zhen1 zhaeh7 hu5` <sup>[如东]</sup> 质量很好的货物：这些都是～。  
 1. 【[真真的个真](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zhen_dii_gu_zhen.md#真真的个真)】`zhen1 zhen1 dii gu zhen1` <sup>[东台]</sup> 意为已经给足了最大的情面，天大的交情。  
 1. 【[睁眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_ngaen.md#睁眼)】`zhen1 ngaen3` <sup>[如皋]</sup> 指初生禽兽的发育生长阶段。  
-1. 【[睁眼闭眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_ngaen_bi_naen.md#睁眼闭眼)】`zhen1 ngaen3 bi5 naen3` <sup>[兴化]</sup> 明知不对，有意不管：他俫单位负责人看到有人上班打麻将，～，受到通报批评。  
+1. 【[睁眼闭眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_ngaen_bi_ngaen.md#睁眼闭眼)】`zhen1 ngaen3 bi5 ngaen3` <sup>[兴化]</sup> 明知不对，有意不管：他俫单位负责人看到有人上班打麻将，～，受到通报批评。  
 1. 【[睁眼瞎子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_ngaen_haeh_zz.md#睁眼瞎子)】`zhen1 ngaen3 haeh7 zz` <sup>[如东]</sup> 比喻对事物的本来面目看不清楚。  
 1. 【[睁只眼闭只眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zheh_ngaen_bi_zheh_ngaen.md#睁只眼闭只眼)】`zhen1 zheh7 ngaen3 bi5 zheh7 ngaen3` <sup>[东台]</sup> 原意是看见装看不见。喻意故意敷衍了事，不负责任。  
 1. 【[砧板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_baen.md#砧板)】`zhen1 baen3` <sup>[如东]</sup> 垫在下面切东西的工具，叫做砧板。也叫切板。  

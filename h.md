@@ -2233,7 +2233,7 @@
 1. 【[晦气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qi.md#晦气)】`huei5 qi5` <sup>[如皋]</sup> 口头禅语。  
 1. 【[晦气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qi.md#晦气)】`huei5 qi5` <sup>[东台]</sup> 倒霉，或认为倒霉的口头禅。  
 1. 【[晦气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qi.md#晦气)】`huei5 qi5` <sup>[兴化]</sup> ① 丧气、不吉：“我～，他倒来惹我！”（《水浒传》六）｜《清稗类钞·方言类》｜“北人出遇不详曰丧气，南人曰～。” ② 骂人不长进：这个～！大事小事做不来，只有吃的本事！  
-1. 【[晦气果昃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qi_go_zz.md#晦气果昃)】`huei5 qi5 go3 zz` <sup>[如东]</sup> 不争气的人：来啊个～。  
+1. 【[晦气杲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qi_go_zz.md#晦气杲子)】`huei5 qi5 go3 zz` <sup>[如东]</sup> 不争气的人：来啊个～。  
 1. 【[晦气鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qi_guei.md#晦气鬼)】`huei5 qi5 guei3` <sup>[如东]</sup> 心术不正的人。  
 1. 【[晦气鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qi_guei.md#晦气鬼)】`huei5 qi5 guei3` <sup>[泰县]</sup> 心术不正的人：他是个～，你不要跟他往来。  
 1. 【[晦气货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qi_hu.md#晦气货)】`huei5 qi5 hu5` <sup>[如东]</sup> 不务正业、没有出息的人。  

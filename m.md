@@ -741,8 +741,8 @@
 1. 【[没裤带<sub>儿</sub>的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_kv_dae_r_dii.md#没裤带<sub>儿</sub>的)】`meh8 kv5 dae5 r dii` 形容女性行为放荡不正经。  
 1. 【[没裤带子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_kv_dae_zz.md#没裤带子)】`meh8 kv5 dae5 zz` <sup>[如皋]</sup> 指性关系混乱的女人。  
 1. 【[没裤腰带子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_kv_io_dae_zz.md#没裤腰带子)】`meh8 kv5 io1 dae5 zz` <sup>[泰县]</sup> 乱搞两性关系的妇女。  
-1. 【[没料□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_lio_ma.md#没料□)】`meh8 lio6 ma` <sup>[东台]</sup> 没有食欲：我今吖嘴里～。  
-1. 【[没聊寞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_lio_mah.md#没聊寞)】`meh8 lio6 mah` <sup>[兴化]</sup> 情绪低落，百无聊赖：才退休家来，生活真的～。｜我戒烟那阵子才～吤！  
+1. 【[没撂摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_lio_mah.md#没撂摸)】`meh8 lio6 mah` <sup>[兴化]</sup> 情绪低落，百无聊赖：才退休家来，生活真的～。｜我戒烟那阵子才～吤！  
+1. 【[没撂摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_lio_mah.md#没撂摸)】`meh8 lio6 mah-ma` <sup>[东台]</sup> 没有食欲：我今吖嘴里～。  
 1. 【[没牢坐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_lo_cu.md#没牢坐)】`meh8 lo2 cu6` 用于表示否定。类似于普通话的“吃饱了撑的”。又语“没监坐”。  
 1. 【[没牢坐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_lo_cu.md#没牢坐)】`meh8 lo2 cu6` <sup>[如东]</sup> 比喻没有事做：～，他上街去啊。  
 1. 【[没门<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_men_r.md#没门<sub>儿</sub>)】`meh8 men2 r` <sup>[如东]</sup> 没有办法。  
