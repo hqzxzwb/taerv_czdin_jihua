@@ -1,4 +1,4 @@
 # 一头个的来（上/去）
-ieh7 teu gu3 dii lae2
+ieh7 teu gu9 dii lae2
 > 如皋方言词典
 - 一个一个的依次序的来，不乱。
