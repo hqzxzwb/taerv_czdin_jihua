@@ -218,7 +218,6 @@
 1. 【[掿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nah.md#掿)】`nah8` <sup>[如皋]</sup> 搓揉：～咸菜、～被单。  
 1. 【[掿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nah.md#掿)】`nah8` <sup>[如东]</sup> 用手揉：～衣裳。  
 1. 【[掿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nah.md#掿)】`nah8` <sup>[泰县]</sup> 用盐拌渍蒸菜，挤掉水：把青菜～～。  
-1. 【[搦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nah.md#搦)】`nah8` 挤去蔬菜中的水分  
 1. 【[囔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nan.md#囔)】`nan1` <sup>[如皋]</sup> 叹词。有提醒、警告、责备、制止等作用：孩子碰电线，不听劝止，妈妈一边去拉开，一边说：“～！～！还不快点儿放手！”  
 1. 【[囊家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nan_ga.md#囊家)】`nan2 ga` <sup>[如东]</sup> 主家：请～表态。  
 1. 【[瓤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nan.md#瓤)】`nan2` <sup>[兴化]</sup> 不好、软弱：他的手艺不～，刮刮叫。｜你的身体太～，要注意保养。  

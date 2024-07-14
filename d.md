@@ -1524,7 +1524,7 @@
 1. 【[得理不让人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deh_li_beh_ran_ren.md#得理不让人)】`deh7 li3 beh7 ran6 ren2` <sup>[如皋]</sup> 责交往中有理者丝毫不妥协。  
 1. 【[得理不饶人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deh_li_beh_ro_ren.md#得理不饶人)】`deh7 li3 beh7 ro2 ren2` <sup>[如皋]</sup> 见“得理不让人”。  
 1. 【[得麻脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deh_ma_jiah_r.md#得麻脚<sub>儿</sub>)】`deh7 ma2 jiah7 r` <sup>[如皋]</sup> ① 患霍乱。 ② 咒骂人生霍乱病。  
-1. 【[得步进步](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deh_pv_jien_pv.md#得步进步)】`deh7 pv6 jien7 pv6` <sup>[兴化]</sup> 犹得寸进尺：“可不是我们前天依了他的话，又～了……”（《广陵潮》九三）  
+1. 【[得步进步](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deh_pv_jien_pv.md#得步进步)】`deh7 pv6 jien5 pv6` <sup>[兴化]</sup> 犹得寸进尺：“可不是我们前天依了他的话，又～了……”（《广陵潮》九三）  
 1. 【[得罪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deh_qy.md#得罪)】`deh7 qy6` <sup>[东台]</sup> ① 冒犯，招人不快或怀恨：你说话带刺，容易～人。 ② （招呼话）对不起：～～，请让一下。  
 1. 【[得手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deh_sheu.md#得手)】`deh7 sheu3` <sup>[如东]</sup> 获得：经过多方努力，终于～。  
 1. 【[得势猫<sub>儿</sub>雄似虎，失时凤凰不如鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deh_shr_mo_r_xion_sz_hv_sheh_shr_fon_huan_beh_rv_ji.md#得势猫<sub>儿</sub>雄似虎，失时凤凰不如鸡)】`deh7 shr5 mo2 r xion2 sz6 hv3 sheh7 shr2 fon6 huan2 beh7 rv2 ji1` <sup>[东台]</sup> 人的英雄气概受时空影响。  

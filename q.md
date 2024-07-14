@@ -1298,6 +1298,7 @@
 1. 【[尽街头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_gae_teu.md#尽街头)】`qien6 gae1 teu2` <sup>[如皋]</sup> 旧指型石街道的尽头，及邻近的郊区。  
 1. 【[尽命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_mien.md#尽命)】`qien6 mien6` <sup>[兴化]</sup> ① 拼命、不顾一切的：他为儿子～吖。｜她一听这话，气得把茶碗向地下～的摔。 ② 最后的，用以保命的：“这些少东西，乃我～之资，一家大小俱在此上……”（《醒世恒言》三五）  
 1. 【[尽末家产](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_muh_jia_chaen.md#尽末家产)】`qien6 muh8 jia1 chaen3` <sup>[兴化]</sup> 仅剩的财物：我身上～三百块，你拿去盘缠吧！  
+1. 【[尽头话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_teu_hua.md#尽头话)】`qien6 teu hua6` <sup>[兴化]</sup> 决绝的话：两口子都说咖～，恐怕再也好不起来啊。  
 1. 【[尽头路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_teu_lv.md#尽头路)】`qien6 teu lv6` <sup>[兴化]</sup> 路的终点：匪首况小九子在受害百姓的群攻之下走上吖～。《西游记》第四十七回有“罢了！来到～了！”  
 1. 【[尽兴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_xien.md#尽兴)】`qien6 xien5` <sup>[东台]</sup> 兴趣得到尽量满足。  
 1. 【[近臭远香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_cheu_iun_xian.md#近臭远香)】`qien6 cheu5 iun3 xian1` <sup>[东台]</sup> ［文］亲人之间常在一起难免有不愉快的事，保持一定距离反而感到亲热、吃香。  

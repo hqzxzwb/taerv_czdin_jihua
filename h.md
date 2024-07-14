@@ -1963,8 +1963,8 @@
 1. 【[黄鲫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_jieh_zz.md#黄鲫子)】`huan2 jieh7 zz` <sup>[如东]</sup> 鳗科动物黄鲫，体长约15厘米。  
 1. 【[黄孔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_kon.md#黄孔)】`huan2 kon3` <sup>[如东]</sup> 丢面子。  
 1. 【[黄孔<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_kon_r.md#黄孔<sub>儿</sub>)】`huan2 kon3 r` <sup>[如皋]</sup> 难堪、尴尬。  
-1. 【[黄连树下挂苦胆——苦上加苦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_lin_shv_xia_gua_kv_daen_kv_shan_jia_kv.md#黄连树下挂苦胆——苦上加苦)】`huan2 lin2 shv6 xia6 gua5 kv3 daen3 kv3 shan6 jia1 kv3` <sup>[东台]</sup>   
-1. 【[黄连树下弹琴——苦中作乐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_lin_shv_xia_taen_qien_kv_zhon_zah_lah.md#黄连树下弹琴——苦中作乐)】`huan2 lin2 shv6 xia6 taen2 qien2 kv3 zhon1 zah7 lah7` <sup>[东台]</sup>   
+1. 【[黄连树下挂苦胆——苦上加苦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_lin_shv_xia.md#黄连树下挂苦胆——苦上加苦)】`huan2 lin2 shv6 xia6 gua5 kv3 daen3 kv3 shan6 jia1 kv3` <sup>[东台]</sup>   
+1. 【[黄连树下弹琴——苦中作乐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_lin_shv_xia.md#黄连树下弹琴——苦中作乐)】`huan2 lin2 shv6 xia6 taen2 qien2 kv3 zhon1 zah7 lah8` <sup>[东台]</sup>   
 1. 【[黄脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_lin.md#黄脸)】`huan2 lin3` <sup>[如东]</sup> 不给对方面子：他来说情，我不曾同意，匄啊个～。  
 1. 【[黄龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_lon.md#黄龙)】`huan2 lon` 鼻涕  
 1. 【[黄龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_lon.md#黄龙)】`huan2 lon2` <sup>[如东]</sup> 脓性鼻涕。  
@@ -2621,7 +2621,7 @@
 1. 【[换凉月子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_lian_iuh_zz.md#换凉月子)】`hun6 lian2 iuh8 zz` <sup>[如皋]</sup> 月食。  
 1. 【[换门亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_men_qien.md#换门亲)】`hun6 men2 qien1` <sup>[如皋]</sup> 双方女子互换与双方男子结婚。  
 1. 【[换亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_qien.md#换亲)】`hun6 qien1` <sup>[如东]</sup> 双方女子互嫁。  
-1. 【[换身衣装](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_shen_iu_shan.md#换身衣装)】`hun6 shen1 iu1 shan` <sup>[兴化]</sup> 指替换洗涤的衣裳：他当年穷得连～都没得。｜“准备啥呀？快开房门，让我进去帮你收拾，拿套把～就是了。”（马春阳：《月朗和她的娘舅们》）  
+1. 【[换身衣裳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_shen_i_shan.md#换身衣裳)】`hun6 shen1 i1 shan` <sup>[兴化]</sup> 指替换洗涤的衣裳：他当年穷得连～都没得。｜“准备啥呀？快开房门，让我进去帮你收拾，拿套把～就是了。”（马春阳：《月朗和她的娘舅们》）  
 1. 【[换寿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_sheu.md#换寿)】`hun6 sheu6` 为老人过生日办寿宴。  
 1. 【[换太阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_tae_ian.md#换太阳)】`hun6 tae5 ian2` <sup>[如皋]</sup> 日食。  
 1. 【[换汤不换药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_tan_beh_hun_iah.md#换汤不换药)】`hun6 tan1 beh7 hun6 iah8` <sup>[东台]</sup> （俗语）意思是说只改变形式，不改变实质内容。  

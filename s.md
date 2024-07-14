@@ -573,7 +573,7 @@
 1. 【[嗄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha.md#嗄)】`sha5` <sup>[如东]</sup> 喉咙嘶哑：喉咙～啊，话说不出来。  
 1. 【[嗄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha.md#嗄)】`sha5` <sup>[兴化]</sup> 嗓音嘶哑：喉咙冻～啊。｜喉咙喊～啊。  
 1. 【[嗄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha.md#嗄)】`sha5` <sup>[泰县]</sup> 发音沙哑：他今吖喉咙～啊。  
-1. 【[嗄巴喉咙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_ba_heu_lon.md#嗄巴喉咙)】`sha5 ba5 heu2 lon2-3` <sup>[东台]</sup> 嗓子沙了，嗓音嘶哑不清脆：我是～喇叭声，唱歌难听。  
+1. 【[嗄巴喉咙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_ba_heu_lon.md#嗄巴喉咙)】`sha5 ba heu2 lon2-3` <sup>[东台]</sup> 嗓子沙了，嗓音嘶哑不清脆：我是～喇叭声，唱歌难听。  
 1. 【[嗄喉咙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_heu_lon.md#嗄喉咙)】`sha5 heu2 lon` <sup>[兴化]</sup> 形容嗓音沙哑的人：来人是个～。  
 1. 【[嗄翅<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_zhr_r.md#嗄翅<sub>儿</sub>)】`sha5 zhr5 r` <sup>[如皋]</sup> 原指昆虫振翅发声嘶哑。后即发声嘶哑、嗄喉咙。  
 1. 【[舍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha.md#舍)】`sha5` <sup>[东台]</sup> 原指田头小草房，后用作地名：六里～｜王家～｜西～。  
@@ -955,7 +955,7 @@
 1. 【[上廪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_lien.md#上廪)】`shan6 lien3` <sup>[如东]</sup> 谷物晒干，可以入柜。  
 1. 【[上领子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_lien_zz.md#上领子)】`shan6 lien3 zz` <sup>[如皋]</sup> 缝合衣领。缝纫关键工序之一。  
 1. 【[上流头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_lieu_teu.md#上流头)】`shan6 lieu2 teu2` <sup>[兴化]</sup> 河湖的上游：只见那～，有一个渔翁，撑着一个枯木的筏子，顺流而下。（《西游记》十五）  
-1. 【[上溜头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_lieu_reu.md#上溜头)】`shan6 lieu6 reu2` <sup>[兴化]</sup> 指急流的上游：他在河边看见～漂来一段木头。  
+1. 【[上溜头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_lieu_teu.md#上溜头)】`shan6 lieu6 teu2` <sup>[兴化]</sup> 指急流的上游：他在河边看见～漂来一段木头。  
 1. 【[上脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_lin.md#上脸)】`shan6 lin3` <sup>[东台]</sup> 因喝酒或情绪激动而脸红。  
 1. 【[上脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_lin.md#上脸)】`shan6 lin3` <sup>[兴化]</sup> ① 因受人抬举而得意：才夸他几句就～吖。 ② 饮酒后容易红脸：他喝酒容易～。  
 1. 【[上撩下贱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_lio_xia_qin.md#上撩下贱)】`shan6 lio2 xia6 qin6` <sup>[兴化]</sup> 对人曲意奉承反遭对方冷遇：他向来瞧不起你，你何必巴结他，真是～。  
@@ -2711,7 +2711,7 @@
 1. 【[水车拐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_cha_guae_r.md#水车拐<sub>儿</sub>)】`shuei3 cha1 guae3 r` <sup>[如东]</sup> 水车榔头。  
 1. 【[水车关](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_cha_guaen.md#水车关)】`shuei3 cha1 guaen1` <sup>[如东]</sup> 水车部件。四方形的木条，用以连接水车榔头与水车轴。  
 1. 【[水车桄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_cha_guan.md#水车桄)】`shuei3 cha1 guan5` <sup>[如东]</sup> 水车部件。条形长木，安装在水车槽筒水车杖上方，起固定车体作用  
-1. 【[水车榷耳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_cha_hah_er.md#水车榷耳)】`shuei3 cha1 hah8 er3` <sup>[如东]</sup> 水车部件。木制前部有两齿，后部有一柄，形状像古铜钱，连接起来组成水车练水车斗板安装在上边旋转后可以兜水。  
+1. 【[水车鹤耳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_cha_hah_er.md#水车鹤耳)】`shuei3 cha1 hah8 er3` <sup>[如东]</sup> 水车部件。木制前部有两齿，后部有一柄，形状像古铜钱，连接起来组成水车链，水车斗板安装在上边旋转后可以兜水。  
 1. 【[水车楗眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_cha_jin_ngaen.md#水车楗眼)】`shuei3 cha1 jin5 ngaen3` <sup>[如东]</sup> 水车部件。榷耳顶端和尾部的眼，供插楗子，把榷耳连接起来。  
 1. 【[水车楗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_cha_jin_zz.md#水车楗子)】`shuei3 cha1 jin5 zz` <sup>[如东]</sup> 水车部件。圆条形，似钉，用以连接榷耳。  
 1. 【[水车绞关](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_cha_jio_guaen.md#水车绞关)】`shuei3 cha1 jio3 guaen1` <sup>[如东]</sup> 水车部件。条木，一头搁在水桩上，系着㫰绳，一头搁在岸上，控制水车槽筒升降。  

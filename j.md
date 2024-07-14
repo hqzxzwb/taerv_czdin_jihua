@@ -1067,7 +1067,6 @@
 1. 【[紧旺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_van.md#紧旺)】`jien3 van5` <sup>[东台]</sup> 指某件事正处于紧张、兴旺阶段：六月初～收麦｜腊月底各家～忙年事，少去打扰吧。  
 1. 【[紧扎扎的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zhaeh_zhaeh_dii.md#紧扎扎的)】`jien3 zhaeh7 zhaeh7 dii` <sup>[如皋]</sup> 状充满而稍挤：新鞋子上脚～，不能走远路。  
 1. 【[警车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_cha.md#警车)】`jien3 cha1` <sup>[如东]</sup> 担负警察任务的车辆。  
-1. 【[进出气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_chueh_qi.md#进出气)】`jien3 chueh7 qi5` <sup>[如皋]</sup> 呼吸气。  
 1. 【[颈项](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_han.md#颈项)】`jien3 han` 脖子  
 1. 【[颈项](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_han.md#颈项)】`jien3 han` <sup>[东台]</sup> 脖子。  
 1. 【[颈项](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_han.md#颈项)】`jien3 han` <sup>[泰县]</sup> 头颈。  
@@ -1099,7 +1098,7 @@
 1. 【[进宅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_cheh.md#进宅)】`jien5 cheh8` <sup>[如皋]</sup> 见“上园”。  
 1. 【[进宅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_cheh.md#进宅)】`jien5 cheh8` <sup>[如皋]</sup> 搬进新居。俗以马桶进房的时间为～。避讳“进贼”，有时会说“jien5 zheh7”。  
 1. 【[进宅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_cheh.md#进宅)】`jien5 cheh8` <sup>[兴化]</sup> 搬进新居：新屋落成，等你～，我俫去祝贺。  
-1. 【[进出气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_chueh_qi.md#进出气)】`jien5 chueh7 qi5` <sup>[如皋]</sup> 呼吸气。  
+1. 【[进出气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_chueh_qi.md#进出气)】`jien5 chueh7 qi5` <sup>[如皋]</sup> 呼吸气。又说“伸缩气”。  
 1. 【[进港](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gan.md#进港)】`jien5 gan3` <sup>[如东]</sup> 船只由外海或外地驶进港湾，叫做进港。  
 1. 【[进贡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gon.md#进贡)】`jien5 gon5` <sup>[东台]</sup> 给人（多指对上）送礼。  
 1. 【[进价](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_jia.md#进价)】`jien5 jia5` <sup>[如东]</sup> 购进商品时的价格。  
@@ -1114,7 +1113,6 @@
 1. 【[𠢱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien.md#𠢱)】`jien5` <sup>[兴化]</sup> 屏住气，憋足劲：小家伙要拉屎，浑身全～起来啊。《集韵·沁韵》巨禁切｜“～，用力也”。  
 1. 【[𠢱住啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_chv_a.md#𠢱住啊)】`jien5 chv a` <sup>[如皋]</sup> 强忍住：她～，不哭，不淌眼泪。  
 1. 【[𠢱住啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_chv_a.md#𠢱住啊)】`jien5 chv a, jien5 chv ga` <sup>[东台]</sup> 忍住，憋住：他耐心听对方讲，自己有话也～不说。  
-1. 【[尽头话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_teu_hua.md#尽头话)】`jien6 teu hua6` <sup>[兴化]</sup> 决绝的话：两口子都说咖～，恐怕再也好不起来啊。  
 1. 【[勼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu.md#勼)】`jieu1` <sup>[如东]</sup> 收缩：纸～啊。  
 1. 【[勼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu.md#勼)】`jieu1` <sup>[兴化]</sup> ① 皱缩：眉毛一～、嘴一鼓，一脸的苦像。 ② 不平整：衣装穿吖～啊在身上。  
 1. 【[勼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu.md#勼)】`jieu1` <sup>[泰县]</sup> ① 收缩：一听这句话他的脸就～起来啊。 ② 不平整：这张纸都捱他弄吖～啊。  

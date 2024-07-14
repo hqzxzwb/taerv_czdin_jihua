@@ -290,7 +290,7 @@
 1. 【[暗里黑里的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_lii_heh_lii_dii.md#暗里黑里的)】`un5 lii heh7 lii dii` <sup>[如皋]</sup> 见“暗里到黑里”。  
 1. 【[暗隆隆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_lon_lon.md#暗隆隆)】`un5 lon lon` <sup>[如东]</sup> 光线暗淡：外面～的。  
 1. 【[暗摸摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_mah_mah.md#暗摸摸)】`un5 mah8 mah8` <sup>[如东]</sup> 光线暗淡：家里～的  
-1. 【[暗门子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_men_zz.md#暗门子)】`un5 men1 zz` <sup>[兴化]</sup> 暗娼。  
+1. 【[暗门子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_men_zz.md#暗门子)】`un5 men2 zz` <sup>[兴化]</sup> 暗娼。  
 1. 【[暗木](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_moh.md#暗木)】`un5 moh8` <sup>[如皋]</sup> 墙内填的木材，有加固作用。  
 1. 【[暗木](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_moh.md#暗木)】`un5 moh8` <sup>[如东]</sup> 藏在墙体中间的木柱。  
 1. 【[暗吖下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_nga_ha.md#暗吖下)】`un5 nga ha` <sup>[如皋]</sup> 隐蔽着，不愿使公开。  

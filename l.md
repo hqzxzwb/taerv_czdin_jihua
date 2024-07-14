@@ -270,7 +270,6 @@
 1. 【[䐯膗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_shae.md#䐯膗)】`lae6 shae` <sup>[如东]</sup> ① 脏：这个地方非常～。 ② 说过的话不算数，不认账，耍赖。  
 1. 【[䐯膗胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_shae_hv_zz.md#䐯膗胡子)】`lae6 shae hv2 zz` <sup>[如皋]</sup> 络腮胡子。  
 1. 【[䐯膗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_shuae.md#䐯膗)】`lae6 shuae` <sup>[东台]</sup> 形容某物体量大得难看。  
-1. 【[瘌疮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_chuan.md#瘌疮)】`lae6 chuan1` <sup>[如皋]</sup> 见“蛀毛癣”。  
 1. 【[癞疤核桃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_ba_heh_to.md#癞疤核桃)】`lae6 ba heh8 to2` <sup>[兴化]</sup> ① 形容物体表面不光滑。 ② 衣物折皱太多：他把衣裳连吖身上睡觉，弄得～的。  
 1. 【[癞疤核桃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_ba_heh_to.md#癞疤核桃)】`lae6 ba heh8 to2` <sup>[泰县]</sup> 不光滑：地下～的。  
 1. 【[癞宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_bo.md#癞宝)】`lae6 bo` <sup>[如皋]</sup> 中华大蟾蜍。  
@@ -358,7 +357,7 @@
 1. 【[擸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh.md#擸)】`laeh8` <sup>[如皋]</sup> ① 磨：～麲子。 ② 拖带：跟吖后头～。 ③ 粗略地扫：把地～下子。 ④ 磨、擦：～洋火、皮捱～咖破啊。 ⑤ 磨炼：这几年他～出个人来呀。  
 1. 【[擸𢶍/儠𠎷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_saeh.md#擸𢶍/儠𠎷)】`laeh8 saeh` <sup>[如皋]</sup> 手段凶狠恶毒。  
 1. 【[瘌疤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_ba.md#瘌疤)】`laeh8 ba1` <sup>[如皋]</sup> 秃疮的疤痕，不长头髮。  
-1. 【[瘌疮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_chuan.md#瘌疮)】`laeh8 chuan1` <sup>[如皋]</sup> 秃疮，有银屑。  
+1. 【[瘌疮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_chuan.md#瘌疮)】`laeh8 chuan1` <sup>[如皋]</sup> 秃疮，有银屑。另见“蛀毛癣”。  
 1. 【[瘌花鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_hua_y.md#瘌花鱼)】`laeh8 hua1 y2` <sup>[如皋]</sup> 见“瘌子”。  
 1. 【[瘌皮<sub>儿</sub>疮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_pi_r_chuan.md#瘌皮<sub>儿</sub>疮)】`laeh8 pi2 r chuan1` <sup>[如皋]</sup> 见“瘌疮”。  
 1. 【[瘌骚猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_so_zhv.md#瘌骚猪)】`laeh8 so zhv1` <sup>[兴化]</sup> （喻）形容人极其肮脏：他作咖像个～。  
@@ -1892,7 +1891,6 @@
 1. 【[老把师](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ba_shr.md#老把师)】`lo3 ba5 shr1` <sup>[东台]</sup> 指某种行业里实践经验丰富的老把式。  
 1. 【[老八十](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_baeh_sheh.md#老八十)】`lo3 baeh7 sheh8` <sup>[如皋]</sup> 贬指的老年女性。有蛮缠的含义。  
 1. 【[老八太](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_baeh_tae.md#老八太)】`lo3 baeh7 tae5` <sup>[东台]</sup> 老年女子。  
-1. 【[老叭酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_baeh_jieu.md#老叭酒)】`lo3 baeh7 jieu3` <sup>[如东]</sup> 一种米酒，淡白色，浓度较低。  
 1. 【[老班](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_baen.md#老班)】`lo3 baen1` <sup>[如东]</sup> ① 长辈。 ② 前辈。  
 1. 【[老班](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_baen.md#老班)】`lo3 baen1` <sup>[如皋]</sup> 长辈、前辈。  
 1. 【[老班的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_baen_dii.md#老班的)】`lo3 baen1 dii` 长辈们  
@@ -1907,6 +1905,7 @@
 1. 【[老板老腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_baen_lo_qian.md#老板老腔)】`lo3 baen3 lo3 qian1` <sup>[如东]</sup> 装着很有架势地跟人说话：这个人一的，不好说话。  
 1. 【[老板奶奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_baen_nae_nae.md#老板奶奶)】`lo3 baen3 nae3 nae` <sup>[兴化]</sup> 老板的妻子。也称“老板娘子”。  
 1. 【[老剥皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_bah_pi.md#老剥皮)】`lo3 bah7 pi2` <sup>[兴化]</sup> ① 骂牲畜的话。 ② （戏）骂老而油滑的男子。  
+1. 【[老驳酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_bah_jieu.md#老驳酒)】`lo3 bah7 jieu3` <sup>[如东]</sup> 一种米酒，淡白色，浓度较低。  
 1. 【[老驳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_bah_zz.md#老驳子)】`lo3 bah7 zz` <sup>[如东]</sup> ① 陈旧的驳船。 ② 比喻老人或老年女人。  
 1. 【[老驳子酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_bah_zz_jieu.md#老驳子酒)】`lo3 bah7 zz jieu3` <sup>[如皋]</sup> 黄酒。  
 1. 【[老梆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ban.md#老梆)】`lo3 ban` <sup>[如东]</sup> ① 植物果实老熟：这些玉米都～吖。 ② 东西捆绑得很结实。  
@@ -2357,7 +2356,7 @@
 1. 【[六神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_shen.md#六神)】`loh8 shen2` <sup>[如东]</sup> 心、肺、肝、肾、脾、胆，称为六神。  
 1. 【[六神不安](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_shen_beh_un.md#六神不安)】`loh8 shen2 beh7 un1` <sup>[如东]</sup> 心神不定。  
 1. 【[六神不安](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_shen_beh_un.md#六神不安)】`loh8 shen2 beh7 un1` <sup>[东台]</sup> 同“肉神不安”。  
-1. 【[六神不安](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_shen_beh_un.md#六神不安)】`loh8 shen2 beh7 un2` <sup>[兴化]</sup> 形容心神慌乱，烦躁：伢儿又哭又闹，弄得人～的。  
+1. 【[六神不安](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_shen_beh_un.md#六神不安)】`loh8 shen2 beh7 un1` <sup>[兴化]</sup> 形容心神慌乱，烦躁：伢儿又哭又闹，弄得人～的。  
 1. 【[六神无主](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_shen_v_zhv.md#六神无主)】`loh8 shen2 v2 zhv3` <sup>[如东]</sup> 心情慌乱，没有主张：他急咖～。  
 1. 【[六扇门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_shin_men.md#六扇门)】`loh8 shin5 men2` <sup>[兴化]</sup> 官府、衙门的别称：“……俺在～里走动，若要没些本领，小弟如何敢在公门应役……”（《施公案》二）  
 1. 【[六书](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_shv.md#六书)】`loh8 shv1` <sup>[兴化]</sup> 一种演唱形式，由民间艺人五至七人，素衣围坐，自拉自唱，内容为民间故事，古代传奇等。犹京师之“乐子”，天津之“大鼓”或某些地方的“宣卷”。  
@@ -2710,7 +2709,6 @@
 1. 【[乱营](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_ien.md#乱营)】`lun6 ien2` <sup>[兴化]</sup> （喻）秩序混乱：迎会队伍一过，街上就像乱吖营。  
 1. 【[乱营](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_ien.md#乱营)】`lun6 ien2` <sup>[泰县]</sup> 秩序紊乱：这会场～。  
 1. 【[乱里把西的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_lii_ba_xi_dii.md#乱里把西的)】`lun6 lii ba3 xi1 dii` <sup>[如皋]</sup> 乱糟糟的。  
-1. 【[乱坟场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_men_chan.md#乱坟场)】`lun6 men chan2-3` <sup>[如皋]</sup> 无主坟场。  
 1. 【[乱吖营](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_nga_ien.md#乱吖营)】`lun6 nga ien2` <sup>[如皋]</sup> 指一定范围内，顿时大乱。  
 1. 【[乱吖营](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_nga_ien.md#乱吖营)】`lun6 nga ien2` <sup>[东台]</sup> 形容场面一片混乱。  
 1. 【[乱蓬蓬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_pon_pon.md#乱蓬蓬)】`lun6 pon1 pon1` <sup>[如皋]</sup> 状毛发纷乱、蓬乱状。  

@@ -964,7 +964,7 @@
 1. 【[新娘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_nian_zz.md#新娘子)】`xien1 nian zz` <sup>[如皋]</sup> ① 新娘。结婚三年内未生育者称。现刚结婚女子统称～。 ② 瓢虫。鞘翅目。  
 1. 【[新娘子房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_nian_zz_fan.md#新娘子房)】`xien1 nian zz fan2` <sup>[如皋]</sup> 新房，结婚的房间。  
 1. 【[新娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_nian.md#新娘)】`xien1 nian2` <sup>[如东]</sup> 刚结婚的女子。  
-1. 【[新娘子进吖房，媒人丢一旁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_nian_zz_jien_na_fan_mei_ren_dieu_ieh_pan.md#新娘子进吖房，媒人丢一旁)】`xien1 nian2 zz jien5 na fan2 mei2 ren2 dieu1 ieh7 pan2` <sup>[东台]</sup> 有事有人无事无人的势利心态。  
+1. 【[新娘子进吖房，媒人丢一旁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_nian_zz_jien.md#新娘子进吖房，媒人丢一旁)】`xien1 nian2 zz jien5 nga fan2 mei2 ren2 dieu1 ieh7 pan2` <sup>[东台]</sup> 有事有人无事无人的势利心态。  
 1. 【[新年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_nin.md#新年)】`xien1 nin2` <sup>[如东]</sup> 公历年，即元旦。也称阳历年。  
 1. 【[新年大头的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_nin_da_teu_dii.md#新年大头的)】`xien1 nin2 da6 teu2 dii` <sup>[如皋]</sup> 指春节间及刚过春节。  
 1. 【[新年头里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_nin_teu_lii.md#新年头里)】`xien1 nin2 teu2 lii` <sup>[如东]</sup> 春节期间。此时有许多规矩、禁忌，要说恭维话、发财话、长寿话，不说不吉利的话。例如，恭禧发财。  
