@@ -864,8 +864,10 @@
 1. 【[霉点子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_din_zz.md#霉点子)】`mei2 din3 zz` <sup>[兴化]</sup> 霉斑：大衣放吖橱子里生吖～。  
 1. 【[霉话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_hua.md#霉话)】`mei2 hua6` <sup>[兴化]</sup> 背兴的、过时的话：……大米饭含在嘴里，叫老天爷要饿死人……这是哪年的～呀！（马春阳《四十块钱》）  
 1. 【[霉绿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_loh.md#霉绿)】`mei2 loh8` <sup>[东台]</sup> 不了解外面的形势而作出的一种过时的判断：你真的是～咖，怎吖不看看大势？  
+1. 【[霉米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_mi.md#霉米)】`mei2 mi3` <sup>[如东]</sup> 受潮而发霉的大米。  
 1. 【[霉䤓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_mo.md#霉䤓)】`mei2 mo6` <sup>[东台]</sup> 因受潮长出霉菌。“䤓”读若“冒”。  
 1. 【[霉煞屌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_shaeh_dio.md#霉煞屌)】`mei2 shaeh7 dio3` <sup>[如东]</sup> 倒霉的人。  
+1. 【[霉煞鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_shaeh_guei.md#霉煞鬼)】`mei2 shaeh7 guei3` <sup>[如东]</sup> 倒霉的人。  
 1. 【[每年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_nin.md#每年)】`mei3 nin2` <sup>[东台]</sup> 年年，每一年。  
 1. 【[每天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_tin.md#每天)】`mei3 tin1` <sup>[东台]</sup> 天天，每一天。  
 1. 【[美差](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_chae.md#美差)】`mei3 chae1` <sup>[东台]</sup> 好的差事。  
@@ -878,8 +880,6 @@
 1. 【[美人<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_ren_r.md#美人<sub>儿</sub>)】`mei3 ren2 r` <sup>[兴化]</sup> 一种风筝，其形似女人的上半身。  
 1. 【[美味佳肴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_vei_jia_xio.md#美味佳肴)】`mei3 vei6 jia1 xio2` <sup>[东台]</sup> 美好的滋味，可口的食品。  
 1. 【[美味香甜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_vei_xian_tin.md#美味香甜)】`mei3 vei6 xian1 tin2` <sup>[兴化]</sup> ① 食物鲜美可口。 ② （喻）日子过得舒服：你小日子过得～的，何必出去乱闯㗁？  
-1. 【[霉米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_mi.md#霉米)】`mei3 mi3` <sup>[如东]</sup> 受潮而发霉的大米。  
-1. 【[霉煞鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_shaeh_guei.md#霉煞鬼)】`mei3 shaeh7 guei3` <sup>[如东]</sup> 倒霉的人。  
 1. 【[妹夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_fv.md#妹夫)】`mei6 fv1` <sup>[如东]</sup> 妹妹的丈夫。  
 1. 【[妹妹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_mei.md#妹妹)】`mei6 mei6` <sup>[如东]</sup> ① 同胞和亲戚中同辈而年龄比自己小的女予，称妹妹，也称妹子。根据 ② 血缘和亲属关系，分嫡亲妹妹、叔伯妹妹、堂妹妹、表妹妹。  
 1. 【[妹婿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_xy.md#妹婿)】`mei6 xy5` <sup>[如东]</sup> 妹妹的丈夫。  
