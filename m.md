@@ -1265,22 +1265,17 @@
 1. 【[民间](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_jiaen.md#民间)】`mien2 jiaen1` <sup>[如东]</sup> 劳动人民中间（与官方区别）。  
 1. 【[民田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_tin.md#民田)】`mien2 tin2` <sup>[如东]</sup> 旧时私人占有的土地。也称私田。民田向政府缴纳田赋。  
 1. 【[民校](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_xio.md#民校)】`mien2 xio6` <sup>[如东]</sup> 20世纪柏年代，中国共产党领导下的革命根据地里对青年实施教育的民办业余学校，包括夜校、识字班等。多数为初级小学程度，也有相当于高级小学程度的。除文化课外，特别重视时事政策、生产、军事、卫生等知识的学习。建国初期，大量兴起，每村都有一所，开展扫除文盲教育活动。60年代逐渐减少。  
-1. 【[抿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien.md#抿)】`mien3` <sup>[如东]</sup> 用手轻轻地压拢：把头发～下子。  
-1. 【[抿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien.md#抿)】`mien3` <sup>[东台]</sup> 紧闭：把锅盖盖～吖，热气才跑不掉｜（对小孩）赶快把嘴～起来，不要再哭！  
-1. 【[抿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien.md#抿)】`mien3` <sup>[兴化]</sup> ① 煮肉至烂无须齿嚼：一～下肚。 ② 缺齿者进食动作。  
 1. 【[抿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien.md#抿)】`mien3` <sup>[泰县]</sup> 合缝：门不～缝。  
 1. 【[抿缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_fon.md#抿缝)】`mien3 fon6` <sup>[如东]</sup> ① 缝隙密合。 ② 将缝隙填平、弥合：今朝船身开始～。  
+1. 【[抿缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_fon.md#抿缝)】`mien3 fon6` <sup>[如皋]</sup> 完全闭合。  
 1. 【[抿缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_fon.md#抿缝)】`mien3 fon6` <sup>[东台]</sup> 缝隙密合：这个砖墙加啊水泥就抿吖缝。  
 1. 【[抿一口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_ieh_keu.md#抿一口)】`mien3 ieh7 keu3` <sup>[如东]</sup> 用嘴唇轻轻地沾一下碗或杯子，略微喝一点儿：你先～。  
 1. 【[抿嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_jy.md#抿嘴)】`mien3 jy3` <sup>[如东]</sup> 嘴唇微微合拢：她～儿笑。  
 1. 【[抿嘴<sub>儿</sub>笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_jy_r_xio.md#抿嘴<sub>儿</sub>笑)】`mien3 jy3 r xio5` <sup>[如东]</sup> 微笑而不露牙齿。  
 1. 【[抿嘴<sub>儿</sub>笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_jy_r_xio.md#抿嘴<sub>儿</sub>笑)】`mien3 jy3 r xio5` <sup>[如皋]</sup> 扁唇笑。  
+1. 【[抿口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_keu.md#抿口)】`mien3 keu3` <sup>[如皋]</sup> 口部完全闭合：疮抿吖口｜坛子盖儿不～，容易走气。  
 1. 【[抿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_zz.md#抿子)】`mien3 zz` <sup>[兴化]</sup> 瓦工用砂浆勾墙缝的工具，由小铁棒做成，前端扁平。  
 1. 【[瞑目](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_moh.md#瞑目)】`mien3 moh8` <sup>[东台]</sup> 闭眼：死不～。  
-1. 【[脗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien.md#脗)】`mien3` <sup>[如皋]</sup> ① 完全闭合：把锅盖盖啊～吖。 ② 稍饮：～吖一点儿酒。  
-1. 【[脗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien.md#脗)】`mien3` <sup>[兴化]</sup> 吻合、无缝隙：口子～起来。《正字通》｜“～，音敏。”又读吻。《庄子·齐物论》｜“为其合脗，置其滑涽，以隶相尊”。  
-1. 【[脗缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_fon.md#脗缝)】`mien3 fon6` <sup>[如皋]</sup> 完全闭合。  
-1. 【[脗口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_keu.md#脗口)】`mien3 keu3` <sup>[如皋]</sup> 口部完全闭合：疮脗吖口；坛子盖儿不～，容易走气。  
 1. 【[命大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_da.md#命大)】`mien6 da6` <sup>[东台]</sup> 命运好；幸运；难死：算你～，逃过啊这一劫。  
 1. 【[命根头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_gen_teu_zz.md#命根头子)】`mien6 gen1 teu2 zz` <sup>[如皋]</sup> 昵称最疼爱的晚辈或物件：爷娘家侄子，～；这条波斯绒毛狗是他的～。  
 1. 【[命根子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_gen_zz.md#命根子)】`mien6 gen1 zz` <sup>[如东]</sup> ① 自己的生命。比喻心爱的子孙。 ② 比喻最重要的事物。  
