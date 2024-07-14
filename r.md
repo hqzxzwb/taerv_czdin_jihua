@@ -693,8 +693,8 @@
 1. 【[闰鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ruen_y.md#闰鱼)】`ruen6 y2` <sup>[如皋]</sup> 长须鲸。哺乳纲，鲸目。旧传闰年可在南黄海出现。  
 1. 【[闰鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ruen_y.md#闰鱼)】`ruen6 y2` <sup>[如东]</sup> 传说海洋中的一种大鱼，在海洋中犯了罪，龙王给予惩罚。每逢闰年，闰几月，就有几条鱼送上沙滩。  
 1. 【[软而敉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_er_mei.md#软而敉)】`run er mei2` <sup>[兴化]</sup> 形容人态度温和，语言谦卑：他是个～，丑话经他一说就圆范吖。  
+1. 【[软巴拉哈的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_ba_la_ha_dii.md#软巴拉哈的)】`run3 ba la1 ha1 dii` <sup>[如皋]</sup> 手感软而难抓摸，不适。  
 1. 【[软巴拉西的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_ba_la_xi_dii.md#软巴拉西的)】`run3 ba la1 xi1 dii` <sup>[如皋]</sup> 见“软巴拉哈的”。  
-1. 【[软巴拉哈的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_ba_la_ha_dii.md#软巴拉哈的)】`run3 ba la2 ha1 dii` <sup>[如皋]</sup> 手感软而难抓摸，不适。  
 1. 【[软巴蛋汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_ba_taen_tan.md#软巴蛋汤)】`run3 ba taen6 tan1` <sup>[东台]</sup> ［喻］软弱无力。也称“软面淡汤”。  
 1. 【[软巴拉哈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_ba_la_ha.md#软巴拉哈)】`run3 ba1 la1 ha1` <sup>[如东]</sup> 比较柔软：树枝～的，不好抓。  
 1. 【[软宝盖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_bo_gae.md#软宝盖)】`run3 bo3 gae5` <sup>[如皋]</sup> （冖）：写军冠。  

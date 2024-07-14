@@ -1379,7 +1379,7 @@
 1. 【[荫棚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_pon.md#荫棚)】`ien1 pon2` <sup>[如皋]</sup> 遮强阳光的棚。  
 1. 【[阴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien.md#阴)】`ien1` <sup>[如皋]</sup> ① 内向性格：他性格～，同他做块儿一天说不到一句话。 ② 状冷、暗、极静的环境：这地方～魆魆的，不能蹾人。  
 1. 【[阴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien.md#阴)】`ien1` <sup>[如东]</sup> 本人的意图隐藏不露，叫做阴：这个人～。  
-1. 【[阴巴拉下的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_ba_la_ha_dii.md#阴巴拉下的)】`ien1 ba la2 ha dii` <sup>[如皋]</sup> 一种阴险、讥讽的态度、口气。  
+1. 【[阴巴拉哈的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_ba_la_ha_dii.md#阴巴拉哈的)】`ien1 ba la1 ha1 dii` <sup>[如皋]</sup> 一种阴险、讥讽的态度、口气。  
 1. 【[阴摆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_bae_zz.md#阴摆子)】`ien1 bae3 zz` <sup>[兴化]</sup> ① 夜间发的疟疾。 ② 骂人的话：打～的！  
 1. 【[阴八鬼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_baeh_guei_r.md#阴八鬼<sub>儿</sub>)】`ien1 baeh7 guei3 r` <sup>[兴化]</sup> 形容人阴损：他是个～，晚上看吖人朝河里踵（chon5）也不则声。  
 1. 【[阴八间](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_baeh_jiaen.md#阴八间)】`ien1 baeh7 jiaen1` <sup>[泰县]</sup> 看着人做错事不劝说：这家伙是个～。  

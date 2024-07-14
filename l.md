@@ -80,35 +80,33 @@
 1. 【[拉债](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_zhae.md#拉债)】`la1 zhae5` <sup>[兴化]</sup> 借债：为啊子女上学，逼住啊去～。  
 1. 【[拉账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_zhan.md#拉账)】`la1 zhan5` <sup>[如东]</sup> 欠账。  
 1. 【[辣蓼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_lio.md#辣蓼)】`la1 lio6` <sup>[如皋]</sup> 水蓼。俗又称扫帚苗儿（地肤）。  
-1. 【[拉揢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ka.md#拉揢)】`la2 ka5` <sup>[如东]</sup> 体积太大，笨俗：这张柜～，两个人也搬不动。  
-1. 【[拉薄屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_pah_shr.md#拉薄屎)】`la2 pah8 shr3` <sup>[如东]</sup> 排泄稀大便。  
-1. 【[拉肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_roh.md#拉肉)】`la2 roh8` <sup>[如东]</sup> 说人排出来的大便是肉，这是咒骂人的话。  
-1. 【[拉涎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_saen.md#拉涎)】`la2 saen2` 流口水  
-1. 【[拉涎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_saen.md#拉涎)】`la2 saen2` <sup>[如东]</sup> 流口水。  
-1. 【[拉涎宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_saen_bo_r.md#拉涎宝<sub>儿</sub>)】`la2 saen2 bo3 r` <sup>[如东]</sup> 经常拉口水的小儿。  
-1. 【[拉屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_shr.md#拉屎)】`la2 shr3` <sup>[如东]</sup> 排泄大便。比喻办事拖拉，不彻底。  
-1. 【[拉屎蹦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_shr_bon.md#拉屎蹦)】`la2 shr3 bon5` <sup>[如东]</sup> 走路时两脚向外张开的姿势。  
-1. 【[拉屎猫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_shr_mo_r.md#拉屎猫<sub>儿</sub>)】`la2 shr3 mo2 r` <sup>[如东]</sup> ① 比喻邋遢。 ② 做事不干净，不利索。  
-1. 【[拉屎搨酱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_shr_taeh_jian.md#拉屎搨酱)】`la2 shr3 taeh7 jian5` <sup>[如东]</sup> 形容事情做得不清爽，不整齐：他俫弄的一块地，～的。  
-1. 【[拉屎星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_shr_xien.md#拉屎星)】`la2 shr3 xien1` 流星  
-1. 【[拉屎星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_shr_xien.md#拉屎星)】`la2 shr3 xien1` <sup>[如东]</sup> 流星。  
-1. 【[拉尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_xy.md#拉尿)】`la2 xy1` <sup>[如东]</sup> 尿床。  
-1. 【[拉尿宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_xy_bo_r.md#拉尿宝<sub>儿</sub>)】`la2 xy1 bo3 r` <sup>[如东]</sup> 尿床的小孩。  
+1. 【[□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ka.md#□□)】`la2 ka5` <sup>[如东]</sup> 体积太大，笨俗：这张柜～，两个人也搬不动。  
 1. 【[漓啊沗掉啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_a_pan_tio_a.md#漓啊沗掉啊)】`la2 a pan5 tio a` <sup>[如皋]</sup> 戏称尿床。  
 1. 【[漓㞎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ba.md#漓㞎)】`la2 ba3` <sup>[如皋]</sup> 大便失禁。  
 1. 【[漓㞎佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ba_lo_r.md#漓㞎佬<sub>儿</sub>)】`la2 ba3 lo3 r` <sup>[如皋]</sup> 指经常大便失禁的小孩。  
+1. 【[漓薄屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_pah_shr.md#漓薄屎)】`la2 pah8 shr3` <sup>[如东]</sup> 排泄稀大便。  
 1. 【[漓鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_pieh_zz.md#漓鼻子)】`la2 pieh8 zz` <sup>[如皋]</sup> 流鼻涕。  
 1. 【[漓清水鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_qien_shuei_pieh_zz.md#漓清水鼻子)】`la2 qien1 shuei3 pieh8 zz` <sup>[如皋]</sup> 滴水样鼻涕。  
+1. 【[漓肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_roh.md#漓肉)】`la2 roh8` <sup>[如东]</sup> 说人排出来的大便是肉，这是咒骂人的话。  
+1. 【[漓涎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_saen.md#漓涎)】`la2 saen2` <sup>[如东]</sup> 流口水。  
 1. 【[漓涎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_saen.md#漓涎)】`la2 saen2` <sup>[如皋]</sup> 不白觉地流出口水。  
+1. 【[漓涎宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_saen_bo_r.md#漓涎宝<sub>儿</sub>)】`la2 saen2 bo3 r` <sup>[如东]</sup> 经常拉口水的小儿。  
 1. 【[漓涎宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_saen_bo_r.md#漓涎宝<sub>儿</sub>)】`la2 saen2 bo3 r` <sup>[如皋]</sup> 嘲笑用语。指经常不自觉地流出口水的人。  
+1. 【[漓屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_shr.md#漓屎)】`la2 shr3` <sup>[如东]</sup> 排泄大便。比喻办事拖拉，不彻底。  
 1. 【[漓屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_shr.md#漓屎)】`la2 shr3` <sup>[如皋]</sup> 大便。  
 1. 【[漓屎宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_shr_bo_r.md#漓屎宝<sub>儿</sub>)】`la2 shr3 bo3 r` <sup>[如皋]</sup> 见“漓㞎佬儿”。  
+1. 【[漓屎蹦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_shr_bon.md#漓屎蹦)】`la2 shr3 bon5` <sup>[如东]</sup> 走路时两脚向外张开的姿势。  
+1. 【[漓屎猫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_shr_mo_r.md#漓屎猫<sub>儿</sub>)】`la2 shr3 mo2 r` <sup>[如东]</sup> ① 比喻邋遢。 ② 做事不干净，不利索。  
 1. 【[漓屎猫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_shr_mo_r.md#漓屎猫<sub>儿</sub>)】`la2 shr3 mo2 r` <sup>[如皋]</sup> ① 大便多而稀的病猫儿。 ② 指不整洁、形象猥琐的人。  
 1. 【[漓屎猫<sub>儿</sub>形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_shr_mo_r_xien.md#漓屎猫<sub>儿</sub>形)】`la2 shr3 mo2 r xien2` <sup>[如皋]</sup> 指不整洁、形象猥琐的样子。  
+1. 【[漓屎搨酱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_shr_taeh_jian.md#漓屎搨酱)】`la2 shr3 taeh7 jian5` <sup>[如东]</sup> 形容事情做得不清爽，不整齐：他俫弄的一块地，～的。  
 1. 【[漓屎搨酱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_shr_taeh_jian.md#漓屎搨酱)】`la2 shr3 taeh7 jian5` <sup>[如皋]</sup> 大便失禁，并且涂搨开来。  
+1. 【[漓屎星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_shr_xien.md#漓屎星)】`la2 shr3 xien1` <sup>[如东]</sup> 流星。  
 1. 【[漓屎星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_shr_xien.md#漓屎星)】`la2 shr3 xien1` <sup>[如皋]</sup> 流星。  
 1. 【[漓黄龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_van_lon.md#漓黄龙)】`la2 van2 lon2` <sup>[如皋]</sup> 流鼻涕。  
+1. 【[漓尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_xy.md#漓尿)】`la2 xy1` <sup>[如东]</sup> 尿床。  
 1. 【[漓尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_xy.md#漓尿)】`la2 xy1` <sup>[如皋]</sup> 尿床，排尿失禁。  
+1. 【[漓尿宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_xy_bo_r.md#漓尿宝<sub>儿</sub>)】`la2 xy1 bo3 r` <sup>[如东]</sup> 尿床的小孩。  
 1. 【[漓尿宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_xy_bo_r.md#漓尿宝<sub>儿</sub>)】`la2 xy1 bo3 r` <sup>[如皋]</sup> ① 嘲笑用语。指经常尿床的人，主要指小孩。 ② 大蓑蛾的幼虫，藏在用叶、柄裹成的长椎形茧中，挂在树枝上。  
 1. 【[哪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la.md#哪)】`la3` <sup>[如东]</sup> 疑问代词。  
 1. 【[哪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la.md#哪)】`la3` <sup>[泰县]</sup> 难道，哪里：这事～是我做的？  
