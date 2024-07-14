@@ -388,7 +388,6 @@
 1. 【[揉心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reu_xien.md#揉心)】`reu2 xien1` <sup>[兴化]</sup> 反复折腾。见“揉命”。  
 1. 【[揉心命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reu_xien_mien.md#揉心命)】`reu2 xien1 mien6` <sup>[兴化]</sup> 惯于操心劳碌，常为小事寝食不安：她是个～，儿子出趟差，能够折腾几夜睡不着。  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reu.md#□)】`reu5` <sup>[泰县]</sup> 不随和、固执。  
-1. 【[热汤汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_tan_tan.md#热汤汤)】`rih7 tan1 tan1` <sup>[泰县]</sup> 热乎平：这碗面～的，你快点儿吃。  
 1. 【[日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih.md#日)】`rih8` <sup>[如东]</sup> ① 太阳：～出 ② 从天亮到天黑的一段时间：～班。地球自转一周的时间；一昼夜。  
 1. 【[日邦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_ban.md#日邦)】`rih8 ban1` <sup>[泰县]</sup> 民间固定航线白天开的客船。  
 1. 【[日不做夜摸索](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_beh_zu_ia_mah_sah.md#日不做夜摸索)】`rih8 beh7 zu5 ia6 mah8 sah7` <sup>[东台]</sup> 不善于掌握时间，白天能完成的工作要拖到晚上来做。  
@@ -480,6 +479,7 @@
 1. 【[热说](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_shuh.md#热说)】`rih8 shuh7` <sup>[泰县]</sup> 没有根据地乱说。  
 1. 【[热汤汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_tan_tan.md#热汤汤)】`rih8 tan tan1` <sup>[兴化]</sup> 热乎乎：～的包子不吃，你想吃甚的？｜那厨房却在外面，那～的燕窝、海参，一碗碗在跟前捧过去……（《儒林外史》十四）也作“热烫烫”。  
 1. 【[热汤汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_tan_tan.md#热汤汤)】`rih8 tan1 tan1` <sup>[泰县]</sup> 很熟。  
+1. 【[热汤汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_tan_tan.md#热汤汤)】`rih8 tan1 tan1` <sup>[泰县]</sup> 热乎平：这碗面～的，你快点儿吃。  
 1. 【[热汤汤的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_tan_tan_dii.md#热汤汤的)】`rih8 tan1 tan1 dii` <sup>[如皋]</sup> 物之温暖，情之温暖：他一回到家，就能捧到～饭碗。  
 1. 【[热堂堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_tan_tan.md#热堂堂)】`rih8 tan2-1 tan2-1` <sup>[东台]</sup> 热乎乎的。  
 1. 【[热烫烫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_tan_tan.md#热烫烫)】`rih8 tan5 tan5` <sup>[如东]</sup> 温度比较高：这碗粉丝～的，快点儿吃吧。  
