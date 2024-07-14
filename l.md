@@ -117,8 +117,7 @@
 1. 【[哪对过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_duei_gu.md#哪对过)】`la3 duei5 gu5` <sup>[如东]</sup> ① 什么地方：东西放吖～？ ② 什么地方的对面。  
 1. 【[哪家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ga.md#哪家)】`la3 ga` <sup>[兴化]</sup> 问谁人、谁家：这是～的规矩？｜这是～的小大爷？  
 1. 【[哪个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_gu.md#哪个)】`la3 gu` <sup>[泰县]</sup> 谁：他是～？  
-1. 【[哪个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_gu.md#哪个)】`la3 gu3` 谁  
-1. 【[哪个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_gu.md#哪个)】`la3 gu5` <sup>[如东]</sup> 哪一个。  
+1. 【[哪个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_gu.md#哪个)】`la3 gu5, la3 gu5-3` 谁  
 1. 【[哪个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_gu.md#哪个)】`la3 gu5` <sup>[如皋]</sup> 哪一个、谁。  
 1. 【[哪个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_gu.md#哪个)】`la3 gu5` <sup>[如东]</sup> ① 哪一个：你说的是～？ ② 谁。  
 1. 【[哪个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_gu.md#哪个)】`la3 gu5` <sup>[兴化]</sup> ① 问谁：这是～说的？ ② 虚指或任指：到啊庄上，认不得～？  

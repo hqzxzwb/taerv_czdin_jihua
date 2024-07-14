@@ -1225,7 +1225,7 @@
 1. 【[一庹长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_tah_chan.md#一庹长)】`ieh7 tah7 chan2` <sup>[东台]</sup> 成人两臂左右平伸时两手之间的距离，约合五尺。  
 1. 【[一头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_teu.md#一头)】`ieh7 teu` <sup>[兴化]</sup> 正在：我～说，他马上就来，你覅急。｜他～开门，外边就等不洎啊。  
 1. 【[一头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_teu.md#一头)】`ieh7 teu` <sup>[泰兴]</sup> ① 表示一个动作和另一个动作同时进行：这小猴子打那虔婆不过，～哭，～走，～街上捡梨儿。（《金瓶梅词话》第5回）｜我佼～走～谈吧 ② 正在  
-1. 【[一头个的来（上/去）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_teu_gu_dii_lae.md#一头个的来（上/去）)】`ieh7 teu gu3 dii lae2` <sup>[如皋]</sup> 一个一个的依次序的来，不乱。  
+1. 【[一头个的来（上/去）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_teu_gu_dii_lae.md#一头个的来（上/去）)】`ieh7 teu gu9 dii lae2` <sup>[如皋]</sup> 一个一个的依次序的来，不乱。  
 1. 【[一头嘴的来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_teu_jy_dii_lae.md#一头嘴的来)】`ieh7 teu jy3 dii lae2` <sup>[如皋]</sup> 见“犟嘴”。  
 1. 【[一头嘴的来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_teu_jy_dii_lae.md#一头嘴的来)】`ieh7 teu jy3 dii lae2` <sup>[如皋]</sup> 争执，互相针锋相对，毫不相让。  
 1. 【[一头嘴的骂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_teu_jy_dii_ma.md#一头嘴的骂)】`ieh7 teu jy3 dii ma6` <sup>[如皋]</sup> 见“一头嘴的来”。  
@@ -1646,9 +1646,9 @@
 1. 【[油布伞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_bv_saen.md#油布伞)】`ieu2 bv5 saen3` <sup>[如皋]</sup> 本伞。竹架，棉布面，涂豆腐以闭布眼，用桐油油，笨重，但挡雨，抗风力强。  
 1. 【[油菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_cae.md#油菜)】`ieu2 cae5` <sup>[如东]</sup> 十字花科植物油菜，一年生或二年生草本。高约1米。基生叶及下部茎生叶呈琴状分裂，茎中部及上部叶倒卵状椭圆形。疏散的总状花序。花鲜黄色。长角果。种子多数，黑色或暗红褐色，亦有黄色，圆球形。田间种植。  
 1. 【[油菜子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_cae_zz.md#油菜子)】`ieu2 cae5 zz` <sup>[如东]</sup> 十字花科植物油菜子。  
-1. 【[油炸豆腐——皮硬肚子空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_chaeh_teu_fv_pi_ngen_dv_zz_kon.md#油炸豆腐——皮硬肚子空)】`ieu2 chaeh8 teu6 fv pi2 ngen6 dv3 zz kon1` <sup>[东台]</sup>   
 1. 【[油煠鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_chaeh_guei.md#油煠鬼)】`ieu2 chaeh8 guei3` <sup>[兴化]</sup> 油条，旧称“油煠桧”，相传民间为诅咒南宋奸相秦桧夫妇而作的食品。  
 1. 【[油煠桧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_chaeh_huei.md#油煠桧)】`ieu2 chaeh8 huei5` <sup>[东台]</sup> 一种油炸的面食，后有指为油条的。其实是人们借此物表示痛恨秦桧的情感。  
+1. 【[油煠豆腐——皮硬肚子空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_chaeh_teu_fv.md#油煠豆腐——皮硬肚子空)】`ieu2 chaeh8 teu6 fv pi2 ngen6 dv3 zz kon1` <sup>[东台]</sup>   
 1. 【[油抽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_cheu_zz.md#油抽子)】`ieu2 cheu1 zz` <sup>[如皋]</sup> 手拉式抽油器一根铁管，中有活塞，侧有出油嘴。  
 1. 【[油槽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_co.md#油槽)】`ieu2 co2` <sup>[如东]</sup> 油榨下面的槽沟，榨出的油由此流出。  
 1. 【[油糍<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_cz_r.md#油糍<sub>儿</sub>)】`ieu2 cz2 r` <sup>[如东]</sup> 用油煎的糯米饼。  

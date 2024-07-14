@@ -577,11 +577,11 @@
 1. 【[插子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaeh_zz.md#插子)】`chaeh7 zz` <sup>[如东]</sup> ① 房屋明间大门两侧的小间，或在前墙外侧增建一间，称插子。 ② 衣料上补加的部分，称插子：打个～。  
 1. 【[插子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaeh_zz.md#插子)】`chaeh7 zz` <sup>[东台]</sup> 农村里对厕所蹲坑的俗称。一个蹲位即一个～。  
 1. 【[臿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaeh.md#臿)】`chaeh7` <sup>[如皋]</sup> 用碓臼略舂，以打去粮食上的包裹物和泥灰：～大麦皮。  
-1. 【[炸馒头干<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaeh_mun_teu_gun_r.md#炸馒头干<sub>儿</sub>)】`chaeh8 mun2 teu gun1 r` <sup>[如皋]</sup> 油炸馒头片。  
 1. 【[煠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaeh.md#煠)】`chaeh8` <sup>[如东]</sup> 一种烹调方法。把食物放在沸油中煎熟：～馓子。  
 1. 【[煠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaeh.md#煠)】`chaeh8` <sup>[东台]</sup> 油煎。（读若闸）烹调方法，把食物放在煮沸的油锅里炸：～花生｜～肉皮。  
 1. 【[煠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaeh.md#煠)】`chaeh8` <sup>[兴化]</sup> 油炸：油～臭干儿｜～春卷。  
 1. 【[煠糊饺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaeh_hv_jio.md#煠糊饺)】`chaeh8 hv2 jio3` <sup>[如东]</sup> 糕点的一种。面粉经过发醣，做成饺子，放在油中炸熟。  
+1. 【[煠馒头干<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaeh_mun_teu_gun_r.md#煠馒头干<sub>儿</sub>)】`chaeh8 mun2 teu gun1 r` <sup>[如皋]</sup> 油炸馒头片。  
 1. 【[铡草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaeh_co.md#铡草)】`chaeh8 co3` <sup>[如东]</sup> 用铡刀把草切断。  
 1. 【[铡刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaeh_do.md#铡刀)】`chaeh8 do1` <sup>[如东]</sup> 工具。在长条形的木槽里安一把切刀，切刀的一头固定，另一头有柄，可以上下活动，用以切草或其他东西。  
 1. 【[闸别](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaeh_bih.md#闸别)】`chaeh8 bih7-bei` <sup>[东台]</sup> 随即，像水到闸门一样立即转向：他听说母亲生病住院，～就丢下手中事务，直奔医院。  
