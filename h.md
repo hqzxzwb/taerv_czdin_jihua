@@ -1693,7 +1693,6 @@
 1. 【[㩓鞭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_bin_zz.md#㩓鞭子)】`huae3 bin1 zz` <sup>[东台]</sup> 用力挥动鞭子。  
 1. 【[㩓掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_tio.md#㩓掉)】`huae3 tio` <sup>[东台]</sup> 甩掉：把手上的泥～！  
 1. 【[拻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae.md#拻)】`huae3` <sup>[兴化]</sup> 打：再调皮～他的筋。｜他再在外头瞎说八道的，～他的嘴巴子。《集韵·灰韵》呼回切｜“～，相击也”。（声调不合）  
-1. 【[坏名](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_mien.md#坏名)】`huae5 mien2` <sup>[如皋]</sup> ① 绰号。 ② 坏的名声。  
 1. 【[坏兆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_cho.md#坏兆)】`huae6 cho6` <sup>[兴化]</sup> 不好的兆头：“……二柱是黄鼠狼养在鸡窝里，～！”（马春阳《两个小社员》）  
 1. 【[坏讼子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_con_zz.md#坏讼子)】`huae6 con5 zz` <sup>[如皋]</sup> 出坏主意的人。讼，邪母字，同从母。  
 1. 【[坏瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_gua.md#坏瓜)】`huae6 gua1` <sup>[兴化]</sup> （借）专出坏主意，专门对人施暗算的人：～主意。  
@@ -1701,6 +1700,7 @@
 1. 【[坏规矩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_guei_jy.md#坏规矩)】`huae6 guei1 jy` <sup>[如皋]</sup> 破坏原有的规矩：我在你家就听你的，不～。  
 1. 【[坏讲究](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_jian_jieu.md#坏讲究)】`huae6 jian3 jieu` <sup>[兴化]</sup> 指目前很难治愈的疾病：他得的～，连上海的大医院都回下来啊。  
 1. 【[坏讲究](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_jian_jieu.md#坏讲究)】`huae6 jian3 jieu` <sup>[泰县]</sup> 疟疾：他有～。  
+1. 【[坏名](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_mien.md#坏名)】`huae6 mien2` <sup>[如皋]</sup> ① 绰号。 ② 坏的名声。  
 1. 【[坏名](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_mien.md#坏名)】`huae6 mien2` <sup>[东台]</sup> 别人给起的诨名、绰号（多含贬义）。  
 1. 【[坏毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_mo.md#坏毛)】`huae6 mo2` <sup>[如东]</sup> ① 出坏主意的人。 ② 不好的家伙：她是一个大～。  
 1. 【[坏毛病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_mo_pien.md#坏毛病)】`huae6 mo2 pien6` <sup>[如东]</sup> 不好的习惯：他有随地吐痰的～，一定要改掉。  

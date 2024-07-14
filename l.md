@@ -1080,7 +1080,7 @@
 1. 【[离尸离𣝗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_shr_li_hueh.md#离尸离𣝗)】`li2 shr1 li2 hueh8` <sup>[如东]</sup> 分离：两根木头～的，怎吖放东西。  
 1. 【[离尸离活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_shr_li_huh.md#离尸离活)】`li2 shr1 li2 huh8` <sup>[如东]</sup> 不灵活，不得力：做活计技～的，怎吖能跟趟。  
 1. 【[篱笆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_ba.md#篱笆)】`li2 ba1` <sup>[如东]</sup> 用芦苇、竹子或树枝等编成的栏栅，放在房屋或场园周围。  
-1. 【[篱笆匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_ba_qian.md#篱笆匠)】`li2 ba1 qian8` <sup>[如东]</sup> 建造和修理茅屋的小手工业者。  
+1. 【[篱笆匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_ba_qian.md#篱笆匠)】`li2 ba1 qian6` <sup>[如东]</sup> 建造和修理茅屋的小手工业者。  
 1. 【[篱笆嶂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_ba_zhan.md#篱笆嶂)】`li2 ba1 zhan5` <sup>[如东]</sup> 芦苇编成的建筑材料，长方形，覆盖在茅屋的顶面上或竖立在房屋周围做墙壁。  
 1. 【[娌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li.md#娌)】`li3` <sup>[东台]</sup> 弟之妻谓之～：妯～（兄弟之妻的合称）。  
 1. 【[李树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_shv.md#李树)】`li3 shv6` <sup>[如东]</sup> 蔷薇科植物李树，落叶乔木。  
@@ -1835,7 +1835,7 @@
 1. 【[捞网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_van.md#捞网)】`lo2 van3` <sup>[如东]</sup> ① 一种捕鱼网具。扇形，前宽后狭，网口宽2.4米，网尾宽1.2米。网的后边有一个网兜。网线细，网眼密。网的两边缚在两根呈人字形的竹竿上。 ② 一种捕捞方式。渔民将网放在水中很快地向前推动，捕捉蟹、虾及鱼，叫做捞网。  
 1. 【[捞虾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_xia.md#捞虾)】`lo2 xia1` <sup>[如东]</sup> 一种捕捞方式。涨潮时，渔民迎着潮头，用捞网在港汊中迅速地向前推动，从而把虾兜进网袋。  
 1. 【[捞鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_y.md#捞鱼)】`lo2 y2` <sup>[如东]</sup> 一种捕捞方式。涨潮时，渔民迎着潮头，用捞网在港汊中迅速地向前推动，从而把鱼兜进网袋。  
-1. 【[捞鱼摸虾，势误庄稼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_y_mah_xia_shr_v_zhuan_jia.md#捞鱼摸虾，势误庄稼)】`lo2 y2 mah8 xia1 shr5 v6 zhuan1 jia1` <sup>[如皋]</sup> 干杂事虽获小利，但耽误了庄稼。  
+1. 【[捞鱼摸虾，势误庄稼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_y_mah_xia_shr_v_zhuan_jia.md#捞鱼摸虾，势误庄稼)】`lo2 y2 mah8 xia1 shr5 v6 zhuan1 jia` <sup>[如皋]</sup> 干杂事虽获小利，但耽误了庄稼。  
 1. 【[捞债𧒘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_zhae_vae_r.md#捞债𧒘<sub>儿</sub>)】`lo2 zhae5 vae1 r` <sup>[如东]</sup> 欠人家的钱：我家还空不少～唻。  
 1. 【[牢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo.md#牢)】`lo2` <sup>[如皋]</sup> 牢固、结实：房子起得～；人～物～。  
 1. 【[牢饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_faen.md#牢饭)】`lo2 faen6` <sup>[兴化]</sup> ① 在监狱中服刑者吃的饭食：拿～。 ② 对饭食的贬义说法：曹操越想越怄。～没有吃得成，险些把老命送掉了。（《火烧赤壁》九）‖也作“牢食”。  
@@ -1951,7 +1951,7 @@
 1. 【[老大哥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_da_gu.md#老大哥)】`lo3 da6 gu1` <sup>[如皋]</sup> 土气十足的人。  
 1. 【[老大哥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_da_gu.md#老大哥)】`lo3 da6 gu1` <sup>[如皋]</sup> ① 尊称兄长。尊称友人（男性）。 ② 贬称农民。源自“农民老大哥”一词。  
 1. 【[老呆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_dae.md#老呆)】`lo3 dae1` <sup>[如皋]</sup> 老，副词，指礼让不争或不想相争的人。  
-1. 【[老爹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_dai.md#老爹)】`lo3 dai1` <sup>[如东]</sup> ① 对父亲的称谓。 ② 年老的妇女对丈夫的称呼。 ③ 对老年男子的尊称。  
+1. 【[老爹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_dia.md#老爹)】`lo3 dai1` <sup>[如东]</sup> ① 对父亲的称谓。 ② 年老的妇女对丈夫的称呼。 ③ 对老年男子的尊称。  
 1. 【[老驐牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_den_ngeu.md#老驐牛)】`lo3 den1 ngeu2` <sup>[东台]</sup> 形容缺乏朝气，动作慢吞吞的人。  
 1. 【[老等](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_den.md#老等)】`lo3 den3` <sup>[兴化]</sup> 鹭鸶的俗称。  
 1. 【[老等](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_den.md#老等)】`lo3 den3` <sup>[兴化]</sup> 鸬鹚，鹭鸶。  

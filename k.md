@@ -642,7 +642,7 @@
 1. 【[靠实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_sheh.md#靠实)】`ko5 sheh8` <sup>[兴化]</sup> ① 牢靠：和人打交道要～，不要说空话。 ② 切合实际：做农民的要求不高，想事办事都～。（钱国怀《儿子中专毕业》）  
 1. 【[靠身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_shen.md#靠身)】`ko5 shen1` <sup>[如东]</sup> ① 贴身：穿这件衣服～。 ② 可以依靠的人：王老太有啊～。  
 1. 【[靠身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_shen.md#靠身)】`ko5 shen1` <sup>[如皋]</sup> 见“蠚身”。  
-1. 【[靠心短助](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_xien_dun_leh.md#靠心短助)】`ko5 xien1 dun3 leh8` <sup>[泰县]</sup> 猪靠心的肉。  
+1. 【[靠心短肋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_xien_dun_leh.md#靠心短肋)】`ko5 xien1 dun3 leh8` <sup>[泰县]</sup> 猪靠心的肉。  
 1. 【[靠资](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_zz.md#靠资)】`ko5 zz1` <sup>[如皋]</sup> 沾光。  
 1. 【[靠资](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_zz.md#靠资)】`ko5 zz1` <sup>[东台]</sup> ① 吃白食：这两天家属外出，我就到姐姐家～。 ② 沾光：要自力更生，不要老想吖去别人那块～。  
 1. 【[靠资](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_zz.md#靠资)】`ko5 zz1` <sup>[泰县]</sup> 沾光：今朝他又来～。  

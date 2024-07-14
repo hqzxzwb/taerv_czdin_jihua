@@ -302,7 +302,6 @@
 1. 【[宁同讲理的打场官司，不同不讲理的谈句家常](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen_ton_jian_li_dii_da_chan_gun_sz_beh_ton_beh_jian_li_dii_taen_jy_ga_chan.md#宁同讲理的打场官司，不同不讲理的谈句家常)】`nen6 ton2 jian3 li3 dii da3 chan2 gun1 sz1 beh7 ton2 beh7 jian3 li3 dii taen2 jy5 ga1 chan2` <sup>[东台]</sup> 交往要选准对象。  
 1. 【[宁断不弯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen_tun_beh_vaen.md#宁断不弯)】`nen6 tun6 beh7 vaen1` <sup>[如皋]</sup> 状十分倔强。  
 1. 【[宁为鸡头，不为牛后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen_vei_ji_teu_beh_vei_ngeu_heu.md#宁为鸡头，不为牛后)】`nen6 vei2 ji1 teu2 beh7 vei2 ngeu2 heu6` <sup>[东台]</sup> 在小单位有自主权比在大单位听人使唤强。  
-1. 【[牛耳刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/neu_er_do.md#牛耳刀)】`neu2 er3 do` <sup>[泰县]</sup> （中药）车前子。  
 1. 【[嗯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ng.md#嗯)】`ng` <sup>[如东]</sup> 回答问题的词语，表示赞成或同意。  
 1. 【[嗯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ng.md#嗯)】`ng1` <sup>[东台]</sup> （叹词）表示应答。  
 1. 【[嗯啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ng_a.md#嗯啊)】`ng1 a` <sup>[泰县]</sup> 好的：“你快点儿去吧！”“～，我就去。”  
@@ -1118,6 +1117,7 @@
 1. 【[牛得起来的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_deh_qi_lae_dii.md#牛得起来的)】`ngeu2 deh7 qi3 lae2 dii` <sup>[如皋]</sup> 粗野的样子。  
 1. 【[牛肚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_dv.md#牛肚)】`ngeu2 dv3` <sup>[如东]</sup> 牛科动物黄牛或水牛的胃。  
 1. 【[牛耳刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_er_do.md#牛耳刀)】`ngeu2 er3 do1` <sup>[如东]</sup> 宰杀牛羊的一种刀，形似牛耳。也叫攮子。  
+1. 【[牛耳刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_er_do.md#牛耳刀)】`ngeu2 er3 do1` <sup>[泰县]</sup> （中药）车前子。  
 1. 【[牛耳朵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_er_du.md#牛耳朵)】`ngeu2 er3 du` <sup>[东台]</sup> 学名车前草，别称车茶草、蛤蟆叶。一年生或二年生草本。是药草，本地常作猪草。  
 1. 【[牛角瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_gah_gua.md#牛角瓜)】`ngeu2 gah7 gua1` <sup>[如皋]</sup> 菜瓜。  
 1. 【[牛角瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_gah_gua.md#牛角瓜)】`ngeu2 gah7 gua1` <sup>[如东]</sup> 菜瓜的一种，长条形，微弯曲，似牛角。皮绿色或淡绿色。水分多。是普通蔬菜。  

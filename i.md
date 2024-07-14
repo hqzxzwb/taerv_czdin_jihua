@@ -423,7 +423,6 @@
 1. 【[佯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian.md#佯)】`ian2` <sup>[如东]</sup> 人在要死亡而尚未死亡时的迷糊状态，叫做佯：王二～吖在家里。  
 1. 【[佯咳嗽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_keh_seu.md#佯咳嗽)】`ian2 keh7 seu5` <sup>[如皋]</sup> 假装咳嗽，以示告知、警告、提醒：老爹醒睡，夜的里他家门口经过，停吖刻儿，他就～。  
 1. 【[佯心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_xien.md#佯心)】`ian2 xien1` <sup>[东台]</sup> 装模作样给人看，自以为别人不懂。  
-1. 【[养儿育女的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_er_ioh_ny_dii.md#养儿育女的)】`ian2 er2 ioh8 ny3 dii` <sup>[如皋]</sup> 意为有儿女的人，应当懂理，有道德，不做亏心事，为儿女留后路：我也～，不会害你！  
 1. 【[扬䜺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_cae_r.md#扬䜺<sub>儿</sub>)】`ian2 cae3 r` <sup>[如皋]</sup> 煮䜺儿粥时，待锅中水沸，将䜺儿飘入汤中，并不断搅动。  
 1. 【[扬䜺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_cae_r.md#扬䜺<sub>儿</sub>)】`ian2 cae3 r` <sup>[如东]</sup> 将元麦或大麦蜡儿倒进锅里煮成粥或饭。  
 1. 【[扬䜺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_cae_r.md#扬䜺<sub>儿</sub>)】`ian2 cae3 r` <sup>[泰县]</sup> 用麦粉煮稀饭的一种方法。  
@@ -676,6 +675,7 @@
 1. 【[养膘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_bio.md#养膘)】`ian3 bio1` <sup>[如皋]</sup> ① 多指畜牲长肉、增重。 ② 谑指人易长肉。  
 1. 【[养住咖病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_chuh_ga_pien.md#养住咖病)】`ian3 chuh ga pien6` <sup>[如皋]</sup> 医生治病故意拖延以多赚钱的不道德行为。  
 1. 【[养得狗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_deh_geu_zz.md#养得狗子)】`ian3 deh geu3 zz` <sup>[如皋]</sup> ① 避讳语，指婴儿健壮。讳“胖、壮、好”字样。 ② 戏谑语，用于成年人。  
+1. 【[养儿育女的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_er_ioh_ny_dii.md#养儿育女的)】`ian3 er2 ioh8 ny3 dii` <sup>[如皋]</sup> 意为有儿女的人，应当懂理，有道德，不做亏心事，为儿女留后路：我也～，不会害你！  
 1. 【[养儿胜似父，要钱做甚用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_er_shen_sz_fv_io_qin_zu_shen_ion.md#养儿胜似父，要钱做甚用)】`ian3 er2 shen5 sz6 fv6 io5 qin2 zu5 shen ion6` <sup>[东台]</sup> 只要儿子有出息，钱多钱少无所谓。  
 1. 【[养父（母）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_fv.md#养父（母）)】`ian3 fv6 （mu3）` <sup>[东台]</sup> 指抚养自己的非生身父（母）亲。  
 1. 【[养家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ga.md#养家)】`ian3 ga1` <sup>[东台]</sup> 供给家庭成员生活所需。  
