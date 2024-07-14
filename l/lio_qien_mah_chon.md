@@ -1,5 +1,5 @@
 # 撩轻摸重
-lio2 qien1 mah8 chon5
+lio2 qien1 mah8 chon6
 > 兴化方言词典
 - 因挑逗而受到还击。
 - 因惹哭了孩子，自觉难堪
