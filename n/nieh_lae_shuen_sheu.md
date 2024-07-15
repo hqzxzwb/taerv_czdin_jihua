@@ -1,4 +1,4 @@
 # 逆来顺受
-nieh7 lae2 shuen6 sheu6
+nieh8 lae2 shuen6 sheu6
 > 东台方言词典
 - 对恶劣的环境或无理的待遇采取忍受的态度。

@@ -1,5 +1,10 @@
 # 犟头逆颈
-qian6 teu2 nieh7 jien3
+qian6 teu2 nieh8 jien3
 > 东台方言词典
 - 不顺从，不听话，专门对着干
   - 把个晓谕你，再这吖～的，我炒你的鱿鱼！
+
+# 犟头逆颈的
+qian6 teu2 nieh8 jien3 dii
+> 如皋方言词典
+- 一贯不顺从、不听话的脾性。
