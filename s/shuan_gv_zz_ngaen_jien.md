@@ -1,4 +1,4 @@
-# 双箍子眼晴
+# 双箍子眼睛
 shuan1 gv1 zz ngaen3 jien
 > 兴化方言词典
 - 双眼皮
