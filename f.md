@@ -201,7 +201,7 @@
 1. 【[翻菱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_lien.md#翻菱)】`faen1 lien2` <sup>[泰县]</sup> 采菱：那些姑娘～的动作蛮巧的。  
 1. 【[翻眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_ngaen.md#翻眼)】`faen1 ngaen3` <sup>[如东]</sup> ① 眼神特别，表示出现矛盾：他俫两个翻吖眼。 ② 比喻不认账：说好的事情，现在他又翻眼。  
 1. 【[翻眼不认人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_ngaen_beh_ren_ren.md#翻眼不认人)】`faen1 ngaen3 beh7 ren6 ren2` <sup>[如东]</sup> 眼睛一翻，不承认过去的熟人。  
-1. 【[翻眼晴猴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_ngaen_jien_heu_zz.md#翻眼晴猴子)】`faen1 ngaen3 jien heu2 zz` <sup>[兴化]</sup> 机警、敏捷，敢作敢为的人：《水浒》中的一百零八将，全是～（兴文《三年作〈水浒〉，一夜写〈封神〉》）  
+1. 【[翻眼睛猴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_ngaen_jien_heu_zz.md#翻眼睛猴子)】`faen1 ngaen3 jien heu2 zz` <sup>[兴化]</sup> 机警、敏捷，敢作敢为的人：《水浒》中的一百零八将，全是～（兴文《三年作〈水浒〉，一夜写〈封神〉》）  
 1. 【[翻眼睛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_ngaen_jien.md#翻眼睛)】`faen1 ngaen3 jien1` <sup>[兴化]</sup> 形容着急或动脑的表情：他急得直～。｜他在下～想主意唻！  
 1. 【[翻眼六大颈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_ngaen_loh_da_jien.md#翻眼六大颈)】`faen1 ngaen3 loh8 da jien3` <sup>[兴化]</sup> 瞪眼，跟人发脾气：他动不动就～的，些伢儿个个怕他。  
 1. 【[翻眼无情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_ngaen_v_qien.md#翻眼无情)】`faen1 ngaen3 v2 qien2` <sup>[如东]</sup> 眼睛一翻，不承认过去的情分。  

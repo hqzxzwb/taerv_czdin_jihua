@@ -2029,7 +2029,7 @@
 1. 【[转转<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_zhun_r.md#转转<sub>儿</sub>)】`zhun5 zhun5 r` <sup>[如东]</sup> ① 在原地打圈圈儿。 ② 围着一个物体或地点打圈圈儿。  
 1. 【[转子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_zz.md#转子)】`zhun5 zz` <sup>[如皋]</sup> 主意：他的～多。  
 1. 【[转子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_zz.md#转子)】`zhun5 zz` <sup>[东台]</sup> 主意，点子：他～不少。  
-1. 【[转子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_zz.md#转子)】`zhun5 zz` <sup>[兴化]</sup> 办法、应变能力：这个小伙～大唻，眼晴一翻就是个门儿。  
+1. 【[转子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_zz.md#转子)】`zhun5 zz` <sup>[兴化]</sup> 办法、应变能力：这个小伙～大唻，眼睛一翻就是个门儿。  
 1. 【[转子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_zz.md#转子)】`zhun5 zz` <sup>[泰县]</sup> 随机应变的本领：这个人有～，情况有点儿变化也不要紧。  
 1. 【[朱沆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_han.md#朱沆)】`zhv1 han6` <sup>[东台]</sup> 十九世纪早期人，道光年间曾两任淮南盐运司东台分司厅通判。其诗书画印皆精，尤擅画马，故宫博物院有其旧藏。姜焘、朱进贤、朱雨秋等画家都曾得到他的培养。  
 1. 【[朱洪武扫地——各登原位](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_hon_v_so_ti_gah_den_iun_vei.md#朱洪武扫地——各登原位)】`zhv1 hon2 v3 so3 ti6 gah7 den1 iun2 vei6` <sup>[东台]</sup>   

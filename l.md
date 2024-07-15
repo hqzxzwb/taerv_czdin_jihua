@@ -883,7 +883,7 @@
 1. 【[勒身王](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_shen_van.md#勒身王)】`leh8 shen1 van2` <sup>[东台]</sup> 形容衣服嫌小，像勒在身上一样。也作“勒壳王”。  
 1. 【[勒死蛇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_sz_sha.md#勒死蛇)】`leh8 sz3 sha2` <sup>[兴化]</sup> （喻）紧紧抓住不放手：你当得放人走就放，不要～！  
 1. 【[勒头爆眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_teu_bo_ngaen.md#勒头爆眼)】`leh8 teu2 bo5 ngaen3` <sup>[东台]</sup> 发怒时恶狠狠的样子。  
-1. 【[勒头爆眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_teu_bo_ngaen.md#勒头爆眼)】`leh8 teu2 bo5 ngaen3` <sup>[兴化]</sup> 瞪着眼晴，声色俱厉的样子：你有话好好说，～的做甚的事？  
+1. 【[勒头爆眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_teu_bo_ngaen.md#勒头爆眼)】`leh8 teu2 bo5 ngaen3` <sup>[兴化]</sup> 瞪着眼睛，声色俱厉的样子：你有话好好说，～的做甚的事？  
 1. 【[勒头郭眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_teu_guah_ngaen.md#勒头郭眼)】`leh8 teu2 guah7 ngaen3` <sup>[如东]</sup> 伸头瞪眼：这个人站吖在那许～的，不晓得想做甚的。  
 1. 【[勒田鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_tin_ji.md#勒田鸡)】`leh8 tin2 ji1` <sup>[如皋]</sup> 小孩抱小孩，抱不动硬抱的样子。  
 1. 【[勒仄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_zeh.md#勒仄)】`leh8 zeh7` <sup>[兴化]</sup> ① 经济不宽裕：他家日子过得～。 ② 吝啬：老沈的手～，舍不得多花钱。  

@@ -768,7 +768,6 @@
 1. 【[眼红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_hon.md#眼红)】`ngaen3 hon2` <sup>[如皋]</sup> 见“作不得”。  
 1. 【[眼红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_hon.md#眼红)】`ngaen3 hon2` <sup>[如东]</sup> 看见别人有名有利，既羡慕又忌妒，甚至想据为已有。  
 1. 【[眼红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_hon.md#眼红)】`ngaen3 hon2` <sup>[东台]</sup> 嫉妒。  
-1. 【[眼晴塘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jien_tan.md#眼晴塘)】`ngaen3 jien tan2` <sup>[兴化]</sup> 即眼窝：（哥哥、兄弟）一个个都是面黄肌搜，～凹多深。（兴文：《“勤俭”二字不可分家》）  
 1. 【[眼睛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jien.md#眼睛)】`ngaen3 jien` 眼睛  
 1. 【[眼睛插上去啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jien_chaeh_shan_qy_a.md#眼睛插上去啊)】`ngaen3 jien chaeh7 shan6 qy5 a` <sup>[如东]</sup> 人休克，双目闭合。  
 1. 【[眼睛眵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jien_chr.md#眼睛眵)】`ngaen3 jien chr1` <sup>[兴化]</sup> 眼屎。  
@@ -799,6 +798,7 @@
 1. 【[眼睛𥍉咖𥍉的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jien_shih_ga_shih_dii.md#眼睛𥍉咖𥍉的)】`ngaen3 jien shih7 ga shih7 dii` <sup>[如皋]</sup> 眼睛闪动有神。  
 1. 【[眼睛𥍉啰𥍉啰的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jien_shih_lu_shih_lu_dii.md#眼睛𥍉啰𥍉啰的)】`ngaen3 jien shih7 lu3 shih7 lu3 dii` <sup>[如皋]</sup> 眼闪动有神。  
 1. 【[眼睛死啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jien_sz_a.md#眼睛死啊)】`ngaen3 jien sz3 a` <sup>[如东]</sup> ① 形容看不见东西。 ② 比喻目中无人。  
+1. 【[眼睛塘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jien_tan.md#眼睛塘)】`ngaen3 jien tan2` <sup>[兴化]</sup> 即眼窝：（哥哥、兄弟）一个个都是面黄肌搜，～凹多深。（兴文：《“勤俭”二字不可分家》）  
 1. 【[眼睛塘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jien_tan_r.md#眼睛塘<sub>儿</sub>)】`ngaen3 jien tan2 r` <sup>[如东]</sup> 眼眶。  
 1. 【[眼睛膛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jien_tan.md#眼睛膛)】`ngaen3 jien tan2` <sup>[如皋]</sup> 眼窝。  
 1. 【[眼睛头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jien_teu.md#眼睛头)】`ngaen3 jien teu2` <sup>[兴化]</sup> 眼光所及的地方：覅在～里转来转去的。｜“……特地把这皮匣子放在他～……”。（《水浒传》五六）也说“眼头”。  

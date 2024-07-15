@@ -435,7 +435,7 @@
 1. 【[麲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_zz.md#麲子)】`haen6 zz` <sup>[如皋]</sup> 杂粮磨成的粗粒，多用以煮饭：玉米～、元麦～、大麦～；～饭、～粥。  
 1. 【[麲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_zz.md#麲子)】`haen6 zz` <sup>[东台]</sup> 麦子和玉米磨成的粗粒：大麦～；玉米～。  
 1. 【[麲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_zz.md#麲子)】`haen6 zz` <sup>[兴化]</sup> 粗的大麦粉：～饭。  
-1. 【[麲子和米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_zz_hu_mi.md#麲子和米)】`haen6 zz hu2 mi3` <sup>[兴化]</sup> （喻）性状相似的东西混在一起：三个人你望着我，我望着你，眼晴睁得大大的，谁也说不出一个～来。（兴文：《得胜湖的定名及传说》）  
+1. 【[麲子和米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_zz_hu_mi.md#麲子和米)】`haen6 zz hu2 mi3` <sup>[兴化]</sup> （喻）性状相似的东西混在一起：三个人你望着我，我望着你，眼睛睁得大大的，谁也说不出一个～来。（兴文：《得胜湖的定名及传说》）  
 1. 【[嗃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hah.md#嗃)】`hah7` <sup>[如皋]</sup> 令牛前进的喝声。  
 1. 【[蠚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hah.md#蠚)】`hah7` 碰到，接触；临近，靠近  
 1. 【[蠚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hah.md#蠚)】`hah7` <sup>[如东]</sup> 合，靠紧：花花慢慢的～到他身上去啊。  
@@ -2421,7 +2421,7 @@
 1. 【[合光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_guan.md#合光)】`huh8 guan1` <sup>[如东]</sup> 眼镜度数与视力度数相匹配。  
 1. 【[合光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_guan.md#合光)】`huh8 guan1` <sup>[如皋]</sup> ① 戴眼镜后眼睛舒适，视觉清淅。 ② 中意，合于自己的眼光。  
 1. 【[合光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_guan.md#合光)】`huh8 guan1` <sup>[东台]</sup> 交换看法，集思广益。  
-1. 【[合光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_guan.md#合光)】`huh8 guan1` <sup>[兴化]</sup> 眼镜的度数与眼晴的视力相投。也称“投光”。  
+1. 【[合光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_guan.md#合光)】`huh8 guan1` <sup>[兴化]</sup> 眼镜的度数与眼睛的视力相投。也称“投光”。  
 1. 【[合光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_guan.md#合光)】`huh8 guan1` <sup>[泰县]</sup> 眼镜与视力相匹配。  
 1. 【[合婚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_huen.md#合婚)】`huh8 huen1` <sup>[如东]</sup> 旧俗，男女定婚前，将双方的生辰八字合在一起算命，预测是否般配，这种程序称合婚。  
 1. 【[合婚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_huen.md#合婚)】`huh8 huen1` <sup>[如皋]</sup> 旧时用算命、掐八字的迷信办法确定男女是否能结婚。  

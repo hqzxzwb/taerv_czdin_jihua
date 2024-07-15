@@ -88,7 +88,7 @@
 1. 【[开锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_gu.md#开锅)】`kae1 gu1` <sup>[如东]</sup> 揭开锅盖准备煮饭烧菜。比喻做红白喜事时准备请人待客：张明娶亲准备～。  
 1. 【[开锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_gu.md#开锅)】`kae1 gu1` <sup>[如皋]</sup> ① 吃饭：天冷，等大家总来啊再～盛饭。 ② 开炊：他家断吖顿，已经几天不～啊。见“开伙仓”。  
 1. 【[开光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_guan.md#开光)】`kae1 guan1` <sup>[如东]</sup> ① 理发。 ② 刮脸。  
-1. 【[开光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_guan.md#开光)】`kae1 guan1` <sup>[兴化]</sup> ① 指给佛像或神像点眼晴：“是了，你家塑了新菩萨，要请谭贤弟～哩。”（《歧路灯》七四） ② （戏）指人理发或刮脸。  
+1. 【[开光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_guan.md#开光)】`kae1 guan1` <sup>[兴化]</sup> ① 指给佛像或神像点眼睛：“是了，你家塑了新菩萨，要请谭贤弟～哩。”（《歧路灯》七四） ② （戏）指人理发或刮脸。  
 1. 【[开光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_guan.md#开光)】`kae1 guan1` <sup>[泰县]</sup> 理发。  
 1. 【[开伙仓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_hu_can.md#开伙仓)】`kae1 hu3 can1` <sup>[如皋]</sup> 料理炊事。  
 1. 【[开伙仓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_hu_can.md#开伙仓)】`kae1 hu3 can1` <sup>[东台]</sup> 开办临时伙食房。  

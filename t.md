@@ -1301,7 +1301,7 @@
 1. 【[定法不是法](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_faeh_beh_shr_faeh.md#定法不是法)】`tien6 faeh7 beh7 shr6 faeh7` <sup>[兴化]</sup> 指计划不能一成不变：现在～，要随情况变化调整计划。｜“……怎的个招佃，怎的个议租，此时～，你们再听老爷太太的吩咐……”（《儿女英雄传》三三）“定”也说“作”。  
 1. 【[定风旗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_fon_qi.md#定风旗)】`tien6 fon1 qi2` <sup>[如东]</sup> 安装在帆船桅杆顶端的旗帜。它能随着风向旋转观测风向风力。  
 1. 【[定风旗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_fon_qi_r.md#定风旗<sub>儿</sub>)】`tien6 fon1 qi2 r` <sup>[如皋]</sup> 桅顶小旗，可观风向。  
-1. 【[定光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_guan.md#定光)】`tien6 guan1` <sup>[兴化]</sup> ① 因酒醉而目光呆滞：（武松）把这五壶吃完了，眼睛都定了光……（《武松》一） ② 眼晴受突然刺激而失神：眼睛定光。  
+1. 【[定光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_guan.md#定光)】`tien6 guan1` <sup>[兴化]</sup> ① 因酒醉而目光呆滞：（武松）把这五壶吃完了，眼睛都定了光……（《武松》一） ② 眼睛受突然刺激而失神：眼睛定光。  
 1. 【[定规](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_guei.md#定规)】`tien6 guei1` <sup>[兴化]</sup> ① 预定金：租房谈成吖，先把～。 ② 一定的说法：“……几曾见中进士的都是饱学秀才？只要命好，有甚～……”（《西湖二集》四）  
 1. 【[定金](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_jien.md#定金)】`tien6 jien1` <sup>[如东]</sup> 抵押资金。  
 1. 【[定惠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_kuei.md#定惠)】`tien6 kuei6` <sup>[如皋]</sup> 定金  

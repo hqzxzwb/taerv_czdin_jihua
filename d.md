@@ -1297,7 +1297,7 @@
 1. 【[耽搁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_gah.md#耽搁)】`daen1 gah` <sup>[如东]</sup> 耽误。  
 1. 【[䋎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen.md#䋎)】`daen3` <sup>[东台]</sup> 补缝：这裤子有个小洞，让我～一下。  
 1. 【[掸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen.md#掸)】`daen3` <sup>[兴化]</sup> ① 接触：他这几天太忙，屁股不曾～到板凳又捱人叫走啊。｜河水太深，～不到底（不知深浅）。 ② 拂拭：～被｜～帐子｜～灰尘  
-1. 【[掸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen.md#掸)】`daen3` <sup>[泰县]</sup> 眼晴看到：不能让他～到眼。  
+1. 【[掸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen.md#掸)】`daen3` <sup>[泰县]</sup> 眼睛看到：不能让他～到眼。  
 1. 【[掸不到九底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_beh_do_jieu_di.md#掸不到九底)】`daen3 beh do5 jieu3 di3` <sup>[泰县]</sup> 不知深浅：这个事有点儿～。  
 1. 【[掸不着头底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_beh_chah_teu_di.md#掸不着头底)】`daen3 beh7 chah8 teu2 di3` <sup>[东台]</sup> 摸不清深浅，难以预测事情的结局：那许情况我还～。  
 1. 【[掸边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_bin.md#掸边)】`daen3 bin1` <sup>[东台]</sup> 靠近，介入，沾边：人家的家务事，别人最好不～。  

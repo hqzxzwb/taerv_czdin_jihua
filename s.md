@@ -2629,10 +2629,10 @@
 1. 【[双缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_gan.md#双缸)】`shuan1 gan1` <sup>[如皋]</sup> 酱园做酱用双缸翻晒。  
 1. 【[双虹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_gan.md#双虹)】`shuan1 gan5` <sup>[如皋]</sup> 指两道彩虹（同心不同径）。  
 1. 【[双钩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_geu_r.md#双钩<sub>儿</sub>)】`shuan1 geu1 r` <sup>[如皋]</sup> 钓具，一根钓鱼线装有上、下两只钩子。  
-1. 【[双箍眼晴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_gv_ngaen_jien.md#双箍眼晴)】`shuan1 gv1 ngaen3 jien` <sup>[泰县]</sup> 双眼皮。  
+1. 【[双箍眼睛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_gv_ngaen_jien.md#双箍眼睛)】`shuan1 gv1 ngaen3 jien` <sup>[泰县]</sup> 双眼皮。  
 1. 【[双箍子眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_gv_zz_ngaen.md#双箍子眼)】`shuan1 gv1 zz ngaen3` <sup>[如东]</sup> 双眼皮儿：苹苹是～。  
 1. 【[双箍子眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_gv_zz_ngaen.md#双箍子眼)】`shuan1 gv1 zz ngaen3` <sup>[东台]</sup> 双眼皮。  
-1. 【[双箍子眼晴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_gv_zz_ngaen_jien.md#双箍子眼晴)】`shuan1 gv1 zz ngaen3 jien` <sup>[兴化]</sup> 双眼皮：我爱哥哥人品好，～乌眉毛。（兴文《盼郎会》）  
+1. 【[双箍子眼睛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_gv_zz_ngaen_jien.md#双箍子眼睛)】`shuan1 gv1 zz ngaen3 jien` <sup>[兴化]</sup> 双眼皮：我爱哥哥人品好，～乌眉毛。（兴文《盼郎会》）  
 1. 【[双鞋庄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_hae_zhuan.md#双鞋庄)】`shuan1 hae2 zhuan1` <sup>[东台]</sup> 原广山镇的一个村庄，现为五烈镇双超村。传说七仙女被天兵天将抓上天时，扔下一双鞋给董永做纪念，一只落在河东，一只落在河西，落鞋处分别得名东鞋庄、西鞋庄，合称～。  
 1. 【[双脚踏在棉花堆上——不踏实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_jiah_taeh_cae_min_hua_dy_shan_beh_taeh_sheh.md#双脚踏在棉花堆上——不踏实)】`shuan1 jiah7 taeh8 cae6 min2 hua1 dy1 shan6 beh7 taeh8 sheh` <sup>[东台]</sup>   
 1. 【[双吖身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_nga_shen.md#双吖身)】`shuan1 nga shen1` <sup>[东台]</sup> 指妇女怀孕。  

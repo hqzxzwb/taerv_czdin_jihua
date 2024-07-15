@@ -1358,7 +1358,7 @@
 1. 【[蹩主意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bih_zhv_i.md#蹩主意)】`bih7 zhv3 i5` <sup>[如皋]</sup> 笨拙的主意。俚语：龟主意里想吖个鳖（蹩）主意。  
 1. 【[鳖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bih.md#鳖)】`bih7` <sup>[东台]</sup> 亦称“甲鱼”。爬行动物，形状像龟。  
 1. 【[鳖孩卵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bih_hae_lun.md#鳖孩卵)】`bih7 hae2 lun3` <sup>[泰县]</sup> 注视，目不转晴。  
-1. 【[鳖蛋子<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bih_taen_zz_r.md#鳖蛋子<sub>儿</sub>)】`bih7 taen6 zz3 r` <sup>[泰县]</sup> 又黑又亮的眼晴。  
+1. 【[鳖蛋子<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bih_taen_zz_r.md#鳖蛋子<sub>儿</sub>)】`bih7 taen6 zz3 r` <sup>[泰县]</sup> 又黑又亮的眼睛。  
 1. 【[煸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin.md#煸)】`bin1` <sup>[东台]</sup> 烹饪方法，把菜、肉放在热油里炒：～肉丝。  
 1. 【[煸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin.md#煸)】`bin1` <sup>[兴化]</sup> 烹调方法，把蔬菜、鱼、肉等放在热油锅里慢炒：～鱼｜～豆角子。  
 1. 【[编凑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_ceu.md#编凑)】`bin1 ceu5` <sup>[兴化]</sup> 从多方筹集在一起：他们三人～啊二十几万，合伙开啊一家公司。  

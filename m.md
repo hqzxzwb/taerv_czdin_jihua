@@ -1093,7 +1093,7 @@
 1. 【[眉目](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_moh.md#眉目)】`mi2 moh8` <sup>[东台]</sup> ① 容颜：～清秀。 ② 头绪；要领；条理：这事有点～咖。  
 1. 【[眉眼不开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ngaen_beh_kae.md#眉眼不开)】`mi2 ngaen3 beh7 kae1` <sup>[如东]</sup> 昏昏欲睡的样子：做作业做到十二点钟，已经～啊。  
 1. 【[眉眼不开阔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ngaen_beh_kae_kuh.md#眉眼不开阔)】`mi2 ngaen3 beh7 kae1 kuh7` <sup>[如皋]</sup> 见“五个老小靠住块儿”。  
-1. 【[眉头眼晴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_teu_ngaen_jien.md#眉头眼晴)】`mi2 teu ngaen3 jien` <sup>[兴化]</sup> 头绪：他的事还不曾有～哎，先覅乱吹。  
+1. 【[眉头眼睛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_teu_ngaen_jien.md#眉头眼睛)】`mi2 teu ngaen3 jien` <sup>[兴化]</sup> 头绪：他的事还不曾有～哎，先覅乱吹。  
 1. 【[眉头眼目](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_teu_ngaen_moh.md#眉头眼目)】`mi2 teu2 ngaen3 moh8` <sup>[东台]</sup> 见机行事的能力。（同“眼头见识”）  
 1. 【[眯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#眯)】`mi2` <sup>[如皋]</sup> ① 目半闭：眼睛～啊下。 ② 和蔼微笑：笑～～。  
 1. 【[眯稀眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_xi_ngaen.md#眯稀眼)】`mi2 xi1 ngaen3` <sup>[兴化]</sup> 近视眼、小眼。  
@@ -1122,7 +1122,7 @@
 1. 【[渳下子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ha_zz.md#渳下子)】`mi3 ha6 zz` <sup>[如皋]</sup> 饮一下。喝一点。  
 1. 【[渳渳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_mi.md#渳渳)】`mi3 mi3` <sup>[如皋]</sup> 喝一喝，吃一吃。  
 1. 【[眯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#眯)】`mi3` <sup>[如皋]</sup> 异物入眼：眼睛肚里～啊蠓虫儿。  
-1. 【[眯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#眯)】`mi3` <sup>[兴化]</sup> 灰土、蠓虫之类进入眼内：眼晴捱灰～吖。《集韵·旨韵》母鄙切｜“～，物入目病。”  
+1. 【[眯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#眯)】`mi3` <sup>[兴化]</sup> 灰土、蠓虫之类进入眼内：眼睛捱灰～吖。《集韵·旨韵》母鄙切｜“～，物入目病。”  
 1. 【[眯人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ren_zz.md#眯人子)】`mi3 ren zz` <sup>[如皋]</sup> 眼睑内有异物的不适感：结膜炎的痛感。  
 1. 【[眯细眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_xi_ngaen_r.md#眯细眼<sub>儿</sub>)】`mi3 xi5 ngaen3 r` <sup>[如东]</sup> ① 眼皮眯缝。 ② 眼皮眯缝的人。  
 1. 【[米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#米)】`mi3` <sup>[如东]</sup> ① 稻的种子：大～。 ② 公制长度单位，一米分为一百厘米，合三市尺。旧称公尺。  
