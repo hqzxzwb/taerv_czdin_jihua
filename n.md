@@ -1589,12 +1589,12 @@
 1. 【[酿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian.md#酿)】`nian5` <sup>[如皋]</sup> 纵容：他把伢儿～得不上规矩！  
 1. 【[酿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian.md#酿)】`nian6` <sup>[兴化]</sup> ① 因过分娇宠而养成：“……素日皆是你们这些人把他～坏了，到这步田地，还来劝解……”（《红楼梦》三三） ② 渐渐形成：（客巴巴）心中郁闷，～成一病。（《梼杌闲评》二二）  
 1. 【[酿事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_shr.md#酿事)】`nian6 shr6` <sup>[兴化]</sup> 蓄意把事情闹大：她男人跟人吵架，她在旁边扇小扇子，这婆娘真会～。  
-1. 【[逆来顺受](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieh_lae_shuen_sheu.md#逆来顺受)】`nieh7 lae2 shuen6 sheu6` <sup>[东台]</sup> 对恶劣的环境或无理的待遇采取忍受的态度。  
 1. 【[逆㧙邪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieh_bieh_qia.md#逆㧙邪)】`nieh8 bieh qia2` <sup>[如皋]</sup> 坚持已见，不肯让人。  
 1. 【[逆㧙犟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieh_bieh_qian.md#逆㧙犟)】`nieh8 bieh qian6` <sup>[如皋]</sup> 一种专会顶牛、不受劝的脾气。  
 1. 【[逆耳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieh_er.md#逆耳)】`nieh8 er3` <sup>[东台]</sup> 不顺耳，刺耳：忠言～利于行，良药苦口利于病。  
 1. 【[逆境](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieh_jien.md#逆境)】`nieh8 jien5` <sup>[东台]</sup> 不顺利的境遇：自强不息者往往在～中大有作为。  
 1. 【[逆口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieh_keu.md#逆口)】`nieh8 keu3` <sup>[如皋]</sup> 言辞厉害的对手：你不要乱诈唬，遇到～你试试看！  
+1. 【[逆来顺受](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieh_lae_shuen_sheu.md#逆来顺受)】`nieh8 lae2 shuen6 sheu6` <sup>[东台]</sup> 对恶劣的环境或无理的待遇采取忍受的态度。  
 1. 【[逆毛羽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieh_mo_y.md#逆毛羽)】`nieh8 mo2 y3` <sup>[如东]</sup> 向着羽毛相反的方向捋，会把羽毛捋猖起来。比喻逆着某人的脾气或意见说话办事。例如你不能～。  
 1. 【[逆性子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieh_xien_zz.md#逆性子)】`nieh8 xien zz` <sup>[如皋]</sup> 脾气倔强。  
 1. 【[逆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieh_zz.md#逆子)】`nieh8 zz` <sup>[如东]</sup> 不孝顺的子女。  

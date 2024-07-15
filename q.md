@@ -587,8 +587,8 @@
 1. 【[犟头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_teu.md#犟头)】`qian6 teu2` <sup>[如东]</sup> 脾气固执不听劝告的人：他是一个～。  
 1. 【[犟头勒颈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_teu_leh_jien.md#犟头勒颈)】`qian6 teu2 leh8 jien3` <sup>[如东]</sup> 不肯顺从的样子：站吖那许～的。  
 1. 【[犟头裂颈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_teu_lih_jien.md#犟头裂颈)】`qian6 teu2 lih8 jien3` <sup>[泰县]</sup> 不肯顺从：你不要～。  
-1. 【[犟头逆颈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_teu_nieh_jien.md#犟头逆颈)】`qian6 teu2 nieh7 jien3` <sup>[东台]</sup> 不顺从，不听话，专门对着干：把个晓谕你，再这吖～的，我炒你的鱿鱼！  
-1. 【[犟头逆颈的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_teu_nieh_jien_dii.md#犟头逆颈的)】`qian6 teu2 nieh8 jien3 dii` <sup>[如皋]</sup> 一贯不顺从、不听话的脾性。  
+1. 【[犟头逆颈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_teu_nieh_jien.md#犟头逆颈)】`qian6 teu2 nieh8 jien3` <sup>[东台]</sup> 不顺从，不听话，专门对着干：把个晓谕你，再这吖～的，我炒你的鱿鱼！  
+1. 【[犟头逆颈的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_teu_nieh_jien.md#犟头逆颈的)】`qian6 teu2 nieh8 jien3 dii` <sup>[如皋]</sup> 一贯不顺从、不听话的脾性。  
 1. 【[犟头犟脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_teu_qian_no.md#犟头犟脑)】`qian6 teu2 qian6 no3` <sup>[如东]</sup> 倔强的样子：～的，怎吖出门做事？  
 1. 【[犟豆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_teu_r.md#犟豆<sub>儿</sub>)】`qian6 teu6 r` <sup>[如皋]</sup> 一贯不顺从、不听话个性的人。  
 1. 【[七八不离](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_baeh_beh_li.md#七八不离)】`qieh7 baeh7 beh7 li2` <sup>[如东]</sup> 相差无几：放吖这许，～。  

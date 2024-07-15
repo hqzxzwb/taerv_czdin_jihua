@@ -257,9 +257,9 @@
 1. 【[午市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_shr.md#午市)】`v3 shr6` <sup>[如皋]</sup> 中午的贸易潮。  
 1. 【[午心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_xien.md#午心)】`v3 xien1` <sup>[兴化]</sup> 中午，特指盛夏的中午：～里太阳晒人哎。也说“午仗心”。  
 1. 【[午心晌里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_xien_shan_lii.md#午心晌里)】`v3 xien1 shan5 lii` <sup>[东台]</sup> 正午时分。也称“晌心里”。  
-1. 【[忤逆㞞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_nieh_son.md#忤逆㞞)】`v3 nieh7 son2` <sup>[东台]</sup> （詈语）不孝顺父母的人。  
 1. 【[忤逆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_nieh.md#忤逆)】`v3 nieh8` <sup>[如东]</sup> 对长辈不孝敬。  
 1. 【[忤逆货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_nieh_hu.md#忤逆货)】`v3 nieh8 hu5` <sup>[如皋]</sup> 指不孝的人。  
+1. 【[忤逆㞞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_nieh_son.md#忤逆㞞)】`v3 nieh8 son2` <sup>[东台]</sup> （詈语）不孝顺父母的人。  
 1. 【[捂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v.md#捂)】`v3` <sup>[如东]</sup> 遮盖或封闭起来：把口子～住。  
 1. 【[武把子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_ba_zz.md#武把子)】`v3 ba3 zz` <sup>[兴化]</sup> 戏曲表演中的武打和与之有关的舞蹈动作。  
 1. 【[武叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_cha.md#武叉)】`v3 cha` 形容小孩调皮，很野，不文雅  

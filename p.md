@@ -328,8 +328,8 @@
 1. 【[棒不打过头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_beh_da_gu_teu_r.md#棒不打过头<sub>儿</sub>)】`pan6 beh7 da3 gu1 teu2 r` <sup>[如皋]</sup> ① 孩子大了，懂事了，不用打了。 ② 打也打不过了。  
 1. 【[棒冰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_bien.md#棒冰)】`pan6 bien1` <sup>[东台]</sup> 冰棍。  
 1. 【[棒冰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_bien.md#棒冰)】`pan6 bien1` <sup>[兴化]</sup> 冰棍。也称“冰棒”。  
-1. 【[棒打出孝子，惯养忤逆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_da_chueh_xio_zz_guaen_ian_v_nieh_r.md#棒打出孝子，惯养忤逆<sub>儿</sub>)】`pan6 da3 chueh7 xio5 zz guaen5 ian3 v3 nieh7 r` <sup>[东台]</sup> 严是爱，松是害，尤其不能溺爱。  
-1. 【[棒打出孝子，惯养忤逆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_da_chueh_xio_zz_guaen_ian_v_nieh_r.md#棒打出孝子，惯养忤逆<sub>儿</sub>)】`pan6 da3 chueh7 xio5 zz guaen5 ian3 v3 nieh8 r` <sup>[如皋]</sup> 严加教育能出人，溺爱只能害孩子。  
+1. 【[棒打出孝子，惯养忤逆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_da_chueh_xio.md#棒打出孝子，惯养忤逆<sub>儿</sub>)】`pan6 da3 chueh7 xio5 zz guaen5 ian3 v3 nieh8 r` <sup>[如皋]</sup> 严加教育能出人，溺爱只能害孩子。  
+1. 【[棒打出孝子，惯养忤逆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_da_chueh_xio.md#棒打出孝子，惯养忤逆<sub>儿</sub>)】`pan6 da3 chueh7 xio5 zz guaen5 ian3 v3 nieh8 r` <sup>[东台]</sup> 严是爱，松是害，尤其不能溺爱。  
 1. 【[棒棒菱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_pan_lien.md#棒棒菱)】`pan6 pan6 lien2` <sup>[泰县]</sup> 翻过的菱塘中浮在水面的菱。  
 1. 【[棒棒菱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_pan_lien_r.md#棒棒菱<sub>儿</sub>)】`pan6 pan6 lien2 r` <sup>[兴化]</sup> 因漏采漏拾而浮在水面的菱角。  
 1. 【[棒<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_r.md#棒<sub>儿</sub>)】`pan6 r` <sup>[如皋]</sup> 树枝、草茎等的俗称：枝～、红草～结实。  
