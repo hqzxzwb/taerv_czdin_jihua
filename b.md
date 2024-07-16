@@ -67,7 +67,7 @@
 1. 【[扒眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ngaen_r.md#扒眼<sub>儿</sub>)】`ba1 ngaen3 r` <sup>[如东]</sup> 追根究底：这个人就喜欢～。  
 1. 【[扒墙上壁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_qian_shan_bieh.md#扒墙上壁)】`ba1 qian2 shan6 bieh7` <sup>[如皋]</sup> 形容贪玩、调皮。  
 1. 【[扒上落下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_shan_lah_ha.md#扒上落下)】`ba1 shan6 lah8 ha6` <sup>[东台]</sup> 指上上下下地忙个不停或者闹着不歇：这个伢儿～的，烦人！  
-1. 【[扒上㧕下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_shan_lieu_ha.md#扒上㧕下)】`ba1 shan6 lieu3 ha6` <sup>[如皋]</sup> 上上下下地活动不停，形容忙碌辛苦或贪玩不已。。  
+1. 【[扒上㧕下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_shan_lieu_ha.md#扒上㧕下)】`ba1 shan6 lieu3 ha6` <sup>[如皋]</sup> 上上下下地活动不停，形容忙碌辛苦或贪玩不已。  
 1. 【[扒手爪<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_sheu_zho_r.md#扒手爪<sub>儿</sub>)】`ba1 sheu3 zho3 r` <sup>[如东]</sup> 扳着手指计数：我是～数的，不会错。  
 1. 【[扒手爪<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_sheu_zho_r.md#扒手爪<sub>儿</sub>)】`ba1 sheu3 zho3 r` <sup>[如皋]</sup> 掐指计算。  
 1. 【[扒塘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_tan.md#扒塘)】`ba1 tan2` <sup>[兴化]</sup> 在地上挖塘：此时众兵丁忙了，在地上扒个塘，把锅朝上一顿……（《火烧赤壁》九）  

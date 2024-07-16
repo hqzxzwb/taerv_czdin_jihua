@@ -46,7 +46,7 @@
 1. 【[乌漆墨黑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_qieh_moh_heh.md#乌漆墨黑)】`v1 qieh7 moh8 heh7` <sup>[如东]</sup> 一片漆黑：家里～的。  
 1. 【[乌漆墨黑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_qieh_moh_heh.md#乌漆墨黑)】`v1 qieh7 moh8 heh7` <sup>[兴化]</sup> 形容非常黑、非常暗：外头～的，你慢慢走，当心脚下。  
 1. 【[乌蓲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_qieu.md#乌蓲)】`v1 qieu1` <sup>[如皋]</sup> 荻。固岸草。  
-1. 【[乌桕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_qieu.md#乌桕)】`v1 qieu6` <sup>[如东]</sup> 大戟科植物乌桕，落叶乔木，高约15米。具乳液。树皮灰色而具浅纵裂。单叶互生，略呈菱形，全缘，秋天变红。花单性，雌雄同株。总状花序顶生。花小，绿黄色，无花瓣及花盘。种子近球形，外面披腊层，可用来制造腊烛。叶子可以做黑色染料。野生。。  
+1. 【[乌桕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_qieu.md#乌桕)】`v1 qieu6` <sup>[如东]</sup> 大戟科植物乌桕，落叶乔木，高约15米。具乳液。树皮灰色而具浅纵裂。单叶互生，略呈菱形，全缘，秋天变红。花单性，雌雄同株。总状花序顶生。花小，绿黄色，无花瓣及花盘。种子近球形，外面披腊层，可用来制造腊烛。叶子可以做黑色染料。野生。  
 1. 【[乌灼灼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_shah_shah.md#乌灼灼)】`v1 shah7 shah7` <sup>[兴化]</sup> 形容乌黑而发亮：又见淑仪两个小眼睛珠儿，～的只管望着自己……（《广陵潮》十四）  
 1. 【[乌天黑地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_tin_heh_ti.md#乌天黑地)】`v1 tin1 heh7 ti6` <sup>[如东]</sup> 天色昏暗：～的怎吖行走？  
 1. 【[乌暗的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_un_dii.md#乌暗的)】`v1 un5 dii` <sup>[如皋]</sup> 一片黑暗，不能见物。  
@@ -808,7 +808,7 @@
 1. 【[黄泔水味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_gun_shuei_vei.md#黄泔水味)】`van2 gun1 shuei3 vei6` <sup>[如皋]</sup> 豆制品或制成品常有的脚水气味。  
 1. 【[黄荷朗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_hu_lan.md#黄荷朗)】`van2 hu2 lan3` <sup>[如皋]</sup> 蒲公英。  
 1. 【[黄花<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_hua_r.md#黄花<sub>儿</sub>)】`van2 hua1 r` <sup>[如皋]</sup> 首蓿俗称秧草，其嫩头可做腌菜，其余耕翻入土作基肥。  
-1. 【[黄花头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_hua_teu_r.md#黄花头<sub>儿</sub>)】`van2 hua1 teu2 r` <sup>[东台]</sup> 一种野草，嫩芽可食，也可做绿肥。又名“秧草”“黄花草”。。  
+1. 【[黄花头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_hua_teu_r.md#黄花头<sub>儿</sub>)】`van2 hua1 teu2 r` <sup>[东台]</sup> 一种野草，嫩芽可食，也可做绿肥。又名“秧草”“黄花草”。  
 1. 【[黄秧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ian.md#黄秧)】`van2 ian1` <sup>[如皋]</sup> 旧时手工插秧，刚插而未“醒”时叶黄棵斜，谓之～。  
 1. 【[黄齈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_lon.md#黄齈)】`van2 lon2` <sup>[如皋]</sup> 鼻涕，偏指脓样鼻涕。  
 1. 【[黄齈疤<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_lon_ba_r.md#黄齈疤<sub>儿</sub>)】`van2 lon2 ba1 r` <sup>[如皋]</sup> 鼻涕硬结物。  

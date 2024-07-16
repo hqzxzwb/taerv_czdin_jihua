@@ -2087,10 +2087,10 @@
 1. 【[猪脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_no.md#猪脑)】`zhv1 no3` <sup>[如东]</sup> 猪科动物猪脑。  
 1. 【[猪闹骚狗闹骚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_no_so_geu_no_so.md#猪闹骚狗闹骚)】`zhv1 no6 so1 geu3 no6 so1` <sup>[东台]</sup> 一群说起来沾亲带故，其实是不相干，无关紧要的人：他～的来得太多，应接不暇。  
 1. 【[猪呶呶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_nu_nu.md#猪呶呶)】`zhv1 nu nu` <sup>[东台]</sup> （童语）指猪。成年人一般指的小猪。  
-1. 【[猪脾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_pi.md#猪脾)】`zhv1 pi2` <sup>[如东]</sup> 猪科动物猪脾。。  
+1. 【[猪脾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_pi.md#猪脾)】`zhv1 pi2` <sup>[如东]</sup> 猪科动物猪脾。  
 1. 【[猪脾气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_pi_qi.md#猪脾气)】`zhv1 pi2 qi5` <sup>[如皋]</sup> 粗鄙无礼的脾气。  
 1. 【[猪鼻子插葱——装象](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_pieh_zz_chaeh_con_zhuan_qian.md#猪鼻子插葱——装象)】`zhv1 pieh8 zz chaeh7 con1 zhuan1 qian6` <sup>[东台]</sup>   
-1. 【[猪脬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_po.md#猪脬)】`zhv1 po1` <sup>[如东]</sup> 猪科动物猪的膀胱。。  
+1. 【[猪脬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_po.md#猪脬)】`zhv1 po1` <sup>[如东]</sup> 猪科动物猪的膀胱。  
 1. 【[猪圈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_qiun.md#猪圈)】`zhv1 qiun6` <sup>[如皋]</sup> 猪栏。砖地带斜势，便于清洗，旁有厕，前有食槽。  
 1. 【[猪圈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_qiun.md#猪圈)】`zhv1 qiun6` <sup>[如东]</sup> 饲养生猪的场所  
 1. 【[猪圈棱子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_qiun_len_zz.md#猪圈棱子)】`zhv1 qiun6 len6 zz` <sup>[如东]</sup> 猪圈外围的横条，竹竿或木棍，起阻拦作用。也叫栏栅。  
@@ -2109,8 +2109,8 @@
 1. 【[猪头三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_teu_saen.md#猪头三)】`zhv1 teu2 saen1` <sup>[兴化]</sup> 指不明事理或不识好歹的人：“在那时，不能谈，人人喊我～……”（兴文《唱五更》）。《清裨类钞》｜一，其源盖出于猪头三牲一语，呼为～，歇后语则为一个牲字，牲生谐声，言初来之人，到处不熟之谓也。  
 1. 【[猪头猪脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_teu_zhv_no.md#猪头猪脑)】`zhv1 teu2 zhv1 no3` <sup>[如皋]</sup> 粗鄙愚蠢的样子。  
 1. 【[猪头猪脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_teu_zhv_no.md#猪头猪脑)】`zhv1 teu2 zhv1 no3` <sup>[如东]</sup> 比喻笨拙：王二～的，不能做这项工作。  
-1. 【[猪蹄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_ti.md#猪蹄)】`zhv1 ti2` <sup>[如东]</sup> 猪科动物猪蹄。。  
-1. 【[猪蹄甲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_ti_jiaeh.md#猪蹄甲)】`zhv1 ti2 jiaeh7` <sup>[如东]</sup> 猪科动物猪蹄甲。。  
+1. 【[猪蹄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_ti.md#猪蹄)】`zhv1 ti2` <sup>[如东]</sup> 猪科动物猪蹄。  
+1. 【[猪蹄甲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_ti_jiaeh.md#猪蹄甲)】`zhv1 ti2 jiaeh7` <sup>[如东]</sup> 猪科动物猪蹄甲。  
 1. 【[猪下水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_xia_shuei.md#猪下水)】`zhv1 xia6 shuei3` <sup>[东台]</sup> 指猪身上除了猪肉以外可食用的部分。包括内脏、猪血等杂物。  
 1. 【[猪心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_xien.md#猪心)】`zhv1 xien1` <sup>[如东]</sup> 猪科动物猪心。  
 1. 【[猪腥气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_xien_qi.md#猪腥气)】`zhv1 xien1 qi5` <sup>[如皋]</sup> 猪特有的腥味。  

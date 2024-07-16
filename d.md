@@ -782,7 +782,7 @@
 1. 【[大鸾架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lun_jia_zz.md#大鸾架子)】`da6 lun2 jia5 zz` <sup>[东台]</sup> 装腔作势，虚张声势。  
 1. 【[大卵<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lun_r.md#大卵<sub>儿</sub>)】`da6 lun3 r` <sup>[如皋]</sup> 疝气。  
 1. 【[大卵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lun_zz.md#大卵子)】`da6 lun3 zz` <sup>[如东]</sup> ① 疝气病。 ② 患疝气病的人：他是个～。  
-1. 【[大卵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lun_zz.md#大卵子)】`da6 lun3 zz` <sup>[如皋]</sup> 疝气，或疝气患者。。  
+1. 【[大卵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lun_zz.md#大卵子)】`da6 lun3 zz` <sup>[如皋]</sup> 疝气，或疝气患者。  
 1. 【[大卵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lun_zz.md#大卵子)】`da6 lun3 zz` <sup>[东台]</sup> 男人因疝气病阴囊肿大。  
 1. 【[大卵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lun_zz.md#大卵子)】`da6 lun3 zz` <sup>[兴化]</sup> 疝气。也叫“小肠气”。  
 1. 【[大卵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lun_zz.md#大卵子)】`da6 lun3 zz` <sup>[泰县]</sup> 疝气。  

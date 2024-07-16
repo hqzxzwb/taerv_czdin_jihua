@@ -947,7 +947,7 @@
 1. 【[肮狗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_geu_zz.md#肮狗子)】`ngan1 geu3 zz` <sup>[东台]</sup> 狗獾的俗称。  
 1. 【[肮肮螺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_ngan_lu.md#肮肮螺)】`ngan1 ngan1 lu2-3` <sup>[东台]</sup> 蜗牛的俗称。  
 1. 【[肮掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_tio.md#肮掉)】`ngan1 tio` <sup>[东台]</sup> 同“痪掉”。  
-1. 【[肮脏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_zan.md#肮脏)】`ngan1 zan1` <sup>[如东]</sup> 不干净。。  
+1. 【[肮脏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_zan.md#肮脏)】`ngan1 zan1` <sup>[如东]</sup> 不干净。  
 1. 【[昂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan.md#昂)】`ngan2` <sup>[如皋]</sup> 升、高：秤尾子太～；这刻儿卖独市，他会～价。  
 1. 【[昂风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_fon.md#昂风)】`ngan2 fon1` <sup>[兴化]</sup> 形容体大质量轻的物品顶风难行：原来灯草～，老二费的力气大，把脸都挣红吖。（兴文《石头星与灯草星》）  
 1. 【[昂乎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_hv.md#昂乎)】`ngan2 hv` <sup>[东台]</sup> 说话口气大，有些盛气凌人的样子：那小伙好像蛮有来头的，你听他说话多～！  

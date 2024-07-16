@@ -2836,7 +2836,7 @@
 1. 【[露风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_fon.md#露风)】`lv6 fon1` <sup>[兴化]</sup> 透露消息或意图：家下人虽多，都也不管这些事……谁肯去～？（《红楼梦》六五）也说“露口风”。  
 1. 【[露富](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_fv.md#露富)】`lv6 fv5` <sup>[兴化]</sup> 暴露了财富：他有钻石戒指不敢戴，就是怕～。  
 1. 【[露筋露骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_jien_lv_gueh.md#露筋露骨)】`lv6 jien1 lv6 gueh7` <sup>[如皋]</sup> ① 完全显露。 ② 赤裸裸的。  
-1. 【[露脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_lin.md#露脸)】`lv6 lin3` <sup>[如东]</sup> 出现。。  
+1. 【[露脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_lin.md#露脸)】`lv6 lin3` <sup>[如东]</sup> 出现。  
 1. 【[露露](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_lv.md#露露)】`lv6 lv6` <sup>[如皋]</sup> 放在露天下过夜，让露水浸润。  
 1. 【[露马脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_ma_jiah.md#露马脚)】`lv6 ma3 jiah7` <sup>[如东]</sup> 暴露行迹：终于露啊马脚。  
 1. 【[露白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_poh.md#露白)】`lv6 poh8` <sup>[如皋]</sup> ① 春天，特别是“尽九”之后下雪，对农业不利。谚：“春天不～，露啊白，要发毒。” ② 暴露了钱财（银子）。  

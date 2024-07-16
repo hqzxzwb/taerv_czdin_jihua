@@ -941,7 +941,7 @@
 1. 【[成和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_hv.md#成和)】`chen2 hv2` <sup>[如东]</sup> 耷子和成和的条件已经满足，叫做成和。  
 1. 【[成夜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_ia.md#成夜)】`chen2 ia6` <sup>[如东]</sup> 整夜：～不归。  
 1. 【[成用不可废](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_ion_beh_ku_fei.md#成用不可废)】`chen2 ion6 beh7 ku3 fei5` <sup>[东台]</sup> 一时不用但留着说不定有用。  
-1. 【[成精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_jien.md#成精)】`chen2 jien1` <sup>[兴化]</sup> ① （借）到了极顶：这些伢儿矫生惯养，水手不湿，懒是懒成吖精。。 ② 形容十分机灵：“……那些牢子久惯～，看出被绽，岂不误了大事……”（《水浒后传》二一）  
+1. 【[成精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_jien.md#成精)】`chen2 jien1` <sup>[兴化]</sup> ① （借）到了极顶：这些伢儿矫生惯养，水手不湿，懒是懒成吖精。 ② 形容十分机灵：“……那些牢子久惯～，看出被绽，岂不误了大事……”（《水浒后传》二一）  
 1. 【[成进](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_jien.md#成进)】`chen2 jien5` <sup>[如东]</sup> 合算：这趟生意不～。  
 1. 【[成吖病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_nga_pien.md#成吖病)】`chen2 nga pien6` <sup>[如皋]</sup> 指病程长，难的病。  
 1. 【[成吖病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_nga_pien.md#成吖病)】`chen2 nga pien6` <sup>[如皋]</sup> 形成实质性的病。见“害病”。  
@@ -1358,7 +1358,7 @@
 1. 【[炒米糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_mi_tan.md#炒米糖)】`cho3 mi3 tan2` <sup>[东台]</sup> 用融化的饴糖加炒米等拌和，冷干后切片食用的甜点。  
 1. 【[炒米坛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_mi_tun_r.md#炒米坛<sub>儿</sub>)】`cho3 mi3 tun2 r` <sup>[如皋]</sup> 𣥼炒米的坛子型为小口小底大肚，有盖。分陶、瓷两种。  
 1. 【[炒面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_min.md#炒面)】`cho3 min6` <sup>[如东]</sup> 加工面条的一种方法。面条煮熟后，捞起来，加油等作料，文火炒熟，称炒面（与汤面相对）。  
-1. 【[炒馒头干<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_mun_teu_gun_r.md#炒馒头干<sub>儿</sub>)】`cho3 mun2 teu gun1 r` <sup>[如皋]</sup> 用少量油下锅炒成，此时底色金黄，表面略焦，香脆可口。油多了则成炸馒头干了。。  
+1. 【[炒馒头干<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_mun_teu_gun_r.md#炒馒头干<sub>儿</sub>)】`cho3 mun2 teu gun1 r` <sup>[如皋]</sup> 用少量油下锅炒成，此时底色金黄，表面略焦，香脆可口。油多了则成炸馒头干了。  
 1. 【[炒年货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_nin_hu.md#炒年货)】`cho3 nin2 hu5` <sup>[东台]</sup> 农历腊月里为过年准备的炒货。主要是各类瓜籽坚果。  
 1. 【[炒肉束<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_roh_shoh_r.md#炒肉束<sub>儿</sub>)】`cho3 roh8 shoh7 r` <sup>[兴化]</sup> 炒肉丝。  
 1. 【[炒肉束<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_roh_shoh_r.md#炒肉束<sub>儿</sub>)】`cho3 roh8 shoh7 r` <sup>[泰县]</sup> 炒肉丝。  
@@ -2728,7 +2728,7 @@
 1. 【[次](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz.md#次)】`cz5` <sup>[如皋]</sup> 次序：不要乱，挨～儿的来。  
 1. 【[次把次](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_ba_cz.md#次把次)】`cz5 ba cz5` <sup>[兴化]</sup> 一两次或谓次数不多：（他）冬寒天也不过来照顾～，所以也不想要他的钱。（《皮五辣子》二）  
 1. 【[次<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_r.md#次<sub>儿</sub>)】`cz5 r` <sup>[如皋]</sup> 次序。  
-1. 【[次序](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_xy.md#次序)】`cz5 xy` <sup>[如东]</sup> ① 顺序。。 ② 顾当：日子过啊蛮～。  
+1. 【[次序](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_xy.md#次序)】`cz5 xy` <sup>[如东]</sup> ① 顺序。 ② 顾当：日子过啊蛮～。  
 1. 【[次序](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_xy.md#次序)】`cz5 xy5` <sup>[如皋]</sup> ① 顺当，有条理：日子过得～，事情办得～。 ② 顺从：你放吖～啊点儿，不要讨啊吃活（生活、苦头）！ ③ 满足：这顿饭吃得～啊啦。 ④ 安适：肚子肚里不～。  
 1. 【[字](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz.md#字)】`cz6` <sup>[东台]</sup> ① 文字：汉～/识～。 ② 字据、借条等书面凭证。 ③ 旧时作为名的补充。  
 1. 【[字号](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_ho.md#字号)】`cz6 ho6` <sup>[如皋]</sup> 旧指店名。  

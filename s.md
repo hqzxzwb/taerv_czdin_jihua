@@ -309,7 +309,7 @@
 1. 【[散场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_chan.md#散场)】`saen5 chan2` <sup>[如东]</sup> 场活动的结束：大会已经～。  
 1. 【[散伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_hu.md#散伙)】`saen5 hu3` <sup>[如东]</sup> 分开，分手。  
 1. 【[散伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_hu.md#散伙)】`saen5 hu3` <sup>[东台]</sup> （团体、活动等）解散。  
-1. 【[散花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_hua.md#散花)】`saen5 hua1` <sup>[如东]</sup> 花朵分散，表示破碎了。。  
+1. 【[散花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_hua.md#散花)】`saen5 hua1` <sup>[如东]</sup> 花朵分散，表示破碎了。  
 1. 【[散黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_huan.md#散黄)】`saen5 huan1` <sup>[如东]</sup> 鸡蛋黄是粘在一起的。散黄表示鸡蛋已经坏了。比喻组织分裂了事情办坏了。  
 1. 【[散席](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_qieh.md#散席)】`saen5 qieh8` <sup>[如东]</sup> 结束酒筵。  
 1. 【[散集](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_qieh.md#散集)】`saen5 qieh8` <sup>[兴化]</sup> 农村集日的中午前后，赶集的农民和商贾陆续离开市场。  
@@ -3085,7 +3085,7 @@
 1. 【[说满](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_mun.md#说满)】`shuh7 mun3` <sup>[兴化]</sup> 指说话不留余地：话不能～，要等等再说。｜“……只怪俺昨日话语～，遭此磨难。”（《八窍珠》七七）  
 1. 【[说㗘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_pah.md#说㗘)】`shuh7 pah7` <sup>[如皋]</sup> 见“谈㗘”。  
 1. 【[说㗘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_pah.md#说㗘)】`shuh7 pah7` <sup>[如皋]</sup> 说荒诞、古怪的故事。如皋词典写“𧭤”。  
-1. 【[说嗙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_pan.md#说嗙)】`shuh7 pan5` <sup>[如东]</sup> 说故事，吹牛皮。。  
+1. 【[说嗙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_pan.md#说嗙)】`shuh7 pan5` <sup>[如东]</sup> 说故事，吹牛皮。  
 1. 【[说屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_pi_gu.md#说屁股)】`shuh7 pi5 gu` <sup>[如东]</sup> 背后说人坏话：不要～。  
 1. 【[说病话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_pien_hua.md#说病话)】`shuh7 pien6 hua6` <sup>[如皋]</sup> 指编排别人、打笑别人的诙谐话。  
 1. 【[说病话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_pien_hua.md#说病话)】`shuh7 pien6 hua6` <sup>[东台]</sup> 说一些阴阳怪气的话，打击别人，以此发泄嫉妒的心情。  
@@ -3732,7 +3732,7 @@
 1. 【[死无用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_v_ion.md#死无用)】`sz3 v2 ion6` <sup>[兴化]</sup> ① 没有本领，不会办事的人。 ② 性格懦弱的人：武二爷来者是不善，哪晓得看见何九忠厚老实，～的样子，不忍心伸手打他了。（《武松》二）。  
 1. 【[死无烂用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_v_laen_ion.md#死无烂用)】`sz3 v2 laen6 ion6` <sup>[东台]</sup> 形容一点作用都没有。  
 1. 【[死无烂用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_v_laen_ion.md#死无烂用)】`sz3 v2 laen6 ion6` <sup>[泰县]</sup> 无用、没本领。  
-1. 【[死亡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_van.md#死亡)】`sz3 van2` <sup>[如东]</sup> 生命丧失。。  
+1. 【[死亡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_van.md#死亡)】`sz3 van2` <sup>[如东]</sup> 生命丧失。  
 1. 【[死相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_xian.md#死相)】`sz3 xian5` <sup>[如东]</sup> 比喻形象难看。  
 1. 【[死相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_xian.md#死相)】`sz3 xian5` <sup>[兴化]</sup> 形容非常难看的样子：“嗯！你看你这个～！快弄镜子照照看！”（《皮五辣子》五）。也作“死色”。  
 1. 【[死心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_xien.md#死心)】`sz3 xien1` <sup>[如东]</sup> 没有任何希望了。  

@@ -260,7 +260,7 @@
 1. 【[细软](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_run.md#细软)】`xi5 run3` <sup>[兴化]</sup> ① 形容纤细柔软，特指男子性格谦和、温顺，使人感到亲切。 ② 指首饰和贵重衣物等便于携带的东西：收拾～。  
 1. 【[细软平和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_run_pien_hu.md#细软平和)】`xi5 run3 pien2 hu2` <sup>[如皋]</sup> 语速轻柔缓慢，态度和蔼可亲。  
 1. 【[细啬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_seh.md#细啬)】`xi5 seh7` <sup>[东台]</sup> 小气，吝啬，算小账。  
-1. 【[细食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_sheh.md#细食)】`xi5 sheh8` <sup>[如皋]</sup> 精饲料。。  
+1. 【[细食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_sheh.md#细食)】`xi5 sheh8` <sup>[如皋]</sup> 精饲料。  
 1. 【[细食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_sheh.md#细食)】`xi5 sheh8` <sup>[兴化]</sup> 精细的食品，如糕点、补品等：我这次生病住院，是粗人吃～。  
 1. 【[细寿宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_sheu_bo.md#细寿宝)】`xi5 sheu6 bo` 小孩子，最小的儿子或者女儿。  
 1. 【[细梢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_sho_r.md#细梢<sub>儿</sub>)】`xi5 sho1 r` <sup>[如皋]</sup> ① 络丝时分出的细于肥梢儿的一类。 ② 细长端：藕的～、竹的～。  
@@ -1055,7 +1055,7 @@
 1. 【[省睡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_shuei.md#省睡)】`xien3 shuei` <sup>[兴化]</sup> 指睡觉时比较警醒：这几天外头毛糙，大家夜里～点儿。｜“小道便是五更报晓的头陀，教人～……”（《水浒传》四五）也作“醒睡”。  
 1. 【[醒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien.md#醒)】`xien3` <sup>[泰县]</sup> 强行把弯的东西扳直。  
 1. 【[醒浮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_fv.md#醒浮)】`xien3 fv2` <sup>[如皋]</sup> 垂钓中经常轻提钓丝，防钩饵被埋住并引起游鱼注意。  
-1. 【[醒觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_go.md#醒觉)】`xien3 go5` <sup>[如东]</sup> 睡醒了。。  
+1. 【[醒觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_go.md#醒觉)】`xien3 go5` <sup>[如东]</sup> 睡醒了。  
 1. 【[醒觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_go.md#醒觉)】`xien3 go5` <sup>[兴化]</sup> 从睡眠状态中醒来：“……只怕五更睡着了，不知省觉……”（《水浒传》四五）。  
 1. 【[醒酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_jieu.md#醒酒)】`xien3 jieu3` <sup>[如东]</sup> ① 解除酒毒。 ② 酒毒已经过去。  
 1. 【[醒棵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_ku.md#醒棵)】`xien3 ku1` <sup>[如皋]</sup> 移栽后成活。  
