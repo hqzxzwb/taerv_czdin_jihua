@@ -1466,8 +1466,7 @@
 1. 【[𢳚屁眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_pi_ngaen.md#𢳚屁眼)】`xio1 pi5 ngaen3` <sup>[如东]</sup> ① 揭露使人讨厌的事。 ② 揭露丑事：不要～。  
 1. 【[𢳚起来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qi_lae.md#𢳚起来)】`xio1 qi lae` <sup>[泰县]</sup> 天气阴转晴：这刻儿天～啊。  
 1. 【[𢳚尾巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_vei_ba.md#𢳚尾巴)】`xio1 vei3 ba1` <sup>[如东]</sup> ① 揭露丑事，短事：你不要～。 ② 翻老底。  
-1. 【[𣻏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio.md#𣻏)】`xio1` <sup>[如皋]</sup> ① 厚度薄：棉𧘸子～，不暖和。 ② 小气、刻薄：处～世，待人～寡。  
-1. 【[𣻏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio.md#𣻏)】`xio1` <sup>[如皋]</sup> 黏稠度小：粥煮得～，喝起来爽口。  
+1. 【[𣻏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio.md#𣻏)】`xio1` <sup>[如皋]</sup> ① 厚度薄：棉𧘸子～，不暖和。 ② 小气、刻薄：处～世，待人～寡。 ③ 黏稠度小：粥煮得～，喝起来爽口。  
 1. 【[𣻏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio.md#𣻏)】`xio1` <sup>[如东]</sup> ① 薄：这块板～。 ② 稀：田里的玉米～。  
 1. 【[𣻏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio.md#𣻏)】`xio1` <sup>[东台]</sup> 薄、瘦、不厚道：这种纸太～，不结实。  
 1. 【[𣻏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio.md#𣻏)】`xio1` <sup>[兴化]</sup> ① 薄、稀：30克纸嫌～。｜他脸皮子～，容易翻脸。 ② 无情寡义：他为人太～，只看眼前，不顾往日情分。 ③ 本字“浇”，《广韵·萧的》古尧切“～，沃也，薄也。”《集韵》一作“𣻏”。  
@@ -1885,6 +1884,7 @@
 1. 【[孝信](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xien.md#孝信)】`xio5 xien5` <sup>[东台]</sup> 对长辈孝顺、尊敬、守信。  
 1. 【[孝烛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_zhoh.md#孝烛)】`xio5 zhoh7` <sup>[如皋]</sup> 丧期用的白色蜡烛。  
 1. 【[孝子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_zz.md#孝子)】`xio5 zz` <sup>[如东]</sup> ① 对父母十分孝敬的人。 ② 父母死后披麻戴孝的人。  
+1. 【[涍麲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_haen_zz.md#涍麲子)】`xio5 haen6 zz` <sup>[泰兴]</sup> 煮粥、面时，加入调好的麲子水。  
 1. 【[涍雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_y.md#涍雨)】`xio5 y3` <sup>[如皋]</sup> 阵雨忽停，又下。如皋词典写“潲雨”。  
 1. 【[涍猪食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_zhv_sheh.md#涍猪食)】`xio5 zhv1 sheh8` <sup>[如皋]</sup> 加水调猪食。如皋词典写“潲猪食”。  
 1. 【[笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio.md#笑)】`xio5` <sup>[如皋]</sup> ① 取笑、开心。 ② 讥笑。 ③ 耻笑。 ④ 裂：额头磕咖～下来啊。  
@@ -1909,7 +1909,7 @@
 1. 【[笑穷妒有](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qion_dv_ieu.md#笑穷妒有)】`xio5 qion2 dv5 ieu3` <sup>[东台]</sup> 讥笑穷人，嫉妒富人。一种小市民的狭隘心态。  
 1. 【[笑人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ren.md#笑人)】`xio5 ren2` <sup>[如皋]</sup> 嘲笑别人。  
 1. 【[笑嘻嘻的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xi_xi_dii.md#笑嘻嘻的)】`xio5 xi1 xi1 dii` <sup>[东台]</sup> ① 微笑的样子。 ② 轻而易举，不费事：这个店一年赚几十万，～。  
-1. 【[需<sub>要</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio.md#需<sub>要</sub>)】`xio5` <sup>[如皋]</sup> 需要的合音字。  
+1. 【[需<sub>要</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio.md#需<sub>要</sub>)】`xio5` <sup>[如皋]</sup> 需要的合音。  
 1. 【[号脉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_moh.md#号脉)】`xio6 moh8` <sup>[如皋]</sup> 中医把脉。  
 1. 【[号脉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_moh.md#号脉)】`xio6 moh8` <sup>[如东]</sup> ① 切脉。 ② 比喻诊断问题的症结：你把情况告诉我，我帮你～。  
 1. 【[号脉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_moh.md#号脉)】`xio6 moh8` <sup>[东台]</sup> 中医的搭脉。也说切脉。  
