@@ -1,5 +1,5 @@
 # 太阳平南
-tae2 ian pien2 nun2
+tae5 ian pien2 nun2
 > 如皋方言词典
 - 约在冬天中午。
 
