@@ -463,7 +463,7 @@
 1. 【[扯扯<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_cha_r.md#扯扯<sub>儿</sub>)】`cha3 cha3 r` <sup>[泰县]</sup> 乱七八糟的东西。  
 1. 【[扯扯<sub>儿</sub>亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_cha_r_qien.md#扯扯<sub>儿</sub>亲)】`cha3 cha3 r qien1` <sup>[如皋]</sup> 即“转转儿亲”。  
 1. 【[扯长麻线](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_chan_ma_xin.md#扯长麻线)】`cha3 chan2 ma2 xin5` <sup>[东台]</sup> ［喻］指话越说越多，令人不知所云。  
-1. 【[扯得住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_deh_chv.md#扯得住)】`cha3 deh chv5` <sup>[如东]</sup> 拉得住：经常销售肉鸡，本钱还～。  
+1. 【[扯得住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_deh_chv.md#扯得住)】`cha3 deh chv6` <sup>[如东]</sup> 拉得住：经常销售肉鸡，本钱还～。  
 1. 【[扯得动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_deh_ton.md#扯得动)】`cha3 deh ton6` <sup>[兴化]</sup> 意为有办法，资金上挪移得开：“……他总觉若你太尊上海地方面子大，～，一个电报去，自然有几十万汇下来……”（《官场现形记》三五）  
 1. 【[扯得恶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_deh_ngah.md#扯得恶)】`cha3 deh7 ngah7` <sup>[如皋]</sup> 见“扯得凶”。  
 1. 【[扯得凶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_deh_xion.md#扯得凶)】`cha3 deh7 xion1` <sup>[如皋]</sup> 胡扯，东拉两扯：她家～哎，向我借啊把雨伞不曾还，又借啊把乡下的二哥，二哥又借啊把他家女婿，总不晓得这把伞扯啊哪许去啊。  
@@ -2146,7 +2146,6 @@
 1. 【[鼠疮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_chuan.md#鼠疮)】`chv3 chuan1` <sup>[泰县]</sup> 淋巴结核。  
 1. 【[鼠耗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_ho.md#鼠耗)】`chv3 ho5` <sup>[兴化]</sup> 在存放的粮食中被鼠类吃掉的部分：“……日无鸡啄之米，夜无～之粮……”（《皮五辣子》一）  
 1. 【[鼠头鼠脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_teu_chv_no.md#鼠头鼠脑)】`chv3 teu2 chv3 no3` <sup>[东台]</sup> 形容猥琐、庸俗、鬼鬼祟祟的样子。  
-1. 【[住场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_chan.md#住场)】`chv5 chan2` <sup>[如皋]</sup> 住房或住房的占地。  
 1. 【[处暑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_chv.md#处暑)】`chv5 chv3` <sup>[如东]</sup> 二十四节气之一，在阳历8月22日、23日或24日。  
 1. 【[处暑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_chv.md#处暑)】`chv5 chv3` <sup>[东台]</sup> 二十四节气之一，在阳历8月22、23或24日。  
 1. 【[憷惮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_taen.md#憷惮)】`chv5 taen6` <sup>[如皋]</sup> 忌讳：老人～“老”字，欢喜说“小”字。  
@@ -2155,6 +2154,7 @@
 1. 【[住啊点](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_a_din.md#住啊点)】`chv6 a din3` <sup>[如皋]</sup> 不下雨了  
 1. 【[住啊点子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_a_din_zz.md#住啊点子)】`chv6 a din3 zz` <sup>[东台]</sup> 雨停了：外面～，快走！  
 1. 【[住在](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_cae.md#住在)】`chv6 cae6` <sup>[兴化]</sup> 地方、方面：我有不到的～，请你多多谅解。兴化词典写“处在”。  
+1. 【[住场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_chan.md#住场)】`chv6 chan2` <sup>[如皋]</sup> 住房或住房的占地。  
 1. 【[住场地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_chan_ti.md#住场地)】`chv6 chan2 ti6` <sup>[东台]</sup> 住宅的地理位置所在：他家新打的～在中心村社区。  
 1. 【[住宅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_cheh.md#住宅)】`chv6 cheh8` <sup>[如东]</sup> ① 居住的房子。 ② 宅基地。  
 1. 【[住宅墩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_cheh_den_r.md#住宅墩<sub>儿</sub>)】`chv6 cheh8 den1 r` <sup>[如皋]</sup> 住房或住房的占地。  

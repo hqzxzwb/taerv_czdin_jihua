@@ -52,10 +52,6 @@
 1. 【[台球](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_qieu.md#台球)】`tae2 qieu2` <sup>[如皋]</sup> 乒乓球的老派称法。  
 1. 【[台箱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_xian.md#台箱)】`tae2 xian1` <sup>[如东]</sup> 木制，长方形，体积大，搁置在箱框上，称台箱。  
 1. 【[台子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_zz.md#台子)】`tae2 zz` <sup>[兴化]</sup> ① 桌子。 ② 檐下台阶：廊檐～。  
-1. 【[太阳铲土](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_chaen_tv.md#太阳铲土)】`tae2 ian chaen3 tv3` <sup>[如皋]</sup> 见“太阳平土”。  
-1. 【[太阳平南](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_pien_nun.md#太阳平南)】`tae2 ian pien2 nun2` <sup>[如皋]</sup> 约在冬天中午。  
-1. 【[太阳平土](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_pien_tv.md#太阳平土)】`tae2 ian pien2 tv3` <sup>[如皋]</sup> 太阳落到地平线附近。  
-1. 【[太阳地<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_ti_r.md#太阳地<sub>儿</sub>)】`tae2 ian ti6 r` <sup>[泰县]</sup> 太阳照得到的地方：把凳儿搬到太阳地儿去。  
 1. 【[抬财神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_cae_shen.md#抬财神)】`tae2 cae2 shen` <sup>[兴化]</sup> 旧谓土匪绑票。  
 1. 【[抬财神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_cae_shen.md#抬财神)】`tae2 cae2 shen` <sup>[兴化]</sup> 旧指土匪绑票。见“请财神”。  
 1. 【[抬大轿的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_da_qio_dii.md#抬大轿的)】`tae2 da6 qio6 dii` <sup>[兴化]</sup> ① 旧称抬轿子的人。 ② （讽）指经常散着上衣前襟的人：他散衣露怀，像个～。  
@@ -90,6 +86,7 @@
 1. 【[太阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian.md#太阳)】`tae5 ian` 太阳  
 1. 【[太阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian.md#太阳)】`tae5 ian` <sup>[如东]</sup> ① 银河系的恒星之一，是一炽热的气体球，体积比地球大130万倍，质量是地球的33400倍，表面温度约6000℃，内部温度约15000部经常不断地进行原子核反应而产生大量的热能。太阳是太阳系的中心天体，距地球约1亿五千万公里。地球和其他行星都绕着它旋转并且从它得到光和热。 ② 太阳光：今朝～大。  
 1. 【[太阳暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_bo.md#太阳暴)】`tae5 ian bo5` <sup>[如皋]</sup> 日照长，阳光强烈，多指夏季。  
+1. 【[太阳铲土](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_chaen_tv.md#太阳铲土)】`tae5 ian chaen3 tv3` <sup>[如皋]</sup> 见“太阳平土”。  
 1. 【[太阳铲土](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_chaen_tv.md#太阳铲土)】`tae5 ian chaen3 tv3` <sup>[如东]</sup> 太阳开始落山。  
 1. 【[太阳打影](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_da_ien.md#太阳打影)】`tae5 ian da3 ien3` <sup>[如东]</sup> 太阳刚刚出来。  
 1. 【[太阳大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_da.md#太阳大)】`tae5 ian da6` <sup>[如东]</sup> 天气好，气温高：今朝～，要戴帽子。  
@@ -101,13 +98,16 @@
 1. 【[太阳影子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_ien_zz.md#太阳影子)】`tae5 ian ien3 zz` <sup>[如皋]</sup> ① 树荫、竹荫下的阳光透过来形成的小圆斑。 ② 人或物体遮阳的阴影。  
 1. 【[太阳窠啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_ku_a.md#太阳窠啊)】`tae5 ian ku1 a` <sup>[如皋]</sup> 日晕。  
 1. 【[太阳落山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_lah_shaen.md#太阳落山)】`tae5 ian lah8 shaen1` <sup>[如东]</sup> 日暮，太阳下沉，光线逐渐被地球遮挡，称太阳落山。  
+1. 【[太阳平南](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_pien_nun.md#太阳平南)】`tae5 ian pien2 nun2` <sup>[如皋]</sup> 约在冬天中午。  
 1. 【[太阳平南](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_pien_nun.md#太阳平南)】`tae5 ian pien2 nun2` <sup>[如东]</sup> 上午十点钟左右的时间。  
+1. 【[太阳平土](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_pien_tv.md#太阳平土)】`tae5 ian pien2 tv3` <sup>[如皋]</sup> 太阳落到地平线附近。  
 1. 【[太阳偏西](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_pin_xi.md#太阳偏西)】`tae5 ian pin1 xi1` <sup>[如东]</sup> 下午两三点钟：一觉睡到～。  
 1. 【[太阳菩萨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_pv_saeh.md#太阳菩萨)】`tae5 ian pv2 saeh7` <sup>[如皋]</sup> 太阳神。如皋旧有太阳庙、太阳庵数处。传说所祀者为建文帝（明）。  
 1. 【[太阳斜西](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_qian_xi.md#太阳斜西)】`tae5 ian qian2 xi1` <sup>[兴化]</sup> ① 下午的太阳从头顶“走”向西边：早上在浦东上车，到兴化时太阳才斜西。 ② （喻）人过中年。  
 1. 【[太阳上角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_shan_gah.md#太阳上角)】`tae5 ian shan6 gah7` <sup>[如东]</sup> 上午八九点钟左右的时间。  
 1. 【[太阳堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_tan.md#太阳堂)】`tae5 ian tan2` <sup>[如皋]</sup> 太阳穴。  
 1. 【[太阳膛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_tan.md#太阳膛)】`tae5 ian tan2` <sup>[如东]</sup> 太阳穴。  
+1. 【[太阳地<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_ti_r.md#太阳地<sub>儿</sub>)】`tae5 ian ti6 r` <sup>[泰县]</sup> 太阳照得到的地方：把凳儿搬到太阳地儿去。  
 1. 【[太阳天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_tin.md#太阳天)】`tae5 ian tin1` <sup>[如东]</sup> 天气好，万里无云。  
 1. 【[太阳毒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_toh.md#太阳毒)】`tae5 ian toh8` <sup>[如皋]</sup> ① 阳光强烈，灼人。 ② 太阳光灼伤谓之中吖（受啊）～。  
 1. 【[太阳庵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_un.md#太阳庵)】`tae5 ian un1` <sup>[如皋]</sup> 庙名。在如皋原戴庄乡。  

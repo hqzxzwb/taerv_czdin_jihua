@@ -58,6 +58,7 @@
 1. 【[瘕尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_xy.md#瘕尿)】`ha2 xy1` <sup>[如东]</sup> ① 撒尿。 ② 比喻说不出好话来：他在下～。 ③ 傻瓜。  
 1. 【[瘕尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_xy.md#瘕尿)】`ha2 xy1` <sup>[东台]</sup> 呆，笨，反应迟钝。东台词典写“蛤虚”。因为癞蛤蟆在人们印象中形象呆笨、丑陋。  
 1. 【[蝦蟆痈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ma_ion.md#蝦蟆痈)】`ha2 ma ion5` <sup>[如东]</sup> 腮腺炎。  
+1. 【[蝦蟆乌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ma_v_r.md#蝦蟆乌<sub>儿</sub>)】`ha2 ma v1 r, xia2 ma v1 r` 蝌蚪  
 1. 【[蝦蟆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ma.md#蝦蟆)】`ha2 ma2` <sup>[如皋]</sup> 蟾蜍。  
 1. 【[蝦蟆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ma.md#蝦蟆)】`ha2 ma2` <sup>[东台]</sup> 蟾蜍，俗称癞宝。  
 1. 【[蝦蟆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ma.md#蝦蟆)】`ha2 ma2` <sup>[兴化]</sup> 蟾蜍的俗称。  

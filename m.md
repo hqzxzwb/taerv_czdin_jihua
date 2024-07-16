@@ -1687,9 +1687,9 @@
 1. 【[木尺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_cheh.md#木尺)】`moh8 cheh7` <sup>[如皋]</sup> 旧时木匠的专用尺。1木尺＝0.9老尺＝0.9375市尺＝31.25厘米。  
 1. 【[木触](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_choh.md#木触)】`moh8 choh7` <sup>[如东]</sup> 反映迟钝。  
 1. 【[木冲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_chon_zz.md#木冲子)】`moh8 chon1 zz` <sup>[泰县]</sup> 愣头愣脑。  
+1. 【[木冲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_chon_zz.md#木冲子)】`moh8 chon5 zz` <sup>[如皋]</sup> 反应迟钝、不敏捷、容易上当受骗的人。  
 1. 【[木冲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_chon_zz.md#木冲子)】`moh8 chon5 zz` <sup>[东台]</sup> 指木里木足，容易上当受骗的人：他骗你，你还当真的，简直是个～。（冲有冒失意）  
 1. 【[木冲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_chon_zz.md#木冲子)】`moh8 chon5 zz` <sup>[兴化]</sup> 形容人鲁莽、不明事理：他看戏看到精彩的地方就大喊大叫，人家骂他是个～。  
-1. 【[木憃子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_chon_zz.md#木憃子)】`moh8 chon5 zz` <sup>[如皋]</sup> 反应迟钝、不敏捷、容易上当受骗的人。  
 1. 【[木住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_chv.md#木住)】`moh8 chv` <sup>[泰县]</sup> 蒙蔽，愣住。  
 1. 【[木□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_coh.md#木□)】`moh8 coh7` <sup>[泰县]</sup> 愚钝：这个人做事有些～。  
 1. 【[木锉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_cu.md#木锉)】`moh8 cu5` <sup>[如东]</sup> 锉的一种，齿较粗，用以锉木料。  

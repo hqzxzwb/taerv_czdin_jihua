@@ -321,7 +321,6 @@
 1. 【[暇意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_i.md#暇意)】`xia2 i5` <sup>[东台]</sup> 适意；舒服、惬意。  
 1. 【[暇呔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_tae.md#暇呔)】`xia2 tae3` <sup>[东台]</sup> 舒适、怡然自得的感觉。  
 1. 【[细<sub>伢</sub>子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_zz.md#细<sub>伢</sub>子)】`xia2 zz` <sup>[兴化]</sup> （西北部村镇语） “xi5 nga2 zz”的合音，小孩子：这个～太调皮。  
-1. 【[蝦蟆乌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_ma_v_r.md#蝦蟆乌<sub>儿</sub>)】`xia2 ma v1 r, ha2 ma v1 r` 蝌蚪  
 1. 【[蝦蚂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_ma.md#蝦蚂)】`xia2 ma3` <sup>[如皋]</sup> 神话中的三足蛤蟆。  
 1. 【[蝦蚂灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_ma_den.md#蝦蚂灯)】`xia2 ma3 den1` <sup>[如皋]</sup> 三脚蛤蟆形的提灯。旧时灯节上常见。  
 1. 【[霞光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_guan.md#霞光)】`xia2 guan1` <sup>[兴化]</sup> 有意思、有情趣：这次抽奖蛮有～的。｜昨儿的晚会一个名角没得，真是没～。  
