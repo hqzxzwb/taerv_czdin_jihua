@@ -6,4 +6,4 @@ mei2 guei1 bien3
 # 玫瑰饼
 mei2 guei bien3
 > 如皋方言词典
-- 见“凉糰”。
+- 见“凉团”。
