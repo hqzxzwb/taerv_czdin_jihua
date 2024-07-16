@@ -342,9 +342,8 @@
 1. 【[卖呆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_dae.md#卖呆)】`mae6 dae1` <sup>[如东]</sup> ① 在街上闲逛。 ② 无目的地东张西望：他站吖在路上～。  
 1. 【[卖呆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_dae.md#卖呆)】`mae6 dae1` <sup>[如皋]</sup> 滞留观望。  
 1. 【[卖呆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_dae.md#卖呆)】`mae6 dae1` <sup>[东台]</sup> 痴迷地呆呆地观看。  
-1. 【[卖呆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_dae.md#卖呆)】`mae6 dae1` <sup>[兴化]</sup> 看热闹。  
+1. 【[卖呆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_dae.md#卖呆)】`mae6 dae1` <sup>[兴化]</sup> ① 闲看，漫无目的地东张西望：教你上街打油，你在外头～。 ② 发愣：“……卖什么呆，还不替我死过去！”（马春阳《帆布袋与皮包》）  
 1. 【[卖呆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_dae.md#卖呆)】`mae6 dae1` <sup>[泰县]</sup> 无目的地东张西望：在街上走路时不能～。  
-1. 【[卖呆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_dae.md#卖呆)】`mae6 dae6` <sup>[兴化]</sup> ① 闲看，漫无目的地东张西望：教你上街打油，你在外头～。 ② 发愣：“……卖什么呆，还不替我死过去！”（马春阳《帆布袋与皮包》）  
 1. 【[卖狗皮膏药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_geu_pi_go_iah.md#卖狗皮膏药)】`mae6 geu3 pi2 go1 iah7` <sup>[东台]</sup> ［引］夸夸其谈，兜售自己的货色或鼓吹自己的谬论：你别在这块～，不信你那一套！  
 1. 【[卖瓜的不喊瓜苦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_gua_dii_beh_haen_gua_kv.md#卖瓜的不喊瓜苦)】`mae6 gua1 dii beh7 haen5 gua1 kv3` <sup>[如皋]</sup> 没有人说自己的东西不好。  
 1. 【[卖瓜的不喊瓜苦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_gua_dii_beh_haen_gua_kv.md#卖瓜的不喊瓜苦)】`mae6 gua1 dii beh7 haen5 gua1 kv3` <sup>[东台]</sup> 泛喻介绍自己的产品通常多说优点。  
@@ -1054,13 +1053,13 @@
 1. 【[闷灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_zo.md#闷灶)】`men6 zo5` <sup>[如皋]</sup> 无烟囱的灶。  
 1. 【[闷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_zz.md#闷子)】`men6 zz` <sup>[兴化]</sup> 性格内向的人：银子性格比较开朗，可男人三宝却是个～，三变淡打不出个闷屁来。（钱国怀：《桃子》）  
 1. 【[哞<sub>儿</sub>哞<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meu_r_meu_r.md#哞<sub>儿</sub>哞<sub>儿</sub>)】`meu r meu r` <sup>[如皋]</sup> 牛鸣叫之声。  
+1. 【[咪马吽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ma_hon.md#咪马吽)】`mi1 ma hon1` <sup>[兴化]</sup> 形容人胡涂、马虎或善于应付：这个人一头的～。此语套用佛经的“吗呢吽”。  
 1. 【[咪咪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_mi.md#咪咪)】`mi1 mi` <sup>[如东]</sup> 猫叫唤的声音。  
 1. 【[渳渳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_mi.md#渳渳)】`mi1 mi1` <sup>[东台]</sup> 小口慢慢饮酒：他喜欢小～。（《说文解字》渳，饮歃也）  
 1. 【[眯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#眯)】`mi1` <sup>[如皋]</sup> ① 闭目养神：眼睛～啊下。 ② 小睡：吃咖中饭要～刻儿。  
 1. 【[眯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#眯)】`mi1` <sup>[东台]</sup> 眼皮微微合缝，或短时间假寐：我在沙发上～下子就好啊。  
 1. 【[眯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#眯)】`mi1` <sup>[兴化]</sup> 睡着：他在椅子上～着咖。  
 1. 【[眯马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ma.md#眯马)】`mi1 ma` <sup>[兴化]</sup> 形容稀里糊涂、马马虎虎。又说“眯眯马马”“眯儿马儿”“眯家马家”。  
-1. 【[眯马吽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ma_hon.md#眯马吽)】`mi1 ma hon1` <sup>[兴化]</sup> 形容人胡涂、马虎或善于应付：这个人一头的～。此语套用佛经的“吗呢吽”。  
 1. 【[眯马人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ma_ren.md#眯马人)】`mi1 ma ren2` <sup>[如皋]</sup> 宽厚不争或糊涂的人。  
 1. 【[眯麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ma.md#眯麻)】`mi1 ma` <sup>[如皋]</sup> ① 宽厚忍让，不计较。 ② 马虎胡涂。  
 1. 【[眯麻人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ma_ren.md#眯麻人)】`mi1 ma ren2` <sup>[如皋]</sup> 糊涂人。  

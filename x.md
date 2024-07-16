@@ -764,7 +764,7 @@
 1. 【[相呆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_dae.md#相呆)】`xian5 dae1` 随便看看  
 1. 【[相呆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_dae.md#相呆)】`xian5 dae1` <sup>[如东]</sup> 漫不经心地张望：你不要站吖街上～。  
 1. 【[相呆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_dae.md#相呆)】`xian5 dae1` <sup>[东台]</sup> 呆呆地站在旁边观看。  
-1. 【[相呆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_dae.md#相呆)】`xian5 dae1` <sup>[兴化]</sup> 看热闹、闲看：他才退休，感到无聊，就到街上～。｜她相了一会呆，正要向城里县府走去。（马春阳《父女双婚事》）又称“卖呆”“望呆”。  
+1. 【[相呆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_dae.md#相呆)】`xian5 dae1` <sup>[兴化]</sup> 看热闹、闲看。又称“卖呆”“望呆”：他才退休，感到无聊，就到街上～。｜她相了一会呆，正要向城里县府走去。（马春阳《父女双婚事》）  
 1. 【[相夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_fv.md#相夫)】`xian5 fv` <sup>[东台]</sup> 旧时社会上一种站台盘的角色，通常人们都让他三分。  
 1. 【[相附](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_fv.md#相附)】`xian5 fv` <sup>[如皋]</sup> 识相、知趣、顺应服从。  
 1. 【[相附](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_fv.md#相附)】`xian5 fv` <sup>[如东]</sup> 忍让：他交关～。  

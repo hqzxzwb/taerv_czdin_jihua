@@ -881,7 +881,7 @@
 1. 【[望](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van.md#望)】`van6` ① 看 ② 朝向：～北跑/朝北走  
 1. 【[望](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van.md#望)】`van6` <sup>[如皋]</sup> ① 介词。同“朝、往”：～东看、～西走、～外。 ② 动词。同“看”：你～～看。  
 1. 【[望船沉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_chun_chen.md#望船沉)】`van6 chun2 chen2` <sup>[兴化]</sup> 面临坏的结局不采取补致措施：“过去发大水，几十家合一个圩子，没有人领阵，张不顾李，李不顾张，临了弄个～……”（马春阳《风里雨里》）  
-1. 【[望呆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_dae.md#望呆)】`van6 dae1` <sup>[兴化]</sup> 看热闹。  
+1. 【[望呆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_dae.md#望呆)】`van6 dae1` <sup>[兴化]</sup> 同“相呆”。  
 1. 【[望下赖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ha_lae.md#望下赖)】`van6 ha6 lae6` <sup>[如皋]</sup> ① 被拖时尽力向后、向下，不愿走开。 ② 喻不愿离开现有的环境，设法留下。  
 1. 【[望下𨂞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ha_taen.md#望下𨂞)】`van6 ha6 taen5` <sup>[如皋]</sup> 坐、卧着慢慢滑下。  
 1. 【[望后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_heu.md#望后)】`van6 heu6` <sup>[如皋]</sup> 指时间或空间上从此向后：～你就住在这块；从这里～走。  

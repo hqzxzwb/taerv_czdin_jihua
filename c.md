@@ -1953,10 +1953,10 @@
 1. 【[碜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen.md#碜)】`chuen3` <sup>[如皋]</sup> 杂有沙子的不适感：青菜不曾洗干净有点儿～｜鞋子进沙子，脚穿吖肚里觉察～。  
 1. 【[碜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen.md#碜)】`chuen3` <sup>[泰县]</sup> 夹泥沙：饭里有沙子，吃起来～的。  
 1. 【[碜牙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_nga_zz.md#碜牙子)】`chuen3 nga2 zz` <sup>[如东]</sup> 食物中夹杂着泥沙，咀嚼时砸牙齿，叫做碜：这碗饭～牙子。  
-1. 【[村襟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_jien.md#村襟)】`chuen5 jien` <sup>[如皋]</sup> 衣襟都是双层，里层为～。  
 1. 【[衬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen.md#衬)】`chuen5` <sup>[如东]</sup> 以假意的过分的评价进行夸耀：他在下～你！  
 1. 【[衬布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_bv.md#衬布)】`chuen5 bv5` <sup>[如东]</sup> 缝制衣服时，衬在面料里面的一层布，称衬布。  
 1. 【[衬菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_cae.md#衬菜)】`chuen5 cae5` <sup>[如皋]</sup> 做陪衬的菜。如做“扒红蹄”，可用茼蒿、豌豆头儿等做～。  
+1. 【[衬襟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_jien.md#衬襟)】`chuen5 jien` <sup>[如皋]</sup> 衣襟都是双层，里层为～。  
 1. 【[衬裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_kv.md#衬裤)】`chuen5 kv5` <sup>[如东]</sup> 穿在罩裤里面的裤子。  
 1. 【[衬衫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_shaen.md#衬衫)】`chuen5 shaen1` <sup>[如东]</sup> 穿在罩衫里面的褂子。  
 1. 【[衬衫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_shaen.md#衬衫)】`chuen5 shaen1` <sup>[东台]</sup> 西式单上衣。  
