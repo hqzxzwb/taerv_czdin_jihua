@@ -118,7 +118,7 @@
 1. 【[发水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_shuei.md#发水)】`faeh7 shuei3` <sup>[如东]</sup> 暴涨洪水。  
 1. 【[发达](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_taeh.md#发达)】`faeh7 taeh8` <sup>[兴化]</sup> 得意、显达：老朋友，多年不见，你在哪块～咖？  
 1. 【[发蹄筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_ti_jien.md#发蹄筋)】`faeh7 ti2 jien1` <sup>[如皋]</sup> ① 油～：将猪蹄筋干货浸入温油使之变软透明。然后下滚油煠成海绵状； ② 水～：先用温水浸，然后下沸水泡发胀开。  
-1. 【[发挺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_tien.md#发挺)】`faeh7 tien6` <sup>[如皋]</sup> ① 发硬：麲子饭见风强，盛吖碗面子上的就～。 ② 逆反心态：这伢儿的脾家容易同人～。  
+1. 【[发挺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_tien.md#发挺)】`faeh7 tien6` <sup>[如皋]</sup> ① 发硬：𪎉子饭见风强，盛吖碗面子上的就～。 ② 逆反心态：这伢儿的脾家容易同人～。  
 1. 【[发帖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_tih_zz.md#发帖子)】`faeh7 tih7 zz` <sup>[兴化]</sup> ① 发出柬帖：“……爷只须发个贴子与捕衙就是了……”（《梼杌闲评》四） ② 婚俗：合婚后，认为男女“八字”相合，男方即将大红庚帖连同其他礼品发至女方，至此婚约乃成。  
 1. 【[发苕束](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_tio_shoh.md#发苕束)】`faeh7 tio2 shoh7` <sup>[泰县]</sup> 编扎扫帚。  
 1. 【[发蘣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_ton.md#发蘣)】`faeh7 ton5` <sup>[如皋]</sup> 发嗲，撒娇。  
@@ -834,7 +834,7 @@
 1. 【[福相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_xian.md#福相)】`foh7 xian5` <sup>[东台]</sup> 有福的相貌。  
 1. 【[腹稿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_go.md#腹稿)】`foh7 go3` <sup>[东台]</sup> 先在心中孕育的文稿。  
 1. 【[腹中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_zhon.md#腹中)】`foh7 zhon1` <sup>[东台]</sup> 腹中所记的书籍和所有的学问：他的～不丑，一般的大学生是不及他的。  
-1. 【[覆饭面子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_faen_min_zz.md#覆饭面子)】`foh7 faen6 min6 zz` <sup>[如皋]</sup> 煮麲子饭，上面难熟。在烧透收汤时，将面层覆翻一下，加盖后再烧透，焖过，才得透熟。  
+1. 【[覆饭面子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_faen_min_zz.md#覆饭面子)】`foh7 faen6 min6 zz` <sup>[如皋]</sup> 煮𪎉子饭，上面难熟。在烧透收汤时，将面层覆翻一下，加盖后再烧透，焖过，才得透熟。  
 1. 【[覆篷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_pon.md#覆篷)】`foh7 pon2` <sup>[东台]</sup> 旧式房屋床铺上方的覆盖物，用于遮挡灰尘杂物。  
 1. 【[覆篷上的老鼠屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_pon_shan_dii_lo_chv_shr.md#覆篷上的老鼠屎)】`foh7 pon2 shan dii lo3 chv3 shr3` <sup>[东台]</sup> 詈语，喻指什么好处都没有。  
 1. 【[覆水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_shuei.md#覆水)】`foh7 shuei3` <sup>[兴化]</sup> 冬干时，给麦田上水。  

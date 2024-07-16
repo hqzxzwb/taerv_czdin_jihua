@@ -351,7 +351,7 @@
 1. 【[揦住啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_chv_a.md#揦住啊)】`laeh8 chv6 a` <sup>[如皋]</sup> 拦住了。  
 1. 【[揦柱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_chv.md#揦柱)】`laeh8 chv6` <sup>[如东]</sup> 大栏上边的柱子。  
 1. 【[揦子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_zz.md#揦子)】`laeh8 zz` 栅栏，栏杆  
-1. 【[擸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh.md#擸)】`laeh8` <sup>[如皋]</sup> ① 磨：～麲子。 ② 拖带：跟吖后头～。 ③ 粗略地扫：把地～下子。 ④ 磨、擦：～洋火、皮捱～咖破啊。 ⑤ 磨炼：这几年他～出个人来呀。  
+1. 【[擸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh.md#擸)】`laeh8` <sup>[如皋]</sup> ① 磨：～𪎉子。 ② 拖带：跟吖后头～。 ③ 粗略地扫：把地～下子。 ④ 磨、擦：～洋火、皮捱～咖破啊。 ⑤ 磨炼：这几年他～出个人来呀。  
 1. 【[擸𢶍/儠𠎷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_saeh.md#擸𢶍/儠𠎷)】`laeh8 saeh` <sup>[如皋]</sup> 手段凶狠恶毒。  
 1. 【[瘌疤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_ba.md#瘌疤)】`laeh8 ba1` <sup>[如皋]</sup> 秃疮的疤痕，不长头髮。  
 1. 【[瘌疮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_chuan.md#瘌疮)】`laeh8 chuan1` <sup>[如皋]</sup> 秃疮，有银屑。另见“蛀毛癣”。  
@@ -499,7 +499,7 @@
 1. 【[两头三计](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_teu_saen_ji.md#两头三计)】`laen3 teu2 saen1 ji5` <sup>[兴化]</sup> 精力不能集中：一家分成几处，～的，怎吖过日子？  
 1. 【[两头讨好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_teu_to_ho.md#两头讨好)】`laen3 teu2 to3 ho3` <sup>[东台]</sup> 不得罪对立的双方，并能从双方得到好处。  
 1. 【[两𢱉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_vae.md#两𢱉)】`laen3 vae3` <sup>[兴化]</sup> 见“两碰”。  
-1. 【[懒麲<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_haen_r.md#懒麲<sub>儿</sub>)】`laen3 haen6 r` <sup>[如皋]</sup> 磨而不筛，不分粗细混在一起的麲子  
+1. 【[懒𪎉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_haen_r.md#懒𪎉<sub>儿</sub>)】`laen3 haen6 r` <sup>[如皋]</sup> 磨而不筛，不分粗细混在一起的𪎉子  
 1. 【[懒黄病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_huan_pien.md#懒黄病)】`laen3 huan2 pien6` <sup>[兴化]</sup> 黄疸肝炎的俗称：他得咖个～，吃得做不得。  
 1. 【[懒黄病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_huan_pien.md#懒黄病)】`laen3 huan2 pien6` <sup>[泰县]</sup> 钩虫病。  
 1. 【[懒爷<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ia_r.md#懒爷<sub>儿</sub>)】`laen3 ia2 r` <sup>[如东]</sup> 非常懒惰、非常肮脏、非常贫困的人。  

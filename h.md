@@ -429,14 +429,14 @@
 1. 【[陷人坑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_ren_ken.md#陷人坑)】`haen6 ren2 ken1` <sup>[兴化]</sup> （喻）害人的圈套（原文此处记音“坑”为ken3，是孤例）：传销组织是个～，千万覅上当。  
 1. 【[陷针布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_zhen_bv.md#陷针布)】`haen6 zhen1 bv5` <sup>[如皋]</sup> 布鞋底最下面的一层布，纳底时线迹可陷入。  
 1. 【[馅心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_xien.md#馅心)】`haen6 xien1` <sup>[兴化]</sup> 面食、点心里包的糖、豆沙或菜末、肉糜等。  
-1. 【[麲筛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_shae.md#麲筛)】`haen6 shae1` <sup>[如东]</sup> 工具。圆形，竹篾制，有方孔，直径约2毫米，可以过滤元麦、大麦麲子。  
-1. 【[麲筛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_shae.md#麲筛)】`haen6 shae1` <sup>[兴化]</sup> 加工大麦、元麦麲子用的筛子，筛眼比较大。  
-1. 【[麲筛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_shae.md#麲筛)】`haen6 shae1` <sup>[泰县]</sup> 加工大元麦的专用工具。  
-1. 【[麲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_zz.md#麲子)】`haen6 zz` <sup>[如东]</sup> 元麦、大麦、玉米等谷物经过碾磨，颗粒较粗的一种粮食，叫麲子。  
-1. 【[麲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_zz.md#麲子)】`haen6 zz` <sup>[如皋]</sup> 杂粮磨成的粗粒，多用以煮饭：玉米～、元麦～、大麦～；～饭、～粥。  
-1. 【[麲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_zz.md#麲子)】`haen6 zz` <sup>[东台]</sup> 麦子和玉米磨成的粗粒：大麦～；玉米～。  
-1. 【[麲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_zz.md#麲子)】`haen6 zz` <sup>[兴化]</sup> 粗的大麦粉：～饭。  
-1. 【[麲子和米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_zz_hu_mi.md#麲子和米)】`haen6 zz hu2 mi3` <sup>[兴化]</sup> （喻）性状相似的东西混在一起：三个人你望着我，我望着你，眼睛睁得大大的，谁也说不出一个～来。（兴文：《得胜湖的定名及传说》）  
+1. 【[𪎉筛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_shae.md#𪎉筛)】`haen6 shae1` <sup>[如东]</sup> 工具。圆形，竹篾制，有方孔，直径约2毫米，可以过滤元麦、大麦𪎉子。  
+1. 【[𪎉筛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_shae.md#𪎉筛)】`haen6 shae1` <sup>[兴化]</sup> 加工大麦、元麦𪎉子用的筛子，筛眼比较大。  
+1. 【[𪎉筛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_shae.md#𪎉筛)】`haen6 shae1` <sup>[泰县]</sup> 加工大元麦的专用工具。  
+1. 【[𪎉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_zz.md#𪎉子)】`haen6 zz` <sup>[如东]</sup> 元麦、大麦、玉米等谷物经过碾磨，颗粒较粗的一种粮食，叫𪎉子。  
+1. 【[𪎉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_zz.md#𪎉子)】`haen6 zz` <sup>[如皋]</sup> 杂粮磨成的粗粒，多用以煮饭：玉米～、元麦～、大麦～；～饭、～粥。  
+1. 【[𪎉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_zz.md#𪎉子)】`haen6 zz` <sup>[东台]</sup> 麦子和玉米磨成的粗粒：大麦～；玉米～。  
+1. 【[𪎉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_zz.md#𪎉子)】`haen6 zz` <sup>[兴化]</sup> 粗的大麦粉：～饭。  
+1. 【[𪎉子和米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_zz_hu_mi.md#𪎉子和米)】`haen6 zz hu2 mi3` <sup>[兴化]</sup> （喻）性状相似的东西混在一起：三个人你望着我，我望着你，眼睛睁得大大的，谁也说不出一个～来。（兴文：《得胜湖的定名及传说》）  
 1. 【[嗃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hah.md#嗃)】`hah7` <sup>[如皋]</sup> 令牛前进的喝声。  
 1. 【[蠚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hah.md#蠚)】`hah7` 碰到，接触；临近，靠近  
 1. 【[蠚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hah.md#蠚)】`hah7` <sup>[如东]</sup> 合，靠紧：花花慢慢的～到他身上去啊。  
@@ -1809,7 +1809,7 @@
 1. 【[㹕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen.md#㹕)】`huaen1` <sup>[如东]</sup> 不软和：～饭。  
 1. 【[㹕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen.md#㹕)】`huaen1` <sup>[如皋]</sup> ① 硬；饭煮得～，老人家不宜吃。 ② 强直，不灵活：坐啊狠吖，身子发～。 ③ 骨质疏松：骨头发咖～，不能跌跟头。  
 1. 【[㹕强](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_qian.md#㹕强)】`huaen1 qian2` <sup>[如东]</sup> ① 比较硬。 ② 比喻老人身体比较硬朗、健康。  
-1. 【[㹕硗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_qio.md#㹕硗)】`huaen1 qio1` <sup>[如东]</sup> 比较坚硬干燥：元麦麲子饭有些～。  
+1. 【[㹕硗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_qio.md#㹕硗)】`huaen1 qio1` <sup>[如东]</sup> 比较坚硬干燥：元麦𪎉子饭有些～。  
 1. 【[㹕铮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_zhen.md#㹕铮)】`huaen1 zhen1` <sup>[如皋]</sup> 硬朗，矍铄，如皋词典后字写“𠏫”：老爹的身子骨蛮～的。  
 1. 【[还](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen.md#还)】`huaen2` <sup>[东台]</sup> ① ［此处为动词］ ② 返回：～乡｜～原。 ③ 归还：～债｜偿～。 ④ 回报别人对自己的行动：～琴（把刚刚学习的琴法在老师面前演练一遍）。  
 1. 【[还本](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_ben.md#还本)】`huaen2 ben3` <sup>[东台]</sup> 归还借款的本金：借钱要按期～付息。  

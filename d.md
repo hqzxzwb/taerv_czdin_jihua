@@ -824,7 +824,7 @@
 1. 【[大麦䜺<sub>儿</sub>粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_moh_cae_r_zhoh.md#大麦䜺<sub>儿</sub>粥)】`da6 moh8 cae3 r zhoh7` <sup>[如东]</sup> 大麦䜺儿做成的粥，柔软，富有营养。  
 1. 【[大麦醋糟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_moh_cv_zo.md#大麦醋糟)】`da6 moh8 cv5 zo1` <sup>[如东]</sup> 大麦制醋后剩余的糟粕，人中药。  
 1. 【[大麦稭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_moh_gae.md#大麦稭)】`da6 moh8 gae1` <sup>[如东]</sup> 禾本科植物大麦秸。  
-1. 【[大麦麲子饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_moh_haen_zz_faen.md#大麦麲子饭)】`da6 moh8 haen6 zz faen6` <sup>[如东]</sup> 大麦麲子做成的饭，味香，干松，营养丰富。  
+1. 【[大麦𪎉子饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_moh_haen_zz_faen.md#大麦𪎉子饭)】`da6 moh8 haen6 zz faen6` <sup>[如东]</sup> 大麦𪎉子做成的饭，味香，干松，营养丰富。  
 1. 【[大麦烧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_moh_sho.md#大麦烧)】`da6 moh8 sho1` <sup>[兴化]</sup> 以大麦为原料酿制的烧酒：……暂时吃不到三坛～，就请存库吧。（马春阳《父女双婚事》）  
 1. 【[大模大样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_mu_da_ian.md#大模大样)】`da6 mu2 da6 ian6` <sup>[如东]</sup> 行动大方自然。  
 1. 【[大拇指扒耳朵——插不进](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_mu_zheh_pa_er_du_chaeh_beh_jien.md#大拇指扒耳朵——插不进)】`da6 mu3 zheh7 pa2 er3 du chaeh7 beh7 jien5` <sup>[东台]</sup>   

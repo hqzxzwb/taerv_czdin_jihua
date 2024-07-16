@@ -2642,7 +2642,7 @@
 1. 【[粗不可细算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cv_beh_ku_xi_sun.md#粗不可细算)】`cv1 beh7 ku3 xi5 sun5` <sup>[兴化]</sup> 有的事粗看细算结果大不一样：“……一尺布我多卖二文，～，一匹布就多啦……”（扬二《程咬金卖筢子》）  
 1. 【[粗布衣裳菜饭饱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cv_bv_i_shan_cae_faen_bo.md#粗布衣裳菜饭饱)】`cv1 bv5 i1 shan cae5 faen6 bo3` <sup>[兴化]</sup> （喻）形容清苦贫寒的生活：“……大爷们是混光蛋的！能够～，就求之不得……”（扬说《皮五辣子打肉》）  
 1. 【[粗糙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cv_co.md#粗糙)】`cv1 co5` <sup>[如皋]</sup> 说话不慎、动作鲁莽。  
-1. 【[粗麲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cv_haen_zz.md#粗麲子)】`cv1 haen6 zz` <sup>[如皋]</sup> 粒度大的麲子。  
+1. 【[粗𪎉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cv_haen_zz.md#粗𪎉子)】`cv1 haen6 zz` <sup>[如皋]</sup> 粒度大的𪎉子。  
 1. 【[粗货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cv_hu.md#粗货)】`cv1 hu5` <sup>[兴化]</sup> 普通、常见，而且所值不高的东西：这点儿～不值几文，你带家去分人吧。  
 1. 【[粗花子盐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cv_hua_zz_in.md#粗花子盐)】`cv1 hua1 zz in2` <sup>[如皋]</sup> 未精炼的粗盐。  
 1. 【[粗糠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cv_kan.md#粗糠)】`cv1 kan1` <sup>[如东]</sup> 稻谷脱壳的外壳，称粗糠。  

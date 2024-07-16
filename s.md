@@ -597,8 +597,8 @@
 1. 【[筛青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_qien.md#筛青)】`shae1 qien1` <sup>[如皋]</sup> 用烟筛筛去烟土的水烟。  
 1. 【[筛筛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_shae_r.md#筛筛<sub>儿</sub>)】`shae1 shae1 r` <sup>[泰县]</sup> 咸小菜。  
 1. 【[筛动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_ton.md#筛动)】`shae1 ton` <sup>[如皋]</sup> ① 形容身体颤动。或为冷，或为受惊吓。 ② 形容地震时圈转颤抖的动态。  
-1. 【[筛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_zz.md#筛子)】`shae1 zz` <sup>[如皋]</sup> ① 筛选用具。农用为竹篾编制。依网眼从大到小分为：隔～、漏～、黄豆儿筛～、米～、麲～、䜺儿～等6种。另有罗～、水烟～。 ② 小孩的寄名。儿初生，置筛内筛之，意为筛而不漏，不会早天。 ③ 法器。旧俗新娘送房，以筛子罩窗户。可辟鬼车（传说中的九头八尾鸟儿）偷看；棺材离家入土，丧户用以在家中“镇地”。  
-1. 【[筛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_zz.md#筛子)】`shae1 zz` <sup>[如东]</sup> 工具。圆形，有帮，底用竹篾编织网状，小孔方形，能够把小颗粒抖漏下去，粗颗粒保留在上面。有麲筛、米筛等多种。  
+1. 【[筛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_zz.md#筛子)】`shae1 zz` <sup>[如皋]</sup> ① 筛选用具。农用为竹篾编制。依网眼从大到小分为：隔～、漏～、黄豆儿筛～、米～、𪎉～、䜺儿～等6种。另有罗～、水烟～。 ② 小孩的寄名。儿初生，置筛内筛之，意为筛而不漏，不会早天。 ③ 法器。旧俗新娘送房，以筛子罩窗户。可辟鬼车（传说中的九头八尾鸟儿）偷看；棺材离家入土，丧户用以在家中“镇地”。  
+1. 【[筛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_zz.md#筛子)】`shae1 zz` <sup>[如东]</sup> 工具。圆形，有帮，底用竹篾编织网状，小孔方形，能够把小颗粒抖漏下去，粗颗粒保留在上面。有𪎉筛、米筛等多种。  
 1. 【[筛子顶上的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_zz_dien_shan_dii.md#筛子顶上的)】`shae1 zz dien3 shan6 dii` <sup>[如东]</sup> 浮在筛子上面没有被抖落下去的谷子，颗粒比较大。比喻好东西：你是～。  
 1. 【[筛子装水——漏洞多](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_zz_zhuan_shuei_leu_ton_du.md#筛子装水——漏洞多)】`shae1 zz zhuan1 shuei3 leu6 ton6 du1` <sup>[东台]</sup>   
 1. 【[筛子做锅盖——块块漏气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_zz_zu_gu_gae_kuae_kuae_leu_qi.md#筛子做锅盖——块块漏气)】`shae1 zz zu5 gu1 gae5 kuae5 kuae5 leu6 qi5` <sup>[东台]</sup>   
@@ -3010,7 +3010,7 @@
 1. 【[顺趟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_tan.md#顺趟)】`shuen6 tan5` <sup>[如东]</sup> 顺利：这次交易十分～。  
 1. 【[说……鸟<sub>儿</sub>话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_nio_r_hua.md#说……鸟<sub>儿</sub>话)】`shuh7 nio3 r hua6` <sup>[东台]</sup> 背后说某某的坏话。  
 1. 【[说不到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_beh_do.md#说不到)】`shuh7 beh do5` <sup>[泰县]</sup> 不用谢、不要紧：“这件事你帮吖大忙。”“～，我应该做的。”  
-1. 【[说不出个麲子和米来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_beh_chueh_gu_haen_zz_hu_mi_lae.md#说不出个麲子和米来)】`shuh7 beh7 chueh7 gu haen6 zz hu2 mi3 lae` <sup>[东台]</sup> 说不出道道，分不清彼此。  
+1. 【[说不出个𪎉子和米来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_beh_chueh_gu_haen_zz_hu_mi_lae.md#说不出个𪎉子和米来)】`shuh7 beh7 chueh7 gu haen6 zz hu2 mi3 lae` <sup>[东台]</sup> 说不出道道，分不清彼此。  
 1. 【[说不来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_beh_lae.md#说不来)】`shuh7 beh7 lae2` 话不投机  
 1. 【[说不来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_beh_lae.md#说不来)】`shuh7 beh7 lae2` <sup>[如皋]</sup> 有直感而不能说清：他的表现让人～；这种气味怪得很，～。  
 1. 【[说不来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_beh_lae.md#说不来)】`shuh7 beh7 lae2` <sup>[如东]</sup> 有感觉而说不清楚。  

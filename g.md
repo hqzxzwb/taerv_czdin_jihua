@@ -913,7 +913,7 @@
 1. 【[糕（高）粽（中）团圆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_zon_tun_iun.md#糕（高）粽（中）团圆)】`go1 zon5 （zhon5） tun2 iun2` <sup>[如皋]</sup> 吉庆语谐糕、粽、团、䬧四样食品。  
 1. 【[糕箱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_xian.md#糕箱)】`go1 xian1` <sup>[如东]</sup> 蒸糕的笼具，木制，方形，比蒸笼小，有格子，有字模板，用笼布。  
 1. 【[糕箱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_xian_r.md#糕箱<sub>儿</sub>)】`go1 xian1 r` <sup>[如皋]</sup> 蒸米粉糕的木制方形笼具。与普通蒸笼不同处是：有画糕的格子；有字、画模板；笼子较细密；用笼布，不用笼垫儿。  
-1. 【[胶黏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_nin.md#胶黏)】`go1 nin` <sup>[如皋]</sup> 稠和：大麦麲子粥的粥饮汤～。石灰和泥要揣啊～吖。  
+1. 【[胶黏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_nin.md#胶黏)】`go1 nin` <sup>[如皋]</sup> 稠和：大麦𪎉子粥的粥饮汤～。石灰和泥要揣啊～吖。  
 1. 【[膏药黐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_iah_chr.md#膏药黐)】`go1 iah chr1` <sup>[兴化]</sup> 用植物油熬制的胶液：熬膏药需要～子……状如沥青，是一切膏药之母。（汪曾祺《王世海的黄昏》）  
 1. 【[膏药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_iah.md#膏药)】`go1 iah7` <sup>[如东]</sup> 一种中医外用药。呈胶状，用时贴于患处，可治疗疮、疖、肿痛及某些内科疾病。  
 1. 【[膏药黐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_iah_chr.md#膏药黐)】`go1 iah7 chr` <sup>[如东]</sup> 一种黏稠状的柔软物。  

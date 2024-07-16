@@ -182,7 +182,7 @@
 1. 【[人字梁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_cz_lian.md#人字梁)】`ren2 cz6 lian2` <sup>[如皋]</sup> 三角形梁架。  
 1. 【[人大心大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_da_xien_da.md#人大心大)】`ren2 da6 xien1 da6` <sup>[兴化]</sup> 随着年岁的增长，心路也随之增大：前几年，她还是一个黄毛丫头，现在～，甚的都晓得咖。  
 1. 【[人档子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_dan_zz.md#人档子)】`ren2 dan5 zz` <sup>[兴化]</sup> 人与人之间的空隙：街上人挤人，他从～中穿来穿去。  
-1. 【[人到葬将垛，麲子䜺<sub>儿</sub>总下锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_do_zan_jian_tu_haen_zz_cae_r_zon_xia_gu.md#人到葬将垛，麲子䜺<sub>儿</sub>总下锅)】`ren2 do5 zan5 jian5 tu6 haen6 zz cae3 r zon3 xia6 gu1` <sup>[东台]</sup> 葬将垛在西溪，是隋朝抗倭英烈墓地，意思是饥肠辘辘的人回来急要吃饭，成为当地人的谚语。  
+1. 【[人到葬将垛，𪎉子䜺<sub>儿</sub>总下锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_do_zan_jian_tu_haen_zz_cae_r_zon_xia_gu.md#人到葬将垛，𪎉子䜺<sub>儿</sub>总下锅)】`ren2 do5 zan5 jian5 tu6 haen6 zz cae3 r zon3 xia6 gu1` <sup>[东台]</sup> 葬将垛在西溪，是隋朝抗倭英烈墓地，意思是饥肠辘辘的人回来急要吃饭，成为当地人的谚语。  
 1. 【[人多没好食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_du_meh_ho_sheh.md#人多没好食)】`ren2 du1 meh8 ho3 sheh8` <sup>[东台]</sup> 人多了，需求量大，就难以精心制作。  
 1. 【[人多抢食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_du_qian_sheh.md#人多抢食)】`ren2 du1 qian3 sheh8` <sup>[东台]</sup> 人一多，就有争着吃的兴致和吃不到的担心。  
 1. 【[人多嘴杂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_du_zuei_zaeh.md#人多嘴杂)】`ren2 du1 zuei3 zaeh7` <sup>[泰兴]</sup> 谈论的人多，各种议论都有。亦指在场的人多，七嘴八舌。  
@@ -734,7 +734,7 @@
 1. 【[软席子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_qieh_zz.md#软席子)】`run3 qieh8 zz` <sup>[如皋]</sup> 可折叠的草席。  
 1. 【[软求](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_qieu.md#软求)】`run3 qieu2` <sup>[兴化]</sup> 低声下气，苦苦哀求：自己有错不能硬顶，只能～。｜众人一齐上前。毛二胡子自认不是……只求凤四老爹不要动手。（《儒林外史》五二）  
 1. 【[软熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_shoh.md#软熟)】`run3 shoh` <sup>[兴化]</sup> 形容柔软、纯熟：新棉花胎～。｜“身上毛都如彼一，只此三根如此硬枪，必然是救我命的。”（《西游记》七五）  
-1. 【[软熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_shoh.md#软熟)】`run3 shoh8` <sup>[如皋]</sup> 柔软匀和：棉花胎蛮～的；玉米麲子饭难煮得这吖～。  
+1. 【[软熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_shoh.md#软熟)】`run3 shoh8` <sup>[如皋]</sup> 柔软匀和：棉花胎蛮～的；玉米𪎉子饭难煮得这吖～。  
 1. 【[软熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_shoh.md#软熟)】`run3 shoh8` <sup>[泰县]</sup> 柔软。  
 1. 【[软酥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_sv.md#软酥)】`run3 sv1` <sup>[如东]</sup> 柔软而酥松：这些饼子比较～。  
 1. 【[软瘫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_taen.md#软瘫)】`run3 taen1` <sup>[兴化]</sup> ① 瘫痪症患者。 ② 因劳累或疾病而无力起坐：他做啊一天重活技，晚上～吖。  

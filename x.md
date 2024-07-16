@@ -191,8 +191,8 @@
 1. 【[细鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_guei.md#细鬼)】`xi5 guei3` <sup>[泰县]</sup> （禁忌语）小孩。  
 1. 【[细鬼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_guei_r.md#细鬼<sub>儿</sub>)】`xi5 guei3 r` <sup>[兴化]</sup> 对小孩的昵称：这个～倒蛮神气的。  
 1. 【[细姑娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_gv_nian.md#细姑娘)】`xi5 gv1 nian2` <sup>[如东]</sup> ① 年纪轻的姑娘。 ② 排行最小的姑娘。  
-1. 【[细麲<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_haen_r.md#细麲<sub>儿</sub>)】`xi5 haen6 r` <sup>[如皋]</sup> 麲子中较细的一种。  
-1. 【[细麲筛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_haen_shae.md#细麲筛)】`xi5 haen6 shae1` <sup>[如皋]</sup> 专筛细麲子的筛子。  
+1. 【[细𪎉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_haen_r.md#细𪎉<sub>儿</sub>)】`xi5 haen6 r` <sup>[如皋]</sup> 𪎉子中较细的一种。  
+1. 【[细𪎉筛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_haen_shae.md#细𪎉筛)】`xi5 haen6 shae1` <sup>[如皋]</sup> 专筛细𪎉子的筛子。  
 1. 【[细侯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_heu.md#细侯)】`xi5 heu` <sup>[如东]</sup> 小男孩。  
 1. 【[细货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_hu.md#细货)】`xi5 hu5` <sup>[如皋]</sup> 詈语、呢语，指小女孩。  
 1. 【[细货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_hu.md#细货)】`xi5 hu5` <sup>[如东]</sup> 小孩（贬义）。  
@@ -1883,7 +1883,7 @@
 1. 【[孝信](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xien.md#孝信)】`xio5 xien5` <sup>[东台]</sup> 对长辈孝顺、尊敬、守信。  
 1. 【[孝烛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_zhoh.md#孝烛)】`xio5 zhoh7` <sup>[如皋]</sup> 丧期用的白色蜡烛。  
 1. 【[孝子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_zz.md#孝子)】`xio5 zz` <sup>[如东]</sup> ① 对父母十分孝敬的人。 ② 父母死后披麻戴孝的人。  
-1. 【[涍麲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_haen_zz.md#涍麲子)】`xio5 haen6 zz` <sup>[泰兴]</sup> 煮粥、面时，加入调好的麲子水。  
+1. 【[涍𪎉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_haen_zz.md#涍𪎉子)】`xio5 haen6 zz` <sup>[泰兴]</sup> 煮粥、面时，加入调好的𪎉子水。  
 1. 【[涍雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_y.md#涍雨)】`xio5 y3` <sup>[如皋]</sup> 阵雨忽停，又下。如皋词典写“潲雨”。  
 1. 【[涍猪食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_zhv_sheh.md#涍猪食)】`xio5 zhv1 sheh8` <sup>[如皋]</sup> 加水调猪食。如皋词典写“潲猪食”。  
 1. 【[笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio.md#笑)】`xio5` <sup>[如皋]</sup> ① 取笑、开心。 ② 讥笑。 ③ 耻笑。 ④ 裂：额头磕咖～下来啊。  

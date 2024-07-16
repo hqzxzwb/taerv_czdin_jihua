@@ -1861,7 +1861,7 @@
 1. 【[奘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuan.md#奘)】`zhuan3` <sup>[东台]</sup> 粗而大：身高腰～。  
 1. 【[奘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuan.md#奘)】`zhuan3` <sup>[兴化]</sup> 粗大：～绳子｜～竹子｜～喉咙（粗大噪门）《方言》卷一｜～，在朗切……秦晋之间，凡人之大谓之～，或谓之壮。‖《红楼梦》第六回有“你老拔一根寒毛比我们的腰还壮”句。  
 1. 【[奘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuan.md#奘)】`zhuan3` <sup>[泰县]</sup> 粗：这根柱子～。  
-1. 【[奘麲<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuan_haen_r.md#奘麲<sub>儿</sub>)】`zhuan3 haen6 r` <sup>[如皋]</sup> 麲子中比较粗的一种。又叫粗麲儿，与“细麲儿”相对。  
+1. 【[奘𪎉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuan_haen_r.md#奘𪎉<sub>儿</sub>)】`zhuan3 haen6 r` <sup>[如皋]</sup> 𪎉子中比较粗的一种。又叫粗𪎉儿，与“细𪎉儿”相对。  
 1. 【[奘脚佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuan_jiah_lo_r.md#奘脚佬<sub>儿</sub>)】`zhuan3 jiah7 lo3 r` <sup>[如皋]</sup> 患象皮病的人。  
 1. 【[奘脚髈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuan_jiah_pan.md#奘脚髈)】`zhuan3 jiah7 pan3` <sup>[如东]</sup> ① 形容大腿粗壮而有力量。 ② 比喻有钱有势的人：他是～。 ③ 患血丝虫病的人，腿变粗了，也叫奘脚髈。  
 1. 【[奘脚病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuan_jiah_pien.md#奘脚病)】`zhuan3 jiah7 pien6` <sup>[如皋]</sup> 象皮病。  

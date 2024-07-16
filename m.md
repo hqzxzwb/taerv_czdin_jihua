@@ -1934,7 +1934,7 @@
 1. 【[磨茵菜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_ien_cae_r.md#磨茵菜<sub>儿</sub>)】`mu6 ien1 cae5 r` <sup>[东台]</sup> 鲜嫩的小青菜。  
 1. 【[磨嘴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_jy_r.md#磨嘴<sub>儿</sub>)】`mu6 jy3 r` <sup>[如东]</sup> 安装在磨担头上的一根圆形条木，一端套在磨耳上，推动石磨旋转。  
 1. 【[磨口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_keu.md#磨口)】`mu6 keu3` <sup>[如皋]</sup> 石磨上下片之间。  
-1. 【[磨粮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_lian.md#磨粮)】`mu6 lian2` <sup>[如东]</sup> 用石磨把大麦、元麦、玉米等谷物磨成麲子、糏。  
+1. 【[磨粮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_lian.md#磨粮)】`mu6 lian2` <sup>[如东]</sup> 用石磨把大麦、元麦、玉米等谷物磨成𪎉子、糏。  
 1. 【[磨麻油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_ma_ieu.md#磨麻油)】`mu6 ma2 ieu2` <sup>[兴化]</sup> （戏）流泪：她考试不及格，躲啊房里～。  
 1. 【[磨磨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_mu.md#磨磨)】`mu6 mu6` <sup>[如东]</sup> ① 把谷物放在磨上磨碎：把麦子～。 ② 没有牙齿而用牙床咀嚼食物：王老太吃蚕豆，只能放吖嘴里～。  
 1. 【[磨眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_ngaen.md#磨眼)】`mu6 ngaen3` <sup>[如皋]</sup> 石磨上片内圈的两个孔。其下面呈扫帚形凹面。一称粗眼，一称细眼，用以控制加料量和磨碎度。  
