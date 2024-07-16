@@ -1668,7 +1668,7 @@
 1. 【[油鞋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_hae.md#油鞋)】`ieu2 hae2` <sup>[兴化]</sup> 防水的胶鞋。又称“套鞋”。  
 1. 【[油花<sub>儿</sub>水滑的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_hua_r_shuei_vaeh_dii.md#油花<sub>儿</sub>水滑的)】`ieu2 hua1 r shuei3 vaeh8 dii` <sup>[如皋]</sup> 状汤中油多。  
 1. 【[油滑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_huaeh.md#油滑)】`ieu2 huaeh8` <sup>[如东]</sup> 地面潮湿而光滑：刚刚落咖雨，地上～的。（）说话圆碌而狡猾。｜这个人说话～。  
-1. 【[油葫芦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_hv_lv.md#油葫芦)】`ieu2 hv2 lv1` <sup>[如东]</sup> 蟋蟀科昆虫油葫芦，又称大头狗，体长圆形，长约2厘米。体背黑褐色，有光泽；腹面较淡。有复眼1对。翅2对，前翅淡褐色，有光泽，后翅黄褐色。足3对，后足腿节粗壮。尾毛1对，褐色；雌者有1产卵管，视之俨若3尾。栖于杂草内或砖瓦、土块下。昼伏夜出，性好斗。  
+1. 【[油葫芦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_hv_lv.md#油葫芦)】`ieu2 hv2 lv2` <sup>[如东]</sup> 蟋蟀科昆虫油葫芦，又称大头狗，体长圆形，长约2厘米。体背黑褐色，有光泽；腹面较淡。有复眼1对。翅2对，前翅淡褐色，有光泽，后翅黄褐色。足3对，后足腿节粗壮。尾毛1对，褐色；雌者有1产卵管，视之俨若3尾。栖于杂草内或砖瓦、土块下。昼伏夜出，性好斗。  
 1. 【[油叽麻哈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_ji_ma_ha.md#油叽麻哈)】`ieu2 ji ma2 ha1` <sup>[兴化]</sup> 形容衣物油迹斑斑，脏污不堪：你这身工作服～的，半河水都洗不干净。  
 1. 【[油脚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_jiah_zz.md#油脚子)】`ieu2 jiah7 zz` <sup>[如皋]</sup> 油的沉淀物。  
 1. 【[油尖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_jin.md#油尖)】`ieu2 jin1` <sup>[如皋]</sup> 油坊榨油用的木楔。  

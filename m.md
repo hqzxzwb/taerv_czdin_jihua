@@ -468,7 +468,7 @@
 1. 【[慢工出细货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_gon_chueh_xi_hu.md#慢工出细货)】`maen6 gon1 chueh7 xi5 hu5` <sup>[兴化]</sup> 要舍得花时间和精力才能办好事情，或做出好东西来：“……常言说得好，～，你费了几日功夫，才撰就一副好对联来……”（《广陵潮》八四）  
 1. 【[慢火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_hu.md#慢火)】`maen6 hu3` <sup>[东台]</sup> 文火；微火。  
 1. 【[慢言悄语](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_in_qio_y.md#慢言悄语)】`maen6 in2 qio3 y3` <sup>[如皋]</sup> 状态度和蔼，说话缓慢委婉，有耐心而又语意透彻。  
-1. 【[慢径逍遥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_jien_xio_io.md#慢径逍遥)】`maen6 jien1 xio1 io2` <sup>[如皋]</sup> 缓慢、随意、闲适的样子。  
+1. 【[慢经逍遥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_jien_xio_io.md#慢经逍遥)】`maen6 jien1 xio1 io2` <sup>[如皋]</sup> 缓慢、随意、闲适的样子。参见“懈怠”。  
 1. 【[慢酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_jieu.md#慢酒)】`maen6 jieu3` <sup>[如皋]</sup> 与“莽酒”相对，指每次饮酒很少很慢，间隔久。  
 1. 【[慢客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_keh.md#慢客)】`maen6 keh7` <sup>[兴化]</sup> 怠慢了客人：朋友来啊，你还是打你的麻将，不是～咖？  
 1. 【[慢慢慢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_maen_maen_r.md#慢慢慢<sub>儿</sub>)】`maen6 maen2 maen6 r` <sup>[如皋]</sup> 极慢地。  
@@ -488,7 +488,6 @@
 1. 【[慢症](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_zhen.md#慢症)】`maen6 zhen5` <sup>[泰县]</sup> ① 慢性病。 ② 事情长期拖下去不能了结。  
 1. 【[慢症候](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_zhen_heu.md#慢症候)】`maen6 zhen5 heu` <sup>[如皋]</sup> 见“慢症”。  
 1. 【[慢子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_zz.md#慢子)】`maen6 zz` <sup>[兴化]</sup> ① 行动迟缓的人：他是二～，急不起来。 ② 慢性子的人：她是有名的～，火上堂屋都不着急。  
-1. 【[漫径逍遥的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_jien_xio_io_dii.md#漫径逍遥的)】`maen6 jien5 xio1 io2 dii` <sup>[如皋]</sup> 见“懈怠”。  
 1. 【[蛮犟理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_qian_li.md#蛮犟理)】`maen6 qian6 li3` <sup>[如东]</sup> 强词夺理。  
 1. 【[摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah.md#摸)】`mah8` <sup>[兴化]</sup> ① 拾掇：她一早起来就～咖扫的，把家里收拾干净。 ② 找：他家住的地方太偏僻，我几次不曾～到。  
 1. 【[摸不着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_beh_chah.md#摸不着)】`mah8 beh chah8` <sup>[兴化]</sup> 不了解、不清楚：这件事头绪复杂，我～头脑。  
@@ -1274,8 +1273,8 @@
 1. 【[抿嘴<sub>儿</sub>笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_jy_r_xio.md#抿嘴<sub>儿</sub>笑)】`mien3 jy3 r xio5` <sup>[如东]</sup> 微笑而不露牙齿。  
 1. 【[抿嘴<sub>儿</sub>笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_jy_r_xio.md#抿嘴<sub>儿</sub>笑)】`mien3 jy3 r xio5` <sup>[如皋]</sup> 扁唇笑。  
 1. 【[抿口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_keu.md#抿口)】`mien3 keu3` <sup>[如皋]</sup> 口部完全闭合：疮抿吖口｜坛子盖儿不～，容易走气。  
+1. 【[抿目](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_moh.md#抿目)】`mien3 moh8` <sup>[东台]</sup> 闭眼：死不～。  
 1. 【[抿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_zz.md#抿子)】`mien3 zz` <sup>[兴化]</sup> 瓦工用砂浆勾墙缝的工具，由小铁棒做成，前端扁平。  
-1. 【[瞑目](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_moh.md#瞑目)】`mien3 moh8` <sup>[东台]</sup> 闭眼：死不～。  
 1. 【[命大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_da.md#命大)】`mien6 da6` <sup>[东台]</sup> 命运好；幸运；难死：算你～，逃过啊这一劫。  
 1. 【[命根头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_gen_teu_zz.md#命根头子)】`mien6 gen1 teu2 zz` <sup>[如皋]</sup> 昵称最疼爱的晚辈或物件：爷娘家侄子，～；这条波斯绒毛狗是他的～。  
 1. 【[命根子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_gen_zz.md#命根子)】`mien6 gen1 zz` <sup>[如东]</sup> ① 自己的生命。比喻心爱的子孙。 ② 比喻最重要的事物。  

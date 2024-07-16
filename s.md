@@ -2776,7 +2776,7 @@
 1. 【[水话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_hua.md#水话)】`shuei3 hua6` <sup>[如皋]</sup> 傻话、笨话、“发饿狠”的话。  
 1. 【[水话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_hua.md#水话)】`shuei3 hua6` <sup>[兴化]</sup> 没有根据或不负责任的话：他这些～一句也不能听。  
 1. 【[水绘园](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_huei_iun.md#水绘园)】`shuei3 huei6 iun2` <sup>[如皋]</sup> 明末消初，冒氏别业。冒辟疆、董小宛的居地。建筑为徽派风格。其中有水明楼一座，若浮于水中，其他人文遗迹众多，曾名为水绘庵、雨香庵。现今为如皋4A级（国家级）旅游景点。  
-1. 【[水葫芦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_hv_lv.md#水葫芦)】`shuei3 hv2 lv` <sup>[如东]</sup> 鸟。体长24.5厘米，上体黑褐色，眼前、颊、上喉黑色，耳、颈侧棕色。羽银白。眼红。嘴褐，先端黄。腿和趾黄色。栖息于水草丛生的湖沼中，常成对或成群在水面游泳。善潜水。凤眼莲的通称。  
+1. 【[水葫芦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_hv_lv.md#水葫芦)】`shuei3 hv2 lv2` <sup>[如东]</sup> ① 鸟。体长24.5厘米，上体黑褐色，眼前、颊、上喉黑色，耳、颈侧棕色。羽银白。眼红。嘴褐，先端黄。腿和趾黄色。栖息于水草丛生的湖沼中，常成对或成群在水面游泳。善潜水。 ② 凤眼莲的通称。  
 1. 【[水油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_ieu.md#水油)】`shuei3 ieu2` <sup>[如皋]</sup> 清洗猪内脏时剩下的脂肪，或煮猪肉时撤起的油，熬去本分，称之。  
 1. 【[水烟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_in.md#水烟)】`shuei3 in1` <sup>[如东]</sup> 烟的一种。烟丝切成丝状，压成方块。吸烟时，扒下一点放在烟台头上点燃。也叫板儿烟。产地主要在兰州。  
 1. 【[水烟店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_in_din.md#水烟店)】`shuei3 in1 din5` <sup>[如皋]</sup> 专售水烟的商店。  

@@ -1120,12 +1120,12 @@
 1. 【[里锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_gu.md#里锅)】`li3 gu1` <sup>[东台]</sup> 旧式灶在里面的一口较大的锅。（另一个叫口锅）  
 1. 【[里锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_gu.md#里锅)】`li3 gu1` <sup>[兴化]</sup> 灶上靠墙壁的锅，多用来煮饭粥。  
 1. 【[里锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_gu.md#里锅)】`li3 gu1` <sup>[泰县]</sup> 农村老式灶台上两口锅里，靠里面的锅子。靠外的称为“口锅”。  
+1. 【[里拐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_guae_r.md#里拐<sub>儿</sub>)】`li3 guae3 r` <sup>[如皋]</sup> 胫骨下端。内侧踝。  
 1. 【[里花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_hua.md#里花)】`li3 hua1` <sup>[如皋]</sup> 秤杆内面的秤花（秤星）。  
 1. 【[里花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_hua.md#里花)】`li3 hua1` <sup>[兴化]</sup> 见“怀花”。  
 1. 【[里墼外砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_jieh_vae_zhun.md#里墼外砖)】`li3 jieh7 vae6 zhun1` <sup>[兴化]</sup> 墙体里层为土墼，外皮砖砌，既可节省砖块，又保证墙体厚度。  
 1. 【[里口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_keu.md#里口)】`li3 keu3` <sup>[如皋]</sup> 里边不远处：厨房门口是水缸，缸～是灶。  
 1. 【[里口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_keu.md#里口)】`li3 keu3` <sup>[兴化]</sup> 里边，相对于“外口”：请你往～站站，防止跌下去。  
-1. 【[里踝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_kuae_r.md#里踝<sub>儿</sub>)】`li3 kuae3 r` <sup>[如皋]</sup> 胫骨下端。内侧踝。  
 1. 【[里路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_lv.md#里路)】`li3 lv6` 小路，偏僻的路  
 1. 【[里路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_lv.md#里路)】`li3 lv6` <sup>[如东]</sup> 乡间小道：走～。  
 1. 【[里路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_lv.md#里路)】`li3 lv6` <sup>[如皋]</sup> 与干道相对的乡间路。  
