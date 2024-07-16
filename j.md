@@ -996,7 +996,7 @@
 1. 【[金锭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_tien.md#金锭)】`jien1 tien6` <sup>[如东]</sup> 熔铸成一定形状的黄金。明清代有“金元宝”“金锞”等名称。  
 1. 【[金条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_tio.md#金条)】`jien1 tio2` <sup>[如东]</sup> 黄金铸成的长条，一般每条重10两，也有5两或20两的。  
 1. 【[金童玉女](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_ton_ioh_ny.md#金童玉女)】`jien1 ton2 ioh8 ny3` <sup>[如皋]</sup> ① 褒指貌美聪慧的男孩、女孩。 ② 停灵时在供桌上放立的男女纸人。  
-1. 【[金糰<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_tun_r.md#金糰<sub>儿</sub>)】`jien1 tun2 r` <sup>[如皋]</sup> 大圆子裹芝麻炸成的点心。  
+1. 【[金团<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_tun_r.md#金团<sub>儿</sub>)】`jien1 tun2 r` <sup>[如皋]</sup> 大圆子裹芝麻炸成的点心。  
 1. 【[金鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_y.md#金鱼)】`jien1 y2` <sup>[如东]</sup> 鲤科动物金鱼，是鲫鱼的变种。  
 1. 【[金鱼虫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_y_chon_zz.md#金鱼虫子)】`jien1 y2 chon2 zz` <sup>[兴化]</sup> 水蚤，可作金鱼的饵料。  
 1. 【[金鱼眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_y_ngaen.md#金鱼眼)】`jien1 y2 ngaen3` <sup>[兴化]</sup> （喻）形容突出的眼球。  

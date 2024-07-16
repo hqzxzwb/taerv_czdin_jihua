@@ -910,7 +910,7 @@
 1. 【[篙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_zz.md#篙子)】`go1 zz` <sup>[兴化]</sup> ① 竹篙。 ② 特指撑船用的竹篙。  
 1. 【[糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go.md#糕)】`go1` <sup>[如东]</sup> 食品。用米粉、面粉加工而成，一般块状。品种很多，如年糕、蛋糕、粉糖糕、重阳糕、桂片糕等。  
 1. 【[糕（高）粽（中）团圆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_zon_tun_iun.md#糕（高）粽（中）团圆)】`go1 zon5 （zhon5） tun2 iun2` <sup>[东台]</sup> ［引］以四种糯米制品的谐音寓意高中团圆，祝愿考中高校或升到级别高的岗位，祝愿一家人前程远大团团圆圆。  
-1. 【[糕（高）粽（中）团圆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_zon_tun_iun.md#糕（高）粽（中）团圆)】`go1 zon5 （zhon5） tun2 iun2` <sup>[如皋]</sup> 吉庆语谐糕、粽、糰、䬧四样食品。  
+1. 【[糕（高）粽（中）团圆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_zon_tun_iun.md#糕（高）粽（中）团圆)】`go1 zon5 （zhon5） tun2 iun2` <sup>[如皋]</sup> 吉庆语谐糕、粽、团、䬧四样食品。  
 1. 【[糕箱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_xian.md#糕箱)】`go1 xian1` <sup>[如东]</sup> 蒸糕的笼具，木制，方形，比蒸笼小，有格子，有字模板，用笼布。  
 1. 【[糕箱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_xian_r.md#糕箱<sub>儿</sub>)】`go1 xian1 r` <sup>[如皋]</sup> 蒸米粉糕的木制方形笼具。与普通蒸笼不同处是：有画糕的格子；有字、画模板；笼子较细密；用笼布，不用笼垫儿。  
 1. 【[胶黏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_nin.md#胶黏)】`go1 nin` <sup>[如皋]</sup> 稠和：大麦麲子粥的粥饮汤～。石灰和泥要揣啊～吖。  

@@ -1274,7 +1274,7 @@
 1. 【[看头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_teu.md#看头)】`kun5 teu2` <sup>[兴化]</sup> 指是否有看的价值：绱鞋，本来没有～，但是麻皮匠绱鞋就能吸引人。（汪曾祺：《晚饭花》）  
 1. 【[看西洋镜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_xi_ian_jien.md#看西洋镜)】`kun5 xi1 ian2 jien5` <sup>[东台]</sup> 看西洋片，早期多数为欧美风景画。引申为喜欢看稀奇、好热闹，甚至不顾正事。  
 1. 【[看西厢领<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_xi_xian_lien_r.md#看西厢领<sub>儿</sub>)】`kun5 xi1 xian1 lien3 r` <sup>[泰县]</sup> 看笑话。  
-1. 【[看戏淌眼泪——替古人担忧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_xi_tan_ngaen_ly_ti_gv_ren_daen_ieu.md#看戏淌眼泪——替古人担忧)】`kun5 xi5 tan3 ngaen3 ly ti5 gv3 ren2 daen5 ieu1` <sup>[东台]</sup>   
+1. 【[看戏淌眼泪——替古人担忧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_xi_tan_ngaen.md#看戏淌眼泪——替古人担忧)】`kun5 xi5 tan3 ngaen3 ly ti5 gv3 ren2 daen5 ieu1` <sup>[东台]</sup>   
 1. 【[看相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_xian.md#看相)】`kun5 xian5` <sup>[如皋]</sup> 表面的样子：这些家俱～不丑，用料差。  
 1. 【[看相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_xian.md#看相)】`kun5 xian5` <sup>[东台]</sup> ① （名词）外表的样子。 ② （动词）袖手旁观，看其出洋相：你俫不能～，不闻不问，一定要出手相助。  
 1. 【[看相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_xian.md#看相)】`kun5 xian5` <sup>[兴化]</sup> 目睹别人处境不利或难堪面不出来解围：他平日架子大大的，如今遇到难处大家就拿他～。｜兄弟啊，你这个忙法做啥？你不是居心看我的相吗？（扬二：《古城会》）  

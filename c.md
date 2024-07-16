@@ -2698,7 +2698,7 @@
 1. 【[糍粑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_ba.md#糍粑)】`cz2 ba1` <sup>[兴化]</sup> ① 一种食品，用糯米饭和上糖或葱盐做成饼状，再用油煎。 ② （借）被人呵斥谓“吃～”。  
 1. 【[糍粑烫脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_ba_tan_lin.md#糍粑烫脸)】`cz2 ba1 tan5 lin3` <sup>[兴化]</sup> 形容呵斥人的汹汹气势：动不动捱他～的，哪个也受不了。  
 1. 【[糍尔糊尔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_er_hv_er.md#糍尔糊尔)】`cz2 er hv2 er` <sup>[如东]</sup> 迷迷糊糊：这个人～的，不能委托他出去办事。  
-1. 【[糍饭团](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_faen_tun.md#糍饭团)】`cz2 faen6 tun2` <sup>[如皋]</sup> 糯米饭抐成的糰，作点心。  
+1. 【[糍饭团](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_faen_tun.md#糍饭团)】`cz2 faen6 tun2` <sup>[如皋]</sup> 糯米饭抐成的团，作点心。  
 1. 【[糍糊邋酱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_hv_laeh_jian.md#糍糊邋酱)】`cz2 hv2 laeh8 jian5` <sup>[如东]</sup> ① 食物黏糊。 ② 泥浆容烂：刚落过雨，路上～的。 ③ 办事不清爽：这个人做事一的。  
 1. 【[茨菰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_gv.md#茨菰)】`cz2 gv1` <sup>[东台]</sup> 水生植物，叶子像箭头，开白花，地下球茎作蔬菜。（也作“慈姑”）  
 1. 【[茨菰青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_gv_qien.md#茨菰青)】`cz2 gv1 qien1` <sup>[如皋]</sup> 像茨菰一样的青色。  

@@ -1229,7 +1229,7 @@
 1. 【[凉爽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_shuan.md#凉爽)】`lian2 shuan3` <sup>[如东]</sup> 凉快，舒适。  
 1. 【[凉水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_shuei.md#凉水)】`lian2 shuei3` <sup>[如东]</sup> 温度较低的水。  
 1. 【[凉榻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_taeh.md#凉榻)】`lian2 taeh7` <sup>[如东]</sup> 藤、竹或木制成的躺椅。  
-1. 【[凉糰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_tun.md#凉糰)】`lian2 tun2` <sup>[如皋]</sup> 甜馅糯米粉饼，卵圆形，冷食。  
+1. 【[凉团](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_tun.md#凉团)】`lian2 tun2` <sup>[如皋]</sup> 甜馅糯米粉饼，卵圆形，冷食。  
 1. 【[凉宵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_xio.md#凉宵)】`lian2 xio1` <sup>[如东]</sup> 凉爽的夜晚。  
 1. 【[凉渣味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_zha_vei.md#凉渣味)】`lian2 zha1 vei6` <sup>[如皋]</sup> 生青菜、菠菜等败坏的气味。  
 1. 【[凉枕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_zhen.md#凉枕)】`lian2 zhen3` <sup>[如皋]</sup> 竹枕、藤枕、瓷枕等凉爽的枕头。  

@@ -1947,7 +1947,7 @@
 1. 【[寿头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_teu.md#寿头)】`sheu6 teu2` <sup>[如皋]</sup> 不懂人情世故的人。  
 1. 【[寿蹄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_ti.md#寿蹄)】`sheu6 ti2` <sup>[如皋]</sup> 祝寿礼品之一，即猪蹄髈。  
 1. 【[寿桃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_to.md#寿桃)】`sheu6 to2` <sup>[东台]</sup> 祝寿所用的桃，一般用面粉制成，也有用鲜桃的。  
-1. 【[寿糰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_tun.md#寿糰)】`sheu6 tun2` <sup>[如皋]</sup> 祝寿礼品之一，有红标记的米糰。  
+1. 【[寿团](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_tun.md#寿团)】`sheu6 tun2` <sup>[如皋]</sup> 祝寿礼品之一，有红标记的米团。  
 1. 【[寿限](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_xiaen.md#寿限)】`sheu6 xiaen6` <sup>[兴化]</sup> 迷信指人命中注定的岁数：～到啊，神仙也治不了。｜“……你撞着太岁爷，也是阁王注定你的～了……”（《说岳全传》七五）  
 1. 【[寿星佬吃砒霜——活得不耐烦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_xien_lo_qieh_pi_shuan_huh_deh_beh_nae_faen.md#寿星佬吃砒霜——活得不耐烦)】`sheu6 xien1 lo3 qieh7 pi1 shuan1 huh8 deh7 beh7 nae6 faen2` <sup>[东台]</sup>   
 1. 【[寿星佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_xien_lo_r.md#寿星佬<sub>儿</sub>)】`sheu6 xien1 lo3 r` <sup>[如皋]</sup> ① 敬称老人。 ② 指过生日者。  

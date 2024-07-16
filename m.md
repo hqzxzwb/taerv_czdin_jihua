@@ -850,7 +850,7 @@
 1. 【[煤油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_ieu.md#煤油)】`mei2 ieu2` <sup>[如东]</sup> 从石油中分馏出来的燃料用油，挥发性比汽油低，比柴油高，无色液体。也叫洋油、火油。  
 1. 【[煤油炉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_ieu_lv.md#煤油炉)】`mei2 ieu2 lv2` <sup>[东台]</sup> 又叫“火油炉”（五更机），以煤油为燃料，多头捻子的炊具，用以方便个人饮食。  
 1. 【[煤炭圆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_taen_iun_zz.md#煤炭圆子)】`mei2 taen5 iun2 zz` <sup>[东台]</sup> 一种机制的类似于汤圆形状的煤粉燃料。  
-1. 【[玫瑰饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_guei_bien.md#玫瑰饼)】`mei2 guei bien3` <sup>[如皋]</sup> 见“凉糰”。  
+1. 【[玫瑰饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_guei_bien.md#玫瑰饼)】`mei2 guei bien3` <sup>[如皋]</sup> 见“凉团”。  
 1. 【[玫瑰饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_guei_bien.md#玫瑰饼)】`mei2 guei1 bien3` <sup>[如皋]</sup> 即凉团。  
 1. 【[玫瑰花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_guei_hua.md#玫瑰花)】`mei2 guei1 hua1` <sup>[如东]</sup> 蔷薇科植物玫瑰，直立乔木。  
 1. 【[玫瑰露](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_guei_lv.md#玫瑰露)】`mei2 guei1 lv6` <sup>[如东]</sup> 蔷薇科植物玫瑰花的蒸馏液。  

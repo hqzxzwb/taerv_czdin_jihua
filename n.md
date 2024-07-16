@@ -1906,7 +1906,7 @@
 1. 【[糯米银牙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_mi_ien_nga.md#糯米银牙)】`nu6 mi3 ien2 nga2` <sup>[兴化]</sup> 形容小而排列整齐的洁白牙齿：（这俏女人）脸皮雪白的，一对双箍撩骚眼，一嘴～。（《皮五辣子》五）  
 1. 【[糯米菩萨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_mi_pv_saeh.md#糯米菩萨)】`nu6 mi3 pv2 saeh` <sup>[兴化]</sup> 形容性情随和，缺乏主见的人：“……我们姨娘又是一位～，麟哥哥说一句话，他准依着”。（《广陵潮》四八）  
 1. 【[糯米屑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_mi_xih.md#糯米屑)】`nu6 mi3 xih7` <sup>[如东]</sup> 糯米碾成的粉末。  
-1. 【[糯米糏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_mi_xih.md#糯米糏)】`nu6 mi3 xih7` <sup>[如皋]</sup> 糯米用碓磕成的米糏。为圆子、糰、糍粑等的原材料。  
+1. 【[糯米糏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_mi_xih.md#糯米糏)】`nu6 mi3 xih7` <sup>[如皋]</sup> 糯米用碓磕成的米糏。为圆子、团、糍粑等的原材料。  
 1. 【[糯米粽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_mi_zon_zz.md#糯米粽子)】`nu6 mi3 zon5 zz` <sup>[如东]</sup> 粽子的一种。以糯米为原料包裹起来的粽子。  
 1. 【[糯稻根须](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_to_gen_xy.md#糯稻根须)】`nu6 to6 gen1 xy1` <sup>[如东]</sup> 禾本科植物糯稻的根须。  
 1. 【[内八字](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nuei_baeh_cz.md#内八字)】`nuei6 baeh7 cz6` <sup>[兴化]</sup> 指人行走时足头斜向内，后跟分向外的那种步态。  

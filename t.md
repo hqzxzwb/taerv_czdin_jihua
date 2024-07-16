@@ -2393,6 +2393,7 @@
 1. 【[贪污](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_v.md#贪污)】`tun1 v1` <sup>[如东]</sup> 利用职务上的便利非法地取得财物：～分子。  
 1. 【[贪心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_xien.md#贪心)】`tun1 xien1` <sup>[如东]</sup> 占有的欲望：王二的～过大。  
 1. 【[贪小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_xio.md#贪小)】`tun1 xio3` <sup>[东台]</sup> 爱占小便宜。  
+1. 【[团](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun.md#团)】`tun2` <sup>[如皋]</sup> 糯米粉做的点心，内有馅，外有米粒。  
 1. 【[团](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun.md#团)】`tun2` <sup>[如东]</sup> 军队的一种建制单位。中国人民解放军的建制为：团辖3个营营辖3个连连辖3个排，排辖3个班，每班12人，称三三制：一个～的兵力。  
 1. 【[团](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun.md#团)】`tun2` <sup>[东台]</sup> ① 用糯米粉做成的食品：麻～｜桂花板油凉～。 ② 与盐业相关的地名：新～｜垛～。 ③ 蜷缩：俯就～一宿吧。  
 1. 【[团](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun.md#团)】`tun2` <sup>[兴化]</sup> ① 蹲：～吖地下。 ② 停留：～吖家里不出来。 ③ 聚集：家人～吖一起，欢欢喜喜过年。  
@@ -2425,7 +2426,6 @@
 1. 【[昙花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_hua.md#昙花)】`tun2 hua1` <sup>[如东]</sup> 仙人掌科植物昙花，直立灌木，长约1米。主枝圆柱形，分枝扁平，绿色，叶状，边缘波状，中肋坚硬，无叶片。花大型，晚间开放开放期短，仅数小时；花被白色，干时黄色。果实长圆形红色，有汁。种子多数，黑色。庭园栽培。  
 1. 【[潭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun.md#潭)】`tun2` <sup>[如皋]</sup> ① 口径小而深的水域：大河底下捱流水漩吖个深～，人忑下去交关危险！ ② 地名通名：薛家～儿（在如城东北城脚一带）。  
 1. 【[潭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun.md#潭)】`tun2` <sup>[如东]</sup> 自然形成或人工挖掘的水塘，称潭。  
-1. 【[糰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun.md#糰)】`tun2` <sup>[如皋]</sup> 糯米粉做的点心，内有馅，外有米粒。  
 1. 【[探](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun.md#探)】`tun5` 取下（套着的东西）：把镯头（帽子）～下来。  
 1. 【[探](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun.md#探)】`tun5` <sup>[如皋]</sup> 向上取下：鱼～钩子、～项圈、～门。  
 1. 【[探](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun.md#探)】`tun5` <sup>[东台]</sup> ① 收缩或晃动肢体，使套在它上面的东西脱落：～下一条裤腿｜～下手镯。 ② ［引］从某处解脱出来：我暂时走不开，要有人来接班，我才能～出来。  
