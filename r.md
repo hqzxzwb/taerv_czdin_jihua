@@ -669,9 +669,10 @@
 1. 【[辱句](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_jy.md#辱句)】`roh8 jy` <sup>[如皋]</sup> 说反话讽刺。  
 1. 【[辱没](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_meh.md#辱没)】`roh8 meh8` <sup>[东台]</sup> 侮辱埋没，有损声誉。  
 1. 【[辱绝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_qiuh.md#辱绝)】`roh8 qiuh8` <sup>[兴化]</sup> 羞辱、挖苦：你这个不是夸奖，直接就是～人。  
-1. 【[氄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ron.md#氄)】`ron2` <sup>[兴化]</sup> ① 鸟兽身上的细毛。 ② （借）松软：新棉花胎又～又暖和。《集韵·锺韵》如容切｜“～，鸟兽细毛也”。  
 1. 【[氄抖抖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ron_deu_deu.md#氄抖抖)】`ron2 deu deu3` <sup>[兴化]</sup> 形容鸟兽细毛长而且密：小儿羔的皮～的。氄｜《集韵·肿韵》乳勇切，《说文》毛盛也。  
 1. 【[氄斗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ron_deu_r.md#氄斗<sub>儿</sub>)】`ron2 deu3 r` <sup>[兴化]</sup> 雄鸡尾羽根部的细绒毛：～大的鸡毛做毽子最好。  
+1. 【[绒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ron.md#绒)】`ron2` <sup>[如皋]</sup> 极细碎  
+1. 【[绒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ron.md#绒)】`ron2` <sup>[兴化]</sup> ① 鸟兽身上的细毛。 ② （借）松软：新棉花胎又～又暖和。  
 1. 【[绒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ron.md#绒)】`ron2` <sup>[泰县]</sup> 粉碎：纸都撕啊～吖。  
 1. 【[绒柏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ron_boh.md#绒柏)】`ron2 boh7` <sup>[如东]</sup> 灌木或小乔木。叶线状，刺形，先端尖。  
 1. 【[绒抖抖的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ron_deu_deu_dii.md#绒抖抖的)】`ron2 deu3 deu3 dii` <sup>[如皋]</sup> 纤维成团而细软蓬松的样子。  
@@ -679,7 +680,6 @@
 1. 【[绒毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ron_mo.md#绒毛)】`ron2 mo2` <sup>[如皋]</sup> 鸟兽细软的毛。  
 1. 【[绒球球的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ron_qieu_qieu_dii.md#绒球球的)】`ron2 qieu2 qieu2 dii` <sup>[如皋]</sup> 纤维成团而细软蓬松的样子。  
 1. 【[绒线衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ron_xin_i.md#绒线衣)】`ron2 xin5 i1` <sup>[兴化]</sup> 用毛线织成的衫裤。  
-1. 【[𥼬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ron.md#𥼬)】`ron2` <sup>[如皋]</sup> 极细碎  
 1. 【[冗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ron.md#冗)】`ron5` <sup>[如皋]</sup> 差、弱、无用：货色～、本事～、～脚儿。  
 1. 【[冗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ron.md#冗)】`ron5` <sup>[如东]</sup> 软弱，无能：这个人太～。  
 1. 【[冗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ron.md#冗)】`ron5` <sup>[东台]</sup> 太差。  

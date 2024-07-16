@@ -719,6 +719,7 @@
 1. 【[急宝<sub>儿</sub>脾家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_bo_r_pi_jia.md#急宝<sub>儿</sub>脾家)】`jieh7 bo3 r pi2 jia1` <sup>[如皋]</sup> 急性子又受不了挫折。  
 1. 【[急绷绷的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_bon_bon_dii.md#急绷绷的)】`jieh7 bon bon1 dii` <sup>[如皋]</sup> 绷得紧：肚子胀气，胀得～；脸皮子养得～的。  
 1. 【[急绷绷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_bon_bon.md#急绷绷)】`jieh7 bon1 bon1` <sup>[兴化]</sup> ① 拉得很紧：船行逆水，纤绳拉得～的。 ② 绷得很紧：鼓皮蒙得～的。也说“急绷”。  
+1. 【[急绷绷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_bon_bon.md#急绷绷)】`jieh7 bon1 bon1` <sup>[东台]</sup> ① 绷得很紧的样子。 ② ［喻］经济上拮据：这两天手头上～的，没得钱。  
 1. 【[急才](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_cae.md#急才)】`jieh7 cae2` <sup>[兴化]</sup> 应对突然变化的才智：看他文化虽高，不晓得～如何？  
 1. 【[急叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_cha.md#急叉)】`jieh7 cha` <sup>[如皋]</sup> 性急难耐的样子：她同你说不到三句话就要走，这吖～哿是有甚的急事啊？  
 1. 【[急叉叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_cha_cha.md#急叉叉)】`jieh7 cha1 cha1` <sup>[如东]</sup> 形容非常着急的样子：有话慢慢说，不要～的。  
@@ -1318,7 +1319,6 @@
 1. 【[结不熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_beh_shoh.md#结不熟)】`jih7 beh7 shoh8` <sup>[东台]</sup> ［喻］戏称发育迟缓的人。  
 1. 【[结冰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_bien.md#结冰)】`jih7 bien1` <sup>[如东]</sup> 液体在温度摄氏零度以下由液态转变为固态，这种转变称为结冰。  
 1. 【[结暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_bo.md#结暴)】`jih7 bo5` <sup>[如皋]</sup> 见“掉暴”。  
-1. 【[结绷绷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_bon_bon.md#结绷绷)】`jih7 bon1 bon1` <sup>[东台]</sup> ① 绷得很紧的样子。 ② ［喻］经济上拮据：这两天手头上～的，没得钱。  
 1. 【[结底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_di.md#结底)】`jih7 di3` <sup>[如皋]</sup> 终结。  
 1. 【[结荚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_gah_r.md#结荚<sub>儿</sub>)】`jih7 gah7 r` <sup>[如皋]</sup> 豆科植物结出荚来。  
 1. 【[结恭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_gon.md#结恭)】`jih7 gon1` <sup>[如东]</sup> 便秘：这几天我～，难受死啊。  
