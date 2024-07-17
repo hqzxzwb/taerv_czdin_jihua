@@ -552,7 +552,7 @@
 1. 【[洋<sub>儿</sub>八㧟的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_r_baeh_kuae_dii.md#洋<sub>儿</sub>八㧟的)】`ian2 r baeh7 kuae3 dii` <sup>[如皋]</sup> 指不守规距，颠狂貌。  
 1. 【[洋<sub>儿</sub>不㧟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_r_beh_kuae.md#洋<sub>儿</sub>不㧟)】`ian2 r beh7 kuae3` <sup>[兴化]</sup> 见“洋三㧟四”。  
 1. 【[洋人<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ren_r.md#洋人<sub>儿</sub>)】`ian2 ren2 r` <sup>[兴化]</sup> 玩具：洋娃娃。  
-1. 【[洋三㧟四/杨三蒯四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_saen_kuae_sz.md#洋三㧟四/杨三蒯四)】`ian2 saen1 kuae3 sz5` <sup>[兴化]</sup> 形容人举止轻浮，疯疯癫癫：她不是唱，就是跳，再不就是打打闹闹，成天～的。  
+1. 【[洋三㧟四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_saen_kuae_sz.md#洋三㧟四)】`ian2 saen1 kuae3 sz5` <sup>[兴化]</sup> 形容人举止轻浮，疯疯癫癫：她不是唱，就是跳，再不就是打打闹闹，成天～的。  
 1. 【[洋伞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_saen.md#洋伞)】`ian2 saen3` <sup>[如皋]</sup> 机制钢丝骨架布伞。与本伞、纸伞相对。  
 1. 【[洋山芋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_shaen_y.md#洋山芋)】`ian2 shaen1 y` <sup>[东台]</sup> 马铃薯。  
 1. 【[洋山芋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_shaen_y.md#洋山芋)】`ian2 shaen1 y` <sup>[兴化]</sup> 马铃薯。  
