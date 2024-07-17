@@ -3429,7 +3429,6 @@
 1. 【[梭动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_ton.md#梭动)】`su2 ton` <sup>[如东]</sup> 飞快地跑动：这个伢儿跑得～。  
 1. 【[睃碌睃碌的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_loh_su_loh_dii.md#睃碌睃碌的)】`su2 loh su2 loh dii` <sup>[东台]</sup> 形容眼睛滴溜溜地转，神气活现的样子。  
 1. 【[趖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su.md#趖)】`su2` <sup>[如皋]</sup> ① 窃取：钱包儿捱他～啊去啊！ ② 轻轻爬动：虼蚤在袜管儿里～动。  
-1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su.md#□)】`su3` <sup>[泰县]</sup> 洒：你替他把伤口上～些药。  
 1. 【[唢呐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_naeh.md#唢呐)】`su3 naeh8` <sup>[如东]</sup> 管形乐，管身正面有七孔，背面一孔，底部有喇叭。  
 1. 【[所好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_ho.md#所好)】`su3 ho3` <sup>[如皋]</sup> 即多亏、幸亏。  
 1. 【[锁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su.md#锁)】`su3` <sup>[如东]</sup> 安装在门箱子抽屉等开合处，使人不能打开的金属器具，需要用钥匙才能打开。一种缝纫方法。在服装边缘或扣眼边上，密针线斜绞或钩连：～眼。  
@@ -3437,6 +3436,7 @@
 1. 【[锁壳<sub>儿</sub>房子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_kah_r_fan_zz.md#锁壳<sub>儿</sub>房子)】`su3 kah7 r fan2 zz` <sup>[如皋]</sup> 老式房屋，是堂屋前有走廊，左、右房前出，形似旧式锁外壳的样子。  
 1. 【[锁壳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_kah_zz.md#锁壳子)】`su3 kah7 zz` <sup>[兴化]</sup> （喻）三间两厢房屋的别称。由于两头前伸，形似老式铜锁，故名。  
 1. 【[锁口子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_keu_zz.md#锁口子)】`su3 keu3 zz` <sup>[如皋]</sup> 见“脐带儿风”。  
+1. 【[𢱡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su.md#𢱡)】`su3` <sup>[泰县]</sup> 洒：你替他把伤口上～些药。  
 1. 【[谇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suae.md#谇)】`suae5` <sup>[如皋]</sup> 怒嗔、唾面：你再不说我就～你！把你的脸～啊蓝吖！  
 1. 【[尿鳖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suei_bih.md#尿鳖)】`suei1 bih7` <sup>[兴化]</sup> 即尿壶。男子接尿用的壶一样的器物，大口，有柄，形状象鳖。  
 1. 【[尿布衲索](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suei_bv_nuh_sah.md#尿布衲索)】`suei1 bv5 nuh8 sah7` <sup>[兴化]</sup> 为婴儿接大小便的布片和小褥等物。  
