@@ -586,7 +586,7 @@
 1. 【[乡风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_fon.md#乡风)】`xian1 fon1` <sup>[兴化]</sup> 风土人情：“你乃外江的人，哪里晓得我们的～……”（《海公大红袍》四七）｜谚曰｜离家三里路，各地各～。  
 1. 【[乡下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ha.md#乡下)】`xian1 ha` <sup>[如皋]</sup> ① 乡村里。与“市镇”相对。 ② 小集镇，与“城市”相对。  
 1. 【[乡下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ha.md#乡下)】`xian1 ha` <sup>[如东]</sup> 县城及大集镇以外的地区。通称农村。  
-1. 【[乡下家里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ha_ka_lii.md#乡下家里)】`xian1 ha ka1 lii` <sup>[如皋]</sup> ① 自家住城镇时指在乡村中的住宅。 ② 自家或家族中的离街市稍远的住宅。均与“街上家里”相对。  
+1. 【[乡下家里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ha_ga_lii.md#乡下家里)】`xian1 ha ga1 lii` <sup>[如皋]</sup> ① 自家住城镇时指在乡村中的住宅。 ② 自家或家族中的离街市稍远的住宅。均与“街上家里”相对。  
 1. 【[乡下佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ha_lo_r.md#乡下佬<sub>儿</sub>)】`xian1 ha lo3 r` <sup>[如皋]</sup> 对少见识者的鄙称。  
 1. 【[乡下人挑粪——两头屎（死）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ha_ren_tio_fen_laen_teu_shr.md#乡下人挑粪——两头屎（死）)】`xian1 ha6 ren2 tio1 fen5 laen3 teu2 shr3 （sz3）` <sup>[东台]</sup>   
 1. 【[乡下人屙屎——头子上硬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ha_ren_u_shr_teu_zz_shan_ngen.md#乡下人屙屎——头子上硬)】`xian1 ha6 ren2 u1 shr3 teu2 zz shan ngen6` <sup>[东台]</sup>   

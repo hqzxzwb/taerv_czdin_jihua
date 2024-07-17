@@ -204,8 +204,8 @@
 1. 【[叽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#叽)】`ji1` <sup>[泰县]</sup> 很：地下～潮的。  
 1. 【[叽嘈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_co.md#叽嘈)】`ji1 co` <sup>[兴化]</sup> 因天气闷热或事情不顺利等原因引起的烦燥感：请你覅～！烦死啊。  
 1. 【[叽呱鬼叫的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_gua_guei_jio_dii.md#叽呱鬼叫的)】`ji1 gua1 guei3 jio5 dii` <sup>[如皋]</sup> 号叫。又作“鬼叽哇召”。  
-1. 【[叽咕若咕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_gv_rah_gv.md#叽咕若咕)】`ji1 gv1 rah8 gv1` <sup>[东台]</sup> （贬）形容背后闲言碎语多。也称“叽吧啰唆”。  
 1. 【[叽咕入咕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_gv_reh_gv.md#叽咕入咕)】`ji1 gv1 reh8 gv1` 嘀咕  
+1. 【[叽咕入咕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_gv_reh_gv.md#叽咕入咕)】`ji1 gv1 reh8 gv1` <sup>[东台]</sup> （贬）形容背后闲言碎语多。也称“叽吧啰唆”。  
 1. 【[叽叽量](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ji_lian.md#叽叽量)】`ji1 ji1 lian6` <sup>[泰县]</sup> 气量狭窄：这个人～，不要跟他较量。  
 1. 【[叽叽喳喳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ji_zha_zha.md#叽叽喳喳)】`ji1 ji1 zha1 zha1` <sup>[东台]</sup> 形容鸟叫声或许多人发出的嘈杂声。  
 1. 【[叽苦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_kv.md#叽苦)】`ji1 kv3` <sup>[如皋]</sup> 味很苦：黄连～。  

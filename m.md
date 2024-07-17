@@ -99,10 +99,10 @@
 1. 【[麻篮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_laen.md#麻篮)】`ma2 laen2-1` <sup>[东台]</sup> 用麻编织的篮子。也喻指某单位漏洞百出。  
 1. 【[麻利](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_li.md#麻利)】`ma2 li6` <sup>[兴化]</sup> 形容行动敏捷：手脚～；他做事～。  
 1. 【[麻里核桃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_lii_heh_to.md#麻里核桃)】`ma2 lii heh8 to2` <sup>[如东]</sup> 表面不光滑：这块板～的。  
-1. 【[麻里木足](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_lii_moh_zoh.md#麻里木足)】`ma2 lii moh7 zoh7` <sup>[东台]</sup> 麻木不仁，不上规矩。  
 1. 【[麻里木痴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_lii_moh_chr.md#麻里木痴)】`ma2 lii moh8 chr1` <sup>[兴化]</sup> 见“麻里木足”。  
 1. 【[麻里木痴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_lii_moh_chr.md#麻里木痴)】`ma2 lii moh8 chr1` <sup>[泰县]</sup> 胆大妄为：你怎吖～的，那许哿是你去的地方？  
 1. 【[麻里木竹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_lii_moh_zhoh.md#麻里木竹)】`ma2 lii moh8 zhoh7` 麻木  
+1. 【[麻里木足](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_lii_moh_zoh.md#麻里木足)】`ma2 lii moh8-7 zoh7` <sup>[东台]</sup> 麻木不仁，不上规矩。  
 1. 【[麻里木足](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_lii_moh_zoh.md#麻里木足)】`ma2 lii moh8 zoh7` <sup>[兴化]</sup> 形容少不更事者：那一位少年朋友，～，不问情由，见人就打。  
 1. 【[麻萝卜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_lu_poh.md#麻萝卜)】`ma2 lu2 poh` <sup>[兴化]</sup> 一年或二年生草木植物，根圆柱形或球形，可吃，有辣味。区别于“胡萝卜”。  
 1. 【[麻萝卜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_lu_poh.md#麻萝卜)】`ma2 lu2 poh` <sup>[泰县]</sup> 萝卜。  
@@ -111,15 +111,15 @@
 1. 【[麻麻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma_r.md#麻麻<sub>儿</sub>)】`ma2 ma2 r` <sup>[如皋]</sup> 见“奀奀儿”。  
 1. 【[麻木神<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_moh_shen_r.md#麻木神<sub>儿</sub>)】`ma2 moh shen2 r` <sup>[泰县]</sup> 胆大妄为的人。  
 1. 【[麻木神<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_moh_shen_r.md#麻木神<sub>儿</sub>)】`ma2 moh shen2 r` <sup>[泰县]</sup> 不知王法，胡作非为。  
-1. 【[麻木虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_moh_chon.md#麻木虫)】`ma2 moh7 chon2` <sup>[东台]</sup> ［喻］指麻狂、麻木无知而又凶狠张扬之人。  
-1. 【[麻木冲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_moh_chon_zz.md#麻木冲子)】`ma2 moh7 chon5 zz` <sup>[东台]</sup> 做事常出错的人：他把客人的东西又拿啊错啊，这个～！  
-1. 【[麻木笋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_moh_xyen.md#麻木笋)】`ma2 moh7 xyen3` <sup>[东台]</sup> 与“麻木虫”近义，“笋”有嫩，少不经事之义。  
 1. 【[麻木](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_moh.md#麻木)】`ma2 moh8` <sup>[如东]</sup> ① 由于人体局部长时间受压迫、接触低温或某些化学物质，或由于神经系统发生某些疾病等，使某部分发生像蚂蚁爬那样不舒服的感觉，这种现象叫麻。较严重时局部感觉完全丧失，这种现象叫木。麻木泛指发麻的感觉。 ② 比喻人对外界事物丧失知觉或警惕：这个问题都不晓得，完全～咖。  
 1. 【[麻木](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_moh.md#麻木)】`ma2 moh8` <sup>[兴化]</sup> （借）狂妄自大，目空一切：你少～，这块还轮不到你夸夸其谈的。｜“你～的哪一家，哪个认不得你卖菜的倪四……”（《皮五辣子》四）  
+1. 【[麻木虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_moh_chon.md#麻木虫)】`ma2 moh8-7 chon2` <sup>[东台]</sup> ［喻］指麻狂、麻木无知而又凶狠张扬之人。  
 1. 【[麻木虫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_moh_chon_zz.md#麻木虫子)】`ma2 moh8 chon2 zz` <sup>[兴化]</sup> 形容性格冲动，不看势头、不顾后果的年青人：这是从哪块冒出来的～啊，开口就要打，打出事来哪个负责？  
+1. 【[麻木冲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_moh_chon_zz.md#麻木冲子)】`ma2 moh8-7 chon5 zz` <sup>[东台]</sup> 做事常出错的人：他把客人的东西又拿啊错啊，这个～！  
 1. 【[麻木咖散吖板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_moh_ga_saen_nga_baen.md#麻木咖散吖板)】`ma2 moh8 ga saen3 nga baen3` <sup>[东台]</sup> 形容麻狂得忘乎所以。  
 1. 【[麻木果子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_moh_gu_zz.md#麻木果子)】`ma2 moh8 gu3 zz` <sup>[兴化]</sup> 见“麻木虫子”。  
 1. 【[麻木透顶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_moh_teu_dien.md#麻木透顶)】`ma2 moh8 teu5 dien3` <sup>[如东]</sup> 连头脑都麻木了，比喻严重丧失知觉或警惕，非常糊涂。这是骂人的话。  
+1. 【[麻木笋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_moh_xyen.md#麻木笋)】`ma2 moh8-7 xyen3` <sup>[东台]</sup> 与“麻木虫”近义，“笋”有嫩，少不经事之义。  
 1. 【[麻目](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_moh.md#麻目)】`ma2 moh8` <sup>[如皋]</sup> 主观随意地蛮干，不顾后果，常致吃亏。  
 1. 【[麻目神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_moh_shen.md#麻目神)】`ma2 moh8 shen2` <sup>[如皋]</sup> 无知且狂妄者。  
 1. 【[麻难头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_nae_teu.md#麻难头)】`ma2 nae2 teu` <sup>[泰县]</sup> 难题。  
@@ -1319,7 +1319,7 @@
 1. 【[棉花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hua.md#棉花)】`min2 hua1` <sup>[东台]</sup> 东台主要经济作物。可以纺纱或做棉被，种子可榨油。  
 1. 【[棉花锄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hua_chv_zz.md#棉花锄子)】`min2 hua1 chv2 zz` <sup>[如东]</sup> 工具。锄舌小，约三寸左右，柄长2米至3米。用以除棉花田里的草。  
 1. 【[棉花钩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hua_geu_zz.md#棉花钩子)】`min2 hua1 geu1 zz` <sup>[如皋]</sup> 拔棉花秸专用的铁钩。  
-1. 【[棉花卷<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hua_jiu_r.md#棉花卷<sub>儿</sub>)】`min2 hua1 jiu3 r` <sup>[如皋]</sup> 指𢏳好的絮棉，做成每市斤一卷出售。  
+1. 【[棉花卷<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hua_jiun_r.md#棉花卷<sub>儿</sub>)】`min2 hua1 jiun3 r` <sup>[如皋]</sup> 指𢏳好的絮棉，做成每市斤一卷出售。  
 1. 【[棉花壳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hua_kah.md#棉花壳)】`min2 hua1 kah7` <sup>[如东]</sup> 锦葵科植物草棉的外果皮。  
 1. 【[棉花壳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hua_kah_r.md#棉花壳<sub>儿</sub>)】`min2 hua1 kah7 r` <sup>[如皋]</sup> 拾过棉花的空壳。  
 1. 【[棉花卵<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hua_lun_r.md#棉花卵<sub>儿</sub>)】`min2 hua1 lun3 r` <sup>[如东]</sup> ① 陈旧的棉花胎。 ② 破碎的棉花胎。  

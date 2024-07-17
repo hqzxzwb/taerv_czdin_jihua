@@ -2258,9 +2258,9 @@
 1. 【[要得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_deh.md#要得)】`io5 deh` <sup>[兴化]</sup> 表示同意：好，这个办法～。  
 1. 【[要得好，到临了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_deh_ho_do_lien_lio.md#要得好，到临了)】`io5 deh7 ho3 do5 lien2 lio3` <sup>[东台]</sup> 原意指卖东西卖到最后，总会有某种优惠，喻意事情的结局往往比较好。  
 1. 【[要得好，祖上好；要得饱，隔夜饱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_deh_ho_zv_shan_ho_io_deh_bo_geh_ia_bo.md#要得好，祖上好；要得饱，隔夜饱)】`io5 deh7 ho3 zv3 shan ho3 io5 deh7 bo3 geh7 ia6 bo3` <sup>[如皋]</sup>   
-1. 【[要得如我愿，除非两个我](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_deh_ngu_rv_i_chv_fei_laen_gu_ngu.md#要得如我愿，除非两个我)】`io5 deh7 ngu3 rv2 i5 chv2 fei1 laen3 gu ngu3` <sup>[如皋]</sup>   
 1. 【[要得俏，骨子俏；硬打扮，人要笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_deh_qio_gueh_zz_qio_ngen_da_baen_ren_io_xio.md#要得俏，骨子俏；硬打扮，人要笑)】`io5 deh7 qio5 gueh7 zz qio5 ngen6 da3 baen3 ren2 io5 xio5` <sup>[如皋]</sup>   
 1. 【[要得人不知，除非己莫为](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_deh_ren_beh_zhr_chv_fei_ji_mah_vei.md#要得人不知，除非己莫为)】`io5 deh7 ren2 beh7 zhr1 chv2 fei1 ji3 mah8 vei2` <sup>[东台]</sup> 不能以侥幸心理做坏事。  
+1. 【[要得如我愿，除非两个我](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_deh_rv_ngu.md#要得如我愿，除非两个我)】`io5 deh7 rv2 ngu3 iun6 chv2 fei1 laen3 gu ngu3` <sup>[如皋]</sup>   
 1. 【[要多还少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_du_huaen_sho.md#要多还少)】`io5 du1 huaen2 sho3` <sup>[如皋]</sup> 买卖谈判。  
 1. 【[要饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_faen.md#要饭)】`io5 faen6` <sup>[如东]</sup> 乞求施舍：没得办法，我只好出去～。  
 1. 【[要放吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_fan_nga.md#要放吖)】`io5 fan5 nga` <sup>[东台]</sup> 假设的意思：六十年代的衣裳～现在穿，人都嫌土气。  

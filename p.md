@@ -41,9 +41,10 @@
 1. 【[爬爬凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_pa_den.md#爬爬凳)】`pa2 pa2 den5` <sup>[如东]</sup> 小矮凳。  
 1. 【[爬爬凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_pa_den.md#爬爬凳)】`pa2 pa2 den5` <sup>[东台]</sup> 小板凳。也称矮爬爬。  
 1. 【[爬爬凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_pa_den.md#爬爬凳)】`pa2 pa2 den5` <sup>[兴化]</sup> 又小又矮的凳子。  
-1. 【[爬爬凳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_pa_den_r.md#爬爬凳<sub>儿</sub>)】`pa2 pa2 den5 r` 矮凳  
+1. 【[爬爬凳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_pa_den_r.md#爬爬凳<sub>儿</sub>)】`pa2 pa2 den5 r` <sup>[如皋]</sup> 矮小的凳子  
 1. 【[爬爬凳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_pa_den_r.md#爬爬凳<sub>儿</sub>)】`pa2 pa2 den5 r` <sup>[泰县]</sup> 小矮凳。  
 1. 【[爬爬角<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_pa_gah_r.md#爬爬角<sub>儿</sub>)】`pa2 pa2 gah7 r` <sup>[兴化]</sup> 女童在头顶两侧扎的上翘的小辫子。  
+1. 【[爬爬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_pa_r.md#爬爬<sub>儿</sub>)】`pa2 pa2 r` <sup>[如皋]</sup> 见“爬爬凳儿”。  
 1. 【[爬爬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_pa_r.md#爬爬<sub>儿</sub>)】`pa2 pa2 r` <sup>[兴化]</sup> 乌龟的隐语：哪个哄你就是～。  
 1. 【[爬爬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_pa_r.md#爬爬<sub>儿</sub>)】`pa2 pa2 r` <sup>[泰县]</sup> 小板凳：你把～拿过来。  
 1. 【[爬爬虾<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_pa_xia_r.md#爬爬虾<sub>儿</sub>)】`pa2 pa2 xia1 r` <sup>[如东]</sup> 虾的一种。体小，灰褐色。生活在淡水中。可食。  
@@ -65,8 +66,6 @@
 1. 【[耙<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_r.md#耙<sub>儿</sub>)】`pa2 r` <sup>[如皋]</sup> 八齿钉耙，铁制，有长柄。  
 1. 【[耙田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_tin.md#耙田)】`pa2 tin2` <sup>[如东]</sup> 一种耕作方法。用耙把田块整平或把土块整碎。  
 1. 【[螃蟹爪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_hae_zhua.md#螃蟹爪)】`pa2 hae3 zhua3` <sup>[如东]</sup> 方蟹科动物中华绒螯蟹爪。  
-1. 【[𥩙𥩙凳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_pa_den_r.md#𥩙𥩙凳<sub>儿</sub>)】`pa2 pa2 den5 r` <sup>[如皋]</sup> 矮小的凳子  
-1. 【[𥩙𥩙<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_pa_r.md#𥩙𥩙<sub>儿</sub>)】`pa2 pa2 r` <sup>[如皋]</sup> 见“𥩙𥩙凳儿”。  
 1. 【[怕丑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_cheu.md#怕丑)】`pa5 cheu3` <sup>[如皋]</sup> ① 怕羞（但语气重）。 ② 怕出丑。  
 1. 【[怕丑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_cheu.md#怕丑)】`pa5 cheu3` <sup>[如东]</sup> 害羞：她～。  
 1. 【[怕丑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_cheu.md#怕丑)】`pa5 cheu3` <sup>[东台]</sup> 害羞。也说“怕难为情”。  
@@ -630,7 +629,7 @@
 1. 【[𠷨料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pia_lio.md#𠷨料)】`pia3 lio6` <sup>[如皋]</sup> ① 不规则的材料。 ② 耗材料，不划算。  
 1. 【[𠷨七𠷨八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pia_qieh_pia_baeh.md#𠷨七𠷨八)】`pia3 qieh7 pia3 baeh7` <sup>[如皋]</sup> 见“𠷨pia3”。  
 1. 【[𠷨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pia_zz.md#𠷨子)】`pia3 zz` <sup>[如皋]</sup> 思想言行不合常理、常情或会虘的人。  
-1. 【[㩧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/piah.md#㩧)】`piah7` <sup>[兴化]</sup> ① 象声词：枪声｜～的一声枪响。 ② 鞭炮声：～～。《广韵·觉韵》匹角切｜“～，击声。”又蒲角切（音“泊”）。  
+1. 【[㩧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/piah.md#㩧)】`piah7` <sup>[兴化]</sup> ① 象声词：枪声｜～的一声枪响。 ② 鞭炮声：～～。  
 1. 【[劈叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_cha.md#劈叉)】`pieh7 cha1` <sup>[东台]</sup> 双腿向相反方向分开，臀部落地的一种动作。  
 1. 【[劈蛼螯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_cha_ngo.md#劈蛼螯)】`pieh7 cha1 ngo` <sup>[如东]</sup> 用刀将蛼螯壳劈开，把肉取出来，这种活计叫做劈蛼螯。  
 1. 【[劈择](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_cheh.md#劈择)】`pieh7 cheh8` <sup>[如东]</sup> 评判，裁决：这个问题请你～。  
@@ -1150,7 +1149,7 @@
 1. 【[白斜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_qia.md#白斜)】`poh8 qia2` <sup>[兴化]</sup> ① 故事：说～。 ② 闲扯：两个人没事做，晒太阳，曰～。  
 1. 【[白斜斜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_qia_qia.md#白斜斜)】`poh8 qia2 qia2` <sup>[兴化]</sup> 平白无故地：今朝活倒霉，～的捱人家骗去几百块钱。  
 1. 【[白净](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_qien.md#白净)】`poh8 qien6` <sup>[如东]</sup> 色白而洁嫩：皮肤～。  
-1. 【[白浄浄的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_qien_qien_dii.md#白浄浄的)】`poh8 qien6 qien6 dii` <sup>[如皋]</sup> 状肤色白浄细匀。  
+1. 【[白净净的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_qien_qien_dii.md#白净净的)】`poh8 qien6 qien6 dii` <sup>[如皋]</sup> 状肤色白浄细匀。  
 1. 【[白<sub>儿</sub>大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_r_da.md#白<sub>儿</sub>大)】`poh8 r da5` <sup>[如皋]</sup> 见“白大”。  
 1. 【[白日闯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_rih_chuan.md#白日闯)】`poh8 rih8 chuan3` <sup>[如皋]</sup> 大白天径自到人家闯骗或行窃的人。  
 1. 【[白日撞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_rih_chuan.md#白日撞)】`poh8 rih8 chuan6` <sup>[兴化]</sup> 小偷白天潜入人家行窍者：一个～掩进门来，见家里有人，讪讪地走了。  

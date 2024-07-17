@@ -592,7 +592,7 @@
 1. 【[矮佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_lo_r.md#矮佬<sub>儿</sub>)】`ngae3 lo3 r` <sup>[兴化]</sup> 指矮个子。  
 1. 【[矮佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_lo_r.md#矮佬<sub>儿</sub>)】`ngae3 lo3 r` <sup>[泰县]</sup> 很矮的人。  
 1. 【[矮趴趴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_pa_pa.md#矮趴趴)】`ngae3 pa1 pa` <sup>[兴化]</sup> 形容房屋低矮、局促：他就住在两间～的草屋里，艰难度日。  
-1. 【[矮𥩙𥩙<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_pa_pa_r.md#矮𥩙𥩙<sub>儿</sub>)】`ngae3 pa1 pa1 r` <sup>[如皋]</sup> 很矮很塌。常指很低矮的土墙屋。  
+1. 【[矮趴趴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_pa_pa_r.md#矮趴趴<sub>儿</sub>)】`ngae3 pa1 pa1 r` <sup>[如皋]</sup> 很矮很塌。常指很低矮的土墙屋。  
 1. 【[矮平顶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_pien_dien.md#矮平顶)】`ngae3 pien2 dien3` <sup>[如皋]</sup> 一种短发式。  
 1. 【[矮团墩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_tun_den.md#矮团墩)】`ngae3 tun2 den1` <sup>[东台]</sup> 形容某人个子矮、身体壮实。（有戏称意味）  
 1. 【[矮网<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_van_r.md#矮网<sub>儿</sub>)】`ngae3 van3 r` <sup>[如东]</sup> 网具的一种。麻线结成，长条形，底部装着脚子（陶瓷），无小网袋。作业时，插在沙滩上，利用潮水涨落拦鱼  
