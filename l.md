@@ -1694,7 +1694,7 @@
 1. 【[嫽人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_ren.md#嫽人)】`lio2 ren2` <sup>[如皋]</sup> 见“嫽骚”。  
 1. 【[嫽人眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_ren_ngaen.md#嫽人眼)】`lio2 ren2 ngaen3` <sup>[如皋]</sup> 能挑逗的眼睛。  
 1. 【[嫽骚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_so.md#嫽骚)】`lio2 so1` <sup>[如皋]</sup> 卖弄风情、挑逗异性。  
-1. 【[撩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio.md#撩)】`lio2` <sup>[兴化]</sup> 挑逗、戏弄：他容易当真，覅～他。兴化词典作“嫽”，《广韵·萧韵》落萧切｜“～，相～戏也”。  
+1. 【[撩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio.md#撩)】`lio2` <sup>[兴化]</sup> 挑逗、戏弄：他容易当真，覅～他。兴化词典作“嫽”，《广韵·萧韵》落萧切“～，相～戏也”。  
 1. 【[撩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio.md#撩)】`lio2` <sup>[泰县]</sup> 勾引。  
 1. 【[撩的搏狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_dii_bah_geu.md#撩的搏狗)】`lio2 dii bah7 geu3` <sup>[泰县]</sup> 勾引、引诱：你又～的，把伢儿弄哭起来啊。  
 1. 【[撩金](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_jien.md#撩金)】`lio2 jien1` <sup>[如皋]</sup> 猪舌。本作“筋”，改为“金”吉语。  
@@ -1735,7 +1735,7 @@
 1. 【[了首尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_sheu_vei.md#了首尾)】`lio3 sheu3 vei3` <sup>[泰县]</sup> 完成了培育子女的事。  
 1. 【[了微<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_vei_r.md#了微<sub>儿</sub>)】`lio3 vei2 r` <sup>[如东]</sup> 稍微：～晚点。  
 1. 【[了戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_xi.md#了戏)】`lio3 xi5` <sup>[兴化]</sup> ① 完了：～！皮五辣子今日是非打肉不可了……（扬说《皮五辣子打肉》三） ② “死”的隐语：老王三～啊。  
-1. 【[撩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio.md#撩)】`lio5` <sup>[兴化]</sup> 扭动、向上翘：大火直往上～。｜蛇西子～啊～的。  
+1. 【[撩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio.md#撩)】`lio5` <sup>[兴化]</sup> 扭动、向上翘：大火直往上～。｜蛇㐁子～啊～的。  
 1. 【[飉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio.md#飉)】`lio5` <sup>[兴化]</sup> 微风习习：夏天的野外东南风～～的。《集韵·萧韵》怜萧切“～，小风也。”  
 1. 【[尥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio.md#尥)】`lio6` <sup>[兴化]</sup> ① 以足钩人使跌。 ② 互相打斗：有种过来～一交。 ③ 《吴下方言考》“案～，斜舒足钩倒人也。吴中谓舒足钩人曰～。”  
 1. 【[尥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio.md#尥)】`lio6` <sup>[兴化]</sup> 大步走：他走起路来两条长腿直～。  
