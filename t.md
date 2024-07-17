@@ -566,7 +566,7 @@
 1. 【[塘心田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_xien_tin.md#塘心田)】`tan2 xien1 tin2` <sup>[兴化]</sup> 周高中低，排水不畅的低产农田。  
 1. 【[搪下子荒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_ha_zz_huan.md#搪下子荒)】`tan2 ha zz huan1` <sup>[东台]</sup> 在急需充饥时随便吃点东西，也叫“止止𤵥”。  
 1. 【[搪荒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_huan.md#搪荒)】`tan2 huan1` <sup>[如皋]</sup> 略吃点，暂抵饥饿。  
-1. 【[搪弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_non.md#搪弄)】`tan2 non6` <sup>[兴化]</sup> 搪塞、敷衍：他再来催促就拿好话～他下子。  
+1. 【[搪弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_lon.md#搪弄)】`tan2 lon6` <sup>[兴化]</sup> 搪塞、敷衍：他再来催促就拿好话～他下子。  
 1. 【[搪塞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_seh.md#搪塞)】`tan2 seh7` <sup>[如东]</sup> 敷衍。  
 1. 【[搪相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_xian.md#搪相)】`tan2 xian5` <sup>[如皋]</sup> 扶相、捧场。  
 1. 【[溏恭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_gon.md#溏恭)】`tan2 gon1` <sup>[兴化]</sup> 稀薄的不成形的大便。  

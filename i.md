@@ -1028,6 +1028,7 @@
 1. 【[一老（了）<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_lo_r.md#一老（了）<sub>儿</sub>)】`ieh7 lo3 r` <sup>[如皋]</sup> ① 从前、原来：他～是日本人，战后在中国定居的。 ② 一向、一直：我家～住啊这许，已经五代人裔呀。  
 1. 【[一老一实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_lo_ieh_sheh.md#一老一实)】`ieh7 lo3 ieh7 sheh8` <sup>[东台]</sup> 老老实实，干干脆脆。  
 1. 【[一老一实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_lo_ieh_sheh.md#一老一实)】`ieh7 lo3 ieh7 sheh8` <sup>[兴化]</sup> ① 老老实实：你～说个价，到底卖多少钱？ ② 干脆：“……但是依我的主见，不如～，打发翠姨离了眼前……”（《广陵潮》三二）  
+1. 【[一弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_lon.md#一弄)】`ieh7 lon6` <sup>[如皋]</sup> ① 动不动：这几天心绪不宁，～就睡不着｜他的身体不强壮，～就害病。 ② 一经般弄：这只钟捱他～就坏啊，送吖店里去修，人家不费事，～又好啊。  
 1. 【[一摞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_lu_zz.md#一摞子)】`ieh7 lu6 zz` <sup>[兴化]</sup> 一叠：～碗｜～书。  
 1. 【[一路气候](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_lv_qi_heu.md#一路气候)】`ieh7 lv6 qi5 heu` <sup>[如皋]</sup> ① 传染病流行。 ② 一种潮流、倾向：五十年代男青年的发式～都是“一边倒”；九十年代，又是～的大分头。  
 1. 【[一路鲜花村](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_lv_xin_hua_cuen.md#一路鲜花村)】`ieh7 lv6 xin1 hua1 cuen1` <sup>[东台]</sup> 一路顺便办好几件事，都很顺利。也说“一路兴化村”，与“齐上戴家窑”连在一起。（详见“齐上戴家窑”）。  
@@ -1079,7 +1080,6 @@
 1. 【[一年到头，二年到梢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_nin_do_teu_er_nin_do_sho.md#一年到头，二年到梢)】`ieh7 nin2 do5 teu2 er6 nin2 do5 sho1` <sup>[如皋]</sup> 多年来一直如此。  
 1. 【[一年蓬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_nin_pon.md#一年蓬)】`ieh7 nin2 pon2` <sup>[如东]</sup> 菊科植物一年蓬，二年生草本。高约90厘米。茎直立。全身有短柔毛。基部叶卵形或卵状披针形，茎生叶互生，披针形或线状披针形，边缘齿裂。头状花序，排列成伞房状。花管状，黄色。瘦果扁平，边缘有棱。生长在旷野、路边。  
 1. 【[一年头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_nin_teu.md#一年头)】`ieh7 nin2 teu2` <sup>[如东]</sup> 只要一年：这种板儿只能用～。  
-1. 【[一弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_non.md#一弄)】`ieh7 non6` <sup>[如皋]</sup> ① 动不动：这几天心绪不宁，～就睡不着；他的身体不强壮，～就害病。 ② 一经般弄：这只钟捱他～就坏啊，送吖店里去修，人家不费事，～又好啊。  
 1. 【[一䨰屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_pah_shr.md#一䨰屎)】`ieh7 pah7 shr3` <sup>[如东]</sup> 一滩薄大便：哪个在这许屙啊～。  
 1. 【[一喷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_pen.md#一喷)】`ieh7 pen` <sup>[如皋]</sup> 一片：～酒味、～呼辣气、～酸味。  
 1. 【[一盆冷水当头浇——里外都凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_pen_len_shuei_dan_teu_jio_li_vae_du_lian.md#一盆冷水当头浇——里外都凉)】`ieh7 pen2 len3 shuei3 dan1 teu2 jio1 li3 vae6 du1 lian2` <sup>[东台]</sup>   

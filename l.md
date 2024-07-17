@@ -2499,9 +2499,29 @@
 1. 【[砻坊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_fan.md#砻坊)】`lon3 fan1` <sup>[如皋]</sup> 旧时以人力、畜力配器械加工大米的作坊。设备有砻子、走马碓、大风箱、筛子等。与“磨坊”相对。  
 1. 【[砻糠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_kan.md#砻糠)】`lon3 kan1` <sup>[如皋]</sup> 稻壳。  
 1. 【[砻糠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_kan.md#砻糠)】`lon3 kan1` <sup>[如皋]</sup> 用砻子砻下的稻壳。  
+1. 【[弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon.md#弄)】`lon6` <sup>[东台]</sup> 除一般释义外，东台话中中常作介词：不要～手去抓食品。  
+1. 【[弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon.md#弄)】`lon6` <sup>[兴化]</sup> 斗：“……你们却是～他不过的，那时羊入虎口，怎生是好。”（《粉妆楼》七）  
+1. 【[弄点介](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_din_ga.md#弄点介)】`lon6 din ga` <sup>[泰县]</sup> 做一点：你～吃咖子。  
+1. 【[弄到天亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_do_tin_lian.md#弄到天亮)】`lon6 do tin1 lian6` <sup>[兴化]</sup> ① 最终：……怎么～又家来了，还在小船上啊？（《火烧赤壁》六） ② 真相：～东西还是他偷的。  
+1. 【[弄东西](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_don_xi.md#弄东西)】`lon6 don1 xi` <sup>[如东]</sup> 做活计：今朝上午我要下田～。  
+1. 【[弄惯吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_guaen_nga.md#弄惯吖)】`lon6 guaen5 nga` 因娇纵而养成习惯  
 1. 【[弄榾柮<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_guah_do_r.md#弄榾柮<sub>儿</sub>)】`lon6 guah7 do1 r` 行动上开玩笑  
-1. 【[弄空头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_kon_teu.md#弄空头)】`lon6 kon5 teu` <sup>[如皋]</sup> 假约定、假承诺捉弄人。  
+1. 【[弄馉饳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_guah_do_r.md#弄馉饳<sub>儿</sub>)】`lon6 guah7 do1 r` <sup>[如东]</sup> 开玩笑：这个是～。调戏。  
+1. 【[弄鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_guei.md#弄鬼)】`lon6 guei3` <sup>[东台]</sup> 捣鬼。  
+1. 【[弄空头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_kon_teu.md#弄空头)】`lon6 kon5 teu` <sup>[如皋]</sup> 假约定、假承诺捉弄人，让人失望、落空。  
+1. 【[弄空头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_kon_teu.md#弄空头)】`lon6 kon5 teu` <sup>[如东]</sup> ① 做没有价值的事情：今朝下雨，我俫四个人在下～ ② 开玩笑：他是跟你～。  
+1. 【[弄愣掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_len_tio.md#弄愣掉)】`lon6 len6 tio` <sup>[如东]</sup> 被某句话或某件事惊住了：她这吖一问，我倒～啊。  
+1. 【[弄难字他写](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_naen_cz_ta_xia.md#弄难字他写)】`lon6 naen2 cz6 ta1 xia3` <sup>[如皋]</sup> 使他为难，给他添麻烦。  
+1. 【[弄吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_nga.md#弄吖)】`lon6 nga` <sup>[兴化]</sup> 仅仅、只有：～两三个人，也忙一桌菜。｜～百十块钱，怎吖够用吖？也作“通吖”。  
+1. 【[弄吖请身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_nga_qien_shen.md#弄吖请身)】`lon6 nga qien3 shen1` <sup>[东台]</sup> 驱逐某人的婉转说法。  
+1. 【[弄钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_qin.md#弄钱)】`lon6 qin2` <sup>[如东]</sup> 挣钱。借钱。  
+1. 【[弄什杲昃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_sheh_go_zeh.md#弄什杲昃)】`lon6 sheh go3 zeh` <sup>[东台]</sup> 做什么。  
+1. 【[弄甚的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_shen_nii.md#弄甚的)】`lon6 shen2 nii` <sup>[如皋]</sup> 做什么呢？  
+1. 【[弄松](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_son.md#弄松)】`lon6 son` <sup>[如东]</sup> 捉弄，玩弄：她就喜欢～人。  
+1. 【[弄他不凶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_ta_beh_xion.md#弄他不凶)】`lon6 ta1 beh7 xion1` <sup>[如东]</sup> 比他不过：王相如厉害，我～。  
 1. 【[弄堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_tan.md#弄堂)】`lon6 tan2` <sup>[如东]</sup> 巷。  
+1. 【[弄相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_xian.md#弄相)】`lon6 xian5` <sup>[如东]</sup> 做法：这种活技怎吖～？  
+1. 【[弄虚作假](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_xy_zah_jia.md#弄虚作假)】`lon6 xy1 zah7 jia3` <sup>[如东]</sup> 耍花招欺骗人：不要～。  
 1. 【[砻坊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_fan.md#砻坊)】`lon6 fan1` <sup>[兴化]</sup> 用砻子加工稻米的作坊。主要设备有砻子、碓、风箱、大筛等。碾米机出现后又称“小砻子”。  
 1. 【[砻糠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_kan.md#砻糠)】`lon6 kan1` <sup>[兴化]</sup> 稻谷过砻后脱下的外壳。又称“大糠”“粗糠”。  
 1. 【[砻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_zz.md#砻子)】`lon6 zz` <sup>[兴化]</sup> 去掉稻壳的工具，外形似磨，用木片、黏土等制成。  

@@ -777,6 +777,7 @@
 1. 【[大老远](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lo_iun.md#大老远)】`da6 lo3 iun3` <sup>[兴化]</sup> 距离很远。  
 1. 【[大老弟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lo_ti.md#大老弟)】`da6 lo3 ti6` <sup>[东台]</sup> 对年岁小于自己者的昵称。  
 1. 【[大老相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lo_xian.md#大老相)】`da6 lo3 xian5` <sup>[如东]</sup> 装着非常有知识、非常有能力的人：他是个～。  
+1. 【[大弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lon.md#大弄)】`da6 lon6` <sup>[兴化]</sup> 形容放手大干：本以为你小打小敲就算了，不想你这样～！｜“……小人只是这里剪径，做些小买卖，那里敢～……”（《水浒传》七三）  
 1. 【[大锣大鼓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lu_da_gv.md#大锣大鼓)】`da6 lu2 da6 gv3` <sup>[兴化]</sup> （借）形容穿的衣服又宽又大：“……我昨天看见柳家姑娘倒还好，穿的衣服～，还不及春儿同你仪妹妹穿得紧小。”（《广陵满》四四）  
 1. 【[大锣架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lu_jia_zz.md#大锣架子)】`da6 lu2 jia5 zz` <sup>[兴化]</sup> 大模大样，旁若无人的样子：这两个骗子跟往常一样，～向庄上摇。  
 1. 【[大鸾架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lun_jia_zz.md#大鸾架子)】`da6 lun2 jia5 zz` <sup>[东台]</sup> 装腔作势，虚张声势。  
@@ -847,7 +848,6 @@
 1. 【[大年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_nin.md#大年)】`da6 nin2` <sup>[东台]</sup> ① 农历新年，春节。 ② 某一产品的丰收年。  
 1. 【[大年初一吃酒酿——头一糟（遭）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_nin_chv_ieh_qieh_jieu_nian_teu_ieh_zo.md#大年初一吃酒酿——头一糟（遭）)】`da6 nin2 chv1 ieh7 qieh7 jieu3 nian6 teu2 ieh7 zo1` <sup>[东台]</sup>   
 1. 【[大年初一贴对子——迟啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_nin_chv_ieh_tih_dy_zz_chr_a.md#大年初一贴对子——迟啊)】`da6 nin2 chv1 ieh7 tih7 dy5 zz chr2 a` <sup>[东台]</sup>   
-1. 【[大弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_non.md#大弄)】`da6 non6` <sup>[兴化]</sup> 形容放手大干：本以为你小打小敲就算了，不想你这样～！｜“……小人只是这里剪径，做些小买卖，那里敢～……”（《水浒传》七三）  
 1. 【[大屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_oh.md#大屋)】`da6 oh7` <sup>[如东]</sup> 主屋，堂屋。  
 1. 【[大屋顶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_oh_dien.md#大屋顶)】`da6 oh7 dien3` <sup>[如皋]</sup> 旧式平房的瓦屋顶。  
 1. 【[大屋家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_oh_ga.md#大屋家)】`da6 oh7 ga1` 堂屋  
@@ -1723,8 +1723,8 @@
 1. 【[兜共](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_kon.md#兜共)】`deu1 kon` <sup>[如东]</sup> 统统，全部：～这吖多东西，你拿啊去吧。  
 1. 【[兜揽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_laen.md#兜揽)】`deu1 laen3` <sup>[兴化]</sup> ① 收罗、包揽：外地有人来～广告业务。 ② 理睬、亲近：那黛玉更怕贾政回来宝玉受气，每每推睡，不大～他。（《红楼梦》七十）  
 1. 【[兜录团团](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_loh_tun_tun.md#兜录团团)】`deu1 loh8 tun2 tun2` <sup>[东台]</sup> 周围邻居。  
+1. 【[兜弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_lon.md#兜弄)】`deu1 lon6` <sup>[兴化]</sup> ① 怂恿：他～我炒股票。 ② 兜售：～生意做。  
 1. 【[兜路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_lv.md#兜路)】`deu1 lv6` <sup>[兴化]</sup> 绕路：从兴化到镇江经过泰州有些～。  
-1. 【[兜弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_non.md#兜弄)】`deu1 non6` <sup>[兴化]</sup> ① 怂恿：他～我炒股票。 ② 兜售：～生意做。  
 1. 【[兜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_r.md#兜<sub>儿</sub>)】`deu1 r` <sup>[如东]</sup> 一种服饰。长方形或椭圆形，各种颜色，绣着花纹。围在肚脐上保温。也叫围兜儿。  
 1. 【[兜腮胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_sae_hv_zz.md#兜腮胡子)】`deu1 sae1 hv2 zz` <sup>[兴化]</sup> 连着鬓角的胡须。  
 1. 【[兜腮胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_sae_hv_zz.md#兜腮胡子)】`deu1 sae1 hv2 zz` <sup>[兴化]</sup> 连着鬓角的胡子。‖也作“毛胡子”。  
@@ -1746,10 +1746,10 @@
 1. 【[抖抖活活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_deu_huh_huh.md#抖抖活活)】`deu3 deu3 huh8 huh8` <sup>[兴化]</sup> 因惊恐或寒冷而颤抖不止：他听见枪声，吓得～的。｜西北风一吹，把他冻得～的。  
 1. 【[抖抖歪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_deu_vae.md#抖抖歪)】`deu3 deu3 vae1` <sup>[兴化]</sup> （讽）形容喜欢炫耀钱财的人：他是个～，有几个钱喜欢数啊又数。  
 1. 【[抖落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_lah.md#抖落)】`deu3 lah8` <sup>[兴化]</sup> ① 振动衣被等物，使附着的东西洒落下来：把围巾上的雪～下来。 ② 揭露：把你的丑事～出来，叫你脸上无光。 ③ 挥霍：卖房子的几万块钱，不上几个月就捱他～光了。  
+1. 【[抖弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_lon.md#抖弄)】`deu3 lon` <sup>[兴化]</sup> ① 炫耀：他有两个钱就～起来。 ② 轻狂：这以后，他到处仗干爸爸的势，～起来了……（兴文《傅年的故事》）  
+1. 【[抖弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_lon.md#抖弄)】`deu3 lon` <sup>[泰县]</sup> 神气。  
 1. 【[抖笼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_lon.md#抖笼)】`deu3 lon` 空竹  
 1. 【[抖罗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_lu.md#抖罗)】`deu3 lu` <sup>[泰县]</sup> 不稳重：你～狠吖就要惹祸。  
-1. 【[抖弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_non.md#抖弄)】`deu3 non` <sup>[兴化]</sup> ① 炫耀：他有两个钱就～起来。 ② 轻狂：这以后，他到处仗干爸爸的势，～起来了……（兴文《傅年的故事》）  
-1. 【[抖弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_non.md#抖弄)】`deu3 non` <sup>[泰县]</sup> 神气。  
 1. 【[抖动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_ton.md#抖动)】`deu3 ton6` <sup>[如东]</sup> 物体颤动：大车经过，路面～。  
 1. 【[抖魆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_xyeh.md#抖魆)】`deu3 xyeh7` <sup>[如东]</sup> 小气而奸诈：这个人非常～。  
 1. 【[斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu.md#斗)】`deu3` <sup>[如东]</sup> 衡器。木制，圆桶形或方形，无盖。通称为市斗，相当于十分之一石。  
@@ -1953,6 +1953,7 @@
 1. 【[叮叮挂挂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_dien_gua_gua.md#叮叮挂挂)】`dien1 dien1 gua5 gua5` <sup>[泰县]</sup> 有牵连。  
 1. 【[叮吖上颚上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_nga_shan_ngah_shan.md#叮吖上颚上)】`dien1 nga shan6 ngah8 shan` <sup>[东台]</sup> 以鱼吞饵上钩比喻因贪图私利而误中别人圈套不能摆脱：有些宴请不能去，当心吃咖～！  
 1. 【[叮牙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_nga_zz.md#叮牙子)】`dien1 nga2 zz` <sup>[如皋]</sup> 食物黏牙。  
+1. 【[叮哝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_non.md#叮哝)】`dien1 non` <sup>[兴化]</sup> 规劝、提醒：我再三～他到医院做个检查。  
 1. 【[叮<sub>儿</sub>沰黐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_r_dah_chr.md#叮<sub>儿</sub>沰黐)】`dien1 r dah7 chr1` <sup>[兴化]</sup> 因沾有黏性的东西而感到黏黏糊糊的：汗一淌身上～的。｜糖一化～的。  
 1. 【[叮尾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_vei_zz.md#叮尾子)】`dien1 vei3 zz` <sup>[如皋]</sup> 昆虫交尾。  
 1. 【[叮嘱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_zhoh.md#叮嘱)】`dien1 zhoh7` <sup>[东台]</sup> 再三嘱咐。  
@@ -2142,7 +2143,6 @@
 1. 【[的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dii.md#的)】`dii` 相当于普通话的虚词“的”，可表示所属或者修饰。这个音来自“之”的上古音：我～/我的｜好～/好的｜吃～菜/吃的菜  
 1. 【[掂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din.md#掂)】`din1` <sup>[兴化]</sup> 斟酌、估量：他把校长的话放吖心里～吖又～。  
 1. 【[掂斤掂两](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_jien_din_lian.md#掂斤掂两)】`din1 jien1 din1 lian3` <sup>[兴化]</sup> ① 较量轻重：你覅跟小商贩～的。 ② （喻）斤斤计较：对小事不必～的。  
-1. 【[掂弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_non.md#掂弄)】`din1 non` <sup>[兴化]</sup> 规劝、提醒：我再三～他到医院做个检查。  
 1. 【[癫狂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_kuan.md#癫狂)】`din1 kuan2` <sup>[如东]</sup> 狂妄自大，目空一切：有啊几个钱，不能～。  
 1. 【[癫狂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_kuan.md#癫狂)】`din1 kuan2` <sup>[东台]</sup> ① 由某种病引起的言语或行动异常。 ② 言谈举止轻佻，不庄重：穷不失志，富不～。  
 1. 【[蹎蹎跋跋的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_din_puh_puh_dii.md#蹎蹎跋跋的)】`din1 din1 puh8 puh8 dii` <sup>[如皋]</sup> 跋涉辛苦。转义为特地、专门地：我～的去䁃他，他还不高兴睬我！｜人家～来的，你总不能不相待。  
@@ -2605,7 +2605,7 @@
 1. 【[东天抽毫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_tin_cheu_ho.md#东天抽毫)】`don1 tin1 cheu1 ho2` <sup>[如东]</sup> 拂晓时，东方初现亮光：～他就起来啊。  
 1. 【[东天窜毫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_tin_cun_ho.md#东天窜毫)】`don1 tin1 cun5 ho2` <sup>[如皋]</sup> 见“东境窜毫”。  
 1. 【[东道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_to.md#东道)】`don1 to6` <sup>[如东]</sup> ① 请客：请你做～。 ② 打赌：我俫赌个～吧？  
-1. 【[东吴招亲——弄假成真](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_v_zho_qien_non_jia_chen_zhen.md#东吴招亲——弄假成真)】`don1 v2 zho1 qien1 non6 jia3 chen2 zhen1` <sup>[东台]</sup>   
+1. 【[东吴招亲——弄假成真](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_v_zho_qien.md#东吴招亲——弄假成真)】`don1 v2 zho1 qien1 lon6 jia3 chen2 zhen1` <sup>[东台]</sup>   
 1. 【[东西](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_xi.md#东西)】`don1 xi1` <sup>[如东]</sup> ① 方向：～方向。 ② 物体：甚的～。  
 1. 【[东西场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_xi_chan.md#东西场)】`don1 xi1 chan2` 东西面邻居  
 1. 【[东西耳朵南北听](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_xi_er_du_nun_boh_tien.md#东西耳朵南北听)】`don1 xi1 er3 du nun2 boh7 tien5` <sup>[东台]</sup> 责备语，形容对方把别人的话听错了。  

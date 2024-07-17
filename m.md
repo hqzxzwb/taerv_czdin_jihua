@@ -357,12 +357,12 @@
 1. 【[卖老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_lo.md#卖老)】`mae6 lo3` <sup>[东台]</sup> 摆老资格：倚老～。  
 1. 【[卖老贤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_lo_xin.md#卖老贤)】`mae6 lo3 xin2` <sup>[兴化]</sup> 摆老资格：他最喜欢在年轻人面前～。  
 1. 【[卖老贤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_lo_xin.md#卖老贤)】`mae6 lo3 xin2` <sup>[泰县]</sup> 摆老资格。  
+1. 【[卖弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_lon.md#卖弄)】`mae6 lon6` <sup>[东台]</sup> 有意炫耀：～小聪明。  
 1. 【[卖米不带升子——存心不量（良）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_mi_beh_dae_shen_zz_cuen_xien_beh_lian.md#卖米不带升子——存心不量（良）)】`mae6 mi3 beh7 dae5 shen1 zz cuen2 xien1 beh7 lian2` <sup>[东台]</sup>   
 1. 【[卖面子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_min_zz.md#卖面子)】`mae6 min6 zz` <sup>[东台]</sup> 照顾情面而通融：这回他肯大驾光临是～啊。  
 1. 【[卖面子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_min_zz.md#卖面子)】`mae6 min6 zz` <sup>[兴化]</sup> 照顾情面：今朝他～，不曾过分为难。  
 1. 【[卖牛肉的形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_ngeu_roh_dii_xien.md#卖牛肉的形)】`mae6 ngeu2 roh8 dii xien2` <sup>[如皋]</sup> 见“牛肉脸”。  
 1. 【[卖讹<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_ngu_r.md#卖讹<sub>儿</sub>)】`mae6 ngu2 r` <sup>[如东]</sup> 进行诈骗：当心他～。  
-1. 【[卖弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_non.md#卖弄)】`mae6 non6` <sup>[东台]</sup> 有意炫耀：～小聪明。  
 1. 【[卖牌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_pae_zz.md#卖牌子)】`mae6 pae2 zz` <sup>[东台]</sup> 打着旗号，虚张声势。  
 1. 【[卖瓢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_pio_r.md#卖瓢<sub>儿</sub>)】`mae6 pio2 r` <sup>[如东]</sup> 小孩将要啼哭的样子。  
 1. 【[卖情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_qien.md#卖情)】`mae6 qien2` <sup>[兴化]</sup> 显示给人的好处，使人感激自己：请他帮点儿忙，有得～哎！｜新嫂嫂一边，魏翩仞还不时要去～……好叫新嫂嫂见好。  
@@ -650,9 +650,8 @@
 1. 【[没处弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_chv_lon.md#没处弄)】`meh8 chv lon6` <sup>[如东]</sup> 没法解决：这条路～。  
 1. 【[没处到任](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_chv_do_ren.md#没处到任)】`meh8 chv5 do5 ren6` <sup>[泰县]</sup> 莫名共妙。  
 1. 【[没处落脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_chv_lah_jiah.md#没处落脚)】`meh8 chv5 lah8 jiah7` <sup>[如皋]</sup> 地上满是杂物，难以从这里走过。  
-1. 【[没处弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_chv_non.md#没处弄)】`meh8 chv5 non6` <sup>[如皋]</sup> 状事态繁乱无序，难处理。  
-1. 【[没处弄起](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_chv_non_qi.md#没处弄起)】`meh8 chv5 non6 qi3` <sup>[如皋]</sup> 忙乱，难以应付复杂局面。  
-1. 【[没处弄起](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_chv_non_qi.md#没处弄起)】`meh8 chv5 non6 qi3` <sup>[如皋]</sup> 见“没处弄”。  
+1. 【[没处弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_chv_lon.md#没处弄)】`meh8 chv5 lon6` <sup>[如皋]</sup> 状事态繁乱无序，难处理。  
+1. 【[没处弄起](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_chv_lon_qi.md#没处弄起)】`meh8 chv5 lon6 qi3` <sup>[如皋]</sup> 忙乱，难以应付复杂局面。见“没处弄”。  
 1. 【[没处下脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_chv_xia_jiah.md#没处下脚)】`meh8 chv5 xia6 jiah7` <sup>[如皋]</sup> 地上满是杂物，难以从这里走过。  
 1. 【[没处站脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_chv_zhaen_jiah.md#没处站脚)】`meh8 chv5 zhaen5 jiah7` <sup>[如皋]</sup> 地上满是杂物，难以从这里走过。  
 1. 【[没处抓痒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_chv_zhua_ian.md#没处抓痒)】`meh8 chv5 zhua1 ian3` <sup>[兴化]</sup> 不知怎样才好：到处是问题，叫人～。｜“他们踏着，唱着，喊着，锣鼓还敲得震天响哩！真是快活得～！”（兴文《灶神爷的传说》）  

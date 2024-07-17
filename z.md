@@ -107,7 +107,7 @@
 1. 【[㜺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaen.md#㜺)】`zaen3` <sup>[兴化]</sup> 形容好、优异：喝来喝去还是洋河大曲的味道～。｜海尔冰箱保鲜又省电，果然是～货。  
 1. 【[㜺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaen.md#㜺)】`zaen3` <sup>[泰县]</sup> 好：这幅画儿画得～。  
 1. 【[㜺刚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaen_gan.md#㜺刚)】`zaen3 gan1` <sup>[东台]</sup> 同“㜺”。  
-1. 【[怎<sub>吖</sub>弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaen_non.md#怎<sub>吖</sub>弄)】`zaen3 non6` <sup>[泰县]</sup> 怎么办：这事你看～好。  
+1. 【[怎<sub>吖</sub>弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaen_lon.md#怎<sub>吖</sub>弄)】`zaen3 lon6` <sup>[泰县]</sup> 怎么办：这事你看～好。  
 1. 【[昝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaen_r.md#昝<sub>儿</sub>)】`zaen3 r` <sup>[如皋]</sup> 一会儿。如皋辞典写“暂”。  
 1. 【[昝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaen_r.md#昝<sub>儿</sub>)】`zaen3 r` <sup>[如皋]</sup> 一会儿。  
 1. 【[昝<sub>儿</sub>风昝<sub>儿</sub>雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaen_r_fon_zaen_r_y.md#昝<sub>儿</sub>风昝<sub>儿</sub>雨)】`zaen3 r fon1 zaen3 r y3` <sup>[如皋]</sup> 喻脾气多变。  
@@ -322,7 +322,7 @@
 1. 【[怎吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_nga.md#怎吖)】`zen3 nga` <sup>[泰县]</sup> ① 怎么。 ② 老是：这事你～说的，我晓得咖啦。  
 1. 【[怎吖好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_nga_ho.md#怎吖好)】`zen3 nga ho3` <sup>[东台]</sup> 一种无可奈何的口气，意思是不知道怎样才好。  
 1. 【[怎吖好意思](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_nga_ho_i_sz.md#怎吖好意思)】`zen3 nga ho3 i5 sz` <sup>[东台]</sup> 一种难为情、无法求人的尴尬心态：我多次烦你，～？  
-1. 【[怎吖弄相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_nga_non_xian.md#怎吖弄相)】`zen3 nga non6 xian5` <sup>[如皋]</sup> 怎么做法：这次出差～啋？你说说分清吧！  
+1. 【[怎吖弄相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_nga_lon_xian.md#怎吖弄相)】`zen3 nga lon6 xian5` <sup>[如皋]</sup> 怎么做法：这次出差～啋？你说说分清吧！  
 1. 【[怎的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_nii.md#怎的)】`zen3 nii` <sup>[东台]</sup> 疑问句，相当于怎么样？怎么搞的？见“咋的za3 dii”。  
 1. 【[怎说怎好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_shuh_zen_ho.md#怎说怎好)】`zen3 shuh7 zen3 ho3` <sup>[兴化]</sup> 言听计从或随对方心意办事：“……叔公～，只请叔公吩附就是了……”（《二十年目睹之怪现状》九九）  
 1. 【[甑𠖫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_gun.md#甑𠖫)】`zen5 gun5` <sup>[如皋]</sup> 甑子上的盖子。因为过大，分为两个半圆，各有“工”字鼻，供把握。  
@@ -2457,6 +2457,7 @@
 1. 【[做佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_lo_r.md#做佬<sub>儿</sub>)】`zu5 lo3 r` <sup>[东台]</sup> “做梦”的俗称：我这几天睡眠不好，夜里老～。  
 1. 【[做老二爹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_lo_er_dia.md#做老二爹)】`zu5 lo3 er dia1` 做梦，发魔的避讳称。同“做佬儿”。  
 1. 【[做老<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_lo_r.md#做老<sub>儿</sub>)】`zu5 lo3 r` <sup>[如皋]</sup> 做梦，发魔的避讳称。  
+1. 【[做弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_lon.md#做弄)】`zu5 lon6` <sup>[如东]</sup> 出坏主意戏弄人。  
 1. 【[做买卖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_mae_mae.md#做买卖)】`zu5 mae3 mae6` <sup>[如东]</sup> 做生意。  
 1. 【[做忙月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_man_iuh.md#做忙月)】`zu5 man2 iuh8` <sup>[如东]</sup> 农忙时节帮助人家做工。  
 1. 【[做忙月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_man_iuh.md#做忙月)】`zu5 man2 iuh8` <sup>[兴化]</sup> 今称家政服务。  
@@ -2481,7 +2482,6 @@
 1. 【[做呢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_nii.md#做呢)】`zu5 nii2` 做甚的的略音，做什么。  
 1. 【[做呢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_nii.md#做呢)】`zu5 nii2` <sup>[如东]</sup> 做什么：你在下～？  
 1. 【[做呢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_nii.md#做呢)】`zu5 nii5` <sup>[兴化]</sup> 疑问代词：意为做什么、想做什么：这是～？｜你要～？  
-1. 【[做弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_non.md#做弄)】`zu5 non6` <sup>[如东]</sup> 出坏主意戏弄人。  
 1. 【[做笨事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_pen_shr.md#做笨事)】`zu5 pen6 shr6` <sup>[如皋]</sup> 做了吃亏、倒楣的事。  
 1. 【[做破](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_pu.md#做破)】`zu5 pu5` <sup>[如东]</sup> 一种迷信活动。旧时木工或泥工在建造房屋时，偷偷地将某种东西置于要害部位，使主家倒霉，称为做破。  
 1. 【[做伴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_pun.md#做伴)】`zu5 pun6` <sup>[如东]</sup> 相陪：今朝下午我给你～。  

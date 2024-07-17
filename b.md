@@ -236,13 +236,13 @@
 1. 【[摆老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_lo.md#摆老)】`bae3 lo3` <sup>[如皋]</sup> 见“摆方子”。  
 1. 【[摆老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_lo.md#摆老)】`bae3 lo3` <sup>[兴化]</sup> ① 自吹自插。 ② 作没有把握的许诺：这件事不一定成功，你覅忙～。  
 1. 【[摆老贤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_lo_xin.md#摆老贤)】`bae3 lo3 xin2` <sup>[如皋]</sup> 见“摆方子”。  
+1. 【[摆弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_lon.md#摆弄)】`bae3 lon6` <sup>[兴化]</sup> 从事某项工作：他～电脑内行，我不行。  
 1. 【[摆麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_ma.md#摆麻)】`bae3 ma2` <sup>[如皋]</sup> 出风头、摆威风、高傲的样子  
 1. 【[摆麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_ma.md#摆麻)】`bae3 ma2` <sup>[如皋]</sup> 以实力或故弄实力来吹嘘炫耀。  
 1. 【[摆门面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_men_min.md#摆门面)】`bae3 men2 min6` <sup>[如东]</sup> 讲究排场，粉饰外表。  
 1. 【[摆明](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_mien.md#摆明)】`bae3 mien2` <sup>[兴化]</sup> 眼前容易看得清楚的事：这种无理的官司，～吖打不赢。｜刘备松了八团子的劲儿，～了不好……如其好……孙权不留他么？（扬一《风雏理事》）  
 1. 【[摆明摆叫的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_mien_bae_jio_dii.md#摆明摆叫的)】`bae3 mien2 bae3 jio5 dii` <sup>[如皋]</sup> 公开的，明显的公布出来。  
 1. 【[摆明的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_mien_dii.md#摆明的)】`bae3 mien2 dii` <sup>[如皋]</sup> 公开的。  
-1. 【[摆弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_non.md#摆弄)】`bae3 non6` <sup>[兴化]</sup> 从事某项工作：他～电脑内行，我不行。  
 1. 【[摆排场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_pae_chan.md#摆排场)】`bae3 pae2 chan` <sup>[如东]</sup> 摆阵势，讲阔气：他就喜欢～。  
 1. 【[摆㗘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_pah.md#摆㗘)】`bae3 pah7` <sup>[如皋]</sup> 吹牛，说大话。  
 1. 【[摆㗘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_pah.md#摆㗘)】`bae3 pah7` <sup>[如皋]</sup> 吹牛。  
@@ -1773,7 +1773,7 @@
 1. 【[搬碗头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_un_teu.md#搬碗头)】`bun1 un3 teu2` <sup>[兴化]</sup> 一家做的菜肴给另一家盛一点：他俫两家处得好，有好吃的常常～。  
 1. 【[搬楦头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_xiun_teu.md#搬楦头)】`bun1 xiun5 teu` <sup>[东台]</sup> 原意是鞋匠楦鞋的楦头从这里搬到那里，喻指乱折腾。  
 1. 【[搬楦子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_xiun_zz.md#搬楦子)】`bun1 xiun5 zz` <sup>[兴化]</sup> 互相揭发隐私：他俫两家～，让些邻居看笑话。｜谚曰：鞋子店失火——～。  
-1. 【[搬砖弄瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_zhun_non_va.md#搬砖弄瓦)】`bun1 zhun1 non6 va3` <sup>[兴化]</sup> （喻）指人闲不住，喜欢找点事来折腾：他有福不享，就喜欢～的。  
+1. 【[搬砖弄瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_zhun_lon_va.md#搬砖弄瓦)】`bun1 zhun1 lon6 va3` <sup>[兴化]</sup> （喻）指人闲不住，喜欢找点事来折腾：他有福不享，就喜欢～的。  
 1. 【[半](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun.md#半)】`bun5` <sup>[兴化]</sup> 形容人不讲情面或不识抬举：别人把脸你，你不要～！｜这个人～得很，一点交情都不讲。  
 1. 【[半把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_ba.md#半把)】`bun5 ba` <sup>[如皋]</sup> 约一半。  
 1. 【[半把数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_ba_shv.md#半把数)】`bun5 ba shv5` <sup>[如东]</sup> 有些呆板。也叫半呆：这个人～。  

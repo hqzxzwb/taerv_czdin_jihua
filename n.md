@@ -1871,27 +1871,6 @@
 1. 【[脓头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non_teu.md#脓头)】`non2 teu2` <sup>[兴化]</sup> 疮疖最上部的脓块：……初时，累累然是些红瘰儿，到后都起了～儿。（《三刻》二十）  
 1. 【[脓头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non_teu_r.md#脓头<sub>儿</sub>)】`non2 teu2 r` <sup>[如皋]</sup> 脓肿区上部（表层）的白头儿。  
 1. 【[𨑊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non.md#𨑊)】`non2` <sup>[兴化]</sup> ① 敷衍、糊弄：你有话实说，覅～人家。 ② 勉强混过：实在找不到旅馆，就在沙发上～一夜吧！｜《方言》卷十“～，奴动反……凡人语言过度，及妄施行，亦谓之～。”｜《吴下方言考》“……吴中谓勉强而充曰～得过。”  
-1. 【[弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non.md#弄)】`non6` <sup>[东台]</sup> 除一般释义外，东台话中中常作介词：不要～手去抓食品。  
-1. 【[弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non.md#弄)】`non6` <sup>[兴化]</sup> 斗：“……你们却是～他不过的，那时羊入虎口，怎生是好。”（《粉妆楼》七）  
-1. 【[弄点介](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non_din_ga.md#弄点介)】`non6 din ga` <sup>[泰县]</sup> 做一点：你～吃咖子。  
-1. 【[弄到天亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non_do_tin_lian.md#弄到天亮)】`non6 do tin1 lian6` <sup>[兴化]</sup> ① 最终：……怎么～又家来了，还在小船上啊？（《火烧赤壁》六） ② 真相：～东西还是他偷的。  
-1. 【[弄东西](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non_don_xi.md#弄东西)】`non6 don1 xi` <sup>[如东]</sup> 做活计：今朝上午我要下田～。  
-1. 【[弄惯吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non_guaen_nga.md#弄惯吖)】`non6 guaen5 nga` 因娇纵而养成习惯  
-1. 【[弄馉饳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non_guah_do_r.md#弄馉饳<sub>儿</sub>)】`non6 guah7 do1 r` <sup>[如东]</sup> 开玩笑：这个是～。调戏。  
-1. 【[弄鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non_guei.md#弄鬼)】`non6 guei3` <sup>[东台]</sup> 捣鬼。  
-1. 【[弄空头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non_kon_teu.md#弄空头)】`non6 kon5 teu` <sup>[如皋]</sup> 骗人、捉弄人、让人失望、落空。  
-1. 【[弄空头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non_kon_teu.md#弄空头)】`non6 kon5 teu` <sup>[如东]</sup> ① 做没有价值的事情：今朝下雨，我俫四个人在下～ ② 开玩笑：他是跟你～。  
-1. 【[弄愣掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non_len_tio.md#弄愣掉)】`non6 len6 tio` <sup>[如东]</sup> 被某句话或某件事惊住了：她这吖一问，我倒～啊～。  
-1. 【[弄难字他写](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non_naen_cz_ta_xia.md#弄难字他写)】`non6 naen2 cz6 ta1 xia3` <sup>[如皋]</sup> 使他为难，给他添麻烦。  
-1. 【[弄吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non_nga.md#弄吖)】`non6 nga` <sup>[兴化]</sup> 仅仅、只有：～两三个人，也忙一桌菜。｜～百十块钱，怎吖够用吖？也作“通吖”。  
-1. 【[弄吖请身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non_nga_qien_shen.md#弄吖请身)】`non6 nga qien3 shen1` <sup>[东台]</sup> 驱逐某人的婉转说法。  
-1. 【[弄钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non_qin.md#弄钱)】`non6 qin2` <sup>[如东]</sup> 挣钱。借钱。  
-1. 【[弄什杲昃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non_sheh_go_zeh.md#弄什杲昃)】`non6 sheh go3 zeh` <sup>[东台]</sup> 做什么。  
-1. 【[弄甚的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non_shen_nii.md#弄甚的)】`non6 shen2 nii` <sup>[如皋]</sup> 做什么呢？  
-1. 【[弄松](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non_son.md#弄松)】`non6 son` <sup>[如东]</sup> 捉弄，玩弄：她就喜欢～人。  
-1. 【[弄他不凶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non_ta_beh_xion.md#弄他不凶)】`non6 ta1 beh7 xion1` <sup>[如东]</sup> 比他不过：王相如厉害，我～。  
-1. 【[弄相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non_xian.md#弄相)】`non6 xian5` <sup>[如东]</sup> 做法：这种活技怎吖～？  
-1. 【[弄虚作假](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non_xy_zah_jia.md#弄虚作假)】`non6 xy1 zah7 jia3` <sup>[如东]</sup> 耍花招欺骗人：不要～。  
 1. 【[挪移](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_i.md#挪移)】`nu2 i2` <sup>[兴化]</sup> ① 挪借：～款项。 ② 移动：向前～几步。  
 1. 【[努嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_jy.md#努嘴)】`nu3 jy3` <sup>[东台]</sup> 噘嘴示意。  
 1. 【[呶嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_jy.md#呶嘴)】`nu3 jy3` <sup>[如皋]</sup> 嘴向一边歪动，以示意。  
