@@ -8,6 +8,7 @@
 1. 【[妻弟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_ti.md#妻弟)】`qi1 ti6` <sup>[如东]</sup> 妻子的弟弟。  
 1. 【[妻兄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_xion.md#妻兄)】`qi1 xion1` <sup>[如东]</sup> 妻子的哥哥。  
 1. 【[攲跷八怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_qio_baeh_guae.md#攲跷八怪)】`qi1 qio baeh7 guae5` <sup>[兴化]</sup> 形容令人奇怪的事物：江西来的动物展览，有好些～的动物。  
+1. 【[攲跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_qio.md#攲跷)】`qi1 qio1` <sup>[如东]</sup> 奇怪，费解：这样处理让人感觉～。  
 1. 【[攲跷八怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_qio_baeh_guae.md#攲跷八怪)】`qi1 qio1 baeh7 guae5` <sup>[东台]</sup> 反常；特别；奇怪：这吖热的天他还穿棉𧘸子，真是～的。  
 1. 【[期间<sub>儿</sub>窄料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_gaen_r_zheh_lio.md#期间<sub>儿</sub>窄料)】`qi1 gaen1 r zheh7 lio6` <sup>[东台]</sup> 为做某事准备的材料只在预算之间，没有一点余地，紧巴巴的：明天来客多，菜要多买些，不能弄得～的。  
 1. 【[期境](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_jien.md#期境)】`qi1 jien` <sup>[兴化]</sup> ① 局势：等外头～平定下来再出去吧！ ② 境况：你的～也不好，覅管我俫吧！  
@@ -21,7 +22,6 @@
 1. 【[欺心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_xien.md#欺心)】`qi1 xien1` <sup>[兴化]</sup> 昧着良心：“他有这个～的事，我也不饶他……”（《金瓶梅词话》二五）谚曰｜养性须行善，～莫吃斋。  
 1. 【[蹊里八怪的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_lii_baeh_guae_dii.md#蹊里八怪的)】`qi1 lii baeh7 guae5 dii` <sup>[如皋]</sup> 蹊跷。  
 1. 【[蹊里蹊跷的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_lii_qi_qio_dii.md#蹊里蹊跷的)】`qi1 lii qi1 qio dii` <sup>[如皋]</sup> 蹊跷。  
-1. 【[蹊跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_qio.md#蹊跷)】`qi1 qio1` <sup>[如东]</sup> 奇怪，费解：这样处理让人感觉～。  
 1. 【[䭣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi.md#䭣)】`qi2` <sup>[东台]</sup> 东台传统茶食，六瓣形，外地称为“老虎脚爪”。有咸、甜之分，原产地为镇江，故名“京江～”；咸～内有中药“茨罗”，能勾起人们食欲。  
 1. 【[䭣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_r.md#䭣<sub>儿</sub>)】`qi2 r` <sup>[如皋]</sup> 六丫儿糯饼。炉内烘熟，烹糖薰红为糖～，先加盐不烹糖，色白是䴛～。  
 1. 【[䭣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_r.md#䭣<sub>儿</sub>)】`qi2 r` <sup>[兴化]</sup> 一种面食，六个角，分咸、甜两种，在炉中烤熟。谓自镇江传入，故名“京江～”。䭣，《集韵·脂韵》津私切：稻饼。  
