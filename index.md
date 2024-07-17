@@ -351,6 +351,7 @@
 1. 【[妻离子散](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_li_zz_saen.md#妻离子散)】`qi1 li2 zz3 saen5` <sup>[如东]</sup> 家庭分崩离析：这场灾难害得我～。  
 1. 【[妻弟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_ti.md#妻弟)】`qi1 ti6` <sup>[如东]</sup> 妻子的弟弟。  
 1. 【[妻兄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_xion.md#妻兄)】`qi1 xion1` <sup>[如东]</sup> 妻子的哥哥。  
+1. 【[攲里八怪的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_lii_baeh_guae_dii.md#攲里八怪的)】`qi1 lii baeh7 guae5 dii` <sup>[如皋]</sup> 蹊跷。  
 1. 【[攲里攲跷的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_lii_qi_qio_dii.md#攲里攲跷的)】`qi1 lii qi1 qio dii` <sup>[如皋]</sup> 蹊跷。  
 1. 【[攲跷八怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_qio_baeh_guae.md#攲跷八怪)】`qi1 qio baeh7 guae5` <sup>[兴化]</sup> 形容令人奇怪的事物：江西来的动物展览，有好些～的动物。  
 1. 【[攲跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_qio.md#攲跷)】`qi1 qio1` <sup>[如东]</sup> 奇怪，费解：这样处理让人感觉～。  
@@ -364,7 +365,6 @@
 1. 【[欺生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_shen.md#欺生)】`qi1 shen1` <sup>[东台]</sup> 排斥、欺负新来的人：你才去，人家有点儿～，马上就好啊。  
 1. 【[欺削](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_xiah.md#欺削)】`qi1 xiah` <sup>[兴化]</sup> 瞧不起人：你覅～人，你说的那个我也懂。  
 1. 【[欺削](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_xiah.md#欺削)】`qi1 xiah7` <sup>[东台]</sup> 欺负人，以势压人。  
-1. 【[欺心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_xien.md#欺心)】`qi1 xien1` <sup>[兴化]</sup> 昧着良心：“他有这个～的事，我也不饶他……”（《金瓶梅词话》二五）谚曰｜养性须行善，～莫吃斋。  
 [更多...](./q.md)
 ## R
 1. 【[<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/r.md#<sub>儿</sub>)】`r` <sup>[东台]</sup> 儿缀的口语音。（原文作“子”，音不合）：⼤红枣〜；⿊枣〜；草稿〜；小摊〜；茄〜｜你这把调〜，要考⼤学还需要好好努⼒。  
