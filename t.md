@@ -1264,7 +1264,6 @@
 1. 【[挺尸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_shr.md#挺尸)】`tien3 shr1` <sup>[兴化]</sup> ① 指尸体僵硬地躺着：“……你害我女儿吊死了，今～在床上，交付你看守着……”（《二刻》三五） ② 睡觉的贬义说法：“去去去，～去。”小金宝不耐烦地对我送出下巴。（毕飞宇《上海往事》）  
 1. 【[挺胸胅肚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_xion_tih_dv.md#挺胸胅肚)】`tien3 xion1 tih8 dv3` <sup>[东台]</sup> 形容趾高气扬的样子。  
 1. 【[挺胸胅肚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_xion_tih_dv.md#挺胸胅肚)】`tien3 xion1 tih8 dv3` <sup>[兴化]</sup> 挺起胸腹，以示雄壮或高贵：一队士兵～的走过来。｜（刘老老）溜到角门前，只见几个～，指手画脚的人坐在大门上，说东谈西的。（《红楼梦》六）  
-1. 【[顶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien.md#顶)】`tien3` <sup>[如皋]</sup> 髮旋、旋状物的中心处：单～、双～、草帽～儿。  
 1. 【[听](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien.md#听)】`tien5` ① 听 ② 缺少；剩余：～下来  
 1. 【[听](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien.md#听)】`tien5` <sup>[如皋]</sup> ① 选留、预留：这张座位是～吖把你的。 ② 选剩：选吖十个，～下来的总不要啊。  
 1. 【[听](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien.md#听)】`tien5` <sup>[东台]</sup> 留下来、剩下来：盅里酒喝了一半，还有一半～下来了｜你们都去忙，只要～个把人照应老人。  
@@ -2110,7 +2109,7 @@
 1. 【[铜钯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_ba.md#铜钯)】`ton2 ba1` <sup>[如皋]</sup> 用铜做的钯，锔碗用。  
 1. 【[铜铲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_chaen_zz.md#铜铲子)】`ton2 chaen3 zz` <sup>[如皋]</sup> 黄铜铸的铲子装木柄。  
 1. 【[铜钞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_cho.md#铜钞)】`ton2 cho5` <sup>[如东]</sup> 铜质货币。也称铜钱、铜板儿。形状多样。清代的铜币，外圆，中间有一方孔。俗称孔方兄。  
-1. 【[铜錘草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_chuei_co.md#铜錘草)】`ton2 chuei2 co3` <sup>[如皋]</sup> 红花酢浆草。  
+1. 【[铜锤草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_chuei_co.md#铜锤草)】`ton2 chuei2 co3` <sup>[如皋]</sup> 红花酢浆草。  
 1. 【[铜斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_deu.md#铜斗)】`ton2 deu3` <sup>[兴化]</sup> （喻）稳固、富有：老子挣下的～家私，到儿子手不到三年就败光吖。｜“可怜！我的～儿江山，铁围的社稷，谁知被他阴占了！”（《西游记》三九）  
 1. 【[铜锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_gu.md#铜锅)】`ton2 gu1` <sup>[如东]</sup> 锅的一种，以铜为原料制成的锅。  
 1. 【[铜锅铲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_gu_chaen.md#铜锅铲)】`ton2 gu1 chaen3` <sup>[如东]</sup> 锅铲的一种，以铜为原料制成的锅铲。  

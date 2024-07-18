@@ -245,8 +245,8 @@
 1. 【[气哺哺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_pv_pv.md#气哺哺)】`qi5 pv3 pv3` <sup>[兴化]</sup> 形容气忿不平的样子：季遐年恼了……～的又随堂吃了一顿饭。（《儒林外史》五五）。  
 1. 【[气软](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_run.md#气软)】`qi5 run3` <sup>[如东]</sup> 温和：说话要～些。  
 1. 【[气嗓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_san.md#气嗓)】`qi5 san3` <sup>[如皋]</sup> 气管。  
+1. 【[气嗓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_san.md#气嗓)】`qi5 san3` <sup>[兴化]</sup> 气管。也说“气嗓管子”。  
 1. 【[气嗓管子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_san_gun_zz.md#气嗓管子)】`qi5 san3 gun3 zz` <sup>[兴化]</sup> 气管。  
-1. 【[气噪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_san.md#气噪)】`qi5 san3` <sup>[兴化]</sup> 气管。也说“气嗓管子”。  
 1. 【[气色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_seh.md#气色)】`qi5 seh7` <sup>[如皋]</sup> 从面部显示的健康状况、精神状态。  
 1. 【[气色不好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_seh_beh_ho.md#气色不好)】`qi5 seh7 beh7 ho3` <sup>[如皋]</sup> 见“脸色发滞”。  
 1. 【[气杀（煞）咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_shaeh_ga.md#气杀（煞）咖)】`qi5 shaeh7 ga` <sup>[如皋]</sup> 气死了  
@@ -1943,8 +1943,7 @@
 1. 【[圈络<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_lah_r.md#圈络<sub>儿</sub>)】`qiun1 lah r` <sup>[如皋]</sup> 圈套。  
 1. 【[圈浪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_lan.md#圈浪)】`qiun1 lan` <sup>[如皋]</sup> 见“圈令”。  
 1. 【[圈零](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_lien.md#圈零)】`qiun1 lien2` <sup>[如东]</sup> 来回一趟，称为一个圈零：我跑啊几个～。  
-1. 【[圈令](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_lien.md#圈令)】`qiun1 lien6` <sup>[如皋]</sup> 一个来回。  
-1. 【[圈令](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_lien.md#圈令)】`qiun1 lien6` <sup>[如皋]</sup> ① 来回：跑～、转～。 ② 量词：一个～。  
+1. 【[圈令](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_lien.md#圈令)】`qiun1 lien6` <sup>[如皋]</sup> ① 来回：跑～、转～。 ② 量词，来回：一个～。  
 1. 【[圈盘腿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_pun_ty_r.md#圈盘腿<sub>儿</sub>)】`qiun1 pun2 ty3 r` <sup>[如皋]</sup> “o”型腿。幼年缺鈣造成的畸型腿。  
 1. 【[圈圈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_qiun_r.md#圈圈<sub>儿</sub>)】`qiun1 qiun1 r` <sup>[如东]</sup> ① 在一个地方旋转：打～ ② 一种圆形的箍：推～。  
 1. 【[圈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_r.md#圈<sub>儿</sub>)】`qiun1 r` <sup>[如皋]</sup> 耳环及其他环状物。  

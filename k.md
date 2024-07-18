@@ -147,6 +147,7 @@
 1. 【[开年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_nin.md#开年)】`kae1 nin2` <sup>[如东]</sup> 明年。  
 1. 【[开年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_nin.md#开年)】`kae1 nin2` <sup>[如皋]</sup> 明年。预约用语。  
 1. 【[开片](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_pin.md#开片)】`kae1 pin5` <sup>[如皋]</sup> ① 宰牲后沿脊劈开。 ② 裁好的服装布料。  
+1. 【[开片](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_pin.md#开片)】`kae1 pin5` <sup>[兴化]</sup> 将宰杀脱毛（或剥皮）后猪、牛、羊的胴体从中剖开。  
 1. 【[开瓢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_pio_r.md#开瓢<sub>儿</sub>)】`kae1 pio2 r` <sup>[兴化]</sup> （戏）头破血流：今朝子张大捱人家～啦！  
 1. 【[开盘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_pun_zz.md#开盘子)】`kae1 pun2 zz` <sup>[兴化]</sup> 要价、提出条件：唉，谨防施恩教你包办，～要有数，价钱要开大一些啊！（《武松》六）  
 1. 【[开盘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_pun_zz.md#开盘子)】`kae1 pun2 zz` <sup>[泰县]</sup> 提要求：你～，我俫来议下子。  

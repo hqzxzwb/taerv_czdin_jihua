@@ -1145,7 +1145,6 @@
 1. 【[色<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_r.md#色<sub>儿</sub>)】`sheh7 r` <sup>[如皋]</sup> 即色子。一种玩具、赌具。  
 1. 【[虱子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_zz.md#虱子)】`sheh7 zz` <sup>[如东]</sup> 昆虫。灰白色、浅黄色或灰黑色，有短毛，头小，没有翅膀，腹部大。卵白色，椭圆形。寄生在人、猪、牛等身上，吸食血液。能传播斑疹、伤寒和回归热等疾病。  
 1. 【[虱子活咖忑下来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_zz_huh_ga.md#虱子活咖忑下来)】`sheh7 zz huh8 ga teh7 ha lae2` <sup>[如皋]</sup> 哭穷、嗑穷、活穷。  
-1. 【[虱子活咖忑下来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_zz_huh_ga.md#虱子活咖忑下来啊)】`sheh7 zz huh8 ga teh7 ha lae2 a` <sup>[如皋]</sup> 见“嗑穷”。  
 1. 【[识宝的回子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_bo_dii_huei_zz.md#识宝的回子)】`sheh7 bo3 dii huei2 zz` <sup>[兴化]</sup> ① 对波斯珠宝商人的旧称。《拍案惊案》第一卷就讲述了一个波斯胡（回子）识宝的故事。 ② （喻）识才重才的人：“左”时的领导，也有～，他们把宗石均就地安排为公社副书记……（马春阳《白发青丝好夫妇》）  
 1. 【[识宝猴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_bo_heu_zz.md#识宝猴子)】`sheh7 bo3 heu2 zz` <sup>[如东]</sup> 对宝物有鉴别能力的人。比喻办事精明：他是～，咋得会弄错？  
 1. 【[识宝回子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_bo_huei_zz.md#识宝回子)】`sheh7 bo3 huei2 zz` <sup>[如皋]</sup> 珠宝古董行家。  
@@ -1481,7 +1480,6 @@
 1. 【[生桐油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_ton_ieu.md#生桐油)】`shen1 ton2 ieu2` <sup>[如皋]</sup> 天然桐油，未经熬制。  
 1. 【[生土](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_tv.md#生土)】`shen1 tv3` <sup>[如东]</sup> 未经开发的板结的土壤，称生土：这许还是～。  
 1. 【[生心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_xien.md#生心)】`shen1 xien1` <sup>[兴化]</sup> ① 起疑心：“……不痴不聋，不做阿家翁，一家子人生了心，倒反不好。”（《广陵潮》五十） ② 起外心：他家儿子没出息，难怪媳妇～要离婚。  
-1. 【[生肖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_xio.md#生肖)】`shen1 xio1` <sup>[如东]</sup> 代表十二地支，标记人出生年的十二种动物，即鼠、牛、虎、兔、龙、蛇、马、羊、猴、鸡、狗、猪。如子年生的属鼠，丑年生的属牛等。也叫属相。  
 1. 【[生灾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_zae.md#生灾)】`shen1 zae1` <sup>[如东]</sup> 生病：吃咖五谷要～。  
 1. 【[甥舅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_qieu.md#甥舅)】`shen1 qieu6` <sup>[如皋]</sup> 外甥与舅父间的关系称。  
 1. 【[申](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen.md#申)】`shen1` <sup>[东台]</sup> 地支第九位。  
@@ -2528,7 +2526,7 @@
 1. 【[甩大袖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuae_da_xieu_zz.md#甩大袖子)】`shuae3 da6 xieu6 zz` <sup>[东台]</sup> ［喻］作风飘浮，不务实，不做具体事。  
 1. 【[甩里甩气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuae_lii_shuae_qi.md#甩里甩气)】`shuae3 lii shuae3 qi5` <sup>[兴化]</sup> 形容盛气凌人的样子：才当吖几天副科长就～的，好像了不起啊！  
 1. 【[甩里甩气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuae_lii_shuae_qi.md#甩里甩气)】`shuae3 lii shuae3 qi5` <sup>[泰县]</sup> 说话随便的样子。  
-1. 【[甩里甩气的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuae_lii_shuaei_qi_dii.md#甩里甩气的)】`shuae3 lii shuaei3 qi5 dii` <sup>[如皋]</sup> 见“甩”。  
+1. 【[甩里甩气的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuae_lii_shuae_qi.md#甩里甩气的)】`shuae3 lii shuae3 qi5 dii` <sup>[如皋]</sup> 见“甩”。  
 1. 【[甩料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuae_lio.md#甩料)】`shuae3 lio6` <sup>[如皋]</sup> 见“甩”。  
 1. 【[甩料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuae_lio.md#甩料)】`shuae3 lio6` <sup>[兴化]</sup> 见“甩子”。  
 1. 【[甩气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuae_qi.md#甩气)】`shuae3 qi5` <sup>[如皋]</sup> 见“甩”。  

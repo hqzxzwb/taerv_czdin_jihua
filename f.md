@@ -702,7 +702,7 @@
 1. 【[分头大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_teu_da.md#分头大)】`fen1 teu2 da6` <sup>[泰县]</sup> 瓜分的人多。  
 1. 【[分籰子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_vah_zz.md#分籰子)】`fen1 vah7 zz` <sup>[如皋]</sup> 络丝工将生丝按粗细度分为8种，分绕在各个籰子上。其名称由细到粗有：细梢儿、肥梢儿、细匀、肥匀、嫩肥籰、老肥籰、嫩肥头儿、老肥头儿。另有皂丝（脚料）。  
 1. 【[分文半钞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_ven_bun_cho.md#分文半钞)】`fen1 ven2 bun5 cho5` <sup>[兴化]</sup> 形容极少的钱：你想从他身上弄个～都办不到。  
-1. 【[分厢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_xian.md#分厢)】`fen1 xian1` <sup>[兴化]</sup> 将宰杀脱毛（或剥皮）后猪、牛、羊的胴体从中剖开。也说“开䏒”。  
+1. 【[分厢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_xian.md#分厢)】`fen1 xian1` <sup>[兴化]</sup> 将宰杀脱毛（或剥皮）后猪、牛、羊的胴体从中剖开。也说“开片”。  
 1. 【[分厢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_xian.md#分厢)】`fen1 xian1` <sup>[泰县]</sup> 沿脊椎骨把猪分成两爿。  
 1. 【[分心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_xien.md#分心)】`fen1 xien1` <sup>[如东]</sup> 思想不集中：听到外面唱歌，我有些～。  
 1. 【[分心木](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_xien_moh.md#分心木)】`fen1 xien1 moh8` <sup>[如东]</sup> 胡桃科植物胡桃果核内的木质隔膜，入中药。  
@@ -710,7 +710,6 @@
 1. 【[分址分清](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_zhr_fen_qien.md#分址分清)】`fen1 zhr3 fen1 qien1` <sup>[泰县]</sup> 详细，清楚：这件事你交待得～。  
 1. 【[分早晚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_zo_vaen.md#分早晚)】`fen1 zo3 vaen3` <sup>[兴化]</sup> ① 立秋后天气虽仍炎热，但日出前和日落后相对凉爽一些：立咖秋天气就～吖。 ② 特指早晨有很多禁忌，不慎误犯者常令人不快：说话要～，不要早上一见面就梦吖梦的。  
 1. 【[分籽分清](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_zz_fen_qien.md#分籽分清)】`fen1 zz3 fen1 qien1` <sup>[东台]</sup> ［喻］分得很清，绝不含糊。  
-1. 【[开䏒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_pin.md#开䏒)】`fen1 pin5` <sup>[兴化]</sup> 将宰杀脱毛（或剥皮）后猪、牛、羊的胴体从中剖开。  
 1. 【[坟场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_chan.md#坟场)】`fen2 chan2` <sup>[如东]</sup> 埋葬死人的场所。  
 1. 【[坟茔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_ien.md#坟茔)】`fen2 ien2` <sup>[如东]</sup> ① 埋葬棺材后垒起来的土堆，称坟茔。 ② 埋葬死者的场地，称坟茔或坟地。  
 1. 【[坟茔帽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_ien_mo_zz.md#坟茔帽子)】`fen2 ien2 mo6 zz` <sup>[如东]</sup> 搁在坟茔顶上的圆锥形土块。坟茔里埋葬几位死者，坟茔顶上就搁几个坟茔帽子。  

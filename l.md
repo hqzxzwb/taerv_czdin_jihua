@@ -2211,6 +2211,7 @@
 1. 【[老少无欺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_sho_v_qi.md#老少无欺)】`lo3 sho5 v2 qi1` <sup>[如东]</sup> 一视同仁，一样对待：这个店好，～。  
 1. 【[老熟人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_shoh_ren.md#老熟人)】`lo3 shoh8 ren2` <sup>[如皋]</sup> ① 十分相熟的人。 ② 有的刚认识就说是老熟人，是外交辞令，拉关系。  
 1. 【[老熟套](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_shoh_to.md#老熟套)】`lo3 shoh8 to5` <sup>[如皋]</sup> 见“熟套”。  
+1. 【[老是](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_shr.md#老是)】`lo3 shr` <sup>[如皋]</sup> 经常地，有贬义。  
 1. 【[老师](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_shr.md#老师)】`lo3 shr1` <sup>[如东]</sup> ① 从事教育事业的人：他是～。 ② 在文化、政治、业务等方面值得自己学习的人：他是我的～。  
 1. 【[老师傅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_shr_fv.md#老师傅)】`lo3 shr1 fv` <sup>[如东]</sup> ① 掌握某种技术专长的人。 ② 对人的尊称。  
 1. 【[老水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_shuei.md#老水)】`lo3 shuei3` <sup>[如皋]</sup> 见“死水”。  
@@ -2285,7 +2286,6 @@
 1. 【[老扎货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_zhaeh_hu.md#老扎货)】`lo3 zhaeh7 hu5` <sup>[如皋]</sup> 贬指老练的人，也指小孩不怕人。  
 1. 【[老扎老扎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_zhaeh_lo_zhaeh.md#老扎老扎)】`lo3 zhaeh7 lo3 zhaeh7` <sup>[如皋]</sup> 见“老扎”。  
 1. 【[老汁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_zheh.md#老汁)】`lo3 zheh7` <sup>[如皋]</sup> 卤菜店煮卤菜的汤汁。此后再点卤，用此陈汤，加水加作料。如此反复日久，形成～，香味浓郁。  
-1. 【[老是](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_zhr.md#老是)】`lo3 zhr` <sup>[如皋]</sup> 经常地，有贬义。  
 1. 【[老奘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_zhuan.md#老奘)】`lo3 zhuan3` <sup>[如东]</sup> ① 形容物体很粗：这根木头～。 ② 比喻势大财阔的人：这个人在我俫这许是～。  
 1. 【[老壮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_zhuan.md#老壮)】`lo3 zhuan5` <sup>[兴化]</sup> 形容物体又大又粗：这条长鱼是大～。｜（邓九公）又把他～的那大姆指头伸出米说｜“这才是我邓老九的好朋友哪！”（《儿女英雄传》二一）亦作“老奘”。  
 1. 【[老壮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_zhuan.md#老壮)】`lo3 zhuan5` <sup>[泰县]</sup> 老大，称雄：他是～。  

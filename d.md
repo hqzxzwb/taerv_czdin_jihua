@@ -1983,6 +1983,7 @@
 1. 【[钉子霜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_zz_shuan.md#钉子霜)】`dien1 zz shuan1` <sup>[如皋]</sup> 霜晶可接连很长，若钉子，表示霜大。  
 1. 【[靪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien.md#靪)】`dien1` <sup>[东台]</sup> 补鞋底：～前掌。  
 1. 【[顶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien.md#顶)】`dien3` 最  
+1. 【[顶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien.md#顶)】`dien3` <sup>[如皋]</sup> 髮旋、旋状物的中心处：单～、双～、草帽～儿。  
 1. 【[顶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien.md#顶)】`dien3` <sup>[兴化]</sup> ① 发旋：小二子头上是双～。 ② 到达：船～码头，乘客纷纷上岸。 ③ 逼着：那大汉起初不肯说，后来冒得官～住问他，才说得一百五十块。（《官场现形记》三十）  
 1. 【[顶搭<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_daeh_r.md#顶搭<sub>儿</sub>)】`dien3 daeh7 r` <sup>[如东]</sup> ① 孩童剃发时，头顶上留着的一撮头发或辫子：揪～。 ② 比喻脑袋。  
 1. 【[顶调](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_dio.md#顶调)】`dien3 dio5` <sup>[兴化]</sup> 争辩，提出相反意见：宦书记“一言堂”弄惯的，不想今吖的会议上有人打～。  

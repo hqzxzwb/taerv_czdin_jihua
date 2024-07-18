@@ -58,7 +58,6 @@
 1. 【[瘕尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_xy.md#瘕尿)】`ha2 xy1` <sup>[如东]</sup> ① 撒尿。 ② 比喻说不出好话来：他在下～。 ③ 傻瓜。  
 1. 【[瘕尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_xy.md#瘕尿)】`ha2 xy1` <sup>[东台]</sup> 呆，笨，反应迟钝。东台词典写“蛤虚”。因为癞蛤蟆在人们印象中形象呆笨、丑陋。  
 1. 【[蝦蟆痈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ma_ion.md#蝦蟆痈)】`ha2 ma ion5` <sup>[如东]</sup> 腮腺炎。  
-1. 【[蝦蟆乌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ma_v_r.md#蝦蟆乌<sub>儿</sub>)】`ha2 ma v1 r, xia2 ma v1 r` 蝌蚪  
 1. 【[蝦蟆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ma.md#蝦蟆)】`ha2 ma2` <sup>[如皋]</sup> 蟾蜍。  
 1. 【[蝦蟆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ma.md#蝦蟆)】`ha2 ma2` <sup>[东台]</sup> 蟾蜍，俗称癞宝。  
 1. 【[蝦蟆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ma.md#蝦蟆)】`ha2 ma2` <sup>[兴化]</sup> 蟾蜍的俗称。  
@@ -1081,6 +1080,7 @@
 1. 【[红罐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_gun_r.md#红罐<sub>儿</sub>)】`hon2 gun5 r` <sup>[如皋]</sup> 趣指肚腹：苹果啷？——到啊～里。  
 1. 【[红虾<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_ha_r.md#红虾<sub>儿</sub>)】`hon2 ha1 r` <sup>[兴化]</sup> （喻）形容人酒后面部呈现的酡颜：他两杯酒下肚，脸就像个～。  
 1. 【[红虾<sub>儿</sub>、白虾<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_ha_r_poh_ha_r.md#红虾<sub>儿</sub>、白虾<sub>儿</sub>)】`hon2 ha1 r poh8 ha1 r` <sup>[如皋]</sup> 两种海虾，多在春节前后上市，冷拌食用，味鲜美。  
+1. 【[红苋菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_haen_cae.md#红苋菜)】`hon2 haen6 cae5` <sup>[如东]</sup> 苋科植物老枪谷，一年生草本。  
 1. 【[红黑变脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_heh_bin_lin.md#红黑变脸)】`hon2 heh7 bin5 lin3` <sup>[兴化]</sup> 形容人两副脸，随机应变：他这种人开始不丑，你不满足他要求马上翻脸，是个～的人。  
 1. 【[红花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_hua.md#红花)】`hon2 hua1` <sup>[如东]</sup> 菊科植物红花，一年生草本。  
 1. 【[红花芝草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_hua_zhr_co.md#红花芝草)】`hon2 hua1 zhr1 co3` <sup>[兴化]</sup> （喻）希望：你家丫头马上大学毕业，你好看到～啊。  
@@ -1144,7 +1144,6 @@
 1. 【[红尾伯劳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_vei_boh_lo.md#红尾伯劳)】`hon2 vei3 boh7 lo` <sup>[如东]</sup> 候鸟。体长约19厘米。嘴粗有钩，似鹰嘴。夏季在北方繁殖，冬季迁至华南一带，几遍全国。性凶猛。叫声粗犷，激昂多变。栖息在灌木丛中。喜吃昆虫和其他小动物。  
 1. 【[红蚊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_ven_zz.md#红蚊子)】`hon2 ven2 zz` <sup>[如皋]</sup> 库蚊。  
 1. 【[红虾<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_xia_r.md#红虾<sub>儿</sub>)】`hon2 xia1 r` <sup>[如东]</sup> 对虾科动物鹰爪虾，体长约6厘米。体较粗短，甲壳很厚，表面粗糙不平。额角上缘有锯齿。头胸甲的触角刺具较短的纵缝。腹部背面有节。尾节末端尖细，两侧有活动刺。体红黄色，腹部各节前缘白色，后背为红黄色，弯曲时颜色的浓淡与鸟爪相似。生活在泥沙底的浅海中。  
-1. 【[红苋菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_xiaen_cae.md#红苋菜)】`hon2 xiaen6 cae5` <sup>[如东]</sup> 苋科植物老枪谷，一年生草本。  
 1. 【[红纸封<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_zhr_fon_r.md#红纸封<sub>儿</sub>)】`hon2 zhr3 fon1 r` <sup>[兴化]</sup> 包了礼金的红纸包。  
 1. 【[红纸角落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_zhr_gah_lah.md#红纸角落)】`hon2 zhr3 gah7 lah` <sup>[东台]</sup> 送红包者的客套话，意思是出手不大，小意思。  
 1. 【[红砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_zhun.md#红砖)】`hon2 zhun1` <sup>[如东]</sup> 砖坯烧熟后，不加水，让其慢慢冷却，砖的颜色即呈淡红色，称红砖。  
@@ -2662,7 +2661,7 @@
 1. 【[汗直𨂸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_cheh_heu.md#汗直𨂸)】`hun6 cheh8 heu2` <sup>[东台]</sup> 形容人紧张得淌汗。  
 1. 【[汗狗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_geu_zz.md#汗狗子)】`hun6 geu3 zz` <sup>[兴化]</sup> “獾狗子”的谐音，戏称小孩玩得满身汗水：几个小家伙身上厌得像～。  
 1. 【[汗褂<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_gua_r.md#汗褂<sub>儿</sub>)】`hun6 gua5 r` <sup>[如东]</sup> ① 汗衫。 ② 一种无袖的短褂子。  
-1. 【[汗浸浸的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_jien_jien_dii.md#汗浸浸的)】`hun6 jien1 jien1 dii` <sup>[如皋]</sup> 微汗。  
+1. 【[汗津津的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_jien_jien_dii.md#汗津津的)】`hun6 jien1 jien1 dii` <sup>[如皋]</sup> 微汗。  
 1. 【[汗冒冒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_mo_mo.md#汗冒冒)】`hun6 mo6 mo6` <sup>[东台]</sup> 皮肤上有汗液渗出。  
 1. 【[汗冒冒的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_mo_mo_dii.md#汗冒冒的)】`hun6 mo6 mo6 dii` <sup>[如皋]</sup> 状出汗快而多。  
 1. 【[汗冒雨淋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_mo_y_lien.md#汗冒雨淋)】`hun6 mo6 y3 lien2` 汗如雨下  

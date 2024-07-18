@@ -1658,7 +1658,7 @@
 1. 【[怪话连篇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guae_hua_lin_pin.md#怪话连篇)】`guae5 hua6 lin2 pin1` <sup>[东台]</sup> 不按照正常思维方式讲话，而是语言怪异，连续不断。  
 1. 【[怪精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guae_jien.md#怪精)】`guae5 jien` <sup>[兴化]</sup> ① （贬）指作风轻浮的女人。 ② 作动词：覅～，放敦实点儿。  
 1. 【[怪里怪气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guae_lii_guae_qi.md#怪里怪气)】`guae5 lii guae5 qi5` <sup>[兴化]</sup> 衣着、形态、言谈不同于常人，令人有异样的感觉：那个大男将脸上搽得雪白，说起话来摇头晃脑的，真是～的。  
-1. 【[怪里怪气的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guae_lii_guae_qi_di.md#怪里怪气的)】`guae5 lii guae5 qi5 di` <sup>[如皋]</sup> 见“怪里怪腔的”。  
+1. 【[怪里怪气的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guae_lii_guae_qi.md#怪里怪气的)】`guae5 lii guae5 qi5 dii` <sup>[如皋]</sup> 见“怪里怪腔的”。  
 1. 【[怪里怪腔的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guae_lii_guae_qian_dii.md#怪里怪腔的)】`guae5 lii guae5 qian1 dii` <sup>[如皋]</sup> 贬指说话的腔调异常，怪腔怪调  
 1. 【[怪模怪样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guae_mu_guae_ian.md#怪模怪样)】`guae5 mu2 guae5 ian6` <sup>[如东]</sup> 奇特的模样：这个女伢儿打扮吖～的，看上去不顺眼。  
 1. 【[怪癖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guae_pieh.md#怪癖)】`guae5 pieh7` <sup>[东台]</sup> 孤怪的癖好。  

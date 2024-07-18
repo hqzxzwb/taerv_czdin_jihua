@@ -448,7 +448,6 @@
 1. 【[便宜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_i.md#便宜)】`pi2 i2` <sup>[东台]</sup> ① 价格低。 ② 不当得利或感到精神上口头上讨巧：得咖～还卖乖。  
 1. 【[便<sub>宜</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#便<sub>宜</sub>)】`pi2` <sup>[兴化]</sup> “便宜”pin2 i2的合音，兴化城区口音：图～买老牛。  
 1. 【[啤酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_jieu.md#啤酒)】`pi2 jieu3` <sup>[如东]</sup> 酒的一种。以大麦为原料酿制而成，乙醇含量较低。  
-1. 【[度话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_hua.md#度话)】`pi2 hua6` <sup>[如皋]</sup> 调皮话。  
 1. 【[琵琶骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_pa_gueh.md#琵琶骨)】`pi2 pa2 gueh7` <sup>[兴化]</sup> 肩脚骨。  
 1. 【[琵琶扣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_pa_keu_r.md#琵琶扣<sub>儿</sub>)】`pi2 pa2 keu1 r` <sup>[如皋]</sup> 尾若琵琶的布纽扣儿。  
 1. 【[琵琶三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_pa_saen.md#琵琶三)】`pi2 pa2 saen1` <sup>[兴化]</sup> 缩脚语：～——弦。弦、嫌同音，暗指讨嫌的人｜他有点～。  
@@ -483,6 +482,7 @@
 1. 【[皮厚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_heu.md#皮厚)】`pi2 heu6` <sup>[如皋]</sup> 比喻不怕丑。詈语、昵语。  
 1. 【[皮厚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_heu.md#皮厚)】`pi2 heu6` <sup>[如东]</sup> 皮肤厚。比喻不知羞耻：这个人～，说他几句没有关系。  
 1. 【[皮货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_hu.md#皮货)】`pi2 hu5` <sup>[如皋]</sup> 调皮的青少年。  
+1. 【[皮话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_hua.md#皮话)】`pi2 hua6` <sup>[如皋]</sup> 调皮话。  
 1. 【[皮脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_jiah.md#皮脚)】`pi2 jiah7` <sup>[如皋]</sup> 爱顽皮的人。多指小孩。  
 1. 【[皮焦骨里生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_jio_gueh_lii_shen.md#皮焦骨里生)】`pi2 jio1 gueh7 lii shen1` <sup>[如皋]</sup> 形容外面已烧焦而内里末成熟。  
 1. 【[皮焦骨里生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_jio_gueh_lii_shen.md#皮焦骨里生)】`pi2 jio1 gueh7 lii shen1` <sup>[东台]</sup> 外面已焦，里面却未熟。指半生烂熟，没有熟透。  

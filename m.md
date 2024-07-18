@@ -605,7 +605,6 @@
 1. 【[没（得）搭煞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_daeh_shaeh.md#没（得）搭煞)】`meh8 daeh7 shaeh7` <sup>[如皋]</sup> 状素质太低，容易蛮缠，不能搭理。  
 1. 【[没（得）底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_di.md#没（得）底)】`meh8 di3` <sup>[如皋]</sup> ① 不知底细，没有把握。 ② 没有限制：用钱～。  
 1. 【[没（得）屌事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_dio_shr.md#没（得）屌事)】`meh8 dio3 shr6` <sup>[如皋]</sup> 同“没（得）板子打”❶❷粗鄙话。  
-1. 【[没（得）头绪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_eu_qy.md#没（得）头绪)】`meh8 eu2 qy6` <sup>[如皋]</sup> 无价值：这些事～，不要插手。  
 1. 【[没（得）𠵹答](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_gan_daeh.md#没（得）𠵹答)】`meh8 gan1 daeh7` <sup>[如皋]</sup> 不答理，不必答理。  
 1. 【[没（得）根](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_gen.md#没（得）根)】`meh8 gen1` <sup>[如皋]</sup> 没出处、无依靠。  
 1. 【[没（得）根底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_gen_di.md#没（得）根底)】`meh8 gen1 di3` <sup>[如皋]</sup> ① 无碍绊，飘浮不定。 ② 来历不明。  
@@ -637,6 +636,7 @@
 1. 【[没（得）数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_shv.md#没（得）数)】`meh8 shv5` <sup>[如皋]</sup> ① 无把握≈“没得底”。 ② 无分寸：他手脚重，打起伢儿来～。  
 1. 【[没（得）四两](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_sz_lian.md#没（得）四两)】`meh8 sz5 lian3` <sup>[如皋]</sup> 昵指撒娇。源自歇后语“十二个菩萨没得四两重——轻神”。  
 1. 【[没（得）头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_teu.md#没（得）头)】`meh8 teu2` <sup>[如皋]</sup> ① 遇事不经头脑思考。 ② 祸事将临。  
+1. 【[没（得）头绪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_teu_qy.md#没（得）头绪)】`meh8 teu2 qy6` <sup>[如皋]</sup> 无价值：这些事～，不要插手。  
 1. 【[没（得）定数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_tien_shv.md#没（得）定数)】`meh8 tien6 shv5` <sup>[如皋]</sup> 没有定准：天气不正常，他来不来～。  
 1. 【[没（得）洞里𠞖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_ton_lii_gon.md#没（得）洞里𠞖)】`meh8 ton6 lii gon1` <sup>[如皋]</sup> ① 羞愧得无地自容。 ② 怕得无处躲藏。  
 1. 【[没（得）胃口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_vei_keu.md#没（得）胃口)】`meh8 vei6 keu3` <sup>[如皋]</sup> 没有食次，喻没有要求。  
@@ -1215,11 +1215,11 @@
 1. 【[明板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_baen.md#明板)】`mien2 baen` <sup>[如东]</sup> 帆船舵扇中间的木板。  
 1. 【[明处](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_chv.md#明处)】`mien2 chv` <sup>[如皋]</sup> 见“亮处”。  
 1. 【[明处](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_chv.md#明处)】`mien2 chv5` <sup>[东台]</sup> 公开的场合：有话说在～。  
+1. 【[明打明](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_da_mien.md#明打明)】`mien2 da3 mien2` <sup>[如东]</sup> 公开的信息。  
 1. 【[明打明](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_da_mien.md#明打明)】`mien2 da3 mien2` <sup>[兴化]</sup> 公开地、不加掩饰地：他～的把公家东西往家拖。  
 1. 【[明打明的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_da_mien_dii.md#明打明的)】`mien2 da3 mien2 dii` <sup>[如皋]</sup> 很明显：他这吖走棋，～是要吃车。  
 1. 【[明打明开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_da_mien_kae.md#明打明开)】`mien2 da3 mien2 kae1` <sup>[东台]</sup> 公开透明，毫不掩饰。  
 1. 【[明打明敲的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_da_mien_ko_dii.md#明打明敲的)】`mien2 da3 mien2 ko1 dii` <sup>[如皋]</sup> 公开的，公然的；别人卖10元，我卖12元，～多卖两元——按质论价嘛！见“明摆的”。  
-1. 【[明打明](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_da_mien.md#明打明)】`mien2 da3 mien3` <sup>[如东]</sup> 公开的信息。  
 1. 【[明的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_dii.md#明的)】`mien2 dii` <sup>[如皋]</sup> 很明显。  
 1. 【[明矾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_faen.md#明矾)】`mien2 faen2` <sup>[如东]</sup> 矿物明矾石经加工提炼而成的结晶。也叫白矾。  
 1. 【[明街](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_gae.md#明街)】`mien2 gae1` <sup>[如皋]</sup> 明代如皋建城时的街道。有东街、西街、南街，没有北街，成丁字形。  

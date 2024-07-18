@@ -1772,7 +1772,7 @@
 1. 【[小气巴巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qi_ba_ba.md#小气巴巴)】`xio3 qi5 ba1 ba1` <sup>[泰县]</sup> 吝啬。  
 1. 【[小气巴拉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qi_ba_la.md#小气巴拉)】`xio3 qi5 ba1 la1` <sup>[如东]</sup> 吝啬：不要～的。  
 1. 【[小气巴剌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qi_ba_laeh.md#小气巴剌)】`xio3 qi5 ba1 laeh` <sup>[泰县]</sup> 小气：小王～的，请我俫看场电影也舍不得。  
-1. 【[小气巴拉的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qi_ba_laeh_dii.md#小气巴拉的)】`xio3 qi5 ba1 laeh dii` <sup>[东台]</sup> 十分吝啬、小气的态度。  
+1. 【[小气巴剌的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qi_ba_laeh.md#小气巴剌的)】`xio3 qi5 ba1 laeh dii` <sup>[东台]</sup> 十分吝啬、小气的态度。  
 1. 【[小气鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qi_guei.md#小气鬼)】`xio3 qi5 guei3` <sup>[如东]</sup> 非常吝啬的人：他是一个～。  
 1. 【[小气猫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qi_mo_r.md#小气猫<sub>儿</sub>)】`xio3 qi5 mo2 r` <sup>[如东]</sup> 很吝啬的人，多指小孩：小东是个～。  
 1. 【[小气洞<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qi_ton_r.md#小气洞<sub>儿</sub>)】`xio3 qi5 ton6 r` <sup>[如东]</sup> 非常吝啬的人。  
