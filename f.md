@@ -332,7 +332,7 @@
 1. 【[犯毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_mo.md#犯毛)】`faen6 mo2` <sup>[如东]</sup> 出现变故：这件事犯吖毛。  
 1. 【[犯病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_pien.md#犯病)】`faen6 pien6` <sup>[如东]</sup> 老毛病复发。  
 1. 【[犯病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_pien.md#犯病)】`faen6 pien6` <sup>[兴化]</sup> 无端做傻事：我到上海把兴化的产品买回来，怕的犯吖病。  
-1. 【[犯忌杲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_qi_go_zz.md#犯忌杲子)】`faen6 qi go3 zz` <sup>[如皋]</sup> 不安分，会生事、易惹祸的人。  
+1. 【[犯气杲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_qi_go_zz.md#犯气杲子)】`faen6 qi go3 zz` <sup>[如皋]</sup> 不安分，会生事、易惹祸的人。  
 1. 【[犯气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_qi.md#犯气)】`faen6 qi5` <sup>[东台]</sup> 调皮、淘气：她嫌姑娘～，不听话，硬是到国外做生意。  
 1. 【[犯气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_qi.md#犯气)】`faen6 qi5` <sup>[兴化]</sup> 怄气：小家伙这几天～，连学都不背上。  
 1. 【[犯气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_qi.md#犯气)】`faen6 qi5` <sup>[泰县]</sup> 调皮、淘气：这个伢儿～。  
