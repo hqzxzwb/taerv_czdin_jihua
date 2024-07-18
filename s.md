@@ -681,8 +681,8 @@
 1. 【[刹气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_qi.md#刹气)】`shaeh8 qi5` <sup>[泰县]</sup> 出气：你不要拿我～。  
 1. 【[刹尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_vei.md#刹尾)】`shaeh8 vei3` <sup>[东台]</sup> 结束事情的最后一段，收尾：工程本月底能～。  
 1. 【[刹账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_zhan.md#刹账)】`shaeh8 zhan5` <sup>[泰县]</sup> 结账。  
-1. 【[炸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh.md#炸)】`shaeh8` <sup>[泰县]</sup> 滚油煎熬：～油条。  
 1. 【[煠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh.md#煠)】`shaeh8` <sup>[如皋]</sup> 用大量滚油煎：～油条、～肉皮、～豆腐、～麻儿。  
+1. 【[煠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh.md#煠)】`shaeh8` <sup>[泰县]</sup> 滚油煎熬：～油条。  
 1. 【[闸裆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_dan.md#闸裆)】`shaeh8 dan1` <sup>[如皋]</sup> ① 用布之类系于胯下。 ② 裤裆偏小。 ③ 道路暂时性阻塞。  
 1. 【[山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen.md#山)】`shaen1` <sup>[如皋]</sup> 棺的后壁。  
 1. 【[山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen.md#山)】`shaen1` <sup>[东台]</sup> 此字在东台常指房子两侧墙壁及外面靠墙的地方：东～墙是砖混结构｜我家西～长的竹子。  
@@ -2601,8 +2601,8 @@
 1. 【[嗍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuah.md#嗍)】`shuah7` <sup>[兴化]</sup> 吮吸：～棒冰；～糖；～奶头。  
 1. 【[嗍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuah.md#嗍)】`shuah7` <sup>[泰县]</sup> ① 变色：他脸上～色。 ② 瘦削：病吖才几关，他瘦啊～下去啊。  
 1. 【[嗍蟹渣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuah_hae_zha.md#嗍蟹渣)】`shuah7 hae3 zha1` <sup>[东台]</sup> 吮吸蟹渣的鲜咸汁水。（见“蟹渣”）  
-1. 【[嗍筷<sub>儿</sub>头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuah_kaue_r_teu_zz.md#嗍筷<sub>儿</sub>头子)】`shuah7 kaue5 r teu2 zz` <sup>[如皋]</sup> 见“嗍筷儿”。  
 1. 【[嗍筷<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuah_kuae_r.md#嗍筷<sub>儿</sub>)】`shuah7 kuae5 r` <sup>[如皋]</sup> ① 吮干浄筷上沾的食物。 ② 未曾吃而想吃的动作：你看吖伢儿在下～，快点儿把他吃！ ③ 喻无菜可搛。  
+1. 【[嗍筷<sub>儿</sub>头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuah_kuae_r_teu_zz.md#嗍筷<sub>儿</sub>头子)】`shuah7 kuae5 r teu2 zz` <sup>[如皋]</sup> 见“嗍筷儿”。  
 1. 【[嗍筷头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuah_kuae_teu_r.md#嗍筷头<sub>儿</sub>)】`shuah7 kuae5 teu2 r` <sup>[如东]</sup> 用舌头把筷头儿上的菜汤吸干净。比喻没有菜吃。  
 1. 【[嗍腮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuah_sae.md#嗍腮)】`shuah7 sae1` <sup>[如皋]</sup> 下部瘦削的脸型：他尖嘴儿～的像个猴儿。  
 1. 【[嗍色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuah_seh.md#嗍色)】`shuah7 seh7` <sup>[如皋]</sup> 脸色苍白，无血色：病久了，脸上～咖；听到判死刑，他的脸站吖下～咖。  
@@ -3062,7 +3062,7 @@
 1. 【[说一不二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_ieh_beh_er.md#说一不二)】`shuh7 ieh7 beh7 er6` <sup>[如东]</sup> 态度坚决：我～。  
 1. 【[说阴话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_ien_hua.md#说阴话)】`shuh7 ien1 hua6` <sup>[东台]</sup> 说阴阳怪气的话。（见“阴话”）  
 1. 【[说阴话点鬼火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_ien_hua_din_guei_hu.md#说阴话点鬼火)】`shuh7 ien1 hua6 din3 guei3 hu3` <sup>[如皋]</sup> 说阴险的话并暗中煽动。  
-1. 【[说鬾报子话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_ji_bo_zzz_hua.md#说鬾报子话)】`shuh7 ji5 bo5 zzz hua6` <sup>[如皋]</sup> 见“倒肚儿”。  
+1. 【[说鬾报子话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_ji_bo_zz.md#说鬾报子话)】`shuh7 ji5 bo5 zz hua6` <sup>[如皋]</sup> 见“倒肚儿”。  
 1. 【[说脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_jiah.md#说脚)】`shuh7 jiah7` <sup>[如皋]</sup> ① 游说者。 ② 爱说者  
 1. 【[说嘴𪙍𪙍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_jy_bah_bah.md#说嘴𪙍𪙍)】`shuh7 jy3 bah7 bah7` <sup>[东台]</sup> （贬）能说会道，但言行不一，或者言而无信。  
 1. 【[说嘴𪙍𪙍的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_jy_bah_bah_dii.md#说嘴𪙍𪙍的)】`shuh7 jy3 bah7 bah7 dii` <sup>[如皋]</sup> 贬指平时大言不惭，及至自身遇上了事，也就把嘴𪙍（不好说了）。  

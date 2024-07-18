@@ -1702,7 +1702,7 @@
 1. 【[跷轧话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_kaeh_hua.md#跷轧话)】`qio1 kaeh hua6` <sup>[如皋]</sup> 讽刺挖苦的话。  
 1. 【[跷手㫰脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_sheu_lan_jiah.md#跷手㫰脚)】`qio1 sheu3 lan6 jiah7` <sup>[兴化]</sup> 坐着的时候，把肢体张开或撑起：站没站相，坐没坐相，～的像个甚的样子！  
 1. 【[锹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#锹)】`qio1` <sup>[如东]</sup> 工具。铁制，长条形，口扁平，一头有柄。种类、规格很多。用于挖泥、铲地等。  
-1. 【[锹锹<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_qio_r.md#锹锹<sub>儿</sub>)】`qio1 qio2 r` <sup>[泰县]</sup> 小锹。  
+1. 【[锹锹<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_qio_r.md#锹锹<sub>儿</sub>)】`qio1 qio1 r` <sup>[泰县]</sup> 小锹。  
 1. 【[锹<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_r.md#锹<sub>儿</sub>)】`qio1 r` <sup>[泰县]</sup> 锹。  
 1. 【[□妹妹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_mei_mei.md#□妹妹)】`qio2 mei6 mei6` <sup>[泰县]</sup> 蔷薇。  
 1. 【[乔看](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_kun.md#乔看)】`qio2 kun5` <sup>[如东]</sup> 小看：你不要～人。  
@@ -1718,7 +1718,7 @@
 1. 【[憔悴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_xy.md#憔悴)】`qio2 xy` <sup>[东台]</sup> 忧虑，担心：到新疆虽然远，但你不要～，现在交通方便。  
 1. 【[桥根](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_gen.md#桥根)】`qio2 gen1` 桥两头靠近岸的地方的  
 1. 【[桥归桥，路归路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_guei_qio_lv_guei_lv.md#桥归桥，路归路)】`qio2 guei1 qio2 lv6 guei1 lv6` <sup>[兴化]</sup> （喻）互不相干的人或事：你做你的生意，我种我的田，我俫～。  
-1. 【[桥桥<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_qio_r.md#桥桥<sub>儿</sub>)】`qio2 qio2 r` <sup>[泰县]</sup> 一种可吃的麦田地里的草。  
+1. 【[桥桥<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_qio_r.md#桥桥<sub>儿</sub>)】`qio2 qio2-3 r` <sup>[泰县]</sup> 一种可吃的麦田地里的草。  
 1. 【[桥踏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_taeh_zz.md#桥踏子)】`qio2 taeh8 zz` <sup>[如东]</sup> 河埠口上供人站着洗东西的引桥。  
 1. 【[桥头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_teu.md#桥头)】`qio2 teu2` <sup>[如东]</sup> 按桥的南北方向，南方为桥头。上桥的地方，称桥头。  
 1. 【[桥堍子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_tv_zz.md#桥堍子)】`qio2 tv5 zz` <sup>[如东]</sup> 桥两头靠近河岸的一段。  

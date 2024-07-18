@@ -1572,7 +1572,7 @@
 1. 【[仰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian.md#仰)】`nian3` 仰躺  
 1. 【[仰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian.md#仰)】`nian3` <sup>[泰县]</sup> 躺：他～啊在床上。  
 1. 【[仰八岔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_baeh_cha.md#仰八岔)】`nian3 baeh7 cha5` <sup>[如皋]</sup> 见“仰八弯”。  
-1. 【[仰八弯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_baeh_vaen.md#仰八弯)】`nian3 baeh7 vaen1` <sup>[如皋]</sup> 贬指随意躺着。颈、背、腰、膝、股、踝、肘、腕等大关节弯曲的样子。  
+1. 【[仰八弯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_baeh_vaen.md#仰八弯)】`nian3 baeh7 vaen1` <sup>[如皋]</sup> 贬指随意躺着。颈、背、腰、膝、股、踝、肘、腕等大关节弯曲的样子。另见“仰相”。  
 1. 【[仰倒巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_do_ba.md#仰倒巴)】`nian3 do5 ba1` <sup>[东台]</sup> 仰面朝天跌下去：脚下一跐，摔啊个～。也作“仰拉巴”。  
 1. 【[仰下来骚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_ha_lae_so.md#仰下来骚)】`nian3 ha lae2 so1` <sup>[兴化]</sup> ① 睡下蹬腿。 ② （喻）耍赖：他自知理亏就～。  
 1. 【[仰颈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_jien.md#仰颈)】`nian3 jien3` <sup>[如皋]</sup> 笼鸟之劣品着。  
@@ -1581,7 +1581,6 @@
 1. 【[仰吖脚来骚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_nga_jiah_lae_so.md#仰吖脚来骚)】`nian3 nga jiah7 lae so1` <sup>[东台]</sup> ［喻］野蛮撒泼，不讲道理。  
 1. 【[仰墒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_shan.md#仰墒)】`nian3 shan1` <sup>[如东]</sup> 耕牛躺在墒沟里不起来。比喻人躺着睡，起不来：甚的时候啊，还在下～？  
 1. 【[仰瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_va.md#仰瓦)】`nian3 va3` <sup>[如东]</sup> 阴瓦。  
-1. 【[仰八弯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_vaeh_vaen.md#仰八弯)】`nian3 vaeh7 vaen1` <sup>[如皋]</sup> 见“仰相”。  
 1. 【[仰亡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_van.md#仰亡)】`nian3 van2` <sup>[如皋]</sup> 詈语，指睡觉。  
 1. 【[仰亡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_van.md#仰亡)】`nian3 van2` <sup>[如东]</sup> 人死了，仰在地上。比喻人在躺着睡觉，很长时间不起来：他还在下～。  
 1. 【[仰王](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_van.md#仰王)】`nian3 van2` <sup>[兴化]</sup> 睡觉的贬义说法：晚上七点不到就～吖，到这晚还挺吖床上。  

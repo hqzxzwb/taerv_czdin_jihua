@@ -1692,7 +1692,6 @@
 1. 【[挑鲜的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_xin_dii.md#挑鲜的)】`tio1 xin1 dii` <sup>[如东]</sup> 挑海鲜到市场上去出卖的小贩。  
 1. 【[挑针](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_zhen.md#挑针)】`tio1 zhen1` <sup>[如皋]</sup> ① 梳头髮时分缝用的骨针或篾针。 ② 一种针法。  
 1. 【[挑猪草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_zhv_co.md#挑猪草)】`tio1 zhv1 co3` <sup>[如皋]</sup> 打猪草。  
-1. 【[条桌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_zhuah.md#条桌)】`tio1 zhuah7` <sup>[兴化]</sup> 一种狭长的桌子，长一丈左右，宽一尺多，一般在会议室使用。  
 1. 【[条凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_den.md#条凳)】`tio2 den5` <sup>[如皋]</sup> 即“高凳”。  
 1. 【[条凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_den.md#条凳)】`tio2 den5` <sup>[如东]</sup> 凳的一种。木制，长100厘米，宽12厘米高48厘米。坐两个人。也叫板凳、高凳。  
 1. 【[条凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_den.md#条凳)】`tio2 den5` <sup>[兴化]</sup> 狭长的木凳。  
@@ -1709,6 +1708,7 @@
 1. 【[条田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_tin.md#条田)】`tio2 tin2` <sup>[如东]</sup> 长方形的田块，称条田。  
 1. 【[条桌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_zhuah.md#条桌)】`tio2 zhuah7` <sup>[如皋]</sup> 长而狭的桌子。  
 1. 【[条桌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_zhuah.md#条桌)】`tio2 zhuah7` <sup>[如东]</sup> 桌的一种。长方形，称条桌。  
+1. 【[条桌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_zhuah.md#条桌)】`tio2 zhuah7` <sup>[兴化]</sup> 一种狭长的桌子，长一丈左右，宽一尺多，一般在会议室使用。  
 1. 【[条砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_zhun.md#条砖)】`tio2 zhun1` <sup>[如皋]</sup> 旧式小型青砖。300块砖为1垛。  
 1. 【[条子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_zz.md#条子)】`tio2 zz` <sup>[如皋]</sup> ① 人的身体修长清瘦：瘦～、长～ ② 树枝儿：树～。  
 1. 【[条子泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_zz_ni.md#条子泥)】`tio2 zz ni2` <sup>[东台]</sup> 弶港以东的一片滩涂。滩面汇水形成的港道成南北向。  

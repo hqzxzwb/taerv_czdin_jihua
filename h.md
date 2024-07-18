@@ -2609,6 +2609,7 @@
 1. 【[唤声骂狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_shen_ma_geu.md#唤声骂狗)】`hun5 shen1 ma6 geu3` <sup>[兴化]</sup> 形容大声斥骂：他家两口子动不动对伢儿～的。  
 1. 【[汉气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_qi.md#汉气)】`hun5 qi5` <sup>[如皋]</sup> 男子汉的气概。  
 1. 【[汉声](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_shen.md#汉声)】`hun5 shen1` <sup>[如皋]</sup> 女若男声。  
+1. 【[汉运盐河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_yen_in_hu.md#汉运盐河)】`hun5 yen6 in2 hu2` <sup>[如皋]</sup> 汉初关王刘添所开，自扬州虾子湾，经泰州至如皋东的蟠溪（十里铺一带），东接盐场，船运盐至泰州仓，今如城仅存迎春桥下的南北河。  
 1. 【[熯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun.md#熯)】`hun5` <sup>[如皋]</sup> 将冷饭等放在铁锅内，烹点水加热：～饭；韭菜～冷𩚫。  
 1. 【[熯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun.md#熯)】`hun5` <sup>[东台]</sup> 加少量水用文火烧食物：把饭～下子再吃。（熯《广韵》“呼旱切，火干”）。  
 1. 【[熯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun.md#熯)】`hun5` <sup>[兴化]</sup> 将冷饭洒水后在锅里加热：～饭。《广韵·翰韵》呼旰切：“～，火乾”。  
@@ -2652,7 +2653,6 @@
 1. 【[旱田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_tin.md#旱田)】`hun6 tin2` <sup>[如东]</sup> 干旱的土地，适合于种植旱属作物。  
 1. 【[旱道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_to.md#旱道)】`hun6 to6` <sup>[兴化]</sup> 旱路：这次上徐州走～。  
 1. 【[旱桩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_zhuan.md#旱桩)】`hun6 zhuan1` <sup>[如东]</sup> 水车部件。木条，竖在水车两侧，上面搁置伏桁。  
-1. 【[汉运盐河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_yen_in_hu.md#汉运盐河)】`hun6 yen6 in2 hu2` <sup>[如皋]</sup> 汉初关王刘添所开，自扬州虾子湾，经泰州至如皋东的蟠溪（十里铺一带），东接盐场，船运盐至泰州仓，今如城仅存迎春桥下的南北河。  
 1. 【[汗巴雨淋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_ba_y_lien.md#汗巴雨淋)】`hun6 ba y3 lien2` <sup>[兴化]</sup> “汗冒雨淋”的讹音，形容大汗淋漓的样子：两个人顺着大花缸跑了，弟弟怎么也赶不上姐姐，累得～的。（兴文：《人的由来》）  
 1. 【[汗巴雨淋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_ba_y_lien.md#汗巴雨淋)】`hun6 ba1 y3 lien2` <sup>[东台]</sup> 大汗淋漓的样子。  
 1. 【[汗巴雨淋的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_ba_y_lien_dii.md#汗巴雨淋的)】`hun6 ba1 y3 lien2 dii` <sup>[如皋]</sup> 大汗淋漓。  
