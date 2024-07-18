@@ -346,7 +346,7 @@
 1. 【[喇喇不休](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_laeh_beh_xieu.md#喇喇不休)】`laeh8 laeh8 beh7 xieu1` <sup>[兴化]</sup> 形容饶舌，说个不停：她一见面就～的，让人心烦。  
 1. 【[喇㗘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_pah.md#喇㗘)】`laeh8 pah7` <sup>[东台]</sup> 说大话或村话。  
 1. 【[喇奅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_po.md#喇奅)】`laeh8 po5` <sup>[东台]</sup> 吹牛，夸大其词。  
-1. 【[揦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh.md#揦)】`laeh8` <sup>[如东]</sup> 帆船圆口线上边的圆条木，每一边有三根，称大栏（laeh8）、二栏、三栏。  
+1. 【[揦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh.md#揦)】`laeh8` <sup>[如东]</sup> 帆船圆口线上边的圆条木，每一边有三根，称大揦、二揦、三揦。  
 1. 【[揦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh.md#揦)】`laeh8` <sup>[如皋]</sup> ① 阻止，阻拦：～汽车。 ② 圈面：～院子。  
 1. 【[揦住啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_chv_a.md#揦住啊)】`laeh8 chv6 a` <sup>[如皋]</sup> 拦住了。  
 1. 【[揦柱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_chv.md#揦柱)】`laeh8 chv6` <sup>[如东]</sup> 大栏上边的柱子。  
