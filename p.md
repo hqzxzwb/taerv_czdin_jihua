@@ -743,7 +743,7 @@
 1. 【[品貌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_mo_r.md#品貌<sub>儿</sub>)】`pien3 mo6 r` <sup>[如皋]</sup> 品行相貌：姑娘的～是上等的。  
 1. 【[品相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_xian.md#品相)】`pien3 xian5` <sup>[如皋]</sup> 举止行为的习惯样式及所反映的教养程度：他吃饭的～不好，嘴只咂，像猪。  
 1. 【[牝牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_ngeu.md#牝牛)】`pien5 ngeu2` <sup>[如东]</sup> 母牛。  
-1. 【[並](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien.md#並)】`pien6` <sup>[如皋]</sup> 并列：～排。  
+1. 【[并](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien.md#并)】`pien6` <sup>[如皋]</sup> [並] 并列：～排。  
 1. 【[并排](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_pae.md#并排)】`pien6 pae2` ［並排］排列在同一条线上，不分前后。  
 1. 【[牝牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_ngeu.md#牝牛)】`pien6 ngeu2` <sup>[如皋]</sup> 雌性水牛。  
 1. 【[病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien.md#病)】`pien6` <sup>[兴化]</sup> 坏习惯：他就是这个～，别人吃饭的时候，他抠脚，讨厌死啊。  

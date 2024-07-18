@@ -2734,7 +2734,7 @@
 1. 【[乱神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_shen.md#乱神)】`lun6 shen2` <sup>[如皋]</sup> 慌乱，拿不定主意。与“定神”相对。  
 1. 【[乱神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_shen.md#乱神)】`lun6 shen2` <sup>[东台]</sup> 思路乱没主见：不管情况怎吖样，都要沉着应对，不能～。  
 1. 【[乱丝网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_sz_van.md#乱丝网)】`lun6 sz1 van3` <sup>[如皋]</sup> 一种蛛网。  
-1. 【[乱头草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_teu_con.md#乱头草)】`lun6 teu con3` <sup>[兴化]</sup> 由杂草束成的捆子。  
+1. 【[乱头草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_teu_co.md#乱头草)】`lun6 teu co3` <sup>[兴化]</sup> 由杂草束成的捆子。  
 1. 【[乱套](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_to.md#乱套)】`lun6 to5` <sup>[如东]</sup> 乱了次序或秩序。  
 1. 【[乱稻草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_to_co.md#乱稻草)】`lun6 to6 co3` <sup>[如皋]</sup> 脱粒碾过的稻草。与“管草”相对。  
 1. 【[乱性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_xien.md#乱性)】`lun6 xien5` <sup>[兴化]</sup> 形容人举止反常，迷失了本性：酒能～，还是少饮为佳。  

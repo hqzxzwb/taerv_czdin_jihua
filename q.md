@@ -1614,9 +1614,9 @@
 1. 【[钱人<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_ren_r.md#钱人<sub>儿</sub>)】`qin2 ren2 r` <sup>[如东]</sup> 浑身都是钱。比喻钱很多：我又不是～，你老是问我要钱做甚的？  
 1. 【[钱是钱，货是货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_shr_qin_hu_shr_hu.md#钱是钱，货是货)】`qin2 shr6 qin2 hu5 shr6 hu5` <sup>[如皋]</sup> 价钱贵，货也好。  
 1. 【[钱桶子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_ton_zz.md#钱桶子)】`qin2 ton3 zz` <sup>[如皋]</sup> 旧时用硬币，店家用来存放钱币的毛竹筒，约4市尺长。  
-1. 【[钱驮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_tu_zz.md#钱驮子)】`qin2 tu1 zz` <sup>[兴化]</sup> 灶马。  
 1. 【[钱驮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_tu_zz.md#钱驮子)】`qin2 tu2 zz` <sup>[如皋]</sup> 灶马。直翅目。  
-1. 【[钱驼子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_tu_zz.md#钱驼子)】`qin2 tu2 zz` <sup>[如东]</sup> 蟋螽科灶马，体粗短，长约20毫米，背驼，角甚长，翅退化。暗褐色或淡白色而有麻点状暗纹。后足发达，能跳跃。穴居，常群栖暗湿处，是屋内常见昆虫。传为灶神坐骑。  
+1. 【[钱驮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_tu_zz.md#钱驮子)】`qin2 tu2 zz` <sup>[如东]</sup> 蟋螽科灶马，体粗短，长约20毫米，背驼，角甚长，翅退化。暗褐色或淡白色而有麻点状暗纹。后足发达，能跳跃。穴居，常群栖暗湿处，是屋内常见昆虫。传为灶神坐骑。  
+1. 【[钱驮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_tu_zz.md#钱驮子)】`qin2 tu2 zz` <sup>[兴化]</sup> 灶马。  
 1. 【[钱蟢蟢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_xi_xi_r.md#钱蟢蟢<sub>儿</sub>)】`qin2 xi3 xi3 r` <sup>[东台]</sup> 戏称想赚钱会赚钱的人。  
 1. 【[钱吸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_xieh_zz.md#钱吸子)】`qin2 xieh7 zz` <sup>[兴化]</sup> 形容人不择手段弄钱：他是有名的～，刮钱的手段一等。  
 1. 【[钱心重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_xien_chon.md#钱心重)】`qin2 xien1 chon6` <sup>[如皋]</sup> 什么都想得到钱。  

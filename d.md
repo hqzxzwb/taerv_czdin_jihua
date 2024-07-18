@@ -2021,6 +2021,7 @@
 1. 【[顶晚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_vaen.md#顶晚)】`dien3 vaen3` <sup>[兴化]</sup> 直到晚上：大早从兴化上车，～到北京。  
 1. 【[顶真](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_zhen.md#顶真)】`dien3 zhen1` <sup>[兴化]</sup> 认真：他做事～，一点儿不含糊。｜“小唐不要这般～，照了一回，我不再照使是了……”（《四杰传》一〇〇）  
 1. 【[顶针削铁的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_zhen_xiah_tih_dii.md#顶针削铁的)】`dien3 zhen1 xiah7 tih7 dii` <sup>[如皋]</sup> 认真，毫不相让。  
+1. 【[打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien.md#打)】`dien5` <sup>[如皋]</sup> 以拳击之：～你两拳头。  
 1. 【[打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien.md#打)】`dien5` <sup>[东台]</sup> 意同打。（读若“订”。《广韵》中“打”，德冷切，东台仍保留此读音）：～吖他几拳头。“打一顿”读若“钉一登”。  
 1. 【[淀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien.md#淀)】`dien5` <sup>[如皋]</sup> 让液体中的杂质沉下去。  
 1. 【[淀底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_di.md#淀底)】`dien5 di3` <sup>[如皋]</sup> ① 沉到底部。 ② 从最底部开始。  

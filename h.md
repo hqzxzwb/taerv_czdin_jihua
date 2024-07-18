@@ -689,7 +689,7 @@
 1. 【[恨苦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_kv.md#恨苦)】`hen6 kv3` <sup>[兴化]</sup> ① 虔心向佛，恪守教规：～修行｜“你果然一心向佛，也不难……大约不过一年的～，以后就全是乐境了……”（《老残游记》二·六） ② （借）收起浪荡心神，刻苦向上：他如今～，原来的酒肉朋友一个不惹。  
 1. 【[恨命穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_mien_qion.md#恨命穷)】`hen6 mien6 qion2` <sup>[东台]</sup> 贪食的代名词。引申为贪心太大。  
 1. 【[恨命穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_mien_qion.md#恨命穷)】`hen6 mien6 qion2` <sup>[兴化]</sup> 贪大、贪多：他一个人买上两笼包子当早饭，真是～。  
-1. 【[恨虱子烧棉袄——不值得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_sheh_zz_sho_mei_ngo_beh_cheh_deh.md#恨虱子烧棉袄——不值得)】`hen6 sheh7 zz sho1 mei2 ngo3 beh7 cheh8 deh7` <sup>[东台]</sup>   
+1. 【[恨虱子烧棉袄——不值得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_sheh_zz_sho.md#恨虱子烧棉袄——不值得)】`hen6 sheh7 zz sho1 min2 ngo3 beh7 cheh8 deh7` <sup>[东台]</sup>   
 1. 【[恨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_zz.md#恨子)】`hen6 zz` <sup>[如东]</sup> ① 小气，吝啬。 ② 小气吝啬的人。  
 1. 【[杏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_zz.md#杏子)】`hen6 zz, xien6 zz` 杏  
 1. 【[胻梁骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_lian_gueh.md#胻梁骨)】`hen6 lian gueh7` <sup>[兴化]</sup> 胫骨。胻，《集韵·梗韵》下梗切：胫也。  
@@ -709,10 +709,10 @@
 1. 【[喉咙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_lon.md#喉咙)】`heu2 lon2` <sup>[如皋]</sup> 嗓音：他的～好，说话好听。  
 1. 【[喉咙草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_lon_co.md#喉咙草)】`heu2 lon2 co3` <sup>[如东]</sup> 报春科植物点地梅，叉名喉咙草，一年生草本。  
 1. 【[喉咙草<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_lon_co_r.md#喉咙草<sub>儿</sub>)】`heu2 lon2 co3 r` <sup>[如皋]</sup> 翠菊，五月菊。  
+1. 【[喉咙管<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_lon_gun_r.md#喉咙管<sub>儿</sub>)】`heu2 lon2 gun3 r` <sup>[如东]</sup> 气管。  
 1. 【[喉咙管<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_lon_gun_r.md#喉咙管<sub>儿</sub>)】`heu2 lon2 gun3 r` <sup>[如皋]</sup> 咽部的食管、气管：～里噎不下去｜他拿手揢住咖她的～，揢得她伸不起气来。  
 1. 【[喉咙眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_lon_ngaen_r.md#喉咙眼<sub>儿</sub>)】`heu2 lon2 ngaen3 r` <sup>[如东]</sup> 气管儿。  
 1. 【[喉咙浅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_lon_qin.md#喉咙浅)】`heu2 lon2 qin3` <sup>[东台]</sup> 指某人受到污物和异味刺激时，比一般人更容易作呕。  
-1. 【[喉咙管<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_lon_gun_r.md#喉咙管<sub>儿</sub>)】`heu2 lon3 gun3 r` <sup>[如东]</sup> 气管。  
 1. 【[喉蛾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_ngu.md#喉蛾)】`heu2 ngu2` <sup>[如东]</sup> 扁桃体发炎化脓，呈白色。  
 1. 【[喉蛾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_ngu.md#喉蛾)】`heu2 ngu2` <sup>[如皋]</sup> 扁桃腺炎。  
 1. 【[喉头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_teu.md#喉头)】`heu2 teu2` <sup>[如东]</sup> 介于咽喉和气管之间的部分，由甲状软骨、环状软骨、会厌软骨等构成。喉头是呼吸器官的一部分，喉内有声带，它是发音器官。  

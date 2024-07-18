@@ -678,6 +678,7 @@
 1. 【[分彼此](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_bi_cz.md#分彼此)】`fen1 bi3 cz3` <sup>[兴化]</sup> 双方分得很清楚：你这吖～关系就疏远吖。｜“……你等切不可自～，致生事端。”（《封神演义》七三）  
 1. 【[分凿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_cah.md#分凿)】`fen1 cah8` <sup>[如东]</sup> 工具。铁制，口锋利，有柄。规格有一、二、三、四、五、六、七、八分诸种。木工用以打眼。  
 1. 【[分岔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_cha.md#分岔)】`fen1 cha5` <sup>[兴化]</sup> 稻麦等农作物生长分蘖。也称“发棵”。  
+1. 【[分房减口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_fan_jiaen_keu.md#分房减口)】`fen1 fan2 jiaen3 keu3` <sup>[兴化]</sup> 从大家庭中分出支派或一部分人口，以减轻负担：为啊～，把大儿家四口子分出去另过。｜“……因为你那里六料不收，～，你父亲母亲带你到这里趁熟……”（《初刻》三三）  
 1. 【[分肥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_fei.md#分肥)】`fen1 fei2` <sup>[如东]</sup> ① 分红利：他也参加～的。 ② 分获财物。  
 1. 【[分肥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_fei.md#分肥)】`fen1 fei2` <sup>[东台]</sup> 把别人的好处分掉一些。  
 1. 【[分路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_lv.md#分路)】`fen1 lv6` <sup>[如皋]</sup> 分开走。  
@@ -707,9 +708,9 @@
 1. 【[分心木](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_xien_moh.md#分心木)】`fen1 xien1 moh8` <sup>[如东]</sup> 胡桃科植物胡桃果核内的木质隔膜，入中药。  
 1. 【[分赃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_zan.md#分赃)】`fen1 zan1` <sup>[如东]</sup> 分取赃款赃物。比喻分取不正当的权利或利益：坐地～。  
 1. 【[分址分清](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_zhr_fen_qien.md#分址分清)】`fen1 zhr3 fen1 qien1` <sup>[泰县]</sup> 详细，清楚：这件事你交待得～。  
+1. 【[分早晚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_zo_vaen.md#分早晚)】`fen1 zo3 vaen3` <sup>[兴化]</sup> ① 立秋后天气虽仍炎热，但日出前和日落后相对凉爽一些：立咖秋天气就～吖。 ② 特指早晨有很多禁忌，不慎误犯者常令人不快：说话要～，不要早上一见面就梦吖梦的。  
 1. 【[分籽分清](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_zz_fen_qien.md#分籽分清)】`fen1 zz3 fen1 qien1` <sup>[东台]</sup> ［喻］分得很清，绝不含糊。  
 1. 【[开䏒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_pin.md#开䏒)】`fen1 pin5` <sup>[兴化]</sup> 将宰杀脱毛（或剥皮）后猪、牛、羊的胴体从中剖开。  
-1. 【[分房减口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_fan_jiaen_keu.md#分房减口)】`fen2 fan2 jiaen3 keu3` <sup>[兴化]</sup> 从大家庭中分出支派或一部分人口，以减轻负担：为啊～，把大儿家四口子分出去另过。｜“……因为你那里六料不收，～，你父亲母亲带你到这里趁熟……”（《初刻》三三）  
 1. 【[坟场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_chan.md#坟场)】`fen2 chan2` <sup>[如东]</sup> 埋葬死人的场所。  
 1. 【[坟茔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_ien.md#坟茔)】`fen2 ien2` <sup>[如东]</sup> ① 埋葬棺材后垒起来的土堆，称坟茔。 ② 埋葬死者的场地，称坟茔或坟地。  
 1. 【[坟茔帽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_ien_mo_zz.md#坟茔帽子)】`fen2 ien2 mo6 zz` <sup>[如东]</sup> 搁在坟茔顶上的圆锥形土块。坟茔里埋葬几位死者，坟茔顶上就搁几个坟茔帽子。  
@@ -723,7 +724,6 @@
 1. 【[坟园桌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_iun_zhuah_zz.md#坟园桌子)】`fen2 iun2 zhuah7 zz` <sup>[如皋]</sup> 坟前石台或土台，放供品用。  
 1. 【[坟上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_shan.md#坟上)】`fen2 shan` <sup>[如皋]</sup> ① 坟地。 ② 住在附近，受聘照料坟地的农家。  
 1. 【[坟头上打拳——吓鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_teu_shan_da_qiun_heh_guei.md#坟头上打拳——吓鬼)】`fen2 teu2 shan da3 qiun2 heh7 guei3` <sup>[东台]</sup>   
-1. 【[分早晚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_zo_vaen.md#分早晚)】`fen3 zo3 vaen3` <sup>[兴化]</sup> ① 立秋后天气虽仍炎热，但日出前和日落后相对凉爽一些：立咖秋天气就～吖。 ② 特指早晨有很多禁忌，不慎误犯者常令人不快：说话要～，不要早上一见面就梦吖梦的。  
 1. 【[粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen.md#粉)】`fen3` 粉丝  
 1. 【[粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen.md#粉)】`fen3` <sup>[如皋]</sup> 疏松：这种砖头太差，手一拈就变～。  
 1. 【[粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen.md#粉)】`fen3` <sup>[东台]</sup> （此处为形容词）含淀粉较高：你的这个番瓜哿～？  

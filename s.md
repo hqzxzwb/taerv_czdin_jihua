@@ -2284,6 +2284,7 @@
 1. 【[摏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shon.md#摏)】`shon1` （用肘或拳）击打  
 1. 【[摏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shon.md#摏)】`shon1` <sup>[如皋]</sup> 横向捣击：摏一撉儿。  
 1. 【[舂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shon.md#舂)】`shon1` <sup>[如皋]</sup> ① 纵向捣击：他拿高凳头儿～人！ ② 用碓臼给粮食去壳、精加工：～稻、～米、……。按，舂、磕、臿同为用碓臼加工，但词义用法不同。磕，粉碎：～糏。臿，去杂质：～稻、～米。 ③ 状头部偏低：倒～头。  
+1. 【[舂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shon.md#舂)】`shon1` <sup>[如东]</sup> ① 推：～他一家伙！ ② 打：～你的屁股。  
 1. 【[舂池](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shon_chr.md#舂池)】`shon1 chr2` <sup>[如皋]</sup> 筑粪池。因有将坑中土捣实的重要工序，故称舂池。  
 1. 【[舂碓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shon_dy.md#舂碓)】`shon1 dy5` <sup>[如皋]</sup> 踏碓  
 1. 【[舂碓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shon_dy.md#舂碓)】`shon1 dy5` <sup>[东台]</sup> 把稻子放在石臼里面脱壳，或将米捣碎成粉。  
@@ -3310,7 +3311,6 @@
 1. 【[续弦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_xin.md#续弦)】`soh7 xin2` <sup>[如东]</sup> 前妻死后，再取后妻，以生后代，称续弦。  
 1. 【[续弦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_xin.md#续弦)】`soh7 xin2` <sup>[东台]</sup> 丧妻再娶。  
 1. 【[俗气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_qi.md#俗气)】`soh8 qi5` <sup>[东台]</sup> 不高雅，与“文雅”相对。  
-1. 【[㧐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son.md#㧐)】`son1` <sup>[如东]</sup> ① 推：～他一家伙！ ② 打：～你的屁股。  
 1. 【[松巴落壳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_ba_lah_kah.md#松巴落壳)】`son1 ba1 lah8 kah7` <sup>[如东]</sup> 松松散散的样子：这些草捆子～的，怎吖好运输咯？  
 1. 【[松包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_bo.md#松包)】`son1 bo1` <sup>[兴化]</sup> 掏腰包：孙子孙女开学，老两口又要～啦。  
 1. 【[松的落壳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_dii_lah_kah.md#松的落壳)】`son1 dii lah8 kah7` <sup>[如皋]</sup> 松动、摇动，不紧固。  

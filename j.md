@@ -54,7 +54,6 @@
 1. 【[虮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zz.md#虮子)】`ji1 zz` <sup>[如东]</sup> 虱子的卵。  
 1. 【[虮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zz.md#虮子)】`ji1 zz` <sup>[如皋]</sup> 虱之卵。  
 1. 【[讥人富贵笑人贫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ren_fv_guei_xio_ren_pien.md#讥人富贵笑人贫)】`ji1 ren2 fv5 guei5 xio5 ren2 pien2` <sup>[东台]</sup> （俗语）一种小市民心理。别人无论富贵还是贫穷，他都讥笑，既仇富，又嫌贫。  
-1. 【[记憎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zen.md#记憎)】`ji1 zen` <sup>[泰县]</sup> 记仇：这件事你不必～。  
 1. 【[饥饥瑟瑟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ji_seh_seh.md#饥饥瑟瑟)】`ji1 ji1 seh7 seh7` <sup>[如皋]</sup> 困窘态，寒酸样。  
 1. 【[鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#鸡)】`ji1` <sup>[如东]</sup> 雉科动物家鸡。  
 1. 【[鸡巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ba.md#鸡巴)】`ji1 ba1` <sup>[东台]</sup> 又作“𣬠𣬶”“屌子”，男性阴茎的俗称。  
@@ -207,7 +206,8 @@
 1. 【[记识](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_sheh.md#记识)】`ji5 sheh7` <sup>[如皋]</sup> 记号、印记：这只碗是我家的，这里有块～。  
 1. 【[记性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_xien.md#记性)】`ji5 xien5` <sup>[如东]</sup> 记忆能力：～好。  
 1. 【[记性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_xien.md#记性)】`ji5 xien5` <sup>[如皋]</sup> 记忆力。  
-1. 【[记憎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zen.md#记憎)】`ji5 zen5` <sup>[兴化]</sup> 把别人的不是处记在心中：大舅不是有意为难你，你覅～他。  
+1. 【[记憎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zen.md#记憎)】`ji5 zen` <sup>[兴化]</sup> 把别人的不是处记在心中：大舅不是有意为难你，你覅～他。  
+1. 【[记憎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zen.md#记憎)】`ji5 zen` <sup>[泰县]</sup> 记仇：这件事你不必～。  
 1. 【[记争](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zhen.md#记争)】`ji5 zhen` <sup>[如皋]</sup> 记怀，不满：你不要～他，他不懂事。  
 1. 【[鬾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#鬾)】`ji5` <sup>[如皋]</sup> 母孕致儿体弱多病。  
 1. 【[鬾饱子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_bo_zz.md#鬾饱子)】`ji5 bo3 zz` <sup>[如东]</sup> 小儿因为贪食而产生厌食、消瘦疾病。  
@@ -695,8 +695,6 @@
 1. 【[降价](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_jia.md#降价)】`jian5 jia5` <sup>[如东]</sup> 商品价格下跌：今天黄鱼降吖价。  
 1. 【[降神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_shen.md#降神)】`jian5 shen2` <sup>[如皋]</sup> 神汉、巫婆给求神者表演某神灵附体，扮作某神说话。  
 1. 【[降坛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_taen.md#降坛)】`jian5 taen2` <sup>[如皋]</sup> 扶乩，以显示某神灵的意志。是迷信行为。  
-1. 【[急拿急戳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_na_jieh_chuah.md#急拿急戳)】`jieh2 na2 jieh2 chuah7` <sup>[兴化]</sup> ① （迷信）阴司急速勾人：他一个跟头就跌杀咖，真是～的。 ② （借）要得很急：你要东西总是～，把人弄得手忙脚乱的。也作“急拿急捉”。  
-1. 【[急火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_hu.md#急火)】`jieh6 hu3` <sup>[如东]</sup> 非常猛烈的火力：炒菜要用～。  
 1. 【[㲺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh.md#㲺)】`jieh7` <sup>[如皋]</sup> 失禁、失控：他～咖点儿尿裤子上吖。  
 1. 【[佶棍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_guen.md#佶棍)】`jieh7 guen5` <sup>[如皋]</sup> ① 身体壮实：他身体～。 ② 顽强：他～𠵫，熬过啊多少刑，总不哼一声！ ③ 程度：做得～、好得～、病得～、他的本事～！  
 1. 【[佶壮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_zhuan.md#佶壮)】`jieh7 zhuan5` <sup>[兴化]</sup> ① 老人及产妇身体健康。 ② 成年人病后恢复得好。《诗·小雅·菁菁者莪》：“四牡既佶，既佶且闲。”朱熹注｜“佶，其乙反，壮键貌”。  
@@ -739,6 +737,7 @@
 1. 【[急吼吼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_heu_heu.md#急吼吼)】`jieh7 heu3 heu3` <sup>[兴化]</sup> 急迫的样子：这时，王树莲～地跑来了，没站定就大叫道……（马春阳《两个支部书记》）。  
 1. 【[急吼急吼的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_heu_jieh_heu_dii.md#急吼急吼的)】`jieh7 heu3 jieh7 heu3 dii` <sup>[东台]</sup> 性急慌忙的样子：你覅～，不懂规矩，人家还不曾动筷子呢！  
 1. 【[急呼呼的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_hu_hu_dii.md#急呼呼的)】`jieh7 hu hu1 dii` <sup>[如皋]</sup> 很急的样子。  
+1. 【[急火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_hu.md#急火)】`jieh7 hu3` <sup>[如东]</sup> 非常猛烈的火力：炒菜要用～。  
 1. 【[急火饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_hu_faen.md#急火饭)】`jieh7 hu3 faen6` <sup>[如东]</sup> 因为火急而短，饭没有熟透，叫做急火饭。  
 1. 【[急火饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_hu_faen.md#急火饭)】`jieh7 hu3 faen6` <sup>[兴化]</sup> ① 虽然煮熟，但火候未到的饭。 ② （喻）办事操切：做思想工作要和风细雨，不能煮～。  
 1. 【[急火饭夹生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_hu_faen_gaeh_shen.md#急火饭夹生)】`jieh7 hu3 faen6 gaeh7 shen1` <sup>[东台]</sup> 比喻欲速不达。  
@@ -762,6 +761,7 @@
 1. 【[急忙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_man.md#急忙)】`jieh7 man2` <sup>[兴化]</sup> 在很短时间内：他手上有事，～不得来。｜话说那三藏望行者～不来，心甚疑惑。（《西游记》十八）  
 1. 【[急忙急促](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_man_jieh_coh.md#急忙急促)】`jieh7 man2 jieh7 coh7` <sup>[兴化]</sup> 形容时间紧迫：这个日子～的来不洎准备。｜“……合奶奶说，该预备的也都替预备下，省得～的。”（《醒世烟缘传》二十）  
 1. 【[急拿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_na.md#急拿)】`jieh7 na2` <sup>[兴化]</sup> ① 说要就要，没有回旋时间：这吖多东西～哪块有噁？ ② 猛药治病：他牙疼连挂两瓶水，～，马上就好啊。  
+1. 【[急拿急戳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_na_jieh_chuah.md#急拿急戳)】`jieh7 na2 jieh7 chuah7` <sup>[兴化]</sup> ① （迷信）阴司急速勾人：他一个跟头就跌杀咖，真是～的。 ② （借）要得很急：你要东西总是～，把人弄得手忙脚乱的。也作“急拿急捉”。  
 1. 【[急拿急捉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_na_jieh_zhuah.md#急拿急捉)】`jieh7 na2 jieh7 zhuah7` <sup>[东台]</sup> 仓促行事，急于求成。  
 1. 【[急眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_ngaen.md#急眼)】`jieh7 ngaen3` <sup>[兴化]</sup> 起急：他见到手的生意捱别人抢吖去，一下子就～吖。  
 1. 【[急品](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_pien.md#急品)】`jieh7 pien3` <sup>[如皋]</sup> 处处性急，着急上火的品相。  

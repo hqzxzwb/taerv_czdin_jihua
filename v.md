@@ -86,7 +86,7 @@
 1. 【[无官一身轻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_gun_ieh_shen_qien.md#无官一身轻)】`v2 gun1 ieh7 shen1 qien1` <sup>[东台]</sup> 不承担官的责任浑身轻松。  
 1. 【[无花果](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_hua_gu.md#无花果)】`v2 hua1 gu3` <sup>[如东]</sup> 桑科植物无花果，落叶小乔木。高约10米。具乳汁，多分枝，小叶粗壮，表面褐色。叶互生，倒卵形，裂片通常倒卵形，有不规则齿。隐头花序。花白色，极多数，着生于总花托的内壁上。瘦果三棱状卵形。  
 1. 【[无患树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_huaen_shv.md#无患树)】`v2 huaen6 shv6` <sup>[如东]</sup> 无患子植物无患树，落叶或常青乔木。高约25米。枝开展，小枝无毛。通常为双数羽状复叶，互生，广披针形或椭圆形，全缘，革质，无毛。圆锥花序顶生及侧生。花杂性，黄色或淡绿色。核果球形，熟时黄色或橙黄色。种子球形，黑色，坚硬，果内含皂素，可代肥皂用。木材黄白色，较脆，可做箱板、器具等用。种子榨油可作润滑油。  
-1. 【[无患树蔃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_huaen_shv_yen.md#无患树蔃)】`v2 huaen6 shv6 yen5` <sup>[如东]</sup> 无患子植物无患树根。  
+1. 【[无患树蔃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_huaen_shv_qian.md#无患树蔃)】`v2 huaen6 shv6 qian2` <sup>[如东]</sup> 无患子植物无患树根。  
 1. 【[无患子皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_huaen_zz_pi.md#无患子皮)】`v2 huaen6 zz3 pi2` <sup>[如东]</sup> 无患子植物无患树果肉。  
 1. 【[无患子种仁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_huaen_zz_zhon_ren.md#无患子种仁)】`v2 huaen6 zz3 zhon3 ren2` <sup>[如东]</sup> 无患子植物无患树种仁。  
 1. 【[无影造西厢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_ien_co_xi_xian.md#无影造西厢)】`v2 ien3 co6 xi1 xian1` <sup>[如东]</sup> 没有根据，捏造事实：哪许有这种事，真的是～吖。  

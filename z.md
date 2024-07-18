@@ -1769,8 +1769,8 @@
 1. 【[捉神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_shen.md#捉神)】`zhuah7 shen2` <sup>[泰县]</sup> 定神：你今朝怎吖老是不～的？  
 1. 【[捉塘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_tan_r.md#捉塘<sub>儿</sub>)】`zhuah7 tan2 r` <sup>[如东]</sup> ① 找空缺：他在秧田里～，准备把缺棵补上。 ② 比喻找穷人的麻烦：村长不能～。  
 1. 【[捉肚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_tv.md#捉肚)】`zhuah7 tv6` <sup>[兴化]</sup> 婴儿正常排泄大便，一般在出生两三个月左右：小儿～啊啦。  
-1. 【[捉王二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_va_er.md#捉王二)】`zhuah7 va2 er6` <sup>[如皋]</sup> 王二，俗谓老实可欺之人：只值五块钱的杲子卖你五十块，你捱他～啦！  
 1. 【[捉瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_va.md#捉瓦)】`zhuah7 va3` <sup>[如东]</sup> 整修瓦屋面瓦。  
+1. 【[捉王二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_van_er.md#捉王二)】`zhuah7 van2 er6` <sup>[如皋]</sup> 王二，俗谓老实可欺之人：只值五块钱的杲子卖你五十块，你捱他～啦！  
 1. 【[捉𦚢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_ya.md#捉𦚢)】`zhuah7 ya1` <sup>[如皋]</sup> ① 利用无知或懦弱而欺负：他拿你～。 ② 致歉用语。  
 1. 【[捉𦚢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_ya.md#捉𦚢)】`zhuah7 ya1` <sup>[如东]</sup> 抓住别人的弱点进行嘲笑：你不要拿他～。  
 1. 【[捉账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_zhan.md#捉账)】`zhuah7 zhan5` 整理、核算账务  
@@ -2594,12 +2594,12 @@
 1. 【[嘴凶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_xion.md#嘴凶)】`zuei3 xion1` <sup>[兴化]</sup> 能言善辩，嘴不饶人：（姑娘）手巧不巧，～不凶……（马春阳《扬州水乡婚俗散记》）｜你覅～，当心你的腿！  
 1. 【[嘴运](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_yen.md#嘴运)】`zuei3 yen6` <sup>[兴化]</sup> 有口福。  
 1. 【[嘴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_zz.md#嘴子)】`zuei3 zz` <sup>[兴化]</sup> ① 物体突出部分：山～｜茶壶～｜慈姑～。 ② （借）喜爱出头揽事的人：他是出了名的～，没事还要找事。  
+1. 【[最顶头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_dien_teu.md#最顶头)】`zuei5 dien3 teu2` <sup>[如皋]</sup> 尖端部位：他家住啊巷子的～。  
 1. 【[最好不过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_ho_beh_gu.md#最好不过)】`zuei5 ho3 beh7 gu5` <sup>[如皋]</sup> 副词（叠用表示强调）：派他去是～；～派他去。  
 1. 【[醉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei.md#醉)】`zuei5` <sup>[如东]</sup> ① 也说jy5。 ② 饮酒过量，神志不清。 ③ 一种腌制方法。把蟹、虾、贝等洗净，加盐酒、生姜，放人坛中，加盖腌制，经过较短时间取出，生吃，肉嫩而味鲜。  
 1. 【[醉蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_hae.md#醉蟹)】`zuei5 hae3` <sup>[如东]</sup> 将新鲜梭子蟹，去壳后，放入烧酒及盐进行腌制，2小时后，加作料即可食用，肉嫩而味鲜。  
 1. 【[醉蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_hae.md#醉蟹)】`zuei5 hae3` <sup>[兴化]</sup> 将螃蟹洗净后，用米酒加葱姜汁等多种调料腌制而成。  
 1. 【[醉虾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_xia.md#醉虾)】`zuei5 xia1` <sup>[如东]</sup> 将新鲜海虾洗净后，放入烧酒及盐，进行腌制，1小时后，加作料即可食用，肉嫩而味鲜。  
-1. 【[最顶头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_dien_teu.md#最顶头)】`zuei6 dien3 teu2` <sup>[如皋]</sup> 尖端部位：他家住啊巷子的～。  
 1. 【[尊辈长上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuen_bei_zhan_shan.md#尊辈长上)】`zuen1 bei5 zhan3 shan5` <sup>[东台]</sup> 泛指辈分高或年长的人：这小伙老相，眼睛里全没得～！  
 1. 【[尊驾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuen_jia.md#尊驾)】`zuen1 jia5` <sup>[如东]</sup> 尊敬的人。  
 1. 【[尊叫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuen_jio.md#尊叫)】`zuen1 jio5` <sup>[兴化]</sup> 称呼人，叫人，见“请叫”。  

@@ -1293,7 +1293,6 @@
 1. 【[听他的话，盐都卖馊啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_ta_dii_hua_in_du_mae_seu_a.md#听他的话，盐都卖馊啊)】`tien5 ta1 dii hua6 in2 du1 mae6 seu1 a` <sup>[东台]</sup> 盐是不会馊的，这里形容某人的话绝不能采纳。  
 1. 【[听头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_teu.md#听头)】`tien5 teu` <sup>[东台]</sup> ① 听觉：这个老爹九十高龄吖，～还这吖好。 ② 有意思：这个故事有～。  
 1. 【[听云板吃饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_yen_baen_qieh_faen.md#听云板吃饭)】`tien5 yen2 baen3 qieh7 faen6` <sup>[东台]</sup> ［喻］缺乏主动性、积极性（云板为旧时打击乐器，用长铁片做成，两端作云头形）。  
-1. 【[打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien.md#打)】`tien5` <sup>[如皋]</sup> 以拳击之：～你两拳头。  
 1. 【[定](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien.md#定)】`tien6` <sup>[如皋]</sup> 针法。用针线粗略连或绗（使两块布品固定住）：补补丁要先～后敲。  
 1. 【[定邦定式的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_ban_tien_sheh_dii.md#定邦定式的)】`tien6 ban1 tien6 sheh7 dii` <sup>[如皋]</sup> 认真地，稳妥地。  
 1. 【[定不准](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_beh_zhuen.md#定不准)】`tien6 beh zhuen3` <sup>[如皋]</sup> 不敢认定、决定。  
