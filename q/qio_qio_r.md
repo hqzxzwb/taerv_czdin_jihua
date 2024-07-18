@@ -14,11 +14,11 @@ qio3 qio r
 - 巧的。
 
 # 锹锹儿
-qio1 qio2 r
+qio1 qio1 r
 > 泰县方言志
 - 小锹。
 
 # 桥桥儿
-qio2 qio2 r
+qio2 qio2-3 r
 > 泰县方言志
 - 一种可吃的麦田地里的草。
