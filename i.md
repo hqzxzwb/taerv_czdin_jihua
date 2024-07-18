@@ -839,7 +839,10 @@
 1. 【[一当一](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_dan_ieh.md#一当一)】`ieh7 dan1 ieh7` <sup>[如东]</sup> ① 一个顶一个：我俫～比一比。 ② 比喻说话算数：这一次～，不变。  
 1. 【[一当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_dan.md#一当)】`ieh7 dan5` <sup>[如皋]</sup> ① 稳定可靠。 ② 停当、妥当：盘子谈～吖，我就汇款来。 ③ 准确、公道：你放心，价钱是～的。  
 1. 【[一当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_dan.md#一当)】`ieh7 dan5` <sup>[如东]</sup> 一定，算数：明朝我～来。  
+1. 【[一当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_dan.md#一当)】`ieh7 dan5` <sup>[东台]</sup> 安逸、安闲，不忙乱。  
+1. 【[一当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_dan.md#一当)】`ieh7 dan5` <sup>[兴化]</sup> ① 齐备、妥贴：过年的东西早准备～吖。 ② 指人稳重、有主见：她是个～人。｜他心里～，耳根子也硬。 ③ （生动形式有“一一当当”“一里一当”）  
 1. 【[一当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_dan.md#一当)】`ieh7 dan5` <sup>[泰县]</sup> 妥当。  
+1. 【[一当吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_dan_nga.md#一当吖)】`ieh7 dan5 nga` <sup>[东台]</sup> 方案敲定了或事情办好了：你弄呃～｜不忙，吃格～  
 1. 【[一当人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_dan_ren.md#一当人)】`ieh7 dan5 ren2` <sup>[如皋]</sup> 真诚、守信、办事有序的人。  
 1. 【[一等一](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_den_ieh.md#一等一)】`ieh7 den3 ieh7` <sup>[泰兴]</sup> 第一等中的第一名，形容超群出众：三姑娘无论是相貌，还是才华，在街上总是～的。  
 1. 【[一抖二活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_deu_er_huh.md#一抖二活)】`ieh7 deu3 er6 huh8` <sup>[如皋]</sup> 不住颤抖。  
@@ -855,6 +858,7 @@
 1. 【[一堆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_duei_r.md#一堆<sub>儿</sub>)】`ieh7 duei1 r` <sup>[兴化]</sup> 一起、一块儿：两个伢儿放吖学在～写作业。｜（穆春）走到厨房，见香火、芳哥两个做～蹲在灶下草里，各自抖不止。（《水浒后传》十七）  
 1. 【[一肚的二百五](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_dv_dii_er_boh_v.md#一肚的二百五)】`ieh7 dv3 dii er6 boh7 v3` <sup>[东台]</sup> 形容意见很多，极端反感：他原来对厂长～，后来经过交心，才谅解啊。  
 1. 【[一肚的数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_dv_dii_shv.md#一肚的数)】`ieh7 dv3 dii shv5` <sup>[东台]</sup> 心中有数，完全明白。  
+1. 【[一而当之](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_er_dan_zhr.md#一而当之)】`ieh7 er2 dan5 zhr1` <sup>[东台]</sup> 有条不紊，不慌不忙。也称“逸逸当当”。  
 1. 【[一二当之](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_er_dan_zhr.md#一二当之)】`ieh7 er6 dan1 zhr1` <sup>[泰县]</sup> 稳妥：他做事～的。  
 1. 【[一发生活两发做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_faeh_shen_huh_laen_faeh_zu.md#一发生活两发做)】`ieh7 faeh7 shen1 huh laen3 faeh7 zu5` <sup>[如皋]</sup> 状做得慢、拖拉、做重复工。  
 1. 【[一番生活两番做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_faen_shen_huh_laen_faen_zu.md#一番生活两番做)】`ieh7 faen shen1 huh laen3 faen zu5` <sup>[兴化]</sup> 重复劳动或无功劳动：晒干的麦子趁手在场上扬干净，不要耙来耙去，～。  
@@ -942,6 +946,7 @@
 1. 【[一夜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_ia.md#一夜)】`ieh7 ia6` <sup>[如东]</sup> 从天黑至天明，称一夜。  
 1. 【[一夜不睡觉，十夜补不到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_ia_beh_shuei_go_sheh_ia_bv_beh_do.md#一夜不睡觉，十夜补不到)】`ieh7 ia6 beh7 shuei5 go5 sheh8 ia6 bv3 beh7 do5` <sup>[泰兴]</sup> 指人如果长时间不休息，对身体是不利的：他天天成日成夜地打麻将，有甚的好处啊？不晓得～啊！  
 1. 【[一夜夫妻百夜恩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_ia_fv_qi_boh_ia_ngen.md#一夜夫妻百夜恩)】`ieh7 ia6 fv1 qi1 boh7 ia6 ngen1` <sup>[东台]</sup> 夫妻情爱印象深刻。  
+1. 【[一一当当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_ieh_dan_dan.md#一一当当)】`ieh7 ieh7 dan5 dan5` <sup>[兴化]</sup> “逸当”的生动形式。  
 1. 【[一有](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_ieu.md#一有)】`ieh7 ieu3` <sup>[泰县]</sup> 是否有：今吖下午～电影看㗁？  
 1. 【[一言半语](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_in_bun_y.md#一言半语)】`ieh7 in2 bun5 y3` <sup>[兴化]</sup> 言谈、议论：旁人有个～的，你不必在意。｜“快快说来，决不走漏～。”（《八窍珠》十四）  
 1. 【[一言半语](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_in_bun_y.md#一言半语)】`ieh7 in2 bun5 y3` <sup>[泰兴]</sup> 一句半句话，指很少的语言。  
@@ -1006,6 +1011,7 @@
 1. 【[一粒米，七斤四两水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_lieh_mi_qieh_jien_sz_lian_shuei.md#一粒米，七斤四两水)】`ieh7 lieh8 mi3 qieh7 jien1 sz5 lian3 shuei3` <sup>[如皋]</sup> 农耕艰辛，要珍惜粮食。  
 1. 【[一遛烟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_lieu_in.md#一遛烟)】`ieh7 lieu1 in1` <sup>[如东]</sup> 地面上飞起一蓬烟尘，比喻跑得很快：只见他～的去啊。  
 1. 【[一里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_lii.md#一里)】`ieh7 lii` <sup>[如东]</sup> 经常：～这样。  
+1. 【[一里一当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_lii_ieh_dan.md#一里一当)】`ieh7 lii ieh7 dan5` <sup>[兴化]</sup> “逸当”的生动形式。  
 1. 【[一连串<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_lin_chun_r.md#一连串<sub>儿</sub>)】`ieh7 lin2 chun5 r` <sup>[如东]</sup> 一个接着一个：这些时侯～的出事故。  
 1. 【[一连牵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_lin_qin.md#一连牵)】`ieh7 lin2 qin1` <sup>[如东]</sup> ① 一个连着一个。 ② 一大片。  
 1. 【[一连<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_lin_r.md#一连<sub>儿</sub>)】`ieh7 lin2 r` <sup>[如皋]</sup> 接连不断地：一路上，他～碰到啊多少老同学。  
@@ -1346,12 +1352,6 @@
 1. 【[揖耙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_pa.md#揖耙)】`ieh7 pa2` <sup>[如东]</sup> 农具。木制，三只齿，粗而长，有柄。用以揖草。  
 1. 【[浥里浥𪞚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_lii_ieh_cheh.md#浥里浥𪞚)】`ieh7 lii ieh7 cheh7` <sup>[兴化]</sup> 形容物品上沾有潮湿气：梅雨天气洗的东西总有点儿～的。  
 1. 【[贳器店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_qi_din.md#贳器店)】`ieh7 qi5 din5` <sup>[如皋]</sup> 出租礼器、礼服及家中陈设等的店。旧时如城有好几家。  
-1. 【[逸当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_dan.md#逸当)】`ieh7 dan5` <sup>[东台]</sup> 安逸、安闲，不忙乱。  
-1. 【[逸当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_dan.md#逸当)】`ieh7 dan5` <sup>[兴化]</sup> ① 齐备、妥贴：过年的东西早准备～吖。 ② 指人稳重、有主见：她是个～人。｜他心里～，耳根子也硬。‖其生动形式有“逸逸当当”“逸里逸当”。  
-1. 【[逸当吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_dan_nga.md#逸当吖)】`ieh7 dan5 nga` <sup>[东台]</sup> 方案敲定了或事情办好了：你弄呃～｜不忙，吃格～。  
-1. 【[逸而当之](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_er_dan_zhr.md#逸而当之)】`ieh7 er2 dan5 zhr1` <sup>[东台]</sup> 有条不紊，不慌不忙。也称“逸逸当当”。  
-1. 【[逸逸当当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_ieh_dan_dan.md#逸逸当当)】`ieh7 ieh7 dan5 dan5` <sup>[兴化]</sup> “逸当”的生动形式。  
-1. 【[逸里逸当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_lii_ieh_dan.md#逸里逸当)】`ieh7 lii ieh7 dan5` <sup>[兴化]</sup> 。“逸当”的生动形式。  
 1. 【[赢家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_ga.md#赢家)】`ien ga1` <sup>[东台]</sup> 指赌博或比赛中获胜的一方。  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien.md#□)】`ien1` <sup>[东台]</sup> 苦味。东台词典写“酓”。《广韵》：“于琰切，酒味苦也。”｜苦～～。  
 1. 【[㧢当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_dan.md#㧢当)】`ien1 dan1` <sup>[如皋]</sup> 比划，试行摆布。如皋词典写“䞁当”。  
