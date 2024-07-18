@@ -2815,13 +2815,13 @@
 1. 【[卤腥气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_xien_qi.md#卤腥气)】`lv3 xien1 qi5` <sup>[如皋]</sup> 沾染卤汁散发的异味。  
 1. 【[卤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_zz.md#卤子)】`lv3 zz` <sup>[如皋]</sup> ① 即“老汁”。 ② 做菜煮出的原汁。 ③ 浓茶汁。 ④ 腌渍出的汁：咸菜～。  
 1. 【[掳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv.md#掳)】`lv3` <sup>[泰县]</sup> 纠缠。  
+1. 【[掳掠货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_liah_hu.md#掳掠货)】`lv3 liah8 hu5` <sup>[如皋]</sup> 裹胁别人的财物的人（常指女人）。  
 1. 【[橹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv.md#橹)】`lv3` <sup>[如东]</sup> 船具。木制，分橹柄与橹叶。橹叶长而宽，比桨大。橹柄支在橹仁上来回摇摆，可以推动舢板前进。  
 1. 【[橹后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_heu.md#橹后)】`lv3 heu6` <sup>[如东]</sup> 舢板左舷，称橹后。  
 1. 【[橹前](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_qin.md#橹前)】`lv3 qin2` <sup>[如东]</sup> 舢板右舷，称橹前。  
 1. 【[橹仁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_ren.md#橹仁)】`lv3 ren2` <sup>[如东]</sup> 舢板后盖板上的一根铁柱，顶端球状。摇橹时，橹柄搁在上面。  
 1. 【[蕊芽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_nga.md#蕊芽)】`lv3 nga2` <sup>[如东]</sup> 植物发出的新芽。  
 1. 【[蕊<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_r.md#蕊<sub>儿</sub>)】`lv3 r` <sup>[如皋]</sup> 见“地耳”。  
-1. 【[虏掠货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_liah_hu.md#虏掠货)】`lv3 liah8 hu5` <sup>[如皋]</sup> 裹胁别人的财物的人（常指女人）。  
 1. 【[鲁班会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_baen_huei.md#鲁班会)】`lv3 baen1 huei6` <sup>[兴化]</sup> 木工的行会，尊鲁班为祖师。  
 1. 【[鲁拉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_la.md#鲁拉)】`lv3 la1` <sup>[如东]</sup> 粗鲁：不好这吖～。  
 1. 【[路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv.md#路)】`lv6` <sup>[如东]</sup> 供人、动物或车辆行走的通道。  
