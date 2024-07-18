@@ -3,6 +3,6 @@ ji1 gv1 reh8 gv1
 - 嘀咕
 
 # 叽咕入咕
-ji1 gv1 reh8 gv1
+ji1 gv1 reh8-rah8 gv1
 > 东台方言词典
 - （贬）形容背后闲言碎语多。也称“叽吧啰唆”。
