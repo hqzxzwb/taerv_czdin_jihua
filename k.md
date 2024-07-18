@@ -856,7 +856,7 @@
 1. 【[㧟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae.md#㧟)】`kuae3` <sup>[兴化]</sup> 向一边倾斜：一边～｜左舷人多，船～过去啊。  
 1. 【[㧟东摵西](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_don_seh_xi.md#㧟东摵西)】`kuae3 don1 seh7 xi1` <sup>[东台]</sup> 带着某人或某物到处奔走：他带啊那们多东西～的，多累啊！  
 1. 【[㧟来㧟去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_lae_kuae_qy.md#㧟来㧟去)】`kuae3 lae2 kuae3 qy5` <sup>[东台]</sup> 物体的重心不断移动，难以掌控。  
-1. 【[㧟篮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_laen.md#㧟篮)】`kuae3 laen2` <sup>[如皋]</sup> 粗篾大篮，有竹系，用臂肘擓着走。  
+1. 【[㧟篮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_laen.md#㧟篮)】`kuae3 laen2` <sup>[如皋]</sup> 粗篾大篮，有竹系，用臂肘㧟着走。  
 1. 【[㧟笿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_lah_r.md#㧟笿<sub>儿</sub>)】`kuae3 lah8 r` <sup>[东台]</sup> 小竹篮子。  
 1. 【[㧟笿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_lah_zz.md#㧟笿子)】`kuae3 lah8 zz` <sup>[泰县]</sup> 大竹篮子。  
 1. 【[㧟<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_r.md#㧟<sub>儿</sub>)】`kuae3 r` （尤指自行车侧）筐  
@@ -927,7 +927,7 @@
 1. 【[㧟笿<sub>儿</sub>的，挑担的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_lah_r_dii_tio_daen_dii.md#㧟笿<sub>儿</sub>的，挑担的)】`kuae6 lah8 r dii tio1 daen5 dii` <sup>[如皋]</sup> 泛指做小买卖的。  
 1. 【[㧟脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_lin.md#㧟脸)】`kuae6 lin3` <sup>[如东]</sup> 脸色不悦：她今朝㧟啊脸，可能是捱人骂啊。  
 1. 【[㧟锹<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_qio_r.md#㧟锹<sub>儿</sub>)】`kuae6 qio1 r` <sup>[如东]</sup> 用锹柄背着死孩子去埋葬。这是咒骂小孩的话。  
-1. 【[㧟锹<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_qio_r.md#㧟锹<sub>儿</sub>)】`kuae6 qio1 r` <sup>[如皋]</sup> 詈语或昵语。原意为将已死的小孩用函子装殓，锹柄擓着去埋。同“背锹儿”。  
+1. 【[㧟锹<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_qio_r.md#㧟锹<sub>儿</sub>)】`kuae6 qio1 r` <sup>[如皋]</sup> 詈语或昵语。原意为将已死的小孩用函子装殓，锹柄㧟着去埋。同“背锹儿”。  
 1. 【[㧟锹<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_qio_r.md#㧟锹<sub>儿</sub>)】`kuae6 qio1 r` <sup>[东台]</sup> 本指小孩死了，挎个铁锹去埋，是骂小孩的话。现在常用于对小孩子贱称或昵称。  
 1. 【[㧟屎笿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_shr_lah_r.md#㧟屎笿<sub>儿</sub>)】`kuae6 shr3 lah8 r` <sup>[如皋]</sup> ① 拾粪肥的笿。见“背屎笿儿”。 ② 谑指穿中式裤时裤腰后部脱离裤带的样子。  
 1. 【[毌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaeh.md#毌)】`kuaeh8` <sup>[如东]</sup> 滞碍：缆绳捱～住啊。  
