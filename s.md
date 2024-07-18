@@ -407,8 +407,8 @@
 1. 【[摵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh.md#摵)】`seh7` 摔：～炮/一种向地上摔的折纸玩具，又指一种落地即响的鞭炮。｜～咖个跟头。｜他来啊气，逮住茶杯问地下一～。  
 1. 【[摵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh.md#摵)】`seh7` <sup>[如东]</sup> 把东西尽力往地上掼：她气啊把碗～咖地下。  
 1. 【[摵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh.md#摵)】`seh7` <sup>[如皋]</sup> ① 打：～巴掌。 ② 拍：～堂灰。 ③ 掼：～碗。 ④ 撞：撞天～地。 ⑤ 走：跑东～西。 ⑥ 甩、摆动：手膀子跑啊～起来呀。 ⑦ 旋转：～转转儿。 ⑧ 玄晕：头里～咖～的。  
-1. 【[摵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh.md#摵)】`seh7` <sup>[东台]</sup> 抽打：你再回嘴回舌，当心我～咖你！  
-1. 【[摵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh.md#摵)】`seh7` <sup>[兴化]</sup> ① 拍打：把裤子上的灰～～。 ② 打、摔：～他两下子。｜把碗～得粉碎。 ③ 摆脱：小黄又把女朋友～掉啊。  
+1. 【[摵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh.md#摵)】`seh7` <sup>[东台]</sup> ① 抽打：你再回嘴回舌，当心我～咖你！ ② 跌倒：～咖个跟头。 ③ 疾行，忽然去到：衣裳一披，河东～到河西。  
+1. 【[摵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh.md#摵)】`seh7` <sup>[兴化]</sup> ① 拍打：把裤子上的灰～～。 ② 打、摔：～他两下子｜把碗～得粉碎。 ③ 摆脱：小黄又把女朋友～掉啊。  
 1. 【[摵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh.md#摵)】`seh7` <sup>[泰县]</sup> ① 摔、挥：～钱墩。 ② 抽打：我～咖你啊。 ③ 转：～个大圈子。  
 1. 【[摵把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh_ba.md#摵把)】`seh7 ba3` <sup>[兴化]</sup> 见“掼把”。  
 1. 【[摵光棍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh_guan_guen.md#摵光棍)】`seh7 guan1 guen5` <sup>[兴化]</sup> 打光棍：他三十几岁的人还在～。  
@@ -1125,7 +1125,6 @@
 1. 【[式样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_ian.md#式样)】`sheh7 ian` <sup>[如皋]</sup> ① 手法、花招：他玩～。 ② 花式：过节吃甚的～？ ③ 隐指污秽物：细伢儿做啊～下来啊；老爹屁股底下有啊～。 ④ 隐秘的内容：这篇文章肚里有～，要仔细研究。  
 1. 【[式式开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_sheh_kae.md#式式开)】`sheh7 sheh7 kae1` <sup>[东台]</sup> 样样会的意思，每项手艺，技术或功夫都拿得出手。  
 1. 【[拭条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_tio.md#拭条)】`sheh7 tio2` <sup>[如皋]</sup> 手工搓棉条的竹桯子，用它在新的棉花上捻转一下，将沾上的纤维用“搓板”搓成“棉条儿”并抹下，供纺纱。  
-1. 【[摔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh.md#摔)】`sheh7` <sup>[东台]</sup> 跌倒（《辞源》摔，疏聿切，读若“失”）：～咖个跟头。  
 1. 【[湿布衫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_bv_shaen.md#湿布衫)】`sheh7 bv5 shaen1` <sup>[兴化]</sup> （喻）难以摆脱的麻烦事：你惹的事自己处理，覅把～望我身上套。  
 1. 【[湿溚溚的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_daeh_daeh_dii.md#湿溚溚的)】`sheh7 daeh7 daeh7 dii` <sup>[如皋]</sup> 饱含水份的样子。  
 1. 【[湿𪐏𪐏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_deh_deh.md#湿𪐏𪐏)】`sheh7 deh7 deh7` <sup>[泰县]</sup> 湿漉漉。  
@@ -1172,7 +1171,6 @@
 1. 【[识者](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_zhae.md#识者)】`sheh7 zhae3` <sup>[如皋]</sup> 行家：和氏璧要遇个～才奉为至宝，遇不到个～还是块顽石！  
 1. 【[识者](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_zhae.md#识者)】`sheh7 zhae3` <sup>[兴化]</sup> 有见识的人、识货的人：货卖～，我这件古董你仔细相相再出价。｜老实二字，俗人看来，与愚相近｜～看来，却与诚字为邻。（《岐路灯》八七）也称“识主”。  
 1. 【[识主](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_zhv.md#识主)】`sheh7 zhv3` <sup>[兴化]</sup> 有见识的人，识货的人。  
-1. 【[适](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh.md#适)】`sheh7` <sup>[东台]</sup> 在古汉语中，“适”有“去”“往”之义，《诗经》中有“适彼乐土”之句。东台人由此引出一个常用方言词：衣服一披，河东～到河西。  
 1. 【[适咖一圈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_ga_ieh_qiun.md#适咖一圈)】`sheh7 ga ieh7 qiun1` <sup>[东台]</sup> 转了一圈。  
 1. 【[适转转<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_zhun_zhun_r.md#适转转<sub>儿</sub>)】`sheh7 zhun5 zhun5 r` <sup>[东台]</sup> 围绕某一点兜圈子。  
 1. 【[𥼶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh.md#𥼶)】`sheh7` <sup>[如皋]</sup> 浸泡：～场米、～蚕豆儿。  
@@ -3358,8 +3356,8 @@
 1. 【[𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son.md#𪨊)】`son2` ［㞞］精液；对人的贬称  
 1. 【[竦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son.md#竦)】`son3` <sup>[如东]</sup> 恭敬地站着。  
 1. 【[竦腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_io.md#竦腰)】`son3 io1` <sup>[如东]</sup> 上体向前弯下。  
-1. 【[送](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son.md#送)】`son3` <sup>[如皋]</sup> ① 伸出：头～吖前头。 ② 用话打击：一句话把他～吖多远！ ③ 礼送：迷信行为。用茶叶、米，点香烛，恭敬祷告，送家蛇、狐仙等走路离开。  
 1. 【[宋六门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_loh_men.md#宋六门)】`son5 loh8 men2` <sup>[如皋]</sup> 宋时，如皋县衙四周所设的六个门：先春门（东门）、集贤门（东南门）、宣化门（南门）、丰乐门（西门）、北极门（西北门）、拱辰门（东北门）。各门都有门官看守。  
+1. 【[送](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son.md#送)】`son5` <sup>[如皋]</sup> ① 伸出：头～吖前头。 ② 用话打击：一句话把他～吖多远！ ③ 礼送。迷信行为。用茶叶、米，点香烛，恭敬祷告，送家蛇、狐仙等走路离开。  
 1. 【[送殡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_bin.md#送殡)】`son5 bin1` <sup>[如东]</sup> 灵柩出殡时，陪送。  
 1. 【[送财神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_cae_shen.md#送财神)】`son5 cae2 shen2` <sup>[如皋]</sup> ① 设法送走不受欢迎的人。 ② 旧时一种挣钱的办法，暗中将财神像送到某人门前，然后明着收钱。  
 1. 【[送财神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_cae_shen.md#送财神)】`son5 cae2 shen2` <sup>[兴化]</sup> ① 旧时春节期间，乞丐手持彩色木刻的财神像，送至店铺或户下，以此乞讨钱物。 ② （借）送走不受欢迎而又不便怠慢的人：今朝～，把下来钓鱼休闲的老爷送走啊。  

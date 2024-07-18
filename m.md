@@ -1535,7 +1535,6 @@
 1. 【[毛竹鼻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_zhoh_pieh.md#毛竹鼻)】`mo2 zhoh7 pieh8` <sup>[如皋]</sup> 连接且固定木板的两头尖的毛竹钉。  
 1. 【[毛猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_zhv.md#毛猪)】`mo2 zhv1` <sup>[如东]</sup> 生猪：～重250斤。  
 1. 【[毛躁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_zo.md#毛躁)】`mo2 zo5` <sup>[兴化]</sup> 脾气急躁：不是我～，他的做法太气人。  
-1. 【[猎<sub>儿</sub>肉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_r_roh_zz.md#猎<sub>儿</sub>肉子)】`mo2 r roh8 zz` <sup>[兴化]</sup> （喻）形容未成熟的西瓜口感酸而起腻。  
 1. 【[猫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo.md#猫)】`mo2` <sup>[如东]</sup> 猫科动物猫。  
 1. 【[猫耳朵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_er_du.md#猫耳朵)】`mo2 er3 du` <sup>[兴化]</sup> 一种油炸食品，以其形状得名。  
 1. 【[猫养猫蘣，狗养狗蘣，刺鱼养的滑滴滴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_ian_mo_ton_geu_ian_geu_ton_cz_y_ian_dii_huaeh_dieh_dieh.md#猫养猫蘣，狗养狗蘣，刺鱼养的滑滴滴)】`mo2 ian3 mo2 ton5 geu3 ian3 geu3 ton5 cz5 y2 ian3 dii huaeh8 dieh7 dieh7` <sup>[东台]</sup> 一种偏爱子女的心理。  
@@ -1553,6 +1552,7 @@
 1. 【[猫<sub>儿</sub>脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_r_lin.md#猫<sub>儿</sub>脸)】`mo2 r lin3` <sup>[如东]</sup> 猫儿脸比较短。比喻肚量不大，容易生气：她是～，不要计较。  
 1. 【[猫<sub>儿</sub>佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_r_lo_r.md#猫<sub>儿</sub>佬<sub>儿</sub>)】`mo2 r lo3 r` <sup>[如皋]</sup> 铜钞两面的称谓，即“字儿、鏝儿”。  
 1. 【[猫<sub>儿</sub>吃蟹渣——恶势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_r_qieh_hae_zha_ngah_shr.md#猫<sub>儿</sub>吃蟹渣——恶势)】`mo2 r qieh7 hae3 zha1 ngah7 shr5` <sup>[东台]</sup>   
+1. 【[猫<sub>儿</sub>肉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_r_roh_zz.md#猫<sub>儿</sub>肉子)】`mo2 r roh8 zz` <sup>[兴化]</sup> （喻）形容未成熟的西瓜口感酸而起腻。  
 1. 【[猫<sub>儿</sub>食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_r_sheh.md#猫<sub>儿</sub>食)】`mo2 r sheh8` <sup>[兴化]</sup> （喻）食量小，随时零吃：“我说你是～。虽然如此，也该上去陪他们，多少应个景儿。”（《红楼梦》六二）  
 1. 【[猫<sub>儿</sub>头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_r_teu.md#猫<sub>儿</sub>头)】`mo2 r teu2` <sup>[如东]</sup> 建筑材料，泥制，似瓦，形状像猫头，安装在瓦棱下端，起收拢作用。也叫滴水。  
 1. 【[猫<sub>儿</sub>头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_r_teu.md#猫<sub>儿</sub>头)】`mo2 r teu2` <sup>[如皋]</sup> ① 瓦当，又分阴、阳两种。 ② 一称独轮车车头的横木。  
@@ -1874,7 +1874,6 @@
 1. 【[模样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_ian.md#模样)】`mu2 ian6` <sup>[如东]</sup> 标准的形样：这套家具～不错。  
 1. 【[模子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_zz.md#模子)】`mu2 zz` <sup>[东台]</sup> 模样、轮廓：这个丫头脸～跟她妈长得一样。  
 1. 【[模子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_zz.md#模子)】`mu2 zz` <sup>[兴化]</sup> （喻）样子：你俫两个人秉性相同，像一个～里倒出来的。  
-1. 【[母子一档](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_zz_ieh_dan.md#母子一档)】`mu2 zz3 ieh7 dan5` <sup>[兴化]</sup> 在牛集市上，一齐出售的雌牛及所生犊。  
 1. 【[磨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu.md#磨)】`mu2` <sup>[如东]</sup> 物体与物体紧密接触，来回移动，把物体表面磨光滑或锋利：～刀。  
 1. 【[磨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu.md#磨)】`mu2` <sup>[兴化]</sup> 形容缺齿的人慢慢咀嚼的样子：他牙口不好，一个烧饼半天才～下去。  
 1. 【[磨床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_chuan.md#磨床)】`mu2 chuan2` <sup>[如东]</sup> 装配高速旋转砂轮磨制工件表面的机床，使工件表面光洁，提高精确度。  
@@ -1913,6 +1912,7 @@
 1. 【[母亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_qien.md#母亲)】`mu3 qien1` <sup>[如东]</sup> ① 生育子女的女子，称母亲。有血缘关系的称生母，无血缘关系的，称养母。 ② 子女对生育或抚养自己的女子的称谓。  
 1. 【[母<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_r.md#母<sub>儿</sub>)】`mu3 r` <sup>[泰县]</sup> ① 舅母。 ② 一种小孩玩具：我俫来揪～玩。  
 1. 【[母榫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_xyen.md#母榫)】`mu3 xyen3` <sup>[如皋]</sup> 榫眼。  
+1. 【[母子一档](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_zz_ieh_dan.md#母子一档)】`mu3 zz3 ieh7 dan5` <sup>[兴化]</sup> 在牛集市上，一齐出售的雌牛及所生犊。  
 1. 【[牡丹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_daen.md#牡丹)】`mu3 daen1` <sup>[如东]</sup> 毛茛科植物牡丹。  
 1. 【[牡蛎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_li.md#牡蛎)】`mu3 li6` <sup>[如东]</sup> 牡蛎科动物近江牡蛎。  
 1. 【[牡牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_ngeu.md#牡牛)】`mu3 ngeu2` <sup>[如东]</sup> 公牛。  

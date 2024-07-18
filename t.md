@@ -2387,8 +2387,8 @@
 1. 【[贪黑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_heh.md#贪黑)】`tun1 heh7` <sup>[如皋]</sup> 天色渐黑，仍在劳作，直至看不见才停止。  
 1. 【[贪嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_jy.md#贪嘴)】`tun1 jy3` <sup>[东台]</sup> 贪吃。  
 1. 【[贪凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_lian.md#贪凉)】`tun1 lian2` <sup>[如皋]</sup> 贪图凉快，容易着凉：你不要～，快加衣裳！  
+1. 【[贪凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_lian.md#贪凉)】`tun1 lian2` <sup>[兴化]</sup> 贪图凉快：他夜里开啊空调睡觉，冻吖感冒啊。  
 1. 【[贪生怕死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_shen_pa_sz.md#贪生怕死)】`tun1 shen1 pa5 sz3` <sup>[如东]</sup> 过分珍爱自己的生命而缺乏勇气  
-1. 【[贪凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_v.md#贪凉)】`tun1 v1` <sup>[兴化]</sup> 贪图凉快：他夜里开啊空调睡觉，冻吖感冒啊。  
 1. 【[贪污](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_v.md#贪污)】`tun1 v1` <sup>[如东]</sup> 利用职务上的便利非法地取得财物：～分子。  
 1. 【[贪心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_xien.md#贪心)】`tun1 xien1` <sup>[如东]</sup> 占有的欲望：王二的～过大。  
 1. 【[贪小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_xio.md#贪小)】`tun1 xio3` <sup>[东台]</sup> 爱占小便宜。  
