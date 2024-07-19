@@ -127,7 +127,6 @@
 1. 【[𤎣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh.md#𤎣)】`uh7` <sup>[东台]</sup> 加水闷煮：～山芋｜～稻头。  
 1. 【[𤎣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh.md#𤎣)】`uh7` <sup>[兴化]</sup> 大火蒸煮：～山芋｜～老菱。《集韵·合韵》遏合切“～，烹菜也”。  
 1. 【[𤎣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh.md#𤎣)】`uh7` <sup>[泰县]</sup> 煮：～黄豆。  
-1. 【[丸药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_iah.md#丸药)】`uh8 iah8` <sup>[泰县]</sup> 药品里的丸剂：先生，这个～怎吖吃？  
 1. 【[活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh.md#活)】`uh8` <sup>[东台]</sup> 松动：榫头～咖啦。  
 1. 【[活剥剥的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_bah_bah_dii.md#活剥剥的)】`uh8 bah7 bah7 dii` <sup>[东台]</sup> 活生生的（带痛惜口气）：他家～小伢儿捱鬼子打死啊。  
 1. 【[活财神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_cae_shen.md#活财神)】`uh8 cae2 shen2` <sup>[如皋]</sup> 褒指有钱或对我生财之人。贬指惹事非或无事生非之人。  
@@ -221,6 +220,7 @@
 1. 【[鹌鹑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_shuen.md#鹌鹑)】`un1 shuen2` <sup>[如东]</sup> 雉科动物鹌鹑，也叫草鸡儿，体长约16厘米。  
 1. 【[鹌鹑蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_shuen_taen.md#鹌鹑蛋)】`un1 shuen2 taen6` <sup>[如东]</sup> 鹌鹑生的蛋，个体较小。现在多为人工饲养的鹌鹑所生。  
 1. 【[丸药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_iah.md#丸药)】`un2 iah8` <sup>[如东]</sup> 药丸儿。  
+1. 【[丸药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_iah.md#丸药)】`un2-uh8 iah8` <sup>[泰县]</sup> 药品里的丸剂：先生，这个～怎吖吃？  
 1. 【[丸眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_ngaen_r.md#丸眼<sub>儿</sub>)】`un2 ngaen3 r` <sup>[东台]</sup> 极言其小或少。同“细点滴儿”。又称“眼丸儿”、“眼丸子”。  
 1. 【[完风不透气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_fon_beh_teu_qi.md#完风不透气)】`un2 fon1 beh7 teu5 qi5` <sup>[兴化]</sup> 房屋严密封闭，使空气不能流通：他把屋里门窗关得～的。  
 1. 【[完好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_ho.md#完好)】`un2 ho3` <sup>[东台]</sup> 完整，没有残缺、破坏。  

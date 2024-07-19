@@ -176,7 +176,7 @@
 1. 【[哪早晚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_zo_vaen.md#哪早晚)】`la3 zo3 vaen3` <sup>[泰县]</sup> 什么时候：～他要来的？  
 1. 【[喇叭头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ba_teu_zz.md#喇叭头子)】`la3 ba teu2 zz` <sup>[兴化]</sup> 扬声器的俗称。  
 1. 【[喇叭头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ba_teu_zz.md#喇叭头子)】`la3 ba teu2 zz` <sup>[泰县]</sup> 广播喇叭。  
-1. 【[藞挂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_kua.md#藞挂)】`la3 kua` <sup>[如皋]</sup> 见“拉瓜”。  
+1. 【[藞挂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_gua.md#藞挂)】`la3 gua` <sup>[如皋]</sup> 见“拉瓜”。  
 1. 【[藞䕢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_zha.md#藞䕢)】`la3 zha3` <sup>[如皋]</sup> 见“拉瓜”。  
 1. 【[俫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae.md#俫)】`lae` 人称复数  
 1. 【[俫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae.md#俫)】`lae` <sup>[如皋]</sup> 们：我～、你～、他～。  
@@ -283,13 +283,13 @@
 1. 【[癞宝瘊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_bo_heu_zz.md#癞宝瘊子)】`lae6 bo heu2 zz` <sup>[如皋]</sup> 千日疮。  
 1. 【[癞宝要命蛇要饱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_bo_io_mien_sha_io_bo.md#癞宝要命蛇要饱)】`lae6 bo io5 mien6 sha2 io5 bo3` <sup>[东台]</sup> ［喻］为了自己的生存，不顾别人，甚至损人利己。  
 1. 【[癞宝浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_bo_jian.md#癞宝浆)】`lae6 bo jian1` <sup>[如皋]</sup> 蟾蜍眼侧腺体的乳白色浆腋，可炼蟾酥，为名贵药材。  
-1. 【[癞宝爬啊戥盘<sub>儿</sub>里——自称自](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_bo_pa_a_chen_pun_r_lii_cz_chen_cz.md#癞宝爬啊戥盘<sub>儿</sub>里——自称自)】`lae6 bo pa2 a chen5 pun2 r lii——cz6 chen1 cz6` <sup>[如皋]</sup> 自己夸自己。  
+1. 【[癞宝爬啊戥盘<sub>儿</sub>里——自称自](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_bo_pa_a.md#癞宝爬啊戥盘<sub>儿</sub>里——自称自)】`lae6 bo pa2 a den3 pun2 r lii——cz6 chen1 cz6` <sup>[如皋]</sup> 自己夸自己。  
 1. 【[癞宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_bo.md#癞宝)】`lae6 bo3` 癞虾蟆，蟾蜍  
 1. 【[癞宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_bo.md#癞宝)】`lae6 bo3` <sup>[如东]</sup> 蟾蜍科动物中华大蟾蜍，通称癞蛤蟆。  
 1. 【[癞宝蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_bo_hae.md#癞宝蟹)】`lae6 bo3 hae3` <sup>[如东]</sup> 蝤蛑科动物蟳，头胸甲长约5厘米。  
 1. 【[癞宝瘊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_bo_heu_zz.md#癞宝瘊子)】`lae6 bo3 heu2 zz` <sup>[如皋]</sup> 疣的一种。  
 1. 【[癞宝浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_bo_jian.md#癞宝浆)】`lae6 bo3 jian1` <sup>[如东]</sup> 蟾蜍科动物中华大蟾蜍耳后腺及皮肤腺分泌的白色浆液。  
-1. 【[癞宝爬啊戥盘里——自称自贵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_bo_pa_a_den_pun_lii_cz_chen_cz_guei.md#癞宝爬啊戥盘里——自称自贵)】`lae6 bo3 pa2 a den3 pun2 lii cz6 chen1 cz6 guei5` <sup>[东台]</sup>   
+1. 【[癞宝爬啊戥盘里——自称自贵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_bo_pa_a.md#癞宝爬啊戥盘里——自称自贵)】`lae6 bo3 pa2 a den3 pun2 lii cz6 chen1 cz6 guei5` <sup>[东台]</sup>   
 1. 【[癞宝桃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_bo_to.md#癞宝桃)】`lae6 bo3 to2` 癞瓜，癞葡萄。外表黄色，内有红色籽，可食用。  
 1. 【[癞蝦蟆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_ha_ma.md#癞蝦蟆)】`lae6 ha2 ma` <sup>[如皋]</sup> 蟾蜍。  
 1. 【[癞蝦蟆打呵欠——口气大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_ha_ma_da_hu_qin_keu_qi_da.md#癞蝦蟆打呵欠——口气大)】`lae6 ha2 ma2 da3 hu1 qin5 keu3 qi5 da6` <sup>[东台]</sup>   
@@ -1357,10 +1357,10 @@
 1. 【[临时足月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_shr_zoh_iuh.md#临时足月)】`lien2 shr2 zoh7 iuh8` <sup>[兴化]</sup> 妇女怀孕足月，即将分娩。  
 1. 【[临死骚三脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_sz_so_saen_jiah.md#临死骚三脚)】`lien2 sz3 so1 saen1 jiah7` <sup>[东台]</sup> 就是垂死挣扎，死不悔改。  
 1. 【[临帖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_tih.md#临帖)】`lien2 tih7` <sup>[东台]</sup> 模仿字帖练习写字。  
+1. 【[伶牙俐齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_nga_li_chr.md#伶牙俐齿)】`lien2 nga2 li6 chr3` <sup>[如东]</sup> ① 形容口齿伶俐：这个姑娘～的，真聪明。 ② 形容说话尖刻。  
 1. 【[凌凙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_dah.md#凌凙)】`lien2 dah7` <sup>[如东]</sup> 冬天，屋檐或其他物体上由滴水结成的冰锥。也称冰挂。  
 1. 【[凌𪞝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_dah.md#凌𪞝)】`lien2 dah7, lien2 tah7` ［凌凙］冰凌，屋檐下的冰柱。  
 1. 【[凌环](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_kuaen.md#凌环)】`lien2 kuaen3` <sup>[如皋]</sup> 地名通名。雪岸乡有冒家～。  
-1. 【[凌牙厉齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_nga_lieh_chr.md#凌牙厉齿)】`lien2 nga2 lieh8 chr3` <sup>[如东]</sup> ① 形容口齿伶俐：这个姑娘～的，真聪明。 ② 形容说话尖刻。  
 1. 【[凌辱罪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_roh_cuei.md#凌辱罪)】`lien2 roh8 cuei6` <sup>[兴化]</sup> 在精神上、肉体上长时间受折磨：细伢儿遇到狠心的晚娘，～难受㖸！｜我要是被他抓过去……先把～把我受够了，然后才能让我死。（《火烧赤壁》九）  
 1. 【[凌凙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_tah.md#凌凙)】`lien2 tah` <sup>[如皋]</sup> 冰锥儿。多见于雪后晴的檐下。长鬍子上也偶见。  
 1. 【[凌凙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_tah.md#凌凙)】`lien2 tah` <sup>[兴化]</sup> 冰锥：而今天气变暖，屋檐口好多年没得～咖。  

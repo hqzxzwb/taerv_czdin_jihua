@@ -1030,9 +1030,9 @@
 1. 【[闷人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_ren.md#闷人)】`men6 ren` <sup>[如东]</sup> 天气热，气压低，呼吸不顺畅，感觉不舒畅。  
 1. 【[闷热](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_rih.md#闷热)】`men6 rih8` <sup>[如东]</sup> 天气很热，气压低，湿度大，使人感到呼吸不畅快。  
 1. 【[闷声大发财](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_shen_da_faeh_cae.md#闷声大发财)】`men6 shen1 da6 faeh7 cae2` <sup>[东台]</sup> 成绩很大，但不张扬。  
+1. 【[闷声大发财](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_shen_da_faeh_cae.md#闷声大发财)】`men6 shen1 da6 faeh7 cae2` <sup>[如皋]</sup> ① 指忍让不争，和为贵。 ② 处世低调，不张扬。  
+1. 【[闷声大发财](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_shen_da_faeh_cae.md#闷声大发财)】`men6 shen1 da6 faeh7 cae2` <sup>[兴化]</sup> ① 旧俗除夕守岁，举家咸集，多说吉利话。也有不言不语者，谓之～。（《市志·民俗》） ② （借）遇事不张扬：他这次七十大寿概不惊动，来个～。  
 1. 【[闷声鸟气的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_shen_dio_qi_dii.md#闷声鸟气的)】`men6 shen1 dio3 qi5 dii` <sup>[如皋]</sup> 长时间的不说话，沉闷的氛围。  
-1. 【[闷声大发财](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_shen_faeh_da_cae.md#闷声大发财)】`men6 shen1 faeh7 da6 cae2` <sup>[如皋]</sup> ① 指忍让不争，和为贵。 ② 处世低调，不张扬。  
-1. 【[闷声大发财](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_shen_faeh_da_cae.md#闷声大发财)】`men6 shen1 faeh7 da6 cae2` <sup>[兴化]</sup> ① 旧俗除夕守岁，举家咸集，多说吉利话。也有不言不语者，谓之～。（《市志·民俗》） ② （借）遇事不张扬：他这次七十大寿概不惊动，来个～。  
 1. 【[闷声㗇气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_shen_ha_qi.md#闷声㗇气)】`men6 shen1 ha2 qi5` <sup>[兴化]</sup> 形容人性格内向，平常话语不多：他一天到晚～的。  
 1. 【[闷声瘕气的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_shen_ha_qi_dii.md#闷声瘕气的)】`men6 shen1 ha2 qi5 dii` <sup>[东台]</sup> 形容沉默寡言的样子。  
 1. 【[闷声□气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_shen_xia_qi.md#闷声□气)】`men6 shen1 xia2 qi5` <sup>[泰县]</sup> 默不作声。  
@@ -1360,7 +1360,6 @@
 1. 【[绵软](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_run.md#绵软)】`min2 run3` <sup>[泰县]</sup> 松软。  
 1. 【[绵软的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_run_dii.md#绵软的)】`min2 run3 dii` <sup>[如皋]</sup> 柔软。  
 1. 【[绵霜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_shuan.md#绵霜)】`min2 shuan1` <sup>[如皋]</sup> 霜层很薄，不明显。  
-1. 【[苠田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_tin.md#苠田)】`min2 tin2` <sup>[如皋]</sup> 见“赖田”。  
 1. 【[苠田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_tin.md#苠田)】`min2 tin2` <sup>[如皋]</sup> 生长期过长。又作“赖田”。  
 1. 【[免着气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_chah_qi.md#免着气)】`min3 chah8 qi5` <sup>[兴化]</sup> ① 避免争吵、怄气：算吖，不必惹他，最好～！ ② 戏谓惧内者：你其实并不怕老婆，而是～。也作“免气着”。  
 1. 【[免劳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_lo.md#免劳)】`min3 lo2` <sup>[兴化]</sup> ① 不必麻烦：“罢了！他来找我，必定没有好的事。……～照顾罢！”（《广陵潮》九） ② 不要再干：你～吧，歇歇好多少哩！  

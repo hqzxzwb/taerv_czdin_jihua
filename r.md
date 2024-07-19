@@ -69,7 +69,6 @@
 1. 【[箬子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rah_zz.md#箬子)】`rah8 zz` <sup>[如皋]</sup> 芦柴叶，可裹粽子、衬斗笠。  
 1. 【[箬子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rah_zz.md#箬子)】`rah8 zz` <sup>[如东]</sup> 芦苇或竹子的叶子。  
 1. 【[箬子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rah_zz.md#箬子)】`rah8 zz` <sup>[泰县]</sup> 芦柴叶子。  
-1. 【[肏鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rah_guei.md#肏鬼)】`rah8 guei3` <sup>[东台]</sup> ① 也说“肏咖鬼子”。 ② 感到很奇怪的口头语。 ③ 暗中搞鬼、作弊。  
 1. 【[若烧饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rah_sho_bien.md#若烧饼)】`rah8 sho1 bien` <sup>[如皋]</sup> 油酥馅的烧饼。  
 1. 【[若微](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rah_vei.md#若微)】`rah8 vei2` <sup>[如东]</sup> 数量少或距离小：～移动下子。  
 1. 【[穰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ran.md#穰)】`ran2` <sup>[如皋]</sup> 状碎、软、乱、不成形：把碗打啊～吖；把纸盘吖～吖。  
@@ -127,6 +126,7 @@
 1. 【[肏鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_guei.md#肏鬼)】`reh8 guei3` <sup>[如东]</sup> 说假话：你不要～。  
 1. 【[肏鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_guei.md#肏鬼)】`reh8 guei3` <sup>[如皋]</sup> ① 觉得奇怪、不可思议：倒～啷，钱哪去啊啦？ ② 诡秘、非常的行为。见“肏咖鬼”。  
 1. 【[肏鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_guei.md#肏鬼)】`reh8 guei3` <sup>[兴化]</sup> 奇怪、令人诧异：～唻，不曾有人进家，东西怎吖少的？  
+1. 【[肏鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_guei.md#肏鬼)】`reh8 guei3` <sup>[东台]</sup> ① 也说“肏咖鬼子”。 ② 感到很奇怪的口头语。 ③ 暗中搞鬼、作弊。  
 1. 【[肏鬼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_guei_r.md#肏鬼<sub>儿</sub>)】`reh8 guei3 r` <sup>[泰县]</sup> 蹊跷。  
 1. 【[肏滚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_guen.md#肏滚)】`reh8 guen3` <sup>[如东]</sup> 强行要求离开：请你～。  
 1. 【[肏滚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_guen.md#肏滚)】`reh8 guen3` <sup>[如皋]</sup> 粗鄙话。滚开：你同我早啊点儿～，也省得你蹾吖家里作操！  
@@ -427,12 +427,12 @@
 1. 【[日中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_zhon.md#日中)】`rih8 zhon1` ① 中午 ② 午饭：吃～  
 1. 【[日中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_zhon.md#日中)】`rih8 zhon1` <sup>[东台]</sup> 正午：早烧清明晚烧冬，七月半的亡人等不到小～。  
 1. 【[日子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_zz.md#日子)】`rih8 zz` <sup>[如东]</sup> 比喻生活：过～。  
-1. 【[热嘈射啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_cho_sha_a.md#热嘈射啊)】`rih8 cho sha6 a` <sup>[如东]</sup> 非常高兴，“射啊”做补语，表示程度深：他今朝去看庙会，～。  
 1. 【[热潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_cho.md#热潮)】`rih8 cho` <sup>[泰县]</sup> 热闹：节日的时候街上～。  
 1. 【[热炒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_cho.md#热炒)】`rih8 cho3` <sup>[如皋]</sup> 现炒的菜。旧称热盘。  
 1. 【[热疮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_chuan.md#热疮)】`rih8 chuan1` <sup>[如东]</sup> 皮肤上生长的一种小脓包。  
 1. 【[热嘈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_co.md#热嘈)】`rih8 co` <sup>[如东]</sup> 热闹。  
 1. 【[热嘈人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_co_ren.md#热嘈人)】`rih8 co ren2` <sup>[如东]</sup> 喜欢说笑、逗趣的人。  
+1. 【[热嘈射啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_co_sha_a.md#热嘈射啊)】`rih8 co sha6 a` <sup>[如东]</sup> 非常高兴，“射啊”做补语，表示程度深：他今朝去看庙会，～。  
 1. 【[热嘈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_co.md#热嘈)】`rih8 co2` <sup>[东台]</sup> 热闹：婚礼办得蛮～的。  
 1. 【[热嘈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_co.md#热嘈)】`rih8 co2` <sup>[如皋]</sup> 热闹。  
 1. 【[热嘈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_co.md#热嘈)】`rih8 co2` <sup>[兴化]</sup> ① 热闹：每逢集期，街上蛮～的。｜今年闲生日，不～。 ② 开玩笑：覅～，我这刻儿心情不好。  

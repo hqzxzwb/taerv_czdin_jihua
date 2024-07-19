@@ -820,7 +820,7 @@
 1. 【[脊瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_va.md#脊瓦)】`jieh7 va3` <sup>[兴化]</sup> 与平瓦配套盖在屋脊上的倒V形瓦。  
 1. 【[迹象](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_xian.md#迹象)】`jieh7 xian` <sup>[东台]</sup> 指表露出来不很显著的情况。  
 1. 【[鲫□<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_kae_r.md#鲫□<sub>儿</sub>)】`jieh7 kae2 r` <sup>[东台]</sup> 小鲫鱼：今吖钓鱼只钓啊几条～。  
-1. 【[鲫□<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_keh_r.md#鲫□<sub>儿</sub>)】`jieh7 keh r` <sup>[如皋]</sup> 鲫鱼。鱼纲，鲤形目。  
+1. 【[鲫□<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_kaeh_r.md#鲫□<sub>儿</sub>)】`jieh7 kaeh r` <sup>[如皋]</sup> 鲫鱼。鱼纲，鲤形目。  
 1. 【[鲫鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_y.md#鲫鱼)】`jieh7 y2` <sup>[如东]</sup> 鲤科动物鲫鱼，也称河鱼、鲫口儿。  
 1. 【[鲫鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_y.md#鲫鱼)】`jieh7-jieu5 y2` <sup>[东台]</sup> 中国四大淡水鱼之一：青、白、鲤、～。东台～资源丰富，传统面点“白汤面”，就是用野生～熬汤制作而成。  
 1. 【[鲫鱼荷包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_y_hu_bo.md#鲫鱼荷包)】`jieh7-jieu5 y2 hu2 bo1` <sup>[东台]</sup> 将鲫鱼剖开，腹中包裹猪肉糜红煮而成的菜肴。  
@@ -1750,6 +1750,7 @@
 1. 【[卷丹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiun_daen.md#卷丹)】`jiun3 daen1` <sup>[如东]</sup> 一年生草本植物，鳞茎卵圆状扁球形，外带紫色。叶散生，披针形或线状披针形，叶腋内常有珠芽。总状花序，橘红色，密生紫黑色斑点，开放后向外反巷，花药紫色。蒴果长圆形或倒卵形。供观赏。鳞茎含淀粉，供食用。  
 1. 【[卷海蜇皮<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiun_hae_zhih_pi_r.md#卷海蜇皮<sub>儿</sub>)】`jiun3 hae3 zhih7 pi2 r` <sup>[如东]</sup> 将海蜇皮儿卷起来切成丝，做菜吃。比喻收拾被单等行李，准备动身：他俫～，怕的要跑。  
 1. 【[卷衣捞袖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiun_i_lo_qieu.md#卷衣捞袖)】`jiun3 i1 lo2 qieu6` <sup>[兴化]</sup> ① 劳作前的准备工作。 ② 做势要打架斗殴的样子：他～的要上去打架。  
+1. 【[卷口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiun_keu.md#卷口)】`jiun3 keu3` <sup>[如皋]</sup> 刃口翻卷。  
 1. 【[卷帘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiun_lin.md#卷帘)】`jiun3 lin2` <sup>[如皋]</sup> 夏日挂在门窗前的可上卷的竹帘。  
 1. 【[卷帘门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiun_lin_men.md#卷帘门)】`jiun3 lin2 men2` <sup>[东台]</sup> 用许多条形铝合金材料并排连接制成的门。商店和车库多用之。  
 1. 【[卷芒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiun_man_zz.md#卷芒子)】`jiun3 man2 zz` <sup>[东台]</sup> 将原书纸卷成细长条，供抽水烟时点火用。  
@@ -1760,7 +1761,6 @@
 1. 【[卷心菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiun_xien_cae.md#卷心菜)】`jiun3 xien1 cae5` <sup>[东台]</sup> 见“牛心菜”。  
 1. 【[卷心菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiun_xien_cae.md#卷心菜)】`jiun3 xien1 cae5` <sup>[兴化]</sup> 即包心菜（结球甘篮）。  
 1. 【[捲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiun.md#捲)】`jiun3` <sup>[东台]</sup> ［同音］这里指骂人、嘲讽人：那家伙盛气凌人的，我把他～吖一通，他才不吱声吖。  
-1. 【[锩口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiun_keu.md#锩口)】`jiun3 keu3` <sup>[如皋]</sup> 刃口翻锩。  
 1. 【[𰴽（言卷）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiun.md#𰴽（言卷）)】`jiun3` <sup>[兴化]</sup> 恶毒的、粗野的谩骂：惹啊这个婆娘连～带骂的，叫人听不下去。｜“……他还嘴里劈里剥刺的，叫我一顿～骂……”（《金瓶梅词话》七二）  
 1. 【[眷属](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiun_shoh.md#眷属)】`jiun5 shoh8` <sup>[如东]</sup> 家属；亲戚。  
 1. 【[绢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiun_r.md#绢<sub>儿</sub>)】`jiun5 r` <sup>[如皋]</sup> 手帕。  

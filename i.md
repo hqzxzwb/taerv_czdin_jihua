@@ -1795,8 +1795,7 @@
 1. 【[有荣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_ion.md#有荣)】`ieu3 ion2` <sup>[兴化]</sup> 自己觉得光彩：你考试不及格还～吖？｜“你当他们害羞？他们还当作～呢……”（《八窍珠》九）  
 1. 【[有借有还，再借不难](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_jia_ieu_huaen_zae_jia_beh_naen.md#有借有还，再借不难)】`ieu3 jia5 ieu3 huaen2 zae5 jia5 beh7 naen2` <sup>[东台]</sup> 诚信才能持续发展。  
 1. 【[有津味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_jien_vei.md#有津味)】`ieu3 jien1 vei6` <sup>[如皋]</sup> ① 有香味，令人爱吃。 ② 有兴致：听得～。  
-1. 【[有筋韌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_jien_ren.md#有筋韌)】`ieu3 jien1 ren6` <sup>[如皋]</sup> 米食品耐嚼而不粘牙，口感好。  
-1. 【[有筋饪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_jien_ren.md#有筋饪)】`ieu3 jien1 ren6` <sup>[如皋]</sup> 见“饪纠”。  
+1. 【[有筋韧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_jien_ren.md#有筋韧)】`ieu3 jien1 ren6` <sup>[如皋]</sup> 米食品耐嚼而不粘牙，口感好。另见“饪纠”。  
 1. 【[有教门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_jio_men.md#有教门)】`ieu3 jio5 men` <sup>[如皋]</sup> 有教养。教门，某种教会、门派，都有规矩、约束力。  
 1. 【[有句说句](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_jy_shuh_jy.md#有句说句)】`ieu3 jy5 shuh7 jy5` <sup>[东台]</sup> 实事求是地说：（俗语）“灶家老爷上天，～。”  
 1. 【[有口无心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_keu_v_xien.md#有口无心)】`ieu3 keu3 v2 xien1` <sup>[兴化]</sup> 嘴上说的和心里想的并非一回事：他就用那种飘满佛家香烟的调子唱男女苟且事。无精打采，～顺舌尖的意。（毕飞宇《慌乱的指头》）｜“二哥，又怕你～哩！”（《金瓶梅词话》五七）  

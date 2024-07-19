@@ -1873,9 +1873,9 @@
 1. 【[挪移](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_i.md#挪移)】`nu2 i2` <sup>[兴化]</sup> ① 挪借：～款项。 ② 移动：向前～几步。  
 1. 【[努嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_jy.md#努嘴)】`nu3 jy3` <sup>[东台]</sup> 噘嘴示意。  
 1. 【[呶嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_jy.md#呶嘴)】`nu3 jy3` <sup>[如皋]</sup> 嘴向一边歪动，以示意。  
-1. 【[怒努](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_nu.md#怒努)】`nu5 nu3` <sup>[东台]</sup> ［同音］指小孩睡觉。  
 1. 【[懦褦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_nae.md#懦褦)】`nu5 nae6` <sup>[如东]</sup> 胆小软弱：这个姑娘比较～。  
 1. 【[懦懦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_nu.md#懦懦)】`nu5 nu5` <sup>[如皋]</sup> 睡觉。儿语。“懦”字表音。  
+1. 【[懦懦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_nu.md#懦懦)】`nu5 nu5-3` <sup>[东台]</sup> ［同音］指小孩睡觉。  
 1. 【[懦货<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_hu_r.md#懦货<sub>儿</sub>)】`nu6 hu5 r` <sup>[如东]</sup> 软弱无能的人：王二是个～。  
 1. 【[懦弱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_rah.md#懦弱)】`nu6 rah8` <sup>[东台]</sup> 胆小怕事，软弱无能。  
 1. 【[糯米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_mi.md#糯米)】`nu6 mi3` <sup>[如东]</sup> 禾本科植物糯稻的种仁，也称茶米。黏性大，可以做糕酿酒。  

@@ -211,7 +211,7 @@
 1. 【[三十年河东三十年河西](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheh_nin_hu_don_saen_sheh_nin_hu_xi.md#三十年河东三十年河西)】`saen1 sheh nin2 hu2 don1 saen1 sheh nin2 hu2 xi1` <sup>[东台]</sup> 好的差的在一定条件下相互转化，变化很快。  
 1. 【[三十夜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheh_ia.md#三十夜)】`saen1 sheh8 ia6` <sup>[东台]</sup> 农历年的最后一天，即除夕。  
 1. 【[三十夜的红货——买不到的急，卖不掉的也着急](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheh_ia_dii_hon_hu_mae_beh_do_dii_jieh_mae_beh_tio_dii_ia_zhah_jieh.md#三十夜的红货——买不到的急，卖不掉的也着急)】`saen1 sheh8 ia6 dii hon2 hu5 mae3 beh7 do5 dii jieh7 mae6 beh7 tio6 dii ia3 zhah7 jieh7` <sup>[东台]</sup>   
-1. 【[三十夜看皇历——没得日子啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheh_ia_kun_huan_lieh_meh_deh_rih_zz_a.md#三十夜看皇历——没得日子啊)】`saen1 sheh8 ia6 kun5 huan2 lieh7 meh8 deh7 rih8 zz a` <sup>[东台]</sup>   
+1. 【[三十夜看皇历——没得日子啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheh_ia_kun.md#三十夜看皇历——没得日子啊)】`saen1 sheh8 ia6 kun5 huan2 lieh meh8 deh7 rih8 zz a` <sup>[东台]</sup>   
 1. 【[三十夜吃掉，初一寡寡的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheh_ia_qieh_tio_chv_ieh_gua_gua_dii.md#三十夜吃掉，初一寡寡的)】`saen1 sheh8 ia6 qieh7 tio chv1 ieh7 gua3 gua3 dii` <sup>[东台]</sup> 意同上句，教人过日子细水长流。  
 1. 【[三十里的酒店——远䁃䁃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheh_li_dii_jieu_din_iun_bio_bio.md#三十里的酒店——远䁃䁃)】`saen1 sheh8 li3 dii jieu3 din5 iun3 bio1 bio1` <sup>[东台]</sup>   
 1. 【[三十晚上谈家常——全是好话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheh_vaen_shan_taen_jia_chan_qiun_shr_ho_hua.md#三十晚上谈家常——全是好话)】`saen1 sheh8 vaen3 shan taen2 jia1 chan2 qiun2 shr6 ho3 hua6` <sup>[东台]</sup>   
@@ -908,7 +908,6 @@
 1. 【[上回子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_huei_zz.md#上回子)】`shan6 huei2 zz` <sup>[如皋]</sup> 前一次。  
 1. 【[上寒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_hun.md#上寒)】`shan6 hun2` <sup>[如皋]</sup> 进入冬季。  
 1. 【[上呼家庄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_hv_ga_zhuan.md#上呼家庄)】`shan6 hv1 ga1 zhuan1` 睡觉  
-1. 【[上装](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_i.md#上装)】`shan6 i1` <sup>[兴化]</sup> 上衣：他穿的灰色～，浅蓝色裤子。  
 1. 【[上药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_iah.md#上药)】`shan6 iah8` <sup>[如皋]</sup> 敷药。  
 1. 【[上一号](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_ieh_ho.md#上一号)】`shan6 ieh7 ho6` <sup>[东台]</sup> 上厕所的别称。  
 1. 【[上一回子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_ieh_huei_zz.md#上一回子)】`shan6 ieh7 huei2 zz` <sup>[如皋]</sup> 前一次。  
@@ -1079,6 +1078,7 @@
 1. 【[上桌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_zhuah_zz.md#上桌子)】`shan6 zhuah7 zz` <sup>[兴化]</sup> ① 坐席：今朝请客，小一辈的全不曾～。 ② （迷信）一定辈份或死去三年的亡人才有资格坐到供桌前享祭。  
 1. 【[上桩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_zhuan.md#上桩)】`shan6 zhuan1` <sup>[兴化]</sup> 将就、凑合：他俫打麻将，三缺一，要找个人～。｜你说白送人老婆，那一个不肯～？（《古今小说》二二）  
 1. 【[上装](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_zhuan.md#上装)】`shan6 zhuan1` <sup>[如东]</sup> 上衣。  
+1. 【[上装](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_zhuan.md#上装)】`shan6 zhuan1` <sup>[兴化]</sup> 上衣：他穿的灰色～，浅蓝色裤子。  
 1. 【[上壮气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_zhuan_qi.md#上壮气)】`shan6 zhuan5 qi5` <sup>[如东]</sup> 在田里施肥。  
 1. 【[上灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_zo.md#上灶)】`shan6 zo5` <sup>[如东]</sup> 炒菜或煮饭，叫做上灶。  
 1. 【[上捘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_zuen.md#上捘)】`shan6 zuen5` <sup>[如皋]</sup> 用捻、搓、绞、打加捻度。  
@@ -1664,8 +1664,7 @@
 1. 【[收成](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_chen.md#收成)】`sheu1 chen2` <sup>[如东]</sup> ① 年景：今年～不错。 ② 庄稼收获的成绩：秋熟～好。  
 1. 【[收潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_cho.md#收潮)】`sheu1 cho2` <sup>[兴化]</sup> 空气湿度小，水份蒸发快：晴热天洗衣裳～，阴冷天不～。  
 1. 【[收底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_di.md#收底)】`sheu1 di3` <sup>[如东]</sup> 收尾，结束：王二～。  
-1. 【[收底会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_di_huai.md#收底会)】`sheu1 di3 huai6` <sup>[如皋]</sup> ① “请会”中最后“得会”。 ② 处理遗留问题。 ③ 收拾残局。  
-1. 【[收底会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_di_huei.md#收底会)】`sheu1 di3 huei6` <sup>[如皋]</sup> “请会”中最后一次“打会”。  
+1. 【[收底会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_di_huei.md#收底会)】`sheu1 di3 huei6` <sup>[如皋]</sup> ① “请会”中最后“得会”。 ② 处理遗留问题。 ③ 收拾残局。  
 1. 【[收刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_do.md#收刀)】`sheu1 do1` <sup>[东台]</sup> 卖肉的每天最后一刀肉。  
 1. 【[收刀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_do_r.md#收刀<sub>儿</sub>)】`sheu1 do1 r` <sup>[兴化]</sup> ① 肉案上卖剩下的一块肉。 ② 当年最后割的一茬韭菜。  
 1. 【[收风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_fon.md#收风)】`sheu1 fon1` <sup>[如东]</sup> 渔船从海上进港避风：下午有大风，箇歇开始～吧。  
@@ -3356,7 +3355,7 @@
 1. 【[竦腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_io.md#竦腰)】`son3 io1` <sup>[如东]</sup> 上体向前弯下。  
 1. 【[宋六门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_loh_men.md#宋六门)】`son5 loh8 men2` <sup>[如皋]</sup> 宋时，如皋县衙四周所设的六个门：先春门（东门）、集贤门（东南门）、宣化门（南门）、丰乐门（西门）、北极门（西北门）、拱辰门（东北门）。各门都有门官看守。  
 1. 【[送](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son.md#送)】`son5` <sup>[如皋]</sup> ① 伸出：头～吖前头。 ② 用话打击：一句话把他～吖多远！ ③ 礼送。迷信行为。用茶叶、米，点香烛，恭敬祷告，送家蛇、狐仙等走路离开。  
-1. 【[送殡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_bin.md#送殡)】`son5 bin1` <sup>[如东]</sup> 灵柩出殡时，陪送。  
+1. 【[送殡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_bien.md#送殡)】`son5 bien5` <sup>[如东]</sup> 灵柩出殡时，陪送。  
 1. 【[送财神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_cae_shen.md#送财神)】`son5 cae2 shen2` <sup>[如皋]</sup> ① 设法送走不受欢迎的人。 ② 旧时一种挣钱的办法，暗中将财神像送到某人门前，然后明着收钱。  
 1. 【[送财神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_cae_shen.md#送财神)】`son5 cae2 shen2` <sup>[兴化]</sup> ① 旧时春节期间，乞丐手持彩色木刻的财神像，送至店铺或户下，以此乞讨钱物。 ② （借）送走不受欢迎而又不便怠慢的人：今朝～，把下来钓鱼休闲的老爷送走啊。  
 1. 【[送产妇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_chaen_fv.md#送产妇)】`son5 chaen3 fv6` <sup>[如东]</sup> 妇女生孩子后，亲戚朋友送礼，称送产妇。  

@@ -2761,8 +2761,8 @@
 1. 【[堆捉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_zhuah.md#堆捉)】`duei1 zhuah7` <sup>[如东]</sup> 数量：这批货有～吤！  
 1. 【[堆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_zz.md#堆子)】`duei1 zz` <sup>[如东]</sup> ① 垛子。 ② 土墩：土～。  
 1. 【[堆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_zz.md#堆子)】`duei1 zz` <sup>[兴化]</sup> ① 堆积而成的东西：土～；砖头～。 ② 量词：一～山芋；两～慈姑。  
-1. 【[对扒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_ba.md#对扒)】`duei1 ba1` <sup>[兴化]</sup> 从中间掰开，平分。也说“对半扒”。  
 1. 【[对](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei.md#对)】`duei5` <sup>[东台]</sup> 正确，相当，相配。  
+1. 【[对扒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_ba.md#对扒)】`duei5 ba1` <sup>[兴化]</sup> 从中间掰开，平分。也说“对半扒”。  
 1. 【[对扳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_baen.md#对扳)】`duei5 baen1` <sup>[兴化]</sup> 二人对饮：老两口晚上没事，弄两个菜在家里～。  
 1. 【[对不过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_beh_gu.md#对不过)】`duei5 beh gu5` <sup>[兴化]</sup> 即对不起：他这吖做～朋友。｜员外心中虽乐，然而想起从前情事，～安人……（《三侠五义》二）  
 1. 【[对不住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_beh_chv.md#对不住)】`duei5 beh7 chv6` <sup>[如东]</sup> 对不起：我把你的衣服弄脏吖，～。  
