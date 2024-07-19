@@ -58,7 +58,7 @@
 1. 【[𢶍衲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_nuh_zz.md#𢶍衲子)】`saeh7 nuh8 zz` <sup>[如皋]</sup> 给婴儿胯下系衲子，防大小便。  
 1. 【[𢶍骑马布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_qi_ma_bv.md#𢶍骑马布)】`saeh7 qi2 ma3 bv5` <sup>[如皋]</sup> 把骑马布系于胯下。  
 1. 【[𢶍尿布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_xy_bv.md#𢶍尿布)】`saeh7 xy1 bv5` <sup>[如皋]</sup> 见“𢶍衲子”。  
-1. 【[𣜂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh.md#𣜂)】`saeh7` <sup>[兴化]</sup> 插在木器榫眼中的薄木楔，上粗下细，可使接榫处收紧，牢固。兴化词典作“㞚”，《集韵·洽韵》测洽切：“～，楔也”。一读色洽切。  
+1. 【[𣜂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh.md#𣜂)】`saeh7` <sup>[兴化]</sup> 插在木器榫眼中的薄木楔，上粗下细，可使接榫处收紧，牢固。兴化词典作“㞚”，《集韵·洽韵》测洽切“～，楔也”。一读色洽切。  
 1. 【[𣜂/楔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh.md#𣜂/楔)】`saeh7` <sup>[东台]</sup> 器物不平或榫头不紧时添加的木楔。（东台词典作“㪪”，《集韵》𩐅，悉盍切，起也）：斫草之前先把刀～搕紧｜桌子那条腿下面要加块～才稳。（俗写“櫒”，或写“楔”）。  
 1. 【[𣜂/楔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh.md#𣜂/楔)】`saeh7` <sup>[泰县]</sup> 插入，加楔：～个～儿。  
 1. 【[三班倒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_baen_do.md#三班倒)】`saen1 baen1 do3` <sup>[如东]</sup> 上班制度的一种。一昼夜分三个班次。  
