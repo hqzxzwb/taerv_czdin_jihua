@@ -1,5 +1,5 @@
 # 饐拐拐的
-i3 kuae kuae dii
+i3 guae guae dii
 > 如皋方言词典
 - 腐烂状
   - 天太热，隔宿的百页～，不能吃。
