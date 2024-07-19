@@ -1,4 +1,4 @@
 # 鲫□儿
-jieh7 keh r
+jieh7 kaeh r
 > 如皋方言词典
 - 鲫鱼。鱼纲，鲤形目。
