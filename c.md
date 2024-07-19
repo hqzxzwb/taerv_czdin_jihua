@@ -320,6 +320,7 @@
 1. 【[车耳板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_er_baen.md#车耳板)】`cha1 er3 baen3` <sup>[如皋]</sup> 见“车耳子”。  
 1. 【[车耳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_er_zz.md#车耳子)】`cha1 er3 zz` <sup>[如皋]</sup> 独轮车的轴承及其支架。  
 1. 【[车軬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_faen.md#车軬)】`cha1 faen6` <sup>[如东]</sup> 河边安装水车辋子的棚，圆尖顶。通称车棚。  
+1. 【[车锏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_gaen_zz.md#车锏子)】`cha1 gaen5 zz` <sup>[如皋]</sup> 小车的轴承，用檀木制，耐磨。  
 1. 【[车杠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_gan.md#车杠)】`cha1 gan5` <sup>[如皋]</sup> ① 独轮车车面向两侧铺展的“弓”形木料。 ② 自行车的梯形车架。  
 1. 【[车工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_gon.md#车工)】`cha1 gon1` <sup>[如东]</sup> 工种的一种。以操纵车床为职业的工人。  
 1. 【[车拐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_guae.md#车拐)】`cha1 guae3` <sup>[兴化]</sup> 水车上的脚蹬儿。  
@@ -332,7 +333,6 @@
 1. 【[车辕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_iun.md#车辕)】`cha1 iun2` <sup>[如皋]</sup> 独轮车最前面的横木。  
 1. 【[车脚𣑁<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_jiah_chon_r.md#车脚𣑁<sub>儿</sub>)】`cha1 jiah7 chon5 r` <sup>[如皋]</sup> 小车撑脚之间相连的木料。  
 1. 【[车脊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_jieh.md#车脊)】`cha1 jieh7` <sup>[如东]</sup> 牛车部件。长条形方木，中间固定车桄，下端固定前、后耳，前端固定车牵。  
-1. 【[车锏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_kaen_zz.md#车锏子)】`cha1 kaen5 zz` <sup>[如皋]</sup> 小车的轴承，用檀木制，耐磨。  
 1. 【[车口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_keu.md#车口)】`cha1 keu3` <sup>[如东]</sup> ① 安放水车的口子。 ② 安装抽水机的口子。  
 1. 【[车口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_keu.md#车口)】`cha1 keu3` <sup>[兴化]</sup> ① 水车或风车进、出水的口子。 ② 一部水车或风车引水所灌溉的面积：～大；～小。  
 1. 【[车口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_keu.md#车口)】`cha1 keu3` <sup>[泰县]</sup> 放水车的口子。  

@@ -781,7 +781,7 @@
 1. 【[窠仿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku_fan.md#窠仿)】`ku1 fan3` <sup>[如皋]</sup> 看毛笔字练习簿时，给写得好的字用红笔加圆圈，以示嘉奖。  
 1. 【[窠狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku_geu.md#窠狗)】`ku1 geu3` <sup>[如皋]</sup> 哺乳期的母狗，凶猛。为护崽可攻击人。  
 1. 【[窠狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku_geu.md#窠狗)】`ku1 geu3` <sup>[东台]</sup> 刚生养小狗的母狗。  
-1. 【[窠虾蟆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku_ha_ma.md#窠虾蟆)】`ku1 ha2 ma2-3` <sup>[东台]</sup> 一边念咒语，一边用黑墨在小孩腮帮耳垂下涂抹个实心黑圆圈，是旧时治疗腮腺炎的巫术。（此处“窠”指先圈后涂抹的动作）  
+1. 【[窠蝦蟆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku_ha_ma.md#窠蝦蟆)】`ku1 ha2 ma2-3` <sup>[东台]</sup> 一边念咒语，一边用黑墨在小孩腮帮耳垂下涂抹个实心黑圆圈，是旧时治疗腮腺炎的巫术。（此处“窠”指先圈后涂抹的动作）  
 1. 【[窠篓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku_leu_r.md#窠篓<sub>儿</sub>)】`ku1 leu3 r` <sup>[如东]</sup> 婴儿休息的床，有木制与竹制两种，椭圆形，有底，可以把婴儿放在里面睡辖。下面有轮子的，叫篮车儿。也叫窠儿、摇篮。  
 1. 【[窠箩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku_lu_r.md#窠箩<sub>儿</sub>)】`ku1 lu r` <sup>[如皋]</sup> 篾制的摇篮。  
 1. 【[窠<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku_r.md#窠<sub>儿</sub>)】`ku1 r` <sup>[兴化]</sup> 木质摇篮，似澡桶而高：上～睡觉；摇～。也称“～桶子”。  

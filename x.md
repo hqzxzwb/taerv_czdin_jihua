@@ -1239,7 +1239,7 @@
 1. 【[歇昼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_zheu.md#歇昼)】`xih7 zheu5` <sup>[如皋]</sup> 夏季中午休息。  
 1. 【[歇昼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_zheu.md#歇昼)】`xih7 zheu5` <sup>[如东]</sup> ① 下雨天，中午停止下雨的一段时间，叫做歇昼。 ② 夏天中午休息。  
 1. 【[歇中觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_zhon_go.md#歇中觉)】`xih7 zhon1 go5` <sup>[兴化]</sup> 睡午觉：他饭后总要～，这个是雷打不动的。｜“才吃了一口饭，歇了中觉了。你且这屋里略坐坐”。（《红楼梦》七二）  
-1. 【[洽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih.md#洽)】`xih7` <sup>[东台]</sup> 联系。《说文》：“从水，合声，露也。”读若“锡”｜接～。  
+1. 【[洽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih.md#洽)】`xih7` <sup>[东台]</sup> 联系。（反切不合）  
 1. 【[糏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih.md#糏)】`xih7, xyeh7, xiuh7` 面粉  
 1. 【[糏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih.md#糏)】`xih7` <sup>[如皋]</sup> 谷物磨成的粉，粒度小，经罗筛筛出：小麦～、元麦～、玉米～。屑！=䜺。  
 1. 【[糏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih.md#糏)】`xih7` <sup>[如东]</sup> 粉末状物：小麦～。  

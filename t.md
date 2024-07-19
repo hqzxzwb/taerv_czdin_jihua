@@ -664,7 +664,7 @@
 1. 【[趟鸭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_ngaeh.md#趟鸭)】`tan5 ngaeh7` <sup>[兴化]</sup> 大批量饲养的鸭子：群鸡～。  
 1. 【[趟趟上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_tan_shan.md#趟趟上)】`tan5 tan5 shan6` <sup>[东台]</sup> 指每个节目或项目都参与的人：昨子的表演他～，来事！  
 1. 【[宕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#宕)】`tan6` <sup>[兴化]</sup> ① 拖延、搁起：这种事情要抓紧办，千万不能再～。 ② 任意花费：这几个钱背不住一～就光吖。  
-1. 【[荡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#荡)】`tan6` <sup>[如皋]</sup> 原是浅湖沼泽，后淤积成陆，但地势低。地名通名中有保留：北～、高阳～。变名有草荡、荡子、荡里。  
+1. 【[荡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#荡)】`tan6` <sup>[如皋]</sup> ① 原是浅湖沼泽，后淤积成陆，但地势低。地名通名中有保留：北～、高阳～。变名有草荡、荡子、荡里。 ② 闲逛（原文作“趤”，僻。）：～马路｜从东头～到西头  
 1. 【[荡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#荡)】`tan6` <sup>[如东]</sup> ① 物体挂在绳上摆来摆去：篮子挂啊绳上～。 ② 洗，汰：洗好的碗再～下子。 ③ 闲散懒惰：他一天到晚在家里～。  
 1. 【[荡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#荡)】`tan6` <sup>[东台]</sup> ① 摇动；摆动。 ② 冲洗：把茶杯～一下。 ③ 积水洼地，或称浅水湖：天鹅～、中～、六～。 ④ 放纵，不检点：说话要负责任，不能“没提纲随口～”。  
 1. 【[荡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#荡)】`tan6` <sup>[兴化]</sup> 划船动作：只见有只小船从海面上远远～来……（《水浒后传》三六）｜说着，万二虎猛～几桨，准准与巡逻船擦帮而来。（马春阳《夜袭叹气庙》）  
@@ -684,7 +684,6 @@
 1. 【[荡田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_tin.md#荡田)】`tan6 tin2` <sup>[如东]</sup> 大片生长野草的土地，称荡田。  
 1. 【[荡田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_tin.md#荡田)】`tan6 tin2` <sup>[兴化]</sup> 地势低洼的田地：西乡里有不少～。  
 1. 【[荡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_zz.md#荡子)】`tan6 zz` <sup>[如东]</sup> ① 宽度：～不小。 ② 比喻位置，工作：给我留个～。  
-1. 【[趤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#趤)】`tan6` <sup>[如皋]</sup> 闲逛：～马路｜从东头～到西头  
 1. 【[忑咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_ga.md#忑咖)】`teh ga` 跟在动词及一部分形容词之后，相当于“掉了”：吃～；撂～。  
 1. 【[忑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh.md#忑)】`teh7` <sup>[如东]</sup> 掉。失落。如皋词典作“怢”。  
 1. 【[忑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh.md#忑)】`teh7` <sup>[兴化]</sup> 丢失：钱包～掉啊。｜宝宝挤啊～掉啊（流产）！｜“……凡是冰冻之上，必有凌眼，倘若踩着凌眼，～将下去……就如一个大锅盖盖住，如何钻得上来……”（《西游记》四八）  

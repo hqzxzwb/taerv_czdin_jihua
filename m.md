@@ -598,7 +598,6 @@
 1. 【[莽张飞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_zhan_fei.md#莽张飞)】`man3 zhan1 fei1` <sup>[东台]</sup> ［喻］指葬撞的人。  
 1. 【[蟒蛇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_sha.md#蟒蛇)】`man3 sha2` <sup>[如东]</sup> 无毒的大蛇，体长可达6米，头部长，口大，舌的尖端有分叉，背部黑褐色，有暗色斑点。腹部白色。多生活在近水的树林里，捕食小禽兽。  
 1. 【[妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh.md#妈)】`meh` <sup>[东台]</sup> 加自成音节的“m”（姆），构成“姆～”，是子女在母亲面前轻声叫妈的声音。  
-1. 【[没娘悄气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_nian_qio_qi.md#没娘悄气)】`meh1 nian qio3 qi5` <sup>[东台]</sup> 像失去母亲的孩子一样，一点儿声响也没有。  
 1. 【[没](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh.md#没)】`meh8` <sup>[如东]</sup> 被水淹没：棉花全部～掉啊。  
 1. 【[没（得）巴成](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_ba_chen.md#没（得）巴成)】`meh8 ba1 chen2` <sup>[如皋]</sup> 指没指望、没希望。  
 1. 【[没（得）板子打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_baen_zz_da.md#没（得）板子打)】`meh8 baen3 zz da3` <sup>[如皋]</sup> ① 特别清闲，没事做：他在家里～，就跑啊外头去耍子。 ② 消遣性劳作：他～，在家里养金鱼耍子。 ③ 没价值，不值得：请你去帮忙，一天弄吖5块钱，～唻。  
@@ -753,6 +752,7 @@
 1. 【[没眼野鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_ngaen_ia_ji.md#没眼野鸡)】`meh8 ngaen3 ia3 ji1` <sup>[如东]</sup> 野鸡没有眼睛，就失去了生活能力。比喻失去生活能力而又无人照顾的人：王老太成吖～。  
 1. 【[没眼笛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_ngaen_tieh_zz.md#没眼笛子)】`meh8 ngaen3 tieh8 zz` <sup>[如皋]</sup> 喻隐晦婉曲，不明所以：你不要弄～把我吹，请你说咖明吖。  
 1. 【[没眼笛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_ngaen_tieh_zz.md#没眼笛子)】`meh8 ngaen3 tieh8 zz` <sup>[兴化]</sup> （喻）茫无头绪：他玩搔心，弄个～让我去吹。  
+1. 【[没娘悄气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_nian_qio_qi.md#没娘悄气)】`meh8 nian qio3 qi5` <sup>[东台]</sup> 像失去母亲的孩子一样，一点儿声响也没有。  
 1. 【[没娘儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_nian_er.md#没娘儿)】`meh8 nian2 er` <sup>[兴化]</sup> （喻）孤苦无依的样子：他成天苦巴㾭脸的，也不啃声，就像个～。  
 1. 【[没娘悄气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_nian_qio_qi.md#没娘悄气)】`meh8 nian2 qio5 qi5` <sup>[兴化]</sup> 无可奈何，灰溜溜地：那个家伙在众人的指责声中～的溜啊走啊。  
 1. 【[没娘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_nian_r.md#没娘<sub>儿</sub>)】`meh8 nian2 r` <sup>[如皋]</sup> ① 离娘早，苦。 ② 缺乏教养或个性有缺陷。  

@@ -730,6 +730,7 @@
 1. 【[䶠斩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_zhaen.md#䶠斩)】`ngaen2 zhaen` <sup>[泰县]</sup> 说话刺人。  
 1. 【[䶠子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_zz.md#䶠子)】`ngaen2 zz` 虾蟹的螯  
 1. 【[楌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_zz.md#楌子)】`ngaen2 zz` 草珠子，土薏米，薏苡，回回米，菩提子。经常串起来做佛珠、手链、门帘等。  
+1. 【[楌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_zz.md#楌子)】`ngaen2 zz` <sup>[如皋]</sup> 帘、帘饰：窗～、帐～。  
 1. 【[颜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen.md#颜)】`ngaen2` <sup>[如皋]</sup> 帘、帘饰；窗～子、帐～子。  
 1. 【[颜光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_guan.md#颜光)】`ngaen2 guan` <sup>[东台]</sup> 看得见的效果；程度：这剂药下去，马上能见～｜那个项目到甚的～吖？  
 1. 【[颜光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_guan.md#颜光)】`ngaen2 guan1` <sup>[如皋]</sup> ① 程度：事情到啊甚的～吖啦？ ② 时间。  
@@ -739,7 +740,6 @@
 1. 【[颜头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_teu.md#颜头)】`ngaen2 teu` <sup>[兴化]</sup> 东西的大小多少：这堆花生～不对，明显少掉啊。  
 1. 【[颜咂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_zaeh.md#颜咂)】`ngaen2 zaeh7` <sup>[东台]</sup> 咂，咂嘴。引申为不停地数落、责备、埋怨、批评，使人难受。  
 1. 【[颜张](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_zhan.md#颜张)】`ngaen2 zhan` <sup>[兴化]</sup> 指人的身材、气色：覅看他～小，力气倒有一把唻！  
-1. 【[颜子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_zz.md#颜子)】`ngaen2 zz` <sup>[如皋]</sup> 帘、帘饰；窗～、帐～。  
 1. 【[眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen.md#眼)】`ngaen3` <sup>[东台]</sup> 眼睛、眼光：只怪我～拙，不曾看清。  
 1. 【[眼（睛）眵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_chr.md#眼（睛）眵)】`ngaen3 chr1` <sup>[如皋]</sup> 眼中脓样分泌物，眼屎。  
 1. 【[眼（睛）滞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_chr.md#眼（睛）滞)】`ngaen3 chr5` <sup>[如皋]</sup> 眼力差。  

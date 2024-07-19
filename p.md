@@ -1193,6 +1193,7 @@
 1. 【[白子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_zz.md#白子)】`poh8 zz` <sup>[泰县]</sup> 蛋白。  
 1. 【[白仔苗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_zz_mio.md#白仔苗)】`poh8 zz3 mio2` <sup>[如东]</sup> 苗鱼幼苗时期，全身呈白色，称白仔苗。  
 1. 【[匉𠵹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_gan.md#匉𠵹)】`pon1 gan1` <sup>[如皋]</sup> ① 诈唬、诈言套取机密或恐吓对方。 ② 通肛。～即放屁。《如皋词典》作“㠮㠮”。  
+1. 【[匉𠵹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_gan.md#匉𠵹)】`pon1 gan1` <sup>[东台]</sup> 虚张声势，故意张扬。（东台词典作“唪𠵹”，《说文。段注》唪即“大声”）：这点儿小事，你就乱～，不策略！  
 1. 【[匉𠵹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_gan.md#匉𠵹)】`pon1 gan1` <sup>[兴化]</sup> 明知理亏，反而责怪他人：他明明迟到，还～说通知下错啊。  
 1. 【[澎/漰/泙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#澎/漰/泙)】`pon1` <sup>[如皋]</sup> 喷洒：～酒、～醋。  
 1. 【[澎/漰/泙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#澎/漰/泙)】`pon1` <sup>[东台]</sup> 溅：～了一身水。  
@@ -1280,11 +1281,10 @@
 1. 【[䳞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#䳞)】`pon6` <sup>[兴化]</sup> ① 禽惊飞：鸡子～上屋咖。 ② （引）张扬、逞强：这个丫头能吖～起来啊。｜跩啊～起来｜劲吖～起来  
 1. 【[䳞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#䳞)】`pon6` <sup>[泰县]</sup> ① 张扬：他吵啊～掉啊。 ② 乱飞：麻雀子～掉啊啦。  
 1. 【[䳞䳞腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_pon_tuei.md#䳞䳞腿)】`pon6 pon6 tuei3` <sup>[兴化]</sup> 罗圈腿的俗称。  
-1. 【[匉𠵹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_gan.md#匉𠵹)】`pon6 gan1` <sup>[东台]</sup> 虚张声势，故意张扬。（东台词典作“唪𠵹”，《说文。段注》唪即“大声”）：这点儿小事，你就乱～，不策略！  
 1. 【[埲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#埲)】`pon6` 尘土飞扬  
 1. 【[埲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#埲)】`pon6` <sup>[东台]</sup> 灰尘飞扬：塘灰只～。  
 1. 【[埲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#埲)】`pon6` <sup>[兴化]</sup> ① 尘土飞扬：堂灰～～的。 ② 烟尘滚滚：他在家里生炉子，弄得块块烟～烟的。《广韵·董韵》蒲蠓切“～，塕埲尘起”。  
-1. 【[埲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#埲)】`pon6` <sup>[泰县]</sup> 尘士飞扬：到处灰～～的。《广韵》上声董韵蒲蠓切：“塕～尘起”。  
+1. 【[埲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#埲)】`pon6` <sup>[泰县]</sup> 尘士飞扬：到处灰～～的  
 1. 【[埲场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_chan.md#埲场)】`pon6 chan2` <sup>[兴化]</sup> ① 庄稼在晒场上遭到雨淋。 ② 遭过雨的粮食。  
 1. 【[埲夯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_han.md#埲夯)】`pon6 han1` <sup>[泰县]</sup> 张扬：你不要～，我不怕你。  
 1. 【[埲毛沙<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_mo_sha_r.md#埲毛沙<sub>儿</sub>)】`pon6 mo2 sha1 r` <sup>[如皋]</sup> 下毛毛儿雨。  
