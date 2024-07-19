@@ -97,8 +97,7 @@
 1. 【[以生托熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_shen_tah_shoh.md#以生托熟)】`i3 shen1 tah7 shoh8` <sup>[兴化]</sup> 本来不熟悉却以熟人的姿态和人拉关系。  
 1. 【[以酌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_zhah.md#以酌)】`i3 zhah7` <sup>[泰县]</sup> 大约：这回参加运动会的～二百个人。  
 1. 【[倚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#倚)】`i3` 以为，倚仗  
-1. 【[倚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#倚)】`i3` <sup>[如皋]</sup> ① 依随。弟新妇的妈妈来啊，我～啊侄子叫她婆婆。 ② 延误：事情捱～下来啊。  
-1. 【[倚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#倚)】`i3` <sup>[如皋]</sup> 抵住：拿背脊～着咖门不让人进出。  
+1. 【[倚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#倚)】`i3` <sup>[如皋]</sup> ① 依随。弟新妇的妈妈来啊，我～啊侄子叫她婆婆。 ② 延误：事情捱～下来啊。 ③ 抵住：拿背脊～着咖门不让人进出。  
 1. 【[倚啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_a.md#倚啊)】`i3 a` <sup>[如皋]</sup> 倚仗、依照、倚赖。  
 1. 【[倚啊包袱㧟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_a_bo_foh.md#倚啊包袱㧟)】`i3 a bo1 foh kuae6` <sup>[如皋]</sup> 依赖功劳或成绩敷衍行事：你不要～，新任领导不吃这一套。  
 1. 【[倚啊草鞋戳咖脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_a_co_hae.md#倚啊草鞋戳咖脚)】`i3 a co3 hae2 chuah7 ga jiah7` <sup>[如皋]</sup> 比喻倚靠错了：你想靠他是～，还是你吃亏。  
@@ -124,7 +123,7 @@
 1. 【[椅子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_zz.md#椅子)】`i3 zz` <sup>[如东]</sup> 一种有靠背的凳。通常前脚高48厘米，靠背高94厘米，面长41厘米，前面宽42厘米，后面宽36厘米。  
 1. 【[椅子背脊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_zz_bei_jieh.md#椅子背脊)】`i3 zz bei5 jieh7` <sup>[如皋]</sup> 椅子的隑背儿。  
 1. 【[澺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#澺)】`i3` <sup>[如东]</sup> 浸润扩散：这种纸不好，写字～。  
-1. 【[饐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#饐)】`i3` <sup>[如皋]</sup> ① 腐烂：馒头炣啊～啊；仿纸见水就～；豆腐是～的，不能搠。 ② 腐败、化脓：百页～啊｜疮口发～。 ③ 延误、恶化：工作挨～啊脱掉啊；事情发咖～。  
+1. 【[饐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#饐)】`i3` <sup>[如皋]</sup> ① 腐烂：馒头炣啊～啊｜仿纸见水就～｜豆腐是～的，不能搠 ② 腐败、化脓：百页～啊｜疮口发～。 ③ 延误、恶化：工作挨～啊脱掉啊；事情发咖～。  
 1. 【[饐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#饐)】`i3` <sup>[如东]</sup> 物品浸湿后变得过分松软：馓子泡～啊。  
 1. 【[饐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#饐)】`i3` <sup>[东台]</sup> 食物久置而变质变味。（《说文解字段注》从食，壹声。乙冀切，古音在十二部）：昨晚的剩菜摆到今吖中上，都～啊啦。  
 1. 【[饐拐拐的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_guae_guae_dii.md#饐拐拐的)】`i3 guae guae dii` <sup>[如皋]</sup> 腐烂状：天太热，隔宿的百页～，不能吃。  

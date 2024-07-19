@@ -1777,7 +1777,7 @@
 1. 【[滑滴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_dieh.md#滑滴)】`huaeh8 dieh` <sup>[兴化]</sup> 光洁平整：桌子一漆蛮～的。  
 1. 【[滑滴滴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_dieh_dieh.md#滑滴滴)】`huaeh8 dieh7 dieh7` <sup>[如东]</sup> 非常光滑：小明的手～的。  
 1. 【[滑滴滴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_dieh_dieh.md#滑滴滴)】`huaeh8 dieh7 dieh7` <sup>[兴化]</sup> ① “滑滴”的生动形式：（赵大妈）不论什么时候，头都是梳得～的……（汪曾祺《受戒》） ② 齐备、完好：酒筵准备得～的。｜车子修得～的。也说“滑滑滴滴”。  
-1. 【[滑叽滑坍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_ji_huaeh_taen.md#滑叽滑坍)】`huaeh8 ji huaeh8 taen5` <sup>[兴化]</sup> 滑溜：地上结咖冰，～的。｜走啊青苔上～的。  
+1. 【[滑叽滑𨂞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_ji_huaeh_taen.md#滑叽滑𨂞)】`huaeh8 ji huaeh8 taen5` <sup>[兴化]</sup> 滑溜：地上结咖冰，～的。｜走啊青苔上～的。  
 1. 【[滑叽骨笃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_ji_gueh_doh.md#滑叽骨笃)】`huaeh8 ji1 gueh7 doh7` <sup>[东台]</sup> 形容很滑。也作“滑叽骨董”：雨后烂泥路～的。  
 1. 【[滑稽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_ji.md#滑稽)】`huaeh8 ji1` <sup>[如东]</sup> ① 憨态可笑的样子。 ② 耍小聪明：他在下耍～。  
 1. 【[滑稽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_ji.md#滑稽)】`huaeh8 ji1` <sup>[东台]</sup> 言行、神态引人发笑。  

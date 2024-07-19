@@ -2276,9 +2276,8 @@
 1. 【[熟土](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_tv.md#熟土)】`shoh8 tv3` <sup>[如东]</sup> 适合种植庄家的泥土。加水调和盘透的黏土，可以制作塑像、砖、瓦等。  
 1. 【[赎罪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_qy.md#赎罪)】`shoh8 qy6` <sup>[东台]</sup> 用钱物或行动赎免罪行。  
 1. 【[赎身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_shen.md#赎身)】`shoh8 shen1` <sup>[东台]</sup> 用钱物或其他代价换得人身自由。  
-1. 【[摏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shon.md#摏)】`shon1` （用肘或拳）击打  
-1. 【[摏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shon.md#摏)】`shon1` <sup>[如皋]</sup> 横向捣击：摏一撉儿。  
-1. 【[舂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shon.md#舂)】`shon1` <sup>[如皋]</sup> ① 纵向捣击：他拿高凳头儿～人！ ② 用碓臼给粮食去壳、精加工：～稻、～米、……。按，舂、磕、臿同为用碓臼加工，但词义用法不同。磕，粉碎：～糏。臿，去杂质：～稻、～米。 ③ 状头部偏低：倒～头。  
+1. 【[舂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shon.md#舂)】`shon1` （用肘或拳）击打  
+1. 【[舂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shon.md#舂)】`shon1` <sup>[如皋]</sup> ① 捣击：他拿高凳头儿～人！｜舂一撉儿。 ② 用碓臼给粮食去壳、精加工：～稻、～米、……。按，舂、磕、臿同为用碓臼加工，但词义用法不同。磕，粉碎：～糏。臿，去杂质：～稻、～米。 ③ 状头部偏低：倒～头。  
 1. 【[舂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shon.md#舂)】`shon1` <sup>[如东]</sup> ① 推：～他一家伙！ ② 打：～你的屁股。  
 1. 【[舂池](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shon_chr.md#舂池)】`shon1 chr2` <sup>[如皋]</sup> 筑粪池。因有将坑中土捣实的重要工序，故称舂池。  
 1. 【[舂碓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shon_dy.md#舂碓)】`shon1 dy5` <sup>[如皋]</sup> 踏碓  

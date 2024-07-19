@@ -393,6 +393,7 @@
 1. 【[抹刷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maeh_shuaeh.md#抹刷)】`maeh8 shuaeh` <sup>[兴化]</sup> 形容人态度温和，言语婉转：大娘娘～，把双方的老人都服侍得高高兴兴的。  
 1. 【[抹刷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maeh_shuaeh.md#抹刷)】`maeh8 shuaeh` <sup>[泰县]</sup> 敷衍，劝解。  
 1. 【[睰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maeh.md#睰)】`maeh8` 扫视：眼睛一～就晓得咖。  
+1. 【[蚂蚱胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maeh_zha_hv_zz.md#蚂蚱胡子)】`maeh8 zha hv2 zz` <sup>[兴化]</sup> ① 上唇两撇胡须，像蚱蜢的触角。 ② 也指留～的人：旁人起哄，～躲啊一旁不开口。  
 1. 【[蚂蚱庙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maeh_zha_mio.md#蚂蚱庙)】`maeh8 zha mio6` <sup>[兴化]</sup> 刘猛将军庙的俗称。刘为传说中管制蝗虫的神。兴化垛田镇即有村庄名叫将军庙。兴化辞典作“蛨虴”。  
 1. 【[蚂蚱菩萨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maeh_zha_pv_saeh.md#蚂蚱菩萨)】`maeh8 zha pv2 saeh7` <sup>[如皋]</sup> 喻满脸污垢的样子：细伢儿会自己吃咖，就是吃得满头满脸都是粥，活像个～。  
 1. 【[蚂蚱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maeh_zha.md#蚂蚱)】`maeh8 zha1` <sup>[如皋]</sup> 蝗科昆虫。  
@@ -540,7 +541,6 @@
 1. 【[膜纸<sub>儿</sub>𣻏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_zhr_r_xio.md#膜纸<sub>儿</sub>𣻏)】`mah8 zhr3 r xio1` <sup>[如皋]</sup> 状厚度很小，像竹膜、仿纸那样薄。  
 1. 【[膜子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_zz.md#膜子)】`mah8 zz` <sup>[兴化]</sup> 像薄膜一样的东西：粥～｜塑料～｜脂油～。  
 1. 【[莫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah.md#莫)】`mah8` <sup>[兴化]</sup> 别、不要：～说是你，哪个来也不行。｜（门公）走去唤一声，便来了二三十个齐动手，～想得近他身。（《梼杌闲评》四六）  
-1. 【[蚂蚱胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_zha_hv_zz.md#蚂蚱胡子)】`mah8 zha hv2 zz` <sup>[兴化]</sup> ① 上唇两撇胡须，像蚱蜢的触角。 ② 也指留～的人：旁人起哄，～躲啊一旁不开口。  
 1. 【[咩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man.md#咩)】`man` <sup>[如皋]</sup> 羊叫声。  
 1. 【[□<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_r.md#□<sub>儿</sub>)】`man2 r` <sup>[如东]</sup> 容器。用线绳结成体积很大的网袋，两头都可以收紧，用以装鱼虾等海货。  
 1. 【[忙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man.md#忙)】`man2` <sup>[兴化]</sup> 弄、操办：～饭｜～菜。  

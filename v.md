@@ -422,15 +422,15 @@
 1. 【[洼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va.md#洼)】`va5` <sup>[东台]</sup> 地势较低，相对于高而言。  
 1. 【[洼塘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_tan_r.md#洼塘<sub>儿</sub>)】`va5 tan2 r` <sup>[如东]</sup> 低凹的地方。  
 1. 【[划](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va.md#划)】`va6` <sup>[如皋]</sup> 繁体“劃”。切割：～玻璃；手捱瓦瓷～下来呀，则将冒血。  
-1. 【[画二涂二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_er_tv_er.md#画二涂二)】`va6 er6 tv2 er6` <sup>[如皋]</sup> 乱涂乱揭，卷面不清：他写字～的，一点儿不认真。  
+1. 【[画二涂二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_er_tv_er.md#画二涂二)】`va6 er6 tv2 er6` <sup>[如皋]</sup> 乱涂乱搨，卷面不清：他写字～的，一点儿不认真。  
 1. 【[画翻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_faen.md#画翻)】`va6 faen1` <sup>[如皋]</sup> 出了变故、差错，变得复杂了：这件事～吖，难吖啦！  
 1. 【[画焦芜鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_jio_v_guei.md#画焦芜鬼)】`va6 jio1 v2 guei3` <sup>[东台]</sup> 形容一塌糊涂，不可收拾。  
 1. 【[画龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_lon.md#画龙)】`va6 lon2` <sup>[如皋]</sup> 趣指尿床。  
 1. 【[画龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_lon.md#画龙)】`va6 lon2` <sup>[如皋]</sup> 尿床。  
 1. 【[画十字](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_sheh_cz.md#画十字)】`va6 sheh8 cz6` <sup>[如皋]</sup> ① 承认、保证。 ② 形容走路不稳：脚下～。  
 1. 【[画污搭浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_v_daeh_jian.md#画污搭浆)】`va6 v daeh7 jian1` <sup>[东台]</sup> ① 邋里邋遢的样子。 ② ［喻］办事不清爽，拖泥带水，后遗症多。  
-1. 【[画污搨杀的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_v_taeh_v_dii.md#画污搨杀的)】`va6 v1 taeh7 v1 dii` <sup>[如皋]</sup> 见“画二涂二”。  
-1. 【[画污搨污的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_v_taeh_v_dii.md#画污搨污的)】`va6 v1 taeh7 v1 dii` <sup>[如皋]</sup> 见“画二涂二”。  
+1. 【[画污搨杀的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_v_taeh_shaeh.md#画污搨杀的)】`va6 v1 taeh7 shaeh7 dii` <sup>[如皋]</sup> 见“画二涂二”。  
+1. 【[画污搨污的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_v_taeh_v.md#画污搨污的)】`va6 v1 taeh7 v1 dii` <sup>[如皋]</sup> 见“画二涂二”。  
 1. 【[画画搨搨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_va_taeh_taeh.md#画画搨搨)】`va6 va6 taeh7 taeh7` <sup>[如皋]</sup> 随意地画、任意地涂。  
 1. 【[画招](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_zho.md#画招)】`va6 zho1` 坦白，招认  
 1. 【[画招](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_zho.md#画招)】`va6 zho1` <sup>[如皋]</sup> 招认并画押。今作认错：伢儿软调皮，他惹啊祸，你寻到他，他就～画不及。  
