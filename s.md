@@ -49,7 +49,6 @@
 1. 【[撒撒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_saeh.md#撒撒)】`saeh7 saeh7` <sup>[泰县]</sup> ① 小雨很密：毛雨～。 ② 碎屑直往下掉：他吃脆饼儿～的。  
 1. 【[撒乌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_v.md#撒乌)】`saeh7 v1` <sup>[如皋]</sup> 黄昏后天色渐暗。  
 1. 【[撒屑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_xiuh_zz.md#撒屑子)】`saeh7 xiuh7 zz` <sup>[泰县]</sup> 不直接说出自己的牢骚话。  
-1. 【[楔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh.md#楔)】`saeh7` <sup>[泰县]</sup> 插入，加楔：～个～儿。  
 1. 【[趿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh.md#趿)】`saeh7` <sup>[兴化]</sup> 把鞋帮的后部踩在脚跟下：鞋子～咖下。  
 1. 【[靸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_zz.md#靸子)】`saeh7 zz` <sup>[兴化]</sup> ① 木屐。 ② 拖鞋。  
 1. 【[𢶍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh.md#𢶍)】`saeh7` <sup>[东台]</sup> 把东西藏在身上。（东台词典写“扱”，《说文·手部》“扱，收也，从手，及声，楚洽切。”）：他把东西～咖腰里。  
@@ -61,6 +60,7 @@
 1. 【[𢶍尿布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_xy_bv.md#𢶍尿布)】`saeh7 xy1 bv5` <sup>[如皋]</sup> 见“𢶍衲子”。  
 1. 【[𣜂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh.md#𣜂)】`saeh7` <sup>[兴化]</sup> 插在木器榫眼中的薄木楔，上粗下细，可使接榫处收紧，牢固。兴化词典作“㞚”，《集韵·洽韵》测洽切：“～，楔也”。一读色洽切。  
 1. 【[𣜂/楔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh.md#𣜂/楔)】`saeh7` <sup>[东台]</sup> 器物不平或榫头不紧时添加的木楔。（东台词典作“㪪”，《集韵》𩐅，悉盍切，起也）：斫草之前先把刀～搕紧｜桌子那条腿下面要加块～才稳。（俗写“櫒”，或写“楔”）。  
+1. 【[𣜂/楔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh.md#𣜂/楔)】`saeh7` <sup>[泰县]</sup> 插入，加楔：～个～儿。  
 1. 【[三班倒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_baen_do.md#三班倒)】`saen1 baen1 do3` <sup>[如东]</sup> 上班制度的一种。一昼夜分三个班次。  
 1. 【[三板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_baen.md#三板)】`saen1 baen3` <sup>[泰县]</sup> 隔房子的木板。  
 1. 【[三不对](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_beh_dy.md#三不对)】`saen1 beh dy5` <sup>[泰县]</sup> 见势不妙，如果发生意外：～你就马上离开。  
