@@ -163,7 +163,7 @@
 1. 【[意误意懒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_v_i_laen.md#意误意懒)】`i5 v i5 laen3` <sup>[兴化]</sup> 犹豫不定：开店的事我一直～的，拿不定主意。  
 1. 【[意味<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_vei_r.md#意味<sub>儿</sub>)】`i5 vei6 r` <sup>[如皋]</sup> 待人接物中所显出的品德修养：他的～好。  
 1. 【[殪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#殪)】`i5` <sup>[如东]</sup> 植物果实萎缩脱落。如皋词典作“㱲”：许多桃儿～掉啊。  
-1. 【[殪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#殪)】`i5` <sup>[东台]</sup> 花木水果蔬菜等因失去所含水分而枯萎、下垂。如皋词典作“㱲”：这菜有点～，恐怕不新鲜/刚栽的小树，三天不曾浇水，叶子都～啊。  
+1. 【[殪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#殪)】`i5` <sup>[东台]</sup> 花木水果蔬菜等因失去所含水分而枯萎、下垂。如皋词典作“㱲”：这菜有点～，恐怕不新鲜｜刚栽的小树，三天不曾浇水，叶子都～啊。  
 1. 【[殪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#殪)】`i5` <sup>[泰县]</sup> 部分枯萎、物不新鲜：花芯儿～掉啊。  
 1. 【[澺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#澺)】`i5` <sup>[如皋]</sup> 纸上墨迹渲润。  
 1. 【[缢蛏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_chen.md#缢蛏)】`i5 chen1` <sup>[如东]</sup> 竹蛏科动物缢蛏，壳中央稍偏前方有一条自壳顶至腹缘的斜沟，状如缢痕故名。壳长4～8厘米。壳长方形。背腹缘近于平行，前缘稍圆，后缘略呈截形。壳面平滑，生长纹显著。壳薄而脆。壳面被有一层黄绿色的壳皮。生长纹清晰。壳内面乳白色。足部肌肉发达，足孔周围具有很多触手。水管2条长而分开。生活在浅海河口泥沙中。主要以硅藻为食。  
@@ -176,18 +176,15 @@
 1. 【[裔纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_zhr.md#裔纸)】`i5 zhr3` <sup>[如皋]</sup> 见“孝牌”。  
 1. 【[裔纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_zhr.md#裔纸)】`i5 zhr3` <sup>[如皋]</sup> 追荐先人放焰口时，由和尚唱读的宗族后裔名单（用黄纸写）。  
 1. 【[裔纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_zhr.md#裔纸)】`i5 zhr3` <sup>[如东]</sup> 死者家族后裔的名单，念夜经、放焰口时，由和尚唱读。  
-1. 【[㖂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#㖂)】`i6` <sup>[如皋]</sup> 贬指吃：～不下去、～砂䀇。  
-1. 【[㖂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#㖂)】`i6` <sup>[东台]</sup> 指饱食以后还在长时间慢慢地吃。  
-1. 【[㖂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#㖂)】`i6` <sup>[兴化]</sup> “吃”的贬义说法：～得下去就快～，～不下去就丢碗。  
-1. 【[㖂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#㖂)】`i6` <sup>[泰县]</sup> 勉强多食：总～下去。  
-1. 【[㖂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#㖂)】`i6` <sup>[泰县]</sup> （禁忌语）吃：你快点儿～。  
-1. 【[㖂砂䀇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_sha_gv.md#㖂砂䀇)】`i6 sha1 gv1` <sup>[如皋]</sup> 比喻食欲不振，难下咽状。砂䀇：胃。  
 1. 【[义塾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_shoh.md#义塾)】`i6 shoh8` <sup>[如皋]</sup> 旧时免费施教的学塾。  
 1. 【[勚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#勚)】`i6` 磨损  
-1. 【[勚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#勚)】`i6` <sup>[如皋]</sup> 磨损：鞋底跑啊～掉啊。  
+1. 【[勚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#勚)】`i6` <sup>[如皋]</sup> ① 磨损：鞋底跑啊～掉啊。 ② 贬指吃：～不下去、～砂䀇。  
 1. 【[勚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#勚)】`i6` <sup>[如东]</sup> 逐渐磨损：我的鞋后跟～掉啊。  
-1. 【[勚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#勚)】`i6` <sup>[东台]</sup> 磨损：铲子～掉啊一壳。  
+1. 【[勚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#勚)】`i6` <sup>[东台]</sup> ① 磨损：铲子～掉啊一壳。 ② 指饱食以后还在长时间慢慢地吃。  
+1. 【[勚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#勚)】`i6` <sup>[兴化]</sup> “吃”的贬义说法：～得下去就快～，～不下去就丢碗。  
+1. 【[勚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#勚)】`i6` <sup>[泰县]</sup> ① 勉强多食：总～下去。 ② 詈指吃：你快点儿～。  
 1. 【[勚人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_ren.md#勚人)】`i6 ren2` <sup>[东台]</sup> 肌肤因受到摩擦而难受。  
+1. 【[勚砂䀇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_sha_gv.md#勚砂䀇)】`i6 sha1 gv1` <sup>[如皋]</sup> 比喻食欲不振，难下咽状。砂䀇：胃。  
 1. 【[异奇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_qi.md#异奇)】`i6 qi2` <sup>[兴化]</sup> “奇异”的逆序词，见到这个奇装异服的人，大家都觉猜～。  
 1. 【[易容](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_ion.md#易容)】`i6 ion2` <sup>[如皋]</sup> 容易。容易的反序词。  
 1. 【[曳车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_cha.md#曳车)】`i6 cha1` <sup>[如东]</sup> 赶车，主要指赶牛车：这些天我在下～。  
