@@ -1086,8 +1086,7 @@
 1. 【[熰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu.md#熰)】`ngeu1` <sup>[兴化]</sup> 大火慢煮：～猪头｜把肉放吖锅里慢慢～。  
 1. 【[熰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu.md#熰)】`ngeu1` <sup>[泰县]</sup> 煮：～猪头。  
 1. 【[熰不烂煮不熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_beh_laen_zhv_beh_shoh.md#熰不烂煮不熟)】`ngeu1 beh7 laen6 zhv3 beh7 shoh8` <sup>[东台]</sup> ［喻］指讲阴阳怪气的话，叫人无法接受。  
-1. 【[瓯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_zz.md#瓯子)】`ngeu1 zz` <sup>[泰县]</sup> 小碗：拿个～来。/妇人……拿～陪着西门供，每人吃了两～，方才洗脸梳妆。（金瓶梅·20）  
-1. 【[瓯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_zz.md#瓯子)】`ngeu1 zz` <sup>[泰县]</sup> 碗。  
+1. 【[瓯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_zz.md#瓯子)】`ngeu1 zz` <sup>[泰县]</sup> 小碗：拿个～来。  
 1. 【[牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu.md#牛)】`ngeu2` 牛  
 1. 【[牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu.md#牛)】`ngeu2` <sup>[如皋]</sup> 喻蛮横顶撞：他～起来不认人。  
 1. 【[牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu.md#牛)】`ngeu2` <sup>[如东]</sup> 牛科动物黄牛和水牛，身体大，趾端有蹄，头上长有一对角，尾巴尖端有长毛。是反刍类动物，力气大，供役使。  
