@@ -809,6 +809,7 @@
 1. 【[郎当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_dan.md#郎当)】`lan2 dan1` <sup>[如东]</sup> 自由散漫。  
 1. 【[郎中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_zhon.md#郎中)】`lan2 zhon` <sup>[兴化]</sup> 原指中医，今俗指江湖游医：～先生。｜谚曰｜急惊风遇到慢～。  
 1. 【[郎中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_zhon.md#郎中)】`lan2 zhon1` <sup>[如东]</sup> 具有某种专业特长的医务人员。  
+1. 【[哪吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_nga.md#哪吖)】`lan3 nga` <sup>[如皋]</sup> 怎么，怎么样。“怎吖”的方音。  
 1. 【[塱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan.md#塱)】`lan3` <sup>[如皋]</sup> 疄子：劚咖一～番芋。  
 1. 【[朗风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_fon.md#朗风)】`lan3 fon1` <sup>[如皋]</sup> 靠风力吹帆行船。  
 1. 【[朗风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_fon.md#朗风)】`lan3 fon1` <sup>[泰县]</sup> 扬帆。  
@@ -816,7 +817,6 @@
 1. 【[樃杆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_gun.md#樃杆)】`lan3 gun3` <sup>[如皋]</sup> 独轮车从车头向后伸出的两根长木棍，是推车的着力处。  
 1. 【[樃杆尖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_gun_jin_zz.md#樃杆尖子)】`lan3 gun3 jin1 zz` <sup>[如皋]</sup> 独轮车把手上套车鞭的凸起。  
 1. 【[郎郎<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_lan_r.md#郎郎<sub>儿</sub>)】`lan3 lan3 r` <sup>[泰县]</sup> ① 灰。 ② 面粉生蛆后的样子。  
-1. 【[𠻴吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_nga.md#𠻴吖)】`lan3 nga` <sup>[如皋]</sup> 怎么，怎么样。“怎吖”的方音。  
 1. 【[𢭗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan.md#𢭗)】`lan3` <sup>[如皋]</sup> 耽延：他的案子～吖在下，一～就是三年。如皋词典写“冷”。  
 1. 【[𢭗吖下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_nga_ha.md#𢭗吖下)】`lan3 nga ha` <sup>[如皋]</sup> 耽延着。  
 1. 【[𧚅裆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_dan_r.md#𧚅裆<sub>儿</sub>)】`lan3 dan5 r` <sup>[如皋]</sup> ① 布筋、碎布条：破布儿～。 ② 沾满小粒的虫丝团：米生吖～。 ③ 肉类切下来软而不成形的一类。  

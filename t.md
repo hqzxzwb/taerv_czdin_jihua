@@ -892,7 +892,7 @@
 1. 【[头脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_jiah.md#头脚)】`teu2 jiah7` <sup>[东台]</sup> 从上到下，全部：把库存的大麦翻一下子～。  
 1. 【[头开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_kae.md#头开)】`teu2 kae1` <sup>[如皋]</sup> 茶叶第一次用开水冲泡出的茶。  
 1. 【[头柜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_kuei.md#头柜)】`teu2 kuei6` <sup>[兴化]</sup> 商店里的高级职员：（他的两个儿子）都是学布店的，都出了师了……谁都认为老大将来是会升为～，并且会当管事的。（汪曾祺《鉴赏家》）  
-1. 【[头两个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_laen_gu.md#头两个)】`teu2 laen2 gu` <sup>[如皋]</sup> 一两个。  
+1. 【[头两个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_laen_gu.md#头两个)】`teu2 laen3 gu` <sup>[如皋]</sup> 一两个。  
 1. 【[头里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_lii.md#头里)】`teu2 lii` <sup>[东台]</sup> ① 原先，预先：他～有啊口，现在不饿。 ② 用在某些名词之后，表示方位：西北风～太冷。  
 1. 【[头里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_lii.md#头里)】`teu2 lii` <sup>[兴化]</sup> ① 先前：他～到我家来过。 ② 前头、前面：“拉着这马，只管前走，～等我，我随后就来”（《施公案》一四六）  
 1. 【[头里梦冲的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_lii_mon_chon_dii.md#头里梦冲的)】`teu2 lii mon6 chon5 dii` <sup>[如皋]</sup> 责备语。指太莽撞容易犯错误：你才到的生地方不要～乱说乱做。  

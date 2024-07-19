@@ -1011,10 +1011,10 @@
 1. 【[匡圩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan_vei.md#匡圩)】`kuan1 vei2` <sup>[东台]</sup> 拦海筑堤造田称之为～：东台滩涂～工程很壮观。  
 1. 【[匡酌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan_zhah.md#匡酌)】`kuan1 zhah7` <sup>[兴化]</sup> 估算。  
 1. 【[框](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan.md#框)】`kuan1` <sup>[如东]</sup> 中间空的方形、圆形或多边形结构：门～。  
-1. 【[框](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan.md#框)】`kuan1` <sup>[东台]</sup> 门、窗或工艺品外围的架子及装饰物：玻璃～子｜镜～。  
+1. 【[框](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan.md#框)】`kuan1` <sup>[东台]</sup> 门、窗或工艺品外围的架子及装饰物：玻璃～子｜镜～  
 1. 【[框框](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan_kuan.md#框框)】`kuan1 kuan` <sup>[东台]</sup> 事物固定的格式和限制的范围。也叫“框子”。  
 1. 【[筐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan.md#筐)】`kuan1` <sup>[如东]</sup> 容器。竹篾或荆条编成，圆柱形，有底，无环。较大。用以盛物。  
-1. 【[筐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan.md#筐)】`kuan1` <sup>[东台]</sup> 用竹篾、柳条等编织成的盛物的器具：编个柳藤～｜两～菜。  
+1. 【[筐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan.md#筐)】`kuan1` <sup>[东台]</sup> 用竹篾、柳条等编织成的盛物的器具：编个柳藤～｜两～菜  
 1. 【[絖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan.md#絖)】`kuan1` <sup>[如皋]</sup> ① 动词：～丝线、～头绳。 ② 名词：丝～子、线～子。 ③ 量词：一～棉线。  
 1. 【[诓骗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan_pin.md#诓骗)】`kuan1 pin5` <sup>[东台]</sup> 瞒哄、欺骗。  
 1. 【[狂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan.md#狂)】`kuan2` <sup>[如皋]</sup> 见“疯”。指小孩贪玩无节制。  

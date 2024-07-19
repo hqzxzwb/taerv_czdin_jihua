@@ -186,7 +186,7 @@
 1. 【[人多没好食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_du_meh_ho_sheh.md#人多没好食)】`ren2 du1 meh8 ho3 sheh8` <sup>[东台]</sup> 人多了，需求量大，就难以精心制作。  
 1. 【[人多抢食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_du_qian_sheh.md#人多抢食)】`ren2 du1 qian3 sheh8` <sup>[东台]</sup> 人一多，就有争着吃的兴致和吃不到的担心。  
 1. 【[人多嘴杂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_du_zuei_zaeh.md#人多嘴杂)】`ren2 du1 zuei3 zaeh7` <sup>[泰兴]</sup> 谈论的人多，各种议论都有。亦指在场的人多，七嘴八舌。  
-1. 【[人髮炭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_faeh_taen.md#人髮炭)】`ren2 faeh7 taen5` <sup>[如皋]</sup> 中药名，煅烧人髮为炭。又称血余炭。  
+1. 【[人发炭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_faeh_taen.md#人发炭)】`ren2 faeh7 taen5` <sup>[如皋]</sup> 中药名，煅烧人发为炭。又称血余炭。  
 1. 【[人夫轿马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_fv_qio_ma.md#人夫轿马)】`ren2 fv qio6 ma3` <sup>[兴化]</sup> ① 旧宫员出行时的仪仗、仆从及各种交通工具。 ② 形容热闹、气派：今朝～的接她不走，过几天灰溜溜的往家跑。  
 1. 【[人家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_ga.md#人家)】`ren2 ga` 别人、别人家；“我”的委婉称法  
 1. 【[人家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_ga.md#人家)】`ren2 ga` <sup>[如皋]</sup> ① 所指随语境而变。 ② 别人。 ③ 别人家。 ④ 出嫁女称母家。 ⑤ 有时为自称。  

@@ -1129,9 +1129,9 @@
 1. 【[红糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_tan.md#红糖)】`hon2 tan2` <sup>[如东]</sup> 糖的一种。甘蔗糖浆熬成，含有砂糖和糖蜜，黄褐色、赤红色或黑色。也称砂糖。  
 1. 【[红糖茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_tan_cha.md#红糖茶)】`hon2 tan2 cha2` <sup>[如皋]</sup> 红糖冲泡的茶。  
 1. 【[红糖京枣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_tan_jien_zo.md#红糖京枣)】`hon2 tan2 jien1 zo3` <sup>[如皋]</sup> 一种像红枣的甜脆茶食。  
-1. 【[红膛膛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_tan_tan.md#红膛膛)】`hon2 tan2 tan` <sup>[泰县]</sup> 红扑扑；伢儿的脸～的。  
+1. 【[红膛膛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_tan_tan.md#红膛膛)】`hon2 tan2 tan` <sup>[泰县]</sup> 红扑扑：伢儿的脸～的。  
 1. 【[红膛膛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_tan_tan.md#红膛膛)】`hon2 tan2 tan2` <sup>[如东]</sup> 脸色红润而有光泽：吴老爹的脸上～的，身体好啊！  
-1. 【[红赯赯的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_tan_tan_dii.md#红赯赯的)】`hon2 tan2 tan2 dii` <sup>[如皋]</sup> 喻紫红而又有光泽的颜色：桌子漆得～；脸上养得～。  
+1. 【[红膛膛的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_tan_tan_dii.md#红膛膛的)】`hon2 tan2 tan2 dii` <sup>[如皋]</sup> 喻紫红而又有光泽的颜色：桌子漆得～｜脸上养得～  
 1. 【[红藤草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_ten_co.md#红藤草)】`hon2 ten2 co3` <sup>[如皋]</sup> 马鞭草。  
 1. 【[红头发野人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_teu_faeh_ia_ren.md#红头发野人)】`hon2 teu2 faeh7 ia3 ren2` <sup>[兴化]</sup> （喻）野蛮无理，不受法律道德约束的人：哪块来的～？敢在公共场所撒野。  
 1. 【[红头虾<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_teu_ha_r.md#红头虾<sub>儿</sub>)】`hon2 teu2 ha1 r` <sup>[东台]</sup> 戏称醉酒后面红耳赤。  

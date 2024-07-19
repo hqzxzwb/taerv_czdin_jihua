@@ -92,7 +92,7 @@
 1. 【[打挡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_dan.md#打挡)】`da3 dan3` <sup>[如东]</sup> 阻止：不要～。  
 1. 【[打得粗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_deh_cv.md#打得粗)】`da3 deh cv1` <sup>[泰县]</sup> 泼辣：这人粗活、细活都能做，他～啊。  
 1. 【[打得粗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_deh_cv.md#打得粗)】`da3 deh7 cv1` <sup>[如东]</sup> ① 比喻能吃苦：这个伢儿～。 ② 比喻泼辣：他～，甚的都不怕。  
-1. 【[打得起](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_deh_qiu.md#打得起)】`da3 deh7 qiu3` <sup>[如皋]</sup> ① 秤的称量够到。 ② 趣语比喻零钱不够：～酱油买不起醋。  
+1. 【[打得起](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_deh_qi.md#打得起)】`da3 deh7 qi3` <sup>[如皋]</sup> ① 秤的称量够到。 ② 趣语比喻零钱不够：～酱油买不起醋。  
 1. 【[打得断的筋，打不断的心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_deh_tun_dii_jien_da_beh_tun_dii_xien.md#打得断的筋，打不断的心)】`da3 deh7 tun6 dii jien1 da3 beh7 tun6 dii xien1` <sup>[东台]</sup> 思想、感情问题不能简单用武力解决。  
 1. 【[打墩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_den_r.md#打墩<sub>儿</sub>)】`da3 den1 r` <sup>[如皋]</sup> ① 粗略地分堆子。 ② 小孩随地大便。  
 1. 【[打灯笼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_den_lon.md#打灯笼)】`da3 den1 lon` <sup>[如东]</sup> 点着灯笼：天黑，家去要～。  
@@ -471,7 +471,7 @@
 1. 【[打兔子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_tv_zz.md#打兔子)】`da3 tv5 zz` <sup>[东台]</sup> ［喻］醉酒后呕吐。  
 1. 【[打兔子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_tv_zz.md#打兔子)】`da3 tv5 zz` <sup>[兴化]</sup> 因酒醉而呕吐（“兔”和“吐”同音）。  
 1. 【[打吐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_tv_zz.md#打吐子)】`da3 tv5 zz` <sup>[如皋]</sup> 酒后呕吐。  
-1. 【[打杜鲁克](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_tv_lv_keh.md#打杜鲁克)】`da3 tv6 lv1 keh7` <sup>[东台]</sup> 打扑克。也称“打沙蟹”。  
+1. 【[打杜鲁克](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_tv_lv_keh.md#打杜鲁克)】`da3 tv6 lv keh7` <sup>[东台]</sup> 打扑克。也称“打沙蟹”。  
 1. 【[打肚皮官司](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_tv_pi_gun_sz.md#打肚皮官司)】`da3 tv6 pi2 gun1 sz` <sup>[如皋]</sup> ① 自己反复思考。 ② 饿了。  
 1. 【[打退堂鼓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ty_tan_gv.md#打退堂鼓)】`da3 ty5 tan2 gv3` <sup>[如皋]</sup> 原指老爷退堂，比喻中途退出，不想干了，不干了。  
 1. 【[打唩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_u.md#打唩)】`da3 u1` <sup>[如皋]</sup> 舌头不做主，说话含混不清。  

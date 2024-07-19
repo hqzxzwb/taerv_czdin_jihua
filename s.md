@@ -528,7 +528,7 @@
 1. 【[砂灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_huei.md#砂灰)】`sha1 huei1` <sup>[兴化]</sup> 由一定比例的砂（沙）和胶结材料——水泥、石灰浆等加水和成，是砌砖石用的黏结物质和粉制墙壁的材料。也叫“灰浆”“沙浆”。  
 1. 【[砂礓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_jian_r.md#砂礓<sub>儿</sub>)】`sha1 jian3 r` <sup>[如皋]</sup> 混在粮食、鞋内的石、砖、瓷、玻璃等的小颗粒。  
 1. 【[砂礓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_jian_r.md#砂礓<sub>儿</sub>)】`sha1 jian3 r` <sup>[兴化]</sup> 沙土中的细小石块、杂在米中的砂粒。  
-1. 【[砂码硒<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_ma_jian_r.md#砂码硒<sub>儿</sub>)】`sha1 ma3 jian3 r` <sup>[兴化]</sup> 见“砂礓儿”。  
+1. 【[砂码礓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_ma_jian_r.md#砂码礓<sub>儿</sub>)】`sha1 ma3 jian3 r` <sup>[兴化]</sup> 见“砂礓儿”。  
 1. 【[砂囊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_nan.md#砂囊)】`sha1 nan2` <sup>[如皋]</sup> 禽胃。  
 1. 【[砂石](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_sheh.md#砂石)】`sha1 sheh8` <sup>[如皋]</sup> 一种水层岩。  
 1. 【[砂石路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_sheh_lv.md#砂石路)】`sha1 sheh8 lv6` <sup>[如东]</sup> 路面由细砂石子铺成的公路，称砂石路。也称晴雨路。  

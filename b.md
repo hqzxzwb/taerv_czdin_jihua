@@ -1176,7 +1176,7 @@
 1. 【[𠷨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bia.md#𠷨)】`bia3` <sup>[泰县]</sup> 不正：他读书读咖～啊音。  
 1. 【[𠷨腰<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bia_io_r.md#𠷨腰<sub>儿</sub>)】`bia3 io1 r` <sup>[如皋]</sup> 腰椎变形，向一边倾斜的体形。或称人。  
 1. 【[𠷨眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bia_ngaen_r.md#𠷨眼<sub>儿</sub>)】`bia3 ngaen3 r` <sup>[如东]</sup> 眼睛斜视的人。  
-1. 【[㧙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh.md#㧙)】`bieh7` <sup>[如皋]</sup> 转捩也：拿竹篙子～船头。  
+1. 【[㧙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh.md#㧙)】`bieh7` <sup>[如皋]</sup> ① 转捩也：拿竹篙子～船头。 ② 强制、治：～～他的犟脾气。  
 1. 【[哔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh.md#哔)】`bieh7` <sup>[如皋]</sup> 象声词：“～卟一声响，空船大回往、干翘～卟的。”  
 1. 【[壁板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_baen.md#壁板)】`bieh7 baen3` <sup>[东台]</sup> 旧时正房堂屋四壁和墙体一样高的站板，上下入槽，下口仍用厚木板护在上面，～一般为杉木材质。也叫“杉板”。  
 1. 【[壁壁孔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_bieh_kon.md#壁壁孔)】`bieh7 bieh7 kon3` <sup>[兴化]</sup> 偏僻幽深处：他家住啊～里，交关难寻。｜他把东西囥吖～里，不容易发现。  
@@ -1241,7 +1241,6 @@
 1. 【[逼打成招](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_da_chen_zho.md#逼打成招)】`bieh7 da3 chen2 zho1` <sup>[东台]</sup> 严刑拷打逼迫对方招供。  
 1. 【[逼人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_ren.md#逼人)】`bieh7 ren2` <sup>[东台]</sup> 侵袭肌体：四九心里，寒气～，冷得人直打寒战。  
 1. 【[逼杀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_shaeh.md#逼杀)】`bieh7 shaeh7` <sup>[东台]</sup> 迫害致死：她活剥剥的捱～咖。  
-1. 【[𨐨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh.md#𨐨)】`bieh7` <sup>[如皋]</sup> 强制、治：～～他的犟脾气。  
 1. 【[兵房镇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_fan_zhen.md#兵房镇)】`bien1 fan2 zhen5` <sup>[如东]</sup> 民国10年前后，在大豫盐垦公司四管南首建筑两间平房，缉私营驻守2名盐兵，负责稽查私盐。群众把这个地方称为兵房。后来逐渐形成集镇。抗日战争时期属利民乡管辖。1949年，建徐征乡。1958年，成立徐征人民公社，1959年改称兵房人民公社。1983年3月，改称兵房乡。1986年3月，撤乡并镇，兵房乡调整为县属镇。2009年，兵房镇并入大豫镇。  
 1. 【[兵<sub>儿</sub>猴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_r_heu_zz.md#兵<sub>儿</sub>猴子)】`bien1 r heu2 zz` <sup>[兴化]</sup> 旧时对反动军人的鄙称：那些～一上庄，甚的坏事都做得出。  
 1. 【[冰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien.md#冰)】`bien1` <sup>[如皋]</sup> 雹。  

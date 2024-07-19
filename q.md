@@ -681,7 +681,7 @@
 1. 【[七拼八凑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_pien_baeh_ceu.md#七拼八凑)】`qieh7 pien1 baeh7 ceu5` <sup>[如东]</sup> 许多东西凑合起来。  
 1. 【[七拼八凑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_pien_baeh_ceu.md#七拼八凑)】`qieh7 pien1 baeh7 ceu5` <sup>[东台]</sup> 拼拼凑凑，勉强足数。  
 1. 【[七拼八凑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_pien_baeh_ceu.md#七拼八凑)】`qieh7 pien1 baeh7 ceu5` <sup>[泰兴]</sup> 勉强拼凑，或谓胡乱凑合：连伙食费总是～的，哪有得钱去置甚的家私。  
-1. 【[七唪八诈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_pon_baeh_zha.md#七唪八诈)】`qieh7 pon6 baeh7 zha5` <sup>[东台]</sup> 用假话欺骗人，或用真假难辨的话套出对方的真话。  
+1. 【[七埲八诈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_pon_baeh_zha.md#七埲八诈)】`qieh7 pon6 baeh7 zha5` <sup>[东台]</sup> 用假话欺骗人，或用真假难辨的话套出对方的真话。  
 1. 【[七戗八扶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_qian_baeh_fv.md#七戗八扶)】`qieh7 qian5 baeh7 fv2` <sup>[东台]</sup> ［喻］很多人帮助扶持。  
 1. 【[七戗八扶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_qian_baeh_fv.md#七戗八扶)】`qieh7 qian5 baeh7 fv2` <sup>[兴化]</sup> ① 倾斜的墙壁等用棍棒支撑使不倒。 ② （喻）对有困难的人多方扶持。‖也说“七帮八扶”。  
 1. 【[七七](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_qieh.md#七七)】`qieh7 qieh7` <sup>[泰兴]</sup> 旧俗人死后每隔七日祭奠一次，到七七四十九日止，共为七七，故称“七七”，或称“断七”。  

@@ -2319,7 +2319,6 @@
 1. 【[育裙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ioh_qyen.md#育裙)】`ioh8 qyen2` <sup>[如皋]</sup> 青布长裙，旧时产妇坐盆分娩，皆穿此裙，故名。后农村男女老少皆穿。  
 1. 【[臃肿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_zhon.md#臃肿)】`ion1 zhon3` <sup>[如东]</sup> 肥胖：她有些～。  
 1. 【[雍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion.md#雍)】`ion1` <sup>[如东]</sup> 人的身体无力地倒下来：张老头两腿无力，不能走动，慢慢地～下来啊。  
-1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion.md#□)】`ion2` <sup>[如东]</sup> ① 物体膨松的状态。 ② 粉碎：把纸撕～吖。  
 1. 【[容](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion.md#容)】`ion2` <sup>[如皋]</sup> 纵容，见“酿”。  
 1. 【[容](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion.md#容)】`ion2` <sup>[如皋]</sup> ① 包容、容许：不～你瞎来！ ② 纵容、包庇：你把伢儿～得这样子！ ③ 库容：仓库里～不下。  
 1. 【[容从](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_con.md#容从)】`ion2 con2` <sup>[如东]</sup> 缓慢而轻巧地进行：打酒要～。  
@@ -2332,6 +2331,7 @@
 1. 【[容者……不到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_zhae_beh_do.md#容者……不到)】`ion2 zhae3 beh7 do5` <sup>[如皋]</sup> 难以得到：容者吃不到、容者买不到。  
 1. 【[容者不](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_zhae_beh.md#容者不)】`ion2 zhae3 beh7` <sup>[如皋]</sup> 难得，不经常、好不容易：他～来。  
 1. 【[容仗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_zhan.md#容仗)】`ion2 zhan5` <sup>[东台]</sup> 对孩子或手下人的缺点错误放任不管：对小伙不能太～。  
+1. 【[溶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion.md#溶)】`ion2` <sup>[如东]</sup> ① 物体膨松的状态。 ② 粉碎：把纸撕～吖。  
 1. 【[荣辱不觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_roh_beh_gah.md#荣辱不觉)】`ion2 roh8 beh7 gah7` <sup>[东台]</sup> 办事缺乏道德标准，对什么是光荣，什么是耻辱弄不清。  
 1. 【[融冻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_don.md#融冻)】`ion2 don5` 冰雪融化  
 1. 【[融冻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_don.md#融冻)】`ion2 don5` <sup>[如东]</sup> 化冰。  

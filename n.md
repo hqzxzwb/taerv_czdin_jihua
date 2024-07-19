@@ -1871,8 +1871,6 @@
 1. 【[脓头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non_teu_r.md#脓头<sub>儿</sub>)】`non2 teu2 r` <sup>[如皋]</sup> 脓肿区上部（表层）的白头儿。  
 1. 【[𨑊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non.md#𨑊)】`non2` <sup>[兴化]</sup> ① 敷衍、糊弄：你有话实说，覅～人家。 ② 勉强混过：实在找不到旅馆，就在沙发上～一夜吧！｜《方言》卷十“～，奴动反……凡人语言过度，及妄施行，亦谓之～。”｜《吴下方言考》“……吴中谓勉强而充曰～得过。”  
 1. 【[挪移](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_i.md#挪移)】`nu2 i2` <sup>[兴化]</sup> ① 挪借：～款项。 ② 移动：向前～几步。  
-1. 【[努嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_jy.md#努嘴)】`nu3 jy3` <sup>[东台]</sup> 噘嘴示意。  
-1. 【[呶嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_jy.md#呶嘴)】`nu3 jy3` <sup>[如皋]</sup> 嘴向一边歪动，以示意。  
 1. 【[懦褦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_nae.md#懦褦)】`nu5 nae6` <sup>[如东]</sup> 胆小软弱：这个姑娘比较～。  
 1. 【[懦懦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_nu.md#懦懦)】`nu5 nu5` <sup>[如皋]</sup> 睡觉。儿语。“懦”字表音。  
 1. 【[懦懦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_nu.md#懦懦)】`nu5 nu5-3` <sup>[东台]</sup> ［同音］指小孩睡觉。  
@@ -1983,6 +1981,8 @@
 1. 【[餪寿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nun_sheu.md#餪寿)】`nun3 sheu6` <sup>[如皋]</sup> ① 老人将过生日，身体不好，先行祝寿。 ② 出室女提前一日祝寿。  
 1. 【[偄耐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nun_nae.md#偄耐)】`nun6 nae6` <sup>[如皋]</sup> 柔弱，性情慢而和顺：这个伢儿～，教不出去就不出去，一点儿不犟。  
 1. 【[努嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nv_jy.md#努嘴)】`nv3 jy3` <sup>[如皋]</sup> 嘴向一边歪动，以示意。  
+1. 【[努嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nv_jy.md#努嘴)】`nv3 jy3` <sup>[如皋]</sup> 嘴向一边歪动，以示意。  
+1. 【[努嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nv_jy.md#努嘴)】`nv3 jy3` <sup>[东台]</sup> 噘嘴示意。  
 1. 【[努努耐耐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nv_nv_nae_nae.md#努努耐耐)】`nv3 nv3 nae6 nae6` <sup>[兴化]</sup> 形容耐心坚持：他～的等儿子家来吃饭。  
 1. 【[揄捺人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_naeh_ren.md#揄捺人)】`ny2 naeh8 ren2` <sup>[东台]</sup> 嘲笑、讥讽别人。（揄，揶揄）  
 1. 【[女大十八变](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_da_sheh_baeh_bin.md#女大十八变)】`ny3 da6 sheh8 baeh7 bin5` <sup>[东台]</sup> 女孩子长大后模样变得快，越变越好看。  

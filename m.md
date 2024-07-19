@@ -442,6 +442,7 @@
 1. 【[蛮蛮拉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_maen_la_r.md#蛮蛮拉<sub>儿</sub>)】`maen2 maen2 la1 r` 乱七八糟的东西，无厘头的东西  
 1. 【[蛮蛮拉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_maen_la_r.md#蛮蛮拉<sub>儿</sub>)】`maen2 maen2 la1 r` <sup>[泰县]</sup> 不讲道理的人：这个女的是个～，跟她没得理好讲。  
 1. 【[蛮蛮浪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_maen_lan.md#蛮蛮浪)】`maen2 maen2 lan6` <sup>[东台]</sup> ［喻］不上规矩的言行或蛮不讲理的人：讲话要有根有据，有条有理，不能～。  
+1. 【[蛮蛮佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_maen_lo_r.md#蛮蛮佬<sub>儿</sub>)】`maen2 maen2 lo3 r` <sup>[如东]</sup> 不上规矩的话，乱七八糟的东西。  
 1. 【[蛮蛮<sub>儿</sub>理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_maen_r_li.md#蛮蛮<sub>儿</sub>理)】`maen2 maen2 r li3` <sup>[如东]</sup> 没有理论依据的道理。  
 1. 【[蛮牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_ngeu.md#蛮牛)】`maen2 ngeu2` <sup>[兴化]</sup> ① 难以驯服的牛。 ② （喻）人的性情倔强不驯顺：他是个～，差不多人管不住他。  
 1. 【[蛮皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_pi.md#蛮皮)】`maen2 pi2` <sup>[如皋]</sup> ① 顽皮。 ② 顽强：这伢儿～得狠，跌个把跟头不在乎。 ③ 生命力强：巴衣草交关～，节儿挨到泥就生根。  
@@ -457,7 +458,6 @@
 1. 【[蛮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_zz.md#蛮子)】`maen2 zz` 指讲难懂方言的人，尤其指南方的人  
 1. 【[蛮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_zz.md#蛮子)】`maen2 zz` <sup>[如东]</sup> 说吴语的人以及南方人。在南通地区指启海人。  
 1. 【[蛮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_zz.md#蛮子)】`maen2 zz` <sup>[如皋]</sup> 指南方人。（南蛮北侉）  
-1. 【[蛮蛮佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_maen_lo_r.md#蛮蛮佬<sub>儿</sub>)】`maen3 maen3 lo3 r` <sup>[如东]</sup> 不上规矩的话，乱七八糟的东西。  
 1. 【[慢痴慢痴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_chr_maen_chr.md#慢痴慢痴)】`maen6 chr1 maen6 chr1` <sup>[东台]</sup> 慢步走路，走走停停。  
 1. 【[慢船先开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_chun_xin_kae.md#慢船先开)】`maen6 chun2 xin1 kae1` <sup>[如东]</sup> 速度缓慢的船只要提前开航，也能按时到达目的地。比喻条件较差的单位做事要预先做好准备，才能实现既定目标。笨鸟先飞：我俫～，才能不误行程。  
 1. 【[慢打逍遥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_da_xio_io.md#慢打逍遥)】`maen6 da3 xio1 io2` <sup>[兴化]</sup> 形容不慌不忙的样子：大家急等他上车，他却～的，真是急人。  
@@ -608,6 +608,7 @@
 1. 【[没（得）𠵹答](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_gan_daeh.md#没（得）𠵹答)】`meh8 gan1 daeh7` <sup>[如皋]</sup> 不答理，不必答理。  
 1. 【[没（得）根](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_gen.md#没（得）根)】`meh8 gen1` <sup>[如皋]</sup> 没出处、无依靠。  
 1. 【[没（得）根底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_gen_di.md#没（得）根底)】`meh8 gen1 di3` <sup>[如皋]</sup> ① 无碍绊，飘浮不定。 ② 来历不明。  
+1. 【[没（得）觉睏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_go_kuen.md#没（得）觉睏)】`meh8 go5 kuen5` <sup>[如皋]</sup> ① 失眠：他一成多少日子总～，人难过。 ② 欠觉：伢儿夜里烦人，妈妈～｜连续受审，几夜～。  
 1. 【[没（得）拐<sub>儿</sub>打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_guae_r_da.md#没（得）拐<sub>儿</sub>打)】`meh8 guae3 r da3` <sup>[如皋]</sup> 见“没（得）板子打”。  
 1. 【[没（得）关拦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_guaen_laen.md#没（得）关拦)】`meh8 guaen1 laen2` <sup>[如皋]</sup> 口风不紧，易漏秘密。  
 1. 【[没（得）惯头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_guaen_teu.md#没（得）惯头)】`meh8 guaen5 teu2` <sup>[如皋]</sup> 懊悔、叹惜、恣心怜爱得不到回报或无好结果。  
@@ -615,7 +616,6 @@
 1. 【[没（得）魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_huen.md#没（得）魂)】`meh8 huen2` <sup>[如皋]</sup> ① 表程度：他打起仗来～的勇敢。 ② 胆大妄为：你做这种～的事！  
 1. 【[没（得）影子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_ien_zz.md#没（得）影子)】`meh8 ien3 zz` <sup>[如皋]</sup> 毫无根据：他说的事情～。  
 1. 【[没（得）教门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_jio_men.md#没（得）教门)】`meh8 jio5 men` <sup>[如皋]</sup> 素质差，不懂规矩，未受教育训练。  
-1. 【[没（得）觉睏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_ko_kuen.md#没（得）觉睏)】`meh8 ko5 kuen5` <sup>[如皋]</sup> ① 失眠：他一成多少日子总～，人难过。 ② 欠觉：伢儿夜里烦人，妈妈～；连续受审，几夜～。  
 1. 【[没（得）㧟<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_kuae_r.md#没（得）㧟<sub>儿</sub>)】`meh8 kuae3 r` <sup>[如皋]</sup> 没有框框儿，没有限度：用钱～，可多可少。  
 1. 【[没（得）来头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_lae_teu.md#没（得）来头)】`meh8 lae2 teu` <sup>[如皋]</sup> ① 无正当来源：～的货不能买，～的钱不能赚。 ② 玩得不满意，无趣。  
 1. 【[没（得）捞摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_lo_mah.md#没（得）捞摸)】`meh8 lo2 mah` <sup>[如皋]</sup> ① 无利可图。 ② 质差：这种布～。  
@@ -980,7 +980,7 @@
 1. 【[门荡使用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_tan_shr_ion.md#门荡使用)】`men2 tan6 shr3 ion6` <sup>[如东]</sup> 用于亲戚朋友的开支：现在的～不小。  
 1. 【[门荡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_tan_zz.md#门荡子)】`men2 tan6 zz` <sup>[如东]</sup> 安装大门的位置，包括高与宽。  
 1. 【[门头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_teu_zz.md#门头子)】`men2 teu2 zz` <sup>[兴化]</sup> 大门里的通道，又称“门楼子”。（借）门第、身份：人家是走大～里出来的。  
-1. 【[门梃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_tien.md#门梃)】`men2 tien2` <sup>[如东]</sup> 门帮两头的延伸部分，支撑门旋转。上端叫上门梃，下端叫下门梃。也称户枢、门轴、转梃、转肘。  
+1. 【[门莛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_tien.md#门莛)】`men2 tien2` <sup>[如东]</sup> 门帮两头的延伸部分，支撑门旋转。上端叫上门莛，下端叫下门莛。也称户枢、门轴、转莛、转肘。  
 1. 【[门条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_tio.md#门条)】`men2 tio2` <sup>[如皋]</sup> 缝纫术语之一：前襟钉钮处的底衬。  
 1. 【[门道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_to.md#门道)】`men2 to6` <sup>[如东]</sup> ① 门的通道。 ② 比喻办法：他有～，可以成功。  
 1. 【[门度子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_tv_zz.md#门度子)】`men2 tv6 zz` <sup>[如东]</sup> 门板的宽度。  

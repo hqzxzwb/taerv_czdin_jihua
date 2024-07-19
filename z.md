@@ -2080,12 +2080,12 @@
 1. 【[猪牢骚狗牢骚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_lo_so_geu_lo_so.md#猪牢骚狗牢骚)】`zhv1 lo2 so1 geu3 lo2 so1` <sup>[兴化]</sup> （贬）对经常寻事，找麻烦的人表示厌恶的话：他老没事找事，～的，烦死啊。  
 1. 【[猪老烧狗老烧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_lo_sho_geu_lo_sho.md#猪老烧狗老烧)】`zhv1 lo3 sho1 geu3 lo3 sho1` <sup>[泰县]</sup> 不分贵贱的一帮人：这个人～多唻。  
 1. 【[猪六碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_loh_un.md#猪六碗)】`zhv1 loh8 un3` <sup>[兴化]</sup> 以往农家以猪肉和猪内脏为主烹制，用来待客的六色菜肴。  
+1. 【[猪猡猡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_lu_lu.md#猪猡猡)】`zhv1 lu lu` <sup>[东台]</sup> （童语）指猪。成年人一般指的小猪。  
 1. 【[猪毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_mo.md#猪毛)】`zhv1 mo2` <sup>[如东]</sup> 猪科动物猪毛。  
 1. 【[猪毛草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_mo_co.md#猪毛草)】`zhv1 mo2 co3` <sup>[如东]</sup> 凤尾蕨科植物狭叶凤尾蕨，多年生草本。高约40厘米。根状茎短。叶柄丛生，细瘦有棱，稻秆色至褐棕色。叶二型，不生孢子的叶柄较短，广卵形2至2回分裂；着生孢子囊的叶柄较长，2回羽状分裂。孢子囊群着生于叶缘，连续不断，但不及裂片之顶端。生长在路边。  
 1. 【[猪娘花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_nian_hua.md#猪娘花)】`zhv1 nian hua1` <sup>[如皋]</sup> 乌蔹梅。  
 1. 【[猪脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_no.md#猪脑)】`zhv1 no3` <sup>[如东]</sup> 猪科动物猪脑。  
 1. 【[猪闹骚狗闹骚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_no_so_geu_no_so.md#猪闹骚狗闹骚)】`zhv1 no6 so1 geu3 no6 so1` <sup>[东台]</sup> 一群说起来沾亲带故，其实是不相干，无关紧要的人：他～的来得太多，应接不暇。  
-1. 【[猪呶呶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_nu_nu.md#猪呶呶)】`zhv1 nu nu` <sup>[东台]</sup> （童语）指猪。成年人一般指的小猪。  
 1. 【[猪脾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_pi.md#猪脾)】`zhv1 pi2` <sup>[如东]</sup> 猪科动物猪脾。  
 1. 【[猪脾气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_pi_qi.md#猪脾气)】`zhv1 pi2 qi5` <sup>[如皋]</sup> 粗鄙无礼的脾气。  
 1. 【[猪鼻子插葱——装象](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_pieh_zz_chaeh_con_zhuan_qian.md#猪鼻子插葱——装象)】`zhv1 pieh8 zz chaeh7 con1 zhuan1 qian6` <sup>[东台]</sup>   
@@ -2155,7 +2155,7 @@
 1. 【[疰夏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_xia.md#疰夏)】`zhv5 xia6` <sup>[泰县]</sup> 夏季身体不适。  
 1. 【[著](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv.md#著)】`zhv5` <sup>[如皋]</sup> 钉：在衣裳上～钮子。  
 1. 【[蛀虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_chon.md#蛀虫)】`zhv5 chon2` <sup>[东台]</sup> 指专门吃衣物的小虫，引申为有贪污行为的人。  
-1. 【[蛀稂裆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_lan_dan_r.md#蛀稂裆<sub>儿</sub>)】`zhv5 lan3 dan1 r` <sup>[如皋]</sup> 蛀虫吐丝缠住蛀屑形成的长串。  
+1. 【[蛀𧚅裆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_lan_dan_r.md#蛀𧚅裆<sub>儿</sub>)】`zhv5 lan3 dan1 r` <sup>[如皋]</sup> 蛀虫吐丝缠住蛀屑形成的长串。  
 1. 【[蛀毛癣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_mo_xiun.md#蛀毛癣)】`zhv5 mo2 xiun3` <sup>[如皋]</sup> 头癣，有银屑，可致秃发。  
 1. 【[蛀毛癣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_mo_xiun.md#蛀毛癣)】`zhv5 mo2 xiun3` <sup>[兴化]</sup> 秃疮。  
 1. 【[蛀牙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_nga.md#蛀牙)】`zhv5 nga2` <sup>[东台]</sup> 龋齿。  
