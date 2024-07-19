@@ -772,14 +772,14 @@
 1. 【[吞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_zz.md#吞子)】`ten5 zz` <sup>[兴化]</sup> （西北部分村镇语）嗓子：这几天受凉，～发痒。  
 1. 【[噋噋<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_ten_r.md#噋噋<sub>儿</sub>)】`ten5 ten5 r` <sup>[泰县]</sup> 慢慢地：你～走。  
 1. 【[褪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten.md#褪)】`ten5` 脱衣服，多指裤子。  
+1. 【[褪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten.md#褪)】`ten5` <sup>[如皋]</sup> ① 退避：大家一齐儿走，他总～吖后头。 ② 暗中选留：这张床是～吖把你的，别的床总捱人家订吖去啊。  
 1. 【[褪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten.md#褪)】`ten5` <sup>[如皋]</sup> 向下脱：～裤子。  
+1. 【[褪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten.md#褪)】`ten5` <sup>[东台]</sup> 悄悄地退让，逃避：党员干部遇到难事不能往后～。  
 1. 【[褪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten.md#褪)】`ten5` <sup>[兴化]</sup> ① 悄然退出：他一听手机响，忙从队伍里～出来。 ② 藏在袖子里：钱～吖衣袖里。‖也作“吞”｜《西游记》第三十四回有“～袖子，揣腰间”句。也读作tun5。  
 1. 【[褪的人家扁担头上的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_dii_ren_ga_bin_daen_teu_shan_dii.md#褪的人家扁担头上的)】`ten5 dii ren2 ga bin3 daen5 teu2 shan dii` <sup>[东台]</sup> 喻指学的人家已经过时的经验。  
 1. 【[褪裤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_kv_zz.md#褪裤子)】`ten5 kv5 zz` <sup>[如皋]</sup> 脱裤子。  
 1. 【[褪裤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_kv_zz.md#褪裤子)】`ten5 kv5 zz` <sup>[东台]</sup> 脱裤子。  
 1. 【[褪裤子放屁——多此一举](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_kv_zz_fan_pi_du_cz_ieh_jy.md#褪裤子放屁——多此一举)】`ten5 kv5 zz fan5 pi5 du1 cz3 ieh7 jy3` <sup>[东台]</sup>   
-1. 【[遁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten.md#遁)】`ten5` <sup>[东台]</sup> 悄悄地退让，逃避：党员干部遇到难事不能往后～。  
-1. 【[遯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten.md#遯)】`ten5` <sup>[如皋]</sup> ① 退避：大家一齐儿走，他总～吖后头。 ② 暗中选留：这张床是～吖把你的，别的床总捱人家订吖去啊。  
 1. 【[囤缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_gan.md#囤缸)】`ten6 gan1` <sup>[东台]</sup> 农家用的大粪坑。  
 1. 【[囤工夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_gon_fv.md#囤工夫)】`ten6 gon1 fv1` <sup>[东台]</sup> 专门安排时间：老人有病不能等有机会顺带去医院，要～送去看。  
 1. 【[囤盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_pun.md#囤盘)】`ten6 pun2` <sup>[如皋]</sup> 圆的木盘，做囤子的底脚。  
