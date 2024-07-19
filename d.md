@@ -377,7 +377,7 @@
 1. 【[打抱不平](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_po_beh_pien.md#打抱不平)】`da3 po6 beh7 pien2` <sup>[兴化]</sup> 帮助受欺压的人说话或采取某种行动。见“打不平”。  
 1. 【[打白水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_poh_shuei.md#打白水)】`da3 poh8 shuei3` <sup>[兴化]</sup> ① 旧时土匪在偏僻水道上拦船抢劫。也指旧军队散兵游勇私设关卡强行索捐。 ② 农村中社会黑恶劣力敲诈村民。  
 1. 【[打棚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_pon.md#打棚)】`da3 pon2` <sup>[如皋]</sup> ① 睡觉时抬膝，使被子棚起。 ② 将玉米、高梁秸打成捆结成棚，以便晾干。  
-1. 【[打破砂锅——璺（问）到底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_pu_sha_gu_ven_do_di.md#打破砂锅——璺（问）到底)】`da3 pu5 sha1 gu1 ven6 do5 di3` <sup>[东台]</sup>   
+1. 【[打破砂锅——璺（问）到底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_pu_sha_gu.md#打破砂锅——璺（问）到底)】`da3 pu5 sha1 gu1 men6（ven6） do5 di3` <sup>[东台]</sup>   
 1. 【[打破头圈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_pu_teu_qiun.md#打破头圈)】`da3 pu5 teu qiun1` <sup>[东台]</sup> 劝阻别人干某事：你炒股，要不是我～，你早就亏得认不得家啦！  
 1. 【[打伴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_pun.md#打伴)】`da3 pun6` <sup>[如皋]</sup> 结伴。  
 1. 【[打铺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_pv.md#打铺)】`da3 pv5` <sup>[兴化]</sup> 搭床、铺被褥：两个丫环在房门外～，房里桌上却点着碗灯。（《水浒传》五六）  
@@ -1461,7 +1461,7 @@
 1. 【[铛铛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_dan_r.md#铛铛<sub>儿</sub>)】`dan1 dan1 r` <sup>[如东]</sup> 算命先生敲的一种小铜锣。  
 1. 【[噹噹嗤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_dan_chr.md#噹噹嗤)】`dan2 dan2 chr1` <sup>[如皋]</sup> ① 象声词。 ② 叹词，表希望落空。  
 1. 【[挡车工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_cha_gon.md#挡车工)】`dan3 cha1 gon1` <sup>[如东]</sup> 工种的一种。从事挡车职业的工人。  
-1. 【[挡住咖话把子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_chv_a_hua_ba_zz.md#挡住咖话把子)】`dan3 chv6 a hua6 ba5 zz` <sup>[如皋]</sup> 插话而中止别人的讲话。  
+1. 【[挡住咖话把子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_chuh_ga_hua.md#挡住咖话把子)】`dan3 chuh7 ga hua6 ba5 zz` <sup>[如皋]</sup> 插话而中止别人的讲话。  
 1. 【[挡驾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_jia.md#挡驾)】`dan3 jia5` <sup>[东台]</sup> 婉辞，谢绝来客访问。  
 1. 【[挡马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_ma.md#挡马)】`dan3 ma3` <sup>[东台]</sup> 旧时剧场检票员。  
 1. 【[挡门面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_men_min.md#挡门面)】`dan3 men2 min6` <sup>[如东]</sup> 应酬：他箇是为啊～。  

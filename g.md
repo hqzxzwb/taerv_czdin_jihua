@@ -118,7 +118,6 @@
 1. 【[㨟屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_shr.md#㨟屎)】`gae1 shr3` <sup>[如东]</sup> 把大便向旁边推移。多指猪屎。  
 1. 【[㨟屎耙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_shr_pa.md#㨟屎耙)】`gae1 shr3 pa2` <sup>[如东]</sup> 㧕扒猪圈中猪屎的工具。有齿，有柄，形似爪耙。  
 1. 【[杚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae.md#杚)】`gae1` <sup>[如东]</sup> 量谷物时用以刮平斗斛的工具。  
-1. 【[盖烦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_faen.md#盖烦)】`gae1 faen2` <sup>[泰县]</sup> 掩盖：你不要～吖。  
 1. 【[稭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae.md#稭)】`gae1` 农作物秸秆：豆～  
 1. 【[稭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_zz.md#稭子)】`gae1 zz` <sup>[东台]</sup> 农作物脱粒后剩下的茎叶：～要还田，不能随意焚烧。  
 1. 【[稭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_zz.md#稭子)】`gae1 zz` <sup>[兴化]</sup> 农作物脱粒后剩下的茎：黄豆～；棉花～；芦秫～。  
@@ -206,6 +205,7 @@
 1. 【[盖住盒子摇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_chv_huh_zz_io.md#盖住盒子摇)】`gae5 chv huh8 zz io2` <sup>[兴化]</sup> 不让事态扩大，而在一定范围内悄悄处理：“……你若是验出来，我包管是个死命，我劝你不如～，便宜你许多呢！”（《广陵潮五》）  
 1. 【[盖烦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_faen.md#盖烦)】`gae5 faen2` <sup>[如皋]</sup> 帮着掩盖、打掩护。  
 1. 【[盖烦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_faen.md#盖烦)】`gae5 faen2` <sup>[东台]</sup> 巧妙地掩饰：妈妈见小伙惹新妇生吖气，连忙～说“他是开玩笑的，不要当真！”  
+1. 【[盖烦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_faen.md#盖烦)】`gae5 faen2` <sup>[泰县]</sup> 掩盖：你不要～吖。  
 1. 【[盖一](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_ieh.md#盖一)】`gae5 ieh7` <sup>[兴化]</sup> 第一、最好：她的唱功全团～。  
 1. 【[盖浇饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_jio_faen.md#盖浇饭)】`gae5 jio1 faen6` <sup>[如东]</sup> 大米饭做好后，盛在碗或盒中，上面再加肉菜等。  
 1. 【[盖浇面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_jio_min.md#盖浇面)】`gae5 jio1 min6` <sup>[如东]</sup> 面条煮熟盛在碗里，上面再加肉和菜。  

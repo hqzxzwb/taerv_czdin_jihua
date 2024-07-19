@@ -960,6 +960,7 @@
 1. 【[投](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu.md#投)】`teu2` <sup>[兴化]</sup> 相符、中的：把他俫两个人分开问话，看说的话哿～。｜“药袋上写的明白，如今就吃。吃了且看～不～，再好加减。”（《醒世烟缘传》二）  
 1. 【[投倒扣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_do_keu.md#投倒扣)】`teu2 do5 keu5` <sup>[泰县]</sup> 吻合：他俫两个人说的话～。  
 1. 【[投碱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_gaen.md#投碱)】`teu2 gaen3` <sup>[兴化]</sup> 在和好的面团之中，加入老酵（酵母），以加快发酵。  
+1. 【[投酵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_go.md#投酵)】`teu2 go5` <sup>[如皋]</sup> 加进酵母，使酵发得快。  
 1. 【[投酵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_go.md#投酵)】`teu2 go5` <sup>[兴化]</sup> 在和好的面团之中，加入老酵（酵母），以加快发酵。也作“投碱。”  
 1. 【[投光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_guan.md#投光)】`teu2 guan1` <sup>[兴化]</sup> ① 眼镜的度数和眼睛的屈光相符：这副眼镜～。 ② （借）看着顺眼：各投各的光。  
 1. 【[投行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_han.md#投行)】`teu2 han2` <sup>[兴化]</sup> 投奔从事中介业务的商行：早有两三个人拉住车夫问道｜“投谁家行的？”（《梼杌闲评》十二）  
@@ -978,7 +979,6 @@
 1. 【[投套](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_to.md#投套)】`teu2 to5` <sup>[兴化]</sup> ① 成套的东西各部分之间相吻合。 ② （引）相符：两个人说的话不～。  
 1. 【[投榫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_xyen.md#投榫)】`teu2 xyen3` <sup>[如东]</sup> 骨关节错位，进行整理复位，叫做投榫。也叫整骨。  
 1. 【[投榫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_xyen.md#投榫)】`teu2 xyen3` <sup>[兴化]</sup> ① 将榫放入卯眼中。 ② （喻）指和别人关系融洽：这个人脾气怪，总是跟大伙儿不～。“榫”又音suen3。  
-1. 【[酘酵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_go.md#酘酵)】`teu2 go5` <sup>[如皋]</sup> 加进酵母，使酵发得快。  
 1. 【[透](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu.md#透)】`teu5` 液体沸腾  
 1. 【[透](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu.md#透)】`teu5` <sup>[如皋]</sup> 熟透：饭煮得～。  
 1. 【[透](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu.md#透)】`teu5` <sup>[如东]</sup> ① 穿：～过去。 ② 冷水烧开了。 ③ 掺和：～点儿水。  
@@ -2040,6 +2040,7 @@
 1. 【[通扯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_cha.md#通扯)】`ton1 cha3` <sup>[如皋]</sup> 见“缠扯”❷。  
 1. 【[通扯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_cha.md#通扯)】`ton1 cha3` <sup>[如皋]</sup> ① 缠扯在一起。 ② 平扯。  
 1. 【[通草灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_co_den.md#通草灯)】`ton1 co3 den1` <sup>[如皋]</sup> 旧时灯节常见的一种用通草做面料的灯具。  
+1. 【[通街](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_gae.md#通街)】`ton1 gae1` <sup>[如皋]</sup> 城镇的所有街巷：这种药～总买不到。  
 1. 【[通贯手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_gun_sheu.md#通贯手)】`ton1 gun5 sheu3` <sup>[如东]</sup> 手掌纹路横向贯通的手称通贯手。  
 1. 【[通红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_hon.md#通红)】`ton1 hon2` <sup>[如东]</sup> 很红，十分红。  
 1. 【[通话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_hua.md#通话)】`ton1 hua6` <sup>[兴化]</sup> 订婚后，男方准备成亲，便请媒人和女方磋商婚期、财礼等事项。  
@@ -2047,7 +2048,6 @@
 1. 【[通夜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_ia.md#通夜)】`ton1 ia6` <sup>[泰县]</sup> 整夜：他～做活技。  
 1. 【[通融](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_ion.md#通融)】`ton1 ion2` <sup>[如东]</sup> ① 商议：各方～下子。 ② 谅解：请～下子。  
 1. 【[通脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_jiah.md#通脚)】`ton1 jiah7` <sup>[兴化]</sup> 二人抵足而眠。  
-1. 【[通街](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_kae.md#通街)】`ton1 kae1` <sup>[如皋]</sup> 城镇的所有街巷：这种药～总买不到。  
 1. 【[通吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_nga.md#通吖)】`ton1 nga` <sup>[兴化]</sup> 通通、仅有：～两个，你要就全拿去吧！  
 1. 【[通年到头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_nin_do_teu.md#通年到头)】`ton1 nin2 do5 teu2` <sup>[如皋]</sup> 整年地。  
 1. 【[通年到头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_nin_do_teu.md#通年到头)】`ton1 nin2 do5 teu2` <sup>[东台]</sup> 一年到头，整年的意思：他身体强健，～没有病。  
@@ -2613,9 +2613,9 @@
 1. 【[腿板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ty_baen.md#腿板)】`ty3 baen3` <sup>[如皋]</sup> 猪臀部肉。  
 1. 【[腿胻筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ty_hen_jien.md#腿胻筋)】`ty3 hen5 jien1` <sup>[如皋]</sup> 小腿前部的筋肉。  
 1. 【[腿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ty_zz.md#腿子)】`ty3 zz` <sup>[东台]</sup> 人、动物的下肢或物体下部支撑的部分。  
-1. 【[褪色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ty_seh.md#褪色)】`ty5 seh7` <sup>[如皋]</sup> 颜色变淡，逐渐消失。  
 1. 【[退潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ty_cho.md#退潮)】`ty5 cho2` <sup>[如皋]</sup> 落潮。  
 1. 【[退潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ty_cho.md#退潮)】`ty5 cho2` <sup>[东台]</sup> 海潮退去，落潮。  
+1. 【[退色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ty_seh.md#退色)】`ty5 seh7` <sup>[如皋]</sup> 颜色变淡，逐渐消失。  
 1. 【[退动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ty_ton.md#退动)】`ty5 ton` <sup>[如皋]</sup> ① 病情减轻。 ② 水位渐低。 ③ 人群渐退。  
 1. 【[退拙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ty_zhuh.md#退拙)】`ty5 zhuh7` <sup>[如皋]</sup> 退化了，笨拙了。  
 1. 【[兑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ty.md#兑)】`ty6` <sup>[如皋]</sup> ① 借：～钱。 ② 换：把大票子～成小票子。 ③ 发给：～现。 ④ 掺进、掺入：～水。加音dy5。  

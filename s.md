@@ -3807,7 +3807,6 @@
 1. 【[四碗四盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_un_sz_pun.md#四碗四盘)】`sz5 un3 sz5 pun2` <sup>[兴化]</sup> 菜肴的规格：四个冷盘，四碗烧菜，另有一道汤。多用于便酌。  
 1. 【[四乡八镇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_xian_baeh_zhen.md#四乡八镇)】`sz5 xian1 baeh7 zhen5` <sup>[如皋]</sup> 指县城以外的广大范围。在如皋，指如皋县城的内四镇迎春、锦绣、丰乐、大寺，外四镇坝桥、宏济、陆桥、普济，郊四乡。  
 1. 【[四仙桌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_xin_zhuah.md#四仙桌)】`sz5 xin1 zhuah7` <sup>[如皋]</sup> 房内打牌用的精制小方桌，四人座。  
-1. 【[巳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz.md#巳)】`sz6` <sup>[东台]</sup> 地支第六位。  
 1. 【[自在](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_cae.md#自在)】`sz6 cae6` <sup>[东台]</sup> 自由；快活：你坐啊河边钓钓鱼，看看书，多～啊！  
 1. 【[自家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ga.md#自家)】`sz6 ga1` <sup>[如皋]</sup> 自己。  
 1. 【[自家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ga.md#自家)】`sz6 ga1, sz6 ga3` <sup>[东台]</sup> 自己。  

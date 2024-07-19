@@ -1667,7 +1667,6 @@
 1. 【[歪西](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_xi.md#歪西)】`huae1 xi1` <sup>[如东]</sup> 偏西：月亮～。  
 1. 【[𠿎嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_jy.md#𠿎嘴)】`huae1 jy3` <sup>[如皋]</sup> 呶嘴以示意。  
 1. 【[𠿎嘴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_jy_r.md#𠿎嘴<sub>儿</sub>)】`huae1 jy3 r` <sup>[如皋]</sup> 口形不正。  
-1. 【[准河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_hu.md#准河)】`huae2 hu2` <sup>[兴化]</sup> 银河。谚曰：天上～，地上黄河。  
 1. 【[怀春](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_chuen.md#怀春)】`huae2 chuen1` <sup>[如东]</sup> 少女爱慕异性。  
 1. 【[怀得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_deh.md#怀得)】`huae2 deh7` <sup>[东台]</sup> 形容食量大：他肚子～呢，那们多肉包都吃光吖。  
 1. 【[怀恨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_hen.md#怀恨)】`huae2 hen6` <sup>[如东]</sup> 记着过去的不满或仇恨：～在心。  
@@ -1681,6 +1680,7 @@
 1. 【[淮北高腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_boh_go_qian.md#淮北高腔)】`huae2 boh7 go1 qian1` <sup>[兴化]</sup> 早年淮剧的一种曲调，有大锣大鼓伴奏，起调很高。  
 1. 【[淮河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_hu.md#淮河)】`huae2 hu2` <sup>[如东]</sup> ① 河名。发源于河南，流经安徽、江苏入海。 ② 银河。  
 1. 【[淮河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_hu.md#淮河)】`huae2 hu2` <sup>[如皋]</sup> 指银河。  
+1. 【[淮河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_hu.md#淮河)】`huae2 hu2` <sup>[兴化]</sup> 银河。谚曰：天上～，地上黄河。  
 1. 【[淮河东到西，家家备寒衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_hu_don_do_xi_ga_ga_pei_hun_i.md#淮河东到西，家家备寒衣)】`huae2 hu2 don1 do5 xi1 ga1 ga1 pei6 hun2 i1` <sup>[如皋]</sup> 银河东西向，指立冬前后。  
 1. 【[淮河南到北，家家种荞麦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_hu_nun_do_boh_ga_ga_zhon_qio_moh.md#淮河南到北，家家种荞麦)】`huae2 hu2 nun2 do5 boh7 ga1 ga zhon5 qio2 moh8` <sup>[如皋]</sup> 银河南北向，指立秋前后。  
 1. 【[淮饺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_jio.md#淮饺)】`huae2 jio3` <sup>[兴化]</sup> 一种皮儿很薄的饺子，今多称“馄饨”。也称“雀儿头”。  

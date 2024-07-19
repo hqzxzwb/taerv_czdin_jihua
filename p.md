@@ -1332,7 +1332,6 @@
 1. 【[婆媳睡一床——没公夫（功夫）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_xieh_shuei_ieh_chuan_meh_gon_fv.md#婆媳睡一床——没公夫（功夫）)】`pu2 xieh7 shuei5 ieh7 chuan2 meh8 gon1 fv1` <sup>[东台]</sup>   
 1. 【[婆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_zz.md#婆子)】`pu2 zz` <sup>[兴化]</sup> 中老年妇女，且常指仆妇：就是王纪先有两个待妾，在后面居住，有几个丫头～。（《续小五义》）  
 1. 【[婆子气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_zz_qi.md#婆子气)】`pu2 zz qi5` <sup>[兴化]</sup> 见“婆婆腔”。  
-1. 【[笸篮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_laen.md#笸篮)】`pu2 laen2` <sup>[如皋]</sup> 也说pu2 laen3，篾制深盘状盛器。口径约11.5m。  
 1. 【[剖解/破解](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_gae.md#剖解/破解)】`pu4 gae3` <sup>[泰县]</sup> 解剖。  
 1. 【[剖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu.md#剖)】`pu5` <sup>[如东]</sup> 用刀刃切开。训读。  
 1. 【[剖解](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_gae.md#剖解)】`pu5 gae3` <sup>[如东]</sup> 剖析解释：他的脑筋不分清，你～给他听。  
@@ -1461,12 +1460,11 @@
 1. 【[盘园户](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_iun_hv.md#盘园户)】`pun2 iun2 hv6` <sup>[如东]</sup> 城镇郊区以种植蔬菜为主要职业的农户，称盘园户。  
 1. 【[盘园田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_iun_tin.md#盘园田)】`pun2 iun2 tin2` <sup>[如皋]</sup> 种菜园子为业。  
 1. 【[盘搅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_jio.md#盘搅)】`pun2 jio3` <sup>[兴化]</sup> 日常开支或办事的花费：而今婚丧节庆，砌房造屋～大发吤！  
-1. 【[盘篮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_laen.md#盘篮)】`pun2 laen2` <sup>[如皋]</sup> 也说pu2 laen2，笸篮。篾制深盘状盛器。口径约11.5m。  
+1. 【[盘篮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_laen.md#盘篮)】`pun2 laen2, pun2 laen3, pu2 laen2, pu2 laen3` <sup>[如皋]</sup> 篾制深盘状盛器。口径约11.5m。  
 1. 【[盘篮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_laen.md#盘篮)】`pun2 laen2` <sup>[如东]</sup> 竹篾或柳条编成的器具，圆形，直径4尺，帮高1尺。用于装盛谷物。也称笸篮。  
 1. 【[盘篮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_laen.md#盘篮)】`pun2 laen2-3` <sup>[泰县]</sup> 大圆匾：这个～里放的是甚的？  
 1. 【[盘揽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_laen.md#盘揽)】`pun2 laen3` <sup>[兴化]</sup> 大篾匾：～里晒的萝卜干子。  
 1. 【[盘揽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_laen.md#盘揽)】`pun2 laen3` <sup>[泰县]</sup> 圆匾。  
-1. 【[盘篮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_laen.md#盘篮)】`pun2 laen3` <sup>[如皋]</sup> 即“笸篮”。  
 1. 【[盘篮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_laen.md#盘篮)】`pun2 laen3` <sup>[东台]</sup> 竹编的大圆匾子。农家常用于筛簸粮食和晾东西。  
 1. 【[盘面子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_min_zz.md#盘面子)】`pun2 min6 zz` <sup>[兴化]</sup> 木工在制作方桌时，将桌面的边框拼凑起来，并打磨光滑。  
 1. 【[盘吖摸的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_nga_mah_dii.md#盘吖摸的)】`pun2 nga mah8 dii` <sup>[如皋]</sup> 盘弄不停。  

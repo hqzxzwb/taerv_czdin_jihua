@@ -1024,7 +1024,7 @@
 1. 【[亲娘亲老子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_nian_qien_lo_zz.md#亲娘亲老子)】`qien1 nian2 qien1 lo3 zz` <sup>[兴化]</sup> 生身父母：这件事情，～来也不行。  
 1. 【[亲戚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_qieh.md#亲戚)】`qien1 qieh` <sup>[如东]</sup> 跟自己家庭有婚姻关系的家庭：我俫两家是～。  
 1. 【[亲戚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_qieh.md#亲戚)】`qien1 qieh` <sup>[东台]</sup> 跟自己家庭有血统关系或婚姻关系的家庭及成员。  
-1. 【[亲威本家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_qieh_ben_jia.md#亲威本家)】`qien1 qieh7 ben3 jia1` <sup>[兴化]</sup> 姻亲或有血缘关系的人、同宗的人：“……你老人家这些～，事体总还是好的，你何不去向他们商议商议……”（《儒林外史》五五）  
+1. 【[亲戚本家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_qieh_ben_jia.md#亲戚本家)】`qien1 qieh7 ben3 jia1` <sup>[兴化]</sup> 姻亲或有血缘关系的人、同宗的人：“……你老人家这些～，事体总还是好的，你何不去向他们商议商议……”（《儒林外史》五五）  
 1. 【[亲<sub>儿</sub>眷<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_r_jiun_r.md#亲<sub>儿</sub>眷<sub>儿</sub>)】`qien1 r jiun5 r` <sup>[兴化]</sup> 有亲戚关系的人：“……他想回扬州，我是很愿意，扬州～，这几年间也疏远得久了……”（《广陵潮》六四）  
 1. 【[亲属](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_shoh.md#亲属)】`qien1 shoh` <sup>[如东]</sup> 跟自己有血缘关系或婚姻关系的人：直系～。  
 1. 【[亲信](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_xien.md#亲信)】`qien1 xien5` <sup>[如东]</sup> 最信赖的人：王二是张三的～。  

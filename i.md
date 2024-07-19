@@ -181,7 +181,7 @@
 1. 【[㖂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#㖂)】`i6` <sup>[兴化]</sup> “吃”的贬义说法：～得下去就快～，～不下去就丢碗。  
 1. 【[㖂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#㖂)】`i6` <sup>[泰县]</sup> 勉强多食：总～下去。  
 1. 【[㖂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#㖂)】`i6` <sup>[泰县]</sup> （禁忌语）吃：你快点儿～。  
-1. 【[㖂砂䀇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_sha_pun.md#㖂砂䀇)】`i6 sha1 pun2` <sup>[如皋]</sup> 比喻食欲不振，难下咽状。砂䀇：胃。  
+1. 【[㖂砂䀇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_sha_gv.md#㖂砂䀇)】`i6 sha1 gv1` <sup>[如皋]</sup> 比喻食欲不振，难下咽状。砂䀇：胃。  
 1. 【[义塾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_shoh.md#义塾)】`i6 shoh8` <sup>[如皋]</sup> 旧时免费施教的学塾。  
 1. 【[勚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#勚)】`i6` 磨损  
 1. 【[勚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#勚)】`i6` <sup>[如皋]</sup> 磨损：鞋底跑啊～掉啊。  

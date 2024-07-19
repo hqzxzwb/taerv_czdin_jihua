@@ -1909,9 +1909,9 @@
 1. 【[衲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nuh_zz.md#衲子)】`nuh8 zz` <sup>[如东]</sup> 尿布。  
 1. 【[衲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nuh_zz.md#衲子)】`nuh8 zz` <sup>[兴化]</sup> 尿布。特指双层或铺了棉絮的垫子：尿布～。  
 1. 【[衲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nuh_zz.md#衲子)】`nuh8 zz` <sup>[泰县]</sup> 尿布。  
-1. 【[南场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nun_chan.md#南场)】`nun1 chan2` 南面邻居  
 1. 【[南北场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nun_boh_chan.md#南北场)】`nun2 boh7 chan2` 南北面邻居  
 1. 【[南北货店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nun_boh_hu_din.md#南北货店)】`nun2 boh7 hu5 din5` <sup>[如皋]</sup> 经营南、北方土特产的店铺。  
+1. 【[南场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nun_chan.md#南场)】`nun2 chan2` 南面邻居  
 1. 【[南场话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nun_chan_hua.md#南场话)】`nun2 chan2 hua6` <sup>[如东]</sup> 南通的通东话。  
 1. 【[南场人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nun_chan_ren.md#南场人)】`nun2 chan2 ren2` <sup>[如东]</sup> 说通东话的人。  
 1. 【[南瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nun_gua.md#南瓜)】`nun2 gua1` <sup>[如东]</sup> 葫芦科植物南瓜，也称金瓜、番瓜。  

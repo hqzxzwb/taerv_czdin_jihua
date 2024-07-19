@@ -1501,7 +1501,6 @@
 1. 【[终七](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_qieh.md#终七)】`zhon1 qieh7` <sup>[如东]</sup> 人死之后第四十九天“烧七”，为最后一次，称终七。  
 1. 【[终朝漫日的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_zho_mun_rih_dii.md#终朝漫日的)】`zhon1 zho1 mun6 rih8 dii` <sup>[如皋]</sup> 整天整天地：他～在人家帮忙。  
 1. 【[衷心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_xien.md#衷心)】`zhon1 xien1` <sup>[如东]</sup> 出于内心：～感谢！  
-1. 【[高低](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_di.md#高低)】`zhon1 di1` <sup>[如皋]</sup> 终归。  
 1. 【[喠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon.md#喠)】`zhon3` 吃的贬称  
 1. 【[喠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon.md#喠)】`zhon3` <sup>[如皋]</sup> 贬指吃：你去～饭！  
 1. 【[喠饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_faen.md#喠饭)】`zhon3 faen6` <sup>[如东]</sup> 大口地吃饭，贬义：你还不家来～！  

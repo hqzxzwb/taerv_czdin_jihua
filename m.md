@@ -761,11 +761,11 @@
 1. 【[没皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_pi.md#没皮)】`meh8 pi2` <sup>[泰县]</sup> 不知羞耻的人。  
 1. 【[没屁放](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_pi_fan.md#没屁放)】`meh8 pi5 fan5` <sup>[如东]</sup> 比喻没有话说：这次他来～。  
 1. 【[没屁股急](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_pi_gu_jieh.md#没屁股急)】`meh8 pi5 gu jieh7` <sup>[兴化]</sup> 形容人坐不住，闲不下：他这个人～，叫他看看书根本办不到。  
+1. 【[没屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_pi_gu.md#没屁股)】`meh8 pi5 gu3` <sup>[泰县]</sup> 坐不往的人。  
 1. 【[没屁眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_pi_ngaen.md#没屁眼)】`meh8 pi5 ngaen3` <sup>[兴化]</sup> ① 缺德、喜欢恶作剧：这个人～，专拿老实人开心。 ② 做事不顾后果：他为药老鼠，连猫啊狗的全药杀咖，真是～。  
 1. 【[没鼻子灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_pieh_zz_huei.md#没鼻子灰)】`meh8 pieh8 zz huei1` <sup>[兴化]</sup> 碰壁、难堪：老和尚碰个～，头也不好意思抬，就走了。（兴文《吹牛》）  
 1. 【[没鼻子没脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_pieh_zz_meh_lin.md#没鼻子没脸)】`meh8 pieh8 zz meh8 lin3` <sup>[兴化]</sup> 形容不顾情面地：老王把老吴～的熊吖一顿。  
 1. 【[没病没冲的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_pien_meh_chon_dii.md#没病没冲的)】`meh8 pien6 meh8 chon5 dii` <sup>[东台]</sup> 身体健康，什么病也没有。  
-1. 【[没屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_pv_gu.md#没屁股)】`meh8 pv5 gu` <sup>[泰县]</sup> 坐不往的人。  
 1. 【[没轻没重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_qien_meh_chon.md#没轻没重)】`meh8 qien1 meh8 chon6` <sup>[如东]</sup> 不知轻重：说话～的。  
 1. 【[没钱打肉吃，睡觉养精神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_qin_da_roh_qieh_shuei_go_ian_jien_shen.md#没钱打肉吃，睡觉养精神)】`meh8 qin2 da3 roh8 qieh7 shuei5 go5 ian3 jien1 shen` <sup>[东台]</sup> 有养生道理，也是穷人的自我解嘲。  
 1. 【[没钱过河——远转](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_qin_gu_hu_iun_zhun.md#没钱过河——远转)】`meh8 qin2 gu5 hu2 iun3 zhun5` <sup>[东台]</sup>   

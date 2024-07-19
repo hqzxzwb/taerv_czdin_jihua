@@ -225,8 +225,8 @@
 1. 【[加厚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_heu.md#加厚)】`jia1 heu6` <sup>[兴化]</sup> 指待遇或回报从丰：你我兄弟，你的工资、奖金一定比旁人～。  
 1. 【[加一](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ieh.md#加一)】`jia1 ieh7` <sup>[如皋]</sup> 加一成。  
 1. 【[加一](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ieh.md#加一)】`jia1 ieh7` <sup>[兴化]</sup> ① 加百分之十：～利。 ② 格外、超出应有限度：～奉承。｜光棍打九九，不打～。  
-1. 【[加油添酱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ieu_tin_cv.md#加油添酱)】`jia1 ieu2 tin1 cv5` <sup>[兴化]</sup> （贬）说话不切实际，含有虚假成份：他说话～的，十句听不得三句。‖也说“加油添醋”。  
 1. 【[加油添醋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ieu_tin_cv.md#加油添醋)】`jia1 ieu2 tin1 cv5` <sup>[兴化]</sup> 见“加油添酱”。  
+1. 【[加油添酱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ieu_tin_jian.md#加油添酱)】`jia1 ieu2 tin1 jian5` <sup>[兴化]</sup> （贬）说话不切实际，含有虚假成份。也说“加油添醋”：他说话～的，十句听不得三句。  
 1. 【[加基](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ji.md#加基)】`jia1 ji1` <sup>[如皋]</sup> 制作加工加料，一丝不苟。见“实剌”。  
 1. 【[加基货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ji_hu.md#加基货)】`jia1 ji1 hu5` <sup>[如皋]</sup> 加工加料质量好的货物。  
 1. 【[加力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_lieh.md#加力)】`jia1 lieh8` <sup>[如皋]</sup> 西乡镇名。地处扬泰冈地南缘交通线上的高沙土地区。秦时九江郡移民和西汉东粤国移民开发了这块土地，供旅人暂歇、饮食，故名加力。  
@@ -1607,6 +1607,7 @@
 1. 【[浇桩水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_zhuan_shuei.md#浇桩水)】`jio1 zhuan1 shuei3` <sup>[如皋]</sup> 见“彩水”。  
 1. 【[浇桩水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_zhuan_shuei.md#浇桩水)】`jio1 zhuan1 shuei3` <sup>[如皋]</sup> 旧时人力踏水车戽水时的有奖竞赛。此时戽的水多而急，且冲力大。多在抗旱抢水时采用。  
 1. 【[焦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio.md#焦)】`jio1` <sup>[兴化]</sup> ① 烦闷无聊：着～；～人子。 ② 表示瞧不起人的话：～啊｜～煞咖。  
+1. 【[焦干逼卜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_gun_bieh_boh.md#焦干逼卜)】`jio1 gun1 bieh7 boh` <sup>[如东]</sup> 河里没有水，非常干燥。  
 1. 【[焦话忑忑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_hua_teh_teh.md#焦话忑忑)】`jio1 hua6 teh7 teh7` <sup>[东台]</sup> 说了许多矫揉造作、阴阳怪气的话。  
 1. 【[焦盐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_in.md#焦盐)】`jio1 in2` <sup>[兴化]</sup> 由炒焦的芝麻屑及糖盐等拌和而成的月饼、烧饼的馅。  
 1. 【[焦里马烘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_lii_ma_hon.md#焦里马烘)】`jio1 lii ma3 hon1` <sup>[东台]</sup> ① 形容食物被烧枯了。 ② 形容人在阳光下暴晒过久，皮肤黑黝黝的样子。  
@@ -1622,7 +1623,6 @@
 1. 【[焦糏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_xiuh.md#焦糏)】`jio1 xiuh` <sup>[泰县]</sup> 大麦或元麦炒熟磨成的细面粉。  
 1. 【[焦屑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_xiuh.md#焦屑)】`jio1 xiuh7` <sup>[东台]</sup> 炒熟的面粉或米粉，用开水泡了吃：（童谣）六月六，吃筷～长块肉。  
 1. 【[焦糏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_xiuh.md#焦糏)】`jio1 xiuh7` <sup>[兴化]</sup> 炒面。有糯米和小麦的两种。  
-1. 【[燋干逼卜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_gun_bieh_boh.md#燋干逼卜)】`jio1 gun1 bieh7 boh` <sup>[如东]</sup> 河里没有水，非常干燥。  
 1. 【[蛟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio.md#蛟)】`jio1` <sup>[如皋]</sup> 扬子鳄。鼍龙。今很少见。  
 1. 【[蛟水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_shuei.md#蛟水)】`jio1 shuei3` <sup>[如皋]</sup> 长江发的大水。旧传常能见蛟，而以为即蛟所为。  
 1. 【[敽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio.md#敽)】`jio3` <sup>[如皋]</sup> 缝合  

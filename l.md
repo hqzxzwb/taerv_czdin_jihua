@@ -1627,7 +1627,7 @@
 1. 【[鲢子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_zz.md#鲢子)】`lin2 zz` <sup>[如皋]</sup> 鲢。或作“鲢子鱼”。  
 1. 【[敛饥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_ji.md#敛饥)】`lin3 ji1` <sup>[如皋]</sup> 略吃点，暂抵饥饿。  
 1. 【[脸摆啊下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_bae_a_ha.md#脸摆啊下)】`lin3 bae3 a ha` <sup>[如皋]</sup> 见“死脸”。  
-1. 【[脸扳吖下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_baen_nga_ha.md#脸扳吖下)】`lin3 baen3 nga ha` <sup>[如皋]</sup> 脸部毫无表情，或过分严肃、带有怒色。  
+1. 【[脸板吖下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_baen_nga_ha.md#脸板吖下)】`lin3 baen3 nga ha` <sup>[如皋]</sup> 脸部毫无表情，或过分严肃、带有怒色。  
 1. 【[脸不得下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_beh_deh_xia.md#脸不得下)】`lin3 beh7 deh7 xia6` <sup>[如皋]</sup> 窘态：我同他当面白谎，他～。  
 1. 【[脸不脸嘴不嘴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_beh_lin_jy_beh_jy_dii.md#脸不脸嘴不嘴的)】`lin3 beh7 lin3 jy3 beh7 jy3 dii` <sup>[如皋]</sup> 对来人极不友好的样子。  
 1. 【[脸敞下来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_chan_ha_lae_a.md#脸敞下来啊)】`lin3 chan3 ha lae2 a` <sup>[如皋]</sup> 隐私被揭，索性公开化。  

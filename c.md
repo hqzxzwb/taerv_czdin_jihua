@@ -368,7 +368,6 @@
 1. 【[𠞊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha.md#𠞊)】`cha1` <sup>[东台]</sup> 除一般释义外，东台人指用筷子嫌菜频率快搛得多：豆腐吃吃肉～～｜好菜尽（jyen3）你～。  
 1. 【[𠞊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha.md#𠞊)】`cha1` <sup>[泰县]</sup> ① 用叉子挑东西：～草。（《广韵》平声麻韵初牙切：“㔆物。”） ② 捞：把面～起来。  
 1. 【[𠞊住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_chv.md#𠞊住)】`cha1 chv` <sup>[泰县]</sup> ① 挽住。 ② 说话时，中途有误，遭人指责。  
-1. 【[扯野<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ia_r.md#扯野<sub>儿</sub>)】`cha2 ia3 r` <sup>[兴化]</sup> 闲聊。  
 1. 【[搽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha.md#搽)】`cha2` 望脸上身上涂抹化妆品护肤霜之类  
 1. 【[搽粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_fen.md#搽粉)】`cha2 fen3` <sup>[如东]</sup> 往脸上涂抹粉末状的化装品。  
 1. 【[搽头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_teu.md#搽头)】`cha2 teu2` <sup>[如皋]</sup> ① 给头发涂油或泡花儿水等定型剂。 ② 给头疮搽药。 ③ 比喻整治其人。  
@@ -476,6 +475,7 @@
 1. 【[扯野<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ia_r.md#扯野<sub>儿</sub>)】`cha3 ia3 r` <sup>[如东]</sup> 借故消闲：我在这许～。  
 1. 【[扯野<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ia_r.md#扯野<sub>儿</sub>)】`cha3 ia3 r` <sup>[如皋]</sup> ① 岔开。借故：他～去解手，遛之大吉。 ② 分散注意力：他做事不专心，光是要～；你同他～，省得他心焦。  
 1. 【[扯野<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ia_r.md#扯野<sub>儿</sub>)】`cha3 ia3 r` <sup>[东台]</sup> 暂停正经事，引出另外的话题调节或休闲一下：你俫忙你俫的，我谈这些不过是～。  
+1. 【[扯野<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ia_r.md#扯野<sub>儿</sub>)】`cha3 ia3 r` <sup>[兴化]</sup> 闲聊。  
 1. 【[扯野<sub>儿</sub>摸鼻子的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ia_r_mah_pieh_zz_dii.md#扯野<sub>儿</sub>摸鼻子的)】`cha3 ia3 r mah8 pieh8 zz dii` <sup>[如皋]</sup> ① 一种交际、交谈手段——渐渐引入主题。如：《触龙说赵太后》。 ② 借故去接近、交往：他～同人家谈家常，谈谈就熟识起来啊。见“倚砟儿”条。  
 1. 【[扯吆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_io_r.md#扯吆<sub>儿</sub>)】`cha3 io1 r` <sup>[如皋]</sup> 空竹。本地用两段竹筒制成哑铃形，刻有哨口，高速扯发出嗡嗡声。是体育、娱乐、杂技用具。  
 1. 【[扯鸡扽炮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ji_den_po.md#扯鸡扽炮)】`cha3 ji1 den5 po5` <sup>[兴化]</sup> 夸大其词：老沈买彩票得十元小奖，有人～说成十万。  
@@ -2746,6 +2746,7 @@
 1. 【[字序](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_xy.md#字序)】`cz6 xy6` <sup>[东台]</sup> 辈分，家族亲戚之间的世系次第：吴嘉纪是嘉～｜德龙昌宗广是崔氏家族五代人的～。  
 1. 【[寺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz.md#寺)】`cz6` <sup>[东台]</sup> ① 古代官署名：大理～。 ② 佛教庙宇：三昧～。  
 1. 【[寺院起火——庙灾（妙哉）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_iun_qi_hu_mio_zae.md#寺院起火——庙灾（妙哉）)】`cz6 iun6 qi3 hu3 mio6 zae1` <sup>[东台]</sup>   
+1. 【[巳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz.md#巳)】`cz6-sz6` <sup>[东台]</sup> 地支第六位。  
 1. 【[牸牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_ngeu.md#牸牛)】`cz6 ngeu2` <sup>[如东]</sup> 壮年的母牛。  
 1. 【[牸牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_ngeu.md#牸牛)】`cz6 ngeu2` <sup>[如皋]</sup> 母水牛。  
 1. 【[牸牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_ngeu.md#牸牛)】`cz6 ngeu2` <sup>[如皋]</sup> 母牛。  
