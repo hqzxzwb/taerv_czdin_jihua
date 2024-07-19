@@ -1537,7 +1537,7 @@
 1. 【[䟳古𧺕东](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_gv_shah_don.md#䟳古𧺕东)】`chr1 gv1 shah8 don1` <sup>[如皋]</sup> 撒娇、任性、轻佻不羁、恣意妄为的样子。  
 1. 【[䟳撇撇<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_pih_pih_r.md#䟳撇撇<sub>儿</sub>)】`chr1 pih7 pih7 r` <sup>[泰县]</sup> 扔瓦片，使瓦片在水面上像蜻蜓点水似的向前行。  
 1. 【[䟳人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_ren.md#䟳人)】`chr1 ren2` <sup>[东台]</sup> 脚下滑动，人容易跌倒：当心，刚刚落雨，路上～。  
-1. 【[䟳瓦板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_va_baen.md#䟳瓦板)】`chr1 va3 baen5` <sup>[东台]</sup> 儿童游戏，大致沿水平方向朝水面投掷瓦片或扁平的贝壳，使之在水面上弹跳前进。又叫“打水漂儿”“㪕撇撇”。  
+1. 【[䟳瓦板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_va_baen.md#䟳瓦板)】`chr1 va3 baen` <sup>[东台]</sup> 儿童游戏，大致沿水平方向朝水面投掷瓦片或扁平的贝壳，使之在水面上弹跳前进。又叫“打水漂儿”“㪕撇撇”。  
 1. 【[嗤嗤嚓嚓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_chr_caeh_caeh.md#嗤嗤嚓嚓)】`chr1 chr1 caeh7 caeh7` <sup>[东台]</sup> 私下小声议论的声音：某老板谈的业务透明度不高，单位里～的，怀疑他拿啊回扣。  
 1. 【[嗤儿㗘儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_er_pah_er.md#嗤儿㗘儿)】`chr1 er pah7 er` <sup>[兴化]</sup> 说话时嘴里带脏字：他说话嘴里～的，叫人听吖不舒服。  
 1. 【[嗤而㗘而](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_er_pah_er.md#嗤而㗘而)】`chr1 er pah7 er` <sup>[泰县]</sup> 说不中听的话。  

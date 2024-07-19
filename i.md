@@ -127,7 +127,7 @@
 1. 【[饐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#饐)】`i3` <sup>[如皋]</sup> ① 腐烂：馒头炣啊～啊；仿纸见水就～；豆腐是～的，不能搠。 ② 腐败、化脓：百页～啊｜疮口发～。 ③ 延误、恶化：工作挨～啊脱掉啊；事情发咖～。  
 1. 【[饐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#饐)】`i3` <sup>[如东]</sup> 物品浸湿后变得过分松软：馓子泡～啊。  
 1. 【[饐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#饐)】`i3` <sup>[东台]</sup> 食物久置而变质变味。（《说文解字段注》从食，壹声。乙冀切，古音在十二部）：昨晚的剩菜摆到今吖中上，都～啊啦。  
-1. 【[饐拐拐的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_kuae_kuae_dii.md#饐拐拐的)】`i3 kuae kuae dii` <sup>[如皋]</sup> 腐烂状：天太热，隔宿的百页～，不能吃。  
+1. 【[饐拐拐的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_guae_guae_dii.md#饐拐拐的)】`i3 guae guae dii` <sup>[如皋]</sup> 腐烂状：天太热，隔宿的百页～，不能吃。  
 1. 【[㱲妞<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_ni_r.md#㱲妞<sub>儿</sub>)】`i5 ni3 r` <sup>[如皋]</sup> ① 幼嫩的瓜果枯萎了。 ② 比喻早产。 ③ 比喻事情刚开始就停止了。  
 1. 【[㱲掉啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_tio_a.md#㱲掉啊)】`i5 tio a` <sup>[如皋]</sup> ① 见“㱲妞儿”。幼嫩的瓜果枯萎了。 ② 比喻早产。 ③ 比喻事情刚开始就停止了。  
 1. 【[意㽹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_faen.md#意㽹)】`i5 faen5` 恶心，要吐的感觉  
@@ -848,7 +848,7 @@
 1. 【[一抖二活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_deu_er_huh.md#一抖二活)】`ieh7 deu3 er6 huh8` <sup>[如皋]</sup> 不住颤抖。  
 1. 【[一斗米是恩人，三石米是仇人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_deu_mi_shr_ngen_ren_saen_daen_mi_shr_cheu_ren.md#一斗米是恩人，三石米是仇人)】`ieh7 deu3 mi3 shr6 ngen1 ren2 saen1 daen5 mi3 shr6 cheu2 ren2` <sup>[如皋]</sup> ① 意为媳妇不孝，姑娘可亲。 ② 适度济人成为恩人，过度济人变为仇人。  
 1. 【[一斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_deu.md#一斗)】`ieh7 deu5` <sup>[泰县]</sup> 一直：～说叫你不要走，你就是不所。  
-1. 【[一滴鼻涕忑咖锅里，我能派多少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_dieh_pieh_ti_teh_ga_gu_lii_ngu_nen_pae_du_sho.md#一滴鼻涕忑咖锅里，我能派多少)】`ieh7 dieh7 pieh8 ti teh8 ga gu1 lii ngu3 nen2 pae5 du1 sho3` <sup>[泰兴]</sup> “派”，得到，分得。喻指因对自己的利益影响很小就不去计较，这是一种典型的事不关己的个人主义行为。  
+1. 【[一滴鼻涕忑咖锅里，我能派多少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_dieh_pieh_ti.md#一滴鼻涕忑咖锅里，我能派多少)】`ieh7 dieh7 pieh8 ti teh7 ga gu1 lii ngu3 nen2 pae5 du1 sho3` <sup>[泰兴]</sup> “派”，得到，分得。喻指因对自己的利益影响很小就不去计较，这是一种典型的事不关己的个人主义行为。  
 1. 【[一滴水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_dieh_shuei.md#一滴水)】`ieh7 dieh7 shuei3` <sup>[东台]</sup> 旧式木架雕花铺板床，配有灯柜、踏板，有一道门扇和戗板。  
 1. 【[一顶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_dien.md#一顶)】`ieh7 dien3` <sup>[如皋]</sup> 副词，相当于“最”，也可与“最”配用：在我俫班上～他最好！  
 1. 【[一顶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_dien.md#一顶)】`ieh7 dien3` <sup>[兴化]</sup> 副词，相当于最、尤其：这吖多客人，～他难服待。  

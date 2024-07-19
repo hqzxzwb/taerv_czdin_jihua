@@ -684,7 +684,7 @@
 1. 【[冗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ron.md#冗)】`ron5` <sup>[如东]</sup> 软弱，无能：这个人太～。  
 1. 【[冗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ron.md#冗)】`ron5` <sup>[东台]</sup> 太差。  
 1. 【[冗脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ron_jiah_r.md#冗脚<sub>儿</sub>)】`ron5 jiah7 r` <sup>[如皋]</sup> 无用、能力差的人。  
-1. 【[润泽泽的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ruen_cheh_cheh_dii.md#润泽泽的)】`ruen6 cheh8 cheh8 dii` <sup>[如皋]</sup> 手感有潮气。  
+1. 【[润泽泽的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ruen_ceh_ceh_dii.md#润泽泽的)】`ruen6 ceh8 ceh8 dii` <sup>[如皋]</sup> 手感有潮气。  
 1. 【[润和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ruen_hu.md#润和)】`ruen6 hu` <sup>[如皋]</sup> ① 牌气温和，态度和蔼：脾气～；说话～。 ② 醇，不辣：酒味～。 ③ 天气不冷不热、不乾不湿：天气～。  
 1. 【[润里抹杀的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ruen_lii_maeh_shaeh_dii.md#润里抹杀的)】`ruen6 lii maeh8 shaeh7 dii` <sup>[如皋]</sup> ① 似潮非潮的感觉。 ② 喻脾气䵑而不爽。  
 1. 【[润湿湿的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ruen_sheh_sheh_dii.md#润湿湿的)】`ruen6 sheh7 sheh7 dii` <sup>[如皋]</sup> 湿漉漉的。  

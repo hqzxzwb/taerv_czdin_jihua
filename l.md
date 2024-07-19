@@ -862,6 +862,7 @@
 1. 【[勒擘邪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_boh_qia.md#勒擘邪)】`leh8 boh7 qia2` <sup>[如东]</sup> ① 脾气很犟。 ② 脾气很犟的人。  
 1. 【[勒车打马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_cha_da_ma.md#勒车打马)】`leh8 cha1 da3 ma3` <sup>[兴化]</sup> （借）乘机要挟：你不给他加运价，他就不给你装运，还让你支付滞港费，真是～！  
 1. 【[勒吊筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_dio_jien.md#勒吊筋)】`leh8 dio5 jien1` <sup>[如东]</sup> 扯皮：还在那许～。  
+1. 【[勒咖半大天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_ga_bun_da_tin.md#勒咖半大天)】`leh8 ga bun5 da6 tin1` <sup>[如皋]</sup> 因说话不畅、不能清淅表达，而说了很久。  
 1. 【[勒咖紧吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_ga_jien_nga.md#勒咖紧吖)】`leh8 ga jien3 nga` <sup>[东台]</sup> ① 用绳、索、草或线等物把东西扎紧。 ② 握紧拳头，捏紧手心。  
 1. 【[勒咖嗓子召](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_ga_san_zz_cho.md#勒咖嗓子召)】`leh8 ga san3 zz cho6` <sup>[如皋]</sup> 尽量放声大叫。  
 1. 【[勒车打马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_jy_da_ma.md#勒车打马)】`leh8 jy1 da3 ma3` <sup>[东台]</sup> 既要吃车、又要吃马，喻指以巧妙的手段迫使对方让步。（车读若居）  
@@ -894,7 +895,6 @@
 1. 【[勒桩扣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_zhuan_keu.md#勒桩扣)】`leh8 zhuan1 keu5` <sup>[泰县]</sup> 钱和物掌握在自己手里，强制对方要按照自己的意图办。  
 1. 【[勒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_zz.md#勒子)】`leh8 zz` <sup>[如皋]</sup> 旧时老妇人压发、护太阳穴的黑平绒箍子。  
 1. 【[勒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_zz.md#勒子)】`leh8 zz` <sup>[兴化]</sup> 旧时，中老年妇女冬天保暖用的头饰。抹额。  
-1. 【[嘞咖半大天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_ga_bun_da_tin.md#嘞咖半大天)】`leh8 ga bun5 da6 tin1` <sup>[如皋]</sup> 因说话不畅、不能清淅表达，而说了很久。  
 1. 【[物桩扣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_zuan_keu.md#物桩扣)】`leh8 zuan1 keu5` <sup>[兴化]</sup> 扣押财物，强令对方就范：钱落咖他手～，不听他不行。  
 1. 【[肋膊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_bah.md#肋膊)】`leh8 bah7` <sup>[兴化]</sup> 胸膊的两侧：这几天咳嗽，～都疼吖。  
 1. 【[肋骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_gueh.md#肋骨)】`leh8 gueh7` <sup>[如东]</sup> ① 人体胸部两侧的骨骼。 ② 船体两侧的小梁，与龙骨成十字形。  
@@ -2319,7 +2319,7 @@
 1. 【[六角真真的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_gah_zhen_zhen_dii.md#六角真真的)】`loh8 gah7 zhen1 zhen1 dii` <sup>[如皋]</sup> 极为真切、真实：我看得～！他说得～。  
 1. 【[六角铮铮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_gah_zhen_zhen.md#六角铮铮)】`loh8 gah7 zhen1 zhen1` <sup>[泰县]</sup> 有棱有角的：三个钱买个金刚脐～的。  
 1. 【[六角铮铮的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_gah_zhen_zhen_dii.md#六角铮铮的)】`loh8 gah7 zhen1 zhen1 dii` <sup>[东台]</sup> ① 十分认真，一丝不苟； ② （贬）形容说得有模有样、有棱有角。但言过其实。  
-1. 【[六穀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_goh.md#六穀)】`loh8 goh7` <sup>[如皋]</sup> ① 稻、粱、菽、稷、黍、麦。 ② 苡仁又名。  
+1. 【[六谷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_goh.md#六谷)】`loh8 goh7` <sup>[如皋]</sup> ① 稻、粱、菽、稷、黍、麦。 ② 苡仁又名。  
 1. 【[六个亡人少掉个——五（舞）鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_gu_van_ren_sho_tio_gu_v_guei.md#六个亡人少掉个——五（舞）鬼)】`loh8 gu van2 ren2 sho3 tio gu v3 guei3` <sup>[东台]</sup>   
 1. 【[六猴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_heu.md#六猴)】`loh8 heu2` <sup>[泰县]</sup> ① 骰子的六点。 ② 顶点，最大胜利：他一定要掷个～。  
 1. 【[六月里的板油——熬不住啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_iuh_li_dii_baen_ieu_ngo_beh_chv_a.md#六月里的板油——熬不住啊)】`loh8 iuh8 li dii baen3 ieu2 ngo2 beh7 chv6 a` <sup>[东台]</sup>   
@@ -2769,7 +2769,7 @@
 1. 【[芦根](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_gen.md#芦根)】`lv2 gen1` <sup>[如东]</sup> 禾本科植物芦苇根茎。  
 1. 【[芦花鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_hua_ji.md#芦花鸡)】`lv2 hua ji1` <sup>[兴化]</sup> 毛色以深黄为基调，间有白、黑色的鸡。  
 1. 【[芦花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_hua.md#芦花)】`lv2 hua1` <sup>[如东]</sup> 禾本科植物芦苇花。  
-1. 【[芦花暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_hua_bo.md#芦花暴)】`lv2 hua1 bo6` <sup>[兴化]</sup> 中秋前后，因受寒流影响，出现大风、降温天气。因其时正当芦花发白，故有此称。  
+1. 【[芦花暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_hua_bo.md#芦花暴)】`lv2 hua1 bo5` <sup>[兴化]</sup> 中秋前后，因受寒流影响，出现大风、降温天气。因其时正当芦花发白，故有此称。  
 1. 【[芦花汛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_hua_xien.md#芦花汛)】`lv2 hua1 xien5` <sup>[兴化]</sup> 秋汛。  
 1. 【[芦荟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_huei.md#芦荟)】`lv2 huei6` <sup>[如东]</sup> 百合科植物芦荟。  
 1. 【[芦穄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_ji.md#芦穄)】`lv2 ji1` <sup>[如东]</sup> 禾本科植物芦稷。学名糖高粱，又称甜芦粟、芦黍、芦稷，甜秫秸、甜秆、甜高粱和高粱甘蔗，是高粱的别种。  
@@ -2866,6 +2866,7 @@
 1. 【[露水把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_shuei_ba.md#露水把)】`lv6 shuei3 ba3` <sup>[东台]</sup> 指清晨露水未干之前行窃的小偷。  
 1. 【[露水夫妻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_shuei_fv_qi.md#露水夫妻)】`lv6 shuei3 fv1 qi1` <sup>[东台]</sup> 未履行结婚手续而以夫妻名义暂时同居的男女。  
 1. 【[露水赴赴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_shuei_fv_fv_dii.md#露水赴赴的)】`lv6 shuei3 fv5 fv5 dii` <sup>[如皋]</sup> 有露水时行进。意指很早或很辛苦。  
+1. 【[露水龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_shuei_lon.md#露水龙)】`lv6 shuei3 lon2, lv6 shuei lon2` <sup>[如皋]</sup> 民间传说中的专司下露水的龙。  
 1. 【[露水消掉啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_shuei_xio_tio_a.md#露水消掉啊)】`lv6 shuei3 xio1 tio6 a` <sup>[如皋]</sup> ① 露水干了。 ② 指时间在太阳出来不久。  
 1. 【[露宿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_soh.md#露宿)】`lv6 soh7` <sup>[如东]</sup> 在屋外或旷野过夜。  
 1. 【[露头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_teu.md#露头)】`lv6 teu2` <sup>[如东]</sup> 出现：刚～就捱发现吖。  
@@ -2880,7 +2881,6 @@
 1. 【[露天心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_tin_xien.md#露天心)】`lv6 tin1 xien1` <sup>[兴化]</sup> 指房屋外边的地方：睡啊～里容易受凉。  
 1. 【[露天心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_tin_xien.md#露天心)】`lv6 tin1 xien1` <sup>[泰县]</sup> 露天：不要把伢儿站吖～里。  
 1. 【[露天心里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_tin_xien_lii.md#露天心里)】`lv6 tin1 xien1 lii` <sup>[如皋]</sup> 直接见天而无遮盖的地方。  
-1. 【[露水龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_tin_lon.md#露水龙)】`lv6 tin1 lon2` <sup>[如皋]</sup> 民间传说中的专司下露水的龙。  
 1. 【[露相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_xian.md#露相)】`lv6 xian5` <sup>[兴化]</sup> 露出其面目：俗语｜真人不～。  
 1. 【[露星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_xien.md#露星)】`lv6 xien1` <sup>[如东]</sup> 旷野：睏吖在～里。  
 1. 【[擂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly.md#擂)】`ly2` <sup>[如皋]</sup> 拉、磨、割：井栏捱吊桶绳～起槽儿来啊；手捱玉米叶子～啊破啊；细丝线走手上一䟳手就捱～得疼。  

@@ -59,9 +59,9 @@
 1. 【[窝碌蛆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_loh_qy_zz.md#窝碌蛆子)】`u1 loh8 qy1 zz` <sup>[泰县]</sup> 子女多。  
 1. 【[窝囊<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_nan_r.md#窝囊<sub>儿</sub>)】`u1 nan r` <sup>[泰县]</sup> 住宅。  
 1. 【[窝戏一台](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_xi_ieh_tae.md#窝戏一台)】`u1 xi5 ieh7 tae2` <sup>[东台]</sup> ［喻］形容事情窝囊，不可收拾：他俫不曾签协议就强行拆迁，弄到临了是～。  
-1. 【[窝䇽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_zhih.md#窝䇽)】`u1 zhih7` <sup>[东台]</sup> 用苇片编织的长条形的粗席，用于圈囤粮食等农产品。也作“窝摺”“摺子”。  
-1. 【[窝折](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_zhih.md#窝折)】`u1 zhih7` <sup>[兴化]</sup> 狭长的芦席，不用时窝成一盘，使用时旋成圆筒形，用来堆放粮食。  
-1. 【[窝摺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_zhih.md#窝摺)】`u1 zhih7` <sup>[泰县]</sup> 囤粮用的摺子。  
+1. 【[窝䇽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_zhih.md#窝䇽)】`u1 zhih7` <sup>[东台]</sup> 用苇片编织的长条形的粗席，用于圈囤粮食等农产品。  
+1. 【[窝䇽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_zhih.md#窝䇽)】`u1 zhih7` <sup>[兴化]</sup> 狭长的芦席，不用时窝成一盘，使用时旋成圆筒形，用来堆放粮食。  
+1. 【[窝䇽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_zhih.md#窝䇽)】`u1 zhih7` <sup>[泰县]</sup> 囤粮用的䇽子。  
 1. 【[窝吱搭蛮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_zhr_daeh_maen.md#窝吱搭蛮)】`u1 zhr1 daeh7 maen2` <sup>[东台]</sup> 讲话不清楚，别人无法理解：他～的说咖好早晚，旁人还是一头雾水。  
 1. 【[窝主](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_zhv.md#窝主)】`u1 zhv3` <sup>[如东]</sup> 隐藏赃物的人：黄三儿是这些贼的～。  
 1. 【[窝子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_zz.md#窝子)】`u1 zz` <sup>[如东]</sup> 小型窝棚，如鸡窝子。比喻居住的地方：我终于有了个～。  

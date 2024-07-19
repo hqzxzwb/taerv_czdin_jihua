@@ -1448,7 +1448,7 @@
 1. 【[剪红萝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_hon_lu.md#剪红萝)】`jin3 hon2 lu2` <sup>[如皋]</sup> 剪夏萝。  
 1. 【[剪花样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_hua_ian.md#剪花样)】`jin3 hua1 ian6` <sup>[如皋]</sup> 剪出绣花的花样，是一门剪纸艺术。  
 1. 【[剪花样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_hua_ian.md#剪花样)】`jin3 hua1 ian6` <sup>[东台]</sup> 民间工艺，用纸剪成花草，鸟兽的形象，供刺绣之用。  
-1. 【[剪络](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_lieu.md#剪络)】`jin3 lieu3` <sup>[兴化]</sup> 小偷：这次出差，捱～的掏去三百多块。  
+1. 【[剪绺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_lieu.md#剪绺)】`jin3 lieu3` <sup>[兴化]</sup> 小偷：这次出差，捱～的掏去三百多块。  
 1. 【[剪门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_men.md#剪门)】`jin3 men2` <sup>[兴化]</sup> 商店关门，停止营业：晚上九点，大部分饭店都剪吖门。  
 1. 【[剪手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_sheu.md#剪手)】`jin3 sheu3` <sup>[东台]</sup> ① 帮助处理未尽事宜。 ② 从此不干某事：～不干。  
 1. 【[剪头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_teu.md#剪头)】`jin3 teu2` 理发  

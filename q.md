@@ -597,7 +597,6 @@
 1. 【[七不离八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_beh_li_baeh.md#七不离八)】`qieh7 beh7 li2 baeh7` <sup>[东台]</sup> 差不多的意思。  
 1. 【[七不离八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_beh_li_baeh.md#七不离八)】`qieh7 beh7 li2 baeh7` <sup>[兴化]</sup> 形容相距不远：这个工程已经～，接近扫尾啊。｜农历六月头上，田头场头活儿忙得～了……（钱国怀《桃子》）。  
 1. 【[七不离八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_beh_li_baeh.md#七不离八)】`qieh7 beh7 li2 baeh7` <sup>[泰兴]</sup> 差不多，悬殊不大。  
-1. 【[七搞八搞的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_bo_baeh_bo_dii.md#七搞八搞的)】`qieh7 bo3 baeh7 bo3 dii` <sup>[如皋]</sup> 纠缠不清。  
 1. 【[七长八短](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_chan_baeh_dun.md#七长八短)】`qieh7 chan2 baeh7 dun3` <sup>[兴化]</sup> 参差不齐：他搬家来一捆～的竹子，说是搭鸡棚的。  
 1. 【[七长八短](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_chan_baeh_dun.md#七长八短)】`qieh7 chan2 baeh7 dun3` <sup>[泰兴]</sup> ① 长短高低，零落不全 ② 或谓说长道短，唠叨不绝  
 1. 【[七缠八缠的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_chin_baeh_chin_dii.md#七缠八缠的)】`qieh7 chin6 baeh7 chin6 dii` <sup>[如皋]</sup> 状纠缠不清。  
@@ -633,7 +632,7 @@
 1. 【[七二八碰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_er_baeh_pon.md#七二八碰)】`qieh7 er6 baeh7 pon5` <sup>[兴化]</sup> 碰巧、碰运气：他在外地～的寻个老婆家来。｜他～的中吖个大奖。  
 1. 【[七讲八讲的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_gan_baeh_gan_dii.md#七讲八讲的)】`qieh7 gan3 baeh7 gan3 dii` <sup>[如皋]</sup> 传闻越传越变样：本当是一个人捱蛇咬啊，～的就变吖捱蛇吃掉啊。又作“七传八传的”。  
 1. 【[七钩八扒（耙）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_geu_baeh_pa.md#七钩八扒（耙）)】`qieh7 geu1 baeh7 pa2` <sup>[兴化]</sup> 说话时指桑骂槐：你有话照直说，不要～的暗中骂人。  
-1. 【[七搞八搞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_go_baeh_go.md#七搞八搞)】`qieh7 go3 baeh7 go3` <sup>[如皋]</sup> 见“搞七搞八”。  
+1. 【[七搞八搞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_go_baeh_go.md#七搞八搞)】`qieh7 go3 baeh7 go3` <sup>[如皋]</sup> 纠缠不清。胡搅蛮缠。同“搞七搞八”。  
 1. 【[七个八个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_gu_baeh_gu.md#七个八个)】`qieh7 gu baeh7 gu` <sup>[兴化]</sup> 牵缠、拉扯：你覅听他～的乱说一气。｜“……他一个堂客家，我怎好同他～的？”（《儒林外史》五四）  
 1. 【[七个八杂的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_gu_baeh_zaeh_dii.md#七个八杂的)】`qieh7 gu baeh7 zaeh dii` <sup>[如皋]</sup> 见“七七八八的”。  
 1. 【[七个厨子八个客，忙煞厨子饿煞客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_gu_chv_zz_baeh_gu_keh_man_shaeh_chv_zz_ngu_shaeh_keh.md#七个厨子八个客，忙煞厨子饿煞客)】`qieh7 gu chv2 zz baeh7 gu keh7 man2 shaeh7 chv2 zz ngu6 shaeh7 keh7` <sup>[东台]</sup> 形容服务人员多，效率低。  

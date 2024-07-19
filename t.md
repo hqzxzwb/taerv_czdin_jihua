@@ -2298,7 +2298,7 @@
 1. 【[舵䶠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_ngaen.md#舵䶠)】`tu6 ngaen2` <sup>[如东]</sup> 帆船上固定舵杆的装置，中间有口，似蟹䶠，供舵杆上下滑动。  
 1. 【[舵扇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_shin.md#舵扇)】`tu6 shin5` <sup>[如东]</sup> 船舵上的一块扇形木板，安装在舵杆上，起控制帆船航行方向的作用  
 1. 【[舵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_zz.md#舵子)】`tu6 zz` <sup>[如东]</sup> 船上控制航行方向的装置。  
-1. 【[推](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei.md#推)】`tuei1` <sup>[东台]</sup> 向外用力使物体移动：～磨｜顺水～舟｜～倒。  
+1. 【[推](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei.md#推)】`tuei1` <sup>[东台]</sup> 向外用力使物体移动：～磨；顺水～舟；～倒。  
 1. 【[推扳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_baen.md#推扳)】`tuei1 baen` <sup>[如东]</sup> ① 相差：～多少？ ② 不够好：这些货～。  
 1. 【[推扳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_baen.md#推扳)】`tuei1 baen` <sup>[兴化]</sup> ① 不好的：嗨，扇子上面画了棵竹子，画得真不～。（《郑板桥传说·大年初一卖扇子》） ② 相差：老二比老大～三岁。 ③ 怠慢人、得罪人：你嘴里覅～人。｜……照这一说，今日还不能～他……（《武松》一）  
 1. 【[推扳一脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_baen_ieh_jiah.md#推扳一脚)】`tuei1 baen ieh7 jiah7` <sup>[如东]</sup> 相差一会儿：～我就追上他啊。  
@@ -2315,13 +2315,13 @@
 1. 【[推推搡搡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_tuei_san_san.md#推推搡搡)】`tuei1 tuei1 san3 san3` <sup>[兴化]</sup> 猛推：他喜欢对不听话的学生～的。｜衙役们一声吆喝，把李一桂～逐出辕门。（《四杰传》二十）  
 1. 【[梯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_zz.md#梯子)】`tuei1 zz` 梯子  
 1. 【[梯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_zz.md#梯子)】`tuei1 zz` <sup>[如东]</sup> 工具。两根边框，中间有档，可以一步一步地向高处爬。俗称步步高。  
-1. 【[颓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei.md#颓)】`tuei2` <sup>[东台]</sup> ① 倒塌，崩坏：断墙～垣。 ② 衰败，败坏：倾～｜～败。  
-1. 【[腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei.md#腿)】`tuei3` <sup>[东台]</sup> 人、动物的下肢或物体下部像腿一样的支撑部分：鸡～｜盘～。  
+1. 【[颓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei.md#颓)】`tuei2` <sup>[东台]</sup> ① 倒塌，崩坏：断墙～垣。 ② 衰败，败坏：倾～；～败。  
+1. 【[腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei.md#腿)】`tuei3` <sup>[东台]</sup> 人、动物的下肢或物体下部像腿一样的支撑部分：鸡～；盘～。  
 1. 【[腿肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_dv_zz.md#腿肚子)】`tuei3 dv3 zz` <sup>[如东]</sup> 小腿后面隆起的部分。  
 1. 【[腿脊弯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_jieh_vaen_zz.md#腿脊弯子)】`tuei3 jieh vaen1 zz` <sup>[兴化]</sup> 大腿和小腿相连接的关节后部。  
 1. 【[腿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_zz.md#腿子)】`tuei3 zz` <sup>[如东]</sup> 下肢：狗～。  
-1. 【[煺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei.md#煺)】`tuei5` <sup>[兴化]</sup> 已宰杀的畜禽用开水烫过后去毛：～猪毛｜～鸡毛。  
-1. 【[退](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei.md#退)】`tuei5` <sup>[东台]</sup> 向后移动，脱离，下降，交还或取消：后～｜～缩｜～婚。  
+1. 【[煺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei.md#煺)】`tuei5` <sup>[兴化]</sup> 已宰杀的畜禽用开水烫过后去毛：～猪毛；～鸡毛。  
+1. 【[退](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei.md#退)】`tuei5` <sup>[东台]</sup> 向后移动，脱离，下降，交还或取消：后～；～缩；～婚。  
 1. 【[退潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_cho.md#退潮)】`tuei5 cho2` <sup>[如东]</sup> 落潮。  
 1. 【[退锅巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_gu_ba.md#退锅巴)】`tuei5 gu1 ba` <sup>[兴化]</sup> （儿童语）索回已赠给别人的东西。  
 1. 【[退光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_guan.md#退光)】`tuei5 guan1` <sup>[兴化]</sup> 油漆的一种工艺，黑漆～后其色更深：……明间当中，一张黑～漆桌，四把金漆方椅。（《醒世烟缘传》七五）  

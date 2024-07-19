@@ -206,7 +206,7 @@
 1. 【[䬵酸水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_sun_shuei.md#䬵酸水)】`kae2 sun1 shuei3` <sup>[如皋]</sup> 胃液自口出，极酸。表示胃部受凉或有毛病。  
 1. 【[䬵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#䬵)】`kae3` <sup>[如东]</sup> 胃里生成的气体从口中冒出来并发出声音。  
 1. 【[凯然](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_rin.md#凯然)】`kae3 rin2` <sup>[如东]</sup> 高兴，舒服：这件事做得～。  
-1. 【[开髯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_rin.md#开髯)】`kae3 rin2` <sup>[如皋]</sup> 本指鬍子咥开，转指高兴。（声调不合。）  
+1. 【[凯然](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_rin.md#凯然)】`kae3 rin2` <sup>[如皋]</sup> 高兴  
 1. 【[楷<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_r.md#楷<sub>儿</sub>)】`kae3 r` <sup>[东台]</sup> 指人写的字：他的两个～不丑。  
 1. 【[螘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#螘)】`kae3` <sup>[如皋]</sup> 蚜虫。又称“腻虫”。  
 1. 【[箇<sub>许</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#箇<sub>许</sub>)】`kae5` 这里。箇许geh7 hae连读。  

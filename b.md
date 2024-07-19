@@ -1051,6 +1051,7 @@
 1. 【[背绑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_ban.md#背绑)】`bei5 ban3` <sup>[如皋]</sup> 把双手放在背后捆绑起来。  
 1. 【[背绑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_ban.md#背绑)】`bei5 ban3` <sup>[东台]</sup> 双手被捆绑在背后：他再犯犟，麻绳～把他送进去。  
 1. 【[背褡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_daeh.md#背褡)】`bei5 daeh7` <sup>[兴化]</sup> 一种无袖的短上衣，即背心。也称“背搭”：汗衫～儿；棉～儿。  
+1. 【[背底下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_di_ha.md#背底下)】`bei5 di ha6` <sup>[兴化]</sup> 私下：这句话我俫只能～说说。  
 1. 【[背光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_guan.md#背光)】`bei5 guan1` <sup>[东台]</sup> 光线不能直接照射过来。  
 1. 【[背后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_heu.md#背后)】`bei5 heu6` <sup>[如东]</sup> 身后。  
 1. 【[背晦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_huei.md#背晦)】`bei5 huei5` <sup>[兴化]</sup> 年老胡涂：老爷爷如今上吖年纪，不免有点儿～。  
@@ -1072,7 +1073,6 @@
 1. 【[背心<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_xien_r.md#背心<sub>儿</sub>)】`bei5 xien1 r` <sup>[如东]</sup> 一种没有袖子的上衣。  
 1. 【[褙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei.md#褙)】`bei5` <sup>[兴化]</sup> 用稀浆糊把布或纸一层一层地粘在一起：裱～；打～。  
 1. 【[辈分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_fen.md#辈分)】`bei5 fen` <sup>[东台]</sup> 家族中世代相传的顺序，与“字序”和“班辈”同义：他虽然年龄比我大，但～比我还小。  
-1. 【[背底下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_di_ha.md#背底下)】`bei6 di ha6` <sup>[兴化]</sup> 私下：这句话我俫只能～说说。  
 1. 【[奔波](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_bu.md#奔波)】`ben1 bu1` <sup>[东台]</sup> 忙碌奔走：他常年在外～，没得个歇时。  
 1. 【[奔丧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_san.md#奔丧)】`ben1 san1` <sup>[东台]</sup> 从外地急着赶回家料理长辈亲属的丧事。  
 1. 【[奔丧报死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_san_bo_sz.md#奔丧报死)】`ben1 san1 bo5 sz3` <sup>[兴化]</sup> （贬）急迫匆忙的样子：你匆匆忙忙的就像～，撞吖人也不打声招呼。  
