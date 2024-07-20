@@ -1356,12 +1356,12 @@
 1. 【[苦形样子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_xien_ian_zz.md#苦形样子)】`kv3 xien2 ian6 zz` <sup>[东台]</sup> 愁苦的心情表现在脸上。  
 1. 【[苦主](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_zhv.md#苦主)】`kv3 zhv3` <sup>[如东]</sup> 被害人的家属。  
 1. 【[苦做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_zu.md#苦做)】`kv3 zu5` <sup>[兴化]</sup> 辛勤劳动，不怕吃苦：小吴家底子穷，一家一当全是两口子～挣起来的。  
-1. 【[裤管<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_gun_r.md#裤管<sub>儿</sub>)】`kv3 gun3 r` <sup>[如皋]</sup> 裤腿。  
 1. 【[库](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv.md#库)】`kv5` <sup>[如皋]</sup> 供烧化给死者的，用芦柴作架、纸糊的房屋、家具、衣物等的总称：化～、扎～。  
 1. 【[库匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_qian.md#库匠)】`kv5 qian6` <sup>[如东]</sup> 为死人制作纸屋、纸箱、纸衣的小手工业者。  
 1. 【[裤衩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_cha.md#裤衩)】`kv5 cha3` <sup>[东台]</sup> 同“裤头”。  
 1. 【[裤带子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_dae_zz.md#裤带子)】`kv5 dae5 zz` <sup>[兴化]</sup> ① 裤腰带。 ② （借）指女人作风：这个婆娘～不紧。  
 1. 【[裤裆巷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_dan_han.md#裤裆巷)】`kv5 dan1 han6` <sup>[东台]</sup> 原何垛场西一条形似裤衩的巷子，东台城名医姜子维私人医院（后为东台镇医院）住址也在此巷内。  
+1. 【[裤管<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_gun_r.md#裤管<sub>儿</sub>)】`kv5 gun3 r` <sup>[如皋]</sup> 裤腿。  
 1. 【[裤管子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_gun_zz.md#裤管子)】`kv5 gun3 zz` <sup>[兴化]</sup> 裤腿。  
 1. 【[裤腰带子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_io_dae_zz.md#裤腰带子)】`kv5 io1 dae5 zz` <sup>[如皋]</sup> 系裤子的带子。  
 1. 【[裤漉裆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_loh_dan.md#裤漉裆)】`kv5 loh dan1` <sup>[东台]</sup> 两条裤腿相连的地方，也指人的阴部。  

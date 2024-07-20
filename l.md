@@ -2758,7 +2758,7 @@
 1. 【[炉膛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_tan.md#炉膛)】`lv2 tan2` <sup>[如东]</sup> 锅炉燃烧煤炭、砻糠或柴草的部位。  
 1. 【[炉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_zz.md#炉子)】`lv2 zz` <sup>[如东]</sup> ① 生火的设备。如茶水～。 ② 取暖器皿。铜制，圆柿形，有盖，盖上有孔，有环。盛火灰或木炭，用来取暖。  
 1. 【[芦笆障](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_ba_zhan.md#芦笆障)】`lv2 ba zhan5` <sup>[如皋]</sup> 见“板𥭚障”。  
-1. 【[芦笆根](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_ba_ben.md#芦笆根)】`lv2 ba1 ben1` <sup>[如皋]</sup> 芦苇的地下嫩茎，药用。夏天常用来泡茶，清凉解暑。  
+1. 【[芦笆根](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_ba_gen.md#芦笆根)】`lv2 ba1 gen1` <sup>[如皋]</sup> 芦苇的地下嫩茎，药用。夏天常用来泡茶，清凉解暑。  
 1. 【[芦笆障](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_ba_zhan.md#芦笆障)】`lv2 ba1 zhan5` <sup>[如皋]</sup> 用芦柴茎编成的板状物，作建材。  
 1. 【[芦芭嶂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_ba_zhan.md#芦芭嶂)】`lv2 ba1 zhan5` <sup>[如东]</sup> 芦苇编成的长方形的建筑材料。  
 1. 【[芦柴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_chae.md#芦柴)】`lv2 chae2` <sup>[兴化]</sup> ① 芦苇。 ② 苇秆，一般的作燃料，其中整齐、挺直的可用来编织芦䉬、窝折，或打柴笆等。  

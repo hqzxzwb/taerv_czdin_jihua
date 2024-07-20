@@ -2549,6 +2549,7 @@
 1. 【[兔子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_zz.md#兔子)】`tv5 zz` 兔子  
 1. 【[兔子不吃窝边草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_zz_beh_qieh_u_bin_co.md#兔子不吃窝边草)】`tv5 zz beh7 qieh7 u1 bin1 co3` <sup>[东台]</sup> 喻指再困难也不能损害近邻利益。  
 1. 【[兔子嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_zz_jy.md#兔子嘴)】`tv5 zz jy3` <sup>[如皋]</sup> ① 兔唇。 ② 爱吃零食，或指人，又称羊子嘴、老鼠嘴。  
+1. 【[菟丝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_sz.md#菟丝)】`tv5 sz1` <sup>[如东]</sup> 旋花科植物菟丝子，又名无根草，一年生寄生草本。茎细柔呈线状，左旋缠绕，多分枝，黄色，随处生吸器，侵入寄主组织内。无绿色叶，而有三角状卵形鳞片叶。花白色，簇生。蒴果扁球形，褐色。种子卵圆形，黄褐色。寄生在草本植物秆茎上。  
 1. 【[度](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv.md#度)】`tv6` <sup>[东台]</sup> ① 跨过，越过：春风不～玉门关/飞～天堑。 ② 经过，经历：虚～青春/欢～春节。 ③ 用于动作次数（经历几次就是几度）：一年一～/几～风雨，几～春秋/再～上映。 ④ 佛教、道教指让人超越尘俗或脱离苦难：剃～/超～。  
 1. 【[度量](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_lian.md#度量)】`tv6 lian6` <sup>[东台]</sup> 宽容的程度，气度：他交关有～，尽管有人当面骂他，他还是和颜悦色的耐心解释。  
 1. 【[度命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_mien.md#度命)】`tv6 mien6` <sup>[如皋]</sup> ① 不顾艰苦，保全生命。 ② 同“餬嘴”。  

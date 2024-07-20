@@ -2947,7 +2947,6 @@
 1. 【[睡早觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_zo_go.md#睡早觉)】`shuei5 zo3 go5` <sup>[兴化]</sup> 贪睡，起身迟：他喜欢～，八点多钟还躺吖在床上！  
 1. 【[睡早曦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_zo_xi.md#睡早曦)】`shuei5 zo3 xi` <sup>[东台]</sup> 早上睡懒觉，迟迟不起床：最近事情多，不能～。  
 1. 【[纯和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_hu.md#纯和)】`shuen2 hu` <sup>[兴化]</sup> 柔软、纯熟：新稻草戳人，要捶捶铺床才～。｜“咦喂，这个新稻草不～啊，戳人呀……”（《武松》六）  
-1. 【[菟丝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_sz.md#菟丝)】`shuen2 sz1` <sup>[如东]</sup> 旋花科植物菟丝子，又名无根草，一年生寄生草本。茎细柔呈线状，左旋缠绕，多分枝，黄色，随处生吸器，侵入寄主组织内。无绿色叶，而有三角状卵形鳞片叶。花白色，簇生。蒴果扁球形，褐色。种子卵圆形，黄褐色。寄生在草本植物秆茎上。  
 1. 【[醇和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_hu.md#醇和)】`shuen2 hu` <sup>[兴化]</sup> 形容人淳朴、和善：这个人性子蛮～的。｜……马琼琼见朱廷之生性～……几次央浼姐姐与杨谦说，要与朱廷之相处。（《西湖二集》十一）  
 1. 【[瘆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen.md#瘆)】`shuen5` <sup>[如皋]</sup> 程度深：街上人多得～哎。桃子甜得～！  
 1. 【[瘆虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_chon.md#瘆虫)】`shuen5 chon2` <sup>[如皋]</sup> 蛇蜃百脚、癞宝、𧑚䘆等的总是～，看见吖总觉察意㽹人子。  

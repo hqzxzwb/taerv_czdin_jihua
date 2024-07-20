@@ -1257,7 +1257,6 @@
 1. 【[明张子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_zhan_zz.md#明张子)】`mien2 zhan1 zz` <sup>[兴化]</sup> ① 在背面做了印记，可以识别的赌具。 ② （喻）有劣迹曾被公开曝光的人：他是～，注意点儿就行吖。  
 1. 【[明账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_zhan.md#明账)】`mien2 zhan5` <sup>[如东]</sup> 公开的账册。  
 1. 【[明朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_zho.md#明朝)】`mien2 zho` <sup>[兴化]</sup> ① 明日：“……你休怕，跟我来。到我舍下歇马，～我送你上路。”（《西游记》十三） ② 泛指将来：“哥哥不听我说，～有的气受哩！”（《水浒传》九十）  
-1. 【[棉花包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_hua_bo.md#棉花包)】`mien2 hua bo1` <sup>[兴化]</sup> （喻）旧称有钱的女人：小黄找啊一个富婆，一头跌进吖～。  
 1. 【[民办](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_baen.md#民办)】`mien2 baen5` <sup>[如东]</sup> 群众自己出资兴办（与官办相对）：～中学。  
 1. 【[民间](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_jiaen.md#民间)】`mien2 jiaen1` <sup>[如东]</sup> 劳动人民中间（与官方区别）。  
 1. 【[民田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_tin.md#民田)】`mien2 tin2` <sup>[如东]</sup> 旧时私人占有的土地。也称私田。民田向政府缴纳田赋。  
@@ -1314,6 +1313,7 @@
 1. 【[棉𧘸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_den_zz.md#棉𧘸子)】`min2 den5 zz` <sup>[东台]</sup> 棉袄，也叫棉布宝（见“布宝儿”）：天冷吖，快穿～。  
 1. 【[棉𧘸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_den_zz.md#棉𧘸子)】`min2 den5 zz` <sup>[泰县]</sup> 棉袄。  
 1. 【[棉鞋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hae.md#棉鞋)】`min2 hae2` <sup>[如东]</sup> 鞋的一种。鞋帮内絮棉花，有保温作用。  
+1. 【[棉花包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hua_bo.md#棉花包)】`min2 hua bo1` <sup>[兴化]</sup> （喻）旧称有钱的女人：小黄找啊一个富婆，一头跌进吖～。  
 1. 【[棉花草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hua_co.md#棉花草)】`min2 hua co3` <sup>[如皋]</sup> 鼠曲草。菊科。  
 1. 【[棉花胎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hua_tae.md#棉花胎)】`min2 hua tae1` <sup>[兴化]</sup> 棉花纤维外用纱线网成，是絮棉被、棉褥的芯子。  
 1. 【[棉花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hua.md#棉花)】`min2 hua1` <sup>[如东]</sup> 锦葵科植物草棉，一年生草本或亚灌木。  

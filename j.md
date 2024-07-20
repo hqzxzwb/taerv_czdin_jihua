@@ -1096,8 +1096,7 @@
 1. 【[禁口痢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_keu_li.md#禁口痢)】`jien5 keu3 li6` <sup>[如皋]</sup> 菌痢的一种，只泻，不思进食，病情危重。  
 1. 【[禁气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_qi.md#禁气)】`jien5 qi5` <sup>[如东]</sup> 威严：领导干部要有～。  
 1. 【[禁气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_qi.md#禁气)】`jien5 qi5` <sup>[泰县]</sup> 威信威严：他俫单位的领导有点儿～。  
-1. 【[进宅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_cheh.md#进宅)】`jien5 cheh8` <sup>[如皋]</sup> 见“上园”。  
-1. 【[进宅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_cheh.md#进宅)】`jien5 cheh8` <sup>[如皋]</sup> 搬进新居。俗以马桶进房的时间为～。避讳“进贼”，有时会说“jien5 zheh7”。  
+1. 【[进宅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_cheh.md#进宅)】`jien5 cheh8` <sup>[如皋]</sup> 搬进新居。俗以马桶进房的时间为～。避讳“进贼”，有时会说“jien5 zheh7”。参见“上园”。  
 1. 【[进宅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_cheh.md#进宅)】`jien5 cheh8` <sup>[兴化]</sup> 搬进新居：新屋落成，等你～，我俫去祝贺。  
 1. 【[进出气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_chueh_qi.md#进出气)】`jien5 chueh7 qi5` <sup>[如皋]</sup> 呼吸气。又说“伸缩气”。  
 1. 【[进港](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gan.md#进港)】`jien5 gan3` <sup>[如东]</sup> 船只由外海或外地驶进港湾，叫做进港。  

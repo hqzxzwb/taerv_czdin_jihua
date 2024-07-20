@@ -1066,9 +1066,9 @@
 1. 【[醒眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_ngaen.md#醒眼)】`xien3 ngaen3` <sup>[兴化]</sup> 显眼、引人注目：把刚进的好货放吖～的地方。  
 1. 【[醒鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_pieh_zz.md#醒鼻子)】`xien3 pieh8 zz` <sup>[兴化]</sup> 即擤鼻涕：早有小丫头子递过一搭子细纸，晴雯便一张一张的拿来～。（《红楼梦》五二）  
 1. 【[醒神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_shen.md#醒神)】`xien3 shen2` <sup>[兴化]</sup> 使清醒：你酒喝多啊，先同我出去～。｜你少信口瞎说，醒醒神好多少哩！  
+1. 【[醒睡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_shuei.md#醒睡)】`xien3 shuei-xy` <sup>[东台]</sup> 能够有意及时醒来：今吖夜里～点儿，要赶火车呢。  
 1. 【[醒睡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_shuei.md#醒睡)】`xien3 shuei5` <sup>[如皋]</sup> 睡眠中能听到外界响活。与“睡得死”相对。  
 1. 【[醒睡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_shuei.md#醒睡)】`xien3 shuei5` <sup>[如东]</sup> 睡眠不深，能够听到外面的声响。  
-1. 【[醒睡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_xy.md#醒睡)】`xien3 xy` <sup>[东台]</sup> 能够有意及时醒来：今吖夜里～点儿，要赶火车呢。  
 1. 【[信风斜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_fon_qia.md#信风斜)】`xien5 fon1 qia2` <sup>[如东]</sup> 盲目地跟着别人走：不能～。  
 1. 【[信风斜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_fon_qia.md#信风斜)】`xien5 fon1 qia2` <sup>[兴化]</sup> 听信传言，跟着起哄：这个人真是～，听说酱油调价，一下子买家来百十斤。  
 1. 【[信风邪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_fon_qia.md#信风邪)】`xien5 fon1 qia2` <sup>[如皋]</sup> 偏信宣传：听说某先生脉信不丑，几个人总～，去把他看，结果白跑一趟；你不要～，超市也卖假货？  

@@ -1600,8 +1600,8 @@
 1. 【[划廉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_lin.md#划廉)】`hua5 lin2` <sup>[泰县]</sup> 便宜：这笔交易蛮～的。  
 1. 【[化骨丹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_gueh_daen.md#化骨丹)】`hua5 gueh7 daen1` <sup>[东台]</sup> 意同“化砟儿”，即败家子。  
 1. 【[化灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_huei.md#化灰)】`hua5 huei1` <sup>[兴化]</sup> （喻）像化为灰尘那样一无所有：他是穷得～的光蛋一个，甚的事都玩得出来。  
-1. 【[化库](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_ku.md#化库)】`hua5 ku5` <sup>[兴化]</sup> ① 迷信的人将纸钱、锡箔等放进纸扎的“库房”里焚化给亡魂：“阳间有烧房～的事，有用没用呢？”（《老残游记》二·九） ② （喻）挥霍无度，用钱像～。  
 1. 【[化库](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_kv.md#化库)】`hua5 kv5` <sup>[如东]</sup> 在祭祀死者或祖先时，用芦苇扎成纸屋，这种屋叫做库。里边放置纸箱、衣服、金元宝、银元宝等物。祭祀活动结束时，灼化，叫做化库。  
+1. 【[化库](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_kv.md#化库)】`hua5 kv5` <sup>[兴化]</sup> ① 迷信的人将纸钱、锡箔等放进纸扎的“库房”里焚化给亡魂：“阳间有烧房～的事，有用没用呢？”（《老残游记》二·九） ② （喻）挥霍无度，用钱像～。  
 1. 【[化脓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_non.md#化脓)】`hua5 non2` <sup>[如东]</sup> 疮口出现脓水。  
 1. 【[化千张](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_qin_zhan.md#化千张)】`hua5 qin1 zhan1` <sup>[如皋]</sup> 丧俗。初丧，孝子跪在灵前，向现在盆水中的铁锅内一张一张地烧化一千张毛丈纸，以求老鬼不欺新鬼。  
 1. 【[化肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_roh.md#化肉)】`hua5 roh8` <sup>[如皋]</sup> 詈语。指解大便。  
