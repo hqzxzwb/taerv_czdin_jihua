@@ -406,7 +406,7 @@
 1. 【[塞铁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh_tih.md#塞铁)】`seh7 tih7` <sup>[如皋]</sup> 楔铁。多为熟铁件，型类较多。  
 1. 【[摵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh.md#摵)】`seh7` 摔：～炮/一种向地上摔的折纸玩具，又指一种落地即响的鞭炮。｜～咖个跟头。｜他来啊气，逮住茶杯问地下一～。  
 1. 【[摵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh.md#摵)】`seh7` <sup>[如东]</sup> 把东西尽力往地上掼：她气啊把碗～咖地下。  
-1. 【[摵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh.md#摵)】`seh7` <sup>[如皋]</sup> 打：～巴掌。｜风把树叶子～下来呀。  
+1. 【[摵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh.md#摵)】`seh7` <sup>[如皋]</sup> ① 打：～巴掌。｜风把树叶子～下来呀。 ② 拍：～堂灰。 ③ 掼：～碗。 ④ 撞：撞天～地。 ⑤ 走：跑东～西。 ⑥ 甩、摆动：手膀子跑啊～起来呀。 ⑦ 旋转：～转转儿。 ⑧ 玄晕：头里～咖～的。  
 1. 【[摵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh.md#摵)】`seh7` <sup>[兴化]</sup> ① 拍打：把裤子上的灰～～。 ② 打、摔：～他两下子｜把碗～得粉碎。 ③ 摆脱：小黄又把女朋友～掉啊。  
 1. 【[摵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh.md#摵)】`seh7` <sup>[泰县]</sup> ① 摔、挥：～钱墩。 ② 抽打：我～咖你啊。 ③ 转：～个大圈子。  
 1. 【[摵把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh_ba.md#摵把)】`seh7 ba3` <sup>[兴化]</sup> 见“掼把”。  
@@ -2023,6 +2023,7 @@
 1. 【[善门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shin_men.md#善门)】`shin6 men2` <sup>[东台]</sup> ［喻］行善开了口子，有了先例：这个～一开许多人受益，但也可能引起攀比。  
 1. 【[善门难开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shin_men_naen_kae.md#善门难开)】`shin6 men2 naen2 kae1` <sup>[兴化]</sup> （喻）好事难做，好人难当：最近帮吖几位穷乡邻，不想有钱的也来告贷，真是～。｜“……我们来救了一个，不救一个，他们打架了，这叫～。”（扬一《通天河》）  
 1. 【[梢把<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_ba_r.md#梢把<sub>儿</sub>)】`sho1 ba3 r` <sup>[如东]</sup> 装在犁梢上的木柄。  
+1. 【[梢瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_gua.md#梢瓜)】`sho1 gua1` <sup>[东台]</sup> 菜瓜。见《本草纲目》。  
 1. 【[梢瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_gua.md#梢瓜)】`sho1 gua1` <sup>[兴化]</sup> 即越瓜、葫芦科，为甜瓜的一个变种。瓠果圆筒形，较长，前端略粗，表面有瓦垄般隆起的条痕。瓜成熟后可生吃、凉拌菜，但主要用作腌菜或酱菜。  
 1. 【[梢身大汉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_shen_da_hun.md#梢身大汉)】`sho1 shen1 da6 hun5` <sup>[如东]</sup> 形容人的身体高大：他是个～，还怕你啊！  
 1. 【[梢袋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_tae.md#梢袋)】`sho1 tae6` <sup>[如东]</sup> 鱼网的尾，形状像袋，所以叫做梢袋。  
@@ -2105,7 +2106,6 @@
 1. 【[烧周年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_zheu_nin.md#烧周年)】`sho1 zheu1 nin` <sup>[如东]</sup> 人死后每逢第一、二、三周年，举行祭祀活动。此后，每逢十周年祭祀一次。死者超过一百周岁，不再祭祀。  
 1. 【[烧纸叹人心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_zhr_taen_ren_xien.md#烧纸叹人心)】`sho1 zhr3 taen5 ren2 xien1` <sup>[东台]</sup> ① 借烧纸等祭祀活动舒缓悲哀情绪。 ② ［引］不过是做个形式应付而已：烧纸钱并不是给亡人真钱，只不过～，表表心意。  
 1. 【[烧主](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_zhv.md#烧主)】`sho1 zhv` <sup>[东台]</sup> 过去穷人死后无钱埋葬，其家人煮上一大锅菜面鱼（疙瘩），挨家挨户乞讨，这种募捐形式被称之为～。因食物中有猪肉，故也作“烧猪”。后来引申为发牢骚的口头禅：产品不对路，～！人家不要。  
-1. 【[稍瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_gua.md#稍瓜)】`sho1 gua1` <sup>[东台]</sup> 菜瓜。见《本草纲目》。  
 1. 【[稍须](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_xy.md#稍须)】`sho1 xy1` <sup>[东台]</sup> 稍微的意思。  
 1. 【[艄角柱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_gah_chv.md#艄角柱)】`sho1 gah7 chv6` <sup>[如东]</sup> 帆船船尾前边的木柱。  
 1. 【[艄角灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_gah_den.md#艄角灯)】`sho1 gah7 den1` <sup>[如东]</sup> 安装在帆船角艄上的灯。  

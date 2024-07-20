@@ -174,8 +174,8 @@
 1. 【[码](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma.md#码)】`ma3` <sup>[如东]</sup> 英美制长度单位，一码等于3英尺，合0.9144米。  
 1. 【[码](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma.md#码)】`ma3` <sup>[如皋]</sup> ① 略腌一下：～鲜、弄盐把肉～下子。 ② 略捆一下：弄绳儿～下子。  
 1. 【[码](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma.md#码)】`ma3` <sup>[东台]</sup> 除一般释义外，还有堆叠的意思：把这些砖头～齐啊。  
-1. 【[码](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma.md#码)】`ma3` <sup>[兴化]</sup> ① 在生菜（包括荤、素）里抹少量的盐，可在短时间里防腐：弄点盐～啊子。 ② 整齐堆放：把砖头～起来。  
-1. 【[码](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma.md#码)】`ma3` <sup>[泰县]</sup> 堆砌：把这堆砖头～起来。  
+1. 【[码](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma.md#码)】`ma3` <sup>[兴化]</sup> ① 在生菜（包括荤、素）里抹少量的盐，可在短时间里防腐：弄点盐～啊子。 ② 整齐堆放：把砖头～起来。 ③ 监视或盯梢：这人形迹可疑，同我～住他。  
+1. 【[码](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma.md#码)】`ma3` <sup>[泰县]</sup> ① 堆砌：把这堆砖头～起来。 ② 悄俏跟踪：～住他。 ③ 察访。  
 1. 【[码单](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_daen.md#码单)】`ma3 daen1` <sup>[兴化]</sup> 运成批货物过数或过秤时，逐笔记录的单子。  
 1. 【[码凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_den.md#码凳)】`ma3 den5` <sup>[泰县]</sup> 河边的码头。  
 1. 【[码尔的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_er_dii.md#码尔的)】`ma3 er dii` <sup>[如东]</sup> ① 拖拉：这个人做事有些～。 ② 糊涂：这个人是个～，你不要轻信他。  
@@ -283,8 +283,6 @@
 1. 【[马子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_zz.md#马子)】`ma3 zz` <sup>[兴化]</sup> 大小便使用的有盖的木桶。大～；小～。  
 1. 【[马子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_zz.md#马子)】`ma3 zz` <sup>[泰县]</sup> 马桶。  
 1. 【[马子菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_zz_cae.md#马子菜)】`ma3 zz cae5` <sup>[兴化]</sup> 一种野生植物，即“马齿苋”。  
-1. 【[𥉊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma.md#𥉊)】`ma3` <sup>[兴化]</sup> ① 监视或盯梢：这人形迹可疑，同～我住他。 ② 《集韵祃韵》莫驾切“～，视也。”（声调不合）  
-1. 【[𥉊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma.md#𥉊)】`ma3` <sup>[泰县]</sup> ① 悄俏跟踪：～住他。 ② 察访。  
 1. 【[嘛咯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_lo.md#嘛咯)】`ma5 lo` <sup>[如皋]</sup> 抚慰小孩用语，好像说：好乖乖，不要哭。  
 1. 【[妈妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma.md#妈妈)】`ma5 ma5` <sup>[如皋]</sup> 伯母、大妈。  
 1. 【[骂得狗肏骚娘的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_deh_geu_reh_so_nian_dii.md#骂得狗肏骚娘的)】`ma6 deh7 geu3 reh8 so1 nian2 dii` <sup>[如皋]</sup> 用粗鄙的、恶毒的话来咒骂。  

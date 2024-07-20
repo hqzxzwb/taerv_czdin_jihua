@@ -556,7 +556,7 @@
 1. 【[挖孔<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_kon_r.md#挖孔<sub>儿</sub>)】`vaeh7 kon3 r` <sup>[如东]</sup> 想尽各种法子：他～弄钱。  
 1. 【[挖里挖窟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_lii_vaeh_kueh.md#挖里挖窟)】`vaeh7 lii vaeh7 kueh7` <sup>[东台]</sup> 赞叹语言刁钻、辛辣，很特别，不知道从哪儿挖来的。  
 1. 【[挖墙脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_qian_jiah.md#挖墙脚)】`vaeh7 qian2 jiah7` <sup>[如东]</sup> 挖墙基。比喻破坏别人的基业。  
-1. 【[挖稍篙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_sho_go.md#挖稍篙)】`vaeh7 sho1 go1` <sup>[泰县]</sup> 加后劲。  
+1. 【[挖艄篙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_sho_go.md#挖艄篙)】`vaeh7 sho1 go1` <sup>[泰县]</sup> 加后劲。  
 1. 【[挖祖坟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_zv_fen.md#挖祖坟)】`vaeh7 zv3 fen2` <sup>[如东]</sup> 把祖宗的棺材从坟墓中挖掘出来。表示对某人的深仇大恨。  
 1. 【[敌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh.md#敌)】`vaeh8` <sup>[如皋]</sup> 泼浇：～粪、～屎、～尿、～水。  
 1. 【[敌臭水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_cheu_shuei.md#敌臭水)】`vaeh8 cheu5 shuei3` <sup>[如皋]</sup> 背后说别人坏话。  
