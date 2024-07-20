@@ -1,4 +1,7 @@
 # 看人兑汤
-kun5 ren2 duei5 tan1
+kun5 ren2 tuei6 tan1
 > 兴化方言词典
 - （喻）形容眼光势利，对各别的人不同对待。谚曰：刘豁子下饺儿（馄饨）——～。
+<!--
+原文记音kaen5 ren2 duei5 tan1
+-->
