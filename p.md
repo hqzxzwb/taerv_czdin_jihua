@@ -413,8 +413,6 @@
 1. 【[笨蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pen_taen.md#笨蛋)】`pen6 taen6` <sup>[如东]</sup> 比喻愚蠢，无能：这人是个～。  
 1. 【[笨蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pen_taen.md#笨蛋)】`pen6 taen6` <sup>[东台]</sup> （詈语）蠢人。  
 1. 【[笨头笨脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pen_teu_pen_no.md#笨头笨脑)】`pen6 teu2 pen6 no3` <sup>[东台]</sup> （詈语）形容人愚笨。  
-1. 【[㓟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#㓟)】`pi1` <sup>[兴化]</sup> 用利刃将竹片剖成薄篾。《集韵·支韵》攀糜切“～，刀析也。”  
-1. 【[㱟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#㱟)】`pi1` <sup>[兴化]</sup> 刀斜削，把鱼、肉等削成薄片。《广韵·支韵》“～，开肉。又匹靡切。”：～肉片；～鱼片；～竹笋。  
 1. 【[坯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#坯)】`pi1` <sup>[东台]</sup> ① 已做成形、未烧的砖瓦、陶器等：砖～。 ② 特指土坯：脱～。 ③ 泛指半制成品：～布。  
 1. 【[坯缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_gan.md#坯缸)】`pi1 gan1` <sup>[如皋]</sup> 一种有釉的广白缸，按大小分为头～、二～、三～。  
 1. 【[坯料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_lio.md#坯料)】`pi1 lio6` <sup>[如皋]</sup> 贬指某人的品质：～不好、下流～。  
@@ -444,6 +442,7 @@
 1. 【[醅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#醅)】`pi1` <sup>[如皋]</sup> 黄酒称谓，随原料生、熟而称生～、熟～。  
 1. 【[𠜱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#𠜱)】`pi1` 削  
 1. 【[𠜱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#𠜱)】`pi1` <sup>[如皋]</sup> 将刀体平着切薄片：把一片茶干儿～十层。  
+1. 【[𠜱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#𠜱)】`pi1` <sup>[兴化]</sup> ① 用利刃将竹片剖成薄篾。 ② 刀斜削，把鱼、肉等削成薄片：～肉片；～鱼片；～竹笋。  
 1. 【[𠜱削](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_xiah.md#𠜱削)】`pi1 xiah7` <sup>[东台]</sup> 批评指点：这篇文章有些地方还要～下子。  
 1. 【[便宜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_i.md#便宜)】`pi2 i2` <sup>[东台]</sup> ① 价格低。 ② 不当得利或感到精神上口头上讨巧：得咖～还卖乖。  
 1. 【[便<sub>宜</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#便<sub>宜</sub>)】`pi2` <sup>[兴化]</sup> “便宜”pin2 i2的合音，兴化城区口音：图～买老牛。  
@@ -537,10 +536,9 @@
 1. 【[赔钱货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_qin_hu.md#赔钱货)】`pi2 qin2 hu5` <sup>[如皋]</sup> 旧指女儿。  
 1. 【[赔钱货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_qin_hu.md#赔钱货)】`pi2 qin2 hu5` <sup>[东台]</sup> 连本钱也收不回来的商品。  
 1. 【[陪绑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_ban.md#陪绑)】`pi2 ban3` <sup>[东台]</sup> ① 在处决人犯时，把未判死刑的犯人一同绑赴刑场，起震慑作用。 ② ［喻］被硬拉来陪别人干事、受苦。  
-1. 【[㱟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#㱟)】`pi3` <sup>[兴化]</sup> 裂开。《广韵·纸韵》匹靡切“～，枝折。”：树枝～开啊。  
 1. 【[否](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#否)】`pi3` <sup>[东台]</sup> 引称秤不足秤，或指怠慢：这许条件差，招待贵客有点～。  
 1. 【[痞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#痞)】`pi3` <sup>[如皋]</sup> 奇怪癖好：烟～（吞烟丝、烟灰）、土～（吞吃泥土）、纸～（吃纸团儿）、瓦～（嚼食瓦块）。  
-1. 【[𤿎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#𤿎)】`pi3` <sup>[兴化]</sup> 破裂，《集韵·旨韵》普鄙切“《方言》南楚谓器破而未离曰～。”：凳腿子～掉啊。  
+1. 【[𤿎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#𤿎)】`pi3` <sup>[兴化]</sup> 破裂，《集韵·旨韵》普鄙切“《方言》南楚谓器破而未离曰～。”：凳腿子～掉啊。｜树枝～开啊。  
 1. 【[屁巴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_ba_zz.md#屁巴子)】`pi5 ba1 zz` 比喻什么都没有，什么都不是  
 1. 【[屁巴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_ba_zz.md#屁巴子)】`pi5 ba1 zz` <sup>[如皋]</sup> 没有，没有了。  
 1. 【[屁巴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_ba_zz.md#屁巴子)】`pi5 ba1 zz` <sup>[如东]</sup> 屁是从肛门喷出的一种臭气，不可能形成巴子。比喻什么都没有。  

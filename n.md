@@ -1797,6 +1797,7 @@
 1. 【[鸟<sub>儿</sub>窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio_r_ku.md#鸟<sub>儿</sub>窠)】`nio3 r ku1` <sup>[如皋]</sup> ① 鸟窝。 ② 锁骨上方皮肤的凹处。  
 1. 【[鸟<sub>儿</sub>上窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio_r_shan_ku.md#鸟<sub>儿</sub>上窠)】`nio3 r shan6 ku1` <sup>[如皋]</sup> 黄昏时分。  
 1. 【[嬲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio.md#嬲)】`nio5` <sup>[如皋]</sup> ① 蠕动、扭动、翘起：蛆子～动。 ② 引逗、撩拨：他会～人家说话。  
+1. 【[嬲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio.md#嬲)】`nio5` <sup>[兴化]</sup> 扭动、向上翘：大火直往上～。｜蛇㐁子～啊～的。  
 1. 【[嬲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio.md#嬲)】`nio5` <sup>[东台]</sup> ① 昆虫蠕动状：菜虫一～一～的。 ② ［引］后来翘：房价往上～｜文章结尾～上去啊。  
 1. 【[嬲魆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio_xyeh.md#嬲魆)】`nio5 xyeh7` <sup>[如东]</sup> ① 耍计谋：这个人非常～。 ② 调皮：这个伢儿非常～。  
 1. 【[尿床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio_chuan.md#尿床)】`nio6 chuan2` <sup>[如东]</sup> 将尿尿在床铺上，多指小儿  

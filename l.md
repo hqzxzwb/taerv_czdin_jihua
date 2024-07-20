@@ -1734,10 +1734,7 @@
 1. 【[了首尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_sheu_vei.md#了首尾)】`lio3 sheu3 vei3` <sup>[泰县]</sup> 完成了培育子女的事。  
 1. 【[了微<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_vei_r.md#了微<sub>儿</sub>)】`lio3 vei2 r` <sup>[如东]</sup> 稍微：～晚点。  
 1. 【[了戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_xi.md#了戏)】`lio3 xi5` <sup>[兴化]</sup> ① 完了：～！皮五辣子今日是非打肉不可了……（扬说《皮五辣子打肉》三） ② “死”的隐语：老王三～啊。  
-1. 【[撩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio.md#撩)】`lio5` <sup>[兴化]</sup> 扭动、向上翘：大火直往上～。｜蛇㐁子～啊～的。  
-1. 【[飉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio.md#飉)】`lio5` <sup>[兴化]</sup> 微风习习：夏天的野外东南风～～的。《集韵·萧韵》怜萧切“～，小风也。”  
-1. 【[尥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio.md#尥)】`lio6` <sup>[兴化]</sup> ① 以足钩人使跌。 ② 互相打斗：有种过来～一交。 ③ 《吴下方言考》“案～，斜舒足钩倒人也。吴中谓舒足钩人曰～。”  
-1. 【[尥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio.md#尥)】`lio6` <sup>[兴化]</sup> 大步走：他走起路来两条长腿直～。  
+1. 【[尥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio.md#尥)】`lio6` <sup>[兴化]</sup> ① 以足钩人使跌。《吴下方言考》“案～，斜舒足钩倒人也。吴中谓舒足钩人曰～。” ② 互相打斗：有种过来～一交。 ③ 大步走：他走起路来两条长腿直～。  
 1. 【[尥脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_jiah.md#尥脚)】`lio6 jiah7` <sup>[如皋]</sup> 腿脚不住的踢动。  
 1. 【[尥脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_jiah_r.md#尥脚<sub>儿</sub>)】`lio6 jiah7 r` <sup>[如东]</sup> ① 走路时，脚腿向前一甩一甩的样子。 ② 走路时脚腿甩动的人。  
 1. 【[尥脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_jiah_r.md#尥脚<sub>儿</sub>)】`lio6 jiah7 r` <sup>[如皋]</sup> ① 走路时腿脚向前时好像踢动，或指这种人。 ② 小儿麻痹症患者。  

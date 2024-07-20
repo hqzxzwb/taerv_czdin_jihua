@@ -908,8 +908,8 @@
 1. 【[头皮缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_pi_gan.md#头皮缸)】`teu2 pi2 gan1` <sup>[如东]</sup> 缸的一种。陶制，口大，底小。口径比砂缸略小。可以装水或物。  
 1. 【[头鐅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_pih.md#头鐅)】`teu2 pih` <sup>[如皋]</sup> 大鐅缸。  
 1. 【[头□面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_pu_min.md#头□面)】`teu2 pu1 min6` <sup>[泰县]</sup> 小麦磨下的第一道面粉。  
-1. 【[头□糏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_pu_xih.md#头□糏)】`teu2 pu5 xih7` <sup>[如东]</sup> 小麦磨出来的第一批面粉。  
-1. 【[头破糏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_pu_xih.md#头破糏)】`teu2 pu5 xih7` <sup>[如皋]</sup> 见“头膏糏”。另有二破糏、三破糏……。破，次。  
+1. 【[头破糏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_pu_xih.md#头破糏)】`teu2 pu5 xih7` <sup>[如皋]</sup> 见“头交糏”。另有二破糏、三破糏……。破，次。  
+1. 【[头破糏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_pu_xih.md#头破糏)】`teu2 pu5 xih7` <sup>[如东]</sup> 小麦磨出来的第一批面粉。  
 1. 【[头齐脚不齐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_qi_jiah_beh_qi.md#头齐脚不齐)】`teu2 qi2 jiah7 beh7 qi2` <sup>[东台]</sup> 形容某人打扮不得体。  
 1. 【[头樯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_qian.md#头樯)】`teu2 qian2` <sup>[如东]</sup> 帆船上的桅樯，竖在船头左舷，固定在箍头上。也叫头桅、头提。  
 1. 【[头樯篷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_qian_pon.md#头樯篷)】`teu2 qian2 pon2` <sup>[如东]</sup> 头樯上的风帆。  

@@ -406,8 +406,7 @@
 1. 【[塞铁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh_tih.md#塞铁)】`seh7 tih7` <sup>[如皋]</sup> 楔铁。多为熟铁件，型类较多。  
 1. 【[摵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh.md#摵)】`seh7` 摔：～炮/一种向地上摔的折纸玩具，又指一种落地即响的鞭炮。｜～咖个跟头。｜他来啊气，逮住茶杯问地下一～。  
 1. 【[摵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh.md#摵)】`seh7` <sup>[如东]</sup> 把东西尽力往地上掼：她气啊把碗～咖地下。  
-1. 【[摵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh.md#摵)】`seh7` <sup>[如皋]</sup> ① 打：～巴掌。 ② 拍：～堂灰。 ③ 掼：～碗。 ④ 撞：撞天～地。 ⑤ 走：跑东～西。 ⑥ 甩、摆动：手膀子跑啊～起来呀。 ⑦ 旋转：～转转儿。 ⑧ 玄晕：头里～咖～的。  
-1. 【[摵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh.md#摵)】`seh7` <sup>[东台]</sup> ① 抽打：你再回嘴回舌，当心我～咖你！ ② 跌倒：～咖个跟头。 ③ 疾行，忽然去到：衣裳一披，河东～到河西。  
+1. 【[摵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh.md#摵)】`seh7` <sup>[如皋]</sup> 打：～巴掌。｜风把树叶子～下来呀。  
 1. 【[摵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh.md#摵)】`seh7` <sup>[兴化]</sup> ① 拍打：把裤子上的灰～～。 ② 打、摔：～他两下子｜把碗～得粉碎。 ③ 摆脱：小黄又把女朋友～掉啊。  
 1. 【[摵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh.md#摵)】`seh7` <sup>[泰县]</sup> ① 摔、挥：～钱墩。 ② 抽打：我～咖你啊。 ③ 转：～个大圈子。  
 1. 【[摵把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh_ba.md#摵把)】`seh7 ba3` <sup>[兴化]</sup> 见“掼把”。  
@@ -418,7 +417,6 @@
 1. 【[摵炮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh_po.md#摵炮)】`seh7 po5` 砸纸片游戏。  
 1. 【[摵钱墩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh_qin_den_r.md#摵钱墩<sub>儿</sub>)】`seh7 qin2 den1 r` <sup>[如皋]</sup> 游戏名。预置一枚铜钱于砖墩，轮流用铜钱，击落则取，并继续；击之铜钱落于墩上则任人𢬘。成人以为赌博。  
 1. 【[摵圈圈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh_qiun_qiun_r.md#摵圈圈<sub>儿</sub>)】`seh7 qiun1 qiun1 r` <sup>[如皋]</sup> 旋转。  
-1. 【[涩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh.md#涩)】`seh7` <sup>[如皋]</sup> 转、滑不爽：车轴发～，要清洗上油。  
 1. 【[涩嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh_jy.md#涩嘴)】`seh7 jy3` <sup>[如东]</sup> 一种味道使舌头感觉酸麻：柿子不熟，吃起来～。  
 1. 【[涩嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh_jy.md#涩嘴)】`seh7 jy3` <sup>[如皋]</sup> 口感涩：菠菜、青柿子不处理啊好啊总～。  
 1. 【[涩卤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh_lv.md#涩卤)】`seh7 lv3` <sup>[如东]</sup> 不滑爽。  
@@ -435,7 +433,6 @@
 1. 【[色蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh_taen.md#色蛋)】`seh7 taen6` <sup>[兴化]</sup> 受精的禽蛋：收～孵小鸡。  
 1. 【[色相不对](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh_xian_beh_duei.md#色相不对)】`seh7 xian5 beh7 duei5` <sup>[如皋]</sup> 脸色异常。  
 1. 【[色相不对](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh_xian_beh_duei.md#色相不对)】`seh7 xian5 beh7 duei5` <sup>[如皋]</sup> 表情及气色异常。  
-1. 【[𡐥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh.md#𡐥)】`seh7` <sup>[如皋]</sup> 陨落：风把树叶子～下来呀。  
 1. 【[𨀛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sen.md#𨀛)】`sen2` <sup>[泰县]</sup> ① 留。 ② 蹲：他～吖那块大半天。  
 1. 【[馊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seu.md#馊)】`seu1` <sup>[如东]</sup> 食物变质而发出异味：饭～啊。  
 1. 【[馊饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seu_faen.md#馊饭)】`seu1 faen6` <sup>[如东]</sup> 变质而发出异味的饭。  
