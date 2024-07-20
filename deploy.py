@@ -108,6 +108,8 @@ def parse_cont(cont, fname, cz_ien):
     for cz, ien in mixed:
         sort_key += ien + ' ' + cz + ' '
         word += cz
+        # if cz == '属':
+            # print("【%s】中的【%s】读作【%s】" % (raw_word, cz, ien))
         if ien != '' and cz != '□' and len(cz) == 1 and cz not in cz_ien[ien.rstrip('9')]:
             print("未登记的字音：【%s】中的【%s】读作【%s】" % (raw_word, cz, ien))
     check_path(fname, mixed, word)
