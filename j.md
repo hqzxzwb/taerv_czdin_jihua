@@ -851,13 +851,13 @@
 1. 【[惊觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gah.md#惊觉)】`jien1 gah` <sup>[兴化]</sup> 被突然刺激（如响动、梦魇等）所惊醒：睡到四更时分，门外一片声大贼，两弟兄一齐～……（《儒林外史》四五）｜（黄）飞虎猛然一，那灯光依旧复明。（《封神演义》三二）  
 1. 【[惊𠵹神𠵹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gan_shen_gan.md#惊𠵹神𠵹)】`jien1 gan1 shen2 gan1` <sup>[东台]</sup> 形容过分张扬，弄得沸沸扬扬，惊动许多人。  
 1. 【[惊哈把蹊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_ha_ba_qi.md#惊哈把蹊)】`jien1 ha1 ba3 qi1` <sup>[东台]</sup> 形容大惊小怪的样子。  
-1. 【[惊慌失措](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_huan_sheh_cu.md#惊慌失措)】`jien1 huan1 sheh7 cu5` <sup>[如东]</sup> 因为紧张而忘记采取适当的措施：不要～。  
+1. 【[惊慌失措](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_huan_sheh_cv.md#惊慌失措)】`jien1 huan1 sheh7 cv5` <sup>[如东]</sup> 因为紧张而忘记采取适当的措施：不要～。  
 1. 【[惊惊怵怵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_jien_chueh_chueh.md#惊惊怵怵)】`jien1 jien1 chueh7 chueh7` <sup>[兴化]</sup> 恐惧不安的样子：听说附近出咖命案，吓得他几个晚上～的。  
 1. 【[惊惊憷憷的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_jien_chv_chv_dii.md#惊惊憷憷的)】`jien1 jien1 chv5 chv5 dii` <sup>[如皋]</sup> ① 恐惧不安状。 ② 轻度痉挛。  
 1. 【[惊惊撮撮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_jien_cuh_cuh.md#惊惊撮撮)】`jien1 jien1 cuh7 cuh7` <sup>[东台]</sup> 小孩因为受到惊吓而抽搐。［引］大惊小怪。  
 1. 【[惊惊乍乍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_jien_zha_zha.md#惊惊乍乍)】`jien1 jien1 zha5 zha5` <sup>[兴化]</sup> 因惊恐而神情异常：她这几天～的，不晓得怕甚的？  
 1. 【[惊吖惊的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_nga_jien_dii.md#惊吖惊的)】`jien1 nga jien1 dii` <sup>[如皋]</sup> 见“惊惊憷憷”的。  
-1. 【[惊□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_tan.md#惊□)】`jien1 tan1` <sup>[兴化]</sup> ① 紧张：他一见这种大阵势，有点～。 ② 受突然刺激而感惊恐不适：婴儿初下浴池洗澡都会～啼哭。  
+1. 【[惊汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_tan.md#惊汤)】`jien1 tan1` <sup>[兴化]</sup> ① 紧张：他一见这种大阵势，有点～。 ② 受突然刺激而感惊恐不适：婴儿初下浴池洗澡都会～啼哭。  
 1. 【[惊蛰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zheh.md#惊蛰)】`jien1 zheh7` <sup>[东台]</sup> 二十四节气之一，通常在3月5、6或7日。  
 1. 【[斤重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_chon.md#斤重)】`jien1 chon` <sup>[兴化]</sup> 重量：这条鱼～不小。  
 1. 【[斤两](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_lian.md#斤两)】`jien1 lian3` <sup>[东台]</sup> 分量：你看这个山芋有多少～？  
@@ -1123,7 +1123,7 @@
 1. 【[勼皮打裥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_pi_da_gaen.md#勼皮打裥)】`jieu1 pi2 da3 gaen3` <sup>[如东]</sup> 不平整：衣服洗啊不曾烫，～的。  
 1. 【[揪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu.md#揪)】`jieu1` <sup>[如东]</sup> 用手扭住不放：～住他。  
 1. 【[揪斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_deu.md#揪斗)】`jieu1 deu5` <sup>[东台]</sup> 指把人抓住并进行批斗。  
-1. 【[揪顶搭<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_din_daeh_r.md#揪顶搭<sub>儿</sub>)】`jieu1 din3 daeh7 r` <sup>[如东]</sup> ① 用手抓头发。 ② 比喻打架。  
+1. 【[揪顶搭<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_dien_daeh_r.md#揪顶搭<sub>儿</sub>)】`jieu1 dien3 daeh7 r` <sup>[如东]</sup> ① 用手抓头发。 ② 比喻打架。  
 1. 【[揪揪撮撮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_jieu_cuh_cuh.md#揪揪撮撮)】`jieu1 jieu1 cuh7 cuh7` <sup>[东台]</sup> 因担心害怕而心理上十分压抑。  
 1. 【[揪揪掐掐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_jieu_kaeh_kaeh.md#揪揪掐掐)】`jieu1 jieu1 kaeh7 kaeh7` <sup>[兴化]</sup> 提着皮肉使动扭：这个娘心狠哎，对前头丢下来的伢儿一碰～的。  
 1. 【[揪扭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_nieu.md#揪扭)】`jieu1 nieu3` <sup>[东台]</sup> 抓住，扭打在一块：他俫～啊上吖派出所。  
@@ -1320,7 +1320,7 @@
 1. 【[结冰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_bien.md#结冰)】`jih7 bien1` <sup>[如东]</sup> 液体在温度摄氏零度以下由液态转变为固态，这种转变称为结冰。  
 1. 【[结暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_bo.md#结暴)】`jih7 bo5` <sup>[如皋]</sup> 见“掉暴”。  
 1. 【[结底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_di.md#结底)】`jih7 di3` <sup>[如皋]</sup> 终结。  
-1. 【[结荚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_gah_r.md#结荚<sub>儿</sub>)】`jih7 gah7 r` <sup>[如皋]</sup> 豆科植物结出荚来。  
+1. 【[结角<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_gah_r.md#结角<sub>儿</sub>)】`jih7 gah r` <sup>[如皋]</sup> 豆科植物结出荚来。  
 1. 【[结恭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_gon.md#结恭)】`jih7 gon1` <sup>[如东]</sup> 便秘：这几天我～，难受死啊。  
 1. 【[结棍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_guen.md#结棍)】`jih7 guen5` 厉害  
 1. 【[结棍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_guen.md#结棍)】`jih7 guen5` <sup>[如东]</sup> ① 形容物体坚固。 ② 形容身体健壮。  

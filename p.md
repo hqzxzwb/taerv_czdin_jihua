@@ -1332,9 +1332,9 @@
 1. 【[婆媳睡一床——没公夫（功夫）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_xieh_shuei_ieh_chuan_meh_gon_fv.md#婆媳睡一床——没公夫（功夫）)】`pu2 xieh7 shuei5 ieh7 chuan2 meh8 gon1 fv1` <sup>[东台]</sup>   
 1. 【[婆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_zz.md#婆子)】`pu2 zz` <sup>[兴化]</sup> 中老年妇女，且常指仆妇：就是王纪先有两个待妾，在后面居住，有几个丫头～。（《续小五义》）  
 1. 【[婆子气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_zz_qi.md#婆子气)】`pu2 zz qi5` <sup>[兴化]</sup> 见“婆婆腔”。  
-1. 【[剖解/破解](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_gae.md#剖解/破解)】`pu4 gae3` <sup>[泰县]</sup> 解剖。  
 1. 【[剖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu.md#剖)】`pu5` <sup>[如东]</sup> 用刀刃切开。训读。  
 1. 【[剖解](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_gae.md#剖解)】`pu5 gae3` <sup>[如东]</sup> 剖析解释：他的脑筋不分清，你～给他听。  
+1. 【[剖解/破解](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_gae.md#剖解/破解)】`pu5 gae3` <sup>[泰县]</sup> ① 解剖。 ② 剖析：这事我～啊你听。  
 1. 【[剖鱼肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_y_dv_zz.md#剖鱼肚子)】`pu5 y2 dv3 zz` <sup>[如东]</sup> 用刀将鱼肚子剖开来。切开大腿或小腿。比喻剖开物体。  
 1. 【[破](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu.md#破)】`pu5` <sup>[如皋]</sup> 量词：淘米要淘两～。如皋词典写“番”。  
 1. 【[破](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu.md#破)】`pu5` <sup>[兴化]</sup> ① 分析和解释，也说“破解”：覅急，我慢慢～把你听。 ② 大钞换小钞：跟你～一百块钱单票子。  
@@ -1387,7 +1387,6 @@
 1. 【[破相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_xian.md#破相)】`pu5 xian5` <sup>[东台]</sup> 因脸部受伤使容貌受损。  
 1. 【[破相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_xian.md#破相)】`pu5 xian5` <sup>[兴化]</sup> ① 面部受伤留下疤痕：小苏脸部烧伤，好虽好了，但是破啊相。 ② 暴露真面目：“……万家走了出来，就由不得自己跪着……才餬的去了，不曾～。”（《儒林外史》二三）  
 1. 【[破晓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_xio.md#破晓)】`pu5 xio3` <sup>[如东]</sup> 天刚亮：天刚～，我俫就来啊。  
-1. 【[剖解](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_gae.md#剖解)】`pu6 gae3` <sup>[泰县]</sup> 剖析：这事我～啊你听。  
 1. 【[泼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh.md#泼)】`puh7` <sup>[如皋]</sup> 用沸水泼浇的加工食品方法：～菜、～圆子糏。  
 1. 【[泼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh.md#泼)】`puh7` <sup>[兴化]</sup> ① 液体或颗粒物从容器中撒出：水～出来啊。 ② 有活力、有生气：她不怕苦、不怕累，～唃！  
 1. 【[泼菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh_cae.md#泼菜)】`puh7 cae5` <sup>[如皋]</sup> 沸水泼过的大头菜丝，供冷拌。  
@@ -1462,10 +1461,9 @@
 1. 【[盘搅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_jio.md#盘搅)】`pun2 jio3` <sup>[兴化]</sup> 日常开支或办事的花费：而今婚丧节庆，砌房造屋～大发吤！  
 1. 【[盘篮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_laen.md#盘篮)】`pun2 laen2, pun2 laen3, pu2 laen2, pu2 laen3` <sup>[如皋]</sup> 篾制深盘状盛器。口径约11.5m。  
 1. 【[盘篮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_laen.md#盘篮)】`pun2 laen2` <sup>[如东]</sup> 竹篾或柳条编成的器具，圆形，直径4尺，帮高1尺。用于装盛谷物。也称笸篮。  
+1. 【[盘篮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_laen.md#盘篮)】`pun2 laen2-3` <sup>[东台]</sup> 竹编的大圆匾子。农家常用于筛簸粮食和晾东西。  
 1. 【[盘篮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_laen.md#盘篮)】`pun2 laen2-3` <sup>[泰县]</sup> 大圆匾：这个～里放的是甚的？  
 1. 【[盘揽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_laen.md#盘揽)】`pun2 laen3` <sup>[兴化]</sup> 大篾匾：～里晒的萝卜干子。  
-1. 【[盘揽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_laen.md#盘揽)】`pun2 laen3` <sup>[泰县]</sup> 圆匾。  
-1. 【[盘篮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_laen.md#盘篮)】`pun2 laen3` <sup>[东台]</sup> 竹编的大圆匾子。农家常用于筛簸粮食和晾东西。  
 1. 【[盘面子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_min_zz.md#盘面子)】`pun2 min6 zz` <sup>[兴化]</sup> 木工在制作方桌时，将桌面的边框拼凑起来，并打磨光滑。  
 1. 【[盘吖摸的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_nga_mah_dii.md#盘吖摸的)】`pun2 nga mah8 dii` <sup>[如皋]</sup> 盘弄不停。  
 1. 【[盘盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_pun.md#盘盘)】`pun2 pun` <sup>[如东]</sup> ① 做做：让他～。 ② 回回：～输。  

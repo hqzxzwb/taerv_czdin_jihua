@@ -244,7 +244,7 @@
 1. 【[掐掐<sub>儿</sub>的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh_kaeh_r_dii.md#掐掐<sub>儿</sub>的)】`kaeh7 kaeh7 r dii` <sup>[如东]</sup> 数量勉强接近：二十斤大米～。  
 1. 【[掐掐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh_kaeh_zz.md#掐掐子)】`kaeh7 kaeh7 zz` <sup>[兴化]</sup> 很小、很少：小猫生下来只有～大。｜虾籽太贵，二十块钱才买啊～。  
 1. 【[掐钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh_qin.md#掐钱)】`kaeh7 qin2` <sup>[如皋]</sup> ① 在照价给钱时还要少给一点。 ② 从预算份额中扣下一点，不给足。  
-1. 【[掐是嗲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh_shr_dia.md#掐是嗲)】`kaeh7 shr6 dia1` <sup>[兴化]</sup> （部分村镇语）疑问代词，意为是吗？是也不是：听说老张和老王是两亲家。——～？  
+1. 【[掐是的<sub>啊</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh_shr_dia.md#掐是的<sub>啊</sub>)】`kaeh7 shr6 dia1` <sup>[兴化]</sup> （部分村镇语）疑问代词，意为是吗？是也不是：听说老张和老王是两亲家。——～？  
 1. 【[掐算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh_sun.md#掐算)】`kaeh7 sun5` <sup>[如东]</sup> 推算，计算：～喜日。  
 1. 【[掐头放生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh_teu_fan_shen.md#掐头放生)】`kaeh7 teu2 fan5 shen1` <sup>[东台]</sup> ［喻］指尽管受尽折磨，还祈求放其一条生路。  
 1. 【[掐头放生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh_teu_fan_shen.md#掐头放生)】`kaeh7 teu2 fan5 shen1` <sup>[泰县]</sup> 饶命。  
@@ -1257,10 +1257,10 @@
 1. 【[看亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_qien.md#看亲)】`kun5 qien1` <sup>[兴化]</sup> 相亲：今朝她跟三姨娘、六舅母一起，到邻庄为儿子～。  
 1. 【[看青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_qien.md#看青)】`kun5 qien1` <sup>[兴化]</sup> 旧时，在庄稼收割前，家住城镇的田主下乡踏勘估产。  
 1. 【[看乔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_qio.md#看乔)】`kun5 qio2` <sup>[兴化]</sup> 被看透、被藐视：你这吖不长进，都捱人～啊。  
-1. 【[看人兑汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_ren_duei_tan.md#看人兑汤)】`kun5 ren2 duei5 tan1` <sup>[兴化]</sup> （喻）形容眼光势利，对各别的人不同对待。谚曰：刘豁子下饺儿（馄饨）——～。  
 1. 【[看人家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_ren_ga.md#看人家)】`kun5 ren2 ga` <sup>[如皋]</sup> 旧式婚嫁仪程之一。女家暗访之后，正式有媒人陪同至男家看望。男家治酒接待。女家入席则表示满意，不满意则辞归。  
 1. 【[看人家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_ren_ga.md#看人家)】`kun5 ren2 ga1` <sup>[如东]</sup> ① 姑娘或姑娘的母亲由媒人陪着到男家看望，了解情况，叫做看人家。 ② 男家治酒接待。女家人入席表示满意，不满意则辞归。  
 1. 【[看人挑担不吃力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_ren_tio_daen_beh_qieh_lieh.md#看人挑担不吃力)】`kun5 ren2 tio1 daen5 beh7 qieh7 lieh8` <sup>[东台]</sup> （俗语）意思是自己不实践，体会不到别人负担沉重。  
+1. 【[看人兑汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_ren_tuei_tan.md#看人兑汤)】`kun5 ren2 tuei6 tan1` <sup>[兴化]</sup> （喻）形容眼光势利，对各别的人不同对待。谚曰：刘豁子下饺儿（馄饨）——～。  
 1. 【[看日子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_rih_zz.md#看日子)】`kun5 rih8 zz` <sup>[东台]</sup> 选拣良辰吉日。  
 1. 【[看日子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_rih_zz.md#看日子)】`kun5 rih8 zz` <sup>[兴化]</sup> ① 选定婚期的仪式。 ② 讽刺人遇事推延：他做事要～唻，不到时候就不忙。  
 1. 【[看散花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_saen_hua.md#看散花)】`kun5 saen5 hua1` <sup>[如东]</sup> 看笑话：他俫都在下～。  

@@ -224,7 +224,7 @@
 1. 【[三代朋友，三代弟兄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_tae_pon_ieu_saen_tae_ti_xion.md#三代朋友，三代弟兄)】`saen1 tae6 pon2 ieu3 saen1 tae6 ti6 xion` <sup>[东台]</sup> 与几代人都有共事、交往的情谊，难分辈分。  
 1. 【[三代属犬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_tae_shoh_qiun.md#三代属犬)】`saen1 tae6 shoh8 qiun3` <sup>[兴化]</sup> 市井骂人语，相当于“狗狗日的”。  
 1. 【[三踏步床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_taeh_pv_chuan.md#三踏步床)】`saen1 taeh8 pv6 chuan2` <sup>[如皋]</sup> 床前有三进槅架，每进两端都有几、杌、架。旧时大家人家用。  
-1. 【[三头六臂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_teu_loh_bei.md#三头六臂)】`saen1 teu2 loh8 bei5` <sup>[东台]</sup> ［喻］形容神通广大。  
+1. 【[三头六臂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_teu_loh_bi.md#三头六臂)】`saen1 teu2 loh8 bi5-bei5` <sup>[东台]</sup> ［喻］形容神通广大。  
 1. 【[三头六眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_teu_loh_ngaen.md#三头六眼)】`saen1 teu2 loh8 ngaen3` <sup>[如东]</sup> 比喻眼光锐利：这个人～的，你要当心。  
 1. 【[三天不冷，三天不滚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_tin_beh_len_saen_tin_beh_guen.md#三天不冷，三天不滚)】`saen1 tin1 beh7 len3 saen1 tin1 beh7 guen3` <sup>[东台]</sup> 像温吞水一样，平平淡淡，没有突破。  
 1. 【[三天不离午朝门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_tin_beh_li_v_cho_men.md#三天不离午朝门)】`saen1 tin1 beh7 li2 v3 cho2 men2` <sup>[东台]</sup> （贬）形容几乎天天来访，死死缠着不松劲。  
@@ -303,7 +303,7 @@
 1. 【[散神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_shen.md#散神)】`saen3 shen2` <sup>[兴化]</sup> ① 精神不集中：开车的时候千万不能～。 ② 神经兴奋，不能抑制：晚上看电视看吖～，好长时间睏不着觉。  
 1. 【[散手散脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheu_saen_jiah.md#散手散脚)】`saen3 sheu3 saen3 jiah7` <sup>[兴化]</sup> 摆脱了羁绊：伢儿由二老带啊走，我俫可以～的工作、学习咖。  
 1. 【[散手散脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheu_saen_jiah.md#散手散脚)】`saen3 sheu3 saen3 jiah7` <sup>[泰县]</sup> 无牵挂，活动自由。  
-1. 【[散鬆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_son.md#散鬆)】`saen3 son` <sup>[如皋]</sup> 鬆爽，互不粘黏；头发～、慢头吃口～。  
+1. 【[散松](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_son.md#散松)】`saen3 son` <sup>[如皋]</sup> 松爽，互不粘黏：头发～｜馒头吃口～。  
 1. 【[散松松](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_son_son.md#散松松)】`saen3 son1 son1` <sup>[兴化]</sup> ① 物体干燥松软：稻草晒得～的。｜头发吹得～的。 ② 物体结构松散：晴雯先将里子拆开……再将破口四边用金刀刮的～的……（《红楼梦》五二）  
 1. 【[馓䌁<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_io_r.md#馓䌁<sub>儿</sub>)】`saen3 io5 r` <sup>[东台]</sup> 即馓子，因像草䌁故名。  
 1. 【[散场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_chan.md#散场)】`saen5 chan2` <sup>[如东]</sup> 场活动的结束：大会已经～。  
@@ -416,6 +416,7 @@
 1. 【[摵牌<sub>儿</sub>饼饼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh_pae_r_bien_bien_r.md#摵牌<sub>儿</sub>饼饼<sub>儿</sub>)】`seh7 pae2 r bien3 bien3 r` <sup>[如皋]</sup> 儿童游戏。与“摵钱墩儿”类似。见“牌儿饼饼儿”。  
 1. 【[摵㗘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh_pah.md#摵㗘)】`seh7 pah7` <sup>[兴化]</sup> 闲聊：夏天晚上几个人乘凉，～摵到半夜。  
 1. 【[摵炮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh_po.md#摵炮)】`seh7 po5` 砸纸片游戏。  
+1. 【[摵钱墩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh_qin_den_r.md#摵钱墩<sub>儿</sub>)】`seh7 qin2 den1 r` <sup>[如皋]</sup> 游戏名。预置一枚铜钱于砖墩，轮流用铜钱，击落则取，并继续；击之铜钱落于墩上则任人𢬘。成人以为赌博。  
 1. 【[摵圈圈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh_qiun_qiun_r.md#摵圈圈<sub>儿</sub>)】`seh7 qiun1 qiun1 r` <sup>[如皋]</sup> 旋转。  
 1. 【[涩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh.md#涩)】`seh7` <sup>[如皋]</sup> 转、滑不爽：车轴发～，要清洗上油。  
 1. 【[涩嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh_jy.md#涩嘴)】`seh7 jy3` <sup>[如东]</sup> 一种味道使舌头感觉酸麻：柿子不熟，吃起来～。  
@@ -435,7 +436,6 @@
 1. 【[色相不对](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh_xian_beh_duei.md#色相不对)】`seh7 xian5 beh7 duei5` <sup>[如皋]</sup> 脸色异常。  
 1. 【[色相不对](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh_xian_beh_duei.md#色相不对)】`seh7 xian5 beh7 duei5` <sup>[如皋]</sup> 表情及气色异常。  
 1. 【[𡐥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh.md#𡐥)】`seh7` <sup>[如皋]</sup> 陨落：风把树叶子～下来呀。  
-1. 【[𢬘钱墩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh_qin_den_r.md#𢬘钱墩<sub>儿</sub>)】`seh7 qin2 den1 r` <sup>[如皋]</sup> 游戏名。预置一枚铜钱于砖墩，轮流用铜钱，击落则取，并继续；击之铜钱落于墩上则任人𢬘。成人以为赌博。  
 1. 【[𨀛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sen.md#𨀛)】`sen2` <sup>[泰县]</sup> ① 留。 ② 蹲：他～吖那块大半天。  
 1. 【[馊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seu.md#馊)】`seu1` <sup>[如东]</sup> 食物变质而发出异味：饭～啊。  
 1. 【[馊饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seu_faen.md#馊饭)】`seu1 faen6` <sup>[如东]</sup> 变质而发出异味的饭。  
@@ -1174,7 +1174,7 @@
 1. 【[适转转<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_zhun_zhun_r.md#适转转<sub>儿</sub>)】`sheh7 zhun5 zhun5 r` <sup>[东台]</sup> 围绕某一点兜圈子。  
 1. 【[𥼶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh.md#𥼶)】`sheh7` <sup>[如皋]</sup> 浸泡：～场米、～蚕豆儿。  
 1. 【[什啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_a.md#什啊)】`sheh8 a` <sup>[泰县]</sup> 什么。  
-1. 【[十八层地狱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_baeh_cen_ti.md#十八层地狱)】`sheh8 baeh cen2 ti6 ioh7` <sup>[泰兴]</sup> 传说中的阴司地府，为鬼神惩戒恶人之所。打入十八层地狱，即谓受尽极刑之苦，乡人常用于受尽苦难方面。  
+1. 【[十八层地狱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_baeh_cen_ti.md#十八层地狱)】`sheh8 baeh cen2 ti6 ioh8-7` <sup>[泰兴]</sup> 传说中的阴司地府，为鬼神惩戒恶人之所。打入十八层地狱，即谓受尽极刑之苦，乡人常用于受尽苦难方面。  
 1. 【[十八房佮咖一个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_baeh_fan_guh_ga_ieh_gu.md#十八房佮咖一个)】`sheh8 baeh7 fan2 guh7 ga ieh7 gu5` <sup>[东台]</sup> 形容极其宝贵，不能有一点闪失。  
 1. 【[十八里相送——难舍难分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_baeh_li_xian_son_naen_sha_naen_fen.md#十八里相送——难舍难分)】`sheh8 baeh7 li3 xian1 son5 naen2 sha3 naen2 fen1` <sup>[东台]</sup>   
 1. 【[十八岁长胡子——老相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_baeh_xy_zhan_hv_zz_lo_xian.md#十八岁长胡子——老相)】`sheh8 baeh7 xy5 zhan3 hv2 zz lo3 xian5` <sup>[东台]</sup>   

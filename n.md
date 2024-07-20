@@ -59,7 +59,7 @@
 1. 【[拿麻筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_ma_jien.md#拿麻筋)】`na2 ma2 jien1` <sup>[如皋]</sup> ① 推拿一法，抓捏筋肉。 ② 抓住了关节点。  
 1. 【[拿门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_men.md#拿门)】`na2 men2` <sup>[如东]</sup> 绝招：这项手艺是他的～。  
 1. 【[拿摩瘟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_mo_ven.md#拿摩瘟)】`na2 mo ven1` <sup>[如东]</sup> 比喻温顺、无用的老头：他是一个～，一天到晚不说话。  
-1. 【[拿磨<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_mo_r.md#拿磨<sub>儿</sub>)】`na2 mo6 r` <sup>[兴化]</sup> 一种游戏，用瓦片打成棋子大小（或用小布袋装泥砂），在平地上用手拈：（金如松）晓得桂香、梅香都愿跟他玩｜～、躲蒙儿、办家家儿。（马春阳《姐妹姻缘船迷传》）  
+1. 【[拿磨<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_mu_r.md#拿磨<sub>儿</sub>)】`na2 mu6 r` <sup>[兴化]</sup> 一种游戏，用瓦片打成棋子大小（或用小布袋装泥砂），在平地上用手拈：（金如松）晓得桂香、梅香都愿跟他玩｜～、躲蒙儿、办家家儿。（马春阳《姐妹姻缘船迷传》）  
 1. 【[拿牙齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_nga_chr.md#拿牙齿)】`na2 nga2 chr` <sup>[泰县]</sup> 拔牙。  
 1. 【[拿牙齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_nga_chr.md#拿牙齿)】`na2 nga2 chr3` <sup>[兴化]</sup> 拔牙。  
 1. 【[拿牙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_nga_zz.md#拿牙子)】`na2 nga2 zz` <sup>[如皋]</sup> 拔牙。  
@@ -155,7 +155,7 @@
 1. 【[奶子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_zz.md#奶子)】`nae3 zz` <sup>[兴化]</sup> 乳房。  
 1. 【[奶子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_zz.md#奶子)】`nae3 zz` <sup>[泰县]</sup> 乳房。  
 1. 【[奶子头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_zz_teu_r.md#奶子头<sub>儿</sub>)】`nae3 zz teu2 r` <sup>[如皋]</sup> 乳头。  
-1. 【[耐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae.md#耐)】`nae5` <sup>[如皋]</sup> 难咽状：。一口饭～啊半大天，喉咙管儿里不得下去。  
+1. 【[耐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae.md#耐)】`nae5` <sup>[如皋]</sup> 难咽状：一口饭～啊半大天，喉咙管儿里不得下去。  
 1. 【[耐不住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_beh_chv.md#耐不住)】`nae6 beh chv6` <sup>[如皋]</sup> 忍耐不住。  
 1. 【[耐住啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_chv_a.md#耐住啊)】`nae6 chv a` <sup>[如皋]</sup> 忍耐住。  
 1. 【[耐得住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_deh_chv.md#耐得住)】`nae6 deh chv6` <sup>[如皋]</sup> 忍得住。  
@@ -777,7 +777,7 @@
 1. 【[眼睛合咖缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jien_huh_ga_fon.md#眼睛合咖缝)】`ngaen3 jien huh8 ga fon6` <sup>[如皋]</sup> ① 眼睑水肿不能睁。 ② 角膜炎或睡醒后，因糊眼眵而不能睁。  
 1. 【[眼睛一眨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jien_ieh_zhaeh.md#眼睛一眨)】`ngaen3 jien ieh7 zhaeh7` <sup>[如皋]</sup> 状时间极短，变化极快：～，母鸡变雄鸭。  
 1. 【[眼睛一眨，老母鸡变雄鸭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jien_ieh_zhaeh_lo_mu_ji_bin_ion_ngaeh.md#眼睛一眨，老母鸡变雄鸭)】`ngaen3 jien ieh7 zhaeh7 lo3 mu3 ji1 bin5 ion2 ngaeh7` <sup>[东台]</sup> 形容情况变化很快，出人意料。  
-1. 【[眼睛一睁，忙到熄灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jien_ieh_zhen_man_do_xieh_den.md#眼睛一睁，忙到熄灯)】`ngaen3 jien ieh7 zhen1 man2 do5 xieh7 den3` <sup>[东台]</sup> 形容一天到晚忙忙碌碌。  
+1. 【[眼睛一睁，忙到熄灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jien_ieh_zhen.md#眼睛一睁，忙到熄灯)】`ngaen3 jien ieh7 zhen1 man2 do5 xieh7 den1` <sup>[东台]</sup> 形容一天到晚忙忙碌碌。  
 1. 【[眼睛尖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jien_jin.md#眼睛尖)】`ngaen3 jien jin1` <sup>[如东]</sup> ① 眼光锐利：他的～，马上就看透啊。 ② 看得远：这个伢儿的～，老早就看见吖。  
 1. 【[眼睛靠鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jien_ko_pieh_zz.md#眼睛靠鼻子)】`ngaen3 jien ko5 pieh8 zz` <sup>[兴化]</sup> （喻）极言靠得很近：两家人～，生吖话就难相处啊。  
 1. 【[眼睛快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jien_kuae.md#眼睛快)】`ngaen3 jien kuae5` <sup>[如东]</sup> 观察问题迅速：还是他的～，马上就看清爽吖。  

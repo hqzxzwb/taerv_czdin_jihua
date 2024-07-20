@@ -1592,7 +1592,6 @@
 1. 【[前者](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_zhae.md#前者)】`qin2 zhae3` <sup>[兴化]</sup> 以前、以前的事：你～欠的账不曾还，今吖又要挂账，小店实在玩不起。  
 1. 【[前掌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_zhan.md#前掌)】`qin2 zhan3` <sup>[如东]</sup> 脚的前半部分。鞋底的前半部分。  
 1. 【[前朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_zho.md#前朝)】`qin2 zho` <sup>[兴化]</sup> 昨天的前一天。  
-1. 【[悭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_zz.md#悭子)】`qin2 zz` <sup>[如东]</sup> 吝啬的人。  
 1. 【[挦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin.md#挦)】`qin2` <sup>[兴化]</sup> 拔：～鸡毛。（《集韵盐韵》徐廉切“～，摘也。”）  
 1. 【[挦毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_mo.md#挦毛)】`qin2 mo2` <sup>[如皋]</sup> 拔毛：杀猪羊鸡鸭后先下水烫，再～，不好干～。  
 1. 【[挦毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_mo.md#挦毛)】`qin2 mo2` <sup>[东台]</sup> 拔去动物身上的毛。对人而言，就是揪头发：（《陈州欒米》楔子小衙内白：若不与我呵，就踢就打就～，一交别番倒，跺上几脚。）  
@@ -1624,6 +1623,7 @@
 1. 【[钱锥子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_zhuei_zz.md#钱锥子)】`qin2 zhuei1 zz` <sup>[兴化]</sup> （喻）不顾一切拼命弄钱的人：他是个～，钱眼大一点儿一定能拱进去。  
 1. 【[钱锥子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_zhuei_zz.md#钱锥子)】`qin2 zhuei1-jy1 zz` <sup>[东台]</sup> ［喻］指特别精明、会赚钱的人，或指工资收入高的人。  
 1. 【[钳工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_gon.md#钳工)】`qin2 gon1` <sup>[如东]</sup> 工种的一种。以从事钳工为职业的工人。  
+1. 【[钳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_zz.md#钳子)】`qin2 zz` <sup>[如东]</sup> 吝啬的人。  
 1. 【[浅浅<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_qin_r.md#浅浅<sub>儿</sub>)】`qin3 qin r` <sup>[泰县]</sup> 浅浅的。  
 1. 【[浅曲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_qioh.md#浅曲)】`qin3 qioh7` <sup>[如皋]</sup> 状思想简单，不能从深层次考虑。  
 1. 【[浅局](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_qioh.md#浅局)】`qin3 qioh8` <sup>[如东]</sup> 气量小：这个人嫌～。  

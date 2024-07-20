@@ -1871,7 +1871,6 @@
 1. 【[痨蛋子<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_taen_zz_r.md#痨蛋子<sub>儿</sub>)】`lo2 taen6 zz3 r` <sup>[如东]</sup> 身体瘦弱的人。  
 1. 【[痨豆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_teu_r.md#痨豆<sub>儿</sub>)】`lo2 teu6 r` 对小孩的戏称。  
 1. 【[痨豆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_teu_r.md#痨豆<sub>儿</sub>)】`lo2 teu6 r` <sup>[兴化]</sup> 形容发育不良，又瘦又小的人。见“痨礓子”。  
-1. 【[老爷娘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_i_nian_zz.md#老爷娘子)】`lo2 i2 nian2 zz` <sup>[兴化]</sup> 旧称官员的夫人：“……不要以为是个七品官，对内照样怕～！”（马春阳《战友加亲邻》）｜谚日｜～不吃屎浇菜，单拣肥的买。  
 1. 【[老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo.md#老)】`lo3` <sup>[如东]</sup> ① 对长辈的称呼：老岳父，老公公。 ② 对年长人的称呼：老高、老李。  
 1. 【[老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo.md#老)】`lo3` <sup>[兴化]</sup> 脸皮厚：王二～得很哩，也不用人请，坐下就大啖起来。  
 1. 【[老啊勼起来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_a_jieu_qi_lae_a.md#老啊勼起来啊)】`lo3 a jieu1 qi3 lae a` <sup>[东台]</sup> 形容人老了，皮肤皱纹多。  
@@ -2036,6 +2035,7 @@
 1. 【[老衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_i.md#老衣)】`lo3 i1` <sup>[如皋]</sup> 寿衣。  
 1. 【[老衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_i.md#老衣)】`lo3 i1` <sup>[东台]</sup> 寿衣，装殓死人的衣服。  
 1. 【[老衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_i.md#老衣)】`lo3 i1` <sup>[兴化]</sup> ① 装敛死人的衣服：……由他先垫出一笔钱来，给侉奶奶买一身～，一副杉木棺村，把侉奶奶埋了。（汪曾祺《故里杂记》） ② 衣服的贬义说法：他这一身～穿上身不曾洗过。  
+1. 【[老爷娘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_i_nian_zz.md#老爷娘子)】`lo3 i2 nian2 zz` <sup>[兴化]</sup> 旧称官员的夫人：“……不要以为是个七品官，对内照样怕～！”（马春阳《战友加亲邻》）｜谚曰：～不吃屎浇菜，单拣肥的买。  
 1. 【[老爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ia.md#老爷)】`lo3 ia` <sup>[如皋]</sup> 过时、陈旧、质差：～身体、～货、～机器。  
 1. 【[老爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ia.md#老爷)】`lo3 ia2` <sup>[兴化]</sup> 形容老旧的机械设备或差劲的身体、货物等等：～货；～车；～身体。  
 1. 【[老鹰扠小鸡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ien_cha_xio_ji_r.md#老鹰扠小鸡<sub>儿</sub>)】`lo3 ien1 cha1 xio3 ji1 r` <sup>[如皋]</sup> 游戏名。一人扮老鹰，一人扮母鸡，其余扮小鸡，在母鸡身后依次拉住前人的衣边。先行对话（有定辞），接着一捉一护，捉到一个人就为胜。  
@@ -2916,8 +2916,7 @@
 1. 【[驴子推磨——跑不出这个圈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_zz_ty_mu_po_beh_chueh_zha_gu_qiun.md#驴子推磨——跑不出这个圈)】`ly2 zz ty1 mu6 po2 beh7 chueh7 zha5 gu qiun1` <sup>[东台]</sup>   
 1. 【[吕祖殿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_zv_din.md#吕祖殿)】`ly3 zv3 din5` <sup>[如皋]</sup> 祀吕洞宾。如城有两处：一在北门外花市街北侧；一在西南内城脚三角池旁，清末改办孤幼学堂。  
 1. 【[旅馆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_gun.md#旅馆)】`ly3 gun3` <sup>[如东]</sup> 营业性的供旅客住宿的地方。也称旅店、旅社。  
-1. 【[䓞草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_co.md#䓞草)】`ly6 co3` <sup>[如皋]</sup> 狼尾草。  
-1. 【[䓞草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_co.md#䓞草)】`ly6 co3` <sup>[如皋]</sup> 见“扎草”。  
+1. 【[䓞草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_co.md#䓞草)】`ly6 co3` <sup>[如皋]</sup> 狼尾草。另见“扎草”。  
 1. 【[泪斑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_baen.md#泪斑)】`ly6 baen1` <sup>[如皋]</sup> 泪水干后的痕迹。  
 1. 【[累伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_nga_r.md#累伢<sub>儿</sub>)】`ly6 nga2 r` <sup>[如皋]</sup> 指哺育小孩的劳累过程。又叫“过伢儿关”。  
 1. 【[鑢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly.md#鑢)】`ly6` <sup>[兴化]</sup> 用钝器磨、制：在墙角上把麻绳～断。（《说文·金部》）｜“～，错铜铁也。”良据切。  

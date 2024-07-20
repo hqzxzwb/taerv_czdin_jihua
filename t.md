@@ -167,7 +167,6 @@
 1. 【[袋<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_r.md#袋<sub>儿</sub>)】`tae6 r` <sup>[如东]</sup> 口袋。有布口袋麻口袋、草口袋、塑料口袋诸种。  
 1. 【[袋<sub>儿</sub>口朝下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_r_keu_cho_ha.md#袋<sub>儿</sub>口朝下)】`tae6 r keu3 cho2 ha6` <sup>[东台]</sup> ［喻］大方，舍得掏钱用。  
 1. 【[𢪯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#𢪯)】`tae6` <sup>[兴化]</sup> 松驰下垂：绳子～下来啊。兴化词典作“绐”，《说文·系部》｜“～，丝劳即～。”徒亥切。  
-1. 【[㿹皮<sub>儿</sub>疮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_pi_r_chuan.md#㿹皮<sub>儿</sub>疮)】`taeh7 pi2 r chuan1` <sup>[如皋]</sup> 皮上小脓疱疮。  
 1. 【[塌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh.md#塌)】`taeh7` <sup>[东台]</sup> 坡度小，平缓，不陡：堤东沙土的河坎比较～。  
 1. 【[塌汊<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_cha_r.md#塌汊<sub>儿</sub>)】`taeh7 cha r` <sup>[如皋]</sup> 分汉而又淤浅的河段。  
 1. 【[塌成](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_chen.md#塌成)】`taeh7 chen2` <sup>[如东]</sup> 在耷子和游戏中，由耷子、坎儿和杠构成的成和（hv2），称塌成。  
@@ -210,6 +209,7 @@
 1. 【[搨马三虎的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_ma_saen_hv_dii.md#搨马三虎的)】`taeh7 ma3 saen1 hv3 dii` <sup>[如皋]</sup> 不深究，马虎了事。  
 1. 【[搨皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_pi.md#搨皮)】`taeh7 pi2` <sup>[如东]</sup> 表皮磨破了。  
 1. 【[搨皮<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_pi_r.md#搨皮<sub>儿</sub>)】`taeh7 pi2 r` <sup>[如东]</sup> 皮肤表面代谢物一层一层的往下掉。  
+1. 【[搨皮<sub>儿</sub>疮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_pi_r_chuan.md#搨皮<sub>儿</sub>疮)】`taeh7 pi2 r chuan1` <sup>[如皋]</sup> 皮上小脓疱疮。  
 1. 【[搨皮<sub>儿</sub>疮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_pi_r_chuan.md#搨皮<sub>儿</sub>疮)】`taeh7 pi2 r chuan1` <sup>[如东]</sup> 皮肤瘙痒。  
 1. 【[搨<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_r.md#搨<sub>儿</sub>)】`taeh7 r` 见“搨板”。  
 1. 【[搨事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_shr.md#搨事)】`taeh7 shr6` <sup>[如皋]</sup> 化解矛盾，调解、平息事态。  
@@ -1300,9 +1300,9 @@
 1. 【[定风旗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_fon_qi_r.md#定风旗<sub>儿</sub>)】`tien6 fon1 qi2 r` <sup>[如皋]</sup> 桅顶小旗，可观风向。  
 1. 【[定光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_guan.md#定光)】`tien6 guan1` <sup>[兴化]</sup> ① 因酒醉而目光呆滞：（武松）把这五壶吃完了，眼睛都定了光……（《武松》一） ② 眼睛受突然刺激而失神：眼睛定光。  
 1. 【[定规](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_guei.md#定规)】`tien6 guei1` <sup>[兴化]</sup> ① 预定金：租房谈成吖，先把～。 ② 一定的说法：“……几曾见中进士的都是饱学秀才？只要命好，有甚～……”（《西湖二集》四）  
+1. 【[定慧寺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_huei_cz.md#定慧寺)】`tien6 huei6-guei1 cz6` <sup>[如皋]</sup> 隋大业十一年，天台宗智顗大师创建。原名“定惠寺”，清末慈禧太后题匾赐名“定慧寺”。原山门朝南，明代建城，迫使改向北。建筑特色：楼抱殿、水环寺、庙门朝北。  
 1. 【[定金](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_jien.md#定金)】`tien6 jien1` <sup>[如东]</sup> 抵押资金。  
 1. 【[定惠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_kuei.md#定惠)】`tien6 kuei6` <sup>[如皋]</sup> 定金  
-1. 【[定慧寺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_kuei_cz.md#定慧寺)】`tien6 kuei6 cz6` <sup>[如皋]</sup> 隋大业十一年，天台宗智顗大师创建。原名“定惠寺”，清末慈禧太后题匾赐名“定慧寺”。原山门朝南，明代建城，迫使改向北。建筑特色：楼抱殿、水环寺、庙门朝北。  
 1. 【[定力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_lieh.md#定力)】`tien6 lieh8` <sup>[兴化]</sup> 有自我控制能力，遇事沉得住气：王连方要是有这样的～，何至于落到这步田地（毕飞宇《玉米》）  
 1. 【[定吖砣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_nga_tu.md#定吖砣)】`tien6 nga tu2` <sup>[东台]</sup> ［喻］没有多大发展空间：我看他考上大专就～，还想考重点大学？  
 1. 【[定盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_pun.md#定盘)】`tien6 pun2` <sup>[如皋]</sup> 交易谈定，定局。  

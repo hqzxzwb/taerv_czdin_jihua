@@ -70,6 +70,7 @@
 1. 【[騱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#騱)】`xi2` <sup>[如东]</sup> 液体沿着支柱向上移动：煤油沿吖灯芯向上～动。  
 1. 【[騱动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ton.md#騱动)】`xi2 ton` <sup>[如皋]</sup> 纷纷乱动：还不曾散会，人就～起来啊。  
 1. 【[騱动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ton.md#騱动)】`xi2 ton6` <sup>[如东]</sup> 小步快走：这个伢儿走得～。  
+1. 【[□蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_taen.md#□蛋)】`xi3 taen6` <sup>[泰县]</sup> 孵小鸡孵僵了的蛋。  
 1. 【[史](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#史)】`xi3` <sup>[兴化]</sup> 讳饰性读法，“史”与“死”“屎”同音，为了避讳，清晨或春节期间，将“史”讹读成“喜”，有的平时也读成“喜”字音。“历史”的史仍读shr3。  
 1. 【[喜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#喜)】`xi3` <sup>[如皋]</sup> ① 怀孕：有啊～、害～（妊娠反应）。 ② 史姓或孟姓避讳改读～。  
 1. 【[喜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#喜)】`xi3` <sup>[东台]</sup> 除一般释义外，还有可庆贺、妇女怀孕等义。  
@@ -101,12 +102,11 @@
 1. 【[喜树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_shv.md#喜树)】`xi3 shv6` <sup>[如东]</sup> 珙桐科植物喜树，落叶乔木。高约30米。树皮浅灰色。叶互生，纸质椭圆状披针形。头状花序。花绿白色，无梗。瘦果窄矩圆形，褐色。路边或庭园种植。木材轻软，易翘裂，可供造纸、板料、火柴杆等用。根及果实含喜树碱。  
 1. 【[喜蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_taen.md#喜蛋)】`xi3 taen6` <sup>[如东]</sup> 妇女生小孩后，把鸡蛋煮熟，染成红色，赠送给亲友，表示喜庆，这种蛋叫做喜蛋。  
 1. 【[喜蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_taen.md#喜蛋)】`xi3 taen6` <sup>[东台]</sup> 鸡、鸭蛋孵化未能成雏叫喜蛋，又叫“冤蛋”。  
-1. 【[喜蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_taen.md#喜蛋)】`xi3 taen6` <sup>[兴化]</sup> ① 煮熟并染红的鸡蛋。民俗：生孩子的人家用来向外婆家报喜，并分送亲友。 ② 经解化未能出雏的蛋。  
+1. 【[喜蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_taen.md#喜蛋)】`xi3 taen6` <sup>[兴化]</sup> ① 煮熟并染红的鸡蛋。民俗：生孩子的人家用来向外婆家报喜，并分送亲友。 ② 经孵化未能出雏的蛋。  
 1. 【[喜喜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xi_r.md#喜喜<sub>儿</sub>)】`xi3 xi3 r` <sup>[泰县]</sup> 贴在门楣上的红色刻纸。见“喜庆”“喜签”“喜钱”。  
 1. 【[喜笺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xin.md#喜笺)】`xi3 xin5` <sup>[如皋]</sup> 逢喜庆事在门楣、堂屋圣柜前过梁上贴挂的镞（coh8）成图案的条形、矩形红纸笺。（丧事则按年用白、绿、黄纸，第四年恢复红纸。）  
 1. 【[喜烛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_zhoh.md#喜烛)】`xi3 zhoh7` <sup>[如皋]</sup> 喜事、敬神用的红色精制蜡烛。  
 1. 【[喜孜孜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_zz_zz.md#喜孜孜)】`xi3 zz1 zz1` <sup>[兴化]</sup> 形容心里很欢喜：王氏～回来，向曹氏说了一遍。（《岐路灯》三）  
-1. 【[死蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_taen.md#死蛋)】`xi3 taen6` <sup>[泰县]</sup> 孵小鸡孵僵了的蛋。  
 1. 【[洗锅把<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_gu_ba_r.md#洗锅把<sub>儿</sub>)】`xi3 gu1 ba3 r` <sup>[如皋]</sup> 洗刷锅灶的草把儿。用高粱苗子、篾丝、乌蓲根等捆扎而成。  
 1. 【[洗锅把子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_gu_ba_zz.md#洗锅把子)】`xi3 gu1 ba3 zz` <sup>[兴化]</sup> 用成束高粱苗扎成的洗锅用具。  
 1. 【[洗干净身子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_gun_qien_shen_zz.md#洗干净身子)】`xi3 gun1 qien shen1 zz` <sup>[东台]</sup> ［喻］指为自己开脱责任。  
@@ -695,7 +695,6 @@
 1. 【[香烛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_zhoh.md#香烛)】`xian1 zhoh7` <sup>[东台]</sup> 敬神或祖先的香和蜡烛。  
 1. 【[香纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_zhr.md#香纸)】`xian1 zhr3` <sup>[兴化]</sup> （迷信）用来敬神的香烛、黄元之类：请～上庙敬香。  
 1. 【[香嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_zuei.md#香嘴)】`xian1 zuei3` <sup>[兴化]</sup> 亲嘴。  
-1. 【[响雷辰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ly_chen.md#响雷辰)】`xian2 ly2 chen2` <sup>[如皋]</sup> 打雷。  
 1. 【[□棺材](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_gun_cae.md#□棺材)】`xian3 gun1 cae` <sup>[如皋]</sup> 给棺材𧂐缝、油漆。  
 1. 【[享福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_foh.md#享福)】`xian3 foh7` <sup>[如东]</sup> ① 生活安乐美好。 ② 享受幸福。  
 1. 【[享老福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_lo_foh.md#享老福)】`xian3 lo3 foh7` <sup>[如皋]</sup> 见“老福”。  
@@ -708,6 +707,7 @@
 1. 【[响雷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_luei.md#响雷)】`xian3 luei2` <sup>[如东]</sup> 打雷：刚过春节就～。  
 1. 【[响雷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_luei.md#响雷)】`xian3 luei2` <sup>[兴化]</sup> 打雷：外头～啊，快点儿进来。  
 1. 【[响雷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ly.md#响雷)】`xian3 ly2` <sup>[如皋]</sup> 打雷。  
+1. 【[响雷辰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ly_chen.md#响雷辰)】`xian3 ly2 chen2` <sup>[如皋]</sup> 打雷。  
 1. 【[响雷打头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ly_da_teu.md#响雷打头)】`xian3 ly2 da3 teu2` <sup>[东台]</sup> 指做了不道德的事，要遭老天惩罚。这是古人对道德、法律必须敬畏的意识：不孝父母会～｜糟蹋粮食要～。  
 1. 【[响雷霍闪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ly_vah_shin.md#响雷霍闪)】`xian3 ly2 vah7 shin3` <sup>[如皋]</sup> 雷电交加。  
 1. 【[响雷霍闪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ly_vah_shin.md#响雷霍闪)】`xian3 ly2 vah8 shin3` <sup>[如皋]</sup> 雷声和电闪交加。  
@@ -1602,7 +1602,7 @@
 1. 【[小方桌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_fan_zhuah.md#小方桌)】`xio3 fan1 zhuah7` <sup>[如皋]</sup> 小而轻便的方面桌子。有的可以拆卸折叠。  
 1. 【[小放牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_fan_ngeu.md#小放牛)】`xio3 fan5 ngeu2` <sup>[东台]</sup> 农村表演唱的一种，用男女一问一答的方式宣传时政。  
 1. 【[小费](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_fei.md#小费)】`xio3 fei5` <sup>[如东]</sup> 赏钱。  
-1. 【[小粉浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_fen_jian.md#小粉浆)】`xio3 fen1 jian1` <sup>[兴化]</sup> 从麦麸中洗出的淀粉，可用来浆布匹、衣服，使挺括。  
+1. 【[小粉浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_fen_jian.md#小粉浆)】`xio3 fen jian1` <sup>[兴化]</sup> 从麦麸中洗出的淀粉，可用来浆布匹、衣服，使挺括。  
 1. 【[小粉浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_fen_jian.md#小粉浆)】`xio3 fen3 jian1` <sup>[如皋]</sup> 洗面筋后淀下的小麦湿淀粉。  
 1. 【[小份头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_fen_teu.md#小份头)】`xio3 fen6 teu2` <sup>[如东]</sup> 渔船上的一般船工，工资份额最低。  
 1. 【[小衭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_fv.md#小衭)】`xio3 fv1` <sup>[如东]</sup> 上衣右襟罩在左襟上，左襟称小衭。  

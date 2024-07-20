@@ -324,8 +324,8 @@
 1. 【[焐雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_xiuh.md#焐雪)】`v5 xiuh7` <sup>[兴化]</sup> 冬季天气阴沉，即将下雪：天上的云这吖厚，又没风，怕的～咖。  
 1. 【[焐鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_y.md#焐鱼)】`v5 y2` <sup>[如皋]</sup> 入冬时在水中一隅放树枝、草料等，造成温暖安静的环境，让鱼藏身（称作“鱼焐子”），供春节时围捕。  
 1. 【[焐鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_y.md#焐鱼)】`v5 y2` <sup>[如东]</sup> 入冬，在水中一隅放树枝、杂草等，造成温暖安静的环境，让鱼藏身，春暖时捕捉。  
-1. 【[焐燥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_zo.md#焐燥)】`v5 zo5` <sup>[泰县]</sup> 闷热：今吖～，怕的要落雨。  
 1. 【[焐躁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_zo.md#焐躁)】`v5 zo5` <sup>[东台]</sup> 天气闷热，使人有烦闷的感觉。  
+1. 【[焐躁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_zo.md#焐躁)】`v5 zo5` <sup>[泰县]</sup> 闷热：今吖～，怕的要落雨。  
 1. 【[焐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_zz.md#焐子)】`v5 zz` 保温袋  
 1. 【[焐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_zz.md#焐子)】`v5 zz` <sup>[如东]</sup> 一种取暖的器皿。一般用铜制，圆柿形，盖上有小孔。炉里装上木碳或煲灰，即可取暖。也叫铜炉、烘儿。  
 1. 【[焐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_zz.md#焐子)】`v5 zz` <sup>[东台]</sup> 存放装有饭菜的容器，用以保温。过去用稻草，现在多用塑料泡沫做成。  
@@ -352,10 +352,10 @@
 1. 【[搲苦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_kv.md#搲苦)】`va1 kv3` <sup>[兴化]</sup> 懊悔、痛苦：他心里～。  
 1. 【[搲碗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_un_r.md#搲碗<sub>儿</sub>)】`va1 un3 r` <sup>[泰县]</sup> ① 挖出腐烂部分的水果。 ② 坏女人。  
 1. 【[洼翻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_faen.md#洼翻)】`va1 faen1` <sup>[东台]</sup> 发生了差错、故障：机器突然停下来，不晓得哪许～吖。  
+1. 【[洼居](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_jy.md#洼居)】`va1 jy1` <sup>[泰县]</sup> 矮小肮脏的住地。  
 1. 【[洼污](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_v.md#洼污)】`va1 v` <sup>[兴化]</sup> 肮脏、不洁：“不要紧，我不考究，～～，吃下去大补。”（《皮五辣子》二）  
 1. 【[洼污沰酱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_v_dah_jian.md#洼污沰酱)】`va1 v dah7 jian5` <sup>[兴化]</sup> 肮脏、不洁：这个小饭馆子～的，叫人坐不下来。  
 1. 【[溛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va.md#溛)】`va1` <sup>[如东]</sup> ① 液体表面不平：水在～动。 ② 液体溢出来：桶里的水～出来啊。  
-1. 【[蜗居](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_jy.md#蜗居)】`va1 jy1` <sup>[泰县]</sup> 矮小肮脏的住地。  
 1. 【[划](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va.md#划)】`va2` <sup>[如皋]</sup> 繁体“划”。向内拨、扒：（要求小孩吃饭）快点儿～！～草。  
 1. 【[划船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_chun.md#划船)】`va2 chun2` <sup>[东台]</sup> 在船上用桨拨水前进。  
 1. 【[划草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_co.md#划草)】`va2 co3` <sup>[如皋]</sup> 用笊筢把散落在地上的草扒过来，集中起来。见“拾草”。  

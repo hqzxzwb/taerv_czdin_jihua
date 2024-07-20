@@ -471,11 +471,11 @@
 1. 【[慢经逍遥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_jien_xio_io.md#慢经逍遥)】`maen6 jien1 xio1 io2` <sup>[如皋]</sup> 缓慢、随意、闲适的样子。参见“懈怠”。  
 1. 【[慢酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_jieu.md#慢酒)】`maen6 jieu3` <sup>[如皋]</sup> 与“莽酒”相对，指每次饮酒很少很慢，间隔久。  
 1. 【[慢客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_keh.md#慢客)】`maen6 keh7` <sup>[兴化]</sup> 怠慢了客人：朋友来啊，你还是打你的麻将，不是～咖？  
-1. 【[慢慢慢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_maen_maen_r.md#慢慢慢<sub>儿</sub>)】`maen6 maen2 maen6 r` <sup>[如皋]</sup> 极慢地。  
 1. 【[慢慢雅雅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_maen_ia_ia.md#慢慢雅雅)】`maen6 maen6 ia3 ia3` <sup>[兴化]</sup> ① 不慌不忙的样子。 ② 也指拖拖拉拉的：他做事总是～的。  
 1. 【[慢慢较](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_maen_jio.md#慢慢较)】`maen6 maen6 jio` <sup>[如东]</sup> 慢一点儿：我俫～跑啊。  
 1. 【[慢慢叫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_maen_jio.md#慢慢叫)】`maen6 maen6 jio5` <sup>[如皋]</sup> 吩咐不忙，等一等。  
 1. 【[慢慢较](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_maen_jio.md#慢慢较)】`maen6 maen6 jio5` <sup>[泰县]</sup> 慢一点。  
+1. 【[慢慢慢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_maen_maen_r.md#慢慢慢<sub>儿</sub>)】`maen6 maen6-2 maen6-3 r` <sup>[如皋]</sup> 极慢地。  
 1. 【[慢慢暇暇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_maen_xia_xia.md#慢慢暇暇)】`maen6 maen6 xia2 xia2` <sup>[东台]</sup> 像闲暇无事般不慌不忙。  
 1. 【[慢忙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_man.md#慢忙)】`maen6 man2` <sup>[如皋]</sup> 见“慢慢叫”。  
 1. 【[慢吖你](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_nga_nii.md#慢吖你)】`maen6 nga nii3` <sup>[如皋]</sup> 礼貌用语。慢待了，对不起。  
@@ -998,7 +998,7 @@
 1. 【[门子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_zz.md#门子)】`men2 zz` <sup>[兴化]</sup> ① 办法、窍门：他想提高工效，终于在模具上寻到啊～。 ② 花招、手段：你少要玩～，我俫晓得你的一套。  
 1. 【[闷睯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_huen.md#闷睯)】`men5 huen` <sup>[如皋]</sup> 受了气，心中觉得窝囊、烦燥。也说“暋闷”。  
 1. 【[闷睯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_huen.md#闷睯)】`men5 huen` <sup>[如皋]</sup> 气恼，发闷。  
-1. 【[闷闷儿水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_men_shuei_r.md#闷闷儿水)】`men5 men5 shuei3 r` <sup>[如皋]</sup> 初学游水者，在浅水区伏于水面不抬头，一口气游完即止。  
+1. 【[闷闷<sub>儿</sub>水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_men_r_shuei.md#闷闷<sub>儿</sub>水)】`men5 men5 r shuei3` <sup>[如皋]</sup> 初学游水者，在浅水区伏于水面不抬头，一口气游完即止。  
 1. 【[闷人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_ren_zz.md#闷人子)】`men5 ren zz` <sup>[如皋]</sup> 气闷感。  
 1. 【[闷头户<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_teu_hv_r.md#闷头户<sub>儿</sub>)】`men5 teu2 hv6 r` <sup>[如皋]</sup> 见“闷头子”。  
 1. 【[闷头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_teu_zz.md#闷头子)】`men5 teu2 zz` <sup>[如皋]</sup> 不显露财富：他家是～人家。  
@@ -1314,6 +1314,7 @@
 1. 【[棉𧘸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_den_zz.md#棉𧘸子)】`min2 den5 zz` <sup>[东台]</sup> 棉袄，也叫棉布宝（见“布宝儿”）：天冷吖，快穿～。  
 1. 【[棉𧘸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_den_zz.md#棉𧘸子)】`min2 den5 zz` <sup>[泰县]</sup> 棉袄。  
 1. 【[棉鞋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hae.md#棉鞋)】`min2 hae2` <sup>[如东]</sup> 鞋的一种。鞋帮内絮棉花，有保温作用。  
+1. 【[棉花草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hua_co.md#棉花草)】`min2 hua co3` <sup>[如皋]</sup> 鼠曲草。菊科。  
 1. 【[棉花胎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hua_tae.md#棉花胎)】`min2 hua tae1` <sup>[兴化]</sup> 棉花纤维外用纱线网成，是絮棉被、棉褥的芯子。  
 1. 【[棉花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hua.md#棉花)】`min2 hua1` <sup>[如东]</sup> 锦葵科植物草棉，一年生草本或亚灌木。  
 1. 【[棉花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hua.md#棉花)】`min2 hua1` <sup>[东台]</sup> 东台主要经济作物。可以纺纱或做棉被，种子可榨油。  
@@ -1324,7 +1325,6 @@
 1. 【[棉花壳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hua_kah_r.md#棉花壳<sub>儿</sub>)】`min2 hua1 kah7 r` <sup>[如皋]</sup> 拾过棉花的空壳。  
 1. 【[棉花卵<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hua_lun_r.md#棉花卵<sub>儿</sub>)】`min2 hua1 lun3 r` <sup>[如东]</sup> ① 陈旧的棉花胎。 ② 破碎的棉花胎。  
 1. 【[棉花卵<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hua_lun_r.md#棉花卵<sub>儿</sub>)】`min2 hua1 lun3 r` <sup>[如皋]</sup> 不成形的、破败的絮棉。  
-1. 【[棉花草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hua_o.md#棉花草)】`min2 hua1 o3` <sup>[如皋]</sup> 鼠曲草。菊科。  
 1. 【[棉花仁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hua_ren.md#棉花仁)】`min2 hua1 ren2` <sup>[如东]</sup> 棉籽去壳后的肉。  
 1. 【[棉花胎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hua_tae.md#棉花胎)】`min2 hua1 tae1` <sup>[如皋]</sup> 作被子的絮棉。  
 1. 【[棉花桃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hua_to.md#棉花桃)】`min2 hua1 to2` <sup>[如东]</sup> 棉苞的果实。  
@@ -1392,8 +1392,8 @@
 1. 【[面糊刷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hv_shuaeh_zz.md#面糊刷子)】`min6 hv6 shuaeh7 zz` <sup>[如皋]</sup> 喻敷衍或平衡人际关系的表现，或指人。  
 1. 【[面筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_jien.md#面筋)】`min6 jien1` <sup>[如东]</sup> 小麦面和麸皮入水揉洗后所获得的胶黏状物质。  
 1. 【[面筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_jien.md#面筋)】`min6 jien1` <sup>[东台]</sup> 一种食品。用面粉加水拌和，洗去其中所含淀粉，剩下的混合蛋白质。  
+1. 【[面筋黐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_jien_chr.md#面筋黐)】`min6 jien1 chr1` <sup>[泰县]</sup> 用米麦制成的粘合剂  
 1. 【[面筋泡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_jien_po_r.md#面筋泡<sub>儿</sub>)】`min6 jien1 po1 r` <sup>[如皋]</sup> 油发面筋，泡若圆球，内可衬肉糜馅。  
-1. 【[面筋黐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_jien_chr.md#面筋黐)】`min6 jien3 chr1` <sup>[泰县]</sup> 用米麦制成的粘合剂  
 1. 【[面愧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_kuei.md#面愧)】`min6 kuei5` <sup>[兴化]</sup> 感到惭愧：自己做啊对不起人的事，有点～。  
 1. 【[面磕地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_kuh_ti.md#面磕地)】`min6 kuh7 ti6` <sup>[如皋]</sup> 俯跌。  
 1. 【[面磕地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_kuh_ti.md#面磕地)】`min6 kuh7 ti6` <sup>[兴化]</sup> 身体向前跌倒，面部接触到地面：他由于用力过猛，向前一个～，跌得满嘴流血。  
@@ -1565,7 +1565,7 @@
 1. 【[猫嫌狗不是](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_xin_geu_beh_shr.md#猫嫌狗不是)】`mo2 xin2 geu3 beh7 shr6` <sup>[兴化]</sup> （喻）形容烦躁不安的情态：“你病着，咱们被小爷都殴杀了，终日家～的，不是打就是骂……”（《梼杌闲评》二三）  
 1. 【[猫爪叨心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_zhua_do_xien.md#猫爪叨心)】`mo2 zhua3 do1 xien1` <sup>[兴化]</sup> （喻）形容气忿、懊恼的心情：听说自己的情敌发咖一笔财，她气得～。  
 1. 【[猫爪子抓心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_zhua_zz_zhua_xien.md#猫爪子抓心)】`mo2 zhua3 zz zhua1 xien1` <sup>[东台]</sup> ［喻］形容心情焦躁，坐立不安：听说要将老虎苍蝇一起打，平时手长的人～，都怕｜看人家开新车，他～，也想买。  
-1. 【[猫子城窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_zz_haen_ku.md#猫子城窠)】`mo2 zz haen3 ku1` <sup>[兴化]</sup> ① 猫叫春。 ② （喻）说得多，做得少，或只说不见行动。  
+1. 【[猫子喊窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_zz_haen_ku.md#猫子喊窠)】`mo2 zz haen3 ku1` <sup>[兴化]</sup> ① 猫叫春。 ② （喻）说得多，做得少，或只说不见行动。  
 1. 【[猫子嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_zz_zuei.md#猫子嘴)】`mo2 zz zuei3` <sup>[兴化]</sup> （喻）像猫一样的馋嘴：因为武大老爹在日是个～，喜欢弄一点小景荤吃了玩玩……（《武松》二）  
 1. 【[茅池](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_chr.md#茅池)】`mo2 chr2` <sup>[泰县]</sup> 简陋厕所。  
 1. 【[茅草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_co.md#茅草)】`mo2 co3` <sup>[如东]</sup> 白茅一类的植物。也称茅子。  

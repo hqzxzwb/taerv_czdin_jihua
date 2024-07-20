@@ -897,10 +897,10 @@
 1. 【[撑前伺后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_qin_cz_heu.md#撑前伺后)】`chen1 qin2 cz5 heu6` <sup>[如东]</sup> ① 谨慎地伺候别人。 ② 以卑微的神态等待别人施舍。  
 1. 【[撑前伺后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_qin_cz_heu.md#撑前伺后)】`chen1 qin2 cz5 heu6` <sup>[如皋]</sup> 服侍照料，当下人。  
 1. 【[撑前伺后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_qin_sz_heu.md#撑前伺后)】`chen1 qin2 sz5 heu6` <sup>[兴化]</sup> ① 听人使唤：那些～的事情你做不来。 ② 等候：“正吃饭时，他出去了，叫人～的，那有这闲人来伏事他……”（《梼杌闲评》十七）又作“等前伺后”。  
+1. 【[撑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_zz.md#撑子)】`chen1 zz` <sup>[如皋]</sup> 支撑物、斜柱。  
 1. 【[柽柳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_lieu.md#柽柳)】`chen1 lieu3` <sup>[如东]</sup> 柽柳科植物柽柳，又名观音柳，灌木或小乔木。高约4米。树皮及枝条均为红褐色。叶互生，叶片细小，卵状三角形或披针形。圆锥状复总状花序。花小，粉红色。蒴果狭小。园林栽植。  
 1. 【[柽柳花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_lieu_hua.md#柽柳花)】`chen1 lieu3 hua1` <sup>[如东]</sup> 柽柳科植物柽柳花，人中药，治中风，清热毒，发麻疹。  
 1. 【[柽乳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_lv.md#柽乳)】`chen1 lv3` <sup>[如东]</sup> 柽柳科植物柽柳的树脂。  
-1. 【[牚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_zz.md#牚子)】`chen1 zz` <sup>[如皋]</sup> 支撑物、斜柱。  
 1. 【[称霸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_ba.md#称霸)】`chen1 ba5` <sup>[如东]</sup> 倚仗权势，欺压别人。  
 1. 【[称不为了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_beh_vei_lio.md#称不为了)】`chen1 beh7 vei2 lio3` <sup>[如皋]</sup> 佩服、激励：你敢爬上去，我就～！  
 1. 【[称肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_roh.md#称肉)】`chen1 roh8` <sup>[如东]</sup> 买肉：我上掘港～去。  

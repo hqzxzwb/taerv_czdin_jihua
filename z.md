@@ -588,7 +588,6 @@
 1. 【[扎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhaeh.md#扎)】`zhaeh7` <sup>[如东]</sup> ① 捆 ② 一种缝纫方法。用针剌穿几层布，使之结实。  
 1. 【[扎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhaeh.md#扎)】`zhaeh7` <sup>[兴化]</sup> 量词，指捆扎起来的物品：一～碗｜一～子黄烧饼。  
 1. 【[扎肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhaeh_chan.md#扎肠)】`zhaeh7 chan2` <sup>[如皋]</sup> 食品名。又名“红肠”。将小肠皮扎紧煮成的食品。一般卤菜店有售。  
-1. 【[扎草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhaeh_co.md#扎草)】`zhaeh7 co3` <sup>[如皋]</sup> 裹粽子时称狼尾草。  
 1. 【[扎草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhaeh_co.md#扎草)】`zhaeh7 co3` <sup>[如皋]</sup> 裹粽子用以结扎的草，即狼尾草。  
 1. 【[扎咖像个粽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhaeh_ga_qian_gu_zon_zz.md#扎咖像个粽子)】`zhaeh7 ga qian6 gu zon5 zz` <sup>[如皋]</sup> 把人用绳捆绑得挛缩成粽子样。  
 1. 【[扎绠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhaeh_gen.md#扎绠)】`zhaeh7 gen3` <sup>[兴化]</sup> ① 扎在辫子或鬏上的头绳：大红～。 ② 绑扎藤器、竹器的滕或篾片。  

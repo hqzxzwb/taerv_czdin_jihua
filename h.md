@@ -1059,7 +1059,7 @@
 1. 【[烘架<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_jia_r.md#烘架<sub>儿</sub>)】`hon1 jia5 r` <sup>[如东]</sup> 取暖器具。一只架子放在烘钵儿上面，供搁脚取暖。  
 1. 【[烘冒脾气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_mo_pi_qi.md#烘冒脾气)】`hon1 mo6 pi2 qi5` <sup>[如东]</sup> 急躁而火爆：他是一个～。  
 1. 【[烘人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_ren.md#烘人)】`hon1 ren2` <sup>[东台]</sup> 在高温下像被火烤一样。  
-1. 【[红阵白阵的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_chen_poh_chen_dii.md#红阵白阵的)】`hon1 chen3 poh8 chen3 dii` <sup>[如皋]</sup> 状羞愧时的脸色红白间变。  
+1. 【[红阵白阵的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_chen_poh_chen_dii.md#红阵白阵的)】`hon1 chen9 poh8 chen9 dii` <sup>[如皋]</sup> 状羞愧时的脸色红白间变。  
 1. 【[轰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon.md#轰)】`hon1` <sup>[如皋]</sup> 用大吵大闹或群体行动的方式去责难、驱赶：把他～下台｜大家去～他的万金！  
 1. 【[轰雷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_luei.md#轰雷)】`hon1 luei2` <sup>[如东]</sup> 打雷：一开春就～。  
 1. 【[轰雷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_ly.md#轰雷)】`hon1 ly2` <sup>[泰县]</sup> 打雷：外头～，马上就要落雨。  
@@ -1924,7 +1924,7 @@
 1. 【[黄包车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_bo_cha.md#黄包车)】`huan2 bo cha1` <sup>[兴化]</sup> 人力车：拉～。  
 1. 【[黄包车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_bo_cha.md#黄包车)】`huan2 bo1 cha1` <sup>[如皋]</sup> 人力车。  
 1. 【[黄柏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_boh.md#黄柏)】`huan2 boh7` <sup>[如东]</sup> 芸香科植物黄柏，落叶乔木。  
-1. 【[黄檗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_boh.md#黄檗)】`huan2 boh7` <sup>[如皋]</sup> 黄檗。  
+1. 【[黄柏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_boh.md#黄柏)】`huan2 boh7` <sup>[如皋]</sup> 黄柏，又作“黄檗”，芸香科植物。  
 1. 【[黄百户](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_boh_hu.md#黄百户)】`huan2 boh7 hu2` <sup>[如皋]</sup> 地名。今如皋胜利乡的自然村。元代军制设百户长，蒙、汉各一人，此为汉人黄姓驻所。  
 1. 【[黄䱗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_caen.md#黄䱗)】`huan2 caen1` <sup>[如皋]</sup> 大䱗鱼，鳞色黄。又叫翘嘴儿。  
 1. 【[黄橙橙的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_chen_chen_dii.md#黄橙橙的)】`huan2 chen chen dii` <sup>[如皋]</sup> 淡黄色。  
@@ -2560,7 +2560,6 @@
 1. 【[獾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_zz.md#獾子)】`hun1 zz` <sup>[如东]</sup> 指如皋地区的人。  
 1. 【[蚶子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_zz.md#蚶子)】`hun1 zz` <sup>[如东]</sup> 蚶科动物魁蚶、泥蚶、毛蚶的总称。  
 1. 【[蚶子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_zz.md#蚶子)】`hun1 zz` <sup>[东台]</sup> 软体动物，深潜海边滩涂沙泥中，清明前后肉质鲜嫩，味道最肥美，称之为“菜花～”，常呈簇状分布。  
-1. 【[㲦毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_mo.md#㲦毛)】`hun2 mo2` <sup>[东台]</sup> 汗毛。（义同“寒毛”）  
 1. 【[䗙䘆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_xin.md#䗙䘆)】`hun2 xin3` 蚯蚓，口语一般说hu2 xin1。  
 1. 【[含](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun.md#含)】`hun2` <sup>[东台]</sup> 用于书面语：～恨｜～笑｜～羞｜～冤。  
 1. 【[含吖嘴里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_nga_jy_lii.md#含吖嘴里)】`hun2 nga jy3 lii` <sup>[东台]</sup> 即含在口中。  
@@ -2577,6 +2576,7 @@
 1. 【[寒劳劳的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_lo_lo_dii.md#寒劳劳的)】`hun2 lo1 lo1 dii` <sup>[如皋]</sup> 寒冷或怕冷的样子。  
 1. 【[寒露](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_lv.md#寒露)】`hun2 lv6` <sup>[如东]</sup> 二十四节气之一，在阴历1 0月8日或9日。  
 1. 【[寒露](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_lv.md#寒露)】`hun2 lv6` <sup>[东台]</sup> 二十四节气之一，通常在10月8日或9日。  
+1. 【[寒毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_mo.md#寒毛)】`hun2 mo2` <sup>[东台]</sup> 汗毛。  
 1. 【[寒毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_mo.md#寒毛)】`hun2 mo2` <sup>[东台]</sup> 即汗毛。人体皮肤表层的细毛。  
 1. 【[寒毛直竖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_mo_cheh_shv.md#寒毛直竖)】`hun2 mo2 cheh8 shv6` <sup>[东台]</sup> 因为害怕，身上毫毛都竖了起来：反腐力度大，一些腐败分子吓得～。  
 1. 【[寒毛重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_mo_chon.md#寒毛重)】`hun2 mo2 chon6` <sup>[东台]</sup> 人体皮肤表层细毛浓密。  

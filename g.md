@@ -578,7 +578,7 @@
 1. 【[格占](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_zhin.md#格占)】`geh7 zhin` <sup>[如皋]</sup> ① 格，范围。格占，超范围占有。 ② 多占，秤平斗满，两不～。 ③ 欺负：他说话～人，我不服气。  
 1. 【[格占](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_zhin.md#格占)】`geh7 zhin5` <sup>[东台]</sup> 超过本分，侵犯他人利益：他是个厚道之人，从不～旁人。  
 1. 【[格占](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_zhin.md#格占)】`geh7 zhin5` <sup>[泰县]</sup> 多占：我从来不～你。  
-1. 【[格占人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_zhin_qian.md#格占人)】`geh7 zhin5 qian2` <sup>[如皋]</sup> 见“占强”。  
+1. 【[格占人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_zhin_ren.md#格占人)】`geh7 zhin5 ren2` <sup>[如皋]</sup> 见“占强”。  
 1. 【[格子床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_zz_chuan.md#格子床)】`geh7 zz chuan2` <sup>[如东]</sup> 床的一种，床架为格子结构。  
 1. 【[格子门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_zz_men.md#格子门)】`geh7 zz men2` <sup>[如东]</sup> 门的一种。上半部为格子，下半部为门板。  
 1. 【[槅扇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_shin.md#槅扇)】`geh7 shin5` <sup>[如东]</sup> 堂屋大门两侧腰墙上面安装的木槅子门，叫槅扇  

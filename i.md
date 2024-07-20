@@ -272,8 +272,8 @@
 1. 【[野气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_qi.md#野气)】`ia3 qi5` <sup>[如皋]</sup> 粗犷、粗野，无教养的样子。  
 1. 【[野气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_qi.md#野气)】`ia3 qi5` <sup>[如东]</sup> ① 个性粗野。 ② 对自己不亲热：这个伢儿～。  
 1. 【[野荞麦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_qio_moh.md#野荞麦)】`ia3 qio2 moh8` <sup>[如东]</sup> 蓼科植物天荞麦，多年生草本。高约150厘米。主根粗大，呈结状，横走，红褐色。茎纤细具棱槽，淡绿微带红色。叶互生，戟状三角形，全缘。聚伞花序顶生或腋生。瘦果卵状三棱形，红褐色。生长在草坡、林边、温地。  
-1. 【[野三八四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_saen_baeh_sv.md#野三八四)】`ia3 saen1 baeh7 sv5` <sup>[兴化]</sup> 形容不知从哪里来的、与事无关的人：家里的事关起门米谈，弄些～的来吓哪个？  
 1. 【[野三八四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_saen_baeh_sz.md#野三八四)】`ia3 saen1 baeh7 sz5` <sup>[东台]</sup> ① 对外地人或陌生人的一种不友好的说法。 ② 野蛮，不讲道理。  
+1. 【[野三八四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_saen_baeh_sz.md#野三八四)】`ia3 saen1 baeh7 sz5` <sup>[兴化]</sup> 形容不知从哪里来的、与事无关的人：家里的事关起门米谈，弄些～的来吓哪个？  
 1. 【[野三旅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_saen_ly.md#野三旅)】`ia3 saen1 ly3` <sup>[东台]</sup> 抗战期间，国民党江苏保安三旅，张星炳的杂牌军部队。平时扰民，但有时也抗日。现常喻指不上档次的人或物。  
 1. 【[野牲豕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_shen_shr.md#野牲豕)】`ia3 shen1 shr` <sup>[如皋]</sup> 野兽。  
 1. 【[野荡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_tan.md#野荡)】`ia3 tan` <sup>[如皋]</sup> 环境空旷，不见人迹。  
@@ -1150,12 +1150,12 @@
 1. 【[一绕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_ro.md#一绕)】`ieh7 ro6` <sup>[兴化]</sup> 形容时间飞逝：几年不见，～伢儿倒这吖大啊。  
 1. 【[一绕的下子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_ro_dii_ha_zz.md#一绕的下子)】`ieh7 ro6 dii ha zz` <sup>[东台]</sup> 形容时间过得很快；不知不觉：～，她倒上吖大学！  
 1. 【[一绕一绕的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_ro_ieh_ro_dii.md#一绕一绕的)】`ieh7 ro6 ieh7 ro6 dii` <sup>[如皋]</sup> 绕来戏去的。  
-1. 【[一上<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_san_r.md#一上<sub>儿</sub>)】`ieh7 san6-3 r` <sup>[泰县]</sup> ① 一直：我俫～在一起儿工作。 ② 过去：我俫～就住啊这许。  
 1. 【[一煞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_shaeh.md#一煞)】`ieh7 shaeh` <sup>[兴化]</sup> 索性：天色不早，～吃过夜饭再走吧！｜手上活计不多，～做完吖再收工吧！  
 1. 【[一山两水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_shaen_laen_shuei.md#一山两水)】`ieh7 shaen1 laen3 shuei3` <sup>[如皋]</sup> 一夫二妻。  
 1. 【[一晌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_shan.md#一晌)】`ieh7 shan3` <sup>[兴化]</sup> 指一个上午：～下来，耕了五六亩地。（兴文《得胜湖和朱胖舍》）  
 1. 【[一上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_shan.md#一上)】`ieh7 shan6` <sup>[兴化]</sup> ① 刚开始，也说“一上来”“头一上来”：这笔交易他～儿就不赞成。 ② 一下子：戴宗正机又渴，～把酒和豆腐都吃了……（《水浒传》三九）。  
 1. 【[一上来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_shan_lae.md#一上来)】`ieh7 shan6 lae` <sup>[兴化]</sup> 刚开始。  
+1. 【[一上<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_shan_r.md#一上<sub>儿</sub>)】`ieh7 shan6-3 r` <sup>[泰县]</sup> ① 一直：我俫～在一起儿工作。 ② 过去：我俫～就住啊这许。  
 1. 【[一十脚下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_sheh_jiah_ha.md#一十脚下)】`ieh7 sheh jiah7 ha` <sup>[如皋]</sup> 农历初十前后。  
 1. 【[一式一样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_sheh_ieh_ian.md#一式一样)】`ieh7 sheh7 ieh7 ian6` <sup>[如东]</sup> 款式完全相同：两张书橱～。  
 1. 【[一式头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_sheh_teu.md#一式头)】`ieh7 sheh7 teu2` <sup>[泰兴]</sup> 全是一个式样、样子；全具备一种特点：些伢儿～穿的校服  
@@ -1329,7 +1329,7 @@
 1. 【[一砖一丁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_zhun_ieh_dien.md#一砖一丁)】`ieh7 zhun1 ieh7 dien1` <sup>[如皋]</sup> 砌墙法之一，一横砖接一丁砖，墙体牢固。  
 1. 【[一转](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_zhun.md#一转)】`ieh7 zhun3` <sup>[兴化]</sup> 生肖十二年轮转一遍，故俗以十二岁为～：他比我大～，也属猪。  
 1. 【[一转](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_zhun.md#一转)】`ieh7 zhun5` <sup>[兴化]</sup> ① 一圈：在街上寻吖～，不曾碰见。 ② 周围：向北乃是三间朝南的精舍，～俱是回廊……（《老残游记》八）  
-1. 【[一拄打拄的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_zhv_ieh_zhv_dii.md#一拄打拄的)】`ieh7 zhv3 ieh7 zhv3 dii` <sup>[如皋]</sup> 状严肃认真，程序不乱：他待人～，做事～，是个～人。  
+1. 【[一拄打拄的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_zhv_da_zhv_dii.md#一拄打拄的)】`ieh7 zhv3 da3 zhv3 dii` <sup>[如皋]</sup> 状严肃认真，程序不乱：他待人～，做事～，是个～人。  
 1. 【[一注打一注](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_zhv_da_ieh_zhv.md#一注打一注)】`ieh7 zhv5 da3 ieh7 zhv5` <sup>[兴化]</sup> （借）态度严谨，不随便：你是长辈，对伢儿要～的。  
 1. 【[一早一晚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_zo_ieh_vaen.md#一早一晚)】`ieh7 zo3 ieh7 vaen3` <sup>[兴化]</sup> 早晚、或成天：公公生病，她～服侍。  
 1. 【[一早起](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_zo_qi.md#一早起)】`ieh7 zo3 qi` <sup>[兴化]</sup> ① 清晨：今吖～他就出去啊。 ② 一个早晨的时间：忙吖～才把院子收拾干净。也作“一早”。  
