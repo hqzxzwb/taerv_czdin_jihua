@@ -1260,7 +1260,7 @@
 1. 【[救性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_xien.md#救性)】`jieu5 xien5` <sup>[如皋]</sup> 挽救的可能性：病太重吖，没～吖。  
 1. 【[疚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu.md#疚)】`jieu5` <sup>[东台]</sup> 由于自己的过失而产生不安或惭愧的心情：内～｜负～。  
 1. 【[劫财神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_cae_shen.md#劫财神)】`jih7 cae2 shen2` <sup>[泰县]</sup> 土匪把富人劫走。  
-1. 【[劫难](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_naen.md#劫难)】`jih7 naen5` <sup>[东台]</sup> 指宿世恶业所带来的灾难。后泛指灾难。  
+1. 【[劫难](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_naen.md#劫难)】`jih7 naen6` <sup>[东台]</sup> 指宿世恶业所带来的灾难。后泛指灾难。  
 1. 【[劫抢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_qian.md#劫抢)】`jih7 qian3` <sup>[兴化]</sup> “抢劫”的逆序词：歹徒拦路～。  
 1. 【[接不上索](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_beh_shan_sah.md#接不上索)】`jih7 beh7 shan6 sah7` <sup>[如皋]</sup> 所存无几，赶不上支用。  
 1. 【[接宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_bo.md#接宝)】`jih7 bo3` <sup>[如皋]</sup> 轮流接抱婴幼儿。  
@@ -1308,8 +1308,6 @@
 1. 【[洁锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_gu.md#洁锅)】`jih7 gu1` <sup>[泰县]</sup> 饭后把饭碗洗净。  
 1. 【[疖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_zz.md#疖子)】`jih7 zz` <sup>[如东]</sup> 皮肤病，由葡萄球菌或链状茁侵入毛囊内引起。症状是局部出现充血硬块，化脓，红肿，疼痛。  
 1. 【[疖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_zz.md#疖子)】`jih7 zz` <sup>[东台]</sup> 一种皮肤病，症状为局部充血硬块，化脓、红肿、疼痛。  
-1. 【[砝恭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_gon.md#砝恭)】`jih7 gon1` <sup>[如皋]</sup> 大便燥结，难解出。  
-1. 【[砝恭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_gon.md#砝恭)】`jih7 gon1` <sup>[如皋]</sup> 大便硬结难以排出。  
 1. 【[结](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih.md#结)】`jih7` <sup>[如东]</sup> ① 在条状物上打疙瘩，称结：绳～。 ② 一种编织方法。把绒线编织成服装，称结：～毛线。  
 1. 【[结疤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_ba.md#结疤)】`jih7 ba1` <sup>[东台]</sup> 伤口或疮口结痂。  
 1. 【[结疤<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_ba_r.md#结疤<sub>儿</sub>)】`jih7 ba1 r` <sup>[如皋]</sup> 结痂。  
@@ -1321,6 +1319,7 @@
 1. 【[结底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_di.md#结底)】`jih7 di3` <sup>[如皋]</sup> 终结。  
 1. 【[结角<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_gah_r.md#结角<sub>儿</sub>)】`jih7 gah r` <sup>[如皋]</sup> 豆科植物结出荚来。  
 1. 【[结恭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_gon.md#结恭)】`jih7 gon1` <sup>[如东]</sup> 便秘：这几天我～，难受死啊。  
+1. 【[结恭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_gon.md#结恭)】`jih7 gon1` <sup>[如皋]</sup> 大便燥结，难解出。  
 1. 【[结棍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_guen.md#结棍)】`jih7 guen5` 厉害  
 1. 【[结棍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_guen.md#结棍)】`jih7 guen5` <sup>[如东]</sup> ① 形容物体坚固。 ② 形容身体健壮。  
 1. 【[结棍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_guen.md#结棍)】`jih7 guen5` <sup>[东台]</sup> ① 结实、强壮：身子骨～。 ② 厉害：这项目赚钱～｜这个人～，你弄不过他。  
@@ -1625,7 +1624,7 @@
 1. 【[蛟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio.md#蛟)】`jio1` <sup>[如皋]</sup> 扬子鳄。鼍龙。今很少见。  
 1. 【[蛟水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_shuei.md#蛟水)】`jio1 shuei3` <sup>[如皋]</sup> 长江发的大水。旧传常能见蛟，而以为即蛟所为。  
 1. 【[敽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio.md#敽)】`jio3` <sup>[如皋]</sup> 缝合  
-1. 【[敽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio.md#敽)】`jio3` <sup>[东台]</sup> 把手工织物的各部分连缀起来。（《说文·父部》“敽，系连也，从女，乔声。”）  
+1. 【[敽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio.md#敽)】`jio3` <sup>[东台]</sup> 把手工织物的各部分连缀起来。  
 1. 【[狡辞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_cz.md#狡辞)】`jio3 cz2` <sup>[如皋]</sup> 狡辩的理由。  
 1. 【[狡辞重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_cz_chon.md#狡辞重)】`jio3 cz2 chon6` <sup>[如皋]</sup> 会说狡辩话且歪理多。  
 1. 【[狡戗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_qian.md#狡戗)】`jio3 qian1` <sup>[如皋]</sup> 狡辩。  

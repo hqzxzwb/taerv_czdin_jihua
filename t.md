@@ -1847,8 +1847,8 @@
 1. 【[逃反](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_faen.md#逃反)】`to2 faen3` <sup>[如东]</sup> 逃难：日本鬼子来啊，群众总～走啊。  
 1. 【[逃荒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_huan.md#逃荒)】`to2 huan1` <sup>[如东]</sup> 因遇灾荒而逃往外地去。  
 1. 【[逃命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_mien.md#逃命)】`to2 mien6` <sup>[如东]</sup> 躲避危险。  
-1. 【[逃难](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_naen.md#逃难)】`to2 naen5` <sup>[东台]</sup> 旧时常遇兵匪、水患、敌机轰炸，为避伤害，民众纷纷～。  
 1. 【[逃难](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_naen.md#逃难)】`to2 naen6` <sup>[如东]</sup> 为躲避灾难而逃往别处。  
+1. 【[逃难](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_naen.md#逃难)】`to2 naen6` <sup>[东台]</sup> 旧时常遇兵匪、水患、敌机轰炸，为避伤害，民众纷纷～。  
 1. 【[逃伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_nga_r.md#逃伢<sub>儿</sub>)】`to2 nga2 r` <sup>[如东]</sup> 寡妇生的孩子，叫逃伢儿。  
 1. 【[选难儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_naen_er.md#选难儿)】`to2 naen6 er2` <sup>[如皋]</sup> 生于难中的孩子的称呼。  
 1. 【[选种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_zhon.md#选种)】`to2 zhon3` <sup>[如东]</sup> 选择优良品种。  
@@ -2504,8 +2504,8 @@
 1. 【[土工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_gon.md#土工)】`tv3 gon1` <sup>[兴化]</sup> 旧称从事送葬、造坟等殡葬服务的人。  
 1. 【[土货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_hu.md#土货)】`tv3 hu5` <sup>[如东]</sup> 当地手工生产的农产品和工业品。  
 1. 【[土燕子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_in_zz.md#土燕子)】`tv3 in5 zz` <sup>[如皋]</sup> 燕鸻。  
-1. 【[土墼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_jieh.md#土墼)】`tv3 jieh7` <sup>[东台]</sup> 旧时砌墙的土坯，也可作为砖坯，但比一般砖坯大。（“墼”读若“击”）  
-1. 【[土墼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_jieh.md#土墼)】`tv3 jieh7` <sup>[兴化]</sup> 土坯，由土和稻麦颖片（稳子）混合制成，体积大于普通粘土砖，可用于砌墙。墼，《广韵·锡韵》古历切：土墼。  
+1. 【[土墼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_jieh.md#土墼)】`tv3 jieh7` <sup>[东台]</sup> 旧时砌墙的土坯，也可作为砖坯，但比一般砖坯大。  
+1. 【[土墼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_jieh.md#土墼)】`tv3 jieh7` <sup>[兴化]</sup> 土坯，由土和稻麦颖片（稳子）混合制成，体积大于普通粘土砖，可用于砌墙。  
 1. 【[土墼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_jieh.md#土墼)】`tv3 jieh7` <sup>[泰县]</sup> 土坯：这个墙用～做的。  
 1. 【[土楼里造飞机——异想天开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_leu_lii_co_fei_ji_i_xian_tin_kae.md#土楼里造飞机——异想天开)】`tv3 leu2 lii co6 fei1 ji1 i6 xian3 tin1 kae1` <sup>[东台]</sup>   
 1. 【[土佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_lo_r.md#土佬<sub>儿</sub>)】`tv3 lo3 r` <sup>[如皋]</sup> 土气十足的人。  

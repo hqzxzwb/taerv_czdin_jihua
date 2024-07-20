@@ -1442,6 +1442,8 @@
 1. 【[泥兜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_deu_r.md#泥兜<sub>儿</sub>)】`ni2 deu1 r` <sup>[如东]</sup> 盖房时装泥灰的方布兜儿。  
 1. 【[泥刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_do.md#泥刀)】`ni2 do1` <sup>[如东]</sup> 工具。铁制，长方形，口钝。有铁柄。瓦工用来砌墙等。  
 1. 【[泥柮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_duh_zz.md#泥柮子)】`ni2 duh7 zz` <sup>[如东]</sup> 盛泥灰的一种小木桶、小铁桶或小塑料桶。  
+1. 【[泥堆堆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_dy_dy_r.md#泥堆堆<sub>儿</sub>)】`ni2 dy1 dy1 r` <sup>[如皋]</sup> 小土堆。  
+1. 【[泥堆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_dy_r.md#泥堆<sub>儿</sub>)】`ni2 dy1 r` <sup>[如皋]</sup> 疏松的小土堆。  
 1. 【[泥垡头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_faeh_teu.md#泥垡头)】`ni2 faeh8 teu` <sup>[如东]</sup> 土块儿。  
 1. 【[泥佛劝土佛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_feh_qiun_tv_feh.md#泥佛劝土佛)】`ni2 feh8 qiun5 tv3 feh8` <sup>[兴化]</sup> （喻）处境相同或相似的人互相慰勉：他俫两个受骗的人～。｜“我的哥哥，你自顾了你罢，又～……”（《金瓶子梅词话》十三）  
 1. 【[泥狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_geu.md#泥狗)】`ni2 geu3` <sup>[东台]</sup> ① 一种两栖小动物，四肢短小，均具四趾。生有三对淡紅色外鳃。栖于多水草的河沼底部。 ② ［喻］非常顽皮，浑身有灰土的孩子。  
@@ -1490,8 +1492,6 @@
 1. 【[泥地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_ti.md#泥地)】`ni2 ti6` <sup>[如皋]</sup> 泥土地面。  
 1. 【[泥腿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_tuei_zz.md#泥腿子)】`ni2 tuei3 zz` <sup>[如东]</sup> 农民下地干活，脚腿上会沾泥巴。比喻种田的农民。旧社会的农民经济条件差，很少读书。比喻没有文化的人：他是～，不会说话，请你原谅。  
 1. 【[泥潭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_tun.md#泥潭)】`ni2 tun2` <sup>[如皋]</sup> 大而深的泥浆塘。  
-1. 【[泥堆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_ty_r.md#泥堆<sub>儿</sub>)】`ni2 ty1 r` <sup>[如皋]</sup> 疏松的小土堆。  
-1. 【[泥堆堆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_ty_ty_r.md#泥堆堆<sub>儿</sub>)】`ni2 ty1 ty1 r` <sup>[如皋]</sup> 小土堆。  
 1. 【[泥污搭枯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_v_daeh_kv.md#泥污搭枯)】`ni2 v1 daeh7 kv1` <sup>[东台]</sup> ［喻］做事拖泥带水不清爽。  
 1. 【[泥污污的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_v_v_dii.md#泥污污的)】`ni2 v1 v1 dii` <sup>[如皋]</sup> 沾满污泥的样子。  
 1. 【[泥滑虫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_vaeh_chon_r.md#泥滑虫<sub>儿</sub>)】`ni2 vaeh8 chon2 r` <sup>[如皋]</sup> 蛞蝓，又作蜒蚰、鼻涕虫。  
