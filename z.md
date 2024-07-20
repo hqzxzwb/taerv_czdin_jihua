@@ -1351,7 +1351,6 @@
 1. 【[㔉田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_tin.md#㔉田)】`zhoh7 tin2` <sup>[东台]</sup> 用锄头或钉耙翻地。  
 1. 【[劚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh.md#劚)】`zhoh7` <sup>[如皋]</sup> ① 用钉钯翻土：～田、～番芋、～花生。 ② 用短柄锄斫挖：～玉米稭儿。  
 1. 【[劚锄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_chv.md#劚锄)】`zhoh7 chv2` <sup>[如皋]</sup> 短柄锄，收割时用以斫断高秆禾的根部。  
-1. 【[属仇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_cheu.md#属仇)】`zhoh7 cheu2` <sup>[如皋]</sup> 结成仇恨：你不能得罪他，他要同你～！  
 1. 【[灟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh.md#灟)】`zhoh7` <sup>[如皋]</sup> 清洗局部污点：～血斑。  
 1. 【[烛花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_hua.md#烛花)】`zhoh7 hua1` <sup>[东台]</sup> 烛芯烧焦结成花状物。旧时认为出现～将有喜事。  
 1. 【[烛台](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_tae.md#烛台)】`zhoh7 tae2` <sup>[如皋]</sup> 插本蜡烛的灯台。旧时多用锡造，置于圣柜上，敬神敬祖用。  
@@ -1404,6 +1403,7 @@
 1. 【[竹筒倒豆子——毫无保留](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_ton_do_teu_zz_ho_v_bo_lieu.md#竹筒倒豆子——毫无保留)】`zhoh7 ton3 do5 teu6 zz ho2 v2 bo3 lieu2` <sup>[东台]</sup>   
 1. 【[竹笋科箬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_xyen_kuh_rah.md#竹笋科箬)】`zhoh7 xyen3 kuh7 rah8` <sup>[如皋]</sup> 竹笋的外包箬。  
 1. 【[竹桌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_zhuah_r.md#竹桌<sub>儿</sub>)】`zhoh7 zhuah7 r` <sup>[如皋]</sup> 旧时厨房常用，价廉。毛竹为架，竹片串扼成板状物，装配成高脚碗厨儿，上为木板面。  
+1. 【[筑仇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_cheu.md#筑仇)】`zhoh7 cheu2` <sup>[如皋]</sup> 结成仇恨：你不能得罪他，他要同你～！  
 1. 【[筑仇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_cheu.md#筑仇)】`zhoh7 cheu2` <sup>[如东]</sup> ① 制造仇恨：不能～。 ② 记仇：不要～。  
 1. 【[篫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh.md#篫)】`zhoh7` <sup>[如东]</sup> 杆子由上往下用力着地，叫筑。  
 1. 【[篫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh.md#篫)】`zhoh7` <sup>[兴化]</sup> 以手在物体表面划弄，梳理：他用手指～头发。｜用手把皮毛、絮棉～～。《集韵·屋韵》张六切“～，以手～物”。  

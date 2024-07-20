@@ -552,7 +552,7 @@
 1. 【[屁放气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_fan_qi.md#屁放气)】`pi5 fan5 qi5` <sup>[如东]</sup> 从屁眼里喷出来的气，不会形成强大的风力。比喻力量不强，作用不大：他说话，又是～，没有多大用处。  
 1. 【[屁夹虫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_gaeh_chon_r.md#屁夹虫<sub>儿</sub>)】`pi5 gaeh7 chon2 r` <sup>[如皋]</sup> ① 斑蝥，鞘翅目。 ② 比喻放屁多的人。  
 1. 【[屁股板子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_gu_baen_zz.md#屁股板子)】`pi5 gu baen3 zz` <sup>[如东]</sup> 屁股：要打～。  
-1. 【[屁股坐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_gu_cu_zz.md#屁股坐子)】`pi5 gu cu6 zz` <sup>[兴化]</sup> 跌跤时屁股若地的姿势：跌咖个～。也说“屁股蹾儿”。  
+1. 【[屁股坐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_gu_cu_zz.md#屁股坐子)】`pi5 gu cu6 zz` <sup>[兴化]</sup> 跌跤时屁股着地的姿势：跌咖个～。也说“屁股蹾儿”。  
 1. 【[屁股墩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_gu_den_r.md#屁股墩<sub>儿</sub>)】`pi5 gu den1 r` <sup>[如东]</sup> 屁股上的肌肉部分：她的～大。  
 1. 【[屁股蹾<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_gu_den_r.md#屁股蹾<sub>儿</sub>)】`pi5 gu den1 r` <sup>[兴化]</sup> 见“屁股坐子”。  
 1. 【[屁股一转](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_gu_ieh_zhun.md#屁股一转)】`pi5 gu ieh7 zhun5` <sup>[如皋]</sup> 形容变化极快：1948年谚：“金圆券，～，落咖一半。”  

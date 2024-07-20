@@ -377,9 +377,9 @@
 1. 【[搡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san.md#搡)】`san3` <sup>[东台]</sup> 来回推拉：用力一～。  
 1. 【[搡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san.md#搡)】`san3` <sup>[兴化]</sup> 猛推：推推～～｜老和尚大怒……提着郭孝子的领子，一路推～出门……（《儒林外史》三八）  
 1. 【[搡拾人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_sheh_ren.md#搡拾人)】`san3 sheh8 ren2` <sup>[如东]</sup> 用恶言骂人：你不～。  
-1. 【[磉棵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_ku.md#磉棵)】`san3 ku1` <sup>[如皋]</sup> 柱下石。  
-1. 【[磉棵墩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_ku_den_r.md#磉棵墩<sub>儿</sub>)】`san3 ku1 den1 r` <sup>[如皋]</sup> 见“磉棵”。  
+1. 【[磉窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_ku.md#磉窠)】`san3 ku1` <sup>[如皋]</sup> 柱下石。  
 1. 【[磉窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_ku.md#磉窠)】`san3 ku1` <sup>[如东]</sup> 填在房屋柱杆底部的石墩，圆形。  
+1. 【[磉窠墩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_ku_den_r.md#磉窠墩<sub>儿</sub>)】`san3 ku1 den1 r` <sup>[如皋]</sup> 见“磉窠”。  
 1. 【[丧德](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_deh.md#丧德)】`san5 deh7` <sup>[如东]</sup> 缺德：他做这种～的事，捱万人骂。  
 1. 【[丧德](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_deh.md#丧德)】`san5 deh7` <sup>[泰县]</sup> 缺乏道德。  
 1. 【[丧年回](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_nin_huei.md#丧年回)】`san5 nin2 huei2` <sup>[泰县]</sup> 赔本、吃大亏：这次赔啊这吖多钱，～啊。  

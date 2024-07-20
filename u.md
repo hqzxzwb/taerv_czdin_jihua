@@ -237,13 +237,17 @@
 1. 【[唵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un.md#唵)】`un3` <sup>[兴化]</sup> 以手掌送食物入口：往嘴里～一把炒米。《广韵·感韵》乌感切：“，手进食也。”  
 1. 【[唵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un.md#唵)】`un3` <sup>[泰县]</sup> 用掌心将东西塞在嘴里：把药～吖嘴里。/月娘……先将服药一把～在口内。（金瓶梅·53回）  
 1. 【[唵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un.md#唵)】`un3` <sup>[泰县]</sup> 塞：把东西～吖嘴里。  
-1. 【[埯种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_zhon.md#埯种)】`un3 zhon3` <sup>[如东]</sup> 一种播种方法。用锹挖口子，把种子放进去，叫做埯种。  
 1. 【[揞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un.md#揞)】`un3` 以手掩盖  
 1. 【[揞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un.md#揞)】`un3` <sup>[如东]</sup> 把药末敷在伤口上，叫做揞。  
 1. 【[揞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un.md#揞)】`un3` <sup>[东台]</sup> 遮盖；掩盖：放屁动手～，有甚的用？  
 1. 【[揞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un.md#揞)】`un3` <sup>[兴化]</sup> 遮盖：～住伤口｜坛子口～得住，人口不住。《广雅·释诂》卷四上：“～，藏也。”王念孙疏证：“……今俗语犹谓手覆物为～矣”。  
 1. 【[揞场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_chan.md#揞场)】`un3 chan2` <sup>[如东]</sup> 在收割麦子或稻子的季节，将晒场翻泥洒水，用石磙子把场面压平压实，叫做揞场。  
 1. 【[揞业](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_ih.md#揞业)】`un3 ih8` <sup>[兴化]</sup> ① 疑似“安逸”音变。环境安靖，财不外露。 ② 墙高院深，防护严密：房子虽旧，倒蛮～的。  
+1. 【[揞眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_ngaen.md#揞眼)】`un3 ngaen3` <sup>[如皋]</sup> 牲口劳作用的眼罩，可防偷吃、防偷懒、防害怕。  
+1. 【[揞眼睛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_ngaen_jien.md#揞眼睛)】`un3 ngaen3 jien` <sup>[如皋]</sup> 蒙住眼睛。  
+1. 【[揞水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_shuei.md#揞水)】`un3 shuei3` <sup>[如皋]</sup> 新做场时，铺完乱草，普遍浇水，浇足洇透，以便压实。这个过程叫～。  
+1. 【[揞种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_zhon.md#揞种)】`un3 zhon3` <sup>[如皋]</sup> 点播一法。精撒菜种于塘儿中，抓灰，盖种：罯韭菜种儿、黄英菜种儿。  
+1. 【[揞种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_zhon.md#揞种)】`un3 zhon3` <sup>[如东]</sup> 一种播种方法。用锹挖口子，把种子放进去，叫做埯种。  
 1. 【[碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un.md#碗)】`un3` <sup>[如皋]</sup> 宴席中用碗或品锅盛装的有汤的一类菜，又称“大菜”。“碗”与“碟”相对。  
 1. 【[碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un.md#碗)】`un3` <sup>[如东]</sup> 瓷或竹、木金属塑料制，圆形，口大，无盖，无环。有头碗、大碗、碗、三红、饭碗、汤碗（也称茶碗、酒碗）诸规格。有花纹。主要用于盛饭、装菜。  
 1. 【[碗菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_cae.md#碗菜)】`un3 cae5` <sup>[如皋]</sup> 宴席中用碗或品锅盛装的有汤的一类菜，又称“大菜”。“碗”与“碟”相对。  
@@ -264,10 +268,6 @@
 1. 【[缓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un.md#缓)】`un3` <sup>[如皋]</sup> 令牛停下。  
 1. 【[缓和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_hu.md#缓和)】`un3 hu2` <sup>[东台]</sup> 使之和缓，与紧张相对。  
 1. 【[缓气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_qi.md#缓气)】`un3 qi5` <sup>[东台]</sup> 缓过气来，恢复正常呼吸。  
-1. 【[罯眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_ngaen.md#罯眼)】`un3 ngaen3` <sup>[如皋]</sup> 牲口劳作用的眼罩，可防偷吃、防偷懒、防害怕。  
-1. 【[罯眼睛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_ngaen_jien.md#罯眼睛)】`un3 ngaen3 jien` <sup>[如皋]</sup> 蒙住眼睛。  
-1. 【[罯水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_shuei.md#罯水)】`un3 shuei3` <sup>[如皋]</sup> 新做场时，铺完乱草，普遍浇水，浇足洇透，以便压实。这个过程叫～。  
-1. 【[罯种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_zhon.md#罯种)】`un3 zhon3` <sup>[如皋]</sup> 点播一法。精撒菜种于塘儿中，抓灰，盖种：罯韭菜种儿、黄英菜种儿。  
 1. 【[莞嘴<sub>儿</sub>笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_jy_r_xio.md#莞嘴<sub>儿</sub>笑)】`un3 jy3 r xio5` <sup>[如皋]</sup> 双唇收着（圆唇）笑。  
 1. 【[暗处](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_chv.md#暗处)】`un5 chv5` <sup>[如皋]</sup> ① 阴暗处。 ② 隐蔽处。  
 1. 【[暗底下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_di_ha.md#暗底下)】`un5 di3 ha6` 私下；理应  
