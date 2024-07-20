@@ -103,7 +103,6 @@
 1. 【[拿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_zz.md#拿子)】`na2 zz` <sup>[如皋]</sup> 夹具。  
 1. 【[拿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_zz.md#拿子)】`na2 zz` <sup>[东台]</sup> 刁难别人、制服别人的借口或手段：这个老板～真大！  
 1. 【[拿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_zz.md#拿子)】`na2 zz` <sup>[兴化]</sup> 架子：玩～（摆架子）；～不小。  
-1. 【[牙花子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_hua_zz.md#牙花子)】`na2 hua1 zz` <sup>[兴化]</sup> ① 牙垢。 ② 齿龈。  
 1. 【[那摩文](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_mu_ven.md#那摩文)】`na5 mu ven2` <sup>[东台]</sup> number one的变音。原指工头，现多指头一个、第一名：谈到唱歌，他竖起大拇指说，小王在全班是～！  
 1. 【[奶子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_zz.md#奶子)】`nae1 zz` <sup>[如东]</sup> 乳房。  
 1. 【[褦襶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_dae.md#褦襶)】`nae1 dae` <sup>[兴化]</sup> ① 粗笨、不利索：出门旅游，他带上多少吃的、穿的、用的，路都走不动，真～。 ② 不晓事、不合时宜：几个人当中就数他～，开口就捱人家叉住。｜晋，程晓《嘲热客》｜“闭门避署卧，出入不相过，只今～子，触热到人家。”《吴下方言考》｜“～，不解事而笨也，吴谚呼笨人为～。”  
@@ -389,6 +388,7 @@
 1. 【[牙箍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_gv.md#牙箍)】`nga2 gv1` <sup>[如东]</sup> 牙床。  
 1. 【[牙箍㹕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_gv_huaen.md#牙箍㹕)】`nga2 gv1 huaen1` <sup>[如东]</sup> ① 牙床不灵活。 ② 表示不会说话：看见乡长为甚的不说，你～吖？  
 1. 【[牙行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_han.md#牙行)】`nga2 han2` <sup>[如东]</sup> 旧时提供场所、协助买卖双方成交而从中取得佣金的商号。  
+1. 【[牙花子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_hua_zz.md#牙花子)】`nga2 hua1 zz` <sup>[兴化]</sup> ① 牙垢。 ② 齿龈。  
 1. 【[牙黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_huan.md#牙黄)】`nga2 huan2` <sup>[泰县]</sup> 一种黄颜色。  
 1. 【[牙黄色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_huan_seh.md#牙黄色)】`nga2 huan2 seh7` <sup>[兴化]</sup> 近似象牙的淡黄颜色。  
 1. 【[牙祭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_ji.md#牙祭)】`nga2 ji5` <sup>[兴化]</sup> ① 旧俗，商店、作坊于初二、十六改善伙食，午餐加一点鱼肉等荤腥。汪曾祺《岁寒三友》自注：初二、十六一这是店铺里打～的日子。 ② （戏）谓团体内改善伙食。  

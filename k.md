@@ -298,7 +298,7 @@
 1. 【[嵌山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen_shaen.md#嵌山)】`kaen5 shaen1` <sup>[如皋]</sup> 给室内梁架的框格间加装板料，使“山尖儿”分隔开。  
 1. 【[嵌山梁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen_shaen_lian.md#嵌山梁)】`kaen5 shaen1 lian2` <sup>[如东]</sup> 房屋两侧的柱杆一半嵌在山墙内，称嵌山梁。  
 1. 【[嵌掌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen_zhan.md#嵌掌)】`kaen5 zhan3` <sup>[如东]</sup> ① 脚趾甲弯曲插进皮肤里。 ② 房屋后架下边的一根木条或木板。  
-1. 【[限长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen_zhan.md#限长)】`kaen5 zhan3` <sup>[如皋]</sup> 生长很慢，长不高：伢儿～。  
+1. 【[嵌长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen_zhan.md#嵌长)】`kaen5 zhan3` <sup>[如皋]</sup> 生长很慢，长不高：伢儿～。  
 1. 【[壳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah.md#壳)】`kah7` <sup>[东台]</sup> 坚硬的外壳：甲～；脱～。  
 1. 【[壳壳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_kah_r.md#壳壳<sub>儿</sub>)】`kah7 kah r` <sup>[如皋]</sup> ① 质差：这张橱是坏～。 ② 无价值：还做甚的唻，做他个～！  
 1. 【[壳壳<sub>儿</sub>梦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_kah_r_mon.md#壳壳<sub>儿</sub>梦)】`kah7 kah r mon6` <sup>[如皋]</sup> 见“壳壳儿”。  

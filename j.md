@@ -1064,7 +1064,7 @@
 1. 【[紧身<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_shen_r.md#紧身<sub>儿</sub>)】`jien3 shen1 r` <sup>[泰县]</sup> 贴身的内衣。  
 1. 【[紧闩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_shuaen.md#紧闩)】`jien3 shuaen1` <sup>[如东]</sup> 封闭：围墙上留这们大的门，不～。  
 1. 【[紧囤囤的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_ten_ten_dii.md#紧囤囤的)】`jien3 ten ten dii` <sup>[如皋]</sup> ① 状关闭很紧：城门关得～。 ② 包裹、填塞得满满的：天气冷，伢儿身上包得～。  
-1. 【[紧腾腾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_ten_ten.md#紧腾腾)】`jien3 ten ten1` <sup>[兴化]</sup> 形容严实：“说说也苦恼，房门关得～，赛过牢门……”（《四杰传》七七）  
+1. 【[紧腾腾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_ten_ten.md#紧腾腾)】`jien3 ten1 ten1` <sup>[兴化]</sup> 形容严实：“说说也苦恼，房门关得～，赛过牢门……”（《四杰传》七七）  
 1. 【[紧旺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_van.md#紧旺)】`jien3 van5` <sup>[东台]</sup> 指某件事正处于紧张、兴旺阶段：六月初～收麦｜腊月底各家～忙年事，少去打扰吧。  
 1. 【[紧扎扎的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zhaeh_zhaeh_dii.md#紧扎扎的)】`jien3 zhaeh7 zhaeh7 dii` <sup>[如皋]</sup> 状充满而稍挤：新鞋子上脚～，不能走远路。  
 1. 【[警车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_cha.md#警车)】`jien3 cha1` <sup>[如东]</sup> 担负警察任务的车辆。  

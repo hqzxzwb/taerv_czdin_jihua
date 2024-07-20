@@ -768,7 +768,6 @@
 1. 【[豚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_zz.md#豚子)】`ten2 zz` <sup>[泰县]</sup> 雌性的仔猪。  
 1. 【[氽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten.md#氽)】`ten3` <sup>[如皋]</sup> ① 水骤涌：泉眼里的水只～。 ② 热气、浊气蒸腾：锅里热气～人子；漓尿宝儿一到，骚气味就～人子。  
 1. 【[氽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten.md#氽)】`ten3` <sup>[如东]</sup> ① 浮在水面上：木头氽吖水面上。 ② 水涌出来：大水～动。  
-1. 【[吞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_zz.md#吞子)】`ten5 zz` <sup>[兴化]</sup> （西北部分村镇语）嗓子：这几天受凉，～发痒。  
 1. 【[噋噋<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_ten_r.md#噋噋<sub>儿</sub>)】`ten5 ten5 r` <sup>[泰县]</sup> 慢慢地：你～走。  
 1. 【[褪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten.md#褪)】`ten5` 脱衣服，多指裤子。  
 1. 【[褪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten.md#褪)】`ten5` <sup>[如皋]</sup> ① 退避：大家一齐儿走，他总～吖后头。 ② 暗中选留：这张床是～吖把你的，别的床总捱人家订吖去啊。  

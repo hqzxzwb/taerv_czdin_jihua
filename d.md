@@ -440,7 +440,7 @@
 1. 【[打顺算盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_shuen_sun_pun.md#打顺算盘)】`da3 shuen6 sun5 pun2` <sup>[如皋]</sup> 只算到利益和好处，未算到困难和失利。  
 1. 【[打尿噤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_suei_jien.md#打尿噤)】`da3 suei1 jien` <sup>[兴化]</sup> 小便将尽热量散失或因熬尿时间过久而打寒噤。  
 1. 【[打丝线](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_sz_xin.md#打丝线)】`da3 sz1 xin5` <sup>[如皋]</sup> ① 职业名。 ② 用简单机械将蚕丝加捻度合成线。  
-1. 【[打他一拳去，省得百拳来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ta_ieh_qiu_qy_shen_deh_boh_qiun_lae.md#打他一拳去，省得百拳来)】`da3 ta1 ieh7 qiu2 qy5 shen3 deh7 boh7 qiun2 lae2` <sup>[如皋]</sup> 打一拳已定局，没有拳头还回来。  
+1. 【[打他一拳去，省得百拳来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ta_ieh_qiun.md#打他一拳去，省得百拳来)】`da3 ta ieh7 qiun2 qy5 shen3 deh7 boh7 qiun2 lae2` <sup>[如皋]</sup> 打一拳已定局，没有拳头还回来。  
 1. 【[打太平钟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_tae_pien_zhon.md#打太平钟)】`da3 tae5 pien2 zhon1` <sup>[如皋]</sup> 又名打回钟，钟点缓慢，表示警讯解除。  
 1. 【[打繵子绳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_taen_zz_shen_r.md#打繵子绳<sub>儿</sub>)】`da3 taen2 zz shen2 r` <sup>[如皋]</sup> 用简单机械、以手工加捻度打成的纤绳。同“打麻绳”。  
 1. 【[打弹子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_taen_zz.md#打弹子)】`da3 taen6 zz3` <sup>[兴化]</sup> 儿童游戏：用手指在地上弹射小玻璃球。  
@@ -1068,9 +1068,9 @@
 1. 【[呆子数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_zz_shv.md#呆子数)】`dae1 zz shv5` <sup>[如皋]</sup> 指十三。  
 1. 【[呆子数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_zz_shv.md#呆子数)】`dae1 zz shv5` <sup>[如皋]</sup> 不吉利的数字，如250。  
 1. 【[呆子数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_zz_shv.md#呆子数)】`dae1 zz shv5` <sup>[东台]</sup> 指二十五或二百五。  
-1. 【[歹怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_guae.md#歹怪)】`dae2 guae5` <sup>[泰县]</sup> 偏偏。  
 1. 【[歹过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_gu.md#歹过)】`dae3 gu5` <sup>[泰县]</sup> 很，而且：这东西～不错。  
 1. 【[歹怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_guae.md#歹怪)】`dae3 guae5` <sup>[东台]</sup> 副词，“偏偏”的意思：他家两口子水平不高，但小伙～有出息，考上吖名牌大学。  
+1. 【[歹怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_guae.md#歹怪)】`dae3 guae5` <sup>[泰县]</sup> 偏偏。  
 1. 【[逮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae.md#逮)】`dae3` <sup>[如皋]</sup> 获得：好不容易～到这个机会。  
 1. 【[逮住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_chv.md#逮住)】`dae3 chv` <sup>[兴化]</sup> 介词，相当于“将”“把”“拿”等介词的部分功能，其原义被虚化：小韩～小杨一顿骂。｜老师～他一泡批评。｜他没事就～小沈开心。  
 1. 【[逮到黄牛当马骑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_do_huan_ngeu_dan_ma_qi.md#逮到黄牛当马骑)】`dae3 do5 huan2 ngeu2 dan5 ma3 qi2` <sup>[东台]</sup> 喻指在急缺人手时，抓到一个就压上重担。  
@@ -1701,8 +1701,8 @@
 1. 【[𧘸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_zz.md#𧘸子)】`den5 zz` <sup>[如皋]</sup> 有里子面子（或有衬物）的上装。分为夹～、棉～、皮～几种。  
 1. 【[𧘸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_zz.md#𧘸子)】`den5 zz` <sup>[东台]</sup> 棉袄。也叫“布宝儿”“紧程儿”。  
 1. 【[𧘸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_zz.md#𧘸子)】`den5 zz` <sup>[兴化]</sup> 双层的或铺有絮棉的上衣：夹～；棉～；皮～。  
-1. 【[兜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu.md#兜)】`deu1` <sup>[如皋]</sup> ① 走：这几天跑啊不歇，腿子～啊断吖。 ② 吃：在他家～啊两大碗饭。 ③ 抖动：他冻得牙巴骨儿只～。 ④ 捞：拿网～鱼。 ⑤ 上衣、长衫的下摆捞起来装东西称衣～。  
-1. 【[兜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu.md#兜)】`deu1` <sup>[东台]</sup> 吃喝的粗野说法：几个人到他家里～啊一顿｜他喜欢～点儿老烧酒。  
+1. 【[兜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu.md#兜)】`deu1` <sup>[如皋]</sup> ① 走：这几天跑啊不歇，腿子～啊断吖。 ② 吃：在他家～啊两大碗饭。 ③ 抖动：他冻得牙巴骨儿只～。 ④ 捞：拿网～鱼。 ⑤ 上衣、长衫的下摆捞起来装东西称衣～。 ⑥ 乱说。或作“吺”：你同人家瞎～的哪一家！  
+1. 【[兜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu.md#兜)】`deu1` <sup>[东台]</sup> ① 吃喝的粗野说法：几个人到他家里～啊一顿｜他喜欢～点儿老烧酒。 ② 啰唆，言多而不精练。或作“吺”。  
 1. 【[兜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu.md#兜)】`deu1` <sup>[兴化]</sup> ① 招惹：“是倒也是，羞人答答的，怎好～他？”（《二刻》二八） ② 动词，多为引伸或借用的词义。打：～他几家伙。｜～架（即打架）。 ③ 弄、折腾：好好的收音机，捱他～坏啊。 ④ 吃：～饭；～肉坨子。  
 1. 【[兜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu.md#兜)】`deu1` <sup>[泰县]</sup> 用器皿装水：去～水。  
 1. 【[兜宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_bo_r.md#兜宝<sub>儿</sub>)】`deu1 bo3 r` <sup>[如东]</sup> 一种很宽的腰带，系腰的同时，也存放钱钞。商人爱用。  
@@ -1736,8 +1736,6 @@
 1. 【[兜芯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_xien.md#兜芯)】`deu1 xien1` <sup>[如东]</sup> 馅儿：豆沙～。  
 1. 【[兜芯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_xien.md#兜芯)】`deu1 xien1` <sup>[如皋]</sup> 包馅、馅子。  
 1. 【[兜嘴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_zuei_r.md#兜嘴<sub>儿</sub>)】`deu1 zuei3 r` <sup>[如东]</sup> 套在牛嘴上的网袋。  
-1. 【[吺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu.md#吺)】`deu1` <sup>[如皋]</sup> 乱说：你同人家瞎～的哪一家！  
-1. 【[吺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu.md#吺)】`deu1` <sup>[东台]</sup> 啰唆，言多而不精练。  
 1. 【[抖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu.md#抖)】`deu3` <sup>[如皋]</sup> ① 好表现，好出风头：这家伙～得交关。～狠吖要栽跟头的！ ② 鲁莽。  
 1. 【[抖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu.md#抖)】`deu3` <sup>[东台]</sup> 除一般释义外，有“显摆，炫耀”义：有啊成绩不能～！  
 1. 【[抖抖边<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_deu_bin_r.md#抖抖边<sub>儿</sub>)】`deu3 deu3 bin1 r` <sup>[泰县]</sup> 不稳重的人。  
