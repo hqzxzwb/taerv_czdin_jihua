@@ -846,6 +846,7 @@
 1. 【[惊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien.md#惊)】`jien1` <sup>[兴化]</sup> ① 婴幼儿因受意外刺激而害怕：小儿～吖。 ② 痱子受刺激而骤痒：痱子一～，浑身发痒。  
 1. 【[惊场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_chan.md#惊场)】`jien1 chan2` <sup>[如皋]</sup> 临场紧张，可影响正常发挥。  
 1. 【[惊蛰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_cheh.md#惊蛰)】`jien1 cheh8` <sup>[如东]</sup> 二十四节气之一，在阴历3月5日、6日或7日。  
+1. 【[惊蛰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_cheh.md#惊蛰)】`jien1 cheh8` <sup>[东台]</sup> 二十四节气之一，通常在3月5、6或7日。（东台词典记音jin1 zeh7）  
 1. 【[惊吵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_cho.md#惊吵)】`jien1 cho3` <sup>[如皋]</sup> ① 打乱、干扰了别人。 ② 致歉用语。  
 1. 【[惊冻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_don.md#惊冻)】`jien1 don5` <sup>[如皋]</sup> 因温度降低到觉得冷时的一抖。  
 1. 【[惊觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gah.md#惊觉)】`jien1 gah` <sup>[兴化]</sup> 被突然刺激（如响动、梦魇等）所惊醒：睡到四更时分，门外一片声大贼，两弟兄一齐～……（《儒林外史》四五）｜（黄）飞虎猛然一，那灯光依旧复明。（《封神演义》三二）  
@@ -858,7 +859,6 @@
 1. 【[惊惊乍乍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_jien_zha_zha.md#惊惊乍乍)】`jien1 jien1 zha5 zha5` <sup>[兴化]</sup> 因惊恐而神情异常：她这几天～的，不晓得怕甚的？  
 1. 【[惊吖惊的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_nga_jien_dii.md#惊吖惊的)】`jien1 nga jien1 dii` <sup>[如皋]</sup> 见“惊惊憷憷”的。  
 1. 【[惊汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_tan.md#惊汤)】`jien1 tan1` <sup>[兴化]</sup> ① 紧张：他一见这种大阵势，有点～。 ② 受突然刺激而感惊恐不适：婴儿初下浴池洗澡都会～啼哭。  
-1. 【[惊蛰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zheh.md#惊蛰)】`jien1 zheh7` <sup>[东台]</sup> 二十四节气之一，通常在3月5、6或7日。  
 1. 【[斤重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_chon.md#斤重)】`jien1 chon` <sup>[兴化]</sup> 重量：这条鱼～不小。  
 1. 【[斤两](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_lian.md#斤两)】`jien1 lian3` <sup>[东台]</sup> 分量：你看这个山芋有多少～？  
 1. 【[斤两担子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_lian_daen_zz.md#斤两担子)】`jien1 lian3 daen5 zz` <sup>[如皋]</sup> 责任、压力：我同他谈过啊，这个任务～不轻，要认真对待。  

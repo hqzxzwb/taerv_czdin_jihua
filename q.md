@@ -690,8 +690,8 @@
 1. 【[七七八八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_qieh_baeh_baeh.md#七七八八)】`qieh7 qieh7 baeh7 baeh7` <sup>[泰兴]</sup> 犹言零零碎碎，乱七八糟，多种多样：箇些～的事，我不去过问。  
 1. 【[七七八八的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_qieh_baeh_baeh_dii.md#七七八八的)】`qieh7 qieh7 baeh7 baeh7 dii` <sup>[如皋]</sup> 杂乱的事情、物件：睡下来，～事总在心里盘。  
 1. 【[七夕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_qieh.md#七夕)】`qieh7 qieh8` <sup>[东台]</sup> 农历七月初七的晚上。传说牛郎织女这天在鹊桥相会。（东台音qieh7 xih7）  
+1. 【[七跷八挜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_qio_baeh_nga.md#七跷八挜)】`qieh7 qio1 baeh7 nga6` <sup>[泰兴]</sup> ① 地面不平 ② 单位或家庭内部不团结，闹矛盾：单位虽小，干群之间～的，实在难于管理 ③ 亦常用于人惹是生非，难以相处：他同个个～的  
 1. 【[七翘八跛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_qio_baeh_bu.md#七翘八跛)】`qieh7 qio2 baeh7 bu3` <sup>[东台]</sup> 同“里翘外跛”。也作“七翘八跛”。  
-1. 【[七翘八挜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_qio_baeh_nga.md#七翘八挜)】`qieh7 qio5 baeh7 nga6` <sup>[泰兴]</sup> ① 地面不平 ② 单位或家庭内部不团结，闹矛盾：单位虽小，干群之间～的，实在难于管理 ③ 亦常用于人惹是生非，难以相处：他同个个～的  
 1. 【[七绕八靠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_ro_baeh_ko.md#七绕八靠)】`qieh7 ro6 baeh7 ko5` <sup>[泰兴]</sup> 兜圈子、想主意（企图达到目的）。  
 1. 【[七绕八绕的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_ro_baeh_ro_dii.md#七绕八绕的)】`qieh7 ro6 baeh7 ro6 dii` <sup>[如皋]</sup> 绕来绕去的。  
 1. 【[七绕八转](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_ro_baeh_zhun.md#七绕八转)】`qieh7 ro6 baeh7 zhun3` <sup>[东台]</sup> 形容说话办事绕圈子。  

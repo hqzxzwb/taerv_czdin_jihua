@@ -853,8 +853,8 @@
 1. 【[一堆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_duei_r.md#一堆<sub>儿</sub>)】`ieh7 duei1 r` <sup>[兴化]</sup> 一起、一块儿：两个伢儿放吖学在～写作业。｜（穆春）走到厨房，见香火、芳哥两个做～蹲在灶下草里，各自抖不止。（《水浒后传》十七）  
 1. 【[一肚的二百五](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_dv_dii_er_boh_v.md#一肚的二百五)】`ieh7 dv3 dii er6 boh7 v3` <sup>[东台]</sup> 形容意见很多，极端反感：他原来对厂长～，后来经过交心，才谅解啊。  
 1. 【[一肚的数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_dv_dii_shv.md#一肚的数)】`ieh7 dv3 dii shv5` <sup>[东台]</sup> 心中有数，完全明白。  
+1. 【[一而当之](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_er_dan_zhr.md#一而当之)】`ieh7 er dan5 zhr1` <sup>[泰县]</sup> 稳妥：他做事～的。  
 1. 【[一而当之](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_er_dan_zhr.md#一而当之)】`ieh7 er2 dan5 zhr1` <sup>[东台]</sup> 有条不紊，不慌不忙。也称“逸逸当当”。  
-1. 【[一二当之](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_er_dan_zhr.md#一二当之)】`ieh7 er6 dan1 zhr1` <sup>[泰县]</sup> 稳妥：他做事～的。  
 1. 【[一发生活两发做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_faeh_shen_huh_laen_faeh_zu.md#一发生活两发做)】`ieh7 faeh7 shen1 huh laen3 faeh7 zu5` <sup>[如皋]</sup> 状做得慢、拖拉、做重复工。  
 1. 【[一番生活两番做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_faen_shen_huh_laen_faen_zu.md#一番生活两番做)】`ieh7 faen shen1 huh laen3 faen zu5` <sup>[兴化]</sup> 重复劳动或无功劳动：晒干的麦子趁手在场上扬干净，不要耙来耙去，～。  
 1. 【[一番生意两番做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_faen_shen_i_laen_faen_zu.md#一番生意两番做)】`ieh7 faen shen1 i laen3 faen zu5` <sup>[泰兴]</sup> 借指只需办一次就可以完成的事偏偏要做两次，而效果却是一样的。乡人有“盛起饭来炒啊吃”一说，其义相似。  
