@@ -1256,10 +1256,10 @@
 1. 【[缠蛮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin_maen.md#缠蛮)】`chin6 maen2` <sup>[如皋]</sup> 打扰、麻烦。  
 1. 【[缠蛮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin_maen.md#缠蛮)】`chin6 maen2` <sup>[兴化]</sup> ① 因意思不清楚而胡乱猜测：你不晓得哪码对哪码，覅瞎～。 ② 胡搅蛮缠：他明知自己的要求达不到，硬在这块～。｜姑娘这个时候晓得，但有意在这块跟鲍老～……（扬一《扬州劫法场》）  
 1. 【[缠七缠八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin_qieh_chin_baeh.md#缠七缠八)】`chin6 qieh7 chin6 baeh7` <sup>[如东]</sup> 纠缠不清：你不要在这许～。  
-1. 【[缠穷事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin_qion_shr.md#缠穷事)】`chin6 qion2 shr1` <sup>[东台]</sup> 同“缠事”，语气更气愤：不能上的项目硬要上，～！  
-1. 【[缠事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin_shr.md#缠事)】`chin6 shr1` <sup>[如东]</sup> 纠缠：不要～。  
-1. 【[缠事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin_shr.md#缠事)】`chin6 shr1` <sup>[如皋]</sup> 胡涂不清：他会～，你同他说不清。  
-1. 【[缠事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin_shr.md#缠事)】`chin6 shr1` <sup>[东台]</sup> ① 胡搅蛮缠，也作“缠丝”。 ② 是责怪对方把事情弄错了的口头禅：你把张老师的东西送到啊章老师家，～！  
+1. 【[缠穷事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin_qion_shr.md#缠穷事)】`chin6 qion2 shr6` <sup>[东台]</sup> 同“缠事”，语气更气愤：不能上的项目硬要上，～！  
+1. 【[缠事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin_shr.md#缠事)】`chin6 shr6-1` <sup>[如东]</sup> 纠缠：不要～。  
+1. 【[缠事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin_shr.md#缠事)】`chin6 shr6` <sup>[如皋]</sup> 胡涂不清：他会～，你同他说不清。  
+1. 【[缠事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin_shr.md#缠事)】`chin6 shr6` <sup>[东台]</sup> ① 胡搅蛮缠，也作“缠丝”。 ② 是责怪对方把事情弄错了的口头禅：你把张老师的东西送到啊章老师家，～！  
 1. 【[缠事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin_shr.md#缠事)】`chin6 shr6` <sup>[泰县]</sup> ① 惹事。 ② 说不清。  
 1. 【[抄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho.md#抄)】`cho1` <sup>[如东]</sup> 把东西从水中捞起来：你用海子把鱼～起来。  
 1. 【[抄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho.md#抄)】`cho1` <sup>[兴化]</sup> ① 两手交相插在袖筒里：～着手。 ② 将手掌弯成弧形舀水：～水漱口｜～点儿水喝喝。  

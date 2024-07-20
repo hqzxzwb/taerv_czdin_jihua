@@ -236,12 +236,11 @@
 1. 【[来神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_shen.md#来神)】`lae2 shen2` <sup>[兴化]</sup> 因受某种刺激而兴奋：正在为难，对过有人喊卖鸡。皮五辣子～了｜我去买鸡。（《皮五辣子》三）  
 1. 【[来手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_sheu.md#来手)】`lae2 sheu3` <sup>[兴化]</sup> ① 来人：东西交～带回。 ② 经手：“……北边一间空着，现在有人来租了，张媒婆的～”（《皮五辣子》一）  
 1. 【[来手人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_sheu_ren.md#来手人)】`lae2 sheu3 ren2` <sup>[兴化]</sup> 旧称“中介人”。  
-1. 【[来事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_shr.md#来事)】`lae2 shr1` <sup>[如东]</sup> 好，棒。  
-1. 【[来事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_shr.md#来事)】`lae2 shr1` <sup>[如皋]</sup> ① 满足：这顿饭～。 ② 可羡：真～！  
-1. 【[来事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_shr.md#来事)】`lae2 shr1` <sup>[如皋]</sup> 见“分门儿”。  
-1. 【[来事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_shr.md#来事)】`lae2 shr1` <sup>[东台]</sup> 好，能干，灵光。  
 1. 【[来时光拉巴，去时赤条条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_shr_guan_la_ba_qy_shr_cheh_tio_tio.md#来时光拉巴，去时赤条条)】`lae2 shr2 guan1 la1 ba1 qy5 shr2 cheh7 tio2 tio2` <sup>[东台]</sup> 劝人不要把名利地位等身外之物看得太重。  
 1. 【[来屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_shr.md#来屎)】`lae2 shr3` <sup>[兴化]</sup> 不自觉地将粪便拉在床上或衣服上。小孩又称“来㞎㞎”。  
+1. 【[来事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_shr.md#来事)】`lae2 shr6-1` <sup>[如东]</sup> 好，棒。  
+1. 【[来事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_shr.md#来事)】`lae2 shr6` <sup>[如皋]</sup> ① 满足：这顿饭～。 ② 可羡：真～！ ③ 另见“分门儿”。  
+1. 【[来事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_shr.md#来事)】`lae2 shr6` <sup>[东台]</sup> 好，能干，灵光。  
 1. 【[来事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_shr.md#来事)】`lae2 shr6` <sup>[兴化]</sup> 形容好、行：春兰空调真～。  
 1. 【[来事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_shr.md#来事)】`lae2 shr6` <sup>[泰县]</sup> 有本事：这人家～。  
 1. 【[来耍子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_shua_zz.md#来耍子)】`lae2 shua3 zz` <sup>[如皋]</sup> 礼貌语。临别约邀再来玩。  
@@ -1512,11 +1511,11 @@
 1. 【[㧕碌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_loh.md#㧕碌)】`lieu3 loh` <sup>[泰县]</sup> 儿童调皮。  
 1. 【[㧕麻花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_ma_hua.md#㧕麻花)】`lieu3 ma2 hua1` <sup>[兴化]</sup> ① 炒玉米花。 ② （喻）形容人声嘈杂：覅吵覅吵！倒像～！  
 1. 【[㧕起来算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_qi_lae_sun.md#㧕起来算)】`lieu3 qi3 lae2 sun5` <sup>[东台]</sup> 合在一起计算。  
-1. 【[㧕事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_shr.md#㧕事)】`lieu3 shr1` <sup>[如东]</sup> 作梗，捣乱。  
-1. 【[㧕事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_shr.md#㧕事)】`lieu3 shr1` <sup>[如皋]</sup> ① 小孩淘气、玩恶作剧。 ② 成年人干不正经的事：他在外头～，把个家总㧕啊穷吖。  
-1. 【[㧕事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_shr.md#㧕事)】`lieu3 shr1` <sup>[东台]</sup> 故意惹是生非。  
 1. 【[㧕屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_shr.md#㧕屎)】`lieu3 shr3` <sup>[泰县]</sup> 闹事：这人最会～。  
 1. 【[㧕屎缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_shr_gan.md#㧕屎缸)】`lieu3 shr3 gan1` <sup>[东台]</sup> ［喻］到处散布丑闻，把某人名声搞臭。  
+1. 【[㧕事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_shr.md#㧕事)】`lieu3 shr6-1` <sup>[如东]</sup> 作梗，捣乱。  
+1. 【[㧕事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_shr.md#㧕事)】`lieu3 shr6` <sup>[如皋]</sup> ① 小孩淘气、玩恶作剧。 ② 成年人干不正经的事：他在外头～，把个家总㧕啊穷吖。  
+1. 【[㧕事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_shr.md#㧕事)】`lieu3 shr6` <sup>[东台]</sup> 故意惹是生非。  
 1. 【[㧕污子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_v_zz.md#㧕污子)】`lieu3 v1 zz` <sup>[东台]</sup> 破坏、折腾：有人～，这件事拖到现在还不曾办。  
 1. 【[㧕线车<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_xin_cha_r.md#㧕线车<sub>儿</sub>)】`lieu3 xin5 cha1 r` <sup>[东台]</sup> ［喻］胡搅、挑事，闹纠纷。  
 1. 【[柳叶眉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_ih_mi.md#柳叶眉)】`lieu3 ih8 mi2` <sup>[如东]</sup> 眉毛细长，妤像柳叶一样，叫柳叶眉。  

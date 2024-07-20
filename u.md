@@ -133,7 +133,7 @@
 1. 【[活贼掱<sub>儿</sub>手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_ceh_pa_r_sheu.md#活贼掱<sub>儿</sub>手)】`uh8 ceh8 pa2 r sheu3` <sup>[如皋]</sup> 窃贼。  
 1. 【[活抽牵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_cheu_qin.md#活抽牵)】`uh8 cheu1 qin1` <sup>[东台]</sup> （詈语）也称“瞎抽牵”。同“抽牵”。  
 1. 【[活缠蛮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_chin_maen.md#活缠蛮)】`uh8 chin6 maen2` <sup>[东台]</sup> 同“活缠事”。  
-1. 【[活缠事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_chin_shr.md#活缠事)】`uh8 chin6 shr1` <sup>[东台]</sup> （詈语）同“缠事”。也称瞎缠事、蛮不讲理。  
+1. 【[活缠事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_chin_shr.md#活缠事)】`uh8 chin6 shr6` <sup>[东台]</sup> （詈语）同“缠事”。也称瞎缠事、蛮不讲理。  
 1. 【[活泛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_faen.md#活泛)】`uh8 faen5` <sup>[如皋]</sup> 灵活、灵便、宽裕：车子～；手里～；处世～。  
 1. 【[活泛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_faen.md#活泛)】`uh8 faen5` <sup>[东台]</sup> 动作敏捷、灵活，处事机灵。泛指经济宽裕：他手头～。  
 1. 【[活搞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_go.md#活搞)】`uh8 go3` <sup>[如皋]</sup> 胡搅蛮缠。  

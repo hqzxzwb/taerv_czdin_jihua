@@ -851,10 +851,10 @@
 1. 【[狗肏淡皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_reh_taen_pi.md#狗肏淡皮)】`geu3 reh8 taen6 pi2` <sup>[兴化]</sup> 原为国画技法“勾勒淡批”，讹变为市井语，意为无聊、没意思：有些胡编乱造的电视剧～，没得看头。  
 1. 【[狗肏淡屁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_reh_taen_pi.md#狗肏淡屁)】`geu3 reh8 taen6 pi5` <sup>[东台]</sup> 没有意义，不值一提。  
 1. 【[狗肉账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_roh_zhan.md#狗肉账)】`geu3 roh8 zhan5` <sup>[兴化]</sup> 指鸡零狗碎的日用账，也指随手记载的收支账目：他这本～旁人看不懂。  
-1. 【[狗事麻缠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_shr_ma_chin.md#狗事麻缠)】`geu3 shr1 ma2 chin6` <sup>[东台]</sup> （詈语）本应回避或远离某人或某物，却去亲近或撩逗引起麻烦：不要同醉汉～的。  
 1. 【[狗屎烂臭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_shr_laen_cheu.md#狗屎烂臭)】`geu3 shr3 laen6 cheu5` <sup>[东台]</sup> ［喻］令人不齿的人和事。  
 1. 【[狗屎螺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_shr_lu_r.md#狗屎螺<sub>儿</sub>)】`geu3 shr3 lu1 r` 蜗牛  
 1. 【[狗屎麻塘的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_shr_ma_tan_dii.md#狗屎麻塘的)】`geu3 shr3 ma2 tan2 dii` <sup>[如皋]</sup> ① 胡扯蛮缠：你跟他谈话，他同你～，没处弄！ ② 事情办糟、办砸、不道地：事情办得～。  
+1. 【[狗事麻缠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_shr_ma_chin.md#狗事麻缠)】`geu3 shr6 ma2 chin6` <sup>[东台]</sup> （詈语）本应回避或远离某人或某物，却去亲近或撩逗引起麻烦：不要同醉汉～的。  
 1. 【[狗头狗脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_teu_geu_no.md#狗头狗脑)】`geu3 teu2 geu3 no3` <sup>[兴化]</sup> 形容小男孩健壮、活泼：你家小孙子～的，好玩㗁。  
 1. 【[狗头狗脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_teu_geu_no.md#狗头狗脑)】`geu3 teu2 geu3 no3` <sup>[泰县]</sup> 健康、结实：这伢儿～，个个欢喜。  
 1. 【[狗头帽<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_teu_mo_r.md#狗头帽<sub>儿</sub>)】`geu3 teu2 mo6 r` <sup>[如皋]</sup> 传统的幼儿风帽。玄色，有狗耳、眼和尾，加玉、银饰。可覆头颈，只露眼鼻。  

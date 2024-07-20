@@ -1674,7 +1674,7 @@
 1. 【[撬啊别的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_a_bih_dii.md#撬啊别的)】`qio1 a bih7 dii` <sup>[东台]</sup> 指不顺从，闹别扭：现在家里蛮和谐的，没得～现象吖。  
 1. 【[撬口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_keu.md#撬口)】`qio1 keu3` <sup>[如东]</sup> 不顺口，不顺趟：这句话说起来很～  
 1. 【[撬门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_men.md#撬门)】`qio1 men2` <sup>[如东]</sup> 用棍子的一头插进门板下部，把门撬开。  
-1. 【[撬事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_shr.md#撬事)】`qio1 shr1` <sup>[东台]</sup> 有意制造矛盾，使事情很难开展。也叫“撬扬”。  
+1. 【[撬事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_shr.md#撬事)】`qio1 shr6` <sup>[东台]</sup> 有意制造矛盾，使事情很难开展。也叫“撬扬”。  
 1. 【[楸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#楸)】`qio1` <sup>[如东]</sup> 帆船上挂在船体两侧的长方形木板，像蒲锹一样。航行时能起稳定船体的作用。  
 1. 【[楸门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_men.md#楸门)】`qio1 men2` <sup>[如东]</sup> 帆船两侧收放船楸的门。  
 1. 【[缲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#缲)】`qio1` <sup>[如东]</sup> 一种缝纫方法。做衣服或鞋子时，把布边儿往里卷，藏着针脚缝。  
@@ -1779,8 +1779,7 @@
 1. 【[俏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#俏)】`qio5` <sup>[兴化]</sup> ① 炒菜时加上配头：炒虾仁～点儿豆芽菜。 ② 配菜：～头｜炒腰花弄点儿洋葱做～头。  
 1. 【[俏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#俏)】`qio5` <sup>[兴化]</sup> 天气由阴雨转晴：阴吖十几天，下午西北风一刮，天～起来啊。  
 1. 【[俏波波](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_bu_bu.md#俏波波)】`qio5 bu1 bu1` <sup>[东台]</sup> 形容漂亮精巧的样子。  
-1. 【[俏市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_shr.md#俏市)】`qio5 shr6` <sup>[如皋]</sup> 见“燥市”。  
-1. 【[俏市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_shr.md#俏市)】`qio5 shr6` <sup>[如皋]</sup> 畅销，价格上扬。  
+1. 【[俏市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_shr.md#俏市)】`qio5 shr6` <sup>[如皋]</sup> 畅销，价格上扬。另见“燥市”。  
 1. 【[俏头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_teu.md#俏头)】`qio5 teu` <sup>[东台]</sup> 烹调时为了优化菜肴的色、香、味、形而加的佐料。  
 1. 【[帩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#帩)】`qio5` <sup>[兴化]</sup> 在捆扎东西的绳圈中插入短棒，旋转绞紧。《广韵·笑韵》七肖切：“～，～缚”。  
 1. 【[撬子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_zz.md#撬子)】`qio5 zz` <sup>[如东]</sup> 一种农具。木制，条形，长一尺，一头尖，一头平，尖的一头钻一个孔，用一尺多长的麻绳穿连起来，夹住稻秸摔打脱粒。  

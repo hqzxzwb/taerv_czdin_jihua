@@ -1528,8 +1528,8 @@
 1. 【[引猫吊狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_mo_dio_geu.md#引猫吊狗)】`ien3 mo2 dio5 geu3` <sup>[兴化]</sup> （喻）引逗人去干不好的事：他饭一吃就来～的，喊人上赌场。  
 1. 【[引桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_qio.md#引桥)】`ien3 qio2` <sup>[如东]</sup> ① 从公路到趸船的桥梁，叫引桥。 ② 两幢房屋之间的桥梁，叫引桥。  
 1. 【[引蛇出洞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_sha_chueh_ton.md#引蛇出洞)】`ien3 sha2 chueh7 ton6` <sup>[东台]</sup> ［喻］运用计谋诱使坏人进行活动，使之暴露。  
-1. 【[引事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_shr.md#引事)】`ien3 shr1` <sup>[如皋]</sup> 引起对方的某些欲望：你不要～，伢儿闹起来没处弄。  
 1. 【[引示](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_shr.md#引示)】`ien3 shr5` 炫耀，以激发别人的嫉妒心理。  
+1. 【[引事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_shr.md#引事)】`ien3 shr6` <sup>[如皋]</sup> 引起对方的某些欲望：你不要～，伢儿闹起来没处弄。  
 1. 【[引事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_shr.md#引事)】`ien3 shr6` <sup>[东台]</sup> 由某事引起麻烦。  
 1. 【[引线](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_xin.md#引线)】`ien3 xin5` <sup>[如皋]</sup> 乡村间称缝衣针。  
 1. 【[引线](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_xin.md#引线)】`ien3 xin5` <sup>[如皋]</sup> 缝衣针。  
