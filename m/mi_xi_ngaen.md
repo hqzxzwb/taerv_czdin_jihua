@@ -1,4 +1,4 @@
 # 眯稀眼
-mi2 xi1 ngaen3
+mi2 xi ngaen3
 > 兴化方言词典
 - 近视眼、小眼。
