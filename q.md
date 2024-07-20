@@ -1784,6 +1784,7 @@
 1. 【[俏头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_teu.md#俏头)】`qio5 teu` <sup>[东台]</sup> 烹调时为了优化菜肴的色、香、味、形而加的佐料。  
 1. 【[帩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#帩)】`qio5` <sup>[兴化]</sup> 在捆扎东西的绳圈中插入短棒，旋转绞紧。《广韵·笑韵》七肖切：“～，～缚”。  
 1. 【[撬子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_zz.md#撬子)】`qio5 zz` <sup>[如东]</sup> 一种农具。木制，条形，长一尺，一头尖，一头平，尖的一头钻一个孔，用一尺多长的麻绳穿连起来，夹住稻秸摔打脱粒。  
+1. 【[窍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#窍)】`qio5` <sup>[如皋]</sup> 肛门：你不要没～，做绝事要促阳寿的。  
 1. 【[翘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#翘)】`qio5` <sup>[如东]</sup> 杆或板一头高起来了：木板那头～起来啊。近代白话作“趬”。  
 1. 【[翘/趬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#翘/趬)】`qio5` <sup>[如皋]</sup> 贬指死：他～掉啊。  
 1. 【[翘顶搭<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_dien_daeh_r.md#翘顶搭<sub>儿</sub>)】`qio5 dien3 daeh7 r` <sup>[如东]</sup> 人躺着，顶搭儿直直地竖着，说明人已死了  
@@ -1802,7 +1803,6 @@
 1. 【[翘翅麻鸭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_zhr_ma_ngaeh.md#翘翅麻鸭)】`qio5 zhr5 ma2 ngaeh7` <sup>[如东]</sup> 鸭科动物麻鸭，体长约60厘米。嘴形奇异，前端弯曲，嘴甲狭小。雄鸟嘴基有一冠状赤包突起。头顶上额黑色，闪绿光；下额及上胸纯白，形成环状。嘴由紫色过渡到血红色。腿和脚血红。行动似雁，常单个活动。以草籽和软体动物为主食。  
 1. 【[翘翅<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_zhr_r.md#翘翅<sub>儿</sub>)】`qio5 zhr5 r` <sup>[如皋]</sup> 羽毛未全，却有几根大羽翘在背上的小雄鸡。  
 1. 【[翘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_zz.md#翘子)】`qio5 zz` <sup>[如皋]</sup> 旧时掼小麦、水稻（脱粒）用以捆住草秸的用具。一根绳，两端有木签。  
-1. 【[躈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#躈)】`qio5` <sup>[如皋]</sup> 肛门：你不要没～，做绝事要促阳寿的。  
 1. 【[𥀣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#𥀣)】`qio5` <sup>[如皋]</sup> 粘物不熨贴曰～起。  
 1. 【[𥀣皮<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_pi_r.md#𥀣皮<sub>儿</sub>)】`qio5 pi2 r` <sup>[如皋]</sup> 皮层有小片脱落，先有～。  
 1. 【[轿班](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_baen.md#轿班)】`qio6 baen1` <sup>[如皋]</sup> 抬轿子的一班人。  

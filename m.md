@@ -122,7 +122,6 @@
 1. 【[麻木笋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_moh_xyen.md#麻木笋)】`ma2 moh8-7 xyen3` <sup>[东台]</sup> 与“麻木虫”近义，“笋”有嫩，少不经事之义。  
 1. 【[麻目](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_moh.md#麻目)】`ma2 moh8` <sup>[如皋]</sup> 主观随意地蛮干，不顾后果，常致吃亏。  
 1. 【[麻目神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_moh_shen.md#麻目神)】`ma2 moh8 shen2` <sup>[如皋]</sup> 无知且狂妄者。  
-1. 【[麻难头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_nae_teu.md#麻难头)】`ma2 nae2 teu` <sup>[泰县]</sup> 难题。  
 1. 【[麻难头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_naen_teu.md#麻难头)】`ma2 naen2 teu2` <sup>[泰县]</sup> 难题、麻烦事：他最近又惹啊不少～。  
 1. 【[麻鸭<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ngaeh_r.md#麻鸭<sub>儿</sub>)】`ma2 ngaeh7 r` <sup>[如东]</sup> 野鸭的一种。体型较小，灰褐色，翅和背部有月牙形的白斑。  
 1. 【[麻气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_qi.md#麻气)】`ma2 qi5` <sup>[兴化]</sup> 形容说话不知轻重，生活过分讲究的脾性：这个小伙真～，一个月收入三百块，抽十元一包的烟还嫌丑唻！  
@@ -624,7 +623,7 @@
 1. 【[没（得）皮血](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_pi_xiuh.md#没（得）皮血)】`meh8 pi2 xiuh7` <sup>[如皋]</sup> 没有血性，羞耻心弱：他～，捱人家骂得那样子，还是同人家媚啊媚的。  
 1. 【[没（得）屁放](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_pi_fan.md#没（得）屁放)】`meh8 pi5 fan5` <sup>[如皋]</sup> ① 夸好，无可挑剔。 ② 责不适时的插话：你～找话说。  
 1. 【[没（得）气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_qi.md#没（得）气)】`meh8 qi5` <sup>[如皋]</sup> 不生气，气恼消除。  
-1. 【[没（得）躈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_qio.md#没（得）躈)】`meh8 qio5` <sup>[如皋]</sup> 詈或昵语，又称没屁眼，指做刁钻害人之事：这小伙专做～的事！你不要～，你要受报应的！  
+1. 【[没（得）窍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_qio.md#没（得）窍)】`meh8 qio5` <sup>[如皋]</sup> 詈或昵语，又称没屁眼，指做刁钻害人之事：这小伙专做～的事！｜你不要～，你要受报应的！  
 1. 【[没（得）日子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_rih_zz.md#没（得）日子)】`meh8 rih8 zz` <sup>[如皋]</sup> 时间紧迫，没有回旋的日子。  
 1. 【[没（得）赦数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_sha_shv.md#没（得）赦数)】`meh8 sha5 shv5` <sup>[如皋]</sup> 放任，无限制。  
 1. 【[没（得）手抓痒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_sheu_zhua_ian.md#没（得）手抓痒)】`meh8 sheu3 zhua1 ian3` <sup>[如皋]</sup> 忙乱，难以应付复杂局面。  
@@ -670,7 +669,7 @@
 1. 【[没得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_deh.md#没得)】`meh8 deh7` <sup>[泰县]</sup> 没有。  
 1. 【[没得二成账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_deh_er_chen_zhan.md#没得二成账)】`meh8 deh7 er6 chen2 zhan5` <sup>[如皋]</sup> 可信、成功的程度极低：批准这份报告～。  
 1. 【[没得个安事墩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_deh_gu_un_shr_den_r.md#没得个安事墩<sub>儿</sub>)】`meh8 deh7 gu un1 shr6 den1 r` <sup>[东台]</sup> 一直东奔西忙，没有安逸的时辰。  
-1. 【[没得爷娘教导](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_deh_ia_nian_jio_to.md#没得爷娘教导)】`meh8 deh7 ia2 nian2 jio5 to3` <sup>[东台]</sup> 骂人素质差，缺乏父母亲教养。  
+1. 【[没得爷娘教导](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_deh_ia_nian_jio_to.md#没得爷娘教导)】`meh8 deh7 ia2 nian2 jio5 to6` <sup>[东台]</sup> 骂人素质差，缺乏父母亲教养。  
 1. 【[没得油水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_deh_ieu_shuei.md#没得油水)】`meh8 deh7 ieu2 shuei3` <sup>[如皋]</sup> 见“没（得）捞摸”。  
 1. 【[没得裤腰带子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_deh_kv_io_dae_zz.md#没得裤腰带子)】`meh8 deh7 kv5 io1 dae5 zz` <sup>[东台]</sup> 形容某女人作风轻浮。  
 1. 【[没得命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_deh_mien.md#没得命)】`meh8 deh7 mien6` <sup>[东台]</sup> ① 表示非常惊讶：～，这个多漂亮！｜～，惹大祸啦！ ② （作补语）指到了极点：心里难过啊～｜他快活咖～。  
@@ -1093,7 +1092,7 @@
 1. 【[眉头眼睛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_teu_ngaen_jien.md#眉头眼睛)】`mi2 teu ngaen3 jien` <sup>[兴化]</sup> 头绪：他的事还不曾有～哎，先覅乱吹。  
 1. 【[眉头眼目](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_teu_ngaen_moh.md#眉头眼目)】`mi2 teu2 ngaen3 moh8` <sup>[东台]</sup> 见机行事的能力。（同“眼头见识”）  
 1. 【[眯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#眯)】`mi2` <sup>[如皋]</sup> ① 目半闭：眼睛～啊下。 ② 和蔼微笑：笑～～。  
-1. 【[眯稀眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_xi_ngaen.md#眯稀眼)】`mi2 xi1 ngaen3` <sup>[兴化]</sup> 近视眼、小眼。  
+1. 【[眯稀眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_xi_ngaen.md#眯稀眼)】`mi2 xi ngaen3` <sup>[兴化]</sup> 近视眼、小眼。  
 1. 【[糜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#糜)】`mi2` <sup>[泰县]</sup> 煮烂：把肉放吖锅里多～～。  
 1. 【[迷魂药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_huen_iah.md#迷魂药)】`mi2 huen2 iah8` <sup>[兴化]</sup> 见“迷魂汤”。  
 1. 【[迷魂汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_huen_tan.md#迷魂汤)】`mi2 huen2 tan1` <sup>[如东]</sup> ① 迷信者认为，人死后，灵魂走到难河桥上，王妈妈给他喝一碗汤，把魂灵迷住了，忘记了人间的一切。这种汤叫做迷魂汤。 ② 比喻酒：他又喝咖～。 ③ 比喻迷惑人的花言巧语：他捱～灌糊涂啊。  

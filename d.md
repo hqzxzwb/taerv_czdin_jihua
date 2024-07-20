@@ -1394,8 +1394,8 @@
 1. 【[耷子和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_zz_hv.md#耷子和)】`dah7 zz hv2` <sup>[如东]</sup> 一种智力博戏，产生在清朝中叶之后。以纸牌为工具，分万儿、饼儿、条儿、大将和星儿五种，共125张。入局四人，三人打牌，每人22张，凑成六搭即为成和。胜负以和数多少为依据。最高和数达1 1200和。这是群众博戏活动的方式之一，流行在苏北地区。  
 1. 【[𠹥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah.md#𠹥)】`dah7` 闲聊：～淡话  
 1. 【[𠹥𠹥<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_dah_r.md#𠹥𠹥<sub>儿</sub>)】`dah7 dah7 r` <sup>[如皋]</sup> 常滞留者：他是个～，你有功夫陪他，能喷个半大天。  
-1. 【[𠹥呱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_gua.md#𠹥呱)】`dah7 gua3` <sup>[东台]</sup> 没有正式议题，闲扯。  
-1. 【[𠹥呱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_gua.md#𠹥呱)】`dah7 gua3` <sup>[兴化]</sup> 闲聊、拉家常：几个老太婆坐啊在门口～。也作“𠹥淡话”。  
+1. 【[𠹥寡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_gua.md#𠹥寡)】`dah7 gua3` <sup>[东台]</sup> 没有正式议题，闲扯。  
+1. 【[𠹥寡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_gua.md#𠹥寡)】`dah7 gua3` <sup>[兴化]</sup> 闲聊、拉家常：几个老太婆坐啊在门口～。也作“𠹥淡话”。  
 1. 【[𠹥㗘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_pah.md#𠹥㗘)】`dah7 pah7` <sup>[如皋]</sup> 漫无边际的吹牛说大话。  
 1. 【[𠹥㗘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_pah.md#𠹥㗘)】`dah7 pah7` <sup>[东台]</sup> 同“𠹥呱”。语言较粗。  
 1. 【[𠹥㗘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_pah.md#𠹥㗘)】`dah7 pah7` <sup>[兴化]</sup> 闲聊：几个人没事晒太阳～。  

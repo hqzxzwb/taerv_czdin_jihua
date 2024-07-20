@@ -228,7 +228,6 @@
 1. 【[雅趣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_qy.md#雅趣)】`ia2 qy` <sup>[兴化]</sup> 娇气：你真～，一点儿苦不能吃。  
 1. 【[雅序](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_xy.md#雅序)】`ia2 xy` <sup>[东台]</sup> ① （褒）清爽、整洁、高雅。 ② （贬）过分讲究衣着、起居，难伺候。（这里“雅”读阳平）  
 1. 【[也](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia.md#也)】`ia3` <sup>[东台]</sup> 副词“也（a3）”的又音。  
-1. 【[也许](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_xy.md#也许)】`ia3 xy3` <sup>[东台]</sup> 说不定的意思。与“可能”“大概”近义。  
 1. 【[痒□<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_xia_r.md#痒□<sub>儿</sub>)】`ia3 xia r` <sup>[如皋]</sup> 痒丝丝而有难奈的感觉。  
 1. 【[野](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia.md#野)】`ia3` <sup>[如皋]</sup> ① 偏题：他说咖～掉啊，不曾对到题目。 ② 疏远、不融洽：两个人的关系越处越～。  
 1. 【[野](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia.md#野)】`ia3` <sup>[如东]</sup> ① 不驯服：这头牛～。 ② 规定的圆口拉宽了或变形了：衣领子拉～啊。  
@@ -1716,7 +1715,7 @@
 1. 【[油条泡汤——软吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_tio_po_tan_run_nga.md#油条泡汤——软吖)】`ieu2 tio2 po1 tan1 run3 nga` <sup>[东台]</sup>   
 1. 【[油桃树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_to_shv.md#油桃树)】`ieu2 to2 shv6` <sup>[如东]</sup> 落叶小乔木，小枝红褐色或褐绿色，无毛。叶椭圆状披针形，叶片锯齿较尖锐。果实成熟时光滑无毛，形较小。这种植物的果实叫油桃。  
 1. 【[油桐鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_ton_y.md#油桐鱼)】`ieu2 ton2 y2` <sup>[如东]</sup> 鲭鱼，青花鱼。体纺锤形，鳞细，背青色，腹白色，体侧上部具深蓝色波状条纹。第二背鳍和尾鳍后方各具五个小鳍。尾鳍叉形。可食。  
-1. 【[油𤹡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_zha_r.md#油𤹡<sub>儿</sub>)】`ieu2 zha1 r` <sup>[如皋]</sup> 猪板（网）油熬剩的巴儿。  
+1. 【[油渣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_zha_r.md#油渣<sub>儿</sub>)】`ieu2 zha1 r` <sup>[如皋]</sup> 猪板（网）油熬剩的巴儿。  
 1. 【[油榨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_zha.md#油榨)】`ieu2 zha5` <sup>[如东]</sup> 榨油工具。两根粗木，构成长方形框架，里面放置油箍，通过加刹把油榨出来。  
 1. 【[油纸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_zhr_r.md#油纸<sub>儿</sub>)】`ieu2 zhr3 r` <sup>[东台]</sup> 塑料薄膜的俗称。  
 1. 【[游肠气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_chan_qi.md#游肠气)】`ieu2 chan2 qi5` <sup>[如皋]</sup> 疝气。  

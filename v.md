@@ -799,7 +799,7 @@
 1. 【[王三骑驴子，𧽌过啊头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_saen_qi_ly_zz_huaeh_gu_a_teu.md#王三骑驴子，𧽌过啊头)】`van2 saen1 qi2 ly2 zz huaeh7 gu1 a teu2` <sup>[东台]</sup> ［喻］（俗语）指事情做得过分了。  
 1. 【[王五王六](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_v_van_loh.md#王五王六)】`van2 v3 van2 loh8` <sup>[兴化]</sup> （借）社会上不三不四的人。谚曰：～，吃鱼吃肉｜皈皈真真，饿得狗哼。  
 1. 【[王子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_zz.md#王子)】`van2 zz` <sup>[如皋]</sup> 丧俗中，给死者供倒头饭时，于左首设一只筷、一只酒盅，盛点半熟的米饭同时供～。  
-1. 【[艎板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_baen.md#艎板)】`van2 baen3` <sup>[东台]</sup> 渔船舱口的盖板：取到鱼～都会说话（有了成绩，即使无关人员也能总结出经验）。  
+1. 【[艎板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_baen.md#艎板)】`van2 baen3` <sup>[东台]</sup> 渔船舱口的盖板：取到鱼，～都会说话（有了成绩，即使无关人员也能总结出经验）。  
 1. 【[黄菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_cae.md#黄菜)】`van2 cae5` <sup>[如皋]</sup> 胡萝卜英子烫熟做的菜。荒年可以度命，谚云：“一缸～一缸粮”。  
 1. 【[黄䱗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_caen.md#黄䱗)】`van2 caen1` <sup>[如皋]</sup> 黄鲦。  
 1. 【[黄大头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_da_teu.md#黄大头)】`van2 da6 teu2` <sup>[如皋]</sup> 番芋的一个品种。  

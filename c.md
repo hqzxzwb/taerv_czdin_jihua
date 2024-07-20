@@ -467,8 +467,8 @@
 1. 【[扯得恶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_deh_ngah.md#扯得恶)】`cha3 deh7 ngah7` <sup>[如皋]</sup> 见“扯得凶”。  
 1. 【[扯得凶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_deh_xion.md#扯得凶)】`cha3 deh7 xion1` <sup>[如皋]</sup> 胡扯，东拉两扯：她家～哎，向我借啊把雨伞不曾还，又借啊把乡下的二哥，二哥又借啊把他家女婿，总不晓得这把伞扯啊哪许去啊。  
 1. 【[扯风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_fon.md#扯风)】`cha3 fon1` <sup>[泰兴]</sup> 承接风，承接气流：箇个落头扯到风，不热  
-1. 【[扯呱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_gua.md#扯呱)】`cha3 gua3` <sup>[如东]</sup> 说闲话：我俫在下～。  
-1. 【[扯呱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_gua.md#扯呱)】`cha3 gua3` <sup>[如皋]</sup> ① 随意、随便地跟人漫淡。 ② 插话。  
+1. 【[扯寡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_gua.md#扯寡)】`cha3 gua3` <sup>[如东]</sup> 说闲话：我俫在下～。  
+1. 【[扯寡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_gua.md#扯寡)】`cha3 gua3` <sup>[如皋]</sup> ① 随意、随便地跟人漫淡。 ② 插话。  
 1. 【[扯下脸来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ha_lin_lae.md#扯下脸来)】`cha3 ha lin3 lae` <sup>[如皋]</sup> 不作掩饰，不讲情面。  
 1. 【[扯下来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ha_lae.md#扯下来)】`cha3 ha6 lae` <sup>[东台]</sup> 平均算起来：这个店每月纯收入～也有五千多。  
 1. 【[扯野鸽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ia_guh_zz.md#扯野鸽子)】`cha3 ia3 guh7 zz` <sup>[兴化]</sup> 闲聊：老姐妹没事在家里～。也说“扯野儿”。  

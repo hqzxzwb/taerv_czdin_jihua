@@ -78,8 +78,6 @@
 1. 【[阿弥陀佛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_mi_tu_feh.md#阿弥陀佛)】`u1 mi tu2 feh8` <sup>[如皋]</sup> 幸灾乐祸。  
 1. 【[阿弥陀佛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_mi_tu_feh.md#阿弥陀佛)】`u1 mi2 tu2 feh8` <sup>[如东]</sup> ① 大乘佛教的教名。是“西方极乐世界”的教主，为净士宗主要信仰对象。也译作无量寿佛或无量光佛。后世所谓念佛，多指念阿弥陀佛名号。信佛的人口头诵念佛号，表示祈祷或感谢神灵的意思。 ② 比喻善良忠厚的人。泛指老好人：他是一个～。 ③ 表示兴灾乐祸：～！到底出咖事。  
 1. 【[唩啰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_lu.md#唩啰)】`u2 lu2` <sup>[如皋]</sup> 唤犬声。  
-1. 【[讹错](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_cu.md#讹错)】`u2 cu5` <sup>[如东]</sup> 相差：～多。  
-1. 【[讹诈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_zha.md#讹诈)】`u2 zha5` <sup>[如东]</sup> 假借某种理由向人强行索取财物。威胁恫吓。  
 1. 【[涴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u.md#涴)】`u5` <sup>[如皋]</sup> 作～：指大小便失禁，到处弄脏。  
 1. 【[涴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u.md#涴)】`u5` <sup>[兴化]</sup> ① 污渍：衣裳上有两片～斑，洗来洗去也洗不干净。 ② 被污损的东西：～卷。 ③ 漫漶：墨水～开来啊。  
 1. 【[涴不清](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_beh_qien.md#涴不清)】`u5 beh qien1` <sup>[泰县]</sup> 搞不清楚不清：他～，你把事情的经过由头至尾说一下。  

@@ -2050,6 +2050,7 @@
 1. 【[玄虚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun_xy.md#玄虚)】`xiun2 xy1` <sup>[东台]</sup> 用使人迷惑的形式来掩盖事实真相：故弄～。  
 1. 【[选吖好日没好天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun_nga_ho_rih_meh_ho_tin.md#选吖好日没好天)】`xiun3 nga ho3 rih8 meh8 ho3 tin1` <sup>[如皋]</sup>   
 1. 【[选种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun_zhon.md#选种)】`xiun3 zhon3` <sup>[东台]</sup> 选择动植物的优良品种，加以繁殖。  
+1. 【[选种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun_zhon.md#选种)】`xiun3 zhon3` <sup>[如东]</sup> 选择优良品种。  
 1. 【[暄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun.md#暄)】`xiun5` <sup>[东台]</sup> 馒头、糕饼虚松爽口。  
 1. 【[楦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun.md#楦)】`xiun5` <sup>[兴化]</sup> ① 用东西填塞或撑大物体中空部分：～鞋子｜人是屋～子。 ② 肿胀：左右开弓几个嘴巴，把脸打得～起来。 ③ 绕着弯儿向人索取：～吖吃｜～吖玩。  
 1. 【[楦<sub>儿</sub>派<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun_r_pae_r.md#楦<sub>儿</sub>派<sub>儿</sub>)】`xiun5 r pae5 r` <sup>[兴化]</sup> 绕着弯儿向人要吃要喝或索取线物：他看中你的东西，～的弄到手才安逸。  

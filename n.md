@@ -106,7 +106,6 @@
 1. 【[那摩文](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_mu_ven.md#那摩文)】`na5 mu ven2` <sup>[东台]</sup> number one的变音。原指工头，现多指头一个、第一名：谈到唱歌，他竖起大拇指说，小王在全班是～！  
 1. 【[奶子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_zz.md#奶子)】`nae1 zz` <sup>[如东]</sup> 乳房。  
 1. 【[褦襶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_dae.md#褦襶)】`nae1 dae` <sup>[兴化]</sup> ① 粗笨、不利索：出门旅游，他带上多少吃的、穿的、用的，路都走不动，真～。 ② 不晓事、不合时宜：几个人当中就数他～，开口就捱人家叉住。｜晋，程晓《嘲热客》｜“闭门避署卧，出入不相过，只今～子，触热到人家。”《吴下方言考》｜“～，不解事而笨也，吴谚呼笨人为～。”  
-1. 【[难为情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_vei_qien.md#难为情)】`nae2 vei2 qien2` <sup>[如皋]</sup> 害羞。  
 1. 【[奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae.md#奶)】`nae3` <sup>[如东]</sup> 母亲的乳汁。也说nae1。  
 1. 【[奶膊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_bah_zz.md#奶膊子)】`nae3 bah7 zz` <sup>[兴化]</sup> 从乳房到腋窝部分：这件衫子太露，～撂出来一大半。  
 1. 【[奶帮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_ban_zz.md#奶帮子)】`nae3 ban1 zz` <sup>[如皋]</sup> 乳房基部。  
@@ -209,6 +208,7 @@
 1. 【[难玩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naen_vaen.md#难玩)】`naen2 vaen2` <sup>[兴化]</sup> 指人不易相处，不好对付：同他共事你要小心，这个人～！｜她家公公人不丑，就是婆婆～。  
 1. 【[难为](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naen_vei.md#难为)】`naen2 vei2` <sup>[东台]</sup> （客套话）表示麻烦对方：你大老远帮吖把这吖躴躿的东西送过来，真～你呢！  
 1. 【[难为情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naen_vei_qien.md#难为情)】`naen2 vei2 qien2` <sup>[如东]</sup> 害羞：花花看到李明过来，有些～。  
+1. 【[难为情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naen_vei_qien.md#难为情)】`naen2 vei2 qien2` <sup>[如皋]</sup> 害羞。  
 1. 【[难相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naen_xian.md#难相)】`naen2 xian5` 难看，不好看，丑陋。  
 1. 【[难相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naen_xian.md#难相)】`naen2 xian5` <sup>[如东]</sup> 难看：这种样子～哎。  
 1. 【[难](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naen.md#难)】`naen6` <sup>[如皋]</sup> 强制、压制的教育手段：～性子、把个急脾家～下来啊。  
@@ -1373,6 +1373,7 @@
 1. 【[讹错](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_cu.md#讹错)】`ngu2 cu` <sup>[如皋]</sup> 相差：学与不学～得多唻。  
 1. 【[讹错](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_cu.md#讹错)】`ngu2 cu` <sup>[泰县]</sup> 相差：他～3分就够到分数线。  
 1. 【[讹错](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_cu.md#讹错)】`ngu2 cu5` <sup>[兴化]</sup> 相差：……这块布还不长不短，三个洞正也露出眼睛和嘴，丝毫都不～。（《武松》六）｜“大的小的～四文，买大的合算些，我就买大的。”（《皮五辣子》三）‖也作“讹舛”。  
+1. 【[讹错](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_cu.md#讹错)】`ngu2 cu5` <sup>[如东]</sup> 相差：～多。  
 1. 【[讹错野啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_cu_ia_a.md#讹错野啊)】`ngu2 cu5 ia3 a` <sup>[东台]</sup> 差距太大：两人原来基础差不多，但这几年刻苦程度不同，现在水平～。  
 1. 【[讹错驴大个芝麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_cu_ly_da_gu_zhr_ma.md#讹错驴大个芝麻)】`ngu2 cu5 ly2 da6 gu zhr1 ma2` <sup>[东台]</sup> 相差太大的意思：他的话不实，审核下来简直～！  
 1. 【[讹话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_hua.md#讹话)】`ngu2 hua6` <sup>[如皋]</sup> 讹诈的话。  
@@ -1383,6 +1384,7 @@
 1. 【[讹钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_qin.md#讹钱)】`ngu2 qin2` <sup>[如皋]</sup> 讹诈现钱。  
 1. 【[讹些<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_xih_r.md#讹些<sub>儿</sub>)】`ngu2 xih7 r` <sup>[东台]</sup> 相差一点点。  
 1. 【[讹些险<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_xih_xin_r.md#讹些险<sub>儿</sub>)】`ngu2 xih7 xin3 r` <sup>[东台]</sup> 很危险，差一点点就出事故：地震时，我刚出门，房子就倒啊，～，可怕！  
+1. 【[讹诈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_zha.md#讹诈)】`ngu2 zha5` <sup>[如东]</sup> 假借某种理由向人强行索取财物。威胁恫吓。  
 1. 【[讹账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_zhan.md#讹账)】`ngu2 zhan5` <sup>[如皋]</sup> 错账。  
 1. 【[鹅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu.md#鹅)】`ngu2` <sup>[如东]</sup> 鸭科动物鹅，体长约60厘米。嘴扁圆，前额有肉瘤，雄者膨大，黄色或黑褐色。颈长。体躯宽壮，龙骨长，胸部丰满。尾短，羽毛白色或灰色。脚大有蹼，黄色或黑褐色，能游水。饲养家禽。吃谷物、蔬菜、鱼虾等。  
 1. 【[鹅不食草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_beh_sheh_co.md#鹅不食草)】`ngu2 beh7 sheh8 co3` <sup>[如东]</sup> 石竹科植物蚤缀，又名小无心菜，一年生或二年生草本。高约30厘米。茎多数簇生，稍铺散，密生白色短毛。叶对生，卵形。聚伞花序。花白色。蒴果。种子肾形，褐色。生长在稻田或阴湿处、路边。  

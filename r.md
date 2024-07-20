@@ -640,7 +640,7 @@
 1. 【[肉案子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_un_zz.md#肉案子)】`roh8 un5 zz` <sup>[泰县]</sup> 肉店。  
 1. 【[肉屑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_xiuh_zz.md#肉屑子)】`roh8 xiuh7 zz` <sup>[如皋]</sup> ① 很细碎的肉。 ② 喻细小的但很珍贵的东西。  
 1. 【[肉迂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_y.md#肉迂)】`roh8 y1` <sup>[东台]</sup> 说话笨拙、迂腐：他问人家哿请他吃饭，真～！  
-1. 【[肉𤹡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_zha_r.md#肉𤹡<sub>儿</sub>)】`roh8 zha1 r` <sup>[如皋]</sup> 猪肉、猪板油、脏油熬油后的痂状物。家中熬的可食，工业产的作饲料。  
+1. 【[肉渣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_zha_r.md#肉渣<sub>儿</sub>)】`roh8 zha1 r` <sup>[如皋]</sup> 猪肉、猪板油、脏油熬油后的痂状物。家中熬的可食，工业产的作饲料。  
 1. 【[肉只举](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_zheh_jy.md#肉只举)】`roh8 zheh7 jy3` <sup>[如皋]</sup> 见“肉举动”。  
 1. 【[肉中刺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_zhon_cz.md#肉中刺)】`roh8 zhon1 cz5` <sup>[如东]</sup> 比喻最痛恨而急于除掉的东西。  
 1. 【[肉倬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_zhuah.md#肉倬)】`roh8 zhuah7` <sup>[东台]</sup> 同“肉满满的”。  

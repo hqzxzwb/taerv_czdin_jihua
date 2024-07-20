@@ -700,7 +700,7 @@
 1. 【[平扯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_cha.md#平扯)】`pien2 cha3` <sup>[如皋]</sup> 通扯。  
 1. 【[平扯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_cha.md#平扯)】`pien2 cha3` <sup>[如东]</sup> 平均分配：大家～。  
 1. 【[平常](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_chan.md#平常)】`pien2 chan2` <sup>[如东]</sup> 普通，不突出。平时：～就是这吖。  
-1. 【[平常无事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_chan_v_shr.md#平常无事)】`pien2 chan2 v3 shr6` <sup>[兴化]</sup> 平时、在一般情况下：～他连脚影也不来显下子，一旦有事成天盯吖你。｜“……这都是～的话。万一要有甚么伤风外感，那不更费手脚么……”（《二十年目睹之怪现状》七十）  
+1. 【[平常无事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_chan_v_shr.md#平常无事)】`pien2 chan2 v2 shr6` <sup>[兴化]</sup> 平时、在一般情况下：～他连脚影也不来显下子，一旦有事成天盯吖你。｜“……这都是～的话。万一要有甚么伤风外感，那不更费手脚么……”（《二十年目睹之怪现状》七十）  
 1. 【[平底鞋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_di_hae.md#平底鞋)】`pien2 di3 hae2` <sup>[如东]</sup> 后跟与前掌一样平的鞋，称平底鞋。  
 1. 【[平顶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_dien.md#平顶)】`pien2 dien3` <sup>[如皋]</sup> 顶髮短而平的男髮式。  
 1. 【[平顶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_dien.md#平顶)】`pien2 dien3` <sup>[如东]</sup> 物体顶端呈水平状，称平顶。房屋屋顶呈水平状，称平顶。人的头发短而平，称平顶。  

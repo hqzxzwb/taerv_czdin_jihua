@@ -1624,7 +1624,7 @@
 1. 【[省俭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_jin.md#省俭)】`shen3 jin3` <sup>[东台]</sup> 勤俭节约：办事要～。  
 1. 【[省力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_lieh.md#省力)】`shen3 lieh8` <sup>[兴化]</sup> 节省精力，少操心：推车比挑担～。｜老师讲得清楚，学生听起来～。｜这件事请中介公司去办比较～。  
 1. 【[省世](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_shr.md#省世)】`shen3 shr` <sup>[泰兴]</sup> 节俭  
-1. 【[省事无事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_shr_v_shr.md#省事无事)】`shen3 shr6 v3 shr6` <sup>[兴化]</sup> 不招惹闲事，避免卷入是非：老兄吖，不要找事做。俗说，多事有事，～。  
+1. 【[省事无事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_shr_v_shr.md#省事无事)】`shen3 shr6 v2 shr6` <sup>[兴化]</sup> 不招惹闲事，避免卷入是非：老兄吖，不要找事做。俗说，多事有事，～。  
 1. 【[圣菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_cae.md#圣菜)】`shen5 cae5` <sup>[如东]</sup> 念珠藻科植物葛仙米，也称地耳。藻体为多数球形的单细胞串连而成，外被透明的胶质物集成片状，与木耳相似。湿润时展开，呈蓝绿色，干燥时卷曲，呈灰褐色。雨后草间湿地上极多。  
 1. 【[圣柜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_kuei.md#圣柜)】`shen5 kuei6` <sup>[如皋]</sup> 堂屋中靠后墙的供奉神祖的大柜。  
 1. 【[圣柜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_kuei.md#圣柜)】`shen5 kuei6` <sup>[如东]</sup> 摆在堂屋明间后壁中间的木柜，用以供奉菩萨与祖宗。  
@@ -1639,8 +1639,8 @@
 1. 【[抻头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_teu.md#抻头)】`shen5 teu` <sup>[如皋]</sup> 升益、升益率。  
 1. 【[抻头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_teu.md#抻头)】`shen5 teu` <sup>[东台]</sup> 有伸缩性，［引］有赚头，有利可图。  
 1. 【[渗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen.md#渗)】`shen5` <sup>[如皋]</sup> ～鸡皮子。《集韵》所禁切，去沁生：“～，寒貌。”  
-1. 【[渗菜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_cae_r.md#渗菜<sub>儿</sub>)】`shen5 cae5 r` <sup>[如皋]</sup> 见“地耳”。  
 1. 【[渗菜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_cae_r.md#渗菜<sub>儿</sub>)】`shen5 cae5 r` <sup>[如皋]</sup> 地耳。  
+1. 【[渗菜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_cae_r.md#渗菜<sub>儿</sub>)】`shen5 cae5 r` <sup>[东台]</sup> 地衣菜。又名地耳、地皮菜、地木耳等，黑绿色，是真菌和藻类的结合体（择下的根拋到草屋上也可繁殖）。  
 1. 【[渗涎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_saen.md#渗涎)】`shen5 saen2` <sup>[如皋]</sup> ① 一种病态，口水不住渗出而不觉：他受啊凉，有啊病，嘴里一天到夜的～。 ② 想吃而未吃到时的反应：他闻到啊食物的香味就～。 ③ 喻想得到的心态、模样：老色鬼一看见漂亮姑娘就～。  
 1. 【[渗水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_shuei.md#渗水)】`shen5 shuei3` <sup>[泰县]</sup> ① 泄密。 ② 节外生枝：这件事不能～，否则办不成。  
 1. 【[渗汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_tan.md#渗汤)】`shen5 tan1` <sup>[如皋]</sup> ① 腐败而有液体渗出：粥～、疮口～。 ② 喻节外生枝，复杂化：事情一～就难办。  
@@ -1651,7 +1651,6 @@
 1. 【[瘆人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_ren.md#瘆人)】`shen5 ren` <sup>[泰县]</sup> 肉麻：这个人浑身都是疙瘩儿，看吖真的～。  
 1. 【[瘆人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_ren.md#瘆人)】`shen5 ren2` 恶心人  
 1. 【[瘆人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_ren_zz.md#瘆人子)】`shen5 ren2 zz` <sup>[东台]</sup> 令人害怕或肉麻难受：我不敢看人家剥蛇，～！  
-1. 【[盛菜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_cae_r.md#盛菜<sub>儿</sub>)】`shen5 cae5 r` <sup>[东台]</sup> 地衣菜。又名地耳、地皮菜、地木耳、渗菜等，黑绿色，是真菌和藻类的结合体（择下的根拋到草屋上也可繁殖）。  
 1. 【[盛意谆谆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_i_zhuen_zhuen.md#盛意谆谆)】`shen5 i5 zhuen1 zhuen1` <sup>[东台]</sup> 一片盛情，非常诚恳。  
 1. 【[肾筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_jien.md#肾筋)】`shen5 jien1` <sup>[如皋]</sup> 剥取的畜类的阴茎和输精管。  
 1. 【[胜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen.md#胜)】`shen5` <sup>[东台]</sup> 夸耀自己，讥笑别人，东台词典作“㰮”：你才得咖一回奖，～甚的？  

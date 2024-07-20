@@ -1623,7 +1623,7 @@
 1. 【[指借信](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_jia_xien.md#指借信)】`zhr3 jia5 xien5` <sup>[如皋]</sup> 土地革命时期，本地红军向地主老财所发的筹款信。  
 1. 【[指丫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_nga.md#指丫)】`zhr3 nga1` <sup>[兴化]</sup> 两指之间靠近手、脚掌部分：（佛祖）大～里，还有些猴尿臊气……（《西游记》七）  
 1. 【[指树园](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_shv_iun.md#指树园)】`zhr3 shv6 iun2` <sup>[如皋]</sup> 明代兵部尚书李之椿的私家花园，约在如皋师范大操场一带。  
-1. 【[指导员的皮包——问题多](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_to_iun_dii_pi_bo_ven_ti_du.md#指导员的皮包——问题多)】`zhr3 to3 iun2 dii pi2 bo1 ven6 ti2 du1` <sup>[东台]</sup>   
+1. 【[指导员的皮包——问题多](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_to_iun_dii_pi_bo_ven_ti_du.md#指导员的皮包——问题多)】`zhr3 to6 iun2 dii pi2 bo1 ven6 ti2 du1` <sup>[东台]</sup>   
 1. 【[指望](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_van.md#指望)】`zhr3 van6` <sup>[如东]</sup> 希望：没得～。  
 1. 【[指指戳戳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_zhr_chuah_chuah.md#指指戳戳)】`zhr3 zhr3 chuah7 chuah7` <sup>[兴化]</sup> 对人背后发议论。  
 1. 【[止𤵥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_co.md#止𤵥)】`zhr3 co2` <sup>[如皋]</sup> 有饥饿感，吃点食物缓解缓解。见“点饥”。  

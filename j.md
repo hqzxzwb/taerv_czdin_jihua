@@ -1810,7 +1810,7 @@
 1. 【[嘴刁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_dio.md#嘴刁)】`jy3 dio1` <sup>[东台]</sup> 过分讲究吃喝的口味，很会挑剔：他的～，厨师不好办。  
 1. 【[嘴搁咖人头上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_gah_ga_ren_teu_shan.md#嘴搁咖人头上)】`jy3 gah7 ga ren2 teu2 shan` <sup>[如皋]</sup> 自以为是，专门责怪或数落别人。  
 1. 【[嘴搁咖人头上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_gah_ga_ren_teu_shan.md#嘴搁咖人头上)】`jy3 gah7 ga ren2 teu2 shan` <sup>[东台]</sup> 说话总是责怪人，以势压人，显示自己了不起。  
-1. 【[嘴呱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_gua.md#嘴呱)】`jy3 gua3` <sup>[如皋]</sup> 多话，好插话。  
+1. 【[嘴寡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_gua.md#嘴寡)】`jy3 gua3` <sup>[如皋]</sup> 多话，好插话。  
 1. 【[嘴干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_gun.md#嘴干)】`jy3 gun1` <sup>[如东]</sup> 口渴：～，要喝水。  
 1. 【[嘴干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_gun.md#嘴干)】`jy3 gun1` <sup>[如皋]</sup> 口渴。  
 1. 【[嘴豁豁<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_huaeh_huaeh_r.md#嘴豁豁<sub>儿</sub>)】`jy3 huaeh7 huaeh7 r` <sup>[如东]</sup> 嘴的两边。  
