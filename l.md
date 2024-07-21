@@ -18,9 +18,8 @@
 1. 【[拉长麻线](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_chan_ma_xin.md#拉长麻线)】`la1 chan2 ma2 xin5` <sup>[如皋]</sup> 说话不能紧扣话题，扯得过远过长。  
 1. 【[拉大锯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_da_jy.md#拉大锯)】`la1 da6 jy5` <sup>[兴化]</sup> 两人一来一往地推拉着大锯解木头。  
 1. 【[拉大网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_da_van.md#拉大网)】`la1 da6 van3` <sup>[兴化]</sup> 一种捕鱼方法。  
-1. 【[拉倒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_do.md#拉倒)】`la1 do3` <sup>[如东]</sup> 作罢，放弃。  
-1. 【[拉倒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_do.md#拉倒)】`la1 do3` <sup>[东台]</sup> 算充，作罢：不来～。  
-1. 【[拉肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_dv_zz.md#拉肚子)】`la1 dv3 zz` <sup>[东台]</sup> 指肠炎，就是腹泻。  
+1. 【[拉倒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_do.md#拉倒)】`la1 do3` <sup>\[如东\]\[东台\]</sup>算了。作罢：不来～。<sup>\[东台\]</sup>  
+1. 【[拉肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_dv_zz.md#拉肚子)】`la1 dv3 zz` <sup>[东台]</sup> 腹泻  
 1. 【[拉寡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_gua.md#拉寡)】`la1 gua` <sup>[东台]</sup> 拉家常话。  
 1. 【[拉寡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_gua.md#拉寡)】`la1 gua` <sup>[兴化]</sup> 谈家常：……她乘空跑出来，想再去同左邻右舍～。（马春阳《访亲》）  
 1. 【[拉瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_gua.md#拉瓜)】`la1 gua` <sup>[如东]</sup> 不整齐。（原文作“拉刮”，音不合）：身上的衣裳～啊，多难相吖。  

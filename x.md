@@ -1832,7 +1832,7 @@
 1. 【[小小不言](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xio_beh_in.md#小小不言)】`xio3 xio3 beh7 in2` <sup>[兴化]</sup> 细微而不值一谈：～的事不必计较。  
 1. 【[小小不然](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xio_beh_rin.md#小小不然)】`xio3 xio3 beh7 rin2` <sup>[泰县]</sup> 不值得计较：我送给你的都是～的东西，你不要老放吖心上。  
 1. 【[小小样样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xio_ian_ian.md#小小样样)】`xio3 xio3 ian6 ian6` <sup>[兴化]</sup> 形容小巧玲珑：这套红木桌椅～的，真好看。  
-1. 【[小雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xiuh.md#小雪)】`xio3 xiuh7` <sup>[东台]</sup> 二十四节气之一，通常在11月22或23日。  
+1. 【[小雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xiuh.md#小雪)】`xio3 xiuh7` 二十四节气之一，通常在11月22或23日。  
 1. 【[小雪住犁耙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xiuh_chv_li_pa.md#小雪住犁耙)】`xio3 xiuh7 chv6 li2 pa` <sup>[如皋]</sup> 歇作。  
 1. 【[小鱼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_y_r.md#小鱼<sub>儿</sub>)】`xio3 y2 r` <sup>[兴化]</sup> （喻）老实可欺的人：他动不动找麻烦，把人当成他吃的～。  
 1. 【[小雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_y.md#小雨)】`xio3 y3` <sup>[如皋]</sup> 雨势缓或雨滴小的雨。不论雨量。  
