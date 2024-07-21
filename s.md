@@ -2646,8 +2646,7 @@
 1. 【[双响](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_xian.md#双响)】`shuan1 xian3` <sup>[如东]</sup> 爆竹的一种，能连发两响。  
 1. 【[双星<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_xien_r.md#双星<sub>儿</sub>)】`shuan1 xien1 r` <sup>[如皋]</sup> 杆秤上的最小秤星是单星儿，大一级的是～。  
 1. 【[霜打雪剟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_da_xiuh_duh.md#霜打雪剟)】`shuan1 da3 xiuh7 duh7` <sup>[东台]</sup> ［喻］如雪上加霜，遭受双重灾难的打击。（剟：刺、击）  
-1. 【[霜降](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_gan.md#霜降)】`shuan1 gan` 霜降，二十四节气之一  
-1. 【[霜降](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_gan.md#霜降)】`shuan1 gan` <sup>[如东]</sup> 二十四节气之一，在阴历10月23日或24日。  
+1. 【[霜降](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_gan.md#霜降)】`shuan1 gan` 霜降，二十四节气之一，在10月23日或24日。  
 1. 【[霜僵花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_jian_hua.md#霜僵花)】`shuan1 jian1 hua1` <sup>[如皋]</sup> 霜降后采收的棉花，多数开不足。  
 1. 【[霜降](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_jian.md#霜降)】`shuan1 jian5` <sup>[东台]</sup> 二十四节气之一，通常在10月23日或24日：（俗语）寒露，～，光棍现相（过去光棍缺衣御寒，露出穷相）。  
 1. 【[霜磕磕的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_kuh_kuh_dii.md#霜磕磕的)】`shuan1 kuh7 kuh7 dii` <sup>[如皋]</sup> 寒夜或冬天的清晨在野外冒着严霜行动，很辛苦。  

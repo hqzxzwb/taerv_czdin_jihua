@@ -1917,8 +1917,7 @@
 1. 【[春菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_cae.md#春菜)】`chuen1 cae5` <sup>[如皋]</sup> 春天新上市的蔬菜。如：毛菜、雪里蕻、蒜苗、新种的青菜等。  
 1. 【[春打五九尾，饿啊像个鬼；春打六九头，庄稼不用愁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_da_v_jieu_vei_ngu_a_qian_gu_guei_chuen_da_loh_jieu_teu_zhuan_jia_beh_ion_cheu.md#春打五九尾，饿啊像个鬼；春打六九头，庄稼不用愁)】`chuen1 da3 v3 jieu3 vei3 ngu6 a qian6 gu guei3 chuen1 da3 loh8 jieu3 teu2 zhuan1 jia5 beh7 ion6 cheu2` <sup>[东台]</sup> 一般来说，立春在六九第一天比在五九最后一天年景好些。  
 1. 【[春凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_den.md#春凳)】`chuen1 den5` <sup>[如皋]</sup> ① 见“茶凳”。 ② 一般放在高橱前的阔面凳。  
-1. 【[春分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_fen.md#春分)】`chuen1 fen1` <sup>[如东]</sup> 二十四节气之一，在阴历3月20日或21日。这一天南北半球昼夜都一样长短。  
-1. 【[春分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_fen.md#春分)】`chuen1 fen1` <sup>[东台]</sup> 二十四节气之一，通常在3月20日或21日。  
+1. 【[春分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_fen.md#春分)】`chuen1 fen1` 二十四节气之一，通常在3月20日或21日。  
 1. 【[春风裂石头，不戴帽子裂额头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_fon_lih_sheh_teu_beh_dae_mo_zz_lih_ngeh_teu.md#春风裂石头，不戴帽子裂额头)】`chuen1 fon1 lih8 sheh8 teu beh7 dae5 mo6 zz lih8 ngeh8 teu` <sup>[东台]</sup> 春天要适当“焐”  
 1. 【[春风裂石头，春天裂额头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_fon_lih_sheh_teu_chuen_tin_lih_ngeh_teu.md#春风裂石头，春天裂额头)】`chuen1 fon1 lih8 sheh8 teu chuen1 tin1 lih8 ngeh8 teu` <sup>[如皋]</sup> 春天春风干燥。  
 1. 【[春红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_hon.md#春红)】`chuen1 hon2` <sup>[如东]</sup> 春季生产的虾米，色红，蛋白质含量高，味鲜美。  
@@ -2148,8 +2147,7 @@
 1. 【[鼠疮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_chuan.md#鼠疮)】`chv3 chuan1` <sup>[泰县]</sup> 淋巴结核。  
 1. 【[鼠耗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_ho.md#鼠耗)】`chv3 ho5` <sup>[兴化]</sup> 在存放的粮食中被鼠类吃掉的部分：“……日无鸡啄之米，夜无～之粮……”（《皮五辣子》一）  
 1. 【[鼠头鼠脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_teu_chv_no.md#鼠头鼠脑)】`chv3 teu2 chv3 no3` <sup>[东台]</sup> 形容猥琐、庸俗、鬼鬼祟祟的样子。  
-1. 【[处暑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_chv.md#处暑)】`chv5 chv3` <sup>[如东]</sup> 二十四节气之一，在阳历8月22日、23日或24日。  
-1. 【[处暑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_chv.md#处暑)】`chv5 chv3` <sup>[东台]</sup> 二十四节气之一，在阳历8月22、23或24日。  
+1. 【[处暑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_chv.md#处暑)】`chv5 chv3` 二十四节气之一，在阳历8月22、23或24日。  
 1. 【[憷惮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_taen.md#憷惮)】`chv5 taen6` <sup>[如皋]</sup> 忌讳：老人～“老”字，欢喜说“小”字。  
 1. 【[憷惮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_taen.md#憷惮)】`chv5 taen6` <sup>[东台]</sup> 害怕、畏缩，不放心：他说人家新房子下头原来是坟墓，人家非常～。｜大过年的，防止说不吉利的话，叫人～。  
 1. 【[住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv.md#住)】`chv6` <sup>[如皋]</sup> 停止：～脚、～啊雨、～啊风。  

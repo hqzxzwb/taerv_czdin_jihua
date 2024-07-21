@@ -1317,22 +1317,18 @@
 1. 【[栗树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_shv.md#栗树)】`lieh8 shv6` <sup>[如东]</sup> 壳斗科植物栗，又名板栗。  
 1. 【[栗子屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_zz_shr.md#栗子屎)】`lieh8 zz shr3` <sup>[如皋]</sup> 兔、羊、驴、马的粪便。  
 1. 【[沥卤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_lv.md#沥卤)】`lieh8 lv3` <sup>[如东]</sup> 盐灰放入卤坑后，踩实，加水，使盐分从灰中沥出来，注入卤池，用以烧盐。  
-1. 【[立春](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_chuen.md#立春)】`lieh8 chuen1` <sup>[如东]</sup> 二十四节气之一，在阴历二月三日、四日或五日。我国以立春为春季的开始。  
-1. 【[立春](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_chuen.md#立春)】`lieh8 chuen1` <sup>[东台]</sup> 二十四节气之一，（以下三条皆然）通常在2月4日或5日。  
+1. 【[立春](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_chuen.md#立春)】`lieh8 chuen1` 二十四节气之一，通常在2月4日或5日。  
 1. 【[立嗣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_cz.md#立嗣)】`lieh8 cz2` <sup>[如皋]</sup> 过继。  
 1. 【[立字据](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_cz_jy.md#立字据)】`lieh8 cz6 jy5` <sup>[东台]</sup> 写下字据：口说无凭，立字为据。  
 1. 【[立等可取](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_den_ku_qy.md#立等可取)】`lieh8 den3 ku3 qy3` <sup>[东台]</sup> 服务行业招徕顾客的一种承诺，意思是很快就能办好。  
-1. 【[立冬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_don.md#立冬)】`lieh8 don1` <sup>[如东]</sup> 二十四节气之一，在阴历11月7日或8日。我国以立冬为冬季的开始。  
-1. 【[立冬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_don.md#立冬)】`lieh8 don1` <sup>[东台]</sup> 通常在11月7日或8日。  
+1. 【[立冬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_don.md#立冬)】`lieh8 don1` 二十四节气之一，通常在11月7日或8日。  
 1. 【[立房约<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_fan_iah_r.md#立房约<sub>儿</sub>)】`lieh8 fan2 iah7 r` <sup>[如皋]</sup> 写租房契约，付租金，并交接成立。  
 1. 【[立马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_ma.md#立马)】`lieh8 ma3` <sup>[东台]</sup> 立即，马上。  
-1. 【[立秋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_qieu.md#立秋)】`lieh8 qieu1` <sup>[如东]</sup> 二十四节气之一，在阴历8月7日、8日或9日。我国以立秋为秋季的开始。  
-1. 【[立秋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_qieu.md#立秋)】`lieh8 qieu1` <sup>[东台]</sup> 通常在8月7日或8日。  
+1. 【[立秋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_qieu.md#立秋)】`lieh8 qieu1` 二十四节气之一，通常在8月7日或8日。  
 1. 【[立秋节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_qieu_jih.md#立秋节)】`lieh8 qieu1 jih7` <sup>[如东]</sup> 立秋日。民间有分吃西瓜、以瓜壳擦脸的习俗。  
 1. 【[立时的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_shr_dii.md#立时的)】`lieh8 shr2 dii` <sup>[如皋]</sup> 一时间。  
 1. 【[立瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_va.md#立瓦)】`lieh8 va3` <sup>[如皋]</sup> 屋面盖瓦富裕像是竖立着盖的。  
-1. 【[立夏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_xia.md#立夏)】`lieh8 xia6` <sup>[如东]</sup> 二十四节气之一，在阴历5月5日、6日或7日。我国以立夏为夏季的开始。  
-1. 【[立夏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_xia.md#立夏)】`lieh8 xia6` <sup>[东台]</sup> 通常在5月5日或6日。  
+1. 【[立夏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_xia.md#立夏)】`lieh8 xia6` <sup>[东台]</sup> 二十四节气之一，通常在5月5日或6日。  
 1. 【[立夏节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_xia_jih.md#立夏节)】`lieh8 xia6 jih7` <sup>[如东]</sup> 立夏日。民间有吃鸡蛋、秤体重的习俗，祝愿不疰夏。  
 1. 【[立夏十八朝，家家动担挑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_xia_sheh_baeh_zho_ga_ga_ton_daen_tio.md#立夏十八朝，家家动担挑)】`lieh8 xia6 sheh8 baeh7 zho1 ga1 ga1 ton6 daen5 tio1` <sup>[如皋]</sup> 立夏十八天后，可大面积收麦、豆（大麦、元麦）。  
 1. 【[立线](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_xin.md#立线)】`lieh8 xin5` <sup>[如东]</sup> 工匠测量建筑物垂直线的一种方法。  

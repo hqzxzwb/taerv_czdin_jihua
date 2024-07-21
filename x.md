@@ -517,8 +517,7 @@
 1. 【[夏天暖日的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_tin_nun_rih_dii.md#夏天暖日的)】`xia6 tin1 nun3 rih8 dii` <sup>[如皋]</sup> 劝语。指在夏天要注意行为的适度：～，不要作气。  
 1. 【[夏天暖日的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_tin_nun_rih_dii.md#夏天暖日的)】`xia6 tin1 nun3 rih8 dii` <sup>[如皋]</sup> 见“暖日夏天的”。  
 1. 【[夏天时候](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_tin_shr_heu.md#夏天时候)】`xia6 tin1 shr2 heu6` <sup>[如皋]</sup> 夏季。  
-1. 【[夏至](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_zhr.md#夏至)】`xia6 zhr5` <sup>[如东]</sup> 二十四节气之一，在阴历6月21日或22日。这一天太阳经过夏至点，北半球白天最长，夜间最短。  
-1. 【[夏至](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_zhr.md#夏至)】`xia6 zhr5` <sup>[东台]</sup> 二十四节气之一。通常在6月21或22日。  
+1. 【[夏至](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_zhr.md#夏至)】`xia6 zhr5` 二十四节气之一。通常在6月21或22日。  
 1. 【[夏至草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_zhr_co.md#夏至草)】`xia6 zhr5 co3` <sup>[如东]</sup> 唇形科植物夏至草，多年生直立草本。高约60厘米。茎方形，被有倒生细毛。叶掌状，3全裂，裂片有钝锯齿或小裂，两面均密生细毛。花冠白色，钟状。小坚果褐色，长圆状，三棱形。生长在水边、路旁。棉蚜等害虫常寄生在这种草上过冬。  
 1. 【[些些<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_xia_r.md#些些<sub>儿</sub>)】`xia9 xia1-3 r` <sup>[如皋]</sup> ① 很少：剩吖～。 ② 可能性很小：报告可以送，等批复就～咾。  
 1. 【[闲扯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_cha.md#闲扯)】`xiaen2 cha3` <sup>[东台]</sup> 漫无边际地随便聊天。  
@@ -1564,8 +1563,7 @@
 1. 【[小潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cho.md#小潮)】`xio3 cho2` <sup>[如东]</sup> 潮水水位低的海潮，称小潮。  
 1. 【[小轴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_choh_r.md#小轴<sub>儿</sub>)】`xio3 choh8 r` <sup>[如皋]</sup> 水车槽筒接近河面端的定齿轮，有7齿。  
 1. 【[小𣑁<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_chon_r.md#小𣑁<sub>儿</sub>)】`xio3 chon5 r` <sup>[如皋]</sup> ① 独轮车楼篷上的横木。 ② 家具上的柱状小料。  
-1. 【[小暑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_chv.md#小暑)】`xio3 chv3` <sup>[如东]</sup> 二十四节气之一，在阴历7月6日日或8日。  
-1. 【[小暑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_chv.md#小暑)】`xio3 chv3` <sup>[东台]</sup> 通常在7月6、7或8日。  
+1. 【[小暑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_chv.md#小暑)】`xio3 chv3` 二十四节气之一，通常在7月6、7或8日。  
 1. 【[小暑头上丢一丢，拔掉黄秧栽小豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_chv_teu_shan_dieu_ieh_dieu_paeh_tio_huan_ian_zae_xio_teu.md#小暑头上丢一丢，拔掉黄秧栽小豆)】`xio3 chv3 teu2 shan dieu1 ieh7 dieu1 paeh8 tio huan2 ian1 zae1 xio3 teu6` <sup>[东台]</sup> 农谚，小暑这一天下雨，就会遭受旱灾。  
 1. 【[小暑天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_chv_tin.md#小暑天)】`xio3 chv3 tin1` <sup>[如皋]</sup> 小暑至大暑的半个月内约阳历7月6日至21日间。  
 1. 【[小蚕<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cun_r.md#小蚕<sub>儿</sub>)】`xio3 cun2 r` <sup>[如皋]</sup> 蚕蚁至二龄期在育蚕室喂养的蚕。  
@@ -1640,8 +1638,7 @@
 1. 【[小黄鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_huan_y.md#小黄鱼)】`xio3 huan2 y2` <sup>[如东]</sup> 石首科动物小黄鱼，又名春鱼、黄花鱼。体长约20厘米。身体偏扁，形状与大黄鱼相近而小，体背侧灰褐色，两侧及腹侧为黄色，背鳍边缘灰褐色。臀鳍第二鳍棘长小于眼径。头较大。头颅具发达粘液腔。鳞较大，在背鳍与侧线间具鳞5-6行。栖息在软泥或泥沙底质海区中下层。有明显的垂直移动现象，黄昏时上升，黎明时下降，白天在底层或近底层活动。为重要的经济鱼类，是如东县常见鱼种。  
 1. 【[小茴香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_huei_xian.md#小茴香)】`xio3 huei2 xian1` <sup>[如皋]</sup> 茴香。  
 1. 【[小荤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_huen.md#小荤)】`xio3 huen1` <sup>[如皋]</sup> 与大荤相对。即菜中含荤量小。  
-1. 【[小寒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_hun.md#小寒)】`xio3 hun2` <sup>[如东]</sup> 二十四节气之一，在阴历1月5日、6日或7日。  
-1. 【[小寒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_hun.md#小寒)】`xio3 hun2` <sup>[东台]</sup> 通常在1月5、6或7日。  
+1. 【[小寒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_hun.md#小寒)】`xio3 hun2` 二十四节气之一，通常在1月5、6或7日。  
 1. 【[小胡椒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_hv_jio.md#小胡椒)】`xio3 hv2 jio1` <sup>[兴化]</sup> 由胡椒的子实碾成的粉末，有黑、白两种。也称“胡椒末子”。  
 1. 【[小衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_i.md#小衣)】`xio3 i1` <sup>[如皋]</sup> 内衣裤。  
 1. 【[小衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_i.md#小衣)】`xio3 i1` <sup>[如东]</sup> 衬衣。  
@@ -1738,8 +1735,7 @@
 1. 【[小麦糏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_moh_xih.md#小麦糏)】`xio3 moh8 xih7` <sup>[如皋]</sup> 小麦面粉。  
 1. 【[小麦糏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_moh_xih.md#小麦糏)】`xio3 moh8 xih7` <sup>[如东]</sup> 小麦磨成的面粉。  
 1. 【[小拇指头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_mu_zheh_teu.md#小拇指头)】`xio3 mu zheh7 teu` <sup>[兴化]</sup> 小拇指。  
-1. 【[小满](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_mun.md#小满)】`xio3 mun3` <sup>[如东]</sup> 二十四节气之一，在阴历5月20日21日或22日。  
-1. 【[小满](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_mun.md#小满)】`xio3 mun3` <sup>[东台]</sup> 通常在5月20、21或22日。（本条及以下四条均为二十四节气之一）  
+1. 【[小满](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_mun.md#小满)】`xio3 mun3` 二十四节气之一，通常在5月20、21或22日。  
 1. 【[小满前后吃青蚕豆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_mun_qin_heu_qieh_qien_cun_teu_r.md#小满前后吃青蚕豆<sub>儿</sub>)】`xio3 mun3 qin2 heu6 qieh7 qien1 cun2 teu6 r` <sup>[如皋]</sup> 尝时新。  
 1. 【[小拿宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_na_bo_r.md#小拿宝<sub>儿</sub>)】`xio3 na2 bo3 r` <sup>[泰县]</sup> （禁忌语）小男孩。  
 1. 【[小奶奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_nae_nae.md#小奶奶)】`xio3 nae3 nae` <sup>[如皋]</sup> 妾。  
@@ -1836,8 +1832,7 @@
 1. 【[小小不言](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xio_beh_in.md#小小不言)】`xio3 xio3 beh7 in2` <sup>[兴化]</sup> 细微而不值一谈：～的事不必计较。  
 1. 【[小小不然](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xio_beh_rin.md#小小不然)】`xio3 xio3 beh7 rin2` <sup>[泰县]</sup> 不值得计较：我送给你的都是～的东西，你不要老放吖心上。  
 1. 【[小小样样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xio_ian_ian.md#小小样样)】`xio3 xio3 ian6 ian6` <sup>[兴化]</sup> 形容小巧玲珑：这套红木桌椅～的，真好看。  
-1. 【[小雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xiuh.md#小雪)】`xio3 xiuh7` <sup>[如东]</sup> 二十四节气之一，在阴历11月22日或23日。黄河流域出现初雪。  
-1. 【[小雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xiuh.md#小雪)】`xio3 xiuh7` <sup>[东台]</sup> 通常在11月22或23日。  
+1. 【[小雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xiuh.md#小雪)】`xio3 xiuh7` <sup>[东台]</sup> 二十四节气之一，通常在11月22或23日。  
 1. 【[小雪住犁耙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xiuh_chv_li_pa.md#小雪住犁耙)】`xio3 xiuh7 chv6 li2 pa` <sup>[如皋]</sup> 歇作。  
 1. 【[小鱼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_y_r.md#小鱼<sub>儿</sub>)】`xio3 y2 r` <sup>[兴化]</sup> （喻）老实可欺的人：他动不动找麻烦，把人当成他吃的～。  
 1. 【[小雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_y.md#小雨)】`xio3 y3` <sup>[如皋]</sup> 雨势缓或雨滴小的雨。不论雨量。  

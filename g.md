@@ -1139,8 +1139,7 @@
 1. 【[啯碌啯碌的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/goh_loh_goh_loh_dii.md#啯碌啯碌的)】`goh7 loh goh7 loh dii` <sup>[如皋]</sup> ① 象声词。 ② 像炒豆翻滚的样子。  
 1. 【[国清寺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/goh_qien_cz.md#国清寺)】`goh7 qien1 cz6` <sup>[如东]</sup> 唐宪宗李纯元和年间（公元806年～820年），僧人行满于掘港建国清寺，并在藏经楼前亲植银杏树2棵。  
 1. 【[谷芽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/goh_nga.md#谷芽)】`goh7 nga2` <sup>[如东]</sup> 禾本科植物稻的成熟果实所发的芽。  
-1. 【[谷雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/goh_y.md#谷雨)】`goh7 y3` <sup>[如东]</sup> 二十四节气之一，在阳历4月19、20或21日。  
-1. 【[谷雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/goh_y.md#谷雨)】`goh7 y3` <sup>[东台]</sup> 二十四节气之一，通常在4月19日、20日或21日。  
+1. 【[谷雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/goh_y.md#谷雨)】`goh7 y3` 二十四节气之一，通常在4月19日、20日或21日。  
 1. 【[公尺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_cheh.md#公尺)】`gon1 cheh7` <sup>[如东]</sup> “米”的旧称。  
 1. 【[公丁香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_dien_xian.md#公丁香)】`gon1 dien1 xian1` <sup>[如皋]</sup> 丁香花的一种，花形像男阴，可钓鱼。  
 1. 【[公份](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_fen.md#公份)】`gon1 fen6` <sup>[如皋]</sup> 集体办事，各人应占份额：摊～。  

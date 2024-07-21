@@ -1050,10 +1050,10 @@
 1. 【[清客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_keh.md#清客)】`qien1 keh7` <sup>[如东]</sup> 装扮淡雅，精干得体。  
 1. 【[清凉油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_lian_ieu.md#清凉油)】`qien1 lian2 ieu2` <sup>[如东]</sup> 用薄荷油、樟脑、桂皮油、桉叶油等加石蜡制成的膏状药物，对头痛蚊咬等有一定疗效。也叫万金油。  
 1. 【[清凉瓦屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_lian_va_oh.md#清凉瓦屋)】`qien1 lian2 va3 oh7` <sup>[兴化]</sup> 高大的瓦房：他住的～，吃的大米白面，真是神仙过的日子。  
-1. 【[清明](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_mien.md#清明)】`qien1 mien2` <sup>[东台]</sup> 二十四节气之一，通常在4月4、5或6日。民间习惯在这前后十天内扫墓。  
+1. 【[清明](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_mien.md#清明)】`qien1 mien2` 二十四节气之一，通常在4月4、5或6日。民间习惯在这前后十天内扫墓。  
 1. 【[清明到，麦叫叫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_mien_do_moh_jio_jio.md#清明到，麦叫叫)】`qien1 mien2 do5 moh8 jio5 jio5` <sup>[如皋]</sup> 清明时麦已拔节，麦管可当叫叫儿（哨子）吹了。  
 1. 【[清明到，麦叫叫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_mien_do_moh_jio_jio.md#清明到，麦叫叫)】`qien1 mien2 do5 moh8 jio5 jio5` <sup>[东台]</sup> 清明时节麦子拔节，麦秆可以当口哨吹响。  
-1. 【[清明节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_mien_jih.md#清明节)】`qien1 mien2 jih7` <sup>[如东]</sup> 传统节日。在阴历4月4日、5日或6日。形成于唐代，盛行于宋代，为祭祖节日。这一天，后代子孙进行修坟，在坟上插招魂幡，烧纸钱，摆供品，莫祭祖宗亡灵。唐薛逢《君不见》诗：“清明纵便天使来，一把纸钱风树梢。”  
+1. 【[清明节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_mien_jih.md#清明节)】`qien1 mien2 jih7` <sup>[如东]</sup> 传统节日。在阳历4月4日、5日或6日。形成于唐代，盛行于宋代，为祭祖节日。这一天，后代子孙进行修坟，在坟上插招魂幡，烧纸钱，摆供品，莫祭祖宗亡灵。唐薛逢《君不见》诗：“清明纵便天使来，一把纸钱风树梢。”  
 1. 【[清明前头冻杀鬼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_mien_qin_teu_don_shaeh_guei_r.md#清明前头冻杀鬼<sub>儿</sub>)】`qien1 mien2 qin2 teu don5 shaeh7 guei3 r` <sup>[如皋]</sup>   
 1. 【[清明前头冻煞鬼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_mien_qin_teu_don_shaeh_guei_r.md#清明前头冻煞鬼<sub>儿</sub>)】`qien1 mien2 qin2 teu don5 shaeh7 guei3 r` <sup>[如皋]</sup> 见“麦秀寒”。  
 1. 【[清明断雪，谷雨断霜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_mien_tun_xiuh_goh_y_tun_shuan.md#清明断雪，谷雨断霜)】`qien1 mien2 tun6 xiuh7 goh7 y3 tun6 shuan1` <sup>[如皋]</sup> 清明后不会下雪了，谷雨后也没有霜了。  
@@ -1312,8 +1312,7 @@
 1. 【[秋场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_chan.md#秋场)】`qieu1 chan2` <sup>[如东]</sup> 秋季：～收成不好。  
 1. 【[秋呆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_dae_zz.md#秋呆子)】`qieu1 dae1 zz` <sup>[东台]</sup> 同“秋老虎”。  
 1. 【[秋呆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_dae_zz.md#秋呆子)】`qieu1 dae1 zz` <sup>[兴化]</sup> ① 立秋后天气持续高温：发～。 ② 秋后连续降雨，水位居高不下。  
-1. 【[秋分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_fen.md#秋分)】`qieu1 fen1` <sup>[如东]</sup> 二十四节气之一，在阴历9月22日23日或24日。这一天，南北半球昼夜都一样长短。  
-1. 【[秋分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_fen.md#秋分)】`qieu1 fen1` <sup>[东台]</sup> 二十四节气之一，这一天白天与夜晚一样长，通常在9月23日或前后一两天。  
+1. 【[秋分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_fen.md#秋分)】`qieu1 fen1` 二十四节气之一，这一天白天与夜晚一样长，通常在9月23日或前后一两天。  
 1. 【[秋后的蚂蚱——蹦不了几天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_heu_dii_maeh_zha_bon_beh_lio_ji_tin.md#秋后的蚂蚱——蹦不了几天)】`qieu1 heu6 dii maeh8 zha bon5 beh7 lio3 ji3 tin1` <sup>[东台]</sup>   
 1. 【[秋季](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_ji.md#秋季)】`qieu1 ji5` <sup>[如东]</sup> 阴历七月至九月为秋季。  
 1. 【[秋讲究](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_jian_jieu.md#秋讲究)】`qieu1 jian3 jieu` <sup>[泰县]</sup> 疟疾。  

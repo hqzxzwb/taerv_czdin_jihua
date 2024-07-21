@@ -597,8 +597,7 @@
 1. 【[大秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chen.md#大秤)】`da6 chen5` <sup>[兴化]</sup> ① 称量较多的相秤：这把～能打二百斤。 ② 计量超过标准的秤：～进，小秤出。  
 1. 【[大潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_cho.md#大潮)】`da6 cho2` <sup>[如东]</sup> 海潮水位高，称大潮：8月15日涨～。  
 1. 【[大池](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chr.md#大池)】`da6 chr2` <sup>[如皋]</sup> ① 大的粪池。 ② 公共浴室最大的浴池。  
-1. 【[大暑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chv.md#大暑)】`da6 chv3` <sup>[如东]</sup> 二十四节气之一，在阴历7月22日、23日或24日。是我国气候最热的时期。  
-1. 【[大暑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chv.md#大暑)】`da6 chv3` <sup>[东台]</sup> 二十四节气之一。通常在阳历7月22、23或24日。  
+1. 【[大暑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chv.md#大暑)】`da6 chv3` 二十四节气之一。通常在阳历7月22、23或24日。  
 1. 【[大寺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_cz.md#大寺)】`da6 cz6` <sup>[如皋]</sup> 原名广福寺，唐时建，在如皋城内西北部。  
 1. 【[大大咧咧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_da_lae_lae.md#大大咧咧)】`da6 da6 lae3 lae3` <sup>[如东]</sup> 随随便便，满不在乎：他俫平常过日子～的，哪许存得起钱来噢。  
 1. 【[大大器器](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_da_qi_qi.md#大大器器)】`da6 da6 qi5 qi5` <sup>[泰县]</sup> 大方。  
@@ -688,8 +687,7 @@
 1. 【[大惚㞞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_hueh_son.md#大惚㞞)】`da6 hueh7 son2` <sup>[东台]</sup> （詈语）大坏蛋。  
 1. 【[大荤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_huen.md#大荤)】`da6 huen1` <sup>[如皋]</sup> ① 旧时店家、作坊等固定的荤期，每月的初二、十六大荤，初八、二十三小荤。 ② 以荤食为主的上谱儿的正菜。  
 1. 【[大荤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_huen.md#大荤)】`da6 huen1` <sup>[兴化]</sup> 泛指鸡、鸭、猪肉之类脂肪较多的辈菜：你的病才好，千万要忌～。  
-1. 【[大寒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_hun.md#大寒)】`da6 hun2` <sup>[如东]</sup> 二十四节气之一，在阳历1月20日或21日。是我国气候最冷的时期。（原文“阴历1月“，误。）  
-1. 【[大寒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_hun.md#大寒)】`da6 hun2` <sup>[东台]</sup> 二十四节气之一。一般在阳历1月20或21日。  
+1. 【[大寒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_hun.md#大寒)】`da6 hun2` 二十四节气之一。一般在阳历1月20或21日。  
 1. 【[大寒里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_hun_lii.md#大寒里)】`da6 hun2 lii` <sup>[如皋]</sup> 多在阳历的1月21-23间交大寒，约有15天。旧俗“太岁不在家，百无禁忌”。民间多在此期舂粪池、落葬、嫁娶。  
 1. 【[大寒里的太岁——不问事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_hun_lii_dii_tae_xy_beh_ven_shr.md#大寒里的太岁——不问事)】`da6 hun2 lii dii tae5 xy5 beh7 ven6 shr6` <sup>[东台]</sup>   
 1. 【[大户](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_hv.md#大户)】`da6 hv6` <sup>[东台]</sup> 有名望的人家，或人口多、分支繁的家族。也指在某一方面比较突出的单位：用电～。  
@@ -986,8 +984,7 @@
 1. 【[大仙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_xin.md#大仙)】`da6 xin1` <sup>[如皋]</sup> 见“狐狸精”义项❶。传说中的妖怪之一，由狐修炼而成。  
 1. 【[大仙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_xin.md#大仙)】`da6 xin1` <sup>[如皋]</sup> ① 巫人。 ② 狐的避讳称。 ③ 神仙、仙人。  
 1. 【[大仙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_xin.md#大仙)】`da6 xin1` <sup>[兴化]</sup> 迷信的人对狐鼬的敬称。也称“狐大仙”。  
-1. 【[大雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_xiuh.md#大雪)】`da6 xiuh7` <sup>[如东]</sup> 二十四节气之一，在阴历12月6日、7日或8日。  
-1. 【[大雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_xiuh.md#大雪)】`da6 xiuh7` <sup>[东台]</sup> 二十四节气之一。一般在阳历12月6、7或8日。  
+1. 【[大雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_xiuh.md#大雪)】`da6 xiuh7` 二十四节气之一。一般在阳历12月6、7或8日。  
 1. 【[大嘘大吵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_xy_da_cho.md#大嘘大吵)】`da6 xy1 da6 cho3` <sup>[兴化]</sup> 大喊大叫：里头开会，你不要～的。  
 1. 【[大鱼大肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_y_da_roh.md#大鱼大肉)】`da6 y2 da6 roh8` <sup>[如东]</sup> 比喻吃得好：不能每天都是～的。  
 1. 【[大鱼大肉不上心，一年四季不能脱咸菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_y_da_roh_beh_shan_xien_ieh_nin_sz_ji_beh_nen_tuh_haen_cae.md#大鱼大肉不上心，一年四季不能脱咸菜)】`da6 y2 da6 roh8 beh7 shan1 xien1 ieh7 nin2 sz5 ji5 beh7 nen2 tuh7 haen2 cae5` <sup>[东台]</sup> 指有的人不求高消费，但要求有基本生活保障。  
@@ -2629,8 +2626,7 @@
 1. 【[冬校](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_xio.md#冬校)】`don1 xio6` <sup>[如东]</sup> 在20世纪50年代至60年代，农村里每到冬闲季节，政府都要把农民组织起来学习文化，扫除文盲。这种学校称冬校。  
 1. 【[冬雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_xiuh.md#冬雪)】`don1 xiuh7` <sup>[如东]</sup> 冬季下雪，称冬雪。视为瑞雪：今年下～，明年收成好。  
 1. 【[冬雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_xiuh.md#冬雪)】`don1 xiuh7` <sup>[如皋]</sup> 一说“立春”以前下的雪；一说“尽九”以前下的雪。  
-1. 【[冬至](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_zhr.md#冬至)】`don1 zhr5` <sup>[如东]</sup> 二十四节气之一，在阳历12月21日、22日或23日，这一天，太阳经过冬至点，北半球白天最短，夜间最长。（原文“阴历12月”，误。）  
-1. 【[冬至](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_zhr.md#冬至)】`don1 zhr5` <sup>[东台]</sup> 二十四节气之一，通常在12月21、22或23日。也称“过冬”“大冬”。这一天北半球白天最短，夜间最长。从这一天起进入数九寒冬。  
+1. 【[冬至](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_zhr.md#冬至)】`don1 zhr5` 二十四节气之一，通常在12月21、22或23日。也称“过冬”“大冬”。这一天北半球白天最短，夜间最长。从这一天起进入数九寒冬。  
 1. 【[懂行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_han.md#懂行)】`don3 han2` <sup>[如皋]</sup> 懂得行里的规矩，精通行里的业务。  
 1. 【[懂礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_li.md#懂礼)】`don3 li3` <sup>[如皋]</sup> 讲礼貌，懂礼节。  
 1. 【[懂礼道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_li_to.md#懂礼道)】`don3 li3 to` <sup>[如皋]</sup> 讲礼貌，懂礼节。  

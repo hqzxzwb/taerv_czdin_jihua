@@ -845,8 +845,7 @@
 1. 【[惊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien.md#惊)】`jien1` <sup>[如皋]</sup> ① 痉挛，抽筋：～～憷憷的、～吖～的。 ② 惊风：惹～。如皋词典写“痉”。  
 1. 【[惊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien.md#惊)】`jien1` <sup>[兴化]</sup> ① 婴幼儿因受意外刺激而害怕：小儿～吖。 ② 痱子受刺激而骤痒：痱子一～，浑身发痒。  
 1. 【[惊场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_chan.md#惊场)】`jien1 chan2` <sup>[如皋]</sup> 临场紧张，可影响正常发挥。  
-1. 【[惊蛰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_cheh.md#惊蛰)】`jien1 cheh8` <sup>[如东]</sup> 二十四节气之一，在阴历3月5日、6日或7日。  
-1. 【[惊蛰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_cheh.md#惊蛰)】`jien1 cheh8` <sup>[东台]</sup> 二十四节气之一，通常在3月5、6或7日。（东台词典记音jin1 zeh7）  
+1. 【[惊蛰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_cheh.md#惊蛰)】`jien1 cheh8` 二十四节气之一，通常在3月5、6或7日。（东台词典记音jin1 zeh7）  
 1. 【[惊吵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_cho.md#惊吵)】`jien1 cho3` <sup>[如皋]</sup> ① 打乱、干扰了别人。 ② 致歉用语。  
 1. 【[惊冻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_don.md#惊冻)】`jien1 don5` <sup>[如皋]</sup> 因温度降低到觉得冷时的一抖。  
 1. 【[惊觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gah.md#惊觉)】`jien1 gah` <sup>[兴化]</sup> 被突然刺激（如响动、梦魇等）所惊醒：睡到四更时分，门外一片声大贼，两弟兄一齐～……（《儒林外史》四五）｜（黄）飞虎猛然一，那灯光依旧复明。（《封神演义》三二）  

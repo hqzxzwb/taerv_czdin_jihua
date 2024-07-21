@@ -2575,8 +2575,7 @@
 1. 【[寒里天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_lii_tin.md#寒里天)】`hun2 lii tin1` <sup>[兴化]</sup> ① 指一年中最冷的节气——小寒、大寒。 ② 泛指冬天。也说“寒天”。  
 1. 【[寒唠唠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_lo_lo.md#寒唠唠)】`hun2 lo lo1` <sup>[如皋]</sup> 微冷。  
 1. 【[寒劳劳的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_lo_lo_dii.md#寒劳劳的)】`hun2 lo1 lo1 dii` <sup>[如皋]</sup> 寒冷或怕冷的样子。  
-1. 【[寒露](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_lv.md#寒露)】`hun2 lv6` <sup>[如东]</sup> 二十四节气之一，在阴历1 0月8日或9日。  
-1. 【[寒露](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_lv.md#寒露)】`hun2 lv6` <sup>[东台]</sup> 二十四节气之一，通常在10月8日或9日。  
+1. 【[寒露](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_lv.md#寒露)】`hun2 lv6` 二十四节气之一，通常在10月8日或9日。  
 1. 【[寒毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_mo.md#寒毛)】`hun2 mo2` <sup>[东台]</sup> 汗毛。  
 1. 【[寒毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_mo.md#寒毛)】`hun2 mo2` <sup>[东台]</sup> 即汗毛。人体皮肤表层的细毛。  
 1. 【[寒毛直竖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_mo_cheh_shv.md#寒毛直竖)】`hun2 mo2 cheh8 shv6` <sup>[东台]</sup> 因为害怕，身上毫毛都竖了起来：反腐力度大，一些腐败分子吓得～。  

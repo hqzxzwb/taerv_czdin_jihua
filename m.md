@@ -577,8 +577,7 @@
 1. 【[芒稳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_ven_zz.md#芒稳子)】`man2 ven3 zz` <sup>[如皋]</sup> 麦脱粒后的芒、壳等。  
 1. 【[芒硝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_xio.md#芒硝)】`man2 xio1` <sup>[如东]</sup> 矿物芒硝煮炼而得的精制结晶。  
 1. 【[芒针](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_zhen.md#芒针)】`man2 zhen1` <sup>[兴化]</sup> 钟表及其他仪表上的指针。  
-1. 【[芒种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_zhon.md#芒种)】`man2 zhon3` <sup>[东台]</sup> 二十四节气之一，通常在6月5、6或7日。  
-1. 【[芒种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_zhon.md#芒种)】`man2 zhon5` <sup>[如东]</sup> 二十四节气之一，在阴历6月5日、6日或7日。  
+1. 【[芒种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_zhon.md#芒种)】`man2 zhon5` 二十四节气之一，通常在6月5、6或7日。  
 1. 【[芒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_zz.md#芒子)】`man2 zz` <sup>[如东]</sup> 毛昌纸卷成长条儿，用以点火点烟。  
 1. 【[芒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_zz.md#芒子)】`man2 zz` <sup>[东台]</sup> 旧时吃水烟时点火的纸捻子（参见“卷芒子”）。  
 1. 【[芒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_zz.md#芒子)】`man2 zz` <sup>[泰县]</sup> 用来点烟的纸卷。  

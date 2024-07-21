@@ -1123,8 +1123,7 @@
 1. 【[白老鸦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_lo_nga.md#白老鸦)】`poh8 lo3 nga1` <sup>[如东]</sup> 鸦科动物大嘴乌鸦的一种，也称白头老鸦。体长约60厘米。颈部有圈白色的羽毛。  
 1. 【[白龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_lon.md#白龙)】`poh8 lon2` <sup>[如皋]</sup> ① 远看龙卷风，有灰白色漏斗云。 ② 戏指鼻涕。  
 1. 【[白螺蛳壳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_lu_shr_kah.md#白螺蛳壳)】`poh8 lu1 shr1 kah7` <sup>[如东]</sup> 田蜾科动物方形环棱螺或其他同属动物的陈旧螺壳。  
-1. 【[白露](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_lv.md#白露)】`poh8 lv6` <sup>[如东]</sup> 二十四节气之一，在阴历9月7日、8日或9日。  
-1. 【[白露](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_lv.md#白露)】`poh8 lv6` <sup>[东台]</sup> 二十四节气之一，通常在9月7、8或9日。  
+1. 【[白露](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_lv.md#白露)】`poh8 lv6` 二十四节气之一，通常在9月7、8或9日。  
 1. 【[白露不露身，寒露不露顶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_lv_beh_lv_shen_hun_lv_beh_lv_dien.md#白露不露身，寒露不露顶)】`poh8 lv6 beh7 lv6 shen1 hun2 lv6 beh7 lv6 dien3` <sup>[东台]</sup> 白露后要穿长袖衣服，寒露后要戴帽子。  
 1. 【[白鹭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_lv.md#白鹭)】`poh8 lv6` <sup>[如东]</sup> 鹭科动物白鹭，也叫夜鹭。  
 1. 【[白麻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_ma_zz.md#白麻子)】`poh8 ma2 zz` <sup>[如皋]</sup> 少而浅的麻点，或指人。  

@@ -111,8 +111,7 @@
 1. 【[雨如瓢倒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_rv_pio_do.md#雨如瓢倒)】`y3 rv2 pio2 do5` <sup>[如皋]</sup> 雨特别急，短时间中的雨量特别大。  
 1. 【[雨洒洒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_sa_sa.md#雨洒洒)】`y3 sa3 sa3` <sup>[如东]</sup> 小雨下的很密。  
 1. 【[雨伞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_saen.md#雨伞)】`y3 saen3` <sup>[如东]</sup> 挡雨的伞。用铁、竹做骨架，蒙上布、绸或油纸，即可挡雨。  
-1. 【[雨水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_shuei.md#雨水)】`y3 shuei3` <sup>[如东]</sup> 二十四节气之一，在阴历2月18日、19日或20日。  
-1. 【[雨水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_shuei.md#雨水)】`y3 shuei3` <sup>[东台]</sup> 二十四节气之一，一般在阳历2月18、19或20日。  
+1. 【[雨水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_shuei.md#雨水)】`y3 shuei3` 二十四节气之一，一般在阳历2月18、19或20日。  
 1. 【[雨头子风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_teu_zz_fon.md#雨头子风)】`y3 teu2 zz fon1` <sup>[如皋]</sup> 下阵雨前的一阵阵大风。  
 1. 【[雨望天上落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_van_tin_shan_lah.md#雨望天上落)】`y3 van6 tin1 shan lah8` <sup>[东台]</sup> ［喻］指违背常理或不可能发生的事情。  
 1. 【[雨香庵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_xian_un.md#雨香庵)】`y3 xian1 un1` <sup>[如皋]</sup> 原为水绘园，后改为雨香庵，令复名“水绘园”。  
