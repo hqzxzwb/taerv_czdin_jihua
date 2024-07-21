@@ -9,7 +9,36 @@ from itertools import product
 from collections import namedtuple
 from collections import defaultdict
 
-Word = namedtuple('Word', ['py0', 'pinyin', 'word', 'raw_word', 'meaning', 'source', 'fname', 'sort_key'])
+CzY = namedtuple(
+    'CzY',
+    [
+        'source',
+        'pien_ien_0',
+        'pien_ien',
+        'text',
+        'raw_text',
+        'meanings',
+        'fname',
+        'sort_key',
+        'spec',
+    ]
+)
+CzYMeaning = namedtuple(
+    'CzYMeaning',
+    [
+        'explanation',
+        'subs',
+    ]
+)
+CzYSubMeaning = namedtuple(
+    'CzYSubMeaning',
+    [
+        'source',
+        'pien_ien',
+        'supplement',
+        'examples',
+    ]
+)
 
 ORDERS = "①②③④⑤⑥⑦⑧⑨⑩"
 LINK_FORMAT = "https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/%s#%s"
@@ -73,36 +102,25 @@ def parse_pinyin(pinyin):
     py_list = [i.split("/") for i in pinyin.split(" ")]
     return ", ".join(map(" ".join, product(*py_list)))
 
+meaning_pattern = r"^\+ (?P<explanation>.+)\n(?P<body>(  .+\n)*)"
+sub_meaning_pattern = r"  \* (?P<source>.+)\n    \+ (?P<supplement>.+)\n(?P<body>(    .+\n)*)"
+example_pattern = r"    - (?P<text>.+)\n"
+
+pattern_spec1 = r"^(> (?P<source>.+)\n)?(?P<body>(.+\n)*)"
+meaning_pattern_spec1 = r"- (?P<explanation>.+)\n(?P<body>(  .+\n)*)"
+example_pattern_spec1 = r"  - (?P<text>.+)\n"
+
 def parse_cont(cont, fname, cz_ien):
     """解析词条"""
-    cont = cont.strip()
-    fields = re.split("\n+", cont)
-    raw_word = fields[0].lstrip("#").strip()
-    pinyin = parse_pinyin(fields[1].strip())
-    meaning = ""
-    source = ""
-    show_order = cont.count("\n-") > 1
-    meaning_count = 0
-    example_count = 0
-    for line in fields[2:]:
-        if line.startswith("-"):
-            example_count = 0
-            if show_order:
-                meaning += " " + ORDERS[meaning_count]
-                meaning_count += 1
-            meaning += " " + line.replace("-", "").strip()
-        elif line.startswith(">"):
-            source = line.lstrip(">").strip()
-        else:
-            example_count += 1
-            meaning += "｜" if example_count > 1 else "："
-            example = line.strip().replace("-", "").strip()
-            meaning += example
-    #例句的冒号前不显示句号
-    meaning = meaning.replace("。：", "：").strip()
-    py0 = pinyin.split(",")[0]
-    validate(py0, raw_word)
-    mixed = mix(raw_word, py0)
+    cont = cont.strip("\n") + "\n"
+    lines = re.split("\n+", cont)
+    raw_word = lines[0].lstrip("#").strip()
+    pien_ien = parse_pinyin(lines[1].strip())
+    pien_ien_0 = pien_ien.split(",")[0]
+    mixed = mix(raw_word, pien_ien_0)
+
+    validate(pien_ien_0, raw_word)
+
     sort_key = ''
     word = ''
     for cz, ien in mixed:
@@ -113,7 +131,39 @@ def parse_cont(cont, fname, cz_ien):
         if ien != '' and cz != '□' and len(cz) == 1 and cz not in cz_ien[ien.rstrip('9')]:
             print("未登记的字音：【%s】中的【%s】读作【%s】" % (raw_word, cz, ien))
     check_path(fname, mixed, word)
-    return Word(py0, pinyin, word, raw_word, meaning, source, fname, sort_key)
+
+    prints = False
+
+    spec_teller = lines[2]
+    body = "\n".join(lines[2:])
+    meanings = []
+    source = None
+    spec = 1
+    if spec_teller != None and spec_teller.startswith("+"): # Spec 2
+        spec = 2
+        for meaning_match in re.finditer(meaning_pattern, body):
+            explanation = meaning_match.group('explanation')
+            sub_meanings = []
+            for sub_meaning_match in re.finditer(sub_meaning_pattern, meaning_match.group('body')):
+                examples = []
+                for example_match in re.finditer(example_pattern, sub_meaning_match.group('body')):
+                    examples.append(example_match.group('text'))
+                sub_meanings.append(CzYSubMeaning(sub_meaning_match.group('source'), None, sub_meaning_match.group('supplement'), examples))
+            meanings.append(CzYMeaning(explanation, sub_meanings))
+    else: # Spec 1
+        match = re.match(pattern_spec1, body)
+        source = match.group('source')
+        if prints:
+            print("match", match)
+            print("body", match.group('body'))
+        for meaning_match in re.finditer(meaning_pattern_spec1, match.group('body') or ''):
+            if prints:
+                print("meaning_match", meaning_match)
+            examples = []
+            for example_match in re.finditer(example_pattern_spec1, meaning_match.group('body')):
+                examples.append(example_match.group('text'))
+            meanings.append(CzYMeaning(meaning_match.group('explanation'), [CzYSubMeaning(source, pien_ien, None, examples)]))
+    return CzY(source, pien_ien_0, pien_ien, word, raw_word, meanings, fname, sort_key, spec)
 
 def mix(word, py):
     py = re.sub("-[a-z1-9]+", "", py)
@@ -193,22 +243,42 @@ def write_page(dirs, path, sample_out, cz_ien):
     conts = []
     for fname in glob.glob(path+"/*.md"):
         file_content = open(fname,encoding="U8").read()
-        file_content = re.sub(r"<!--\n(.*\n)*-->", "", file_content) # 移除注释
-        for cont in re.findall(r"#[^#]+", file_content):
-            conts.append(parse_cont(cont, fname, cz_ien))
+        file_content = re.sub(r"<!--\n(.*\n)*?-->(\n|$)", "", file_content) # 移除注释
+        for cont in re.split(r"(?:\r?\n){2,}", file_content):
+            if not re.fullmatch(r'\s*', cont):
+                conts.append(parse_cont(cont, fname, cz_ien))
+    out = ""
     for w in sorted(conts, key=lambda c: c.sort_key):
-        link = LINK_FORMAT % (w.fname.replace("\\","/"), w.word)
-        if w.source:
-            source = "<sup>[%s]</sup> " % re.sub(r'(方言词典|方言志|方言辞典)$', '', w.source)
-        else:
+        if w.spec == 1:
+            link = LINK_FORMAT % (w.fname.replace("\\","/"), w.text)
             source = w.source
-        count += 1
-        out = "1. 【[%s](%s)】`%s` %s%s  \n" % (w.word, link, w.pinyin, source, w.meaning)
+            if source:
+                source = " <sup>[%s]</sup>" % re.sub(r'(方言词典|方言志|方言辞典)$', '', source)
+            else:
+                source = ""
+            count += 1
+            if len(w.meanings) > 1:
+                meaning = "".join(map(lambda x: " " + ORDERS[x[0]] + " " + meaning_text_spec1(x[1]), enumerate(w.meanings)))
+            elif len(w.meanings) == 1:
+                meaning = " " + meaning_text_spec1(w.meanings[0])
+            else:
+                meaning = " "
+            out = "1. 【[%s](%s)】`%s`%s%s  \n" % (w.text, link, w.pien_ien, source, meaning)
+        else:
+            continue
+            # out = "spec 2 TODO\n"
         lines.append(out)
         if count <= 20:
             sample_out.append(out)
     lines.append("**[▲](#音序检索)**  \n")
     open("docs/%s.md"%path, "w", encoding="U8").writelines(lines)
+
+def meaning_text_spec1(meaning):
+    str = meaning.explanation
+    if len(meaning.subs[0].examples) != 0:
+        str = str.rstrip('。')
+        str = str + "：" + "｜".join(meaning.subs[0].examples)
+    return str
 
 dirs = string.ascii_lowercase.replace('w', '')
 write_config()
