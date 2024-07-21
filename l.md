@@ -70,7 +70,6 @@
 1. 【[拉兔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_tv.md#拉兔)】`la1 tv5` <sup>[兴化]</sup> 形容农履过于肥大，显得不整洁、不利索：看他拖拖撒撒的像个～。  
 1. 【[拉渡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_tv.md#拉渡)】`la1 tv6` <sup>[兴化]</sup> 设在人流较少的河流上的渡船，不用艄公，而在船两头用绳索连接两岸的小木桩，过渡者登舟后抽拉绳索，即将船曳向对岸。也称“缆渡”。  
 1. 【[拉弯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_vaen_zz.md#拉弯子)】`la1 vaen1 zz` <sup>[兴化]</sup> 调解、劝和。又说“圆弯子”。  
-1. 【[拉弯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_vaen_zz.md#拉弯子)】`la1 vaen1 zz` <sup>[兴化]</sup> 调节，劝和。  
 1. 【[拉网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_van.md#拉网)】`la1 van3` <sup>[如东]</sup> 一种捕鱼网具。长约1丈，高约5尺。网眼较小。网纲上装着竹竿，网袋口上装着锡砣。作业时，渔人用绳索拉着网纲在港汊里拖，把鱼虾兜进网袋。这种网具，称拉网。  
 1. 【[拉网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_van.md#拉网)】`la1 van3` <sup>[如皋]</sup> ① 一种小渔网，一张网有许多小兜，用绳背动，沿河底兜鱼。 ② 拉动渔网。  
 1. 【[拉线](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_xin.md#拉线)】`la1 xin5` <sup>[如东]</sup> 在两物之间拉一根绳索，或测量长度，或度量水平。  
