@@ -1,4 +1,4 @@
 # 小羌声
-xio1 qian1 shen1
+xio3 qian1 shen1
 > 如皋方言词典
 - 踏水号子之一。领五和三，称五唱三接。
