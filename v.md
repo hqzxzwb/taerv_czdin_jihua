@@ -63,7 +63,7 @@
 1. 【[污糟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_zo.md#污糟)】`v1 zo1` <sup>[兴化]</sup> 肮脏、不洁，这个人一身脏衣装，太～。  
 1. 【[吴大吴大的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_da_v_da_dii.md#吴大吴大的)】`v2 da v2 da dii` <sup>[如皋]</sup> ① 吹牛，说大话。 ② 说话声音响亮刺耳。 ③ 警车等的专用喇叭声：听，～来捉人吖。  
 1. 【[吴二八鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_er_baeh_guei.md#吴二八鬼)】`v2 er6 baeh7 guei3` <sup>[如皋]</sup> 奇巧、诡秘，难捉摸：这家伙～的，你难猜透他的心思。  
-1. 【[吴嘉纪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_jia_ji.md#吴嘉纪)】`v2 jia1 ji5` <sup>[东台]</sup> （16181684）东台安丰人，明末清初著名平民诗人，其著作《陋轩诗集》收录其诗作一千余首。许多诗作出于亲身体验，为贫困的盐民灶户“状难状之景，言难言之情”。其故居在东台安丰镇北王家巷8号。  
+1. 【[吴嘉纪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_jia_ji.md#吴嘉纪)】`v2 jia1 ji5` <sup>[东台]</sup> （1618-1684）东台安丰人，明末清初著名平民诗人，其著作《陋轩诗集》收录其诗作一千余首。许多诗作出于亲身体验，为贫困的盐民灶户“状难状之景，言难言之情”。其故居在东台安丰镇北王家巷8号。  
 1. 【[吴茱萸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_zhv_y.md#吴茱萸)】`v2 zhv1 y2` <sup>[如东]</sup> 芸香科植物吴茱萸，常绿灌木或小乔木，高约5米。幼枝、叶轴、叶柄均密被黄褐色长柔毛。单数羽状复叶，小叶对生，卵形或椭圆形，全缘。聚伞花序。花单性，雌雄异株。花小，绿白色。蒴果扁球形，熟时紫红色。种子1枚，卵圆形，黑色。生长在路边或林中。  
 1. 【[无耻界](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_chr_gae.md#无耻界)】`v2 chr3 gae5` <sup>[如东]</sup> 无人关注的地方：这件事我都撂啊～里啊。  
 1. 【[无大不大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_da_beh_da.md#无大不大)】`v2 da6 beh7 da6` <sup>[东台]</sup> 就是非常之大，也夸张地说“要多大有多大”：新建的厂房～的！  
@@ -688,7 +688,7 @@
 1. 【[弯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen.md#弯)】`vaen5` <sup>[东台]</sup> 中途绕道至某处：你下班～到超市去买点菜家来。  
 1. 【[弯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen.md#弯)】`vaen5` <sup>[兴化]</sup> 行进途中顺拢某处（原文记音vaen1。与其他地区不同。待查。）：“庆春哪，你放假回家的时候，到大娘这儿～一下。”（汪曾祺：《晚饭后的做事》）｜船至老阁～一下上客。  
 1. 【[畈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen.md#畈)】`vaen5` <sup>[东台]</sup> （量词）两条墒沟之间的条状田块，也叫畈子：两～田。  
-1. 【[畈子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_zz.md#畈子)】`vaen5 zz` <sup>[如皋]</sup> 畦，又有长、短、单、双之分。长～的长度，又称“一节田”，约50m100m，为乡间模糊性里程单位，只计节次，不计实长。  
+1. 【[畈子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_zz.md#畈子)】`vaen5 zz` <sup>[如皋]</sup> 畦，又有长、短、单、双之分。长～的长度，又称“一节田”，约50m-100m，为乡间模糊性里程单位，只计节次，不计实长。  
 1. 【[畈子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_zz.md#畈子)】`vaen5 zz` <sup>[如东]</sup> 旱田中高出周围地坪的表面呈弧形的长条棱子。  
 1. 【[畈子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_zz.md#畈子)】`vaen5 zz` <sup>[兴化]</sup> 田块：一～韭菜｜麦～。  
 1. 【[万把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_ba.md#万把)】`vaen6 ba` <sup>[如东]</sup> ① 形容很多：有～唻。 ② 形容物品很贵：值～块钱哎。 ③ 形容非常：这条河有～长。  
@@ -770,7 +770,7 @@
 1. 【[汪塘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_tan.md#汪塘)】`van1 tan2` <sup>[东台]</sup> 低洼的小水塘。  
 1. 【[汪塘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_tan.md#汪塘)】`van1 tan2` <sup>[兴化]</sup> 大水塘。谚曰：一沟短，二沟长，三垛有个大～（三地都在兴西高邮市境内）。  
 1. 【[汪豆腐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_teu_fv.md#汪豆腐)】`van1 teu6 fv` <sup>[兴化]</sup> 豆腐丁和蟹肉、虾仁或肉丁等加芡烧的汤：蟹～｜虾仁～。  
-1. 【[汪同尘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ton_chen.md#汪同尘)】`van1 ton2 chen2` <sup>[东台]</sup> （18911941），东台城人，在南京水师学堂读书期间参加同盟会。抗日战争期间任复旦大学文学教授。1941年日机轰炸重庆，不幸罹难。著有《含英咀华》《中国五千年文化之光》等作品。  
+1. 【[汪同尘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ton_chen.md#汪同尘)】`van1 ton2 chen2` <sup>[东台]</sup> （1891-1941），东台城人，在南京水师学堂读书期间参加同盟会。抗日战争期间任复旦大学文学教授。1941年日机轰炸重庆，不幸罹难。著有《含英咀华》《中国五千年文化之光》等作品。  
 1. 【[汪桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ton.md#汪桶)】`van1 ton3` <sup>[如皋]</sup> 旧时农家场头挖出的塘，供倾倒垃圾积肥。  
 1. 【[汪桶灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ton_huei.md#汪桶灰)】`van1 ton3 huei1` <sup>[如皋]</sup> 汪桶的垃圾肥料统称。  
 1. 【[汪水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_xy.md#汪水)】`van1 xy3` <sup>[东台]</sup> 地面积水向外漫出。  
@@ -789,7 +789,7 @@
 1. 【[王法](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_faeh.md#王法)】`van2 faeh7` <sup>[如东]</sup> 原指封建王朝的法律。现指一般法律：不能没有～。  
 1. 【[王家竹窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ga_zhoh_ku.md#王家竹窠)】`van2 ga zhoh7 ku1` <sup>[如皋]</sup> 地名。在邓元鹿门东。  
 1. 【[王家潭堤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ga_tun_ti.md#王家潭堤)】`van2 ga1 tun2 ti2` <sup>[如东]</sup> 1973年11月14日至1974年1月8日，修筑王家潭堤。自掘苴河闸下游东侧港堤起，绕老海堤外滩面，接卫海提大弯头，全长6.6公里。顶高程75米顶宽8米。动用民力22万人。  
-1. 【[王艮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_gen.md#王艮)】`van2 gen3` <sup>[东台]</sup> （14831541），字汝止，号心斋，原名银，明代泰州安丰场、今安丰镇人。平民教育家、哲学家，中国早期启蒙思想家。出身灶籍，幼为盐丁，中年自学成才，拜王守仁为师，终身讲学不仕。创立“百姓日用即道”为核心的平民理论“大成之学”，也称“安丰之学”“淮南格物”。传有九传弟子1136人，学术界称为“泰州学派”，尊王艮为该学派创始人，著有《明儒王心斋先生遗集》四卷传世。  
+1. 【[王艮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_gen.md#王艮)】`van2 gen3` <sup>[东台]</sup> （1483-1541），字汝止，号心斋，原名银，明代泰州安丰场、今安丰镇人。平民教育家、哲学家，中国早期启蒙思想家。出身灶籍，幼为盐丁，中年自学成才，拜王守仁为师，终身讲学不仕。创立“百姓日用即道”为核心的平民理论“大成之学”，也称“安丰之学”“淮南格物”。传有九传弟子1136人，学术界称为“泰州学派”，尊王艮为该学派创始人，著有《明儒王心斋先生遗集》四卷传世。  
 1. 【[王六刚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_loh_gan.md#王六刚)】`van2 loh8 gan1` <sup>[兴化]</sup> 谓办事不牢靠者：这个小伙～，正事不能倚他。  
 1. 【[王翁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_on.md#王翁)】`van2 on1` <sup>[如皋]</sup> 见“苦鹱鸟儿”。  
 1. 【[王翁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_on.md#王翁)】`van2 on1` <sup>[如皋]</sup> 白胸秧鸡，俗名苦鹱鸟。  
@@ -1127,7 +1127,7 @@
 1. 【[文房四宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_fan_sz_bo.md#文房四宝)】`ven2 fan2 sz5 bo3` <sup>[如东]</sup> 书房中常备的笔、墨、纸砚四种文具。  
 1. 【[文蛤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_guh.md#文蛤)】`ven2 guh` <sup>[如东]</sup> 帘蛤科动物文蛤。宋代称花蛤。宋·彭乘《续墨客挥犀·忌桃李雀蛤》：“海傍有蛤，背有花纹者，土人谓之花蛤。”花蛤即文蛤。明·李时珍《本草纲目》介二：文蛤。贝壳2片，背缘略呈三角形，腹缘略呈圆形。贝壳具外皮，壳顶突出，先端尖，小月面狭长，呈矛头状，卵圆形。韧带黑褐色，突出壳面。壳面有许多长方形或竹叶状的黑褐色纹。壳比蟬鳌薄，个体小，直径约3～5厘米。贝壳内面白色。前闭壳肌痕小，略呈半圆形，后闭壳肌痕大，呈卵圆形。足扁平，舌状。生活在江河入海口浅海泥沙中，食硅藻。  
 1. 【[文蛤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_guh.md#文蛤)】`ven2 guh7` <sup>[东台]</sup> 蛼螯：东台的～号称“天下第一鲜”（见“蛼螯”）。  
-1. 【[文冠果](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_gun_gu.md#文冠果)】`ven2 gun5 gu3` <sup>[如东]</sup> 无患子科植物文冠果，落叶小乔木。高约8米。树皮灰褐色。幼枝紫褐色，被短绒毛。单数羽状复叶，互生，具柄。小叶狭919，椭圆形至披针形，边缘具尖锐锯齿。总状花序，顶生或腋生。花杂性，花瓣白色，带有紫色斑点。蒴果绿色。种子球形，黑褐色。生长在岸坡、沟谷间。  
+1. 【[文冠果](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_gun_gu.md#文冠果)】`ven2 gun5 gu3` <sup>[如东]</sup> 无患子科植物文冠果，落叶小乔木。高约8米。树皮灰褐色。幼枝紫褐色，被短绒毛。单数羽状复叶，互生，具柄。小叶狭9-19，椭圆形至披针形，边缘具尖锐锯齿。总状花序，顶生或腋生。花杂性，花瓣白色，带有紫色斑点。蒴果绿色。种子球形，黑褐色。生长在岸坡、沟谷间。  
 1. 【[文火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_hu.md#文火)】`ven2 hu3` <sup>[如皋]</sup> ① 无焰之火。 ② 微火。  
 1. 【[文雅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_ia.md#文雅)】`ven2 ia3` <sup>[如东]</sup> 温和而有礼貌。  
 1. 【[文洋火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_ian_hu.md#文洋火)】`ven2 ian2 hu3` <sup>[如皋]</sup> 安全火柴。与“武洋火”相对。  

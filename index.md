@@ -93,14 +93,14 @@
 1. 【[儿肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_chan.md#儿肠)】`er2 chan2` <sup>[兴化]</sup> 女子或雌性哺乳动物的输卵管。‖也称“子肠”。  
 1. 【[儿灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_den.md#儿灯)】`er2 den1` <sup>[如皋]</sup> ① 人形灯具。 ② 喻出众者：你充甚的～吖！  
 1. 【[儿儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_er.md#儿儿)】`er2 er` <sup>[兴化]</sup> 孩子：这个～太调皮。｜“人生总受业风吹，三岁～，八十～。”（宋·刘辰翁《一剪梅》）  
-1. 【[儿狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_geu.md#儿狗)】`er2 geu3` <sup>[如东]</sup> 公狗。  
-1. 【[儿狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_geu.md#儿狗)】`er2 geu3` <sup>[如皋]</sup> 公狗。  
-1. 【[儿狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_geu.md#儿狗)】`er2 geu3` <sup>[兴化]</sup> 公狗。  
 1. 【[儿花女花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_hua_ny_hua.md#儿花女花)】`er2 hua1 ny3 hua1` <sup>[兴化]</sup> 儿女：老奶奶孤寡一人，～没得一个。｜“俺衙内老爹身边，～没有，好不单径……”（《金瓶梅词话》九一）  
 1. 【[儿女亲家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_ny_qien_ga.md#儿女亲家)】`er2 ny3 qien5 ga` <sup>[如皋]</sup> 姻亲的双方家族间长辈的关系称。  
 1. 【[儿女亲家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_ny_qien_jia.md#儿女亲家)】`er2 ny3 qien5 jia` <sup>[兴化]</sup> ① 两家儿女相婚配的亲戚关系。 ② 称儿子的岳父、岳母或女儿的公公、婆婆。  
 1. 【[儿时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_shr.md#儿时)】`er2 shr2` <sup>[如东]</sup> 少年时候。  
 1. 【[儿孙自有儿孙福，莫为儿孙当牛马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_suen_cz_ieu_er_suen_foh_mah_vei_er_suen_dan_ngeu_ma.md#儿孙自有儿孙福，莫为儿孙当牛马)】`er2 suen1 cz6 ieu3 er2 suen1 foh7 mah8 vei6 er2 suen1 dan1 ngeu2 ma3` <sup>[东台]</sup> 要教育后代自强不息。  
+1. 【[儿孙满堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_suen_mun_tan.md#儿孙满堂)】`er2 suen1 mun3 tan2` <sup>[如东]</sup> 形容家庭人丁兴旺。  
+1. 【[儿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_zz.md#儿子)】`er2 zz` <sup>[如东]</sup> 自己的下一代男孩称儿子。亲生的，称生子；收养的，称养子；过继的，称嗣子。  
+1. 【[耳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er.md#耳)】`er3` <sup>[泰兴]</sup> 理睬：没工夫～他  
 [更多...](./e.md)
 ## F
 1. 【[……疯吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_nga.md#……疯吖)】`fon1 nga` <sup>[东台]</sup> 同“呼啊”。用法也大致相同：难听吖～。  
@@ -521,8 +521,6 @@
 1. 【[榆树叶<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_shv_ih_r.md#榆树叶<sub>儿</sub>)】`y2 shv6 ih8 r` <sup>[如皋]</sup> 学名榆钱，荒年可充饥。  
 [更多...](./y.md)
 ## Z
-1. 【[咋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/za.md#咋)】`za3` <sup>[东台]</sup> “怎吖”的合音，疑问代词：这个事你～说？｜他～还不到？  
-1. 【[咋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/za.md#咋)】`za3` <sup>[兴化]</sup> 怎、怎么：～办？｜你～不去的？  
 1. 【[咋得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/za_deh.md#咋得)】`za3 deh` “怎吖”合音为“咋”，“咋得”意思是“怎么可以，怎么能”：这吖简单，咋得不会做的啦？  
 1. 【[咋得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/za_deh.md#咋得)】`za3 deh7` 怎么能，怎么会：～箇个样子的啦？/怎么会这个样子的？  
 1. 【[咋得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/za_deh.md#咋得)】`za3 deh7` <sup>[泰县]</sup> 怎么能、怎么会：这个人身体蛮好的，～死的？  
@@ -541,4 +539,6 @@
 1. 【[栽秧寒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_ian_hun.md#栽秧寒)】`zae1 ian1 hun2` <sup>[东台]</sup> 栽秧时节或者此前的寒流气候。  
 1. 【[栽猛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_mon_zz.md#栽猛子)】`zae1 mon3 zz` <sup>[兴化]</sup> 游泳时头朝下钻入水中的动作：这年秋场……先干后淹，～在水里捞上米几把稻子。（兴文《地主逼出新发周》）  
 1. 【[栽拿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_na.md#栽拿)】`zae1 na2` <sup>[兴化]</sup> 谓心中有数：你只要说一声，我就～唈。  
+1. 【[栽培](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_pei.md#栽培)】`zae1 pei2` <sup>[如东]</sup> ① 种植。 ② 比喻培养。  
+1. 【[栽培](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_pi.md#栽培)】`zae1 pi` <sup>[东台]</sup> ① 培养：～孩子要几十万。 ② 舍得投入：小伙出国深造，我准备～他十万块。  
 [更多...](./z.md)

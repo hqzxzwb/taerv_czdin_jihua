@@ -690,7 +690,7 @@
 1. 【[大荤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_huen.md#大荤)】`da6 huen1` <sup>[兴化]</sup> 泛指鸡、鸭、猪肉之类脂肪较多的辈菜：你的病才好，千万要忌～。  
 1. 【[大寒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_hun.md#大寒)】`da6 hun2` <sup>[如东]</sup> 二十四节气之一，在阳历1月20日或21日。是我国气候最冷的时期。（原文“阴历1月“，误。）  
 1. 【[大寒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_hun.md#大寒)】`da6 hun2` <sup>[东台]</sup> 二十四节气之一。一般在阳历1月20或21日。  
-1. 【[大寒里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_hun_lii.md#大寒里)】`da6 hun2 lii` <sup>[如皋]</sup> 多在阳历的1月2123间交大寒，约有15天。旧俗“太岁不在家，百无禁忌”。民间多在此期舂粪池、落葬、嫁娶。  
+1. 【[大寒里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_hun_lii.md#大寒里)】`da6 hun2 lii` <sup>[如皋]</sup> 多在阳历的1月21-23间交大寒，约有15天。旧俗“太岁不在家，百无禁忌”。民间多在此期舂粪池、落葬、嫁娶。  
 1. 【[大寒里的太岁——不问事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_hun_lii_dii_tae_xy_beh_ven_shr.md#大寒里的太岁——不问事)】`da6 hun2 lii dii tae5 xy5 beh7 ven6 shr6` <sup>[东台]</sup>   
 1. 【[大户](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_hv.md#大户)】`da6 hv6` <sup>[东台]</sup> 有名望的人家，或人口多、分支繁的家族。也指在某一方面比较突出的单位：用电～。  
 1. 【[大户人家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_hv_ren_ga.md#大户人家)】`da6 hv6 ren2 ga` <sup>[如东]</sup> 有钱的人家。也称大家人家：她是～的人。  
@@ -1089,7 +1089,7 @@
 1. 【[带啊身上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_a_shen_shan.md#带啊身上)】`dae5 a shen1 shan` <sup>[东台]</sup> 怀孕了，也叫“双吖身”。  
 1. 【[带啊身上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_a_shen_shan.md#带啊身上)】`dae5 a shen1 shan6` <sup>[如东]</sup> 妇女已经怀孕了。  
 1. 【[带板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_baen.md#带板)】`dae5 baen3` <sup>[兴化]</sup> 为演唱打拍子。见“打板”。  
-1. 【[带板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_baen.md#带板)】`dae5 baen3` <sup>[兴化]</sup> 为演唱击拍，加强节奏感：所以嘀哒，嘀哒，都一儿，啦的哒，跟～差不多。（《武松》二）  
+1. 【[带板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_baen.md#带板)】`dae5 baen3` <sup>[兴化]</sup> 为演唱击拍，加强节奏感：……所以嘀哒，嘀哒，都一儿，啦的哒，跟～差不多。（《武松》二）  
 1. 【[带宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_bo_r.md#带宝<sub>儿</sub>)】`dae5 bo3 r` <sup>[如皋]</sup> 私情孕后，另择婚配。  
 1. 【[带彩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_cae.md#带彩)】`dae5 cae3` <sup>[如皋]</sup> 玩手法蒙骗。  
 1. 【[带彩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_cae.md#带彩)】`dae5 cae3` <sup>[兴化]</sup> 以迅速敏捷的动作或特殊装置把真实的动作掩盖起来：杨爷两个眼睛眨也不眨地望着他，恐防白胜舀酒时～。（扬一《智取生辰纲》）  
@@ -1270,7 +1270,7 @@
 1. 【[单人帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_ren_ban.md#单人帮)】`daen1 ren2 ban1` <sup>[如皋]</sup> （亻）：仁，信，你。  
 1. 【[单人舍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_ren_sha.md#单人舍)】`daen1 ren2 sha5` <sup>[兴化]</sup> 搭在田间看护庄稼的小屋。  
 1. 【[单身人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_shen_ren.md#单身人)】`daen1 shen ren2` <sup>[兴化]</sup> ① 一人独处，没有或未带眷属：他是～，在食堂带伙食。 ② 未携带重物的行人：“河里昨晚就有人跑，～过河很便当的。”（《老残游记》十六）  
-1. 【[单头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_teu.md#单头)】`daen1 teu2` <sup>[如皋]</sup> 肥育中的青年猪，在小猪与壮猪之间，体重60100斤。  
+1. 【[单头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_teu.md#单头)】`daen1 teu2` <sup>[如皋]</sup> 肥育中的青年猪，在小猪与壮猪之间，体重60-100斤。  
 1. 【[单头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_teu.md#单头)】`daen1 teu2` <sup>[东台]</sup> 零头，零碎的。  
 1. 【[单头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_teu.md#单头)】`daen1 teu2` <sup>[兴化]</sup> ① 单独的、分的：河下行的全是～小船。 ② 零星、小额的：他从口袋里掏出一把～票子，数半天才三块多钱。  
 1. 【[单头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_teu_r.md#单头<sub>儿</sub>)】`daen1 teu2 r` <sup>[泰县]</sup> 阉割过的未成熟约一百斤左右的猪。  
@@ -2291,7 +2291,7 @@
 1. 【[叼皮耷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_pi_dah.md#叼皮耷)】`dio1 pi2 dah7` <sup>[兴化]</sup> 缩脚语——～舌（折）：这起生意弄个～——折咖（亏啊）。  
 1. 【[叼皮耷舌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_pi_dah_shih.md#叼皮耷舌)】`dio1 pi2 dah7 shih8` <sup>[兴化]</sup> 大舌头，说话不清楚：你～的，少说两句好。  
 1. 【[叼子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_zz.md#叼子)】`dio1 zz` <sup>[如东]</sup> 舌尖不灵活，说话不清楚。  
-1. 【[叼子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_zz.md#叼子)】`dio1 zz` <sup>[如皋]</sup> 因舌偏长而常把齿头发成舌头音的人。（tstʃ）  
+1. 【[叼子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_zz.md#叼子)】`dio1 zz` <sup>[如皋]</sup> 因舌偏长而常把齿头发成舌头音的人。（ts-tʃ）  
 1. 【[雕刀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_do_r.md#雕刀<sub>儿</sub>)】`dio1 do1 r` <sup>[如东]</sup> 工具。金属制，刀身梳子形，头尖，口锋利，背厚，有柄。用以雕刻或切削竹木。  
 1. 【[雕画匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_hua_qian.md#雕画匠)】`dio1 hua6 qian6` <sup>[如皋]</sup> 专事木雕、砖雕、石雕的工匠。  
 1. 【[雕画砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_hua_zhun.md#雕画砖)】`dio1 hua6 zhun1` <sup>[如皋]</sup> ① 供作砖雕的精制砖。砖质细腻，无气孔、无杂质。 ② 有砖雕的砖。  
@@ -2594,8 +2594,8 @@
 1. 【[东境](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_jien.md#东境)】`don1 jien` <sup>[如皋]</sup> 东边。  
 1. 【[东境](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_jien.md#东境)】`don1 jien` <sup>[泰县]</sup> 东面：他家在～。  
 1. 【[东境窜毫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_jien_cun_ho.md#东境窜毫)】`don1 jien cun5 ho2` <sup>[如皋]</sup> 黎明时分，一道毫光射向黑暗的天空。就一刹那。  
-1. 【[东凌港](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_lien_gan.md#东凌港)】`don1 lien2 gan3` <sup>[如东]</sup> 如东渔港。位于兵房镇东安闸外。高潮位，水深810米，低潮位，水深5米。港宽3050米。常航能力5080吨，最大通航能力400吨。能泊5080吨渔船。  
-1. 【[东凌堤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_lien_ti.md#东凌堤)】`don1 lien2 ti2` <sup>[如东]</sup> 东凌堤分两期工程：：老东凌堤：1981年1 1月30日至1982年1月8日，为匡围东凌垦区而修筑。县政府成立围垦工程指挥部，顾永乐任指挥，调集掘东、岔河、双甸、马塘、丰剁、掘港6区民工近8万人参加施工。自东安闸北港堤起，绕十贯堤外滩，接北坎新堤东北角，全长16.58公里。完成土方355万立方米。顶高程88.5米，顶宽6米。｜新东凌堤：2007年1月24日至2007年10月15日结束，筑堤14.005公里。采用机械化作业。动用民力0.15万人。  
+1. 【[东凌港](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_lien_gan.md#东凌港)】`don1 lien2 gan3` <sup>[如东]</sup> 如东渔港。位于兵房镇东安闸外。高潮位，水深8-10米，低潮位，水深5米。港宽30-50米。常航能力50-80吨，最大通航能力400吨。能泊50-80吨渔船。  
+1. 【[东凌堤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_lien_ti.md#东凌堤)】`don1 lien2 ti2` <sup>[如东]</sup> 东凌堤分两期工程：<br>老东凌堤：1981年1 1月30日至1982年1月8日，为匡围东凌垦区而修筑。县政府成立围垦工程指挥部，顾永乐任指挥，调集掘东、岔河、双甸、马塘、丰剁、掘港6区民工近8万人参加施工。自东安闸北港堤起，绕十贯堤外滩，接北坎新堤东北角，全长16.58公里。完成土方355万立方米。顶高程8-8.5米，顶宽6米。<br>新东凌堤：2007年1月24日至2007年10月15日结束，筑堤14.005公里。采用机械化作业。动用民力0.15万人。  
 1. 【[东路鸡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_lv_ji_zz.md#东路鸡子)】`don1 lv6 ji1 zz` <sup>[如皋]</sup> 如皋三黄鸡。泰州称如皋为东路。  
 1. 【[东斜西歪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_qia_xi_huae.md#东斜西歪)】`don1 qia2 xi1 huae1` <sup>[如东]</sup> 歪歪斜斜，很不整齐的样子。  
 1. 【[东席不管西席](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_qieh_beh_gun_xi_qieh.md#东席不管西席)】`don1 qieh8 beh7 gun3 xi1 qieh8` <sup>[东台]</sup> 以酒席喻指只管分内事。  

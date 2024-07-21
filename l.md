@@ -111,7 +111,7 @@
 1. 【[哪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la.md#哪)】`la3` <sup>[如东]</sup> 疑问代词。  
 1. 【[哪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la.md#哪)】`la3` <sup>[泰县]</sup> 难道，哪里：这事～是我做的？  
 1. 【[哪啊咑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_a_da.md#哪啊咑)】`la3 a da3` <sup>[兴化]</sup> （兴化东部乡镇口语）问哪儿去了：冯二家小伙～？  
-1. 【[哪把*](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ba.md#哪把*)】`la3 ba3` <sup>[兴化]</sup> 费力、费时：这吖多的菜～一吃吤！｜这吖多的东西～一搬㖸！  
+1. 【[哪把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ba.md#哪把)】`la3 ba3` <sup>[兴化]</sup> 费力、费时：这吖多的菜～一吃吤！｜这吖多的东西～一搬㖸！  
 1. 【[哪百年上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_boh_nin_shan.md#哪百年上)】`la3 boh7 nin2 shan` <sup>[如皋]</sup> 年代久远。  
 1. 【[哪百年子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_boh_nin_zz.md#哪百年子)】`la3 boh7 nin2 zz` <sup>[东台]</sup> 对时间太久的夸张说法：那是～的事，哪个记得？  
 1. 【[哪对过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_duei_gu.md#哪对过)】`la3 duei5 gu5` <sup>[如东]</sup> ① 什么地方：东西放吖～？ ② 什么地方的对面。  
@@ -1340,7 +1340,7 @@
 1. 【[粒米度三光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_mi_tv_saen_guan.md#粒米度三光)】`lieh8 mi3 tv6 saen1 guan1` <sup>[东台]</sup> （俗语）极言粮食之少尚能度过艰难的岁月，要求人们克勤克俭，杜绝奢侈。  
 1. 【[粒数粒的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_shv_lieh_dii.md#粒数粒的)】`lieh8 shv3 lieh8 dii` <sup>[如皋]</sup> 一粒一粒的，很分清。  
 1. 【[令尊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_zuen.md#令尊)】`lien zuen1` <sup>[如东]</sup> 旧时对他人父亲的尊称。  
-1. 【[拎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien.md#拎)】`lien1` <sup>[如皋]</sup> 提：～水、～箱子。  
+1. 【[拎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien.md#拎)】`lien1` <sup>[如皋]</sup> 提：～水、～箱子  
 1. 【[拎草鞋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_co_hae.md#拎草鞋)】`lien1 co3 hae2` <sup>[兴化]</sup> 见“提草鞋”。  
 1. 【[拎起来不像个粽子，沰下去不像个糍粑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_qi_lae_beh_qian_gu_zon_zz_dah_ha_qy_beh_qian_gu_cz_ba.md#拎起来不像个粽子，沰下去不像个糍粑)】`lien1 qi3 lae2 beh7 qian6 gu zon5 zz dah7 ha6 qy5 beh7 qian6 gu cz2 ba1` <sup>[东台]</sup> 詈语，不伦不类，不像样子。  
 1. 【[拎神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_shen.md#拎神)】`lien1 shen2` <sup>[如皋]</sup> ① 注意：他听话蛮～。 ② 引起注意：听到这话，他拎吖神。 ③ 出神：他听到消息之后，一个人坐啊下～。 ④ 婴儿要排大小便突然静下来的神态。  
@@ -1365,12 +1365,12 @@
 1. 【[凌凙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_tah.md#凌凙)】`lien2 tah` <sup>[兴化]</sup> 冰锥：而今天气变暖，屋檐口好多年没得～咖。  
 1. 【[拎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien.md#拎)】`lien2, lien1` 提  
 1. 【[拎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien.md#拎)】`lien2` <sup>[如东]</sup> 提：～篮子。  
-1. 【[拎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien.md#拎)】`lien2` <sup>[兴化]</sup> ① 提：～水｜～篮子。 ② （借）概括：把问题～起来谈。《广韵·青韵》郎丁切｜“～，手悬捻物”。  
+1. 【[拎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien.md#拎)】`lien2` <sup>[兴化]</sup> ① 提：～水、～篮子。 ② （借）概括：把问题～起来谈。  
 1. 【[拎包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_bo.md#拎包)】`lien2 bo1` <sup>[兴化]</sup> 手提包：老周从～里拿出介绍信。  
 1. 【[拎草鞋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_co_hae.md#拎草鞋)】`lien2 co3 hae2` <sup>[东台]</sup> 形容做不了大事，只能听人支派或协助别人做小事。  
 1. 【[棂子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_zz.md#棂子)】`lien2 zz` <sup>[如东]</sup> 窗户中间安装的木槅子。  
 1. 【[淋灰水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_huei_shuei.md#淋灰水)】`lien2 huei1 shuei3` <sup>[如皋]</sup> 见“𤃀灰水”。  
-1. 【[灵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien.md#灵)】`lien2` <sup>[如皋]</sup> 蟋蟀精子：过～。  
+1. 【[灵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien.md#灵)】`lien2` <sup>[如皋]</sup> 蟋蟀精子：过～  
 1. 【[灵床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_chuan.md#灵床)】`lien2 chuan2` <sup>[东台]</sup> 停放尸体的床铺。  
 1. 【[灵泛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_faen.md#灵泛)】`lien2 faen` 聪明  
 1. 【[灵泛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_faen.md#灵泛)】`lien2 faen` <sup>[如皋]</sup> ① 聪明灵慧。 ② 如皋白蒲义为干净。  
@@ -1381,6 +1381,7 @@
 1. 【[灵光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_guan.md#灵光)】`lien2 guan1` <sup>[东台]</sup> ① 灵验：瞎子算命不～。 ② 质量好：这台电脑～！  
 1. 【[灵光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_guan.md#灵光)】`lien2 guan1` <sup>[兴化]</sup> ① 好、有效应：氟哌酸治泻肚子蛮～的。 ② 有办法：“……调度员听这么一说，～，随口答应准时出车。”（马春阳《你该住红楼》）  
 1. 【[灵詥<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_guh_r.md#灵詥<sub>儿</sub>)】`lien2 guh r` <sup>[如皋]</sup> 用肚子说鬼话的巫人。  
+1. 【[灵蛊<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_gv_r.md#灵蛊<sub>儿</sub>)】`lien2 gv3 r` <sup>[泰县]</sup> 巫婆：这个人说话像～。  
 1. 【[灵菩萨不要细祷祝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_pv_saeh_beh_io_xi_do_zhoh.md#灵菩萨不要细祷祝)】`lien2 pv2 saeh7 beh7 io5 xi5 do3 zhoh7` <sup>[东台]</sup> ［喻］在明白人面前不需要说得太多太细。  
 1. 【[灵气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_qi.md#灵气)】`lien2 qi5` <sup>[如皋]</sup> ① 灵验的程度：单看他的话哿有～。 ② 灵魂及其显现。  
 1. 【[灵俏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_qio.md#灵俏)】`lien2 qio` <sup>[兴化]</sup> 敏捷、反应快：他眼尖手快，蛮～的。  
@@ -1392,7 +1393,7 @@
 1. 【[玲珑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_lon.md#玲珑)】`lien2 lon, lien3 lon` <sup>[东台]</sup> ① 形容物体精巧细致； ② 形容人灵活敏捷。（“玲”有时读成上声）：他不太～。  
 1. 【[玲珑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_lon.md#玲珑)】`lien2 lon` <sup>[兴化]</sup> 听觉灵敏：爷爷身体蛮好，就是耳朵不～吖。  
 1. 【[玲珑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_lon.md#玲珑)】`lien2 lon2` <sup>[如东]</sup> 精致，美丽。  
-1. 【[疄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien.md#疄)】`lien2` <sup>[兴化]</sup> 田垄：田里长吖三～小麦，两～油菜。《广韵·真韵》力珍切｜“～，田垄”。  
+1. 【[疄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien.md#疄)】`lien2` <sup>[兴化]</sup> 田垄：田里长吖三～小麦，两～油菜。  
 1. 【[疄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_zz.md#疄子)】`lien2 zz` <sup>[如皋]</sup> 田垄：番芋、芋头～。  
 1. 【[菱米子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_mi_zz.md#菱米子)】`lien2 mi3 zz` <sup>[兴化]</sup> 菱角去皮后的果肉。  
 1. 【[轮饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_faen.md#轮饭)】`lien2 faen6` <sup>[如皋]</sup> 旧时，给塾师、上人、军人等轮流供应饮食的习俗。  
@@ -1425,7 +1426,6 @@
 1. 【[零碎酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_xy_jieu.md#零碎酒)】`lien2 xy5 jieu3` <sup>[东台]</sup> ［喻］事情未结束，点点滴滴、缠缠拉拉不得了结。  
 1. 【[零碎食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_xy_sheh.md#零碎食)】`lien2 xy5 sheh8` <sup>[如皋]</sup> 一日三餐以外的进食。  
 1. 【[零嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_zuei.md#零嘴)】`lien2 zuei3` <sup>[兴化]</sup> 零食：他喜欢吃～。  
-1. 【[灵蛊<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_gv_r.md#灵蛊<sub>儿</sub>)】`lien3 gv3 r` <sup>[泰县]</sup> 巫婆：这个人说话像～。  
 1. 【[领](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien.md#领)】`lien3` <sup>[兴化]</sup> 抚育：（老头子）生活条条理理，两个细小的～得滑滑滴滴的。（兴文《“勤俭”二字不可分家》）  
 1. 【[领阵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_chen.md#领阵)】`lien3 chen6` <sup>[兴化]</sup> 挑头、主事：“过去发大水，几十家合一个圩子，没有人～，张不顾李，李不顾张……”（马春阳《风里雨里》）  
 1. 【[领褂皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_gua_pi.md#领褂皮)】`lien3 gua pi2` <sup>[泰县]</sup> 衣领：抓住你的。  
@@ -2230,7 +2230,7 @@
 1. 【[老头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_teu_r.md#老头<sub>儿</sub>)】`lo3 teu2 r` <sup>[兴化]</sup> 见“老头子”。  
 1. 【[老头<sub>儿</sub>帽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_teu_r_mo_zz.md#老头<sub>儿</sub>帽子)】`lo3 teu2 r mo6 zz` <sup>[如皋]</sup> 老式锅箱儿帽子。  
 1. 【[老头<sub>儿</sub>帽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_teu_r_mo_zz.md#老头<sub>儿</sub>帽子)】`lo3 teu2 r mo6 zz` <sup>[如皋]</sup> 见“锅箱儿帽子”。  
-1. 【[老头鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_teu_y.md#老头鱼)】`lo3 teu2 y2` <sup>[如东]</sup> 鮟鱇科动物黄鮟鱇，也叫蛤蟆鱼。身体柔软，无鳞，头和体的边缘有许多皮质突起。头大，扁平，呈圆盘状。口宽大，口底前部黄色，下颌有可倒伏尖牙12行。第一背鳍6鳍棘，第二棘位于吻背部，顶端有皮质穗。臀鳍具811鳍条。脸鳍臂状。冷暖性底层鱼类，常栖伏在海底捕食。能发出像老人咳嗽的声音。所以也称老头鱼。  
+1. 【[老头鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_teu_y.md#老头鱼)】`lo3 teu2 y2` <sup>[如东]</sup> 鮟鱇科动物黄鮟鱇，也叫蛤蟆鱼。身体柔软，无鳞，头和体的边缘有许多皮质突起。头大，扁平，呈圆盘状。口宽大，口底前部黄色，下颌有可倒伏尖牙1-2行。第一背鳍6鳍棘，第二棘位于吻背部，顶端有皮质穗。臀鳍具8-11鳍条。脸鳍臂状。冷暖性底层鱼类，常栖伏在海底捕食。能发出像老人咳嗽的声音。所以也称老头鱼。  
 1. 【[老头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_teu_zz.md#老头子)】`lo3 teu2 zz` <sup>[兴化]</sup> ① 年老的男子。 ② 背称父亲。 ③ 老妇背称丈夫。 ④ 旧时帮会的头头：水火帮～。也称“老头儿”。  
 1. 【[老弟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ti.md#老弟)】`lo3 ti6` <sup>[如东]</sup> 对年轻男子的称呼。  
 1. 【[老弟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ti.md#老弟)】`lo3 ti6` <sup>[如皋]</sup> ① 面称、敬称弟弟。兼称弟媳、妹婿。 ② 社交中对年少者的敬称。  
@@ -2401,7 +2401,7 @@
 1. 【[陆家滩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_ga_taen.md#陆家滩)】`loh8 ga1 taen1` <sup>[东台]</sup> 东台城的一个旧地名，位于鼓楼步行街东一华里处。  
 1. 【[陆英](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_ien.md#陆英)】`loh8 ien1` <sup>[如东]</sup> 忍冬科植物蒴藋花。  
 1. 【[陆军头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_jyen_teu.md#陆军头)】`loh8 jyen1 teu2` <sup>[如皋]</sup> 旧时陆军规定的髮式，只顶部有马蹄形短髮桩，余剪光。  
-1. 【[陆骧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_xian.md#陆骧)】`loh8 xian1` <sup>[东台]</sup> （19051930），东台最早的中共党员之一。青年时学习马列主义追求真理。“五卅惨案”发生后，在南通积极参加反帝斗争。后因叛徒告密被捕，坚贞不屈，就义时年仅25岁。  
+1. 【[陆骧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_xian.md#陆骧)】`loh8 xian1` <sup>[东台]</sup> （1905-1930），东台最早的中共党员之一。青年时学习马列主义追求真理。“五卅惨案”发生后，在南通积极参加反帝斗争。后因叛徒告密被捕，坚贞不屈，就义时年仅25岁。  
 1. 【[砻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon.md#砻)】`lon2` <sup>[如东]</sup> 稻谷破壳取米的农具，由上臼、下臼、摇擘和支座组成。砻臼面上镶硬木或竹齿，工作时，下臼不动，人力推动上臼旋转，借臼齿搓擦，使稻壳裂脱。  
 1. 【[砻糠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_kan.md#砻糠)】`lon2 kan1` <sup>[如东]</sup> 稻谷砻过后脱下的外壳。  
 1. 【[笼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon.md#笼)】`lon2` <sup>[如东]</sup> 厨具。木制或竹制，方形或圆形。每一层，叫一格、一扁。可以叠加。用以蒸馒头。也叫笼屉。  
@@ -2738,7 +2738,7 @@
 1. 【[乱砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_zhun.md#乱砖)】`lun6 zhun1` <sup>[兴化]</sup> 不能整齐码放的碎砖：～堆子。  
 1. 【[乱砖<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_zhun_r.md#乱砖<sub>儿</sub>)】`lun6 zhun1 r` <sup>[如皋]</sup> 不成型断砖，但不碎。  
 1. 【[乱砖<sub>儿</sub>墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_zhun_r_qian.md#乱砖<sub>儿</sub>墙)】`lun6 zhun1 r qian2` <sup>[如皋]</sup> 用乱砖砌的墙。  
-1. 【[卢秉枢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_bien_shv.md#卢秉枢)】`lv2 bien3 shv1` <sup>[东台]</sup> 东台梁垛人（19021942），原国民政府驻菲律宾领事馆主事，为了维护祖国利益，1942年被入侵菲律宾的日军杀害。  
+1. 【[卢秉枢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_bien_shv.md#卢秉枢)】`lv2 bien3 shv1` <sup>[东台]</sup> 东台梁垛人（1902-1942），原国民政府驻菲律宾领事馆主事，为了维护祖国利益，1942年被入侵菲律宾的日军杀害。  
 1. 【[嚧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv.md#嚧)】`lv2` <sup>[兴化]</sup> 呼猪声：～。《广韵·模韵》落胡切｜“～，呼猪声也。”  
 1. 【[攎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv.md#攎)】`lv2` <sup>[如东]</sup> ① 把东西抹掉：用搌布把桌上～下子。 ② 打：～他一巴掌。 ③ 把分散的东西收拢：把地下的黄豆～起来。  
 1. 【[攎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv.md#攎)】`lv2` <sup>[如皋]</sup> ① 一种聚集动作：把桌上的花生壳儿～起来。 ② 揩抹：～桌子。 ③ 全部拿取：～钱。～啊走啊。 ④ 轻挠：身上痒，不能抓，～～。在身上～～摸摸。  

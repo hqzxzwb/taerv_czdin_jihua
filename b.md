@@ -1384,14 +1384,14 @@
 1. 【[鳊花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_hua.md#鳊花)】`bin1 hua1` <sup>[如东]</sup> 鲤科动物翘嘴红鲐，体型较大。  
 1. 【[鳊鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_y.md#鳊鱼)】`bin1 y2` <sup>[如东]</sup> 鲤科动物三角鲂。  
 1. 【[鳊鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_y.md#鳊鱼)】`bin1 y2` <sup>[东台]</sup> 一种淡水鱼，身体侧扁，头小而尖，鳞细。  
-1. 【[鳊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_zz.md#鳊子)】`bin1 zz` <sup>[如东]</sup> 鲻鱼科动物鳊子，体长57厘米。身体长偏圆形，背部青黑色，腹部白色。生活在泥沙底质的近海，常活动在潮头边上。食浮游生物。肉质鲜嫩，营养丰富。是如东常见鱼种。  
+1. 【[鳊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_zz.md#鳊子)】`bin1 zz` <sup>[如东]</sup> 鲻鱼科动物鳊子，体长5-7厘米。身体长偏圆形，背部青黑色，腹部白色。生活在泥沙底质的近海，常活动在潮头边上。食浮游生物。肉质鲜嫩，营养丰富。是如东常见鱼种。  
 1. 【[匾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin.md#匾)】`bin3` <sup>[东台]</sup> ① 在上面题字作为标记或贺礼、赞颂的长方形牌子。 ② 用竹篾丝制成的器具，圆形或椭圆形，有边框。  
 1. 【[匾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_zz.md#匾子)】`bin3 zz` <sup>[如东]</sup> 器具。柳条编制，圆形，体积较小，宽约35厘米，高约15厘米。放置针线等用具。  
 1. 【[匾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_zz.md#匾子)】`bin3 zz` <sup>[如皋]</sup> 平盘状篾器。置粉不漏。  
 1. 【[扁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin.md#扁)】`bin3` <sup>[如皋]</sup> ① 平：大～脸。 ② 凹：丁香花分公、母，母花是～花。  
 1. 【[扁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin.md#扁)】`bin3` <sup>[泰县]</sup> 身体侧斜不正：～过身子。  
 1. 【[扁粑粑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_ba_ba.md#扁粑粑)】`bin3 ba1 ba1` <sup>[如皋]</sup> 状很扁的物体：馒头酵太𣻏，蒸起馒头来不站笼，像个～。这种鱼的身子是～儿。  
-1. 【[扁担肩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_daen_jin_zz.md#扁担肩子)】`bin3 daen jin1 zz` <sup>[如皋]</sup> 扁担两头的止滑装置。木扁担装12根短桩，竹扁担削成蛇头形。  
+1. 【[扁担肩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_daen_jin_zz.md#扁担肩子)】`bin3 daen jin1 zz` <sup>[如皋]</sup> 扁担两头的止滑装置。木扁担装1-2根短桩，竹扁担削成蛇头形。  
 1. 【[扁担系<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_daen_xi_r.md#扁担系<sub>儿</sub>)】`bin3 daen xi6 r` <sup>[如皋]</sup> ① 一付担绳。 ② 一付货络儿。  
 1. 【[扁担](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_daen.md#扁担)】`bin3 daen5` <sup>[如东]</sup> 工具。长条形，木制或竹制。用以挑东西。  
 1. 【[扁担](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_daen.md#扁担)】`bin3 daen5-taen` <sup>[东台]</sup> 挑东西或抬东西的工具，用竹片或木头制成。  

@@ -268,7 +268,7 @@
 1. 【[汽炣水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_hu_shuei.md#汽炣水)】`qi5 hu shuei3` <sup>[东台]</sup> 同“汽涴水”  
 1. 【[汽炣头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_hu_teu.md#汽炣头)】`qi5 hu teu2` <sup>[如皋]</sup> 头部易出汗，冒热气。  
 1. 【[汽汗水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_hun_shuei.md#汽汗水)】`qi5 hun6 shuei3` <sup>[兴化]</sup> 水蒸汽凝成的水滴：（他）把脸靠在笼上熏，熏得满脸的～……（《皮五辣子》四）。  
-1. 【[汽油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_ieu.md#汽油)】`qi5 ieu2` <sup>[如东]</sup> 碳氢化合物的混合液体，是分馏石油时，沸点范围大约在40°200°之间所取得的馏分，易挥发燃点很低供做内燃机燃料、溶剂等。  
+1. 【[汽油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_ieu.md#汽油)】`qi5 ieu2` <sup>[如东]</sup> 碳氢化合物的混合液体，是分馏石油时，沸点范围大约在40°-200°之间所取得的馏分，易挥发燃点很低供做内燃机燃料、溶剂等。  
 1. 【[汽油灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_ieu_den.md#汽油灯)】`qi5 ieu2 den1` <sup>[如皋]</sup> 通过装置将煤油汽化喷燃的灯，亮度极高，旧时广场、戏园多采用。  
 1. 【[汽油灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_ieu_den.md#汽油灯)】`qi5 ieu2 den1` <sup>[兴化]</sup> 汽灯，白热照明灯具的一种。也作“气油灯”。  
 1. 【[汽涴水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_un_shuei.md#汽涴水)】`qi5 un shuei3` <sup>[东台]</sup> 也叫汽炣水。热的水蒸气遇到冷的物品，在其表面凝结而成的水。  
@@ -1330,7 +1330,7 @@
 1. 【[邱公祠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_gon_cz.md#邱公祠)】`qieu1 gon1 cz2` <sup>[如皋]</sup> 原在如城老体育场东侧，祀明·嘉靖年间扬州副将邱陞。因其在如皋杀倭寇而牺牲。受皇封，立庙祭祀。  
 1. 【[鳅宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_bo_r.md#鳅宝<sub>儿</sub>)】`qieu1 bo3 r` <sup>[如皋]</sup> 见“鳅鱼”。  
 1. 【[鳅鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_y.md#鳅鱼)】`qieu1 y2` <sup>[如皋]</sup> 鳅。陪葬时，称地龙。  
-1. 【[鳅鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_y.md#鳅鱼)】`qieu1 y2` <sup>[东台]</sup> 常见的为泥鳅，体长而侧扁，口小，有35对须，鳞细小，侧线不完全。  
+1. 【[鳅鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_y.md#鳅鱼)】`qieu1 y2` <sup>[东台]</sup> 常见的为泥鳅，体长而侧扁，口小，有3-5对须，鳞细小，侧线不完全。  
 1. 【[鳅鱼屌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_y_dio_r.md#鳅鱼屌<sub>儿</sub>)】`qieu1 y2 dio3 r` <sup>[如皋]</sup> 见“鳅鱼”。  
 1. 【[㥢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu.md#㥢)】`qieu2` 因事物不称心而失去理智，胡闹；用于形容这样的人。  
 1. 【[㥢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu.md#㥢)】`qieu2` <sup>[如东]</sup> 脾气固执。  
@@ -1888,7 +1888,7 @@
 1. 【[阙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh.md#阙)】`qiuh7` <sup>[如皋]</sup> ① 姓。 ② 地名通名：桥梓～，在夏堡乡。  
 1. 【[掘东堤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_don_ti.md#掘东堤)】`qiuh8 don1 ti2` <sup>[如东]</sup> 匡围掘东垦区而修筑。起自盐场堤九贯，向南至遥望港，折向西接七贯竖堤，全长6.3公里。掘东区调集民工0.98万人，1971年1l月20日开工，至次年元月18日竣工，完成土方105万立方米。顶高程7米，顶宽：南北竖堤8米，东西横堤6米。三港宽而深修筑堤岸困难。掘东区采用“人海战术”完成。堤防筑成后，三港及其两侧成为险段，为防汛重点。近年港槽逐渐淤积，险情趋于缓和。  
 1. 【[掘港场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_gan_chan.md#掘港场)】`qiuh8 gan3 chan2` <sup>[如东]</sup> 宋·太祖赵匡胤建隆元年（960年），掘港煎盐亭改建为如皋县掘港盐场，隶属于淮南东路泰州军。清末民初，围垦兴农，盐业衰减。1951年后，盐场面积缩小。1975年，煎盐业结束。  
-1. 【[掘港镇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_gan_zhen.md#掘港镇)】`qiuh8 gan3 zhen5` <sup>[如东]</sup> 如东古镇。一说古代掘港地区缺少入海港口，人称“缺港”，而缺港为世人所忌讳，故名掘港。一说唐·代宗大历年间（766年799年），淮南黜陟使李承修筑捍海堰后，每降大雨，内河水涨，掘堰放水，潮至再堵，如此往复，便得名“掘港”。唐·太宗贞观元年（627年），掘港为淮南道煎盐亭；北宋·太祖建隆元年（690年）建立掘港场。清·顺治四年（1647年）掘港场设主簿（又称分县），建立主薄署，处理地方民政事务。后裁撤，署废。清·世宗雍正九年（1731年），掘港场重建主簿署。清·宣统二年（90年），实行城乡自治制，成立掘港乡，建立自治公所选举议事会董事会。清·宣统三年（1911年）11月23日，辛亥革命推翻清朝统治。掘港宜布光复。民国元年（1912年）初，掘港成立自治会，选举议事会、董事会，实行地方自治。民国2年，成立掘港市。同年2月，取消市自治公所和议事会董事会，设助理员办事处。民国12年恢复自治公所和议事会、董事会。民国16年12月16日，掘港市设行政局。民国18年8月11日掘港市改为如皋县国民政府第九行政区，行政局改为区公所。民国23年6月16日，改为第八区。民国29年11月3日，新四军挺进掘港，成立掘港区抗日民主政府，设区公所。民国32年4月，日军侵占掘港，建立伪掘港维持会。民国34年8月15日，抗日战争胜利，掘港维持会解散。民国36年1月，国民革命军占据掘港，成立掘港区国民政府。民国37年3月15日，掘港解放，建立苏皖边区第九行政区专员公署掘港办事处。民国38年1月，成立掘港镇民主政府。1950年，更名为如东县掘港镇人民政府。1951年11月17日，如东县人民政府迁驻掘港，成为县治所在地。1955年3月4日，如东县人民政府批准掘港为县属镇。1955年，建立掘港镇人民委员会。1958年10月1日，建立掘港镇人民公社。1968年5月10日，成立掘港镇人民公社革命委员会。1981年9月，恢复掘港镇人民政府。  
+1. 【[掘港镇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_gan_zhen.md#掘港镇)】`qiuh8 gan3 zhen5` <sup>[如东]</sup> 如东古镇。一说古代掘港地区缺少入海港口，人称“缺港”，而缺港为世人所忌讳，故名掘港。一说唐·代宗大历年间（766年-799年），淮南黜陟使李承修筑捍海堰后，每降大雨，内河水涨，掘堰放水，潮至再堵，如此往复，便得名“掘港”。唐·太宗贞观元年（627年），掘港为淮南道煎盐亭；北宋·太祖建隆元年（690年）建立掘港场。清·顺治四年（1647年）掘港场设主簿（又称分县），建立主薄署，处理地方民政事务。后裁撤，署废。清·世宗雍正九年（1731年），掘港场重建主簿署。清·宣统二年（90年），实行城乡自治制，成立掘港乡，建立自治公所选举议事会董事会。清·宣统三年（1911年）11月23日，辛亥革命推翻清朝统治。掘港宜布光复。民国元年（1912年）初，掘港成立自治会，选举议事会、董事会，实行地方自治。民国2年，成立掘港市。同年2月，取消市自治公所和议事会董事会，设助理员办事处。民国12年恢复自治公所和议事会、董事会。民国16年12月16日，掘港市设行政局。民国18年8月11日掘港市改为如皋县国民政府第九行政区，行政局改为区公所。民国23年6月16日，改为第八区。民国29年11月3日，新四军挺进掘港，成立掘港区抗日民主政府，设区公所。民国32年4月，日军侵占掘港，建立伪掘港维持会。民国34年8月15日，抗日战争胜利，掘港维持会解散。民国36年1月，国民革命军占据掘港，成立掘港区国民政府。民国37年3月15日，掘港解放，建立苏皖边区第九行政区专员公署掘港办事处。民国38年1月，成立掘港镇民主政府。1950年，更名为如东县掘港镇人民政府。1951年11月17日，如东县人民政府迁驻掘港，成为县治所在地。1955年3月4日，如东县人民政府批准掘港为县属镇。1955年，建立掘港镇人民委员会。1958年10月1日，建立掘港镇人民公社。1968年5月10日，成立掘港镇人民公社革命委员会。1981年9月，恢复掘港镇人民政府。  
 1. 【[掘苴新闸堤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_jia_xien_chaeh_ti.md#掘苴新闸堤)】`qiuh8 jia1 xien1 chaeh8 ti2` <sup>[如东]</sup> 2007年6月18日开工，至2007年10月30日结束。堤长27公里。  
 1. 【[橛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh.md#橛)】`qiuh8` <sup>[如皋]</sup> 小段：半～粉笔。  
 1. 【[绝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh.md#绝)】`qiuh8` <sup>[如皋]</sup> 见“促狭”。  

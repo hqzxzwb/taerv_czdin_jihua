@@ -1089,7 +1089,7 @@
 1. 【[蹄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_zz.md#蹄子)】`ti2 zz` <sup>[兴化]</sup> 牛、马、驴等牲畜的蹄，特指猪肘子。  
 1. 【[题𤖱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_hu.md#题𤖱)】`ti2 hu2` <sup>[如皋]</sup> 给棺材头上贴金字。  
 1. 【[题头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_teu_r.md#题头<sub>儿</sub>)】`ti2 teu2 r` <sup>[兴化]</sup> ① 文章的题目或说话的由头。 ② 信件的上款。 ③ 也作“抬头”。  
-1. 【[鳀鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_y.md#鳀鱼)】`ti2 y2` <sup>[如东]</sup> 鳀鱼科动物鳀鱼。又名海蜒。体细长，稍侧扁。体长1825毫米。眼大，具脂眼睑。被薄圆鳞，极易脱落。无侧线。腹部圆，无棱鳞。尾鳍叉形基部每侧有2个大鳞。体背面蓝黑色，体侧有银灰色纵带腹部银白色。背、胸及腹鳍浅灰色，臀鳍及尾鳍浅黄淡色。生活在近海水域。肉鲜美。  
+1. 【[鳀鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_y.md#鳀鱼)】`ti2 y2` <sup>[如东]</sup> 鳀鱼科动物鳀鱼。又名海蜒。体细长，稍侧扁。体长18-25毫米。眼大，具脂眼睑。被薄圆鳞，极易脱落。无侧线。腹部圆，无棱鳞。尾鳍叉形基部每侧有2个大鳞。体背面蓝黑色，体侧有银灰色纵带腹部银白色。背、胸及腹鳍浅灰色，臀鳍及尾鳍浅黄淡色。生活在近海水域。肉鲜美。  
 1. 【[体己](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_ji.md#体己)】`ti3 ji3` <sup>[如皋]</sup> ① 亲密者：他是你的～。 ② 个人积蓄：拿出～钱来捐献。 ③ 坦诚话：谈点儿～话。  
 1. 【[体己](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_ji.md#体己)】`ti3 ji3` <sup>[如皋]</sup> 见“关己”。  
 1. 【[体己话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_ji_hua.md#体己话)】`ti3 ji3 hua6` <sup>[如东]</sup> 知心话：说句～话，我俫都一样。  
@@ -1355,7 +1355,7 @@
 1. 【[铁钯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_ba.md#铁钯)】`tih7 ba1` <sup>[如皋]</sup> ① 从两边相夹以锔碗的铁皮钯。 ② 加固墙体的铁锔。 ③ 补缸用的铁锔。  
 1. 【[铁板上钉钉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_baen_shan_dien_dien.md#铁板上钉钉)】`tih7 baen3 shan6 dien5 dien1` <sup>[如皋]</sup> 稳固、持久、不变。  
 1. 【[铁板上钉钉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_baen_shan_dien_dien.md#铁板上钉钉)】`tih7 baen3 shan6 dien5 dien1` <sup>[东台]</sup> ［喻］证据确凿，不容置疑。  
-1. 【[铁扁担](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_bin_daen.md#铁扁担)】`tih7 bin3 daen5` <sup>[如东]</sup> 鸢尾科植物鸢尾，多年生草本。根茎匍匐多节，节间短，浅黄色。叶互生，2列，剑形。花青紫色，12朵排列成总状花序。蒴果长椭圆形。种子多数，圆形，黑色。生长在溪边湿地。  
+1. 【[铁扁担](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_bin_daen.md#铁扁担)】`tih7 bin3 daen5` <sup>[如东]</sup> 鸢尾科植物鸢尾，多年生草本。根茎匍匐多节，节间短，浅黄色。叶互生，2列，剑形。花青紫色，1-2朵排列成总状花序。蒴果长椭圆形。种子多数，圆形，黑色。生长在溪边湿地。  
 1. 【[铁叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_cha.md#铁叉)】`tih7 cha1` <sup>[如皋]</sup> 有两根铁齿呈象牙状，装长柄，叉草用。  
 1. 【[铁叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_cha.md#铁叉)】`tih7 cha1` <sup>[如东]</sup> 工具。铁制，一般两个齿，有柄，用来整理和叉举谷秸、毛草。  
 1. 【[铁锤敲铜锣——响当当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_chuei_ko_ton_lu_xian_dan_dan.md#铁锤敲铜锣——响当当)】`tih7 chuei2 ko1 ton2 lu2 xian3 dan1 dan1` <sup>[东台]</sup>   
@@ -1393,7 +1393,7 @@
 1. 【[铁匠做官——打字上前](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_qian_zu_gun_da_cz_shan_qin.md#铁匠做官——打字上前)】`tih7 qian6 zu5 gun1 da3 cz6 shan6 qin2` <sup>[东台]</sup>   
 1. 【[铁算盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_sun_pun.md#铁算盘)】`tih7 sun5 pun2` <sup>[如东]</sup> 比喻算账非常精明，非常准确。  
 1. 【[铁丝草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_sz_co.md#铁丝草)】`tih7 sz1 co3` <sup>[如皋]</sup> 萹蓄。  
-1. 【[铁头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_teu.md#铁头)】`tih7 teu` <sup>[如东]</sup> 鲻科动物大鳞鮻，体长约40厘米。体粗壮，纺锤形，前部平扁，后渐侧扁。头短，扁平。眼大，色青，脂眼睑不发达，仅在眼前后缘稍有遮盖。口小。体被大圆鳞。体侧纵列鳞3033个。头及体背青黑色，腹部白色。胸鳍基部无腋鳞。臀鳍鳍条9根。生活在浅海中上层水中。味鲜美。是如东县常见鱼种。  
+1. 【[铁头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_teu.md#铁头)】`tih7 teu` <sup>[如东]</sup> 鲻科动物大鳞鮻，体长约40厘米。体粗壮，纺锤形，前部平扁，后渐侧扁。头短，扁平。眼大，色青，脂眼睑不发达，仅在眼前后缘稍有遮盖。口小。体被大圆鳞。体侧纵列鳞30-33个。头及体背青黑色，腹部白色。胸鳍基部无腋鳞。臀鳍鳍条9根。生活在浅海中上层水中。味鲜美。是如东县常见鱼种。  
 1. 【[铁头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_teu.md#铁头)】`tih7 teu2` <sup>[东台]</sup> 一种头很硬的大鳊鱼。（见“鲻鱼”）  
 1. 【[铁头犟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_teu_jian.md#铁头犟)】`tih7 teu2 jian5` <sup>[兴化]</sup> 形容人特别固执，不听劝告：这个小伙～，硬要顶牛。｜知县是个～，在梦里回了句｜“是儿不死，是财不散……”（兴文《城隍庙和县衙》）  
 1. 【[铁头<sub>儿</sub>犟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_teu_r_jian.md#铁头<sub>儿</sub>犟)】`tih7 teu2 r jian5` <sup>[如皋]</sup> 脾气特犟。  
@@ -1695,7 +1695,7 @@
 1. 【[条凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_den.md#条凳)】`tio2 den5` <sup>[兴化]</sup> 狭长的木凳。  
 1. 【[条凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_den.md#条凳)】`tio2 den5` <sup>[泰县]</sup> 长凳。  
 1. 【[条规](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_guei.md#条规)】`tio2 guei1` <sup>[如东]</sup> 规矩：做事要上～。  
-1. 【[条虾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_ha.md#条虾)】`tio2 ha1` <sup>[如东]</sup> 对虾科动物中国对虾，体长1824厘米。身体长而侧扁。甲壳薄，光滑透明，雌体青蓝色，雄体棕黄色。通常雌体大于雄体。全体由20节组成，头部5节，胸部8节，腹部7节。除尾节外，各节均有附肢1对。步足5对，前3对呈钳状，后2对呈爪状。头胸前缘中央突出形成额角。额角上下缘均有锯齿。生活在泥沙底的浅海中。肉质鲜美。是如东特色海鲜。  
+1. 【[条虾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_ha.md#条虾)】`tio2 ha1` <sup>[如东]</sup> 对虾科动物中国对虾，体长18-24厘米。身体长而侧扁。甲壳薄，光滑透明，雌体青蓝色，雄体棕黄色。通常雌体大于雄体。全体由20节组成，头部5节，胸部8节，腹部7节。除尾节外，各节均有附肢1对。步足5对，前3对呈钳状，后2对呈爪状。头胸前缘中央突出形成额角。额角上下缘均有锯齿。生活在泥沙底的浅海中。肉质鲜美。是如东特色海鲜。  
 1. 【[条理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_li.md#条理)】`tio2 li3` <sup>[如东]</sup> 次序，规矩：他做事有～。  
 1. 【[条苗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_mio.md#条苗)】`tio2 mio` <sup>[如东]</sup> 细而长：她的身材～。  
 1. 【[条苗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_mio.md#条苗)】`tio2 mio` <sup>[兴化]</sup> ① “苗条”的逆序词：形容妇女身材修长柔美。 ② 形容家用器具粗细适中：这张橱相打得蛮～的。  
@@ -2093,7 +2093,7 @@
 1. 【[童花头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_hua_teu.md#童花头)】`ton2 hua1 teu2` <sup>[如皋]</sup> 儿童发式。  
 1. 【[童<sub>儿</sub>痨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_r_lo.md#童<sub>儿</sub>痨)】`ton2 r lo2` <sup>[如皋]</sup> 旧称儿童患的肺结核病。  
 1. 【[童身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_shen.md#童身)】`ton2 shen1` <sup>[如皋]</sup> 未婚大龄男子。  
-1. 【[童头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_teu.md#童头)】`ton2 teu2` <sup>[如东]</sup> 鲱科动物斑鰶，体侧扁，呈长椭圆形，体长1316厘米。吻短而尖，口小，下位而稍斜，上颌长于下颌。眼有脂眼睑。被细小圆鳞。背侧青绿色腹部银白色。腹部特扁，自胸部至肛门有尖棱鳞。无侧线。背鳍1个，最后一鳍条延长为丝状像一长须。背鳍尾鳍黄绿色，胸鳍淡黄绿色，腹棱及臀鳍色更淡，盖后上方有一黑斑，背侧有79纵行褐绿色斑点。生活在近海。肉质鲜。是如东常见鱼种。  
+1. 【[童头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_teu.md#童头)】`ton2 teu2` <sup>[如东]</sup> 鲱科动物斑鰶，体侧扁，呈长椭圆形，体长13-16厘米。吻短而尖，口小，下位而稍斜，上颌长于下颌。眼有脂眼睑。被细小圆鳞。背侧青绿色腹部银白色。腹部特扁，自胸部至肛门有尖棱鳞。无侧线。背鳍1个，最后一鳍条延长为丝状像一长须。背鳍尾鳍黄绿色，胸鳍淡黄绿色，腹棱及臀鳍色更淡，盖后上方有一黑斑，背侧有7-9纵行褐绿色斑点。生活在近海。肉质鲜。是如东常见鱼种。  
 1. 【[童尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_xy.md#童尿)】`ton2 xy1` <sup>[如东]</sup> 健康儿童的小便，一般以10岁以下儿童的小便为最佳，去头尾，用中间一段，名为“童便”。  
 1. 【[童子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_zz.md#童子)】`ton2 zz` <sup>[如皋]</sup> 见“夏巫”。  
 1. 【[童子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_zz.md#童子)】`ton2 zz3` <sup>[如东]</sup> 小儿。旧时的一种卖唱的艺人。  
@@ -2306,7 +2306,7 @@
 1. 【[推避](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_pi.md#推避)】`tuei1 pi6` <sup>[兴化]</sup> 推托、避让：苦差事他躲得远远的，有好事他从来不～。｜小再冬受过一番连累，凡事也就～不敢向前。（《醒世姻缘传》九四）  
 1. 【[推三谎冒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_saen_huan_mo.md#推三谎冒)】`tuei1 saen1 huan3 mo6` <sup>[如东]</sup> 制造理由，骗取信任：这个人～的，不可相信。  
 1. 【[推三阻四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_saen_zv_sz.md#推三阻四)】`tuei1 saen1 zv3 sz5` <sup>[兴化]</sup> 用各种借口推托。  
-1. 【[推沙鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_sha_y.md#推沙鱼)】`tuei1 sha1 y2` <sup>[如东]</sup> 鰕虎鱼科动物黄鳍刺鰕虎鱼，体长约15厘米。头大。口大。眼生于头顶上方。鳞较大。侧线淡黄色。第二背鳍条1315根。腹鳍、臀鳍和尾鳍下缘均呈黄色。尾钝圆。栖息在近海成淡水中，或进入河口。是如东常见鱼种。冬季肉质肥美，鲜嫩。二月散子后，身体消瘦。民谣：“腊月推沙鱼汤赛羊汤。”“正月推沙二月蛇，丢在路边无人拿。”  
+1. 【[推沙鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_sha_y.md#推沙鱼)】`tuei1 sha1 y2` <sup>[如东]</sup> 鰕虎鱼科动物黄鳍刺鰕虎鱼，体长约15厘米。头大。口大。眼生于头顶上方。鳞较大。侧线淡黄色。第二背鳍条13-15根。腹鳍、臀鳍和尾鳍下缘均呈黄色。尾钝圆。栖息在近海成淡水中，或进入河口。是如东常见鱼种。冬季肉质肥美，鲜嫩。二月散子后，身体消瘦。民谣：“腊月推沙鱼汤赛羊汤。”“正月推沙二月蛇，丢在路边无人拿。”  
 1. 【[推杉木鼓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_shaen_moh_gv_r.md#推杉木鼓<sub>儿</sub>)】`tuei1 shaen1 moh8 gv3 r` <sup>[如东]</sup> 将圆形杉木推来推去。比喻互相推诿。  
 1. 【[推死人过街](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_sz_ren_gu_gae.md#推死人过街)】`tuei1 sz3 ren2 gu5 gae1` <sup>[兴化]</sup> ① 旧时地保将路倒者尸体偷运出自己辖区，将责任推给别人。 ② （借）推托、推脱责任：他俫碰到难题就～，让别人去挠头。  
 1. 【[推推搡搡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_tuei_san_san.md#推推搡搡)】`tuei1 tuei1 san3 san3` <sup>[兴化]</sup> 猛推：他喜欢对不听话的学生～的。｜衙役们一声吆喝，把李一桂～逐出辕门。（《四杰传》二十）  

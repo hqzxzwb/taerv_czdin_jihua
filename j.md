@@ -78,7 +78,7 @@
 1. 【[鸡窠灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ku_huei.md#鸡窠灰)】`ji1 ku1 huei1` <sup>[如皋]</sup> 鸡窝中粪便、饲料残渣等混合的灰士，是上等肥料。  
 1. 【[鸡笼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_lon_r.md#鸡笼<sub>儿</sub>)】`ji1 lon2 r` <sup>[如皋]</sup> 指篾制六角笼，养小鸡用。现己不见。  
 1. 【[鸡毛菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_mo_cae.md#鸡毛菜)】`ji1 mo2 cae5` <sup>[如皋]</sup> 菜茼，小青菜。  
-1. 【[鸡毛毽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_mo_jin_zz.md#鸡毛毽子)】`ji1 mo2 jin5 zz` <sup>[如皋]</sup> 用小铜钱一枚包布缝合，中心处装大羽根部的一段空管，插35根雄鸡的尾羽做成。见“毽子、踢毽子”。  
+1. 【[鸡毛毽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_mo_jin_zz.md#鸡毛毽子)】`ji1 mo2 jin5 zz` <sup>[如皋]</sup> 用小铜钱一枚包布缝合，中心处装大羽根部的一段空管，插3-5根雄鸡的尾羽做成。见“毽子、踢毽子”。  
 1. 【[鸡毛六足](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_mo_loh_zoh.md#鸡毛六足)】`ji1 mo2 loh8 zoh7` <sup>[泰县]</sup> 坐立不安：你不要～的。  
 1. 【[鸡毛蒜皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_mo_sun_pi.md#鸡毛蒜皮)】`ji1 mo2 sun5 pi2` <sup>[东台]</sup> 琐碎细小的事情。  
 1. 【[鸡毛帚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_mo_zheu_zz.md#鸡毛帚子)】`ji1 mo2 zheu3 zz` <sup>[兴化]</sup> 鸡毛掸子。  

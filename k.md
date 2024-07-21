@@ -244,7 +244,7 @@
 1. 【[掐掐<sub>儿</sub>的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh_kaeh_r_dii.md#掐掐<sub>儿</sub>的)】`kaeh7 kaeh7 r dii` <sup>[如东]</sup> 数量勉强接近：二十斤大米～。  
 1. 【[掐掐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh_kaeh_zz.md#掐掐子)】`kaeh7 kaeh7 zz` <sup>[兴化]</sup> 很小、很少：小猫生下来只有～大。｜虾籽太贵，二十块钱才买啊～。  
 1. 【[掐钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh_qin.md#掐钱)】`kaeh7 qin2` <sup>[如皋]</sup> ① 在照价给钱时还要少给一点。 ② 从预算份额中扣下一点，不给足。  
-1. 【[掐是的<sub>啊</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh_shr_dia.md#掐是的<sub>啊</sub>)】`kaeh7 shr6 dia1` <sup>[兴化]</sup> （部分村镇语）疑问代词，意为是吗？是也不是：听说老张和老王是两亲家。——～？  
+1. 【[掐是的<sub>啊</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh_shr_dia.md#掐是的<sub>啊</sub>)】`kaeh7 shr6 dia1` <sup>[兴化]</sup> （部分村镇语）疑问代词，意为是吗？是也不是：——听说老张和老王是两亲家。 ——～？  
 1. 【[掐算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh_sun.md#掐算)】`kaeh7 sun5` <sup>[如东]</sup> 推算，计算：～喜日。  
 1. 【[掐头放生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh_teu_fan_shen.md#掐头放生)】`kaeh7 teu2 fan5 shen1` <sup>[东台]</sup> ［喻］指尽管受尽折磨，还祈求放其一条生路。  
 1. 【[掐头放生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh_teu_fan_shen.md#掐头放生)】`kaeh7 teu2 fan5 shen1` <sup>[泰县]</sup> 饶命。  

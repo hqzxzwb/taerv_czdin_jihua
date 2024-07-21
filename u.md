@@ -227,7 +227,7 @@
 1. 【[完满](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_mun.md#完满)】`un2 mun3` <sup>[东台]</sup> 圆满，没有欠缺。  
 1. 【[完蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_taen.md#完蛋)】`un2 taen6` <sup>[东台]</sup> 垮台、毁灭。  
 1. 【[完戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_xi.md#完戏)】`un2 xi5` <sup>[兴化]</sup> ① 了结：上次的事情～啊。 ② （贬）完蛋：杨狗儿中风，抽啊个把月，今早～啊。  
-1. 【[完小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_xio.md#完小)】`un2 xio3` <sup>[东台]</sup> 与初级小学相对，有16年级的完全小学。  
+1. 【[完小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_xio.md#完小)】`un2 xio3` <sup>[东台]</sup> 与初级小学相对，有1-6年级的完全小学。  
 1. 【[完税](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_xy.md#完税)】`un2 xy5` <sup>[东台]</sup> 交足税款。  
 1. 【[完账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_zhan.md#完账)】`un2 zhan5` <sup>[东台]</sup> 表示完蛋了：上当受骗就～。  
 1. 【[䝹𧶲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_dun.md#䝹𧶲)】`un3 dun3` <sup>[兴化]</sup> 形容小有家财而不外露者。䝹，《广韵·缓韵》乌管切：～，小有财：他是庄上的～户儿，表面寒酸，骨里厚实。  

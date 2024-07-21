@@ -66,7 +66,7 @@
 1. 【[睬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae.md#睬)】`cae3` 理睬，答应  
 1. 【[睬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae.md#睬)】`cae3` <sup>[如皋]</sup> 答理、理睬：他不～我；不～你赛如搳你；他俫淘啊气，不～啊啦。  
 1. 【[踩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae.md#踩)】`cae3` <sup>[如东]</sup> 用脚轻轻地踏。  
-1. 【[踩高跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_go_qio.md#踩高跷)】`cae3 go1 qio1` <sup>[东台]</sup> 一种民间表演形式。表演者双脚缚在木制撬棍上，高约13米，装扮成戏中人物，边走边表演。  
+1. 【[踩高跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_go_qio.md#踩高跷)】`cae3 go1 qio1` <sup>[东台]</sup> 一种民间表演形式。表演者双脚缚在木制撬棍上，高约1-3米，装扮成戏中人物，边走边表演。  
 1. 【[踩摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_mah.md#踩摸)】`cae3 mah8` <sup>[兴化]</sup> 打听、调查：这件事先～～再做决断。｜情况～不真不能乱来。  
 1. 【[踩么<sub>儿</sub>墩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_mu_r_den.md#踩么<sub>儿</sub>墩)】`cae3 mu3 r den1` <sup>[如皋]</sup> 旧时儿童游戏之一。以杏核为“么儿”，参与者各置一粒于墩子（地上放一块城砖）之上，依次各以手中一粒“么儿”举至眼下丢落，踩击墩上之“么儿”，击落与墩下则取之，并继续踩，掉在墩上则给别人踩，未曾击落则让下一人踩。  
 1. 【[踩藕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_ngeu.md#踩藕)】`cae3 ngeu3` <sup>[如皋]</sup> 收获藕时先用脚踩，确定方位，再挖。  
@@ -342,7 +342,7 @@
 1. 【[车闷水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_men_shuei.md#车闷水)】`cha1 men1 shuei3` <sup>[如东]</sup> 车水比赛的一种方法。在米斗中立一炷香，底部连着爆竹。以车完“一范水”未爆炸为胜。  
 1. 【[车闷水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_men_shuei.md#车闷水)】`cha1 men6 shuei3` <sup>[如皋]</sup> 踏水竞赛一法：在米斗中立一炷香，底部接爆竹。以踏完“一期水”而未爆为胜。这种竞赛多在天干而抢水时采用。  
 1. 【[车攮管<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_nan_gun_r.md#车攮管<sub>儿</sub>)】`cha1 nan2 gun3 r` <sup>[如皋]</sup> 小车儿上前后通长的一对把手。  
-1. 【[车襻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_pin_zz.md#车襻子)】`cha1 pin1 zz` <sup>[如皋]</sup> 推小车必备的“软扁担”。其两端套于车把子后端，中段骑绕在推车人的肩、预上。推车时借腰、肩力以减臂力。其制法是五根苎麻绳作经，用布条加捻度“翘一”纡织，一似打草鞋。长约一庹（160170cm）。  
+1. 【[车襻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_pin_zz.md#车襻子)】`cha1 pin1 zz` <sup>[如皋]</sup> 推小车必备的“软扁担”。其两端套于车把子后端，中段骑绕在推车人的肩、预上。推车时借腰、肩力以减臂力。其制法是五根苎麻绳作经，用布条加捻度“翘一”纡织，一似打草鞋。长约一庹（160-170cm）。  
 1. 【[车篷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_pon.md#车篷)】`cha1 pon` <sup>[如皋]</sup> 河边装辋子的篷屋。  
 1. 【[车棚旱轴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_pon_hun_choh.md#车棚旱轴)】`cha1 pon2 hun6 choh8` <sup>[如东]</sup> 车棚中央的竖轴。上端称天轴，下端称地轴。支撑辋子。  
 1. 【[车棚跨轴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_pon_kua_choh.md#车棚跨轴)】`cha1 pon2 kua5 choh8` <sup>[如东]</sup> 与辋子匹配的横轴。水牛牵动辋子时，每圈都从此轴盖板上跨过，故名。跨轴上安装齿轮，辋子旋转，带动车练旋转，从而戽水。  
@@ -1390,6 +1390,7 @@
 1. 【[畜牲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh_shen.md#畜牲)】`choh7 shen` <sup>[如皋]</sup> ① 禽兽鱼虫等。 ② 贬指违礼之人：～货、活～、精～、做～事、人毛～。  
 1. 【[畜生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh_shen.md#畜生)】`choh7 shen` <sup>[如东]</sup> ① 牲畜的通称。 ② 比喻愚蠢、野蛮、不懂道理、道德低下的人：流氓是一群～。  
 1. 【[畜生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh_shen.md#畜生)】`choh7 shen` <sup>[东台]</sup> 本指动物，也做詈语，指没有教养如同禽兽。也作“畜牲”。  
+1. 【[触](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh.md#触)】`choh7` <sup>[兴化]</sup> ① 眼鼻受到强烈刺激：这洋葱荤气～人。 ② （迷信）见到应避讳的事物，就会受～。  
 1. 【[触壁脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh_bieh_jiah.md#触壁脚)】`choh7 bieh7 jiah7` <sup>[如皋]</sup> 揭老底。  
 1. 【[触阳寿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh_ian_sheu.md#触阳寿)】`choh7 ian2 sheu6` <sup>[如东]</sup> 因为做缺德的事情而早死。  
 1. 【[触机](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh_ji.md#触机)】`choh7 ji1` <sup>[如皋]</sup> 由某事联想起：看见人家买衣裳，我一～，想到你要买衣裳的事，赶紧通知你来买。  
@@ -1399,6 +1400,7 @@
 1. 【[触眼目](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh_ngaen_moh.md#触眼目)】`choh7 ngaen3 moh8` <sup>[东台]</sup> 看到不愿意见到的人或事。  
 1. 【[触起来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh_qi_lae.md#触起来)】`choh7 qi3 lae` <sup>[东台]</sup> 由某种情境引发突然想起：对，我～啊，你是广东人！  
 1. 【[豖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh.md#豖)】`choh7` <sup>[如皋]</sup> 豕足为绳所牵制不便行动之状：一～一～的、～咖～的。  
+1. 【[啄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh.md#啄)】`choh8` <sup>[如东]</sup> 用嘴取食东西：红烧肉摆啊桌上，许多苍蝇在上头～。  
 1. 【[啄木鸟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh_moh_nio.md#啄木鸟)】`choh8 moh8 nio3` <sup>[如东]</sup> 啄木鸟科动物斑啄木鸟、绿啄木鸟和黑枕啄木鸟。  
 1. 【[妯娌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh_li.md#妯娌)】`choh8 li` <sup>[如东]</sup> 哥哥和弟弟的妻子的合称。  
 1. 【[妯娌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh_li.md#妯娌)】`choh8 li` <sup>[东台]</sup> 弟兄们的妻子之间的关系。  
@@ -2046,7 +2048,7 @@
 1. 【[船舱屋旮旯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_can_oh_gah_lah.md#船舱屋旮旯)】`chun2 can1 oh7 gah7 lah` <sup>[东台]</sup> 意思是说尽管地方小，仔细地理顺一下，还是能够摆放不少东西的。  
 1. 【[船底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_di.md#船底)】`chun2 di3` <sup>[如东]</sup> 船身的底部。船底有平形与尖形两种。沙船船底为平形。  
 1. 【[船底板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_di_baen.md#船底板)】`chun2 di3 baen3` <sup>[如东]</sup> 帆船龙骨下面的木板。  
-1. 【[船丁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_dien.md#船丁)】`chun2 dien1` <sup>[如东]</sup> 鳝科动物，多鳞鳍，体细长，略呈圆柱形，体长1216厘米。  
+1. 【[船丁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_dien.md#船丁)】`chun2 dien1` <sup>[如东]</sup> 鳝科动物，多鳞鳍，体细长，略呈圆柱形，体长12-16厘米。  
 1. 【[船到桥头自然直](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_do_qio_teu_cz_rin_cheh.md#船到桥头自然直)】`chun2 do5 qio2 teu2 cz6 rin2 cheh8` <sup>[东台]</sup> ［喻］事情发展到一定的阶段，自然会有解决的办法，与“车到山前必有路”之义类似。  
 1. 【[船多不碍港](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_du_beh_ngae_gan.md#船多不碍港)】`chun2 du1 beh7 ngae6 gan3` <sup>[兴化]</sup> （喻）同一条街市上做同样买卖的多了可以成为行市：“……俗说～，各做各的生意嘛！”（扬二：《程咬金卖筢子》）  
 1. 【[船垳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_hen.md#船垳)】`chun2 hen5` <sup>[如东]</sup> 沙船停泊的沙垳。  

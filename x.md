@@ -797,7 +797,7 @@
 1. 【[相<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_r.md#相<sub>儿</sub>)】`xian5 r` <sup>[泰县]</sup> 不干实事的人：他是个～，整天逛逛。  
 1. 【[相手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_sheu.md#相手)】`xian5 sheu3` <sup>[如皋]</sup> 清闲，无所事事。  
 1. 【[相士](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_shr.md#相士)】`xian5 shr` <sup>[兴化]</sup> 旁观者：他是个～，不管大家多忙，他都不插手。  
-1. 【[相思螺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_sz_lu.md#相思螺)】`xian5 sz lu1` <sup>[如东]</sup> 玉螺科动物扁玉螺，体宽约1.52厘米。贝壳近球形，质地坚硬。螺层约5层，缝合线明显。雄性螺，壳顶低平；雌性螺，壳顶髙尖。壳表光滑，生长纹细致，淡紫色或淡黄褐色。壳口半圆形，内面肉色。厣角质，半透明。系肉食性贝类。生活在近海沙质滩涂地带。肉质鲜，营养丰富。是如东常见螺种。  
+1. 【[相思螺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_sz_lu.md#相思螺)】`xian5 sz lu1` <sup>[如东]</sup> 玉螺科动物扁玉螺，体宽约1.5-2厘米。贝壳近球形，质地坚硬。螺层约5层，缝合线明显。雄性螺，壳顶低平；雌性螺，壳顶髙尖。壳表光滑，生长纹细致，淡紫色或淡黄褐色。壳口半圆形，内面肉色。厣角质，半透明。系肉食性贝类。生活在近海沙质滩涂地带。肉质鲜，营养丰富。是如东常见螺种。  
 1. 【[相相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_xian.md#相相)】`xian5 xian` <sup>[如东]</sup> 看看：你去～，外面哿还有东西？  
 1. 【[相中相，不上当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_zhon_xian_beh_shan_dan.md#相中相，不上当)】`xian5 zhon1 xian5 beh7 shan6 dan5` <sup>[东台]</sup> 彼此彼此，谁也不要欺负谁。  
 1. 【[象不吃象](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_beh_qieh_xian.md#象不吃象)】`xian5 beh7 qieh7 xian5` <sup>[兴化]</sup> 中国象棋中的“象”不能互“吃”。借指境遇相似的人不必互相过不去：你做你的生意，我做我的买卖，我俫～。  
@@ -1560,7 +1560,7 @@
 1. 【[小肠气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_chan_qi.md#小肠气)】`xio3 chan2 qi5` <sup>[兴化]</sup> 疝气。  
 1. 【[小肠气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_chan_qi.md#小肠气)】`xio3 chan2 qi5` <sup>[泰县]</sup> 疝气。  
 1. 【[小唱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_chan_r.md#小唱<sub>儿</sub>)】`xio3 chan5 r` <sup>[兴化]</sup> 短小的民间小调。  
-1. 【[小秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_chen.md#小秤)】`xio3 chen5` <sup>[如皋]</sup> 一般家用杆秤。称量上限20市斤，下限0两，分二纽：头纽看面花，打520市斤；二纽看怀花，打0两5市斤。  
+1. 【[小秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_chen.md#小秤)】`xio3 chen5` <sup>[如皋]</sup> 一般家用杆秤。称量上限20市斤，下限0两，分二纽：头纽看面花，打5-20市斤；二纽看怀花，打0两5市斤。  
 1. 【[小潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cho.md#小潮)】`xio3 cho2` <sup>[如皋]</sup> 小汛。  
 1. 【[小潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cho.md#小潮)】`xio3 cho2` <sup>[如东]</sup> 潮水水位低的海潮，称小潮。  
 1. 【[小轴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_choh_r.md#小轴<sub>儿</sub>)】`xio3 choh8 r` <sup>[如皋]</sup> 水车槽筒接近河面端的定齿轮，有7齿。  
@@ -1638,7 +1638,7 @@
 1. 【[小火炖蹄髈——慢慢来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_hu_den_ti_pan_maen_maen_lae.md#小火炖蹄髈——慢慢来)】`xio3 hu3 den5 ti2 pan3 maen6 maen6 lae2` <sup>[东台]</sup>   
 1. 【[小货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_hu.md#小货)】`xio3 hu5` <sup>[如皋]</sup> ① 为店里做生意时，自己也买卖的那部分货物称小货，但要店主批准。如布店学徒在店内卖绣品。 ② 詈语，与“老货”相对。  
 1. 【[小货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_hu.md#小货)】`xio3 hu5` <sup>[兴化]</sup> ① 旧称长途小额贩运的商品：跑～。 ② 少量堆积商品，待价而沽：他前几年堆～，赚吖一笔钱。  
-1. 【[小黄鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_huan_y.md#小黄鱼)】`xio3 huan2 y2` <sup>[如东]</sup> 石首科动物小黄鱼，又名春鱼、黄花鱼。体长约20厘米。身体偏扁，形状与大黄鱼相近而小，体背侧灰褐色，两侧及腹侧为黄色，背鳍边缘灰褐色。臀鳍第二鳍棘长小于眼径。头较大。头颅具发达粘液腔。鳞较大，在背鳍与侧线间具鳞56行。栖息在软泥或泥沙底质海区中下层。有明显的垂直移动现象，黄昏时上升，黎明时下降，白天在底层或近底层活动。为重要的经济鱼类，是如东县常见鱼种。  
+1. 【[小黄鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_huan_y.md#小黄鱼)】`xio3 huan2 y2` <sup>[如东]</sup> 石首科动物小黄鱼，又名春鱼、黄花鱼。体长约20厘米。身体偏扁，形状与大黄鱼相近而小，体背侧灰褐色，两侧及腹侧为黄色，背鳍边缘灰褐色。臀鳍第二鳍棘长小于眼径。头较大。头颅具发达粘液腔。鳞较大，在背鳍与侧线间具鳞5-6行。栖息在软泥或泥沙底质海区中下层。有明显的垂直移动现象，黄昏时上升，黎明时下降，白天在底层或近底层活动。为重要的经济鱼类，是如东县常见鱼种。  
 1. 【[小茴香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_huei_xian.md#小茴香)】`xio3 huei2 xian1` <sup>[如皋]</sup> 茴香。  
 1. 【[小荤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_huen.md#小荤)】`xio3 huen1` <sup>[如皋]</sup> 与大荤相对。即菜中含荤量小。  
 1. 【[小寒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_hun.md#小寒)】`xio3 hun2` <sup>[如东]</sup> 二十四节气之一，在阴历1月5日、6日或7日。  
@@ -1764,7 +1764,7 @@
 1. 【[小髈腿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_pan_ty_r.md#小髈腿<sub>儿</sub>)】`xio3 pan3 ty3 r` <sup>[如皋]</sup> ① 小腿后部有肌肉的部分。 ② 小腿。  
 1. 【[小评论](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_pien_len.md#小评论)】`xio3 pien3 len6` <sup>[东台]</sup> 组织群众对某种言行评论的自我教育方式。  
 1. 【[小便](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_pin.md#小便)】`xio3 pin6` <sup>[如东]</sup> ① 尿。 ② 撒尿。  
-1. 【[小白虾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_poh_xia.md#小白虾)】`xio3 poh8 xia1` <sup>[如东]</sup> 樱虾科动物中国毛虾，体形小，侧高。体长2.54厘米。甲壳薄。额角短小，侧面略呈三角形。下缘斜而微曲，上缘具两齿。尾节很短，末端圆形无刺，侧缘的后半部及末缘具羽毛状。仅有3对足，并呈微小钳状。体无色透明。唯口器部分及触鞭呈红色，第6腹节的腹面微呈红色。可制虾皮，色白壳软，为上品。是如东著名的海味品。  
+1. 【[小白虾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_poh_xia.md#小白虾)】`xio3 poh8 xia1` <sup>[如东]</sup> 樱虾科动物中国毛虾，体形小，侧高。体长2.5-4厘米。甲壳薄。额角短小，侧面略呈三角形。下缘斜而微曲，上缘具两齿。尾节很短，末端圆形无刺，侧缘的后半部及末缘具羽毛状。仅有3对足，并呈微小钳状。体无色透明。唯口器部分及触鞭呈红色，第6腹节的腹面微呈红色。可制虾皮，色白壳软，为上品。是如东著名的海味品。  
 1. 【[小篷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_pon.md#小篷)】`xio3 pon2` <sup>[如东]</sup> 把风帆慢慢地从桅樯上放下来，叫小篷。也叫落篷。  
 1. 【[小篷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_pon.md#小篷)】`xio3 pon2` <sup>[兴化]</sup> 见“落篷”。  
 1. 【[小气巴巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qi_ba_ba.md#小气巴巴)】`xio3 qi ba1 ba` <sup>[兴化]</sup> ① 吝啬。 ② 俗气、不大方。  
@@ -1927,7 +1927,7 @@
 1. 【[凶时辰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xion_shr_chen.md#凶时辰)】`xion1 shr2 chen2` <sup>[如皋]</sup> 见“恶时辰”。  
 1. 【[凶凶胖胖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xion_xion_pan_pan.md#凶凶胖胖)】`xion1 xion1 pan5 pan5` <sup>[如皋]</sup> 健壮、精神饱满。通常适用于老弱者。  
 1. 【[胸膜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xion_mah.md#胸膜)】`xion1 mah8` <sup>[东台]</sup> 本指人体肺脏表面和胸腔内壁的浆膜，东台民间常指胸部，或暗指乳房部位。  
-1. 【[訩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xion.md#訩)】`xion1` <sup>[如东]</sup> 训斥人：他就欢喜～人。｜  
+1. 【[訩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xion.md#訩)】`xion1` <sup>[如东]</sup> 训斥人：他就欢喜～人。  
 1. 【[熊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xion.md#熊)】`xion2` <sup>[东台]</sup> 东台话中指大声斥责，声色俱厉的批评，而不是动物名称：他捱爷～吖一顿。  
 1. 【[熊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xion.md#熊)】`xion2` <sup>[兴化]</sup> 训斥：他动不动就～人。  
 1. 【[熊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xion.md#熊)】`xion2` <sup>[泰县]</sup> 训斥：～人。  
@@ -2153,8 +2153,7 @@
 1. 【[悉滑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh_huaeh.md#悉滑)】`xyeh7 huaeh8` <sup>[东台]</sup> “刮刮叫”：他把那件事处理得～，领导群众都满意。  
 1. 【[悉尖的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh_jin_dii.md#悉尖的)】`xyeh7 jin1 dii` <sup>[如皋]</sup> 笔尖的。  
 1. 【[悉青的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh_qien_dii.md#悉青的)】`xyeh7 qien1 dii` <sup>[如皋]</sup> ① 状皮下出血的青色：他的膝头盘儿跌得～。 ② 状生气时脸色铁青。  
-1. 【[悉淡的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh_taen_dii.md#悉淡的)】`xyeh7 taen6 dii` <sup>[如皋]</sup> 无味：青菜不曾放盐，～。  
-1. 【[悉淡的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh_taen_dii.md#悉淡的)】`xyeh7 taen6 dii` <sup>[如皋]</sup> 形容味道过淡。  
+1. 【[悉淡的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh_taen_dii.md#悉淡的)】`xyeh7 taen6 dii` <sup>[如皋]</sup> ① 无味：青菜不曾放盐，～。 ② 形容味道过淡。  
 1. 【[悉紫的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh_zz_dii.md#悉紫的)】`xyeh7 zz3 dii` <sup>[如皋]</sup> 状全是紫色：高锰酸钾沖的水～。  
 1. 【[戌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh.md#戌)】`xyeh7` <sup>[东台]</sup> 地支第十一位。  
 1. 【[雪白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh_poh.md#雪白)】`xyeh7 poh8` <sup>[泰县]</sup> 很白。  

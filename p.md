@@ -1163,7 +1163,7 @@
 1. 【[白术](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_shueh.md#白术)】`poh8 shueh8` <sup>[如东]</sup> 菊科植物白术，多年生草本。  
 1. 【[白术苗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_shueh_mio.md#白术苗)】`poh8 shueh8 mio2` <sup>[如东]</sup> 菊科植物白术苗叶。  
 1. 【[白水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_shuei.md#白水)】`poh8 shuei3` <sup>[如皋]</sup> 清汤煮：煨～肉。  
-1. 【[白水虾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_shuei_xia.md#白水虾)】`poh8 shuei3 xia1` <sup>[如东]</sup> 长臂虾科动物脊尾白虾，体长59厘米。额角侧扁细长，上下缘均具锯齿，下缘具36枚。尾节末端尖细，呈刺状。体色透明，微带蓝色或红色小斑点腹部各节后缘颜色较深。死后体呈白色。生活在泥沙底浅海水域。肉质鲜美，营养丰富。  
+1. 【[白水虾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_shuei_xia.md#白水虾)】`poh8 shuei3 xia1` <sup>[如东]</sup> 长臂虾科动物脊尾白虾，体长5-9厘米。额角侧扁细长，上下缘均具锯齿，下缘具3-6枚。尾节末端尖细，呈刺状。体色透明，微带蓝色或红色小斑点腹部各节后缘颜色较深。死后体呈白色。生活在泥沙底浅海水域。肉质鲜美，营养丰富。  
 1. 【[白苏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_sv.md#白苏)】`poh8 sv1` <sup>[如东]</sup> 唇形科植物白苏，一年生草本。  
 1. 【[白苏头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_sv_teu.md#白苏头)】`poh8 sv1 teu2` <sup>[如东]</sup> 唇形科植物白苏根及近根的老茎。  
 1. 【[白苏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_sv_zz.md#白苏子)】`poh8 sv1 zz3` <sup>[如东]</sup> 唇形科植物白苏的果实。  
@@ -1457,7 +1457,7 @@
 1. 【[盘园户](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_iun_hv.md#盘园户)】`pun2 iun2 hv6` <sup>[如东]</sup> 城镇郊区以种植蔬菜为主要职业的农户，称盘园户。  
 1. 【[盘园田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_iun_tin.md#盘园田)】`pun2 iun2 tin2` <sup>[如皋]</sup> 种菜园子为业。  
 1. 【[盘搅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_jio.md#盘搅)】`pun2 jio3` <sup>[兴化]</sup> 日常开支或办事的花费：而今婚丧节庆，砌房造屋～大发吤！  
-1. 【[盘篮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_laen.md#盘篮)】`pun2 laen2, pun2 laen3, pu2 laen2, pu2 laen3` <sup>[如皋]</sup> 篾制深盘状盛器。口径约11.5m。  
+1. 【[盘篮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_laen.md#盘篮)】`pun2 laen2, pun2 laen3, pu2 laen2, pu2 laen3` <sup>[如皋]</sup> 篾制深盘状盛器。口径约1-1.5m。  
 1. 【[盘篮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_laen.md#盘篮)】`pun2 laen2` <sup>[如东]</sup> 竹篾或柳条编成的器具，圆形，直径4尺，帮高1尺。用于装盛谷物。也称笸篮。  
 1. 【[盘篮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_laen.md#盘篮)】`pun2 laen2-3` <sup>[东台]</sup> 竹编的大圆匾子。农家常用于筛簸粮食和晾东西。  
 1. 【[盘篮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_laen.md#盘篮)】`pun2 laen2-3` <sup>[泰县]</sup> 大圆匾：这个～里放的是甚的？  

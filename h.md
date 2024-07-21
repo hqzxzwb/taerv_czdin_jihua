@@ -58,6 +58,7 @@
 1. 【[瘕尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_xy.md#瘕尿)】`ha2 xy1` <sup>[如东]</sup> ① 撒尿。 ② 比喻说不出好话来：他在下～。 ③ 傻瓜。  
 1. 【[瘕尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_xy.md#瘕尿)】`ha2 xy1` <sup>[东台]</sup> 呆，笨，反应迟钝。东台词典写“蛤虚”。因为癞蛤蟆在人们印象中形象呆笨、丑陋。  
 1. 【[蝦蟆痈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ma_ion.md#蝦蟆痈)】`ha2 ma ion5` <sup>[如东]</sup> 腮腺炎。  
+1. 【[蝦蟆乌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ma_v_r.md#蝦蟆乌<sub>儿</sub>)】`ha2 ma v1 r, xia2 ma v1 r` 蝌蚪  
 1. 【[蝦蟆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ma.md#蝦蟆)】`ha2 ma2` <sup>[如皋]</sup> 蟾蜍。  
 1. 【[蝦蟆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ma.md#蝦蟆)】`ha2 ma2` <sup>[东台]</sup> 蟾蜍，俗称癞宝。  
 1. 【[蝦蟆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ma.md#蝦蟆)】`ha2 ma2` <sup>[兴化]</sup> 蟾蜍的俗称。  
@@ -1059,7 +1060,6 @@
 1. 【[烘架<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_jia_r.md#烘架<sub>儿</sub>)】`hon1 jia5 r` <sup>[如东]</sup> 取暖器具。一只架子放在烘钵儿上面，供搁脚取暖。  
 1. 【[烘冒脾气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_mo_pi_qi.md#烘冒脾气)】`hon1 mo6 pi2 qi5` <sup>[如东]</sup> 急躁而火爆：他是一个～。  
 1. 【[烘人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_ren.md#烘人)】`hon1 ren2` <sup>[东台]</sup> 在高温下像被火烤一样。  
-1. 【[红阵白阵的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_chen_poh_chen_dii.md#红阵白阵的)】`hon1 chen9 poh8 chen9 dii` <sup>[如皋]</sup> 状羞愧时的脸色红白间变。  
 1. 【[轰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon.md#轰)】`hon1` <sup>[如皋]</sup> 用大吵大闹或群体行动的方式去责难、驱赶：把他～下台｜大家去～他的万金！  
 1. 【[轰雷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_luei.md#轰雷)】`hon1 luei2` <sup>[如东]</sup> 打雷：一开春就～。  
 1. 【[轰雷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_ly.md#轰雷)】`hon1 ly2` <sup>[泰县]</sup> 打雷：外头～，马上就要落雨。  
@@ -1072,6 +1072,7 @@
 1. 【[红扁豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_bin_teu.md#红扁豆)】`hon2 bin3 teu6` <sup>[如东]</sup> 豆科植物扁豆红褐色的种子。  
 1. 【[红布帽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_bv_mo_zz.md#红布帽子)】`hon2 bv5 mo6 zz` <sup>[如皋]</sup> 婴幼儿出痧子时戴的红布连成的帽子。  
 1. 【[红茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_cha.md#红茶)】`hon2 cha2` <sup>[如东]</sup> 茶叶的一大类。是全发酶茶。色泽乌黑油润，沏出的茶色红艳，具有特别的香气和滋味。  
+1. 【[红阵白阵的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_chen_poh_chen_dii.md#红阵白阵的)】`hon2 chen9 poh8 chen9 dii` <sup>[如皋]</sup> 状羞愧时的脸色红白间变。  
 1. 【[红草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_co.md#红草)】`hon2 co3` <sup>[如皋]</sup> 一种岸草，顶花可做装饰品。禾本科。  
 1. 【[红灯落地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_den_lah_ti.md#红灯落地)】`hon2 den1 lah8 ti6` <sup>[如皋]</sup> 二月二大落灯节。旧时家家从正月十三开始点天灯，至此日落灯。同时为女儿节。出嫁女回母家过节。吃青蒿儿团。谚：二月二，挑蒿儿，沰饼儿，带女儿，不带女儿，穷鬼儿，女儿不来，烂腿儿。  
 1. 【[红房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_fan.md#红房)】`hon2 fan2` <sup>[如东]</sup> 生小孩的房间，在一个月内，称红房。  

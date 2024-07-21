@@ -114,7 +114,7 @@
 1. 【[㨟灰佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_huei_lo_r.md#㨟灰佬<sub>儿</sub>)】`gae1 huei1 lo3 r` <sup>[如皋]</sup> 灶下出草木灰的工具。  
 1. 【[㨟灰佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_huei_lo_r.md#㨟灰佬<sub>儿</sub>)】`gae1 huei1 lo3 r` <sup>[东台]</sup> 旧式灶锅膛里拨灰的用具。也称“扒灰佬儿”。  
 1. 【[㨟灰耙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_huei_pa.md#㨟灰耙)】`gae1 huei1 pa2` <sup>[泰县]</sup> 木制的扒灰的用具。  
-1. 【[㨟耙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_pa.md#㨟耙)】`gae1 pa2` <sup>[如皋]</sup> 闸门形耙。23人操作，前拉后推，用以聚榖物等。  
+1. 【[㨟耙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_pa.md#㨟耙)】`gae1 pa2` <sup>[如皋]</sup> 闸门形耙。2-3人操作，前拉后推，用以聚榖物等。  
 1. 【[㨟屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_shr.md#㨟屎)】`gae1 shr3` <sup>[如东]</sup> 把大便向旁边推移。多指猪屎。  
 1. 【[㨟屎耙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_shr_pa.md#㨟屎耙)】`gae1 shr3 pa2` <sup>[如东]</sup> 㧕扒猪圈中猪屎的工具。有齿，有柄，形似爪耙。  
 1. 【[杚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae.md#杚)】`gae1` <sup>[如东]</sup> 量谷物时用以刮平斗斛的工具。  
@@ -1251,10 +1251,10 @@
 1. 【[哥哥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_gu.md#哥哥)】`gu1 gu` <sup>[如皋]</sup> 社交借称，表示亲切：乡村中不限彼此年龄，老人问路可称小伙子为～。  
 1. 【[哥哥言八八语](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_gu_in_baeh_baeh_y.md#哥哥言八八语)】`gu1 gu1 in2 baeh7 baeh7 y3` <sup>[东台]</sup> ① “哥哥”“八八”，指像很多只八哥。 ② 求人办事说了许多好话。 ③ 人多嘴杂，废话啰唆。  
 1. 【[哥<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_r.md#哥<sub>儿</sub>)】`gu1 r` <sup>[如皋]</sup> ① （gu2 r）东北乡音，称兄。 ② 八～：乌鸫。  
-1. 【[戈宝权](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_bo_qiun.md#戈宝权)】`gu1 bo3 qiun2` <sup>[东台]</sup> 东台人（19132000），我国当代著名的翻译家，外国文学研究专家。系戈公振的侄子。曾任驻苏联大使馆临时代办和文化参赞中科院外国文学研究员、学部委员。他翻译过五十多种外国文学作品，为中外文化交流作出了巨大贡献。  
-1. 【[戈公振](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_gon_zhen.md#戈公振)】`gu1 gon1 zhen5` <sup>[东台]</sup> 名绍发（18901935），号公振，东台人，著名记者，新闻学家和新闻史研究开拓者。先后参加《东台日报》、上海》《时报》《申报》工作。首创《图画时报，先后在国民、复旦等大学讲学。曾到苏联、欧美及日本考察，1935年创办《生活日报》，宣传抗日救国。  
+1. 【[戈宝权](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_bo_qiun.md#戈宝权)】`gu1 bo3 qiun2` <sup>[东台]</sup> 东台人（1913-2000），我国当代著名的翻译家，外国文学研究专家。系戈公振的侄子。曾任驻苏联大使馆临时代办和文化参赞中科院外国文学研究员、学部委员。他翻译过五十多种外国文学作品，为中外文化交流作出了巨大贡献。  
+1. 【[戈公振](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_gon_zhen.md#戈公振)】`gu1 gon1 zhen5` <sup>[东台]</sup> 名绍发（1890-1935），号公振，东台人，著名记者，新闻学家和新闻史研究开拓者。先后参加《东台日报》、上海》《时报》《申报》工作。首创《图画时报，先后在国民、复旦等大学讲学。曾到苏联、欧美及日本考察，1935年创办《生活日报》，宣传抗日救国。  
 1. 【[戈公振故居](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_gon_zhen_gv_jy.md#戈公振故居)】`gu1 gon1 zhen5 gv5 jy1` <sup>[东台]</sup> 位于鼓楼路步行街北侧，清代建筑。门匾为周巍峙题写，南面照壁墻墙上刻有沈钧儒所书戈公振临终遗言及其跋文。  
-1. 【[戈湘岚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_xian_laen.md#戈湘岚)】`gu1 xian1 laen2` <sup>[东台]</sup> 名绍苓（19041964），东台安丰人。中国美术家协会上海分会会员，上海中国画院画师，尤以画马著称，与徐悲鸿齐名。曾任上海教育出版社副总编辑，《辞海》编辑。  
+1. 【[戈湘岚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_xian_laen.md#戈湘岚)】`gu1 xian1 laen2` <sup>[东台]</sup> 名绍苓（1904-1964），东台安丰人。中国美术家协会上海分会会员，上海中国画院画师，尤以画马著称，与徐悲鸿齐名。曾任上海教育出版社副总编辑，《辞海》编辑。  
 1. 【[过靶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_ba.md#过靶)】`gu1 ba3` <sup>[兴化]</sup> 过头：神气～；西瓜熟得～。  
 1. 【[过分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_fen.md#过分)】`gu1 fen` <sup>[如皋]</sup> 过分。  
 1. 【[过火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_hu.md#过火)】`gu1 hu3` <sup>[如皋]</sup> ① 超过了火候：肉煮啊～咾，开始融吖。 ② 喻过分，超过了限度：批评得当，不～。  

@@ -371,7 +371,6 @@
 1. 【[庌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga.md#庌)】`nga2` <sup>[东台]</sup> 留一点空隙：把门～开一条缝｜你把釜冠～一点，防止潜掉。  
 1. 【[庌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga.md#庌)】`nga2` <sup>[兴化]</sup> ① 器物的两部分因不在一平面上而露出缝隙：门～开来。｜锅～下来。 ② 《集韵·麻韵》牛加切“庌， 㡸～不齐。”㡸音cha2。  
 1. 【[庌捂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_v.md#庌捂)】`nga2 v` <sup>[如皋]</sup> 乖张，桀骜不驯。  
-1. 【[捱日子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_rih_zz.md#捱日子)】`nga2 rih8 zz` <sup>[如东]</sup> ① 一天一天的往下混。 ② 一天一天的往下拖：他病吖厉害，在下～。  
 1. 【[牙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga.md#牙)】`nga2` <sup>[如东]</sup> ① 动物咀嚼食物的器官。也称牙齿。 ② 衡量牛的年龄的标记：这条牛有几～？  
 1. 【[牙巴骨<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_ba_gueh_r.md#牙巴骨<sub>儿</sub>)】`nga2 ba gueh7 r` <sup>[如皋]</sup> 下颌骨。  
 1. 【[牙巴骨<sub>儿</sub>只兜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_ba_gueh_r_zheh_deu.md#牙巴骨<sub>儿</sub>只兜)】`nga2 ba gueh7 r zheh7 deu` <sup>[如皋]</sup> ① 形容颤抖厉害。 ② 形容说话的样子。  
@@ -512,6 +511,7 @@
 1. 【[捱饿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_ngu.md#捱饿)】`ngae2 ngu6` 挨饿  
 1. 【[捱病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_pien.md#捱病)】`ngae2 pien6` <sup>[如东]</sup> 有意拖拉：他还在家里～，现在也不曾出来。  
 1. 【[捱搝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_qieu.md#捱搝)】`ngae2 qieu3` <sup>[如皋]</sup> 遭捉弄、陷害、打击。  
+1. 【[捱日子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_rih_zz.md#捱日子)】`ngae2 rih8 zz` <sup>[如东]</sup> ① 一天一天的往下混。 ② 一天一天的往下拖：他病吖厉害，在下～。  
 1. 【[捱肉头搅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_roh_teu_go.md#捱肉头搅)】`ngae2 roh8 teu go3` <sup>[兴化]</sup> 由于人缘不佳，常被人暗算：他虽说有两个钱，六亲不靠，常～。  
 1. 【[捱肉头搞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_roh_teu_go.md#捱肉头搞)】`ngae2 roh8 teu go3` <sup>[泰县]</sup> 吃大苦。  
 1. 【[捱时辰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_shr_chen.md#捱时辰)】`ngae2 shr2 chen2` <sup>[如东]</sup> 一点儿一点儿的往下拖。  
@@ -938,7 +938,7 @@
 1. 【[䱀䲉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_sz.md#䱀䲉)】`ngan1 sz` <sup>[如皋]</sup> 黄䱀。喻小孩胡闹蛮吵的样子。  
 1. 【[䱀䲉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_sz.md#䱀䲉)】`ngan1 sz1` <sup>[如皋]</sup> 黄颡鱼。  
 1. 【[䱀䲉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_sz.md#䱀䲉)】`ngan1 sz1` <sup>[兴化]</sup> ① 黄颡鱼，生活在沟河中的小型鱼类，无鳞。 ② （借）会争会闹的人：他像个～。俗称“䱀䲉钉子”。  
-1. 【[䱀䲉鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_sz_y.md#䱀䲉鱼)】`ngan1 sz1 y2` <sup>[如东]</sup> 鲿科动物黄颡鱼，体长1119厘米。体长，后部侧扁，腹部平直。头大。吻短。口下位，横裂。唇厚。须4对，上颌须长，末端达到或超过胸鳍基部。体无鳞。背鳍硬刺后缘具锯齿。胸鳍硬刺比背鳍硬鳍长。前后缘均具锯齿。尾鳍深叉形。侧线平直。背部青褐色，体侧淡黄色，具褐色的斑节。鼻须一半白色一半黑色。生活在淡水中。肉质鲜嫩。是如东常见的鱼种。  
+1. 【[䱀䲉鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_sz_y.md#䱀䲉鱼)】`ngan1 sz1 y2` <sup>[如东]</sup> 鲿科动物黄颡鱼，体长11-19厘米。体长，后部侧扁，腹部平直。头大。吻短。口下位，横裂。唇厚。须4对，上颌须长，末端达到或超过胸鳍基部。体无鳞。背鳍硬刺后缘具锯齿。胸鳍硬刺比背鳍硬鳍长。前后缘均具锯齿。尾鳍深叉形。侧线平直。背部青褐色，体侧淡黄色，具褐色的斑节。鼻须一半白色一半黑色。生活在淡水中。肉质鲜嫩。是如东常见的鱼种。  
 1. 【[䱀䲉鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_sz_y.md#䱀䲉鱼)】`ngan1 sz1 y2` <sup>[东台]</sup> 学名黄颡鱼。  
 1. 【[䱀䲉鱼颊骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_sz_y_jih_gueh.md#䱀䲉鱼颊骨)】`ngan1 sz1 y2 jih7 gueh7` <sup>[如东]</sup> 鲿科动物黄颡鱼颊骨。  
 1. 【[䱀䲉鱼涎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_sz_y_saen.md#䱀䲉鱼涎)】`ngan1 sz1 y2 saen2` <sup>[如东]</sup> 鲿科动物黄颡鱼皮肤中汾泌的黏液。  
@@ -959,7 +959,7 @@
 1. 【[𪸺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan.md#𪸺)】`ngan2, ngan3` <sup>[如皋]</sup> ① 烟雾迷漫：气冒～烟。 ② ～烟：阴燃，无明火而冒烟。  
 1. 【[𪸺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan.md#𪸺)】`ngan2` <sup>[泰县]</sup> ① 冒：锅膛里～烟。 ② 再烧一会：让炉里的炭再～～。  
 1. 【[𪸺烟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_in.md#𪸺烟)】`ngan2 in1` <sup>[如东]</sup> 草未着火时，向外冒浓烟的状态：这些草交关潮湿，点火以后一直～。  
-1. 【[炴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan.md#炴)】`ngan3` ① 烟升起。康熙字典“倚朗切，音坱。氣貌。”见“𪸺”：烟～起来啊。 ② 制造烟：～烟 ③ 烟熏：～蚊子｜～人/熏人  
+1. 【[炴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan.md#炴)】`ngan3` ① 烟升起。康熙字典“倚朗切，音坱。氣貌。”见“𪸺”：烟～起来啊。 ② 制造烟 ③ ～烟 ④ 烟熏：～蚊子｜～人/熏人  
 1. 【[炴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan.md#炴)】`ngan3` <sup>[兴化]</sup> ① 燃料未充分燃烧而冒浓烟：烧锅腔～烟。 ② 抽：～蚊子｜香烟～人。 ③ 《集韵·荡韵》倚朗切“～，气貌”。《广韵·养韵》於两切“～，火光”。  
 1. 【[炴烟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_in.md#炴烟)】`ngan3 in1` <sup>[东台]</sup> 物体没有充分燃烧而产生大量的烟：火烧秸秆，到处～，要综合利用变废为宝。也说“炴烟喷气”。见“𪸺烟”。  
 1. 【[𱞞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan.md#𱞞)】`ngan3` <sup>[如皋]</sup> 倔强、標悍的样子。  
@@ -1155,7 +1155,7 @@
 1. 【[牛佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_lo_r.md#牛佬<sub>儿</sub>)】`ngeu2 lo3 r` <sup>[泰县]</sup> 乡下人。  
 1. 【[牛虻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_mon.md#牛虻)】`ngeu2 mon2` <sup>[如东]</sup> 虻科昆虫复带虻。身体长椭圆形，有灰黑黄褐等色，胸部和腹部有花纹。雌虻体长17毫米，黄绿色。翅透明无斑。雌虻吸食牛、马驴等家畜血液；雄虫不吸血，吸植物的汁液。平常栖于草丛及树林中。成虫在夏季晴朗的天气最活跃。  
 1. 【[牛虻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_mon.md#牛虻)】`ngeu2 mon2` <sup>[东台]</sup> 昆虫名，生活在田野的杂草中，雌的吸人畜的血。  
-1. 【[牛虻蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_mon_hae.md#牛虻蟹)】`ngeu2 mon2 hae3` <sup>[如东]</sup> 蝤蛑科动物锯缘青蟹，也叫牛毛蟹。头胸甲长约10厘米。全体被坚硬的甲壳，外形近似梭子蟹，甲壳隆起而光滑，略呈扇状，前方额缘有明显的尖齿，两侧的最后一刺不向左右特别伸出。背面青绿色。眼1对，能活动。胸肢5对第1对为强大的螯足，第24对，长而扁，末端爪状，适于爬行，最后1对，扁平而宽，末节片状，适于游泳。腹部退化，折伏于头胸部下方，无尾节及尾肢，雌者呈圆形，雄者呈三角形。腹肢退化，藏于腹的内侧雌者4对，雄者2对。栖息在浅海泥沙中。  
+1. 【[牛虻蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_mon_hae.md#牛虻蟹)】`ngeu2 mon2 hae3` <sup>[如东]</sup> 蝤蛑科动物锯缘青蟹，也叫牛毛蟹。头胸甲长约10厘米。全体被坚硬的甲壳，外形近似梭子蟹，甲壳隆起而光滑，略呈扇状，前方额缘有明显的尖齿，两侧的最后一刺不向左右特别伸出。背面青绿色。眼1对，能活动。胸肢5对第1对为强大的螯足，第2-4对，长而扁，末端爪状，适于爬行，最后1对，扁平而宽，末节片状，适于游泳。腹部退化，折伏于头胸部下方，无尾节及尾肢，雌者呈圆形，雄者呈三角形。腹肢退化，藏于腹的内侧雌者4对，雄者2对。栖息在浅海泥沙中。  
 1. 【[牛磨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_mu.md#牛磨)】`ngeu2 mu6` <sup>[如皋]</sup> 畜力牵动的大石磨。  
 1. 【[牛轭头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_ngeh_teu.md#牛轭头)】`ngeu2 ngeh7 teu` <sup>[兴化]</sup> 牛拉犁时架在肩头上的轭具。  
 1. 【[牛屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_oh.md#牛屋)】`ngeu2 oh7` <sup>[兴化]</sup> 供牛栖息的棚舍。也称“牛棚”。  
@@ -1344,7 +1344,7 @@
 1. 【[拗别](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_pih.md#拗别)】`ngo5 pih8` <sup>[如东]</sup> 违抗：你不要跟他～。  
 1. 【[拗气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_qi.md#拗气)】`ngo5 qi5` <sup>[兴化]</sup> 闹别扭：争气～｜“哥哥你何苦……这叫～损财呀。”（《武松》六）  
 1. 【[拗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_zz.md#拗子)】`ngo5 zz` <sup>[兴化]</sup> ① 驴骡的俗称。 ② （喻）骂性情执物、倔强的人：他是个～，说话，做事总要跟人犯顶。  
-1. 【[擙磨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_mu.md#擙磨)】`ngo5 mu6` <sup>[如皋]</sup> 旧时用石磨磨粮，中等石磨，由12人用“磨担”推拉，称“拉磨”或“牵磨”。另1人一手掌握“磨担”的头部，另一手望磨眼里添料，称～。  
+1. 【[擙磨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_mu.md#擙磨)】`ngo5 mu6` <sup>[如皋]</sup> 旧时用石磨磨粮，中等石磨，由1-2人用“磨担”推拉，称“拉磨”或“牵磨”。另1人一手掌握“磨担”的头部，另一手望磨眼里添料，称～。  
 1. 【[擙磨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_mu.md#擙磨)】`ngo5 mu6` <sup>[东台]</sup> 石磨磨粮时有一人左手抓住磨担，右手抓粮食往磨眼里注入的动作。  
 1. 【[擙水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_shuei.md#擙水)】`ngo5 shuei3` <sup>[如皋]</sup> 用人力或畜力推动辋子戽水。  
 1. 【[隩壁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_bieh.md#隩壁)】`ngo5 bieh7` <sup>[如皋]</sup> 偏僻。  
@@ -1797,7 +1797,7 @@
 1. 【[鸟<sub>儿</sub>窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio_r_ku.md#鸟<sub>儿</sub>窠)】`nio3 r ku1` <sup>[如皋]</sup> ① 鸟窝。 ② 锁骨上方皮肤的凹处。  
 1. 【[鸟<sub>儿</sub>上窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio_r_shan_ku.md#鸟<sub>儿</sub>上窠)】`nio3 r shan6 ku1` <sup>[如皋]</sup> 黄昏时分。  
 1. 【[嬲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio.md#嬲)】`nio5` <sup>[如皋]</sup> ① 蠕动、扭动、翘起：蛆子～动。 ② 引逗、撩拨：他会～人家说话。  
-1. 【[嬲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio.md#嬲)】`nio5` <sup>[兴化]</sup> 扭动、向上翘：大火直往上～。｜蛇㐁子～啊～的。  
+1. 【[嬲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio.md#嬲)】`nio5` <sup>[兴化]</sup> ① 扭动、向上翘：大火直往上～。｜蛇㐁子～啊～的。 ② 微风习习：夏天的野外东南风～～的。  
 1. 【[嬲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio.md#嬲)】`nio5` <sup>[东台]</sup> ① 昆虫蠕动状：菜虫一～一～的。 ② ［引］后来翘：房价往上～｜文章结尾～上去啊。  
 1. 【[嬲魆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio_xyeh.md#嬲魆)】`nio5 xyeh7` <sup>[如东]</sup> ① 耍计谋：这个人非常～。 ② 调皮：这个伢儿非常～。  
 1. 【[尿床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio_chuan.md#尿床)】`nio6 chuan2` <sup>[如东]</sup> 将尿尿在床铺上，多指小儿  
@@ -1810,7 +1810,7 @@
 1. 【[挠糙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_co.md#挠糙)】`no2 co` <sup>[如皋]</sup> ① 表皮骚痒难受：伢儿有啊痱子，～起来就只哭。 ② 纠缠：小家伙一刻儿就来～你，弄得你不得安神。  
 1. 【[挠糙板子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_co_baen_zz.md#挠糙板子)】`no2 co baen3 zz` <sup>[如皋]</sup> 一种木制的糙磨皮肤以止痒的像板锉的用具，比喻会纠缠的人：这家伙是个～，成天的同你烦吖不歇。或比喻爱盘弄不停的手：细伢儿的手是～。  
 1. 【[挠人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_ren.md#挠人)】`no2 ren2` <sup>[如皋]</sup> 见“挠糙”。  
-1. 【[挠燥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_zo.md#挠燥)】`no2 zo` <sup>[东台]</sup> 使人作痒、涴酸（un5 sun）的感觉：  
+1. 【[挠燥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_zo.md#挠燥)】`no2 zo` <sup>[东台]</sup> 使人作痒、涴酸（un5 sun）的感觉  
 1. 【[蛲虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_chon.md#蛲虫)】`no2 chon2` <sup>[如东]</sup> 寄生虫。身体很小，白色，像线头。寄生在人体的小肠下部和大肠里。雌虫常从肛门里爬出来产卵。患者常觉肛门奇痒，并有消瘦、食欲不振等症状。  
 1. 【[铙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no.md#铙)】`no2` <sup>[如东]</sup> 打击乐器，两个圆形铜片，中间突起成半球形，两片拍打，能够发出响声。  
 1. 【[恼火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_hu.md#恼火)】`no3 hu3` <sup>[东台]</sup> 因愤恨、恼怒而发火。  

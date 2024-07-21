@@ -211,7 +211,7 @@
 1. 【[马叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_cha.md#马叉)】`ma3 cha1` <sup>[兴化]</sup> 古代的一种冷兵器，前端有三把双尖刀，成“山”字形。  
 1. 【[马齿苋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_chr_haen.md#马齿苋)】`ma3 chr3 haen6` <sup>[如东]</sup> 马齿苋科植物马齿苋，一年生肉质草本。  
 1. 【[马槽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_co.md#马槽)】`ma3 co2` <sup>[如皋]</sup> ① 马吃草料的木槽。 ② 简陋的棺材。另见“槥”。  
-1. 【[马草马料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_co_ma_lio.md#马草马料)】`ma3 co3 ma3 lio6` <sup>[如皋]</sup> 本指饲马的草料，又指腊月二十四送灶时给灶神所骑的“马”准备的稻草48小段，麸皮少许。灶神是“蟑螂”，灶马是“钱驮子”。  
+1. 【[马草马料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_co_ma_lio.md#马草马料)】`ma3 co3 ma3 lio6` <sup>[如皋]</sup> 本指饲马的草料，又指腊月二十四送灶时给灶神所骑的“马”准备的稻草4-8小段，麸皮少许。灶神是“蟑螂”，灶马是“钱驮子”。  
 1. 【[马大哈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_da_ha.md#马大哈)】`ma3 da6 ha1` <sup>[如东]</sup> 粗心大意：做事不能～。  
 1. 【[马灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_den.md#马灯)】`ma3 den1` <sup>[如皋]</sup> 桅灯。  
 1. 【[马兜铃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_deu_lien.md#马兜铃)】`ma3 deu1 lien2` <sup>[如东]</sup> 马兜铃科植物马兜铃，多年生缠绕或匍匐状细弱草本。  
@@ -257,7 +257,7 @@
 1. 【[马<sub>儿</sub>的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_r_dii.md#马<sub>儿</sub>的)】`ma3 r dii` <sup>[如皋]</sup> ① 胡涂马虎：他是个～。 ② 无结果：这份报告呈上去还是～。 ③ 敷衍搪塞：他说得的角真真的，好像笃定行，其实是～。  
 1. 【[马刷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_shuaeh.md#马刷)】`ma3 shuaeh7` <sup>[兴化]</sup> 竹篾扎成的长束，专用于洗刷马桶。  
 1. 【[马唐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_tan.md#马唐)】`ma3 tan2` <sup>[如东]</sup> 禾本科植物马唐，又名班地锦。  
-1. 【[马塘场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_tan_chan.md#马塘场)】`ma3 tan2 chan2` <sup>[如东]</sup> 南唐（937975年），马塘建烹炼亭。南宋高宗赵构绍兴十八年（1148年），改建为如皋县马塘盐场。  
+1. 【[马塘场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_tan_chan.md#马塘场)】`ma3 tan2 chan2` <sup>[如东]</sup> 南唐（937-975年），马塘建烹炼亭。南宋高宗赵构绍兴十八年（1148年），改建为如皋县马塘盐场。  
 1. 【[马塘镇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_tan_zhen.md#马塘镇)】`ma3 tan2 zhen5` <sup>[如东]</sup> 如东古镇，又名骥渚，雅号晓塘。唐代名炉子补村。清宣统二年（1910年）成立马塘乡。1950年，成立如东县马塘镇。  
 1. 【[马蹄甲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ti_jiaeh.md#马蹄甲)】`ma3 ti2 jiaeh7` <sup>[如东]</sup> 马科动物马蹄甲。  
 1. 【[马蹄莲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ti_lin.md#马蹄莲)】`ma3 ti2 lin2` <sup>[如东]</sup> 多年生草本植物，有块茎，叶有长柄，心状卵形。肉穗花序，外有漏斗状的大型苞片，白色，形似花冠。供观赏  
@@ -1258,6 +1258,10 @@
 1. 【[民间](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_jiaen.md#民间)】`mien2 jiaen1` <sup>[如东]</sup> 劳动人民中间（与官方区别）。  
 1. 【[民田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_tin.md#民田)】`mien2 tin2` <sup>[如东]</sup> 旧时私人占有的土地。也称私田。民田向政府缴纳田赋。  
 1. 【[民校](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_xio.md#民校)】`mien2 xio6` <sup>[如东]</sup> 20世纪柏年代，中国共产党领导下的革命根据地里对青年实施教育的民办业余学校，包括夜校、识字班等。多数为初级小学程度，也有相当于高级小学程度的。除文化课外，特别重视时事政策、生产、军事、卫生等知识的学习。建国初期，大量兴起，每村都有一所，开展扫除文盲教育活动。60年代逐渐减少。  
+1. 【[抿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien.md#抿)】`mien3` <sup>[如东]</sup> 用手轻轻地压拢：把头发～下子。  
+1. 【[抿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien.md#抿)】`mien3` <sup>[如皋]</sup> ① 完全闭合：把锅盖盖啊～吖。 ② 稍饮：～吖一点儿酒。  
+1. 【[抿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien.md#抿)】`mien3` <sup>[东台]</sup> 紧闭：把锅盖盖～吖，热气才跑不掉｜（对小孩）赶快把嘴～起来，不要再哭！  
+1. 【[抿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien.md#抿)】`mien3` <sup>[兴化]</sup> ① 吻合、无缝隙：口子～起来。 ② 煮肉至烂无须齿嚼：一～下肚。 ③ 缺齿者进食动作。  
 1. 【[抿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien.md#抿)】`mien3` <sup>[泰县]</sup> 合缝：门不～缝。  
 1. 【[抿缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_fon.md#抿缝)】`mien3 fon6` <sup>[如东]</sup> ① 缝隙密合。 ② 将缝隙填平、弥合：今朝船身开始～。  
 1. 【[抿缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_fon.md#抿缝)】`mien3 fon6` <sup>[如皋]</sup> 完全闭合。  
@@ -1593,7 +1597,7 @@
 1. 【[□一冲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_ieh_chon.md#□一冲)】`mo3 ieh7 chon5` <sup>[如皋]</sup> 陡然、突然：我～遇到他，真的认不出来呀。  
 1. 【[㴘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo.md#㴘)】`mo3` <sup>[东台]</sup> 泡渍：你把这块肉下锅用水～下子。  
 1. 【[冇口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_keu.md#冇口)】`mo3 keu3` <sup>[如皋]</sup> 见“夹冇”。  
-1. 【[卯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo.md#卯)】`mo3` <sup>[东台]</sup> ① 地支第四位。 ② 旧时官衙规定～时开始办公（早晨57点），所以用～作为点名、签到的代称。  
+1. 【[卯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo.md#卯)】`mo3` <sup>[东台]</sup> ① 地支第四位。 ② 旧时官衙规定～时开始办公（早晨5-7点），所以用～作为点名、签到的代称。  
 1. 【[卯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo.md#卯)】`mo3` <sup>[兴化]</sup> 逃脱：这回又让他～掉啊。  
 1. 【[卯调](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_dio.md#卯调)】`mo3 dio5` <sup>[兴化]</sup> 说话过了头：这话说咖～，不好收回。也说“冒调”。  
 1. 【[卯口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_keu.md#卯口)】`mo3 keu3` <sup>[如东]</sup> 用绳索打成一个圆形的扣，叫卯口。  

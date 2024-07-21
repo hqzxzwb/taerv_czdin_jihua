@@ -494,7 +494,7 @@
 1. 【[洋金花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_jien_hua.md#洋金花)】`ian2 jien1 hua1` <sup>[如东]</sup> 茄科植物白曼陀罗，一年生草本。茎直立，圆柱形高约60厘米。基部木质化。叶互生，卵形、长卵形或心脏形，全缘或近三角状短齿。花单生于叶腋或上部分枝间，淡黄绿色。蒴果球形，表面有疏短刺，成熟后由绿变为淡褐色。种子多数，略呈三角形。生长在岸坡或住宅附近。  
 1. 【[洋口港](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_keu_gan.md#洋口港)】`ian2 keu3 gan3` <sup>[如东]</sup> 如东沿海商港。位于长沙镇以东、南黄海兰（烂）沙洋。水深20～30米。可泊10至30万吨级大型船舶。2003年11月18日开工建设，2008年10月28日初步通航。  
 1. 【[洋口港堤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_keu_gan_ti.md#洋口港堤)】`ian2 keu3 gan3 ti2` <sup>[如东]</sup> 洋口港临港工业区围堤，简称洋口港堤。2003年12月16日开工，20058月20日结束。全长8公里。机械化作业，动用民力0.1万人。  
-1. 【[洋口农场堤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_keu_non_chan_ti.md#洋口农场堤)】`ian2 keu3 non2 chan2 ti2` <sup>[如东]</sup> 如皋县筹建如皋盐场而修筑。起自小洋口闸东侧，绕老海堤外滩面，接于老海堤十六总，全长14.9公里。1960年11月，如皋县调集2万多民力动工，于1961年4月竣工，完成土方2055万立方米。顶高程8米，顶宽56米。1960年七月半汛大潮堤防破口15米以上。当年10月，堤防退后100米，筑新堤1.2公里。白水滩是险工堤段，为防汛重点。经过长期维修加固，以及堤外积长淤高，险情渐趋缓和。  
+1. 【[洋口农场堤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_keu_non_chan_ti.md#洋口农场堤)】`ian2 keu3 non2 chan2 ti2` <sup>[如东]</sup> 如皋县筹建如皋盐场而修筑。起自小洋口闸东侧，绕老海堤外滩面，接于老海堤十六总，全长14.9公里。1960年11月，如皋县调集2万多民力动工，于1961年4月竣工，完成土方2055万立方米。顶高程8米，顶宽5-6米。1960年七月半汛大潮堤防破口15米以上。当年10月，堤防退后100米，筑新堤1.2公里。白水滩是险工堤段，为防汛重点。经过长期维修加固，以及堤外积长淤高，险情渐趋缓和。  
 1. 【[洋款](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_kun.md#洋款)】`ian2 kun3` <sup>[兴化]</sup> 穷讲究：你少～吧，把肚子吃饱就不丑啊。  
 1. 【[洋蜡金纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_laeh_jien_zhr.md#洋蜡金纸)】`ian2 laeh8 jien1 zhr3` <sup>[如皋]</sup> 彩光纸。源自德国。  
 1. 【[洋蜡烛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_laeh_zhoh.md#洋蜡烛)】`ian2 laeh8 zhoh7` <sup>[如皋]</sup> 矿烛。  
@@ -1358,7 +1358,7 @@
 1. 【[樱桃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_to.md#樱桃)】`ien1 to2` <sup>[如东]</sup> 蔷薇科植物樱桃。  
 1. 【[樱桃𣝗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_to_hueh.md#樱桃𣝗)】`ien1 to2 hueh8` <sup>[如东]</sup> 蔷薇科植物樱桃树果核。  
 1. 【[樱桃水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_to_shuei.md#樱桃水)】`ien1 to2 shuei3` <sup>[如东]</sup> 蔷薇科植物樱桃树的新鲜果实，经加工取得的液汁。  
-1. 【[樱桃树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_to_shv.md#樱桃树)】`ien1 to2 shv6` <sup>[如东]</sup> 蔷薇科植物樱桃，落叶乔木，高约3米。树皮灰棕色，有明显的皮孔。叶互生，长卵圆形，24裂，边缘具重锯齿。花先叶开放。总状花序。花白色或粉红色，略有芳香。核果球形，成熟时鲜红色，内含种子一枚，味甜。庭园栽培。木材坚硬致密，可制家具。  
+1. 【[樱桃树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_to_shv.md#樱桃树)】`ien1 to2 shv6` <sup>[如东]</sup> 蔷薇科植物樱桃，落叶乔木，高约3米。树皮灰棕色，有明显的皮孔。叶互生，长卵圆形，2-4裂，边缘具重锯齿。花先叶开放。总状花序。花白色或粉红色，略有芳香。核果球形，成熟时鲜红色，内含种子一枚，味甜。庭园栽培。木材坚硬致密，可制家具。  
 1. 【[殷历](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_lieh.md#殷历)】`ien1 lieh8` <sup>[如皋]</sup> 商代的历法。殷正建丑，以腊月初一为正月初一。今存腊月黄天之俗。  
 1. 【[洇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien.md#洇)】`ien1` <sup>[东台]</sup> 液体落在纸上或土上向四周渗透：这种纸写毛笔字容易～｜一场小雨把泥土～湿咖。  
 1. 【[瀴人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_ren.md#瀴人)】`ien1 ren2` <sup>[如东]</sup> 感觉很凉：太阳才下山，我就觉察～。  
@@ -1927,7 +1927,7 @@
 1. 【[烟囱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_con.md#烟囱)】`in1 con1` <sup>[如东]</sup> 排烟的管道。  
 1. 【[烟囱绑棍子——不是好灶（兆）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_con_ban_guen_zz_beh_shr_ho_zo.md#烟囱绑棍子——不是好灶（兆）)】`in1 con1 ban3 guen5 zz beh7 shr6 ho3 zo5 （cho6）` <sup>[东台]</sup>   
 1. 【[烟囱扎白布——灶（躁）死啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_con_zhaeh_poh_bv_zo_sz_a.md#烟囱扎白布——灶（躁）死啊)】`in1 con1 zhaeh7 poh8 bv5 zo5 sz3 a` <sup>[东台]</sup>   
-1. 【[烟墩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_den.md#烟墩)】`in1 den1` <sup>[东台]</sup> 古代设在海滩上的烽堠，类似于烽火台，有木制架式，有高土堆上燃烟式：为抗击倭寇，东台嘉靖年间（15211566）从富安到小海共设立十一座，后又增设二十九座～。  
+1. 【[烟墩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_den.md#烟墩)】`in1 den1` <sup>[东台]</sup> 古代设在海滩上的烽堠，类似于烽火台，有木制架式，有高土堆上燃烟式：为抗击倭寇，东台嘉靖年间（1521-1566）从富安到小海共设立十一座，后又增设二十九座～。  
 1. 【[烟火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_hu.md#烟火)】`in1 hu` <sup>[东台]</sup> ① 燃放时能发出各色火花而供人观赏的东西。 ② 代指烧火做饭：人间～。  
 1. 【[烟炣气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_hu_qi.md#烟炣气)】`in1 hu1 qi` <sup>[如皋]</sup> 食品中有烟熏味。  
 1. 【[烟火气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_hu_qi.md#烟火气)】`in1 hu3 qi5` <sup>[如东]</sup> ① 植物秸燃烧后发出的一种特殊气味。 ② 米饭过火，发出一种煳焦味，称烟火气。  

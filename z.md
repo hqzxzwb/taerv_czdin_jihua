@@ -1,8 +1,6 @@
 # 音序检索
 **[A](./a.md) | [B](./b.md) | [C](./c.md) | [D](./d.md) | [E](./e.md) | [F](./f.md) | [G](./g.md) | [H](./h.md) | [I](./i.md) | [J](./j.md) | [K](./k.md) | [L](./l.md) | [M](./m.md) | [N](./n.md) | [O](./o.md) | [P](./p.md) | [Q](./q.md) | [R](./r.md) | [S](./s.md) | [T](./t.md) | [U](./u.md) | [V](./v.md) | [X](./x.md) | [Y](./y.md) | [Z](./z.md)**  
 ## Z
-1. 【[咋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/za.md#咋)】`za3` <sup>[东台]</sup> “怎吖”的合音，疑问代词：这个事你～说？｜他～还不到？  
-1. 【[咋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/za.md#咋)】`za3` <sup>[兴化]</sup> 怎、怎么：～办？｜你～不去的？  
 1. 【[咋得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/za_deh.md#咋得)】`za3 deh` “怎吖”合音为“咋”，“咋得”意思是“怎么可以，怎么能”：这吖简单，咋得不会做的啦？  
 1. 【[咋得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/za_deh.md#咋得)】`za3 deh7` 怎么能，怎么会：～箇个样子的啦？/怎么会这个样子的？  
 1. 【[咋得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/za_deh.md#咋得)】`za3 deh7` <sup>[泰县]</sup> 怎么能、怎么会：这个人身体蛮好的，～死的？  
@@ -314,8 +312,6 @@
 1. 【[曾外孙女](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_vae_suen_ny.md#曾外孙女)】`zen1 vae6 suen1 ny3` <sup>[如东]</sup> 女儿的孙女。  
 1. 【[曾祖父](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_zv_fv.md#曾祖父)】`zen1 zv3 fv6` <sup>[如东]</sup> 父亲的祖父。  
 1. 【[曾祖母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_zv_mu.md#曾祖母)】`zen1 zv3 mu3` <sup>[如东]</sup> 父亲的祖母。  
-1. 【[罾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen.md#罾)】`zen1` <sup>[如东]</sup> 一种鱼网。四方形。竹竿撑开四角，放入水中，依靠下放上拉进行捕鱼。  
-1. 【[罾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen.md#罾)】`zen1` <sup>[东台]</sup> 一种方形鱼网，按大小和捕鱼方法不同，分踢～、扳～、大～等。（见“扳罾”）  
 1. 【[怎吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_nga.md#怎吖)】`zen3 nga` <sup>[如皋]</sup> 怎么、怎么样，合音为zan3，za3 。  
 1. 【[怎吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_nga.md#怎吖)】`zen3 nga` <sup>[如东]</sup> 怎么，怎样：你要～？  
 1. 【[怎吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_nga.md#怎吖)】`zen3 nga` <sup>[兴化]</sup> 疑问代词，相当于“怎么”“怎样”。境内其他地方也读作jien3 nga。  
@@ -331,8 +327,7 @@
 1. 【[甑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_zz.md#甑子)】`zen5 zz` <sup>[东台]</sup> 古代蒸饭的一种瓦器。本地主要指加在锅子上面，蒸饭用的木制桶状物。  
 1. 【[走](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeu.md#走)】`zeu3` ① 经过某地去某处：～上海去北京。/经过上海去北京。 ② 从（表示空间的起点）：～哪许开始？/从哪里开始？  
 1. 【[走](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeu.md#走)】`zeu3` <sup>[如东]</sup> ① 人或鸟兽的脚交互向前移动。 ② 一种烹调方法，把菜肴放在沸油中稍煮即捞起来，叫走。 ③ 一种缝纫方法，用针线在布的边沿缝一条线，称走。 ④ 死的讳称：他已经～啊。  
-1. 【[走](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeu.md#走)】`zeu3` <sup>[兴化]</sup> 物体移动、倾斜，偏离了原来的部位：元来那一垛墙～了，一向床遮着不觉得，此时偶然坍将下米……（《二刻》十五）  
-1. 【[走](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeu.md#走)】`zeu3` <sup>[兴化]</sup> 生的菜肴放在油锅中汆一下就捞起来，临吃时再加佐料烩：先拿油～啊子。  
+1. 【[走](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeu.md#走)】`zeu3` <sup>[兴化]</sup> ① 物体移动、倾斜，偏离了原来的部位：元来那一垛墙～了，一向床遮着不觉得，此时偶然坍将下米……（《二刻》十五） ② 生的菜肴放在油锅中汆一下就捞起来，临吃时再加佐料烩：先拿油～啊子。  
 1. 【[走](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeu.md#走)】`zeu3` <sup>[泰县]</sup> 食品放到锅里后很快捞起来：地瓜切成片以后只要放锅去～下子就能吃。  
 1. 【[走啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeu_a.md#走啊)】`zeu3 a` <sup>[如东]</sup> ① 已经离开：他～。 ② 比喻人已死了：王二上午～。  
 1. 【[走啊荤（溷）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeu_a_huen.md#走啊荤（溷）)】`zeu3 a huen5` <sup>[如皋]</sup> 鱼肉类开始变质有臭味。  
@@ -1124,8 +1119,8 @@
 1. 【[周而仁之](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheu_er_ren_zhr.md#周而仁之)】`zheu1 er2 ren2 zhr1` <sup>[如东]</sup> 仔细认真：～，你一定要做好。  
 1. 【[周而正之](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheu_er_zhen_zhr.md#周而正之)】`zheu1 er2 zhen5 zhr1` <sup>[东台]</sup> 正轨、认真严肃的样子。  
 1. 【[周二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheu_er.md#周二)】`zheu1 er6` <sup>[兴化]</sup> “屎”的隐语：源于成语“周而复始”的缩脚语，省却“复”字，“二”“而”谐音，下一字即为“始”——屎。  
-1. 【[周法高](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheu_faeh_go.md#周法高)】`zheu1 faeh7 go1` <sup>[东台]</sup> 字子范，号汉堂，东台安丰人（19151994），著名语言文字学家，与北京大学王力、瑞典汉学家高本汉，同为国际公认的三大中国语言学大师。  
-1. 【[周光熙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheu_guan_xi.md#周光熙)】`zheu1 guan1 xi1` <sup>[东台]</sup> 著名翻译家（19091996）。20世纪三十年代创办东台光实中学。主要译著有《悲惨世界》（雨果原著）《驻外间谍》等。  
+1. 【[周法高](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheu_faeh_go.md#周法高)】`zheu1 faeh7 go1` <sup>[东台]</sup> 字子范，号汉堂，东台安丰人（1915-1994），著名语言文字学家，与北京大学王力、瑞典汉学家高本汉，同为国际公认的三大中国语言学大师。  
+1. 【[周光熙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheu_guan_xi.md#周光熙)】`zheu1 guan1 xi1` <sup>[东台]</sup> 著名翻译家（1909-1996）。20世纪三十年代创办东台光实中学。主要译著有《悲惨世界》（雨果原著）《驻外间谍》等。  
 1. 【[周济](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheu_ji.md#周济)】`zheu1 ji5` <sup>[如东]</sup> 接济：王二有困难，大家总～他。  
 1. 【[周年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheu_nin.md#周年)】`zheu1 nin` <sup>[如东]</sup> ① 事情经过一年时间，称周年。 ② 人死一年，称周年。  
 1. 【[周年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheu_nin.md#周年)】`zheu1 nin` <sup>[兴化]</sup> 忌辰：烧～｜过～。  
@@ -1159,7 +1154,7 @@
 1. 【[皱里马哄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheu_lii_ma_hon.md#皱里马哄)】`zheu5 lii ma hon1` <sup>[东台]</sup> 衣服皱巴巴，不挺括。  
 1. 【[皱里皱巴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheu_lii_zheu_ba_dii.md#皱里皱巴的)】`zheu5 lii zheu5 ba1 dii` <sup>[如皋]</sup> 皱褶不平的样子。  
 1. 【[皱皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheu_pi.md#皱皮)】`zheu5 pi2` <sup>[如皋]</sup> ① 皮肤收缩。 ② 有细碎皱纹的皮肤，引指物体表面起皱。  
-1. 【[皱唇鲨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheu_shuen_sha.md#皱唇鲨)】`zheu5 shuen2 sha1` <sup>[如东]</sup> 皱唇鲨科动物皱唇鲨，前部粗大，后部渐细，体长约1米左右。口大，唇褶发达。牙细排列紧密，3齿尖型。体背及上仙面呈灰褐色，略带暗紫色。体侧有913条暗褐色横纹，并布有不规则的黑色斑点。体下侧面及腹面银白色，背鳍2个，无硬棘，第1背鳍位于胸鳍及腹鳍之间的上方，尾鳍宽长，尾椎轴稍上翘。生活在海洋中。鱼肝可制鱼肝油，鱼鲞为上等海鲜，是如东的重要经济鱼类。  
+1. 【[皱唇鲨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheu_shuen_sha.md#皱唇鲨)】`zheu5 shuen2 sha1` <sup>[如东]</sup> 皱唇鲨科动物皱唇鲨，前部粗大，后部渐细，体长约1米左右。口大，唇褶发达。牙细排列紧密，3齿尖型。体背及上仙面呈灰褐色，略带暗紫色。体侧有9-13条暗褐色横纹，并布有不规则的黑色斑点。体下侧面及腹面银白色，背鳍2个，无硬棘，第1背鳍位于胸鳍及腹鳍之间的上方，尾鳍宽长，尾椎轴稍上翘。生活在海洋中。鱼肝可制鱼肝油，鱼鲞为上等海鲜，是如东的重要经济鱼类。  
 1. 【[皱纹肚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheu_ven_dv_r.md#皱纹肚<sub>儿</sub>)】`zheu5 ven2 dv3 r` <sup>[如皋]</sup> 牛皱胃。  
 1. 【[䇽圈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_qiun_r.md#䇽圈<sub>儿</sub>)】`zhih7 qiun1 r` <sup>[如皋]</sup> 见“䇽子”。  
 1. 【[䇽窝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_u.md#䇽窝)】`zhih7 u1` <sup>[东台]</sup> 见“窝䇽”（窝摺）。  
@@ -1189,7 +1184,7 @@
 1. 【[折子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_zz.md#折子)】`zhih7 zz` <sup>[如东]</sup> 芦苇编成，一尺宽，三丈长左右。围圈起来，可以囤放粮食。也叫折圈儿。  
 1. 【[折子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_zz.md#折子)】`zhih7 zz` <sup>[如皋]</sup> 旧时民间流行的折叠式小账本，又称金折儿。在借贷中记账、签字用。  
 1. 【[折子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_zz.md#折子)】`zhih7 zz` <sup>[东台]</sup> ① 用纸折叠而成的小册子，一般在十三折以上。 ② 指存折。  
-1. 【[浙贝母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_bei_mu.md#浙贝母)】`zhih7 bei5 mu3` <sup>[如东]</sup> 百合科植物浙贝母，多年生草本。鳞茎半球形，有23片肉质鳞片（名元宝贝）。茎单一，直立，圆柱形，高约80厘米。叶无柄；茎下部叶对生，披针形；中上部叶轮生，较短，先端卷须状。花单生茎顶或叶腋，淡黄色或黄绿色。蒴果卵圆形。种子扁平，边缘具翅。生长在湿润的沟边、村边草丛中。  
+1. 【[浙贝母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_bei_mu.md#浙贝母)】`zhih7 bei5 mu3` <sup>[如东]</sup> 百合科植物浙贝母，多年生草本。鳞茎半球形，有2-3片肉质鳞片（名元宝贝）。茎单一，直立，圆柱形，高约80厘米。叶无柄；茎下部叶对生，披针形；中上部叶轮生，较短，先端卷须状。花单生茎顶或叶腋，淡黄色或黄绿色。蒴果卵圆形。种子扁平，边缘具翅。生长在湿润的沟边、村边草丛中。  
 1. 【[蜇下子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_ha_zz.md#蜇下子)】`zhih7 ha zz` <sup>[如皋]</sup> 用盐稍腌。  
 1. 【[蜇人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_ren_zz.md#蜇人子)】`zhih7 ren zz` <sup>[如皋]</sup> 被腌的痛感。  
 1. 【[蜇人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_ren.md#蜇人)】`zhih7 ren2` <sup>[如东]</sup> 皮肤或粘膜因受碱性物质的刺激而发生微痛：海水倒啊伤口上有些～。  
@@ -1382,7 +1377,7 @@
 1. 【[竹叶青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_ih_qien.md#竹叶青)】`zhoh7 ih8 qien1` <sup>[如东]</sup> 蝮蛇科动物青竹蛇。生活在树上。有剧毒。  
 1. 【[竹院<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_iun_r.md#竹院<sub>儿</sub>)】`zhoh7 iun6 r` <sup>[如皋]</sup> 院落里的竹园。  
 1. 【[竹茎秆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_jien_gun.md#竹茎秆)】`zhoh7 jien1 gun3` <sup>[如东]</sup> 禾本科植物淡竹枯死的幼嫩茎秆，也名仙人杖。  
-1. 【[竹节虾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_jih_xia.md#竹节虾)】`zhoh7 jih7 xia1` <sup>[如东]</sup> 对虾科动物日本对虾，体长约1220厘米。体被蓝褐色横斑花纹，尾尖为鲜艳的蓝色。额角微呈正弯弓形，上缘810齿，下缘12齿。第触角鞭甚短，短于头胸甲的1/2。第一对步足无座节刺雄虾交接器中叶顶端的非常粗大的突起，雌虾交接器呈长圆柱形。成熟虾，雌虾大于雄虾。生活在泥沙底的浅海中。肉质鲜美营养丰富。为重要经济虾类。是如东特色海鲜。  
+1. 【[竹节虾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_jih_xia.md#竹节虾)】`zhoh7 jih7 xia1` <sup>[如东]</sup> 对虾科动物日本对虾，体长约12-20厘米。体被蓝褐色横斑花纹，尾尖为鲜艳的蓝色。额角微呈正弯弓形，上缘8-10齿，下缘1-2齿。第触角鞭甚短，短于头胸甲的1/2。第一对步足无座节刺雄虾交接器中叶顶端的非常粗大的突起，雌虾交接器呈长圆柱形。成熟虾，雌虾大于雄虾。生活在泥沙底的浅海中。肉质鲜美营养丰富。为重要经济虾类。是如东特色海鲜。  
 1. 【[竹卷心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_jiun_xien.md#竹卷心)】`zhoh7 jiun3 xien1` <sup>[如东]</sup> 禾本科植物淡竹的卷而未放的幼叶。  
 1. 【[竹壳<sub>儿</sub>枕头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_kah_r_zhen_teu.md#竹壳<sub>儿</sub>枕头)】`zhoh7 kah7 r zhen3 teu` <sup>[如皋]</sup> 用毛竹片做成的中空式的枕头。  
 1. 【[竹窠<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_ku_r.md#竹窠<sub>儿</sub>)】`zhoh7 ku1 r` <sup>[如皋]</sup> ① 到处是竹林的荒僻地方。 ② 旧地名：吴家～，在如皋北门外肉联厂西侧。 ③ 竹篾编的摇篮。  
@@ -1791,7 +1786,7 @@
 1. 【[桌子脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_zz_jiah.md#桌子脚)】`zhuah7 zz jiah7` <sup>[如东]</sup> 支撑桌面的腿。  
 1. 【[浞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah.md#浞)】`zhuah7` <sup>[如皋]</sup> 用盐或卤汁略腌渍：把肉片先～下子。  
 1. 【[𢽚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah.md#𢽚)】`zhuah7` <sup>[如皋]</sup> ① 重重地放下：他来啊火，把筷儿望桌上一～，把碗总～咖跳起来呀。 ② 整理、清点：～账。  
-1. 【[𢽚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah.md#𢽚)】`zhuah7` <sup>[东台]</sup> ① 颠簸：路上～得难受。 ② 耸肩膀：他肩膀一～，做啊个鬼脸。  
+1. 【[𢽚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah.md#𢽚)】`zhuah7` <sup>[东台]</sup> ① 	颠簸：路上～得难受。 ② 耸肩膀：他肩膀一～，做啊个鬼脸。  
 1. 【[𢽚下子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_ha_zz.md#𢽚下子)】`zhuah7 ha zz` <sup>[如皋]</sup> ① 整理一下。 ② 总计一下。  
 1. 【[𢽚屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_pi_gu.md#𢽚屁股)】`zhuah7 pi5 gu` <sup>[如皋]</sup> 人体落下时，屁股先触及物体而被反弹力打击。  
 1. 【[𢽚钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_qin.md#𢽚钱)】`zhuah7 qin2` <sup>[如皋]</sup> 清点钱数。  
@@ -2031,9 +2026,9 @@
 1. 【[转子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_zz.md#转子)】`zhun5 zz` <sup>[泰县]</sup> 随机应变的本领：这个人有～，情况有点儿变化也不要紧。  
 1. 【[朱沆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_han.md#朱沆)】`zhv1 han6` <sup>[东台]</sup> 十九世纪早期人，道光年间曾两任淮南盐运司东台分司厅通判。其诗书画印皆精，尤擅画马，故宫博物院有其旧藏。姜焘、朱进贤、朱雨秋等画家都曾得到他的培养。  
 1. 【[朱洪武扫地——各登原位](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_hon_v_so_ti_gah_den_iun_vei.md#朱洪武扫地——各登原位)】`zhv1 hon2 v3 so3 ti6 gah7 den1 iun2 vei6` <sup>[东台]</sup>   
-1. 【[朱华](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_hua.md#朱华)】`zhv1 hua2` <sup>[东台]</sup> （18931954）东台富安人。1916年参加讨袁战争；1931年出任正太铁路局副局长，维护民族利益，整顿路局秩序，深受职工爱戴。抗日战争期间，参加台儿庄大战。为中共和民主党派做了大量工作。解放后任华东水利部参事，华东军政委员会参事。  
+1. 【[朱华](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_hua.md#朱华)】`zhv1 hua2` <sup>[东台]</sup> （1893-1954）东台富安人。1916年参加讨袁战争；1931年出任正太铁路局副局长，维护民族利益，整顿路局秩序，深受职工爱戴。抗日战争期间，参加台儿庄大战。为中共和民主党派做了大量工作。解放后任华东水利部参事，华东军政委员会参事。  
 1. 【[朱进贤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_jien_xin.md#朱进贤)】`zhv1 jien5 xin2` <sup>[东台]</sup> 十九世纪早中期人，家住台城的菜农。喜爱绘画，擅画芦雁，成为农民画家。  
-1. 【[朱雨秋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_y_qieu.md#朱雨秋)】`zhv1 y3 qieu1` <sup>[东台]</sup> （18341918）东台城人，同治六年武举，擅画青绿山水，驰名大江南北。  
+1. 【[朱雨秋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_y_qieu.md#朱雨秋)】`zhv1 y3 qieu1` <sup>[东台]</sup> （1834-1918）东台城人，同治六年武举，擅画青绿山水，驰名大江南北。  
 1. 【[株](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv.md#株)】`zhv1` <sup>[如皋]</sup> ① 肿：捱撞的地方～啊个瘤。 ② 胀闷感：这口气～啊心里。  
 1. 【[株里块垃的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_lii_kuae_laeh_dii.md#株里块垃的)】`zhv1 lii kuae5 laeh dii` <sup>[如皋]</sup> 不规则的肿块。  
 1. 【[猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv.md#猪)】`zhv1` <sup>[如东]</sup> ① 猪科动物猪，躯体肥胖，头大，鼻长，眼小，耳壳大而下垂，四肢短小，颈粗，颈背生鬃毛。尾小。家庭饲养。 ② 比喻笨拙：你这个人～唻！  
@@ -2747,7 +2742,7 @@
 1. 【[紫苏兜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_sv_deu.md#紫苏兜)】`zz3 sv1 deu1` <sup>[如东]</sup> 唇科植物皱紫苏根及近根的老茎。  
 1. 【[紫苏叶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_sv_ih.md#紫苏叶)】`zz3 sv1 ih8` <sup>[如东]</sup> 唇科植物皱紫苏叶。  
 1. 【[紫苏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_sv_zz.md#紫苏子)】`zz3 sv1 zz` <sup>[如东]</sup> 唇科植物皱紫苏的果实。  
-1. 【[紫藤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_ten.md#紫藤)】`zz3 ten2` <sup>[如东]</sup> 豆科植物紫藤，落叶攀援灌木，通称藤萝。茎缠绕于他物上。单数羽状复叶，互生；小叶通常711枚，卵状披针形。总状花序侧生，倒垂。花冠蝶形，蓝紫色。荚果长而扁平，硬，表面有绒毛。种子扁圆形。多栽于庭园供观赏。  
+1. 【[紫藤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_ten.md#紫藤)】`zz3 ten2` <sup>[如东]</sup> 豆科植物紫藤，落叶攀援灌木，通称藤萝。茎缠绕于他物上。单数羽状复叶，互生；小叶通常7-11枚，卵状披针形。总状花序侧生，倒垂。花冠蝶形，蓝紫色。荚果长而扁平，硬，表面有绒毛。种子扁圆形。多栽于庭园供观赏。  
 1. 【[紫铜器](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_ton_qi.md#紫铜器)】`zz3 ton2 qi5` <sup>[如皋]</sup> 旧时普遍使用的一种用纯铜经手工锤成的器皿。如：紫铜锅儿、紫铜铫儿、紫铜茶壶等。  
 1. 【[紫葳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_vei.md#紫葳)】`zz3 vei1` <sup>[如东]</sup> 紫葳科植物紫葳，落叶木质藤本。茎黄褐色。单数羽状复叶，对生，小叶卵形，边缘具锯齿。圆锥花序。花赤黄色，漏斗状钟形。蒴果细长，豆荚状。种子扁形。生长在溪边、林下或栽培。  
 1. 【[紫葳花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_vei_hua.md#紫葳花)】`zz3 vei1 hua1` <sup>[如东]</sup> 紫葳科植物紫葳花，又名凌霄花。  

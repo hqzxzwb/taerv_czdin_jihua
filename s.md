@@ -157,7 +157,7 @@
 1. 【[三教九流](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_jio_jieu_lieu.md#三教九流)】`saen1 jio5 jieu3 lieu2` <sup>[如东]</sup> 三教指儒教、佛教、道教；九流指儒家、道家、阴阳家、法家、名家、墨家、纵横家、杂家农家。泛指宗教、学术中各种流派或社会上各种行业。旧社会也用来泛称江湖上各种各样的人。也说九流三派。  
 1. 【[三教九流](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_jio_jieu_lieu.md#三教九流)】`saen1 jio5 jieu3 lieu2` <sup>[东台]</sup> 泛指宗教、学术界中的各种流派或社会上各种行业，也泛指江湖上各种各样的人。  
 1. 【[三考六练](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_ko_loh_lin.md#三考六练)】`saen1 ko3 loh8 lin6` <sup>[东台]</sup> 经常性练习、考评：他经过～，拳越打越好。  
-1. 【[三浪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_lan_zz.md#三浪子)】`saen1 lan6 zz` <sup>[如东]</sup> 鲻鱼科动物沙丁鱼，体形比沙丁鱼长一些，约1015厘米  
+1. 【[三浪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_lan_zz.md#三浪子)】`saen1 lan6 zz` <sup>[如东]</sup> 鲻鱼科动物沙丁鱼，体形比沙丁鱼长一些，约10-15厘米  
 1. 【[三轮车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_len_cha.md#三轮车)】`saen1 len2 cha1` <sup>[东台]</sup> 有三个轮子，靠人力骑行的车子。  
 1. 【[三离不角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_li_beh_gah.md#三离不角)】`saen1 li2 beh7 gah7` <sup>[如东]</sup> 形状不规则而多棱。比喻怪里怪气，不通情理：这个人～的，不好相处。  
 1. 【[三里丢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_li_dieu.md#三里丢)】`saen1 li3 dieu1` <sup>[泰县]</sup> 草鞋。  
@@ -216,7 +216,7 @@
 1. 【[三十里的酒店——远䁃䁃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheh_li_dii_jieu_din_iun_bio_bio.md#三十里的酒店——远䁃䁃)】`saen1 sheh8 li3 dii jieu3 din5 iun3 bio1 bio1` <sup>[东台]</sup>   
 1. 【[三十晚上谈家常——全是好话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheh_vaen_shan_taen_jia_chan_qiun_shr_ho_hua.md#三十晚上谈家常——全是好话)】`saen1 sheh8 vaen3 shan taen2 jia1 chan2 qiun2 shr6 ho3 hua6` <sup>[东台]</sup>   
 1. 【[三牲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_shen.md#三牲)】`saen1 shen1` <sup>[如东]</sup> 牛、羊、猪为三牲。举行重大祭祀活动，需用三牲礼。  
-1. 【[三时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_shr.md#三时)】`saen1 shr2` <sup>[如皋]</sup> “时天”的第三段，在夏至时刻后第1316天间。  
+1. 【[三时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_shr.md#三时)】`saen1 shr2` <sup>[如皋]</sup> “时天”的第三段，在夏至时刻后第13-16天间。  
 1. 【[三时等不到六时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_shr_den_beh_do_loh_shr.md#三时等不到六时)】`saen1 shr2 den3 beh7 do5 loh8 shr2` <sup>[如皋]</sup> 很急。急不可奈。  
 1. 【[三时清，姐䗜鸣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_shr_qien_jia_lieu_mien.md#三时清，姐䗜鸣)】`saen1 shr2 qien1 jia3 lieu2 mien2` <sup>[东台]</sup> （农谚）出梅后，天气转热，蝉开始鸣叫。  
 1. 【[三世修不到个城角落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_shr_xieu_beh_do_gu_chen_gah_lah.md#三世修不到个城角落)】`saen1 shr5 xieu1 beh7 do5 gu chen2 gah7 lah` <sup>[东台]</sup> 城市条件一般总好于农村，哪怕城市的角落也令乡下人羡慕，感到求之不得。  
@@ -284,7 +284,7 @@
 1. 【[涎唾子气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_tu_zz_qi.md#涎唾子气)】`saen2 tu5 zz qi5` <sup>[如皋]</sup> 唾液干后的臭味。  
 1. 【[涎唾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_tv.md#涎唾)】`saen2 tv5` <sup>[东台]</sup> 同“涎水”。  
 1. 【[涎腥气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_xien_qi.md#涎腥气)】`saen2 xien qi5` <sup>[如皋]</sup> 唾液干后的臭味。  
-1. 【[伞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen.md#伞)】`saen3` <sup>[如东]</sup> 由伞头、伞骨、伞柄组成。伞骨为竹丝或铁丝。由810根伞骨构成锥体。伞骨上蒙油纸、油布或丝绸布塑料布。可以开合。撑开伞骨，能够挡雨、遮阳。例如雨伞、阳伞等。  
+1. 【[伞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen.md#伞)】`saen3` <sup>[如东]</sup> 由伞头、伞骨、伞柄组成。伞骨为竹丝或铁丝。由8-10根伞骨构成锥体。伞骨上蒙油纸、油布或丝绸布塑料布。可以开合。撑开伞骨，能够挡雨、遮阳。例如雨伞、阳伞等。  
 1. 【[伞顶漏雨——搞到自己头上来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_dien_leu_y_go_do_cz_ji_teu_shan_lae_a.md#伞顶漏雨——搞到自己头上来啊)】`saen3 dien3 leu6 y3 go3 do5 cz6 ji3 teu2 shan6 lae2 a` <sup>[东台]</sup>   
 1. 【[伞骨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_gueh_zz.md#伞骨子)】`saen3 gueh7 zz` <sup>[兴化]</sup> 伞的骨架，由铁丝或竹篾制成，连着伞柄，可使伞张开。  
 1. 【[散板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_baen.md#散板)】`saen3 baen3` <sup>[兴化]</sup> ① （借）极顶：穷吖～｜坏啊一｜快活～。 ② （喻）散架：王连方虽说还能故作镇静，到底断了箍，散了板了。（毕飞宇：《玉米》）  
@@ -407,6 +407,7 @@
 1. 【[摵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh.md#摵)】`seh7` 摔：～炮/一种向地上摔的折纸玩具，又指一种落地即响的鞭炮。｜～咖个跟头。｜他来啊气，逮住茶杯问地下一～。  
 1. 【[摵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh.md#摵)】`seh7` <sup>[如东]</sup> 把东西尽力往地上掼：她气啊把碗～咖地下。  
 1. 【[摵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh.md#摵)】`seh7` <sup>[如皋]</sup> ① 打：～巴掌。｜风把树叶子～下来呀。 ② 拍：～堂灰。 ③ 掼：～碗。 ④ 撞：撞天～地。 ⑤ 走：跑东～西。 ⑥ 甩、摆动：手膀子跑啊～起来呀。 ⑦ 旋转：～转转儿。 ⑧ 玄晕：头里～咖～的。  
+1. 【[摵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh.md#摵)】`seh7` <sup>[东台]</sup> ① 抽打：你再回嘴回舌，当心我～咖你！ ② 跌倒：～咖个跟头。 ③ 疾行，忽然去到：衣裳一披，河东～到河西。  
 1. 【[摵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh.md#摵)】`seh7` <sup>[兴化]</sup> ① 拍打：把裤子上的灰～～。 ② 打、摔：～他两下子｜把碗～得粉碎。 ③ 摆脱：小黄又把女朋友～掉啊。  
 1. 【[摵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh.md#摵)】`seh7` <sup>[泰县]</sup> ① 摔、挥：～钱墩。 ② 抽打：我～咖你啊。 ③ 转：～个大圈子。  
 1. 【[摵把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh_ba.md#摵把)】`seh7 ba3` <sup>[兴化]</sup> 见“掼把”。  
@@ -417,6 +418,7 @@
 1. 【[摵炮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh_po.md#摵炮)】`seh7 po5` 砸纸片游戏。  
 1. 【[摵钱墩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh_qin_den_r.md#摵钱墩<sub>儿</sub>)】`seh7 qin2 den1 r` <sup>[如皋]</sup> 游戏名。预置一枚铜钱于砖墩，轮流用铜钱，击落则取，并继续；击之铜钱落于墩上则任人𢬘。成人以为赌博。  
 1. 【[摵圈圈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh_qiun_qiun_r.md#摵圈圈<sub>儿</sub>)】`seh7 qiun1 qiun1 r` <sup>[如皋]</sup> 旋转。  
+1. 【[涩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh.md#涩)】`seh7` <sup>[如皋]</sup> 转、滑不爽：车轴发～，要清洗上油。  
 1. 【[涩嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh_jy.md#涩嘴)】`seh7 jy3` <sup>[如东]</sup> 一种味道使舌头感觉酸麻：柿子不熟，吃起来～。  
 1. 【[涩嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh_jy.md#涩嘴)】`seh7 jy3` <sup>[如皋]</sup> 口感涩：菠菜、青柿子不处理啊好啊总～。  
 1. 【[涩卤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh_lv.md#涩卤)】`seh7 lv3` <sup>[如东]</sup> 不滑爽。  
@@ -473,7 +475,7 @@
 1. 【[沙虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_chon.md#沙虫)】`sha1 chon2` <sup>[如东]</sup> 环节动物。身体略呈圆筒形，环节不分明，无刚毛，表面有纵横皱纹，前部有粗长而能伸缩的吻，吻的末端有触手，伸开后的触手呈星形。生活在海底泥沙中。也叫星虫。  
 1. 【[沙船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_chun.md#沙船)】`sha1 chun2` <sup>[如东]</sup> 渔船的一种。底平，头宽，能在沙滩上停泊。通称帆船。  
 1. 【[沙蚕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_cun.md#沙蚕)】`sha1 cun2` <sup>[如东]</sup> 海洋动物。身体分节，体节两侧有刚毛疣足，用以行动。长10厘米左右。栖息在泥沙中。可以做鱼、虾、蟹等动物的饵料。  
-1. 【[沙丁鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_dien_y.md#沙丁鱼)】`sha1 dien1 y2` <sup>[如东]</sup> 鲻鱼科动物沙丁鱼。体长710厘米。身体长纺锤形，背部苍黑色，腹部白色，有光泽，鳞大，容易脱落。生活在泥沙底质的近海，喜欢活动在潮头边上。食浮游生物。肉质鲜嫩，营养丰富。是如东常见鱼种。  
+1. 【[沙丁鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_dien_y.md#沙丁鱼)】`sha1 dien1 y2` <sup>[如东]</sup> 鲻鱼科动物沙丁鱼。体长7-10厘米。身体长纺锤形，背部苍黑色，腹部白色，有光泽，鳞大，容易脱落。生活在泥沙底质的近海，喜欢活动在潮头边上。食浮游生物。肉质鲜嫩，营养丰富。是如东常见鱼种。  
 1. 【[沙发](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_faeh.md#沙发)】`sha1 faeh7` <sup>[如东]</sup> 装有弹簧的坐具，两边有扶手。  
 1. 【[沙发床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_faeh_chuan.md#沙发床)】`sha1 faeh7 chuan2` <sup>[如东]</sup> 装有弹簧床垫的床，品质高雅。20世纪80年代之前，这种床一般装配在宾馆里；20世纪80年代之后，百姓家庭开始装配。  
 1. 【[沙家花园](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_ga_hua_iun.md#沙家花园)】`sha1 ga1 hua1 iun2` <sup>[如皋]</sup> 如皋历史私人沙元炳家的花园。在城内西北部。  
@@ -2320,7 +2322,7 @@
 1. 【[时洋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_ian.md#时洋)】`shr2 ian2` <sup>[如皋]</sup> 见“时式”。  
 1. 【[时价](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_jia.md#时价)】`shr2 jia5` <sup>[如皋]</sup> 当时的市价。  
 1. 【[时梅天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_mei_tin.md#时梅天)】`shr2 mei2 tin1` <sup>[东台]</sup> 指梅雨季节。民间称六月上旬芒种后进入梅天，夏至到小暑之间为时天，因这个时节空气湿度大，容易发霉，所以又叫“时霉天”“黄梅天”。  
-1. 【[时霉天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_mi_tin.md#时霉天)】`shr2 mi2 tin1` <sup>[如皋]</sup> 一般指芒种到小暑的一个月（芒种夏至小暑，前半个月为霉天，后半个月为时天）。多雨潮湿，易生霉变，故名。  
+1. 【[时霉天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_mi_tin.md#时霉天)】`shr2 mi2 tin1` <sup>[如皋]</sup> 一般指芒种到小暑的一个月（芒种-夏至-小暑，前半个月为霉天，后半个月为时天）。多雨潮湿，易生霉变，故名。  
 1. 【[时髦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_mo.md#时髦)】`shr2 mo2` <sup>[如东]</sup> 服装款式奇特，时兴，漂亮。比喻人的着装整齐挺括。  
 1. 【[时髦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_mo.md#时髦)】`shr2 mo2` <sup>[东台]</sup> 形容人的发型、着装或其他饰物入时。  
 1. 【[时<sub>儿</sub>风时<sub>儿</sub>雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_r_fon_shr_r_y.md#时<sub>儿</sub>风时<sub>儿</sub>雨)】`shr2 r fon1 shr2 r y3` <sup>[如皋]</sup> 天气变化不定。比喻人的情绪、态度变化不定。见“辰儿风辰儿雨”。  
@@ -3398,7 +3400,7 @@
 1. 【[梭钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_qin.md#梭钱)】`su1 qin2` <sup>[兴化]</sup> 旧时的一种儿童游戏：一块整砖支起一斜坡，参与者高举铜板向砖面落下，滚在前的砸后边的，砸到为赢。  
 1. 【[梭梭<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_su_r.md#梭梭<sub>儿</sub>)】`su1 su1 r` <sup>[东台]</sup> 旧时儿童玩的一种滚铁环的游戏。  
 1. 【[梭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_zz.md#梭子)】`su1 zz` <sup>[如皋]</sup> 手工结网的器具。  
-1. 【[梭子蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_zz_hae.md#梭子蟹)】`su1 zz hae3` <sup>[如东]</sup> 蝤蛑科动物三疣梭子蟹，也叫尖子蟹、蓝蟹。头胸甲长约8厘米。全体被坚硬的甲壳。头胸甲呈梭形稍隆起表面有3个显著的疣状突起，个在胃区，2个在心区。两前侧缘各具9个锯齿，第9锯齿特别长大，向左右伸延。额缘具4枚小齿。额部两侧有1对能转动的带柄复眼。雄蟹背面茶绿色，雌蟹紫色，腹面均为灰白色。胸足5对，第1对为强大的螯足长节呈棱柱开拓，内缘具钝齿；第24对，长而扁圆，末端爪状，适于爬行；最后1对末节扇平而宽薄如桨，适于游泳。腹部（俗称蟹脐）扁平，雄者呈三角形，雌者呈圆形。无尾节及尾肢，腹肢退化，藏于腹内侧，雌者4对，雄者2对。生活在近海水域。  
+1. 【[梭子蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_zz_hae.md#梭子蟹)】`su1 zz hae3` <sup>[如东]</sup> 蝤蛑科动物三疣梭子蟹，也叫尖子蟹、蓝蟹。头胸甲长约8厘米。全体被坚硬的甲壳。头胸甲呈梭形稍隆起表面有3个显著的疣状突起，个在胃区，2个在心区。两前侧缘各具9个锯齿，第9锯齿特别长大，向左右伸延。额缘具4枚小齿。额部两侧有1对能转动的带柄复眼。雄蟹背面茶绿色，雌蟹紫色，腹面均为灰白色。胸足5对，第1对为强大的螯足长节呈棱柱开拓，内缘具钝齿；第2-4对，长而扁圆，末端爪状，适于爬行；最后1对末节扇平而宽薄如桨，适于游泳。腹部（俗称蟹脐）扁平，雄者呈三角形，雌者呈圆形。无尾节及尾肢，腹肢退化，藏于腹内侧，雌者4对，雄者2对。生活在近海水域。  
 1. 【[梭子蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_zz_hae.md#梭子蟹)】`su1 zz hae3` <sup>[东台]</sup> 一种海蟹。  
 1. 【[梭子里没有线——空来往](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_zz_lii_meh_ieu_xin_kon_lae_van.md#梭子里没有线——空来往)】`su1 zz lii meh8 ieu3 xin5 kon1 lae2 van3` <sup>[东台]</sup>   
 1. 【[睃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su.md#睃)】`su1, su2` <sup>[如皋]</sup> 偷视、闪视：贼眼只～。又有斜视、目不正视等义。  
