@@ -1,6 +1,7 @@
 # 音序检索
 **[A](./a.md) | [B](./b.md) | [C](./c.md) | [D](./d.md) | [E](./e.md) | [F](./f.md) | [G](./g.md) | [H](./h.md) | [I](./i.md) | [J](./j.md) | [K](./k.md) | [L](./l.md) | [M](./m.md) | [N](./n.md) | [O](./o.md) | [P](./p.md) | [Q](./q.md) | [R](./r.md) | [S](./s.md) | [T](./t.md) | [U](./u.md) | [V](./v.md) | [X](./x.md) | [Y](./y.md) | [Z](./z.md)**  
 ## Z
+1. 【[咋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/za.md#咋)】`za3` <sup>\[东台\]\[兴化\]</sup>“怎吖”的合音。怎么：这个事你～说？<sup>\[东台\]</sup>｜他～还不到？<sup>\[东台\]</sup>｜～办？<sup>\[兴化\]</sup>｜你～不去的？<sup>\[兴化\]</sup>  
 1. 【[咋得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/za_deh.md#咋得)】`za3 deh` “怎吖”合音为“咋”，“咋得”意思是“怎么可以，怎么能”：这吖简单，咋得不会做的啦？  
 1. 【[咋得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/za_deh.md#咋得)】`za3 deh7` 怎么能，怎么会：～箇个样子的啦？/怎么会这个样子的？  
 1. 【[咋得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/za_deh.md#咋得)】`za3 deh7` <sup>[泰县]</sup> 怎么能、怎么会：这个人身体蛮好的，～死的？  
@@ -312,6 +313,7 @@
 1. 【[曾外孙女](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_vae_suen_ny.md#曾外孙女)】`zen1 vae6 suen1 ny3` <sup>[如东]</sup> 女儿的孙女。  
 1. 【[曾祖父](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_zv_fv.md#曾祖父)】`zen1 zv3 fv6` <sup>[如东]</sup> 父亲的祖父。  
 1. 【[曾祖母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_zv_mu.md#曾祖母)】`zen1 zv3 mu3` <sup>[如东]</sup> 父亲的祖母。  
+1. 【[罾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen.md#罾)】`zen1` <sup>\[如东\]\[东台\]</sup>一种四方形渔网。\[如东：竹竿撑开四角，放入水中，依靠下放上拉进行捕鱼\]\[东台：按大小和捕鱼方法不同，分踢～、扳～、大～等。（见“扳罾”）\]  
 1. 【[怎吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_nga.md#怎吖)】`zen3 nga` <sup>[如皋]</sup> 怎么、怎么样，合音为zan3，za3 。  
 1. 【[怎吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_nga.md#怎吖)】`zen3 nga` <sup>[如东]</sup> 怎么，怎样：你要～？  
 1. 【[怎吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_nga.md#怎吖)】`zen3 nga` <sup>[兴化]</sup> 疑问代词，相当于“怎么”“怎样”。境内其他地方也读作jien3 nga。  
@@ -1731,7 +1733,7 @@
 1. 【[㔍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuaen.md#㔍)】`zhuaen1` <sup>[东台]</sup> 断：这小伙力气真大，硬把一根粗木棍～掉啊。  
 1. 【[跧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuaen.md#跧)】`zhuaen1` 弯腰：～腰  
 1. 【[跧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuaen.md#跧)】`zhuaen1` <sup>[如皋]</sup> 低头、弯腰。  
-1. 【[跧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuaen.md#跧)】`zhuaen1` <sup>[兴化]</sup> 弯着腰：～腰。  
+1. 【[跧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuaen.md#跧)】`zhuaen1` <sup>[兴化]</sup> 弯着腰：～腰  
 1. 【[跧腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuaen_io.md#跧腰)】`zhuaen1 io1` <sup>[东台]</sup> 弯腰：把腰跧下来。  
 1. 【[赚头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuaen_teu.md#赚头)】`zhuaen5 teu2` <sup>[东台]</sup> 利润：这笔生意～不小。  
 1. 【[㧻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah.md#㧻)】`zhuah7` 用力往下放  

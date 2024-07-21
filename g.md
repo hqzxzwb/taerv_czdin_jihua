@@ -1840,7 +1840,7 @@
 1. 【[广口瓶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_keu_pien.md#广口瓶)】`guan3 keu3 pien2` <sup>[东台]</sup> 大口径的玻璃瓶，如罐头瓶、咖啡瓶、奶粉瓶等。  
 1. 【[广是](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_shr.md#广是)】`guan3 shr6` <sup>[如皋]</sup> 总是、老是。  
 1. 【[广种薄收](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_zhon_pah_sheu.md#广种薄收)】`guan3 zhon3 pah8 sheu1` <sup>[东台]</sup> 种植面积大，单位面积产量低。也用来喻意广泛施行，最后结果收效甚微。  
-1. 【[桄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan.md#桄)】`guan5` <sup>[如皋]</sup> 横木。槽桄，槽桶上方的对长横木。  
+1. 【[桄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan.md#桄)】`guan5` <sup>[如皋]</sup> 横木：槽～/槽桶上方的对长横木。  
 1. 【[桄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan.md#桄)】`guan5` <sup>[东台]</sup> ① 床、门、车等物上的横木。 ② 绕线的器具：一～线。  
 1. 【[桄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan.md#桄)】`guan5` <sup>[兴化]</sup> 木器家具上的横木。  
 1. 【[桄竹<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_zhoh_r.md#桄竹<sub>儿</sub>)】`guan5 zhoh7 r` <sup>[如皋]</sup> 络丝的工具。插在“桄”上的12根笔竹，用以套住丝絖子，便于上下理顺。  
@@ -1848,7 +1848,7 @@
 1. 【[逛逛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_guan.md#逛逛)】`guan5 guan` <sup>[东台]</sup> 到处瞧瞧、看看。  
 1. 【[𠈑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan.md#𠈑)】`guan5` <sup>[如东]</sup> 在木料表面稍微刨一刨，使之光滑。  
 1. 【[𠈑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan.md#𠈑)】`guan5` <sup>[如皋]</sup> ① 涂擦：拿油漆把桌子面儿～下子。 ② 清除：～场。 ③ 剃：～脸、～胡子。 ④ 平滑光亮：车杠上有～。  
-1. 【[𠈑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan.md#𠈑)】`guan5` <sup>[东台]</sup> 使物体表面光泽。《广韵》“古旷切，上色。”：皮夹克上～吖。  
+1. 【[𠈑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan.md#𠈑)】`guan5` <sup>[东台]</sup> 使物体表面光泽：皮夹克上～吖。  
 1. 【[𠈑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan.md#𠈑)】`guan5` <sup>[兴化]</sup> 轻轻摩擦：他把剃刀在荡刀布上～～。｜（侉奶奶）有时把锥子插在头发里～一～。（汪曾祺《故里杂记》）  
 1. 【[𠈑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan.md#𠈑)】`guan5` <sup>[泰县]</sup> 剃、刮、扫：你把地下～下子。  
 1. 【[𠈑火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_hu.md#𠈑火)】`guan5 hu3` <sup>[如东]</sup> 发火。  
