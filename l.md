@@ -892,9 +892,9 @@
 1. 【[勒执](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_zheh.md#勒执)】`leh8 zheh7` <sup>[泰县]</sup> 不肯改变自己的主见，固执。  
 1. 【[勒窄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_zheh.md#勒窄)】`leh8 zheh7` <sup>[泰县]</sup> 吝啬。  
 1. 【[勒桩扣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_zhuan_keu.md#勒桩扣)】`leh8 zhuan1 keu5` <sup>[泰县]</sup> 钱和物掌握在自己手里，强制对方要按照自己的意图办。  
+1. 【[勒桩扣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_zhuan_keu.md#勒桩扣)】`leh8 zhuan1 keu5` <sup>[兴化]</sup> 扣押财物，强令对方就范：钱落咖他手～，不听他不行。  
 1. 【[勒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_zz.md#勒子)】`leh8 zz` <sup>[如皋]</sup> 旧时老妇人压发、护太阳穴的黑平绒箍子。  
 1. 【[勒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_zz.md#勒子)】`leh8 zz` <sup>[兴化]</sup> 旧时，中老年妇女冬天保暖用的头饰。抹额。  
-1. 【[物桩扣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_zuan_keu.md#物桩扣)】`leh8 zuan1 keu5` <sup>[兴化]</sup> 扣押财物，强令对方就范：钱落咖他手～，不听他不行。  
 1. 【[肋膊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_bah.md#肋膊)】`leh8 bah7` <sup>[兴化]</sup> 胸膊的两侧：这几天咳嗽，～都疼吖。  
 1. 【[肋骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_gueh.md#肋骨)】`leh8 gueh7` <sup>[如东]</sup> ① 人体胸部两侧的骨骼。 ② 船体两侧的小梁，与龙骨成十字形。  
 1. 【[肋里肋脦的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_lii_leh_teh_dii.md#肋里肋脦的)】`leh8 lii leh8 teh7 dii` <sup>[如皋]</sup> 见“肋脦”。  

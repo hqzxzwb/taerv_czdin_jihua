@@ -1843,7 +1843,7 @@
 1. 【[闹海](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_hae.md#闹海)】`no6 hae3` <sup>[如皋]</sup> 代指下河洗澡。源自“哪吒闹海”。现也指去浴室洗澡。  
 1. 【[闹海](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_hae.md#闹海)】`no6 hae3` <sup>[东台]</sup> 旧时指在澡堂子里洗澡。  
 1. 【[闹海](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_hae.md#闹海)】`no6 hae3` <sup>[兴化]</sup> （戏）洗澡。此说源自《封神演义》第十二回哪吒闹海的故事。  
-1. 【[闹嚎好<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_ho_ho_r.md#闹嚎好<sub>儿</sub>)】`no6 ho2 ho1 r` <sup>[兴化]</sup> 起哄。  
+1. 【[闹嚎好<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_ho_ho_r.md#闹嚎好<sub>儿</sub>)】`no6 ho2 ho3 r` <sup>[兴化]</sup> 起哄。  
 1. 【[闹豪兴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_ho_xien.md#闹豪兴)】`no6 ho2 xien` <sup>[兴化]</sup> 起哄：竟有些大胆的少年人～，喊道｜“跟住武二爷走！”（《武松》三）也作“闹嚎好儿”。  
 1. 【[闹魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_huen.md#闹魂)】`no6 huen2` <sup>[泰县]</sup> 闹事：今朝王二又来～。  
 1. 【[闹羊花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_ian_hua.md#闹羊花)】`no6 ian2 hua1` <sup>[如皋]</sup> 花杜鹃。有毒。时给行刑前的死囚喝～酒，使之精神麻木不太恐怖。  

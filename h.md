@@ -908,7 +908,6 @@
 1. 【[嚎丧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_san.md#嚎丧)】`ho2 san1` <sup>[兴化]</sup> ① 哭丧。 ② 骂人的话，指人大声哭叫。  
 1. 【[嚎丧狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_san_geu.md#嚎丧狗)】`ho2 san1 geu3` <sup>[如东]</sup> 比喻大叫大喊的人。  
 1. 【[嚎丧狗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_san_geu_zz.md#嚎丧狗子)】`ho2 san1 geu3 zz` <sup>[泰县]</sup> 大喊大叫的人：你这个～不要叫。  
-1. 【[好来好散](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_lae_ho_saen.md#好来好散)】`ho2 lae2 ho3 saen5` <sup>[兴化]</sup> 指聚首时亲亲热热，分手时也不伤和气：合伙办厂五六年，现在分手，我俫～，不要伤和气。  
 1. 【[毫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho.md#毫)】`ho2` <sup>[如皋]</sup> 中、老年男性的痣、眉、耳鼻等处特长的毛。  
 1. 【[毫光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_guan.md#毫光)】`ho2 guan1` <sup>[如皋]</sup> 传说人体的生物光。男性～大，女性～小，少年人～大，老人～小，有道行的人大，产妇没～。大可以辟邪、驱鬼。  
 1. 【[毫毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_mo.md#毫毛)】`ho2 mo2` <sup>[如东]</sup> ① 生长在人体皮肤表面的细毛。也称猴毛、寒毛，通称汗毛。 ② 比喻极小：碰伤几根～。  
@@ -952,6 +951,7 @@
 1. 【[好脚色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_jiah_seh.md#好脚色)】`ho3 jiah7 seh7` <sup>[如皋]</sup> ① 有本领、能干且顽强的人。 ② 反语，指有坏才的人或看似无用实有潜能的人。  
 1. 【[好较](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_jio.md#好较)】`ho3 jio5` <sup>[泰县]</sup> 幸亏：～不曾去。  
 1. 【[好看](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_kun.md#好看)】`ho3 kun5` <sup>[如东]</sup> 质量优，款式好，漂亮：这套服装～。  
+1. 【[好来好散](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_lae_ho_saen.md#好来好散)】`ho3 lae2 ho3 saen5` <sup>[兴化]</sup> 指聚首时亲亲热热，分手时也不伤和气：合伙办厂五六年，现在分手，我俫～，不要伤和气。  
 1. 【[好两<sub>个</sub>钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_laeh_qin.md#好两<sub>个</sub>钱)】`ho3 laeh qin2` <sup>[东台]</sup> 钱很多、很贵重：这东西值～啊｜上大学要准备～嗷。  
 1. 【[好落地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_lah_ti.md#好落地)】`ho3 lah8 ti6` <sup>[如皋]</sup> 好地方、好地点、好方位。  
 1. 【[好佬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_lo.md#好佬)】`ho3 lo3` <sup>[东台]</sup> ① （形容词）家庭富裕：他家～，我家可比不上。 ② 用反话嘲讽品行不好的人：他是个大～，相处要当心。  

@@ -1315,10 +1315,10 @@
 1. 【[一只筷子吃藕——光挑眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_zheh_kuae_zz_qieh_ngeu_guan_tio_ngaen.md#一只筷子吃藕——光挑眼)】`ieh7 zheh7 kuae5 zz qieh7 ngeu3 guan1 tio1 ngaen3` <sup>[东台]</sup>   
 1. 【[一朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_zho.md#一朝)】`ieh7 zho1` <sup>[兴化]</sup> ① 量词，一天：店面虽小，～也能卖个万吖八千的。 ② 不确定时间词，相当于“一旦”：你甚的活技也不会做，～离开父母看你怎吖弄法？  
 1. 【[一众](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_zhon.md#一众)】`ieh7 zhon5` <sup>[兴化]</sup> 一群人：上次游泰山，玩得太晚，～几十个人捱困吖半山腰。  
+1. 【[一翅斫下去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_zhr_zhah_ha.md#一翅斫下去)】`ieh7 zhr zhah7 ha qy5` <sup>[如皋]</sup> ① 状俯冲。 ② 状离开后难料归向：他这～，不晓得夨到哪许唻。  
 1. 【[一枝动百枝摇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_zhr_ton_boh_zhr_io.md#一枝动百枝摇)】`ieh7 zhr1 ton6 boh9 zhr1 io2` <sup>[泰兴]</sup> 一处有了变化、变动，其他地方都受到了牵制、牵连，有“牵一发而动全身”之意。  
 1. 【[一枝动吖百枝摇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_zhr_ton_nga_boh_zhr_io.md#一枝动吖百枝摇)】`ieh7 zhr1 ton6 nga boh7 zhr1 io2` <sup>[东台]</sup> （俗语）树上的一根枝杈动了，其他枝干都会动起来；喻义学得好就能融会贯通。与“牵一发而动全身”近义。  
 1. 【[一翅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_zhr.md#一翅)】`ieh7 zhr5` <sup>[如皋]</sup> 一次性连续飞行：雏鸽放飞，～能飞多远吖？  
-1. 【[一翅夨下去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_zhr_zah_ha_qy.md#一翅夨下去)】`ieh7 zhr5 zah7 ha qy5` <sup>[如皋]</sup> ① 状俯冲。 ② 状离开后难料归向：他这～，不晓得夨到哪许唻。  
 1. 【[一桌笼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_zhuah_lon.md#一桌笼)】`ieh7 zhuah7 lon2` <sup>[如皋]</sup> 一整套的蒸笼，一般有8扇、6扇、4扇不等，上有笼𪟲，下有气𪟲。  
 1. 【[一准](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_zhuen.md#一准)】`ieh7 zhuen3` <sup>[如皋]</sup> 见“坐定”。  
 1. 【[一准](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_zhuen.md#一准)】`ieh7 zhuen3` <sup>[如皋]</sup> 一定、按时、就是。  

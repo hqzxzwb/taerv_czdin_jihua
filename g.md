@@ -1233,7 +1233,7 @@
 1. 【[拱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon.md#拱)】`gon3` <sup>[兴化]</sup> 即鼓起、凸出：头上～起一个瘤。  
 1. 【[拱拱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_gon_r.md#拱拱<sub>儿</sub>)】`gon3 gon3 r` <sup>[如东]</sup> ① 犁地的一种工具。 ② 猪嘴唇上部的突出部分。  
 1. 【[拱嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_jy.md#拱嘴)】`gon3 jy3` <sup>[如皋]</sup> 噘嘴。  
-1. 【[拱极门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_qien_men.md#拱极门)】`gon3 qien8 men2` <sup>[如皋]</sup> 明代如皋北城门名。  
+1. 【[拱极门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_qieh_men.md#拱极门)】`gon3 qieh8-7 men2` <sup>[如皋]</sup> 明代如皋北城门名。  
 1. 【[拱圈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_qiun.md#拱圈)】`gon3 qiun6` <sup>[如皋]</sup> 猪鼻在圈内乱拱。  
 1. 【[拱蛆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_qy.md#拱蛆)】`gon3 qy1` 多动状，坐立不安状  
 1. 【[拱蛆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_qy_zz.md#拱蛆子)】`gon3 qy1 zz` <sup>[如皋]</sup> 像蛆子一样地拱动。  
