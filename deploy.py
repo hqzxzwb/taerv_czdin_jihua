@@ -102,7 +102,7 @@ def parse_pinyin(pinyin):
     py_list = [i.split("/") for i in pinyin.split(" ")]
     return ", ".join(map(" ".join, product(*py_list)))
 
-meaning_pattern = r"^\+ (?P<explanation>.+)\n(?P<body>(  .+\n)*)"
+meaning_pattern = r"\+ (?P<explanation>.+)\n(?P<body>(  .+\n)*)"
 sub_meaning_pattern = r"  \* (?P<source>.+)\n(    \+ (?P<supplement>.+)\n)?(?P<body>(    .+\n)*)"
 example_pattern = r"    - (?P<text>.+)\n"
 
@@ -136,6 +136,8 @@ def parse_cont(cont, fname, cz_ien):
 
     spec_teller = lines[2]
     body = "\n".join(lines[2:])
+    if prints:
+        print("body", body)
     meanings = []
     source = None
     spec = 1
@@ -143,6 +145,9 @@ def parse_cont(cont, fname, cz_ien):
         spec = 2
         for meaning_match in re.finditer(meaning_pattern, body):
             explanation = meaning_match.group('explanation')
+            if prints:
+                print("meaning_match", meaning_match)
+                print("explanation", explanation)
             sub_meanings = []
             for sub_meaning_match in re.finditer(sub_meaning_pattern, meaning_match.group('body')):
                 examples = []
