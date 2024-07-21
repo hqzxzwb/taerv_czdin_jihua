@@ -103,7 +103,7 @@ def parse_pinyin(pinyin):
     return ", ".join(map(" ".join, product(*py_list)))
 
 meaning_pattern = r"^\+ (?P<explanation>.+)\n(?P<body>(  .+\n)*)"
-sub_meaning_pattern = r"  \* (?P<source>.+)\n    \+ (?P<supplement>.+)\n(?P<body>(    .+\n)*)"
+sub_meaning_pattern = r"  \* (?P<source>.+)\n(    \+ (?P<supplement>.+)\n)?(?P<body>(    .+\n)*)"
 example_pattern = r"    - (?P<text>.+)\n"
 
 pattern_spec1 = r"^(> (?P<source>.+)\n)?(?P<body>(.+\n)*)"
@@ -249,11 +249,11 @@ def write_page(dirs, path, sample_out, cz_ien):
                 conts.append(parse_cont(cont, fname, cz_ien))
     out = ""
     for w in sorted(conts, key=lambda c: c.sort_key):
+        link = LINK_FORMAT % (w.fname.replace("\\","/"), w.text)
         if w.spec == 1:
-            link = LINK_FORMAT % (w.fname.replace("\\","/"), w.text)
             source = w.source
             if source:
-                source = " <sup>[%s]</sup>" % re.sub(r'(方言词典|方言志|方言辞典)$', '', source)
+                source = " <sup>[%s]</sup>" % shrink_source(source)
             else:
                 source = ""
             count += 1
@@ -263,15 +263,46 @@ def write_page(dirs, path, sample_out, cz_ien):
                 meaning = " " + meaning_text_spec1(w.meanings[0])
             else:
                 meaning = " "
-            out = "1. 【[%s](%s)】`%s`%s%s  \n" % (w.text, link, w.pien_ien, source, meaning)
+            out = f"1. 【[{w.text}]({link})】`{w.pien_ien}`{source}{meaning}  \n"
         else:
-            continue
-            # out = "spec 2 TODO\n"
+            if len(w.meanings) > 1:
+                meaning = "".join(map(lambda x: " " + ORDERS[x[0]] + " " + meaning_text(x[1]), enumerate(w.meanings)))
+            elif len(w.meanings) == 1:
+                meaning = " " + meaning_text(w.meanings[0])
+            else:
+                meaning = " "
+            out = f"1. 【[{w.text}]({link})】`{w.pien_ien}`{meaning}  \n"
         lines.append(out)
         if count <= 20:
             sample_out.append(out)
     lines.append("**[▲](#音序检索)**  \n")
     open("docs/%s.md"%path, "w", encoding="U8").writelines(lines)
+
+def shrink_source(source):
+    return re.sub(r'(方言词典|方言志|方言辞典)$', '', source)
+
+def meaning_text(meaning):
+    str = ""
+    source = "".join(f"\\[{shrink_source(sub.source)}\\]" for sub in meaning.subs if sub)
+    if source:
+        str = "<sup>" + source + "</sup>"
+    str = str + meaning.explanation
+    for sub in meaning.subs:
+        supplement = sub.supplement
+        if supplement:
+            str = str + f"\\[{shrink_source(sub.source)}：{supplement}\\]"
+    if any(sub.examples for sub in meaning.subs):
+        str = str.rstrip('。') + "："
+        for sub in meaning.subs:
+            source = sub.source
+            if source:
+                source = "<sup>\\[" + shrink_source(source) + "\\]</sup>"
+            else:
+                source = ""
+            for example in sub.examples:
+                str = str + example + source + "｜"
+        str = str.rstrip("｜")
+    return str
 
 def meaning_text_spec1(meaning):
     str = meaning.explanation
