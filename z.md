@@ -107,7 +107,6 @@
 1. 【[㜺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaen.md#㜺)】`zaen3` <sup>[泰县]</sup> 好：这幅画儿画得～。  
 1. 【[㜺刚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaen_gan.md#㜺刚)】`zaen3 gan1` <sup>[东台]</sup> 同“㜺”。  
 1. 【[怎<sub>吖</sub>弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaen_lon.md#怎<sub>吖</sub>弄)】`zaen3 lon6` <sup>[泰县]</sup> 怎么办：这事你看～好。  
-1. 【[昝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaen_r.md#昝<sub>儿</sub>)】`zaen3 r` <sup>[如皋]</sup> 一会儿。如皋辞典写“暂”。  
 1. 【[昝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaen_r.md#昝<sub>儿</sub>)】`zaen3 r` <sup>[如皋]</sup> 一会儿。  
 1. 【[昝<sub>儿</sub>风昝<sub>儿</sub>雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaen_r_fon_zaen_r_y.md#昝<sub>儿</sub>风昝<sub>儿</sub>雨)】`zaen3 r fon1 zaen3 r y3` <sup>[如皋]</sup> 喻脾气多变。  
 1. 【[灒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaen.md#灒)】`zaen5` <sup>[兴化]</sup> 溅：巷子里汲砖～吖我一身泥水。《广韵·翰韵》则旰切：“～，水溅”。  
