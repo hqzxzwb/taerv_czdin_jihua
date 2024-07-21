@@ -290,7 +290,7 @@
 1. 【[扠口袋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_keu_tae.md#扠口袋)】`cha1 keu3 tae6` <sup>[如皋]</sup> 一种特大的布袋，袋口分衩，方底。  
 1. 【[扠面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_min.md#扠面)】`cha1 min6` <sup>[如皋]</sup> 即“般水面”，别于“汤面”“糊糊儿面”。  
 1. 【[扠面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_min.md#扠面)】`cha1 min6` <sup>[泰县]</sup> 阳春面。  
-1. 【[扠鱼鹱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_y_vah_r.md#扠鱼鹱<sub>儿</sub>)】`cha1 y2 vah7 r` <sup>[如皋]</sup> 鸬鹚。见“鸦”。  
+1. 【[扠鱼鹱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_y_vah_r.md#扠鱼鹱<sub>儿</sub>)】`cha1 y vah7 r` <sup>[如皋]</sup> 鸬鹚。见“鸦”。  
 1. 【[蛼螯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ngo.md#蛼螯)】`cha1 ngo` <sup>[东台]</sup> 软体动物，学名文蛤，生活在近海底，肉味鲜美，其壳可装歪歪油。也写作“蛼蛾”。  
 1. 【[蛼螯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ngo.md#蛼螯)】`cha1 ngo` <sup>[兴化]</sup> 文蛤。蛼，《集韵·麻韵》昌遮切：～，虫名，如蚬而大。  
 1. 【[蛼螯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ngo.md#蛼螯)】`cha1 ngo` <sup>[如皋]</sup> 蛤蜊。又作车螯。  

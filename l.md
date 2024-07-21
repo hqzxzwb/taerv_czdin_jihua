@@ -989,7 +989,7 @@
 1. 【[愣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_zz.md#愣子)】`len6 zz` <sup>[如东]</sup> 说话口吃的人。  
 1. 【[愣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_zz.md#愣子)】`len6 zz` <sup>[如皋]</sup> 结巴，口吃患者。  
 1. 【[愣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_zz.md#愣子)】`len6 zz` <sup>[如皋]</sup> 口吃。  
-1. 【[棱凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_den.md#棱凳)】`len6 den6` <sup>[如东]</sup> 搁置棱条晒东西的凳子，有四条腿或三条腿的，也有两条腿的。  
+1. 【[棱凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_den.md#棱凳)】`len6 den5` <sup>[如东]</sup> 搁置棱条晒东西的凳子，有四条腿或三条腿的，也有两条腿的。  
 1. 【[棱子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_zz.md#棱子)】`len6 zz` <sup>[如东]</sup> 直趟的竹竿或木棍，搁在棱凳上，放帘子，晒东西。  
 1. 【[楞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_zz.md#楞子)】`len6 zz` <sup>[如皋]</sup> 窗栅上的木、铁条。如皋词典写“棂子”。  
 1. 【[睖瞪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_den.md#睖瞪)】`len6 den1` <sup>[如皋]</sup> 发愣，目直视：他捱吓咖～吖。  
