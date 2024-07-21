@@ -2244,11 +2244,7 @@
 1. 【[草盖瓦檐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_gae_va_in.md#草盖瓦檐)】`co3 gae5 va3 in2` <sup>[东台]</sup> 旧式草房用瓦封屋檐，其防腐功能好于纯草房。  
 1. 【[草缸盖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_gan_gae.md#草缸盖)】`co3 gan1 gae5` <sup>[如皋]</sup> 用稻草编结成的圆盘，作缸盖用。  
 1. 【[草钩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_geu_zz.md#草钩子)】`co3 geu1 zz` <sup>[如皋]</sup> 从乱草𧂐上拨草用的有倒须的铁钩。  
-1. 【[草狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_geu.md#草狗)】`co3 geu3` <sup>[如东]</sup> 母狗。  
-1. 【[草狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_geu.md#草狗)】`co3 geu3` <sup>[如皋]</sup> 詈语，骂女性。  
-1. 【[草狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_geu.md#草狗)】`co3 geu3` <sup>[东台]</sup> ① 母狗。 ② 贱称，骂女人的话。  
-1. 【[草狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_geu.md#草狗)】`co3 geu3` <sup>[兴化]</sup> ① 母狗。 ② 土种狗。 ③ 斥骂作风败坏的女人：烂屁股～。  
-1. 【[草狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_geu.md#草狗)】`co3 geu3` <sup>[泰县]</sup> ① 雌狗。 ② （禁忌语）不正经的女人：你这个～。  
+1. 【[草狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_geu.md#草狗)】`co3 geu3` ① <sup>\[如东\]\[东台\]\[兴化\]\[泰县\]</sup>母狗。 ② <sup>\[如皋\]\[东台\]\[兴化\]\[泰县\]</sup>詈语，骂女性。斥作风败坏、不正经等：你这个～。<sup>\[泰县\]</sup> ③ <sup>\[兴化\]</sup>土种狗。  
 1. 【[草虾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_ha.md#草虾)】`co3 ha1` <sup>[如皋]</sup> 在水草中活动的虾。  
 1. 【[草虾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_ha.md#草虾)】`co3 ha1` <sup>[泰县]</sup> 黑色壳的嫩虾。  
 1. 【[草鞋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_hae.md#草鞋)】`co3 hae2` <sup>[如东]</sup> 用蒲叶或稻草编织而成的鞋，无鞋帮，扒滑，穿着轻便舒适。  
