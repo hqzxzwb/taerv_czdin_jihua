@@ -1344,8 +1344,7 @@
 1. 【[沰饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_bien.md#沰饼)】`dah7 bien3` <sup>[兴化]</sup> 手抓发酵的米粉糊投入锅中烤成米饼。  
 1. 【[沰饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_bien.md#沰饼)】`dah7 bien3` <sup>[泰县]</sup> 用铁锅做饼。  
 1. 【[沰饼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_bien_r.md#沰饼<sub>儿</sub>)】`dah7 bien3 r` <sup>[如东]</sup> 将糯米屑或玉米屑做成饼儿，贴在锅里烤熟，叫做沰饼儿。  
-1. 【[沰补帄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_bv_den.md#沰补帄)】`dah7 bv3 den` <sup>[如皋]</sup> 打补丁。  
-1. 【[沰补丁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_bv_dien.md#沰补丁)】`dah7 bv3 dien1` <sup>[如东]</sup> 缝补丁。  
+1. 【[沰补丁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_bv_dien.md#沰补丁)】`dah7 bv3 dien1` <sup>\[如东\]\[如皋\]</sup>打补丁、缝补丁。  
 1. 【[沰戳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_chuah_zz.md#沰戳子)】`dah7 chuah7 zz` <sup>[东台]</sup> 盖印章的通俗说法。  
 1. 【[沰春卷皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_chuen_jiun_pi.md#沰春卷皮)】`dah7 chuen1 jiun3 pi2` <sup>[东台]</sup> 手抓水面烙春卷皮子。  
 1. 【[沰沰黐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_dah_chr.md#沰沰黐)】`dah7 dah7 chr1` <sup>[泰县]</sup> 长时间不走。  
