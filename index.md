@@ -53,11 +53,11 @@
 1. 【[才好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_ho.md#才好)】`cae2 ho3` <sup>[兴化]</sup> ① 表示对某件事物的强调：中午车流高峰，小学生放学有家长接下子～哩！ ② 表幸灾乐祸的语气：～，不听老人言，出事啊吧？  
 1. 【[才央<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_ian_r.md#才央<sub>儿</sub>)】`cae2 ian1 r` <sup>[东台]</sup> “才将”的轻读，刚才。  
 1. 【[才将](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_jian.md#才将)】`cae2 jian1` <sup>[东台]</sup> 刚才：他～还在这块的，不曾走远。  
-1. 【[才将<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_jian_r.md#才将<sub>儿</sub>)】`cae2 jian1 r` <sup>[如东]</sup> 刚才。  
-1. 【[才将<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_jian_r.md#才将<sub>儿</sub>)】`cae2 jian1 r` <sup>[如皋]</sup> 刚才。  
-1. 【[才将<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_jian_r.md#才将<sub>儿</sub>)】`cae2 jian1 r` <sup>[兴化]</sup> 刚才：老吴～走的。  
+1. 【[才将<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_jian_r.md#才将<sub>儿</sub>)】`cae2 jian1 r` 刚才：老吴～走的。  
 1. 【[才些<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_xia_r.md#才些<sub>儿</sub>)】`cae2 xia1 r` <sup>[如皋]</sup> 刚才、刚刚。  
 1. 【[裁房子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_fan_zz.md#裁房子)】`cae2 fan2 zz` <sup>[如东]</sup> 用铡刀将茅屋屋檐杂草剪平，使之整齐好看。  
+1. 【[裁缝划线——齐这许剪（禁）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_fon_hua_xin_qi_zha_hae_jin.md#裁缝划线——齐这许剪（禁）)】`cae2 fon hua2 xin5 qi2 zha5 hae jin3 （jien5）` <sup>[东台]</sup>   
+1. 【[裁衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_i.md#裁衣)】`cae2 i1` <sup>[如皋]</sup> 旧时称手工缝纫中服的师傅或职业。  
 [更多...](./c.md)
 ## D
 1. 【[咑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da.md#咑)】`da` <sup>[兴化]</sup> 语气词，用于疑问句末：这东西是你的～？｜这话是你说的～？  
