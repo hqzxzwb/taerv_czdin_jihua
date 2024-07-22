@@ -183,7 +183,7 @@
 1. 【[五红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_hon.md#五红)】`v3 hon2` <sup>[如皋]</sup> 指端午节专用之菜有五样红色的菜肴（另有五绿、五黄同为端午菜肴）。如：红烧肉、红萝卜、苋菜、火腿、虾等。  
 1. 【[五红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_hon.md#五红)】`v3 hon2` <sup>[东台]</sup> （民俗）端午节午餐中的红萝卜、盐水虾、红苋菜、咸鸭蛋、红烧鱼，也可加上红烧肉、西红柿等红色食品任选五样。据说吃五红可去“五毒”。  
 1. 【[五红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_hon.md#五红)】`v3 hon2` <sup>[兴化]</sup> 民俗端午节的午餐中要有炒虾、红烧肉、红煮鱼、苋菜、咸鸭蛋或红萝卜等五祥红色的菜肴。  
-1. 【[五花肠子六花心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_hua_chan_zz_loh_hua_zien.md#五花肠子六花心)】`v3 hua chan2 zz loh8 hua zien1` <sup>[兴化]</sup> 形容三心二意或心怀邪念：“……你要仔细些，不要～似的……”（《广陵潮》三四）  
+1. 【[五花肠子六花心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_hua_chan_zz.md#五花肠子六花心)】`v3 hua chan2 zz loh8 hua xien1` <sup>[兴化]</sup> 形容三心二意或心怀邪念：“……你要仔细些，不要～似的……”（《广陵潮》三四）  
 1. 【[五花八门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_hua_baeh_men.md#五花八门)】`v3 hua1 baeh7 men2` <sup>[如东]</sup> 比喻花样繁多或变化多端：这套戏法～的，看都看不过来。  
 1. 【[五花墩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_hua_den_r.md#五花墩<sub>儿</sub>)】`v3 hua1 den1 r` <sup>[如皋]</sup> 乱放乱丢，到处都是。  
 1. 【[五花肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_hua_roh.md#五花肉)】`v3 hua1 roh8` <sup>[如皋]</sup> 猪的肋部肉，分皮、白、精、白、精五层。实为皮、白、精三类故又称“五花三层”，适宜红烧。  

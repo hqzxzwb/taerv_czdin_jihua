@@ -374,6 +374,7 @@
 1. 【[下裆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_dan.md#下裆)】`xia6 dan1` <sup>[如皋]</sup> 裤腿相夹处。见“胯塴”。  
 1. 【[下裆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_dan.md#下裆)】`xia6 dan1` <sup>[如皋]</sup> 胯下。  
 1. 【[下得去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_deh_qy.md#下得去)】`xia6 deh qy5` <sup>[兴化]</sup> 能够摆脱窘境：“……我索性一不做，二不休，闹他一场，看晋芳怎样～”（《广陵潮》九三）｜和“下不去”对举，表两种可能情况｜他不问你～，下不去，想到就说。  
+1. 【[下朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_to.md#下朝)】`xia6 do` <sup>[如皋]</sup> 见“下二回”，如皋南乡话。  
 1. 【[下簖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_dun.md#下簖)】`xia6 dun5` <sup>[如东]</sup> 在河道的某一段按下簖网。  
 1. 【[下二回](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_er_huei.md#下二回)】`xia6 er6 huei` ① 下次 ② 以后（再也不）：～再也不吃烟吖。/以后再也不抽烟了。  
 1. 【[下二回](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_er_huei.md#下二回)】`xia6 er6 huei2` <sup>[如皋]</sup> 下次，以后。  
@@ -469,7 +470,6 @@
 1. 【[下趟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_tan.md#下趟)】`xia6 tan5` <sup>[如皋]</sup> 插秧手的位置称一趟。从团岸踏进田间称～，即开始插秧了。  
 1. 【[下趟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_tan.md#下趟)】`xia6 tan5` <sup>[如东]</sup> 下次：～再说。  
 1. 【[下田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_tin.md#下田)】`xia6 tin2` <sup>[如皋]</sup> ① 到田间劳作。 ② 落葬。  
-1. 【[下朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_to.md#下朝)】`xia6 to` <sup>[如皋]</sup> 见“下二回”，如皋南乡话。  
 1. 【[下套子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_to_zz.md#下套子)】`xia6 to5 zz` <sup>[如皋]</sup> 放置猎具，可自动扣、捕鸟兽。  
 1. 【[下肚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_tv.md#下肚)】`xia6 tv6` <sup>[如皋]</sup> 吃下去。  
 1. 【[下五码<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_v_ma_r.md#下五码<sub>儿</sub>)】`xia6 v3 ma3 r` <sup>[泰县]</sup> ① 一种游戏。 ② 乱七八糟，陈列不整齐。  

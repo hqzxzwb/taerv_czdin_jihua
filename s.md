@@ -2464,6 +2464,7 @@
 1. 【[耍把戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_ba_xi.md#耍把戏)】`shua3 ba3 xi` <sup>[兴化]</sup> （喻）施展诡诈手段：你暗中～，覅以为旁人不晓得！  
 1. 【[耍刁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_dio.md#耍刁)】`shua3 dio1` <sup>[如东]</sup> ① 指小孩顽皮：婷婷放学回来就跟妈妈～。 ② 出坏主意：赵三儿这个人会～，你要注意。  
 1. 【[耍下子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_ha_zz.md#耍下子)】`shua3 ha zz` <sup>[东台]</sup> ① 玩一下。 ② 请客吃饭的谦词：后朝我生日，可舍得到我家～？  
+1. 【[耍孩儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_hae_er.md#耍孩儿)】`shua3 hae2 er` <sup>[兴化]</sup> ① 曲牌名。 ② 旧时迎神赛会队伍中的童男童女。 ③ 戏谓小两口：一对～。  
 1. 【[耍货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_hu.md#耍货)】`shua3 hu5` <sup>[兴化]</sup> ① 只能作玩具、摆设，而没有实用价值的东西：及至到了寺前，也有许多游人往来络绎，还杂着许多～摊儿，陈设得红红绿绿。（《广陵潮》六七） ② 因不明事理而常被嘲弄的人：他真是个～儿。  
 1. 【[耍货<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_hu_r.md#耍货<sub>儿</sub>)】`shua3 hu5 r` 玩具  
 1. 【[耍货<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_hu_r.md#耍货<sub>儿</sub>)】`shua3 hu5 r` <sup>[如皋]</sup> ① 玩具。 ② 焰火。 ③ 指贪玩而不务实的人。  
@@ -2495,7 +2496,6 @@
 1. 【[耍子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_zz.md#耍子)】`shua3 zz` <sup>[泰县]</sup> 玩：来～。  
 1. 【[耍子刻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_zz_keh_r.md#耍子刻<sub>儿</sub>)】`shua3 zz keh9 r` <sup>[如皋]</sup> ① 玩一会儿。 ② 挽留用语。  
 1. 【[耍子刻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_zz_keh_r.md#耍子刻<sub>儿</sub>)】`shua3 zz keh9 r` <sup>[如东]</sup> 逗留一会儿。比喻耽搁一会儿：我在这里～就家来。  
-1. 【[要孩儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_hae_er.md#要孩儿)】`shua3 hae2 er` <sup>[兴化]</sup> ① 曲牌名。 ② 旧时迎神赛会队伍中的童男童女。 ③ 戏谓小两口：一对～。  
 1. 【[𩈥色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_seh.md#𩈥色)】`shua3 seh7` <sup>[兴化]</sup> 因惊恐或过于劳累而面部变色：他一听说老朋友出事，脸吓咖～。  
 1. 【[刷当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_dan.md#刷当)】`shua5 dan1` <sup>[东台]</sup> 妥帖、恰当。  
 1. 【[刷净](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_qien.md#刷净)】`shua5 qien` <sup>[兴化]</sup> 清爽、洁净：老朱家里蛮～的。  

@@ -616,7 +616,7 @@
 1. 【[七寸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_cuen_zz.md#七寸子)】`qieh7 cuen5 zz` <sup>[如东]</sup> 蛇的心脏位置。比喻要害部位：打蛇要打～。  
 1. 【[七寸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_cuen_zz.md#七寸子)】`qieh7 cuen5 zz` <sup>[兴化]</sup> ① 一种毒蛇。 ② 七首。 ③ （喻）要害处：打蛇要打～。  
 1. 【[七寸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_cuen_zz.md#七寸子)】`qieh7 cuen5 zz` <sup>[泰兴]</sup> ① 一种短小的剧毒蛇。 ② 比喻要害：俗云：“打蛇打～。”  
-1. 【[七字读<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_cz_du_r.md#七字读<sub>儿</sub>)】`qieh7 cz6 du5 r` <sup>[如皋]</sup> 七个字一行的叙事韵文唱本，用民歌曲调演唱。  
+1. 【[七字读<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_cz_du_r.md#七字读<sub>儿</sub>)】`qieh7 cz du5 r` <sup>[如皋]</sup> 七个字一行的叙事韵文唱本，用民歌曲调演唱。  
 1. 【[七打八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_da_baeh.md#七打八)】`qieh7 da baeh7` <sup>[兴化]</sup> 差不多，所剩无几：“……别的大队的秧田草，都已薅得～。就剩你们拖这么大的尾巴……”（马春阳《书记的风格》）  
 1. 【[七打八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_da_baeh.md#七打八)】`qieh7 da3 baeh` <sup>[如皋]</sup> 差不多了：工程已经～咖，快完成吖。  
 1. 【[七打八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_da_baeh.md#七打八)】`qieh7 da3 baeh7` <sup>[东台]</sup> 已有七八成，差不多了。  

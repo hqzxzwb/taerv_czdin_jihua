@@ -1274,7 +1274,7 @@
 1. 【[找岔子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_cha_zz.md#找岔子)】`zho3 cha5 zz` <sup>[兴化]</sup> 故意挑毛病、寻不是：你们不是来互查的，而是来～的。  
 1. 【[找价](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_jia.md#找价)】`zho3 jia5` <sup>[兴化]</sup> 田地房产或其他大型物品出售后，出卖人或其子孙借口当时售价太贱，要求买主找补不足部分：“……买房子、卖房子、房子上～，人家都请潘彩臣……”（《皮五辣子》四）｜“……（这牛）前日银子卖少了，要来～……”（《儒林外史》二四）  
 1. 【[找零](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_lien.md#找零)】`zho3 lien2` <sup>[如皋]</sup> 裁衣时将零头布留作零用。  
-1. 【[找麻把子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_ma_ba_zz.md#找麻把子)】`zho3 ma2 ba1 zz` <sup>[东台]</sup> 同“找眼子”。  
+1. 【[找麻疤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_ma_ba_zz.md#找麻疤子)】`zho3 ma2 ba1 zz` <sup>[东台]</sup> 同“找眼子”。  
 1. 【[找抹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_maeh.md#找抹)】`zho3 maeh` <sup>[如皋]</sup> ① 清理、清点：～下子、～清爽。 ② 挑衅：他就会～人。  
 1. 【[找抹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_maeh.md#找抹)】`zho3 maeh` <sup>[东台]</sup> 回头仔细检查，处理好未了的事宜。  
 1. 【[找抹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_maeh.md#找抹)】`zho3 maeh` <sup>[泰县]</sup> 检点：你走的时候把家里～下子。  

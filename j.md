@@ -1852,7 +1852,7 @@
 1. 【[嘴上两块皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_shan_laen_kuae_pi.md#嘴上两块皮)】`jy3 shan laen3 kuae5 pi2` <sup>[东台]</sup> 说话不算数：这家伙～，翻来覆去的，没得一句真话。  
 1. 【[嘴上没毛，办事不牢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_shan_meh_mo_baen_shr_beh_lo.md#嘴上没毛，办事不牢)】`jy3 shan6 meh8 mo2 baen5 shr6 beh7 lo2` <sup>[东台]</sup> 没有一定年龄和社会经验，办事不牢靠。  
 1. 【[嘴是风，笔是终](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_shr_fon_bieh_shr_zhon.md#嘴是风，笔是终)】`jy3 shr6 fon1 bieh7 shr6 zhon1` <sup>[如皋]</sup> 口说无凭，书面为据。  
-1. 【[嘴是两耷皮，说话有改移](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_shr_laen_tah_pi_shuh_hua_ieu_gae_i.md#嘴是两耷皮，说话有改移)】`jy3 shr6 laen3 tah7 pi2 shuh7 hua6 ieu3 gae3 i2` <sup>[如皋]</sup> 说的不能算数，容易有变化。  
+1. 【[嘴是两耷皮，说话有改移](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_shr_laen_dah.md#嘴是两耷皮，说话有改移)】`jy3 shr6 laen3 dah7 pi2 shuh7 hua6 ieu3 gae3 i2` <sup>[如皋]</sup> 说的不能算数，容易有变化。  
 1. 【[嘴搨咖油的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_taeh_ga_ieu_dii.md#嘴搨咖油的)】`jy3 taeh7 ga ieu2 dii` <sup>[如皋]</sup> 说话滔滔不绝。  
 1. 【[嘴淡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_taen.md#嘴淡)】`jy3 taen6` <sup>[如皋]</sup> 詈语，责信口乱说。  
 1. 【[嘴淡抓把盐抲抲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_taen_zhua_ba_in_ka_ka.md#嘴淡抓把盐抲抲)】`jy3 taen6 zhua1 ba3 in2 ka1 ka1` <sup>[如皋]</sup> 见“嘴淡”。  

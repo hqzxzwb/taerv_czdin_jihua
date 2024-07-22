@@ -76,7 +76,7 @@
 1. 【[抬箱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_xian.md#抬箱)】`tae2 xian1` <sup>[如皋]</sup> 有底座的大箱子，供抬运。  
 1. 【[大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#大)】`tae3` 大，不小  
 1. 【[大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#大)】`tae3` <sup>[如皋]</sup> 大。  
-1. 【[大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#大)】`tae3` <sup>[东台]</sup> 身躯肥大笨拙，在东台方言中泛指很大：这个瓜多～！吃不下。  
+1. 【[大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#大)】`tae3` <sup>[东台]</sup> 大：这个瓜多～！吃不下。  
 1. 【[大哥<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_gun_r.md#大哥<sub>儿</sub>)】`tae3 gun1 r` <sup>[如皋]</sup> 行一，老大。  
 1. 【[大气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_qi.md#大气)】`tae3 qi` <sup>[如东]</sup> 大方：不～。  
 1. 【[大大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_tae.md#大大)】`tae3 tae3` <sup>[泰县]</sup> 愉快满意  
@@ -2412,9 +2412,9 @@
 1. 【[坛<sub>儿</sub>甏<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_r_pon_r.md#坛<sub>儿</sub>甏<sub>儿</sub>)】`tun2 r pon6 r` <sup>[如皋]</sup> 指坛子之类的陶制器皿。甏儿，吴地对坛子的称呼。  
 1. 【[坛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_zz.md#坛子)】`tun2 zz` <sup>[如东]</sup> 容器。陶制，圆桶形，口小，底小，肚子较大。有各种规格。用于盛物。  
 1. 【[坛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_zz.md#坛子)】`tun2 zz` <sup>[东台]</sup> 一种肚大口小的陶器。  
+1. 【[坛子𬙙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_zz_fan.md#坛子𬙙)】`tun2 zz fan1` <sup>[如东]</sup> 一种捕鱼网具。圆锥形，宽36米，长36米。作业时，网放入海水中用纲缆固定在绳扣上（叫做生根），用坛子作浮体将网口拉开，故叫坛子。  
 1. 【[坛子口封得住，人口封不住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_zz_keu_fon_deh_chv_ren_keu_fon_beh_chv.md#坛子口封得住，人口封不住)】`tun2 zz keu3 fon1 deh7 chv6 ren2 keu3 fon1 beh7 chv6` <sup>[东台]</sup> 主要说人的言语不能堵塞。  
 1. 【[坛子里头失火——闷烧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_zz_li_teu_sheh_hu_men_sho.md#坛子里头失火——闷烧)】`tun2 zz li teu2 sheh7 hu3 men6 sho1` <sup>[东台]</sup>   
-1. 【[坛子𬙙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_zz_zheu.md#坛子𬙙)】`tun2 zz zheu5` <sup>[如东]</sup> 一种捕鱼网具。圆锥形，宽36米，长36米。作业时，网放入海水中用纲缆固定在绳扣上（叫做生根），用坛子作浮体将网口拉开，故叫坛子。  
 1. 【[抟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun.md#抟)】`tun2` <sup>[如皋]</sup> 使收缩成团状：～纸团儿、～饭团儿、他把衣裳一～望包里一塞就了啊事！  
 1. 【[抟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun.md#抟)】`tun2` <sup>[如东]</sup> 捏成圆形：～圆子。  
 1. 【[抟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun.md#抟)】`tun2` <sup>[泰县]</sup> ① 捏成圆形：～个纸团儿。 ② 草拟：～个材料、  

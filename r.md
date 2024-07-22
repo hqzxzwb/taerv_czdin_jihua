@@ -690,7 +690,7 @@
 1. 【[辱句](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_jy.md#辱句)】`roh8 jy` <sup>[如皋]</sup> 说反话讽刺。  
 1. 【[辱没](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_meh.md#辱没)】`roh8 meh8` <sup>[东台]</sup> 侮辱埋没，有损声誉。  
 1. 【[辱绝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_qiuh.md#辱绝)】`roh8 qiuh8` <sup>[兴化]</sup> 羞辱、挖苦：你这个不是夸奖，直接就是～人。  
-1. 【[辱头辱脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_teu_roh_lin.md#辱头辱脸)】`roh8 teu2 roh8 lin3` <sup>[兴化]</sup> 狠狠地、不顾情面地：王二捱他老子～的骂啊一顿。｜也说“没头没脸”。  
+1. 【[辱头辱脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_teu_roh_lin.md#辱头辱脸)】`roh8 teu2 roh8 lin3` <sup>[兴化]</sup> 狠狠地、不顾情面地。也说“没头没脸”：王二捱他老子～的骂啊一顿。  
 1. 【[氄抖抖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ron_deu_deu.md#氄抖抖)】`ron2 deu deu3` <sup>[兴化]</sup> 形容鸟兽细毛长而且密：小儿羔的皮～的。氄｜《集韵·肿韵》乳勇切，《说文》毛盛也。  
 1. 【[氄斗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ron_deu_r.md#氄斗<sub>儿</sub>)】`ron2 deu3 r` <sup>[兴化]</sup> 雄鸡尾羽根部的细绒毛：～大的鸡毛做毽子最好。  
 1. 【[绒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ron.md#绒)】`ron2` <sup>[如皋]</sup> 极细碎  

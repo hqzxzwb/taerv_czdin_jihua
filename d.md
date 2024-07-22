@@ -413,7 +413,7 @@
 1. 【[打湿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_sheh.md#打湿)】`da3 sheh7` <sup>[如东]</sup> 被雨水淋了。  
 1. 【[打食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_sheh.md#打食)】`da3 sheh8` <sup>[如东]</sup> 觅食：天刚刚亮，麻雀就出来～。  
 1. 【[打食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_sheh.md#打食)】`da3 sheh8` <sup>[泰县]</sup> 家禽寻找食物：鸽子出去～去啊。  
-1. 【[打声不刺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_shen_beh_laeh.md#打声不刺)】`da3 shen1 beh7 laeh8` <sup>[兴化]</sup> 形容过分谦恭的情态：我留他吃顿便饭，他～的不肯。  
+1. 【[打声不剌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_shen_beh_laeh.md#打声不剌)】`da3 shen beh7 laeh` <sup>[兴化]</sup> 形容过分谦恭的情态：我留他吃顿便饭，他～的不肯。  
 1. 【[打手巾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_sheu_jien.md#打手巾)】`da3 sheu3 jien1` <sup>[如皋]</sup> 用肥皂擦洗毛巾。  
 1. 【[打手巾把子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_sheu_jien_ba_zz.md#打手巾把子)】`da3 sheu3 jien1 ba3 zz` <sup>[如皋]</sup> ① 为客人递热湿毛巾，供其擦面、揩手。 ② 书场、戏园子内为观众抛送湿毛巾的有偿服务。  
 1. 【[打闪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_shin.md#打闪)】`da3 shin3` <sup>[兴化]</sup> 闪电。  
@@ -1022,7 +1022,7 @@
 1. 【[呆瘕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_ha.md#呆瘕)】`dae1 ha2` <sup>[东台]</sup> 即傻子。有时也作昵称。（“瘕”参见“瘕尿”）  
 1. 【[呆𤹉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_ha_r.md#呆𤹉<sub>儿</sub>)】`dae1 ha3 r` <sup>[如皋]</sup> 傻瓜。  
 1. 【[呆货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_hu.md#呆货)】`dae1 hu5` <sup>[如皋]</sup> 同“呆瓜”。  
-1. 【[呆话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_hua.md#呆话)】`dae1 hua1` <sup>[如皋]</sup> 傻话，糊涂话，一般忌讳说的有关私生活、隐私的话。  
+1. 【[呆话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_hua.md#呆话)】`dae1 hua6` <sup>[如皋]</sup> 傻话，糊涂话，一般忌讳说的有关私生活、隐私的话。  
 1. 【[呆话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_hua.md#呆话)】`dae1 hua6` <sup>[兴化]</sup> ① 想入非非的话。 ② 被认为不吉的话：“……要和他说话，不是～，就是疯话。”（《红楼梦》七一）  
 1. 【[呆有呆局](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_ieu_dae_qioh.md#呆有呆局)】`dae1 ieu3 dae1 qioh8` <sup>[东台]</sup> 有的人并不精明，但是运气特别好。  
 1. 【[呆雄鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_ion_ji.md#呆雄鸡)】`dae1 ion2 ji1` <sup>[泰县]</sup> ① 大公鸡。 ② 粗壮的男人。  

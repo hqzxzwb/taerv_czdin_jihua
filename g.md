@@ -1182,7 +1182,7 @@
 1. 【[公司井](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_sz_jien.md#公司井)】`gon1 sz1 jien3` <sup>[如皋]</sup> 旧称政府开凿的公共水井。双孔井栏。  
 1. 【[公抬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_tae.md#公抬)】`gon1 tae2` <sup>[如皋]</sup> 大家出钱，一起宴请某人。  
 1. 【[公抬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_tae.md#公抬)】`gon1 tae2` <sup>[兴化]</sup> 醵饮时，大家替其中一人或数人出份金：“我们大伙儿～，把你一吊钱抬就抬掉了”（《皮五辣子》三）  
-1. 【[公摊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_taen.md#公摊)】`gon1 taen2` <sup>[兴化]</sup> 所花的线由相关人共同分担：修路的钱由各户～。  
+1. 【[公摊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_taen.md#公摊)】`gon1 taen1` <sup>[兴化]</sup> 所花的钱由相关人共同分担：修路的钱由各户～。  
 1. 【[公田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_tin.md#公田)】`gon1 tin2` <sup>[如东]</sup> 旧时没有领主的土地，称公田。例如海滩、草荡等。  
 1. 【[公道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_to.md#公道)】`gon1 to, gon1 to5` <sup>[如皋]</sup> 公平合理  
 1. 【[公道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_to.md#公道)】`gon1 to6` <sup>[如东]</sup> ① 公平合理：这吖处理～。 ② 价格便宜：今朝的玉米～，可以多买点儿。  
