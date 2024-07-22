@@ -1211,8 +1211,7 @@
 1. 【[明板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_baen.md#明板)】`mien2 baen` <sup>[如东]</sup> 帆船舵扇中间的木板。  
 1. 【[明处](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_chv.md#明处)】`mien2 chv` <sup>[如皋]</sup> 见“亮处”。  
 1. 【[明处](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_chv.md#明处)】`mien2 chv5` <sup>[东台]</sup> 公开的场合：有话说在～。  
-1. 【[明打明](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_da_mien.md#明打明)】`mien2 da3 mien2` <sup>[如东]</sup> 公开的信息。  
-1. 【[明打明](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_da_mien.md#明打明)】`mien2 da3 mien2` <sup>[兴化]</sup> 公开地、不加掩饰地：他～的把公家东西往家拖。  
+1. 【[明打明](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_da_mien.md#明打明)】`mien2 da3 mien2` <sup>\[如东\]\[兴化\]</sup>公开、不加掩饰：他～的把公家东西往家拖。<sup>\[兴化\]</sup>  
 1. 【[明打明的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_da_mien_dii.md#明打明的)】`mien2 da3 mien2 dii` <sup>[如皋]</sup> 很明显：他这吖走棋，～是要吃车。  
 1. 【[明打明开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_da_mien_kae.md#明打明开)】`mien2 da3 mien2 kae1` <sup>[东台]</sup> 公开透明，毫不掩饰。  
 1. 【[明打明敲的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_da_mien_ko_dii.md#明打明敲的)】`mien2 da3 mien2 ko1 dii` <sup>[如皋]</sup> 公开的，公然的；别人卖10元，我卖12元，～多卖两元——按质论价嘛！见“明摆的”。  
