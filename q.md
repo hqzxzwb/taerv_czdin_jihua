@@ -440,7 +440,7 @@
 1. 【[嚼瘟蛆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiah_ven_qy.md#嚼瘟蛆)】`qiah8 ven1 qy1` 胡说八道，胡扯  
 1. 【[嚼瘟蛆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiah_ven_qy.md#嚼瘟蛆)】`qiah8 ven1 qy1` <sup>[如东]</sup> 胡说八道：又在下～。  
 1. 【[嚼瘟蛆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiah_ven_qy.md#嚼瘟蛆)】`qiah8 ven1 qy1` <sup>[东台]</sup> 同“嚼糟报”，骂得更厉害。  
-1. 【[嚼糟报](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiah_zo_bo.md#嚼糟报)】`qiah8 zo1 bo5` <sup>[东台]</sup> 见“糟报”。  
+1. 【[嚼招报](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiah_zho_bo.md#嚼招报)】`qiah8 zho1 bo5` <sup>[东台]</sup> 见“招报”。  
 1. 【[呛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian.md#呛)】`qian1` <sup>[如东]</sup> 水或食物进入气管引起咳嗽：吃饭时说话，～吖。  
 1. 【[呛风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_fon.md#呛风)】`qian1 fon1` <sup>[兴化]</sup> 被风吹进气管，引起感冒：他前天下乡呛吖风，成天咳嗽。  
 1. 【[呛喉咙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_heu_lon.md#呛喉咙)】`qian1 heu2 lon` <sup>[如东]</sup> 一种异味刺激咽喉黏膜。  
