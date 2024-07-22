@@ -74,13 +74,14 @@
 1. 【[打啊足咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_a_zoh_ga.md#打啊足咖)】`da3 a zoh7 ga` <sup>[如皋]</sup> ① 满打满算。 ② 充气很足。 ③ 秤梢朝天。  
 1. 【[打巴巴掌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ba_ba_zhan.md#打巴巴掌)】`da3 ba1 ba1 zhan` <sup>[如皋]</sup> 即北京的“打花巴掌”。二人对坐，互、自击掌。如此循环。同时口唱儿歌。  
 1. 【[打把势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ba_shr.md#打把势)】`da3 ba3 shr` <sup>[兴化]</sup> 利用某种关系或用不正当手段索取钱财：……当时他故了下来，同乡里出来替他～，我还帮过他二两银子……（《官场现行记》十一）  
-1. 【[打坝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ba.md#打坝)】`da3 ba5` <sup>[如东]</sup> ① 在河道上筑坝。 ② 比喻阻挠某事的完成或执行。  
-1. 【[打坝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ba.md#打坝)】`da3 ba5` <sup>[如皋]</sup> ① 比喻阻止：他从中～，事情就有难度咾。 ② 堵塞：千不怕，万不怕，就怕喉咙管儿～。  
-1. 【[打坝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ba.md#打坝)】`da3 ba5` <sup>[兴化]</sup> ① 用土石等在河流中筑坝。 ② （借）设置障碍：这件事有人～，不顺利。 ③ 堵塞：他喉咙～，咽不下去。  
+1. 【[打坝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ba.md#打坝)】`da3 ba5` ① <sup>\[如东\]\[兴化\]</sup>在河道上筑坝。 ② <sup>\[如东\]\[如皋\]\[兴化\]</sup>比喻阻挠、作梗：他从中～，事情就有难度咾。<sup>\[如皋\]</sup>｜这件事有人～，不顺利。<sup>\[兴化\]</sup> ③ <sup>\[如皋\]\[兴化\]</sup>堵塞：千不怕，万不怕，就怕喉咙管儿～。<sup>\[如皋\]</sup>｜他喉咙～，咽不下去。<sup>\[兴化\]</sup>  
 1. 【[打摆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_bae_zz.md#打摆子)】`da3 bae3 zz` <sup>[如皋]</sup> 患疟疾。发寒颤抖，旧时无特效药医，病程延长。同“百日子”。  
 1. 【[打摆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_bae_zz.md#打摆子)】`da3 bae3 zz` <sup>[东台]</sup> ① 患疟疾，身上发寒颤抖。 ② ［喻］忽冷忽热、时好时差、时有时无的不正常现象。（作为詈语也说“打阴摆子”）  
 1. 【[打摆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_bae_zz.md#打摆子)】`da3 bae3 zz` <sup>[兴化]</sup> ① 发疟疾。 ② （喻）犯冷热病。  
 1. 【[打摆子去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_bae_zz_qy.md#打摆子去)】`da3 bae3 zz qy5` <sup>[如皋]</sup> 恶言逐客：你～吧！  
+1. 【[打八岔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_baeh_cha.md#打八岔)】`da3 baeh7 cha5` <sup>[如东]</sup> 从旁打扰别人的工作或谈话：你不要在这许～。  
+1. 【[打板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_baen.md#打板)】`da3 baen3` <sup>[如皋]</sup> 板结：头发～；米蛀啊，打啊板。  
+1. 【[打板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_baen.md#打板)】`da3 baen3` <sup>[兴化]</sup> 为演唱击拍子：你唱曲子，我来～。｜（那小旦）才开口要唱，李公道： “不必大曲，只唱小曲罢。”递扇子与他～，唱了一曲。（《梼杌闲评》二）。  
 [更多...](./d.md)
 ## E
 1. 【[……儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh.md#……儿)】`eh` <sup>[东台]</sup> 儿缀的东台市区方言口音：茄～；小摊～；让你个子～。  
