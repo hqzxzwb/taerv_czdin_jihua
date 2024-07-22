@@ -20,9 +20,7 @@
 1. 【[才将<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_jian_r.md#才将<sub>儿</sub>)】`cae2 jian1 r` <sup>[如东]</sup> 刚才。  
 1. 【[才将<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_jian_r.md#才将<sub>儿</sub>)】`cae2 jian1 r` <sup>[如皋]</sup> 刚才。  
 1. 【[才将<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_jian_r.md#才将<sub>儿</sub>)】`cae2 jian1 r` <sup>[兴化]</sup> 刚才：老吴～走的。  
-1. 【[才些<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_xia_r.md#才些<sub>儿</sub>)】`cae2 xia1 r` 刚才，刚刚  
 1. 【[才些<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_xia_r.md#才些<sub>儿</sub>)】`cae2 xia1 r` <sup>[如皋]</sup> 刚才、刚刚。  
-1. 【[才些<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_xia_r.md#才些<sub>儿</sub>)】`cae2 xia1 r` <sup>[如皋]</sup> 刚才。  
 1. 【[裁房子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_fan_zz.md#裁房子)】`cae2 fan2 zz` <sup>[如东]</sup> 用铡刀将茅屋屋檐杂草剪平，使之整齐好看。  
 1. 【[裁缝划线——齐这许剪（禁）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_fon_hua_xin_qi_zha_hae_jin.md#裁缝划线——齐这许剪（禁）)】`cae2 fon hua2 xin5 qi2 zha5 hae jin3 （jien5）` <sup>[东台]</sup>   
 1. 【[裁衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_i.md#裁衣)】`cae2 i1` <sup>[如皋]</sup> 旧时称手工缝纫中服的师傅或职业。  

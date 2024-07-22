@@ -56,8 +56,8 @@
 1. 【[才将<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_jian_r.md#才将<sub>儿</sub>)】`cae2 jian1 r` <sup>[如东]</sup> 刚才。  
 1. 【[才将<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_jian_r.md#才将<sub>儿</sub>)】`cae2 jian1 r` <sup>[如皋]</sup> 刚才。  
 1. 【[才将<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_jian_r.md#才将<sub>儿</sub>)】`cae2 jian1 r` <sup>[兴化]</sup> 刚才：老吴～走的。  
-1. 【[才些<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_xia_r.md#才些<sub>儿</sub>)】`cae2 xia1 r` 刚才，刚刚  
 1. 【[才些<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_xia_r.md#才些<sub>儿</sub>)】`cae2 xia1 r` <sup>[如皋]</sup> 刚才、刚刚。  
+1. 【[裁房子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_fan_zz.md#裁房子)】`cae2 fan2 zz` <sup>[如东]</sup> 用铡刀将茅屋屋檐杂草剪平，使之整齐好看。  
 [更多...](./c.md)
 ## D
 1. 【[咑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da.md#咑)】`da` <sup>[兴化]</sup> 语气词，用于疑问句末：这东西是你的～？｜这话是你说的～？  
