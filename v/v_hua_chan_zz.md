@@ -1,5 +1,5 @@
 # 五花肠子六花心
-v3 hua chan2 zz loh8 hua zien1
+v3 hua chan2 zz loh8 hua xien1
 > 兴化方言词典
 - 形容三心二意或心怀邪念
   - “……你要仔细些，不要～似的……”（《广陵潮》三四）
