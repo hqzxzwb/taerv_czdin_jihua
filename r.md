@@ -422,8 +422,8 @@
 1. 【[日光灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_guan_den.md#日光灯)】`rih8 guan1 den1` <sup>[如东]</sup> 荧光灯。  
 1. 【[日干日消](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_gun_rih_xio.md#日干日消)】`rih8 gun1 rih8 xio1` <sup>[兴化]</sup> 赚的钱钱只够当天开支：寻两个钱～，哪许有余钱供伢儿上学？  
 1. 【[日夜班](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_ia_baen.md#日夜班)】`rih8 ia6 baen1` <sup>[如东]</sup> 上班制度的一种，分为白天和黑夜两班。  
-1. 【[日脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_jiah.md#日脚)】`rih8 jiah7` <sup>[如东]</sup> 日子：～不好过。日期。  
-1. 【[日脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_jiah.md#日脚)】`rih8 jiah7` <sup>[兴化]</sup> 日子：“大哥休怪。正是要紧的～，先说得明白最好。”（《水浒传》七四）《吴下方言考》｜“～，晷影也。今吴谚谓去日之速曰～快也”。  
+1. 【[日脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_jiah.md#日脚)】`rih8 jiah7` <sup>[如东]</sup> ① 日子：～不好过。 ② 日期。  
+1. 【[日脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_jiah.md#日脚)】`rih8 jiah7` <sup>[兴化]</sup> 日子。《吴下方言考》：“～，晷影也。今吴谚谓去日之速曰～快也”：“大哥休怪。正是要紧的～，先说得明白最好。”（《水浒传》七四）  
 1. 【[日脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_jiah.md#日脚)】`rih8 jiah7` <sup>[泰县]</sup> 日子。  
 1. 【[日脚老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_jiah_lo.md#日脚老)】`rih8 jiah7 lo3` <sup>[如皋]</sup> 一般指休养天数长。  
 1. 【[日脚嫩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_jiah_nen.md#日脚嫩)】`rih8 jiah7 nen6` <sup>[如皋]</sup> 修养天数短。  
