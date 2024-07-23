@@ -276,7 +276,7 @@
 1. 【[人参条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_shen_tio.md#人参条)】`ren2 shen1 tio2` <sup>[如东]</sup> 五加科植物人参根茎上的不定根。  
 1. 【[人参须](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_shen_xy.md#人参须)】`ren2 shen1 xy1` <sup>[如东]</sup> 五加科植物人参细枝根与须根。  
 1. 【[人参子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_shen_zz.md#人参子)】`ren2 shen1 zz3` <sup>[如东]</sup> 五加科植物人参果实。  
-1. 【[人生父母养](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_shen_fv_mu.md#人生父母养)】`ren2 shen1 fv6 mu3 ian3` 人之躯体，受之父母：他一把夺过许先生手里的门门，说了一句话：“他也是～的！”（汪曾祺《异秉》）｜“……其实谁不是～的，当真就一毫廉耻也没有……”（《广陵湖》六三）  
+1. 【[人生父母养](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_shen_fv_mu.md#人生父母养)】`ren2 shen1 fv6 mu3 ian3` <sup>\[兴化\]\[泰兴\]</sup>人之躯体，受之父母：他一把夺过许先生手里的门门，说了一句话：“他也是～的！”（汪曾祺《异秉》）<sup>\[兴化\]</sup>｜“……其实谁不是～的，当真就一毫廉耻也没有……”（《广陵湖》六三）<sup>\[兴化\]</sup>  
 1. 【[人生面不熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_shen_min_beh_shoh.md#人生面不熟)】`ren2 shen1 min6 beh7 shoh8` <sup>[兴化]</sup> 人与人互不相识：他俫～的，有些话怎吖好出口。｜“……今日初会，～，再来等我替你品。”（《金瓶梅词话》五九）  
 1. 【[人生七十古来稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_shen_qieh_sheh.md#人生七十古来稀)】`ren2 shen1 qieh7 sheh8 gv3 lae2 xi1` <sup>[泰兴]</sup> 七十岁高龄的人从古以来就不多见，谓享高寿不易。  
 1. 【[人生地不熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_shen_ti_beh_shoh.md#人生地不熟)】`ren2 shen1 ti6 beh7 shoh8` <sup>[兴化]</sup> 人地生疏：于大欺他～，开车兜啊一圈，收他三十多块钱车费。｜张泰心慌，又是～的人，绊了一交，跌倒在地……（《西潮二集》十三）  
