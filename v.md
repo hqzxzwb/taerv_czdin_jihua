@@ -989,7 +989,6 @@
 1. 【[为头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_teu.md#为头)】`vei2 teu2` <sup>[泰县]</sup> 为首的人。  
 1. 【[危乎危乎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_hv_vei_hv.md#危乎危乎)】`vei2 hv vei2 hv` <sup>[东台]</sup> 非常危险、奄奄一息的样子。也作“危急危乎”。  
 1. 【[危急](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_jieh.md#危急)】`vei2 jieh7` <sup>[东台]</sup> 危险、紧急。  
-1. 【[喂不饱的鹰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_beh_bo_dii_ien.md#喂不饱的鹰)】`vei2 beh7 bo3 dii ien1` <sup>[东台]</sup> ［喻］十分贪婪，贪得无厌：那些贪官真是～，可恨！  
 1. 【[回](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei.md#回)】`vei2` <sup>[兴化]</sup> ① 寻购：这种药医院、药房全没得，只好上人家去～。 ② 匀：“主人家……你便自家吃的肉食，也～些与我吃了……”（《水浒传》三二） ③ （引）花大价钱买。谚曰：饭店里～葱。  
 1. 【[围兜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_deu_r.md#围兜<sub>儿</sub>)】`vei2 deu1 r` <sup>[如东]</sup> 围在肚脐上的一块方布，以红色为多，常绣各种花纹。起保暖作用。  
 1. 【[围加](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_ga.md#围加)】`vei2 ga1` <sup>[泰县]</sup> 兜儿。  
@@ -1051,6 +1050,7 @@
 1. 【[苇箔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_pah.md#苇箔)】`vei3 pah8` <sup>[东台]</sup> 用芦苇编织的席子。  
 1. 【[苇塘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_tan.md#苇塘)】`vei3 tan2` <sup>[东台]</sup> 生长芦苇的池塘。  
 1. 【[荱草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_co.md#荱草)】`vei3 co3` <sup>[如东]</sup> 多年生草本植物。叶条形，互生。花兰白色。结朔果。生长在淡水中。俗称金鱼草。  
+1. 【[喂不饱的鹰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_beh_bo_dii_ien.md#喂不饱的鹰)】`vei5 beh7 bo3 dii ien1` <sup>[东台]</sup> ［喻］十分贪婪，贪得无厌：那些贪官真是～，可恨！  
 1. 【[胃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei.md#胃)】`vei5` <sup>[如东]</sup> 消化器官的一部分，形状像口袋，上端跟食道相连，下端跟十二指肠相连。能分泌胃液，消化食物。也称胃子。  
 1. 【[胃虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_chon.md#胃虫)】`vei5 chon2` <sup>[如东]</sup> 蛔虫。寄生在人的胃中，称胃虫。成虫长约8寸。雌的较大，形状象蚯蚓，白色或米黄色，前端有口，能附着在人的肠壁上，也能寄生在猫、狗、猪等家畜体内。卵随粪便排出体外，进入土壤，附在蔬菜上或混入饮水中，如被人吞下，在肠子里变成幼虫，然后发育成成虫。蛔虫在人体内不但吸取养料，还分泌毒素，使寄主营养不良，精神不振，面色灰白，腹痛，并且能引起肠埂阻、阑尾炎、肠穿孔或进人肝脏、胆道等造成其他疾病。  
 1. 【[胃口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_keu.md#胃口)】`vei5 keu` <sup>[东台]</sup> 即食欲。也喻指欲望：这个企业～太大，想兼并我俫。  
