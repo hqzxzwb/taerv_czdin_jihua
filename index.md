@@ -95,16 +95,16 @@
 1. 【[儿肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_chan.md#儿肠)】`er2 chan2` <sup>[如皋]</sup> ① 内生殖器总称。 ② 特指动物输卵管，是阉割的部分。 ③ 也有指男性输精管的。  
 1. 【[儿肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_chan.md#儿肠)】`er2 chan2` <sup>[兴化]</sup> 女子或雌性哺乳动物的输卵管。‖也称“子肠”。  
 1. 【[儿灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_den.md#儿灯)】`er2 den1` <sup>[如皋]</sup> ① 人形灯具。 ② 喻出众者：你充甚的～吖！  
+1. 【[儿多母受苦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_du_mu_sheu.md#儿多母受苦)】`er2 du1 mu3 sheu6 kv3` <sup>[泰兴]</sup> 谓子女多，做母亲的非常辛苦。  
 1. 【[儿儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_er.md#儿儿)】`er2 er` <sup>[兴化]</sup> 孩子：这个～太调皮。｜“人生总受业风吹，三岁～，八十～。”（宋·刘辰翁《一剪梅》）  
-1. 【[儿狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_geu.md#儿狗)】`er2 geu3` <sup>\[如东\]\[如皋\]\[兴化\]</sup>公狗。  
+1. 【[儿狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_geu.md#儿狗)】`er2 geu3` <sup>\[如东\]\[如皋\]\[兴化\]\[泰兴\]</sup>公狗。  
 1. 【[儿花女花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_hua_ny_hua.md#儿花女花)】`er2 hua1 ny3 hua1` <sup>[兴化]</sup> 儿女：老奶奶孤寡一人，～没得一个。｜“俺衙内老爹身边，～没有，好不单径……”（《金瓶梅词话》九一）  
+1. 【[儿要教，子要孝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_io_jio_zz.md#儿要教，子要孝)】`er2 io5 jio5 zz3 io5 xio5` <sup>[泰兴]</sup> 对儿女要加强教育，做子女的要孝顺。  
 1. 【[儿女亲家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_ny_qien_ga.md#儿女亲家)】`er2 ny3 qien5 ga` <sup>[如皋]</sup> 姻亲的双方家族间长辈的关系称。  
 1. 【[儿女亲家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_ny_qien_jia.md#儿女亲家)】`er2 ny3 qien5 jia` <sup>[兴化]</sup> ① 两家儿女相婚配的亲戚关系。 ② 称儿子的岳父、岳母或女儿的公公、婆婆。  
 1. 【[儿时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_shr.md#儿时)】`er2 shr2` <sup>[如东]</sup> 少年时候。  
-1. 【[儿孙自有儿孙福，莫为儿孙当牛马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_suen_cz_ieu_er_suen_foh_mah_vei_er_suen_dan_ngeu_ma.md#儿孙自有儿孙福，莫为儿孙当牛马)】`er2 suen1 cz6 ieu3 er2 suen1 foh7 mah8 vei6 er2 suen1 dan1 ngeu2 ma3` <sup>[东台]</sup> 要教育后代自强不息。  
-1. 【[儿孙满堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_suen_mun_tan.md#儿孙满堂)】`er2 suen1 mun3 tan2` <sup>[如东]</sup> 形容家庭人丁兴旺。  
-1. 【[儿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_zz.md#儿子)】`er2 zz` <sup>[如东]</sup> 自己的下一代男孩称儿子。亲生的，称生子；收养的，称养子；过继的，称嗣子。  
-1. 【[耳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er.md#耳)】`er3` <sup>[泰兴]</sup> 理睬：没工夫～他  
+1. 【[儿孙自有儿孙福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_suen_cz_ieu.md#儿孙自有儿孙福)】`er2 suen1 cz6 ieu3 er2 suen1 foh7` <sup>[泰兴]</sup> 谓子孙自有他们自己的福分，长辈不必操劳。古语有“～，莫与儿孙作马牛。”乡人云：“～，不愁没得三间屋。”  
+1. 【[儿孙自有儿孙福，莫为儿孙当牛马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_suen_cz_ieu.md#儿孙自有儿孙福，莫为儿孙当牛马)】`er2 suen1 cz6 ieu3 er2 suen1 foh7 mah8 vei6 er2 suen1 dan1 ngeu2 ma3` <sup>[东台]</sup> 要教育后代自强不息。  
 [更多...](./e.md)
 ## F
 1. 【[……疯吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_nga.md#……疯吖)】`fon1 nga` <sup>[东台]</sup> 同“呼啊”。用法也大致相同：难听吖～。  

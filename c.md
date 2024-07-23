@@ -2068,6 +2068,7 @@
 1. 【[串巷风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_han_fon.md#串巷风)】`chun5 han6 fon1` <sup>[兴化]</sup> 狭小巷道由于空气对流而产生的凉风。  
 1. 【[串楼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_leu.md#串楼)】`chun5 leu2` <sup>[泰县]</sup> 砌楼房。  
 1. 【[串忙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_man.md#串忙)】`chun5 man2` <sup>[兴化]</sup> 帮忙。见“撮忙”。  
+1. 【[串子绳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_zz_shen.md#串子绳)】`chun5 zz shen2` <sup>[泰兴]</sup> 很细的草绳。  
 1. 【[串子绳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_zz_shen_r.md#串子绳<sub>儿</sub>)】`chun5 zz shen2 r` <sup>[如皋]</sup> 用茅草搓的绳，旧时用以串铜钱，故名。以后用来作小商品包扎。  
 1. 【[川头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_teu.md#川头)】`chun5 teu` <sup>[泰县]</sup> ① 故事结构：这出戏～不丑。 ② 转借。  
 1. 【[𤶱痰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_taen.md#𤶱痰)】`chun5 taen2` <sup>[如皋]</sup> 一种恶疮。全身多处化脓溃烂，此处刚收口，彼处又烂开。俗说头顶上害疮，脚底下流浓，即指此症。  

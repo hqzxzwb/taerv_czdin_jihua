@@ -97,26 +97,34 @@
 1. 【[让他遇别人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ran_ta_y_pih_ren.md#让他遇别人)】`ran6 ta1 y6 pih8 ren` <sup>[如皋]</sup> 冷眼相看。  
 1. 【[让疼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ran_ten.md#让疼)】`ran6 ten2` <sup>[如皋]</sup> ① 因疼而下意识地让动或取保护性姿势，动作。 ② 喻忍辱屈服。  
 1. 【[入大糊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_da_hv.md#入大糊)】`reh8 da6 hv6` <sup>[如东]</sup> ① 马马虎虎，糊糊涂涂：不要～ ② 比喻办事糊涂的人：他是个～。  
+1. 【[入耳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_er.md#入耳)】`reh8 er3` <sup>[泰兴]</sup> 悦耳，中听：他的箇些话，我是越听越不～。  
 1. 【[入伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_foh.md#入伏)】`reh8 foh8` <sup>[东台]</sup> 进入伏天（暑热夏天）。  
 1. 【[入骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_gueh.md#入骨)】`reh8 gueh7` <sup>[如东]</sup> 深入骨头内部：～三分。  
 1. 【[入骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_gueh.md#入骨)】`reh8 gueh7` <sup>[兴化]</sup> 渗入内里：烧肉要和作料一起煸，不然不得～。  
-1. 【[入伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_hu.md#入伙)】`reh8 hu3` <sup>[东台]</sup> 加入某个集体或集团。  
+1. 【[入骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_gueh.md#入骨)】`reh8 gueh7` <sup>[泰兴]</sup> 形容达到极点：箇几句话真入骨，把关键问题总讲吖透彻咖。  
+1. 【[入瞎眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_haeh_ngaen.md#入瞎眼)】`reh8 haeh7 ngaen3` <sup>[泰兴]</sup> 詈词。骂人瞎了眼睛。  
+1. 【[入伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_hu.md#入伙)】`reh8 hu3` <sup>\[东台\]\[泰兴\]</sup>加入某个集体或集团。\[泰兴：又指加入集体伙食\]  
+1. 【[入火屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_hu_pi_gu.md#入火屁股)】`reh8 hu3 pi5 gu` <sup>[泰兴]</sup> 着急；特别慌忙，来不得半点迟缓。  
+1. 【[入乎其神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_hv_qi_shen.md#入乎其神)】`reh8 hv qi2 shen2` <sup>[泰兴]</sup> 同“入神”。  
 1. 【[入胡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_hv_r.md#入胡<sub>儿</sub>)】`reh8 hv2 r` <sup>[如皋]</sup> 敷衍应付：他做事～，你要看住他做。  
 1. 【[入己](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_ji.md#入己)】`reh8 ji3` <sup>[兴化]</sup> 使自己得到好处：可见欺诈之财，没有得与你～受用的。（《二刻》十六）｜谚曰：害人不～，～不害人。  
 1. 【[入己](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_ji.md#入己)】`reh8 ji3` <sup>[泰兴]</sup> 谓把财物据为己有  
 1. 【[入脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_jiah.md#入脚)】`reh8 jiah7` <sup>[兴化]</sup> 入手、进入：他以借东西～，渐渐和她勾搭上吖。  
+1. 【[入溜子跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_lieu_zz_qio.md#入溜子跷)】`reh8 lieu zz qio1` <sup>[泰兴]</sup> 故意作梗，唱反调：他箇个人～，跟哪个总佮不好。  
 1. 【[入妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_ma.md#入妈)】`reh8 ma` 无实际含义，多为口头禅，多含贬义。相当于普通话的“他妈的”之类。  
 1. 【[入马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_ma.md#入马)】`reh8 ma3` <sup>[兴化]</sup> ① 男女勾搭成奸：（那妇人）将那时放帘子因打着西门庆起，并做衣裳～通好，一一地说。（《水浒传》二六） ② 性交。  
-1. 【[入梅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_mei.md#入梅)】`reh8 mei2` <sup>[如东]</sup> 进入黄梅季。  
-1. 【[入梅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_mei.md#入梅)】`reh8 mei2` <sup>[东台]</sup> 进入梅雨季节。  
+1. 【[入梅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_mei.md#入梅)】`reh8 mei2` 进入梅雨季节。  
+1. 【[入泊头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_pah_teu.md#入泊头)】`reh8 pah7 teu2` <sup>[泰兴]</sup> 骂人。  
 1. 【[入碰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_pon.md#入碰)】`reh8 pon5` <sup>[如东]</sup> 闲谈。  
 1. 【[入且](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_qia.md#入且)】`reh8 qia` 无实际含义，多为口头禅，多含贬义。相当于普通话的“哇噻，他妈的”之类。  
 1. 【[入席](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_qieh.md#入席)】`reh8 qieh8` <sup>[如东]</sup> 开始坐酒席。  
 1. 【[入声](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_shen.md#入声)】`reh8 shen1` <sup>[东台]</sup> 古代汉字声调之一。因发音短促，故又叫促声。现代普通话里没有入声，而绝大多数方言有入声。掌握入声字对阅读和创作古诗词，研究方言和地方戏都有重要意义。  
 1. 【[入声字](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_shen_cz.md#入声字)】`reh8 shen1 cz6` <sup>[东台]</sup> 声调为入声的字，分阴入和阳入。  
 1. 【[入神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_shen.md#入神)】`reh8 shen2` 注意  
+1. 【[入神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_shen.md#入神)】`reh8 shen2` <sup>[泰兴]</sup> ① 神气、风光 ② 作赞美之词，犹值得神气：文章写得～｜箇幢房子～ ③ （有时作“入乎其神”）  
 1. 【[入头冒鬼的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_teu_mo_guei_dii.md#入头冒鬼的)】`reh8 teu2 mo6 guei3 dii` <sup>[如皋]</sup> ① 行踪不定，难以预料：他一刻在这许，一刻儿在那许，～，不晓得到底在哪许。 ② 说话怪谲，前后不联贯：他传出来的消息～，叫人捉摸不定。  
 1. 【[入头辱脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_teu_roh_lin.md#入头辱脸)】`reh8 teu2 roh8 lin3` <sup>[泰兴]</sup> 谓人当众受到羞辱。  
+1. 【[入天泊地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_tin_pah_ti.md#入天泊地)】`reh8 tin1 pah7 ti6` <sup>[泰兴]</sup> 谓怒极开口乱骂人，语言俗不入耳。  
 1. 【[入账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_zhan.md#入账)】`reh8 zhan5` <sup>[如东]</sup> 记入账目。收入：今朝～多少？  
 1. 【[入捘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_zuen.md#入捘)】`reh8 zuen5` <sup>[如东]</sup> 没有用：要它～。也说“入逊”reh8 suen5。  
 1. 【[肏大浮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_da_fv.md#肏大浮)】`reh8 da6 fv2` <sup>[东台]</sup> 指责某些人作风漂浮。  
@@ -130,9 +138,7 @@
 1. 【[肏鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_guei.md#肏鬼)】`reh8 guei3` <sup>[兴化]</sup> 奇怪、令人诧异：～唻，不曾有人进家，东西怎吖少的？  
 1. 【[肏鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_guei.md#肏鬼)】`reh8 guei3` <sup>[东台]</sup> ① 也说“肏咖鬼子”。 ② 感到很奇怪的口头语。 ③ 暗中搞鬼、作弊。  
 1. 【[肏鬼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_guei_r.md#肏鬼<sub>儿</sub>)】`reh8 guei3 r` <sup>[泰县]</sup> 蹊跷。  
-1. 【[肏滚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_guen.md#肏滚)】`reh8 guen3` <sup>[如东]</sup> 强行要求离开：请你～。  
-1. 【[肏滚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_guen.md#肏滚)】`reh8 guen3` <sup>[如皋]</sup> 粗鄙话。滚开：你同我早啊点儿～，也省得你蹾吖家里作操！  
-1. 【[肏滚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_guen.md#肏滚)】`reh8 guen3` <sup>[东台]</sup> 驱逐滚蛋的意思。  
+1. 【[肏滚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_guen.md#肏滚)】`reh8 guen3` <sup>\[如皋\]\[如东\]\[泰兴\]\[东台\]</sup>粗鄙话。滚开：你同我早啊点儿～，也省得你蹾吖家里作操！<sup>\[如皋\]</sup>｜请你～。<sup>\[如东\]</sup>  
 1. 【[肏决](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_jiuh.md#肏决)】`reh8 jiuh7` <sup>[泰县]</sup> 讽刺挖苦。  
 1. 【[肏捲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_jiun.md#肏捲)】`reh8 jiun` <sup>[东台]</sup> 谩骂、嘲讽、羞辱。也作“辱捲”。（肏，会意字，本指性交，引申为羞辱。见“捲”）  
 1. 【[肏句](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_jy.md#肏句)】`reh8 jy` <sup>[如皋]</sup> 用反话挖苦、讽刺对方。见“辱句”。  
@@ -154,12 +160,11 @@
 1. 【[肏笡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_qia.md#肏笡)】`reh8 qia` <sup>[如东]</sup> 比喻没有用。多做叹词：不要～吧。  
 1. 【[肏请](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_qien.md#肏请)】`reh8 qien3` <sup>[如皋]</sup> 粗鄙的话语。表示算了：你不卖～！别人家不是没得卖！  
 1. 【[肏请](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_qien.md#肏请)】`reh8 qien3` <sup>[东台]</sup> 同“肏走”。  
+1. 【[肏请](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_qien.md#肏请)】`reh8 qien3` <sup>[泰兴]</sup> 滚蛋。骂人语：你同我～吧！/你给我滚吧！  
 1. 【[肏甚的娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_shen_nii_nian.md#肏甚的娘)】`reh8 shen2 nii nian2` <sup>[如皋]</sup> 叹息语，表示做了不愿、无价值、无必要的事：我帮吖他，他反而恨我，我这是～！  
 1. 【[肏㞞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_son.md#肏㞞)】`reh8 son2` <sup>[如皋]</sup>   
 1. 【[肏㞞香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_son_xian.md#肏㞞香)】`reh8 son2 xian1` <sup>[如东]</sup> 作用不大：这种料子要它～。  
-1. 【[肏搨油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_taeh_ieu.md#肏搨油)】`reh8 taeh7 ieu2` <sup>[东台]</sup> ① 指工作马虎了事。 ② 不值一提的意思。  
-1. 【[肏搨油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_taeh_ieu.md#肏搨油)】`reh8 taeh7 ieu2` <sup>[兴化]</sup> 糊弄、敷衍：甚的考核、检查，全是～。  
-1. 【[肏搨油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_taeh_ieu.md#肏搨油)】`reh8 taeh7 ieu2` <sup>[泰县]</sup> 马虎了事。  
+1. 【[肏搨油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_taeh_ieu.md#肏搨油)】`reh8 taeh7 ieu2` ① 马虎了事，糊弄敷衍：甚的考核、检查，全是～。 ② 不值一提的意思。 ③ 差劲。一塌糊涂。  
 1. 【[肏天的光棍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_tin_dii_guan_guen.md#肏天的光棍)】`reh8 tin1 dii guan1 guen5` <sup>[东台]</sup> 讽喻胆大没魂的人。  
 1. 【[肏天薄地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_tin_pah_ti.md#肏天薄地)】`reh8 tin1 pah8 ti6` <sup>[泰县]</sup> 狠狠地不分场合、不留情面：张三捱李四～的骂啊半天。  
 1. 【[肏走](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_zeu.md#肏走)】`reh8 zeu3` <sup>[东台]</sup> （詈语）拉倒，不要再磨蹭：他再不听，干脆来点硬的～。  

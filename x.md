@@ -374,7 +374,7 @@
 1. 【[下裆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_dan.md#下裆)】`xia6 dan1` <sup>[如皋]</sup> 裤腿相夹处。见“胯塴”。  
 1. 【[下裆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_dan.md#下裆)】`xia6 dan1` <sup>[如皋]</sup> 胯下。  
 1. 【[下得去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_deh_qy.md#下得去)】`xia6 deh qy5` <sup>[兴化]</sup> 能够摆脱窘境：“……我索性一不做，二不休，闹他一场，看晋芳怎样～”（《广陵潮》九三）｜和“下不去”对举，表两种可能情况｜他不问你～，下不去，想到就说。  
-1. 【[下朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_to.md#下朝)】`xia6 do` <sup>[如皋]</sup> 见“下二回”，如皋南乡话。  
+1. 【[下朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_do.md#下朝)】`xia6 do` <sup>[如皋]</sup> 见“下二回”，如皋南乡话。  
 1. 【[下簖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_dun.md#下簖)】`xia6 dun5` <sup>[如东]</sup> 在河道的某一段按下簖网。  
 1. 【[下二回](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_er_huei.md#下二回)】`xia6 er6 huei` ① 下次 ② 以后（再也不）：～再也不吃烟吖。/以后再也不抽烟了。  
 1. 【[下二回](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_er_huei.md#下二回)】`xia6 er6 huei2` <sup>[如皋]</sup> 下次，以后。  

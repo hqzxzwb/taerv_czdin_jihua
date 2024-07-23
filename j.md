@@ -126,8 +126,9 @@
 1. 【[𨳻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#𨳻)】`ji1` ① 门臼。 ② 拧着转  
 1. 【[几](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#几)】`ji3` <sup>[如皋]</sup> 条几、香几等的通称。  
 1. 【[几下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ha.md#几下)】`ji3 ha6` <sup>[东台]</sup> 几个地方。“下”相当于量词“处”。  
-1. 【[几时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_shr.md#几时)】`ji3 shr2` 什么时候  
-1. 【[几时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_shr.md#几时)】`ji3 shr2` <sup>[东台]</sup> 哪一天。  
+1. 【[几钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_qin.md#几钱)】`ji3 qin2` <sup>[泰兴]</sup> “几个钱”的省称，即“多少钱”：西瓜几钱斤？/西瓜多少钱一斤？  
+1. 【[几□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_shr.md#几□)】`ji3 shr1` <sup>\[东台\]\[泰兴\]\[海安\]</sup>哪一天：今朝～？/今天是什么日子？<sup>\[海安\]</sup>  
+1. 【[几时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_shr.md#几时)】`ji3 shr2` <sup>\[泰兴\]</sup>什么时候：大姑娘～好日？<sup>\[泰兴\]</sup>  
 1. 【[几代人裔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_tae_ren_i.md#几代人裔)】`ji3 tae6 ren2 i6` <sup>[如皋]</sup> 一个家族的几代人。  
 1. 【[几天头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_tin_teu.md#几天头)】`ji3 tin1 teu2` <sup>[如东]</sup> 十天之内：来回不过～。  
 1. 【[几天头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_tin_teu.md#几天头)】`ji3 tin1 teu2` <sup>[如皋]</sup> 只须×天：做完这件事只要～！  

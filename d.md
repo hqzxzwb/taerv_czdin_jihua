@@ -1832,6 +1832,7 @@
 1. 【[啲啲咑咑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/di_di_da_da.md#啲啲咑咑)】`di2 di2 da2 da2` <sup>[如皋]</sup> 象声词。形容音尖快、嘹亮。  
 1. 【[底财<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/di_cae_r.md#底财<sub>儿</sub>)】`di3 cae2 r` <sup>[东台]</sup> 私房钱。也作“己财儿”。  
 1. 【[底朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/di_do.md#底朝)】`di3 do` <sup>[如皋]</sup> 下一回。  
+1. 【[底二回](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/di_er_huei.md#底二回)】`di3 er huei2` <sup>[泰兴]</sup> 下一回，下一次：箇桩事～再说罢。  
 1. 【[底家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/di_ga.md#底家)】`di3 ga1` <sup>[如东]</sup> 玩耷子和，三人打牌，第三个人称底家。也称三家。  
 1. 【[底箍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/di_gv.md#底箍)】`di3 gv1` <sup>[如东]</sup> 木桶下部的圆箍，竹或铁、铜条制成，起收紧作用。  
 1. 【[底下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/di_ha.md#底下)】`di3 ha` <sup>[兴化]</sup> ① 下级、基层：这些问题全是～处理的。｜市长在～开现场会。 ② 迷信所指的阴间：在上头弄不过你，到～去总要告你的阴状。  
@@ -2251,6 +2252,7 @@
 1. 【[䂏尾<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_vei_r.md#䂏尾<sub>儿</sub>)】`dio1 vei3 r` <sup>[如皋]</sup> ① 短尾巴或没有尾巴 ② 比喻人绝后代。  
 1. 【[刁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio.md#刁)】`dio1` <sup>[如皋]</sup> 形容生活的标准高妙：吃得～、穿得～、吃～肴。  
 1. 【[刁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio.md#刁)】`dio1` <sup>[兴化]</sup> 形容人诡诈、爱占便宜：这个人～，吃亏的事不做。  
+1. 【[刁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio.md#刁)】`dio1` <sup>[泰兴]</sup> ① 要求苛刻：嘴～/挑食 ② 狡诈；阴险；鬼点子多。乡人有“刁啊刁，串子绳束裤腰”之熟语，谓刁狡者反而过很苦的日子。  
 1. 【[刁笔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_bieh.md#刁笔)】`dio1 bieh7` <sup>[东台]</sup> 指旧时包揽讼事的讼棍。也称“破靴”。  
 1. 【[刁边耷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_bin_dah.md#刁边耷)】`dio1 bin1 dah7` <sup>[泰县]</sup> 说话不清：这人是～。  
 1. 【[刁菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_cae.md#刁菜)】`dio1 cae5` <sup>[如皋]</sup> 贪吃美味菜肴而不思吃饭的行为。  
@@ -2270,13 +2272,10 @@
 1. 【[刁钻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_zun.md#刁钻)】`dio1 zun1` <sup>[东台]</sup> 狡猾奸诈：～刻薄。  
 1. 【[刟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio.md#刟)】`dio1` <sup>[如皋]</sup> 牴：～人牛、用头顶～他的下巴。  
 1. 【[刟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio.md#刟)】`dio1` <sup>[兴化]</sup> 牛羊以角触人。《集韵·萧韵》丁聊切：“～，《广雅》断也”：～人牛。  
-1. 【[刟人牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_ren_ngeu.md#刟人牛)】`dio1 ren2 ngeu2` <sup>[如皋]</sup> ① 常以角牴人的牛。 ② 比喻常得罪人的人。  
-1. 【[刟人牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_ren_ngeu.md#刟人牛)】`dio1 ren2 ngeu2` <sup>[东台]</sup> 常用角叼人的牛。喻指好斗的、常找人麻烦的人。  
-1. 【[刟人牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_ren_ngeu.md#刟人牛)】`dio1 ren2 ngeu2` <sup>[泰县]</sup> ① 爱用角触人的牛。 ② 比喻很凶的人。  
+1. 【[刟人牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_ren_ngeu.md#刟人牛)】`dio1 ren2 ngeu2` <sup>\[如皋\]\[东台\]\[泰县\]\[泰兴\]</sup>常以角牴人的牛。也比喻好斗的、常找人麻烦的人：～，好活技。<sup>\[泰兴\]</sup>  
 1. 【[叼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio.md#叼)】`dio1` 说话口齿不清，口吃。  
 1. 【[叼屄耷咍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_bi_dah_hae.md#叼屄耷咍)】`dio1 bi1 dah7 hae1` <sup>[如东]</sup> 说话的声调矫揉造作，嗨嗨呀呀的：王秀秀跟人说话总是～的，听吖人心里不舒服。  
-1. 【[叼屄耷舌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_bi_dah_shih.md#叼屄耷舌)】`dio1 bi1 dah7 shih8` <sup>[如东]</sup> 说话不清楚，吱吱呀呀的：王长如说话～的，听不清楚。  
-1. 【[叼屄耷舌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_bi_dah_shih.md#叼屄耷舌)】`dio1 bi1 dah7 shih8` <sup>[东台]</sup> （詈语）大舌头，说话不清楚。  
+1. 【[叼屄耷舌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_bi_dah_shih.md#叼屄耷舌)】`dio1 bi1 dah7 shih8` ① <sup>\[东台\]\[如东\]\[泰兴\]</sup>（詈语）大舌头，说话不清楚：王长如说话～的，听不清楚。<sup>\[如东\]</sup> ② <sup>\[泰兴\]</sup>讽说话故意拿腔拿调  
 1. 【[叼屄耷舌的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_bi_dah_shih_dii.md#叼屄耷舌的)】`dio1 bi1 dah7 shih8 dii` <sup>[如皋]</sup> 贬指因舌过长而吐字不清。  
 1. 【[叼叼耷耷的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_dio_dah_dah_dii.md#叼叼耷耷的)】`dio1 dio1 dah7 dah7 dii` <sup>[如皋]</sup> 因娇惯而娇痴的样子，说话变叼。  
 1. 【[叼二沰二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_er_dah_er.md#叼二沰二)】`dio1 er6 dah7 er6` <sup>[兴化]</sup> 挑食，每餐吃很长时间：他吃零食一头劲，吃到茶饭就～的。  
@@ -2379,7 +2378,10 @@
 1. 【[刀鱼馄饨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_y_huen_den.md#刀鱼馄饨)】`do1 y2 huen2 den` <sup>[如皋]</sup> 刀鱼肉剁成泥，加作料调和成馅，包成馄饨。是如皋有名的高等食品。  
 1. 【[刀鱼圆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_y_iun.md#刀鱼圆)】`do1 y2 iun2` <sup>[如皋]</sup> 刀鱼做的鱼圆。  
 1. 【[刀鱼面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_y_min.md#刀鱼面)】`do1 y2 min6` <sup>[如皋]</sup> 刀鱼汤下的面。  
-1. 【[刀子嘴，豆腐心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_zz_jy_teu_fv_xien.md#刀子嘴，豆腐心)】`do1 zz jy3 teu6 fv xien1` <sup>[东台]</sup> 说话虽狠，但心软。  
+1. 【[刀斫斧砍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_zhah_fv_kun.md#刀斫斧砍)】`do1 zhah7 fv3 kun3` <sup>[泰兴]</sup> 喻迅速向前，十分勇猛：他做活技～的，一刻儿就妥啊。  
+1. 【[刀砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_zhun.md#刀砖)】`do1 zhun1` <sup>[泰兴]</sup> 磨刀剪用的优质砖石。  
+1. 【[刀子不磨要上锈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_zz_beh_mu.md#刀子不磨要上锈)】`do1 zz beh7 mu2 io5 shan6 xieu5` <sup>[泰兴]</sup> 勉励上进之语  
+1. 【[刀子嘴，豆腐心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_zz_jy_teu.md#刀子嘴，豆腐心)】`do1 zz jy3 teu6 fv xien1` <sup>\[东台\]\[泰兴\]</sup>说话狠却心软，语言尖利而心地善良。  
 1. 【[刀子鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_zz_y.md#刀子鱼)】`do1 zz y2` <sup>[兴化]</sup> 鲫鱼。不同于长江“刀鱼”。  
 1. 【[叨叨嘚嘚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_do_deh_deh.md#叨叨嘚嘚)】`do1 do1 deh7 deh7` <sup>[东台]</sup> 形容说话啰嗦、重三倒四。  
 1. 【[叨嗑穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_kuh_qion.md#叨嗑穷)】`do1 kuh7 qion2` <sup>[兴化]</sup> 成天絮絮叨叨的人：他是个～，一天到晚不晓得说甚的？  
