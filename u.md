@@ -299,7 +299,7 @@
 1. 【[暗桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_qio.md#暗桥)】`un5 qio2` <sup>[如皋]</sup> 桥面隐在水下的桥。  
 1. 【[暗闩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_shuaen_zz.md#暗闩子)】`un5 shuaen1 zz` <sup>[如皋]</sup> 旧式门闩上的止推销，可防从外拨开门。  
 1. 【[暗霜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_shuan.md#暗霜)】`un5 shuan1` <sup>[如皋]</sup> 夜生成，清晨即消的微霜。  
-1. 【[暗霜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_shuan.md#暗霜)】`un5 shuan1` <sup>[如东]</sup> 箱很小，霜晶不明显。  
+1. 【[暗霜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_shuan.md#暗霜)】`un5 shuan1` <sup>[如东]</sup> 霜很小，霜晶不明显。  
 1. 【[暗剃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_ti.md#暗剃)】`un5 ti5` <sup>[如东]</sup> 在双方都不明白的情况下被抵消了：这两张牌捱～掉啊。  
 1. 【[暗地里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_ti_lii.md#暗地里)】`un5 ti6 lii` <sup>[如东]</sup> 私下，背后。  
 1. 【[暗星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_xien.md#暗星)】`un5 xien1` 没有星星或者星光很暗的晚上  
