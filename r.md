@@ -174,7 +174,7 @@
 1. 【[人不能一浪打到头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_beh_nen_ieh_lan_da_do_teu.md#人不能一浪打到头)】`ren2 beh7 nen2 ieh7 lan6 da3 do5 teu2` <sup>[东台]</sup> （俗语）劝喻人要前思后想，不要固执己见，注意摆平方方面面的关系。  
 1. 【[人不知，狗来问](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_beh_zhr_geu_lae_ven.md#人不知，狗来问)】`ren2 beh7 zhr1 geu3 lae2 ven6` <sup>[东台]</sup> 讨厌地责怪对方多管闲事。  
 1. 【[人不知己过，牛不知力大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_beh_zhr_ji_gu_ngeu_beh_zhr_lieh_da.md#人不知己过，牛不知力大)】`ren2 beh7 zhr1 ji3 gu5 ngeu2 beh7 zhr1 lieh8 da6` <sup>[东台]</sup> 人难有自知之明。  
-1. 【[人比人，气煞人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_bi_ren_qi_shaeh_ren.md#人比人，气煞人)】`ren2 bi3 ren2 qi5 shaeh7 ren2` 意思是说人与人在各方面差距是客观存在的，永远不可能一致。事事攀比则徒增烦恼。  
+1. 【[人比人，气煞人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_bi_ren_qi.md#人比人，气煞人)】`ren2 bi3 ren2 qi5 shaeh7 ren2` <sup>\[东台\]\[泰兴\]</sup>意思是说人与人在各方面差距是客观存在的，永远不可能一致。事事攀比则徒增烦恼。  
 1. 【[人塴<sub>儿</sub>里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_bon_r_lii.md#人塴<sub>儿</sub>里)】`ren2 bon5 r lii` <sup>[如皋]</sup> 人群的间隙中。如皋词典写作“庰”。  
 1. 【[人在屋檐下，不得不低头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_cae_oh_in_xia_beh_deh_beh_di_teu.md#人在屋檐下，不得不低头)】`ren2 cae6 oh7 in2 xia6 beh7 deh7 beh7 di1 teu2` <sup>[东台]</sup> 人在逆境中要会委曲求全。  
 1. 【[人在人情在](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_cae_ren_qien_cae.md#人在人情在)】`ren2 cae6 ren2 qien2 cae6` <sup>[兴化]</sup> ① 指人一旦离职，势利者态度即转冷淡：老县长一下台，那些天天上门的人一个也不来啊，真的是～。 ② 指人在场与不在场两个样：～，当吖你做官的叔子个个恭维你，你叔子一跑哪个还买你的账。  
