@@ -129,7 +129,7 @@
 1. 【[起秧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_ian.md#起秧)】`qi3 ian1` <sup>[东台]</sup> 把秧苗拔起来扎成小捆，准备到大田移栽：现在栽秧机械化，不要再跧腰～、插秧吖。  
 1. 【[起引](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_ien.md#起引)】`qi3 ien3` <sup>[如皋]</sup> 起因。  
 1. 【[起幺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_io_r.md#起幺<sub>儿</sub>)】`qi3 io1 r` <sup>[如皋]</sup> 形成了绞丝状：冷𩚫～，丝线～。  
-1. 【[起家兵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_jia_bien.md#起家兵)】`qi3 jia1 bien1` <sup>[兴化]</sup> 已嫁女子带娘家人到婆家同事：她跟男人吵架，到娘家～，把男家打得一塌糊涂。  
+1. 【[起家兵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_jia_bien.md#起家兵)】`qi3 jia1 bien1` <sup>[兴化]</sup> 已嫁女子带娘家人到婆家闹事：她跟男人吵架，到娘家～，把男家打得一塌糊涂。  
 1. 【[起急](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_jieh.md#起急)】`qi3 jieh7` <sup>[兴化]</sup> 发急：他既好赌，输啊钱又～。也说“起急犟”。  
 1. 【[起肩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_jin.md#起肩)】`qi3 jin1` <sup>[如皋]</sup> 以肩挑（抬）起，与“歇肩”相对。  
 1. 【[起肩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_jin.md#起肩)】`qi3 jin1` <sup>[兴化]</sup> 拾重物时扛棒上肩，二人或数人同时起立行走：闲人一哄而散，歪子奘子轿子……（《皮五辣子》一）  
