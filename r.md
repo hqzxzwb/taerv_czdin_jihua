@@ -164,7 +164,7 @@
 1. 【[肏甚的娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_shen_nii_nian.md#肏甚的娘)】`reh8 shen2 nii nian2` <sup>[如皋]</sup> 叹息语，表示做了不愿、无价值、无必要的事：我帮吖他，他反而恨我，我这是～！  
 1. 【[肏㞞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_son.md#肏㞞)】`reh8 son2` <sup>[如皋]</sup>   
 1. 【[肏㞞香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_son_xian.md#肏㞞香)】`reh8 son2 xian1` <sup>[如东]</sup> 作用不大：这种料子要它～。  
-1. 【[肏搨油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_taeh_ieu.md#肏搨油)】`reh8 taeh7 ieu2` ① 马虎了事，糊弄敷衍：甚的考核、检查，全是～。 ② 不值一提的意思。 ③ 差劲。一塌糊涂。  
+1. 【[肏搨油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_taeh_ieu.md#肏搨油)】`reh8 taeh7 ieu2` ① <sup>\[东台\]\[兴化\]\[泰县\]</sup>马虎了事，糊弄敷衍：甚的考核、检查，全是～。<sup>\[兴化\]</sup> ② <sup>\[东台\]</sup>不值一提的意思。 ③ <sup>\[泰兴\]</sup>差劲。一塌糊涂。  
 1. 【[肏天的光棍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_tin_dii_guan_guen.md#肏天的光棍)】`reh8 tin1 dii guan1 guen5` <sup>[东台]</sup> 讽喻胆大没魂的人。  
 1. 【[肏天薄地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_tin_pah_ti.md#肏天薄地)】`reh8 tin1 pah8 ti6` <sup>[泰县]</sup> 狠狠地不分场合、不留情面：张三捱李四～的骂啊半天。  
 1. 【[肏走](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_zeu.md#肏走)】`reh8 zeu3` <sup>[东台]</sup> （詈语）拉倒，不要再磨蹭：他再不听，干脆来点硬的～。  
