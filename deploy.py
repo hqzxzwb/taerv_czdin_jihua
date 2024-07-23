@@ -181,6 +181,8 @@ def mix(word, py):
     while i < len(char_list):
         char = char_list[i]
         if re.match(r'[\w□]', char[0]):
+            if pi >= len(char_py_list):
+                break
             py = char_py_list[pi]
             pi += 1
             if py == 'r' and char == '儿':
