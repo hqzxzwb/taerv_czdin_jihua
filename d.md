@@ -2380,7 +2380,7 @@
 1. 【[刀鱼面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_y_min.md#刀鱼面)】`do1 y2 min6` <sup>[如皋]</sup> 刀鱼汤下的面。  
 1. 【[刀斫斧砍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_zhah_fv_kun.md#刀斫斧砍)】`do1 zhah7 fv3 kun3` <sup>[泰兴]</sup> 喻迅速向前，十分勇猛：他做活技～的，一刻儿就妥啊。  
 1. 【[刀砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_zhun.md#刀砖)】`do1 zhun1` <sup>[泰兴]</sup> 磨刀剪用的优质砖石。  
-1. 【[刀子不磨要上锈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_zz_beh_mu.md#刀子不磨要上锈)】`do1 zz beh7 mu2 io5 shan6 xieu5` <sup>[泰兴]</sup> 勉励上进之语  
+1. 【[刀子不磨要上锈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_zz_beh_mu.md#刀子不磨要上锈)】`do1 zz beh7 mu2 io5 shan6 xieu5` <sup>[泰兴]</sup> 勉励勤奋、不懈怠之语  
 1. 【[刀子嘴，豆腐心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_zz_jy_teu.md#刀子嘴，豆腐心)】`do1 zz jy3 teu6 fv xien1` <sup>\[东台\]\[泰兴\]</sup>说话狠却心软，语言尖利而心地善良。  
 1. 【[刀子鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_zz_y.md#刀子鱼)】`do1 zz y2` <sup>[兴化]</sup> 鲫鱼。不同于长江“刀鱼”。  
 1. 【[叨叨嘚嘚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_do_deh_deh.md#叨叨嘚嘚)】`do1 do1 deh7 deh7` <sup>[东台]</sup> 形容说话啰嗦、重三倒四。  
