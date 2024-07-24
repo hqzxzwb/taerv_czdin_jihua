@@ -2362,7 +2362,7 @@
 1. 【[用劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_jien.md#用劲)】`ion6 jien5` 用力，努力  
 1. 【[用钱掐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_qin_kaeh.md#用钱掐)】`ion6 qin2 kaeh7` <sup>[如皋]</sup> 花钱时不肯多支一分，使人觉得“小气”。  
 1. 【[用钱如舀水，寻钱如上山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_qin_rv_io_shuei_qien_qin_rv_shan_shaen.md#用钱如舀水，寻钱如上山)】`ion6 qin2 rv2 io3 shuei3 qien2 qin2 rv2 shan6 shaen1` <sup>[东台]</sup> 用钱容易挣钱难。  
-1. 【[用钱如敌水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_qin_rv_vaeh_shuei.md#用钱如敌水)】`ion6 qin2 rv2 vaeh8 shuei3` <sup>[如皋]</sup> 状用钱多而快。敌（vaeh8），倒。  
+1. 【[用钱如𢼤水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_qin_rv_vaeh_shuei.md#用钱如𢼤水)】`ion6 qin2 rv2 vaeh8 shuei3` <sup>[如皋]</sup> 状用钱多而快。𢼤（vaeh8），倒。  
 1. 【[用神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_shen.md#用神)】`ion6 shen2` <sup>[如皋]</sup> 凝神、费神。  
 1. 【[用神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_shen.md#用神)】`ion6 shen2` <sup>[兴化]</sup> 费力气、花功夫：他五上六上没得，专在“七”（吃）上～。  
 1. 【[用水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_shuei.md#用水)】`ion6 shuei3` <sup>[如皋]</sup> 见“洗屁股”。  

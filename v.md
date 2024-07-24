@@ -558,12 +558,6 @@
 1. 【[挖墙脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_qian_jiah.md#挖墙脚)】`vaeh7 qian2 jiah7` <sup>[如东]</sup> 挖墙基。比喻破坏别人的基业。  
 1. 【[挖艄篙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_sho_go.md#挖艄篙)】`vaeh7 sho1 go1` <sup>[泰县]</sup> 加后劲。  
 1. 【[挖祖坟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_zv_fen.md#挖祖坟)】`vaeh7 zv3 fen2` <sup>[如东]</sup> 把祖宗的棺材从坟墓中挖掘出来。表示对某人的深仇大恨。  
-1. 【[敌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh.md#敌)】`vaeh8` <sup>[如皋]</sup> 泼浇：～粪、～屎、～尿、～水。  
-1. 【[敌臭水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_cheu_shuei.md#敌臭水)】`vaeh8 cheu5 shuei3` <sup>[如皋]</sup> 背后说别人坏话。  
-1. 【[敌臭水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_cheu_shuei.md#敌臭水)】`vaeh8 cheu5 shuei3` <sup>[如皋]</sup> 背后说他人的坏话，坏人名誉。  
-1. 【[敌粪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_fen.md#敌粪)】`vaeh8 fen5` <sup>[如皋]</sup> 用料勺泼浇粪肥。  
-1. 【[敌水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_shuei.md#敌水)】`vaeh8 shuei3` ［敌水］将水倒尽  
-1. 【[敌水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_shuei.md#敌水)】`vaeh8 shuei3` <sup>[如东]</sup> 一种民俗。姑娘出嫁时，将姑娘洗脸的水泼在花轿前。水泼出去后，就收不回来了，表示出嫁后不要想家。  
 1. 【[滑滴滴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_dieh_dieh.md#滑滴滴)】`vaeh8 dieh7 dieh7` <sup>[东台]</sup> ① 指衣物平滑整洁。 ② ［喻］事情办得调适、圆满。又作滑滴滴、滑滑滴滴。  
 1. 【[滑滴滴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_dieh_dieh.md#滑滴滴)】`vaeh8 dieh7 dieh7` <sup>[泰县]</sup> 非常光滑：这桌面漆得～的。  
 1. 【[滑滴滴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_dieh_dieh_dii.md#滑滴滴的)】`vaeh8 dieh7 dieh7 dii` <sup>[如皋]</sup> ① 光滑：桌子面儿漆水好，～像镜子。 ② 整洁漂亮：他家伢儿站出来，身上总是收拾得～。  
@@ -576,6 +570,11 @@
 1. 【[袜套<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_to_r.md#袜套<sub>儿</sub>)】`vaeh8 to5 r` <sup>[如皋]</sup> 单层白布缝的穿在布袜外的套儿。1945年前常见。后偶见。  
 1. 【[袜套<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_to_r.md#袜套<sub>儿</sub>)】`vaeh8 to5 r` <sup>[如东]</sup> 用布缝制的袜子，称袜套儿。  
 1. 【[袜楦子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_xiun_zz.md#袜楦子)】`vaeh8 xiun5 zz` <sup>[如皋]</sup> 袜底、修补袜子所用的木衬架。  
+1. 【[𢼤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh.md#𢼤)】`vaeh8` <sup>[如皋]</sup> 泼浇：～粪、～屎、～尿、～水。  
+1. 【[𢼤臭水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_cheu_shuei.md#𢼤臭水)】`vaeh8 cheu5 shuei3` <sup>[如皋]</sup> 背后说他人的坏话，坏人名誉。  
+1. 【[𢼤粪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_fen.md#𢼤粪)】`vaeh8 fen5` <sup>[如皋]</sup> 用料勺泼浇粪肥。  
+1. 【[𢼤水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_shuei.md#𢼤水)】`vaeh8 shuei3` 将水倒尽  
+1. 【[𢼤水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_shuei.md#𢼤水)】`vaeh8 shuei3` <sup>[如东]</sup> 一种民俗。姑娘出嫁时，将姑娘洗脸的水泼在花轿前。水泼出去后，就收不回来了，表示出嫁后不要想家。  
 1. 【[弯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen.md#弯)】`vaen1` <sup>[如东]</sup> 弯曲。  
 1. 【[弯刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_do.md#弯刀)】`vaen1 do1` <sup>[如皋]</sup> 刀体比钩刀长而狭，无库，楔㲀于木柄槽中，多用于割稻。  
 1. 【[弯刀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_do_r.md#弯刀<sub>儿</sub>)】`vaen1 do1 r` <sup>[泰县]</sup> 镰刀。  
