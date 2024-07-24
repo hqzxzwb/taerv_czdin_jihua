@@ -93,6 +93,7 @@
 1. 【[三番五次](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_faen_v_cz.md#三番五次)】`saen1 faen1 v3 cz5` <sup>[兴化]</sup> 一次又一次的。  
 1. 【[三分钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_fen_qin.md#三分钱)】`saen1 fen qin2` <sup>[兴化]</sup> 指借贷时月息三分：汤瞎子放债，～的利，借一千块，每月利息三十块钱。  
 1. 【[三分帮人真帮人，七分帮人帮煞人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_fen_ban_ren_zhen_ban_ren_qieh_fen_ban_ren_ban_shaeh_ren.md#三分帮人真帮人，七分帮人帮煞人)】`saen1 fen1 ban1 ren2 zhen1 ban1 ren2 qieh7 fen1 ban1 ren2 ban1 shaeh7 ren2` <sup>[东台]</sup> 过分向某人倾斜帮助反而有害。  
+1. 【[三分像人，七分像鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_fen_qian_ren.md#三分像人，七分像鬼)】`saen1 fen1 qian6 ren2 qieh7 fen1 qian6 guei3` <sup>[泰兴]</sup> 骂人长相难看。  
 1. 【[三分吃药，七分调理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_fen_qieh_iah_qieh_fen_tio_li.md#三分吃药，七分调理)】`saen1 fen1 qieh7 iah8 qieh7 fen1 tio2 li3` <sup>[东台]</sup> 心理平衡比吃药更利于健康。  
 1. 【[三分三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_fen_saen.md#三分三)】`saen1 fen1 saen1` <sup>[如皋]</sup> 相当的把握：没得～，不吃这碗饭。  
 1. 【[三分三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_fen_saen.md#三分三)】`saen1 fen1 saen1` <sup>[如东]</sup> 比喻有相当的把握：没得～，不吃这碗饭。  
@@ -129,11 +130,13 @@
 1. 【[三黄鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_huan_ji.md#三黄鸡)】`saen1 huan2 ji1` <sup>[如东]</sup> 家鸡的一个品种。体型高大，羽嘴、脚均呈黄色。有“九斤黄”之称。  
 1. 【[三黄汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_huan_tan.md#三黄汤)】`saen1 huan2 tan1` <sup>[如皋]</sup> 古法用大黄、黄连、甘草煎汤，“洗三”前供新生婴儿服用。  
 1. 【[三合土](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_huh_tv.md#三合土)】`saen1 huh8 tv3` <sup>[东台]</sup> 石灰、水泥和沙子加水拌和后，经浇灌夯实而构成的建筑材料，用于打夯地基或修路。  
+1. 【[三合土](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_huh_tv.md#三合土)】`saen1 huh8 tv3` <sup>[泰兴]</sup> 民俗。人死后入殓时，铺入棺中的以土为主的混合材料。  
 1. 【[三合厢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_huh_xian.md#三合厢)】`saen1 huh8 xian1` <sup>[如皋]</sup> 三合院。  
 1. 【[三合厢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_huh_xian.md#三合厢)】`saen1 huh8 xian1` <sup>[如东]</sup> 房屋的一种结构形式，正房两侧配有厢房。  
 1. 【[三姨娘六舅母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_i_nian_loh_qieu_mu.md#三姨娘六舅母)】`saen1 i2 nian loh8 qieu6 mu` <sup>[兴化]</sup> 指亲戚中的女性：种他家田有个规矩，只要到个亲朋戚友，不管～，都要请他吃。（《施耐庵的传说·“药老鼠”饼》）  
-1. 【[三一三十一](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_ieh_saen_sheh_ieh.md#三一三十一)】`saen1 ieh7 saen1 sheh8 ieh7` <sup>[东台]</sup> 本为一句除法口诀，用来说明把可分割的财产或任务平均分配、分摊。  
+1. 【[三一三十一](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_ieh_saen_sheh_ieh.md#三一三十一)】`saen1 ieh7 saen1 sheh8 ieh7` <sup>\[东台\]\[泰兴\]</sup>珠算口诀。借指平均分为三份。也泛指平均分配：箇笔收入我佼～吧。<sup>\[泰兴\]</sup>  
 1. 【[三茔六葬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_ien_loh_zan.md#三茔六葬)】`saen1 ien2 loh8 zan5` <sup>[如东]</sup> 一种民俗。在一个坟园里，有三个坟茔，埋葬三对夫妇，六个人，称三茔六葬。  
+1. 【[三月三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_iuh_saen.md#三月三)】`saen1 iuh saen1` <sup>[泰兴]</sup> 指农历三月春暖花开、气候宜人的时节。乡人有“～，家雀儿野雀儿总生蛋”“三月的蛋，好当饭”、“～，上孤山”（谓春游）之谚。  
 1. 【[三月长长，四月黄黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_iuh_chan_chan_sz_iuh_huan_huan.md#三月长长，四月黄黄)】`saen1 iuh8 chan2 chan2 sz5 iuh8 huan2 huan2` <sup>[兴化]</sup> 三、四月间日天长，无所事事者百无聊赖：～，焦人子。｜～的，肚子老觉饿。  
 1. 【[三月的蒜苔——不嫩（论）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_iuh_dii_sun_tae_beh_nen.md#三月的蒜苔——不嫩（论）)】`saen1 iuh8 dii sun5 tae2 beh7 nen6 （len6）` <sup>[东台]</sup>   
 1. 【[三月黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_iuh_huan.md#三月黄)】`saen1 iuh8 huan2` <sup>[如皋]</sup> 一种早熟元麦，农历三月里成熟。  
@@ -148,7 +151,8 @@
 1. 【[三脚猫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_jiah_mo.md#三脚猫)】`saen1 jiah7 mo2` <sup>[兴化]</sup> 指技艺不精者：有病快上医院，不要听那些～的郎中瞎说。｜～的厨子把菜烧得咸一块淡一块的。明·郎瑛《七修类稿》：“俗以事不尽善者，谓之～。”  
 1. 【[三脚猫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_jiah_mo_r.md#三脚猫<sub>儿</sub>)】`saen1 jiah7 mo2 r` <sup>[如皋]</sup> 指人知识广而不专，都懂而又都不精。  
 1. 【[三脚猫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_jiah_mo_r.md#三脚猫<sub>儿</sub>)】`saen1 jiah7 mo2 r` <sup>[如东]</sup> 有些本领：这个人还有点～。指妇女作风不好。｜她有点～。  
-1. 【[三九](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_jieu.md#三九)】`saen1 jieu3` <sup>[东台]</sup> 冬至以后的第三个九天，是一年当中最冷的时候：（俗语）～心里吃寒冰，点点滴滴在心头。  
+1. 【[三井头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_jien_teu.md#三井头)】`saen1 jien3 teu2` <sup>[泰兴]</sup> （泰兴）县城中一古迹。为一口大井，有三个井口。《县志》载：“原井旁曾立有石碑一块，上刻‘古水井’三字，下刻《重修三井碑记》。”圮废多年，今已重修并立碑。  
+1. 【[三九](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_jieu.md#三九)】`saen1 jieu3` <sup>\[东台\]\[泰兴\]</sup>冬至以后的第三个九天，是一年当中最冷的时候：（俗语）～心里吃寒冰，点点滴滴在心头。<sup>\[东台\]</sup>｜～四九，相拢不出手。<sup>\[泰兴\]</sup>  
 1. 【[三九的萝卜——冻（动）吖心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_jieu_dii_lu_poh_don_nga_xien.md#三九的萝卜——冻（动）吖心)】`saen1 jieu3 dii lu2 poh don5 （ton6） nga xien1` <sup>[东台]</sup>   
 1. 【[三九天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_jieu_tin.md#三九天)】`saen1 jieu3 tin1` <sup>[如东]</sup> 从冬至起每九天为一“九”。第十九天至第二十七天为第三“九”，是一年中最冷的时期。  
 1. 【[三九天吃棒冰——凉到心里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_jieu_tin_qieh_pan_bien_lian_do_xien_lii.md#三九天吃棒冰——凉到心里)】`saen1 jieu3 tin1 qieh7 pan6 bien1 lian2 do5 xien1 lii` <sup>[东台]</sup>   
@@ -168,6 +172,7 @@
 1. 【[三里不角的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_lii_beh_gah_dii.md#三里不角的)】`saen1 lii beh7 gah7 dii` <sup>[如皋]</sup> 喻形状不规则。  
 1. 【[三里冒九的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_lii_mo_jieu_dii.md#三里冒九的)】`saen1 lii mo6 jieu3 dii` <sup>[如皋]</sup> 偶尔地、间或地。  
 1. 【[三老板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_lo_baen.md#三老板)】`saen1 lo3 baen3` <sup>[泰县]</sup> 排行老三。  
+1. 【[三六十八碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_loh_sheh_baeh.md#三六十八碗)】`saen1 loh8 sheh8 baeh7 un3` <sup>[泰兴]</sup> 昔时乡间待客，常以“六大碗”为主。媒人在婚庆期间常食三餐主席，故有“～，吃掉喽去埋堆子坎”之戏语。  
 1. 【[三六子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_loh_zz.md#三六子)】`saen1 loh8 zz` <sup>[兴化]</sup> 酒的隐语：晚上没事，弄瓶～喝喝。  
 1. 【[三六子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_loh_zz.md#三六子)】`saen1 loh8 zz` <sup>[泰县]</sup> 酒：今吖高兴喝二两～。  
 1. 【[三妈妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_ma_ma.md#三妈妈)】`saen1 ma1 ma1` <sup>[泰县]</sup> 不大方。  
@@ -175,6 +180,7 @@
 1. 【[三媒六证](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_mei_loh_zhen.md#三媒六证)】`saen1 mei2 loh8 zhen5` <sup>[东台]</sup> 旧时男女订婚，必须有媒人作证，而且媒人往往不止一个，所以叫“三媒六证”。《红楼梦》第六十八回：“你就愿意给，也要～，大家说明，成个体统才是。”  
 1. 【[三昧寺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_mei_cz.md#三昧寺)】`saen1 mei5 cz6` <sup>[东台]</sup> 又叫敕赐慈济寺，唐代建于台城寺街。1925年，该寺曾创办启慧佛学院，培训僧徒，真禅曾在此清修。  
 1. 【[三门橱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_men_chv.md#三门橱)】`saen1 men2 chv2` <sup>[如东]</sup> 衣橱的一种。体积较大，三扇门，内部有多层结构可以放置被服。  
+1. 【[三门橱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_men_chv.md#三门橱)】`saen1 men2 chv2` <sup>[泰兴]</sup> 硬木家具。因其三扇门而得名。  
 1. 【[三毛六滚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_mo_loh_guen.md#三毛六滚)】`saen1 mo2 loh8 guen3` <sup>[泰县]</sup> 狡猾得很：他的话～的，没得一句真话。  
 1. 【[三卯四道空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_mo_sz_to_kon.md#三卯四道空)】`saen1 mo3 sz5 to kon1` <sup>[兴化]</sup> 说慌成性：他成天～的，钱不能掸他的手。  
 1. 【[三冒六滚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_mo_loh_guen.md#三冒六滚)】`saen1 mo6 loh8 guen3` <sup>[东台]</sup> 也作“三沸六滚”，说话前后不一致，捉摸不定：这小伙说话～的，弄不清哪句是真的。  
@@ -196,6 +202,8 @@
 1. 【[三烹七炸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_pon_qieh_zha.md#三烹七炸)】`saen1 pon1 qieh7 zha5` <sup>[兴化]</sup> （借）用各种手段桐吓和欺诈：你覅～的，我没得短处在你手上。  
 1. 【[三朋四友](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_pon_sz_ieu.md#三朋四友)】`saen1 pon2 sz5 ieu3` <sup>[兴化]</sup> 各方面的朋友：他交了许多～，风流浪荡，不务正业。（汪曾棋：《晚饭花》）  
 1. 【[三步两搭桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_pv_laen_daeh_qio.md#三步两搭桥)】`saen1 pv6 laen3 daeh7 qio2` <sup>[如皋]</sup> 架在丁字形河口的纵横两座桥，如城的玉带桥和众善桥便是。  
+1. 【[三七](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_qieh.md#三七)】`saen1 qieh7` <sup>[泰兴]</sup> 人死后第21天。  
+1. 【[三七开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_qieh_kae.md#三七开)】`saen1 qieh7 kae1` <sup>[泰兴]</sup> 按十分之三与十分之七的比例加以分配。  
 1. 【[三七相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_qieh_xian.md#三七相)】`saen1 qieh7 xian5` <sup>[东台]</sup> ① 人的形象不佳。 ② 有点让人畏惧的形象。  
 1. 【[三秋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_qieu.md#三秋)】`saen1 qieu1` <sup>[如东]</sup> 农业生产方面的秋收、秋耕、秋种，称三秋：～大忙。  
 1. 【[三秋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_qieu.md#三秋)】`saen1 qieu1` <sup>[东台]</sup> 秋收、秋播和秋耕的统称。  
@@ -203,13 +211,15 @@
 1. 【[三缺一](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_qiuh_ieh.md#三缺一)】`saen1 qiuh7 ieh7` <sup>[东台]</sup> 四个人玩牌，已到三个，就差一个；伙家，现在～，就等你来上圆。  
 1. 【[三句话不离本行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_qy_hua_beh_li_ben_han.md#三句话不离本行)】`saen1 qy6 hua6 beh7 li2 ben3 han2` <sup>[如皋]</sup> 说话中，不自觉的流露出本行当的习惯语言。  
 1. 【[三人佮养的牛像刀，三人佮用条船动瓢刮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_ren_guh_ian_dii_ngeu_qian_do_saen_ren_guh_ion_tio_chun_ton_pio_guaeh.md#三人佮养的牛像刀，三人佮用条船动瓢刮)】`saen1 ren2 guh7 ian3 dii ngeu2 qian6 do1 saen1 ren2 guh7 ion6 tio2 chun2 ton6 pio2 guaeh7` <sup>[东台]</sup> 责任不明导致相互倚赖。  
-1. 【[三人两不齐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_ren_laen_beh_qi.md#三人两不齐)】`saen1 ren2 laen3 beh7 qi2` <sup>[如东]</sup> 人员不能按照规定时间到齐。比喻人心不一致：今朝集合的～，不像话。  
+1. 【[三人两不齐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_ren_laen_beh_qi.md#三人两不齐)】`saen1 ren2 laen3 beh7 qi2` <sup>\[如东\]\[泰兴\]</sup>人员不齐，缺席甚多\[如东：比喻人心不一致。\]：今朝集合的～，不像话。<sup>\[如东\]</sup>  
 1. 【[三日肩头四日脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_rih_jin_teu.md#三日肩头四日脚)】`saen1 rih jin1 teu sz5 rih jiah7` <sup>[东台]</sup> 刚开始干体力活肯定吃不消，需要几天的锻炼才能慢慢适应。一般说来，肩膀要练三天，腿脚要练四天。  
+1. 【[三三两两](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_saen_laen_laen.md#三三两两)】`saen1 saen laen3 laen` <sup>[泰兴]</sup> 三个两个聚集在一起。形容数目不多。  
 1. 【[三色堇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_seh_jien.md#三色堇)】`saen1 seh7 jien3` <sup>[如东]</sup> 堇菜科植物三色堇，一年或二年生草本。高约30厘米。茎直立。茎生叶卵状长圆形，锯齿圆钝。花两性，每花有蓝、白、黄三色。蒴果，三角形。庭园栽培，观赏。  
-1. 【[三十夜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheh_ia.md#三十夜)】`saen1 sheh ia6` <sup>[如皋]</sup> 除夕，腊月的最后一天，大月为三十，小月为二十九。  
+1. 【[三十夜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheh_ia.md#三十夜)】`saen1 sheh ia6` 农历年的最后一天，即除夕。大月为三十，小月为二十九，皆可称～。  
 1. 【[三十六行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheh_loh_han.md#三十六行)】`saen1 sheh loh8 han2` <sup>[兴化]</sup> （讽）指人从事的职业过多，但无专业：～，业多不养生。  
-1. 【[三十年河东三十年河西](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheh_nin_hu_don_saen_sheh_nin_hu_xi.md#三十年河东三十年河西)】`saen1 sheh nin2 hu2 don1 saen1 sheh nin2 hu2 xi1` <sup>[东台]</sup> 好的差的在一定条件下相互转化，变化很快。  
-1. 【[三十夜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheh_ia.md#三十夜)】`saen1 sheh8 ia6` <sup>[东台]</sup> 农历年的最后一天，即除夕。  
+1. 【[三十六行，行行出状元](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheh_loh_han.md#三十六行，行行出状元)】`saen1 sheh loh8 han2 han2 han2 chueh7 chuan6 iun` <sup>[泰兴]</sup> 泛指各行各业，都能表现自己的才华，成就惊人的事业。三十六行，亦称“七十二行”、“三百六十行”，其义同。  
+1. 【[三十年河东三十年河西](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheh_nin_hu.md#三十年河东三十年河西)】`saen1 sheh nin2 hu2 don1 saen1 sheh nin2 hu2 xi1` <sup>\[东台\]\[泰兴\]</sup>好的差的在一定条件下相互转化，变化很快。世道沧桑，盛衰不常。  
+1. 【[三十而立](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheh_er_lieh.md#三十而立)】`saen1 sheh8 er2 lieh8` <sup>[泰兴]</sup>   
 1. 【[三十夜的红货——买不到的急，卖不掉的也着急](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheh_ia_dii_hon_hu_mae_beh_do_dii_jieh_mae_beh_tio_dii_ia_zhah_jieh.md#三十夜的红货——买不到的急，卖不掉的也着急)】`saen1 sheh8 ia6 dii hon2 hu5 mae3 beh7 do5 dii jieh7 mae6 beh7 tio6 dii ia3 zhah7 jieh7` <sup>[东台]</sup>   
 1. 【[三十夜看皇历——没得日子啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheh_ia_kun.md#三十夜看皇历——没得日子啊)】`saen1 sheh8 ia6 kun5 huan2 lieh meh8 deh7 rih8 zz a` <sup>[东台]</sup>   
 1. 【[三十夜吃掉，初一寡寡的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheh_ia_qieh_tio_chv_ieh_gua_gua_dii.md#三十夜吃掉，初一寡寡的)】`saen1 sheh8 ia6 qieh7 tio chv1 ieh7 gua3 gua3 dii` <sup>[东台]</sup> 意同上句，教人过日子细水长流。  
@@ -232,8 +242,9 @@
 1. 【[三天不烧锅——省（沈）灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_tin_beh_sho_gu_shen_zo.md#三天不烧锅——省（沈）灶)】`saen1 tin1 beh7 sho1 gu1 shen3 zo5` <sup>[东台]</sup>   
 1. 【[三天不下海是个河夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_tin_beh_xia_hae_shr_gu_hu_fv.md#三天不下海是个河夫)】`saen1 tin1 beh7 xia6 hae3 shr6 gu hu2 fv1` <sup>[东台]</sup> 喻指情况不断变化，某人即使原来是某行行家里手，但有一段时间脱离该行实践就成为该行的外行。  
 1. 【[三天打鱼，两天晒网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_tin_da_y_laen_tin_shae_van.md#三天打鱼，两天晒网)】`saen1 tin1 da3 y2 laen3 tin1 shae5 van3` <sup>[东台]</sup> 喻指做事没有恒心，结果浪费光阴碌碌无为。  
-1. 【[三天两头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_tin_laen_teu.md#三天两头)】`saen1 tin1 laen3 teu2` <sup>[东台]</sup> 指隔一两天；经常：这人～的来寻你，有甚的事啊？  
+1. 【[三天两头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_tin_laen_teu.md#三天两头)】`saen1 tin1 laen3 teu2` <sup>\[东台\]\[泰兴\]</sup>指隔一两天；经常：这人～的来寻你，有甚的事啊？<sup>\[东台\]</sup>｜他～的到我箇块耍耍<sup>\[泰兴\]</sup>  
 1. 【[三天六](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_tin_loh.md#三天六)】`saen1 tin1 loh8` <sup>[泰县]</sup> 一天吃两顿的委婉语。  
+1. 【[三天没大小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_tin_meh_da.md#三天没大小)】`saen1 tin1 meh8 da6 xio3` <sup>[泰兴]</sup> 旧俗新婚三天内可以不分辈分，不拘礼节地闹新房，谓之“三天没大小”。  
 1. 【[三天冒九](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_tin_mo_jieu.md#三天冒九)】`saen1 tin1 mo6 jieu3` <sup>[东台]</sup> 隔三岔五的意思。  
 1. 【[三天冒九](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_tin_mo_jieu.md#三天冒九)】`saen1 tin1 mo6 jieu3` <sup>[兴化]</sup> 断断续续，不经常：他～的来转转，不正常在这块上班。‖也称“三头冒九”。  
 1. 【[三天冒九](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_tin_mo_jieu.md#三天冒九)】`saen1 tin1 mo6 jieu3` <sup>[泰县]</sup> 断断续续的，不正常：他～的来上个班。  
@@ -249,8 +260,7 @@
 1. 【[三文不值三文](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_ven_beh_cheh_saen_ven.md#三文不值三文)】`saen1 ven2 beh7 cheh8 saen1 ven2` <sup>[兴化]</sup> 指旧货、二手货掉价：旧电脑自己用用算吖，卖起来～的。  
 1. 【[三喜腊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_xi_laeh_zz.md#三喜腊子)】`saen1 xi3 laeh8 zz` <sup>[泰县]</sup> 灰喜鹊。  
 1. 【[三下河东](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_xia_hu_don.md#三下河东)】`saen1 xia hu2 don1` <sup>[泰县]</sup> 混合：把这些剩莱～的热下子。  
-1. 【[三下五除二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_xia_v_chv_er.md#三下五除二)】`saen1 xia6 v3 chv2 er6` <sup>[如皋]</sup> 源于珠算的口诀。状处事快而干脆、有决断。  
-1. 【[三下五除二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_xia_v_chv_er.md#三下五除二)】`saen1 xia6 v3 chv2 er6` <sup>[东台]</sup> 本为一句加法口诀，用来形容做事及动作敏捷利索。  
+1. 【[三下五除二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_xia_v_chv_er.md#三下五除二)】`saen1 xia6 v3 chv2 er6` <sup>\[如皋\]\[东台\]\[泰兴\]</sup>源于珠算的口诀。状处事快而干脆、有决断。或动作敏捷利索：小马一上任，～，就把问题解决掉啊。<sup>\[泰兴\]</sup>  
 1. 【[三夏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_xia.md#三夏)】`saen1 xia6` <sup>[如东]</sup> 农业生产方面的夏收、夏种、夏管，称三夏：要抓好～。  
 1. 【[三夏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_xia.md#三夏)】`saen1 xia6` <sup>[东台]</sup> 夏收、夏种和夏管的统称。  
 1. 【[三夏大忙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_xia_da_man.md#三夏大忙)】`saen1 xia6 da6 man2` <sup>[兴化]</sup> 即夏收、夏种、夏管，正是麦子收割上场，水稻栽插的农忙季节：正是～的时候，农民们都在和土地争抢光阴……（毕飞宇：《玉米》）  
