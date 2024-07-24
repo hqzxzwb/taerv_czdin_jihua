@@ -1714,6 +1714,7 @@
 1. 【[了不起](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_beh_qi.md#了不起)】`lio3 beh7 qi3` <sup>[如皋]</sup> 表瞧不起：我～你！  
 1. 【[了宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_bo.md#了宝)】`lio3 bo3` <sup>[如东]</sup> 挥霍浪费、不聚钱财的人。  
 1. 【[了得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_deh.md#了得)】`lio3 deh7` <sup>[如东]</sup> 能力强，本领大：这个人武功～。  
+1. 【[了结](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_jih.md#了结)】`lio3 jih` <sup>[泰兴]</sup> 结束，解决。  
 1. 【[了了莫莫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_lio_mah_mah.md#了了莫莫)】`lio3 lio3 mah8 mah8` <sup>[东台]</sup> 数量极少，寥寥无几。  
 1. 【[了了<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_lio_r.md#了了<sub>儿</sub>)】`lio3 lio3 r` <sup>[如皋]</sup> 排名在最后（扛榜）。  
 1. 【[了了<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_lio_r.md#了了<sub>儿</sub>)】`lio3 lio3 r` <sup>[如皋]</sup> 见“扛榜”。  
@@ -1721,8 +1722,7 @@
 1. 【[了败星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_pae_xien.md#了败星)】`lio3 pae6 xien1` <sup>[如东]</sup> 挥霍无度、不聚钱财的人。  
 1. 【[了薄小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_pah_xio.md#了薄小)】`lio3 pah8 xio3` <sup>[泰县]</sup> 最后一名。  
 1. 【[了期](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_qi.md#了期)】`lio3 qi1` <sup>[兴化]</sup> 事情完结的日子：“……我才说是这一案欠命的案定了，还有别的案子呢！我知道哪天是～……”（《老残游记》二·七）  
-1. 【[了手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_sheu.md#了手)】`lio3 sheu3` <sup>[东台]</sup> 办完；了结。  
-1. 【[了手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_sheu.md#了手)】`lio3 sheu3` <sup>[兴化]</sup> ① 事情办完：张家的活计还有三天～。 ② 了结：“……我又不是个丫头，把我关在家里，何日是个～……”（《红楼梦》四八）  
+1. 【[了手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_sheu.md#了手)】`lio3 sheu3` <sup>\[东台\]\[泰兴\]\[兴化\]</sup>办完；了结：如果不快刀斩乱麻，箇桩事没得～。<sup>\[泰兴\]</sup>｜张家的活计还有三天～。<sup>\[兴化\]</sup>｜“……我又不是个丫头，把我关在家里，何日是个～……”（《红楼梦》四八）<sup>\[兴化\]</sup>  
 1. 【[了首尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_sheu_vei.md#了首尾)】`lio3 sheu3 vei3` <sup>[东台]</sup> 指完成对子女的责任。  
 1. 【[了首尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_sheu_vei.md#了首尾)】`lio3 sheu3 vei3` <sup>[兴化]</sup> 给儿女办完婚事：我还有小儿子结婚一桩大事，就全部～啊。  
 1. 【[了首尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_sheu_vei.md#了首尾)】`lio3 sheu3 vei3` <sup>[泰县]</sup> 完成了培育子女的事。  

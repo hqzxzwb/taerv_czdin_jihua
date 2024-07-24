@@ -1877,7 +1877,8 @@
 1. 【[悠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu.md#悠)】`ieu5` <sup>[如皋]</sup> 稳住、控制：我把他～啊那许，不让他遛掉。  
 1. 【[悠住点<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_chv_din_r.md#悠住点<sub>儿</sub>)】`ieu5 chv din3 r` <sup>[如皋]</sup> 动作平稳、缓慢一点：抬担架的时候要～。“住”有时促化。  
 1. 【[又不的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_beh_dii.md#又不的)】`ieu6 beh7 dii` <sup>[东台]</sup> 表示赞同的口头禅，相当于“可不”，“怎么不是？”  
-1. 【[又要马<sub>儿</sub>好，又要马<sub>儿</sub>不吃草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_io_ma_r_ho_ieu_io_ma_r_beh_qieh_co.md#又要马<sub>儿</sub>好，又要马<sub>儿</sub>不吃草)】`ieu6 io5 ma3 r ho3 ieu6 io5 ma3 r beh7 qieh7 co3` <sup>[东台]</sup> 舍不得花成本却要大收益的片面性。  
+1. 【[又要马<sub>儿</sub>好，又要马<sub>儿</sub>不吃草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_io_ma_r.md#又要马<sub>儿</sub>好，又要马<sub>儿</sub>不吃草)】`ieu6 io5 ma3 r ho3 ieu6 io5 ma3 r beh7 qieh7 co3` <sup>\[东台\]\[泰兴\]</sup>舍不得花成本，却要大收益。  
+1. 【[又要骑马，又要插花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_io_qi_ma.md#又要骑马，又要插花)】`ieu6 io5 qi2 ma3 ieu6 io5 chaeh7 hua1` <sup>[泰兴]</sup> 骑马插花逛京城是旧时中了状元后荣耀的待遇，指锦上添花。乡间常用于提出过高的要求方面。  
 1. 【[又要吃肥又要吃甜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_io_qieh_fei_ieu_io_qieh_tin.md#又要吃肥又要吃甜)】`ieu6 io5 qieh7 fei2 ieu6 io5 qieh7 tin2` <sup>[东台]</sup> 喻指人的私心太重，什么好处都想得到。  
 1. 【[又要做婊子，又要竖牌坊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_io_zu_bio_zz_ieu_io_shv_pae_fan.md#又要做婊子，又要竖牌坊)】`ieu6 io5 zu5 bio3 zz ieu6 io5 shv6 pae2 fan` <sup>[东台]</sup> 讽刺做了坏事的人竟然也想要好名声。  
 1. 【[又要做婊子，又要竖牌坊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_io_zu_bio_zz_ieu_io_shv_pae_fan.md#又要做婊子，又要竖牌坊)】`ieu6 io5 zu5 bio3 zz ieu6 io5 shv6 pae2 fan1` <sup>[如皋]</sup> 既要得实惠又要捞名声。  

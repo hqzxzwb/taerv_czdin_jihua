@@ -2372,9 +2372,9 @@
 1. 【[刀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_r.md#刀<sub>儿</sub>)】`do1 r` 小刀  
 1. 【[刀头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_teu.md#刀头)】`do1 teu` <sup>[兴化]</sup> ① 向神还愿用的猪肉块。 ② （喻）答应的条件：这是允下来的～。  
 1. 【[刀头上翻跟头——玩命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_teu_shan_faen_gen_teu_vaen_mien.md#刀头上翻跟头——玩命)】`do1 teu2 shan faen1 gen1 teu vaen2 mien6` <sup>[东台]</sup>   
-1. 【[刀豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_teu.md#刀豆)】`do1 teu6` <sup>[如东]</sup> 豆科植物刀豆，一年生缠绕草质藤本。  
-1. 【[刀豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_teu.md#刀豆)】`do1 teu6` <sup>[兴化]</sup> 即菜豆。一年生草本植物，其嫩荚是家常蔬菜。也称“四季豆”。  
+1. 【[刀豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_teu.md#刀豆)】`do1 teu6` <sup>\[如东\]\[兴化\]\[泰兴\]</sup>刀豆。即四季豆。是豆科一年生草质藤本植物。其嫩荚是家常蔬菜。  
 1. 【[刀削面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_xiah_min.md#刀削面)】`do1 xiah7 min6` <sup>[如东]</sup> 小麦面粉经过反复揉压，面团柔软熟透，然后用刀削成薄片，飘入锅里煮熟，称刀削面。2000年，始有陕西商家至掘港经营。  
+1. 【[刀鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_y.md#刀鱼)】`do1 y` <sup>[泰兴]</sup> 一种刀尖状的鱼。味极鲜美，为“长江三鲜”之一。  
 1. 【[刀鱼馄饨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_y_huen_den.md#刀鱼馄饨)】`do1 y2 huen2 den` <sup>[如皋]</sup> 刀鱼肉剁成泥，加作料调和成馅，包成馄饨。是如皋有名的高等食品。  
 1. 【[刀鱼圆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_y_iun.md#刀鱼圆)】`do1 y2 iun2` <sup>[如皋]</sup> 刀鱼做的鱼圆。  
 1. 【[刀鱼面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_y_min.md#刀鱼面)】`do1 y2 min6` <sup>[如皋]</sup> 刀鱼汤下的面。  
