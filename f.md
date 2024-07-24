@@ -99,9 +99,7 @@
 1. 【[发䵑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_ren.md#发䵑)】`faeh7 ren6` <sup>[如皋]</sup> 吸了水汽，变软，不脆。  
 1. 【[发热](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_rih.md#发热)】`faeh7 rih8` <sup>[如东]</sup> 体温升高。  
 1. 【[发软](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_run.md#发软)】`faeh7 run3` <sup>[如东]</sup> ① 身体虚弱无力：他这几天～。 ② 比喻态度由强硬变得缓和。  
-1. 【[发痧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_sha.md#发痧)】`faeh7 sha1` <sup>[如东]</sup> 中暑。  
-1. 【[发痧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_sha.md#发痧)】`faeh7 sha1` <sup>[如皋]</sup> ① 中暑。 ② 急腹痛，背大肌痉挛。  
-1. 【[发痧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_sha.md#发痧)】`faeh7 sha1` <sup>[兴化]</sup> 中暑。  
+1. 【[发痧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_sha.md#发痧)】`faeh7 sha1` ① <sup>\[如东\]\[如皋\]\[兴化\]</sup>中暑。 ② <sup>\[如皋\]</sup>急腹痛，背大肌痉挛。  
 1. 【[发身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_shen.md#发身)】`faeh7 shen1` <sup>[如东]</sup> 男女到青春期，生殖器官发育成熟，身体其他部分也发生变化，逐渐成长为成年人的样子，这种生理变化叫做发身。  
 1. 【[发身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_shen.md#发身)】`faeh7 shen1` <sup>[东台]</sup> 身体开始发育为成人。  
 1. 【[发身头上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_shen_teu_shan.md#发身头上)】`faeh7 shen1 teu2 shan` <sup>[如东]</sup> 男女青年身体正在发育的时候。  
