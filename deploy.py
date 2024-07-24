@@ -54,6 +54,7 @@ FILTERED_OUT_IEN = {
     '挨': 'ngae2',
     '呆': 'ngae2',
     '什': 'shen2',
+    '敌': 'vaeh8',
     '浇': 'xio1',
 }
 
