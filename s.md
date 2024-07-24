@@ -207,10 +207,10 @@
 1. 【[三七相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_qieh_xian.md#三七相)】`saen1 qieh7 xian5` <sup>[东台]</sup> ① 人的形象不佳。 ② 有点让人畏惧的形象。  
 1. 【[三秋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_qieu.md#三秋)】`saen1 qieu1` <sup>[如东]</sup> 农业生产方面的秋收、秋耕、秋种，称三秋：～大忙。  
 1. 【[三秋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_qieu.md#三秋)】`saen1 qieu1` <sup>[东台]</sup> 秋收、秋播和秋耕的统称。  
-1. 【[三钱剃个头——太不像吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_qin_ti_gu_teu_tae_beh_qian_nga.md#三钱剃个头——太不像吖)】`saen1 qin2 ti5 gu teu2 tae5 beh7 qian6 nga` <sup>[东台]</sup>   
+1. 【[三钱剃个头——太不像吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_qin_ti_gu.md#三钱剃个头——太不像吖)】`saen1 qin2 ti5 gu teu2 tae5 beh7 qian6 nga` <sup>[东台]</sup>   
 1. 【[三缺一](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_qiuh_ieh.md#三缺一)】`saen1 qiuh7 ieh7` <sup>[东台]</sup> 四个人玩牌，已到三个，就差一个；伙家，现在～，就等你来上圆。  
-1. 【[三句话不离本行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_qy_hua_beh_li_ben_han.md#三句话不离本行)】`saen1 qy6 hua6 beh7 li2 ben3 han2` <sup>[如皋]</sup> 说话中，不自觉的流露出本行当的习惯语言。  
-1. 【[三人佮养的牛像刀，三人佮用条船动瓢刮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_ren_guh_ian_dii_ngeu_qian_do_saen_ren_guh_ion_tio_chun_ton_pio_guaeh.md#三人佮养的牛像刀，三人佮用条船动瓢刮)】`saen1 ren2 guh7 ian3 dii ngeu2 qian6 do1 saen1 ren2 guh7 ion6 tio2 chun2 ton6 pio2 guaeh7` <sup>[东台]</sup> 责任不明导致相互倚赖。  
+1. 【[三句话不离本行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_qy_hua_beh.md#三句话不离本行)】`saen1 qy6 hua6 beh7 li2 ben3 han2` <sup>[如皋]</sup> 说话中，不自觉的流露出本行当的习惯语言。  
+1. 【[三人佮养的牛像刀，三人佮用条船动瓢刮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_ren_guh_ian.md#三人佮养的牛像刀，三人佮用条船动瓢刮)】`saen1 ren2 guh7 ian3 dii ngeu2 qian6 do1 saen1 ren2 guh7 ion6 tio2 chun2 ton6 pio2 guaeh7` <sup>[东台]</sup> 责任不明导致相互倚赖。  
 1. 【[三人两不齐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_ren_laen_beh_qi.md#三人两不齐)】`saen1 ren2 laen3 beh7 qi2` <sup>\[如东\]\[泰兴\]</sup>人员不齐，缺席甚多\[如东：比喻人心不一致。\]：今朝集合的～，不像话。<sup>\[如东\]</sup>  
 1. 【[三日肩头四日脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_rih_jin_teu.md#三日肩头四日脚)】`saen1 rih jin1 teu sz5 rih jiah7` <sup>[东台]</sup> 刚开始干体力活肯定吃不消，需要几天的锻炼才能慢慢适应。一般说来，肩膀要练三天，腿脚要练四天。  
 1. 【[三三两两](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_saen_laen_laen.md#三三两两)】`saen1 saen laen3 laen` <sup>[泰兴]</sup> 三个两个聚集在一起。形容数目不多。  
@@ -220,7 +220,7 @@
 1. 【[三十六行，行行出状元](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheh_loh_han.md#三十六行，行行出状元)】`saen1 sheh loh8 han2 han2 han2 chueh7 chuan6 iun` <sup>[泰兴]</sup> 泛指各行各业，都能表现自己的才华，成就惊人的事业。三十六行，亦称“七十二行”、“三百六十行”，其义同。  
 1. 【[三十年河东三十年河西](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheh_nin_hu.md#三十年河东三十年河西)】`saen1 sheh nin2 hu2 don1 saen1 sheh nin2 hu2 xi1` <sup>\[东台\]\[泰兴\]</sup>好的差的在一定条件下相互转化，变化很快。世道沧桑，盛衰不常。  
 1. 【[三十而立](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheh_er_lieh.md#三十而立)】`saen1 sheh8 er2 lieh8` <sup>[泰兴]</sup>   
-1. 【[三十夜的红货——买不到的急，卖不掉的也着急](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheh_ia_dii_hon_hu_mae_beh_do_dii_jieh_mae_beh_tio_dii_ia_zhah_jieh.md#三十夜的红货——买不到的急，卖不掉的也着急)】`saen1 sheh8 ia6 dii hon2 hu5 mae3 beh7 do5 dii jieh7 mae6 beh7 tio6 dii ia3 zhah7 jieh7` <sup>[东台]</sup>   
+1. 【[三十夜的红货——买不到的急，卖不掉的也着急](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheh_ia_dii.md#三十夜的红货——买不到的急，卖不掉的也着急)】`saen1 sheh8 ia6 dii hon2 hu5 mae3 beh7 do5 dii jieh7 mae6 beh7 tio6 dii ia3 zhah7 jieh7` <sup>[东台]</sup>   
 1. 【[三十夜看皇历——没得日子啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheh_ia_kun.md#三十夜看皇历——没得日子啊)】`saen1 sheh8 ia6 kun5 huan2 lieh meh8 deh7 rih8 zz a` <sup>[东台]</sup>   
 1. 【[三十夜吃掉，初一寡寡的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheh_ia_qieh_tio_chv_ieh_gua_gua_dii.md#三十夜吃掉，初一寡寡的)】`saen1 sheh8 ia6 qieh7 tio chv1 ieh7 gua3 gua3 dii` <sup>[东台]</sup> 意同上句，教人过日子细水长流。  
 1. 【[三十里的酒店——远䁃䁃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheh_li_dii_jieu_din_iun_bio_bio.md#三十里的酒店——远䁃䁃)】`saen1 sheh8 li3 dii jieu3 din5 iun3 bio1 bio1` <sup>[东台]</sup>   
