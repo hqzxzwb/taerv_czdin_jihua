@@ -388,11 +388,12 @@
 1. 【[惹闲事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_haen_shr.md#惹闲事)】`ra3 haen2 shr6` <sup>[兴化]</sup> 找麻烦：“第三件，把前院截断……咱并不要这前院子～。”（《岐路灯》七六）  
 1. 【[惹祸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_hu.md#惹祸)】`ra3 hu6` <sup>[如皋]</sup> 生事引起麻烦、祸端。  
 1. 【[惹祸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_hu.md#惹祸)】`ra3 hu6` <sup>[如东]</sup> 因不小心引起麻烦或事故。  
-1. 【[惹祸精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_hu_jien.md#惹祸精)】`ra3 hu6 jien1` <sup>[如皋]</sup> 经常生事引起麻烦、祸端的人。  
-1. 【[惹祸精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_hu_jien.md#惹祸精)】`ra3 hu6 jien1` <sup>[东台]</sup> 容易引起祸事的人。  
+1. 【[惹祸精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_hu_jien.md#惹祸精)】`ra3 hu6 jien1` <sup>\[如皋\]\[东台\]</sup>经常引起麻烦、祸端的人。  
 1. 【[惹坏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_huae.md#惹坏)】`ra3 huae6` <sup>[如皋]</sup> 容易变坏：周围环境不好，～。  
 1. 【[惹胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_hv_zz.md#惹胡子)】`ra3 hv2 zz` <sup>[兴化]</sup> ① 形容人健忘。 ② 指人马马虎虎的：这个人～，同他说个事多记不得。  
 1. 【[惹厌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_in.md#惹厌)】`ra3 in5` <sup>[如皋]</sup> 贪玩。厌：玩。  
+1. 【[惹厌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_in.md#惹厌)】`ra3 in5` <sup>[如皋]</sup> 讨嫌。  
+1. 【[惹厌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_in.md#惹厌)】`ra3 in5` <sup>[泰县]</sup> 讨厌：小孩～。  
 [更多...](./r.md)
 ## S
 1. 【[……续咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_ga.md#……续咖)】`soh7 ga` <sup>[东台]</sup> 接在动词后面，表示持续进行：相～（看住｜看紧）｜说～跑～（边说边走）。  
