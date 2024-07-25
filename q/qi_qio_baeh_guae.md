@@ -5,7 +5,7 @@ qi2 qio3 baeh7 guae5
   - 今朝这件事～的，发人深省。
 
 # 攲跷八怪
-qi1 qio1 baeh7 guae5
+qi1 qio baeh7 guae5
 > 东台方言词典
 - 反常；特别；奇怪
   - 这吖热的天他还穿棉𧘸子，真是～的。
