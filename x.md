@@ -316,7 +316,6 @@
 1. 【[虾<sub>儿</sub>糟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_r_zo.md#虾<sub>儿</sub>糟)】`xia1 r zo1` <sup>[如东]</sup> 食品。以河虾或海虾为主，加酒糟、面粉以及调料混合烹制而成，其味鲜美，营养丰富，是特色佳肴。  
 1. 【[虾籽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_zz.md#虾籽)】`xia1 zz3` <sup>[如东]</sup> 虾的卵，干制后橙黄色，可做调味品，其味鲜香，营养丰富。  
 1. 【[虾籽面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_zz_min.md#虾籽面)】`xia1 zz3 min6` <sup>[如东]</sup> 面条煮熟后，加虾籽，汤清，味鲜。  
-1. 【[𢪎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xya.md#𢪎)】`xia1` <sup>[如东]</sup> ① 捋袖子露出手臂打人：～他一个耳光。 ② 偷藏：把钱望袋里只是～。  
 1. 【[□佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_lo_r.md#□佬<sub>儿</sub>)】`xia2 lo3 r` <sup>[如皋]</sup> 见识少且愚昧不化的人。  
 1. 【[暇意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_i.md#暇意)】`xia2 i5` <sup>[东台]</sup> 适意；舒服、惬意。  
 1. 【[暇呔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_tae.md#暇呔)】`xia2 tae3` <sup>[东台]</sup> 舒适、怡然自得的感觉。  
@@ -2139,6 +2138,7 @@
 1. 【[靴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xya_zz.md#靴子)】`xya1 zz` <sup>[如东]</sup> 高筒的鞋，称靴子。  
 1. 【[靴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xya_zz.md#靴子)】`xya1 zz` <sup>[东台]</sup> 高到踝骨以上的长筒鞋。  
 1. 【[𢪎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xya.md#𢪎)】`xya1` 打，殴打  
+1. 【[𢪎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xya.md#𢪎)】`xya1` <sup>[如东]</sup> ① 捋袖子露出手臂打人：～他一个耳光。 ② 偷藏：把钱望袋里只是～。  
 1. 【[𢪎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xya.md#𢪎)】`xya2` <sup>[如皋]</sup> ① 偷：他～啊一根金条。 ② 打：犯犟，～你。  
 1. 【[𢪎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xya.md#𢪎)】`xya2` <sup>[东台]</sup> （此处读阳平）悄悄地藏起来带走，近似于小偷小摸：一本书不见吖，不晓得捱哪个～啊走啊。  
 1. 【[𢪎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xya.md#𢪎)】`xya2` <sup>[兴化]</sup> 小偷小摸：那个笔记本电脑捱人～走啊。  
