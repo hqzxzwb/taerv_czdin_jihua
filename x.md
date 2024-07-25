@@ -317,7 +317,6 @@
 1. 【[虾籽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_zz.md#虾籽)】`xia1 zz3` <sup>[如东]</sup> 虾的卵，干制后橙黄色，可做调味品，其味鲜香，营养丰富。  
 1. 【[虾籽面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_zz_min.md#虾籽面)】`xia1 zz3 min6` <sup>[如东]</sup> 面条煮熟后，加虾籽，汤清，味鲜。  
 1. 【[𢪎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xya.md#𢪎)】`xia1` <sup>[如东]</sup> ① 捋袖子露出手臂打人：～他一个耳光。 ② 偷藏：把钱望袋里只是～。  
-1. 【[𢪎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia.md#𢪎)】`xia1` <sup>[如东]</sup> 捋袖子露出手臂打人：～他一个耳光。  
 1. 【[□佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_lo_r.md#□佬<sub>儿</sub>)】`xia2 lo3 r` <sup>[如皋]</sup> 见识少且愚昧不化的人。  
 1. 【[暇意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_i.md#暇意)】`xia2 i5` <sup>[东台]</sup> 适意；舒服、惬意。  
 1. 【[暇呔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_tae.md#暇呔)】`xia2 tae3` <sup>[东台]</sup> 舒适、怡然自得的感觉。  
