@@ -109,6 +109,7 @@
 1. 【[二寸半](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_cuen_bun.md#二寸半)】`er6 cuen5 bun5` <sup>[兴化]</sup> “～口子”的节缩语，即“嘴”：不管钱多钱少，先把～糊起来再说。  
 1. 【[二寸半](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_cuen_bun.md#二寸半)】`er6 cuen5 bun5` <sup>[泰县]</sup> 嘴。  
 1. 【[二寸半](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_cuen_bun.md#二寸半)】`er6 cuen5 bun5` <sup>[泰兴]</sup> 嘴的隐语，谓嘴长约二寸半：不好啊点做，箇个～朝哪块搁？  
+1. 【[二当六面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_dan_loh_min.md#二当六面)】`er6 dan1 loh8 min6` <sup>[泰兴]</sup> 见“三当六面”。  
 1. 【[二等车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_den_cha.md#二等车)】`er6 den3 cha1` 顺风车，顺路车；指坐在自行车后架上。  
 1. 【[二顿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_den_zz.md#二顿子)】`er6 den5 zz` <sup>[兴化]</sup> 正餐之外吃的一顿：下午四点不到，他俫停工吃～。  
 1. 【[二斗五](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_deu_v.md#二斗五)】`er6 deu v3` <sup>[兴化]</sup> 缩脚语：二斗五——升，“走人”的隐语：你再不好好做，就请你～！｜（张三辣子）心里有话，再吓你下子，让你～请升。（扬说《皮五辣子》）  
