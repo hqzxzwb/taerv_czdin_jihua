@@ -2150,14 +2150,14 @@
 1. 【[悉淡的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh_taen_dii.md#悉淡的)】`xyeh7 taen6 dii` <sup>[如皋]</sup> ① 无味：青菜不曾放盐，～。 ② 形容味道过淡。  
 1. 【[悉紫的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh_zz_dii.md#悉紫的)】`xyeh7 zz3 dii` <sup>[如皋]</sup> 状全是紫色：高锰酸钾沖的水～。  
 1. 【[戌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh.md#戌)】`xyeh7` <sup>[东台]</sup> 地支第十一位。  
+1. 【[訹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh.md#訹)】`xyeh7` <sup>[如东]</sup> 狡诈：他说不要，是～你的。  
+1. 【[訹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh.md#訹)】`xyeh7` <sup>[东台]</sup> 巧言诱骗：他的～功大呢，草总能说咖竖起来。  
+1. 【[訹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh.md#訹)】`xyeh7` <sup>[兴化]</sup> ① 怂恿：你不要～，再好玩的地方我也不想去。 ② 连激带骗：他左～右～的，到底把人家两幅字画弄到手啊。‖也说“魆𠵹”“魆功”。兴化词典作“噱”，反切不合。刘春龙小说《无意插柳》中有“王能玩起了噱功”句。  
+1. 【[訹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh.md#訹)】`xyeh7` <sup>[兴化]</sup> 可笑、令人发笑：他几句话把一屋的人～咖笑起来。兴化词典作“噱”，《说文·口部》噱，其虐切，大笑也。反切不合。  
+1. 【[訹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh.md#訹)】`xyeh7` <sup>[泰县]</sup> 用隐讳的语言来引逗别人说话、做事。  
 1. 【[雪白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh_poh.md#雪白)】`xyeh7 poh8` <sup>[泰县]</sup> 很白。  
 1. 【[雪白的猫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh_poh_dii_mo_r.md#雪白的猫<sub>儿</sub>)】`xyeh7 poh8 dii mo2 r` <sup>[如皋]</sup> 喻纯洁无瑕的人。多用于辩解时。  
 1. 【[魆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh.md#魆)】`xyeh7` <sup>[如皋]</sup> 行动诡谲：～来～去的；他把伢儿～咖出去耍子啊。  
-1. 【[魆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh.md#魆)】`xyeh7` <sup>[如东]</sup> 狡诈：他说不要，是～你的。  
-1. 【[魆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh.md#魆)】`xyeh7` <sup>[东台]</sup> 巧言诱骗：他的～功大呢，草总能说咖竖起来。  
-1. 【[魆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh.md#魆)】`xyeh7` <sup>[兴化]</sup> ① 怂恿：你不要～，再好玩的地方我也不想去。 ② 连激带骗：他左～右～的，到底把人家两幅字画弄到手啊。‖也说“魆𠵹”“魆功”。兴化词典作“噱”，反切不合。刘春龙小说《无意插柳》中有“王能玩起了噱功”句。  
-1. 【[魆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh.md#魆)】`xyeh7` <sup>[兴化]</sup> 可笑、令人发笑：他几句话把一屋的人～咖笑起来。兴化词典作“噱”，《说文·口部》噱，其虐切｜大笑也。反切不合。  
-1. 【[魆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh.md#魆)】`xyeh7` <sup>[泰县]</sup> 用隐讳的语言来引逗别人说话、做事。  
 1. 【[魆而不正](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh_er_beh_zhen.md#魆而不正)】`xyeh7 er beh7 zhen5` <sup>[如皋]</sup> 不正派、不正经，鬼头鬼脑的，不光明正大的样子。  
 1. 【[魆而不正](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh_er_beh_zhen.md#魆而不正)】`xyeh7 er beh7 zhen5` <sup>[泰县]</sup> 不走正道：这个人～的。  
 1. 【[魆气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh_qi.md#魆气)】`xyeh7 qi` <sup>[如皋]</sup> 褒指款式新颖：这套家俱～啷！  
