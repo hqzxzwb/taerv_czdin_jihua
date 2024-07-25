@@ -187,6 +187,7 @@
 1. 【[安逸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_ieh.md#安逸)】`un1 ieh` <sup>[如东]</sup> 安闲舒适。安排好了：忙吖这吖多天，现在总算～咖。  
 1. 【[安逸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_ieh.md#安逸)】`un1 ieh` <sup>[东台]</sup> 安稳，逸当，舒适。  
 1. 【[安逸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_ieh.md#安逸)】`un1 ieh` <sup>[兴化]</sup> 心安：你这吖客气，我反而不～。  
+1. 【[安逸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_ieh.md#安逸)】`un1-u1 ieh` <sup>[泰县]</sup> 舒适：现在日子蛮～的。  
 1. 【[安乐菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_lah_cae.md#安乐菜)】`un1 lah8 cae5` <sup>[泰县]</sup> 豌豆苗。  
 1. 【[安落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_lah.md#安落)】`un1 lah8` <sup>[如东]</sup> 安排妥当。安定下来  
 1. 【[安禄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_loh.md#安禄)】`un1 loh` <sup>[如东]</sup> 安心。  
