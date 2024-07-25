@@ -665,12 +665,7 @@
 1. 【[晚老子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_lo_zz.md#晚老子)】`vaen3 lo3 zz` <sup>[泰县]</sup> 继父：他家有个～。/银子是你～朱二官所借，却是为你用的，你也着得有花字。（二刻拍案惊奇·10）  
 1. 【[晚老子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_lo_zz.md#晚老子)】`vaen3 lo3 zz` <sup>[泰县]</sup> 继父。  
 1. 【[晚丫头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_nga_teu.md#晚丫头)】`vaen3 nga1 teu` <sup>[如皋]</sup> 再婚时，对方的女儿。  
-1. 【[晚娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_nian.md#晚娘)】`vaen3 nian2` 继母，后妈。  
-1. 【[晚娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_nian.md#晚娘)】`vaen3 nian2` <sup>[如皋]</sup> 继母，指称。面称可同“母”。  
-1. 【[晚娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_nian.md#晚娘)】`vaen3 nian2` <sup>[如东]</sup> 继母。  
-1. 【[晚娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_nian.md#晚娘)】`vaen3 nian2` <sup>[东台]</sup> 继母。  
-1. 【[晚娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_nian.md#晚娘)】`vaen3 nian2` <sup>[兴化]</sup> 继母。  
-1. 【[晚娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_nian.md#晚娘)】`vaen3 nian2` <sup>[泰县]</sup> 继母。  
+1. 【[晚娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_nian.md#晚娘)】`vaen3 nian2` <sup>\[如东\]\[东台\]\[兴化\]\[泰县\]\[如皋\]</sup>继母。\[如皋：指称。面称可同“母”。\]  
 1. 【[晚婆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_pu.md#晚婆)】`vaen3 pu2` <sup>[如东]</sup> 继母。  
 1. 【[晚盘上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_pun_shan.md#晚盘上)】`vaen3 pun2 shan` <sup>[兴化]</sup> 太阳落山至深夜以前的时间：大排档主要在～经营。  
 1. 【[晚吃萝卜早吃姜，不要医生开药方](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_qieh_lu_poh_zo_qieh_jian_beh_io_i_shen_kae_iah_fan.md#晚吃萝卜早吃姜，不要医生开药方)】`vaen3 qieh7 lu2 poh zo3 qieh7 jian1 beh7 io5 i1 shen1 kae1 iah8 fan1` <sup>[东台]</sup> 按时常吃这两种食品有益于健康。  
