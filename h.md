@@ -1010,8 +1010,8 @@
 1. 【[号子里头的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_zz_li_teu_dii.md#号子里头的)】`ho6 zz li3 teu dii` <sup>[东台]</sup> 旧称敌伪特务机关，人们所说～即指敌伪时期的特务。  
 1. 【[㖪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh.md#㖪)】`hoh7` <sup>[如东]</sup> 叫喊，鼓动，煽动：他把这件事～起来啊。  
 1. 【[㖪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh.md#㖪)】`hoh7` <sup>[如皋]</sup> 只图热闹，而不计花费：他俫在这许吃咖，～咖，没几天就把钱总～掉啊。  
-1. 【[㖪打㖪打的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh_da_hoh_da_dii.md#㖪打㖪打的)】`hoh7 da3 hoh7 da3 dii` <sup>[如皋]</sup> 急匆匆地、张扬地：他～跑得来送信，又把信忘吖家里啊；这次来，他～带啊多少杲子，又用不上。  
-1. 【[㖪㖪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh_hoh.md#㖪㖪)】`hoh7 hoh7` <sup>[泰县]</sup> 到处声张：这件事街上都～的，你不晓得咖？  
+1. 【[㖪打㖪打的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh_da_hoh_da_dii.md#㖪打㖪打的)】`hoh7 da3 hoh7 da3 dii` <sup>[如皋]</sup> 急匆匆地、张扬地：他～跑得来送信，又把信忘吖家里啊｜这次来，他～带啊多少杲子，又用不上。  
+1. 【[㖪㖪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh_hoh.md#㖪㖪)】`hoh7 hoh7` <sup>[泰县]</sup> 沸沸扬扬，议论纷纷（原文释“到处声张”，代入例句不合）：这件事街上都～的，你不晓得咖？  
 1. 【[㖪㖪<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh_hoh_r.md#㖪㖪<sub>儿</sub>)】`hoh7 hoh7 r` <sup>[如皋]</sup> 爱吵嚷、生事的人。  
 1. 【[㖪事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh_shr.md#㖪事)】`hoh7 shr6` <sup>[如皋]</sup> 煽动生事或扩大事态：他就专门欢喜～而不是息（搨taeh7）事。  
 1. 【[㖪痰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh_taen.md#㖪痰)】`hoh7 taen2` <sup>[如皋]</sup> ① 使劲喀出痰液。 ② 重病人或临危病人的痰鸣音。如皋词典写“嗀”。  
@@ -1020,11 +1020,11 @@
 1. 【[䦝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh.md#䦝)】`hoh7` <sup>[兴化]</sup> 用力关门：他把门一～，锁起来啊。｜风把门～起来。  
 1. 【[掝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh.md#掝)】`hoh7` <sup>[东台]</sup> 掀、抛：听到闹钟响，他被单一～就起啊床。｜垃圾要入箱，不能块块～！  
 1. 【[掝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh.md#掝)】`hoh7` <sup>[兴化]</sup> 用力泼：～水；～泥。｜谚曰：嫁出门的女儿，～出门的水。  
+1. 【[掝东掝西](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh_don_hoh_xi.md#掝东掝西)】`hoh7 don1 hoh7 xi1` <sup>[东台]</sup> 思维方式片面性，好走两个极端，缺乏主见，思路不清。  
 1. 【[掝锨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh_xin.md#掝锨)】`hoh7 xin1` <sup>[兴化]</sup> 一种农具，长方形浅舀，长柄，用来从河下向岸上戽水、戽泥浆：在路上，一个扛罱子，一个拿～，直往庄里跑。（马春阳《在春潮中》）  
 1. 【[湱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh.md#湱)】`hoh7` ① 波涛声 ② 大雨声  
 1. 【[湱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh.md#湱)】`hoh7` <sup>[如皋]</sup> 水涌动状。  
 1. 【[湱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh.md#湱)】`hoh7` <sup>[泰县]</sup> 水或液体几乎要渗出：你不要把水弄得～的。  
-1. 【[湱东湱西](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh_don_hoh_xi.md#湱东湱西)】`hoh7 don1 hoh7 xi1` <sup>[东台]</sup> 思维方式片面性，好走两个极端，缺乏主见，思路不清。  
 1. 【[湱起来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh_qi_lae_a.md#湱起来啊)】`hoh7 qi lae2 a` <sup>[如皋]</sup> 闹轰轰地：大街上～，出咖甚的事啦？  
 1. 【[湱前湱后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh_qin_hoh_heu.md#湱前湱后)】`hoh7 qin2 hoh7 heu6` <sup>[东台]</sup> 与“湱东湱西”近义。  
 1. 【[湱动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh_ton.md#湱动)】`hoh7 ton6` <sup>[如东]</sup> ① 水流激荡：大坝一开，水流啊～。 ② 形容很多很乱：上街的人～。  
@@ -1037,7 +1037,6 @@
 1. 【[𢃤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh.md#𢃤)】`hoh7` <sup>[如皋]</sup> 旗子等被风吹动的样子和声音。也作“𢃎”。  
 1. 【[𢃤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh.md#𢃤)】`hoh7` <sup>[兴化]</sup> 风吹有声：旗子捱风吹得～～的。  
 1. 【[𢃤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh.md#𢃤)】`hoh7` <sup>[泰县]</sup> 大风吹动门帘之类的东西：风把窗帘都～起来啊。  
-1. 【[𧌄虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh_chon.md#𧌄虫)】`hoh7 chon2` <sup>[如皋]</sup> 蚜虫。见huh7 chon2。  
 1. 【[咟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh.md#咟)】`hoh8` <sup>[东台]</sup> 唆使。（《集韵》“胡麦切，音获，㗲啧叫也。”）：你怎吖听他～？！  
 1. 【[咟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh.md#咟)】`hoh8` <sup>[泰县]</sup> 煽动：你不要～，出咖事你负责。  
 1. 【[咟酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh_jieu.md#咟酒)】`hoh8 jieu3` <sup>[东台]</sup> 想方设法鼓动喝酒，富有煽动性。  
@@ -2406,7 +2405,7 @@
 1. 【[豁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_zz.md#豁子)】`huh7 zz` <sup>[如东]</sup> ① 嘴唇上有一个缺口，叫豁子。 ② 道路上有一个缺口，叫豁子。  
 1. 【[豁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_zz.md#豁子)】`huh7 zz` <sup>[东台]</sup> 缺口：碗高头斗啊个～。（另见“豁子huaeh7 zz”）  
 1. 【[豁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_zz.md#豁子)】`huh7 zz` <sup>[兴化]</sup> ① 兔唇。也称“豁嘴子。” ② （喻）缺口：城墙上有个～。｜圩上有个～。  
-1. 【[𧌄虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_chon.md#𧌄虫)】`huh7 chon2, uh7 chon2` <sup>[如皋]</sup> 蚜虫。  
+1. 【[𧌄虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_chon.md#𧌄虫)】`huh7 chon2, uh7 chon2, hoh7 chon2` <sup>[如皋]</sup> 蚜虫。  
 1. 【[合把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_ba.md#合把)】`huh8 ba3` <sup>[东台]</sup> 合群，与大家关系融洽。  
 1. 【[合把子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_ba_zz.md#合把子)】`huh8 ba3 zz` <sup>[兴化]</sup> ① 形容武打演员动作协调，表演精彩。 ② （借）二人或多人共事配合默契：老张、老王两个人～，工作蛮协调的。  
 1. 【[合八字](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_baeh_cz.md#合八字)】`huh8 baeh7 cz6` <sup>[兴化]</sup> 旧婚俗，订婚前请巫者为男女推算生辰八字，确定能否婚配。  
