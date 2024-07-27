@@ -935,7 +935,7 @@
 1. 【[毌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaeh.md#毌)】`kuaeh8` <sup>[如皋]</sup> 勾连遏阻：树枝儿～脸、衣裳捱～咖个洞、横横～～的。如皋民间方音字。  
 1. 【[毌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaeh.md#毌)】`kuaeh8` <sup>[兴化]</sup> ① 被尖刺勾挂着：褂子捱钉儿～破啊。｜腿子上～破一块皮。 ② （引）滞留：他有点小事～住，暂时来不了。 ③ 兴化词典作“劀”，《广韵·辖韵》古滑切“～，刮也。”（声母不合）  
 1. 【[毌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaeh.md#毌)】`kuaeh8` <sup>[泰县]</sup> ① 被物牵住而不能离。泰县方言志作劀。 ② 无意或碰巧被缠住：这下子～住啊。  
-1. 【[毌住呃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaeh_chv_a.md#毌住呃)】`kuaeh8 chv6 a` <sup>[东台]</sup> 卡住了；牵住了：这个项目不曾通过，不晓得～在哪许。  
+1. 【[毌住啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaeh_chv_a.md#毌住啊)】`kuaeh8 chv6 a` <sup>[东台]</sup> 卡住了；牵住了：这个项目不曾通过，不晓得～在哪许。  
 1. 【[毌打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaeh_da.md#毌打)】`kuaeh8 da3` <sup>[兴化]</sup> 话中带刺，指桑骂槐：你有话直说，覅～人。  
 1. 【[毌里毌东的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaeh_lii_kuaeh_don_dii.md#毌里毌东的)】`kuaeh8 lii kuaeh8 don1 dii` <sup>[如皋]</sup> 状到处碰撞受阻扼：装运一棵整树，在路上～，难走。  
 1. 【[毌三毌四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaeh_saen_kuaeh_sz.md#毌三毌四)】`kuaeh8 saen1 kuaeh8 sz5` <sup>[兴化]</sup> 话中带刺：她说话喜欢～的。  

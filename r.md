@@ -117,6 +117,7 @@
 1. 【[入碰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_pon.md#入碰)】`reh8 pon5` <sup>[如东]</sup> 闲谈。  
 1. 【[入且](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_qia.md#入且)】`reh8 qia` 无实际含义，多为口头禅，多含贬义。相当于普通话的“哇噻，他妈的”之类。  
 1. 【[入席](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_qieh.md#入席)】`reh8 qieh8` <sup>[如东]</sup> 开始坐酒席。  
+1. 【[入秋的高粱——老来红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_qieu_dii_go.md#入秋的高粱——老来红)】`reh8 qieu1 dii go1 lian2 lo3 lae2 hon2` <sup>[东台]</sup>   
 1. 【[入声](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_shen.md#入声)】`reh8 shen1` <sup>[东台]</sup> 古代汉字声调之一。因发音短促，故又叫促声。现代普通话里没有入声，而绝大多数方言有入声。掌握入声字对阅读和创作古诗词，研究方言和地方戏都有重要意义。  
 1. 【[入声字](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_shen_cz.md#入声字)】`reh8 shen1 cz6` <sup>[东台]</sup> 声调为入声的字，分阴入和阳入。  
 1. 【[入神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_shen.md#入神)】`reh8 shen2` 注意  

@@ -193,7 +193,6 @@
 1. 【[曰口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/ya_keu.md#曰口)】`ya5 keu` <sup>[如皋]</sup> 言下之意，言外之音：听他的～是想买二胡。  
 1. 【[□责](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yae_zeh.md#□责)】`yae2 zeh7` <sup>[泰县]</sup> 得罪人。  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yaeh.md#□)】`yaeh7` <sup>[泰县]</sup> 淘汰。  
-1. 【[入秋的高粱——老来红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yeh_qieu_dii_go_lian_lo_lae_hon.md#入秋的高粱——老来红)】`yeh7 qieu1 dii go1 lian2 lo3 lae2 hon2` <sup>[东台]</sup>   
 1. 【[捥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yeh.md#捥)】`yeh7` <sup>[如皋]</sup> ① 矫形：～竹子、～扁担；桑树从小儿～，到老直笔笔。 ② 扳：～腰。或作“𢺴”。  
 1. 【[捥/𢺴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yeh.md#捥/𢺴)】`yeh7` <sup>[东台]</sup> 扳；使条状物变形：桑树从小～，到老直笔笔。  
 1. 【[捥/𢺴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yeh.md#捥/𢺴)】`yeh7` <sup>[东台]</sup> 闪了筋骨（与“崴”同义）  
@@ -229,7 +228,7 @@
 1. 【[匀和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_hu.md#匀和)】`yen2 hu2` <sup>[如皋]</sup> 多指液体调和黏稠：你把八宝粥熬啊～啊。  
 1. 【[匀净](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_qien.md#匀净)】`yen2 qien` <sup>[如皋]</sup> 见“匀耥”。  
 1. 【[匀净](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_qien.md#匀净)】`yen2 qien` <sup>[东台]</sup> 粗细或深浅一致；均匀：这面墙上的涂料刷得不～。  
-1. 【[匀耥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_tan.md#匀耥)】`yen2 tan` <sup>[如皋]</sup> ① 田地平坦整齐，土层颗粒结构均匀适度的样子。 ② 均布：他播种～。 ③ 均匀：她搽粉不～，脸上有一块没一块的。 ④ 平滑：他刨的木料只叫个～！  
+1. 【[匀堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_tan.md#匀堂)】`yen2 tan` <sup>[如皋]</sup> ① 田地平坦整齐，土层颗粒结构均匀适度的样子。 ② 均匀：她搽粉不～，脸上有一块没一块的。｜他播种～。 ③ 平滑：他刨的木料只叫个～！  
 1. 【[允](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen.md#允)】`yen3` <sup>[如皋]</sup> 许愿：他在善萨面前～吖的，这趟生意寻吖钱，拿一半来重塑金身。  
 1. 【[允](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen.md#允)】`yen3` <sup>[东台]</sup> 应允，允诺：他要旅游，我～吖他。  
 1. 【[允](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen.md#允)】`yen3` <sup>[兴化]</sup> 许愿：你在菩萨面前～的猪头三牲，不能打诳语。  

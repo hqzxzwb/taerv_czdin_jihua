@@ -1226,7 +1226,7 @@
 1. 【[酒醉如小死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_zuei_rv_xio_sz.md#酒醉如小死)】`jieu3 zuei5 rv2 xio3 sz3` <sup>[兴化]</sup> 形容酒喝多了，一觉睡去什么也不知道了。  
 1. 【[酒醉肴饱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_zuei_xio_bo.md#酒醉肴饱)】`jieu3 zuei5 xio2 bo3` <sup>[兴化]</sup> 酒宴丰盛，吃得酣畅：在～之余，方丈终于开口，请郑板桥留下字或画来做个纪念。（《郑板桥传说·哭笑不得》）也作“酒足饭饱”。  
 1. 【[韭菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_cae.md#韭菜)】`jieu3 cae5` <sup>[如东]</sup> 百合科植物韭菜，多年生草本。  
-1. 【[韭菜燉蛋——算葱（充）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_cae_den_taen_sun_con.md#韭菜燉蛋——算葱（充）)】`jieu3 cae5 den5 taen6 sun5 con1 （chon1）` <sup>[东台]</sup>   
+1. 【[韭菜炖蛋——算葱（充）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_cae_den_taen.md#韭菜炖蛋——算葱（充）)】`jieu3 cae5 den5 taen6 sun5 con1 （chon1）` <sup>[东台]</sup>   
 1. 【[韭菜黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_cae_huan.md#韭菜黄)】`jieu3 cae5 huan2` <sup>[兴化]</sup> 冬季在室内培育的韭菜，浅黄黄色，味淡而鲜。也作“韭黄”。  
 1. 【[□鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_y.md#□鱼)】`jieu5 y2` <sup>[泰县]</sup> 鲫鱼。  
 1. 【[㾭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu.md#㾭)】`jieu5` <sup>[如皋]</sup> 收缩：蚂蜞爬起来一伸一～的。  

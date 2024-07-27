@@ -208,7 +208,7 @@
 1. 【[气窗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_chuan.md#气窗)】`qi5 chuan1` <sup>[如东]</sup> 窗的一种，一般设在山墙上，供透气用。  
 1. 【[气得只喖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_deh_zheh_kv.md#气得只喖)】`qi5 deh7 zheh7 kv2` <sup>[如皋]</sup> 很生气。生气到极点。  
 1. 【[气灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_den.md#气灯)】`qi5 den1` <sup>[如东]</sup> 一种灯。把煤油装在一只密封的容器里，通过加气压，使喷头喷出来的煤油雾化，洒在纱罩上，燃烧发光。  
-1. 【[气福倓寿的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_foh_taen_sheu_dii.md#气福倓寿的)】`qi5 foh7 taen2 sheu8 dii` <sup>[如皋]</sup> 体态丰满，满面红光、有福长寿的样子。  
+1. 【[气福倓寿的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_foh_taen_sheu_dii.md#气福倓寿的)】`qi5 foh7 taen2 sheu6 dii` <sup>[如皋]</sup> 体态丰满，满面红光、有福长寿的样子。  
 1. 【[气管<sub>儿</sub>炎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_gun_r_in.md#气管<sub>儿</sub>炎)】`qi5 gun3 r in2` <sup>[如东]</sup> ① 支气管发炎。 ② 比喻妻子管束严厉，害怕妻子。  
 1. 【[气咕唠叨的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_gv_lo_do_dii.md#气咕唠叨的)】`qi5 gv lo2 do1 dii` <sup>[如皋]</sup> 很生气的样子。  
 1. 【[气咕咕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_gv_gv.md#气咕咕)】`qi5 gv1 gv1` <sup>[东台]</sup> 生气了，叽叽咕咕的样子。  
@@ -888,9 +888,9 @@
 1. 【[吃喷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_pen.md#吃喷)】`qieh7 pen5` <sup>[如东]</sup> 遭没趣：他这次去是～。  
 1. 【[吃喷的副脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_pen_dii_fv_lin.md#吃喷的副脸)】`qieh7 pen5 dii fv5 lin3` <sup>[如皋]</sup> 指习惯性的受责者：他生来是～，你不骂他他不好过！  
 1. 【[吃屁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_pi.md#吃屁)】`qieh7 pi5` <sup>[如皋]</sup> 见“吃谎子”。  
-1. 【[吃病食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_pieh_sheh.md#吃病食)】`qieh7 pieh8 sheh8` <sup>[如皋]</sup> 见“吃刁肴”。  
 1. 【[吃品](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_pien.md#吃品)】`qieh7 pien3` <sup>[如皋]</sup> 进食时的品相、规矩。  
 1. 【[吃品](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_pien.md#吃品)】`qieh7 pien3` <sup>[兴化]</sup> 指多人共食时的姿态：老五～不好，生怕吃不过人。  
+1. 【[吃病食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_pien_sheh.md#吃病食)】`qieh7 pien6 sheh8` <sup>[如皋]</sup> 见“吃刁肴”。  
 1. 【[吃白大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_poh_da.md#吃白大)】`qieh7 poh8 da6` <sup>[如东]</sup> 吃他人的东西而不给钱：这个人就爱～。  
 1. 【[吃白大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_poh_da.md#吃白大)】`qieh7 poh8 da6` <sup>[兴化]</sup> 吃东西不付钱。谚曰：～，说好话。‖也作“吃白食”。  
 1. 【[吃白饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_poh_faen.md#吃白饭)】`qieh7 poh8 faen6` <sup>[如皋]</sup> 只吃饭，不吃菜；只有饭，没有菜；只吃饭，不干活。  
@@ -1469,7 +1469,7 @@
 1. 【[截](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qih.md#截)】`qih8` <sup>[东台]</sup> ① 割断：～肢｜～断。 ② 在途中阻挡：拦～。 ③ 相当于量词“段”：一～铁丝｜一～路。 ④ 到一定的期限为止：～止发稿时统计。  
 1. 【[乾隆和啊康熙里头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_lon_hu_a_kan_xi_li_teu.md#乾隆和啊康熙里头)】`qin lon2 hu2 a kan1 xi1 li3 teu` <sup>[东台]</sup> 用两个时代的钱币，借代前后混淆。  
 1. 【[㿊心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_xien.md#㿊心)】`qin1 xien1` <sup>[如皋]</sup> 精神极为痛苦：伢儿忤逆让老人～。  
-1. 【[䌠命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_mien.md#䌠命)】`qin1 mien6` <sup>[兴化]</sup> ① 指人死前最难受的那一刻。 ② （借）苦撑局面：有头绪的全调啊走啊，就剩我在下～。｜这哪许是工作，简直在下～。繁，《广韵·添韵》苦兼切｜坚持意。  
+1. 【[䌠命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_mien.md#䌠命)】`qin1 mien6` <sup>[兴化]</sup> ① 指人死前最难受的那一刻。 ② （借）苦撑局面：有头绪的全调啊走啊，就剩我在下～。｜这哪许是工作，简直在下～。䌠，《广韵·添韵》苦兼切，坚持意。  
 1. 【[千补百纳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_bv_boh_naeh.md#千补百纳)】`qin1 bv3 boh7 naeh8` <sup>[兴化]</sup> 对破旧的衣物补了又补：他这件棉衣～，看不出原来的样子。｜舟子高呼者转了风咧，急急的张起一方～的布帆。（《四杰传》四）  
 1. 【[千层糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_cen_go.md#千层糕)】`qin1 cen2 go1` <sup>[兴化]</sup> 由面粉和糖、油等蒸熟的多层糕点。  
 1. 【[千层衣抵不上一层棉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_cen_i_di_beh_shan_ieh_cen_min.md#千层衣抵不上一层棉)】`qin1 cen2 i1 di3 beh7 shan6 ieh7 cen2 min2` <sup>[东台]</sup> 冬天棉衣最抗寒。  

@@ -780,6 +780,7 @@
 1. 【[丈人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_ren.md#丈人)】`chan6 ren` <sup>[如东]</sup> 妻子的父亲。也称岳父n  
 1. 【[丈人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_ren.md#丈人)】`chan6 ren` <sup>[东台]</sup> 岳父，也称丈人佬儿。  
 1. 【[仗义](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_i.md#仗义)】`chan6 i6` <sup>[如东]</sup> 依靠或讲究义气。  
+1. 【[仗义](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_i.md#仗义)】`chan6 i6` <sup>[东台]</sup> 讲义气：你这个人～，朋友有难都肯帮一把。  
 1. 【[仗势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_shr.md#仗势)】`chan6 shr5` <sup>[如东]</sup> 依靠别人的势力：～欺人。  
 1. 【[㿭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh.md#㿭)】`cheh7` <sup>[兴化]</sup> 皮肤干裂：脚上裂～子  
 1. 【[㿭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_zz.md#㿭子)】`cheh7 zz` <sup>[如皋]</sup> 皮肤皴裂开口：一到寒天，脚后跟上就裂，疼得不能跑。  
@@ -904,7 +905,6 @@
 1. 【[㲀箍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_gv.md#㲀箍)】`chen2 gv1` <sup>[如皋]</sup> 箍盆桶时，将箍向径大的一端打紧。  
 1. 【[乘风凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_fon_lian.md#乘风凉)】`chen2 fon1 lian2` <sup>[兴化]</sup> 纳凉：夏天晚上，到大桥上去～。  
 1. 【[乘荫凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_ien_lian.md#乘荫凉)】`chen2 ien1 lian2` <sup>[如皋]</sup> 在树荫底下休息无暴晒，有风吹，瀴凉、爽快。  
-1. 【[乘脚跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_jiah_qio.md#乘脚跷)】`chen2 jiah7 qio1` <sup>[东台]</sup> 附和别人意见，推波助澜：要公正、务实，不能简单的～。  
 1. 【[乘脚跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_jiah_qio.md#乘脚跷)】`chen2 jiah7 qio5` <sup>[如东]</sup> 不发表主观意见，别人说什么，自己说什么，随声附和。  
 1. 【[乘凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_lian.md#乘凉)】`chen2 lian2` <sup>[如东]</sup> 在阴凉的地方休息：下午，我在东山头～。  
 1. 【[乘便](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_pin.md#乘便)】`chen2 pin6` <sup>[如东]</sup> 顺便：～去下子。  
@@ -1060,6 +1060,7 @@
 1. 【[趁风长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_fon_zhan.md#趁风长)】`chen5 fon1 zhan3` <sup>[如皋]</sup> 状人、畜、禽初生，生长迅速。  
 1. 【[趁觉<sub>儿</sub>的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_go_r_dii.md#趁觉<sub>儿</sub>的)】`chen5 go5 r dii` <sup>[如皋]</sup> 睡梦中说话、脱袜子等行为。  
 1. 【[趁脚跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_jiah_qio.md#趁脚跷)】`chen5 jiah7 qio1` <sup>[如皋]</sup> 贬指跟着哄抬：他就会～。  
+1. 【[趁脚跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_jiah_qio.md#趁脚跷)】`chen5 jiah7 qio1` <sup>[东台]</sup> 附和别人意见，推波助澜：要公正、务实，不能简单的～。  
 1. 【[趁脚跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_jiah_qio.md#趁脚跷)】`chen5 jiah7 qio1` <sup>[兴化]</sup> 随声附和他人言语：他自己没主见，就喜欢～。｜那八戒就趁脚儿跷道：“……不当人子！”（《西游记》二五）  
 1. 【[趁手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_sheu.md#趁手)】`chen5 sheu3` <sup>[如东]</sup> 紧接着；随手：～把门关起来。  
 1. 【[趁手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_sheu.md#趁手)】`chen5 sheu3` <sup>[如皋]</sup> 顺便、顺手：我洗衣裳，～同他洗掉。  

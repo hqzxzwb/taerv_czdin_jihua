@@ -634,9 +634,9 @@
 1. 【[烫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#烫)】`tan5` <sup>[泰县]</sup> 用很热的水洗澡。  
 1. 【[烫疤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_ba.md#烫疤)】`tan5 ba1` <sup>[如皋]</sup> ① 和尚求戒时在头顶上用火绒烫疤。其仪程庄严繁杂，完成九个疤后成为和尚（比丘僧）。 ② 灸治或烫伤留下的疤痕。  
 1. 【[烫钯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_ba.md#烫钯)】`tan5 ba1` <sup>[如皋]</sup> 修补铸铁锅。用小坩锅现熔铁水在铁锅的破洞上烫一串的小钯以补好。  
-1. 【[烫饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_faeh.md#烫饭)】`tan5 faeh6` <sup>[如皋]</sup> 见“烫饭粥”。  
 1. 【[烫发](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_faeh.md#烫发)】`tan5 faeh7` <sup>[如东]</sup> 用热能或药水使头发卷曲美观。  
 1. 【[烫饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_faen.md#烫饭)】`tan5 faen6` <sup>[兴化]</sup> 米饭加水后煮成稀饭。  
+1. 【[烫饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_faen.md#烫饭)】`tan5 faen6` <sup>[如皋]</sup> 见“烫饭粥”。  
 1. 【[烫饭粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_faen_zhoh.md#烫饭粥)】`tan5 faen6 zhoh7` <sup>[如皋]</sup> 饭改成稀饭。  
 1. 【[烫饭粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_faen_zhoh.md#烫饭粥)】`tan5 faen6 zhoh7` <sup>[东台]</sup> 将剩饭加水煮沸。  
 1. 【[烫酵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_go.md#烫酵)】`tan5 go5` <sup>[如皋]</sup> 用沸水拌和面粉，糯米粉等，备做烧饼、䬧子等食品用。  
@@ -1050,8 +1050,7 @@
 1. 【[堤东、堤西](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_don_ti_xi.md#堤东、堤西)】`ti2 don1 ti2 xi1` <sup>[东台]</sup> 原范公堤（现在称老204国道）纵贯东台南北，路东称为堤东，路西称为堤西。  
 1. 【[提](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti.md#提)】`ti2` <sup>[如皋]</sup> ① 提取、选取：～犯人、～审；～肉块子，留汤。 ② 量词：一～粽子是五只。  
 1. 【[提笔忘字](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_bieh_van_cz.md#提笔忘字)】`ti2 bieh7 van6 cz6` <sup>[如东]</sup> 拿起笔来，忘记了要写的字。  
-1. 【[提拨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_buh.md#提拨)】`ti2 buh` <sup>[兴化]</sup> 提示、点拨：他有甚的不懂的地方请你多～他。  
-1. 【[提拨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_buh.md#提拨)】`ti2 buh7` <sup>[东台]</sup> 提醒、提示、开导。  
+1. 【[提拨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_buh.md#提拨)】`ti2 buh7` <sup>\[东台\]\[如皋\]\[兴化\]</sup>提醒、提示、点拨、指点：他有甚的不懂的地方请你多～他。<sup>\[兴化\]</sup>  
 1. 【[提草鞋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_co_hae.md#提草鞋)】`ti2 co3 hae2` <sup>[兴化]</sup> 形容身份低下，百无一用：他这种人只配给人～。｜……还有几个不出名～的小伙，共是十来个。（《二刻》十）‖也说“拎草鞋”。  
 1. 【[提蚕<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_cun_r.md#提蚕<sub>儿</sub>)】`ti2 cun2 r` <sup>[如皋]</sup> 给蚕床清除残叶蚕粪的过程。先覆蚕网喂叶引蚕上行，后提网清床。  
 1. 【[提货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_hu.md#提货)】`ti2 hu5` <sup>[如东]</sup> 到指定地点提取货物。  
@@ -1065,7 +1064,6 @@
 1. 【[提笼㧟鼓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_lon_kuae_gv.md#提笼㧟鼓)】`ti2 lon2 kuae6 gv3` <sup>[兴化]</sup> 由于携带的东西多而行动不利索的样子：他上一次城，～的带许多零碎东西，连路也走不动。  
 1. 【[提锣㧟鼓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_lu_kuae_gv.md#提锣㧟鼓)】`ti2 lu2 kuae6 gv3` <sup>[东台]</sup> ［喻］指身上带着很多东西，行动不便：你～的不好跑，我去接你。  
 1. 【[提脓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_non.md#提脓)】`ti2 non2` <sup>[兴化]</sup> 中医外科用药使疮疖等加快化脓，以减轻患者疼痛。  
-1. 【[提拨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_paeh.md#提拨)】`ti2 paeh8` <sup>[如皋]</sup> 捉示、指点。  
 1. 【[提盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_pun.md#提盘)】`ti2 pun2` <sup>[如东]</sup> 提醒：你要～下子。  
 1. 【[提<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_r.md#提<sub>儿</sub>)】`ti2 r` <sup>[如皋]</sup> 小水桶。  
 1. 【[提人<sub>儿</sub>戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_ren_r_xi.md#提人<sub>儿</sub>戏)】`ti2 ren2 r xi5` <sup>[兴化]</sup> 木偶戏的旧称。  

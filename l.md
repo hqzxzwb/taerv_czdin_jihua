@@ -252,7 +252,7 @@
 1. 【[来尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_xy.md#来尿)】`lae2 xy1` <sup>[东台]</sup> 遗尿，俗称尿床。  
 1. 【[来尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_xy.md#来尿)】`lae2 xy1` <sup>[泰县]</sup> 小孩夜里尿床。  
 1. 【[来尿宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_xy_bo.md#来尿宝)】`lae2 xy1 bo3` <sup>[东台]</sup> 戏指尿床（遗尿）的人。  
-1. 【[来□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_zae.md#来□)】`lae2 zae` <sup>[兴化]</sup> 来往：他俫两家虽是亲戚，平时不大～。  
+1. 【[来□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_zae.md#来□)】`lae2 zae1` <sup>[兴化]</sup> 来往：他俫两家虽是亲戚，平时不大～。  
 1. 【[咧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae.md#咧)】`lae3` <sup>[如皋]</sup> 展开：～嘴；事情～开来啊。  
 1. 【[咧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae.md#咧)】`lae3` <sup>[兴化]</sup> 嘴咧开：龇牙～嘴｜嘴笑啊～开来。  
 1. 【[咧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae.md#咧)】`lae3` <sup>[泰县]</sup> 嘴大而略扁：他看到鱼，嘴就～下来。  
@@ -848,7 +848,7 @@
 1. 【[𧻴嫁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_jia.md#𧻴嫁)】`lan6 jia5` <sup>[如皋]</sup> 女儿临嫁前禁饮水，以免礼仪中要小便。  
 1. 【[𧻴窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_ku.md#𧻴窠)】`lan6 ku1` <sup>[如皋]</sup> 天气闷热，鸡推迟上窠。  
 1. 【[𧻴田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_tin.md#𧻴田)】`lan6 tin2` <sup>[如皋]</sup> 休耕。  
-1. 【[𧻴田如放债](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_tin_fv_fan_zhae.md#𧻴田如放债)】`lan6 tin2 fv2 fan5 zhae5` <sup>[如皋]</sup> 休耕一段时间后，田里肥力恢复，土质得到改善，再种可获丰收。  
+1. 【[𧻴田如放债](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_tin_rv_fan.md#𧻴田如放债)】`lan6 tin2 rv2 fan5 zhae5` <sup>[如皋]</sup> 休耕一段时间后，田里肥力恢复，土质得到改善，再种可获丰收。  
 1. 【[勒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh.md#勒)】`leh8` 瞪眼  
 1. 【[勒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh.md#勒)】`leh8` <sup>[如皋]</sup> 状眼睛睁得很大。  
 1. 【[勒把<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_ba_r.md#勒把<sub>儿</sub>)】`leh8 ba3 r` <sup>[泰县]</sup> 最小的子女。  

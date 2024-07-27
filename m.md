@@ -426,7 +426,7 @@
 1. 【[蛮姐䗜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_jia_lieu.md#蛮姐䗜)】`maen2 jia3 lieu` <sup>[如东]</sup> 蝉的一种。身体较小，背部绿色。鸣声时大时小。  
 1. 【[蛮掼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_kuaen.md#蛮掼)】`maen2 kuaen6` <sup>[泰县]</sup> 蛮横。  
 1. 【[蛮来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_lae.md#蛮来)】`maen2 lae2` <sup>[兴化]</sup> 不按规矩，任意而为：列公莫认作十三妹生做～，也莫怪道说书的胡诌硬扭。（《儿女英雄传》十）  
-1. 【[蛮辣答](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_laeh_daeh.md#蛮辣答)】`maen2 laeh daeh8` <sup>[兴化]</sup> 胡搅蛮缠的人：她家姐妹全是～，四邻没得哪个敢惹。  
+1. 【[蛮辣答](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_laeh_daeh.md#蛮辣答)】`maen2 laeh daeh7` <sup>[兴化]</sup> 胡搅蛮缠的人：她家姐妹全是～，四邻没得哪个敢惹。  
 1. 【[蛮理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_li.md#蛮理)】`maen2 li3` <sup>[如皋]</sup> 歪理。  
 1. 【[蛮理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_li.md#蛮理)】`maen2 li3` <sup>[兴化]</sup> 歪理：你打啊人还怪人家不好，这是哪一家的～？  
 1. 【[蛮力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_lieh.md#蛮力)】`maen2 lieh8` <sup>[如皋]</sup> 不善节制而胡乱使出的体力。  
@@ -907,7 +907,7 @@
 1. 【[门板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_baen.md#门板)】`men2 baen3` <sup>[如东]</sup> 门的面板。  
 1. 【[门帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_ban.md#门帮)】`men2 ban1` <sup>[如东]</sup> 门板两边的竖粱，起固定门板的作用。也叫门边丝。  
 1. 【[门塴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_bon_r.md#门塴<sub>儿</sub>)】`men2 bon5 r` <sup>[如皋]</sup> 门扇与墙相夹处。  
-1. 【[门搭扣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_daeh_ke_r.md#门搭扣<sub>儿</sub>)】`men2 daeh7 ke1 r` <sup>[如皋]</sup> 见“门搭子”。  
+1. 【[门搭扣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_daeh_keu_r.md#门搭扣<sub>儿</sub>)】`men2 daeh7 keu1 r` <sup>[如皋]</sup> 见“门搭子”。  
 1. 【[门搭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_daeh_zz.md#门搭子)】`men2 daeh7 zz` <sup>[如皋]</sup> 钌铞儿。  
 1. 【[门搭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_daeh_zz.md#门搭子)】`men2 daeh7 zz` <sup>[东台]</sup> 联结两扇木门的铁扣搭。  
 1. 【[门挡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_dan.md#门挡)】`men2 dan3` <sup>[兴化]</sup> 横插在门框两边铁环中的木棒：拿～挡门。  
@@ -1759,7 +1759,7 @@
 1. 【[目不斜视](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_beh_qia_shr.md#目不斜视)】`moh8 beh7 qia2 shr6` <sup>[东台]</sup> 形容为人正派，眼睛不向旁边看。  
 1. 【[目瞪痴獃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_den_chr_ngae.md#目瞪痴獃)】`moh8 den1 chr1 ngae2` <sup>[兴化]</sup> 呆笨、不灵敏：这个小伙～的，一点儿眼头见识没得。  
 1. 【[目瞪口呆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_den_keu_dae.md#目瞪口呆)】`moh8 den1 keu3 dae1` <sup>[东台]</sup> 瞪着眼睛说不出话，形容因吃惊或受气发愣。  
-1. 【[目力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_lieh.md#目力)】`moh8 lieh7` <sup>[东台]</sup> 视力。  
+1. 【[目力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_lieh.md#目力)】`moh8 lieh8` <sup>[东台]</sup> 视力。  
 1. 【[目无尊长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_v_zuen_zhan.md#目无尊长)】`moh8 v2 zuen1 zhan3` <sup>[东台]</sup> 不把长辈放在眼里，形容狂妄无礼。  
 1. 【[穆色布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_seh_bv.md#穆色布)】`moh8 seh7 bv5` <sup>[如皋]</sup> 蓝灰色布。常用于戴孝。  
 1. 【[脉金](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_jien.md#脉金)】`moh8 jien1` <sup>[东台]</sup> 旧时给中医看病的酬金。  

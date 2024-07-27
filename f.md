@@ -485,9 +485,9 @@
 1. 【[放野马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_ia_ma.md#放野马)】`fan5 ia3 ma3` <sup>[泰县]</sup> 放任自流，放纵。  
 1. 【[放一马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_ieh_ma.md#放一马)】`fan5 ieh7 ma3` <sup>[东台]</sup> 指高抬贵手，给予原谅：他这个是初犯，就放他一马吧！  
 1. 【[放鹰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_ien.md#放鹰)】`fan5 ien1` <sup>[兴化]</sup> 用女色作诱饵引人上钩，乘对方情熟不备而卷逃的骗术。也说“放白鸽”。  
-1. 【[放焰口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_ien_keu.md#放焰口)】`fan5 ien5 keu3` <sup>[如皋]</sup> 追荐死者的佛事之一。  
 1. 【[放焰口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_in_keu.md#放焰口)】`fan5 in6 keu3` <sup>[如东]</sup> 请和尚、道士、尼姑念经，超度亡灵。  
 1. 【[放焰口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_in_keu.md#放焰口)】`fan5 in6 keu3` <sup>[东台]</sup> 指丧家请和尚、道士等做法事向饿鬼施食。  
+1. 【[放焰口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_in_keu.md#放焰口)】`fan5 in6-ien5 keu3` <sup>[如皋]</sup> 追荐死者的佛事之一。  
 1. 【[放鹞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_io_zz.md#放鹞子)】`fan5 io6 zz` <sup>[如东]</sup> ① 放鹰。 ② 把纸糊的风筝放上天。 ③ 比喻出门乱跑，无人管束。  
 1. 【[放假](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_jia.md#放假)】`fan5 jia3` <sup>[如东]</sup> 在规定的日期停止学习或工作。  
 1. 【[放卡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_ka.md#放卡)】`fan5 ka3` <sup>[如东]</sup> 一种捕鱼的方式。把竹丝弯成钩，套在一个小管内，里面装着饵料，放在河塘里，鱼吞食时，即将鱼嘴卡住，这种方式叫做放卡。  

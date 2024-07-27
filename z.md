@@ -820,7 +820,6 @@
 1. 【[长子<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_zz_r.md#长子<sub>儿</sub>)】`zhan3 zz3 r` <sup>[如皋]</sup> 见“爬塘儿”。  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan.md#□)】`zhan5` <sup>[如皋]</sup> 占位不让：不屙屎～毛缸（此语有贬义）。  
 1. 【[仗胆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_daen.md#仗胆)】`zhan5 daen3` <sup>[如皋]</sup> 得到支持或给予支持而胆壮。  
-1. 【[仗义](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_i.md#仗义)】`zhan5 i5` <sup>[东台]</sup> 讲义气：你这个人～，朋友有难都肯帮一把。  
 1. 【[仗势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_shr.md#仗势)】`zhan5 shr5` <sup>[如皋]</sup> 依仗势力，为非作歹欺压别人。  
 1. 【[仗势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_shr.md#仗势)】`zhan5 shr5` <sup>[东台]</sup> 倚仗某种权势（做坏事）：不许～欺人！  
 1. 【[帐笆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_ba.md#帐笆)】`zhan5 ba1` <sup>[东台]</sup> 篱笆，多用芦柴做成：过去我家是～做墙。  
@@ -1523,7 +1522,7 @@
 1. 【[吱风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_fon.md#吱风)】`zhr1 fon1` <sup>[兴化]</sup> 预先露出口风：他来～，想买电脑。也说“吱𠵹”“栽𠵹”。  
 1. 【[吱𠵹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_gan.md#吱𠵹)】`zhr1 gan1` <sup>[兴化]</sup> 见“吱风”。  
 1. 【[吱娇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_jio.md#吱娇)】`zhr1 jio` <sup>[兴化]</sup> 形容怕苦怕脏，娇气十足：她～得凶哩，出门几步路也要叫个车。  
-1. 【[吱唔答□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_v_daeh_kaen.md#吱唔答□)】`zhr1 v1 daeh7 kaen2` <sup>[如东]</sup> 乱开玩笑：哪个跟你～的？  
+1. 【[吱唔答䶠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_v_daeh_kaen.md#吱唔答䶠)】`zhr1 v1 daeh7 kaen2` <sup>[如东]</sup> 乱开玩笑：哪个跟你～的？  
 1. 【[吱滑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_vaeh.md#吱滑)】`zhr1 vaeh8` <sup>[如皋]</sup> 象声词。  
 1. 【[吱嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_zuei.md#吱嘴)】`zhr1 zuei3` <sup>[兴化]</sup> 小吱声：眼看人家搬他的东西也不敢～。  
 1. 【[支](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr.md#支)】`zhr1` <sup>[如皋]</sup> ① 凑近、凑上。 ② 质问：我拿话～他，～得他没口开。 ③ 砌、架：～过霤，～灶，～锅箱儿。  

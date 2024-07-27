@@ -441,7 +441,7 @@
 1. 【[杨花萝卜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_hua_lu_poh.md#杨花萝卜)】`ian2 hua1 lu2 poh` <sup>[兴化]</sup> 一种春末上市的小萝卜。  
 1. 【[杨瘌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_laeh_zz.md#杨瘌子)】`ian2 laeh8 zz` <sup>[兴化]</sup> ① 刺蛾的幼虫。 ② （喻）胡搅蛮缠的人：他是～，混身是刺，捱他黏上就麻烦吖。  
 1. 【[杨柳水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_lieu_shuei.md#杨柳水)】`ian2 lieu3 shuei3` <sup>[泰县]</sup> 好处：～，大家洒，大家都沾点儿光。  
-1. 【[杨柳水大家酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_lieu_shuei_da_ga_sa.md#杨柳水大家酒)】`ian2 lieu3 shuei3 da6 ga1 sa3` <sup>[兴化]</sup> 谓好处大家有份：“这也不该，～才是。难道就没得用人之时。”（《梼杌闲评》八）  
+1. 【[杨柳水大家洒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_lieu_shuei_da_ga_sa.md#杨柳水大家洒)】`ian2 lieu3 shuei3 da6 ga1 sa3` <sup>[兴化]</sup> 谓好处大家有份：“这也不该，～才是。难道就没得用人之时。”（《梼杌闲评》八）  
 1. 【[杨梅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_mei.md#杨梅)】`ian2 mei2` <sup>[如皋]</sup> 梅毒。一种花柳病。  
 1. 【[杨树头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_shv_teu.md#杨树头)】`ian2 shv6 teu2` <sup>[泰县]</sup> 喜欢被人奉承，而又带有一点江湖义气的人：这个人是个～，你多说几句好话就行吖。  
 1. 【[洋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian.md#洋)】`ian2` <sup>[兴化]</sup> ① 幼小动物：小～鸡｜小～猪儿。 ② 调皮、撒娇：覅～，好好写作业去。  
@@ -1069,7 +1069,7 @@
 1. 【[一脉相承](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_moh_xian_chen.md#一脉相承)】`ieh7 moh8 xian5 chen2` <sup>[如东]</sup> 由一个血统或者一个派别传下来的：他俫的功夫是～的。  
 1. 【[一模二样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_mu_er_ian.md#一模二样)】`ieh7 mu2 er6 ian6` <sup>[兴化]</sup> 即一模一样，完全相同：一对双子长得～。｜“适才礼物里边……也是一个玉蟾蜍，与前日风官人与姐姐的～……”（《二刻》九）  
 1. 【[一模一样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_mu_ieh_ian.md#一模一样)】`ieh7 mu2 ieh7 ian6` <sup>[如东]</sup> 完全一样：你家的椅子跟我家的椅子～。  
-1. 【[一亩三分地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_mu_saen_fen_ti.md#一亩三分地)】`ieh7 mu3 saen3 fen ti6` <sup>[泰兴]</sup> 所属的地盘，势力范围。  
+1. 【[一亩三分地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_mu_saen_fen_ti.md#一亩三分地)】`ieh7 mu3 saen1 fen ti6` <sup>[泰兴]</sup> 所属的地盘，势力范围。  
 1. 【[一末梢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_muh_sho.md#一末梢)】`ieh7 muh sho1` <sup>[如皋]</sup> 砣绳压在秤杆的末端时的估计重量。  
 1. 【[一捺拃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_naeh_zha.md#一捺拃)】`ieh7 naeh8 zha3` <sup>[东台]</sup> 手指尽力张开后，拇指尖与食指尖之间的长度。也作“一抹拃”。  
 1. 【[一捺拃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_naeh_zha.md#一捺拃)】`ieh7 naeh8 zha5` <sup>[泰兴]</sup> 拇指与食指或无名指伸直间的最大距离。（原文附注“拃，方音若‘叉’”，与经验不符）：箇块布大概不超过～长  
@@ -1838,7 +1838,7 @@
 1. 【[有钱天天节，无钱节也闲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_qin_tin_tin_jih_v_qin_jih_a_xiaen.md#有钱天天节，无钱节也闲)】`ieu3 qin2 tin1 tin1 jih7 v2 qin2 jih7 a3 xiaen2` <sup>[东台]</sup> 富人每天都忙吃喝，穷人过节也没菜忙。  
 1. 【[有钱无市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_qin_v_shr.md#有钱无市)】`ieu3 qin2 v2 shr6` <sup>[兴化]</sup> 有钱买不到东西或没处买东西：那时物价一日几涨，～。｜这种荒僻的地方，到哪许去买吃物咖？也作“有价无市”。  
 1. 【[有趣煞咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_qy_shaeh_ga.md#有趣煞咖)】`ieu3 qy5 shaeh7 ga` <sup>[东台]</sup> 自以为很有趣。（这是旁观者以鄙视、不屑的口吻讽刺当事者的话）  
-1. 【[有若无](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_rah_v.md#有若无)】`ieu3 rah7 v2` <sup>[东台]</sup> 也作“有作无”。指对某事期望值不高，成不成都无所谓：我这个水平考研究生没得把握，～，陪你俫读点儿书而已。  
+1. 【[有若无](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_rah_v.md#有若无)】`ieu3 rah8 v2` <sup>[东台]</sup> 也作“有作无”。指对某事期望值不高，成不成都无所谓：我这个水平考研究生没得把握，～，陪你俫读点儿书而已。  
 1. 【[有人家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_ren_ga.md#有人家)】`ieu3 ren2 ga` <sup>[兴化]</sup> 谓女子已经订婚或有了对象：她已经有人家啊。  
 1. 【[有抻头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_shen_teu.md#有抻头)】`ieu3 shen5 teu` <sup>[如皋]</sup> ① 有弹性，可以拉伸：洋袜管儿～。 ② 有升益：这家米行的斗大，买家来复下来～。  
 1. 【[有事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_shr.md#有事)】`ieu3 shr6` <sup>[东台]</sup> 打发别人走开的借口。  
@@ -2179,6 +2179,7 @@
 1. 【[腰心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_xien.md#腰心)】`io1 xien1` <sup>[泰县]</sup> 羊的睾丸。  
 1. 【[腰子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_zz.md#腰子)】`io1 zz` <sup>[如东]</sup> 肾脏。  
 1. 【[腰子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_zz.md#腰子)】`io1 zz` <sup>[东台]</sup> 肾脏。  
+1. 【[腰子桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_zz_ton.md#腰子桶)】`io1 zz ton3` <sup>[如皋]</sup> 大的腰形木桶。推车用。  
 1. 【[邀而不欲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_er_beh_ioh.md#邀而不欲)】`io1 er beh7 ioh8` <sup>[泰县]</sup> 不爽快、不诚心：这个人做事有点儿～的。  
 1. 【[邀罾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_zen_zz.md#邀罾子)】`io1 zen1 zz` <sup>[泰县]</sup> 取鱼的网。  
 1. 【[闄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io.md#闄)】`io1` 从半当中截断：～牌/切牌  
@@ -2237,7 +2238,6 @@
 1. 【[夭寿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_shr_r.md#夭寿<sub>儿</sub>)】`io3 shr6 r` <sup>[如皋]</sup> 詈语。骂人短命、早天。  
 1. 【[杳势不咍呆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_shr_beh_hae_dae.md#杳势不咍呆)】`io3 shr5 beh7 hae1 dae1` <sup>[兴化]</sup> 见“杳势咍呆”。  
 1. 【[杳势咍呆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_shr_hae_dae.md#杳势咍呆)】`io3 shr5 hae1 dae1` <sup>[兴化]</sup> 形容慢腾腾的：这块紧急集合，他～的，结果迟到啊。‖又说“杳势不咍呆”。  
-1. 【[腰子桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_zz_ton.md#腰子桶)】`io3 zz ton3` <sup>[如皋]</sup> 大的腰形木桶。推车用。  
 1. 【[舀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io.md#舀)】`io3` <sup>[如东]</sup> 用勺儿将流汁取出来：～汤。  
 1. 【[舀粪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_fen.md#舀粪)】`io3 fen5` <sup>[如皋]</sup> 用料勺舀取粪池中的粪肥料。  
 1. 【[舀油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_ieu.md#舀油)】`io3 ieu2` <sup>[兴化]</sup> 戏指两口子逗嘴为戏：人家两口子～，你俫拉的甚的劝？  

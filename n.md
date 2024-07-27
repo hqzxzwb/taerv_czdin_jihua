@@ -1854,7 +1854,7 @@
 1. 【[闹烧胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_sho_hv_zz.md#闹烧胡子)】`no6 sho1 hv2 zz` <sup>[泰县]</sup> 络腮胡子。  
 1. 【[闹玩笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_vaen_xio.md#闹玩笑)】`no6 vaen2 xio5` <sup>[兴化]</sup> 见“闹笑”。  
 1. 【[闹笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_xio.md#闹笑)】`no6 xio5` <sup>[兴化]</sup> 开玩笑：跟你～，覅当真。也说“闹玩笑”。  
-1. 【[农村](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non_cuen.md#农村)】`non2 cuen5` <sup>[如东]</sup> 以从事农业生产为主的劳动群众聚居的地方。  
+1. 【[农村](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non_cuen.md#农村)】`non2 cuen1` <sup>[如东]</sup> 以从事农业生产为主的劳动群众聚居的地方。  
 1. 【[农户](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non_hv.md#农户)】`non2 hv6` <sup>[如东]</sup> 长期从事农业生产的人家。  
 1. 【[农业](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non_ih.md#农业)】`non2 ih8` <sup>[如东]</sup> 栽培农作物的生产事业。国民经济中的农业，还包括林业、渔业和农村副业等生产在内。  
 1. 【[农业中学](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non_ih_zhon_xiah.md#农业中学)】`non2 ih8 zhon1 xiah8` <sup>[如东]</sup> 民办中等教育学校。20世纪50年代后期开始兴办。随着教育事业的发展，20世纪60年代初逐渐停止。  

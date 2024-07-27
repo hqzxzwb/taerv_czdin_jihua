@@ -923,7 +923,7 @@
 1. 【[心疼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_ten.md#心疼)】`xien1 ten2` <sup>[如皋]</sup> 见“肉疼”。  
 1. 【[心头肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_teu_roh.md#心头肉)】`xien1 teu2 roh8` <sup>[如东]</sup> 比喻最疼爱的人：玉兰是妈妈的～。  
 1. 【[心定](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_tien.md#心定)】`xien1 tien6` <sup>[兴化]</sup> 思想情绪安定：他收到录取通知书才～下来。｜“你这淌汗不一定是热的，这是你心不定，～自然凉啊！”（扬一《李逵劫法场》）  
-1. 【[心定自然凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_tien_zz_rin_lian.md#心定自然凉)】`xien1 tien6 zz5 rin2 lian2` <sup>[东台]</sup> 不管天气多热，只要把心神定下来，就能感到一丝凉意。也作“心静自然凉”。  
+1. 【[心定自然凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_tien_cz_rin.md#心定自然凉)】`xien1 tien6 cz6 rin2 lian2` <sup>[东台]</sup> 不管天气多热，只要把心神定下来，就能感到一丝凉意。也作“心静自然凉”。  
 1. 【[心跳肉举](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_tio_roh_jy.md#心跳肉举)】`xien1 tio5 roh8 jy3` <sup>[东台]</sup> 形容心惊胆战，肉神不安。  
 1. 【[心动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_ton.md#心动)】`xien1 ton6` <sup>[兴化]</sup> 因受外界刺激而产生心理波动：他忽听一阵脚步声，一时～，急忙出门观看。  
 1. 【[心心宁宁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_xien_nien_nien.md#心心宁宁)】`xien1 xien1 nien5 nien5` <sup>[东台]</sup> 似睡非睡之状。又作“醒醒宁宁”。  
@@ -2028,9 +2028,9 @@
 1. 【[悬格](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun_geh.md#悬格)】`xiun2 geh7` <sup>[如东]</sup> 床前两边的花板。  
 1. 【[悬功](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun_gon.md#悬功)】`xiun2 gon1` <sup>[兴化]</sup> 杂技演员表演高空动作时，在无依托情况下所用的功夫。  
 1. 【[悬劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun_jien.md#悬劲)】`xiun2 jien5` <sup>[兴化]</sup> 在无依托的情况下使力：在电杆上操作用的全是～。｜练书法靠的～。  
+1. 【[悬空劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun_kon_jien.md#悬空劲)】`xiun2 kon jien5` <sup>[如皋]</sup> ① 高空作业的力度。 ② 手臂举高作业的力度。  
 1. 【[悬空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun_kon.md#悬空)】`xiun2 kon1` <sup>[如东]</sup> 离开地面，悬在空中。比喻脱离实际或没有着落：那是一个～的计划。  
 1. 【[悬空跟头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun_kon_gen_teu.md#悬空跟头)】`xiun2 kon1 gen1 teu` <sup>[如皋]</sup> 无支点翻跟头。  
-1. 【[悬空劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun_kon_jien.md#悬空劲)】`xiun2 kon1 jien6` <sup>[如皋]</sup> ① 高空作业的力度。 ② 手臂举高作业的力度。  
 1. 【[悬天奅<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun_tin_po_r.md#悬天奅<sub>儿</sub>)】`xiun2 tin1 po1 r` <sup>[如东]</sup> 比喻说大话说假话的人：王二是一个～。  
 1. 【[旋复花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun_foh_hua.md#旋复花)】`xiun2 foh7 hua1` <sup>[如东]</sup> 菊科植物旋复花，多年生草本。有阔叶、线叶两种。阔叶旋复花，高约80厘米。茎具纵棱绿色或微带紫红色。叶互生，椭圆形椭圆状披针形或窄长椭圆形，全缘或具细锯齿，上面绿色，下面淡绿色。线叶旋复花高约60厘米，叶互生，线状披针形或线形，边缘反卷，下面淡绿色，被疏柔毛。头状花序少数或多数，顶生。花黄色。瘦果长椭圆形，冠毛白色。生长在路旁、田边。  
 1. 【[玄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun.md#玄)】`xiun2` <sup>[如皋]</sup> ① 枵薄易坏：这种布～，不牢。 ② 软、皱、松：书捱盘吖～吖：衣裳捱抟吖～吖；他养得不壮，肉是～的。 ③ 体弱欠神：他病得不轻，至今人还是～的。  

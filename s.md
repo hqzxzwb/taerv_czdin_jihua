@@ -636,7 +636,6 @@
 1. 【[柴箔子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_pah_zz.md#柴箔子)】`shae2 pah8 zz` <sup>[东台]</sup> 用芦柴编的帘子。用于摊晒农产品或做建筑辅助材料。  
 1. 【[柴湾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_vaen.md#柴湾)】`shae2 vaen1` <sup>[如皋]</sup> 镇名，在如皋城北13华里。原为通扬运河上的一个湾予，旧时经营芦柴，湾中多草排，故名。  
 1. 【[柴珠<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_zhv_r.md#柴珠<sub>儿</sub>)】`shae2 zhv1 r` <sup>[如东]</sup> 刚刚出土的芦苇嫩芽。  
-1. 【[晒影](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_ien.md#晒影)】`shae3 ien3` <sup>[如皋]</sup> 鱼浮近水面晒太阳。  
 1. 【[晒布架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_bv_ga_zz.md#晒布架子)】`shae5 bv5 ga5 zz` <sup>[如皋]</sup> 染坊晒布的高架子。  
 1. 【[晒场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_chan.md#晒场)】`shae5 chan2` <sup>[如东]</sup> 晾晒和堆放谷物的场地。  
 1. 【[晒虹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_gan.md#晒虹)】`shae5 gan5` <sup>[如皋]</sup> 出彩虹。  
@@ -646,6 +645,7 @@
 1. 【[晒秧母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_ian_mu.md#晒秧母)】`shae5 ian1 mu3` <sup>[如东]</sup> 一种培植方法。把秧母田里的水放小或放干，让太阳晒，增加地温，促进秧苗根须生长。  
 1. 【[晒阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_ian.md#晒阳)】`shae5 ian2` <sup>[兴化]</sup> 春末的晴天，鱼在浅滩或水草丛中交配产卵。  
 1. 【[晒一个太阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_ieh_gu_tae_ian.md#晒一个太阳)】`shae5 ieh7 gu tae5 ian` <sup>[如皋]</sup> 晒一个整天的阳光。  
+1. 【[晒影](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_ien.md#晒影)】`shae5 ien3` <sup>[如皋]</sup> 鱼浮近水面晒太阳。  
 1. 【[晒盐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_in.md#晒盐)】`shae5 in2` <sup>[如东]</sup> 把海水放在盐池里曝晒，蒸发水分，使海水结晶成盐。由海水曝晒结晶的盐，称晒盐。  
 1. 【[晒脚丫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_jiah_nga_r.md#晒脚丫<sub>儿</sub>)】`shae5 jiah7 nga1 r` <sup>[如东]</sup> 互相出丑：她俫两个在下～。  
 1. 【[晒粮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_lian.md#晒粮)】`shae5 lian2` <sup>[如东]</sup> 将谷物放在太阳下曝晒，称晒粮。  
@@ -1574,7 +1574,7 @@
 1. 【[盛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen.md#盛)】`shen2` <sup>[泰县]</sup> 装：～饭。  
 1. 【[盛得进去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_deh_jien_qy.md#盛得进去)】`shen2 deh7 jien5 qy5` <sup>[东台]</sup> 装得下的意思。  
 1. 【[盛饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_faen.md#盛饭)】`shen2 faen6` <sup>[东台]</sup> 把饭装进碗里。  
-1. 【[盛起饭来炒啊吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_qi_faen_lae_cho_a_qieh.md#盛起饭来炒啊吃)】`shen2 qi faen1 lae cho3 a qieh7` <sup>[泰兴]</sup> 见“一番生意两番做”。  
+1. 【[盛起饭来炒啊吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_qi_faen_lae.md#盛起饭来炒啊吃)】`shen2 qi faen6 lae cho3 a qieh7` <sup>[泰兴]</sup> 见“一番生意两番做”。  
 1. 【[神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen.md#神)】`shen2` <sup>[兴化]</sup> 聪明、机灵：这个小家伙～㗁！  
 1. 【[神鬼天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_guei_tin.md#神鬼天)】`shen2 guei3 tin1` <sup>[如皋]</sup> 见“降风潮”。  
 1. 【[神鬼天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_guei_tin.md#神鬼天)】`shen2 guei3 tin1` <sup>[如皋]</sup> 农历七、八月间，时晴时雨的天气。  
@@ -1765,7 +1765,6 @@
 1. 【[守尸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_shr.md#守尸)】`sheu3 shr1` <sup>[如东]</sup> 看管人的尸体：请王二～。  
 1. 【[守岁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_xy.md#守岁)】`sheu3 xy5` <sup>[如东]</sup> 除夕，通宵点烛烧香，家主终夜不眠，称守岁。此俗魏晋时期就已出现。《风土记》：“至除夕，达旦不眠，谓之守岁。”  
 1. 【[守岁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_xy.md#守岁)】`sheu3 xy5` <sup>[东台]</sup> 农历除夕之夜直到子时以后才睡觉。  
-1. 【[寿匾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_bin.md#寿匾)】`sheu3 bin3` <sup>[如皋]</sup> 祝寿的匾额。  
 1. 【[手巴掌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_ba_zhan.md#手巴掌)】`sheu3 ba1 zhan` <sup>[如东]</sup> 手掌。  
 1. 【[手膀子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_ban_zz.md#手膀子)】`sheu3 ban3 zz` <sup>[如皋]</sup> 手臂，与脚髈子相对。  
 1. 【[手膀子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_ban_zz.md#手膀子)】`sheu3 ban3 zz` <sup>[如东]</sup> 胳膊。  
@@ -1939,6 +1938,7 @@
 1. 【[受折](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_zhih.md#受折)】`sheu6 zhih7` <sup>[如东]</sup> 遭受到一些损失：许多天不下雨，玉米有些～。  
 1. 【[受主](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_zhv.md#受主)】`sheu6 zhv3` <sup>[兴化]</sup> ① 承接者：姑娘虽丑，好在有啊～，我就放吖心。 ② 买主：“产业是你的，恁你卖给谁……你就是有了别个～，也应该问我一声……”（《二十年目睹之怪现状》二十）  
 1. 【[寿斑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_baen.md#寿斑)】`sheu6 baen1` <sup>[如皋]</sup> 老年人的皮下色斑。  
+1. 【[寿匾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_bin.md#寿匾)】`sheu6 bin3` <sup>[如皋]</sup> 祝寿的匾额。  
 1. 【[寿宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_bo.md#寿宝)】`sheu6 bo` 对小孩子的略带责怪但又是亲昵的称呼。  
 1. 【[寿宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_bo.md#寿宝)】`sheu6 bo` <sup>[如东]</sup> 指小孩，兼有责怪与疼爱的意思：妈妈看见章章在河边玩水，骂道：“你这个～，不怕忑咖河里！”  
 1. 【[寿宝箱子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_bo_xian_zz.md#寿宝箱子)】`sheu6 bo xian1 zz` <sup>[如东]</sup> 人死了，要装进棺材了，这是咒骂小孩的话：你个～！  
@@ -3603,6 +3603,7 @@
 1. 【[丝绵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_min.md#丝绵)】`sz1 min2` <sup>[如东]</sup> 蚕茧下脚经精炼、扯松的制成品。  
 1. 【[丝嗡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_on_zz.md#丝嗡子)】`sz1 on5 zz` <sup>[泰县]</sup> 二胡。  
 1. 【[丝头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_teu.md#丝头)】`sz1 teu` <sup>[如皋]</sup> 纤维：好棉花的～长，差棉花的～短。  
+1. 【[丝头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_teu.md#丝头)】`sz1 teu2` <sup>[如皋]</sup> ① 丝的脚料。 ② 丝的端绪。 ③ 现又指螺丝的螺纹。 ④ 木纹路。  
 1. 【[丝网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_van.md#丝网)】`sz1 van3` <sup>[如皋]</sup> 一种大眼浮网。本地渔夫用丝鱼桶儿在河中嚄浪，大鱼惊窜入网，鲣部被网眼扣住后就捕。  
 1. 【[丝网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_van.md#丝网)】`sz1 van3` <sup>[如东]</sup> 一种网具。用丝线结成，十分柔软。长条形，下部装着锡铊，上部装着浮子。作业时，将网下在水中，敲击船板，迫使鱼群游动撞在网上，从而把鱼缠住。  
 1. 【[丝线店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_xin_din.md#丝线店)】`sz1 xin5 din5` <sup>[如皋]</sup> 旧时专卖丝线、绒线、绣花用品的商店。  
@@ -3654,7 +3655,6 @@
 1. 【[私心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_xien.md#私心)】`sz1 xien1` <sup>[如东]</sup> 为自己打算的念头：王老四的～重。  
 1. 【[私章](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_zhan.md#私章)】`sz1 zhan1` <sup>[如东]</sup> 私人的印章：在文书上要盖～。  
 1. 【[飔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz.md#飔)】`sz1` <sup>[如皋]</sup> 悠悠凉风吹拂状：墙缝儿里透过来～～儿的风。  
-1. 【[丝头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_teu.md#丝头)】`sz2 teu2` <sup>[如皋]</sup> ① 丝的脚料。 ② 丝的端绪。 ③ 现又指螺丝的螺纹。 ④ 木纹路。  
 1. 【[四㞁𧺕拐的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_io_shah_guae_dii.md#四㞁𧺕拐的)】`sz2 io6 shah8 guae3 dii` <sup>[如皋]</sup> 形容形体或姿态不正、多变。“四”字读音特殊，传自赣语。  
 1. 【[死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz.md#死)】`sz3` <sup>[如皋]</sup> 副词，同“很、蛮”，～淡、～䴛、～酸、～烫人子、～欢喜人子的等。  
 1. 【[死啊成吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_a_chen_nga.md#死啊成吖)】`sz3 a chen2 nga` <sup>[如皋]</sup> 死定了：他～的，还捱救啊活咖。  
