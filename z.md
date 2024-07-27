@@ -531,7 +531,7 @@
 1. 【[这许](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_hae.md#这许)】`zha5 hae` <sup>[如皋]</sup> 这里，这儿。  
 1. 【[这许点<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_hae_din_r.md#这许点<sub>儿</sub>)】`zha5 hae din3 r` <sup>[如皋]</sup> 这里。  
 1. 【[这一向](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_ieh_xian.md#这一向)】`zha5 ieh7 xian5` <sup>[东台]</sup> 这些日子，这段时间。  
-1. 【[这境](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_jien.md#这境)】`zha5 jien3` <sup>[如皋]</sup> ① 这边。 ② 阳间。  
+1. 【[这境](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_jien.md#这境)】`zha5 jien5` <sup>[如皋]</sup> ① 这边。 ② 阳间。  
 1. 【[这刻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_keh_r.md#这刻<sub>儿</sub>)】`zha5 keh r` <sup>[兴化]</sup> 目下、这个时候：他～正忙，没空出来。｜～交通最繁忙。也作“这一刻”。  
 1. 【[这刻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_keh_r.md#这刻<sub>儿</sub>)】`zha5 keh9 r` <sup>[如皋]</sup> ① 这么一会儿。 ② 现在，这时侯。  
 1. 【[这刻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_keh_r.md#这刻<sub>儿</sub>)】`zha5 keh9 r` <sup>[如东]</sup> 这会儿。  

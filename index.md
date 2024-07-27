@@ -348,7 +348,7 @@
 1. 【[扒灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_huei.md#扒灰)】`pa2 huei1` <sup>[东台]</sup> 俗指公公与儿媳通奸，现在称娶了儿媳的男子是个～佬儿，多为玩笑取乐的话。  
 1. 【[扒灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_huei.md#扒灰)】`pa2 huei1` <sup>[兴化]</sup> 指公媳关系暧昧。李复元《常谈丛录》卷八：“俗以淫于子妇者为～。盖为污媳之隐语。膝媳同音，扒行灰上，则膝污也。”  
 1. 【[扒灰公公](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_huei_gon_gon.md#扒灰公公)】`pa2 huei1 gon1 gon` <sup>[兴化]</sup> 乡邻亲友对初为公公者戏称：看来乡人对～大有欢笑戏谑之意。提起这来，男女老少皆喜乐。（马春阳《扬州水乡婚俗散记》）  
-1. 【[扒灰佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_huei_lo_r.md#扒灰佬<sub>儿</sub>)】`pa2 huei1 lo3 r` <sup>[如东]</sup> 工具。一头为方形木块，有柄。用于㧕扒炉膛里的灰烬。公公与媳妇有奸，称公公为扒灰佬儿。  
+1. 【[扒灰佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_huei_lo_r.md#扒灰佬<sub>儿</sub>)】`pa2 huei1 lo3 r` <sup>[如东]</sup> 工具。一头为方形木块，有柄。用于搅扒炉膛里的灰烬。公公与媳妇有奸，称公公为扒灰佬儿。  
 1. 【[扒灰老头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_huei_lo_teu.md#扒灰老头)】`pa2 huei1 lo3 teu2` <sup>[兴化]</sup> 见“扒灰公公”。  
 [更多...](./p.md)
 ## Q

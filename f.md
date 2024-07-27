@@ -856,7 +856,6 @@
 1. 【[服气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_qi.md#服气)】`foh8 qi5` <sup>[如东]</sup> 信服：让他获奖，我～。  
 1. 【[服气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_qi.md#服气)】`foh8 qi5` <sup>[东台]</sup> 听从；信服。  
 1. 【[服邪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_qia.md#服邪)】`foh8 qia2` <sup>[兴化]</sup> 被迫认输：他开始不信大学生会种田，看见人家真的有一套才～。  
-1. 【[服降](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_qian.md#服降)】`foh8 qian2` <sup>[如皋]</sup> 认输，承认输了。  
 1. 【[服软不服硬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_run_beh_foh_ngen.md#服软不服硬)】`foh8 run3 beh7 foh8 ngen6` <sup>[东台]</sup> 对委婉的批评、劝导可以接受，对强烈的指责反而抵制：这小伙～，要注意相处方法。  
 1. 【[服侍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_shr.md#服侍)】`foh8 shr` <sup>[兴化]</sup> 反语——对付。也作“伏侍”：那个歹徒太凶狠，几个民警～一个，才把他制伏。  
 1. 【[服侍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_shr.md#服侍)】`foh8 shr5` <sup>[东台]</sup> 照料、照应、侍候。  
@@ -864,6 +863,7 @@
 1. 【[服头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_teu.md#服头)】`foh8 teu2` <sup>[兴化]</sup> 渐渐适应：他才调到基层工作不安心，慢慢的才～。  
 1. 【[服帖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_tih.md#服帖)】`foh8 tih7` <sup>[东台]</sup> ① 顺从、驯服：他有本领，调皮的人到他跟前都～得很。 ② 妥当，平稳：交他办的事没得哪桩不～。  
 1. 【[服下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_xia.md#服下)】`foh8 xia6` <sup>[如皋]</sup> 认输。  
+1. 【[服降](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_xian.md#服降)】`foh8 xian2` <sup>[如皋]</sup> 认输，承认输了。  
 1. 【[服周](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_zheu.md#服周)】`foh8 zheu1` <sup>[东台]</sup> 服输；服气。参见“服赌”和“不服周”。  
 1. 【[服周](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_zheu.md#服周)】`foh8 zheu1` <sup>[兴化]</sup> 即伏死。“周”为“周而复始”的首字，“始”与“死”同音：你不～，板砖头砸天去！  
 1. 【[丰利场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_li_chan.md#丰利场)】`fon1 li6 chan2` <sup>[如东]</sup> 宋太祖赵匡胤乾德年间（967年），建立如皋县丰利盐场。面积805平方公里。隶属于淮南东路泰州军。民国元年（1912年），丰利场并入掘港场，称丰掘场。  
@@ -900,7 +900,7 @@
 1. 【[疯婆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_pu_r.md#疯婆<sub>儿</sub>)】`fon1 pu2 r` <sup>[如东]</sup> 不稳重的女人。  
 1. 【[疯婆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_pu_r.md#疯婆<sub>儿</sub>)】`fon1 pu2 r` <sup>[如皋]</sup> 昵指过分活泼带点粗狂的女性，多指小女孩。  
 1. 【[疯婆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_pu_r.md#疯婆<sub>儿</sub>)】`fon1 pu2 r` <sup>[泰县]</sup> 不稳重的妇女：这人是个～。  
-1. 【[疯婆<sub>儿</sub>㧕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_pu_r_lieu.md#疯婆<sub>儿</sub>㧕)】`fon1 pu2 r lieu3` <sup>[如东]</sup> 轻狂的女人：不要像个～是的。  
+1. 【[疯婆<sub>儿</sub>搂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_pu_r_leu.md#疯婆<sub>儿</sub>搂)】`fon1 pu2 r leu3` <sup>[如东]</sup> 轻狂的女人：不要像个～是的。  
 1. 【[疯情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_qien.md#疯情)】`fon1 qien2` <sup>[如皋]</sup> 母畜发情时狂燥不安的样子。  
 1. 【[疯事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_shr.md#疯事)】`fon1 shr6` <sup>[如皋]</sup> 见“疯”。指小孩贪玩无节制。  
 1. 【[疯痰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_taen.md#疯痰)】`fon1 taen2` <sup>[兴化]</sup> 精神失常：他两眼失神，嘴里叽叽咕咕的乱说，像是得咖～。｜……凡是～，心窍塞住了，两个眼睛就没神了……（扬二《古城会》）  

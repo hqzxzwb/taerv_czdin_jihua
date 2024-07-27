@@ -116,7 +116,7 @@
 1. 【[㨟灰耙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_huei_pa.md#㨟灰耙)】`gae1 huei1 pa2` <sup>[泰县]</sup> 木制的扒灰的用具。  
 1. 【[㨟耙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_pa.md#㨟耙)】`gae1 pa2` <sup>[如皋]</sup> 闸门形耙。2-3人操作，前拉后推，用以聚榖物等。  
 1. 【[㨟屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_shr.md#㨟屎)】`gae1 shr3` <sup>[如东]</sup> 把大便向旁边推移。多指猪屎。  
-1. 【[㨟屎耙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_shr_pa.md#㨟屎耙)】`gae1 shr3 pa2` <sup>[如东]</sup> 㧕扒猪圈中猪屎的工具。有齿，有柄，形似爪耙。  
+1. 【[㨟屎耙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_shr_pa.md#㨟屎耙)】`gae1 shr3 pa2` <sup>[如东]</sup> 搅扒猪圈中猪屎的工具。有齿，有柄，形似爪耙。  
 1. 【[杚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae.md#杚)】`gae1` <sup>[如东]</sup> 量谷物时用以刮平斗斛的工具。  
 1. 【[稭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae.md#稭)】`gae1` 农作物秸秆：豆～  
 1. 【[稭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_zz.md#稭子)】`gae1 zz` <sup>[东台]</sup> 农作物脱粒后剩下的茎叶：～要还田，不能随意焚烧。  
@@ -1731,9 +1731,9 @@
 1. 【[关面子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_min_zz.md#关面子)】`guaen1 min6 zz` <sup>[兴化]</sup> 照顾情面：给他～，弄个三等奖。｜他不～，以为别人也不要脸皮……（钱国怀：《家怨》）  
 1. 【[关目](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_moh.md#关目)】`guaen1 moh` <sup>[如皋]</sup> ① 状婴儿的某些表情动作：小家伙睏吖，一刻儿眨眼、一刻儿又笑，在下做～。 ② 故弄玄虚、玩嘘头、卖关子。  
 1. 【[关目](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_moh.md#关目)】`guaen1 moh` <sup>[兴化]</sup> ① 礼节、仪式：旧式的婚礼～多唻，一步也错不得。 ② 花样：他的～最多，有点儿真名其妙。  
-1. 【[关目三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_moh_saen.md#关目三)】`guaen1 moh7 saen1` <sup>[东台]</sup> 也叫“关目”，或称噱头、不可告人的名堂：朋友之间还是坦诚相见好，不要玩～。  
 1. 【[关目刀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_moh_do_r.md#关目刀<sub>儿</sub>)】`guaen1 moh8 do1 r` <sup>[如东]</sup> 示意一种信息：他在下做～。  
 1. 【[关目三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_moh_saen.md#关目三)】`guaen1 moh8 saen1` <sup>[如皋]</sup> ① 代指事物：他家店里吃的穿的用的，甚的～总有。 ② 同“关目”❷。  
+1. 【[关目三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_moh_saen.md#关目三)】`guaen1 moh8 saen1` <sup>[东台]</sup> 也叫“关目”，或称噱头、不可告人的名堂：朋友之间还是坦诚相见好，不要玩～。  
 1. 【[关目三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_moh_saen.md#关目三)】`guaen1 moh8 saen1` <sup>[兴化]</sup> 花样，名目：他的～多，几天翻一个花样。  
 1. 【[关目三<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_moh_saen_r.md#关目三<sub>儿</sub>)】`guaen1 moh8 saen1 r` <sup>[泰县]</sup> 鬼点子：他真有点～。  
 1. 【[关碍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_ngae.md#关碍)】`guaen1 ngae6` <sup>[兴化]</sup> ① 阻碍：你俫的婚事如果遇到～，我一定出来调停。 ② 有碍于：丁母～着北侠，不好推托。（《三侠五义》六四）  

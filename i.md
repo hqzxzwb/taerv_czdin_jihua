@@ -1278,7 +1278,7 @@
 1. 【[一𢱉一𢱉的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_vae_ieh_vae_dii.md#一𢱉一𢱉的)】`ieh7 vae3 ieh7 vae3 dii` <sup>[如皋]</sup> 走路摇摆的样子。  
 1. 【[一汪亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_van_lian.md#一汪亮)】`ieh7 van1 lian6` <sup>[如皋]</sup> 一片亮光：瞎子磨刀——～。  
 1. 【[一网打啊皂壳树上去啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_van_da_a_co_kah_shv_shan_qy_a.md#一网打啊皂壳树上去啊)】`ieh7 van3 da3 a co6 kah7 shv6 shan qy5 a` <sup>[如皋]</sup> 彻底绝望了。  
-1. 【[一物降一物](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_veh_qian_ieh_veh.md#一物降一物)】`ieh7 veh8 qian2 ieh7 veh8` <sup>[东台]</sup> 尽管本领很大，但终究有克星能够降服它。  
+1. 【[一物降一物](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_veh_xian_ieh.md#一物降一物)】`ieh7 veh8 xian2 ieh7 veh8` <sup>[东台]</sup> 尽管本领很大，但终究有克星能够降服它。  
 1. 【[一问三不知](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_ven_saen_beh_zhr.md#一问三不知)】`ieh7 ven6 saen1 beh7 zhr1` <sup>[东台]</sup> 问什么都不知道。  
 1. 【[一些时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_xia_shr.md#一些时)】`ieh7 xia shr2` <sup>[兴化]</sup> 一段时间：过了～，他真的去跟刘所长去提意见了。（汪曾祺《王全》）‖也作“一向时”。  
 1. 【[一下江东](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_xia_jian_don.md#一下江东)】`ieh7 xia6 jian1 don1` <sup>[兴化]</sup> 起初、开始：你俫两个人相好，我～就制止过，你俫不听。  
@@ -2091,7 +2091,7 @@
 1. 【[掩门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_men.md#掩门)】`in3 men2` <sup>[如东]</sup> 把门拉拢，不加闩锁：你走的时侯要～。  
 1. 【[掩门方](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_men_fan.md#掩门方)】`in3 men2 fan1` <sup>[如东]</sup> 门栊。  
 1. 【[掩密](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_mieh.md#掩密)】`in3 mieh8` <sup>[兴化]</sup> 隐蔽不外露：你囥钱的地方不～，露啊白。｜“你们做事也该放～一些，怎么就都睡着了，使老爹看见……”（《梼杌闲评》十五）  
-1. 【[掩人耳目](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_ren_er_moh.md#掩人耳目)】`in3 ren2 er3 moh7` <sup>[东台]</sup> ［喻］以假象蒙骗别人  
+1. 【[掩人耳目](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_ren_er_moh.md#掩人耳目)】`in3 ren2 er3 moh8` <sup>[东台]</sup> ［喻］以假象蒙骗别人  
 1. 【[掩细](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_xi.md#掩细)】`in3 xi5` <sup>[兴化]</sup> 仔细、缜密：在外头做事要处处～，不要让家里人挂念。  
 1. 【[躽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in.md#躽)】`in3` <sup>[兴化]</sup> 俏俏地行进：他～进来，一家子都不曾注意。《广韵·铣韵》於殄切“～，身向前也。”  
 1. 【[魇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in.md#魇)】`in3` <sup>[东台]</sup> 睡眠中做的一种感到压抑而呼吸困难的梦：睡吖～住啊。（《广韵》於琰切，“睡中魇也。”）  

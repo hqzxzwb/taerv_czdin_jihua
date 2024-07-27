@@ -527,7 +527,7 @@
 1. 【[口里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_lii.md#口里)】`keu3 lii` <sup>[如东]</sup> 嘴里：不要把脏东西往～放。  
 1. 【[口老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_lo.md#口老)】`keu3 lo3` <sup>[兴化]</sup> ① 刀斧等钢火较老。 ② 衣服的边缝得较宽。 ③ 牛马等牲畜年岁较大。反之“口小”。  
 1. 【[口门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_men.md#口门)】`keu3 men2` <sup>[兴化]</sup> 靠近出口的部位：锣声一震，船便开行，出了瓜州～，己是午饭时候。（《广陵潮》二九）  
-1. 【[口目境](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_moh_jien.md#口目境)】`keu3 moh jien3` <sup>[如皋]</sup> 口边。  
+1. 【[口目境](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_moh_jien.md#口目境)】`keu3 moh jien5, keu3 moh jien3` <sup>[如皋]</sup> 口边。  
 1. 【[口嫩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_nen.md#口嫩)】`keu3 nen6` <sup>[如东]</sup> 比喻不老练：这个伢儿～，不能担当这种重任。  
 1. 【[口嫩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_nen.md#口嫩)】`keu3 nen6` <sup>[兴化]</sup> 不善言辞，说话抓不住要领。  
 1. 【[口眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_ngaen.md#口眼)】`keu3 ngaen3` <sup>[如东]</sup> 办法，花头：不要做～吖。  
@@ -1031,7 +1031,7 @@
 1. 【[旷为](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan_vei.md#旷为)】`kuan5 vei2` <sup>[东台]</sup> 铺张浪费；超越自身能力或职权范围办事：刚找工作就买高档车，有点～吧！  
 1. 【[旷为](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan_vei.md#旷为)】`kuan5 vei2` <sup>[泰县]</sup> 浪费。  
 1. 【[旷职](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan_zheh.md#旷职)】`kuan5 zheh7` <sup>[东台]</sup> 擅离职守。  
-1. 【[矻𡔇<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kueh_lae_r.md#矻𡔇<sub>儿</sub>)】`kueh7 lae3 r, kuae5 lae3 r` <sup>[东台]</sup> 土块，引申为块状或疙瘩状的东西。本字疑为“块垒”：把泥～耧碎｜玉米䜺儿粥不㧕容易起～。  
+1. 【[矻𡔇<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kueh_lae_r.md#矻𡔇<sub>儿</sub>)】`kueh7 lae3 r, kuae5 lae3 r` <sup>[东台]</sup> 土块，引申为块状或疙瘩状的东西。本字疑为“块垒”：把泥～耧碎｜玉米䜺儿粥不搂容易起～。  
 1. 【[矻𡔇子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kueh_laeh_zz.md#矻𡔇子)】`kueh7 laeh zz` <sup>[兴化]</sup> ① 块状物、疙瘩：䜺子粥里有～。｜浆糊里有～。 ② 土石块：烂泥～｜石头～。矻，《集韵·没韵》苦骨切｜石也。𡔇《集韵·队韵》卢对切｜块也。  
 1. 【[矻𡔇<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kueh_laen_r.md#矻𡔇<sub>儿</sub>)】`kueh7 laen3 r` <sup>[泰县]</sup> 疙瘩。  
 1. 【[矻垃子风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kueh_leh_zz_fon.md#矻垃子风)】`kueh7 leh zz fon1` <sup>[如皋]</sup> 见“阵头子风”。  

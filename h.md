@@ -320,7 +320,7 @@
 1. 【[瞎话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haeh_hua.md#瞎话)】`haeh7 hua6` <sup>[如东]</sup> 没有根据的话：她说的都是～。  
 1. 【[瞎来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haeh_lae.md#瞎来)】`haeh7 lae2` <sup>[如东]</sup> 胡来：不要～。  
 1. 【[瞎来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haeh_lae.md#瞎来)】`haeh7 lae2` <sup>[兴化]</sup> 不依规矩行事：“这钱哩……多退少补……不会～的。”（钱国怀《儿子中专毕业》）｜“你这人真是～！我们的官是拿银子捐来的，又不是卖身……”（《官场现形记》八）  
-1. 【[瞎㧕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haeh_lieu.md#瞎㧕)】`haeh7 lieu3` <sup>[如东]</sup> 调皮，捣乱。  
+1. 【[瞎搂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haeh_leu.md#瞎搂)】`haeh7 leu3` <sup>[如东]</sup> 调皮，捣乱。  
 1. 【[瞎漤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haeh_lun.md#瞎漤)】`haeh7 lun3` <sup>[泰县]</sup> ① 不知实情乱纠缠：你不要～，这次招工轮不到你。 ② 不按规矩切割。  
 1. 【[瞎猫碰个死老鼠——不算本事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haeh_mo_pon_gu_sz_lo_chv_beh_sun_ben_shr.md#瞎猫碰个死老鼠——不算本事)】`haeh7 mo2 pon5 gu sz3 lo3 chv3 beh7 sun5 ben3 shr6` <sup>[东台]</sup>   
 1. 【[瞎猫<sub>儿</sub>碰吖个死老鼠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haeh_mo_r_pon_nga_gu_sz_lo_chv.md#瞎猫<sub>儿</sub>碰吖个死老鼠)】`haeh7 mo2 r pon5 nga gu sz3 lo3 chv3` <sup>[东台]</sup> 纯粹靠偶然机会，不是靠的真本事。  

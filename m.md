@@ -1658,7 +1658,6 @@
 1. 【[毷氉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_so.md#毷氉)】`mo6 so` <sup>[如皋]</sup> ① 天气闷热令人不适。 ② 烦躁不安：痱子～起来啊，伢儿在身上只抓。  
 1. 【[貌相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_xian.md#貌相)】`mo6 xian5` <sup>[兴化]</sup> 指人的相貌：这个小伙～不丑。  
 1. 【[貌相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_xian.md#貌相)】`mo6 xian5` <sup>[兴化]</sup> 从外表看人：人不可～，海水不可斗量。  
-1. 【[目目相蠚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_moh_xian_hah.md#目目相蠚)】`moh7 moh7 xian5 hah7` <sup>[东台]</sup> 指某物品制作精细，各部件之间无缝对接。（目，大项中的小项；蠚，靠近）  
 1. 【[嚜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh.md#嚜)】`moh8` <sup>[如皋]</sup> 蒙骗。  
 1. 【[嚜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh.md#嚜)】`moh8` <sup>[兴化]</sup> 欺骗、蒙蔽：你不要～人。｜捱他说咖～住啊。｜《集韵·德韵》密北切～，《博雅》～戾，欺也。今俗写作“木”。  
 1. 【[嚜住啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_chv_a.md#嚜住啊)】`moh8 chv6 a` <sup>[如皋]</sup> 被懵住，未能反应过来。  
@@ -1760,6 +1759,7 @@
 1. 【[目瞪痴獃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_den_chr_ngae.md#目瞪痴獃)】`moh8 den1 chr1 ngae2` <sup>[兴化]</sup> 呆笨、不灵敏：这个小伙～的，一点儿眼头见识没得。  
 1. 【[目瞪口呆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_den_keu_dae.md#目瞪口呆)】`moh8 den1 keu3 dae1` <sup>[东台]</sup> 瞪着眼睛说不出话，形容因吃惊或受气发愣。  
 1. 【[目力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_lieh.md#目力)】`moh8 lieh8` <sup>[东台]</sup> 视力。  
+1. 【[目目相蠚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_moh_xian_hah.md#目目相蠚)】`moh8 moh8 xian5 hah7` <sup>[东台]</sup> 指某物品制作精细，各部件之间无缝对接。（目，大项中的小项；蠚，靠近）  
 1. 【[目无尊长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_v_zuen_zhan.md#目无尊长)】`moh8 v2 zuen1 zhan3` <sup>[东台]</sup> 不把长辈放在眼里，形容狂妄无礼。  
 1. 【[穆色布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_seh_bv.md#穆色布)】`moh8 seh7 bv5` <sup>[如皋]</sup> 蓝灰色布。常用于戴孝。  
 1. 【[脉金](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_jien.md#脉金)】`moh8 jien1` <sup>[东台]</sup> 旧时给中医看病的酬金。  

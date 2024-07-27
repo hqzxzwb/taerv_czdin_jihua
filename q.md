@@ -514,7 +514,6 @@
 1. 【[详梦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_mon.md#详梦)】`qian2 mon6` <sup>[如皋]</sup> 对梦境作分析推理，以判断凶吉。  
 1. 【[详梦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_mon.md#详梦)】`qian2 mon6` <sup>[东台]</sup> 解说梦中的吉凶：夜里做啊个噩梦，请你帮我详下子。  
 1. 【[详梦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_mon.md#详梦)】`qian2 mon6` <sup>[兴化]</sup> （迷信）分析梦境，判断吉凶，或猜测所预示的征兆。  
-1. 【[降伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_foh.md#降伏)】`qian2 foh8` <sup>[东台]</sup> 制伏；使驯服。  
 1. 【[抢场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_chan.md#抢场)】`qian3 chan2` <sup>[如皋]</sup> 赶紧收场，免遭雷雨。  
 1. 【[抢场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_chan.md#抢场)】`qian3 chan2` <sup>[兴化]</sup> 风雨到来之前把打谷场上的粮食收拢、苫盖起来。  
 1. 【[抢词](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_cz.md#抢词)】`qian3 cz2` <sup>[兴化]</sup> 专拣有理的话说：你不要～，也听人家把理由摆摆。  

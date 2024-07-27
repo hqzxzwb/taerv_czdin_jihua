@@ -995,9 +995,31 @@
 1. 【[楼房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_fan.md#楼房)】`leu2 fan2` <sup>[如东]</sup> 两层以上的房屋。  
 1. 【[楼扶梯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_fv_ti_zz.md#楼扶梯子)】`leu2 fv2 ti1 zz` <sup>[兴化]</sup> 楼梯。  
 1. 【[蝼鸭<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_ngaeh_r.md#蝼鸭<sub>儿</sub>)】`leu2 ngaeh7 r` <sup>[如东]</sup> 蝼蛄科昆虫蝼蛄，也叫土狗儿。  
+1. 【[搂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu.md#搂)】`leu3` 搅拌  
+1. 【[搂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu.md#搂)】`leu3` <sup>[如东]</sup> 玩闹，戏弄，嬲打。  
+1. 【[搂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu.md#搂)】`leu3` <sup>[如皋]</sup> ① 小孩玩耍、顽皮：这伢儿～得汗冒冒的；这伢儿死～！ ② 胡闹：这个丫头不讲理，～得公婆家鸡飞狗跳的。 ③ 使水平圈转：～糊粉。～浆糊。  
+1. 【[搂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu.md#搂)】`leu3` <sup>[如皋]</sup> 玩耍，嬉闹。  
+1. 【[搂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu.md#搂)】`leu3` <sup>[兴化]</sup> ① 搅动：～浆糊｜～焦糏。 ② 炒：～豆子；～花生。 ③ 揭露、捅出：吵啊吵的，把家里的丑事全～出去啊。口语一般念leu3 ，俗作“搂”。  
+1. 【[搂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu.md#搂)】`leu3` <sup>[泰县]</sup> 搅。  
+1. 【[搂啊浑吖汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_a_huen_nga.md#搂啊浑吖汤)】`leu3 a huen2 nga tan1` <sup>[东台]</sup> 形容被搅乱得一塌糊涂。  
+1. 【[搂陈屎缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_chen_shr_gan.md#搂陈屎缸)】`leu3 chen2 shr3 gan1` <sup>[如皋]</sup> 揭短、揭事、揭老底。  
+1. 【[搂陈屎缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_chen_shr_gan.md#搂陈屎缸)】`leu3 chen2 shr3 gan1` <sup>[兴化]</sup> （喻）互相揭短：他俫两个人～把丑事全抖出来啊。  
+1. 【[搂家窝子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_ga_u_zz.md#搂家窝子)】`leu3 ga1 u1 zz` <sup>[兴化]</sup> 内部的人互相争斗。  
+1. 【[搂鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_guei.md#搂鬼)】`leu3 guei3` <sup>[如东]</sup> 调皮捣蛋：你不要～。  
+1. 【[搂糊粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_hv_fen.md#搂糊粉)】`leu3 hv2 fen3` <sup>[东台]</sup> ［喻］搞得一塌糊涂。  
+1. 【[搂碌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_loh.md#搂碌)】`leu3 loh` <sup>[泰县]</sup> 儿童调皮。  
+1. 【[搂麻花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_ma_hua.md#搂麻花)】`leu3 ma2 hua1` <sup>[兴化]</sup> ① 炒玉米花。 ② （喻）形容人声嘈杂：覅吵覅吵！倒像～！  
 1. 【[搂莽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_man.md#搂莽)】`leu3 man3` 稍微，不仔细的  
 1. 【[搂莽一相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_man_ieh_xian.md#搂莽一相)】`leu3 man3 ieh7 xian5` 乍一看  
 1. 【[搂莽搂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_man_leu.md#搂莽搂)】`leu3 man3 leu3` <sup>[如东]</sup> 突然：他～的抓住啊我的手。  
+1. 【[搂起来算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_qi_lae_sun.md#搂起来算)】`leu3 qi3 lae2 sun5` <sup>[东台]</sup> 合在一起计算。  
+1. 【[搂屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_shr.md#搂屎)】`leu3 shr3` <sup>[泰县]</sup> 闹事：这人最会～。  
+1. 【[搂屎缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_shr_gan.md#搂屎缸)】`leu3 shr3 gan1` <sup>[东台]</sup> ［喻］到处散布丑闻，把某人名声搞臭。  
+1. 【[搂事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_shr.md#搂事)】`leu3 shr6-1` <sup>[如东]</sup> 作梗，捣乱。  
+1. 【[搂事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_shr.md#搂事)】`leu3 shr6` <sup>[如皋]</sup> ① 小孩淘气、玩恶作剧。 ② 成年人干不正经的事：他在外头～，把个家总㧕啊穷吖。  
+1. 【[搂事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_shr.md#搂事)】`leu3 shr6` <sup>[东台]</sup> 故意惹是生非。  
+1. 【[搂污子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_v_zz.md#搂污子)】`leu3 v1 zz` <sup>[东台]</sup> 破坏、折腾：有人～，这件事拖到现在还不曾办。  
+1. 【[搂线车<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_xin_cha_r.md#搂线车<sub>儿</sub>)】`leu3 xin5 cha1 r` <sup>[东台]</sup> ［喻］胡搅、挑事，闹纠纷。  
 1. 【[篓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_r.md#篓<sub>儿</sub>)】`leu3 r` <sup>[如东]</sup> 工具。柳条编成，一般圆形，有口，无盖．用以盛物。  
 1. 【[漏疮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_chuan.md#漏疮)】`leu6 chuan1` <sup>[如东]</sup> 肛漏的通称。  
 1. 【[漏春年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_chuen_nin.md#漏春年)】`leu6 chuen1 nin2` <sup>[东台]</sup> 春节后才立春的年头。  
@@ -1488,28 +1510,6 @@
 1. 【[瘤肚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_dv_r.md#瘤肚<sub>儿</sub>)】`lieu2 dv3 r` <sup>[如皋]</sup> 牛的瘤胃。  
 1. 【[瘤瘤㧟㧟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_lieu_kuae_kuae.md#瘤瘤㧟㧟)】`lieu2 lieu2 kuae3 kuae3` <sup>[东台]</sup> 本指生物体某些部位因病变增生而不平整的样子，喻指感到累赘的部分。  
 1. 【[瘤生瀖泡的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_shen_huah_po_dii.md#瘤生瀖泡的)】`lieu2 shen1 huah7 po1 dii` <sup>[如皋]</sup> 常指烫伤后出现的水肿和水泡。  
-1. 【[㧕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu.md#㧕)】`lieu3` 搅拌  
-1. 【[㧕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu.md#㧕)】`lieu3` <sup>[如东]</sup> 玩闹，戏弄，嬲打。  
-1. 【[㧕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu.md#㧕)】`lieu3` <sup>[如皋]</sup> ① 小孩玩耍、顽皮：这伢儿～得汗冒冒的；这伢儿死～！ ② 胡闹：这个丫头不讲理，～得公婆家鸡飞狗跳的。 ③ 使水平圈转：～糊粉。～浆糊。  
-1. 【[㧕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu.md#㧕)】`lieu3` <sup>[如皋]</sup> 玩耍，嬉闹。  
-1. 【[㧕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu.md#㧕)】`lieu3` <sup>[兴化]</sup> ① 搅动：～浆糊｜～焦糏。 ② 炒：～豆子；～花生。 ③ 揭露、捅出：吵啊吵的，把家里的丑事全～出去啊。口语一般念leu3 ，俗作“搂”。  
-1. 【[㧕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu.md#㧕)】`lieu3` <sup>[泰县]</sup> 搅：把水龙头～咖子。  
-1. 【[㧕啊浑吖汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_a_huen_nga_tan.md#㧕啊浑吖汤)】`lieu3 a huen2 nga tan1` <sup>[东台]</sup> 形容被搅乱得一塌糊涂。  
-1. 【[㧕陈屎缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_chen_shr_gan.md#㧕陈屎缸)】`lieu3 chen2 shr3 gan1` <sup>[如皋]</sup> 揭短、揭事、揭老底。  
-1. 【[㧕陈屎缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_chen_shr_gan.md#㧕陈屎缸)】`lieu3 chen2 shr3 gan1` <sup>[兴化]</sup> （喻）互相揭短：他俫两个人～把丑事全抖出来啊。  
-1. 【[㧕家窝子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_ga_u_zz.md#㧕家窝子)】`lieu3 ga1 u1 zz` <sup>[兴化]</sup> 内部的人互相争斗。  
-1. 【[㧕鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_guei.md#㧕鬼)】`lieu3 guei3` <sup>[如东]</sup> 调皮捣蛋：你不要～。  
-1. 【[㧕糊粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_hv_fen.md#㧕糊粉)】`lieu3 hv2 fen3` <sup>[东台]</sup> ［喻］搞得一塌糊涂。  
-1. 【[㧕碌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_loh.md#㧕碌)】`lieu3 loh` <sup>[泰县]</sup> 儿童调皮。  
-1. 【[㧕麻花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_ma_hua.md#㧕麻花)】`lieu3 ma2 hua1` <sup>[兴化]</sup> ① 炒玉米花。 ② （喻）形容人声嘈杂：覅吵覅吵！倒像～！  
-1. 【[㧕起来算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_qi_lae_sun.md#㧕起来算)】`lieu3 qi3 lae2 sun5` <sup>[东台]</sup> 合在一起计算。  
-1. 【[㧕屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_shr.md#㧕屎)】`lieu3 shr3` <sup>[泰县]</sup> 闹事：这人最会～。  
-1. 【[㧕屎缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_shr_gan.md#㧕屎缸)】`lieu3 shr3 gan1` <sup>[东台]</sup> ［喻］到处散布丑闻，把某人名声搞臭。  
-1. 【[㧕事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_shr.md#㧕事)】`lieu3 shr6-1` <sup>[如东]</sup> 作梗，捣乱。  
-1. 【[㧕事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_shr.md#㧕事)】`lieu3 shr6` <sup>[如皋]</sup> ① 小孩淘气、玩恶作剧。 ② 成年人干不正经的事：他在外头～，把个家总㧕啊穷吖。  
-1. 【[㧕事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_shr.md#㧕事)】`lieu3 shr6` <sup>[东台]</sup> 故意惹是生非。  
-1. 【[㧕污子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_v_zz.md#㧕污子)】`lieu3 v1 zz` <sup>[东台]</sup> 破坏、折腾：有人～，这件事拖到现在还不曾办。  
-1. 【[㧕线车<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_xin_cha_r.md#㧕线车<sub>儿</sub>)】`lieu3 xin5 cha1 r` <sup>[东台]</sup> ［喻］胡搅、挑事，闹纠纷。  
 1. 【[柳叶眉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_ih_mi.md#柳叶眉)】`lieu3 ih8 mi2` <sup>[如东]</sup> 眉毛细长，妤像柳叶一样，叫柳叶眉。  
 1. 【[柳敬亭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_jien_tien.md#柳敬亭)】`lieu3 jien5 tien2` <sup>[东台]</sup> 东台人，明末清初我国一代评话宗师。本姓曹，原居南通余西场，后迁东台鹤落瑜曹家庄，取名永昌，字葵宇。擅长说楚汉、隋唐、水浒故事，说书技艺精湛。  
 1. 【[柳杉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_shaen.md#柳杉)】`lieu3 shaen1` <sup>[如东]</sup> 柳科植物柳杉，常绿大乔木。  
@@ -2624,7 +2624,7 @@
 1. 【[那一向](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_ieh_xian.md#那一向)】`lu5 ieh7 xian5` <sup>[东台]</sup> 那一段时间：～天气不好，耽误啊一些事情。  
 1. 【[那月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_iuh.md#那月)】`lu5 iuh8` <sup>[如东]</sup> 那一个月：是～动身的。  
 1. 【[那境](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_jien.md#那境)】`lu5 jien` 那边，那面，那里  
-1. 【[那境](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_jien.md#那境)】`lu5 jien3` <sup>[如皋]</sup> ① 也说lu5 jin3。那边，那一方。 ② 阴间  
+1. 【[那境](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_jien.md#那境)】`lu5 jien5` <sup>[如皋]</sup> ① 也说lu5 jin5。那边，那一方。 ② 阴间  
 1. 【[那刻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_keh_r.md#那刻<sub>儿</sub>)】`lu5 keh9 r` <sup>[如皋]</sup> 那时，那会儿。  
 1. 【[那块](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_kuae.md#那块)】`lu5 kuae` <sup>[如东]</sup> 那里。  
 1. 【[那块](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_kuae.md#那块)】`lu5 kuae5` <sup>[如东]</sup> 那里。  

@@ -601,7 +601,7 @@
 1. 【[矮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_zz.md#矮子)】`ngae3 zz` <sup>[如皋]</sup> 喻身份低人一等：大家都去应酬，我不做～。  
 1. 【[矮子里头选将军](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_zz_li_teu_xiun_jian_jyen.md#矮子里头选将军)】`ngae3 zz li3 teu xiun3 jian1 jyen1` <sup>[东台]</sup> 喻指相对而言，差中选好。  
 1. 【[爱忱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_chen.md#爱忱)】`ngae5 chen` <sup>[如皋]</sup> 对人的看重、关爱：她～你有钱。  
-1. 【[爱好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_ho.md#爱好)】`ngae5 ho3` <sup>[如皋]</sup> ① 指整齐、整洁：伢儿不～，脏吖死啊。 ② 爱惜：伢儿～，新衣裳上吖身就不瞎㧕，生怕弄吖坏啊。  
+1. 【[爱好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_ho.md#爱好)】`ngae5 ho3` <sup>[如皋]</sup> ① 指整齐、整洁：伢儿不～，脏吖死啊。 ② 爱惜：伢儿～，新衣裳上吖身就不瞎搂，生怕弄吖坏啊。  
 1. 【[爱好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_ho.md#爱好)】`ngae5 ho3` <sup>[兴化]</sup> 指人顾惜体面，注意仪表：王家二新妇真～，跑出来总是格格铮铮的。  
 1. 【[爱好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_ho.md#爱好)】`ngae5 ho5` <sup>[如东]</sup> 对某种事物有浓厚的兴趣：～游泳。  
 1. 【[爱敬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_jien.md#爱敬)】`ngae5 jien` <sup>[如东]</sup> 非常爱护：兰兰对这块丝巾非常～。  
@@ -1839,7 +1839,7 @@
 1. 【[闹蛼螯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_cha_ngo.md#闹蛼螯)】`no6 cha1 ngo` <sup>[如东]</sup> 捕取蛼螯的一种方式。双脚在海滩上踩动，使沙泥变软，将埋藏在沙泥中的蛼螯挤出来捕捉。  
 1. 【[闹嘈嘈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_co_co.md#闹嘈嘈)】`no6 co2 co1` <sup>[兴化]</sup> 吵嚷、喧哗：脚踏楼梯步步高，耳听金鸡～……（兴文《上梁嗑子》）  
 1. 【[闹发](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_faeh.md#闹发)】`no6 faeh7` <sup>[兴化]</sup> 水乡婚俗，喜宴后闹新房。俗曰：～～，闹啊才能发（财）。（见《兴化市志·民俗》）  
-1. 【[闹家窝子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_ga_u_zz.md#闹家窝子)】`no6 ga1 u1 zz` <sup>[兴化]</sup> 内部的人互相争斗。也说“㧕家窝子”。  
+1. 【[闹家窝子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_ga_u_zz.md#闹家窝子)】`no6 ga1 u1 zz` <sup>[兴化]</sup> 内部的人互相争斗。也说“搂家窝子”。  
 1. 【[闹海](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_hae.md#闹海)】`no6 hae3` <sup>[如皋]</sup> 代指下河洗澡。源自“哪吒闹海”。现也指去浴室洗澡。  
 1. 【[闹海](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_hae.md#闹海)】`no6 hae3` <sup>[东台]</sup> 旧时指在澡堂子里洗澡。  
 1. 【[闹海](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_hae.md#闹海)】`no6 hae3` <sup>[兴化]</sup> （戏）洗澡。此说源自《封神演义》第十二回哪吒闹海的故事。  

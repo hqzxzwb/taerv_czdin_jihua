@@ -374,7 +374,7 @@
 1. 【[下大礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_da_li.md#下大礼)】`xia6 da6 li3` <sup>[如皋]</sup> ① 行跪拜礼。 ② 行三跪九叩首之礼。  
 1. 【[下裆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_dan.md#下裆)】`xia6 dan1` <sup>[如皋]</sup> 裤腿相夹处。见“胯塴”。  
 1. 【[下裆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_dan.md#下裆)】`xia6 dan1` <sup>[如皋]</sup> 胯下。  
-1. 【[下得去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_deh_qy.md#下得去)】`xia6 deh qy5` <sup>[兴化]</sup> 能够摆脱窘境：“……我索性一不做，二不休，闹他一场，看晋芳怎样～”（《广陵潮》九三）｜和“下不去”对举，表两种可能情况｜他不问你～，下不去，想到就说。  
+1. 【[下得去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_deh_qy.md#下得去)】`xia6 deh qy5` <sup>[兴化]</sup> ① 能够摆脱窘境：“……我索性一不做，二不休，闹他一场，看晋芳怎样～”（《广陵潮》九三） ② 和“下不去”对举，表两种可能情况：他不问你～，下不去，想到就说。  
 1. 【[下朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_do.md#下朝)】`xia6 do` <sup>[如皋]</sup> 见“下二回”，如皋南乡话。  
 1. 【[下簖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_dun.md#下簖)】`xia6 dun5` <sup>[如东]</sup> 在河道的某一段按下簖网。  
 1. 【[下二回](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_er_huei.md#下二回)】`xia6 er6 huei` ① 下次 ② 以后（再也不）：～再也不吃烟吖。/以后再也不抽烟了。  
@@ -383,7 +383,7 @@
 1. 【[下饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_faen.md#下饭)】`xia6 faen6` 开胃口，合着饭吃，比较好吃、开胃。  
 1. 【[下饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_faen.md#下饭)】`xia6 faen6` <sup>[如东]</sup> 某种莱肴能够引起食欲，增加饭量：吃蟹渣能够～。  
 1. 【[下饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_faen.md#下饭)】`xia6 faen6` <sup>[东台]</sup> 菜肴可口，主食也吃得更快：今吖这几个菜蛮～的。  
-1. 【[下放](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_fan.md#下放)】`xia6 fan5` <sup>[泰兴]</sup> 把干部、知识分子放到基层、农村去锻炼、劳动。例：“那年他被安排到农村来下放  
+1. 【[下放](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_fan.md#下放)】`xia6 fan5` <sup>[泰兴]</sup> 把干部、知识分子放到基层、农村去锻炼、劳动：那年他被安排到农村来～劳动  
 1. 【[下风人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_fon_ren.md#下风人)】`xia6 fon1 ren2` <sup>[如皋]</sup> 腋臭患者。只能立于下风，其臭才不致影响在一起的人，故名。  
 1. 【[下风头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_fon_teu.md#下风头)】`xia6 fon1 teu2` <sup>[如皋]</sup> 物体被风吹向的地方：人家扬场，他站吖～吃灰，真笨。  
 1. 【[下家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_ga.md#下家)】`xia6 ga1` <sup>[如东]</sup> ① 坐在自己右手边的人。 ② 主谋人：你要交出～。 ③ 窝家：这许是他俫的～。  
@@ -701,6 +701,7 @@
 1. 【[香烛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_zhoh.md#香烛)】`xian1 zhoh7` <sup>[东台]</sup> 敬神或祖先的香和蜡烛。  
 1. 【[香纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_zhr.md#香纸)】`xian1 zhr3` <sup>[兴化]</sup> （迷信）用来敬神的香烛、黄元之类：请～上庙敬香。  
 1. 【[香嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_zuei.md#香嘴)】`xian1 zuei3` <sup>[兴化]</sup> 亲嘴。  
+1. 【[降伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_foh.md#降伏)】`xian2 foh8` <sup>[东台]</sup> 制伏；使驯服。  
 1. 【[□棺材](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_gun_cae.md#□棺材)】`xian3 gun1 cae` <sup>[如皋]</sup> 给棺材𧂐缝、油漆。  
 1. 【[享福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_foh.md#享福)】`xian3 foh7` <sup>[如东]</sup> ① 生活安乐美好。 ② 享受幸福。  
 1. 【[享老福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_lo_foh.md#享老福)】`xian3 lo3 foh7` <sup>[如皋]</sup> 见“老福”。  
