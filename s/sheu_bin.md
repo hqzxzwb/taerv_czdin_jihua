@@ -4,6 +4,6 @@ sheu1 bin1
 - 见“收头”。
 
 # 寿匾
-sheu3 bin3
+sheu6 bin3
 > 如皋方言词典
 - 祝寿的匾额。

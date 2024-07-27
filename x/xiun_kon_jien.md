@@ -1,5 +1,5 @@
 # 悬空劲
-xiun2 kon1 jien6
+xiun2 kon jien5
 > 如皋方言词典
 - 高空作业的力度。
 - 手臂举高作业的力度。
