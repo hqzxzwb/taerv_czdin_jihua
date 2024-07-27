@@ -1,5 +1,5 @@
 # 手榴弹
-sheu3 lieu2 daen5
+sheu3 lieu2 taen6-daen5
 > 东台方言词典
 - 除本义外，喻指一瓶酒
   - 他好酒量，一颗～没问题！

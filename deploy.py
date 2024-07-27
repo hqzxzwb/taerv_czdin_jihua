@@ -104,7 +104,7 @@ def parse_pinyin(pinyin):
     return ", ".join(map(" ".join, product(*py_list)))
 
 meaning_pattern = r"\+ (?P<explanation>.+)\n(?P<body>(  .+\n)*)"
-sub_meaning_pattern = r"  \* (?P<source>.+)\n(    \+ (?P<supplement>.+)\n)?(?P<body>(    .+\n)*)"
+sub_meaning_pattern = r"(  \* (?P<source>.+)\n)?(    \+ (?P<supplement>.+)\n)?(?P<body>(    .+\n)*)"
 example_pattern = r"    - (?P<text>.+)\n"
 
 pattern_spec1 = r"^(> (?P<source>.+)\n)?(?P<body>(.+\n)*)"
@@ -154,7 +154,7 @@ def parse_cont(cont, fname, cz_ien):
                 examples = []
                 for example_match in re.finditer(example_pattern, sub_meaning_match.group('body')):
                     examples.append(example_match.group('text'))
-                sub_meanings.append(CzYSubMeaning(sub_meaning_match.group('source'), None, sub_meaning_match.group('supplement'), examples))
+                sub_meanings.append(CzYSubMeaning(sub_meaning_match.group('source') or "", None, sub_meaning_match.group('supplement'), examples))
             meanings.append(CzYMeaning(explanation, sub_meanings))
     else: # Spec 1
         match = re.match(pattern_spec1, body)
@@ -291,7 +291,7 @@ def shrink_source(source):
 
 def meaning_text(meaning):
     str = ""
-    source = "".join(f"\\[{shrink_source(sub.source)}\\]" for sub in meaning.subs if sub)
+    source = "".join(f"\\[{shrink_source(sub.source)}\\]" for sub in meaning.subs if sub and sub.source)
     if source:
         str = "<sup>" + source + "</sup>"
     str = str + meaning.explanation

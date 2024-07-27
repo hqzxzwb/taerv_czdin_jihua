@@ -1,5 +1,5 @@
 # 赌咒发誓
-dv3 zheu5 faeh7 shr5
+dv3 zheu5 faeh7 shr
 > 东台方言词典
 - 用赌咒证明自己的清白
   - 他常说谎，谁也不信他的～。
