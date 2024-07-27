@@ -6,10 +6,13 @@ guaen1 moh8 saen1
 - 同“关目”❷。
 
 # 关目三
-guaen1 moh7 saen1
+guaen1 moh8 saen1
 > 东台方言词典
 - 也叫“关目”，或称噱头、不可告人的名堂
   - 朋友之间还是坦诚相见好，不要玩～。
+<!--
+原文moh7
+-->
 
 # 关目三
 guaen1 moh8 saen1
