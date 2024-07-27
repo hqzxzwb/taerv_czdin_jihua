@@ -130,8 +130,8 @@
 1. 【[玉芦秫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_lv_xieh.md#玉芦秫)】`y6 lv2 xieh7` <sup>[泰县]</sup> 玉米。  
 1. 【[玉米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_mi.md#玉米)】`y6 mi` <sup>[如东]</sup> 禾本科植物玉蜀黍，一年生草本。高约4米。秤粗壮，直立。节间有髓。叶片长大，扁平，剑形。雄性囡锥花序顶生，雌性小穗孪生，排列于海绵状的穗轴上。颖果略呈扁球形。田间种植。  
 1. 【[玉米苞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_mi_bo_zz.md#玉米苞子)】`y6 mi3 bo1 zz` <sup>[如东]</sup> 玉米棒子外面的苞衣。  
-1. 【[玉米䜺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_mi_cae_r.md#玉米䜺<sub>儿</sub>)】`y6 mi3 cae3 r` <sup>[如东]</sup> 玉米磨成的碎粒。  
-1. 【[玉米䜺<sub>儿</sub>粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_mi_cae_r_zhoh.md#玉米䜺<sub>儿</sub>粥)】`y6 mi3 cae3 r zhoh7` <sup>[如东]</sup> 稀饭的一种。用玉米䜺儿和粳米煮成粥，营养丰富，并可作为一种医疗食品，经常吃，有益肺宁心调中开胃作用，治动脉硬化、高血脂症、冠心病等疾病。  
+1. 【[玉米䜺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_mi_chae_r.md#玉米䜺<sub>儿</sub>)】`y6 mi3 chae3 r` <sup>[如东]</sup> 玉米磨成的碎粒。  
+1. 【[玉米䜺<sub>儿</sub>粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_mi_chae_r_zhoh.md#玉米䜺<sub>儿</sub>粥)】`y6 mi3 chae3 r zhoh7` <sup>[如东]</sup> 稀饭的一种。用玉米䜺儿和粳米煮成粥，营养丰富，并可作为一种医疗食品，经常吃，有益肺宁心调中开胃作用，治动脉硬化、高血脂症、冠心病等疾病。  
 1. 【[玉米顶花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_mi_dien_hua.md#玉米顶花)】`y6 mi3 dien3 hua1` <sup>[如皋]</sup> 玉米植株顶上的雄花。  
 1. 【[玉米稭<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_mi_gae_r.md#玉米稭<sub>儿</sub>)】`y6 mi3 gae1 r` <sup>[如皋]</sup> 掰去玉米剩下的稭子。  
 1. 【[玉米稭<sub>儿</sub>棚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_mi_gae_r_pon.md#玉米稭<sub>儿</sub>棚)】`y6 mi3 gae1 r pon2` <sup>[如皋]</sup> 数棵玉米秸扎成一捆，数捆竖立于田头，成人字形或伞字形的棚，以便干燥作燃料谓之。  

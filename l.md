@@ -2781,7 +2781,7 @@
 1. 【[芦苇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_vei.md#芦苇)】`lv2 vei3` <sup>[如东]</sup> 禾本科植物芦苇。  
 1. 【[芦秫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_xieh.md#芦秫)】`lv2 xieh7` <sup>[东台]</sup> 台城周边及东蹲线以北对玉米的叫法，也叫“玉芦秫”。  
 1. 【[芦秫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_xieh.md#芦秫)】`lv2 xieh7` <sup>[兴化]</sup> 高粱。秫，《集韵·术韵》食律切：《说文》稷之黏者。  
-1. 【[芦秫䜺子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_xieh_cae_zz.md#芦秫䜺子)】`lv2 xieh7 cae3 zz` <sup>[兴化]</sup> 高粱的子实磨成的粉，可以汆粥，也可以蒸团：芦秫团。  
+1. 【[芦秫䜺子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_xieh_chae_zz.md#芦秫䜺子)】`lv2 xieh7 chae3 zz` <sup>[兴化]</sup> 高粱的子实磨成的粉，可以汆粥，也可以蒸团：芦秫团。  
 1. 【[芦秫稭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_xieh_gae_zz.md#芦秫稭子)】`lv2 xieh7 gae1 zz` <sup>[兴化]</sup> 去掉子实的高粱秸秆。  
 1. 【[芦笋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_xyen.md#芦笋)】`lv2 xyen3` <sup>[如东]</sup> 禾本科植物芦苇嫩苗。  
 1. 【[芦笋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_xyen.md#芦笋)】`lv2 xyen3` <sup>[如皋]</sup> 一种芦苇嫩笋，可食。  

@@ -43,14 +43,6 @@
 1. 【[财神日子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_shen_rih_zz.md#财神日子)】`cae2 shen2 rih8 zz` <sup>[兴化]</sup> 旧俗正月初五为～，家家黎明即起，忙于接财神，取一年中“财源茂盛”的吉兆。  
 1. 【[财神团<sub>儿</sub>、财神糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_shen_tun_r_cae_shen_go.md#财神团<sub>儿</sub>、财神糕)】`cae2 shen2 tun2 r cae2 shen2 go1` <sup>[如皋]</sup> 敬财神专做的米团和长方形米粉糕，上有财神像或图戳。  
 1. 【[财爻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_xio.md#财爻)】`cae2 xio` <sup>[兴化]</sup> 财气，“爻”为卦象。多作否定句式：这许不是～，你最好远处发财。  
-1. 【[䜺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_r.md#䜺<sub>儿</sub>)】`cae3 r` <sup>[如皋]</sup> 杂粮磨成的粒度较小的粉粒：玉米～、大麦～。䜺≠糁。见《现代汉语词典》。  
-1. 【[䜺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_r.md#䜺<sub>儿</sub>)】`cae3 r` <sup>[如东]</sup> 元麦、大麦、玉米等谷物经过碾磨，变成碎粒儿，这种粮食叫䜺儿。也叫䜺子。  
-1. 【[䜺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_r.md#䜺<sub>儿</sub>)】`cae3 r` <sup>[东台]</sup> 碾碎了的豆类、玉米或其他杂粮。也叫“䜺子”。  
-1. 【[䜺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_r.md#䜺<sub>儿</sub>)】`cae3 r` <sup>[泰县]</sup> 大元麦磨成的粉。  
-1. 【[䜺<sub>儿</sub>粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_r_zhoh.md#䜺<sub>儿</sub>粥)】`cae3 r zhoh7` <sup>[如皋]</sup> 用䜺儿煮的粥。又因谷物不同而异称玉米～、元麦～。  
-1. 【[䜺<sub>儿</sub>粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_r_zhoh.md#䜺<sub>儿</sub>粥)】`cae3 r zhoh7` <sup>[如东]</sup> 元麦、大麦或玉米䜺儿煮成的粥，黏韧而香醇，营养丰富。  
-1. 【[䜺<sub>儿</sub>粥没得血，这边𤒘那边喝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_r_zhoh_meh_deh_xiuh_zha_bin_duh_lu_bin_huh.md#䜺<sub>儿</sub>粥没得血，这边𤒘那边喝)】`cae3 r zhoh7 meh8 deh7 xiuh7 zha5 bin1 duh7 lu5 bin1 huh7` <sup>[东台]</sup> 玉米䜺儿粥可以一边煮一边吃。  
-1. 【[䜺子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_zz.md#䜺子)】`cae3 zz` <sup>[兴化]</sup> 磨碎的稻米、麦、玉米、高粱、豆类等：米～｜麦～｜芦秫～｜棒头～  
 1. 【[彩礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_li.md#彩礼)】`cae3 li3` <sup>[东台]</sup> 订婚时男家送给女家的财物。  
 1. 【[彩刨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_po.md#彩刨)】`cae3 po6` <sup>[兴化]</sup> 木工用来刨花边的刨子。  
 1. 【[彩水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_shuei.md#彩水)】`cae3 shuei3` <sup>[如皋]</sup> 踏水有奖比赛。彩，奖。  
@@ -550,6 +542,14 @@
 1. 【[柴笆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_ba.md#柴笆)】`chae2 ba1` <sup>[兴化]</sup> 用芦柴编的篱笆。  
 1. 【[柴草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_co.md#柴草)】`chae2 co3` <sup>[兴化]</sup> 整齐成捆的芦苇茎叶。  
 1. 【[柴骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_gueh.md#柴骨)】`chae2 gueh7` <sup>[兴化]</sup> ① 消瘦。 ② 由于骨骼小而显瘦：他生得～。  
+1. 【[䜺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_r.md#䜺<sub>儿</sub>)】`chae3 r` <sup>[如皋]</sup> 杂粮磨成的粒度较小的粉粒：玉米～、大麦～。䜺≠糁。见《现代汉语词典》。  
+1. 【[䜺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_r.md#䜺<sub>儿</sub>)】`chae3 r` <sup>[如东]</sup> 元麦、大麦、玉米等谷物经过碾磨，变成碎粒儿，这种粮食叫䜺儿。也叫䜺子。  
+1. 【[䜺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_r.md#䜺<sub>儿</sub>)】`chae3 r` <sup>[东台]</sup> 碾碎了的豆类、玉米或其他杂粮。也叫“䜺子”。  
+1. 【[䜺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_r.md#䜺<sub>儿</sub>)】`chae3 r` <sup>[泰县]</sup> 大元麦磨成的粉。  
+1. 【[䜺<sub>儿</sub>粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_r_zhoh.md#䜺<sub>儿</sub>粥)】`chae3 r zhoh7` <sup>[如皋]</sup> 用䜺儿煮的粥。又因谷物不同而异称玉米～、元麦～。  
+1. 【[䜺<sub>儿</sub>粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_r_zhoh.md#䜺<sub>儿</sub>粥)】`chae3 r zhoh7` <sup>[如东]</sup> 元麦、大麦或玉米䜺儿煮成的粥，黏韧而香醇，营养丰富。  
+1. 【[䜺<sub>儿</sub>粥没得血，这边𤒘那边喝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_r_zhoh_meh.md#䜺<sub>儿</sub>粥没得血，这边𤒘那边喝)】`chae3 r zhoh7 meh8 deh7 xiuh7 zha5 bin1 duh7 lu5 bin1 huh7` <sup>[东台]</sup> 玉米䜺儿粥可以一边煮一边吃。  
+1. 【[䜺子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_zz.md#䜺子)】`chae3 zz` <sup>[兴化]</sup> 磨碎的稻米、麦、玉米、高粱、豆类等：米～｜麦～｜芦秫～｜棒头～  
 1. 【[𠏾尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_xy.md#𠏾尿)】`chae6 xy1` <sup>[如东]</sup> 排泄小便。  
 1. 【[𠏾尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_xy.md#𠏾尿)】`chae6 xy1` <sup>[如皋]</sup> 排小便。  
 1. 【[𠏾尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_xy.md#𠏾尿)】`chae6 xy1` <sup>[东台]</sup> 解小便：带伢儿睡觉，夜里要拉他～。  
@@ -2567,7 +2567,7 @@
 1. 【[撮撮忙<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuh_cuh_man_r.md#撮撮忙<sub>儿</sub>)】`cuh8 cuh8 man2 r` <sup>[泰县]</sup> 帮忙。  
 1. 【[撮惑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuh_hoh.md#撮惑)】`cuh8 hoh` <sup>[东台]</sup> 煽动、唆使。  
 1. 【[汆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun.md#汆)】`cun1` <sup>[如东]</sup> 一种烹调方法。把食物放在沸水中稍微煮一下即捞起来。  
-1. 【[汆䜺子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_cae_zz.md#汆䜺子)】`cun1 cae3 zz` <sup>[兴化]</sup> 将䜺子均匀地撒入热水锅中，沸腾后即成䜺子（儿）粥。  
+1. 【[汆䜺子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_chae_zz.md#汆䜺子)】`cun1 chae3 zz` <sup>[兴化]</sup> 将䜺子均匀地撒入热水锅中，沸腾后即成䜺子（儿）粥。  
 1. 【[汆汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_tan.md#汆汤)】`cun1 tan1` <sup>[如东]</sup> 把鱼、虾等放在沸水中稍微煮一下即捞起来，汤里便有鱼、虾鲜味，这种方法叫做氽汤：黄鱼头～。  
 1. 【[汆汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_tan.md#汆汤)】`cun1 tan1` <sup>[东台]</sup> 把食物放在沸水中用短暂的时间涮一下：猪肝～，确实不错。  
 1. 【[汆汤面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_tan_min.md#汆汤面)】`cun1 tan1 min6` <sup>[如东]</sup> 煮面的一种方法。面条煮熟后，即用笊篱捞起来，放在冷水中急骤冷却，然后再放入热汤里加温，装入面碗，加调料。这种面，不会腻汤，口感柔韧。  

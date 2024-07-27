@@ -733,11 +733,11 @@
 1. 【[吃包<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_bo_r.md#吃包<sub>儿</sub>)】`qieh7 bo1 r` <sup>[如皋]</sup> 承担亏损、赔偿责任。  
 1. 【[吃包<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_bo_r.md#吃包<sub>儿</sub>)】`qieh7 bo1 r` <sup>[如东]</sup> 比喻因为自己的过错而由一人赔偿损失，叫做吃包儿。  
 1. 【[吃百家饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_boh_jia_faen.md#吃百家饭)】`qieh7 boh7 jia1 faen6` <sup>[如皋]</sup> 上门服务、交易，或以此挣钱过日子的手艺人。  
-1. 【[吃䜺<sub>儿</sub>粥还要图个门面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_cae_r_zhoh_hae_io_tv_gu_men_min.md#吃䜺<sub>儿</sub>粥还要图个门面)】`qieh7 cae3 r zhoh7 hae2 io5 tv2 gu men2 min6` <sup>[东台]</sup> 事情再小也要办得体面。  
 1. 【[吃苍蝇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_can_ien.md#吃苍蝇)】`qieh7 can1 ien` <sup>[东台]</sup> 中了别人圈套。（参见“放苍蝇”）。  
 1. 【[吃茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_cha.md#吃茶)】`qieh7 cha2` 喝白开水  
 1. 【[吃茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_cha.md#吃茶)】`qieh7 cha2` <sup>[如皋]</sup> ① 喝茶。喝开水。 ② 坐馆子，谈生意。  
 1. 【[吃茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_cha.md#吃茶)】`qieh7 cha2` <sup>[兴化]</sup> ① 饮茶：“娘子，怎地不过贫家～？”（《水浒传》二四） ② 上茶馆用早点：明朝我请你～。  
+1. 【[吃䜺<sub>儿</sub>粥还要图个门面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_chae_r_zhoh.md#吃䜺<sub>儿</sub>粥还要图个门面)】`qieh7 chae3 r zhoh7 hae2 io5 tv2 gu men2 min6` <sup>[东台]</sup> 事情再小也要办得体面。  
 1. 【[吃剩饭碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_chen_faen_un.md#吃剩饭碗)】`qieh7 chen5 faen6 un3` <sup>[如皋]</sup> 代别人将吃剩的饭吃掉。  
 1. 【[吃秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_chen.md#吃秤)】`qieh7 chen5` <sup>[如皋]</sup> 故意少秤，坑害顾客。  
 1. 【[吃冲羹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_chon_gen.md#吃冲羹)】`qieh7 chon5 gen1` <sup>[东台]</sup> ［喻］受到顶撞、责怪。  

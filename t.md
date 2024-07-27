@@ -1858,8 +1858,8 @@
 1. 【[讨饭货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_faen_hu.md#讨饭货)】`to3 faen6 hu5` <sup>[如东]</sup> 乞讨的人。不识好歹的人。  
 1. 【[讨饭容身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_faen_ion_shen.md#讨饭容身)】`to3 faen6 ion2 shen1` <sup>[如皋]</sup> 穷困潦倒、靠乞讨度日。  
 1. 【[讨饭容身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_faen_ion_shen.md#讨饭容身)】`to3 faen6 ion2 shen1` <sup>[如东]</sup> 穷困潦倒，以乞讨维持生活：他现在是～，日子难过。  
-1. 【[讨饭窠里抓䜺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_faen_ku_lii_zhua_cae_r.md#讨饭窠里抓䜺<sub>儿</sub>)】`to3 faen6 ku1 lii zhua1 cae3 r` <sup>[如皋]</sup> ① 比喻刮尽民财。 ② 比喻少得可怜，能有几何。也说“讨饭窠里扒（ba1）䜺儿”。  
-1. 【[讨饭袋<sub>儿</sub>里抓䜺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_faen_tae_r_lii_zhua_cae_r.md#讨饭袋<sub>儿</sub>里抓䜺<sub>儿</sub>)】`to3 faen6 tae6 r lii zhua1 cae3 r` <sup>[如皋]</sup> 见“讨饭窠里抓䜺儿”。  
+1. 【[讨饭窠里抓䜺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_faen_ku_lii.md#讨饭窠里抓䜺<sub>儿</sub>)】`to3 faen6 ku1 lii zhua1 chae3 r` <sup>[如皋]</sup> ① 比喻刮尽民财。 ② 比喻少得可怜，能有几何。也说“讨饭窠里扒（ba1）䜺儿”。  
+1. 【[讨饭袋<sub>儿</sub>里抓䜺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_faen_tae_r.md#讨饭袋<sub>儿</sub>里抓䜺<sub>儿</sub>)】`to3 faen6 tae6 r lii zhua1 chae3 r` <sup>[如皋]</sup> 见“讨饭窠里抓䜺儿”。  
 1. 【[讨饭碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_faen_un.md#讨饭碗)】`to3 faen6 un3` <sup>[如东]</sup> 拿着乞讨的碗。比喻职业、工作。  
 1. 【[讨饭形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_faen_xien.md#讨饭形)】`to3 faen6 xien2` <sup>[如东]</sup> 衣衫褴褛、边幅不修的形象。  
 1. 【[讨饭形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_faen_xien.md#讨饭形)】`to3 faen6 xien2` <sup>[兴化]</sup> 形容人衣衫槛楼、手脸污脏的样子：大河里水又不用钱买，不能洗啊？何必要作成个～！  

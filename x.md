@@ -2122,7 +2122,7 @@
 1. 【[碎瓷花瓶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xy_cz_hua_pien.md#碎瓷花瓶)】`xy5 cz2 hua1 pien2` <sup>[东台]</sup> 实指开片哥窑花瓶，喻指不能碰、惹不得的人。  
 1. 【[碎瓷碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xy_cz_un.md#碎瓷碗)】`xy5 cz2 un3` <sup>[如皋]</sup> ① 即古瓷碗，釉面似有不规则裂纹的一种。 ② 比喻毛病多而不断。  
 1. 【[碎花五裂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xy_hua_v_lih.md#碎花五裂)】`xy5 hua1 v3 lih8` <sup>[如皋]</sup> 破裂严重。  
-1. 【[碎米䜺<sub>儿</sub>嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xy_mi_cae_r_jy.md#碎米䜺<sub>儿</sub>嘴)】`xy5 mi3 cae3 r jy3` <sup>[东台]</sup> 形容为琐事啰嗦不息的人。  
+1. 【[碎米䜺<sub>儿</sub>嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xy_mi_chae_r.md#碎米䜺<sub>儿</sub>嘴)】`xy5 mi3 chae3 r jy3` <sup>[东台]</sup> 形容为琐事啰嗦不息的人。  
 1. 【[碎琐事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xy_su_shr.md#碎琐事)】`xy5 su3 shr6` <sup>[东台]</sup> 鸡毛蒜皮的琐碎事务。也作“碎撮事”。  
 1. 【[碎碎<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xy_xy_r.md#碎碎<sub>儿</sub>)】`xy5 xy5 r` <sup>[如东]</sup> 细小的颗粒：都是些～。  
 1. 【[碎碎琐琐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xy_xy_su_su.md#碎碎琐琐)】`xy5 xy5 su3 su3` <sup>[东台]</sup> 非常琐碎，也作“碎碎撮撮”。  

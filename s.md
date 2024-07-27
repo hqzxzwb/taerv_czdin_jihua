@@ -3527,7 +3527,7 @@
 1. 【[酸粥嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_zhoh_jy.md#酸粥嘴)】`sun1 zhoh7 jy3` <sup>[泰县]</sup> 啰唆的人。  
 1. 【[酸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_zz.md#酸子)】`sun1 zz` <sup>[如东]</sup> 挑拨是非的人。  
 1. 【[糁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun.md#糁)】`sun3` <sup>[如皋]</sup> 细酒。  
-1. 【[糁䜺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_cae_r.md#糁䜺<sub>儿</sub>)】`sun3 cae3 r` <sup>[如皋]</sup> 将䜺儿糁到锅里煮䜺儿粥。  
+1. 【[糁䜺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_chae_r.md#糁䜺<sub>儿</sub>)】`sun3 chae3 r` <sup>[如皋]</sup> 将䜺儿糁到锅里煮䜺儿粥。  
 1. 【[算憃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_chon.md#算憃)】`sun5 chon5` <sup>[如皋]</sup> 见“算掼”。  
 1. 【[算倒账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_do_zhan.md#算倒账)】`sun5 do5 zhan5` <sup>[如皋]</sup> 重新算账，以索回应得的部分。  
 1. 【[算计](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_ji.md#算计)】`sun5 ji` <sup>[兴化]</sup> 计划、打算：居家过日子要有个～。｜搞大的活动预先要有～，否则临时就要忙乱。  

@@ -336,7 +336,7 @@
 1. 【[棒<sub>儿</sub>糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_r_tan.md#棒<sub>儿</sub>糖)】`pan6 r tan2` <sup>[兴化]</sup> 棒棒糖。  
 1. 【[棒头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_teu.md#棒头)】`pan6 teu` <sup>[东台]</sup> 带果穗的玉米：到田里去扳几个～。俗称“棒棒儿”，市场上也写作“玉米棒”。  
 1. 【[棒头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_teu.md#棒头)】`pan6 teu` <sup>[兴化]</sup> 玉米。  
-1. 【[棒头䜺子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_teu_cae_zz.md#棒头䜺子)】`pan6 teu cae3 zz` <sup>[兴化]</sup> 玉米面。  
+1. 【[棒头䜺子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_teu_chae_zz.md#棒头䜺子)】`pan6 teu chae3 zz` <sup>[兴化]</sup> 玉米面。  
 1. 【[棒头架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_teu_ga_zz.md#棒头架子)】`pan6 teu ga5 zz` <sup>[如皋]</sup> 惯会淘气、生事，经常挨打的小孩。  
 1. 【[棒头胡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_teu_hv_r.md#棒头胡<sub>儿</sub>)】`pan6 teu hv2 r` <sup>[兴化]</sup> ① 玉米须子。 ② （借）不稳重的青少年：他是个～，你叫他办事十有九次办不成。也说“棒头胡子”。  
 1. 【[棒头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_teu_r.md#棒头<sub>儿</sub>)】`pan6 teu r` <sup>[如皋]</sup> 指穗状花序：如玉米～、蒲～。  

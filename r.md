@@ -193,7 +193,7 @@
 1. 【[人档子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_dan_zz.md#人档子)】`ren2 dan5 zz` <sup>[兴化]</sup> 人与人之间的空隙：街上人挤人，他从～中穿来穿去。  
 1. 【[人到八十八，不知瘸和瞎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_do_baeh_sheh.md#人到八十八，不知瘸和瞎)】`ren2 do5 baeh7 sheh baeh7 beh7 zhr1 qya2 hu2 haeh7` <sup>[泰兴]</sup> 谓人年龄大了，身体变化状况难以预测。  
 1. 【[人到四十五，正是出山虎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_do_sz_sheh.md#人到四十五，正是出山虎)】`ren2 do5 sz5 sheh v3 zhen5 shr chueh7 shaen1 hv3` <sup>[泰兴]</sup> 谓人到了40多岁，年轻力壮，趋于成熟，正是大干事业的时候。  
-1. 【[人到葬将垛，𪎉子䜺<sub>儿</sub>总下锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_do_zan_jian_tu_haen_zz_cae_r_zon_xia_gu.md#人到葬将垛，𪎉子䜺<sub>儿</sub>总下锅)】`ren2 do5 zan5 jian5 tu6 haen6 zz cae3 r zon3 xia6 gu1` <sup>[东台]</sup> 葬将垛在西溪，是隋朝抗倭英烈墓地，意思是饥肠辘辘的人回来急要吃饭，成为当地人的谚语。  
+1. 【[人到葬将垛，𪎉子䜺<sub>儿</sub>总下锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_do_zan_jian.md#人到葬将垛，𪎉子䜺<sub>儿</sub>总下锅)】`ren2 do5 zan5 jian5 tu6 haen6 zz chae3 r zon3 xia6 gu1` <sup>[东台]</sup> 葬将垛在西溪，是隋朝抗倭英烈墓地，意思是饥肠辘辘的人回来急要吃饭，成为当地人的谚语。  
 1. 【[人多没好食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_du_meh_ho_sheh.md#人多没好食)】`ren2 du1 meh8 ho3 sheh8` <sup>[东台]</sup> 人多了，需求量大，就难以精心制作。  
 1. 【[人多抢食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_du_qian_sheh.md#人多抢食)】`ren2 du1 qian3 sheh8` <sup>[东台]</sup> 人一多，就有争着吃的兴致和吃不到的担心。  
 1. 【[人多嘴杂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_du_zuei_zaeh.md#人多嘴杂)】`ren2 du1 zuei3 zaeh7` <sup>[泰兴]</sup> 谈论的人多，各种议论都有。亦指在场的人多，七嘴八舌。  
