@@ -904,7 +904,7 @@
 1. 【[㲀箍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_gv.md#㲀箍)】`chen2 gv1` <sup>[如东]</sup> 做木盆、木桶时，将箍向大的一端打紧。  
 1. 【[㲀箍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_gv.md#㲀箍)】`chen2 gv1` <sup>[如皋]</sup> 箍盆桶时，将箍向径大的一端打紧。  
 1. 【[乘风凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_fon_lian.md#乘风凉)】`chen2 fon1 lian2` <sup>[兴化]</sup> 纳凉：夏天晚上，到大桥上去～。  
-1. 【[乘荫凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_ien_lian.md#乘荫凉)】`chen2 ien1 lian2` <sup>[如皋]</sup> 在树荫底下休息无暴晒，有风吹，瀴凉、爽快。  
+1. 【[乘阴凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_ien_lian.md#乘阴凉)】`chen2 ien1 lian2` <sup>[如皋]</sup> 在树阴底下休息无暴晒，有风吹，瀴凉、爽快。  
 1. 【[乘脚跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_jiah_qio.md#乘脚跷)】`chen2 jiah7 qio5` <sup>[如东]</sup> 不发表主观意见，别人说什么，自己说什么，随声附和。  
 1. 【[乘凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_lian.md#乘凉)】`chen2 lian2` <sup>[如东]</sup> 在阴凉的地方休息：下午，我在东山头～。  
 1. 【[乘便](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_pin.md#乘便)】`chen2 pin6` <sup>[如东]</sup> 顺便：～去下子。  

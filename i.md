@@ -1371,7 +1371,6 @@
 1. 【[英子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_zz.md#英子)】`ien1 zz` <sup>[如皋]</sup> 见“英儿”。  
 1. 【[茵陈蒿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_chen_ho.md#茵陈蒿)】`ien1 chen2 ho1` <sup>[如东]</sup> 乡。菊科植物茵陈，多年生草本。高约100厘米。茎直立，木质化，表面有纵裂条纹，紫色，多分枝。营养叶3回羽状裂，小叶线形。头状花序多数密集成圆锥状。花淡紫色。瘦果长圆形。生长在河岸、沙地。  
 1. 【[茵陈酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_chen_jieu.md#茵陈酒)】`ien1 chen2 jieu3` <sup>[如皋]</sup> 用茵陈浸过的药酒。  
-1. 【[荫棚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_pon.md#荫棚)】`ien1 pon2` <sup>[如皋]</sup> 遮强阳光的棚。  
 1. 【[阴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien.md#阴)】`ien1` <sup>[如皋]</sup> ① 内向性格：他性格～，同他做块儿一天说不到一句话。 ② 状冷、暗、极静的环境：这地方～魆魆的，不能蹾人。  
 1. 【[阴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien.md#阴)】`ien1` <sup>[如东]</sup> 本人的意图隐藏不露，叫做阴：这个人～。  
 1. 【[阴巴拉哈的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_ba_la_ha_dii.md#阴巴拉哈的)】`ien1 ba la1 ha1 dii` <sup>[如皋]</sup> 一种阴险、讥讽的态度、口气。  
@@ -1418,6 +1417,7 @@
 1. 【[阴门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_men.md#阴门)】`ien1 men2` <sup>[东台]</sup> 阴道口：（詈语，歇后语）麻雀生鹅蛋——～怎吖奓得开来的？（意思是这话怎么讲得出口。“阴”与“音”谐音）  
 1. 【[阴哑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_nga.md#阴哑)】`ien1 nga3` <sup>[如皋]</sup> 失语症。詈语。含有幸灾乐祸的意思。  
 1. 【[阴病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_pien.md#阴病)】`ien1 pien6` <sup>[如皋]</sup> 梦中与人性交的病。  
+1. 【[阴棚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_pon.md#阴棚)】`ien1 pon2` <sup>[如皋]</sup> 遮强阳光的棚。  
 1. 【[阴部](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_pv.md#阴部)】`ien1 pv6` <sup>[如东]</sup> ① 生殖器官。 ② 生长生殖器官的地方。  
 1. 【[阴气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_qi.md#阴气)】`ien1 qi5` <sup>[如皋]</sup> ① 与“阳气”相对，所谓的鬼气、妖气、女气、幽暗阴冷荒凉之气等的总称。 ② 秋冬阴冷之气。  
 1. 【[阴绝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_qiuh.md#阴绝)】`ien1 qiuh8` <sup>[兴化]</sup> 不动声色地使坏：你不晓得，这个家伙～，老有人上他当。  

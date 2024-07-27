@@ -2165,8 +2165,8 @@
 1. 【[糟糠之妻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_kan_zhr_qi.md#糟糠之妻)】`zo1 kan1 zhr1 qi1` <sup>[东台]</sup> 曾经共过患难的妻子：～不下堂。  
 1. 【[糟馒头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_mun_teu.md#糟馒头)】`zo1 mun2 teu2` <sup>[如东]</sup> 馒头蒸熟后，放入坛中，加酒糟，密封。可以存放很长时间。味道醇香。  
 1. 【[糟蹋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_taeh.md#糟蹋)】`zo1 taeh` <sup>[如东]</sup> ① 浪费或损坏。 ② 侮辱，蹂躏。  
-1. 【[糟槽<sub>儿</sub>天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_zo_r_tin.md#糟槽<sub>儿</sub>天)】`zo1 zo1 r tin1` <sup>[如皋]</sup> 怨语。指不好的天气。  
 1. 【[糟糟<sub>儿</sub>食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_zo_r_sheh.md#糟糟<sub>儿</sub>食)】`zo1 zo1 r sheh8` <sup>[如皋]</sup> 污七八槽的食物。  
+1. 【[糟糟<sub>儿</sub>天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_zo_r_tin.md#糟糟<sub>儿</sub>天)】`zo1 zo1 r tin1` <sup>[如皋]</sup> 怨语。指不好的天气。  
 1. 【[遭啊瘟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_a_ven.md#遭啊瘟)】`zo1 a ven1` <sup>[东台]</sup> ［喻］被某种事情弄得一塌糊涂，凌乱不堪，像遭了瘟疫。  
 1. 【[遭报](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_bo.md#遭报)】`zo1 bo5` <sup>[兴化]</sup> 迷信指受到报应：他做尽坏事，而今遭啊报。  
 1. 【[遭报应](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_bo_ien.md#遭报应)】`zo1 bo5 ien5` <sup>[如皋]</sup> 指做了坏事，受到了惩罚。  

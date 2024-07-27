@@ -635,7 +635,7 @@
 1. 【[浆糟钵<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_zo_buh_r.md#浆糟钵<sub>儿</sub>)】`jian1 zo1 buh7 r` <sup>[如皋]</sup> 专供做酒的最小的陶钵。  
 1. 【[疆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_r.md#疆<sub>儿</sub>)】`jian1 r` <sup>[兴化]</sup> 印痕：在场上划个～，把各家的稻把分开堆放。  
 1. 【[疆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_r.md#疆<sub>儿</sub>)】`jian1 r` <sup>[泰县]</sup> 界限：划个～。  
-1. 【[礓踏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_taeh_zz.md#礓踏子)】`jian1 taeh8 zz` <sup>[如皋]</sup> 台阶。  
+1. 【[礓踏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_taeh_zz.md#礓踏子)】`jian1 taeh zz` <sup>[如皋]</sup> 台阶。  
 1. 【[桨桩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_zhuan.md#桨桩)】`jian3 zhuan1` <sup>[兴化]</sup> 插在船帮上，连接桨柄，便于划桨的木排：……李大宏他们的四条大船，正离开岸边，在河心插～。（马春阳《双灯照》）  
 1. 【[礓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_r.md#礓<sub>儿</sub>)】`jian3 r` <sup>[如东]</sup> 渣滓：剩下的～统统倒掉。  
 1. 【[礓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_r.md#礓<sub>儿</sub>)】`jian3 r` <sup>[泰县]</sup> ① 泥块：泥～。 ② 办事呆板的人：他是个～。  
@@ -1219,7 +1219,7 @@
 1. 【[酒盅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_zhon.md#酒盅)】`jieu3 zhon1` <sup>[东台]</sup> 小酒杯。  
 1. 【[酒痣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_zhr.md#酒痣)】`jieu3 zhr5` 青春痘，粉刺  
 1. 【[酒痣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_zhr.md#酒痣)】`jieu3 zhr5` <sup>[如皋]</sup> 粉刺，痤疮。又名青春痘。  
-1. 【[酒槽味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_zo_vei.md#酒槽味)】`jieu3 zo1 vei6` <sup>[如皋]</sup> 酿酒发酵时散出的一种气味。  
+1. 【[酒糟味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_zo_vei.md#酒糟味)】`jieu3 zo vei6` <sup>[如皋]</sup> 酿酒发酵时散出的一种气味。  
 1. 【[酒糟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_zo.md#酒糟)】`jieu3 zo1` <sup>[如东]</sup> 米、麦、高粱等酿酒后剩余的残渣。  
 1. 【[酒足饭饱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_zoh_faen_bo.md#酒足饭饱)】`jieu3 zoh7 faen6 bo3` <sup>[兴化]</sup> 见“酒醉饭饱”。  
 1. 【[酒醉汉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_zuei_hun.md#酒醉汉)】`jieu3 zuei5 hun` <sup>[兴化]</sup> 醉汉。  

@@ -1604,9 +1604,9 @@
 1. 【[化脓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_non.md#化脓)】`hua5 non2` <sup>[如东]</sup> 疮口出现脓水。  
 1. 【[化千张](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_qin_zhan.md#化千张)】`hua5 qin1 zhan1` <sup>[如皋]</sup> 丧俗。初丧，孝子跪在灵前，向现在盆水中的铁锅内一张一张地烧化一千张毛丈纸，以求老鬼不欺新鬼。  
 1. 【[化肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_roh.md#化肉)】`hua5 roh8` <sup>[如皋]</sup> 詈语。指解大便。  
-1. 【[化肉浆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_roh_jian_r.md#化肉浆<sub>儿</sub>)】`hua5 roh8 jian3 r` <sup>[东台]</sup> ① （詈语）又称“化血水儿”。 ② 骂拉肚子的人。 ③ 骂人快死。 ④ 昵称小孩或朋友：这个～多神气！  
 1. 【[化肉礓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_roh_jian_r.md#化肉礓<sub>儿</sub>)】`hua5 roh8 jian3 r` <sup>[如皋]</sup> 詈语。恶毒咒骂。  
 1. 【[化肉礓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_roh_jian_r.md#化肉礓<sub>儿</sub>)】`hua5 roh8 jian3 r` <sup>[如皋]</sup> 詈语，排泄大便。  
+1. 【[化肉礓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_roh_jian_r.md#化肉礓<sub>儿</sub>)】`hua5 roh8 jian3 r` <sup>[东台]</sup> ① （詈语）又称“化血水儿”。 ② 骂拉肚子的人。 ③ 骂人快死。 ④ 昵称小孩或朋友：这个～多神气！  
 1. 【[化生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_shen.md#化生)】`hua5 shen` <sup>[如皋]</sup> 见“不少债”。  
 1. 【[化生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_shen.md#化生)】`hua5 shen1` <sup>[如东]</sup> 挥霍无度的人：我家养吖个～。  
 1. 【[化生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_shen.md#化生)】`hua5 shen1` <sup>[如皋]</sup> 挥霍无度的人或行为，或可败家。  
@@ -2721,8 +2721,8 @@
 1. 【[糊糊搨搨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_hv_taeh_taeh.md#糊糊搨搨)】`hv2 hv2 taeh7 taeh7` <sup>[东台]</sup> 以粉刷墙壁的动作喻指做表面文章，不认真，应付了事。  
 1. 【[糊糊搨搨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_hv_taeh_taeh.md#糊糊搨搨)】`hv2 hv2 taeh7 taeh7` <sup>[兴化]</sup> ① 形容马虎了事：他做事～的，好不了。 ② 形容某些具体工作：～，封封发发。  
 1. 【[糊糊搨搨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_hv_taeh_taeh.md#糊糊搨搨)】`hv2 hv2 taeh7 taeh7` <sup>[泰县]</sup> 马马虎虎：这事你不能～了事。  
+1. 【[糊浆饼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_jian_bien_r.md#糊浆饼<sub>儿</sub>)】`hv2 jian bien3 r` <sup>[如皋]</sup> 洗面筋洗出的淀粉，以纱布裹，盘成条状，蒸熟，用棉线扯出圆片，蘸糖焵成的饼。见“小粉浆”。  
 1. 【[糊浆纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_jian_zhr.md#糊浆纸)】`hv2 jian1 zhr3` <sup>[东台]</sup> 用浆糊把旧衣布平贴在门板上晒干作为鞋料，也有在蒲席板面糊上厚纸片，用作鞋底骨料，叫“包𤖭”。  
-1. 【[糊浆饼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_jian_bien_r.md#糊浆饼<sub>儿</sub>)】`hv2 jian3 bien3 r` <sup>[如皋]</sup> 洗面筋洗出的淀粉，以纱布裹，盘成条状，蒸熟，用棉线扯出圆片，蘸糖焵成的讲。见“小粉浆”。  
 1. 【[糊糨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_jian_zz.md#糊糨子)】`hv2 jian5 zz` <sup>[如东]</sup> 用糨糊把几层布粘成板块，叫做糊糨子。  
 1. 【[糊糨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_jian_zz.md#糊糨子)】`hv2 jian5 zz` <sup>[如皋]</sup> 见“泥糨子”。  
 1. 【[糊糨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_jian_zz.md#糊糨子)】`hv2 jian5 zz` <sup>[如皋]</sup> 即“泥糨子”。  
