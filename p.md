@@ -1228,14 +1228,14 @@
 1. 【[蓬头<sub>儿</sub>鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_teu_r_ji.md#蓬头<sub>儿</sub>鸡)】`pon2 teu2 r ji1` <sup>[如东]</sup> 头上有一束冠毛的鸡，叫做蓬头儿鸡。  
 1. 【[蓬头撒野](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_teu_saeh_ia.md#蓬头撒野)】`pon2 teu2 saeh7 ia3` <sup>[如东]</sup> 形容头发散乱：也不梳梳头，～的，像个甚的样子。  
 1. 【[蓬头撒兮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_teu_saeh_xi.md#蓬头撒兮)】`pon2 teu2 saeh7 xi1` <sup>[东台]</sup> 头发蓬乱，脏兮兮的样子：有的人～的，客人就看不惯。  
+1. 【[蓬头撒稀的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_teu_saeh_xi_dii.md#蓬头撒稀的)】`pon2 teu2 saeh7 xi1 dii` <sup>[如皋]</sup> 头发蓬乱的样子。  
+1. 【[蓬头狮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_teu_shr_zz.md#蓬头狮子)】`pon2 teu2 shr1 zz` <sup>[如皋]</sup> 头发蓬乱的样子。  
 1. 【[蟛叶子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_ih_zz.md#蟛叶子)】`pon2 ih8 zz` <sup>[东台]</sup> 蟛蜞，螃蟹的一种，体小。  
 1. 【[蟛叶子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_ih_zz.md#蟛叶子)】`pon2 ih8 zz` <sup>[兴化]</sup> 蟛蜞的俗称。  
 1. 【[蟛蜞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_ji.md#蟛蜞)】`pon2 ji1` <sup>[如东]</sup> 方蟹科动物无齿无毛相手蟹，也叫黄蟛蜞儿。  
 1. 【[蟛蜞钩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_ji_geu_zz.md#蟛蜞钩子)】`pon2 ji1 geu1 zz` <sup>[如东]</sup> 钩取蟛蜞的工具。顶端双齿弯曲成钩，套在一根竹条上。这根竹条叫做苗子。作业时，将钩子插入蟛蜞洞中，即可钩取蟛蜞。  
 1. 【[蟛蜞锹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_ji_qio.md#蟛蜞锹)】`pon2 ji1 qio1` <sup>[如东]</sup> 挖蟛蜞的工具。铁制，体扁，短小，有柄。主要用于挖蟛蜞。  
 1. 【[蟛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_r.md#蟛<sub>儿</sub>)】`pon2 r` 蟛蜞  
-1. 【[鬅头撒稀的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_teu_saeh_xi_dii.md#鬅头撒稀的)】`pon2 teu2 saeh7 xi1 dii` <sup>[如皋]</sup> 头发鬅乱的样子。  
-1. 【[鬅头狮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_teu_shr_zz.md#鬅头狮子)】`pon2 teu2 shr1 zz` <sup>[如皋]</sup> 头发鬅乱的样子。  
 1. 【[捧不上台盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_beh_shan_tae_pun.md#捧不上台盘)】`pon3 beh7 shan6 tae2 pun2` <sup>[东台]</sup> 指不上档次的事物，不管怎样吹捧，也难登大雅之堂。  
 1. 【[捧宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_bo.md#捧宝)】`pon3 bo3` <sup>[兴化]</sup> ① （喻）形容小心翼现地：她把小孙子～似的抱啊怀里。 ② 谨慎地陪护着：（婆子）跟在和尚背后替他遮雨，好像～也似的捧入屋里。（《广陵潮》六六）  
 1. 【[捧财神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_cae_shen.md#捧财神)】`pon3 cae2 shen2` <sup>[如皋]</sup> 绑人为质以诈钱财。绑票。  
