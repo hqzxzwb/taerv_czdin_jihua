@@ -1438,7 +1438,7 @@
 1. 【[泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni.md#泥)】`ni2` <sup>[如皋]</sup> 对付、餬口：苦日子望前～着咖。  
 1. 【[泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni.md#泥)】`ni2` <sup>[兴化]</sup> ① 涂抹：脏东西～啊一地。｜～墙（用泥巴和糠秕、草屑等涂抹土墼墙壁，使平整、不漏风）。～锅腔。 ② （引）挪移：他以前空的债慢慢～掉啊。  
 1. 【[泥巴巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_ba_ba.md#泥巴巴)】`ni2 ba1 ba` <sup>[兴化]</sup> 半干的泥：沰～。也说“烂泥巴巴”。  
-1. 【[泥八<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_baeh_r.md#泥八<sub>儿</sub>)】`ni2 baeh7 r` <sup>[如皋]</sup> 鲶鱼。又称胡子鲶。  
+1. 【[泥八<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_baeh_r.md#泥八<sub>儿</sub>)】`ni2 baeh7 r` <sup>[如皋]</sup> 鲇鱼。又称胡子鲇。  
 1. 【[泥墩墩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_den_den_r.md#泥墩墩<sub>儿</sub>)】`ni2 den1 den1 r` <sup>[如皋]</sup> 结实的小土堆。  
 1. 【[泥墩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_den_r.md#泥墩<sub>儿</sub>)】`ni2 den1 r` <sup>[如皋]</sup> 结实的小土堆。  
 1. 【[泥兜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_deu_r.md#泥兜<sub>儿</sub>)】`ni2 deu1 r` <sup>[如东]</sup> 盖房时装泥灰的方布兜儿。  
@@ -1706,7 +1706,7 @@
 1. 【[年作子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_zah_zz.md#年作子)】`nin2 zah7 zz` <sup>[如东]</sup> 过年期间所需要花费的钱：箇趟生意把～赚家来啊。  
 1. 【[年租](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_zv.md#年租)】`nin2 zv1` <sup>[如皋]</sup> 租赁一年的租金。  
 1. 【[年租](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_zv.md#年租)】`nin2 zv1` <sup>[如东]</sup> 一年的租金：～一万。  
-1. 【[鲇滑<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_huaeh_r.md#鲇滑<sub>儿</sub>)】`nin2 huaeh8 r` <sup>[如东]</sup> 胡子鲇（鲶）科动物胡子鲇，长约14厘米。  
+1. 【[鲇滑<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_huaeh_r.md#鲇滑<sub>儿</sub>)】`nin2 huaeh8 r` <sup>[如东]</sup> 胡子鲇科动物胡子鲇，长约14厘米。  
 1. 【[黏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin.md#黏)】`nin2` <sup>[如皋]</sup> 亲热、怜爱、笼络：你这吖～他，他的心更加忆咖你这许。  
 1. 【[黏饼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_bien_r.md#黏饼<sub>儿</sub>)】`nin2 bien3 r` <sup>[如皋]</sup> 多为糯米粉做的有馅饼。  
 1. 【[黏虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_chon.md#黏虫)】`nin2 chon2` <sup>[如皋]</sup> 俗名“麦蚕儿”。  
