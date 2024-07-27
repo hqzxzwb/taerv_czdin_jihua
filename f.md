@@ -546,6 +546,7 @@
 1. 【[放头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_teu.md#放头)】`fan5 teu2` <sup>[兴化]</sup> 私设赌场，抽头聚赌：她家姐妹两个～，一天几桌赌。  
 1. 【[放毒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_toh.md#放毒)】`fan5 toh8` <sup>[如东]</sup> ① 在面条、菜肴等食品中下毒。 ② 在河水、井水中下毒。 ③ 比喻说坏话：不要到处～。 ④ 比喻香烟烟雾弥漫，污染环境。  
 1. 【[放哇子召](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_va_zz_cho.md#放哇子召)】`fan5 va2 zz cho6` <sup>[如皋]</sup> 状大声哭闹。  
+1. 【[放下水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_xia_shuei.md#放下水)】`fan5 xia6 shuei` <sup>[泰兴]</sup> 指暗中泄漏消息，以助对方。  
 1. 【[放学](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_xiah.md#放学)】`fan5 xiah8` <sup>[如东]</sup> ① 学校里半天或一天课程完成后，学生回家。 ② 学校里放假。  
 1. 【[放响炮仗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_xian_po_zhan.md#放响炮仗)】`fan5 xian3 po5 zhan` <sup>[兴化]</sup> ① 说大方话，行大方事：你今朝放个响炮仗，免得老有人说你小气。 ② 爽快地答应：今吖要他叫人，他放吖个响炮仗。  
 1. 【[放响炮仗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_xian_po_zhan.md#放响炮仗)】`fan5 xian3 po5 zhan5` <sup>[如皋]</sup> 喻对某事表态迅速、干脆。  

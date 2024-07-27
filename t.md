@@ -2482,6 +2482,7 @@
 1. 【[吐舌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_shih_zz.md#吐舌子)】`tv3 shih8 zz` <sup>[如皋]</sup> ① 说行业暗语。 ② 用某种字眼暗示。  
 1. 【[吐舌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_shih_zz.md#吐舌子)】`tv3 shih8 zz` <sup>[东台]</sup> 指商业交往中不宜明说的口头语言（多为双方默契的暗话，参见第“市语”），如以旦底代表一，以抽工代表二，以卧川代表三，……以未丸代表九，以田心代表十。  
 1. 【[吐吐沰沰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_tv_dah_dah.md#吐吐沰沰)】`tv3 tv3 dah7 dah7` <sup>[东台]</sup> 形容经常随地吐痰，或年老多病咳嗽吐痰的状况：要讲究文明卫生，不能随便～。  
+1. 【[土包子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_bo_zz.md#土包子)】`tv3 bo1 zz` <sup>[泰兴]</sup> 指土生土长、没有见过世面的人，含讥讽意。  
 1. 【[土布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_bv.md#土布)】`tv3 bv5` <sup>[如皋]</sup> 见“大布”。  
 1. 【[土布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_bv.md#土布)】`tv3 bv5` <sup>[如东]</sup> 手机织成的布，比较粗糙，称土布。  
 1. 【[土虫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_chon_r.md#土虫<sub>儿</sub>)】`tv3 chon2 r` <sup>[如皋]</sup> 土狗儿的幼虫。  
@@ -2496,10 +2497,13 @@
 1. 【[土狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_geu.md#土狗)】`tv3 geu3` <sup>[兴化]</sup> 蝼蛄。  
 1. 【[土狗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_geu_r.md#土狗<sub>儿</sub>)】`tv3 geu3 r` <sup>[如皋]</sup> 蝼蛄。  
 1. 【[土狗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_geu_r.md#土狗<sub>儿</sub>)】`tv3 geu3 r` <sup>[东台]</sup> 即蝼蛄。  
+1. 【[土狗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_geu_zz.md#土狗子)】`tv3 geu3 zz` <sup>[泰兴]</sup> 蝼蛄的俗称。有的地区称“地牛儿”。  
 1. 【[土工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_gon.md#土工)】`tv3 gon` 给死人洗澡更衣的人。  
 1. 【[土工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_gon.md#土工)】`tv3 gon1` <sup>[如东]</sup> 为死人洗澡、穿衣整容以及埋葬的人，叫土工。  
 1. 【[土工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_gon.md#土工)】`tv3 gon1` <sup>[兴化]</sup> 旧称从事送葬、造坟等殡葬服务的人。  
 1. 【[土货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_hu.md#土货)】`tv3 hu5` <sup>[如东]</sup> 当地手工生产的农产品和工业品。  
+1. 【[土话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_hua.md#土话)】`tv3 hua` <sup>[泰兴]</sup> 也作土语。小地域内使用的方言。  
+1. 【[土皇帝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_huan_di.md#土皇帝)】`tv3 huan2 di` <sup>[泰兴]</sup> 指盘踞一方的军阀、土豪劣绅，亦泛指独霸一方的坏人。  
 1. 【[土燕子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_in_zz.md#土燕子)】`tv3 in5 zz` <sup>[如皋]</sup> 燕鸻。  
 1. 【[土墼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_jieh.md#土墼)】`tv3 jieh7` <sup>[东台]</sup> 旧时砌墙的土坯，也可作为砖坯，但比一般砖坯大。  
 1. 【[土墼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_jieh.md#土墼)】`tv3 jieh7` <sup>[兴化]</sup> 土坯，由土和稻麦颖片（稳子）混合制成，体积大于普通粘土砖，可用于砌墙。  
@@ -2512,32 +2516,34 @@
 1. 【[土六碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_loh_un.md#土六碗)】`tv3 loh8 un3` <sup>[兴化]</sup> 城乡贫家小户宴客的规格。一般由猪肉、鱼、鸡鸭和芋头、慈姑等凑成六样。也称“六碗头”。  
 1. 【[土麦冬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_moh_don.md#土麦冬)】`tv3 moh8 don1` <sup>[如东]</sup> 百合科植物三角草，多年生草本。叶基出，线形，有一条明显的中脉。总状花序从叶丛抽出。花淡紫色。蒴果三角状。种子圆形。生长在湿润肥沃的草土或庭园。  
 1. 【[土鳔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_pio.md#土鳔)】`tv3 pio5` <sup>[东台]</sup> 炸肉皮，（鮸鱼的鳔是美味佳肴。猪皮油炸后与之相似，故称土鳔）。与小肉圆、青菜头、虾米等烧成的杂烩汤，又叫“烧南洋”。  
-1. 【[土气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_qi.md#土气)】`tv3 qi5` <sup>[如东]</sup> 不时髦的风格、式样。不时尚的风俗、习惯。  
-1. 【[土墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_qian.md#土墙)】`tv3 qian2` <sup>[如皋]</sup> 泥土做的墙。  
-1. 【[土墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_qian.md#土墙)】`tv3 qian2` <sup>[如皋]</sup> 老泥墙。  
+1. 【[土气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_qi.md#土气)】`tv3 qi5` <sup>\[如东\]\[泰兴\]</sup>不时髦、不时尚  
+1. 【[土墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_qian.md#土墙)】`tv3 qian2` <sup>\[如皋\]\[泰兴\]</sup>泥土做的墙，老泥墙。  
 1. 【[土人参](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_ren_shen.md#土人参)】`tv3 ren2 shen1` <sup>[如东]</sup> 马齿苋科植物栌兰，一年生草本。高约60厘米。肉质，全体无毛。主根粗壮有分枝，外表棕褐色。茎圆柱形，基部稍木质化。叶互生，倒卵形或倒卵状椭圆形，全缘。花小多数淡紫红色。蒴果，熟时灰褐色。种子细小，黑色，扁圆形。生长在村庄阴湿地里。  
 1. 【[土山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_shaen.md#土山)】`tv3 shaen1` <sup>[如皋]</sup> 地名，在如皋常青乡，常办庙会。  
+1. 【[土生土长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_shen_tv_zhan.md#土生土长)】`tv3 shen1 tv3 zhan3` <sup>[泰兴]</sup> 在出生地成长起来（的人）：我是～的黄桥人。  
 1. 【[土塌平消](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_taeh_pien_xio.md#土塌平消)】`tv3 taeh7 pien2 xio1` <sup>[东台]</sup> 彻底摧毁，不留痕迹。  
 1. 【[土塌地平](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_taeh_ti_pien.md#土塌地平)】`tv3 taeh7 ti6 pien2` <sup>[如东]</sup> 地面遭受严重破坏。  
 1. 【[土蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_taen.md#土蛋)】`tv3 taen6` <sup>[如皋]</sup> 土虫儿用泥做成的蛋形窝。  
 1. 【[土头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_teu.md#土头)】`tv3 teu` <sup>[泰县]</sup> 土壤。  
 1. 【[土头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_teu.md#土头)】`tv3 teu2` <sup>[兴化]</sup> 指土壤的肥瘠：这块田～不丑。  
+1. 【[土豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_teu.md#土豆)】`tv3 teu6` <sup>[泰兴]</sup> 马铃薯。  
 1. 【[土豆搬家——滚蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_teu_bun_ga_guen_taen.md#土豆搬家——滚蛋)】`tv3 teu6 bun1 ga1 guen3 taen6` <sup>[东台]</sup>   
 1. 【[土地狗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_ti_geu_r.md#土地狗<sub>儿</sub>)】`tv3 ti6 geu3 r` <sup>[泰县]</sup> ① 蝼站。 ② 骨子里捣蛋的人。  
 1. 【[土地狗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_ti_geu_zz.md#土地狗子)】`tv3 ti6 geu3 zz` <sup>[兴化]</sup> 蝼蛄。  
 1. 【[土地工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_ti_gon.md#土地工)】`tv3 ti6 gon1` <sup>[如东]</sup> 用工制度的一种。因土地被企业征用而吸收的工人。  
 1. 【[土地会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_ti_huei.md#土地会)】`tv3 ti6 huei6` <sup>[如皋]</sup> 夏季祭祀土地菩萨的庙会，给一方住户送太平。  
-1. 【[土地佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_ti_lo_r.md#土地佬<sub>儿</sub>)】`tv3 ti6 lo3 r` <sup>[如皋]</sup> ① 土地神。 ② 贬指农民。 ③ 贬指土气的人。  
-1. 【[土地佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_ti_lo_r.md#土地佬<sub>儿</sub>)】`tv3 ti6 lo3 r` <sup>[如皋]</sup> 见“乡下佬儿”。  
-1. 【[土地佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_ti_lo_r.md#土地佬<sub>儿</sub>)】`tv3 ti6 lo3 r` <sup>[如东]</sup> 土地菩萨。  
+1. 【[土地佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_ti_lo_r.md#土地佬<sub>儿</sub>)】`tv3 ti6 lo3 r` ① <sup>\[如皋\]\[如东\]\[泰兴\]</sup>土地神，土地菩萨。\[泰兴：也称土地公公。旧时几乎每个村庄都有供奉土地神的小庙。\] ② <sup>\[如皋\]</sup>贬指农民。 ③ <sup>\[如皋\]</sup>贬指土气的人。  
 1. 【[土地老爷骑公鸡——神气啯啯的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_ti_lo_i_qi_gon_ji_shen_qi_goh_goh_dii.md#土地老爷骑公鸡——神气啯啯的)】`tv3 ti6 lo3 i qi2 gon1 ji1 shen2 qi5 goh7 goh7 dii` <sup>[东台]</sup>   
-1. 【[土地庙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_ti_mio.md#土地庙)】`tv3 ti6 mio6` <sup>[东台]</sup> 供奉土地菩萨的庙宇，农村较多。  
+1. 【[土地庙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_ti_mio.md#土地庙)】`tv3 ti6 mio6` <sup>\[东台\]\[泰兴\]</sup>供奉土地菩萨的庙宇。  
 1. 【[土地庙没顶——神气通天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_ti_mio_meh_dien_shen_qi_ton_tin.md#土地庙没顶——神气通天)】`tv3 ti6 mio6 meh8 dien3 shen2 qi5 ton1 tin1` <sup>[东台]</sup>   
 1. 【[土地庙<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_ti_mio_r.md#土地庙<sub>儿</sub>)】`tv3 ti6 mio6 r` <sup>[如皋]</sup> 供奉土地神的建筑。乡村间至为尊敬土地菩萨。  
+1. 【[土地庙<sub>儿</sub>没上盖，神气通天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_ti_mio_r.md#土地庙<sub>儿</sub>没上盖，神气通天)】`tv3 ti6 mio6 r meh8 shan6 gae5 shen2 qi ton1 tin1` <sup>[泰兴]</sup> 歇后语。谓人神采飞扬貌。  
 1. 【[土土克](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_tv_keh.md#土土克)】`tv3 tv3 keh7` <sup>[泰县]</sup> 扑克。  
+1. 【[土腥气味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_xien_qi_vei.md#土腥气味)】`tv3 xien qi vei6` <sup>[泰兴]</sup> 泥土的气味：今朝的鱼吃起来有点～。  
 1. 【[土腥气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_xien_qi.md#土腥气)】`tv3 xien1 qi` <sup>[东台]</sup> 泥腥味，某些水产品含有的不好闻的异味。  
 1. 【[土腥气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_xien_qi.md#土腥气)】`tv3 xien1 qi5` <sup>[如皋]</sup> 沾有淤泥的臭味：鲢子鱼鳃的～最重。  
 1. 【[土腥味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_xien_vei.md#土腥味)】`tv3 xien1 vei6` <sup>[如皋]</sup> 泥土的腥味。  
+1. 【[土政策](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_zhen_ceh.md#土政策)】`tv3 zhen5 ceh7` <sup>[泰兴]</sup> 指地方上或小团体内部自己搞的一套规定。多指不合法或不恰当的。  
 1. 【[兔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv.md#兔)】`tv5` <sup>[如东]</sup> 兔科动物华南兔，体形较小。耳短。尾短。四肢较细。全身毛色较深，为黄褐色，并杂有黑色长针毛。鼻两侧各有一浅色区。腹部及四肢内侧为黄白色。四肢外侧为黄棕色。尾背面为黄棕褐色，尾腹面为淡黄色。生活在农田、杂草、丛林中。  
 1. 【[兔粪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_fen.md#兔粪)】`tv5 fen5` <sup>[如东]</sup> 兔科动物华南兔的干燥粪便，药名称望月砂。  
 1. 【[兔<sub>儿</sub>扒塘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_r_ba_tan.md#兔<sub>儿</sub>扒塘)】`tv5 r ba1 tan2` <sup>[如皋]</sup> 兔子的习性。在土中扒出隧道做窝。  

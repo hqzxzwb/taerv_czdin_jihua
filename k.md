@@ -1043,6 +1043,7 @@
 1. 【[𦜇䐂裆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kueh_loh_dan.md#𦜇䐂裆)】`kueh7 loh dan1` <sup>[如皋]</sup> 胯下。  
 1. 【[亏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei.md#亏)】`kuei1` <sup>[如东]</sup> ① 损失：～本。 ② 营养不良：身体～。  
 1. 【[亏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei.md#亏)】`kuei1` <sup>[兴化]</sup> 垮、疲：这场大病，使他的身体～下来啊。｜一场人命官司，把他的家业拖～啊。  
+1. 【[亏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei.md#亏)】`kuei1` <sup>[泰兴]</sup> ① 亏损，减少。 ② 亏空，蚀本：今年算下账来是～的。 ③ 客套话，若“多承”之意。 ④ 幸亏、亏得的反说，表示讥讽。  
 1. 【[亏啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei_a.md#亏啊)】`kuei1 a` <sup>[如皋]</sup> 同“苦叨（幸好、幸亏、多亏、所幸）”  
 1. 【[亏本](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei_ben.md#亏本)】`kuei1 ben3` <sup>[如东]</sup> 折本。  
 1. 【[亏空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei_kon.md#亏空)】`kuei1 kon5` <sup>[如东]</sup> 收入不抵支出而欠人钱财。  

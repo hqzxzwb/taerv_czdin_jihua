@@ -85,6 +85,7 @@
 1. 【[下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha.md#下)】`ha6` <sup>[如皋]</sup> ① 地面上：跌咖地～。 ② 地面下：埋啊地～。 ③ 兽产仔：～细狗儿、猫儿～啊、～细猪。 ④ 某种状态，同着：挂啊～、僵吖～。  
 1. 【[下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha.md#下)】`ha6` <sup>[东台]</sup> ① （动词）从上头～来。 ② 哺乳动物生养：母猪～啊十头小猪。 ③ （量词）相当于“处”（地方）：今晚几～有戏看｜今年好几～请他，他一～都不曾去。  
 1. 【[下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha.md#下)】`ha6` <sup>[泰县]</sup> ① 生：～小猪。 ② 到：～田。 ③ 用水煮食物：～饺儿。 ④ 地方：这几天，我一～都不去。  
+1. 【[下巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ba.md#下巴)】`ha6 ba` <sup>[泰兴]</sup> 脸的最下部分。又称“下巴壳子”、“下巴头”：他托住～在想心思。  
 1. 【[下巴鼓子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ba_gv_zz.md#下巴鼓子)】`ha6 ba gv3 zz` <sup>[兴化]</sup> 脸的最下部分：老徐发咖胖，～全潽开来啊。  
 1. 【[下巴鼓子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ba_gv_zz.md#下巴鼓子)】`ha6 ba gv3 zz` <sup>[泰县]</sup> 下巴。  
 1. 【[下巴箍子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ba_gv_zz.md#下巴箍子)】`ha6 ba1 gv1 zz` <sup>[东台]</sup> 同“下巴颏子”。  
