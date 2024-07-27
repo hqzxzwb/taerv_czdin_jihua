@@ -1299,7 +1299,7 @@
 1. 【[沼虾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_xia.md#沼虾)】`zho3 xia1` <sup>[东台]</sup> 又称青虾，淡水河里生长的虾，属于长臂虾科。旧时也写作“早虾”。  
 1. 【[爪牙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_nga.md#爪牙)】`zho3 nga2` <sup>[东台]</sup> 坏人的党羽、帮手。  
 1. 【[爪筢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_pa_r.md#爪筢<sub>儿</sub>)】`zho3 pa2 r` <sup>[如东]</sup> 工具。条状毛竹经过热加工，头部制成弯钩，拼成扇形，一般14齿。用作筢草。  
-1. 【[笊篱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_li_r.md#笊篱<sub>儿</sub>)】`zho3 li r` <sup>[如皋]</sup> 篾丝或金属丝编成的漏勺儿。  
+1. 【[笊篱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_lei_r.md#笊篱<sub>儿</sub>)】`zho3 lei r` <sup>[如皋]</sup> 篾丝或金属丝编成的漏勺儿。  
 1. 【[笊篱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_li.md#笊篱)】`zho3 li2` <sup>[如东]</sup> 工具。用金属丝或竹篾、柳条编成，一般圆形，能漏水，有长柄。用来捞取水中的东西。  
 1. 【[笊筢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_pa_r.md#笊筢<sub>儿</sub>)】`zho3 pa2 r` <sup>[如皋]</sup> 拉集乱草的多齿筢。用毛竹或铁丝制造头部，加长柄。  
 1. 【[照](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho.md#照)】`zho5` <sup>[如皋]</sup> ① 略晒一下：衣裳放吖太阳底下～刻儿。 ② 用聚光镜聚阳光：～火。  

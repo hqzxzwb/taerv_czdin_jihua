@@ -1812,7 +1812,7 @@
 1. 【[手口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_keu.md#手口)】`sheu3 keu3` <sup>[兴化]</sup> 指身边眼能看到，拿起来方便的地方：把工具放吖在～里，免得要用的时候到处寻。｜坏啦，一定要出事！两张刀在～哩。（《皮五辣子》三）  
 1. 【[手口里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_keu_lii.md#手口里)】`sheu3 keu3 lii` <sup>[如皋]</sup> 手边，身边。  
 1. 【[手环<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_kuaen_r.md#手环<sub>儿</sub>)】`sheu3 kuaen2 r` <sup>[如东]</sup> 胳膊肘的外侧。  
-1. 【[手榴弹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_lieu_daen.md#手榴弹)】`sheu3 lieu2 daen5` <sup>[东台]</sup> 除本义外，喻指一瓶酒：他好酒量，一颗～没问题！  
+1. 【[手榴弹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_lieu_taen.md#手榴弹)】`sheu3 lieu2 taen6-daen5` <sup>[东台]</sup> 除本义外，喻指一瓶酒：他好酒量，一颗～没问题！  
 1. 【[手榴弹打屁股——好险](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_lieu_taen_da_pi_gu_ho_xin.md#手榴弹打屁股——好险)】`sheu3 lieu2 taen6 da3 pi5 gu ho3 xin3` <sup>[东台]</sup>   
 1. 【[手连脚不住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_lin_jiah_beh_chv.md#手连脚不住)】`sheu3 lin2 jiah7 beh7 chv6` <sup>[兴化]</sup> 手足不停地活动：他一天到晚～的，没得安逸时候。  
 1. 【[手脶脚印](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_lu_jiah_ien.md#手脶脚印)】`sheu3 lu2 jiah7 ien5` <sup>[兴化]</sup> 手足指（趾）纹。  

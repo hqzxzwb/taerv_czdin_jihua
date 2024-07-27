@@ -2078,7 +2078,7 @@
 1. 【[丢头忘尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_teu_van_vei.md#丢头忘尾)】`dieu1 teu2 van6 vei3` <sup>[如东]</sup> 丢了这样，忘了那样。  
 1. 【[丢头忘尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_teu_van_vei.md#丢头忘尾)】`dieu1 teu2 van6 vei3` <sup>[东台]</sup> 做到后头忘掉前头，喻指不能瞻前顾后。  
 1. 【[丢定](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_tien.md#丢定)】`dieu1 tien6` <sup>[兴化]</sup> 买卖成交后，买方先付小部分货款给卖方，定下这批货。如到期不找补货款提货，则定金不再返还。  
-1. 【[丢定惠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_tien_kuei.md#丢定惠)】`dieu1 tien6 kuei` <sup>[如皋]</sup> 给定金。  
+1. 【[丢定规](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_tien_guei.md#丢定规)】`dieu1 tien6 guei` <sup>[如皋]</sup> 给定金。  
 1. 【[丢定钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_tien_qin.md#丢定钱)】`dieu1 tien6 qin2` <sup>[东台]</sup> 事先付出一定的押金（保证金），对买卖双方都有约束，保证约定或合同履行。民间也叫“给垫亏”。  
 1. 【[丢掉翻耙拿扫帚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_tio_faen_pa_na_so_zheu.md#丢掉翻耙拿扫帚)】`dieu1 tio faen1 pa2 na2 so5 zheu3` <sup>[东台]</sup> 形容非常勤快，做好这样又拿起那样活计来做。（《红楼梦》四十七回用此词语）  
 1. 【[丢掉耙<sub>儿</sub>拿扫帚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_tio_pa_r_na_so_zheu.md#丢掉耙<sub>儿</sub>拿扫帚)】`dieu1 tio pa2 r na2 so3 zheu3` <sup>[如皋]</sup> ① 喻见眼生情，做个不停。 ② 见“见眼生情”。  
@@ -2977,7 +2977,7 @@
 1. 【[赌头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_teu.md#赌头)】`dv3 teu2` <sup>[如皋]</sup> ① 为证明某种重大预见的可能性或请求采取重大行动，用自己的人头（生命）作押。 ② 赌博的组织者，以抽头、放债为目的。  
 1. 【[赌虘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_zha.md#赌虘)】`dv3 zha1` <sup>[如皋]</sup> 耍无赖，蛮不讲理。  
 1. 【[赌咒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_zheu.md#赌咒)】`dv3 zheu5` <sup>[如东]</sup> 发誓。  
-1. 【[赌咒发誓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_zheu_faeh_shr.md#赌咒发誓)】`dv3 zheu5 faeh7 shr5` <sup>[东台]</sup> 用赌咒证明自己的清白：他常说谎，谁也不信他的～。  
+1. 【[赌咒发誓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_zheu_faeh_shr.md#赌咒发誓)】`dv3 zheu5 faeh7 shr` <sup>[东台]</sup> 用赌咒证明自己的清白：他常说谎，谁也不信他的～。  
 1. 【[赌嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_zuei.md#赌嘴)】`dv3 zuei3` <sup>[兴化]</sup> （贬）比说的功夫，不干实事：“洒家同你打仗，不同你～！”（扬二《收关胜》）  
 1. 【[嘟䗜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_lieu_r.md#嘟䗜<sub>儿</sub>)】`dv5 lieu r` <sup>[如皋]</sup> 体小色绿秋鸣的蝉，鸣声每节近似“机——遇丝”。  
 1. 【[妒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv.md#妒)】`dv5` <sup>[如皋]</sup> ① 嫉妒。 ② 生气的表情：脸～啊下。  

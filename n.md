@@ -1360,7 +1360,7 @@
 1. 【[傲气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_qi.md#傲气)】`ngo6 qi5` <sup>[如皋]</sup> 傲气。  
 1. 【[傲头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_teu.md#傲头)】`ngo6 teu2` <sup>[如东]</sup> 头抬起来：～张望。  
 1. 【[傲性子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_xien_zz.md#傲性子)】`ngo6 xien5 zz` <sup>[如皋]</sup> ① 个性乖僻，不易与人相合。 ② 高傲。 ③ 倔强、顽强。  
-1. 【[奡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo.md#奡)】`ngo6` <sup>[东台]</sup> 仰头，傲慢的样子。章太炎《新方言》：“音同傲。奡，今淮南吴越谓仰首曰奡起头。”头一～，腿一跷，你神气的哪一家？  
+1. 【[奡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo.md#奡)】`ngo6` <sup>[东台]</sup> 仰头，傲慢的样子。章太炎《新方言》“音同傲。奡，今淮南吴越谓仰首曰奡起头。”：头一～，腿一跷，你神气的哪一家？  
 1. 【[摮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo.md#摮)】`ngo6` <sup>[如皋]</sup> 横击：～脚踝（guae3）儿。  
 1. 【[俄萝卜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_lu_poh.md#俄萝卜)】`ngu2 lu2 poh` <sup>[泰县]</sup> 胡萝卜。  
 1. 【[俄先先<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_xin_xin_r.md#俄先先<sub>儿</sub>)】`ngu2 xin1 xin1 r` <sup>[泰县]</sup> 差一点：他～打到我。  

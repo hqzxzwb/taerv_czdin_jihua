@@ -2774,7 +2774,7 @@
 1. 【[胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_zz.md#胡子)】`hv2 zz` <sup>[兴化]</sup> 有神经质的人：他是个～，说话颠三倒四的。  
 1. 【[胡子拉碴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_zz_la_cha.md#胡子拉碴)】`hv2 zz la1 cha` <sup>[如东]</sup> 形容满面胡子未加修饰。  
 1. 【[胡子擸𢶍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_zz_laeh_saeh.md#胡子擸𢶍)】`hv2 zz laeh8 saeh` <sup>[兴化]</sup> 形容满脸胡须未加修饰：他～的也不怕人恶嫌。  
-1. 【[胡子鲶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_zz_nin.md#胡子鲶)】`hv2 zz nin6` <sup>[如皋]</sup> 鲶鱼。因有鬚，俗称泥八儿。  
+1. 【[胡子鲶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_zz_nin.md#胡子鲶)】`hv2 zz nin2` <sup>[如皋]</sup> 鲶鱼。因有鬚，俗称泥八儿。  
 1. 【[胡子云](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_zz_yen.md#胡子云)】`hv2 zz yen2` <sup>[如皋]</sup> 云景，若关羽之美髯横贯长天。  
 1. 【[胡子桩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_zz_zhuan_r.md#胡子桩<sub>儿</sub>)】`hv2 zz zhuan1 r` <sup>[如皋]</sup> 胡茬儿。  
 1. 【[胡子桩桩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_zz_zhuan_zhuan_r.md#胡子桩桩<sub>儿</sub>)】`hv2 zz zhuan1 zhuan1 r` <sup>[如皋]</sup> 胡茬。  

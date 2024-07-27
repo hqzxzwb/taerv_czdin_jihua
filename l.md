@@ -133,9 +133,7 @@
 1. 【[哪许](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_hae.md#哪许)】`la3 hae5` <sup>[兴化]</sup> ① 疑问，相当于哪儿、哪里：问方所｜你上～去？｜你走～来的？｜你～不舒服？ ② 虚指或任指：他想到～说到～。 ③ 通过反诘达到否定：他～是大学生啊？连高中也不曾毕业。  
 1. 【[哪样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ian.md#哪样)】`la3 ian6` <sup>[如东]</sup> 哪一样。  
 1. 【[哪一出](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ieh_chueh.md#哪一出)】`la3 ieh7 chueh7` <sup>[泰县]</sup> 什么原因：你吵的～？  
-1. 【[哪一家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ieh_jia.md#哪一家)】`la3 ieh7 jia1` 跟在动词、形容词之后，表示责问、反诘：你哭的～；瞎说的～。  
-1. 【[哪一家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ieh_jia.md#哪一家)】`la3 ieh7 jia1` <sup>[兴化]</sup> 问缘由：先来的捱打，后来的捱骂，不来的就罢，这是～的规矩？｜当差的心里话，孙先生好玩，跟我们吵的～？（扬一《火烧博望坡》）  
-1. 【[哪一家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ieh_jia.md#哪一家)】`la3 ieh7 jia1` <sup>[泰县]</sup> 什么：你吵的～？  
+1. 【[哪一家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ieh_jia.md#哪一家)】`la3 ieh7 jia1` <sup>\[兴化\]\[泰县\]</sup>问缘由。常表示责问、反诘：你哭的～；瞎说的～。｜先来的捱打，后来的捱骂，不来的就罢，这是～的规矩？<sup>\[兴化\]</sup>｜当差的心里话，孙先生好玩，跟我们吵的～？（扬一《火烧博望坡》）<sup>\[兴化\]</sup>｜你吵的～？<sup>\[泰县\]</sup>  
 1. 【[哪一码](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ieh_ma.md#哪一码)】`la3 ieh7 ma3` <sup>[兴化]</sup> 问事由：“罢了，查的～。他又不是那一码，你要挡他做什呀？”（扬二《混城》）  
 1. 【[哪一马对哪一车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ieh_ma_dy_la_ieh_jy.md#哪一马对哪一车)】`la3 ieh7 ma3 dy5 la3 ieh7 jy1` <sup>[东台]</sup> 搞不清头绪，全乱套了。  
 1. 【[哪一门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ieh_men.md#哪一门)】`la3 ieh7 men2` <sup>[兴化]</sup> 用于反诘句，什么、什么道理：有责任我自己负，要他急的～？  
