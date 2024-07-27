@@ -893,7 +893,7 @@
 1. 【[大人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ren.md#大人)】`da6 ren` <sup>[如皋]</sup> ① 成年人。 ② 长辈。  
 1. 【[大人吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ren_nga.md#大人吖)】`da6 ren nga` <sup>[如皋]</sup> 发育成为成年人了。  
 1. 【[大人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ren.md#大人)】`da6 ren2` <sup>[如东]</sup> ① 成年人。 ② 长辈。 ③ 旧社会对官僚的称谓。  
-1. 【[大人不计小人过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ren_beh_ji_xio_ren_gu.md#大人不计小人过)】`da6 ren2 beh7 ji5 xio3 ren2 gu5` <sup>[东台]</sup> 有修养有身份的人不计较其他人的过错。  
+1. 【[大人不计小人过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ren_beh_ji_xio_ren_gu.md#大人不计小人过)】`da6 ren2 beh7 ji5 xio3 ren2 gu5` <sup>\[东台\]\[泰兴\]</sup>有修养有身份的人不计较其他人的过错。常用于谦敬，希望对方宽容自己或他人的过错。  
 1. 【[大洒洒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_sa_sa.md#大洒洒)】`da6 sa3 sa3` <sup>[兴化]</sup> 形容对钱财不计较、不在乎：他是～，对这几文不当回事。  
 1. 【[大散四开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_saen_sz_kae.md#大散四开)】`da6 saen5 sz5 kae1` <sup>[兴化]</sup> 形容门户洞开：……女人总有些女人的事情，不能～，什么都展览着呀。（《汪曾祺《皮风山植房子》）  
 1. 【[大蛇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_sha.md#大蛇)】`da6 sha2` <sup>[兴化]</sup> ① （儿童语）蛇。 ② 蟒蛇。 ③ 龙：属～的，今年整六十。  

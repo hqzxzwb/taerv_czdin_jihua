@@ -361,20 +361,24 @@
 1. 【[下半礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_bun_li.md#下半礼)】`xia6 bun5 li3` <sup>[如皋]</sup> 行单跪礼。  
 1. 【[下半世](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_bun_shr.md#下半世)】`xia6 bun5 shr5` <sup>[如皋]</sup> 后半生。  
 1. 【[下材](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_cae.md#下材)】`xia6 cae2` <sup>[如皋]</sup> 小殓。  
+1. 【[下材](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_cae.md#下材)】`xia6 cae2` <sup>[泰兴]</sup> 即下棺材。将死者安放于棺中。  
 1. 【[下叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_cha.md#下叉)】`xia6 cha1` <sup>[兴化]</sup> （贬）下手、采取行动：这批货你再不吃，他就～啦！  
 1. 【[下池](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_chr.md#下池)】`xia6 chr2` <sup>[兴化]</sup> ① 浴室中为人助浴：喊人～。 ② 助浴工人：～的小伙开头还在割头发……（《皮五辣子》一）  
 1. 【[下池沤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_chr_ngeu.md#下池沤)】`xia6 chr2 ngeu5` <sup>[如皋]</sup> 放进粪池中沤肥料。  
 1. 【[下床气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_chuan_qi.md#下床气)】`xia6 chuan2 qi5` <sup>[东台]</sup> 睡醒后无缘无故地发脾气。  
 1. 【[下床气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_chuan_qi.md#下床气)】`xia6 chuan2 qi5` <sup>[兴化]</sup> 形容人起身后心情不好，容易动怒：都督今天～大呢……你们大家要留神。（《火烧赤壁》六）  
 1. 【[下船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_chun.md#下船)】`xia6 chun2` <sup>[兴化]</sup> ① 从船上到岸上，也说“上岸”。 ② 登舟，从岸上到船上：早上六点～，下午两点到岸。  
+1. 【[下处](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_chv.md#下处)】`xia6 chv` <sup>[泰兴]</sup> 住处；供人临时歇宿的地方。乡人常称客栈（旅馆）为下处。  
 1. 【[下处](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_chv.md#下处)】`xia6 chv5` <sup>[如皋]</sup> ① 旅馆，客栈的旧称。 ② 临时住宿处。  
 1. 【[下处](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_chv.md#下处)】`xia6 chv5` <sup>[如东]</sup> 旅馆。  
+1. 【[下操](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_co.md#下操)】`xia6 co1` <sup>[泰兴]</sup> 出操，操练。乡人有“日本人下操，班鬼”语。  
 1. 【[下糙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_co.md#下糙)】`xia6 co5` <sup>[如皋]</sup> ① 负担沉重、花费过多：几十头猪子吃起食来～啷！ ② 能力强：洗衣粉洗衣裳比肥皂～。  
 1. 【[下次](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_cz.md#下次)】`xia6 cz5` <sup>[如皋]</sup> 下回。  
 1. 【[下大礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_da_li.md#下大礼)】`xia6 da6 li3` <sup>[如皋]</sup> ① 行跪拜礼。 ② 行三跪九叩首之礼。  
 1. 【[下裆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_dan.md#下裆)】`xia6 dan1` <sup>[如皋]</sup> 裤腿相夹处。见“胯塴”。  
 1. 【[下裆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_dan.md#下裆)】`xia6 dan1` <sup>[如皋]</sup> 胯下。  
 1. 【[下得去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_deh_qy.md#下得去)】`xia6 deh qy5` <sup>[兴化]</sup> ① 能够摆脱窘境：“……我索性一不做，二不休，闹他一场，看晋芳怎样～”（《广陵潮》九三） ② 和“下不去”对举，表两种可能情况：他不问你～，下不去，想到就说。  
+1. 【[下等人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_den_ren.md#下等人)】`xia6 den ren2` <sup>[泰兴]</sup> 品行不好的人；地位低下的人。  
 1. 【[下朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_do.md#下朝)】`xia6 do` <sup>[如皋]</sup> 见“下二回”，如皋南乡话。  
 1. 【[下簖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_dun.md#下簖)】`xia6 dun5` <sup>[如东]</sup> 在河道的某一段按下簖网。  
 1. 【[下二回](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_er_huei.md#下二回)】`xia6 er6 huei` ① 下次 ② 以后（再也不）：～再也不吃烟吖。/以后再也不抽烟了。  
@@ -383,13 +387,18 @@
 1. 【[下饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_faen.md#下饭)】`xia6 faen6` 开胃口，合着饭吃，比较好吃、开胃。  
 1. 【[下饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_faen.md#下饭)】`xia6 faen6` <sup>[如东]</sup> 某种莱肴能够引起食欲，增加饭量：吃蟹渣能够～。  
 1. 【[下饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_faen.md#下饭)】`xia6 faen6` <sup>[东台]</sup> 菜肴可口，主食也吃得更快：今吖这几个菜蛮～的。  
+1. 【[下饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_faen.md#下饭)】`xia6 faen6` <sup>[泰兴]</sup> 佐餐，或适宜用来佐餐：这个菜不～，用来下酒倒好。  
 1. 【[下放](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_fan.md#下放)】`xia6 fan5` <sup>[泰兴]</sup> 把干部、知识分子放到基层、农村去锻炼、劳动：那年他被安排到农村来～劳动  
+1. 【[下风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_fon.md#下风)】`xia6 fon1` <sup>[泰兴]</sup> 风所吹向的那一方。  
 1. 【[下风人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_fon_ren.md#下风人)】`xia6 fon1 ren2` <sup>[如皋]</sup> 腋臭患者。只能立于下风，其臭才不致影响在一起的人，故名。  
 1. 【[下风头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_fon_teu.md#下风头)】`xia6 fon1 teu2` <sup>[如皋]</sup> 物体被风吹向的地方：人家扬场，他站吖～吃灰，真笨。  
 1. 【[下家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_ga.md#下家)】`xia6 ga1` <sup>[如东]</sup> ① 坐在自己右手边的人。 ② 主谋人：你要交出～。 ③ 窝家：这许是他俫的～。  
+1. 【[下钩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_geu_zz.md#下钩子)】`xia6 geu1 zz` <sup>[泰兴]</sup> 本指下钩钓鱼，喻设计谋诱人上当。也指趁人不备绊脚使跌跤。  
 1. 【[下工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_gon.md#下工)】`xia6 gon1` <sup>[泰兴]</sup> 收工下班：大呼隆的时候，都是统一上工，统一～。  
 1. 【[下锅菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_gu_cae.md#下锅菜)】`xia6 gu1 cae5` <sup>[如皋]</sup> 预备下锅烹调的菜，与腌制、生拌、蒸、蘸、炖的菜相对。  
 1. 【[下锅水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_gu_shuei.md#下锅水)】`xia6 gu1 shuei3` <sup>[如皋]</sup> 煮饭菜所用的水。与只刚不吃的水、茶水相对。  
+1. 【[下棺材](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_gun_cae.md#下棺材)】`xia6 gun1 cae` <sup>[泰兴]</sup> 骂人语。多用于责骂小孩。有时称“纳棺材”，犹“死”之意。  
+1. 【[下馆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_gun_zz.md#下馆子)】`xia6 gun3 zz` <sup>[泰兴]</sup> 到饭店就餐。  
 1. 【[下海](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_hae.md#下海)】`xia6 hae3` <sup>[如东]</sup> ① 到海洋去从事捕捞生产：我家男人～去啊。 ② 到海滩上去从事捕捞生产，如挖蛼螯、捞鱼虾等。  
 1. 【[下海的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_hae_dii.md#下海的)】`xia6 hae3 dii` <sup>[如东]</sup> ① 海户人家：他家是～。 ② 从事海洋捕捞的人：他是～。  
 1. 【[下河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_hu.md#下河)】`xia6 hu2` <sup>[如皋]</sup> ① 从岸上到水边。 ② 指里下河地区。  
@@ -397,6 +406,7 @@
 1. 【[下河人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_hu_ren.md#下河人)】`xia6 hu2 ren2` <sup>[如皋]</sup> 世居里下河一带的人。其方言、风俗习惯与如皋有所不同。  
 1. 【[下河戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_hu_xi.md#下河戏)】`xia6 hu2 xi5` <sup>[如皋]</sup> 里下河一带的戏剧。扬剧、淮剧的旧称。  
 1. 【[下话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_hua.md#下话)】`xia6 hua6` <sup>[兴化]</sup> 给别人提供过物质或精神上的帮助，事后献勤买乖：他的东西要不得，日后～叫你难为情。  
+1. 【[下话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_hua.md#下话)】`xia6 hua6` <sup>[泰兴]</sup> 认输、认错之语，或低声下气向人恳求、求情：他又不肯说～，你说怎么办？  
 1. 【[下荒场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_huan_chan.md#下荒场)】`xia6 huan1 chan` <sup>[如皋]</sup> 詈语。骂青少年，咒其早夭，并埋进荒冢。  
 1. 【[下回](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_huei.md#下回)】`xia6 huei` <sup>[泰兴]</sup> 下次，下一次  
 1. 【[下回](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_huei.md#下回)】`xia6 huei2` <sup>[如皋]</sup> 下次。  
@@ -407,9 +417,12 @@
 1. 【[下阴间](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_ien_jiaen.md#下阴间)】`xia6 ien1 jiaen1` <sup>[如皋]</sup> 灵魂下到地府中。詈语。咒其死。  
 1. 【[下油锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_ieu_gu.md#下油锅)】`xia6 ieu2 gu1` <sup>[如皋]</sup> 詈语。指在世做尽坏事，死后在阴间被滚油煎。  
 1. 【[下油锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_ieu_gu.md#下油锅)】`xia6 ieu2 gu1` <sup>[如东]</sup> 把人放在沸腾的油锅里煎煮。这是一种酷刑：你这吖心狠，要～。  
+1. 【[下油锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_ieu_gu.md#下油锅)】`xia6 ieu2 gu1` <sup>[泰兴]</sup> 古时的一种酷刑。骂人语，喻坏透了，没得好死：做箇种缺德事要～唻。  
+1. 【[下腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_io.md#下腰)】`xia6 io1` <sup>[泰兴]</sup> 弯腰，比喻屈服或尊重、感谢。  
 1. 【[下元节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_iun_jih.md#下元节)】`xia6 iun2 jih7` <sup>[如皋]</sup> 农历十月十五，道教水官生日。  
 1. 【[下家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_jia.md#下家)】`xia6 jia1` <sup>[兴化]</sup> ① 后一家，特指牌桌上靠右手的一家。 ② 旧称妓院：开～的。  
 1. 【[下家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_jia.md#下家)】`xia6 jia1` <sup>[泰县]</sup> ① 妓院。 ② 下一家。  
+1. 【[下家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_jia.md#下家)】`xia6 jia1` <sup>[泰兴]</sup> 打牌、饮酒等坐在本人下一座位的人。  
 1. 【[下脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_jiah.md#下脚)】`xia6 jiah` <sup>[泰兴]</sup> 见“下水”。  
 1. 【[下脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_jiah.md#下脚)】`xia6 jiah7` <sup>[如皋]</sup> ① 胸料。 ② 立足之处：满院子的鸡屎，教人没处～。  
 1. 【[下脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_jiah.md#下脚)】`xia6 jiah7` <sup>[如东]</sup> 原料加工以后剩余的零碎残料。  
@@ -417,20 +430,23 @@
 1. 【[下脚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_jiah_zz.md#下脚子)】`xia6 jiah7 zz` <sup>[兴化]</sup> 挑剩或卖剩的东西：一篮子苹果全是～，拣不起来。也说“脚子货”。  
 1. 【[下劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_jien.md#下劲)】`xia6 jien5` 使劲的，努力的  
 1. 【[下劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_jien.md#下劲)】`xia6 jien5` <sup>[如东]</sup> 使劲：～挖。  
-1. 【[下酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_jieu.md#下酒)】`xia6 jieu3` <sup>[如东]</sup> 配酒喝：炒两个菜～。  
+1. 【[下酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_jieu.md#下酒)】`xia6 jieu3` <sup>\[如东\]\[泰兴\]</sup>佐酒，与酒搭配：炒两个菜～。<sup>\[如东\]</sup>  
 1. 【[下酒菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_jieu_cae.md#下酒菜)】`xia6 jieu3 cae5` <sup>[如东]</sup> 为喝酒而制作的菜肴：这盆炝虾儿是～。  
 1. 【[下酒菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_jieu_cae.md#下酒菜)】`xia6 jieu3 cae5` <sup>[东台]</sup> 有助于饮酒的菜。  
 1. 【[下嘴边<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_jy_bin_r.md#下嘴边<sub>儿</sub>)】`xia6 jy3 bin1 r` <sup>[如皋]</sup> 下嘴唇。  
 1. 【[下卡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_ka_zz.md#下卡子)】`xia6 ka3 zz` <sup>[如皋]</sup> 将卡具放入河中捕鱼鳖等。  
 1. 【[下槛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_kaen.md#下槛)】`xia6 kaen3` <sup>[兴化]</sup> 闼子门房檐下的和挨地面的横木，其上有槽，可以上下门板，上谓上槛，下谓～：他左腿直立，右腿一悬，对准～拎起来就是一脚……（扬一《李逵劫法场》）  
+1. 【[下槛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_kaen.md#下槛)】`xia6 kaen3` <sup>[泰兴]</sup> 门槛，门下边的横木。  
 1. 【[下𪣩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_ken.md#下𪣩)】`xia6 ken5` <sup>[如皋]</sup> 去污力强：皂荚洗头又～又清爽。  
 1. 【[下扣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_keu.md#下扣)】`xia6 keu1` <sup>[如东]</sup> 海洋捕捞作业的一种方法。把绳索埋在沙圻上做固定鱼网的襻子，叫做下扣。  
 1. 【[下口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_keu.md#下口)】`xia6 keu3` <sup>\[如皋\]\[兴化\]\[泰兴\]</sup>咬人。尤其指狗咬人：狗子～。<sup>\[如皋\]</sup>｜老陈家的狗会～。<sup>\[兴化\]</sup>  
 1. 【[下口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_keu.md#下口)】`xia6 keu3` <sup>[兴化]</sup> ① 下面：把香肠挂啊咸肉的～。 ② 右侧：把船靠啊～。  
 1. 【[下考](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_ko.md#下考)】`xia6 ko3` <sup>[泰兴]</sup> 参加考试。一般用于全体参考人员：这回有几万学生～  
 1. 【[下框框<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_kuan_kuan_r.md#下框框<sub>儿</sub>)】`xia6 kuan1 kuan1 r` <sup>[如皋]</sup> 汉字的偏旁之一，“凵”：函凶凿。  
+1. 【[下落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_lah.md#下落)】`xia6 lah` <sup>[泰兴]</sup> 去处，去向；究竟，分晓。  
 1. 【[下落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_lah.md#下落)】`xia6 lah8` <sup>[如东]</sup> ① 解决：不得～。 ② 结束：已经～。 ③ 去处：有啊～。  
 1. 【[下礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_li.md#下礼)】`xia6 li3` <sup>[如皋]</sup> 行礼。  
+1. 【[下礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_li.md#下礼)】`xia6 li3` <sup>[泰兴]</sup> 向客人弯腰施礼以示尊敬或感激、感谢之意。  
 1. 【[下流坯料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_lieu_pi_lio.md#下流坯料)】`xia6 lieu2 pi1 lio6` <sup>[如皋]</sup> 卑劣不端的品行。  
 1. 【[下流坯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_lieu_pi_zz.md#下流坯子)】`xia6 lieu2 pi1 zz` <sup>[兴化]</sup> 卑鄙龌龊的人：这个～甚的脏话总说得出来。  
 1. 【[下溜头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_lieu_teu.md#下溜头)】`xia6 lieu6 teu2` <sup>[兴化]</sup> 湍急河水流去的方向：（二郎）果一变变着个鱼鹰儿，飘荡在～波面上……（《西游记》六）  
@@ -449,6 +465,7 @@
 1. 【[下全礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_qiun_li.md#下全礼)】`xia6 qiun2 li3` <sup>[如皋]</sup> 双膝跪，磕头点地，合十作揖。  
 1. 【[下人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_ren.md#下人)】`xia6 ren` ① <sup>\[兴化\]\[泰县\]\[泰兴\]\[东台\]</sup>指儿女或孙儿，孙女等直系晚辈。与“上人”相对：做～的要孝顺<sup>\[泰兴\]</sup> ② <sup>\[兴化\]\[泰兴\]\[东台\]</sup>旧指仆人：（韩文氏）娘儿两个将就度日，并无仆妇～。（《三侠五义》十）<sup>\[兴化\]</sup>  
 1. 【[下人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_ren.md#下人)】`xia6 ren2` <sup>[如东]</sup> ① 晚辈：我俫都是你的～。 ② 佣人，如保姆、长工等：她在王家做～。  
+1. 【[下辱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_roh.md#下辱)】`xia6 roh8` <sup>[泰兴]</sup> 丢脸，难堪，难为情。詈语。  
 1. 【[下三烂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_saen_laen.md#下三烂)】`xia6 saen1 laen6` <sup>[兴化]</sup> ① 下贱：生意场上公平竞争，不要玩～的手段。 ② 指下贱没出息的人：他是个～，不能共。  
 1. 【[下色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_seh.md#下色)】`xia6 seh7` <sup>[东台]</sup> 人格极端粗俗下流之人。  
 1. 【[下杀断](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_shaeh_tun.md#下杀断)】`xia6 shaeh7 tun6` <sup>[如皋]</sup> 作出决定、决断，不再犹豫。  
@@ -456,14 +473,19 @@
 1. 【[下山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_shaen.md#下山)】`xia6 shaen1` <sup>[兴化]</sup> 隐语，指刑满的人从服刑地出来：他上个月～，家来个把月咖。  
 1. 【[下山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_shaen.md#下山)】`xia6 shaen1` <sup>[泰县]</sup> 结束、有了结果：这件事怎吖到现在还不曾～的？  
 1. 【[下山步](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_shaen_pv.md#下山步)】`xia6 shaen1 pv6` <sup>[如皋]</sup> 下坡（路）。  
+1. 【[下山步](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_shaen_pv.md#下山步)】`xia6 shaen1 pv6` <sup>[泰兴]</sup> 后半部分。比喻失势，犹“下坡路”。  
+1. 【[下食塘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_sheh_tan.md#下食塘)】`xia6 sheh8 tan2` <sup>[泰兴]</sup> 下鱼饵喂鱼。  
 1. 【[下食塘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_sheh_tan_r.md#下食塘<sub>儿</sub>)】`xia6 sheh8 tan2 r` <sup>[如皋]</sup> 钓鱼前先投的诱饵。  
 1. 【[下身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_shen.md#下身)】`xia6 shen` <sup>[泰兴]</sup> ① 身体的下半部：他上身穿的中山装，～是新华达尼裤子，一身笔挺。 ② 阴部  
+1. 【[下伸点](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_shen_din.md#下伸点)】`xia6 shen1 din3` <sup>[泰兴]</sup> 计划经济时期商业系统设置在农村的经销点。  
 1. 【[下手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_sheu.md#下手)】`xia6 sheu` <sup>[泰兴]</sup> 助手，下手把子：做～、打～、当～/做助手  
 1. 【[下手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_sheu.md#下手)】`xia6 sheu3` <sup>[如东]</sup> ① 位于自己的右手边：他在我的～。 ② 自己的帮手：他是我的～。  
 1. 【[下手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_sheu.md#下手)】`xia6 sheu3` <sup>[泰兴]</sup> 动手、着手进行：他佼约定半夜时～  
 1. 【[下手把子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_sheu_ba_zz.md#下手把子)】`xia6 sheu3 ba3 zz` <sup>\[东台\]\[兴化\]\[泰县\]\[泰兴\]\[如皋\]</sup>助手，做辅助性工作的人：你当大师傅，我当你的～。<sup>\[兴化\]</sup>  
+1. 【[下首](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_sheu.md#下首)】`xia6 sheu3` <sup>[泰兴]</sup> 谓位次较低的一边。《水浒传》第 60回：“那个混世魔王樊瑞，骑一匹黑马立于阵前，上首是项充，下首是李衮。”  
 1. 【[下梢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_sho.md#下梢)】`xia6 sho1` <sup>[兴化]</sup> 结果或结局：你只管逍遥自在，不好好做人，当心没得～。｜却是富贵的人……眯着心，任情去做，那里管后来有～没～？（《初刻》二二）  
 1. 【[下熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_shoh.md#下熟)】`xia6 shoh8` <sup>[如皋]</sup> 即秋熟作物。  
+1. 【[下熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_shoh.md#下熟)】`xia6 shoh8` <sup>[泰兴]</sup> 农作物本茬的下一茬，多指秋熟。  
 1. 【[下市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_shr.md#下市)】`xia6 shr6` <sup>[如东]</sup> 比喻结束：不得～。  
 1. 【[下水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_shuei.md#下水)】`xia6 shuei` <sup>[泰兴]</sup> 也称“下脚”。动物的头尾，内脏。  
 1. 【[下水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_shuei.md#下水)】`xia6 shuei3` <sup>[如东]</sup> ① 下游。 ② 面对水流过来的方向，自己的右边，称下水：他在～作业。 ③ 牲畜的内脏，有时专指猪的肚子和肠子。  
@@ -480,8 +502,10 @@
 1. 【[下五码<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_v_ma_r.md#下五码<sub>儿</sub>)】`xia6 v3 ma3 r` <sup>[泰县]</sup> ① 一种游戏。 ② 乱七八糟，陈列不整齐。  
 1. 【[下五马<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_v_ma_r.md#下五马<sub>儿</sub>)】`xia6 v3 ma3 r` <sup>[如东]</sup> ① 一种游戏。在地上画一块方格，两人对抗，以子吃子，吃光为胜。 ② 形容慢慢吞吞：哪个有功夫跟你～？  
 1. 【[下午](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_v.md#下午)】`xia6 v3` <sup>[东台]</sup> 下午的腰餐：师傅吃点儿～再做。  
+1. 【[下雾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_v.md#下雾)】`xia6 v5` <sup>[泰兴]</sup> 起雾。  
 1. 【[下晚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_vaen.md#下晚)】`xia6 vaen3` 傍晚前  
 1. 【[下晚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_vaen.md#下晚)】`xia6 vaen3` <sup>[如皋]</sup> 下午过半，向晚。  
+1. 【[下晚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_vaen.md#下晚)】`xia6 vaen3` <sup>[泰兴]</sup> 傍晚，近黄昏的时候。也说“晚朝”。  
 1. 【[下晚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_vaen_r.md#下晚<sub>儿</sub>)】`xia6 vaen3 r` <sup>[如东]</sup> 傍晚：我～来。  
 1. 【[下晚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_vaen_r.md#下晚<sub>儿</sub>)】`xia6 vaen3 r` <sup>[东台]</sup> 靠近黄昏的时候。  
 1. 【[下晚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_vaen_r.md#下晚<sub>儿</sub>)】`xia6 vaen3 r` <sup>[泰县]</sup> 傍晚。  
@@ -492,6 +516,7 @@
 1. 【[下下处](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_xia_chv.md#下下处)】`xia6 xia6 chv5` <sup>[如皋]</sup> 住旅馆、住客栈。  
 1. 【[下下<sub>儿</sub>昼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_xia_r_zheu.md#下下<sub>儿</sub>昼)】`xia6 xia6 r zheu5` <sup>[如皋]</sup> 炎夏，待烈日西斜之后再……。  
 1. 【[下下午](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_xia_v.md#下下午)】`xia6 xia6 v3` <sup>[兴化]</sup> 近黄昏时分。也称“下晚儿”。  
+1. 【[下乡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_xian.md#下乡)】`xia6 xian1` <sup>[泰兴]</sup> 到农村去，到乡下去。  
 1. 【[下小秧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_xio_ian.md#下小秧)】`xia6 xio3 ian1` <sup>[如东]</sup> 培育秧苗。  
 1. 【[下余](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_y.md#下余)】`xia6 y2` <sup>[兴化]</sup> 除此以外、剩下的：这个三百三，是今日晚上在本衙用的，～一百七，另有用项……（《武松》三）  
 1. 【[下语](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_y.md#下语)】`xia6 y3` <sup>[兴化]</sup> 后面的话：～不找，你心中有数。  
@@ -503,6 +528,7 @@
 1. 【[下葬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_zan.md#下葬)】`xia6 zan5` <sup>[如东]</sup> 将死者的棺材或骨灰盒放入坟墓，叫做下葬。  
 1. 【[下着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_zhah.md#下着)】`xia6 zhah7` <sup>[兴化]</sup> 弈棋走子儿。（喻）安排和准备：原来春儿看见可成浪费，预先～，悄地埋藏这许多东西……（《警世通言》三一）｜也说“下着子”。  
 1. 【[下着子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_zhah_zz.md#下着子)】`xia6 zhah7 zz` <sup>[兴化]</sup> 见“下着”。  
+1. 【[下朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_zho.md#下朝)】`xia6 zho1` <sup>[泰兴]</sup> 改天，下一天，下次。  
 1. 【[下种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_zhon.md#下种)】`xia6 zhon3` <sup>[如东]</sup> 把种子撒在田里，叫做下种。  
 1. 【[下注](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_zhv.md#下注)】`xia6 zhv5` <sup>[东台]</sup> 下赌注；主动出击：对不诚信的人我会当面～。  
 1. 【[下注](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_zhv.md#下注)】`xia6 zhv5` <sup>[兴化]</sup> 投放赌注。（喻）花本钱去做某件事：舍不得～就得不到回报。  

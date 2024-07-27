@@ -674,6 +674,7 @@
 1. 【[晚上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_shan.md#晚上)】`vaen3 shan6` 夜晚  
 1. 【[晚市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_shr.md#晚市)】`vaen3 shr6` <sup>[如皋]</sup> 下午或晚上的营业。  
 1. 【[晚心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_xien.md#晚心)】`vaen3 xien1` 晚上  
+1. 【[晚朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_zho.md#晚朝)】`vaen3 zho1` <sup>[泰兴]</sup> 同“下晚”。  
 1. 【[晚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_zz.md#晚子)】`vaen3 zz3` <sup>[如皋]</sup> 老来所生的子女。  
 1. 【[绾角卷<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_gah_jiun_r.md#绾角卷<sub>儿</sub>)】`vaen3 gah7 jiun3 r` <sup>[如皋]</sup> 长发盘于脑后的女发式。  
 1. 【[绾篙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_go.md#绾篙)】`vaen3 go1` <sup>[如皋]</sup> 铁头有倒钩竹篱。  

@@ -182,6 +182,7 @@
 1. 【[捺鱼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_y_r.md#捺鱼<sub>儿</sub>)】`naeh8 y2 r` <sup>[东台]</sup> 见“面鱼儿”。  
 1. 【[捺拃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_zha.md#捺拃)】`naeh8 zha1` <sup>[如皋]</sup> 张开姆指和中指的距离。  
 1. 【[纳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh.md#纳)】`naeh8` <sup>[兴化]</sup> 缝补：补补～～｜他穿吖一件补天～地的破褂子。  
+1. 【[纳棺材](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_gun_cae.md#纳棺材)】`naeh8 gun1 cae` <sup>[泰兴]</sup> 同“下棺材”。  
 1. 【[纳匣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_haeh_zz.md#纳匣子)】`naeh8 haeh8 zz` <sup>[兴化]</sup> 市井语，骂小孩夭亡，装进简易木匣。  
 1. 【[纳函子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_kaen_zz.md#纳函子)】`naeh8 kaen1 zz` <sup>[如皋]</sup> 詈语，咒小孩早死。  
 1. 【[纳函子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_kaen_zz.md#纳函子)】`naeh8 kaen2 zz` <sup>[如东]</sup> 小孩死了，装进一种小型盒子里埋入土中，叫做纳函子。比喻顽皮的小孩。这是骂小孩子的话：你这个～。  

@@ -2544,6 +2544,7 @@
 1. 【[寸金糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_jien_tan.md#寸金糖)】`cuen5 jien1 tan2` <sup>[如皋]</sup> 用糖稀做成的糖棍。其内包桂花糖、芝麻屑儿，外裹芝麻，色泽金黄，长约寸许。  
 1. 【[寸金糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_jien_tan.md#寸金糖)】`cuen5 jien1 tan2` <sup>[东台]</sup> 一种糖果，寸把长，外滚芝麻。  
 1. 【[寸金糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_jien_tan.md#寸金糖)】`cuen5 jien1 tan2` <sup>[兴化]</sup> 由饴糖做成的小棍，内包砂糖、芝麻屑等，外沾艺麻，长寸许，酥甜可口。  
+1. 【[寸麦吃尺水，尺麦怕寸水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_moh_qieh_cheh.md#寸麦吃尺水，尺麦怕寸水)】`cuen5 moh8 qieh7 cheh7 shuei3 cheh7 moh8 pa5 cuen5 shuei3` <sup>[泰兴]</sup> 农谚。谓麦苗小的时候不怕潮湿，一尺多高的时候怕受涝渍。  
 1. 【[𧺘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen.md#𧺘)】`cuen5` <sup>[如皋]</sup> 作动词，表探摸、探步：肚子肚里～到一个硬块｜他走路～吖～的。  
 1. 【[𧺘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen.md#𧺘)】`cuen5` <sup>[兴化]</sup> ① 探索、探测：（黑夜里）皮五辣子～着步子往前走，两手平起来向前摸着……（《皮五辣子》二）｜拿篙子～～前边有多深。｜～鸡屁股，看多晚能生蛋。 ② 轻手轻脚地：（吴大郎）不敢惊动他，轻松地脱了衣服，吹熄了灯，～（衬）进被窝里来。（《初刻》二）  
 1. 【[𧺘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen.md#𧺘)】`cuen5` <sup>[东台]</sup> 小心慢走、边走边试探。东台词典作“夋”，《说文·夂部》：“夋，行夋夋也，一曰倨也。从夂，允声。七伦切。”反切不合：前头一段路不平，请你小心点儿，～吖脚走。  
