@@ -222,7 +222,7 @@
 1. 【[爷娘侄子（女）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_nian_chih_zz.md#爷娘侄子（女）)】`ia2 nian2 chih8 zz（ny3）` <sup>[东台]</sup> 女子的哥哥或弟弟的儿子（女儿）：东台有句俗话“爷娘侄子，命根头子”。  
 1. 【[爷娘家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_nian_ga.md#爷娘家)】`ia2 nian2 ga` <sup>[如皋]</sup> 出室女称生父母家。  
 1. 【[爷娘家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_nian_ga.md#爷娘家)】`ia2 nian2 ga` <sup>[东台]</sup> 已婚妇女的娘家。  
-1. 【[爷<sub>儿</sub>两个吃咖升半䜺<sub>儿</sub>——有账算账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_r_laen_gu_qieh_ga_shen_bun_cae_r_ieu_zhan_sun_zhan.md#爷<sub>儿</sub>两个吃咖升半䜺<sub>儿</sub>——有账算账)】`ia2 r laen3 gu qieh7 ga shen1 bun5 cae3 r ieu3 zhan5 sun5 zhan5` <sup>[东台]</sup>   
+1. 【[爷<sub>儿</sub>两个吃咖升半䜺<sub>儿</sub>——有账算账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_r_laen_gu.md#爷<sub>儿</sub>两个吃咖升半䜺<sub>儿</sub>——有账算账)】`ia2 r laen3 gu qieh7 ga shen1 bun5 chae3 r ieu3 zhan5 sun5 zhan5` <sup>[东台]</sup>   
 1. 【[爷猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_zhv.md#爷猪)】`ia2 zhv1` <sup>[如东]</sup> 未骟的公猪。  
 1. 【[衙门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_men.md#衙门)】`ia2 men` <sup>[如东]</sup> 旧时官员办公的机关。  
 1. 【[雅趣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_qy.md#雅趣)】`ia2 qy` <sup>[兴化]</sup> 娇气：你真～，一点儿苦不能吃。  

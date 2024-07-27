@@ -155,7 +155,7 @@
 1. 【[三一三十一](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_ieh_saen_sheh_ieh.md#三一三十一)】`saen1 ieh7 saen1 sheh8 ieh7` <sup>\[东台\]\[泰兴\]</sup>珠算口诀。借指平均分为三份。也泛指平均分配：箇笔收入我佼～吧。<sup>\[泰兴\]</sup>  
 1. 【[三茔六葬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_ien_loh_zan.md#三茔六葬)】`saen1 ien2 loh8 zan5` <sup>[如东]</sup> 一种民俗。在一个坟园里，有三个坟茔，埋葬三对夫妇，六个人，称三茔六葬。  
 1. 【[三月里菜花黄，四月里麦登场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_iuh_lii_cae.md#三月里菜花黄，四月里麦登场)】`saen1 iuh lii cae5 hua1 huan2 sz5 iuh lii moh8 den1 chan2` <sup>[泰兴]</sup> 农谚。谓农历三四月间油菜开花，麦子成熟收割。  
-1. 【[三月螺，抵只鹅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_iuh_lu_di.md#三月螺，抵只鹅)】`saen1 iuh lu1 di3 zheh8 ngu2` <sup>[泰兴]</sup> 谓农历三月的螺螺很肥，是当令的食物。  
+1. 【[三月螺，抵只鹅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_iuh_lu_di.md#三月螺，抵只鹅)】`saen1 iuh lu1 di3 zheh7 ngu2` <sup>[泰兴]</sup> 谓农历三月的螺螺很肥，是当令的食物。  
 1. 【[三月三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_iuh_saen.md#三月三)】`saen1 iuh saen1` <sup>[泰兴]</sup> 指农历三月春暖花开、气候宜人的时节。乡人有“～，家雀儿野雀儿总生蛋”“三月的蛋，好当饭”、“～，上孤山”（谓春游）之谚。  
 1. 【[三月长长，四月黄黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_iuh_chan_chan_sz_iuh_huan_huan.md#三月长长，四月黄黄)】`saen1 iuh8 chan2 chan2 sz5 iuh8 huan2 huan2` <sup>[兴化]</sup> 三、四月间日天长，无所事事者百无聊赖：～，焦人子。｜～的，肚子老觉饿。  
 1. 【[三月的蒜苔——不嫩（论）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_iuh_dii_sun_tae_beh_nen.md#三月的蒜苔——不嫩（论）)】`saen1 iuh8 dii sun5 tae2 beh7 nen6 （len6）` <sup>[东台]</sup>   
