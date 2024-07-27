@@ -59,7 +59,7 @@
 1. 【[麻衣大孝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_i_da_xio.md#麻衣大孝)】`ma2 i1 da6 xio5` <sup>[如东]</sup> 一种民间风俗。孝子头戴麻布孝帽儿，脑后系着两根孝箍，身穿白袍，腰扎草绳，腿缠白布襄脚，脚套白布袜、穿白布鞋。这种装束，称麻衣大孝，表示对父母致敬致爱。  
 1. 【[麻衣债](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_i_zhae.md#麻衣债)】`ma2 i1 zhae5` <sup>[东台]</sup> ［喻］急于得到祖上家产，过早动手。  
 1. 【[麻衣债](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_i_zhae.md#麻衣债)】`ma2 i1 zhae5` <sup>[兴化]</sup> 旧时富家不肖子弟，因嫖赌欠下利债，父兄一死，债权人上门索债：等陈洪死，陈兴穿上麻衣孝服，大家就来要债了，所以叫～。（《武松》二）  
-1. 【[麻啊爪啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ia_zhua_ia.md#麻啊爪啊)】`ma2 ia zhua1 ia` <sup>[如皋]</sup> 吓坏了，惊惶失措。  
+1. 【[麻呀爪呀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ia_zhua_ia.md#麻呀爪呀)】`ma2 ia zhua3 ia` <sup>[如皋]</sup> 吓坏了，惊惶失措。  
 1. 【[麻油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ieu.md#麻油)】`ma2 ieu2` 芝麻油  
 1. 【[麻油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ieu.md#麻油)】`ma2 ieu2` <sup>[如东]</sup> 芝麻制成的油，味香。又称香油。  
 1. 【[麻油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ieu.md#麻油)】`ma2 ieu2` <sup>[兴化]</sup> 芝麻油，北方话称“香油”。兴化地区“香油”指菜油、豆油等植物油。  

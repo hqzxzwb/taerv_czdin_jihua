@@ -2009,7 +2009,7 @@
 1. 【[老滑头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_huaeh_teu.md#老滑头)】`lo3 huaeh8 teu2` <sup>[如东]</sup> 老奸巨滑的人。  
 1. 【[老虎窗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_hv_chuan.md#老虎窗)】`lo3 hv chuan1` <sup>[兴化]</sup> 建在屋顶上形似小屋的通风设备，也指在这种设备上安装的窗户。  
 1. 【[老虎皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_hv_pi.md#老虎皮)】`lo3 hv pi2` <sup>[兴化]</sup> 贬称旧时的军警制服：披～的。  
-1. 【[老虎爪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_hv_zhua_zz.md#老虎爪子)】`lo3 hv zhua1 zz` <sup>[兴化]</sup> ① 京江䭣的别称。 ② （喻）手段厉害：他是有名的～，经他的手起码剥去层皮。  
+1. 【[老虎爪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_hv_zhua_zz.md#老虎爪子)】`lo3 hv zhua3 zz` <sup>[兴化]</sup> ① 京江䭣的别称。 ② （喻）手段厉害：他是有名的～，经他的手起码剥去层皮。  
 1. 【[老虎灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_hv_zo.md#老虎灶)】`lo3 hv zo5` <sup>[兴化]</sup> 一种烧开水的大灶，通称“茶水炉子”。为砖砌的长方形台子，四角安有四个很深很大的铁罐，当中有一个火口，用于投放燃料下炉膛燃烧。  
 1. 【[老狐狸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_hv_li.md#老狐狸)】`lo3 hv2 li` <sup>[如东]</sup> 比喻非常狡猾的人：他是一个～。  
 1. 【[老虎窗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_hv_chuan.md#老虎窗)】`lo3 hv3 chuan1` <sup>[如皋]</sup> 屋面气窗。  

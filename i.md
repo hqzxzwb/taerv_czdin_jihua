@@ -2419,13 +2419,13 @@
 1. 【[冤家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_jia.md#冤家)】`iun1 jia1` <sup>[东台]</sup> ① 仇人。 ② 对老朋友的爱称。  
 1. 【[冤死鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_sz_guei.md#冤死鬼)】`iun1 sz3 guei3` <sup>[东台]</sup> 枉费钱财的人：他出面请客，要你做～？  
 1. 【[冤蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_taen.md#冤蛋)】`iun1 taen6` <sup>[东台]</sup> 已经孵化成胚胎形，但因环境、疾病不能育出雏禽的蛋。  
+1. 【[冤枉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_van.md#冤枉)】`iun1 van` <sup>[东台]</sup> ① 被加上不应有的罪名：不要～好人！ ② 不值得，吃亏：因为情况不熟，走啊不少～路。  
 1. 【[冤枉凑巧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_van_ceu_qio.md#冤枉凑巧)】`iun1 van ceu5 qio3` <sup>[如皋]</sup> 状正好碰上（倒楣的事）。  
 1. 【[冤枉鬥巧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_van_deu_qio.md#冤枉鬥巧)】`iun1 van deu5 qio3` <sup>[如皋]</sup> 见“冤枉凑巧”。  
+1. 【[冤枉路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_van_lv.md#冤枉路)】`iun1 van lv6` <sup>[东台]</sup> 不必要走而多走的路。  
 1. 【[冤枉棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_van_pan.md#冤枉棒)】`iun1 van pan6` <sup>[兴化]</sup> 受到不当的惩罚：小曹走路走得好好的，捱啊一顿～，气得要命。  
 1. 【[冤枉气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_van_qi.md#冤枉气)】`iun1 van qi5` <sup>[兴化]</sup> 无端地被人抱怨或斥责：“……我从早苦到晚……还受他的～”（《皮五辣子》三）  
-1. 【[冤枉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_van.md#冤枉)】`iun1 van1` <sup>[东台]</sup> ① 被加上不应有的罪名：不要～好人！ ② 不值得，吃亏：因为情况不熟，走啊不少～路。  
-1. 【[冤枉路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_van_lv.md#冤枉路)】`iun1 van1 lv6` <sup>[东台]</sup> 不必要走而多走的路。  
-1. 【[冤枉钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_van_qin.md#冤枉钱)】`iun1 van1 qin2` <sup>[东台]</sup> 没必要花而花掉的钱。  
+1. 【[冤枉钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_van_qin.md#冤枉钱)】`iun1 van qin2` <sup>[东台]</sup> 没必要花而花掉的钱。  
 1. 【[鸳鸯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_ian.md#鸳鸯)】`iun1 ian1` <sup>[如皋]</sup> 本是一种鸟儿，喻杂配的东西：这两只鞋子是～的，不是原配。  
 1. 【[鸳鸯配](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_ian_pei.md#鸳鸯配)】`iun1 ian1 pei5` <sup>[如皋]</sup> 见“鸳鸯”。  
 1. 【[元宝篮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_bo_laen.md#元宝篮)】`iun2 bo laen2` <sup>[兴化]</sup> 两端上翘，形似元宝的香篮子。  
