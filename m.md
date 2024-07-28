@@ -1089,7 +1089,7 @@
 1. 【[眉头眼目](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_teu_ngaen_moh.md#眉头眼目)】`mi2 teu2 ngaen3 moh8` <sup>[东台]</sup> 见机行事的能力。（同“眼头见识”）  
 1. 【[眯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#眯)】`mi2` <sup>[如皋]</sup> ① 目半闭：眼睛～啊下。 ② 和蔼微笑：笑～～。  
 1. 【[眯稀眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_xi_ngaen.md#眯稀眼)】`mi2 xi ngaen3` <sup>[兴化]</sup> 近视眼、小眼。  
-1. 【[糜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#糜)】`mi2` <sup>[泰县]</sup> 煮烂：把肉放吖锅里多～～。  
+1. 【[糜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#糜)】`mi2` <sup>\[泰县\]\[东台\]\[兴化\]</sup>煮烂\[东台：用文火慢慢煮烂\]\[兴化：煮肉食时，文火慢煨，使佐料渗入肉中\]：把肉放吖锅里多～～。<sup>\[泰县\]</sup>｜老母鸡放吖锅里～啊两个钟头。<sup>\[东台\]</sup>｜把肉放吖锅里～～。<sup>\[兴化\]</sup>  
 1. 【[迷魂药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_huen_iah.md#迷魂药)】`mi2 huen2 iah8` <sup>[兴化]</sup> 见“迷魂汤”。  
 1. 【[迷魂汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_huen_tan.md#迷魂汤)】`mi2 huen2 tan1` <sup>[如东]</sup> ① 迷信者认为，人死后，灵魂走到难河桥上，王妈妈给他喝一碗汤，把魂灵迷住了，忘记了人间的一切。这种汤叫做迷魂汤。 ② 比喻酒：他又喝咖～。 ③ 比喻迷惑人的花言巧语：他捱～灌糊涂啊。  
 1. 【[迷魂汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_huen_tan.md#迷魂汤)】`mi2 huen2 tan1` <sup>[兴化]</sup> （喻）迷惑人的言行：你喝咖她的～，连自己是甚的人总忘掉啊。也说“迷魂药”。  
@@ -1105,8 +1105,6 @@
 1. 【[霉天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_tin.md#霉天)】`mi2 tin1` <sup>[如皋]</sup> 芒种到夏至间多雨潮湿的天气。  
 1. 【[靡费](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_fei.md#靡费)】`mi2 fei5` <sup>[如皋]</sup> 各种不可少或预算外的费用。  
 1. 【[麋鹿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_loh.md#麋鹿)】`mi2 loh8` <sup>[东台]</sup> 动物名，因头似马、角似鹿、尾似驴、蹄似牛而称“四不像”。开庄遗址出土的～化石，证明5000年前东台一带是～活动的地方。现在东台北边有大丰～自然保护区。  
-1. 【[𤓒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#𤓒)】`mi2` <sup>[东台]</sup> 用文火慢慢煮烂：老母鸡放吖锅里～啊两个钟头。  
-1. 【[𤓒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#𤓒)】`mi2` <sup>[兴化]</sup> 煮肉食时，文火慢煨，使佐料渗入肉中：把肉放吖锅里～～。  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#□)】`mi3` <sup>[泰县]</sup> ① 寻觅：山芋田里会～到好多老鼠洞。 ② 悄悄地监视：你注意～住他，看他到哪许去啊。  
 1. 【[□根子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_gen_zz.md#□根子)】`mi3 gen1 zz` <sup>[泰县]</sup> 追根求源。  
 1. 【[渳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#渳)】`mi3` <sup>[如东]</sup> 用嘴唇轻轻地喝一口：～一口五粮液。  
