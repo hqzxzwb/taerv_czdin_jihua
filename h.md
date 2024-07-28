@@ -2402,9 +2402,7 @@
 1. 【[豁筢齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_pa_chr.md#豁筢齿)】`huh7 pa2 chr3` <sup>[泰县]</sup> 牙齿不全。  
 1. 【[豁䶕齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_pah_chr.md#豁䶕齿)】`huh7 pah7 chr3` <sup>[如东]</sup> 门牙掉了一颗或几颗，叫豁䶕齿。  
 1. 【[豁嘴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_zuei_zz.md#豁嘴子)】`huh7 zuei3 zz` <sup>[兴化]</sup> 兔唇。  
-1. 【[豁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_zz.md#豁子)】`huh7 zz` <sup>[如东]</sup> ① 嘴唇上有一个缺口，叫豁子。 ② 道路上有一个缺口，叫豁子。  
-1. 【[豁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_zz.md#豁子)】`huh7 zz` <sup>[东台]</sup> 缺口：碗高头斗啊个～。（另见“豁子huaeh7 zz”）  
-1. 【[豁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_zz.md#豁子)】`huh7 zz` <sup>[兴化]</sup> ① 兔唇。也称“豁嘴子。” ② （喻）缺口：城墙上有个～。｜圩上有个～。  
+1. 【[豁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_zz.md#豁子)】`huh7 zz` ① <sup>\[东台\]\[如东\]\[兴化\]</sup>缺口：碗高头斗啊个～。（另见“豁子huaeh7 zz”）<sup>\[东台\]</sup>｜城墙上有个～。<sup>\[兴化\]</sup>｜圩上有个～。<sup>\[兴化\]</sup> ② <sup>\[如东\]\[兴化\]</sup>嘴唇有豁口者，兔唇残疾者。\[兴化：也称“豁嘴子。”\]  
 1. 【[𧌄虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_chon.md#𧌄虫)】`huh7 chon2, uh7 chon2, hoh7 chon2` <sup>[如皋]</sup> 蚜虫。  
 1. 【[合把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_ba.md#合把)】`huh8 ba3` <sup>[东台]</sup> 合群，与大家关系融洽。  
 1. 【[合把子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_ba_zz.md#合把子)】`huh8 ba3 zz` <sup>[兴化]</sup> ① 形容武打演员动作协调，表演精彩。 ② （借）二人或多人共事配合默契：老张、老王两个人～，工作蛮协调的。  
@@ -2447,9 +2445,7 @@
 1. 【[合子蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_zz_hae.md#合子蟹)】`huh8 zz hae3` <sup>[如东]</sup> 两只蟹，一公一母，称合子蟹。  
 1. 【[合子门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_zz_men.md#合子门)】`huh8 zz men2` <sup>[如东]</sup> 由两扇门组成的门，称合子门。  
 1. 【[喝五实六](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_v_sheh_loh.md#喝五实六)】`huh8 v3 sheh8 loh8` <sup>[泰县]</sup> 说话不实：你不要～的。  
-1. 【[活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh.md#活)】`huh8` <sup>[如皋]</sup> 抖动。  
-1. 【[活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh.md#活)】`huh8` <sup>[东台]</sup> 颤抖。  
-1. 【[活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh.md#活)】`huh8` <sup>[兴化]</sup> 颤抖：抖抖～｜一～抖，二～战｜救火车一响，老太太吓得直～。  
+1. 【[活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh.md#活)】`huh8` <sup>\[如皋\]\[东台\]\[兴化\]</sup>抖动；颤抖：把堂灰～下去｜手抖抖～～的｜一～抖，二～战<sup>\[兴化\]</sup>｜救火车一响，老太太吓得直～。<sup>\[兴化\]</sup>  
 1. 【[活剥剥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_bah_bah.md#活剥剥)】`huh8 bah7 bah7` <sup>[如东]</sup> 活生生：～的死啊。  
 1. 【[活剥剥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_bah_bah.md#活剥剥)】`huh8 bah7 bah7` <sup>[兴化]</sup> 活生生：小花狗捱人家～的打死啊。‖也说“活鲜鲜”。  
 1. 【[活剥剥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_bah_bah.md#活剥剥)】`huh8 bah7 bah7` <sup>[泰县]</sup> 活蹦乱跳：他上街买啊几条～的大鱼。  
@@ -2541,7 +2537,6 @@
 1. 【[盒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_zz.md#盒子)】`huh8 zz` <sup>[如东]</sup> 容器。木制、竹制或金属制，长方形或方形，有盖。可以装物。  
 1. 【[盒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_zz.md#盒子)】`huh8 zz` <sup>[兴化]</sup> 盛在特制的盒子里馈赠的食物：姚家记挂女儿，办了几个～，做了些点心，差一男一妇到潘家来……（《初刻》二）  
 1. 【[盒子瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_zz_gua.md#盒子瓜)】`huh8 zz gua1` <sup>[东台]</sup> 一种扁圆形的南瓜。  
-1. 【[蛤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_zz.md#蛤子)】`huh8 zz` <sup>[如东]</sup> 蛤蜊科动物四角蛤蜊，俗名黄泥蛤子。  
 1. 【[□头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_teu.md#□头)】`hun1 teu2` <sup>[泰县]</sup> 酱油发了霉。  
 1. 【[憨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun.md#憨)】`hun1` <sup>[兴化]</sup> 笨：这个小伙～头～脑的。  
 1. 【[欢天喜地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_tin_xi_ti.md#欢天喜地)】`hun1 tin1 xi3 ti6` <sup>[如东]</sup> 非常高兴。  
@@ -2557,7 +2552,7 @@
 1. 【[獾猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_zhv.md#獾猪)】`hun1 zhv1` <sup>[如东]</sup> ① 猪獾。 ② 工具。有铁制和竹制两种。长条形，尖头。头上有孔，可以穿绳索。用于穿刺茅屋。  
 1. 【[獾猪<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_zhv_r.md#獾猪<sub>儿</sub>)】`hun1 zhv1 r` <sup>[东台]</sup> 体形大小似狗獾，但其鼻垫与上唇间裸露，吻鼻部狭长而圆，酷似猪鼻。  
 1. 【[獾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_zz.md#獾子)】`hun1 zz` <sup>[如东]</sup> 指如皋地区的人。  
-1. 【[蚶子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_zz.md#蚶子)】`hun1 zz` <sup>[如东]</sup> 蚶科动物魁蚶、泥蚶、毛蚶的总称。  
+1. 【[蚶子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_zz.md#蚶子)】`hun1 zz` <sup>[如东]</sup> ① 蚶科动物魁蚶、泥蚶、毛蚶的总称。 ② 也指四角蛤蜊。  
 1. 【[蚶子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_zz.md#蚶子)】`hun1 zz` <sup>[东台]</sup> 软体动物，深潜海边滩涂沙泥中，清明前后肉质鲜嫩，味道最肥美，称之为“菜花～”，常呈簇状分布。  
 1. 【[䗙䘆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_xin.md#䗙䘆)】`hun2 xin3` 蚯蚓，口语一般说hu2 xin1。  
 1. 【[含](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun.md#含)】`hun2` <sup>[东台]</sup> 用于书面语：～恨｜～笑｜～羞｜～冤。  
