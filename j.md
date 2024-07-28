@@ -937,7 +937,7 @@
 1. 【[经老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_lo.md#经老)】`jien1 lo3` <sup>[如皋]</sup> ① 人的年龄不断增加而人的样子不觉得衰老。 ② 不觉得变化。俗：变天经夜不经暗，麻子～不经看。也说“见老”。  
 1. 【[经老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_lo.md#经老)】`jien1 lo3` <sup>[兴化]</sup> 指人历经沧桑仍不显老：老刘真～，十几年不见，还和以前一样精神。  
 1. 【[经饿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_ngu.md#经饿)】`jien1 ngu6` <sup>[东台]</sup> 指某种食物吃了以后不容易饿：馒头～｜喝薄粥不～。  
-1. 【[经败](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_pae.md#经败)】`jien1 pae5` <sup>[兴化]</sup> ① 指人容颜经久而不显老：她在乡下十几年，还是又白又嫩的，真～。 ② 指布匹木料等质地牢固，经久不朽。  
+1. 【[经败](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_pae.md#经败)】`jien1 pae6` <sup>[兴化]</sup> ① 指人容颜经久而不显老：她在乡下十几年，还是又白又嫩的，真～。 ② 指布匹木料等质地牢固，经久不朽。  
 1. 【[经吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_qieh.md#经吃)】`jien1 qieh7` <sup>[如皋]</sup> 可供长时间吃或长期吃。也说“见吃”。  
 1. 【[经吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_qieh.md#经吃)】`jien1 qieh7` <sup>[东台]</sup> 经得起吃，吃了好一会还有：今吖买的虾仁不～。  
 1. 【[经手不穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_sheu_beh_qion.md#经手不穷)】`jien1 sheu3 beh7 qion2` <sup>[如皋]</sup> 经办者从中捞好处。见“落钱”。  

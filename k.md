@@ -650,6 +650,7 @@
 1. 【[㩭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko.md#㩭)】`ko6` <sup>[如皋]</sup> 纠缠，言、行、理、形皆有之：说～～儿理、同你～、～事。  
 1. 【[㩭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko.md#㩭)】`ko6` <sup>[东台]</sup> 两条小腿相交：坐要有坐相，不要两个腿～啊一起。  
 1. 【[㩭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko.md#㩭)】`ko6` <sup>[兴化]</sup> ① 缠绕：～住头。 ② 交叉：十字～儿。  
+1. 【[㩭边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_bin.md#㩭边)】`ko6 bin1` <sup>[如皋]</sup> 锁边机给布料锁边。  
 1. 【[㩭夹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_gaeh.md#㩭夹)】`ko6 gaeh7` <sup>[东台]</sup> 相互之间纠缠在一起，理事不清楚：这里头有～，不能随便说是说非。  
 1. 【[㩭梗<sub>儿</sub>白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_gen_r_poh.md#㩭梗<sub>儿</sub>白)】`ko6 gen3 r poh8` <sup>[如皋]</sup> 初冬上市供腌咸菜用的青菜，白梗多而高，且互相交叉，故名。  
 1. 【[㩭㩭<sub>儿</sub>理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_ko_r_li.md#㩭㩭<sub>儿</sub>理)】`ko6 ko6 r li3` <sup>[如皋]</sup> 不正当的理由、或故意胡蛮缠的歪理。  
@@ -658,7 +659,6 @@
 1. 【[㩭㩭账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_ko_zhan.md#㩭㩭账)】`ko6 ko6 zhan5` <sup>[东台]</sup> 账务涉及的几个方面互为债权债务关系，也称“绕绕账”：～，要仔细理。  
 1. 【[㩭蛮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_maen.md#㩭蛮)】`ko6 maen2` <sup>[如皋]</sup> 商借者的自谦用语：同你～，借个梯子。  
 1. 【[㩭蛮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_maen.md#㩭蛮)】`ko6 maen2` <sup>[东台]</sup> 蛮不讲理地纠缠：要耐心接待，不要轻易说上访群众～。  
-1. 【[㩭边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_pin.md#㩭边)】`ko6 pin1` <sup>[如皋]</sup> 锁边机给布料锁边。  
 1. 【[㩭七㩭八的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_qieh_ko_baeh_dii.md#㩭七㩭八的)】`ko6 qieh7 ko6 baeh7 dii` <sup>[如皋]</sup> 纠缠在一起乱七八糟的样子。  
 1. 【[哭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/koh.md#哭)】`koh7` <sup>[如东]</sup> 因痛苦悲哀或感情激动而流泪，有时还发出声音。  
 1. 【[哭宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/koh_bo_r.md#哭宝<sub>儿</sub>)】`koh7 bo3 r` 爱哭的小孩。  
@@ -876,9 +876,7 @@
 1. 【[块块](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_kuae.md#块块)】`kuae5 kuae5` <sup>[东台]</sup> ① 处处：生姜米～搭。 ② 指地方，相对于条条（行业、部门）：条条～要统筹兼顾。  
 1. 【[块块赸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_kuae_shuaen.md#块块赸)】`kuae5 kuae5 shuaen1` <sup>[如皋]</sup> 到处追、找。  
 1. 【[块头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_teu.md#块头)】`kuae5 teu` <sup>[如东]</sup> 人的体型：来啊一个大～。  
-1. 【[块头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_teu.md#块头)】`kuae5 teu` <sup>[如皋]</sup> 人的身材。  
-1. 【[块头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_teu.md#块头)】`kuae5 teu` <sup>[如皋]</sup> 身高和胖瘦。  
-1. 【[块头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_teu.md#块头)】`kuae5 teu` <sup>[如皋]</sup> 见“身块”。  
+1. 【[块头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_teu.md#块头)】`kuae5 teu` <sup>[如皋]</sup> 人的身材；身高和胖瘦。同“身块”。  
 1. 【[块子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_zz.md#块子)】`kuae5 zz` <sup>[兴化]</sup> 成疙瘩或成团的东西：豆腐～；肥肉～；糖～。  
 1. 【[快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae.md#快)】`kuae5` <sup>[如东]</sup> ① 速度：他跑啊～。 ② 锋利：这把刀～。  
 1. 【[快边<sub>儿</sub>门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_bin_r_men.md#快边<sub>儿</sub>门)】`kuae5 bin1 r men2` <sup>[如东]</sup> 门的一种。全门为一扇。也叫独个儿门。  
@@ -1324,7 +1322,7 @@
 1. 【[苦洇洇的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_ien_ien_dii.md#苦洇洇的)】`kv3 ien1 ien1 dii` <sup>[如皋]</sup> 有一点苦味。  
 1. 【[苦洇洇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_ien_ien.md#苦洇洇)】`kv3 ien5 ien` <sup>[泰县]</sup> 苦味较浓：这个药～的。  
 1. 【[苦叽叽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_ji_ji.md#苦叽叽)】`kv3 ji1 ji1` <sup>[如皋]</sup> 有一点苦味。  
-1. 【[苦蘻蘻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_ji_ji.md#苦蘻蘻)】`kv3 ji1 ji1` <sup>[兴化]</sup> 形容味苦：黄花草吃咖在嘴里～的。蘻，草名。《尔雅·释草》“～，狗毒。”注“樊光云，俗语苦如～。”俗作“苦叽叽”。  
+1. 【[苦叽叽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_ji_ji.md#苦叽叽)】`kv3 ji1 ji1` <sup>[兴化]</sup> 形容味苦：黄花草吃咖在嘴里～的。  
 1. 【[苦蘻蘻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_ji_ji.md#苦蘻蘻)】`kv3 ji5 ji` <sup>[东台]</sup> 味道很苦。（《说文：艸部》“蘻，狗毒也。从艸，繫声。古诣切。”註：樊光云俗語苦如蘻。）  
 1. 【[苦酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_jieu.md#苦酒)】`kv3 jieu3` <sup>[如东]</sup> ① 酒的味道苦涩。 ② 比喻上人情：你又要吃～啦。 ③ 比喻无可奈何地吃亏：只好喝下这杯～。  
 1. 【[苦娇𠆧<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_jio_nian_r.md#苦娇𠆧<sub>儿</sub>)】`kv3 jio nian2 r` <sup>[如皋]</sup> 日夜操劳十分辛苦的人。  

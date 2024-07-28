@@ -592,7 +592,7 @@
 1. 【[大潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_cho.md#大潮)】`da6 cho2` <sup>[如东]</sup> 海潮水位高，称大潮：8月15日涨～。  
 1. 【[大虫吃小虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chon_qieh_xio.md#大虫吃小虫)】`da6 chon2 qieh7 xio3 chon2` <sup>[泰兴]</sup> 见“大鱼吃小鱼”。  
 1. 【[大池](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chr.md#大池)】`da6 chr2` <sup>[如皋]</sup> ① 大的粪池。 ② 公共浴室最大的浴池。  
-1. 【[大处着眼，小处着手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chv_zhah_ngaen.md#大处着眼，小处着手)】`da6 chv zhah7 ngaen3 xio3 chv zhah7 sheu3` <sup>[泰兴]</sup> 从大的重要的方面观察、考虑问题；从小的方面着手处理。  
+1. 【[大处着眼，小处着手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chv_zhah_ngaen.md#大处着眼，小处着手)】`da6 chv zhah7 ngaen3 xio3 chv zhah7 sheu3` <sup>[泰兴]</sup> 从大的重要的方面观察、考虑问题，从小的方面着手处理。  
 1. 【[大暑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chv.md#大暑)】`da6 chv3` 二十四节气之一。通常在阳历7月22、23或24日。  
 1. 【[大寺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_cz.md#大寺)】`da6 cz6` <sup>[如皋]</sup> 原名广福寺，唐时建，在如皋城内西北部。  
 1. 【[大大咧咧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_da_lae_lae.md#大大咧咧)】`da6 da6 lae3 lae3` <sup>[如东]</sup> 随随便便，满不在乎：他俫平常过日子～的，哪许存得起钱来噢。  
@@ -750,7 +750,7 @@
 1. 【[大口套小口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_keu_to_xio_keu.md#大口套小口)】`da6 keu3 to5 xio3 keu3` <sup>[兴化]</sup> （喻）指套着茶壶或酒壶嘴子喝茶、喝酒：他左手抓着壶嘴了……就这么～，咕嘟咕嘟咕嘟地喝了。（《火烧赤壁》四）  
 1. 【[大考](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ko.md#大考)】`da6 ko3` <sup>[泰兴]</sup> 指期末考试，学期终了的考试。  
 1. 【[大胯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_kua.md#大胯)】`da6 kua5` <sup>[兴化]</sup> 胯骨，腰和大脚之间的部分。  
-1. 【[大块头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_kuae_teu.md#大块头)】`da6 kuae1 teu2` <sup>[泰兴]</sup> 谓人的个子高，肥胖：我们今朝到～那许去耍耍。  
+1. 【[大块头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_kuae_teu.md#大块头)】`da6 kuae teu2` <sup>[泰兴]</sup> 谓人的个子高，肥胖：我们今朝到～那许去耍耍。  
 1. 【[大块头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_kuae_teu.md#大块头)】`da6 kuae5 teu2` <sup>[如东]</sup> ① 身材高大的人。 ② 身材肥胖的人。 ③ 身体粗壮的人。  
 1. 【[大匡匡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_kuan_kuan.md#大匡匡)】`da6 kuan1 kuan1` <sup>[如皋]</sup> 大体估计。  
 1. 【[大匡匡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_kuan_kuan.md#大匡匡)】`da6 kuan1 kuan1` <sup>[东台]</sup> 大略地估算，不太精确：这堆粮食～算一下，千把斤。  

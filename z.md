@@ -2559,8 +2559,7 @@
 1. 【[做拙事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_zhuh_shr.md#做拙事)】`zu5 zhuh7 shr6` <sup>[如皋]</sup> 见“做拙脚事”。  
 1. 【[做主](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_zhv.md#做主)】`zu5 zhv3` <sup>[如东]</sup> ① 拿主意：这件事，由你～。 ② 支撑：我的腿脚有病，不能～。  
 1. 【[做主](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_zhv.md#做主)】`zu5 zhv3` <sup>[东台]</sup> 负责、决定。  
-1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuae.md#□)】`zuae1` <sup>[如皋]</sup> 放置、安置：～啊那许点儿。  
-1. 【[栽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuae.md#栽)】`zuae1` <sup>[如皋]</sup> 跌：头上捱～啊个瘤、～跟头。  
+1. 【[栽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuae.md#栽)】`zuae1` <sup>[如皋]</sup> ① 放置、安置：～啊那许点儿。 ② 跌：头上捱～啊个瘤、～跟头。  
 1. 【[卒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zueh.md#卒)】`zueh7` <sup>[东台]</sup> 兵：马前～｜小～子过河胜似车。  
 1. 【[嘴巴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_ba_r.md#嘴巴<sub>儿</sub>)】`zuei3 ba1 r` <sup>[泰县]</sup> 嘴巴。  
 1. 【[嘴巴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_ba_zz.md#嘴巴子)】`zuei3 ba1 zz` 耳光  

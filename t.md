@@ -585,7 +585,7 @@
 1. 【[糖面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_min.md#糖面)】`tan2 min6` <sup>[如东]</sup> 细条面煮熟后，拌糖，称糖面。寿星吃，寓意日子甜美。  
 1. 【[糖馒头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_mun_teu.md#糖馒头)】`tan2 mun2 teu` <sup>[如皋]</sup> ① 甜馅馒头馅又分五仁、洗沙、枣泥等。 ② 加糖或糖精而无馅的馒头。  
 1. 【[糖球<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_qieu_r.md#糖球<sub>儿</sub>)】`tan2 qieu2 r` <sup>[兴化]</sup> 糖渍的山楂果，用小竹篾穿成串。‖北方称“冰糖胡芦。”  
-1. 【[糖搨咖脑勺子后头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_taeh_ga_no_shah_zz_heu_teu.md#糖搨咖脑勺子后头)】`tan2 taeh7 ga no3 shah7 zz heu6 teu` <sup>[东台]</sup> ［喻］指承诺的话虽然动听，但难以兑现：厂长说要加工资，恐怕又是～，看结果吧。  
+1. 【[糖搨咖脑勺子后头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_taeh_ga_no_shah_zz_heu_teu.md#糖搨咖脑勺子后头)】`tan2 taeh7 ga no3 shah8-7 zz heu6 teu` <sup>[东台]</sup> ［喻］指承诺的话虽然动听，但难以兑现：厂长说要加工资，恐怕又是～，看结果吧。  
 1. 【[糖甜菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_tin_cae.md#糖甜菜)】`tan2 tin2 cae5` <sup>[如皋]</sup> 即“菾菜”。可以制糖加“糖”字是与“甜菜（莙荙菜）”相区别。  
 1. 【[糖团](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_tun.md#糖团)】`tan2 tun2` <sup>[兴化]</sup> 糯米粉做的团子，外粘一层糯米，内包糖豆沙馅，在笼上蒸熟。  
 1. 【[糖稀把<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_xi_ba_r.md#糖稀把<sub>儿</sub>)】`tan2 xi ba3 r` <sup>[如皋]</sup> ① 烧饼店涂糖稀用的白麻丝扎的把儿。 ② 喻女孩将短发扎成的小把儿。 ③ 甘蔗捆子亦称之。  
@@ -1610,7 +1610,7 @@
 1. 【[舔屁眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_pi_ngaen.md#舔屁眼)】`tin3 pi5 ngaen3` <sup>[如东]</sup> 比喻拍马屁：这个人就会～。  
 1. 【[舔屁眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_pi_ngaen.md#舔屁眼)】`tin3 pi5 ngaen3` <sup>[兴化]</sup> 骂人拍马溜须：这个死小人，见吖有钱有势的就～。  
 1. 【[舔热屁眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_rih_pi_ngaen.md#舔热屁眼)】`tin3 rih8 pi5 ngaen3` <sup>[泰县]</sup> 趋炎附势。  
-1. 【[㐁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin.md#㐁)】`tin5` <sup>[如皋]</sup> 舌、舌舔动，也写作“舚”：蛇～子只～。  
+1. 【[㐁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin.md#㐁)】`tin5` <sup>[如皋]</sup> ① 舌、舌舔动，也写作“舚”：蛇～子只～。 ② 火燎状：火舌只～  
 1. 【[㐁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin.md#㐁)】`tin5` <sup>[东台]</sup> 特指蛇舌头。《广韵》他念切，《说文》舌貌：蛇～子  
 1. 【[㐁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin.md#㐁)】`tin5` <sup>[兴化]</sup> 蛇舌深分岔，伸出口外部分。（《广韵·㮇韵》他念切，“～，《说文》曰：舌貌。”）：蛇～子。  
 1. 【[㐁舌头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_shih_teu.md#㐁舌头)】`tin5 shih8 teu` <sup>[如皋]</sup> 舌伸出舔动状。  
@@ -1633,7 +1633,6 @@
 1. 【[舚骨斋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_gueh_zhae.md#舚骨斋)】`tin5 gueh7 zhae1` <sup>[如皋]</sup> 讽刺假“吃素”、“吃斋”，不是真修行的行为。  
 1. 【[舚泥螺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_ni_lu.md#舚泥螺)】`tin5 ni2 lu1` <sup>[如东]</sup> 用嘴唇、牙齿和舌头把泥螺肉从壳中拖出来。  
 1. 【[舚鱼卡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_y_ka.md#舚鱼卡)】`tin5 y2 ka3` <sup>[如皋]</sup> 吃鱼时吐出鱼芒、鱼骨。如皋词典写作“唺”。  
-1. 【[𦧡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin.md#𦧡)】`tin5` <sup>[如皋]</sup> 火燎状：火舌只～  
 1. 【[佃户](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hv.md#佃户)】`tin6 hv6` <sup>[如东]</sup> 租种地主田地的农户，叫佃户。  
 1. 【[垫班](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_baen.md#垫班)】`tin6 baen1` <sup>[泰县]</sup> 代人上班。  
 1. 【[垫背](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_bei.md#垫背)】`tin6 bei5` <sup>[兴化]</sup> （喻）代人受过：临死找个～的。  
@@ -2233,10 +2232,9 @@
 1. 【[拖鲜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_xin.md#拖鲜)】`tu1 xin1` <sup>[如东]</sup> 用车辆贩运海鲜。  
 1. 【[拖鲜的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_xin_dii.md#拖鲜的)】`tu1 xin1 dii` <sup>[如东]</sup> 用车辆贩运海鲜的人。  
 1. 【[拖债](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_zhae.md#拖债)】`tu1 zhae5` <sup>[兴化]</sup> 借债：刚刚当会计就叫我去～，我才不去。  
-1. 【[坨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#坨)】`tu2` <sup>[如皋]</sup> ① 成块、成堆：泥～儿、粉～子、～粉。 ② 量词：一～糕（年糕，两块相迭）。  
+1. 【[坨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#坨)】`tu2` <sup>[如皋]</sup> ① 成块、成堆：泥～儿、粉～子、～粉。 ② 量词：一～糕（年糕，两块相迭）。 ③ 叠放：他把碗～啊多高。 ④ 积累：碗上的粥巴子～啊多厚。  
 1. 【[坨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#坨)】`tu2` <sup>[如东]</sup> 叠放：把袋子～啊上头。  
 1. 【[坨粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_fen.md#坨粉)】`tu2 fen3` <sup>[如东]</sup> 食品。以绿豆为原料，制成片状，圆形，软而韧。  
-1. 【[拕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#拕)】`tu2` <sup>[如皋]</sup> ① 叠放：他把碗～啊多高。 ② 积累：碗上的粥巴子～啊多厚。  
 1. 【[沱粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_fen.md#沱粉)】`tu2 fen3` <sup>[东台]</sup> 以蚕豆、豌豆等为原料加工成的淀粉，用于勾芡、做凉粉等。  
 1. 【[陀螺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_lu_r.md#陀螺<sub>儿</sub>)】`tu2 lu1 r` <sup>[如东]</sup> 玩具。圆锥形，用鞭子抽动，能在地上旋转。  
 1. 【[驮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#驮)】`tu2` <sup>[如皋]</sup> 借债：问你～个债，借100块钱。  

@@ -1224,7 +1224,7 @@
 1. 【[寻人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ren.md#寻人)】`qien2 ren2` <sup>[泰县]</sup> 雇佣人：～做伙计。  
 1. 【[寻散疤<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_saen_ba_r.md#寻散疤<sub>儿</sub>)】`qien2 saen5 ba1 r` <sup>[如东]</sup> 故意找问题找毛病，找麻烦：他又来～。  
 1. 【[寻事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_shr.md#寻事)】`qien2 shr` <sup>[如皋]</sup> 寻衅：你不理他，他光是～你。  
-1. 【[寻事头，散事脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_shr_teu_qiah_shr_no.md#寻事头，散事脑)】`qien2 shr teu2 qiah7 shr no3` <sup>[如皋]</sup> 专门地到处寻衅。  
+1. 【[寻事头，皵事脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_shr_teu_qiah_shr_no.md#寻事头，皵事脑)】`qien2 shr teu2 qiah7 shr no3` <sup>[如皋]</sup> 专门地到处寻衅。  
 1. 【[寻尸骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_shr_gueh.md#寻尸骨)】`qien2 shr1 gueh7` <sup>[东台]</sup> （詈语）着急找人又找不到时的气话：帮他～，急煞人！  
 1. 【[寻事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_shr.md#寻事)】`qien2 shr6` <sup>[如皋]</sup> 找麻烦：你是～做的，歇歇要死啊！  
 1. 【[寻事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_shr.md#寻事)】`qien2 shr6` <sup>[兴化]</sup> ① 惹事：好在……自己不出去～，也还不至在这租界上会生出意外风波。（《广陵潮》五九） ② 找碴儿作践人：这次是你来～我，我可不曾惹你。  

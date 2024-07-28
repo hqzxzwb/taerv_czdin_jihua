@@ -203,8 +203,8 @@
 1. 【[细爷爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ia_ia.md#细爷爷)】`xi5 ia2 ia2-3` <sup>[东台]</sup> 最小的叔叔。  
 1. 【[细盐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_in.md#细盐)】`xi5 in2` <sup>[兴化]</sup> 经过加工的再制盐。  
 1. 【[细口腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_keu_io.md#细口腰)】`xi5 keu3 io1` <sup>[如东]</sup> ① 物体最细的地方。 ② 比喻事物的要害处：抓住啊～。  
-1. 【[细巧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ko.md#细巧)】`xi5 ko` <sup>[如皋]</sup> ① 仔细：他做事～。 ② 细致：他考虑得～。 ③ 精致：钟表是～杲子。 ④ 精细：他是～人。 ⑤ 柔弱：丝毛狗儿太～，难养。 ⑥ 瘦小：他的身型～。  
-1. 【[细巧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ko.md#细巧)】`xi5 ko` <sup>[东台]</sup> 同“xi5 qio”。  
+1. 【[细考](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ko.md#细考)】`xi5 ko` <sup>[如皋]</sup> ① 仔细：他做事～。 ② 细致：他考虑得～。 ③ 精致：钟表是～杲子。 ④ 精细：他是～人。 ⑤ 柔弱：丝毛狗儿太～，难养。 ⑥ 瘦小：他的身型～。  
+1. 【[细考](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ko.md#细考)】`xi5 ko` <sup>[东台]</sup> 同“xi5 qio”。  
 1. 【[细㧟锹<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_kuae_qio_r.md#细㧟锹<sub>儿</sub>)】`xi5 kuae6 qio1 r` <sup>[东台]</sup> 见“㧟锹儿”。  
 1. 【[细粮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_lian.md#细粮)】`xi5 lian2` <sup>[如东]</sup> 大米、小麦、獠米、荞麦等。  
 1. 【[细绺绺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_lieu_lieu.md#细绺绺)】`xi5 lieu3 lieu3` <sup>[如东]</sup> 细而长：这根棒儿～的，好用。  
@@ -1740,9 +1740,9 @@
 1. 【[小路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_lv.md#小路)】`xio3 lv6` <sup>[兴化]</sup> ① 偏僻而狭窄的道路。 ② 不正的来路。 ③ 婚外情人：走～。  
 1. 【[小路<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_lv_r.md#小路<sub>儿</sub>)】`xio3 lv6 r` <sup>[泰县]</sup> 男子有外遇。  
 1. 【[小麻饼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ma_bien_r.md#小麻饼<sub>儿</sub>)】`xio3 ma2 bien3 r` <sup>[如皋]</sup> 茶食，一种元大的芝麻脆饼（相对于大麻饼儿而言）。  
-1. 【[小妈妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ma_ma.md#小妈妈)】`xio3 ma3 ma3` <sup>[如东]</sup> 小老婆。  
 1. 【[小嫲嫲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ma_ma.md#小嫲嫲)】`xio3 ma3 ma` <sup>[泰县]</sup> 小老婆。  
 1. 【[小嫲嫲<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ma_ma_r.md#小嫲嫲<sub>儿</sub>)】`xio3 ma3 ma r` <sup>[如皋]</sup> 贬称妾。  
+1. 【[小嫲嫲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ma_ma.md#小嫲嫲)】`xio3 ma3 ma3` <sup>[如东]</sup> 小老婆。  
 1. 【[小码禳形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ma_ran_xien.md#小码禳形)】`xio3 ma3 ran2-5 xien2` <sup>[东台]</sup> 小气，斤斤计较的样子。  
 1. 【[小蚂蜞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ma_ji.md#小蚂蜞)】`xio3 ma3 ji1` <sup>[如皋]</sup> 柳叶蚂蟥。  
 1. 【[小马乍行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ma_cha_xien.md#小马乍行)】`xio3 ma3 cha6 xien2` <sup>[兴化]</sup> （喻）形容小人得志后不可一世。也作“小猫乍行”：“这三世旧臣的面子都不顾……”（《火烧赤壁》六）｜《儿女英雄传》第三十三回有“小马乍行嫌路窄”之谚。  

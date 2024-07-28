@@ -754,14 +754,14 @@
 1. 【[埂子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_zz.md#埂子)】`gen3 zz` <sup>[兴化]</sup> 田间稍稍高起的小岸：田～。  
 1. 【[挭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen.md#挭)】`gen3` <sup>[如东]</sup> 推：你不要～我。墙捱～掉啊。  
 1. 【[挭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen.md#挭)】`gen3` <sup>[如皋]</sup> 推：他推车上桥吃力，我帮吖～。如皋字典写“拫”。  
+1. 【[挭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen.md#挭)】`gen3` <sup>[东台]</sup> 指推：他捱人一～，跌倒啊｜忤逆子竟把父母往外～。  
 1. 【[挭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen.md#挭)】`gen3` <sup>[兴化]</sup> 推、搡。《集韵·樱韵》古杏切：“～，搅也”：用力把他朝前～。｜把枯树～倒。  
 1. 【[挭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen.md#挭)】`gen3` <sup>[泰县]</sup> 推：是他把我～跌下来的。  
 1. 【[梗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen.md#梗)】`gen3` 植物的茎  
+1. 【[梗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen.md#梗)】`gen3` <sup>[兴化]</sup> ① 食物停在胃中难以消化：～吖心里难过。 ② 心中郁闷、难受：他这句浊话我听吖～吖心里好长时间。  
 1. 【[梗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_zz.md#梗子)】`gen3 zz` <sup>[东台]</sup> 某些植物的茎或枝：菜～。［喻］不协调的部分｜当心有人从中作～。  
 1. 【[梗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_zz.md#梗子)】`gen3 zz` <sup>[兴化]</sup> 某些植物的茎：花～；菜～。  
 1. 【[耿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen.md#耿)】`gen3` <sup>[兴化]</sup> 暴出：……余大先生气得两脸紫涨，颈子里的筋都～出来……（《儒林外史》四六）  
-1. 【[𦛟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen.md#𦛟)】`gen3` <sup>[兴化]</sup> ① 食物停在胃中难以消化：～吖心里难过。 ② 心中郁闷、难受：他这句浊话我听吖～吖心里好长时间。《集韵·梗韵》古杏切｜“～，《说文》食物留咽中也。”  
-1. 【[挭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen.md#挭)】`gen5` <sup>[东台]</sup> 指用手推：他捱人一～，跌倒啊｜忤逆子竟把父母往外～。  
 1. 【[更加](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_jia.md#更加)】`gen5 jia1` <sup>[如东]</sup> 表示程度上又深了一层：～好。  
 1. 【[箇吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_nga.md#箇吖)】`gen5 nga` <sup>[如东]</sup> 这样：～好？  
 1. 【[佝背腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_bei_io.md#佝背腰)】`geu1 bei io1` <sup>[兴化]</sup> 指背脊向前弯曲：他是～。  

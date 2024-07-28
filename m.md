@@ -886,7 +886,6 @@
 1. 【[昧良](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_lian.md#昧良)】`mei6 lian2` <sup>[兴化]</sup> 违背良心做事：原来他～，把这笔救命钱昧起来咾。｜东雄既做这桩～的事，自然要结交官府。（《海公大红袍》三四）  
 1. 【[昧没](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_meh.md#昧没)】`mei6 meh` <sup>[东台]</sup> 同“昧瞒”。  
 1. 【[昧瞒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_mun.md#昧瞒)】`mei6 mun` <sup>[东台]</sup> 私吞财物。  
-1. 【[明言](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mein_in.md#明言)】`mein2 in2` <sup>[兴化]</sup> 有话公开、明白地说出来：你有话不妨～，不必绕来绕去。｜州官看罢诉呈，不由肺腑吃惊。他在座上，不好～……（《施公案》五六）  
 1. 【[焖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men.md#焖)】`men1` <sup>[如东]</sup> ① 一种烹调方法。把肉、鳖等菜肴配好作料放在砂锅里，加盖，用文火 ② 煮熟。  
 1. 【[焖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_zz.md#焖子)】`men1 zz` <sup>[如东]</sup> 大砂锅。  
 1. 【[瘟六宫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_loh_gon.md#瘟六宫)】`men1 loh8 gon1` <sup>[如皋]</sup> 不开口，不交谈的孤僻性格。  
@@ -1230,6 +1229,7 @@
 1. 【[明沟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_geu.md#明沟)】`mien2 geu1` <sup>[兴化]</sup> ① 屋面上的排水沟。 ② 地面上未加盖的下水道。  
 1. 【[明坏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_huae.md#明坏)】`mien2 huae6` <sup>[兴化]</sup> 从表面上就可看出为人：这个小伙～，好防；就怕闷坏，防不胜防。｜皮五辣子是～，张老虎表面做好人，骨里比皮五辣子还要坏。（《皮五辣子》二）  
 1. 【[明晃晃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_huan_huan.md#明晃晃)】`mien2 huan5 huan5` <sup>[东台]</sup> 光亮闪烁：～的指挥刀。  
+1. 【[明言](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_in.md#明言)】`mien2 in2` <sup>[兴化]</sup> 有话公开、明白地说出来：你有话不妨～，不必绕来绕去。｜州官看罢诉呈，不由肺腑吃惊。他在座上，不好～……（《施公案》五六）  
 1. 【[明苦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_kv.md#明苦)】`mien2 kv3` <sup>[如皋]</sup> 可知的、明摆的苦头：他是吃得起暗苦，吃不起～。  
 1. 【[明路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_lv.md#明路)】`mien2 lv6` <sup>[如皋]</sup> ① 明确的方向。 ② 正确的途径：你指条～吧，省得我瞎撞。  
 1. 【[明路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_lv.md#明路)】`mien2 lv6` <sup>[兴化]</sup> 正路、能顺利达到目标的路：你覅再乱闯吖，我给你指条～吧！｜“……他还说，指了小的这条～，得了手，他要分半成账……”（《儿女英雄传》三一）  

@@ -53,7 +53,7 @@
 1. 【[靸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_zz.md#靸子)】`saeh7 zz` <sup>[兴化]</sup> ① 木屐。 ② 拖鞋。  
 1. 【[𢶍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh.md#𢶍)】`saeh7` <sup>[东台]</sup> 把东西藏在身上。（东台词典写“扱”，《说文·手部》“扱，收也，从手，及声，楚洽切。”）：他把东西～咖腰里。  
 1. 【[𢶍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh.md#𢶍)】`saeh7` <sup>[兴化]</sup> 掖：～裤子｜～袍子角｜～被头。  
-1. 【[𢶍咖腰里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_ga_io_dii.md#𢶍咖腰里)】`saeh7 ga io1 dii` <sup>[如皋]</sup> 插在腰间：他把手枪～。  
+1. 【[𢶍咖腰里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_ga_io_dii.md#𢶍咖腰里)】`saeh7 ga io1 lii` <sup>[如皋]</sup> 插在腰间：他把手枪～。  
 1. 【[𢶍裤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_kv_zz.md#𢶍裤子)】`saeh7 kv5 zz` <sup>[如皋]</sup> 把裤腰掖进腰带下。  
 1. 【[𢶍衲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_nuh_zz.md#𢶍衲子)】`saeh7 nuh8 zz` <sup>[如皋]</sup> 给婴儿胯下系衲子，防大小便。  
 1. 【[𢶍骑马布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_qi_ma_bv.md#𢶍骑马布)】`saeh7 qi2 ma3 bv5` <sup>[如皋]</sup> 把骑马布系于胯下。  
@@ -597,9 +597,9 @@
 1. 【[蛇蜃百脚的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_shen_boh_jiah_dii.md#蛇蜃百脚的)】`sha2 shen2 boh7 jiah7 dii` <sup>[如皋]</sup> 指毒虫之类。蜃，龙。  
 1. 【[蛇闪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_shin.md#蛇闪)】`sha2 shin3` <sup>[如皋]</sup> 闪电中心的闪光，形似游蛇。  
 1. 【[蛇头王](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_teu_van.md#蛇头王)】`sha2 teu2 van2` <sup>[如皋]</sup> 一枝黄花。  
-1. 【[蛇㐁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_tin_zz.md#蛇㐁子)】`sha2 tin3 zz` <sup>[如东]</sup> ① 蛇舌。也称蛇信子。 ② 比喻眼睛灵敏、眼光闪烁：这个人的眼睛像～一样的。  
 1. 【[蛇㐁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_tin_zz.md#蛇㐁子)】`sha2 tin5 zz` <sup>[如皋]</sup> 蛇舌。  
-1. 【[蛇㐁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_tin_zz.md#蛇㐁子)】`sha2 tin5 zz` <sup>[兴化]</sup> 蛇舌的前分岔。㐁，《说文》：舌貌。他念切。  
+1. 【[蛇㐁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_tin_zz.md#蛇㐁子)】`sha2 tin5 zz` <sup>[如东]</sup> ① 蛇舌。也称蛇信子。 ② 比喻眼睛灵敏、眼光闪烁：这个人的眼睛像～一样的。  
+1. 【[蛇㐁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_tin_zz.md#蛇㐁子)】`sha2 tin5 zz` <sup>[兴化]</sup> 蛇舌的前分岔。㐁，《说文》舌貌。他念切。  
 1. 【[蛇㐁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_tin_zz.md#蛇㐁子)】`sha2 tin5 zz` <sup>[泰县]</sup> ① 蛇的舌头。 ② 很毒的人：这个女的是个～。 ③ 快速：他的眼睛像～。  
 1. 【[蛇芋头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_y_teu.md#蛇芋头)】`sha2 y6 teu2` <sup>[如皋]</sup> 天南星。  
 1. 【[傻不拉叽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_beh_la_ji.md#傻不拉叽)】`sha3 beh7 la1 ji` <sup>[东台]</sup> 傻里傻气。  
@@ -1542,9 +1542,7 @@
 1. 【[身骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_gueh.md#身骨)】`shen1 gueh7` <sup>[如皋]</sup> ① 身体骨架。 ② 人格、气质。 ③ 质量。  
 1. 【[身腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_io.md#身腰)】`shen1 io` <sup>[兴化]</sup> ① 指人体腰部以上的粗细：～大｜～细。 ② 上衣或长衣等腰围的尺寸。  
 1. 【[身腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_io.md#身腰)】`shen1 io1` <sup>[如皋]</sup> 腰围。  
-1. 【[身块](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_kuae.md#身块)】`shen1 kuae5` <sup>[如皋]</sup> 人的身材。  
-1. 【[身块](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_kuae.md#身块)】`shen1 kuae5` <sup>[如皋]</sup> 身高和胖瘦。  
-1. 【[身块](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_kuae.md#身块)】`shen1 kuae5` <sup>[如皋]</sup> 身高和身量的综合。  
+1. 【[身块](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_kuae.md#身块)】`shen1 kuae5` <sup>[如皋]</sup> 人的身材；身高和身量的综合。  
 1. 【[身量](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_lian.md#身量)】`shen1 lian6` <sup>[如皋]</sup> ① 体重：～重。 ② 腰围：～大。 ③ 怀孕的月份。  
 1. 【[身量](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_lian.md#身量)】`shen1 lian6` <sup>[如东]</sup> 腰围：～大。  
 1. 【[身去口去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_qy_keu_qy.md#身去口去)】`shen1 qy5 keu3 qy5` <sup>[兴化]</sup> 外出工作解决生计问题：你出去打工，～的，比在家里吃闲饭好。  

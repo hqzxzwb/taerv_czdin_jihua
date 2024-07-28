@@ -72,6 +72,7 @@
 1. 【[若微](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rah_vei.md#若微)】`rah8 vei2` <sup>[如东]</sup> 数量少或距离小：～移动下子。  
 1. 【[穰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ran.md#穰)】`ran2` <sup>[如皋]</sup> 状碎、软、乱、不成形：把碗打啊～吖；把纸盘吖～吖。  
 1. 【[穰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ran.md#穰)】`ran2` <sup>[东台]</sup> 本指软稻草，［喻］人的本领软弱：要把～班子变成强班子。  
+1. 【[穰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ran.md#穰)】`ran2` <sup>[兴化]</sup> 脏、褶皱：一本书到手三天就盘～吖。｜这件衣裳穿～吖呃。  
 1. 【[穰草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ran_co.md#穰草)】`ran2 co3` <sup>[如皋]</sup> 碾场脱粒后的乱麦秸。  
 1. 【[穰草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ran_co.md#穰草)】`ran2 co3` <sup>[东台]</sup> 用榔头捶过或软的稻草。  
 1. 【[穰草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ran_co.md#穰草)】`ran2 co3` <sup>[兴化]</sup> 乱稻草。  
@@ -80,7 +81,6 @@
 1. 【[蘘荷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ran_hu.md#蘘荷)】`ran2 hu` <sup>[如东]</sup> 姜科植物蘘荷，多年生草本。  
 1. 【[蘘荷草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ran_hu_co.md#蘘荷草)】`ran2 hu co3` <sup>[如东]</sup> 姜科植物蘘荷叶。  
 1. 【[蘘荷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ran_hu_zz.md#蘘荷子)】`ran2 hu zz3` <sup>[如东]</sup> 姜科植物蘘荷种子。  
-1. 【[𧟄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ran.md#𧟄)】`ran2` <sup>[兴化]</sup> 脏、褶皱：一本书到手三天就盘～吖。｜这件衣裳穿～吖呃。｜“大王，想是衬衣～了，久不曾浆洗，故生此物耳。”（《西记》七一）  
 1. 【[让当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ran_dan.md#让当)】`ran6 dan1` <sup>[东台]</sup> 也叫“丢当”，指在紧要关头退缩不前：关键时刻请大家个个尽力，不能～。  
 1. 【[让当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ran_dan.md#让当)】`ran6 dan1` <sup>[兴化]</sup> ① 拉开距离：你让个当，好让我过去。 ② 松动：打假的事不能～。  
 1. 【[让当<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ran_dan_r.md#让当<sub>儿</sub>)】`ran6 dan1 r` <sup>[如皋]</sup> 忍让回避。不带宾语。  
