@@ -54,8 +54,7 @@
 1. 【[打岔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_cha.md#打岔)】`da3 cha5` <sup>[兴化]</sup> 消遣：我烦起来就看小说～。  
 1. 【[打岔头官司](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_cha_teu_gun_sz.md#打岔头官司)】`da3 cha5 teu gun1 sz1` <sup>[东台]</sup> ［喻］干预别人正在做的事，横生枝节添麻烦。  
 1. 【[打插子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chaeh_zz.md#打插子)】`da3 chaeh7 zz` <sup>[兴化]</sup> 由于布幅宽度不够，裁剪时另镶上一小块：他腿子粗，裤档里要～。  
-1. 【[打常](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chan.md#打常)】`da3 chan2` <sup>[如皋]</sup> 正常、平常、经常。  
-1. 【[打常](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chan.md#打常)】`da3 chan2` <sup>[如皋]</sup> 见“站常”。  
+1. 【[打常](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chan.md#打常)】`da3 chan2` <sup>[如皋]</sup> ① 正常、平常、经常。 ② 见“站常”。  
 1. 【[打常过日子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chan_gu_rih_zz.md#打常过日子)】`da3 chan2 gu5 rih8 zz` <sup>[如皋]</sup> 平常过日子。  
 1. 【[打赤膊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_cheh_bah.md#打赤膊)】`da3 cheh7 bah7` <sup>[如东]</sup> 光着身子。  
 1. 【[打赤膊<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_cheh_bah_r.md#打赤膊<sub>儿</sub>)】`da3 cheh7 bah7 r` <sup>[如皋]</sup> 上身赤裸。  
@@ -531,12 +530,7 @@
 1. 【[打嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_zuei.md#打嘴)】`da3 zuei3` <sup>[兴化]</sup> ① 揍耳光。 ② （借）自夸者当场出丑：他这个夸夸其谈的人，今朝自己～啊。  
 1. 【[打嘴不丢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_zuei_beh_dieu.md#打嘴不丢)】`da3 zuei3 beh7 dieu1` <sup>[兴化]</sup> 形容食物味道极美或正是饥中得食的时候，舍不得将食物放下：这种粉团，他不晓得哪一年吃过的，今天吃着，其正打嘴也舍不得丢。（《皮五辣子》二）  
 1. 【[大伯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_boh_zz.md#大伯子)】`da5 boh7 zz` <sup>[如皋]</sup> 指称夫之兄。  
-1. 【[大大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_da.md#大大)】`da5 da` <sup>[兴化]</sup> 伯伯，或比父亲年长的姑母。  
-1. 【[大大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_da.md#大大)】`da5 da` <sup>[泰县]</sup> 伯伯。  
-1. 【[大大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_da.md#大大)】`da5 da5` 伯伯，爸爸的哥哥  
-1. 【[大大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_da.md#大大)】`da5 da5` <sup>[如皋]</sup> 伯伯。  
-1. 【[大大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_da.md#大大)】`da5 da5` <sup>[东台]</sup> 伯伯，父亲的哥哥。也用于对伯母或上一辈男子的尊称。  
-1. 【[大佬倌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lo_gun.md#大佬倌)】`da5 lo3 gun1` <sup>[东台]</sup> 指有身份，受人尊重的人。  
+1. 【[大大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_da.md#大大)】`da5 da` <sup>\[如皋\]\[东台\]\[兴化\]\[泰县\]\[泰兴\]</sup>伯伯，父亲的哥哥\[东台：也用于对伯母或上一辈男子的尊称。\]\[兴化：或比父亲年长的姑母\]\[泰兴：泰兴东乡称年龄高于父亲的同辈男性，即伯父为“大大”，西乡部分地区泛称与父同辈男性为“大大”。\]  
 1. 【[大佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lo_r.md#大佬<sub>儿</sub>)】`da5 lo3 r` <sup>[如皋]</sup> ① 单位的第一领导人。 ② 指称兄弟中的行一者。  
 1. 【[大佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lo_r.md#大佬<sub>儿</sub>)】`da5 lo3 r` <sup>[东台]</sup> 对排行老大的昵称。  
 1. 【[大妈妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma_ma.md#大妈妈)】`da5 ma1 ma` <sup>[如皋]</sup> 伯母。  
@@ -578,10 +572,12 @@
 1. 【[大菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_cae.md#大菜)】`da6 cae5` <sup>[兴化]</sup> ① 大棵青菜。 ② 筵席上的烧菜。  
 1. 【[大差不差](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_cha_beh_cha.md#大差不差)】`da6 cha1 beh7 cha1` <sup>[东台]</sup> 大的方面差不多，小的差别不计较：弟兄分家哪许能绝对平均呢，～就行吖。  
 1. 【[大差不差](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_cha_beh_cha.md#大差不差)】`da6 cha1 beh7 cha1` <sup>[兴化]</sup> 指大体上还过得去：要求不能高，只要～的就行吖。  
+1. 【[大茶饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_cha_faen.md#大茶饭)】`da6 cha2 faen` <sup>[泰兴]</sup> 犹“大世面”：他是吃过～的人/他是见过大世面的人  
 1. 【[大插花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chaeh_hua.md#大插花)】`da6 chaeh7 hua1` <sup>[如东]</sup> 秤杆上的大花，表示整数。如10、20等。  
 1. 【[大插花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chaeh_hua.md#大插花)】`da6 chaeh7 hua1` <sup>[如皋]</sup> 秤星为大花，表示衡量为整十整百的数。  
 1. 【[大铲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chaen.md#大铲)】`da6 chaen3` <sup>[如皋]</sup> 见“铲”。  
 1. 【[大场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chan.md#大场)】`da6 chan2` <sup>[兴化]</sup> ① 广场。 ② 在密集街巷中的成片空地：唐家～；卜家～。  
+1. 【[大场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chan.md#大场)】`da6 chan2` <sup>[泰兴]</sup> 比较大的打谷场：大呼隆的时候，每个队里总有个～。  
 1. 【[大肠头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chan_teu_zz.md#大肠头子)】`da6 chan2 teu2 zz` <sup>[如东]</sup> 肛门。  
 1. 【[大肠头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chan_teu_zz.md#大肠头子)】`da6 chan2 teu2 zz` <sup>[如皋]</sup> 直肠近肛门的一段，粗大肉厚。  
 1. 【[大肠头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chan_teu_zz.md#大肠头子)】`da6 chan2 teu2 zz` <sup>[如皋]</sup> 见“胴疘”。  
@@ -594,7 +590,9 @@
 1. 【[大秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chen.md#大秤)】`da6 chen5` <sup>[如皋]</sup> 秤体大、称量大的杆秤。  
 1. 【[大秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chen.md#大秤)】`da6 chen5` <sup>[兴化]</sup> ① 称量较多的相秤：这把～能打二百斤。 ② 计量超过标准的秤：～进，小秤出。  
 1. 【[大潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_cho.md#大潮)】`da6 cho2` <sup>[如东]</sup> 海潮水位高，称大潮：8月15日涨～。  
+1. 【[大虫吃小虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chon_qieh_xio.md#大虫吃小虫)】`da6 chon2 qieh7 xio3 chon2` <sup>[泰兴]</sup> 见“大鱼吃小鱼”。  
 1. 【[大池](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chr.md#大池)】`da6 chr2` <sup>[如皋]</sup> ① 大的粪池。 ② 公共浴室最大的浴池。  
+1. 【[大处着眼，小处着手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chv_zhah_ngaen.md#大处着眼，小处着手)】`da6 chv zhah7 ngaen3 xio3 chv zhah7 sheu3` <sup>[泰兴]</sup> 从大的重要的方面观察、考虑问题；从小的方面着手处理。  
 1. 【[大暑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chv.md#大暑)】`da6 chv3` 二十四节气之一。通常在阳历7月22、23或24日。  
 1. 【[大寺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_cz.md#大寺)】`da6 cz6` <sup>[如皋]</sup> 原名广福寺，唐时建，在如皋城内西北部。  
 1. 【[大大咧咧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_da_lae_lae.md#大大咧咧)】`da6 da6 lae3 lae3` <sup>[如东]</sup> 随随便便，满不在乎：他俫平常过日子～的，哪许存得起钱来噢。  
@@ -616,9 +614,11 @@
 1. 【[大肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_dv_zz.md#大肚子)】`da6 dv3 zz` <sup>[如东]</sup> ① 人的肚皮十分肥胖。 ② 比喻妇女已经怀孕了：她挺吖个～。  
 1. 【[大肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_dv_zz.md#大肚子)】`da6 dv3 zz` <sup>[如皋]</sup> ① 指孕妇。 ② 脂肪堆积，腹部隆起。 ③ 食量大。  
 1. 【[大而化之](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_er_hua_zhr.md#大而化之)】`da6 er hua5 zhr1` <sup>[兴化]</sup> 形容随随便便，漫不经心的样子：黑巧子～，只管自己高兴……（马春阳《门》）  
+1. 【[大而化之](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_er_hua_zhr.md#大而化之)】`da6 er hua5 zhr1` <sup>[泰兴]</sup> 做事马虎，不细心；待人接物不讲究，大大咧咧。  
 1. 【[大而化之](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_er_hua_zhr.md#大而化之)】`da6 er2 hua5 zhr1` <sup>[东台]</sup> 不细致，大大咧咧。  
 1. 【[大耳朵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_er_du.md#大耳朵)】`da6 er3 du` <sup>[东台]</sup> ① ［喻］指一般化不入神。 ② ［喻］欠债不按时还。  
 1. 【[大耳桌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_er_zhuah_zz.md#大耳桌子)】`da6 er3 zhuah7 zz` <sup>[兴化]</sup> 一种八仙桌的款式，桌面之下，桌腿两侧共有八个像耳朵形状的装饰板。  
+1. 【[大二小三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_er_xio_saen.md#大二小三)】`da6 er6 xio3 saen1` <sup>[泰兴]</sup> 谓摆架子，拿身份，自以为高人一等。贬义。  
 1. 【[大发](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_faeh.md#大发)】`da6 faeh` <sup>[兴化]</sup> ① 代价过高：而今办个喜事花钱～㖸！ ② 了不起：王老板又当上吖甚的委员，～咖。  
 1. 【[大范](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_faen.md#大范)】`da6 faen` <sup>[东台]</sup> 了不起；规模大；声势大。  
 1. 【[大范](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_faen.md#大范)】`da6 faen` <sup>[泰县]</sup> ① 了不起。 ② 代价大：这事～。  
@@ -652,14 +652,17 @@
 1. 【[大公鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_gon_ji.md#大公鸡)】`da6 gon1 ji1` <sup>[兴化]</sup> （喻）指青年小伙子：正是这样，年复一年，那里满眼尽是～。（马春阳《借古讽今》）  
 1. 【[大工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_gon.md#大工)】`da6 gon1` <sup>[如皋]</sup> 指有专长技术的熟练工。  
 1. 【[大工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_gon.md#大工)】`da6 gon1` <sup>[兴化]</sup> ① 师傅、技工，相对于小工、徒工而言：门首交赛儿开张酒店，雇一个酒～叫做洪三，在家造酒。（《警世通言》三三） ② 泥瓦匠今计算工作量时，仍以～、小工为单位。  
+1. 【[大工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_gon.md#大工)】`da6 gon1` <sup>[泰兴]</sup> 大劳力，整劳力，指年轻体力足者。  
 1. 【[大哥不说二哥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_gu_beh_shuh_er_gu.md#大哥不说二哥)】`da6 gu1 beh7 shuh7 er6 gu1` <sup>[东台]</sup> 贬义，两方面存在的问题差不多，谁也别嘲笑谁。  
-1. 【[大哥说二哥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_gu_shuh_er_gu.md#大哥说二哥)】`da6 gu1 shuh7 er6 gu1` <sup>[兴化]</sup> 谓二者相差不多，犹五十步与百步之差：“小伙啊，你不要～，你眼泪水还淌着哩！”（扬二《吹箫过市》）‖谚曰｜大哥不要说二哥，两个哥哥差不多。  
+1. 【[大哥说二哥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_gu_shuh_er.md#大哥说二哥)】`da6 gu1 shuh7 er6 gu1` <sup>[兴化]</sup> 谓二者相差不多，犹五十步与百步之差：“小伙啊，你不要～，你眼泪水还淌着哩！”（扬二《吹箫过市》）｜谚曰：大哥不要说二哥，两个哥哥差不多。  
+1. 【[大哥说二哥，三哥摸屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_gu_shuh_er.md#大哥说二哥，三哥摸屁股)】`da6 gu1 shuh7 er6 gu1 saen1 gu1 mah8 pi5 gu` <sup>[泰兴]</sup> 谓不要谁批评谁，大家都差不多。  
 1. 【[大个子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_gu_zz.md#大个子)】`da6 gu5 zz` <sup>[如东]</sup> 身材高大的人。  
 1. 【[大褂落道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_gua_lah_to.md#大褂落道)】`da6 gua5 lah8 to6` <sup>[如东]</sup> 一般道服比较宽大。比喻衣服肥大，很不合身：看你这身衣裳，～的样子。  
 1. 【[大褂子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_gua_zz.md#大褂子)】`da6 gua5 zz` <sup>[如皋]</sup> ① 长衫，单的长旗袍。 ② 比喻关系疏远：小褂子倒比大褂子靠身些。  
 1. 【[大观](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_gun.md#大观)】`da6 gun1` <sup>[东台]</sup> 同“大方”，慷慨。  
 1. 【[大观其目](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_gun_qi_moh.md#大观其目)】`da6 gun1 qi2 moh8` <sup>[如东]</sup> 粗略地看一下。  
 1. 【[大姑娘上轿——头一回](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_gv_nian_shan_qio_teu_ieh_huei.md#大姑娘上轿——头一回)】`da6 gv1 nian shan6 qio6 teu2 ieh7 huei2` <sup>[东台]</sup>   
+1. 【[大行大市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_han_da_shr.md#大行大市)】`da6 han2 da6 shr6` <sup>[泰兴]</sup> 指商品的一般市场价格：这批货如果～的，我就成趸儿买下来。  
 1. 【[大项](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_han.md#大项)】`da6 han6` <sup>[兴化]</sup> ① 官职很高的人。 ② 拥有大量财富的人。  
 1. 【[大侯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_heu.md#大侯)】`da6 heu` 大儿子  
 1. 【[大后年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_heu_nin.md#大后年)】`da6 heu6 nin2` <sup>[如东]</sup> 往后第四年，称大后年。  
@@ -688,6 +691,7 @@
 1. 【[大寒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_hun.md#大寒)】`da6 hun2` 二十四节气之一。一般在阳历1月20或21日。  
 1. 【[大寒里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_hun_lii.md#大寒里)】`da6 hun2 lii` <sup>[如皋]</sup> 多在阳历的1月21-23间交大寒，约有15天。旧俗“太岁不在家，百无禁忌”。民间多在此期舂粪池、落葬、嫁娶。  
 1. 【[大寒里的太岁——不问事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_hun_lii_dii_tae_xy_beh_ven_shr.md#大寒里的太岁——不问事)】`da6 hun2 lii dii tae5 xy5 beh7 ven6 shr6` <sup>[东台]</sup>   
+1. 【[大呼隆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_hv_lon.md#大呼隆)】`da6 hv1 lon2` <sup>[泰兴]</sup> 形容做事虚张声势，很少实效：不曾实行责任制的时候，做活技是～，干部张嘴立规矩，闭口训社员。  
 1. 【[大户](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_hv.md#大户)】`da6 hv6` <sup>[东台]</sup> 有名望的人家，或人口多、分支繁的家族。也指在某一方面比较突出的单位：用电～。  
 1. 【[大户人家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_hv_ren_ga.md#大户人家)】`da6 hv6 ren2 ga` <sup>[如东]</sup> 有钱的人家。也称大家人家：她是～的人。  
 1. 【[大椅排排](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_i_pae_pae.md#大椅排排)】`da6 i pae2 pae2` <sup>[东台]</sup> 好摆排场；大大咧咧。  
@@ -697,6 +701,7 @@
 1. 【[大野鸭<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ia_ngaeh_r.md#大野鸭<sub>儿</sub>)】`da6 ia3 ngaeh7 r` <sup>[如皋]</sup> 指罗纹鸭。  
 1. 【[大夜班](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ia_baen.md#大夜班)】`da6 ia6 baen1` <sup>[如东]</sup> 班制的一种。凌晨以后的班。  
 1. 【[大夜班](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ia_baen.md#大夜班)】`da6 ia6 baen1` <sup>[兴化]</sup> 夜间零点至早晨八点（或各向前推移一小时）的夜班。区别于“小夜班”。  
+1. 【[大约摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_iah_mah.md#大约摸)】`da6 iah7 mah` <sup>[泰兴]</sup> 大概，可能，恐怕：他今朝～上吖上海。  
 1. 【[大洋马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ian_ma.md#大洋马)】`da6 ian2 ma3` <sup>[东台]</sup> 戏指身材高大的女人。  
 1. 【[大洋外国](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ian_vae_goh.md#大洋外国)】`da6 ian2 vae6 goh7` <sup>[东台]</sup> 指遥远的、很难找到的地方。（也说成“他乡外国”。）  
 1. 【[大养](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ian.md#大养)】`da6 ian3` <sup>[如皋]</sup> ① 足月分娩。与小产相对。 ② 贬指小病或无病而大肆休养。  
@@ -709,7 +714,7 @@
 1. 【[大叶黄杨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ih_huan_ian.md#大叶黄杨)】`da6 ih8 huan2 ian2` <sup>[如东]</sup> 黄杨的一种。叶片较大。  
 1. 【[大叶青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ih_qien.md#大叶青)】`da6 ih8 qien1` <sup>[如东]</sup> 兰科植物盘龙参，多年生草本。  
 1. 【[大叶藻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ih_zo.md#大叶藻)】`da6 ih8 zo3` <sup>[如东]</sup> 大叶藻科植物大叶藻，多年生沉水草本。  
-1. 【[大烟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_in.md#大烟)】`da6 in1` <sup>[东台]</sup> 鸦片：他老爹抽～抽穷啊。  
+1. 【[大烟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_in.md#大烟)】`da6 in1` <sup>\[东台\]\[泰兴\]</sup>鸦片：他老爹抽～抽穷啊。<sup>\[东台\]</sup>  
 1. 【[大烟鬼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_in_guei_r.md#大烟鬼<sub>儿</sub>)】`da6 in1 guei3 r` <sup>[如皋]</sup> 吸大烟成瘾的人。  
 1. 【[大烟花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_in_hua.md#大烟花)】`da6 in1 hua1` <sup>[如皋]</sup> 罂粟花。  
 1. 【[大烟条子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_in_tio_zz.md#大烟条子)】`da6 in1 tio2 zz` <sup>[如东]</sup> 说大话、吹牛皮的人：箇个人是～。  
@@ -726,6 +731,8 @@
 1. 【[大脚板<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_jiah_baen_r.md#大脚板<sub>儿</sub>)】`da6 jiah7 baen3 r` <sup>[如东]</sup> 脚大（与缠足女子相比）的女人。  
 1. 【[大脚髈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_jiah_pan.md#大脚髈)】`da6 jiah7 pan3` <sup>[如东]</sup> 脚髈变粗，多因患上血丝虫病等。  
 1. 【[大脚三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_jiah_saen.md#大脚三)】`da6 jiah7 saen1` <sup>[兴化]</sup> ① 旧称未缠足的女佣：敲开了门，一个～带了进去。（《儒林外史》四二） ② （戏）喜欢串门和管闲事的女人：她是个～，村里人家的大事小事总有她搀和。  
+1. 【[大脚色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_jiah_seh.md#大脚色)】`da6 jiah7 seh7` <sup>[泰兴]</sup> 大人物。贬义：箇些～得罪不起啊！  
+1. 【[大脚装小脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_jiah_zhuan_xio.md#大脚装小脚)】`da6 jiah7 zhuan1 xio3 jiah7` <sup>[泰兴]</sup> 装佯，装得像真的。  
 1. 【[大吉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_jieh.md#大吉)】`da6 jieh7` <sup>[东台]</sup> 非常吉利：开市～。  
 1. 【[大襟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_jien.md#大襟)】`da6 jien1` <sup>[兴化]</sup> 见“大衭”。  
 1. 【[大颈项](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_jien_han.md#大颈项)】`da6 jien3 han6` <sup>[如东]</sup> 患淋巴炎，脖子肿胀起来了。  
@@ -741,7 +748,9 @@
 1. 【[大口洋条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_keu_ian_tio.md#大口洋条)】`da6 keu3 ian2 tio2` <sup>[如东]</sup> 说大话，说空话，吹牛：这个人～的，不要相信。  
 1. 【[大口条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_keu_tio.md#大口条)】`da6 keu3 tio2` <sup>[兴化]</sup> 口条即舌头。～形容人口气大、专门说大话：“你𡂿，代我歇歇，不要甩～，说大话……”（《武松》八）  
 1. 【[大口套小口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_keu_to_xio_keu.md#大口套小口)】`da6 keu3 to5 xio3 keu3` <sup>[兴化]</sup> （喻）指套着茶壶或酒壶嘴子喝茶、喝酒：他左手抓着壶嘴了……就这么～，咕嘟咕嘟咕嘟地喝了。（《火烧赤壁》四）  
+1. 【[大考](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ko.md#大考)】`da6 ko3` <sup>[泰兴]</sup> 指期末考试，学期终了的考试。  
 1. 【[大胯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_kua.md#大胯)】`da6 kua5` <sup>[兴化]</sup> 胯骨，腰和大脚之间的部分。  
+1. 【[大块头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_kuae_teu.md#大块头)】`da6 kuae1 teu2` <sup>[泰兴]</sup> 谓人的个子高，肥胖：我们今朝到～那许去耍耍。  
 1. 【[大块头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_kuae_teu.md#大块头)】`da6 kuae5 teu2` <sup>[如东]</sup> ① 身材高大的人。 ② 身材肥胖的人。 ③ 身体粗壮的人。  
 1. 【[大匡匡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_kuan_kuan.md#大匡匡)】`da6 kuan1 kuan1` <sup>[如皋]</sup> 大体估计。  
 1. 【[大匡匡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_kuan_kuan.md#大匡匡)】`da6 kuan1 kuan1` <sup>[东台]</sup> 大略地估算，不太精确：这堆粮食～算一下，千把斤。  
@@ -764,9 +773,8 @@
 1. 【[大料勺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lio_shah.md#大料勺)】`da6 lio6 shah8` <sup>[如皋]</sup> 有特长竹柄的大号粪勺，专用于从粪池中出粪。  
 1. 【[大老板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lo_baen.md#大老板)】`da6 lo3 baen3` <sup>[如东]</sup> ① 资本雄厚的人。 ② 兄弟中排行最大的：他是～。  
 1. 【[大老板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lo_baen.md#大老板)】`da6 lo3 baen3` <sup>[泰县]</sup> 排行最大的。  
-1. 【[大老粗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lo_cv.md#大老粗)】`da6 lo3 cv1` <sup>[东台]</sup> 没文化的人：你俫两个都是大学生，我是个～。  
-1. 【[大老倌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lo_gun.md#大老倌)】`da6 lo3 gun1` <sup>[兴化]</sup> ① 旧指有身份、有地位的人。 ② （讽）喜欢吹牛，充好汉的人：假充～。  
-1. 【[大老官](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lo_gun.md#大老官)】`da6 lo3 gun1` <sup>[如东]</sup> 旧时对有势有钱人的称呼。  
+1. 【[大老粗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lo_cv.md#大老粗)】`da6 lo3 cv1` <sup>\[东台\]\[泰兴\]</sup>没文化的人。亦用作谦辞：你俫两个都是大学生，我是个～。<sup>\[东台\]</sup>｜我是个～，敬请多多指教。<sup>\[泰兴\]</sup>  
+1. 【[大老官](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lo_gun.md#大老官)】`da6 lo3 gun1` <sup>\[如东\]\[东台\]\[泰兴\]\[兴化\]</sup>旧时对有势有钱人的称呼。或指有身份、有地位的人。\[兴化：可用于讽刺喜欢吹牛，充好汉的人\]：假充～。<sup>\[兴化\]</sup>  
 1. 【[大老槐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lo_huae.md#大老槐)】`da6 lo3 huae2` <sup>[东台]</sup> 指庞然大物：车上装吖个甚的～？原来是个立式空调机。  
 1. 【[大老槐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lo_huae.md#大老槐)】`da6 lo3 huae2` <sup>[泰县]</sup> 最大的物体。  
 1. 【[大老爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lo_i.md#大老爷)】`da6 lo3 i` <sup>[兴化]</sup> 疟疾。民间称打疟疾为“做～。”  
@@ -783,12 +791,14 @@
 1. 【[大卵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lun_zz.md#大卵子)】`da6 lun3 zz` <sup>[东台]</sup> 男人因疝气病阴囊肿大。  
 1. 【[大卵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lun_zz.md#大卵子)】`da6 lun3 zz` <sup>[兴化]</sup> 疝气。也叫“小肠气”。  
 1. 【[大卵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lun_zz.md#大卵子)】`da6 lun3 zz` <sup>[泰县]</sup> 疝气。  
+1. 【[大炉饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lv_bien.md#大炉饼)】`da6 lv2 bien3` <sup>[泰兴]</sup> 黄桥烧饼的一种。以炉烘烤而成。  
 1. 【[大炉烧饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lv_sho_bien.md#大炉烧饼)】`da6 lv2 sho1 bien3` <sup>[兴化]</sup> 见“草炉饼”。  
 1. 【[大路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lv.md#大路)】`da6 lv6` <sup>[如东]</sup> 旧时乡间官道，土路面，宽约一两丈，可以骑马、抬轿、推车。  
 1. 【[大路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lv.md#大路)】`da6 lv6` <sup>[如皋]</sup> 旧时乡间的官道，土路面，约宽3市尺开外，可以推车、骑马、抬轿。  
 1. 【[大路货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lv_hu.md#大路货)】`da6 lv6 hu5` <sup>[如东]</sup> 质量普通而销路较广的货物。  
 1. 【[大路货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lv_hu.md#大路货)】`da6 lv6 hu5` <sup>[如皋]</sup> ① 同“大市货”。 ② 正牌货、名牌货、来路正的货。  
 1. 【[大路脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lv_jiah_r.md#大路脚<sub>儿</sub>)】`da6 lv6 jiah7 r` <sup>[如皋]</sup> 大摇大摆地：他走南头老远的就～的摇过来啊，好不自在！  
+1. 【[大妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma.md#大妈)】`da6 ma` <sup>[泰兴]</sup> 伯母。  
 1. 【[大妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma.md#大妈)】`da6 ma1` <sup>[东台]</sup> 父亲的嫂子。也用于对上一辈女子的尊称。  
 1. 【[大妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma.md#大妈)】`da6 ma1` <sup>[兴化]</sup> 旧称女佣。  
 1. 【[大妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma.md#大妈)】`da6 ma1` <sup>[兴化]</sup> ① 父亲的长嫂，即大伯母。 ② 对年长妇女的敬称：张～；王～。  
@@ -823,6 +833,8 @@
 1. 【[大麦稭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_moh_gae.md#大麦稭)】`da6 moh8 gae1` <sup>[如东]</sup> 禾本科植物大麦秸。  
 1. 【[大麦𪎉子饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_moh_haen_zz_faen.md#大麦𪎉子饭)】`da6 moh8 haen6 zz faen6` <sup>[如东]</sup> 大麦𪎉子做成的饭，味香，干松，营养丰富。  
 1. 【[大麦烧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_moh_sho.md#大麦烧)】`da6 moh8 sho1` <sup>[兴化]</sup> 以大麦为原料酿制的烧酒：……暂时吃不到三坛～，就请存库吧。（马春阳《父女双婚事》）  
+1. 【[大拇节头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_mu_jih_teu.md#大拇节头)】`da6 mu jih7 teu` <sup>[泰兴]</sup> 大拇指。  
+1. 【[大拇节头扒耳刀，扒（巴）不到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_mu_jih_teu.md#大拇节头扒耳刀，扒（巴）不到)】`da6 mu jih7 teu ba1 er3 do ba1 beh do5-3` <sup>[泰兴]</sup> 歇后语。  
 1. 【[大模大样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_mu_da_ian.md#大模大样)】`da6 mu2 da6 ian6` <sup>[如东]</sup> 行动大方自然。  
 1. 【[大拇指扒耳朵——插不进](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_mu_zheh_pa_er_du_chaeh_beh_jien.md#大拇指扒耳朵——插不进)】`da6 mu3 zheh7 pa2 er3 du chaeh7 beh7 jien5` <sup>[东台]</sup>   
 1. 【[大拇指头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_mu_zheh_teu.md#大拇指头)】`da6 mu3 zheh7 teu` <sup>[兴化]</sup> 大拇指。  
@@ -832,8 +844,8 @@
 1. 【[大丫头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_nga_teu.md#大丫头)】`da6 nga1 teu` <sup>[东台]</sup> 指大女儿，也称青年女子。  
 1. 【[大眼睛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ngaen_jien.md#大眼睛)】`da6 ngaen3 jien1` <sup>[东台]</sup> 这里特指一种海鱼。又名大眼鱼、春鱼。相对于小眼睛而名。  
 1. 【[大眼眶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ngaen_kuan.md#大眼眶)】`da6 ngaen3 kuan1` <sup>[兴化]</sup> 形容眼角高，瞧不起人。  
+1. 【[大眼望小眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ngaen_van_xio.md#大眼望小眼)】`da6 ngaen3 van6 xio3 ngaen3` <sup>[泰兴]</sup> 形容大家因惊异而不知所措，互相对视。也说“大眼瞪小眼”、“大眼相小眼”。乡人有“张飞穿引线，大眼瞪小眼”一说。  
 1. 【[大眼相小眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ngaen_xian_xio_ngaen.md#大眼相小眼)】`da6 ngaen3 xian5 xio3 ngaen3` <sup>[如皋]</sup> 互相看着，表示无事可做、空闲、空等待、无奈。  
-1. 【[大眼相小眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ngaen_xian_xio_ngaen.md#大眼相小眼)】`da6 ngaen3 xian5 xio3 ngaen3` <sup>[如皋]</sup> 清闲，无所事事。  
 1. 【[大眼相小眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ngaen_xian_xio_ngaen.md#大眼相小眼)】`da6 ngaen3 xian5 xio3 ngaen3` <sup>[东台]</sup> 形容遇到难为情的事，大家面面相觑的尴尬场面。  
 1. 【[大眼相小眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ngaen_xian_xio_ngaen.md#大眼相小眼)】`da6 ngaen3 xian5 xio3 ngaen3` <sup>[东台]</sup> 形容遇到难事，大家面面相觑的尴尬场面。  
 1. 【[大娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_nian.md#大娘)】`da6 nian2` <sup>[如东]</sup> ① 长子的媳妇。 ② 已婚的女人。 ③ 对年长妇女的尊称。  
@@ -842,6 +854,7 @@
 1. 【[大年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_nin.md#大年)】`da6 nin2` <sup>[如东]</sup> 阴历腊月大，有三十日，称大年。  
 1. 【[大年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_nin.md#大年)】`da6 nin2` <sup>[如皋]</sup> ① 腊月大，有三十夜。 ② 果木丰收的年份。与小年（欠收年）相对。 ③ 春节过～。且与小年（冬至）相对。  
 1. 【[大年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_nin.md#大年)】`da6 nin2` <sup>[东台]</sup> ① 农历新年，春节。 ② 某一产品的丰收年。  
+1. 【[大年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_nin.md#大年)】`da6 nin2` <sup>[泰兴]</sup> 某些作物丰收的一年，相对于“小年”：今年的白果逢～，收得比往年多得多。  
 1. 【[大年初一吃酒酿——头一糟（遭）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_nin_chv_ieh_qieh_jieu_nian_teu_ieh_zo.md#大年初一吃酒酿——头一糟（遭）)】`da6 nin2 chv1 ieh7 qieh7 jieu3 nian6 teu2 ieh7 zo1` <sup>[东台]</sup>   
 1. 【[大年初一贴对子——迟啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_nin_chv_ieh_tih_dy_zz_chr_a.md#大年初一贴对子——迟啊)】`da6 nin2 chv1 ieh7 tih7 dy5 zz chr2 a` <sup>[东台]</sup>   
 1. 【[大屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_oh.md#大屋)】`da6 oh7` <sup>[如东]</sup> 主屋，堂屋。  
@@ -871,6 +884,7 @@
 1. 【[大泼小用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_puh_xio_ion.md#大泼小用)】`da6 puh7 xio3 ion6` <sup>[兴化]</sup> 铺张浪费，乱花钱：我有个钱才剥个粽子，从来不曾～的瞎花钱。  
 1. 【[大气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_qi.md#大气)】`da6 qi` <sup>[如皋]</sup> ① 落落大方。 ② 气度雍容、举止不凡。  
 1. 【[大气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_qi.md#大气)】`da6 qi` <sup>[泰县]</sup> 大方。  
+1. 【[大气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_qi.md#大气)】`da6 qi` <sup>[泰兴]</sup> ① 有气派，有度量 ② 出手慷慨大方，不小气：张三慷慨～，是能办事的。  
 1. 【[大气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_qi.md#大气)】`da6 qi5` <sup>[如东]</sup> ① 包围在地球外面的一层气体，叫大气。 ② 大方。 ③ 家具等的式样不俗，好看。  
 1. 【[大气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_qi.md#大气)】`da6 qi5` <sup>[兴化]</sup> ① 慷慨、不吝啬。 ② 大方、不俗气：这件衣裳款式～，不难看。  
 1. 【[大樯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_qian.md#大樯)】`da6 qian2` <sup>[如东]</sup> 帆船上最高的桅樯，竖在桅门舱中，固定在舱面梁上。也称主桅。  
@@ -891,16 +905,18 @@
 1. 【[大曲（麯）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_qioh.md#大曲（麯）)】`da6 qioh7` <sup>[兴化]</sup> 用曲霉和粮食酿成的酒，有曲香：洋河～；双沟～。  
 1. 【[大取](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_qy.md#大取)】`da6 qy3` <sup>[如东]</sup> 渔船到远洋去从事捕捞作业，称大取。  
 1. 【[大人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ren.md#大人)】`da6 ren` <sup>[如皋]</sup> ① 成年人。 ② 长辈。  
+1. 【[大人家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ren_ga.md#大人家)】`da6 ren ga` <sup>[泰兴]</sup> 大户人家，官宦人家：当年横巷黄姓八家是～呀  
 1. 【[大人吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ren_nga.md#大人吖)】`da6 ren nga` <sup>[如皋]</sup> 发育成为成年人了。  
 1. 【[大人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ren.md#大人)】`da6 ren2` <sup>[如东]</sup> ① 成年人。 ② 长辈。 ③ 旧社会对官僚的称谓。  
 1. 【[大人不计小人过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ren_beh_ji_xio_ren_gu.md#大人不计小人过)】`da6 ren2 beh7 ji5 xio3 ren2 gu5` <sup>\[东台\]\[泰兴\]</sup>有修养有身份的人不计较其他人的过错。常用于谦敬，希望对方宽容自己或他人的过错。  
+1. 【[大人物](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ren_veh.md#大人物)】`da6 ren2 veh8` <sup>[泰兴]</sup> 指有地位有名望的人。  
 1. 【[大洒洒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_sa_sa.md#大洒洒)】`da6 sa3 sa3` <sup>[兴化]</sup> 形容对钱财不计较、不在乎：他是～，对这几文不当回事。  
 1. 【[大散四开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_saen_sz_kae.md#大散四开)】`da6 saen5 sz5 kae1` <sup>[兴化]</sup> 形容门户洞开：……女人总有些女人的事情，不能～，什么都展览着呀。（《汪曾祺《皮风山植房子》）  
 1. 【[大蛇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_sha.md#大蛇)】`da6 sha2` <sup>[兴化]</sup> ① （儿童语）蛇。 ② 蟒蛇。 ③ 龙：属～的，今年整六十。  
 1. 【[大山雀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_shaen_jiah.md#大山雀)】`da6 shaen1 jiah7` <sup>[如东]</sup> 鸟。头部羽毛蓝黑色，颊部白色。活动在树林中。食昆虫，对农业有益。  
+1. 【[大生日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_shen_rih.md#大生日)】`da6 shen1 rih` <sup>[泰兴]</sup> 整生日。一般指逢十的生日，如六十寿辰、七十寿辰等。  
 1. 【[大手膀子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_sheu_ban_zz.md#大手膀子)】`da6 sheu3 ban3 zz` <sup>[如皋]</sup> 上臂。  
-1. 【[大手大脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_sheu_da_jiah.md#大手大脚)】`da6 sheu3 da6 jiah7` <sup>[如东]</sup> 手脚很大。比喻花钱用物随便，不注意节约：平常过日子，不要～的。  
-1. 【[大手大脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_sheu_da_jiah.md#大手大脚)】`da6 sheu3 da6 jiah7` <sup>[东台]</sup> ［引］花钱、消费没有节制。  
+1. 【[大手大脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_sheu_da_jiah.md#大手大脚)】`da6 sheu3 da6 jiah7` <sup>\[东台\]\[泰兴\]\[如东\]</sup>花钱、消费等没有节制：过日子要谨慎，不要～的。<sup>\[泰兴\]</sup>｜平常过日子，不要～的。<sup>\[如东\]</sup>  
 1. 【[大寿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_sheu.md#大寿)】`da6 sheu6` <sup>[如皋]</sup> 尊称长寿。  
 1. 【[大寿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_sheu.md#大寿)】`da6 sheu6` <sup>[兴化]</sup> 长寿：这人太促，肯定没～。｜“……人啊，不能刻薄狠了，稍微要放宽厚些，保管有……”（《火烧赤壁》五）  
 1. 【[大寿宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_sheu_bo.md#大寿宝)】`da6 sheu6 bo` 大孩子，长子或者长女。  
@@ -950,7 +966,7 @@
 1. 【[大天斯亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_tin_sz_lian.md#大天斯亮)】`da6 tin1 sz1 lian6` <sup>[如东]</sup> 天色开始亮了：我动身的时候，已经～吖。  
 1. 【[大天斯亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_tin_sz_lian.md#大天斯亮)】`da6 tin1 sz1 lian6` <sup>[东台]</sup> 黎明之后，天大亮。  
 1. 【[大天四亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_tin_sz_lian.md#大天四亮)】`da6 tin1 sz5 lian6` <sup>[兴化]</sup> 指太阳刚露出地平线的时候，比“蒙蒙亮”稍迟：现在五点多钟外头就～吖。  
-1. 【[大田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_tin.md#大田)】`da6 tin2` <sup>[如东]</sup> 大片的庄家地，与菜园相对。  
+1. 【[大田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_tin.md#大田)】`da6 tin2` <sup>\[泰兴\]\[如东\]</sup>大片田地。大面积种植作物的田地。\[如东：与菜园相对。\]  
 1. 【[大滔滔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_to_to.md#大滔滔)】`da6 to to1` <sup>[如东]</sup> 形容宽大：这件衬衫穿吖身上～的。  
 1. 【[大套](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_to.md#大套)】`da6 to5` <sup>[兴化]</sup> 大衣的别称。  
 1. 【[大洞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ton.md#大洞)】`da6 ton6` <sup>[兴化]</sup> （借）指非常深沉：他面子上虽说得好所，骨里恨个～。  
@@ -986,6 +1002,7 @@
 1. 【[大嘘大吵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_xy_da_cho.md#大嘘大吵)】`da6 xy1 da6 cho3` <sup>[兴化]</sup> 大喊大叫：里头开会，你不要～的。  
 1. 【[大鱼大肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_y_da_roh.md#大鱼大肉)】`da6 y2 da6 roh8` <sup>[如东]</sup> 比喻吃得好：不能每天都是～的。  
 1. 【[大鱼大肉不上心，一年四季不能脱咸菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_y_da_roh_beh_shan_xien_ieh_nin_sz_ji_beh_nen_tuh_haen_cae.md#大鱼大肉不上心，一年四季不能脱咸菜)】`da6 y2 da6 roh8 beh7 shan1 xien1 ieh7 nin2 sz5 ji5 beh7 nen2 tuh7 haen2 cae5` <sup>[东台]</sup> 指有的人不求高消费，但要求有基本生活保障。  
+1. 【[大鱼吃小鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_y_qieh_xio.md#大鱼吃小鱼)】`da6 y2 qieh7 xio3 y2` <sup>[泰兴]</sup> 以大欺小，以强凌弱。也说“大虫吃小虫”。乡人有“大虫吃小虫，一吞影无踪”一说。  
 1. 【[大雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_y.md#大雨)】`da6 y3` <sup>[如皋]</sup> 雨势大的雨。  
 1. 【[大豫盐垦公司](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_y_in_ken_gon_sz.md#大豫盐垦公司)】`da6 y6 in2 ken3 gon1 sz1` <sup>[如东]</sup> 民国5年（1916年），清末状元、民族实业家张謇先生创建大豫盐垦公司，匡围滩涂面积48万亩，其中已垦面积13.05万亩，未垦面积34.95万亩。民国19年，人口2.76万人，4500户。  
 1. 【[大豫堤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_y_ti.md#大豫堤)】`da6 y6 ti2` <sup>[如东]</sup> 民国5年（1916年），南通实业家张謇在如东创办大豫盐垦公司，建筑大豫堤。南起九门闸，东至七贯，折向北至马家店，再向东至十贯，转向西至七贯，全长约30公里。大豫盐垦公司筹募资金，招来佃户，分段修筑，历时一年余始完成。  

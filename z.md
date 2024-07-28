@@ -625,8 +625,7 @@
 1. 【[站壁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhaen_bieh.md#站壁)】`zhaen5 bieh7` <sup>[东台]</sup> 旧时学校对学生的一种体罚，意为令之面壁思过。  
 1. 【[站在笼上要点心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhaen_cae_lon_shan_io_din_xien.md#站在笼上要点心)】`zhaen5 cae6 lon2 shan6 io5 din3 xien1` <sup>[东台]</sup> ［喻］太急躁了。  
 1. 【[站车<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhaen_cha_r.md#站车<sub>儿</sub>)】`zhaen5 cha1 r` <sup>[如皋]</sup> 供婴儿或坐或站的竹制的有底六角架。  
-1. 【[站常](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhaen_chan.md#站常)】`zhaen5 chan2` <sup>[如皋]</sup> 持久：天热得～哎！阵头雨不～。  
-1. 【[站常](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhaen_chan.md#站常)】`zhaen5 chan2` <sup>[如皋]</sup> 见“经长”。  
+1. 【[站常](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhaen_chan.md#站常)】`zhaen5 chan2` <sup>[如皋]</sup> ① 持久：天热得～哎！阵头雨不～。 ② 见“经长”。  
 1. 【[站常](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhaen_chan.md#站常)】`zhaen5 chan2` <sup>[东台]</sup> 可以持久，常态化。  
 1. 【[站长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhaen_chan.md#站长)】`zhaen5 chan2` <sup>[兴化]</sup> 维持较长时间：目前西瓜的高价不得～，气温一降就要下跌！｜工作队是临时的，在下面不得～。  
 1. 【[站住啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhaen_chv_a.md#站住啊)】`zhaen5 chv a` <sup>[如皋]</sup> 喻病情稳定了，不发展了。  

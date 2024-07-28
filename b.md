@@ -24,6 +24,7 @@
 1. 【[巴不到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_beh_do.md#巴不到)】`ba1 beh7 do5, ba1 beh7 do3` <sup>[东台]</sup> 求之不得。（“到”也读上声）  
 1. 【[巴不到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_beh_do.md#巴不到)】`ba1 beh7 do5` <sup>[兴化]</sup> 迫切希望得到：傅景在马上四面偷瞧，～有个美色女子好奉承。（《八窍珠》一）  
 1. 【[巴不到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_beh_do.md#巴不到)】`ba1 beh7 do5` <sup>[泰县]</sup> 巴不得。  
+1. 【[巴不到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_beh_do.md#巴不到)】`ba1 beh7 do5-3` <sup>[泰兴]</sup> 巴不得；非常希望得到。  
 1. 【[巴成](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_chen.md#巴成)】`ba1 chen` <sup>[如皋]</sup> 期望有成：有～、没～。  
 1. 【[巴家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ga.md#巴家)】`ba1 ga1` <sup>[如东]</sup> 一心为自己家庭着想。  
 1. 【[巴家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ga.md#巴家)】`ba1 ga1` <sup>[兴化]</sup> ① 顾家。 ② 善于管家、理财：店虽小，但王小三老实～……（扬说《崇月娥杭州当珠》）  
