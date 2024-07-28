@@ -5,6 +5,7 @@ import glob
 import os
 import re
 import string
+import shutil
 from itertools import product
 from collections import namedtuple
 from collections import defaultdict
@@ -319,6 +320,10 @@ def meaning_text_spec1(meaning):
         str = str + "：" + "｜".join(meaning.subs[0].examples)
     return str
 
+def cp_pics(path):
+    for fname in glob.glob(path+"/*.png"):
+        shutil.copyfile(fname, "docs/"+os.path.basename(fname))
+
 dirs = string.ascii_lowercase.replace('w', '')
 write_config()
 samples = []
@@ -331,4 +336,5 @@ for path in dirs:
     samples.append("## %s\n" % path.upper())
     write_page(dirs, path, samples, cz_ien)
     samples.append("[更多...](./%s.md)\n"%path)
+    cp_pics(path)
 write_index(dirs, samples)
