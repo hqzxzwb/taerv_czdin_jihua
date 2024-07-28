@@ -1,5 +1,5 @@
 # 𢶍咖腰里
-saeh7 ga io1 dii
+saeh7 ga io1 lii
 > 如皋方言词典
 - 插在腰间
   - 他把手枪～。

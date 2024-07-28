@@ -1,5 +1,5 @@
 # 糖搨咖脑勺子后头
-tan2 taeh7 ga no3 shah7 zz heu6 teu
+tan2 taeh7 ga no3 shah8-7 zz heu6 teu
 > 东台方言词典
 - ［喻］指承诺的话虽然动听，但难以兑现
   - 厂长说要加工资，恐怕又是～，看结果吧。
