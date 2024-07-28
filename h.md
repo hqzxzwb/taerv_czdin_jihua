@@ -2387,6 +2387,7 @@
 1. 【[喝牛骂狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_ngeu_ma_geu.md#喝牛骂狗)】`huh7 ngeu2 ma6 geu3` <sup>[东台]</sup> ［喻］口声粗野，出口伤人：态度要和蔼，不能～的。  
 1. 【[喝人汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_ren_tan.md#喝人汤)】`huh7 ren2 tan1` <sup>[如东]</sup> 形容天气酷热，汗流不止。  
 1. 【[喝汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_tan.md#喝汤)】`huh7 tan1` <sup>[兴化]</sup> （喻）被洪水淹没：那年发大水，联圩一倒，几个庄子全部～。  
+1. 【[喝五摵六](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_v_seh_loh.md#喝五摵六)】`huh7 v3 seh7 loh8` <sup>[泰县]</sup> 说话不实：你不要～的。  
 1. 【[喝西北风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_xi_boh_fon.md#喝西北风)】`huh7 xi1 boh7 fon1` <sup>[如东]</sup> 没有食物，只能吃风。比喻生活困苦。  
 1. 【[喝西北风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_xi_boh_fon.md#喝西北风)】`huh7 xi1 boh7 fon1` <sup>[如皋]</sup> 希望落空。  
 1. 【[喝西北风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_xi_boh_fon.md#喝西北风)】`huh7 xi1 boh7 fon1` <sup>[东台]</sup> ［喻］指没有东西吃：耽误啊农时，你让合家老小～？  
@@ -2444,7 +2445,6 @@
 1. 【[合汁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_zheh.md#合汁)】`huh8 zheh7` <sup>[东台]</sup> 两种以上溶液完全融合，或者凝固成一个整体。  
 1. 【[合子蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_zz_hae.md#合子蟹)】`huh8 zz hae3` <sup>[如东]</sup> 两只蟹，一公一母，称合子蟹。  
 1. 【[合子门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_zz_men.md#合子门)】`huh8 zz men2` <sup>[如东]</sup> 由两扇门组成的门，称合子门。  
-1. 【[喝五实六](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_v_sheh_loh.md#喝五实六)】`huh8 v3 sheh8 loh8` <sup>[泰县]</sup> 说话不实：你不要～的。  
 1. 【[活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh.md#活)】`huh8` <sup>\[如皋\]\[东台\]\[兴化\]</sup>抖动；颤抖：把堂灰～下去｜手抖抖～～的｜一～抖，二～战<sup>\[兴化\]</sup>｜救火车一响，老太太吓得直～。<sup>\[兴化\]</sup>  
 1. 【[活剥剥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_bah_bah.md#活剥剥)】`huh8 bah7 bah7` <sup>[如东]</sup> 活生生：～的死啊。  
 1. 【[活剥剥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_bah_bah.md#活剥剥)】`huh8 bah7 bah7` <sup>[兴化]</sup> 活生生：小花狗捱人家～的打死啊。‖也说“活鲜鲜”。  

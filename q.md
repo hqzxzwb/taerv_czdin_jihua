@@ -1866,8 +1866,8 @@
 1. 【[穷神架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_shen_jia_zz.md#穷神架子)】`qion2 shen2 jia5 zz` <sup>[如皋]</sup> 吃相粗鄙。  
 1. 【[穷神赖命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_shen_lae_mien.md#穷神赖命)】`qion2 shen2 lae6 mien6` <sup>[东台]</sup> 同“穷急呼呼”。  
 1. 【[穷是穷的债，冷是冷的风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_shr_qion_dii_zhae_len_shr_len_dii_fon.md#穷是穷的债，冷是冷的风)】`qion2 shr6 qion2 dii zhae5 len3 shr6 len3 dii fon1` <sup>[如皋]</sup>   
-1. 【[穷斯滥矣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_sz_laen_i.md#穷斯滥矣)】`qion2 sz laen6 i3` <sup>[兴化]</sup> 形容十分穷困：他现在衣食不周，～。语出《论语·卫灵公》｜“君子固穷，小人～。”这里是套用。  
-1. 【[穷死烂口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_sz_laen_i.md#穷死烂口)】`qion2 sz3 laen6 i6` <sup>[泰县]</sup> 很穷：这家没得甚的东西，～。  
+1. 【[穷斯滥矣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_sz_laen_i.md#穷斯滥矣)】`qion2 sz laen6 i3` <sup>[兴化]</sup> 形容十分穷困。语出《论语·卫灵公》：“君子固穷，小人～。”这里是套用：他现在衣食不周，～  
+1. 【[穷死烂衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_sz_laen_i.md#穷死烂衣)】`qion2 sz3 laen6 i1` <sup>[泰县]</sup> 很穷：这家没得甚的东西，～。  
 1. 【[穷天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_tin.md#穷天)】`qion2 tin1` <sup>[泰县]</sup> 久旱不雨或久雨不晴。  
 1. 【[穷相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_xian.md#穷相)】`qion2 xian5` <sup>[如皋]</sup> 穷酸而萎琐的样子：宁生个穷命，不生个～。  
 1. 【[穷嫌富不爱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_xin_fv_beh_ngae.md#穷嫌富不爱)】`qion2 xin2 fv5 beh7 ngae5` <sup>[兴化]</sup> 指某些华而不实，又价高质次的物品：这种蹩脚西装～的，卖把哪个？  

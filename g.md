@@ -1381,7 +1381,7 @@
 1. 【[过大差](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_da_chae.md#过大差)】`gu5 da6 chae1` <sup>[如皋]</sup> 解犯人去执行死刑的队伍经过。  
 1. 【[过得去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_deh_qy.md#过得去)】`gu5 deh7 qy5` <sup>[如东]</sup> 马马虎虎混得下去：日子还算～。  
 1. 【[过等<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_den_r.md#过等<sub>儿</sub>)】`gu5 den3 r` <sup>[东台]</sup> 过一刻儿；等一会儿。  
-1. 【[过到老，学到老；过到老，学不了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_do_lo_hah_do_lo_gu_do_lo_hah_beh_lio.md#过到老，学到老；过到老，学不了)】`gu5 do5 lo3 hah8 do lo3 gu5 do3 lo3 hah8 beh lio3` <sup>[如皋]</sup> 学不了，意思是“学不完，学不尽”。  
+1. 【[过到老，学到老；过到老，学不了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_do_lo_hah_do_lo_gu_do_lo_hah_beh_lio.md#过到老，学到老；过到老，学不了)】`gu5 do5 lo3 hah8 do lo3 gu5 do5 lo3 hah8 beh lio3` <sup>[如皋]</sup> 学不了，意思是“学不完，学不尽”。  
 1. 【[过冬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_don.md#过冬)】`gu5 don1` <sup>[如东]</sup> 冬至日。也称冬节。民间有吃圆子、烧经祭祖习俗。  
 1. 【[过冬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_don.md#过冬)】`gu5 don1` <sup>[东台]</sup> ① 民间称冬至为～。（参见“冬至”）。 ② 度过冬天。  
 1. 【[过冬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_don.md#过冬)】`gu5 don1` <sup>[兴化]</sup> ① 度过冬天：收拾棉衣好～。 ② 冬至日：明朝～。  

@@ -777,7 +777,7 @@
 1. 【[亡人牌位](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ren_pae_vei.md#亡人牌位)】`van2 ren2 pae2 vei6` <sup>[东台]</sup> ① 死者的灵位。 ② （詈语）骂某个位子。  
 1. 【[亡人牌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ren_pae_zz.md#亡人牌子)】`van2 ren2 pae2 zz` <sup>[如皋]</sup> 木主，灵位牌，分内、外层，皆用毛笔蘸墨竖写身份、称谓、名讳  
 1. 【[亡人牌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ren_pae_zz.md#亡人牌子)】`van2 ren2 pae2 zz` <sup>[如东]</sup> 死者的牌位：柜上供吖～。  
-1. 【[忘录格](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_loh_geh.md#忘录格)】`van2 loh geh` <sup>[东台]</sup> （詈语）意思是简直像生了一场大病一样忘得干干净净。  
+1. 【[忘录咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_loh_ga.md#忘录咖)】`van2 loh ga` <sup>[东台]</sup> （詈语）意思是简直像生了一场大病一样忘得干干净净。  
 1. 【[横竖横](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_sz_van.md#横竖横)】`van2 sz van2` <sup>[泰县]</sup> （吴音）豁出去：他～，要同你拼到底。  
 1. 【[王八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_baeh.md#王八)】`van2 baeh7` <sup>[如东]</sup> 乌龟。有的地方称鳖也为王八。  
 1. 【[王二麻子上海安，踱咖外国里去啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_er_ma_zz_shan_hae_un_tah_ga_vae_goh_lii_qy_a.md#王二麻子上海安，踱咖外国里去啊)】`van2 er ma2 zz shan6 hae3 un1 tah8 ga vae6 goh7 lii qy5 a` <sup>[如皋]</sup> 玩得远去了。  

@@ -40,7 +40,6 @@
 1. 【[拉里拉瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_lii_la_gua.md#拉里拉瓜)】`la1 lii la1 gua1` <sup>[泰县]</sup> 穿着不整洁：这个人穿衣裳有点儿～。  
 1. 【[拉马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ma.md#拉马)】`la1 ma3` <sup>[如皋]</sup> 介绍嫖客。  
 1. 【[拉马猴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ma_heu_r.md#拉马猴<sub>儿</sub>)】`la1 ma3 heu2 r` <sup>[如东]</sup> 专门介绍嫖客的人。皮条客。  
-1. 【[拉门敝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_men_chan.md#拉门敝)】`la1 men2 chan3` <sup>[如皋]</sup> 形容居处无关拦，不设防。  
 1. 【[拉面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_min.md#拉面)】`la1 min6` <sup>[如东]</sup> 小麦面粉经过揉压，柔软而富韧性，拉成细条，称拉面。  
 1. 【[拉磨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_mu.md#拉磨)】`la1 mu6` <sup>[如皋]</sup> 拉动磨盘转动。  
 1. 【[拉磨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_mu.md#拉磨)】`la1 mu6` <sup>[如皋]</sup> 见“牵磨”。  
@@ -435,9 +434,9 @@
 1. 【[蓝蝴蝶<sub>儿</sub>花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_hv_tieh_r_hua.md#蓝蝴蝶<sub>儿</sub>花)】`laen2 hv2 tieh8 r hua1` <sup>[如皋]</sup> 鸢尾。  
 1. 【[蓝盈盈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ien_ien.md#蓝盈盈)】`laen2 ien ien1` <sup>[兴化]</sup> 形容蓝得发亮：大纵湖水在阳光下显得～的。  
 1. 【[蓝印花布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ien_hua_bv.md#蓝印花布)】`laen2 ien5 hua1 bv5` <sup>[如皋]</sup> 旧时染坊用镂花纸板为模，在土布上涂浆，然后下缸用大青叶的蓝色染色，再洗去涂浆层，成为蓝底白花的土布。  
+1. 【[蓝圆鲹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_iun_caen.md#蓝圆鲹)】`laen2 iun2 caen1` <sup>[如东]</sup> 鲹科动物蓝圆鲹，长约27厘米。  
 1. 【[蓝眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ngaen_r.md#蓝眼<sub>儿</sub>)】`laen2 ngaen3 r` <sup>[如东]</sup> 眼球表面生长眼翳，呈蓝色，称蓝眼儿。  
 1. 【[蓝鸥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ngeu.md#蓝鸥)】`laen2 ngeu1` <sup>[如东]</sup> 鸟。体长约25厘米。全身羽毛白色，夏天头顶黑色，冬天则转白色为黑纹。嘴细长而宜，翼、尾均象家燕。常三五成群的在海岸和内陆河流等处活动，飞行快捷。能低空俯视水面觅食。喜吃小鱼。  
-1. 【[蓝圆鲹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_y_caen.md#蓝圆鲹)】`laen2 y2 caen1` <sup>[如东]</sup> 鲹科动物蓝圆鲹，长约27厘米。  
 1. 【[两班倒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_baen_do.md#两班倒)】`laen3 baen1 do3` <sup>[如东]</sup> 上班制度的一种。一天、一夜或一昼夜分两个班次。  
 1. 【[两不会面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_beh_huei_min.md#两不会面)】`laen3 beh huei6 min6` <sup>[兴化]</sup> 当事人互不相见，由中介人代为洽谈。谚曰：姜堰卖稻，～。也作“两不照面”。  
 1. 【[两不见星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_beh_jin_xien.md#两不见星)】`laen3 beh jin5 xien1` <sup>[兴化]</sup> 系秤陀的小绳放在两个秤星当中，表示重量在两者之间：你放吖～上望望看，到底多重。  
@@ -832,11 +831,11 @@
 1. 【[㫰衣裳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_i_shan.md#㫰衣裳)】`lan6 i1 shan-shan3` <sup>[东台]</sup> 把衣服挂起来晒干或晾干。  
 1. 【[㫰僵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_jian.md#㫰僵)】`lan6 jian1` <sup>[兴化]</sup> 指在寒风中长时间停留：覅在外头～，当心受冻。  
 1. 【[㫰络<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_lah_r.md#㫰络<sub>儿</sub>)】`lan6 lah8 r` <sup>[如东]</sup> 在大屋里的一侧，竹箅子的四角用绳索吊在梁架上，上面可以搁置东西，这种装置叫做㫰络儿：把蒲锹放吖～上。  
-1. 【[㫰门敞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_men_chan.md#㫰门敞)】`lan6 men2 chan3` <sup>[如皋]</sup> 大门洞开，无人看管。  
+1. 【[㫰门敞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_men_chan.md#㫰门敞)】`lan6 men chan3, la1 men chan3` <sup>[如皋]</sup> 大门洞开，无人看管；无关拦，不设防。  
+1. 【[㫰门敞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_men_chan.md#㫰门敞)】`lan6 men2 chan3` <sup>[如东]</sup> 房屋没有大门，没有遮栏。  
 1. 【[㫰篷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_pon.md#㫰篷)】`lan6 pon2` <sup>[兴化]</sup> 航船利用风力扬帆前进。  
 1. 【[浪（𧻴）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan.md#浪（𧻴）)】`lan6` <sup>[如皋]</sup> ① 荒疏：他把学业～掉啊。 ② 浪荡：他成天的在外头～，不归家。 ③ 拖：～工。 ④ 拖延、等待：吃咖夜饭～～尿再睏。  
 1. 【[浪流浪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_lieu_lan.md#浪流浪)】`lan6 lieu2 lan6` <sup>[如皋]</sup> 言行举止漂浮，不可信任。  
-1. 【[浪门敞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_men_chan.md#浪门敞)】`lan6 men2 chan3` <sup>[如东]</sup> 房屋没有大门，没有遮栏。  
 1. 【[浪荡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_tan.md#浪荡)】`lan6 tan6` <sup>[如东]</sup> 不务正业，到处游荡。  
 1. 【[浪荡公子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_tan_gon_zz.md#浪荡公子)】`lan6 tan6 gon1 zz` <sup>[如东]</sup> 游手好闲的人：王二是个～。  
 1. 【[浪头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_teu.md#浪头)】`lan6 teu` <sup>[东台]</sup> 涌起的波浪，比喻潮流。  

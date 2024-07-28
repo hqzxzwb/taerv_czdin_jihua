@@ -478,7 +478,7 @@
 1. 【[慢吖你](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_nga_nii.md#慢吖你)】`maen6 nga nii3` <sup>[如皋]</sup> 礼貌用语。慢待了，对不起。  
 1. 【[慢噋噋的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_ten_ten_dii.md#慢噋噋的)】`maen6 ten1 ten1 dii` <sup>[如皋]</sup> 慢吞吞的。见“噋吖噋的”。  
 1. 【[慢条斯理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_tio_sz_li.md#慢条斯理)】`maen6 tio2 sz1 li3` <sup>[如东]</sup> 从容不迫，不慌不忙。  
-1. 【[慢些忙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_xin_man.md#慢些忙)】`maen6 xin1 man2` <sup>[如皋]</sup> 见“慢慢叫”。  
+1. 【[慢先忙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_xin_man.md#慢先忙)】`maen6 xin1 man2` <sup>[如皋]</sup> 见“慢慢叫”。  
 1. 【[慢晓天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_xio_tin.md#慢晓天)】`maen6 xio3 tin1` <sup>[兴化]</sup> 早晨天阴，太阳出得较迟。  
 1. 【[慢症](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_zhen.md#慢症)】`maen6 zhen5` <sup>[如皋]</sup> ① 慢性病。 ② 快不起来。  
 1. 【[慢症](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_zhen.md#慢症)】`maen6 zhen5` <sup>[兴化]</sup> （借）对问题久拖不决：过去调动工作是个～，拖你三年五载也不奇怪。  
