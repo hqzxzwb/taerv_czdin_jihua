@@ -2541,8 +2541,7 @@
 1. 【[憨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun.md#憨)】`hun1` <sup>[兴化]</sup> 笨：这个小伙～头～脑的。  
 1. 【[欢天喜地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_tin_xi_ti.md#欢天喜地)】`hun1 tin1 xi3 ti6` <sup>[如东]</sup> 非常高兴。  
 1. 【[欢喜乐笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_xi_lah_xio.md#欢喜乐笑)】`hun1 xi lah8 xio5` <sup>[兴化]</sup> 形容喜形于色：伢儿到啊外婆家整天～的。  
-1. 【[欢喜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_xi.md#欢喜)】`hun1 xi3` <sup>[如东]</sup> ① 高兴：大家都～。 ② 疼爱，喜欢。  
-1. 【[欢喜秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_xi_chen.md#欢喜秤)】`hun1 xi3 chen5` <sup>[如皋]</sup> 看似秤足，其实不足。  
+1. 【[欢喜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_xi.md#欢喜)】`hun1 xi3` <sup>[如东]</sup> ① 高兴：大家都～。 ② 喜欢。  
 1. 【[欢喜秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_xi_chen.md#欢喜秤)】`hun1 xi3 chen5` <sup>[如皋]</sup> 买方看见秤翘翘的，心里欢喜，其实并未加量。  
 1. 【[欢喜你八只眼九枝花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_xi_nii_baeh_zheh_ngaen_jieu_zhr_hua.md#欢喜你八只眼九枝花)】`hun1 xi3 nii3 baeh7 zheh7 ngaen3 jieu3 zhr1 hua1` <sup>[东台]</sup> 你这人真讨嫌，没人喜欢。  
 1. 【[欢喜钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_xi_qin.md#欢喜钱)】`hun1 xi3 qin2` <sup>[如东]</sup> 份外的一点收入。也称小礼：这是一点～。  
@@ -2560,36 +2559,31 @@
 1. 【[含羞草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_xieu_co.md#含羞草)】`hun2 xieu1 co3` <sup>[如东]</sup> 豆科植物含羞草，高约1米。  
 1. 【[含笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_xio.md#含笑)】`hun2 xio5` <sup>[如东]</sup> 微微地笑。  
 1. 【[寒菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_cae.md#寒菜)】`hun2 cae5` <sup>[如皋]</sup> 冬天的蔬菜。  
-1. 【[寒净净](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_chen_chen.md#寒净净)】`hun2 chen chen1` <sup>[如皋]</sup> 微冷。  
+1. 【[寒阵阵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_chen_chen.md#寒阵阵)】`hun2 chen chen6` <sup>[如皋]</sup> 微冷。  
 1. 【[寒打脚上起，风从头上来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_da_jiah_shan_qi_fon_con_teu_shan_lae.md#寒打脚上起，风从头上来)】`hun2 da3 jiah7 shan qi3 fon1 con2 teu2 shan lae2` <sup>[如皋]</sup>   
 1. 【[寒咸菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_haen_cae.md#寒咸菜)】`hun2 haen2 cae5` <sup>[如皋]</sup> 冬天吃的腌菜。  
 1. 【[寒火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_hu.md#寒火)】`hun2 hu3` <sup>[兴化]</sup> 见“寒毛火”。  
 1. 【[寒叽叽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_ji_ji.md#寒叽叽)】`hun2 ji ji1` <sup>[如皋]</sup> 觉得微冷。  
 1. 【[寒里天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_lii_tin.md#寒里天)】`hun2 lii tin1` <sup>[兴化]</sup> ① 指一年中最冷的节气——小寒、大寒。 ② 泛指冬天。也说“寒天”。  
-1. 【[寒唠唠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_lo_lo.md#寒唠唠)】`hun2 lo lo1` <sup>[如皋]</sup> 微冷。  
-1. 【[寒劳劳的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_lo_lo_dii.md#寒劳劳的)】`hun2 lo1 lo1 dii` <sup>[如皋]</sup> 寒冷或怕冷的样子。  
+1. 【[寒捞捞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_lo_lo.md#寒捞捞)】`hun2 lo lo1` <sup>[如皋]</sup> 微冷。  
+1. 【[寒捞寒捞的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_lo_hun_lo.md#寒捞寒捞的)】`hun2 lo1 hun2 lo1 dii` <sup>[东台]</sup> 同“寒瘆瘆的”。又作“寒闹闹的”。  
+1. 【[寒捞捞的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_lo_lo_dii.md#寒捞捞的)】`hun2 lo1 lo1 dii` <sup>[如皋]</sup> 寒冷或怕冷的样子。  
 1. 【[寒露](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_lv.md#寒露)】`hun2 lv6` 二十四节气之一，通常在10月8日或9日。  
-1. 【[寒毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_mo.md#寒毛)】`hun2 mo2` <sup>[东台]</sup> 汗毛。  
-1. 【[寒毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_mo.md#寒毛)】`hun2 mo2` <sup>[东台]</sup> 即汗毛。人体皮肤表层的细毛。  
+1. 【[寒毛火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_mo_hu.md#寒毛火)】`hun2 mo hu3` <sup>[兴化]</sup> 身体时冷时热的感觉。也称“寒火”：他加衣裳嫌热，脱衣裳又说冷，就像得咖～  
+1. 【[寒毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_mo.md#寒毛)】`hun2 mo2, hu2 mo2` <sup>[东台]</sup> 即汗毛。人体皮肤表层的细毛。  
 1. 【[寒毛直竖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_mo_cheh_shv.md#寒毛直竖)】`hun2 mo2 cheh8 shv6` <sup>[东台]</sup> 因为害怕，身上毫毛都竖了起来：反腐力度大，一些腐败分子吓得～。  
 1. 【[寒毛重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_mo_chon.md#寒毛重)】`hun2 mo2 chon6` <sup>[东台]</sup> 人体皮肤表层细毛浓密。  
-1. 【[寒毛火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_mo_hu.md#寒毛火)】`hun2 mo2 hu3` <sup>[兴化]</sup> 身体时冷时热的感觉：他加衣裳嫌热，脱衣裳又说冷，就像得咖～。也称“寒火”。  
 1. 【[寒毛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_mo_r.md#寒毛<sub>儿</sub>)】`hun2 mo2 r` <sup>[如皋]</sup> 人体表的细毛。  
 1. 【[寒毛<sub>儿</sub>只竖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_mo_r_zheh_shv.md#寒毛<sub>儿</sub>只竖)】`hun2 mo2 r zheh7 shv6` <sup>[如皋]</sup> 状怕冷。  
 1. 【[寒毛竖竖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_mo_shv_shv.md#寒毛竖竖)】`hun2 mo2 shv6 shv6` <sup>[东台]</sup> 同“寒毛直竖”。  
 1. 【[寒毛竖竖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_mo_shv_shv.md#寒毛竖竖)】`hun2 mo2 shv6 shv6` <sup>[兴化]</sup> 因害怕而毛发为之寒竖：晚上听他说鬼，吓得～的。  
-1. 【[寒闹寒闹的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_no_hun_no_dii.md#寒闹寒闹的)】`hun2 no6 hun2 no6 dii` <sup>[东台]</sup> 同“寒瘆瘆的”。又作“寒闹闹的”。  
-1. 【[寒热](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_rih.md#寒热)】`hun2 rih8` <sup>[兴化]</sup> 发烧：发～｜他因为几天的旅途劳顿，回到家里～交作，病得不轻。  
+1. 【[寒热](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_rih.md#寒热)】`hun2 rih8` <sup>[兴化]</sup> 发烧：发～：他因为几天的旅途劳顿，回到家里～交作，病得不轻。  
 1. 【[寒食节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_sheh_jih.md#寒食节)】`hun2 sheh8 jih7` <sup>[如东]</sup> 阴历四月初四日，禁火寒食。相传春秋时晋文公负其功臣介之推。介之推愤而隐于绵山。文公悔悟，烧山逼令出仕，介之推抱树焚死。人民同情介之推的遭遇，相约于其忌日禁火寒食，以为悼念。以后相沿成俗，称为寒食节。  
 1. 【[寒瘆瘆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_shen_shen.md#寒瘆瘆)】`hun2 shen shen5` <sup>[兴化]</sup> 因寒冷而欲颤的感觉：身上～的。  
 1. 【[寒瘆瘆的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_shen_shen_dii.md#寒瘆瘆的)】`hun2 shen5 shen5 dii` <sup>[东台]</sup> 身上发寒，嫌冷，不时打冷战：这天多冷！我身上～。  
 1. 【[寒丝丝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_sz_sz.md#寒丝丝)】`hun2 sz sz1` <sup>[如皋]</sup> 微冷。  
 1. 【[寒丝丝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_sz_sz.md#寒丝丝)】`hun2 sz1 sz1` <sup>[兴化]</sup> ① 寒冷的感觉：经风一吹身上～的。 ② 害怕的心理：我被他这一看，心里倒被他看得～的。（《火烧赤壁》六）  
-1. 【[寒天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_tin.md#寒天)】`hun2 tin1` 冷天，冬天。  
-1. 【[寒天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_tin.md#寒天)】`hun2 tin1` <sup>[如东]</sup> 冬天。  
-1. 【[寒天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_tin.md#寒天)】`hun2 tin1` <sup>[如皋]</sup> 冬季。冷天。  
-1. 【[寒天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_tin.md#寒天)】`hun2 tin1` <sup>[东台]</sup> 冬天。  
-1. 【[寒天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_tin.md#寒天)】`hun2 tin1` <sup>[泰县]</sup> 冬天。  
+1. 【[寒天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_tin.md#寒天)】`hun2 tin1` <sup>\[如东\]\[如皋\]\[东台\]\[泰县\]</sup>冷天，冬天。  
 1. 【[寒天时候](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_tin_shr_heu.md#寒天时候)】`hun2 tin1 shr2 heu` <sup>[如皋]</sup> 冬天。  
 1. 【[寒心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_xien.md#寒心)】`hun2 xien1` <sup>[东台]</sup> 令人失望而痛心。  
 1. 【[涵筒桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_ton_qio.md#涵筒桥)】`hun2 ton3 qio2` <sup>[如皋]</sup> 桥式的高架涵筒。  
@@ -2622,8 +2616,7 @@
 1. 【[换糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_tan.md#换糖)】`hun6 tan2` <sup>[兴化]</sup> 小商贩用斫糖（糖稀熬成的糖块）或其他廉价糖果换取民户的废品。  
 1. 【[换头发](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_teu_faeh.md#换头发)】`hun6 teu2 faeh7` <sup>[如皋]</sup> 秋天，头发更新。  
 1. 【[换帖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_tih.md#换帖)】`hun6 tih7` <sup>[如东]</sup> 在婚姻活动中，送草帖之后，如果男女双方表示同意，则写两张帖子，男方的生辰八字写在红纸上，女方的生辰八字写在绿纸上，由男方送到女方家去，叫做换帖。接着是报喜、娶亲等。  
-1. 【[换肚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_tv.md#换肚)】`hun6 tv6` <sup>[如东]</sup> 因水土不服而泻肚子。  
-1. 【[换肚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_tv.md#换肚)】`hun6 tv6` <sup>[如皋]</sup> 新到一地，因水土不合而腹泻。适应后即可自愈。  
+1. 【[换肚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_tv.md#换肚)】`hun6 tv6` <sup>\[如东\]\[如皋\]</sup>因水土不服而泻肚子。\[如皋：适应后即可自愈。\]  
 1. 【[换新鲜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_xien_xin.md#换新鲜)】`hun6 xien1 xin1` <sup>[如东]</sup> 改换新的花样、花色：他就欢喜～。  
 1. 【[旱别子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_bih_zz.md#旱别子)】`hun6 bih7 zz` <sup>[泰县]</sup> 不会游泳的人。  
 1. 【[旱拨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_buh.md#旱拨)】`hun6 buh7` <sup>[如皋]</sup> 旧式水车，装在水轴（/跨）上并与辋子相啮合的齿轮。  
@@ -2635,7 +2628,7 @@
 1. 【[旱烟台<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_in_tae_r.md#旱烟台<sub>儿</sub>)】`hun6 in1 tae2 r` <sup>[如东]</sup> 抽烟工具。烟管一般竹制，一头装烟嘴儿，铜制或玉制，一头装烟锅头儿，铜制，下挂一只烟袋儿，装烟末。吸烟时，把烟末装在烟锅里，点燃，即可吸烟。  
 1. 【[旱季](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_ji.md#旱季)】`hun6 ji5` <sup>[东台]</sup> 不下雨或雨水少的季节。  
 1. 【[旱粮田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_lian_tin.md#旱粮田)】`hun6 lian2 tin2` <sup>[东台]</sup> 种植旱谷（通常指玉米）的田块。玉米长高的田里叫旱粮窠：夏天在～里薅草交关辛苦。  
-1. 【[旱涝保收](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_lo_bo_sheu.md#旱涝保收)】`hun6 lo2 bo3 sheu1` <sup>[东台]</sup> 不管遇到旱灾还是涝灾，都能保证收成。喻指收入稳定，没有风险。  
+1. 【[旱涝保收](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_lo_bo_sheu.md#旱涝保收)】`hun6 lo6 bo3 sheu1` <sup>[东台]</sup> 不管遇到旱灾还是涝灾，都能保证收成。喻指收入稳定，没有风险。  
 1. 【[旱路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_lv.md#旱路)】`hun6 lv6` <sup>[如东]</sup> 陆路。  
 1. 【[旱码头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_ma_teu.md#旱码头)】`hun6 ma3 teu` <sup>[如皋]</sup> 河岸上部的码头。  
 1. 【[旱鸭<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_ngaeh_r.md#旱鸭<sub>儿</sub>)】`hun6 ngaeh7 r` <sup>[如东]</sup> 生活在陆地上的鸭子。比喻不会游泳的人。  
@@ -2646,10 +2639,9 @@
 1. 【[旱田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_tin.md#旱田)】`hun6 tin2` <sup>[如东]</sup> 干旱的土地，适合于种植旱属作物。  
 1. 【[旱道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_to.md#旱道)】`hun6 to6` <sup>[兴化]</sup> 旱路：这次上徐州走～。  
 1. 【[旱桩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_zhuan.md#旱桩)】`hun6 zhuan1` <sup>[如东]</sup> 水车部件。木条，竖在水车两侧，上面搁置伏桁。  
-1. 【[汗巴雨淋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_ba_y_lien.md#汗巴雨淋)】`hun6 ba y3 lien2` <sup>[兴化]</sup> “汗冒雨淋”的讹音，形容大汗淋漓的样子：两个人顺着大花缸跑了，弟弟怎么也赶不上姐姐，累得～的。（兴文：《人的由来》）  
-1. 【[汗巴雨淋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_ba_y_lien.md#汗巴雨淋)】`hun6 ba1 y3 lien2` <sup>[东台]</sup> 大汗淋漓的样子。  
+1. 【[汗巴雨淋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_ba_y_lien.md#汗巴雨淋)】`hun6 ba1 y3 lien2` <sup>\[东台\]\[兴化\]</sup>大汗淋漓的样子：两个人顺着大花缸跑了，弟弟怎么也赶不上姐姐，累得～的。（兴文：《人的由来》）<sup>\[兴化\]</sup>  
 1. 【[汗巴雨淋的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_ba_y_lien_dii.md#汗巴雨淋的)】`hun6 ba1 y3 lien2 dii` <sup>[如皋]</sup> 大汗淋漓。  
-1. 【[汗泽泽的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_ceh_ceh_dii.md#汗泽泽的)】`hun6 ceh8 ceh8 dii` <sup>[如皋]</sup> 微汗。  
+1. 【[汗𪞚𪞚的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_cheh_cheh_dii.md#汗𪞚𪞚的)】`hun6 cheh cheh7 dii` <sup>[如皋]</sup> 微汗。  
 1. 【[汗𪞚𪞚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_cheh_cheh.md#汗𪞚𪞚)】`hun6 cheh7 cheh7` <sup>[东台]</sup> 皮肤略微有汗。  
 1. 【[汗直𨂸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_cheh_heu.md#汗直𨂸)】`hun6 cheh8 heu2` <sup>[东台]</sup> 形容人紧张得淌汗。  
 1. 【[汗狗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_geu_zz.md#汗狗子)】`hun6 geu3 zz` <sup>[兴化]</sup> “獾狗子”的谐音，戏称小孩玩得满身汗水：几个小家伙身上厌得像～。  
