@@ -53,7 +53,7 @@
 1. 【[靸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_zz.md#靸子)】`saeh7 zz` <sup>[兴化]</sup> ① 木屐。 ② 拖鞋。  
 1. 【[𢶍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh.md#𢶍)】`saeh7` <sup>[东台]</sup> 把东西藏在身上。（东台词典写“扱”，《说文·手部》“扱，收也，从手，及声，楚洽切。”）：他把东西～咖腰里。  
 1. 【[𢶍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh.md#𢶍)】`saeh7` <sup>[兴化]</sup> 掖：～裤子｜～袍子角｜～被头。  
-1. 【[𢶍咖腰里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_ga_io_dii.md#𢶍咖腰里)】`saeh7 ga io1 lii` <sup>[如皋]</sup> 插在腰间：他把手枪～。  
+1. 【[𢶍咖腰里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_ga_io_lii.md#𢶍咖腰里)】`saeh7 ga io1 lii` <sup>[如皋]</sup> 插在腰间：他把手枪～。  
 1. 【[𢶍裤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_kv_zz.md#𢶍裤子)】`saeh7 kv5 zz` <sup>[如皋]</sup> 把裤腰掖进腰带下。  
 1. 【[𢶍衲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_nuh_zz.md#𢶍衲子)】`saeh7 nuh8 zz` <sup>[如皋]</sup> 给婴儿胯下系衲子，防大小便。  
 1. 【[𢶍骑马布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_qi_ma_bv.md#𢶍骑马布)】`saeh7 qi2 ma3 bv5` <sup>[如皋]</sup> 把骑马布系于胯下。  

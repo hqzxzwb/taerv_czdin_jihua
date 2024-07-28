@@ -646,7 +646,7 @@
 1. 【[大衭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_fv.md#大衭)】`da6 fv1` <sup>[兴化]</sup> 纽扣在一侧的中装的前面部分，通常从左侧到右侧盖住底襟。又称“大襟”。  
 1. 【[大衭头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_fv_teu.md#大衭头)】`da6 fv1 teu2` <sup>[如皋]</sup> 旗上装的大襟。其纽子多自领口向右再至腋下。  
 1. 【[大衭头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_fv_teu.md#大衭头)】`da6 fv1 teu2` <sup>[兴化]</sup> 指有大襟的中装。  
-1. 【[大衭头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_fv_teu.md#大衭头)】`da6 fv1 teu2` <sup>[泰兴]</sup> 一种旧式服装，前衭缝合，纽扣在右边。  
+1. 【[大衭头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_fv_teu.md#大衭头)】`da6 fv1 teu2` <sup>[泰兴]</sup> 一种旧式服装，前衭缝合，纽扣在右边：![大衭头](da_fv_teu.png)  
 1. 【[大家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ga.md#大家)】`da6 ga` <sup>[如皋]</sup> 代词，指所有的人。  
 1. 【[大家伙<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ga_hu_r.md#大家伙<sub>儿</sub>)】`da6 ga hu3 r` <sup>[兴化]</sup> 大家：你有难事，我俫～一齐去帮忙。  
 1. 【[大家马<sub>儿</sub>大家骑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ga_ma_r_da_ga_qi.md#大家马<sub>儿</sub>大家骑)】`da6 ga ma3 r da6 ga qi2` <sup>\[兴化\]\[东台\]\[泰兴\]</sup>（喻）公平合理，统一标准，一视同仁：这次分年货～，不许拔尖，也不许欺人。<sup>\[兴化\]</sup>  
