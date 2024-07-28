@@ -365,7 +365,7 @@
 1. 【[𢜩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen.md#𢜩)】`haen1` <sup>[如东]</sup> 速度很慢：她做事，手脚～。  
 1. 【[𢜩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen.md#𢜩)】`haen1` <sup>[如皋]</sup> ① 慢：年纪大啊做事～吖。 ② 费时间：～工夫。 ③ 耗费、耽误：～啊你多少晚的时间，真不好意思！  
 1. 【[𢜩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen.md#𢜩)】`haen1` <sup>[东台]</sup> 笨；动作慢：他太～。  
-1. 【[𢜩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen.md#𢜩)】`haen1` <sup>[兴化]</sup> 呆滞、怕动：他一天到晚～吖家里。  
+1. 【[𢜩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen.md#𢜩)】`haen1` <sup>[兴化]</sup> ① 笨：这个小伙～头～脑的。 ② 呆滞、怕动：他一天到晚～吖家里。  
 1. 【[𢜩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen.md#𢜩)】`haen1` <sup>[泰县]</sup> 慢：他做事非常～。  
 1. 【[𢜩面筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_min_jien.md#𢜩面筋)】`haen1 min6 jien1` <sup>[泰县]</sup> 说话拖泥带水的人：这个人是个～，你不要跟他说。  
 1. 【[𢜩皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_pi.md#𢜩皮)】`haen1 pi2` <sup>[泰县]</sup> 做事不利索：你这个～，快点儿起来。  
@@ -2537,8 +2537,6 @@
 1. 【[盒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_zz.md#盒子)】`huh8 zz` <sup>[如东]</sup> 容器。木制、竹制或金属制，长方形或方形，有盖。可以装物。  
 1. 【[盒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_zz.md#盒子)】`huh8 zz` <sup>[兴化]</sup> 盛在特制的盒子里馈赠的食物：姚家记挂女儿，办了几个～，做了些点心，差一男一妇到潘家来……（《初刻》二）  
 1. 【[盒子瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_zz_gua.md#盒子瓜)】`huh8 zz gua1` <sup>[东台]</sup> 一种扁圆形的南瓜。  
-1. 【[□头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_teu.md#□头)】`hun1 teu2` <sup>[泰县]</sup> 酱油发了霉。  
-1. 【[憨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun.md#憨)】`hun1` <sup>[兴化]</sup> 笨：这个小伙～头～脑的。  
 1. 【[欢天喜地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_tin_xi_ti.md#欢天喜地)】`hun1 tin1 xi3 ti6` <sup>[如东]</sup> 非常高兴。  
 1. 【[欢喜乐笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_xi_lah_xio.md#欢喜乐笑)】`hun1 xi lah8 xio5` <sup>[兴化]</sup> 形容喜形于色：伢儿到啊外婆家整天～的。  
 1. 【[欢喜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_xi.md#欢喜)】`hun1 xi3` <sup>[如东]</sup> ① 高兴：大家都～。 ② 喜欢。  
@@ -2622,8 +2620,8 @@
 1. 【[旱拨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_buh.md#旱拨)】`hun6 buh7` <sup>[如皋]</sup> 旧式水车，装在水轴（/跨）上并与辋子相啮合的齿轮。  
 1. 【[旱轴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_choh.md#旱轴)】`hun6 choh8` <sup>[如皋]</sup> 辋子的轴，竖立于车軬的中央。  
 1. 【[旱狗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_geu_r.md#旱狗<sub>儿</sub>)】`hun6 geu3 r` <sup>[如东]</sup> 青蛙的一种，体型较小，淡灰色。  
-1. 【[旱哥<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_gu_r.md#旱哥<sub>儿</sub>)】`hun6 gu r` <sup>[如皋]</sup> 泽蛙。两栖纲，无尾目。色灰，善鸣。  
 1. 【[旱鸽<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_guh_r.md#旱鸽<sub>儿</sub>)】`hun6 guh7 r` <sup>[东台]</sup> 河岸上的小青蛙。见“旱狗儿”。  
+1. 【[旱鸽<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_guh_r.md#旱鸽<sub>儿</sub>)】`hun6 guh7-gu r` <sup>[如皋]</sup> 泽蛙。两栖纲，无尾目。色灰，善鸣。  
 1. 【[旱烟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_in.md#旱烟)】`hun6 in1` <sup>[如东]</sup> 烟叶晒干切碎，这种散装的烟末，叫旱烟。  
 1. 【[旱烟台<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_in_tae_r.md#旱烟台<sub>儿</sub>)】`hun6 in1 tae2 r` <sup>[如东]</sup> 抽烟工具。烟管一般竹制，一头装烟嘴儿，铜制或玉制，一头装烟锅头儿，铜制，下挂一只烟袋儿，装烟末。吸烟时，把烟末装在烟锅里，点燃，即可吸烟。  
 1. 【[旱季](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_ji.md#旱季)】`hun6 ji5` <sup>[东台]</sup> 不下雨或雨水少的季节。  
@@ -2650,7 +2648,6 @@
 1. 【[汗冒冒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_mo_mo.md#汗冒冒)】`hun6 mo6 mo6` <sup>[东台]</sup> 皮肤上有汗液渗出。  
 1. 【[汗冒冒的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_mo_mo_dii.md#汗冒冒的)】`hun6 mo6 mo6 dii` <sup>[如皋]</sup> 状出汗快而多。  
 1. 【[汗冒雨淋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_mo_y_lien.md#汗冒雨淋)】`hun6 mo6 y3 lien2` 汗如雨下  
-1. 【[汗吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_nga.md#汗吖)】`hun6 nga` <sup>[如皋]</sup> 酱、腌、卤制的蔬菜表面轻度变质，但未上毛霉烂。  
 1. 【[汗滂气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_pan_qi.md#汗滂气)】`hun6 pan qi` <sup>[如皋]</sup> 汗味。  
 1. 【[汗喷气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_pen_qi.md#汗喷气)】`hun6 pen1 qi` <sup>[如皋]</sup> 汗味。  
 1. 【[汗衫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_shaen.md#汗衫)】`hun6 shaen1` T恤  
@@ -2663,6 +2660,8 @@
 1. 【[痪掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_tio.md#痪掉)】`hun6 tio` <sup>[东台]</sup> 指某种植物因被其它东西遮蔽，影响通风透光而生长不良，像瘫痪了似的：这里杂草太多，再不薅掉，就要把菜～。  
 1. 【[蔊菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_cae.md#蔊菜)】`hun6 cae5` <sup>[如东]</sup> 十字花科植物蔊菜，又名野麻菜，多年生草本。  
 1. 【[𤽂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun.md#𤽂)】`hun6` <sup>[兴化]</sup> 生醭，咸菜及其卤汁中白色的霉点：咸菜～吖。～，《集韵·翰韵》侯旰切：“～，《博雅》白也。”  
+1. 【[𤽂吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_nga.md#𤽂吖)】`hun6 nga` <sup>[如皋]</sup> 酱、腌、卤制的蔬菜表面轻度变质，但未上毛霉烂。  
+1. 【[𤽂头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_teu.md#𤽂头)】`hun6 teu2` <sup>[泰县]</sup> 酱油发了霉。  
 1. 【[呼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv.md#呼)】`hv1` <sup>[如东]</sup> 小睡：我在椅子上～刻儿。  
 1. 【[呼啊命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_a_mien.md#呼啊命)】`hv1 a mien6` <sup>[如皋]</sup> 拼命地：他挨松吖绑就～的遛。  
 1. 【[呼剥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_bah.md#呼剥)】`hv1 bah7` <sup>[泰县]</sup> 急忽忽：你倒～。  
