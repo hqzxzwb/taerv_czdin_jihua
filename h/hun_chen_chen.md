@@ -1,4 +1,4 @@
-# 寒净净
-hun2 chen chen1
+# 寒阵阵
+hun2 chen chen6
 > 如皋方言词典
 - 微冷。
