@@ -34,8 +34,8 @@
 1. 【[𢪯板<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_baen_r.md#𢪯板<sub>儿</sub>)】`tae1 baen3 r` <sup>[如东]</sup> 一种木板儿拖鞋，前头有一个环套。通称𢪯板儿。  
 1. 【[𢪯裆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_dan.md#𢪯裆)】`tae1 dan1` <sup>[如皋]</sup> 裤裆大而下垂。  
 1. 【[𢪯黄龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_huan_lon.md#𢪯黄龙)】`tae1 huan2 lon` <sup>[如东]</sup> 脓性鼻涕从鼻孔里流出来。  
+1. 【[𢪯胡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_hv.md#𢪯胡)】`tae1 hv2` <sup>[如皋]</sup> 玉米棒头儿上吐出雌花蕊。  
 1. 【[𢪯胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_hv_zz.md#𢪯胡子)】`tae1 hv2 zz` <sup>[如东]</sup> 玉米吐雌蕊，叫做𢪯胡子。比喻工作还没有做完：～工程。  
-1. 【[𢪯鬍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_hv.md#𢪯鬍)】`tae1 hv2` <sup>[如皋]</sup> 玉米棒头儿上吐出雌花蕊。  
 1. 【[𢪯手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_sheu.md#𢪯手)】`tae1 sheu3` <sup>[如东]</sup> 表示无可奈何，认输不干了：我～。  
 1. 【[台秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_chen.md#台秤)】`tae2 chen5` <sup>[兴化]</sup> 案秤。  
 1. 【[台容](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ion.md#台容)】`tae2 ion2` <sup>[兴化]</sup> （借）指人的模样：她这副～晚上出来还把人吓咖唻！  

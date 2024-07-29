@@ -215,7 +215,7 @@
 1. 【[五领三腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_lien_saen_io.md#五领三腰)】`v3 lien3 saen1 io1` <sup>[如东]</sup> 死者收殓时穿在身上的五件褂子、三件裤子，称五领三腰。也有七领五腰、九领七腰的。  
 1. 【[五领三腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_lien_saen_io.md#五领三腰)】`v3 lien3 saen1 io1` <sup>[兴化]</sup> 丧制，指人死后，其寿衣上身五件，下身三件。  
 1. 【[五流稀散](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_lieu_xi_saen.md#五流稀散)】`v3 lieu2 xi1 saen5` <sup>[兴化]</sup> 原在一起的人们分散在各方：当年的老同学早就～吖。也说“五零四散”。  
-1. 【[五绺胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_lieu_hv_zz.md#五绺胡子)】`v3 lieu3 hv2 zz` <sup>[如皋]</sup> 鬍、髭、鬚、双鬓分绺下垂。如关羽、天官像。  
+1. 【[五绺胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_lieu_hv_zz.md#五绺胡子)】`v3 lieu3 hv2 zz` <sup>[如皋]</sup> 胡子、髭、鬚、双鬓分绺下垂。如关羽、天官像。  
 1. 【[五里稀散](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_lii_xi_saen.md#五里稀散)】`v3 lii xi1 saen5` <sup>[如皋]</sup> 乱糟糟的四散开来。  
 1. 【[五绿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_loh.md#五绿)】`v3 loh8` <sup>[如皋]</sup> 如：蒲芹、绿豆粉皮、青菜、青椒、青豆、兰花瓣儿等。  
 1. 【[五路财神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_lv_cae_shen.md#五路财神)】`v3 lv6 cae2 shen2` <sup>[如皋]</sup> 如皋北门外五神庙中供奉的五位瘟神，又称五路财神。正月十七财神节，是此庙的庙会。  

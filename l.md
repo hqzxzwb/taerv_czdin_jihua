@@ -1374,7 +1374,7 @@
 1. 【[凌𪞝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_dah.md#凌𪞝)】`lien2 dah7, lien2 tah7` ［凌凙］冰凌，屋檐下的冰柱。  
 1. 【[凌环](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_kuaen.md#凌环)】`lien2 kuaen3` <sup>[如皋]</sup> 地名通名。雪岸乡有冒家～。  
 1. 【[凌辱罪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_roh_cuei.md#凌辱罪)】`lien2 roh8 cuei6` <sup>[兴化]</sup> 在精神上、肉体上长时间受折磨：细伢儿遇到狠心的晚娘，～难受㖸！｜我要是被他抓过去……先把～把我受够了，然后才能让我死。（《火烧赤壁》九）  
-1. 【[凌凙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_tah.md#凌凙)】`lien2 tah` <sup>[如皋]</sup> 冰锥儿。多见于雪后晴的檐下。长鬍子上也偶见。  
+1. 【[凌凙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_tah.md#凌凙)】`lien2 tah` <sup>[如皋]</sup> 冰锥儿。多见于雪后晴的檐下。长胡子上也偶见。  
 1. 【[凌凙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_tah.md#凌凙)】`lien2 tah` <sup>[兴化]</sup> 冰锥：而今天气变暖，屋檐口好多年没得～咖。  
 1. 【[拎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien.md#拎)】`lien2, lien1` 提  
 1. 【[拎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien.md#拎)】`lien2` <sup>[如东]</sup> 提：～篮子。  

@@ -2674,7 +2674,7 @@
 1. 【[冻疮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_chuan.md#冻疮)】`don5 chuan1` <sup>[如东]</sup> 因为寒冷，皮肤局部组织血液循环障碍而发生溃烂，称冻疮。  
 1. 【[冻疮子<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_chuan_zz_r.md#冻疮子<sub>儿</sub>)】`don5 chuan1 zz3 r` <sup>[如东]</sup> 因为寒冷，皮肤局部组织血液循环障碍而出现红肿，尚未溃烂，称冻疮子儿。  
 1. 【[冻疮籽<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_chuan_zz_r.md#冻疮籽<sub>儿</sub>)】`don5 chuan1 zz3 r` <sup>[如皋]</sup> 冻伤处有小硬块，尤以身体回暖时痛、痒难受。  
-1. 【[冻冻丁<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_don_dien_r.md#冻冻丁<sub>儿</sub>)】`don5 don5 dien1 r` <sup>[如皋]</sup> ① 向下挂的冰柱：老爹的鬍子上挂～；檐头上挂～。 ② 见“凌凙”。  
+1. 【[冻冻丁<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_don_dien_r.md#冻冻丁<sub>儿</sub>)】`don5 don5 dien1 r` <sup>[如皋]</sup> ① 向下挂的冰柱：老爹的胡子上挂～；檐头上挂～。 ② 见“凌凙”。  
 1. 【[冻冻钉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_don_dien_r.md#冻冻钉<sub>儿</sub>)】`don5 don5 dien1 r` <sup>[东台]</sup> 冬天雨、雪水沿屋檐下滴凝结成椎状冰柱，也称冰凌。  
 1. 【[冻冻钉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_don_dien_r.md#冻冻钉<sub>儿</sub>)】`don5 don5 dien1 r` <sup>[兴化]</sup> 融雪时屋檐滴水结成的冰凌：腊月二十九日，雪后初晴，银光耀眼，屋檐下的～，促使……（兴文《误走盐城》）》  
 1. 【[冻冻钉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_don_dien_r.md#冻冻钉<sub>儿</sub>)】`don5 don5 dien1 r` <sup>[泰县]</sup> 冰锥儿。  

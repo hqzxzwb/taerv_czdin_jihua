@@ -340,7 +340,7 @@
 1. 【[人中白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_zhon_poh.md#人中白)】`ren2 zhon1 poh8` <sup>[如东]</sup> 人尿自然沉结的固体物，又名尿垢，入中药。  
 1. 【[人众](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_zhon.md#人众)】`ren2 zhon5` <sup>[泰兴]</sup> 大众，众人：你有话当住～说说/你有话当面大家说说  
 1. 【[人指甲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_zhr_jiaeh.md#人指甲)】`ren2 zhr3 jiaeh7` <sup>[如东]</sup> 人手上的指甲。  
-1. 【[仁丹胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_daen_hv_zz.md#仁丹胡子)】`ren2 daen1 hv2 zz` <sup>[如皋]</sup> 有如日本仁丹商标上的鬍式。  
+1. 【[仁丹胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_daen_hv_zz.md#仁丹胡子)】`ren2 daen1 hv2 zz` <sup>[如皋]</sup> 有如日本仁丹商标上的胡子式样。  
 1. 【[仁义](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_i.md#仁义)】`ren2 i` <sup>[如皋]</sup> 为人厚道宽宏，讲义气：他家兄弟两个，老大～，老二不～。  
 1. 【[仁义](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_i.md#仁义)】`ren2 i` <sup>[兴化]</sup> ① 性情温和善良：老吴～，工友有难都肯伸手帮忙。 ② 与人相处通情达理：本以为这个人难处，想不到他这吖～。  
 1. 【[壬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren.md#壬)】`ren2` <sup>[东台]</sup> 天干的第九位。  
