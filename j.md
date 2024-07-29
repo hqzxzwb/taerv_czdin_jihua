@@ -402,7 +402,7 @@
 1. 【[减免](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiaen_min.md#减免)】`jiaen3 min3` <sup>[东台]</sup> 减轻或免除。  
 1. 【[减水口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiaen_shuei_keu.md#减水口)】`jiaen3 shuei3 keu3` <sup>[泰县]</sup> 田间放水的口子。  
 1. 【[减水口子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiaen_shuei_keu_zz.md#减水口子)】`jiaen3 shuei3 keu3 zz` <sup>[兴化]</sup> 为降低田间或内河水位，在圩岸上开挖的缺口。  
-1. 【[碱场巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiaen_chan_ba.md#碱场巴)】`jiaen3 chan2 ba1` <sup>[东台]</sup> 指盐碱地块。有人戏称痢子头为～，故“巴”也作“疤”。堤东也称“碱场滩儿”。  
+1. 【[碱场巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiaen_chan_ba.md#碱场巴)】`jiaen3 chan2 ba1` <sup>[东台]</sup> 指盐碱地块。有人戏称瘌子头为～，故“巴”也作“疤”。堤东也称“碱场滩儿”。  
 1. 【[碱粉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiaen_fen_zz.md#碱粉子)】`jiaen3 fen3 zz` 洗衣粉  
 1. 【[碱酵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiaen_go.md#碱酵)】`jiaen3 go5` <sup>[兴化]</sup> 投过碱水的面团，拔除酸味后用来制作面食。  
 1. 【[碱水粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiaen_shuei_zhoh.md#碱水粥)】`jiaen3 shuei3 zhoh7` <sup>[如皋]</sup> 煮粥时添加了碱性物质，如荞麦稭儿灰、微量石碱，使粥汤发红、黏稠、可口。  
