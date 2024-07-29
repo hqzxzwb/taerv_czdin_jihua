@@ -637,10 +637,10 @@
 1. 【[大伏心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_foh_xien.md#大伏心)】`da6 foh xien` <sup>[兴化]</sup> 大暑节气间：～里出远门，热得真够受。  
 1. 【[大伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_foh.md#大伏)】`da6 foh8` <sup>[如皋]</sup> 大暑。见“三伏”，且居三伏之中心，故称～。  
 1. 【[大伏分清](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_foh_fen_qien.md#大伏分清)】`da6 foh8 fen1 qien1` <sup>[东台]</sup> 大暑正中间一天，也作“大伏分心”。  
+1. 【[大伏里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_foh_lii.md#大伏里)】`da6 foh8 lii` <sup>[泰兴]</sup> 也说大伏心里。夏季三伏期中最热的时候。  
 1. 【[大伏天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_foh_tin.md#大伏天)】`da6 foh8 tin1` <sup>[如皋]</sup> 大暑期间。  
 1. 【[大伏天的太阳——辣火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_foh_tin_dii_tae_ian_laeh_hu.md#大伏天的太阳——辣火)】`da6 foh8 tin1 dii tae5 ian2 laeh8 hu3` <sup>[东台]</sup>   
-1. 【[大伏心里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_foh_xien_lii.md#大伏心里)】`da6 foh8 xien1 lii` <sup>[如皋]</sup> 大暑期间。  
-1. 【[大伏心里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_foh_xien_lii.md#大伏心里)】`da6 foh8 xien1 lii` <sup>[东台]</sup> 一年当中最热的天气。  
+1. 【[大伏心里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_foh_xien_lii.md#大伏心里)】`da6 foh8 xien1 lii` <sup>\[如皋\]\[东台\]\[泰兴\]</sup>大暑期间：～要预防中暑<sup>\[泰兴\]</sup>  
 1. 【[大风暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_fon_bo.md#大风暴)】`da6 fon1 bo5` <sup>[兴化]</sup> （喻）规模大的事件或发展迅猛的局势：一九五八年大跃进刮～，家家都要参加人民公社。｜“……当～来，西边好几个乡，就稀里哗啦撒出来了……”（陈登科《淮河边上的儿女》三）  
 1. 【[大衭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_fv.md#大衭)】`da6 fv1` <sup>[如东]</sup> 上衣右襟罩在左襟上，右襟称大衭。  
 1. 【[大衭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_fv.md#大衭)】`da6 fv1` <sup>[兴化]</sup> 纽扣在一侧的中装的前面部分，通常从左侧到右侧盖住底襟。又称“大襟”。  
@@ -762,10 +762,7 @@
 1. 【[大胯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_kua.md#大胯)】`da6 kua5` <sup>[兴化]</sup> 胯骨，腰和大脚之间的部分。  
 1. 【[大块头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_kuae_teu.md#大块头)】`da6 kuae teu2` <sup>[泰兴]</sup> 谓人的个子高，肥胖：我们今朝到～那许去耍耍。  
 1. 【[大块头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_kuae_teu.md#大块头)】`da6 kuae5 teu2` <sup>[如东]</sup> ① 身材高大的人。 ② 身材肥胖的人。 ③ 身体粗壮的人。  
-1. 【[大匡匡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_kuan_kuan.md#大匡匡)】`da6 kuan1 kuan1` <sup>[如皋]</sup> 大体估计。  
-1. 【[大匡匡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_kuan_kuan.md#大匡匡)】`da6 kuan1 kuan1` <sup>[东台]</sup> 大略地估算，不太精确：这堆粮食～算一下，千把斤。  
-1. 【[大匡匡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_kuan_kuan.md#大匡匡)】`da6 kuan1 kuan1` <sup>[兴化]</sup> 粗略的估计：这套房子装修下来，～要得五万块。  
-1. 【[大匡匡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_kuan_kuan.md#大匡匡)】`da6 kuan1 kuan1` <sup>[泰县]</sup> 大体上。  
+1. 【[大匡匡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_kuan_kuan.md#大匡匡)】`da6 kuan1 kuan1` <sup>\[如皋\]\[东台\]\[兴化\]\[泰县\]\[泰兴\]</sup>大体估计，粗略估计：这堆粮食～算一下，千把斤。<sup>\[东台\]</sup>｜这套房子装修下来，～要得五万块。<sup>\[兴化\]</sup>  
 1. 【[大匡题目](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_kuan_ti_moh.md#大匡题目)】`da6 kuan1 ti2 moh8` <sup>[如皋]</sup> 大致的：这篇文意我只看吖个～，不曾仔细研究。  
 1. 【[大来大去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lae_da_qy.md#大来大去)】`da6 lae2 da6 qy5` <sup>[兴化]</sup> ① 在经济往来中数额较大：他搞的是批发业务，生意上～。 ② 赚得多，用得也多：覅看他一赚就是若干，用场也大，他是～。  
 1. 【[大来大去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lae_da_qy.md#大来大去)】`da6 lae2 da6 qy5` <sup>[泰兴]</sup> ① 收支都不少，不吝惜：他用钱总是～的。 ② 办事不细心，大而化之  
@@ -814,6 +811,7 @@
 1. 【[大妈妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma_ma.md#大妈妈)】`da6 ma1 ma` <sup>[如东]</sup> 伯父的妻子。亦称伯母。  
 1. 【[大马其略的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma_qi_liah_dii.md#大马其略的)】`da6 ma1 qi2 liah7 dii` <sup>[东台]</sup> 粗略的、马虎了事的意思：这书我只是～翻吖下子。  
 1. 【[大麻苍蝇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma_can_ien.md#大麻苍蝇)】`da6 ma2 can1 ien` <sup>[泰县]</sup> 不知趣的人。  
+1. 【[大麻风水癞子总不医，只医（依）𢘞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma_fon_shuei.md#大麻风水癞子总不医，只医（依）𢘞)】`da6 ma2 fon1 shuei3 lae6 zz zon3 beh7 i1 zheh7 i1 nen3` <sup>[泰兴]</sup> 诙谐语，谓其他人的意见都不采纳，只按你的意见办。  
 1. 【[大麻风向吖癞子哭——你的病就是我的病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma_fon_xian_nga_lae_zz_koh_nii_dii_pien_qieu_shr_ngu_dii_pien.md#大麻风向吖癞子哭——你的病就是我的病)】`da6 ma2 fon1 xian5 nga lae6 zz koh7 nii3 dii pien6 qieu6 shr6 ngu3 dii pien6` <sup>[如皋]</sup> 比喻情况差不多。  
 1. 【[大码头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma_teu.md#大码头)】`da6 ma3 teu` <sup>[东台]</sup> ① 泛指较大的港口、城市。 ② ［喻］粗线条，不拘细节：他这个～，身份证又忘吖家里。  
 1. 【[大码头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma_teu.md#大码头)】`da6 ma3 teu` <sup>[兴化]</sup> （借）到过，大都市，见多识广的人：他是个～，眼角子高。  
@@ -836,6 +834,7 @@
 1. 【[大毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_mo.md#大毛)】`da6 mo2` <sup>[兴化]</sup> ① 鸟的翅膀和外层的羽毛。相对于里面的绒毛（又称“小毛”）。 ② 长毛皮料，如狐皮、滩羊皮等。  
 1. 【[大毛雨<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_mo_y_r.md#大毛雨<sub>儿</sub>)】`da6 mo2 y3 r` <sup>[如皋]</sup> 雨点细小而密集的雨。  
 1. 【[大锚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_mo.md#大锚)】`da6 mo2` <sup>[如东]</sup> 锚的一种。铁制，一般四齿，也有两齿的，份量重，柄长。也叫头锚。  
+1. 【[大麦灌浆，催人插秧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_moh_gun_jian.md#大麦灌浆，催人插秧)】`da6 moh gun5 jian1 cuei1 ren2 chaeh7 ian1` <sup>[泰兴]</sup> 农谚。谓大麦快成熟的季节，就要做好栽秧的准备工作。  
 1. 【[大麦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_moh.md#大麦)】`da6 moh8` <sup>[如东]</sup> 禾本科植物大麦。  
 1. 【[大麦䜺<sub>儿</sub>粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_moh_chae_r.md#大麦䜺<sub>儿</sub>粥)】`da6 moh8 chae3 r zhoh7` <sup>[如东]</sup> 大麦䜺儿做成的粥，柔软，富有营养。  
 1. 【[大麦醋糟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_moh_cv_zo.md#大麦醋糟)】`da6 moh8 cv5 zo1` <sup>[如东]</sup> 大麦制醋后剩余的糟粕，人中药。  
@@ -899,6 +898,7 @@
 1. 【[大气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_qi.md#大气)】`da6 qi5` <sup>[兴化]</sup> ① 慷慨、不吝啬。 ② 大方、不俗气：这件衣裳款式～，不难看。  
 1. 【[大樯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_qian.md#大樯)】`da6 qian2` <sup>[如东]</sup> 帆船上最高的桅樯，竖在桅门舱中，固定在舱面梁上。也称主桅。  
 1. 【[大樯篷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_qian_pon.md#大樯篷)】`da6 qian2 pon2` <sup>[如东]</sup> 大樯上的风帆。  
+1. 【[大吃大用天来送，省吃俭用鬼弄𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_qieh_da_ion.md#大吃大用天来送，省吃俭用鬼弄𪨊)】`da6 qieh7 da6 ion6 tin1 lae2 son5 shen3 qieh7 jin3 ion6 guei3 lon6 son2` <sup>[泰兴]</sup> 及时行乐、不考虑未来的观点，有迷信味道。  
 1. 【[大清老早](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_qien_lo_zo.md#大清老早)】`da6 qien1 lo3 zo3` <sup>[东台]</sup> 一大早：商店～的就开门。  
 1. 【[大清早](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_qien_zo.md#大清早)】`da6 qien1 zo3` <sup>[如皋]</sup> 天亮后至日出前。  
 1. 【[大清早起](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_qien_zo_qi.md#大清早起)】`da6 qien1 zo3 qi` <sup>[兴化]</sup> 清晨：“……～，我肯白白咒人死活？……”（《广陵潮》六九）  

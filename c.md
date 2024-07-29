@@ -666,6 +666,7 @@
 1. 【[着地<sub>儿</sub>趖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chah_ti_r_su.md#着地<sub>儿</sub>趖)】`chah8 ti6 r su1` <sup>[如皋]</sup> 贴近地面快跑：老鼠～；矮子走路～。  
 1. 【[着定](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chah_tien.md#着定)】`chah8 tien6` <sup>[如皋]</sup> ① 决定了、认定了。 ② 宰定了、咬定了。  
 1. 【[着躁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chah_zo.md#着躁)】`chah8 zo5` <sup>[兴化]</sup> 发急：不要～，有话慢慢说。｜先生～地说：“……快替我把他喊上来！”（兴文《吴生生的故事》）  
+1. 【[伥神鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_shen_guei.md#伥神鬼)】`chan1 shen guei3` <sup>[泰兴]</sup> 传说中身材高大的鬼，讥人个子太高。  
 1. 【[伥神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_shen.md#伥神)】`chan1 shen2` <sup>[兴化]</sup> 传说中长腿长臂的鬼神：他1.85的瘦高个儿，长得像个～。  
 1. 【[猖毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_mo.md#猖毛)】`chan1 mo2` <sup>[如东]</sup> ① 毛羽张开来了。 ② 犯脾气：你把他弄～啊。  
 1. 【[猖毛狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_mo_geu.md#猖毛狗)】`chan1 mo2 geu3` <sup>[如东]</sup> ① 狗的一种。身上生长着蓬松的毛。 ② 比喻人的头发蓬乱：头发像～一样的。 ③ 此喻人穿的衣服褴褛：穿得像～一样。  
@@ -775,11 +776,12 @@
 1. 【[丈尺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_cheh.md#丈尺)】`chan6 cheh7` <sup>[如东]</sup> 测量土地的一种工具。有丈杆和弓尺两种。  
 1. 【[丈二的和尚——摸不着头脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_er_dii_hu_shan_mah_beh_chah_teu_no.md#丈二的和尚——摸不着头脑)】`chan6 er6 dii hu2 shan mah8 beh7 chah8 teu2 no3` <sup>[东台]</sup>   
 1. 【[丈杆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_gun.md#丈杆)】`chan6 gun` <sup>[如东]</sup> 一根木杆或竹竿，用来丈量土地。也叫丈尺。  
-1. 【[丈母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_mu.md#丈母)】`chan6 mu` <sup>[如东]</sup> 妻子的母亲。也称岳母。  
-1. 【[丈母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_mu.md#丈母)】`chan6 mu` <sup>[东台]</sup> 岳母，也称丈母娘。  
+1. 【[丈杆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_gun.md#丈杆)】`chan6 gun` <sup>[泰兴]</sup> 很长的大木尺。  
+1. 【[丈量](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_lian.md#丈量)】`chan6 lian2` <sup>[泰兴]</sup> 测量  
+1. 【[丈母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_mu.md#丈母)】`chan6 mu` <sup>\[如东\]\[东台\]\[泰兴\]</sup>妻子的母亲；岳母。\[东台：也称丈母娘\]  
+1. 【[丈母见女婿，拿刀杀母鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_mu_jin_ny.md#丈母见女婿，拿刀杀母鸡)】`chan6 mu jin5 ny3 xy na2 do1 shaeh7 mu3 ji` <sup>[泰兴]</sup> 乡谚。谓岳母对女婿非常喜欢，连自己最心爱的东西都舍得（给他）。  
 1. 【[丈母娘看女婿——越看越欢喜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_mu_nian_kun_ny_xy_iuh_kun_iuh_hun_xi.md#丈母娘看女婿——越看越欢喜)】`chan6 mu3 nian2 kun5 ny3 xy5 iuh8 kun5 iuh8 hun1 xi3` <sup>[东台]</sup>   
-1. 【[丈人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_ren.md#丈人)】`chan6 ren` <sup>[如东]</sup> 妻子的父亲。也称岳父n  
-1. 【[丈人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_ren.md#丈人)】`chan6 ren` <sup>[东台]</sup> 岳父，也称丈人佬儿。  
+1. 【[丈人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_ren.md#丈人)】`chan6 ren` <sup>\[如东\]\[东台\]\[泰兴\]</sup>妻子的父亲；岳父。\[东台：也称丈人佬儿\]  
 1. 【[仗义](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_i.md#仗义)】`chan6 i6` <sup>[如东]</sup> 依靠或讲究义气。  
 1. 【[仗义](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_i.md#仗义)】`chan6 i6` <sup>[东台]</sup> 讲义气：你这个人～，朋友有难都肯帮一把。  
 1. 【[仗势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_shr.md#仗势)】`chan6 shr5` <sup>[如东]</sup> 依靠别人的势力：～欺人。  

@@ -131,8 +131,8 @@
 1. 【[街上人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_shan_ren.md#街上人)】`gae1 shan ren2` <sup>[如皋]</sup> 城镇居民。与“乡下人”相对。  
 1. 【[街上人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_shan_ren.md#街上人)】`gae1 shan ren2` <sup>[东台]</sup> 指城里人。  
 1. 【[街上人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_shan_ren.md#街上人)】`gae1 shan ren2` <sup>[兴化]</sup> 集镇和城市的人：他是～。  
-1. 【[街上人认不得碌碡——困（睏）球](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_shan_ren_ren.md#街上人认不得碌碡——困（睏）球)】`gae1 shan6 ren2 ren6 beh7 deh7 loh8 choh kuen5 qieu2` <sup>[东台]</sup>   
-1. 【[街上人认不得乡下车架子——大框框](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_shan_ren_ren.md#街上人认不得乡下车架子——大框框)】`gae1 shan6 ren2 ren6 beh7 deh7 xian1 xia6 cha1 ga5 zz da6 kuan1 kuan1` <sup>[东台]</sup>   
+1. 【[街上人认不得碌碡——睏球](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_shan_ren_ren.md#街上人认不得碌碡——睏球)】`gae1 shan6 ren2 ren6 beh7 deh7 loh8 choh kuen5 qieu2` <sup>[东台]</sup>   
+1. 【[街上人认不得乡下车架子——大框框（匡匡）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_shan_ren_ren.md#街上人认不得乡下车架子——大框框（匡匡）)】`gae1 shan6 ren2 ren6 beh7 deh7 xian1 xia6 cha1 ga5 zz da6 kuan1 kuan1` <sup>\[东台\]\[泰兴\]</sup>歇后语。“大匡匡”，大略估计。  
 1. 【[街头上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_teu_shan.md#街头上)】`gae1 teu2 shan` <sup>[如皋]</sup> ① 街道的顶端。 ② 市镇与郊区邻近处。  
 1. 【[街心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_xien.md#街心)】`gae1 xien1` 最热闹的大街  
 1. 【[街心里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_xien_lii.md#街心里)】`gae1 xien1 lii` <sup>[如皋]</sup> 街当中。  

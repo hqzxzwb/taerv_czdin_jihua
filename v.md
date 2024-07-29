@@ -686,8 +686,9 @@
 1. 【[畈子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_zz.md#畈子)】`vaen5 zz` <sup>[如皋]</sup> 畦，又有长、短、单、双之分。长～的长度，又称“一节田”，约50m-100m，为乡间模糊性里程单位，只计节次，不计实长。  
 1. 【[畈子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_zz.md#畈子)】`vaen5 zz` <sup>[如东]</sup> 旱田中高出周围地坪的表面呈弧形的长条棱子。  
 1. 【[畈子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_zz.md#畈子)】`vaen5 zz` <sup>[兴化]</sup> 田块：一～韭菜｜麦～。  
-1. 【[万把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_ba.md#万把)】`vaen6 ba` <sup>[如东]</sup> ① 形容很多：有～唻。 ② 形容物品很贵：值～块钱哎。 ③ 形容非常：这条河有～长。  
+1. 【[万把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_ba.md#万把)】`vaen6 ba` <sup>[如东]</sup> ① 形容很多：有～唻。 ② 一万左右的数目：值～块钱哎。 ③ 形容非常：这条河有～长。  
 1. 【[万把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_ba.md#万把)】`vaen6 ba` <sup>[泰县]</sup> 非常，很：河里的冻～厚。  
+1. 【[万把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_ba.md#万把)】`vaen6 ba` <sup>[泰兴]</sup> 很多，极多：我教你带点儿来，你倒带啊～。  
 1. 【[万把钩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_ba_geu.md#万把钩)】`vaen6 ba geu1` <sup>[兴化]</sup> ① 多把铁钩的组合，为悬挂物件的用具。 ② （喻）很难摆脱的人：他是～，惹上他覅想脱身。  
 1. 【[万把钩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_ba_geu.md#万把钩)】`vaen6 ba geu1` <sup>[如皋]</sup> ① 牛蒡。 ② 硬尼龙丝织物，两块对合即可粘牢，又可拉开。 ③ 打捞用的多头铁钩（又称滚钩）。  
 1. 【[万把霉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_ba_mei.md#万把霉)】`vaen6 ba mei2` <sup>[兴化]</sup> 诸事不顺，倒了大霉：我碰上这个㞞真是倒啊～。  
@@ -697,13 +698,17 @@
 1. 【[万长久远](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_chan_jieu_iun.md#万长久远)】`vaen6 chan2 jieu3 iun3` <sup>[兴化]</sup> 时间长久：原来想跟你～的过日子，不想你丢下我娘儿两个先走啊！  
 1. 【[万佛楼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_feh_leu.md#万佛楼)】`vaen6 feh8 leu2` <sup>[如皋]</sup> 原如皋南门外的庙宇，椽子头都雕成佛像。  
 1. 【[万家饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_ga_faen.md#万家饭)】`vaen6 ga1 faen6` <sup>[如东]</sup> 许多人家的饭：不吃～。  
+1. 【[万贯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_gun.md#万贯)】`vaen6 gun5` <sup>[泰兴]</sup> 形容极为富有。古时的铜钱是用线或绳穿着的，每千枚为一贯，出门时多缠于腰间。明洪武八年发行纸币，面值为“壹贯”。当时壹贯等于一千枚铜钱，或白银一两，或黄金四分之一两。乡人常以此称有钱人，若“万贯家财”。  
 1. 【[万贯家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_gun_jia.md#万贯家)】`vaen6 gun5 jia1` <sup>[兴化]</sup> “万贯家财”的节缩语，财、材同音，指“棺材”：唐家老屋里停放着一具～，几十年后才下葬。  
+1. 【[万后朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_heu_zho.md#万后朝)】`vaen6 heu6 zho1` <sup>[泰兴]</sup> 大后天。亦作“晚后朝”、“弯后朝”。  
 1. 【[万金油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_jien_ieu.md#万金油)】`vaen6 jien1 ieu2` <sup>[东台]</sup> 即清凉油，喻指什么都能做，但什么都不精通的人。  
 1. 【[万能](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_nen.md#万能)】`vaen6 nen2` <sup>[如东]</sup> 形容无所不能：金钱不是～的。  
+1. 【[万年青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_nin_qien.md#万年青)】`vaen6 nin qien1` <sup>[泰兴]</sup> 四季常绿的多年生草本植物，结红果。乡人常作吉祥物。  
+1. 【[万年桩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_nin_zhuan.md#万年桩)】`vaen6 nin zhuan1` <sup>[泰兴]</sup> 喻长期坚持，不肯离开：我又不在箇许打～。  
 1. 【[万年青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_nin_qien.md#万年青)】`vaen6 nin2 qien1` <sup>[如东]</sup> 百合科植物万年青，多年生常绿草本。根茎倾斜，肥厚而短，须根细长，密披白色绒毛。叶丛生；披针形或带状，全缘，革质而光滑，叶面深绿色，下面淡绿色。椭圆状穗状花序。花多数。桨果球形，肉质，熟时橘红色或黄色，内含种子1枚。栽培或野生。  
 1. 【[万年桩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_nin_zhuan.md#万年桩)】`vaen6 nin2 zhuan1` <sup>[如皋]</sup> 状稳定的时间或时间久远。  
 1. 【[万年桩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_nin_zhuan.md#万年桩)】`vaen6 nin2 zhuan1` <sup>[东台]</sup> 见“打万年桩”。  
-1. 【[万年桩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_nin_zhuan.md#万年桩)】`vaen6 nin2 zhuan1` <sup>[兴化]</sup> 极言长期坚持不挪窝：“……他下来是段落锻炼的，又不在农村打～。”（马春阳：《城里来的年轻人》）  
+1. 【[万年桩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_nin_zhuan.md#万年桩)】`vaen6 nin2 zhuan1` <sup>[兴化]</sup> 极言长期坚持不挪窝：……他下来是段落锻炼的，又不在农村打～。（马春阳：《城里来的年轻人》）  
 1. 【[万千钩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_qin_geu.md#万千钩)】`vaen6 qin1 geu1` <sup>[泰县]</sup> （中药）苍耳子。  
 1. 【[万人孙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_ren_suen_zz.md#万人孙子)】`vaen6 ren2 suen1 zz` <sup>[如东]</sup> 众人的孙子，比喻地位低下：张四儿是～，说话没人听。  
 1. 【[万人嫌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_ren_xin.md#万人嫌)】`vaen6 ren2 xin2` <sup>[东台]</sup> ［喻］顽皮、讨嫌的小孩子。  

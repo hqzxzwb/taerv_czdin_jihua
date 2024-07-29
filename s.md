@@ -830,7 +830,7 @@
 1. 【[伤吖年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_nga_nin.md#伤吖年)】`shan1 nga nin2` <sup>[泰县]</sup> 动真格的。  
 1. 【[伤脑筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_no_jien.md#伤脑筋)】`shan1 no3 jien1` <sup>[东台]</sup> 形容事情难办。  
 1. 【[伤皮不伤骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_pi_beh_shan_gueh.md#伤皮不伤骨)】`shan1 pi2 beh7 shan1 gueh7` <sup>[兴化]</sup> ① 外表伤：老向的头撞破啊，～，搽一点药水也就好多啊。 ② 小的损失，没动到根本：这次出去进货，捱小偷摸去几百块钱，算得～。  
-1. 【[伤人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_ren.md#伤人)】`shan1 ren2` <sup>[如东]</sup> 人受伤：加强保护，不能～。人死亡的委婉说法。｜事故伤吖人。  
+1. 【[伤人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_ren.md#伤人)】`shan1 ren2` <sup>[如东]</sup> ① 致人受伤：加强保护，不能～。 ② 致人死亡的委婉说法：事故伤吖人。  
 1. 【[伤人汉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_ren_hun.md#伤人汉)】`shan1 ren2 hun5` <sup>[如东]</sup> 害人：这个问题～的。  
 1. 【[伤食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_sheh.md#伤食)】`shan1 sheh8` <sup>[如皋]</sup> 见“𩞉食”。  
 1. 【[伤食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_sheh.md#伤食)】`shan1 sheh8` <sup>[如东]</sup> 吃得太多，使食欲减退：毛毛吃得太多，伤吖食。  
@@ -882,6 +882,8 @@
 1. 【[上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan.md#上)】`shan6` <sup>[如东]</sup> ① 方向：～哪许去？ ② 生长：～霉。 ③ 凝结：～冻。  
 1. 【[上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan.md#上)】`shan6` <sup>[泰县]</sup> ① 向、到、往：～电影院。 ② 结：～冻。 ③ 生：～霉｜这个馒头不能吃，～吖霉。  
 1. 【[上坝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_ba.md#上坝)】`shan6 ba5` <sup>[如皋]</sup> ① 相对位置在上游的坝。 ② 借指上段、上级：～不开，下坝不流。  
+1. 【[上不上，下不下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_beh_shan_xia.md#上不上，下不下)】`shan6 beh shan6 ha6 beh ha6` <sup>[泰兴]</sup> 心情不安，或谓进退两难：预先估计不足，现在弄得～的，怎吖了结geh？  
+1. 【[上半天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_bun_tin.md#上半天)】`shan6 bun tin1` <sup>[泰兴]</sup> 上午。日出至中午12点这一段时间。  
 1. 【[上半天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_bun_tin.md#上半天)】`shan6 bun5 tin1` <sup>[兴化]</sup> 上午：“～人少，早起更是一个人没有呢。”（《二十年目睹之怪现状》二八）  
 1. 【[上菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_cae.md#上菜)】`shan6 cae5` <sup>[如东]</sup> 给酒席桌上送菜：快点～，我俫吃好啊要家去。  
 1. 【[上茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_cha.md#上茶)】`shan6 cha2` <sup>[如东]</sup> 端茶，送茶：请～。  
@@ -892,11 +894,10 @@
 1. 【[上船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_chun.md#上船)】`shan6 chun2` <sup>[如东]</sup> 到船上去。在船上工作。  
 1. 【[上船的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_chun_dii.md#上船的)】`shan6 chun2 dii` <sup>[如东]</sup> 指船民、渔民。  
 1. 【[上当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_dan.md#上当)】`shan6 dan5` <sup>[如东]</sup> 受骗，吃亏。  
-1. 【[上灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_den.md#上灯)】`shan6 den1` 开灯  
-1. 【[上灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_den.md#上灯)】`shan6 den1` <sup>[如皋]</sup> 灯节第一天：“（正月）十三～，十四看灯，十五元宵，十六当荤，十七财神，十八落灯……”旧时灯节以点“天灯”为标志，此日开始在场头高竿上点“天灯”，可至正月十八“小落灯”，可至二月初二“大落灯”。  
-1. 【[上灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_den.md#上灯)】`shan6 den1` <sup>[如皋]</sup> 见“点灯”。  
+1. 【[上灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_den.md#上灯)】`shan6 den1` <sup>[如皋]</sup> ① 灯节第一天：“（正月）十三～，十四看灯，十五元宵，十六当荤，十七财神，十八落灯……”旧时灯节以点“天灯”为标志，此日开始在场头高竿上点“天灯”，可至正月十八“小落灯”，可至二月初二“大落灯”。 ② 见“点灯”。  
 1. 【[上灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_den.md#上灯)】`shan6 den1` <sup>[如东]</sup> ① 阴历正月十三日晚，用圆子供神供祖。庙桅上张挂灯笼，称上灯。民谣：“上灯圆子落灯面。” ② 点灯：天暗吖，房间里怎吖还不～？  
 1. 【[上灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_den.md#上灯)】`shan6 den1` <sup>[兴化]</sup> ① 点灯：妈妈儿起来打火～……（《梼杌闲评》十九） ② 民俗：元宵节期间，民户于每晚悬红灯于檐下，此举从正月十三日开始，谓～。  
+1. 【[上灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_den.md#上灯)】`shan6 den1` <sup>[泰兴]</sup> 点灯。过去点亮油灯称此。今开电灯也用。  
 1. 【[上灯节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_den_jih.md#上灯节)】`shan6 den1 jih7` <sup>[如皋]</sup> 见“上灯”。  
 1. 【[上等荒草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_den_huan_co.md#上等荒草)】`shan6 den3 huan1 co3` <sup>[如皋]</sup> 田禾秸称荒草，旧时做燃料。其质优者称～。如：黄豆、棉花、小麦的秸。见“行草”“沟岸草”。  
 1. 【[上吊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_dio.md#上吊)】`shan6 dio5` <sup>[如东]</sup> 将绳索系在高处，另一端勒紧咽喉而自杀。  
@@ -927,6 +928,7 @@
 1. 【[上高](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_go.md#上高)】`shan6 go1` <sup>[兴化]</sup> 登高：～的时候要注意安全。｜一见有了敌情，队员们急忙～，占据有利地形。  
 1. 【[上觉头上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_go_teu_shan.md#上觉头上)】`shan6 go5 teu2 shan` <sup>[如皋]</sup> 熟睡中，在入睡到睡醒这一过程的前段，是睡眠最深的阶段。  
 1. 【[上工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_gon.md#上工)】`shan6 gon1` <sup>[如东]</sup> 到企业或农田里去参加劳动。  
+1. 【[上工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_gon.md#上工)】`shan6 gon1` <sup>[泰兴]</sup> 指劳动者在规定的时间到工厂、工地、田间去劳作：大呼隆时期，社员天天要～。  
 1. 【[上弓腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_gon_io.md#上弓腰)】`shan6 gon1 io1` <sup>[东台]</sup> 由于挑担或长期伏案工作而形成的轻微驼背。  
 1. 【[上躬腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_gon_io.md#上躬腰)】`shan6 gon1 io1` <sup>[如东]</sup> 脊柱骨上部向外弓曲。也称驼背：他是～。  
 1. 【[上躬腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_gon_io.md#上躬腰)】`shan6 gon1 io1` <sup>[泰县]</sup> 背微驼。  
@@ -1030,8 +1032,8 @@
 1. 【[上吖苏州](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_nga_sv_zheu.md#上吖苏州)】`shan6 nga sv1 zheu1` <sup>[东台]</sup> ［引］就是睡着了。因不少东台人的祖先在苏州，进入梦乡就好比回到老家：他才将还下在谈八鹉，这刻儿倒～啦。  
 1. 【[上崖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_ngae.md#上崖)】`shan6 ngae2` <sup>[兴化]</sup> 上岸：“那怪如今怯战，不肯～，只在水里潜踪……”（《西游记》二二）  
 1. 【[上眼泡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_ngaen_po_zz.md#上眼泡子)】`shan6 ngaen3 po1 zz` <sup>[如皋]</sup> 上眼睑。  
-1. 【[上年子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_nin_zz.md#上年子)】`shan6 nin zz` 去年  
-1. 【[上年子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_nin_zz.md#上年子)】`shan6 nin zz` <sup>[如皋]</sup> 去年。  
+1. 【[上年子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_nin_zz.md#上年子)】`shan6 nin zz` <sup>\[如皋\]\[泰兴\]</sup>去年  
+1. 【[上年纪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_nin_ji.md#上年纪)】`shan6 nin2 ji` <sup>[泰兴]</sup> 指年纪大了：他上吖年纪lo，你要带住点儿  
 1. 【[上瓶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_pien.md#上瓶)】`shan6 pien2` <sup>[如皋]</sup> 向瓶中注入水或插花。  
 1. 【[上谱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_pv_r.md#上谱<sub>儿</sub>)】`shan6 pv3 r` <sup>[如皋]</sup> 见“上相”。  
 1. 【[上谱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_pv_r.md#上谱<sub>儿</sub>)】`shan6 pv3 r` <sup>[如东]</sup> 上规矩，上品味：要～。  
@@ -1039,19 +1041,19 @@
 1. 【[上埠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_pv.md#上埠)】`shan6 pv6` <sup>[如东]</sup> 渔船进入船埠，叫做上埠。  
 1. 【[上𦪞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_qio.md#上𦪞)】`shan6 qio` <sup>[如东]</sup> 帆船的第12舱，老大居住的舱室。  
 1. 【[上轿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_qio.md#上轿)】`shan6 qio6` <sup>[如东]</sup> 坐轿的人上轿。  
-1. 【[上人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_ren.md#上人)】`shan6 ren` 长辈，与“下人”相对。  
-1. 【[上人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_ren.md#上人)】`shan6 ren` <sup>[如东]</sup> 父母。长辈。  
-1. 【[上人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_ren.md#上人)】`shan6 ren` <sup>[东台]</sup> 指父母或岳父母，以及他们的直系长辈。  
+1. 【[上人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_ren.md#上人)】`shan6 ren` <sup>\[泰兴\]\[东台\]\[如东\]</sup>父母、祖父母等直系前辈，或配偶的直系前辈。与“下人”相对：孝敬～<sup>\[泰兴\]</sup>  
 1. 【[上人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_ren.md#上人)】`shan6 ren2` <sup>[兴化]</sup> 饭店、旅社、演艺场所等陆续有顾客、观众前来：店里正在～。  
 1. 【[上人情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_ren_qien.md#上人情)】`shan6 ren2 qien` <sup>[如东]</sup> 亲戚朋友给举办红事或丧事的人送礼、送钱，叫做上人情：侄女结婚，我要～。  
 1. 【[上沙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_sha.md#上沙)】`shan6 sha1` <sup>[如东]</sup> 到达沙垳：明朝下午～。  
 1. 【[上山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_shaen.md#上山)】`shan6 shaen1` <sup>[东台]</sup> 特指蚕发育到一定时期，停止吃桑叶，爬到簇上做茧。  
 1. 【[上山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_shaen.md#上山)】`shan6 shaen1` <sup>[兴化]</sup> 蚕儿上簇：没几天蚕儿就要～吖。  
+1. 【[上山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_shaen.md#上山)】`shan6 shaen1` <sup>[泰兴]</sup> 乡人谓蚕上棚作茧为“上山”，同时谓其生命告一段落，故有“都吃完用光了上山吧”之说。  
 1. 【[上上海](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_shan_hae.md#上上海)】`shan6 shan6 hae3` <sup>[如皋]</sup> 尿床的戏称。  
 1. 【[上手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_sheu.md#上手)】`shan6 sheu3` <sup>[如皋]</sup> 见“上吖手”。  
 1. 【[上手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_sheu.md#上手)】`shan6 sheu3` <sup>[如东]</sup> ① 自己的左手边。上家：他在我的～。 ② 获得成功：我已经～。  
 1. 【[上手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_sheu.md#上手)】`shan6 sheu3` <sup>[兴化]</sup> ① 打牌时坐在左侧的一家。 ② 买卖中前环节的人：这批货的～是哪个？也称“上家”。  
 1. 【[上手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_sheu.md#上手)】`shan6 sheu3` <sup>[兴化]</sup> ① 开始进行：这件事一～就快啊。 ② 获得、拿到：玩～｜勾搭～。  
+1. 【[上手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_sheu.md#上手)】`shan6 sheu3` <sup>[泰兴]</sup> 动手开始工作（操作）。  
 1. 【[上首](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_sheu.md#上首)】`shan6 sheu3` <sup>[如皋]</sup> ① 上一次。 ② 按礼节居上位  
 1. 【[上首](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_sheu.md#上首)】`shan6 sheu3` <sup>[如东]</sup> 尊贵的位置。以左手为上。左手边称上首。也称上手：你是客人，请坐～。  
 1. 【[上首](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_sheu.md#上首)】`shan6 sheu3` <sup>[东台]</sup> 较为尊贵或优越的位置。  
@@ -1073,8 +1075,7 @@
 1. 【[上算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_sun.md#上算)】`shan6 sun5` <sup>[如东]</sup> 合算：这批货～。  
 1. 【[上算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_sun.md#上算)】`shan6 sun5` <sup>[东台]</sup> 合算，划得来。  
 1. 【[上算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_sun.md#上算)】`shan6 sun5` <sup>[泰县]</sup> 合算：这件衣服只买啊八块线，蛮～的。  
-1. 【[上苏州](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_sv_zheu.md#上苏州)】`shan6 sv1 zheu1` <sup>[兴化]</sup> 入睡，进入梦中故乡的隐语。  
-1. 【[上苏州](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_sv_zheu.md#上苏州)】`shan6 sv1 zheu1` <sup>[泰县]</sup> 睡着了。  
+1. 【[上苏州](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_sv_zheu.md#上苏州)】`shan6 sv1 zheu1` <sup>\[兴化\]\[泰县\]\[泰兴\]</sup>入睡，进入梦中故乡的隐语。  
 1. 【[上他](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_ta.md#上他)】`shan6 ta` <sup>[如皋]</sup> 见“辱”。  
 1. 【[上台盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_tae_pun.md#上台盘)】`shan6 tae2 pun2` <sup>[如皋]</sup> 能在正式场合公开，不遭非议。  
 1. 【[上台盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_tae_pun.md#上台盘)】`shan6 tae2 pun2` <sup>[东台]</sup> 在交际场合中有身份有分寸。  
@@ -1084,6 +1085,7 @@
 1. 【[上停床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_tien_chuan.md#上停床)】`shan6 tien2 chuan2` <sup>[如东]</sup> 摆放死尸的木板，称停床。死者洗好身体，穿好衣裳，放在棺材盖或木板上，供亲友瞻仰，称上停床。  
 1. 【[上天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_tin.md#上天)】`shan6 tin1` <sup>[如东]</sup> ① 到天空中去。 ② 比喻小孩好动顽皮。  
 1. 【[上天有眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_tin_ieu_ngaen.md#上天有眼)】`shan6 tin1 ieu3 ngaen3` <sup>[如东]</sup> 比喻自有公道：你不要做黑心事，～。比喻别人能够看得清楚。  
+1. 【[上田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_tin.md#上田)】`shan6 tin2` <sup>[泰兴]</sup> 犹下田，到田间干农活。  
 1. 【[上田里去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_tin_lii_qy.md#上田里去)】`shan6 tin2 lii qy5` <sup>[如皋]</sup> 到田间劳作。  
 1. 【[上条规](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_tio_guei.md#上条规)】`shan6 tio2 guei1` <sup>[如东]</sup> 上规矩：处理问题要～。  
 1. 【[上道<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_to_r.md#上道<sub>儿</sub>)】`shan6 to6 r` <sup>[如皋]</sup> 见“上相”。  
@@ -3366,10 +3368,6 @@
 1. 【[菘蓝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_laen.md#菘蓝)】`son1 laen2` <sup>[如东]</sup> 十字花科植物菘蓝，二年生草本。高约90厘米。主根深长，外皮灰黄色。茎直立。叶互生，基生叶较大，叶片长圆状椭圆形；茎生叶长圆形至长圆状倒披针形，全缘。阔总状花序。花小，黄色。长角果长圆形，扁平翅状，具中肋。栽培。  
 1. 【[𪀚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_r.md#𪀚<sub>儿</sub>)】`son1 r` <sup>[如皋]</sup> 见“鸦虎”。  
 1. 【[𪀚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_r.md#𪀚<sub>儿</sub>)】`son1 r` <sup>[如皋]</sup> 行猎的鹰。即“鸦虎”。  
-1. 【[㞞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son.md#㞞)】`son2` <sup>[如皋]</sup> ① 状无能、无用、无价值：这个～变吖个～形，做～事，说～话，实在太～！ ② 詈语，或指人：把这个～打啊跑！  
-1. 【[㞞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son.md#㞞)】`son2` <sup>[如东]</sup> 精液。比喻人软弱无能：你这人是个～蛋！  
-1. 【[㞞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son.md#㞞)】`son2` <sup>[东台]</sup> ① 男人和雄性动物的精液。 ② ［引］发泄鄙视、讨厌、抱怨等情绪的口头禅：没得～本事｜～牌老输｜贪污犯是坏～！ ③ 对小孩的昵称：这个～多神气！那个～不听话。  
-1. 【[㞞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son.md#㞞)】`son2` <sup>[兴化]</sup> 儒弱无能：这个小伙真～，捱人指住鼻子骂也不敢回嘴。  
 1. 【[㞞话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_hua.md#㞞话)】`son2 hua6` <sup>[如皋]</sup> 无力的、无骨气的话。  
 1. 【[㞞话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_hua.md#㞞话)】`son2 hua6` <sup>[如东]</sup> 软弱无力的言语：你不要说～。  
 1. 【[㞞样<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_ian_r.md#㞞样<sub>儿</sub>)】`son2 ian6 r` <sup>[如东]</sup> 比喻形样难看。  
@@ -3385,6 +3383,10 @@
 1. 【[㞞形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_xien.md#㞞形)】`son2 xien2` <sup>[如东]</sup> 比喻形样难看：看你箇～，还走得出去吧。  
 1. 【[㞞形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_xien.md#㞞形)】`son2 xien2` <sup>[兴化]</sup> （贬）能力：这个人一点～没得，连儿子也管不住。｜你拿点儿～出来，领住老婆伢儿好好过日子。  
 1. 【[𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son.md#𪨊)】`son2` ［㞞］精液；对人的贬称  
+1. 【[𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son.md#𪨊)】`son2` <sup>[如皋]</sup> ① 状无能、无用、无价值：这个～变吖个～形，做～事，说～话，实在太～！ ② 詈语，或指人：把这个～打啊跑！  
+1. 【[𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son.md#𪨊)】`son2` <sup>[如东]</sup> 精液。比喻人软弱无能：你这人是个～蛋！  
+1. 【[𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son.md#𪨊)】`son2` <sup>[东台]</sup> ① 男人和雄性动物的精液。 ② ［引］发泄鄙视、讨厌、抱怨等情绪的口头禅：没得～本事｜～牌老输｜贪污犯是坏～！ ③ 对小孩的昵称：这个～多神气！那个～不听话。  
+1. 【[𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son.md#𪨊)】`son2` <sup>[兴化]</sup> 儒弱无能：这个小伙真～，捱人指住鼻子骂也不敢回嘴。  
 1. 【[竦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son.md#竦)】`son3` <sup>[如东]</sup> 恭敬地站着。  
 1. 【[竦腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_io.md#竦腰)】`son3 io1` <sup>[如东]</sup> 上体向前弯下。  
 1. 【[宋六门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_loh_men.md#宋六门)】`son5 loh8 men2` <sup>[如皋]</sup> 宋时，如皋县衙四周所设的六个门：先春门（东门）、集贤门（东南门）、宣化门（南门）、丰乐门（西门）、北极门（西北门）、拱辰门（东北门）。各门都有门官看守。  
