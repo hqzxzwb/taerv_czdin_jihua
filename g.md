@@ -53,7 +53,7 @@
 1. 【[家里人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_lii_ren.md#家里人)】`ga1 lii ren2` <sup>[如东]</sup> ① 自家人。 ② 指老鼠。  
 1. 【[家里人窝里鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_lii_ren_u_lii_ji.md#家里人窝里鸡)】`ga1 lii ren2 u1 lii ji1` <sup>[东台]</sup> ［喻］指都是自家人，或者昵称家乡人，本单位的人。  
 1. 【[家里数老好，外头数不到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_lii_shv_lo_ho_vae_teu_shv_beh_do.md#家里数老好，外头数不到)】`ga1 lii shv3 lo3 ho3 vae6 teu shv3 beh7 do5` <sup>[如皋]</sup> 在家里数一数二，在外边排不上号。  
-1. 【[家里凶，外头㞞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_lii_xion_vae_teu_son.md#家里凶，外头㞞)】`ga1 lii xion1 vae6 teu son2` <sup>[如皋]</sup> 在家里凶强、独大，在外边畏缩，无用。  
+1. 【[家里凶，外头𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_lii_xion_vae_teu_son.md#家里凶，外头𪨊)】`ga1 lii xion1 vae6 teu son2` <sup>[如皋]</sup> 在家里凶强、独大，在外边畏缩，无用。  
 1. 【[家门口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_men_keu.md#家门口)】`ga1 men2 keu3` <sup>[兴化]</sup> ① 住所的附近：“这不都是～的人吗？快全叫回去……”（《淮河边上的儿女》一三）》 ② 此概念可扩大到邻庄、邻县、邻省市：在～捱人家欺负，真想不通。  
 1. 【[家去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_qi.md#家去)】`ga1 qi` 回家去。  
 1. 【[家去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_qy.md#家去)】`ga1 qy` <sup>[如皋]</sup> 回家去。  
@@ -1750,7 +1750,7 @@
 1. 【[秆丝草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_sz_co.md#秆丝草)】`guaen1 sz1 co3` <sup>[如皋]</sup> 狼尾草。即“䓞草”。扎白蒲茶干时用到。  
 1. 【[秆子草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_zz_co.md#秆子草)】`guaen1 zz co3` <sup>[如皋]</sup> 删选过的小麦秸秆，齐的麦草  
 1. 【[鳏夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_fv.md#鳏夫)】`guaen1 fv1` <sup>[如东]</sup> 无妻或丧妻的人。  
-1. 【[管他娘肏㞞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_ta_nian_reh_son.md#管他娘肏㞞)】`guaen3 ta nian2 reh8 son2` <sup>[如皋]</sup> 不管什么事都不要问。  
+1. 【[管他娘肏𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_ta_nian_reh_son.md#管他娘肏𪨊)】`guaen3 ta nian2 reh8 son2` <sup>[如皋]</sup> 不管什么事都不要问。  
 1. 【[惯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen.md#惯)】`guaen5` <sup>[如东]</sup> 宠爱：你把这个伢儿～坏啊。  
 1. 【[惯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen.md#惯)】`guaen5` <sup>[如皋]</sup> 疼爱，溺爱。  
 1. 【[惯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen.md#惯)】`guaen5` <sup>[东台]</sup> 疼爱；宠爱：娇生～养。  
@@ -2268,7 +2268,7 @@
 1. 【[管伴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_pun.md#管伴)】`gun3 pun6` <sup>[兴化]</sup> 配合一起相宜：一个教师、一个医生，两个文人一起～。｜一个硬、一个软，两样东西不～。  
 1. 【[管情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_qien.md#管情)】`gun3 qien2` <sup>[兴化]</sup> 逢亲友家婚嫁寿庆或砌房造屋，前往庆贺，谓之～。  
 1. 【[管事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_shr.md#管事)】`gun3 shr6` <sup>[东台]</sup> ① 负责处理事务。 ② 旧时大户人家的管家，或商店里经理的旧称。  
-1. 【[管他肏㞞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_ta_reh_son.md#管他肏㞞)】`gun3 ta reh8 son2` <sup>[泰县]</sup> 去他的。  
+1. 【[管他肏𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_ta_reh_son.md#管他肏𪨊)】`gun3 ta reh8 son2` <sup>[泰县]</sup> 去他的。  
 1. 【[管待](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_tae.md#管待)】`gun3 tae` <sup>[东台]</sup> ① 款待。《水浒传》第五回：“太公见说了，大喜，安排酒食出来，～二位。” ② 指招待帮工的饭食：她家里对帮工～～得不丑。  
 1. 【[管待](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_tae.md#管待)】`gun3 tae6` <sup>[兴化]</sup> 招待、款待：老家来人，爸妈连忙上街打酒买菜～。｜老员外与大娘子急急收拾起身，～来人酒饭。（《京本通俗小说·错斩崔宁》）｜欧阳淳只得治酒～。至夜，各自归于卧所。（《封神演义》八五）  
 1. 【[管头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_teu.md#管头)】`gun3 teu2` <sup>[兴化]</sup> 旧指主人，今又指直接管理者：好啊，他俫班主任来啊，有～啊。｜“你如今有了～，比不得往日了……”（《梼杌闲评》八）  

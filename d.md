@@ -694,7 +694,7 @@
 1. 【[大话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_hua.md#大话)】`da6 hua6` <sup>[泰兴]</sup> 虚夸不实的话：说～是他的老本行，落实的不多。  
 1. 【[大话忑忑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_hua_teh_teh.md#大话忑忑)】`da6 hua6 teh7 teh7` <sup>[东台]</sup> 说话口气很大，言过其实：别听他～的，要看实践。  
 1. 【[大黄鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_huan_y.md#大黄鱼)】`da6 huan2 y2` <sup>[如东]</sup> 石首科动物大黄鱼，也称金鱼。  
-1. 【[大惚㞞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_hueh_son.md#大惚㞞)】`da6 hueh7 son2` <sup>[东台]</sup> （詈语）大坏蛋。  
+1. 【[大惚𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_hueh_son.md#大惚𪨊)】`da6 hueh7 son2` <sup>[东台]</sup> （詈语）大坏蛋。  
 1. 【[大荤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_huen.md#大荤)】`da6 huen1` <sup>[如皋]</sup> ① 旧时店家、作坊等固定的荤期，每月的初二、十六大荤，初八、二十三小荤。 ② 以荤食为主的上谱儿的正菜。  
 1. 【[大荤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_huen.md#大荤)】`da6 huen1` <sup>[兴化]</sup> 泛指鸡、鸭、猪肉之类脂肪较多的辈菜：你的病才好，千万要忌～。  
 1. 【[大寒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_hun.md#大寒)】`da6 hun2` 二十四节气之一。一般在阳历1月20或21日。  
@@ -1080,7 +1080,7 @@
 1. 【[呆若瘕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_rah_ha.md#呆若瘕)】`dae1 rah8 ha2` <sup>[泰县]</sup> （禁忌语）傻瓜。  
 1. 【[呆人有呆福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_ren_ieu_dae_foh.md#呆人有呆福)】`dae1 ren2 ieu3 dae1 foh7` <sup>[东台]</sup> 同“呆有呆局”。  
 1. 【[呆耍子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_shua_zz.md#呆耍子)】`dae1 shua3 zz` <sup>[如皋]</sup> 不节制的玩。  
-1. 【[呆㞞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_son.md#呆㞞)】`dae1 son2` <sup>[泰县]</sup> （禁忌语）傻瓜。  
+1. 【[呆𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_son.md#呆𪨊)】`dae1 son2` <sup>[泰县]</sup> （禁忌语）傻瓜。  
 1. 【[呆头呆脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_teu_dae_no.md#呆头呆脑)】`dae1 teu2 dae1 no3` <sup>[东台]</sup> 迟钝的样子。  
 1. 【[呆头呆脑的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_teu_dae_no_dii.md#呆头呆脑的)】`dae1 teu2 dae1 no3 dii` <sup>[如皋]</sup> 傻乎乎的样子。  
 1. 【[呆相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_xian.md#呆相)】`dae1 xian5` <sup>[如东]</sup> ① 痴呆的相貌：一副～。 ② 死死地看着：站吖那许～。  

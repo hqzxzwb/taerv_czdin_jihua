@@ -1720,7 +1720,7 @@
 1. 【[坏人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_ren.md#坏人)】`huae6 ren2` <sup>[如东]</sup> 品德恶劣的人。  
 1. 【[坏神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_shen.md#坏神)】`huae6 shen2` <sup>[泰县]</sup> 坏家伙：他是个～，你要注意。  
 1. 【[坏水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_shuei.md#坏水)】`huae6 shuei3` <sup>[兴化]</sup> （喻）指人心狡诈，坏主意多：这个家伙一肚子～，多防吖他点儿。  
-1. 【[坏㞞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_son.md#坏㞞)】`huae6 son2` <sup>[如东]</sup> 不好的男人：他是一个～。  
+1. 【[坏𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_son.md#坏𪨊)】`huae6 son2` <sup>[如东]</sup> 不好的男人：他是一个～。  
 1. 【[坏唆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_su_zz.md#坏唆子)】`huae6 su1 zz` <sup>[东台]</sup> 指专事挑拨离间、出坏主意的人。  
 1. 【[坏蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_taen.md#坏蛋)】`huae6 taen6` <sup>[如东]</sup> 坏人。  
 1. 【[坏天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_tin.md#坏天)】`huae6 tin1` <sup>[兴化]</sup> 指阴雨天气：今朝是好天，还是～？  
@@ -2092,9 +2092,9 @@
 1. 【[惚棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_pan.md#惚棒)】`hueh7 pan6` 詈语，指人不务正业、不求上进  
 1. 【[惚坯料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_pi_lio.md#惚坯料)】`hueh7 pi1 lio6` <sup>[东台]</sup> 坏习惯；不良习性。（参见“坏癖”）  
 1. 【[惚事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_shr.md#惚事)】`hueh7 shr6` <sup>[如皋]</sup> 坏事、丑事、不能见人的事。  
-1. 【[惚㞞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_son.md#惚㞞)】`hueh7 son2` <sup>[东台]</sup> （詈语）指坏人、混蛋（多指男性）。  
-1. 【[惚㞞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_son.md#惚㞞)】`hueh7 son2` <sup>[泰县]</sup> 坏男人。  
 1. 【[惚𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_son.md#惚𪨊)】`hueh7 son2` 詈语，骂人没用，差劲。  
+1. 【[惚𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_son.md#惚𪨊)】`hueh7 son2` <sup>[东台]</sup> （詈语）指坏人、混蛋（多指男性）。  
+1. 【[惚𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_son.md#惚𪨊)】`hueh7 son2` <sup>[泰县]</sup> 坏男人。  
 1. 【[惚胎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_tae.md#惚胎)】`hueh7 tae1` <sup>[如皋]</sup> 詈语，指人格低下。  
 1. 【[惚胎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_tae.md#惚胎)】`hueh7 tae1` <sup>[如皋]</sup> 见“惚货”。  
 1. 【[惚胎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_tae.md#惚胎)】`hueh7 tae1` <sup>[兴化]</sup> 骂人品性恶劣：这个～，甚的坏事、丑事总做得出来。  

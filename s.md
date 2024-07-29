@@ -1696,7 +1696,7 @@
 1. 【[胜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen.md#胜)】`shen5` <sup>[东台]</sup> 夸耀自己，讥笑别人，东台词典作“㰮”：你才得咖一回奖，～甚的？  
 1. 【[胜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen.md#胜)】`shen5` <sup>[泰县]</sup> ① 骄傲。 ② 炫耀。  
 1. 【[胜煞咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_shaeh_ga.md#胜煞咖)】`shen5 shaeh7 ga` <sup>[东台]</sup> 盛气凌人，喜欢显摆，好出风头。  
-1. 【[胜㞞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_son.md#胜㞞)】`shen5 son2` <sup>[泰县]</sup> （禁忌语）好摆胜的人。  
+1. 【[胜𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_son.md#胜𪨊)】`shen5 son2` <sup>[泰县]</sup> （禁忌语）好摆胜的人。  
 1. 【[胜歪歪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_vae_vae.md#胜歪歪)】`shen5 vae1 vae1` <sup>[兴化]</sup> 炫耀自己，令人恶心：她就欢喜～的显摆当官的丈夫。‖也说“胜巴巴”。  
 1. 【[收边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_bin.md#收边)】`sheu1 bin1` <sup>[如皋]</sup> 见“收头”。  
 1. 【[收场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_chan.md#收场)】`sheu1 chan2` <sup>[如东]</sup> 结束：甚的时侯～？  
@@ -3273,7 +3273,7 @@
 1. 【[骚蜞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_qi.md#骚蜞)】`so1 qi2` <sup>[如东]</sup> 方蟹科动物无齿相手蟹，全体被坚硬的甲壳。头胸甲长约3厘米，四方形青色，少数淡红色。眼具短柄能活动。侧缘具光滑隆线，无齿。螯足1对，步足4对，密生长短不等的硬刚毛。腹部退化雄者呈三角形，雌者圆形。生活在河流泥滩上，穴居河岸、田埂。  
 1. 【[骚气味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_qi_vei.md#骚气味)】`so1 qi5 vei6` <sup>[东台]</sup> 本指动物身上散发的难闻气味，戏称让人畏惧的威力。  
 1. 【[骚水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_shuei.md#骚水)】`so1 shuei3` <sup>[如皋]</sup> 前列腺液  
-1. 【[骚㞞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_son.md#骚㞞)】`so1 son2` <sup>[东台]</sup> （詈语）令人讨厌的事物。  
+1. 【[骚𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_son.md#骚𪨊)】`so1 son2` <sup>[东台]</sup> （詈语）令人讨厌的事物。  
 1. 【[骚痘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_teu_zz.md#骚痘子)】`so1 teu6 zz` <sup>[兴化]</sup> 青春痘。又说“骚疙瘩子”。  
 1. 【[骚猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_zhv.md#骚猪)】`so1 zhv1` <sup>[如皋]</sup> 种公猪。  
 1. 【[骚猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_zhv.md#骚猪)】`so1 zhv1` <sup>[如东]</sup> 种公猪。  
@@ -3368,25 +3368,25 @@
 1. 【[菘蓝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_laen.md#菘蓝)】`son1 laen2` <sup>[如东]</sup> 十字花科植物菘蓝，二年生草本。高约90厘米。主根深长，外皮灰黄色。茎直立。叶互生，基生叶较大，叶片长圆状椭圆形；茎生叶长圆形至长圆状倒披针形，全缘。阔总状花序。花小，黄色。长角果长圆形，扁平翅状，具中肋。栽培。  
 1. 【[𪀚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_r.md#𪀚<sub>儿</sub>)】`son1 r` <sup>[如皋]</sup> 见“鸦虎”。  
 1. 【[𪀚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_r.md#𪀚<sub>儿</sub>)】`son1 r` <sup>[如皋]</sup> 行猎的鹰。即“鸦虎”。  
-1. 【[㞞话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_hua.md#㞞话)】`son2 hua6` <sup>[如皋]</sup> 无力的、无骨气的话。  
-1. 【[㞞话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_hua.md#㞞话)】`son2 hua6` <sup>[如东]</sup> 软弱无力的言语：你不要说～。  
-1. 【[㞞样<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_ian_r.md#㞞样<sub>儿</sub>)】`son2 ian6 r` <sup>[如东]</sup> 比喻形样难看。  
-1. 【[㞞容](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_ion.md#㞞容)】`son2 ion` <sup>[东台]</sup> 指本事、门路（贬）：他儿子有～吖，赚吖大钱！  
-1. 【[㞞礓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_jian_r.md#㞞礓<sub>儿</sub>)】`son2 jian3 r` <sup>[如东]</sup> ① 没有用的东西：他是个～。 ② 比喻全部力气都用上去了：～都出来啊。 ③ 比喻没有能力的人：这个人是～，能做甚的事情！  
-1. 【[㞞礓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_jian_r.md#㞞礓<sub>儿</sub>)】`son2 jian3 r` <sup>[东台]</sup> ［引］令人厌恶的东西：这个是哪许弄来的～？赶快撂掉！  
-1. 【[㞞礓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_jian_r.md#㞞礓<sub>儿</sub>)】`son2 jian3 r` <sup>[泰县]</sup> （禁忌语）东西。  
-1. 【[㞞吖耷下来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_nga_dah_ha_lae_a.md#㞞吖耷下来啊)】`son2 nga dah7 ha lae2 a` <sup>[如皋]</sup> 贬指完全无力量、完全失去了作用的人或状态。  
-1. 【[㞞袋<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_tae_r.md#㞞袋<sub>儿</sub>)】`son2 tae6 r` <sup>[如皋]</sup> 见“㞞垫儿”。  
-1. 【[㞞豆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_teu_r.md#㞞豆<sub>儿</sub>)】`son2 teu6 r` <sup>[如皋]</sup> 贬或昵指青、少、幼年人。  
-1. 【[㞞垫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_tin_r.md#㞞垫<sub>儿</sub>)】`son2 tin6 r` <sup>[如皋]</sup> ① 又名子孙袋儿。旧时新嫁娘必备，新婚夜垫用，次晨给公婆验看是否处女。 ② 詈语，骂小孩。  
-1. 【[㞞形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_xien.md#㞞形)】`son2 xien2` <sup>[如皋]</sup> 落魄、萎琐的样子。  
-1. 【[㞞形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_xien.md#㞞形)】`son2 xien2` <sup>[如东]</sup> 比喻形样难看：看你箇～，还走得出去吧。  
-1. 【[㞞形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_xien.md#㞞形)】`son2 xien2` <sup>[兴化]</sup> （贬）能力：这个人一点～没得，连儿子也管不住。｜你拿点儿～出来，领住老婆伢儿好好过日子。  
-1. 【[𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son.md#𪨊)】`son2` ［㞞］精液；对人的贬称  
+1. 【[𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son.md#𪨊)】`son2` ［𪨊］精液；对人的贬称  
 1. 【[𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son.md#𪨊)】`son2` <sup>[如皋]</sup> ① 状无能、无用、无价值：这个～变吖个～形，做～事，说～话，实在太～！ ② 詈语，或指人：把这个～打啊跑！  
 1. 【[𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son.md#𪨊)】`son2` <sup>[如东]</sup> 精液。比喻人软弱无能：你这人是个～蛋！  
 1. 【[𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son.md#𪨊)】`son2` <sup>[东台]</sup> ① 男人和雄性动物的精液。 ② ［引］发泄鄙视、讨厌、抱怨等情绪的口头禅：没得～本事｜～牌老输｜贪污犯是坏～！ ③ 对小孩的昵称：这个～多神气！那个～不听话。  
 1. 【[𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son.md#𪨊)】`son2` <sup>[兴化]</sup> 儒弱无能：这个小伙真～，捱人指住鼻子骂也不敢回嘴。  
+1. 【[𪨊话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_hua.md#𪨊话)】`son2 hua6` <sup>[如皋]</sup> 无力的、无骨气的话。  
+1. 【[𪨊话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_hua.md#𪨊话)】`son2 hua6` <sup>[如东]</sup> 软弱无力的言语：你不要说～。  
+1. 【[𪨊样<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_ian_r.md#𪨊样<sub>儿</sub>)】`son2 ian6 r` <sup>[如东]</sup> 比喻形样难看。  
+1. 【[𪨊容](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_ion.md#𪨊容)】`son2 ion` <sup>[东台]</sup> 指本事、门路（贬）：他儿子有～吖，赚吖大钱！  
+1. 【[𪨊礓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_jian_r.md#𪨊礓<sub>儿</sub>)】`son2 jian3 r` <sup>[如东]</sup> ① 没有用的东西：他是个～。 ② 比喻全部力气都用上去了：～都出来啊。 ③ 比喻没有能力的人：这个人是～，能做甚的事情！  
+1. 【[𪨊礓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_jian_r.md#𪨊礓<sub>儿</sub>)】`son2 jian3 r` <sup>[东台]</sup> ［引］令人厌恶的东西：这个是哪许弄来的～？赶快撂掉！  
+1. 【[𪨊礓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_jian_r.md#𪨊礓<sub>儿</sub>)】`son2 jian3 r` <sup>[泰县]</sup> （禁忌语）东西。  
+1. 【[𪨊吖耷下来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_nga_dah_ha_lae_a.md#𪨊吖耷下来啊)】`son2 nga dah7 ha lae2 a` <sup>[如皋]</sup> 贬指完全无力量、完全失去了作用的人或状态。  
+1. 【[𪨊袋<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_tae_r.md#𪨊袋<sub>儿</sub>)】`son2 tae6 r` <sup>[如皋]</sup> 见“𪨊垫儿”。  
+1. 【[𪨊豆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_teu_r.md#𪨊豆<sub>儿</sub>)】`son2 teu6 r` <sup>[如皋]</sup> 贬或昵指青、少、幼年人。  
+1. 【[𪨊垫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_tin_r.md#𪨊垫<sub>儿</sub>)】`son2 tin6 r` <sup>[如皋]</sup> ① 又名子孙袋儿。旧时新嫁娘必备，新婚夜垫用，次晨给公婆验看是否处女。 ② 詈语，骂小孩。  
+1. 【[𪨊形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_xien.md#𪨊形)】`son2 xien2` <sup>[如皋]</sup> 落魄、萎琐的样子。  
+1. 【[𪨊形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_xien.md#𪨊形)】`son2 xien2` <sup>[如东]</sup> 比喻形样难看：看你箇～，还走得出去吧。  
+1. 【[𪨊形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_xien.md#𪨊形)】`son2 xien2` <sup>[兴化]</sup> （贬）能力：这个人一点～没得，连儿子也管不住。｜你拿点儿～出来，领住老婆伢儿好好过日子。  
 1. 【[竦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son.md#竦)】`son3` <sup>[如东]</sup> 恭敬地站着。  
 1. 【[竦腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_io.md#竦腰)】`son3 io1` <sup>[如东]</sup> 上体向前弯下。  
 1. 【[宋六门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_loh_men.md#宋六门)】`son5 loh8 men2` <sup>[如皋]</sup> 宋时，如皋县衙四周所设的六个门：先春门（东门）、集贤门（东南门）、宣化门（南门）、丰乐门（西门）、北极门（西北门）、拱辰门（东北门）。各门都有门官看守。  

@@ -264,7 +264,7 @@
 1. 【[细食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_sheh.md#细食)】`xi5 sheh8` <sup>[兴化]</sup> 精细的食品，如糕点、补品等：我这次生病住院，是粗人吃～。  
 1. 【[细寿宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_sheu_bo.md#细寿宝)】`xi5 sheu6 bo` 小孩子，最小的儿子或者女儿。  
 1. 【[细梢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_sho_r.md#细梢<sub>儿</sub>)】`xi5 sho1 r` <sup>[如皋]</sup> ① 络丝时分出的细于肥梢儿的一类。 ② 细长端：藕的～、竹的～。  
-1. 【[细㞞<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_son_r.md#细㞞<sub>儿</sub>)】`xi5 son2 r` <sup>[东台]</sup> ① 指小孩子、小人物：（詈语）骂某个比自己年轻者｜那个～太不像话！ ② （昵称）你家～好玩！  
+1. 【[细𪨊<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_son_r.md#细𪨊<sub>儿</sub>)】`xi5 son2 r` <sup>[东台]</sup> ① 指小孩子、小人物：（詈语）骂某个比自己年轻者｜那个～太不像话！ ② （昵称）你家～好玩！  
 1. 【[细头摸角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_teu_mah_gah.md#细头摸角)】`xi5 teu2 mah8 gah7` <sup>[兴化]</sup> 形容认真过细地：请你把电视机～的查啊子，看毛病在哪块。  
 1. 【[细头子犯上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_teu_zz_faen_shan.md#细头子犯上)】`xi5 teu2 zz faen6 shan1` <sup>[如皋]</sup> 贬指冒犯尊长的行为。  
 1. 【[细条席](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_tio_qieh.md#细条席)】`xi5 tio2 qieh8` <sup>[如东]</sup> 铺在床上睡觉的席子，以席草编成，光滑凉爽。  

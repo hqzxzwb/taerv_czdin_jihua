@@ -567,7 +567,7 @@
 1. 【[獃水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_shuei.md#獃水)】`ngae2 shuei3` <sup>[如皋]</sup> 即死水。  
 1. 【[獃数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_shv.md#獃数)】`ngae2 shv` <sup>[兴化]</sup> 大概：老王～明朝家来。  
 1. 【[獃数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_shv.md#獃数)】`ngae2 shv5` <sup>[泰县]</sup> 很可能：～他已经去啊。  
-1. 【[獃㞞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_son.md#獃㞞)】`ngae2 son2` <sup>[如皋]</sup> 见“獃货”。  
+1. 【[獃𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_son.md#獃𪨊)】`ngae2 son2` <sup>[如皋]</sup> 见“獃货”。  
 1. 【[獃胎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_tae.md#獃胎)】`ngae2 tae1` <sup>[如东]</sup> 死胎。  
 1. 【[獃汰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_tae.md#獃汰)】`ngae2 tae5` <sup>[如东]</sup> ① 物体粗笨。 ② 呆板，不灵活。  
 1. 【[獃头巴脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_teu_ba_jiah.md#獃头巴脚)】`ngae2 teu2 ba1 jiah7` <sup>[如东]</sup> 非常呆板。  
@@ -1184,7 +1184,7 @@
 1. 【[牛屎饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_shr_bien.md#牛屎饼)】`ngeu2 shr bien3` <sup>[兴化]</sup> 旧时农村将牛粪做成饼状贴在墙上，晒干作燃料：朝北的墙上，穿着麦秸装衣。南墙上，贴满了作燃料的～。（艾煊《乡关何处》）  
 1. 【[牛屎墩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_shr_den_r.md#牛屎墩<sub>儿</sub>)】`ngeu2 shr3 den1 r` <sup>[如东]</sup> 野外的牛屎堆。  
 1. 【[牛屎上栽花——又臭又香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_shr_shan_zae_hua_ieu_cheu_ieu_xian.md#牛屎上栽花——又臭又香)】`ngeu2 shr3 shan6 zae1 hua1 ieu6 cheu5 ieu6 xian1` <sup>[东台]</sup>   
-1. 【[牛㞞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_son.md#牛㞞)】`ngeu2 son2` <sup>[泰县]</sup> 最固执的人。  
+1. 【[牛𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_son.md#牛𪨊)】`ngeu2 son2` <sup>[泰县]</sup> 最固执的人。  
 1. 【[牛嘶暴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_sz_bo_zz.md#牛嘶暴子)】`ngeu2 sz1 bo5 zz` <sup>[如皋]</sup> 老鹰。  
 1. 【[牛踏扁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_taeh_bin.md#牛踏扁)】`ngeu2 taeh8 bin3` <sup>[如皋]</sup> 一种颗粒大的蚕豆。  
 1. 【[牛偷掉摸桩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_teu_tio_mah_zhuan.md#牛偷掉摸桩)】`ngeu2 teu1 tio6 mah8 zhuan1` <sup>[东台]</sup> ① ［借］类似“马后炮”，喻指损失已经造成，难以挽回。 ② ［借］指后下手的小偷好处捞不到，却落了个坏名声。  
@@ -1216,7 +1216,7 @@
 1. 【[呕黄汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_huan_tan.md#呕黄汤)】`ngeu3 huan2 tan1` <sup>[东台]</sup> ［喻］酒醉后胡言乱语。  
 1. 【[呕屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_shr.md#呕屎)】`ngeu3 shr3` <sup>[兴化]</sup> 骂人胡说：“你～！军婚，现役嘛！高压线嘛！要法办的！”（毕飞宇《玉米》）  
 1. 【[呕屎礓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_shr_jian.md#呕屎礓)】`ngeu3 shr3 jian3` <sup>[东台]</sup> （詈语）指胡说八道。  
-1. 【[呕㞞礓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_son_jian.md#呕㞞礓)】`ngeu3 son2 jian3` <sup>[东台]</sup> 与“呕屎礓”近义。  
+1. 【[呕𪨊礓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_son_jian.md#呕𪨊礓)】`ngeu3 son2 jian3` <sup>[东台]</sup> 与“呕屎礓”近义。  
 1. 【[牛屎巴巴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_shr_ba_ba_r.md#牛屎巴巴<sub>儿</sub>)】`ngeu3 shr3 ba1 ba1 r` <sup>[如皋]</sup> ① 一堆牛粪。 ② 贬指旧时妇女脑后髮髻，即蟠髻。  
 1. 【[藕饼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_bien_r.md#藕饼<sub>儿</sub>)】`ngeu3 bien3 r` <sup>[如皋]</sup> 用藕片夹馅蘸面浆，油炸或油焖成的饼，为中秋节食品。  
 1. 【[藕饼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_bien_r.md#藕饼<sub>儿</sub>)】`ngeu3 bien3 r` <sup>[如东]</sup> 藕切成饼儿，中间嵌肉末、姜末，外面沾上面粉糊，放在锅中炸熟，呈淡黄色，肥、脆、香，营养丰富。  

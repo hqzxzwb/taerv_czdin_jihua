@@ -1577,7 +1577,7 @@
 1. 【[痴青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_qien.md#痴青)】`chr1 qien1` <sup>[兴化]</sup> 由于施肥不当，土壤过肥，造成作物茎叶旺长，秀而不实。也称“恋青”。  
 1. 【[痴青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_qien.md#痴青)】`chr1 qien1` <sup>[泰县]</sup> 农作物过期未成熟。  
 1. 【[痴情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_qien.md#痴情)】`chr1 qien2` <sup>[如东]</sup> 痴心的爱情。  
-1. 【[痴㞞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_son.md#痴㞞)】`chr1 son2` <sup>[如皋]</sup> 不聪明的人。  
+1. 【[痴𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_son.md#痴𪨊)】`chr1 son2` <sup>[如皋]</sup> 不聪明的人。  
 1. 【[痴头獃脑的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_teu_ngae_no_dii.md#痴头獃脑的)】`chr1 teu2 ngae2 no3 dii` <sup>[如皋]</sup> 形容人不聪明。  
 1. 【[痴形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_xien.md#痴形)】`chr1 xien2` <sup>[如皋]</sup> 不聪明的样子。  
 1. 【[痴形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_xien.md#痴形)】`chr1 xien2` <sup>[兴化]</sup> 形容痴呆的样子：他这个～样子，成天坐啊下发愣。  

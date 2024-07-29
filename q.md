@@ -1918,7 +1918,7 @@
 1. 【[绝食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_sheh.md#绝食)】`qiuh8 sheh8` <sup>[东台]</sup> 拒绝进食，常用来表示抗议或自杀。  
 1. 【[绝收](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_sheu.md#绝收)】`qiuh8 sheu1` <sup>[东台]</sup> 完全没有收成。  
 1. 【[绝寿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_sheu.md#绝寿)】`qiuh8 sheu6` <sup>[兴化]</sup> 骂人因作恶而减去寿算。也说“绝阳寿”。  
-1. 【[绝㞞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_son.md#绝㞞)】`qiuh8 son2` <sup>[泰县]</sup> （禁忌语）缺德的人。  
+1. 【[绝𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_son.md#绝𪨊)】`qiuh8 son2` <sup>[泰县]</sup> （禁忌语）缺德的人。  
 1. 【[绝头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_teu_r.md#绝头<sub>儿</sub>)】`qiuh8 teu2 r` <sup>[如皋]</sup> 促狭的人。  
 1. 【[绝头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_teu_r.md#绝头<sub>儿</sub>)】`qiuh8 teu2 r` <sup>[如皋]</sup> 指惯用刁钻主意使别人上当吃亏的人。  
 1. 【[绝头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_teu_zz.md#绝头子)】`qiuh8 teu2 zz` <sup>[兴化]</sup> 骂刁钻、损人者的话：这个～，一天不搝人就难过。  
@@ -2030,18 +2030,18 @@
 1. 【[去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy.md#去)】`qy5` <sup>[泰县]</sup> 出：又不要你～力。  
 1. 【[去啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_a.md#去啊)】`qy5 a` “掉啊（tio a）”在如东口语中的表达形式，用在入声动词后面：捱他吃去啊=捱他吃掉啊（被他吃掉了）；灯熄去啊=灯熄掉啊（灯熄掉了）。  
 1. 【[去啊灯油钱，坐啊黑地里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_a_den_ieu_qin_cu_a_heh_ti_lii.md#去啊灯油钱，坐啊黑地里)】`qy5 a den1 ieu2 qin2 cu6 a heh7 ti6 lii` <sup>[东台]</sup> 做了好事没有人知道。  
-1. 【[去个肏薄㞞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_gu_reh_pah_son.md#去个肏薄㞞)】`qy5 gu5 reh8 pah8 son2` <sup>[如皋]</sup> 恨恨地决定不去。  
+1. 【[去个肏薄𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_gu_reh_pah_son.md#去个肏薄𪨊)】`qy5 gu5 reh8 pah8 son2` <sup>[如皋]</sup> 恨恨地决定不去。  
 1. 【[去货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_hu.md#去货)】`qy5 hu5` <sup>[如皋]</sup> 贬指死。  
 1. 【[去华](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_hua.md#去华)】`qy5 hua2` <sup>[如皋]</sup> 见“去货”。  
 1. 【[去华](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_hua.md#去华)】`qy5 hua2` <sup>[东台]</sup> 死亡的隐语：那人病吖好些年，这一次恐怕要～。  
 1. 【[去华](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_hua.md#去华)】`qy5 hua2` <sup>[兴化]</sup> 死亡的隐语（语气不庄重）：庄东二老头子咋晚～！  
 1. 【[去华](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_hua.md#去华)】`qy5 hua2` <sup>[泰县]</sup> 死了：这条巷子今吖又～啊一个。  
-1. 【[去你家肏㞞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_nii_ga_reh_son.md#去你家肏㞞)】`qy5 nii3 ga reh8 son2` <sup>[如皋]</sup> 恨恨地决定不去。  
+1. 【[去你家肏𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_nii_ga_reh_son.md#去你家肏𪨊)】`qy5 nii3 ga reh8 son2` <sup>[如皋]</sup> 恨恨地决定不去。  
 1. 【[去你个灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_nii_gu_den.md#去你个灯)】`qy5 nii3 gu5 den1` <sup>[东台]</sup> 相当于滚吧，不跟你搭讪。  
 1. 【[去年子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_nin_zz.md#去年子)】`qy5 nin zz` <sup>[如皋]</sup> 去年。  
 1. 【[去年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_nin.md#去年)】`qy5 nin2` <sup>[如东]</sup> 过去的一年：花花～过来的。  
 1. 【[去年子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_nin_zz.md#去年子)】`qy5 nin2 zz` <sup>[东台]</sup> 去年，上年。  
-1. 【[去他家肏㞞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_ta_ga_reh_son.md#去他家肏㞞)】`qy5 ta1 ga reh8 son2` <sup>[如皋]</sup> 恨恨地决定不去。  
+1. 【[去他家肏𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_ta_ga_reh_son.md#去他家肏𪨊)】`qy5 ta1 ga reh8 son2` <sup>[如皋]</sup> 恨恨地决定不去。  
 1. 【[去头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_teu.md#去头)】`qy5 teu` <sup>[如东]</sup> ① 损耗：这批货～不多 ② 折头：～是多少？  
 1. 【[脆饼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_bien_r.md#脆饼<sub>儿</sub>)】`qy5 bien3 r` <sup>[如东]</sup> 糕点的一种。面粉经过发酵，加工成长条形，一面粘上芝麻，放在炉中烤熟，质脆而味香。  
 1. 【[脆崩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_bon.md#脆崩)】`qy5 bon` <sup>[如东]</sup> 容易断。容易碎。  

@@ -259,7 +259,7 @@
 1. 【[午心晌里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_xien_shan_lii.md#午心晌里)】`v3 xien1 shan5 lii` <sup>[东台]</sup> 正午时分。也称“晌心里”。  
 1. 【[忤逆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_nieh.md#忤逆)】`v3 nieh8` <sup>[如东]</sup> 对长辈不孝敬。  
 1. 【[忤逆货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_nieh_hu.md#忤逆货)】`v3 nieh8 hu5` <sup>[如皋]</sup> 指不孝的人。  
-1. 【[忤逆㞞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_nieh_son.md#忤逆㞞)】`v3 nieh8 son2` <sup>[东台]</sup> （詈语）不孝顺父母的人。  
+1. 【[忤逆𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_nieh_son.md#忤逆𪨊)】`v3 nieh8 son2` <sup>[东台]</sup> （詈语）不孝顺父母的人。  
 1. 【[捂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v.md#捂)】`v3` <sup>[如东]</sup> 遮盖或封闭起来：把口子～住。  
 1. 【[武把子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_ba_zz.md#武把子)】`v3 ba3 zz` <sup>[兴化]</sup> 戏曲表演中的武打和与之有关的舞蹈动作。  
 1. 【[武叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_cha.md#武叉)】`v3 cha` 形容小孩调皮，很野，不文雅  
@@ -691,7 +691,7 @@
 1. 【[万把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_ba.md#万把)】`vaen6 ba` <sup>[泰兴]</sup> 很多，极多：我教你带点儿来，你倒带啊～。  
 1. 【[万把钩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_ba_geu.md#万把钩)】`vaen6 ba geu1` <sup>[兴化]</sup> ① 多把铁钩的组合，为悬挂物件的用具。 ② （喻）很难摆脱的人：他是～，惹上他覅想脱身。  
 1. 【[万把钩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_ba_geu.md#万把钩)】`vaen6 ba geu1` <sup>[如皋]</sup> ① 牛蒡。 ② 硬尼龙丝织物，两块对合即可粘牢，又可拉开。 ③ 打捞用的多头铁钩（又称滚钩）。  
-1. 【[万把霉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_ba_mei.md#万把霉)】`vaen6 ba mei2` <sup>[兴化]</sup> 诸事不顺，倒了大霉：我碰上这个㞞真是倒啊～。  
+1. 【[万把霉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_ba_mei.md#万把霉)】`vaen6 ba mei2` <sup>[兴化]</sup> 诸事不顺，倒了大霉：我碰上这个𪨊真是倒啊～。  
 1. 【[万把钩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_ba_geu.md#万把钩)】`vaen6 ba3 geu1` <sup>[东台]</sup> 原指一种可以代替拉链的织物，［喻］想方设法缠住别人，总要讨便宜、捞取私利的人。  
 1. 【[万把钩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_ba_geu.md#万把钩)】`vaen6 ba3 geu1` <sup>[泰县]</sup> 中药大力子。  
 1. 【[万宝全](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_bo_qiun.md#万宝全)】`vaen6 bo3 qiun2` <sup>[东台]</sup> 同“万事通”。  
@@ -736,7 +736,7 @@
 1. 【[嗀出来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_chueh_lae.md#嗀出来)】`vah7 chueh7 lae2` <sup>[如东]</sup> 吃进肚子的食物吐出来。比喻非法侵吞的财物拿出来：王侵占的房产必须～。  
 1. 【[嗀烟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_in.md#嗀烟)】`vah7 in1` <sup>[东台]</sup> 因炉灶排烟不畅，烟囱里的烟向下或向室内窜散。（也有人读若“veh7烟”）  
 1. 【[嗀奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_nae.md#嗀奶)】`vah7 nae3` <sup>[兴化]</sup> 婴儿呃逆吐奶。  
-1. 【[嗀㞞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_son.md#嗀㞞)】`vah7 son2` <sup>[兴化]</sup> 性格懦弱的人：这个～，人家指啊他脸上骂也不敢哼一声。  
+1. 【[嗀𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_son.md#嗀𪨊)】`vah7 son2` <sup>[兴化]</sup> 性格懦弱的人：这个～，人家指啊他脸上骂也不敢哼一声。  
 1. 【[嗀酸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_sun.md#嗀酸)】`vah7 sun1` <sup>[东台]</sup> ① 吐酸水。 ② ［喻］指反复重提不愉快的往事。  
 1. 【[嗀酸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_sun.md#嗀酸)】`vah7 sun1` <sup>[兴化]</sup> ① 吐酸水。 ② 说后悔、难过的话：他见老朋友一阔就瞧不起人，说咖些～的话。  
 1. 【[嗀酸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_sun.md#嗀酸)】`vah7 sun1` <sup>[泰县]</sup> 上当后懊悔：你～也没用，这个钱是你和他一起分的。  
@@ -1095,7 +1095,7 @@
 1. 【[温汤水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_tan_shuei.md#温汤水)】`ven1 tan1 shuei3` <sup>[如东]</sup> 不冷不热的水。  
 1. 【[温暾<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_ten_r.md#温暾<sub>儿</sub>)】`ven1 ten1 r` <sup>[如皋]</sup> 微热：～水。  
 1. 【[瘟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven.md#瘟)】`ven1` <sup>[如皋]</sup> 副词：表脏、臭的程度深：～脏的、～臭的、～屎烂脏的、～屎烂臭的。  
-1. 【[瘟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven.md#瘟)】`ven1` <sup>[兴化]</sup> ① 副词：修饰形容词时，与“非常”相似｜～臭。 ② 修饰动词时，与“狠狠地”相似：一顿～骂｜一泡～㞞。 ③ 加在名词前，表示程度深：“你这倒运鬼放着这样大财不发，还在这里受～罪。”（《儒林外史》十三）  
+1. 【[瘟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven.md#瘟)】`ven1` <sup>[兴化]</sup> ① 副词：修饰形容词时，与“非常”相似｜～臭。 ② 修饰动词时，与“狠狠地”相似：一顿～骂｜一泡～𪨊。 ③ 加在名词前，表示程度深：“你这倒运鬼放着这样大财不发，还在这里受～罪。”（《儒林外史》十三）  
 1. 【[瘟贼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_ceh.md#瘟贼)】`ven1 ceh8` <sup>[如皋]</sup> 詈语或昵语。  
 1. 【[瘟贼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_ceh.md#瘟贼)】`ven1 ceh8` <sup>[如东]</sup> 使人讨厌的小偷。  
 1. 【[瘟贼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_ceh.md#瘟贼)】`ven1 ceh8` <sup>[东台]</sup> 狭义指小偷，广义为詈语。  

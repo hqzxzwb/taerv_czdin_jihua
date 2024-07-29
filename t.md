@@ -1033,7 +1033,7 @@
 1. 【[豆酱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_jian.md#豆酱)】`teu6 jian5` <sup>[如东]</sup> 黄豆或蚕豆蒸熟后拌和面粉发酶，（也称上黄子），再加盐、水，日晒成熟，深黄色或赫黄色，味香。可作蔬菜或调料。也称豆瓣酱。  
 1. 【[豆芽菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_nga_cae.md#豆芽菜)】`teu6 nga2 cae5` <sup>[兴化]</sup> ① 用黄豆、绿豆浸水发芽而成的蔬菜，长二三寸。 ② （喻）形容人身体瘦弱：他瘦得像个～。  
 1. 【[豆芽<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_nga_r.md#豆芽<sub>儿</sub>)】`teu6 nga2 r` <sup>[如东]</sup> 豆类浸泡发芽而成，营养丰富。主要有黄豆芽儿和绿豆芽儿两种，是普通蔬菜。  
-1. 【[豆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_r.md#豆<sub>儿</sub>)】`teu6 r` <sup>[如皋]</sup> 小不点儿：细㞞～。  
+1. 【[豆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_r.md#豆<sub>儿</sub>)】`teu6 r` <sup>[如皋]</sup> 小不点儿：细𪨊～。  
 1. 【[豆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_r.md#豆<sub>儿</sub>)】`teu6 r` <sup>[兴化]</sup> 骂小孩的话。也说“豆儿板”。  
 1. 【[豆<sub>儿</sub>板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_r_baen.md#豆<sub>儿</sub>板)】`teu6 r baen3` <sup>[兴化]</sup> 骂小孩的话。  
 1. 【[豆沙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_sha.md#豆沙)】`teu6 sha1` <sup>[如东]</sup> 赤豆、绿豆等煮烂捣成泥粉，叫做豆沙。加糖后，可做点心的馅儿。  

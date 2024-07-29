@@ -1716,7 +1716,7 @@
 1. 【[跩麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuae_ma.md#跩麻)】`zhuae3 ma2` <sup>[如皋]</sup> 见“摆麻”。  
 1. 【[跩麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuae_ma.md#跩麻)】`zhuae3 ma2` <sup>[如皋]</sup> 自我吹嘘，摆威风。  
 1. 【[跩起来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuae_qi_lae_a.md#跩起来啊)】`zhuae3 qi3 lae2 a` <sup>[如皋]</sup> 神气起来了，威风起来了  
-1. 【[跩㞞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuae_son.md#跩㞞)】`zhuae3 son2` <sup>[东台]</sup> ［引］喜欢炫耀自己，摆出一副神气架势的人。  
+1. 【[跩𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuae_son.md#跩𪨊)】`zhuae3 son2` <sup>[东台]</sup> ［引］喜欢炫耀自己，摆出一副神气架势的人。  
 1. 【[跩威<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuae_vei_r.md#跩威<sub>儿</sub>)】`zhuae3 vei5 r` <sup>[如皋]</sup> 同“跩”❷❸  
 1. 【[跩文](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuae_ven.md#跩文)】`zhuae3 ven2` <sup>[东台]</sup> 说话不用口语，而爱用文言，以卖弄自己的学问：诗文转转的，说大白话就好了，用不着跩啊跩的。  
 1. 【[跩文](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuae_ven.md#跩文)】`zhuae3 ven2` <sup>[兴化]</sup> 即转文，说话喜欢咬文嚼字以显示学问高深：他从小念过几年私塾，动不动就跟人～。  

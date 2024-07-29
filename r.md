@@ -149,21 +149,21 @@
 1. 【[肏妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_ma.md#肏妈)】`reh8 ma1` <sup>[如皋]</sup> 粗鄙口头禅。市井俗说：“吃咖如皋水，没得～不开口。”可见流行之广。也反映出旧时受教育程度低，人们素质不高。现今已很少听到。  
 1. 【[肏妈妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_ma_ma.md#肏妈妈)】`reh8 ma1 ma` <sup>[泰县]</sup> （禁忌语）他妈的。  
 1. 【[肏妈心的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_ma_xien_dii.md#肏妈心的)】`reh8 ma1 xien1 dii` <sup>[如皋]</sup> 詈语。  
-1. 【[肏母㞞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_mu_son.md#肏母㞞)】`reh8 mu3 son2` <sup>[如皋]</sup> 见“肏泡㞞”。  
+1. 【[肏母𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_mu_son.md#肏母𪨊)】`reh8 mu3 son2` <sup>[如皋]</sup> 见“肏泡𪨊”。  
 1. 【[肏娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_nian.md#肏娘)】`reh8 nian2` <sup>[如皋]</sup> 见“肏妈”。  
 1. 【[肏娘的个梦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_nian_dii_gu_mon.md#肏娘的个梦)】`reh8 nian2 dii gu mon6` <sup>[如皋]</sup> 叹息语，表何必：～！哪个能在哪许打万年桩吖！  
 1. 【[肏娘捣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_nian_do.md#肏娘捣)】`reh8 nian2 do3` <sup>[如东]</sup> 非常愤怒地骂人。  
 1. 【[肏娘𠵫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_nian_ngan.md#肏娘𠵫)】`reh8 nian2 ngan` <sup>[如皋]</sup> 口头禅，表惊叹或无奈：～，他真有本事！  
 1. 【[肏你娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_nii_nian.md#肏你娘)】`reh8 nii3 nian2` <sup>[如皋]</sup> 见“肏妈”。  
-1. 【[肏薄㞞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_pah_son.md#肏薄㞞)】`reh8 pah8 son2` <sup>[如皋]</sup> 表示反对。见“任磨舂”。  
-1. 【[肏泡㞞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_po_son.md#肏泡㞞)】`reh8 po son2` <sup>[如皋]</sup> 作补语，表恨、否定：去个～！  
+1. 【[肏薄𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_pah_son.md#肏薄𪨊)】`reh8 pah8 son2` <sup>[如皋]</sup> 表示反对。见“任磨舂”。  
+1. 【[肏泡𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_po_son.md#肏泡𪨊)】`reh8 po son2` <sup>[如皋]</sup> 作补语，表恨、否定：去个～！  
 1. 【[肏笡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_qia.md#肏笡)】`reh8 qia` <sup>[如东]</sup> 比喻没有用。多做叹词：不要～吧。  
 1. 【[肏请](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_qien.md#肏请)】`reh8 qien3` <sup>[如皋]</sup> 粗鄙的话语。表示算了：你不卖～！别人家不是没得卖！  
 1. 【[肏请](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_qien.md#肏请)】`reh8 qien3` <sup>[东台]</sup> 同“肏走”。  
 1. 【[肏请](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_qien.md#肏请)】`reh8 qien3` <sup>[泰兴]</sup> 滚蛋。骂人语：你同我～吧！/你给我滚吧！  
 1. 【[肏甚的娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_shen_nii_nian.md#肏甚的娘)】`reh8 shen2 nii nian2` <sup>[如皋]</sup> 叹息语，表示做了不愿、无价值、无必要的事：我帮吖他，他反而恨我，我这是～！  
-1. 【[肏㞞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_son.md#肏㞞)】`reh8 son2` <sup>[如皋]</sup>   
-1. 【[肏㞞香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_son_xian.md#肏㞞香)】`reh8 son2 xian1` <sup>[如东]</sup> 作用不大：这种料子要它～。  
+1. 【[肏𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_son.md#肏𪨊)】`reh8 son2` <sup>[如皋]</sup>   
+1. 【[肏𪨊香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_son_xian.md#肏𪨊香)】`reh8 son2 xian1` <sup>[如东]</sup> 作用不大：这种料子要它～。  
 1. 【[肏搨油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_taeh_ieu.md#肏搨油)】`reh8 taeh7 ieu2` ① <sup>\[东台\]\[兴化\]\[泰县\]</sup>马虎了事，糊弄敷衍：甚的考核、检查，全是～。<sup>\[兴化\]</sup> ② <sup>\[东台\]</sup>不值一提的意思。 ③ <sup>\[泰兴\]</sup>差劲。一塌糊涂。  
 1. 【[肏天的光棍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_tin_dii_guan_guen.md#肏天的光棍)】`reh8 tin1 dii guan1 guen5` <sup>[东台]</sup> 讽喻胆大没魂的人。  
 1. 【[肏天薄地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_tin_pah_ti.md#肏天薄地)】`reh8 tin1 pah8 ti6` <sup>[泰县]</sup> 狠狠地不分场合、不留情面：张三捱李四～的骂啊半天。  
