@@ -83,7 +83,6 @@
 1. 【[鸡毛帚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_mo_zheu_zz.md#鸡毛帚子)】`ji1 mo2 zheu3 zz` <sup>[兴化]</sup> 鸡毛掸子。  
 1. 【[鸡猫六畜的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_mo_loh_choh_dii.md#鸡猫六畜的)】`ji1 mo2 loh8 choh7 dii` <sup>[如皋]</sup> 形容轻微的意见不投，气氛不和谐。  
 1. 【[鸡目眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_moh_ngaen.md#鸡目眼)】`ji1 moh8 ngaen3` <sup>[如东]</sup> 夜盲症。  
-1. 【[鸡目眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_moh_ngaen.md#鸡目眼)】`ji1 moh8 ngaen3` <sup>[如皋]</sup> 雀目眼。  
 1. 【[鸡目眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_moh_ngaen.md#鸡目眼)】`ji1 moh8 ngaen3` <sup>[如皋]</sup> 即“雀目眼”，白蒲话说。  
 1. 【[鸡眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ngaen.md#鸡眼)】`ji1 ngaen3` <sup>[如东]</sup> 皮肤病，脚掌或脚趾上角质层增深而形成的小圆硬块，样子像鸡的眼睛，局部有压痛。  
 1. 【[鸡内金](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_nuei_jien.md#鸡内金)】`ji1 nuei6 jien1` <sup>[如东]</sup> 雉科动物家鸡的干燥砂囊内膜。  
