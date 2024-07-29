@@ -152,7 +152,7 @@
 1. 【[家蚕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_cun.md#家蚕)】`ga1 cun2` <sup>[如东]</sup> 昆虫。幼虫灰白色，吃桑叶，蜕变四次，吐丝做茧，变成蛹，蛹变成蚕蛾。蚕蛾交尾产卵后就死去。幼虫吐的丝是重要的纺织品原料。也叫桑蚕。  
 [更多...](./g.md)
 ## H
-1. 【[……呼啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_a.md#……呼啊)】`hv1 a` <sup>[东台]</sup> （作补语）指到了极点：这莱难吃咖～/这段路难跑啊～/他的歌儿好听吖～。  
+1. 【[……呼啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_a.md#……呼啊)】`hv1 a` <sup>[东台]</sup> （作补语）指到了极点：这莱难吃咖～｜这段路难跑啊～｜他的歌儿好听吖～  
 1. 【[哈巴郎当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ba_lan_dan.md#哈巴郎当)】`ha1 ba lan2 dan1` <sup>[兴化]</sup> 通通、全部：到超市一转，买啊几样东西，身上的钱～全用光吖。  
 1. 【[哈巴狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ba_geu.md#哈巴狗)】`ha1 ba1 geu3` <sup>[如东]</sup> ① 一种体型较小的家犬，经常跟随主人一起活动。 ② 比喻善于吹捧主人的人。  
 1. 【[哈不郎当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_beh_lan_dan.md#哈不郎当)】`ha1 beh7 lan2 dan1` <sup>[东台]</sup> 拢共，合在一起：这个月的收入～头两万块钱。  

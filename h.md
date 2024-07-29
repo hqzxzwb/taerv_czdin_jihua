@@ -1,7 +1,7 @@
 # 音序检索
 **[A](./a.md) | [B](./b.md) | [C](./c.md) | [D](./d.md) | [E](./e.md) | [F](./f.md) | [G](./g.md) | [H](./h.md) | [I](./i.md) | [J](./j.md) | [K](./k.md) | [L](./l.md) | [M](./m.md) | [N](./n.md) | [O](./o.md) | [P](./p.md) | [Q](./q.md) | [R](./r.md) | [S](./s.md) | [T](./t.md) | [U](./u.md) | [V](./v.md) | [X](./x.md) | [Y](./y.md) | [Z](./z.md)**  
 ## H
-1. 【[……呼啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_a.md#……呼啊)】`hv1 a` <sup>[东台]</sup> （作补语）指到了极点：这莱难吃咖～/这段路难跑啊～/他的歌儿好听吖～。  
+1. 【[……呼啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_a.md#……呼啊)】`hv1 a` <sup>[东台]</sup> （作补语）指到了极点：这莱难吃咖～｜这段路难跑啊～｜他的歌儿好听吖～  
 1. 【[哈巴郎当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ba_lan_dan.md#哈巴郎当)】`ha1 ba lan2 dan1` <sup>[兴化]</sup> 通通、全部：到超市一转，买啊几样东西，身上的钱～全用光吖。  
 1. 【[哈巴狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ba_geu.md#哈巴狗)】`ha1 ba1 geu3` <sup>[如东]</sup> ① 一种体型较小的家犬，经常跟随主人一起活动。 ② 比喻善于吹捧主人的人。  
 1. 【[哈不郎当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_beh_lan_dan.md#哈不郎当)】`ha1 beh7 lan2 dan1` <sup>[东台]</sup> 拢共，合在一起：这个月的收入～头两万块钱。  
@@ -2672,9 +2672,8 @@
 1. 【[呼吆喝六](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_io_huh_loh.md#呼吆喝六)】`hv1 io1 huh7 loh8` <sup>[兴化]</sup> ① 掷骰时的喊声（么、六是骰子的点子），泛指赌博时的喧闹声。 ② 形容盛气凌人的样子：（倪善继）见老子病势沉重，料是不起，便～，打童骂仆，预先装出家主公的架子来。（《古今小说》十）  
 1. 【[呼来喝去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_lae_huh_qy.md#呼来喝去)】`hv1 lae2 huh7 qy5` <sup>[如皋]</sup> 粗暴叫喊使唤的样子。  
 1. 【[呼来喝去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_lae_huh_qy.md#呼来喝去)】`hv1 lae2 huh7 qy5` <sup>[东台]</sup> 用粗暴的声音使唤人：你这吖～的，哪个睬你呀？！  
-1. 【[呼辣气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_laeh_qi.md#呼辣气)】`hv1 laeh8 qi` <sup>[如皋]</sup> 指食葱蒜类食物后人体散发出的气味。  
 1. 【[呼辣气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_laeh_qi.md#呼辣气)】`hv1 laeh8 qi5` <sup>[如东]</sup> 大蒜的一种特殊气味。  
-1. 【[呼辣气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_laeh_qi.md#呼辣气)】`hv1 laeh8 qi5` <sup>[如皋]</sup> 葱蒜的气味。  
+1. 【[呼辣气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_laeh_qi.md#呼辣气)】`hv1 laeh8 qi5` <sup>[如皋]</sup> ① 葱蒜的气味。 ② 指食葱蒜类食物后人体散发出的气味。  
 1. 【[烀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv.md#烀)】`hv1` 一种烹饪方法。把食物放在锅里，加少量的水，盖紧锅盖，加热使变熟。  
 1. 【[烀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv.md#烀)】`hv1` <sup>[兴化]</sup> 放少量的水，盖紧锅盖，对食物半蒸半煮：～山芋；～芋头。  
 1. 【[㾰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv.md#㾰)】`hv2` <sup>[如皋]</sup> 儿语，指疼。  
@@ -2682,9 +2681,8 @@
 1. 【[壶<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_r.md#壶<sub>儿</sub>)】`hv2 r` <sup>[如东]</sup> 长圆形的玻璃容器，如油壶儿、酒壶儿、醋壶儿等。  
 1. 【[湖桑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_san.md#湖桑)】`hv2 san1` <sup>[兴化]</sup> 一种树干不高，叶大而肥的桑树品种，叶用来喂蚕。  
 1. 【[湖心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_xien.md#湖心)】`hv2 xien1` <sup>[兴化]</sup> 湖泊的中央：这纵堡湖上，湖边的芦柴稳稳的，～的水面平平的……（马春阳《双灯照》）  
-1. 【[狐大仙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_da_xin.md#狐大仙)】`hv2 da xin1` <sup>[兴化]</sup> 迷信的人惧狐、鼬为祟，称之为～：“……总以为有个～在跟着你哩！哪晓得你面前居然还用着细探子呢。”（《火烧赤壁》五）  
+1. 【[狐大仙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_da_xin.md#狐大仙)】`hv2 da xin1` <sup>[兴化]</sup> 迷信的人惧狐、鼬为祟，敬称之为～：“……总以为有个～在跟着你哩！哪晓得你面前居然还用着细探子呢。”（《火烧赤壁》五）  
 1. 【[狐大仙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_da_xin.md#狐大仙)】`hv2 da6 xin1` <sup>[东台]</sup> 旧时东台城称狐狸为“大仙”。逢年过节人们敬香供奉，祈求～保宅内老小平安。  
-1. 【[狐大仙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_da_xin.md#狐大仙)】`hv2 da6 xin1` <sup>[兴化]</sup> 迷信的人对狐鼬的敬称。  
 1. 【[狐狸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_li.md#狐狸)】`hv2 li2` <sup>[如东]</sup> 犬科动物狐狸，也称狐。  
 1. 【[狐狸精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_li_jien.md#狐狸精)】`hv2 li2 jien1` <sup>[如东]</sup> ① 传说中的狐狸精非常漂亮，比喻打扮妖艳的女人。 ② 比喻狡猾的人。  
 1. 【[狐狸精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_li_jien.md#狐狸精)】`hv2 li2 jien1` <sup>[如皋]</sup> ① 传说中的妖怪之一，由狐修炼而成。 ② 詈语，专指勾引男人的女人。  
@@ -2694,12 +2692,13 @@
 1. 【[狐骚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_so.md#狐骚)】`hv2 so1` <sup>[东台]</sup> 狐臭味。  
 1. 【[糊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv.md#糊)】`hv2` <sup>[如东]</sup> ① 把纸或布粘贴在物体的表面上。 ② 模糊：眼睛～。 ③ 烂，焦：饭烧～啊。  
 1. 【[糊包子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_bo_zz.md#糊包子)】`hv2 bo1 zz` <sup>[东台]</sup> 祭祀用的锡箔馃子，用红纸或黄元纸包装糊成包子。  
-1. 【[糊大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_da.md#糊大)】`hv2 da` <sup>[如皋]</sup> 敷衍塞责：他是～你的，你不要信他。  
+1. 【[糊打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_da.md#糊打)】`hv2 da` <sup>[如皋]</sup> 敷衍塞责：他是～你的，你不要信他。  
+1. 【[糊打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_da.md#糊打)】`hv2 da` <sup>[兴化]</sup> 应付了事：拿好话～人。  
 1. 【[糊大老爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_da_lo_i.md#糊大老爷)】`hv2 da5 lo3 i` <sup>[东台]</sup> 是对糊涂人的戏称或蔑称：要保持清醒头脑，不能当～。  
 1. 【[糊大𦚢子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_da_ya_zz.md#糊大𦚢子)】`hv2 da6 ya1 zz` <sup>[如东]</sup> 马虎了事：不要～。  
 1. 【[糊而马之](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_er_ma_zhr.md#糊而马之)】`hv2 er ma3 zhr` <sup>[兴化]</sup> 形容人思维混乱，条理不清：他三杯酒下肚就～的，分不清东南西北咖。  
-1. 【[糊儿傻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_er_sha.md#糊儿傻)】`hv2 er2 sha3` <sup>[如皋]</sup> 糊涂得近于傻。  
-1. 【[糊儿傻二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_er_sha_er.md#糊儿傻二)】`hv2 er2 sha3 er` <sup>[如皋]</sup> 见“糊儿傻”  
+1. 【[糊儿𤹉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_er_ha.md#糊儿𤹉)】`hv2 er2 ha3` <sup>[如皋]</sup> 糊涂得近于傻。  
+1. 【[糊儿𤹉二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_er_ha_er.md#糊儿𤹉二)】`hv2 er2 ha3 er` <sup>[如皋]</sup> 见“糊儿𤹉”  
 1. 【[糊而八涂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_er_baeh_tv.md#糊而八涂)】`hv2 er2 baeh7 tv2` <sup>[如东]</sup> 糊里糊涂：不能～的。  
 1. 【[糊而入汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_er_reh_tan.md#糊而入汤)】`hv2 er2 reh8 tan1` <sup>[如东]</sup> 糊里糊涂：这个人～的，不能做事。  
 1. 【[糊而入天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_er_reh_tin.md#糊而入天)】`hv2 er2 reh8 tin1` <sup>[如东]</sup> 糊里糊涂：不要一天到晚～的。  
@@ -2711,7 +2710,6 @@
 1. 【[糊浆纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_jian_zhr.md#糊浆纸)】`hv2 jian1 zhr3` <sup>[东台]</sup> 用浆糊把旧衣布平贴在门板上晒干作为鞋料，也有在蒲席板面糊上厚纸片，用作鞋底骨料，叫“包𤖭”。  
 1. 【[糊糨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_jian_zz.md#糊糨子)】`hv2 jian5 zz` <sup>[如东]</sup> 用糨糊把几层布粘成板块，叫做糊糨子。  
 1. 【[糊糨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_jian_zz.md#糊糨子)】`hv2 jian5 zz` <sup>[如皋]</sup> 见“泥糨子”。  
-1. 【[糊糨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_jian_zz.md#糊糨子)】`hv2 jian5 zz` <sup>[如皋]</sup> 即“泥糨子”。  
 1. 【[糊掠塘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_liah_tan_r.md#糊掠塘<sub>儿</sub>)】`hv2 liah8 tan2 r` <sup>[如东]</sup> 全部：家里的大米～都倒出来。  
 1. 【[糊里不秃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_lii_beh_toh.md#糊里不秃)】`hv2 lii beh7 toh7` <sup>[兴化]</sup> 视觉模糊。也说“糊里不涂”：看书时间长吖，眼睛有点～的。  
 1. 【[糊里不涂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_lii_beh_tv.md#糊里不涂)】`hv2 lii beh7 tv2-1` <sup>[东台]</sup> ① 糊里糊涂，不清晰。 ② ［引］头脑糊涂，不清醒。  
@@ -2721,7 +2719,6 @@
 1. 【[糊墙饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_qian_bien.md#糊墙饼)】`hv2 qian2 bien3` <sup>[泰县]</sup> 用麦面发酵后做的饼。  
 1. 【[糊汏汏的哭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_tae_tae_dii_koh.md#糊汏汏的哭)】`hv2 tae6 tae6 dii koh7` <sup>[东台]</sup> 形容嚎啕大哭的样子。  
 1. 【[糊香饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_xian_bien.md#糊香饼)】`hv2 xian1 bien3` <sup>[兴化]</sup> 用发酵的薄面糊烙成的饼，有淡淡的酸甜味。  
-1. 【[胡打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_da.md#胡打)】`hv2 da` <sup>[兴化]</sup> 应付了事：拿好话～人。  
 1. 【[胡打热说](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_da_rih_shuh.md#胡打热说)】`hv2 da rih8 shuh7` <sup>[兴化]</sup> ① 发高烧、说胡话。 ② （喻）吹得离谱：这个老家伙，就像发高烧差不多，～的。（《皮五辣子》一）  
 1. 【[胡话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_hua.md#胡话)】`hv2 hua6` <sup>[如东]</sup> ① 因为神志昏迷而乱说：他是在下说～。 ② 没有根据的话。  
 1. 【[胡晃条子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_huan_tio_zz.md#胡晃条子)】`hv2 huan5 tio2 zz` <sup>[如东]</sup> 身体高而瘦。  
@@ -2736,7 +2733,6 @@
 1. 【[胡椒粉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_jio_fen_zz.md#胡椒粉子)】`hv2 jio1 fen3 zz` <sup>[兴化]</sup> 干辣椒磨成的粉末，可作调味品。  
 1. 【[胡椒栲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_jio_ko.md#胡椒栲)】`hv2 jio1 ko3` <sup>[如东]</sup> 如东北坎以东有一大片海滩，生长着盐蒿、獐毛、茅草，其中有一棵小树，高约二尺，似蒿，种子黑色，比绿豆略小，味辛辣，群众称为胡椒树。故名此地为胡椒栲。现在北坎垦区境内。胡椒树已绝种。  
 1. 【[胡椒末子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_jio_muh_zz.md#胡椒末子)】`hv2 jio1 muh8 zz` <sup>[兴化]</sup> 胡椒种子（未成熟的干后变黑为“黑胡椒”，成熟后去皮谓“白胡椒”）磨成的粉末，市场上称“小胡椒”“大川”，味辣香，用作调味品。  
-1. 【[胡椒末子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_jio_muh_zz.md#胡椒末子)】`hv2 jio1 muh8 zz` <sup>[兴化]</sup> 胡椒粉。  
 1. 【[胡椒眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_jio_ngaen_r.md#胡椒眼<sub>儿</sub>)】`hv2 jio1 ngaen3 r` <sup>[如皋]</sup> 编织品上的六角孔。  
 1. 【[胡椒心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_jio_xien.md#胡椒心)】`hv2 jio1 xien1` <sup>[兴化]</sup> （喻）毒辣的心肠。俗称嘴甜心辣的人为“洋糖嘴，～”。  
 1. 【[胡来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_lae.md#胡来)】`hv2 lae2` <sup>[如东]</sup> 不按规矩，任意乱做：不可以～。  
@@ -2773,16 +2769,14 @@
 1. 【[蝴蝶花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_tih_hua.md#蝴蝶花)】`hv2 tih8 hua1` <sup>[如东]</sup> 姜科植物姜花，又名土羌活，多年生草本。  
 1. 【[餬嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_jy.md#餬嘴)】`hv2 jy3` <sup>[如东]</sup> 勉强混饭吃。  
 1. 【[餬嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_jy.md#餬嘴)】`hv2 jy3` <sup>[如皋]</sup> 见“餬口”。  
-1. 【[餬口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_keu.md#餬口)】`hv2 keu3` <sup>[如东]</sup> 勉强维持生活。  
-1. 【[餬口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_keu.md#餬口)】`hv2 keu3` <sup>[如皋]</sup> 艰难度日。  
+1. 【[餬口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_keu.md#餬口)】`hv2 keu3` <sup>\[如东\]\[如皋\]</sup>勉强维持生活。艰难度日。  
 1. 【[餬嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_zuei.md#餬嘴)】`hv2 zuei3` <sup>[兴化]</sup> 勉强维持生活：我踏三轮车为的是～。也作“餬口”。  
 1. 【[虎杖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_chan.md#虎杖)】`hv3 chan6` <sup>[如东]</sup> 蓼科植物虎杖，多年生草本。  
 1. 【[虎朝屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_cho_oh.md#虎朝屋)】`hv3 cho2 oh7` <sup>[如东]</sup> 大门开在山墙上的房屋，前顶尖形，后顶圆形。也称虎头屋、虎山头。  
 1. 【[虎齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_chr.md#虎齿)】`hv3 chr3` <sup>[如皋]</sup> 犬齿。  
 1. 【[虎刺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_cz.md#虎刺)】`hv3 cz5` <sup>[如东]</sup> 茜草科植物虎刺，常绿小灌木。  
 1. 【[虎耳草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_er_co.md#虎耳草)】`hv3 er3 co3` <sup>[如东]</sup> 虎耳草科植物虎耳草，多年生草本。  
-1. 【[虎口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_keu.md#虎口)】`hv3 keu3` <sup>[如皋]</sup> 拇指与食指间。  
-1. 【[虎口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_keu.md#虎口)】`hv3 keu3` <sup>[东台]</sup> 大拇指与食指之间连接的部分。  
+1. 【[虎口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_keu.md#虎口)】`hv3 keu3` <sup>\[东台\]\[如皋\]</sup>大拇指与食指之间连接的部分。  
 1. 【[虎落平阳被犬欺，失时凤凰不如鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_lah_pien_ian_pi_qiun_qi_sheh_shr_fon_huan_beh_rv_ji.md#虎落平阳被犬欺，失时凤凰不如鸡)】`hv3 lah8 pien2 ian2 pi6 qiun3 qi1 sheh7 shr2 fon6 huan2 beh7 rv2 ji1` <sup>[东台]</sup> 人的势力威风离不开一定环境。  
 1. 【[虎狼神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_lan_shen.md#虎狼神)】`hv3 lan2 shen2` <sup>[如皋]</sup> 凶暴者。  
 1. 【[虎狼神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_lan_shen.md#虎狼神)】`hv3 lan2 shen2` <sup>[东台]</sup> 形容非常凶猛快捷的样子：他～样的冲上去。  

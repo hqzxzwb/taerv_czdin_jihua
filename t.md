@@ -143,7 +143,7 @@
 1. 【[泰山风景区](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_shaen_fon_jien_qy.md#泰山风景区)】`tae5 shaen1 fon1 jien3 qy1` <sup>[如皋]</sup> 存在于明朝和建国初，当时东有水绘园、西有霁峰园、南有露香园，北是城河。附近还有庙宇群。  
 1. 【[泰州青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_zheu_qien.md#泰州青)】`tae5 zheu1 qien1` <sup>[如皋]</sup> 青菜品种之一。见“碗儿青”。  
 1. 【[代](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#代)】`tae6` <sup>[如皋]</sup> 替，以现金代物：～奁（给新娘）、～墨（给新进学）、～箔（代纸箔）、～点（代供点）。  
-1. 【[大锺垛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_don_teu.md#大锺垛)】`tae6 don1 teu2` <sup>[如皋]</sup> 地名。今记作“岱东头”，是原戴庄乡政府驻地。当地《秦氏宗谱》记载：“明初秦氏移民至此，时名‘大锺垛’读作‘岱东头’”。  
+1. 【[大锺垛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_don_teu.md#大锺垛)】`tae6 don1 teu2` <sup>[如皋]</sup> 地名。今记作“岱东头”，是原戴庄乡政府驻地。当地《秦氏宗谱》记载“明初秦氏移民至此，时名‘大锺垛’读作‘岱东头’”。  
 1. 【[大斧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_fv.md#大斧)】`tae6 fv` <sup>[泰县]</sup> 斧头：这把～快。  
 1. 【[大斧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_fv.md#大斧)】`tae6 fv3` 斧子  
 1. 【[大斧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_fv.md#大斧)】`tae6 fv3` <sup>[如皋]</sup> 旧斧头。  
