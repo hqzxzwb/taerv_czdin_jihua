@@ -882,7 +882,7 @@
 1. 【[上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan.md#上)】`shan6` <sup>[如东]</sup> ① 方向：～哪许去？ ② 生长：～霉。 ③ 凝结：～冻。  
 1. 【[上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan.md#上)】`shan6` <sup>[泰县]</sup> ① 向、到、往：～电影院。 ② 结：～冻。 ③ 生：～霉｜这个馒头不能吃，～吖霉。  
 1. 【[上坝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_ba.md#上坝)】`shan6 ba5` <sup>[如皋]</sup> ① 相对位置在上游的坝。 ② 借指上段、上级：～不开，下坝不流。  
-1. 【[上不上，下不下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_beh_shan_xia.md#上不上，下不下)】`shan6 beh shan6 ha6 beh ha6` <sup>[泰兴]</sup> 心情不安，或谓进退两难：预先估计不足，现在弄得～的，怎吖了结geh？  
+1. 【[上不上，下不下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_beh_shan_ha.md#上不上，下不下)】`shan6 beh shan6 ha6 beh ha6` <sup>[泰兴]</sup> 心情不安，或谓进退两难：预先估计不足，现在弄得～的，怎吖了结geh？  
 1. 【[上半天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_bun_tin.md#上半天)】`shan6 bun tin1` <sup>[泰兴]</sup> 上午。日出至中午12点这一段时间。  
 1. 【[上半天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_bun_tin.md#上半天)】`shan6 bun5 tin1` <sup>[兴化]</sup> 上午：“～人少，早起更是一个人没有呢。”（《二十年目睹之怪现状》二八）  
 1. 【[上菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_cae.md#上菜)】`shan6 cae5` <sup>[如东]</sup> 给酒席桌上送菜：快点～，我俫吃好啊要家去。  
@@ -945,7 +945,7 @@
 1. 【[上垳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_hen.md#上垳)】`shan6 hen5` <sup>[如东]</sup> 渔船或渔民进入垳场，叫做上垳。  
 1. 【[上火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_hu.md#上火)】`shan6 hu3` <sup>[兴化]</sup> 发怒：一听他无中生有的瞎说，我就～。  
 1. 【[上话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_hua.md#上话)】`shan6 hua6` <sup>[兴化]</sup> ① 作为谈话资料：你出差时间一长，大家常拿你～。 ② 应了某些话语：他是～的大好佬。  
-1. 【[上黄桥，拢海安——岔啊八国里去啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_huan_qio_lon_hae_un_cha_a_baeh_goh_lii_qy_a.md#上黄桥，拢海安——岔啊八国里去啊)】`shan6 huan2 qio2 lon3 hae3 un1 cha5 a baeh7 goh7 lii qy5 a` <sup>[如皋]</sup> 不是一个方向。  
+1. 【[上黄桥，拢海安——岔啊八国里去啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_huan_qio_lon.md#上黄桥，拢海安——岔啊八国里去啊)】`shan6 huan2 qio2 lon3 hae3 un1 cha5 a baeh7 goh7 lii qy5 a` <sup>[如皋]</sup> 不是一个方向。  
 1. 【[上回子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_huei_zz.md#上回子)】`shan6 huei2 zz` <sup>[如皋]</sup> 上一次。  
 1. 【[上回子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_huei_zz.md#上回子)】`shan6 huei2 zz` <sup>[如皋]</sup> 前一次。  
 1. 【[上寒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_hun.md#上寒)】`shan6 hun2` <sup>[如皋]</sup> 进入冬季。  
@@ -988,7 +988,7 @@
 1. 【[上梁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_lian.md#上梁)】`shan6 lian2` <sup>[如东]</sup> 把桁条架到房柱上去。  
 1. 【[上梁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_lian.md#上梁)】`shan6 lian2` <sup>[东台]</sup> 建房中架大梁，民间通常要选吉日良辰，有庆贺仪式。  
 1. 【[上梁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_lian.md#上梁)】`shan6 lian2` <sup>[兴化]</sup> 民间建房习俗，将桁条架上山墙，在中梁上挂红（绸、布）、贴福字，就位时，要放鞭炮，散糕点和钱币，说四言八句的吉利话。  
-1. 【[上梁不正下架歪，中柱不正倒下来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_lian_beh_zhen_xia_jia_huae_zhon_chv_beh_zhen_do_ha_lae.md#上梁不正下架歪，中柱不正倒下来)】`shan6 lian2 beh7 zhen5 xia6 jia5 huae1 zhon1 chv6 beh7 zhen5 do5 ha6 lae2` <sup>[东台]</sup> 上级或长辈的样子很重要。  
+1. 【[上梁不正下架歪，中柱不正倒下来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_lian_beh_zhen.md#上梁不正下架歪，中柱不正倒下来)】`shan6 lian2 beh7 zhen5 xia6 jia5 vae1 zhon1 chv6 beh7 zhen5 do5 ha6 lae2` <sup>[东台]</sup> 上级或长辈的样子很重要。  
 1. 【[上梁条幅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_lian_tio_foh.md#上梁条幅)】`shan6 lian2 tio2 foh7` <sup>[如东]</sup> 新房上梁，要在桁条上贴条幅。正梁上贴“福”字，方块；二架上贴“太公在此”。横幅；三架上贴“百无禁忌”，横幅；四架上贴“四季平安”，横幅。  
 1. 【[上梁喜日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_lian_xi_rih.md#上梁喜日)】`shan6 lian2 xi3 rih8` <sup>[如东]</sup> 一种民间风俗。上正梁时，要选择喜日。凡逢“冲”日，不能上梁。冲日的确定是：子午相冲、丑未相冲、寅申相冲、卯酉相冲、辰戌相冲、已亥相冲，称六冲：家主属牛，为丑，逢丑未日，不能上梁。其他日子均可。  
 1. 【[上粮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_lian.md#上粮)】`shan6 lian2` <sup>[如皋]</sup> ① 运送粮食：望仓库里～。 ② 群鸟吃食的热闹场景：鸭子～。  
@@ -1015,8 +1015,8 @@
 1. 【[上庙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_mio.md#上庙)】`shan6 mio6` <sup>[如皋]</sup> 葬俗之一。人初丧，家中即扎一草把，认为灵魂所附，送到土地庙寄存，并送饭、上香烛、化纸。如此三日后再将草把烧化，表示灵魂下地府了，～即完结  
 1. 【[上毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_mo.md#上毛)】`shan6 mo2` <sup>[如东]</sup> 食物、器具生霉长毛：连续落咖十几天的雨，衣裳总上吖毛。  
 1. 【[上茅缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_mo_gan.md#上茅缸)】`shan6 mo2 gan1` <sup>[如东]</sup> 上厕所。  
-1. 【[上茅缸放屁——大澎缸（唪𠵹）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_mo_gan_fan_pi_da_pon_gan.md#上茅缸放屁——大澎缸（唪𠵹）)】`shan6 mo2 gan1 fan5 pi5 da6 pon1 gan1 （pon6 gan1）` <sup>[东台]</sup>   
-1. 【[上茅缸吃瓜子——少进多出](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_mo_gan_qieh_gua_zz_sho_jien_du_chueh.md#上茅缸吃瓜子——少进多出)】`shan6 mo2 gan1 qieh7 gua1 zz3 sho3 jien5 du1 chueh7` <sup>[东台]</sup>   
+1. 【[上茅缸放屁——大澎缸（唪𠵹）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_mo_gan_fan.md#上茅缸放屁——大澎缸（唪𠵹）)】`shan6 mo2 gan1 fan5 pi5 da6 pon1 gan1 （pon6 gan1）` <sup>[东台]</sup>   
+1. 【[上茅缸吃瓜子——少进多出](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_mo_gan_qieh.md#上茅缸吃瓜子——少进多出)】`shan6 mo2 gan1 qieh7 gua1 zz3 sho3 jien5 du1 chueh7` <sup>[东台]</sup>   
 1. 【[上毷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_mo.md#上毷)】`shan6 mo6` <sup>[如皋]</sup> 发霉，长出霉菌菌丝。“毷”为借字。  
 1. 【[上毷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_mo.md#上毷)】`shan6 mo6` <sup>[东台]</sup> 生了霉菌。（见“毷”）  
 1. 【[上毷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_mo.md#上毷)】`shan6 mo6` <sup>[兴化]</sup> 生霉：梅雨天气，吃物东西容易～。  
