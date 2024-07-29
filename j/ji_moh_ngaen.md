@@ -6,9 +6,4 @@ ji1 moh8 ngaen3
 # 鸡目眼
 ji1 moh8 ngaen3
 > 如皋方言词典
-- 雀目眼。
-
-# 鸡目眼
-ji1 moh8 ngaen3
-> 如皋方言词典
 - 即“雀目眼”，白蒲话说。
