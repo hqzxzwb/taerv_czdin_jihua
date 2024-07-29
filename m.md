@@ -659,6 +659,7 @@
 1. 【[没搭煞头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_daeh_shaeh_teu.md#没搭煞头)】`meh8 daeh7 shaeh7 teu2` <sup>[东台]</sup> 没有交往的价值和必要。  
 1. 【[没搭头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_daeh_teu.md#没搭头)】`meh8 daeh7 teu` <sup>[如东]</sup> 不能交往：这个人～。  
 1. 【[没胆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_daen.md#没胆)】`meh8 daen3` <sup>[如东]</sup> 形容什么都不怕：这个人～。  
+1. 【[没得了不得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_deh_lio_beh.md#没得了不得)】`meh8 deh lio3 beh7 deh7` <sup>[泰兴]</sup> 没什么大不了。  
 1. 【[没得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_deh.md#没得)】`meh8 deh7` 没有，表示人或事物不存在  
 1. 【[没得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_deh.md#没得)】`meh8 deh7` <sup>[如皋]</sup> 没有。  
 1. 【[没得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_deh.md#没得)】`meh8 deh7` <sup>[东台]</sup> 没有。  
