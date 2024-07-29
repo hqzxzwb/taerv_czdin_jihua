@@ -40,7 +40,7 @@
 1. 【[机米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_mi.md#机米)】`ji1 mi3` 给稻谷脱壳以获得米。又言机稻。  
 1. 【[机米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_mi.md#机米)】`ji1 mi3` <sup>[如东]</sup> 碾米。  
 1. 【[机面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_min.md#机面)】`ji1 min6` <sup>[如东]</sup> 用轧面机生产出来的面条，称机面。有细条的，有粗条的，有方形的，有扁形的。  
-1. 【[机器脚踏车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_qi_jiah_taeh_cha.md#机器脚踏车)】`ji1 qi5 jiah7 taeh cha1` <sup>[兴化]</sup> ① 带发动机的白行车。 ② 摩托车。  
+1. 【[机器脚踏车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_qi_jiah_taeh_cha.md#机器脚踏车)】`ji1 qi5 jiah7 taeh cha1` <sup>[兴化]</sup> ① 带发动机的自行车。 ② 摩托车。  
 1. 【[机器快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_qi_kuae.md#机器快)】`ji1 qi5 kuae5` <sup>[如东]</sup> 一种老式的内河机动船，吨位小，载客，也载物。  
 1. 【[机器快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_qi_kuae.md#机器快)】`ji1 qi5 kuae5` <sup>[如皋]</sup> 内河用机器推动的客船。  
 1. 【[稽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#稽)】`ji1` <sup>[如皋]</sup> 虘，耍赖皮：他来啊输掉啊就赌～（玩～）。  
