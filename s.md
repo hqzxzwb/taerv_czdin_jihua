@@ -2158,6 +2158,7 @@
 1. 【[佋刮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_guaeh.md#佋刮)】`sho2 guaeh7` <sup>[如东]</sup> ① 物体不整齐：这个葫芦有些～。 ② 形容女人疯疯颠颠的样子：你看王兰兰那个～的样子。  
 1. 【[佋样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_ian.md#佋样)】`sho2 ian6` <sup>[如东]</sup> 人的长相不齐整，称佋样。  
 1. 【[捎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho.md#捎)】`sho2` <sup>[东台]</sup> 暗指偷偷摸摸的行为。  
+1. 【[睄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho.md#睄)】`sho2` <sup>[东台]</sup> 用眼睛余光看。  
 1. 【[睄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho.md#睄)】`sho2` <sup>[泰县]</sup> 用眼光扫视四周。  
 1. 【[绍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho.md#绍)】`sho2` <sup>[兴化]</sup> ① 偷偷藏起：他把东西～起来啊。｜这钱，一日只～得四十五钱……（《警世通言》三七） ② 顺着放置：把篙子～到屋里去。  
 1. 【[绍兴调<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_xien_dio_r.md#绍兴调<sub>儿</sub>)】`sho2 xien1 dio5 r` <sup>[如皋]</sup> 越剧唱腔。  
@@ -2225,7 +2226,6 @@
 1. 【[少壮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_zhuan.md#少壮)】`sho5 zhuan5` <sup>[兴化]</sup> 指人的容颜比实际年龄显得年轻：“（刘将军）虽四旬开外年纪，生得一……”（扬二《甘露寺相婿》）  
 1. 【[少壮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_zhuan.md#少壮)】`sho5 zhuan5` <sup>[泰县]</sup> 不显老的老年人。  
 1. 【[潲雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_y.md#潲雨)】`sho5 y3` <sup>[如东]</sup> 雨斜着落下来。  
-1. 【[睄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho.md#睄)】`sho5` <sup>[东台]</sup> 用眼睛余光看。  
 1. 【[筲箕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_ji.md#筲箕)】`sho5 ji1` <sup>[如皋]</sup> 原指淘箩，本地作地名，何庄乡小溪河南有～村。据传是战国时南楚移民所开辟。  
 1. 【[筲箕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_ji.md#筲箕)】`sho5 ji1` <sup>[如东]</sup> 容器。竹篾编成，缝口密切，圆柿形，有盖，有环。体积较小。盛物用。  
 1. 【[肖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho.md#肖)】`sho5` <sup>[东台]</sup> 所有生肖轮流一周为12年：相差12岁就是相差一～。  
