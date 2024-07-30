@@ -456,8 +456,7 @@
 1. 【[脚影<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_ien_r.md#脚影<sub>儿</sub>)】`jiah7 ien3 r` <sup>[如皋]</sup> 身影：多少天～总不曾伸到那许。  
 1. 【[脚影<sub>儿</sub>都不送](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_ien_r_du_beh_son.md#脚影<sub>儿</sub>都不送)】`jiah7 ien3 r du1 beh7 son5` <sup>[东台]</sup> 意思是该到的地方竟然没有到过：父亲生病住院，儿子～，太不像话！  
 1. 【[脚印](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_ien.md#脚印)】`jiah7 ien5` <sup>[如东]</sup> 脚底留在物体上的痕迹。  
-1. 【[脚脚嘟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_jiah_dv.md#脚脚嘟)】`jiah7 jiah7 dv2` <sup>[如皋]</sup> 遛走。  
-1. 【[脚脚嘟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_jiah_dv.md#脚脚嘟)】`jiah7 jiah7 dv2` <sup>[如皋]</sup> 走了，逃了。  
+1. 【[脚脚嘟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_jiah_dv.md#脚脚嘟)】`jiah7 jiah7 dv2` <sup>[如皋]</sup> 溜走，逃了。  
 1. 【[脚脚嘟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_jiah_dv.md#脚脚嘟)】`jiah7 jiah7 dv2` <sup>[兴化]</sup> 偷偷溜走：他见到好事一着不让，碰到难事就～。  
 1. 【[脚筋跑断吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_jien_po_tun_nga.md#脚筋跑断吖)】`jiah7 jien1 po2 tun6 nga` <sup>[如东]</sup> 比喻跑了很多路，非常辛苦：为啊讨债，我～。  
 1. 【[脚劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_jien.md#脚劲)】`jiah7 jien5` <sup>[如东]</sup> 脚的力气：你有～，可以到处跑。  
