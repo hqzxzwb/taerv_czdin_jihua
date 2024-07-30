@@ -19,7 +19,7 @@
 1. 【[麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma.md#麻)】`ma2` <sup>[兴化]</sup> ① 辣味刺激：～人。 ② （贬）极：坏啊～啊。 ③ （借）形容价格昂贵：东西倒不丑，就是价钱～人。 ④ 作动词，喝酒的隐语：“……弄点酒来～下子，暖暖身子睡觉吧！”（兴文《得胜湖的定名及传说》） ⑤ 谓人狂妄：你少要～！  
 1. 【[麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma.md#麻)】`ma2` <sup>[泰县]</sup> 辣。  
 1. 【[麻啊爪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_a_zhua_zz.md#麻啊爪子)】`ma2 a zhua3 zz` <sup>[东台]</sup> ① 麻醉了，手脚不能动。 ② 吓得不知所措的样子。  
-1. 【[麻阿爪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_a_zhua_zz.md#麻阿爪子)】`ma2 a zhua3 zz` <sup>[泰县]</sup> 手足无措：她家男的一死，撂下老的小的，她就～啊啦。  
+1. 【[麻啊爪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_a_zhua_zz.md#麻啊爪子)】`ma2 a zhua3 zz` <sup>[泰县]</sup> 手足无措：她家男的一死，撂下老的小的，她就～啊啦。  
 1. 【[麻疤<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ba_r.md#麻疤<sub>儿</sub>)】`ma2 ba1 r` <sup>[如东]</sup> 比喻岔子：他来寻～。  
 1. 【[麻饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_bien.md#麻饼)】`ma2 bien3` <sup>[兴化]</sup> 一种糕点，以面粉、植物油、蔗糖为主要原料制成的银圆大小的薄饼，两面芝麻，在平底锅中烤熟，酥甜可口。  
 1. 【[麻饼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_bien_r.md#麻饼<sub>儿</sub>)】`ma2 bien3 r` <sup>[如东]</sup> 糕点的一种。面粉经过发酪后，做成圆形饼子，上面撒上芝麻、白糖，放在炉中烤熟，酥脆香甜。  

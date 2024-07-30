@@ -1891,7 +1891,7 @@
 1. 【[橛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh.md#橛)】`qiuh8` <sup>[如皋]</sup> 小段：半～粉笔。  
 1. 【[绝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh.md#绝)】`qiuh8` <sup>[如皋]</sup> 见“促狭”。  
 1. 【[绝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh.md#绝)】`qiuh8` <sup>[兴化]</sup> ① 暗中使坏：做～事｜想～主意。｜“爸，你看那个曹官生～不～？”（马春阳《父女双婚事》） ② 行为过当：你覅把事做～，要为自己留条后路。 ③ 厉害。  
-1. 【[绝巴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_ba_r.md#绝巴<sub>儿</sub>)】`qiuh8 ba1 r` <sup>[泰县]</sup> （禁忌语）无后代的人。  
+1. 【[绝把<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_ba_r.md#绝把<sub>儿</sub>)】`qiuh8 ba3 r` <sup>[泰县]</sup> （禁忌语）无后代的人。  
 1. 【[绝八代](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_baeh_tae.md#绝八代)】`qiuh8 baeh7 tae6` <sup>[东台]</sup> （詈语）咒人家断子绝孙没有后代。  
 1. 【[绝产](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_chaen.md#绝产)】`qiuh8 chaen3` <sup>[兴化]</sup> 无后的人留下的遗产。《醒世烟缘传》第四十六回有“晁乡宦无子，族里人要当绝产分他的家事”的情节。  
 1. 【[绝当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_dan.md#绝当)】`qiuh8 dan5` <sup>[兴化]</sup> 旧指到期未向当铺赎取的质押物：这几件首饰过期年把没得人来赎，成吖～。  

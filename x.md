@@ -16,7 +16,7 @@
 1. 【[稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#稀)】`xi1` <sup>[东台]</sup> ① 各个物体之间空隙大。 ② 轻微裂开或开启（古籍用字：𠩺，《说文·文部》，许其切）：门～啊一条缝。  
 1. 【[稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#稀)】`xi1` <sup>[兴化]</sup> 程度副词，相当于“很”，往往含贬义，表说话人的不满情绪：～脏的；～冷的；……执刑的把个板子摆在腿上，来回光啊光的，光的～痒的……（《武松》五）  
 1. 【[稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#稀)】`xi1` <sup>[泰县]</sup> 裂开：～啊一条缝。  
-1. 【[稀阿稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_a_xi.md#稀阿稀)】`xi1 a xi1` <sup>[泰县]</sup> 人群渐渐稀少：今朝会开啊不久，人都～的走掉啊。  
+1. 【[稀啊稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_a_xi.md#稀啊稀)】`xi1 a xi1` <sup>[泰县]</sup> 人群渐渐稀少：今朝会开啊不久，人都～的走掉啊。  
 1. 【[稀𬙙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_fan.md#稀𬙙)】`xi1 fan1` <sup>[如东]</sup> 一种捕鱼网具。圆锥形，口宽约1丈，网身长约2丈。草绳结成，网眼较大故称稀𬙙。作业时，把罗放人海洋里，用竹竿撑开，主要捕捞海蜇。  
 1. 【[稀缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_fon.md#稀缝)】`xi1 fon6` <sup>[如东]</sup> 板块接合部裂开：桌面～。  
 1. 【[稀缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_fon.md#稀缝)】`xi1 fon6` <sup>[兴化]</sup> ① 缝隙：可巧，板使有几条～，那个乔家运……瞧看得不亦乐乎。（《广陵满》十三） ② 开裂有缝：这扇后门经过风吹日晒老早就稀啊缝。  

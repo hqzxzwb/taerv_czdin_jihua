@@ -916,7 +916,7 @@
 1. 【[沦露](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_lv.md#沦露)】`len2 lv` <sup>[东台]</sup> 反反复复、轮回经受风吹雨打和日晒夜露：那根木桩经过几十年～，已经朽啊。  
 1. 【[沦露](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_lv.md#沦露)】`len2 lv6` <sup>[如皋]</sup> 日晒夜露。  
 1. 【[輘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len.md#輘)】`len2, len6` <sup>[如皋]</sup> ① 欺压：～小新妇儿。 ② 限制：他～老爹的茶饭，老爹吃不饱。  
-1. 【[輘嫁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_ga.md#輘嫁)】`len2 ga5` <sup>[如东]</sup> 新娘在花轿上坐着，不抬起来，叫做鞍嫁。据说能够淡化新娘的性子。  
+1. 【[輘嫁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_ga.md#輘嫁)】`len2 ga5` <sup>[如东]</sup> 新娘在花轿上坐着，不抬起来，叫做輘嫁。据说能够淡化新娘的性子。  
 1. 【[輘烤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_ko.md#輘烤)】`len2 ko3` <sup>[如东]</sup> 东西放在外面日晒夜露，不收回来。  
 1. 【[輘新妇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_xien_fv.md#輘新妇)】`len2 xien1 fv` <sup>[如东]</sup> 欺负媳妇：王老太～，这个不好。  
 1. 【[轮吖来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_nga_lae.md#轮吖来)】`len2 nga lae2` <sup>[东台]</sup> 依次序一个接着一个做某事。  

@@ -2515,7 +2515,7 @@
 1. 【[活说](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_shuh.md#活说)】`huh8 shuh7` <sup>[泰县]</sup> 没有根据的说：覅～。  
 1. 【[活死人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_sz_ren.md#活死人)】`huh8 sz3 ren2` <sup>[东台]</sup> ① 指反应迟钝、动作笨拙的人。 ② 迂执之人，一点不会灵活变通。  
 1. 【[活死人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_sz_ren.md#活死人)】`huh8 sz3 ren2` <sup>[兴化]</sup> 指作风呆板，遇事不肯通触的人：他是个～，这件事找他肯定不行！  
-1. 【[活掉阿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_tio_a.md#活掉阿)】`huh8 tio a` <sup>[泰县]</sup> 庄稼肥足，倒状：他家的几亩稻都～。  
+1. 【[活掉啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_tio_a.md#活掉啊)】`huh8 tio a` <sup>[泰县]</sup> 庄稼肥足，倒状：他家的几亩稻都～。  
 1. 【[活动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_ton.md#活动)】`huh8 ton` <sup>[如皋]</sup> 松动。  
 1. 【[活动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_ton.md#活动)】`huh8 ton6` <sup>[如东]</sup> ① 运动：站起来～下子。 ② 物体摇动：这根桩～起来啊。  
 1. 【[活动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_ton.md#活动)】`huh8 ton6` <sup>[兴化]</sup> 手有余资，转得动：这几年勤苦营运，手中颇颇～，比前不同。（《古今小说》二八）  
