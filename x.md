@@ -392,7 +392,6 @@
 1. 【[下风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_fon.md#下风)】`xia6 fon1` <sup>[泰兴]</sup> 风所吹向的那一方。  
 1. 【[下风人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_fon_ren.md#下风人)】`xia6 fon1 ren2` <sup>[如皋]</sup> 腋臭患者。只能立于下风，其臭才不致影响在一起的人，故名。  
 1. 【[下风头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_fon_teu.md#下风头)】`xia6 fon1 teu2` <sup>[如皋]</sup> 物体被风吹向的地方：人家扬场，他站吖～吃灰，真笨。  
-1. 【[下家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_ga.md#下家)】`xia6 ga1` <sup>[如东]</sup> ① 坐在自己右手边的人。 ② 主谋人：你要交出～。 ③ 窝家：这许是他俫的～。  
 1. 【[下钩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_geu_zz.md#下钩子)】`xia6 geu1 zz` <sup>[泰兴]</sup> 本指下钩钓鱼，喻设计谋诱人上当。也指趁人不备绊脚使跌跤。  
 1. 【[下工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_gon.md#下工)】`xia6 gon1` <sup>[泰兴]</sup> 收工下班：大呼隆的时候，都是统一上工，统一～。  
 1. 【[下锅菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_gu_cae.md#下锅菜)】`xia6 gu1 cae5` <sup>[如皋]</sup> 预备下锅烹调的菜，与腌制、生拌、蒸、蘸、炖的菜相对。  
@@ -423,6 +422,7 @@
 1. 【[下家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_jia.md#下家)】`xia6 jia1` <sup>[兴化]</sup> ① 后一家，特指牌桌上靠右手的一家。 ② 旧称妓院：开～的。  
 1. 【[下家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_jia.md#下家)】`xia6 jia1` <sup>[泰县]</sup> ① 妓院。 ② 下一家。  
 1. 【[下家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_jia.md#下家)】`xia6 jia1` <sup>[泰兴]</sup> 打牌、饮酒等坐在本人下一座位的人。  
+1. 【[下家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_jia.md#下家)】`xia6 jia1` <sup>[如东]</sup> ① 坐在自己右手边的人。 ② 主谋人：你要交出～。 ③ 窝家：这许是他俫的～。  
 1. 【[下脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_jiah.md#下脚)】`xia6 jiah` <sup>[泰兴]</sup> 见“下水”。  
 1. 【[下脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_jiah.md#下脚)】`xia6 jiah7` <sup>[如皋]</sup> ① 胸料。 ② 立足之处：满院子的鸡屎，教人没处～。  
 1. 【[下脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_jiah.md#下脚)】`xia6 jiah7` <sup>[如东]</sup> 原料加工以后剩余的零碎残料。  
