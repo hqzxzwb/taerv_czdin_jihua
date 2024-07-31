@@ -1081,7 +1081,7 @@
 1. 【[正经神道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_jien_shen_to.md#正经神道)】`zhen5 jien shen2 to6` <sup>[如皋]</sup> 喻正派之人、正派之事、正派之理论。正神正道，不是旁门左道。  
 1. 【[正经人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_jien_ren.md#正经人)】`zhen5 jien1 ren2` <sup>[如东]</sup> 正派人。有时也用为贬义：就是她是～。  
 1. 【[正理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_li.md#正理)】`zhen5 li3` <sup>[如东]</sup> 有道理：他是～。  
-1. 【[正理只一个，歪理十八条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_li_zheh_ieh_gu_huae_li_sheh_baeh_tio.md#正理只一个，歪理十八条)】`zhen5 li3 zheh7 ieh7 gu5 huae1 li3 sheh8 baeh7 tio2` <sup>[东台]</sup> 真理只是事物及其规律的客观反映，实践是其唯一的检验标准，而错误的说法可能无限多样。  
+1. 【[正理只一个，歪理十八条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_li_zheh_ieh.md#正理只一个，歪理十八条)】`zhen5 li3 zheh7 ieh7 gu5 vae1 li3 sheh8 baeh7 tio2` <sup>[东台]</sup> 真理只是事物及其规律的客观反映，实践是其唯一的检验标准，而错误的说法可能无限多样。  
 1. 【[正梁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_lian.md#正梁)】`zhen5 lian2` <sup>[如东]</sup> 房屋屋顶上的一架大梁，叫做正梁。  
 1. 【[正门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_men.md#正门)】`zhen5 men2` <sup>[东台]</sup> 建筑物正面的主要的门。  
 1. 【[正面正式的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_min_zhen_sheh_dii.md#正面正式的)】`zhen5 min6 zhen5 sheh7 dii` <sup>[如皋]</sup> 正式的、郑重的。  

@@ -653,8 +653,8 @@
 1. 【[鼻青眼肿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_qien_ngaen_zhon.md#鼻青眼肿)】`pieh8 qien1 ngaen3 zhon3` <sup>[如东]</sup> 形容伤势十分严重：他捱打得～的。  
 1. 【[鼻屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_shr.md#鼻屎)】`pieh8 shr3` <sup>[兴化]</sup> 鼻腔里干结的鼻涕和其他分泌物。  
 1. 【[鼻屎拉沙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_shr_la_sha.md#鼻屎拉沙)】`pieh8 shr3 la1 sha1` <sup>[泰县]</sup> 流鼻涕。  
-1. 【[鼻塌嘴歪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_taeh_jy_huae.md#鼻塌嘴歪)】`pieh8 taeh7 jy3 huae1` <sup>[东台]</sup> 形容难看、狼狈的样子。  
-1. 【[鼻塌嘴歪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_taeh_zuei_huae.md#鼻塌嘴歪)】`pieh8 taeh7 zuei3 huae1` <sup>[兴化]</sup> （借）形容狼狈像：（孙氏大娘）撒开手一顿拳头，把四个家人只打得～……（《粉妆楼》二二）｜“我小人在行辕听当差的说，瘟官被包大人熊得～的……”（《皮五辣子》五）  
+1. 【[鼻塌嘴歪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_taeh_jy_vae.md#鼻塌嘴歪)】`pieh8 taeh7 jy3 vae1` <sup>[东台]</sup> 形容难看、狼狈的样子。  
+1. 【[鼻塌嘴歪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_taeh_zuei_vae.md#鼻塌嘴歪)】`pieh8 taeh7 zuei3 vae1` <sup>[兴化]</sup> （借）形容狼狈像：（孙氏大娘）撒开手一顿拳头，把四个家人只打得～……（《粉妆楼》二二）｜我小人在行辕听当差的说，瘟官被包大人熊得～的……（《皮五辣子》五）  
 1. 【[鼻头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_teu.md#鼻头)】`pieh8 teu` <sup>[兴化]</sup> 鼻子：他忙吖半天，～上全是汗。  
 1. 【[鼻涕虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_ti_chon.md#鼻涕虫)】`pieh8 ti chon2` <sup>[兴化]</sup> 软体动物蛞蝓，身体圆而长，没有壳，表面多黏液。  
 1. 【[鼻涕虎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_ti_hv.md#鼻涕虎)】`pieh8 ti hv3` <sup>[兴化]</sup> ① 嘲笑常流鼻涕的孩子。 ② 表示对人的藐视：这个～也想上台盘，笑话！  

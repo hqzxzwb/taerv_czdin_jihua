@@ -1795,7 +1795,7 @@
 1. 【[嘴臭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_cheu.md#嘴臭)】`jy3 cheu5` <sup>[如皋]</sup> ① 口臭。 ② 直率，不留情面。  
 1. 【[嘴打锣，舌打鼓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_da_lu_shih_da_gv.md#嘴打锣，舌打鼓)】`jy3 da3 lu2 shih8 da3 gv3` <sup>[东台]</sup> 形容伶牙俐齿巧舌如簧，滔滔不绝，夸夸其谈。  
 1. 【[嘴大喉咙细](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_da_heu_lon_xi.md#嘴大喉咙细)】`jy3 da6 heu2 lon2 xi5` <sup>[东台]</sup> 想吃而又吃不下去。  
-1. 【[嘴大鼻歪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_da_pieh_huae.md#嘴大鼻歪)】`jy3 da6 pieh8 huae1` <sup>[如皋]</sup> 形容酒足饭饱的狼狈相：吃得～的。  
+1. 【[嘴大鼻竵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_da_pieh_huae.md#嘴大鼻竵)】`jy3 da6 pieh8 huae1` <sup>[如皋]</sup> 形容酒足饭饱的狼狈相：吃得～的。  
 1. 【[嘴大呜舌大呜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_da_v_shih_da_v.md#嘴大呜舌大呜)】`jy3 da6 v1 shih8 da6 v1` <sup>[东台]</sup> 形容不懂规矩的话说得太多：有事去，别老在这许～的。  
 1. 【[嘴大舞食大舞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_da_v_sheh_da_v.md#嘴大舞食大舞)】`jy3 da6 v3 sheh8 da6 v3` <sup>[如皋]</sup> 边吃一边任意说笑玩乐，毫无规矩的样子。  
 1. 【[嘴沰下来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_dah_ha_lae_a.md#嘴沰下来啊)】`jy3 dah7 ha lae2 a` <sup>[如皋]</sup> 见“沰嘴”。  

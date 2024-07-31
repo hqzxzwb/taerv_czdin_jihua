@@ -437,8 +437,15 @@
 1. 【[画招](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_zho.md#画招)】`va6 zho1` <sup>[东台]</sup> 承认错误，并表示悔改。（指画押，“招”是招供）  
 1. 【[画招](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_zho.md#画招)】`va6 zho1` <sup>[泰县]</sup> 无条件认错接受对方要求：他经常～，就是不改。  
 1. 【[歪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae.md#歪)】`vae1` <sup>[兴化]</sup> 小憩、马马虎虎地找地方睡下：老太～在杭上，弯过一手捶腰。（《广陵潮》一）｜“太爷别气，您多抱屈，您二位就在我炕上～一宿……”（《老残游记》二十）  
+1. 【[歪才](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_cae.md#歪才)】`vae1 cae2` <sup>[东台]</sup> 指搞歪门邪道的本事。  
 1. 【[歪佝别瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_geu_bih_gua.md#歪佝别瓜)】`vae1 geu1 bih7 gua1` <sup>[兴化]</sup> ① 形容人肢体歪斜、手足痉挛的形态：这个人～的，再好的衣裳也穿不周正。 ② （借）指某些东西形体不正。  
+1. 【[歪嘴吹笛子——斜气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_jy_chuei_tieh.md#歪嘴吹笛子——斜气)】`vae1 jy3 chuei1 tieh8 zz qia2 qi5` <sup>[东台]</sup>   
+1. 【[歪嘴吃毛鱼——一段一段来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_jy_qieh_mo.md#歪嘴吃毛鱼——一段一段来)】`vae1 jy3 qieh7 mo2 y2 ieh7 tun6 ieh7 tun6 lae2` <sup>[东台]</sup>   
+1. 【[歪嘴塌鼻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_jy_taeh_pieh.md#歪嘴塌鼻)】`vae1 jy3 taeh7 pieh8` <sup>[东台]</sup> 形容人的五官不正，难看。也称“歪嘴毛桃”。  
+1. 【[歪里斜巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_lii_qia_ba.md#歪里斜巴)】`vae1 lii qia2 ba1` <sup>[东台]</sup> 歪斜不正、看不顺眼。  
 1. 【[歪<sub>儿</sub>跩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_r_zhuae_r.md#歪<sub>儿</sub>跩<sub>儿</sub>)】`vae1 r zhuae3 r` <sup>[兴化]</sup> ① 形容步履蹒舞：他喝得～的。 ② 形容格调低下：请你少把～的人朝家带。｜这些～的节目没看头。  
+1. 【[歪头笡脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_teu_jia_no.md#歪头笡脑)】`vae1 teu2 jia3 no3` <sup>[东台]</sup> 形容歪歪扭扭，极不整齐。  
+1. 【[歪歪理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_vae_li.md#歪歪理)】`vae1 vae1 li3` <sup>[东台]</sup> 没有理而强辩有理的话。  
 1. 【[歪嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_zuei.md#歪嘴)】`vae1 zuei3` <sup>[兴化]</sup> 一种暗示性动作：老头说着，把头掉过来，就望着施恩手下的打手～｜你们走唦。（《武松》六）  
 1. 【[歪嘴和尚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_zuei_hu_shan.md#歪嘴和尚)】`vae1 zuei3 hu2 shan` <sup>[兴化]</sup> （讽）常把好事办糟或把好经验学偏的人：他是～念不出真经来。  
 1. 【[𧒘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_r.md#𧒘<sub>儿</sub>)】`vae1 r` 贝壳  

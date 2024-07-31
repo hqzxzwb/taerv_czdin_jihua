@@ -90,9 +90,9 @@
 1. 【[太阳铲土](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_chaen_tv.md#太阳铲土)】`tae5 ian chaen3 tv3` <sup>[如东]</sup> 太阳开始落山。  
 1. 【[太阳打影](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_da_ien.md#太阳打影)】`tae5 ian da3 ien3` <sup>[如东]</sup> 太阳刚刚出来。  
 1. 【[太阳大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_da.md#太阳大)】`tae5 ian da6` <sup>[如东]</sup> 天气好，气温高：今朝～，要戴帽子。  
-1. 【[太阳大歪西](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_da_huae_xi.md#太阳大歪西)】`tae5 ian da6 huae1 xi1` <sup>[如皋]</sup> 冬约在下午4时以后。夏约在下午6时以后。  
+1. 【[太阳大竵西](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_da_huae_xi.md#太阳大竵西)】`tae5 ian da6 huae1 xi1` <sup>[如皋]</sup> 冬约在下午4时以后。夏约在下午6时以后。  
 1. 【[太阳发白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_faeh_poh.md#太阳发白)】`tae5 ian faeh7 poh8` <sup>[如皋]</sup> 太阳为白色球，阳光不强，天空发浑，天气将有变化。  
-1. 【[太阳歪西](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_huae_xi.md#太阳歪西)】`tae5 ian huae1 xi1` <sup>[如东]</sup> 太阳偏西。  
+1. 【[太阳竵西](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_huae_xi.md#太阳竵西)】`tae5 ian huae1 xi1` <sup>[如东]</sup> 太阳偏西。  
 1. 【[太阳曤曤的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_huah_huah_dii.md#太阳曤曤的)】`tae5 ian huah7 huah7 dii` <sup>[如皋]</sup> 指夏日，太阳强烈时。  
 1. 【[太阳一树头高](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_ieh_shv_teu_go.md#太阳一树头高)】`tae5 ian ieh7 shv6 teu2 go1` <sup>[如皋]</sup> 约冬在8时。夏在6时。  
 1. 【[太阳影子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_ien_zz.md#太阳影子)】`tae5 ian ien3 zz` <sup>[如皋]</sup> ① 树荫、竹荫下的阳光透过来形成的小圆斑。 ② 人或物体遮阳的阴影。  

@@ -1097,7 +1097,7 @@
 1. 【[睏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen.md#睏)】`kuen5` <sup>[如东]</sup> ① 疲劳欲睡的状态。 ② 睡觉。  
 1. 【[睏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen.md#睏)】`kuen5` <sup>[如皋]</sup> ① 睡。 ② 欲睡：伢儿作～场。 ③ 粗鄙语，指不正当两性关系。  
 1. 【[睏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen.md#睏)】`kuen5` <sup>[兴化]</sup> 睡觉：“我～在大门旁边南屋里，你老有事，来招呼我罢。”（《老残游记》五）  
-1. 【[睏不着觉怪床歪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_beh_chah_go_guae_chuan_huae.md#睏不着觉怪床歪)】`kuen5 beh7 chah8 go5 guae5 chuan2 huae1` <sup>[东台]</sup> 有问题没有找自己的主观原因，而是推向客观。  
+1. 【[睏不着觉怪床歪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_beh_chah_go.md#睏不着觉怪床歪)】`kuen5 beh7 chah8 go5 guae5 chuan2 vae1` <sup>[东台]</sup> 有问题没有找自己的主观原因，而是推向客观。  
 1. 【[睏仓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_can.md#睏仓)】`kuen5 can1` <sup>[如东]</sup> 物资长期贮存在仓库里。比喻商品销路不畅：这些东西是～货。  
 1. 【[睏着咖笑啊醒吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_chah_ga_xio_a_xien_nga.md#睏着咖笑啊醒吖)】`kuen5 chah8 ga xio5 a xien3 nga` <sup>[东台]</sup> 形容心满意足，十分开心。  
 1. 【[睏轴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_choh.md#睏轴)】`kuen5 choh8` <sup>[兴化]</sup> 见“地轴”。  

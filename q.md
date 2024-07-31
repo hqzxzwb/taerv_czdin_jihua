@@ -355,7 +355,7 @@
 1. 【[邪八古东的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_baeh_gv_don_dii.md#邪八古东的)】`qia2 baeh7 gv3 don1 dii` <sup>[如皋]</sup> 胡搞蛮缠地。  
 1. 【[邪不郎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_beh_lan.md#邪不郎)】`qia2 beh7 lan2` <sup>[如东]</sup> 强横。强横的人。  
 1. 【[邪骨头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_gueh_teu.md#邪骨头)】`qia2 gueh7 teu` <sup>[如东]</sup> 脾气犟、不听话的人：～要捱打。  
-1. 【[邪理十歪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_li_sheh_huae.md#邪理十歪)】`qia2 li3 sheh8 huae1` <sup>[如东]</sup> 态度横蛮，不讲道理：不要～的。  
+1. 【[邪理十竵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_li_sheh_huae.md#邪理十竵)】`qia2 li3 sheh8 huae1` <sup>[如东]</sup> 态度横蛮，不讲道理：不要～的。  
 1. 【[邪气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_qi.md#邪气)】`qia2 qi5` <sup>[东台]</sup> 不健康、不正派的风气。  
 1. 【[邪<sub>儿</sub>八㧟的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_r_baeh_kuae_dii.md#邪<sub>儿</sub>八㧟的)】`qia2 r baeh7 kuae3 dii` <sup>[如皋]</sup> 胡搅蛮缠的。  
 1. 【[邪<sub>儿</sub>头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_r_teu.md#邪<sub>儿</sub>头)】`qia2 r teu2` <sup>[如皋]</sup> 贬称顽强不驯、不讲理的人。  

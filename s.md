@@ -1589,7 +1589,7 @@
 1. 【[身世](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_shr.md#身世)】`shen1 shr5` <sup>[如东]</sup> 个人的经历与遭遇：她的～苦。  
 1. 【[身地下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_ti_ha.md#身地下)】`shen1 ti6 ha` <sup>[如皋]</sup> 见“脚下”。  
 1. 【[身地下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_ti_ha.md#身地下)】`shen1 ti6 ha6` <sup>[如皋]</sup> 所在的实际位置及其附近：我站的～原来是条小河。  
-1. 【[身正不怕影子歪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_zhen_beh_pa_ien_zz_huae.md#身正不怕影子歪)】`shen1 zhen5 beh7 pa5 ien3 zz huae1` <sup>[东台]</sup> 自己正派就不要担心别人说三道四。  
+1. 【[身正不怕影子歪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_zhen_beh_pa.md#身正不怕影子歪)】`shen1 zhen5 beh7 pa5 ien3 zz vae1` <sup>[东台]</sup> 自己正派就不要担心别人说三道四。  
 1. 【[身子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_zz.md#身子)】`shen1 zz` <sup>[如皋]</sup> 见“身”。  
 1. 【[身子重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_zz_chon.md#身子重)】`shen1 zz chon6` <sup>[东台]</sup> 意思是某人懒惰：人勤快一点好，～的人别人不喜欢。  
 1. 【[身子骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_zz_gueh.md#身子骨)】`shen1 zz gueh7` <sup>[兴化]</sup> 体格：他虽是七十多岁的人，～还蛮硬铮的。  

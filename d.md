@@ -2627,7 +2627,7 @@
 1. 【[东凌港](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_lien_gan.md#东凌港)】`don1 lien2 gan3` <sup>[如东]</sup> 如东渔港。位于兵房镇东安闸外。高潮位，水深8-10米，低潮位，水深5米。港宽30-50米。常航能力50-80吨，最大通航能力400吨。能泊50-80吨渔船。  
 1. 【[东凌堤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_lien_ti.md#东凌堤)】`don1 lien2 ti2` <sup>[如东]</sup> 东凌堤分两期工程：<br>老东凌堤：1981年1 1月30日至1982年1月8日，为匡围东凌垦区而修筑。县政府成立围垦工程指挥部，顾永乐任指挥，调集掘东、岔河、双甸、马塘、丰剁、掘港6区民工近8万人参加施工。自东安闸北港堤起，绕十贯堤外滩，接北坎新堤东北角，全长16.58公里。完成土方355万立方米。顶高程8-8.5米，顶宽6米。<br>新东凌堤：2007年1月24日至2007年10月15日结束，筑堤14.005公里。采用机械化作业。动用民力0.15万人。  
 1. 【[东路鸡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_lv_ji_zz.md#东路鸡子)】`don1 lv6 ji1 zz` <sup>[如皋]</sup> 如皋三黄鸡。泰州称如皋为东路。  
-1. 【[东斜西歪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_qia_xi_huae.md#东斜西歪)】`don1 qia2 xi1 huae1` <sup>[如东]</sup> 歪歪斜斜，很不整齐的样子。  
+1. 【[东斜西竵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_qia_xi_huae.md#东斜西竵)】`don1 qia2 xi1 huae1` <sup>[如东]</sup> 歪歪斜斜，很不整齐的样子。  
 1. 【[东席不管西席](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_qieh_beh_gun_xi_qieh.md#东席不管西席)】`don1 qieh8 beh7 gun3 xi1 qieh8` <sup>[东台]</sup> 以酒席喻指只管分内事。  
 1. 【[东晒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_shae.md#东晒)】`don1 shae5` <sup>[如皋]</sup> 上午阳光的照射。  
 1. 【[东首](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_sheu.md#东首)】`don1 sheu3` <sup>[东台]</sup> 东头。（首即头）  
