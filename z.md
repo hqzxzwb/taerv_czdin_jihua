@@ -2568,10 +2568,12 @@
 1. 【[嘴臭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_cheu.md#嘴臭)】`zuei3 cheu5` <sup>[兴化]</sup> 出言不逊者：老黄～，弄句把话教你下不去覅怪人。  
 1. 【[嘴打锣，舌打鼓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_da_lu_shih_da_gv.md#嘴打锣，舌打鼓)】`zuei3 da3 lu2 shih8 da3 gv3` <sup>[兴化]</sup> 形容人饶舌：这个小子到哪许总是～的说个不停。  
 1. 【[嘴大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_da.md#嘴大)】`zuei3 da6` <sup>[兴化]</sup> （喻）权势者说出话来有份量：你的～，我说不过你！  
+1. 【[嘴福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_foh.md#嘴福)】`zuei3 foh` <sup>[泰兴]</sup> 同“口福”。  
 1. 【[嘴功](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_gon.md#嘴功)】`zuei3 gon1` <sup>[兴化]</sup> 巧言善辩的本领：我今吖不跟你赌～，我就跟你讲实际的。  
 1. 【[嘴呱呱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_gua_gua.md#嘴呱呱)】`zuei3 gua1 gua1` <sup>[兴化]</sup> 指人喜欢夸夸其谈。谚曰：～，屎拉拉。  
 1. 【[嘴干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_gun.md#嘴干)】`zuei3 gun1, jy3 gun1` 口渴  
 1. 【[嘴坏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_huae.md#嘴坏)】`zuei3 huae6` <sup>[兴化]</sup> ① 会说脏话、爱骂人：她～，动不动就骂人。 ② 爱传播别人隐私或议论他人长短。  
+1. 【[嘴紧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_jien.md#嘴紧)】`zuei3 jien3` <sup>[泰兴]</sup> 同“口紧”。  
 1. 【[嘴尖挂淘箩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_jin_gua_to_lu.md#嘴尖挂淘箩)】`zuei3 jin1 gua5 to2 lu1` 形容人不开心不满意的样子，多用于小孩。  
 1. 【[嘴尖鼻子翘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_jin_pieh_zz_qio.md#嘴尖鼻子翘)】`zuei3 jin1 pieh8 zz3 qio5` 形容人不开心不满意的样子，多用于小孩。  
 1. 【[嘴码子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_ma_zz.md#嘴码子)】`zuei3 ma3 zz` <sup>[兴化]</sup> 嘴（指说话时的）：他～来得，能说会道的。  
@@ -2580,6 +2582,7 @@
 1. 【[嘴泼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_puh.md#嘴泼)】`zuei3 puh7` <sup>[兴化]</sup> 谓不挑食，粗的、差的饭食都能吃。  
 1. 【[嘴局](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_qioh.md#嘴局)】`zuei3 qioh8` <sup>[兴化]</sup> 有口福：你的～真好！今天来正好碰上会餐。也说“嘴运”。  
 1. 【[嘴说](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_shuh.md#嘴说)】`zuei3 shuh7` <sup>[兴化]</sup> ① 连词，相当“虽然”：他～十六岁，实骨子还不曾满十五唻！ ② 形容速度之快：～之间，几样下酒菜就端上吖桌子。  
+1. 【[嘴松](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_son.md#嘴松)】`zuei3 son1` <sup>[泰兴]</sup> 同“口松”  
 1. 【[嘴损](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_suen.md#嘴损)】`zuei3 suen3` <sup>[兴化]</sup> 指喜欢挖苦人或揭人隐私：这个人～，喜欢揭人家疮疤。  
 1. 【[嘴头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_teu_zz.md#嘴头子)】`zuei3 teu2 zz` <sup>[兴化]</sup> 嘴：我这两个钱是～上省下来的。｜“我家老妻是不贤惠之人……～又极暴躁，终日……骂大骂小……”（《西湖二集》十）  
 1. 【[嘴凶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_xion.md#嘴凶)】`zuei3 xion1` <sup>[兴化]</sup> 能言善辩，嘴不饶人：（姑娘）手巧不巧，～不凶……（马春阳《扬州水乡婚俗散记》）｜你覅～，当心你的腿！  

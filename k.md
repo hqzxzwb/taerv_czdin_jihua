@@ -484,7 +484,7 @@
 1. 【[抠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu.md#抠)】`keu2` <sup>[泰县]</sup> ① 用功：他～得凶。 ② 抓紧：他把钱～得紧。  
 1. 【[抠扒抠扒的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_ba_keu_ba_dii.md#抠扒抠扒的)】`keu2 ba1 keu2 ba1 dii` <sup>[如皋]</sup> 状手探囊抓、拿等有阻滞的动作：寒天时候同伢儿穿衣裳～，不得爽当。  
 1. 【[口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu.md#口)】`keu3` <sup>[如东]</sup> ① 四面封闭的圆形、方形或多边形的洞，叫口。 ② 人或动物进食的器官，叫做口。通称嘴。 ③ 容器通向外面的部分，如瓶口、网口等。 ④ 毛竹：买三根～。  
-1. 【[口不应心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_beh_ien_xien.md#口不应心)】`keu3 beh7 ien5 xien1` <sup>[兴化]</sup> 口中说的与心里想的不一致：他说话经常～，覅信他。｜“官人，你昨夜恁般说了，却又～……”（《醒世恒言》八）  
+1. 【[口不应心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_beh_ien_xien.md#口不应心)】`keu3 beh7 ien5 xien1` <sup>\[兴化\]\[泰兴\]</sup>口中说的与心里想的不一致：他说话经常～，覅信他。<sup>\[兴化\]</sup>｜官人，你昨夜恁般说了，却又～……（《醒世恒言》八）<sup>\[兴化\]</sup>  
 1. 【[口边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_bin.md#口边)】`keu3 bin` <sup>[兴化]</sup> 靠近外面的地方。  
 1. 【[口边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_bin.md#口边)】`keu3 bin1` <sup>[如东]</sup> 外边：你坐啊～。  
 1. 【[口边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_bin.md#口边)】`keu3 bin1` <sup>[如皋]</sup> ① 外边、靠近外边的地方。 ② 嘴旁边：他～有颗痣。  
@@ -496,18 +496,22 @@
 1. 【[口才](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_cae.md#口才)】`keu3 cae2` <sup>[兴化]</sup> 西瓜的口味：西瓜～蛮好。  
 1. 【[口彩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_cae.md#口彩)】`keu3 cae3` <sup>[东台]</sup> 吉利话、顺遂话：把猪、牛舌叫“招财”，选数字“8”谐音“发”，都是为啊讨个～。  
 1. 【[口敞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_chan.md#口敞)】`keu3 chan3` <sup>[兴化]</sup> 说话随便，不能保守秘密：你这个人～，机密事不能让你晓得。  
-1. 【[口重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_chon.md#口重)】`keu3 chon6` <sup>[东台]</sup> 喜欢吃咸，或做的菜偏咸。  
-1. 【[口大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_da.md#口大)】`keu3 da6` <sup>[东台]</sup> “口重”的委婉说法。  
+1. 【[口重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_chon.md#口重)】`keu3 chon6` <sup>\[东台\]\[泰兴\]</sup>喜欢吃咸；菜肴偏咸：也称“口大”。<sup>\[泰兴\]</sup>  
+1. 【[口疮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_chuan.md#口疮)】`keu3 chuan1` <sup>[泰兴]</sup> 嘴角、口腔疾病。如“鹅口疮”。  
+1. 【[口大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_da.md#口大)】`keu3 da6` <sup>\[东台\]\[泰兴\]</sup>同“口重”（菜肴咸）\[东台：委婉说法\]  
 1. 【[口大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_da.md#口大)】`keu3 da6` <sup>[兴化]</sup> 菜较咸：王师傅烧菜～。反之“口小”。  
 1. 【[口大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_da.md#口大)】`keu3 da6` <sup>[泰县]</sup> 太咸：这个菜～。  
 1. 【[口大口小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_da_keu_xio.md#口大口小)】`keu3 da6 keu3 xio3` <sup>[东台]</sup> 指说话口气忽大忽小，与自己身份不相称。  
 1. 【[口带语](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_dae_y.md#口带语)】`keu3 dae5 y3` <sup>[东台]</sup> 说话时经常不自觉地说出来的词语，即口头禅，也称口头语：“没事没事”成吖他的～。  
+1. 【[口福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_foh.md#口福)】`keu3 foh` <sup>[泰兴]</sup> 能吃到好东西的运气，对饮食的享受。含诙谐意。也说“嘴福”。  
 1. 【[口福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_foh.md#口福)】`keu3 foh7` <sup>[如东]</sup> 有好东西吃。  
 1. 【[口福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_foh.md#口福)】`keu3 foh7` <sup>[东台]</sup> 享受美食：今吖子真有～，一到镇江就吃到鲥鱼。  
+1. 【[口风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_fon.md#口风)】`keu3 fon` <sup>[泰兴]</sup> 话中透露出来的意思，即口吻、口气。  
 1. 【[口风紧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_fon_jien.md#口风紧)】`keu3 fon jien3` <sup>[兴化]</sup> 见“口紧”。  
 1. 【[口风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_fon.md#口风)】`keu3 fon1` <sup>[如东]</sup> 话音里的含意：听～，好像不行。  
 1. 【[口风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_fon.md#口风)】`keu3 fon1` <sup>[东台]</sup> ［喻］从嘴里泄漏消息：他～紧，一点情况都没透露。  
 1. 【[口风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_fon.md#口风)】`keu3 fon1` <sup>[泰县]</sup> 话音。  
+1. 【[口锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_gu.md#口锅)】`keu3 gu` <sup>[泰兴]</sup> 靠外边的锅子。  
 1. 【[口锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_gu.md#口锅)】`keu3 gu1` 老式灶台有两口锅，靠外面的锅  
 1. 【[口锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_gu.md#口锅)】`keu3 gu1` <sup>[如东]</sup> 灶台上靠外边的锅子。  
 1. 【[口锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_gu.md#口锅)】`keu3 gu1` <sup>[如皋]</sup> 灶外侧的锅，与中锅、里锅相对。  
@@ -522,7 +526,9 @@
 1. 【[口紧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_jien.md#口紧)】`keu3 jien3` <sup>[如东]</sup> 自己知道的情况不轻易地说出来：这个人～，你放心。  
 1. 【[口紧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_jien.md#口紧)】`keu3 jien3` <sup>[东台]</sup> 说话小心，不乱讲。  
 1. 【[口紧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_jien.md#口紧)】`keu3 jien3` <sup>[兴化]</sup> ① 指人不轻易吐露心曲。也说“嘴紧”“口风紧”。 ② 形容麦粒干燥、饱满。  
+1. 【[口紧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_jien.md#口紧)】`keu3 jien3` <sup>[泰兴]</sup> 不轻易表示态度或泄露某种情况。亦称“嘴紧”。  
 1. 【[口口声声](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_keu_shen_shen.md#口口声声)】`keu3 keu3 shen1 shen1` <sup>[东台]</sup> 形容把某一说法经常挂在口头上：他～说你关心他。  
+1. 【[口粮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_lian.md#口粮)】`keu3 lian2` <sup>[泰兴]</sup> 人日常生活所需要的粮食。  
 1. 【[口里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_lii.md#口里)】`keu3 lii` 靠近外面的地方  
 1. 【[口里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_lii.md#口里)】`keu3 lii` <sup>[如东]</sup> 嘴里：不要把脏东西往～放。  
 1. 【[口老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_lo.md#口老)】`keu3 lo3` <sup>[兴化]</sup> ① 刀斧等钢火较老。 ② 衣服的边缝得较宽。 ③ 牛马等牲畜年岁较大。反之“口小”。  
@@ -542,31 +548,33 @@
 1. 【[口声](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_shen.md#口声)】`keu3 shen1` <sup>[泰县]</sup> 话音：听～他来啊火。  
 1. 【[口舌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_shih.md#口舌)】`keu3 shih8` <sup>[如东]</sup> ① 比喻把柄：留下了～。 ② 比喻纠纷：闹～。  
 1. 【[口舌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_shih.md#口舌)】`keu3 shih8` <sup>[东台]</sup> ① 因言语不合而产生的误会：俫有点～，不大来往。 ② 为解决矛盾所说的话：为啊这个事他费啊不少～。  
+1. 【[口舌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_shih.md#口舌)】`keu3 shih8` <sup>[泰兴]</sup> ① 言语引起的误会或纠纷 ② 争执争吵  
 1. 【[口水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_shuei.md#口水)】`keu3 shuei3` <sup>[如东]</sup> 唾液。  
 1. 【[口水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_shuei.md#口水)】`keu3 shuei3` <sup>[如皋]</sup> 唾液。  
 1. 【[口水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_shuei.md#口水)】`keu3 shuei3` <sup>[东台]</sup> 唾液：～直髿。  
 1. 【[口数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_shv.md#口数)】`keu3 shv5` <sup>[如东]</sup> 个数：水井有多少～。  
+1. 【[口松](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_son.md#口松)】`keu3 son1` <sup>[泰兴]</sup> 轻易答应别人的要求或承诺办某件事情、泄露某种情况。亦称“嘴松”。  
 1. 【[口袋装锥子——锋芒毕露](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_tae_zhuan_zhuei_zz_fon_man_bieh_lv.md#口袋装锥子——锋芒毕露)】`keu3 tae6 zhuan1 zhuei1 zz fon1 man2 bieh7 lv6` <sup>[东台]</sup>   
 1. 【[口汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_tan.md#口汤)】`keu3 tan1` <sup>[如皋]</sup> 吃干食时“过口”的汤料：下般水面要带～。  
-1. 【[口头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_teu.md#口头)】`keu3 teu` 比较接近外面，但是仍然是里面的地方。  
-1. 【[口头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_teu.md#口头)】`keu3 teu` <sup>[如东]</sup> 外头：桌子摆啊～。  
-1. 【[口头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_teu.md#口头)】`keu3 teu` <sup>[如皋]</sup> 外边，靠近外边的地方。  
-1. 【[口头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_teu.md#口头)】`keu3 teu` <sup>[东台]</sup> ① 嘴上：这事他～答应吖。 ② 相对于里头，靠外边的地方：～光线好些，你坐那许。  
-1. 【[口头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_teu.md#口头)】`keu3 teu` <sup>[兴化]</sup> 靠近外面的地方：～开店，里头住家。也说“口边”。  
+1. 【[口头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_teu.md#口头)】`keu3 teu` ① <sup>\[泰兴\]\[东台\]</sup>嘴上：这事他～答应吖。<sup>\[东台\]</sup> ② <sup>\[泰兴\]\[东台\]\[兴化\]\[如皋\]\[如东\]</sup>相对于里头，靠外边的地方。（仍然是里面）\[兴化：也说“口边”\]：～光线好些，你坐那许。<sup>\[东台\]</sup>｜～开店，里头住家。<sup>\[兴化\]</sup>｜桌子摆啊～。<sup>\[如东\]</sup>  
 1. 【[口头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_teu.md#口头)】`keu3 teu2` <sup>[如东]</sup> 嘴上：～表示同意。  
+1. 【[口头家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_teu_ga.md#口头家)】`keu3 teu2 ga` <sup>[泰兴]</sup> 房屋的大门口内的客厅部分：那本书放在～台上。  
 1. 【[口条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_tio.md#口条)】`keu3 tio2` <sup>[如皋]</sup> 猪舌。如皋西乡话。  
 1. 【[口条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_tio.md#口条)】`keu3 tio2` <sup>[东台]</sup> ① 猪舌或牛舌，也叫“招财”：买点儿～来下酒。 ② 胃口：口气、气势｜这个公司的～不小啊，要把五六千人的大企业兼并掉！  
 1. 【[口条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_tio.md#口条)】`keu3 tio2` <sup>[兴化]</sup> 用来做菜肴的猪舌或牛舌：猪～。  
 1. 【[口条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_tio.md#口条)】`keu3 tio2` <sup>[泰县]</sup> ① 猪舌头：这个～好吃。 ② 口气：你的～倒不小。  
+1. 【[口条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_tio.md#口条)】`keu3 tio2` <sup>[泰兴]</sup> ① 用于做菜的牛、猪舌 ② 篾制日用品扎口的长条形衬件  
 1. 【[口通](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_ton.md#口通)】`keu3 ton` <sup>[东台]</sup> ① 意思同口头 ② 。  
 1. 【[口岸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_un.md#口岸)】`keu3 un6` <sup>[兴化]</sup> 本指江边地名，今属泰州市高港区。借指嘴：一刻儿功夫，半只烧鸡进啊他的～。  
+1. 【[口味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_vei.md#口味)】`keu3 vei` <sup>[泰兴]</sup> 对食品滋味的爱好，喻个人爱好：练习书法正合他的～。  
 1. 【[口味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_vei.md#口味)】`keu3 vei6` <sup>[如东]</sup> 食品的滋味：紫菜的～好。  
 1. 【[口味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_vei.md#口味)】`keu3 vei6` <sup>[如皋]</sup> 口感。  
 1. 【[口小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_xio.md#口小)】`keu3 xio3` <sup>[兴化]</sup> ① 菜比较淡。反之“口大”。 ② 牛马等牲畜年岁较小。反之“口老”。  
-1. 【[口谕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_y.md#口谕)】`keu3 y` <sup>[兴化]</sup> 婚俗：女方将生辰八字交给男方，由巫者合婚，谓之“发～”。  
+1. 【[口谕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_y.md#口谕)】`keu3 y` <sup>\[兴化\]\[泰兴\]</sup>婚俗\[兴化：女方将生辰八字交给男方，由巫者合婚，谓之“发～”。\]\[泰兴：类似订婚书的一种文书\]  
 1. 【[口子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_zz.md#口子)】`keu3 zz` <sup>[如东]</sup> ① 一个洞：灯笼上有一个～。 ② 一条裂缝：衣服上划啊一条～。  
 1. 【[口子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_zz.md#口子)】`keu3 zz` <sup>[如皋]</sup> 食物、食品的咸度：～大（咸）、～小（淡）。  
 1. 【[口子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_zz.md#口子)】`keu3 zz` <sup>[东台]</sup> ① 指人口，也特指夫妻之中的一人：两～｜我家那～。 ② 物体或皮肤破裂的地方：手臂上有个～｜堤坝～。 ③ 先例：开～。 ④ 类型相近的行政系统：政法～｜农林～｜财税～。  
+1. 【[口子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_zz.md#口子)】`keu3 zz` <sup>[泰兴]</sup> ① 身体或物体的表层破裂的地方：被小刀割咖一个口子 ② 机关单位分系统管理，这个“系统”也称为某个“口子”。  
 1. 【[叩头虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_teu_chon.md#叩头虫)】`keu5 teu2 chon2` <sup>[如东]</sup> 叩头科昆虫有沟叩头虫，体细长而略扁平。  
 1. 【[扣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu.md#扣)】`keu5` <sup>[如东]</sup> 一种烹调方法。把熟肉切好，整齐地摆在碗中，然后反扣入盘：～肉。  
 1. 【[扣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu.md#扣)】`keu5` <sup>[如皋]</sup> 肉食装盘一法，切块排列于碗中然后反扣入盘：～肉、～鸡、～鸭。  

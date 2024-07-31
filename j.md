@@ -819,7 +819,6 @@
 1. 【[鲫鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_y.md#鲫鱼)】`jieh7-jieu5 y2` <sup>[东台]</sup> 中国四大淡水鱼之一：青、白、鲤、～。东台～资源丰富，传统面点“白汤面”，就是用野生～熬汤制作而成。  
 1. 【[鲫鱼荷包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_y_hu_bo.md#鲫鱼荷包)】`jieh7-jieu5 y2 hu2 bo1` <sup>[东台]</sup> 将鲫鱼剖开，腹中包裹猪肉糜红煮而成的菜肴。  
 1. 【[𧩦愣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_len.md#𧩦愣)】`jieh7 len6` <sup>[如皋]</sup> 结巴，口吃。  
-1. 【[𧩦愣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_len.md#𧩦愣)】`jieh7 len6` <sup>[如皋]</sup> 口吃。  
 1. 【[□头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_teu.md#□头)】`jien1 teu2` <sup>[如皋]</sup> 奶水突然喷涌。如皋词典写“痉头”。  
 1. 【[京江䭣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gan_qi.md#京江䭣)】`jien1 gan1 qi2` <sup>[东台]</sup> 一种用面制成的熟食品，有甜、咸两种口味。因原产地在镇江，故名～。  
 1. 【[京江䭣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gan_qi.md#京江䭣)】`jien1 gan1 qi2` <sup>[泰县]</sup> 一种面粉制的六角形茶食。  

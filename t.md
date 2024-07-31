@@ -693,7 +693,7 @@
 1. 【[忑膘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_bio.md#忑膘)】`teh7 bio1` <sup>[如东]</sup> 牲畜膘情下降。  
 1. 【[忑暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_bo.md#忑暴)】`teh7 bo5` <sup>[如皋]</sup> 寒潮浸袭。同“掉暴”。  
 1. 【[忑绽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_chaen.md#忑绽)】`teh7 chaen6` <sup>[如皋]</sup> 线缝裂开。  
-1. 【[忑绽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_chaen.md#忑绽)】`teh7 chaen6` <sup>[兴化]</sup> 绱鞋的绳断裂，鞋帮鞋底分开：鞋子～。｜也说“掉绽”。  
+1. 【[忑绽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_chaen.md#忑绽)】`teh7 chaen6` <sup>[兴化]</sup> 绱鞋的绳断裂，鞋帮鞋底分开。也说“掉绽”：鞋子～。  
 1. 【[忑绽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_chaen.md#忑绽)】`teh7 chaen6` <sup>[泰县]</sup> ① 针线缝掉下来。 ② 说话有漏洞。  
 1. 【[忑场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_chan.md#忑场)】`teh7 chan2` <sup>[东台]</sup> 因差错或衔接不好丢了面子：那个节目没演好，真是～。  
 1. 【[忑场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_chan.md#忑场)】`teh7 chan2` <sup>[兴化]</sup> ① 误场次。 ② 演出时，动作、台词有错：他今朝在台上～，观众直喝倒彩。  

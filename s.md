@@ -732,6 +732,7 @@
 1. 【[山茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_cha.md#山茶)】`shaen1 cha2` <sup>[如东]</sup> 山茶科植物山茶，常绿灌木或小乔木。高约15米。单叶互生，革质，卵形或椭圆形，边缘具软锯齿，上面浓绿色，有光泽，下面淡绿色。花单生于叶腋或顶端，有红、白、黄等多种颜色，很美丽，是一种名贵的观赏植物。蒴果球形。种子椭圆形。栽培。通常叫茶花。  
 1. 【[山池𧒘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_chr_vae.md#山池𧒘)】`shaen1 chr2 vae1` <sup>[如皋]</sup> 一种腹大的小黑蛙，善鸣，不明种属，俗说：肚子吃咖像个～。  
 1. 【[山架](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_ga.md#山架)】`shaen1 ga5` <sup>[兴化]</sup> 商店的货架。  
+1. 【[山高水低](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_go_shuei_di.md#山高水低)】`shaen1 go1 shuei3 di1` <sup>[泰兴]</sup> 喻指意外不喜之事：若是留提辖在此，诚恐有些～，教提辖怨恨。（《水浒传》第4回）  
 1. 【[山猴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_heu_r.md#山猴<sub>儿</sub>)】`shaen1 heu2 r` <sup>[如皋]</sup> 猕猴。  
 1. 【[山药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_iah.md#山药)】`shaen1 iah8` <sup>[如东]</sup> 薯蓣科植物山药，多年生缠绕草本。块根肉质肥厚，圆柱形，长达1米，外皮灰褐色，生有须根。茎细长，蔓生，通常带紫色。叶对生或3叶轮生，叶腋间生珠芽；叶片三角状，通常三裂，两面光滑无毛。花单性，极小黄绿色，成穗状花序。蒴果。种子扁卵圆形。各地有栽培。  
 1. 【[山药果](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_iah_gu.md#山药果)】`shaen1 iah8 gu3` <sup>[如东]</sup> 薯蓣科植物山药的珠芽，药名零余子。  
@@ -754,6 +755,7 @@
 1. 【[山头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_teu.md#山头)】`shaen1 teu` <sup>[如东]</sup> 山脉的顶端。房屋山墙的上部。  
 1. 【[山头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_teu.md#山头)】`shaen1 teu2` <sup>[兴化]</sup> ① 房屋两侧的墙壁：（大厅）上有六张交椅。两～挂着四季吊屏。（《西游记》二三） ② 山墙的外边：东～就是大巷。  
 1. 【[山头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_teu.md#山头)】`shaen1 teu2` <sup>[泰县]</sup> 山墙：屋～  
+1. 【[山芋片子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_y_pin_zz.md#山芋片子)】`shaen1-xiae1 y pin5 zz` <sup>[泰兴]</sup> 亦称番芋片子。将山芋切片晒干后便于储存的山芋干。  
 1. 【[山芋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_y.md#山芋)】`shaen1 y6` <sup>[东台]</sup> 甘薯。  
 1. 【[山楂果<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_zha_gu_r.md#山楂果<sub>儿</sub>)】`shaen1 zha1 gu3 r` <sup>[如皋]</sup> 糖葫芦儿。  
 1. 【[山中无老虎——猴子称大王](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_zhon_v_lo_hv_heu_zz_chen_da_van.md#山中无老虎——猴子称大王)】`shaen1 zhon1 v2 lo3 hv3 heu2 zz chen1 da6 van2` <sup>[东台]</sup>   
@@ -1060,7 +1062,9 @@
 1. 【[上腔上调](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_qian_shan_tio.md#上腔上调)】`shan6 qian1 shan6 tio6` <sup>[泰兴]</sup> 合乎要求、规则。  
 1. 【[上𦪞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_qio.md#上𦪞)】`shan6 qio` <sup>[如东]</sup> 帆船的第12舱，老大居住的舱室。  
 1. 【[上轿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_qio.md#上轿)】`shan6 qio6` <sup>[如东]</sup> 坐轿的人上轿。  
+1. 【[上轿穿耳刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_qio_chun_er.md#上轿穿耳刀)】`shan6 qio6 chun1 er3 do` <sup>[泰兴]</sup> 新娘上轿了，还没有化妆好。喻指办事准备工作很不充分，临上场时才手忙脚乱做准备。  
 1. 【[上人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_ren.md#上人)】`shan6 ren` <sup>\[泰兴\]\[东台\]\[如东\]</sup>父母、祖父母等直系前辈，或配偶的直系前辈。与“下人”相对：孝敬～<sup>\[泰兴\]</sup>  
+1. 【[上人秀才，下人结害](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_ren_xieu_cae.md#上人秀才，下人结害)】`shan6 ren xieu5 cae xia6 ren jih7 hae` <sup>[泰兴]</sup> 结害（音），谓愚钝无知之辈。是说祖上是聪明倜傥的，而后代却是无用之辈。  
 1. 【[上人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_ren.md#上人)】`shan6 ren2` <sup>[兴化]</sup> 饭店、旅社、演艺场所等陆续有顾客、观众前来：店里正在～。  
 1. 【[上人情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_ren_qien.md#上人情)】`shan6 ren2 qien` <sup>[如东]</sup> 亲戚朋友给举办红事或丧事的人送礼、送钱，叫做上人情：侄女结婚，我要～。  
 1. 【[上色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_seh.md#上色)】`shan6 seh7` <sup>[泰兴]</sup> 染布料时染料迅速润色而不易脱落。  
@@ -1103,12 +1107,17 @@
 1. 【[上台盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_tae_pun.md#上台盘)】`shan6 tae2 pun2` <sup>[如皋]</sup> 能在正式场合公开，不遭非议。  
 1. 【[上台盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_tae_pun.md#上台盘)】`shan6 tae2 pun2` <sup>[东台]</sup> 在交际场合中有身份有分寸。  
 1. 【[上台子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_tae_zz.md#上台子)】`shan6 tae2 zz` <sup>[泰兴]</sup> 坐到桌边，多指吃饭、打牌等：他家有个规矩，伢儿不～。  
+1. 【[上代传下世，代代不脱气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_tae_chun_xia.md#上代传下世，代代不脱气)】`shan6 tae6 chun2 xia6 shr5 tae6 tae6 beh7 tuh7 qi5` <sup>[泰兴]</sup> 贬义，谓不良习惯秉性代代相传：箇个人好吃怕做，跟他家老子一样，真是～。  
 1. 【[上托](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_tah.md#上托)】`shan6 tah7` <sup>[如东]</sup> 帆船舵子明板上边的木条。  
 1. 【[上堂灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_tan_huei.md#上堂灰)】`shan6 tan2 huei1` <sup>[如皋]</sup> 积灰尘。  
+1. 【[上囤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_ten.md#上囤)】`shan6 ten6` <sup>[泰兴]</sup> 将粮食、五谷装上囤子。  
 1. 【[上头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_teu.md#上头)】`shan6 teu` <sup>[兴化]</sup> ① 上座儿：请～坐。 ② 上级：这是～交办的事，马虎不得。 ③ 指大城市：这套西装是在～买的。  
+1. 【[上头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_teu.md#上头)】`shan6 teu` <sup>[泰兴]</sup> 上级  
+1. 【[上头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_teu.md#上头)】`shan6 teu2` <sup>[泰兴]</sup> ① 旧时女子出嫁时把头发向上拢为发髻 ② 或谓被溺爱的小孩调皮为“上头”：箇个伢儿要好好调教，不能让他～。  
 1. 【[上停床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_tien_chuan.md#上停床)】`shan6 tien2 chuan2` <sup>[如东]</sup> 摆放死尸的木板，称停床。死者洗好身体，穿好衣裳，放在棺材盖或木板上，供亲友瞻仰，称上停床。  
 1. 【[上天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_tin.md#上天)】`shan6 tin1` <sup>[如东]</sup> ① 到天空中去。 ② 比喻小孩好动顽皮。  
 1. 【[上天有眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_tin_ieu_ngaen.md#上天有眼)】`shan6 tin1 ieu3 ngaen3` <sup>[如东]</sup> 比喻自有公道：你不要做黑心事，～。比喻别人能够看得清楚。  
+1. 【[上天宣好事，下界保平安](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_tin_xiun_ho.md#上天宣好事，下界保平安)】`shan6 tin1 xiun1 ho3 shr6 xia6 jiae5 bo3 pien2 un1` <sup>[泰兴]</sup> 本为灶神旁的对联，借喻向上汇报情况要多说好听的，免得上面不高兴，迁怒于基层。  
 1. 【[上田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_tin.md#上田)】`shan6 tin2` <sup>[泰兴]</sup> 犹下田，到田间干农活。  
 1. 【[上田里去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_tin_lii_qy.md#上田里去)】`shan6 tin2 lii qy5` <sup>[如皋]</sup> 到田间劳作。  
 1. 【[上条规](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_tio_guei.md#上条规)】`shan6 tio2 guei1` <sup>[如东]</sup> 上规矩：处理问题要～。  
@@ -1117,6 +1126,7 @@
 1. 【[上岸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_un.md#上岸)】`shan6 un6` <sup>[如皋]</sup> ① 从船上、水中到陆地上。 ② 喻脱离、不在其中。 ③ 庄稼离田上场。  
 1. 【[上岸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_un.md#上岸)】`shan6 un6` <sup>[如东]</sup> 从海里或河里上来。比喻结束：我俫已经～。  
 1. 【[上岸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_un.md#上岸)】`shan6 un6` <sup>[兴化]</sup> （喻）赌徒输光了所带的赌资：郭荡子～。  
+1. 【[上岸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_un.md#上岸)】`shan6 un6` <sup>[泰兴]</sup> ① 由水上、船上到岸上 ② 喻指离开是非圈儿：他只图自家～，把别人拖下水  
 1. 【[上坞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_v.md#上坞)】`shan6 v5` <sup>[如东]</sup> 船只进坞维修，叫做上坞。也叫进坞。  
 1. 【[上黄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_van_zz.md#上黄子)】`shan6 van2 zz` <sup>[如皋]</sup> 做酱时酵母菌发霉的过程。  
 1. 【[上网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_van.md#上网)】`shan6 van3` <sup>[如东]</sup> 指鱼往网上撞或往网内钻：今朝的鱼不～，所以产量低。  
@@ -1148,7 +1158,7 @@
 1. 【[上灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_zo.md#上灶)】`shan6 zo5` <sup>[如东]</sup> 炒菜或煮饭，叫做上灶。  
 1. 【[上捘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_zuen.md#上捘)】`shan6 zuen5` <sup>[如皋]</sup> 用捻、搓、绞、打加捻度。  
 1. 【[上捘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_zuen.md#上捘)】`shan6 zuen5` <sup>[如东]</sup> 将绳索旋转：给麻绳～。  
-1. 【[绱鞋子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_hae_zz.md#绱鞋子)】`shan6 hae2 zz` <sup>\[如皋\]\[东台\]\[泰兴\]</sup>将鞋、鞋底缝合制成鞋子\[如皋：并用楦子楦好的过程\]\[泰兴：旧为民间一种谋生手艺\]  
+1. 【[绱鞋子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_hae_zz.md#绱鞋子)】`shan6 hae2 zz` <sup>\[如皋\]\[东台\]\[泰兴\]</sup>将鞋、鞋底缝合制成鞋子\[如皋：并用楦子楦好\]\[泰兴：旧为民间一种谋生手艺\]  
 1. 【[绱袜底<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_vaeh_di_r.md#绱袜底<sub>儿</sub>)】`shan6 vaeh8 di3 r` <sup>[如皋]</sup> 旧时给针织袜、布袜加缝布底。  
 1. 【[失比](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_bi.md#失比)】`sheh7 bi3` <sup>[如皋]</sup> 假定、假如：他～不在家，你就先到同学家去。  
 1. 【[失贼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_ceh.md#失贼)】`sheh7 ceh8` <sup>[如东]</sup> 被窃：王小明家昨儿夜里～。  

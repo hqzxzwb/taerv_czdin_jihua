@@ -177,6 +177,7 @@
 1. 【[番茄<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_qia_r.md#番茄<sub>儿</sub>)】`faen1 qia2 r` 番茄  
 1. 【[番芋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_y.md#番芋)】`faen1 y` <sup>[如皋]</sup> 甘薯。  
 1. 【[番芋饼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_y_bien_r.md#番芋饼<sub>儿</sub>)】`faen1 y bien3 r` <sup>[如皋]</sup> 番芋和面粉做成的饼。  
+1. 【[番芋片子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_y_pin_zz.md#番芋片子)】`faen1-fae1 y pin5 zz` <sup>[泰兴]</sup> 同“山芋片子”。  
 1. 【[番芋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_y.md#番芋)】`faen1 y6` 地瓜  
 1. 【[番芋花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_y_hua.md#番芋花)】`faen1 y6 hua1` <sup>[如皋]</sup> 大丽花。  
 1. 【[翻把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_ba.md#翻把)】`faen1 ba3` <sup>[兴化]</sup> ① 被打败的一方重占上风：鬼子上次扫荡吃咖亏，心里老想下来～。 ② 对所作承诺或说过的话不认账：他前朝才打的保证，今朝就～。  
