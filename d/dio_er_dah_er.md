@@ -8,3 +8,8 @@ dio1 er6 dah7 er6
 dio1 er6 dah7 er6
 > 泰县方言志
 - 不专一，慢吞吞。
+
+# 叼二沰二的
+dio1 er6 dah7 er6 dii
+> 如皋方言词典
+- 形容吃饭不香而拖沓的样子。

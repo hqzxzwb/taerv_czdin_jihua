@@ -49,6 +49,7 @@ FILTERED_OUT_IEN = {
     '炸': {'chaeh8', 'shaeh8'},
     '秸': 'gae1',
     '合': 'guh7',
+    '歪': 'huae1',
     '核': {'hueh8', 'veh8'},
     '烘': 'hon5',
     '期': 'ji1',

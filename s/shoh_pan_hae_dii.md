@@ -1,5 +1,5 @@
 # 属螃蟹的
-shoh7 pa2 hae3 dii
+shoh7 pan2-pa2 hae3 dii
 > 如皋方言词典
 - 指横行霸道的人。
 - 指人极瘦，吃饭不长肉，见骨不见肉。
