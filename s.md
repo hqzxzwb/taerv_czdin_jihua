@@ -2304,7 +2304,7 @@
 1. 【[属猴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_heu_dii.md#属猴的)】`shoh7 heu2 dii` <sup>[如皋]</sup> 不定神，动吖不歇。  
 1. 【[属驴子年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_ly_zz_nin.md#属驴子年)】`shoh7 ly2 zz nin2` <sup>[如东]</sup> 驴子不在十二生肖之列。比喻没有，不能办到：你遇上～吖啦。  
 1. 【[属猫<sub>儿</sub>的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_mo_r_dii.md#属猫<sub>儿</sub>的)】`shoh7 mo2 r dii` <sup>[如皋]</sup> 奸狡、奸臣。  
-1. 【[属螃蟹的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_pa_hae_dii.md#属螃蟹的)】`shoh7 pa2 hae3 dii` <sup>[如皋]</sup> ① 指横行霸道的人。 ② 指人极瘦，吃饭不长肉，见骨不见肉。  
+1. 【[属螃蟹的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_pan_hae_dii.md#属螃蟹的)】`shoh7 pan2-pa2 hae3 dii` <sup>[如皋]</sup> ① 指横行霸道的人。 ② 指人极瘦，吃饭不长肉，见骨不见肉。  
 1. 【[属地鳖蛇的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_ti_bih_sha_dii.md#属地鳖蛇的)】`shoh7 ti6 bih7 sha2 dii` <sup>[如皋]</sup> 嘴勤身子懒。  
 1. 【[束腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_io.md#束腰)】`shoh7 io1` <sup>[东台]</sup> 一种女子的腰带。  
 1. 【[束手束脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_sheu_shoh_jiah.md#束手束脚)】`shoh7 sheu3 shoh7 jiah7` <sup>[东台]</sup> 捆住手脚。［喻］不能施展才干去做事。也作缩手缩脚。  

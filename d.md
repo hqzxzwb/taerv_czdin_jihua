@@ -1666,7 +1666,7 @@
 1. 【[驐牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_ngeu.md#驐牛)】`den1 ngeu2` <sup>[如东]</sup> 骟过的公牛。  
 1. 【[驐牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_ngeu.md#驐牛)】`den1 ngeu2` <sup>[如皋]</sup> 骟过的公黄牛，其行动沉稳有耐力。常喻人曰：慢～、老～。  
 1. 【[驐牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_ngeu.md#驐牛)】`den1 ngeu2` <sup>[东台]</sup> 骟去生殖器的公牛，这种牛体型高大，两角张开特别宽。  
-1. 【[驐牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_ngeu.md#驐牛)】`den1 ngeu3` <sup>[兴化]</sup> 阉割过的公牛。  
+1. 【[驐牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_ngeu.md#驐牛)】`den1 ngeu2` <sup>[兴化]</sup> 阉割过的公牛。  
 1. 【[戥秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_chen.md#戥秤)】`den3 chen5` <sup>[兴化]</sup> 衡器的通秤。谚曰：家有黄金，外有～。  
 1. 【[戥盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_pun.md#戥盘)】`den3 pun2` <sup>[如东]</sup> 台秤的一种器具，圆盘形。把物放在里面称，衡量重量。  
 1. 【[戥盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_pun.md#戥盘)】`den3 pun2` <sup>[兴化]</sup> 带盘子的杆秤。  
@@ -2314,7 +2314,7 @@
 1. 【[叼叼耷耷的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_dio_dah_dah_dii.md#叼叼耷耷的)】`dio1 dio1 dah7 dah7 dii` <sup>[如皋]</sup> 因娇惯而娇痴的样子，说话变叼。  
 1. 【[叼二沰二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_er_dah_er.md#叼二沰二)】`dio1 er6 dah7 er6` <sup>[兴化]</sup> 挑食，每餐吃很长时间：他吃零食一头劲，吃到茶饭就～的。  
 1. 【[叼二沰二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_er_dah_er.md#叼二沰二)】`dio1 er6 dah7 er6` <sup>[泰县]</sup> 不专一，慢吞吞。  
-1. 【[叼二沰二的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_er_dah_er_dii.md#叼二沰二的)】`dio1 er6 dah7 er6 dii` <sup>[如皋]</sup> 形容吃饭不香而拖沓的样子。  
+1. 【[叼二沰二的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_er_dah_er.md#叼二沰二的)】`dio1 er6 dah7 er6 dii` <sup>[如皋]</sup> 形容吃饭不香而拖沓的样子。  
 1. 【[叼皮耷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_pi_dah.md#叼皮耷)】`dio1 pi2 dah7` <sup>[兴化]</sup> 缩脚语——～舌（折）：这起生意弄个～——折咖（亏啊）。  
 1. 【[叼皮耷舌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_pi_dah_shih.md#叼皮耷舌)】`dio1 pi2 dah7 shih8` <sup>[兴化]</sup> 大舌头，说话不清楚：你～的，少说两句好。  
 1. 【[叼子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_zz.md#叼子)】`dio1 zz` <sup>[如东]</sup> 舌尖不灵活，说话不清楚。  

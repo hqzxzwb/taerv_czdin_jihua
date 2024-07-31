@@ -774,7 +774,7 @@
 1. 【[一本万利](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_ben_vaen_li.md#一本万利)】`ieh7 ben3 vaen6 li6` <sup>[泰兴]</sup> 用极少的的资本牟取最大利润，形容本轻利重。  
 1. 【[一表人才](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_bio_ren_cae.md#一表人才)】`ieh7 bio3 ren2 cae2` <sup>[泰兴]</sup> 形容容貌英俊。表，仪表。  
 1. 【[一报还一报](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_bo_huaen_ieh_bo.md#一报还一报)】`ieh7 bo5 huaen2 ieh7 bo5` <sup>[东台]</sup> 指人做了坏事终究会得到报应（佛家的因果报应思想）。  
-1. 【[一缽头糊粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_buh_teu_hv_fen.md#一缽头糊粉)】`ieh7 buh7 teu hv2 fen3` <sup>[如皋]</sup> 贬指臃肿的脸型。  
+1. 【[一钵头糊粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_buh_teu_hv_fen.md#一钵头糊粉)】`ieh7 buh7 teu hv2 fen3` <sup>[如皋]</sup> 贬指臃肿的脸型。  
 1. 【[一擦而过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_caeh_er_gu.md#一擦而过)】`ieh7 caeh7 er2 gu5` <sup>[如皋]</sup> 从旁闪过，并未停留。  
 1. 【[一层一级](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_cen_ieh_jieh.md#一层一级)】`ieh7 cen2 ieh7 jieh7` <sup>[兴化]</sup> 按程序一步一步地：他初次出去办事，我把要寻的部门、各项手续、交费等等，～的向他讲清楚。  
 1. 【[一曾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_cen.md#一曾)】`ieh7 cen2` <sup>[如皋]</sup> 一旦。  
@@ -2221,7 +2221,7 @@
 1. 【[摇头瘟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_teu_ven.md#摇头瘟)】`io2 teu2 ven1` <sup>[兴化]</sup> ① 鸭的一种传染病，在雏鸭生大毛时高发。发作时头摇动，口流涎，死亡率很高。 ② （借）嘲弄惯于提反对意见的人：他像得咖～。  
 1. 【[摇桶<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_ton_r.md#摇桶<sub>儿</sub>)】`io2 ton3 r` <sup>[如皋]</sup> 木桶式摇篮。  
 1. 【[摇网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_van.md#摇网)】`io2 van3` <sup>[如东]</sup> 一种捕鱼网具。片形，长6米，宽2米。麻线或尼龙线结成。作业时，通常把10片网或更多的网片连接起来，放在海洋里捕鱼。  
-1. 【[窑缽<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_buh_r.md#窑缽<sub>儿</sub>)】`io2 buh7 r` <sup>[如皋]</sup> 一种粗制陶碗。  
+1. 【[窑钵<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_buh_r.md#窑钵<sub>儿</sub>)】`io2 buh7 r` <sup>[如皋]</sup> 一种粗制陶碗。  
 1. 【[窑货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_hu.md#窑货)】`io2 hu5` <sup>[兴化]</sup> 多指陶器：胡家还有一条大商船，雇方小二家包做～生意。（马春阳《姐妹姻缘船迷传》）  
 1. 【[窑货店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_hu_din.md#窑货店)】`io2 hu5 din5` <sup>[如皋]</sup> 专卖陶器的商店。  
 1. 【[窑货行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_hu_han.md#窑货行)】`io2 hu5 han2` <sup>[如皋]</sup> 专卖陶器的商店。  

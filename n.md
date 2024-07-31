@@ -1182,6 +1182,7 @@
 1. 【[牛舌头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_shih_teu.md#牛舌头)】`ngeu2 shih8 teu` <sup>[如皋]</sup> 车前草。牛舌草。  
 1. 【[牛舌头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_shih_teu.md#牛舌头)】`ngeu2 shih8 teu` <sup>[如东]</sup> ① 牛的舌头。 ② 车前子。  
 1. 【[牛屎饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_shr_bien.md#牛屎饼)】`ngeu2 shr bien3` <sup>[兴化]</sup> 旧时农村将牛粪做成饼状贴在墙上，晒干作燃料：朝北的墙上，穿着麦秸装衣。南墙上，贴满了作燃料的～。（艾煊《乡关何处》）  
+1. 【[牛屎巴巴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_shr_ba_ba_r.md#牛屎巴巴<sub>儿</sub>)】`ngeu2 shr3 ba1 ba1 r, ngeu2 shr0 ba1 ba1 r` <sup>[如皋]</sup> ① 一堆牛粪。 ② 贬指旧时妇女脑后髮髻，即蟠髻。  
 1. 【[牛屎墩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_shr_den_r.md#牛屎墩<sub>儿</sub>)】`ngeu2 shr3 den1 r` <sup>[如东]</sup> 野外的牛屎堆。  
 1. 【[牛屎上栽花——又臭又香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_shr_shan_zae_hua_ieu_cheu_ieu_xian.md#牛屎上栽花——又臭又香)】`ngeu2 shr3 shan6 zae1 hua1 ieu6 cheu5 ieu6 xian1` <sup>[东台]</sup>   
 1. 【[牛𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_son.md#牛𪨊)】`ngeu2 son2` <sup>[泰县]</sup> 最固执的人。  
@@ -1217,7 +1218,6 @@
 1. 【[呕屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_shr.md#呕屎)】`ngeu3 shr3` <sup>[兴化]</sup> 骂人胡说：“你～！军婚，现役嘛！高压线嘛！要法办的！”（毕飞宇《玉米》）  
 1. 【[呕屎礓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_shr_jian.md#呕屎礓)】`ngeu3 shr3 jian3` <sup>[东台]</sup> （詈语）指胡说八道。  
 1. 【[呕𪨊礓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_son_jian.md#呕𪨊礓)】`ngeu3 son2 jian3` <sup>[东台]</sup> 与“呕屎礓”近义。  
-1. 【[牛屎巴巴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_shr_ba_ba_r.md#牛屎巴巴<sub>儿</sub>)】`ngeu3 shr3 ba1 ba1 r` <sup>[如皋]</sup> ① 一堆牛粪。 ② 贬指旧时妇女脑后髮髻，即蟠髻。  
 1. 【[藕饼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_bien_r.md#藕饼<sub>儿</sub>)】`ngeu3 bien3 r` <sup>[如皋]</sup> 用藕片夹馅蘸面浆，油炸或油焖成的饼，为中秋节食品。  
 1. 【[藕饼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_bien_r.md#藕饼<sub>儿</sub>)】`ngeu3 bien3 r` <sup>[如东]</sup> 藕切成饼儿，中间嵌肉末、姜末，外面沾上面粉糊，放在锅中炸熟，呈淡黄色，肥、脆、香，营养丰富。  
 1. 【[藕饼<sub>儿</sub>鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_bien_r_pieh_zz.md#藕饼<sub>儿</sub>鼻子)】`ngeu3 bien3 r pieh8 zz` <sup>[如皋]</sup> 趣指猪鼻孔区。  

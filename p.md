@@ -65,7 +65,6 @@
 1. 【[耙<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_r.md#耙<sub>儿</sub>)】`pa2 r` <sup>[如皋]</sup> 长柄，有八根短齿的木耙子，供梳理表层土和翻晒粮食用。  
 1. 【[耙<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_r.md#耙<sub>儿</sub>)】`pa2 r` <sup>[如皋]</sup> 八齿钉耙，铁制，有长柄。  
 1. 【[耙田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_tin.md#耙田)】`pa2 tin2` <sup>[如东]</sup> 一种耕作方法。用耙把田块整平或把土块整碎。  
-1. 【[螃蟹爪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_hae_zhua.md#螃蟹爪)】`pa2 hae3 zhua3` <sup>[如东]</sup> 方蟹科动物中华绒螯蟹爪。  
 1. 【[怕丑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_cheu.md#怕丑)】`pa5 cheu3` <sup>[如皋]</sup> ① 怕羞（但语气重）。 ② 怕出丑。  
 1. 【[怕丑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_cheu.md#怕丑)】`pa5 cheu3` <sup>[如东]</sup> 害羞：她～。  
 1. 【[怕丑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_cheu.md#怕丑)】`pa5 cheu3` <sup>[东台]</sup> 害羞。也说“怕难为情”。  
@@ -283,6 +282,7 @@
 1. 【[螃蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_hae.md#螃蟹)】`pan2 hae3` 戏称身上洗澡时擦下的污垢，同“𪣩ken5”。  
 1. 【[螃蟹壳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_hae_kah.md#螃蟹壳)】`pan2 hae3 kah7` <sup>[如东]</sup> 方蟹科动物中华绒螯蟹甲壳。  
 1. 【[螃蟹壳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_hae_kah_r.md#螃蟹壳<sub>儿</sub>)】`pan2 hae3 kah7 r` <sup>[泰县]</sup> 砖头包在外面的土墙。  
+1. 【[螃蟹爪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_hae_zhua.md#螃蟹爪)】`pan2 hae3 zhua3` <sup>[如东]</sup> 方蟹科动物中华绒螯蟹爪。  
 1. 【[鳑鲏<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_pi_r.md#鳑鲏<sub>儿</sub>)】`pan2 pi2-3 r` <sup>[泰县]</sup> 一种小鱼。  
 1. 【[髈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan.md#髈)】`pan3` <sup>[东台]</sup> 大腿：春节前他给老丈人送吖只猪蹄～。  
 1. 【[髈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan.md#髈)】`pan3` <sup>[兴化]</sup> ① 大腿：大～。 ② 作为食品的猪腿，也称“肘子”。《广韵·荡韵》匹朗切：“～，髀，吴人云～。”  

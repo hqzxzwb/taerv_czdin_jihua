@@ -1659,13 +1659,13 @@
 1. 【[歪歪理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_huae_li.md#歪歪理)】`huae1 huae1 li3` <sup>[东台]</sup> 没有理而强辩有理的话。  
 1. 【[歪嘴吹笛子——斜气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_jy_chuei_tieh_zz_qia_qi.md#歪嘴吹笛子——斜气)】`huae1 jy3 chuei1 tieh8 zz qia2 qi5` <sup>[东台]</sup>   
 1. 【[歪嘴吃毛鱼——一段一段来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_jy_qieh_mo_y_ieh_tun_ieh_tun_lae.md#歪嘴吃毛鱼——一段一段来)】`huae1 jy3 qieh7 mo2 y2 ieh7 tun6 ieh7 tun6 lae2` <sup>[东台]</sup>   
-1. 【[歪嘴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_jy_r.md#歪嘴<sub>儿</sub>)】`huae1 jy3 r` <sup>[如东]</sup> ① 嘴巴歪斜。 ② 嘴巴歪斜的人。  
 1. 【[歪嘴塌鼻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_jy_taeh_pieh.md#歪嘴塌鼻)】`huae1 jy3 taeh7 pieh8` <sup>[东台]</sup> 形容人的五官不正，难看。也称“歪嘴毛桃”。  
 1. 【[歪里斜巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_lii_qia_ba.md#歪里斜巴)】`huae1 lii qia2 ba1` <sup>[东台]</sup> 歪斜不正、看不顺眼。  
 1. 【[歪头笡脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_teu_jia_no.md#歪头笡脑)】`huae1 teu2 jia3 no3` <sup>[东台]</sup> 形容歪歪扭扭，极不整齐。  
 1. 【[歪西](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_xi.md#歪西)】`huae1 xi1` <sup>[如东]</sup> 偏西：月亮～。  
-1. 【[𠿎嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_jy.md#𠿎嘴)】`huae1 jy3` <sup>[如皋]</sup> 呶嘴以示意。  
-1. 【[𠿎嘴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_jy_r.md#𠿎嘴<sub>儿</sub>)】`huae1 jy3 r` <sup>[如皋]</sup> 口形不正。  
+1. 【[竵嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_jy.md#竵嘴)】`huae1 jy3` <sup>[如皋]</sup> 呶嘴以示意。  
+1. 【[竵嘴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_jy_r.md#竵嘴<sub>儿</sub>)】`huae1 jy3 r` <sup>[如东]</sup> ① 嘴巴歪斜。 ② 嘴巴歪斜的人。  
+1. 【[竵嘴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_jy_r.md#竵嘴<sub>儿</sub>)】`huae1 jy3 r` <sup>[如皋]</sup> 口形不正。  
 1. 【[怀春](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_chuen.md#怀春)】`huae2 chuen1` <sup>[如东]</sup> 少女爱慕异性。  
 1. 【[怀得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_deh.md#怀得)】`huae2 deh7` <sup>[东台]</sup> 形容食量大：他肚子～呢，那们多肉包都吃光吖。  
 1. 【[怀恨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_hen.md#怀恨)】`huae2 hen6` <sup>[如东]</sup> 记着过去的不满或仇恨：～在心。  
