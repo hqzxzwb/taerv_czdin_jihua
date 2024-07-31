@@ -6,5 +6,4 @@ cho6 a ien5 nga tin1
 # 召啊应吖天
 cho6 a ien5 nga tin1
 > 东台方言词典
-- 与“召啊豁掉啊”
-- 同义。
+- 与“召啊豁掉啊”同义。
