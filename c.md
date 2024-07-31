@@ -1368,7 +1368,7 @@
 1. 【[召](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho.md#召)】`cho6` <sup>[泰县]</sup> 高声喊、叫：你不要～。  
 1. 【[召啊豁掉啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_a_huh_tio_a.md#召啊豁掉啊)】`cho6 a huh7 tio a` <sup>[东台]</sup> ① 叫喊声强烈，并且反复多次：叫卖声心。 ② 形容争吵激烈：几个人意见分歧太大，碰到一起～。  
 1. 【[召啊应吖天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_a_ien_nga_tin.md#召啊应吖天)】`cho6 a ien5 nga tin1` <sup>[如皋]</sup> 叫喊、争吵之声很高，左近都能听到。  
-1. 【[召啊应吖天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_a_ien_nga_tin.md#召啊应吖天)】`cho6 a ien5 nga tin1` <sup>[东台]</sup> ① 与“召啊豁掉啊” ② 同义。  
+1. 【[召啊应吖天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_a_ien_nga_tin.md#召啊应吖天)】`cho6 a ien5 nga tin1` <sup>[东台]</sup> 与“召啊豁掉啊”同义。  
 1. 【[召啊䳞起来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_a_pon_qi_lae_a.md#召啊䳞起来啊)】`cho6 a pon6 qi lae2 a` <sup>[如皋]</sup> 大家比着叫喊，大声嚷嚷。  
 1. 【[召啊抬起来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_a_tae_qi_lae_a.md#召啊抬起来啊)】`cho6 a tae2 qi lae2 a` <sup>[如皋]</sup> 大家比着叫喊，大声嚷嚷。抬，大声。  
 1. 【[召得起来，喊得起来的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_deh_qi_lae_haen_deh_qi_lae_dii.md#召得起来，喊得起来的)】`cho6 deh7 qi3 lae haen5 deh7 qi3 lae2 dii` <sup>[如皋]</sup> 表示光明磊落，不怕遭别人闲话和非议。  
