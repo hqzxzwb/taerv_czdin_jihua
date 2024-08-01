@@ -1353,12 +1353,15 @@
 1. 【[裹奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_nae.md#裹奶)】`gu3 nae3` <sup>[兴化]</sup> 婴儿用嘴唇紧含着乳头吮吸乳汁。  
 1. 【[裹鸭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_ngaeh_zz.md#裹鸭子)】`gu3 ngaeh7 zz` <sup>[如皋]</sup> 见“裹饺儿”。  
 1. 【[裹嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_zuei.md#裹嘴)】`gu3 zuei3` <sup>[兴化]</sup> 争气，不负尊长所望：这个小伙真不～，进货的两千块捱他一夜头输得精光。  
-1. 【[个把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_ba.md#个把)】`gu5 ba` <sup>[兴化]</sup> 约数，几个：今吖来的人不多，只有～两个。｜便叫船家把船撑往西溪。不上～时辰到了，泊船在岸。（《初刻》三四）  
+1. 【[个把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_ba.md#个把)】`gu5 ba` <sup>\[兴化\]\[泰兴\]</sup>约数，很少，一个左右：今吖来的人不多，只有～两个。<sup>\[兴化\]</sup>｜便叫船家把船撑往西溪。不上～时辰到了，泊船在岸。（《初刻》三四）<sup>\[兴化\]</sup>｜今朝只有～两个人。<sup>\[泰兴\]</sup>  
 1. 【[个把两个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_ba_laen_gu.md#个把两个)】`gu5 ba laen3 gu5` <sup>[东台]</sup> 一两个：菜叶上有～斑点。  
 1. 【[个等<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_den_r.md#个等<sub>儿</sub>)】`gu5 den3 r` <sup>[兴化]</sup> 一会儿：过了～，彩云仙女回来禀报……（兴文《兴化城的传说》）  
+1. 【[个个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_gu.md#个个)】`gu5 gu5` <sup>[泰兴]</sup> 每一个。  
 1. 【[个人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_ren.md#个人)】`gu5 ren2` <sup>[东台]</sup> ① 一个人（跟“集体”相对）：～利益服从集体利益。 ② 自称，本人：～认为企业改制宜早不宜迟。  
+1. 【[个头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_teu.md#个头)】`gu5 teu` <sup>[泰兴]</sup> 个子。  
 1. 【[个着<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_zhah_r.md#个着<sub>儿</sub>)】`gu5 zhah7 r` <sup>[如皋]</sup> 人的身材，身高和壮瘦。  
 1. 【[个壮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_zhuan.md#个壮)】`gu5 zhuan5` <sup>[东台]</sup> 人的个子或物体的体量。  
+1. 【[个子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_zz.md#个子)】`gu5 zz` <sup>[泰兴]</sup> 人的身材高矮。  
 1. 【[哿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu.md#哿)】`gu5` <sup>[东台]</sup> 表示疑问：～是的？｜～好？｜～错？｜你～懂？｜你～去看戏？｜明天开会你～能参加？  
 1. 【[哿曾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_cen.md#哿曾)】`gu5 cen2` <sup>[东台]</sup> 有没有进行：你～吃？  
 1. 【[哿谈到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_taen_do.md#哿谈到)】`gu5 taen2 do5` <sup>[东台]</sup> （口头禅）意思是完全正确，还有什么疑问吗：甲说某人字写得好，乙说～，人家是著名书法家。  
@@ -1481,6 +1484,7 @@
 1. 【[个钱如个肉丁<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_qin_rv_gu_roh_dien_r.md#个钱如个肉丁<sub>儿</sub>)】`gu9 qin2 rv2 gu9 roh8 dien1 r` <sup>[东台]</sup> 形容把钱看得太重。  
 1. 【[个钱如肉丁<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_qin_rv_roh_dien_r.md#个钱如肉丁<sub>儿</sub>)】`gu9 qin2 rv2 roh8 dien1 r` <sup>[如皋]</sup> 状十分吝啬小气。  
 1. 【[个人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_ren.md#个人)】`gu9 ren2` <sup>[东台]</sup> 每人；一个人：现在发练习簿，～五本。  
+1. 【[个人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_ren.md#个人)】`gu9 ren2, gu9 ren` <sup>[泰兴]</sup> 一个人。单独的。  
 1. 【[个如个的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_rv_gu_dii.md#个如个的)】`gu9 rv2 gu9 dii` <sup>[东台]</sup> 一个个；每一个：这批苹果质量好，你看，～，光洁整齐｜听到噩耗，～吓咖痴啊。  
 1. 【[个说个观，抵到个半](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_shuh_gu_gun_di_do_gu_bun.md#个说个观，抵到个半)】`gu9 shuh7 gu9 gun1 di3 do5 gu9 bun5` <sup>[泰兴]</sup> 参见“一个烧香一个拜”。  
 1. 【[个数个的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_shv_gu_dii.md#个数个的)】`gu9 shv5 gu9 dii` <sup>[如皋]</sup> 一个一个的。“个”有变调。  
@@ -1840,7 +1844,7 @@
 1. 【[广橘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_jyeh.md#广橘)】`guan3 jyeh7` <sup>[东台]</sup> 广东产的甜橙，旧时东台除夕必备的节令水果。  
 1. 【[广口瓶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_keu_pien.md#广口瓶)】`guan3 keu3 pien2` <sup>[东台]</sup> 大口径的玻璃瓶，如罐头瓶、咖啡瓶、奶粉瓶等。  
 1. 【[广是](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_shr.md#广是)】`guan3 shr6` <sup>[如皋]</sup> 总是、老是。  
-1. 【[广种薄收](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_zhon_pah_sheu.md#广种薄收)】`guan3 zhon3 pah8 sheu1` <sup>[东台]</sup> 种植面积大，单位面积产量低。也用来喻意广泛施行，最后结果收效甚微。  
+1. 【[广种薄收](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_zhon_pah_sheu.md#广种薄收)】`guan3 zhon5 pah8 sheu1` <sup>\[东台\]\[泰兴\]</sup>种植面积大，单位面积产量低。也用来喻意广泛施行，最后结果收效甚微。  
 1. 【[桄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan.md#桄)】`guan5` <sup>[如皋]</sup> 横木：槽～/槽桶上方的对长横木。  
 1. 【[桄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan.md#桄)】`guan5` <sup>[东台]</sup> ① 床、门、车等物上的横木。 ② 绕线的器具：一～线。  
 1. 【[桄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan.md#桄)】`guan5` <sup>[兴化]</sup> 木器家具上的横木。  

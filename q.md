@@ -1469,11 +1469,14 @@
 1. 【[乾隆和啊康熙里头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_lon_hu_a_kan_xi_li_teu.md#乾隆和啊康熙里头)】`qin lon2 hu2 a kan1 xi1 li3 teu` <sup>[东台]</sup> 用两个时代的钱币，借代前后混淆。  
 1. 【[㿊心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_xien.md#㿊心)】`qin1 xien1` <sup>[如皋]</sup> 精神极为痛苦：伢儿忤逆让老人～。  
 1. 【[䌠命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_mien.md#䌠命)】`qin1 mien6` <sup>[兴化]</sup> ① 指人死前最难受的那一刻。 ② （借）苦撑局面：有头绪的全调啊走啊，就剩我在下～。｜这哪许是工作，简直在下～。䌠，《广韵·添韵》苦兼切，坚持意。  
+1. 【[千把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_ba.md#千把)】`qin1 ba` <sup>[泰兴]</sup> 约数。一千左右。  
 1. 【[千补百纳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_bv_boh_naeh.md#千补百纳)】`qin1 bv3 boh7 naeh8` <sup>[兴化]</sup> 对破旧的衣物补了又补：他这件棉衣～，看不出原来的样子。｜舟子高呼者转了风咧，急急的张起一方～的布帆。（《四杰传》四）  
 1. 【[千层糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_cen_go.md#千层糕)】`qin1 cen2 go1` <sup>[兴化]</sup> 由面粉和糖、油等蒸熟的多层糕点。  
 1. 【[千层衣抵不上一层棉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_cen_i_di_beh_shan_ieh_cen_min.md#千层衣抵不上一层棉)】`qin1 cen2 i1 di3 beh7 shan6 ieh7 cen2 min2` <sup>[东台]</sup> 冬天棉衣最抗寒。  
 1. 【[千担不伤人，一担就伤人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_daen_beh_shan_ren_ieh_daen_qieu_shan_ren.md#千担不伤人，一担就伤人)】`qin1 daen5 beh7 shan1 ren2 ieh7 daen5 qieu6 shan1 ren2` <sup>[如皋]</sup>   
 1. 【[千方百计](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_fan_boh_ji.md#千方百计)】`qin1 fan1 boh7 ji5` <sup>[如东]</sup> 想尽一切办法：～去完成任务。  
+1. 【[千根木头下江，跟排走](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_gen_moh_teu.md#千根木头下江，跟排走)】`qin1 gen1 moh8 teu2 xia6 jian1 gen1 pae2 zeu3` <sup>[泰兴]</sup> 方谚。喻跟大家一样，不搞特殊化。或喻“随大流”。  
+1. 【[千个馒头一滚汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_gu_mun_teu.md#千个馒头一滚汤)】`qin1 gu mun2 teu2 ieh7 guen3 tan1` <sup>[泰兴]</sup> 谓不管多少头绪、事情，反正都是一次性完成。  
 1. 【[千好不如一中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_ho_beh_rv_ieh_zhon.md#千好不如一中)】`qin1 ho3 beh7 rv2 ieh7 zhon5` <sup>[东台]</sup> 不管多好也抵不上被看中。这是一种片面性眼光。  
 1. 【[千好抵不上一中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_ho_di_beh_shan_ieh_zhon.md#千好抵不上一中)】`qin1 ho3 di3 beh7 shan6 ieh7 zhon5` <sup>[东台]</sup> 与“千好不如一中”意思相同。  
 1. 【[千家饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_jia_faen.md#千家饭)】`qin1 jia1 faen6` <sup>[如东]</sup> 鸟雀大便拉在人的头上，表示倒霉。为了驱逐这种晦气，当事人拿着瓢跑7个不同姓氏的人家要米然后煮饭吃以驱邪。这种饭，叫千家饭。  
@@ -1481,6 +1484,7 @@
 1. 【[千脚土](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_jiah_tv.md#千脚土)】`qin1 jiah7 tv3` <sup>[如东]</sup> 经过长期踩踏的路面泥土，有肥力，这种土称千脚土。  
 1. 【[千脚土](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_jiah_tv.md#千脚土)】`qin1 jiah7 tv3` <sup>[东台]</sup> 室内土质或砖头地面上，经过众人长久踩踏形成凹凸不平的一层泥土。20世纪五六十年代曾铲起来积肥支农。  
 1. 【[千脚土](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_jiah_tv.md#千脚土)】`qin1 jiah7 tv3` <sup>[兴化]</sup> 道路或庭院中经常受到践踏的泥土，可用来沤制有机肥料。也称“千脚泥”。  
+1. 【[千脚土](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_jiah_tv.md#千脚土)】`qin1 jiah7 tv3` <sup>[泰兴]</sup> 长期踩踏的土，可采以肥田。  
 1. 【[千斤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_jien.md#千斤)】`qin1 jien1` <sup>[如东]</sup> 千斤顶的简称。固定茅屋的一种工件，有草绳和竹篾两种。比喻责任重大：身担～。  
 1. 【[千斤顶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_jien_dien.md#千斤顶)】`qin1 jien1 dien3` <sup>[如东]</sup> 能够顶起重物的一种工具。通常使用的有液压式和螺旋式两种，在安装修理机器等工作中常用。简称千斤。  
 1. 【[千金花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_jien_hua.md#千金花)】`qin1 jien1 hua1` <sup>[如东]</sup> 菊科植物兰草花。  
@@ -1490,12 +1494,15 @@
 1. 【[千吖八百的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_nga_baeh_boh_dii.md#千吖八百的)】`qin1 nga baeh7 boh7 dii` <sup>[如皋]</sup> 约数，八百至一千。有“不在乎”的意味。  
 1. 【[千年不化之冻——老冰（兵）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_nin_beh_hua_zhr_don_lo_bien.md#千年不化之冻——老冰（兵）)】`qin1 nin2 beh7 hua5 zhr1 don5 lo3 bien1` <sup>[东台]</sup>   
 1. 【[千年的树根——老不死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_nin_dii_shv_gen_lo_beh_sz.md#千年的树根——老不死)】`qin1 nin2 dii shv6 gen1 lo3 beh7 sz3` <sup>[东台]</sup>   
+1. 【[千人百性万脾家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_ren_boh_xien.md#千人百性万脾家)】`qin1 ren2 boh7 xien5 vaen6 pi2 jia1` <sup>[泰兴]</sup> 脾家，脾气、秉性。指各人的性格脾气不尽相同。  
 1. 【[千人坑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_ren_ken.md#千人坑)】`qin1 ren2 ken1` <sup>[兴化]</sup> ① 埋死人的乱葬坑：（赵聪）饿了三日，死在牢中。拖出牢洞，抛尸在～里。（《初刻》十三） ② 旧指公厕。  
 1. 【[千日疮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_rih_chuan.md#千日疮)】`qin1 rih8 chuan1` <sup>[如皋]</sup> 疣的一种。  
 1. 【[千日红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_rih_hon.md#千日红)】`qin1 rih8 hon2` <sup>[如东]</sup> 苋科植物千日红，一年生草本。高约50厘米。茎粗壮，有毛，枝微有四棱，节部膨大，略呈紫红色。叶对生，具短柄椭圆形至倒卵形，全缘，边缘有纤毛。头状花序顶生，淡紫色深红色或白色，球形。胞果圆形。种子扃豆形。栽培。花序或全草入中药。  
 1. 【[千头柏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_teu_boh.md#千头柏)】`qin1 teu2 boh7` <sup>[如东]</sup> 柏科植物千头柏，灌木。无主干，枝条丛生。树冠广圆形。供观赏。  
 1. 【[千岁方](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_xy_fan.md#千岁方)】`qin1 xy5 fan1` <sup>[如东]</sup> 棺材的雅称。  
 1. 【[千张纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_zhan_zhr.md#千张纸)】`qin1 zhan1 zhr3` <sup>[如皋]</sup> 一千张毛丈纸。人初丧，孝子或领孝者在停灵前头烧化～。出于安全常烧化在浮于水中的铁锅内。  
+1. 【[千张纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_zhan_zhr.md#千张纸)】`qin1 zhan1 zhr3` <sup>[泰兴]</sup> 人刚死后所化的纸钱。  
+1. 【[千枝桃花一树生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_zhr_to_hua.md#千枝桃花一树生)】`qin1 zhr1 to2 hua1 ieh7 shv6 shen1` <sup>[泰兴]</sup> 喻兄弟姐妹及其子女同根同祖。常用以劝慰家庭要和睦，别闹不团结。  
 1. 【[扦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin.md#扦)】`qin1` <sup>[兴化]</sup> 插：月季花～头。兴化词典做“𢳍”，《集韵·仙韵》亲然切｜“～，插也。”同“扦”。  
 1. 【[扦扦活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_qin_huh.md#扦扦活)】`qin1 qin1 huh8` <sup>[如皋]</sup> 接骨木。忍冬科。  
 1. 【[椠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin.md#椠)】`qin1` <sup>[兴化]</sup> 削皮：～梨子皮。《集韵·盐韵》七廉切｜“～，削皮。”  

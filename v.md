@@ -785,10 +785,12 @@
 1. 【[亡灵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_lien.md#亡灵)】`van2 lien2` <sup>[如东]</sup> 人死以后的灵魂。  
 1. 【[亡人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ren.md#亡人)】`van2 ren` <sup>[兴化]</sup> 死去的人，通常指已故尊亲。  
 1. 【[亡人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ren.md#亡人)】`van2 ren2` <sup>[如东]</sup> 已死的人：已成～。  
+1. 【[亡人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ren.md#亡人)】`van2 ren2` <sup>[泰兴]</sup> 亡故的人：祖宗～  
 1. 【[亡人牌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ren_pae.md#亡人牌)】`van2 ren2 pae2` <sup>[泰县]</sup> 民间死者的牌位。  
 1. 【[亡人牌位](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ren_pae_vei.md#亡人牌位)】`van2 ren2 pae2 vei6` <sup>[东台]</sup> ① 死者的灵位。 ② （詈语）骂某个位子。  
 1. 【[亡人牌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ren_pae_zz.md#亡人牌子)】`van2 ren2 pae2 zz` <sup>[如皋]</sup> 木主，灵位牌，分内、外层，皆用毛笔蘸墨竖写身份、称谓、名讳  
 1. 【[亡人牌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ren_pae_zz.md#亡人牌子)】`van2 ren2 pae2 zz` <sup>[如东]</sup> 死者的牌位：柜上供吖～。  
+1. 【[亡人汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ren_tan.md#亡人汤)】`van2 ren2 tan1` <sup>[泰兴]</sup> 民俗。家属亲友送葬后回死者家要先喝一碗豆腐汤或糖水，称为“亡人汤”。后戏称很稀的粥“亡人汤”。  
 1. 【[忘录咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_loh_ga.md#忘录咖)】`van2 loh ga` <sup>[东台]</sup> （詈语）意思是简直像生了一场大病一样忘得干干净净。  
 1. 【[横竖横](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_sz_van.md#横竖横)】`van2 sz van2` <sup>[泰县]</sup> （吴音）豁出去：他～，要同你拼到底。  
 1. 【[王八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_baeh.md#王八)】`van2 baeh7` <sup>[如东]</sup> 乌龟。有的地方称鳖也为王八。  

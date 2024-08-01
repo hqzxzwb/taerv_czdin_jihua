@@ -727,14 +727,16 @@
 1. 【[山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen.md#山)】`shaen1` <sup>[如皋]</sup> 棺的后壁。  
 1. 【[山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen.md#山)】`shaen1` <sup>[东台]</sup> 此字在东台常指房子两侧墙壁及外面靠墙的地方：东～墙是砖混结构｜我家西～长的竹子。  
 1. 【[山板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_baen.md#山板)】`shaen1 baen3` <sup>[如皋]</sup> 嵌在梁框间的隔板。  
+1. 【[山车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_cha.md#山车)】`shaen1 cha1` <sup>[泰兴]</sup> 独轮小木车，中间隆起，曾为乡间主要农用运输工具，今已少见。  
 1. 【[山车<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_cha_r.md#山车<sub>儿</sub>)】`shaen1 cha1 r` <sup>[如皋]</sup> 见“连篷车子”。  
 1. 【[山车<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_cha_r.md#山车<sub>儿</sub>)】`shaen1 cha1 r` <sup>[如皋]</sup> 传统独轮车的一种。中间有高起的轮棚，两边装载。  
 1. 【[山茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_cha.md#山茶)】`shaen1 cha2` <sup>[如东]</sup> 山茶科植物山茶，常绿灌木或小乔木。高约15米。单叶互生，革质，卵形或椭圆形，边缘具软锯齿，上面浓绿色，有光泽，下面淡绿色。花单生于叶腋或顶端，有红、白、黄等多种颜色，很美丽，是一种名贵的观赏植物。蒴果球形。种子椭圆形。栽培。通常叫茶花。  
 1. 【[山池𧒘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_chr_vae.md#山池𧒘)】`shaen1 chr2 vae1` <sup>[如皋]</sup> 一种腹大的小黑蛙，善鸣，不明种属，俗说：肚子吃咖像个～。  
 1. 【[山架](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_ga.md#山架)】`shaen1 ga5` <sup>[兴化]</sup> 商店的货架。  
 1. 【[山高水低](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_go_shuei_di.md#山高水低)】`shaen1 go1 shuei3 di1` <sup>[泰兴]</sup> 喻指意外不喜之事：若是留提辖在此，诚恐有些～，教提辖怨恨。（《水浒传》第4回）  
+1. 【[山海经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_hae_jien.md#山海经)】`shaen1 hae3 jien1` <sup>[泰兴]</sup> 本是书名，内容很杂，主要为各种民间传说。后人们喻漫无边际的交谈为“山海经”：他佼在讲～  
 1. 【[山猴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_heu_r.md#山猴<sub>儿</sub>)】`shaen1 heu2 r` <sup>[如皋]</sup> 猕猴。  
-1. 【[山药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_iah.md#山药)】`shaen1 iah8` <sup>[如东]</sup> 薯蓣科植物山药，多年生缠绕草本。块根肉质肥厚，圆柱形，长达1米，外皮灰褐色，生有须根。茎细长，蔓生，通常带紫色。叶对生或3叶轮生，叶腋间生珠芽；叶片三角状，通常三裂，两面光滑无毛。花单性，极小黄绿色，成穗状花序。蒴果。种子扁卵圆形。各地有栽培。  
+1. 【[山药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_iah.md#山药)】`shaen1 iah8` <sup>\[如东\]\[泰兴\]</sup>对薯蓣属一些物种的称呼。\[如东：薯蓣科植物山药，多年生缠绕草本。块根肉质肥厚，圆柱形，长达1米，外皮灰褐色，生有须根。茎细长，蔓生，通常带紫色。叶对生或3叶轮生，叶腋间生珠芽；叶片三角状，通常三裂，两面光滑无毛。花单性，极小黄绿色，成穗状花序。蒴果。种子扁卵圆形。各地有栽培。\]\[泰兴：薯蓣的别名，其根茎可食，有药用价值。\]  
 1. 【[山药果](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_iah_gu.md#山药果)】`shaen1 iah8 gu3` <sup>[如东]</sup> 薯蓣科植物山药的珠芽，药名零余子。  
 1. 【[山药果子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_iah_gu_zz.md#山药果子)】`shaen1 iah8 gu3 zz` <sup>[兴化]</sup> 薯蓣的果实，形似葡萄，深灰色，含淀粉和蛋白质。  
 1. 【[山羊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_ian.md#山羊)】`shaen1 ian2` <sup>[如东]</sup> 牛科动物山羊，体长约1米。头长，颈短，耳大，吻狭长。雌雄额部皆有角一对，雄性的角特别大，尖端略向后弯，角质中空，表面有环纹或前面呈瘤状。雄者颚下有总状长须。四肢细。尾短。全体被粗直短毛，毛色白、黑、灰或黑白相杂等多种。  
@@ -745,8 +747,7 @@
 1. 【[山尖<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_jin_r.md#山尖<sub>儿</sub>)】`shaen1 jin1 r` <sup>[东台]</sup> 人字形山墙的顶端。  
 1. 【[山尖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_jin_zz.md#山尖子)】`shaen1 jin1 zz` <sup>[兴化]</sup> 人字形山墙的顶部：东边～上装吖一盏路灯。  
 1. 【[山门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_men.md#山门)】`shaen1 men2` <sup>[东台]</sup> 佛教寺院的大门。喻指工作岗位：先进～为师父。  
-1. 【[山墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_qian.md#山墙)】`shaen1 qian2` <sup>[如东]</sup> 房屋两边的墙。  
-1. 【[山墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_qian.md#山墙)】`shaen1 qian2` <sup>[东台]</sup> 人字形房顶房屋两侧的墙壁。  
+1. 【[山墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_qian.md#山墙)】`shaen1 qian2` <sup>\[如东\]\[东台\]\[泰兴\]</sup>房屋两侧的墙。因尖顶得名。  
 1. 【[山上下来的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_shan_ha_lae_dii.md#山上下来的)】`shaen1 shan ha6 lae dii` <sup>[东台]</sup> 暗指刑满释放人员：当心，那个人是从～。  
 1. 【[山上吊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_shan_dio.md#山上吊)】`shaen1 shan6 dio5` <sup>[如皋]</sup> 高空杂技。  
 1. 【[山势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_shr.md#山势)】`shaen1 shr5` <sup>[兴化]</sup> 形容人的魁梧身材：老马的～真不小。  
@@ -755,9 +756,11 @@
 1. 【[山头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_teu.md#山头)】`shaen1 teu` <sup>[如东]</sup> 山脉的顶端。房屋山墙的上部。  
 1. 【[山头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_teu.md#山头)】`shaen1 teu2` <sup>[兴化]</sup> ① 房屋两侧的墙壁：（大厅）上有六张交椅。两～挂着四季吊屏。（《西游记》二三） ② 山墙的外边：东～就是大巷。  
 1. 【[山头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_teu.md#山头)】`shaen1 teu2` <sup>[泰县]</sup> 山墙：屋～  
+1. 【[山芋干子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_y_gun_zz.md#山芋干子)】`shaen1-xiae1 y gun1 zz` <sup>[泰兴]</sup> 见“山芋片子”。  
 1. 【[山芋片子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_y_pin_zz.md#山芋片子)】`shaen1-xiae1 y pin5 zz` <sup>[泰兴]</sup> 亦称番芋片子。将山芋切片晒干后便于储存的山芋干。  
 1. 【[山芋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_y.md#山芋)】`shaen1 y6` <sup>[东台]</sup> 甘薯。  
 1. 【[山楂果<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_zha_gu_r.md#山楂果<sub>儿</sub>)】`shaen1 zha1 gu3 r` <sup>[如皋]</sup> 糖葫芦儿。  
+1. 【[山竹行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_zhoh_han.md#山竹行)】`shaen1 zhoh7 han2` <sup>[泰兴]</sup> 出售竹器、石灰等山货的商店。  
 1. 【[山中无老虎——猴子称大王](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_zhon_v_lo_hv_heu_zz_chen_da_van.md#山中无老虎——猴子称大王)】`shaen1 zhon1 v2 lo3 hv3 heu2 zz chen1 da6 van2` <sup>[东台]</sup>   
 1. 【[杉木](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_moh.md#杉木)】`shaen1 moh8` <sup>[如东]</sup> 常绿乔木，树冠的形状象塔，叶子长，披针形。花单性，果实球形。木材白色，质轻，有香味，供建筑用和制器具用  
 1. 【[舢板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_baen.md#舢板)】`shaen1 baen3` <sup>[如东]</sup> 小型船只，长方形敝口。以划橹为动力，也有以内燃机为动力的。在海洋和内河中，多数为大船上的辅助性小船。  
@@ -793,6 +796,7 @@
 1. 【[勺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shah_r.md#勺<sub>儿</sub>)】`shah8 r` <sup>[泰县]</sup> 勺子。  
 1. 【[勺子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shah_zz.md#勺子)】`shah8 zz` 大勺子  
 1. 【[勺子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shah_zz.md#勺子)】`shah8 zz` <sup>[东台]</sup> 舀汤菜的用具。  
+1. 【[勺子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shah_zz.md#勺子)】`shah8 zz` <sup>[泰兴]</sup> 舀子。盛饭的器具。  
 1. 【[𧺕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shah.md#𧺕)】`shah8` <sup>[如皋]</sup> 见“抄斜”。《如皋方言词典》中写“𧾁”。  
 1. 【[𧺕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shah.md#𧺕)】`shah8` <sup>[如皋]</sup> 抄近路：不走大街从小巷里走，一～就到。如皋词典写“𧾓”。  
 1. 【[𧺕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shah.md#𧺕)】`shah8` <sup>[东台]</sup> 不平、不正、不走正道：这人～的～咚的｜这条线～咖右边来啊。（古籍作𧾓）  
