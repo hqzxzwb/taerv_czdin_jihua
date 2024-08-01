@@ -1027,7 +1027,7 @@
 1. 【[针线匾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_xin_bin.md#针线匾)】`zhen1 xin5 bin3` <sup>[兴化]</sup> 盛放针线之类的小柳匾：“桂香！我～里，有一百铜钱，拿来送管家买酒吃”（《三刻》二六）  
 1. 【[针线匾<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_xin_bin_r.md#针线匾<sub>儿</sub>)】`zhen1 xin5 bin3 r` <sup>[如皋]</sup> 放缝纫用物的小匾子。  
 1. 【[针线匾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_xin_bin_zz.md#针线匾子)】`zhen1 xin5 bin3 zz` <sup>[如东]</sup> 圆形，藤编或竹编似簸箕，较小，存放针线等物。  
-1. 【[针线笾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_xin_bin_zz.md#针线笾子)】`zhen1 xin5 bin3 zz` <sup>[东台]</sup> 笾通匾，内装针头线脑、针箍子、针拔子、大斫针、袜楦子等，用柳藤编成。  
+1. 【[针线匾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_xin_bin_zz.md#针线匾子)】`zhen1 xin5 bin3 zz` <sup>[东台]</sup> 内装针头线脑、针箍子、针拔子、大斫针、袜楦子等，用柳藤编成。  
 1. 【[针线包<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_xin_bo_r.md#针线包<sub>儿</sub>)】`zhen1 xin5 bo1 r` <sup>[如皋]</sup> 本指装针、线、杂物的包儿，喻指鸡肾，只有一只。  
 1. 【[针线槽<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_xin_co_r.md#针线槽<sub>儿</sub>)】`zhen1 xin5 co2 r` <sup>[如皋]</sup> 针孔后的线槽。  
 1. 【[针针倒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zhen_do.md#针针倒)】`zhen1 zhen1 do5` <sup>[如皋]</sup> 缉针子。见“缉”。若第一针的针距为一分，则第二针倒回半分，如此进一退半的针法谓之～。  

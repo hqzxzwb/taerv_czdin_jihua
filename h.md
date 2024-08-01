@@ -641,12 +641,12 @@
 1. 【[䬶瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_gua.md#䬶瓜)】`hen1 gua1` <sup>[兴化]</sup> ① 摘下时间长，已发软的瓜。䬶，《集韵·恨韵》五恨切，馁也。（声母不合） ② （喻）缺乏朝气的人：～，你有事就说，怕甚的？  
 1. 【[亨𣩟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_den.md#亨𣩟)】`hen1 den1` <sup>[如皋]</sup> 极饿时或吃饱后懒洋洋的不愿动的样子：饿有～饱有恣。  
 1. 【[亨心穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_xien_qion.md#亨心穷)】`hen1 xien1 qion2` <sup>[如皋]</sup> 贪多：他太～，一下子拿啊这许多。  
-1. 【[哼吖哈的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_a_ha_dii.md#哼吖哈的)】`hen1 a ha1 dii` <sup>[东台]</sup> 形容人随口应答，漫不经心的样子。  
 1. 【[哼嗤哼嗤的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_chr_hen_chr_dii.md#哼嗤哼嗤的)】`hen1 chr1 hen1 chr1 dii` <sup>[如皋]</sup> ① 喘息声。 ② 状很吃力、费力：他一个人把一大缸～的拉到家。  
 1. 【[哼痴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_chr.md#哼痴)】`hen1 chr1` <sup>[兴化]</sup> 形容反应迟钝：他一肚子话嘴上发不出，是个～。  
 1. 【[哼歌<sub>儿</sub>浪唱的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_gu_r_lan_chan_dii.md#哼歌<sub>儿</sub>浪唱的)】`hen1 gu1 r lan6 chan5 dii` <sup>[东台]</sup> 形容有的人小曲不离口，非常开心的状态。  
 1. 【[哼哼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_hen.md#哼哼)】`hen1 hen1` <sup>[泰县]</sup> 很吃力的样子：他拎吖一桶水上楼，跑得～的。  
 1. 【[哼愣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_len.md#哼愣)】`hen1 len` <sup>[兴化]</sup> 形容性子慢：这个小伙～，急不起来。  
+1. 【[哼吖哈的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_nga_ha_dii.md#哼吖哈的)】`hen1 nga ha1 dii` <sup>[东台]</sup> 形容人随口应答，漫不经心的样子。  
 1. 【[𠛵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen.md#𠛵)】`hen1` <sup>[如东]</sup> 削：～苹果。  
 1. 【[𠛵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen.md#𠛵)】`hen1` <sup>[如皋]</sup> 慢括、轻削：雕象牙只能慢慢儿～，忙不起来｜箍桶匠的月铲——暗恨。  
 1. 【[𠛵脚刀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_jiah_do_r.md#𠛵脚刀<sub>儿</sub>)】`hen1 jiah7 do1 r` <sup>[如东]</sup> ① 一种刀具，铁制，长条形，刀口呈斜形，宽约1.5厘米左右。主要用于修理脚上的鸡眼、老茧等。 ② 比喻会刮皮的人：王二是个～。  

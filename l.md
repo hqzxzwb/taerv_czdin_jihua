@@ -906,6 +906,7 @@
 1. 【[肋条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_tio.md#肋条)】`leh8 tio2` <sup>[兴化]</sup> ① 肋骨。 ② 作为食品的带肉的猪肋骨。  
 1. 【[鳓鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_y.md#鳓鱼)】`leh8 y2` <sup>[如东]</sup> 鲱鱼科动物鳓鱼。  
 1. 【[𦟯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh.md#𦟯)】`leh8` <sup>[如皋]</sup> 鱼的精巢，白色如油，味鲜美：公鱼有～，母鱼有籽。如皋词典写“肋”。  
+1. 【[连棚车<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lei_pon_cha_r.md#连棚车<sub>儿</sub>)】`lei2 pon2 cha1 r` <sup>[如皋]</sup> 见“连篷车子”。  
 1. 【[连篷车子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lei_pon_cha_zz.md#连篷车子)】`lei2 pon2 cha1 zz` <sup>[如皋]</sup> 独轮车的一种。车轮大，高出车面，用“连篷”遮挡。连，变读。  
 1. 【[倰僜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_den.md#倰僜)】`len2 den1` <sup>[如皋]</sup> 状疲惫，懒洋洋地：“二十～，月上二更。”  
 1. 【[埨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len.md#埨)】`len2` <sup>[东台]</sup> 土垛子。（《集韵》“缕尹切，沦上声。垄土也”）：鹤落～，原台南镇（后并入梁垛镇）所在地。相传仙鹤衔梭给七仙女落于此处。  
@@ -1598,7 +1599,6 @@
 1. 【[连码](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_ma.md#连码)】`lin2 ma3` <sup>[如东]</sup> 连裆。  
 1. 【[连忙三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_man_saen.md#连忙三)】`lin2 man saen1` <sup>[兴化]</sup> 见“连二三”。  
 1. 【[连毛吞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_mo_ten.md#连毛吞)】`lin2 mo2 ten1` <sup>[东台]</sup> 囫囵吞枣的意思。包括小鱼连刺、水果连皮吃下去。  
-1. 【[连棚车<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_pon_cha_r.md#连棚车<sub>儿</sub>)】`lin2 pon2 cha1 r` <sup>[如皋]</sup> 见“山车儿”。  
 1. 【[连牵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_qin.md#连牵)】`lin2 qin1` <sup>[如东]</sup> 连续地进行下去：事情安排啊不～。  
 1. 【[连翘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_qio.md#连翘)】`lin2 qio5` <sup>[如东]</sup> 术犀科植物连翘。  
 1. 【[连深](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_shen.md#连深)】`lin2 shen1` <sup>[如皋]</sup> 伤及深部：指甲皵咖连吖深。  

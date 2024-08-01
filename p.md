@@ -822,7 +822,7 @@
 1. 【[编比子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pin_bi_zz.md#编比子)】`pin1 bi3 zz` <sup>[泰县]</sup> 就好比说：～，他家的伢儿有床子这们高。  
 1. 【[𠷨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pin.md#𠷨)】`pin1` <sup>[泰县]</sup> 吃：饭哿曾吃唃？～过啊啦。  
 1. 【[䏒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pin.md#䏒)】`pin5` <sup>[如皋]</sup> 半体。作量词：一～猪子。  
-1. 【[䏒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pin.md#䏒)】`pin5` <sup>[兴化]</sup> 牲畜腔体的一半：一～猪肉。《广韵·霰韵》普面切｜“～，半体也”。  
+1. 【[䏒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pin.md#䏒)】`pin5` <sup>[兴化]</sup> 牲畜腔体的一半：一～猪肉。  
 1. 【[片](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pin.md#片)】`pin5` <sup>[如皋]</sup> 见“𠜱”  
 1. 【[片](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pin.md#片)】`pin5` <sup>[如皋]</sup> 刀法，接近水平地向内斜切薄片。～肉、～鱼。向外为剽。  
 1. 【[片粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pin_fen.md#片粉)】`pin5 fen3` <sup>[如皋]</sup> 将砣粉浆倒入容器加热凝成的胶状薄圆粉片。  
@@ -1563,7 +1563,7 @@
 1. 【[蒲席](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_qieh.md#蒲席)】`pv2 qieh8` <sup>[如皋]</sup> 蒲叶编成的席，坐垫用。  
 1. 【[蒲席](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_qieh.md#蒲席)】`pv2 qieh8` <sup>[东台]</sup> 用香蒲叶编织的席子。  
 1. 【[蒲席](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_qieh.md#蒲席)】`pv2 qieh8` <sup>[兴化]</sup> 用蒲叶编成的可铺在床上御寒的片状物。  
-1. 【[蒲鍬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_qio.md#蒲鍬)】`pv2 qio1` <sup>[如东]</sup> 农具。铁制，锹身长，扇面呈弧形，似蒲叶。有柄。用于挖泥。  
+1. 【[蒲锹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_qio.md#蒲锹)】`pv2 qio1` <sup>[如东]</sup> 农具。铁制，锹身长，扇面呈弧形，似蒲叶。有柄。用于挖泥。  
 1. 【[蒲锹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_qio.md#蒲锹)】`pv2 qio1` <sup>[东台]</sup> 农具。像蒲叶一样长长的铁锹。也称“划锹”。  
 1. 【[蒲锹头子饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_qio_teu_zz_bien.md#蒲锹头子饼)】`pv2 qio1 teu2 zz bien3` <sup>[东台]</sup> 旧时东台夏季的一种传统面食。用剩粥自然发酵后加大麦或玉米粉调和，做成类似蒲锹形状的面饼。  
 1. 【[蒲芹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_qyen.md#蒲芹)】`pv2 qyen` 芹菜  

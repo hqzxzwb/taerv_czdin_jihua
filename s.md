@@ -728,7 +728,6 @@
 1. 【[山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen.md#山)】`shaen1` <sup>[东台]</sup> 此字在东台常指房子两侧墙壁及外面靠墙的地方：东～墙是砖混结构｜我家西～长的竹子。  
 1. 【[山板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_baen.md#山板)】`shaen1 baen3` <sup>[如皋]</sup> 嵌在梁框间的隔板。  
 1. 【[山车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_cha.md#山车)】`shaen1 cha1` <sup>[泰兴]</sup> 独轮小木车，中间隆起，曾为乡间主要农用运输工具，今已少见。  
-1. 【[山车<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_cha_r.md#山车<sub>儿</sub>)】`shaen1 cha1 r` <sup>[如皋]</sup> 见“连篷车子”。  
 1. 【[山车<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_cha_r.md#山车<sub>儿</sub>)】`shaen1 cha1 r` <sup>[如皋]</sup> 传统独轮车的一种。中间有高起的轮棚，两边装载。  
 1. 【[山茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_cha.md#山茶)】`shaen1 cha2` <sup>[如东]</sup> 山茶科植物山茶，常绿灌木或小乔木。高约15米。单叶互生，革质，卵形或椭圆形，边缘具软锯齿，上面浓绿色，有光泽，下面淡绿色。花单生于叶腋或顶端，有红、白、黄等多种颜色，很美丽，是一种名贵的观赏植物。蒴果球形。种子椭圆形。栽培。通常叫茶花。  
 1. 【[山池𧒘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_chr_vae.md#山池𧒘)】`shaen1 chr2 vae1` <sup>[如皋]</sup> 一种腹大的小黑蛙，善鸣，不明种属，俗说：肚子吃咖像个～。  
