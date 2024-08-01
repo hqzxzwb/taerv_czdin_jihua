@@ -71,8 +71,8 @@
 1. 【[无底的口袋——装风（疯）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_di_dii_keu_tae_zhuan_fon.md#无底的口袋——装风（疯）)】`v2 di3 dii keu3 tae6 zhuan1 fon1` <sup>[东台]</sup>   
 1. 【[无底洞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_di_ton.md#无底洞)】`v2 di3 ton6` <sup>[如东]</sup> 永远填不满的洞：那是一个～。  
 1. 【[无尔八怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_er_baeh_guae.md#无尔八怪)】`v2 er baeh7 guae5` <sup>[如东]</sup> 不正经，不上规矩：做的都是一些～的事情。  
-1. 【[无尔鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_er_guei.md#无尔鬼)】`v2 er guei3` <sup>[如东]</sup> 不正经的人：那是一些～。  
 1. 【[无而不鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_er_beh_guei.md#无而不鬼)】`v2 er beh7 guei3` <sup>[兴化]</sup> 游手好闲，品行不端的人：这个小伙结交一班～的人，成天在外头鬼混。也作“无而鬼”。“无而不”又是“鬼”的隐语。  
+1. 【[无而鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_er_guei.md#无而鬼)】`v2 er guei3` <sup>[如东]</sup> 不正经的人：那是一些～。  
 1. 【[无而鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_er_guei.md#无而鬼)】`v2 er guei3` <sup>[兴化]</sup> 见“无而不鬼”。  
 1. 【[无而八拐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_er_baeh_guae.md#无而八拐)】`v2 er2 baeh7 guae3` <sup>[东台]</sup> 同“芜而不轨”。  
 1. 【[无而八怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_er_baeh_guae.md#无而八怪)】`v2 er2 baeh7 guae5` <sup>[泰县]</sup> 不正经、不上规矩：你不要～的。  
