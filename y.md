@@ -67,8 +67,6 @@
 1. 【[鱼卡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_ka.md#鱼卡)】`y2 ka3` <sup>[泰县]</sup> 鱼刺。  
 1. 【[鱼𦟯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_leh.md#鱼𦟯)】`y2 leh8` <sup>[如皋]</sup> 鱼的精囊，似白油，与鱼一起煮食，味鲜嫩。  
 1. 【[鱼鳞云](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_lien_yen.md#鱼鳞云)】`y2 lien2 yen2` <sup>[如皋]</sup> 高空云景之一，大片若鱼鳞排列的云。  
-1. 【[鱼鸦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_nga.md#鱼鸦)】`y2 nga1` 鸬鹚  
-1. 【[鱼鸦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_nga.md#鱼鸦)】`y2 nga1` <sup>[如皋]</sup> 即鸬鹚。  
 1. 【[鱼鸦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_nga.md#鱼鸦)】`y2 nga1` <sup>[如皋]</sup> 鸬鹚。  
 1. 【[鱼鸦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_nga.md#鱼鸦)】`y2 nga1` <sup>[如东]</sup> 鸬鹚科动物鸬鹚，也称鹗、鱼鹰。体长约60厘米。嘴狭长呈圆锥形上嘴两侧有钩尖端有钩，下嘴有小蘷。上嘴黑褐，上嘴边缘和下嘴灰白，具砖红色斑。虹膜翠绿色。眼橄榄色；眼下橙黄色。嘴下具喉囊，有许多鲜黄色斑点捕获的鱼就放在囊内。体羽主要为黑色而带紫色金属光泽。生殖期间，胁下有一白色块斑。头后部有一不明显的羽冠。脚黑色4趾向前，具蹼及锐爪。栖息在河泊、沼泽及海滨，善潜水捕食鱼类。  
 1. 【[鱼鸦骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_nga_gueh.md#鱼鸦骨)】`y2 nga1 gueh7` <sup>[如东]</sup> 鸬鹚科动物鸬鹚骨。  
