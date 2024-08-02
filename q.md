@@ -1807,7 +1807,6 @@
 1. 【[翘翅麻鸭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_zhr_ma_ngaeh.md#翘翅麻鸭)】`qio5 zhr5 ma2 ngaeh7` <sup>[如东]</sup> 鸭科动物麻鸭，体长约60厘米。嘴形奇异，前端弯曲，嘴甲狭小。雄鸟嘴基有一冠状赤包突起。头顶上额黑色，闪绿光；下额及上胸纯白，形成环状。嘴由紫色过渡到血红色。腿和脚血红。行动似雁，常单个活动。以草籽和软体动物为主食。  
 1. 【[翘翅<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_zhr_r.md#翘翅<sub>儿</sub>)】`qio5 zhr5 r` <sup>[如皋]</sup> 羽毛未全，却有几根大羽翘在背上的小雄鸡。  
 1. 【[翘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_zz.md#翘子)】`qio5 zz` <sup>[如皋]</sup> 旧时掼小麦、水稻（脱粒）用以捆住草秸的用具。一根绳，两端有木签。  
-1. 【[𥀣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#𥀣)】`qio5` <sup>[如皋]</sup> 粘物不熨贴曰～起。  
 1. 【[𥀣皮<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_pi_r.md#𥀣皮<sub>儿</sub>)】`qio5 pi2 r` <sup>[如皋]</sup> 皮层有小片脱落，先有～。  
 1. 【[轿班](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_baen.md#轿班)】`qio6 baen1` <sup>[如皋]</sup> 抬轿子的一班人。  
 1. 【[轿上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_shan.md#轿上)】`qio6 shan6` <sup>[如皋]</sup> 礼称轿夫、轿行中的人。  

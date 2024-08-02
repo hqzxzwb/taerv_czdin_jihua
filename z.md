@@ -2693,6 +2693,7 @@
 1. 【[子檐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_in.md#子檐)】`zz3 in2` <sup>[如皋]</sup> 向外延伸而叠接的术椽屋檐，殿堂可常见到。  
 1. 【[子口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_keu.md#子口)】`zz3 keu3` <sup>[如东]</sup> 帆船穿口上边的木条。  
 1. 【[子口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_keu.md#子口)】`zz3 keu3` <sup>[兴化]</sup> ① 木箱、木匣及其他容器边沿与盖子的咬合处。 ② 两扇门或窗相吻合的部分：（展昭）到了北头，见开门处是一个～风窗。（《三侠五义》五三）  
+1. 【[子口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_keu.md#子口)】`zz3 keu3` <sup>[泰兴]</sup> 木匠用语。瓶、箱、匣等器物上跟盖相密合的部分。  
 1. 【[子梁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_lian.md#子梁)】`zz3 lian2` <sup>[如东]</sup> 正梁下边的一根小梁。  
 1. 【[子舅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_qieu.md#子舅)】`zz3 qieu6` <sup>[如皋]</sup> 即姻兄弟。称姊妹的丈夫为子，缘于“子婿”。姊妹的兄弟为舅，缘于“舅氏”。  
 1. 【[子舅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_qieu.md#子舅)】`zz3 qieu6` <sup>[如东]</sup> 姐（妹）夫与姐妹的兄弟之间的亲戚关系：他俫是～两个。  

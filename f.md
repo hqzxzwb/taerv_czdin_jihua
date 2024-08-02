@@ -583,6 +583,7 @@
 1. 【[飞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei.md#飞)】`fei1` <sup>[东台]</sup> 除一般释义外，特指孩子撒娇、调皮：这小伙有点儿～。  
 1. 【[飞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei.md#飞)】`fei1` <sup>[兴化]</sup> ① 非常：～开；～滚。 ② 飘起：头发～啊头上。  
 1. 【[飞不起、跳不高](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_beh_qi_tio_beh_go.md#飞不起、跳不高)】`fei1 beh7 qi3 tio5 beh7 go1` <sup>[兴化]</sup> ① 处于困境：小春住进医院，像小鸟关在笼里，～。（马春阳《两个小社员》） ② 行动缓慢：……你们府上这一位千金小姐……飞也飞不起，跳也跳不高，别人两步走的路他要分作三步走……（《广陵潮》二四）  
+1. 【[飞不起，跳不高](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_beh_qi_tio_beh_go.md#飞不起，跳不高)】`fei1 beh7 qi3 tio5 beh7 go1` <sup>[泰兴]</sup> 谓处于贫穷、落后的状态，无力振作有为。  
 1. 【[飞边子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_bin_zz.md#飞边子)】`fei1 bin1 zz` <sup>[兴化]</sup> 物体边沿大出主体部分：～走鞋；～大碗。  
 1. 【[飞飞啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_fei_a.md#飞飞啊)】`fei1 fei1 a` <sup>[东台]</sup> 多指女孩子行为不拘，性格开放，无拘束。  
 1. 【[飞飞𢜶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_fei_so.md#飞飞𢜶)】`fei1 fei1 so5` <sup>[东台]</sup> 飞快：些同学总交关热情，听说哪个需要帮忙，都跑得～。  

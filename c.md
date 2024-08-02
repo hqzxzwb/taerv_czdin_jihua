@@ -254,6 +254,8 @@
 1. 【[叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha.md#叉)】`cha1` <sup>[兴化]</sup> ① 架住人的腋部往外推：把他～出去。 ② 指出别人言语中的错误：他七说八说的，捱人家～住啊。 ③ 大块的夹菜：一碗菜上来背不住他几一～。 ④ 用筷子把面条从锅里夹到碗里，或把面条挑进口中：～面。  
 1. 【[叉话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_hua.md#叉话)】`cha1 hua6` <sup>[兴化]</sup> 插嘴：我俫说周正事，你不要～。  
 1. 【[叉鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ji.md#叉鸡)】`cha1 ji1` <sup>[兴化]</sup> 偷鸡：哪块来的“桃子”？这是～的给鸡起的别名。～，……叫做“崩桃子”。（扬二《时迁偷鸡》）  
+1. 【[叉鸡贼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ji_ceh.md#叉鸡贼)】`cha1 ji1 ceh8` <sup>[泰兴]</sup> 小偷；专门偷鸡的贼。也有人称“叉鸡”，骂人语。  
+1. 【[叉鸡鹱子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ji_vah_zz.md#叉鸡鹱子)】`cha1 ji1 vah7 zz` <sup>[泰兴]</sup> 鹞鹰。能从空中俯冲下来啄食体小动物。  
 1. 【[叉老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_lo.md#叉老)】`cha1 lo3` <sup>[泰县]</sup> 扯铃（空竹）。  
 1. 【[叉翁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_on_zz.md#叉翁子)】`cha1 on1 zz` <sup>[泰县]</sup> 扯铃，空竹。  
 1. 【[叉被单](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_pi_daen.md#叉被单)】`cha1 pi6 daen1` <sup>[如皋]</sup> 蹬开被子。  
@@ -526,9 +528,11 @@
 1. 【[岔头官司](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_teu_gun_sz.md#岔头官司)】`cha5 teu2 gun1 sz1` <sup>[泰县]</sup> 纠缠枝节问题：谈正经事，不能打～。  
 1. 【[岔心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_xien.md#岔心)】`cha5 xien1` <sup>[泰县]</sup> 分散注意力。  
 1. 【[岔枝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_zhr.md#岔枝)】`cha5 zhr1` <sup>[如东]</sup> ① 分枝。 ② 比喻由一个问题引申出另一个问题：王明一来就出咖～。  
+1. 【[岔枝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_zhr.md#岔枝)】`cha5 zhr1` <sup>[泰兴方言辞典 ]</sup> 谓节外生枝。  
 1. 【[岔枝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_zhr_r.md#岔枝<sub>儿</sub>)】`cha5 zhr1 r` <sup>[如皋]</sup> 长出的分枝。  
 1. 【[岔枝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_zhr_r.md#岔枝<sub>儿</sub>)】`cha5 zhr1 r` <sup>[兴化]</sup> ① 树木的分枝：打～。 ② （喻）节外生枝：合作的条款谈得好好的，想不到又生～。  
 1. 【[岔嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_zuei.md#岔嘴)】`cha5 zuei3, cha5 jy3` <sup>[如东]</sup> 插话：他说话，你不要～。  
+1. 【[岔嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_zuei.md#岔嘴)】`cha5 zuei3` <sup>[泰兴]</sup> 插话，多嘴。  
 1. 【[岔子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_zz.md#岔子)】`cha5 zz` <sup>[东台]</sup> 意外事故：路上出咖～，耽误啊半天时间。  
 1. 【[杈巴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ba_r.md#杈巴<sub>儿</sub>)】`cha5 ba3 r` <sup>[东台]</sup> 植物的分枝。  
 1. 【[茬口布局](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_keu_bv_qioh.md#茬口布局)】`cha5 keu3 bv5 qioh8` <sup>[东台]</sup> 对农业种植计划的安排。  

@@ -1209,6 +1209,7 @@
 1. 【[工人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_ren.md#工人)】`gon1 ren2` <sup>[如东]</sup> 个人不占有生产资料、依靠工资收入为生的劳动者（多指体力劳动者）。  
 1. 【[工资](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_zz.md#工资)】`gon1 zz1` <sup>[如东]</sup> 作为劳动报酬按期付给劳动者的货币或实物。  
 1. 【[弓尺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_cheh.md#弓尺)】`gon1 cheh7` <sup>[如东]</sup> 丈量土地的工具。也称步弓。木制，弧形，两足向外张开，上端有一抓手。宽度五尺。  
+1. 【[弓腰驼背](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_io_tu_bei.md#弓腰驼背)】`gon1 io1 tu2 bei5` <sup>[泰兴]</sup> 弓着腰，驼着背，仪表不美：箇个～的样子，真难看。  
 1. 【[恭桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_ton.md#恭桶)】`gon1 ton3` <sup>[如东]</sup> 马桶。也叫便桶。  
 1. 【[恭桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_ton.md#恭桶)】`gon1 ton3` <sup>[东台]</sup> 马桶的别称。  
 1. 【[恭维不暇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_vei_beh_xia.md#恭维不暇)】`gon1 vei2 beh7 xia2` <sup>[东台]</sup> 无休止地奉承、讨好，或关心、爱护：他对客商～。  

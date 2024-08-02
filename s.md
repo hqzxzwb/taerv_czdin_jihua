@@ -290,7 +290,7 @@
 1. 【[三文不值二文](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_ven_beh_cheh_er_ven.md#三文不值二文)】`saen1 ven2 beh7 cheh8 er6 ven2` <sup>[泰兴]</sup> 谓某物品不值钱：箇些过啊时的家具～，卖不到多少钱。  
 1. 【[三文不值三文](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_ven_beh_cheh_saen_ven.md#三文不值三文)】`saen1 ven2 beh7 cheh8 saen1 ven2` <sup>[兴化]</sup> 指旧货、二手货掉价：旧电脑自己用用算吖，卖起来～的。  
 1. 【[三喜腊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_xi_laeh_zz.md#三喜腊子)】`saen1 xi3 laeh8 zz` <sup>[泰县]</sup> 灰喜鹊。  
-1. 【[三下河东](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_xia_hu_don.md#三下河东)】`saen1 xia hu2 don1` <sup>[泰县]</sup> 混合：把这些剩莱～的热下子。  
+1. 【[三下河东](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_xia_hu_don.md#三下河东)】`saen1 xia hu2 don1` <sup>[泰县]</sup> 混合：把这些剩菜～的热下子。  
 1. 【[三下五除二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_xia_v_chv_er.md#三下五除二)】`saen1 xia6 v3 chv2 er6` <sup>\[如皋\]\[东台\]\[泰兴\]</sup>源于珠算的口诀。状处事快而干脆、有决断。或动作敏捷利索：小马一上任，～，就把问题解决掉啊。<sup>\[泰兴\]</sup>  
 1. 【[三夏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_xia.md#三夏)】`saen1 xia6` <sup>[如东]</sup> 农业生产方面的夏收、夏种、夏管，称三夏：要抓好～。  
 1. 【[三夏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_xia.md#三夏)】`saen1 xia6` <sup>[东台]</sup> 夏收、夏种和夏管的统称。  

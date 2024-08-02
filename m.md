@@ -907,6 +907,7 @@
 1. 【[门板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_baen.md#门板)】`men2 baen3` <sup>[如东]</sup> 门的面板。  
 1. 【[门帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_ban.md#门帮)】`men2 ban1` <sup>[如东]</sup> 门板两边的竖粱，起固定门板的作用。也叫门边丝。  
 1. 【[门塴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_bon_r.md#门塴<sub>儿</sub>)】`men2 bon5 r` <sup>[如皋]</sup> 门扇与墙相夹处。  
+1. 【[门族](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_coh.md#门族)】`men2 coh8` <sup>[泰兴]</sup> 宗族，家族。  
 1. 【[门搭扣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_daeh_keu_r.md#门搭扣<sub>儿</sub>)】`men2 daeh7 keu1 r` <sup>[如皋]</sup> 见“门搭子”。  
 1. 【[门搭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_daeh_zz.md#门搭子)】`men2 daeh7 zz` <sup>[如皋]</sup> 钌铞儿。  
 1. 【[门搭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_daeh_zz.md#门搭子)】`men2 daeh7 zz` <sup>[东台]</sup> 联结两扇木门的铁扣搭。  
@@ -921,12 +922,15 @@
 1. 【[门份礼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_fen_li_r.md#门份礼<sub>儿</sub>)】`men2 fen6 li3 r` <sup>[东台]</sup> 经统一分配明确的各自待遇或责任：各人把自己的～拿走，并负责送到位。  
 1. 【[门福寿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_foh_sheu.md#门福寿)】`men2 foh7 sheu6` <sup>[如皋]</sup> 门额：门楣上部加装的横木，横批常用“福寿”字样。（与门搭子相配的一只有环的钉子，钉于门的右扇外面，使环呈上下通孔。）  
 1. 【[门伏手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_foh_sheu.md#门伏手)】`men2 foh8 sheu3` <sup>[如东]</sup> 装在门柲上的竖木条，中间有孔，可以穿门闩，把门关死。  
+1. 【[门风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_fon.md#门风)】`men2 fon1` <sup>[泰兴]</sup> 指家风。旧指一家或一族世代相传的道德准则和处世方法。  
 1. 【[门风低](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_fon_di.md#门风低)】`men2 fon1 di1` <sup>[东台]</sup> ① 指人出身低贱卑微。 ② 指家风差，缺少教养。  
-1. 【[门缝里看人——把人看扁吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_fon_lii_kun_ren_ba_ren_kun_bin_nga.md#门缝里看人——把人看扁吖)】`men2 fon6 lii kun5 ren2 ba3 ren2 kun5 bin3 nga` <sup>[东台]</sup>   
+1. 【[门缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_fon.md#门缝)】`men2 fon6` <sup>[泰兴]</sup> 门扇之间的缝隙。  
+1. 【[门缝里看人——把人看扁吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_fon_lii_kun_ren_ba_ren_kun_bin_nga.md#门缝里看人——把人看扁吖)】`men2 fon6 lii kun5 ren2 ba3 ren2 kun5 bin3 nga` <sup>\[东台\]\[泰兴\]\[如东\]</sup>轻视人  
 1. 【[门缝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_fon_r.md#门缝<sub>儿</sub>)】`men2 fon6 r` <sup>[如东]</sup> ① 门与门之间的缝隙。 ② 比喻狭小：～里看人，把人看扁了。  
 1. 【[门杠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_gan.md#门杠)】`men2 gan5` <sup>[如东]</sup> 木棍或铁棍，穿在门镣中，可以把门杠死。  
 1. 【[门杠子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_gan_zz.md#门杠子)】`men2 gan5 zz` <sup>[如皋]</sup> 关门后两端插在门户框中段后边环里的横木，起加固作用。  
 1. 【[门杠子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_gan_zz.md#门杠子)】`men2 gan5 zz` <sup>[东台]</sup> 横在两扇木门后的粗木棍，使门从外面推不开。  
+1. 【[门馆先生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_gun_xin_shen.md#门馆先生)】`men2 gun xin1 shen` <sup>[泰兴]</sup> 私塾老师。亦指账房先生。  
 1. 【[门户](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_hv.md#门户)】`men2 hv6` <sup>[如东]</sup> ① 房屋的出入处。 ② 比喻家庭：支撑～。  
 1. 【[门衙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_ia.md#门衙)】`men2 ia2` <sup>[如皋]</sup> 按序应当值班，分担差事、任务：这个是你的～；轮到你的～。“衙门”的倒序词。  
 1. 【[门样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_ian.md#门样)】`men2 ian6` <sup>[如东]</sup> 机会，位置：今朝没得你的～。  
@@ -936,6 +940,7 @@
 1. 【[门槛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_kaen.md#门槛)】`men2 kaen3` <sup>[如东]</sup> ① 户槛。 ② 比喻窍门：～精。  
 1. 【[门槛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_kaen.md#门槛)】`men2 kaen3` <sup>[东台]</sup> ① 门框下的横木。 ② ［喻］指进入某范围的条件：适当降低～，广招人才。 ③ ［喻］窍门、办法：他～精，不会被人骗。  
 1. 【[门槛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_kaen.md#门槛)】`men2 kaen3` <sup>[兴化]</sup> ① （借）门第：“只要你们不嫌我家～低，我倒愿意……”（马春阳：《月朗和她的娘舅们》） ② 窍门、门路：他下海几年，～混精吖。 ③ 条件：你把～放低点儿，前来应聘的人就多啊。  
+1. 【[门槛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_kaen.md#门槛)】`men2 kaen3` <sup>[泰兴]</sup> 又称“午槛”。大门之下横木。引申门户、门第。  
 1. 【[门扣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_keu_r.md#门扣<sub>儿</sub>)】`men2 keu1 r` <sup>[如东]</sup> 装在门帮上的圆环，铜制或铁制，可以扣门或锁门。  
 1. 【[门口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_keu.md#门口)】`men2 keu3` 门口  
 1. 【[门口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_keu.md#门口)】`men2 keu3` <sup>[如东]</sup> 门的外边：他站吖在～。  
@@ -950,6 +955,7 @@
 1. 【[门脸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_lin_r.md#门脸<sub>儿</sub>)】`men2 lin3 r` <sup>[如皋]</sup> 无门堂的大门向外的结构形状。  
 1. 【[门栊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_lon.md#门栊)】`men2 lon2` <sup>[如东]</sup> 安装在门楣上、套住上门梃的横木板。  
 1. 【[门笼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_lon.md#门笼)】`men2 lon2` <sup>[泰兴]</sup> 门楣两端安门轴处。  
+1. 【[门路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_lv.md#门路)】`men2 lv` <sup>[泰兴]</sup> 途径，方法、窍门。特指能达到个人目的的途径。  
 1. 【[门路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_lv.md#门路)】`men2 lv6` <sup>[如东]</sup> 比喻办法：～多。  
 1. 【[门路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_lv.md#门路)】`men2 lv6` <sup>[东台]</sup> 办事的诀窍、途径。  
 1. 【[门楣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_mi.md#门楣)】`men2 mi2` <sup>[如东]</sup> 门框上端的横木。  
@@ -982,6 +988,7 @@
 1. 【[门荡使用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_tan_shr_ion.md#门荡使用)】`men2 tan6 shr3 ion6` <sup>[如东]</sup> 用于亲戚朋友的开支：现在的～不小。  
 1. 【[门荡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_tan_zz.md#门荡子)】`men2 tan6 zz` <sup>[如东]</sup> 安装大门的位置，包括高与宽。  
 1. 【[门头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_teu_zz.md#门头子)】`men2 teu2 zz` <sup>[兴化]</sup> 大门里的通道，又称“门楼子”。（借）门第、身份：人家是走大～里出来的。  
+1. 【[门第](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_ti.md#门第)】`men2 ti` <sup>[泰兴]</sup> 旧指社会上的家庭地位等级、文化层次等方面。乡人也称有狐臭者家庭为“门第不好”。  
 1. 【[门莛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_tien.md#门莛)】`men2 tien2` <sup>[如东]</sup> 门帮两头的延伸部分，支撑门旋转。上端叫上门莛，下端叫下门莛。也称户枢、门轴、转莛、转肘。  
 1. 【[门条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_tio.md#门条)】`men2 tio2` <sup>[如皋]</sup> 缝纫术语之一：前襟钉钮处的底衬。  
 1. 【[门道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_to.md#门道)】`men2 to6` <sup>[如东]</sup> ① 门的通道。 ② 比喻办法：他有～，可以成功。  
@@ -995,6 +1002,7 @@
 1. 【[门户框](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_v_kuan.md#门户框)】`men2 v6 kuan1` <sup>[如皋]</sup> 门框之两边的竖框。  
 1. 【[门外汉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_vae_hun.md#门外汉)】`men2 vae6 hun5` <sup>[如东]</sup> 站在门外的人。比喻对某种事情尚未入门的人：对于跳舞，我是～。  
 1. 【[门外汉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_vae_hun.md#门外汉)】`men2 vae6 hun5` <sup>[泰兴]</sup> 外行人：提到书法，我是个～，一点都不懂。  
+1. 【[门椳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_vei_zz.md#门椳子)】`men2 vei1 zz` <sup>[泰兴]</sup> 也称“门窝子”。门下限转轴所就之臼。  
 1. 【[门卫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_vei.md#门卫)】`men2 vei6` <sup>[如东]</sup> 机关或企事业单位负责安全的守门人。  
 1. 【[门肘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_zheu_zz.md#门肘子)】`men2 zheu3 zz` <sup>[兴化]</sup> 日式门的轴，上下安在门窝中。  
 1. 【[门转𨳻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_zhun_ji_r.md#门转𨳻<sub>儿</sub>)】`men2 zhun5 ji r` <sup>[如皋]</sup> 门与门窝相配的上下轴头。  

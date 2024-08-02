@@ -314,29 +314,35 @@
 1. 【[吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga.md#吖)】`nga` 助词“啊a”在阳声韵后的变体，见“啊a”：醒吖（醒了）｜动吖（动了）。  
 1. 【[吖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#吖子)】`nga zz` 同“下子”，跟在阳声韵之后：望吖子；尝吖子。  
 1. 【[吖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#吖子)】`nga zz` 相当于“下子”，接在阳声韵之后：身子晃～。  
-1. 【[丫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga.md#丫)】`nga1` 量词，瓣，用于数切开的西瓜、橘子等。也说“枒nga6”：一～西瓜｜一～橘子  
+1. 【[丫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga.md#丫)】`nga1` <sup>[泰兴]</sup> 树木或物体分叉的地方。如“树丫巴”。  
 1. 【[丫把<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_ba_r.md#丫把<sub>儿</sub>)】`nga1 ba3 r` <sup>[泰县]</sup> 东西交叉的地方。  
 1. 【[丫叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_cha.md#丫叉)】`nga1 cha` <sup>[如东]</sup> 工具，一端有两个齿，一端有一长柄。用来叉草。  
 1. 【[丫叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_cha.md#丫叉)】`nga1 cha1` <sup>[兴化]</sup> 一种日用工具，在细竹竿或金属杆头安有叉子，用来将悬挂物叉下。丫，《集韵·麻韵》于加切：物之岐头者。  
+1. 【[丫叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_cha.md#丫叉)】`nga1 cha1` <sup>[泰县]</sup> ① 树叉。 ② 晒衣用的工具。  
+1. 【[丫叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_cha.md#丫叉)】`nga1 cha1` <sup>[泰兴]</sup> ① 状如丫形：～小鬼 ② 枝丫  
+1. 【[丫叉萝卜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_cha_lu_poh.md#丫叉萝卜)】`nga1 cha1 lu2 poh` <sup>[泰兴]</sup> 长叉的夢卜。  
 1. 【[丫叉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_cha_r.md#丫叉<sub>儿</sub>)】`nga1 cha1 r` <sup>[如皋]</sup> 上端分叉的棒，用以挂、取高处的物件。现为人工制作。  
-1. 【[丫杈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_cha.md#丫杈)】`nga1 cha1` <sup>[泰县]</sup> ① 树叉。 ② 晒衣用的工具。  
+1. 【[丫叉小鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_cha_xio_guei.md#丫叉小鬼)】`nga1 cha1 xio3 guei3` <sup>[泰兴]</sup> 小鬼。传说小鬼头上长叉。  
+1. 【[丫丫叉叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_nga_cha_cha.md#丫丫叉叉)】`nga1 nga1 cha1 cha1` <sup>[泰兴]</sup> 杂乱交叉的样子。  
 1. 【[丫求](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_qieu.md#丫求)】`nga1 qieu2` <sup>[泰县]</sup> 巴结。  
 1. 【[丫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_r.md#丫<sub>儿</sub>)】`nga1 r` <sup>[如皋]</sup> ① 相当于几分之几：三～肚里两～。 ② 瓣：橘子～。 ③ 身体上某些相夹的结合处：嘴～、手～、脚～、耳头～。  
 1. 【[丫头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_teu.md#丫头)】`nga1 teu` ① 女儿 ② 泛指女孩子  
 1. 【[丫头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_teu.md#丫头)】`nga1 teu` <sup>[如皋]</sup> ① 旧时女孩在项两侧梳妑妑儿，头脑后垂长发，象“丫”字，因称女孩为～。但有感情色彩和身份。 ② 昵称女儿。 ③ 贬、昵称青少年女性。 ④ 丫环的俗称。  
 1. 【[丫头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_teu.md#丫头)】`nga1 teu` <sup>[如东]</sup> ① 女孩。 ② 小姑娘。 ③ 自己的女儿。 ④ 年轻女子。  
 1. 【[丫头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_teu.md#丫头)】`nga1 teu` <sup>[东台]</sup> 女孩子的俗称。  
+1. 【[丫头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_teu.md#丫头)】`nga1 teu` ① 女孩俗称。旧时女孩头上常梳丫形发髻，故名。 ② 特指丫环 ③ 有时用于长辈对小辈妇女的昵称，如贾母称风姐为“凤丫头”。  
 1. 【[丫头话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_teu_hua.md#丫头话)】`nga1 teu hua6` <sup>[如皋]</sup> 说话不算数，显得不敢负责，无胆识。  
 1. 【[丫头话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_teu_hua.md#丫头话)】`nga1 teu hua6` <sup>[泰县]</sup> 不算数的话。  
 1. 【[丫头𤖭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_teu_paen_zz.md#丫头𤖭子)】`nga1 teu paen2 zz` <sup>[兴化]</sup> 对女孩的轻蔑称呼。  
 1. 【[丫头婆娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_teu_pu_nian.md#丫头婆娘)】`nga1 teu pu2 nian` <sup>[兴化]</sup> 泛指未婚和已婚妇女。  
+1. 【[丫头人家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_teu_ren_ga.md#丫头人家)】`nga1 teu ren2 ga1` <sup>[泰兴]</sup> 女孩。含轻蔑意。  
 1. 【[丫须](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_xy.md#丫须)】`nga1 xy1` <sup>[东台]</sup> 用竹篾编成捕鳝鱼的工具，鳝鱼游进去就出不来。  
 1. 【[丫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#丫子)】`nga1 zz` <sup>[如东]</sup> 沙滩上的小型沟槽，称丫子。  
 1. 【[丫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#丫子)】`nga1 zz` <sup>[东台]</sup> 指潮水沟，港的分汊。  
 1. 【[桠巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_ba.md#桠巴)】`nga1 ba` <sup>[兴化]</sup> ① 树干的分权处。谚曰：多个～多个节。 ② 两腿内侧的交汇处：这个鬼形不能见小叔子，裤子卷到大腿～，成何体统呀？（《武松》四）  
 1. 【[桠巴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_ba_r.md#桠巴<sub>儿</sub>)】`nga1 ba1 r` <sup>[如东]</sup> 树杆的分枝。  
 1. 【[桠屄□卵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_bi_qiah_lun.md#桠屄□卵)】`nga1 bi1 qiah7 lun3` <sup>[如东]</sup> 形容乱七八糟。  
-1. 【[桠杈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_cha.md#桠杈)】`nga1 cha5` <sup>[兴化]</sup> 树木岔出的枝条：树～。桠，《集韵·麻韵》于加切，《方言》江东谓树岐为～。  
+1. 【[桠叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_cha.md#桠叉)】`nga1 cha5` <sup>[兴化]</sup> 树木岔出的枝条：树～。桠，《集韵·麻韵》于加切，《方言》江东谓树岐为～。  
 1. 【[桠求](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_qieu.md#桠求)】`nga1 qieu2` <sup>[兴化]</sup> 低声下气地央求：他别气不肯吃饭，妈妈只好～他吃点儿。  
 1. 【[桠杈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_qiun.md#桠杈)】`nga1 qiun2` <sup>[如东]</sup> 树杈。  
 1. 【[腌臢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_za.md#腌臢)】`nga1 za1` <sup>[兴化]</sup> ① 脏、不洁：“……奴家亲自安排与叔叔吃，不强似这伙～人安排伙食”（《水浒传》二四）｜主人厌他～……（《儒林外史》五五） ② 心情抑郁、怄气：“……不如出官，免得受这厮～气”（《水浒传》三六）  
@@ -351,6 +357,7 @@
 1. 【[鸦片](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_pin.md#鸦片)】`nga1 pin5` <sup>[如东]</sup> 罂粟科植物罂粟果实中液汁凝固而成，通称大烟。  
 1. 【[鸦鹊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_qiah.md#鸦鹊)】`nga1 qiah` <sup>[如皋]</sup> 乌鸦。  
 1. 【[鸦鹊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_qiah.md#鸦鹊)】`nga1 qiah7` 喜鹊  
+1. 【[鸦子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#鸦子)】`nga1 zz` <sup>[泰兴]</sup> 鸬鹚。经驯养后会捕鱼的禽类动物。  
 1. 【[伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_r.md#伢<sub>儿</sub>)】`nga2 r` 小孩  
 1. 【[伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_r.md#伢<sub>儿</sub>)】`nga2 r` <sup>[如皋]</sup> 小孩。  
 1. 【[伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_r.md#伢<sub>儿</sub>)】`nga2 r` <sup>[如东]</sup> ① 小孩。 ② 对小孩的称呼。  
@@ -447,13 +454,14 @@
 1. 【[㧎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga.md#㧎)】`nga6` <sup>[如东]</sup> 挤：～进去。  
 1. 【[㧎媚脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_mei_lin.md#㧎媚脸)】`nga6 mei6 lin3` <sup>[如皋]</sup> 降低身份相求。  
 1. 【[㧎子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#㧎子)】`nga6 zz` <sup>[如皋]</sup> 嵌在中间的：二条是一、三条的～（游和术语）。  
-1. 【[枒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga.md#枒)】`nga6` 量词，瓣，用于数切开的西瓜、橘子等。也说“丫nga1”：一～西瓜｜一～橘子  
+1. 【[枒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga.md#枒)】`nga6` 量词，瓣，用于数切开的西瓜、橘子等：一～西瓜｜一～橘子  
 1. 【[砑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga.md#砑)】`nga6` <sup>[如皋]</sup> ① 涂压：～墙、～灶面儿。 ② 碾压：～芝麻糏儿。 ③ 受到压迫的不适感：～人子、石子儿路～脚。  
 1. 【[砑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga.md#砑)】`nga6` <sup>[东台]</sup> ① 逼近，靠近：～墙根子。 ② 被凸起的东西挤压得难受：砂石路上跑路～人。  
 1. 【[砑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga.md#砑)】`nga6` <sup>[兴化]</sup> ① 压：～甘蔗汁｜把纸～平。 ② 碾：用碌碡～芦柴。 ③ 《广韵·祃韵》吾驾切“～，碾平”。  
 1. 【[砑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga.md#砑)】`nga6` <sup>[泰县]</sup> ① 压：把平面～平。 ② 最接近：～住块儿。 ③ 插上队在紧限：你～啊他后头走。  
 1. 【[砑根](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_gen.md#砑根)】`nga6 gen1` <sup>[泰县]</sup> ① 最接近根。 ② 根本：我～不曾说这句话。  
 1. 【[砑根<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_gen_r.md#砑根<sub>儿</sub>)】`nga6 gen1 r` <sup>[兴化]</sup> 平根：一阵大风，把电杆～刮断吖。  
+1. 【[砑五跷六](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_v_qio_loh.md#砑五跷六)】`nga6 v3 qio1 loh8` 本指路面、铺面等凹凸不平，喻指家庭、单位等不团结，经常闹纠纷。世指个人脾气倔，不合群：一天到夜～的，像甚的话！  
 1. 【[砑枝砑根](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zhr_nga_gen.md#砑枝砑根)】`nga6 zhr1 nga6 gen1` <sup>[兴化]</sup> 紧靠着，不留空隙：他把厨房跟我家后墙砌得～的，一点空子也不留。  
 1. 【[砑枝砑枝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zhr_nga_zhr.md#砑枝砑枝)】`nga6 zhr1 nga6 zhr1` <sup>[东台]</sup> 形容时间十分紧张，一点多余都没有：你怎吖才来？弄得～的，差点儿赶不上。  
 1. 【[閕子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#閕子)】`nga6 zz` 缺口  
