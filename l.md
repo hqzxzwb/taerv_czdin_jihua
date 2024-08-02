@@ -1413,7 +1413,6 @@
 1. 【[轮饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_faen.md#轮饭)】`lien2 faen6` <sup>[如皋]</sup> 旧时，给塾师、上人、军人等轮流供应饮食的习俗。  
 1. 【[轮吖来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_nga_lae.md#轮吖来)】`lien2 nga lae2` <sup>[如皋]</sup> 轮流做、轮值。  
 1. 【[邻居](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_jy.md#邻居)】`lien2 jy1` <sup>[如东]</sup> 与自己家庭相近的住户：左右～。  
-1. 【[邻居家边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_jy_ga_bin.md#邻居家边)】`lien2 jy1 ga1 bin1` <sup>[兴化]</sup> 指近邻。  
 1. 【[邻居好，赛金宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_jy_ho_sae_jien_bo.md#邻居好，赛金宝)】`lien2 jy1 ho3 sae5 jien1 bo3` <sup>[东台]</sup> 邻居和睦友好比金子都可贵。  
 1. 【[邻居家边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_jy_jia_bin.md#邻居家边)】`lien2 jy1 jia1 bin1` <sup>[兴化]</sup> 居住地接近的人家：～的，早不见晚就见，何必闹得不愉快。也说“家边邻居”。  
 1. 【[邻里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_li.md#邻里)】`lien2 li3` <sup>[如东]</sup> ① 里是明代的行政单位，相当于村。表示家庭所住的乡里。 ② 同一乡里的人。  
