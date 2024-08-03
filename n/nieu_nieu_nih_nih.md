@@ -1,5 +1,5 @@
 # 扭扭捏捏
-nieu3 nieu3 nih7 nih7
+nieu3 nieu3 nih8-7 nih8-7
 > 东台方言词典
 - 举止言谈不大方或不好意思
   - 不要～，这块又没得外人。

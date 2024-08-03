@@ -1,5 +1,5 @@
 # 尊辈长上
-zuen1 bei5 zhan3 shan5
+zuen1 bei5 zhan3 shan6-5
 > 东台方言词典
 - 泛指辈分高或年长的人
   - 这小伙老相，眼睛里全没得～！
