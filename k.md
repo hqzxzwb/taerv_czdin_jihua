@@ -888,7 +888,7 @@
 1. 【[跨缺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_qiuh.md#跨缺)】`kua5 qiuh7` <sup>[东台]</sup> 有做九不做十的民俗，逢九（比如六十九岁、七十九岁）生日由女儿将父母在带回家祝寿。意为跨过生命“缺口”。  
 1. 【[跨身冒头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_shen_mo_teu.md#跨身冒头)】`kua5 shen1 mo6 teu2` <sup>[如皋]</sup> ① 从头、身上跨过，表示欺负。 ② 越级反映情况的做法。  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae.md#□)】`kuae2` <sup>[泰县]</sup> 打：我～你。  
-1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae.md#□)】`kuae2` <sup>[泰州]</sup> 使劲用手打人：他再老卵，你就～他，看他下回子哿敢。丨他敢到人家家里闹丧，人家～不死他。  
+1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae.md#□)】`kuae2` <sup>[泰州]</sup> 使劲用手打人：他再老卵，你就～他，看他下回子哿敢。｜他敢到人家家里闹丧，人家～不死他。  
 1. 【[㧟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae.md#㧟)】`kuae3` <sup>[如皋]</sup> ① 推卸：她把带伢儿的事～啊把啊我。 ② 纠缠：他～住你，你让不掉。  
 1. 【[㧟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae.md#㧟)】`kuae3` <sup>[东台]</sup> 不平衡的意思：事情要大家出力，不能～啊在哪一个人身上。  
 1. 【[㧟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae.md#㧟)】`kuae3` <sup>[兴化]</sup> 向一边倾斜：一边～｜左舷人多，船～过去啊。  
@@ -957,6 +957,7 @@
 1. 【[㧟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae.md#㧟)】`kuae6` <sup>[东台]</sup> 用胳膊挎着，或用身子背着：～书包｜～照相机。  
 1. 【[㧟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae.md#㧟)】`kuae6` <sup>[兴化]</sup> 用胳膊挎着：旧谚：乡下人上街，大笿子一～。  
 1. 【[㧟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae.md#㧟)】`kuae6` <sup>[泰县]</sup> 背。  
+1. 【[㧟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae.md#㧟)】`kuae6` <sup>[泰州]</sup> ① 用胳膊挎着：你把篮子～啊走。｜篮子重，～不动。 ② 泛指携带：你～啊这吖多的东西，上火车肯定不方便。  
 1. 【[㧟宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_bo_r.md#㧟宝<sub>儿</sub>)】`kuae6 bo3 r` <sup>[泰县]</sup> 非亲生子。  
 1. 【[㧟宝子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_bo_zz.md#㧟宝子)】`kuae6 bo3 zz` <sup>[兴化]</sup> 见“㧟油瓶”。  
 1. 【[㧟油瓶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_ieu_pien.md#㧟油瓶)】`kuae6 ieu2 pien2` <sup>[兴化]</sup> 旧称随母改嫁者。也称“㧟宝子”。  
@@ -967,7 +968,6 @@
 1. 【[㧟锹<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_qio_r.md#㧟锹<sub>儿</sub>)】`kuae6 qio1 r` <sup>[如皋]</sup> 詈语或昵语。原意为将已死的小孩用函子装殓，锹柄㧟着去埋。同“背锹儿”。  
 1. 【[㧟锹<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_qio_r.md#㧟锹<sub>儿</sub>)】`kuae6 qio1 r` <sup>[东台]</sup> 本指小孩死了，挎个铁锹去埋，是骂小孩的话。现在常用于对小孩子贱称或昵称。  
 1. 【[㧟屎笿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_shr_lah_r.md#㧟屎笿<sub>儿</sub>)】`kuae6 shr3 lah8 r` <sup>[如皋]</sup> ① 拾粪肥的笿。见“背屎笿儿”。 ② 谑指穿中式裤时裤腰后部脱离裤带的样子。  
-1. 【[擓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae.md#擓)】`kuae6` <sup>[泰州]</sup> ① 用胳膊挎着：你把篮子～啊走。丨篮子重，～不动。 ② 泛指携带：你～啊这吖多的东西，上火车肯定不方便。  
 1. 【[毌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaeh.md#毌)】`kuaeh8` <sup>[如东]</sup> 滞碍：缆绳捱～住啊。  
 1. 【[毌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaeh.md#毌)】`kuaeh8` <sup>[如皋]</sup> 勾连遏阻：树枝儿～脸、衣裳捱～咖个洞、横横～～的。如皋民间方音字。  
 1. 【[毌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaeh.md#毌)】`kuaeh8` <sup>[兴化]</sup> ① 被尖刺勾挂着：褂子捱钉儿～破啊。｜腿子上～破一块皮。 ② （引）滞留：他有点小事～住，暂时来不了。 ③ 兴化词典作“劀”，《广韵·辖韵》古滑切“～，刮也。”（声母不合）  

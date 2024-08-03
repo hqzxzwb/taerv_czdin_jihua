@@ -1917,7 +1917,6 @@
 1. 【[齈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non.md#齈)】`non2` <sup>[泰州]</sup> 黄色浓稠鼻涕：你把～擤得块块是的，意怪煞咖。  
 1. 【[𨑊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non.md#𨑊)】`non2` <sup>[兴化]</sup> ① 敷衍、糊弄：你有话实说，覅～人家。 ② 勉强混过：实在找不到旅馆，就在沙发上～一夜吧！｜《方言》卷十“～，奴动反……凡人语言过度，及妄施行，亦谓之～。”｜《吴下方言考》“……吴中谓勉强而充曰～得过。”  
 1. 【[𨑊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non.md#𨑊)】`non2` <sup>[泰州]</sup> 明知不妥而勉强凑合：暂时没得好房子把你蹾，你就现在这块～两天，底下我再来想办法。丨不要嫌菜不好吃，你就～住点ㄦ吧，能有人忙吖把你吃就不错唻。丨他这种人，只有你能同他～住啊过。  
-1. 【[弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non.md#弄)】`non6` <sup>[泰州]</sup> ① 从事，做：他现在～厂还～得不丑。 ② 搞：家里捱你～得一塌糊涂。 ③ 性交。 ④ 设法取得：你～几张电影票来。 ⑤ 设法抓来、雇来、请来：你想法子～两个人来。 ⑥ 烧煮食物：老太～的菜好吃。 ⑦ 谋求职业：你同他在北京～个工作。 ⑧ 赚：他开店卖空调，～吖不少钱。  
 1. 【[挪移](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_i.md#挪移)】`nu2 i2` <sup>[兴化]</sup> ① 挪借：～款项。 ② 移动：向前～几步。  
 1. 【[懦褦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_nae.md#懦褦)】`nu5 nae6` <sup>[如东]</sup> 胆小软弱：这个姑娘比较～。  
 1. 【[懦懦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_nu.md#懦懦)】`nu5 nu5` <sup>[如皋]</sup> 睡觉。儿语。“懦”字表音。  

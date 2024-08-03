@@ -505,8 +505,8 @@
 1. 【[办后事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_heu_shr.md#办后事)】`baen5 heu6 shr6` <sup>[如皋]</sup> 贬指调离或离职后他人代办遗留之事。往往有怨恨之意。  
 1. 【[爿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen.md#爿)】`baen5` <sup>[如皋]</sup> 量词：一～店。  
 1. 【[爿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen.md#爿)】`baen5` <sup>[泰州]</sup> 量词，相当于段、截、片，用于整体的一部分：你把西瓜切成两半～，他俫个人吃一～。  
-1. 【[𢲔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen.md#𢲔)】`baen5` <sup>[泰州]</sup> 行走时别的东西挡住或缠住：不要弄吖～吖唻。  
 1. 【[𢴬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen.md#𢴬)】`baen5` <sup>[兴化]</sup> 绊：一不小心，～吖一个跟头。《集韵·裥韵》博幻切：“～，绊也，引击也。”  
+1. 【[𢴬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen.md#𢴬)】`baen5` <sup>[泰州]</sup> 行走时别的东西挡住或缠住：不要弄吖～吖唻。  
 1. 【[𢴬住咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_chuh_ga.md#𢴬住咖)】`baen5 chuh ga` <sup>[如皋]</sup> 被粘着、被牵制：本想外来耍耍，捱伢儿～，不得出头影。  
 1. 【[𢴬脚石](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_jiah_sheh.md#𢴬脚石)】`baen5 jiah7 sheh8` <sup>[如东]</sup> 比喻阻碍前进的人或事：不要做～。  
 1. 【[𢴬脚绳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_jiah_shen.md#𢴬脚绳)】`baen5 jiah7 shen2` <sup>[如皋]</sup> 喻指不能丢开的人或物的负担。  
@@ -1470,11 +1470,11 @@
 1. 【[䁃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio.md#䁃)】`bio1` <sup>[如皋]</sup> ① 看：～见他；上医院～病人。 ② 盼望：我天天～，～他早点儿家来。  
 1. 【[䁃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio.md#䁃)】`bio1` <sup>[东台]</sup> ① 扫视，远望：到门口～下子，看汽车可曾来。 ② ［引］盼望：～你来。  
 1. 【[䁃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio.md#䁃)】`bio1` <sup>[泰县]</sup> 眺望：你～甚的啊？  
+1. 【[䁃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio.md#䁃)】`bio1` <sup>[泰州]</sup> 暗中留心观察对方行为：你在远处～住他，不要让他晓得咖。  
 1. 【[䁃路影](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_lv_ien.md#䁃路影)】`bio1 lv6 ien3` <sup>[如皋]</sup> 指临终前目光，看道路方向，是准备灵魂上路。  
 1. 【[䁃人家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_ren_ga.md#䁃人家)】`bio1 ren2 ga` <sup>[如皋]</sup> 婚仪，女家暗访之后，在媒人陪同下正式至男家看望。男家治酒接待。女家入席则表示满意，不满意则辞归。见“看人家”。  
 1. 【[䁃头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_teu.md#䁃头)】`bio1 teu2` <sup>[如皋]</sup> 指望：买房子的事有～、没～全看这几天的形势。  
 1. 【[䁃天<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_tin_r.md#䁃天<sub>儿</sub>)】`bio1 tin1 r` <sup>[如皋]</sup> ① 眼球向上斜的畸型病人。 ② 习惯性眼球上斜的表情。  
-1. 【[䁭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio.md#䁭)】`bio1` <sup>[泰州]</sup> 暗中留心观察对方行为：你在远处～住他，不要让他晓得咖。  
 1. 【[标价](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_jia.md#标价)】`bio1 jia5` <sup>[如东]</sup> 在标牌上写明商品的单价。  
 1. 【[标劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_jien.md#标劲)】`bio1 jien5` <sup>[兴化]</sup> ① 别扭：他跟父母甩～儿，又有几天不归家啊。 ② 摆阔：他本是个阔人，等到这笔昧心钱到手之后，越发闹起～来……（《官场现形记》五二）  
 1. 【[标脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_lin.md#标脸)】`bio1 lin3` <sup>[兴化]</sup> 青年男子漂亮的脸蛋儿：小王今年二十出头，是个小～。｜咦喂，确实是副～嘛。（扬说《风雨同舟》）  

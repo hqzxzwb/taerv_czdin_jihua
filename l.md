@@ -2950,4 +2950,5 @@
 1. 【[累伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_nga_r.md#累伢<sub>儿</sub>)】`ly6 nga2 r` <sup>[如皋]</sup> 指哺育小孩的劳累过程。又叫“过伢儿关”。  
 1. 【[鑢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly.md#鑢)】`ly6` <sup>[兴化]</sup> 用钝器磨、制：在墙角上把麻绳～断。（《说文·金部》）｜“～，错铜铁也。”良据切。  
 1. 【[鑢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly.md#鑢)】`ly6` <sup>[泰县]</sup> 划破：草把他的手～开来啊。  
+1. 【[弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon.md#弄)】`non6` <sup>[泰州]</sup> ① 从事，做：他现在～厂还～得不丑。 ② 搞：家里捱你～得一塌糊涂。 ③ 性交。 ④ 设法取得：你～几张电影票来。 ⑤ 设法抓来、雇来、请来：你想法子～两个人来。 ⑥ 烧煮食物：老太～的菜好吃。 ⑦ 谋求职业：你同他在北京～个工作。 ⑧ 赚：他开店卖空调，～吖不少钱。  
 **[▲](#音序检索)**  

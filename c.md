@@ -2014,6 +2014,7 @@
 1. 【[碜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen.md#碜)】`chuen3` <sup>[泰州]</sup> 含有泥沙食物对口腔的刺激所产生的粗糙感觉：你先头子菜上的烂泥不曾洗得干净，这一刻儿菜吃咖嘴里～煞咖。  
 1. 【[碜牙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_nga_zz.md#碜牙子)】`chuen3 nga2 zz` <sup>[如东]</sup> 食物中夹杂着泥沙，咀嚼时砸牙齿，叫做碜：这碗饭～牙子。  
 1. 【[衬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen.md#衬)】`chuen5` <sup>[如东]</sup> 以假意的过分的评价进行夸耀：他在下～你！  
+1. 【[衬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen.md#衬)】`chuen5` <sup>[泰州]</sup> ① 垫于某个物体之下，取其“衬衣近身垫于外衣下面”之义：鞋子嫌大，你在里头～个鞋垫儿。 ② 特指菜肴之中主料之外添加配料：总共就二斤肉，你多弄点萝卜～～，不然人多不够吃。｜炒长鱼不～点儿洋葱不起香。  
 1. 【[衬布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_bv.md#衬布)】`chuen5 bv5` <sup>[如东]</sup> 缝制衣服时，衬在面料里面的一层布，称衬布。  
 1. 【[衬菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_cae.md#衬菜)】`chuen5 cae5` <sup>[如皋]</sup> 做陪衬的菜。如做“扒红蹄”，可用茼蒿、豌豆头儿等做～。  
 1. 【[衬襟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_jien.md#衬襟)】`chuen5 jien` <sup>[如皋]</sup> 衣襟都是双层，里层为～。  
@@ -2624,7 +2625,6 @@
 1. 【[寸金糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_jien_tan.md#寸金糖)】`cuen5 jien1 tan2` <sup>[东台]</sup> 一种糖果，寸把长，外滚芝麻。  
 1. 【[寸金糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_jien_tan.md#寸金糖)】`cuen5 jien1 tan2` <sup>[兴化]</sup> 由饴糖做成的小棍，内包砂糖、芝麻屑等，外沾艺麻，长寸许，酥甜可口。  
 1. 【[寸麦吃尺水，尺麦怕寸水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_moh_qieh_cheh.md#寸麦吃尺水，尺麦怕寸水)】`cuen5 moh8 qieh7 cheh7 shuei3 cheh7 moh8 pa5 cuen5 shuei3` <sup>[泰兴]</sup> 农谚。谓麦苗小的时候不怕潮湿，一尺多高的时候怕受涝渍。  
-1. 【[衬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen.md#衬)】`cuen5` <sup>[泰州]</sup> ① 垫于某个物体之下，取其“衬衣近身垫于外衣下面”之义：鞋子嫌大，你在里头～个鞋垫儿。 ② 特指菜肴之中主料之外添加配料：总共就二斤肉，你多弄点萝卜～～，不然人多不够吃。｜炒长鱼不～点儿洋葱不起香。  
 1. 【[𧺘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen.md#𧺘)】`cuen5` <sup>[如皋]</sup> 作动词，表探摸、探步：肚子肚里～到一个硬块｜他走路～吖～的。  
 1. 【[𧺘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen.md#𧺘)】`cuen5` <sup>[兴化]</sup> ① 探索、探测：（黑夜里）皮五辣子～着步子往前走，两手平起来向前摸着……（《皮五辣子》二）｜拿篙子～～前边有多深。｜～鸡屁股，看多晚能生蛋。 ② 轻手轻脚地：（吴大郎）不敢惊动他，轻松地脱了衣服，吹熄了灯，～（衬）进被窝里来。（《初刻》二）  
 1. 【[𧺘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen.md#𧺘)】`cuen5` <sup>[东台]</sup> 小心慢走、边走边试探。东台词典作“夋”，《说文·夂部》：“夋，行夋夋也，一曰倨也。从夂，允声。七伦切。”反切不合：前头一段路不平，请你小心点儿，～吖脚走。  
@@ -2650,8 +2650,8 @@
 1. 【[撮住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuh_chv.md#撮住)】`cuh8 chv` <sup>[泰县]</sup> 施展不开、拥挤：：这地方有点儿～，不好做东西。  
 1. 【[撮撮忙<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuh_cuh_man_r.md#撮撮忙<sub>儿</sub>)】`cuh8 cuh8 man2 r` <sup>[泰县]</sup> 帮忙。  
 1. 【[撮惑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuh_hoh.md#撮惑)】`cuh8 hoh` <sup>[东台]</sup> 煽动、唆使。  
-1. 【[氽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun.md#氽)】`cun1` <sup>[泰州]</sup> 一种烹调方法，将生食物投入沸水之中煮熟：你弄吖鲫鱼～汤就不要再弄～腰子唻！  
 1. 【[汆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun.md#汆)】`cun1` <sup>[如东]</sup> 一种烹调方法。把食物放在沸水中稍微煮一下即捞起来。  
+1. 【[汆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun.md#汆)】`cun1` <sup>[泰州]</sup> 一种烹调方法，将生食物投入沸水之中煮熟：你弄吖鲫鱼～汤就不要再弄～腰子唻！  
 1. 【[汆䜺子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_chae_zz.md#汆䜺子)】`cun1 chae3 zz` <sup>[兴化]</sup> 将䜺子均匀地撒入热水锅中，沸腾后即成䜺子（儿）粥。  
 1. 【[汆汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_tan.md#汆汤)】`cun1 tan1` <sup>[如东]</sup> 把鱼、虾等放在沸水中稍微煮一下即捞起来，汤里便有鱼、虾鲜味，这种方法叫做氽汤：黄鱼头～。  
 1. 【[汆汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_tan.md#汆汤)】`cun1 tan1` <sup>[东台]</sup> 把食物放在沸水中用短暂的时间涮一下：猪肝～，确实不错。  

@@ -1473,7 +1473,6 @@
 1. 【[现形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_xien.md#现形)】`xin6 xien2` <sup>[东台]</sup> 显露原形。  
 1. 【[现折子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_zhih_zz.md#现折子)】`xin6 zhih7 zz` <sup>[如皋]</sup> 初见时给的见面礼金。  
 1. 【[枵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio.md#枵)】`xio1` <sup>[东台]</sup> 空虚：～腹｜～肠。  
-1. 【[浇/𣻏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio.md#浇/𣻏)】`xio1` <sup>[泰州]</sup> ① 薄，与“厚”相对：这本书太～。丨你穿得太～。丨你用的板子太～。 ② 稀，与“稠”相对：粥煮啊太～。  
 1. 【[消愁解闷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cheu_gae_men.md#消愁解闷)】`xio1 cheu2 gae3 men6` <sup>[兴化]</sup> 通过游玩或做一些事情来消解忧愁和烦恼：他刚退休，非常无聊，每天看看报纸，下下棋～。  
 1. 【[消防车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_fan_cha.md#消防车)】`xio1 fan2 cha1` <sup>[如东]</sup> 一种灭火车。车身上装着巨大的水箱和水带、水笼头等设施，用于灭火。  
 1. 【[消供](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_gon.md#消供)】`xio1 gon5` <sup>[如皋]</sup> 了结：前头惹的祸还不曾～，后头告状的人又上吖门。  
@@ -1516,6 +1515,7 @@
 1. 【[𣻏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio.md#𣻏)】`xio1` <sup>[东台]</sup> 薄、瘦、不厚道：这种纸太～，不结实。  
 1. 【[𣻏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio.md#𣻏)】`xio1` <sup>[兴化]</sup> ① 薄、稀：30克纸嫌～。｜他脸皮子～，容易翻脸。 ② 无情寡义：他为人太～，只看眼前，不顾往日情分。 ③ 本字“浇”，《广韵·萧的》古尧切“～，沃也，薄也。”《集韵》一作“𣻏”。  
 1. 【[𣻏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio.md#𣻏)】`xio1` <sup>[泰县]</sup> 薄：这本书只几十页，太～啊。  
+1. 【[𣻏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio.md#𣻏)】`xio1` <sup>[泰州]</sup> ① 薄，与“厚”相对：这本书太～。丨你穿得太～。丨你用的板子太～。 ② 稀，与“稠”相对：粥煮啊太～。  
 1. 【[𣻏泛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_faen.md#𣻏泛)】`xio1 faen` <sup>[如皋]</sup> 浓度低。  
 1. 【[𣻏泛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_faen.md#𣻏泛)】`xio1 faen` <sup>[如东]</sup> 很薄：这块布料～。  
 1. 【[𣻏泛泛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_faen_faen.md#𣻏泛泛)】`xio1 faen5 faen5` <sup>[兴化]</sup> 形容东西很薄：这米饼儿～的，一口一个没话说。  
