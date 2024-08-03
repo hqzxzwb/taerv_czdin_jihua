@@ -595,7 +595,7 @@
 1. 【[敲边鼓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_bin_gv.md#敲边鼓)】`ko1 bin1 gv3` <sup>[东台]</sup> ［喻］旁敲侧击的意思：我早就给他～，他听不进去。  
 1. 【[敲打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_da.md#敲打)】`ko1 da3` <sup>[兴化]</sup> ① 肉刑：县官又把李三重加～，李三当不过，只得屈招道……（《二刻》三八） ② 要挟或刁难：男家要带亲，因为女家～，日子迟迟定不下来。 ③ 批评或刺激：比如有的教员为一点不顺心的事而牢骚……高先生都以为这是～他……（汪曾祺《徙》）  
 1. 【[敲大锣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_da_lu.md#敲大锣)】`ko1 da6 lu2` <sup>[东台]</sup> ［喻］到处大肆宣扬：他有点儿沉不住气，得咖奖就像～样的，生怕人家不晓得。  
-1. 【[敲耳朵边子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_er_do_bin_zz.md#敲耳朵边子)】`ko1 er3 do1 bin1 zz` <sup>[东台]</sup> ［喻］旁敲侧击，暗示、提醒或批评，目的在于改正。  
+1. 【[敲耳刀边子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_er_do_bin_zz.md#敲耳刀边子)】`ko1 er3 do1 bin1 zz` <sup>[东台]</sup> ［喻］旁敲侧击，暗示、提醒或批评，目的在于改正。  
 1. 【[敲弓别弦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_gon_bih_xin.md#敲弓别弦)】`ko1 gon1 bih7 xin2` <sup>[兴化]</sup> （喻）唱反调，闹别扭：大家谈到甚的事情，他总喜欢～的。  
 1. 【[敲弓别弦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_gon_bih_xin.md#敲弓别弦)】`ko1 gon1 bih7 xin2` <sup>[泰县]</sup> 很不和谐、唱反调：这个人老是～。  
 1. 【[敲洋锡箱子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_ian_xieh_xian_zz.md#敲洋锡箱子)】`ko1 ian2 xieh7 xian1 zz` <sup>[东台]</sup> ［喻］指造谣生事，并且到处扩散的行为。  

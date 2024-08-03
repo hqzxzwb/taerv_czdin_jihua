@@ -320,10 +320,9 @@
 1. 【[涎水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_shuei.md#涎水)】`saen2 shuei3` <sup>[东台]</sup> 口水，较多的唾沫：咽～。  
 1. 【[涎胎<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_tae_r.md#涎胎<sub>儿</sub>)】`saen2 tae1 r` <sup>[如东]</sup> 口腔中汾泌唾液的腺体。  
 1. 【[涎胎<sub>儿</sub>破啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_tae_r_pu_a.md#涎胎<sub>儿</sub>破啊)】`saen2 tae1 r pu5 a` <sup>[如东]</sup> 小儿唾液腺体发生异常，嘴里经常淌口水，称涎胎儿破了。  
-1. 【[涎唾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_tu_zz.md#涎唾子)】`saen2 tu5 zz` <sup>[如皋]</sup> 口水，唾液。  
-1. 【[涎唾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_tu_zz.md#涎唾子)】`saen2 tu5 zz` <sup>[如皋]</sup> 唾液。  
-1. 【[涎唾子气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_tu_zz_qi.md#涎唾子气)】`saen2 tu5 zz qi5` <sup>[如皋]</sup> 唾液干后的臭味。  
 1. 【[涎唾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_tv.md#涎唾)】`saen2 tv5` <sup>[东台]</sup> 同“涎水”。  
+1. 【[涎唾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_tv_zz.md#涎唾子)】`saen2 tv5 zz` <sup>[如皋]</sup> 口水，唾液。  
+1. 【[涎唾子气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_tv_zz_qi.md#涎唾子气)】`saen2 tv5 zz qi5` <sup>[如皋]</sup> 唾液干后的臭味。  
 1. 【[涎腥气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_xien_qi.md#涎腥气)】`saen2 xien qi5` <sup>[如皋]</sup> 唾液干后的臭味。  
 1. 【[伞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen.md#伞)】`saen3` <sup>[如东]</sup> 由伞头、伞骨、伞柄组成。伞骨为竹丝或铁丝。由8-10根伞骨构成锥体。伞骨上蒙油纸、油布或丝绸布塑料布。可以开合。撑开伞骨，能够挡雨、遮阳。例如雨伞、阳伞等。  
 1. 【[伞顶漏雨——搞到自己头上来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_dien_leu_y_go_do_cz_ji_teu_shan_lae_a.md#伞顶漏雨——搞到自己头上来啊)】`saen3 dien3 leu6 y3 go3 do5 cz6 ji3 teu2 shan6 lae2 a` <sup>[东台]</sup>   
@@ -367,10 +366,7 @@
 1. 【[散雄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_xion.md#散雄)】`saen5 xion2` <sup>[东台]</sup> 本是一句粗话，意思是完了，糟了：洪水一来，棉花～。  
 1. 【[散雄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_xion.md#散雄)】`saen5 xion2` <sup>[泰县]</sup> 完蛋。  
 1. 【[散血草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_xiuh_co.md#散血草)】`saen5 xiuh7 co3` <sup>[如皋]</sup> 筋骨草。  
-1. 【[散子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_zz.md#散子)】`saen5 zz` <sup>[如东]</sup> 鱼虾、贝等动物产子，叫做散子。  
-1. 【[散子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_zz.md#散子)】`saen5 zz` <sup>[兴化]</sup> 虫、鱼等产卵。  
-1. 【[散子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_zz.md#散子)】`saen5 zz3` <sup>[如皋]</sup> 虫、鱼、蛙类产卵。  
-1. 【[散子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_zz.md#散子)】`saen5 zz3` <sup>[东台]</sup> 水生动物将卵子、精子排在水中，受精卵可孵化后代。  
+1. 【[散子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_zz.md#散子)】`saen5 zz3` <sup>\[如皋\]\[如东\]\[东台\]\[兴化\]</sup>虫、鱼、蛙、贝类等产卵。  
 1. 【[索粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sah_fen.md#索粉)】`sah7 fen3` <sup>[如皋]</sup> ① 含水粉丝。 ② 制作粉丝。 ③ 戏称流鼻涕。  
 1. 【[索粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sah_fen.md#索粉)】`sah7 fen3` <sup>[如东]</sup> 拉冬粉。  
 1. 【[索粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sah_fen.md#索粉)】`sah7 fen3` <sup>[兴化]</sup> 制成后浸在水中的粉条。  

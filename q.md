@@ -938,7 +938,7 @@
 1. 【[吃豆腐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_teu_fv.md#吃豆腐)】`qieh7 teu6 fv` <sup>[东台]</sup> ［喻］指做某事不费力。  
 1. 【[吃豆腐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_teu_fv.md#吃豆腐)】`qieh7 teu6 fv` <sup>[兴化]</sup> 旧谓调戏妇女：他看见漂亮点儿的大姑娘细婆娘就想～。  
 1. 【[吃甜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_tin.md#吃甜)】`qieh7 tin2` <sup>[如皋]</sup> 喻得到好处、优惠。  
-1. 【[吃唺骨斋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_tin_gueh_zhae.md#吃唺骨斋)】`qieh7 tin5 gueh7 zhae1` <sup>[如皋]</sup> 喻虚伪。  
+1. 【[吃舚骨斋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_tin_gueh_zhae.md#吃舚骨斋)】`qieh7 tin5 gueh7 zhae1` <sup>[如皋]</sup> 喻虚伪。  
 1. 【[吃独食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_toh_sheh.md#吃独食)】`qieh7 toh8 sheh8` <sup>[如皋]</sup> 吃药的避讳称。  
 1. 【[吃独食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_toh_sheh.md#吃独食)】`qieh7 toh8 sheh8` <sup>[东台]</sup> 一个人享受，占有。  
 1. 【[吃团圆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_tun_iun.md#吃团圆)】`qieh7 tun2 iun2` <sup>[如东]</sup> 团圆是一种糯米糏圆子。阴历正月初一日早晨，全家人在一起吃团圆，表示合家团圆。有些人家还把团圆供在米柜上、囤子上、水缸上、农具上，表示大团圆。  
