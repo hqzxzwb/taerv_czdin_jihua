@@ -1684,7 +1684,7 @@
 1. 【[㩓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae.md#㩓)】`huae3` <sup>[东台]</sup> 击打。（《说文解字·段注》：“击之而伤也。故其字从手毁。”）：你再闹，当心我～你！  
 1. 【[㩓鞭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_bin_zz.md#㩓鞭子)】`huae3 bin1 zz` <sup>[东台]</sup> 用力挥动鞭子。  
 1. 【[㩓掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_tio.md#㩓掉)】`huae3 tio` <sup>[东台]</sup> 甩掉：把手上的泥～！  
-1. 【[拻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae.md#拻)】`huae3` <sup>[兴化]</sup> 打：再调皮～他的筋。｜他再在外头瞎说八道的，～他的嘴巴子。《集韵·灰韵》呼回切｜“～，相击也”。（声调不合）  
+1. 【[拻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae.md#拻)】`huae3` <sup>[兴化]</sup> 打：再调皮～他的筋。｜他再在外头瞎说八道的，～他的嘴巴子。  
 1. 【[坏兆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_cho.md#坏兆)】`huae6 cho6` <sup>[兴化]</sup> 不好的兆头：“……二柱是黄鼠狼养在鸡窝里，～！”（马春阳《两个小社员》）  
 1. 【[坏讼子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_con_zz.md#坏讼子)】`huae6 con5 zz` <sup>[如皋]</sup> 出坏主意的人。讼，邪母字，同从母。  
 1. 【[坏瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_gua.md#坏瓜)】`huae6 gua1` <sup>[兴化]</sup> （借）专出坏主意，专门对人施暗算的人：～主意。  
@@ -1703,8 +1703,8 @@
 1. 【[坏棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_pan.md#坏棒)】`huae6 pan6` <sup>[泰县]</sup> 品质很差的人。  
 1. 【[坏坯料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_pi_lio.md#坏坯料)】`huae6 pi1 lio6` <sup>[如皋]</sup> 指本质不好、品德不好。  
 1. 【[坏坯料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_pi_lio.md#坏坯料)】`huae6 pi1 lio6` <sup>[泰县]</sup> 不是好东西。  
+1. 【[坏坯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_pi_zz.md#坏坯子)】`huae6 pi1 zz` <sup>[如东]</sup> 不好的砖坯。比喻坏人：他是一个～。  
 1. 【[坏坯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_pi_zz.md#坏坯子)】`huae6 pi1-3 zz` <sup>[泰县]</sup> 品质不好的人。  
-1. 【[坏坯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_pi_zz.md#坏坯子)】`huae6 pi2 zz` <sup>[如东]</sup> 不好的砖坯。比喻坏人：他是一个～。  
 1. 【[坏脾家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_pi_jia.md#坏脾家)】`huae6 pi2 jia1` <sup>[如皋]</sup> 坏脾气  
 1. 【[坏癖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_pieh.md#坏癖)】`huae6 pieh7` <sup>[东台]</sup> 不良习性：这几年他不但学到许多知识，还改掉啊不少～。（也叫惚癖、惚坯料）  
 1. 【[坏癖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_pieh.md#坏癖)】`huae6 pieh7` <sup>[兴化]</sup> 不好的习性和癖好：他走路还有个～……中间不走，要靠边贴着人家大门走……（《武松》二）  

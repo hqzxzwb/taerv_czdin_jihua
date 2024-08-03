@@ -437,12 +437,12 @@
 1. 【[脚跟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_gen.md#脚跟)】`jiah7 gen1` <sup>[如皋]</sup> ① 脚后跟。 ② 墙基及附近：墙～、城～。  
 1. 【[脚跟脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_gen_jiah.md#脚跟脚)】`jiah7 gen1 jiah7` 一前一后，时间相隔不长  
 1. 【[脚跟脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_gen_jiah.md#脚跟脚)】`jiah7 gen1 jiah7` <sup>[兴化]</sup> 二人或多人先后到达或离开：你跟他一个才走，一个刚到，～。也说“脚赶脚”。  
-1. 【[脚箍眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_gu_ngaen.md#脚箍眼)】`jiah7 gu1 ngaen3` <sup>[如东]</sup> 踝骨部位。  
 1. 【[脚拐啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_guae_a.md#脚拐啊)】`jiah7 guae3 a` <sup>[如东]</sup> 脚扭了。  
 1. 【[脚拐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_guae_r.md#脚拐<sub>儿</sub>)】`jiah7 guae3 r` <sup>[如皋]</sup> 在小腿骨与跗骨结合处。外踝为胫骨端，内踝为腓骨端。  
 1. 【[脚拐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_guae_r.md#脚拐<sub>儿</sub>)】`jiah7 guae3 r` <sup>[东台]</sup> 脚踝，也称踝关节，是足部与腿相连的部位。  
 1. 【[脚鞈子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_guh_zz.md#脚鞈子)】`jiah7 guh7 zz` <sup>[如皋]</sup> 蹄甲。  
 1. 【[脚孤拐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_gv_guae.md#脚孤拐)】`jiah7 gv1 guae3` 脚踝  
+1. 【[脚箍眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_gv_ngaen.md#脚箍眼)】`jiah7 gv1 ngaen3` <sup>[如东]</sup> 踝骨部位。  
 1. 【[脚下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_ha.md#脚下)】`jiah7 ha` 加在表示地点或者时间或数量的名后面，表示某地附近，某个时间附近，或者大约的数量  
 1. 【[脚下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_ha.md#脚下)】`jiah7 ha` <sup>[如皋]</sup> ① 所在位置：这～，那～，哪～。 ② 高大物的根部、底部及附近：树～、草𧂐～、窑～、住身～。 ③ 将近某个时间：冬～、年～，月半～、十点～。  
 1. 【[脚行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_han.md#脚行)】`jiah7 han2` <sup>[如东]</sup> 旧时的搬运行，主营担挑、抬杠、推车，兼营收殓殡葬。  
@@ -730,13 +730,13 @@
 1. 【[急猴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_heu_zz.md#急猴子)】`jieh7 heu2 zz` <sup>[兴化]</sup> （喻）像猴子那样性急：他是～，不管甚的事说做就做。｜“还是个～。我与你作笑耍子，你怎么就变脸了？”（《西游记》五七）  
 1. 【[急吼吼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_heu_heu.md#急吼吼)】`jieh7 heu3 heu3` <sup>[兴化]</sup> 急迫的样子：这时，王树莲～地跑来了，没站定就大叫道……（马春阳《两个支部书记》）。  
 1. 【[急吼急吼的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_heu_jieh_heu_dii.md#急吼急吼的)】`jieh7 heu3 jieh7 heu3 dii` <sup>[东台]</sup> 性急慌忙的样子：你覅～，不懂规矩，人家还不曾动筷子呢！  
-1. 【[急呼呼的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_hu_hu_dii.md#急呼呼的)】`jieh7 hu hu1 dii` <sup>[如皋]</sup> 很急的样子。  
 1. 【[急火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_hu.md#急火)】`jieh7 hu3` <sup>[如东]</sup> 非常猛烈的火力：炒菜要用～。  
 1. 【[急火饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_hu_faen.md#急火饭)】`jieh7 hu3 faen6` <sup>[如东]</sup> 因为火急而短，饭没有熟透，叫做急火饭。  
 1. 【[急火饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_hu_faen.md#急火饭)】`jieh7 hu3 faen6` <sup>[兴化]</sup> ① 虽然煮熟，但火候未到的饭。 ② （喻）办事操切：做思想工作要和风细雨，不能煮～。  
 1. 【[急火饭夹生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_hu_faen_gaeh_shen.md#急火饭夹生)】`jieh7 hu3 faen6 gaeh7 shen1` <sup>[东台]</sup> 比喻欲速不达。  
 1. 【[急火<sub>儿</sub>饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_hu_r_faen.md#急火<sub>儿</sub>饭)】`jieh7 hu3 r faen6` <sup>[如皋]</sup> 大火快速煮熟的饭，没得慢火饭熟得透。  
 1. 【[急火<sub>儿</sub>粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_hu_r_zhoh.md#急火<sub>儿</sub>粥)】`jieh7 hu3 r zhoh7` <sup>[如皋]</sup> 大火快速煮熟的粥，没得慢火粥黏稠。另见“喃喃儿粥”。  
+1. 【[急呼呼的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_hv_hv_dii.md#急呼呼的)】`jieh7 hv hv1 dii` <sup>[如皋]</sup> 很急的样子。  
 1. 【[急呼呼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_hv_hv.md#急呼呼)】`jieh7 hv1 hv1` <sup>[东台]</sup> 非常急促的样子。  
 1. 【[急呼呼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_hv_hv.md#急呼呼)】`jieh7 hv1 hv1` <sup>[兴化]</sup> ① 即将：小宁肚大腰圆的，～要生养吖。 ② 很急迫：你别再撩他，他～的要发毛啦。  
 1. 【[急将](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_jian.md#急将)】`jieh7 jian5` <sup>[东台]</sup> 快速地、不断地：他～说～说，别人不曾完全听清楚。  

@@ -1059,7 +1059,7 @@
 1. 【[一面倒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_min_do.md#一面倒)】`ieh7 min6 do3` <sup>[如东]</sup> ① 向一边倒。 ② 许多人顺着某一种意见：他俫是～。  
 1. 【[一面街](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_min_gae.md#一面街)】`ieh7 min6 gae1` <sup>[如皋]</sup> 见“迎河街”。  
 1. 【[一面街](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_min_gae.md#一面街)】`ieh7 min6 gae1` <sup>[如皋]</sup> ① 只在一侧有店的街道。 ② 旧时镇市临河，河边为路道，只有～。唐时鉴真和尚笔下的如皋镇，就是～；海安、白蒲等大小镇，旧时都如此。  
-1. 【[一面戤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_min_kae.md#一面戤)】`ieh7 min6 kae5` <sup>[如东]</sup> ① 靠向一边。 ② 许多人顺着某一种意见跟着跑：他俫是～。  
+1. 【[一面隑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_min_kae.md#一面隑)】`ieh7 min6 kae5` <sup>[如东]</sup> ① 靠向一边。 ② 许多人顺着某一种意见跟着跑：他俫是～。  
 1. 【[一面理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_min_li.md#一面理)】`ieh7 min6 li3` <sup>[如东]</sup> 一个方面的意见，片面的理由：他说的只是～。  
 1. 【[一面之交](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_min_zhr_jio.md#一面之交)】`ieh7 min6 zhr1 jio1` <sup>[泰兴]</sup> ① 谓只见过一面，相互了解不深。 ② 我与箇个人只有～，说不上有甚的感情。  
 1. 【[一毛不拔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_mo_beh_paeh.md#一毛不拔)】`ieh7 mo2 beh7 paeh8` <sup>[如东]</sup> 比喻非常自私、吝啬：这个人～。  

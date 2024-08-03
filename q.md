@@ -689,7 +689,7 @@
 1. 【[七七八八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_qieh_baeh_baeh.md#七七八八)】`qieh7 qieh7 baeh7 baeh7` <sup>[泰兴]</sup> 犹言零零碎碎，乱七八糟，多种多样：箇些～的事，我不去过问。  
 1. 【[七七八八的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_qieh_baeh_baeh_dii.md#七七八八的)】`qieh7 qieh7 baeh7 baeh7 dii` <sup>[如皋]</sup> 杂乱的事情、物件：睡下来，～事总在心里盘。  
 1. 【[七夕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_qieh.md#七夕)】`qieh7 qieh8` <sup>[东台]</sup> 农历七月初七的晚上。传说牛郎织女这天在鹊桥相会。（东台音qieh7 xih7）  
-1. 【[七跷八挜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_qio_baeh_nga.md#七跷八挜)】`qieh7 qio1 baeh7 nga6` <sup>[泰兴]</sup> ① 地面不平 ② 单位或家庭内部不团结，闹矛盾：单位虽小，干群之间～的，实在难于管理 ③ 亦常用于人惹是生非，难以相处：他同个个～的  
+1. 【[七跷八㧎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_qio_baeh_nga.md#七跷八㧎)】`qieh7 qio1 baeh7 nga6` <sup>[泰兴]</sup> ① 地面不平 ② 单位或家庭内部不团结，闹矛盾：单位虽小，干群之间～的，实在难于管理 ③ 亦常用于人惹是生非，难以相处：他同个个～的  
 1. 【[七翘八跛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_qio_baeh_bu.md#七翘八跛)】`qieh7 qio2 baeh7 bu3` <sup>[东台]</sup> 同“里翘外跛”。也作“七翘八跛”。  
 1. 【[七绕八靠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_ro_baeh_ko.md#七绕八靠)】`qieh7 ro6 baeh7 ko5` <sup>[泰兴]</sup> 兜圈子、想主意（企图达到目的）。  
 1. 【[七绕八绕的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_ro_baeh_ro_dii.md#七绕八绕的)】`qieh7 ro6 baeh7 ro6 dii` <sup>[如皋]</sup> 绕来绕去的。  
@@ -1503,7 +1503,7 @@
 1. 【[千张纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_zhan_zhr.md#千张纸)】`qin1 zhan1 zhr3` <sup>[如皋]</sup> 一千张毛丈纸。人初丧，孝子或领孝者在停灵前头烧化～。出于安全常烧化在浮于水中的铁锅内。  
 1. 【[千张纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_zhan_zhr.md#千张纸)】`qin1 zhan1 zhr3` <sup>[泰兴]</sup> 人刚死后所化的纸钱。  
 1. 【[千枝桃花一树生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_zhr_to_hua.md#千枝桃花一树生)】`qin1 zhr1 to2 hua1 ieh7 shv6 shen1` <sup>[泰兴]</sup> 喻兄弟姐妹及其子女同根同祖。常用以劝慰家庭要和睦，别闹不团结。  
-1. 【[扦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin.md#扦)】`qin1` <sup>[兴化]</sup> 插：月季花～头。兴化词典做“𢳍”，《集韵·仙韵》亲然切｜“～，插也。”同“扦”。  
+1. 【[扦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin.md#扦)】`qin1` <sup>[兴化]</sup> 插：月季花～头。兴化词典做“𢳍”，《集韵·仙韵》亲然切，“～，插也。”同“扦”。  
 1. 【[扦扦活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_qin_huh.md#扦扦活)】`qin1 qin1 huh8` <sup>[如皋]</sup> 接骨木。忍冬科。  
 1. 【[椠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin.md#椠)】`qin1` <sup>[兴化]</sup> 削皮：～梨子皮。《集韵·盐韵》七廉切｜“～，削皮。”  
 1. 【[牵字游](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_cz_ieu.md#牵字游)】`qin1 cz6 ieu2` <sup>[兴化]</sup> 汉字偏旁，形状是“辶”。也称“走之”。  

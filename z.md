@@ -2594,7 +2594,7 @@
 1. 【[醉蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_hae.md#醉蟹)】`zuei5 hae3` <sup>[如东]</sup> 将新鲜梭子蟹，去壳后，放入烧酒及盐进行腌制，2小时后，加作料即可食用，肉嫩而味鲜。  
 1. 【[醉蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_hae.md#醉蟹)】`zuei5 hae3` <sup>[兴化]</sup> 将螃蟹洗净后，用米酒加葱姜汁等多种调料腌制而成。  
 1. 【[醉虾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_xia.md#醉虾)】`zuei5 xia1` <sup>[如东]</sup> 将新鲜海虾洗净后，放入烧酒及盐，进行腌制，1小时后，加作料即可食用，肉嫩而味鲜。  
-1. 【[尊辈长上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuen_bei_zhan_shan.md#尊辈长上)】`zuen1 bei5 zhan3 shan5` <sup>[东台]</sup> 泛指辈分高或年长的人：这小伙老相，眼睛里全没得～！  
+1. 【[尊辈长上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuen_bei_zhan_shan.md#尊辈长上)】`zuen1 bei5 zhan3 shan6-5` <sup>[东台]</sup> 泛指辈分高或年长的人：这小伙老相，眼睛里全没得～！  
 1. 【[尊驾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuen_jia.md#尊驾)】`zuen1 jia5` <sup>[如东]</sup> 尊敬的人。  
 1. 【[尊叫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuen_jio.md#尊叫)】`zuen1 jio5` <sup>[兴化]</sup> 称呼人，叫人，见“请叫”。  
 1. 【[尊嗓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuen_san.md#尊嗓)】`zuen1 san3` <sup>[如皋]</sup> 贬指某人嗓音难听。  

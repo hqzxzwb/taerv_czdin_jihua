@@ -1205,7 +1205,7 @@
 1. 【[湿二溚二的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_er_daeh_er_dii.md#湿二溚二的)】`sheh7 er daeh7 er dii` <sup>[如皋]</sup> 说话不干不净，带草字：他说话～，我不高兴睬他。  
 1. 【[湿尔溚尔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_er_daeh_er.md#湿尔溚尔)】`sheh7 er daeh7 er` <sup>[兴化]</sup> 说话时口中带脏字：他嘴里～的，太没教养。  
 1. 【[湿咖透啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_ga_teu_a.md#湿咖透啊)】`sheh7 ga teu5 a` <sup>[如皋]</sup> 全湿了：他淌大汗，衣裳～。  
-1. 【[湿㲹㲹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_ji_ji.md#湿㲹㲹)】`sheh7 ji1 ji1` <sup>[如东]</sup> 潮湿。  
+1. 【[湿叽叽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_ji_ji.md#湿叽叽)】`sheh7 ji1 ji1` <sup>[如东]</sup> 潮湿。  
 1. 【[湿叽叽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_ji_ji.md#湿叽叽)】`sheh7 ji1 ji1` <sup>[东台]</sup> 潮湿的样子。  
 1. 【[湿卡卡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_ka_ka.md#湿卡卡)】`sheh7 ka3 ka3` <sup>[兴化]</sup> 形容潮湿：几里路一跑，身上～的。  
 1. 【[湿淋淋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_lien_lien.md#湿淋淋)】`sheh7 lien2 lien2` <sup>[东台]</sup> 形容物体潮湿得往下滴水。也作“湿滴滴”。  
@@ -2222,9 +2222,7 @@
 1. 【[哨竿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_gun.md#哨竿)】`sho5 gun3` <sup>[如皋]</sup> 打丝线时立在离架子约20米的一根竹竿，传筢时把丝从上面绕过去，再回到架子下  
 1. 【[哨马子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_ma_zz.md#哨马子)】`sho5 ma3 zz` <sup>[如皋]</sup> 旧时用的一种装铜钞、小钱儿的钱袋，骑在肩上，前后有袋。  
 1. 【[哨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_zz.md#哨子)】`sho5 zz` <sup>[如东]</sup> 圆柱形，一般金属制，有口，放在嘴里吹，能发出响声，有提醒人注意或统一动作的作用。也叫哨鞭。风筝上安装的响器。竹筒制成，壁薄，有口。两只哨子联在一起，称一联。有一联、二联、三联、五联等多种。缚在风箏上，经大风吹，能发出响声。  
-1. 【[少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho.md#少)】`sho5` 短，和“长”相对  
-1. 【[少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho.md#少)】`sho5` <sup>[如皋]</sup> 短。  
-1. 【[少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho.md#少)】`sho5` <sup>[如东]</sup> 短：这根竹竿嫌～。  
+1. 【[少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho.md#少)】`sho5` <sup>\[如皋\]\[如东\]</sup>短，和“长”相对：这根竹竿嫌～。<sup>\[如东\]</sup>  
 1. 【[少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho.md#少)】`sho5-2` <sup>[东台]</sup> 短的意思：这绳子不到一米，跳绳嫌～。  
 1. 【[少雌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_cz.md#少雌)】`sho5 cz1` <sup>[泰县]</sup> 小母鸭。  
 1. 【[少豪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_ho.md#少豪)】`sho5 ho2` <sup>[如皋]</sup> 年轻气盛而狂妄的人。  
@@ -3462,7 +3460,7 @@
 1. 【[送灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_zo.md#送灶)】`son5 zo5` <sup>[如东]</sup> 一种民俗。阴历腊月二十四日晚，在厨房灶前举行祭祀仪式。扎纸马，供赤豆饭，烧纸钱，送灶神上天庭。灶神两边有一副对联，曰：上天言好事，下界保平安。  
 1. 【[送灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_zo.md#送灶)】`son5 zo5` <sup>[东台]</sup> 见“灶老爷”。  
 1. 【[送灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_zo.md#送灶)】`son5 zo5` <sup>[兴化]</sup> 旧俗：腊月二十四日晚，民户设馔及麦芽糖（灶糖），撒草豆，焚香烛、纸马，送灶王爷“上天言好事”。  
-1. 【[𢱤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son.md#𢱤)】`son5` <sup>[兴化]</sup> 推、托：墙头太高，你在下边～他一把，帮他爬上去。《集韵·董韵》损动切｜“～，推也”。  
+1. 【[𢱤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son.md#𢱤)】`son5` <sup>[兴化]</sup> 推、托：墙头太高，你在下边～他一把，帮他爬上去。  
 1. 【[䞭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su.md#䞭)】`su1` <sup>[东台]</sup> 小步快跑：他一～的下子，就走啊｜伢儿在下～来～去的。  
 1. 【[梭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su.md#梭)】`su1` <sup>[如东]</sup> 一种加工方法，用钢丝锯或狭条锯将木料锯开。  
 1. 【[梭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su.md#梭)】`su1` <sup>[东台]</sup> 来来去去锯东西：把凸咖在上面的铁钉～掉｜这许树枝太密，要～掉一些。  
@@ -3610,6 +3608,7 @@
 1. 【[酥糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_tan.md#酥糖)】`sv1 tan2` <sup>[如皋]</sup> 酥松可口的糖果，如：花生酥、董糖。  
 1. 【[𣩷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv.md#𣩷)】`sv1` <sup>[如皋]</sup> 朽坏：桌子脚～啊，一掐一块屑子。  
 1. 【[𣩷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv.md#𣩷)】`sv1` <sup>[兴化]</sup> 朽、烂：这块砖头浸吖水里一冻全～啊。这块木头已经烂吖泛～啊。《集韵·模韵》孙租切｜“～，烂也。”  
+1. 【[嗉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv.md#嗉)】`sv5` <sup>[东台]</sup> 鸟类食管下端盛食物的囊。  
 1. 【[塑料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_lio.md#塑料)】`sv5 lio6` <sup>[如东]</sup> 树脂等高分子化合物与配料混合，再经加热加压而形成的具有一定形状的材料。在常温下不再变形。种类很多，如电木、赛璐珞、聚氯乙烯等。一般有质轻、绝缘耐腐蚀耐磨等特点。广泛应用于飞机、车辆、船舶电机、机械、化学建筑等工业，也用来制造各种日用品。  
 1. 【[塑匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_qian.md#塑匠)】`sv5 qian` <sup>[如东]</sup> 从事泥塑业务的小手业者。  
 1. 【[素菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_cae.md#素菜)】`sv5 cae5` <sup>[如皋]</sup> 纯植物性材料做的冷拌菜，又名十香菜。  
@@ -3634,7 +3633,6 @@
 1. 【[素烛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_zhoh.md#素烛)】`sv5 zhoh7` <sup>[如皋]</sup> 白色的本造蜡烛，丧事用。  
 1. 【[素烛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_zhoh.md#素烛)】`sv5 zhoh7` <sup>[如东]</sup> 白蜡烛。主要用于丧事。  
 1. 【[素珠<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_zhv_r.md#素珠<sub>儿</sub>)】`sv5 zhv1 r` <sup>[如皋]</sup> 见“佛珠儿”。  
-1. 【[膆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv.md#膆)】`sv5` <sup>[东台]</sup> 通“嗉”，鸟类食管下端盛食物的囊。  
 1. 【[丝瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_gua.md#丝瓜)】`sz1 gua1` <sup>[如东]</sup> 葫芦科植物丝瓜，一年生草本。茎长，圆形，常有角棱，幼茎绿色。卷须通常三歧。叶互生，叶片圆心形，掌状三至七裂，边缘具细锯齿，上面深绿色，下面淡绿色。花单性，雌雄同株。总状花序。花黄色、淡黄色或近白色。瓠果下垂，长圆柱形。果肉内生坚韧的网状纤维。种子扁卵形，黑色。人工种植。  
 1. 【[丝瓜筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_gua_jien.md#丝瓜筋)】`sz1 gua1 jien1` <sup>[如东]</sup> 丝瓜络。  
 1. 【[丝瓜络](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_gua_lah.md#丝瓜络)】`sz1 gua1 lah8` <sup>[如东]</sup> 葫芦科植物丝瓜老熟果实的纤维，也叫天骷髅。  

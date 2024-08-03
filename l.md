@@ -432,7 +432,7 @@
 1. 【[蓝花大碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_hua_da_un.md#蓝花大碗)】`laen2 hua1 da6 un3` <sup>[兴化]</sup> 一种素色的粗瓷饭碗。也说“青花大碗”。  
 1. 【[蓝霍霍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_huah_huah.md#蓝霍霍)】`laen2 huah7 huah7` <sup>[泰县]</sup> 蓝闪闪。  
 1. 【[蓝蝴蝶<sub>儿</sub>花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_hv_tieh_r_hua.md#蓝蝴蝶<sub>儿</sub>花)】`laen2 hv2 tieh8 r hua1` <sup>[如皋]</sup> 鸢尾。  
-1. 【[蓝盈盈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ien_ien.md#蓝盈盈)】`laen2 ien ien1` <sup>[兴化]</sup> 形容蓝得发亮：大纵湖水在阳光下显得～的。  
+1. 【[蓝洇洇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ien_ien.md#蓝洇洇)】`laen2 ien ien1` <sup>[兴化]</sup> 形容蓝得发亮：大纵湖水在阳光下显得～的。  
 1. 【[蓝印花布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ien_hua_bv.md#蓝印花布)】`laen2 ien5 hua1 bv5` <sup>[如皋]</sup> 旧时染坊用镂花纸板为模，在土布上涂浆，然后下缸用大青叶的蓝色染色，再洗去涂浆层，成为蓝底白花的土布。  
 1. 【[蓝圆鲹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_iun_caen.md#蓝圆鲹)】`laen2 iun2 caen1` <sup>[如东]</sup> 鲹科动物蓝圆鲹，长约27厘米。  
 1. 【[蓝眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ngaen_r.md#蓝眼<sub>儿</sub>)】`laen2 ngaen3 r` <sup>[如东]</sup> 眼球表面生长眼翳，呈蓝色，称蓝眼儿。  

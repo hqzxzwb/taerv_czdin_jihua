@@ -77,7 +77,7 @@
 1. 【[大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#大)】`tae3` 大，不小  
 1. 【[大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#大)】`tae3` <sup>[如皋]</sup> 大。  
 1. 【[大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#大)】`tae3` <sup>[东台]</sup> 大：这个瓜多～！吃不下。  
-1. 【[大哥<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_gun_r.md#大哥<sub>儿</sub>)】`tae3 gun1 r` <sup>[如皋]</sup> 行一，老大。  
+1. 【[大哥<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_gu_r.md#大哥<sub>儿</sub>)】`tae3 gu1 r, tae3 gu2 r` <sup>[如皋]</sup> 行一，老大。  
 1. 【[大气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_qi.md#大气)】`tae3 qi` <sup>[如东]</sup> 大方：不～。  
 1. 【[大大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_tae.md#大大)】`tae3 tae3` <sup>[泰县]</sup> 愉快满意  
 1. 【[骀*](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#骀*)】`tae3` <sup>[兴化]</sup> 肢体张开坐或倚：身子～下来啊。《集韵·海韵》荡亥切｜“～，疲也……”  
@@ -2459,7 +2459,7 @@
 1. 【[断砖<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_zhun_r.md#断砖<sub>儿</sub>)】`tun6 zhun1 r` <sup>[如皋]</sup> 断裂但成型的砖头。与“乱砖儿、碎砖儿”相对。  
 1. 【[段](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun.md#段)】`tun6` <sup>[东台]</sup> ① （量词）用于长条状物分成若干部分：一～木头。 ② （量词）表示一定的距离或事物的一部分：一～路｜一～文章。  
 1. 【[段落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_lah.md#段落)】`tun6 lah8` <sup>[如东]</sup> 根据文章内容划分成为另一部分。事情结束：告一～。  
-1. 【[输](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv.md#输)】`tv1` <sup>[东台]</sup> 失败，负：他打麻将～掉几百块。  
+1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv.md#□)】`tv1` <sup>[东台]</sup> 失败，负：他打麻将～掉几百块。  
 1. 【[图](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv.md#图)】`tv2` <sup>[如皋]</sup> 希图：～财、～做生意、～个好出语。  
 1. 【[图赖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_lae.md#图赖)】`tv2 lae6` <sup>[兴化]</sup> ① 抵赖：“好好！你休要～。”（《广陵潮》二十） ② 把罪过推给别人：“这窦家小短命羔儿，输不起钱，就休要赌，为什么吊死了，～人！”（《岐路灯》五一）  
 1. 【[图软](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_run.md#图软)】`tv2 run3` <sup>[兴化]</sup> 贪图小利：他为～，上吖人家的当。  

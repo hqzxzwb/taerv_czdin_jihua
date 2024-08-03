@@ -1616,7 +1616,7 @@
 1. 【[扭扭怪怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu_nieu_guae_guae.md#扭扭怪怪)】`nieu3 nieu3 guae5 guae5` <sup>[兴化]</sup> 矫揉造作，举止不大方：你有话好好说，覅～的。  
 1. 【[扭扭郭郭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu_nieu_guah_guah.md#扭扭郭郭)】`nieu3 nieu3 guah7 guah7` <sup>[如东]</sup> ① 身体扭动：红儿走路时，身子总是～的。 ② 比喻决定问题迟疑不决：张红兰决定问题总是～的。  
 1. 【[扭扭毌毌的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu_nieu_kuaeh_kuaeh_dii.md#扭扭毌毌的)】`nieu3 nieu3 kuaeh8 kuaeh8 dii` <sup>[如皋]</sup> 见“扭头毌颈的”。  
-1. 【[扭扭捏捏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu_nieu_nih_nih.md#扭扭捏捏)】`nieu3 nieu3 nih7 nih7` <sup>[东台]</sup> 举止言谈不大方或不好意思：不要～，这块又没得外人。  
+1. 【[扭扭捏捏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu_nieu_nih_nih.md#扭扭捏捏)】`nieu3 nieu3 nih8-7 nih8-7` <sup>[东台]</sup> 举止言谈不大方或不好意思：不要～，这块又没得外人。  
 1. 【[扭扭歪歪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu_nieu_vae_vae.md#扭扭歪歪)】`nieu3 nieu3 vae1 vae1` <sup>[兴化]</sup> 步履踉跄不稳：他酒喝多啊，走起路来～的。  
 1. 【[扭头刮颈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu_teu_guaeh_jien.md#扭头刮颈)】`nieu3 teu2 guaeh7 jien3` <sup>[东台]</sup> 形容举止不稳重，身体动得过多，叫人看不顺眼。  
 1. 【[扭头刮颈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu_teu_guaeh_jien.md#扭头刮颈)】`nieu3 teu2 guaeh7 jien3` <sup>[兴化]</sup> 扭捏作态：这个人男不男，女不女的，说起话来～。也作“扭头折颈”。《儒林外史》第四十二二回有“两个婊子，轻轻试试，扭头折颈”句。  
