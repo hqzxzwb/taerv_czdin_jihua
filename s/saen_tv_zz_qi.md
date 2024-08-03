@@ -1,4 +1,4 @@
 # 涎唾子气
-saen2 tu5 zz qi5
+saen2 tv5 zz qi5
 > 如皋方言词典
 - 唾液干后的臭味。
