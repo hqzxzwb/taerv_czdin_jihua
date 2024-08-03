@@ -2,6 +2,7 @@
 **[A](./a.md) | [B](./b.md) | [C](./c.md) | [D](./d.md) | [E](./e.md) | [F](./f.md) | [G](./g.md) | [H](./h.md) | [I](./i.md) | [J](./j.md) | [K](./k.md) | [L](./l.md) | [M](./m.md) | [N](./n.md) | [O](./o.md) | [P](./p.md) | [Q](./q.md) | [R](./r.md) | [S](./s.md) | [T](./t.md) | [U](./u.md) | [V](./v.md) | [X](./x.md) | [Y](./y.md) | [Z](./z.md)**  
 ## O
 1. 【[哦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/o.md#哦)】`o, ngo, go` <sup>[泰兴]</sup> 助词。表示催促。读音因前字韵尾而不同：快点走～（o）。  
+1. 【[噢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/o.md#噢)】`o` <sup>[泰州]</sup> ① 叹词，表示恍然大悟：～原来是这回事啊。 ② 句末语气词，表示责备语气：你望你～，这点儿事都弄不好。  
 1. 【[噢唉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/o_ae.md#噢唉)】`o3 ae` <sup>[如皋]</sup> 旧时沿街巷叫买大粪的声音。  
 1. 【[喔吆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_io.md#喔吆)】`oh7 io1` <sup>[东台]</sup> ［语气助词］表示惊讶：～！天气突然变丑啊。  
 1. 【[屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh.md#屋)】`oh7` <sup>[如皋]</sup> 与“房”同义，但用法有所不同。只用“屋”：砌～、堂～、磨～家的；“房、屋”通用：～脊、～檐、草～；只用“房”：新房、书房、房间。  
@@ -55,6 +56,7 @@
 1. 【[齆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on.md#齆)】`on5` <sup>[兴化]</sup> 因鼻塞而发音不清晰。《广韵·送韵》乌贡切：“～，鼻塞曰～”：他这几天感冒，说话～声～气的  
 1. 【[齆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on.md#齆)】`on5, ngon5` <sup>[如皋]</sup> ① 鼻塞时的发音：他伤风，说话鼻子有点儿～。 ② 软腭缺损者的发音。  
 1. 【[齆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on.md#齆)】`on5` <sup>[泰县]</sup> ① 鼻子不通气：鼻孔都发咖～。（《广韵》去声送韵乌贡切：“鼻塞曰～”。） ② 鼻塞语音不清：这个人鼻子发咖～。  
+1. 【[齆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on.md#齆)】`on5` <sup>[泰州]</sup> 鼻子不通气，发音不畅：这两天感吖冒，说话声音有点～。  
 1. 【[齆鼻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_pieh_r.md#齆鼻<sub>儿</sub>)】`on5 pieh8 r` <sup>[东台]</sup> 因鼻孔堵塞而发音不清。  
 1. 【[齆鼻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_pieh_r.md#齆鼻<sub>儿</sub>)】`on5 pieh8 r, ngon5 pieh8 r` <sup>[如皋]</sup> 软腭缺损者。  
 1. 【[齆鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_pieh_zz.md#齆鼻子)】`on5 pieh8 zz` <sup>[如东]</sup> 因鼻腔阻塞而发音不清。因鼻腔阻塞而嗅觉不灵敏。  

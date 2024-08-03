@@ -80,6 +80,7 @@
 1. 【[大哥<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_gu_r.md#大哥<sub>儿</sub>)】`tae3 gu1 r, tae3 gu2 r` <sup>[如皋]</sup> 行一，老大。  
 1. 【[大气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_qi.md#大气)】`tae3 qi` <sup>[如东]</sup> 大方：不～。  
 1. 【[大大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_tae.md#大大)】`tae3 tae3` <sup>[泰县]</sup> 愉快满意  
+1. 【[奤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#奤)】`tae3` <sup>[泰州]</sup> ① 肥胖的人脸部粗大样子 ② 他家新妇坐啊个月子，脸上养吖～开来啊。  
 1. 【[骀*](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#骀*)】`tae3` <sup>[兴化]</sup> 肢体张开坐或倚：身子～下来啊。《集韵·海韵》荡亥切｜“～，疲也……”  
 1. 【[太公](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_gon.md#太公)】`tae5 gon1` <sup>[如皋]</sup> 指称丈夫的祖父。  
 1. 【[太公](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_gon.md#太公)】`tae5 gon1` <sup>[兴化]</sup> 曾祖父。谚曰：有理打得～。通常称“太爷”。  
@@ -163,6 +164,7 @@
 1. 【[汏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#汏)】`tae6` <sup>[如皋]</sup> 漂洗。  
 1. 【[汏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#汏)】`tae6` <sup>[东台]</sup> 洗过的衣被，再放到清水里漂洗。  
 1. 【[汏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#汏)】`tae6` <sup>[兴化]</sup> 洗后漂清：金如松一面把洗的衣裳～～清，一面……（马春阳《姐妹姻缘船迷传》）｜《后汉书·陈元传》｜“解释先圣之积结，洮汰学者之累惑。”李贤注｜“洗汰，犹洗濯也。”  
+1. 【[汏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#汏)】`tae6` <sup>[泰州]</sup> ① 用清水漂洗衣物：到河边～衣裳 ② 粗洗之后在用清水漂洗物品：青菜我洗过啊，你要～下子再下锅。  
 1. 【[绐弯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_vaen.md#绐弯)】`tae6 vaen1` <sup>[东台]</sup> 变形，中间下垂：我家的旧沙发用吖几年，里面弹簧～。  
 1. 【[袋<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_r.md#袋<sub>儿</sub>)】`tae6 r` <sup>[如东]</sup> 口袋。有布口袋麻口袋、草口袋、塑料口袋诸种。  
 1. 【[袋<sub>儿</sub>口朝下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_r_keu_cho_ha.md#袋<sub>儿</sub>口朝下)】`tae6 r keu3 cho2 ha6` <sup>[东台]</sup> ［喻］大方，舍得掏钱用。  
@@ -198,6 +200,7 @@
 1. 【[搨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh.md#搨)】`taeh7` <sup>[东台]</sup> 涂抹，搽：用泥～子把石灰～平｜她上台前总喜欢～点口红。  
 1. 【[搨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh.md#搨)】`taeh7` <sup>[兴化]</sup> ① 涂抹：～油｜～浆糊。 ② （引）漫不经心地写或画：“……你看银子面上，随便～几句给他就完了。”（《官场现形记》三）  
 1. 【[搨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh.md#搨)】`taeh7` <sup>[泰县]</sup> ① 粉刷：把墙缝儿～起来。 ② 用笔写：～几张标语。  
+1. 【[搨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh.md#搨)】`taeh7` <sup>[泰州]</sup> ① 古代一种复印办法，先将宣纸紧紧覆在石碑、青铜器的文字或花纹之上，再用易漏粉的黑墨粉袋或者其他颜色粉袋拍打宣纸表面，复制出石碑、青铜器上的文字、花纹。 ② 随意将笔按在纸上写字或者作画：他跟你要几个字，你有空～一幅字把他就是唻。 ③ 涂抹：你脸上～的雪花膏嫌多。 ④ 用铲按住饭团在锅中来回移动，使饭团散开：你炒的蛋炒饭，里头的饭团ㄦ都不曾～咖来。  
 1. 【[搨板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_baen.md#搨板)】`taeh7 baen3` 泥瓦匠往墙上抹水泥是使用的工具，从灰草板上铲起水泥浆往墙上涂抹。  
 1. 【[搨饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_faen.md#搨饭)】`taeh7 faen6` <sup>[如皋]</sup> 将冷饭置锅中加热时炒动，一会即可。  
 1. 【[搨饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_faen.md#搨饭)】`taeh7 faen6` <sup>[泰县]</sup> 把饭热一下。  
@@ -270,6 +273,7 @@
 1. 【[坍铳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_chon.md#坍铳)】`taen1 chon5` 丢脸，丢人  
 1. 【[坍铳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_chon.md#坍铳)】`taen1 chon5` <sup>[如东]</sup> 丢面子。  
 1. 【[坍台](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_tae.md#坍台)】`taen1 tae2` <sup>[东台]</sup> ① 垮台。 ② 丢脸；出丑。  
+1. 【[摊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen.md#摊)】`taen1` <sup>[泰州]</sup> ① 将物体在平面铺开：把纸～吖桌子上。 ② 分担，分得：上扬州花的钱，账算吖过啊唻，～你出50块钱。 ③ 一种烹饪方法，将食材均匀铺于锅面煎烤：～鸡蛋饼。 ④ 轮到：～你出牌，𢜶点ㄦ出唦。  
 1. 【[摊饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_bien.md#摊饼)】`taen1 bien3` <sup>[如皋]</sup> 指将面浆倒入锅中摊制的薄饼。  
 1. 【[摊膏药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_go_iah.md#摊膏药)】`taen1 go1 iah` <sup>[兴化]</sup> 把和了药料的膏药黐涂在纸或布片上：从上灯起，直到王二过店堂里来闲坐，他一直都在～。（汪曾棋：《异秉》）  
 1. 【[摊胡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_hv.md#摊胡)】`taen1 hv2` <sup>[兴化]</sup> ① 一种玩纸牌的方法，起牌三十二张。 ② （借）耍赖：他道理讲不过人，玩起三十二张——～来啊。  
@@ -295,6 +299,8 @@
 1. 【[痑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen.md#痑)】`taen1` 疲劳，累  
 1. 【[痑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen.md#痑)】`taen1` <sup>[如皋]</sup> 状极为疲劳：软～无力。  
 1. 【[痑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen.md#痑)】`taen1` <sup>[兴化]</sup> 非常疲劳：下乡劳动一天，到晚身子萎啊～下来啊。｜这些人酒喝多啊，个个手～脚软。《广韵·寒韵》他干切：“～，力极。”  
+1. 【[痑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen.md#痑)】`taen1` <sup>[泰州]</sup> ① 疲乏至极点导致身体无力，主观上不愿意行动：忙吖一天，把我人都忙吖～吖唻，家来就要睡觉，真的不想动。 ② 自我放纵，躺平：他受啊处分以后，索性～吖唻玩唻，连班都不上唻。丨我俫公司的经理～吖来唻，甚的事都不问吖。  
+1. 【[瘫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen.md#瘫)】`taen1` <sup>[泰州]</sup> ① 因受强烈刺激，导致身体无力而客观上无法站立、挪动而只能躺着：人捱他的车子撞吖多远，地下全是血，他当场就吓咖～吖。 ② 瘫痪：他从脚手架上跌下来以后，～吖家里好些年。  
 1. 【[瘫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_zz.md#瘫子)】`taen1 zz` <sup>[如东]</sup> 双脚瘫痪的人。  
 1. 【[瘫子带亲——坐啊家里等](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_zz_dae_qien_cu_a_ga_lii_den.md#瘫子带亲——坐啊家里等)】`taen1 zz dae5 qien1 cu6 a ga1 lii den3` <sup>[东台]</sup>   
 1. 【[瘫子忑咖井里——捞起来也是坐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_zz_teh_ga_jien_lii_lo_qi_lae_ia_shr_cu.md#瘫子忑咖井里——捞起来也是坐)】`taen1 zz teh7 ga jien3 lii lo2 qi3 lae2 ia3 shr6 cu6` <sup>[东台]</sup>   
@@ -349,6 +355,7 @@
 1. 【[谈遇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_y.md#谈遇)】`taen2 y6` <sup>[如皋]</sup> 家鸽互相嘀咕。  
 1. 【[啖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen.md#啖)】`taen3` <sup>[如皋]</sup> 吃，且吃相粗犷。  
 1. 【[啖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen.md#啖)】`taen3` <sup>[东台]</sup> 吃或给别人吃。读若“坦”：礼拜天到茶馆去～一顿。  
+1. 【[啖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen.md#啖)】`taen3` <sup>[泰州]</sup> 吃：三个烧饼，他一刻ㄦ工夫就～下肚来。  
 1. 【[啖刮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_guaeh.md#啖刮)】`taen3 guaeh7` <sup>[如皋]</sup> 见“啖”。  
 1. 【[啖刮啖刮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_guaeh_taen_guaeh.md#啖刮啖刮)】`taen3 guaeh7 taen3 guaeh7` <sup>[如皋]</sup> 见“啖”。  
 1. 【[胆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen.md#胆)】`taen3` <sup>[如皋]</sup> 车胎。  
@@ -356,6 +363,7 @@
 1. 【[袒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen.md#袒)】`taen3` <sup>[东台]</sup> ① 称秤不足，与翘、饱相反：这筐玉米虽说有一百斤，但是秤有点～，分量实际不足。 ② 亏待、对不起：这次招待有点～，请多包涵。  
 1. 【[袒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen.md#袒)】`taen3` <sup>[兴化]</sup> 因份量不足，秤杆稍稍低垂：这点虾儿一斤～～的。  
 1. 【[袒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen.md#袒)】`taen3` <sup>[泰县]</sup> 不足秤：这个菜，一斤～～的。  
+1. 【[袒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen.md#袒)】`taen3` <sup>[泰州]</sup> ① （泰州词典作坍） ② 悬挂秤砣一遍的秤杆略低于水平一下：你望望秤，系摆啊十斤上头，哿是太～吖唻。 ③ 低于正常水准：这个喜酒的菜，稍微～吖点ㄦ。丨送200块钱人情嫌～吖点ㄦ。  
 1. 【[叹气咍脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_qi_hae_no.md#叹气咍脑)】`taen5 qi5 hae1 no3` <sup>[兴化]</sup> 形容情绪恼丧的样子：他这几天～的，不晓得为甚的？  
 1. 【[叹气蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_qi_hae.md#叹气蟹)】`taen5 qi5 hae3` <sup>[兴化]</sup> 将死的蟹，只能吐出少量的气泡，故名。  
 1. 【[叹气桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_qi_qio.md#叹气桥)】`taen5 qi5 qio2` <sup>[东台]</sup> 旧时东台城县府街向北到城河大操场的一座木桥，处决人犯必经之路。犯人经过这里，往往长叹一声，故用此名。  
@@ -439,6 +447,7 @@
 1. 【[庹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah.md#庹)】`tah7` <sup>[如皋]</sup> ① 量词，双臂横展的长度，相当于身高。 ② 动词：把绳儿～下子。  
 1. 【[庹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah.md#庹)】`tah7` <sup>[如东]</sup> 两臂左右伸直的长度，约合五尺，称为一庹。  
 1. 【[庹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah.md#庹)】`tah7` <sup>[泰县]</sup> （量词）两手臂左右平伸出的长度。  
+1. 【[庹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah.md#庹)】`tah7` <sup>[泰州]</sup> 成人两臂左右平伸时两手之间的距离：一～长的竹子  
 1. 【[托](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah.md#托)】`tah7` <sup>[兴化]</sup> ① 推销、兜售：卖不掉的东西沿门去～。 ② 退出多余部分：你上次多拿五百块，这次要～出来。 ③ 使显现：你受啊内伤，要用药把它～出来。  
 1. 【[托](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah.md#托)】`tah7` <sup>[泰县]</sup> 排：他受啊寒凉，吃点儿药～～。  
 1. 【[托不住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_beh_chv.md#托不住)】`tah7 beh7 chv6` <sup>[如皋]</sup> 见“袒”。  
@@ -462,6 +471,7 @@
 1. 【[度度](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_tah.md#度度)】`tah8 tah8` <sup>[泰县]</sup> 丰满到极限。  
 1. 【[踱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah.md#踱)】`tah8` <sup>[如东]</sup> 缓慢行走。  
 1. 【[踱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah.md#踱)】`tah8` <sup>[泰县]</sup> 缓步前行：走步，～咖～的。  
+1. 【[踱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah.md#踱)】`tah8` <sup>[泰州]</sup> 泛指走开：领导的报告还不错做得好，他人就～咖走啊。丨他人刚才还在这块的，这一刻ㄦ不晓得他又～咖哪块去啊唻。  
 1. 【[踱方步](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_fan_pv.md#踱方步)】`tah8 fan1 pv6` <sup>[如皋]</sup> 慢步，走官步。  
 1. 【[踱月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_iuh.md#踱月)】`tah8 iuh8` <sup>[如皋]</sup> 明月当空的时候。散步赏月。  
 1. 【[踱步](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_pv.md#踱步)】`tah8 pv6` <sup>[如东]</sup> 慢慢走动：我在外头～。  
@@ -517,6 +527,7 @@
 1. 【[𢴳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#𢴳)】`tan1` <sup>[东台]</sup> 用手推阻：歹徒一拳打过来，捱我抬手一～，就势一推，摔啊个狗吃屎。  
 1. 【[𢴳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#𢴳)】`tan1` <sup>[兴化]</sup> ① 抵挡、遮挡：他见对方一拳打来，连忙用前臂来～。 ② 撞着：～吖邪气。  
 1. 【[𢴳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#𢴳)】`tan1` <sup>[泰县]</sup> 抵挡。  
+1. 【[𢴳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#𢴳)】`tan1` <sup>[泰州]</sup> ① 用手或者持械推挡：东西𠫓咖来，我同他～吖下子。 ② 稍稍抵御、抵抗：披件衣裳，多少能～住点ㄦ风。 ③ 采取临时措施，缓解任务或者事务压力：刚才领导来查人，我同你～过去啊。  
 1. 【[𢴳寒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_hun.md#𢴳寒)】`tan1 hun2` <sup>[兴化]</sup> 挡寒、御寒：“一路风吹坏了，小二拿壶暖与大嫂～。”（《梼杌闲评》七）｜《水浒传》第十回有“胡乱只回三五碗与小人盪寒”句。  
 1. 【[𢴳门面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_men_min.md#𢴳门面)】`tan1 men2 min6` <sup>[泰县]</sup> 应酬。  
 1. 【[唐锣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_lu.md#唐锣)】`tan2 lu2` <sup>[如东]</sup> 一种小铜锣。  
@@ -621,6 +632,7 @@
 1. 【[躺椅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_i.md#躺椅)】`tan3 i3` <sup>[兴化]</sup> 见“睡椅”。  
 1. 【[摥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#摥)】`tan5` <sup>[如皋]</sup> ① 用摥网、摥子取鱼、虾、蚬子的过程。 ② 用摥子平斗斛的过程。  
 1. 【[摥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#摥)】`tan5` <sup>[兴化]</sup> ① 用耥网捕鱼虾：～鱼｜～螺螺。 ② 推着自行车走：～脚踏车。  
+1. 【[摥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#摥)】`tan5` <sup>[泰州]</sup> 推着器具前行：你把摩托车～吖修理店去修啊子。丨他俫两个人个人～吖部脚踏车，在路上一边～一边谈心。  
 1. 【[摥车子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_cha_zz.md#摥车子)】`tan5 cha1 zz` <sup>[如皋]</sup> 推自行车、推空的独轮车。  
 1. 【[摥车子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_cha_zz.md#摥车子)】`tan5 cha1 zz` <sup>[东台]</sup> 扶着车子走。  
 1. 【[摥网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_van.md#摥网)】`tan5 van3` <sup>[如皋]</sup> 竹篙头部装箕形的小渔网。  
@@ -660,16 +672,20 @@
 1. 【[耥秧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_ian.md#耥秧)】`tan5 ian1` <sup>[如东]</sup> 用一种齿耙在秧苗间来回拉动，把泥土壅在秧根下，这种劳动称耥秧。  
 1. 【[耥子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_zz.md#耥子)】`tan5 zz` <sup>[如皋]</sup> 水田中耕器，有长柄。木架下面有向后斜的铁齿，推则压草，拉则松土，兼拔草根。  
 1. 【[趟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#趟)】`tan5` <sup>[兴化]</sup> 量词，群：刚才一～人走过去啊。｜一～鸭子。  
+1. 【[趟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#趟)】`tan5` <sup>[泰州]</sup> ① 量词，次，回：为啊这个项目跑啊四～南京。 ② 量词，聚集在一起的人或物：上午九点多钟来啊一～人，十点多钟又来啊一～人。 ③ 量词，车船的版次：这～车子开啊走啊唻。  
 1. 【[趟浑水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_huen_xy.md#趟浑水)】`tan5 huen2 xy3` <sup>[东台]</sup> ［喻］跟着别人干坏事。  
 1. 【[趟鸭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_ngaeh.md#趟鸭)】`tan5 ngaeh7` <sup>[兴化]</sup> 大批量饲养的鸭子：群鸡～。  
 1. 【[趟趟上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_tan_shan.md#趟趟上)】`tan5 tan5 shan6` <sup>[东台]</sup> 指每个节目或项目都参与的人：昨子的表演他～，来事！  
 1. 【[宕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#宕)】`tan6` <sup>[兴化]</sup> ① 拖延、搁起：这种事情要抓紧办，千万不能再～。 ② 任意花费：这几个钱背不住一～就光吖。  
+1. 【[宕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#宕)】`tan6` <sup>[泰州]</sup> 拖延：最近手头有点ㄦ紧，差你的钱再～几天还把你吧。  
+1. 【[盪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#盪)】`tan6` <sup>[泰州]</sup> 摇动容器内的水，洗涤器具：把碗～吖子再盛饭。  
 1. 【[荡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#荡)】`tan6` <sup>[如皋]</sup> ① 原是浅湖沼泽，后淤积成陆，但地势低。地名通名中有保留：北～、高阳～。变名有草荡、荡子、荡里。 ② 闲逛（原文作“趤”，僻。）：～马路｜从东头～到西头  
 1. 【[荡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#荡)】`tan6` <sup>[如东]</sup> ① 物体挂在绳上摆来摆去：篮子挂啊绳上～。 ② 洗，汰：洗好的碗再～下子。 ③ 闲散懒惰：他一天到晚在家里～。  
 1. 【[荡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#荡)】`tan6` <sup>[东台]</sup> ① 摇动；摆动。 ② 冲洗：把茶杯～一下。 ③ 积水洼地，或称浅水湖：天鹅～、中～、六～。 ④ 放纵，不检点：说话要负责任，不能“没提纲随口～”。  
 1. 【[荡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#荡)】`tan6` <sup>[兴化]</sup> 划船动作：只见有只小船从海面上远远～来……（《水浒后传》三六）｜说着，万二虎猛～几桨，准准与巡逻船擦帮而来。（马春阳《夜袭叹气庙》）  
 1. 【[荡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#荡)】`tan6` <sup>[兴化]</sup> ① 将热水在容器间倒来倒去，使变凉：～热茶。 ② 将刀斧口在砖石糙面上来回刮，使锋利：～刀。  
 1. 【[荡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#荡)】`tan6` <sup>[泰县]</sup> 汰：碗洗好啊再～下子。  
+1. 【[荡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#荡)】`tan6` <sup>[泰州]</sup> ① 刀斧等在磨刀石、布上来回磨动：这把厨刀有点钝唻，～啊子就好切吤。丨剃头刀在布上～两下子。 ② 稍稍碰到：火剪子烧啊红吖，你让啊子，～到就是个泡。  
 1. 【[荡刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_do.md#荡刀)】`tan6 do1` <sup>[如皋]</sup> 荡磨刀刃。  
 1. 【[荡刀布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_do_bv.md#荡刀布)】`tan6 do1 bv5` <sup>[如皋]</sup> 理发店荡磨剃刀的条状布。  
 1. 【[荡刀布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_do_bv.md#荡刀布)】`tan6 do1 bv5` <sup>[东台]</sup> 悬挂在理发店里，剃头匠用来荡抹剃头刀污垢的厚布。  
@@ -728,6 +744,7 @@
 1. 【[忑下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_xia.md#忑下)】`teh7 xia6` <sup>[兴化]</sup> 距街市或中心区较远的地方：他这套房子倒不丑，就是地点～。  
 1. 【[忑榫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_xyen.md#忑榫)】`teh7 xyen3` <sup>[如皋]</sup> 榫头从榫眼中松开、脱落。  
 1. 【[忑着咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_zhah_ga.md#忑着咖)】`teh7 zhah7 ga` <sup>[东台]</sup> 与“失晓”意同：他怕的睡吖～，快去叫醒！  
+1. 【[𠫓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh.md#𠫓)】`teh7` <sup>[泰州]</sup> ① 落下，掉下：他这个人东西～咖地下也不拾。丨苹果～咖地下脏吖唻。 ② 遗失东西：～咖100块钱。丨他把重要文件弄吖～掉啊。 ③ 脸部表情突然变为阴沉：这小伙说话不上路，老李同他把脸朝下一～。丨大家都是熟人，何必把脸～咖唻说。  
 1. 【[凸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh.md#凸)】`teh8` <sup>[如东]</sup> 平面的一个部位鼓起来了：木板中间～起来啊。  
 1. 【[凸凸的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_teh_dii.md#凸凸的)】`teh8 teh8 dii` <sup>[如东]</sup> 平面的一个部位十分突出：他太胖吖，肚子～。  
 1. 【[特客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_keh.md#特客)】`teh8 keh7` <sup>[如皋]</sup> ① 特别客人。 ② 讽刺话。  
@@ -746,6 +763,7 @@
 1. 【[疼疖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_jih_zz.md#疼疖子)】`ten2 jih7 zz` <sup>[如皋]</sup> 喻把柄：他的～是贪财；你抓住咖他的～，他就怕你。  
 1. 【[疼肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_roh.md#疼肉)】`ten2 roh8` <sup>[如皋]</sup> 疼爱：妈妈死得虽早，还有姑妈～他。人人都有～之心。  
 1. 【[疼肉之心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_roh_zhr_xien.md#疼肉之心)】`ten2 roh8 zhr1 xien1` <sup>[东台]</sup> 体谅他人皮肉之苦的慈善心肠。  
+1. 【[腾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten.md#腾)】`ten2` <sup>[泰州]</sup> ① 让出部分空间挪作他用：你去同哥哥睏，～一张铺出来把舅舅睏。 ② 让出部分时间或者物品挪作他用：再忙也要～出时间带伢儿上医院。  
 1. 【[腾房子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_fan_zz.md#腾房子)】`ten2 fan2 zz` <sup>[如东]</sup> 把房屋倒空出来。  
 1. 【[腾功夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_gon_fv.md#腾功夫)】`ten2 gon1 fv1` <sup>[如东]</sup> 抽出时间来：我再忙，也要～陪你耍子。  
 1. 【[腾工夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_gon_fv.md#腾工夫)】`ten2 gon1 fv1` <sup>[如皋]</sup> 挤出时间。  
@@ -774,6 +792,7 @@
 1. 【[褪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten.md#褪)】`ten5` <sup>[如皋]</sup> 向下脱：～裤子。  
 1. 【[褪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten.md#褪)】`ten5` <sup>[东台]</sup> 悄悄地退让，逃避：党员干部遇到难事不能往后～。  
 1. 【[褪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten.md#褪)】`ten5` <sup>[兴化]</sup> ① 悄然退出：他一听手机响，忙从队伍里～出来。 ② 藏在袖子里：钱～吖衣袖里。‖也作“吞”｜《西游记》第三十四回有“～袖子，揣腰间”句。也读作tun5。  
+1. 【[褪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten.md#褪)】`ten5` <sup>[泰州]</sup> ① 脱下衣服：你把衣裳～下来把我洗。 ② 退：你朝后～两步，让他先过去。 ③ 时间向后延期：不好意思，借你的钱，还要再～两天还把你。丨事情太多,～到今朝才处理。 ④ 回避：遇到这些事情，你还是老实点ㄦ朝后～～的好。  
 1. 【[褪的人家扁担头上的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_dii_ren_ga_bin_daen_teu_shan_dii.md#褪的人家扁担头上的)】`ten5 dii ren2 ga bin3 daen5 teu2 shan dii` <sup>[东台]</sup> 喻指学的人家已经过时的经验。  
 1. 【[褪裤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_kv_zz.md#褪裤子)】`ten5 kv5 zz` <sup>[如皋]</sup> 脱裤子。  
 1. 【[褪裤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_kv_zz.md#褪裤子)】`ten5 kv5 zz` <sup>[东台]</sup> 脱裤子。  
@@ -830,6 +849,7 @@
 1. 【[偷针眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_zhen_ngaen.md#偷针眼)】`teu1 zhen1 ngaen3` <sup>[兴化]</sup> 麦粒肿的俗称。  
 1. 【[偷种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_zhon.md#偷种)】`teu1 zhon3` <sup>[兴化]</sup> 因男人无生育能力，为得到孩子，默许女人红杏出墙。  
 1. 【[头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu.md#头)】`teu2` 头  
+1. 【[头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu.md#头)】`teu2` <sup>[泰州]</sup> ① 动词后缀，表示动作行为的价值、意义：讲～丨做～丨看～丨玩～丨乡下有甚的去～。 ② 与数词一、二、两连用，表示约数：～二十岁丨～两千块钱～ ③ 用在数量词后，表示强调：他打牌就上来这一阵～兄，底下就不行吖。丨这几碗菜全部倒做块儿一锅～热咖子。丨他上去几笔～就画啊好唻。丨酒量不行，三杯～人就醉啊唻。  
 1. 【[头把劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_ba_jien.md#头把劲)】`teu2 ba3 jien5` <sup>[东台]</sup> 特别来劲：说到跳舞健身，她是～。  
 1. 【[头班车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_baen_cha.md#头班车)】`teu2 baen1 cha1` <sup>[如东]</sup> 第一趟车。比喻第一：张明德在长跑中经过奋斗，登上吖～。  
 1. 【[头板桨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_baen_jian.md#头板桨)】`teu2 baen3 jian3` <sup>[泰县]</sup> 第一次。  
@@ -956,6 +976,7 @@
 1. 【[头炷香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_zhv_xian.md#头炷香)】`teu2 zhv5 xian1` <sup>[如东]</sup> 春节凌晨零时第一个在庙中给菩萨敬香，称头炷香。表示对神的虔诚，并祈求神的保佑。  
 1. 【[头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_zz.md#头子)】`teu2 zz` <sup>[如皋]</sup> ① 种子、根子：爷娘家侄子命根～。 ② 起作用的核心：酵～。  
 1. 【[投](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu.md#投)】`teu2` <sup>[兴化]</sup> 相符、中的：把他俫两个人分开问话，看说的话哿～。｜“药袋上写的明白，如今就吃。吃了且看～不～，再好加减。”（《醒世烟缘传》二）  
+1. 【[投](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu.md#投)】`teu2` <sup>[泰州]</sup> ① 两相契合：这两个脾家不～，蹾住块儿弄不好。 ② 与自己掌握的情况吻合：他俫两个人说的不～，不晓得哪个说的是真的。 ③ 凸物与凹物吻合：钥匙同锁不～。丨这两个齿轮不～，用不起来。  
 1. 【[投倒扣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_do_keu.md#投倒扣)】`teu2 do5 keu5` <sup>[泰县]</sup> 吻合：他俫两个人说的话～。  
 1. 【[投碱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_gaen.md#投碱)】`teu2 gaen3` <sup>[兴化]</sup> 在和好的面团之中，加入老酵（酵母），以加快发酵。  
 1. 【[投酵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_go.md#投酵)】`teu2 go5` <sup>[如皋]</sup> 加进酵母，使酵发得快。  
@@ -982,6 +1003,7 @@
 1. 【[透](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu.md#透)】`teu5` <sup>[如东]</sup> ① 穿：～过去。 ② 冷水烧开了。 ③ 掺和：～点儿水。  
 1. 【[透](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu.md#透)】`teu5` <sup>[兴化]</sup> 汤沸腾：水烧～才能泡茶。｜等汤一～就把菜盛起来。  
 1. 【[透](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu.md#透)】`teu5` <sup>[泰县]</sup> 水烧开：水～啊。  
+1. 【[透](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu.md#透)】`teu5` <sup>[泰州]</sup> 水温达到沸点：水烧啊～啊。丨水还不曾～。  
 1. 【[透当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_dan.md#透当)】`teu5 dan` <sup>[兴化]</sup> 达到饱满、透彻的程度：这场雨落得～，田里的种子都发咖芽。｜话要说～，不要含含糊糊。  
 1. 【[透底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_di.md#透底)】`teu5 di3` <sup>[东台]</sup> 透露底细。  
 1. 【[透风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_fon.md#透风)】`teu5 fon1` <sup>[如东]</sup> 漏风。  
@@ -1217,6 +1239,7 @@
 1. 【[荻柴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tieh_shae_r.md#荻柴<sub>儿</sub>)】`tieh8 shae2 r` <sup>[兴化]</sup> 见“红毛荻子”。  
 1. 【[停](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien.md#停)】`tien2` <sup>[兴化]</sup> ① 遗体入殓或火化之前置于灵床上：死人～吖家里三天火化的。 ② 旧称暂厝待葬：棺材～吖大庙里。  
 1. 【[停](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien.md#停)】`tien2` <sup>[兴化]</sup> 总数几等份中的一份：这项工程三～儿已经完成两～儿。｜当晚闻达奔飞虎峪，计点军兵，三～去一。（《水浒传》六三）  
+1. 【[停](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien.md#停)】`tien2` <sup>[泰州]</sup> ① 停放尸体：他家老的夜里走的，停吖在庙里。 ② 总数分成几份当中的一份：这条路五～做啊四～，顶多还有20天就完工。  
 1. 【[停滞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_chr.md#停滞)】`tien2 chr5` <sup>[兴化]</sup> 饮食不消化，滞留胃中：“……旧年我病了，却是伤寒，内里饮食～……”（《红楼梦》五一）  
 1. 【[停床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_chuan.md#停床)】`tien2 chuan2` <sup>[如东]</sup> 一种民俗。一块木板或棺材盖，这就是停床。人死后，将尸体搁置在上面，称上停床。  
 1. 【[停床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_chuan.md#停床)】`tien2 chuan2` <sup>[兴化]</sup> 停放尸体的床。也称“灵床”。  
@@ -1229,6 +1252,7 @@
 1. 【[停汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_tan.md#停汤)】`tien2 tan1` <sup>[如东]</sup> 浴室停止营业，叫做停汤。  
 1. 【[停汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_tan.md#停汤)】`tien2 tan1` <sup>[兴化]</sup> 开水温度下降。  
 1. 【[停汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_tan.md#停汤)】`tien2 tan1` <sup>[泰县]</sup> 浴室停止营业：今朝停汤。  
+1. 【[渟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien.md#渟)】`tien2` <sup>[泰州]</sup> ① 汤汁变质以后渣滓沉淀的样子：天气太热，早上煮的粥，中上就～吖汤唻。 ② 开水温度大幅下降直至变凉：这个茶瓶里的水还是前朝中上烧的，～吖汤，不能喝。  
 1. 【[莛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_r.md#莛<sub>儿</sub>)】`tien2 r` <sup>[如东]</sup> 杆子：火柴～。  
 1. 【[莛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_r.md#莛<sub>儿</sub>)】`tien2 r` <sup>[如皋]</sup> 草本植物嫩的花茎：韭菜～。  
 1. 【[莛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_zz.md#莛子)】`tien2 zz` <sup>[如皋]</sup> ① 纺棉花用的铁轴子。 ② 做本蜡烛烛心的红草茎。  
@@ -1241,6 +1265,7 @@
 1. 【[挺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien.md#挺)】`tien3` <sup>[兴化]</sup> 睡觉的贬义说法：“不害羞！你喝醉了，怎么也不拣地方儿，乱～下了？”（《红楼梦》六三）  
 1. 【[挺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien.md#挺)】`tien3` <sup>[泰县]</sup> ① 硬而直：笔～。 ② 勉强支撑：受啊伤硬～吖不下来。 ③ 睡（贬义）：去～尸。 ④ 任凭：反正～你说，我都不去。  
 1. 【[挺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien.md#挺)】`tien3` <sup>[泰县]</sup> （禁忌语）睡：去～尸。  
+1. 【[挺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien.md#挺)】`tien3` <sup>[泰州]</sup> ① 死亡。 ② 骂人睡觉，詈词。  
 1. 【[挺不着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_beh_chah.md#挺不着)】`tien3 beh7 chah8` <sup>[东台]</sup> 睡不着觉的气话。  
 1. 【[挺撑棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_chen_pan.md#挺撑棒)】`tien3 chen1 pan6` <sup>[兴化]</sup> 屠宰工具，用来捣通宰杀后猪腔体的铁棒（通后吹气脱毛）。  
 1. 【[挺觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_go.md#挺觉)】`tien3 go5` <sup>[兴化]</sup> 睡觉的贬义说法：《儒林外史》第十一回有“（杨老六）吃罢，扒上床，～觉去了”句。  
@@ -1263,6 +1288,7 @@
 1. 【[听](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien.md#听)】`tien5` ① 听 ② 缺少；剩余：～下来  
 1. 【[听](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien.md#听)】`tien5` <sup>[如皋]</sup> ① 选留、预留：这张座位是～吖把你的。 ② 选剩：选吖十个，～下来的总不要啊。  
 1. 【[听](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien.md#听)】`tien5` <sup>[东台]</sup> 留下来、剩下来：盅里酒喝了一半，还有一半～下来了｜你们都去忙，只要～个把人照应老人。  
+1. 【[听](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien.md#听)】`tien5` <sup>[泰州]</sup> 任凭：好也好，丑也好，你都不要问，～他怎吖弄。  
 1. 【[听壁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_bieh.md#听壁)】`tien5 bieh7` 偷听，耳朵贴在墙上偷听另外房间的对话。  
 1. 【[听壁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_bieh.md#听壁)】`tien5 bieh7` <sup>[如皋]</sup> 偷听。  
 1. 【[听壁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_bieh.md#听壁)】`tien5 bieh7` <sup>[东台]</sup> 偷听别人谈话。  
@@ -1601,6 +1627,7 @@
 1. 【[田岸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_un_zz.md#田岸子)】`tin2 un6 zz` <sup>[如皋]</sup> 作田界的土坎。  
 1. 【[田岸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_un_zz.md#田岸子)】`tin2 un6 zz` <sup>[东台]</sup> 田埂。  
 1. 【[田租](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_zv.md#田租)】`tin2 zv1` <sup>[如东]</sup> 土地出租的租金。  
+1. 【[舔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin.md#舔)】`tin3` <sup>[泰州]</sup> ① 用舌头擦拭：邮票反面有胶，你弄舌头～啊子，就好贴到信壳子上去。 ② 用舌头取食：你把碗边子上头的汤～掉。  
 1. 【[舔饭碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_faen_un.md#舔饭碗)】`tin3 faen6 un3` <sup>[如东]</sup> 用舌头把粘在饭碗上的剩粥吸食干净：王二非常爱惜粮食，吃完饭都要～，不让一粒粮食浪费。  
 1. 【[舔肥屁眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_fei_pi_ngaen.md#舔肥屁眼)】`tin3 fei2 pi5 ngaen3` <sup>[如皋]</sup> 讥讽拍马逢迎。  
 1. 【[舔肥屁眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_fei_pi_ngaen.md#舔肥屁眼)】`tin3 fei2 pi5 ngaen3` <sup>[如东]</sup> 比喻巴结有钱有势的人。  
@@ -1618,6 +1645,7 @@
 1. 【[掭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin.md#掭)】`tin5` <sup>[如东]</sup> 轻轻向前拨动：～草。  
 1. 【[掭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin.md#掭)】`tin5` <sup>[东台]</sup> ［文］毛笔蘸墨后斜着在砚台上理顺笔毛或除去多余的墨。  
 1. 【[掭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin.md#掭)】`tin5` <sup>[兴化]</sup> ① 毛笔在砚台上沾墨、理顺笔毛：～笔。 ② 拨动：～灯芯｜蒋生幸未熄灯，急忙～明了灯，开门出看……（《二刻》二九）  
+1. 【[掭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin.md#掭)】`tin5` <sup>[泰州]</sup> ① 用针拨动锁芯：油灯要熄，你去把它～吖子。 ② 用掭子拨动锁簧：钥匙𠫓掉啊，请吖个开锁的把锁～开来啊才进吖家。 ③ 以草茎顶部撩拨蟋蟀：这个蛐蛐ㄦ兄，欲不着～它就冲上去啊。 ④ 将毛笔在砚台上蘸墨并顺势拖几下以理顺笔毛：你把笔～啊子再写。  
 1. 【[掭笔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_bieh.md#掭笔)】`tin5 bieh7` <sup>[如东]</sup> 毛笔蘸墨后在砚台上理顺笔毛或除去多余的墨汁，叫做掭笔。  
 1. 【[掭车油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_cha_ieu.md#掭车油)】`tin5 cha1 ieu2` <sup>[如皋]</sup> ① 向车轴内注润滑油。 ② 车用润滑油。  
 1. 【[掭车油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_cha_ieu.md#掭车油)】`tin5 cha1 ieu2` <sup>[如皋]</sup> 见“红油”。  
@@ -1630,6 +1658,7 @@
 1. 【[掭话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hua.md#掭话)】`tin5 hua6` <sup>[如东]</sup> 用引诱的方法，引出某种话语或某种事情：王二在伢儿面前～，希望送礼。  
 1. 【[掭锁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_su.md#掭锁)】`tin5 su3` <sup>[如皋]</sup> 用铁丝等工具试图开锁。  
 1. 【[舚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin.md#舚)】`tin5` <sup>[兴化]</sup> ① 用舌尖剔出齿缝中异物。 ② 用舌舔唇。《广韵·㮇韵》他念切“～，舌出貌”。  
+1. 【[舚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin.md#舚)】`tin5` <sup>[泰州]</sup> 用舌头剔出东西：鱼卡卡啊在牙齿里头不要紧，你用舌头慢慢把它～出来。  
 1. 【[舚骨斋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_gueh_zhae.md#舚骨斋)】`tin5 gueh7 zhae1` <sup>[如皋]</sup> 讽刺假“吃素”、“吃斋”，不是真修行的行为。  
 1. 【[舚泥螺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_ni_lu.md#舚泥螺)】`tin5 ni2 lu1` <sup>[如东]</sup> 用嘴唇、牙齿和舌头把泥螺肉从壳中拖出来。  
 1. 【[舚鱼卡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_y_ka.md#舚鱼卡)】`tin5 y2 ka3` <sup>[如皋]</sup> 吃鱼时吐出鱼芒、鱼骨。如皋词典写作“唺”。  
@@ -1723,12 +1752,14 @@
 1. 【[调适粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_sheh_zhoh.md#调适粥)】`tio2 sheh7 zhoh7` <sup>[东台]</sup> 清淡、黏和、可口的稀饭。  
 1. 【[调调适适](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_tio_sheh_sheh.md#调调适适)】`tio2 tio2 sheh7 sheh7` <sup>[如皋]</sup> 舒舒服服。  
 1. 【[挑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio.md#挑)】`tio3` <sup>[兴化]</sup> 提携、帮助：这东西你自己又不要，何不～～旁人呢？｜“……只要六老爷别的事上多～他姐儿们几回就是了……”（《儒林外史》四二）  
+1. 【[挑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio.md#挑)】`tio3` <sup>[泰州]</sup> 创造或者给予机会使他人获得好处：他把这桩生意把你做，就是～你发财。丨你到现在都不曾～过家里人一笔生意。  
 1. 【[挑祸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_hu.md#挑祸)】`tio3 hu6` <sup>[东台]</sup> 搬弄是非引发纠纷的行为。（注意“挑”读上声）  
 1. 【[挑祸精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_hu_jien.md#挑祸精)】`tio3 hu6 jien1` <sup>[东台]</sup> 专门搬弄是非的人。  
 1. 【[斢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio.md#斢)】`tio3` 调换  
 1. 【[斢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio.md#斢)】`tio3` <sup>[如皋]</sup> ① 调换：～座位、大票子～小票子。 ② 给以优待、优惠：这个差事～～你。  
 1. 【[斢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio.md#斢)】`tio3` <sup>[东台]</sup> ① 给人好处，使人受益；这件事把你做，是～你赚钱的，你不要得福不觉。 ② 换掉：～豆种。  
 1. 【[斢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio.md#斢)】`tio3` <sup>[兴化]</sup> 掉换：～种子｜～钱。  
+1. 【[斢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio.md#斢)】`tio3` <sup>[泰州]</sup> 互换：你俫两个人把位子～啊子。  
 1. 【[斢包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_bo.md#斢包)】`tio3 bo1` <sup>[如皋]</sup> 以乙代甲，偷梁换柱。  
 1. 【[斢花枪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_hua_qian.md#斢花枪)】`tio3 hua1 qian1` <sup>[如皋]</sup> 耍花招。  
 1. 【[斢话腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_hua_qian.md#斢话腔)】`tio3 hua6 qian1` <sup>[如皋]</sup> 换了说话主题或换了腔调。  
@@ -1737,6 +1768,7 @@
 1. 【[斢肩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_jin.md#斢肩)】`tio3 jin1` <sup>[如皋]</sup> 换肩。  
 1. 【[斢戗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_qian.md#斢戗)】`tio3 qian5` <sup>[如皋]</sup> ① 通常指调整船帆的方向以接受风力。词典作“……弶” ② 处事中为适应新情势随时调正原有立场。  
 1. 【[斢生意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_shen_i.md#斢生意)】`tio3 shen1 i` <sup>[如皋]</sup> 照顾、光顾生意。使对方获得生意。  
+1. 【[誂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio.md#誂)】`tio3` <sup>[泰州]</sup> 以言语挑动、离间他人：就是这个马马儿～得人家婆媳两个不和。  
 1. 【[誂祸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_hu.md#誂祸)】`tio3 hu6` <sup>[如皋]</sup> 告诉，使受罚。  
 1. 【[誂祸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_hu.md#誂祸)】`tio3 hu6` <sup>[如东]</sup> 背后说人坏话：她又在～。  
 1. 【[誂祸精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_hu_jien.md#誂祸精)】`tio3 hu6 jien1` <sup>[如皋]</sup> 詈语。专会誂祸的人。  
@@ -1797,6 +1829,7 @@
 1. 【[叨扰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_ro.md#叨扰)】`to1 ro3` <sup>[如皋]</sup> 谦词。对于款待表示歉意。  
 1. 【[叨扰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_ro.md#叨扰)】`to1 ro3` <sup>[东台]</sup> 客套话，承受别人的好处，表示感谢。有时说“叨光”。  
 1. 【[掏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to.md#掏)】`to1` <sup>[兴化]</sup> ① 找、取：鸭子～食。 ② 打、褫：～黑拳头｜那魔王被悟空～短胁，撞丫挡，几下筋节，把他打重了。（《西游记》二）  
+1. 【[掏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to.md#掏)】`to1` <sup>[泰州]</sup> 掌心向上握拳击打人：上去就～啊那个家伙一撉ㄦ。  
 1. 【[掏杠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_gan.md#掏杠)】`to1 gan5` <sup>[东台]</sup> 少年学骑自行车时因个子小，将右脚穿过车的三角架踩到右踏脚，双脚半圈半圈地蹬着走。  
 1. 【[掏腰包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_io_bo.md#掏腰包)】`to1 io1 bo1` <sup>[如皋]</sup> 从腰带上的钱包中掏出钱来花。今指花钱。多指人情往来、惠东之类。  
 1. 【[掏涌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_ion.md#掏涌)】`to1 ion3` <sup>[如东]</sup> 比喻油水可能很多：这次南下广州～可能不小。  
@@ -1900,6 +1933,7 @@
 1. 【[讨债鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_zhae_guei.md#讨债鬼)】`to3 zhae5 guei3` <sup>[如皋]</sup> 置语或昵语。未过十三岁天折者为～。  
 1. 【[讨债鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_zhae_guei.md#讨债鬼)】`to3 zhae5 guei3` <sup>[东台]</sup> ① 子女没出息，非但不能赡养父母，反而靠啃老生活，好像父母上辈子欠了他们一笔债似的，这就叫讨债鬼。 ② 子女未成年就夭折了。  
 1. 【[讨债鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_zhae_guei.md#讨债鬼)】`to3 zhae5 guei3` <sup>[兴化]</sup> ① 迷信认为多病、败家或夭寿的孩子是向父母索取前生债而来的～。 ② 对游手好闲青年的詈词。  
+1. 【[套](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to.md#套)】`to5` <sup>[泰州]</sup> 设法诱人说出真实情况：你同他说话要注意，防止他～你的话。  
 1. 【[套闸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_chaeh.md#套闸)】`to5 chaeh8` <sup>[兴化]</sup> 一种船闸，两道闸门之间有闸室，通过先后开启闸门让船只通过，而不致影响两边水位。  
 1. 【[套房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_fan.md#套房)】`to5 fan2` <sup>[如皋]</sup> 在正房旁套接的便房，只有一门与正房相通。  
 1. 【[套房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_fan.md#套房)】`to5 fan2` <sup>[如东]</sup> 房内有房，称套房。也称套间。  
@@ -1957,6 +1991,7 @@
 1. 【[秃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh.md#秃)】`toh7` <sup>[如皋]</sup> 减：一斤～一两；竹堆子的总～点儿。  
 1. 【[秃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh.md#秃)】`toh7` <sup>[如东]</sup> 减少：～去2元。  
 1. 【[秃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh.md#秃)】`toh7` <sup>[兴化]</sup> 减掉：十个～去两个，还剩八个。  
+1. 【[秃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh.md#秃)】`toh7` <sup>[泰州]</sup> ① 物体被磨损：这把大斧的口～咖唻，要磨下子。 ② 砍去：30多棵杨树夜里捱人家～掉啊。 ③ 缩减，去除：一共30个人，～去请假的两个人，还有28个人。  
 1. 【[秃膀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_ban_r.md#秃膀<sub>儿</sub>)】`toh7 ban3 r` <sup>[泰县]</sup> 一只手臂残废。  
 1. 【[秃膀子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_ban_zz.md#秃膀子)】`toh7 ban3 zz` <sup>[兴化]</sup> ① 上肢被截去部分。 ② 被截去部分上肢的人：吴～是一位革命伤残军人。  
 1. 【[秃秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_chen.md#秃秤)】`toh7 chen5` <sup>[东台]</sup> ［引］卖东西短斤少两。也有人说“哭秤”。  
@@ -1983,6 +2018,7 @@
 1. 【[毒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh.md#毒)】`toh8` <sup>[如东]</sup> ① 恨：她对他～死啊。 ② 狠：这一手真～。  
 1. 【[毒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh.md#毒)】`toh8` <sup>[东台]</sup> ① 作为形容词使用。目光敏锐：他眼睛多～，一眼就看出来了。 ② 残忍、凶狠、厉害。  
 1. 【[毒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh.md#毒)】`toh8` <sup>[兴化]</sup> （借）形容人目光锐利：人眼睛有～。｜老张眼睛真～，一眼就看出他俫关系不正常。  
+1. 【[毒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh.md#毒)】`toh8` <sup>[泰州]</sup> 辨别事物的能力又强又快：这小伙眼睛～，一眼就看出是假货。  
 1. 【[毒滑油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_huaeh_ieu.md#毒滑油)】`toh8 huaeh8 ieu2` <sup>[兴化]</sup> （戏）唾液：捱小虫子咬啊，～一搽就没事啊。  
 1. 【[毒日头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_rih_teu.md#毒日头)】`toh8 rih8 teu` <sup>[兴化]</sup> 盛夏强烈的阳光：“大～地下，出什么神呢？”（《红楼梦》三二）‖也说“毒太阳”。  
 1. 【[毒太阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_tae_ian.md#毒太阳)】`toh8 tae5 ian` <sup>[兴化]</sup> 盛夏强烈的阳光。  
@@ -2026,6 +2062,7 @@
 1. 【[独独的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_toh_dii.md#独独的)】`toh8 toh8 dii` <sup>[如皋]</sup> 见“独独”。  
 1. 【[独种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_zhon.md#独种)】`toh8 zhon3` <sup>[兴化]</sup> 独根苗，对独生子女的戏称。  
 1. 【[独种<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_zhon_r.md#独种<sub>儿</sub>)】`toh8 zhon3 r` <sup>[如皋]</sup> ① 唯一的。 ② 独生子。  
+1. 【[讟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh.md#讟)】`toh8` <sup>[泰州]</sup> 怨恨：他把人家工作弄掉啊，这回子～结咖深吖唻。丨这两家不晓得为的甚的事，这个～就大得加思唻。  
 1. 【[读书不讲，如同隔靴搔痒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_shv_beh_jian_rv_ton_geh_xya_so_ian.md#读书不讲，如同隔靴搔痒)】`toh8 shv1 beh7 jian3 rv2 ton2 geh7 xya1 so1 ian3` <sup>[东台]</sup> 读书要讲透精神实质。  
 1. 【[𠠔树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_shv.md#𠠔树)】`toh8 shv6` <sup>[如皋]</sup> 修剪树枝。  
 1. 【[𠠔树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_shv.md#𠠔树)】`toh8 shv6` <sup>[如皋]</sup> 修整树枝。𠠔，徒木切。形声字。  
@@ -2063,6 +2100,7 @@
 1. 【[同](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton.md#同)】`ton2` <sup>[如皋]</sup> 量词：一～糕（年糕，两块相迭）。  
 1. 【[同](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton.md#同)】`ton2` <sup>[兴化]</sup> 投、叠：棉𧘸子外头拿件加褂子～起来。  
 1. 【[同](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton.md#同)】`ton2` <sup>[泰县]</sup> ① 为，给：～他做件衣裳。 ② 团结，友好：我不～你。  
+1. 【[同](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton.md#同)】`ton2` <sup>[泰州]</sup> ① 连词，表示并列，与，和：你～他一起ㄦ去南京。 ② 介词，引入动作对象，替，为：你去～我买包烟家来。 ③ 介词，向：这件事最好你亲自～他去说。  
 1. 【[同辈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_bei.md#同辈)】`ton2 bei5` <sup>[如东]</sup> 在血缘或宗族关系上属于同一辈分的人，称同辈。也称平辈。  
 1. 【[同房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_fan.md#同房)】`ton2 fan2` <sup>[如东]</sup> 男女过性生活。  
 1. 【[同行不同利](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_han_beh_ton_li.md#同行不同利)】`ton2 han2 beh7 ton2 li6` <sup>[如东]</sup> 行业虽然相同，利益各有差别。  
@@ -2133,6 +2171,7 @@
 1. 【[捅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton.md#捅)】`ton3` <sup>[东台]</sup> 移动：把摊位～下子｜～个落地。  
 1. 【[捅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton.md#捅)】`ton3` <sup>[兴化]</sup> 移动：把桌子～吖东边去。｜把你的工作岗位～～。｜把会议时间～到下午。《集韵，董韵》吐孔切“～，进前也，引也”。  
 1. 【[捅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton.md#捅)】`ton3` <sup>[泰县]</sup> 移动：向后～。  
+1. 【[捅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton.md#捅)】`ton3` <sup>[泰州]</sup> ① 移动位置：我家伢儿眼睛不好，麻烦老师把他～吖前头来坐。 ② 提前或者推迟做某事：这些时忙，请客的事要向后～两天再说。  
 1. 【[捅节节<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_jih_jih_r.md#捅节节<sub>儿</sub>)】`ton3 jih7 jih7 r` <sup>[如皋]</sup> 喻不爽快、不直捷，一点一点地移动。  
 1. 【[捅铺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_pv.md#捅铺)】`ton3 pv5` <sup>[东台]</sup> 又称“易箦”，将弥留之际的人移到地铺上。  
 1. 【[捅步](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_pv.md#捅步)】`ton3 pv6` <sup>[东台]</sup> 婴幼儿刚开始移动脚步。  
@@ -2164,6 +2203,7 @@
 1. 【[蘣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton.md#蘣)】`ton5` <sup>[东台]</sup> 指长相标致、漂亮，多数情况下指小孩。（据康熙字典《集韵》“他贡切，音痛。”）  
 1. 【[蘣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton.md#蘣)】`ton5` <sup>[兴化]</sup> ① 可爱、漂亮：这个伢儿～哎。｜～肉｜～娇娇｜小吴的对象生得蛮～的。 ② 撒娇：～相｜覅～。《集韵·送韵》他贡切“～，好也”。  
 1. 【[蘣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton.md#蘣)】`ton5` <sup>[泰县]</sup> 漂亮：这个伢儿真～吖。  
+1. 【[蘣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton.md#蘣)】`ton5` <sup>[泰州]</sup> ① 婴幼儿长得可爱：他家细丫头长啊～得加思唻。 ② 讥讽成年人言行幼稚：这个马马儿成天就像～煞咖，不晓得自己是多大的个人唻。  
 1. 【[蘣巴巴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_ba_ba_dii.md#蘣巴巴的)】`ton5 ba1 ba1 dii` <sup>[如皋]</sup> 讽刺撒娇。  
 1. 【[蘣宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_bo_r.md#蘣宝<sub>儿</sub>)】`ton5 bo3 r` <sup>[如皋]</sup> 爱撒娇的小孩。  
 1. 【[蘣刮刮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_guaeh_guaeh.md#蘣刮刮)】`ton5 guaeh7 guaeh7` <sup>[东台]</sup> 形容人的长相很漂亮的样子（多指孩子）。  
@@ -2232,6 +2272,7 @@
 1. 【[拖鲜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_xin.md#拖鲜)】`tu1 xin1` <sup>[如东]</sup> 用车辆贩运海鲜。  
 1. 【[拖鲜的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_xin_dii.md#拖鲜的)】`tu1 xin1 dii` <sup>[如东]</sup> 用车辆贩运海鲜的人。  
 1. 【[拖债](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_zhae.md#拖债)】`tu1 zhae5` <sup>[兴化]</sup> 借债：刚刚当会计就叫我去～，我才不去。  
+1. 【[𠰹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#𠰹)】`tu1` <sup>[泰州]</sup> 将大块的肉搛来塞进口中：总共就买啊二斤肉，哪块掌得住着几个小伙～。丨今吖晚上老酒侭喝，肥肉侭～。  
 1. 【[坨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#坨)】`tu2` <sup>[如皋]</sup> ① 成块、成堆：泥～儿、粉～子、～粉。 ② 量词：一～糕（年糕，两块相迭）。 ③ 叠放：他把碗～啊多高。 ④ 积累：碗上的粥巴子～啊多厚。  
 1. 【[坨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#坨)】`tu2` <sup>[如东]</sup> 叠放：把袋子～啊上头。  
 1. 【[坨粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_fen.md#坨粉)】`tu2 fen3` <sup>[如东]</sup> 食品。以绿豆为原料，制成片状，圆形，软而韧。  
@@ -2242,6 +2283,7 @@
 1. 【[驮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#驮)】`tu2` <sup>[兴化]</sup> 负债：～欠｜～债。  
 1. 【[驮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#驮)】`tu2` <sup>[泰县]</sup> 背负：你去～袋米家来。｜那婆子一面拜了两拜谢了，没收礼物去。薛嫂～盘子出门。（金瓶梅·七回）  
 1. 【[驮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#驮)】`tu2` <sup>[泰县]</sup> 积累：这些债是他～下来的。  
+1. 【[驮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#驮)】`tu2` <sup>[泰州]</sup> 背负：你把他～过去。  
 1. 【[驮不动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_beh_ton.md#驮不动)】`tu2 beh7 ton6` <sup>[东台]</sup> 吃不下。渔民避讳语。也是避讳吃的谐音七。  
 1. 【[驮龟<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_guei_r.md#驮龟<sub>儿</sub>)】`tu2 guei1 r` <sup>[如皋]</sup> ① 用背驮人。 ② 蛙交配。  
 1. 【[驮盐巴过河——越背越轻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_in_ba_gu_hu_iuh_bei_iuh_qien.md#驮盐巴过河——越背越轻)】`tu2 in2 ba1 gu5 hu2 iuh8 bei1 iuh8 qien1` <sup>[东台]</sup>   
@@ -2274,7 +2316,9 @@
 1. 【[唾沫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_muh.md#唾沫)】`tu5 muh8` <sup>[如皋]</sup> 唾液。  
 1. 【[毻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#毻)】`tu5` <sup>[如皋]</sup> 皮、毛、齿等的新陈代谢：～皮、～毛、～头发、～奶齿、～疤儿、～壳。  
 1. 【[毻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#毻)】`tu5` <sup>[兴化]</sup> 鸟类换毛羽谓～毛。《广韵·过韵》汤卧切：“～，鸟易毛也”。  
+1. 【[毻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#毻)】`tu5` <sup>[泰州]</sup> 鸟类换毛：一地都是鸭子～的毛。  
 1. 【[毻毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_mo.md#毻毛)】`tu5 mo2` <sup>[东台]</sup> 落毛：庾信《老子庙应诏诗》“～新鹄小。”  
+1. 【[蜕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#蜕)】`tu5` <sup>[泰州]</sup> ① 动物脱掉表层皮肤或者外壳：蚕ㄦ再～一次壳就上山唻。 ② 人皮肤脱落：他请假家去收麦，身上晒啊～掉一层皮。  
 1. 【[垛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#垛)】`tu6` <sup>[如皋]</sup> 地名通名。如狮子～、蒋家、迥家～、王家～。  
 1. 【[垛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#垛)】`tu6` <sup>[东台]</sup> 本指堆积的东西或者高出周围的土墩，如草～、砖头～，后常用作地名：梁～、何～。  
 1. 【[垛圪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_geh.md#垛圪)】`tu6 geh7` <sup>[兴化]</sup> 河潮中狭长的土丘：圩外地区，一匡匡稻田，一条条～，四周都是河港。  
@@ -2314,6 +2358,7 @@
 1. 【[腿脊弯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_jieh_vaen_zz.md#腿脊弯子)】`tuei3 jieh vaen1 zz` <sup>[兴化]</sup> 大腿和小腿相连接的关节后部。  
 1. 【[腿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_zz.md#腿子)】`tuei3 zz` <sup>[如东]</sup> 下肢：狗～。  
 1. 【[煺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei.md#煺)】`tuei5` <sup>[兴化]</sup> 已宰杀的畜禽用开水烫过后去毛：～猪毛；～鸡毛。  
+1. 【[煺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei.md#煺)】`tuei5` <sup>[泰州]</sup> 将宰杀的家禽家畜用滚水浸烫后去毛：鸭子身上的毛都不曾～得干净。  
 1. 【[退](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei.md#退)】`tuei5` <sup>[东台]</sup> 向后移动，脱离，下降，交还或取消：后～；～缩；～婚。  
 1. 【[退潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_cho.md#退潮)】`tuei5 cho2` <sup>[如东]</sup> 落潮。  
 1. 【[退锅巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_gu_ba.md#退锅巴)】`tuei5 gu1 ba` <sup>[兴化]</sup> （儿童语）索回已赠给别人的东西。  
@@ -2389,6 +2434,7 @@
 1. 【[团](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun.md#团)】`tun2` <sup>[东台]</sup> ① 用糯米粉做成的食品：麻～｜桂花板油凉～。 ② 与盐业相关的地名：新～｜垛～。 ③ 蜷缩：俯就～一宿吧。  
 1. 【[团](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun.md#团)】`tun2` <sup>[兴化]</sup> ① 蹲：～吖地下。 ② 停留：～吖家里不出来。 ③ 聚集：家人～吖一起，欢欢喜喜过年。  
 1. 【[团](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun.md#团)】`tun2` <sup>[泰县]</sup> 踡缩：他～吖在那间家里。  
+1. 【[团](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun.md#团)】`tun2` <sup>[泰州]</sup> 人或物聚集一处：你家妈妈就是要几个儿子都～吖在她眼前，她心里才高兴。丨这些家伙要～吖做块儿放，要用的时候才好寻。  
 1. 【[团匾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_bin.md#团匾)】`tun2 bin3` <sup>[如皋]</sup> 精篾编制的席装在长圆形的粗篾壳中做成的睡具。  
 1. 【[团圆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_iun.md#团圆)】`tun2 iun2` <sup>[如东]</sup> 散而复聚：夫妻～。  
 1. 【[团圆饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_iun_bien.md#团圆饼)】`tun2 iun2 bien3` <sup>[东台]</sup> 八月中秋节吃的实心无馅的大饼，在锅中放少许油烙成，供奉月光菩萨，因此种饼圆形，象征团圆，故称之为心。  
@@ -2414,6 +2460,7 @@
 1. 【[抟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun.md#抟)】`tun2` <sup>[如皋]</sup> 使收缩成团状：～纸团儿、～饭团儿、他把衣裳一～望包里一塞就了啊事！  
 1. 【[抟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun.md#抟)】`tun2` <sup>[如东]</sup> 捏成圆形：～圆子。  
 1. 【[抟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun.md#抟)】`tun2` <sup>[泰县]</sup> ① 捏成圆形：～个纸团儿。 ② 草拟：～个材料、  
+1. 【[抟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun.md#抟)】`tun2` <sup>[泰州]</sup> 将物体揉弄成球形：把纸一～撂啊字纸篓里去啊。  
 1. 【[昙花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_hua.md#昙花)】`tun2 hua1` <sup>[如东]</sup> 仙人掌科植物昙花，直立灌木，长约1米。主枝圆柱形，分枝扁平，绿色，叶状，边缘波状，中肋坚硬，无叶片。花大型，晚间开放开放期短，仅数小时；花被白色，干时黄色。果实长圆形红色，有汁。种子多数，黑色。庭园栽培。  
 1. 【[潭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun.md#潭)】`tun2` <sup>[如皋]</sup> ① 口径小而深的水域：大河底下捱流水漩吖个深～，人忑下去交关危险！ ② 地名通名：薛家～儿（在如城东北城脚一带）。  
 1. 【[潭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun.md#潭)】`tun2` <sup>[如东]</sup> 自然形成或人工挖掘的水塘，称潭。  
@@ -2610,6 +2657,7 @@
 1. 【[梯码<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ty_ma_r.md#梯码<sub>儿</sub>)】`ty1 ma3 r` <sup>[如皋]</sup> 见“跳码儿”。  
 1. 【[梯码<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ty_ma_r.md#梯码<sub>儿</sub>)】`ty1 ma3 r` <sup>[如皋]</sup> 见“水码儿”。  
 1. 【[梯子凳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ty_zz_den_r.md#梯子凳<sub>儿</sub>)】`ty1 zz den5 r` <sup>[如皋]</sup> 见“香凳儿”。  
+1. 【[腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ty.md#腿)】`ty3` <sup>[泰州]</sup> 量词，奔走一次：你就同他上北京跑一～吧。  
 1. 【[腿板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ty_baen.md#腿板)】`ty3 baen3` <sup>[如皋]</sup> 猪臀部肉。  
 1. 【[腿胻筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ty_hen_jien.md#腿胻筋)】`ty3 hen5 jien1` <sup>[如皋]</sup> 小腿前部的筋肉。  
 1. 【[腿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ty_zz.md#腿子)】`ty3 zz` <sup>[东台]</sup> 人、动物的下肢或物体下部支撑的部分。  

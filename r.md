@@ -81,6 +81,7 @@
 1. 【[蘘荷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ran_hu.md#蘘荷)】`ran2 hu` <sup>[如东]</sup> 姜科植物蘘荷，多年生草本。  
 1. 【[蘘荷草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ran_hu_co.md#蘘荷草)】`ran2 hu co3` <sup>[如东]</sup> 姜科植物蘘荷叶。  
 1. 【[蘘荷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ran_hu_zz.md#蘘荷子)】`ran2 hu zz3` <sup>[如东]</sup> 姜科植物蘘荷种子。  
+1. 【[𧟄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ran.md#𧟄)】`ran2` <sup>[泰州]</sup> 衣服因为褶皱、摩擦而显得松软：身上的衣裳都穿吖～吖唻，还不脱咖来洗洗。丨棉花胎已经～吖唻，要去𢏳啊子。  
 1. 【[让当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ran_dan.md#让当)】`ran6 dan1` <sup>[东台]</sup> 也叫“丢当”，指在紧要关头退缩不前：关键时刻请大家个个尽力，不能～。  
 1. 【[让当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ran_dan.md#让当)】`ran6 dan1` <sup>[兴化]</sup> ① 拉开距离：你让个当，好让我过去。 ② 松动：打假的事不能～。  
 1. 【[让当<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ran_dan_r.md#让当<sub>儿</sub>)】`ran6 dan1 r` <sup>[如皋]</sup> 忍让回避。不带宾语。  
@@ -127,6 +128,7 @@
 1. 【[入天泊地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_tin_pah_ti.md#入天泊地)】`reh8 tin1 pah7 ti6` <sup>[泰兴]</sup> 谓怒极开口乱骂人，语言俗不入耳。  
 1. 【[入账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_zhan.md#入账)】`reh8 zhan5` <sup>[如东]</sup> 记入账目。收入：今朝～多少？  
 1. 【[入捘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_zuen.md#入捘)】`reh8 zuen5` <sup>[如东]</sup> 没有用：要它～。也说“入逊”reh8 suen5。  
+1. 【[肏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh.md#肏)】`reh8` <sup>[泰州]</sup> 性交。  
 1. 【[肏大浮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_da_fv.md#肏大浮)】`reh8 da6 fv2` <sup>[东台]</sup> 指责某些人作风漂浮。  
 1. 【[肏大糊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_da_hv.md#肏大糊)】`reh8 da6 hv2` <sup>[泰县]</sup> 无根据地乱说。  
 1. 【[肏的个甚的娘（妈妈）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_dii_gu_shen_nii_nian.md#肏的个甚的娘（妈妈）)】`reh8 dii gu shen2 nii nian2` <sup>[如皋]</sup> 叹息语，表示做了不愿、无价值、无必要的事。  
@@ -407,6 +409,7 @@
 1. 【[韧绉绉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_zheu_zheu.md#韧绉绉)】`ren6 zheu3 zheu3` <sup>[东台]</sup> 意同“韧悠悠”。  
 1. 【[揉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reu.md#揉)】`reu2` <sup>[如东]</sup> 用手按摩：～手。  
 1. 【[揉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reu.md#揉)】`reu2` <sup>[兴化]</sup> ① 劳碌：他不好好睡觉，就这吖～到天亮。 ② 盘弄：李瓶儿道｜“他才睡下，又抱他出来？”金莲逆｜“不妨事，你～醒他。”（《金瓶梅词话》三九）  
+1. 【[揉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reu.md#揉)】`reu2` <sup>[泰州]</sup> 揉搓，按摩。  
 1. 【[揉啊揉，不长瘤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reu_a_reu_beh_zhan_lieu.md#揉啊揉，不长瘤)】`reu2 a reu2 beh7 zhan3 lieu2` <sup>[如皋]</sup> 小孩皮肉伤痛，大人一边安抚，一边念此语逗乐。有时还加上“三个麻雀来磕头”。  
 1. 【[揉命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reu_mien.md#揉命)】`reu2 mien6` <sup>[兴化]</sup> 反复折腾：他把家里旧书报杂志搬来搬去，弄得到处是灰，真的是活～。也说“揉心”。  
 1. 【[揉面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reu_min.md#揉面)】`reu2 min6` <sup>[如东]</sup> 把面团放在桌面或面板上用手挤压，使之柔韧调和。  
@@ -517,14 +520,17 @@
 1. 【[饶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro.md#饶)】`ro2` <sup>[如东]</sup> 再加一点儿：～一点儿吧。  
 1. 【[饶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro.md#饶)】`ro2` <sup>[东台]</sup> 再增添一点的意思：再～点儿｜买的没得～的多。  
 1. 【[饶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro.md#饶)】`ro2` <sup>[泰县]</sup> 加：已经足秤，再～点儿。  
+1. 【[饶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro.md#饶)】`ro2` <sup>[泰州]</sup> 卖方多送给买方的货物：做定的价钱，～不得。丨这个菜是早上买黄瓜的时候饶得来的。  
 1. 【[饶得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_deh.md#饶得)】`ro2 deh7` <sup>[如皋]</sup> 虽然、尽管：～他会说，还是说不过你。  
 1. 【[饶你过天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_nii_gu_tin.md#饶你过天)】`ro2 nii3 gu5 tin1` <sup>[东台]</sup> 宽恕，免于责罚：这回子～，下次再犯就不客气！  
 1. 【[饶人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_ren.md#饶人)】`ro2 ren2` <sup>[如东]</sup> 对人宽容：他就是不～。  
 1. 【[饶头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_teu.md#饶头)】`ro2 teu` <sup>[如皋]</sup> 额外添加的：买肉有夹冇，卖菜有～。  
 1. 【[扰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro.md#扰)】`ro3` <sup>[如皋]</sup> ① 叨扰。我～啊他两块肉；我不作兴～你！ ② 白占便宜：值二角钱的货，卖啊你一块钱，～啊你啦！  
 1. 【[扰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro.md#扰)】`ro3` <sup>[如东]</sup> 用手来回推动物体，使其摇摆：先～竹竿，再拨起来。  
+1. 【[扰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro.md#扰)】`ro3` <sup>[泰州]</sup> 叨扰，接受他人饮食招待：春上我上南京开会顺便去望他，～过他一顿饭。  
 1. 【[扰啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_a.md#扰啊)】`ro3 a` <sup>[东台]</sup> 扰，指打扰：～通常指吃了人家的｜前朝～你一顿。  
 1. 【[绕弯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_vaen_zz.md#绕弯子)】`ro3 vaen1-3 zz` <sup>[东台]</sup> ［喻］说话不直截了当。  
+1. 【[绕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro.md#绕)】`ro6` <sup>[泰州]</sup> 被纠缠，无法摆脱窘境：弄到临了把自己～进去啊唻。  
 1. 【[绕住咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_chuh_ga.md#绕住咖)】`ro6 chuh8 ga` <sup>[如皋]</sup> 被一种“理由”套住，一时难辨。  
 1. 【[绕刀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_do_r.md#绕刀<sub>儿</sub>)】`ro6 do1 r` <sup>[如皋]</sup> 用诡辩术把对方套住。  
 1. 【[绕过去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_gu_qy.md#绕过去)】`ro6 gu qy5` <sup>[如皋]</sup> 绕过障碍：到小王家从窑前～就到。  

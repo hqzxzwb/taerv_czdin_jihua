@@ -2,11 +2,14 @@
 **[A](./a.md) | [B](./b.md) | [C](./c.md) | [D](./d.md) | [E](./e.md) | [F](./f.md) | [G](./g.md) | [H](./h.md) | [I](./i.md) | [J](./j.md) | [K](./k.md) | [L](./l.md) | [M](./m.md) | [N](./n.md) | [O](./o.md) | [P](./p.md) | [Q](./q.md) | [R](./r.md) | [S](./s.md) | [T](./t.md) | [U](./u.md) | [V](./v.md) | [X](./x.md) | [Y](./y.md) | [Z](./z.md)**  
 ## Y
 1. 【[淤泥河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_ni_hu.md#淤泥河)】`y1 ni2 hu2` <sup>[东台]</sup> 东台城古地名（现中亚城市花园背后），相传唐太宗李世民曾在此遇险，马陷～。  
+1. 【[瘀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y.md#瘀)】`y1` <sup>[泰州]</sup> 思维突然受到干扰后一时处于停滞状态：我刚才捱他打啊个岔，人就捱～住啊，到啊嘴边子的话，还就想不起来唻。丨我这一刻儿脑子～啊，繁体的马字是怎吖写的啊？  
 1. 【[迂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y.md#迂)】`y1` <sup>[兴化]</sup> ① 性格迁腐、固执：“表兄此论甚～。当今之世，讲甚天理……”（《梼杌闲评》三六） ② 由于受强烈刺激而神经紊乱：一个人愁狠了，神就乱了｜神一乱，就～了，就糊了。（扬说《闯昭关》）也说“迂痰”。  
+1. 【[迂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y.md#迂)】`y1` <sup>[泰州]</sup> ① 迂腐，拘泥陈腐的规则，不切合实际：你就不要～吧，现在带啊身上结婚的人太多啊。丨这个人是个～夫子。 ② 指人坚持原则，不受利诱：他这个人～得狠，管你是甚的人，找他开后门是不可能的事。  
 1. 【[迂而且赘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_er_qia_zhuei.md#迂而且赘)】`y1 er2 qia3 zhuei5` <sup>[兴化]</sup> 迂腐而又啰唆：“笑话了，也不是买货，还要定准。好，你这个人～哎……”（《武松》六）  
 1. 【[迂而赘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_er_zhuei.md#迂而赘)】`y1 er2 zhuei5` <sup>[如皋]</sup> 古板执拗的脾气。  
 1. 【[迂瘕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_ha.md#迂瘕)】`y1 ha2` <sup>[兴化]</sup> 迂腐、守旧，作事过于顶真。也称“瘕魔”。  
 1. 【[迂痰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_taen.md#迂痰)】`y1 taen2` <sup>[兴化]</sup> 见“迂”。  
+1. 【[余](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y.md#余)】`y2` <sup>[泰州]</sup> 积攒钱钞和物品：太太～啊不少布头子，妈妈把它俫拼吖一条被面单子。丨他上小学就开始～邮票唻。丨你把压岁钱～起来，留啊开学交学费。丨他这几年～啊不少钱。  
 1. 【[余多滞少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_du_chr_sho.md#余多滞少)】`y2 du1 chr5 sho3` <sup>[兴化]</sup> 指挑拣后剩下的：这筐苹果由你们先拿，～全把我。  
 1. 【[余外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_vae.md#余外)】`y2 vae6` <sup>[兴化]</sup> 除此之外：“上头除掉姑老爷，就是于舅太爷一位，～的人都越不过我的头去。”（《官场现形记》五九）  
 1. 【[余蓄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_xioh.md#余蓄)】`y2 xioh7` <sup>[兴化]</sup> 积存的钱财：老恒财家手底好，除了放债，做粮行的资金外，还有～……（马春阳《陈大年一家人》）》  
@@ -160,6 +163,7 @@
 1. 【[芋头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_teu.md#芋头)】`y6 teu2-3` <sup>[泰县]</sup> 芋艿。  
 1. 【[遇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y.md#遇)】`y6` <sup>[如皋]</sup> ① 相遇：～到，～头。 ② 往来相处：我俫常～。  
 1. 【[遇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y.md#遇)】`y6` <sup>[兴化]</sup> ① 相处：这个人难玩，不大好～。 ② 相见：你不听人劝告，以后还～不～？  
+1. 【[遇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y.md#遇)】`y6` <sup>[泰州]</sup> 相处，共事：这种人没得～头，你让他今后同旁人～吧。丨大家有话好好说，不要伤吖和气，一个单位的人今后还～不～？  
 1. 【[遇到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_do.md#遇到)】`y6 do` <sup>[兴化]</sup> ① 碰见：我正好在学校门口～他。 ② （东南部分村镇语）被：他～人家一顿骂。  
 1. 【[遇到张果老，不得不烦恼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_do_zhan_gu_lo_beh_deh_beh_faen_no.md#遇到张果老，不得不烦恼)】`y6 do5 zhan1 gu3 lo3 beh7 deh7 beh7 faen2 no3` <sup>[东台]</sup> 要正视矛盾，解决矛盾。  
 1. 【[遇巧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_qio.md#遇巧)】`y6 qio3` <sup>[如皋]</sup> 碰巧。  
@@ -178,6 +182,7 @@
 1. 【[𦚢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/ya.md#𦚢)】`ya1` <sup>[如皋]</sup> ① 手足曲病：～手儿；手爪儿发～。 ② 麻木、发僵：嘴边儿挨冻吖发咖～。  
 1. 【[𦚢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/ya.md#𦚢)】`ya1` <sup>[兴化]</sup> 手足关节僵直：～膀子；～爪儿。《广韵·戈韵》於靴切｜“～，～𩨷手足病。”𩨷（𩨭），去靴切。  
 1. 【[𦚢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/ya.md#𦚢)】`ya1` <sup>[泰县]</sup> 手足弯曲：～脖子儿挎笿子。  
+1. 【[𦚢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/ya.md#𦚢)】`ya1` <sup>[泰州]</sup> ① 手足弯曲僵硬不能伸直：天多冷吖，手都冻吖～啊。 ② 泛指身体某个部位弯曲僵硬不能伸直：他的腰～啊唻，头抬不起来。丨这小伙头～啊，转不过来。  
 1. 【[𦚢膀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/ya_ban_r.md#𦚢膀<sub>儿</sub>)】`ya1 ban3 r` <sup>[如皋]</sup> 见“𦚢手儿”。  
 1. 【[𦚢膀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/ya_ban_r.md#𦚢膀<sub>儿</sub>)】`ya1 ban3 r` <sup>[泰县]</sup> 膀儿手臂弯曲的人。  
 1. 【[𦚢膀<sub>儿</sub>打妈妈——甩开手做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/ya_ban_r_da_ma_ma_shuae_kae_sheu_zu.md#𦚢膀<sub>儿</sub>打妈妈——甩开手做)】`ya1 ban3 r da3 ma1 ma1 shuae3 kae1 sheu3 zu5` <sup>[东台]</sup>   
@@ -222,6 +227,7 @@
 1. 【[匀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen.md#匀)】`yen2` 分  
 1. 【[匀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen.md#匀)】`yen2` <sup>[如皋]</sup> ① 非赢利性转让：我问你～二两漆漆窗子。 ② 均分：把一碗水～吖两个碗里。 ③ 摊开：把韭菜～开来，不能堆。  
 1. 【[匀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen.md#匀)】`yen2` <sup>[如东]</sup> 抽出一点分给别人：你～一点儿龙虾给张三儿。  
+1. 【[匀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen.md#匀)】`yen2` <sup>[泰州]</sup> 将东西拿出部分给予他人：你手上的票多，就～几张把他吧。丨  
 1. 【[匀称](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_chen.md#匀称)】`yen2 chen1` <sup>[如东]</sup> 均匀。  
 1. 【[匀和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_hu.md#匀和)】`yen2 hu2` <sup>[如皋]</sup> 多指液体调和黏稠：你把八宝粥熬啊～啊。  
 1. 【[匀净](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_qien.md#匀净)】`yen2 qien` <sup>[如皋]</sup> 见“匀耥”。  
@@ -230,6 +236,7 @@
 1. 【[允](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen.md#允)】`yen3` <sup>[如皋]</sup> 许愿：他在善萨面前～吖的，这趟生意寻吖钱，拿一半来重塑金身。  
 1. 【[允](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen.md#允)】`yen3` <sup>[东台]</sup> 应允，允诺：他要旅游，我～吖他。  
 1. 【[允](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen.md#允)】`yen3` <sup>[兴化]</sup> 许愿：你在菩萨面前～的猪头三牲，不能打诳语。  
+1. 【[允](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen.md#允)】`yen3` <sup>[泰州]</sup> 答应，许可：这事情你不要怪他，上头不～，他也没得办法。  
 1. 【[允口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_keu.md#允口)】`yen3 keu3` <sup>[兴化]</sup> 答应：因为先在天师面前允了口……没有办法，只好忍痛又给五百两。（兴文《智赚吝啬鬼》）  
 1. 【[永生永世](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_shen_yen_shr.md#永生永世)】`yen3 shen1 yen3 shr5` <sup>[东台]</sup> 永远：我俫中国人要自强不息，～不做亡国奴。  
 1. 【[永世千年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_shr_qin_nin.md#永世千年)】`yen3 shr5 qin1 nin2` <sup>[兴化]</sup> 极言永远：他是大好佬，吃尽天下无敌手，～不复东。｜“……与我几百两银子，我明日写个合同，教他就～做晁家的人……”（《醒世姻缘传》四六）  

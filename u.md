@@ -5,7 +5,9 @@
 1. 【[䝹𧶲户<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_den_hv_r.md#䝹𧶲户<sub>儿</sub>)】`u1 den hv6 r` <sup>[东台]</sup> un3 dun3 hv6 r的转音。平时不张扬，低调，但很殷实的人家：覅看这个企业小，其实是个～。  
 1. 【[倭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_zz.md#倭子)】`u1 zz` <sup>[如皋]</sup> 旧称日本国为倭国。其海盗为～：西场镇有～坟。  
 1. 【[唩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u.md#唩)】`u1` <sup>[如皋]</sup> 说话缠夹不清：舌头打～、说话～七～八的、～里～咑的、～咑～咑的。  
+1. 【[唩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u.md#唩)】`u1` <sup>[泰州]</sup> 舌头僵在口中，说话吐字不清的样子：只听他嘴里～啊～的，不晓得他说的是甚的意思。丨这小伙说话像舌头～啊嘴里，怕的是小时候惯吖狠吖。  
 1. 【[屙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u.md#屙)】`u1` <sup>[兴化]</sup> 排泄大小便：～屎；～尿。  
+1. 【[屙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u.md#屙)】`u1` <sup>[泰州]</sup> 排泄大小便。  
 1. 【[屙啊一裤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_a_ieh_kv_zz.md#屙啊一裤子)】`u1 a ieh7 kv5 zz` <sup>[如皋]</sup> 状情况糟透了。  
 1. 【[屙㞎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_ba.md#屙㞎)】`u1 ba3` <sup>[东台]</sup> 解大便。多用于小孩。  
 1. 【[屙㞎㞎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_ba_ba.md#屙㞎㞎)】`u1 ba3 ba` 解大便  
@@ -79,6 +81,7 @@
 1. 【[唩啰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_lu.md#唩啰)】`u2 lu2` <sup>[如皋]</sup> 唤犬声。  
 1. 【[涴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u.md#涴)】`u5` <sup>[如皋]</sup> 作～：指大小便失禁，到处弄脏。  
 1. 【[涴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u.md#涴)】`u5` <sup>[兴化]</sup> ① 污渍：衣裳上有两片～斑，洗来洗去也洗不干净。 ② 被污损的东西：～卷。 ③ 漫漶：墨水～开来啊。  
+1. 【[涴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u.md#涴)】`u5` <sup>[泰州]</sup> 有色液体渗向四周：毛笔上墨汁太多，把宣纸都弄吖～啊来。丨他肩膀上的皮捱磨掉啊，白衬衫上都～啊血。  
 1. 【[涴不清](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_beh_qien.md#涴不清)】`u5 beh qien1` <sup>[泰县]</sup> 搞不清楚不清：他～，你把事情的经过由头至尾说一下。  
 1. 【[涴鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_ji.md#涴鸡)】`u5 ji1` <sup>[泰县]</sup> 不守信誉：这个人打牌会～。  
 1. 【[涴蛮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_maen.md#涴蛮)】`u5 maen2` <sup>[泰县]</sup> 胡闹：你不要～，你家穷不穷我俫心里有数。  
@@ -100,6 +103,7 @@
 1. 【[焥动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_ton.md#焥动)】`uh7 ton` <sup>[如东]</sup> 火苗向上蹿动的状态：房屋上的火头～。  
 1. 【[盦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh.md#盦)】`uh7` <sup>[如皋]</sup> 闷，不透风，不散热，汗闷难受。见“㵍”。见huh7：～人、～风、～住啊，不敞开。  
 1. 【[盦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh.md#盦)】`uh7` <sup>[兴化]</sup> 覆盖、遮住：～酱。｜食物受～发霉。《广韵·盍韵》安盍切“～，《说文》云，覆盖也”。  
+1. 【[盦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh.md#盦)】`uh7` <sup>[泰州]</sup> 覆盖不出气：最近天凉，酱黄豆儿最起码要～一个星期，生的毛要多，不然的话做的酱酒不鲜。  
 1. 【[盦住啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_chv_a.md#盦住啊)】`uh7 chv6 a` <sup>[如皋]</sup> 不宽敞，不畅快、不透风。  
 1. 【[盦风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_fon.md#盦风)】`uh7 fon1` <sup>[如皋]</sup> 挡住风，不透风：玉米田里～。  
 1. 【[盦酱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_jian.md#盦酱)】`uh7 jian5` <sup>[如皋]</sup> 见“焐酱”。  
@@ -108,6 +112,8 @@
 1. 【[餲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh.md#餲)】`uh7` <sup>[东台]</sup> 成品粮贮久，因湿热而变质。《玉篇》“餲，饭臭也。”：坛子里的米～咖啦。  
 1. 【[餲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh.md#餲)】`uh7` <sup>[如东]</sup> 农产品因堆积封闭而发热，叫做餲。  
 1. 【[餲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh.md#餲)】`uh7` <sup>[泰县]</sup> ① 褪颜色，不鲜艳：这块蓝布摆～咖。 ② 肉类腐败发臭：这块肉～咖。  
+1. 【[餲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh.md#餲)】`uh7` <sup>[泰州]</sup> 食物因历时长而腐烂发出异味：天太热，这个饭是中上住的，忘掉放吖冰箱里头，晚上就～动吖唻。丨这碗粥～咖唻，不能吃。  
+1. 【[餲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh.md#餲)】`uh7` <sup>[泰州]</sup> 食材受潮变质发出异味：这个米放的时间长吖，又受啊潮，一股子～腥味。  
 1. 【[餲咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_ga.md#餲咖)】`uh7 ga` <sup>[如皋]</sup> 食品霉变了。  
 1. 【[餲米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_mi.md#餲米)】`uh7 mi3` <sup>[如东]</sup> 因受潮发热而产生一种特殊气味的米，叫做餲米。  
 1. 【[餲醭气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_pah_qi.md#餲醭气)】`uh7 pah7 qi5` <sup>[如皋]</sup> 霉变的气味。  
@@ -119,11 +125,13 @@
 1. 【[餲屑<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_xih_r.md#餲屑<sub>儿</sub>)】`uh7 xih7 r` <sup>[如东]</sup> 腐烂的碎草等垃圾：把锅门口的～畚出去。  
 1. 【[𢉥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh.md#𢉥)】`uh7` <sup>[如皋]</sup> 阴暗矮小，有闷感：房子太～，三个人住不下来。  
 1. 【[𢉥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh.md#𢉥)】`uh7` <sup>[兴化]</sup> 房屋低矮，令人有压抑感：顶棚搭得低，就像～咖头上。《广韵·曷的》乌葛切“～，屋迫”。  
+1. 【[𢉥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh.md#𢉥)】`uh7` <sup>[泰州]</sup> 房间空间小引起的压迫感：家里地方小，东西多，人蹾吖里头～煞咖。丨你睡啊这点点大的小阁子上不嫌～人吖。  
 1. 【[𤎣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh.md#𤎣)】`uh7` <sup>[如皋]</sup> ① 水煮，食品的煮法：～芋头、～玉米棒头儿。 ② 喻行贿：他想升官就拿钱～顶门上司。  
 1. 【[𤎣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh.md#𤎣)】`uh7` <sup>[如东]</sup> 一种烹调方法。把食物放在锅里，加盖，焖熟：～红薯。  
 1. 【[𤎣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh.md#𤎣)】`uh7` <sup>[东台]</sup> 加水闷煮：～山芋｜～稻头。  
 1. 【[𤎣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh.md#𤎣)】`uh7` <sup>[兴化]</sup> 大火蒸煮：～山芋｜～老菱。《集韵·合韵》遏合切“～，烹菜也”。  
 1. 【[𤎣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh.md#𤎣)】`uh7` <sup>[泰县]</sup> 煮：～黄豆。  
+1. 【[𤎣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh.md#𤎣)】`uh7` <sup>[泰州]</sup> 煮菜，加足够水，盖紧锅盖煮熟：～老菱丨～山芋  
 1. 【[活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh.md#活)】`uh8` <sup>[东台]</sup> 松动：榫头～咖啦。  
 1. 【[活剥剥的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_bah_bah_dii.md#活剥剥的)】`uh8 bah7 bah7 dii` <sup>[东台]</sup> 活生生的（带痛惜口气）：他家～小伢儿捱鬼子打死啊。  
 1. 【[活财神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_cae_shen.md#活财神)】`uh8 cae2 shen2` <sup>[如皋]</sup> 褒指有钱或对我生财之人。贬指惹事非或无事生非之人。  
@@ -237,10 +245,12 @@
 1. 【[唵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un.md#唵)】`un3` <sup>[兴化]</sup> 以手掌送食物入口：往嘴里～一把炒米。《广韵·感韵》乌感切：“，手进食也。”  
 1. 【[唵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un.md#唵)】`un3` <sup>[泰县]</sup> 用掌心将东西塞在嘴里：把药～吖嘴里。/月娘……先将服药一把～在口内。（金瓶梅·53回）  
 1. 【[唵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un.md#唵)】`un3` <sup>[泰县]</sup> 塞：把东西～吖嘴里。  
+1. 【[唵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un.md#唵)】`un3` <sup>[泰州]</sup> 用手将食物塞进嘴里：把桌上的烧饼屑子攎起来～吖嘴里去。  
 1. 【[揞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un.md#揞)】`un3` 以手掩盖  
 1. 【[揞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un.md#揞)】`un3` <sup>[如东]</sup> 把药末敷在伤口上，叫做揞。  
 1. 【[揞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un.md#揞)】`un3` <sup>[东台]</sup> 遮盖；掩盖：放屁动手～，有甚的用？  
 1. 【[揞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un.md#揞)】`un3` <sup>[兴化]</sup> 遮盖：～住伤口｜坛子口～得住，人口不住。《广雅·释诂》卷四上：“～，藏也。”王念孙疏证：“……今俗语犹谓手覆物为～矣”。  
+1. 【[揞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un.md#揞)】`un3` <sup>[泰州]</sup> ① 隐藏：出咖这种事情，～是～不住的。 ② 以手覆盖：弄手～住眼睛。  
 1. 【[揞场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_chan.md#揞场)】`un3 chan2` <sup>[如东]</sup> 在收割麦子或稻子的季节，将晒场翻泥洒水，用石磙子把场面压平压实，叫做揞场。  
 1. 【[揞业](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_ih.md#揞业)】`un3 ih8` <sup>[兴化]</sup> ① 疑似“安逸”音变。环境安靖，财不外露。 ② 墙高院深，防护严密：房子虽旧，倒蛮～的。  
 1. 【[揞眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_ngaen.md#揞眼)】`un3 ngaen3` <sup>[如皋]</sup> 牲口劳作用的眼罩，可防偷吃、防偷懒、防害怕。  
@@ -250,6 +260,7 @@
 1. 【[揞种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_zhon.md#揞种)】`un3 zhon3` <sup>[如东]</sup> 一种播种方法。用锹挖口子，把种子放进去，叫做埯种。  
 1. 【[碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un.md#碗)】`un3` <sup>[如皋]</sup> 宴席中用碗或品锅盛装的有汤的一类菜，又称“大菜”。“碗”与“碟”相对。  
 1. 【[碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un.md#碗)】`un3` <sup>[如东]</sup> 瓷或竹、木金属塑料制，圆形，口大，无盖，无环。有头碗、大碗、碗、三红、饭碗、汤碗（也称茶碗、酒碗）诸规格。有花纹。主要用于盛饭、装菜。  
+1. 【[碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un.md#碗)】`un3` <sup>[泰州]</sup> 量词，用于灯、灯笼：你上街区买～灯家来。  
 1. 【[碗菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_cae.md#碗菜)】`un3 cae5` <sup>[如皋]</sup> 宴席中用碗或品锅盛装的有汤的一类菜，又称“大菜”。“碗”与“碟”相对。  
 1. 【[碗橱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_chv.md#碗橱)】`un3 chv2` <sup>[东台]</sup> 放置食具及饭菜的橱柜。  
 1. 【[碗底<sub>儿</sub>朝天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_di_r_cho_tin.md#碗底<sub>儿</sub>朝天)】`un3 di3 r cho2 tin1` <sup>[如皋]</sup> 吃光了，碗内已无食物。  

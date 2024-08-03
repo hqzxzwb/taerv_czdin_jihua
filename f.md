@@ -6,6 +6,7 @@
 1. 【[发](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh.md#发)】`faeh7` <sup>[如东]</sup> ① 给：～东西。 ② 次：跑了几～。 ③ 颗，粒：已经打了10～子弹。  
 1. 【[发](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh.md#发)】`faeh7` <sup>[东台]</sup> 次、趟：到上海去一～；再弄一～；来啊几～人。  
 1. 【[发](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh.md#发)】`faeh7` <sup>[兴化]</sup> ① 批、番：今吖一早，来啊几～人找你。｜早上喊他几～，到这晚还不曾起床。 ② 交付、发送：～货｜“吩咐长班把行李一来……”（《梼杌闲评》七） ③ 起程、上路：～车｜“路远，不到响午就～轿……”（汪曾祺《小学校的钟声》） ④ 戏谓吝啬的人偶尔大方起来：老王今吖～起来，买几笼包子请客。  
+1. 【[发](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh.md#发)】`faeh7` <sup>[泰州]</sup> 量词，次，回：上南京去啊三～。  
 1. 【[发板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_baen.md#发板)】`faeh7 baen3` <sup>[如皋]</sup> ① 板结：浇水多啊地～。 ② 不灵活：人老啊，身骨～，行动不顺便。  
 1. 【[发闭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_bi.md#发闭)】`faeh7 bi5` <sup>[如皋]</sup> ① 气色不好：脸色～。 ② （毛孔）收缩：才淌吖汗的，冷风一吹，毛孔～就要伤风。  
 1. 【[发财长旺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_cae_zhan_van.md#发财长旺)】`faeh7 cae2 zhan3 van6` <sup>[兴化]</sup> 财富增加，家庭兴旺：恭喜你～，日子越过越红火。  
@@ -147,6 +148,7 @@
 1. 【[发躁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_zo.md#发躁)】`faeh7 zo5` <sup>[如东]</sup> ① 发急。 ② 发脾气：要冷静，不要～。  
 1. 【[发簪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_zun.md#发簪)】`faeh7 zun1` <sup>[如东]</sup> 固定长头发的工具。黄杨木制，长条形，一头粗，一头细，似针。头发盘在头顶，用发簪插入，加以固定。  
 1. 【[法](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh.md#法)】`faeh7` <sup>[兴化]</sup> 助词，和动词、形容词结合，表样子、程度等‖也作“法子”：走～；闹～；好～；忙～。  
+1. 【[法](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh.md#法)】`faeh7` <sup>[泰州]</sup> ① 跟在动词后，表示做某事的具体规范：画法丨走法丨骂人也不作兴这种骂～。丨事情不是这样弄～。 ② 跟在形容词后，表示某个动作行为的具体状态：他就这样邪～。丨天这吖黑～。  
 1. 【[法办](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_baen.md#法办)】`faeh7 baen5` <sup>[如东]</sup> ① 依法办理。 ② 侬法处决。  
 1. 【[法话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_hua.md#法话)】`faeh7 hua6` <sup>[兴化]</sup> 夸张、渲染的话：你的～多唻，做做关目就能治癌症，天下医院全要关门吖！  
 1. 【[法眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_ngaen.md#法眼)】`faeh7 ngaen3` <sup>[东台]</sup> 指精深、敏锐的眼力、辨别力：这幅画是真是假，请～鉴定。  
@@ -233,6 +235,8 @@
 1. 【[翻糟饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_zo_bien.md#翻糟饼)】`faen1 zo1 bien3` <sup>[兴化]</sup> （喻）反复折腾，不能入睡：他睡不着觉在被窠里～。  
 1. 【[帆船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_chun.md#帆船)】`faen2 chun2` <sup>[如东]</sup> 渔船的一种。木壳，吨位较小，以风帆为动力，从事捕捞作业或货物运输。如东沿海的帆船为平底，适宜于沙滩港湾航行、停泊，称沙船。浙江沿海的帆船为尖底，适宜于深水港湾航行、停泊，称鸟船。  
 1. 【[烦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen.md#烦)】`faen2` <sup>[兴化]</sup> 啰唆、不停地说：你少要～吧，我这许有事唻！  
+1. 【[烦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen.md#烦)】`faen2` <sup>[泰州]</sup> ① 烦琐：贷款手续多～吖。 ② 烦躁，思绪混乱：这一刻ㄦ心里～。 ③ 劳烦，多用作请人办事时的客套用语：～你把这件货送过去。 ④ 厌烦：一天接待啊5批人，你说哿～吖！  
+1. 【[烦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen.md#烦)】`faen2` <sup>[泰州]</sup> 多言：你覅在这块～吧，我晓得咖唻。丨她就～煞咖，把你耳朵里头都听出老茧来啊。  
 1. 【[烦着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_chah.md#烦着)】`faen2 chah8` 值得：何～？｜不～  
 1. 【[烦烦倒倒的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_faen_do_do_dii.md#烦烦倒倒的)】`faen2 faen2 do5 do5 dii` <sup>[东台]</sup> 形容办某件事程序多，很麻烦：不打算搬家，省得～。  
 1. 【[烦神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_shen.md#烦神)】`faen2 shen2` <sup>[东台]</sup> 操心：这事用不着你～。  
@@ -282,6 +286,7 @@
 1. 【[返重工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_chon_gon.md#返重工)】`faen3 chon2 gon1` <sup>[如东]</sup> 翻工。  
 1. 【[㽹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen.md#㽹)】`faen5` <sup>[东台]</sup> 恶心，想呕吐：作～。（《玉篇》“㽹，吐㽹也。”）  
 1. 【[㽹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen.md#㽹)】`faen5` <sup>[兴化]</sup> 胃子不舒服，恶心欲吐。《广韵·愿韵》芳万切：“～，吐㽹。”：油腻东西吃多啊，心里作～。｜心里～～的要吐。  
+1. 【[㽹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen.md#㽹)】`faen5` <sup>[泰州]</sup> 反胃，恶心欲吐，见“作㽹”：心里～～的，难过煞咖。  
 1. 【[㽹㽹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_faen.md#㽹㽹)】`faen5 faen5` <sup>[泰县]</sup> 身体不适，要呕吐的样子：昨朝受啊凉，心里头～。  
 1. 【[㽹动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_ton.md#㽹动)】`faen5 ton` <sup>[如皋]</sup> 胃中搅动，恶心欲呕。  
 1. 【[泛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen.md#泛)】`faen5` <sup>[如皋]</sup> 褪色后的滞色：蓝衣裳旧啊会～红，穿到最后就～白。  
@@ -407,6 +412,7 @@
 1. 【[方](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan.md#方)】`fan1` <sup>[东台]</sup> ［引］不会处世，太呆板，处处格占别人：这个人～得扎实，些邻居都不愿意跟他来往。  
 1. 【[方](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan.md#方)】`fan1` <sup>[兴化]</sup> 性格孤傲，不合群：同事起初对他很敬重，渐渐地在背后议论起来，说这个人的脾气很～。（汪曾祺《徙》）  
 1. 【[方](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan.md#方)】`fan1` <sup>[泰县]</sup> 人缘不好：这个人太方。  
+1. 【[方](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan.md#方)】`fan1` <sup>[泰州]</sup> 不愿与人共享某种方便或者好处，贬义：你这个人怎吖就这吖～的，借你家门口站一刻ㄦ都不行吖？  
 1. 【[方饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_bien.md#方饼)】`fan1 bien3` <sup>[如皋]</sup> 方形的烧饼。  
 1. 【[方才](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_cae.md#方才)】`fan1 cae2` <sup>[如皋]</sup> 刚才。  
 1. 【[方丈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_chan.md#方丈)】`fan1 chan6` <sup>[如东]</sup> ① 寺庙里的主管，称方丈。 ② 寺庙主管居住的地方，称方丈。  
@@ -564,6 +570,7 @@
 1. 【[放账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_zhan.md#放账)】`fan5 zhan5` <sup>[兴化]</sup> 商店赊销：他这个小饭店一年～十来万，年下收账难㗁！  
 1. 【[放粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_zhoh.md#放粥)】`fan5 zhoh7` <sup>[如皋]</sup> 旧时民间慈善之举，每年冬至、清明间，每日给每个穷人施厚粥一份，约合米1市斤。  
 1. 【[放中饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_zhon_faen.md#放中饭)】`fan5 zhon1 faen6` <sup>[兴化]</sup> 中午放工、放学。  
+1. 【[咈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/feh.md#咈)】`feh7` <sup>[泰州]</sup> 象声词，吹气的声音。  
 1. 【[拂板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/feh_baen.md#拂板)】`feh7 baen3` <sup>[兴化]</sup> 龙骨水车中的长方形木片，在槽桶内壁，由木榷串连，将水从低处抽到田间。（见《兴化水利志·提水排灌》）  
 1. 【[拂眼生鲜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/feh_ngaen_shen_xin.md#拂眼生鲜)】`feh7 ngaen3 shen1 xin1` <sup>[兴化]</sup> 鲜艳夺目：大棚里蔬菜长得～的。｜田里麦子～，绿油油一片。  
 1. 【[拂身子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/feh_shen_zz.md#拂身子)】`feh7 shen1 zz` <sup>[兴化]</sup> 为自己洗刷，推脱干系。  
@@ -618,6 +625,7 @@
 1. 【[飞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_zz.md#飞子)】`fei1 zz` <sup>[兴化]</sup> 商店收款后，发的顾客的简易取货凭证：服务员凭～上菜。  
 1. 【[肥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei.md#肥)】`fei2` <sup>[如东]</sup> ① 菜肴中肥肉多，肥味浓厚：肥肉多，太～。 ② 宽大：这件衣裳～。  
 1. 【[肥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei.md#肥)】`fei2` <sup>[泰县]</sup> 粗。  
+1. 【[肥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei.md#肥)】`fei2` <sup>[泰州]</sup> ① 胖：人长得太～，不好看。 ② 粗：这根竹子太～，不好用。  
 1. 【[肥膘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_bio.md#肥膘)】`fei2 bio1` <sup>[兴化]</sup> ① 含脂肪多的肉，与“实膘”（瘦肉）相对。 ② 也指人虚胖，身上肌肉少。  
 1. 【[肥膘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_bio.md#肥膘)】`fei2 bio1` <sup>[如皋]</sup> 肥肉的膘情，即肥肉的厚薄虚实。  
 1. 【[肥差事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_chae_shr.md#肥差事)】`fei2 chae1 shr6` <sup>[如皋]</sup> 轻松、赚钱多的交易。  
@@ -724,6 +732,7 @@
 1. 【[坟园桌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_iun_zhuah_zz.md#坟园桌子)】`fen2 iun2 zhuah7 zz` <sup>[如皋]</sup> 坟前石台或土台，放供品用。  
 1. 【[坟上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_shan.md#坟上)】`fen2 shan` <sup>[如皋]</sup> ① 坟地。 ② 住在附近，受聘照料坟地的农家。  
 1. 【[坟头上打拳——吓鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_teu_shan_da_qiun_heh_guei.md#坟头上打拳——吓鬼)】`fen2 teu2 shan da3 qiun2 heh7 guei3` <sup>[东台]</sup>   
+1. 【[粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen.md#粉)】`fen2` <sup>[泰州]</sup> 食物因淀粉含量高，吃在嘴中的绵软而略带噎人的感觉：这个山芋～得加思唻。丨这个番瓜吃咖嘴里一点ㄦ也不～。  
 1. 【[粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen.md#粉)】`fen3` 粉丝  
 1. 【[粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen.md#粉)】`fen3` <sup>[如皋]</sup> 疏松：这种砖头太差，手一拈就变～。  
 1. 【[粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen.md#粉)】`fen3` <sup>[东台]</sup> （此处为形容词）含淀粉较高：你的这个番瓜哿～？  
@@ -770,6 +779,7 @@
 1. 【[粉撮撮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_zuh_zuh.md#粉撮撮)】`fen3 zuh7 zuh7` <sup>[泰县]</sup> 粉多而均匀：他脸上～的。  
 1. 【[粉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_zz.md#粉子)】`fen3 zz` <sup>[兴化]</sup> 细粉末：药～；米～。  
 1. 【[粪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen.md#粪)】`fen5` <sup>[如皋]</sup> ① 容器中的尿、屎及有机物沤成的腐败物：倒～、舀～、挑～、浇～。不说“屙～”。 ② 肥料：垩～。  
+1. 【[粪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen.md#粪)】`fen5` <sup>[泰州]</sup> 屎尿混合物：挑～  
 1. 【[粪车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_cha.md#粪车)】`fen5 cha1` <sup>[如皋]</sup> 装粪的车子。  
 1. 【[粪池](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_chr.md#粪池)】`fen5 chr2` <sup>[如皋]</sup> 砖砌的大池，贮粪用。农家户户有，田头也常见。  
 1. 【[粪船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_chun.md#粪船)】`fen5 chun2` <sup>[如皋]</sup> 装粪的船。  
