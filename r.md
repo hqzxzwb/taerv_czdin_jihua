@@ -77,7 +77,7 @@
 1. 【[穰草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ran_co.md#穰草)】`ran2 co3` <sup>[东台]</sup> 用榔头捶过或软的稻草。  
 1. 【[穰草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ran_co.md#穰草)】`ran2 co3` <sup>[兴化]</sup> 乱稻草。  
 1. 【[穰草铺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ran_co_pv.md#穰草铺)】`ran2 co3 pv5` <sup>[兴化]</sup> 在褥子下铺有稻草的床铺：这几天下乡睏的～，倒蛮暖和的。  
-1. 【[穰穰子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ran_ran_zz.md#穰穰子)】`ran2 ran2 zz` <sup>[兴化]</sup> ① 悬挂的灰土，也称“吊吊灰”。 ② 碎布条：破布～。谚曰｜两春夹一冬，三根～过一冬。 ③ 形容人青筋暴露：瘦得两根～绊根筋。  
+1. 【[穰穰子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ran_ran_zz.md#穰穰子)】`ran2 ran2 zz` <sup>[兴化]</sup> ① 悬挂的灰土，也称“吊吊灰”。 ② 碎布条：破布～。｜谚曰：两春夹一冬，三根～过一冬。 ③ 形容人青筋暴露：瘦得两根～绊根筋。  
 1. 【[蘘荷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ran_hu.md#蘘荷)】`ran2 hu` <sup>[如东]</sup> 姜科植物蘘荷，多年生草本。  
 1. 【[蘘荷草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ran_hu_co.md#蘘荷草)】`ran2 hu co3` <sup>[如东]</sup> 姜科植物蘘荷叶。  
 1. 【[蘘荷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ran_hu_zz.md#蘘荷子)】`ran2 hu zz3` <sup>[如东]</sup> 姜科植物蘘荷种子。  
@@ -263,7 +263,7 @@
 1. 【[人情项理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_qien_han_li.md#人情项理)】`ren2 qien2 han6 li3` <sup>[如东]</sup> 各项社交费用：～的，都是我出。  
 1. 【[人情项礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_qien_han_li.md#人情项礼)】`ren2 qien2 han6 li3` <sup>[如皋]</sup> 交往礼节方面的费用。  
 1. 【[人情人面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_qien_ren_min.md#人情人面)】`ren2 qien2 ren2 min6` <sup>[兴化]</sup> 面对当事人的情面：老同学来，～的，还真不好回绝他。  
-1. 【[人情债](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_qien_zhae.md#人情债)】`ren2 qien2 zhae5` <sup>[兴化]</sup> 在亲友交往中的礼节、应酬。谚曰：人情急如债，头顶锅儿卖。  
+1. 【[人情债](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_qien_zhae.md#人情债)】`ren2 qien2 zhae5` <sup>[兴化]</sup> 在亲友交往中的礼节、应酬：谚曰：人情急如债，头顶锅儿卖。  
 1. 【[人前盘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_qin_pun_zz.md#人前盘子)】`ren2 qin2 pun2 zz` <sup>[如东]</sup> 举办宴席时，帮工把装着菜碗的盘子举在头顶上往前走，称人前盘子。比喻喜欢出头露面的人：兰兰是个～。  
 1. 【[人前人后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_qin_ren_heu.md#人前人后)】`ren2 qin2 ren2 heu6` <sup>[如东]</sup> 到处的意思：～都有  
 1. 【[人穷色不穷，麻雀踏个雄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_qion_seh_beh_qion_ma_jiah_taeh_gu_xion.md#人穷色不穷，麻雀踏个雄)】`ren2 qion2 seh7 beh7 qion2 ma2 jiah7 taeh8 gu xion2` <sup>[东台]</sup> 人有七情六欲，有性欲是正常的，连麻雀也不例外。  
@@ -355,7 +355,7 @@
 1. 【[忍命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_mien.md#忍命)】`ren3 mien6` <sup>[如皋]</sup> 见“捱死”。  
 1. 【[忍耐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_nae.md#忍耐)】`ren3 nae6` <sup>[如东]</sup> 把某种痛苦或感觉抑制住不使表现出来：请你～下子。  
 1. 【[忍耐忍耐，家私还在](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_nae_ren_nae_ga_sz_hae_cae.md#忍耐忍耐，家私还在)】`ren3 nae6 ren3 nae6 ga1 sz1 hae2 cae6` <sup>[东台]</sup> 必要的忍受不会损失家当。  
-1. 【[忍饿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_ngu.md#忍饿)】`ren3 ngu6` <sup>[兴化]</sup> 挨饿：媒人咽下最后一口说｜“讲理自～，越想越难过。”（钱国怀《姚子》）｜谚曰｜“癞蛤蟆蹲蹲坐，一世不～；田鸡跳一丈，嘴也管不上。”  
+1. 【[忍饿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_ngu.md#忍饿)】`ren3 ngu6` <sup>[兴化]</sup> 挨饿：媒人咽下最后一口说｜“讲理自～，越想越难过。”（钱国怀《姚子》）｜谚曰：“癞蛤蟆蹲蹲坐，一世不～；田鸡跳一丈，嘴也管不上。”  
 1. 【[忍气吞声](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_qi_ten_shen.md#忍气吞声)】`ren3 qi5 ten1 shen1` <sup>[如东]</sup> 受了气而忍耐着不敢说出来。  
 1. 【[忍让](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_ran.md#忍让)】`ren3 ran6` <sup>[如东]</sup> 容忍退让。  
 1. 【[忍忍㾭㾭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_ren_jieu_jieu.md#忍忍㾭㾭)】`ren3 ren3 jieu5 jieu5` <sup>[泰县]</sup> 不果断。  
@@ -435,8 +435,8 @@
 1. 【[日脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_jiah.md#日脚)】`rih8 jiah7` <sup>[泰县]</sup> 日子。  
 1. 【[日脚老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_jiah_lo.md#日脚老)】`rih8 jiah7 lo3` <sup>[如皋]</sup> 一般指休养天数长。  
 1. 【[日脚嫩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_jiah_nen.md#日脚嫩)】`rih8 jiah7 nen6` <sup>[如皋]</sup> 修养天数短。  
-1. 【[日进分文](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_jien_fen_ven.md#日进分文)】`rih8 jien5 fen1 ven2` <sup>[兴化]</sup> 指有经常性经济收入。谚曰：家有良田千顷，不抵～。  
-1. 【[日久](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_jieu.md#日久)】`rih8 jieu3` <sup>[兴化]</sup> 时间长了：兴哥虽然想家，到得～，索性把念头放慢了。（《古今小说》一）｜谚曰｜路遥知马力，～见人心。  
+1. 【[日进分文](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_jien_fen_ven.md#日进分文)】`rih8 jien5 fen1 ven2` <sup>[兴化]</sup> 指有经常性经济收入：谚曰：家有良田千顷，不抵～。  
+1. 【[日久](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_jieu.md#日久)】`rih8 jieu3` <sup>[兴化]</sup> 时间长了：兴哥虽然想家，到得～，索性把念头放慢了。（《古今小说》一）｜谚曰：路遥知马力，～见人心。  
 1. 【[日历头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_lieh_teu_zz.md#日历头子)】`rih8 lieh8 teu2 zz` <sup>[兴化]</sup> 历书。  
 1. 【[日里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_lii.md#日里)】`rih8 lii` <sup>\[如皋\]\[如东\]\[泰县\]\[东台\]\[兴化\]</sup>白天：～热时走不得（《水浒》）。<sup>\[东台\]</sup>｜～抓紧做，免得开夜车。<sup>\[兴化\]</sup>  
 1. 【[日里家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_lii_ga.md#日里家)】`rih8 lii ga` <sup>[泰县]</sup> 白天。  
@@ -576,7 +576,7 @@
 1. 【[肉㾑㾑的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_duh_duh_dii.md#肉㾑㾑的)】`roh8 duh7 duh7 dii` <sup>[东台]</sup> 同“肉倬倬的”。  
 1. 【[肉而臭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_er_cheu.md#肉而臭)】`roh8 er cheu5` <sup>[东台]</sup> ［引］脾气倔，难沟通，且说话刺激人，令人讨厌。  
 1. 【[肉饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_faen.md#肉饭)】`roh8 faen6` <sup>[兴化]</sup> 有肉的饭食，借指好日子：这次上县里开会，又吃咖几天～。  
-1. 【[肉疙瘩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_geh_daeh.md#肉疙瘩)】`roh8 geh7 daeh7` <sup>[兴化]</sup> （戏）婴儿。谚曰：宁挑千斤担，不抱～。  
+1. 【[肉疙瘩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_geh_daeh.md#肉疙瘩)】`roh8 geh7 daeh7` <sup>[兴化]</sup> （戏）婴儿：谚曰：宁挑千斤担，不抱～。  
 1. 【[肉疙瘩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_geh_daeh.md#肉疙瘩)】`roh8 geh7 daeh7` <sup>[泰县]</sup> 孩子的爱称。  
 1. 【[肉疙瘩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_geh_daeh_r.md#肉疙瘩<sub>儿</sub>)】`roh8 geh7 daeh7 r` <sup>[如皋]</sup> 见“乖乖肉”。  
 1. 【[肉拱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_gon.md#肉拱)】`roh8 gon3` <sup>[如东]</sup> 心中不服：给二娘买啊一只戒戒儿，大娘在下～。  

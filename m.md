@@ -389,7 +389,7 @@
 1. 【[抹下脸来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maeh_ha_lin_lae.md#抹下脸来)】`maeh8 ha6 lin3 lae` <sup>[东台]</sup> 指不顾情面批评人。  
 1. 【[抹花<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maeh_hua_r.md#抹花<sub>儿</sub>)】`maeh8 hua1 r` <sup>[如皋]</sup> 旧时用麻醉药拐卖儿童的罪犯。  
 1. 【[抹花<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maeh_hua_r.md#抹花<sub>儿</sub>)】`maeh8 hua1 r` <sup>[东台]</sup> 旧时拐骗贩卖儿童的人。  
-1. 【[抹胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maeh_hv_zz.md#抹胡子)】`maeh8 hv2 zz` <sup>[兴化]</sup> 白吃白拿的隐语：他大吃一顿～走路！｜谚曰｜～扰孙子。  
+1. 【[抹胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maeh_hv_zz.md#抹胡子)】`maeh8 hv2 zz` <sup>[兴化]</sup> 白吃白拿的隐语：他大吃一顿～走路！｜谚曰：～扰孙子。  
 1. 【[抹□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maeh_jien.md#抹□)】`maeh8 jien1` <sup>[如皋]</sup> 用推拿法治痉挛。如皋词典写“抹痉”。  
 1. 【[抹面子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maeh_min_zz.md#抹面子)】`maeh8 min6 zz` <sup>[兴化]</sup> 照顾面皮，以便转圜：杀人不过头点地，人家认错代你～就算啊。  
 1. 【[抹刷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maeh_shuaeh.md#抹刷)】`maeh8 shuaeh` <sup>[兴化]</sup> 形容人态度温和，言语婉转：大娘娘～，把双方的老人都服侍得高高兴兴的。  
@@ -663,7 +663,7 @@
 1. 【[没大没小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_da_meh_xio.md#没大没小)】`meh8 da6 meh8 xio3` <sup>[如东]</sup> 不分对象尊卑大小：说话～的。  
 1. 【[没大没小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_da_meh_xio.md#没大没小)】`meh8 da6 meh8 xio3` <sup>[东台]</sup> 晚辈对长辈不礼貌；或长辈在晚辈面前不稳重。  
 1. 【[没搭煞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_daeh_shaeh.md#没搭煞)】`meh8 daeh7 shaeh7` <sup>[如东]</sup> 不好相处，不能接近：这个人～。  
-1. 【[没搭煞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_daeh_shaeh.md#没搭煞)】`meh8 daeh7 shaeh7` <sup>[兴化]</sup> ① 荒唐、没正经：那老儿～，黑暗里已自和那婆娘摸上了。（《初刻》十六）｜谚曰｜四十八，养个～。 ② 无聊、无味：这几天戒香烟，嘴里～。  
+1. 【[没搭煞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_daeh_shaeh.md#没搭煞)】`meh8 daeh7 shaeh7` <sup>[兴化]</sup> ① 荒唐、没正经：那老儿～，黑暗里已自和那婆娘摸上了。（《初刻》十六）｜谚曰：四十八，养个～。 ② 无聊、无味：这几天戒香烟，嘴里～。  
 1. 【[没搭煞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_daeh_shaeh.md#没搭煞)】`meh8 daeh7 shaeh7` <sup>[泰县]</sup> 不值得一提。  
 1. 【[没搭煞头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_daeh_shaeh_teu.md#没搭煞头)】`meh8 daeh7 shaeh7 teu2` <sup>[东台]</sup> 没有交往的价值和必要。  
 1. 【[没搭头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_daeh_teu.md#没搭头)】`meh8 daeh7 teu` <sup>[如东]</sup> 不能交往：这个人～。  
@@ -708,7 +708,7 @@
 1. 【[没魂大胆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_huen_da_daen.md#没魂大胆)】`meh8 huen2 da6 daen3` <sup>[如皋]</sup> 见“没（得）魂”。  
 1. 【[没魂大帝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_huen_da_di.md#没魂大帝)】`meh8 huen2 da6 di5` <sup>[如皋]</sup> 胆大妄为的人。  
 1. 【[没魂的像](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_huen_dii_qian.md#没魂的像)】`meh8 huen2 dii qian6` <sup>[如皋]</sup> 非常像。  
-1. 【[没药医](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_iah_i.md#没药医)】`meh8 iah8 i1` <sup>[兴化]</sup> ① （喻）品质恶劣，无可挽救：这个小伙～，明朝不晓得怎吖缴梢呢？ ② 令人难以应付：“师父要善将起来，就～……”（《西游记》八十）｜谚曰｜老实人欺人～。  
+1. 【[没药医](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_iah_i.md#没药医)】`meh8 iah8 i1` <sup>[兴化]</sup> ① （喻）品质恶劣，无可挽救：这个小伙～，明朝不晓得怎吖缴梢呢？ ② 令人难以应付：“师父要善将起来，就～……”（《西游记》八十）｜谚曰：老实人欺人～。  
 1. 【[没影子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_ien_zz.md#没影子)】`meh8 ien3 zz` <sup>[如东]</sup> 比喻没有这种事情：箇是～的事。  
 1. 【[没应动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_ien_ton.md#没应动)】`meh8 ien5 ton6` <sup>[如东]</sup> 没有反映或答复：说咖几次都～。  
 1. 【[没油没酱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_ieu_meh_jian.md#没油没酱)】`meh8 ieu2 meh8 jian5` <sup>[如东]</sup> ① 烧菜不放油，不放酱，没有滋味。比喻没有情趣：那个地方～的，没甚的人去。 ② 比喻没有好处：他那许～的，哪个去噢？  
@@ -1499,7 +1499,7 @@
 1. 【[毛昌纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_chan_zhr.md#毛昌纸)】`mo2 chan1 zhr3` <sup>[东台]</sup> 敬亡人的土纸，常用毛昌月子（铁凿子）冲成一行行月牙形口子。詈语中代指钱币。  
 1. 【[毛昌纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_chan_zhr.md#毛昌纸)】`mo2 chan1 zhr3` <sup>[兴化]</sup> ① 一种浅黄色土纸，打上花纹后，迷信用作纸钱。 ② 钱的贬义说法：“你到底能交多少费用？”“～都没有带一张。”（马春阳《四十块钱》）  
 1. 【[毛重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_chon.md#毛重)】`mo2 chon6` <sup>[如东]</sup> 包括物品容器在内的重量。  
-1. 【[毛戳毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_chuah_mo.md#毛戳毛)】`mo2 chuah7 mo2` <sup>[兴化]</sup> （喻）相互之间都不顶真。谚曰：大麦换蟹砟（蟛蜞）——～。  
+1. 【[毛戳毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_chuah_mo.md#毛戳毛)】`mo2 chuah7 mo2` <sup>[兴化]</sup> （喻）相互之间都不顶真：谚曰：大麦换蟹砟（蟛蜞）——～。  
 1. 【[毛糙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_co.md#毛糙)】`mo2 co` <sup>[兴化]</sup> ① 环境不安静：这几天庄上老好的～哩！ ② 工作马虎，不细心：你这吖～怎吖能做好工作？  
 1. 【[毛搭车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_daeh_cha.md#毛搭车)】`mo2 daeh7 cha1` <sup>[如东]</sup> 交通工具，摩托车。金属制，两只轮子或三只轮子。以内燃机为动力。行动灵便快速。可以载人或物。  
 1. 【[毛赌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_dv.md#毛赌)】`mo2 dv3` <sup>[东台]</sup> 指打牌、下棋、玩麻将等不按游戏规则办事，作弊的行为。也称“毛机”。  
@@ -1582,7 +1582,7 @@
 1. 【[猫<sub>儿</sub>搭爪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_r_daeh_zhua.md#猫<sub>儿</sub>搭爪)】`mo2 r daeh7 zhua3` <sup>[泰县]</sup> 动手动脚。  
 1. 【[猫<sub>儿</sub>盖屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_r_gae_shr.md#猫<sub>儿</sub>盖屎)】`mo2 r gae5 shr3` <sup>[如东]</sup> 猫儿拉大便后要用泥土盖起来，但是盖不严实。比喻做事质量不高：他锄草总是～，锄一块，丢一块。  
 1. 【[猫<sub>儿</sub>窖屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_r_go_shr.md#猫<sub>儿</sub>窖屎)】`mo2 r go5 shr3` <sup>[东台]</sup> ［喻］办事马虎、毛毛糙糙：他劳动不认真，锄的草就是～。  
-1. 【[猫<sub>儿</sub>拉屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_r_la_shr.md#猫<sub>儿</sub>拉屎)】`mo2 r la1 shr3` <sup>[兴化]</sup> 猫拉屎后总要用沙土等掩盖起来。比喻自己惹的事自己处理。谚曰：～自打当。  
+1. 【[猫<sub>儿</sub>拉屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_r_la_shr.md#猫<sub>儿</sub>拉屎)】`mo2 r la1 shr3` <sup>[兴化]</sup> 猫拉屎后总要用沙土等掩盖起来。比喻自己惹的事自己处理：谚曰：～自打当。  
 1. 【[猫<sub>儿</sub>脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_r_lin.md#猫<sub>儿</sub>脸)】`mo2 r lin3` <sup>[如东]</sup> 猫儿脸比较短。比喻肚量不大，容易生气：她是～，不要计较。  
 1. 【[猫<sub>儿</sub>佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_r_lo_r.md#猫<sub>儿</sub>佬<sub>儿</sub>)】`mo2 r lo3 r` <sup>[如皋]</sup> 铜钞两面的称谓，即“字儿、鏝儿”。  
 1. 【[猫<sub>儿</sub>吃蟹渣——恶势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_r_qieh_hae_zha_ngah_shr.md#猫<sub>儿</sub>吃蟹渣——恶势)】`mo2 r qieh7 hae3 zha1 ngah7 shr5` <sup>[东台]</sup>   
@@ -1610,7 +1610,7 @@
 1. 【[茅缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_gan.md#茅缸)】`mo2 gan1` 茅房，厕所  
 1. 【[茅缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_gan.md#茅缸)】`mo2 gan1` <sup>[如东]</sup> 储存粪便的设施，圆形，一般用砖砌成，较大，也有用砂缸的。通称厕所。  
 1. 【[茅缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_gan.md#茅缸)】`mo2 gan1` <sup>[东台]</sup> 露天或茅草房的厕所。  
-1. 【[茅缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_gan.md#茅缸)】`mo2 gan1` <sup>[兴化]</sup> 供人大便的缸：谚曰｜～也有三日新。也称“坑缸”。  
+1. 【[茅缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_gan.md#茅缸)】`mo2 gan1` <sup>[兴化]</sup> 供人大便的缸：谚曰：～也有三日新。也称“坑缸”。  
 1. 【[茅缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_gan.md#茅缸)】`mo2 gan1` <sup>[泰县]</sup> 粪缸。  
 1. 【[茅缸座<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_gan_cu_r.md#茅缸座<sub>儿</sub>)】`mo2 gan1 cu6 r` <sup>[如东]</sup> 搁在茅缸上面的装置，供人坐着排泄大便，有坐椅形的，也有条凳形的。  
 1. 【[茅缸巷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_gan_han_zz.md#茅缸巷子)】`mo2 gan1 han6 zz` <sup>[东台]</sup> 旧时台城大户人家住宅下首或后门旁，运送粪便、垃圾和炊草杂物的专用通道。  
@@ -1618,7 +1618,7 @@
 1. 【[茅缸里敲鼓——臭（凑）热闹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_gan_lii_ko_gv_cheu_rih_no.md#茅缸里敲鼓——臭（凑）热闹)】`mo2 gan1 lii ko1 gv3 cheu5 （ceu5） rih8 no6` <sup>[东台]</sup>   
 1. 【[茅缸棚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_gan_pon_r.md#茅缸棚<sub>儿</sub>)】`mo2 gan1 pon2 r` <sup>[如东]</sup> 遮盖茅缸的小屋。  
 1. 【[茅篙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_go.md#茅篙)】`mo2 go1` <sup>[东台]</sup> 茅竹篙子，撑船工具。  
-1. 【[茅坑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_ken.md#茅坑)】`mo2 ken1` <sup>[兴化]</sup> 简陋的厕所。‖谚曰：占住～不拉屎。也称“茅厕”。  
+1. 【[茅坑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_ken.md#茅坑)】`mo2 ken1` <sup>[兴化]</sup> 简陋的厕所。‖也称“茅厕”：谚曰：占住～不拉屎。  
 1. 【[茅棚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_pon_r.md#茅棚<sub>儿</sub>)】`mo2 pon2 r` <sup>[泰县]</sup> 小草屋。  
 1. 【[茅棚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_pon_zz.md#茅棚子)】`mo2 pon2 zz` <sup>[兴化]</sup> ① 茅草搭的散棚。 ② 茅屋。  
 1. 【[茅屎缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_shr_gan.md#茅屎缸)】`mo2 shr3 gan1` <sup>[泰县]</sup> 厕所。  

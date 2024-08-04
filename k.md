@@ -138,7 +138,7 @@
 1. 【[开门红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_men_hon.md#开门红)】`kae1 men2 hon2` <sup>[如东]</sup> 形容一开场生意就很兴隆。  
 1. 【[开门头市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_men_teu_shr.md#开门头市)】`kae1 men2 teu2 shr6` <sup>[如东]</sup> 第一次交易：～就很好。  
 1. 【[开门戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_men_xi.md#开门戏)】`kae1 men2 xi5` <sup>[如皋]</sup> 演戏散场前，把门打开，让观众陆续退场，此时外面的人可进场免费看戏，此为开门戏。  
-1. 【[开门戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_men_xi.md#开门戏)】`kae1 men2 xi5` <sup>[兴化]</sup> 旧时剧场演戏，至散场前半小时左右即打开大门，让人自由进去观赏。谚曰：～好看，伺候难当。  
+1. 【[开门戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_men_xi.md#开门戏)】`kae1 men2 xi5` <sup>[兴化]</sup> 旧时剧场演戏，至散场前半小时左右即打开大门，让人自由进去观赏：谚曰：～好看，伺候难当。  
 1. 【[开门戏好看——难等](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_men_xi_ho_kun_naen_den.md#开门戏好看——难等)】`kae1 men2 xi5 ho3 kun5 naen2 den3` <sup>[如皋]</sup> 等到最后才能看到。  
 1. 【[开蒙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_mon.md#开蒙)】`kae1 mon2` <sup>[如东]</sup> 小孩第一欢进私塾读书，称开蒙。  
 1. 【[开蒙儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_mon_er.md#开蒙儿)】`kae1 mon2 er2` <sup>[泰县]</sup> 刚上学的孩子。  
@@ -221,7 +221,7 @@
 1. 【[隑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#隑)】`kae5` <sup>[如东]</sup> 依靠：～啊墙上。  
 1. 【[隑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#隑)】`kae5` <sup>[如皋]</sup> 斜靠、倚：～啊墙上。  
 1. 【[隑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#隑)】`kae5` <sup>[东台]</sup> 斜靠：倚墙～壁。  
-1. 【[隑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#隑)】`kae5` <sup>[兴化]</sup> ① 斜倚者：～下来｜上床～刻儿。 ② 施延：～时间。 ③ 依赖：你～我，我～你。谚曰｜大懒～小懒，伙计～老板。《方言》十三｜“～，倚也。”郭璞注｜“江南人呼梯为～，所以～物而登者也。”《集韵·代韵》口溉切｜“～，《博雅》陭也”。  
+1. 【[隑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#隑)】`kae5` <sup>[兴化]</sup> ① 斜倚者：～下来｜上床～刻儿。 ② 施延：～时间。 ③ 依赖：你～我，我～你。｜谚曰：大懒～小懒，伙计～老板。《方言》十三｜“～，倚也。”郭璞注｜“江南人呼梯为～，所以～物而登者也。”《集韵·代韵》口溉切｜“～，《博雅》陭也”。  
 1. 【[隑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#隑)】`kae5` <sup>[泰县]</sup> 斜靠，站立：你～啊门上做甚的？  
 1. 【[隑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#隑)】`kae5` <sup>[泰县]</sup> 斜靠：不要～啊那块。  
 1. 【[隑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#隑)】`kae5` <sup>[泰州]</sup> ① 使物体斜靠墙壁：你把这几根竹子先～啊墙上。 ② 背部倚靠在物体上（休息）：他一到家就望沙发上一～看报纸。  

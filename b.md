@@ -33,7 +33,7 @@
 1. 【[巴沟<sub>儿</sub>草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_geu_r_co.md#巴沟<sub>儿</sub>草)】`ba1 geu1 r co3` <sup>[如皋]</sup> 见“乌蓲”。  
 1. 【[巴锅不熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_gu_beh_shoh.md#巴锅不熟)】`ba1 gu1 beh7 shoh8` <sup>[兴化]</sup> ① 不等饭菜煮熟就急着要吃。 ② （喻）形容人性急，不待时机成熟就行事：这个人～，才跟她认得就要订婚。  
 1. 【[巴锅恋灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_gu_lin_zo.md#巴锅恋灶)】`ba1 gu1 lin6 zo5` <sup>[兴化]</sup> 形容人嘴馋，喜欢看着人烹饪，或到厨房找吃的。  
-1. 【[巴棍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_guen.md#巴棍)】`ba1 guen5` <sup>[兴化]</sup> 旧时作刑具的种短木棍。谚曰：吃双粮，打～。  
+1. 【[巴棍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_guen.md#巴棍)】`ba1 guen5` <sup>[兴化]</sup> 旧时作刑具的种短木棍：谚曰：吃双粮，打～。  
 1. 【[巴衣草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_i_co.md#巴衣草)】`ba1 i1 co3` <sup>[如皋]</sup> 狗牙根。  
 1. 【[巴结](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_jih.md#巴结)】`ba1 jih` <sup>[兴化]</sup> 形容努力、勤奋：“你父亲就是你一个儿子，既然叫你读了书，自然望你～上进……”（《官场现形记》一）  
 1. 【[巴结](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_jih.md#巴结)】`ba1 jih7` <sup>[如东]</sup> ① 讨好：～领导。 ② 勉强：～够数。 ③ 老实勤快：这个人蛮～。  
@@ -1185,7 +1185,7 @@
 1. 【[闭门羹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_men_gen.md#闭门羹)】`bi5 men2 gen1` <sup>[东台]</sup> 语出冯贽《云仙杂记》卷一，谓只作羹待客而不与之相见，后泛指拒绝客人进门，不与相见：今吖一大早就吃咖他的～。  
 1. 【[闭闷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_men.md#闭闷)】`bi5 men6` <sup>[如东]</sup> 不开心，不顺利。  
 1. 【[闭眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_ngaen.md#闭眼)】`bi5 ngaen3` <sup>[如皋]</sup> ① 比喻心满意足：死也～。 ② 形容吻合：扼苫子要～。  
-1. 【[闭眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_ngaen.md#闭眼)】`bi5 ngaen3` <sup>[兴化]</sup> ① 睡觉：这个小家伙精神真好，缠到这晚也不～。 ② 表示服气，没有遗憾。谚曰：老鼠啃不动生铁，死倒不～。  
+1. 【[闭眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_ngaen.md#闭眼)】`bi5 ngaen3` <sup>[兴化]</sup> ① 睡觉：这个小家伙精神真好，缠到这晚也不～。 ② 表示服气，没有遗憾：谚曰：老鼠啃不动生铁，死倒不～。  
 1. 【[𠷨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bia.md#𠷨)】`bia3` <sup>[如皋]</sup> 不正。  
 1. 【[𠷨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bia.md#𠷨)】`bia3` <sup>[泰县]</sup> 不正：他读书读咖～啊音。  
 1. 【[𠷨腰<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bia_io_r.md#𠷨腰<sub>儿</sub>)】`bia3 io1 r` <sup>[如皋]</sup> 腰椎变形，向一边倾斜的体形。或称人。  

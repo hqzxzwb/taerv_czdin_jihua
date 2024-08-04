@@ -1041,7 +1041,7 @@
 1. 【[碜嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_zuei.md#碜嘴)】`chen3 zuei3` <sup>[兴化]</sup> 食物中杂有砂子，咀嚼时硌牙：今朝的中饭米不曾淘干净，饭有点～。碜，《集韵·寝韵》楚锦切｜物杂砂也。  
 1. 【[逞强好胜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_qian_ho_shen.md#逞强好胜)】`chen3 qian2 ho5 shen5` <sup>[东台]</sup> 意思是说过于争夺名利，总想以强势的姿态、话语胜人一筹，不让别人占上风。  
 1. 【[剩半子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_bun_zz.md#剩半子)】`chen5 bun5 zz` 剩饭，剩饭碗  
-1. 【[剩儿剩女](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_er_chen_ny.md#剩儿剩女)】`chen5 er2 chen5 ny3` <sup>[兴化]</sup> 极言找不到配偶的大龄子女。谚曰：只有剩粥剩饭，哪有～。  
+1. 【[剩儿剩女](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_er_chen_ny.md#剩儿剩女)】`chen5 er2 chen5 ny3` <sup>[兴化]</sup> 极言找不到配偶的大龄子女：谚曰：只有剩粥剩饭，哪有～。  
 1. 【[剩饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_faen.md#剩饭)】`chen5 faen6` <sup>[如东]</sup> ① 多余的饭。 ② 剩下的饭。  
 1. 【[剩脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_jiah_r.md#剩脚<sub>儿</sub>)】`chen5 jiah7 r` <sup>[如东]</sup> ① 剩下来的东西。 ② 渣滓：都是～，倒掉吧。  
 1. 【[剩脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_jiah_r.md#剩脚<sub>儿</sub>)】`chen5 jiah7 r` <sup>[如皋]</sup> 剩下的东西：～菜、～货。  
@@ -1470,7 +1470,7 @@
 1. 【[充能](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_nen.md#充能)】`chon1 nen2` <sup>[如皋]</sup> 责备出头做某种难事者的用语：你去～有甚的好处哇？  
 1. 【[充水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_shuei.md#充水)】`chon1 shuei3` <sup>[如东]</sup> 到老虎灶去买热水。  
 1. 【[充水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_shuei.md#充水)】`chon1 shuei3` <sup>[如皋]</sup> 去老虎灶买沸水或热水充入容器。  
-1. 【[充雄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_xion.md#充雄)】`chon1 xion2` <sup>[兴化]</sup> ① 逞强，勉力去做力不能及的事：你病才好，覅～。 ② 硬充好汉。谚曰：腰内无铜，不要～。  
+1. 【[充雄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_xion.md#充雄)】`chon1 xion2` <sup>[兴化]</sup> ① 逞强，勉力去做力不能及的事：你病才好，覅～。 ② 硬充好汉：谚曰：腰内无铜，不要～。  
 1. 【[冲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon.md#冲)】`chon1` <sup>[如东]</sup> 快跑：向前～。  
 1. 【[冲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon.md#冲)】`chon1` <sup>[泰州]</sup> 将开水从高向低浇注于器皿之中：他不曾吃早饭，你去～一碗藕粉把他填吖肚子。｜你沰咖雨，我去～一碗红糖生姜茶把你驱驱寒气！  
 1. 【[冲茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_cha.md#冲茶)】`chon1 cha2` <sup>[如东]</sup> 用茶壶或热水瓶向茶杯中倒开水，叫冲茶。  

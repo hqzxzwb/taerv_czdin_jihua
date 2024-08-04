@@ -17,12 +17,12 @@
 1. 【[期境](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_jien.md#期境)】`qi1 jien` <sup>[兴化]</sup> ① 局势：等外头～平定下来再出去吧！ ② 境况：你的～也不好，覅管我俫吧！  
 1. 【[欺不掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_beh_tio.md#欺不掉)】`qi1 beh7 tio6` <sup>[东台]</sup> 一般人比不上：忙菜～烹调学校毕业生。  
 1. 【[欺个薄个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_gu_pah_gu.md#欺个薄个)】`qi1 gu pah8 gu` <sup>[兴化]</sup> 待人不公平：搞评比要公平合理，不能～。  
-1. 【[欺客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_keh.md#欺客)】`qi1 keh7` <sup>[兴化]</sup> 怠慢或欺蒙顾客：“你这店主人好～，见我是个犯人，便不来采着……”（《水浒传》九）。谚曰｜行大～，客大欺行。  
+1. 【[欺客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_keh.md#欺客)】`qi1 keh7` <sup>[兴化]</sup> 怠慢或欺蒙顾客：“你这店主人好～，见我是个犯人，便不来采着……”（《水浒传》九）。｜谚曰：行大～，客大欺行。  
 1. 【[欺弱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_rah.md#欺弱)】`qi1 rah8` <sup>[如东]</sup> 欺负软弱。  
 1. 【[欺生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_shen.md#欺生)】`qi1 shen1` <sup>[东台]</sup> 排斥、欺负新来的人：你才去，人家有点儿～，马上就好啊。  
 1. 【[欺削](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_xiah.md#欺削)】`qi1 xiah` <sup>[兴化]</sup> 瞧不起人：你覅～人，你说的那个我也懂。  
 1. 【[欺削](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_xiah.md#欺削)】`qi1 xiah7` <sup>[东台]</sup> 欺负人，以势压人。  
-1. 【[欺心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_xien.md#欺心)】`qi1 xien1` <sup>[兴化]</sup> 昧着良心：“他有这个～的事，我也不饶他……”（《金瓶梅词话》二五）谚曰｜养性须行善，～莫吃斋。  
+1. 【[欺心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_xien.md#欺心)】`qi1 xien1` <sup>[兴化]</sup> 昧着良心：“他有这个～的事，我也不饶他……”（《金瓶梅词话》二五）｜谚曰：养性须行善，～莫吃斋。  
 1. 【[䭣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi.md#䭣)】`qi2` <sup>[东台]</sup> 东台传统茶食，六瓣形，外地称为“老虎脚爪”。有咸、甜之分，原产地为镇江，故名“京江～”；咸～内有中药“茨罗”，能勾起人们食欲。  
 1. 【[䭣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_r.md#䭣<sub>儿</sub>)】`qi2 r` <sup>[如皋]</sup> 六丫儿糯饼。炉内烘熟，烹糖薰红为糖～，先加盐不烹糖，色白是䴛～。  
 1. 【[䭣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_r.md#䭣<sub>儿</sub>)】`qi2 r` <sup>[兴化]</sup> 一种面食，六个角，分咸、甜两种，在炉中烤熟。谓自镇江传入，故名“京江～”。䭣，《集韵·脂韵》津私切：稻饼。  
@@ -150,7 +150,7 @@
 1. 【[起眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_ngaen.md#起眼)】`qi3 ngaen3` <sup>[如东]</sup> 显眼：她的这套衣裳～。突出。  
 1. 【[起鹅毛片子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_ngu_mo_pin_zz.md#起鹅毛片子)】`qi3 ngu2 mo2 pin5 zz` <sup>[如皋]</sup> 形容雪花大若鹅毛飘飞。  
 1. 【[起屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_oh.md#起屋)】`qi3 oh7` <sup>[如皋]</sup> 见“起房子”。  
-1. 【[起屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_oh.md#起屋)】`qi3 oh7` <sup>[兴化]</sup> 建房。谚曰：拆屋一顿饭，～动陈粮。  
+1. 【[起屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_oh.md#起屋)】`qi3 oh7` <sup>[兴化]</sup> 建房：谚曰：拆屋一顿饭，～动陈粮。  
 1. 【[起屋三担米，拆屋一顿饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_oh_saen_daen_mi_cheh_oh_ieh_den_faen.md#起屋三担米，拆屋一顿饭)】`qi3 oh7 saen1 daen5 mi3 cheh7 oh7 ieh7 den5 faen6` <sup>[东台]</sup> 创业艰难败家易，或建设艰难毁坏易。  
 1. 【[起跑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_po.md#起跑)】`qi3 po2` <sup>[如东]</sup> 开始跑：今朝8点～。  
 1. 【[起铺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_pv.md#起铺)】`qi3 pv5` <sup>[如皋]</sup> ① 起床。 ② 拆搬铺盖。  
@@ -341,7 +341,7 @@
 1. 【[斜斜<sub>儿</sub>取直](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_qia_r_qy_cheh.md#斜斜<sub>儿</sub>取直)】`qia2 qia2 r qy3 cheh8` <sup>[泰县]</sup> 讲歪理：这人说话～，不讲理。  
 1. 【[斜势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_shr.md#斜势)】`qia2 shr5` <sup>[兴化]</sup> ① 人站立时身体倾斜。 ② 建筑物和地平面不垂直，或其中一部分与主轴不平行：亭子一共有三层……第二层是个～……第三层是个大～……（扬二《四望亭捉马猴》）  
 1. 【[斜头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_teu.md#斜头)】`qia2 teu2` <sup>[兴化]</sup> 蛮横霸道的人：“……到时别怪我不客气，我倒不相信，扳不了你这个～。”（刘春龙《无意插柳》）  
-1. 【[斜五斜六](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_v_qia_loh.md#斜五斜六)】`qia2 v3 qia2 loh8` <sup>[兴化]</sup> 指不三不四，痞子一样的人。谚曰：～，吃鱼吃肉｜皈皈真真，饿得狗哼。  
+1. 【[斜五斜六](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_v_qia_loh.md#斜五斜六)】`qia2 v3 qia2 loh8` <sup>[兴化]</sup> 指不三不四，痞子一样的人：谚曰：～，吃鱼吃肉｜皈皈真真，饿得狗哼。  
 1. 【[斜榫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_xyen.md#斜榫)】`qia2 xyen3` <sup>[如皋]</sup> 与“正榫”相对。如高凳脚用斜榫。  
 1. 【[斜砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_zhun.md#斜砖)】`qia2 zhun1` <sup>[如皋]</sup> 内山墙收顶时，斜着砌的砖，有紧固作用。  
 1. 【[茄蒂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_di.md#茄蒂)】`qia2 di5` <sup>[如东]</sup> 茄科植物茄的蓿根。  
@@ -500,7 +500,7 @@
 1. 【[强忙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_man.md#强忙)】`qian2 man` <sup>[兴化]</sup> 帮忙：我～你弄饭。｜～你家栽秧。也说“强门”。  
 1. 【[强门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_men.md#强门)】`qian2 men` <sup>[兴化]</sup> 帮忙。见“强忙”。  
 1. 【[强扭的瓜不甜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_nieu_dii_gua_beh_tin.md#强扭的瓜不甜)】`qian2 nieu3 dii gua1 beh7 tin2` <sup>[东台]</sup> 强行撮合双方关系都不会有好的结果。  
-1. 【[强如](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_rv.md#强如)】`qian2 rv` <sup>[兴化]</sup> ① 当做：你做你的，我～不曾看见。 ② 胜于：“……再者，家里也无什么事，你到长辛店当铺内管点事，～闲着。”（《施公案》一四七）也作“强于”。谚曰｜淡笑强于哭。  
+1. 【[强如](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_rv.md#强如)】`qian2 rv` <sup>[兴化]</sup> ① 当做：你做你的，我～不曾看见。 ② 胜于：“……再者，家里也无什么事，你到长辛店当铺内管点事，～闲着。”（《施公案》一四七）也作“强于”。｜谚曰：淡笑强于哭。  
 1. 【[强如](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_rv.md#强如)】`qian2 rv2, qia2 rv2` <sup>[如皋]</sup> 如同：伢儿吃咖～我吃咖。  
 1. 【[强如](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_rv.md#强如)】`qian2-qia2 rv2` <sup>[东台]</sup> ［阳转阴］权且当作，退一步就算是的意思：今朝多走啊几十里冤枉路，～坐车旅游吧。  
 1. 【[强头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_teu.md#强头)】`qian2 teu` <sup>[如皋]</sup> 强盗。  
@@ -902,7 +902,7 @@
 1. 【[吃品](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_pien.md#吃品)】`qieh7 pien3` <sup>[兴化]</sup> 指多人共食时的姿态：老五～不好，生怕吃不过人。  
 1. 【[吃病食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_pien_sheh.md#吃病食)】`qieh7 pien6 sheh8` <sup>[如皋]</sup> 见“吃刁肴”。  
 1. 【[吃白大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_poh_da.md#吃白大)】`qieh7 poh8 da6` <sup>[如东]</sup> 吃他人的东西而不给钱：这个人就爱～。  
-1. 【[吃白大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_poh_da.md#吃白大)】`qieh7 poh8 da6` <sup>[兴化]</sup> 吃东西不付钱。谚曰：～，说好话。‖也作“吃白食”。  
+1. 【[吃白大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_poh_da.md#吃白大)】`qieh7 poh8 da6` <sup>[兴化]</sup> 吃东西不付钱：谚曰：～，说好话。‖也作“吃白食”。  
 1. 【[吃白饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_poh_faen.md#吃白饭)】`qieh7 poh8 faen6` <sup>[如皋]</sup> 只吃饭，不吃菜；只有饭，没有菜；只吃饭，不干活。  
 1. 【[吃白饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_poh_faen.md#吃白饭)】`qieh7 poh8 faen6` <sup>[如东]</sup> 没有菜而吃饭。一种谦辞，表示酒菜很少：请你来～。  
 1. 【[吃白饭的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_poh_faen_dii.md#吃白饭的)】`qieh7 poh8 faen6 dii` <sup>[如皋]</sup> ① 白吃者。 ② 受无偿供养者。 ③ 只吃不做者：他家家口重，～多，做事的少。  
@@ -1093,7 +1093,7 @@
 1. 【[清水鼻涕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_xy_pieh_ti.md#清水鼻涕)】`qien1 xy3 pieh8 ti1` <sup>[东台]</sup> 感冒初期流的鼻涕，像水一样往下滴。  
 1. 【[清账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_zhan.md#清账)】`qien1 zhan5` <sup>[如东]</sup> 查清账目。结清账目。  
 1. 【[清蒸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_zhen.md#清蒸)】`qien1 zhen1` <sup>[东台]</sup> 烹调法，清水文火䊳之。  
-1. 【[蜻蜓吃尾巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_tien_qieh_vei_ba.md#蜻蜓吃尾巴)】`qien1 tien2 qieh7 vei3 ba` <sup>[兴化]</sup> （喻）自己花费，并非他人所请或施舍。谚曰：～——自吃自。  
+1. 【[蜻蜓吃尾巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_tien_qieh_vei_ba.md#蜻蜓吃尾巴)】`qien1 tien2 qieh7 vei3 ba` <sup>[兴化]</sup> （喻）自己花费，并非他人所请或施舍：谚曰：～——自吃自。  
 1. 【[轻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien.md#轻)】`qien1` <sup>[如皋]</sup> 微微抖动：头～吖～的。  
 1. 【[轻巴轻巴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ba_qien_ba_dii.md#轻巴轻巴的)】`qien1 ba1 qien1 ba1 dii` <sup>[如皋]</sup> 贬指轻浮的样子。  
 1. 【[轻的哪一家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_dii_la_ieh_jia.md#轻的哪一家)】`qien1 dii la3 ieh7 jia1` <sup>[如皋]</sup> 责语，叫对方不要轻浮。  
@@ -1226,7 +1226,7 @@
 1. 【[寻钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_qin.md#寻钱)】`qien2 qin2` 挣钱  
 1. 【[寻钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_qin.md#寻钱)】`qien2 qin2` <sup>[如东]</sup> 通过各种渠道和手段挣钱。  
 1. 【[寻钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_qin.md#寻钱)】`qien2 qin2` <sup>[东台]</sup> 挣钱，赚钱：用钱如舀水，～如上山｜郑板桥家书中有言“兴化人笑我不会～……”  
-1. 【[寻钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_qin.md#寻钱)】`qien2 qin2` <sup>[兴化]</sup> 挣钱：他每早挑着担子在各处卖菜，～养活妻儿老小。｜“舍亲不在家，列位历年都是寻过他钱的……”（《梼杌闲评》十五）｜谚曰｜生处好～，熟处好过年。（兴文《谚语》）  
+1. 【[寻钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_qin.md#寻钱)】`qien2 qin2` <sup>[兴化]</sup> 挣钱：他每早挑着担子在各处卖菜，～养活妻儿老小。｜“舍亲不在家，列位历年都是寻过他钱的……”（《梼杌闲评》十五）｜谚曰：生处好～，熟处好过年。（兴文《谚语》）  
 1. 【[寻钱的锥子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_qin_dii_zhuei_zz.md#寻钱的锥子)】`qien2 qin2 dii zhuei1 zz` <sup>[如皋]</sup> 想方设法挣钱的人。  
 1. 【[寻钱的锥子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_qin_dii_zhuei_zz.md#寻钱的锥子)】`qien2 qin2 dii zhuei1 zz` <sup>[如皋]</sup> 指会赚钱的人。  
 1. 【[寻人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ren.md#寻人)】`qien2 ren2` <sup>[如东]</sup> 找人。雇用人：我准备～带伢儿。  
@@ -1431,7 +1431,7 @@
 1. 【[就这形样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_zha_xien_ian.md#就这形样)】`qieu6 zha5 xien2 ian6` <sup>[泰县]</sup> 就这样：这个杲子～，以后再说。  
 1. 【[就着为](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_zhah_vei.md#就着为)】`qieu6 zhah7 vei2` <sup>[泰县]</sup> 就这样：～你就恩准吧。  
 1. 【[旧的不去，新的不来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_dii_beh_qy_xien_dii_beh_lae.md#旧的不去，新的不来)】`qieu6 dii beh7 qy5 xien1 dii beh7 lae2` <sup>[东台]</sup> 解叹或自嘲物件损坏或遗失有弊也有利。  
-1. 【[旧店新开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_din_xien_kae.md#旧店新开)】`qieu6 din5 xien1 kae1` <sup>[兴化]</sup> ① 在闭歇的商店旧址上重新开张。 ② （戏）有婚史的人再次结婚：（修轸）取再婚之妇为妻……龙友就做只《柳梢青》词儿为戏道｜挂起招牌，一声喝采，～……（《西湖二集》三）谚曰｜～，重换招牌。  
+1. 【[旧店新开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_din_xien_kae.md#旧店新开)】`qieu6 din5 xien1 kae1` <sup>[兴化]</sup> ① 在闭歇的商店旧址上重新开张。 ② （戏）有婚史的人再次结婚：（修轸）取再婚之妇为妻……龙友就做只《柳梢青》词儿为戏道｜挂起招牌，一声喝采，～……（《西湖二集》三）｜谚曰：～，重换招牌。  
 1. 【[旧货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_hu.md#旧货)】`qieu6 hu5` <sup>[如皋]</sup> 二手货。  
 1. 【[旧货店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_hu_din.md#旧货店)】`qieu6 hu5 din5` <sup>[如皋]</sup> 二手货商店（旧货调剂商店）。  
 1. 【[旧年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_nin.md#旧年)】`qieu6 nin2` <sup>[如皋]</sup> 过去的年份。  
@@ -1481,7 +1481,7 @@
 1. 【[怯惧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qih_qy.md#怯惧)】`qih7 qy6` <sup>[如东]</sup> 畏惧：他到底～张凡。  
 1. 【[怯生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qih_shen.md#怯生)】`qih7 shen1` <sup>[东台]</sup> 怕生。和不熟悉的人见面相处有些害怕和不自然。  
 1. 【[怯生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qih_shen.md#怯生)】`qih7 shen1` <sup>[兴化]</sup> 怕见生人：这个伢儿～，来啊客人望房里躲。  
-1. 【[挈带](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qih_dae.md#挈带)】`qih7 dae5` <sup>[兴化]</sup> 牵连、带动。谚曰：一人有福，～一屋，一人有祸，～一窝。  
+1. 【[挈带](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qih_dae.md#挈带)】`qih7 dae5` <sup>[兴化]</sup> 牵连、带动：谚曰：一人有福，～一屋，一人有祸，～一窝。  
 1. 【[窃衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qih_i.md#窃衣)】`qih7 i1` <sup>[如东]</sup> 年生或多年生草本植物。全株有短硬毛。茎单生，上部分枝。叶卵形，顶端渐尖，边缘有整齐缺刻或分裂。复伞花序。双悬果，长圆形。生长在田间、路旁或荒地。  
 1. 【[截](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qih.md#截)】`qih8` <sup>[东台]</sup> ① 割断：～肢｜～断。 ② 在途中阻挡：拦～。 ③ 相当于量词“段”：一～铁丝｜一～路。 ④ 到一定的期限为止：～止发稿时统计。  
 1. 【[乾隆和啊康熙里头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_lon_hu_a_kan_xi_li_teu.md#乾隆和啊康熙里头)】`qin lon2 hu2 a kan1 xi1 li3 teu` <sup>[东台]</sup> 用两个时代的钱币，借代前后混淆。  
@@ -1802,7 +1802,7 @@
 1. 【[巧气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_qi.md#巧气)】`qio3 qi5` <sup>[兴化]</sup> 形容心灵手巧：他修修补补的，蛮有～的。  
 1. 【[巧巧<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_qio_r.md#巧巧<sub>儿</sub>)】`qio3 qio r` <sup>[泰县]</sup> 巧的。  
 1. 【[巧巧的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_qio_dii.md#巧巧的)】`qio3 qio3 dii` <sup>[如皋]</sup> 正好。  
-1. 【[巧上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_shan.md#巧上)】`qio3 shan` <sup>[兴化]</sup> 恰好遇上：我只买一张彩票，就中吖个二等奖，正碰到～。｜你不要赌咒，碰吖～上去不顺遂。也作“巧里”。谚曰｜路上说话，～有人。  
+1. 【[巧上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_shan.md#巧上)】`qio3 shan` <sup>[兴化]</sup> 恰好遇上：我只买一张彩票，就中吖个二等奖，正碰到～。｜你不要赌咒，碰吖～上去不顺遂。也作“巧里”。｜谚曰：路上说话，～有人。  
 1. 【[巧事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_shr.md#巧事)】`qio3 shr6` <sup>[兴化]</sup> 正好碰在某种机会上：他急咖寻房子搬家，正好碰吖老时要卖房子，倒是一件～唻！  
 1. 【[巧云](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_yen.md#巧云)】`qio3 yen2` <sup>[如皋]</sup> 云景。俗谓“七月里看～”。初秋，天高气爽，云景变幻莫测。  
 1. 【[巧云](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_yen.md#巧云)】`qio3 yen2` <sup>[如东]</sup> 阴历七月，南北气流交汇，云层变化多端，出现各种形状的云景，称巧云。民谣：“七月看巧云”，“七月巧云多。”  
@@ -2059,7 +2059,7 @@
 1. 【[取巧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_qio.md#取巧)】`qy3 qio3` <sup>[如东]</sup> ① 用巧妙的方法获得成功：做这件事要～ ② 用巧妙的手段谋取不正当的利益：投机～。  
 1. 【[取笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_xio.md#取笑)】`qy3 xio5` <sup>[如东]</sup> 开玩笑：不要～。嘲笑。  
 1. 【[取鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_y.md#取鱼)】`qy3 y2` <sup>[如皋]</sup> 捕鱼。谚语：～不在早市；吃鱼没得～乐。  
-1. 【[取鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_y.md#取鱼)】`qy3 y2` <sup>[兴化]</sup> 捕鱼：一天，有四个身材结实的渔夫，正在手持钢叉～。（兴文《康王报恩“四义阁”》）‖谚曰｜吃鱼不如～乐。  
+1. 【[取鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_y.md#取鱼)】`qy3 y2` <sup>[兴化]</sup> 捕鱼：一天，有四个身材结实的渔夫，正在手持钢叉～。（兴文《康王报恩“四义阁”》）‖｜谚曰：吃鱼不如～乐。  
 1. 【[娶嫲嫲<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_ma_ma_r.md#娶嫲嫲<sub>儿</sub>)】`qy3 ma3 ma3 r` <sup>[如皋]</sup> 娶妻。  
 1. 【[娶马马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_ma_ma.md#娶马马)】`qy3 ma3 ma` <sup>[兴化]</sup> 娶妻：“我不能……叫土地老爷土地奶奶搬家，让房子给我～吧？”（《皮五辣子》一）  
 1. 【[娶女将](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_ny_jian.md#娶女将)】`qy3 ny3 jian5` <sup>[如皋]</sup> 娶妻。  

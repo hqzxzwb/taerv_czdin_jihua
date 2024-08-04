@@ -126,7 +126,7 @@
 1. 【[作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah.md#作)】`zah7` <sup>[兴化]</sup> ① 糟蹋、浪费：粮食多啊不能瞎～。 ② 作践：媳妇天天～咖要分家。｜他不识相就～他走路。 ③ 玩：～水｜～火。 ④ 创立、推开：听老人说，放印子钱就是山西人～下来的。  
 1. 【[作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah.md#作)】`zah7` <sup>[泰州]</sup> ① 故意制造事端，寻衅：像他这种格局～法，早晏要～咖三科里去。 ② 心血来潮，胡乱折腾：你望你俫几个好佬噢，把家里～得一塌糊涂。丨你怎吖想得起来的，养倒头鸡子，天井里块块～的鸡屎。 ③ 不好好吃饭，胡乱拨弄饭食：这个伢儿啊，滞饭碗又～咖来唻。丨你快点儿吃哿好，都～咖冷吖来唻。 ④ 搅拌：烂泥不够用，你去～点儿泥上来。丨你家孙子在河边上～烂泥。  
 1. 【[作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah.md#作)】`zah7` <sup>[泰州]</sup> 浪费，糟蹋：这小伙不胎谐，你家里的钱再多，也不能把他瞎～。丨才穿吖几天的新衣裳就不要唻，天大的家私也掌不住他这～法。  
-1. 【[作坝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_ba.md#作坝)】`zah7 ba5` <sup>[兴化]</sup> 打坝，在河流中建筑拦水的建筑物。‖谚曰：未水先～。  
+1. 【[作坝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_ba.md#作坝)】`zah7 ba5` <sup>[兴化]</sup> 打坝，在河流中建筑拦水的建筑物：谚曰：未水先～。  
 1. 【[作罢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_ba.md#作罢)】`zah7 ba5` <sup>[如东]</sup> 不进行：这件事只好～。  
 1. 【[作不得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_beh_deh.md#作不得)】`zah7 beh7 deh7` <sup>[如皋]</sup> 妒忌、不相容。见“看不得”。  
 1. 【[作不得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_beh_deh.md#作不得)】`zah7 beh7 deh7` <sup>[如东]</sup> 不能容忍：老太在这里多蹾吖几天，她就～。  
@@ -186,7 +186,7 @@
 1. 【[作痒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_ian.md#作痒)】`zah7 ian3` 发痒，形容人不安分  
 1. 【[作痒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_ian.md#作痒)】`zah7 ian3` <sup>[如皋]</sup> ① 皮肤发痒。 ② 兴奋难耐。 ③ 爱慕，想占有：这块布捱我看见吖，我心里就～；好香的一碗红烧肉，我心里～。 ④ 喻讨打：你皮肉～想捱打。  
 1. 【[作痒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_ian.md#作痒)】`zah7 ian3` <sup>[东台]</sup> 发痒，［喻］没事找事：你哿是手～，要打一下才好？  
-1. 【[作痒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_ian.md#作痒)】`zah7 ian3` <sup>[兴化]</sup> ① 发痒思挠的感觉：酒一喝，浑身～。 ② 心动。谚曰：见人说话，喉咙～。  
+1. 【[作痒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_ian.md#作痒)】`zah7 ian3` <sup>[兴化]</sup> ① 发痒思挠的感觉：酒一喝，浑身～。 ② 心动：谚曰：见人说话，喉咙～。  
 1. 【[作阴天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_ien_tin.md#作阴天)】`zah7 ien1 tin1` <sup>[如皋]</sup> ① 阴雨天气中，一般人肩酸背疼觉得难受。 ② 阴雨天气中，婴儿漓（la2）尿多，尿布不得干。  
 1. 【[作阴天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_ien_tin.md#作阴天)】`zah7 ien1 tin1` <sup>[兴化]</sup> ① 大风雨前兆。 ② 阴雨天某些慢性病（如关节、哮喘等）发作。  
 1. 【[作业](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_ih.md#作业)】`zah7 ih8` <sup>[如东]</sup> ① 教师给学生布置的功课：数学～。 ② 生产活动或军事活动：野外～。  
@@ -512,7 +512,7 @@
 1. 【[炸炒米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_cho_mi.md#炸炒米)】`zha5 cho3 mi3` <sup>[东台]</sup> 用炒米机膨化大米。  
 1. 【[炸炒米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_cho_mi.md#炸炒米)】`zha5 cho3 mi3` <sup>[兴化]</sup> 爆米花。  
 1. 【[炸炒米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_cho_mi.md#炸炒米)】`zha5 cho3 mi3` <sup>[泰县]</sup> 爆米花。  
-1. 【[炸箍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_gv.md#炸箍)】`zha5 gv1` <sup>[兴化]</sup> ① 木桶的箍因过紧而开裂。谚曰：箍紧必炸。 ② 箍成木桶的板块因干燥收缩而脱落。  
+1. 【[炸箍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_gv.md#炸箍)】`zha5 gv1` <sup>[兴化]</sup> ① 木桶的箍因过紧而开裂：谚曰：箍紧必炸。 ② 箍成木桶的板块因干燥收缩而脱落。  
 1. 【[炸雷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_luei.md#炸雷)】`zha5 luei2` <sup>[如东]</sup> 雷声就像爆竹一样在附近炸响，清脆而响亮。  
 1. 【[炸雷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_luei.md#炸雷)】`zha5 luei2` <sup>[兴化]</sup> 近处发生闪电而产生的巨响。  
 1. 【[炸雷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_ly.md#炸雷)】`zha5 ly2` <sup>[如皋]</sup> 雷声极响，惊天动地。  
@@ -1310,7 +1310,7 @@
 1. 【[找寻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_qien.md#找寻)】`zho3 qien` <sup>[东台]</sup> 很气愤地对人指责：那家伙不诚信，我要～他。  
 1. 【[找寻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_qien.md#找寻)】`zho3 qien2` <sup>[兴化]</sup> ① 寻找：伢儿放学不归家，只得到处去～。 ② 有意找岔子：他无事就来～人。 ③ 也说“找抹人”。  
 1. 【[找袖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_qieu.md#找袖)】`zho3 qieu6` <sup>[如皋]</sup> 裁衣时，袖管的加接部分。  
-1. 【[找袖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_qieu.md#找袖)】`zho3 qieu6` <sup>[兴化]</sup> 中装衣袖下半截拼接的部分。谚曰：嫡亲娘舅，赚副～（讽刺裁缝）。  
+1. 【[找袖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_qieu.md#找袖)】`zho3 qieu6` <sup>[兴化]</sup> 中装衣袖下半截拼接的部分：谚曰：嫡亲娘舅，赚副～（讽刺裁缝）。  
 1. 【[找钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_qin.md#找钱)】`zho3 qin2` <sup>[如东]</sup> 退钱：你还要～给我。  
 1. 【[找人做中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_ren_zu_zhon.md#找人做中)】`zho3 ren2 zu5 zhon1` <sup>[东台]</sup> 找人担保，中为中介。  
 1. 【[找事做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_shr_zu.md#找事做)】`zho3 shr6 zu5` <sup>[兴化]</sup> 惹麻烦：“……蒋先生，你老人家不要～。我们不能送你过江。”（《火烧赤壁》四）  
@@ -2167,7 +2167,7 @@
 1. 【[主顾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_gv.md#主顾)】`zhv3 gv5` <sup>[如皋]</sup> 老顾客。  
 1. 【[主户](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_hv.md#主户)】`zhv3 hv6` <sup>[如东]</sup> 比喻重要户籍或主要人物：这些～。  
 1. 【[主意窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_i_ku.md#主意窠)】`zhv3 i5 ku1` <sup>[东台]</sup> 形容善于想办法、点子多的人：他蛮聪明，是个～。  
-1. 【[主家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_jia.md#主家)】`zhv3 jia` <sup>[兴化]</sup> 主人家，或指办事的人家。谚曰：随得～意，唱得好把戏。  
+1. 【[主家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_jia.md#主家)】`zhv3 jia` <sup>[兴化]</sup> 主人家，或指办事的人家：谚曰：随得～意，唱得好把戏。  
 1. 【[主家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_jia.md#主家)】`zhv3 jia1` <sup>[如东]</sup> 主事的人家。  
 1. 【[主家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_jia.md#主家)】`zhv3 jia1` <sup>[东台]</sup> 雇主，请人做事的一方：～出钱让你办，应该不成问题。  
 1. 【[主口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_keu.md#主口)】`zhv3 keu3` <sup>[如皋]</sup> 批准，同意。  
@@ -2212,7 +2212,7 @@
 1. 【[遭啊瘟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_a_ven.md#遭啊瘟)】`zo1 a ven1` <sup>[东台]</sup> ［喻］被某种事情弄得一塌糊涂，凌乱不堪，像遭了瘟疫。  
 1. 【[遭报](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_bo.md#遭报)】`zo1 bo5` <sup>[兴化]</sup> 迷信指受到报应：他做尽坏事，而今遭啊报。  
 1. 【[遭报应](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_bo_ien.md#遭报应)】`zo1 bo5 ien5` <sup>[如皋]</sup> 指做了坏事，受到了惩罚。  
-1. 【[遭横事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_hon_shr.md#遭横事)】`zo1 hon6 shr6` <sup>[兴化]</sup> 遭遇凶事或其他意外的祸患：“……小徒自来不晓得赌钱，平日连门也不出，今日遭这样横事。”（《梼杌闲评》十四）｜谚曰｜家有贤妻，夫不～。  
+1. 【[遭横事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_hon_shr.md#遭横事)】`zo1 hon6 shr6` <sup>[兴化]</sup> 遭遇凶事或其他意外的祸患：“……小徒自来不晓得赌钱，平日连门也不出，今日遭这样横事。”（《梼杌闲评》十四）｜谚曰：家有贤妻，夫不～。  
 1. 【[遭洋罪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_ian_qy.md#遭洋罪)】`zo1 ian2 qy6` <sup>[如东]</sup> 比喻非常难过：我在这许等于～。  
 1. 【[遭罪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_qy.md#遭罪)】`zo1 qy6` <sup>[如皋]</sup> 见“遭瘟”。  
 1. 【[遭罪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_qy.md#遭罪)】`zo1 qy6` <sup>[如皋]</sup> ① 日子难过，受苦，不顺心。 ② 过分忙碌、劳累。 ③ 不方便、不习惯。  
@@ -2221,7 +2221,7 @@
 1. 【[遭瘟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_ven.md#遭瘟)】`zo1 ven1` <sup>[兴化]</sup> ① 骂牲畜的话。 ② （借）也用来骂人：“该死，你这～的，把我吓了一跳。”（《梼杌闲评》四） ③ 倒霉：“……奴那世里～，直到如今……”（《金瓶梅词话》一）  
 1. 【[早](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo.md#早)】`zo3` <sup>[如皋]</sup> 祝颂辞，早安：老师～！  
 1. 【[早](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo.md#早)】`zo3` <sup>[如东]</sup> ① 问侯语，用于早晨第一次见面时互相打招呼：你老人家～。 ② 比约定的时间提前：你比我～。  
-1. 【[早办前程](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_baen_qin_chen.md#早办前程)】`zo3 baen5 qin2 chen2` <sup>[兴化]</sup> （戏）意为早作准备。谚曰：黄花女儿绗衲子（厚尿布）——～。｜窠儿桶里（摇篮）打寿纸——～。  
+1. 【[早办前程](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_baen_qin_chen.md#早办前程)】`zo3 baen5 qin2 chen2` <sup>[兴化]</sup> （戏）意为早作准备：谚曰：黄花女儿绗衲子（厚尿布）——～。｜窠儿桶里（摇篮）打寿纸——～。  
 1. 【[早半晌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_bun_shan.md#早半晌)】`zo3 bun5 shan` <sup>[如皋]</sup> 黎明及清晨。  
 1. 【[早半天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_bun_tin.md#早半天)】`zo3 bun5 tin1` <sup>[兴化]</sup> 上午：这天下午，几乎闲了～的土地庙，接特了四个来求神的人……（兴文《好吃菩陈》）  
 1. 【[早茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_cha.md#早茶)】`zo3 cha2` <sup>[如东]</sup> ① 早晨喝茶。 ② 早晨吃点心。  
@@ -2614,7 +2614,7 @@
 1. 【[嘴大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_da.md#嘴大)】`zuei3 da6` <sup>[兴化]</sup> （喻）权势者说出话来有份量：你的～，我说不过你！  
 1. 【[嘴福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_foh.md#嘴福)】`zuei3 foh` <sup>[泰兴]</sup> 同“口福”。  
 1. 【[嘴功](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_gon.md#嘴功)】`zuei3 gon1` <sup>[兴化]</sup> 巧言善辩的本领：我今吖不跟你赌～，我就跟你讲实际的。  
-1. 【[嘴呱呱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_gua_gua.md#嘴呱呱)】`zuei3 gua1 gua1` <sup>[兴化]</sup> 指人喜欢夸夸其谈。谚曰：～，屎拉拉。  
+1. 【[嘴呱呱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_gua_gua.md#嘴呱呱)】`zuei3 gua1 gua1` <sup>[兴化]</sup> 指人喜欢夸夸其谈：谚曰：～，屎拉拉。  
 1. 【[嘴干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_gun.md#嘴干)】`zuei3 gun1, jy3 gun1` 口渴  
 1. 【[嘴坏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_huae.md#嘴坏)】`zuei3 huae6` <sup>[兴化]</sup> ① 会说脏话、爱骂人：她～，动不动就骂人。 ② 爱传播别人隐私或议论他人长短。  
 1. 【[嘴紧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_jien.md#嘴紧)】`zuei3 jien3` <sup>[泰兴]</sup> 同“口紧”。  

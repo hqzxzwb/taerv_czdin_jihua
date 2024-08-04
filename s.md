@@ -1188,7 +1188,7 @@
 1. 【[失失慌慌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_sheh_huan_huan.md#失失慌慌)】`sheh7 sheh7 huan1 huan1` <sup>[兴化]</sup> 神情慌乱的样子：大癞子～的往家跑，不晓得又在外头做啊甚的坏事？  
 1. 【[失时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_shr.md#失时)】`sheh7 shr2` <sup>[如皋]</sup> 时运不好。  
 1. 【[失时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_shr.md#失时)】`sheh7 shr2` <sup>[如皋]</sup> 失意，处于困难中。  
-1. 【[失时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_shr.md#失时)】`sheh7 shr2` <sup>[兴化]</sup> 倒运：他～在家，成天唉声叹气。｜“子牙，你说的是～话。现成官你没福做，到去空拳只手去别处寻……”（《封神演义》十八）｜谚曰｜有时猫儿雄似虎，～凤凰不如鸡。  
+1. 【[失时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_shr.md#失时)】`sheh7 shr2` <sup>[兴化]</sup> 倒运：他～在家，成天唉声叹气。｜“子牙，你说的是～话。现成官你没福做，到去空拳只手去别处寻……”（《封神演义》十八）｜谚曰：有时猫儿雄似虎，～凤凰不如鸡。  
 1. 【[失势落魄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_shr_lah_pah.md#失势落魄)】`sheh7 shr5 lah8 pah7` <sup>[东台]</sup> 衣履不整、失魂落魄的样子，也形容庄稼长势差：他不会种田，把个棉花弄得～的。  
 1. 【[失算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_sun.md#失算)】`sheh7 sun5` <sup>[如东]</sup> 没有计算或计算得不好：这趟生意我～吖，亏啊本。  
 1. 【[失头忘尾的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_teu_van_vei_dii.md#失头忘尾的)】`sheh7 teu2 van6 vei3 dii` <sup>[如皋]</sup> 健忘：年纪大啊经常～，不是忘这样，就是忘那样。  
@@ -1196,7 +1196,7 @@
 1. 【[失天火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_tin_hu.md#失天火)】`sheh7 tin1 hu3` <sup>[如皋]</sup> ① 自然火引发的火灾。 ② 诅咒语。  
 1. 【[失天火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_tin_hu.md#失天火)】`sheh7 tin1 hu3` <sup>[兴化]</sup> 自然起火，市井认为是上天降灾：“土地老爷在上，我若做了此事，就叫我家死人～！他诬赖我，也一样！”（汪曾祺《故里杂记》）  
 1. 【[失误](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_v.md#失误)】`sheh7 v6` <sup>[如皋]</sup> ① 意外差错或事故：出～。 ② 延误：病捱～下来啊。  
-1. 【[失物数来人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_veh_shv_lae_ren.md#失物数来人)】`sheh7 veh8 shv3 lae2 ren2` <sup>[兴化]</sup> 丢失钱物，当与到过现场的人有关。谚曰：船舱不漏针，～。  
+1. 【[失物数来人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_veh_shv_lae_ren.md#失物数来人)】`sheh7 veh8 shv3 lae2 ren2` <sup>[兴化]</sup> 丢失钱物，当与到过现场的人有关：谚曰：船舱不漏针，～。  
 1. 【[失心疯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_xien_fon.md#失心疯)】`sheh7 xien1 fon1` <sup>[兴化]</sup> 癫狂神经错乱：他一听说买的股票崩盘，急得手足无措，好像～一般。｜《水浒传》第三十九回有“你便口里胡言乱语，只做～便好”句。  
 1. 【[失晓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_xio.md#失晓)】`sheh7 xio3` <sup>[如东]</sup> 睡过了头：我睡吖失咖晓。  
 1. 【[失晓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_xio.md#失晓)】`sheh7 xio3` <sup>[如皋]</sup> 晨起过时，睡过头。  
@@ -1208,7 +1208,7 @@
 1. 【[失张失智](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_zhan_sheh_zhr.md#失张失智)】`sheh7 zhan1 sheh7 zhr5` <sup>[兴化]</sup> 心神不定，举止失措的样子：他晓得挪用公款事发，～，懊悔不及。  
 1. 【[失照](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_zho.md#失照)】`sheh7 zho5` <sup>[兴化]</sup> 客套话，表示失于关照：对不起，～～！  
 1. 【[失照](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_zho.md#失照)】`sheh7 zho5` <sup>[泰县]</sup> 因考虑不周，表示歉意。  
-1. 【[失志](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_zhr.md#失志)】`sheh7 zhr5` <sup>[兴化]</sup> 没有骨气：“徜我儿一时～，做出些不忠之事，岂不把半世芳名丧于一旦……”（《说岳全传》二二）｜谚曰｜穷不～，富不癫狂。  
+1. 【[失志](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_zhr.md#失志)】`sheh7 zhr5` <sup>[兴化]</sup> 没有骨气：“徜我儿一时～，做出些不忠之事，岂不把半世芳名丧于一旦……”（《说岳全传》二二）｜谚曰：穷不～，富不癫狂。  
 1. 【[式样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_ian.md#式样)】`sheh7 ian` <sup>[如东]</sup> 物体的款式：这套家具的～好。  
 1. 【[式样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_ian.md#式样)】`sheh7 ian` <sup>[如皋]</sup> ① 手法、花招：他玩～。 ② 花式：过节吃甚的～？ ③ 隐指污秽物：细伢儿做啊～下来啊；老爹屁股底下有啊～。 ④ 隐秘的内容：这篇文章肚里有～，要仔细研究。  
 1. 【[式式开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_sheh_kae.md#式式开)】`sheh7 sheh7 kae1` <sup>[东台]</sup> 样样会的意思，每项手艺，技术或功夫都拿得出手。  
@@ -1227,7 +1227,7 @@
 1. 【[湿漉漉的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_loh_loh_dii.md#湿漉漉的)】`sheh7 loh loh8 dii` <sup>[如皋]</sup> 湿漉漉的。  
 1. 【[湿漉漉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_loh_loh.md#湿漉漉)】`sheh7 loh8 loh8` <sup>[如东]</sup> 非常潮湿。  
 1. 【[湿卤卤的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_lu_lu_dii.md#湿卤卤的)】`sheh7 lu3 lu3 dii` <sup>[如皋]</sup> 润湿，含水份而挤不出。  
-1. 【[湿气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_qi.md#湿气)】`sheh7 qi5` <sup>[兴化]</sup> ① 潮湿气：这个房间里～太重，住啊不舒服。 ② 脚气。谚曰：冻疮变～，一年害四季。  
+1. 【[湿气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_qi.md#湿气)】`sheh7 qi5` <sup>[兴化]</sup> ① 潮湿气：这个房间里～太重，住啊不舒服。 ② 脚气：谚曰：冻疮变～，一年害四季。  
 1. 【[色<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_r.md#色<sub>儿</sub>)】`sheh7 r` <sup>[如东]</sup> 一种博戏具。每粒正六面体，边长0.8CM，1～6点分刻于各面。一副6粒。玩时置碗中，可手掷，亦可加盖摇，看点数分高低。也称骰子。  
 1. 【[色<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_r.md#色<sub>儿</sub>)】`sheh7 r` <sup>[东台]</sup> 也叫骰子。用骨头、木头或塑料制成的赌具，立体小方块，用手抛，六面分刻123456点。  
 1. 【[色<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_r.md#色<sub>儿</sub>)】`sheh7 r` <sup>[如皋]</sup> 即色子。一种玩具、赌具。  
@@ -1849,7 +1849,7 @@
 1. 【[手到擒拿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_do_qien_na.md#手到擒拿)】`sheu3 do5 qien2 na2` <sup>[兴化]</sup> （喻）很有把握或毫不费力便能成功：他修个电脑、电视机甚的的简直是～。  
 1. 【[手朵<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_du_r.md#手朵<sub>儿</sub>)】`sheu3 du3 r` 手，戏谑性的说法。  
 1. 【[手短](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_dun.md#手短)】`sheu3 dun3` <sup>[如皋]</sup> ① 手里缺钱。 ② 收了人家好处，不公正处理事情。俚云：吃咖人家的嘴软，拿啊人家的～。  
-1. 【[手短](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_dun.md#手短)】`sheu3 dun3` <sup>[兴化]</sup> （喻）经济容迫，门路不宽。谚曰：～够不到天。  
+1. 【[手短](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_dun.md#手短)】`sheu3 dun3` <sup>[兴化]</sup> （喻）经济容迫，门路不宽：谚曰：～够不到天。  
 1. 【[手发𦚢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_faeh_ya.md#手发𦚢)】`sheu3 faeh7 ya1` <sup>[如皋]</sup> ① 手被冻僵。 ② 手发僵而动作不灵活。  
 1. 【[手方<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_fan_r.md#手方<sub>儿</sub>)】`sheu3 fan1 r` <sup>[如东]</sup> 手帕。  
 1. 【[手方<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_fan_r.md#手方<sub>儿</sub>)】`sheu3 fan1 r` <sup>[泰县]</sup> 手绢。  
@@ -1971,7 +1971,7 @@
 1. 【[瘦里巴叽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_lii_ba_ji.md#瘦里巴叽)】`sheu5 lii ba1 ji1` <sup>[泰县]</sup> 非常瘦。  
 1. 【[瘦<sub>儿</sub>巴肌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_r_ba_ji.md#瘦<sub>儿</sub>巴肌)】`sheu5 r ba1 ji1` <sup>[如东]</sup> 十分瘦弱：这个人～的，能挑多少？  
 1. 【[瘦头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_teu.md#瘦头)】`sheu5 teu2` <sup>[泰县]</sup> 小气，不懂事理的人。  
-1. 【[瘦田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_tin.md#瘦田)】`sheu5 tin2` <sup>[兴化]</sup> 地力薄，不肥沃的地块。谚曰：～丑妻家中宝。  
+1. 【[瘦田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_tin.md#瘦田)】`sheu5 tin2` <sup>[兴化]</sup> 地力薄，不肥沃的地块：谚曰：～丑妻家中宝。  
 1. 【[瘦田丑妻家中宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_tin_cheu_qi_ga_zhon_bo.md#瘦田丑妻家中宝)】`sheu5 tin2 cheu3 qi1 ga1 zhon1 bo3` <sup>[东台]</sup> 指旧社会田地贫瘠、老婆长相不好的人家反而平安。  
 1. 【[瘦条子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_tio_zz.md#瘦条子)】`sheu5 tio2 zz` <sup>[如皋]</sup> 体型瘦长，又作“晃条子”。  
 1. 【[瘦条子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_tio_zz.md#瘦条子)】`sheu5 tio2 zz` <sup>[如皋]</sup> 形容人瘦而高。  
@@ -2072,7 +2072,7 @@
 1. 【[舌苔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shih_tae.md#舌苔)】`shih8 tae1` <sup>[如东]</sup> 舌头表面上滑腻的物质，是由上皮细包、细菌食物残渣和液体形成的。健康的人，舌苔薄白而润。医生常根据病人舌苔的情况来诊断病情。  
 1. 【[舌头边子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shih_teu_bin_zz.md#舌头边子)】`shih8 teu bin1 zz` <sup>[如皋]</sup> 舌两侧。  
 1. 【[舌头打个滚，到处不折本](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shih_teu_da_gu_guen_do_chv_beh_shih_ben.md#舌头打个滚，到处不折本)】`shih8 teu da3 gu guen3 do5 chv5 beh7 shih8 ben3` <sup>[东台]</sup> 嘴勤些，主动打招呼有利于办事。  
-1. 【[舌头打滚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shih_teu_da_guen.md#舌头打滚)】`shih8 teu da3 guen3` <sup>[兴化]</sup> 认错道款、说好话。谚曰：让人折本，舌头打个滚。  
+1. 【[舌头打滚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shih_teu_da_guen.md#舌头打滚)】`shih8 teu da3 guen3` <sup>[兴化]</sup> 认错道款、说好话：谚曰：让人折本，舌头打个滚。  
 1. 【[舌头耷人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shih_teu_dah_ren.md#舌头耷人)】`shih8 teu dah7 ren2` <sup>[兴化]</sup> 诬陷人：说话要实事求是，不能够拿～。  
 1. 【[舌头底下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shih_teu_di_xia.md#舌头底下)】`shih8 teu di3 xia6` <sup>[如皋]</sup> 舌下。  
 1. 【[舌头丁丁<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shih_teu_dien_dien_r.md#舌头丁丁<sub>儿</sub>)】`shih8 teu dien1 dien1 r` <sup>[如皋]</sup> 味蕾。  
@@ -2196,7 +2196,7 @@
 1. 【[烧掉裤子同虱子憋气——不值](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_tio_kv_zz_ton_sheh_zz_bih_qi_beh_cheh.md#烧掉裤子同虱子憋气——不值)】`sho1 tio kv5 zz ton2 sheh7 zz bih7 qi5 beh7 cheh8` <sup>[东台]</sup>   
 1. 【[烧亡人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_van_ren.md#烧亡人)】`sho1 van2 ren` <sup>[如东]</sup> 给已死的人举办祭祀活动。  
 1. 【[烧霞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_xia.md#烧霞)】`sho1 xia2` <sup>[如皋]</sup> 晨昏在天边出现的彩霞，以红霞为主。  
-1. 【[烧霞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_xia.md#烧霞)】`sho1 xia2` <sup>[兴化]</sup> 阳光通过大气层经空气散射而形成鲜红艳丽的云彩，谓之～。谚曰：早上～，等水烧茶；晚上～，晒得喀喀（ka2）。  
+1. 【[烧霞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_xia.md#烧霞)】`sho1 xia2` <sup>[兴化]</sup> 阳光通过大气层经空气散射而形成鲜红艳丽的云彩，谓之～：谚曰：早上～，等水烧茶；晚上～，晒得喀喀（ka2）。  
 1. 【[烧香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_xian.md#烧香)】`sho1 xian1` <sup>[如东]</sup> 给菩萨上香称烧香。在死者尸体前或牌位前点香，表示对死者的悼念和尊敬，称烧香。  
 1. 【[烧香不祷告——随菩萨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_xian_beh_do_go_cuei_pv_saeh.md#烧香不祷告——随菩萨)】`sho1 xian1 beh7 do3 go5 cuei2 pv2 saeh7` <sup>[东台]</sup>   
 1. 【[烧心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_xien.md#烧心)】`sho1 xien1` <sup>[兴化]</sup> ① 因胃酸、酒精等刺激使胃部产生烧灼感。 ② 某些蔬菜中心部分因病害而发黄。  
@@ -2410,7 +2410,7 @@
 1. 【[弛啊空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_a_kon.md#弛啊空)】`shr2 a kon5` <sup>[东台]</sup> 指脚踩在空处，或东西未打中目标，打在空处：他一脚～，跌咖个跟头。  
 1. 【[弛腰落㧟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_io_lah_kuae.md#弛腰落㧟)】`shr2 io1 lah8 kuae3` <sup>[泰县]</sup> ① 衣服不合身。 ② 指人言行不规范：他就是这吖一个～的人。  
 1. 【[时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr.md#时)】`shr2` <sup>[如东]</sup> 计时单位，等于一个平均太阳日的二十四分之一。  
-1. 【[时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr.md#时)】`shr2` <sup>[兴化]</sup> 时运。谚曰：有～猫儿凶似虎，失时凤凰不如鸡。  
+1. 【[时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr.md#时)】`shr2` <sup>[兴化]</sup> 时运：谚曰：有～猫儿凶似虎，失时凤凰不如鸡。  
 1. 【[时不时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_beh_shr.md#时不时)】`shr2 beh7 shr2` <sup>[东台]</sup> 时常：他～来逛逛。  
 1. 【[时不时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_beh_shr.md#时不时)】`shr2 beh7 shr2` <sup>[兴化]</sup> 经常、时常：他～的光顾娱乐场所。  
 1. 【[时不时的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_beh_shr_dii.md#时不时的)】`shr2 beh7 shr2 dii` <sup>[如皋]</sup> 经常地，不定期的。  
@@ -2799,13 +2799,13 @@
 1. 【[水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei.md#水)】`shuei3` <sup>[如皋]</sup> 见“奅”。  
 1. 【[水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei.md#水)】`shuei3` <sup>[如皋]</sup> ① 量词：这种布已经洗啊几～，一点儿不落色。 ② 傻，不精明：这伢儿太～，是个～虫儿。 ③ （吃）苦头，（上）当，（受）骗：你上吖人家的～啦！  
 1. 【[水芭蕉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_ba_jio.md#水芭蕉)】`shuei3 ba1 jio1` <sup>[如皋]</sup> 芭蕉。  
-1. 【[水板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_baen.md#水板)】`shuei3 baen3` <sup>[兴化]</sup> 旧时用来记事或临时记账的白漆小木板。谚曰：～上写字，揩掉重来。  
+1. 【[水板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_baen.md#水板)】`shuei3 baen3` <sup>[兴化]</sup> 旧时用来记事或临时记账的白漆小木板：谚曰：～上写字，揩掉重来。  
 1. 【[水别子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_bih_zz.md#水别子)】`shuei3 bih7 zz` <sup>[泰县]</sup> ① 水壶。 ② 会游泳的人。  
 1. 【[水瘪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_bih_zz.md#水瘪子)】`shuei3 bih7 zz` <sup>[如皋]</sup> 一种铝制略扁的军用水壶。  
 1. 【[水瘪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_bih_zz.md#水瘪子)】`shuei3 bih7 zz` <sup>[如东]</sup> 容器。椭圆形，有盖，金属或塑料制成。用以贮存水或酒。  
 1. 【[水边边<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_bin_bin_r.md#水边边<sub>儿</sub>)】`shuei3 bin1 bin1 r` <sup>[如皋]</sup> 水面近岸处。  
 1. 【[水包皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_bo_pi.md#水包皮)】`shuei3 bo1 pi2` <sup>[东台]</sup> 指泡澡（旧俗）：早上皮包水（去茶馆吃茶），晚上～。  
-1. 【[水包皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_bo_pi.md#水包皮)】`shuei3 bo1 pi2` <sup>[兴化]</sup> 意指浴室洗澡。谚曰：早上皮包水，晚上～。  
+1. 【[水包皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_bo_pi.md#水包皮)】`shuei3 bo1 pi2` <sup>[兴化]</sup> 意指浴室洗澡：谚曰：早上皮包水，晚上～。  
 1. 【[水百脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_boh_jiah.md#水百脚)】`shuei3 boh7 jiah7` <sup>[如皋]</sup> 日本沙蚕。  
 1. 【[水拨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_buh.md#水拨)】`shuei3 buh7` <sup>[如皋]</sup> 旧式水车上与槽筒上端相接以传递动力的木齿轮。  
 1. 【[水菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_cae.md#水菜)】`shuei3 cae5` <sup>[如皋]</sup> ① 通指销售时泡水或常洒水的菜。 ② 水芹菜。  
@@ -3220,7 +3220,7 @@
 1. 【[说屑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_xih_zz.md#说屑子)】`shuh7 xih7 zz` <sup>[东台]</sup> ① 原指叙述琐碎故事。 ② ［喻］故意扯淡。  
 1. 【[说笑话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_xio_hua.md#说笑话)】`shuh7 xio5 hua6` <sup>[如东]</sup> 开玩笑。  
 1. 【[说语](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_y.md#说语)】`shuh7 y` <sup>[如皋]</sup> 根据、来源：他这吖说相总有个～的。  
-1. 【[说嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_zuei.md#说嘴)】`shuh7 zuei3` <sup>[兴化]</sup> ① 自夸：“啧、啧、啧！狗大年纪又来～了。”（《广陵潮》三二） ② 争辩：众官听罢，彼此相看，都不敢～咧！（《施公案》一〇二）｜谚曰｜～郎中没好药。  
+1. 【[说嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_zuei.md#说嘴)】`shuh7 zuei3` <sup>[兴化]</sup> ① 自夸：“啧、啧、啧！狗大年纪又来～了。”（《广陵潮》三二） ② 争辩：众官听罢，彼此相看，都不敢～咧！（《施公案》一〇二）｜谚曰：～郎中没好药。  
 1. 【[书包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_bo.md#书包)】`shv1 bo1` <sup>[东台]</sup> 学生上学时装书籍簿本、文具的包或袋子。  
 1. 【[书房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_fan.md#书房)】`shv1 fan2` 学校  
 1. 【[书房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_fan.md#书房)】`shv1 fan2` <sup>[如东]</sup> ① 大户人家看书写字的地方：老爷在～里。 ② 私塾：上～。  
@@ -3557,7 +3557,7 @@
 1. 【[尿𪣩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suei_ken.md#尿𪣩)】`suei1 ken5` <sup>[兴化]</sup> 经常接触尿液的便池、便桶及尿壶等，留下的像结石一样的痕迹。  
 1. 【[尿头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suei_teu.md#尿头)】`suei1 teu` <sup>[兴化]</sup> 指两次小便相隔时间：～长；～短。  
 1. 【[岁月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suei_iuh.md#岁月)】`suei5 iuh8` <sup>[东台]</sup> 年月：～不饶人。  
-1. 【[岁交春](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suei_jio_chuen.md#岁交春)】`suei5 jio1 chuen1` <sup>[兴化]</sup> 正月初一子时（指0时至1时前那段）正逢立春。20世纪仅有1943年一次。谚曰：百年难遇～。  
+1. 【[岁交春](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suei_jio_chuen.md#岁交春)】`suei5 jio1 chuen1` <sup>[兴化]</sup> 正月初一子时（指0时至1时前那段）正逢立春。20世纪仅有1943年一次：谚曰：百年难遇～。  
 1. 【[岁数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suei_shv.md#岁数)】`suei5 shv` 年龄，年岁  
 1. 【[碎鸽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suei_guh_zz.md#碎鸽子)】`suei5 guh7 zz` <sup>[兴化]</sup> 生活琐事：些女将一见面说不尽的～话。  
 1. 【[碎碎叨叨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suei_suei_do_do.md#碎碎叨叨)】`suei5 suei5 do1 do1` <sup>[兴化]</sup> 形容人说话过于啰唆：王大妈说起来～的，不晓得甚的意思。  
@@ -3798,7 +3798,7 @@
 1. 【[死话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_hua.md#死话)】`sz3 hua6` <sup>[如东]</sup> 坏话：这个人就会说～。  
 1. 【[死话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_hua.md#死话)】`sz3 hua6` <sup>[如皋]</sup> 比“獃话”程度强些，有贬义。  
 1. 【[死也闭眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ia_bi_ngaen.md#死也闭眼)】`sz3 ia3 bi5 ngaen3` <sup>[如皋]</sup> 心愿已了，服气了。  
-1. 【[死要脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_io_lin.md#死要脸)】`sz3 io5 lin3` <sup>[兴化]</sup> 为顾全脸面，千方百计掩饰自己的窘境和丑行。谚曰：上吊搽粉一一～。  
+1. 【[死要脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_io_lin.md#死要脸)】`sz3 io5 lin3` <sup>[兴化]</sup> 为顾全脸面，千方百计掩饰自己的窘境和丑行：谚曰：上吊搽粉一一～。  
 1. 【[死强](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_jian.md#死强)】`sz3 jian5` <sup>[兴化]</sup> 认死理，不听人劝导：“……我替他讲明白了，他还要～……”（《儒林外史》五四）也作“死犟”“硬犟”。  
 1. 【[死犟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_jian.md#死犟)】`sz3 jian5` <sup>[东台]</sup> 太倔强、固执，不服软。  
 1. 【[死开去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_kae_qy.md#死开去)】`sz3 kae1 qy` <sup>[东台]</sup> （詈语）怒斥人走开，滚蛋。  
@@ -3863,7 +3863,7 @@
 1. 【[死形架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_xien_jia_zz.md#死形架子)】`sz3 xien2 jia5 zz` <sup>[如东]</sup> 形样非常难看：张狗儿两三个月不剪头，看他那个～样子。  
 1. 【[死小人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_xio_ren.md#死小人)】`sz3 xio3 ren2` <sup>[兴化]</sup> 形容人势利，见钱眼开：乔老头子～，一开口就暗搭机风……（《扬州评话选（二）甘露寺相婿》）  
 1. 【[死猪脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_zhv_lin.md#死猪脸)】`sz3 zhv1 lin3` <sup>[兴化]</sup> （讽）形容人摆架子，成天拉长着脸的样子：他官不大，这副～难看哎。  
-1. 【[死做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_zu.md#死做)】`sz3 zu5` <sup>[兴化]</sup> ① 指不懂得巧干：他这吖～，一世也不得发。 ② 也指苦干。谚曰：八败命怕个～。  
+1. 【[死做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_zu.md#死做)】`sz3 zu5` <sup>[兴化]</sup> ① 指不懂得巧干：他这吖～，一世也不得发。 ② 也指苦干：谚曰：八败命怕个～。  
 1. 【[水门汀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_men_tien.md#水门汀)】`sz3 men tien1` <sup>[兴化]</sup> ① 水泥。 ② 混凝土：上池斋药店是～的地坪。～词早年由洋泾浜英语转化面来。  
 1. 【[□误](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_v.md#□误)】`sz5 v` <sup>[东台]</sup> 因判断错误或操作不当造成坏的结果。与耽误、贻误近义。东台词典写“失误”：他的病太重，不能怪医生～。  
 1. 【[四不咬六](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_beh_ngo_loh.md#四不咬六)】`sz5 beh7 ngo3 loh8` <sup>[如皋]</sup> 下不犯上；下鬥不过上。  

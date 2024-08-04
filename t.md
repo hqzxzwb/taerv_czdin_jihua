@@ -83,7 +83,7 @@
 1. 【[奤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#奤)】`tae3` <sup>[泰州]</sup> ① 肥胖的人脸部粗大样子 ② 他家新妇坐啊个月子，脸上养吖～开来啊。  
 1. 【[骀*](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#骀*)】`tae3` <sup>[兴化]</sup> 肢体张开坐或倚：身子～下来啊。《集韵·海韵》荡亥切｜“～，疲也……”  
 1. 【[太公](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_gon.md#太公)】`tae5 gon1` <sup>[如皋]</sup> 指称丈夫的祖父。  
-1. 【[太公](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_gon.md#太公)】`tae5 gon1` <sup>[兴化]</sup> 曾祖父。谚曰：有理打得～。通常称“太爷”。  
+1. 【[太公](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_gon.md#太公)】`tae5 gon1` <sup>[兴化]</sup> 曾祖父：谚曰：有理打得～。通常称“太爷”。  
 1. 【[太阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian.md#太阳)】`tae5 ian` 太阳  
 1. 【[太阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian.md#太阳)】`tae5 ian` <sup>[如东]</sup> ① 银河系的恒星之一，是一炽热的气体球，体积比地球大130万倍，质量是地球的33400倍，表面温度约6000℃，内部温度约15000部经常不断地进行原子核反应而产生大量的热能。太阳是太阳系的中心天体，距地球约1亿五千万公里。地球和其他行星都绕着它旋转并且从它得到光和热。 ② 太阳光：今朝～大。  
 1. 【[太阳暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_bo.md#太阳暴)】`tae5 ian bo5` <sup>[如皋]</sup> 日照长，阳光强烈，多指夏季。  
@@ -191,7 +191,7 @@
 1. 【[塌塌<sub>儿</sub>瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_taeh_r_va.md#塌塌<sub>儿</sub>瓦)】`taeh7 taeh7 r va3` <sup>[如皋]</sup> 平房盖的小瓦（面瓦）平而稀疏。易破裂。  
 1. 【[塌削](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_xiah.md#塌削)】`taeh7 xiah7` <sup>[东台]</sup> 通过劝说淡化矛盾。  
 1. 【[塌现](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_xin.md#塌现)】`taeh7 xin5` <sup>[兴化]</sup> 落空：上次说的那件事～吖。  
-1. 【[塌嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_zuei.md#塌嘴)】`taeh7 zuei3` <sup>[兴化]</sup> 偷嘴。谚曰：～的猫儿打不改。  
+1. 【[塌嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_zuei.md#塌嘴)】`taeh7 zuei3` <sup>[兴化]</sup> 偷嘴：谚曰：～的猫儿打不改。  
 1. 【[塌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_zz.md#塌子)】`taeh7 zz` <sup>[如皋]</sup> 淤浅的河段。  
 1. 【[塔顶上吹喇叭——名声远扬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_dien_shan_chuei_la_ba_mien_shen_iun_ian.md#塔顶上吹喇叭——名声远扬)】`taeh7 dien3 shan chuei1 la3 ba1 mien2 shen1 iun3 ian2` <sup>[东台]</sup>   
 1. 【[塔顶上散步——没路走](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_dien_shan_saen_pv_meh_lv_zeu.md#塔顶上散步——没路走)】`taeh7 dien3 shan saen5 pv6 meh8 lv6 zeu3` <sup>[东台]</sup>   
@@ -774,7 +774,7 @@
 1. 【[腾云驾雾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_yen_jia_v.md#腾云驾雾)】`ten2 yen2 jia5 v5` <sup>[如东]</sup> 传说中利用法术乘云驾雾飞行。比喻本领高强。  
 1. 【[臀板尖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_baen_jin.md#臀板尖)】`ten2 baen3 jin1` <sup>[泰县]</sup> 猪屁股部分的肉。  
 1. 【[臀宫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_gon.md#臀宫)】`ten2 gon1` <sup>[兴化]</sup> 肛门：大便干结，～倒𠠹吖脱位啊。‖也作“胴宫”。  
-1. 【[臀尖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_jin.md#臀尖)】`ten2 jin1` <sup>[兴化]</sup> 人体股骨头外侧臀部肌肉隆起处。谚曰：屁股上害～，“快活”似神仙（坐不得）。  
+1. 【[臀尖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_jin.md#臀尖)】`ten2 jin1` <sup>[兴化]</sup> 人体股骨头外侧臀部肌肉隆起处：谚曰：屁股上害～，“快活”似神仙（坐不得）。  
 1. 【[藤面<sub>儿</sub>杌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_min_r_veh_zz.md#藤面<sub>儿</sub>杌子)】`ten2 min6 r veh8 zz` <sup>[如皋]</sup> 藤皮网面的杌子。  
 1. 【[藤榻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_taeh.md#藤榻)】`ten2 taeh7` <sup>[泰县]</sup> 藤制的躺椅。  
 1. 【[藤榻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_taeh_r.md#藤榻<sub>儿</sub>)】`ten2 taeh7 r` <sup>[如皋]</sup> 藤躺椅。  
@@ -1185,7 +1185,7 @@
 1. 【[地道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_to.md#地道)】`ti6 to6` <sup>[如皋]</sup> 道地的反序词。  
 1. 【[地动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_ton.md#地动)】`ti6 ton6` <sup>[如皋]</sup> 地震。  
 1. 【[地动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_ton.md#地动)】`ti6 ton6` <sup>[如东]</sup> 地震。  
-1. 【[地动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_ton.md#地动)】`ti6 ton6` <sup>[兴化]</sup> 地震。谚曰：～三年不结瓜。  
+1. 【[地动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_ton.md#地动)】`ti6 ton6` <sup>[兴化]</sup> 地震：谚曰：～三年不结瓜。  
 1. 【[地动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_ton.md#地动)】`ti6 ton6` <sup>[泰县]</sup> 地震。  
 1. 【[地为](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_vei.md#地为)】`ti6 vei` 特地  
 1. 【[地为](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_vei.md#地为)】`ti6 vei` <sup>[如东]</sup> 特地：～这吖准备的。  
@@ -1360,7 +1360,7 @@
 1. 【[贴福字](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_foh_cz.md#贴福字)】`tih7 foh7 cz6` <sup>[泰县]</sup> 恭维，奉承。  
 1. 【[贴己](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_ji.md#贴己)】`tih7 ji3` <sup>[兴化]</sup> ① 家庭成员的个人积蓄：～钱｜她把～钱拿出来把儿子交学费。 ② 关系密切：还是女儿～。  
 1. 【[贴脚板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_jiah_baen.md#贴脚板)】`tih7 jiah7 baen3` <sup>[如东]</sup> 床帮前沿下部的木板。一般三块，上面雕刻花纹。  
-1. 【[贴壳黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_kah_huan.md#贴壳黄)】`tih7 kah7 huan2` <sup>[兴化]</sup> ① 形容螃蟹肥硕。谚曰：九月的螃蟹～。 ② （喻）家道殷实：他家是～，骨里厚实！  
+1. 【[贴壳黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_kah_huan.md#贴壳黄)】`tih7 kah7 huan2` <sup>[兴化]</sup> ① 形容螃蟹肥硕：谚曰：九月的螃蟹～。 ② （喻）家道殷实：他家是～，骨里厚实！  
 1. 【[贴空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_kon.md#贴空)】`tih7 kon5` <sup>[如皋]</sup> 应急：罐头好存放，留啊～。  
 1. 【[贴裂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_lih.md#贴裂)】`tih7 lih8` <sup>[如东]</sup> 连搭衣服缝口两边的布条。  
 1. 【[贴门神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_men_shen.md#贴门神)】`tih7 men2 shen2` <sup>[如东]</sup> 除夕，在大门、房门或耳门门板上贴神像保佑平安。此俗源于汉代除夕“饰桃人”，南朝时开始贴门神。  

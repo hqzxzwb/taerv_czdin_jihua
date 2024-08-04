@@ -678,7 +678,7 @@
 1. 【[酱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian.md#酱)】`jian5` <sup>[如东]</sup> ① 用豆类或面粉，经蒸埯发酶，加盐水，制成糊状物，深红色，入中药。性味寒。有除热、解毒作用，治蜂虿虫伤、汤火伤。 ② 调味品。味香醇。 ③ 东西到处乱放：东西～吖一地。  
 1. 【[酱瓣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_baen_zz.md#酱瓣子)】`jian5 baen5 zz` <sup>[兴化]</sup> 用发酵后的豆、麦粉加盐制成的糊状调味品：炖胡椒～。  
 1. 【[酱菜坛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_cae_tun_zz.md#酱菜坛子)】`jian5 cae5 tun2 zz` <sup>[如皋]</sup> 专用于腌制酱菜的坛子，有盖，容量5升至1斗常醃制萝卜干、萝卜、菜苔、小蒜、糖蒜等。  
-1. 【[酱饭气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_faen_qi.md#酱饭气)】`jian5 faen6 qi5` <sup>[兴化]</sup> 由于烹调不得法，菜肴的味道不鲜美。谚曰：不经厨子手，有点～。  
+1. 【[酱饭气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_faen_qi.md#酱饭气)】`jian5 faen6 qi5` <sup>[兴化]</sup> 由于烹调不得法，菜肴的味道不鲜美：谚曰：不经厨子手，有点～。  
 1. 【[酱架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_ga_zz.md#酱架子)】`jian5 ga5 zz` <sup>[东台]</sup> ［喻］指架势和外部形象：他家虽然债台高筑，还讲排场。酱缸倒啊，～不能倒嘛！  
 1. 【[酱瓜子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_gua_zz.md#酱瓜子)】`jian5 gua1 zz` <sup>[兴化]</sup> 用酱腌制的瓜菜。  
 1. 【[酱下来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_ha_lae_a.md#酱下来啊)】`jian5 ha lae2 a` <sup>[如皋]</sup> 指大便涂搨开来。  
@@ -813,7 +813,7 @@
 1. 【[脊柱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_chv.md#脊柱)】`jieh7 chv6` <sup>[如东]</sup> 人体背部的一根主骨，起支撑全身的作用。也称脊梁骨。  
 1. 【[脊骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_gueh.md#脊骨)】`jieh7 gueh7` <sup>[如皋]</sup> 猪脊骨及骨间肉。作副食品。  
 1. 【[脊尖<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_jin_r.md#脊尖<sub>儿</sub>)】`jieh7 jin1 r` <sup>[如东]</sup> 瓦屋屋脊两端的突起建筑物。  
-1. 【[脊梁筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_lian_jien.md#脊梁筋)】`jieh7 lian jien1` <sup>[兴化]</sup> 脊神经：这几个儿女把他的～龁断吖。｜谚曰｜千日笛子百日笙，二胡拉断～。  
+1. 【[脊梁筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_lian_jien.md#脊梁筋)】`jieh7 lian jien1` <sup>[兴化]</sup> 脊神经：这几个儿女把他的～龁断吖。｜谚曰：千日笛子百日笙，二胡拉断～。  
 1. 【[脊梁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_lian.md#脊梁)】`jieh7 lian2` <sup>[如东]</sup> 脊背。  
 1. 【[脊梁骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_lian_gueh.md#脊梁骨)】`jieh7 lian2 gueh7` <sup>[如皋]</sup> 指人的脊柱。  
 1. 【[脊梁骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_lian_gueh.md#脊梁骨)】`jieh7 lian2 gueh7` <sup>[东台]</sup> ① 脊柱的俗称。 ② 喻意指人的志气、力量或节操。  
@@ -1412,7 +1412,7 @@
 1. 【[尖屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_pi_gu.md#尖屁股)】`jin1 pi5 gu` <sup>[如东]</sup> ① 坐不稳。 ② 坐不稳的人：他是一个～。  
 1. 【[尖屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_pi_gu.md#尖屁股)】`jin1 pi5 gu` <sup>[东台]</sup> ［喻］心神不定、坐不住的人：做学问不能选～。也作“尖头屁股”。  
 1. 【[尖屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_pi_gu.md#尖屁股)】`jin1 pi5 gu` <sup>[如皋]</sup> 坐不住，好动的习性。  
-1. 【[尖屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_pi_gu.md#尖屁股)】`jin1 pi5 gu` <sup>[兴化]</sup> ① 坐不住的人：他是～，在家里坐不住。 ② 也指没有福分的人。谚曰：～坐不了九龙墩。  
+1. 【[尖屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_pi_gu.md#尖屁股)】`jin1 pi5 gu` <sup>[兴化]</sup> ① 坐不住的人：他是～，在家里坐不住。 ② 也指没有福分的人：谚曰：～坐不了九龙墩。  
 1. 【[尖屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_pi_gu.md#尖屁股)】`jin1 pi5 gu` <sup>[泰县]</sup> 坐不住的人。  
 1. 【[尖声怪气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_shen_guae_qi.md#尖声怪气)】`jin1 shen1 guae5 qi5` <sup>[如东]</sup> 尖着嗓子怪叫：这个婆娘～的叫甚的？  
 1. 【[尖声挖气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_shen_vaeh_qi.md#尖声挖气)】`jin1 shen1 vaeh7 qi5` <sup>[泰县]</sup> 尖着嗓子叫：你～的召甚的？  
@@ -1557,7 +1557,7 @@
 1. 【[见外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_vae.md#见外)】`jin5 vae6` <sup>[东台]</sup> 当外人看待：我帮这点忙，你老是放吖儿嘴上就有点～啊。  
 1. 【[见王妈妈去啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_van_ma_ma_qy_a.md#见王妈妈去啊)】`jin5 van2 ma1 ma1 qy5 a` <sup>[如东]</sup> 王妈妈是难河桥上管理迷魂汤的鬼。喝了迷魂汤，就忘记了人间的一切，表示人已死了。  
 1. 【[见相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_xian.md#见相)】`jin5 xian5` <sup>[兴化]</sup> 顺应客观趋势，决定行动：看到天气要变，我～回家，不曾被雨淋。｜饼店里诱人的香味叫他腿沉，二叔～给买了两块。（刘仁前《香河风情·香河纪事》）也作“见巴”。  
-1. 【[见新](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_xien.md#见新)】`jin5 xien1` <sup>[兴化]</sup> ① 修理、装饰旧房屋、旧器物，使之一新。 ② 新粮登场。谚曰：～不死。  
+1. 【[见新](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_xien.md#见新)】`jin5 xien1` <sup>[兴化]</sup> ① 修理、装饰旧房屋、旧器物，使之一新。 ② 新粮登场：谚曰：～不死。  
 1. 【[见新不死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_xien_beh_sz.md#见新不死)】`jin5 xien1 beh7 sz3` <sup>[如皋]</sup> 俗说吃到新上市的食品就不易死去。  
 1. 【[见证](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_zhen.md#见证)】`jin5 zhen5` <sup>[如东]</sup> 证明：他可以～。  
 1. 【[见做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_zu.md#见做)】`jin5 zu5` <sup>[兴化]</sup> 指人做活太慢或磨洋工：你这点活计～唻，上午把时间全混掉啊。  

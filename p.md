@@ -469,7 +469,7 @@
 1. 【[皮啊荡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_a_tan.md#皮啊荡)】`pi2 a tan6` <sup>[东台]</sup> 不落实，一推再推。  
 1. 【[皮包骨头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_bo_gueh_teu.md#皮包骨头)】`pi2 bo1 gueh7 teu` <sup>[东台]</sup> 形容人非常瘦。  
 1. 【[皮包骨头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_bo_gueh_teu.md#皮包骨头)】`pi2 bo1 gueh7 teu2` <sup>[如东]</sup> 形容身体非常瘦弱：张老太身体不好，已经～啊。  
-1. 【[皮包水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_bo_shuei.md#皮包水)】`pi2 bo1 shuei3` <sup>[兴化]</sup> 即早晨上茶馆（或在家）饮茶、吃早点。谚曰：早上～，晚上水包皮（洗澡）。  
+1. 【[皮包水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_bo_shuei.md#皮包水)】`pi2 bo1 shuei3` <sup>[兴化]</sup> 即早晨上茶馆（或在家）饮茶、吃早点：谚曰：早上～，晚上水包皮（洗澡）。  
 1. 【[皮虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_chon.md#皮虫)】`pi2 chon2` <sup>[如皋]</sup> 螳螂卵块。  
 1. 【[皮虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_chon.md#皮虫)】`pi2 chon2` <sup>[兴化]</sup> 贪便宜者：人是～，不讨便宜不笑。  
 1. 【[皮皂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_co.md#皮皂)】`pi2 co6` <sup>[泰县]</sup> 肥皂：你先去买块～。  
@@ -721,7 +721,7 @@
 1. 【[平风息浪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_fon_xieh_lan.md#平风息浪)】`pien2 fon1 xieh7 lan6` <sup>[兴化]</sup> 形容风停浪静：台风一过，外头～的。  
 1. 【[平菇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_gv.md#平菇)】`pien2 gv1` <sup>[兴化]</sup> 一种蕈类，伞状。市场出售的多为人工培植，供食用。  
 1. 【[平和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_hu.md#平和)】`pien2 hu2` <sup>[兴化]</sup> 纠纷平息，气氛缓和：一帮人在市场打群架，110的人来啊才～下来。  
-1. 【[平阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_ian.md#平阳)】`pien2 ian2` <sup>[兴化]</sup> 平展空旷之地：下西坡，乃是一段～之地。（《西游记》五六）｜谚曰｜龙游浅水遭虾戏，虎落～受犬欺。  
+1. 【[平阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_ian.md#平阳)】`pien2 ian2` <sup>[兴化]</sup> 平展空旷之地：下西坡，乃是一段～之地。（《西游记》五六）｜谚曰：龙游浅水遭虾戏，虎落～受犬欺。  
 1. 【[平机](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_ji.md#平机)】`pien2 ji1` <sup>[如东]</sup> 帆船上覆盖舱口的一块长方形木板。  
 1. 【[平脚板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_jiah_baen.md#平脚板)】`pien2 jiah7 baen3` <sup>[兴化]</sup> 指足弓偏低或塌陷，脚心逐渐变成扁平的脚，即“扁平足”。  
 1. 【[平南](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_nun.md#平南)】`pien2 nun2` <sup>[如东]</sup> 在南方：太阳～。  
@@ -1022,7 +1022,7 @@
 1. 【[刨花缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_hua_gan.md#刨花缸)】`po6 hua1 gan1` <sup>[东台]</sup> 用来浸泡妇女梳头整理发型刨花的瓷器。  
 1. 【[刨花铁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_hua_tih.md#刨花铁)】`po6 hua1 tih7` <sup>[兴化]</sup> 从机床上切削下来铁丝和铁屑。  
 1. 【[刨㐁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_tin_zz.md#刨㐁子)】`po6 tin5 zz` <sup>[如东]</sup> 刀具。铁制，长方形，口锋利。插在刨子中间，用以刨平、刨光木料。  
-1. 【[刨瓠子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_v_zz.md#刨瓠子)】`po6 v6 zz` <sup>[兴化]</sup> （喻）瓠子的皮易刨，喻指拣较软弱的人欺侮。谚曰：欺不过冬瓜～。｜他呐，黄瓜刨不过来～……他不敢跟康文琐碎，就拿知州出出气了。（《武松》六）  
+1. 【[刨瓠子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_v_zz.md#刨瓠子)】`po6 v6 zz` <sup>[兴化]</sup> （喻）瓠子的皮易刨，喻指拣较软弱的人欺侮：谚曰：欺不过冬瓜～。｜他呐，黄瓜刨不过来～……他不敢跟康文琐碎，就拿知州出出气了。（《武松》六）  
 1. 【[刨削](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_xiah.md#刨削)】`po6 xiah7` <sup>[东台]</sup> ［引］批评、指责、驳斥。  
 1. 【[刨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_zz.md#刨子)】`po6 zz` <sup>[如东]</sup> 木工的手工工具。木制，长条形，底平，腰间有捏手。可以刨平、刨光木料。  
 1. 【[抱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po.md#抱)】`po6` <sup>[兴化]</sup> ① 结合在一起：他俫～成一团，有事情互相照应。 ② （借）俘虏：一个班伪军捱新四军～走啊。  
@@ -1055,7 +1055,7 @@
 1. 【[抱整](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_zhen.md#抱整)】`po6 zhen3` <sup>[兴化]</sup> 固执已见，认死理：他这个人就是～，不肯听人劝。也说“抱死理”。  
 1. 【[抱奘腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_zhuan_ty.md#抱奘腿)】`po6 zhuan3 ty3` <sup>[东台]</sup> ［喻］找靠山，拍马屁。  
 1. 【[暴暴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_po_dii.md#暴暴的)】`po6 po6 dii` <sup>[如皋]</sup> 忽然地：他～一走，我觉察𨃯啊一大空：人～来啊，家里一点儿菜总没得，要赶紧准备。  
-1. 【[爆灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_huei.md#爆灰)】`po6 huei1` <sup>[兴化]</sup> 草灰。谚曰：～也有发热之时。  
+1. 【[爆灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_huei.md#爆灰)】`po6 huei1` <sup>[兴化]</sup> 草灰：谚曰：～也有发热之时。  
 1. 【[菢/抱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po.md#菢/抱)】`po6` <sup>[泰州]</sup> 鸟孵蛋：～窠丨这几个小鸡都是家里老母鸡～的。  
 1. 【[啪录啪录](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_loh_poh_loh.md#啪录啪录)】`poh7 loh poh7 loh` <sup>[如皋]</sup> 状说话快而连续不止，像放连珠炮。  
 1. 【[扑板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_baen.md#扑板)】`poh7 baen3` <sup>[如东]</sup> 工具。木质，长方形，有柄。扑匠用来平整扑屋屋面。也叫木蟹。  

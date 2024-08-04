@@ -785,7 +785,7 @@
 1. 【[汪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van.md#汪)】`van1` <sup>[兴化]</sup> ① 水洼：北～。 ② 液体积聚：水～吖那块。 ③ 特指饮食停在中不消化：“……从早辰吃了口清茶，还～在心里。”（《金瓶梅词话》七五）  
 1. 【[汪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van.md#汪)】`van1` <sup>[泰州]</sup> ① 低洼处的封闭池塘：夏家～丨常～丨薛家～丨打牛～丨藕池～丨十三里～（均为泰州城里的大水塘） ② 食物滞留胃中没有及时消化：早上吃的粽子～吖在心里，难过煞咖。  
 1. 【[汪塘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_tan.md#汪塘)】`van1 tan2` <sup>[东台]</sup> 低洼的小水塘。  
-1. 【[汪塘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_tan.md#汪塘)】`van1 tan2` <sup>[兴化]</sup> 大水塘。谚曰：一沟短，二沟长，三垛有个大～（三地都在兴西高邮市境内）。  
+1. 【[汪塘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_tan.md#汪塘)】`van1 tan2` <sup>[兴化]</sup> 大水塘：谚曰：一沟短，二沟长，三垛有个大～（三地都在兴西高邮市境内）。  
 1. 【[汪豆腐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_teu_fv.md#汪豆腐)】`van1 teu6 fv` <sup>[兴化]</sup> 豆腐丁和蟹肉、虾仁或肉丁等加芡烧的汤：蟹～｜虾仁～。  
 1. 【[汪同尘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ton_chen.md#汪同尘)】`van1 ton2 chen2` <sup>[东台]</sup> （1891-1941），东台城人，在南京水师学堂读书期间参加同盟会。抗日战争期间任复旦大学文学教授。1941年日机轰炸重庆，不幸罹难。著有《含英咀华》《中国五千年文化之光》等作品。  
 1. 【[汪桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ton.md#汪桶)】`van1 ton3` <sup>[如皋]</sup> 旧时农家场头挖出的塘，供倾倒垃圾积肥。  
@@ -816,7 +816,7 @@
 1. 【[王三打麻雀<sub>儿</sub>——讹错一芝麻壳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_saen_da_ma_jiah_r_ngu_cu_ieh_zhr_ma_kah_r.md#王三打麻雀<sub>儿</sub>——讹错一芝麻壳<sub>儿</sub>)】`van2 saen1 da3 ma2 jiah7 r ngu2 cu5 ieh7 zhr1 ma2 kah7 r` <sup>[东台]</sup>   
 1. 【[王三骑驴子——𧽌过啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_saen_qi_ly_zz_huaeh_gu_a.md#王三骑驴子——𧽌过啊)】`van2 saen1 qi2 ly2 zz huaeh7 gu5 a` <sup>[东台]</sup>   
 1. 【[王三骑驴子，𧽌过啊头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_saen_qi_ly_zz_huaeh_gu_a_teu.md#王三骑驴子，𧽌过啊头)】`van2 saen1 qi2 ly2 zz huaeh7 gu1 a teu2` <sup>[东台]</sup> ［喻］（俗语）指事情做得过分了。  
-1. 【[王五王六](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_v_van_loh.md#王五王六)】`van2 v3 van2 loh8` <sup>[兴化]</sup> （借）社会上不三不四的人。谚曰：～，吃鱼吃肉｜皈皈真真，饿得狗哼。  
+1. 【[王五王六](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_v_van_loh.md#王五王六)】`van2 v3 van2 loh8` <sup>[兴化]</sup> （借）社会上不三不四的人：谚曰：～，吃鱼吃肉｜皈皈真真，饿得狗哼。  
 1. 【[王子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_zz.md#王子)】`van2 zz` <sup>[如皋]</sup> 丧俗中，给死者供倒头饭时，于左首设一只筷、一只酒盅，盛点半熟的米饭同时供～。  
 1. 【[艎板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_baen.md#艎板)】`van2 baen3` <sup>[东台]</sup> 渔船舱口的盖板：取到鱼，～都会说话（有了成绩，即使无关人员也能总结出经验）。  
 1. 【[黄菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_cae.md#黄菜)】`van2 cae5` <sup>[如皋]</sup> 胡萝卜英子烫熟做的菜。荒年可以度命，谚云：“一缸～一缸粮”。  

@@ -263,7 +263,7 @@
 1. 【[能吖埲起来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen_nga_pon_qi_lae_a.md#能吖埲起来啊)】`nen2 nga pon6 qi lae a` <sup>[如皋]</sup> 见“能巴巴的”。  
 1. 【[能吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen_qieh.md#能吃)】`nen2 qieh7` <sup>[如皋]</sup> ① 可以吃 ② 食量大。  
 1. 【[能人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen_ren.md#能人)】`nen2 ren2` <sup>[如东]</sup> 有知识的人。有能力的人。  
-1. 【[能说不能行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen_shuh_beh_nen_xien.md#能说不能行)】`nen2 shuh7 beh7 nen2 xien2` <sup>[兴化]</sup> ① 说得天花乱坠而不能实行。谚曰：病和尚说法——～。 ② 经不起实践检验：“书，我何偿不读！只是那些～的空谈，怎干得天下大事？”（《儿女英雄传》十八）  
+1. 【[能说不能行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen_shuh_beh_nen_xien.md#能说不能行)】`nen2 shuh7 beh7 nen2 xien2` <sup>[兴化]</sup> ① 说得天花乱坠而不能实行：谚曰：病和尚说法——～。 ② 经不起实践检验：“书，我何偿不读！只是那些～的空谈，怎干得天下大事？”（《儿女英雄传》十八）  
 1. 【[能说能攎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen_shuh_nen_lv.md#能说能攎)】`nen2 shuh7 nen2 lv2` <sup>[东台]</sup> 形容说话不算数，前面说的话后面不承认。  
 1. 【[能豆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen_teu_r.md#能豆<sub>儿</sub>)】`nen2 teu6 r` <sup>[如皋]</sup> 贬、昵指很能干的人。  
 1. 【[能豆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen_teu_r.md#能豆<sub>儿</sub>)】`nen2 teu6 r` <sup>[东台]</sup> 能说会道，自信得很（多指小孩）。  
@@ -344,7 +344,7 @@
 1. 【[丫须](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_xy.md#丫须)】`nga1 xy1` <sup>[东台]</sup> 用竹篾编成捕鳝鱼的工具，鳝鱼游进去就出不来。  
 1. 【[丫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#丫子)】`nga1 zz` <sup>[如东]</sup> 沙滩上的小型沟槽，称丫子。  
 1. 【[丫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#丫子)】`nga1 zz` <sup>[东台]</sup> 指潮水沟，港的分汊。  
-1. 【[桠巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_ba.md#桠巴)】`nga1 ba` <sup>[兴化]</sup> ① 树干的分权处。谚曰：多个～多个节。 ② 两腿内侧的交汇处：这个鬼形不能见小叔子，裤子卷到大腿～，成何体统呀？（《武松》四）  
+1. 【[桠巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_ba.md#桠巴)】`nga1 ba` <sup>[兴化]</sup> ① 树干的分权处：谚曰：多个～多个节。 ② 两腿内侧的交汇处：这个鬼形不能见小叔子，裤子卷到大腿～，成何体统呀？（《武松》四）  
 1. 【[桠巴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_ba_r.md#桠巴<sub>儿</sub>)】`nga1 ba1 r` <sup>[如东]</sup> 树杆的分枝。  
 1. 【[桠屄□卵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_bi_qiah_lun.md#桠屄□卵)】`nga1 bi1 qiah7 lun3` <sup>[如东]</sup> 形容乱七八糟。  
 1. 【[桠叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_cha.md#桠叉)】`nga1 cha5` <sup>[兴化]</sup> 树木岔出的枝条：树～。桠，《集韵·麻韵》于加切，《方言》江东谓树岐为～。  
@@ -487,7 +487,7 @@
 1. 【[挨个<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_gu_r.md#挨个<sub>儿</sub>)】`ngae1 gu5 r` <sup>[如东]</sup> 逐一，顺次：大家站好，～发帽子。  
 1. 【[挨黑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_heh.md#挨黑)】`ngae1 heh7` <sup>[如东]</sup> 傍晚：他～家来。  
 1. 【[挨黑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_heh.md#挨黑)】`ngae1 heh7` <sup>[泰县]</sup> 傍晚。  
-1. 【[挨黑<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_heh_r.md#挨黑<sub>儿</sub>)】`ngae1 heh7 r` <sup>[兴化]</sup> 傍晚。谚曰：盐城人嫁女儿一一～进门（花轿傍晚到夫家）。  
+1. 【[挨黑<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_heh_r.md#挨黑<sub>儿</sub>)】`ngae1 heh7 r` <sup>[兴化]</sup> 傍晚：谚曰：盐城人嫁女儿一一～进门（花轿傍晚到夫家）。  
 1. 【[挨挤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_ji.md#挨挤)】`ngae1 ji3` <sup>[兴化]</sup> 在人群中挤来挤去：乐和身材即溜，在人丛里～进去……（《警世通言》二三）  
 1. 【[挨肩擦背](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_jin_caeh_bei.md#挨肩擦背)】`ngae1 jin1 caeh7 bei5` <sup>[兴化]</sup> ① 肩贴着肩，背靠着背，形容人群拥挤状：大街上人头攒动，～，个个争着看迎会队伍。 ② 身体接触，作亲热状：每到园亭，廷章便得相见……渐渐不避嫌疑，～。（《警世通言》三四）  
 1. 【[挨肩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_jin_r.md#挨肩<sub>儿</sub>)】`ngae1 jin1 r` <sup>[兴化]</sup> 一连串的，一个比一个矮（小），或说一个比个高（大）：他俫结婚十年，养吖～四个小伙。  
@@ -946,7 +946,7 @@
 1. 【[恶三庄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngah_saen_zhuan.md#恶三庄)】`ngah7 saen1 zhuan1` <sup>[兴化]</sup> 本来形容恶狗，又戏称恶名远扬者：我家姑娘是有名的～，就怕长大啊嫁不出去。也说“恶通庄”。  
 1. 【[恶声癞怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngah_shen_lae_guae.md#恶声癞怪)】`ngah7 shen1 lae6 guae5` <sup>[兴化]</sup> 说话恶声恶气地：你有话好好说，不必～的。  
 1. 【[恶势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngah_shr.md#恶势)】`ngah7 shr` <sup>[东台]</sup> 表面上样子吓人：那人一脸横肉又文身，～样子。  
-1. 【[恶势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngah_shr.md#恶势)】`ngah7 shr5` <sup>[兴化]</sup> 凶狠的样子：你俫要查账就查账，覅摆这种～。‖谚曰｜猫儿吃蟹渣（蟛蜞）——～。  
+1. 【[恶势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngah_shr.md#恶势)】`ngah7 shr5` <sup>[兴化]</sup> 凶狠的样子：你俫要查账就查账，覅摆这种～。｜谚曰：猫儿吃蟹渣（蟛蜞）——～。  
 1. 【[恶水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngah_shuei.md#恶水)】`ngah7 shuei` <sup>[泰县]</sup> 泔水。  
 1. 【[恶水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngah_shuei.md#恶水)】`ngah7 shuei3` 泔水  
 1. 【[恶水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngah_shuei.md#恶水)】`ngah7 shuei3` <sup>[东台]</sup> 泔水。  
@@ -1427,7 +1427,7 @@
 1. 【[鹅膏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_go.md#鹅膏)】`ngu2 go1` <sup>[如东]</sup> 鸭科动物鹅的脂肪。  
 1. 【[鹅行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_han.md#鹅行)】`ngu2 han2` <sup>[兴化]</sup> “鹅”与“讹”同音。（讽）从事讹诈的人：这个人鸭行不开开～。｜“……眼目下这种世道，开～的多啦……我开的是个细～……手一伸二百文……”（《皮五辣子》三）  
 1. 【[鹅毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_mo.md#鹅毛)】`ngu2 mo2` <sup>[如东]</sup> 鸭科动物鹅毛。  
-1. 【[鹅毛月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_mo_iuh.md#鹅毛月)】`ngu2 mo2 iuh8` <sup>[兴化]</sup> 形容月初的上弦月，弯弯的形似鹅毛。谚曰：初三初四～。  
+1. 【[鹅毛月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_mo_iuh.md#鹅毛月)】`ngu2 mo2 iuh8` <sup>[兴化]</sup> 形容月初的上弦月，弯弯的形似鹅毛：谚曰：初三初四～。  
 1. 【[鹅毛劗肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_mo_zaen_roh.md#鹅毛劗肉)】`ngu2 mo2 zaen1 roh` <sup>[如皋]</sup> 猪肉圆的外层为糯米。是夏日食品。  
 1. 【[鹅眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_ngaen.md#鹅眼)】`ngu2 ngaen3` <sup>[兴化]</sup> ① 古代私铸的一种劣质小钱：人人爱果然在他衣兜里掏出一大把钱来，约莫小洋有十几个，铜板有十几个，其余便尽是～小钱。（《广陵潮》六三） ② 小、少：滴滴～儿。  
 1. 【[鹅眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_ngaen_r.md#鹅眼<sub>儿</sub>)】`ngu2 ngaen3 r` <sup>[泰县]</sup> 一点儿：～大的个地方。  

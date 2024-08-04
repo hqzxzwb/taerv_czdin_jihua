@@ -987,7 +987,7 @@
 1. 【[好眼力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_ngaen_lieh.md#好眼力)】`ho3 ngaen3 lieh8` <sup>[如皋]</sup> 见“好眼睛”。  
 1. 【[好年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_nin.md#好年)】`ho3 nin2` <sup>[如皋]</sup> 风调雨顺、五谷丰登、安乐富裕、太平无事的年景。与灾年、丑年相对。  
 1. 【[好聚好散](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_qy_ho_saen.md#好聚好散)】`ho3 qy6 ho3 saen5` <sup>[兴化]</sup> 见“好来好散”。  
-1. 【[好人不长寿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_ren_beh_chan_sheu.md#好人不长寿)】`ho3 ren2 beh7 chan2 sheu6` <sup>[兴化]</sup> 喟叹品性好的人往往寿不永：“谭家小娘子，极其贤慧。可惜～……”（《岐路灯》六三）。谚曰｜～，祸害一千年。  
+1. 【[好人不长寿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_ren_beh_chan_sheu.md#好人不长寿)】`ho3 ren2 beh7 chan2 sheu6` <sup>[兴化]</sup> 喟叹品性好的人往往寿不永：“谭家小娘子，极其贤慧。可惜～……”（《岐路灯》六三）。｜谚曰：～，祸害一千年。  
 1. 【[好人多相遇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_ren_du_xian_y.md#好人多相遇)】`ho3 ren2 du1 xian1 y6` <sup>[兴化]</sup> 客套话，谓感情好的人见面的机会多：“啊呀，舅太太也来了！真是～，……”（《广陵潮》二六）  
 1. 【[好人家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_ren_ga.md#好人家)】`ho3 ren2 ga` <sup>[兴化]</sup> ① 正派清白的人家。 ② 有家有业，从事正当职业的人家：这个青年人是～出来的。  
 1. 【[好人没长寿，祸害一千年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_ren_meh_chan_sheu_u_hae_ieh_qin_nin.md#好人没长寿，祸害一千年)】`ho3 ren2 meh8 chan2 sheu6 u6 hae6 ieh7 qin1 nin2` <sup>[东台]</sup> 好人寿命嫌短，坏人、窝囊人活得嫌长。  
@@ -1396,7 +1396,7 @@
 1. 【[火刀匾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_do_bin_zz.md#火刀匾子)】`hu3 do1 bin3 zz` <sup>[如东]</sup> 装火刀、火石、芒子的小容器。  
 1. 【[火刀火石](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_do_hu_sheh.md#火刀火石)】`hu3 do1 hu3 sheh8` <sup>[兴化]</sup> 火镰。  
 1. 【[火刀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_do_r.md#火刀<sub>儿</sub>)】`hu3 do1 r` <sup>[如皋]</sup> 火镰。  
-1. 【[火到猪头烂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_do_zhv_teu_laen.md#火到猪头烂)】`hu3 do5 zhv1 teu2 laen6` <sup>[兴化]</sup> （喻）做事情，只要有恒心、有决心，就会成功：“不怕他是铁打的……～，等我去撞个木钟儿，再做理会……”（《广陵潮》八十）｜谚曰｜～，功到自然成。  
+1. 【[火到猪头烂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_do_zhv_teu_laen.md#火到猪头烂)】`hu3 do5 zhv1 teu2 laen6` <sup>[兴化]</sup> （喻）做事情，只要有恒心、有决心，就会成功：“不怕他是铁打的……～，等我去撞个木钟儿，再做理会……”（《广陵潮》八十）｜谚曰：～，功到自然成。  
 1. 【[火到猪头烂，功到自然成](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_do_zhv_teu_laen_gon_do_cz_rin_chen.md#火到猪头烂，功到自然成)】`hu3 do5 zhv1 teu2 laen6 gon1 do5 cz6 rin2 chen2` <sup>[东台]</sup> 成事必须下功夫，还要有耐心、恒心。  
 1. 【[火钩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_geu_zz.md#火钩子)】`hu3 geu1 zz` <sup>[如皋]</sup> 从炉底向上勾通的铁钩子。  
 1. 【[火光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_guan.md#火光)】`hu3 guan` <sup>[东台]</sup> 旧时指不怕魔鬼的气势。据说男人的～比女人高。（光轻读）  
@@ -1713,7 +1713,7 @@
 1. 【[淮北高腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_boh_go_qian.md#淮北高腔)】`huae2 boh7 go1 qian1` <sup>[兴化]</sup> 早年淮剧的一种曲调，有大锣大鼓伴奏，起调很高。  
 1. 【[淮河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_hu.md#淮河)】`huae2 hu2` <sup>[如东]</sup> ① 河名。发源于河南，流经安徽、江苏入海。 ② 银河。  
 1. 【[淮河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_hu.md#淮河)】`huae2 hu2` <sup>[如皋]</sup> 指银河。  
-1. 【[淮河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_hu.md#淮河)】`huae2 hu2` <sup>[兴化]</sup> 银河。谚曰：天上～，地上黄河。  
+1. 【[淮河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_hu.md#淮河)】`huae2 hu2` <sup>[兴化]</sup> 银河：谚曰：天上～，地上黄河。  
 1. 【[淮河东到西，家家备寒衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_hu_don_do_xi_ga_ga_pei_hun_i.md#淮河东到西，家家备寒衣)】`huae2 hu2 don1 do5 xi1 ga1 ga1 pei6 hun2 i1` <sup>[如皋]</sup> 银河东西向，指立冬前后。  
 1. 【[淮河南到北，家家种荞麦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_hu_nun_do_boh_ga_ga_zhon_qio_moh.md#淮河南到北，家家种荞麦)】`huae2 hu2 nun2 do5 boh7 ga1 ga zhon5 qio2 moh8` <sup>[如皋]</sup> 银河南北向，指立秋前后。  
 1. 【[淮饺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_jio.md#淮饺)】`huae2 jio3` <sup>[兴化]</sup> 一种皮儿很薄的饺子，今多称“馄饨”。也称“雀儿头”。  
@@ -1763,7 +1763,7 @@
 1. 【[坏相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_xian.md#坏相)】`huae6 xian5` <sup>[兴化]</sup> ① 形容难看的样子：他斜鼻吊眼的，真是一副～。 ② 指促掐使坏或得意忘形的样子：他这个～，叫人望吖就来气。  
 1. 【[坏砟<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_zha_r.md#坏砟<sub>儿</sub>)】`huae6 zha3 r` <sup>[泰县]</sup> 没有可取之处：他家小三子～。  
 1. 【[坏账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_zhan.md#坏账)】`huae6 zhan5` <sup>[东台]</sup> 无法收回的款项。  
-1. 【[坏种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_zhon.md#坏种)】`huae6 zhon3` <sup>[兴化]</sup> 骂人的话，谓此人的父辈及祖上就不是好东西。谚曰：好种长好苗，～出坏瓢。  
+1. 【[坏种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_zhon.md#坏种)】`huae6 zhon3` <sup>[兴化]</sup> 骂人的话，谓此人的父辈及祖上就不是好东西：谚曰：好种长好苗，～出坏瓢。  
 1. 【[坏嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_zuei.md#坏嘴)】`huae6 zuei3` <sup>[兴化]</sup> ① 指会骂人的人。 ② 指说话无禁忌，惹人嫌的人：他这个人有～，没坏心。  
 1. 【[搳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh.md#搳)】`huaeh7` <sup>[如皋]</sup> ① 挥。 ② 吃：～了两碗。  
 1. 【[搳䱗鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_caen_y.md#搳䱗鱼)】`huaeh7 caen1 y2` <sup>[如皋]</sup> 钓䱗鱼。鱼一咬钩，钓竿要迅速搳起。  
@@ -1951,7 +1951,7 @@
 1. 【[皇天白日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_tin_poh_rih.md#皇天白日)】`huan2 tin1 poh8 rih8` <sup>[如东]</sup> 天气晴朗：，带甚的雨伞！  
 1. 【[皇岸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_un.md#皇岸)】`huan2 un6` <sup>[如东]</sup> 宋孝宗赵昚乾道七年（1171年），泰州知州徐子寅兴工修筑海堤，令沿海各盐场官员，分别在所属地境筑堤御潮。自海安旧场起，东接洋口、环港、长沙，经掘港至花市街以西3公里的九总桥（古岸头）。全长47.5公里。百姓称皇岸。因西接范公堤，也称范公堤。  
 1. 【[艎板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_baen.md#艎板)】`huan2 baen3` <sup>[如皋]</sup> 盖舱的横板。  
-1. 【[艎板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_baen.md#艎板)】`huan2 baen3` <sup>[兴化]</sup> 覆盖船舱的板：那艄公便去～底下摸出那把明晃晃板刀来……（《水浒传》三七）｜谚曰｜逮到鱼～也会说话。  
+1. 【[艎板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_baen.md#艎板)】`huan2 baen3` <sup>[兴化]</sup> 覆盖船舱的板：那艄公便去～底下摸出那把明晃晃板刀来……（《水浒传》三七）｜谚曰：逮到鱼～也会说话。  
 1. 【[黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan.md#黄)】`huan2` <sup>[如东]</sup> ① 植物老了：玉米～吖。 ② 不成功：这桩事情～吖。  
 1. 【[黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan.md#黄)】`huan2` <sup>[如皋]</sup> ① 受窘难堪、尴尬：他去叫妈妈，认错啊人，觉察～吖下子。 ② 使人难堪、尴尬：他当面～人是不礼貌的。  
 1. 【[黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan.md#黄)】`huan2` <sup>[东台]</sup> 除一般含义外，还指愿望未能实现：那件事～吖。  
@@ -2023,7 +2023,7 @@
 1. 【[黄苗猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_mio_zhv.md#黄苗猪)】`huan2 mio2 zhv1` <sup>[如皋]</sup> 一种肉色发黄，肉味有狐臭的猪。  
 1. 【[黄毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_mo.md#黄毛)】`huan2 mo2` 黄头发；黄头发的人  
 1. 【[黄毛丫头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_mo_nga_teu.md#黄毛丫头)】`huan2 mo2 nga1 teu` <sup>[如东]</sup> 年幼的女孩子。  
-1. 【[黄毛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_mo_r.md#黄毛<sub>儿</sub>)】`huan2 mo2 r` <sup>[兴化]</sup> 年幼女童，犹“黄毛丫头”。谚曰：～短颈项，越大越犯犟。  
+1. 【[黄毛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_mo_r.md#黄毛<sub>儿</sub>)】`huan2 mo2 r` <sup>[兴化]</sup> 年幼女童，犹“黄毛丫头”：谚曰：～短颈项，越大越犯犟。  
 1. 【[黄猫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_mo_r.md#黄猫<sub>儿</sub>)】`huan2 mo2 r` 黄鼠狼  
 1. 【[黄猫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_mo_r.md#黄猫<sub>儿</sub>)】`huan2 mo2 r` <sup>[兴化]</sup> 黄鼬。黄鼠狼。又称“黄鼠子”。  
 1. 【[黄猫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_mo_r.md#黄猫<sub>儿</sub>)】`huan2 mo2 r` <sup>[泰县]</sup> 黄鼠狼。  
@@ -2232,7 +2232,7 @@
 1. 【[回老家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_lo_ga.md#回老家)】`huei2 lo3 ga1` <sup>[东台]</sup> ① 返回故里。 ② 隐指死亡。  
 1. 【[回笼觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_lon_go.md#回笼觉)】`huei2 lon2 go5` <sup>[东台]</sup> 早晨起床后重新上床睡觉。又叫复觉。  
 1. 【[回笼觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_lon_go.md#回笼觉)】`huei2 lon2 go5` <sup>[兴化]</sup> 早晨醒来或起身后重又入睡：光头想睡个～，却是进不去。（毕飞宇《慌乱的指头》）  
-1. 【[回炉烧饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_lv_sho_bien.md#回炉烧饼)】`huei2 lv2 sho1 bien3` <sup>[兴化]</sup> （喻）被除名或解雇的人重新回头。谚曰：～不香。  
+1. 【[回炉烧饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_lv_sho_bien.md#回炉烧饼)】`huei2 lv2 sho1 bien3` <sup>[兴化]</sup> （喻）被除名或解雇的人重新回头：谚曰：～不香。  
 1. 【[回炉烧饼不香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_lv_sho_bien_beh_xian.md#回炉烧饼不香)】`huei2 lv2 sho1 bien3 beh7 xian1` <sup>[东台]</sup> ［喻］回到原先的环境不受人欢迎。  
 1. 【[回门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_men.md#回门)】`huei2 men2` <sup>[如东]</sup> 一种民俗。姑娘出嫁后的第二天带着丈夫回娘家看望，当晚必须回去，称回门。  
 1. 【[回门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_men.md#回门)】`huei2 men2` <sup>[东台]</sup> 女子出嫁首次回娘家。  
@@ -2512,7 +2512,7 @@
 1. 【[活鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_guei.md#活鬼)】`huh8 guei3` <sup>[兴化]</sup> ① 因病而脱失了人形：（牛浦）一到船上，就害起痢疾来……屙到三四天，就像个～。（《儒林外史》二三） ② 表示对人极度蔑视：～！你来做甚的？  
 1. 【[活鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_guei.md#活鬼)】`huh8 guei3` <sup>[泰县]</sup> （禁忌语）人格低下的人。  
 1. 【[活鬼烧清汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_guei_sho_qien_tan.md#活鬼烧清汤)】`huh8 guei3 sho1 qien1 tan1` <sup>[东台]</sup> （詈语）指某人吝啬到了极点：以前那个厂的食堂烧菜都舍不得放油，简直是～！  
-1. 【[活猴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_heu.md#活猴)】`huh8 heu2` <sup>[兴化]</sup> （喻）女儿和外孙。农历二月二，已嫁闺女挈夫将雏回到娘家。谚曰：二月二，龙拾头，家家带～。  
+1. 【[活猴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_heu.md#活猴)】`huh8 heu2` <sup>[兴化]</sup> （喻）女儿和外孙。农历二月二，已嫁闺女挈夫将雏回到娘家：谚曰：二月二，龙拾头，家家带～。  
 1. 【[活河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_hu.md#活河)】`huh8 hu2` <sup>[兴化]</sup> 有源头的常流水。  
 1. 【[活活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_huh.md#活活)】`huh8 huh8` <sup>[如东]</sup> 抖动抖动：衣裳上头都是草，脱下来～。  
 1. 【[活活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_huh.md#活活)】`huh8 huh8` <sup>[泰县]</sup> 抖动：你把身上的灰～干净。  

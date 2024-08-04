@@ -619,7 +619,7 @@
 1. 【[学子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiah_zz.md#学子)】`xiah8 zz3` <sup>[如东]</sup> 学生。  
 1. 【[乡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian.md#乡)】`xian1` <sup>[如东]</sup> 行政单位，由数个行政村组成。面积有大有小，人口有多有少。  
 1. 【[乡党](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_dan.md#乡党)】`xian1 dan3` <sup>[东台]</sup> 乡亲：势不压～。  
-1. 【[乡风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_fon.md#乡风)】`xian1 fon1` <sup>[兴化]</sup> 风土人情：“你乃外江的人，哪里晓得我们的～……”（《海公大红袍》四七）｜谚曰｜离家三里路，各地各～。  
+1. 【[乡风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_fon.md#乡风)】`xian1 fon1` <sup>[兴化]</sup> 风土人情：“你乃外江的人，哪里晓得我们的～……”（《海公大红袍》四七）｜谚曰：离家三里路，各地各～。  
 1. 【[乡下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ha.md#乡下)】`xian1 ha` <sup>[如皋]</sup> ① 乡村里。与“市镇”相对。 ② 小集镇，与“城市”相对。  
 1. 【[乡下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ha.md#乡下)】`xian1 ha` <sup>[如东]</sup> 县城及大集镇以外的地区。通称农村。  
 1. 【[乡下家里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ha_ga_lii.md#乡下家里)】`xian1 ha ga1 lii` <sup>[如皋]</sup> ① 自家住城镇时指在乡村中的住宅。 ② 自家或家族中的离街市稍远的住宅。均与“街上家里”相对。  
@@ -903,7 +903,7 @@
 1. 【[心慈面软](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_cz_min_run.md#心慈面软)】`xien1 cz2 min6 run3` <sup>[兴化]</sup> 心地善良，面目和善：祝老太平日～，就是遇见乞丐也是好言相待。  
 1. 【[心大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_da.md#心大)】`xien1 da6` <sup>[如皋]</sup> 设想的目标大。  
 1. 【[心大狼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_da_lan.md#心大狼)】`xien1 da6 lan2` <sup>[如皋]</sup> 贪多。  
-1. 【[心底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_di.md#心底)】`xien1 di3` <sup>[兴化]</sup> 居心、用心：他这个人～好，跟他一起有安全感。｜谚曰｜～无私天地宽。  
+1. 【[心底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_di.md#心底)】`xien1 di3` <sup>[兴化]</sup> 居心、用心：他这个人～好，跟他一起有安全感。｜谚曰：～无私天地宽。  
 1. 【[心到神知](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_do_shen_zhr.md#心到神知)】`xien1 do5 shen2 zhr1` <sup>[兴化]</sup> （迷信）神灵对虔诚之心自有感应：“大老爷……也算得是神仙了，太太们这么一说，就叫作～了。”（《红楼梦》十一）  
 1. 【[心挂两肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_gua_laen_chan.md#心挂两肠)】`xien1 gua5 laen3 chan2` <sup>[兴化]</sup> 见“心挂两头”。  
 1. 【[心挂两头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_gua_laen_teu.md#心挂两头)】`xien1 gua5 laen3 teu2` <sup>[兴化]</sup> 思想不集中，一心牵挂着多方面：你不要～，一心把学习搞好就行吖。｜傅抚院此时～，正在进退两难的时候……（《官场现形记》二二）‖也说“心挂两肠”。  
@@ -1633,7 +1633,7 @@
 1. 【[小刀手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_do_sheu.md#小刀手)】`xio3 do1 sheu3` <sup>[兴化]</sup> 新近出现词语，称个体屠户。  
 1. 【[小冬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_don.md#小冬)】`xio3 don1` <sup>[如皋]</sup> 冬至（大冬）前一天，是周代的除夕。今存烧经祭祖习俗，是鬼节之一。  
 1. 【[小冬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_don.md#小冬)】`xio3 don1` <sup>[东台]</sup> 指冬至（大冬）前一日，民间冬至祭祖均放在～。  
-1. 【[小冬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_don.md#小冬)】`xio3 don1` <sup>[兴化]</sup> 冬至前一日为～，民户中午设馔、焚化纸钱祭奠先人。谚曰：大冬（冬至日）大似年，小冬不值钱。  
+1. 【[小冬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_don.md#小冬)】`xio3 don1` <sup>[兴化]</sup> 冬至前一日为～，民户中午设馔、焚化纸钱祭奠先人：谚曰：大冬（冬至日）大似年，小冬不值钱。  
 1. 【[小肚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_dv_r.md#小肚<sub>儿</sub>)】`xio3 dv3 r` <sup>[如皋]</sup> ① 用猪膀胱膜灌猪肉馅呈球形的食品，每只250g左右。 ② 卤菜：猪膀胱。  
 1. 【[小儿呵唏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_er_hu_xi.md#小儿呵唏)】`xio3 er2 hu1 xi1` <sup>[兴化]</sup> 形容人吝啬，把小气形于表面：你～的怎吖好意思嗲？  
 1. 【[小儿寒气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_er_hun_qi.md#小儿寒气)】`xio3 er2 hun2 qi5` <sup>[东台]</sup> 形容人的举止、行为不够大方，也叫小家子气。  

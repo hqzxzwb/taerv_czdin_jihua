@@ -261,7 +261,7 @@
 1. 【[咧嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_jy.md#咧嘴)】`lae3 jy3` <sup>[如皋]</sup> ① 嘴大。 ② 一种张嘴的动作表情。  
 1. 【[唻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae.md#唻)】`lae3` <sup>[泰州]</sup> 张开嘴巴而略扁：你望他嘴一～，笑得这屈形样子。  
 1. 【[那<sub>许</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae.md#那<sub>许</sub>)】`lae5` 那里。那许lu5 hae连读。  
-1. 【[䐯膗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_chuae.md#䐯膗)】`lae6 chuae5` <sup>[兴化]</sup> 因过肥面形体不匀称，容貌难看。谚曰：～对～，破锅腔配个齾锅盖。䐯，《广韵·皆韵》力怀切，～形恶貌。膗，仕怀切。（声调不合）  
+1. 【[䐯膗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_chuae.md#䐯膗)】`lae6 chuae5` <sup>[兴化]</sup> 因过肥面形体不匀称，容貌难看：谚曰：～对～，破锅腔配个齾锅盖。䐯，《广韵·皆韵》力怀切，～形恶貌。膗，仕怀切。（声调不合）  
 1. 【[䐯膗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_shae.md#䐯膗)】`lae6 shae` <sup>[如东]</sup> ① 脏：这个地方非常～。 ② 说过的话不算数，不认账，耍赖。  
 1. 【[䐯膗胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_shae_hv_zz.md#䐯膗胡子)】`lae6 shae hv2 zz` <sup>[如皋]</sup> 络腮胡子。  
 1. 【[䐯膗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_shuae.md#䐯膗)】`lae6 shuae` <sup>[东台]</sup> 形容某物体量大得难看。  
@@ -810,7 +810,7 @@
 1. 【[郎不郎秀不秀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_beh_lan_xieu_beh_xieu.md#郎不郎秀不秀)】`lan2 beh7 lan2 xieu5 beh7 xieu5` <sup>[东台]</sup> 不伦不类的意思。（元朝时称官僚、贵族子弟为“秀”，称平民子弟为“郎”）。  
 1. 【[郎丈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_chan.md#郎丈)】`lan2 chan6` <sup>[兴化]</sup> 女婿和岳父。也称“翁婿”。  
 1. 【[郎当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_dan.md#郎当)】`lan2 dan1` <sup>[如东]</sup> 自由散漫。  
-1. 【[郎中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_zhon.md#郎中)】`lan2 zhon` <sup>[兴化]</sup> 原指中医，今俗指江湖游医：～先生。｜谚曰｜急惊风遇到慢～。  
+1. 【[郎中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_zhon.md#郎中)】`lan2 zhon` <sup>[兴化]</sup> 原指中医，今俗指江湖游医：～先生。｜谚曰：急惊风遇到慢～。  
 1. 【[郎中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_zhon.md#郎中)】`lan2 zhon1` <sup>[如东]</sup> 具有某种专业特长的医务人员。  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan.md#□)】`lan3` <sup>[泰州]</sup> 车船行驶迅速的样子：他人上吖小汽车就直～，眼睛一眨就望不见唻。丨你把篷扯起来，顺风顺水的，最多个把小时就～到兴化唻。  
 1. 【[哪吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_nga.md#哪吖)】`lan3 nga` <sup>[如皋]</sup> 怎么，怎么样。“怎吖”的方音。  
@@ -1130,7 +1130,7 @@
 1. 【[礼拜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_bae.md#礼拜)】`li3 bae` <sup>[泰兴]</sup> 星期。时间为七天。（原文词条“一个礼拜”）  
 1. 【[礼拜花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_bae_hua.md#礼拜花)】`li3 bae5 hua1` <sup>[如皋]</sup> 学名半枝莲，叉名洋马齿苋。  
 1. 【[礼多人不怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_du_ren_beh_guae.md#礼多人不怪)】`li3 du1 ren2 beh7 guae5` <sup>[东台]</sup> （俗语）讲礼节多多益善，是不会有人怪罪的。  
-1. 【[礼多人不怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_du_ren_beh_guae.md#礼多人不怪)】`li3 du1 ren2 beh7 guae5` <sup>[兴化]</sup> 指礼数周到，总可取悦别人。谚曰：～，油多没坏菜。  
+1. 【[礼多人不怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_du_ren_beh_guae.md#礼多人不怪)】`li3 du1 ren2 beh7 guae5` <sup>[兴化]</sup> 指礼数周到，总可取悦别人：谚曰：～，油多没坏菜。  
 1. 【[礼多人不怪，油多不坏菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_du_ren_beh_guae_ieu_du_beh_huae_cae.md#礼多人不怪，油多不坏菜)】`li3 du1 ren2 beh7 guae5 ieu2 du1 beh7 huae6 cae5` <sup>[东台]</sup> 文明礼貌多多益善，后半句有片面性。  
 1. 【[礼盒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_huh.md#礼盒)】`li3 huh8` <sup>[兴化]</sup> 旧时送节礼、圆礼等用的担盒，有提梁，一般由人抬。也称“拜盒”。  
 1. 【[礼律](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_lieh.md#礼律)】`li3 lieh8` <sup>[如东]</sup> ① 能以规矩约束自己。 ② 客气：这个人～。  
@@ -1548,7 +1548,7 @@
 1. 【[裂花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lih_hua.md#裂花)】`lih8 hua` <sup>[兴化]</sup> 因膨胀而开裂：这西瓜长的太熟，皮子倒～开来啦！  
 1. 【[裂颈萝卜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lih_jien_lu_poh.md#裂颈萝卜)】`lih8 jien3 lu2 poh` <sup>[东台]</sup> 本地蔬菜中名品。少辛辣，入口脆嫩，成熟后上端易开裂。  
 1. 【[裂口子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lih_keu_zz.md#裂口子)】`lih8 keu3 zz` <sup>[东台]</sup> 裂开的缝隙。  
-1. 【[裂麻缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lih_ma_fon.md#裂麻缝)】`lih8 ma fon6` <sup>[兴化]</sup> 细小的缝隙。谚曰：吹塘灰寻～（有意挑毛病、找茬儿）。  
+1. 【[裂麻缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lih_ma_fon.md#裂麻缝)】`lih8 ma fon6` <sup>[兴化]</sup> 细小的缝隙：谚曰：吹塘灰寻～（有意挑毛病、找茬儿）。  
 1. 【[裂璺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lih_men.md#裂璺)】`lih8 men6` 裂缝  
 1. 【[裂璺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lih_men.md#裂璺)】`lih8 men6` <sup>[如东]</sup> 物体裂开一道纹路：水缸～。  
 1. 【[裂璺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lih_men.md#裂璺)】`lih8 men6` <sup>[东台]</sup> 器物裂开的纹路。  
@@ -2353,7 +2353,7 @@
 1. 【[六月债，还得快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_iuh_zhae_huaen_deh_kuae.md#六月债，还得快)】`loh8 iuh8 zhae5 huaen2 deh kuae5` <sup>[兴化]</sup> 俗语。六月接近秋收及中秋节前还账的日子。借指报复之速：“……～，他便借着弓鞋把你取笑一回……”（《四杰传》九六）  
 1. 【[六块板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_kuae_baen.md#六块板)】`loh8 kuae5 baen3` <sup>[如皋]</sup> 见“槥”。  
 1. 【[六块板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_kuae_baen.md#六块板)】`loh8 kuae5 baen3` <sup>[如皋]</sup> 棺材。  
-1. 【[六腊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_laeh.md#六腊)】`loh8 laeh8` <sup>[兴化]</sup> ① 六月和腊月。 ② （借）一年中酷热和严寒的日子。古有“～不登舟”“～不交兵”之说。｜谚曰：～不出门，是个大福人。  
+1. 【[六腊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_laeh.md#六腊)】`loh8 laeh8` <sup>[兴化]</sup> ① 六月和腊月。 ② （借）一年中酷热和严寒的日子。古有“～不登舟”“～不交兵”之说：谚曰：～不出门，是个大福人。  
 1. 【[六腊不登楼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_laeh_beh_den_leu.md#六腊不登楼)】`loh8 laeh8 beh7 den1 leu2` <sup>[东台]</sup> 指楼上夏天热，冬天冷，不像平房冬暖夏凉。  
 1. 【[六六双全](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_loh_shuan_qiun.md#六六双全)】`loh8 loh8 shuan1 qiun2` <sup>[如皋]</sup> 六，六亲。六六，夫妻双方的六亲。双，成双。全，齐全不缺。所有亲属双双对对都齐全。祝福语。  
 1. 【[六六通通](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_loh_ton_ton.md#六六通通)】`loh8 loh8 ton1 ton1` <sup>[兴化]</sup> 十分妥贴，不会变卦：那边说得～的，你放心。  

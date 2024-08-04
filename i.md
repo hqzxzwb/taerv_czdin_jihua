@@ -114,7 +114,7 @@
 1. 【[倚老卖老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_lo_mae_lo.md#倚老卖老)】`i3 lo3 mae6 lo3` <sup>[东台]</sup> 卖老资格。  
 1. 【[倚墙隑壁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_qian_kae_bieh.md#倚墙隑壁)】`i3 qian2 kae5 bieh7` <sup>[东台]</sup> 连站立都很困难，形容窝囊无用之人：宁养个扒墙上壁，不养个～。  
 1. 【[倚墙靠壁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_qian_ko_bieh.md#倚墙靠壁)】`i3 qian2 ko5 bieh7` <sup>[如皋]</sup> 软弱无力扶摸着走的样子。  
-1. 【[倚墙靠壁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_qian_ko_bieh.md#倚墙靠壁)】`i3 qian2 ko5 bieh7` <sup>[兴化]</sup> ① 倚着墙壁：每逢开会他总是～的打瞌睡。 ② （引）性情懦弱、孤僻，缺乏朝气。谚曰：宁养飞墙走壁，不养～。  
+1. 【[倚墙靠壁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_qian_ko_bieh.md#倚墙靠壁)】`i3 qian2 ko5 bieh7` <sup>[兴化]</sup> ① 倚着墙壁：每逢开会他总是～的打瞌睡。 ② （引）性情懦弱、孤僻，缺乏朝气：谚曰：宁养飞墙走壁，不养～。  
 1. 【[倚人总是假，跌倒自爬起](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_ren_zon_shr_jia_dih_do_cz_pa_qi.md#倚人总是假，跌倒自爬起)】`i3 ren2 zon3 shr6 jia3 dih7 do3 cz6 pa2 qi3` <sup>[东台]</sup> 自强不息最重要，自可以读若私。  
 1. 【[倚砟<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_zha_r.md#倚砟<sub>儿</sub>)】`i3 zha3 r` <sup>[如皋]</sup> 找借口接近：她带啊伢儿去叫奶奶，～向老爹爹打招呼。  
 1. 【[倚仗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_zhan.md#倚仗)】`i3 zhan5` <sup>[东台]</sup> 靠别人的势力和条件办事。  
@@ -225,7 +225,7 @@
 1. 【[爷老子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_lo_zz.md#爷老子)】`ia2 lo3 zz` <sup>[如东]</sup> ① 指父亲：他是你的～。 ② 对小儿的称呼，含有批评和疼爱的意思：你这个～，我真拿你没有办法。  
 1. 【[爷娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_nian.md#爷娘)】`ia2 nian` 父母  
 1. 【[爷娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_nian.md#爷娘)】`ia2 nian2` <sup>[如东]</sup> 父母。  
-1. 【[爷娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_nian.md#爷娘)】`ia2 nian2` <sup>[兴化]</sup> ① 父母。 ② 娘家：侄子是～家人。‖谚曰｜爷有娘有，不如已有。  
+1. 【[爷娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_nian.md#爷娘)】`ia2 nian2` <sup>[兴化]</sup> ① 父母。 ② 娘家：侄子是～家人。‖｜谚曰：爷有娘有，不如已有。  
 1. 【[爷娘侄子（女）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_nian_chih_zz.md#爷娘侄子（女）)】`ia2 nian2 chih8 zz（ny3）` <sup>[东台]</sup> 女子的哥哥或弟弟的儿子（女儿）：东台有句俗话“爷娘侄子，命根头子”。  
 1. 【[爷娘家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_nian_ga.md#爷娘家)】`ia2 nian2 ga` <sup>[如皋]</sup> 出室女称生父母家。  
 1. 【[爷娘家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_nian_ga.md#爷娘家)】`ia2 nian2 ga` <sup>[东台]</sup> 已婚妇女的娘家。  
@@ -315,7 +315,7 @@
 1. 【[夜饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_faen.md#夜饭)】`ia6 faen6` <sup>[如皋]</sup> 晚饭。  
 1. 【[夜饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_faen.md#夜饭)】`ia6 faen6` <sup>[如东]</sup> 晚饭。  
 1. 【[夜饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_faen.md#夜饭)】`ia6 faen6` <sup>[东台]</sup> 晚饭：～～，吃到鸭子生蛋。  
-1. 【[夜饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_faen.md#夜饭)】`ia6 faen6` <sup>[兴化]</sup> 晚饭。谚曰：～～，吃到鸭子生蛋。  
+1. 【[夜饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_faen.md#夜饭)】`ia6 faen6` <sup>[兴化]</sup> 晚饭：谚曰：～～，吃到鸭子生蛋。  
 1. 【[夜更头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_gen_teu.md#夜更头)】`ia6 gen1 teu` <sup>[如东]</sup> 半夜三更。  
 1. 【[夜更头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_gen_teu.md#夜更头)】`ia6 gen1 teu` <sup>[泰县]</sup> 半夜三更。  
 1. 【[夜膏谯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_go_qio.md#夜膏谯)】`ia6 go1 qio` <sup>[兴化]</sup> 熬夜：打～。  
@@ -638,7 +638,7 @@
 1. 【[羊脬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_po.md#羊脬)】`ian2 po1` <sup>[如东]</sup> 牛科动物山羊或绵羊的膀胱。  
 1. 【[羊<sub>儿</sub>疯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_r_fon.md#羊<sub>儿</sub>疯)】`ian2 r fon1` <sup>[如皋]</sup> 癫痫。  
 1. 【[羊<sub>儿</sub>疯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_r_fon.md#羊<sub>儿</sub>疯)】`ian2 r fon1` <sup>[如东]</sup> ① 癫痫。 ② 疯疯癫癫：他像个～一样。  
-1. 【[羊<sub>儿</sub>疯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_r_fon.md#羊<sub>儿</sub>疯)】`ian2 r fon1` <sup>[兴化]</sup> ① 癫痫：“老儿，你转怎的？好道是～发了！”（《西游记》七二） ② （喻）为取巧而装模作样。谚曰：～学三分，不要过河钱。  
+1. 【[羊<sub>儿</sub>疯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_r_fon.md#羊<sub>儿</sub>疯)】`ian2 r fon1` <sup>[兴化]</sup> ① 癫痫：“老儿，你转怎的？好道是～发了！”（《西游记》七二） ② （喻）为取巧而装模作样：谚曰：～学三分，不要过河钱。  
 1. 【[羊<sub>儿</sub>疯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_r_fon.md#羊<sub>儿</sub>疯)】`ian2 r fon1` <sup>[泰县]</sup> ① 羊癫疯。 ② 装疯卖傻。 ③ 简单的技艺：～学三份，过河不要钱。  
 1. 【[羊<sub>儿</sub>疯学三分，不要过河钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_r_fon_hah_saen_fen_beh_io_gu_hu_qin.md#羊<sub>儿</sub>疯学三分，不要过河钱)】`ian2 r fon1 hah8 saen1 fen1 beh7 io5 gu5 hu2 qin2` <sup>[东台]</sup> 洋儿疯也称羊角风，本指癫痫病，喻指有一技之长，到哪里都方便。  
 1. 【[羊<sub>儿</sub>傀疯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_r_kuae_fon.md#羊<sub>儿</sub>傀疯)】`ian2 r kuae3 fon1` <sup>[如皋]</sup> 见“傀”。  
@@ -693,7 +693,7 @@
 1. 【[养家活口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_jia_huh_keu.md#养家活口)】`ian3 jia1 huh8 keu3` <sup>[兴化]</sup> 养活家庭成员，也作“养家餬口”：我是手艺人，靠一双手来～。｜这两种东西，本来是炮仗店附带做做的，靠它赚钱吃饭，～的，怎么行呢？（汪曾祺《岁寒三友》）  
 1. 【[养脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_jiah.md#养脚)】`ian3 jiah7` <sup>[如皋]</sup> 喻鞋子宽松合脚。  
 1. 【[养精神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_jien_shen.md#养精神)】`ian3 jien1 shen` <sup>[兴化]</sup> 使精神饱满舒畅：没钱打肉吃，睡觉～。  
-1. 【[养命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_mien.md#养命)】`ian3 mien6` <sup>[兴化]</sup> 维持生命：寻钱～，不能为钱送命。｜这两锭银子乃是～之根，不争失了……一家良普，没甚过活……（《醒世恒言》十八）。也作“养性命”。谚曰｜佮伙儿～。  
+1. 【[养命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_mien.md#养命)】`ian3 mien6` <sup>[兴化]</sup> 维持生命：寻钱～，不能为钱送命。｜这两锭银子乃是～之根，不争失了……一家良普，没甚过活……（《醒世恒言》十八）。也作“养性命”。｜谚曰：佮伙儿～。  
 1. 【[养面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_min.md#养面)】`ian3 min6` <sup>[兴化]</sup> 将面条放在开水中多煮一会儿，使烂一些：来一腕～一。区别于“戗面”。  
 1. 【[养母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_mu.md#养母)】`ian3 mu3` <sup>[如东]</sup> 非血缘的抚养自己的母亲。  
 1. 【[养吖发下来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_nga_faeh_ha_lae_a.md#养吖发下来啊)】`ian3 nga faeh7 ha lae2 a` <sup>[如皋]</sup> 养得很胖，发福了。  
@@ -1829,7 +1829,7 @@
 1. 【[有名的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_mien_dii.md#有名的)】`ieu3 mien2 dii` <sup>[如皋]</sup> 出名的。  
 1. 【[有命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_mien.md#有命)】`ieu3 mien6` <sup>[兴化]</sup> 在危急中得救：他在危急关头，看见来啊几位民警，心想这下子～吖。  
 1. 【[有命没毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_mien_meh_mo.md#有命没毛)】`ieu3 mien6 meh8 mo2` <sup>[东台]</sup> 指事态十分危险，尽管不会死亡，也会有重伤。  
-1. 【[有命无毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_mien_v_mo.md#有命无毛)】`ieu3 mien6 v2 mo2` <sup>[兴化]</sup> 即使逃得性命，也将受到极大伤害：“那公子不是好说话的，惹着他～……”（《说唐》十三）也作“有命没毛”。谚曰｜麻雀子忑下烟囱——～。  
+1. 【[有命无毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_mien_v_mo.md#有命无毛)】`ieu3 mien6 v2 mo2` <sup>[兴化]</sup> 即使逃得性命，也将受到极大伤害：“那公子不是好说话的，惹着他～……”（《说唐》十三）也作“有命没毛”。｜谚曰：麻雀子忑下烟囱——～。  
 1. 【[有奶奶，没爹爹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_nae_nae_meh_dia_dia.md#有奶奶，没爹爹)】`ieu3 nae3 nae meh8 dia1 dia` <sup>[兴化]</sup> 形容不紧不慢的样子：你忙自己先走，等他～的，早唻！  
 1. 【[有耐耐，没耐耐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_nae_nae_meh_nae_nae.md#有耐耐，没耐耐)】`ieu3 nae6 nae6 meh8 nae6 nae6` <sup>[东台]</sup> 拖的时间或等的时间太长，令人很不耐烦。  
 1. 【[有爱主](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_ngae_zhv.md#有爱主)】`ieu3 ngae5 zhv3` <sup>[如东]</sup> 有人喜欢。  
@@ -2043,7 +2043,7 @@
 1. 【[盐墩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_den_r.md#盐墩<sub>儿</sub>)】`in2 den1 r` <sup>[如东]</sup> ① 烧盐的土墩，堆在地势较高的海滩上。也称灶墩儿。 ② 盐民居住的地方。  
 1. 【[盐碱地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_gaen_ti.md#盐碱地)】`in2 gaen3 ti6` <sup>[如东]</sup> 土壤中含有较多盐分的土地。  
 1. 【[盐缸一把，酱缸一把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_gan_ieh_ba_jian_gan_ieh_ba.md#盐缸一把，酱缸一把)】`in2 gan1 ieh7 ba3 jian5 gan1 ieh7 ba3` <sup>[兴化]</sup> 形容不停地摆弄物件：他从早到晚～，把自己弄成个泥人儿。  
-1. 【[盐滚汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_guen_tan.md#盐滚汤)】`in2 guen3 tan1` <sup>[兴化]</sup> 盐开水。谚曰：大补人参汤，小补～。  
+1. 【[盐滚汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_guen_tan.md#盐滚汤)】`in2 guen3 tan1` <sup>[兴化]</sup> 盐开水：谚曰：大补人参汤，小补～。  
 1. 【[盐官](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_gun.md#盐官)】`in2 gun1` <sup>[东台]</sup> 朝廷派驻产盐区管理盐业的官吏。（参见“西溪三杰”）  
 1. 【[盐花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_hua.md#盐花)】`in2 hua1` <sup>[东台]</sup> ① 极少量的盐：鱼汤面里𢮎点儿～。 ② 盐霜。  
 1. 【[盐花<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_hua_r.md#盐花<sub>儿</sub>)】`in2 hua1 r` <sup>[如东]</sup> 极少量的盐：熬汤时，放点儿～。  
@@ -2335,7 +2335,7 @@
 1. 【[欲不着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ioh_beh_chah.md#欲不着)】`ioh8 beh7 chah8` <sup>[东台]</sup> 用不着；不需要：这事我俫一定能够办好，～你操心。  
 1. 【[欲不着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ioh_beh_chah.md#欲不着)】`ioh8 beh7 chah8` <sup>[泰县]</sup> 不用：这回砌房子～你来。  
 1. 【[欲着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ioh_chah.md#欲着)】`ioh8 chah8` <sup>[如皋]</sup> 想要、愿望：他发咖热的，不～吃杲子；才出咖汗，～洗个澡。  
-1. 【[欲着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ioh_chah.md#欲着)】`ioh8 chah8` <sup>[兴化]</sup> 用得着：～他帮忙｜～人就低声下气的求人。｜谚曰｜～菩萨就烧香。  
+1. 【[欲着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ioh_chah.md#欲着)】`ioh8 chah8` <sup>[兴化]</sup> 用得着：～他帮忙｜～人就低声下气的求人。｜谚曰：～菩萨就烧香。  
 1. 【[欲着咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ioh_chah_ga.md#欲着咖)】`ioh8 chah8 ga` <sup>[东台]</sup> 动不动，隔三差五的：他俫几个人～就打伙去钓鱼。  
 1. 【[欲得着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ioh_deh_chah.md#欲得着)】`ioh8 deh7 chah8` <sup>[东台]</sup> 用得着的意思。  
 1. 【[欲笑不笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ioh_xio_beh_xio.md#欲笑不笑)】`ioh8 xio5 beh7 xio5` <sup>[东台]</sup> 似笑非笑的样子，表情比较神秘：他觉猜别人在旁敲侧击的批评他，脸上～的。  

@@ -152,7 +152,7 @@
 1. 【[打搞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_go.md#打搞)】`da3 go3` <sup>[泰县]</sup> 打交道。  
 1. 【[打搞说笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_go_shuh_xio.md#打搞说笑)】`da3 go3 shuh7 xio5` <sup>[如皋]</sup> 打打闹闹。  
 1. 【[打稿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_go_zz.md#打稿子)】`da3 go3 zz` <sup>[兴化]</sup> （借）想对策：见人家找他要债，他心里～用甚的话回复。  
-1. 【[打公骂婆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_gon_ma_pu.md#打公骂婆)】`da3 gon1 ma6 pu2` <sup>[兴化]</sup> 形容为媳者凶悍忤逆：“你这妇人只好在家中狠，～，这里狠不出米的……”（《三刻》六）｜谚曰｜～，拖男将下河。  
+1. 【[打公骂婆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_gon_ma_pu.md#打公骂婆)】`da3 gon1 ma6 pu2` <sup>[兴化]</sup> 形容为媳者凶悍忤逆：“你这妇人只好在家中狠，～，这里狠不出米的……”（《三刻》六）｜谚曰：～，拖男将下河。  
 1. 【[打过门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_gu_men.md#打过门)】`da3 gu5 men2` <sup>[如皋]</sup> 见“带彩”。  
 1. 【[打过门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_gu_men.md#打过门)】`da3 gu5 men2` <sup>[兴化]</sup> （借）以虚言搪塞，遮掩实情：一个门里平白无故连死两个，一父一女，皆是暴死，难～。（《皮五辣子》一）  
 1. 【[打过门<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_gu_men_r.md#打过门<sub>儿</sub>)】`da3 gu5 men2 r` <sup>[如皋]</sup> 原指演戏中间用打击乐器演奏“过门”，借指蒙混、搪塞、帮助掩饰。  
@@ -426,7 +426,7 @@
 1. 【[打时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_shr.md#打时)】`da3 shr2` <sup>[兴化]</sup> 即“起数”，占卜的一种。问疑者报一时辰，再说出欲问之事（如失物、行人等），由卜者推算吉凶。  
 1. 【[打时局](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_shr_qioh.md#打时局)】`da3 shr2 qioh8` <sup>[兴化]</sup> 耽搁时间：发现中风病人要立即送医院抢救，不能～。  
 1. 【[打是欢喜骂是惯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_shr_hun_xi_ma_shr_guaen.md#打是欢喜骂是惯)】`da3 shr6 hun1 xi3 ma6 shr6 guaen5` <sup>[东台]</sup> 相爱者之间打骂是表达爱意的一种方式。  
-1. 【[打霜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_shuan.md#打霜)】`da3 shuan1` <sup>[兴化]</sup> 经霜。谚曰：～的青菜赛羊肉。  
+1. 【[打霜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_shuan.md#打霜)】`da3 shuan1` <sup>[兴化]</sup> 经霜：谚曰：～的青菜赛羊肉。  
 1. 【[打水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_shuei.md#打水)】`da3 shuei3` <sup>[如东]</sup> ① 用抽水机从河里把水抽上来。 ② 用水桶从井里把水提上来。  
 1. 【[打水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_shuei.md#打水)】`da3 shuei3` <sup>[兴化]</sup> 抽水灌田：下田～。  
 1. 【[打水不浑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_shuei_beh_huen.md#打水不浑)】`da3 shuei3 beh7 huen2` <sup>[兴化]</sup> ① （喻）人少、声势小，不能形成局面：他俫两个小科长下去～，不能解决问题。 ② 钱少办不了事：“……你如今两串钱儿，～的做什么？”（《金瓶梅词话》八六）  
@@ -612,7 +612,7 @@
 1. 【[大刀面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_do_min.md#大刀面)】`da6 do1 min6` <sup>[如皋]</sup> 见“切面”。  
 1. 【[大冬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_don.md#大冬)】`da6 don1` <sup>[如皋]</sup> 冬至日。见“冬节”。  
 1. 【[大冬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_don.md#大冬)】`da6 don1` <sup>[东台]</sup> 冬至，相对于前一天小冬而言。（见“冬至”）民间称“过冬”，并有“大冬大似年”的说法。  
-1. 【[大冬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_don.md#大冬)】`da6 don1` <sup>[兴化]</sup> 冬至日，相对于前一日“小冬”。谚曰：～大似年，小冬不值钱。  
+1. 【[大冬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_don.md#大冬)】`da6 don1` <sup>[兴化]</sup> 冬至日，相对于前一日“小冬”：谚曰：～大似年，小冬不值钱。  
 1. 【[大𤒘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_duh.md#大𤒘)】`da6 duh7` <sup>[如皋]</sup> 见“满𤒘”。  
 1. 【[大肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_dv_zz.md#大肚子)】`da6 dv3 zz` <sup>[如东]</sup> ① 人的肚皮十分肥胖。 ② 比喻妇女已经怀孕了：她挺吖个～。  
 1. 【[大肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_dv_zz.md#大肚子)】`da6 dv3 zz` <sup>[如皋]</sup> ① 指孕妇。 ② 脂肪堆积，腹部隆起。 ③ 食量大。  
@@ -1518,7 +1518,7 @@
 1. 【[当饱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_bo.md#当饱)】`dan5 bo3` <sup>[兴化]</sup> 可以充肌：角老菱又好吃又当饱。  
 1. 【[当顿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_den.md#当顿)】`dan5 den5` <sup>[如皋]</sup> 同“当饱”。作为主食，作为正餐。  
 1. 【[当典](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_din.md#当典)】`dan5 din3` <sup>[兴化]</sup> 当铺：北门～；东门～。  
-1. 【[当坊土地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_fan_tv_ti.md#当坊土地)】`dan5 fan1 tv3 ti6` <sup>[兴化]</sup> ① 即本坊士地爷。“坊”为旧时城镇社区基层单位。 ② （喻）当地大小官员。谚曰：～当坊灵。  
+1. 【[当坊土地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_fan_tv_ti.md#当坊土地)】`dan5 fan1 tv3 ti6` <sup>[兴化]</sup> ① 即本坊士地爷。“坊”为旧时城镇社区基层单位。 ② （喻）当地大小官员：谚曰：～当坊灵。  
 1. 【[当过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_gu.md#当过)】`dan5 gu5` <sup>[如东]</sup> 老早，很早：～就有啊。  
 1. 【[当鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_guei.md#当鬼)】`dan5 guei3` <sup>[如皋]</sup> 不信任：他拿我～，处处防我。  
 1. 【[当票](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_pio.md#当票)】`dan5 pio5` <sup>[东台]</sup> 当铺所开的票据。  
@@ -1688,7 +1688,7 @@
 1. 【[驐牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_ngeu.md#驐牛)】`den1 ngeu2` <sup>[如皋]</sup> 骟过的公黄牛，其行动沉稳有耐力。常喻人曰：慢～、老～。  
 1. 【[驐牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_ngeu.md#驐牛)】`den1 ngeu2` <sup>[东台]</sup> 骟去生殖器的公牛，这种牛体型高大，两角张开特别宽。  
 1. 【[驐牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_ngeu.md#驐牛)】`den1 ngeu2` <sup>[兴化]</sup> 阉割过的公牛。  
-1. 【[戥秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_chen.md#戥秤)】`den3 chen5` <sup>[兴化]</sup> 衡器的通秤。谚曰：家有黄金，外有～。  
+1. 【[戥秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_chen.md#戥秤)】`den3 chen5` <sup>[兴化]</sup> 衡器的通秤：谚曰：家有黄金，外有～。  
 1. 【[戥盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_pun.md#戥盘)】`den3 pun2` <sup>[如东]</sup> 台秤的一种器具，圆盘形。把物放在里面称，衡量重量。  
 1. 【[戥盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_pun.md#戥盘)】`den3 pun2` <sup>[兴化]</sup> 带盘子的杆秤。  
 1. 【[戥盘秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_pun_chen.md#戥盘秤)】`den3 pun2 chen5` <sup>[东台]</sup> 比戥子大，以绳系连接盘子盛物测定物体重量的秤。  
@@ -2062,7 +2062,7 @@
 1. 【[顶马盖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_ma_gae.md#顶马盖)】`dien3 ma3 gae5` <sup>[兴化]</sup> （戏）闹新房时，要小叔子把新马桶的盖子顶在头上，称“为嫂嫂～”。  
 1. 【[顶马桶盖<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_ma_ton_gae_r.md#顶马桶盖<sub>儿</sub>)】`dien3 ma3 ton3 gae5 r` <sup>[如皋]</sup> 嘲笑语，指惧内。  
 1. 【[顶门杠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_men_gan.md#顶门杠)】`dien3 men2 gan5` <sup>[兴化]</sup> 抵门用的杠子，“T”形。  
-1. 【[顶面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_min.md#顶面)】`dien3 min6` <sup>[兴化]</sup> 迎面、面对面：两个人在大街上～相遇。谚曰｜谈谎就怕三～。  
+1. 【[顶面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_min.md#顶面)】`dien3 min6` <sup>[兴化]</sup> 迎面、面对面：两个人在大街上～相遇。｜谚曰：谈谎就怕三～。  
 1. 【[顶吖碓臼唱戏——出力不讨好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_nga_dy_qieu_chan_xi_chueh_lieh_beh_to_ho.md#顶吖碓臼唱戏——出力不讨好)】`dien3 nga dy5 qieu6 chan5 xi5 chueh7 lieh8 beh7 to3 ho3` <sup>[东台]</sup>   
 1. 【[顶吖面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_nga_min.md#顶吖面)】`dien3 nga min6` <sup>[东台]</sup> 面对面：有的伢儿不懂礼貌，遇到长辈，～也不打招呼。  
 1. 【[顶吖脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_nga_no.md#顶吖脑)】`dien3 nga no3` <sup>[东台]</sup> 到了顶，没有余地了：后头的人不要往前挤，前头已经～｜这件事寻到一把手，算是～。  
@@ -2237,7 +2237,7 @@
 1. 【[点点脚班](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_din_jiah_baen.md#点点脚班)】`din3 din3 jiah7 baen1` <sup>[如皋]</sup> 见“老鹰扠小鸡儿”。  
 1. 【[点电灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_din_den.md#点电灯)】`din3 din5 den1` <sup>[如皋]</sup> 使用电灯，开亮电灯。  
 1. 【[点刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_do.md#点刀)】`din3 do1` <sup>[东台]</sup> 堤西民间对肉圆的代称。  
-1. 【[点到为知](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_do_vei_zhr.md#点到为知)】`din3 do5 vei2 zhr1` <sup>[兴化]</sup> 只要稍加提示或启发，就明白了对方的意思。谚曰：光棍～。也作“点到为止”。  
+1. 【[点到为知](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_do_vei_zhr.md#点到为知)】`din3 do5 vei2 zhr1` <sup>[兴化]</sup> 只要稍加提示或启发，就明白了对方的意思：谚曰：光棍～。也作“点到为止”。  
 1. 【[点到为止](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_do_vei_zhr.md#点到为止)】`din3 do5 vei2 zhr3` <sup>[东台]</sup> ［喻］讲话时稍微点到要害处，就不再往下说：你是个聪明人，今吖子～，明朝再细谈。  
 1. 【[点粪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_fen.md#点粪)】`din3 fen5` <sup>[如皋]</sup> 用料勺向定点处浇适量的粪肥。  
 1. 【[点杆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_gun.md#点杆)】`din3 gun1` <sup>[如东]</sup> ① 支撑物体的杆子。 ② 帆船上测量水深的竹竿。  
@@ -2472,7 +2472,7 @@
 1. 【[倒火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_hu.md#倒火)】`do3 hu3` <sup>[如皋]</sup> 煮得过长久，食物溶融。  
 1. 【[倒火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_hu.md#倒火)】`do3 hu3` <sup>[如皋]</sup> 过火后融溶。  
 1. 【[倒架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_jia_zz.md#倒架子)】`do3 jia5 zz` <sup>[兴化]</sup> 坏了规矩，丧失权威：“……凡事立起体统来不可自己倒了架子……”（《儒林外史》二十）  
-1. 【[倒酱架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_jian_jia_zz.md#倒酱架子)】`do3 jian5 jia5 zz` <sup>[兴化]</sup> （借）指内部互相揭短。谚曰：宁倒酱缸，不～。  
+1. 【[倒酱架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_jian_jia_zz.md#倒酱架子)】`do3 jian5 jia5 zz` <sup>[兴化]</sup> （借）指内部互相揭短：谚曰：宁倒酱缸，不～。  
 1. 【[倒马叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_ma_cha.md#倒马叉)】`do3 ma3 cha1` <sup>[泰县]</sup> （禁忌语）坏蛋。  
 1. 【[倒马车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_ma_cha.md#倒马车)】`do3 ma3 cha1` <sup>[东台]</sup> ［喻］全部受损了，完了。  
 1. 【[倒霉瞌𥅻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_mei_kuh_chon.md#倒霉瞌𥅻)】`do3 mei2 kuh7 chon5` <sup>[东台]</sup> 因运气、遭遇不好而垂头丧气，没精打采。  

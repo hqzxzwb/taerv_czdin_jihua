@@ -830,7 +830,7 @@
 1. 【[狗二的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_er_dii.md#狗二的)】`geu3 er6 dii` <sup>[如皋]</sup> “肏”转为“二”，俏骂语。  
 1. 【[狗哼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_hen.md#狗哼)】`geu3 hen1` <sup>[兴化]</sup> 对哼、唱的贬义说法：饿得～；疼得～；热得～｜“从来南曲没有唱得这等妙的……如今京师虽有数十班，总似～一般。”（《梼杌闲评》七）  
 1. 【[狗獾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_hun.md#狗獾)】`geu3 hun1` <sup>[如东]</sup> 鼬科动物狗獾，体较肥大，身长55厘米。  
-1. 【[狗也嫌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_ia_xin.md#狗也嫌)】`geu3 ia xin2` <sup>[兴化]</sup> 连狗都讨厌的人，常指七八岁的半大小子。因其非常顽皮，故有此说。谚曰：七岁八岁～。  
+1. 【[狗也嫌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_ia_xin.md#狗也嫌)】`geu3 ia xin2` <sup>[兴化]</sup> 连狗都讨厌的人，常指七八岁的半大小子。因其非常顽皮，故有此说：谚曰：七岁八岁～。  
 1. 【[狗脚斑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_jiah_baen.md#狗脚斑)】`geu3 jiah7 baen1` <sup>[东台]</sup> ① 一种野草，叶细长，有茸毛，猪羊可食，又叫狗脚印。 ② 对文字的蔑称：“文革”时造反派对老师说，你俫不过多识咖几个～，有甚的了不起？ ③ 对自己写字的谦词：我那几个～实在拿不出手。  
 1. 【[狗脚班<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_jiah_baen_r.md#狗脚班<sub>儿</sub>)】`geu3 jiah7 baen1 r` <sup>[泰县]</sup> 学习不好或识字不多的人：他是个～。  
 1. 【[狗窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_ku.md#狗窠)】`geu3 ku1` <sup>[如皋]</sup> ① 狗窝。 ② 昵称婴儿床铺。 ③ 詈语。指遢、肮脏的环境：活像个～。  
