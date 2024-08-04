@@ -826,14 +826,7 @@
 1. 【[𢭗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan.md#𢭗)】`lan3` <sup>[如皋]</sup> 耽延：他的案子～吖在下，一～就是三年。如皋词典写“冷”。  
 1. 【[𢭗吖下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_nga_ha.md#𢭗吖下)】`lan3 nga ha` <sup>[如皋]</sup> 耽延着。  
 1. 【[𧚅裆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_dan_r.md#𧚅裆<sub>儿</sub>)】`lan3 dan5 r` <sup>[如皋]</sup> ① 布筋、碎布条：破布儿～。 ② 沾满小粒的虫丝团：米生吖～。 ③ 肉类切下来软而不成形的一类。  
-1. 【[㫰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan.md#㫰)】`lan6` 晾晒  
-1. 【[㫰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan.md#㫰)】`lan6` <sup>[如东]</sup> 吊起来。  
-1. 【[㫰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan.md#㫰)】`lan6` <sup>[如皋]</sup> 晾晒：洗过的衣服～起来晒干。  
-1. 【[㫰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan.md#㫰)】`lan6` <sup>[东台]</sup> 把东西放在通风或阴凉的地方，使之干燥。  
-1. 【[㫰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan.md#㫰)】`lan6` <sup>[兴化]</sup> ① 晾晒：～衣裳｜～被单。 ② 《集韵·宕韵》郎宅切“～，暴也”。  
-1. 【[㫰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan.md#㫰)】`lan6` <sup>[泰县]</sup> 晾：～衣装。（《集韵》去声宕韵郎宕切：“暴也”。）  
-1. 【[㫰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan.md#㫰)】`lan6` <sup>[泰县]</sup> 挂，张开：～衣裳。  
-1. 【[㫰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan.md#㫰)】`lan6` <sup>[泰州]</sup> ① 将衣服、物件放在通风之处使干燥：你把空调开开，～吖房间的衣裳顶多半天就干吖唻。 ② 将洗过的衣服挂起来：把衣裳～吖天井里去。 ③ 故意冷落某人：大家在桌上有说有笑，把他～吖边上，没得一个人搭他。  
+1. 【[㫰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan.md#㫰)】`lan6` ① <sup>\[如皋\]\[东台\]\[兴化\]\[泰县\]\[泰州\]\[如东\]</sup>悬挂展开，常为了晾晒：～衣裳｜～被单｜洗过的衣服～起来晒干<sup>\[如皋\]</sup>｜你把空调开开，～吖房间的衣裳顶多半天就干吖唻。<sup>\[泰州\]</sup>｜把衣裳～吖天井里去。<sup>\[泰州\]</sup> ② <sup>\[泰州\]</sup>故意冷落某人：大家在桌上有说有笑，把他～吖边上，没得一个人搭他。<sup>\[泰州\]</sup>  
 1. 【[㫰车绳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_cha_shen.md#㫰车绳)】`lan6 cha1 shen2` <sup>[如东]</sup> 水车部件。一头系在水车绞关上，一头兜着水车槽筒，可以调节水车上升或下降。  
 1. 【[㫰船星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_chun_xien.md#㫰船星)】`lan6 chun2 xien1` <sup>[如东]</sup> 大熊座。凌晨升起在东方，形如一只船。  
 1. 【[㫰风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_fon.md#㫰风)】`lan6 fon1` <sup>[兴化]</sup> 航船利用风力扬帆前进：㫰顺风｜㫰旁风｜～船行得快。‖“帆”兴化又称“篷”，故又称“㫰篷”。  
@@ -847,7 +840,7 @@
 1. 【[㫰门敞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_men_chan.md#㫰门敞)】`lan6 men chan3, la1 men chan3` <sup>[如皋]</sup> 大门洞开，无人看管；无关拦，不设防。  
 1. 【[㫰门敞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_men_chan.md#㫰门敞)】`lan6 men2 chan3` <sup>[如东]</sup> 房屋没有大门，没有遮栏。  
 1. 【[㫰篷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_pon.md#㫰篷)】`lan6 pon2` <sup>[兴化]</sup> 航船利用风力扬帆前进。  
-1. 【[浪（𧻴）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan.md#浪（𧻴）)】`lan6` <sup>[如皋]</sup> ① 荒疏：他把学业～掉啊。 ② 浪荡：他成天的在外头～，不归家。 ③ 拖：～工。 ④ 拖延、等待：吃咖夜饭～～尿再睏。  
+1. 【[浪/𧻴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan.md#浪/𧻴)】`lan6` <sup>[如皋]</sup> ① 荒疏：他把学业～掉啊。 ② 浪荡：他成天的在外头～，不归家。 ③ 拖：～工。 ④ 拖延、等待：吃咖夜饭～～尿再睏。  
 1. 【[浪流浪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_lieu_lan.md#浪流浪)】`lan6 lieu2 lan6` <sup>[如皋]</sup> 言行举止漂浮，不可信任。  
 1. 【[浪荡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_tan.md#浪荡)】`lan6 tan6` <sup>[如东]</sup> 不务正业，到处游荡。  
 1. 【[浪荡公子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_tan_gon_zz.md#浪荡公子)】`lan6 tan6 gon1 zz` <sup>[如东]</sup> 游手好闲的人：王二是个～。  
