@@ -84,7 +84,6 @@
 1. 【[菜椒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_jio.md#菜椒)】`cae5 jio1` <sup>[兴化]</sup> 辣椒的一个品种，形状像柿子，味不太辣而略带甜味。又称“甜椒”“灯笼椒”。  
 1. 【[菜馒头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_mun_teu.md#菜馒头)】`cae5 mun2 teu` <sup>[如皋]</sup> 以蔬菜为馅的馒头。  
 1. 【[菜青虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_qien_chon.md#菜青虫)】`cae5 qien1 chon2` <sup>[如皋]</sup> 莱粉蝶的幼虫。  
-1. 【[菜沙啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_sha_a.md#菜沙啊)】`cae5 sha5 a` <sup>[东台]</sup> 青菜因虫害出现小孔。  
 1. 【[菜蔬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_shv.md#菜蔬)】`cae5 shv` <sup>[如皋]</sup> 菜类的统称。  
 1. 【[菜蔬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_shv.md#菜蔬)】`cae5 shv` <sup>[兴化]</sup> ① 蔬菜。 ② 家常副食或筵席上所备的各种菜肴。  
 1. 【[菜苔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_tae.md#菜苔)】`cae5 tae2` <sup>[如皋]</sup> 见“菜莛儿”。  
@@ -1521,7 +1520,7 @@
 1. 【[冲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon.md#冲)】`chon5` <sup>[如皋]</sup> ① 刺激：酒气～人子。 ② 愤激而不冷静：一～之性。如皋词典写上声。  
 1. 【[冲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon.md#冲)】`chon5` <sup>[如皋]</sup> 以言触人：一个喷嚏把他～吖多远。  
 1. 【[冲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon.md#冲)】`chon5` <sup>[东台]</sup> 除一般释义外，与“噌”同义：再啰唆，别怪我～吖你。  
-1. 【[冲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon.md#冲)】`chon5` <sup>[兴化]</sup> 顶撞。《集韵·用韵》竹用切：“～，言相触”。俗作“冲”：你再啰唆，覅怪我～吖你！｜他现在脾气坏，动不动就～人。  
+1. 【[冲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon.md#冲)】`chon5` <sup>[兴化]</sup> 顶撞：你再啰唆，覅怪我～吖你！｜他现在脾气坏，动不动就～人。  
 1. 【[冲床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_chuan.md#冲床)】`chon5 chuan2` <sup>[如东]</sup> 用冲压方法使金属板成形或在金属板上冲孔的加工机床。也叫冲压床或压力机。  
 1. 【[冲你（他）个万斤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_nii_gu_vaen_jien.md#冲你（他）个万斤)】`chon5 nii3 （ta1） gu vaen6 jien1` <sup>[东台]</sup> 狠狠地冲（回击）对方。  
 1. 【[冲人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_ren_zz.md#冲人子)】`chon5 ren zz` <sup>[如皋]</sup> 见“冲头”。如皋词典写上声。  
@@ -2632,7 +2631,7 @@
 1. 【[撮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuh.md#撮)】`cuh7` <sup>[东台]</sup> 用力向上猛一托：帮我把这一箩稻子～上肩。  
 1. 【[撮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuh.md#撮)】`cuh7` <sup>[兴化]</sup> ① 用手或工具将细碎的东西聚拢：把场上小麦～起来。 ② 量词：一～子芝麻｜一～盐。  
 1. 【[撮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuh.md#撮)】`cuh7` <sup>[兴化]</sup> 帮人把重物搭上肩：～笆斗｜一～就上肩。  
-1. 【[撮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuh.md#撮)】`cuh7` <sup>[泰州]</sup> ① 一人或者多人用力以手托起人或物：曹操得命，西北而走，至江岸，众人撮曹公上马。(《三国志平话》)｜哥哥，不消商量，我们到那没梆铃，不防卫处，撮着师父爬过墙去罢。（《西游记》）｜这袋米有一百多斤，你帮他～上肩，把它扛家去！ ② 以手或者手持工具将碎散的东西聚拢以后装进簸箕：原来那里两扇石门被火气化成灰烬，门里边有几个小妖，正然扫地撮灰。（《西游记》）｜（女子）在那枯树下撮黄叶、摘枯枝为薪。（《东度记》）｜（春梅）走到前边，撮了一筐草，到印子舖门首叫门。（《金瓶梅词话》） ③ ｜你去拿个畚斗儿把地下的灰～掉。  
+1. 【[撮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuh.md#撮)】`cuh7` <sup>[泰州]</sup> ① 一人或者多人用力以手托起人或物：曹操得命，西北而走，至江岸，众人撮曹公上马。(《三国志平话》)｜哥哥，不消商量，我们到那没梆铃，不防卫处，撮着师父爬过墙去罢。（《西游记》）｜这袋米有一百多斤，你帮他～上肩，把它扛家去！ ② 以手或者手持工具将碎散的东西聚拢以后装进簸箕：原来那里两扇石门被火气化成灰烬，门里边有几个小妖，正然扫地撮灰。（《西游记》）｜（女子）在那枯树下撮黄叶、摘枯枝为薪。（《东度记》）｜（春梅）走到前边，撮了一筐草，到印子舖门首叫门。（《金瓶梅词话》）｜你去拿个畚斗儿把地下的灰～掉。  
 1. 【[撮撮忙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuh_cuh_man.md#撮撮忙)】`cuh7 cuh7 man2` <sup>[如东]</sup> 帮帮忙：我忙不过来，请你～。  
 1. 【[撮撮忙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuh_cuh_man.md#撮撮忙)】`cuh7 cuh7 man2` <sup>[东台]</sup> 帮帮忙：你活技多，我来～。  
 1. 【[撮撮手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuh_cuh_sheu.md#撮撮手)】`cuh7 cuh7 sheu3` <sup>[如东]</sup> 帮帮忙：我很忙，请你～。  

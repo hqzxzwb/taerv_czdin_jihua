@@ -1442,7 +1442,7 @@
 1. 【[跋搅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh_jio.md#跋搅)】`puh8 jio3` <sup>[兴化]</sup> 各方面开销：现在私人建房，材料、人工好算，～大发咖！也作“盘搅”。  
 1. 【[跋绞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh_jio.md#跋绞)】`puh8 jio3` <sup>[东台]</sup> 花销、费用：这一类的活动～太大，划不来，以后不能再搞啊。（“跋”疑似“盘”促化）  
 1. 【[钹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh.md#钹)】`puh8` <sup>[兴化]</sup> 把多出部分去掉：这块木头凸咖在外头，拿锯子～掉。  
-1. 【[拚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun.md#拚)】`pun1` <sup>[泰州]</sup> “拌”（【唐韻】普官切）的俗字。舍弃（时间精力金钱甚至生命等去争斗）：～死｜他敢拆我的房子，我就同他～命。  
+1. 【[拚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun.md#拚)】`pun1` <sup>[泰州]</sup> “拌”（普官切 pun1）的俗字。舍弃（时间精力金钱甚至生命等去争斗）：～死｜他敢拆我的房子，我就同他～命。  
 1. 【[拚不得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_beh_deh.md#拚不得)】`pun1 beh deh7` <sup>[如皋]</sup> 舍不得：购物时嫌价高，不愿多花钱。  
 1. 【[拚不起](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_beh_qi.md#拚不起)】`pun1 beh qi3` <sup>[如皋]</sup> 力量的能耐不能与人並比。  
 1. 【[拚不得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_beh_deh.md#拚不得)】`pun1 beh7 deh7` 舍不得  

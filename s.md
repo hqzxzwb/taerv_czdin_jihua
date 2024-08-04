@@ -23,6 +23,7 @@
 1. 【[洒水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa_shuei.md#洒水)】`sa3 shuei3` <sup>[如东]</sup> 用刷子蘸水向物体上抖落：向黄瓜苗上～。  
 1. 【[洒脱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa_tuh.md#洒脱)】`sa3 tuh7` <sup>[如东]</sup> （言谈、举止）自然，大方：这个伢儿经过大学学习，现在变得相当～。  
 1. 【[洒脱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa_tuh.md#洒脱)】`sa3 tuh7` <sup>[东台]</sup> 言谈举止潇洒，不拘束。  
+1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa.md#□)】`sa5` <sup>[泰州]</sup> 敲击有裂缝的陶器时发出的声音：这个缸敲啊有～声，怕的有点ㄦ漏。  
 1. 【[塞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa.md#塞)】`sa5` <sup>[如皋]</sup> 抲进：望嘴里～棉花。  
 1. 【[塞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa.md#塞)】`sa5` <sup>[兴化]</sup> 用干的纸筋灰、油石灰、麻丝等物把木桶、木船的缝隙堵塞起来：～桶；～𪳄子；～船板。  
 1. 【[㗷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sae.md#㗷)】`sae` <sup>[兴化]</sup> 表示不耐烦的语气：快点走～！｜别吵～！  
@@ -611,17 +612,12 @@
 1. 【[傻里傻气的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_lii_sha_qi_dii.md#傻里傻气的)】`sha3 lii sha3 qi5 dii` <sup>[如皋]</sup> 愚鲁型精神病人。  
 1. 【[舍不得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_beh_deh.md#舍不得)】`sha3 beh7 deh7` <sup>[东台]</sup> 不愿意放弃，不愿付出。  
 1. 【[舍得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_deh.md#舍得)】`sha3 deh` <sup>[如皋]</sup> 舍得。  
-1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha.md#□)】`sha5` <sup>[泰县]</sup> 菜被虫咬过后的形状：这个菜～啊，买家去不好吃。  
-1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha.md#□)】`sha5` <sup>[泰州]</sup> ① （泰州词典作㽂，反切不合） ② 这个砂锅～啊唻，不能再煮东西唻。 ③ 【】sa5 ④ 敲击有裂缝的陶器时发出的声音：这个缸敲啊有～声，怕的有点ㄦ漏。  
-1. 【[嗄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha.md#嗄)】`sha5` （嗓子）沙哑  
-1. 【[嗄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha.md#嗄)】`sha5` <sup>[如皋]</sup> ① 声音嘶哑：～喉咙。 ② 叶子被虫咬了小洞：青菜～啊。  
-1. 【[嗄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha.md#嗄)】`sha5` <sup>[如东]</sup> 喉咙嘶哑：喉咙～啊，话说不出来。  
-1. 【[嗄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha.md#嗄)】`sha5` <sup>[兴化]</sup> 嗓音嘶哑：喉咙冻～啊。｜喉咙喊～啊。  
-1. 【[嗄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha.md#嗄)】`sha5` <sup>[泰县]</sup> 发音沙哑：他今吖喉咙～啊。  
-1. 【[嗄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha.md#嗄)】`sha5` <sup>[泰州]</sup> 声音嘶哑：她是天生的～喉咙。｜连续上吖一个星期的课，嗓子都说咖～啊。  
+1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha.md#□)】`sha5` <sup>[泰州]</sup> ① （泰州词典作㽂，反切不合） ② 这个砂锅～啊唻，不能再煮东西唻。  
+1. 【[嗄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha.md#嗄)】`sha5` <sup>\[如皋\]\[如东\]\[兴化\]\[泰州\]\[泰县\]</sup>（喉咙、嗓子）音嘶哑：～喉咙<sup>\[如皋\]</sup>｜喉咙～啊，话说不出来<sup>\[如东\]</sup>｜喉咙冻～啊。<sup>\[兴化\]</sup>｜喉咙喊～啊。<sup>\[兴化\]</sup>｜她是天生的～喉咙。<sup>\[泰州\]</sup>｜连续上吖一个星期的课，嗓子都说咖～啊。<sup>\[泰州\]</sup>｜他今吖喉咙～啊。<sup>\[泰县\]</sup>  
 1. 【[嗄巴喉咙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_ba_heu_lon.md#嗄巴喉咙)】`sha5 ba heu2 lon2-3` <sup>[东台]</sup> 嗓子沙了，嗓音嘶哑不清脆：我是～喇叭声，唱歌难听。  
 1. 【[嗄喉咙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_heu_lon.md#嗄喉咙)】`sha5 heu2 lon` <sup>[兴化]</sup> 形容嗓音沙哑的人：来人是个～。  
 1. 【[嗄翅<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_zhr_r.md#嗄翅<sub>儿</sub>)】`sha5 zhr5 r` <sup>[如皋]</sup> 原指昆虫振翅发声嘶哑。后即发声嘶哑、嗄喉咙。  
+1. 【[沙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha.md#沙)】`sha5` <sup>\[如皋\]\[泰县\]\[东台\]</sup>（菜）受虫咬而多孔：青菜～啊<sup>\[如皋\]</sup>｜这个菜～啊，买家去不好吃<sup>\[泰县\]</sup>｜菜～啊<sup>\[东台\]</sup>  
 1. 【[舍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha.md#舍)】`sha5` <sup>[东台]</sup> 原指田头小草房，后用作地名：六里～｜王家～｜西～。  
 1. 【[舍<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_r.md#舍<sub>儿</sub>)】`sha5 r` <sup>[兴化]</sup> 见“舍子”。  
 1. 【[舍<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_r.md#舍<sub>儿</sub>)】`sha5 r` <sup>[泰县]</sup> 野外的小屋。  
