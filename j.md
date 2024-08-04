@@ -790,7 +790,7 @@
 1. 【[激](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh.md#激)】`jieh7` <sup>[如东]</sup> 水因震荡而上涌：河里～起啊一尺多高的浪头。  
 1. 【[激](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh.md#激)】`jieh7` <sup>[如皋]</sup> 将高温的食物用冷水冲、浸：鸡蛋煮熟之后要立即下冷水～，才离壳儿。  
 1. 【[激](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh.md#激)】`jieh7` <sup>[东台]</sup> 液体逆射：汽车从身边的水塘中穿过，～得浑身都是泥。  
-1. 【[激](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh.md#激)】`jieh7` <sup>[兴化]</sup> ① 用冷水冲泡使变凉：把西瓜放吖井水里～～。｜才煮的鸡蛋拿冷水一～就好剥咖。 ② 桨果等因过于饱满而开裂，果肉被挤出：葡萄一勒就～开来啊。 ③ 通过语言等刺激，使冲动：“不是我这么一～，那里听得着这段新闻呢……”（《二十年目睹之怪现状》七）｜谚曰｜请将不如～将。  
+1. 【[激](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh.md#激)】`jieh7` <sup>[兴化]</sup> ① 用冷水冲泡使变凉：把西瓜放吖井水里～～。｜才煮的鸡蛋拿冷水一～就好剥咖。 ② 桨果等因过于饱满而开裂，果肉被挤出：葡萄一勒就～开来啊。 ③ 通过语言等刺激，使冲动：“不是我这么一～，那里听得着这段新闻呢……”（《二十年目睹之怪现状》七）｜谚曰：请将不如～将。  
 1. 【[激](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh.md#激)】`jieh7` <sup>[泰州]</sup> 手深入盐卤或者冷水中受到刺激产生的灼痛感觉：他手上有冻疮，去切咸菜，不～人吖。丨我手上的裂口子捱卤～咖疼煞咖。丨冬天水再～人，她也要下河去汏衣裳。  
 1. 【[激咖耳头里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_ga_er_teu_lii.md#激咖耳头里)】`jieh7 ga er3 teu lii` <sup>[如皋]</sup> 声音过尖厉、过响、过近，使耳朵难受。  
 1. 【[激锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_gu.md#激锅)】`jieh7 gu1` <sup>[如东]</sup> 揭开烧透的饭锅加点冷水降温，叫做激锅。  
@@ -809,7 +809,7 @@
 1. 【[级长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_zhan.md#级长)】`jieh7 zhan3` <sup>[如皋]</sup> 后改为班长，经选举并报学校批准的学生领袖。另有“班长”“班主席”。  
 1. 【[给付](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_fv.md#给付)】`jieh7 fv5` <sup>[东台]</sup> 交付：凭票～。  
 1. 【[给假](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_jia.md#给假)】`jieh7 jia3` <sup>[东台]</sup> 准予休假。  
-1. 【[脊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh.md#脊)】`jieh7` <sup>[东台]</sup> ① 人或动物背部中间的骨骼。 ② 物体中间高起的部分：屋～｜路～。  
+1. 【[脊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh.md#脊)】`jieh7` <sup>[东台]</sup> ① 人或动物背部中间的骨骼。 ② 物体中间高起的部分：屋～、路～。  
 1. 【[脊柱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_chv.md#脊柱)】`jieh7 chv6` <sup>[如东]</sup> 人体背部的一根主骨，起支撑全身的作用。也称脊梁骨。  
 1. 【[脊骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_gueh.md#脊骨)】`jieh7 gueh7` <sup>[如皋]</sup> 猪脊骨及骨间肉。作副食品。  
 1. 【[脊尖<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_jin_r.md#脊尖<sub>儿</sub>)】`jieh7 jin1 r` <sup>[如东]</sup> 瓦屋屋脊两端的突起建筑物。  

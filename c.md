@@ -2451,7 +2451,7 @@
 1. 【[俗气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_qi.md#俗气)】`coh8 qi5` <sup>[如东]</sup> ① 粗笨。 ② 不时兴：这套家具～。  
 1. 【[族](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh.md#族)】`coh8` <sup>[如皋]</sup> 聚结，集中  
 1. 【[族](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh.md#族)】`coh8` <sup>[泰县]</sup> ① 积聚：～住块儿。 ② 吸引聚集。方言志原释义“叮”：这荤菜不吃，摆啊那块～苍蝇。  
-1. 【[族](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh.md#族)】`coh8` <sup>[泰州]</sup> ① 特指（人群）聚集或者围聚：信访局门口～咖一大堆人，是哪个单位的人在上访吖？ ② 泛指动物聚集一处：你把酱缸盖啊好啊，高头～咖多少苍蝇！  
+1. 【[族](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh.md#族)】`coh8` <sup>[泰州]</sup> （人或动物）聚集：信访局门口～咖一大堆人，是哪个单位的人在上访吖？｜你把酱缸盖啊好啊，高头～咖多少苍蝇！  
 1. 【[族住块<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_chv_kuae_r.md#族住块<sub>儿</sub>)】`coh8 chv6 kuae5 r` <sup>[如皋]</sup> 聚集在一起。  
 1. 【[族谱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_pv.md#族谱)】`coh8 pv3` <sup>[东台]</sup> 家族或宗族记载本族世系和重要人物的文书。  
 1. 【[族蛆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_qy_zz.md#族蛆子)】`coh8 qy1 zz` <sup>[如皋]</sup> 见“拱蛆子”。  

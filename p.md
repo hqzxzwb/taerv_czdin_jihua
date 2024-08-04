@@ -172,14 +172,9 @@
 1. 【[攀垛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_du_zz.md#攀垛子)】`paen1 du3 zz` <sup>[如皋]</sup> 砌墙时，砌给墙加固的部分称之。  
 1. 【[攀阴亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_ien_qien.md#攀阴亲)】`paen1 ien1 qien1` <sup>[如皋]</sup> 旧时残存的一种风俗，为死人办“结婚”仪式。  
 1. 【[攀死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_sz.md#攀死)】`paen1 sz3` <sup>[泰县]</sup> 哪怕去死：～吃河豚。  
-1. 【[湴/踫/𨂝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen.md#湴/踫/𨂝)】`paen2` <sup>[泰州]</sup> 徒步涉过不深的水：这条河的水不深，一～就～过啊唻。  
 1. 【[𤖭穰子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_ran_zz.md#𤖭穰子)】`paen2 ran2 zz` <sup>[兴化]</sup> 骂女孩的话：细～，一点点大就学咖怪。  
 1. 【[𤖭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_zz.md#𤖭子)】`paen2 zz` <sup>[兴化]</sup> ① 劈成片的竹篾或剖开的芦苇：篾～｜芦柴～。 ② 碎瓦片、瓷片：瓦～。  
-1. 【[𨂝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen.md#𨂝)】`paen2` 也写作“踫”，涉水  
-1. 【[𨂝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen.md#𨂝)】`paen2` <sup>[如皋]</sup> 浅涉水。  
-1. 【[𨂝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen.md#𨂝)】`paen2` <sup>[如皋]</sup> 步渡水：下河～水，～到齐颈项。  
-1. 【[𨂝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen.md#𨂝)】`paen2` <sup>[兴化]</sup> 徒步涉水：～河；～水  
-1. 【[𨂝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen.md#𨂝)】`paen2` <sup>[泰县]</sup> 涉水：老头儿在下～水。  
+1. 【[𨂝/湴/踫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen.md#𨂝/湴/踫)】`paen2` <sup>\[如皋\]\[兴化\]\[泰县\]\[泰州\]</sup>徒步涉水：下河～水，～到齐颈项。<sup>\[如皋\]</sup>｜～河；～水<sup>\[兴化\]</sup>｜老头儿在下～水。<sup>\[泰县\]</sup>｜这条河的水不深，一～就～过啊唻。<sup>\[泰州\]</sup>  
 1. 【[𨂝本](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_ben.md#𨂝本)】`paen2 ben3` <sup>[如皋]</sup> ① 扳回本钱 ② 引指报复：他前首吃咖张家的亏，今朝带人来～的。  
 1. 【[𨂝本](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_ben.md#𨂝本)】`paen2 ben3` <sup>[如东]</sup> 把蚀掉的本钱赚回来：他还想～。  
 1. 【[𨂝本](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_ben.md#𨂝本)】`paen2 ben3` <sup>[东台]</sup> 通过努力把原来已经损失了的财富夺回来。  
