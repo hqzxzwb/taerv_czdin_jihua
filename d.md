@@ -1184,7 +1184,7 @@
 1. 【[搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daeh.md#搭)】`daeh7` <sup>[兴化]</sup> ① 抓住：这笔生意～住啊。｜民警一把～住小偷。 ② 偷取：存折捱小偷～咖去啊。  
 1. 【[搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daeh.md#搭)】`daeh7` <sup>[兴化]</sup> ① 乘：～船｜～车子｜～飞机｜次日清晨，赵海仙～船赶往南京……（兴文《赵海仙传说》）｜“……你譬如是搭坐我这船，～船的没有坐着中舱的道理。”（《广陵潮》六九） ② 又特指乘顺路的车船  
 1. 【[搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daeh.md#搭)】`daeh7` <sup>[泰州]</sup> ① 搭配，多指主物、好物之外搭配次物、差物：大的全捱你买啊走，小的我卖把哪个，你还要～两个小的㖸！ ② 非夫妻的男女双方勾搭成奸：这小伙同他厂里的个小马马儿～上吖。 ③ 两人或多人同时使劲用双手托起物体：你倈过来几个人，把这张乒乓球桌子～咖里头去。  
-1. 【[搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daeh.md#搭)】`daeh7` <sup>[泰州]</sup> ① 量词，用于可叠加的纸类物品（*沓）：他手里拿啊一～钞票走出来啊。 ② 穿鞋时将鞋的后帮压在脚后跟下，仅仅套上脚尖拖着鞋子走路：他脚上～咖双鞋子出来开门。 ③ 佐酒；佐餐：你买点咸小菜儿家来，由吖晚上吃粥的时候～～。｜你到厨房里煠两个花生米子过来，把你家爹爹～酒。  
+1. 【[搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daeh.md#搭)】`daeh7` <sup>[泰州]</sup> ① 量词，用于可叠加的纸类物品（*沓）：他手里拿啊一～钞票走出来啊。 ② 穿鞋时将鞋的后帮压在脚后跟下，仅仅套上脚尖拖着鞋子走路：他脚上～咖双鞋子出来开门。 ③ 佐酒；佐餐：你买点咸小菜儿家来，由啊晚上吃粥的时候～～。｜你到厨房里煠两个花生米子过来，把你家爹爹～酒。  
 1. 【[搭/𦨎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daeh.md#搭/𦨎)】`daeh7` <sup>[泰州]</sup> 附乘他人交通工具：你下午要上南京，正好～小李的车子去。  
 1. 【[搭班](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daeh_baen.md#搭班)】`daeh7 baen1` <sup>[如东]</sup> 跟随着上班。  
 1. 【[搭板<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daeh_baen_r.md#搭板<sub>儿</sub>)】`daeh7 baen3 r` <sup>[如皋]</sup> 木板拖鞋。  
