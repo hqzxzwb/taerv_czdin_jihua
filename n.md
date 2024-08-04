@@ -1915,7 +1915,6 @@
 1. 【[脓颗疮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non_ku_chuan.md#脓颗疮)】`non2 ku1 chuan1` <sup>[兴化]</sup> 一种传染性皮肤病，分布在面部、手（虎口）、四肢等处。在红色丘疹上分布有绿豆大小的脓包，有瘙痒和疼痛感。  
 1. 【[脓头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non_teu.md#脓头)】`non2 teu2` <sup>[兴化]</sup> 疮疖最上部的脓块：……初时，累累然是些红瘰儿，到后都起了～儿。（《三刻》二十）  
 1. 【[脓头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non_teu_r.md#脓头<sub>儿</sub>)】`non2 teu2 r` <sup>[如皋]</sup> 脓肿区上部（表层）的白头儿。  
-1. 【[齈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non.md#齈)】`non2` <sup>[泰州]</sup> 黄色浓稠鼻涕：你把～擤得块块是的，意怪煞咖。  
 1. 【[𨑊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non.md#𨑊)】`non2` <sup>[兴化]</sup> ① 敷衍、糊弄：你有话实说，覅～人家。 ② 勉强混过：实在找不到旅馆，就在沙发上～一夜吧！｜《方言》卷十“～，奴动反……凡人语言过度，及妄施行，亦谓之～。”｜《吴下方言考》“……吴中谓勉强而充曰～得过。”  
 1. 【[𨑊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non.md#𨑊)】`non2` <sup>[泰州]</sup> 明知不妥而勉强凑合：暂时没得好房子把你蹾，你就现在这块～两天，底下我再来想办法。丨不要嫌菜不好吃，你就～住点ㄦ吧，能有人忙吖把你吃就不错唻。丨他这种人，只有你能同他～住啊过。  
 1. 【[挪移](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_i.md#挪移)】`nu2 i2` <sup>[兴化]</sup> ① 挪借：～款项。 ② 移动：向前～几步。  

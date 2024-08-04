@@ -80,8 +80,8 @@
 1. 【[大哥<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_gu_r.md#大哥<sub>儿</sub>)】`tae3 gu1 r, tae3 gu2 r` <sup>[如皋]</sup> 行一，老大。  
 1. 【[大气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_qi.md#大气)】`tae3 qi` <sup>[如东]</sup> 大方：不～。  
 1. 【[大大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_tae.md#大大)】`tae3 tae3` <sup>[泰县]</sup> 愉快满意  
-1. 【[奤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#奤)】`tae3` <sup>[泰州]</sup> ① 肥胖的人脸部粗大样子 ② 他家新妇坐啊个月子，脸上养吖～开来啊。  
-1. 【[骀*](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#骀*)】`tae3` <sup>[兴化]</sup> 肢体张开坐或倚：身子～下来啊。《集韵·海韵》荡亥切｜“～，疲也……”  
+1. 【[奤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#奤)】`tae3` <sup>[兴化]</sup> 肢体张开坐或倚：身子～下来啊。  
+1. 【[奤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#奤)】`tae3` <sup>[泰州]</sup> 肥胖的人脸部粗大样子：他家新妇坐啊个月子，脸上养吖～开来啊。  
 1. 【[太公](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_gon.md#太公)】`tae5 gon1` <sup>[如皋]</sup> 指称丈夫的祖父。  
 1. 【[太公](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_gon.md#太公)】`tae5 gon1` <sup>[兴化]</sup> 曾祖父：谚曰：有理打得～。通常称“太爷”。  
 1. 【[太阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian.md#太阳)】`tae5 ian` 太阳  
@@ -678,14 +678,13 @@
 1. 【[趟趟上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_tan_shan.md#趟趟上)】`tan5 tan5 shan6` <sup>[东台]</sup> 指每个节目或项目都参与的人：昨子的表演他～，来事！  
 1. 【[宕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#宕)】`tan6` <sup>[兴化]</sup> ① 拖延、搁起：这种事情要抓紧办，千万不能再～。 ② 任意花费：这几个钱背不住一～就光吖。  
 1. 【[宕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#宕)】`tan6` <sup>[泰州]</sup> 拖延：最近手头有点ㄦ紧，差你的钱再～几天还把你吧。  
-1. 【[盪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#盪)】`tan6` <sup>[泰州]</sup> 摇动容器内的水，洗涤器具：把碗～吖子再盛饭。  
 1. 【[荡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#荡)】`tan6` <sup>[如皋]</sup> ① 原是浅湖沼泽，后淤积成陆，但地势低。地名通名中有保留：北～、高阳～。变名有草荡、荡子、荡里。 ② 闲逛（原文作“趤”，僻。）：～马路｜从东头～到西头  
 1. 【[荡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#荡)】`tan6` <sup>[如东]</sup> ① 物体挂在绳上摆来摆去：篮子挂啊绳上～。 ② 洗，汰：洗好的碗再～下子。 ③ 闲散懒惰：他一天到晚在家里～。  
 1. 【[荡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#荡)】`tan6` <sup>[东台]</sup> ① 摇动；摆动。 ② 冲洗：把茶杯～一下。 ③ 积水洼地，或称浅水湖：天鹅～、中～、六～。 ④ 放纵，不检点：说话要负责任，不能“没提纲随口～”。  
 1. 【[荡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#荡)】`tan6` <sup>[兴化]</sup> 划船动作：只见有只小船从海面上远远～来……（《水浒后传》三六）｜说着，万二虎猛～几桨，准准与巡逻船擦帮而来。（马春阳《夜袭叹气庙》）  
 1. 【[荡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#荡)】`tan6` <sup>[兴化]</sup> ① 将热水在容器间倒来倒去，使变凉：～热茶。 ② 将刀斧口在砖石糙面上来回刮，使锋利：～刀。  
 1. 【[荡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#荡)】`tan6` <sup>[泰县]</sup> 汰：碗洗好啊再～下子。  
-1. 【[荡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#荡)】`tan6` <sup>[泰州]</sup> ① 刀斧等在磨刀石、布上来回磨动：这把厨刀有点钝唻，～啊子就好切吤。丨剃头刀在布上～两下子。 ② 稍稍碰到：火剪子烧啊红吖，你让啊子，～到就是个泡。  
+1. 【[荡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#荡)】`tan6` <sup>[泰州]</sup> ① 刀斧等在磨刀石、布上来回磨动：这把厨刀有点钝唻，～啊子就好切吤。丨剃头刀在布上～两下子。 ② 稍稍碰到：火剪子烧啊红吖，你让啊子，～到就是个泡。 ③ 摇动容器内的水，洗涤器具（*盪）：把碗～吖子再盛饭。  
 1. 【[荡刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_do.md#荡刀)】`tan6 do1` <sup>[如皋]</sup> 荡磨刀刃。  
 1. 【[荡刀布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_do_bv.md#荡刀布)】`tan6 do1 bv5` <sup>[如皋]</sup> 理发店荡磨剃刀的条状布。  
 1. 【[荡刀布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_do_bv.md#荡刀布)】`tan6 do1 bv5` <sup>[东台]</sup> 悬挂在理发店里，剃头匠用来荡抹剃头刀污垢的厚布。  
@@ -2317,8 +2316,8 @@
 1. 【[毻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#毻)】`tu5` <sup>[如皋]</sup> 皮、毛、齿等的新陈代谢：～皮、～毛、～头发、～奶齿、～疤儿、～壳。  
 1. 【[毻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#毻)】`tu5` <sup>[兴化]</sup> 鸟类换毛羽谓～毛。《广韵·过韵》汤卧切：“～，鸟易毛也”。  
 1. 【[毻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#毻)】`tu5` <sup>[泰州]</sup> 鸟类换毛：一地都是鸭子～的毛。  
+1. 【[毻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#毻)】`tu5` <sup>[泰州]</sup> 人、动物脱掉表层皮肤或者外壳（*蜕）：蚕ㄦ再～一次壳就上山唻。｜他请假家去收麦，身上晒啊～掉一层皮。  
 1. 【[毻毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_mo.md#毻毛)】`tu5 mo2` <sup>[东台]</sup> 落毛：庾信《老子庙应诏诗》“～新鹄小。”  
-1. 【[蜕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#蜕)】`tu5` <sup>[泰州]</sup> ① 动物脱掉表层皮肤或者外壳：蚕ㄦ再～一次壳就上山唻。 ② 人皮肤脱落：他请假家去收麦，身上晒啊～掉一层皮。  
 1. 【[垛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#垛)】`tu6` <sup>[如皋]</sup> 地名通名。如狮子～、蒋家、迥家～、王家～。  
 1. 【[垛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#垛)】`tu6` <sup>[东台]</sup> 本指堆积的东西或者高出周围的土墩，如草～、砖头～，后常用作地名：梁～、何～。  
 1. 【[垛圪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_geh.md#垛圪)】`tu6 geh7` <sup>[兴化]</sup> 河潮中狭长的土丘：圩外地区，一匡匡稻田，一条条～，四周都是河港。  

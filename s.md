@@ -3448,12 +3448,12 @@
 1. 【[菘蓝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_laen.md#菘蓝)】`son1 laen2` <sup>[如东]</sup> 十字花科植物菘蓝，二年生草本。高约90厘米。主根深长，外皮灰黄色。茎直立。叶互生，基生叶较大，叶片长圆状椭圆形；茎生叶长圆形至长圆状倒披针形，全缘。阔总状花序。花小，黄色。长角果长圆形，扁平翅状，具中肋。栽培。  
 1. 【[𪀚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_r.md#𪀚<sub>儿</sub>)】`son1 r` <sup>[如皋]</sup> 见“鸦虎”。  
 1. 【[𪀚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_r.md#𪀚<sub>儿</sub>)】`son1 r` <sup>[如皋]</sup> 行猎的鹰。即“鸦虎”。  
-1. 【[㞞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son.md#㞞)】`son2` <sup>[泰州]</sup> ① 精液。 ② 泛指某个男人， 詈词：这薄～一竟说话赖话，同他打过交道的都晓得。丨你这～中上到哪块去的，喊你喝酒，电话打不通。 ③ 名词后缀，詈指某种不良男性：呆～丨细～㞞丨坏～丨夯～ ④ 懦弱无能的样子：他骨子里～吖不得命。丨你望他这个～相噢。  
 1. 【[𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son.md#𪨊)】`son2` ［𪨊］精液；对人的贬称  
 1. 【[𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son.md#𪨊)】`son2` <sup>[如皋]</sup> ① 状无能、无用、无价值：这个～变吖个～形，做～事，说～话，实在太～！ ② 詈语，或指人：把这个～打啊跑！  
 1. 【[𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son.md#𪨊)】`son2` <sup>[如东]</sup> 精液。比喻人软弱无能：你这人是个～蛋！  
 1. 【[𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son.md#𪨊)】`son2` <sup>[东台]</sup> ① 男人和雄性动物的精液。 ② ［引］发泄鄙视、讨厌、抱怨等情绪的口头禅：没得～本事｜～牌老输｜贪污犯是坏～！ ③ 对小孩的昵称：这个～多神气！那个～不听话。  
 1. 【[𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son.md#𪨊)】`son2` <sup>[兴化]</sup> 儒弱无能：这个小伙真～，捱人指住鼻子骂也不敢回嘴。  
+1. 【[𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son.md#𪨊)】`son2` <sup>[泰州]</sup> ① 精液。 ② 泛指某个男人，詈词：这薄～一竟说话赖话，同他打过交道的都晓得。丨你这～中上到哪块去的，喊你喝酒，电话打不通。 ③ 名词后缀，詈指某种不良男性：呆～丨细～丨坏～丨夯～ ④ 懦弱无能的样子：他骨子里～吖不得命。丨你望他这个～相噢。  
 1. 【[𪨊话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_hua.md#𪨊话)】`son2 hua6` <sup>[如皋]</sup> 无力的、无骨气的话。  
 1. 【[𪨊话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_hua.md#𪨊话)】`son2 hua6` <sup>[如东]</sup> 软弱无力的言语：你不要说～。  
 1. 【[𪨊样<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_ian_r.md#𪨊样<sub>儿</sub>)】`son2 ian6 r` <sup>[如东]</sup> 比喻形样难看。  

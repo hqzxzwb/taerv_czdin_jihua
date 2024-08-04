@@ -2451,6 +2451,7 @@
 1. 【[聋子耳朵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_zz_er_du.md#聋子耳朵)】`lon2 zz er3 du` <sup>[兴化]</sup> 意为徒有其表。歇后语：～——摆设。  
 1. 【[聋子放鞭炮——眼看散吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_zz_fan_bin_po_ngaen_kun_saen_nga.md#聋子放鞭炮——眼看散吖)】`lon2 zz fan5 bin1 po5 ngaen3 kun5 saen5 nga` <sup>[东台]</sup>   
 1. 【[隆冬腊月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_don_laeh_iuh.md#隆冬腊月)】`lon2 don1 laeh8 iuh8` <sup>[如东]</sup> 阴历12月份，天气寒冷时期。  
+1. 【[齈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon.md#齈)】`lon2` <sup>[泰州]</sup> 黄色浓稠鼻涕：你把～擤得块块是的，意怪煞咖。  
 1. 【[龙把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_ba.md#龙把)】`lon2 ba3` <sup>[如东]</sup> 用芦苇或红草捆扎起来的很粗很长的把扶，放在扑屋屋脊上做固定红草、稻草或麦秸的基础。  
 1. 【[龙柏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_boh.md#龙柏)】`lon2 boh7` <sup>[如东]</sup> 柏科植物龙柏。  
 1. 【[龙钵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_buh.md#龙钵)】`lon2 buh7` <sup>[如皋]</sup> 外壁上部环状黄釉图案为龙的钵。一般指“头缽”，即大号钵。陶器。  

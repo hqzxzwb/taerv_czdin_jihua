@@ -215,7 +215,6 @@
 1. 【[凯然](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_rin.md#凯然)】`kae3 rin2` <sup>[如皋]</sup> 高兴  
 1. 【[楷<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_r.md#楷<sub>儿</sub>)】`kae3 r` <sup>[东台]</sup> 指人写的字：他的两个～不丑。  
 1. 【[螘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#螘)】`kae3` <sup>[如皋]</sup> 蚜虫。又称“腻虫”。  
-1. 【[愒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#愒)】`kae5` <sup>[泰州]</sup> 由于不努力或其他原因致使任务拖延，疑为“隑”引申：这桩事交把你有一个星期唻，明吖一定要交把我，不能再～啊。丨这小伙做事死～，你要是不催住他弄，他有得同你拖啊。  
 1. 【[箇<sub>许</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#箇<sub>许</sub>)】`kae5` 这里。箇许geh7 hae连读。  
 1. 【[隑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#隑)】`kae5` 靠在某处，倚靠  
 1. 【[隑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#隑)】`kae5` <sup>[如东]</sup> 依靠：～啊墙上。  
@@ -224,7 +223,7 @@
 1. 【[隑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#隑)】`kae5` <sup>[兴化]</sup> ① 斜倚者：～下来｜上床～刻儿。 ② 施延：～时间。 ③ 依赖：你～我，我～你。｜谚曰：大懒～小懒，伙计～老板。《方言》十三｜“～，倚也。”郭璞注｜“江南人呼梯为～，所以～物而登者也。”《集韵·代韵》口溉切｜“～，《博雅》陭也”。  
 1. 【[隑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#隑)】`kae5` <sup>[泰县]</sup> 斜靠，站立：你～啊门上做甚的？  
 1. 【[隑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#隑)】`kae5` <sup>[泰县]</sup> 斜靠：不要～啊那块。  
-1. 【[隑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#隑)】`kae5` <sup>[泰州]</sup> ① 使物体斜靠墙壁：你把这几根竹子先～啊墙上。 ② 背部倚靠在物体上（休息）：他一到家就望沙发上一～看报纸。  
+1. 【[隑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#隑)】`kae5` <sup>[泰州]</sup> ① 使物体斜靠墙壁：你把这几根竹子先～啊墙上。 ② 背部倚靠在物体上（休息）：他一到家就望沙发上一～看报纸。 ③ 由于不努力或其他原因致使任务拖延（*愒）：这桩事交把你有一个星期唻，明吖一定要交把我，不能再～啊。丨这小伙做事死～，你要是不催住他弄，他有得同你拖啊。  
 1. 【[隑啊下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_a_ha.md#隑啊下)】`kae5 a ha` <sup>[如皋]</sup> 斜靠着。  
 1. 【[隑帮肘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_ban_zheu.md#隑帮肘)】`kae5 ban1 zheu3` <sup>[如东]</sup> 钉在帆船船舱两壁上的梁子，叫隑帮肘。  
 1. 【[隑背](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_bei.md#隑背)】`kae5 bei5` <sup>[如皋]</sup> ① 椅背或沙发背等。 ② 垫在背和背之间，用以缓和及调正姿势的软垫。  
@@ -892,6 +891,7 @@
 1. 【[㧟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae.md#㧟)】`kuae3` <sup>[如皋]</sup> ① 推卸：她把带伢儿的事～啊把啊我。 ② 纠缠：他～住你，你让不掉。  
 1. 【[㧟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae.md#㧟)】`kuae3` <sup>[东台]</sup> 不平衡的意思：事情要大家出力，不能～啊在哪一个人身上。  
 1. 【[㧟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae.md#㧟)】`kuae3` <sup>[兴化]</sup> 向一边倾斜：一边～｜左舷人多，船～过去啊。  
+1. 【[㧟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae.md#㧟)】`kuae3` <sup>[泰州]</sup> ① 物体朝着一边倾斜：担子～啊一边。丨路不平，人坐啊车子上～得来～得去的，难过煞咖唻。 ② 偏向，倾向于：他俫两个人的事，就看领导～啊哪个人。丨他当然～啊他老乡这头说话。  
 1. 【[㧟东摵西](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_don_seh_xi.md#㧟东摵西)】`kuae3 don1 seh7 xi1` <sup>[东台]</sup> 带着某人或某物到处奔走：他带啊那们多东西～的，多累啊！  
 1. 【[㧟来㧟去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_lae_kuae_qy.md#㧟来㧟去)】`kuae3 lae2 kuae3 qy5` <sup>[东台]</sup> 物体的重心不断移动，难以掌控。  
 1. 【[㧟篮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_laen.md#㧟篮)】`kuae3 laen2` <sup>[如皋]</sup> 粗篾大篮，有竹系，用臂肘㧟着走。  
@@ -904,7 +904,6 @@
 1. 【[傀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae.md#傀)】`kuae3` <sup>[如皋]</sup> 颠狂。责小孩用语：～的哪一家。  
 1. 【[瘣瘣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_kuae_r.md#瘣瘣<sub>儿</sub>)】`kuae3 kuae3 r` <sup>[如皋]</sup> 见“块瘤儿”。  
 1. 【[瘣瘤<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_lieu_r.md#瘣瘤<sub>儿</sub>)】`kuae3 lieu r` <sup>[如皋]</sup> ① 长在体表一侧的瘤子。 ② 比喻多余的、沉重的负担。  
-1. 【[𨵧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae.md#𨵧)】`kuae3` <sup>[泰州]</sup> ① 物体朝着一边倾斜：担子～啊一边。丨路不平，人坐啊车子上～得来～得去的，难过煞咖唻。 ② 偏向，倾向于：他俫两个人的事，就看领导～啊哪个人。丨他当然～啊他老乡这头说话。  
 1. 【[会计](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_ji.md#会计)】`kuae5 ji5` <sup>[如东]</sup> ① 监督和管理财务工作，主要内容有填制各种记账凭证，处理账务，编制各种有关报表等。 ② 担任会计工作的人员。  
 1. 【[会计](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_ji.md#会计)】`kuae5 ji5` <sup>[东台]</sup> 记账、算账、核算的财务人员，有总账、出纳之分。  
 1. 【[块块](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_kuae.md#块块)】`kuae5 kuae` <sup>[兴化]</sup> 每一处：……（秧苗）茬含苞了，中茬分蘖了，晚茬醒棵了，～田里都需水。（马春阳《大队长和他的妻子》）｜就这样，倪四不是怪桌子摆歪了，就是怪坐的凳子太矮，……～碍事。（《皮五辣子》一）  

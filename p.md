@@ -367,12 +367,11 @@
 1. 【[𥹸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/peh.md#𥹸)】`peh8` <sup>[如东]</sup> 擀面时撒的干粉：用荞麦面做～，滑爽。  
 1. 【[𥹸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/peh.md#𥹸)】`peh8` <sup>[东台]</sup> 做面食用的干面粉。  
 1. 【[𥹸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/peh.md#𥹸)】`peh8` <sup>[兴化]</sup> ① 做面食时防粘手用的干面粉。《广韵·没韵》蒲没切“～，面𥹸”。 ② 将粉状物拂开：把干面往旁边～～。 ③ （引）用力推脱：他管的事太多，～不开身。  
-1. 【[𥹸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/peh.md#𥹸)】`peh8` <sup>[泰州]</sup> 做面食时防粘手用的干燥大米面或糯米面粉。  
+1. 【[𥹸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/peh.md#𥹸)】`peh8` <sup>[泰州]</sup> 做面食时防粘手用的干面粉。可用小麦面、荞麦面。也有用米粉。  
 1. 【[𥹸身子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/peh_shen_zz.md#𥹸身子)】`peh8 shen1 zz` <sup>[兴化]</sup> 为自己洗刷，推脱干系：听说厂里出咖事故，那位副厂长连忙出来～。也说“拂身子”。  
 1. 【[𨁝咖𨁝的跳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/peh_ga_peh_dii_tio.md#𨁝咖𨁝的跳)】`peh8 ga peh8 dii tio5` <sup>[如皋]</sup> 见“𨁝𨁝跳”。  
 1. 【[𨁝𨁝跳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/peh_peh_tio.md#𨁝𨁝跳)】`peh8 peh8 tio5` <sup>[如皋]</sup> 状心跳明显。  
 1. 【[𨁝跳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/peh_tio.md#𨁝跳)】`peh8 tio5` <sup>[兴化]</sup> 形容被针刺、虫咬或烫灼时的疼痛感（一般连用）：烫得～～的｜戳得～～的。  
-1. 【[𪌰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/peh.md#𪌰)】`peh8` <sup>[泰州]</sup> 做面食时防粘手用的干燥小麦面或荞麦面粉。  
 1. 【[呸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pei.md#呸)】`pei1` <sup>[泰州]</sup> 表示鄙视、斥责或者唾弃。  
 1. 【[培土](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pei_tv.md#培土)】`pei2 tv3` <sup>[如东]</sup> 给植物壅土。  
 1. 【[陪绑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pei_ban.md#陪绑)】`pei2 ban3` <sup>[如东]</sup> ① 社会处决犯人时，为了逼出口供或迫使投阵，把不够死刑的犯人、暂缓执行死刑的犯人和即将处决的犯人一起绑赴刑场称陪绑。 ② 做某件事的陪衬：这次王桂兰参加选举，是做～的。  
@@ -984,6 +983,7 @@
 1. 【[奅<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_r.md#奅<sub>儿</sub>)】`po3 r` <sup>[如皋]</sup> 稚嫩、不练达、少不更事：少年～。  
 1. 【[泡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po.md#泡)】`po5` <sup>[如皋]</sup> 量词：百斤米分两～称。  
 1. 【[泡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po.md#泡)】`po5` <sup>[兴化]</sup> ① 批量货物过秤时，每次为一～。 ② 相当“顿”：一～打｜一～骂｜一～说。 ③ 一次小便：一～尿。 ④ 也作“一丈尿”。  
+1. 【[泡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po.md#泡)】`po5` <sup>[泰州]</sup> ① 量词，次、回：去啊一～上海｜一～尿 ② 量词，计量分批：船上的米顶多再有三四～过啊秤就差不多唻｜他已经扛吖5～黄豆上吖船。  
 1. 【[泡茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_cha.md#泡茶)】`po5 cha2` <sup>[东台]</sup> 沏茶，用开水冲泡茶叶。  
 1. 【[泡茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_cha.md#泡茶)】`po5 cha2` <sup>[兴化]</sup> 用茶叶、开水沏茶。传乡贤郑板桥有一副讽刺对联：坐、请坐、请上坐茶、～、泡好茶。  
 1. 【[泡饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_faen.md#泡饭)】`po5 faen6` <sup>[兴化]</sup> 用开水浸泡的干饭：早上吃～，搭榨菜。  
@@ -1009,8 +1009,6 @@
 1. 【[炮仗打啊嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_zhan_da_a_jy.md#炮仗打啊嘴)】`po5 zhan5 da3 a jy3` <sup>[东台]</sup> ［喻］口出狂言，夸张离谱。  
 1. 【[炮仗捻子——一点就着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_zhan_nin_zz_ieh_din_qieu_chah.md#炮仗捻子——一点就着)】`po5 zhan5 nin3 zz ieh7 din3 qieu6 chah8` <sup>[东台]</sup>   
 1. 【[炮子<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_zz_r.md#炮子<sub>儿</sub>)】`po5 zz3 r` <sup>[兴化]</sup> ① 老式火炮的弹丸，如碎石、碎铁等。 ② 骂人遭炮轰：这个～，不得好死！  
-1. 【[脬/泡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po.md#脬/泡)】`po5` <sup>[泰州]</sup> 表示一次小便尿量：一～尿  
-1. 【[𣕅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po.md#𣕅)】`po5` <sup>[泰州]</sup> ① 古代重量单位，引申指计算批量货物依次过秤次数：船上的米顶多再有三四～过啊秤就差不多唻。丨他已经扛吖5～黄豆上吖船。 ② 量词，次，回：去啊一～上海  
 1. 【[刨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po.md#刨)】`po6` <sup>[兴化]</sup> 刨削水果或冬瓜等的皮：～梨子。  
 1. 【[刨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po.md#刨)】`po6` <sup>[泰县]</sup> 木刨：～子。  
 1. 【[刨床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_chuan.md#刨床)】`po6 chuan2` <sup>[如东]</sup> 车床的一种。有各种规格。用于加工金属材料的平面和直线。  
@@ -1027,6 +1025,7 @@
 1. 【[刨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_zz.md#刨子)】`po6 zz` <sup>[如东]</sup> 木工的手工工具。木制，长条形，底平，腰间有捏手。可以刨平、刨光木料。  
 1. 【[抱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po.md#抱)】`po6` <sup>[兴化]</sup> ① 结合在一起：他俫～成一团，有事情互相照应。 ② （借）俘虏：一个班伪军捱新四军～走啊。  
 1. 【[抱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po.md#抱)】`po6` <sup>[泰州]</sup> 收养小孩：他家伢儿是～的。  
+1. 【[抱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po.md#抱)】`po6` <sup>[泰州]</sup> 鸟孵蛋（*菢）：～窠丨这几个小鸡都是家里老母鸡～的。  
 1. 【[抱啊木炭亲嘴——碰一鼻子灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_a_moh_taen_qien_jy_pon_ieh_pieh_zz_huei.md#抱啊木炭亲嘴——碰一鼻子灰)】`po6 a moh8 taen5 qien1 jy3 pon5 ieh7 pieh8 zz huei1` <sup>[东台]</sup>   
 1. 【[抱啊菩萨洗澡——劳神费力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_a_pv_saeh_xi_zo_lo_shen_fei_lieh.md#抱啊菩萨洗澡——劳神费力)】`po6 a pv2 saeh7 xi3 zo3 lo2 shen2 fei5 lieh8` <sup>[东台]</sup>   
 1. 【[抱不哭的伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_beh_koh_dii_nga_r.md#抱不哭的伢<sub>儿</sub>)】`po6 beh7 koh7 dii nga2 r` <sup>[东台]</sup> 回避难题，拣容易做的事去做。  
@@ -1056,7 +1055,6 @@
 1. 【[抱奘腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_zhuan_ty.md#抱奘腿)】`po6 zhuan3 ty3` <sup>[东台]</sup> ［喻］找靠山，拍马屁。  
 1. 【[暴暴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_po_dii.md#暴暴的)】`po6 po6 dii` <sup>[如皋]</sup> 忽然地：他～一走，我觉察𨃯啊一大空：人～来啊，家里一点儿菜总没得，要赶紧准备。  
 1. 【[爆灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_huei.md#爆灰)】`po6 huei1` <sup>[兴化]</sup> 草灰：谚曰：～也有发热之时。  
-1. 【[菢/抱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po.md#菢/抱)】`po6` <sup>[泰州]</sup> 鸟孵蛋：～窠丨这几个小鸡都是家里老母鸡～的。  
 1. 【[啪录啪录](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_loh_poh_loh.md#啪录啪录)】`poh7 loh poh7 loh` <sup>[如皋]</sup> 状说话快而连续不止，像放连珠炮。  
 1. 【[扑板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_baen.md#扑板)】`poh7 baen3` <sup>[如东]</sup> 工具。木质，长方形，有柄。扑匠用来平整扑屋屋面。也叫木蟹。  
 1. 【[扑粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_fen.md#扑粉)】`poh7 fen3` <sup>[东台]</sup> ① 化妆用的香粉。 ② 爽身粉。  

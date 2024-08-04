@@ -1519,7 +1519,7 @@
 1. 【[千枝桃花一树生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_zhr_to_hua.md#千枝桃花一树生)】`qin1 zhr1 to2 hua1 ieh7 shv6 shen1` <sup>[泰兴]</sup> 喻兄弟姐妹及其子女同根同祖。常用以劝慰家庭要和睦，别闹不团结。  
 1. 【[扦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin.md#扦)】`qin1` <sup>[兴化]</sup> 插：月季花～头。兴化词典做“𢳍”，《集韵·仙韵》亲然切，“～，插也。”同“扦”。  
 1. 【[扦扦活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_qin_huh.md#扦扦活)】`qin1 qin1 huh8` <sup>[如皋]</sup> 接骨木。忍冬科。  
-1. 【[椠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin.md#椠)】`qin1` <sup>[兴化]</sup> 削皮：～梨子皮。《集韵·盐韵》七廉切｜“～，削皮。”  
+1. 【[椠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin.md#椠)】`qin1` <sup>[兴化]</sup> 削皮：～梨子皮。《集韵·盐韵》七廉切，“～，削皮。”  
 1. 【[牵字游](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_cz_ieu.md#牵字游)】`qin1 cz6 ieu2` <sup>[兴化]</sup> 汉字偏旁，形状是“辶”。也称“走之”。  
 1. 【[牵倒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_do.md#牵倒)】`qin1 do` <sup>[如东]</sup> 吆喝牛向右转弯。  
 1. 【[牵槅拉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_geh_la_r.md#牵槅拉<sub>儿</sub>)】`qin1 geh7 la1 r` <sup>[如东]</sup> 挂在右犁笮上的葫芦。  
@@ -1613,11 +1613,10 @@
 1. 【[前掌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_zhan.md#前掌)】`qin2 zhan3` <sup>[如东]</sup> 脚的前半部分。鞋底的前半部分。  
 1. 【[前朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_zho.md#前朝)】`qin2 zho` <sup>[兴化]</sup> 昨天的前一天。  
 1. 【[挦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin.md#挦)】`qin2` <sup>[兴化]</sup> 拔：～鸡毛。（《集韵盐韵》徐廉切“～，摘也。”）  
-1. 【[挦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin.md#挦)】`qin2` <sup>[泰州]</sup> 拔毛：两个人打架，～吖不少头发下来啊。  
+1. 【[挦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin.md#挦)】`qin2` <sup>[泰州]</sup> 拔（毛）：两个人打架，～吖不少头发下来啊。｜～毛/将宰杀的动物用热水煺毛  
 1. 【[挦毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_mo.md#挦毛)】`qin2 mo2` <sup>[如皋]</sup> 拔毛：杀猪羊鸡鸭后先下水烫，再～，不好干～。  
-1. 【[挦毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_mo.md#挦毛)】`qin2 mo2` <sup>[东台]</sup> 拔去动物身上的毛。对人而言，就是揪头发：（《陈州欒米》楔子小衙内白：若不与我呵，就踢就打就～，一交别番倒，跺上几脚。）  
+1. 【[挦毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_mo.md#挦毛)】`qin2 mo2` <sup>[东台]</sup> 拔去动物身上的毛。对人而言，就是揪头发：若不与我呵，就踢就打就～，一交别番倒，跺上几脚。（《陈州欒米》楔子小衙内白）  
 1. 【[掮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin.md#掮)】`qin2` <sup>[如东]</sup> 用手臂夹东西。  
-1. 【[燖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin.md#燖)】`qin2` <sup>[泰州]</sup> 将宰杀的动物用热水煺毛：～毛  
 1. 【[箝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin.md#箝)】`qin2` <sup>[如皋]</sup> 夹：嘴巴儿养吖～吖下。  
 1. 【[箝手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_sheu.md#箝手)】`qin2 sheu3` <sup>[如皋]</sup> 手的活动受限：台子太高，操作～。  
 1. 【[钱（箝）耳头打巴掌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_er_teu_da_ba_zhan.md#钱（箝）耳头打巴掌)】`qin2 er3 teu da3 ba1 zhan` <sup>[如皋]</sup> 对要钱者否定性的回语。  
