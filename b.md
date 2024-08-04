@@ -512,7 +512,6 @@
 1. 【[𢴬脚绳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_jiah_shen.md#𢴬脚绳)】`baen5 jiah7 shen2` <sup>[如皋]</sup> 喻指不能丢开的人或物的负担。  
 1. 【[𢴬手𢴬脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_sheu_baen_jiah.md#𢴬手𢴬脚)】`baen5 sheu3 baen5 jiah7` <sup>[东台]</sup> 碍手碍脚：这小伙痴里木墩的，站吖旁边反而～。  
 1. 【[𢴬子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_zz.md#𢴬子)】`baen5 zz` <sup>[东台]</sup> 摔跤时用一只脚别着对方的脚使其跌倒：下～；使～。  
-1. 【[䃗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah.md#䃗)】`bah7` <sup>[泰州]</sup> 用石头砌江河湖海之岸，或作“驳”：河两边全部用石头～起来啊。  
 1. 【[䙏衫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_shaen_r.md#䙏衫<sub>儿</sub>)】`bah7 shaen1 r` <sup>[东台]</sup> 汗衫。也叫“幕衫儿”。  
 1. 【[剥剥断](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_bah_tun.md#剥剥断)】`bah7 bah7 tun6` <sup>[兴化]</sup> 棍棒、绳索等因腐朽而断成许多节：这绳子一拉～。  
 1. 【[剥凿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_cah.md#剥凿)】`bah7 cah8` <sup>[如东]</sup> 工具。铁制，口宽而锋利，有柄。用以切削木料平面。  
@@ -531,8 +530,7 @@
 1. 【[煿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah.md#煿)】`bah7` <sup>[泰州]</sup> 一种烹调方法，锅中放少量油煎烤：你把鱼先在锅里～咖子再放作料烧。  
 1. 【[煿脆饼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_qy_bien_r.md#煿脆饼<sub>儿</sub>)】`bah7 qy5 bien3 r` <sup>[如皋]</sup> 上等脆饼，饼起多层，层薄如纸。谚云：丁堰的脆饼儿十八层，层层照见人。  
 1. 【[煿脆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_qy_r.md#煿脆<sub>儿</sub>)】`bah7 qy5 r` <sup>[泰县]</sup> 泰县特产的一种脆饼。  
-1. 【[驳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah.md#驳)】`bah7` <sup>[如皋]</sup> 用砖石等加砌外层：～墙、～河岸子。  
-1. 【[驳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah.md#驳)】`bah7` <sup>[兴化]</sup> 将河岸或圩堤向外拓展：圩外帮坍得不少，挖几船荒垡来～～。  
+1. 【[驳/䃗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah.md#驳/䃗)】`bah7` <sup>\[如皋\]\[兴化\]\[泰州\]</sup>用砖石等加砌外层：～墙、～河岸子<sup>\[如皋\]</sup>｜圩外帮坍得不少，挖几船荒垡来～～。<sup>\[兴化\]</sup>｜河两边全部用石头～起来啊。<sup>\[泰州\]</sup>  
 1. 【[驳差](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_chae.md#驳差)】`bah7 chae1` <sup>[兴化]</sup> ① 驳运，用小船在码头与大船或船与船之间转运乘客或货物。 ② （喻）前来拿东西的人：刚买一箱子荔枝，就有人来～。｜～的来啊，总要拿点儿东西把他吧！  
 1. 【[驳锤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_chuei.md#驳锤)】`bah7 chuei2` <sup>[如东]</sup> 一种打桩的工具。长条形，铁制或石制，也有木制的。装在支架槽道中，提升上去，猛砸下来，形成冲力。  
 1. 【[驳船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_chun.md#驳船)】`bah7 chun2` <sup>[如东]</sup> 船的一种。铁壳，敞口，有巨大的货舱。以内燃机为动力。主要从事内河货运任务。  
