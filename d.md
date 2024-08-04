@@ -1383,9 +1383,9 @@
 1. 【[沰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah.md#沰)】`dah7` <sup>[东台]</sup> 雨～浔浔的。  
 1. 【[沰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah.md#沰)】`dah7` <sup>[兴化]</sup> ① 滴、片：一～油斑｜一～鸡屎坏缸酱。 ② 淋雨：覅在外头～。 ③ 湿东西附着：潮衣裳～咖身上。  
 1. 【[沰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah.md#沰)】`dah7` <sup>[泰县]</sup> ① 淋：今朝～雨～咖衣裳死潮的。 ② 添：把上头再～一块砖头上去。 ③ （量词）：一～唾沫。 ④ 赖着：你就～咖他家不走，看他怎吖。 ⑤ 钉，粘：这伢儿成天～咖奶奶手里。 ⑥ 盖（印）。 ⑦ 淋雨。  
-1. 【[沰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah.md#沰)】`dah7` <sup>[泰州]</sup> ① （泰州词典作軃） ② 胡乱地放：你把东西收收好，～得块块是的，教人脚都没处放。  
+1. 【[沰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah.md#沰)】`dah7` <sup>[泰州]</sup> 胡乱地放（泰州词典作軃）：你把东西收收好，～得块块是的，教人脚都没处放。  
 1. 【[沰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah.md#沰)】`dah7` <sup>[泰州]</sup> 淋，液体自上落下：外头落大雨，他身上捱雨～咖湿咖唻。  
-1. 【[沰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah.md#沰)】`dah7` <sup>[泰州]</sup> ① 量词，用于小堆厚糊状的物体。《泰县方言补·物部》：“大于一滴之流质谓之一～。《玉篇》：‘～，落也。’流质落地而大故谓之一～。”（清）张南庄《何典》第4回：“自己穿了包拍大红衫，打扮得一～胭脂一～粉的。”（《假烧香赔钱养汉 左嫁人坐产招夫》）《续济公传》第211回：“兼之金仁鼎又是个下抄下壳，又怕这一笃痰淌下来，刚刚淌在嘴里。”（《济颠僧咯唾戏奸臣 金仁鼎当筵听鬼话》）同上，第217回：“李龙在身边掏出封条，走到庙外一片（爿）香烛店里，讨了一笃面糊。”（《两差人暗搜内藏 一老丐独阴封门》） ② 将糊状物使劲砸向他物使之粘在上面。（清）坑余生《续济公传》第211回：“（济公）这句话还未说出，忽然喉咙里的疾响了一响，就咯的一口，这一口痰带谎说足有四两重，巧巧笃了金仁鼎一脸。”（《济颠僧咯唾戏奸臣 金仁鼎当筵听鬼话》）  
+1. 【[沰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah.md#沰)】`dah7` <sup>[泰州]</sup> ① 量词，用于小堆厚糊状的物体。 ② 将糊状物使劲砸向他物使之粘在上面。  
 1. 【[沰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah.md#沰)】`dah7` <sup>[泰州]</sup> ① （泰州词典作𤄥） ② 含水较多物体附着他物：你从雨天心里过来的，衣裳湿咖透啊，～咖身上不难受啊，快点去换衣裳。｜你望你这个人，衣裳汏啊好啊也不㫰，就朝这块一～，人就走啊唻。 ③ 将衣、被之类随意地覆在身体之上：你弄件衣裳同他把肚脐眼儿～起来，不要受啊凉。｜开啊空调的，睡觉身上要～条毛巾被。 ④ 特指盖（印）：把你的图章～咖你的名字上。｜你这个证明不～章不得用，你到派出所去～个章。  
 1. 【[沰疤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_ba.md#沰疤)】`dah7 ba1` <sup>[如皋]</sup> ① 见“补疤”。 ② 见“沰”。  
 1. 【[沰饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_bien.md#沰饼)】`dah7 bien3` <sup>[兴化]</sup> 手抓发酵的米粉糊投入锅中烤成米饼。  
@@ -1422,7 +1422,7 @@
 1. 【[笚板<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_baen_r.md#笚板<sub>儿</sub>)】`dah7 baen3 r` <sup>[东台]</sup> 两块互相敲击，用来说快板的小竹板。（笚，竹相击也）  
 1. 【[耷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah.md#耷)】`dah7` <sup>[如皋]</sup> ① 松垂下来。 ② 秤尾偏下。见“袒”。  
 1. 【[耷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah.md#耷)】`dah7` <sup>[兴化]</sup> ① 皮肤松弛下垂：肚皮瘦得～下来。｜上眼皮萎啊～下来。 ② 垂挂：猪耳头～咖下。｜狗尾巴～下来。  
-1. 【[耷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah.md#耷)】`dah7` <sup>[泰州]</sup> ① （泰州词典作軃） ② 下垂样子：你望他头～咖来，看来不曾借到钱。 ③ 皮宽，亦即皮肤松弛。《玉篇·皮部》：“～，音荅，皮宽也。”《集韵·合韵》德合切：“～，皮纵。”：你这些时是怎吖弄的啊，脸上的皮都瘦啊～咖唻啊。  
+1. 【[耷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah.md#耷)】`dah7` <sup>[泰州]</sup> 下垂样子（泰州词典作軃）：你望他头～咖来，看来不曾借到钱。｜你这些时是怎吖弄的啊，脸上的皮都瘦啊～咖唻啊。（泰州词典作“㿯、㿴”）  
 1. 【[耷耷<sub>儿</sub>痴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_dah_r_chr.md#耷耷<sub>儿</sub>痴)】`dah7 dah7 r chr1` <sup>[如东]</sup> 爱玩耍而无节制的人：王二是个～。  
 1. 【[耷耷<sub>儿</sub>话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_dah_r_hua.md#耷耷<sub>儿</sub>话)】`dah7 dah7 r hua6` <sup>[如东]</sup> ① 开玩笑的话：他在下说～。 ② 幽默的话：王二就欢喜说～。  
 1. 【[耷咖下来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_ga_ha_lae_a.md#耷咖下来啊)】`dah7 ga ha6 lae a` <sup>[如皋]</sup> 下垂：头～、叶子～、耳头～。  
@@ -1447,7 +1447,7 @@
 1. 【[𠹥涎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_saen.md#𠹥涎)】`dah7 saen2` <sup>[如皋]</sup> ① 以舌下打，并弹射出唾沫星子以溅人。 ② 随地吐涎。  
 1. 【[𠹥淡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_taen.md#𠹥淡)】`dah7 taen6` <sup>[泰县]</sup> 搬弄是非。  
 1. 【[𠹥淡话<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_taen_hua_r.md#𠹥淡话<sub>儿</sub>)】`dah7 taen6 hua6 r` <sup>[如皋]</sup> 闲谈中说是非话。  
-1. 【[𧩧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah.md#𧩧)】`dah7` <sup>[泰州]</sup> 捏造事实诬陷他人。《泰县方言补·人部》：“无其事而以言栽害之曰～。泰以言诬栽曰～害人。《西游记》第94回：“好猢狲！你还害我哩！却是悟能说的，我们十节儿已上了龙节七八分了，你还把热舌头铎我！”（《四僧宴乐御花园 一怪空怀情欲喜》）《飞跎全传》第2回：“还有个恶舌头，惯会铎人。”（《跳跎子请酒钱公子 庄相儿会混世虫儿》｜这事不是人家做的，你就不能～人家！  
+1. 【[𧩧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah.md#𧩧)】`dah7` <sup>[泰州]</sup> 捏造事实诬陷他人。《泰县方言补·人部》：“无其事而以言栽害之曰～。泰以言诬栽曰～害人：这事不是人家做的，你就不能～人家！  
 1. 【[𨃚咕𨃚咕的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_gv_dah_gv_dii.md#𨃚咕𨃚咕的)】`dah7 gv1 dah7 gv1 dii` <sup>[东台]</sup> 形容走路慢、脚头很重。  
 1. 【[𨃚咕𨃚咕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_gv_dah_gv.md#𨃚咕𨃚咕)】`dah7 gv1 dah7 gv3` <sup>[泰县]</sup> 不利索。  
 1. 【[𨃚脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_jiah_r.md#𨃚脚<sub>儿</sub>)】`dah7 jiah7 r` <sup>[如皋]</sup> 跛足，尥脚儿。  
