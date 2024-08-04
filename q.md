@@ -1651,7 +1651,6 @@
 1. 【[浅<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_r.md#浅<sub>儿</sub>)】`qin3 r` <sup>[泰县]</sup> 盏子。  
 1. 【[䎢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin.md#䎢)】`qin5` <sup>[如东]</sup> 农具。木制，圆柱形，直径一尺五寸左右，外表装着许多木齿。  
 1. 【[䎢草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_co.md#䎢草)】`qin5 co3` <sup>[如东]</sup> 用牛拖着䎢在水田里来回走动，将杂草䎢入烂泥中。  
-1. 【[䭤/㧄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin.md#䭤/㧄)】`qin5` <sup>[泰州]</sup> 用力揉压面团使面团内的水分均匀：把面在桌子上多～个盹儿再擀。｜早上五点钟就开始～酵。  
 1. 【[堑草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_co.md#堑草)】`qin5 co3` <sup>[泰县]</sup> 木制的水田农具。  
 1. 【[堑塘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_tan_r.md#堑塘<sub>儿</sub>)】`qin5 tan2 r` <sup>[兴化]</sup> 为点播豆种等挖的小坑。  
 1. 【[堑塘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_tan_r.md#堑塘<sub>儿</sub>)】`qin5 tan2 r` <sup>[泰县]</sup> 点播挖的小塘。  

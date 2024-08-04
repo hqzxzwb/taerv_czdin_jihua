@@ -1238,7 +1238,7 @@
 1. 【[荻柴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tieh_shae_r.md#荻柴<sub>儿</sub>)】`tieh8 shae2 r` <sup>[兴化]</sup> 见“红毛荻子”。  
 1. 【[停](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien.md#停)】`tien2` <sup>[兴化]</sup> ① 遗体入殓或火化之前置于灵床上：死人～吖家里三天火化的。 ② 旧称暂厝待葬：棺材～吖大庙里。  
 1. 【[停](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien.md#停)】`tien2` <sup>[兴化]</sup> 总数几等份中的一份：这项工程三～儿已经完成两～儿。｜当晚闻达奔飞虎峪，计点军兵，三～去一。（《水浒传》六三）  
-1. 【[停](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien.md#停)】`tien2` <sup>[泰州]</sup> ① 停放尸体：他家老的夜里走的，停吖在庙里。 ② 总数分成几份当中的一份：这条路五～做啊四～，顶多还有20天就完工。  
+1. 【[停](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien.md#停)】`tien2` <sup>[泰州]</sup> ① 停放尸体：他家老的夜里走的，～吖在庙里。 ② 总数分成几份当中的一份：这条路五～做啊四～，顶多还有20天就完工。  
 1. 【[停滞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_chr.md#停滞)】`tien2 chr5` <sup>[兴化]</sup> 饮食不消化，滞留胃中：“……旧年我病了，却是伤寒，内里饮食～……”（《红楼梦》五一）  
 1. 【[停床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_chuan.md#停床)】`tien2 chuan2` <sup>[如东]</sup> 一种民俗。一块木板或棺材盖，这就是停床。人死后，将尸体搁置在上面，称上停床。  
 1. 【[停床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_chuan.md#停床)】`tien2 chuan2` <sup>[兴化]</sup> 停放尸体的床。也称“灵床”。  
@@ -1260,7 +1260,7 @@
 1. 【[葶苈子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_lieh_zz.md#葶苈子)】`tien2 lieh8 zz` <sup>[如东]</sup> 十字花科植物独行菜，一年生或二年生草本。高约30厘米。茎直立。叶互生，上部叶线形，较小，全缘。长总状花序，顶生。花小。短角果，卵状椭圆形，扁平。种子倒卵状椭圆形，淡红棕色。生长在田野、荒地、路旁。  
 1. 【[听装](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_zhuan.md#听装)】`tien3 zhuan1` <sup>[兴化]</sup> 用听子包装的商品：～香烟；～奶粉。  
 1. 【[听子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_zz.md#听子)】`tien3 zz` <sup>[兴化]</sup> 装食品、香烟等物的马口铁罐或筒：一～饼干｜一～中华香烟。  
-1. 【[挺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien.md#挺)】`tien3` <sup>[兴化]</sup> ① 形容硬：～酵｜馒头太～。｜ ② 纸张、布匹硬而平整。  
+1. 【[挺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien.md#挺)】`tien3` <sup>[兴化]</sup> ① 形容硬：～酵｜馒头太～。 ② （纸张、布匹）硬而平整。  
 1. 【[挺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien.md#挺)】`tien3` <sup>[兴化]</sup> 睡觉的贬义说法：“不害羞！你喝醉了，怎么也不拣地方儿，乱～下了？”（《红楼梦》六三）  
 1. 【[挺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien.md#挺)】`tien3` <sup>[泰县]</sup> ① 硬而直：笔～。 ② 勉强支撑：受啊伤硬～吖不下来。 ③ 睡（贬义）：去～尸。 ④ 任凭：反正～你说，我都不去。  
 1. 【[挺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien.md#挺)】`tien3` <sup>[泰县]</sup> （禁忌语）睡：去～尸。  
@@ -1268,8 +1268,7 @@
 1. 【[挺不着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_beh_chah.md#挺不着)】`tien3 beh7 chah8` <sup>[东台]</sup> 睡不着觉的气话。  
 1. 【[挺撑棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_chen_pan.md#挺撑棒)】`tien3 chen1 pan6` <sup>[兴化]</sup> 屠宰工具，用来捣通宰杀后猪腔体的铁棒（通后吹气脱毛）。  
 1. 【[挺觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_go.md#挺觉)】`tien3 go5` <sup>[兴化]</sup> 睡觉的贬义说法：《儒林外史》第十一回有“（杨老六）吃罢，扒上床，～觉去了”句。  
-1. 【[挺括](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_guaeh.md#挺括)】`tien3 guaeh7` <sup>[东台]</sup> 指衣服、布料、纸张等较硬而平整：西装不同于夹克衫，不～不好看。  
-1. 【[挺括](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_guaeh.md#挺括)】`tien3 guaeh7` <sup>[兴化]</sup> 纸张布匹硬而平整。  
+1. 【[挺括](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_guaeh.md#挺括)】`tien3 guaeh7` <sup>\[东台\]\[兴化\]</sup>（衣服、布料、纸张等）较硬而平整：西装不同于夹克衫，不～不好看。<sup>\[东台\]</sup>  
 1. 【[挺腰仰肚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_io_nian_dv.md#挺腰仰肚)】`tien3 io1 nian3 dv3` <sup>[如东]</sup> ① 形容身体板直：他站吖那许，～的。 ② 比喻身体健康：王老汉跑起路来还是～的。  
 1. 【[挺腰挺棍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_io_tien_guen.md#挺腰挺棍)】`tien3 io1 tien3 guen5` <sup>[东台]</sup> 身板硬朗结实的形象。  
 1. 【[挺硬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_ngen.md#挺硬)】`tien3 ngen6` <sup>[东台]</sup> 僵硬；没有弹性。  

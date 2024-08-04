@@ -1274,6 +1274,7 @@
 1. 【[缠夹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin_gaeh.md#缠夹)】`chin2 gaeh7` <sup>[兴化]</sup> 纠缠不清：老兄，我说得清清楚楚，是你自己～不清，怪哪个？  
 1. 【[缠身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin_shen.md#缠身)】`chin2 shen1` <sup>[东台]</sup> 脱不开身：公务繁忙，杂事～。  
 1. 【[缠手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin_sheu.md#缠手)】`chin2 sheu3` <sup>[东台]</sup> 事务甩不开或矛盾摆不脱：最近～事多，只好放弃旅游。  
+1. 【[𢷹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin.md#𢷹)】`chin5` <sup>[泰州]</sup> 用力揉压面团使面团内的水分均匀：把面在桌子上多～个盹儿再擀。｜早上五点钟就开始～酵。  
 1. 【[𢷹酵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin_go.md#𢷹酵)】`chin5 go5` <sup>[如皋]</sup> 将面团反复盘弄，使所含蛋白质面筋化。  
 1. 【[𢷹酵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin_go.md#𢷹酵)】`chin5 go5` <sup>[如皋]</sup> 见“手面”。  
 1. 【[𢷹酵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin_go.md#𢷹酵)】`chin5 go5` <sup>[如皋]</sup> 见“盘酵”。  
