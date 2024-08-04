@@ -6,9 +6,9 @@
 1. 【[呃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh.md#呃)】`eh` 助词“啊a”“吖nga”在部分地区的发音：来～（来了）；醒～（醒了）。  
 1. 【[呃唷哇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh_io_va.md#呃唷哇)】`eh7 io va1` <sup>[兴化]</sup> 叹词。  
 1. 【[呃唷㗏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh_io_vae.md#呃唷㗏)】`eh7 io vae1` <sup>[兴化]</sup> ① 叹词。呼痛：～，肚子疼！ ② 讽刺语气：～，小王不简单！  
-1. 【[啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh.md#啊)】`eh7` <sup>[泰州]</sup> 表示是否，用于疑问：上海你～去？丨你～吃烧饼？  
+1. 【[啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh.md#啊)】`eh7` <sup>[泰州]</sup> 表示是否，用于疑问：上海你～去？｜你～吃烧饼？  
 1. 【[呃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh.md#呃)】`eh8` <sup>[东台]</sup> 气逆作声：打～。  
-1. 【[呃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh.md#呃)】`eh8` <sup>[泰州]</sup> ① （泰州词典作餩） ② 打嗝时发出的声音：～打啊不歇，快点ㄦ家去加点ㄦ衣裳。丨打～。  
+1. 【[呃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh.md#呃)】`eh8` <sup>[泰州]</sup> ① （泰州词典作餩） ② 打嗝时发出的声音：～打啊不歇，快点ㄦ家去加点ㄦ衣裳。｜打～。  
 1. 【[儿不嫌母丑，狗不嫌家穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_beh_xin_mu.md#儿不嫌母丑，狗不嫌家穷)】`er2 beh7 xin2 mu3 cheu3 geu3 beh7 xin2 ga1 qion2` <sup>[东台]</sup> 人不能忘本，要爱国、爱家、爱长辈。  
 1. 【[儿肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_chan.md#儿肠)】`er2 chan2` <sup>[如东]</sup> 阴道。  
 1. 【[儿肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_chan.md#儿肠)】`er2 chan2` <sup>[如皋]</sup> ① 内生殖器总称。 ② 特指动物输卵管，是阉割的部分。 ③ 也有指男性输精管的。  

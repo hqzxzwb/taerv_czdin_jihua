@@ -174,7 +174,7 @@
 1. 【[耐脏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_zan.md#耐脏)】`nae6 zan1` <sup>[东台]</sup> 又叫“耐涴”，不容易显出污迹来：这件衬衫不～。  
 1. 【[褦襶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_dae.md#褦襶)】`nae6 dae` <sup>[如东]</sup> 愚蠢，不懂事：这个伢儿有些～。  
 1. 【[褦襶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_dae.md#褦襶)】`nae6 dae` <sup>[东台]</sup> ① 不懂事。（见《现代汉语词典》第六版930页） ② 与“䐯膗”近义，臃肿庞大：这身衣裳太大，嫌～。  
-1. 【[㖸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh.md#㖸)】`naeh` <sup>[泰州]</sup> ① 语气助词，表示提醒：毛笔字要这样子写～。 ② 表示疑问：你家科长人～？丨你买的东西～？ ③ 表示选择：你高兴～就支持他两个，不高兴～就拉倒。  
+1. 【[㖸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh.md#㖸)】`naeh` <sup>[泰州]</sup> ① 语气助词，表示提醒：毛笔字要这样子写～。 ② 表示疑问：你家科长人～？｜你买的东西～？ ③ 表示选择：你高兴～就支持他两个，不高兴～就拉倒。  
 1. 【[捺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh.md#捺)】`naeh8` <sup>[东台]</sup> 与“拖”近义，前面人拖着，后面人跟得很吃力：他的舞跳得好，我只是跟吖后面～｜他俫发展得快，把我俫～煞咖。  
 1. 【[捺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh.md#捺)】`naeh8` <sup>[兴化]</sup> 汉字笔划，形状是“㇏”。  
 1. 【[捺䬣饤<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_geh_dien_r.md#捺䬣饤<sub>儿</sub>)】`naeh8 geh7 dien1 r` <sup>[如皋]</sup> 在糊糊面里捺进面䬣饤儿。  
@@ -249,7 +249,7 @@
 1. 【[抐猪食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/neh_zhv_sheh.md#抐猪食)】`neh8 zhv1 sheh8` <sup>[如皋]</sup> ① 调和猪食的同时把其中的团块捏碎。 ② 状手部若调猪食的动作。  
 1. 【[浓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen.md#浓)】`nen2` <sup>[如皋]</sup> 汁浓：鱼汤～。  
 1. 【[浓水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen_shuei.md#浓水)】`nen2 shuei3` <sup>[如皋]</sup> 含洗涤剂量足的水，去污力强。  
-1. 【[能](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen.md#能)】`nen2` <sup>[泰州]</sup> 超出自己的职责范围，主动积极地做某事是为了炫耀显示自己才能：他又不是厂长，就像～煞咖，厂里的事样样都要问。丨她嫌太～，块块多管闲事，没得一个人喜欢她。  
+1. 【[能](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen.md#能)】`nen2` <sup>[泰州]</sup> 超出自己的职责范围，主动积极地做某事是为了炫耀显示自己才能：他又不是厂长，就像～煞咖，厂里的事样样都要问。｜她嫌太～，块块多管闲事，没得一个人喜欢她。  
 1. 【[能巴巴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen_ba_ba_dii.md#能巴巴的)】`nen2 ba1 ba1 dii` <sup>[如皋]</sup> 贬指能幹的样子。  
 1. 【[能巴能巴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen_ba_nen_ba_dii.md#能巴能巴的)】`nen2 ba1 nen2 ba1 dii` <sup>[如皋]</sup> 见“能巴巴的”。  
 1. 【[能夹夹的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen_gaeh_gaeh_dii.md#能夹夹的)】`nen2 gaeh7 gaeh7 dii` <sup>[东台]</sup> 自以为是，好表现自己。  
@@ -456,7 +456,7 @@
 1. 【[挜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga.md#挜)】`nga5` <sup>[东台]</sup> ① 对方没有需求，但硬把东西送给对方或卖给对方。 ② 饱了还吃：又～啊一碗。  
 1. 【[挜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga.md#挜)】`nga5` <sup>[兴化]</sup> ① 硬把东西送给或卖给对方：～把人。 ② 旧谓女子主动向男子求爱：～上门。 ③ 搭讪：～一上来说话。 ④ 勉强吃东西：硬～｜（吕达）苦苦里～他吃酒，李良南早已沉醉要睡。（《三刻》二一）  
 1. 【[挜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga.md#挜)】`nga5` <sup>[泰县]</sup> 勉强吃。  
-1. 【[挜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga.md#挜)】`nga5` <sup>[泰州]</sup> ① 强行送给、卖给别人东西：你怎吖好～住人家买你的东西？丨当真你家姑娘把不掉啊，哪块就非要～把他家做新妇？ ② 强行要求别人做某事：他不想上南京，你也不要～他去。 ③ 硬凑上去参加：没得人睬他，他自己～上来岔话的。  
+1. 【[挜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga.md#挜)】`nga5` <sup>[泰州]</sup> ① 强行送给、卖给别人东西：你怎吖好～住人家买你的东西？｜当真你家姑娘把不掉啊，哪块就非要～把他家做新妇？ ② 强行要求别人做某事：他不想上南京，你也不要～他去。 ③ 硬凑上去参加：没得人睬他，他自己～上来岔话的。  
 1. 【[挜三托四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_saen_tah_sz.md#挜三托四)】`nga5 saen1 tah7 sz5` <sup>[如东]</sup> 强行给人东西：市上鱼太多，～的。  
 1. 【[㧎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga.md#㧎)】`nga6` <sup>[如皋]</sup> ① 强予：～把你，～瞰你。 ② 凑近、插入：那许有一堆人，我也～上去看看究竟。  
 1. 【[㧎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga.md#㧎)】`nga6` <sup>[如东]</sup> 挤：～进去。  
@@ -1106,7 +1106,7 @@
 1. 【[硬志志](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_zhr_zhr.md#硬志志)】`ngen6 zhr5 zhr5` <sup>[如东]</sup> 坚定不移：～的要去。  
 1. 【[硬至至的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_zhr_zhr_dii.md#硬至至的)】`ngen6 zhr5 zhr5 dii` <sup>[如皋]</sup> 过分任性地：他在家里～作操你。  
 1. 【[硬至至的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_zhr_zhr_dii.md#硬至至的)】`ngen6 zhr5 zhr5 dii` <sup>[如皋]</sup> 见“活剥剥的”。  
-1. 【[剾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu.md#剾)】`ngeu1` <sup>[泰州]</sup> （用手指）剜出：脸上捱她～啊几道杠。丨身上皮都捱她～掉啊。  
+1. 【[剾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu.md#剾)】`ngeu1` <sup>[泰州]</sup> （用手指）剜出：脸上捱她～啊几道杠。｜身上皮都捱她～掉啊。  
 1. 【[熰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu.md#熰)】`ngeu1` <sup>[如皋]</sup> 大汤久煮：～粽子、～玉米、～牛肉、～骨头汤。  
 1. 【[熰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu.md#熰)】`ngeu1` <sup>[如东]</sup> 多煮一会儿：老牛肉，多～一会儿。  
 1. 【[熰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu.md#熰)】`ngeu1` <sup>[东台]</sup> 用水长时间煮：～老母鸡；～老菱；～粽子。  
@@ -1118,7 +1118,7 @@
 1. 【[牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu.md#牛)】`ngeu2` <sup>[如皋]</sup> 喻蛮横顶撞：他～起来不认人。  
 1. 【[牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu.md#牛)】`ngeu2` <sup>[如东]</sup> 牛科动物黄牛和水牛，身体大，趾端有蹄，头上长有一对角，尾巴尖端有长毛。是反刍类动物，力气大，供役使。  
 1. 【[牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu.md#牛)】`ngeu2` <sup>[兴化]</sup> 脾气固执而傲慢：他的脾气太～，对甚的人都不买账！  
-1. 【[牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu.md#牛)】`ngeu2` <sup>[泰州]</sup> 性格执拗倔强：这小伙～得不得命，大人的话一句听不进去。丨你就不要同他～唻，～到临了没得好果子吃。  
+1. 【[牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu.md#牛)】`ngeu2` <sup>[泰州]</sup> 性格执拗倔强：这小伙～得不得命，大人的话一句听不进去。｜你就不要同他～唻，～到临了没得好果子吃。  
 1. 【[牛把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_ba.md#牛把)】`ngeu2 ba3` <sup>[泰县]</sup> 呆子。  
 1. 【[牛蒡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_ban_zz.md#牛蒡子)】`ngeu2 ban5 zz` <sup>[如东]</sup> 菊科植物牛蒡，二年生草本。高约1米。上部多分枝。根生叶丛生茎生叶互生；叶大，有长叶柄，表面有纵裂；叶片广卵形，边缘稍带波状或呈齿牙状。头状花序丛生，着生于枝端排列成伞房状。花冠筒状。瘦果略弯曲，灰褐色。  
 1. 【[牛屄筒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_bi_ton_zz.md#牛屄筒子)】`ngeu2 bi1 ton3 zz` <sup>[如皋]</sup> 喻说大话没遮拦的一种人。  
@@ -1273,7 +1273,7 @@
 1. 【[沤肥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_fei.md#沤肥)】`ngeu5 fei2` <sup>[东台]</sup> 把垃圾、青草、人粪尿、河泥等沤制成有机肥料。  
 1. 【[沤改旱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_gae_hun.md#沤改旱)】`ngeu5 gae3 hun6` <sup>[兴化]</sup> 通过开沟排水等措施，降低地下水位，将一熟沤田改为夏秋两熟旱田。兴化自1953年至1971年全面完成一百万亩沤田的改制。（见《兴化水利志·田间工程》）  
 1. 【[沤田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_tin.md#沤田)】`ngeu5 tin2` <sup>[兴化]</sup> 由于地势低洼，长年浸泡在水中的一年一熟低产田。  
-1. 【[熰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu.md#熰)】`ngeu5` <sup>[泰州]</sup> 将食物较长时间浸泡在热汤里煮：锅里的骨头汤～得雪白的。丨饭要多～一刻ㄦ。  
+1. 【[熰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu.md#熰)】`ngeu5` <sup>[泰州]</sup> 将食物较长时间浸泡在热汤里煮：锅里的骨头汤～得雪白的。｜饭要多～一刻ㄦ。  
 1. 【[拗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo.md#拗)】`ngo1` <sup>[如皋]</sup> 折断：筷子一～两断。  
 1. 【[拗里拗跷的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_lii_ngo_qio_dii.md#拗里拗跷的)】`ngo1 lii ngo1 qio1 dii` <sup>[如皋]</sup> 见“怮跷”。  
 1. 【[拗跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_qio.md#拗跷)】`ngo1 qio1` <sup>[如皋]</sup> 因隐含曲折矛盾而处事不顺：他的这件事久拖不决蛮～的。  
@@ -1642,7 +1642,7 @@
 1. 【[牛皮忑忑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu_pi_teh_teh.md#牛皮忑忑)】`nieu2 pi2 teh7 teh7` <sup>[东台]</sup> 也称“牛屄吽吽”，形容接连不断地吹牛，说大话。  
 1. 【[牛皮筒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu_pi_ton_zz.md#牛皮筒子)】`nieu2 pi2 ton3 zz` <sup>[东台]</sup> 戏指吹牛吹得太厉害的人。  
 1. 【[扭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu.md#扭)】`nieu3` <sup>[如东]</sup> 摇摆着。  
-1. 【[扭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu.md#扭)】`nieu3` <sup>[泰州]</sup> 转动，拧：把酱油盖ㄦ～啊好啊。丨这个盖ㄦ～这吖紧，～啊半天～不下来。  
+1. 【[扭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu.md#扭)】`nieu3` <sup>[泰州]</sup> 转动，拧：把酱油盖ㄦ～啊好啊。｜这个盖ㄦ～这吖紧，～啊半天～不下来。  
 1. 【[扭扭怪怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu_nieu_guae_guae.md#扭扭怪怪)】`nieu3 nieu3 guae5 guae5` <sup>[兴化]</sup> 矫揉造作，举止不大方：你有话好好说，覅～的。  
 1. 【[扭扭郭郭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu_nieu_guah_guah.md#扭扭郭郭)】`nieu3 nieu3 guah7 guah7` <sup>[如东]</sup> ① 身体扭动：红儿走路时，身子总是～的。 ② 比喻决定问题迟疑不决：张红兰决定问题总是～的。  
 1. 【[扭扭毌毌的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu_nieu_kuaeh_kuaeh_dii.md#扭扭毌毌的)】`nieu3 nieu3 kuaeh8 kuaeh8 dii` <sup>[如皋]</sup> 见“扭头毌颈的”。  
@@ -1842,7 +1842,7 @@
 1. 【[嬲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio.md#嬲)】`nio5` <sup>[如皋]</sup> ① 蠕动、扭动、翘起：蛆子～动。 ② 引逗、撩拨：他会～人家说话。  
 1. 【[嬲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio.md#嬲)】`nio5` <sup>[兴化]</sup> ① 扭动、向上翘：大火直往上～。｜蛇㐁子～啊～的。 ② 微风习习：夏天的野外东南风～～的。  
 1. 【[嬲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio.md#嬲)】`nio5` <sup>[东台]</sup> ① 昆虫蠕动状：菜虫一～一～的。 ② ［引］后来翘：房价往上～｜文章结尾～上去啊。  
-1. 【[嬲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio.md#嬲)】`nio5` <sup>[泰州]</sup> ① 火头上窜（舔着锅底）的样子：炭炉子搧吖旺吖唻，火直～唻。丨火头～多高唻。 ② 蛆虫头部伸在空中使劲摇动，身体蠕动挣扎的样子：坑缸里的蛆子头～～的。  
+1. 【[嬲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio.md#嬲)】`nio5` <sup>[泰州]</sup> ① 火头上窜（舔着锅底）的样子：炭炉子搧吖旺吖唻，火直～唻。｜火头～多高唻。 ② 蛆虫头部伸在空中使劲摇动，身体蠕动挣扎的样子：坑缸里的蛆子头～～的。  
 1. 【[嬲魆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio_xyeh.md#嬲魆)】`nio5 xyeh7` <sup>[如东]</sup> ① 耍计谋：这个人非常～。 ② 调皮：这个伢儿非常～。  
 1. 【[尿床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio_chuan.md#尿床)】`nio6 chuan2` <sup>[如东]</sup> 将尿尿在床铺上，多指小儿  
 1. 【[尿桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio_ton.md#尿桶)】`nio6 ton3` <sup>[如东]</sup> 农具。木制，圆桶形，有环。底部装有一根圆管，叫嘴子。通常桶高26厘米，耳高17厘米，把手23厘米，口径30厘米，底径26厘米，嘴子长28厘米。农民用它把粪或水浇在植物的根部。  
@@ -1916,7 +1916,7 @@
 1. 【[脓头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non_teu.md#脓头)】`non2 teu2` <sup>[兴化]</sup> 疮疖最上部的脓块：……初时，累累然是些红瘰儿，到后都起了～儿。（《三刻》二十）  
 1. 【[脓头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non_teu_r.md#脓头<sub>儿</sub>)】`non2 teu2 r` <sup>[如皋]</sup> 脓肿区上部（表层）的白头儿。  
 1. 【[𨑊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non.md#𨑊)】`non2` <sup>[兴化]</sup> ① 敷衍、糊弄：你有话实说，覅～人家。 ② 勉强混过：实在找不到旅馆，就在沙发上～一夜吧！｜《方言》卷十“～，奴动反……凡人语言过度，及妄施行，亦谓之～。”｜《吴下方言考》“……吴中谓勉强而充曰～得过。”  
-1. 【[𨑊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non.md#𨑊)】`non2` <sup>[泰州]</sup> 明知不妥而勉强凑合：暂时没得好房子把你蹾，你就现在这块～两天，底下我再来想办法。丨不要嫌菜不好吃，你就～住点ㄦ吧，能有人忙吖把你吃就不错唻。丨他这种人，只有你能同他～住啊过。  
+1. 【[𨑊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non.md#𨑊)】`non2` <sup>[泰州]</sup> 明知不妥而勉强凑合：暂时没得好房子把你蹾，你就现在这块～两天，底下我再来想办法。｜不要嫌菜不好吃，你就～住点ㄦ吧，能有人忙吖把你吃就不错唻。｜他这种人，只有你能同他～住啊过。  
 1. 【[挪移](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_i.md#挪移)】`nu2 i2` <sup>[兴化]</sup> ① 挪借：～款项。 ② 移动：向前～几步。  
 1. 【[懦褦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_nae.md#懦褦)】`nu5 nae6` <sup>[如东]</sup> 胆小软弱：这个姑娘比较～。  
 1. 【[懦懦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_nu.md#懦懦)】`nu5 nu5` <sup>[如皋]</sup> 睡觉。儿语。“懦”字表音。  

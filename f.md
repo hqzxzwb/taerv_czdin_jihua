@@ -148,7 +148,7 @@
 1. 【[发躁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_zo.md#发躁)】`faeh7 zo5` <sup>[如东]</sup> ① 发急。 ② 发脾气：要冷静，不要～。  
 1. 【[发簪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_zun.md#发簪)】`faeh7 zun1` <sup>[如东]</sup> 固定长头发的工具。黄杨木制，长条形，一头粗，一头细，似针。头发盘在头顶，用发簪插入，加以固定。  
 1. 【[法](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh.md#法)】`faeh7` <sup>[兴化]</sup> 助词，和动词、形容词结合，表样子、程度等‖也作“法子”：走～；闹～；好～；忙～。  
-1. 【[法](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh.md#法)】`faeh7` <sup>[泰州]</sup> ① 跟在动词后，表示做某事的具体规范：画法丨走法丨骂人也不作兴这种骂～。丨事情不是这样弄～。 ② 跟在形容词后，表示某个动作行为的具体状态：他就这样邪～。丨天这吖黑～。  
+1. 【[法](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh.md#法)】`faeh7` <sup>[泰州]</sup> ① 跟在动词后，表示做某事的具体规范：画法｜走法｜骂人也不作兴这种骂～。｜事情不是这样弄～。 ② 跟在形容词后，表示某个动作行为的具体状态：他就这样邪～。｜天这吖黑～。  
 1. 【[法办](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_baen.md#法办)】`faeh7 baen5` <sup>[如东]</sup> ① 依法办理。 ② 侬法处决。  
 1. 【[法话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_hua.md#法话)】`faeh7 hua6` <sup>[兴化]</sup> 夸张、渲染的话：你的～多唻，做做关目就能治癌症，天下医院全要关门吖！  
 1. 【[法眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_ngaen.md#法眼)】`faeh7 ngaen3` <sup>[东台]</sup> 指精深、敏锐的眼力、辨别力：这幅画是真是假，请～鉴定。  
@@ -236,7 +236,7 @@
 1. 【[帆船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_chun.md#帆船)】`faen2 chun2` <sup>[如东]</sup> 渔船的一种。木壳，吨位较小，以风帆为动力，从事捕捞作业或货物运输。如东沿海的帆船为平底，适宜于沙滩港湾航行、停泊，称沙船。浙江沿海的帆船为尖底，适宜于深水港湾航行、停泊，称鸟船。  
 1. 【[烦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen.md#烦)】`faen2` <sup>[兴化]</sup> 啰唆、不停地说：你少要～吧，我这许有事唻！  
 1. 【[烦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen.md#烦)】`faen2` <sup>[泰州]</sup> ① 烦琐：贷款手续多～吖。 ② 烦躁，思绪混乱：这一刻ㄦ心里～。 ③ 劳烦，多用作请人办事时的客套用语：～你把这件货送过去。 ④ 厌烦：一天接待啊5批人，你说哿～吖！  
-1. 【[烦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen.md#烦)】`faen2` <sup>[泰州]</sup> 多言：你覅在这块～吧，我晓得咖唻。丨她就～煞咖，把你耳朵里头都听出老茧来啊。  
+1. 【[烦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen.md#烦)】`faen2` <sup>[泰州]</sup> 多言：你覅在这块～吧，我晓得咖唻。｜她就～煞咖，把你耳朵里头都听出老茧来啊。  
 1. 【[烦着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_chah.md#烦着)】`faen2 chah8` 值得：何～？｜不～  
 1. 【[烦烦倒倒的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_faen_do_do_dii.md#烦烦倒倒的)】`faen2 faen2 do5 do5 dii` <sup>[东台]</sup> 形容办某件事程序多，很麻烦：不打算搬家，省得～。  
 1. 【[烦神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_shen.md#烦神)】`faen2 shen2` <sup>[东台]</sup> 操心：这事用不着你～。  
@@ -737,7 +737,7 @@
 1. 【[粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen.md#粉)】`fen3` <sup>[东台]</sup> （此处为形容词）含淀粉较高：你的这个番瓜哿～？  
 1. 【[粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen.md#粉)】`fen3` <sup>[兴化]</sup> 山芋、南瓜等因纤维少而柔软：小白藤的山芋最～。｜拉瓜（长筒形）比斜瓜～。  
 1. 【[粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen.md#粉)】`fen3` <sup>[泰县]</sup> 形容淀粉多：这山芋～。  
-1. 【[粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen.md#粉)】`fen3` <sup>[泰州]</sup> 食物因淀粉含量高，吃在嘴中的绵软而略带噎人的感觉：这个山芋～得加思唻。丨这个番瓜吃咖嘴里一点ㄦ也不～。  
+1. 【[粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen.md#粉)】`fen3` <sup>[泰州]</sup> 食物因淀粉含量高，吃在嘴中的绵软而略带噎人的感觉：这个山芋～得加思唻。｜这个番瓜吃咖嘴里一点ㄦ也不～。  
 1. 【[粉巴<sub>儿</sub>汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_ba_r_tan.md#粉巴<sub>儿</sub>汤)】`fen3 ba1 r tan1` <sup>[泰县]</sup> 淀粉制成的汤。  
 1. 【[粉板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_baen.md#粉板)】`fen3 baen3` <sup>[如皋]</sup> 旧时用毛笔作临时记录的小块白漆板。又称粉牌。  
 1. 【[粉笔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_bieh.md#粉笔)】`fen3 bieh7` <sup>[如东]</sup> 熟石膏加水搅拌、灌入模型后凝固而成的条状物，用来在黑板上写字。  

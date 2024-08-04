@@ -92,9 +92,9 @@
 1. 【[呃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh.md#呃)】`eh` 助词“啊a”“吖nga”在部分地区的发音：来～（来了）；醒～（醒了）。  
 1. 【[呃唷哇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh_io_va.md#呃唷哇)】`eh7 io va1` <sup>[兴化]</sup> 叹词。  
 1. 【[呃唷㗏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh_io_vae.md#呃唷㗏)】`eh7 io vae1` <sup>[兴化]</sup> ① 叹词。呼痛：～，肚子疼！ ② 讽刺语气：～，小王不简单！  
-1. 【[啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh.md#啊)】`eh7` <sup>[泰州]</sup> 表示是否，用于疑问：上海你～去？丨你～吃烧饼？  
+1. 【[啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh.md#啊)】`eh7` <sup>[泰州]</sup> 表示是否，用于疑问：上海你～去？｜你～吃烧饼？  
 1. 【[呃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh.md#呃)】`eh8` <sup>[东台]</sup> 气逆作声：打～。  
-1. 【[呃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh.md#呃)】`eh8` <sup>[泰州]</sup> ① （泰州词典作餩） ② 打嗝时发出的声音：～打啊不歇，快点ㄦ家去加点ㄦ衣裳。丨打～。  
+1. 【[呃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh.md#呃)】`eh8` <sup>[泰州]</sup> ① （泰州词典作餩） ② 打嗝时发出的声音：～打啊不歇，快点ㄦ家去加点ㄦ衣裳。｜打～。  
 1. 【[儿不嫌母丑，狗不嫌家穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_beh_xin_mu.md#儿不嫌母丑，狗不嫌家穷)】`er2 beh7 xin2 mu3 cheu3 geu3 beh7 xin2 ga1 qion2` <sup>[东台]</sup> 人不能忘本，要爱国、爱家、爱长辈。  
 1. 【[儿肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_chan.md#儿肠)】`er2 chan2` <sup>[如东]</sup> 阴道。  
 1. 【[儿肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_chan.md#儿肠)】`er2 chan2` <sup>[如皋]</sup> ① 内生殖器总称。 ② 特指动物输卵管，是阉割的部分。 ③ 也有指男性输精管的。  
@@ -208,7 +208,7 @@
 1. 【[乩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#乩)】`ji1` <sup>[东台]</sup> 一种迷信方法。由二人扶一丁字形的木架竖在沙盘上，所谓神降临时会执木架画字，为人决疑治病，预示吉凶。  
 1. 【[几几乎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ji_hv.md#几几乎)】`ji1 ji1 hv1` <sup>[如皋]</sup> 只差一点点：他～捱汽车轧咖。又作“差点儿”、“实险儿”。  
 1. 【[刏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#刏)】`ji1` <sup>[兴化]</sup> 断物。《广韵·微韵》居依切：“～，断切也……”：～萝卜缨子；～草绳。  
-1. 【[刏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#刏)】`ji1` <sup>[泰州]</sup> 用手将东西扭断或者拉断（*刉）：你把萝卜缨儿～啊来腌咸菜。丨你这个面擀得太长吖唻，把它～成两段，才好扠唻。  
+1. 【[刏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#刏)】`ji1` <sup>[泰州]</sup> 用手将东西扭断或者拉断（*刉）：你把萝卜缨儿～啊来腌咸菜。｜你这个面擀得太长吖唻，把它～成两段，才好扠唻。  
 1. 【[叽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#叽)】`ji1` <sup>[如皋]</sup> 副词，很。常组成“叽A的”或“A叽叽”的语式。可为苦、酸、涩、䴛、瘦等的缀词。如皋词典写“𪊆”。  
 1. 【[叽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#叽)】`ji1` <sup>[泰县]</sup> 很：地下～潮的。  
 1. 【[叽嘈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_co.md#叽嘈)】`ji1 co` <sup>[兴化]</sup> 因天气闷热或事情不顺利等原因引起的烦燥感：请你覅～！烦死啊。  
@@ -227,7 +227,7 @@
 1. 【[抲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka.md#抲)】`ka1` <sup>[兴化]</sup> ① 嵌：桌子缝里～灰。 ② 硬塞：吃不下去硬～。  
 1. 【[抲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka.md#抲)】`ka1` <sup>[泰县]</sup> 抓：把药～住阿。（《集韵》平声麻韵丘加切：“扼也，或作揢㧎”。）  
 1. 【[抲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka.md#抲)】`ka1` <sup>[泰县]</sup> 放、塞：街上卖的鸡子食都～得满满的。  
-1. 【[抲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka.md#抲)】`ka1` <sup>[泰州]</sup> ① 强行塞进：他吃不下去就不要硬～他唻。丨你多～点ㄦ馅心，包子才好吃。 ② 把钱物强行塞给别人：临走的时候，老李又～啊两包烟把他。 ③ 强行安插人员：编制已经满吖，上头又～啊两个人进来啊。  
+1. 【[抲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka.md#抲)】`ka1` <sup>[泰州]</sup> ① 强行塞进：他吃不下去就不要硬～他唻。｜你多～点ㄦ馅心，包子才好吃。 ② 把钱物强行塞给别人：临走的时候，老李又～啊两包烟把他。 ③ 强行安插人员：编制已经满吖，上头又～啊两个人进来啊。  
 1. 【[揩油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka_ieu.md#揩油)】`ka1 ieu2` <sup>[东台]</sup> ［喻］占公家或别人的便宜。另见kae1 ieu2。念ka1为吴语影响。  
 1. 【[揩油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka_ieu.md#揩油)】`ka1 ieu2` <sup>[兴化]</sup> （借）调戏妇女：覅看他跑出来人模人样的，一见漂亮女将就想～。  
 1. 【[喀籽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka_zz.md#喀籽)】`ka2 zz3` <sup>[如皋]</sup> 新母鸡性成熟的鸣声，表示将会生蛋。  
@@ -401,7 +401,7 @@
 ## S
 1. 【[……续咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_ga.md#……续咖)】`soh7 ga` <sup>[东台]</sup> 接在动词后面，表示持续进行：相～（看住｜看紧）｜说～跑～（边说边走）。  
 1. 【[唦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa.md#唦)】`sa` <sup>[兴化]</sup> ① 语气词：用于祈使句末尾｜你快来～！｜覅急，听我慢慢说一！ ② 在句中停顿处，表示比较强烈的语气：快跑～！车子要开啦！ ③ 在句末表示疑问语气：他的身世你哿清楚～？  
-1. 【[唦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa.md#唦)】`sa` <sup>[泰州]</sup> ① 语气词，表示轻微责备：快点ㄦ说～。丨教你不要说，你说咖做甚的～。 ② 表示略微疑问：不听你的～，你肯定不高兴，听你的～，就要得罪他。  
+1. 【[唦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa.md#唦)】`sa` <sup>[泰州]</sup> ① 语气词，表示轻微责备：快点ㄦ说～。｜教你不要说，你说咖做甚的～。 ② 表示略微疑问：不听你的～，你肯定不高兴，听你的～，就要得罪他。  
 1. 【[生活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa_hu.md#生活)】`sa1 hu5` <sup>[如皋]</sup> 吴语词，苦头：吃～。  
 1. 【[生活客人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa_hu_keh_ren.md#生活客人)】`sa1 hu5 keh7 ren` <sup>[如皋]</sup> 经常因调皮捣蛋而挨打、吃苦头的少年人。  
 1. 【[洒光摄亮的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa_guan_shih_lian_dii.md#洒光摄亮的)】`sa3 guan1 shih7 lian6 dii` <sup>[如皋]</sup> 见“洒亮的”。  
@@ -447,7 +447,7 @@
 1. 【[䝹𧶲户<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_den_hv_r.md#䝹𧶲户<sub>儿</sub>)】`u1 den hv6 r` <sup>[东台]</sup> un3 dun3 hv6 r的转音。平时不张扬，低调，但很殷实的人家：覅看这个企业小，其实是个～。  
 1. 【[倭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_zz.md#倭子)】`u1 zz` <sup>[如皋]</sup> 旧称日本国为倭国。其海盗为～：西场镇有～坟。  
 1. 【[唩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u.md#唩)】`u1` <sup>[如皋]</sup> 说话缠夹不清：舌头打～、说话～七～八的、～里～咑的、～咑～咑的。  
-1. 【[唩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u.md#唩)】`u1` <sup>[泰州]</sup> 舌头僵在口中，说话吐字不清的样子：只听他嘴里～啊～的，不晓得他说的是甚的意思。丨这小伙说话像舌头～啊嘴里，怕的是小时候惯吖狠吖。  
+1. 【[唩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u.md#唩)】`u1` <sup>[泰州]</sup> 舌头僵在口中，说话吐字不清的样子：只听他嘴里～啊～的，不晓得他说的是甚的意思。｜这小伙说话像舌头～啊嘴里，怕的是小时候惯吖狠吖。  
 1. 【[屙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u.md#屙)】`u1` <sup>[兴化]</sup> 排泄大小便：～屎；～尿。  
 1. 【[屙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u.md#屙)】`u1` <sup>[泰州]</sup> 排泄大小便。  
 1. 【[屙啊一裤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_a_ieh_kv_zz.md#屙啊一裤子)】`u1 a ieh7 kv5 zz` <sup>[如皋]</sup> 状情况糟透了。  
@@ -502,7 +502,7 @@
 1. 【[稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#稀)】`xi1` <sup>[东台]</sup> ① 各个物体之间空隙大。 ② 轻微裂开或开启（古籍用字：𠩺，《说文·文部》，许其切）：门～啊一条缝。  
 1. 【[稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#稀)】`xi1` <sup>[兴化]</sup> 程度副词，相当于“很”，往往含贬义，表说话人的不满情绪：～脏的；～冷的；……执刑的把个板子摆在腿上，来回光啊光的，光的～痒的……（《武松》五）  
 1. 【[稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#稀)】`xi1` <sup>[泰县]</sup> 裂开：～啊一条缝。  
-1. 【[稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#稀)】`xi1` <sup>[泰州]</sup> 程度副词，很，极其：这个咸菜～咸的，你要多泡个盹ㄦ。丨～醉丨～苦丨～软丨～嫩  
+1. 【[稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#稀)】`xi1` <sup>[泰州]</sup> 程度副词，很，极其：这个咸菜～咸的，你要多泡个盹ㄦ。｜～醉｜～苦｜～软｜～嫩  
 1. 【[稀啊稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_a_xi.md#稀啊稀)】`xi1 a xi1` <sup>[泰县]</sup> 人群渐渐稀少：今朝会开啊不久，人都～的走掉啊。  
 1. 【[稀𬙙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_fan.md#稀𬙙)】`xi1 fan1` <sup>[如东]</sup> 一种捕鱼网具。圆锥形，口宽约1丈，网身长约2丈。草绳结成，网眼较大故称稀𬙙。作业时，把罗放人海洋里，用竹竿撑开，主要捕捞海蜇。  
 1. 【[稀缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_fon.md#稀缝)】`xi1 fon6` <sup>[如东]</sup> 板块接合部裂开：桌面～。  
@@ -510,14 +510,14 @@
 [更多...](./x.md)
 ## Y
 1. 【[淤泥河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_ni_hu.md#淤泥河)】`y1 ni2 hu2` <sup>[东台]</sup> 东台城古地名（现中亚城市花园背后），相传唐太宗李世民曾在此遇险，马陷～。  
-1. 【[瘀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y.md#瘀)】`y1` <sup>[泰州]</sup> 思维突然受到干扰后一时处于停滞状态：我刚才捱他打啊个岔，人就捱～住啊，到啊嘴边子的话，还就想不起来唻。丨我这一刻儿脑子～啊，繁体的马字是怎吖写的啊？  
+1. 【[瘀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y.md#瘀)】`y1` <sup>[泰州]</sup> 思维突然受到干扰后一时处于停滞状态：我刚才捱他打啊个岔，人就捱～住啊，到啊嘴边子的话，还就想不起来唻。｜我这一刻儿脑子～啊，繁体的马字是怎吖写的啊？  
 1. 【[迂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y.md#迂)】`y1` <sup>[兴化]</sup> ① 性格迁腐、固执：“表兄此论甚～。当今之世，讲甚天理……”（《梼杌闲评》三六） ② 由于受强烈刺激而神经紊乱：一个人愁狠了，神就乱了｜神一乱，就～了，就糊了。（扬说《闯昭关》）也说“迂痰”。  
-1. 【[迂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y.md#迂)】`y1` <sup>[泰州]</sup> ① 迂腐，拘泥陈腐的规则，不切合实际：你就不要～吧，现在带啊身上结婚的人太多啊。丨这个人是个～夫子。 ② 指人坚持原则，不受利诱：他这个人～得狠，管你是甚的人，找他开后门是不可能的事。  
+1. 【[迂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y.md#迂)】`y1` <sup>[泰州]</sup> ① 迂腐，拘泥陈腐的规则，不切合实际：你就不要～吧，现在带啊身上结婚的人太多啊。｜这个人是个～夫子。 ② 指人坚持原则，不受利诱：他这个人～得狠，管你是甚的人，找他开后门是不可能的事。  
 1. 【[迂而且赘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_er_qia_zhuei.md#迂而且赘)】`y1 er2 qia3 zhuei5` <sup>[兴化]</sup> 迂腐而又啰唆：“笑话了，也不是买货，还要定准。好，你这个人～哎……”（《武松》六）  
 1. 【[迂而赘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_er_zhuei.md#迂而赘)】`y1 er2 zhuei5` <sup>[如皋]</sup> 古板执拗的脾气。  
 1. 【[迂瘕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_ha.md#迂瘕)】`y1 ha2` <sup>[兴化]</sup> 迂腐、守旧，作事过于顶真。也称“瘕魔”。  
 1. 【[迂痰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_taen.md#迂痰)】`y1 taen2` <sup>[兴化]</sup> 见“迂”。  
-1. 【[余](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y.md#余)】`y2` <sup>[泰州]</sup> 积攒钱钞和物品：太太～啊不少布头子，妈妈把它俫拼吖一条被面单子。丨他上小学就开始～邮票唻。丨你把压岁钱～起来，留啊开学交学费。丨他这几年～啊不少钱。  
+1. 【[余](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y.md#余)】`y2` <sup>[泰州]</sup> 积攒钱钞和物品：太太～啊不少布头子，妈妈把它俫拼吖一条被面单子。｜他上小学就开始～邮票唻。｜你把压岁钱～起来，留啊开学交学费。｜他这几年～啊不少钱。  
 1. 【[余多滞少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_du_chr_sho.md#余多滞少)】`y2 du1 chr5 sho3` <sup>[兴化]</sup> 指挑拣后剩下的：这筐苹果由你们先拿，～全把我。  
 1. 【[余外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_vae.md#余外)】`y2 vae6` <sup>[兴化]</sup> 除此之外：“上头除掉姑老爷，就是于舅太爷一位，～的人都越不过我的头去。”（《官场现形记》五九）  
 1. 【[余蓄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_xioh.md#余蓄)】`y2 xioh7` <sup>[兴化]</sup> 积存的钱财：老恒财家手底好，除了放债，做粮行的资金外，还有～……（马春阳《陈大年一家人》）》  

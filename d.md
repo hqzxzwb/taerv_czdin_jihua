@@ -1586,7 +1586,7 @@
 1. 【[𠵨啰𠵨啰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deh_lu_deh_lu.md#𠵨啰𠵨啰)】`deh7 lu1 deh7 lu1` <sup>[如皋]</sup> 见“𠵨𠵨啰啰”。  
 1. 【[𨁽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deh.md#𨁽)】`deh7` 跺脚  
 1. 【[𨁽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deh.md#𨁽)】`deh7` <sup>[泰县]</sup> 用力顿脚，跺脚：不要把地板～坏啊。  
-1. 【[𨁽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deh.md#𨁽)】`deh7` <sup>[泰州]</sup> 将足提起用力蹬向地面：听说儿子把家里留啊结婚的钱弄吖去赌钱，他急咖在家里～脚。丨你鞋子上全是烂泥，把脚～咖子再家来。  
+1. 【[𨁽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deh.md#𨁽)】`deh7` <sup>[泰州]</sup> 将足提起用力蹬向地面：听说儿子把家里留啊结婚的钱弄吖去赌钱，他急咖在家里～脚。｜你鞋子上全是烂泥，把脚～咖子再家来。  
 1. 【[𨁽脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deh_jiah.md#𨁽脚)】`deh7 jiah7` <sup>[如东]</sup> 脚用力向地上猛踩。跺脚。  
 1. 【[𨁽脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deh_jiah.md#𨁽脚)】`deh7 jiah7` <sup>[如皋]</sup> 跺脚、跳脚，状着急、发怒。  
 1. 【[𨁽脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deh_jiah.md#𨁽脚)】`deh7 jiah7` <sup>[东台]</sup> 用脚猛力击地，多表示急躁、愤怒、悲痛等情绪。  
@@ -1610,7 +1610,7 @@
 1. 【[墩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_zz.md#墩子)】`den1 zz` <sup>[兴化]</sup> ① 土堆：土～；泥～。 ② 高于周围平地的小片地方：高～；宗家～（地名）。  
 1. 【[墩子粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_zz_zhoh.md#墩子粥)】`den1 zz zhoh7` <sup>[如东]</sup> 浓度很稠的粥。  
 1. 【[撉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den.md#撉)】`den1` <sup>[如皋]</sup> ① 拳：拳头～儿。 ② 量词：打（dien5）吖他一～儿。  
-1. 【[撉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den.md#撉)】`den1` <sup>[泰州]</sup> ① 摔；扔：你俫班上手榴弹数他～得最远。 ② 量词，打人一拳，谓之一～：这户儿不曾等人家话说咖好啊，上来朝人家脸上就是两～吖子。丨一～儿就把他打啊仰吖地下。  
+1. 【[撉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den.md#撉)】`den1` <sup>[泰州]</sup> ① 摔；扔：你俫班上手榴弹数他～得最远。 ② 量词，打人一拳，谓之一～：这户儿不曾等人家话说咖好啊，上来朝人家脸上就是两～吖子。｜一～儿就把他打啊仰吖地下。  
 1. 【[撴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den.md#撴)】`den1` 扔  
 1. 【[敦床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_chuan.md#敦床)】`den1 chuan2` <sup>[如皋]</sup> ① 见“大板床”。 ② 见“牛栏床”。  
 1. 【[敦脚床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_jiah_chuan.md#敦脚床)】`den1 jiah7 chuan2` <sup>[如东]</sup> 一种简易床，既可当凳，又可当床。  
@@ -1743,7 +1743,7 @@
 1. 【[顿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den.md#顿)】`den5` <sup>[兴化]</sup> 把东西放下：把碗～吖桌上。｜把担子～下来歇气。  
 1. 【[顿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den.md#顿)】`den5` <sup>[泰县]</sup> 竖放：把凳子～吖外头。  
 1. 【[顿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den.md#顿)】`den5` <sup>[泰县]</sup> 放：粥～吖在锅盖上。  
-1. 【[顿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den.md#顿)】`den5` <sup>[泰州]</sup> 放置或安放物品：你把铫子～啊炭炉子上烧水。丨你把担子～下来，歇咖子再走。丨欲顿闲愁无顿处，都着在两眉峰（陈允平《唐多令·秋暮有感》）  
+1. 【[顿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den.md#顿)】`den5` <sup>[泰州]</sup> 放置或安放物品：你把铫子～啊炭炉子上烧水。｜你把担子～下来，歇咖子再走。｜欲顿闲愁无顿处，都着在两眉峰（陈允平《唐多令·秋暮有感》）  
 1. 【[顿不稳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_beh_ven.md#顿不稳)】`den5 beh ven3` <sup>[兴化]</sup> （借）行为葬撞，常捅漏子：他是个～，周正事情千万不能倚他。  
 1. 【[顿不稳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_beh_ven.md#顿不稳)】`den5 beh7 ven3` <sup>[如东]</sup> 东西放得不稳当。比喻办事不扎实：他是一个～，这件事不能让他去做。  
 1. 【[顿不稳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_beh_ven.md#顿不稳)】`den5 beh7 ven3` <sup>[如皋]</sup> 言行不可信，或是指人：他是个～，说话一口大一口小的，叫你心里没数。  
@@ -1949,8 +1949,8 @@
 1. 【[扚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieh.md#扚)】`dieh7` <sup>[如皋]</sup> 摘、拔、扯：～除、～猪毛、走线板儿上～根线、把衣裳上的线头～掉。  
 1. 【[扚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieh.md#扚)】`dieh7` <sup>[东台]</sup> 拔：～毛针。｜～鸡毛。  
 1. 【[扚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieh.md#扚)】`dieh7` <sup>[兴化]</sup> ① 拔物：～鸡毛；～线头；～胡子。 ② （借）把人从群体中拽出：我把他从队伍中～出来说咖几句话。  
-1. 【[扚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieh.md#扚)】`dieh7` <sup>[泰州]</sup> 拽，拉：你把西装的下摆～咖子，弄吖平吖。丨你把牌儿反过来，让我～张牌。  
-1. 【[扚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieh.md#扚)】`dieh7` <sup>[泰州]</sup> 拔出丝状物或者细杆状物：蹄爪儿以后不要买唻，高头的毛不晓得多难～。丨他没得事就对住镜子～胡子。  
+1. 【[扚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieh.md#扚)】`dieh7` <sup>[泰州]</sup> 拽，拉：你把西装的下摆～咖子，弄吖平吖。｜你把牌儿反过来，让我～张牌。  
+1. 【[扚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieh.md#扚)】`dieh7` <sup>[泰州]</sup> 拔出丝状物或者细杆状物：蹄爪儿以后不要买唻，高头的毛不晓得多难～。｜他没得事就对住镜子～胡子。  
 1. 【[扚边心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieh_bin_xien.md#扚边心)】`dieh7 bin1 xien1` <sup>[如东]</sup> 棉花生长到一定阶段，把多余的边心摘除，以促进棉桃的生长。这种方法叫做扚边心。  
 1. 【[扚毛酸醋的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieh_mo_sun_cv_dii.md#扚毛酸醋的)】`dieh7 mo2 sun1 cv5 dii` <sup>[如皋]</sup> 表害怕、畏惧的样子：王先生太厉害，学生看见他，个个～｜老鼠看见猫儿，～。  
 1. 【[扚下下签](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieh_xia_xia_qin.md#扚下下签)】`dieh7 xia6 xia6 qin1` <sup>[东台]</sup> 即凶签，不吉利：运气不好，～，真倒霉！  
@@ -2108,7 +2108,7 @@
 1. 【[钉吖纸捻子里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_nga_zhr_nin_zz_lii.md#钉吖纸捻子里)】`dien5 nga zhr3 nin3 zz lii` <sup>[东台]</sup> ［喻］已经内定，不易改变。  
 1. 【[钉掌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_zhan_zz.md#钉掌子)】`dien5 zhan3 zz` <sup>[如皋]</sup> 给鞋底的前掌和后跟加皮或其他物品并用鞋钉钉上。  
 1. 【[钉桩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_zhuan.md#钉桩)】`dien5 zhuan1` <sup>[兴化]</sup> ① 船靠岸后，为系缆绳在岸边打上铁纤或小木桩。 ② 打桩：把木桩、水泥桩打在河边保护堤岸，或打进地里加固地基。  
-1. 【[丢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu.md#丢)】`dieu1` <sup>[泰州]</sup> ① 人死以后遗留：老的走掉以后，～啊三套房子把他。 ② 摆放，安放：你出门办事要把身上钱～～好，当心弄吖少掉啊。丨你把碗洗啊好啊就～啊碗橱里去。  
+1. 【[丢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu.md#丢)】`dieu1` <sup>[泰州]</sup> ① 人死以后遗留：老的走掉以后，～啊三套房子把他。 ② 摆放，安放：你出门办事要把身上钱～～好，当心弄吖少掉啊。｜你把碗洗啊好啊就～啊碗橱里去。  
 1. 【[丢场面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_chan_min.md#丢场面)】`dieu1 chan2 min6` <sup>[如东]</sup> 丢面子：这件事不曾做成，～。  
 1. 【[丢场面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_chan_min.md#丢场面)】`dieu1 chan2 min6` <sup>[如皋]</sup> 失体面。  
 1. 【[丢筹<sub>儿</sub>钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_chr_r_qin.md#丢筹<sub>儿</sub>钱)】`dieu1 chr2 r qin2` <sup>[如皋]</sup> 见“筹钱”。  
@@ -2550,7 +2550,7 @@
 1. 【[祷祝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_zhoh.md#祷祝)】`do3 zhoh7` <sup>[东台]</sup> 向鬼神求福：（俗语）灵菩萨不要细～。  
 1. 【[倒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do.md#倒)】`do5` <sup>[如东]</sup> ① 泼：把水～掉。 ② 颠倒：把竹竿～过来。  
 1. 【[倒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do.md#倒)】`do5` <sup>[兴化]</sup> ① 两手替换着把线或绳索拉回、绕好：把风筝上的线～下来。 ② 追究、清算：～老账；穷人～古纸。  
-1. 【[倒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do.md#倒)】`do5` <sup>[泰州]</sup> 两手交替换着把线、纱或绳索拉回、绕好：你把头绳儿绷吖好啊，让她倒啊好啊收起来。丨你把鹞子的线倒点下来。  
+1. 【[倒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do.md#倒)】`do5` <sup>[泰州]</sup> 两手交替换着把线、纱或绳索拉回、绕好：你把头绳儿绷吖好啊，让她倒啊好啊收起来。｜你把鹞子的线倒点下来。  
 1. 【[倒扳桨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_baen_jian.md#倒扳桨)】`do5 baen1 jian3` <sup>[兴化]</sup> ① 桨叶向前扳，使船转向或后退：……老渔人一个～，船离开江是，到了夹江的中流。（《火烧赤壁》八） ② （借）说反话。兴化民谣～中即是“某月某日刮大风，碌碡刮得团团转，纸糊灯笼刮不动”之类的反话。  
 1. 【[倒剥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_bah.md#倒剥)】`do5 bah7` <sup>[兴化]</sup> 耕田者骂牛的话，意为该宰杀、开剥：脚！～下来的！  
 1. 【[倒叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_cha.md#倒叉)】`do5 cha1` <sup>[如东]</sup> 采掘蛼螯的工具。一般四齿，齿长八寸，扁而宽，有柄。作业时，将倒叉掘沙，即可采到蛼螯、蛤子、蛤蜊等贝类。  
@@ -2609,7 +2609,7 @@
 1. 【[倒栽葱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_zae_con.md#倒栽葱)】`do5 zae1 con1` <sup>[东台]</sup> 头朝下跌倒。  
 1. 【[倒针子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_zhen_zz.md#倒针子)】`do5 zhen1 zz` <sup>[如皋]</sup> 缝纫针法之一，手工为布下进一针，布上退半针；机器为送布牙倒退。  
 1. 【[倒找](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_zho.md#倒找)】`do5 zho3` <sup>[兴化]</sup> 原应取得，反而付出：来客不烧茶，～一袋烟。  
-1. 【[到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do.md#到)】`do5` <sup>[泰州]</sup> ① 已经，表明到此时的状况：他人到死啊唻，你就不要再计较唻。丨人家到拿到补发工资唻，你家局里还不曾发吤。 ② 用于动宾结构的词或词组之间，表示只要在进行某种动作、行为之时，就会出现某种状态。凡属动宾结构的词或词组之间均可使用：他看到书头就大啊。丨她打到麻将就不喊腰疼唻。丨他喝到酒就来啊神。丨他复到习就打瞌睡！丨她想到儿子眼泪就下来唻！  
+1. 【[到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do.md#到)】`do5` <sup>[泰州]</sup> ① 已经，表明到此时的状况：他人到死啊唻，你就不要再计较唻。｜人家到拿到补发工资唻，你家局里还不曾发吤。 ② 用于动宾结构的词或词组之间，表示只要在进行某种动作、行为之时，就会出现某种状态。凡属动宾结构的词或词组之间均可使用：他看到书头就大啊。｜她打到麻将就不喊腰疼唻。｜他喝到酒就来啊神。｜他复到习就打瞌睡！｜她想到儿子眼泪就下来唻！  
 1. 【[到本](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_ben.md#到本)】`do5 ben3` <sup>[如皋]</sup> 满足，够了，值得：吃三个汤包儿才～｜杀一个鬼子就～，杀两个就赚一个。  
 1. 【[到边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_bin.md#到边)】`do5 bin1` <sup>[如皋]</sup> 周到、完美：做事～。  
 1. 【[到包底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_bo_di.md#到包底)】`do5 bo1 di3` <sup>[东台]</sup> 一直到最后：那人再三请他吃饭，可他～都不曾去。  
@@ -2937,7 +2937,7 @@
 1. 【[瓭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dun_zz.md#瓭子)】`dun1 zz` <sup>[东台]</sup> 旧时打油和酒的工具，用毛竹制成，后以马口铁代替，有一两、半斤、一斤不等。  
 1. 【[瓭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dun_zz.md#瓭子)】`dun1 zz` <sup>[兴化]</sup> 量油、酒的小圆筒，竹子或铁皮制成，有长柄。瓭，《集韵·覃韵》都含切：罂也。俗作“端子”：油～；酒～  
 1. 【[端](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dun.md#端)】`dun1` <sup>[兴化]</sup> 掇：双手～杌子。｜“递个破盆子与他，叫小玉兰替他～。”（《醒世姻缘传》六三）  
-1. 【[端](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dun.md#端)】`dun1` <sup>[泰州]</sup> 用手取持物体挪动位置：～张椅子来把姨妈坐下来说。丨把菜～上来。  
+1. 【[端](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dun.md#端)】`dun1` <sup>[泰州]</sup> 用手取持物体挪动位置：～张椅子来把姨妈坐下来说。｜把菜～上来。  
 1. 【[端茶倒水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dun_cha_do_shuei.md#端茶倒水)】`dun1 cha2 do5 shuei3` <sup>[兴化]</sup> ① 服务性工作：客人来啊，她～忙个不停。 ② 服侍：在床前～。  
 1. 【[端底<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dun_di_r.md#端底<sub>儿</sub>)】`dun1 di3 r` <sup>[如东]</sup> 全部：这下子捱端吖底儿。  
 1. 【[端锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dun_gu.md#端锅)】`dun1 gu1` <sup>[兴化]</sup> （引）全部拿走：七添、八拿、九～。  

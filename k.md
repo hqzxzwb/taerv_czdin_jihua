@@ -7,7 +7,7 @@
 1. 【[抲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka.md#抲)】`ka1` <sup>[兴化]</sup> ① 嵌：桌子缝里～灰。 ② 硬塞：吃不下去硬～。  
 1. 【[抲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka.md#抲)】`ka1` <sup>[泰县]</sup> 抓：把药～住阿。（《集韵》平声麻韵丘加切：“扼也，或作揢㧎”。）  
 1. 【[抲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka.md#抲)】`ka1` <sup>[泰县]</sup> 放、塞：街上卖的鸡子食都～得满满的。  
-1. 【[抲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka.md#抲)】`ka1` <sup>[泰州]</sup> ① 强行塞进：他吃不下去就不要硬～他唻。丨你多～点ㄦ馅心，包子才好吃。 ② 把钱物强行塞给别人：临走的时候，老李又～啊两包烟把他。 ③ 强行安插人员：编制已经满吖，上头又～啊两个人进来啊。  
+1. 【[抲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka.md#抲)】`ka1` <sup>[泰州]</sup> ① 强行塞进：他吃不下去就不要硬～他唻。｜你多～点ㄦ馅心，包子才好吃。 ② 把钱物强行塞给别人：临走的时候，老李又～啊两包烟把他。 ③ 强行安插人员：编制已经满吖，上头又～啊两个人进来啊。  
 1. 【[揩油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka_ieu.md#揩油)】`ka1 ieu2` <sup>[东台]</sup> ［喻］占公家或别人的便宜。另见kae1 ieu2。念ka1为吴语影响。  
 1. 【[揩油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka_ieu.md#揩油)】`ka1 ieu2` <sup>[兴化]</sup> （借）调戏妇女：覅看他跑出来人模人样的，一见漂亮女将就想～。  
 1. 【[喀籽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka_zz.md#喀籽)】`ka2 zz3` <sup>[如皋]</sup> 新母鸡性成熟的鸣声，表示将会生蛋。  
@@ -33,7 +33,7 @@
 1. 【[卡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka.md#卡)】`ka3` <sup>[如东]</sup> 卡住。  
 1. 【[卡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka.md#卡)】`ka3` <sup>[兴化]</sup> ① 强迫：人家不买～住啊买，这算甚的？ ② 勒索、欺压：他仗势欺人，打啊人还～住要“劳务费”。｜“照丞相所言，放走唐僧，～陈家庄，欺善怕恶。”（扬一《通天河》）  
 1. 【[卡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka.md#卡)】`ka3` <sup>[泰州]</sup> ① 张开拇指食指或者中间用力勒紧颈部：冲上去一把～住喉咙嗓子。 ② 逼迫，要挟别人做某事：他就欺你等钱用，～住你降价，我借把你，单不把他拾便宜。  
-1. 【[卡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka.md#卡)】`ka3` <sup>[泰州]</sup> ① 鱼骨头，鱼刺：鱼好吃，就是鱼～犯嫌。丨吐～丨连～一起嚼。 ② 鱼刺扎入口腔：捱鱼卡～啊。 ③ 被物体夹在当中不能活动：两部车子撞起来啊，司机捱～啊车子里头不得出来。  
+1. 【[卡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka.md#卡)】`ka3` <sup>[泰州]</sup> ① 鱼骨头，鱼刺：鱼好吃，就是鱼～犯嫌。｜吐～｜连～一起嚼。 ② 鱼刺扎入口腔：捱鱼卡～啊。 ③ 被物体夹在当中不能活动：两部车子撞起来啊，司机捱～啊车子里头不得出来。  
 1. 【[卡啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka_a.md#卡啊)】`ka3 a` <sup>[如皋]</sup> 被鱼芒刺了喉咙。  
 1. 【[卡疤<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka_ba_r.md#卡疤<sub>儿</sub>)】`ka3 ba1 r` <sup>[如东]</sup> ① 树上的节疤。 ② 比喻岔子，毛病：他是来寻～的。  
 1. 【[卡把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka_ba.md#卡把)】`ka3 ba3` <sup>[如皋]</sup> 放鹰捕猎时另一鹰不期而至，互相争斗。  
@@ -200,7 +200,7 @@
 1. 【[揩揩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_kae_r.md#揩揩<sub>儿</sub>)】`kae1 kae1 r` 橡皮擦  
 1. 【[䬵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#䬵)】`kae2` <sup>[兴化]</sup> 食饱后从胃院中排出气体：～饱。  
 1. 【[䬵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#䬵)】`kae2` <sup>[泰县]</sup> 打嗝：才喝咖汽水，就～起来啊。  
-1. 【[䬵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#䬵)】`kae2` <sup>[泰州]</sup> 吃得过多造成胃气从嘴巴里出来：他今吖子喝咖多啊唻，嘴里就起一直～啊不歇。丨他昨咖晚上吃咖伤吖，早上嘴里还在下～馊味。  
+1. 【[䬵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#䬵)】`kae2` <sup>[泰州]</sup> 吃得过多造成胃气从嘴巴里出来：他今吖子喝咖多啊唻，嘴里就起一直～啊不歇。｜他昨咖晚上吃咖伤吖，早上嘴里还在下～馊味。  
 1. 【[䬵饱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_bo.md#䬵饱)】`kae2 bo3` <sup>[如皋]</sup> 食后，胃中气自口出。  
 1. 【[䬵饱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_bo.md#䬵饱)】`kae2 bo3` <sup>[东台]</sup> 打饱嗝，吃饱后嗳气。  
 1. 【[䬵肥肉味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_fei_roh_vei.md#䬵肥肉味)】`kae2 fei2 roh8 vei6` <sup>[如皋]</sup> 见“䬵油味”。  
@@ -223,7 +223,7 @@
 1. 【[隑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#隑)】`kae5` <sup>[兴化]</sup> ① 斜倚者：～下来｜上床～刻儿。 ② 施延：～时间。 ③ 依赖：你～我，我～你。｜谚曰：大懒～小懒，伙计～老板。《方言》十三｜“～，倚也。”郭璞注｜“江南人呼梯为～，所以～物而登者也。”《集韵·代韵》口溉切｜“～，《博雅》陭也”。  
 1. 【[隑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#隑)】`kae5` <sup>[泰县]</sup> 斜靠，站立：你～啊门上做甚的？  
 1. 【[隑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#隑)】`kae5` <sup>[泰县]</sup> 斜靠：不要～啊那块。  
-1. 【[隑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#隑)】`kae5` <sup>[泰州]</sup> ① 使物体斜靠墙壁：你把这几根竹子先～啊墙上。 ② 背部倚靠在物体上（休息）：他一到家就望沙发上一～看报纸。 ③ 由于不努力或其他原因致使任务拖延（*愒）：这桩事交把你有一个星期唻，明吖一定要交把我，不能再～啊。丨这小伙做事死～，你要是不催住他弄，他有得同你拖啊。  
+1. 【[隑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#隑)】`kae5` <sup>[泰州]</sup> ① 使物体斜靠墙壁：你把这几根竹子先～啊墙上。 ② 背部倚靠在物体上（休息）：他一到家就望沙发上一～看报纸。 ③ 由于不努力或其他原因致使任务拖延（*愒）：这桩事交把你有一个星期唻，明吖一定要交把我，不能再～啊。｜这小伙做事死～，你要是不催住他弄，他有得同你拖啊。  
 1. 【[隑啊下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_a_ha.md#隑啊下)】`kae5 a ha` <sup>[如皋]</sup> 斜靠着。  
 1. 【[隑帮肘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_ban_zheu.md#隑帮肘)】`kae5 ban1 zheu3` <sup>[如东]</sup> 钉在帆船船舱两壁上的梁子，叫隑帮肘。  
 1. 【[隑背](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_bei.md#隑背)】`kae5 bei5` <sup>[如皋]</sup> ① 椅背或沙发背等。 ② 垫在背和背之间，用以缓和及调正姿势的软垫。  
@@ -321,7 +321,7 @@
 1. 【[搉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah.md#搉)】`kah7` <sup>[东台]</sup> 砸，敲击：敲敲～～｜淘米后要把米～干净。  
 1. 【[搉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah.md#搉)】`kah7` <sup>[兴化]</sup> ① 敲、击打：～鸡蛋；～匾子｜调皮就～他一家伙 ② 枪毙的隐语：今朝～掉一个杀人犯 ③ 舂碓：到碓上～稻｜～圆子粉（糯米粉）  
 1. 【[搉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah.md#搉)】`kah7` <sup>[泰县]</sup> 打：～他的手。  
-1. 【[搉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah.md#搉)】`kah7` <sup>[泰州]</sup> ① 敲击：～核桃。丨把淘箩里头的米～～干净。 ② 击打，殴打：再不老实就～他的皮。 ③ 引申指枪毙：杀人犯捱～掉啊。  
+1. 【[搉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah.md#搉)】`kah7` <sup>[泰州]</sup> ① 敲击：～核桃。｜把淘箩里头的米～～干净。 ② 击打，殴打：再不老实就～他的皮。 ③ 引申指枪毙：杀人犯捱～掉啊。  
 1. 【[搉糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_go.md#搉糕)】`kah7 go1` <sup>[泰县]</sup> 蒸糕。  
 1. 【[搉锅底<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_gu_di_r.md#搉锅底<sub>儿</sub>)】`kah7 gu1 di3 r` <sup>[如东]</sup> 一种民俗。假如某人说某人的婆娘与人通奸，某人的婆娘就到某人家去用砖头砸锅底儿，打破煮饭的家伙，表示反对和愤恨：你不要乱说，当心有人～。  
 1. 【[搉拐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_guae_r.md#搉拐<sub>儿</sub>)】`kah7 guae3 r` <sup>[如皋]</sup> 表示嫌恶，不愿：做一个月拿他三百块钱，～唻。  
@@ -332,7 +332,7 @@
 1. 【[确生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_shen.md#确生)】`kah7 shen` <sup>[如皋]</sup> 见“确备”。  
 1. 【[康管](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kan_gun.md#康管)】`kan1 gun3` <sup>[泰县]</sup> 装有墨粉的安瓿。  
 1. 【[炕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kan.md#炕)】`kan1` <sup>[泰县]</sup> 烤：～山芋。  
-1. 【[炕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kan.md#炕)】`kan1` <sup>[泰州]</sup> 干烤，在热锅中、炭火旁烤热烤熟食品：把冷烧饼放锅肚里～啊子再吃。丨我最欢喜吃～山芋。  
+1. 【[炕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kan.md#炕)】`kan1` <sup>[泰州]</sup> 干烤，在热锅中、炭火旁烤热烤熟食品：把冷烧饼放锅肚里～啊子再吃。｜我最欢喜吃～山芋。  
 1. 【[糠圆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kan_iun.md#糠圆)】`kan1 iun2` <sup>[泰县]</sup> 喂鸭子的饲料。  
 1. 【[糠圆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kan_iun_zz.md#糠圆子)】`kan1 iun2 zz` <sup>[兴化]</sup> 皮糠迭成的小圆球，用来喂鸭。  
 1. 【[糠箩里跳到米箩里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kan_lu_lii_tio_do_mi_lu_lii.md#糠箩里跳到米箩里)】`kan1 lu2 lii tio5 do5 mi3 lu2 lii` <sup>[东台]</sup> 喻指从条件差的环境转到条件好的环境中。  
@@ -456,7 +456,7 @@
 1. 【[掯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken.md#掯)】`ken5` <sup>[东台]</sup> 用手按住、不让动摇。  
 1. 【[掯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken.md#掯)】`ken5` <sup>[兴化]</sup> 按、压：一封检举信捱头子～住不让查。｜捱他～住啊气都伸不出来。  
 1. 【[掯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken.md#掯)】`ken5` <sup>[泰州]</sup> ① 按压：你～住他，不要让他跑掉。 ② 扣下：你的审批报告捱～吖在省厅。  
-1. 【[掯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken.md#掯)】`ken5` <sup>[泰州]</sup> 低头，埋头做事：落咖榜，没得旁的法子，只好～起头来念书。丨～头做活技。  
+1. 【[掯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken.md#掯)】`ken5` <sup>[泰州]</sup> 低头，埋头做事：落咖榜，没得旁的法子，只好～起头来念书。｜～头做活技。  
 1. 【[掯嗤掯嗤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken_chr_ken_chr.md#掯嗤掯嗤)】`ken5 chr1 ken5 chr1` <sup>[兴化]</sup> ① 因使力而大声喘息：他在院子里整地，忙得～的。 ② 形容高烧病人呼吸急促的情态：烧得～的。  
 1. 【[掯住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken_chv.md#掯住)】`ken5 chv` <sup>[泰县]</sup> 捺住：～这条鱼，不让它溜掉。  
 1. 【[掯钉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken_dien.md#掯钉)】`ken5 dien1` <sup>[兴化]</sup> 图钉：拿～把地图掯吖墙上。  
@@ -469,7 +469,7 @@
 1. 【[硍/𪣩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken.md#硍/𪣩)】`ken5` <sup>[东台]</sup> 污垢：挫澡擦掉不少～｜茶杯上傍吖茶～。  
 1. 【[硍/𪣩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken.md#硍/𪣩)】`ken5` <sup>[兴化]</sup> ① 积淀的污垢：牙～（垢）｜水～（垢）｜茶～｜尿～｜「马（桶）～。 ② 人身上的滓垢：老～｜古～。 ③ 兴化词典作“硍”，《集韵·恨韵》苦恨切“～，吴俗谓石有痕曰～”。  
 1. 【[硍/𪣩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken.md#硍/𪣩)】`ken5` <sup>[泰县]</sup> 汗垢，泥垢。  
-1. 【[硍/𪣩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken.md#硍/𪣩)】`ken5` <sup>[泰州]</sup> 人体皮肤上的污垢：颈项里全是～，脏煞咖唻。丨个把星期不洗澡，～肯定不少。  
+1. 【[硍/𪣩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken.md#硍/𪣩)】`ken5` <sup>[泰州]</sup> 人体皮肤上的污垢：颈项里全是～，脏煞咖唻。｜个把星期不洗澡，～肯定不少。  
 1. 【[𪣩斑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken_baen.md#𪣩斑)】`ken5 baen1` <sup>[如皋]</sup> 见“𪣩”。  
 1. 【[𪣩溚溚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken_daeh_daeh.md#𪣩溚溚)】`ken5 daeh7 daeh7` <sup>[如东]</sup> ① 形容身体脏而潮湿 ② 形容衣服很脏。  
 1. 【[𪣩幺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken_io_r.md#𪣩幺<sub>儿</sub>)】`ken5 io1 r` <sup>[如皋]</sup> 见“𪣩”。  
@@ -612,7 +612,7 @@
 1. 【[敲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko.md#敲)】`ko1` <sup>[如东]</sup> ① 击：～门。 ② 打：你再调皮，我要～你啦。  
 1. 【[敲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko.md#敲)】`ko1` <sup>[如皋]</sup> ① 用工具打击：～木鱼儿、拿棒儿～头、～锣、～鼓。 ② 买：～老酒。 ③ 敲榨：就凭这句话，～他一顿早茶是准的。  
 1. 【[敲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko.md#敲)】`ko1` <sup>[东台]</sup> 打：～门｜～锣｜～白铁。  
-1. 【[敲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko.md#敲)】`ko1` <sup>[泰州]</sup> ① 击打：～碗 ② 引申指殴打：不好好念书，当心你家老子～你。 ③ 买：到街上～点ㄦ老酒。丨～酱油。  
+1. 【[敲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko.md#敲)】`ko1` <sup>[泰州]</sup> ① 击打：～碗 ② 引申指殴打：不好好念书，当心你家老子～你。 ③ 买：到街上～点ㄦ老酒。｜～酱油。  
 1. 【[敲边鼓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_bin_gv.md#敲边鼓)】`ko1 bin1 gv3` <sup>[东台]</sup> ［喻］旁敲侧击的意思：我早就给他～，他听不进去。  
 1. 【[敲打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_da.md#敲打)】`ko1 da3` <sup>[兴化]</sup> ① 肉刑：县官又把李三重加～，李三当不过，只得屈招道……（《二刻》三八） ② 要挟或刁难：男家要带亲，因为女家～，日子迟迟定不下来。 ③ 批评或刺激：比如有的教员为一点不顺心的事而牢骚……高先生都以为这是～他……（汪曾祺《徙》）  
 1. 【[敲大锣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_da_lu.md#敲大锣)】`ko1 da6 lu2` <sup>[东台]</sup> ［喻］到处大肆宣扬：他有点儿沉不住气，得咖奖就像～样的，生怕人家不晓得。  
@@ -763,7 +763,7 @@
 1. 【[穹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon.md#穹)】`kon2` 隆起，拱起  
 1. 【[穹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon.md#穹)】`kon2` <sup>[如皋]</sup> ① 鼓起来：被单～吖下。 ② 膨胀起来：馒头蒸吖～起来啊。  
 1. 【[穹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon.md#穹)】`kon2` <sup>[东台]</sup> 物体向外隆起、撑起。  
-1. 【[穹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon.md#穹)】`kon2` <sup>[泰州]</sup> 隆起成圆弧形：他跌咖个跟头，额头上～吖个大瘤。丨你不能再吃咖，肚子都～出来啊。  
+1. 【[穹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon.md#穹)】`kon2` <sup>[泰州]</sup> 隆起成圆弧形：他跌咖个跟头，额头上～吖个大瘤。｜你不能再吃咖，肚子都～出来啊。  
 1. 【[孔二奶奶——姜黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_er_nae_nae_jian_huan.md#孔二奶奶——姜黄)】`kon3 er6 nae3 nae jian1 huan2` <sup>[如皋]</sup> 黄孔儿。  
 1. 【[孔方兄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_fan_xion.md#孔方兄)】`kon3 fan1 xion1` <sup>[如东]</sup> 清代铜钱中间有一个方孔，故名孔方兄。比喻钞票。  
 1. 【[孔夫子搬家——刬是书（输）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_fv_zz_bun_ga_caen_shr_shv.md#孔夫子搬家——刬是书（输）)】`kon3 fv1 zz bun1 ga1 caen5 shr6 shv1` <sup>[东台]</sup>   
@@ -845,7 +845,7 @@
 1. 【[刳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua.md#刳)】`kua2` <sup>[兴化]</sup> 割、刮：～肉皮；～～洗洗。兴化词典作“𠛒”，《集韵·麻韵》姑华切｜“～，割也。”（声母不合）  
 1. 【[刳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua.md#刳)】`kua2` <sup>[泰县]</sup> ① 割、刮：你去把猪毛～干净。@打：我逮住他一顿～。 ② 刻写：他在下～钢板。  
 1. 【[刳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua.md#刳)】`kua2` <sup>[泰州]</sup> ① 借用字。 ② 狠揍，狠打：你老实点ㄦ，当心你家老子～你。 ③ 狠狠训斥：他在学堂里捱先生～过啊唻。  
-1. 【[刳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua.md#刳)】`kua2` <sup>[泰州]</sup> ① 用指甲挠。 ② 用薄片刮去物体表皮：～茨菰丨～洋山芋  
+1. 【[刳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua.md#刳)】`kua2` <sup>[泰州]</sup> ① 用指甲挠。 ② 用薄片刮去物体表皮：～茨菰｜～洋山芋  
 1. 【[刳𪣩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_ken.md#刳𪣩)】`kua2 ken5` <sup>[如皋]</sup> 刮身上污垢。  
 1. 【[刳毛芋头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_mo_y_teu.md#刳毛芋头)】`kua2 mo2 y6 teu` <sup>[如皋]</sup> ① 指芋头刮去皮。 ② 比喻男人剃发。  
 1. 【[刳皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_pi.md#刳皮)】`kua2 pi2` <sup>[东台]</sup> ① 刮、削表皮，使之干净。 ② ［引］批评，指责：他捱老板～。  
@@ -891,7 +891,7 @@
 1. 【[㧟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae.md#㧟)】`kuae3` <sup>[如皋]</sup> ① 推卸：她把带伢儿的事～啊把啊我。 ② 纠缠：他～住你，你让不掉。  
 1. 【[㧟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae.md#㧟)】`kuae3` <sup>[东台]</sup> 不平衡的意思：事情要大家出力，不能～啊在哪一个人身上。  
 1. 【[㧟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae.md#㧟)】`kuae3` <sup>[兴化]</sup> 向一边倾斜：一边～｜左舷人多，船～过去啊。  
-1. 【[㧟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae.md#㧟)】`kuae3` <sup>[泰州]</sup> ① 物体朝着一边倾斜：担子～啊一边。丨路不平，人坐啊车子上～得来～得去的，难过煞咖唻。 ② 偏向，倾向于：他俫两个人的事，就看领导～啊哪个人。丨他当然～啊他老乡这头说话。  
+1. 【[㧟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae.md#㧟)】`kuae3` <sup>[泰州]</sup> ① 物体朝着一边倾斜：担子～啊一边。｜路不平，人坐啊车子上～得来～得去的，难过煞咖唻。 ② 偏向，倾向于：他俫两个人的事，就看领导～啊哪个人。｜他当然～啊他老乡这头说话。  
 1. 【[㧟东摵西](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_don_seh_xi.md#㧟东摵西)】`kuae3 don1 seh7 xi1` <sup>[东台]</sup> 带着某人或某物到处奔走：他带啊那们多东西～的，多累啊！  
 1. 【[㧟来㧟去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_lae_kuae_qy.md#㧟来㧟去)】`kuae3 lae2 kuae3 qy5` <sup>[东台]</sup> 物体的重心不断移动，难以掌控。  
 1. 【[㧟篮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_laen.md#㧟篮)】`kuae3 laen2` <sup>[如皋]</sup> 粗篾大篮，有竹系，用臂肘㧟着走。  
@@ -997,7 +997,7 @@
 1. 【[掼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen.md#掼)】`kuaen6` <sup>[如皋]</sup> ① 掷：～手榴弹。 ② 丢下：他来啊气把事情～下来家去啊。 ③ 旧式脱粒：～麦、～稻。  
 1. 【[掼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen.md#掼)】`kuaen6` <sup>[东台]</sup> 撂；扔；失去。  
 1. 【[掼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen.md#掼)】`kuaen6` <sup>[兴化]</sup> ① 扔：他手举砖块向前方～去。｜（那老妈子）也是吓了一个坐蹬，烛台～在一旁。（《八窍珠》二七） ② 摔倒、使摔倒：他把手一抬，“咚”的一声就把对方～吖一个跟头。｜（田焕）刚刚将身子抬起，又早“扑通”一声～倒在青草地上，只是哼唤。（《广陵潮》二一） ③ 丢下、耽搁。谚曰：不怕慢，只怕～。  
-1. 【[掼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen.md#掼)】`kuaen6` <sup>[泰州]</sup> ① 举起物体使劲下砸：隔壁两口子吵事～茶瓶。 ② 向人炫耀自己能力强，钱财多：你不要听他～，他工资没得这吖高。丨他就喜欢在人家跟前～他的本事大。  
+1. 【[掼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen.md#掼)】`kuaen6` <sup>[泰州]</sup> ① 举起物体使劲下砸：隔壁两口子吵事～茶瓶。 ② 向人炫耀自己能力强，钱财多：你不要听他～，他工资没得这吖高。｜他就喜欢在人家跟前～他的本事大。  
 1. 【[掼把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen_ba.md#掼把)】`kuaen6 ba3` <sup>[兴化]</sup> 一种稻麦脱粒方法：高举谷把将穗头摔向碌碡等坚硬的物体，使谷粒落下。也称“摵把”。  
 1. 【[掼床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen_chuan.md#掼床)】`kuaen6 chuan2` <sup>[如东]</sup> 农具。木制，长方形，四只脚，面排竹片或木条。用以脱谷。  
 1. 【[掼床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen_chuan.md#掼床)】`kuaen6 chuan2` <sup>[如皋]</sup> 旧式手工脱粒农具，形似矮方桌，桌面隆起，装有整排的竹竿。  
@@ -1103,7 +1103,7 @@
 1. 【[魁首](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei_sheu.md#魁首)】`kuei2 sheu3` <sup>[如东]</sup> ① 在同辈中才华居首位的人。 ② 比喻第一。  
 1. 【[魁星楼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei_xien_leu.md#魁星楼)】`kuei2 xien1 leu2` <sup>[东台]</sup> 亦称“文昌阁”，始建于清嘉庆十五年，砖木结构，位于东台城东南，八角翘檐，1938年3月毁于日军炮火。  
 1. 【[匮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei.md#匮)】`kuei5` <sup>[泰县]</sup> 营养不良。  
-1. 【[攰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei.md#攰)】`kuei5` <sup>[泰州]</sup> 生病初愈或者疲劳过度导致的体弱无力：他害啊一场大病，人～下来唻，身上没得点点ㄦ劤。丨你又熬夜，身体怎吖得不～㖸。  
+1. 【[攰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei.md#攰)】`kuei5` <sup>[泰州]</sup> 生病初愈或者疲劳过度导致的体弱无力：他害啊一场大病，人～下来唻，身上没得点点ㄦ劤。｜你又熬夜，身体怎吖得不～㖸。  
 1. 【[溃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei.md#溃)】`kuei5` <sup>[东台]</sup> 垮、败逃、腐烂。  
 1. 【[柜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei.md#柜)】`kuei6` <sup>[如东]</sup> 容器。一般长方形，立体，木制，也有水泥制的。体积较大。主要用以贮藏粮食。  
 1. 【[柜模<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei_mu_r.md#柜模<sub>儿</sub>)】`kuei6 mu2 r` <sup>[如东]</sup> 比喻人的体型：他的～大。  
@@ -1206,7 +1206,7 @@
 1. 【[盇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh.md#盇)】`kuh8` <sup>[如皋]</sup> ① 覆盖、笼罩：云头～下来呀；拿～罩儿～碗。 ② 上部凸出：墙头要～下来。  
 1. 【[盇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh.md#盇)】`kuh8` <sup>[泰县]</sup> ① 压、看住：他老是～伢儿。 ② 遮盖：帽子～下来啊啦。  
 1. 【[盇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh.md#盇)】`kuh8` <sup>[泰州]</sup> ① （泰州词典作𥊉） ② 双眼发涩，困倦欲睡：两个眼睛～～的要睡觉。  
-1. 【[盇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh.md#盇)】`kuh8` <sup>[泰州]</sup> ① 人跌倒后头部与物体相撞相碰：他走脚踏车上掼下来，～咖在路牙上，弄得一脸的血。 ② 压在人、物之上：我把腌好的咸菜摆啊在缸里，你去弄快石头来～咖上头。 ③ 上级、长辈或者成就搞着压制下级、晚辈、成就低的：她在家里凶不起来，她家婆婆在上头～住她唻。丨他在班上不曾考过第一，有个伢儿成绩比他好，一直～住他。 ④ 戴帽子戴巾时，使巾边、帽边下垂遮盖住人脸上部：这个鸭舌帽你嫌大，～咖头上像个特务。  
+1. 【[盇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh.md#盇)】`kuh8` <sup>[泰州]</sup> ① 人跌倒后头部与物体相撞相碰：他走脚踏车上掼下来，～咖在路牙上，弄得一脸的血。 ② 压在人、物之上：我把腌好的咸菜摆啊在缸里，你去弄快石头来～咖上头。 ③ 上级、长辈或者成就搞着压制下级、晚辈、成就低的：她在家里凶不起来，她家婆婆在上头～住她唻。｜他在班上不曾考过第一，有个伢儿成绩比他好，一直～住他。 ④ 戴帽子戴巾时，使巾边、帽边下垂遮盖住人脸上部：这个鸭舌帽你嫌大，～咖头上像个特务。  
 1. 【[盇下来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh_ha_lae.md#盇下来)】`kuh8 ha6 lae` <sup>[东台]</sup> ① 巨重的东西从上面压下来：拆房时要防止山墙～｜乌云密布，就像天要～。 ② 耷；下垂：眼睛皮～。  
 1. 【[宽坐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_cu.md#宽坐)】`kun1 cu6` <sup>[如东]</sup> 酒席完了，请客人离开桌位，表示散席，叫做宽坐。  
 1. 【[宽坐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_cu.md#宽坐)】`kun1 cu6` <sup>[东台]</sup> （客套话）指散席以后随便坐或离开。  
@@ -1329,7 +1329,7 @@
 1. 【[看中看](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_zhon_kun.md#看中看)】`kun5 zhon kun5` <sup>[兴化]</sup> 互相依赖，互相推托：他家老人生病，几个儿子～，一个也不主动送老人上医院  
 1. 【[看中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_zhon.md#看中)】`kun5 zhon5` <sup>[东台]</sup> 经过观察，感觉合适。  
 1. 【[枯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv.md#枯)】`kv1` <sup>[兴化]</sup> 焦、糊：饭烧～啊；草晒～啊。  
-1. 【[枯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv.md#枯)】`kv1` <sup>[泰州]</sup> 焦，物体经火烧后呈黄黑色：把饭烧啊～啊。丨家里失咖火，柱子烧啊～啊。  
+1. 【[枯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv.md#枯)】`kv1` <sup>[泰州]</sup> 焦，物体经火烧后呈黄黑色：把饭烧啊～啊。｜家里失咖火，柱子烧啊～啊。  
 1. 【[枯膊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_bah_zz.md#枯膊子)】`kv1 bah7 zz` <sup>[泰县]</sup> 过分肥胖的人：他是个～。  
 1. 【[枯茶色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_cha_seh.md#枯茶色)】`kv1 cha2 seh7` <sup>[兴化]</sup> 像栗子壳那样的颜色。现通称“咖啡色”。  
 1. 【[枯陈酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_chen_jieu.md#枯陈酒)】`kv1 chen2 jieu3` <sup>[如皋]</sup> 用夏枯草、茵陈草浸制的药酒。简称“枯陈”。  

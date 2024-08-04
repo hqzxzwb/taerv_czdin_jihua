@@ -81,7 +81,7 @@
 1. 【[蘘荷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ran_hu.md#蘘荷)】`ran2 hu` <sup>[如东]</sup> 姜科植物蘘荷，多年生草本。  
 1. 【[蘘荷草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ran_hu_co.md#蘘荷草)】`ran2 hu co3` <sup>[如东]</sup> 姜科植物蘘荷叶。  
 1. 【[蘘荷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ran_hu_zz.md#蘘荷子)】`ran2 hu zz3` <sup>[如东]</sup> 姜科植物蘘荷种子。  
-1. 【[𧟄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ran.md#𧟄)】`ran2` <sup>[泰州]</sup> 衣服因为褶皱、摩擦而显得松软：身上的衣裳都穿吖～吖唻，还不脱咖来洗洗。丨棉花胎已经～吖唻，要去𢏳啊子。  
+1. 【[𧟄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ran.md#𧟄)】`ran2` <sup>[泰州]</sup> 衣服因为褶皱、摩擦而显得松软：身上的衣裳都穿吖～吖唻，还不脱咖来洗洗。｜棉花胎已经～吖唻，要去𢏳啊子。  
 1. 【[让当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ran_dan.md#让当)】`ran6 dan1` <sup>[东台]</sup> 也叫“丢当”，指在紧要关头退缩不前：关键时刻请大家个个尽力，不能～。  
 1. 【[让当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ran_dan.md#让当)】`ran6 dan1` <sup>[兴化]</sup> ① 拉开距离：你让个当，好让我过去。 ② 松动：打假的事不能～。  
 1. 【[让当<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ran_dan_r.md#让当<sub>儿</sub>)】`ran6 dan1 r` <sup>[如皋]</sup> 忍让回避。不带宾语。  
@@ -520,7 +520,7 @@
 1. 【[饶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro.md#饶)】`ro2` <sup>[如东]</sup> 再加一点儿：～一点儿吧。  
 1. 【[饶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro.md#饶)】`ro2` <sup>[东台]</sup> 再增添一点的意思：再～点儿｜买的没得～的多。  
 1. 【[饶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro.md#饶)】`ro2` <sup>[泰县]</sup> 加：已经足秤，再～点儿。  
-1. 【[饶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro.md#饶)】`ro2` <sup>[泰州]</sup> 卖方多送给买方的货物：做定的价钱，～不得。丨这个菜是早上买黄瓜的时候饶得来的。  
+1. 【[饶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro.md#饶)】`ro2` <sup>[泰州]</sup> 卖方多送给买方的货物：做定的价钱，～不得。｜这个菜是早上买黄瓜的时候饶得来的。  
 1. 【[饶得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_deh.md#饶得)】`ro2 deh7` <sup>[如皋]</sup> 虽然、尽管：～他会说，还是说不过你。  
 1. 【[饶你过天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_nii_gu_tin.md#饶你过天)】`ro2 nii3 gu5 tin1` <sup>[东台]</sup> 宽恕，免于责罚：这回子～，下次再犯就不客气！  
 1. 【[饶人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_ren.md#饶人)】`ro2 ren2` <sup>[如东]</sup> 对人宽容：他就是不～。  

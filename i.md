@@ -182,8 +182,8 @@
 1. 【[勚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#勚)】`i6` <sup>[东台]</sup> ① 磨损：铲子～掉啊一壳。 ② 指饱食以后还在长时间慢慢地吃。  
 1. 【[勚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#勚)】`i6` <sup>[兴化]</sup> “吃”的贬义说法：～得下去就快～，～不下去就丢碗。  
 1. 【[勚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#勚)】`i6` <sup>[泰县]</sup> ① 勉强多食：总～下去。 ② 詈指吃：你快点儿～。  
-1. 【[勚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#勚)】`i6` <sup>[泰州]</sup> 器物因磨损而失去棱角：这件衣裳上的袖口儿都～掉唻。丨钢笔的笔尖儿都写啊～掉唻。  
-1. 【[勚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#勚)】`i6` <sup>[泰州]</sup> 吃，咽下食物，带有詈义：你在这块说咖不歇，饭都冷吖唻，快点儿～吧。丨你把碗里这点儿饭～下去，不要再弄个滞饭碗出来。  
+1. 【[勚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#勚)】`i6` <sup>[泰州]</sup> 器物因磨损而失去棱角：这件衣裳上的袖口儿都～掉唻。｜钢笔的笔尖儿都写啊～掉唻。  
+1. 【[勚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#勚)】`i6` <sup>[泰州]</sup> 吃，咽下食物，带有詈义：你在这块说咖不歇，饭都冷吖唻，快点儿～吧。｜你把碗里这点儿饭～下去，不要再弄个滞饭碗出来。  
 1. 【[勚人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_ren.md#勚人)】`i6 ren2` <sup>[东台]</sup> 肌肤因受到摩擦而难受。  
 1. 【[勚砂䀇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_sha_gv.md#勚砂䀇)】`i6 sha1 gv1` <sup>[如皋]</sup> 比喻食欲不振，难下咽状。砂䀇：胃。  
 1. 【[异奇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_qi.md#异奇)】`i6 qi2` <sup>[兴化]</sup> “奇异”的逆序词，见到这个奇装异服的人，大家都觉猜～。  
@@ -239,7 +239,7 @@
 1. 【[野](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia.md#野)】`ia3` <sup>[如皋]</sup> ① 偏题：他说咖～掉啊，不曾对到题目。 ② 疏远、不融洽：两个人的关系越处越～。  
 1. 【[野](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia.md#野)】`ia3` <sup>[如东]</sup> ① 不驯服：这头牛～。 ② 规定的圆口拉宽了或变形了：衣领子拉～啊。  
 1. 【[野](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia.md#野)】`ia3` <sup>[东台]</sup> ① 野外，自然生成的：～兔； ② ［引］蛮不讲理：这人说话太～； ③ ［动］在外面乱跑：这个伢儿不晓得～啊哪块去啊。  
-1. 【[野](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia.md#野)】`ia3` <sup>[泰州]</sup> 悄悄离开：马上就要开饭，他人又不晓得～啊哪块去啊。丨下午的会开的半里半作的，老李人就～掉唻。  
+1. 【[野](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia.md#野)】`ia3` <sup>[泰州]</sup> 悄悄离开：马上就要开饭，他人又不晓得～啊哪块去啊。｜下午的会开的半里半作的，老李人就～掉唻。  
 1. 【[野啊汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_a_tan.md#野啊汤)】`ia3 a tan1` <sup>[如皋]</sup> 下锅汤放得过多。  
 1. 【[野啊心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_a_xien.md#野啊心)】`ia3 a xien1` <sup>[东台]</sup> 心神不定，兴趣外移。  
 1. 【[野不收](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_beh_sheu.md#野不收)】`ia3 beh7 sheu1` <sup>[如东]</sup> 性情野，收养不住：我再待她好，她都要往外跑，真是一个～。  
@@ -379,7 +379,7 @@
 1. 【[岳母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_mu.md#岳母)】`iah8 mu3` <sup>[如东]</sup> 妻子的母亲。  
 1. 【[药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah.md#药)】`iah8` 毒杀  
 1. 【[药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah.md#药)】`iah8` <sup>[泰县]</sup> 毒死：～老鼠。  
-1. 【[药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah.md#药)】`iah8` <sup>[泰州]</sup> 设下全套诱人上当：他说的话你不能听，他是～你的。丨这小伙太老卵，你～他啊子。  
+1. 【[药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah.md#药)】`iah8` <sup>[泰州]</sup> 设下全套诱人上当：他说的话你不能听，他是～你的。｜这小伙太老卵，你～他啊子。  
 1. 【[药本](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_ben.md#药本)】`iah8 ben3` <sup>[兴化]</sup> 药剂的成本：他替穷人看病，只收～，不收诊金。  
 1. 【[药饼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_bien_r.md#药饼<sub>儿</sub>)】`iah8 bien3 r` <sup>[东台]</sup> 药片。也叫药饼儿。  
 1. 【[药饼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_bien_r.md#药饼<sub>儿</sub>)】`iah8 bien3 r` <sup>[兴化]</sup> 药片。  
@@ -678,7 +678,7 @@
 1. 【[仰相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_xian.md#仰相)】`ian3 xian5` <sup>[如皋]</sup> 贬指仰躺着休息而不问事。  
 1. 【[养](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian.md#养)】`ian3` <sup>[东台]</sup> 有时特指生育、生养：她～吖个小伙｜我比她养得晚。  
 1. 【[养](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian.md#养)】`ian3` <sup>[兴化]</sup> ① 使舒服：这双鞋子～脚｜手柄～手｜我们坐在船舱铺着的稻草上……既～屁股，又使人觉得舒坦。（马春阳《翁婿同还乡》） ② 形容有控制地：力气不要用足，～住点儿。  
-1. 【[养](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian.md#养)】`ian3` <sup>[泰州]</sup> ① 抚养（未成人、丧失劳动能力的人）：他是爹爹奶奶～吖大啊的。 ② 生育：她家新妇～吖个八斤重的大小伙。 ③ 面条烧熟以后停火，使面条在汤中稍作停留：面要吃烂的，再多～一刻儿。丨饺儿里头包的生肉，要在锅里～～再吃。  
+1. 【[养](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian.md#养)】`ian3` <sup>[泰州]</sup> ① 抚养（未成人、丧失劳动能力的人）：他是爹爹奶奶～吖大啊的。 ② 生育：她家新妇～吖个八斤重的大小伙。 ③ 面条烧熟以后停火，使面条在汤中稍作停留：面要吃烂的，再多～一刻儿。｜饺儿里头包的生肉，要在锅里～～再吃。  
 1. 【[养不好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_beh_ho.md#养不好)】`ian3 beh7 ho3` <sup>[如皋]</sup> 身体一直瘦弱，无法使之健壮。  
 1. 【[养不醒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_beh_xien.md#养不醒)】`ian3 beh7 xien3` <sup>[如皋]</sup> 病、伤、生育之后，身体未能康复。  
 1. 【[养膘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_bio.md#养膘)】`ian3 bio1` <sup>[如皋]</sup> ① 多指畜牲长肉、增重。 ② 谑指人易长肉。  
@@ -1625,7 +1625,7 @@
 1. 【[应天响](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_tin_xian.md#应天响)】`ien5 tin1 xian3` <sup>[兴化]</sup> （贬）为讨好而发出的声响：他用着你的时候好话说得～，你对他没用的时候，理也不理你。｜这里头的人最是势利，只要你有二钱银子存在他那里，他见了你时，便老爷咧、大人咧，叫得～。（《三十年目睹之怪现状》八八）  
 1. 【[应动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_ton.md#应动)】`ien5 ton` <sup>[如东]</sup> 回音，反映：说咖几下子都没得～。  
 1. 【[洇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien.md#洇)】`ien5` <sup>[如东]</sup> 液体在物体上慢慢向四周蔓延：这种纸不好，字写啊上头～。  
-1. 【[洇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien.md#洇)】`ien5` <sup>[泰州]</sup> ① 液体渗透物体并向四周散开：墨水滴咖上头的纸上，～吖底下的纸上唻。丨把窗纸～破一个窟窿 ② 水在土壤之中沿着缝隙渗透：这盆吊兰干吖透啊唻，要～点儿水唻。  
+1. 【[洇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien.md#洇)】`ien5` <sup>[泰州]</sup> ① 液体渗透物体并向四周散开：墨水滴咖上头的纸上，～吖底下的纸上唻。｜把窗纸～破一个窟窿 ② 水在土壤之中沿着缝隙渗透：这盆吊兰干吖透啊唻，要～点儿水唻。  
 1. 【[洇水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_shuei.md#洇水)】`ien5 shuei3` <sup>[如东]</sup> 液体从容器中慢慢渗出：水缸坏啊，向外～。  
 1. 【[瀴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien.md#瀴)】`ien5` <sup>[如皋]</sup> ① 介乎凉与冷之间：～凉、凉～。 ② 凉气袭人：石头～人子。 ③ 冷却：～木炭。  
 1. 【[瀴凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_lian.md#瀴凉)】`ien5 lian` <sup>[如皋]</sup> 凉而偏冷。  
@@ -1755,7 +1755,7 @@
 1. 【[游澡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_zo.md#游澡)】`ieu2 zo3` <sup>[泰县]</sup> 游泳。  
 1. 【[犹自可](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_cz_ku.md#犹自可)】`ieu2 cz6 ku3` <sup>[兴化]</sup> 还好，还不怎样：得罪旁人还～，得罪老板娘可不得了。  
 1. 【[犹是的啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_shr_dii_a.md#犹是的啊)】`ieu2 shr6 dii a` <sup>[如皋]</sup> ① 附和：甲说是，乙说～！ ② 反语：甲说扫的地真干淨，乙说～，鬼画符！又作“犹是的”。  
-1. 【[由](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu.md#由)】`ieu2` <sup>[泰州]</sup> 说话不要太满，要留有余地：下午汇报利润指标的时候要～住点儿。丨你这吖大岁数的人唻，说话也不～住点儿。  
+1. 【[由](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu.md#由)】`ieu2` <sup>[泰州]</sup> 说话不要太满，要留有余地：下午汇报利润指标的时候要～住点儿。｜你这吖大岁数的人唻，说话也不～住点儿。  
 1. 【[由啊去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_a_qy.md#由啊去)】`ieu2 a qy5` <sup>[东台]</sup> 随他去的意思。常常用于劝人：他俫一定要离婚，～吧！  
 1. 【[由打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_da.md#由打)】`ieu2 da3` <sup>[兴化]</sup> 自从：～开年到目下三个月咖。  
 1. 【[由头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_teu.md#由头)】`ieu2 teu` <sup>[泰县]</sup> 理由：事情总有个～。  
@@ -1921,8 +1921,8 @@
 1. 【[噎人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih_ren.md#噎人)】`ih7 ren2` <sup>[如东]</sup> 食物黏性大，吞噎时，喉管有挤胀的感觉。  
 1. 【[擪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih.md#擪)】`ih7` <sup>[如皋]</sup> 往身边塞：～被单头。如皋词典写“掖”。  
 1. 【[擪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih.md#擪)】`ih7` <sup>[东台]</sup> ① 轻按：快把伤口～下子。 ② 贴近：他～咖妈妈怀里｜奶奶宝贝她，她也～奶奶。  
-1. 【[擪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih.md#擪)】`ih7` <sup>[泰州]</sup> 用布、纸之类轻轻按在少量液体上将其吸走：你弄餐巾纸把滴咖桌上的油～掉。丨他手上划啊个口子，你拿棉花同他～咖子。  
-1. 【[擪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih.md#擪)】`ih7` <sup>[泰州]</sup> ① （泰州词典作瘞） ② 撒粉末、粒状物覆盖他物之上：伢儿屙啊地下唻，弄点儿灰把它～掉。丨伢儿颈项里全是痱子，弄点儿粉同他～咖子。  
+1. 【[擪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih.md#擪)】`ih7` <sup>[泰州]</sup> 用布、纸之类轻轻按在少量液体上将其吸走：你弄餐巾纸把滴咖桌上的油～掉。｜他手上划啊个口子，你拿棉花同他～咖子。  
+1. 【[擪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih.md#擪)】`ih7` <sup>[泰州]</sup> ① （泰州词典作瘞） ② 撒粉末、粒状物覆盖他物之上：伢儿屙啊地下唻，弄点儿灰把它～掉。｜伢儿颈项里全是痱子，弄点儿粉同他～咖子。  
 1. 【[擪戗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih_qian.md#擪戗)】`ih7 qian` <sup>[如皋]</sup> ① 妥贴：家具放得蛮～的。 ② 幹练：做事～。 ③ 隐蔽：把贵重杲子放吖～的地方。 ④ 平安、富足、平静：他的日子过得～。  
 1. 【[𢩮粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih_fen.md#𢩮粉)】`ih7 fen3` <sup>[如皋]</sup> 用爽身粉涂揸在皮肤皱折处。  
 1. 【[𢩮汗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih_hun.md#𢩮汗)】`ih7 hun6` <sup>[如皋]</sup> 用汗巾之类轻拭，吸去汗水。而不是擦汗。  
@@ -2094,7 +2094,7 @@
 1. 【[阎王佬<sub>儿</sub>割舌头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_van_lo_r_guh_shih_teu.md#阎王佬<sub>儿</sub>割舌头)】`in2 van2 lo3 r guh7 shih8 teu` <sup>[如皋]</sup> 詈语，责说话过分者、伶牙利齿者。  
 1. 【[阎王娘怀孕——一肚子鬼胎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_van_nian_huae_yen_ieh_dv_zz_guei_tae.md#阎王娘怀孕——一肚子鬼胎)】`in2 van2 nian2 huae2 yen6 ieh7 dv3 zz guei3 tae1` <sup>[东台]</sup>   
 1. 【[阎王债](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_van_zhae.md#阎王债)】`in2 van2 zhae5` <sup>[如东]</sup> 高利贷。这是要人性命的债务，所以叫阎王债。也叫阎王账。  
-1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in.md#□)】`in3` <sup>[泰州]</sup> 语气词，表示突然发现某个情况或者想起某件事情，带有提醒意味：～，前头走的那个人像是你家主任，他来做甚的？丨～，下午的会哿是在三楼开啊？  
+1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in.md#□)】`in3` <sup>[泰州]</sup> 语气词，表示突然发现某个情况或者想起某件事情，带有提醒意味：～，前头走的那个人像是你家主任，他来做甚的？｜～，下午的会哿是在三楼开啊？  
 1. 【[偃柏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_boh.md#偃柏)】`in3 boh7` <sup>[如东]</sup> 灌木，匍匐，小枝上伸成密丛状，剌叶通常交叉对生，排列较紧密，略斜展。球果，带蓝色。耐寒性强，能耐瘠土。可作盆景观赏。  
 1. 【[偃气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_qi.md#偃气)】`in3 qi5` <sup>[如皋]</sup> 停止呼吸，死了。  
 1. 【[偃子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_zz.md#偃子)】`in3 zz` <sup>[如皋]</sup> 指不善应变一味强硬，而吃亏的人：～硬似铁，光棍软似棉；打～，吓相富。  
@@ -2267,7 +2267,7 @@
 1. 【[杳势不咍呆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_shr_beh_hae_dae.md#杳势不咍呆)】`io3 shr5 beh7 hae1 dae1` <sup>[兴化]</sup> 见“杳势咍呆”。  
 1. 【[杳势咍呆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_shr_hae_dae.md#杳势咍呆)】`io3 shr5 hae1 dae1` <sup>[兴化]</sup> 形容慢腾腾的：这块紧急集合，他～的，结果迟到啊。‖又说“杳势不咍呆”。  
 1. 【[舀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io.md#舀)】`io3` <sup>[如东]</sup> 用勺儿将流汁取出来：～汤。  
-1. 【[舀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io.md#舀)】`io3` <sup>[泰州]</sup> 用勺、瓢等取液体：～两勺儿油。丨到缸里～水。  
+1. 【[舀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io.md#舀)】`io3` <sup>[泰州]</sup> 用勺、瓢等取液体：～两勺儿油。｜到缸里～水。  
 1. 【[舀粪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_fen.md#舀粪)】`io3 fen5` <sup>[如皋]</sup> 用料勺舀取粪池中的粪肥料。  
 1. 【[舀油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_ieu.md#舀油)】`io3 ieu2` <sup>[兴化]</sup> 戏指两口子逗嘴为戏：人家两口子～，你俫拉的甚的劝？  
 1. 【[舀子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_zz.md#舀子)】`io3 zz` 舀东西的工具  
@@ -2352,7 +2352,7 @@
 1. 【[雍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion.md#雍)】`ion1` <sup>[如东]</sup> 人的身体无力地倒下来：张老头两腿无力，不能走动，慢慢地～下来啊。  
 1. 【[容](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion.md#容)】`ion2` <sup>[如皋]</sup> 纵容，见“酿”。  
 1. 【[容](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion.md#容)】`ion2` <sup>[如皋]</sup> ① 包容、容许：不～你瞎来！ ② 纵容、包庇：你把伢儿～得这样子！ ③ 库容：仓库里～不下。  
-1. 【[容](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion.md#容)】`ion2` <sup>[泰州]</sup> 溺爱子女，对未成年晚辈所犯错误过度宽容：他家上人把这个伢儿～得不上相。丨你俫这一次不能再～他。  
+1. 【[容](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion.md#容)】`ion2` <sup>[泰州]</sup> 溺爱子女，对未成年晚辈所犯错误过度宽容：他家上人把这个伢儿～得不上相。｜你俫这一次不能再～他。  
 1. 【[容从](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_con.md#容从)】`ion2 con2` <sup>[如东]</sup> 缓慢而轻巧地进行：打酒要～。  
 1. 【[容窥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_guei.md#容窥)】`ion2 guei1` <sup>[如东]</sup> 一种民间风俗。一面圆镜，上面画着太阳与月亮，称容窥。人死后，先放在胸前，后放在两脚之间。  
 1. 【[容易](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_i.md#容易)】`ion2 i` 容易，不难  

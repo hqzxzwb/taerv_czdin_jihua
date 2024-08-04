@@ -104,7 +104,7 @@
 1. 【[罢市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_shr.md#罢市)】`pa6 shr6` <sup>[泰县]</sup> 过时：现在梨已经～。  
 1. 【[䟺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pae.md#䟺)】`pae1` <sup>[东台]</sup> 在泥泞中践踏：下雨天他从田埂上深一脚浅一脚地～家来啊。（《说文解字段注》“从足，贝声，博盖切，十五部”。）  
 1. 【[䟺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pae.md#䟺)】`pae1` <sup>[兴化]</sup> 在积水或烂泥中行走：覅在水塘里～。兴化词典作“䟺”，《广韵·泰韵》蒲盖切“～，赖～行不正也。”（发音不合）  
-1. 【[䟺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pae.md#䟺)】`pae1` <sup>[泰州]</sup> ① 泥泞之中艰难行走：伢儿不学好，才买的鞋子就在烂泥里头～。丨落这吖大的雨，他赤咖个脚，就高一脚第一脚～啊家里来唻。 ② 脚上有泥，行走后在干净地面留下泥巴痕迹：你家来也不换鞋子，家里捱你～得块块是脚印ㄦ。丨脏脚洗啊干净吖再进来，不要把才拖过啊的地板上～啊脏吖。  
+1. 【[䟺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pae.md#䟺)】`pae1` <sup>[泰州]</sup> ① 泥泞之中艰难行走：伢儿不学好，才买的鞋子就在烂泥里头～。｜落这吖大的雨，他赤咖个脚，就高一脚第一脚～啊家里来唻。 ② 脚上有泥，行走后在干净地面留下泥巴痕迹：你家来也不换鞋子，家里捱你～得块块是脚印ㄦ。｜脏脚洗啊干净吖再进来，不要把才拖过啊的地板上～啊脏吖。  
 1. 【[䟺砟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pae_zha.md#䟺砟)】`pae1 zha3` <sup>[东台]</sup> 把绿肥和河泥一层层踩实踩匀，以利充分发酵增加肥力。  
 1. 【[排](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pae.md#排)】`pae2` <sup>[如皋]</sup> 打：再不听话就～你！  
 1. 【[排](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pae.md#排)】`pae2` <sup>[如皋]</sup> 指女孩粗莽。  
@@ -299,7 +299,7 @@
 1. 【[沗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan.md#沗)】`pan5` <sup>[泰县]</sup> 浮在水面。  
 1. 【[沗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan.md#沗)】`pan5` <sup>[泰县]</sup> 浮夸：你一表扬他，他就～起来啊。  
 1. 【[沗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan.md#沗)】`pan5` <sup>[泰县]</sup> 浮在水面上：木头～吖河里。  
-1. 【[沗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan.md#沗)】`pan5` <sup>[泰州]</sup> ① 物体浮于水面：河里块块～的塑料袋ㄦ。 ② 食物浮在菜汤之上：碗里油花～～的。丨锅里～吖几片青菜叶子。丨饺ㄦ～起来啊。  
+1. 【[沗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan.md#沗)】`pan5` <sup>[泰州]</sup> ① 物体浮于水面：河里块块～的塑料袋ㄦ。 ② 食物浮在菜汤之上：碗里油花～～的。｜锅里～吖几片青菜叶子。｜饺ㄦ～起来啊。  
 1. 【[沗鼓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_gv.md#沗鼓)】`pan5 gv3` <sup>[兴化]</sup> ① 旧指轮渡。 ② 俗称趸船。  
 1. 【[沗河灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_hu_den.md#沗河灯)】`pan5 hu2 den1` <sup>[如皋]</sup> 碗中𣥼油作灯，点燃后置河中漂行。旧时如城七月三十地藏庙庙会有此类灯。  
 1. 【[沗来沗去的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_lae_pan_qy_dii.md#沗来沗去的)】`pan5 lae2 pan5 qy5 dii` <sup>[如皋]</sup> 常状人无定业或行止不定。  
@@ -893,7 +893,7 @@
 1. 【[瓢嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_zuei.md#瓢嘴)】`pio2 zuei3` <sup>[兴化]</sup> ① 撅着嘴并微微颤动的样子：……宜荣夫妇瓢着嘴儿唠叨地走了。（马春阳《月朗和她的娘舅们》） ② 两唇颤动，将要啼哭的样子：他被骂得直～，又不敢哭出声来。  
 1. 【[□孙<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_suen_r.md#□孙<sub>儿</sub>)】`pio3 suen1 r` <sup>[如皋]</sup> 长房长孙，刚生时称。  
 1. 【[嘌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio.md#嘌)】`pio3` <sup>[如皋]</sup> 吃相粗鄙。  
-1. 【[嘌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio.md#嘌)】`pio3` <sup>[泰州]</sup> 人的牙齿突露唇外：他的门牙有点ㄦ～。丨他是个～牙齿。  
+1. 【[嘌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio.md#嘌)】`pio3` <sup>[泰州]</sup> 人的牙齿突露唇外：他的门牙有点ㄦ～。｜他是个～牙齿。  
 1. 【[嘌嘴㗘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_jy_pah.md#嘌嘴㗘)】`pio3 jy3 pah7` <sup>[东台]</sup> 形容喜欢吹牛说大话，办事不牢靠的人：那是个～，不要听他的。  
 1. 【[漂亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_lian.md#漂亮)】`pio5 lian` <sup>[如皋]</sup> ① 识相、知趣：你放吖～吖点儿，少吃点儿苦！ ② 利索：手段～，做得～。  
 1. 【[漂亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_lian.md#漂亮)】`pio5 lian` <sup>[如东]</sup> 美观，出色。  
@@ -1025,7 +1025,7 @@
 1. 【[刨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_zz.md#刨子)】`po6 zz` <sup>[如东]</sup> 木工的手工工具。木制，长条形，底平，腰间有捏手。可以刨平、刨光木料。  
 1. 【[抱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po.md#抱)】`po6` <sup>[兴化]</sup> ① 结合在一起：他俫～成一团，有事情互相照应。 ② （借）俘虏：一个班伪军捱新四军～走啊。  
 1. 【[抱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po.md#抱)】`po6` <sup>[泰州]</sup> 收养小孩：他家伢儿是～的。  
-1. 【[抱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po.md#抱)】`po6` <sup>[泰州]</sup> 鸟孵蛋（*菢）：～窠丨这几个小鸡都是家里老母鸡～的。  
+1. 【[抱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po.md#抱)】`po6` <sup>[泰州]</sup> 鸟孵蛋（*菢）：～窠｜这几个小鸡都是家里老母鸡～的。  
 1. 【[抱啊木炭亲嘴——碰一鼻子灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_a_moh_taen_qien_jy_pon_ieh_pieh_zz_huei.md#抱啊木炭亲嘴——碰一鼻子灰)】`po6 a moh8 taen5 qien1 jy3 pon5 ieh7 pieh8 zz huei1` <sup>[东台]</sup>   
 1. 【[抱啊菩萨洗澡——劳神费力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_a_pv_saeh_xi_zo_lo_shen_fei_lieh.md#抱啊菩萨洗澡——劳神费力)】`po6 a pv2 saeh7 xi3 zo3 lo2 shen2 fei5 lieh8` <sup>[东台]</sup>   
 1. 【[抱不哭的伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_beh_koh_dii_nga_r.md#抱不哭的伢<sub>儿</sub>)】`po6 beh7 koh7 dii nga2 r` <sup>[东台]</sup> 回避难题，拣容易做的事去做。  
@@ -1215,7 +1215,7 @@
 1. 【[澎/漰/泙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#澎/漰/泙)】`pon1` <sup>[如皋]</sup> 喷洒：～酒、～醋。  
 1. 【[澎/漰/泙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#澎/漰/泙)】`pon1` <sup>[东台]</sup> 溅：～了一身水。  
 1. 【[澎/漰/泙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#澎/漰/泙)】`pon1` <sup>[兴化]</sup> 给冷饭冷菜洒点水加热：拿水～下子，饭菜容易热。《兴化词典》作“烹”。  
-1. 【[澎/漰/泙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#澎/漰/泙)】`pon1` <sup>[泰州]</sup> ① 水丝飞扬：天上～毛毛雨唻。丨地下灰太多，扫的时候弄点ㄦ水～啊子。 ② 油在热锅中溅起的样子：锅里油～～的，快点ㄦ把菜放下去。丨当心油～吖身上。  
+1. 【[澎/漰/泙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#澎/漰/泙)】`pon1` <sup>[泰州]</sup> ① 水丝飞扬：天上～毛毛雨唻。｜地下灰太多，扫的时候弄点ㄦ水～啊子。 ② 油在热锅中溅起的样子：锅里油～～的，快点ㄦ把菜放下去。｜当心油～吖身上。  
 1. 【[𢏳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#𢏳)】`pon1` <sup>[如东]</sup> 用弓弦使板结的棉花蓬松开来称𢏳。  
 1. 【[𢏳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#𢏳)】`pon1` <sup>[泰县]</sup> 弹棉花：今朝他家～棉花。  
 1. 【[𢏳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#𢏳)】`pon1` <sup>[泰州]</sup> 弹棉花：棉花是才～过啊的。  
@@ -1442,7 +1442,7 @@
 1. 【[跋搅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh_jio.md#跋搅)】`puh8 jio3` <sup>[兴化]</sup> 各方面开销：现在私人建房，材料、人工好算，～大发咖！也作“盘搅”。  
 1. 【[跋绞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh_jio.md#跋绞)】`puh8 jio3` <sup>[东台]</sup> 花销、费用：这一类的活动～太大，划不来，以后不能再搞啊。（“跋”疑似“盘”促化）  
 1. 【[钹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh.md#钹)】`puh8` <sup>[兴化]</sup> 把多出部分去掉：这块木头凸咖在外头，拿锯子～掉。  
-1. 【[拚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun.md#拚)】`pun1` <sup>[泰州]</sup> “拌”（【唐韻】普官切）的俗字。舍弃（时间精力金钱甚至生命等去争斗）：～死丨他敢拆我的房子，我就同他～命。  
+1. 【[拚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun.md#拚)】`pun1` <sup>[泰州]</sup> “拌”（【唐韻】普官切）的俗字。舍弃（时间精力金钱甚至生命等去争斗）：～死｜他敢拆我的房子，我就同他～命。  
 1. 【[拚不得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_beh_deh.md#拚不得)】`pun1 beh deh7` <sup>[如皋]</sup> 舍不得：购物时嫌价高，不愿多花钱。  
 1. 【[拚不起](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_beh_qi.md#拚不起)】`pun1 beh qi3` <sup>[如皋]</sup> 力量的能耐不能与人並比。  
 1. 【[拚不得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_beh_deh.md#拚不得)】`pun1 beh7 deh7` 舍不得  
