@@ -1175,17 +1175,16 @@
 1. 【[戴白布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_poh_bv.md#戴白布)】`dae5 poh8 bv5` <sup>[如东]</sup> 一种民间风俗。父母死了，儿女要在帽子上缝一块白布，表示哀悼。父亲死了，缝在左边；母亲死了，缝在右边。  
 1. 【[戴胜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_shen.md#戴胜)】`dae5 shen5` <sup>[如东]</sup> 鸟，羽毛大部分为棕色，有羽冠，嘴细长而稍弯。吃昆虫，对农业有益。  
 1. 【[戴孝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_xio.md#戴孝)】`dae5 xio5` <sup>[如东]</sup> 死者的亲属身穿孝服，或在袖子上缠黑纱、辫子上扎白绳、鞋头上缝白布，表示哀悼，称戴孝。  
-1. 【[嗒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daeh.md#嗒)】`daeh4` <sup>[泰州]</sup> ① 吃，进食。（清）谷口生《生绡剪》第1回：“（蛇）只是日间，难以吃人，夜间徜出来，寻些荤腥嗒嗒。”（《有缘结蚁三朝子无意逢人双担金》）《儒林外史》第53回：“邹太爷榧子儿你嗒嗒！”（《国公府雪夜留宾来宾楼灯花惊梦》）｜他望见才出笼的馒头，拿到手就～咖一口，差点儿烫吖。 ② 特指喝酒（吃饭）吃菜佐酒（佐餐）。（清）浦琳《清风闸》第11回：“不料五爷眼尖，看见了一盘大鲫鱼，端了出来，搭搭酒。”（《皮奉山议亲孙孝姑出嫁》）同上，第12回：“他把门推上，取了杯子，酒儿吃吃，菜儿搭搭，吃了有八分酒意。”（《看房成交居揎屋》）｜你买点咸小菜儿家来，由吖晚上吃粥的时候～～。｜你到厨房里煠两个花生米子过来，把你家爹爹～酒。（存疑，疑为搭）  
-1. 【[搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daeh.md#搭)】`daeh4` <sup>[泰州]</sup> ① （泰州词典作沓） ② 量词，用于可叠加的纸类物品：他手里拿啊一～钞票走出来啊。  
-1. 【[趿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daeh.md#趿)】`daeh4` <sup>[泰州]</sup> 穿鞋时将鞋的后帮压在脚后跟下，仅仅套上脚尖拖着鞋子走路：他脚上～咖双鞋子出来开门。  
 1. 【[嗒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daeh.md#嗒)】`daeh7` <sup>[如东]</sup> 舔：～咖一口。  
 1. 【[嗒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daeh.md#嗒)】`daeh7` <sup>[如皋]</sup> ① 吃：～咖两大碗饭，肚子饱饱的。 ② 配搭着吃：你不要光是吃饭，也～～菜！ ③ 咬：他捱狗子～咖一口。  
 1. 【[嗒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daeh.md#嗒)】`daeh7` <sup>[兴化]</sup> 吃、品尝：菜没上桌子，先捱他～掉一半。《广韵·合韵》都合切｜“～，舐～。”  
+1. 【[嗒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daeh.md#嗒)】`daeh7` <sup>[泰州]</sup> 吃，进食：他望见才出笼的馒头，拿到手就～咖一口，差点儿烫吖。  
 1. 【[搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daeh.md#搭)】`daeh7` <sup>[如皋]</sup> ① 抓：他要溜，我～住他不放。 ② 捉：他捱公安局的～咖去啊。 ③ 窃取：钱捱人～咖走啊。 ④ 脚拖着鞋。（原文作“𨃚”，义不全合）  
 1. 【[搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daeh.md#搭)】`daeh7` <sup>[兴化]</sup> ① 相配合：扯肥～瘦。 ② 佐酒、佐餐：喝酒～甚菜，各有心中爱。 ③ 勾搭：他在外头混，～上一些痞子。｜“哎哎，听说了吗，柳家老二跟他嫂子～上了。”（刘仁前《香河风情·香河人家》）  
 1. 【[搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daeh.md#搭)】`daeh7` <sup>[兴化]</sup> ① 抓住：这笔生意～住啊。｜民警一把～住小偷。 ② 偷取：存折捱小偷～咖去啊。  
 1. 【[搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daeh.md#搭)】`daeh7` <sup>[兴化]</sup> ① 乘：～船｜～车子｜～飞机｜次日清晨，赵海仙～船赶往南京……（兴文《赵海仙传说》）｜“……你譬如是搭坐我这船，～船的没有坐着中舱的道理。”（《广陵潮》六九） ② 又特指乘顺路的车船  
 1. 【[搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daeh.md#搭)】`daeh7` <sup>[泰州]</sup> ① 搭配，多指主物、好物之外搭配次物、差物：大的全捱你买啊走，小的我卖把哪个，你还要～两个小的㖸！ ② 非夫妻的男女双方勾搭成奸：这小伙同他厂里的个小马马儿～上吖。 ③ 两人或多人同时使劲用双手托起物体：你倈过来几个人，把这张乒乓球桌子～咖里头去。  
+1. 【[搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daeh.md#搭)】`daeh7` <sup>[泰州]</sup> ① 量词，用于可叠加的纸类物品（*沓）：他手里拿啊一～钞票走出来啊。 ② 穿鞋时将鞋的后帮压在脚后跟下，仅仅套上脚尖拖着鞋子走路：他脚上～咖双鞋子出来开门。 ③ 佐酒；佐餐：你买点咸小菜儿家来，由吖晚上吃粥的时候～～。｜你到厨房里煠两个花生米子过来，把你家爹爹～酒。  
 1. 【[搭/𦨎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daeh.md#搭/𦨎)】`daeh7` <sup>[泰州]</sup> 附乘他人交通工具：你下午要上南京，正好～小李的车子去。  
 1. 【[搭班](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daeh_baen.md#搭班)】`daeh7 baen1` <sup>[如东]</sup> 跟随着上班。  
 1. 【[搭板<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daeh_baen_r.md#搭板<sub>儿</sub>)】`daeh7 baen3 r` <sup>[如皋]</sup> 木板拖鞋。  

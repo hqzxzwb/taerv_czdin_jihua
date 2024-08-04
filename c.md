@@ -900,7 +900,7 @@
 1. 【[撑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen.md#撑)】`chen1` <sup>[东台]</sup> 站立。  
 1. 【[撑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen.md#撑)】`chen1` <sup>[兴化]</sup> 站：没事朝门口一～，碍手碍脚的。  
 1. 【[撑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen.md#撑)】`chen1` <sup>[泰县]</sup> ① 撑：～伞。 ② 站：他～吖在那块。  
-1. 【[撑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen.md#撑)】`chen1` <sup>[泰州]</sup> 勉强坚持做某件事或者维持某种状态：他这两天人发烧，还要～住啊去上班。｜公司生意不好，顶多再撑半年估计就要关唻。  
+1. 【[撑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen.md#撑)】`chen1` <sup>[泰州]</sup> ① 吃得过多（*𩞦）：他中上一顿～吖三大碗下去啊。 ② 填充过度饱满：新皮鞋才穿都有点儿勒人，你穿个把星期～吖大啊就没事唻。 ③ 在已吃饱的情况下继续吃（*𩞦）：还剩啊这点儿饭，你把它～下去吧。 ④ 勉强坚持做某件事或者维持某种状态：他这两天人发烧，还要～住啊去上班。｜公司生意不好，顶多再撑半年估计就要关唻。  
 1. 【[撑厂子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_chan_zz.md#撑厂子)】`chen1 chan3 zz` <sup>[东台]</sup> 为某个场面捧场增光。  
 1. 【[撑撑相相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_chen_xian_xian.md#撑撑相相)】`chen1 chen1 xian5 xian5` <sup>[如皋]</sup> 悠闲地站站看看。  
 1. 【[撑撑相相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_chen_xian_xian.md#撑撑相相)】`chen1 chen1 xian5 xian5` <sup>[兴化]</sup> 见“撑吖相的”。  
@@ -934,7 +934,6 @@
 1. 【[蛏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen.md#蛏)】`chen1` <sup>[东台]</sup> 软体动物，甲壳长形，两端圆，壳顶靠前方，壳面黄绿色，生活在浅海内湾，肉质鲜美：市场上多为干～。东台的萝卜烧大～，非常有名。  
 1. 【[蛏钩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_geu_zz.md#蛏钩子)】`chen1 geu1 zz` <sup>[如东]</sup> 钩蛏的工具。前部一根铁丝，顶端弯曲成钩，后部一根木柄。作业时，顺着蛏穴插下去，即可钩蛏。  
 1. 【[蛏壳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_kah_r.md#蛏壳<sub>儿</sub>)】`chen1 kah7 r` <sup>[如东]</sup> 工具。长方形，似一片蛏壳儿。扑匠整理屋面时，用以拍平草面。  
-1. 【[𩞦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen.md#𩞦)】`chen1` <sup>[泰州]</sup> ① 吃得过多：他中上一顿～吖三大碗下去啊。 ② 填充过度饱满：新皮鞋才穿都有点儿勒人，你穿个把星期～吖大啊就没事唻。 ③ 在已吃饱的情况下继续吃：还剩啊这点儿饭，你把它～下去吧。  
 1. 【[㲀箍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_gv.md#㲀箍)】`chen2 gv1` <sup>[如东]</sup> 做木盆、木桶时，将箍向大的一端打紧。  
 1. 【[㲀箍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_gv.md#㲀箍)】`chen2 gv1` <sup>[如皋]</sup> 箍盆桶时，将箍向径大的一端打紧。  
 1. 【[乘风凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_fon_lian.md#乘风凉)】`chen2 fon1 lian2` <sup>[兴化]</sup> 纳凉：夏天晚上，到大桥上去～。  
@@ -1109,12 +1108,12 @@
 1. 【[㵾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen.md#㵾)】`chen6` 冷，冻：～人｜冰～人  
 1. 【[㵾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen.md#㵾)】`chen6` <sup>[如皋]</sup> 触之觉冷：手伸吖冻水里，骨头～得疼。  
 1. 【[㵾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen.md#㵾)】`chen6` <sup>[兴化]</sup> 触摸物体时冷的感觉：被窠里蛮～人的。｜这盆水冰～人的。  
+1. 【[㵾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen.md#㵾)】`chen6` <sup>[泰州]</sup> 寒气逼人：九里天下河去洗被单，还把人～煞唻。  
 1. 【[㵾牙齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_ia_chr.md#㵾牙齿)】`chen6 ia2 chr3` <sup>[东台]</sup> 食物偏冷，牙齿咀嚼时有冷的感觉。  
 1. 【[㵾人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_ren.md#㵾人)】`chen6 ren` <sup>[泰县]</sup> 水冷得使人惊恐。  
 1. 【[㵾人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_ren_zz.md#㵾人子)】`chen6 ren zz` <sup>[如皋]</sup> 接触冷物的感觉：冷天，手摸咖石头上觉察～。  
 1. 【[㵾人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_ren.md#㵾人)】`chen6 ren2` ［凈人］物体温度低，很冷。  
 1. 【[㵾人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_ren.md#㵾人)】`chen6 ren2` <sup>[东台]</sup> 使人触及后有冷刺激的感觉：你手太冷，～吖。（《说文解字》“㵾，冷寒也。”“今吴语谓冷物附他物，其语如郑国之郑，即㵾也。”）  
-1. 【[净](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen.md#净)】`chen6` <sup>[泰州]</sup> 寒气逼人：九里天下河去洗被单，还把人～煞唻。  
 1. 【[阵场雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_chan_y.md#阵场雨)】`chen6 chan y3` <sup>[如皋]</sup> 见“阵头雨”。  
 1. 【[阵场雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_chan_y.md#阵场雨)】`chen6 chan2 y3` <sup>[如东]</sup> 雷阵雨。  
 1. 【[阵场雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_chan_y.md#阵场雨)】`chen6 chan2 y3` <sup>[东台]</sup> 夏秋季节短暂的骤雨。  

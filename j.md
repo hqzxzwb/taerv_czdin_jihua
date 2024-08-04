@@ -1567,7 +1567,6 @@
 1. 【[踺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin.md#踺)】`jin5` <sup>[如皋]</sup> 脉冲式射动：他游起来朝前只～。  
 1. 【[踺鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_ji.md#踺鸡)】`jin5 ji1` <sup>[如皋]</sup> 水赤链蛇，游动很快，头常竖起。  
 1. 【[键子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_zz.md#键子)】`jin5 zz` <sup>[兴化]</sup> 阉过的公牛。  
-1. 【[䩌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio.md#䩌)】`jio1` <sup>[泰州]</sup> 面部消瘦灰黑的样子：你脸上都发咖～，最好上医院望吖子。  
 1. 【[交大伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_da_foh.md#交大伏)】`jio1 da6 foh8` <sup>[东台]</sup> 指进入大暑的那一天。  
 1. 【[交冬数九](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_don_shv_jieu.md#交冬数九)】`jio1 don1 shv3 jieu3` <sup>[兴化]</sup> 从冬至日起，每九天为一“九”，共九个“九”。此间为一年中最寒冷的时期。  
 1. 【[交关](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_guaen.md#交关)】`jio1 guaen1` <sup>[如东]</sup> 形容很多：今朝的海货～吖。  
@@ -1621,6 +1620,7 @@
 1. 【[浇桩水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_zhuan_shuei.md#浇桩水)】`jio1 zhuan1 shuei3` <sup>[如皋]</sup> 旧时人力踏水车戽水时的有奖竞赛。此时戽的水多而急，且冲力大。多在抗旱抢水时采用。  
 1. 【[焦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio.md#焦)】`jio1` <sup>[兴化]</sup> ① 烦闷无聊：着～；～人子。 ② 表示瞧不起人的话：～啊｜～煞咖。  
 1. 【[焦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio.md#焦)】`jio1` <sup>[泰州]</sup> ① 物体烧焦：饭有～味。 ② 烦躁，着急：车子还不曾来，人等吖焦心煞咖。  
+1. 【[焦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio.md#焦)】`jio1` <sup>[泰州]</sup> 面部消瘦灰黑的样子（*䩌）：你脸上都发咖～，最好上医院望吖子。  
 1. 【[焦干逼卜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_gun_bieh_boh.md#焦干逼卜)】`jio1 gun1 bieh7 boh` <sup>[如东]</sup> 河里没有水，非常干燥。  
 1. 【[焦话忑忑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_hua_teh_teh.md#焦话忑忑)】`jio1 hua6 teh7 teh7` <sup>[东台]</sup> 说了许多矫揉造作、阴阳怪气的话。  
 1. 【[焦盐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_in.md#焦盐)】`jio1 in2` <sup>[兴化]</sup> 由炒焦的芝麻屑及糖盐等拌和而成的月饼、烧饼的馅。  

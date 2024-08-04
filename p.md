@@ -1245,6 +1245,7 @@
 1. 【[篷头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_teu_r.md#篷头<sub>儿</sub>)】`pon2 teu2 r` <sup>[泰县]</sup> 露天粮囤的顶篷。  
 1. 【[篷子船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_zz_chun.md#篷子船)】`pon2 zz chun2` <sup>[如皋]</sup> 帆船。船家忌“翻”，改称“篷子”。  
 1. 【[篷子船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_zz_chun.md#篷子船)】`pon2 zz chun2` <sup>[兴化]</sup> 舱面圈着芦席或竹席的船。  
+1. 【[蓬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#蓬)】`pon2` <sup>[泰州]</sup> （头发）松乱（*髼）：～头  
 1. 【[蓬情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_qien.md#蓬情)】`pon2 qien2` <sup>[如东]</sup> 热情：这个姑娘～。  
 1. 【[蓬松](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_son.md#蓬松)】`pon2 son1` <sup>[如东]</sup> 虚松：这块田的泥土～。  
 1. 【[蓬头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_teu.md#蓬头)】`pon2 teu2` <sup>[如东]</sup> ① 头发蓬松散乱。铁钉钉头被压粗了，不好再向里进：钉儿～。 ② 比喻事情已经说死，不好改变了：已经～啊。  
@@ -1260,7 +1261,6 @@
 1. 【[蟛蜞钩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_ji_geu_zz.md#蟛蜞钩子)】`pon2 ji1 geu1 zz` <sup>[如东]</sup> 钩取蟛蜞的工具。顶端双齿弯曲成钩，套在一根竹条上。这根竹条叫做苗子。作业时，将钩子插入蟛蜞洞中，即可钩取蟛蜞。  
 1. 【[蟛蜞锹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_ji_qio.md#蟛蜞锹)】`pon2 ji1 qio1` <sup>[如东]</sup> 挖蟛蜞的工具。铁制，体扁，短小，有柄。主要用于挖蟛蜞。  
 1. 【[蟛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_r.md#蟛<sub>儿</sub>)】`pon2 r` 蟛蜞  
-1. 【[髼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#髼)】`pon2` <sup>[泰州]</sup> 头发松乱：～头  
 1. 【[捧不上台盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_beh_shan_tae_pun.md#捧不上台盘)】`pon3 beh7 shan6 tae2 pun2` <sup>[东台]</sup> 指不上档次的事物，不管怎样吹捧，也难登大雅之堂。  
 1. 【[捧宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_bo.md#捧宝)】`pon3 bo3` <sup>[兴化]</sup> ① （喻）形容小心翼现地：她把小孙子～似的抱啊怀里。 ② 谨慎地陪护着：（婆子）跟在和尚背后替他遮雨，好像～也似的捧入屋里。（《广陵潮》六六）  
 1. 【[捧财神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_cae_shen.md#捧财神)】`pon3 cae2 shen2` <sup>[如皋]</sup> 绑人为质以诈钱财。绑票。  

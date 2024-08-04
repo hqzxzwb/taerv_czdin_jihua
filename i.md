@@ -236,10 +236,10 @@
 1. 【[雅序](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_xy.md#雅序)】`ia2 xy` <sup>[东台]</sup> ① （褒）清爽、整洁、高雅。 ② （贬）过分讲究衣着、起居，难伺候。（这里“雅”读阳平）  
 1. 【[也](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia.md#也)】`ia3` <sup>[东台]</sup> 副词“也（a3）”的又音。  
 1. 【[痒□<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_xia_r.md#痒□<sub>儿</sub>)】`ia3 xia r` <sup>[如皋]</sup> 痒丝丝而有难奈的感觉。  
-1. 【[迓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia.md#迓)】`ia3` <sup>[泰州]</sup> 悄悄离开：马上就要开饭，他人又不晓得～啊哪块去啊。丨下午的会开的半里半作的，老李人就～掉唻。  
 1. 【[野](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia.md#野)】`ia3` <sup>[如皋]</sup> ① 偏题：他说咖～掉啊，不曾对到题目。 ② 疏远、不融洽：两个人的关系越处越～。  
 1. 【[野](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia.md#野)】`ia3` <sup>[如东]</sup> ① 不驯服：这头牛～。 ② 规定的圆口拉宽了或变形了：衣领子拉～啊。  
 1. 【[野](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia.md#野)】`ia3` <sup>[东台]</sup> ① 野外，自然生成的：～兔； ② ［引］蛮不讲理：这人说话太～； ③ ［动］在外面乱跑：这个伢儿不晓得～啊哪块去啊。  
+1. 【[野](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia.md#野)】`ia3` <sup>[泰州]</sup> 悄悄离开：马上就要开饭，他人又不晓得～啊哪块去啊。丨下午的会开的半里半作的，老李人就～掉唻。  
 1. 【[野啊汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_a_tan.md#野啊汤)】`ia3 a tan1` <sup>[如皋]</sup> 下锅汤放得过多。  
 1. 【[野啊心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_a_xien.md#野啊心)】`ia3 a xien1` <sup>[东台]</sup> 心神不定，兴趣外移。  
 1. 【[野不收](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_beh_sheu.md#野不收)】`ia3 beh7 sheu1` <sup>[如东]</sup> 性情野，收养不住：我再待她好，她都要往外跑，真是一个～。  
