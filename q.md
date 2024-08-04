@@ -1982,6 +1982,7 @@
 1. 【[圈盘腿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_pun_ty_r.md#圈盘腿<sub>儿</sub>)】`qiun1 pun2 ty3 r` <sup>[如皋]</sup> “o”型腿。幼年缺鈣造成的畸型腿。  
 1. 【[圈圈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_qiun_r.md#圈圈<sub>儿</sub>)】`qiun1 qiun1 r` <sup>[如东]</sup> ① 在一个地方旋转：打～ ② 一种圆形的箍：推～。  
 1. 【[圈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_r.md#圈<sub>儿</sub>)】`qiun1 r` <sup>[如皋]</sup> 耳环及其他环状物。  
+1. 【[圈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_r.md#圈<sub>儿</sub>)】`qiun1 r` <sup>[泰州]</sup> 太阳月亮周围的光圈：亮月子边上有个～。  
 1. 【[圈套](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_to.md#圈套)】`qiun1 to5` <sup>[如东]</sup> 使人上当受骗的计谋：中吖～。  
 1. 【[全班执事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_baen_zheh_shr.md#全班执事)】`qiun2 baen1 zheh7 shr6` <sup>[东台]</sup> 全体人员（略含讥讽之意）：好家伙，～都来啊！  
 1. 【[全册](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_ceh.md#全册)】`qiun2 ceh7` <sup>[东台]</sup> 从头到尾全都清楚：你要问这个厂是怎吖兴旺起来的，找王爹吧，他～！  

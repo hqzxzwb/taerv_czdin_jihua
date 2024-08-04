@@ -761,7 +761,7 @@
 1. 【[瘊里疙瘩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_lii_geh_daeh.md#瘊里疙瘩)】`heu2 lii geh7 daeh7` <sup>[东台]</sup> ① 许多疙瘩连成了片，皮肤很不光滑：膀子上～的。 ② 形容儿童身体健壮。  
 1. 【[瘊里疙瘩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_lii_geh_daeh.md#瘊里疙瘩)】`heu2 lii geh7 daeh7` <sup>[泰县]</sup> 粗糙：他的脸上～的。  
 1. 【[瘊里疙瘩的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_lii_geh_daeh_dii.md#瘊里疙瘩的)】`heu2 lii geh7 daeh7 dii` <sup>[如皋]</sup> ① 状养得壮实、肌肉块凸起的样子：这小伙养得～。 ② 状表面不平滑：这块板不平整，摸上去～。  
-1. 【[瘊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_zz.md#瘊子)】`heu2 zz` <sup>[东台]</sup> 皮肤病，症状是皮肤上长出表面干燥而粗糙的小疙瘩。  
+1. 【[瘊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_zz.md#瘊子)】`heu2 zz` <sup>\[东台\]\[泰州\]</sup>小疣，皮肤病，症状是皮肤上长出表面干燥而粗糙的小疙瘩：手上长～。<sup>\[泰州\]</sup>  
 1. 【[睺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu.md#睺)】`heu2` <sup>[兴化]</sup> 睡觉：他一觉～下去一直到天亮才醒。  
 1. 【[睺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu.md#睺)】`heu2` <sup>[如皋]</sup> 打鼾：～呼、～猪头。  
 1. 【[睺嘟嘟<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_dv_dv_r.md#睺嘟嘟<sub>儿</sub>)】`heu2 dv1 dv5 r` <sup>[兴化]</sup> 呼呼大睡：他在家里～哩！  

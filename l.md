@@ -2521,6 +2521,7 @@
 1. 【[砻糠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_kan.md#砻糠)】`lon3 kan1` <sup>[如皋]</sup> 用砻子砻下的稻壳。  
 1. 【[弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon.md#弄)】`lon6` <sup>[东台]</sup> 除一般释义外，东台话中中常作介词：不要～手去抓食品。  
 1. 【[弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon.md#弄)】`lon6` <sup>[兴化]</sup> 斗：“……你们却是～他不过的，那时羊入虎口，怎生是好。”（《粉妆楼》七）  
+1. 【[弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon.md#弄)】`lon6` <sup>[泰州]</sup> ① 从事，做：他现在～厂还～得不丑。 ② 搞：家里捱你～得一塌糊涂。 ③ 性交。 ④ 设法取得：你～几张电影票来。 ⑤ 设法抓来、雇来、请来：你想法子～两个人来。 ⑥ 烧煮食物：老太～的菜好吃。 ⑦ 谋求职业：你同他在北京～个工作。 ⑧ 赚：他开店卖空调，～吖不少钱。  
 1. 【[弄点介](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_din_ga.md#弄点介)】`lon6 din ga` <sup>[泰县]</sup> 做一点：你～吃咖子。  
 1. 【[弄到天亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_do_tin_lian.md#弄到天亮)】`lon6 do tin1 lian6` <sup>[兴化]</sup> ① 最终：……怎么～又家来了，还在小船上啊？（《火烧赤壁》六） ② 真相：～东西还是他偷的。  
 1. 【[弄东西](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_don_xi.md#弄东西)】`lon6 don1 xi` <sup>[如东]</sup> 做活计：今朝上午我要下田～。  
@@ -2950,5 +2951,4 @@
 1. 【[累伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_nga_r.md#累伢<sub>儿</sub>)】`ly6 nga2 r` <sup>[如皋]</sup> 指哺育小孩的劳累过程。又叫“过伢儿关”。  
 1. 【[鑢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly.md#鑢)】`ly6` <sup>[兴化]</sup> 用钝器磨、制：在墙角上把麻绳～断。（《说文·金部》）｜“～，错铜铁也。”良据切。  
 1. 【[鑢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly.md#鑢)】`ly6` <sup>[泰县]</sup> 划破：草把他的手～开来啊。  
-1. 【[弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon.md#弄)】`non6` <sup>[泰州]</sup> ① 从事，做：他现在～厂还～得不丑。 ② 搞：家里捱你～得一塌糊涂。 ③ 性交。 ④ 设法取得：你～几张电影票来。 ⑤ 设法抓来、雇来、请来：你想法子～两个人来。 ⑥ 烧煮食物：老太～的菜好吃。 ⑦ 谋求职业：你同他在北京～个工作。 ⑧ 赚：他开店卖空调，～吖不少钱。  
 **[▲](#音序检索)**  
