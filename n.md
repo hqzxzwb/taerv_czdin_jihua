@@ -1641,7 +1641,6 @@
 1. 【[牛皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu_pi.md#牛皮)】`nieu2 pi2` <sup>[泰县]</sup> ① 说空话：吹～。 ② 有本事，他现在的～大𪠸！  
 1. 【[牛皮忑忑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu_pi_teh_teh.md#牛皮忑忑)】`nieu2 pi2 teh7 teh7` <sup>[东台]</sup> 也称“牛屄吽吽”，形容接连不断地吹牛，说大话。  
 1. 【[牛皮筒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu_pi_ton_zz.md#牛皮筒子)】`nieu2 pi2 ton3 zz` <sup>[东台]</sup> 戏指吹牛吹得太厉害的人。  
-1. 【[纽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu.md#纽)】`nieu2` <sup>[泰州]</sup> 把纽扣套入纽襻中，系扣子：衣裳上的纽子不曾～得好就出去啊唻。  
 1. 【[扭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu.md#扭)】`nieu3` <sup>[如东]</sup> 摇摆着。  
 1. 【[扭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu.md#扭)】`nieu3` <sup>[泰州]</sup> 转动，拧：把酱油盖ㄦ～啊好啊。丨这个盖ㄦ～这吖紧，～啊半天～不下来。  
 1. 【[扭扭怪怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu_nieu_guae_guae.md#扭扭怪怪)】`nieu3 nieu3 guae5 guae5` <sup>[兴化]</sup> 矫揉造作，举止不大方：你有话好好说，覅～的。  
@@ -1656,6 +1655,7 @@
 1. 【[扭头毌颈的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu_teu_kuaeh_jien_dii.md#扭头毌颈的)】`nieu3 teu2 kuaeh8 jien3 dii` <sup>[如皋]</sup> 责语：指头颈扭动作态。Kuaeh8，写作口十重叠，类似⊕中横线竖线出头。  
 1. 【[扭头折颈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu_teu_zhih_jien.md#扭头折颈)】`nieu3 teu2 zhih7 jien3` <sup>[兴化]</sup> 见“扭头刮颈”。  
 1. 【[纽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu.md#纽)】`nieu3` <sup>[兴化]</sup> 各种瓜果刚结的果实：斜瓜～。  
+1. 【[纽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu.md#纽)】`nieu3` <sup>[泰州]</sup> 把纽扣套入纽襻中，系扣子：衣裳上的纽子不曾～得好就出去啊唻。  
 1. 【[纽扣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu_keu_r.md#纽扣<sub>儿</sub>)】`nieu3 keu1 r` <sup>[如东]</sup> 布条儿做的纽襻，与桃儿成对。  
 1. 【[纽襻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu_paen.md#纽襻)】`nieu3 paen5` <sup>[兴化]</sup> 扣住纽扣的套儿：他穿了一身铁机纺绸褂裤……盘花钮扣，～拖出一截银表链。（汪曾祺《落魄》）  
 1. 【[纽<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu_r.md#纽<sub>儿</sub>)】`nieu3 r` <sup>[如皋]</sup> 瓜果的雌花和嫩胚。  
@@ -1842,6 +1842,7 @@
 1. 【[嬲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio.md#嬲)】`nio5` <sup>[如皋]</sup> ① 蠕动、扭动、翘起：蛆子～动。 ② 引逗、撩拨：他会～人家说话。  
 1. 【[嬲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio.md#嬲)】`nio5` <sup>[兴化]</sup> ① 扭动、向上翘：大火直往上～。｜蛇㐁子～啊～的。 ② 微风习习：夏天的野外东南风～～的。  
 1. 【[嬲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio.md#嬲)】`nio5` <sup>[东台]</sup> ① 昆虫蠕动状：菜虫一～一～的。 ② ［引］后来翘：房价往上～｜文章结尾～上去啊。  
+1. 【[嬲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio.md#嬲)】`nio5` <sup>[泰州]</sup> ① 火头上窜（舔着锅底）的样子：炭炉子搧吖旺吖唻，火直～唻。丨火头～多高唻。 ② 蛆虫头部伸在空中使劲摇动，身体蠕动挣扎的样子：坑缸里的蛆子头～～的。  
 1. 【[嬲魆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio_xyeh.md#嬲魆)】`nio5 xyeh7` <sup>[如东]</sup> ① 耍计谋：这个人非常～。 ② 调皮：这个伢儿非常～。  
 1. 【[尿床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio_chuan.md#尿床)】`nio6 chuan2` <sup>[如东]</sup> 将尿尿在床铺上，多指小儿  
 1. 【[尿桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio_ton.md#尿桶)】`nio6 ton3` <sup>[如东]</sup> 农具。木制，圆桶形，有环。底部装有一根圆管，叫嘴子。通常桶高26厘米，耳高17厘米，把手23厘米，口径30厘米，底径26厘米，嘴子长28厘米。农民用它把粪或水浇在植物的根部。  

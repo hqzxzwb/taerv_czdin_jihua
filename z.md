@@ -1765,7 +1765,7 @@
 1. 【[跧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuaen.md#跧)】`zhuaen1` 弯腰：～腰  
 1. 【[跧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuaen.md#跧)】`zhuaen1` <sup>[如皋]</sup> 低头、弯腰。  
 1. 【[跧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuaen.md#跧)】`zhuaen1` <sup>[兴化]</sup> 弯着腰：～腰  
-1. 【[跧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuaen.md#跧)】`zhuaen1` <sup>[泰州]</sup> 弯着背部：你把腰稍微～一点儿下来。丨东西𠫓咖地下，你就不能～吖来拾咖子。  
+1. 【[跧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuaen.md#跧)】`zhuaen1` <sup>[泰州]</sup> 弯着背部：你把腰稍微～一点儿下来。｜东西忑咖地下，你就不能～吖来拾咖子。  
 1. 【[跧腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuaen_io.md#跧腰)】`zhuaen1 io1` <sup>[东台]</sup> 弯腰：把腰跧下来。  
 1. 【[赚头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuaen_teu.md#赚头)】`zhuaen5 teu2` <sup>[东台]</sup> 利润：这笔生意～不小。  
 1. 【[㧻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah.md#㧻)】`zhuah7` 用力往下放  

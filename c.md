@@ -2445,7 +2445,7 @@
 1. 【[簇崭新](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_zhaen_xien.md#簇崭新)】`coh7 zhaen3 xien1` <sup>[东台]</sup> 极新；全新：这车子～。  
 1. 【[簇崭新](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_zhaen_xien.md#簇崭新)】`coh7 zhaen3 xien1` <sup>[兴化]</sup> 全新：新房里布置啊～的家具，床上铺啊～的被褥。口语也说“簇崭儿”。  
 1. 【[簇崭新](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_zhaen_xien.md#簇崭新)】`coh7 zhaen3 xien1` <sup>[泰县]</sup> 很新：～的衣裳。  
-1. 【[蹙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh.md#蹙)】`coh7` <sup>[泰州]</sup> 皱眉：望吖他眉头皱啊紧紧的，像是有甚的心思。  
+1. 【[蹙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh.md#蹙)】`coh7` <sup>[泰州]</sup> 皱眉：望吖他眉头～咖紧紧的，像是有甚的心思。  
 1. 【[镞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh.md#镞)】`coh7` <sup>[泰县]</sup> 刻纸：～花匾。  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh.md#□)】`coh8` <sup>[泰县]</sup> 呼吸缓急不平。  
 1. 【[俗气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_qi.md#俗气)】`coh8 qi5` <sup>[如东]</sup> ① 粗笨。 ② 不时兴：这套家具～。  

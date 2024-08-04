@@ -1698,7 +1698,7 @@
 1. 【[楝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin.md#楝)】`lin6` <sup>[东台]</sup> 落叶乔木，叶子互生，羽状复叶，小叶卵形或披针形，花小，淡紫色，果实椭圆形。  
 1. 【[楝树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_shv.md#楝树)】`lin6 shv6` <sup>[如东]</sup> 楝科植物苦楝，落叶乔木。  
 1. 【[楝树牛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_shv_ngeu_r.md#楝树牛<sub>儿</sub>)】`lin6 shv6 ngeu2 r` <sup>[如东]</sup> 天牛科昆虫星天牛。  
-1. 【[敹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio.md#敹)】`lio1` <sup>[泰州]</sup> 大针粗缝：被单𠫓咖来啊，你同他～两针。丨你去拿个针把麻袋口～起来。  
+1. 【[敹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio.md#敹)】`lio1` <sup>[泰州]</sup> 大针粗缝：被单忑咖来啊，你同他～两针。丨你去拿个针把麻袋口～起来。  
 1. 【[㞠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio.md#㞠)】`lio2` <sup>[兴化]</sup> ① 男子的外生殖器。 ② 雄性驴、马等的外生殖器。原文作“屪”，《字汇·尸部》力宵切，“～，男阴名”：谚曰驴～子向东，马～子向西。  
 1. 【[㞠礓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_jian_r.md#㞠礓<sub>儿</sub>)】`lio2 jian3 r` <sup>[兴化]</sup> 小便的贬义说法：射～。  
 1. 【[僚气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_qi.md#僚气)】`lio2 qi5` <sup>[兴化]</sup> （戏）官僚作风、官气：别看他官不大，～十足。  
@@ -1749,7 +1749,6 @@
 1. 【[了首尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_sheu_vei.md#了首尾)】`lio3 sheu3 vei3` <sup>[泰县]</sup> 完成了培育子女的事。  
 1. 【[了微<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_vei_r.md#了微<sub>儿</sub>)】`lio3 vei2 r` <sup>[如东]</sup> 稍微：～晚点。  
 1. 【[了戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_xi.md#了戏)】`lio3 xi5` <sup>[兴化]</sup> ① 完了：～！皮五辣子今日是非打肉不可了……（扬说《皮五辣子打肉》三） ② “死”的隐语：老王三～啊。  
-1. 【[炓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio.md#炓)】`lio5` <sup>[泰州]</sup> ① 火头上窜（舔着锅底）的样子：炭炉子搧吖旺吖唻，火直～唻。丨火头～多高唻。 ② 蛆虫头部伸在空中使劲摇动，身体蠕动挣扎的样子：坑缸里的蛆子头～～的。  
 1. 【[尥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio.md#尥)】`lio6` <sup>[兴化]</sup> ① 以足钩人使跌。《吴下方言考》“案～，斜舒足钩倒人也。吴中谓舒足钩人曰～。” ② 互相打斗：有种过来～一交。 ③ 大步走：他走起路来两条长腿直～。  
 1. 【[尥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio.md#尥)】`lio6` <sup>[泰州]</sup> 大步迅速走路：他俫少年人～起来快得狠。丨大个子在前头直～，一刻ㄦ工夫就望不到他人唻。  
 1. 【[尥脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_jiah.md#尥脚)】`lio6 jiah7` <sup>[如皋]</sup> 腿脚不住的踢动。  
@@ -2387,7 +2386,7 @@
 1. 【[六指<sub>儿</sub>抓痒——加一恭维](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_zheh_r_zhua_ian_jia_ieh_gon_vei.md#六指<sub>儿</sub>抓痒——加一恭维)】`loh8 zheh7 r zhua1 ian3 jia1 ieh7 gon1 vei2` <sup>[东台]</sup>   
 1. 【[摝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh.md#摝)】`loh8` <sup>[如东]</sup> 捞：把青菜从水里～上来。  
 1. 【[摝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh.md#摝)】`loh8` <sup>[如皋]</sup> ① 捞。 ② 捕捉：把罪犯～起来。  
-1. 【[摝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh.md#摝)】`loh8` <sup>[泰州]</sup> ① 从水中取物：吊桶𠫓咖井里去啊，你去寻个东西把它～上来。 ② 从汤中捞取食物或残渣：你把锅里的饺ㄦ～咖干净吖。 ③ 洗物之时将物体置于水中简单过滤一下取出：菜我已经洗过啊唻，你下锅炒之前再～咖子。丨我还有两件衣裳～咖子就同你上街去。  
+1. 【[摝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh.md#摝)】`loh8` <sup>[泰州]</sup> ① 从水中取物：吊桶忑咖井里去啊，你去寻个东西把它～上来。 ② 从汤中捞取食物或残渣：你把锅里的饺ㄦ～咖干净吖。 ③ 洗物之时将物体置于水中简单过滤一下取出：菜我已经洗过啊唻，你下锅炒之前再～咖子。丨我还有两件衣裳～咖子就同你上街去。  
 1. 【[摝河草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_hu_co.md#摝河草)】`loh8 hu2 co3` <sup>[如皋]</sup> 捞水草作饲料或作沤肥。  
 1. 【[摝起来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_qi_lae.md#摝起来)】`loh8 qi lae` <sup>[东台]</sup> 逮捕或拘留。  
 1. 【[摝稻草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_to_co.md#摝稻草)】`loh8 to6 co3` <sup>[东台]</sup> 喻指捞政治资本。  

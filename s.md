@@ -3664,7 +3664,7 @@
 1. 【[酥糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_tan.md#酥糖)】`sv1 tan2` <sup>[如皋]</sup> 酥松可口的糖果，如：花生酥、董糖。  
 1. 【[𣩷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv.md#𣩷)】`sv1` <sup>[如皋]</sup> 朽坏：桌子脚～啊，一掐一块屑子。  
 1. 【[𣩷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv.md#𣩷)】`sv1` <sup>[兴化]</sup> 朽、烂：这块砖头浸吖水里一冻全～啊。这块木头已经烂吖泛～啊。《集韵·模韵》孙租切｜“～，烂也。”  
-1. 【[𣩷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv.md#𣩷)】`sv1` <sup>[泰州]</sup> 器物松软而不坚固：岁数大啊唻，骨头发咖～，走路一跌就骨折。丨这个房子年代久啊，砖头子都～啊，一碰就灰𠫓𠫓的。  
+1. 【[𣩷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv.md#𣩷)】`sv1` <sup>[泰州]</sup> 器物松软而不坚固：岁数大啊唻，骨头发咖～，走路一跌就骨折。丨这个房子年代久啊，砖头子都～啊，一碰就灰忑忑的。  
 1. 【[嗉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv.md#嗉)】`sv5` <sup>[东台]</sup> 鸟类食管下端盛食物的囊。  
 1. 【[塑料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_lio.md#塑料)】`sv5 lio6` <sup>[如东]</sup> 树脂等高分子化合物与配料混合，再经加热加压而形成的具有一定形状的材料。在常温下不再变形。种类很多，如电木、赛璐珞、聚氯乙烯等。一般有质轻、绝缘耐腐蚀耐磨等特点。广泛应用于飞机、车辆、船舶电机、机械、化学建筑等工业，也用来制造各种日用品。  
 1. 【[塑匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_qian.md#塑匠)】`sv5 qian` <sup>[如东]</sup> 从事泥塑业务的小手业者。  

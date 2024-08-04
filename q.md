@@ -1286,16 +1286,12 @@
 1. 【[亲家母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ga_mu.md#亲家母)】`qien5 ga mu3` <sup>[东台]</sup> 称儿子的岳母或女儿的婆婆。  
 1. 【[亲家母到啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ga_mu_do_a.md#亲家母到啊)】`qien5 ga mu3 do5 a` <sup>[如皋]</sup> 行月经。  
 1. 【[亲家母到啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ga_mu_do_a.md#亲家母到啊)】`qien5 ga mu3 do5 a` <sup>[如皋]</sup> 隐指来了月经。  
-1. 【[揿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien.md#揿)】`qien5` 按：～钮  
-1. 【[揿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien.md#揿)】`qien5` <sup>[如皋]</sup> 按压。  
-1. 【[揿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien.md#揿)】`qien5` <sup>[如东]</sup> 按住：用力把羊～住。  
-1. 【[揿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien.md#揿)】`qien5` <sup>[兴化]</sup> 捺按：前边堵车，急得些司机不停～喇叭。  
+1. 【[揿/搇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien.md#揿/搇)】`qien5` <sup>\[如皋\]\[如东\]\[兴化\]\[泰州\]</sup>按，按压：～钮｜用力把羊～住。<sup>\[如东\]</sup>｜前边堵车，急得些司机不停～喇叭。<sup>\[兴化\]</sup>｜把衣裳上的纽子～吖好啊。<sup>\[泰州\]</sup>  
 1. 【[揿钉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_dien.md#揿钉)】`qien5 dien1` <sup>[兴化]</sup> 图钉。  
 1. 【[揿钮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_nieu.md#揿钮)】`qien5 nieu3` <sup>[兴化]</sup> 子母扣儿。也作“掯钮”。  
-1. 【[搇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien.md#搇)】`qien5` <sup>[泰州]</sup> 按：把衣裳上的纽子～吖好啊。  
 1. 【[罄身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_shen.md#罄身)】`qien5 shen1` <sup>[兴化]</sup> 空身、不带东西：他在外混吖几年，结果～家来。｜“你看着，到前边收拾了教他～儿出去，休要他带出衣袋去了”。（《金瓶梅词话》八五）  
 1. 【[顉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien.md#顉)】`qien5` <sup>[泰州]</sup> 脑石和：他望到我，头一～就走啊唻。丨你把头～点ㄦ下来吧。  
-1. 【[𩔝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien.md#𩔝)】`qien5` <sup>[兴化]</sup> 前倾：头～下来｜身子～下来。《集韵·沁韵》丘禁切｜“～，～𩒻首动。”“𩒻”音（胤）。  
+1. 【[𩔝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien.md#𩔝)】`qien5` <sup>[兴化]</sup> 前倾：头～下来｜身子～下来。  
 1. 【[𩔝下来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ha_lae.md#𩔝下来)】`qien5 ha6 lae2` <sup>[东台]</sup> 低下来。通常指人的头或腰弯下来：理发时要把头～。  
 1. 【[净办](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_baen.md#净办)】`qien6 baen5` <sup>[兴化]</sup> 清净、安宁：学校里放吖学，蛮～的。｜“……如常吃官司，教我要便随衙听侯，不曾有一个月～……”（《水浒传》二四）也作“静办”。《警世通言》第二十卷有“没一日～”句。  
 1. 【[净打净夯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_da_qien_han.md#净打净夯)】`qien6 da3 qien6 han1` <sup>[如东]</sup> 去除虚数，全部是实货。比喻纯收入：～一百元。  

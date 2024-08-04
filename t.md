@@ -527,7 +527,7 @@
 1. 【[𢴳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#𢴳)】`tan1` <sup>[东台]</sup> 用手推阻：歹徒一拳打过来，捱我抬手一～，就势一推，摔啊个狗吃屎。  
 1. 【[𢴳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#𢴳)】`tan1` <sup>[兴化]</sup> ① 抵挡、遮挡：他见对方一拳打来，连忙用前臂来～。 ② 撞着：～吖邪气。  
 1. 【[𢴳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#𢴳)】`tan1` <sup>[泰县]</sup> 抵挡。  
-1. 【[𢴳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#𢴳)】`tan1` <sup>[泰州]</sup> ① 用手或者持械推挡：东西𠫓咖来，我同他～吖下子。 ② 稍稍抵御、抵抗：披件衣裳，多少能～住点ㄦ风。 ③ 采取临时措施，缓解任务或者事务压力：刚才领导来查人，我同你～过去啊。  
+1. 【[𢴳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#𢴳)】`tan1` <sup>[泰州]</sup> ① 用手或者持械推挡：东西忑咖来，我同他～吖下子。 ② 稍稍抵御、抵抗：披件衣裳，多少能～住点ㄦ风。 ③ 采取临时措施，缓解任务或者事务压力：刚才领导来查人，我同你～过去啊。  
 1. 【[𢴳寒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_hun.md#𢴳寒)】`tan1 hun2` <sup>[兴化]</sup> 挡寒、御寒：“一路风吹坏了，小二拿壶暖与大嫂～。”（《梼杌闲评》七）｜《水浒传》第十回有“胡乱只回三五碗与小人盪寒”句。  
 1. 【[𢴳门面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_men_min.md#𢴳门面)】`tan1 men2 min6` <sup>[泰县]</sup> 应酬。  
 1. 【[唐锣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_lu.md#唐锣)】`tan2 lu2` <sup>[如东]</sup> 一种小铜锣。  
@@ -704,6 +704,7 @@
 1. 【[忑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh.md#忑)】`teh7` <sup>[如东]</sup> 掉。失落。如皋词典作“怢”。  
 1. 【[忑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh.md#忑)】`teh7` <sup>[兴化]</sup> 丢失：钱包～掉啊。｜宝宝挤啊～掉啊（流产）！｜“……凡是冰冻之上，必有凌眼，倘若踩着凌眼，～将下去……就如一个大锅盖盖住，如何钻得上来……”（《西游记》四八）  
 1. 【[忑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh.md#忑)】`teh7` <sup>[泰县]</sup> 落：～咖地下。  
+1. 【[忑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh.md#忑)】`teh7` <sup>[泰州]</sup> ① 落下，掉下：他这个人东西～咖地下也不拾。丨苹果～咖地下脏吖唻。 ② 遗失东西：～咖100块钱。丨他把重要文件弄吖～掉啊。 ③ 脸部表情突然变为阴沉：这小伙说话不上路，老李同他把脸朝下一～。丨大家都是熟人，何必把脸～咖唻说。  
 1. 【[忑班](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_baen.md#忑班)】`teh7 baen1` <sup>[东台]</sup> 赶不上某一趟车船，也喻指掉队，跟不上一起前进的人。  
 1. 【[忑不下来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_beh_ha_lae.md#忑不下来)】`teh7 beh7 ha6 lae2` <sup>[东台]</sup> 形容某种商品十分畅销，供不应求：东台乳猪东南亚市场上～，吃香得很咧！  
 1. 【[忑膘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_bio.md#忑膘)】`teh7 bio1` <sup>[如东]</sup> 牲畜膘情下降。  
@@ -744,7 +745,6 @@
 1. 【[忑下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_xia.md#忑下)】`teh7 xia6` <sup>[兴化]</sup> 距街市或中心区较远的地方：他这套房子倒不丑，就是地点～。  
 1. 【[忑榫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_xyen.md#忑榫)】`teh7 xyen3` <sup>[如皋]</sup> 榫头从榫眼中松开、脱落。  
 1. 【[忑着咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_zhah_ga.md#忑着咖)】`teh7 zhah7 ga` <sup>[东台]</sup> 与“失晓”意同：他怕的睡吖～，快去叫醒！  
-1. 【[𠫓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh.md#𠫓)】`teh7` <sup>[泰州]</sup> ① 落下，掉下：他这个人东西～咖地下也不拾。丨苹果～咖地下脏吖唻。 ② 遗失东西：～咖100块钱。丨他把重要文件弄吖～掉啊。 ③ 脸部表情突然变为阴沉：这小伙说话不上路，老李同他把脸朝下一～。丨大家都是熟人，何必把脸～咖唻说。  
 1. 【[凸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh.md#凸)】`teh8` <sup>[如东]</sup> 平面的一个部位鼓起来了：木板中间～起来啊。  
 1. 【[凸凸的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_teh_dii.md#凸凸的)】`teh8 teh8 dii` <sup>[如东]</sup> 平面的一个部位十分突出：他太胖吖，肚子～。  
 1. 【[特客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_keh.md#特客)】`teh8 keh7` <sup>[如皋]</sup> ① 特别客人。 ② 讽刺话。  
@@ -1645,7 +1645,7 @@
 1. 【[掭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin.md#掭)】`tin5` <sup>[如东]</sup> 轻轻向前拨动：～草。  
 1. 【[掭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin.md#掭)】`tin5` <sup>[东台]</sup> ［文］毛笔蘸墨后斜着在砚台上理顺笔毛或除去多余的墨。  
 1. 【[掭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin.md#掭)】`tin5` <sup>[兴化]</sup> ① 毛笔在砚台上沾墨、理顺笔毛：～笔。 ② 拨动：～灯芯｜蒋生幸未熄灯，急忙～明了灯，开门出看……（《二刻》二九）  
-1. 【[掭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin.md#掭)】`tin5` <sup>[泰州]</sup> ① 用针拨动锁芯：油灯要熄，你去把它～吖子。 ② 用掭子拨动锁簧：钥匙𠫓掉啊，请吖个开锁的把锁～开来啊才进吖家。 ③ 以草茎顶部撩拨蟋蟀：这个蛐蛐ㄦ兄，欲不着～它就冲上去啊。 ④ 将毛笔在砚台上蘸墨并顺势拖几下以理顺笔毛：你把笔～啊子再写。  
+1. 【[掭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin.md#掭)】`tin5` <sup>[泰州]</sup> ① 用针拨动锁芯：油灯要熄，你去把它～吖子。 ② 用掭子拨动锁簧：钥匙忑掉啊，请吖个开锁的把锁～开来啊才进吖家。 ③ 以草茎顶部撩拨蟋蟀：这个蛐蛐ㄦ兄，欲不着～它就冲上去啊。 ④ 将毛笔在砚台上蘸墨并顺势拖几下以理顺笔毛：你把笔～啊子再写。  
 1. 【[掭笔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_bieh.md#掭笔)】`tin5 bieh7` <sup>[如东]</sup> 毛笔蘸墨后在砚台上理顺笔毛或除去多余的墨汁，叫做掭笔。  
 1. 【[掭车油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_cha_ieu.md#掭车油)】`tin5 cha1 ieu2` <sup>[如皋]</sup> ① 向车轴内注润滑油。 ② 车用润滑油。  
 1. 【[掭车油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_cha_ieu.md#掭车油)】`tin5 cha1 ieu2` <sup>[如皋]</sup> 见“红油”。  

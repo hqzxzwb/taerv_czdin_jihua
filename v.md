@@ -889,7 +889,7 @@
 1. 【[枉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van.md#枉)】`van5` <sup>[如皋]</sup> 松垂貌：绳儿～下来啊，你去紧下子。  
 1. 【[枉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van.md#枉)】`van5` <sup>[东台]</sup> 绷直或扎牢的绳索之类的东西时间长了拉长弯曲或松散开来：这根电线～下来啊，要赶快绷紧。  
 1. 【[枉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van.md#枉)】`van5` <sup>[兴化]</sup> 下垂、弯曲：㫰衣裳的绳子～下来啊。｜雨棚上负荷太大，～下来啊。  
-1. 【[枉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van.md#枉)】`van5` <sup>[泰州]</sup> ① 原本拉直的绳索、铁丝等中间部分弯曲下垂：衣裳㫰得太多，铅丝都弄吖～下来啊。 ② 捆绑物体的绳索松动下垂：你绑得不紧，绳子～吖，车子一颠就𠫓咖来唻。  
+1. 【[枉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van.md#枉)】`van5` <sup>[泰州]</sup> ① 原本拉直的绳索、铁丝等中间部分弯曲下垂：衣裳㫰得太多，铅丝都弄吖～下来啊。 ② 捆绑物体的绳索松动下垂：你绑得不紧，绳子～吖，车子一颠就忑咖来唻。  
 1. 【[枉而无功](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_er_v_gon.md#枉而无功)】`van5 er2 v2 gon1` <sup>[兴化]</sup> 徒劳无益：锻炼身体贵在坚持，如果三天打鱼，两天晒网，那是～的。  
 1. 【[汪水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_shuei.md#汪水)】`van5 shuei3` <sup>[如皋]</sup> 表面积水：荷叶上汪吖个大水珠儿：帐篷顶上～。“汪”表音。  
 1. 【[妄言巧舌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_in_qio_shih.md#妄言巧舌)】`van6 in2 qio3 shih8` <sup>[东台]</sup> 花言巧语。  

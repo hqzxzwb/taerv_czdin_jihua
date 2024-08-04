@@ -1125,7 +1125,7 @@
 1. 【[迷魂汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_huen_tan.md#迷魂汤)】`mi2 huen2 tan1` <sup>[如东]</sup> ① 迷信者认为，人死后，灵魂走到难河桥上，王妈妈给他喝一碗汤，把魂灵迷住了，忘记了人间的一切。这种汤叫做迷魂汤。 ② 比喻酒：他又喝咖～。 ③ 比喻迷惑人的花言巧语：他捱～灌糊涂啊。  
 1. 【[迷魂汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_huen_tan.md#迷魂汤)】`mi2 huen2 tan1` <sup>[兴化]</sup> （喻）迷惑人的言行：你喝咖她的～，连自己是甚的人总忘掉啊。也说“迷魂药”。  
 1. 【[迷羊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ian_zz.md#迷羊子)】`mi2 ian2 zz` <sup>[如皋]</sup> ① 本地放牧山羊，打桩后任其觅食而不管。 ② 引伸为头目将下人送到岗位之后任其作工而不问的行为。  
-1. 【[霉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#霉)】`mi2` <sup>[泰州]</sup> ① 物体生霉菌变质发黑：这个米～掉啊，不能再吃。 ② 不吉利，不顺利：今朝子～得加思唻，早上骑车子撞吖人，下午皮夹子又𠫓掉啊。  
+1. 【[霉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#霉)】`mi2` <sup>[泰州]</sup> ① 物体生霉菌变质发黑：这个米～掉啊，不能再吃。 ② 不吉利，不顺利：今朝子～得加思唻，早上骑车子撞吖人，下午皮夹子又忑掉啊。  
 1. 【[霉干菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_gun_cae.md#霉干菜)】`mi2 gun1 cae5` <sup>[如皋]</sup> 见“霉咸菜”。  
 1. 【[霉咸菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_haen_cae.md#霉咸菜)】`mi2 haen2 cae5` <sup>[如皋]</sup> 用青菜发酵后腌制晒成的菜干。  
 1. 【[霉绿咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_loh_ga.md#霉绿咖)】`mi2 loh8 ga` <sup>[东台]</sup> （詈语）指十分背运，倒霉磕踵。  
