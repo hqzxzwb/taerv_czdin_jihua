@@ -86,7 +86,7 @@
 1. 【[漓清水鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_qien_shuei_pieh_zz.md#漓清水鼻子)】`la2 qien1 shuei3 pieh8 zz` <sup>[如皋]</sup> 滴水样鼻涕。  
 1. 【[漓肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_roh.md#漓肉)】`la2 roh8` <sup>[如东]</sup> 说人排出来的大便是肉，这是咒骂人的话。  
 1. 【[漓涎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_saen.md#漓涎)】`la2 saen2` <sup>[如东]</sup> 流口水。  
-1. 【[漓涎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_saen.md#漓涎)】`la2 saen2` <sup>[如皋]</sup> 不白觉地流出口水。  
+1. 【[漓涎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_saen.md#漓涎)】`la2 saen2` <sup>[如皋]</sup> 不自觉地流出口水。  
 1. 【[漓涎宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_saen_bo_r.md#漓涎宝<sub>儿</sub>)】`la2 saen2 bo3 r` <sup>[如东]</sup> 经常拉口水的小儿。  
 1. 【[漓涎宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_saen_bo_r.md#漓涎宝<sub>儿</sub>)】`la2 saen2 bo3 r` <sup>[如皋]</sup> 嘲笑用语。指经常不自觉地流出口水的人。  
 1. 【[漓屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_shr.md#漓屎)】`la2 shr3` <sup>[如东]</sup> 排泄大便。比喻办事拖拉，不彻底。  
@@ -352,6 +352,7 @@
 1. 【[揦柱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_chv.md#揦柱)】`laeh8 chv6` <sup>[如东]</sup> 大栏上边的柱子。  
 1. 【[揦子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_zz.md#揦子)】`laeh8 zz` 栅栏，栏杆  
 1. 【[擸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh.md#擸)】`laeh8` <sup>[如皋]</sup> ① 磨：～𪎉子。 ② 拖带：跟吖后头～。 ③ 粗略地扫：把地～下子。 ④ 磨、擦：～洋火、皮捱～咖破啊。 ⑤ 磨炼：这几年他～出个人来呀。  
+1. 【[擸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh.md#擸)】`laeh8` <sup>[东台]</sup> 与“拖”近义，前面人拖着，后面人跟得很吃力：他的舞跳得好，我只是跟吖后面～｜他俫发展得快，把我俫～煞咖。  
 1. 【[擸𢶍/儠𠎷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_saeh.md#擸𢶍/儠𠎷)】`laeh8 saeh` <sup>[如皋]</sup> 手段凶狠恶毒。  
 1. 【[瘌疤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_ba.md#瘌疤)】`laeh8 ba1` <sup>[如皋]</sup> 秃疮的疤痕，不长头髮。  
 1. 【[瘌疮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_chuan.md#瘌疮)】`laeh8 chuan1` <sup>[如皋]</sup> 秃疮，有银屑。另见“蛀毛癣”。  

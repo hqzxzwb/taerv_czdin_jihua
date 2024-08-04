@@ -2088,8 +2088,7 @@
 1. 【[漫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun.md#漫)】`mun6` <sup>[如皋]</sup> ① 将蔬菜烫熟：～青菜、～韭菜。 ② 布满：～英菜儿（散播的小青菜）。  
 1. 【[漫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun.md#漫)】`mun6` <sup>[东台]</sup> 溢：水～掉啊。  
 1. 【[漫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun.md#漫)】`mun6` <sup>[兴化]</sup> 一种烹饪方法，切碎的蔬菜不经烹炒，直接倒入滚汤中：～非菜｜～茼蒿。  
-1. 【[漫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun.md#漫)】`mun6` <sup>[泰州]</sup> ① 淹没：水～金山｜水龙头不曾关，家里～吖一地的水。 ② 烹饪方法，将切好的蔬菜不经煸炒，直接淹入烧滚油汤之中：你在锅里～点ㄦ青菜，弄个汤上来。  
-1. 【[漫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun.md#漫)】`mun6` <sup>[泰州]</sup> ① 水在容器中充盈溢出：好啊唻，好啊唻，再倒瓶里就～掉唻。 ② 容器中所装的物体溢出：这个笆斗装不下，黄豆～吖一地。  
+1. 【[漫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun.md#漫)】`mun6` <sup>[泰州]</sup> ① 淹没：水～金山｜水龙头不曾关，家里～吖一地的水。 ② 烹饪方法，将切好的蔬菜不经煸炒，直接淹入烧滚油汤之中：你在锅里～点ㄦ青菜，弄个汤上来。 ③ 从容器中溢出：好啊唻，好啊唻，再倒瓶里就～掉唻。｜这个笆斗装不下，黄豆～吖一地。  
 1. 【[漫帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_ban.md#漫帮)】`mun6 ban1` <sup>[兴化]</sup> 地上的积水溢过鞋帮：以往门前的路上坑坑洼洼，落雨天走不几步鞋子就漫吖帮。  
 1. 【[漫潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_cho.md#漫潮)】`mun6 cho2` <sup>[如皋]</sup> 潮水超过最高潮位。  
 1. 【[漫裆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_dan.md#漫裆)】`mun6 dan1` <sup>[东台]</sup> 形容肥胖，腹部多余的脂肪已经溢到裤档了。  

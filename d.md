@@ -2208,8 +2208,8 @@
 1. 【[奀奀子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dih_dih_zz.md#奀奀子)】`dih9 dih8 zz` <sup>[东台]</sup> 同“细点滴儿”，“尕尕”，“眼丸儿”。也作“奀奀儿”。  
 1. 【[的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dii.md#的)】`dii` 相当于普通话的虚词“的”，可表示所属或者修饰。这个音来自“之”的上古音：我～/我的｜好～/好的｜吃～菜/吃的菜  
 1. 【[掂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din.md#掂)】`din1` <sup>[兴化]</sup> 斟酌、估量：他把校长的话放吖心里～吖又～。  
+1. 【[掂/敁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din.md#掂/敁)】`din1` <sup>[泰州]</sup> ① 称量物体，用手托着物体上下颤动估量其重：这个西瓜～～还不止十斤。 ② 盘算斟酌：你把这两件事好好～～，到底哪件更重要。  
 1. 【[掂斤掂两](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_jien_din_lian.md#掂斤掂两)】`din1 jien1 din1 lian3` <sup>[兴化]</sup> ① 较量轻重：你覅跟小商贩～的。 ② （喻）斤斤计较：对小事不必～的。  
-1. 【[敁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din.md#敁)】`din1` <sup>[泰州]</sup> ① 称量物体，用手托着物体上下颤动估量其重：这个西瓜～～还不止十斤。 ② 指内心反复盘算斟酌：你把这两件事好好～～，到底哪件更重要。  
 1. 【[癫狂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_kuan.md#癫狂)】`din1 kuan2` <sup>[如东]</sup> 狂妄自大，目空一切：有啊几个钱，不能～。  
 1. 【[癫狂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_kuan.md#癫狂)】`din1 kuan2` <sup>[东台]</sup> ① 由某种病引起的言语或行动异常。 ② 言谈举止轻佻，不庄重：穷不失志，富不～。  
 1. 【[蹎蹎跋跋的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_din_puh_puh_dii.md#蹎蹎跋跋的)】`din1 din1 puh8 puh8 dii` <sup>[如皋]</sup> 跋涉辛苦。转义为特地、专门地：我～的去䁃他，他还不高兴睬我！｜人家～来的，你总不能不相待。  

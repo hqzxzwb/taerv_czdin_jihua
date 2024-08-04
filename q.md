@@ -1810,9 +1810,9 @@
 1. 【[俏波波](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_bu_bu.md#俏波波)】`qio5 bu1 bu1` <sup>[东台]</sup> 形容漂亮精巧的样子。  
 1. 【[俏市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_shr.md#俏市)】`qio5 shr6` <sup>[如皋]</sup> 畅销，价格上扬。另见“燥市”。  
 1. 【[俏头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_teu.md#俏头)】`qio5 teu` <sup>[东台]</sup> 烹调时为了优化菜肴的色、香、味、形而加的佐料。  
-1. 【[帩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#帩)】`qio5` <sup>[兴化]</sup> 在捆扎东西的绳圈中插入短棒，旋转绞紧。《广韵·笑韵》七肖切：“～，～缚”。  
+1. 【[帩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#帩)】`qio5` <sup>[兴化]</sup> 在捆扎东西的绳圈中插入短棒，旋转绞紧。《广韵·笑韵》七肖切，“～，～缚”。  
 1. 【[撬子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_zz.md#撬子)】`qio5 zz` <sup>[如东]</sup> 一种农具。木制，条形，长一尺，一头尖，一头平，尖的一头钻一个孔，用一尺多长的麻绳穿连起来，夹住稻秸摔打脱粒。  
-1. 【[窍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#窍)】`qio5` <sup>[如皋]</sup> 肛门：你不要没～，做绝事要促阳寿的。  
+1. 【[窍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#窍)】`qio5` <sup>[如皋]</sup> 肛门（*躈）：你不要没～，做绝事要促阳寿的。  
 1. 【[缲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#缲)】`qio5` <sup>[泰州]</sup> ① （泰州词典作敽） ② 一种缝纫方法，先将布料毛边向内卷进，然后藏着针脚缝制：～边  
 1. 【[翘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#翘)】`qio5` <sup>[如东]</sup> 杆或板一头高起来了：木板那头～起来啊。近代白话作“趬”。  
 1. 【[翘/趬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#翘/趬)】`qio5` <sup>[如皋]</sup> 贬指死：他～掉啊。  

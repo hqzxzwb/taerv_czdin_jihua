@@ -510,10 +510,10 @@
 1. 【[吭气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_qi.md#吭气)】`han2 qi5` <sup>[如皋]</sup> 见“吭”。  
 1. 【[吭气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_qi.md#吭气)】`han2 qi5` <sup>[东台]</sup> 喘气：他跑啊100米就～。  
 1. 【[杭棉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_min.md#杭棉)】`han2 min2` <sup>[如皋]</sup> 原产于杭州的薄薄的棉絮：秋凉起来啊，伢儿要穿～衣裳｜～被单，2斤一条。  
-1. 【[絎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han.md#絎)】`han2` <sup>[泰州]</sup> 用线粗缝棉衣棉被之类，保持夹层棉絮稳定：～被单。  
 1. 【[绗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han.md#绗)】`han2` <sup>[如皋]</sup> 大针脚连（针连针）：～棉𧘸子、～被单。  
 1. 【[绗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han.md#绗)】`han2` <sup>[东台]</sup> 用针线连接面子、里子和里面棉花等：～被子；～棉袄。  
 1. 【[绗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han.md#绗)】`han2` <sup>[泰县]</sup> 缝衣服的一种方法：～棉𧘸子。  
+1. 【[绗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han.md#绗)】`han2` <sup>[泰州]</sup> 用线粗缝棉衣棉被之类，保持夹层棉絮稳定：～被单。  
 1. 【[绗被子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_pi_zz.md#绗被子)】`han2 pi6 zz` <sup>[如东]</sup> 用针线固定被面子和被里子。缝合时，针脚疏密相间，棉线大部分藏在夹层中间。  
 1. 【[绗线](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_xin.md#绗线)】`han2 xin5` <sup>[如皋]</sup> 专用于缝的线，因被绗物不同而有别，常为稍粗的棉线或丝线。  
 1. 【[绗针](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_zhen.md#绗针)】`han2 zhen1` <sup>[如皋]</sup> 专用细长棉线针，专用于绗缝。  
@@ -788,7 +788,7 @@
 1. 【[𨂸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu.md#𨂸)】`heu2` <sup>[兴化]</sup> 体中排出大量液体：～汗；～血（大出血）。  
 1. 【[𨂸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu.md#𨂸)】`heu2` <sup>[东台]</sup> 液体移动：水～得快；汗只～。  
 1. 【[𨂸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu.md#𨂸)】`heu2` <sup>[东台]</sup> 动词、形容词，有喧闹、沸腾义：［形］会场～得很，不晓得为甚的事。  
-1. 【[𨂸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu.md#𨂸)】`heu2` <sup>[泰州]</sup> ① （泰州词典作𧩨） ② 喧嚣，喧哗：里头～啊没得命，我跑出来抽支香烟。｜你俫大家不要～唻，先让老李把话说掉吧。  
+1. 【[𨂸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu.md#𨂸)】`heu2` <sup>[泰州]</sup> 喧嚣，喧哗（泰州词典作𧩨）：里头～啊没得命，我跑出来抽支香烟。｜你俫大家不要～唻，先让老李把话说掉吧。  
 1. 【[𨂸啊湱掉啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_a_hoh_tio_a.md#𨂸啊湱掉啊)】`heu2 a hoh7 tio a` <sup>[东台]</sup> ［形］人声鼎沸，非常嘈杂。  
 1. 【[𨂸啊没得命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_a_meh_deh_mien.md#𨂸啊没得命)】`heu2 a meh8 deh7 mien6` <sup>[东台]</sup> ［形］嘈杂得叫人受不了。  
 1. 【[𨂸暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_bo.md#𨂸暴)】`heu2 bo5` <sup>[如东]</sup> ① 天气发生变化，将要出现风暴了，叫做𨂸暴。 ② 冬季刮大风的天气。  
@@ -1071,9 +1071,7 @@
 1. 【[𤉹/𤊨/焀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh.md#𤉹/𤊨/焀)】`hoh7` <sup>[泰州]</sup> 火盛时火苗左右动荡的样子：这一刻ㄦ炭炉子的火头烧得～～的。  
 1. 【[咟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh.md#咟)】`hoh8` <sup>[东台]</sup> 唆使。（《集韵》“胡麦切，音获，㗲啧叫也。”）：你怎吖听他～？！  
 1. 【[咟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh.md#咟)】`hoh8` <sup>[泰县]</sup> 煽动：你不要～，出咖事你负责。  
-1. 【[咟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh.md#咟)】`hoh8` <sup>[泰州]</sup> 喧哗声：楼底下族咖一大堆的人，～煞咖唻。｜外头～咖翻掉啊是甚的事？  
-1. 【[咟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh.md#咟)】`hoh8` <sup>[泰州]</sup> 议论纷纷：你还不晓得这件事啊，外头都～咖翻掉啊唻。｜上头已经下啊文不许乱发福利，这几个人还在局里～咖要发过节费。  
-1. 【[咟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh.md#咟)】`hoh8` <sup>[泰州]</sup> 别有用心地不停鼓动他人做出错误的决定：你当领导的，不能听他～。｜都是你俫～咖要上扬州玩的，现在上头怪下来，一个个都不则声。  
+1. 【[咟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh.md#咟)】`hoh8` <sup>[泰州]</sup> ① 喧哗声：楼底下族咖一大堆的人，～煞咖唻。｜外头～咖翻掉啊是甚的事？ ② 议论纷纷：你还不晓得这件事啊，外头都～咖翻掉啊唻。｜上头已经下啊文不许乱发福利，这几个人还在局里～咖要发过节费。 ③ 别有用心地不停鼓动他人做出错误的决定：你当领导的，不能听他～。｜都是你俫～咖要上扬州玩的，现在上头怪下来，一个个都不则声。  
 1. 【[咟酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh_jieu.md#咟酒)】`hoh8 jieu3` <sup>[东台]</sup> 想方设法鼓动喝酒，富有煽动性。  
 1. 【[咟神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh_shen.md#咟神)】`hoh8 shen2` <sup>[东台]</sup> 头脑不冷静，经常提出一些不成熟的、难以实施的动议，很少能够安静的活跃分子。  
 1. 【[嚄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh.md#嚄)】`hoh8` <sup>[如皋]</sup> 围聚、聚集：人～咖满吖。  
@@ -1793,12 +1791,11 @@
 1. 【[豁泡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_po_r.md#豁泡<sub>儿</sub>)】`huaeh7 po1 r` <sup>[如东]</sup> 皮肤上鼓起水泡儿。  
 1. 【[豁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_zz.md#豁子)】`huaeh7 zz` <sup>[如东]</sup> ① 口子：河堤上冲吖个～。 ② 比喻问题：出咖大～。  
 1. 【[豁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_zz.md#豁子)】`huaeh7 zz` <sup>[东台]</sup> 纰漏：他手伸得太长，明吖越个～不得小。（另见“豁子”）  
-1. 【[𧷎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh.md#𧷎)】`huaeh7` <sup>[泰州]</sup> ① 趁人不注意时悄悄走脱：刚才还望见他的，不晓得他这一刻ㄦ～咖哪块去啊。 ② 漏网，贬义：五个人去打架的，派出所捉咖四个，只有他个人～过去啊。  
 1. 【[𧽌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh.md#𧽌)】`huaeh7` <sup>[东台]</sup> 越过：这哿水沟，他一～就过去啊。  
 1. 【[𧽌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh.md#𧽌)】`huaeh7` <sup>[兴化]</sup> ① 跳越：小沟头子他一～就过去啊。 ② 越级：从三年级～到五年级（～级）。  
 1. 【[𧽌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh.md#𧽌)】`huaeh7` <sup>[泰县]</sup> 跳跃、超越而过：～过一条沟。  
 1. 【[𧽌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh.md#𧽌)】`huaeh7` <sup>[泰兴]</sup> ① 跳跃越过 ② 言行程远：老远的～得来，就为买个烧饼  
-1. 【[𧽌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh.md#𧽌)】`huaeh7` <sup>[泰州]</sup> 奔跑过程汇总跨越一定宽度或者一定高度的障碍：就这点ㄦ高，一～就过去啊唻。｜他一口气连～三个缺口。  
+1. 【[𧽌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh.md#𧽌)】`huaeh7` <sup>[泰州]</sup> ① 奔跑过程汇总跨越一定宽度或者一定高度的障碍：就这点ㄦ高，一～就过去啊唻。｜他一口气连～三个缺口。 ② 趁人不注意时悄悄走脱：刚才还望见他的，不晓得他这一刻ㄦ～咖哪块去啊。 ③ 漏网，贬义：五个人去打架的，派出所捉咖四个，只有他个人～过去啊。  
 1. 【[𧽌沟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_geu.md#𧽌沟)】`huaeh7 geu1` <sup>[如皋]</sup> 跳过河去。  
 1. 【[𧽌连叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_lin_cha.md#𧽌连叉)】`huaeh7 lin2 cha1` <sup>[东台]</sup> 双手点地，侧身腾跃。  
 1. 【[𧽌连叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_lin_cha.md#𧽌连叉)】`huaeh7 lin2 cha1` <sup>[兴化]</sup> 两手交替着地连续侧身翻，豁虎跳。儿歌：猫子不在家，老鼠～。  

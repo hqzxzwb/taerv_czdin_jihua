@@ -217,7 +217,6 @@
 1. 【[䢢𪣩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/can_ken.md#䢢𪣩)】`can5 ken5` <sup>[东台]</sup> 擦去身上的污垢。  
 1. 【[䢢皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/can_pi.md#䢢皮)】`can5 pi2` <sup>[如东]</sup> 借故刮点儿好处：他经常过来～。  
 1. 【[藏香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/can_xian.md#藏香)】`can6 xian1` <sup>[如皋]</sup> 见“大香”。  
-1. 【[㩍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/ceh.md#㩍)】`ceh7` <sup>[泰州]</sup> 以木锨、洋锹等器具铲取平面上的东西：你把地下的垃圾～咖干净吖。  
 1. 【[侧耳凝神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/ceh_er_nien_shen.md#侧耳凝神)】`ceh7 er3 nien2 shen2` <sup>[兴化]</sup> 侧着头脸，聚精会神地领听：～的听老师讲故事。  
 1. 【[侧耳听声](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/ceh_er_tien_shen.md#侧耳听声)】`ceh7 er3 tien5 shen1` <sup>[泰县]</sup> 认真仔细地听。  
 1. 【[册桶系](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/ceh_ton_xi.md#册桶系)】`ceh7 ton3 xi6` <sup>[如皋]</sup> 给水桶扣上系，以便用扁担挑。  
@@ -621,9 +620,9 @@
 1. 【[馋酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaen_jieu.md#馋酒)】`chaen2 jieu3` <sup>[兴化]</sup> 指酒量不大，也不在乎下酒菜，但经常要喝：他酒量不大，喝的～，不慌不忙，一口酒，一口鱼地细嚼着。（马春阳：《双灯照》）  
 1. 【[馋痨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaen_lo.md#馋痨)】`chaen2 lo2` <sup>[兴化]</sup> 贪吃的人：先是～，后是渴痨。  
 1. 【[馋水<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaen_shuei_r.md#馋水<sub>儿</sub>)】`chaen2 shuei3 r` <sup>[兴化]</sup> 口涎。  
+1. 【[𢵔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaen.md#𢵔)】`chaen2` <sup>[泰州]</sup> 将两种类似而有别的东西混杂起来：他欱的酒里～吖矿泉水的。  
 1. 【[𢵔假](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaen_jia.md#𢵔假)】`chaen2 jia3` <sup>[如东]</sup> 把假的𢵔在真的东西里面或把质量差的𢵔在质量好的东西里面。  
 1. 【[𢵔头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaen_teu.md#𢵔头)】`chaen2 teu` <sup>[如皋]</sup> ① 指掺杂的东西：这种荞面不纯，加啊～的。 ② 掺杂的成数、比例：四六～、～大、～小。  
-1. 【[𢺟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaen.md#𢺟)】`chaen2` <sup>[泰州]</sup> 将两种类似而有别的东西混杂起来：他欱的酒里～吖矿泉水的。  
 1. 【[产妇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaen_fv.md#产妇)】`chaen3 fv6` <sup>[如东]</sup> 在分娩期间或产褥期间的妇女。  
 1. 【[产枝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaen_zhr.md#产枝)】`chaen3 zhr1` <sup>[如东]</sup> 分蘖。  
 1. 【[剷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaen.md#剷)】`chaen3` <sup>[如皋]</sup> ① 缝纫的一种手工针法，同“繑”。 ② 当面回以讥讽：他的铲子快，专门会剷人家的话；他说得正来劲，捱我～吖一句，变啊个瘪嘴狗子。  
@@ -824,6 +823,7 @@
 1. 【[尺条<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_tio_r.md#尺条<sub>儿</sub>)】`cheh7 tio2 r` <sup>[如皋]</sup> 量具，指一尺长的尺板。  
 1. 【[尺条子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_tio_zz.md#尺条子)】`cheh7 tio2 zz` <sup>[兴化]</sup> 一种竹制或木制量具：他手拿～量布。  
 1. 【[拆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh.md#拆)】`cheh7` <sup>[如皋]</sup> 用木抄起：～灰｜～泥｜～芒稳子｜～稻籽儿。  
+1. 【[拆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh.md#拆)】`cheh7` <sup>[泰州]</sup> 以木锨、洋锹等器具铲取平面上的东西：你把地下的垃圾～咖干净吖。  
 1. 【[拆驳户](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_bah_hv.md#拆驳户)】`cheh7 bah7 hv6` <sup>[兴化]</sup> 以拆除旧房，出售旧房料为业者。  
 1. 【[拆叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_cha.md#拆叉)】`cheh7 cha1` <sup>[如皋]</sup> 四齿铲叉，打泥墙用。  
 1. 【[拆河泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_hu_ni.md#拆河泥)】`cheh7 hu2 ni2` <sup>[如皋]</sup> 用泥锹将罱的河泥浆从舱内抛到河坎儿上的泥池中沥水。  
@@ -2038,9 +2038,8 @@
 1. 【[惙虚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuh_xy.md#惙虚)】`chuh8 xy` <sup>[泰县]</sup> 乱：这个人太～。  
 1. 【[惙虚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuh_xy.md#惙虚)】`chuh8 xy1` <sup>[如皋]</sup> 性急慌忙。  
 1. 【[惙虚鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuh_xy_guei.md#惙虚鬼)】`chuh8 xy1 guei3` <sup>[如皋]</sup> 性急慌忙个性的人。  
-1. 【[川](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun.md#川)】`chun1` <sup>[如皋]</sup> 借小额临时债：问你～五块钱。  
+1. 【[川](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun.md#川)】`chun1` <sup>\[如皋\]\[泰州\]</sup>借小额临时债：问你～五块钱<sup>\[如皋\]</sup>｜十号才发工资，他最近手头紧，跟老刘～吖两千块钱同伢儿交学费。<sup>\[泰州\]</sup>｜装修的人后朝到，我的钱存吖在银行里，还有一个月才到期，到你这许来～两万块钱先用住啊。<sup>\[泰州\]</sup>  
 1. 【[川](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun.md#川)】`chun1` <sup>[东台]</sup> ① 河流。 ② 低而平坦之地：崔颢《黄鹤楼》诗｜“晴～历历汉阳树”。 ③ ［引］（引申义为动词）暂借：～几千块钱用下子。  
-1. 【[川](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun.md#川)】`chun1` <sup>[泰州]</sup> ① （泰州词典作賗） ② 向人短期借（钱）应急：十号才发工资，他最近手头紧，跟老刘～吖两千块钱同伢儿交学费。｜装修的人后朝到，我的钱存吖在银行里，还有一个月才到期，到你这许来～两万块钱先用住啊。  
 1. 【[川川](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_chun.md#川川)】`chun1 chun1` <sup>[泰县]</sup> 形容人、车行走快。  
 1. 【[川钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_qin.md#川钱)】`chun1 qin2` <sup>[如东]</sup> 借钱：向你～。  
 1. 【[川食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_sheh.md#川食)】`chun1 sheh8` <sup>[泰县]</sup> 煮猪食。  
@@ -2092,7 +2091,7 @@
 1. 【[穿综](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_zon.md#穿综)】`chun1 zon5` <sup>[如皋]</sup> 将经纱一根根穿过综档的工序。  
 1. 【[𠯀泡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_po_r.md#𠯀泡<sub>儿</sub>)】`chun1 po1 r` <sup>[如皋]</sup> ① 状婴儿学话中突然冒出的字音。 ② 贬指不负责任地暗中议论、传闻。  
 1. 【[传](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun.md#传)】`chun2` <sup>[兴化]</sup> 将液体注入另一容器中：壶里水开啊，拿个热水瓶来下子。  
-1. 【[传](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun.md#传)】`chun2` <sup>[泰州]</sup> 将锅、铫中烧开的水注入热水瓶中：水透啊唻，你把它传吖茶瓶里头去。｜他脚上是～水时不小心烫吖来的。  
+1. 【[传](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun.md#传)】`chun2` <sup>[泰州]</sup> 将锅、铫中烧开的水注入热水瓶中：水透啊唻，你把它～吖茶瓶里头去。｜他脚上是～水时不小心烫吖来的。  
 1. 【[传言](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_in.md#传言)】`chun2 in2` <sup>[如东]</sup> ① 辗转流传的话：都是一些～。 ② 传话：请王二～。  
 1. 【[传名](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_mien.md#传名)】`chun2 mien2` <sup>[兴化]</sup> 传播好名声：（汪炳）病好后，他只能写了很多鸣谢的帖子，贴在满城的街上，为王淡人～。（汪曾祺：《故乡人》）  
 1. 【[传筢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_pa.md#传筢)】`chun2 pa2` <sup>[如皋]</sup> 扛上行筢在丝线架子与哨竿间走一个来回，把丝挂上，准备打丝线。同时取下已打好的丝线回绕。这个过程叫～。  
@@ -2140,7 +2139,7 @@
 1. 【[串子绳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_zz_shen.md#串子绳)】`chun5 zz shen2` <sup>[泰兴]</sup> 很细的草绳。  
 1. 【[串子绳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_zz_shen_r.md#串子绳<sub>儿</sub>)】`chun5 zz shen2 r` <sup>[如皋]</sup> 用茅草搓的绳，旧时用以串铜钱，故名。以后用来作小商品包扎。  
 1. 【[川头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_teu.md#川头)】`chun5 teu` <sup>[泰县]</sup> ① 故事结构：这出戏～不丑。 ② 转借。  
-1. 【[舛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun.md#舛)】`chun5` <sup>[泰州]</sup> ① 特指布料、木头之类已经腐朽：这块木料时间长吖，～动吖唻，做梁怕的不行吖。 ② 堆积物体中间部分松动：东头老赵家西边的围墙～动吖，夜里大风刮咖倒掉啊，还好不曾伤到人。 ③ 喻指胃中食物消化，取其“腹中松动”之义：我早上喝咖两碗浇（xio1）粥就上吖班，肚子里头先头子就～动唻。  
+1. 【[舛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun.md#舛)】`chun5` <sup>[泰州]</sup> ① （布料、木头之类）腐朽：这块木料时间长吖，～动吖唻，做梁怕的不行吖。 ② 堆积物体中间部分松动：东头老赵家西边的围墙～动吖，夜里大风刮咖倒掉啊，还好不曾伤到人。 ③ 喻指胃中食物消化，取其“腹中松动”之义：我早上喝咖两碗𣻏粥就上吖班，肚子里头先头子就～动唻。  
 1. 【[𤶱痰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_taen.md#𤶱痰)】`chun5 taen2` <sup>[如皋]</sup> 一种恶疮。全身多处化脓溃烂，此处刚收口，彼处又烂开。俗说头顶上害疮，脚底下流浓，即指此症。  
 1. 【[篆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun.md#篆)】`chun6` <sup>[东台]</sup> ① 篆字书体名：晚清东台鲍赓培的～书自成一体。 ② 用篆字体铭刻：这枚印章～刻水平非常高。  
 1. 【[初二初三一线斜，初七初八半夜月，十五十六两头红，二十九，亮月子出来扭三扭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_er_chv_saen_ieh_xin_qia_chv_qieh_chv_baeh_bun_ia_iuh_sheh_v_sheh_loh_laen_teu_hon_er_sheh_jieu_lian_iuh_zz_chueh_lae_nieu_saen_nieu.md#初二初三一线斜，初七初八半夜月，十五十六两头红，二十九，亮月子出来扭三扭)】`chv1 er6 chv1 saen1 ieh7 xin5 qia2 chv1 qieh7 chv1 baeh7 bun5 ia6 iuh8 sheh8 v3 sheh8 loh8 laen3 teu2 hon2 er6 sheh8 jieu3 lian6 iuh8 zz chueh7 lae2 nieu3 saen1 nieu3` <sup>[东台]</sup> 月亮在一个月中的圆缺变化规律。  
@@ -2688,7 +2687,7 @@
 1. 【[䅟的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_dii.md#䅟的)】`cun3 dii` <sup>[如皋]</sup> 不黏不䵑，不适口：冷馒头吃起来是～的。  
 1. 【[䅟吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_nga.md#䅟吖)】`cun3 nga` <sup>[如皋]</sup> 指纤维没有了韧性，发脆，易折断、易毁坏。  
 1. 【[䅟子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_zz.md#䅟子)】`cun3 zz` <sup>[如皋]</sup> 如皋称稻田杂草为稗，其籽实杂于米中为～。  
-1. 【[撺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun.md#撺)】`cun5` <sup>[如皋]</sup> ① 撺掇：他捱人一吖走掉啊。 ② 主意多、门路多：他～哎，你多当点儿心。  
+1. 【[撺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun.md#撺)】`cun5` <sup>[如皋]</sup> ① 撺掇：他捱人～吖走掉啊。 ② 主意多、门路多：他～哎，你多当点儿心。  
 1. 【[撺得动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_deh_ton.md#撺得动)】`cun5 deh ton6` <sup>[如皋]</sup> 有能力临时筹集钱财。  
 1. 【[窜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun.md#窜)】`cun5` <sup>[东台]</sup> 快速前进：他一～的下子，不晓得跑啊哪许去啊。  
 1. 【[窜风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_fon.md#窜风)】`cun5 fon1` <sup>[如东]</sup> 风向内里吹：不把裤管儿扎紧，容易～。  

@@ -175,7 +175,6 @@
 1. 【[褦襶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_dae.md#褦襶)】`nae6 dae` <sup>[如东]</sup> 愚蠢，不懂事：这个伢儿有些～。  
 1. 【[褦襶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_dae.md#褦襶)】`nae6 dae` <sup>[东台]</sup> ① 不懂事。（见《现代汉语词典》第六版930页） ② 与“䐯膗”近义，臃肿庞大：这身衣裳太大，嫌～。  
 1. 【[㖸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh.md#㖸)】`naeh` <sup>[泰州]</sup> ① 语气助词，表示提醒：毛笔字要这样子写～。 ② 表示疑问：你家科长人～？｜你买的东西～？ ③ 表示选择：你高兴～就支持他两个，不高兴～就拉倒。  
-1. 【[捺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh.md#捺)】`naeh8` <sup>[东台]</sup> 与“拖”近义，前面人拖着，后面人跟得很吃力：他的舞跳得好，我只是跟吖后面～｜他俫发展得快，把我俫～煞咖。  
 1. 【[捺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh.md#捺)】`naeh8` <sup>[兴化]</sup> 汉字笔划，形状是“㇏”。  
 1. 【[捺䬣饤<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_geh_dien_r.md#捺䬣饤<sub>儿</sub>)】`naeh8 geh7 dien1 r` <sup>[如皋]</sup> 在糊糊面里捺进面䬣饤儿。  
 1. 【[捺捺馋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_naeh_shaen.md#捺捺馋)】`naeh8 naeh8 shaen2` <sup>[东台]</sup> 这里捺，即忍耐。指只能稍微解一下食欲，不能尽兴：过去只有过年才弄点儿肉～。  

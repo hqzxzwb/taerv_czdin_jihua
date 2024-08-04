@@ -920,7 +920,7 @@
 1. 【[精装书](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zhuan_shv.md#精装书)】`jien1 zhuan1 shv1` <sup>[如东]</sup> 书籍的精美装订！一般指封面和书脊上的包布、烫金等（区别于平装书）。  
 1. 【[精钻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zun.md#精钻)】`jien1 zun1, jien1 sun` <sup>[东台]</sup> 聪明；机灵；善于钻研、算计，故又称“精算”：他很～。  
 1. 【[精钻看一眼，呆子相到晚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zun_kun_ieh_ngaen_dae_zz_xian_do_vaen.md#精钻看一眼，呆子相到晚)】`jien1 zun1 kun5 ieh7 ngaen3 dae1 zz xian5 do5 vaen3` <sup>[东台]</sup> 聪明人悟性好，不必卖呆。  
-1. 【[经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien.md#经)】`jien1` <sup>[如皋]</sup> 耐，承受。如皋词典写“禁”，口语中也说jin5，按音写作“见”：经用，经吃，经打。  
+1. 【[经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien.md#经)】`jien1` <sup>[如皋]</sup> 耐，承受。另见“见 jin5”：～用，～吃，～打。  
 1. 【[经不起来去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_beh_qi_lae_qy.md#经不起来去)】`jien1 beh7 qi3 lae2 qy5` <sup>[如皋]</sup> 禁受不起一点波折、变化、打击。  
 1. 【[经长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_chan.md#经长)】`jien1 chan2` <sup>[如皋]</sup> 耐久：酒花不～，表示酒的度数低。  
 1. 【[经打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_da.md#经打)】`jien1 da3` <sup>[如皋]</sup> 耐得住打击：练拳的人要～。  
@@ -1037,9 +1037,7 @@
 1. 【[尽嗓子摡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_san_zz_gae.md#尽嗓子摡)】`jien3 san3 zz gae1` <sup>[东台]</sup> 形容放开喉咙大声说话，唱歌，或嚎啕大哭的状态。  
 1. 【[景云](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_yen.md#景云)】`jien3 yen2` <sup>[如皋]</sup> 又名“巧云”，七月里天空云景变幻无穷。  
 1. 【[景致](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zhr.md#景致)】`jien3 zhr5` 风景  
-1. 【[景子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zz.md#景子)】`jien3 zz` <sup>[如东]</sup> 风景。  
-1. 【[景子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zz.md#景子)】`jien3 zz` <sup>[如皋]</sup> 风景。  
-1. 【[景子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zz.md#景子)】`jien3 zz` <sup>[兴化]</sup> 风景：拱极台～真不丑！  
+1. 【[景子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zz.md#景子)】`jien3 zz` <sup>\[如东\]\[如皋\]\[兴化\]</sup>风景：拱极台～真不丑！<sup>\[兴化\]</sup>  
 1. 【[漌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien.md#漌)】`jien3` <sup>[兴化]</sup> 将生肉放入锅中用文火煮一下，去掉腥味：～肉。  
 1. 【[紧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien.md#紧)】`jien3` <sup>[如皋]</sup> ① 不宽裕：房子～、钱～。 ② 偏小：鞋子～，不好穿。  
 1. 【[紧巴巴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_ba_ba_dii.md#紧巴巴的)】`jien3 ba1 ba1 dii` <sup>[东台]</sup> 指经济上不宽裕。  
@@ -1116,7 +1114,7 @@
 1. 【[进宅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zheh.md#进宅)】`jien5 zheh7` <sup>[东台]</sup> 乔迁新居并举行仪式。避讳“贼ceh8”。  
 1. 【[进嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zuei.md#进嘴)】`jien5 zuei3` <sup>[兴化]</sup> 指吃东西或吃的东西：他烧的菜咸得不能～。｜“臭了生蛆的鸭子，还能～吗？”（马春阳《两个小社员》）  
 1. 【[𠢱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien.md#𠢱)】`jien5` <sup>[如皋]</sup> 用力时肌肉紧张：他把手膀子一～。  
-1. 【[𠢱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien.md#𠢱)】`jien5` <sup>[兴化]</sup> 屏住气，憋足劲：小家伙要拉屎，浑身全～起来啊。《集韵·沁韵》巨禁切｜“～，用力也”。  
+1. 【[𠢱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien.md#𠢱)】`jien5` <sup>[兴化]</sup> 屏住气，憋足劲：小家伙要拉屎，浑身全～起来啊。  
 1. 【[𠢱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien.md#𠢱)】`jien5` <sup>[泰州]</sup> 屏气发力聚起身上肌肉：他只要把膀子一～，上头就肌肉凸凸的。｜你把身子～起来。  
 1. 【[𠢱住啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_chv_a.md#𠢱住啊)】`jien5 chv a` <sup>[如皋]</sup> 强忍住：她～，不哭，不淌眼泪。  
 1. 【[𠢱住啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_chv_a.md#𠢱住啊)】`jien5 chv a, jien5 chv ga` <sup>[东台]</sup> 忍住，憋住：他耐心听对方讲，自己有话也～不说。  
