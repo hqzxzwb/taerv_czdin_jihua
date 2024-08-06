@@ -1018,7 +1018,6 @@
 1. 【[井栏边草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_laen_bin_co.md#井栏边草)】`jien3 laen2 bin1 co3` <sup>[如东]</sup> 凤尾蕨科植物亮凤尾蕨草，常绿多年生草本。  
 1. 【[井水粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_shuei_zhoh.md#井水粥)】`jien3 shuei3 zhoh7` <sup>[如皋]</sup> 井水煮的粥。井水质硬，煮的饭、粥适口。  
 1. 【[井潭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_tun.md#井潭)】`jien3 tun2` <sup>[如东]</sup> 干旱时，在河底挖土井，叫井潭。  
-1. 【[井坔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zhuae.md#井坔)】`jien3 zhuae5` 泰兴地名。属根思乡。  
 1. 【[井砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zhun.md#井砖)】`jien3 zhun1` <sup>[如皋]</sup> 水井壁专用砖，横截面呈梯形。有的还有榫和榫眼，不易松动变形。  
 1. 【[井子舱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zz_can.md#井子舱)】`jien3 zz can1` <sup>[如东]</sup> 帆船的第4舱，是贮存淡水的舱室。也叫水井舱。  
 1. 【[侭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien.md#侭)】`jien3` <sup>[泰县]</sup> 繁体“儘”，随便，任凭：这些东西我～你来拣。  

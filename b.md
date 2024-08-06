@@ -1595,6 +1595,7 @@
 1. 【[饱楦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_xiun.md#饱楦)】`bo3 xiun5` <sup>[兴化]</sup> 形容面部浑圆饱满：～脸儿。  
 1. 【[饱楦脸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_xiun_lin_r.md#饱楦脸<sub>儿</sub>)】`bo3 xiun5 lin3 r` <sup>[东台]</sup> 肌肉丰满的脸蛋。  
 1. 【[饱楦子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_xiun_zz.md#饱楦子)】`bo3 xiun5 zz` <sup>[如皋]</sup> 脸型饱满的样子。  
+1. 【[堡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#堡)】`bo5` 地名用字。声调阴去。泰兴境内地名“堡”一般读此音：宣～，泰兴一镇，民间称宣家～。宣堡辖张家～、杨家～、石家～｜根思辖小杨家～、许家～  
 1. 【[报应](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_ien.md#报应)】`bo5 ien` <sup>[东台]</sup> 因果报应观念，意思是某人做坏事肯定没有好下场：这家伙作恶多端，早晚要遭～。  
 1. 【[报应](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_ien.md#报应)】`bo5 ien5` <sup>[如皋]</sup> 詈语或昵语，指人：我怎吖养吖你这个～的噁！这个～真难服侍！  
 1. 【[报应杲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_ien_go_zz.md#报应杲子)】`bo5 ien5 go3 zz` <sup>[如东]</sup> 不争气的人。  

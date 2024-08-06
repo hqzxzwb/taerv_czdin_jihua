@@ -3652,7 +3652,6 @@
 1. 【[苏铁果](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_tih_gu.md#苏铁果)】`sv1 tih7 gu3` <sup>[如东]</sup> 苏铁科植物苏铁种子。  
 1. 【[苏铁花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_tih_hua.md#苏铁花)】`sv1 tih7 hua1` <sup>[如东]</sup> 苏铁科植物苏铁花。  
 1. 【[苏州青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_zheu_qien.md#苏州青)】`sv1 zheu1 qien1` <sup>[东台]</sup> 一种蔬菜，颜色较一般青菜略淡。明“洪武赶散”时传入东台南园，后改良为短茎、粗瓢、矮株、扁棵的小青菜。  
-1. 【[苏坔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_zhuae.md#苏坔)】`sv1 zhuae5` 泰兴地名。今属滨江镇。原属马甸。  
 1. 【[酥饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_bien.md#酥饼)】`sv1 bien3` <sup>[如皋]</sup> 盘酵时加酥的面饼。  
 1. 【[酥儿饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_er_bien.md#酥儿饼)】`sv1 er bien3` <sup>[东台]</sup> 古镇富安特有的传统茶点。又名千层酥。每年正月半后至清明节前为生产佳期，过时便失其脆酥。以精制面粉为主料，辅之以洗赤豆沙、鲜肉、蔗糖等佐料，内包甜、咸两种馅料，油煎而成。它形似菊花，层层起酥，疏松香脆，油而不腻，常令食者回味无穷，堪称东台一绝。  
 1. 【[酥瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_gua.md#酥瓜)】`sv1 gua1` <sup>[兴化]</sup> 甜瓜的一种，果实长筒形，皮深绿色，瓠果肉甜多汁，可生食解渴。  

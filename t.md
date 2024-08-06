@@ -2312,10 +2312,7 @@
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#□)】`tu5` <sup>[如皋]</sup> 缩后不前：～啊后头。  
 1. 【[唾沫星子直埲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_muh_xien_zz_cheh_pon.md#唾沫星子直埲)】`tu5 muh xien1 zz cheh8 pon6` <sup>[东台]</sup> 指说话不注意体面、仪态，将唾沫溅到周围人的脸上。  
 1. 【[唾沫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_muh.md#唾沫)】`tu5 muh8` <sup>[如皋]</sup> 唾液。  
-1. 【[毻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#毻)】`tu5` <sup>[如皋]</sup> 皮、毛、齿等的新陈代谢：～皮、～毛、～头发、～奶齿、～疤儿、～壳。  
-1. 【[毻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#毻)】`tu5` <sup>[兴化]</sup> 鸟类换毛羽谓～毛。《广韵·过韵》汤卧切：“～，鸟易毛也”。  
-1. 【[毻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#毻)】`tu5` <sup>[泰州]</sup> 鸟类换毛：一地都是鸭子～的毛。  
-1. 【[毻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#毻)】`tu5` <sup>[泰州]</sup> 人、动物脱掉表层皮肤或者外壳（*蜕）：蚕ㄦ再～一次壳就上山唻。｜他请假家去收麦，身上晒啊～掉一层皮。  
+1. 【[毻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#毻)】`tu5` <sup>\[如皋\]\[兴化\]\[泰州\]</sup>皮、毛、齿等的脱落，有代谢原因的或病理原因的：～皮、～毛、～头发、～奶齿、～疤儿、～壳<sup>\[如皋\]</sup>｜一地都是鸭子～的毛<sup>\[泰州\]</sup>｜蚕ㄦ再～一次壳就上山唻<sup>\[泰州\]</sup>｜他请假家去收麦，身上晒啊～掉一层皮<sup>\[泰州\]</sup>  
 1. 【[毻毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_mo.md#毻毛)】`tu5 mo2` <sup>[东台]</sup> 落毛：庾信《老子庙应诏诗》“～新鹄小。”  
 1. 【[垛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#垛)】`tu6` <sup>[如皋]</sup> 地名通名。如狮子～、蒋家、迥家～、王家～。  
 1. 【[垛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#垛)】`tu6` <sup>[东台]</sup> 本指堆积的东西或者高出周围的土墩，如草～、砖头～，后常用作地名：梁～、何～。  

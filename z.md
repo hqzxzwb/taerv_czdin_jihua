@@ -1753,6 +1753,7 @@
 1. 【[跩威<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuae_vei_r.md#跩威<sub>儿</sub>)】`zhuae3 vei5 r` <sup>[如皋]</sup> 同“跩”❷❸  
 1. 【[跩文](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuae_ven.md#跩文)】`zhuae3 ven2` <sup>[东台]</sup> 说话不用口语，而爱用文言，以卖弄自己的学问：诗文转转的，说大白话就好了，用不着跩啊跩的。  
 1. 【[跩文](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuae_ven.md#跩文)】`zhuae3 ven2` <sup>[兴化]</sup> 即转文，说话喜欢咬文嚼字以显示学问高深：他从小念过几年私塾，动不动就跟人～。  
+1. 【[坔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuae.md#坔)】`zhuae5` 地名用字：王～，今属泰兴济川街道，原属燕头｜苏～，今属泰兴滨江镇，原属马甸｜井～，属泰兴根思乡  
 1. 【[拽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuae.md#拽)】`zhuae5` <sup>[如皋]</sup> 像桩一样按在那里，不动：石滚子放吖哪许？就～啊那边场上吧。  
 1. 【[拽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuae.md#拽)】`zhuae5` <sup>[如皋]</sup> 拉：他一把～啊我的衣领不丢。  
 1. 【[拽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuae.md#拽)】`zhuae5` <sup>[东台]</sup> 拖，拉：他一把～住她的衣裳不放，硬要她答应和他结婚。  
