@@ -1089,8 +1089,7 @@
 1. 【[称头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_teu.md#称头)】`chen5 teu2` <sup>[如东]</sup> 扁担两端重量相当：一头一只箩，一头两只海子，挑起来～。  
 1. 【[称头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_teu.md#称头)】`chen5 teu2` <sup>[如皋]</sup> 两端重量相当，相对平衡：挑担要～，不要挑背背担儿。  
 1. 【[称心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_xien.md#称心)】`chen5 xien1` <sup>[如东]</sup> 符合心意；心满意足。  
-1. 【[謓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen.md#謓)】`chen5` <sup>[兴化]</sup> ① 生气、不满。 ② 制止：他说话容易得罪人，我连忙～他。  
-1. 【[謓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen.md#謓)】`chen5` <sup>[泰州]</sup> 发现某人言行不妥之时采用责怪某人方法制止不妥言行：他同领导说话没大没小的，老李～吖他几回都～不住他。  
+1. 【[謓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen.md#謓)】`chen5` ① <sup>\[泰州\]</sup>发现某人言行不妥之时采用责怪某人方法制止不妥言行：他同领导说话没大没小的，老李～吖他几回都～不住他。<sup>\[泰州\]</sup> ② <sup>\[兴化\]</sup>生气、不满。 ③ <sup>\[兴化\]</sup>制止：他说话容易得罪人，我连忙～他。<sup>\[兴化\]</sup>  
 1. 【[趁风涨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_fon_zhan.md#趁风涨)】`chen5 fon1 zhan3` <sup>[如皋]</sup> 价格飞涨。  
 1. 【[趁风长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_fon_zhan.md#趁风长)】`chen5 fon1 zhan3` <sup>[如皋]</sup> 状人、畜、禽初生，生长迅速。  
 1. 【[趁觉<sub>儿</sub>的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_go_r_dii.md#趁觉<sub>儿</sub>的)】`chen5 go5 r dii` <sup>[如皋]</sup> 睡梦中说话、脱袜子等行为。  
