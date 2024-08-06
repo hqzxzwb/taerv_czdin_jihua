@@ -1045,7 +1045,6 @@
 1. 【[剩脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_jiah_r.md#剩脚<sub>儿</sub>)】`chen5 jiah7 r` <sup>[如皋]</sup> 剩下的东西：～菜、～货。  
 1. 【[剩脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_jiah_r.md#剩脚<sub>儿</sub>)】`chen5 jiah7 r` <sup>[如皋]</sup> 见“落脚儿”。  
 1. 【[剩脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_jiah_r.md#剩脚<sub>儿</sub>)】`chen5 jiah7 r` <sup>[兴化]</sup> 挑剩或吃剩的东西：这是～，我不要。  
-1. 【[嗔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen.md#嗔)】`chen5` <sup>[兴化]</sup> ① 生气、不满。 ② 制止：他说话容易得罪人，我连忙～他。  
 1. 【[秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen.md#秤)】`chen5` <sup>[如东]</sup> 衡量物体重量的工具。一般指杆秤。  
 1. 【[秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen.md#秤)】`chen5` <sup>[如皋]</sup> 量词：收棉花，一天收啊百十～。  
 1. 【[秤称不得，斗量不得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_chen_beh_deh_deu_lian_beh_deh.md#秤称不得，斗量不得)】`chen5 chen1 beh7 deh7 deu3 lian2 beh7 deh7` <sup>[东台]</sup> 指对有的事物的评价不能搞简单量化，要从本质上、实践效果上看问题。  
@@ -1090,6 +1089,7 @@
 1. 【[称头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_teu.md#称头)】`chen5 teu2` <sup>[如东]</sup> 扁担两端重量相当：一头一只箩，一头两只海子，挑起来～。  
 1. 【[称头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_teu.md#称头)】`chen5 teu2` <sup>[如皋]</sup> 两端重量相当，相对平衡：挑担要～，不要挑背背担儿。  
 1. 【[称心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_xien.md#称心)】`chen5 xien1` <sup>[如东]</sup> 符合心意；心满意足。  
+1. 【[謓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen.md#謓)】`chen5` <sup>[兴化]</sup> ① 生气、不满。 ② 制止：他说话容易得罪人，我连忙～他。  
 1. 【[謓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen.md#謓)】`chen5` <sup>[泰州]</sup> 发现某人言行不妥之时采用责怪某人方法制止不妥言行：他同领导说话没大没小的，老李～吖他几回都～不住他。  
 1. 【[趁风涨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_fon_zhan.md#趁风涨)】`chen5 fon1 zhan3` <sup>[如皋]</sup> 价格飞涨。  
 1. 【[趁风长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_fon_zhan.md#趁风长)】`chen5 fon1 zhan3` <sup>[如皋]</sup> 状人、畜、禽初生，生长迅速。  
@@ -2038,8 +2038,7 @@
 1. 【[惙虚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuh_xy.md#惙虚)】`chuh8 xy` <sup>[泰县]</sup> 乱：这个人太～。  
 1. 【[惙虚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuh_xy.md#惙虚)】`chuh8 xy1` <sup>[如皋]</sup> 性急慌忙。  
 1. 【[惙虚鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuh_xy_guei.md#惙虚鬼)】`chuh8 xy1 guei3` <sup>[如皋]</sup> 性急慌忙个性的人。  
-1. 【[川](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun.md#川)】`chun1` <sup>\[如皋\]\[泰州\]</sup>借小额临时债：问你～五块钱<sup>\[如皋\]</sup>｜十号才发工资，他最近手头紧，跟老刘～吖两千块钱同伢儿交学费。<sup>\[泰州\]</sup>｜装修的人后朝到，我的钱存吖在银行里，还有一个月才到期，到你这许来～两万块钱先用住啊。<sup>\[泰州\]</sup>  
-1. 【[川](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun.md#川)】`chun1` <sup>[东台]</sup> ① 河流。 ② 低而平坦之地：崔颢《黄鹤楼》诗｜“晴～历历汉阳树”。 ③ ［引］（引申义为动词）暂借：～几千块钱用下子。  
+1. 【[川](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun.md#川)】`chun1` <sup>\[如皋\]\[泰州\]\[东台\]</sup>借小额临时债：问你～五块钱<sup>\[如皋\]</sup>｜十号才发工资，他最近手头紧，跟老刘～吖两千块钱同伢儿交学费。<sup>\[泰州\]</sup>｜装修的人后朝到，我的钱存吖在银行里，还有一个月才到期，到你这许来～两万块钱先用住啊。<sup>\[泰州\]</sup>｜～几千块钱用下子。<sup>\[东台\]</sup>  
 1. 【[川川](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_chun.md#川川)】`chun1 chun1` <sup>[泰县]</sup> 形容人、车行走快。  
 1. 【[川钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_qin.md#川钱)】`chun1 qin2` <sup>[如东]</sup> 借钱：向你～。  
 1. 【[川食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_sheh.md#川食)】`chun1 sheh8` <sup>[泰县]</sup> 煮猪食。  
