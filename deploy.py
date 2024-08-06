@@ -174,6 +174,7 @@ def parse_cont(cont, fname, cz_ien):
     return CzY(source, pien_ien_0, pien_ien, word, raw_word, meanings, fname, sort_key, spec)
 
 def mix(word, py):
+    word = word.rstrip('ʲ')
     py = re.sub("-[a-z1-9]+", "", py)
     py = re.sub(r"（.*?）|\(.*?\)|…", "", py).strip()
     char_py_list = re.split("[^a-z0-9]+", py)
@@ -243,6 +244,20 @@ def parse_cz_ien2(f, out):
             for ien in ienList:
                 out[ien].add(cz)
                 out[re.sub(r'\d', '', ien)].add(cz) # 轻声
+
+def parse_cz_ien3(f, out):
+    io = open(f, encoding="U8")
+    while True:
+        line = io.readline()
+        if not line:
+            break
+        line = line.rstrip('\n')
+        match = re.match(r'^# (\w)ʲ\n([a-z]+\d?)', line)
+        if match:
+            cz = match[1]
+            ien = match[2]
+            out[ien].add(cz)
+            out[re.sub(r'\d', '', ien)].add(cz) # 轻声
 
 def write_page(dirs, path, sample_out, cz_ien):
     """生成分页"""
@@ -333,6 +348,11 @@ parse_cz_ien("daen_cz.csv", cz_ien)
 parse_cz_ien2("用字.md", cz_ien)
 parse_cz_ien2("候选正字.md", cz_ien)
 parse_cz_ien2("suspicious_cz_baseline.md", cz_ien)
+for path in dirs:
+    for fname in glob.glob(path+"/*.md"):
+        if not re.match(r'^[a-z]+\.md', fname):
+            continue
+        parse_cz_ien3(fname, cz_ien)
 for path in dirs:
     samples.append("## %s\n" % path.upper())
     write_page(dirs, path, samples, cz_ien)
