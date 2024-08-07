@@ -1354,6 +1354,7 @@
 1. 【[立马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_ma.md#立马)】`lieh8 ma3` <sup>[东台]</sup> 立即，马上。  
 1. 【[立秋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_qieu.md#立秋)】`lieh8 qieu1` 二十四节气之一，通常在8月7日或8日。  
 1. 【[立秋节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_qieu_jih.md#立秋节)】`lieh8 qieu1 jih7` <sup>[如东]</sup> 立秋日。民间有分吃西瓜、以瓜壳擦脸的习俗。  
+1. 【[立秋三天分早晚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_qieu_saen_tin.md#立秋三天分早晚)】`lieh8 qieu1 saen1 tin1 fen1 zo3 vaen3` <sup>[泰兴]</sup> 立秋以后，暑气渐退，晨昏时分就会感到清凉。  
 1. 【[立时的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_shr_dii.md#立时的)】`lieh8 shr2 dii` <sup>[如皋]</sup> 一时间。  
 1. 【[立瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_va.md#立瓦)】`lieh8 va3` <sup>[如皋]</sup> 屋面盖瓦富裕像是竖立着盖的。  
 1. 【[立夏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_xia.md#立夏)】`lieh8 xia6` <sup>[东台]</sup> 二十四节气之一，通常在5月5日或6日。  
