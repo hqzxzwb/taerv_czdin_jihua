@@ -1718,14 +1718,9 @@
 1. 【[淮南中十场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_nun_zhon_sheh_chan.md#淮南中十场)】`huae2 nun2 zhon1 sheh8 chan2` <sup>[东台]</sup> 明清时代东台一带盐政基层组织。驻台城鼓楼街（原大会堂旧址处）。  
 1. 【[淮豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_teu.md#淮豆)】`huae2 teu6` <sup>[东台]</sup> 安丰镇下灶大蚕豆，为驰名大江南北的地方特产。  
 1. 【[踝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae.md#踝)】`huae2` <sup>[东台]</sup> 踝骨，小腿与脚连接处左右两侧凸起的部分：不小心，脚～儿擦咖破啊皮。  
-1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae.md#□)】`huae3` <sup>[如皋]</sup> ① 摆动、摇动：～手。 ② 打、击：～嘴巴儿。 ③ 大吃：～啊两大碗。  
-1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae.md#□)】`huae3` <sup>[泰县]</sup> ① 吃：我俫在他家～啊一顿。 ② 揍、打：我～他一顿。 ③ 摔甩：把黑墨水拿～去掉。  
-1. 【[㩓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae.md#㩓)】`huae3` <sup>[东台]</sup> 击打。（《说文解字·段注》：“击之而伤也。故其字从手毁。”）：你再闹，当心我～你！  
+1. 【[㩓/拻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae.md#㩓/拻)】`huae3` ① <sup>\[如皋\]\[泰县\]\[泰州\]</sup>挥、摆、甩：～手/摆手<sup>\[如皋\]</sup>｜把黑墨水拿～掉<sup>\[泰县\]</sup>｜把刀上的烂泥～掉<sup>\[泰州\]</sup>｜这小伙跟吖后头，烦煞咖，费啊好大的事才把他～掉<sup>\[泰州\]</sup>｜钢笔里头没得水唻，～啊半天都没得用<sup>\[泰州\]</sup> ② <sup>\[如皋\]\[东台\]\[泰县\]\[兴化\]</sup>打、击，尤其指用甩的动作：～嘴巴儿<sup>\[如皋\]</sup>｜你再闹，当心我～你！<sup>\[东台\]</sup>｜我～他一顿<sup>\[泰县\]</sup>｜再调皮～他的筋。<sup>\[兴化\]</sup>｜他再在外头瞎说八道的，～他的嘴巴子<sup>\[兴化\]</sup> ③ <sup>\[如皋\]\[泰县\]\[泰州\]</sup>大吃：～啊两大碗<sup>\[如皋\]</sup>｜我俫在他家～啊一顿<sup>\[泰县\]</sup>｜一拿到工资就上饭店去～啊一顿。<sup>\[泰州\]</sup>｜中饭不曾吃，一个人就～啊三大碗下去。<sup>\[泰州\]</sup>  
 1. 【[㩓鞭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_bin_zz.md#㩓鞭子)】`huae3 bin1 zz` <sup>[东台]</sup> 用力挥动鞭子。  
 1. 【[㩓掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_tio.md#㩓掉)】`huae3 tio` <sup>[东台]</sup> 甩掉：把手上的泥～！  
-1. 【[咶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae.md#咶)】`huae3` <sup>[泰州]</sup> 吃：一拿到工资就上饭店去～啊一顿。｜中饭不曾吃，一个人就～啊三大碗下去。  
-1. 【[拻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae.md#拻)】`huae3` <sup>[兴化]</sup> 打：再调皮～他的筋。｜他再在外头瞎说八道的，～他的嘴巴子。  
-1. 【[拻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae.md#拻)】`huae3` <sup>[泰州]</sup> ① 打：钢笔里头没得水唻，～啊半天都没得用。 ② 使劲甩、挥动：把刀上的烂泥～掉。 ③ 甩掉：这小伙跟吖后头，烦煞咖，费啊好大的事才把他～掉。  
 1. 【[坏兆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_cho.md#坏兆)】`huae6 cho6` <sup>[兴化]</sup> 不好的兆头：“……二柱是黄鼠狼养在鸡窝里，～！”（马春阳《两个小社员》）  
 1. 【[坏讼子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_con_zz.md#坏讼子)】`huae6 con5 zz` <sup>[如皋]</sup> 出坏主意的人。讼，邪母字，同从母。  
 1. 【[坏瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_gua.md#坏瓜)】`huae6 gua1` <sup>[兴化]</sup> （借）专出坏主意，专门对人施暗算的人：～主意。  

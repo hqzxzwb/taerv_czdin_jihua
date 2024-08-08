@@ -807,9 +807,9 @@
 1. 【[一筹水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_cheu_shuei.md#一筹水)】`ieh7 cheu2 shuei3` <sup>[如皋]</sup> 踏水车戽水的计量单位，即系在“沷鹤儿”上的“筹把儿”跟着转了一周的提水量。  
 1. 【[一朝天子一朝臣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_cho_tin_zz_ieh_cho_chen.md#一朝天子一朝臣)】`ieh7 cho2 tin1 zz3 ieh7 cho2 chen2` <sup>[东台]</sup> 不同的领导用不同的人才。  
 1. 【[一潮水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_cho_shuei.md#一潮水)】`ieh7 cho2 shuei3` 阴历初十和二十五开始潮水水位升高，叫做起水。十一日和二十六日的潮水叫作一潮水。  
+1. 【[一冲之兴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_chon_zhr_xien.md#一冲之兴)】`ieh7 chon1 zhr1 xien5` <sup>[兴化]</sup> 由着性子，凭好恶行事：他做事总是～，过后就丢啊干干净净。也说“一兴之头”。  
 1. 【[一衝之性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_chon_zhr_xien.md#一衝之性)】`ieh7 chon3 zhr1 xien5` <sup>[如皋]</sup> 冲动、不冷静：少年人～做蠢事是常事，要接受教训，学会冷静才好。  
 1. 【[一冲之兴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_chon_zhr_xien.md#一冲之兴)】`ieh7 chon5 zhr1 xien5` <sup>[东台]</sup> 不假思索依着一时冲动和兴致说话、办事：你～，哿晓得后果有多严重？！  
-1. 【[一冲之兴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_chon_zhr_xien.md#一冲之兴)】`ieh7 chon5 zhr1 xien5` <sup>[兴化]</sup> 由着性子，凭好恶行事：他做事总是～，过后就丢啊干干净净。也说“一兴之头”。  
 1. 【[一冲之兴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_chon_zhr_xien.md#一冲之兴)】`ieh7 chon5 zhr1 xien5` <sup>[泰兴]</sup> 不经过认真思考，凭着性气行事：他～，失手打人，是不对的。  
 1. 【[一䟳一滑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_chr_ieh_huaeh.md#一䟳一滑)】`ieh7 chr1 ieh7 huaeh8` <sup>[如东]</sup> 路面泥泞行走困难：刚刚落咖雨，泥路上～的，不好跑。  
 1. 【[一䟳一滑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_chr_ieh_huaeh.md#一䟳一滑)】`ieh7 chr1 ieh7 huaeh8` <sup>[兴化]</sup> 在潮湿地面上艰难行走的样子：他冒啊风雨，～赶往工地。｜路上～的，走路要注意。  
