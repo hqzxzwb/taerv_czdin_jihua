@@ -11,7 +11,7 @@ ieh7 chon5 zhr1 xien5
   - 你～，哿晓得后果有多严重？！
 
 # 一冲之兴
-ieh7 chon5 zhr1 xien5
+ieh7 chon1 zhr1 xien5
 > 兴化方言词典
 - 由着性子，凭好恶行事
   - 他做事总是～，过后就丢啊干干净净。也说“一兴之头”。
