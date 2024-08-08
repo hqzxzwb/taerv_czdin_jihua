@@ -762,7 +762,7 @@
 1. 【[疼疖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_jih_zz.md#疼疖子)】`ten2 jih7 zz` <sup>[如皋]</sup> 喻把柄：他的～是贪财；你抓住咖他的～，他就怕你。  
 1. 【[疼肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_roh.md#疼肉)】`ten2 roh8` <sup>[如皋]</sup> 疼爱：妈妈死得虽早，还有姑妈～他。人人都有～之心。  
 1. 【[疼肉之心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_roh_zhr_xien.md#疼肉之心)】`ten2 roh8 zhr1 xien1` <sup>[东台]</sup> 体谅他人皮肉之苦的慈善心肠。  
-1. 【[腾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten.md#腾)】`ten2` <sup>[泰州]</sup> ① 让出部分空间挪作他用：你去同哥哥睏，～一张铺出来把舅舅睏。 ② 让出部分时间或者物品挪作他用：再忙也要～出时间带伢儿上医院。  
+1. 【[腾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten.md#腾)】`ten2` <sup>[泰州]</sup> 让出部分（空间、时间、物品等）挪作他用：你去同哥哥睏，～一张铺出来把舅舅睏。｜再忙也要～出时间带伢儿上医院。  
 1. 【[腾房子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_fan_zz.md#腾房子)】`ten2 fan2 zz` <sup>[如东]</sup> 把房屋倒空出来。  
 1. 【[腾功夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_gon_fv.md#腾功夫)】`ten2 gon1 fv1` <sup>[如东]</sup> 抽出时间来：我再忙，也要～陪你耍子。  
 1. 【[腾工夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_gon_fv.md#腾工夫)】`ten2 gon1 fv1` <sup>[如皋]</sup> 挤出时间。  
@@ -790,7 +790,7 @@
 1. 【[褪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten.md#褪)】`ten5` <sup>[如皋]</sup> ① 退避：大家一齐儿走，他总～吖后头。 ② 暗中选留：这张床是～吖把你的，别的床总捱人家订吖去啊。  
 1. 【[褪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten.md#褪)】`ten5` <sup>[如皋]</sup> 向下脱：～裤子。  
 1. 【[褪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten.md#褪)】`ten5` <sup>[东台]</sup> 悄悄地退让，逃避：党员干部遇到难事不能往后～。  
-1. 【[褪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten.md#褪)】`ten5` <sup>[兴化]</sup> ① 悄然退出：他一听手机响，忙从队伍里～出来。 ② 藏在袖子里：钱～吖衣袖里。‖也作“吞”｜《西游记》第三十四回有“～袖子，揣腰间”句。也读作tun5。  
+1. 【[褪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten.md#褪)】`ten5` <sup>[兴化]</sup> ① 悄然退出：他一听手机响，忙从队伍里～出来。 ② 藏放。也读作tun5：钱～吖衣袖里。  
 1. 【[褪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten.md#褪)】`ten5` <sup>[泰州]</sup> ① 脱下衣服：你把衣裳～下来把我洗。 ② 退：你朝后～两步，让他先过去。 ③ 时间向后延期：不好意思，借你的钱，还要再～两天还把你。｜事情太多,～到今朝才处理。 ④ 回避：遇到这些事情，你还是老实点ㄦ朝后～～的好。  
 1. 【[褪的人家扁担头上的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_dii_ren_ga_bin_daen_teu_shan_dii.md#褪的人家扁担头上的)】`ten5 dii ren2 ga bin3 daen5 teu2 shan dii` <sup>[东台]</sup> 喻指学的人家已经过时的经验。  
 1. 【[褪裤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_kv_zz.md#褪裤子)】`ten5 kv5 zz` <sup>[如皋]</sup> 脱裤子。  
