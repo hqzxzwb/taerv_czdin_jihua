@@ -1875,7 +1875,7 @@
 1. 【[脑勺子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_shah_zz.md#脑勺子)】`no3 shah8 zz` <sup>[兴化]</sup> 头的后部：“小玉这丫头要是回嘴，你替我刮他两～！”（马春阳《战友加亲邻》）｜“哎也！是我走的慌了，脚后跟只打着脑杓子。”（《水浒传》三二）  
 1. 【[脑袋瓜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_tae_gua_r.md#脑袋瓜<sub>儿</sub>)】`no3 tae6 gua1 r` <sup>[如皋]</sup> ① 脑袋头。 ② 脑力（智慧）：他的～灵光。  
 1. 【[脑头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_teu.md#脑头)】`no3 teu` <sup>[兴化]</sup> 头绪、来龙去脉：你先把～过节弄清爽再发表议论。  
-1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no.md#□)】`no6` 踩踏  
+1. 【[闹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no.md#闹)】`no6` 踩踏  
 1. 【[闹包子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_bo_zz.md#闹包子)】`no6 bo1 zz` <sup>[东台]</sup> ① 在某种事件中插一杠子，横生枝节：有不同意见好好说，不要在这许～。 ② 大人戏称小孩在调皮捣蛋，增加麻烦。  
 1. 【[闹包子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_bo_zz.md#闹包子)】`no6 bo1 zz` <sup>[兴化]</sup> 出不应有的笑话：他这个高中生连借条也不会打，真是～。  
 1. 【[闹包子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_bo_zz.md#闹包子)】`no6 bo1 zz` <sup>[泰县]</sup> 无理取闹的人。  
