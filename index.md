@@ -421,7 +421,6 @@
 1. 【[洒水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa_shuei.md#洒水)】`sa3 shuei3` <sup>[如东]</sup> 用刷子蘸水向物体上抖落：向黄瓜苗上～。  
 [更多...](./s.md)
 ## T
-1. 【[他](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta.md#他)】`ta1` 他  
 1. 【[他](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta.md#他)】`ta1` <sup>[如东]</sup> 人称代词。代表“我”和“你”以外的第三者。  
 1. 【[他的根本，我的家乡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta_dii_gen_ben_ngu_dii_jia_xian.md#他的根本，我的家乡)】`ta1 dii gen1 ben3 ngu3 dii jia1 xian1` <sup>[东台]</sup> 喻指我对他的底细十分清楚。  
 1. 【[他的他](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta_dii_ta.md#他的他)】`ta1 dii ta1` <sup>[东台]</sup> 还是老样子。（也作“他对他”或“他的个他”）：对他教育一年效果不大，还是～！  
@@ -441,6 +440,7 @@
 1. 【[胎里带](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_lii_dae.md#胎里带)】`tae1 lii dae5` <sup>[兴化]</sup> 先天的，与生俱来的：他脸上一块黑斑是～的。｜……且他眉心中原有米粒大的一点胭脂㾵，从～来的。（《红楼梦》四）  
 1. 【[胎里病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_lii_pien.md#胎里病)】`tae1 lii pien6` <sup>[如皋]</sup> 通指人或物与生俱来的缺陷、毛病。  
 1. 【[胎毛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_mo_r.md#胎毛<sub>儿</sub>)】`tae1 mo2 r` <sup>[如皋]</sup> 胎发。  
+1. 【[胎盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_pun.md#胎盘)】`tae1 pun2` <sup>[如东]</sup> 健康人的胎盘，又名紫河车。  
 [更多...](./t.md)
 ## U
 1. 【[唩啰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_lu.md#唩啰)】`u lu` <sup>[如东]</sup> 呼狗声。  
