@@ -1150,7 +1150,7 @@
 1. 【[青滴滴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_dieh_dieh.md#青滴滴)】`qien1 dieh7 dieh7` <sup>[兴化]</sup> 色泽鲜绿：粽箬看上去水淋淋的，～的。（刘仁前《香河风情·香河人家》）  
 1. 【[青的间紫的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_dii_gaen_zz_dii.md#青的间紫的)】`qien1 dii gaen5 zz3 dii` <sup>[如皋]</sup> 青中有紫的样子。常状皮肤伤势。  
 1. 【[青拂拂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_feh_feh.md#青拂拂)】`qien1 feh7 feh7` <sup>[兴化]</sup> 形容青翠鲜嫩的样子：田里的秧苗～的。  
-1. 【[青梗梗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_gen_gen.md#青梗梗)】`qien1 gen gen5` <sup>[兴化]</sup> 形容葱绿茂盛：田岸上的桃树红了，柳树绿了，那一望无际的麦苗～地长高了。（马春阳《四十块钱》）  
+1. 【[青亘亘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_gen_gen.md#青亘亘)】`qien1 gen gen5` <sup>[兴化]</sup> 形容葱绿茂盛：田岸上的桃树红了，柳树绿了，那一望无际的麦苗～地长高了。（马春阳《四十块钱》）  
 1. 【[青果](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_gu.md#青果)】`qien1 gu3` <sup>[如皋]</sup> 橄榄果。  
 1. 【[青果](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_gu.md#青果)】`qien1 gu3` <sup>[兴化]</sup> 橄榄。  
 1. 【[青蒿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ho.md#青蒿)】`qien1 ho1` <sup>[如东]</sup> 菊科植物青蒿，一年生或二年生草本。  

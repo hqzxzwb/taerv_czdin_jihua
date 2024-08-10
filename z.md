@@ -1763,11 +1763,7 @@
 1. 【[鵽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuaeh.md#鵽)】`zhuaeh7` <sup>[兴化]</sup> 水鸟，小于鸽，《集韵·辖韵》张刮切“～，鸟名。《说文》～鸠”：秧～｜麻～｜春天，卖一种叫作～的野味——这是一种候鸟，长嘴长脚……（汪曾祺《异秉》）  
 1. 【[鵽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuaeh.md#鵽)】`zhuaeh7` <sup>[兴化]</sup> ① （喻）形容人体格瘦小：他瘦得像个～。 ② 差劲：～货｜东西太～，卖不起价钱。  
 1. 【[㔍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuaen.md#㔍)】`zhuaen1` <sup>[东台]</sup> 断：这小伙力气真大，硬把一根粗木棍～掉啊。  
-1. 【[跧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuaen.md#跧)】`zhuaen1` 弯腰：～腰  
-1. 【[跧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuaen.md#跧)】`zhuaen1` <sup>[如皋]</sup> 低头、弯腰。  
-1. 【[跧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuaen.md#跧)】`zhuaen1` <sup>[兴化]</sup> 弯着腰：～腰  
-1. 【[跧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuaen.md#跧)】`zhuaen1` <sup>[泰州]</sup> 弯着背部：你把腰稍微～一点儿下来。｜东西忑咖地下，你就不能～吖来拾咖子。  
-1. 【[跧腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuaen_io.md#跧腰)】`zhuaen1 io1` <sup>[东台]</sup> 弯腰：把腰跧下来。  
+1. 【[跧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuaen.md#跧)】`zhuaen1` <sup>\[如皋\]\[兴化\]\[泰州\]\[东台\]</sup>弯下（腰、背等）：～腰｜你把腰稍微～一点儿下来。<sup>\[泰州\]</sup>｜东西忑咖地下，你就不能～吖来拾咖子。<sup>\[泰州\]</sup>｜把腰～下来。<sup>\[东台\]</sup>  
 1. 【[赚头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuaen_teu.md#赚头)】`zhuaen5 teu2` <sup>[东台]</sup> 利润：这笔生意～不小。  
 1. 【[㧻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah.md#㧻)】`zhuah7` 用力往下放  
 1. 【[卓肩膀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_jin_ban.md#卓肩膀)】`zhuah7 jin1 ban3` <sup>[兴化]</sup> 因瘦削而两肩高耸：来人是个高个子，～，缩颈项。  
@@ -2021,7 +2017,7 @@
 1. 【[转念头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_nin_teu.md#转念头)】`zhun3 nin6 teu` <sup>[兴化]</sup> 动脑筋、打主意：他眼睛骨碌骨碌地，又在下～。  
 1. 【[转噍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_qio.md#转噍)】`zhun3 qio1` <sup>[如皋]</sup> ① 指反刍。 ② 同“转爪”。  
 1. 【[转窍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_qio.md#转窍)】`zhun3 qio5` <sup>[如东]</sup> 想通了：她终于～。  
-1. 【[转䵑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_ren.md#转䵑)】`zhun3 ren6` <sup>[如皋]</sup> 因吸潮由脆变软：时霉天脆饼儿容易～；炒花生天数多啊，～吖。  
+1. 【[转䵑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_ren.md#转䵑)】`zhun3 ren6` <sup>[如皋]</sup> 因吸潮由脆变软。同“发䵑”：时霉天脆饼儿容易～｜炒花生天数多啊，～吖。  
 1. 【[转色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_seh.md#转色)】`zhun3 seh7` <sup>[如皋]</sup> 改变颜色：如人的脸色、炒菜的菜色、移苗后的叶色等。  
 1. 【[转色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_seh.md#转色)】`zhun3 seh7` <sup>[兴化]</sup> ① 面色变化，多指由黄黑转红白：这个孩子几个月好日子一过，脸上倒转吖色。 ② 农作物由黄变绿：水肥一上，秧苗转吖色。  
 1. 【[转身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_shen.md#转身)】`zhun3 shen1` <sup>[如皋]</sup> 见“转爪”。  
@@ -2055,7 +2051,6 @@
 1. 【[转圈络<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_qiun_lah_r.md#转圈络<sub>儿</sub>)】`zhun5 qiun1 lah r` <sup>[如皋]</sup> 旋转。  
 1. 【[转圈圈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_qiun_qiun_r.md#转圈圈<sub>儿</sub>)】`zhun5 qiun1 qiun1 r` <sup>[如皋]</sup> 旋转。  
 1. 【[转圈圈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_qiun_qiun_r.md#转圈圈<sub>儿</sub>)】`zhun5 qiun1 qiun1 r` <sup>[如东]</sup> ① 绕圈子。 ② 比喻说话拐弯抹角，不直爽：你不要～，有话就说。  
-1. 【[转䵑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_ren.md#转䵑)】`zhun5 ren6` <sup>[如皋]</sup> 见“发䵑”。  
 1. 【[转身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_shen.md#转身)】`zhun5 shen1` <sup>[如东]</sup> 身体旋转。比喻迅速：～就走啊。  
 1. 【[转弯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_vaen.md#转弯)】`zhun5 vaen1` <sup>[如东]</sup> 改变方向：在前头～。  
 1. 【[转弯计](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_vaen_ji.md#转弯计)】`zhun5 vaen1 ji5` <sup>[如东]</sup> ① 善于变化：你要有～，才能成功。 ② 巧计：这是一条～。  
