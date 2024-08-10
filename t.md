@@ -1,7 +1,6 @@
 # 音序检索
 **[A](./a.md) | [B](./b.md) | [C](./c.md) | [D](./d.md) | [E](./e.md) | [F](./f.md) | [G](./g.md) | [H](./h.md) | [I](./i.md) | [J](./j.md) | [K](./k.md) | [L](./l.md) | [M](./m.md) | [N](./n.md) | [O](./o.md) | [P](./p.md) | [Q](./q.md) | [R](./r.md) | [S](./s.md) | [T](./t.md) | [U](./u.md) | [V](./v.md) | [X](./x.md) | [Y](./y.md) | [Z](./z.md)**  
 ## T
-1. 【[咑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta.md#咑)】`ta` <sup>[兴化]</sup> 语气词：这挂车子是你的～？  
 1. 【[他](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta.md#他)】`ta1` 他  
 1. 【[他](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta.md#他)】`ta1` <sup>[如东]</sup> 人称代词。代表“我”和“你”以外的第三者。  
 1. 【[他的根本，我的家乡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta_dii_gen_ben_ngu_dii_jia_xian.md#他的根本，我的家乡)】`ta1 dii gen1 ben3 ngu3 dii jia1 xian1` <sup>[东台]</sup> 喻指我对他的底细十分清楚。  
