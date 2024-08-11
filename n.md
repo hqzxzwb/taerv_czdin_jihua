@@ -1880,7 +1880,7 @@
 1. 【[闹包子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_bo_zz.md#闹包子)】`no6 bo1 zz` <sup>[兴化]</sup> 出不应有的笑话：他这个高中生连借条也不会打，真是～。  
 1. 【[闹包子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_bo_zz.md#闹包子)】`no6 bo1 zz` <sup>[泰县]</sup> 无理取闹的人。  
 1. 【[闹蛼螯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_cha_ngo.md#闹蛼螯)】`no6 cha1 ngo` <sup>[如东]</sup> 捕取蛼螯的一种方式。双脚在海滩上踩动，使沙泥变软，将埋藏在沙泥中的蛼螯挤出来捕捉。  
-1. 【[闹嘈嘈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_co_co.md#闹嘈嘈)】`no6 co2 co1` <sup>[兴化]</sup> 吵嚷、喧哗：脚踏楼梯步步高，耳听金鸡～……（兴文《上梁嗑子》）  
+1. 【[闹□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_co_co.md#闹□□)】`no6 co1 co1` <sup>[兴化]</sup> 吵嚷、喧哗：脚踏楼梯步步高，耳听金鸡～……（兴文《上梁嗑子》）  
 1. 【[闹发](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_faeh.md#闹发)】`no6 faeh7` <sup>[兴化]</sup> 水乡婚俗，喜宴后闹新房。俗曰：～～，闹啊才能发（财）。（见《兴化市志·民俗》）  
 1. 【[闹家窝子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_ga_u_zz.md#闹家窝子)】`no6 ga1 u1 zz` <sup>[兴化]</sup> 内部的人互相争斗。也说“搂家窝子”。  
 1. 【[闹海](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_hae.md#闹海)】`no6 hae3` <sup>[如皋]</sup> 代指下河洗澡。源自“哪吒闹海”。现也指去浴室洗澡。  

@@ -1055,7 +1055,6 @@
 1. 【[背头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_teu.md#背头)】`bei1 teu2` <sup>[如东]</sup> ① 一头轻，一头重。 ② 比喻吃亏：这趟生意，我吃咖～。  
 1. 【[背债](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_zhae.md#背债)】`bei1 zhae5` <sup>[如东]</sup> 欠债：他还～，日子困难。  
 1. 【[倍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei.md#倍)】`bei5` <sup>[东台]</sup> ① 加倍：事半功～。 ② 更加，格外：每逢佳节～思亲。  
-1. 【[悖时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_shr.md#悖时)】`bei5 shr2` <sup>[如皋]</sup> 时运不好，诸事不顺。或作“背时”。  
 1. 【[背啊后头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_a_heu_teu.md#背啊后头)】`bei5 a heu6 teu` <sup>[东台]</sup> 双手倒剪放在背后：旧时学校要求学生上课时双手要～。  
 1. 【[背绑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_ban.md#背绑)】`bei5 ban3` <sup>[如皋]</sup> 把双手放在背后捆绑起来。  
 1. 【[背绑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_ban.md#背绑)】`bei5 ban3` <sup>[东台]</sup> 双手被捆绑在背后：他再犯犟，麻绳～把他送进去。  
@@ -1071,9 +1070,7 @@
 1. 【[背霉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_mei.md#背霉)】`bei5 mei2` <sup>[兴化]</sup> 倒霉失意的时候：这老头子一时～，日后官复原职，找他的人就多了……（《郑板桥传说·半副对联》）  
 1. 【[背手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_sheu.md#背手)】`bei5 sheu3` <sup>[如东]</sup> 两手放在背后。  
 1. 【[背手亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_sheu_lian.md#背手亮)】`bei5 sheu3 lian6` <sup>[兴化]</sup> 光线从右侧射来，被手的影子遮着：把身子转过来，这吖写字～。  
-1. 【[背时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_shr.md#背时)】`bei5 shr2` <sup>[如东]</sup> 倒霉：王二一生～。  
-1. 【[背时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_shr.md#背时)】`bei5 shr2` <sup>[东台]</sup> 不走运。  
-1. 【[背时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_shr.md#背时)】`bei5 shr2` <sup>[兴化]</sup> 不合时宜：他上吖年纪，有些～啊，遇事总喜欢唠叨几句。也作“悖时”。  
+1. 【[背时/悖时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_shr.md#背时/悖时)】`bei5 shr2` ① <sup>\[如皋\]\[如东\]\[东台\]</sup>时运不好，诸事不顺：王二一生～。<sup>\[如东\]</sup> ② <sup>\[兴化\]</sup>不合时宜：他上吖年纪，有些～啊，遇事总喜欢唠叨几句。<sup>\[兴化\]</sup>  
 1. 【[背地里头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_ti_li_teu.md#背地里头)】`bei5 ti6 li3 teu` <sup>[东台]</sup> 私下，不当面暗地里的意思。  
 1. 【[背道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_to.md#背道)】`bei5 to` <sup>[兴化]</sup> 偏僻的地方：那个地方～，晚上路过要留点儿神。  
 1. 【[背道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_to.md#背道)】`bei5 to6` <sup>[如皋]</sup> 偏僻闭塞。  

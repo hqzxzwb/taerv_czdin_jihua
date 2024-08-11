@@ -1489,7 +1489,7 @@
 1. 【[中秋的月亮——正大光明](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_qieu_dii_iuh_lian_zhen_da_guan_mien.md#中秋的月亮——正大光明)】`zhon1 qieu1 dii iuh8 lian6 zhen5 da6 guan1 mien2` <sup>[东台]</sup>   
 1. 【[中秋节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_qieu_jih.md#中秋节)】`zhon1 qieu1 jih7` <sup>[如东]</sup> 中国传统节日。在阴历八月十五日。宋·吴自枚《梦梁录·中秋》称：“八月十五日，中秋节，此日三秋恰半，故谓之中秋。”这一天，民间有赏月的风俗。吃月饼约在元朝后期。  
 1. 【[中前午后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_qin_v_heu.md#中前午后)】`zhon1 qin2 v3 heu6` <sup>[兴化]</sup> 指中午前后：夏天～的比较热，人家歇歇再做。  
-1. 【[中𦪞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_qio.md#中𦪞)】`zhon1 qio6` <sup>[如东]</sup> 帆船的第11舱，小份头（船工）居住。  
+1. 【[中㢗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_qio.md#中㢗)】`zhon1 qio5` <sup>[如东]</sup> 帆船的第11舱，小份头（船工）居住。  
 1. 【[中人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_ren.md#中人)】`zhon1 ren2` <sup>[如东]</sup> 两者之间牵线介绍并出面担保的人，称中人：王伯达是～。  
 1. 【[中人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_ren.md#中人)】`zhon1 ren2` <sup>[东台]</sup> 为双方介绍买卖、调解纠纷等做见证的人。  
 1. 【[中山钟楼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_shaen_zhon_leu.md#中山钟楼)】`zhon1 shaen1 zhon1 leu2` <sup>[如皋]</sup> 1925年孙中山先生奉安时，由德国工程师主持建于如皋县政府钟鼓楼原址。四层，方柱形，顶上有大钟计时，有巨铜钟报时，声音响彻全城。当时作为全国第一大县才有幸建造。1995年旧城改造中被拆毁。  

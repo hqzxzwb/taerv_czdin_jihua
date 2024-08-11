@@ -1070,7 +1070,7 @@
 1. 【[上铺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_pv.md#上铺)】`shan6 pv5` <sup>[如皋]</sup> ① 动宾式：到床上去。 ② 偏正式：铺位在上层。与“下铺”相对。  
 1. 【[上埠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_pv.md#上埠)】`shan6 pv6` <sup>[如东]</sup> 渔船进入船埠，叫做上埠。  
 1. 【[上腔上调](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_qian_shan_tio.md#上腔上调)】`shan6 qian1 shan6 tio6` <sup>[泰兴]</sup> 合乎要求、规则。  
-1. 【[上𦪞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_qio.md#上𦪞)】`shan6 qio` <sup>[如东]</sup> 帆船的第12舱，老大居住的舱室。  
+1. 【[上㢗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_qio.md#上㢗)】`shan6 qio5` <sup>[如东]</sup> 帆船的第12舱，老大居住的舱室。  
 1. 【[上轿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_qio.md#上轿)】`shan6 qio6` <sup>[如东]</sup> 坐轿的人上轿。  
 1. 【[上轿穿耳刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_qio_chun_er.md#上轿穿耳刀)】`shan6 qio6 chun1 er3 do` <sup>[泰兴]</sup> 新娘上轿了，还没有化妆好。喻指办事准备工作很不充分，临上场时才手忙脚乱做准备。  
 1. 【[上人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_ren.md#上人)】`shan6 ren` <sup>\[泰兴\]\[东台\]\[如东\]</sup>父母、祖父母等直系前辈，或配偶的直系前辈。与“下人”相对：孝敬～<sup>\[泰兴\]</sup>  

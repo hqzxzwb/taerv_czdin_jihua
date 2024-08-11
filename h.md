@@ -112,7 +112,7 @@
 1. 【[下浪头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_lan_teu.md#下浪头)】`ha6 lan6 teu` <sup>[如东]</sup> 帆船的第2舱。存放杂物。  
 1. 【[下杩头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ma_teu.md#下杩头)】`ha6 ma3 teu` <sup>[如东]</sup> 门帮下部的横档。  
 1. 【[下清监](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_qien_jiaen.md#下清监)】`ha6 qien1 jiaen1` <sup>[东台]</sup> 同“下八监”。  
-1. 【[下𦪞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_qio.md#下𦪞)】`ha6 qio5` <sup>[如东]</sup> 帆船的第10舱，是伙舱，烧饭用。伙头居住。  
+1. 【[下㢗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_qio.md#下㢗)】`ha6 qio5` <sup>[如东]</sup> 帆船的第10舱，是伙舱，烧饭用。伙头居住。  
 1. 【[下身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_shen.md#下身)】`ha6 shen1` <sup>[如东]</sup> ① 身体的下部。 ② 阴部。  
 1. 【[下身脏吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_shen_zan_nga.md#下身脏吖)】`ha6 shen1 zan1 nga` <sup>[如东]</sup> 女子来月经了。  
 1. 【[下手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_sheu.md#下手)】`ha6 sheu3` <sup>[如东]</sup> ① 坐在自己右边的人：他坐啊我的～。 ② 帮手：他做我的～。  
@@ -1505,7 +1505,7 @@
 1. 【[花痴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_chr.md#花痴)】`hua1 chr1` <sup>[兴化]</sup> ① 因对某异性的相思而精神失常。 ② 指患有这种相思病的人。也称“花邪疯”。  
 1. 【[花痴呆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_chr_dae_zz.md#花痴呆子)】`hua1 chr1 dae1 zz` <sup>[如东]</sup> 因追求异性而神经失常的人。  
 1. 【[花船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_chun.md#花船)】`hua1 chun2` <sup>[东台]</sup> 一种三人说唱表演。用彩布蒙在竹篾丝扎的船上，一位女演员站在中间，船外左右各有一位男演员手持竹篙，撑“船”前行，边走边唱。  
-1. 【[花𡮦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_co.md#花𡮦)】`hua1 co1` <sup>[如皋]</sup> 色彩纷杂刺目而不淡雅。  
+1. 【[花□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_co.md#花□)】`hua1 co1` <sup>[如皋]</sup> 色彩纷杂刺目而不淡雅。  
 1. 【[花呆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_dae.md#花呆)】`hua1 dae1` <sup>[如皋]</sup> 见“花雀儿疯”。  
 1. 【[花搭的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_daeh_dii.md#花搭的)】`hua1 daeh7 dii` <sup>[如东]</sup> 在种植的花中还有不少其他花种。比喻不少：～人家种芝麻。  
 1. 【[花担](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_daen.md#花担)】`hua1 daen5` <sup>[东台]</sup> 群众文艺演唱形式，用彩布蒙在竹篾扎成的担子上，上面布满各色鲜花，由两位女演员各挑一副花担对唱表演。  

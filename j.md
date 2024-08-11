@@ -1075,7 +1075,7 @@
 1. 【[颈项](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_han.md#颈项)】`jien3 han` <sup>[泰县]</sup> 头颈。  
 1. 【[颈项脖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_han_peh_zz.md#颈项脖子)】`jien3 han peh8 zz` <sup>[兴化]</sup> 脖子：看飞机空中表演，倒把～仰痠吖。  
 1. 【[颈项](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_han.md#颈项)】`jien3 han6` <sup>[如东]</sup> 人的头与肩之间连接的部分组织。亦称脖子。  
-1. 【[劤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien.md#劤)】`jien5` <sup>[泰州]</sup> 多力，有力气。“劲”的本字：这小伙有～，挑这点ㄦ东西部买账。｜这一刻ㄦ身上没得～。  
+1. 【[劲/劤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien.md#劲/劤)】`jien5` <sup>[泰州]</sup> 力气。（劤【唐韻】【集韻】𠀤居焮切，斤去聲。【埤蒼】多力也。）：这小伙有～，挑这点ㄦ东西部买账。｜这一刻ㄦ身上没得～。  
 1. 【[劲蹦子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_bon_zz.md#劲蹦子)】`jien5 bon5 zz` <sup>[兴化]</sup> 形容人身体健壮，精力旺盛：这个～，一天到晚手脚不停，精神好得没魂！  
 1. 【[劲抖抖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_deu_deu.md#劲抖抖)】`jien5 deu3 deu3` <sup>[兴化]</sup> 情绪饱满，精力充沛有劲头的样子：有老人……背着包，提着袋，～地向县委跑来。（马春阳《“化肥主任”下乡来》）  
 1. 【[劲抖抖的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_deu_deu_dii.md#劲抖抖的)】`jien5 deu3 deu3 dii` <sup>[东台]</sup> 劲头十足的样子。  
