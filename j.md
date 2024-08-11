@@ -1020,11 +1020,10 @@
 1. 【[井砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zhun.md#井砖)】`jien3 zhun1` <sup>[如皋]</sup> 水井壁专用砖，横截面呈梯形。有的还有榫和榫眼，不易松动变形。  
 1. 【[井子舱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zz_can.md#井子舱)】`jien3 zz can1` <sup>[如东]</sup> 帆船的第4舱，是贮存淡水的舱室。也叫水井舱。  
 1. 【[侭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien.md#侭)】`jien3` <sup>[泰县]</sup> 繁体“儘”，随便，任凭：这些东西我～你来拣。  
+1. 【[侭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien.md#侭)】`jien3` <sup>[泰州]</sup> ① 任凭：家里酒有的是，～你喝。｜明吖反正是星期天，～睏。 ② 首先满足某人需求之后，再考虑其他人：你家妈妈每次烧菜都是～你俫先吃。  
 1. 【[侭吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_nga.md#侭吖)】`jien3 nga` <sup>[泰县]</sup> 老是，经常：你～跟吖我做甚的？  
 1. 【[侭旺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_van.md#侭旺)】`jien3 van5` <sup>[泰县]</sup> 正好：～开会的时候，停吖电。  
 1. 【[尽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien.md#尽)】`jien3` <sup>[东台]</sup> ① 让某些人或事物占先：廉租房要～特困户安排入住。 ② 尽量放开，不作任何限制：饭～吃｜汤～喝｜钱～用。  
-1. 【[尽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien.md#尽)】`jien3` <sup>[兴化]</sup> 叮嘱：再～他下子，免得到时忘掉。｜（九妈）又恐怕他一时高兴，日后没了本钱，心中懊悔，也要～他一句才好。（《醒世恒言》三）也作“紧”。  
-1. 【[尽/侭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien.md#尽/侭)】`jien3` <sup>[泰州]</sup> ① 任凭：家里酒有的是，～你喝。｜明吖反正是星期天，～睏。 ② 首先满足某人需求之后，再考虑其他人：你家妈妈每次烧菜都是～你俫先吃。  
 1. 【[尽饱揣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_bo_chuae.md#尽饱揣)】`jien3 bo3 chuae1` <sup>[兴化]</sup> 放开肚皮大吃：“……姑娘愿意跟着我，粘团粘糕～。”（兴文《三个女婿对对子》）  
 1. 【[尽草完粮事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_co_un_lian_shr.md#尽草完粮事)】`jien3 co3 un2 lian2 shr6` <sup>[兴化]</sup> （喻）根据条件办事：你来多少干面我蒸多少馒头，反正～。  
 1. 【[尽打不喝水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_da_beh_huh_xy.md#尽打不喝水)】`jien3 da3 beh7 huh7 xy3` <sup>[东台]</sup> 尽管满足，要多少有多少：今年烟酒多，大家放心，～。  
@@ -1039,6 +1038,7 @@
 1. 【[景子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zz.md#景子)】`jien3 zz` <sup>\[如东\]\[如皋\]\[兴化\]</sup>风景：拱极台～真不丑！<sup>\[兴化\]</sup>  
 1. 【[漌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien.md#漌)】`jien3` <sup>[兴化]</sup> 将生肉放入锅中用文火煮一下，去掉腥味：～肉。  
 1. 【[紧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien.md#紧)】`jien3` <sup>[如皋]</sup> ① 不宽裕：房子～、钱～。 ② 偏小：鞋子～，不好穿。  
+1. 【[紧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien.md#紧)】`jien3` <sup>[兴化]</sup> 叮嘱：再～他下子，免得到时忘掉。  
 1. 【[紧巴巴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_ba_ba_dii.md#紧巴巴的)】`jien3 ba1 ba1 dii` <sup>[东台]</sup> 指经济上不宽裕。  
 1. 【[紧剥剥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_bah_bah.md#紧剥剥)】`jien3 bah7 bah7` <sup>[如东]</sup> 箍得很紧：这件衣服穿吖身上～的。  
 1. 【[紧绷绷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_bon_bon.md#紧绷绷)】`jien3 bon1 bon1` <sup>[如东]</sup> ① 拉得很紧：绳子拉啊～的。 ② 捆扎得很紧：裤腰带～的。 ③ 心情紧张。  

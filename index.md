@@ -155,6 +155,7 @@
 [更多...](./g.md)
 ## H
 1. 【[……呼啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_a.md#……呼啊)】`hv1 a` <sup>[东台]</sup> （作补语）指到了极点：这莱难吃咖～｜这段路难跑啊～｜他的歌儿好听吖～  
+1. 【[哈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha.md#哈)】`ha1` <sup>[兴化]</sup> 油脂或含油过多的食品如猪油、咸肉等因日久变质，产生臭、辣味。  
 1. 【[哈巴郎当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ba_lan_dan.md#哈巴郎当)】`ha1 ba lan2 dan1` <sup>[兴化]</sup> 通通、全部：到超市一转，买啊几样东西，身上的钱～全用光吖。  
 1. 【[哈巴狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ba_geu.md#哈巴狗)】`ha1 ba1 geu3` <sup>[如东]</sup> ① 一种体型较小的家犬，经常跟随主人一起活动。 ② 比喻善于吹捧主人的人。  
 1. 【[哈不郎当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_beh_lan_dan.md#哈不郎当)】`ha1 beh7 lan2 dan1` <sup>[东台]</sup> 拢共，合在一起：这个月的收入～头两万块钱。  
@@ -174,7 +175,6 @@
 1. 【[虾<sub>儿</sub>埲灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_r_pon_zo.md#虾<sub>儿</sub>埲灶)】`ha1 r pon6 zo5` <sup>[兴化]</sup> 虾在热锅中活蹦乱跳。（喻）形容张惶无措的样子：他一遇事就像～，全乱吖套。  
 1. 【[虾<sub>儿</sub>钳䶠的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_r_qin_ngaen_dii.md#虾<sub>儿</sub>钳䶠的)】`ha1 r qin2 ngaen2 dii` <sup>[如皋]</sup> 轻度骚扰、取闹：他欢喜～，一刻儿就碰你下子。  
 1. 【[虾<sub>儿</sub>罾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_r_zen_zz.md#虾<sub>儿</sub>罾子)】`ha1 r zen1 zz` <sup>[如皋]</sup> 捕虾的小扳罾。方网边长约1米。  
-1. 【[虾<sub>儿</sub>眨眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_r_zhaeh_ngaen.md#虾<sub>儿</sub>眨眼)】`ha1 r zhaeh7 ngaen3` <sup>[兴化]</sup> 谓时间极为短促：他睡觉是～，一刻儿就醒。  
 [更多...](./h.md)
 ## I
 1. 【[依](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#依)】`i1` <sup>[如东]</sup> 靠：她～啊门框上。  

@@ -252,9 +252,9 @@
 1. 【[能巴巴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen_ba_ba_dii.md#能巴巴的)】`nen2 ba1 ba1 dii` <sup>[如皋]</sup> 贬指能幹的样子。  
 1. 【[能巴能巴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen_ba_nen_ba_dii.md#能巴能巴的)】`nen2 ba1 nen2 ba1 dii` <sup>[如皋]</sup> 见“能巴巴的”。  
 1. 【[能夹夹的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen_gaeh_gaeh_dii.md#能夹夹的)】`nen2 gaeh7 gaeh7 dii` <sup>[东台]</sup> 自以为是，好表现自己。  
+1. 【[能干豆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen_gun_teu_r.md#能干豆<sub>儿</sub>)】`nen2 gun teu6 r` <sup>[如皋]</sup> 见“能豆儿”。  
 1. 【[能干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen_gun.md#能干)】`nen2 gun1` <sup>[如东]</sup> 工作能力强：她是个～人。  
-1. 【[能干豆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen_gun_teu_r.md#能干豆<sub>儿</sub>)】`nen2 gun1 teu6 r` <sup>[如东]</sup> 自己充能的人：她是个～  
-1. 【[能幹豆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen_gun_teu_r.md#能幹豆<sub>儿</sub>)】`nen2 gun5 teu6 r` <sup>[如皋]</sup> 见“能豆儿”。  
+1. 【[能干豆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen_gun_teu_r.md#能干豆<sub>儿</sub>)】`nen2 gun5 teu6 r` <sup>[如东]</sup> 自己充能的人：她是个～  
 1. 【[能言快语](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen_in_kuae_y.md#能言快语)】`nen2 in2 kuae5 y3` <sup>[兴化]</sup> 形容能说会道：这个小伙～，没几天就跟大家混熟咖。  
 1. 【[能吖掝掉啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen_nga_hoh_tio_a.md#能吖掝掉啊)】`nen2 nga hoh7 tio a` <sup>[东台]</sup> 同“能吖㾭啊筋”。  
 1. 【[能吖㾭啊筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen_nga_jieu_a_jien.md#能吖㾭啊筋)】`nen2 nga jieu5 a jien1` <sup>[东台]</sup> 过分自信，擅作主张。（含贬义，如说小孩是昵称）  

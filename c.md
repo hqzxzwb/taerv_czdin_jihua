@@ -133,7 +133,7 @@
 1. 【[擦酥饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/caeh_sv_bien.md#擦酥饼)】`caeh7 sv1 bien3` <sup>[兴化]</sup> 一种加了油酥的烧饼。  
 1. 【[擦糖糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/caeh_tan_go.md#擦糖糕)】`caeh7 tan2 go1` <sup>[如皋]</sup> 在每块上加一点蔗糖蒸成的米粉糕。  
 1. 【[擦澡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/caeh_zo.md#擦澡)】`caeh7 zo3` <sup>[如东]</sup> 用湿毛巾在身上擦洗，不用水冲。也叫搌澡。  
-1. 【[礤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/caeh_zz.md#礤子)】`caeh7 zz` <sup>[如东]</sup> 厨具。金属制，长方形，有锐利的孔齿，可以刨萝卜等。  
+1. 【[擦子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/caeh_zz.md#擦子)】`caeh7 zz` <sup>[如东]</sup> 厨具。金属制，长方形，有锐利的孔齿，可以刨萝卜等。  
 1. 【[䱗鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/caen_y.md#䱗鱼)】`caen1 y2` <sup>[如东]</sup> 鲤科动物鲦鱼，也叫䱗鲦，体细长，侧扁，背部几成直线，腹部略凸。  
 1. 【[䱗鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/caen_y.md#䱗鱼)】`caen1 y2` <sup>[如皋]</sup> 鲦。  
 1. 【[䱗鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/caen_y.md#䱗鱼)】`caen1 y2` <sup>[兴化]</sup> 见“䱗子鱼”。  

@@ -1316,7 +1316,7 @@
 1. 【[一歇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_xih.md#一歇)】`ieh7 xih7` <sup>[泰兴]</sup> 一会儿：三只船厮并着划了～，早到那个水阁酒店前（《水浒传》第15回）｜等～，我同你同走  
 1. 【[一岁年纪一岁事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_xy_nin_ji.md#一岁年纪一岁事)】`ieh7 xy5 nin2 ji5 ieh7 xy5 shr6` <sup>[东台]</sup> 人长大了，阅历丰富了，才逐步成熟起来。  
 1. 【[一岁年纪一岁事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_xy_nin_ji.md#一岁年纪一岁事)】`ieh7 xy5 nin2 ji5 ieh7 xy5 shr6` <sup>[如皋]</sup> ① 赞年长知事多。 ② 叹年老力衰。  
-1. 【[一昝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_zaen_r.md#一昝<sub>儿</sub>)】`ieh7 zaen5 r` <sup>[如皋]</sup> 一会儿。  
+1. 【[一暂<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_zaen_r.md#一暂<sub>儿</sub>)】`ieh7 zaen5 r` <sup>[如皋]</sup> 一会儿。  
 1. 【[一奓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_zha.md#一奓)】`ieh7 zha1` <sup>[如东]</sup> 拇指与食指张开的长度：这根竹竿有几～？  
 1. 【[一拃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_zha.md#一拃)】`ieh7 zha3` <sup>[兴化]</sup> 量词，为大拇指和中指张开后两端之距：我的～正好20厘米。｜也作“一抹拃”。  
 1. 【[一眨眼的工夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_zhaeh_ngaen_dii.md#一眨眼的工夫)】`ieh7 zhaeh7 ngaen3 dii gon1 fv1` <sup>[如皋]</sup> 一瞬间。  

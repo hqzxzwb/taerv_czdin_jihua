@@ -2,6 +2,7 @@
 **[A](./a.md) | [B](./b.md) | [C](./c.md) | [D](./d.md) | [E](./e.md) | [F](./f.md) | [G](./g.md) | [H](./h.md) | [I](./i.md) | [J](./j.md) | [K](./k.md) | [L](./l.md) | [M](./m.md) | [N](./n.md) | [O](./o.md) | [P](./p.md) | [Q](./q.md) | [R](./r.md) | [S](./s.md) | [T](./t.md) | [U](./u.md) | [V](./v.md) | [X](./x.md) | [Y](./y.md) | [Z](./z.md)**  
 ## H
 1. 【[……呼啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_a.md#……呼啊)】`hv1 a` <sup>[东台]</sup> （作补语）指到了极点：这莱难吃咖～｜这段路难跑啊～｜他的歌儿好听吖～  
+1. 【[哈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha.md#哈)】`ha1` <sup>[兴化]</sup> 油脂或含油过多的食品如猪油、咸肉等因日久变质，产生臭、辣味。  
 1. 【[哈巴郎当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ba_lan_dan.md#哈巴郎当)】`ha1 ba lan2 dan1` <sup>[兴化]</sup> 通通、全部：到超市一转，买啊几样东西，身上的钱～全用光吖。  
 1. 【[哈巴狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ba_geu.md#哈巴狗)】`ha1 ba1 geu3` <sup>[如东]</sup> ① 一种体型较小的家犬，经常跟随主人一起活动。 ② 比喻善于吹捧主人的人。  
 1. 【[哈不郎当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_beh_lan_dan.md#哈不郎当)】`ha1 beh7 lan2 dan1` <sup>[东台]</sup> 拢共，合在一起：这个月的收入～头两万块钱。  
@@ -39,7 +40,6 @@
 1. 【[颬痒痒<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ian_ian_r.md#颬痒痒<sub>儿</sub>)】`ha1 ian3 ian3 r` <sup>[如东]</sup> 将手在身上搔痒，使人发笑。  
 1. 【[颬气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_qi.md#颬气)】`ha1 qi5` <sup>[如东]</sup> 口中缓慢向外呼气。  
 1. 【[颬气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_qi.md#颬气)】`ha1 qi5` <sup>[如皋]</sup> 张口呼气。  
-1. 【[𦤬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha.md#𦤬)】`ha1` <sup>[兴化]</sup> 油脂或含油过多的食品如猪油、咸肉等因日久变质，产生臭、辣味。《集韵·怪韵》火界切“～，𦤬𦤧臭也。”（韵母不合）  
 1. 【[𨉣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha.md#𨉣)】`ha1` <sup>[东台]</sup> 弯腰：～腰。  
 1. 【[𨉣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha.md#𨉣)】`ha1` <sup>[泰州]</sup> 身子微微前弯：人一老腰就～啊唻。｜你把腰～下来，不要捱他望见吖。  
 1. 【[𨉣𨉣腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ha_io.md#𨉣𨉣腰)】`ha1 ha1 io1` <sup>[泰县]</sup> 驼背。  
@@ -58,7 +58,6 @@
 1. 【[瘕尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_xy.md#瘕尿)】`ha2 xy1` <sup>[如东]</sup> ① 撒尿。 ② 比喻说不出好话来：他在下～。 ③ 傻瓜。  
 1. 【[瘕尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_xy.md#瘕尿)】`ha2 xy1` <sup>[东台]</sup> 呆，笨，反应迟钝。东台词典写“蛤虚”。因为癞蛤蟆在人们印象中形象呆笨、丑陋。  
 1. 【[蝦蟆痈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ma_ion.md#蝦蟆痈)】`ha2 ma ion5` <sup>[如东]</sup> 腮腺炎。  
-1. 【[蝦蟆乌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ma_v_r.md#蝦蟆乌<sub>儿</sub>)】`ha2 ma v1 r, xia2 ma v1 r` 蝌蚪  
 1. 【[蝦蟆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ma.md#蝦蟆)】`ha2 ma2` <sup>[如皋]</sup> 蟾蜍。  
 1. 【[蝦蟆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ma.md#蝦蟆)】`ha2 ma2` <sup>[东台]</sup> 蟾蜍，俗称癞宝。  
 1. 【[蝦蟆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ma.md#蝦蟆)】`ha2 ma2` <sup>[兴化]</sup> 蟾蜍的俗称。  
@@ -66,10 +65,8 @@
 1. 【[蝦蟆劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ma_jien.md#蝦蟆劲)】`ha2 ma2 jien5` <sup>[如东]</sup> 比喻还有些力气：他还真有点儿～哎！  
 1. 【[蝦蟆禁忌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ma_jien_qi.md#蝦蟆禁忌)】`ha2 ma2 jien5 qi6` <sup>[如东]</sup> 有些威严：他还有点儿～。  
 1. 【[蝦蟆酥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ma_sv.md#蝦蟆酥)】`ha2 ma2 sv1` <sup>[兴化]</sup> 一种脆饼。旧名“炕饼儿”。  
-1. 【[蝦蟆乌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ma_v_r.md#蝦蟆乌<sub>儿</sub>)】`ha2 ma2 v1 r` <sup>[如东]</sup> 蛙科动物泽蛙、黑斑蛙或金线蛙的幼体，通称蝌蚪。  
-1. 【[蝦蟆乌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ma_v_r.md#蝦蟆乌<sub>儿</sub>)】`ha2 ma2 v1 r` <sup>[如皋]</sup> 蝌蚪。  
-1. 【[蝦蟆乌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ma_v_r.md#蝦蟆乌<sub>儿</sub>)】`ha2 ma2 v1 r` <sup>[东台]</sup> 蝌蚪；也是腮腺炎的俗称。  
-1. 【[蝦蟆乌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ma_v_r.md#蝦蟆乌<sub>儿</sub>)】`ha2 ma2 v1 r` <sup>[兴化]</sup> 蝌蚪。  
+1. 【[蝦蟆乌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ma_v_r.md#蝦蟆乌<sub>儿</sub>)】`ha2 ma2 v1 r` ① <sup>\[如东\]\[如皋\]\[东台\]\[兴化\]</sup>蝌蚪。 ② <sup>\[东台\]</sup>腮腺炎  
+1. 【[蝦蟆乌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ma_v_r.md#蝦蟆乌<sub>儿</sub>)】`ha2 ma2 v1 r, xia2 ma2 v1 r, ha1 ma2 v1 r` 蝌蚪  
 1. 【[还](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha.md#还)】`ha2` <sup>[东台]</sup> ① “还hae2”的口语音。 ② 勉强过得去：菜～可以。 ③ 居然：他～真的来了。  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha.md#□)】`ha3` <sup>[泰兴]</sup> ① 给：～我；～他 ② 被动标记：～人打啊𠼱  
 1. 【[哈巴郎当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ba_lan_dan.md#哈巴郎当)】`ha3 ba lan2 dan1` <sup>[泰县]</sup> 总共：我～就这几角钱。  

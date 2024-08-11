@@ -473,8 +473,7 @@
 1. 【[𠵹头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_teu.md#𠵹头)】`gan1 teu2` <sup>[如皋]</sup> 乞丐领袖。  
 1. 【[𠵹头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_teu.md#𠵹头)】`gan1 teu2` <sup>[兴化]</sup> 旧指强告化的乞丐。兴化词典作“罡头”：～花子；硬～。  
 1. 【[𠵹头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_teu.md#𠵹头)】`gan1 teu2` <sup>[泰县]</sup> ① 讨饭人的首领。 ② 极穷的人：他是个～，惹不起。  
-1. 【[港](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan.md#港)】`gan3` <sup>[如东]</sup> 海滩上宽而长的水道：东凌～。  
-1. 【[港](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan.md#港)】`gan3` <sup>[如皋]</sup> ① 沿江河汊。变体有：～子、塌～：小李～ ② 通江大河：司马～、九圩～。 ③ 地名通名：秀水～、张黄～、十三里～（废港淤积成为镇市）  
+1. 【[港](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan.md#港)】`gan3` ① <sup>\[如东\]</sup>海滩上宽而长的水道：东凌～。<sup>\[如东\]</sup> ② <sup>\[如皋\]</sup>沿江河汊，变体有：～子、塌～：小李～<sup>\[如皋\]</sup> ③ <sup>\[如皋\]</sup>通江大河：司马～、九圩～。<sup>\[如皋\]</sup> ④ <sup>\[如皋\]</sup>地名通名：秀水～、张黄～、十三里～（废港淤积成为镇市）<sup>\[如皋\]</sup>  
 1. 【[港口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_keu.md#港口)】`gan3 keu3` <sup>[如东]</sup> 在河、海等的岸边设有码头，便于船只停泊、旅客上下和货物装卸的地方。  
 1. 【[港岸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_un.md#港岸)】`gan3 un6` <sup>[如东]</sup> 河边高出大田的畈田：～地势高，干燥，适合种番薯。  
 1. 【[港岸头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_un_teu_r.md#港岸头<sub>儿</sub>)】`gan3 un6 teu2 r` <sup>[如东]</sup> 港岸的两头。  
@@ -1277,7 +1276,7 @@
 1. 【[戈宝权](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_bo_qiun.md#戈宝权)】`gu1 bo3 qiun2` <sup>[东台]</sup> 东台人（1913-2000），我国当代著名的翻译家，外国文学研究专家。系戈公振的侄子。曾任驻苏联大使馆临时代办和文化参赞中科院外国文学研究员、学部委员。他翻译过五十多种外国文学作品，为中外文化交流作出了巨大贡献。  
 1. 【[戈公振](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_gon_zhen.md#戈公振)】`gu1 gon1 zhen5` <sup>[东台]</sup> 名绍发（1890-1935），号公振，东台人，著名记者，新闻学家和新闻史研究开拓者。先后参加《东台日报》、上海》《时报》《申报》工作。首创《图画时报，先后在国民、复旦等大学讲学。曾到苏联、欧美及日本考察，1935年创办《生活日报》，宣传抗日救国。  
 1. 【[戈公振故居](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_gon_zhen_gv_jy.md#戈公振故居)】`gu1 gon1 zhen5 gv5 jy1` <sup>[东台]</sup> 位于鼓楼路步行街北侧，清代建筑。门匾为周巍峙题写，南面照壁墻墙上刻有沈钧儒所书戈公振临终遗言及其跋文。  
-1. 【[戈湘岚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_xian_laen.md#戈湘岚)】`gu1 xian1 laen2` <sup>[东台]</sup> 名绍苓（1904-1964），东台安丰人。中国美术家协会上海分会会员，上海中国画院画师，尤以画马著称，与徐悲鸿齐名。曾任上海教育出版社副总编辑，《辞海》编辑。  
+1. 【[戈湘岚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_xian_lun.md#戈湘岚)】`gu1 xian1 lun2-laen2` <sup>[东台]</sup> 名绍苓（1904-1964），东台安丰人。中国美术家协会上海分会会员，上海中国画院画师，尤以画马著称，与徐悲鸿齐名。曾任上海教育出版社副总编辑，《辞海》编辑。  
 1. 【[过靶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_ba.md#过靶)】`gu1 ba3` <sup>[兴化]</sup> 过头：神气～；西瓜熟得～。  
 1. 【[过分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_fen.md#过分)】`gu1 fen` <sup>[如皋]</sup> 过分。  
 1. 【[过火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_hu.md#过火)】`gu1 hu3` <sup>[如皋]</sup> ① 超过了火候：肉煮啊～咾，开始融吖。 ② 喻过分，超过了限度：批评得当，不～。  
