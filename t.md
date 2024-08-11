@@ -783,7 +783,6 @@
 1. 【[豚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_zz.md#豚子)】`ten2 zz` <sup>[泰县]</sup> 雌性的仔猪。  
 1. 【[氽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten.md#氽)】`ten3` <sup>[如皋]</sup> ① 水骤涌：泉眼里的水只～。 ② 热气、浊气蒸腾：锅里热气～人子；漓尿宝儿一到，骚气味就～人子。  
 1. 【[氽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten.md#氽)】`ten3` <sup>[如东]</sup> ① 浮在水面上：木头氽吖水面上。 ② 水涌出来：大水～动。  
-1. 【[噋噋<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_ten_r.md#噋噋<sub>儿</sub>)】`ten5 ten5 r` <sup>[泰县]</sup> 慢慢地：你～走。  
 1. 【[褪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten.md#褪)】`ten5` 脱衣服，多指裤子。  
 1. 【[褪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten.md#褪)】`ten5` <sup>[如皋]</sup> ① 退避：大家一齐儿走，他总～吖后头。 ② 暗中选留：这张床是～吖把你的，别的床总捱人家订吖去啊。  
 1. 【[褪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten.md#褪)】`ten5` <sup>[如皋]</sup> 向下脱：～裤子。  
@@ -794,6 +793,7 @@
 1. 【[褪裤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_kv_zz.md#褪裤子)】`ten5 kv5 zz` <sup>[如皋]</sup> 脱裤子。  
 1. 【[褪裤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_kv_zz.md#褪裤子)】`ten5 kv5 zz` <sup>[东台]</sup> 脱裤子。  
 1. 【[褪裤子放屁——多此一举](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_kv_zz_fan_pi_du_cz_ieh_jy.md#褪裤子放屁——多此一举)】`ten5 kv5 zz fan5 pi5 du1 cz3 ieh7 jy3` <sup>[东台]</sup>   
+1. 【[褪褪<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_ten_r.md#褪褪<sub>儿</sub>)】`ten5 ten5 r` <sup>[泰县]</sup> 慢慢地：你～走。  
 1. 【[囤缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_gan.md#囤缸)】`ten6 gan1` <sup>[东台]</sup> 农家用的大粪坑。  
 1. 【[囤工夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_gon_fv.md#囤工夫)】`ten6 gon1 fv1` <sup>[东台]</sup> 专门安排时间：老人有病不能等有机会顺带去医院，要～送去看。  
 1. 【[囤盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_pun.md#囤盘)】`ten6 pun2` <sup>[如皋]</sup> 圆的木盘，做囤子的底脚。  

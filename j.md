@@ -291,7 +291,7 @@
 1. 【[假痴假呆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_chr_jia_dae.md#假痴假呆)】`jia3 chr1 jia3 dae1` <sup>[兴化]</sup> 故意装傻：老板，你不必～，你俫店里卖假货，你要负责任。  
 1. 【[假大佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_da_lo_r.md#假大佬<sub>儿</sub>)】`jia3 da5 lo3 r` <sup>[东台]</sup> 假充好汉，假充阔佬。  
 1. 【[假大老爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_da_lo_i.md#假大老爷)】`jia3 da5 lo3 i` <sup>[如皋]</sup> ① 假充有气派而内里空虚的角色。 ② 踩高跷中的一个丑角，反穿（皮毛）衣，倒𨃚鞋，拿尿壶喝茶。  
-1. 【[假的佯兮的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_dii_ian_xi_dii.md#假的佯兮的)】`jia3 dii ian2 xi1 dii` <sup>[东台]</sup> 同“假马若鬼”。  
+1. 【[假里佯兮的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_lii_ian_xi_dii.md#假里佯兮的)】`jia3 dii ian2 xi1 dii` <sup>[东台]</sup> 同“假马若鬼”。  
 1. 【[假到底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_do_di.md#假到底)】`jia3 do5 di3` <sup>[东台]</sup> 彻头彻尾都是假的。  
 1. 【[假而不泛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_er_beh_faen.md#假而不泛)】`jia3 er2 beh7 faen6` <sup>[如东]</sup> 外表斯文，其实非常卑鄙：这个人～的，不要相信。  
 1. 【[假而码哈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_er_ma_ha.md#假而码哈)】`jia3 er2 ma3 ha1` <sup>[如东]</sup> 假装；假借：～还是个名牌唻。  
@@ -301,8 +301,9 @@
 1. 【[假腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_io.md#假腰)】`jia3 io1` <sup>[兴化]</sup> ① 扭伤了腰。 ② （喻）担子太重，难以承担：送这份人情，你瞧不上眼，我倒假啊腰。  
 1. 【[假领子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_lien_zz.md#假领子)】`jia3 lien3 zz` <sup>[兴化]</sup> 外加在衣领内护脏的领子。  
 1. 【[假老式](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_lo_sheh.md#假老式)】`jia3 lo3 sheh7` <sup>[东台]</sup> 故作正派；自高自大。  
+1. 【[假马肏鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ma_reh_guei.md#假马肏鬼)】`jia3 ma reh8 guei3` <sup>[兴化]</sup> （讽）形容以假相骗人：（张妈妈）～装着有顾忌的样子，骨里偷空想心思……（《皮五辣子》一）  
 1. 【[假麻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ma_r.md#假麻<sub>儿</sub>)】`jia3 ma2 r` <sup>[泰县]</sup> 假装：不要～，没事就早点儿家去。  
-1. 【[假麻若鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ma_rah_guei.md#假麻若鬼)】`jia3 ma2 rah8 guei3` <sup>[泰县]</sup> 假装：不要～的。  
+1. 【[假麻肏鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ma_reh_guei.md#假麻肏鬼)】`jia3 ma2 reh8 guei3` <sup>[泰县]</sup> 假装：不要～的。  
 1. 【[假马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ma.md#假马)】`jia3 ma3` <sup>[兴化]</sup> 假装：包兴趴到外面站起来｜“大人有何吩咐？”～从外面进来……（扬一《天齐庙包公断太后》）  
 1. 【[假马佯𠺢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ma_ian_ga.md#假马佯𠺢)】`jia3 ma3 ian2 ga` <sup>[东台]</sup> 同“假马若鬼”。  
 1. 【[假马<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ma_r.md#假马<sub>儿</sub>)】`jia3 ma3 r` <sup>[如东]</sup> 假的，假装：他这吖表态，是～的。  
@@ -311,9 +312,8 @@
 1. 【[假马<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ma_r.md#假马<sub>儿</sub>)】`jia3 ma3 r` <sup>[东台]</sup> 假装：我～睡啊，哄你的呢！（台城多说“假马子”）  
 1. 【[假马<sub>儿</sub>入鬼的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ma_r_reh_guei_dii.md#假马<sub>儿</sub>入鬼的)】`jia3 ma3 r reh8 guei3 dii` <sup>[如皋]</sup> 伪装的，假情假意的。  
 1. 【[假马<sub>儿</sub>入鬼的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ma_r_reh_guei_dii.md#假马<sub>儿</sub>入鬼的)】`jia3 ma3 r reh8 guei3 dii` <sup>[如皋]</sup> 假装。  
-1. 【[假马若鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ma_rah_guei.md#假马若鬼)】`jia3 ma3 rah8 guei3` <sup>[东台]</sup> 装模作样哄人。  
 1. 【[假马入鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ma_reh_guei.md#假马入鬼)】`jia3 ma3 reh8 guei3` 装模作样，假正经  
-1. 【[假马肏鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ma_reh_guei.md#假马肏鬼)】`jia3 ma3 reh8 guei3` <sup>[兴化]</sup> （讽）形容以假相骗人：（张妈妈）～装着有顾忌的样子，骨里偷空想心思……（《皮五辣子》一）  
+1. 【[假马肏鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ma_reh_guei.md#假马肏鬼)】`jia3 ma3 reh8 guei3` <sup>[东台]</sup> 装模作样哄人。  
 1. 【[假米汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_mi_tan.md#假米汤)】`jia3 mi3 tan1` <sup>[东台]</sup> ［喻］表面客套；虚伪应付。  
 1. 【[假牙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_nga_zz.md#假牙子)】`jia3 nga3 zz` <sup>[如皋]</sup> 镶的牙齿。  
 1. 【[假内教](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ny_jio.md#假内教)】`jia3 ny6 jio5` <sup>[如皋]</sup> 冒充内行，或指人。  

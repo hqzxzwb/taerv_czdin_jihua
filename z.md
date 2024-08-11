@@ -1763,7 +1763,7 @@
 1. 【[鵽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuaeh.md#鵽)】`zhuaeh7` <sup>[兴化]</sup> 水鸟，小于鸽，《集韵·辖韵》张刮切“～，鸟名。《说文》～鸠”：秧～｜麻～｜春天，卖一种叫作～的野味——这是一种候鸟，长嘴长脚……（汪曾祺《异秉》）  
 1. 【[鵽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuaeh.md#鵽)】`zhuaeh7` <sup>[兴化]</sup> ① （喻）形容人体格瘦小：他瘦得像个～。 ② 差劲：～货｜东西太～，卖不起价钱。  
 1. 【[㔍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuaen.md#㔍)】`zhuaen1` <sup>[东台]</sup> 断：这小伙力气真大，硬把一根粗木棍～掉啊。  
-1. 【[跧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuaen.md#跧)】`zhuaen1` <sup>\[如皋\]\[兴化\]\[泰州\]\[东台\]</sup>弯下（腰、背等）：～腰｜你把腰稍微～一点儿下来。<sup>\[泰州\]</sup>｜东西忑咖地下，你就不能～吖来拾咖子。<sup>\[泰州\]</sup>｜把腰～下来。<sup>\[东台\]</sup>  
+1. 【[跧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuaen.md#跧)】`zhuaen1` <sup>\[如皋\]\[兴化\]\[泰州\]\[东台\]</sup>弯下（腰、背等）。【廣韻】【集韻】【韻會】𠀤莊緣切，音佺。【說文】蹴也。一曰𤰞也，絭也：～腰｜你把腰稍微～一点儿下来。<sup>\[泰州\]</sup>｜东西忑咖地下，你就不能～吖来拾咖子。<sup>\[泰州\]</sup>｜把腰～下来。<sup>\[东台\]</sup>  
 1. 【[赚头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuaen_teu.md#赚头)】`zhuaen5 teu2` <sup>[东台]</sup> 利润：这笔生意～不小。  
 1. 【[㧻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah.md#㧻)】`zhuah7` 用力往下放  
 1. 【[卓肩膀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_jin_ban.md#卓肩膀)】`zhuah7 jin1 ban3` <sup>[兴化]</sup> 因瘦削而两肩高耸：来人是个高个子，～，缩颈项。  

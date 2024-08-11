@@ -808,7 +808,7 @@
 1. 【[王法](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_faeh.md#王法)】`van2 faeh7` <sup>[如东]</sup> 原指封建王朝的法律。现指一般法律：不能没有～。  
 1. 【[王家竹窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ga_zhoh_ku.md#王家竹窠)】`van2 ga zhoh7 ku1` <sup>[如皋]</sup> 地名。在邓元鹿门东。  
 1. 【[王家潭堤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ga_tun_ti.md#王家潭堤)】`van2 ga1 tun2 ti2` <sup>[如东]</sup> 1973年11月14日至1974年1月8日，修筑王家潭堤。自掘苴河闸下游东侧港堤起，绕老海堤外滩面，接卫海提大弯头，全长6.6公里。顶高程75米顶宽8米。动用民力22万人。  
-1. 【[王艮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_gen.md#王艮)】`van2 gen3` <sup>[东台]</sup> （1483-1541），字汝止，号心斋，原名银，明代泰州安丰场、今安丰镇人。平民教育家、哲学家，中国早期启蒙思想家。出身灶籍，幼为盐丁，中年自学成才，拜王守仁为师，终身讲学不仕。创立“百姓日用即道”为核心的平民理论“大成之学”，也称“安丰之学”“淮南格物”。传有九传弟子1136人，学术界称为“泰州学派”，尊王艮为该学派创始人，著有《明儒王心斋先生遗集》四卷传世。  
+1. 【[王艮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_gen.md#王艮)】`van2 gen5` <sup>[东台]</sup> （1483-1541），字汝止，号心斋，原名银，明代泰州安丰场、今安丰镇人。平民教育家、哲学家，中国早期启蒙思想家。出身灶籍，幼为盐丁，中年自学成才，拜王守仁为师，终身讲学不仕。创立“百姓日用即道”为核心的平民理论“大成之学”，也称“安丰之学”“淮南格物”。传有九传弟子1136人，学术界称为“泰州学派”，尊王艮为该学派创始人，著有《明儒王心斋先生遗集》四卷传世。  
 1. 【[王六刚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_loh_gan.md#王六刚)】`van2 loh8 gan1` <sup>[兴化]</sup> 谓办事不牢靠者：这个小伙～，正事不能倚他。  
 1. 【[王翁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_on.md#王翁)】`van2 on1` <sup>[如皋]</sup> 见“苦鹱鸟儿”。  
 1. 【[王翁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_on.md#王翁)】`van2 on1` <sup>[如皋]</sup> 白胸秧鸡，俗名苦鹱鸟。  
