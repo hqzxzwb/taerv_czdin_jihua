@@ -1,10 +1,10 @@
-# 能幹豆儿
-nen2 gun5 teu6 r
+# 能干豆儿
+nen2 gun teu6 r
 > 如皋方言词典
 - 见“能豆儿”。
 
 # 能干豆儿
-nen2 gun1 teu6 r
+nen2 gun5 teu6 r
 > 如东方言词典
 - 自己充能的人。
   - 她是个～
