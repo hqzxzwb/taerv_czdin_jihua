@@ -1216,9 +1216,7 @@
 1. 【[澎/漰/泙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#澎/漰/泙)】`pon1` <sup>[东台]</sup> 溅：～了一身水。  
 1. 【[澎/漰/泙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#澎/漰/泙)】`pon1` <sup>[兴化]</sup> 给冷饭冷菜洒点水加热：拿水～下子，饭菜容易热。《兴化词典》作“烹”。  
 1. 【[澎/漰/泙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#澎/漰/泙)】`pon1` <sup>[泰州]</sup> ① 水丝飞扬：天上～毛毛雨唻。｜地下灰太多，扫的时候弄点ㄦ水～啊子。 ② 油在热锅中溅起的样子：锅里油～～的，快点ㄦ把菜放下去。｜当心油～吖身上。  
-1. 【[𢏳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#𢏳)】`pon1` <sup>[如东]</sup> 用弓弦使板结的棉花蓬松开来称𢏳。  
-1. 【[𢏳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#𢏳)】`pon1` <sup>[泰县]</sup> 弹棉花：今朝他家～棉花。  
-1. 【[𢏳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#𢏳)】`pon1` <sup>[泰州]</sup> 弹棉花：棉花是才～过啊的。  
+1. 【[𢏳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#𢏳)】`pon1` <sup>\[如东\]\[泰县\]\[泰州\]</sup>弹（棉花），用弓弦使板结的棉花蓬松开来：今朝他家～棉花。<sup>\[泰县\]</sup>｜棉花是才～过啊的。<sup>\[泰州\]</sup>  
 1. 【[𢏳花槌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_hua_chuei_r.md#𢏳花槌<sub>儿</sub>)】`pon1 hua1 chuei2 r` <sup>[如皋]</sup> 用以弹击花弦子的木槌，像手榴弹。  
 1. 【[𢏳花槌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_hua_chuei_r.md#𢏳花槌<sub>儿</sub>)】`pon1 hua1 chuei2 r` <sup>[如东]</sup> 木制，条形，一头四方，一面有凸起，用以敲击𢏳花弦子。  
 1. 【[𢏳花弓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_hua_gon.md#𢏳花弓)】`pon1 hua1 gon1` <sup>[如皋]</sup> 手工弹棉花的弓形工具。弓长约130cm，上有弦。  
@@ -1300,10 +1298,10 @@
 1. 【[䳞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#䳞)】`pon6` <sup>[如皋]</sup> 张扬貌。词典原释“大笑”：笑啊～起来呀。  
 1. 【[䳞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#䳞)】`pon6` <sup>[东台]</sup> ① 小鸟学飞：小鸟才出窠，一～一～的。 ② 乱飞的样子：鸡子看见黄鼠狼吓得直～。  
 1. 【[䳞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#䳞)】`pon6` <sup>[兴化]</sup> ① 禽惊飞：鸡子～上屋咖。 ② （引）张扬、逞强：这个丫头能吖～起来啊。｜跩啊～起来｜劲吖～起来  
-1. 【[䳞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#䳞)】`pon6` <sup>[泰县]</sup> ① 张扬：他吵啊～掉啊。 ② 乱飞：麻雀子～掉啊啦。  
+1. 【[䳞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#䳞)】`pon6` <sup>[泰县]</sup> ① 张扬：他召啊～掉啊。 ② 乱飞：麻雀子～掉啊啦。  
 1. 【[䳞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#䳞)】`pon6` <sup>[泰州]</sup> 鸟类受惊乱飞的样子。  
 1. 【[䳞䳞腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_pon_tuei.md#䳞䳞腿)】`pon6 pon6 tuei3` <sup>[兴化]</sup> 罗圈腿的俗称。  
-1. 【[埲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#埲)】`pon6` 尘土飞扬  
+1. 【[埲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#埲)】`pon6` （尘土）飞扬  
 1. 【[埲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#埲)】`pon6` <sup>[东台]</sup> 灰尘飞扬：塘灰只～。  
 1. 【[埲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#埲)】`pon6` <sup>[兴化]</sup> ① 尘土飞扬：堂灰～～的。 ② 烟尘滚滚：他在家里生炉子，弄得块块烟～烟的。《广韵·董韵》蒲蠓切“～，塕埲尘起”。  
 1. 【[埲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#埲)】`pon6` <sup>[泰县]</sup> 尘士飞扬：到处灰～～的  

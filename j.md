@@ -257,7 +257,7 @@
 1. 【[家录](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_loh.md#家录)】`jia1 loh8` <sup>[如东]</sup> ① 家法。 ② 受责罚：要吃～。  
 1. 【[家艾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ngae.md#家艾)】`jia1 ngae6` <sup>[如东]</sup> 艾的一种，叶片较大，有香气。  
 1. 【[家破人亡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_pu_ren_van.md#家破人亡)】`jia1 pu5 ren2 van2` <sup>[如东]</sup> 家庭破产，人员死亡，形容非常悲惨。  
-1. 【[家藏柜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_san_kuei.md#家藏柜)】`jia1 san1 kuei6` <sup>[泰县]</sup> 放在堂屋正中供神用的柜子。  
+1. 【[家上柜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_shan_kuei.md#家上柜)】`jia1 shan1 kuei6` <sup>[泰县]</sup> 放在堂屋正中供神用的柜子。  
 1. 【[家神柜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_shen_kuei.md#家神柜)】`jia1 shen2 kuei6` <sup>[东台]</sup> 放在堂屋正中、上面敬神里面藏物的柜子。（也作家什柜）  
 1. 【[家神柜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_shen_kuei.md#家神柜)】`jia1 shen2 kuei6` <sup>[兴化]</sup> 旧时，在堂屋里靠后墙供奉神祇和祖先牌位的柜子，有三抽（三个头）或三张共七抽（七个头），抽展下有放置餐具等的柜子：（她）不敢面对～上的那个亡人牌子，因为那个牌子总像虫子一样噬咬着她的神经。（线国怀《李寡妇的故事》）  
 1. 【[家属](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_shoh.md#家属)】`jia1 shoh` <sup>[东台]</sup> 除本人以外的家庭成员，本地人往往特指配偶。  
@@ -291,7 +291,6 @@
 1. 【[假痴假呆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_chr_jia_dae.md#假痴假呆)】`jia3 chr1 jia3 dae1` <sup>[兴化]</sup> 故意装傻：老板，你不必～，你俫店里卖假货，你要负责任。  
 1. 【[假大佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_da_lo_r.md#假大佬<sub>儿</sub>)】`jia3 da5 lo3 r` <sup>[东台]</sup> 假充好汉，假充阔佬。  
 1. 【[假大老爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_da_lo_i.md#假大老爷)】`jia3 da5 lo3 i` <sup>[如皋]</sup> ① 假充有气派而内里空虚的角色。 ② 踩高跷中的一个丑角，反穿（皮毛）衣，倒𨃚鞋，拿尿壶喝茶。  
-1. 【[假里佯兮的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_lii_ian_xi_dii.md#假里佯兮的)】`jia3 dii ian2 xi1 dii` <sup>[东台]</sup> 同“假马若鬼”。  
 1. 【[假到底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_do_di.md#假到底)】`jia3 do5 di3` <sup>[东台]</sup> 彻头彻尾都是假的。  
 1. 【[假而不泛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_er_beh_faen.md#假而不泛)】`jia3 er2 beh7 faen6` <sup>[如东]</sup> 外表斯文，其实非常卑鄙：这个人～的，不要相信。  
 1. 【[假而码哈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_er_ma_ha.md#假而码哈)】`jia3 er2 ma3 ha1` <sup>[如东]</sup> 假装；假借：～还是个名牌唻。  
@@ -300,6 +299,7 @@
 1. 【[假话的？](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_hua_dii.md#假话的？)】`jia3 hua6 dii` <sup>[东台]</sup> 表示同意对方说法，相当于“对！难道是假话吗？”  
 1. 【[假腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_io.md#假腰)】`jia3 io1` <sup>[兴化]</sup> ① 扭伤了腰。 ② （喻）担子太重，难以承担：送这份人情，你瞧不上眼，我倒假啊腰。  
 1. 【[假领子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_lien_zz.md#假领子)】`jia3 lien3 zz` <sup>[兴化]</sup> 外加在衣领内护脏的领子。  
+1. 【[假里佯兮的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_lii_ian_xi_dii.md#假里佯兮的)】`jia3 lii ian2 xi1 dii` <sup>[东台]</sup> 同“假马若鬼”。  
 1. 【[假老式](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_lo_sheh.md#假老式)】`jia3 lo3 sheh7` <sup>[东台]</sup> 故作正派；自高自大。  
 1. 【[假马肏鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ma_reh_guei.md#假马肏鬼)】`jia3 ma reh8 guei3` <sup>[兴化]</sup> （讽）形容以假相骗人：（张妈妈）～装着有顾忌的样子，骨里偷空想心思……（《皮五辣子》一）  
 1. 【[假麻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ma_r.md#假麻<sub>儿</sub>)】`jia3 ma2 r` <sup>[泰县]</sup> 假装：不要～，没事就早点儿家去。  
@@ -308,7 +308,6 @@
 1. 【[假马佯𠺢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ma_ian_ga.md#假马佯𠺢)】`jia3 ma3 ian2 ga` <sup>[东台]</sup> 同“假马若鬼”。  
 1. 【[假马<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ma_r.md#假马<sub>儿</sub>)】`jia3 ma3 r` <sup>[如东]</sup> 假的，假装：他这吖表态，是～的。  
 1. 【[假马<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ma_r.md#假马<sub>儿</sub>)】`jia3 ma3 r` <sup>[如皋]</sup> 伪装的、假情假意的。  
-1. 【[假马<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ma_r.md#假马<sub>儿</sub>)】`jia3 ma3 r` <sup>[如皋]</sup> 假装。  
 1. 【[假马<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ma_r.md#假马<sub>儿</sub>)】`jia3 ma3 r` <sup>[东台]</sup> 假装：我～睡啊，哄你的呢！（台城多说“假马子”）  
 1. 【[假马<sub>儿</sub>入鬼的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ma_r_reh_guei_dii.md#假马<sub>儿</sub>入鬼的)】`jia3 ma3 r reh8 guei3 dii` <sup>[如皋]</sup> 伪装的，假情假意的。  
 1. 【[假马<sub>儿</sub>入鬼的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ma_r_reh_guei_dii.md#假马<sub>儿</sub>入鬼的)】`jia3 ma3 r reh8 guei3 dii` <sup>[如皋]</sup> 假装。  
@@ -1799,11 +1798,11 @@
 1. 【[居乡人家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_xian_ren_ga.md#居乡人家)】`jy1 xian1 ren2 ga` <sup>[如皋]</sup> 住在乡村中的人家。与街上人家相对。  
 1. 【[居心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_xien.md#居心)】`jy1 xien1` <sup>[如皋]</sup> 打算、想：他家有事，我～去帮忙的，又捱岔掉啊。  
 1. 【[居先](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_xin.md#居先)】`jy1 xin1` <sup>[如皋]</sup> 时空位置相对在前。  
-1. 【[拘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy.md#拘)】`jy1` <sup>[兴化]</sup> ① 穿在牛鼻中膈下的小木棒或铁环，用来套牛绳。《尔雅·释器》，“桊，枸也。”王念孙疏证，“枸，犹拘也，今人言牛拘是也……”“桊”音jiun1（绢）。 ② 旧俗，在小孩鼻中带的金属小环。意为拘住孩子不让“走”（死）了。 ③ 又称“鼻～”。  
+1. 【[拘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy.md#拘)】`jy1` <sup>[如皋]</sup> 恭谨，转为敬请和礼让：～座、～行、～酒、～菜。  
+1. 【[拘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy.md#拘)】`jy1` <sup>[兴化]</sup> ① 穿在牛鼻中膈下的小木棒或铁环，用来套牛绳。 ② 旧俗，在小孩鼻中带的金属小环。意为拘住孩子不让“走”（死）了。又称“鼻～”。  
+1. 【[拘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy.md#拘)】`jy1` <sup>[泰州]</sup> 人一时迷糊发怔的样子（*跔）：他捱领导凶吖发咖～，差点儿捱门槛𢴬个大跟头。｜他这阵子怕的是～啊唻，一盘稳赢的棋竟然弄吖输掉啊。  
 1. 【[拘礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_li.md#拘礼)】`jy1 li3` <sup>[东台]</sup> 客气、谦让；拘泥于礼节：都是家里人，你不要～！  
-1. 【[跔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy.md#跔)】`jy1` <sup>[泰州]</sup> 人一时迷糊发怔的样子：他捱领导凶吖发咖～，差点儿捱门槛𢴬个大跟头。｜他这阵子怕的是～啊唻，一盘稳赢的棋竟然弄吖输掉啊。  
 1. 【[车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy.md#车)】`jy1` <sup>[东台]</sup> 象棋中的棋子：丢卒保～。  
-1. 【[𢤫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy.md#𢤫)】`jy1` <sup>[如皋]</sup> 恭谨，转为敬请和礼让：～座、～行、～酒、～菜。  
 1. 【[举的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_dii.md#举的)】`jy3 dii` 全部  
 1. 【[举烟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_in.md#举烟)】`jy3 in1` <sup>[如东]</sup> 递烟给客人或朋友。  
 1. 【[举酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_jieu.md#举酒)】`jy3 jieu3` <sup>[如东]</sup> 端起酒杯请人喝酒。  
