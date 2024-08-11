@@ -1109,7 +1109,7 @@
 1. 【[一屁股债](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_pi_gu_zhae.md#一屁股债)】`ieh7 pi5 gu zhae5` <sup>[东台]</sup> 形容债务多。  
 1. 【[一鼻子灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_pieh_zz_huei.md#一鼻子灰)】`ieh7 pieh8 zz huei1` <sup>[兴化]</sup> 碰壁、难堪：他为外甥去说情，满以为小事一桩，不想碰吖～。｜赵姨娘来时，兴兴头头，谁知抹了～，满心生气，又不敢露出来。（《红楼梦》六七）  
 1. 【[一鼻子灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_pieh_zz_huei.md#一鼻子灰)】`ieh7 pieh8 zz huei1` <sup>[泰兴]</sup> 非常难堪，很不顺心。  
-1. 【[一䏒猪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_pin_zhv_zz.md#一䏒猪子)】`ieh7 pin5 zhv1 zz` <sup>[如皋]</sup> 开片后的半只猪体。  
+1. 【[一片猪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_pin_zhv_zz.md#一片猪子)】`ieh7 pin5 zhv1 zz` <sup>[如皋]</sup> 开片后的半只猪体。  
 1. 【[一泡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_po.md#一泡)】`ieh7 po5` <sup>[东台]</sup> ① 原指泡一壶酒的原料量，后来作为称秤计数的量词。 ② 一顿：经他～说，大家思想才通吖。  
 1. 【[一泡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_po.md#一泡)】`ieh7 po5` <sup>[兴化]</sup> ① 量词。一次，大批量货物过秤时，按容器（如笆斗、筐等）每称一次为～。 ② 一顿、一气：～打｜～骂｜～哭｜见面之后，无非先拿人家～臭恭维……（《官场现形记》四四）  
 1. 【[一泡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_po.md#一泡)】`ieh7 po5` <sup>[泰县]</sup> 一场：一阵：屙啊～屎。  

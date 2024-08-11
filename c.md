@@ -334,7 +334,7 @@
 1. 【[车闷水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_men_shuei.md#车闷水)】`cha1 men1 shuei3` <sup>[如东]</sup> 车水比赛的一种方法。在米斗中立一炷香，底部连着爆竹。以车完“一范水”未爆炸为胜。  
 1. 【[车闷水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_men_shuei.md#车闷水)】`cha1 men6 shuei3` <sup>[如皋]</sup> 踏水竞赛一法：在米斗中立一炷香，底部接爆竹。以踏完“一期水”而未爆为胜。这种竞赛多在天干而抢水时采用。  
 1. 【[车攮管<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_nan_gun_r.md#车攮管<sub>儿</sub>)】`cha1 nan2 gun3 r` <sup>[如皋]</sup> 小车儿上前后通长的一对把手。  
-1. 【[车襻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_pin_zz.md#车襻子)】`cha1 pin1 zz` <sup>[如皋]</sup> 推小车必备的“软扁担”。其两端套于车把子后端，中段骑绕在推车人的肩、预上。推车时借腰、肩力以减臂力。其制法是五根苎麻绳作经，用布条加捻度“翘一”纡织，一似打草鞋。长约一庹（160-170cm）。  
+1. 【[车缏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_pin_zz.md#车缏子)】`cha1 pin6 zz` <sup>[如皋]</sup> 推小车必备的“软扁担”。其两端套于车把子后端，中段骑绕在推车人的肩、预上。推车时借腰、肩力以减臂力。其制法是五根苎麻绳作经，用布条加捻度“翘一”纡织，一似打草鞋。长约一庹（160-170cm）。  
 1. 【[车篷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_pon.md#车篷)】`cha1 pon` <sup>[如皋]</sup> 河边装辋子的篷屋。  
 1. 【[车棚旱轴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_pon_hun_choh.md#车棚旱轴)】`cha1 pon2 hun6 choh8` <sup>[如东]</sup> 车棚中央的竖轴。上端称天轴，下端称地轴。支撑辋子。  
 1. 【[车棚跨轴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_pon_kua_choh.md#车棚跨轴)】`cha1 pon2 kua5 choh8` <sup>[如东]</sup> 与辋子匹配的横轴。水牛牵动辋子时，每圈都从此轴盖板上跨过，故名。跨轴上安装齿轮，辋子旋转，带动车练旋转，从而戽水。  

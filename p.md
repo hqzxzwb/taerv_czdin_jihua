@@ -832,10 +832,8 @@
 1. 【[偏手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pin_sheu.md#偏手)】`pin1 sheu3` <sup>[兴化]</sup> 瞒着同伙得额外好处：他接洽的工程，赚吖一万多块～。  
 1. 【[编比子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pin_bi_zz.md#编比子)】`pin1 bi3 zz` <sup>[泰县]</sup> 就好比说：～，他家的伢儿有床子这们高。  
 1. 【[𠷨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pin.md#𠷨)】`pin1` <sup>[泰县]</sup> 吃：饭哿曾吃唃？～过啊啦。  
-1. 【[䏒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pin.md#䏒)】`pin5` <sup>[如皋]</sup> 半体。作量词：一～猪子。  
-1. 【[䏒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pin.md#䏒)】`pin5` <sup>[兴化]</sup> 牲畜腔体的一半：一～猪肉。  
-1. 【[片](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pin.md#片)】`pin5` <sup>[如皋]</sup> 见“𠜱”  
-1. 【[片](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pin.md#片)】`pin5` <sup>[如皋]</sup> 刀法，接近水平地向内斜切薄片。～肉、～鱼。向外为剽。  
+1. 【[片](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pin.md#片)】`pin5` <sup>[如皋]</sup> ① 刀法，接近水平地向内斜切薄片。～肉、～鱼。向外为剽。参见“𠜱”。 ② 半体。作量词（*䏒）：一～猪子。  
+1. 【[片](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pin.md#片)】`pin5` <sup>[兴化]</sup> 牲畜腔体的一半（*䏒）：一～猪肉。  
 1. 【[片粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pin_fen.md#片粉)】`pin5 fen3` <sup>[如皋]</sup> 将砣粉浆倒入容器加热凝成的胶状薄圆粉片。  
 1. 【[片粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pin_fen.md#片粉)】`pin5 fen3` <sup>[如东]</sup> 食品。粉坨子加工成片状，有圆形的，也有条形的。  
 1. 【[片<sub>儿</sub>汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pin_r_tan.md#片<sub>儿</sub>汤)】`pin5 r tan1` <sup>[东台]</sup> 一种面食，把面和好擀成饼状，削成薄片，煮熟后加多种配料，连汤吃。  
