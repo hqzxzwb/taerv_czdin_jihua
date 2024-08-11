@@ -459,10 +459,7 @@
 1. 【[钢丝车<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_sz_cha_r.md#钢丝车<sub>儿</sub>)】`gan1 sz1 cha1 r` <sup>[泰县]</sup> 自行车。  
 1. 【[钢丝车子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_sz_cha_zz.md#钢丝车子)】`gan1 sz1 cha1 zz` <sup>[兴化]</sup> 自行车。  
 1. 【[钢种锅<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_zhon_gu_r.md#钢种锅<sub>儿</sub>)】`gan1 zhon gu1 r, gan1 zen gu1 r` 平底圆锅  
-1. 【[𠵹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan.md#𠵹)】`gan1` <sup>[如皋]</sup> 吵闹：他家“三天一召，两天一～”，不是过日子的。  
-1. 【[𠵹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan.md#𠵹)】`gan1` <sup>[兴化]</sup> 争吵：他家两口子性格不合，平常不是～，就是打。  
-1. 【[𠵹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan.md#𠵹)】`gan1` <sup>[泰县]</sup> 吵；吵架：我不跟你～。｜交我～了两句，走出来。（金瓶梅·52回）｜两个人整天～得没得命。  
-1. 【[𠵹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan.md#𠵹)】`gan1` <sup>[泰州]</sup> 大声争吵：两个人～吖半天，没得人劝得下来。｜你俫成天～～吵吵的，像个甚的样子？  
+1. 【[𠵹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan.md#𠵹)】`gan1` <sup>\[如皋\]\[兴化\]\[泰县\]\[泰州\]</sup>[争吵](https://dict.variants.moe.edu.tw/dictView.jsp?ID=80723&la=0)：他家“三天一召，两天一～”，不是过日子的。<sup>\[如皋\]</sup>｜他家两口子性格不合，平常不是～，就是打。<sup>\[兴化\]</sup>｜我不跟你～。<sup>\[泰县\]</sup>｜交我～了两句，走出来。（金瓶梅·52回）<sup>\[泰县\]</sup>｜两个人整天～得没得命。<sup>\[泰县\]</sup>｜两个人～吖半天，没得人劝得下来。<sup>\[泰州\]</sup>｜你俫成天～～吵吵的，像个甚的样子？<sup>\[泰州\]</sup>  
 1. 【[𠵹吵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_cho.md#𠵹吵)】`gan1 cho3` <sup>[兴化]</sup> 激烈争吵：老太婆天天缠着老头子……。（兴文《人心不足蛇吞象》）  
 1. 【[𠵹𠵹吵吵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_gan_cho_cho.md#𠵹𠵹吵吵)】`gan1 gan1 cho3 cho3` <sup>[兴化]</sup> “𠵹吵”的生动形式。  
 1. 【[𠵹腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_qian.md#𠵹腔)】`gan1 qian1` <sup>[如皋]</sup> 说话的音量、气息、共鸣作用：他虽然年纪大，但是中气足，说起话来～好。  

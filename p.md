@@ -1216,7 +1216,7 @@
 1. 【[澎/漰/泙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#澎/漰/泙)】`pon1` <sup>[东台]</sup> 溅：～了一身水。  
 1. 【[澎/漰/泙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#澎/漰/泙)】`pon1` <sup>[兴化]</sup> 给冷饭冷菜洒点水加热：拿水～下子，饭菜容易热。《兴化词典》作“烹”。  
 1. 【[澎/漰/泙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#澎/漰/泙)】`pon1` <sup>[泰州]</sup> ① 水丝飞扬：天上～毛毛雨唻。｜地下灰太多，扫的时候弄点ㄦ水～啊子。 ② 油在热锅中溅起的样子：锅里油～～的，快点ㄦ把菜放下去。｜当心油～吖身上。  
-1. 【[𢏳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#𢏳)】`pon1` <sup>\[如东\]\[泰县\]\[泰州\]</sup>弹（棉花），用弓弦使板结的棉花蓬松开来：今朝他家～棉花。<sup>\[泰县\]</sup>｜棉花是才～过啊的。<sup>\[泰州\]</sup>  
+1. 【[𢏳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#𢏳)】`pon1` <sup>\[如东\]\[泰县\]\[泰州\]</sup>弹（棉花），用弓弦使板结的棉花蓬松开来。【集韻】披耕切，音怦。張絃也：今朝他家～棉花。<sup>\[泰县\]</sup>｜棉花是才～过啊的。<sup>\[泰州\]</sup>  
 1. 【[𢏳花槌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_hua_chuei_r.md#𢏳花槌<sub>儿</sub>)】`pon1 hua1 chuei2 r` <sup>[如皋]</sup> 用以弹击花弦子的木槌，像手榴弹。  
 1. 【[𢏳花槌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_hua_chuei_r.md#𢏳花槌<sub>儿</sub>)】`pon1 hua1 chuei2 r` <sup>[如东]</sup> 木制，条形，一头四方，一面有凸起，用以敲击𢏳花弦子。  
 1. 【[𢏳花弓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_hua_gon.md#𢏳花弓)】`pon1 hua1 gon1` <sup>[如皋]</sup> 手工弹棉花的弓形工具。弓长约130cm，上有弦。  
