@@ -702,6 +702,7 @@
 1. 【[即日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_rih.md#即日)】`jieh7 rih8` <sup>[如东]</sup> 当日。  
 1. 【[吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh.md#吃)】`jieh7` <sup>[泰州]</sup> 结巴，口吃：说话有点ㄦ～。  
 1. 【[吃巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_ba.md#吃巴)】`jieh7 ba1` <sup>[如东]</sup> 说话不利落。也叫口吃。注：吃巴，普通话写作“结巴”。这里的“吃”不是“吃饭”的“喫”。  
+1. 【[吃愣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_len.md#吃愣)】`jieh7 len6` <sup>[如皋]</sup> 结巴，口吃。  
 1. 【[吉房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_fan.md#吉房)】`jieh7 fan2` <sup>[兴化]</sup> 空房，召租时的招徕用语：～召租。  
 1. 【[吉鹂<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_li_r.md#吉鹂<sub>儿</sub>)】`jieh7 li2 r` <sup>[如东]</sup> 云雀．又名钻天。羽毛赤褐色，有黑色斑纹，嘴小而尖，翅膀大，飞得高，常在空中鸣叫，声音婉转好听。  
 1. 【[吉利](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_li.md#吉利)】`jieh7 li6` <sup>[如东]</sup> 吉祥顺利：图个～。  
@@ -826,7 +827,6 @@
 1. 【[鲫鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_y.md#鲫鱼)】`jieh7 y2` <sup>[如东]</sup> 鲤科动物鲫鱼，也称河鱼、鲫口儿。  
 1. 【[鲫鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_y.md#鲫鱼)】`jieh7-jieu5 y2` <sup>[东台]</sup> 中国四大淡水鱼之一：青、白、鲤、～。东台～资源丰富，传统面点“白汤面”，就是用野生～熬汤制作而成。  
 1. 【[鲫鱼荷包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_y_hu_bo.md#鲫鱼荷包)】`jieh7-jieu5 y2 hu2 bo1` <sup>[东台]</sup> 将鲫鱼剖开，腹中包裹猪肉糜红煮而成的菜肴。  
-1. 【[𧩦愣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_len.md#𧩦愣)】`jieh7 len6` <sup>[如皋]</sup> 结巴，口吃。  
 1. 【[□头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_teu.md#□头)】`jien1 teu2` <sup>[如皋]</sup> 奶水突然喷涌。如皋词典写“痉头”。  
 1. 【[京江䭣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gan_qi.md#京江䭣)】`jien1 gan1 qi2` <sup>[东台]</sup> 一种用面制成的熟食品，有甜、咸两种口味。因原产地在镇江，故名～。  
 1. 【[京江䭣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gan_qi.md#京江䭣)】`jien1 gan1 qi2` <sup>[泰县]</sup> 一种面粉制的六角形茶食。  

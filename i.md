@@ -2163,7 +2163,6 @@
 1. 【[吆样看](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_ian_kun.md#吆样看)】`io1 ian6 kun5` <sup>[东台]</sup> 不具体落实，只是做做样子给人看。  
 1. 【[吆窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_ku.md#吆窠)】`io1 ku1` <sup>[如皋]</sup> 给发情的牲畜配种。  
 1. 【[吆窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_ku.md#吆窠)】`io1 ku1` <sup>[如东]</sup> 驱赶牲畜出去交配。  
-1. 【[吆来喝去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_lae_huh_qy.md#吆来喝去)】`io1 lae2 huh7 qy5` <sup>[如皋]</sup> 见“哹来喝去”。  
 1. 【[吆来喝去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_lae_huh_qy.md#吆来喝去)】`io1 lae2 huh7 qy5` <sup>[如皋]</sup> 粗暴叫喊使唤的样子。  
 1. 【[吆三喝四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_saen_huh_sz.md#吆三喝四)】`io1 saen1 huh7 sz5` <sup>[如东]</sup> 借机耍威风。  
 1. 【[吆水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_shuei.md#吆水)】`io1 shuei3` <sup>[如皋]</sup> 驱牛拉辋子戽水。  

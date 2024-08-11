@@ -1526,7 +1526,7 @@
 1. 【[当人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_ren.md#当人)】`dan5 ren2` <sup>[兴化]</sup> 被信任、被瞧得起：这个人偷吃扒拿的，人家不把他～。｜“……（我）拿他～，托他办事，不料他竞其如此靠不住……”（《官场现形记》三六）  
 1. 【[当人物头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_ren_veh_teu_zz.md#当人物头子)】`dan5 ren2 veh8 teu2 zz` <sup>[如皋]</sup> 人才、人物、榜样：他才来时，我拿他～的，哪晓得是个混帐东西。  
 1. 【[当日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_rih.md#当日)】`dan5 rih8` <sup>[如东]</sup> ① 今日。 ② 以前的某一天：～就该处理。  
-1. 【[当𩞃的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_shan_dii.md#当𩞃的)】`dan5 shan dii` <sup>[如皋]</sup> 本义作正餐。引指由随便的、暗中的、躲躲闪闪的变为正式的、公开的、经常的：他～吃起烟来啊；你～要买？一可以便宜点儿！她～在谈恋爱。  
+1. 【[当𩞃的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_shan_dii.md#当𩞃的)】`dan5 shan dii` <sup>[如皋]</sup> 本义作正餐。引指由随便的、暗中的、躲躲闪闪的变为正式的、公开的、经常的：他～吃起烟来啊｜你～要买？一可以便宜点儿！｜她～在谈恋爱。  
 1. 【[当时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_shr.md#当时)】`dan5 shr2` <sup>[兴化]</sup> 早就：你俫的事，我～晓得咖｜队伍～走啊，你怎吖才来？  
 1. 【[当事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_shr.md#当事)】`dan5 shr6` <sup>[如皋]</sup> 重视：他拿我不～。  
 1. 【[当事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_shr.md#当事)】`dan5 shr6` <sup>[兴化]</sup> 爱惜：你在外头上学，钱要～！｜“你老人家女儿多，不把来～了……怎舍得与异乡人做小？”（《古今小说》一）  

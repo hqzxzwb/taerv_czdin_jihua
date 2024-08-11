@@ -289,13 +289,13 @@
 1. 【[铅桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen_ton.md#铅桶)】`kaen1 ton3` <sup>[如皋]</sup> 用镀锡、镀锌铁皮做的桶。  
 1. 【[铅桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen_ton.md#铅桶)】`kaen1 ton3` <sup>[兴化]</sup> 即由薄铁皮制成的提𪳄：～𪳄子。  
 1. 【[铅子<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen_zz_r.md#铅子<sub>儿</sub>)】`kaen1 zz3 r` <sup>[泰县]</sup> 硬币。  
-1. 【[顑食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen_sheh.md#顑食)】`kaen1 sheh8` <sup>[东台]</sup> 因吃不饱饭影响健康。  
 1. 【[鹐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen.md#鹐)】`kaen1` <sup>[如东]</sup> ① 啄食：鸡子～大麦。 ② 啄人：鸟～人。  
 1. 【[鹐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen.md#鹐)】`kaen1` <sup>[如皋]</sup> 啄：鸡子～虫子。  
 1. 【[鹐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen.md#鹐)】`kaen1` <sup>[东台]</sup> 尖嘴的鸟类啄食。  
 1. 【[鹐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen.md#鹐)】`kaen1` <sup>[兴化]</sup> 鸟啄物。儿歌：捣鬼捣鬼，喜鹊～嘴。《集韵·咸韵》苦咸切：“～，鸟啄物”。  
 1. 【[鹐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen.md#鹐)】`kaen1` <sup>[泰县]</sup> 啄食：鸡子～石头。  
 1. 【[鹐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen.md#鹐)】`kaen1` <sup>[泰州]</sup> 鸟类啄食：鸡子把田里的菜～掉不少。  
+1. 【[鹐食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen_sheh.md#鹐食)】`kaen1 sheh8` <sup>[东台]</sup> 因吃不饱饭影响健康。  
 1. 【[䶠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen.md#䶠)】`kaen2` <sup>[如东]</sup> 紧，精明：这个人打牌～。  
 1. 【[䶠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen.md#䶠)】`kaen2` <sup>[如皋]</sup> ① 钳、夹。 ② 引指过分精明：他处世～。  
 1. 【[函子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen_zz.md#函子)】`kaen2 zz` <sup>[如皋]</sup> ① 未成年而死者用的棺材。 ② 詈语或昵称：～唉，快点儿来吃啋！你这个～，你要死咯！  

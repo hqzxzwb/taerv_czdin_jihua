@@ -240,7 +240,6 @@
 1. 【[层](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cen.md#层)】`cen2` <sup>[泰州]</sup> 量词，用于一项或者分为若干小项中的某项：同你讲的这层道理你也晓得，你为甚的不听㖸？｜这个姑娘一来是博士学位，二来父母都是干部，三来人又长得漂亮，就凭这三层，你说你哪一层配得上人家姑娘，你还拿甚的乔。  
 1. 【[朆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cen.md#朆)】`cen3` <sup>[如皋]</sup> “曾”cen2变调为上声，表示未，没有：你～去啊？一～去！  
 1. 【[朆有](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cen_ieu.md#朆有)】`cen3 ieu3` <sup>[如皋]</sup> 未有。  
-1. 【[噌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cen.md#噌)】`cen5` <sup>[东台]</sup> 叱责：两人怎么说咖说的就～起来啊？他说得不对，可以耐心批评，但是不要～他。  
 1. 【[凑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/ceu.md#凑)】`ceu5` <sup>[如东]</sup> 用力往上推：请你～我一把。  
 1. 【[凑下巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/ceu_ha_ba.md#凑下巴)】`ceu5 ha6 ba` <sup>[如东]</sup> ① 跟着说闲话：她就欢喜～。 ② 从旁插话：你不要～。  
 1. 【[凑下巴颏<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/ceu_ha_ba_kah_r.md#凑下巴颏<sub>儿</sub>)】`ceu5 ha6 ba1 kah7 r` <sup>[如皋]</sup> 给下颔骨脱白者行复位术。  
@@ -1089,7 +1088,7 @@
 1. 【[称头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_teu.md#称头)】`chen5 teu2` <sup>[如东]</sup> 扁担两端重量相当：一头一只箩，一头两只海子，挑起来～。  
 1. 【[称头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_teu.md#称头)】`chen5 teu2` <sup>[如皋]</sup> 两端重量相当，相对平衡：挑担要～，不要挑背背担儿。  
 1. 【[称心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_xien.md#称心)】`chen5 xien1` <sup>[如东]</sup> 符合心意；心满意足。  
-1. 【[謓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen.md#謓)】`chen5` ① <sup>\[泰州\]\[兴化\]</sup>以言语制止：他同领导说话没大没小的，老李～吖他几回都～不住他。<sup>\[泰州\]</sup>｜他说话容易得罪人，我连忙～他。<sup>\[兴化\]</sup> ② <sup>\[兴化\]</sup>生气、不满。  
+1. 【[謓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen.md#謓)】`chen5` ① <sup>\[泰州\]\[兴化\]</sup>以言语制止：他同领导说话没大没小的，老李～吖他几回都～不住他。<sup>\[泰州\]</sup>｜他说话容易得罪人，我连忙～他。<sup>\[兴化\]</sup> ② <sup>\[兴化\]</sup>生气、不满。 ③ <sup>\[东台\]</sup>叱责：两人怎么说咖说的就～起来啊？他说得不对，可以耐心批评，但是不要～他。<sup>\[东台\]</sup>  
 1. 【[趁风涨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_fon_zhan.md#趁风涨)】`chen5 fon1 zhan3` <sup>[如皋]</sup> 价格飞涨。  
 1. 【[趁风长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_fon_zhan.md#趁风长)】`chen5 fon1 zhan3` <sup>[如皋]</sup> 状人、畜、禽初生，生长迅速。  
 1. 【[趁觉<sub>儿</sub>的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_go_r_dii.md#趁觉<sub>儿</sub>的)】`chen5 go5 r dii` <sup>[如皋]</sup> 睡梦中说话、脱袜子等行为。  

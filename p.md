@@ -1088,9 +1088,9 @@
 1. 【[白背叶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_bei_ih.md#白背叶)】`poh8 bei5 ih8` <sup>[如东]</sup> 大戟科植物白楸，灌木或小乔木，小枝、叶柄和花序均被灰白色星状耸毛。  
 1. 【[白扁豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_bin_teu.md#白扁豆)】`poh8 bin3 teu6` <sup>[如东]</sup> 一年生草本植物，俗称洋扁豆。茎蔓生，小叶披针形。花白色或紫色。荚果，长椭圆形，扁平，微弯。种子白色。是普通蔬菜。  
 1. 【[白布忑进染缸里——洗不清](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_bv_teh_jien_rin_gan_lii_xi_beh_qien.md#白布忑进染缸里——洗不清)】`poh8 bv5 teh7 jien5 rin3 gan1 lii xi3 beh7 qien1` <sup>[东台]</sup>   
-1. 【[白罐僧的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_cen_cen_dii.md#白罐僧的)】`poh8 cen1 cen1 dii` <sup>[如皋]</sup> 状皮肤白皙：脸皮子～。  
 1. 【[白察](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_chaeh.md#白察)】`poh8 chaeh` <sup>[如东]</sup> 视觉反映迟钝：眼睛～咖，这吖大的东西都不曾发现。  
 1. 【[白菖蒲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_chan_pv.md#白菖蒲)】`poh8 chan1 pv2` <sup>[如东]</sup> 天南星科植物白菖蒲，多年生草本。  
+1. 【[白阵阵的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_chen_chen_dii.md#白阵阵的)】`poh8 chen chen6 dii` <sup>[如皋]</sup> 状皮肤白皙：脸皮子～。  
 1. 【[白痴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_chr.md#白痴)】`poh8 chr1` <sup>[如东]</sup> 一种疾病。患者智力低下，动作迟钝。轻者言语机能不全，重者不能料理自己的起居饮食。  
 1. 【[白痴白痴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_chr_poh_chr_dii.md#白痴白痴的)】`poh8 chr1 poh8 chr1 dii` <sup>[如皋]</sup> 睁大眼睛不知所以的样子：打得他～；他才睏吖醒吖，眼睛～。  
 1. 【[白草莓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_co_mei.md#白草莓)】`poh8 co3 mei2` <sup>[如东]</sup> 蔷薇科植物白草莓，多年生草本。  

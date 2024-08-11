@@ -1222,7 +1222,7 @@
 1. 【[湿淋淋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_lien_lien.md#湿淋淋)】`sheh7 lien2 lien2` <sup>[东台]</sup> 形容物体潮湿得往下滴水。也作“湿滴滴”。  
 1. 【[湿漉漉的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_loh_loh_dii.md#湿漉漉的)】`sheh7 loh loh8 dii` <sup>[如皋]</sup> 湿漉漉的。  
 1. 【[湿漉漉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_loh_loh.md#湿漉漉)】`sheh7 loh8 loh8` <sup>[如东]</sup> 非常潮湿。  
-1. 【[湿卤卤的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_lu_lu_dii.md#湿卤卤的)】`sheh7 lu3 lu3 dii` <sup>[如皋]</sup> 润湿，含水份而挤不出。  
+1. 【[湿卤卤的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_lu_lu_dii.md#湿卤卤的)】`sheh7 lu3 lu3 dii, sheh7 lu lu3 dii` <sup>[如皋]</sup> 润湿，含水份而挤不出。  
 1. 【[湿气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_qi.md#湿气)】`sheh7 qi5` <sup>[兴化]</sup> ① 潮湿气：这个房间里～太重，住啊不舒服。 ② 脚气：谚曰：冻疮变～，一年害四季。  
 1. 【[色<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_r.md#色<sub>儿</sub>)】`sheh7 r` <sup>[如东]</sup> 一种博戏具。每粒正六面体，边长0.8CM，1～6点分刻于各面。一副6粒。玩时置碗中，可手掷，亦可加盖摇，看点数分高低。也称骰子。  
 1. 【[色<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_r.md#色<sub>儿</sub>)】`sheh7 r` <sup>[东台]</sup> 也叫骰子。用骨头、木头或塑料制成的赌具，立体小方块，用手抛，六面分刻123456点。  
