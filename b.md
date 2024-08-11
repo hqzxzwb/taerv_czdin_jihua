@@ -1219,11 +1219,11 @@
 1. 【[壁钟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_zhon.md#壁钟)】`bieh7 zhon1` <sup>[如皋]</sup> 即挂钟。  
 1. 【[毕剥焦干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_bah_jio_gun.md#毕剥焦干)】`bieh7 bah7 jio1 gun1` <sup>[东台]</sup> 形容十分干燥，一点水分也没有：这点儿豆子晒得～的，不会发霉。  
 1. 【[毕恭毕敬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_gon_bieh_jien.md#毕恭毕敬)】`bieh7 gon1 bieh7 jien5` <sup>[东台]</sup> 十分恭敬的样子：《诗经·小弁》｜“维桑维梓，必恭敬止。”也作“必恭必敬”。  
+1. 【[毕干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_gun.md#毕干)】`bieh7 gun1` <sup>[如东]</sup> 非常干燥：这条河～。  
 1. 【[毕干的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_gun_dii.md#毕干的)】`bieh7 gun1 dii` <sup>[如皋]</sup> 很干燥。  
 1. 【[毕静的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_qien_dii.md#毕静的)】`bieh7 qien6 dii` <sup>[东台]</sup> 形容十分安静：办公室里～，只能听见键盘滴滴哒哒打字的声音。  
 1. 【[滗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh.md#滗)】`bieh7` <sup>[如东]</sup> 挡住渣滓，把液体舀出来：把汤～出来。  
 1. 【[滗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh.md#滗)】`bieh7` <sup>[如皋]</sup> ① 去渣：～粥饮汤。 ② 去汤：～黄泔水。  
-1. 【[煏干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_gun.md#煏干)】`bieh7 gun1` <sup>[如东]</sup> 非常干燥：这条河～。  
 1. 【[碧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh.md#碧)】`bieh7` <sup>[东台]</sup> 清澈；经过整治，内河的水～清的，可以看见水中的鱼类。  
 1. 【[碧绿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_loh.md#碧绿)】`bieh7 loh8` <sup>[东台]</sup> 绿得耀眼，特别：～色。  
 1. 【[碧清的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_qien_dii.md#碧清的)】`bieh7 qien1 dii` <sup>[如皋]</sup> 见“清沰沰的”。  
