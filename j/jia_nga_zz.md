@@ -1,4 +1,4 @@
 # 假牙子
-jia3 nga3 zz
+jia3 nga2 zz
 > 如皋方言词典
 - 镶的牙齿。
