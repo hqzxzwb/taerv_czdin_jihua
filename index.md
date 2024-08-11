@@ -271,7 +271,7 @@
 1. 【[姆妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/m_ma.md#姆妈)】`m ma1` <sup>[东台]</sup> 对母亲的面称。  
 1. 【[姆妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/m_ma.md#姆妈)】`m ma1` <sup>[兴化]</sup> 母亲。  
 1. 【[姆㜥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/m_mae.md#姆㜥)】`m1 mae1` <sup>[泰县]</sup> 妈妈。  
-1. 【[缓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/m.md#缓)】`m3` <sup>[如皋]</sup> 令牛停下。见“缓”（un3）。  
+1. 【[呣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/m.md#呣)】`m3` <sup>\[如皋\]</sup>令牛停下。另见“缓”（un3）。  
 1. 【[嘛咪吽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_mi_hon.md#嘛咪吽)】`ma1 mi1 hon1` <sup>[如皋]</sup> 打瞌𥅻，要睡觉。源于佛家六字诀“唵嘛呢叭咪吽”。举凡僧人念经打坐皆若睡貌，故而形成此俗语。  
 1. 【[妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma.md#妈)】`ma1` <sup>[东台]</sup> ① 母来。 ② 年长的已婚妇女。  
 1. 【[妈妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma.md#妈妈)】`ma1 ma1` <sup>[如东]</sup> 母亲。  
@@ -286,6 +286,7 @@
 1. 【[麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma.md#麻)】`ma2` <sup>[泰州]</sup> 辛辣刺激口腔舌头所产生的味觉：这个大椒太～。  
 1. 【[麻啊爪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_a_zhua_zz.md#麻啊爪子)】`ma2 a zhua3 zz` <sup>[东台]</sup> ① 麻醉了，手脚不能动。 ② 吓得不知所措的样子。  
 1. 【[麻啊爪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_a_zhua_zz.md#麻啊爪子)】`ma2 a zhua3 zz` <sup>[泰县]</sup> 手足无措：她家男的一死，撂下老的小的，她就～啊啦。  
+1. 【[麻疤<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ba_r.md#麻疤<sub>儿</sub>)】`ma2 ba1 r` <sup>[如东]</sup> 比喻岔子：他来寻～。  
 [更多...](./m.md)
 ## N
 1. 【[拿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na.md#拿)】`na2` <sup>[兴化]</sup> ① 装出：～三做四。 ② 批发：到招商城～货。｜这件上衣我～九十，卖把你一百，寻十块钱。  
@@ -310,7 +311,7 @@
 1. 【[拿大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_da.md#拿大)】`na2 da6` <sup>[东台]</sup> 摆架子，不轻易理睬别人。  
 [更多...](./n.md)
 ## O
-1. 【[哦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/o.md#哦)】`o, ngo, go` <sup>[泰兴]</sup> 助词。表示催促。读音因前字韵尾而不同：快点走～（o）。  
+1. 【[噢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/o.md#噢)】`o, ngo, go` <sup>[泰兴]</sup> 助词。表示催促。读音因前字韵尾而不同：快点走～（o）。  
 1. 【[噢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/o.md#噢)】`o` <sup>[泰州]</sup> ① 叹词，表示恍然大悟：～原来是这回事啊。 ② 句末语气词，表示责备语气：你望你～，这点儿事都弄不好。  
 1. 【[噢唉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/o_ae.md#噢唉)】`o3 ae` <sup>[如皋]</sup> 旧时沿街巷叫买大粪的声音。  
 1. 【[喔吆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_io.md#喔吆)】`oh7 io1` <sup>[东台]</sup> ［语气助词］表示惊讶：～！天气突然变丑啊。  

@@ -462,7 +462,7 @@
 1. 【[㧎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga.md#㧎)】`nga6` <sup>[泰州]</sup> 强迫自己或他人继续吃下食物，喝下饮料（泰州词典作挜，阴平）：碗就剩吖一口饭，你就把他挜下去吧，省得再作个碗。  
 1. 【[㧎媚脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_mei_lin.md#㧎媚脸)】`nga6 mei6 lin3` <sup>[如皋]</sup> 降低身份相求。  
 1. 【[㧎子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#㧎子)】`nga6 zz` <sup>[如皋]</sup> 嵌在中间的：二条是一、三条的～（游和术语）。  
-1. 【[枒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga.md#枒)】`nga6` 量词，瓣，用于数切开的西瓜、橘子等：一～西瓜｜一～橘子  
+1. 【[枒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga.md#枒)】`nga6` <sup>\[如东\]\[泰兴\]</sup>量词，瓣，用于数切开的西瓜、橘子等：一～西瓜｜一～橘子｜一只橘子，我只吃咖～。<sup>\[如东\]</sup>  
 1. 【[砑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga.md#砑)】`nga6` <sup>[如皋]</sup> ① 涂压：～墙、～灶面儿。 ② 碾压：～芝麻糏儿。 ③ 受到压迫的不适感：～人子、石子儿路～脚。  
 1. 【[砑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga.md#砑)】`nga6` <sup>[东台]</sup> ① 逼近，靠近：～墙根子。 ② 被凸起的东西挤压得难受：砂石路上跑路～人。  
 1. 【[砑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga.md#砑)】`nga6` <sup>[兴化]</sup> ① 压：～甘蔗汁｜把纸～平。 ② 碾：用碌碡～芦柴。 ③ 《广韵·祃韵》吾驾切“～，碾平”。  
@@ -1697,7 +1697,7 @@
 1. 【[你生姜，我皂壳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nii_shen_jian_ngu_co_kah.md#你生姜，我皂壳)】`nii3 shen1 jian ngu3 co6 kah7` <sup>[兴化]</sup> （喻）针锋相对，各不相让：两房新妇，针头对麦芒，成天闹啊要分家。  
 1. 【[你生我强](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nii_shen_ngu_qian.md#你生我强)】`nii3 shen1 ngu3 qian2` <sup>[兴化]</sup> 各执已见，有意闹别扭：每逢开会总是～的，意见统一不起来。｜谁知外面这些科道，～的，可可的撞入他网中来。（《梼杌闲评》三二）也作“你生我犟”。  
 1. 【[你生我犟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nii_shen_ngu_qian.md#你生我犟)】`nii3 shen1 ngu3 qian6` <sup>[兴化]</sup> 见“你生我强”。  
-1. 【[你说噻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nii_shuh_seh.md#你说噻)】`nii3 shuh7 seh7` <sup>[东台]</sup> 在叙述某事后发出的慨叹，相对于“你看，不是吗？”：这伢儿神气，6岁就上央视，～！｜年纪大啊，记才差，上午的事下午就忘掉啊，～！  
+1. 【[你说唦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nii_shuh_seh.md#你说唦)】`nii3 shuh7 sa-seh` <sup>[东台]</sup> 在叙述某事后发出的慨叹，相对于“你看，不是吗？”：这伢儿神气，6岁就上央视，～！｜年纪大啊，记才差，上午的事下午就忘掉啊，～！  
 1. 【[拈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin.md#拈)】`nin1, nin2` <sup>[如皋]</sup> 用指尖夹取：他欢喜弄手～菜吃，不欢喜拿筷儿搛。  
 1. 【[拈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin.md#拈)】`nin1` <sup>[如东]</sup> 用两只手指拾取：把地下的棉花～起来。  
 1. 【[拈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin.md#拈)】`nin1` <sup>[泰州]</sup> 捏取物品：～阄  

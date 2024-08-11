@@ -2436,8 +2436,8 @@
 1. 【[豁牙𢴬齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_nga_baen_chr.md#豁牙𢴬齿)】`huh7 nga2 baen5 chr3` <sup>[兴化]</sup> ① 形容口中缺齿且排列不整。 ② （借）形容器物、墙壁等破损不堪：这堵墙～的，人一爬就过去啊。  
 1. 【[豁牙落齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_nga_lah_chr.md#豁牙落齿)】`huh7 nga2 lah8 chr3` <sup>[如东]</sup> ① 牙齿落了很多。 ② 不整齐：把个布剪吖～。  
 1. 【[豁筢齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_pa_chr.md#豁筢齿)】`huh7 pa chr3` <sup>[东台]</sup> 门牙残缺，或指幼童乳牙掉落，恒牙未长全。  
+1. 【[豁筢齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_pa_chr.md#豁筢齿)】`huh7 pa-pah chr3` <sup>[如东]</sup> 门牙掉了一颗或几颗，叫豁䶕齿。  
 1. 【[豁筢齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_pa_chr.md#豁筢齿)】`huh7 pa2 chr3` <sup>[泰县]</sup> 牙齿不全。  
-1. 【[豁䶕齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_pah_chr.md#豁䶕齿)】`huh7 pah7 chr3` <sup>[如东]</sup> 门牙掉了一颗或几颗，叫豁䶕齿。  
 1. 【[豁嘴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_zuei_zz.md#豁嘴子)】`huh7 zuei3 zz` <sup>[兴化]</sup> 兔唇。  
 1. 【[豁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_zz.md#豁子)】`huh7 zz` ① <sup>\[东台\]\[如东\]\[兴化\]</sup>缺口：碗高头斗啊个～。（另见“豁子huaeh7 zz”）<sup>\[东台\]</sup>｜城墙上有个～。<sup>\[兴化\]</sup>｜圩上有个～。<sup>\[兴化\]</sup> ② <sup>\[如东\]\[兴化\]</sup>嘴唇有豁口者，兔唇残疾者。\[兴化：也称“豁嘴子。”\]  
 1. 【[𧌄虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_chon.md#𧌄虫)】`huh7 chon2, uh7 chon2, hoh7 chon2` <sup>[如皋]</sup> 蚜虫。  

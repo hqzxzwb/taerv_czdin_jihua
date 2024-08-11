@@ -1058,7 +1058,7 @@
 1. 【[豆沙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_sha.md#豆沙)】`teu6 sha1` <sup>[如东]</sup> 赤豆、绿豆等煮烂捣成泥粉，叫做豆沙。加糖后，可做点心的馅儿。  
 1. 【[豆蠌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_shah.md#豆蠌)】`teu6 shah7, teu6 tah7, teu6 dah7` <sup>[东台]</sup> 豆丹。生长在大豆等绿叶上的大青虫。  
 1. 【[豆豉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_sheh.md#豆豉)】`teu6 sheh` <sup>[如皋]</sup> 黄豆、蚕豆等酿的酱。  
-1. 【[豆豉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_shr.md#豆豉)】`teu6 shr1` <sup>[如皋]</sup> 黄豆做的中药。  
+1. 【[豆□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_sz.md#豆□)】`teu6 sz1` <sup>[如皋]</sup> 黄豆做的中药。  
 1. 【[豆蠌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_tah.md#豆蠌)】`teu6 tah` <sup>[如皋]</sup> 豆天蛾的幼虫。  
 1. 【[豆拓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_tah.md#豆拓)】`teu6 tah7` <sup>[兴化]</sup> 尺蠖蛾的幼虫。  
 1. 【[逗叨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_ddo.md#逗叨)】`teu6 ddo` <sup>[如东]</sup> 过分地高兴：一听就～，究竟是真是假也不问下子。  
@@ -2272,6 +2272,7 @@
 1. 【[坨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#坨)】`tu2` <sup>[如皋]</sup> ① 成块、成堆：泥～儿、粉～子、～粉。 ② 量词：一～糕（年糕，两块相迭）。 ③ 叠放：他把碗～啊多高。 ④ 积累：碗上的粥巴子～啊多厚。  
 1. 【[坨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#坨)】`tu2` <sup>[如东]</sup> 叠放：把袋子～啊上头。  
 1. 【[坨粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_fen.md#坨粉)】`tu2 fen3` <sup>[如东]</sup> 食品。以绿豆为原料，制成片状，圆形，软而韧。  
+1. 【[坨<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_r.md#坨<sub>儿</sub>)】`tu2 r` <sup>[如皋]</sup> 铜～：厚而圆的铜、铁等小玩具，比铜钞大而厚，是玩“趖抛抛儿”、“摵钱墩儿”的主玩具。  
 1. 【[沱粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_fen.md#沱粉)】`tu2 fen3` <sup>[东台]</sup> 以蚕豆、豌豆等为原料加工成的淀粉，用于勾芡、做凉粉等。  
 1. 【[陀螺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_lu_r.md#陀螺<sub>儿</sub>)】`tu2 lu1 r` <sup>[如东]</sup> 玩具。圆锥形，用鞭子抽动，能在地上旋转。  
 1. 【[驮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#驮)】`tu2` <sup>[如皋]</sup> 借债：问你～个债，借100块钱。  
@@ -2302,7 +2303,6 @@
 1. 【[驼子跌跟头——两头不落实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_zz_dih_gen_teu_laen_teu_beh_lah_sheh.md#驼子跌跟头——两头不落实)】`tu2 zz dih7 gen1 teu laen3 teu2 beh7 lah8 sheh` <sup>[东台]</sup>   
 1. 【[驼子害搭背——一背（倍）抵几背（倍）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_zz_hae_daeh_bei_ieh_bei_di_ji_bei.md#驼子害搭背——一背（倍）抵几背（倍）)】`tu2 zz hae6 daeh7 bei5 ieh7 bei5 di3 ji3 bei5` <sup>[东台]</sup>   
 1. 【[驼子游水——中间冒尖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_zz_ieu_shuei_zhon_gaen_mo_jin.md#驼子游水——中间冒尖)】`tu2 zz ieu2 shuei3 zhon1 gaen1 mo6 jin1` <sup>[东台]</sup>   
-1. 【[𤭨<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_r.md#𤭨<sub>儿</sub>)】`tu2 r` <sup>[如皋]</sup> 铜～：厚而圆的铜、铁等小玩具，比铜钞大而厚，是玩“趖抛抛儿”、“摵钱墩儿”的主玩具。  
 1. 【[妥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#妥)】`tu3` <sup>[兴化]</sup> ① 行、好了：～啊，不要再弄吖！ ② 死亡的隐语：王老九昨儿晚上～下来啊。  
 1. 【[妥啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_a.md#妥啊)】`tu3 a` <sup>[东台]</sup> 事情已经办妥，相当于“好了！”：～，水开啊，不要再烧！  
 1. 【[椭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#椭)】`tu3` <sup>[如东]</sup> 弧圆凸起：他𨀛在那里，屁股～吖下。  

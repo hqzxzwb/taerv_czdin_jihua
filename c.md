@@ -1302,6 +1302,7 @@
 1. 【[抄豝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_ba_r.md#抄豝<sub>儿</sub>)】`cho1 ba1 r` <sup>[如东]</sup> 产崽的母猪被骟了，叫抄巴儿。  
 1. 【[抄抄<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_cho_r.md#抄抄<sub>儿</sub>)】`cho1 cho1 r` <sup>[如皋]</sup> 帽舌：帽～。  
 1. 【[抄抄<sub>儿</sub>帽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_cho_r_mo_zz.md#抄抄<sub>儿</sub>帽子)】`cho1 cho1 r mo6 zz` <sup>[如皋]</sup> 有帽舌的帽子。  
+1. 【[抄饭锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_faen_gu.md#抄饭锅)】`cho1 faen6 gu1` <sup>[如皋]</sup> 煮杂粮饭或菜饭，锅底处易焦糊而饭面不易熟透，须在沸腾后抄翻一下再煮，谓之～。  
 1. 【[抄家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_ga.md#抄家)】`cho1 ga1` <sup>[如东]</sup> 查抄家产。  
 1. 【[抄下巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_ha_ba.md#抄下巴)】`cho1 ha6 ba` <sup>[如东]</sup> 下巴向前伸着的人，叫抄下巴。  
 1. 【[抄下巴颏<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_ha_ba_kah_r.md#抄下巴颏<sub>儿</sub>)】`cho1 ha6 ba kah7 r` <sup>[如东]</sup> ① 人的下巴向前突出。 ② 从旁边乱插话。  
@@ -1319,7 +1320,6 @@
 1. 【[抄头不抄尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_teu_beh_cho_vei.md#抄头不抄尾)】`cho1 teu2 beh7 cho1 vei3` <sup>[兴化]</sup> 对故事或事件的叙述不完整：他说的故事～的，没意思。｜他汇报的情况～，教人弄不清。  
 1. 【[抄尿布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_xy_bv.md#抄尿布)】`cho1 xy1 bv5` <sup>[东台]</sup> 给小孩戴上尿布。  
 1. 【[抄猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_zhv.md#抄猪)】`cho1 zhv1` <sup>[如东]</sup> 骟产崽的母猪。  
-1. 【[耖饭锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_faen_gu.md#耖饭锅)】`cho1 faen6 gu1` <sup>[如皋]</sup> 煮杂粮饭或菜饭，锅底处易焦糊而饭面不易熟透，须在沸腾后耕翻一下再煮，谓之～。  
 1. 【[超八行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_baeh_han.md#超八行)】`cho1 baeh7 han2` <sup>[如东]</sup> ① 超过八鲜行的经营范围。 ② 比喻超过本职范围，捞话说，捞事做：不要做～。 ③ 捞话说的人：她是个～。  
 1. 【[超本行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_ben_han.md#超本行)】`cho1 ben3 han2` <sup>[如东]</sup> ① 除本行外，其他行业也懂一些。 ② 比喻某些冒充内行、多嘴多舌的人：他是个～。  
 1. 【[超百行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_boh_han.md#超百行)】`cho1 boh7 han2` <sup>[如东]</sup> ① 超过百行的范围。 ② 比喻超过本职范围，捞话说，捞事做：不要做～。  

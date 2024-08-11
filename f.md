@@ -117,7 +117,7 @@
 1. 【[发水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_shuei.md#发水)】`faeh7 shuei3` <sup>[如东]</sup> 暴涨洪水。  
 1. 【[发达](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_taeh.md#发达)】`faeh7 taeh8` <sup>[兴化]</sup> 得意、显达：老朋友，多年不见，你在哪块～咖？  
 1. 【[发蹄筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_ti_jien.md#发蹄筋)】`faeh7 ti2 jien1` <sup>[如皋]</sup> ① 油～：将猪蹄筋干货浸入温油使之变软透明。然后下滚油煠成海绵状； ② 水～：先用温水浸，然后下沸水泡发胀开。  
-1. 【[发挺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_tien.md#发挺)】`faeh7 tien6` <sup>[如皋]</sup> ① 发硬：𪎉子饭见风强，盛吖碗面子上的就～。 ② 逆反心态：这伢儿的脾家容易同人～。  
+1. 【[发定](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_tien.md#发定)】`faeh7 tien6` <sup>[如皋]</sup> ① 发硬：𪎉子饭见风强，盛吖碗面子上的就～。 ② 逆反心态：这伢儿的脾家容易同人～。  
 1. 【[发帖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_tih_zz.md#发帖子)】`faeh7 tih7 zz` <sup>[兴化]</sup> ① 发出柬帖：“……爷只须发个贴子与捕衙就是了……”（《梼杌闲评》四） ② 婚俗：合婚后，认为男女“八字”相合，男方即将大红庚帖连同其他礼品发至女方，至此婚约乃成。  
 1. 【[发苕束](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_tio_shoh.md#发苕束)】`faeh7 tio2 shoh7` <sup>[泰县]</sup> 编扎扫帚。  
 1. 【[发蘣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_ton.md#发蘣)】`faeh7 ton5` <sup>[如皋]</sup> 发嗲，撒娇。  
@@ -1097,10 +1097,10 @@
 1. 【[腐烂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_laen.md#腐烂)】`fv3 laen6` <sup>[如皋]</sup> ① 熟透，很烂：肉煮得～。 ② 腐败如泥。  
 1. 【[腐烂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_laen.md#腐烂)】`fv3 laen6` <sup>[泰县]</sup> 很烂：这东西～的。  
 1. 【[釜㔶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_gun.md#釜㔶)】`fv3 gun` 锅盖  
-1. 【[釜㔶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_gun.md#釜㔶)】`fv3 gun` <sup>[如皋]</sup> 即“锅盖”。又作镬㔶。古名的遗留。  
-1. 【[釜㔶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_gun.md#釜㔶)】`fv3 gun` <sup>[东台]</sup> 锅盖。  
+1. 【[釜㔶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_gun.md#釜㔶)】`fv3 gun-gu5, fv3 gu0` <sup>[如皋]</sup> 即“锅盖”。又作镬㔶。  
 1. 【[釜㔶鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_gun_y.md#釜㔶鱼)】`fv3 gun y2` <sup>[如皋]</sup> 鮟鱇。  
-1. 【[釜㔶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_gun.md#釜㔶)】`fv3 gun1` <sup>[泰县]</sup> 锅盖。  
+1. 【[釜㔶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_gun.md#釜㔶)】`fv3 gun1` <sup>[东台]</sup> 锅盖。  
+1. 【[釜㔶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_gun.md#釜㔶)】`fv3 gun1-gu1` <sup>[泰县]</sup> 锅盖。  
 1. 【[付款](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_kun.md#付款)】`fv5 kun3` <sup>[如东]</sup> 支出资金：要按规定～。  
 1. 【[副](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv.md#副)】`fv5` <sup>[东台]</sup> 次要的、附带的、起辅助作用：～产品；～业；～手。  
 1. 【[副业](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_ih.md#副业)】`fv5 ih8` <sup>[如东]</sup> 主要生产任务以外，附带经营的事业，例如农民在农闲时节下海捕鱼捞蟹等。  

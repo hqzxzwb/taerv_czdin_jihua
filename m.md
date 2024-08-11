@@ -6,7 +6,7 @@
 1. 【[姆妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/m_ma.md#姆妈)】`m ma1` <sup>[东台]</sup> 对母亲的面称。  
 1. 【[姆妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/m_ma.md#姆妈)】`m ma1` <sup>[兴化]</sup> 母亲。  
 1. 【[姆㜥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/m_mae.md#姆㜥)】`m1 mae1` <sup>[泰县]</sup> 妈妈。  
-1. 【[缓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/m.md#缓)】`m3` <sup>[如皋]</sup> 令牛停下。见“缓”（un3）。  
+1. 【[呣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/m.md#呣)】`m3` <sup>\[如皋\]</sup>令牛停下。另见“缓”（un3）。  
 1. 【[嘛咪吽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_mi_hon.md#嘛咪吽)】`ma1 mi1 hon1` <sup>[如皋]</sup> 打瞌𥅻，要睡觉。源于佛家六字诀“唵嘛呢叭咪吽”。举凡僧人念经打坐皆若睡貌，故而形成此俗语。  
 1. 【[妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma.md#妈)】`ma1` <sup>[东台]</sup> ① 母来。 ② 年长的已婚妇女。  
 1. 【[妈妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma.md#妈妈)】`ma1 ma1` <sup>[如东]</sup> 母亲。  

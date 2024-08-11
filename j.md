@@ -314,7 +314,7 @@
 1. 【[假马入鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ma_reh_guei.md#假马入鬼)】`jia3 ma3 reh8 guei3` 装模作样，假正经  
 1. 【[假马肏鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ma_reh_guei.md#假马肏鬼)】`jia3 ma3 reh8 guei3` <sup>[东台]</sup> 装模作样哄人。  
 1. 【[假米汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_mi_tan.md#假米汤)】`jia3 mi3 tan1` <sup>[东台]</sup> ［喻］表面客套；虚伪应付。  
-1. 【[假牙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_nga_zz.md#假牙子)】`jia3 nga3 zz` <sup>[如皋]</sup> 镶的牙齿。  
+1. 【[假牙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_nga_zz.md#假牙子)】`jia3 nga2 zz` <sup>[如皋]</sup> 镶的牙齿。  
 1. 【[假内教](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ny_jio.md#假内教)】`jia3 ny6 jio5` <sup>[如皋]</sup> 冒充内行，或指人。  
 1. 【[假扒灰是福，真扒灰是畜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_pa_huei_shr_foh_zhen_pa_huei_shr_choh.md#假扒灰是福，真扒灰是畜)】`jia3 pa2 huei1 shr6 foh7 zhen1 pa2 huei1 shr6 choh7` <sup>[东台]</sup> 别人拿公媳关系开玩笑是天伦之乐，但如果确有此事就有违伦理，简直像畜牲。  
 1. 【[假撇清](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_pih_qien.md#假撇清)】`jia3 pih7 qien1` <sup>[兴化]</sup> 假装坏事与己无关、假装正经：“背地里作乐，当面～，这种不配抬举的，不该应叫他上台盘”（《官场现形记》十四）｜“文宾兄，休得～，你已在那里频频吐舌……”（《四杰传》六四）  

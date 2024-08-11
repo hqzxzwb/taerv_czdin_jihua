@@ -924,7 +924,7 @@
 1. 【[心野](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_ia.md#心野)】`xien1 ia3` <sup>[兴化]</sup> 放任思想言行，不受约束：一个暑假下来，他玩得～！｜一旦～，自然七颠八倒，如痴如呆。  
 1. 【[心痒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_ian.md#心痒)】`xien1 ian3` <sup>[兴化]</sup> 形容心绪撩乱，手足无措的样子：他看到周围几个人买啊手机，自己一时办不起，～难挠。  
 1. 【[心急火燎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_jieh_hu_lio.md#心急火燎)】`xien1 jieh7 hu3 lio2` <sup>[如东]</sup> 非常焦急：大家都～的等，他还是慢吞吞的不过来。  
-1. 【[心急火燎的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_jieh_hu_lio_dii.md#心急火燎的)】`xien1 jieh7 hu3 lio3 dii` <sup>[如皋]</sup> 状特别焦躁不安。  
+1. 【[心急火燎的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_jieh_hu_lio_dii.md#心急火燎的)】`xien1 jieh7 hu3 lio2-3 dii` <sup>[如皋]</sup> 状特别焦躁不安。  
 1. 【[心坚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_jin.md#心坚)】`xien1 jin1` <sup>[兴化]</sup> 形容有决心，能坚持：只要～，再难的事也学得会。｜“……元来就是赵道姑，作此试我的。因此道我～，尽把术来传了……”（《初刻》四）  
 1. 【[心尖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_jin_zz.md#心尖子)】`xien1 jin1 zz` <sup>[兴化]</sup> 形容最被宠爱的人：小孙子是老两口的～。  
 1. 【[心焦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_jio.md#心焦)】`xien1 jio1` <sup>[如皋]</sup> ① 耽心。 ② 久等而心烦。  

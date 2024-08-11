@@ -1,7 +1,7 @@
 # 音序检索
 **[A](./a.md) | [B](./b.md) | [C](./c.md) | [D](./d.md) | [E](./e.md) | [F](./f.md) | [G](./g.md) | [H](./h.md) | [I](./i.md) | [J](./j.md) | [K](./k.md) | [L](./l.md) | [M](./m.md) | [N](./n.md) | [O](./o.md) | [P](./p.md) | [Q](./q.md) | [R](./r.md) | [S](./s.md) | [T](./t.md) | [U](./u.md) | [V](./v.md) | [X](./x.md) | [Y](./y.md) | [Z](./z.md)**  
 ## O
-1. 【[哦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/o.md#哦)】`o, ngo, go` <sup>[泰兴]</sup> 助词。表示催促。读音因前字韵尾而不同：快点走～（o）。  
+1. 【[噢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/o.md#噢)】`o, ngo, go` <sup>[泰兴]</sup> 助词。表示催促。读音因前字韵尾而不同：快点走～（o）。  
 1. 【[噢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/o.md#噢)】`o` <sup>[泰州]</sup> ① 叹词，表示恍然大悟：～原来是这回事啊。 ② 句末语气词，表示责备语气：你望你～，这点儿事都弄不好。  
 1. 【[噢唉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/o_ae.md#噢唉)】`o3 ae` <sup>[如皋]</sup> 旧时沿街巷叫买大粪的声音。  
 1. 【[喔吆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_io.md#喔吆)】`oh7 io1` <sup>[东台]</sup> ［语气助词］表示惊讶：～！天气突然变丑啊。  

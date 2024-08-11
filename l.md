@@ -627,8 +627,7 @@
 1. 【[擽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah.md#擽)】`lah8` <sup>[如东]</sup> 用手抹过去，使物体顺直或干净。捋：把铁丝～直。  
 1. 【[烙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah.md#烙)】`lah8` <sup>[如东]</sup> 一种烹调方法。把食物放在一种架子上用文火烤熟。  
 1. 【[笿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_r.md#笿<sub>儿</sub>)】`lah8 r` <sup>[如东]</sup> 篮子。  
-1. 【[笿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_r.md#笿<sub>儿</sub>)】`lah8 r` <sup>[如皋]</sup> 篾丝、篾片编制的有系小篮：通州～、元宝～等，日常用物。  
-1. 【[笿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_r.md#笿<sub>儿</sub>)】`lah8 r` <sup>[如皋]</sup> 丝、篾片编制的小竹篮：通州～、元宝～。  
+1. 【[笿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_r.md#笿<sub>儿</sub>)】`lah8 r` <sup>[如皋]</sup> 篾丝、篾片编制的小竹篮：通州～、元宝～。  
 1. 【[笿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_zz.md#笿子)】`lah8 zz` 篮子  
 1. 【[笿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_zz.md#笿子)】`lah8 zz` <sup>[如皋]</sup> 见“笿儿”。  
 1. 【[笿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_zz.md#笿子)】`lah8 zz` <sup>[东台]</sup> 竹篮子。  

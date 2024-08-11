@@ -816,7 +816,7 @@
 1. 【[𧺕尖<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shah_jin_r.md#𧺕尖<sub>儿</sub>)】`shah8 jin1 r` <sup>[泰县]</sup> 大田的斜角。  
 1. 【[𧺕里拐东](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shah_lii_guae_don.md#𧺕里拐东)】`shah8 lii guae3 don1` <sup>[泰县]</sup> 不稳重：这个人～的。  
 1. 【[𧺕里𧺕沰的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shah_lii_shah_dah_dii.md#𧺕里𧺕沰的)】`shah8 lii shah8 dah7 dii` <sup>[如皋]</sup> 随意好恶，不讲原则：这个伢儿～，这样下去不得了！  
-1. 【[𧺕里𧺕东](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shah_lii_shah_don.md#𧺕里𧺕东)】`shah8 lii shah8 don3` <sup>[泰县]</sup> 不规范，不合体：这件衣服穿吖身上～的。  
+1. 【[𧺕里𧺕东](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shah_lii_shah_don.md#𧺕里𧺕东)】`shah8 lii shah8 don1-3` <sup>[泰县]</sup> 不合体：这件衣服穿吖身上～的。  
 1. 【[𧺕序](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shah_xy.md#𧺕序)】`shah8 xy5` <sup>[东台]</sup> 同“𧺕沰”。（序指次第，如，顺序、次序。～即乱了序）  
 1. 【[𪾠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shah.md#𪾠)】`shah8` <sup>[如皋]</sup> 见“睃”。  
 1. 【[𪾠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shah.md#𪾠)】`shah8` <sup>[泰州]</sup> 用眼角余光偷偷迅速一瞥：你开车子的人，眼睛～咖哪块去啊唻，你望住前头开。｜相亲那天她～咖那个小伙一眼，就把头一低。  
