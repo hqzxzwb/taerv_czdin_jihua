@@ -2943,6 +2943,6 @@
 1. 【[䓞草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_co.md#䓞草)】`ly6 co3` <sup>[如皋]</sup> 狼尾草。另见“扎草”。  
 1. 【[泪斑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_baen.md#泪斑)】`ly6 baen1` <sup>[如皋]</sup> 泪水干后的痕迹。  
 1. 【[累伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_nga_r.md#累伢<sub>儿</sub>)】`ly6 nga2 r` <sup>[如皋]</sup> 指哺育小孩的劳累过程。又叫“过伢儿关”。  
-1. 【[鑢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly.md#鑢)】`ly6` <sup>[兴化]</sup> 用钝器磨、制：在墙角上把麻绳～断。（《说文·金部》）｜“～，错铜铁也。”良据切。  
+1. 【[鑢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly.md#鑢)】`ly6` <sup>[兴化]</sup> 用钝器磨、制：在墙角上把麻绳～断。（《说文·金部》）“～，错铜铁也。”良据切。  
 1. 【[鑢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly.md#鑢)】`ly6` <sup>[泰县]</sup> 划破：草把他的手～开来啊。  
 **[▲](#音序检索)**  

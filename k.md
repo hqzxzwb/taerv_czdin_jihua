@@ -1103,7 +1103,7 @@
 1. 【[魁首](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei_sheu.md#魁首)】`kuei2 sheu3` <sup>[如东]</sup> ① 在同辈中才华居首位的人。 ② 比喻第一。  
 1. 【[魁星楼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei_xien_leu.md#魁星楼)】`kuei2 xien1 leu2` <sup>[东台]</sup> 亦称“文昌阁”，始建于清嘉庆十五年，砖木结构，位于东台城东南，八角翘檐，1938年3月毁于日军炮火。  
 1. 【[匮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei.md#匮)】`kuei5` <sup>[泰县]</sup> 营养不良。  
-1. 【[攰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei.md#攰)】`kuei5` <sup>[泰州]</sup> 生病初愈或者疲劳过度导致的体弱无力：他害啊一场大病，人～下来唻，身上没得点点ㄦ劤。｜你又熬夜，身体怎吖得不～㖸。  
+1. 【[匮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei.md#匮)】`kuei5` <sup>[泰州]</sup> 生病初愈或者疲劳过度导致的体弱无力：他害啊一场大病，人～下来唻，身上没得点点ㄦ劤。｜你又熬夜，身体怎吖得不～㖸。  
 1. 【[溃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei.md#溃)】`kuei5` <sup>[东台]</sup> 垮、败逃、腐烂。  
 1. 【[柜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei.md#柜)】`kuei6` <sup>[如东]</sup> 容器。一般长方形，立体，木制，也有水泥制的。体积较大。主要用以贮藏粮食。  
 1. 【[柜模<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei_mu_r.md#柜模<sub>儿</sub>)】`kuei6 mu2 r` <sup>[如东]</sup> 比喻人的体型：他的～大。  

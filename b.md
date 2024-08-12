@@ -208,7 +208,7 @@
 1. 【[霸实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_sheh.md#霸实)】`ba5 sheh` <sup>[如皋]</sup> 形容用物工具结实牢固。  
 1. 【[霸实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_sheh.md#霸实)】`ba5 sheh` <sup>[东台]</sup> 结实。（多指用物器具）  
 1. 【[霸王请客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_van_qien_keh.md#霸王请客)】`ba5 van2 qien3 keh7` <sup>[东台]</sup> 强行请人到场，不让推辞。  
-1. 【[𬥐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae.md#𬥐)】`bae1` <sup>[兴化]</sup> ① 父亲：～～。 ② 父亲的兄或弟：大～；二～；三～。 ③ 和父亲年岁、辈份相当的男性：张大～；王二～。 ④ 《集韵蟹韵》罢，部买切。清·陆以恬《冷庐杂识》“父……闽俗称郎～，关东称～～。”唐·顾况（今浙江海盐人）诗有“儿馁嗔郎～”句。罢，今从俗字“父拜”。  
+1. 【[𬥐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae.md#𬥐)】`bae1` <sup>[兴化]</sup> ① 父亲：～～。 ② 父亲的兄或弟：大～；二～；三～。 ③ 和父亲年岁、辈份相当的男性：张大～；王二～。  
 1. 【[𬥐𬥐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_bae.md#𬥐𬥐)】`bae1 bae` <sup>[如皋]</sup> 父。如皋北乡称。  
 1. 【[𬥐𬥐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_bae.md#𬥐𬥐)】`bae1 bae` <sup>[泰兴]</sup> ① 父亲的妹妹。 ② 泛指父亲的姊或妹。  
 1. 【[𬥐𬥐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_bae.md#𬥐𬥐)】`bae1 bae1, bae1 bae3` <sup>[东台]</sup> 爸爸的旧称。  

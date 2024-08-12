@@ -2752,9 +2752,7 @@
 1. 【[雌冒雄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_mo_ion.md#雌冒雄)】`cz1 mo ion2` 形容人不男不女  
 1. 【[龇牙咧嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_nga_lae_zuei.md#龇牙咧嘴)】`cz1 nga2 lae3 zuei3` <sup>[如东]</sup> ① 凶狠的样子：你看她那个～样子。 ② 疼痛难忍的样子：王明肚子疼吖～的。  
 1. 【[嗣父母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_fv_mu.md#嗣父母)】`cz2 fv6 mu3` <sup>[如皋]</sup> 过继的父母。  
-1. 【[嗣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_zz.md#嗣子)】`cz2 zz3` <sup>[如东]</sup> 过继的儿子。  
-1. 【[嗣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_zz.md#嗣子)】`cz2 zz3` <sup>[如皋]</sup> 过继的儿子。  
-1. 【[嗣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_zz.md#嗣子)】`cz2 zz3` <sup>[东台]</sup> 本人无子，将兄弟、亲戚之子过继为子，称～。  
+1. 【[嗣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_zz.md#嗣子)】`cz2 zz3` <sup>\[如东\]\[如皋\]\[东台\]</sup>过继的儿子。  
 1. 【[慈姑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_gv.md#慈姑)】`cz2 gv1` <sup>[如东]</sup> 泽泻科植物慈姑，也称茨菰。  
 1. 【[慈怜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_lin.md#慈怜)】`cz2 lin` <sup>[东台]</sup> 慈爱，善良，心软，富有同情心：这个女的心～，看到人家生重病就流眼泪。  
 1. 【[慈怜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_lin.md#慈怜)】`cz2 lin2` <sup>[如皋]</sup> 富同情心，心肠软。  
@@ -2795,9 +2793,7 @@
 1. 【[刺挠挠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_no_no.md#刺挠挠)】`cz5 no no1` <sup>[兴化]</sup> 因汗液或污垢刺激而产生的不适感：几天不洗澡，身上～的。  
 1. 【[刺<sub>儿</sub>菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_r_cae.md#刺<sub>儿</sub>菜)】`cz5 r cae5` <sup>[如皋]</sup> 小蓟。菊科。  
 1. 【[刺人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_ren.md#刺人)】`cz5 ren2` <sup>[如东]</sup> ① 物体刺激皮肤：玻璃片～的，要当心。 ② 受刺的感觉：浑身～。  
-1. 【[刺猬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_y.md#刺猬)】`cz5 y2` <sup>[如皋]</sup> 刺猬，哺乳纲，食虫目。读音同武汉，是楚音遗存。一般写“刺鱼”。  
-1. 【[刺鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_y.md#刺鱼)】`cz5 y2` <sup>[如东]</sup> 刺猬科动物刺猬。  
-1. 【[刺鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_y.md#刺鱼)】`cz5 y2` <sup>[东台]</sup> 刺猬的俗称。也喻指某些喜欢挑事的好斗之人。  
+1. 【[刺鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_y.md#刺鱼)】`cz5 y2` <sup>\[如东\]\[如皋\]\[东台\]</sup>刺猬，哺乳纲，食虫目。\[东台：也喻指某些喜欢挑事的好斗之人。\]  
 1. 【[次](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz.md#次)】`cz5` <sup>[如皋]</sup> 次序：不要乱，挨～儿的来。  
 1. 【[次把次](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_ba_cz.md#次把次)】`cz5 ba cz5` <sup>[兴化]</sup> 一两次或谓次数不多：（他）冬寒天也不过来照顾～，所以也不想要他的钱。（《皮五辣子》二）  
 1. 【[次<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_r.md#次<sub>儿</sub>)】`cz5 r` <sup>[如皋]</sup> 次序。  
