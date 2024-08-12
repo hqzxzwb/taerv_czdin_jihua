@@ -1903,7 +1903,7 @@
 1. 【[穷相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_xian.md#穷相)】`qion2 xian5` <sup>[如皋]</sup> 穷酸而萎琐的样子：宁生个穷命，不生个～。  
 1. 【[穷嫌富不爱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_xin_fv_beh_ngae.md#穷嫌富不爱)】`qion2 xin2 fv5 beh7 ngae5` <sup>[兴化]</sup> 指某些华而不实，又价高质次的物品：这种蹩脚西装～的，卖把哪个？  
 1. 【[穷嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_zuei.md#穷嘴)】`qion2 zuei3` <sup>[兴化]</sup> 喜欢唠叨的人：他是个～，大米饭也塞不住。  
-1. 【[赹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion.md#赹)】`qion5` <sup>[泰州]</sup> 骂人死亡：像他这种坏人怎吖不早点ㄦ～掉的？  
+1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion.md#□)】`qion5` <sup>[泰州]</sup> 骂人死亡：像他这种坏人怎吖不早点ㄦ～掉的？  
 1. 【[缺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh.md#缺)】`qiuh7` <sup>[如皋]</sup> ① 从干河底横穿的一段路道。 ② 地名通名：七里～，在如皋城北。  
 1. 【[缺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh.md#缺)】`qiuh7` <sup>[兴化]</sup> 残缺，身体缺陷：他身上有个～，就是右眼不通光。  
 1. 【[缺德](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_deh.md#缺德)】`qiuh7 deh7` <sup>[东台]</sup> 做坏事；恶作剧；缺乏好的品德：不晓得哪个～鬼，在我凉帽里头放吖些麦芒。  
@@ -2128,7 +2128,7 @@
 1. 【[倔强](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qyeh_qian.md#倔强)】`qyeh8 qian2` <sup>[如东]</sup> 个性顽强。  
 1. 【[倔强](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qyeh_qian.md#倔强)】`qyeh8 qian6` <sup>[如皋]</sup> 不驯服。  
 1. 【[倔强](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qyeh_qian.md#倔强)】`qyeh8 qian6` <sup>[东台]</sup> 性情刚强。  
-1. 【[𡲬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qyeh.md#𡲬)】`qyeh8` <sup>[兴化]</sup> 短：这件衣裳短～～的。｜褂子后头～咖下。《集韵·迄韵》渠勿切｜“～，《博雅》短也。”  
+1. 【[𡲬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qyeh.md#𡲬)】`qyeh8` <sup>[兴化]</sup> 短。《集韵·迄韵》渠勿切，“～，《博雅》短也。”：这件衣裳短～～的。｜褂子后头～咖下  
 1. 【[𡲬灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qyeh_den.md#𡲬灯)】`qyeh8 den1` <sup>[兴化]</sup> 骂人的话，表示瞧不起：这个～，他也想上台盘。  
 1. 【[𢵮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qyeh.md#𢵮)】`qyeh8` <sup>[如皋]</sup> 手臂轻轻弹击：手一～的下子把碗～咖翻掉啊。  
 1. 【[□黑的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qyen_heh_dii.md#□黑的)】`qyen1 heh7 dii` <sup>[如皋]</sup> 很黑、纯黑：今朝子暗星，外头～。  

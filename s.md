@@ -2764,9 +2764,8 @@
 1. 【[漺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan.md#漺)】`shuan2` <sup>[泰县]</sup> 淌尽：把水～掉。  
 1. 【[漺油瓶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_ieu_pien.md#漺油瓶)】`shuan2 ieu2 pien2` <sup>[如皋]</sup> 把油瓶倒过来，使瓶底的油漺下来。  
 1. 【[漺水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_shuei.md#漺水)】`shuan2 shuei3` <sup>[东台]</sup> 让水分慢慢流尽。  
-1. 【[𩆿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan.md#𩆿)】`shuan2` <sup>[泰州]</sup> ① 雨落的样子：这一刻ㄦ外头雨沰～～的，你等雨小啊再走。｜雨落咖大啊唻，头上～～的雨，眼睛都睁不开来。 ② 泛指液体沿着物体表面自然往下滴的样子：你望你身上噢，汗～～的，弄个手巾揩啊子。｜你慢点儿弄，刷子上漆～～的，地下弄得块块是的。 ③ 让水滴下：你菜洗过啊后，把水～吖干净吖再下锅。 ④ 将容器口朝下一段时间，让内部液体滴尽：你瓶里的油不曾～得干净。｜你把碗多～个盹ㄦ，把里头的蜜～吖清吖。  
-1. 【[𩆿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan.md#𩆿)】`shuan2` <sup>[泰州]</sup> 故意拖延不办理：这件事不忙同她办，先～她两天再说。｜你着急，他不急，哿有得～你啊。  
-1. 【[漺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan.md#漺)】`shuan3` <sup>[兴化]</sup> 使水往下滴：把水～干净｜～淘米水。《集韵·养韵》疏养切｜“～，净也”。  
+1. 【[𩆿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan.md#𩆿)】`shuan2` <sup>[泰州]</sup> ① 雨落的样子：这一刻ㄦ外头雨沰～～的，你等雨小啊再走。｜雨落咖大啊唻，头上～～的雨，眼睛都睁不开来。 ② 泛指液体沿着物体表面自然往下滴的样子：你望你身上噢，汗～～的，弄个手巾揩啊子。｜你慢点儿弄，刷子上漆～～的，地下弄得块块是的。 ③ 让水滴下：你菜洗过啊后，把水～吖干净吖再下锅。 ④ 将容器口朝下一段时间，让内部液体滴尽：你瓶里的油不曾～得干净。｜你把碗多～个盹ㄦ，把里头的蜜～吖清吖。 ⑤ 故意拖延不办理：这件事不忙同她办，先～她两天再说。｜你着急，他不急，哿有得～你啊。  
+1. 【[漺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan.md#漺)】`shuan3` <sup>[兴化]</sup> 使水往下滴。《集韵·养韵》疏养切，净也：把水～干净｜～淘米水  
 1. 【[漺油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_ieu.md#漺油)】`shuan3 ieu2` <sup>[如皋]</sup> ① 油慢慢滴下：香油真禁漺，漺漺二三两。 ② 喻拖延、戏弄：你不要拿住啊他～，他禁不起呀！  
 1. 【[漺浆生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_jian_shen.md#漺浆生)】`shuan3 jian1 shen1` <sup>[兴化]</sup> 指产妇待浆泡水（羊水）流完后胎儿才落生。  
 1. 【[漺脓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_non.md#漺脓)】`shuan3 non2` <sup>[如皋]</sup> 脓血慢慢滴下。  

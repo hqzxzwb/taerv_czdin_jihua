@@ -258,8 +258,8 @@
 1. 【[咧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae.md#咧)】`lae3` <sup>[如皋]</sup> 展开：～嘴；事情～开来啊。  
 1. 【[咧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae.md#咧)】`lae3` <sup>[兴化]</sup> 嘴咧开：龇牙～嘴｜嘴笑啊～开来。  
 1. 【[咧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae.md#咧)】`lae3` <sup>[泰县]</sup> 嘴大而略扁：他看到鱼，嘴就～下来。  
+1. 【[咧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae.md#咧)】`lae3` <sup>[泰州]</sup> 张开嘴巴而略扁：你望他嘴一～，笑得这屈形样子。  
 1. 【[咧嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_jy.md#咧嘴)】`lae3 jy3` <sup>[如皋]</sup> ① 嘴大。 ② 一种张嘴的动作表情。  
-1. 【[唻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae.md#唻)】`lae3` <sup>[泰州]</sup> 张开嘴巴而略扁：你望他嘴一～，笑得这屈形样子。  
 1. 【[那<sub>许</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae.md#那<sub>许</sub>)】`lae5` 那里。那许lu5 hae连读。  
 1. 【[䐯膗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_chuae.md#䐯膗)】`lae6 chuae5` <sup>[兴化]</sup> 因过肥面形体不匀称，容貌难看：谚曰：～对～，破锅腔配个齾锅盖。䐯，《广韵·皆韵》力怀切，～形恶貌。膗，仕怀切。（声调不合）  
 1. 【[䐯膗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_shae.md#䐯膗)】`lae6 shae` <sup>[如东]</sup> ① 脏：这个地方非常～。 ② 说过的话不算数，不认账，耍赖。  

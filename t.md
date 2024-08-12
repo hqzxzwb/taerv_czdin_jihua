@@ -2233,7 +2233,7 @@
 1. 【[胴宫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_gon.md#胴宫)】`ton6 gon1` <sup>[如东]</sup> 肛门：～出血。  
 1. 【[胴疘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_gon.md#胴疘)】`ton6 gon1` <sup>[如皋]</sup> 肛门上方的括约肌管道，有病时会坠出。  
 1. 【[胴疘头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_gon_teu_zz.md#胴疘头子)】`ton6 gon1 teu2 zz` <sup>[东台]</sup> 指肛门：～忑下来了，淌呃好些血。《文字集略》云｜“脱疘，下部病也。”  
-1. 【[拖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#拖)】`tu1` <sup>[泰县]</sup> 吃。  
+1. 【[拖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#拖)】`tu1` <sup>\[泰县\]\[泰州\]</sup>吃：总共就买啊二斤肉，哪块掌得住着几个小伙～。<sup>\[泰州\]</sup>｜今吖晚上老酒侭喝，肥肉侭～。<sup>\[泰州\]</sup>  
 1. 【[拖板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_baen.md#拖板)】`tu1 baen3` <sup>[如东]</sup> 农具。木制，长方形，用以压碎压平土块。  
 1. 【[拖板<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_baen_r.md#拖板<sub>儿</sub>)】`tu1 baen3 r` <sup>[如东]</sup> 鞋的一种。木制，长方形，前部有搭扣，穿着可在平地或草地上行走。  
 1. 【[拖船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_chun.md#拖船)】`tu1 chun2` <sup>[兴化]</sup> ① 拖轮。 ② 拖轮所牵引的驳船。  
@@ -2268,7 +2268,6 @@
 1. 【[拖鲜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_xin.md#拖鲜)】`tu1 xin1` <sup>[如东]</sup> 用车辆贩运海鲜。  
 1. 【[拖鲜的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_xin_dii.md#拖鲜的)】`tu1 xin1 dii` <sup>[如东]</sup> 用车辆贩运海鲜的人。  
 1. 【[拖债](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_zhae.md#拖债)】`tu1 zhae5` <sup>[兴化]</sup> 借债：刚刚当会计就叫我去～，我才不去。  
-1. 【[𠰹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#𠰹)】`tu1` <sup>[泰州]</sup> 将大块的肉搛来塞进口中：总共就买啊二斤肉，哪块掌得住着几个小伙～。｜今吖晚上老酒侭喝，肥肉侭～。  
 1. 【[坨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#坨)】`tu2` <sup>[如皋]</sup> ① 成块、成堆：泥～儿、粉～子、～粉。 ② 量词：一～糕（年糕，两块相迭）。 ③ 叠放：他把碗～啊多高。 ④ 积累：碗上的粥巴子～啊多厚。  
 1. 【[坨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#坨)】`tu2` <sup>[如东]</sup> 叠放：把袋子～啊上头。  
 1. 【[坨粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_fen.md#坨粉)】`tu2 fen3` <sup>[如东]</sup> 食品。以绿豆为原料，制成片状，圆形，软而韧。  
