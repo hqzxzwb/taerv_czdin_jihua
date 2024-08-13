@@ -1614,7 +1614,7 @@
 1. 【[铺保](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_bo.md#铺保)】`pv5 bo3` <sup>[兴化]</sup> 见“店保”。  
 1. 【[铺盖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_gae.md#铺盖)】`pv5 gae5` <sup>[如皋]</sup> 见“铺籍”。  
 1. 【[铺籍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_qieh.md#铺籍)】`pv5 qieh8` <sup>[如皋]</sup> 被、褥、帐、枕等的总称  
-1. 【[铺头前](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_teu_jin.md#铺头前)】`pv5 teu2 jin1` <sup>[东台]</sup> 床头。（“前”读若“尖”）  
+1. 【[铺头境](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_teu_jien.md#铺头境)】`pv5 teu2 jien1` <sup>[东台]</sup> 床头。  
 1. 【[伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv.md#伏)】`pv6` <sup>[如皋]</sup> ① 母鸡（禽一类）孵蛋。 ② 母鸡周期性恋巢，是孵蛋的本能。这期间发热、吃食少，成天打咕咕。约3～5天恢复正常。  
 1. 【[伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv.md#伏)】`pv6` <sup>[东台]</sup> 指禽类动物的繁育后代方式：～坊/大鸡～小鸡（母鸡伏在鸡蛋上，用体温使蛋内的胚胎发育成雏鸡）。也指用人工的方法育雏。  
 1. 【[埠口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_keu.md#埠口)】`pv6 keu3` <sup>[如东]</sup> 河边用以洗衣、洗菜的地方  

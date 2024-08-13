@@ -1697,7 +1697,7 @@
 1. 【[你生姜，我皂壳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nii_shen_jian_ngu_co_kah.md#你生姜，我皂壳)】`nii3 shen1 jian ngu3 co6 kah7` <sup>[兴化]</sup> （喻）针锋相对，各不相让：两房新妇，针头对麦芒，成天闹啊要分家。  
 1. 【[你生我强](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nii_shen_ngu_qian.md#你生我强)】`nii3 shen1 ngu3 qian2` <sup>[兴化]</sup> 各执已见，有意闹别扭：每逢开会总是～的，意见统一不起来。｜谁知外面这些科道，～的，可可的撞入他网中来。（《梼杌闲评》三二）也作“你生我犟”。  
 1. 【[你生我犟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nii_shen_ngu_qian.md#你生我犟)】`nii3 shen1 ngu3 qian6` <sup>[兴化]</sup> 见“你生我强”。  
-1. 【[你说唦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nii_shuh_seh.md#你说唦)】`nii3 shuh7 sa-seh` <sup>[东台]</sup> 在叙述某事后发出的慨叹，相对于“你看，不是吗？”：这伢儿神气，6岁就上央视，～！｜年纪大啊，记才差，上午的事下午就忘掉啊，～！  
+1. 【[你说唦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nii_shuh_sa.md#你说唦)】`nii3 shuh7 sa-seh` <sup>[东台]</sup> 在叙述某事后发出的慨叹，相对于“你看，不是吗？”：这伢儿神气，6岁就上央视，～！｜年纪大啊，记才差，上午的事下午就忘掉啊，～！  
 1. 【[拈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin.md#拈)】`nin1, nin2` <sup>[如皋]</sup> 用指尖夹取：他欢喜弄手～菜吃，不欢喜拿筷儿搛。  
 1. 【[拈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin.md#拈)】`nin1` <sup>[如东]</sup> 用两只手指拾取：把地下的棉花～起来。  
 1. 【[拈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin.md#拈)】`nin1` <sup>[泰州]</sup> 捏取物品：～阄  
