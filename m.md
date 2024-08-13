@@ -1018,7 +1018,6 @@
 1. 【[门转𨳻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_zhun_ji_r.md#门转𨳻<sub>儿</sub>)】`men2 zhun5 ji r` <sup>[如皋]</sup> 门与门窝相配的上下轴头。  
 1. 【[门子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_zz.md#门子)】`men2 zz` <sup>[兴化]</sup> ① 办法、窍门：他想提高工效，终于在模具上寻到啊～。 ② 花招、手段：你少要玩～，我俫晓得你的一套。  
 1. 【[闷睯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_huen.md#闷睯)】`men5 huen` <sup>[如皋]</sup> 受了气，心中觉得窝囊、烦燥。也说“暋闷”。  
-1. 【[闷睯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_huen.md#闷睯)】`men5 huen` <sup>[如皋]</sup> 气恼，发闷。  
 1. 【[闷闷<sub>儿</sub>水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_men_r_shuei.md#闷闷<sub>儿</sub>水)】`men5 men5 r shuei3` <sup>[如皋]</sup> 初学游水者，在浅水区伏于水面不抬头，一口气游完即止。  
 1. 【[闷人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_ren_zz.md#闷人子)】`men5 ren zz` <sup>[如皋]</sup> 气闷感。  
 1. 【[闷头户<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_teu_hv_r.md#闷头户<sub>儿</sub>)】`men5 teu2 hv6 r` <sup>[如皋]</sup> 见“闷头子”。  

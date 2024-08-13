@@ -985,7 +985,7 @@
 1. 【[煨秧亩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_ian_mu.md#煨秧亩)】`vei1 ian1 mu3` <sup>[东台]</sup> （民俗）正月半（元宵节）下午，用草在秧亩里烟熏，以熏死虫卵求丰年。  
 1. 【[煨汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_tan.md#煨汤)】`vei1 tan1` <sup>[兴化]</sup> 一种烹调方法，用微火慢慢地煮，将汤汁煮得很稠：老母鸡～。  
 1. 【[萎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei.md#萎)】`vei1` <sup>[东台]</sup> 疲倦，累：把你忙吖～啊。（“萎”读若“威”）。  
-1. 【[萎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei.md#萎)】`vei1` <sup>[兴化]</sup> 疲乏：他忙吖一天，刚晚就～下来啊。《集韵·贿韵》乌贿切｜“～，萎脮，软弱也。”  
+1. 【[萎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei.md#萎)】`vei1` <sup>[兴化]</sup> 疲乏：他忙吖一天，刚晚就～下来啊。  
 1. 【[萎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei.md#萎)】`vei1` <sup>[泰县]</sup> ① 疲劳：今吖他挑啊一天的泥，～煞咖。 ② 捧、托，添：～毛窝。  
 1. 【[萎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei.md#萎)】`vei1` <sup>[泰州]</sup> 疲惫，疲劳：你俫挑啊～啊，就歇咖子。｜爬啊一天的山，人～煞咖，夜饭一吃就上吖铺。｜你一天说到晚，嘴哿～啊？  
 1. 【[萎睏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_kuen.md#萎睏)】`vei1 kuen5` <sup>[兴化]</sup> 过度疲劳：他做啊一天重活技，吃夜饭的时候一阵～，筷子一放就睡着咖。  
@@ -1035,7 +1035,7 @@
 1. 【[围裙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_qyen.md#围裙)】`vei2 qyen2` <sup>[东台]</sup> 阔幅裙，交叉用带子围在身上。旧时女性穿戴居多。  
 1. 【[围网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_van.md#围网)】`vei2 van3` <sup>[兴化]</sup> ① 在河湖中，用网围起的一片水域：～养鱼。 ② 一种捕鱼方法，也称“拉大网”。  
 1. 【[围子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_zz.md#围子)】`vei2 zz` <sup>[泰县]</sup> 敌人的据点。  
-1. 【[圩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei.md#圩)】`vei2` <sup>[东台]</sup> 范公堤堤西阻挡洪水的堤坝，如：太平～｜三角～。  
+1. 【[圩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei.md#圩)】`vei2` <sup>[东台]</sup> 范公堤堤西阻挡洪水的堤坝：太平～｜三角～。  
 1. 【[圩里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_li.md#圩里)】`vei2 li3` <sup>[兴化]</sup> ① 在圩堤围护的范围以内。 ② 特指兴化东北乡，老圩、中圩、永丰、合塔等圩的～：～地区。  
 1. 【[圩南](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_nun.md#圩南)】`vei2 nun2` <sup>[兴化]</sup> 指兴化蚌蜓圩（大象圩）以南地区。  
 1. 【[圩岸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_un.md#圩岸)】`vei2 un6` <sup>[兴化]</sup> ① 指圩堤的顶部和两侧的青坎。 ② 地名，为兴化西郊的一个村庄。  
@@ -1070,7 +1070,7 @@
 1. 【[尾子汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_zz_tan.md#尾子汤)】`vei3 zz tan1` <sup>[兴化]</sup> 饭店里煮肉的汤，洒一点蒜花和盐之类，免费供顾客下饭。  
 1. 【[尾子账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_zz_zhan.md#尾子账)】`vei3 zz zhan5` <sup>[兴化]</sup> ① 剩下的数额不多的往来账目：抽空去把几笔～收下子。 ② （喻）未了情：啊呀，不好！我跟曹操还有这么一件～没有勾掉呢！（《火烧赤壁》九）  
 1. 【[痿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei.md#痿)】`vei3` <sup>[如东]</sup> ① 没有精神：他现在～啊。 ② 疲劳：忙吖一天，现在～啊。  
-1. 【[痿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei.md#痿)】`vei3` <sup>[东台]</sup> 身体某部分机能萎缩或失去机能。如：阳痿。  
+1. 【[痿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei.md#痿)】`vei3` <sup>[东台]</sup> 身体某部分机能萎缩或失去机能：阳～  
 1. 【[痿头耷脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_teu_dah_no.md#痿头耷脑)】`vei3 teu2 dah7 no3` <sup>[如东]</sup> 无精打采的样子：张明明～的，走路都没有精神。  
 1. 【[苇篾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_mih_zz.md#苇篾子)】`vei3 mih8 zz` <sup>[东台]</sup> 用芦苇扯开的苇丝，可以编织粗席。又称柴篾子。  
 1. 【[苇箔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_pah.md#苇箔)】`vei3 pah8` <sup>[东台]</sup> 用芦苇编织的席子。  
