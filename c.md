@@ -2686,6 +2686,7 @@
 1. 【[撺得动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_deh_ton.md#撺得动)】`cun5 deh ton6` <sup>[如皋]</sup> 有能力临时筹集钱财。  
 1. 【[窜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun.md#窜)】`cun5` <sup>[东台]</sup> 快速前进：他一～的下子，不晓得跑啊哪许去啊。  
 1. 【[窜风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_fon.md#窜风)】`cun5 fon1` <sup>[如东]</sup> 风向内里吹：不把裤管儿扎紧，容易～。  
+1. 【[窜风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_fon.md#窜风)】`cun5 fon1` <sup>[兴化]</sup> 过风、通风：这个过道子～，夏天凉快，冬天冷。  
 1. 【[窜骨疽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_gueh_jy.md#窜骨疽)】`cun5 gueh7 jy1` <sup>[如东]</sup> 中医指局部肌肉组织肿胀坚硬而皮色不变的毒疮。  
 1. 【[窜毫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_ho.md#窜毫)】`cun5 ho2` <sup>[如皋]</sup> 见“窜白”。  
 1. 【[窜蕻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_hon_r.md#窜蕻<sub>儿</sub>)】`cun5 hon6 r` <sup>[如东]</sup> 青菜等植物抽出的薹：大头菜～。  
