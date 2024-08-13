@@ -2127,7 +2127,6 @@
 1. 【[串](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun.md#串)】`chun5` <sup>[东台]</sup> 多个同类东西连贯在一起：一～钥匙。  
 1. 【[串](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun.md#串)】`chun5` <sup>[兴化]</sup> 旧时缴纳田赋的收据：造～｜粮～  
 1. 【[串场河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_chan_hu.md#串场河)】`chun5 chan2 hu2` <sup>[东台]</sup> 为海安、东台、盐城、阜宁一条线干河，是取土堆筑范公堤而成的河道。南起海安徐家坝，上接通扬运河之水，北至阜宁（庙湾）与射阳河沟通，全长420里。在东台境内86里，流经富安、安丰、梁垛、东台，从丁溪（草堰）入大丰境。因串连各盐场及周边河流颇多，故名～。  
-1. 【[串巷风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_han_fon.md#串巷风)】`chun5 han6 fon1` <sup>[兴化]</sup> 狭小巷道由于空气对流而产生的凉风。  
 1. 【[串楼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_leu.md#串楼)】`chun5 leu2` <sup>[泰县]</sup> 砌楼房。  
 1. 【[串忙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_man.md#串忙)】`chun5 man2` <sup>[兴化]</sup> 帮忙。见“撮忙”。  
 1. 【[串子绳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_zz_shen.md#串子绳)】`chun5 zz shen2` <sup>[泰兴]</sup> 很细的草绳。  
@@ -2687,6 +2686,7 @@
 1. 【[窜风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_fon.md#窜风)】`cun5 fon1` <sup>[如东]</sup> 风向内里吹：不把裤管儿扎紧，容易～。  
 1. 【[窜风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_fon.md#窜风)】`cun5 fon1` <sup>[兴化]</sup> 过风、通风：这个过道子～，夏天凉快，冬天冷。  
 1. 【[窜骨疽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_gueh_jy.md#窜骨疽)】`cun5 gueh7 jy1` <sup>[如东]</sup> 中医指局部肌肉组织肿胀坚硬而皮色不变的毒疮。  
+1. 【[窜巷风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_han_fon.md#窜巷风)】`cun5 han6 fon1` <sup>[兴化]</sup> 狭小巷道由于空气对流而产生的凉风。  
 1. 【[窜毫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_ho.md#窜毫)】`cun5 ho2` <sup>[如皋]</sup> 见“窜白”。  
 1. 【[窜蕻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_hon_r.md#窜蕻<sub>儿</sub>)】`cun5 hon6 r` <sup>[如东]</sup> 青菜等植物抽出的薹：大头菜～。  
 1. 【[窜火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_hu.md#窜火)】`cun5 hu3` <sup>[东台]</sup> 火苗冲出：这个炉膛～大，汤罐里的水都带啊热咖。  
