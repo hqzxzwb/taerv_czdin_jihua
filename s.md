@@ -1504,7 +1504,7 @@
 1. 【[生成的眉毛，长成的骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_chen_dii_mi_mo_zhan_chen_dii_gueh.md#生成的眉毛，长成的骨)】`shen1 chen2 dii mi2 mo zhan3 chen2 dii gueh7` <sup>[如皋]</sup> 天生本性难以改变。  
 1. 【[生成皮毛长成骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_chen_pi_mo_zhan_chen_gueh.md#生成皮毛长成骨)】`shen1 chen2 pi2 mo2 zhan3 chen2 gueh7` <sup>[东台]</sup> ［喻］指坏东西已经发展成形，难以改变或根除。  
 1. 【[生臭熟香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_cheu_shoh_xian.md#生臭熟香)】`shen1 cheu5 shoh8 xian1` <sup>[东台]</sup> 臭豆腐干之类的食品，闻起来臭，烹调后就香了。  
-1. 【[生臭熟香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_cheu_shoh_xian.md#生臭熟香)】`shen1 cheu5 shoh8 xian1` <sup>[兴化]</sup> ① 某些发酵变臭的食品做熟后有一种特殊“香味”，如：臭豆陶干、苋菜情等。 ② （讽）不讲卫生的借口。  
+1. 【[生臭熟香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_cheu_shoh_xian.md#生臭熟香)】`shen1 cheu5 shoh8 xian1` <sup>[兴化]</sup> ① 某些发酵变臭的食品做熟后有一种特殊“香味”，如臭豆腐干、苋菜梗等。 ② （讽）不讲卫生的借口。  
 1. 【[生疵从](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_cz_con.md#生疵从)】`shen1 cz2 con2` <sup>[如东]</sup> 制造借口：不要～。  
 1. 【[生旦净末丑，酸甜苦辣咸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_daen_qien_muh_cheu_sun_tin_kv_laeh_haen.md#生旦净末丑，酸甜苦辣咸)】`shen1 daen5 qien6 muh8 cheu3 sun1 tin2 kv3 laeh8 haen2` <sup>[东台]</sup> 世上有各种角色，人生尝到各种滋味。  
 1. 【[生的不打熟的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_dii_beh_da_shoh_dii.md#生的不打熟的)】`shen1 dii beh7 da3 shoh8 dii` <sup>[如皋]</sup> 虽见过，未相处过，不熟悉。  
@@ -3656,7 +3656,7 @@
 1. 【[酥瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_gua.md#酥瓜)】`sv1 gua1` <sup>[兴化]</sup> 甜瓜的一种，果实长筒形，皮深绿色，瓠果肉甜多汁，可生食解渴。  
 1. 【[酥饺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_jio.md#酥饺)】`sv1 jio3` <sup>[如皋]</sup> 一种茶食。饺皮擦油酥擀制。油炸。  
 1. 【[酥卷<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_jiun_r.md#酥卷<sub>儿</sub>)】`sv1 jiun3 r` <sup>[如皋]</sup> 酥脆的卷状茶食。  
-1. 【[酥糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_tan.md#酥糖)】`sv1 tan2` <sup>[如皋]</sup> 酥松可口的糖果，如：花生酥、董糖。  
+1. 【[酥糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_tan.md#酥糖)】`sv1 tan2` <sup>[如皋]</sup> 酥松可口的糖果，如花生酥、董糖。  
 1. 【[𣩷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv.md#𣩷)】`sv1` <sup>[如皋]</sup> 朽坏：桌子脚～啊，一掐一块屑子。  
 1. 【[𣩷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv.md#𣩷)】`sv1` <sup>[兴化]</sup> 朽、烂：这块砖头浸吖水里一冻全～啊。这块木头已经烂吖泛～啊。《集韵·模韵》孙租切｜“～，烂也。”  
 1. 【[𣩷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv.md#𣩷)】`sv1` <sup>[泰州]</sup> 器物松软而不坚固：岁数大啊唻，骨头发咖～，走路一跌就骨折。｜这个房子年代久啊，砖头子都～啊，一碰就灰忑忑的。  

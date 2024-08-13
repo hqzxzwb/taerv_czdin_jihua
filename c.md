@@ -473,7 +473,7 @@
 1. 【[扯野<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ia_r.md#扯野<sub>儿</sub>)】`cha3 ia3 r` <sup>[如皋]</sup> ① 岔开。借故：他～去解手，遛之大吉。 ② 分散注意力：他做事不专心，光是要～；你同他～，省得他心焦。  
 1. 【[扯野<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ia_r.md#扯野<sub>儿</sub>)】`cha3 ia3 r` <sup>[东台]</sup> 暂停正经事，引出另外的话题调节或休闲一下：你俫忙你俫的，我谈这些不过是～。  
 1. 【[扯野<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ia_r.md#扯野<sub>儿</sub>)】`cha3 ia3 r` <sup>[兴化]</sup> 闲聊。  
-1. 【[扯野<sub>儿</sub>摸鼻子的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ia_r_mah_pieh_zz_dii.md#扯野<sub>儿</sub>摸鼻子的)】`cha3 ia3 r mah8 pieh8 zz dii` <sup>[如皋]</sup> ① 一种交际、交谈手段——渐渐引入主题。如：《触龙说赵太后》。 ② 借故去接近、交往：他～同人家谈家常，谈谈就熟识起来啊。见“倚砟儿”条。  
+1. 【[扯野<sub>儿</sub>摸鼻子的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ia_r_mah_pieh_zz_dii.md#扯野<sub>儿</sub>摸鼻子的)】`cha3 ia3 r mah8 pieh8 zz dii` <sup>[如皋]</sup> ① 一种交际、交谈手段——渐渐引入主题。如《触龙说赵太后》。 ② 借故去接近、交往：他～同人家谈家常，谈谈就熟识起来啊。见“倚砟儿”条。  
 1. 【[扯吆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_io_r.md#扯吆<sub>儿</sub>)】`cha3 io1 r` <sup>[如皋]</sup> 空竹。本地用两段竹筒制成哑铃形，刻有哨口，高速扯发出嗡嗡声。是体育、娱乐、杂技用具。  
 1. 【[扯鸡扽炮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ji_den_po.md#扯鸡扽炮)】`cha3 ji1 den5 po5` <sup>[兴化]</sup> 夸大其词：老沈买彩票得十元小奖，有人～说成十万。  
 1. 【[扯浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_jian.md#扯浆)】`cha3 jian1` <sup>[如皋]</sup> 做豆腐或淀粉坨子的过程中，扯动布兜，让浆汁或废水从布眼中泄出。  
@@ -2743,7 +2743,7 @@
 1. 【[醋糟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cv_zo.md#醋糟)】`cv5 zo1` <sup>[如东]</sup> 用米、麦、高粱等酿醋后所剩的残渣。  
 1. 【[呲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz.md#呲)】`cz1` <sup>[如皋]</sup> 象声词。  
 1. 【[呲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz.md#呲)】`cz1` <sup>[兴化]</sup> 鹅、鸭等扁嘴禽类啄食谓～：鹅会～人；鸭子～食。  
-1. 【[呲𠺟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_kv.md#呲𠺟)】`cz1 kv` <sup>[如皋]</sup> 象声词。如：笑声、连鞋涉水声。  
+1. 【[呲𠺟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_kv.md#呲𠺟)】`cz1 kv` <sup>[如皋]</sup> 象声词。如笑声、连鞋涉水声。  
 1. 【[呲𠺟呲𠺟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_kv_cz_kv.md#呲𠺟呲𠺟)】`cz1 kv cz1 kv` <sup>[如皋]</sup> 见“呲𠺟”。  
 1. 【[呲里不剌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_lii_beh_laeh.md#呲里不剌)】`cz1 lii beh7 laeh8` <sup>[兴化]</sup> 形容烫人：烫得～的。“不剌”元曲中常见之，是一种衬字，多用在词后，有加强语气的作用。  
 1. 【[雌黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_huan.md#雌黄)】`cz1 huan2` <sup>[东台]</sup> 原指矿物质，橙黄色，可做原料，古时用来涂改文字：信口～（指乱加评论。）  

@@ -180,7 +180,7 @@
 1. 【[五光十色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_guan_sheh_seh.md#五光十色)】`v3 guan1 sheh8 seh7` <sup>[如东]</sup> 非常光彩。  
 1. 【[五鬼星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_guei_xien.md#五鬼星)】`v3 guei3 xien1` <sup>[东台]</sup> 指春夏秋冬四季之瘟及总管中瘟五个瘟神，后来人们用来喻指扰乱秩序影响稳定的人。  
 1. 【[五官](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_gun.md#五官)】`v3 gun1` <sup>[如东]</sup> 耳、目、口、鼻、身。也指面部器官。  
-1. 【[五红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_hon.md#五红)】`v3 hon2` <sup>[如皋]</sup> 指端午节专用之菜有五样红色的菜肴（另有五绿、五黄同为端午菜肴）。如：红烧肉、红萝卜、苋菜、火腿、虾等。  
+1. 【[五红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_hon.md#五红)】`v3 hon2` <sup>[如皋]</sup> 指端午节专用之菜有五样红色的菜肴（另有五绿、五黄同为端午菜肴）。如红烧肉、红萝卜、苋菜、火腿、虾等。  
 1. 【[五红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_hon.md#五红)】`v3 hon2` <sup>[东台]</sup> （民俗）端午节午餐中的红萝卜、盐水虾、红苋菜、咸鸭蛋、红烧鱼，也可加上红烧肉、西红柿等红色食品任选五样。据说吃五红可去“五毒”。  
 1. 【[五红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_hon.md#五红)】`v3 hon2` <sup>[兴化]</sup> 民俗端午节的午餐中要有炒虾、红烧肉、红煮鱼、苋菜、咸鸭蛋或红萝卜等五祥红色的菜肴。  
 1. 【[五花肠子六花心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_hua_chan_zz.md#五花肠子六花心)】`v3 hua chan2 zz loh8 hua xien1` <sup>[兴化]</sup> 形容三心二意或心怀邪念：“……你要仔细些，不要～似的……”（《广陵潮》三四）  
@@ -190,9 +190,9 @@
 1. 【[五花肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_hua_roh.md#五花肉)】`v3 hua1 roh8` <sup>[如东]</sup> 肥瘦相间的猪肉，称五花肉。  
 1. 【[五花肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_hua_roh.md#五花肉)】`v3 hua1 roh8` <sup>[兴化]</sup> 接近猪腹部肥瘦相间的肉。  
 1. 【[五花肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_hua_roh.md#五花肉)】`v3 hua1 roh8` <sup>[泰县]</sup> 肥瘦相间的猪肉。  
-1. 【[五黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_huan.md#五黄)】`v3 huan2` <sup>[如皋]</sup> 如：黄鱼、黄鳝、炒蛋、黄酒（雄黄）、咸鸭蛋（切开）等。  
+1. 【[五黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_huan.md#五黄)】`v3 huan2` <sup>[如皋]</sup> 黄鱼、黄鳝、炒蛋、黄酒（雄黄）、咸鸭蛋（切开）等。  
 1. 【[五合板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_huh_baen.md#五合板)】`v3 huh8 baen3` <sup>[兴化]</sup> 见“五夹板”。  
-1. 【[五洋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_ian.md#五洋)】`v3 ian2` <sup>[如皋]</sup> 本指洋火（火柴）、洋油（煤油）、洋碱（肥皂）、洋烛（蜡烛）、洋钉（元钉）。后演为多种洋货和仿制品。如：洋瓷、洋伞、套鞋、洋袜等。  
+1. 【[五洋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_ian.md#五洋)】`v3 ian2` <sup>[如皋]</sup> 本指洋火（火柴）、洋油（煤油）、洋碱（肥皂）、洋烛（蜡烛）、洋钉（元钉）。后演为多种洋货和仿制品。如洋瓷、洋伞、套鞋、洋袜等。  
 1. 【[五洋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_ian.md#五洋)】`v3 ian2` <sup>[兴化]</sup> 旧指洋油（煤油）、洋火（火柴）、洋碱（肥皂）、洋烟（香烟）、洋蜡烛（矿烛）等早期进口品。而经营这些商品的店铺谓之“～店”，贩运这类商品谓之“跑～”。  
 1. 【[五洋店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_ian_din.md#五洋店)】`v3 ian2 din5` <sup>[如皋]</sup> 卖洋货的店铺。  
 1. 【[五洋四海的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_ian_sz_hae_dii.md#五洋四海的)】`v3 ian2 sz5 hae3 dii` <sup>[东台]</sup> 没有任何限制，无边无际：这个伢儿太野，一天到晚～的乱跑。  
@@ -217,7 +217,7 @@
 1. 【[五流稀散](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_lieu_xi_saen.md#五流稀散)】`v3 lieu2 xi1 saen5` <sup>[兴化]</sup> 原在一起的人们分散在各方：当年的老同学早就～吖。也说“五零四散”。  
 1. 【[五绺胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_lieu_hv_zz.md#五绺胡子)】`v3 lieu3 hv2 zz` <sup>[如皋]</sup> 胡子、髭、鬚、双鬓分绺下垂。如关羽、天官像。  
 1. 【[五里稀散](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_lii_xi_saen.md#五里稀散)】`v3 lii xi1 saen5` <sup>[如皋]</sup> 乱糟糟的四散开来。  
-1. 【[五绿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_loh.md#五绿)】`v3 loh8` <sup>[如皋]</sup> 如：蒲芹、绿豆粉皮、青菜、青椒、青豆、兰花瓣儿等。  
+1. 【[五绿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_loh.md#五绿)】`v3 loh8` <sup>[如皋]</sup> 蒲芹、绿豆粉皮、青菜、青椒、青豆、兰花瓣儿等。  
 1. 【[五路财神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_lv_cae_shen.md#五路财神)】`v3 lv6 cae2 shen2` <sup>[如皋]</sup> 如皋北门外五神庙中供奉的五位瘟神，又称五路财神。正月十七财神节，是此庙的庙会。  
 1. 【[五路口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_lv_keu.md#五路口)】`v3 lv6 keu3` <sup>[如皋]</sup> ① 五个方向路的汇合处。 ② 地名，在如皋邓园乡鹿门村。  
 1. 【[五忙六月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_man_loh_iuh.md#五忙六月)】`v3 man2 loh8 iuh8` <sup>[兴化]</sup> 指农村夏收夏插的大忙期间。  

@@ -687,7 +687,7 @@
 1. 【[酱笼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_lon_r.md#酱笼<sub>儿</sub>)】`jian5 lon2 r` <sup>[如皋]</sup> 插在酱缸中的长篾篓，用以取乳油、浸制酱菜。  
 1. 【[酱色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_seh.md#酱色)】`jian5 seh7` <sup>[如皋]</sup> 用糖稀熬成的浓液，旧时煮红烧肉用作色素。后发现含毒素，已禁用。  
 1. 【[酱味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_vei.md#酱味)】`jian5 vei6` <sup>[如皋]</sup> 生酱的气味。  
-1. 【[酱小菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_xio_cae.md#酱小菜)】`jian5 xio3 cae` <sup>[兴化]</sup> 用酱或酱油腌制的蔬菜。如：生姜、萝卜、大头菜、十花菜等等。  
+1. 【[酱小菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_xio_cae.md#酱小菜)】`jian5 xio3 cae` <sup>[兴化]</sup> 用酱或酱油腌制的蔬菜。如生姜、萝卜、大头菜、十花菜等等。  
 1. 【[酱渣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_zha_r.md#酱渣<sub>儿</sub>)】`jian5 zha1 r` <sup>[如皋]</sup> 豆酱榨尽酱油后的残渣，可喂猪。  
 1. 【[降](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian.md#降)】`jian5` <sup>[如皋]</sup> 地名通名：冒家～，村，在如皋郭园乡。  
 1. 【[降价](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_jia.md#降价)】`jian5 jia5` <sup>[如东]</sup> 商品价格下跌：今天黄鱼降吖价。  
