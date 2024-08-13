@@ -2127,7 +2127,6 @@
 1. 【[串](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun.md#串)】`chun5` <sup>[东台]</sup> 多个同类东西连贯在一起：一～钥匙。  
 1. 【[串](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun.md#串)】`chun5` <sup>[兴化]</sup> 旧时缴纳田赋的收据：造～｜粮～  
 1. 【[串场河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_chan_hu.md#串场河)】`chun5 chan2 hu2` <sup>[东台]</sup> 为海安、东台、盐城、阜宁一条线干河，是取土堆筑范公堤而成的河道。南起海安徐家坝，上接通扬运河之水，北至阜宁（庙湾）与射阳河沟通，全长420里。在东台境内86里，流经富安、安丰、梁垛、东台，从丁溪（草堰）入大丰境。因串连各盐场及周边河流颇多，故名～。  
-1. 【[串风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_fon.md#串风)】`chun5 fon1` <sup>[兴化]</sup> 过风、通风：这个过道子～，夏天凉快，冬天冷。  
 1. 【[串巷风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_han_fon.md#串巷风)】`chun5 han6 fon1` <sup>[兴化]</sup> 狭小巷道由于空气对流而产生的凉风。  
 1. 【[串楼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_leu.md#串楼)】`chun5 leu2` <sup>[泰县]</sup> 砌楼房。  
 1. 【[串忙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_man.md#串忙)】`chun5 man2` <sup>[兴化]</sup> 帮忙。见“撮忙”。  
