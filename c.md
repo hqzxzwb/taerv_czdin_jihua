@@ -2128,7 +2128,6 @@
 1. 【[串](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun.md#串)】`chun5` <sup>[兴化]</sup> 旧时缴纳田赋的收据：造～｜粮～  
 1. 【[串场河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_chan_hu.md#串场河)】`chun5 chan2 hu2` <sup>[东台]</sup> 为海安、东台、盐城、阜宁一条线干河，是取土堆筑范公堤而成的河道。南起海安徐家坝，上接通扬运河之水，北至阜宁（庙湾）与射阳河沟通，全长420里。在东台境内86里，流经富安、安丰、梁垛、东台，从丁溪（草堰）入大丰境。因串连各盐场及周边河流颇多，故名～。  
 1. 【[串楼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_leu.md#串楼)】`chun5 leu2` <sup>[泰县]</sup> 砌楼房。  
-1. 【[串忙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_man.md#串忙)】`chun5 man2` <sup>[兴化]</sup> 帮忙。见“撮忙”。  
 1. 【[串子绳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_zz_shen.md#串子绳)】`chun5 zz shen2` <sup>[泰兴]</sup> 很细的草绳。  
 1. 【[串子绳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_zz_shen_r.md#串子绳<sub>儿</sub>)】`chun5 zz shen2 r` <sup>[如皋]</sup> 用茅草搓的绳，旧时用以串铜钱，故名。以后用来作小商品包扎。  
 1. 【[川头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_teu.md#川头)】`chun5 teu` <sup>[泰县]</sup> ① 故事结构：这出戏～不丑。 ② 转借。  
@@ -2691,6 +2690,7 @@
 1. 【[窜蕻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_hon_r.md#窜蕻<sub>儿</sub>)】`cun5 hon6 r` <sup>[如东]</sup> 青菜等植物抽出的薹：大头菜～。  
 1. 【[窜火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_hu.md#窜火)】`cun5 hu3` <sup>[东台]</sup> 火苗冲出：这个炉膛～大，汤罐里的水都带啊热咖。  
 1. 【[窜开来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_kae_lae.md#窜开来)】`cun5 kae1 lae` <sup>[东台]</sup> 有意错开，避免同时、整齐划一：我俫几人～去打球。  
+1. 【[窜忙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_man.md#窜忙)】`cun5 man2` <sup>[兴化]</sup> 帮忙。见“撮忙”。  
 1. 【[窜白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_poh.md#窜白)】`cun5 poh8` <sup>[如皋]</sup> 黎明时分，一绺微光冲破黑暗窜向天空。  
 1. 【[窜上落下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_shan_lah_ha.md#窜上落下)】`cun5 shan6 lah8 ha6` <sup>[东台]</sup> 上蹿下跳，四处活动：他～为的哪桩，还不是想多结交几个朋友帮他做事？  
 1. 【[窜掉啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_tio_a.md#窜掉啊)】`cun5 tio a` <sup>[东台]</sup> 搞错了或被换掉了：招工名单～｜两人的包裹～。  
