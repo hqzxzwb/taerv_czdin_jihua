@@ -211,14 +211,13 @@ def write_index(dirs, examples):
 
 def parse_cz_ien(f, out):
     io = open(f, encoding="U8")
-    io.readline()
     while True:
         line = io.readline().rstrip('\n')
         if not line:
             break
         split = line.split(',')
-        cz = split[2]
-        ien = (split[3] + split[4] + split[5]).replace('vv', 'v').rstrip('0')
+        cz = split[1]
+        ien = (split[2] + split[3] + split[4]).replace('vv', 'v').rstrip('0')
 
         # 单音化
         ien_filter = FILTERED_OUT_IEN.get(cz)
