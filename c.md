@@ -1515,6 +1515,7 @@
 1. 【[𩞉食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_sheh.md#𩞉食)】`chon2 sheh8` <sup>[如皋]</sup> ① 前食未消化，后食又进，腹涨难受。伤脾胃。 ② 见“奀食”。  
 1. 【[𩞉食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_sheh.md#𩞉食)】`chon2 sheh8` <sup>[兴化]</sup> 因食之过饱，引起胃部不适。𩞉，《集韵·东韵》鉏弓切，𩞉馋贪食。  
 1. 【[宠相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_xian.md#宠相)】`chon3 xian5` <sup>[泰县]</sup> 人的外表：这个人～不错。  
+1. 【[䟲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon.md#䟲)】`chon5` ① <sup>\[如皋\]</sup>喻白送：出～（打牌术语：送给别人成了）<sup>\[如皋\]</sup>｜买呀～掉啊。<sup>\[如皋\]</sup> ② <sup>\[泰县\]\[泰州\]</sup>扒窃：钱被～去啊啦。<sup>\[泰县\]</sup>｜就是适才同你寻统手的辰光，我一时忘却锁门，不意竟被他乘空～了一只枕箱去。（《冷眼观》）<sup>\[泰州\]</sup>｜就在我们船主面前扯了一个大谎，说是有几百块洋钱，在本船上遇铳手～去了，请船主喊买办来替他查查看。（《冷眼观》）<sup>\[泰州\]</sup>｜她身上的钱包在火车站捱小偷～吖走啊。<sup>\[泰州\]</sup>  
 1. 【[冲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon.md#冲)】`chon5` <sup>[如东]</sup> 用言语訩人：你不要～人。  
 1. 【[冲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon.md#冲)】`chon5` <sup>[如皋]</sup> ① 刺激：酒气～人子。 ② 愤激而不冷静：一～之性。如皋词典写上声。  
 1. 【[冲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon.md#冲)】`chon5` <sup>[如皋]</sup> 以言触人：一个喷嚏把他～吖多远。  
@@ -1529,8 +1530,6 @@
 1. 【[冲头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_teu.md#冲头)】`chon5 teu2` <sup>[如皋]</sup> 气味刺激头脑而不适或玄晕。  
 1. 【[冲头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_teu.md#冲头)】`chon5 teu2` <sup>[兴化]</sup> 过头：这个房价出咖～，其实不值这吖多钱。  
 1. 【[冲凹<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_va_r.md#冲凹<sub>儿</sub>)】`chon5 va5 r` <sup>[泰县]</sup> 背心。  
-1. 【[憃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon.md#憃)】`chon5` <sup>[如皋]</sup> 喻白送：出～（打牌术语：送给别人成了）｜买呀～掉啊。  
-1. 【[憃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon.md#憃)】`chon5` <sup>[泰县]</sup> 输：钱被～去啊啦。  
 1. 【[諥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon.md#諥)】`chon5` <sup>[泰州]</sup> ① 大声训斥：这小伙说话不上路子，老李同他不曾客气，～韵得他没得口开。｜大人在这块说话，你伢儿岔甚的话，你哿是讨～吖？ ② 说话态度生硬并且声音很大：人家好好的问你事情，你说话怎吖这吖～。｜这户儿是个肉头，说话～吖不得命，你不要睬他！  
 1. 【[蹱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon.md#蹱)】`chon5` <sup>[如皋]</sup> 步态不稳：跌跌～。  
 1. 【[蹱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon.md#蹱)】`chon5` <sup>[东台]</sup> 走路重心不稳：他腿子有病，跑路～吖～的。  
@@ -1538,7 +1537,6 @@
 1. 【[蹱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon.md#蹱)】`chon5` <sup>[兴化]</sup> ① 形容幼儿学步的样子：小家伙学走路一～一～的。 ② （借）老者步履蹒跚的情态。兴化词典作“𧼙”：他还不到七十岁，走起路来倒一～一～的啦。  
 1. 【[蹱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon.md#蹱)】`chon5` <sup>[泰州]</sup> ① 《广韵》丑用切 ② 小儿初学走路，前行脚步刹不住的样子：这细小伙才学咖走路，跑得一～一～的。｜小丫头会跑唻，走得～～的。 ③ 泛指脚步不稳样子：大郊勉强扶他上了驴，用手搀着他走路，杨化骑一步，～一～，几番要颠下来。”（《拍案惊奇》）｜他酒喝咖多啊，走路～～的，你上去搀住他走。 ④ 身体略带前倾疾走：师父做了驸马，到宫中与皇帝的女儿交欢，又不是爬山～路，遇怪逢魔，要你保护他怎的！”（《西游记》）｜你忙的甚的事，只顾啊自己个人往前～，你哿能稍微慢点儿，等住大家一起走。 ⑤ 人向前疾走时，脚下为障碍物所绊跌倒：他只顾啊前头，不曾留神脚底下，踵吖个大跟头。  
 1. 【[蹱痴蹱痴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_chr_chon_chr_dii.md#蹱痴蹱痴的)】`chon5 chr1 chon5 chr1 dii` <sup>[东台]</sup> 呆头呆脑的。  
-1. 【[铳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon.md#铳)】`chon5` <sup>[泰州]</sup> 扒窃：就是适才同你寻统手的辰光，我一时忘却锁门，不意竟被他乘空～了一只枕箱去。（《冷眼观》）｜就在我们船主面前扯了一个大谎，说是有几百块洋钱，在本船上遇铳手～去了，请船主喊买办来替他查查看。（《冷眼观》）｜她身上的钱包在火车站捱小偷～吖走啊。  
 1. 【[铳眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_ngaen_r.md#铳眼<sub>儿</sub>)】`chon5 ngaen3 r` <sup>[如皋]</sup> 喻枪决。  
 1. 【[铳人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_ren.md#铳人)】`chon5 ren2` <sup>[兴化]</sup> 旧称枪毙人：现在不兴杀头了，枪毙犯人——当地叫作～……（汪曾祺《昙花·鹤和鬼火》）  
 1. 【[铳人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_ren.md#铳人)】`chon5 ren2` <sup>[泰县]</sup> 枪毙人。  
