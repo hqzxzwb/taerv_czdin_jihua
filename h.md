@@ -2380,13 +2380,22 @@
 1. 【[魂吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_nga.md#魂吖)】`huen2 nga` <sup>[泰县]</sup> 丧魂落魄：证据朝他面前一摆，他就～。  
 1. 【[魂魄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_poh.md#魂魄)】`huen2 poh7` <sup>[如东]</sup> 中医认为，魂是人体肝的神明，主理性，魄是人体肺的神明，主本能。魂魄之间相生相克。现代把魂引申为人的生命、一种脱离物质的精神，称灵魂。比喻一个组织、一种运动、一次会议的核心思想。魄引申为一种气量。  
 1. 【[混笼统](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_lon_ton.md#混笼统)】`huen3 lon2 ton3` <sup>[兴化]</sup> 形容含糊不清：你这些开支～子，最后怎吖结算？  
+1. 【[混混<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_huen_r.md#混混<sub>儿</sub>)】`huen5 huen r` <sup>[兴化]</sup> 游手好闲的青皮无赖。也叫“混混子”。  
 1. 【[混脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_jiah.md#混脚)】`huen5 jiah7` <sup>[如皋]</sup> 见“混子”。  
+1. 【[混脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_jiah_r.md#混脚<sub>儿</sub>)】`huen5 jiah7 r` <sup>[兴化]</sup> 在外混世的人：他是～，跟在头头后边三年不到，由临时工混上副总。  
 1. 【[混来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_lae.md#混来)】`huen5 lae2` <sup>[如东]</sup> 蛮干，乱干。  
+1. 【[混赖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_lae.md#混赖)】`huen5 lae6` <sup>[兴化]</sup> ① 抵赖：他明明借啊王二的钱，到期不还想～。 ② 骗取、冒认：才把解珍、解宝押到厅前，不由分说，捆翻便打，定要他两个招做“～大虫……”。（《水浒传》四九》）  
 1. 【[混闷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_men.md#混闷)】`huen5 men` <sup>[泰县]</sup> 有苦说不出：他心里～，睡啊两天。  
 1. 【[混闷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_men.md#混闷)】`huen5 men6` <sup>[如东]</sup> 有苦说不出来：他不吃饭，心里～。  
 1. 【[混球](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_qieu.md#混球)】`huen5 qieu2` <sup>[泰县]</sup> （禁忌语）混蛋。  
+1. 【[混穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_qion.md#混穷)】`huen5 qion2` <sup>[东台]</sup> 做小买卖或苦力活维持生活。也用作某项职业的谦辞：我这工作没出息，只是～而已。  
+1. 【[混穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_qion.md#混穷)】`huen5 qion2` <sup>[兴化]</sup> 凑合着过日子：我哪里是什么大老板，～罢了。  
+1. 【[混世魔王](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_shr_mu_van.md#混世魔王)】`huen5 shr5 mu2 van2` <sup>[东台]</sup> ［喻］扰乱世界、给人们带来严重危害的恶人：这个～终于捱执行吖死刑。  
+1. 【[混账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_zhan.md#混账)】`huen5 zhan5` <sup>[如东]</sup> 说话办事，无理无耻：他是一个～东西。  
 1. 【[混账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_zhan.md#混账)】`huen5 zhan5` <sup>[东台]</sup> 言语行动无理无耻：那是～话｜这个～东西真坏。  
 1. 【[混子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_zz.md#混子)】`huen5 zz` <sup>[如皋]</sup> 善与各种人、各种环境、各种复杂情况打交道的人。  
+1. 【[混子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_zz.md#混子)】`huen5 zz` <sup>[东台]</sup> 又称混脚，指游手好闲不务正业混日子的人。  
+1. 【[混子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_zz.md#混子)】`huen5 zz` <sup>[兴化]</sup> 混迹于社会某阶层，某行业中的人：这人是有名的～，专门抱粗腿，说二话。  
 1. 【[溷气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_qi.md#溷气)】`huen5 qi5` <sup>[东台]</sup> 葱、蒜、韭菜等散发的刺鼻气味：刚刚吃咖大蒜，嘴里一阵～味。  
 1. 【[睯闷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_men.md#睯闷)】`huen5 men` <sup>[如皋]</sup> 气恼，发闷。  
 1. 【[睯闷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_men.md#睯闷)】`huen5 men5` <sup>[如皋]</sup> 受误解、受不公而抑郁。  
@@ -2397,18 +2406,9 @@
 1. 【[荤气味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_qi_vei.md#荤气味)】`huen5 qi vei6` <sup>[兴化]</sup> 指葱、蒜、非之类特有的气味：他喜欢吃大蒜，一嘴的～。  
 1. 【[混饭吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_faen_qieh.md#混饭吃)】`huen6 faen6 qieh7` <sup>[如东]</sup> 勉强弄点饭吃吃：他是为啊～。  
 1. 【[混饭碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_faen_un.md#混饭碗)】`huen6 faen6 un3` <sup>[兴化]</sup> 餬口。  
-1. 【[混混<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_huen_r.md#混混<sub>儿</sub>)】`huen6 huen r` <sup>[兴化]</sup> 游手好闲的青皮无赖。也叫“混混子”。  
-1. 【[混脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_jiah_r.md#混脚<sub>儿</sub>)】`huen6 jiah7 r` <sup>[兴化]</sup> 在外混世的人：他是～，跟在头头后边三年不到，由临时工混上副总。  
-1. 【[混赖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_lae.md#混赖)】`huen6 lae6` <sup>[兴化]</sup> ① 抵赖：他明明借啊王二的钱，到期不还想～。 ② 骗取、冒认：才把解珍、解宝押到厅前，不由分说，捆翻便打，定要他两个招做“～大虫……”。（《水浒传》四九》）  
-1. 【[混穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_qion.md#混穷)】`huen6 qion2` <sup>[东台]</sup> 做小买卖或苦力活维持生活。也用作某项职业的谦辞：我这工作没出息，只是～而已。  
-1. 【[混穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_qion.md#混穷)】`huen6 qion2` <sup>[兴化]</sup> 凑合着过日子：我哪里是什么大老板，～罢了。  
 1. 【[混日子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_rih_zz.md#混日子)】`huen6 rih8 zz` <sup>[如东]</sup> 勉强过日子。  
 1. 【[混世虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_shr_chon.md#混世虫)】`huen6 shr5 chon2` <sup>[兴化]</sup> 成天游手好闲，无所事事的人：人是～，过一天少十二个时辰。  
-1. 【[混世魔王](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_shr_mu_van.md#混世魔王)】`huen6 shr5 mu2 van2` <sup>[东台]</sup> ［喻］扰乱世界、给人们带来严重危害的恶人：这个～终于捱执行吖死刑。  
-1. 【[混账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_zhan.md#混账)】`huen6 zhan5` <sup>[如东]</sup> 说话办事，无理无耻：他是一个～东西。  
 1. 【[混嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_zuei.md#混嘴)】`huen6 zuei3` <sup>[兴化]</sup> 餬口：他在街上摆个小青货摊儿，夫妻～。也作“混饭碗”。  
-1. 【[混子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_zz.md#混子)】`huen6 zz` <sup>[东台]</sup> 又称混脚，指游手好闲不务正业混日子的人。  
-1. 【[混子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_zz.md#混子)】`huen6 zz` <sup>[兴化]</sup> 混迹于社会某阶层，某行业中的人：这人是有名的～，专门抱粗腿，说二话。  
 1. 【[鯶子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_zz.md#鯶子)】`huen6 zz` <sup>[如皋]</sup> 草鱼。  
 1. 【[鯶子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_zz.md#鯶子)】`huen6 zz` <sup>[如皋]</sup> 青鱼、草鱼统称。分开则为“青鯶”、“花鯶”。又音kuen6 zz。  
 1. 【[鯶子鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_zz_y.md#鯶子鱼)】`huen6 zz y2` <sup>[兴化]</sup> 黑鲩（青鲩）和草鱼（草鲩）的合称。  

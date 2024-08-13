@@ -1389,7 +1389,7 @@
 1. 【[就大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_da.md#就大)】`qieu6 da6` <sup>[如皋]</sup> 将就。  
 1. 【[就大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_da.md#就大)】`qieu6 da6` <sup>[如皋]</sup> ① 凑合着：这支笔不怎吖好，你～用吧。 ② 不计较，不考究：今朝家里人不多，吃杲子～点儿。  
 1. 【[就大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_da.md#就大)】`qieu6 da6` <sup>[如皋]</sup> 见“将就”。  
-1. 【[就大混](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_da_huen.md#就大混)】`qieu6 da6 huen6` <sup>[如皋]</sup> 见“就大”。  
+1. 【[就大混](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_da_huen.md#就大混)】`qieu6 da6 huen5` <sup>[如皋]</sup> 见“就大”。  
 1. 【[就大就大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_da_qieu_da.md#就大就大)】`qieu6 da6 qieu6 da6` <sup>[如皋]</sup> 见“就大”。  
 1. 【[就的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_dii.md#就的)】`qieu6 dii` <sup>[如东]</sup> 是的：～，你去吧。  
 1. 【[就的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_dii.md#就的)】`qieu6 dii` <sup>[泰县]</sup> 同意：这件事～，就这吖办。  
