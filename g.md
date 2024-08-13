@@ -1235,18 +1235,10 @@
 1. 【[恭喜发财](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_xi_faeh_cae.md#恭喜发财)】`gon1 xi3 faeh7 cae2` <sup>[如东]</sup> 春节期间对人的一种贺词。  
 1. 【[攻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon.md#攻)】`gon1` <sup>[如东]</sup> 打：～城。  
 1. 【[攻书上学](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_shv_shan_xiah.md#攻书上学)】`gon1 shv1 shan6 xiah8` <sup>[兴化]</sup> 入学就读：“……生下一男半女，女的鞋头脚脑，男的～，都是我人包办……”（《广陵潮》六九）  
-1. 【[𠞖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon.md#𠞖)】`gon1` 钻，钻入  
-1. 【[𠞖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon.md#𠞖)】`gon1` <sup>[如皋]</sup> 钻进：～洞、头～吖被单肚里。  
-1. 【[𠞖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon.md#𠞖)】`gon1` <sup>[东台]</sup> 钻。（《类篇》古孔切。）：狗子～吖在洞里｜捱打啊没处～｜～吖钱眼儿里（太看重钱）。  
-1. 【[𠞖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon.md#𠞖)】`gon1` <sup>[兴化]</sup> ① 穿过、进入：从人群里～出来｜蛇～吖进洞。 ② 待着，在：他～吖呃家里不出来。  
-1. 【[𠞖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon.md#𠞖)】`gon1` <sup>[泰县]</sup> 钻：～吖账子里去。  
-1. 【[𠞖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon.md#𠞖)】`gon1` <sup>[泰州]</sup> ① 钻：他一个猛子就～到河对过去啊唻。 ② 躲在某个空间：捱人说咖黄煞咖，恨不得地下有个洞～进去。  
+1. 【[𠞖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon.md#𠞖)】`gon1` <sup>\[如皋\]\[东台\]\[泰县\]\[泰州\]\[兴化\]</sup>钻。（形声借字）：～洞、头～吖被单肚里。<sup>\[如皋\]</sup>｜狗子～吖在洞里<sup>\[东台\]</sup>｜捱打啊没处～<sup>\[东台\]</sup>｜～吖钱眼儿里（太看重钱）。<sup>\[东台\]</sup>｜～吖帐子里去。<sup>\[泰县\]</sup>｜他一个猛子就～到河对过去啊唻。<sup>\[泰州\]</sup>｜捱人说咖黄煞咖，恨不得地下有个洞～进去。<sup>\[泰州\]</sup>｜从人群里～出来<sup>\[兴化\]</sup>｜蛇～吖进洞<sup>\[兴化\]</sup>｜他～吖家里不出来/他待在家里不出来<sup>\[兴化\]</sup>  
 1. 【[𠞖草虾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_co_ha.md#𠞖草虾)】`gon1 co3 ha1` <sup>[泰县]</sup> （禁忌语）老人。  
 1. 【[𠞖夹巷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_gaeh_han.md#𠞖夹巷)】`gon1 gaeh7 han6` <sup>[兴化]</sup> （喻）钻空子：他人在城里，家在农村，碰到难事就～，两头不沾边。  
-1. 【[𠞖猛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_mon_zz.md#𠞖猛子)】`gon1 mon3 zz` <sup>[如皋]</sup> 潜泳。  
-1. 【[𠞖猛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_mon_zz.md#𠞖猛子)】`gon1 mon3 zz` <sup>[东台]</sup> 潜水。也叫捣猛子。  
-1. 【[𠞖猛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_mon_zz.md#𠞖猛子)】`gon1 mon3 zz` <sup>[兴化]</sup> 潜游。也称“捣猛子”。  
-1. 【[𠞖猛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_mon_zz.md#𠞖猛子)】`gon1 mon3 zz` <sup>[泰县]</sup> 潜水。  
+1. 【[𠞖猛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_mon_zz.md#𠞖猛子)】`gon1 mon3 zz` <sup>\[如皋\]\[东台\]\[兴化\]\[泰县\]</sup>潜泳。也叫捣猛子。  
 1. 【[𠞖吖……肚里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_nga_tv_lii.md#𠞖吖……肚里)】`gon1 nga tv6 lii` <sup>[如皋]</sup> 钻进内部：𠞖吖骨头肚里疼（痒）｜你𠞖吖他俫肚里混，不值得！  
 1. 【[𠞖吖钱眼<sub>儿</sub>里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_nga_qin_ngaen_r_lii.md#𠞖吖钱眼<sub>儿</sub>里)】`gon1 nga qin2 ngaen3 r lii` <sup>[如皋]</sup> 时时事事，一心为钱。即“钱心重”。  
 1. 【[拱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon.md#拱)】`gon3` <sup>[如东]</sup> 平面上凸起来：路面～起来啊。  
