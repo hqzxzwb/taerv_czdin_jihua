@@ -2378,9 +2378,7 @@
 1. 【[六指<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_zheh_r.md#六指<sub>儿</sub>)】`loh8 zheh7 r` <sup>[如东]</sup> ① 手上有六只手指，称六指儿。 ② 有六只手指的人：～来啊。  
 1. 【[六指<sub>儿</sub>打时——忙不过来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_zheh_r_da_shr_man_beh_gu_lae.md#六指<sub>儿</sub>打时——忙不过来)】`loh8 zheh7 r da3 shr2 man2 beh7 gu5 lae2` <sup>[东台]</sup>   
 1. 【[六指<sub>儿</sub>抓痒——加一恭维](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_zheh_r_zhua_ian_jia_ieh_gon_vei.md#六指<sub>儿</sub>抓痒——加一恭维)】`loh8 zheh7 r zhua1 ian3 jia1 ieh7 gon1 vei2` <sup>[东台]</sup>   
-1. 【[摝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh.md#摝)】`loh8` <sup>[如东]</sup> 捞：把青菜从水里～上来。  
-1. 【[摝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh.md#摝)】`loh8` <sup>[如皋]</sup> ① 捞。 ② 捕捉：把罪犯～起来。  
-1. 【[摝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh.md#摝)】`loh8` <sup>[泰州]</sup> ① 从水中取物：吊桶忑咖井里去啊，你去寻个东西把它～上来。 ② 从汤中捞取食物或残渣：你把锅里的饺ㄦ～咖干净吖。 ③ 洗物之时将物体置于水中简单过滤一下取出：菜我已经洗过啊唻，你下锅炒之前再～咖子。｜我还有两件衣裳～咖子就同你上街去。  
+1. 【[摝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh.md#摝)】`loh8` ① <sup>\[如东\]\[如皋\]\[泰州\]</sup>捞（形声借字）：把青菜从水里～上来。<sup>\[如东\]</sup>｜吊桶忑咖井里去啊，你去寻个东西把它～上来。<sup>\[泰州\]</sup>｜你把锅里的饺ㄦ～咖干净吖。<sup>\[泰州\]</sup> ② <sup>\[如东\]\[如皋\]</sup>捕捉（形声借字）：王二逃出大门，就捱张三～住啊。<sup>\[如东\]</sup>｜把罪犯～起来。<sup>\[如皋\]</sup>  
 1. 【[摝河草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_hu_co.md#摝河草)】`loh8 hu2 co3` <sup>[如皋]</sup> 捞水草作饲料或作沤肥。  
 1. 【[摝起来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_qi_lae.md#摝起来)】`loh8 qi lae` <sup>[东台]</sup> 逮捕或拘留。  
 1. 【[摝稻草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_to_co.md#摝稻草)】`loh8 to6 co3` <sup>[东台]</sup> 喻指捞政治资本。  
@@ -2388,11 +2386,11 @@
 1. 【[漉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh.md#漉)】`loh8` <sup>[如皋]</sup> ① 洗：～个澡、放吖水里～下子。 ② 湿，作词素：湿～～的。  
 1. 【[漉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh.md#漉)】`loh8` <sup>[东台]</sup> 用水浇湿：身上太脏吖，～个澡再睡不迟。  
 1. 【[漉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh.md#漉)】`loh8` <sup>[泰县]</sup> 汰洗不认真：下河再～下。  
+1. 【[漉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh.md#漉)】`loh8` <sup>[泰州]</sup> 洗物之时将物体置于水中简单过滤一下取出：菜我已经洗过啊唻，你下锅炒之前再～咖子。｜我还有两件衣裳～咖子就同你上街去。  
 1. 【[碌碡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_choh.md#碌碡)】`loh8 choh8-7` <sup>[东台]</sup> 碾谷物、压实场地的石磙。上面有平行的棱和槽。  
 1. 【[碌郭碌郭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_guah_loh_guah.md#碌郭碌郭)】`loh8 guah7 loh8 guah` <sup>[如东]</sup> 眼睛一翻一翻的样子：小兰站吖在那许，眼睛～的。  
 1. 【[碌碌翻天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_loh_faen_tin.md#碌碌翻天)】`loh8 loh8 faen1 tin1` <sup>[如东]</sup> 乱打乱斗，十分厉害：闹啊～。  
 1. 【[碌碡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_toh.md#碌碡)】`loh8 toh8-7` <sup>[兴化]</sup> 圆筒形石磙，上有纵向沟槽，是碾压谷草脱粒或平整场地的农具。  
-1. 【[簏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh.md#簏)】`loh8` <sup>[如东]</sup> 捉住：王二逃出大门，就捱张三～住啊。  
 1. 【[簏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_zz.md#簏子)】`loh8 zz` <sup>[如东]</sup> 一种捕鱼工具。竹条或芦苇制成，圆桶形或长方形，口宽约5尺，身长约6尺。大簏子的尾部装着一只小簏子，小簏子尾部装有倒须。放在海滩上或港汊中捕捉鱼虾。  
 1. 【[簏子𬙙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_zz_fan.md#簏子𬙙)】`loh8 zz fan3` <sup>[如东]</sup> 一种捕鱼网具。圆锥形，口宽约1丈5尺，身长约2丈。茅草绳或聚乙烯线结成，网眼较大。用绳索固定在沙垳上，每排5只至10只，利用潮水涨落现象，捕捉海蜇。  
 1. 【[绿茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_cha.md#绿茶)】`loh8 cha2` <sup>[如东]</sup> 茶叶的一大类。用高温破坏鲜茶叶中的酶，制止发酪而制成，沏出来的茶保持鲜茶原有的绿色。种类很多，如龙井、大方等。  
