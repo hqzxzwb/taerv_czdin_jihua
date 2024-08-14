@@ -1692,9 +1692,7 @@
 1. 【[毷氉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_so.md#毷氉)】`mo6 so` <sup>[如皋]</sup> ① 天气闷热令人不适。 ② 烦躁不安：痱子～起来啊，伢儿在身上只抓。  
 1. 【[貌相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_xian.md#貌相)】`mo6 xian5` <sup>[兴化]</sup> 指人的相貌：这个小伙～不丑。  
 1. 【[貌相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_xian.md#貌相)】`mo6 xian5` <sup>[兴化]</sup> 从外表看人：人不可～，海水不可斗量。  
-1. 【[嚜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh.md#嚜)】`moh8` <sup>[如皋]</sup> 蒙骗。  
-1. 【[嚜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh.md#嚜)】`moh8` <sup>[兴化]</sup> 欺骗、蒙蔽：你不要～人。｜捱他说咖～住啊。｜《集韵·德韵》密北切～，《博雅》～戾，欺也。今俗写作“木”。  
-1. 【[嚜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh.md#嚜)】`moh8` <sup>[泰州]</sup> 以言欺诈：你不要～人，我不相信你的话。｜你根本就不曾去过北京，你捱他～咖去啊唻。  
+1. 【[嚜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh.md#嚜)】`moh8` <sup>\[兴化\]\[如皋\]\[泰州\]</sup>欺骗、蒙蔽。《集韵·德韵》密北切～，《博雅》～戾，欺也：你不要～人。<sup>\[兴化\]</sup>｜捱他说咖～住啊。<sup>\[兴化\]</sup>｜你不要～人，我不相信你的话。<sup>\[泰州\]</sup>｜你根本就不曾去过北京，你捱他～咖去啊唻。<sup>\[泰州\]</sup>  
 1. 【[嚜住啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_chv_a.md#嚜住啊)】`moh8 chv6 a` <sup>[如皋]</sup> 被懵住，未能反应过来。  
 1. 【[嚜大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_da.md#嚜大)】`moh8 da` <sup>[如皋]</sup> 蒙骗。  
 1. 【[嚜大佯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_da_ian.md#嚜大佯)】`moh8 da ian2` <sup>[如皋]</sup> 蒙骗俩：你不要同我玩～，我懂你的买买儿三。  
