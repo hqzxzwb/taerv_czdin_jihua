@@ -1541,7 +1541,6 @@
 1. 【[种喜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_xi.md#种喜)】`zhon5 xi3` <sup>[如东]</sup> 种牛痘。  
 1. 【[种子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_zz.md#种子)】`zhon5 zz3` <sup>[如东]</sup> 结婚时，新郎腰束围裙，里面放着枣子，撒在床上，表示早生贵子。  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr.md#□)】`zhr1` <sup>[泰州]</sup> 长期摩擦而在衣领、袖口处的发黏污迹：一个多月不洗澡不换衣裳，领子上都发咖～。｜领子上都～啊，还不脱咖来洗。  
-1. 【[㿳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr.md#㿳)】`zhr1` <sup>[东台]</sup> 《康熙字典。皮部》：“手足肤黑。”他皮肤黑～～的。  
 1. 【[䐈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr.md#䐈)】`zhr1` <sup>[如皋]</sup> 头发发黏有臭味。  
 1. 【[䭁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr.md#䭁)】`zhr1` <sup>[如皋]</sup> 油及含油食品变质之味：茶食～啊。荤油发咖～。  
 1. 【[䭁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr.md#䭁)】`zhr1` <sup>[泰州]</sup> 食物腐败发出的臭味：饭～啊唻，不能吃吤。  
@@ -1684,10 +1683,10 @@
 1. 【[纸扎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_zhaeh.md#纸扎)】`zhr3 zhaeh7` <sup>[兴化]</sup> 以竹篾、芦柴或铁丝等为骨架，外糊色纸，制成的风筝、纸花、灯笼及冥器等：正说间，只见数担柴，数桶酱、数担米，更有香烛～……（《警世通言》三九）  
 1. 【[纸扎店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_zhaeh_din.md#纸扎店)】`zhr3 zhaeh7 din5` <sup>[兴化]</sup> 制售纸扎品的店铺。  
 1. 【[纸扎匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_zhaeh_qian.md#纸扎匠)】`zhr3 zhaeh7 qian6` <sup>[如皋]</sup> 制作丧用纸扎品的工匠。  
-1. 【[䍉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr.md#䍉)】`zhr5` <sup>[如皋]</sup> 器物上微小损伤的痕迹：碗上有块～。  
 1. 【[制服](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_foh.md#制服)】`zhr5 foh8` <sup>[东台]</sup> 通过管制使对方降服。  
 1. 【[炙熬熬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ngo_ngo.md#炙熬熬)】`zhr5 ngo2 ngo2` <sup>[兴化]</sup> 形容炎热：太阳晒得～的。  
 1. 【[炙熬熬的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ngo_ngo_dii.md#炙熬熬的)】`zhr5 ngo2 ngo2 dii` <sup>[东台]</sup> 形容像受烘烤、熬煎一样热得难受，通常在句末作补语：大家捱太阳晒得～。  
+1. 【[痣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr.md#痣)】`zhr5` <sup>[如皋]</sup> 器物上微小损伤的痕迹：碗上有块～。  
 1. 【[痣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr.md#痣)】`zhr5` <sup>[泰州]</sup> 皮肤上隆起的有色斑点。  
 1. 【[置](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr.md#置)】`zhr5` <sup>[如皋]</sup> 添置大件、成批物件：～家私、～嫁妆。  
 1. 【[置家如置骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ga_rv_zhr_gueh.md#置家如置骨)】`zhr5 ga1 rv2 zhr5 gueh7` <sup>[东台]</sup> 添置家俬，扩大家业像长骨头一样艰难。  

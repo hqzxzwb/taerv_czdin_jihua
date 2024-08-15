@@ -1527,9 +1527,9 @@
 1. 【[柳敬亭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_jien_tien.md#柳敬亭)】`lieu3 jien5 tien2` <sup>[东台]</sup> 东台人，明末清初我国一代评话宗师。本姓曹，原居南通余西场，后迁东台鹤落瑜曹家庄，取名永昌，字葵宇。擅长说楚汉、隋唐、水浒故事，说书技艺精湛。  
 1. 【[柳杉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_shaen.md#柳杉)】`lieu3 shaen1` <sup>[如东]</sup> 柳科植物柳杉，常绿大乔木。  
 1. 【[柳藤箱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_ten_xian.md#柳藤箱)】`lieu3 ten2 xian1` <sup>[东台]</sup> 用杞柳条编织的箱子。  
-1. 【[遛雀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_jiah_r.md#遛雀<sub>儿</sub>)】`lieu5 jiah7 r` <sup>[兴化]</sup> 提着鸟笼到幽静的地方去散步。  
 1. 【[溜急](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_jieh.md#溜急)】`lieu6 jieh7` <sup>[兴化]</sup> 形容水流溢急：江水～，忑下去难生还。  
 1. 【[溜头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_teu.md#溜头)】`lieu6 teu2` <sup>[兴化]</sup> ① 急流的最前峰：那佛祖轻轻用力撑开，只见上～泱下一个死尸。（《西游记》九八） ② （借）指以往某些政治运动最激烈的时候：运动在～上，硬项就要吃亏。  
+1. 【[遛雀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_jiah_r.md#遛雀<sub>儿</sub>)】`lieu6-5 jiah7 r` <sup>[兴化]</sup> 提着鸟笼到幽静的地方去散步。  
 1. 【[列祖列宗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lih_zv_lih_zon.md#列祖列宗)】`lih8 zv3 lih8 zon1` <sup>[东台]</sup> 历代的祖先。  
 1. 【[劣迹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lih_jieh.md#劣迹)】`lih8 jieh7` <sup>[东台]</sup> 恶劣的行迹。  
 1. 【[劣种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lih_zhon.md#劣种)】`lih8 zhon3` <sup>[东台]</sup> （詈词）品质恶劣的人。  

@@ -1544,7 +1544,6 @@
 1. 【[谦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin.md#谦)】`qin1` <sup>[兴化]</sup> 客气、谦让：这一说我就托老实上坐，不～吖。  
 1. 【[谦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin.md#谦)】`qin1` <sup>[泰州]</sup> 相互谦让：你就不要再～唻，你岁数最大，你不坐，大家都不好坐。｜他俫两个人为个会东～吖半天。  
 1. 【[迁坟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_fen.md#迁坟)】`qin1 fen2` <sup>[如东]</sup> 将坟墓地点由这一处迁移到另一处。  
-1. 【[㓺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin.md#㓺)】`qin2` <sup>[如皋]</sup> 割穗头：～高粱穗穗儿。  
 1. 【[乾客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_keh.md#乾客)】`qin2 keh7` <sup>[兴化]</sup> 旧称男客：大舅和妹夫两位～一到，连他林从阳老小共七人。（马春阳《昏迷再婚迷》）  
 1. 【[前……后……](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_heu.md#前……后……)】`qin2 heu6` <sup>[东台]</sup> 表示两种事物或行为一前一后：～店～厂｜～苦～甜。  
 1. 【[前不巴村后不巴店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_beh_ba_cuen_heu_beh_ba_din.md#前不巴村后不巴店)】`qin2 beh7 ba1 cuen1 heu6 beh7 ba1 din5` <sup>[东台]</sup> 喻指处处不巧，没有机遇。这里“巴”指靠近。  
@@ -1612,6 +1611,7 @@
 1. 【[前者](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_zhae.md#前者)】`qin2 zhae3` <sup>[兴化]</sup> 以前、以前的事：你～欠的账不曾还，今吖又要挂账，小店实在玩不起。  
 1. 【[前掌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_zhan.md#前掌)】`qin2 zhan3` <sup>[如东]</sup> 脚的前半部分。鞋底的前半部分。  
 1. 【[前朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_zho.md#前朝)】`qin2 zho` <sup>[兴化]</sup> 昨天的前一天。  
+1. 【[挦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin.md#挦)】`qin2` <sup>[如皋]</sup> 割（穗头）：～高粱穗穗儿。  
 1. 【[挦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin.md#挦)】`qin2` <sup>[兴化]</sup> 拔：～鸡毛。（《集韵盐韵》徐廉切“～，摘也。”）  
 1. 【[挦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin.md#挦)】`qin2` <sup>[泰州]</sup> 拔（毛）：两个人打架，～吖不少头发下来啊。｜～毛/将宰杀的动物用热水煺毛  
 1. 【[挦毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_mo.md#挦毛)】`qin2 mo2` <sup>[如皋]</sup> 拔毛：杀猪羊鸡鸭后先下水烫，再～，不好干～。  
