@@ -803,7 +803,7 @@
 1. 【[𪹍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu.md#𪹍)】`heu2` <sup>[兴化]</sup> 蒸煮：～山芋；～角老菱；～猪头。  
 1. 【[𪹍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu.md#𪹍)】`heu2` <sup>[如皋]</sup> 煮沸后响动，引申指蒸煮：～猪食、～菜饭  
 1. 【[𪹍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu.md#𪹍)】`heu2` <sup>[东台]</sup> 沸腾，蒸煮：［动］把猪骨头～烂（长时间煮透）。  
-1. 【[𪹍饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_faen.md#𪹍饭)】`heu2 faen6` <sup>[如皋]</sup> 煮杂以瓜菜、杂粮的饭，要大火𤒘。  
+1. 【[𪹍饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_faen.md#𪹍饭)】`heu2 faen6` <sup>[如皋]</sup> 煮杂以瓜菜、杂粮的饭，要大火𬊯。  
 1. 【[䞀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu.md#䞀)】`heu3` <sup>[泰州]</sup> 贪婪而不满足：这小伙真是～得咖，拿啊人家几十斤香油家去啊。  
 1. 【[吼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu.md#吼)】`heu3` <sup>[如东]</sup> 长时间不停地哭泣：毛毛一天到晚都在下～。  
 1. 【[吼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu.md#吼)】`heu3` <sup>[如皋]</sup> 贬指大哭、哭闹：她又没得眼泪，就是干～，吭赖！  

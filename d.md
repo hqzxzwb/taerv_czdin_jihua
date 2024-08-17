@@ -613,7 +613,7 @@
 1. 【[大冬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_don.md#大冬)】`da6 don1` <sup>[如皋]</sup> 冬至日。见“冬节”。  
 1. 【[大冬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_don.md#大冬)】`da6 don1` <sup>[东台]</sup> 冬至，相对于前一天小冬而言。（见“冬至”）民间称“过冬”，并有“大冬大似年”的说法。  
 1. 【[大冬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_don.md#大冬)】`da6 don1` <sup>[兴化]</sup> 冬至日，相对于前一日“小冬”：谚曰：～大似年，小冬不值钱。  
-1. 【[大𤒘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_duh.md#大𤒘)】`da6 duh7` <sup>[如皋]</sup> 见“满𤒘”。  
+1. 【[大𬊯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_duh.md#大𬊯)】`da6 duh7` <sup>[如皋]</sup> 见“满𬊯”。  
 1. 【[大肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_dv_zz.md#大肚子)】`da6 dv3 zz` <sup>[如东]</sup> ① 人的肚皮十分肥胖。 ② 比喻妇女已经怀孕了：她挺吖个～。  
 1. 【[大肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_dv_zz.md#大肚子)】`da6 dv3 zz` <sup>[如皋]</sup> ① 指孕妇。 ② 脂肪堆积，腹部隆起。 ③ 食量大。  
 1. 【[大肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_dv_zz.md#大肚子)】`da6 dv3 zz` <sup>[泰兴]</sup> 孕妇。  
@@ -2906,19 +2906,19 @@
 1. 【[甃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duh.md#甃)】`duh7` <sup>[如皋]</sup> ① 砖井壁的一圈。 ② 量词，井深：十八～、二十四～。  
 1. 【[褡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duh.md#褡)】`duh7` <sup>[兴化]</sup> 冬天加在贴身被子上的棉衣、棉被等。《广韵·合韵》都合切：～被；～脚。｜“～，横～小被”。  
 1. 【[鵽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duh_zz.md#鵽子)】`duh7 zz` <sup>[兴化]</sup> 水鸟，小于野鸭，常群游于河湖中。鵽，《廣韻》丁括切《集韻》都括切。  
-1. 【[𤒘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duh.md#𤒘)】`duh7` 小火慢煮  
-1. 【[𤒘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duh.md#𤒘)】`duh7` <sup>[如东]</sup> 一种烹调方法。食物煮熟后，再添火烧一会儿，使之烂熟。  
-1. 【[𤒘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duh.md#𤒘)】`duh7` <sup>[如皋]</sup> ① 沸腾：锅里～起来呀。 ② 保持沸腾久煮：把粥～～腻和。  
-1. 【[𤒘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duh.md#𤒘)】`duh7` <sup>[东台]</sup> ① 保持汤的沸腾：～豆腐。 ② ［引］太拥挤：十多人～咖细棚子里｜走开，覅总～咖这许。  
-1. 【[𤒘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duh.md#𤒘)】`duh7` <sup>[兴化]</sup> 烧开的水、粥或汤在锅中翻腾：～粥。  
-1. 【[𤒘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duh.md#𤒘)】`duh7` <sup>[泰县]</sup> 水翻滚：水～咖。  
-1. 【[𤒘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duh.md#𤒘)】`duh7` <sup>[泰州]</sup> ① 水烧开后或者食物烧沸后在汤中翻滚的样子：铫子肚里水～咖翻掉啊。 ② 食物烧滚以后，继续留在汤中让其翻滚：排骨要在锅里多～一刻儿再起锅。  
-1. 【[𤒘饭锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duh_faen_gu.md#𤒘饭锅)】`duh7 faen6 gu1` <sup>[如东]</sup> 饭煮熟了，稍等一会儿再加一把草烧一下，称𤒘饭锅。  
-1. 【[𤒘汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duh_tan.md#𤒘汤)】`duh7 tan1` <sup>[如东]</sup> 一种烹调方法。把猪骨头或鸡肉等，放在锅里长时间的煎熬，使汁液浓厚。  
-1. 【[𤒘汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duh_tan.md#𤒘汤)】`duh7 tan1` <sup>[如皋]</sup> 见“𤒘”。  
-1. 【[𤒘粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duh_zhoh.md#𤒘粥)】`duh7 zhoh7` <sup>[如东]</sup> 把大米、玉米䜺儿或其他粮食放在锅里多煮一会儿，使之浓稠，这种方法称𤒘粥。  
-1. 【[𤒘粥锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duh_zhoh_gu.md#𤒘粥锅)】`duh7 zhoh7 gu1` <sup>[如皋]</sup> 见“𤒘”。  
 1. 【[𥏞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duh.md#𥏞)】`duh7` <sup>[东台]</sup> 短貌：矮～～  
+1. 【[𬊯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duh.md#𬊯)】`duh7` 小火慢煮  
+1. 【[𬊯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duh.md#𬊯)】`duh7` <sup>[如东]</sup> 一种烹调方法。食物煮熟后，再添火烧一会儿，使之烂熟。  
+1. 【[𬊯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duh.md#𬊯)】`duh7` <sup>[如皋]</sup> ① 沸腾：锅里～起来呀。 ② 保持沸腾久煮：把粥～～腻和。  
+1. 【[𬊯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duh.md#𬊯)】`duh7` <sup>[东台]</sup> ① 保持汤的沸腾：～豆腐。 ② ［引］太拥挤：十多人～咖细棚子里｜走开，覅总～咖这许。  
+1. 【[𬊯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duh.md#𬊯)】`duh7` <sup>[兴化]</sup> 烧开的水、粥或汤在锅中翻腾：～粥。  
+1. 【[𬊯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duh.md#𬊯)】`duh7` <sup>[泰县]</sup> 水翻滚：水～咖。  
+1. 【[𬊯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duh.md#𬊯)】`duh7` <sup>[泰州]</sup> ① 水烧开后或者食物烧沸后在汤中翻滚的样子：铫子肚里水～咖翻掉啊。 ② 食物烧滚以后，继续留在汤中让其翻滚：排骨要在锅里多～一刻儿再起锅。  
+1. 【[𬊯饭锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duh_faen_gu.md#𬊯饭锅)】`duh7 faen6 gu1` <sup>[如东]</sup> 饭煮熟了，稍等一会儿再加一把草烧一下，称𬊯饭锅。  
+1. 【[𬊯汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duh_tan.md#𬊯汤)】`duh7 tan1` <sup>[如东]</sup> 一种烹调方法。把猪骨头或鸡肉等，放在锅里长时间的煎熬，使汁液浓厚。  
+1. 【[𬊯汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duh_tan.md#𬊯汤)】`duh7 tan1` <sup>[如皋]</sup> 见“𬊯”。  
+1. 【[𬊯粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duh_zhoh.md#𬊯粥)】`duh7 zhoh7` <sup>[如东]</sup> 把大米、玉米䜺儿或其他粮食放在锅里多煮一会儿，使之浓稠，这种方法称𬊯粥。  
+1. 【[𬊯粥锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duh_zhoh_gu.md#𬊯粥锅)】`duh7 zhoh7 gu1` <sup>[如皋]</sup> 见“𬊯”。  
 1. 【[㴷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dun.md#㴷)】`dun1` 蘸。康熙字典“《集韻》都含切，音耽。濕也。”  
 1. 【[㴷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dun.md#㴷)】`dun1` <sup>[如东]</sup> 在液体中蘸一下拿出来：用笔头在墨水里头～下子。  
 1. 【[㴷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dun.md#㴷)】`dun1` <sup>[如皋]</sup> 蘸：吃变蛋要～醋。  

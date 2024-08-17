@@ -562,7 +562,7 @@
 1. 【[䜺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_r.md#䜺<sub>儿</sub>)】`chae3 r` <sup>[泰县]</sup> 大元麦磨成的粉。  
 1. 【[䜺<sub>儿</sub>粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_r_zhoh.md#䜺<sub>儿</sub>粥)】`chae3 r zhoh7` <sup>[如皋]</sup> 用䜺儿煮的粥。又因谷物不同而异称玉米～、元麦～。  
 1. 【[䜺<sub>儿</sub>粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_r_zhoh.md#䜺<sub>儿</sub>粥)】`chae3 r zhoh7` <sup>[如东]</sup> 元麦、大麦或玉米䜺儿煮成的粥，黏韧而香醇，营养丰富。  
-1. 【[䜺<sub>儿</sub>粥没得血，这边𤒘那边喝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_r_zhoh_meh.md#䜺<sub>儿</sub>粥没得血，这边𤒘那边喝)】`chae3 r zhoh7 meh8 deh7 xiuh7 zha5 bin1 duh7 lu5 bin1 huh7` <sup>[东台]</sup> 玉米䜺儿粥可以一边煮一边吃。  
+1. 【[䜺<sub>儿</sub>粥没得血，这边𬊯那边喝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_r_zhoh_meh.md#䜺<sub>儿</sub>粥没得血，这边𬊯那边喝)】`chae3 r zhoh7 meh8 deh7 xiuh7 zha5 bin1 duh7 lu5 bin1 huh7` <sup>[东台]</sup> 玉米䜺儿粥可以一边煮一边吃。  
 1. 【[䜺子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_zz.md#䜺子)】`chae3 zz` <sup>[兴化]</sup> 磨碎的稻米、麦、玉米、高粱、豆类等：米～｜麦～｜芦秫～｜棒头～  
 1. 【[𠏾尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_xy.md#𠏾尿)】`chae6 xy1` <sup>[如东]</sup> 排泄小便。  
 1. 【[𠏾尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_xy.md#𠏾尿)】`chae6 xy1` <sup>[如皋]</sup> 排小便。  

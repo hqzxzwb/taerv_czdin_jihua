@@ -13,8 +13,7 @@
 1. 【[拉把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ba.md#拉把)】`la1 ba3` <sup>[东台]</sup> ① 非常：看见你，我～的一欢喜。 ② 尽力：今天任务很多，各位还要～干，才能完成。  
 1. 【[拉把的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ba_dii.md#拉把的)】`la1 ba3 dii` <sup>[如皋]</sup> 相当用力地：细伢儿养得好，坠手，要～一抱。  
 1. 【[拉不开闩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_beh_kae_shuaen.md#拉不开闩)】`la1 beh7 kae1 shuaen1` <sup>[如东]</sup> 比喻非常忙碌，非常困难：王光明忙吖～。  
-1. 【[拉扯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_cha.md#拉扯)】`la1 cha3` <sup>[如皋]</sup> ① 动作：两个人用手～。 ② 交往：今朝你送礼把他，明朝他送礼把你，就这吖～起来啊。 ③ 统算：不问好丑，不分前后，～起来一齐算。  
-1. 【[拉扯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_cha.md#拉扯)】`la1 cha3` <sup>[如皋]</sup> 见“缠扯”❷。  
+1. 【[拉扯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_cha.md#拉扯)】`la1 cha3` <sup>[如皋]</sup> ① 动作：两个人用手～。 ② 交往：今朝你送礼把他，明朝他送礼把你，就这吖～起来啊。 ③ 统算：不问好丑，不分前后，～起来一齐算。 ④ 见“缠扯”❷。  
 1. 【[拉长麻线](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_chan_ma_xin.md#拉长麻线)】`la1 chan2 ma2 xin5` <sup>[如皋]</sup> 说话不能紧扣话题，扯得过远过长。  
 1. 【[拉大锯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_da_jy.md#拉大锯)】`la1 da6 jy5` <sup>[兴化]</sup> 两人一来一往地推拉着大锯解木头。  
 1. 【[拉大网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_da_van.md#拉大网)】`la1 da6 van3` <sup>[兴化]</sup> 一种捕鱼方法。  

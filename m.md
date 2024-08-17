@@ -2035,7 +2035,7 @@
 1. 【[满床被单](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_chuan_pi_daen.md#满床被单)】`mun3 chuan2 pi6 daen1` <sup>[如皋]</sup> 大号被子。  
 1. 【[满处](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_chv.md#满处)】`mun3 chv` <sup>[如皋]</sup> 到处、充满：会场上～是人，～烟味。  
 1. 【[满刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_do.md#满刀)】`mun3 do1` <sup>[如皋]</sup> 上茬割后，刀痕已满，可以再割。如韭菜。  
-1. 【[满𤒘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_duh.md#满𤒘)】`mun3 duh7` <sup>[如皋]</sup> 锅中到处沸腾。  
+1. 【[满𬊯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_duh.md#满𬊯)】`mun3 duh7` <sup>[如皋]</sup> 锅中到处沸腾。  
 1. 【[满饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_faen.md#满饭)】`mun3 faen6` <sup>[东台]</sup> 亲人亡故后，每日供饭，视如在世，供饭时日不等。供饭结束称之为～。  
 1. 【[满坟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_fen.md#满坟)】`mun3 fen2` <sup>[如东]</sup> 安葬三年，做坟，称满坟。要举行祭祀活动。  
 1. 【[满坟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_fen.md#满坟)】`mun3 fen2` <sup>[如皋]</sup> 安葬满三年，做坟，上坟祭祀。  

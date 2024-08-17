@@ -1068,8 +1068,8 @@
 1. 【[硬犟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_qian.md#硬犟)】`ngen6 qian6` <sup>[东台]</sup> 固执己见，与人争执时毫不退让：这事你错了，不要～。  
 1. 【[硬犟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_qian.md#硬犟)】`ngen6 qian6` <sup>[泰县]</sup> 固执已见。  
 1. 【[硬吃刳瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_qieh_kua_gua.md#硬吃刳瓜)】`ngen6 qieh7 kua2 gua1` <sup>[如皋]</sup> 强制行动：借不借，要自愿，不好～的借。你越是～的，我越是不借！  
-1. 【[硬㤍㤍的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_qio_qio_dii.md#硬㤍㤍的)】`ngen6 qio1 qio1 dii` <sup>[如皋]</sup> ① 关系不和谐、不协调：他俫有啊意见，说起话来～。 ② 状不灵活：他有关节炎，走起路来脚～。  
 1. 【[硬跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_qio.md#硬跷)】`ngen6 qio1` <sup>[泰县]</sup> 硬闹别扭：在这件事上，他有点儿～。  
+1. 【[硬跷跷的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_qio_qio_dii.md#硬跷跷的)】`ngen6 qio1 qio1 dii` <sup>[如皋]</sup> ① 关系不和谐、不协调：他俫有啊意见，说起话来～。 ② 状不灵活：他有关节炎，走起路来脚～。  
 1. 【[硬取](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_qy.md#硬取)】`ngen6 qy3` <sup>[如皋]</sup> 强取。  
 1. 【[硬取](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_qy.md#硬取)】`ngen6 qy3` <sup>[兴化]</sup> 强取：这幅古画他哄不到手就～。  
 1. 【[硬伤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_shan.md#硬伤)】`ngen6 shan1` <sup>[如东]</sup> ① 断筋断骨的伤害：这个是～。 ② 比喻问题十分严重：不是～，暂时拖下子。  

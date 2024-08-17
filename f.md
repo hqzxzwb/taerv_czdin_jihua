@@ -230,7 +230,7 @@
 1. 【[翻箱笼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_xian_lon.md#翻箱笼)】`faen1 xian1 lon2` <sup>[如东]</sup> ① 到处乱翻，寻找东西口：他在家里～。 ② 比喻兜老底：请你不要～。  
 1. 【[翻箱<sub>儿</sub>倒笼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_xian_r_do_lon_r.md#翻箱<sub>儿</sub>倒笼<sub>儿</sub>)】`faen1 xian1 r do5 lon3 r` <sup>[如皋]</sup> 乱找、乱翻。  
 1. 【[翻香头碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_xian_teu_un.md#翻香头碗)】`faen1 xian1 teu un3` <sup>[如皋]</sup> 旧俗，人死后“六七”，由女儿悼念亡灵的仪程。女儿于子夜翻转香碗，寓意亡灵平安升天。  
-1. 【[翻掀冒𤒘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_xin_mo_duh.md#翻掀冒𤒘)】`faen1 xin1 mo6 duh7` <sup>[东台]</sup> 形容锅里汤或粥正在沸腾。  
+1. 【[翻掀冒𬊯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_xin_mo_duh.md#翻掀冒𬊯)】`faen1 xin1 mo6 duh7` <sup>[东台]</sup> 形容锅里汤或粥正在沸腾。  
 1. 【[翻悬空跟头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_xiun_kon_gen_teu.md#翻悬空跟头)】`faen1 xiun2 kon1 gen1 teu` <sup>[如皋]</sup> ① 腾空翻。 ② 喻冒险干无基础、无把握的事。  
 1. 【[翻糟饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_zo_bien.md#翻糟饼)】`faen1 zo1 bien3` <sup>[兴化]</sup> （喻）反复折腾，不能入睡：他睡不着觉在被窠里～。  
 1. 【[帆船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_chun.md#帆船)】`faen2 chun2` <sup>[如东]</sup> 渔船的一种。木壳，吨位较小，以风帆为动力，从事捕捞作业或货物运输。如东沿海的帆船为平底，适宜于沙滩港湾航行、停泊，称沙船。浙江沿海的帆船为尖底，适宜于深水港湾航行、停泊，称鸟船。  
