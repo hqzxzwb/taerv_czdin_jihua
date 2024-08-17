@@ -1364,7 +1364,7 @@
 1. 【[浥里浥𪞚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_lii_ieh_cheh.md#浥里浥𪞚)】`ieh7 lii ieh7 cheh7` <sup>[兴化]</sup> 形容物品上沾有潮湿气：梅雨天气洗的东西总有点儿～的。  
 1. 【[贳器店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_qi_din.md#贳器店)】`ieh7 qi5 din5` <sup>[如皋]</sup> 出租礼器、礼服及家中陈设等的店。旧时如城有好几家。  
 1. 【[赢家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_ga.md#赢家)】`ien ga1` <sup>[东台]</sup> 指赌博或比赛中获胜的一方。  
-1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien.md#□)】`ien1` <sup>[东台]</sup> 苦味。东台词典写“酓”。《广韵》：“于琰切，酒味苦也。”｜苦～～。  
+1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien.md#□)】`ien1` <sup>[东台]</sup> 苦味：苦～～。  
 1. 【[㧢当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_dan.md#㧢当)】`ien1 dan1` <sup>[如皋]</sup> 比划，试行摆布。如皋词典写“䞁当”。  
 1. 【[喑哑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_nga.md#喑哑)】`ien1 nga3` <sup>[如皋]</sup> 说话不能出声，只见口动，是声带病变所致。常作詈语。  
 1. 【[因其](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_qi.md#因其)】`ien1 qi` <sup>[如皋]</sup> 因为、由于：～你在下上学堂，才给你加营养的。  
@@ -1476,13 +1476,13 @@
 1. 【[鹦鹉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_v.md#鹦鹉)】`ien1 v3` <sup>[如东]</sup> 鹦鹉科动物绯胸鹦鹉，体长约30厘米。嘴强大，钩曲，上嘴与头骨连接处能随意动作；上嘴珊瑚红色，下嘴黑褐色。虹膜淡黄色。头圆；眼周围绿色；额基有一黑纹；头的其他部分蓝灰色。颈、背、肩草绿色。两翅内侧覆羽金黄色带绿，其余部分为绿色。颏白色。喉和胸红而带灰蓝色。尾下覆羽绿而缀黄。脚和趾暗黄绿灰色。爪锐利，善攀登。雌鸟头部较蓝，喉和胸橙黄，无灰蓝色光。生活在山林中，喜集群活动。易饲养。  
 1. 【[鹰钩<sub>儿</sub>鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_geu_r_pieh_zz.md#鹰钩<sub>儿</sub>鼻子)】`ien1 geu1 r pieh8 zz` <sup>[如皋]</sup> 鹰钩鼻。  
 1. 【[鹰钩<sub>儿</sub>鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_geu_r_pieh_zz.md#鹰钩<sub>儿</sub>鼻子)】`ien1 geu1 r pieh8 zz` <sup>[如皋]</sup> 鼻尖长于鼻翼的鼻形。  
-1. 【[䁐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien.md#䁐)】`ien2` <sup>[如皋]</sup> 《集韵》於庆切：“视也。”去声，南昌35调，如皋归阳平。引为游行让人看：～嫁妆、～龙灯、～街。  
 1. 【[寅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien.md#寅)】`ien2` <sup>[东台]</sup> 地支的第三位。  
 1. 【[寅吃卯粮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_qieh_mo_lian.md#寅吃卯粮)】`ien2 qieh7 mo3 lian2` <sup>[东台]</sup> 寅年吃完卯年的口粮。比喻入不敷出：改革开放前许多人家～，温饱都成问题。  
 1. 【[寅时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_shr.md#寅时)】`ien2 shr2` <sup>[东台]</sup> 旧式计时法指夜里三点到五点的时间。  
 1. 【[楹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien.md#楹)】`ien2` <sup>[如东]</sup> 堂屋门前的柱子。  
 1. 【[楹联](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_lin.md#楹联)】`ien2 lin2` <sup>[如东]</sup> 贴在楹柱上的对联。泛指对联。  
 1. 【[盈亏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_kuei.md#盈亏)】`ien2 kuei1` <sup>[东台]</sup> 指赚钱或赔本：～自负。  
+1. 【[营](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien.md#营)】`ien2` <sup>[如皋]</sup> 引为游行让人看：～嫁妆、～龙灯、～街。  
 1. 【[营生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_shen.md#营生)】`ien2 shen1` <sup>[兴化]</sup> 职业：以前他家打铁～，十分穷苦。  
 1. 【[蟫虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_chon.md#蟫虫)】`ien2 chon2` <sup>[兴化]</sup> 蠹虫，多藏于暗处蛀食衣服、书籍等，也称“蠹鱼”。  
 1. 【[蟫虫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_chon_r.md#蟫虫<sub>儿</sub>)】`ien2 chon2 r` <sup>[如皋]</sup> 蠹鱼。  

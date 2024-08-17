@@ -1973,10 +1973,7 @@
 1. 【[凶凶胖胖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xion_xion_pan_pan.md#凶凶胖胖)】`xion1 xion1 pan5 pan5` <sup>[如皋]</sup> 健壮、精神饱满。通常适用于老弱者。  
 1. 【[胸膜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xion_mah.md#胸膜)】`xion1 mah8` <sup>[东台]</sup> 本指人体肺脏表面和胸腔内壁的浆膜，东台民间常指胸部，或暗指乳房部位。  
 1. 【[訩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xion.md#訩)】`xion1` <sup>[如东]</sup> 训斥人：他就欢喜～人。  
-1. 【[熊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xion.md#熊)】`xion2` <sup>[东台]</sup> 东台话中指大声斥责，声色俱厉的批评，而不是动物名称：他捱爷～吖一顿。  
-1. 【[熊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xion.md#熊)】`xion2` <sup>[兴化]</sup> 训斥：他动不动就～人。  
-1. 【[熊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xion.md#熊)】`xion2` <sup>[泰县]</sup> 训斥：～人。  
-1. 【[熊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xion.md#熊)】`xion2` <sup>[泰州]</sup> 训斥：一上班就捱～吖一顿。｜同他这种人没得必要客气，～他的皮。  
+1. 【[熊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xion.md#熊)】`xion2` <sup>\[东台\]\[兴化\]\[泰州\]\[泰县\]</sup>训斥：他捱爷～吖一顿。<sup>\[东台\]</sup>｜他动不动就～人。<sup>\[兴化\]</sup>｜一上班就捱～吖一顿。<sup>\[泰州\]</sup>｜同他这种人没得必要客气，～他的皮。<sup>\[泰州\]</sup>｜～人。<sup>\[泰县\]</sup>  
 1. 【[雄不起来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xion_beh_qi_lae.md#雄不起来)】`xion2 beh7 qi3 lae2` <sup>[如皋]</sup> 心有余而力不足。  
 1. 【[雄鸭痨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xion_ngaeh_lo.md#雄鸭痨)】`xion2 ngaeh7 lo2` <sup>[兴化]</sup> 因声带病变，说话声音尖细、嘶哑：来人是个～，说话尖声尖气的像个太监。  
 1. 【[雄势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xion_shr.md#雄势)】`xion2 shr5` <sup>[东台]</sup> 指人的精气神：比赛马上开始，大家拿出点儿～来。  

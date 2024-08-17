@@ -266,6 +266,7 @@
 1. 【[拉瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_gua.md#拉瓜)】`la1 gua` <sup>[如东]</sup> 不整齐。（原文作“拉刮”，音不合）：身上的衣裳～啊，多难相吖。  
 [更多...](./l.md)
 ## M
+1. 【[□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/m_meh.md#□□)】`m meh8` <sup>[东台]</sup> 子女在母亲面前轻声叫妈的声音。  
 1. 【[呣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/m.md#呣)】`m` <sup>[东台]</sup> ① （叹词） ② 表示应答、肯定：～，晓得咖，就这吖。 ③ 表示疑问：～？甚的？ ④ 表示警告：～！你敢！  
 1. 【[呣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/m.md#呣)】`m` <sup>[兴化]</sup> 叹词，表答应。  
 1. 【[姆妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/m_ma.md#姆妈)】`m ma1` <sup>[东台]</sup> 对母亲的面称。  
@@ -286,7 +287,6 @@
 1. 【[麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma.md#麻)】`ma2` <sup>[泰州]</sup> 辛辣刺激口腔舌头所产生的味觉：这个大椒太～。  
 1. 【[麻啊爪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_a_zhua_zz.md#麻啊爪子)】`ma2 a zhua3 zz` <sup>[东台]</sup> ① 麻醉了，手脚不能动。 ② 吓得不知所措的样子。  
 1. 【[麻啊爪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_a_zhua_zz.md#麻啊爪子)】`ma2 a zhua3 zz` <sup>[泰县]</sup> 手足无措：她家男的一死，撂下老的小的，她就～啊啦。  
-1. 【[麻疤<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ba_r.md#麻疤<sub>儿</sub>)】`ma2 ba1 r` <sup>[如东]</sup> 比喻岔子：他来寻～。  
 [更多...](./m.md)
 ## N
 1. 【[拿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na.md#拿)】`na2` <sup>[兴化]</sup> ① 装出：～三做四。 ② 批发：到招商城～货。｜这件上衣我～九十，卖把你一百，寻十块钱。  

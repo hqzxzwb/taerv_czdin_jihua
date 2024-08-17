@@ -1,6 +1,7 @@
 # 音序检索
 **[A](./a.md) | [B](./b.md) | [C](./c.md) | [D](./d.md) | [E](./e.md) | [F](./f.md) | [G](./g.md) | [H](./h.md) | [I](./i.md) | [J](./j.md) | [K](./k.md) | [L](./l.md) | [M](./m.md) | [N](./n.md) | [O](./o.md) | [P](./p.md) | [Q](./q.md) | [R](./r.md) | [S](./s.md) | [T](./t.md) | [U](./u.md) | [V](./v.md) | [X](./x.md) | [Y](./y.md) | [Z](./z.md)**  
 ## M
+1. 【[□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/m_meh.md#□□)】`m meh8` <sup>[东台]</sup> 子女在母亲面前轻声叫妈的声音。  
 1. 【[呣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/m.md#呣)】`m` <sup>[东台]</sup> ① （叹词） ② 表示应答、肯定：～，晓得咖，就这吖。 ③ 表示疑问：～？甚的？ ④ 表示警告：～！你敢！  
 1. 【[呣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/m.md#呣)】`m` <sup>[兴化]</sup> 叹词，表答应。  
 1. 【[姆妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/m_ma.md#姆妈)】`m ma1` <sup>[东台]</sup> 对母亲的面称。  
@@ -601,7 +602,6 @@
 1. 【[莽力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_lieh.md#莽力)】`man3 lieh8` <sup>[如皋]</sup> 爆发力。  
 1. 【[莽张飞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_zhan_fei.md#莽张飞)】`man3 zhan1 fei1` <sup>[东台]</sup> ［喻］指葬撞的人。  
 1. 【[蟒蛇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_sha.md#蟒蛇)】`man3 sha2` <sup>[如东]</sup> 无毒的大蛇，体长可达6米，头部长，口大，舌的尖端有分叉，背部黑褐色，有暗色斑点。腹部白色。多生活在近水的树林里，捕食小禽兽。  
-1. 【[妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh.md#妈)】`meh` <sup>[东台]</sup> 加自成音节的“m”（姆），构成“姆～”，是子女在母亲面前轻声叫妈的声音。  
 1. 【[没](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh.md#没)】`meh8` <sup>[如东]</sup> 被水淹没：棉花全部～掉啊。  
 1. 【[没（得）巴成](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_ba_chen.md#没（得）巴成)】`meh8 ba1 chen2` <sup>[如皋]</sup> 指没指望、没希望。  
 1. 【[没（得）板子打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_baen_zz_da.md#没（得）板子打)】`meh8 baen3 zz da3` <sup>[如皋]</sup> ① 特别清闲，没事做：他在家里～，就跑啊外头去耍子。 ② 消遣性劳作：他～，在家里养金鱼耍子。 ③ 没价值，不值得：请你去帮忙，一天弄吖5块钱，～唻。  
@@ -1075,6 +1075,7 @@
 1. 【[哞<sub>儿</sub>哞<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meu_r_meu_r.md#哞<sub>儿</sub>哞<sub>儿</sub>)】`meu r meu r` <sup>[如皋]</sup> 牛鸣叫之声。  
 1. 【[咪马吽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ma_hon.md#咪马吽)】`mi1 ma hon1` <sup>[兴化]</sup> 形容人胡涂、马虎或善于应付：这个人一头的～。此语套用佛经的“吗呢吽”。  
 1. 【[咪咪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_mi.md#咪咪)】`mi1 mi` <sup>[如东]</sup> 猫叫唤的声音。  
+1. 【[渳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#渳)】`mi1` <sup>[如东]</sup> 用嘴唇轻轻地喝一口：～一口五粮液。  
 1. 【[渳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#渳)】`mi1` <sup>[泰州]</sup> 一次饮少量的酒或者饮料：酒要是喝不惯，就随意～点ㄦ。｜刚刚～啊一口，这个药还不算苦。  
 1. 【[渳渳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_mi.md#渳渳)】`mi1 mi1` <sup>[东台]</sup> 小口慢慢饮酒：他喜欢小～。（《说文解字》渳，饮歃也）  
 1. 【[眯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#眯)】`mi1` <sup>[如皋]</sup> ① 闭目养神：眼睛～啊下。 ② 小睡：吃咖中饭要～刻儿。  
@@ -1103,7 +1104,7 @@
 1. 【[楣气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_qi.md#楣气)】`mi2 qi5` <sup>[如皋]</sup> 倒楣之气：去耍耍，冲冲～。  
 1. 【[楣人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ren.md#楣人)】`mi2 ren2` <sup>[如皋]</sup> 倒楣的人。  
 1. 【[楣形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_xien.md#楣形)】`mi2 xien2` <sup>[如皋]</sup> 倒霉的样子。  
-1. 【[渳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#渳)】`mi2` <sup>[兴化]</sup> 少量地喝一点：她经不起别人劝，～啊一口甜酒。《广韵·纸韵》绵婢切｜“～，《说文》饮也。”俗作“咪”。  
+1. 【[渳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#渳)】`mi2` <sup>[兴化]</sup> 少量地喝一点：她经不起别人劝，～啊一口甜酒。  
 1. 【[眉花眼笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_hua_ngaen_xio.md#眉花眼笑)】`mi2 hua1 ngaen3 xio5` <sup>[兴化]</sup> 形容欢乐、嬉笑：老两口看见孙子不禁～。｜那尼姑贪财惹事，见了这两定细丝白银，～道……（《清平山堂话本·戒指儿记》）  
 1. 【[眉花<sub>儿</sub>眼笑的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_hua_r_ngaen_xio_dii.md#眉花<sub>儿</sub>眼笑的)】`mi2 hua1 r ngaen3 xio5 dii` <sup>[如皋]</sup> 眉开眼笑，笑得满脸开了花。  
 1. 【[眉毛疙勼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_mo_geh_jieu.md#眉毛疙勼)】`mi2 mo2 geh7 jieu1` <sup>[东台]</sup> 形容愁眉苦脸的样子。  
@@ -1138,12 +1139,11 @@
 1. 【[𤓒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#𤓒)】`mi2` <sup>[泰州]</sup> 烹饪方法，汤沸腾以后，用文火慢煮，使食物烂熟：把排骨在锅肚里多～～再下锅。｜花生米子已经～啊烂吖唻。  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#□)】`mi3` <sup>[泰县]</sup> ① 寻觅：山芋田里会～到好多老鼠洞。 ② 悄悄地监视：你注意～住他，看他到哪许去啊。  
 1. 【[□根子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_gen_zz.md#□根子)】`mi3 gen1 zz` <sup>[泰县]</sup> 追根求源。  
-1. 【[渳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#渳)】`mi3` <sup>[如东]</sup> 用嘴唇轻轻地喝一口：～一口五粮液。  
 1. 【[渳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#渳)】`mi3` <sup>[如皋]</sup> 略饮。  
 1. 【[渳下子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ha_zz.md#渳下子)】`mi3 ha6 zz` <sup>[如皋]</sup> 饮一下。喝一点。  
 1. 【[渳渳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_mi.md#渳渳)】`mi3 mi3` <sup>[如皋]</sup> 喝一喝，吃一吃。  
 1. 【[眯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#眯)】`mi3` <sup>[如皋]</sup> 异物入眼：眼睛肚里～啊蠓虫儿。  
-1. 【[眯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#眯)】`mi3` <sup>[兴化]</sup> 灰土、蠓虫之类进入眼内：眼睛捱灰～吖。《集韵·旨韵》母鄙切｜“～，物入目病。”  
+1. 【[眯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#眯)】`mi3` <sup>[兴化]</sup> 灰土、蠓虫之类进入眼内：眼睛捱灰～吖。  
 1. 【[眯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#眯)】`mi3` <sup>[泰州]</sup> 碎物入眼：灰埲埲的，～眼睛。  
 1. 【[眯人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ren_zz.md#眯人子)】`mi3 ren zz` <sup>[如皋]</sup> 眼睑内有异物的不适感：结膜炎的痛感。  
 1. 【[眯细眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_xi_ngaen_r.md#眯细眼<sub>儿</sub>)】`mi3 xi5 ngaen3 r` <sup>[如东]</sup> ① 眼皮眯缝。 ② 眼皮眯缝的人。  

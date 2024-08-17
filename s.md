@@ -3794,8 +3794,8 @@
 1. 【[死话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_hua.md#死话)】`sz3 hua6` <sup>[如皋]</sup> 比“獃话”程度强些，有贬义。  
 1. 【[死也闭眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ia_bi_ngaen.md#死也闭眼)】`sz3 ia3 bi5 ngaen3` <sup>[如皋]</sup> 心愿已了，服气了。  
 1. 【[死要脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_io_lin.md#死要脸)】`sz3 io5 lin3` <sup>[兴化]</sup> 为顾全脸面，千方百计掩饰自己的窘境和丑行：谚曰：上吊搽粉一一～。  
-1. 【[死强](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_jian.md#死强)】`sz3 jian5` <sup>[兴化]</sup> 认死理，不听人劝导：“……我替他讲明白了，他还要～……”（《儒林外史》五四）也作“死犟”“硬犟”。  
 1. 【[死犟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_jian.md#死犟)】`sz3 jian5` <sup>[东台]</sup> 太倔强、固执，不服软。  
+1. 【[死犟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_jian.md#死犟)】`sz3 jian5` <sup>[兴化]</sup> 认死理，不听人劝导  
 1. 【[死开去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_kae_qy.md#死开去)】`sz3 kae1 qy` <sup>[东台]</sup> （詈语）怒斥人走开，滚蛋。  
 1. 【[死来化](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_lae_hua.md#死来化)】`sz3 lae2 hua5` <sup>[兴化]</sup> 形容纠缠不休的人或哭闹不休的孩子：这个小伙～，惹动他能哭上大半天。  
 1. 【[死懒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_laen.md#死懒)】`sz3 laen3` <sup>[如东]</sup> 非常懒惰：他呀，～！  
