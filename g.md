@@ -1139,6 +1139,7 @@
 1. 【[过时节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_shr_jih.md#过时节)】`gu5 shr2 jih` <sup>[兴化]</sup> ① 交节令：他这个老痰瘾，～就要发作。 ② 过节日。  
 1. 【[过世](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_shr.md#过世)】`gu5 shr5` <sup>[如东]</sup> 死亡。  
 1. 【[过水槽<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_shuei_co_r.md#过水槽<sub>儿</sub>)】`gu5 shuei3 co2 r` <sup>[如皋]</sup> 旧时用水车戽水灌溉常见的经其它田边的引水槽。  
+1. 【[过数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_shv.md#过数)】`gu5 shv5` <sup>\[泰州\]</sup>点数（钱物等的）数目：钱我过过数唻，不错。<sup>\[泰州\]</sup>  
 1. 【[过宿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_soh.md#过宿)】`gu5 soh7` ① <sup>\[如皋\]</sup>过夜，住宿，睡。 ② <sup>\[兴化\]</sup>过夜：月朗让卧房与李甲杜嫩二人～。（《警世通言》三二）<sup>\[兴化\]</sup>｜从此以后，她才注意到金家福是个“有钱不～，有米不煮粥”的户头。（马春阳《访亲》）<sup>\[兴化\]</sup>  
 1. 【[过汤面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_tan_min.md#过汤面)】`gu5 tan1 min6` <sup>[如皋]</sup> 碗中加汤的面条儿。  
 1. 【[过堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_tan.md#过堂)】`gu5 tan2` <sup>[东台]</sup> 旧时诉讼当事人到公堂上受审，现在喻指上级机关审查通过有关计划或文稿。  
@@ -1791,7 +1792,7 @@
 1. 【[管待](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_tae.md#管待)】`gun3 tae6` <sup>[兴化]</sup> 招待、款待：老家来人，爸妈连忙上街打酒买菜～。｜老员外与大娘子急急收拾起身，～来人酒饭。（《京本通俗小说·错斩崔宁》）｜欧阳淳只得治酒～。至夜，各自归于卧所。（《封神演义》八五）  
 1. 【[管头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_teu.md#管头)】`gun3 teu2` <sup>[兴化]</sup> 旧指主人，今又指直接管理者：好啊，他俫班主任来啊，有～啊。｜“你如今有了～，比不得往日了……”（《梼杌闲评》八）  
 1. 【[管头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_teu_r.md#管头<sub>儿</sub>)】`gun3 teu2 r` <sup>[如皋]</sup> 顶头上司，常讽指爱支使、教训别人的人。  
-1. 【[管正](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_zhen.md#管正)】`gun3 zhen5` <sup>\[泰兴\]</sup>做正经事，从事正经工作。“不管正”犹如“不务正业”：你哿能管点儿正啊？<sup>\[泰兴\]</sup>｜他毕业以后一直不～/他毕业以后一直不务正业<sup>\[泰兴\]</sup>  
+1. 【[管正](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_zhen.md#管正)】`gun3 zhen5` <sup>\[泰兴\]</sup>做正经事，从事正经工作。“不管正”犹如“不务正业”：你哿能管点儿正吖？<sup>\[泰兴\]</sup>｜他毕业以后一直不～/他毕业以后一直不务正业<sup>\[泰兴\]</sup>  
 1. 【[管嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_zuei.md#管嘴)】`gun3 zuei3` <sup>[兴化]</sup> ① 旧指对雇工只管吃饭，不开工钱。 ② 收入只够餬口，不及其他：踏三轮车勉强～。  
 1. 【[赶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun.md#赶)】`gun3` ① <sup>\[如皋\]</sup>移动砣绳在秤杆上的位置：望里～点儿。<sup>\[如皋\]</sup> ② <sup>\[兴化\]</sup>微微拨动系秤陀的细绳，使秤杆平衡：二十斤不到，再朝里头～。<sup>\[兴化\]</sup>  
 1. 【[赶不上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_beh_shan.md#赶不上)】`gun3 beh7 shan6` <sup>[东台]</sup> ① 时间来不及。 ② 追不上：跑慢吖～开会。  
@@ -1896,7 +1897,6 @@
 1. 【[鼓胀病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_zhan_pien.md#鼓胀病)】`gv3 zhan5 pien6` <sup>[东台]</sup> 亦称“水鼓胀”，中医指由水气、痰血、寄生虫等原因引起的腹部膨胀的疾病。  
 1. 【[固属](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_shoh.md#固属)】`gv5 shoh` <sup>[兴化]</sup> 连词，固然：自己开店～好，哪许有这吖多本钱吖？｜小张～不对，但也不能揪住不放。  
 1. 【[故典<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_din_r.md#故典<sub>儿</sub>)】`gv5 din3 r` <sup>[兴化]</sup> 故事：他肚里～不少。  
-1. 【[过数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_shv.md#过数)】`gv5 shv5` <sup>\[泰州\]</sup>点数（钱物等的）数目：钱我过过数唻，不错。<sup>\[泰州\]</sup>  
 1. 【[顾大卖田，顾二不理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_da_mae_tin_gv_er_beh_li.md#顾大卖田，顾二不理)】`gv5 da mae6 tin2， gv5 er6 beh7 li3` <sup>[东台]</sup> ［喻］传说从前有顾氏兄弟失和，老大穷得卖田了，老二也不过问。现常用“顾二”的谐音“顾而”喻指顾而不理、置若罔闻。  
 1. 【[顾二麻子——熟人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_er_ma_zz_shoh_ren.md#顾二麻子——熟人)】`gv5 er6 ma2 zz shoh8 ren2` <sup>[如皋]</sup> 顾二麻子是清代如皋被人暗害，并煮熟分尸命案中人，故有此说。今转指熟识之人  
 1. 【[顾家气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_ga_qi.md#顾家气)】`gv5 ga1 qi` <sup>[东台]</sup> 说话办事都从自家利益上考虑，维护家庭、家族或家乡的利益。  

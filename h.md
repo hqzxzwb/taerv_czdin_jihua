@@ -1419,7 +1419,7 @@
 1. 【[搳锨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_xin.md#搳锨)】`huaeh7 xin1` <sup>[如皋]</sup> 头部呈箕形，专以抄走烂河泥甩上河坎的锹。  
 1. 【[搳消](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_xio.md#搳消)】`huaeh7 xio1` <sup>[东台]</sup> 抵消；扯平。  
 1. 【[搳账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_zhan.md#搳账)】`huaeh7 zhan5` <sup>[东台]</sup> 债权债务相互抵消：他给我的货，价值几乎等于欠我的钱，这吖一来可以～啊。  
-1. 【[豁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh.md#豁)】`huaeh7` ① <sup>\[如东\]</sup>口子拉得很大：这个布洞剪～掉啊。<sup>\[如东\]</sup> ② <sup>\[如皋\]</sup>撕裂、割裂：手上捱树枝儿～咖个口子，只冒血。<sup>\[如皋\]</sup> ③ <sup>\[兴化\]</sup>开裂：褂子～开来啊。<sup>\[兴化\]</sup>｜～口子<sup>\[兴化\]</sup>｜三岔～子。<sup>\[兴化\]</sup> ④ <sup>\[兴化\]</sup>（喻）岔子：出～。<sup>\[兴化\]</sup>  
+1. 【[豁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh.md#豁)】`huaeh7` ① <sup>\[如皋\]</sup>撕裂、割裂：手上捱树枝儿～咖个口子，只冒血。<sup>\[如皋\]</sup> ② <sup>\[如东\]\[兴化\]</sup>开裂：这个布洞剪～掉啊。<sup>\[如东\]</sup>｜褂子～开来啊。<sup>\[兴化\]</sup>｜～口子<sup>\[兴化\]</sup>｜三岔～子。<sup>\[兴化\]</sup>  
 1. 【[豁边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_bin.md#豁边)】`huaeh7 bin1` ① <sup>\[如东\]</sup>事情超出了原来的范围和程度：这件事～吖，要出问题。<sup>\[如东\]</sup> ② <sup>\[泰县\]</sup>中途变卦：本来说好他去的，现在～吖。  
 1. 【[豁虎跳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_hv_tio.md#豁虎跳)】`huaeh7 hv3 tio5` <sup>[如皋]</sup> 侧空翻、前空翻。  
 1. 【[豁口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_keu.md#豁口)】`huaeh7 keu3` <sup>[如东]</sup> 很大的一个口子。  
@@ -1427,7 +1427,7 @@
 1. 【[豁筢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_pa_r.md#豁筢<sub>儿</sub>)】`huaeh7 pa2 r` <sup>[如皋]</sup> 见“豁筢齿”。  
 1. 【[豁䶕齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_pah_chr.md#豁䶕齿)】`huaeh7 pah7 chr3` <sup>[如皋]</sup> 缺门齿的样子。  
 1. 【[豁泡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_po_r.md#豁泡<sub>儿</sub>)】`huaeh7 po1 r` <sup>[如东]</sup> 皮肤上鼓起水泡儿。  
-1. 【[豁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_zz.md#豁子)】`huaeh7 zz` ① <sup>\[如东\]</sup>口子：河堤上冲吖个～。<sup>\[如东\]</sup> ② <sup>\[如东\]</sup>比喻问题：出咖大～。<sup>\[如东\]</sup> ③ <sup>\[东台\]</sup>纰漏：他手伸得太长，明吖越个～不得小。（另见“豁子”）<sup>\[东台\]</sup>  
+1. 【[豁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_zz.md#豁子)】`huaeh7 zz` ① <sup>\[如东\]</sup>口子：河堤上冲吖个～。<sup>\[如东\]</sup> ② <sup>\[兴化\]\[如东\]\[东台\]</sup>（喻）事务中的枝节、纰漏、问题：出～。<sup>\[兴化\]</sup>｜出咖大～。<sup>\[如东\]</sup>｜他手伸得太长，明吖忑个～不得小。<sup>\[东台\]</sup>  
 1. 【[𧽌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh.md#𧽌)】`huaeh7` ① <sup>\[东台\]</sup>越过：这哿水沟，他一～就过去啊。<sup>\[东台\]</sup> ② <sup>\[兴化\]</sup>跳越：小沟头子他一～就过去啊。<sup>\[兴化\]</sup> ③ <sup>\[兴化\]</sup>越级：从三年级～到五年级（～级）。<sup>\[兴化\]</sup> ④ <sup>\[泰县\]</sup>跳跃、超越而过：～过一条沟。<sup>\[泰县\]</sup> ⑤ <sup>\[泰兴\]</sup>跳跃越过 ⑥ <sup>\[泰兴\]</sup>言行程远：老远的～得来，就为买个烧饼<sup>\[泰兴\]</sup> ⑦ <sup>\[泰州\]</sup>奔跑过程汇总跨越一定宽度或者一定高度的障碍：就这点ㄦ高，一～就过去啊唻。<sup>\[泰州\]</sup>｜他一口气连～三个缺口。<sup>\[泰州\]</sup> ⑧ <sup>\[泰州\]</sup>趁人不注意时悄悄走脱：刚才还望见他的，不晓得他这一刻ㄦ～咖哪块去啊。<sup>\[泰州\]</sup> ⑨ <sup>\[泰州\]</sup>漏网，贬义：五个人去打架的，派出所捉咖四个，只有他个人～过去啊。<sup>\[泰州\]</sup>  
 1. 【[𧽌沟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_geu.md#𧽌沟)】`huaeh7 geu1` <sup>[如皋]</sup> 跳过河去。  
 1. 【[𧽌连叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_lin_cha.md#𧽌连叉)】`huaeh7 lin2 cha1` ① <sup>\[东台\]</sup>双手点地，侧身腾跃。 ② <sup>\[兴化\]</sup>两手交替着地连续侧身翻，豁虎跳。儿歌：猫子不在家，老鼠～。<sup>\[兴化\]</sup> ③ <sup>\[泰县\]</sup>侧身翻，豁虎跳。  
