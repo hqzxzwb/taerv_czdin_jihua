@@ -964,7 +964,7 @@
 1. 【[贡手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_sheu.md#贡手)】`gon5 sheu3` <sup>[兴化]</sup> 抄着手：他成天～，甚的事也不做。  
 1. 【[哥哥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_gu.md#哥哥)】`gu1 gu` <sup>[如皋]</sup> 社交借称，表示亲切：乡村中不限彼此年龄，老人问路可称小伙子为～。  
 1. 【[哥哥言八八语](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_gu_in_baeh_baeh_y.md#哥哥言八八语)】`gu1 gu1 in2 baeh7 baeh7 y3` <sup>[东台]</sup> ① “哥哥”“八八”，指像很多只八哥。 ② 求人办事说了许多好话。 ③ 人多嘴杂，废话啰唆。  
-1. 【[哥<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_r.md#哥<sub>儿</sub>)】`gu1 r` <sup>[如皋]</sup> ① （gu2 r）东北乡音，称兄。 ② 八～：乌鸫。  
+1. 【[哥<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_r.md#哥<sub>儿</sub>)】`gu1 r` <sup>[如皋]</sup> （gu2 r）东北乡音，称兄。  
 1. 【[戈宝权](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_bo_qiun.md#戈宝权)】`gu1 bo3 qiun2` <sup>[东台]</sup> 东台人（1913-2000），我国当代著名的翻译家，外国文学研究专家。系戈公振的侄子。曾任驻苏联大使馆临时代办和文化参赞中科院外国文学研究员、学部委员。他翻译过五十多种外国文学作品，为中外文化交流作出了巨大贡献。  
 1. 【[戈公振](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_gon_zhen.md#戈公振)】`gu1 gon1 zhen5` <sup>[东台]</sup> 名绍发（1890-1935），号公振，东台人，著名记者，新闻学家和新闻史研究开拓者。先后参加《东台日报》、上海》《时报》《申报》工作。首创《图画时报，先后在国民、复旦等大学讲学。曾到苏联、欧美及日本考察，1935年创办《生活日报》，宣传抗日救国。  
 1. 【[戈公振故居](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_gon_zhen_gv_jy.md#戈公振故居)】`gu1 gon1 zhen5 gv5 jy1` <sup>[东台]</sup> 位于鼓楼路步行街北侧，清代建筑。门匾为周巍峙题写，南面照壁墻墙上刻有沈钧儒所书戈公振临终遗言及其跋文。  
@@ -1718,7 +1718,7 @@
 1. 【[干焦哔卟的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_jio_bieh_boh_dii.md#干焦哔卟的)】`gun1 jio1 bieh7 boh7 dii` <sup>[如皋]</sup> 见“干吖蠚起来啊”。  
 1. 【[干焦焦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_jio_jio.md#干焦焦)】`gun1 jio1 jio1` <sup>[兴化]</sup> 干燥：柴草晒得～的。  
 1. 【[干卡卡的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_ka_ka_dii.md#干卡卡的)】`gun1 ka3 ka3 dii` <sup>[如皋]</sup> 干巴巴的。  
-1. 【[干焅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_ko.md#干焅)】`gun1 ko5` <sup>[兴化]</sup> ① 不加水，只放少许的油，把食物放在锅里烤。 ② （喻）商店或摊贩晚上因等待顾客而迟打样：不要～，关门睡觉吧！  
+1. 【[干熇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_ko.md#干熇)】`gun1 ko5` <sup>[兴化]</sup> ① 不加水，只放少许的油，把食物放在锅里烤。 ② （喻）商店或摊贩晚上因等待顾客而迟打样：不要～，关门睡觉吧！  
 1. 【[干烂泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_laen_ni.md#干烂泥)】`gun1 laen6 ni2` <sup>[如皋]</sup> 干土。  
 1. 【[干老王子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_lo_van_zz.md#干老王子)】`gun1 lo3 van2 zz` <sup>[如皋]</sup> 好吃干性食品，少喝汤水的人或习惯。  
 1. 【[干面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_min.md#干面)】`gun1 min6` ① <sup>\[如皋\]</sup>小麦面粉。 ② <sup>\[兴化\]</sup>小麦面粉。  
