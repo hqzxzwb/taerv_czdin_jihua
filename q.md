@@ -1099,7 +1099,7 @@
 1. 【[仇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu.md#仇)】`qieu2` <sup>[东台]</sup> 姓氏：～堡。  
 1. 【[囚犯头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_faen_teu.md#囚犯头)】`qieu2 faen5 teu2` <sup>[东台]</sup> （贱称）很长时间不理发，头发长得很长的样子。  
 1. 【[囚头囚脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_teu_qieu_no.md#囚头囚脑)】`qieu2 teu2 qieu2 no3` <sup>[东台]</sup> 形容不懂规矩，不讲道理。  
-1. 【[揂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu.md#揂)】`qieu2` <sup>\[东台\]\[兴化\]</sup>揉；揉成团：把纸～起来。<sup>\[兴化\]</sup>  
+1. 【[揂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu.md#揂)】`qieu2` ① <sup>\[东台\]\[兴化\]\[泰州\]</sup>揉成团：把纸～起来。<sup>\[兴化\]</sup>｜你望他把西装～得这样子噢。<sup>\[泰州\]</sup>｜他把手上的纸一～，就望字纸篓子里头一撂。<sup>\[泰州\]</sup> ② <sup>\[泰州\]</sup>泛指物体散乱成团：他头发长得～起来啊。<sup>\[泰州\]</sup>｜头发～啊头上还不梳啊子。<sup>\[泰州\]</sup> ③ （【說文】聚也。【集韻】字秋切，音遒。）  
 1. 【[毬蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_taen.md#毬蛋)】`qieu2 taen6` <sup>[如东]</sup> 睾丸。  
 1. 【[求爹爹拜奶奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_dia_dia_bae_nae_nae.md#求爹爹拜奶奶)】`qieu2 dia1 dia1 bae5 nae3 nae` <sup>[东台]</sup> 形容为某事到处奔走、哀告、祈求。  
 1. 【[求医](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_i.md#求医)】`qieu2 i1` <sup>[如东]</sup> 请求医生治病。  
@@ -1110,7 +1110,6 @@
 1. 【[求人不如求己](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_ren_beh_rv_qieu_ji.md#求人不如求己)】`qieu2 ren2 beh7 rv2 qieu2 ji3` <sup>[如皋]</sup> 凡事自己办好。  
 1. 【[求仙方](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_xin_fan.md#求仙方)】`qieu2 xin1 fan1` ① <sup>\[如皋\]</sup>见“讨仙方”。 ② <sup>\[如皋\]</sup>迷信者向某一神仙求药或药方。 ③ <sup>\[东台\]</sup>在神佛面前问病求药方。  
 1. 【[求雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_y.md#求雨)】`qieu2 y3` <sup>[东台]</sup> ① 旧时乞求降雨的仪式。 ② 戏称晴天带雨具为～。  
-1. 【[球](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu.md#球)】`qieu2` <sup>[泰州]</sup> ① 将物体揉成一团：你望他把西装～得这样子噢。｜他把手上的纸一～，就望字纸篓子里头一撂。 ② 泛指物体散乱成团：他头发长得～起来啊。｜头发～啊头上还不梳啊子。  
 1. 【[球肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_roh.md#球肉)】`qieu2 roh8` ① <sup>\[东台\]</sup>团肉。肌肉一块一块的很结实的样子：他长吖一身的～。<sup>\[东台\]</sup> ② <sup>\[兴化\]</sup>因肥胖而肌肉堆叠：卞金山抖动着满脸～……（马春阳《夜袭叹气庙》）‖也作“囚肉”。<sup>\[兴化\]</sup>  
 1. 【[虬毛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_mo_r.md#虬毛<sub>儿</sub>)】`qieu2 mo2 r` <sup>[东台]</sup> 卷曲的毛发或毛发卷曲的人：我看见几个～，都是外国人。  
 1. 【[虬虬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_qieu_r.md#虬虬<sub>儿</sub>)】`qieu2 qieu2 r` <sup>[如东]</sup> 丝状物结成团儿：这些蚕丝变吖～。  
@@ -1119,7 +1118,7 @@
 1. 【[虬虬<sub>儿</sub>头发](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_qieu_r_teu_faeh.md#虬虬<sub>儿</sub>头发)】`qieu2 qieu2 r teu2 faeh7` <sup>[如皋]</sup>   
 1. 【[虬丝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_sz.md#虬丝)】`qieu2 sz1` ① <sup>\[如皋\]</sup>状木纹蜷曲不顺。 ② <sup>\[如东\]</sup>树木生长的木纹呈旋转状。也称虬虬儿丝：这根桑树是～，非常难刨平。<sup>\[如东\]</sup> ③ <sup>\[兴化\]</sup>木材近节疤处螺旋状纹路。 ④ <sup>\[兴化\]</sup>（喻）性情执拗，难以理喻：他是个～，大道理跟他讲不通。也说成“虬丝疙瘩子”。<sup>\[兴化\]</sup>  
 1. 【[虬头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_teu.md#虬头)】`qieu2 teu2` <sup>[如皋]</sup> 头发盘曲状。一作鬈，原音qiun2后来演变中鼻化韵脱落。  
-1. 【[搝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu.md#搝)】`qieu3` ① <sup>\[如皋\]\[东台\]\[兴化\]\[泰州\]</sup>捉弄、戏耍、算计以使人吃亏：～人。<sup>\[如皋\]</sup>｜你覅～人。<sup>\[兴化\]</sup>｜他是～你的，你还把他当好人。<sup>\[泰州\]</sup>｜他太老卵，大家想个法子～他下子。<sup>\[泰州\]</sup> ② <sup>\[如皋\]</sup>盘弄、不爱惜：他把钟～啊坏啊。 ③ <sup>\[如皋\]</sup>挣：～钱、～得凶。 ④ <sup>\[如皋\]\[东台\]\[兴化\]\[泰州\]</sup>进行工作或活动，即干、做、办：他家～得不丑。<sup>\[如皋\]</sup>｜～架/打架<sup>\[如皋\]</sup>｜伙家，你～得不丑<sup>\[东台\]</sup>｜他～得精！<sup>\[东台\]</sup>｜这笔交易你不～我～。<sup>\[兴化\]</sup>｜这吖重要的事交把你～，你要把它～～好。<sup>\[泰州\]</sup> ⑤ <sup>\[如皋\]</sup>吃：～啊三碗饭。<sup>\[如皋\]</sup> ⑥ <sup>\[如东\]</sup>抓住：～住<sup>\[如东\]</sup> ⑦ <sup>\[如东\]</sup>寻，找，赚：～钱。<sup>\[如东\]</sup> ⑧ <sup>\[兴化\]</sup>盘弄：电视机捱他～坏啊。<sup>\[兴化\]</sup> ⑨ <sup>\[兴化\]</sup>纠缠。《官场现形记》第三十二回有“两人～了半天”句。  
+1. 【[搝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu.md#搝)】`qieu3` ① <sup>\[如皋\]\[东台\]\[兴化\]\[泰州\]</sup>捉弄、戏耍，或算计以损害（人）：～人。<sup>\[如皋\]</sup>｜你覅～人。<sup>\[兴化\]</sup>｜他是～你的，你还把他当好人。<sup>\[泰州\]</sup>｜他太老卵，大家想个法子～他下子。<sup>\[泰州\]</sup> ② <sup>\[如皋\]\[兴化\]</sup>盘弄：他把钟～啊坏啊。<sup>\[如皋\]</sup>｜电视机捱他～坏啊。<sup>\[兴化\]</sup> ③ <sup>\[如皋\]\[如东\]</sup>设法取得：～钱、～得凶。<sup>\[如皋\]</sup>｜～钱。<sup>\[如东\]</sup> ④ <sup>\[如皋\]\[东台\]\[兴化\]\[泰州\]</sup>进行工作或活动，即干、做、办：他家～得不丑。<sup>\[如皋\]</sup>｜～架/打架<sup>\[如皋\]</sup>｜伙家，你～得不丑<sup>\[东台\]</sup>｜他～得精！<sup>\[东台\]</sup>｜这笔交易你不～我～。<sup>\[兴化\]</sup>｜这吖重要的事交把你～，你要把它～～好。<sup>\[泰州\]</sup> ⑤ <sup>\[如皋\]</sup>吃：～啊三碗饭。<sup>\[如皋\]</sup> ⑥ <sup>\[如东\]</sup>抓住：～住<sup>\[如东\]</sup> ⑦ <sup>\[兴化\]</sup>纠缠。《官场现形记》第三十二回有“两人～了半天”句。  
 1. 【[搝空头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_kon_teu.md#搝空头)】`qieu3 kon5 teu` <sup>[如皋]</sup> 假约定、假承诺捉弄人。  
 1. 【[搝人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_ren.md#搝人)】`qieu3 ren2` <sup>[东台]</sup> ① 不怀好意地整人：要与人为善，不能～。 ② 捉弄人，拿别人开心。  
 1. 【[糗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu.md#糗)】`qieu3` <sup>[东台]</sup> 不光彩：这个又不是甚的～事，怕甚的？  
@@ -1190,7 +1189,7 @@
 1. 【[舅子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_zz.md#舅子)】`qieu6 zz` ① <sup>\[如东\]</sup>妻子的兄弟。 ② <sup>\[泰县\]</sup>舅舅。  
 1. 【[舅子婆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_zz_pu_r.md#舅子婆<sub>儿</sub>)】`qieu6 zz pu2 r` <sup>[如东]</sup> 舅子的妻子。  
 1. 【[切](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qih.md#切)】`qih7` <sup>[如东]</sup> 用刀把物品切成若干部分：～西瓜。  
-1. 【[切板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qih_baen.md#切板)】`qih7 baen3` ① 砧板 ② <sup>\[如东\]</sup>厨具。有圆形、方形、长方形等多种，木竹或塑料制成，用于切菜。 ③ <sup>\[东台\]</sup>砧板（切菜板）。  
+1. 【[切板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qih_baen.md#切板)】`qih7 baen3` <sup>\[如东\]\[东台\]</sup>厨具，砧板、切菜板  
 1. 【[切菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qih_cae.md#切菜)】`qih7 cae5` <sup>[如皋]</sup> ① 香肉店卖的熟肉食，切好装盘。 ② 到香肉店买熟菜。  
 1. 【[切菜刀剃头——怕人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qih_cae_do_ti_teu_pa_ren_zz.md#切菜刀剃头——怕人子)】`qih7 cae5 do1 ti5 teu2 pa5 ren2 zz` <sup>[东台]</sup>   
 1. 【[切己](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qih_ji.md#切己)】`qih7 ji3` <sup>[兴化]</sup> 贴已，关系密切：让～的人管账放得心。｜通天教主见左右四个～门徒俱丧，切齿深恨……（《封神演义》八四）  

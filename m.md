@@ -303,7 +303,7 @@
 1. 【[卖嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_zuei.md#卖嘴)】`mae6 zuei3` <sup>[兴化]</sup> 吹牛或自夸：他只会～，一动真的就不中吖。  
 1. 【[迈方步](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_fan_pv.md#迈方步)】`mae6 fan1 pv6` <sup>[如东]</sup> 悠闲地迈着大而慢的步子，故意装出一种架子和气派。也叫官步：你不要～，没得人怕你。  
 1. 【[迈后朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_heu_zho.md#迈后朝)】`mae6 heu6 zho, mae6 heu6 do` 大后天  
-1. 【[抹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maeh.md#抹)】`maeh8` ① <sup>\[如东\]</sup>用手由上往下或由下往上捋：～他的脸。<sup>\[如东\]</sup> ② <sup>\[兴化\]</sup>用手轻按并顺势挪动：吃过饭嘴一～。<sup>\[兴化\]</sup>｜你要顺住他的毛～。<sup>\[兴化\]</sup>  
+1. 【[抹/㩢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maeh.md#抹/㩢)】`maeh8` ① <sup>\[兴化\]\[如东\]</sup>用手轻按并顺势挪动：吃过饭嘴一～。<sup>\[兴化\]</sup>｜你要顺住他的毛～。<sup>\[兴化\]</sup>｜～他的脸。<sup>\[如东\]</sup> ② 扫视（*睰）：眼睛一～就晓得咖。  
 1. 【[抹大冲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maeh_da_chon.md#抹大冲)】`maeh8 da6 chon5` <sup>[如东]</sup> 办事不踏实：他是一个～。  
 1. 【[抹锅锈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maeh_gu_xieu.md#抹锅锈)】`maeh8 gu1 xieu5` <sup>[如皋]</sup> 旧时对人的一种迫害手段，用锅底灰和油抹于人脸，使其“不能见人”。  
 1. 【[抹鬼脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maeh_guei_lin.md#抹鬼脸)】`maeh8 guei3 lin3` <sup>[兴化]</sup> 用手抹脸，表示羞辱：你说话赖话，我抹你个鬼险。  
@@ -314,7 +314,6 @@
 1. 【[抹□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maeh_jien.md#抹□)】`maeh8 jien1` <sup>[如皋]</sup> 用推拿法治痉挛。如皋词典写“抹痉”。  
 1. 【[抹面子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maeh_min_zz.md#抹面子)】`maeh8 min6 zz` <sup>[兴化]</sup> 照顾面皮，以便转圜：杀人不过头点地，人家认错代你～就算啊。  
 1. 【[抹刷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maeh_shuaeh.md#抹刷)】`maeh8 shuaeh` ① <sup>\[兴化\]</sup>形容人态度温和，言语婉转：大娘娘～，把双方的老人都服侍得高高兴兴的。<sup>\[兴化\]</sup> ② <sup>\[泰县\]</sup>敷衍，劝解。  
-1. 【[睰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maeh.md#睰)】`maeh8` 扫视：眼睛一～就晓得咖。  
 1. 【[蚂蚱胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maeh_zha_hv_zz.md#蚂蚱胡子)】`maeh8 zha hv2 zz` <sup>[兴化]</sup> ① 上唇两撇胡须，像蚱蜢的触角。 ② 也指留～的人：旁人起哄，～躲啊一旁不开口。  
 1. 【[蚂蚱庙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maeh_zha_mio.md#蚂蚱庙)】`maeh8 zha mio6` <sup>[兴化]</sup> 刘猛将军庙的俗称。刘为传说中管制蝗虫的神。兴化垛田镇即有村庄名叫将军庙。兴化辞典作“蛨虴”。  
 1. 【[蚂蚱菩萨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maeh_zha_pv_saeh.md#蚂蚱菩萨)】`maeh8 zha pv2 saeh7` <sup>[如皋]</sup> 喻满脸污垢的样子：细伢儿会自己吃咖，就是吃得满头满脸都是粥，活像个～。  
