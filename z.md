@@ -1355,7 +1355,7 @@
 1. 【[㧻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah.md#㧻)】`zhuah7` 用力往下放  
 1. 【[卓肩膀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_jin_ban.md#卓肩膀)】`zhuah7 jin1 ban3` <sup>[兴化]</sup> 因瘦削而两肩高耸：来人是个高个子，～，缩颈项。  
 1. 【[捉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah.md#捉)】`zhuah7` ① <sup>\[如皋\]</sup>买活物：问你～两只鸡子。 ② <sup>\[如东\]</sup>拾取：～棉花。<sup>\[如东\]</sup> ③ <sup>\[如东\]</sup>统计：～账。<sup>\[如东\]</sup> ④ <sup>\[如东\]</sup>擒拿：～贼。<sup>\[如东\]</sup> ⑤ <sup>\[东台\]</sup>把东西竖着理齐：把这些文件夹～～齐。<sup>\[东台\]</sup> ⑥ <sup>\[兴化\]</sup>清点、查看：～货款<sup>\[兴化\]</sup>｜～账～<sup>\[兴化\]</sup>｜～人数。<sup>\[兴化\]</sup> ⑦ <sup>\[兴化\]</sup>把东西放在平面上拍齐：～纸<sup>\[兴化\]</sup>｜～筷子。<sup>\[兴化\]</sup> ⑧ <sup>\[泰县\]</sup>整理；我来把这些材料～下子。  
-1. 【[捉/㧻/𢽚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah.md#捉/㧻/𢽚)】`zhuah7` <sup>[泰州]</sup> ① 将条状物垂直举起，用劲放下：老头儿把拐棒一～，就喊起来啊。 ② 将装满粒状物的袋子垂直举起，使劲放下，使袋内东西下坠 ③ 将成把、成捆、成叠的东西垂直举起置于平面，使之平齐：你把书～咖齐啊，放好。｜你把筷子～咖子。｜你把葱～齐啊。 ④ 点数，清点数目是否相符：你把钱～～，看看到底卖啊几个钱。｜你把人～～，齐啊就出发。 ⑤ 骂人始终停留或者站立某个空间不愿离开，詈语：你老～咖家里不是个事，不想法找个工作怎吖行？｜你先家去，在这块～到晚都没得用。  
+1. 【[捉/㧻/𢽚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah.md#捉/㧻/𢽚)】`zhuah7` <sup>[泰州]</sup> ① 将条状物垂直举起，用劲放下：老头儿把拐棒一～，就喊起来啊。 ② 将装满粒状物的袋子垂直举起，使劲放下，使袋内东西下坠：你把袋子～～，剩下来的这点儿豆儿就都装下去唻。 ③ 将成把、成捆、成叠的东西垂直举起置于平面，使之平齐：你把书～咖齐啊，放好。｜你把筷子～咖子。｜你把葱～齐啊。 ④ 点数，清点数目是否相符：你把钱～～，看看到底卖啊几个钱。｜你把人～～，齐啊就出发。 ⑤ 骂人始终停留或者站立某个空间不愿离开，詈语：你老～咖家里不是个事，不想法找个工作怎吖行？｜你先家去，在这块～到晚都没得用。  
 1. 【[捉贼捉赃，捉奸捉双](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_ceh_zhuah_zan_zhuah_jiaen_zhuah_shuan.md#捉贼捉赃，捉奸捉双)】`zhuah7 ceh8 zhuah7 zan1 zhuah7 jiaen1 zhuah7 shuan1` <sup>[东台]</sup> 要以事实为依据。  
 1. 【[捉蚕<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_cun_r.md#捉蚕<sub>儿</sub>)】`zhuah7 cun2 r` <sup>[如皋]</sup> 将大眠后的蚕提出上山。  
 1. 【[捉大花鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_da_hua_y.md#捉大花鱼)】`zhuah7 da6 hua1 y2` <sup>[如皋]</sup> 跌跤、摔跟头的戏称。  
@@ -1392,7 +1392,7 @@
 1. 【[桌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_zz.md#桌子)】`zhuah7 zz` ① 桌子 ② <sup>\[如东\]</sup>家具。上有平面，下有支柱。有四方形、长条形、圆形、椭圆形等形状。平面上可以放置物品以及从事工作。  
 1. 【[桌子脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_zz_jiah.md#桌子脚)】`zhuah7 zz jiah7` <sup>[如东]</sup> 支撑桌面的腿。  
 1. 【[浞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah.md#浞)】`zhuah7` <sup>[如皋]</sup> 用盐或卤汁略腌渍：把肉片先～下子。  
-1. 【[𢽚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah.md#𢽚)】`zhuah7` ① <sup>\[如皋\]</sup>重重地放下：他来啊火，把筷儿望桌上一～，把碗总～咖跳起来呀。 ② <sup>\[如皋\]</sup>整理、清点：～账。 ③ <sup>\[东台\]</sup>	颠簸：路上～得难受。<sup>\[东台\]</sup> ④ <sup>\[东台\]</sup>耸肩膀：他肩膀一～，做啊个鬼脸。<sup>\[东台\]</sup>  
+1. 【[𢽚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah.md#𢽚)】`zhuah7` ① <sup>\[如皋\]</sup>重重地放下：他来啊火，把筷儿望桌上一～，把碗总～咖跳起来呀。<sup>\[如皋\]</sup> ② <sup>\[如皋\]</sup>整理、清点：～账<sup>\[如皋\]</sup> ③ <sup>\[东台\]</sup>颠簸：路上～得难受。<sup>\[东台\]</sup> ④ <sup>\[东台\]</sup>耸肩膀：他肩膀一～，做啊个鬼脸。<sup>\[东台\]</sup>  
 1. 【[𢽚下子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_ha_zz.md#𢽚下子)】`zhuah7 ha zz` <sup>[如皋]</sup> ① 整理一下。 ② 总计一下。  
 1. 【[𢽚屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_pi_gu.md#𢽚屁股)】`zhuah7 pi5 gu` <sup>[如皋]</sup> 人体落下时，屁股先触及物体而被反弹力打击。  
 1. 【[𢽚钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_qin.md#𢽚钱)】`zhuah7 qin2` <sup>[如皋]</sup> 清点钱数。  
