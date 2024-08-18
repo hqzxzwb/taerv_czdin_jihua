@@ -446,7 +446,7 @@
 1. 【[防而不备](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_er_beh_pei.md#防而不备)】`fan2 er beh7 pei6` <sup>[如皋]</sup> 预备着不时之需。  
 1. 【[防寒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_hun.md#防寒)】`fan2 hun2` <sup>[东台]</sup> 防备寒冷侵害。  
 1. 【[防人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_ren.md#防人)】`fan2 ren2` <sup>[东台]</sup> 防备别人欺骗或侵害：（俗语）害人之心不可有，～之心不可无。  
-1. 【[防汛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_xyen.md#防汛)】`fan2 xyen5` <sup>[东台]</sup> 为防止江河涨水和大海涨潮造成灾害的措施的简称。  
+1. 【[防汛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_xien.md#防汛)】`fan2 xien5-xyen5` <sup>[东台]</sup> 为防止江河涨水和大海涨潮造成灾害的措施的简称。  
 1. 【[防震棚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_zhen_pon.md#防震棚)】`fan2 zhen5 pon2` <sup>[东台]</sup> 为防地震搭建的小棚。  
 1. 【[仿本<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_ben_r.md#仿本<sub>儿</sub>)】`fan3 ben3 r` <sup>[如皋]</sup> 写仿练习册。  
 1. 【[仿纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_zhr.md#仿纸)】`fan3 zhr3` <sup>[如东]</sup> 小学生练习毛笔字用的一种纸，类似宣纸。  

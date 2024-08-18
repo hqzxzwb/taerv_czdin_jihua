@@ -2036,7 +2036,6 @@
 1. 【[蔨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_zz.md#蔨子)】`qiun6 zz` <sup>[泰县]</sup> 蘑菇。  
 1. 【[催生婆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_shen_pu.md#催生婆)】`qy1 shen1 pu2` <sup>[东台]</sup> 旧时农村接生婆。  
 1. 【[催生婆摸屁眼——大外教](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_shen_pu_mah_pi_ngaen_da_vae_jio.md#催生婆摸屁眼——大外教)】`qy1 shen1 pu2 mah8 pi5 ngaen3 da6 vae6 jio5` <sup>[东台]</sup>   
-1. 【[崔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy.md#崔)】`qy1` <sup>[东台]</sup> 姓。  
 1. 【[蛆卵<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_lun_r.md#蛆卵<sub>儿</sub>)】`qy1 lun3 r` <sup>[东台]</sup> 也叫蛆子，苍蝇幼虫。  
 1. 【[蛆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_zz.md#蛆子)】`qy1 zz` <sup>[如东]</sup> 苍蝇的幼虫。体长圆形，前端尖，尾端圆形，或有长尾。柔弱，白色。生长在糞便、死尸或肮脏的地方。  
 1. 【[𥋖𥋖眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_qy_ngaen.md#𥋖𥋖眼)】`qy1 qy1 ngaen3` <sup>[东台]</sup> 就是近视眼。  

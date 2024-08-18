@@ -2139,13 +2139,13 @@
 1. 【[厌气刮刮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_qi_guaeh_guaeh.md#厌气刮刮)】`in5 qi guaeh7 guaeh7` <sup>[兴化]</sup> 形容人喜爱说俏皮话：王家五娘子到哪许总是～的。  
 1. 【[堰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in.md#堰)】`in5-1` <sup>[东台]</sup> 较低的挡水建筑物。  
 1. 【[焰口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_keu.md#焰口)】`in5 keu3` <sup>[如东]</sup> 佛教用语，形容饿鬼渴望饮食，口吐火焰。和尚向饿鬼施食叫放焰口。  
+1. 【[焰口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_keu.md#焰口)】`in5 keu3` <sup>[东台]</sup> 古印度传说中的一种饿鬼因身形焦枯，口内热火，咽细如针而得名。佛教密宗有专对此种饿鬼施食的经咒和念诵仪轨，其仪式一般称做放～，也是对死者超度的佛事之一。  
 1. 【[燕窠土](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_ku_tv.md#燕窠土)】`in5 ku1 tv3` <sup>[如东]</sup> 燕科动物金腰燕的泥巢。  
 1. 【[燕麦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_moh.md#燕麦)】`in5 moh8` <sup>[如东]</sup> 禾本科植物野燕麦，一年生草本。秆直立，光滑，高约120厘米。叶扁平，微粗糙，或上面和边缘疏生柔毛。圆锥花序开展，金字塔形。芒从稃体中部伸出，膝曲，芒柱棕色，扭转。颖果被淡棕色柔毛，胳面具纵沟。生长在荒芜田野。种子，也名野麦子。  
 1. 【[燕麦草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_moh_co.md#燕麦草)】`in5 moh8 co3` <sup>[如东]</sup> 禾本科植物野燕麦的茎叶。  
 1. 【[燕鸥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_ngeu.md#燕鸥)】`in5 ngeu1` <sup>[如东]</sup> 鸥科动物燕鸥，体长约20毫米。全身羽毛白色，夏天头顶黑色，冬天则转白色而有黑纹。嘴细长而直翼、尾均像燕子。常三五成群的在海岸和内陆河流等处活动，飞行快捷。能低空俯视水面觅食。喜吃小鱼。  
 1. 【[燕子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_zz.md#燕子)】`in5 zz` <sup>[如东]</sup> 燕科动物燕，通称家燕。体长约15厘米。翅膀尖而长。体羽金属蓝黑色。下颔羽暗红色。眼暗红色。嘴褐色。脚黑褐色。尾羽分开像剪刀。生活在村落中。夏季飞回来产卵繁殖秋季飞回南方越冬。捕食昆虫，对农业有益。  
 1. 【[餍食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_sheh.md#餍食)】`in5 sheh8` <sup>[如东]</sup> 不想吃，不愿吃：东东有些～。  
-1. 【[焰口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_keu.md#焰口)】`in6 keu3` <sup>[东台]</sup> 古印度传说中的一种饿鬼因身形焦枯，口内热火，咽细如针而得名。佛教密宗有专对此种饿鬼施食的经咒和念诵仪轨，其仪式一般称做放～，也是对死者超度的佛事之一。  
 1. 【[谚头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_teu.md#谚头)】`in6 teu` <sup>[兴化]</sup> 谚语：这些话全是～上有的。  
 1. 【[验当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_dan.md#验当)】`in6 dan1` <sup>[如皋]</sup> 反复衡量、估量、比划：他学习认真，画好图总要反复～。  
 1. 【[验方](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_fan.md#验方)】`in6 fan1` <sup>[东台]</sup> 临床经验证明有效的现成的药方。  

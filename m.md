@@ -1,10 +1,9 @@
 # 音序检索
 **[A](./a.md) | [B](./b.md) | [C](./c.md) | [D](./d.md) | [E](./e.md) | [F](./f.md) | [G](./g.md) | [H](./h.md) | [I](./i.md) | [J](./j.md) | [K](./k.md) | [L](./l.md) | [M](./m.md) | [N](./n.md) | [O](./o.md) | [P](./p.md) | [Q](./q.md) | [R](./r.md) | [S](./s.md) | [T](./t.md) | [U](./u.md) | [V](./v.md) | [X](./x.md) | [Y](./y.md) | [Z](./z.md)**  
 ## M
-1. 【[□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/m_meh.md#□□)】`m meh8` <sup>[东台]</sup> 子女在母亲面前轻声叫妈的声音。  
 1. 【[呣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/m.md#呣)】`m` <sup>[东台]</sup> ① （叹词） ② 表示应答、肯定：～，晓得咖，就这吖。 ③ 表示疑问：～？甚的？ ④ 表示警告：～！你敢！  
 1. 【[呣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/m.md#呣)】`m` <sup>[兴化]</sup> 叹词，表答应。  
-1. 【[姆妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/m_ma.md#姆妈)】`m ma1` <sup>[东台]</sup> 对母亲的面称。  
+1. 【[姆妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/m_ma.md#姆妈)】`m ma1, m meh` <sup>[东台]</sup> 对母亲的面称。  
 1. 【[姆妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/m_ma.md#姆妈)】`m ma1` <sup>[兴化]</sup> 母亲。  
 1. 【[姆㜥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/m_mae.md#姆㜥)】`m1 mae1` <sup>[泰县]</sup> 妈妈。  
 1. 【[呣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/m.md#呣)】`m3` <sup>\[如皋\]</sup>令牛停下。另见“缓”（un3）。  
@@ -13,7 +12,7 @@
 1. 【[妈妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma.md#妈妈)】`ma1 ma1` <sup>[如东]</sup> 母亲。  
 1. 【[马胞衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_bo_i.md#马胞衣)】`ma1 bo1 i1` <sup>[如东]</sup> 马科动物马的胎盘。  
 1. 【[马马虎虎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma_hv_hv.md#马马虎虎)】`ma1 ma1 hv1 hv1` <sup>[东台]</sup> ① 马虎：随便｜不认真。 ② 勉强：凑合。也说“马马虎”。  
-1. 【[嫲嫲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma.md#嫲嫲)】`ma2 ma3` <sup>[东台]</sup> 在东台话中指婶婶，也叫“嫲儿”。（“嫲”通“嬷”，中老年妇女，南方指奶奶，皖西南一带和南通指伯母）  
+1. 【[□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma.md#□□)】`ma2 ma3` <sup>[东台]</sup> 在东台话中指婶婶，也叫“嫲儿”。  
 1. 【[麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma.md#麻)】`ma2` <sup>[如东]</sup> ① 桑科植物黄麻，一年生草本。 ② 鱼、蟹、虾等海鲜食物用盐渍一下，保鲜防腐，叫做麻。  
 1. 【[麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma.md#麻)】`ma2` <sup>[如皋]</sup> ① 辣：大椒～人。 ② 触电的感觉。 ③ 像芝麻多而小：～虾儿。 ④ 曚昽：天～～儿亮。 ⑤ 芝麻点状的：～子、～石、～鸭儿、～苍蝇。  
 1. 【[麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma.md#麻)】`ma2` <sup>[如皋]</sup> 出风头、摆威风、高傲的样子：这家伙，有两个钱，～唻！  
@@ -287,8 +286,8 @@
 1. 【[马子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_zz.md#马子)】`ma3 zz` <sup>[兴化]</sup> 大小便使用的有盖的木桶。大～；小～。  
 1. 【[马子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_zz.md#马子)】`ma3 zz` <sup>[泰县]</sup> 马桶。  
 1. 【[马子菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_zz_cae.md#马子菜)】`ma3 zz cae5` <sup>[兴化]</sup> 一种野生植物，即“马齿苋”。  
+1. 【[□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma.md#□□)】`ma5 ma5` <sup>[如皋]</sup> 伯母、大妈。  
 1. 【[嘛咯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_lo.md#嘛咯)】`ma5 lo` <sup>[如皋]</sup> 抚慰小孩用语，好像说：好乖乖，不要哭。  
-1. 【[妈妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma.md#妈妈)】`ma5 ma5` <sup>[如皋]</sup> 伯母、大妈。  
 1. 【[骂得狗肏骚娘的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_deh_geu_reh_so_nian_dii.md#骂得狗肏骚娘的)】`ma6 deh7 geu3 reh8 so1 nian2 dii` <sup>[如皋]</sup> 用粗鄙的、恶毒的话来咒骂。  
 1. 【[骂得头臭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_deh_teu_cheu.md#骂得头臭)】`ma6 deh7 teu2 cheu5` <sup>[如皋]</sup> 形容骂得厉害。  
 1. 【[骂得血滴滴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_deh_xiuh_dieh_dieh_dii.md#骂得血滴滴的)】`ma6 deh7 xiuh7 dieh7 dieh7 dii` <sup>[如皋]</sup> 形容毒骂。用死亡、病损等伤心内容来咒骂。  

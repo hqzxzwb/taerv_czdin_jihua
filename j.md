@@ -1751,10 +1751,7 @@
 1. 【[厥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh.md#厥)】`jiuh7` <sup>[东台]</sup> 晕倒；失去知觉：～过去啊。  
 1. 【[厥/瘚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh.md#厥/瘚)】`jiuh7` <sup>[泰州]</sup> 哭泣过度而至昏迷抽搐状态：她哭咖～过去啊，嘴里白沫直翻。｜这细小伙性子躁，一哭就～过去啊唻。  
 1. 【[撅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh.md#撅)】`jiuh7` <sup>[兴化]</sup> 翘起：～嘴｜秤杆～得老高。《广韵·月韵》居月切“～，～拨物也”。  
-1. 【[撧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh.md#撧)】`jiuh7` <sup>[东台]</sup> 折断：～断一只筷子。又作“撅”。  
-1. 【[撧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh.md#撧)】`jiuh7` <sup>[兴化]</sup> 折断：把筷子～断｜～树枝。《广韵·薛韵》子悦切“～，～断物也”。‖字本作“㔢”。  
-1. 【[撧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh.md#撧)】`jiuh7` <sup>[泰县]</sup> 折断：他把竹子～咖。  
-1. 【[撧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh.md#撧)】`jiuh7` <sup>[泰州]</sup> 折断：他把筷子～咖断吖。｜你～咖根树枝啊。  
+1. 【[撧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh.md#撧)】`jiuh7` <sup>\[东台\]\[兴化\]\[泰县\]\[泰州\]</sup>折断（*𢴭/㔢/撅）：～断一只筷子。<sup>\[东台\]</sup>｜把筷子～断<sup>\[兴化\]</sup>｜～树枝。《广韵·薛韵》子悦切“～，～断物也”。<sup>\[兴化\]</sup>｜他把竹子～咖。<sup>\[泰县\]</sup>｜他把筷子～咖断吖。<sup>\[泰州\]</sup>｜你～咖根树枝啊。<sup>\[泰州\]</sup>  
 1. 【[撧咖断吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh_ga_tun_nga.md#撧咖断吖)】`jiuh7 ga tun6 nga` <sup>[如皋]</sup> 扳折：树棒儿捱～。  
 1. 【[橛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh.md#橛)】`jiuh7` <sup>[兴化]</sup> ① 硬挺：硬～～的。 ② 硬的块子：狗屎～子。《集韵·月韵》居月切“～，弋也”（弋ieh8，木桩）  
 1. 【[橛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh_zz.md#橛子)】`jiuh7 zz` <sup>[泰县]</sup> 小团团：屎～。  

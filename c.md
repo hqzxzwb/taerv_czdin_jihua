@@ -1631,8 +1631,8 @@
 1. 【[痴形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_xien.md#痴形)】`chr1 xien2` <sup>[兴化]</sup> 形容痴呆的样子：他这个～样子，成天坐啊下发愣。  
 1. 【[痴形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_xien.md#痴形)】`chr1 xien2` <sup>[泰县]</sup> 呆子。  
 1. 【[痴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_zz.md#痴子)】`chr1 zz` <sup>[兴化]</sup> 呆傻的人：人家听了他，都说他是个～，这些话岂可在稠人广众地方说的。（《官场现形记》三五）  
-1. 【[粚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr.md#粚)】`chr1` <sup>[如皋]</sup> ① 饭熟久焖而失香：饭煮啊～啊。 ② 糕饼久蒸而不成形：年糕炣啊～啊。 ③ 烂饭。  
 1. 【[縒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr.md#縒)】`chr1` <sup>[兴化]</sup> 毛发竖起：两只公鸡打架，毛都～起来啊。在风头里一吹、头发全～啊头上。  
+1. 【[黐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr.md#黐)】`chr1` <sup>[如皋]</sup> ① 饭熟久焖而失香：饭煮啊～啊。 ② 糕饼久蒸而不成形：年糕炣啊～啊。 ③ 烂饭。  
 1. 【[黐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr.md#黐)】`chr1` <sup>[如皋]</sup> ① 一种黏胶：桐油～、面筋～、膏药～。 ② 以胶粘虫、鸟：～蚱燎、～鸟儿。  
 1. 【[黐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr.md#黐)】`chr1` <sup>[兴化]</sup> ① 黏、黏液：烂面～，膏药～，粘儿沰～。 ② 粘鸟虫：～雀儿，～姐䗜（蝉）。《广韵·支韵》吕支切｜“黏也。”又丑支切｜“所以粘鸟。”  
 1. 【[黐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr.md#黐)】`chr1` <sup>[兴化]</sup> ① 赖着不走：“你问他。我去时，还在厨房里～着……”（《金瓶梅词话》十一） ② 没有得到邀请或许可而就食，犹“蹭饭”：人家不曾请他，他硬～啊去吃。  
@@ -2565,6 +2565,7 @@
 1. 【[催生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuei_shen.md#催生)】`cuei1 shen1` <sup>[兴化]</sup> 旧俗，孕妇临产前数日，母家把食物、婴儿衣物、金银饰品等送往婿家，祝女儿早日顺利生产：“姐姐家里着人～来了……”（《广陵潮》八七）  
 1. 【[催生婆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuei_shen_pu_r.md#催生婆<sub>儿</sub>)】`cuei1 shen1 pu2 r` <sup>[如东]</sup> 为产妇接生的女人。  
 1. 【[催债](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuei_zhae.md#催债)】`cuei1 zhae5` <sup>[如东]</sup> 催促偿还债务。  
+1. 【[崔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuei.md#崔)】`cuei1-qy1` <sup>[东台]</sup> 姓。  
 1. 【[随茶便饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuei_cha_pin_faen.md#随茶便饭)】`cuei2 cha2 pin6 faen6` <sup>[东台]</sup> 没有特意准备的家常伙食。  
 1. 【[随方就圆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuei_fan_qieu_iun.md#随方就圆)】`cuei2 fan1 qieu6 iun2` <sup>[如皋]</sup> 见“随弯儿就弯儿”。  
 1. 【[随方就圆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuei_fan_qieu_iun.md#随方就圆)】`cuei2 fan1 qieu6 iun2` <sup>[兴化]</sup> 形容人性情随和，按多数人的意见行事：他这个人～的，大家怎吖说怎吖好。  
