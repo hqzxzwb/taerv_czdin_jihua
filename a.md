@@ -8,8 +8,7 @@
 1. 【[嗳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/ae.md#嗳)】`ae1` <sup>[如皋]</sup> 叹词。轻呼声。  
 1. 【[嗳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/ae.md#嗳)】`ae2` <sup>[如皋]</sup> 叹词。警示声。  
 1. 【[嗳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/ae.md#嗳)】`ae3` <sup>[如皋]</sup> 叹词。否定声。  
-1. 【[嗳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/ae.md#嗳)】`ae5` <sup>[如皋]</sup> 叹词。应答声、提示声、呼叫声。  
-1. 【[嗳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/ae.md#嗳)】`ae5` <sup>[泰州]</sup> ① 应答声。 ② 表示感叹。 ③ 表示提醒对方注意：～，你来下子。  
+1. 【[嗳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/ae.md#嗳)】`ae5` ① <sup>\[如皋\]</sup>叹词。应答声、提示声、呼叫声。 ② <sup>\[泰州\]</sup>应答声。 ③ <sup>\[泰州\]</sup>表示感叹。 ④ <sup>\[泰州\]</sup>表示提醒对方注意：～，你来下子。<sup>\[泰州\]</sup>  
 1. 【[阿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/ah.md#阿)】`ah7` <sup>[兴化]</sup> 前缀。用在排行、人名的前边：～三；～四；～庆；～根。  
 1. 【[阿猫阿狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/ah_mo_ah_geu.md#阿猫阿狗)】`ah7 mo2 ah7 geu3` <sup>[兴化]</sup> 泛指某些人（含轻蔑意）：“这地方叫上海滩，我们这些～也能当老爷了。”（毕飞宇《上海往事》）｜“这问信的倒也奇怪，～有称呼，怎么一个‘哙’字当称呼？”（《四杰传》三）  
 1. 【[咉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/an.md#咉)】`an` <sup>[如皋]</sup> 以声调不同表示应答、疑问、提醒等。  
