@@ -1462,7 +1462,7 @@
 1. 【[收账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_zhan.md#收账)】`sheu1 zhan5` ① <sup>\[如皋\]</sup>讨债。 ② <sup>\[如东\]</sup>收取欠账资金。结束记账业务。 ③ <sup>\[兴化\]</sup>旧时商店于端午、中秋、春节三大节前，派人催讨欠款。 ④ <sup>\[兴化\]</sup>债权人到期向债务人索债。  
 1. 【[收之下下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_zhr_xia_xia.md#收之下下)】`sheu1 zhr1 xia6 xia6` <sup>[如皋]</sup> ① 状收了别人的礼，而没有反应。收礼而不致谢，似乎理所当然。 ② 吃了别人的苦头，不能反抗，吃闷憋。  
 1. 【[收主](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_zhv.md#收主)】`sheu1 zhv3` <sup>[如皋]</sup> 接收者。  
-1. 【[䌷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu.md#䌷)】`sheu2` ① <sup>\[兴化\]</sup>吮吸：～奶<sup>\[兴化\]</sup>｜用管子插到瓶里去～。又音cheu2。<sup>\[兴化\]</sup> ② <sup>\[泰县\]</sup>用嘴吮吸：把水都～出来。  
+1. 【[䌷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu.md#䌷)】`sheu2` ① <sup>\[兴化\]</sup>吮吸：～奶<sup>\[兴化\]</sup>｜用管子插到瓶里去～。又音cheu2。<sup>\[兴化\]</sup> ② <sup>\[泰县\]</sup>用嘴吮吸：把水都～出来。<sup>\[泰县\]</sup>  
 1. 【[紬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu.md#紬)】`sheu2` <sup>[泰州]</sup> 用嘴吸：拿跟吸管来，把罐子里头的饮料～掉。这个是沙壳ㄦ螺蛳，好～。  
 1. 【[守](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu.md#守)】`sheu3` <sup>[泰州]</sup> 等候，等待：这件事要～局长家来再说。｜你顶多再～十分钟，车子就开过来啊。｜你先洗澡吧，～你洗过啊我再洗。  
 1. 【[守寡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_gua.md#守寡)】`sheu3 gua3` <sup>[如东]</sup> 妇女丈夫死亡后不再嫁人，称守寡。  

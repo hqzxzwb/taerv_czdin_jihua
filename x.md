@@ -1005,7 +1005,7 @@
 1. 【[羞口难开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_keu_naen_kae.md#羞口难开)】`xieu1 keu3 naen2 kae1` <sup>[兴化]</sup> 心里有话不好意思说出口：她～，一直把愿望囥吖在心里。｜……一则贾环～，二则贾环也不在意（《红楼梦》七二）。  
 1. 【[羞亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_lian.md#羞亮)】`xieu1 lian6` <sup>[兴化]</sup> 害怕亮光：他是天生的假巴眼，～。  
 1. 【[𢭆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu.md#𢭆)】`xieu1` <sup>[如东]</sup> 扭动：我抓啊一条鱼，捱它～啊忑掉啊。  
-1. 【[𢫩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu.md#𢫩)】`xieu2` ① <sup>\[如皋\]</sup>偷：把钱～啊走啊。 ② <sup>\[如皋\]</sup>口吸：吃鱼脑子，用嘴一～就出来啊。 ③ <sup>\[如皋\]</sup>短、缩：衣袖～上去啊。  
+1. 【[𢫩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu.md#𢫩)】`xieu2` ① <sup>\[如皋\]</sup>偷：把钱～啊走啊。<sup>\[如皋\]</sup> ② <sup>\[如皋\]</sup>口吸：吃鱼脑子，用嘴一～就出来啊。<sup>\[如皋\]</sup> ③ <sup>\[如皋\]</sup>短、缩：衣袖～上去啊。<sup>\[如皋\]</sup> ④ （形声借字）  
 1. 【[朽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu.md#朽)】`xieu3` <sup>[泰州]</sup> 不可救药：他现在是吃喝嫖赌全花色，～掉啊唻。  
 1. 【[𢩨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu.md#𢩨)】`xieu3` <sup>[如皋]</sup> ① 身体轻轻地动：细伢儿～啊～的，把手伸出来啊。 ② 喻恢复力量、创业：你借点儿本钱我。让我～～再还你。  
 1. 【[嗅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu.md#嗅)】`xieu5` <sup>[如东]</sup> 用嘴唇抽吸食物：吃骨髓要用嘴唇～。  
