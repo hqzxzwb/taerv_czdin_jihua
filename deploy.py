@@ -16,12 +16,14 @@ CzY = namedtuple(
         'source',
         'pien_ien_0',
         'pien_ien',
+        'raw_pien_ien',
         'text',
         'raw_text',
         'meanings',
         'fname',
         'sort_key',
         'spec',
+        'mixed',
     ]
 )
 CzYMeaning = namedtuple(
@@ -113,26 +115,23 @@ pattern_spec1 = r"^(> (?P<source>.+)\n)?(?P<body>(.+\n)*)"
 meaning_pattern_spec1 = r"- (?P<explanation>.+)\n(?P<body>(  .+\n)*)"
 example_pattern_spec1 = r"  - (?P<text>.+)\n"
 
-def parse_cont(cont, fname, cz_ien):
+def parse_cont(cont, fname):
     """解析词条"""
     cont = cont.strip("\n") + "\n"
     lines = re.split("\n+", cont)
-    raw_word = lines[0].lstrip("#").strip()
-    pien_ien = parse_pinyin(lines[1].strip())
+    raw_text = lines[0].lstrip("#").strip()
+    raw_pien_ien = lines[1].strip()
+    pien_ien = parse_pinyin(raw_pien_ien)
     pien_ien_0 = pien_ien.split(",")[0]
-    mixed = mix(raw_word, pien_ien_0)
+    mixed = mix(raw_text, pien_ien_0)
 
-    validate(pien_ien_0, raw_word)
+    validate(pien_ien_0, raw_text)
 
     sort_key = ''
     word = ''
     for cz, ien in mixed:
         sort_key += ien + ' ' + cz + ' '
         word += cz
-        # if cz == '混':
-            # print("【%s】中的【%s】读作【%s】" % (raw_word, cz, ien))
-        if ien != '' and cz != '□' and len(cz) == 1 and cz not in cz_ien[ien.rstrip('9')]:
-            print("未登记的字音：【%s】中的【%s】读作【%s】" % (raw_word, cz, ien))
     check_path(fname, mixed, word)
 
     prints = False
@@ -144,11 +143,12 @@ def parse_cont(cont, fname, cz_ien):
     meanings = []
     source = None
     spec = 1
+    message_for_failure = f"解析失败。cont = {cont}"
     if spec_teller != None and spec_teller.startswith("+"): # Spec 2
         spec = 2
         meaning_cursor = 0
         for meaning_match in re.finditer(meaning_pattern, body):
-            assert meaning_cursor == meaning_match.start(), f"解析失败。body = {body}"
+            assert meaning_cursor == meaning_match.start(), message_for_failure
             meaning_cursor = meaning_match.end()
             explanation = meaning_match.group('explanation')
             if prints:
@@ -158,29 +158,45 @@ def parse_cont(cont, fname, cz_ien):
             sub_meaning_cursor = 0
             sub_meaning_body = meaning_match.group('body')
             for sub_meaning_match in re.finditer(sub_meaning_pattern, sub_meaning_body):
-                assert sub_meaning_cursor == sub_meaning_match.start(), f"解析失败。body = {body}"
+                assert sub_meaning_cursor == sub_meaning_match.start(), message_for_failure
                 sub_meaning_cursor = sub_meaning_match.end()
                 examples = []
-                for example_match in re.finditer(example_pattern, sub_meaning_match.group('body')):
+                example_cursor = 0
+                example_body = sub_meaning_match.group('body')
+                for example_match in re.finditer(example_pattern, example_body):
+                    assert example_cursor == example_match.start(), message_for_failure
+                    example_cursor = example_match.end()
                     examples.append(example_match.group('text'))
+                assert example_cursor == len(example_body)
                 sub_meanings.append(CzYSubMeaning(sub_meaning_match.group('source') or "", None, sub_meaning_match.group('supplement'), examples))
-            assert sub_meaning_cursor == len(sub_meaning_body), f"解析失败。body = {body}"
+            assert sub_meaning_cursor == len(sub_meaning_body), message_for_failure
             meanings.append(CzYMeaning(explanation, sub_meanings))
-        assert meaning_cursor == len(body), f"解析失败。body = {body}"
+        assert meaning_cursor == len(body), message_for_failure
     else: # Spec 1
         match = re.match(pattern_spec1, body)
+        assert match.start() == 0 and match.end() == len(body), message_for_failure
         source = match.group('source')
+        body = match.group('body') or ''
         if prints:
             print("match", match)
-            print("body", match.group('body'))
-        for meaning_match in re.finditer(meaning_pattern_spec1, match.group('body') or ''):
+            print("body", body)
+        body_cursor = 0
+        for meaning_match in re.finditer(meaning_pattern_spec1, body):
+            assert body_cursor == meaning_match.start(), message_for_failure
+            body_cursor = meaning_match.end()
             if prints:
                 print("meaning_match", meaning_match)
             examples = []
-            for example_match in re.finditer(example_pattern_spec1, meaning_match.group('body')):
+            example_cursor = 0
+            example_body = meaning_match.group('body')
+            for example_match in re.finditer(example_pattern_spec1, example_body):
+                assert example_cursor == example_match.start(), message_for_failure
+                example_cursor = example_match.end()
                 examples.append(example_match.group('text'))
+            assert example_cursor == len(example_body), message_for_failure
             meanings.append(CzYMeaning(meaning_match.group('explanation'), [CzYSubMeaning(source, pien_ien, None, examples)]))
-    return CzY(source, pien_ien_0, pien_ien, word, raw_word, meanings, fname, sort_key, spec)
+        assert body_cursor == len(body), message_for_failure
+    return CzY(source, pien_ien_0, pien_ien, raw_pien_ien, word, raw_text, meanings, fname, sort_key, spec, mixed)
 
 def mix(word, py):
     word = word.rstrip('ʲ')
@@ -274,9 +290,14 @@ def write_page(dirs, path, sample_out, cz_ien):
         file_content = re.sub(r"<!--\n(.*\n)*?-->(\n|$)", "", file_content) # 移除注释
         for cont in re.split(r"(?:\r?\n){2,}", file_content):
             if not re.fullmatch(r'\s*', cont):
-                conts.append(parse_cont(cont, fname, cz_ien))
+                conts.append(parse_cont(cont, fname))
     out = ""
     for w in sorted(conts, key=lambda c: c.sort_key):
+        for cz, ien in w.mixed:
+            # if cz == '混':
+                # print("【%s】中的【%s】读作【%s】" % (raw_word, cz, ien))
+            if ien != '' and cz != '□' and len(cz) == 1 and cz not in cz_ien[ien.rstrip('9')]:
+                print("未登记的字音：【%s】中的【%s】读作【%s】" % (w.raw_text, cz, ien))
         link = LINK_FORMAT % (w.fname.replace("\\","/"), w.text)
         if w.spec == 1:
             source = w.source
@@ -343,22 +364,32 @@ def cp_pics(path):
     for fname in glob.glob(path+"/*.png"):
         shutil.copyfile(fname, "docs/"+os.path.basename(fname))
 
-dirs = string.ascii_lowercase.replace('w', '')
-write_config()
-samples = []
-cz_ien = defaultdict(lambda: set())
-parse_cz_ien("daen_cz.csv", cz_ien)
-parse_cz_ien2("用字.md", cz_ien)
-parse_cz_ien2("候选正字.md", cz_ien)
-parse_cz_ien2("suspicious_cz_baseline.md", cz_ien)
-for path in dirs:
-    for fname in glob.glob(path+"/*.md"):
+def walk_sources():
+    out = []
+    for path in string.ascii_lowercase:
+        for fname in glob.glob(path+"/*.md"):
+            out.append(fname)
+    return out
+
+def main():
+    dirs = string.ascii_lowercase.replace('w', '')
+    write_config()
+    samples = []
+    cz_ien = defaultdict(lambda: set())
+    parse_cz_ien("daen_cz.csv", cz_ien)
+    parse_cz_ien2("用字.md", cz_ien)
+    parse_cz_ien2("候选正字.md", cz_ien)
+    parse_cz_ien2("suspicious_cz_baseline.md", cz_ien)
+    for fname in walk_sources():
         if not re.match(r'^[a-z]+\.md$', os.path.basename(fname)):
             continue
         parse_cz_ien3(fname, cz_ien)
-for path in dirs:
-    samples.append("## %s\n" % path.upper())
-    write_page(dirs, path, samples, cz_ien)
-    samples.append("[更多...](./%s.md)\n"%path)
-    cp_pics(path)
-write_index(dirs, samples)
+    for path in dirs:
+        samples.append("## %s\n" % path.upper())
+        write_page(dirs, path, samples, cz_ien)
+        samples.append("[更多...](./%s.md)\n"%path)
+        cp_pics(path)
+    write_index(dirs, samples)
+
+if __name__ == "__main__":
+    main()
