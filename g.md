@@ -1044,7 +1044,7 @@
 1. 【[果盒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_huh.md#果盒)】`gu3 huh8` <sup>[兴化]</sup> 装糕点用的漆器盖盒，有扁圆、八角等形状，内用小碟分隔：（店铺开张）那日亲朋递～挂红者，约有三十多人。（《金瓶梅词话》六十）  
 1. 【[果子店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_zz_din.md#果子店)】`gu3 zz din5` <sup>[兴化]</sup> 出售糕点的商店，产品多在自设的作坊加工。也称“茶食店”“油面店”。  
 1. 【[果子话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_zz_hua.md#果子话)】`gu3 zz hua6` <sup>[东台]</sup> 好听的、叫人感动的话：没钱买果子，说两句～不行吖？  
-1. 【[裹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu.md#裹)】`gu3` ① <sup>\[兴化\]</sup>家禽把其他人家饲养的同类带到自己的窝中或趙中：～鸽子<sup>\[兴化\]</sup>｜“是哪家养的老鸭教你～来了！”（汪曾祺《鸡鸭名家》）<sup>\[兴化\]</sup> ② <sup>\[泰县\]</sup>包：～饺儿。<sup>\[泰县\]</sup> ③ <sup>\[泰州\]</sup>将馅包进饺子皮中：你这个饺ㄦ～得不好看。<sup>\[泰州\]</sup> ④ <sup>\[泰州\]</sup>将糯米包进粽箬之中：粽子年年都是妈妈～的。<sup>\[泰州\]</sup>  
+1. 【[裹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu.md#裹)】`gu3` ① <sup>\[兴化\]</sup>家禽把其他人家饲养的同类带到自己的窝中或趙中：～鸽子<sup>\[兴化\]</sup>｜“是哪家养的老鸭教你～来了！”（汪曾祺《鸡鸭名家》）<sup>\[兴化\]</sup> ② <sup>\[泰县\]\[泰州\]</sup>制作包点水饺粽子等：～饺儿。<sup>\[泰县\]</sup>｜你这个饺ㄦ～得不好看。<sup>\[泰州\]</sup>｜粽子年年都是妈妈～的。<sup>\[泰州\]</sup>  
 1. 【[裹耗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_ho.md#裹耗)】`gu3 ho5` <sup>[如皋]</sup> 在其中耗费：说在家里吃饭贴伙食费，实际上是～上人的退休金。  
 1. 【[裹饺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_jio_r.md#裹饺<sub>儿</sub>)】`gu3 jio3 r` ① <sup>\[如皋\]</sup>全部裹挟而去。 ② <sup>\[兴化\]</sup>（戏）谓盖棉絮（被胎）过夜：洗被单逢到落雨，里子、面不得干，晚上只好～。<sup>\[兴化\]</sup>  
 1. 【[裹嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_jy.md#裹嘴)】`gu3 jy3` ① <sup>\[如皋\]</sup>使保证人不失体面：伢儿啊你要帮你家老子～，不能做坏事。<sup>\[如皋\]</sup> ② <sup>\[东台\]</sup>形容说的话得以兑现（原文作“管嘴 gu3 jy3”。另见“管嘴 gun3 jy3”。）：这小伙考得好，帮父亲～！<sup>\[东台\]</sup>  
@@ -1064,7 +1064,7 @@
 1. 【[哿曾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_cen.md#哿曾)】`gu5 cen2` <sup>[东台]</sup> 有没有进行：你～吃？  
 1. 【[哿谈到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_taen_do.md#哿谈到)】`gu5 taen2 do5` <sup>[东台]</sup> （口头禅）意思是完全正确，还有什么疑问吗：甲说某人字写得好，乙说～，人家是著名书法家。  
 1. 【[哿凶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_xion.md#哿凶)】`gu5 xion1` <sup>[东台]</sup> 意思是“身体好吗？”（参见“凶”）  
-1. 【[过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu.md#过)】`gu5` ① <sup>\[如皋\]</sup>传染：伤风～人。<sup>\[如皋\]</sup> ② <sup>\[兴化\]</sup>过活：老人跟大儿子～。<sup>\[兴化\]</sup>｜死的已经死啊，活的还要～。<sup>\[兴化\]</sup> ③ <sup>\[兴化\]</sup>传染：红眼病～人。<sup>\[兴化\]</sup> ④ <sup>\[兴化\]</sup>邀请客人用语：明朝请你全家来～一天。<sup>\[兴化\]</sup> ⑤ <sup>\[泰县\]</sup>传染：肝炎是个～人的病。<sup>\[泰县\]</sup> ⑥ <sup>\[泰州\]</sup>疾病传染：他感吖冒，把全家人都～啊。<sup>\[泰州\]</sup> ⑦ <sup>\[泰州\]</sup>将儿子转至同宗名下做儿子：～一个小伙把他家哥哥。<sup>\[泰州\]</sup> ⑧ <sup>\[泰州\]</sup>甲方资产通过约定转让乙方：剃头刀老早～啊把人家唻。<sup>\[泰州\]</sup> ⑨ <sup>\[泰州\]</sup>家畜生产：他家狗子～啊三条小狗。<sup>\[泰州\]</sup> ⑩ <sup>\[泰州\]</sup>用清水、热水过滤餐具消毒或者以凉开水过滤食物，使之爽口：把碗弄开水～啊子再盛饭。<sup>\[泰州\]</sup> ⑪ <sup>\[泰州\]</sup>点数钱物：钱我～过数唻，不错。<sup>\[泰州\]</sup>  
+1. 【[过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu.md#过)】`gu5` ① <sup>\[如皋\]\[兴化\]\[泰县\]\[泰州\]</sup>（疾病）传染：伤风～人<sup>\[如皋\]</sup>｜红眼病～人<sup>\[兴化\]</sup>｜肝炎是个～人的病。<sup>\[泰县\]</sup>｜他感吖冒，把全家人都～啊。<sup>\[泰州\]</sup> ② <sup>\[兴化\]</sup>生活、过活：老人跟大儿子～。<sup>\[兴化\]</sup>｜死的已经死啊，活的还要～。<sup>\[兴化\]</sup> ③ <sup>\[兴化\]\[泰兴\]</sup>邀请客人用语：明朝请你全家来～一天。<sup>\[兴化\]</sup> ④ <sup>\[泰州\]</sup>将儿子转至同宗名下做儿子：～一个小伙把他家哥哥。<sup>\[泰州\]</sup> ⑤ <sup>\[泰州\]</sup>甲方资产通过约定转让乙方：剃头刀老早～啊把人家唻。<sup>\[泰州\]</sup> ⑥ <sup>\[泰州\]</sup>（家畜）生产：他家狗子～啊三条小狗。<sup>\[泰州\]</sup> ⑦ <sup>\[泰州\]</sup>用清水、热水过滤餐具消毒或者以凉开水过滤食物，使之爽口：把碗弄开水～啊子再盛饭。<sup>\[泰州\]</sup>  
 1. 【[过啊冬，长一葱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_a_don_chan_ieh_con.md#过啊冬，长一葱)】`gu5 a don1 chan2 ieh7 con1` <sup>[东台]</sup> 冬至后白天渐长，每天日光影子相差约一根葱叶长。  
 1. 【[过啊发咖疽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_a_faeh_ga_jy.md#过啊发咖疽)】`gu5 a faeh7 ga jy1` <sup>[东台]</sup> 不珍惜好端端的现状，自寻烦恼，自找麻烦。  
 1. 【[过啊狗头上去啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_a_geu_teu_shan_qy_a.md#过啊狗头上去啊)】`gu5 a geu3 teu2 shan6 qy5 a` <sup>[东台]</sup> （詈语）形容自毁好端端的人生：法官嫖娼，简直是～！  
@@ -1791,6 +1791,7 @@
 1. 【[管待](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_tae.md#管待)】`gun3 tae6` <sup>[兴化]</sup> 招待、款待：老家来人，爸妈连忙上街打酒买菜～。｜老员外与大娘子急急收拾起身，～来人酒饭。（《京本通俗小说·错斩崔宁》）｜欧阳淳只得治酒～。至夜，各自归于卧所。（《封神演义》八五）  
 1. 【[管头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_teu.md#管头)】`gun3 teu2` <sup>[兴化]</sup> 旧指主人，今又指直接管理者：好啊，他俫班主任来啊，有～啊。｜“你如今有了～，比不得往日了……”（《梼杌闲评》八）  
 1. 【[管头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_teu_r.md#管头<sub>儿</sub>)】`gun3 teu2 r` <sup>[如皋]</sup> 顶头上司，常讽指爱支使、教训别人的人。  
+1. 【[管正](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_zhen.md#管正)】`gun3 zhen5` <sup>\[泰兴\]</sup>做正经事，从事正经工作。“不管正”犹如“不务正业”：你哿能管点儿正啊？<sup>\[泰兴\]</sup>｜他毕业以后一直不～/他毕业以后一直不务正业<sup>\[泰兴\]</sup>  
 1. 【[管嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_zuei.md#管嘴)】`gun3 zuei3` <sup>[兴化]</sup> ① 旧指对雇工只管吃饭，不开工钱。 ② 收入只够餬口，不及其他：踏三轮车勉强～。  
 1. 【[赶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun.md#赶)】`gun3` ① <sup>\[如皋\]</sup>移动砣绳在秤杆上的位置：望里～点儿。<sup>\[如皋\]</sup> ② <sup>\[兴化\]</sup>微微拨动系秤陀的细绳，使秤杆平衡：二十斤不到，再朝里头～。<sup>\[兴化\]</sup>  
 1. 【[赶不上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_beh_shan.md#赶不上)】`gun3 beh7 shan6` <sup>[东台]</sup> ① 时间来不及。 ② 追不上：跑慢吖～开会。  
@@ -1895,6 +1896,7 @@
 1. 【[鼓胀病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_zhan_pien.md#鼓胀病)】`gv3 zhan5 pien6` <sup>[东台]</sup> 亦称“水鼓胀”，中医指由水气、痰血、寄生虫等原因引起的腹部膨胀的疾病。  
 1. 【[固属](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_shoh.md#固属)】`gv5 shoh` <sup>[兴化]</sup> 连词，固然：自己开店～好，哪许有这吖多本钱吖？｜小张～不对，但也不能揪住不放。  
 1. 【[故典<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_din_r.md#故典<sub>儿</sub>)】`gv5 din3 r` <sup>[兴化]</sup> 故事：他肚里～不少。  
+1. 【[过数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_shv.md#过数)】`gv5 shv5` <sup>\[泰州\]</sup>点数（钱物等的）数目：钱我过过数唻，不错。<sup>\[泰州\]</sup>  
 1. 【[顾大卖田，顾二不理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_da_mae_tin_gv_er_beh_li.md#顾大卖田，顾二不理)】`gv5 da mae6 tin2， gv5 er6 beh7 li3` <sup>[东台]</sup> ［喻］传说从前有顾氏兄弟失和，老大穷得卖田了，老二也不过问。现常用“顾二”的谐音“顾而”喻指顾而不理、置若罔闻。  
 1. 【[顾二麻子——熟人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_er_ma_zz_shoh_ren.md#顾二麻子——熟人)】`gv5 er6 ma2 zz shoh8 ren2` <sup>[如皋]</sup> 顾二麻子是清代如皋被人暗害，并煮熟分尸命案中人，故有此说。今转指熟识之人  
 1. 【[顾家气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_ga_qi.md#顾家气)】`gv5 ga1 qi` <sup>[东台]</sup> 说话办事都从自家利益上考虑，维护家庭、家族或家乡的利益。  
