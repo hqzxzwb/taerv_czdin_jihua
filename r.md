@@ -309,7 +309,7 @@
 1. 【[人同人好，鬼同鬼好，苍蝇同屎好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_ton_ren_ho.md#人同人好，鬼同鬼好，苍蝇同屎好)】`ren2 ton2 ren2 ho3 guei3 ton2 guei3 ho3 can1 ien ton2 shr3 ho3` <sup>[东台]</sup> 喻指素质差的人往往沆瀣一气。  
 1. 【[人无百年过，枉作千年怨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_v_boh_nin_gu_van_zah_qin_nin_iun.md#人无百年过，枉作千年怨)】`ren2 v2 boh7 nin2 gu5 van3 zah7 qin1 nin2 iun5` <sup>[东台]</sup> 人生苦短，要珍爱友谊，何苦结怨。  
 1. 【[人无过头之力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_v_gu_teu_zhr_lieh.md#人无过头之力)】`ren2 v2 gu5 teu2 zhr1 lieh8` <sup>[东台]</sup> 手高于头顶时力气就不大。  
-1. 【[人无千日好，花无百日红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_v_qin_rih.md#人无千日好，花无百日红)】`ren2 v2 qin1 rih8 ho3 hua1 v2 boh7 rih8 hon2` 比喻人世变化无常，不可能永远处于顺境。也比喻人际关系不会永远恒定。  
+1. 【[人无千日好，花无百日红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_v_qin_rih.md#人无千日好，花无百日红)】`ren2 v2 qin1 rih8 ho3 hua1 v2 boh7 rih8 hon2` <sup>\[东台\]\[泰兴\]</sup>比喻人世变化无常，不可能永远处于顺境。也比喻人际关系不会永远恒定。  
 1. 【[人无十全，瓜无滚圆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_v_sheh_qiun_gua_v_guen_iun.md#人无十全，瓜无滚圆)】`ren2 v2 sheh8 qiun2 gua1 v2 guen3 iun2` <sup>[东台]</sup> 对人要一分为二，不要求全责备。  
 1. 【[人无提带不发](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_v_ti_dae.md#人无提带不发)】`ren2 v2 ti2 dae5 beh7 faeh7` <sup>\[泰兴\]</sup>谓人要有人帮助才能发展、提高。多用于要升迁就必须靠人提携方面。  
 1. 【[人无笑脸莫开店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_v_xio_lin_mah_kae_din.md#人无笑脸莫开店)】`ren2 v2 xio5 lin3 mah8 kae1 din5` <sup>[东台]</sup> 微笑服务，和气生财。  

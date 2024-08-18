@@ -983,7 +983,7 @@
 1. 【[𪸺口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_keu.md#𪸺口)】`ngan2 keu3` <sup>[如皋]</sup> 烟、酒味不醇，刺激过强。  
 1. 【[𪸺口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_keu.md#𪸺口)】`ngan2 keu3` <sup>[兴化]</sup> ① 烟酒刺激性大：进口烟抽起来～。｜这酒不正宗，～唻！ ② 要求过高，使人难以接受：这个货色倒不丑，就是价钱太～。  
 1. 【[𪸺口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_keu.md#𪸺口)】`ngan2 keu3` <sup>[泰县]</sup> 过度：嫌贵，这个价钱太～。  
-1. 【[炴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan.md#炴)】`ngan3` ① 烟升起。康熙字典“倚朗切，音坱。氣貌。”见“𪸺”：烟～起来啊。 ② 制造烟 ③ ～烟 ④ 烟熏：～蚊子｜～人/熏人  
+1. 【[炴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan.md#炴)】`ngan3` ① 烟升起。康熙字典“倚朗切，音坱。氣貌。”见“𪸺”：烟～起来啊。 ② 制造烟：～烟 ③ 烟熏：～蚊子｜～人/熏人  
 1. 【[炴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan.md#炴)】`ngan3` <sup>[兴化]</sup> ① 燃料未充分燃烧而冒浓烟：烧锅腔～烟。 ② 抽：～蚊子｜香烟～人。 ③ 《集韵·荡韵》倚朗切“～，气貌”。《广韵·养韵》於两切“～，火光”。  
 1. 【[炴烟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_in.md#炴烟)】`ngan3 in1` <sup>[东台]</sup> 物体没有充分燃烧而产生大量的烟：火烧秸秆，到处～，要综合利用变废为宝。也说“炴烟喷气”。见“𪸺烟”。  
 1. 【[𱞞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan.md#𱞞)】`ngan3` <sup>[如皋]</sup> 倔强、標悍的样子。  

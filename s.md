@@ -242,12 +242,12 @@
 1. 【[三日肩头四日脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_rih_jin_teu.md#三日肩头四日脚)】`saen1 rih jin1 teu sz5 rih jiah7` <sup>\[东台\]\[泰兴\]</sup>刚开始干体力活吃不消，需要几天逐步适应。  
 1. 【[三三两两](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_saen_laen_laen.md#三三两两)】`saen1 saen laen3 laen` <sup>[泰兴]</sup> 三个两个聚集在一起。形容数目不多。  
 1. 【[三色堇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_seh_jien.md#三色堇)】`saen1 seh7 jien3` <sup>[如东]</sup> 堇菜科植物三色堇，一年或二年生草本。高约30厘米。茎直立。茎生叶卵状长圆形，锯齿圆钝。花两性，每花有蓝、白、黄三色。蒴果，三角形。庭园栽培，观赏。  
-1. 【[三十夜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheh_ia.md#三十夜)】`saen1 sheh ia6` 农历年的最后一天，即除夕。大月为三十，小月为二十九，皆可称～。  
+1. 【[三十夜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheh_ia.md#三十夜)】`saen1 sheh ia6` <sup>\[如皋\]\[东台\]\[泰兴\]</sup>农历年的最后一天，即除夕。大月为三十，小月为二十九，皆可称～。  
 1. 【[三十夜煨大肠，越煨越㾭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheh_ia_vei.md#三十夜煨大肠，越煨越㾭)】`saen1 sheh ia6 vei1 da6 chan iuh8 vei1 iuh8 jieu5` <sup>[泰兴]</sup> 歇后语。谓数量越来越少，体积越来越小。  
 1. 【[三十六行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheh_loh_han.md#三十六行)】`saen1 sheh loh8 han2` <sup>[兴化]</sup> （讽）指人从事的职业过多，但无专业：～，业多不养生。  
 1. 【[三十六行，行行出状元](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheh_loh_han.md#三十六行，行行出状元)】`saen1 sheh loh8 han2 han2 han2 chueh7 chuan6 iun` <sup>[泰兴]</sup> 泛指各行各业，都能表现自己的才华，成就惊人的事业。三十六行，亦称“七十二行”、“三百六十行”，其义同。  
 1. 【[三十年河东三十年河西](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheh_nin_hu.md#三十年河东三十年河西)】`saen1 sheh nin2 hu2 don1 saen1 sheh nin2 hu2 xi1` <sup>\[东台\]\[泰兴\]</sup>好的差的在一定条件下相互转化，变化很快。世道沧桑，盛衰不常。  
-1. 【[三十而立](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheh_er_lieh.md#三十而立)】`saen1 sheh8 er2 lieh8` <sup>[泰兴]</sup>   
+1. 【[三十而立](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheh_er_lieh.md#三十而立)】`saen1 sheh8 er2 lieh8` <sup>[泰兴]</sup> 《论语•为政》：“吾十有五而志于学，三十而立。”后以“三十而立”谓人在三十岁前后有所成就。  
 1. 【[三十夜的红货——买不到的急，卖不掉的也着急](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheh_ia_dii.md#三十夜的红货——买不到的急，卖不掉的也着急)】`saen1 sheh8 ia6 dii hon2 hu5 mae3 beh7 do5 dii jieh7 mae6 beh7 tio6 dii ia3 zhah7 jieh7` <sup>[东台]</sup>   
 1. 【[三十夜看皇历——没得日子啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheh_ia_kun.md#三十夜看皇历——没得日子啊)】`saen1 sheh8 ia6 kun5 huan2 lieh meh8 deh7 rih8 zz a` <sup>[东台]</sup>   
 1. 【[三十夜吃掉，初一寡寡的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheh_ia_qieh_tio_chv_ieh_gua_gua_dii.md#三十夜吃掉，初一寡寡的)】`saen1 sheh8 ia6 qieh7 tio chv1 ieh7 gua3 gua3 dii` <sup>[东台]</sup> 意同上句，教人过日子细水长流。  
@@ -2155,7 +2155,7 @@
 1. 【[烧锅草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_gu_co.md#烧锅草)】`sho1 gu1 co3` <sup>[如皋]</sup> 草灶用的燃料。包括：行草、荒草、熟草、木柴等。  
 1. 【[烧锅草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_gu_co.md#烧锅草)】`sho1 gu1 co3` <sup>[如东]</sup> 用以烧锅的柴草，如茅草、芦苇、玉米秸树枝等。  
 1. 【[烧锅的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_gu_dii.md#烧锅的)】`sho1 gu1 dii` <sup>[如东]</sup> ① 在灶膛口烧火的人：他是～。 ② 比喻自己的老婆：我家～出去啊。  
-1. 【[烧锅娘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_gu_nian_zz.md#烧锅娘子)】`sho1 gu1 nian2 zz`   
+1. 【[烧锅娘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_gu_nian_zz.md#烧锅娘子)】`sho1 gu1 nian2 zz` （义未详）  
 1. 【[烧虾等不得红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_ha_den_beh_deh_hon.md#烧虾等不得红)】`sho1 ha1 den3 beh7 deh7 hon2` <sup>[东台]</sup> 形容脾气太急，急于求成反而欲速不达。  
 1. 【[烧虾等不得红——心太急](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_ha_den_beh_deh_hon_xien_tae_jieh.md#烧虾等不得红——心太急)】`sho1 ha1 den3 beh7 deh7 hon2 xien1 tae5 jieh7` <sup>[东台]</sup>   
 1. 【[烧野锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_ia_gu.md#烧野锅)】`sho1 ia3 gu1` <sup>[兴化]</sup> ① 野炊。 ② 已婚男子和其他女人非法同居。  

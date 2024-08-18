@@ -2194,7 +2194,8 @@
 1. 【[靴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xya_zz.md#靴子)】`xya1 zz` <sup>[如东]</sup> 高筒的鞋，称靴子。  
 1. 【[靴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xya_zz.md#靴子)】`xya1 zz` <sup>[东台]</sup> 高到踝骨以上的长筒鞋。  
 1. 【[𢪎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xya.md#𢪎)】`xya1` 打，殴打  
-1. 【[𢪎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xya.md#𢪎)】`xya1` <sup>[如东]</sup> ① 捋袖子露出手臂打人：～他一个耳光。 ② 偷藏：把钱望袋里只是～。  
+1. 【[𢪎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xya.md#𢪎)】`xya1` <sup>[如东]</sup> 捋袖子露出手臂打人：～他一个耳光。  
+1. 【[𢪎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xya.md#𢪎)】`xya1` <sup>[如皋]</sup> 偷藏：把钱望袋里只是～。  
 1. 【[𢪎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xya.md#𢪎)】`xya2` <sup>[如皋]</sup> ① 偷：他～啊一根金条。 ② 打：犯犟，～你。  
 1. 【[𢪎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xya.md#𢪎)】`xya2` <sup>[东台]</sup> （此处读阳平）悄悄地藏起来带走，近似于小偷小摸：一本书不见吖，不晓得捱哪个～啊走啊。  
 1. 【[𢪎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xya.md#𢪎)】`xya2` <sup>[兴化]</sup> 小偷小摸：那个笔记本电脑捱人～走啊。  
