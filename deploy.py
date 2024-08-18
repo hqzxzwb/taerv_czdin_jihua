@@ -146,18 +146,27 @@ def parse_cont(cont, fname, cz_ien):
     spec = 1
     if spec_teller != None and spec_teller.startswith("+"): # Spec 2
         spec = 2
+        meaning_cursor = 0
         for meaning_match in re.finditer(meaning_pattern, body):
+            assert meaning_cursor == meaning_match.start(), f"解析失败。body = {body}"
+            meaning_cursor = meaning_match.end()
             explanation = meaning_match.group('explanation')
             if prints:
                 print("meaning_match", meaning_match)
                 print("explanation", explanation)
             sub_meanings = []
-            for sub_meaning_match in re.finditer(sub_meaning_pattern, meaning_match.group('body')):
+            sub_meaning_cursor = 0
+            sub_meaning_body = meaning_match.group('body')
+            for sub_meaning_match in re.finditer(sub_meaning_pattern, sub_meaning_body):
+                assert sub_meaning_cursor == sub_meaning_match.start(), f"解析失败。body = {body}"
+                sub_meaning_cursor = sub_meaning_match.end()
                 examples = []
                 for example_match in re.finditer(example_pattern, sub_meaning_match.group('body')):
                     examples.append(example_match.group('text'))
                 sub_meanings.append(CzYSubMeaning(sub_meaning_match.group('source') or "", None, sub_meaning_match.group('supplement'), examples))
+            assert sub_meaning_cursor == len(sub_meaning_body), f"解析失败。body = {body}"
             meanings.append(CzYMeaning(explanation, sub_meanings))
+        assert meaning_cursor == len(body), f"解析失败。body = {body}"
     else: # Spec 1
         match = re.match(pattern_spec1, body)
         source = match.group('source')
