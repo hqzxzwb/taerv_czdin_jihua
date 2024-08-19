@@ -1357,8 +1357,7 @@
 1. 【[㧻下子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_ha_zz.md#㧻下子)】`zhuah7 ha zz` <sup>[如皋]</sup> ① 整理一下。 ② 总计一下。  
 1. 【[㧻屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_pi_gu.md#㧻屁股)】`zhuah7 pi5 gu` <sup>[如皋]</sup> 人体落下时，屁股先触及物体而被反弹力打击。  
 1. 【[㧻钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_qin.md#㧻钱)】`zhuah7 qin2` <sup>[如皋]</sup> 清点钱数。  
-1. 【[㧻瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_va.md#㧻瓦)】`zhuah7 va3` <sup>[如皋]</sup> 整理屋面瓦。  
-1. 【[㧻瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_va.md#㧻瓦)】`zhuah7 va3` <sup>[如东]</sup> 整修瓦屋面瓦。  
+1. 【[㧻瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_va.md#㧻瓦)】`zhuah7 va3` <sup>\[如皋\]\[如东\]</sup>整理屋面瓦。  
 1. 【[㧻账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_zhan.md#㧻账)】`zhuah7 zhan5` <sup>\[如东\]\[东台\]\[泰县\]\[如皋\]</sup>整理、核算账务：这几天她在下～。<sup>\[如东\]</sup>｜今吖晚上～，早点儿关门。<sup>\[泰县\]</sup>  
 1. 【[㧻㧻齐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_zhuah_qi.md#㧻㧻齐)】`zhuah7 zhuah7 qi2` <sup>[如皋]</sup> 整理时带有拍打动作，使之变得整齐：你把橱里的书～。  
 1. 【[卓肩膀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_jin_ban.md#卓肩膀)】`zhuah7 jin1 ban3` <sup>[兴化]</sup> 因瘦削而两肩高耸：来人是个高个子，～，缩颈项。  
