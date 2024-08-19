@@ -228,9 +228,7 @@
 1. 【[八八<sub>儿</sub>理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_baeh_r_li.md#八八<sub>儿</sub>理)】`baeh7 baeh7 r li3` <sup>[如皋]</sup> 不正当的理由、或故意胡蛮缠的歪理，蛮理。八，古义相背。  
 1. 【[八板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_baen.md#八板)】`baeh7 baen3` <sup>[如皋]</sup> 状呆板，不知变通：老～。  
 1. 【[八标](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_bio.md#八标)】`baeh7 bio1` <sup>[如东]</sup> 形容很远很远：他离这许还有～远哎！  
-1. 【[八宝饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_bo_faen.md#八宝饭)】`baeh7 bo3 faen6` <sup>[如东]</sup> 八宝饭。  
-1. 【[八宝饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_bo_faen.md#八宝饭)】`baeh7 bo3 faen6` <sup>[泰兴]</sup> 一种用糯米加豆沙、脂油、白糖以及桂圆、红枣、莲子等多种辅料蒸制的甜食。所加之物，视情况不尽相同。  
-1. 【[八宝饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_bo_faen.md#八宝饭)】`baeh7 bo3 faen6` ① <sup>\[如东\]</sup>八宝饭。 ② <sup>\[泰兴\]</sup>一种用糯米加豆沙、脂油、白糖以及桂圆、红枣、莲子等多种辅料蒸制的甜食。所加之物，视情况不尽相同。  
+1. 【[八宝饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_bo_faen.md#八宝饭)】`baeh7 bo3 faen6` ① <sup>\[如东\]</sup>饭食的一种。各地用料不一样。掘港为:糯米加莲子、红枣、橘饼、桂园、桂花、豆沙、白糖、脂油以及青红丝等原料做成,味香色美。 ② <sup>\[泰兴\]</sup>一种用糯米加豆沙、脂油、白糖以及桂圆、红枣、莲子等多种辅料蒸制的甜食。所加之物，视情况不尽相同。  
 1. 【[八百个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_boh_gu.md#八百个)】`baeh7 boh gu5` <sup>[兴化]</sup> 格斗时将拇指和食指岔开，卡对方喉部：弄他一个～。  
 1. 【[八百世](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_boh_shr.md#八百世)】`baeh7 boh7 shr5` <sup>[泰兴]</sup> 极言时间很长。  
 1. 【[八叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_cha.md#八叉)】`baeh7 cha1` <sup>[如东]</sup> 出现各种枝节，不顺利：打～。  
