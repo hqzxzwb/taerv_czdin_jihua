@@ -474,7 +474,7 @@
 1. 【[𠷨料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pia_lio.md#𠷨料)】`pia3 lio6` <sup>[如皋]</sup> ① 不规则的材料。 ② 耗材料，不划算。  
 1. 【[𠷨七𠷨八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pia_qieh_pia_baeh.md#𠷨七𠷨八)】`pia3 qieh7 pia3 baeh7` <sup>[如皋]</sup> 见“𠷨pia3”。  
 1. 【[𠷨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pia_zz.md#𠷨子)】`pia3 zz` <sup>[如皋]</sup> 思想言行不合常理、常情或会虘的人。  
-1. 【[㩧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/piah.md#㩧)】`piah7` <sup>[兴化]</sup> ① 象声词：枪声｜～的一声枪响。 ② 鞭炮声：～～。  
+1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/piah.md#□)】`piah7` <sup>[兴化]</sup> ① 象声词：枪声｜～的一声枪响。 ② 鞭炮声：～～。  
 1. 【[劈叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_cha.md#劈叉)】`pieh7 cha1` <sup>[东台]</sup> 双腿向相反方向分开，臀部落地的一种动作。  
 1. 【[劈蛼螯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_cha_ngo.md#劈蛼螯)】`pieh7 cha1 ngo` <sup>[如东]</sup> 用刀将蛼螯壳劈开，把肉取出来，这种活计叫做劈蛼螯。  
 1. 【[劈择](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_cheh.md#劈择)】`pieh7 cheh8` <sup>[如东]</sup> 评判，裁决：这个问题请你～。  

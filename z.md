@@ -1354,6 +1354,13 @@
 1. 【[赚头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuaen_teu.md#赚头)】`zhuaen5 teu2` <sup>[东台]</sup> 利润：这笔生意～不小。  
 1. 【[㧻/捉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah.md#㧻/捉)】`zhuah7` <sup>\[泰州\]\[兴化\]\[如东\]\[如皋\]</sup>清点、核实数目：你把钱～～，看看到底卖啊几个钱。<sup>\[泰州\]</sup>｜你把人～～，齐啊就出发。<sup>\[泰州\]</sup>｜～货款<sup>\[兴化\]</sup>｜～账<sup>\[兴化\]</sup>｜～人数。<sup>\[兴化\]</sup>｜～账。<sup>\[如东\]</sup>｜～账<sup>\[如皋\]</sup>  
 1. 【[㧻/𢽚/𢧈/𧰵/椓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah.md#㧻/𢽚/𢧈/𧰵/椓)】`zhuah7` ① <sup>\[泰州\]\[如皋\]</sup>用力往下放；下击：老头儿把拐棒一～，就喊起来啊。<sup>\[泰州\]</sup>｜你把袋子～～，剩下来的这点儿豆儿就都装下去唻。<sup>\[泰州\]</sup>｜他来啊火，把筷儿望桌上一～，把碗总～咖跳起来呀。<sup>\[如皋\]</sup> ② <sup>\[泰州\]\[东台\]\[兴化\]\[泰县\]</sup>将东西碰撞平面（以对齐）：你把书～咖齐啊，放好。<sup>\[泰州\]</sup>｜你把筷子～咖子。<sup>\[泰州\]</sup>｜你把葱～齐啊。<sup>\[泰州\]</sup>｜把这些文件夹～～齐。<sup>\[东台\]</sup>｜～纸<sup>\[兴化\]</sup>｜～筷子。<sup>\[兴化\]</sup>｜我来把这些材料～下子。<sup>\[泰县\]</sup> ③ <sup>\[泰州\]</sup>骂人始终停留或者站立某个空间不愿离开，詈语：你老～咖家里不是个事，不想法找个工作怎吖行？<sup>\[泰州\]</sup>｜你先家去，在这块～到晚都没得用。<sup>\[泰州\]</sup> ④ <sup>\[东台\]</sup>颠簸：路上～得难受。<sup>\[东台\]</sup> ⑤ <sup>\[东台\]</sup>耸（肩膀）：他肩膀一～，做啊个鬼脸。<sup>\[东台\]</sup>  
+1. 【[㧻下子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_ha_zz.md#㧻下子)】`zhuah7 ha zz` <sup>[如皋]</sup> ① 整理一下。 ② 总计一下。  
+1. 【[㧻屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_pi_gu.md#㧻屁股)】`zhuah7 pi5 gu` <sup>[如皋]</sup> 人体落下时，屁股先触及物体而被反弹力打击。  
+1. 【[㧻钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_qin.md#㧻钱)】`zhuah7 qin2` <sup>[如皋]</sup> 清点钱数。  
+1. 【[㧻瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_va.md#㧻瓦)】`zhuah7 va3` <sup>[如皋]</sup> 整理屋面瓦。  
+1. 【[㧻瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_va.md#㧻瓦)】`zhuah7 va3` <sup>[如东]</sup> 整修瓦屋面瓦。  
+1. 【[㧻账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_zhan.md#㧻账)】`zhuah7 zhan5` <sup>\[如东\]\[东台\]\[泰县\]\[如皋\]</sup>整理、核算账务：这几天她在下～。<sup>\[如东\]</sup>｜今吖晚上～，早点儿关门。<sup>\[泰县\]</sup>  
+1. 【[㧻㧻齐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_zhuah_qi.md#㧻㧻齐)】`zhuah7 zhuah7 qi2` <sup>[如皋]</sup> 整理时带有拍打动作，使之变得整齐：你把橱里的书～。  
 1. 【[卓肩膀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_jin_ban.md#卓肩膀)】`zhuah7 jin1 ban3` <sup>[兴化]</sup> 因瘦削而两肩高耸：来人是个高个子，～，缩颈项。  
 1. 【[捉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah.md#捉)】`zhuah7` ① <sup>\[如皋\]</sup>买（活物）：问你～两只鸡子。<sup>\[如皋\]</sup> ② <sup>\[如东\]</sup>拾取：～棉花。<sup>\[如东\]</sup> ③ <sup>\[如东\]</sup>擒拿：～贼。<sup>\[如东\]</sup>  
 1. 【[捉贼捉赃，捉奸捉双](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_ceh_zhuah_zan_zhuah_jiaen_zhuah_shuan.md#捉贼捉赃，捉奸捉双)】`zhuah7 ceh8 zhuah7 zan1 zhuah7 jiaen1 zhuah7 shuan1` <sup>[东台]</sup> 要以事实为依据。  
@@ -1376,10 +1383,8 @@
 1. 【[捉神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_shen.md#捉神)】`zhuah7 shen2` <sup>[泰县]</sup> 定神：你今朝怎吖老是不～的？  
 1. 【[捉塘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_tan_r.md#捉塘<sub>儿</sub>)】`zhuah7 tan2 r` <sup>[如东]</sup> ① 找空缺：他在秧田里～，准备把缺棵补上。 ② 比喻找穷人的麻烦：村长不能～。  
 1. 【[捉肚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_tv.md#捉肚)】`zhuah7 tv6` <sup>[兴化]</sup> 婴儿正常排泄大便，一般在出生两三个月左右：小儿～啊啦。  
-1. 【[捉瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_va.md#捉瓦)】`zhuah7 va3` <sup>[如东]</sup> 整修瓦屋面瓦。  
 1. 【[捉王二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_van_er.md#捉王二)】`zhuah7 van2 er6` <sup>[如皋]</sup> 王二，俗谓老实可欺之人：只值五块钱的杲子卖你五十块，你捱他～啦！  
 1. 【[捉𦚢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_ya.md#捉𦚢)】`zhuah7 ya1` ① <sup>\[如皋\]</sup>利用无知或懦弱而欺负：他拿你～。 ② <sup>\[如皋\]</sup>致歉用语。 ③ <sup>\[如东\]</sup>抓住别人的弱点进行嘲笑：你不要拿他～。<sup>\[如东\]</sup>  
-1. 【[捉账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_zhan.md#捉账)】`zhuah7 zhan5` ① 整理、核算账务 ② <sup>\[如东\]</sup>整理账目：这几天她在下～。<sup>\[如东\]</sup> ③ <sup>\[东台\]</sup>清点、核对账目。 ④ <sup>\[泰县\]</sup>整理账目：今吖晚上～，早点儿关门。  
 1. 【[捉捉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_zhuah.md#捉捉)】`zhuah7 zhuah7` <sup>[如东]</sup> ① 清点数目：你～，还有多少？ ② 收拾，整理：你把东西～，我俫明朝动身。  
 1. 【[桌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah.md#桌)】`zhuah7` <sup>[如皋]</sup> 套：一～笼共有八格（层）。  
 1. 【[桌帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_ban.md#桌帮)】`zhuah7 ban1` <sup>[如东]</sup> 桌子的边框。  
@@ -1392,12 +1397,6 @@
 1. 【[桌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_zz.md#桌子)】`zhuah7 zz` ① 桌子 ② <sup>\[如东\]</sup>家具。上有平面，下有支柱。有四方形、长条形、圆形、椭圆形等形状。平面上可以放置物品以及从事工作。  
 1. 【[桌子脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_zz_jiah.md#桌子脚)】`zhuah7 zz jiah7` <sup>[如东]</sup> 支撑桌面的腿。  
 1. 【[浞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah.md#浞)】`zhuah7` <sup>[如皋]</sup> 用盐或卤汁略腌渍：把肉片先～下子。  
-1. 【[𢽚下子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_ha_zz.md#𢽚下子)】`zhuah7 ha zz` <sup>[如皋]</sup> ① 整理一下。 ② 总计一下。  
-1. 【[𢽚屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_pi_gu.md#𢽚屁股)】`zhuah7 pi5 gu` <sup>[如皋]</sup> 人体落下时，屁股先触及物体而被反弹力打击。  
-1. 【[𢽚钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_qin.md#𢽚钱)】`zhuah7 qin2` <sup>[如皋]</sup> 清点钱数。  
-1. 【[𢽚瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_va.md#𢽚瓦)】`zhuah7 va3` <sup>[如皋]</sup> 整理屋面瓦。  
-1. 【[𢽚账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_zhan.md#𢽚账)】`zhuah7 zhan5` <sup>[如皋]</sup> 清理、清点账目。  
-1. 【[𢽚𢽚齐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_zhuah_qi.md#𢽚𢽚齐)】`zhuah7 zhuah7 qi2` <sup>[如皋]</sup> 整理时带有拍打动作，使之变得整齐：你把橱里的书～。  
 1. 【[妆妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuan_ma.md#妆妈)】`zhuan1 ma1` ① <sup>\[如皋\]</sup>见“扯脸的”。 ② <sup>\[如东\]</sup>为新娘梳洗打扮的女人，称妆妈。  
 1. 【[妆新](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuan_xien.md#妆新)】`zhuan1 xien1` <sup>[东台]</sup> 为新郎新娘结婚准备衣物。  
 1. 【[庄家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuan_ga.md#庄家)】`zhuan1 ga` <sup>[如东]</sup> 在打牌游戏中，负责洗牌的人为庄家。也称头家。  

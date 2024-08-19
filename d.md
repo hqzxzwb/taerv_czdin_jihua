@@ -325,7 +325,7 @@
 1. 【[打煞气棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_shaeh_qi_pan.md#打煞气棒)】`da3 shaeh7 qi5 pan6` <sup>[如皋]</sup> 借打孩子出气。  
 1. 【[打失惊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_sheh_jien.md#打失惊)】`da3 sheh7 jien` <sup>[兴化]</sup> 表示惊讶和不平：听说一间房子年租金七八万，他直～。｜（孙小官）直等听得声音，方知是差讹，打个失惊，不要命的一道烟跑了去。（《二刻》五）  
 1. 【[打湿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_sheh.md#打湿)】`da3 sheh7` <sup>[如东]</sup> 被雨水淋了。  
-1. 【[打食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_sheh.md#打食)】`da3 sheh8` ① <sup>\[如东\]</sup>觅食：天刚刚亮，麻雀就出来～。<sup>\[如东\]</sup> ② <sup>\[泰县\]</sup>家禽寻找食物：鸽子出去～去啊。  
+1. 【[打食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_sheh.md#打食)】`da3 sheh8` <sup>\[如东\]\[泰县\]</sup>觅食。常用于禽鸟：天刚刚亮，麻雀就出来～。<sup>\[如东\]</sup>｜鸽子出去～去啊。<sup>\[泰县\]</sup>  
 1. 【[打声不剌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_shen_beh_laeh.md#打声不剌)】`da3 shen beh7 laeh` <sup>[兴化]</sup> 形容过分谦恭的情态：我留他吃顿便饭，他～的不肯。  
 1. 【[打手巾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_sheu_jien.md#打手巾)】`da3 sheu3 jien1` <sup>[如皋]</sup> 用肥皂擦洗毛巾。  
 1. 【[打手巾把子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_sheu_jien_ba_zz.md#打手巾把子)】`da3 sheu3 jien1 ba3 zz` <sup>[如皋]</sup> ① 为客人递热湿毛巾，供其擦面、揩手。 ② 书场、戏园子内为观众抛送湿毛巾的有偿服务。  

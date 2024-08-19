@@ -946,7 +946,7 @@
 1. 【[红煮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_zhv.md#红煮)】`hon2 zhv3` <sup>[兴化]</sup> 煮鱼时，用酱油、蔗糖等调味：“借小林口福，多买几斤鯽鱼，一半～，一半烧白汤。”（马春阳《昏迷再婚谜》）也说“仄煮”。  
 1. 【[红枣<sub>儿</sub>茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_zo_r_cha.md#红枣<sub>儿</sub>茶)】`hon2 zo3 r cha2` <sup>[如皋]</sup> 煮红枣儿放红糖，待客作茶用。  
 1. 【[红嘴鸥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_zuei_ngeu.md#红嘴鸥)】`hon2 zuei3 ngeu1` <sup>[如东]</sup> 鸥科动物红嘴鸥，也称海鸥。  
-1. 【[哄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon.md#哄)】`hon3` <sup>[东台]</sup> ① 说谎；欺骗。 ② 哄逗：～孩子。  
+1. 【[哄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon.md#哄)】`hon3` <sup>[东台]</sup> ① 说谎；欺骗。 ② 哄逗：～伢儿。  
 1. 【[哄肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_dv_zz.md#哄肚子)】`hon3 dv3 zz` <sup>[如皋]</sup> 吃的食物质量差，好似吃饱了，其实容易饿。  
 1. 【[哄吓诈骗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_heh_zha_pin.md#哄吓诈骗)】`hon3 heh7 zha5 pin5` <sup>[兴化]</sup> 指各种欺诈或威胁手段：更有那使促狭的，通同了几个人，～，逼得别人大醉，以为笑乐。（《广陵潮》三三）  
 1. 【[哄伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_nga_r.md#哄伢<sub>儿</sub>)】`hon3 nga2 r` <sup>[如皋]</sup> 带小孩。  
@@ -954,12 +954,12 @@
 1. 【[哄煞婆做煞婆，𠵹煞婆歇煞婆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_shaeh_pu_zu_shaeh_pu_gan_shaeh_pu_xih_shaeh_pu.md#哄煞婆做煞婆，𠵹煞婆歇煞婆)】`hon3 shaeh7 pu2 zu5 shaeh7 pu2 gan1 shaeh7 pu2 xih7 shaeh7 pu2` <sup>[东台]</sup> 儿媳妇尊重婆婆，婆婆就有积极性。  
 1. 【[哄煞人不伤性命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_shaeh_ren_beh_shan_xien_mien.md#哄煞人不伤性命)】`hon3 shaeh7 ren2 beh7 shan1 xien5 mien6` <sup>[东台]</sup> 说话要尊重人讲艺术。  
 1. 【[哄中哄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_zhon_hon.md#哄中哄)】`hon3 zhon hon3` <sup>[兴化]</sup> 你哄我，我哄他，互相欺骗：而今有些事情本就是～，何必当真！  
-1. 【[擤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon.md#擤)】`hon3` ① 捏住鼻子，用气排出鼻涕：～鼻涕。 ② <sup>\[东台\]</sup>按住鼻孔用气流排出鼻涕：（歇后语）鼻孔里养伢儿——～（哄）人。<sup>\[东台\]</sup> ③ <sup>\[泰县\]</sup>用手捏住鼻子去除鼻涕：～鼻涕。<sup>\[泰县\]</sup> ④ <sup>\[泰州\]</sup>捏住鼻子，排出鼻涕。  
+1. 【[擤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon.md#擤)】`hon3` <sup>\[东台\]\[泰县\]\[泰州\]</sup>捏住鼻子，用气排出鼻涕：～鼻涕。｜（歇后语）鼻孔里养伢儿——～（哄）人。<sup>\[东台\]</sup>  
 1. 【[擤黄龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_huan_lon.md#擤黄龙)】`hon3 huan2 lon2` <sup>[如东]</sup> 把鼻孔里的分泌物使劲擤出来。也叫擤鼻涕。  
 1. 【[擤鼻涕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_pieh_ti.md#擤鼻涕)】`hon3 pieh8 ti5` <sup>[如东]</sup> 将鼻涕排除出来：用手～。  
 1. 【[擤鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_pieh_zz.md#擤鼻子)】`hon3 pieh8 zz` <sup>[如皋]</sup> 擤鼻涕。  
 1. 【[擤黄龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_van_lon.md#擤黄龙)】`hon3 van2 lon2` <sup>[如皋]</sup> 擤鼻涕。  
-1. 【[哄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon.md#哄)】`hon5` <sup>[如皋]</sup> 河底淤泥泛起。  
+1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon.md#□)】`hon5` <sup>[如皋]</sup> 河底淤泥泛起。  
 1. 【[灴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon.md#灴)】`hon5` ① <sup>\[如东\]</sup>兴旺：你现在蛮～的。<sup>\[如东\]</sup> ② <sup>\[如东\]</sup>一种耕作方法。晴天，水稻田放水，让太阳晒土，提高地温，这种方法称烘：稻田现在要～。<sup>\[如东\]</sup> ③ <sup>\[泰县\]</sup>火势猛：火烧得～～的。<sup>\[泰县\]</sup>  
 1. 【[灴灴着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_hon_chah.md#灴灴着)】`hon5 hon5 chah8` <sup>[如皋]</sup> 旺燃状。  
 1. 【[灴牌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_pae.md#灴牌)】`hon5 pae2` <sup>[东台]</sup> 打牌时手气好，起的好牌：我虽然笨，但依巴子起～。  
