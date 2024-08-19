@@ -11,7 +11,7 @@
 1. 【[拤食塘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka_sheh_tan_r.md#拤食塘<sub>儿</sub>)】`ka2 sheh8 tan2 r` <sup>[如皋]</sup> 枕骨下部凹处。  
 1. 【[跒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka.md#跒)】`ka2` ① <sup>\[如东\]</sup>两脚分开坐在物体上：～啊凳儿上。<sup>\[如东\]</sup> ② <sup>\[如皋\]</sup>跨越、夹于：～啊中间。<sup>\[如皋\]</sup>  
 1. 【[跒塴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka_bon.md#跒塴)】`ka2 bon5` <sup>[如东]</sup> 人的两腿之间，也称胯塴。  
-1. 【[跒月阴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka_iuh_ien.md#跒月阴)】`ka2 iuh8 ien1` ① <sup>\[如东\]</sup>从月底到月头都是连绵阴天，叫做跒月阴。 ② <sup>\[如皋\]</sup>阴雨过月。  
+1. 【[跒月阴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka_iuh_ien.md#跒月阴)】`ka2 iuh8 ien1` <sup>\[如皋\]\[如东\]</sup>阴雨过月，从月底绵延到次月月初  
 1. 【[卡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka.md#卡)】`ka3` ① <sup>\[如东\]</sup>卡住。 ② <sup>\[兴化\]</sup>强迫：人家不买～住啊买，这算甚的？<sup>\[兴化\]</sup> ③ <sup>\[兴化\]</sup>勒索、欺压：他仗势欺人，打啊人还～住要“劳务费”。<sup>\[兴化\]</sup>｜“照丞相所言，放走唐僧，～陈家庄，欺善怕恶。”（扬一《通天河》）<sup>\[兴化\]</sup> ④ <sup>\[泰州\]</sup>张开拇指食指或者中间用力勒紧颈部：冲上去一把～住喉咙嗓子。<sup>\[泰州\]</sup> ⑤ <sup>\[泰州\]</sup>逼迫，要挟别人做某事：他就欺你等钱用，～住你降价，我借把你，单不把他拾便宜。<sup>\[泰州\]</sup> ⑥ <sup>\[泰州\]</sup>鱼骨头，鱼刺：鱼好吃，就是鱼～犯嫌。<sup>\[泰州\]</sup>｜吐～<sup>\[泰州\]</sup>｜连～一起嚼。<sup>\[泰州\]</sup> ⑦ <sup>\[泰州\]</sup>鱼刺扎入口腔：捱鱼卡～啊。<sup>\[泰州\]</sup> ⑧ <sup>\[泰州\]</sup>被物体夹在当中不能活动：两部车子撞起来啊，司机捱～啊车子里头不得出来。<sup>\[泰州\]</sup>  
 1. 【[卡啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka_a.md#卡啊)】`ka3 a` <sup>[如皋]</sup> 被鱼芒刺了喉咙。  
 1. 【[卡疤<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka_ba_r.md#卡疤<sub>儿</sub>)】`ka3 ba1 r` <sup>[如东]</sup> ① 树上的节疤。 ② 比喻岔子，毛病：他是来寻～的。  
