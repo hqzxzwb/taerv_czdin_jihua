@@ -1990,8 +1990,8 @@
 1. 【[用账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_zhan.md#用账)】`ion6 zhan5` <sup>[兴化]</sup> ① 用场、用处：这些东西一点儿～没得，白把钱花啊。 ② 支出项目：“……只怕兰芬那里的一笔～，要出在这上头。”（《官场现形记》八）  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh.md#□)】`iuh7` <sup>[泰县]</sup> 蕴发火种：弄把草，～咖下炒菜吃。  
 1. 【[抈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh.md#抈)】`iuh7` <sup>[泰县]</sup> 折叠：照片不能～。  
-1. 【[囿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh.md#囿)】`iuh8` <sup>[如皋]</sup> ① 包围：用篱笆把天井～起来。 ② 关拦：把鸡子～家去，不放吖外头。 ③ 聚集：他周围～咖多少人。另音ioh8。  
-1. 【[月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh.md#月)】`iuh8` ① <sup>\[如东\]</sup>计时单位，等于一年的十二分之一。 ② <sup>\[东台\]</sup>月球，月亮。 ③ <sup>\[东台\]</sup>计时的单位，一年有十二个月。  
+1. 【[囿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh.md#囿)】`iuh8` <sup>[如皋]</sup> ① 包围：用篱笆把天井～起来。 ② 关拦：把鸡子～家去，不放吖外头。 ③ 聚集。另音ioh8：他周围～咖多少人  
+1. 【[月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh.md#月)】`iuh8` ① <sup>\[如东\]\[东台\]</sup>计时单位，公历一年有十二个月。 ② <sup>\[东台\]</sup>月球，月亮。  
 1. 【[月饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh_bien.md#月饼)】`iuh8 bien3` ① <sup>\[如东\]</sup>节令食品。面粉加工制成，圆形，有各种馅儿，如五仁、豆砂、枣泥等。中秋节食用。 ② <sup>\[东台\]</sup>圆形有馅的点心，中秋节的应时食品。  
 1. 【[月半](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh_bun.md#月半)】`iuh8 bun5` <sup>[东台]</sup> 一个月的第十五天，通常指阴历十五。  
 1. 【[月产病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh_chaen_pien.md#月产病)】`iuh8 chaen3 pien6` <sup>[兴化]</sup> 产褥热的俗称：他娘生小妹的时候，得～死的。  

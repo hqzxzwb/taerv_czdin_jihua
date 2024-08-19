@@ -590,10 +590,7 @@
 1. 【[藤榻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_taeh_zz.md#藤榻子)】`ten2 taeh7 zz` <sup>[东台]</sup> 用竹竿藤条制作的躺椅。  
 1. 【[藤箱子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_xian_zz.md#藤箱子)】`ten2 xian1 zz` <sup>[如皋]</sup> 圆藤或藤皮做成的箱子。  
 1. 【[豚卵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_lun.md#豚卵)】`ten2 lun3` <sup>[如东]</sup> 猪科动物猪的睾丸。  
-1. 【[豚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_zz.md#豚子)】`ten2 zz` <sup>[如皋]</sup> 天然小母猪。  
-1. 【[豚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_zz.md#豚子)】`ten2 zz` <sup>[如东]</sup> 未骟的小母猪。  
-1. 【[豚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_zz.md#豚子)】`ten2 zz` <sup>[泰县]</sup> 雌性的仔猪。  
-1. 【[豚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_zz.md#豚子)】`ten2 zz` ① <sup>\[如皋\]</sup>天然小母猪。 ② <sup>\[如东\]</sup>未骟的小母猪。 ③ <sup>\[泰县\]</sup>雌性的仔猪。  
+1. 【[豚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_zz.md#豚子)】`ten2 zz` <sup>\[如东\]\[如皋\]\[泰县\]</sup>母仔猪，未骟的小母猪。  
 1. 【[氽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten.md#氽)】`ten3` ① <sup>\[如皋\]</sup>水骤涌：泉眼里的水只～。 ② <sup>\[如皋\]</sup>热气、浊气蒸腾：锅里热气～人子；漓尿宝儿一到，骚气味就～人子。 ③ <sup>\[如东\]</sup>浮在水面上：木头氽吖水面上。<sup>\[如东\]</sup> ④ <sup>\[如东\]</sup>水涌出来：大水～动。<sup>\[如东\]</sup>  
 1. 【[褪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten.md#褪)】`ten5` ① 脱衣服，多指裤子。 ② <sup>\[如皋\]</sup>退避：大家一齐儿走，他总～吖后头。 ③ <sup>\[如皋\]</sup>暗中选留：这张床是～吖把你的，别的床总捱人家订吖去啊。 ④ <sup>\[如皋\]</sup>向下脱：～裤子。 ⑤ <sup>\[东台\]</sup>悄悄地退让，逃避：党员干部遇到难事不能往后～。<sup>\[东台\]</sup> ⑥ <sup>\[兴化\]</sup>悄然退出：他一听手机响，忙从队伍里～出来。<sup>\[兴化\]</sup> ⑦ <sup>\[兴化\]</sup>藏放。也读作tun5：钱～吖衣袖里。<sup>\[兴化\]</sup> ⑧ <sup>\[泰州\]</sup>脱下衣服：你把衣裳～下来把我洗。<sup>\[泰州\]</sup> ⑨ <sup>\[泰州\]</sup>退：你朝后～两步，让他先过去。<sup>\[泰州\]</sup> ⑩ <sup>\[泰州\]</sup>时间向后延期：不好意思，借你的钱，还要再～两天还把你。<sup>\[泰州\]</sup>｜事情太多,～到今朝才处理。<sup>\[泰州\]</sup> ⑪ <sup>\[泰州\]</sup>回避：遇到这些事情，你还是老实点ㄦ朝后～～的好。<sup>\[泰州\]</sup>  
 1. 【[褪的人家扁担头上的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_dii_ren_ga_bin_daen_teu_shan_dii.md#褪的人家扁担头上的)】`ten5 dii ren2 ga bin3 daen5 teu2 shan dii` <sup>[东台]</sup> 喻指学的人家已经过时的经验。  
@@ -604,10 +601,7 @@
 1. 【[囤工夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_gon_fv.md#囤工夫)】`ten6 gon1 fv1` <sup>[东台]</sup> 专门安排时间：老人有病不能等有机会顺带去医院，要～送去看。  
 1. 【[囤盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_pun.md#囤盘)】`ten6 pun2` <sup>[如皋]</sup> 圆的木盘，做囤子的底脚。  
 1. 【[囤尸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_shr.md#囤尸)】`ten6 shr1` <sup>[如东]</sup> 表示倒霉：麻雀屎拉啊头，～！上嫌物品少，表示不愿接受的口语。｜拿你这些东西，～啊！  
-1. 【[囤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_zz.md#囤子)】`ten6 zz` <sup>[如皋]</sup> ① 用䇽圈儿围积粮棉豆等，逐层加高，呈圆柱，在室外时，上边加锥形顶，防雨。 ② 过春节时，于三十夜的晚间在地上用蒲包儿打的整齐的一片石灰印，叫元宝～。  
-1. 【[囤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_zz.md#囤子)】`ten6 zz` <sup>[如东]</sup> 堆放谷物的仓贮，圆形，外围用折（摺）子圈成，似巨桶。  
-1. 【[囤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_zz.md#囤子)】`ten6 zz` <sup>[东台]</sup> 用䇽窝圈起来存放的农产品堆子：粮～｜黄豆～。  
-1. 【[囤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_zz.md#囤子)】`ten6 zz` ① <sup>\[如皋\]</sup>用䇽圈儿围积粮棉豆等，逐层加高，呈圆柱，在室外时，上边加锥形顶，防雨。 ② <sup>\[如皋\]</sup>过春节时，于三十夜的晚间在地上用蒲包儿打的整齐的一片石灰印，叫元宝～。 ③ <sup>\[如东\]</sup>堆放谷物的仓贮，圆形，外围用折（摺）子圈成，似巨桶。 ④ <sup>\[东台\]</sup>用䇽窝圈起来存放的农产品堆子：粮～<sup>\[东台\]</sup>｜黄豆～。<sup>\[东台\]</sup>  
+1. 【[囤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_zz.md#囤子)】`ten6 zz` ① <sup>\[如皋\]\[如东\]\[东台\]</sup>用䇽圈儿围积粮棉豆等，逐层加高，呈圆柱，在室外时，上边加锥形顶，防雨：粮～<sup>\[东台\]</sup>｜黄豆～。<sup>\[东台\]</sup> ② <sup>\[如皋\]</sup>过春节时，于三十夜的晚间在地上用蒲包儿打的整齐的一片石灰印，叫元宝～。  
 1. 【[囤子屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_zz_oh.md#囤子屋)】`ten6 zz oh7` <sup>[如皋]</sup> 泥墙竹顶，似室外粮囤的陋屋。  
 1. 【[忳事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_shr.md#忳事)】`ten6 shr` <sup>[如皋]</sup> ① 嫌少：送这点儿杲子，倒～！ ② 不吉利：看见吖两头蛇就～；见屁股不打就～。 ③ 嘲笑、挖苦、作弄：你不要弄这些话去～他。  
 1. 【[忳事话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_shr_hua.md#忳事话)】`ten6 shr hua6` <sup>[如皋]</sup> 小气话，显得失体、丢面子或不吉利的话：他会说～话，好像八世里不曾吃过。  
