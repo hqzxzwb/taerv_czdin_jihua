@@ -249,7 +249,7 @@
 1. 【[囥板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kan_baen.md#囥板)】`kan5 baen3` <sup>[如皋]</sup> 抽屉囥下方的平板。  
 1. 【[囥抽抽<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kan_cheu_cheu_r.md#囥抽抽<sub>儿</sub>)】`kan5 cheu1 cheu1 r` <sup>[如皋]</sup> 抽屉下方的暗匣。  
 1. 【[囥柜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kan_kuei.md#囥柜)】`kan5 kuei6` <sup>[如东]</sup> 柜的一种。木制，方形或长方形，柜面上有一小盖，打开后，可以贮存贵重物品。  
-1. 【[囥量](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kan_lian.md#囥量)】`kan5 lian6` ① <sup>\[如皋\]</sup>隐藏酒量、饭量，不吃足。 ② <sup>\[东台\]</sup>不肯露出真酒量：请大家开怀畅饮，不要～。<sup>\[东台\]</sup> ③ <sup>\[兴化\]</sup>聚饮时瞒住自己的酒量：你覅～，我晓得你吃半斤没问题。<sup>\[兴化\]</sup> ④ <sup>\[泰县\]</sup>隐瞒：你能喝半斤酒，今朝不能～。  
+1. 【[囥量](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kan_lian.md#囥量)】`kan5 lian6` <sup>\[如皋\]\[东台\]\[兴化\]\[泰县\]</sup>隐藏酒量、饭量，不吃足：请大家开怀畅饮，不要～。<sup>\[东台\]</sup>｜你覅～，我晓得你吃半斤没问题。<sup>\[兴化\]</sup>｜你能喝半斤酒，今朝不能～。<sup>\[泰县\]</sup>  
 1. 【[囥墙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kan_qian_zz.md#囥墙子)】`kan5 qian2 zz` <sup>[如皋]</sup> 抽屉园两侧及后方的竖板。  
 1. 【[抗旱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kan_hun.md#抗旱)】`kan5 hun` <sup>[如皋]</sup> 脚踏式水车的配件“眠牛儿”上的立柱，供搁“扶手儿”用。  
 1. 【[炕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kan.md#炕)】`kan5` ① <sup>\[如东\]</sup>用火烘烤，叫做炕。 ② <sup>\[兴化\]</sup>体温升高：身上发～<sup>\[兴化\]</sup>｜他～到38.5度。<sup>\[兴化\]</sup> ③ <sup>\[兴化\]</sup>烤：～山芋（烤红薯）。<sup>\[兴化\]</sup> ④ <sup>\[兴化\]</sup>烘：阴雨天～尿布。《说文·火部》<sup>\[兴化\]</sup>｜“～，乾也，苦浪切。”段玉裁注<sup>\[兴化\]</sup>｜谓以火乾之也。<sup>\[兴化\]</sup>  
