@@ -68,7 +68,7 @@
 ## D
 1. 【[咑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da.md#咑)】`da` <sup>[兴化]</sup> 语气词，用于疑问句末：这东西是你的～？｜这话是你说的～？  
 1. 【[咑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da.md#咑)】`da2` <sup>[如皋]</sup> 象声词：啲啲咑咑（di2 di2 da2 da2），吴咑吴咑（v2 da2 v2 da2）。  
-1. 【[打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da.md#打)】`da3` ① <sup>\[如东\]</sup>用手或器具敲击物体，称打：～人。<sup>\[如东\]</sup> ② <sup>\[如东\]</sup>东西砸坏：他把木箱～掉啊。<sup>\[如东\]</sup> ③ <sup>\[如东\]</sup>东西掉下来跌坏：花瓶～掉啊。<sup>\[如东\]</sup> ④ 摔坏：杯儿打掉啊。（杯子摔坏了。） ⑤ <sup>\[兴化\]</sup>洗、擦（肥皂）：拿洋碱把手巾～～。<sup>\[兴化\]</sup>｜拿香皂把身上～～。<sup>\[兴化\]</sup>  
+1. 【[打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da.md#打)】`da3` ① <sup>\[如东\]</sup>用手或器具敲击物体，称打：～人。<sup>\[如东\]</sup> ② <sup>\[如东\]</sup>东西砸坏：他把木箱～掉啊。<sup>\[如东\]</sup> ③ <sup>\[如东\]</sup>跌坏、摔坏：杯儿～掉啊。（杯子摔坏了。）｜花瓶～掉啊。<sup>\[如东\]</sup> ④ <sup>\[兴化\]</sup>洗、擦（肥皂）：拿洋碱把手巾～～。<sup>\[兴化\]</sup>｜拿香皂把身上～～。<sup>\[兴化\]</sup>  
 1. 【[打啊春，赤脚奔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_a_chuen_cheh_jiah_ben.md#打啊春，赤脚奔)】`da3 a chuen1 cheh7 jiah7 ben1` <sup>[东台]</sup> 立春后天气转暖，夸张可以赤脚走路了。  
 1. 【[打啊夹墙塴里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_a_gaeh_qian_bon_lii.md#打啊夹墙塴里)】`da3 a gaeh7 qian2 bon5 lii` <sup>[如皋]</sup> 介于两者之间，处于尴尬境地而为难、委屈。  
 1. 【[打啊高宵的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_a_go_xio_dii.md#打啊高宵的)】`da3 a go1 xio1 dii` <sup>[东台]</sup> 因事熬了夜，睡眠不足。  
