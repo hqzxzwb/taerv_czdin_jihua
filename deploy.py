@@ -199,7 +199,7 @@ def parse_cont(cont, fname):
     return CzY(source, pien_ien_0, pien_ien, raw_pien_ien, word, raw_text, meanings, fname, sort_key, spec, mixed)
 
 def mix(word, py):
-    word = word.rstrip('ʲ')
+    word = word.replace('ʲ', '')
     py = re.sub("-[a-z1-9]+", "", py)
     py = re.sub(r"（.*?）|\(.*?\)|…", "", py).strip()
     char_py_list = re.split("[^a-z0-9]+", py)
@@ -272,7 +272,7 @@ def parse_cz_ien2(f, out):
 def parse_cz_ien3(f, out):
     io = open(f, encoding="U8")
     file_content = io.read()
-    for match in re.finditer(r'# (\w)ʲ\n([a-z]+\d?)', file_content):
+    for match in re.finditer(r'# (\w)ʲ(?:/\w)*\n([a-z]+\d?)', file_content):
         cz = match[1]
         ien = match[2]
         out[ien].add(cz)
