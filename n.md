@@ -9,7 +9,7 @@
 1. 【[拿不掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_beh_tio.md#拿不掉)】`na2 beh7 tio6` <sup>[如皋]</sup> 詈语。阴司来捉拿也捉不到，比喻此人十分厉害。  
 1. 【[拿不稳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_beh_ven.md#拿不稳)】`na2 beh7 ven3` <sup>[兴化]</sup> 吃不准、没有把握：他心里怎吖想，我到现在～。  
 1. 【[拿不准](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_beh_zhuen.md#拿不准)】`na2 beh7 zhuen3` ① <sup>\[如皋\]</sup>掌握、判断不准确，难下结论。 ② <sup>\[如东\]</sup>把握不定：这个问题我～。<sup>\[如东\]</sup>  
-1. 【[拿宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_bo_r.md#拿宝<sub>儿</sub>)】`na2 bo3 r` ① <sup>\[如皋\]</sup>詈语，咒骂小孩被阴司捉拿，即早死。 ② <sup>\[东台\]</sup>骂小孩夭亡的话，现在也常常是年长者对孩子的昵称。也作“拿小”“拿宝小”。 ③ <sup>\[兴化\]</sup>见“拿宝子”。 ④ <sup>\[泰县\]</sup>（禁忌语）抱卵的：你个～，不听话。  
+1. 【[拿宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_bo_r.md#拿宝<sub>儿</sub>)】`na2 bo3 r` ① <sup>\[如皋\]\[东台\]\[兴化\]</sup>詈语，咒骂小孩早死。\[东台：现在也常常是年长者对孩子的昵称。也作“拿小”“拿宝小”。\]\[兴化：同“拿宝子”。\] ② <sup>\[泰县\]</sup>（禁忌语）抱卵的：你个～，不听话。<sup>\[泰县\]</sup>  
 1. 【[拿宝子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_bo_zz.md#拿宝子)】`na2 bo3 zz` <sup>[兴化]</sup> 收埋死孩尸骸谓“拿”，这是骂人的话，意为“早死的”。又谓“拿宝儿”。  
 1. 【[拿住咖老爷不当官](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_chuh_ga_lo_i_beh_dan_gun.md#拿住咖老爷不当官)】`na2 chuh7 ga lo3 i beh7 dan5 gun1` <sup>[如皋]</sup> 因不明对方身份而有所轻慢。  
 1. 【[拿住咖丫头割卵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_chuh_ga_nga_teu_guh_lun_zz.md#拿住咖丫头割卵子)】`na2 chuh7 ga nga1 teu guh7 lun3 zz` <sup>[如皋]</sup> 比喻逼人去做不可能做到的事。  
