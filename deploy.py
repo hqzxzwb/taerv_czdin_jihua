@@ -55,6 +55,7 @@ FILTERED_OUT_IEN = {
     '核': {'hueh8', 'veh8'},
     '烘': 'hon5',
     '期': 'ji1',
+    # '抹': 'maeh8',
     '挨': 'ngae2',
     '呆': 'ngae2',
     '什': 'shen2',
