@@ -429,9 +429,7 @@
 1. 【[岔头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_teu.md#岔头)】`cha5 teu2` ① <sup>\[如东\]</sup>分枝 ② <sup>\[如东\]</sup>比喻出现新的问题。 ③ <sup>\[如皋\]</sup>分蘖：小麦～。<sup>\[如皋\]</sup> ④ <sup>\[如皋\]</sup>侧枝、分枝：桑树长出～。<sup>\[如皋\]</sup>  
 1. 【[岔头官司](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_teu_gun_sz.md#岔头官司)】`cha5 teu2 gun1 sz1` ① <sup>\[如东\]</sup>纠缠枝节问题：不要打～。<sup>\[如东\]</sup> ② <sup>\[东台\]</sup>横生枝节；一事来了，又缠到另一是非矛盾中：这事还未了结，你不要来打～。<sup>\[东台\]</sup> ③ <sup>\[兴化\]</sup>在审理某一案件时，出现其他诉讼事由或其他当事人：打～。<sup>\[兴化\]</sup> ④ <sup>\[兴化\]</sup>（喻）意外地插进新问题，使事情变得更复杂：“你快走，免得又出一个～！”（马春阳《谁是妻子》）<sup>\[兴化\]</sup> ⑤ <sup>\[泰县\]</sup>纠缠枝节问题：谈正经事，不能打～。  
 1. 【[岔心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_xien.md#岔心)】`cha5 xien1` <sup>[泰县]</sup> 分散注意力。  
-1. 【[岔枝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_zhr.md#岔枝)】`cha5 zhr1` <sup>[如东]</sup> ① 分枝。 ② 比喻由一个问题引申出另一个问题：王明一来就出咖～。  
-1. 【[岔枝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_zhr.md#岔枝)】`cha5 zhr1` <sup>[泰兴方言辞典 ]</sup> 谓节外生枝。  
-1. 【[岔枝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_zhr.md#岔枝)】`cha5 zhr1` ① <sup>\[如东\]</sup>分枝。 ② <sup>\[如东\]</sup>比喻由一个问题引申出另一个问题：王明一来就出咖～。<sup>\[如东\]</sup> ③ <sup>\[泰兴方言辞典 \]</sup>谓节外生枝。  
+1. 【[岔枝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_zhr.md#岔枝)】`cha5 zhr1` ① <sup>\[如东\]</sup>分枝。 ② <sup>\[如东\]</sup>比喻由一个问题引申出另一个问题：王明一来就出咖～。<sup>\[如东\]</sup> ③ <sup>\[泰兴\]</sup>谓节外生枝。  
 1. 【[岔枝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_zhr_r.md#岔枝<sub>儿</sub>)】`cha5 zhr1 r` ① <sup>\[如皋\]</sup>长出的分枝。 ② <sup>\[兴化\]</sup>树木的分枝：打～。<sup>\[兴化\]</sup> ③ <sup>\[兴化\]</sup>（喻）节外生枝：合作的条款谈得好好的，想不到又生～。<sup>\[兴化\]</sup>  
 1. 【[岔嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_zuei.md#岔嘴)】`cha5 zuei3, cha5 jy3` <sup>[如东]</sup> 插话：他说话，你不要～。  
 1. 【[岔嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_zuei.md#岔嘴)】`cha5 zuei3` <sup>[泰兴]</sup> 插话，多嘴。  
