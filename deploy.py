@@ -108,8 +108,8 @@ def parse_pinyin(pinyin):
     return ", ".join(map(" ".join, product(*py_list)))
 
 meaning_pattern = r"\+ (?P<explanation>.+)\n(?P<body>(  .+\n)*)"
-sub_meaning_pattern = r"(  \* (?P<source>.+)\n)?(    \+ (?P<supplement>.+)\n)?(?P<body>(    .+\n)*)"
-example_pattern = r"    - (?P<text>.+)\n"
+sub_meaning_pattern = r"(  \* (?P<source>.+)\n)?( {2,4}\+ (?P<supplement>.+)\n)?(?P<body>( {2,4}- .+\n)*)"
+example_pattern = r" {2,4}- (?P<text>.+)\n"
 
 pattern_spec1 = r"^(> (?P<source>.+)\n)?(?P<body>(.+\n)*)"
 meaning_pattern_spec1 = r"- (?P<explanation>.+)\n(?P<body>(  .+\n)*)"
