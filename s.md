@@ -341,8 +341,8 @@
 1. 【[桑皮汁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_pi_zheh.md#桑皮汁)】`san1 pi2 zheh7` <sup>[如东]</sup> 桑科植物桑树皮中的白色汁液。  
 1. 【[桑螵蛸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_pio_xio.md#桑螵蛸)】`san1 pio1 xio1` <sup>[如东]</sup> 螳螂科昆虫大刀螳螂的卵鞘。  
 1. 【[桑白皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_poh_pi.md#桑白皮)】`san1 poh8 pi2` <sup>[如东]</sup> 桑科植物桑树除去栓皮的根皮。  
-1. 【[桑树从小捥，到老直笔笔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_shv_con_xio_yeh_do_lo_cheh_bieh_bieh.md#桑树从小捥，到老直笔笔)】`san1 shv6 con2 xio3 yeh7 do5 lo3 cheh8 bieh7 bieh7` ① <sup>\[如皋\]</sup>从小儿上规距，长大不出错。 ② <sup>\[东台\]</sup>比喻孩子要从小教育上规矩。  
-1. 【[桑树从小𢺴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_shv_con_xio_yeh.md#桑树从小𢺴)】`san1 shv6 con2 xio3 yeh7` <sup>[东台]</sup> ［喻］小孩从小就要规范行为，等长大了改坏毛病就难。  
+1. 【[桑树从小𢺴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_shv_con_xio.md#桑树从小𢺴)】`san1 shv6 con2 xio3 yeh7` <sup>[东台]</sup> ［喻］小孩从小就要规范行为，等长大了改坏毛病就难。  
+1. 【[桑树从小𢺴，到老直笔笔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_shv_con_xio_yeh_do_lo_cheh_bieh_bieh.md#桑树从小𢺴，到老直笔笔)】`san1 shv6 con2 xio3 yeh7 do5 lo3 cheh8 bieh7 bieh7` ① <sup>\[如皋\]</sup>从小儿上规距，长大不出错。 ② <sup>\[东台\]</sup>比喻孩子要从小教育上规矩。  
 1. 【[桑树果<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_shv_gu_r.md#桑树果<sub>儿</sub>)】`san1 shv6 gu3 r` <sup>[泰县]</sup> 桑椹儿。  
 1. 【[桑树果子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_shv_gu_zz.md#桑树果子)】`san1 shv6 gu3 zz` <sup>[兴化]</sup> 即“桑葚儿”，桑树的果穗，成熟后味甜，可以吃。  
 1. 【[桑天牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_tin_ngeu.md#桑天牛)】`san1 tin1 ngeu2` <sup>[如东]</sup> 天牛科昆虫桑天牛，体形长，黑色，密被黄褐色短毛，深淡不一。触角长。前胸背板前后横沟之间有不规则的横皱，中央后方两侧，侧剌突基部有黑色光亮的隆起刻点。鞘翅基部密布黑色光亮的瘤状颗粒。幼虫乳白色，前胸硬皮板后半部密生赤褐色颗粒状小点。翌年7月羽化。对橘梨、桑、柳、白杨、枇杷、无花果等树危害甚烈。  

@@ -164,12 +164,10 @@
 1. 【[曰口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/ya_keu.md#曰口)】`ya5 keu` <sup>[如皋]</sup> 言下之意，言外之音：听他的～是想买二胡。  
 1. 【[□责](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yae_zeh.md#□责)】`yae2 zeh7` <sup>[泰县]</sup> 得罪人。  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yaeh.md#□)】`yaeh7` <sup>[泰县]</sup> 淘汰。  
-1. 【[捥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yeh.md#捥)】`yeh7` <sup>[如皋]</sup> ① 矫形：～竹子、～扁担；桑树从小儿～，到老直笔笔。 ② 扳：～腰。或作“𢺴”。  
-1. 【[捥/𢺴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yeh.md#捥/𢺴)】`yeh7` ① <sup>\[东台\]</sup>扳；使条状物变形：桑树从小～，到老直笔笔。<sup>\[东台\]</sup> ② <sup>\[东台\]</sup>闪了筋骨（与“崴”同义） ③ <sup>\[泰县\]</sup>折、弯曲。  
-1. 【[捥捥（𢺴𢺴）性子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yeh_yeh_xien_zz.md#捥捥（𢺴𢺴）性子)】`yeh7 yeh7 xien5 zz` <sup>[东台]</sup> ［引］逐步改变性格，使之适应新情况：急脾气的人要先坐下来～，培养耐性。  
 1. 【[疫苗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yeh_mio.md#疫苗)】`yeh7 mio2` <sup>[东台]</sup> 能使机体产生免疫力的病毒制剂：狂犬病～｜麻疹～。  
 1. 【[郁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yeh.md#郁)】`yeh7` <sup>[兴化]</sup> 烦闷：“……你心里总得看开些，不要～出病来……”（《二十年目睹之怪现状》八七）  
-1. 【[𢺴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yeh.md#𢺴)】`yeh7` <sup>[兴化]</sup> ① 火熏竹、篾，使弯曲，或将弯曲的东西～直。 ② 折：把铁丝一个圆环。 ③ 兴化词典作“抈”，《说文·手部》“～，折也。”鱼厥切。反切不合。  
+1. 【[𢺴/捥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yeh.md#𢺴/捥)】`yeh7` ① <sup>\[东台\]\[如皋\]\[泰县\]\[兴化\]</sup>拗戾，使条状物变形（直变弯、或弯变直）：桑树从小～，到老直笔笔。<sup>\[东台\]</sup>｜～竹子、～扁担<sup>\[如皋\]</sup>｜桑树从小儿～，到老直笔笔。<sup>\[如皋\]</sup>｜～腰。<sup>\[如皋\]</sup>｜把铁丝一个圆环。<sup>\[兴化\]</sup> ② <sup>\[东台\]</sup>闪了筋骨（与“崴”同义） ③ <sup>\[兴化\]</sup>火熏竹、篾，使弯曲或使直  
+1. 【[𢺴𢺴性子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yeh_yeh_xien_zz.md#𢺴𢺴性子)】`yeh7 yeh7 xien5 zz` <sup>[东台]</sup> ［引］逐步改变性格，使之适应新情况：急脾气的人要先坐下来～，培养耐性。  
 1. 【[鹬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yeh.md#鹬)】`yeh8` <sup>[如东]</sup> 鹬科动物鹬。如东有红脚鹬、彩鹬、黑翅长脚鹬、青脚鹬诸种。红脚鹬体长约27厘米。嘴长，端部黑色。虹膜黑褐色。头顶部红褐色，头侧和颈侧白色，中有暗褐条纹。上体灰褐。覆羽浅红褐色；各羽中央有黑褐色纵纹。初级飞羽黑褐色，内明边缘有白色阔斑。尾羽和尾上覆羽白色，有黑色横斑。下体白色，杂有许多暗褐色纵纹。脚橙红色，爪黑色。栖息在海岸、池塘、河口等地。彩鹬，体长约24厘米。羽毛暗淡，嘴细长，腿长，没有蹼。雌性的体型比雄性大，羽毛也比雄性富有光泽。夜间在水稻田或沼泽地觅食螺类、甲虫及水生植物，白天隐藏在灌木丛中。黑翅长脚鹬，体长约34厘米。体色暗淡。脚特别长。嘴细长。生活在水边，以小鱼、贝类为主食，并兼食少量植物。筑巢于水泽或近水的芦苇、灌木丛中。也有在泥土低处营巢的。青脚鹬，体长约33厘米。背、大多数尾羽及腋羽白色，尾羽及腋羽具绿色横斑或星斑。喜群居，迁徙时几百只结群飞行。生活在沿海及内陆沼泽河湖地带。主要吃昆虫、虾和水生植物。  
 1. 【[晕过去啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_gu_qi_a.md#晕过去啊)】`yen1 gu5 qi5 a` <sup>[如皋]</sup> 昏厥，不省人事。  
 1. 【[晕头大曲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_teu_da_qioh.md#晕头大曲)】`yen1 teu2 da6 qioh7` <sup>[如皋]</sup> 瓜干儿酒的谑称。  
