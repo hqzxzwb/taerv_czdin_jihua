@@ -2330,10 +2330,9 @@
 1. 【[露天心里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_tin_xien_lii.md#露天心里)】`lv6 tin1 xien1 lii` <sup>[如皋]</sup> 直接见天而无遮盖的地方。  
 1. 【[露相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_xian.md#露相)】`lv6 xian5` <sup>[兴化]</sup> 露出其面目：俗语｜真人不～。  
 1. 【[露星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_xien.md#露星)】`lv6 xien1` <sup>[如东]</sup> 旷野：睏吖在～里。  
-1. 【[擂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly.md#擂)】`ly2` <sup>[如皋]</sup> 拉、磨、割：井栏捱吊桶绳～起槽儿来啊｜手捱玉米叶子～啊破啊｜细丝线走手上一䟳手就捱～得疼。  
 1. 【[累堆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_dy.md#累堆)】`ly2 dy` <sup>[东台]</sup> ① 多余的负担。 ② 说话啰啰唆嗦。东台词典写“累赘”。  
 1. 【[累堆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_dy.md#累堆)】`ly2 dy1` <sup>[如皋]</sup> ① 笨重：这些旧大炮是～货。 ② 牵累：呆儿子是他的～。 ③ 笨拙：这家伙是～形。  
-1. 【[鑢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly.md#鑢)】`ly2` <sup>[东台]</sup> 锯开、划开：手捱荆棘～啊个口子。  
+1. 【[鑢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly.md#鑢)】`ly2` <sup>\[如皋\]\[东台\]</sup>拉、磨、割、划：井栏捱吊桶绳～起槽儿来啊<sup>\[如皋\]</sup>｜手捱玉米叶子～啊破啊<sup>\[如皋\]</sup>｜细丝线走手上一䟳手就捱～得疼。<sup>\[如皋\]</sup>｜手捱荆棘～啊个口子。<sup>\[东台\]</sup>  
 1. 【[雷不打自招](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_beh_da_cz_zho.md#雷不打自招)】`ly2 beh7 da3 cz6 zho1` <sup>[东台]</sup> 无意中透露自己的过错。  
 1. 【[雷暴雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_bo_y.md#雷暴雨)】`ly2 bo5 y3` <sup>[泰县]</sup> 雷阵雨。  
 1. 【[雷阵霍闪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_chen_vah_shin.md#雷阵霍闪)】`ly2 chen6 vah7 shin3` <sup>[如皋]</sup> 打雷声，闪电光相交加。  

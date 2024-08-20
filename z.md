@@ -792,9 +792,9 @@
 1. 【[整田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_tin.md#整田)】`zhen3 tin2` <sup>[如东]</sup> 一种耕作方法，用农具将田块松土、治平，以便种植，叫做整田。  
 1. 【[整心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_xien.md#整心)】`zhen3 xien1` <sup>[如皋]</sup> 见“心整”。  
 1. 【[整枝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zhr.md#整枝)】`zhen3 zhr1` <sup>[如东]</sup> 剪除棉花、果树等植物的无用枝条，叫做整枝。  
+1. 【[整㧻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zhuah.md#整㧻)】`zhen3 zhuah7` <sup>[如皋]</sup> 整理、清点。  
 1. 【[整捉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zhuah.md#整捉)】`zhen3 zhuah7` <sup>[如东]</sup> 整齐饱满：这筐菜蛮～的。  
 1. 【[整捉数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zhuah_shv.md#整捉数)】`zhen3 zhuah7 shv5` <sup>[如东]</sup> 整数：正好是～。  
-1. 【[整𢽚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zhuah.md#整𢽚)】`zhen3 zhuah7` <sup>[如皋]</sup> 整理、清点。  
 1. 【[枕头状](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_teu_chuan.md#枕头状)】`zhen3 teu chuan6` ① <sup>\[如皋\]</sup>喻妻子挑唆丈夫的话。 ② <sup>\[东台\]</sup>见“告枕头状”。 ③ <sup>\[泰县\]</sup>妻子向丈夫说的片面之词。  
 1. 【[枕头风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_teu_fon.md#枕头风)】`zhen3 teu fon1` ① <sup>\[如东\]</sup>女人在床上跟男人诉说别人的坏话，叫做枕头风。 ② <sup>\[兴化\]</sup>（戏）夫妻间的私房话：这位年轻人捱～吹得晕头转向。‖也作“枕头状”“枕头课”。<sup>\[兴化\]</sup>  
 1. 【[枕头壳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_teu_kah_r.md#枕头壳<sub>儿</sub>)】`zhen3 teu kah7 r` <sup>[如皋]</sup> 枕头体的外层，像个布袋。  

@@ -226,7 +226,7 @@
 1. 【[摊瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_va.md#摊瓦)】`taen1 va3` <sup>[如东]</sup> 将瓦片按照规定摆在屋面上，叫做摊瓦。  
 1. 【[摊账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_zhan.md#摊账)】`taen1 zhan5` <sup>[如东]</sup> 把账目公开出来。把各人应该承担的经济账目分摊到各人的名下  
 1. 【[滩涂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_tv.md#滩涂)】`taen1 tv2` ① <sup>\[如东\]</sup>水深时淹没，水浅时露出的地方，叫做滩涂，包括海涂、河涂。 ② <sup>\[东台\]</sup>浅水海滩。  
-1. 【[痑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen.md#痑)】`taen1` ① 疲劳，累 ② <sup>\[如皋\]</sup>状极为疲劳：软～无力。 ③ <sup>\[兴化\]</sup>非常疲劳：下乡劳动一天，到晚身子萎啊～下来啊。｜这些人酒喝多啊，个个手～脚软。《广韵·寒韵》他干切：“～，力极。” ④ <sup>\[泰州\]</sup>疲乏至极点导致身体无力，主观上不愿意行动：忙吖一天，把我人都忙吖～吖唻，家来就要睡觉，真的不想动。<sup>\[泰州\]</sup> ⑤ <sup>\[泰州\]</sup>自我放纵，躺平：他受啊处分以后，索性～吖唻玩唻，连班都不上唻。<sup>\[泰州\]</sup>｜我俫公司的经理～吖来唻，甚的事都不问吖。<sup>\[泰州\]</sup>  
+1. 【[痑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen.md#痑)】`taen1` ① 疲劳，累 ② <sup>\[如皋\]</sup>状极为疲劳：软～无力。 ③ <sup>\[兴化\]</sup>非常疲劳：下乡劳动一天，到晚身子萎啊～下来啊。<sup>\[兴化\]</sup>｜这些人酒喝多啊，个个手～脚软。《广韵·寒韵》他干切：“～，力极。”<sup>\[兴化\]</sup> ④ <sup>\[泰州\]</sup>疲乏至极点导致身体无力，主观上不愿意行动：忙吖一天，把我人都忙吖～吖唻，家来就要睡觉，真的不想动。<sup>\[泰州\]</sup> ⑤ <sup>\[泰州\]</sup>自我放纵，躺平：他受啊处分以后，索性～吖唻玩唻，连班都不上唻。<sup>\[泰州\]</sup>｜我俫公司的经理～吖来唻，甚的事都不问吖。<sup>\[泰州\]</sup>  
 1. 【[瘫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen.md#瘫)】`taen1` <sup>[泰州]</sup> ① 因受强烈刺激，导致身体无力而客观上无法站立、挪动而只能躺着：人捱他的车子撞吖多远，地下全是血，他当场就吓咖～吖。 ② 瘫痪：他从脚手架上跌下来以后，～吖家里好些年。  
 1. 【[瘫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_zz.md#瘫子)】`taen1 zz` <sup>[如东]</sup> 双脚瘫痪的人。  
 1. 【[瘫子带亲——坐啊家里等](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_zz_dae_qien_cu_a_ga_lii_den.md#瘫子带亲——坐啊家里等)】`taen1 zz dae5 qien1 cu6 a ga1 lii den3` <sup>[东台]</sup>   
@@ -270,7 +270,7 @@
 1. 【[谈闲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_xiaen.md#谈闲)】`taen2 xiaen2` ① <sup>\[如皋\]</sup>漫谈，随意谈。 ② <sup>\[如东\]</sup>闲谈：我俫两个在下～。<sup>\[如东\]</sup>  
 1. 【[谈心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_xien.md#谈心)】`taen2 xien1` <sup>[兴化]</sup> 责问、较量：你再弄吖外头说三道四的，我要找你～。  
 1. 【[谈遇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_y.md#谈遇)】`taen2 y6` <sup>[如皋]</sup> 家鸽互相嘀咕。  
-1. 【[啖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen.md#啖)】`taen3` ① <sup>\[如皋\]</sup>吃，且吃相粗犷。 ② <sup>\[东台\]</sup>吃或给别人吃。读若“坦”：礼拜天到茶馆去～一顿。<sup>\[东台\]</sup> ③ <sup>\[泰州\]</sup>吃：三个烧饼，他一刻ㄦ工夫就～下肚来。<sup>\[泰州\]</sup>  
+1. 【[啖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen.md#啖)】`taen3` <sup>\[如皋\]\[东台\]\[泰州\]</sup>吃\[如皋：且吃相粗犷\]\[东台：或给别人吃\]：礼拜天到茶馆去～一顿。<sup>\[东台\]</sup>｜三个烧饼，他一刻ㄦ工夫就～下肚来。<sup>\[泰州\]</sup>  
 1. 【[啖刮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_guaeh.md#啖刮)】`taen3 guaeh7` <sup>[如皋]</sup> 见“啖”。  
 1. 【[啖刮啖刮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_guaeh_taen_guaeh.md#啖刮啖刮)】`taen3 guaeh7 taen3 guaeh7` <sup>[如皋]</sup> 见“啖”。  
 1. 【[胆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen.md#胆)】`taen3` <sup>[如皋]</sup> 车胎。  
@@ -285,7 +285,7 @@
 1. 【[炭屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_shr.md#炭屎)】`taen5 shr3` ① <sup>\[如皋\]</sup>煤渣。 ② <sup>\[如东\]</sup>煤渣。 ③ <sup>\[东台\]</sup>煤炭渣。 ④ <sup>\[兴化\]</sup>见“死炭”。 ⑤ <sup>\[泰县\]</sup>煤渣。  
 1. 【[炭屎路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_shr_lv.md#炭屎路)】`taen5 shr3 lv6` <sup>[如皋]</sup> 媒渣铺面的简易道路。  
 1. 【[炭渣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_zha_zz.md#炭渣子)】`taen5 zha1 zz` <sup>[兴化]</sup> 煤炭燃烧后的余烬。也称“煤渣”“炭屎”“炭灰”。  
-1. 【[𨂞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen.md#𨂞)】`taen5` ① <sup>\[如皋\]</sup>下滑，俗作“坍”：～下去、望下～。 ② <sup>\[东台\]</sup>慢慢地倒下，俗作“坍”：他从椅子上～下去了。<sup>\[东台\]</sup> ③ <sup>\[兴化\]</sup>下滑：～滑梯；～江（江岸坍塌）。<sup>\[兴化\]</sup> ④ <sup>\[兴化\]</sup>悄悄地溜掉：他一见势头不妙，忙从人群里～掉啊。<sup>\[兴化\]</sup>  
+1. 【[𨂞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen.md#𨂞)】`taen5` ① <sup>\[如皋\]\[东台\]\[兴化\]</sup>下滑：～下去、望下～。<sup>\[如皋\]</sup>｜他从椅子上～下去了。<sup>\[东台\]</sup>｜～滑梯；～江（江岸坍塌）。<sup>\[兴化\]</sup> ② <sup>\[兴化\]</sup>悄悄地溜掉：他一见势头不妙，忙从人群里～掉啊。<sup>\[兴化\]</sup>  
 1. 【[𨂞吖兴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_nga_xien.md#𨂞吖兴)】`taen5 nga xien5` <sup>[东台]</sup> 人对某种事物的兴趣消退：本来大家想上纺织项目，听说行情不好，总～。  
 1. 【[𨂞台](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_tae.md#𨂞台)】`taen5 tae2` <sup>[兴化]</sup> ① 丢面子：这位副市长第一次上台讲话，就弄几个白字，真的～。 ② 自寻台阶摆脱窘境：他闹啊几天没人睬他，只好～。  
 1. 【[𨂞动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_ton.md#𨂞动)】`taen5 ton` <sup>[兴化]</sup> 腹中始有饥饿感：今朝中饭吃得早，这刻儿肚子倒～吖。  

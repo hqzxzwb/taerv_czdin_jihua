@@ -312,7 +312,7 @@
 1. 【[匣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haeh_zz.md#匣子)】`haeh8 zz` ① <sup>\[东台\]</sup>装东西的盒子。 ② <sup>\[东台\]</sup>［借］装小孩尸体的棺材。 ③ <sup>\[兴化\]</sup>有盖的木盒。 ④ <sup>\[兴化\]</sup>一种粗劣的小棺材。借来咒骂小孩：～；野～；纳～。<sup>\[兴化\]</sup> ⑤ <sup>\[泰县\]</sup>装物用具。 ⑥ <sup>\[泰县\]</sup>小棺材。  
 1. 【[狭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haeh.md#狭)】`haeh8` 窄  
 1. 【[狭𣻏脸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haeh_xio_lin_r.md#狭𣻏脸<sub>儿</sub>)】`haeh8 xio1 lin3 r` <sup>[东台]</sup> 瘦而长的脸。  
-1. 【[𢜩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen.md#𢜩)】`haen1` ① <sup>\[如东\]</sup>速度很慢：她做事，手脚～。<sup>\[如东\]</sup> ② <sup>\[如皋\]</sup>慢：年纪大啊做事～吖。<sup>\[如皋\]</sup> ③ <sup>\[如皋\]</sup>费时间：～工夫。<sup>\[如皋\]</sup> ④ <sup>\[如皋\]</sup>耗费、耽误：～啊你多少晚的时间，真不好意思！<sup>\[如皋\]</sup> ⑤ <sup>\[东台\]</sup>笨；动作慢：他太～。<sup>\[东台\]</sup> ⑥ <sup>\[兴化\]</sup>笨：这个小伙～头～脑的。<sup>\[兴化\]</sup> ⑦ <sup>\[兴化\]</sup>呆滞、怕动：他一天到晚～吖家里。<sup>\[兴化\]</sup> ⑧ <sup>\[泰县\]</sup>慢：他做事非常～。<sup>\[泰县\]</sup>  
+1. 【[𢜩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen.md#𢜩)】`haen1` ① <sup>\[如东\]\[如皋\]\[东台\]\[兴化\]\[泰县\]</sup>笨拙、慢：她做事，手脚～。<sup>\[如东\]</sup>｜年纪大啊做事～吖。<sup>\[如皋\]</sup>｜他太～。<sup>\[东台\]</sup>｜这个小伙～头～脑的。<sup>\[兴化\]</sup>｜他做事非常～。<sup>\[泰县\]</sup> ② <sup>\[如皋\]</sup>耗费（时间）：～工夫。<sup>\[如皋\]</sup>｜～啊你多少晚的时间，真不好意思！<sup>\[如皋\]</sup> ③ <sup>\[兴化\]</sup>呆滞、怕动：他一天到晚～吖家里。<sup>\[兴化\]</sup>  
 1. 【[𢜩面筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_min_jien.md#𢜩面筋)】`haen1 min6 jien1` <sup>[泰县]</sup> 说话拖泥带水的人：这个人是个～，你不要跟他说。  
 1. 【[𢜩皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_pi.md#𢜩皮)】`haen1 pi2` <sup>[泰县]</sup> 做事不利索：你这个～，快点儿起来。  
 1. 【[𢜩事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_shr.md#𢜩事)】`haen1 shr6` <sup>[泰县]</sup> 食品不脆：前几天买的脆饼儿倒～唻。  
@@ -336,7 +336,7 @@
 1. 【[㨔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen.md#㨔)】`haen3, han3` 给予；表被动  
 1. 【[㨔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen.md#㨔)】`haen3` <sup>[如皋]</sup> 给予：我～钱你用。  
 1. 【[喊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen.md#喊)】`haen3, haen5` <sup>[如皋]</sup> ① 大声呼叫：他看见有坏人，连忙～人来捉。 ② 吩咐，叫：你去把他～得来吃饭。  
-1. 【[喊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen.md#喊)】`haen3` ① <sup>\[兴化\]</sup>叫、买：上茶馆～一桌菜。<sup>\[兴化\]</sup> ② <sup>\[兴化\]</sup>雇：～船一车子。<sup>\[兴化\]</sup> ③ <sup>\[兴化\]</sup>称呼：序起来他该～我叔子。<sup>\[兴化\]</sup> ④ <sup>\[泰州\]</sup>通知（前往某处）：～几个人过来帮忙。<sup>\[泰州\]</sup> ⑤ <sup>\[泰州\]</sup>招呼别人，表示问候：望见他也不曾～他。<sup>\[泰州\]</sup> ⑥ <sup>\[泰州\]</sup>叫醒：快点儿～他起来。<sup>\[泰州\]</sup> ⑦ <sup>\[泰州\]</sup>雇：到外头～部车子过来。<sup>\[泰州\]</sup>  
+1. 【[喊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen.md#喊)】`haen3` ① <sup>\[兴化\]</sup>叫、买：上茶馆～一桌菜。<sup>\[兴化\]</sup> ② <sup>\[兴化\]\[泰州\]</sup>雇：～船一车子。<sup>\[兴化\]</sup>｜到外头～部车子过来。<sup>\[泰州\]</sup> ③ <sup>\[兴化\]</sup>称呼：序起来他该～我叔子。<sup>\[兴化\]</sup> ④ <sup>\[泰州\]</sup>通知（前往某处）：～几个人过来帮忙。<sup>\[泰州\]</sup> ⑤ <sup>\[泰州\]</sup>打招呼、问候：望见他也不曾～他。<sup>\[泰州\]</sup> ⑥ <sup>\[泰州\]</sup>叫醒：快点儿～他起来。<sup>\[泰州\]</sup>  
 1. 【[喊倒好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_do_ho.md#喊倒好)】`haen3 do5 ho3, haen5 do5 ho3` <sup>[如皋]</sup> 喝倒彩，这是对表演者的讽刺。  
 1. 【[喊号号<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_ho_ho_r.md#喊号号<sub>儿</sub>)】`haen3 ho2 ho2 r` <sup>[泰县]</sup> 光说空话，不干实事：你不要跟吖后头～。  
 1. 【[喊嚎好<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_ho_ho_r.md#喊嚎好<sub>儿</sub>)】`haen3 ho2 ho3 r` <sup>[兴化]</sup> 形容空喊口号，不干实事：你不要光在后头～，也拿点实际行动出来。  
@@ -357,7 +357,7 @@
 1. 【[苋菜果](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_cae_gu.md#苋菜果)】`haen6 cae5 gu3` <sup>[泰县]</sup> 苋菜茎部腌制成的食品。  
 1. 【[苋菜股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_cae_gv.md#苋菜股)】`haen6 cae5 gv3` ① <sup>\[东台\]</sup>将老苋菜粗壮的茎放在咸菜卤中发酵泡制的小菜。 ② <sup>\[兴化\]</sup>苋菜的茎腌制，有特殊臭味，能开胃。  
 1. 【[限定](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_tien.md#限定)】`haen6 tien6` ① 必须 ② <sup>\[如东\]</sup>规定：不～甚的时候动身。<sup>\[如东\]</sup>  
-1. 【[陷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen.md#陷)】`haen6` ① <sup>\[如东\]</sup>脚踩在烂泥上往下沉，叫陷：这许沙土软，～脚。<sup>\[如东\]</sup> ② <sup>\[泰县\]</sup>陷：落雨天，我的脚～吖泥肚里。<sup>\[泰县\]</sup>  
+1. 【[陷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen.md#陷)】`haen6` <sup>\[如东\]\[泰县\]</sup>陷：这许沙土软，～脚。<sup>\[如东\]</sup>｜落雨天，我的脚～吖泥肚里。<sup>\[泰县\]</sup>  
 1. 【[陷吖肚里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_nga_tv_lii.md#陷吖肚里)】`haen6 nga tv6 lii` <sup>[东台]</sup> 形容掉进去无法出来。  
 1. 【[陷人坑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_ren_ken.md#陷人坑)】`haen6 ren2 ken1` <sup>[兴化]</sup> （喻）害人的圈套（原文此处记音“坑”为ken3，是孤例）：传销组织是个～，千万覅上当。  
 1. 【[陷针布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_zhen_bv.md#陷针布)】`haen6 zhen1 bv5` <sup>[如皋]</sup> 布鞋底最下面的一层布，纳底时线迹可陷入。  
