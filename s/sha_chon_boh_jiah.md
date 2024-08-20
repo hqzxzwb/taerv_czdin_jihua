@@ -1,7 +1,3 @@
-
-
-
-
 # 蛇虫百脚
 sha2 chon2 boh7 jiah7
 + 泛指毒虫。

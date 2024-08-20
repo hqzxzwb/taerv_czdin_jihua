@@ -1,7 +1,3 @@
-
-
-
-
 # 𢺈吖手上
 lun2 nga sheu3 shan
 + 抓在手上。

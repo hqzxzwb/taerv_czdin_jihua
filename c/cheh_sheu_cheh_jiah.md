@@ -1,7 +1,3 @@
-
-
-
-
 # 直手直脚
 cheh8 sheu3 cheh8 jiah7
 + ［喻］彻底露出底细

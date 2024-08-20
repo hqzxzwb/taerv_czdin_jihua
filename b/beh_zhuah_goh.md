@@ -1,11 +1,7 @@
-
-
 # 不啄谷
 beh7 zhuah7 goh7
 > 如皋方言词典
 - 见“浪流浪”。
-
-
 
 # 不捉谷
 beh7 zhuah7 goh7

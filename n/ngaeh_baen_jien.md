@@ -1,7 +1,3 @@
-
-
-
-
 # 押板金
 ngaeh7 baen3 jien1
 + 押金。

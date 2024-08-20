@@ -1,7 +1,3 @@
-
-
-
-
 # 望空斫楔
 van6 kon1 zhah7 saeh7
 > 泰县方言志

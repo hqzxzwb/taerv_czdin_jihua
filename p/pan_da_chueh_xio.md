@@ -1,7 +1,3 @@
-
-
-
-
 # 棒打出孝子，惯养忤逆儿
 pan6 da3 chueh7 xio5 zz guaen5 ian3 v3 nieh8 r
 + 严加教育能出人，溺爱只能害孩子。

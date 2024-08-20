@@ -1,13 +1,7 @@
-
-
 # 卷心菜
 jiun3 xien cae5
 > 如皋方言词典
 - 甘蓝。
-
-
-
-
 
 # 卷心菜
 jiun3 xien1 cae5

@@ -1,13 +1,7 @@
-
-
 # 没（得）手抓痒
 meh8 sheu3 zhua1 ian3
 > 如皋方言词典
 - 忙乱，难以应付复杂局面。
-
-
-
-
 
 # 没手抓痒
 meh8 sheu3 zhua1 ian3

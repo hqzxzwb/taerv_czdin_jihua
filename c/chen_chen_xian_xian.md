@@ -1,7 +1,3 @@
-
-
-
-
 # 撑撑相相
 chen1 chen1 xian5 xian5
 + 悠闲地站站看看。

@@ -1,7 +1,3 @@
-
-
-
-
 # 单箍子眼
 daen1 gv1 zz ngaen3
 + 单眼皮。

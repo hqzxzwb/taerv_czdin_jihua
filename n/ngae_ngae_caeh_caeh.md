@@ -1,7 +1,3 @@
-
-
-
-
 # 挨挨擦擦
 ngae1 ngae1 caeh7 caeh7
 + 磕磕碰碰的。

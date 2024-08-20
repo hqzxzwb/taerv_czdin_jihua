@@ -1,7 +1,3 @@
-
-
-
-
 # 少年水虫儿
 sho5 nin2 shuei3 chon2 r
 + 见“奅儿”。

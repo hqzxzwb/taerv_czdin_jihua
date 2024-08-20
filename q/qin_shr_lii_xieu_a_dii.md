@@ -1,7 +1,3 @@
-
-
-
-
 # 前世里修啊的
 qin2 shr5 lii xieu1 a dii
 + ［喻］某人很有福气。

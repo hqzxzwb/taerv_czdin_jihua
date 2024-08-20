@@ -1,7 +1,3 @@
-
-
-
-
 # 照抹
 zho5 maeh
 > 东台方言词典
@@ -12,8 +8,6 @@ zho5 maeh
 zho3 maeh8
 > 兴化方言词典
 - 见“找摸”。
-
-
 
 # 找抹
 zho3 maeh

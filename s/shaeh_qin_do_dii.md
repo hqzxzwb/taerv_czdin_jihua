@@ -1,7 +1,3 @@
-
-
-
-
 # 杀千刀的
 shaeh7 qin1 do1 dii
 + 詈、昵语

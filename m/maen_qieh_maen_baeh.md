@@ -1,9 +1,3 @@
-
-
-
-
-
-
 # 蛮七蛮八
 maen2 qieh7 maen2 baeh7
 + 非常不讲道理。

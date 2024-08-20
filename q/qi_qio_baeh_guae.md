@@ -4,10 +4,6 @@ qi2 qio3 baeh7 guae5
 - 非常奇怪。
   - 今朝这件事～的，发人深省。
 
-
-
-
-
 # 攲跷八怪
 qi1 qio baeh7 guae5
 + 反常；特别；奇怪

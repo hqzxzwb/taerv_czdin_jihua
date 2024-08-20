@@ -1,7 +1,3 @@
-
-
-
-
 # 七长八短
 qieh7 chan2 baeh7 dun3
 + 参差不齐

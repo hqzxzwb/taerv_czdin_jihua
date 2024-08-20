@@ -1,7 +1,3 @@
-
-
-
-
 # 虾不动，水不响
 xia1 beh7 ton6 shuei3 beh7 xian3
 + （喻）形容毫无动静

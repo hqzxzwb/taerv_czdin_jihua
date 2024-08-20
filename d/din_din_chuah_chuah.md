@@ -1,7 +1,3 @@
-
-
-
-
 # 点点戳戳
 din3 din3 chuah7 chuah7
 + 指着背后议论是非。

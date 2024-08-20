@@ -1,7 +1,3 @@
-
-
-
-
 # 熟人熟事
 shoh8 ren2 shoh8 shr6
 + 多指熟人

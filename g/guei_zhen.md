@@ -1,5 +1,3 @@
-
-
 # 归正
 guei1 zhen5
 > 如东方言词典
@@ -18,8 +16,6 @@ guei1 zhen1
 guei1 zhen3
 > 东台方言词典
 - 整齐，规矩。
-
-
 
 # 归真
 guei1 zhen1

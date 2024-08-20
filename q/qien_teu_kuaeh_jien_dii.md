@@ -1,7 +1,3 @@
-
-
-
-
 # 轻头毌颈的
 qien1 teu2 kuaeh8 jien3 dii
 + 见“扭头□颈的”。

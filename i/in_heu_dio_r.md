@@ -1,9 +1,3 @@
-
-
-
-
-
-
 # 咽喉屌儿忑下来啊
 in1 heu2 dio3 r teh7 ha lae2 a
 > 如皋方言词典

@@ -1,7 +1,3 @@
-
-
-
-
 # 寻钱的锥子
 qien2 qin2 dii zhuei1 zz
 + 想方设法挣钱的人。

@@ -1,5 +1,3 @@
-
-
 # 熟水
 shoh8 shuei3
 > 兴化方言词典
@@ -10,8 +8,6 @@ shoh8 shuei3
 shoh7 shuei
 > 如皋方言词典
 - 织物浸水后缩小。
-
-
 
 # 缩水
 shoh7 shuei3

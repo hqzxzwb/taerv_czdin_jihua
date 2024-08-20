@@ -1,7 +1,3 @@
-
-
-
-
 # 卖瓜的不喊瓜苦
 mae6 gua1 dii beh7 haen5 gua1 kv3
 + 没有人说自己的东西不好。

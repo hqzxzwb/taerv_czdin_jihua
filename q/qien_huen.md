@@ -1,5 +1,3 @@
-
-
 # 青鲩（鯶）
 qien1 huen6
 > 如东方言词典
@@ -9,8 +7,6 @@ qien1 huen6
 qien1 huen6
 > 兴化方言词典
 - 青鱼。也称“黑鲩”。
-
-
 
 # 寻魂
 qien2 huen2

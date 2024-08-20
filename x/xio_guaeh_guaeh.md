@@ -1,7 +1,3 @@
-
-
-
-
 # 小刮刮
 xio3 guaeh7 guaeh7
 + 谋小利。

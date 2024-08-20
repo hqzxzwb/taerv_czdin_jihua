@@ -1,7 +1,3 @@
-
-
-
-
 # 拍桌子打板凳
 poh7 zhuah7 zz da3 baen3 den5
 + 情绪冲动时的情态

@@ -1,7 +1,3 @@
-
-
-
-
 # 剔骨算命
 tieh7 gueh7 sun5 mien6
 + （喻）兜底清算

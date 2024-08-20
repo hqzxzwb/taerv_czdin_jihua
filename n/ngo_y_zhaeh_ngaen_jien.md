@@ -1,7 +1,3 @@
-
-
-
-
 # 鳌鱼眨眼睛
 ngo2 y2 zhaeh7 ngaen3 jien1
 + 地震。

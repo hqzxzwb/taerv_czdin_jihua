@@ -7,10 +7,6 @@ roh8 shen beh7 un1
 > 如皋方言词典
 - 不定神、不专心的样子。
 
-
-
-
-
 # 肉神不安
 roh8 shen2 beh7 un1
 + 不安神。

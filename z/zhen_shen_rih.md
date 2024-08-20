@@ -1,13 +1,7 @@
-
-
-
-
 # 整生日
 zhen3 shen1 rih
 > 东台方言词典
 - 逢十岁的生日。
-
-
 
 # 整生日
 zhen3 shen1 rih8

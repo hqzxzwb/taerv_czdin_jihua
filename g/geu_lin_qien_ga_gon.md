@@ -1,7 +1,3 @@
-
-
-
-
 # 狗脸亲家公
 geu3 lin3 qien5 ga gon1
 > 泰县方言志

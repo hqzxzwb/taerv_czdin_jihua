@@ -1,9 +1,3 @@
-
-
-
-
-
-
 # 一眨眼的工夫
 ieh7 zhaeh7 ngaen3 dii gon1 fv1
 + 一瞬间。

@@ -1,7 +1,3 @@
-
-
-
-
 # 赤脚巴天
 cheh7 jiah7 ba1 tin1
 + 光脚。

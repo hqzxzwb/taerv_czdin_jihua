@@ -1,7 +1,3 @@
-
-
-
-
 # 伸头鹱颈的
 shen1 teu2 vah7 jien3 dii
 + 贬指伸头探脑的样子。

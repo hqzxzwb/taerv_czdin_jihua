@@ -1,7 +1,3 @@
-
-
-
-
 # 双箍子眼
 shuan1 gv1 zz ngaen3
 + 双眼皮儿。

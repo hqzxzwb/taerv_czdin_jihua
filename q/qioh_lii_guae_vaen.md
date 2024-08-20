@@ -1,7 +1,3 @@
-
-
-
-
 # 曲里拐弯
 qioh7 lii guae3 vaen1
 + 弯弯曲曲。

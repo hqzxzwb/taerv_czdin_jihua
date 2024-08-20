@@ -4,10 +4,6 @@ heh7 beh lieu qieu1
 - 灰黑色。
   - 这种布～的，不好看。
 
-
-
-
-
 # 黑不溜秋
 heh7 beh7 lieu1 qieu1
 + 形容黑得难看。

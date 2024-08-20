@@ -1,7 +1,3 @@
-
-
-
-
 # 眼睛望上插
 ngaen3 jien van6 shan6 chaeh7
 + 不愿理踩，目不正视。

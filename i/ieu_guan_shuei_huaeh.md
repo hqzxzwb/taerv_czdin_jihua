@@ -1,7 +1,3 @@
-
-
-
-
 # 油光水滑
 ieu2 guan1 shuei3 huaeh8
 + 物体表面非常光滑。

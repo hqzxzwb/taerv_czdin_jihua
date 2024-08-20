@@ -6,10 +6,6 @@ kv2 kv2 kuae6 kuae6
 - 腹中气动，似有便意
   - 肚子里～的。
 
-
-
-
-
 # 𦙶𦙶㧟㧟
 kv2 kv2 kuae3 kuae3
 + 饱满的样子。

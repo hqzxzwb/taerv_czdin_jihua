@@ -1,7 +1,3 @@
-
-
-
-
 # 一心皈命
 ieh7 xien1 guei1 mien6
 > 兴化方言词典

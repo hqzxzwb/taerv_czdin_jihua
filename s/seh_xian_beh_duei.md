@@ -1,7 +1,3 @@
-
-
-
-
 # 色相不对
 seh7 xian5 beh7 duei5
 + 脸色异常。

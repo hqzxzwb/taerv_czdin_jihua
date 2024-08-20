@@ -1,7 +1,3 @@
-
-
-
-
 # 七手八脚
 qieh7 sheu3 baeh7 jiah7
 + 状忙乱。

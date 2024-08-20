@@ -1,7 +1,3 @@
-
-
-
-
 # 寸骨寸伤
 cuen5 gueh7 cuen5 shan1
 + 伤筋断骨。
