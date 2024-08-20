@@ -65,7 +65,7 @@
 1. 【[𤹉货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_hu.md#𤹉货)】`ha3 hu5` <sup>[泰县]</sup> 傻子。  
 1. 【[𤹉糊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_hv.md#𤹉糊)】`ha3 hv` <sup>[泰兴]</sup> 稀里糊涂。也说𤹉𤹉糊：箇个事还能～呢？/这个事难道可以稀里糊涂吗？  
 1. 【[𤹉里𤹉气的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_lii_ha_qi_dii.md#𤹉里𤹉气的)】`ha3 lii ha3 qi5 dii` <sup>[如皋]</sup> 傻乎乎的。  
-1. 【[𤹉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_r.md#𤹉<sub>儿</sub>)】`ha3 r` ① <sup>\[如皋\]</sup>即“傻瓜”。 ② <sup>\[泰县\]</sup>呆。  
+1. 【[𤹉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_r.md#𤹉<sub>儿</sub>)】`ha3 r` <sup>\[如皋\]\[泰县\]</sup>即“傻瓜”。  
 1. 【[𤹉<sub>儿</sub>糊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_r_hv.md#𤹉<sub>儿</sub>糊)】`ha3 r hv2` ① <sup>\[如皋\]</sup>稀里糊涂的。 ② <sup>\[泰县\]</sup>糊涂。  
 1. 【[𤹉<sub>儿</sub>糊涂的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_r_hv_tv_dii.md#𤹉<sub>儿</sub>糊涂的)】`ha3 r hv2 tv2 dii` <sup>[如皋]</sup> 稀里糊涂的。  
 1. 【[下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha.md#下)】`ha6` ① 量词，指动作次数：一～子 ② 方面，方位：两～总同意 ③ 由高处往低处，降落：～山 ④ 猪狗等动物产子 ⑤ <sup>\[如皋\]</sup>地面上：跌咖地～。<sup>\[如皋\]</sup> ⑥ <sup>\[如皋\]</sup>地面下：埋啊地～。<sup>\[如皋\]</sup> ⑦ <sup>\[如皋\]</sup>兽产仔：～细狗儿、猫儿～啊、～细猪。<sup>\[如皋\]</sup> ⑧ <sup>\[如皋\]</sup>某种状态，同着：挂啊～、僵吖～。<sup>\[如皋\]</sup> ⑨ <sup>\[东台\]</sup>（动词）从上头～来。 ⑩ <sup>\[东台\]</sup>哺乳动物生养：母猪～啊十头小猪。<sup>\[东台\]</sup> ⑪ <sup>\[东台\]</sup>（量词）相当于“处”（地方）：今晚几～有戏看<sup>\[东台\]</sup>｜今年好几～请他，他一～都不曾去。<sup>\[东台\]</sup> ⑫ <sup>\[泰县\]</sup>生：～小猪。<sup>\[泰县\]</sup> ⑬ <sup>\[泰县\]</sup>到：～田。<sup>\[泰县\]</sup> ⑭ <sup>\[泰县\]</sup>用水煮食物：～饺儿。<sup>\[泰县\]</sup> ⑮ <sup>\[泰县\]</sup>地方：这几天，我一～都不去。<sup>\[泰县\]</sup>  

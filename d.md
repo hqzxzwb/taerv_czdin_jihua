@@ -1205,7 +1205,7 @@
 1. 【[当𦚢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_ya.md#当𦚢)】`dan5 ya1` <sup>[如皋]</sup> ① 欺负。 ② 致歉语：拿你～啦，对不起！见“捉𦚢”。  
 1. 【[当真](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_zhen.md#当真)】`dan5 zhen1` ① <sup>\[如东\]</sup>信以为真。 ② <sup>\[如皋\]</sup>把开心看作侮辱而生气：你不要同他开心，他惹～。<sup>\[如皋\]</sup>  
 1. 【[档](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan.md#档)】`dan5` <sup>[如皋]</sup> ① 量词。间距：5～椽子。 ② 梯级：一层楼梯有18～。 ③ 码序：码断～（某些码数无货）。  
-1. 【[档头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_teu.md#档头)】`dan5 teu` <sup>[如皋]</sup> 端部：床～靠墙。  
+1. 【[档头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_teu.md#档头)】`dan5 teu` <sup>\[如皋\]\[泰兴\]</sup>端部：床～靠墙。<sup>\[如皋\]</sup>｜纪念馆在米巷～<sup>\[泰兴\]</sup>  
 1. 【[档头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_teu.md#档头)】`dan5 teu2` <sup>[兴化]</sup> 木器框架两端的构件。也作“码头”。  
 1. 【[档子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_zz.md#档子)】`dan5 zz` <sup>[兴化]</sup> ① 两物之间的空隙、距离：空～｜队伍前后～拉得太大。 ② （引）等级：职员的工资分几个～。  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/ddo.md#□)】`ddo` “掉啊（tio a）”在如东口语中的音变形式，用在以元音和鼻音结尾的动词后面。在入声动词后面说“去啊”：死～=死掉啊（死掉了）；跑～=跑掉啊（走掉了）；忘～=忘掉啊（忘掉了）。  
