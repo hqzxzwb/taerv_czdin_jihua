@@ -2081,7 +2081,7 @@
 1. 【[罗心重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_xien_chon.md#罗心重)】`lu2 xien1 chon6` <sup>[泰县]</sup> 私心重：这个人的～。  
 1. 【[罗躁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_zo.md#罗躁)】`lu2 zo5` <sup>[泰县]</sup> 找麻烦：你不要～人。  
 1. 【[罗躁人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_zo_ren.md#罗躁人)】`lu2 zo5 ren2` <sup>[东台]</sup> 提出很多麻烦事，令人烦躁。  
-1. 【[脶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu.md#脶)】`lu2` ① 成环的指纹 ② <sup>\[兴化\]</sup>手指纹，特指螺旋形手指纹：儿歌：一～巧，二～拙，三～四～扒笔算……<sup>\[兴化\]</sup> ③ <sup>\[如东\]</sup>手指或脚趾、脚掌上的圆形纹路，叫做脶。脶歌：“一脶巧，二脶拙，三脶骑马看田案，四脶中，五脶空，六脶帮人做长工，七脶会烧盐，八脶会种田，九脶捏金锁，十脶十𡊄箕，到老不正气。” ④ <sup>\[泰州\]</sup>螺旋形圆指纹：两个手上八个～。<sup>\[泰州\]</sup>  
+1. 【[脶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu.md#脶)】`lu2` <sup>\[兴化\]\[如东\]\[泰州\]</sup>手指纹，特指螺旋形手指纹。\[如东：或脚趾、脚掌上的圆形纹路。脶歌：“一脶巧，二脶拙，三脶骑马看田案，四脶中，五脶空，六脶帮人做长工，七脶会烧盐，八脶会种田，九脶捏金锁，十脶十𡊄箕，到老不正气。”\]：儿歌：一～巧，二～拙，三～四～扒笔算……<sup>\[兴化\]</sup>｜两个手上八个～。<sup>\[泰州\]</sup>  
 1. 【[脶印](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_ien.md#脶印)】`lu2 ien5` ① <sup>\[如东\]</sup>手指纹留在纸面上的痕迹。也刚手印：合同上有～。<sup>\[如东\]</sup> ② <sup>\[东台\]</sup>用手指头上脶纹沾印泥盖的印，有时可代私章用。 ③ <sup>\[兴化\]</sup>手印。 ④ <sup>\[泰县\]</sup>指印。  
 1. 【[脶记](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_ji.md#脶记)】`lu2 ji5` <sup>[兴化]</sup> 即手印。  
 1. 【[萝藦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_mu.md#萝藦)】`lu2 mu2` <sup>[如东]</sup> 萝藦科植物萝藦，多年生蔓性草本。  
@@ -2114,7 +2114,8 @@
 1. 【[锣<sub>儿</sub>三钹<sub>儿</sub>四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_r_saen_buh_r_sz.md#锣<sub>儿</sub>三钹<sub>儿</sub>四)】`lu2 r saen1 buh7 r sz5` <sup>[兴化]</sup> （贬）语言重复，说起来没完没了：老太婆成天～的，烦死啊！  
 1. 【[骡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_zz.md#骡子)】`lu2 zz` <sup>[如东]</sup> 马科动物骡，是驴和马交配所生的杂种，比驴子大，毛多为黑色。寿命长，体力大。多用做力畜。一般不能生育。  
 1. 【[倮佗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_tu.md#倮佗)】`lu3 tu` <sup>[如皋]</sup> 衣饰不整状。倮，通“裸”；佗，《集韻》徒可切，音沱。被髮也。《史記·龜筴傳》醮酒佗髮。  
-1. 【[剆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu.md#剆)】`lu3` ① 划，割 ② <sup>\[如东\]</sup>用刀刃来回拉。 ③ <sup>\[如皋\]</sup>用刀锯切：钝刀切肉一一慢慢儿～。 ④ <sup>\[东台\]</sup>用刀削、割：他从挂啊下的猪肉上～啊二斤忙中饭菜。<sup>\[东台\]</sup> ⑤ <sup>\[兴化\]</sup>切割动作，用刀口来回拉：～一块肉不小心把手～开啊。《广韵·哿韵》来可切<sup>\[兴化\]</sup>｜“～，相击也，亦斫也。”<sup>\[兴化\]</sup> ⑥ <sup>\[泰县\]</sup>纠缠。 ⑦ <sup>\[泰县\]</sup>有磨工：～劲大。 ⑧ <sup>\[泰州\]</sup>用刀慢慢割断：结巴太紧解不下来，拿个刀来～啊子。<sup>\[泰州\]</sup>  
+1. 【[剆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu.md#剆)】`lu3` ① 划，割 ② <sup>\[如东\]</sup>用刀刃来回拉。 ③ <sup>\[如皋\]</sup>用刀锯切：钝刀切肉一一慢慢儿～。 ④ <sup>\[东台\]</sup>用刀削、割：他从挂啊下的猪肉上～啊二斤忙中饭菜。<sup>\[东台\]</sup> ⑤ <sup>\[兴化\]</sup>切割动作，用刀口来回拉：～一块肉不小心把手～开啊。《广韵·哿韵》来可切<sup>\[兴化\]</sup>｜“～，相击也，亦斫也。”<sup>\[兴化\]</sup> ⑥ <sup>\[泰县\]</sup>纠缠。 ⑦ <sup>\[泰州\]</sup>用刀慢慢割断：结巴太紧解不下来，拿个刀来～啊子。<sup>\[泰州\]</sup>  
+1. 【[剆劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_jien.md#剆劲)】`lu3 jien5` <sup>\[泰县\]</sup>磨工：～大<sup>\[泰县\]</sup>  
 1. 【[剆剆<sub>儿</sub>藤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_lu_r_ten.md#剆剆<sub>儿</sub>藤)】`lu3 lu3 r ten2` ① 葎草，也叫“割人藤”、“拉拉藤”。 ② <sup>\[如东\]</sup>一种长刺的藤。葎草。 ③ <sup>\[如东\]</sup>比喻喜欢纠缠的人：她像～一样。<sup>\[如东\]</sup> ④ <sup>\[如皋\]</sup>葎草、拉拉草。桑科，多年生草本植物。 ⑤ <sup>\[如皋\]</sup>喻会胡搅蛮缠的人。  
 1. 【[剆剆藤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_lu_ten.md#剆剆藤)】`lu3 lu3 ten2` ① <sup>\[东台\]</sup>本指一种缠绕攀援的藤蔓。 ② <sup>\[东台\]</sup>［喻］纠缠不休的人：那人蛮不讲理，像～一样缠吖他。<sup>\[东台\]</sup> ③ <sup>\[兴化\]</sup>一种茎上布满小刺的蔓生植物，即葎草。 ④ <sup>\[兴化\]</sup>（喻）能长时间纠缠的人：她是有名的～，捱她沾上难脱身！<sup>\[兴化\]</sup> ⑤ <sup>\[泰县\]</sup>惯于纠缠人的人。  
 1. 【[剆嗓子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_san_zz.md#剆嗓子)】`lu3 san3 zz` <sup>[如皋]</sup> 刀割喉部。  
@@ -2140,7 +2141,7 @@
 1. 【[那些](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_xia.md#那些)】`lu5 xia1` <sup>[如东]</sup> 指两个以上的人或事物。  
 1. 【[那歇个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_xih_gu.md#那歇个)】`lu5 xih7 gu` <sup>[如皋]</sup> 那时、那会儿。  
 1. 【[那早晚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_zo_vaen.md#那早晚)】`lu5 zo3 vaen3` <sup>[如皋]</sup> 那时，那会儿。  
-1. 【[摞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu.md#摞)】`lu6` ① <sup>\[如皋\]</sup>量词：一～糕（年糕，两块相迭）。<sup>\[如皋\]</sup> ② <sup>\[如皋\]</sup>叠放：把碗～起来。 ③ <sup>\[如皋\]</sup>量词：一～十个钞。 ④ <sup>\[兴化\]</sup>把物品重叠地放置：补丁～补丁<sup>\[兴化\]</sup>｜把板凳～起来。<sup>\[兴化\]</sup> ⑤ <sup>\[兴化\]</sup>量词，用于叠放的东西：一～子碗<sup>\[兴化\]</sup>｜一～子书。<sup>\[兴化\]</sup> ⑥ <sup>\[泰州\]</sup>量词，表示堆在一起或逐个叠放的东西：两～作业本子<sup>\[泰州\]</sup> ⑦ <sup>\[泰州\]</sup>将物体从下而上依次整齐叠起：把脏碗～起来<sup>\[泰州\]</sup>  
+1. 【[摞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu.md#摞)】`lu6` ① <sup>\[如皋\]\[兴化\]\[泰州\]</sup>量词，用于叠放的东西：一～糕（年糕，两块相迭）。<sup>\[如皋\]</sup>｜一～十个钞。<sup>\[如皋\]</sup>｜一～子碗<sup>\[兴化\]</sup>｜一～子书。<sup>\[兴化\]</sup>｜两～作业本子<sup>\[泰州\]</sup> ② <sup>\[如皋\]\[兴化\]\[泰州\]</sup>叠放：把碗～起来。<sup>\[如皋\]</sup>｜补丁～补丁<sup>\[兴化\]</sup>｜把板凳～起来。<sup>\[兴化\]</sup>｜把脏碗～起来<sup>\[泰州\]</sup>  
 1. 【[摞宝塔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_bo_taeh.md#摞宝塔)】`lu6 bo3 taeh` <sup>[兴化]</sup> 一种珠算的练习式，从一至一百依次相加，最后得数为5050。  
 1. 【[摞宝塔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_bo_taeh.md#摞宝塔)】`lu6 bo3 taeh7` <sup>[如皋]</sup> ① 集体体育运动之一：叠罗汉。 ② 珠算练习法，即“百子图”：1＋2＋……＋100=5050。  
 1. 【[摞橱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_chv.md#摞橱)】`lu6 chv2` ① <sup>\[如皋\]</sup>指旧式上下分节的衣橱。 ② <sup>\[兴化\]</sup>一种由二层或三层相叠的橱柜，对开橱门。门膛有雕花木板或玻璃镜面。  
@@ -2329,10 +2330,10 @@
 1. 【[露天心里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_tin_xien_lii.md#露天心里)】`lv6 tin1 xien1 lii` <sup>[如皋]</sup> 直接见天而无遮盖的地方。  
 1. 【[露相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_xian.md#露相)】`lv6 xian5` <sup>[兴化]</sup> 露出其面目：俗语｜真人不～。  
 1. 【[露星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_xien.md#露星)】`lv6 xien1` <sup>[如东]</sup> 旷野：睏吖在～里。  
-1. 【[擂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly.md#擂)】`ly2` <sup>[如皋]</sup> 拉、磨、割：井栏捱吊桶绳～起槽儿来啊；手捱玉米叶子～啊破啊；细丝线走手上一䟳手就捱～得疼。  
+1. 【[擂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly.md#擂)】`ly2` <sup>[如皋]</sup> 拉、磨、割：井栏捱吊桶绳～起槽儿来啊｜手捱玉米叶子～啊破啊｜细丝线走手上一䟳手就捱～得疼。  
 1. 【[累堆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_dy.md#累堆)】`ly2 dy` <sup>[东台]</sup> ① 多余的负担。 ② 说话啰啰唆嗦。东台词典写“累赘”。  
 1. 【[累堆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_dy.md#累堆)】`ly2 dy1` <sup>[如皋]</sup> ① 笨重：这些旧大炮是～货。 ② 牵累：呆儿子是他的～。 ③ 笨拙：这家伙是～形。  
-1. 【[鑢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly.md#鑢)】`ly2` <sup>[东台]</sup> ［同音］在通语中指牵引、提起。方言中还指锯开、划开：手捱荆棘～啊个口子。  
+1. 【[鑢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly.md#鑢)】`ly2` <sup>[东台]</sup> 锯开、划开：手捱荆棘～啊个口子。  
 1. 【[雷不打自招](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_beh_da_cz_zho.md#雷不打自招)】`ly2 beh7 da3 cz6 zho1` <sup>[东台]</sup> 无意中透露自己的过错。  
 1. 【[雷暴雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_bo_y.md#雷暴雨)】`ly2 bo5 y3` <sup>[泰县]</sup> 雷阵雨。  
 1. 【[雷阵霍闪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_chen_vah_shin.md#雷阵霍闪)】`ly2 chen6 vah7 shin3` <sup>[如皋]</sup> 打雷声，闪电光相交加。  
@@ -2364,5 +2365,5 @@
 1. 【[䓞草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_co.md#䓞草)】`ly6 co3` <sup>[如皋]</sup> 狼尾草。另见“扎草”。  
 1. 【[泪斑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_baen.md#泪斑)】`ly6 baen1` <sup>[如皋]</sup> 泪水干后的痕迹。  
 1. 【[累伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_nga_r.md#累伢<sub>儿</sub>)】`ly6 nga2 r` <sup>[如皋]</sup> 指哺育小孩的劳累过程。又叫“过伢儿关”。  
-1. 【[鑢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly.md#鑢)】`ly6` ① <sup>\[兴化\]</sup>用钝器磨、制：在墙角上把麻绳～断。（《说文·金部》）“～，错铜铁也。”良据切。<sup>\[兴化\]</sup> ② <sup>\[泰县\]</sup>划破：草把他的手～开来啊。  
+1. 【[鑢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly.md#鑢)】`ly6` ① <sup>\[兴化\]</sup>用钝器磨、制\[兴化：（ly5）\]：在墙角上把麻绳～断。（《说文·金部》）“～，错铜铁也。”良据切。<sup>\[兴化\]</sup> ② <sup>\[泰县\]</sup>划破：草把他的手～开来啊。<sup>\[泰县\]</sup>  
 **[▲](#音序检索)**  
