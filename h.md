@@ -37,7 +37,7 @@
 1. 【[𨉣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha.md#𨉣)】`ha1` ① <sup>\[东台\]</sup>弯腰：～腰。<sup>\[东台\]</sup> ② <sup>\[泰州\]</sup>身子微微前弯：人一老腰就～啊唻。<sup>\[泰州\]</sup>｜你把腰～下来，不要捱他望见吖。<sup>\[泰州\]</sup>  
 1. 【[𨉣𨉣腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ha_io.md#𨉣𨉣腰)】`ha1 ha1 io1` <sup>[泰县]</sup> 驼背。  
 1. 【[𨉣腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_io.md#𨉣腰)】`ha1 io1` <sup>[兴化]</sup> 弯腰。𨉣，《集韵·麻韵》虚加切，身伛貌。俗写成“哈腰”：点头～。｜“……你看那边岸上那一人拿着千里眼镜儿，哈着腰儿瞧的，神情儿真是活的一般……”（《三侠五义》三五）  
-1. 【[㗇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha.md#㗇)】`ha2` <sup>[如皋]</sup> 喘息：～气、热得只～。  
+1. 【[㗇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha.md#㗇)】`ha2` <sup>[如皋]</sup> 喘息（形声借字）：～气、热得只～。  
 1. 【[㗇气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_qi.md#㗇气)】`ha2 qi5` <sup>[如皋]</sup> 喘息。见“吭”。  
 1. 【[瘕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha.md#瘕)】`ha2` 傻，呆  
 1. 【[瘕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha.md#瘕)】`ha2` <sup>[兴化]</sup> ① 过迂：迂～；书～子。 ② 智力低下，反映迟钝者：二～子；胡大～子。  
@@ -629,7 +629,7 @@
 1. 【[𣣡气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_qi.md#𣣡气)】`heu2 qi5` <sup>[东台]</sup> 喘气喘出声音，也称吭气。  
 1. 【[𣣡痰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_taen.md#𣣡痰)】`heu2 taen2` <sup>[如东]</sup> ① 滞留在病人气管中的痰，随着呼吸运动而发出一种哮声。 ② 小孩痴哭。 ③ 反复地叫喊：我家来啊啦，不要～吖。  
 1. 【[𦞈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu.md#𦞈)】`heu2` ① <sup>\[泰州\]</sup>脸部严重水肿导致眼睛睁开困难：他捱人家这一撉ㄦ打得不轻，脸上都～起来啊。<sup>\[泰州\]</sup>｜他左眼害啊偷针眼，眼睛～啊望不清人。<sup>\[泰州\]</sup> ② <sup>\[泰州\]</sup>皮肤生出成片疹子：掼吖一天麦把，麦芒吃不消，身上都～起来啊，全是饼子。<sup>\[泰州\]</sup>｜他皮肤过敏，只要一吃烟囱身上就～啊不得命。<sup>\[泰州\]</sup>  
-1. 【[𨂸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu.md#𨂸)】`heu2` ① <sup>\[如东\]</sup>大声地叫喊：你～甚的？<sup>\[如东\]</sup> ② 液体、气体涌动翻腾 ③ 引申指喧闹、骚动 ④ <sup>\[如皋\]</sup>腹中蠕动、泛动的声音：肚里～动。<sup>\[如皋\]</sup> ⑤ <sup>\[兴化\]</sup>体中排出大量液体：～汗；～血（大出血）。<sup>\[兴化\]</sup> ⑥ <sup>\[东台\]</sup>液体移动：水～得快；汗只～。<sup>\[东台\]</sup> ⑦ <sup>\[东台\]</sup>动词、形容词，有喧闹、沸腾义：［形］会场～得很，不晓得为甚的事。<sup>\[东台\]</sup> ⑧ <sup>\[泰州\]</sup>喧嚣，喧哗（泰州词典作𧩨）：里头～啊没得命，我跑出来抽支香烟。<sup>\[泰州\]</sup>｜你俫大家不要～唻，先让老李把话说掉吧。<sup>\[泰州\]</sup>  
+1. 【[𨂸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu.md#𨂸)】`heu2` ① <sup>\[如东\]</sup>大声地叫喊：你～甚的？<sup>\[如东\]</sup> ② 液体、气体涌动翻腾 ③ <sup>\[如皋\]</sup>腹中蠕动、泛动的声音：肚里～动。<sup>\[如皋\]</sup> ④ <sup>\[兴化\]</sup>体中排出大量液体：～汗；～血（大出血）。<sup>\[兴化\]</sup> ⑤ <sup>\[东台\]</sup>液体移动：水～得快；汗只～。<sup>\[东台\]</sup> ⑥ <sup>\[东台\]\[泰州\]</sup>喧嚣，喧哗，骚动（动词、形容词）：［形］会场～得很，不晓得为甚的事。<sup>\[东台\]</sup>｜里头～啊没得命，我跑出来抽支香烟。<sup>\[泰州\]</sup>｜你俫大家不要～唻，先让老李把话说掉吧。<sup>\[泰州\]</sup>  
 1. 【[𨂸啊湱掉啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_a_hoh_tio_a.md#𨂸啊湱掉啊)】`heu2 a hoh7 tio a` <sup>[东台]</sup> ［形］人声鼎沸，非常嘈杂。  
 1. 【[𨂸啊没得命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_a_meh_deh_mien.md#𨂸啊没得命)】`heu2 a meh8 deh7 mien6` <sup>[东台]</sup> ［形］嘈杂得叫人受不了。  
 1. 【[𨂸暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_bo.md#𨂸暴)】`heu2 bo5` <sup>[如东]</sup> ① 天气发生变化，将要出现风暴了，叫做𨂸暴。 ② 冬季刮大风的天气。  
