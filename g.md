@@ -1743,7 +1743,7 @@
 1. 【[干丝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_sz.md#干丝)】`gun1 sz1` <sup>\[兴化\]\[泰兴\]</sup>用豆腐干或百页切成的细丝\[兴化：烫或煮熟后作佐茶的小菜。也称“小菜子”。\]\[泰兴：以水煮后加佐料，即所谓“大煮干丝”。\]  
 1. 【[干稀两便](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_xi_laen_pin.md#干稀两便)】`gun1 xi1 laen3 pin6` <sup>[兴化]</sup> 进餐时，有干饭和稀饭两种主食可供选择。  
 1. 【[干香味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_xian_vei.md#干香味)】`gun1 xian1 vei` <sup>[泰兴]</sup> 干制食品的风味  
-1. 【[干汛里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_xien_lii.md#干汛里)】`gun1 xien5 lii` <sup>[如皋]</sup> 天早无雨。  
+1. 【[干汛里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_xien_lii.md#干汛里)】`gun1 xien5 lii` <sup>[如皋]</sup> 天旱无雨。  
 1. 【[干血痨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_xiuh_lo.md#干血痨)】`gun1 xiuh7 lo2` <sup>[泰兴]</sup> 年青妇女闭经。《醒世姻缘传》第80回：“害的是干血痨，吃汪太医药只是不效，毕竟医治不好，死了。”  
 1. 【[干雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_xiuh.md#干雪)】`gun1 xiuh7` ① <sup>\[如皋\]</sup>下雪不下雨，容易堆积。 ② <sup>\[兴化\]</sup>由于气温低，落地成晶状的雪花。 ③ <sup>\[兴化\]</sup>未融化的积雪。  
 1. 【[棺材本](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_cae_ben.md#棺材本)】`gun1 cae ben3` <sup>[兴化]</sup> 老年人为自己预留的丧葬费用：人们私下议论：侉奶奶不卖榆树，她是指着它当～哪。（汪曾祺：《故里杂记》）  
