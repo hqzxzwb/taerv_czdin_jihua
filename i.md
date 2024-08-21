@@ -1642,7 +1642,7 @@
 1. 【[烟台<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_tae_r.md#烟台<sub>儿</sub>)】`in1 tae2 r` <sup>[如皋]</sup> 吸水烟的烟具，用铜制，有盅儿、哨子、胆、管儿、脚子等部件。  
 1. 【[烟台<sub>儿</sub>胆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_tae_r_daen.md#烟台<sub>儿</sub>胆)】`in1 tae2 r daen3` <sup>[如皋]</sup> 水烟台儿的主体，下部贮水，上部前端有“哨子”装烟，后端有“嘴子”供口吸。  
 1. 【[烟台<sub>儿</sub>管<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_tae_r_gun_r.md#烟台<sub>儿</sub>管<sub>儿</sub>)】`in1 tae2 r gun3 r` <sup>[如皋]</sup> “烟台儿胆”的前部短管，供插“烟台儿哨子”用。  
-1. 【[烟台<sub>儿</sub>油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_tae_r_ieu.md#烟台<sub>儿</sub>油)】`in1 tae2 r ieu2` <sup>[如皋]</sup> 早烟台、水烟台内的黏垢。若被毒虫叮咬，用以抹患处，止疼消肿。  
+1. 【[烟台<sub>儿</sub>油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_tae_r_ieu.md#烟台<sub>儿</sub>油)】`in1 tae2 r ieu2` <sup>[如皋]</sup> 旱烟台、水烟台内的黏垢。若被毒虫叮咬，用以抹患处，止疼消肿。  
 1. 【[烟台<sub>儿</sub>脚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_tae_r_jiah_zz.md#烟台<sub>儿</sub>脚子)】`in1 tae2 r jiah7 zz` <sup>[如皋]</sup> 水烟台儿的下部，前孔插“烟台儿胆”，后孔播“烟台筒儿”，两侧小孔插硭子、钎子、镊子等。  
 1. 【[烟台<sub>儿</sub>哨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_tae_r_sho_zz.md#烟台<sub>儿</sub>哨子)】`in1 tae2 r sho5 zz` <sup>[如皋]</sup> “烟台儿盅儿”下部的长管子，伸入“胆”的水中。  
 1. 【[烟台<sub>儿</sub>盅<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_tae_r_zhon_r.md#烟台<sub>儿</sub>盅<sub>儿</sub>)】`in1 tae2 r zhon1 r` <sup>[如皋]</sup> 烟台上装烟丝的部分，宛似盅儿。  
