@@ -975,6 +975,7 @@
 1. 【[横事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_shr.md#横事)】`hon6 shr6` ① <sup>\[如皋\]</sup>凶事、横祸。谚：家有贤妻夫不遭～。 ② <sup>\[兴化\]</sup>意外的祸患：毛二胡子酒醉打杀人，家里避啊～。也作“横祸”。<sup>\[兴化\]</sup>  
 1. 【[横死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_sz.md#横死)】`hon6 sz3` <sup>[兴化]</sup> 指各种非正常死亡：“……小二、小五俱遭～，剩得你一个……又闯出这场奇祸来……”（《水浒后传》一）  
 1. 【[吙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu.md#吙)】`hu1` ① 一种烹饪方法，放在水上蒸。吙，同音借字。 ② <sup>\[如东\]</sup>一种烹调方法。把食物放在锅里或吙络儿上，用文火焖熟。 ③ <sup>\[如皋\]</sup>蒸：～馒头、汽～水。 ④ <sup>\[如皋\]</sup>薰：热汽～手、～。澡 ⑤ <sup>\[如皋\]</sup>灼痛：手洗啊大椒的，～人子。 ⑥ <sup>\[东台\]</sup>用少量水，盖紧锅盖，将食物半蒸半煮。来客蒸糕点，馒头叫“～茶”。 ⑦ <sup>\[兴化\]</sup>热气冒出：热气把手～疼吖。兴化词典作“煆”，《集韵·麻韵》虚加切“～，火气。”<sup>\[兴化\]</sup> ⑧ <sup>\[泰县\]</sup>用锅把冷的东西蒸热：把馒头～啊子。 ⑨ <sup>\[泰州\]</sup>用蒸气加热蒸熟食物：～馒头<sup>\[泰州\]</sup>｜～螃蟹<sup>\[泰州\]</sup> ⑩ <sup>\[泰州\]</sup>毛巾在热水中浸泡后，拧至半干，用于热敷：他要闪吖唻，弄个手巾把子同他～啊子。<sup>\[泰州\]</sup>  
+1. 【[吙馒头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_mun_teu.md#吙馒头)】`hu1 mun2 teu` ① <sup>\[如东\]</sup>把冷馒头放在锅里的炣络儿上加温，使之变热变软。 ② <sup>\[如皋\]</sup>将冷馒头置锅内蒸透食用。  
 1. 【[呵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu.md#呵)】`hu1` <sup>[东台]</sup> 麻人的感觉：麻～～。  
 1. 【[呵斑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_baen.md#呵斑)】`hu1 baen1` <sup>[如皋]</sup> 见“呵标”。“呵”表音。  
 1. 【[呵标](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_bio.md#呵标)】`hu1 bio1` <sup>[如皋]</sup> 器物的弯曲、缺陷、伤痕：床脚上有块～；他买杲子带不住一点儿～。“呵”表音。  
@@ -995,7 +996,6 @@
 1. 【[炣络<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_lah_r.md#炣络<sub>儿</sub>)】`hu1 lah8 r` <sup>[如东]</sup> 厨具。圆形或十字形，竹制或金属制，搁在锅中，上面放置食物，加温，使食物变热或蒸熟。也叫架子。  
 1. 【[炣篓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_leu_r.md#炣篓<sub>儿</sub>)】`hu1 leu3 r, hu1 leu r` <sup>[如皋]</sup> 锅内蒸屜。旧以竹篾编成，圆形。  
 1. 【[炣篓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_leu_r.md#炣篓<sub>儿</sub>)】`hu1 leu3 r` <sup>[东台]</sup> 蒸糕点、馒头的圆形片状用具。使用时垫上一层白纱布，上面放食物，放在锅里蒸。又叫“炣领儿”。  
-1. 【[炣馒头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_mun_teu.md#炣馒头)】`hu1 mun2 teu` ① <sup>\[如东\]</sup>把冷馒头放在锅里的炣络儿上加温，使之变热变软。 ② <sup>\[如皋\]</sup>将冷馒头置锅内蒸透食用。  
 1. 【[胢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu.md#胢)】`hu1` <sup>[东台]</sup> 肿起：捱百脚咬啊下子，这刻儿脚上～起来啊。东台词典写“䏨”。  
 1. 【[䗙䘆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xin.md#䗙䘆)】`hu2 xin1` ① <sup>\[东台\]</sup>蚯蚓，又名曲蟮。 ② 蚯蚓，口语讹音为河香。 ③ <sup>\[如皋\]</sup>蚯蚓。学名直隶环毛蚓。毛足纲，寡毛目。  
 1. 【[䗙䘆翻跟头——腰里悬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xin_faen_gen_teu_io_lii_xiun.md#䗙䘆翻跟头——腰里悬)】`hu2 xin1 faen1 gen1 teu2 io1 lii xiun2` <sup>[东台]</sup>   
