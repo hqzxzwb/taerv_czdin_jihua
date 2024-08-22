@@ -2175,7 +2175,7 @@
 1. 【[𤽂吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_nga.md#𤽂吖)】`hun6 nga` <sup>[如皋]</sup> 酱、腌、卤制的蔬菜表面轻度变质，但未上毛霉烂。  
 1. 【[𤽂头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_teu.md#𤽂头)】`hun6 teu2` <sup>[泰县]</sup> 酱油发了霉。  
 1. 【[呼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv.md#呼)】`hv1` <sup>[如东]</sup> 小睡：我在椅子上～刻儿。  
-1. 【[呼啊命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_a_mien.md#呼啊命)】`hv1 a mien6` <sup>[如皋]</sup> 拼命地：他挨松吖绑就～的遛。  
+1. 【[呼啊命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_a_mien.md#呼啊命)】`hv1 a mien6` <sup>[如皋]</sup> 拼命地：他捱松吖绑就～的遛。  
 1. 【[呼剥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_bah.md#呼剥)】`hv1 bah7` <sup>[泰县]</sup> 急忽忽：你倒～。  
 1. 【[呼嗤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_chi.md#呼嗤)】`hv1 chi1` <sup>[兴化]</sup> 象声词，喘气的声音：新女婿上门，把老两口忙得～的。  
 1. 【[呼打流星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_da_lieu_xien.md#呼打流星)】`hv1 da3 lieu2 xien1` <sup>[如皋]</sup> 形容熟睡打呼噜。常作补语：他睡得～的。  
