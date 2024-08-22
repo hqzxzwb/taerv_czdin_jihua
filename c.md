@@ -646,9 +646,7 @@
 1. 【[丈母见女婿，拿刀杀母鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_mu_jin_ny.md#丈母见女婿，拿刀杀母鸡)】`chan6 mu jin5 ny3 xy na2 do1 shaeh7 mu3 ji` <sup>[泰兴]</sup> 乡谚。谓岳母对女婿非常喜欢，连自己最心爱的东西都舍得（给他）。  
 1. 【[丈母娘看女婿——越看越欢喜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_mu_nian_kun_ny_xy_iuh_kun_iuh_hun_xi.md#丈母娘看女婿——越看越欢喜)】`chan6 mu3 nian2 kun5 ny3 xy5 iuh8 kun5 iuh8 hun1 xi3` <sup>[东台]</sup>   
 1. 【[丈人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_ren.md#丈人)】`chan6 ren` <sup>\[如东\]\[东台\]\[泰兴\]</sup>妻子的父亲；岳父。\[东台：也称丈人佬儿\]  
-1. 【[仗义](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_i.md#仗义)】`chan6 i6` <sup>[如东]</sup> 依靠或讲究义气。  
-1. 【[仗义](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_i.md#仗义)】`chan6 i6` <sup>[东台]</sup> 讲义气：你这个人～，朋友有难都肯帮一把。  
-1. 【[仗义](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_i.md#仗义)】`chan6 i6` ① <sup>\[如东\]</sup>依靠或讲究义气。 ② <sup>\[东台\]</sup>讲义气：你这个人～，朋友有难都肯帮一把。<sup>\[东台\]</sup>  
+1. 【[仗义](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_i.md#仗义)】`chan6 i6` ① <sup>\[如东\]</sup>依靠或讲究义气。 ② <sup>\[东台\]</sup>讲义气\[东台：(zhan5 i5)\]：你这个人～，朋友有难都肯帮一把。<sup>\[东台\]</sup>  
 1. 【[仗势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_shr.md#仗势)】`chan6 shr5` <sup>[如东]</sup> 依靠别人的势力：～欺人。  
 1. 【[㿭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh.md#㿭)】`cheh7` <sup>[兴化]</sup> 皮肤干裂：脚上裂～子  
 1. 【[㿭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_zz.md#㿭子)】`cheh7 zz` ① <sup>\[如皋\]</sup>皮肤皴裂开口：一到寒天，脚后跟上就裂，疼得不能跑。<sup>\[如皋\]</sup> ② <sup>\[东台\]</sup>皮肤上裂缝：冬天在建筑工地上打工，手上裂咖多少～。<sup>\[东台\]</sup>  
@@ -870,9 +868,6 @@
 1. 【[趁风涨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_fon_zhan.md#趁风涨)】`chen5 fon1 zhan3` <sup>[如皋]</sup> 价格飞涨。  
 1. 【[趁风长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_fon_zhan.md#趁风长)】`chen5 fon1 zhan3` <sup>[如皋]</sup> 状人、畜、禽初生，生长迅速。  
 1. 【[趁觉<sub>儿</sub>的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_go_r_dii.md#趁觉<sub>儿</sub>的)】`chen5 go5 r dii` <sup>[如皋]</sup> 睡梦中说话、脱袜子等行为。  
-1. 【[趁脚跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_jiah_qio.md#趁脚跷)】`chen5 jiah7 qio1` <sup>[如皋]</sup> 贬指跟着哄抬：他就会～。  
-1. 【[趁脚跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_jiah_qio.md#趁脚跷)】`chen5 jiah7 qio1` <sup>[东台]</sup> 附和别人意见，推波助澜：要公正、务实，不能简单的～。  
-1. 【[趁脚跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_jiah_qio.md#趁脚跷)】`chen5 jiah7 qio1` <sup>[兴化]</sup> 随声附和他人言语：他自己没主见，就喜欢～。｜那八戒就趁脚儿跷道：“……不当人子！”（《西游记》二五）  
 1. 【[趁脚跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_jiah_qio.md#趁脚跷)】`chen5 jiah7 qio1` ① <sup>\[如皋\]</sup>贬指跟着哄抬：他就会～。<sup>\[如皋\]</sup> ② <sup>\[东台\]</sup>附和别人意见，推波助澜：要公正、务实，不能简单的～。<sup>\[东台\]</sup> ③ <sup>\[兴化\]</sup>随声附和他人言语：他自己没主见，就喜欢～。<sup>\[兴化\]</sup>｜那八戒就趁脚儿跷道：“……不当人子！”（《西游记》二五）<sup>\[兴化\]</sup>  
 1. 【[趁手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_sheu.md#趁手)】`chen5 sheu3` ① <sup>\[如东\]</sup>紧接着；随手：～把门关起来。<sup>\[如东\]</sup> ② <sup>\[如皋\]</sup>顺便、顺手：我洗衣裳，～同他洗掉。<sup>\[如皋\]</sup> ③ <sup>\[东台\]</sup>随手：～把桌子抹下子。<sup>\[东台\]</sup> ④ <sup>\[东台\]</sup>趁机会，顺便：你有车子，～帮我把这点儿东西带啊走。<sup>\[东台\]</sup> ⑤ <sup>\[兴化\]</sup>随手，趁便：你进屋～把门关起来。<sup>\[兴化\]</sup>｜这次修房子～把门楼子起起来。<sup>\[兴化\]</sup>  
 1. 【[趁熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_shoh.md#趁熟)】`chen5 shoh8` <sup>[兴化]</sup> 逃荒，到丰收之地谋生：几年前外省闹水灾，好多灾民到这块～。  

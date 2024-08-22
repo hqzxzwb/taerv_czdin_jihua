@@ -1447,8 +1447,6 @@
 1. 【[嬲刁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio_dio.md#嬲刁)】`nio3 dio1` <sup>[如东]</sup> 挑剔，纠缠：这个伢儿～。  
 1. 【[袅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio.md#袅)】`nio3` <sup>[如东]</sup> 摇摆着向前推进：脚指向前～。  
 1. 【[袅动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio_ton.md#袅动)】`nio3 ton` <sup>[如东]</sup> 形容走路摇摇摆摆的样子：她走起路来～。  
-1. 【[鸟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio.md#鸟)】`nio3` <sup>[如皋]</sup> 爱挑剔、精明过分。  
-1. 【[鸟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio.md#鸟)】`nio3` <sup>[如东]</sup> 脊椎动物的一纲，体温恒定，卵生，嘴内无齿，全身有羽毛，胸部有龙骨突起，前肢变成翼，后肢能行走。一般的鸟都会飞翔，也有的两翼退化，不能飞行。麻雀、鹰、鸭、驼鸟等都属于鸟类。  
 1. 【[鸟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio.md#鸟)】`nio3` ① <sup>\[如皋\]</sup>爱挑剔、精明过分。 ② <sup>\[如东\]</sup>脊椎动物的一纲，体温恒定，卵生，嘴内无齿，全身有羽毛，胸部有龙骨突起，前肢变成翼，后肢能行走。一般的鸟都会飞翔，也有的两翼退化，不能飞行。麻雀、鹰、鸭、驼鸟等都属于鸟类。  
 1. 【[鸟船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio_chun.md#鸟船)】`nio3 chun2` <sup>[如东]</sup> 帆船的一种。船底尖，船头狭，两侧有突出的眼睛，似鸟眼。适宜于在浙江沿海等深水海区航行与停泊。  
 1. 【[鸟话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio_hua.md#鸟话)】`nio3 hua6` <sup>[如皋]</sup> 挑剔性、抱怨性的话。  
@@ -1461,11 +1459,7 @@
 1. 【[鸟<sub>儿</sub>开声](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio_r_kae_shen.md#鸟<sub>儿</sub>开声)】`nio3 r kae1 shen1` <sup>[如皋]</sup> 黎明时分。  
 1. 【[鸟<sub>儿</sub>窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio_r_ku.md#鸟<sub>儿</sub>窠)】`nio3 r ku1` <sup>[如皋]</sup> ① 鸟窝。 ② 锁骨上方皮肤的凹处。  
 1. 【[鸟<sub>儿</sub>上窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio_r_shan_ku.md#鸟<sub>儿</sub>上窠)】`nio3 r shan6 ku1` <sup>[如皋]</sup> 黄昏时分。  
-1. 【[嬲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio.md#嬲)】`nio5` <sup>[如皋]</sup> ① 蠕动、扭动、翘起：蛆子～动。 ② 引逗、撩拨：他会～人家说话。  
-1. 【[嬲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio.md#嬲)】`nio5` <sup>[兴化]</sup> ① 扭动、向上翘：大火直往上～。｜蛇㐁子～啊～的。 ② 微风习习：夏天的野外东南风～～的。  
-1. 【[嬲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio.md#嬲)】`nio5` <sup>[东台]</sup> ① 昆虫蠕动状：菜虫一～一～的。 ② ［引］后来翘：房价往上～｜文章结尾～上去啊。  
-1. 【[嬲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio.md#嬲)】`nio5` <sup>[泰州]</sup> ① 火头上窜（舔着锅底）的样子：炭炉子搧吖旺吖唻，火直～唻。｜火头～多高唻。 ② 蛆虫头部伸在空中使劲摇动，身体蠕动挣扎的样子：坑缸里的蛆子头～～的。  
-1. 【[嬲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio.md#嬲)】`nio5` ① <sup>\[如皋\]</sup>蠕动、扭动、翘起：蛆子～动。<sup>\[如皋\]</sup> ② <sup>\[如皋\]</sup>引逗、撩拨：他会～人家说话。<sup>\[如皋\]</sup> ③ <sup>\[兴化\]</sup>扭动、向上翘：大火直往上～。<sup>\[兴化\]</sup>｜蛇㐁子～啊～的。<sup>\[兴化\]</sup> ④ <sup>\[兴化\]</sup>微风习习：夏天的野外东南风～～的。<sup>\[兴化\]</sup> ⑤ <sup>\[东台\]</sup>昆虫蠕动状：菜虫一～一～的。<sup>\[东台\]</sup> ⑥ <sup>\[东台\]</sup>［引］后来翘：房价往上～<sup>\[东台\]</sup>｜文章结尾～上去啊。<sup>\[东台\]</sup> ⑦ <sup>\[泰州\]</sup>火头上窜（舔着锅底）的样子：炭炉子搧吖旺吖唻，火直～唻。<sup>\[泰州\]</sup>｜火头～多高唻。<sup>\[泰州\]</sup> ⑧ <sup>\[泰州\]</sup>蛆虫头部伸在空中使劲摇动，身体蠕动挣扎的样子：坑缸里的蛆子头～～的。<sup>\[泰州\]</sup>  
+1. 【[嬲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio.md#嬲)】`nio5` ① <sup>\[如皋\]\[兴化\]\[东台\]\[泰州\]</sup>蠕动、扭动、翘起：蛆子～动。<sup>\[如皋\]</sup>｜大火直往上～。<sup>\[兴化\]</sup>｜蛇㐁子～啊～的。<sup>\[兴化\]</sup>｜菜虫一～一～的。<sup>\[东台\]</sup>｜坑缸里的蛆子头～～的。<sup>\[泰州\]</sup>｜炭炉子搧吖旺吖唻，火直～唻。<sup>\[泰州\]</sup>｜火头～多高唻。<sup>\[泰州\]</sup> ② <sup>\[如皋\]</sup>引逗、撩拨：他会～人家说话。<sup>\[如皋\]</sup> ③ <sup>\[兴化\]</sup>微风习习：夏天的野外东南风～～的。<sup>\[兴化\]</sup> ④ <sup>\[东台\]</sup>［引］后来翘：房价往上～<sup>\[东台\]</sup>｜文章结尾～上去啊。<sup>\[东台\]</sup>  
 1. 【[嬲魆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio_xyeh.md#嬲魆)】`nio5 xyeh7` <sup>[如东]</sup> ① 耍计谋：这个人非常～。 ② 调皮：这个伢儿非常～。  
 1. 【[尿床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio_chuan.md#尿床)】`nio6 chuan2` <sup>[如东]</sup> 将尿尿在床铺上，多指小儿  
 1. 【[尿桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio_ton.md#尿桶)】`nio6 ton3` <sup>[如东]</sup> 农具。木制，圆桶形，有环。底部装有一根圆管，叫嘴子。通常桶高26厘米，耳高17厘米，把手23厘米，口径30厘米，底径26厘米，嘴子长28厘米。农民用它把粪或水浇在植物的根部。  
