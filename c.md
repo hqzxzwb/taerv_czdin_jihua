@@ -888,9 +888,7 @@
 1. 【[阵头雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_teu_y.md#阵头雨)】`chen6 teu y3` ① <sup>\[如东\]</sup>雷暴雨。 ② <sup>\[如皋\]</sup>夏季的阵雨，雨点大，雨势猛，不久即止。  
 1. 【[阵头子风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_teu_zz_fon.md#阵头子风)】`chen6 teu zz fon1` <sup>[如皋]</sup> 风力大的阵风。  
 1. 【[阵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_zz.md#阵子)】`chen6 zz` ① <sup>\[如皋\]</sup>分娩的阵痛。 ② <sup>\[东台\]</sup>孕妇临产时阵痛。 ③ <sup>\[东台\]</sup>一段时间：这一～她在家里忙甚的？<sup>\[东台\]</sup>  
-1. 【[阵<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_r.md#阵<sub>儿</sub>)】`chen9 r` <sup>[如东]</sup> 一会儿：～工夫。  
-1. 【[阵<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_r.md#阵<sub>儿</sub>)】`chen9 r` <sup>[如皋]</sup> 一会儿。  
-1. 【[阵<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_r.md#阵<sub>儿</sub>)】`chen9 r` ① <sup>\[如东\]</sup>一会儿：～工夫。<sup>\[如东\]</sup> ② <sup>\[如皋\]</sup>一会儿。  
+1. 【[阵<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_r.md#阵<sub>儿</sub>)】`chen9 r` <sup>\[如东\]\[如皋\]</sup>一会儿：～工夫。<sup>\[如东\]</sup>  
 1. 【[阵<sub>儿</sub>风阵<sub>儿</sub>雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_r_fon_chen_r_y.md#阵<sub>儿</sub>风阵<sub>儿</sub>雨)】`chen9 r fon1 chen9 r y3` ① <sup>\[如东\]</sup>一会儿这样，一会儿那样，变化无常：不要～的。<sup>\[如东\]</sup> ② <sup>\[如皋\]</sup>指天气多变。 ③ <sup>\[如皋\]</sup>喻人的脾气坏，变化无常。 ④ <sup>\[如皋\]</sup>喻事态多变。  
 1. 【[阵<sub>儿</sub>工夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_r_gon_fv.md#阵<sub>儿</sub>工夫)】`chen9 r gon1 fv1` <sup>[如东]</sup> 形容时间很短：只要～就能办好。  
 1. 【[㿒心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_xien.md#㿒心)】`cheu1 xien1` <sup>[如皋]</sup> 生活艰难，意不畅。  
@@ -1010,9 +1008,7 @@
 1. 【[𢷹面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin_min.md#𢷹面)】`chin5 min6` <sup>[东台]</sup> 和面。“𢷹”读阴去声。  
 1. 【[𢷹神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin_shen.md#𢷹神)】`chin5 shen2` <sup>[东台]</sup> 因为烦琐的事务缠手，很费精气神。  
 1. 【[𢷹酥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin_sv.md#𢷹酥)】`chin5 sv1` <sup>[如皋]</sup> 面粉调油盘缠成团，称为酥，做烧饼“插酥”用到。  
-1. 【[缠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin.md#缠)】`chin6` <sup>[如皋]</sup> ① 暗中有不正当关系：他家翁媳底下是～的。 ② 艰难困苦：他家过日子是～的；这个人的将来是～的。 ③ 糟：这件事发咖～，捱他搞啊～吖。  
-1. 【[缠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin.md#缠)】`chin6` <sup>[如东]</sup> 把绳索裹绕在物体上：用绳子把竹竿～紧。  
-1. 【[缠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin.md#缠)】`chin6` ① <sup>\[如皋\]</sup>暗中有不正当关系：他家翁媳底下是～的。 ② <sup>\[如皋\]</sup>艰难困苦：他家过日子是～的；这个人的将来是～的。 ③ <sup>\[如皋\]</sup>糟：这件事发咖～，捱他搞啊～吖。<sup>\[如皋\]</sup> ④ <sup>\[如东\]</sup>把绳索裹绕在物体上：用绳子把竹竿～紧。<sup>\[如东\]</sup>  
+1. 【[缠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin.md#缠)】`chin6` ① <sup>\[如皋\]</sup>暗中有不正当关系：他家翁媳底下是～的。<sup>\[如皋\]</sup> ② <sup>\[如皋\]</sup>艰难困苦：他家过日子是～的<sup>\[如皋\]</sup>｜这个人的将来是～的。<sup>\[如皋\]</sup> ③ <sup>\[如皋\]</sup>糟：这件事发咖～，捱他搞啊～吖。<sup>\[如皋\]</sup> ④ <sup>\[如东\]</sup>把绳索裹绕在物体上：用绳子把竹竿～紧。<sup>\[如东\]</sup>  
 1. 【[缠扯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin_cha.md#缠扯)】`chin6 cha3` <sup>[如皋]</sup> ① 互相牵连交叉：夫妻底下用钱是～的。 ② 汇总后平均算：做生意总有寻有折，～下来不折就算了。  
 1. 【[缠缠拉拉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin_chin_la_la.md#缠缠拉拉)】`chin6 chin6 la1 la1` <sup>[东台]</sup> 磨磨蹭蹭，耽误时间。  
 1. 【[缠的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin_dii.md#缠的)】`chin6 dii` <sup>[如东]</sup> ① 乱：这堆绳索～ ② 糊涂：这个人脑子～。  
