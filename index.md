@@ -179,7 +179,6 @@
 [更多...](./g.md)
 ## H
 1. 【[……呼啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_a.md#……呼啊)】`hv1 a` <sup>[东台]</sup> （作补语）指到了极点：这莱难吃咖～｜这段路难跑啊～｜他的歌儿好听吖～  
-1. 【[负啊命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/fv_a_mien.md#负啊命)】`fv6 a mien6` <sup>[如皋]</sup> 拼命地：他捱松吖绑就～的遛。  
 1. 【[哈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha.md#哈)】`ha1` <sup>[兴化]</sup> 油脂或含油过多的食品如猪油、咸肉等因日久变质，产生臭、辣味。  
 1. 【[哈巴郎当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ba_lan_dan.md#哈巴郎当)】`ha1 ba lan2 dan1` <sup>[兴化]</sup> 通通、全部：到超市一转，买啊几样东西，身上的钱～全用光吖。  
 1. 【[哈巴狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ba_geu.md#哈巴狗)】`ha1 ba1 geu3` <sup>[如东]</sup> ① 一种体型较小的家犬，经常跟随主人一起活动。 ② 比喻善于吹捧主人的人。  
@@ -199,6 +198,7 @@
 1. 【[虾<sub>儿</sub>𨁝跳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_r_peh_tio.md#虾<sub>儿</sub>𨁝跳)】`ha1 r peh8 tio5` <sup>\[东台\]\[兴化\]\[泰县\]</sup>犹“雀跃”。形容高兴、热情或活泼的样子：新姑爷上门，老两口忙得～的。<sup>\[兴化\]</sup>｜他见到他爸爸就～的。<sup>\[泰县\]</sup>  
 1. 【[虾<sub>儿</sub>埲灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_r_pon_zo.md#虾<sub>儿</sub>埲灶)】`ha1 r pon6 zo5` <sup>[兴化]</sup> 虾在热锅中活蹦乱跳。（喻）形容张惶无措的样子：他一遇事就像～，全乱吖套。  
 1. 【[虾<sub>儿</sub>钳䶠的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_r_qin_ngaen_dii.md#虾<sub>儿</sub>钳䶠的)】`ha1 r qin2 ngaen2 dii` <sup>[如皋]</sup> 轻度骚扰、取闹：他欢喜～，一刻儿就碰你下子。  
+1. 【[虾<sub>儿</sub>罾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_r_zen_zz.md#虾<sub>儿</sub>罾子)】`ha1 r zen1 zz` <sup>[如皋]</sup> 捕虾的小扳罾。方网边长约1米。  
 [更多...](./h.md)
 ## I
 1. 【[依](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#依)】`i1` <sup>[如东]</sup> 靠：她～啊门框上。  
@@ -591,19 +591,20 @@
 1. 【[嘻嘻哈哈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xi_ha_ha.md#嘻嘻哈哈)】`xi1 xi1 ha1 ha1` <sup>[东台]</sup> 说话做事不认真、不严肃。  
 1. 【[嬉大六缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_da_loh_gan.md#嬉大六缸)】`xi1 da6 loh8 gan1` <sup>[泰县]</sup> 轻浮，办事不专心：你不要～的，到底哿去？  
 1. 【[曦光曦亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_guan_xi_lian.md#曦光曦亮)】`xi1 guan1 xi1 lian6` <sup>[如东]</sup> 非常明亮：这把刀磨啊～。  
-1. 【[稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#稀)】`xi1` <sup>[如皋]</sup> 糖～，麦芽糖：做炒米糖要用～。  
-1. 【[稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#稀)】`xi1` <sup>[如皋]</sup> 形容用钱多；钱不够～、钱～得快。  
-1. 【[稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#稀)】`xi1` <sup>[如皋]</sup> 露出缝隙：门～下来啊朆关紧。桌面子因木料收缩～啊缝。  
-1. 【[稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#稀)】`xi1` <sup>[东台]</sup> ① 各个物体之间空隙大。 ② 轻微裂开或开启（古籍用字：𠩺，《说文·文部》，许其切）：门～啊一条缝。  
-1. 【[稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#稀)】`xi1` <sup>[兴化]</sup> 程度副词，相当于“很”，往往含贬义，表说话人的不满情绪：～脏的；～冷的；……执刑的把个板子摆在腿上，来回光啊光的，光的～痒的……（《武松》五）  
-1. 【[稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#稀)】`xi1` <sup>[泰县]</sup> 裂开：～啊一条缝。  
-1. 【[稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#稀)】`xi1` <sup>[泰州]</sup> 程度副词，很，极其：这个咸菜～咸的，你要多泡个盹ㄦ。｜～醉｜～苦｜～软｜～嫩  
-1. 【[稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#稀)】`xi1` ① <sup>\[如皋\]</sup>糖～，麦芽糖：做炒米糖要用～。<sup>\[如皋\]</sup> ② <sup>\[如皋\]</sup>形容用钱多；钱不够～、钱～得快。 ③ <sup>\[如皋\]</sup>露出缝隙：门～下来啊朆关紧。桌面子因木料收缩～啊缝。<sup>\[如皋\]</sup> ④ <sup>\[东台\]</sup>各个物体之间空隙大。 ⑤ <sup>\[东台\]</sup>轻微裂开或开启（古籍用字：𠩺，《说文·文部》，许其切）：门～啊一条缝。<sup>\[东台\]</sup> ⑥ <sup>\[兴化\]</sup>程度副词，相当于“很”，往往含贬义，表说话人的不满情绪：～脏的；～冷的；……执刑的把个板子摆在腿上，来回光啊光的，光的～痒的……（《武松》五）<sup>\[兴化\]</sup> ⑦ <sup>\[泰县\]</sup>裂开：～啊一条缝。<sup>\[泰县\]</sup> ⑧ <sup>\[泰州\]</sup>程度副词，很，极其：这个咸菜～咸的，你要多泡个盹ㄦ。<sup>\[泰州\]</sup>｜～醉<sup>\[泰州\]</sup>｜～苦<sup>\[泰州\]</sup>｜～软<sup>\[泰州\]</sup>｜～嫩<sup>\[泰州\]</sup>  
+1. 【[稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#稀)】`xi1` ① <sup>\[如皋\]</sup>糖～，麦芽糖：做炒米糖要用～。<sup>\[如皋\]</sup> ② <sup>\[如皋\]</sup>形容用钱多：钱不够～、钱～得快。<sup>\[如皋\]</sup> ③ <sup>\[如皋\]</sup>露出缝隙：门～下来啊朆关紧。桌面子因木料收缩～啊缝。<sup>\[如皋\]</sup> ④ <sup>\[东台\]</sup>各个物体之间空隙大。 ⑤ <sup>\[东台\]</sup>轻微裂开或开启（古籍用字：𠩺，《说文·文部》，许其切）：门～啊一条缝。<sup>\[东台\]</sup> ⑥ <sup>\[兴化\]</sup>程度副词，相当于“很”，往往含贬义，表说话人的不满情绪：～脏的；～冷的；……执刑的把个板子摆在腿上，来回光啊光的，光的～痒的……（《武松》五）<sup>\[兴化\]</sup> ⑦ <sup>\[泰县\]</sup>裂开：～啊一条缝。<sup>\[泰县\]</sup> ⑧ <sup>\[泰州\]</sup>程度副词，很，极其：这个咸菜～咸的，你要多泡个盹ㄦ。<sup>\[泰州\]</sup>｜～醉<sup>\[泰州\]</sup>｜～苦<sup>\[泰州\]</sup>｜～软<sup>\[泰州\]</sup>｜～嫩<sup>\[泰州\]</sup>  
 1. 【[稀啊稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_a_xi.md#稀啊稀)】`xi1 a xi1` <sup>[泰县]</sup> 人群渐渐稀少：今朝会开啊不久，人都～的走掉啊。  
 1. 【[稀𬙙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_fan.md#稀𬙙)】`xi1 fan1` <sup>[如东]</sup> 一种捕鱼网具。圆锥形，口宽约1丈，网身长约2丈。草绳结成，网眼较大故称稀𬙙。作业时，把罗放人海洋里，用竹竿撑开，主要捕捞海蜇。  
 1. 【[稀缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_fon.md#稀缝)】`xi1 fon6` ① <sup>\[如东\]</sup>板块接合部裂开：桌面～。<sup>\[如东\]</sup> ② <sup>\[兴化\]</sup>缝隙：可巧，板使有几条～，那个乔家运……瞧看得不亦乐乎。（《广陵满》十三）<sup>\[兴化\]</sup> ③ <sup>\[兴化\]</sup>开裂有缝：这扇后门经过风吹日晒老早就稀啊缝。<sup>\[兴化\]</sup>  
 1. 【[稀罕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_hun.md#稀罕)】`xi1 hun3` <sup>[如东]</sup> 少有：这种东西非常～。  
 1. 【[稀脚丫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_jiah_nga_r.md#稀脚丫<sub>儿</sub>)】`xi1 jiah7 nga1 r` <sup>[如东]</sup> 表示不干了：他又～啊。  
+1. 【[稀朗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_lan.md#稀朗)】`xi1 lan3` <sup>[如东]</sup> 稀疏：棉花苗～要适当。  
+1. 【[稀溜溜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_lieu_lieu.md#稀溜溜)】`xi1 lieu1 lieu1` <sup>[如东]</sup> 形容粥等食物很稀薄的状态：今朝的粥煮啊好，～的。  
+1. 【[稀里不脏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_lii_beh_zan.md#稀里不脏)】`xi1 lii beh7 zan1` <sup>[兴化]</sup> 形容非常肮脏，是“稀脏”的生动形式：这个小伙把身上作得～的。  
+1. 【[稀里讲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_lii_gan.md#稀里讲)】`xi1 lii gan3` <sup>[东台]</sup> 说无关紧要的话，回避主要的实质性内容。  
+1. 【[稀里古怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_lii_gv_guae.md#稀里古怪)】`xi1 lii gv3 guae5` <sup>[东台]</sup> 稀奇古怪。  
+1. 【[稀里糊涂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_lii_hv_tv.md#稀里糊涂)】`xi1 lii hv2 tv2-1` <sup>[东台]</sup> 糊里糊涂。  
+1. 【[稀毛瘌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_mo_laeh_zz.md#稀毛瘌子)】`xi1 mo2 laeh8 zz` ① <sup>\[如东\]</sup>瘌子的头发很少，比喻稀少：玉米苗捱地老虎咬断不少，成吖～。<sup>\[如东\]</sup> ② <sup>\[东台\]</sup>头发稀少的人。也戏称农作物出苗率低，长势不好。 ③ <sup>\[兴化\]</sup>由于脱落了大部分头发，头顶毛发稀少，形似瘌痢头。 ④ <sup>\[泰县\]</sup>稀少，不整齐。  
+1. 【[稀幪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_mon.md#稀幪)】`xi1 mon3` <sup>[如东]</sup> 稀疏稠密：你看看这块田里的棉苗～。  
 [更多...](./x.md)
 ## Y
 1. 【[淤泥河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_ni_hu.md#淤泥河)】`y1 ni2 hu2` <sup>[东台]</sup> 东台城古地名（现中亚城市花园背后），相传唐太宗李世民曾在此遇险，马陷～。  

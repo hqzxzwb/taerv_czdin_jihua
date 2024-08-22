@@ -10,14 +10,7 @@
 1. 【[嘻嘻哈哈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xi_ha_ha.md#嘻嘻哈哈)】`xi1 xi1 ha1 ha1` <sup>[东台]</sup> 说话做事不认真、不严肃。  
 1. 【[嬉大六缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_da_loh_gan.md#嬉大六缸)】`xi1 da6 loh8 gan1` <sup>[泰县]</sup> 轻浮，办事不专心：你不要～的，到底哿去？  
 1. 【[曦光曦亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_guan_xi_lian.md#曦光曦亮)】`xi1 guan1 xi1 lian6` <sup>[如东]</sup> 非常明亮：这把刀磨啊～。  
-1. 【[稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#稀)】`xi1` <sup>[如皋]</sup> 糖～，麦芽糖：做炒米糖要用～。  
-1. 【[稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#稀)】`xi1` <sup>[如皋]</sup> 形容用钱多；钱不够～、钱～得快。  
-1. 【[稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#稀)】`xi1` <sup>[如皋]</sup> 露出缝隙：门～下来啊朆关紧。桌面子因木料收缩～啊缝。  
-1. 【[稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#稀)】`xi1` <sup>[东台]</sup> ① 各个物体之间空隙大。 ② 轻微裂开或开启（古籍用字：𠩺，《说文·文部》，许其切）：门～啊一条缝。  
-1. 【[稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#稀)】`xi1` <sup>[兴化]</sup> 程度副词，相当于“很”，往往含贬义，表说话人的不满情绪：～脏的；～冷的；……执刑的把个板子摆在腿上，来回光啊光的，光的～痒的……（《武松》五）  
-1. 【[稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#稀)】`xi1` <sup>[泰县]</sup> 裂开：～啊一条缝。  
-1. 【[稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#稀)】`xi1` <sup>[泰州]</sup> 程度副词，很，极其：这个咸菜～咸的，你要多泡个盹ㄦ。｜～醉｜～苦｜～软｜～嫩  
-1. 【[稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#稀)】`xi1` ① <sup>\[如皋\]</sup>糖～，麦芽糖：做炒米糖要用～。<sup>\[如皋\]</sup> ② <sup>\[如皋\]</sup>形容用钱多；钱不够～、钱～得快。 ③ <sup>\[如皋\]</sup>露出缝隙：门～下来啊朆关紧。桌面子因木料收缩～啊缝。<sup>\[如皋\]</sup> ④ <sup>\[东台\]</sup>各个物体之间空隙大。 ⑤ <sup>\[东台\]</sup>轻微裂开或开启（古籍用字：𠩺，《说文·文部》，许其切）：门～啊一条缝。<sup>\[东台\]</sup> ⑥ <sup>\[兴化\]</sup>程度副词，相当于“很”，往往含贬义，表说话人的不满情绪：～脏的；～冷的；……执刑的把个板子摆在腿上，来回光啊光的，光的～痒的……（《武松》五）<sup>\[兴化\]</sup> ⑦ <sup>\[泰县\]</sup>裂开：～啊一条缝。<sup>\[泰县\]</sup> ⑧ <sup>\[泰州\]</sup>程度副词，很，极其：这个咸菜～咸的，你要多泡个盹ㄦ。<sup>\[泰州\]</sup>｜～醉<sup>\[泰州\]</sup>｜～苦<sup>\[泰州\]</sup>｜～软<sup>\[泰州\]</sup>｜～嫩<sup>\[泰州\]</sup>  
+1. 【[稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#稀)】`xi1` ① <sup>\[如皋\]</sup>糖～，麦芽糖：做炒米糖要用～。<sup>\[如皋\]</sup> ② <sup>\[如皋\]</sup>形容用钱多：钱不够～、钱～得快。<sup>\[如皋\]</sup> ③ <sup>\[如皋\]</sup>露出缝隙：门～下来啊朆关紧。桌面子因木料收缩～啊缝。<sup>\[如皋\]</sup> ④ <sup>\[东台\]</sup>各个物体之间空隙大。 ⑤ <sup>\[东台\]</sup>轻微裂开或开启（古籍用字：𠩺，《说文·文部》，许其切）：门～啊一条缝。<sup>\[东台\]</sup> ⑥ <sup>\[兴化\]</sup>程度副词，相当于“很”，往往含贬义，表说话人的不满情绪：～脏的；～冷的；……执刑的把个板子摆在腿上，来回光啊光的，光的～痒的……（《武松》五）<sup>\[兴化\]</sup> ⑦ <sup>\[泰县\]</sup>裂开：～啊一条缝。<sup>\[泰县\]</sup> ⑧ <sup>\[泰州\]</sup>程度副词，很，极其：这个咸菜～咸的，你要多泡个盹ㄦ。<sup>\[泰州\]</sup>｜～醉<sup>\[泰州\]</sup>｜～苦<sup>\[泰州\]</sup>｜～软<sup>\[泰州\]</sup>｜～嫩<sup>\[泰州\]</sup>  
 1. 【[稀啊稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_a_xi.md#稀啊稀)】`xi1 a xi1` <sup>[泰县]</sup> 人群渐渐稀少：今朝会开啊不久，人都～的走掉啊。  
 1. 【[稀𬙙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_fan.md#稀𬙙)】`xi1 fan1` <sup>[如东]</sup> 一种捕鱼网具。圆锥形，口宽约1丈，网身长约2丈。草绳结成，网眼较大故称稀𬙙。作业时，把罗放人海洋里，用竹竿撑开，主要捕捞海蜇。  
 1. 【[稀缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_fon.md#稀缝)】`xi1 fon6` ① <sup>\[如东\]</sup>板块接合部裂开：桌面～。<sup>\[如东\]</sup> ② <sup>\[兴化\]</sup>缝隙：可巧，板使有几条～，那个乔家运……瞧看得不亦乐乎。（《广陵满》十三）<sup>\[兴化\]</sup> ③ <sup>\[兴化\]</sup>开裂有缝：这扇后门经过风吹日晒老早就稀啊缝。<sup>\[兴化\]</sup>  
@@ -69,8 +62,6 @@
 1. 【[騱动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ton.md#騱动)】`xi2 ton6` <sup>[如东]</sup> 小步快走：这个伢儿走得～。  
 1. 【[□蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_taen.md#□蛋)】`xi3 taen6` <sup>[泰县]</sup> 孵小鸡孵僵了的蛋。  
 1. 【[史](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#史)】`xi3` <sup>[兴化]</sup> 讳饰性读法，“史”与“死”“屎”同音，为了避讳，清晨或春节期间，将“史”讹读成“喜”，有的平时也读成“喜”字音。“历史”的史仍读shr3。  
-1. 【[喜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#喜)】`xi3` <sup>[如皋]</sup> ① 怀孕：有啊～、害～（妊娠反应）。 ② 史姓或孟姓避讳改读～。  
-1. 【[喜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#喜)】`xi3` <sup>[东台]</sup> 除一般释义外，还有可庆贺、妇女怀孕等义。  
 1. 【[喜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#喜)】`xi3` ① <sup>\[如皋\]</sup>怀孕：有啊～、害～（妊娠反应）。<sup>\[如皋\]</sup> ② <sup>\[如皋\]</sup>史姓或孟姓避讳改读～。 ③ <sup>\[东台\]</sup>除一般释义外，还有可庆贺、妇女怀孕等义。  
 1. 【[喜布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_bv.md#喜布)】`xi3 bv5` <sup>[如东]</sup> 放在死者屁股下面、防止污物排出的一块布，叫做喜布。关殓时，由长子或长女抽出来。  
 1. 【[喜材](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_cae.md#喜材)】`xi3 cae2` ① <sup>\[如皋\]</sup>人健在时预制的棺材，有冲喜之义。 ② <sup>\[如皋\]</sup>棺材。  
@@ -147,7 +138,6 @@
 1. 【[系（繫）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#系（繫）)】`xi5` <sup>[如皋]</sup> ① 沿着绳子上下移动：他拉着绳子～下去啊，过刻儿又～上来呀。 ② 毛细作用：润滑油～进去呀。  
 1. 【[系子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_zz.md#系子)】`xi5 zz` <sup>[兴化]</sup> 拴在器物上的绳子：箬～；秤～。  
 1. 【[细](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#细)】`xi5` 小，不大  
-1. 【[细](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#细)】`xi5` <sup>[如东]</sup> 横剖面小：这根木头～。  
 1. 【[细](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#细)】`xi5` ① 小，不大 ② <sup>\[如东\]</sup>横剖面小：这根木头～。<sup>\[如东\]</sup>  
 1. 【[细瘪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_bih_zz.md#细瘪子)】`xi5 bih7 zz` <sup>[如东]</sup> 最小的男孩。  
 1. 【[细宝宝不识葵花稭——麻木](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_bo_bo_beh_sheh_kuei_hua_gae_ma_moh.md#细宝宝不识葵花稭——麻木)】`xi5 bo3 bo3 beh7 sheh7 kuei2 hua1 gae1 ma2 moh` <sup>[东台]</sup>   
@@ -249,9 +239,6 @@
 1. 【[细云](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_yen.md#细云)】`xi5 yen2` <sup>[如皋]</sup> 络丝时分出的稍细的一类。  
 1. 【[细作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_zah.md#细作)】`xi5 zah7` ① <sup>\[如皋\]</sup>细致，仔细。 ② <sup>\[如皋\]</sup>仔细，细致。 ③ <sup>\[如东\]</sup>仔细。 ④ <sup>\[东台\]</sup>细致；周到。小心谨慎。 ⑤ <sup>\[兴化\]</sup>形容作事认真仔细（多指家务劳动而言）。  
 1. 【[细砟砖<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_zha_zhun_r.md#细砟砖<sub>儿</sub>)】`xi5 zha3 zhun1 r` <sup>[如东]</sup> ① 很小很小的颗粒：剩下的都是一些～。 ② 最小的儿子：亮亮是我家的～。  
-1. 【[系](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#系)】`xi6` <sup>[如皋]</sup> 提环、提绳等：水桶～、笿儿～。  
-1. 【[系](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#系)】`xi6` <sup>[兴化]</sup> ① 用绳索或棍棒将物体从高处放到低处，或从低处拉到高处：～上来～下去。甘婆子却又出去将那白纸灯笼～下来……（《三侠五义》一〇八）。 ② 容器中液体沿缝隙、管道缓慢渗溢。 ③ 旋风将河湖中的水吸上天空，远看像水柱。这种现象俗称“乌龙～水”。  
-1. 【[系](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#系)】`xi6` <sup>[泰州]</sup> ① 用绳捆住物体有高处放至低处，或由低处拉至高处：弄个篮子把你，你把房顶上工具～下来。｜你把井里的水～上来。 ② 从高处顺着杆、棒下至低处：你顺住旁边的电线杆子～下来。  
 1. 【[系](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#系)】`xi6` ① <sup>\[如皋\]</sup>提环、提绳等：水桶～、笿儿～。<sup>\[如皋\]</sup> ② <sup>\[兴化\]</sup>用绳索或棍棒将物体从高处放到低处，或从低处拉到高处：～上来～下去。甘婆子却又出去将那白纸灯笼～下来……（《三侠五义》一〇八）。<sup>\[兴化\]</sup> ③ <sup>\[兴化\]</sup>容器中液体沿缝隙、管道缓慢渗溢。 ④ <sup>\[兴化\]</sup>旋风将河湖中的水吸上天空，远看像水柱。这种现象俗称“乌龙～水”。 ⑤ <sup>\[泰州\]</sup>用绳捆住物体有高处放至低处，或由低处拉至高处：弄个篮子把你，你把房顶上工具～下来。<sup>\[泰州\]</sup>｜你把井里的水～上来。<sup>\[泰州\]</sup> ⑥ <sup>\[泰州\]</sup>从高处顺着杆、棒下至低处：你顺住旁边的电线杆子～下来。<sup>\[泰州\]</sup>  
 1. 【[系<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_r.md#系<sub>儿</sub>)】`xi6 r` ① <sup>\[如东\]</sup>拉线：风筝～。<sup>\[如东\]</sup> ② <sup>\[如东\]</sup>竹篮、竹筐等工具上的拉绳：鐅篮～。<sup>\[如东\]</sup> ③ <sup>\[泰县\]</sup>数：没～。  
 1. 【[荠菜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_cae_r.md#荠菜<sub>儿</sub>)】`xi6 cae5 r` <sup>[如皋]</sup> 荠菜。  
@@ -369,8 +356,7 @@
 1. 【[下槛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_kaen.md#下槛)】`xia6 kaen3` ① <sup>\[兴化\]</sup>闼子门房檐下的和挨地面的横木，其上有槽，可以上下门板，上谓上槛，下谓～：他左腿直立，右腿一悬，对准～拎起来就是一脚……（扬一《李逵劫法场》）<sup>\[兴化\]</sup> ② <sup>\[泰兴\]</sup>门槛，门下边的横木。  
 1. 【[下𪣩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_ken.md#下𪣩)】`xia6 ken5` <sup>[如皋]</sup> 去污力强：皂荚洗头又～又清爽。  
 1. 【[下扣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_keu.md#下扣)】`xia6 keu1` <sup>[如东]</sup> 海洋捕捞作业的一种方法。把绳索埋在沙圻上做固定鱼网的襻子，叫做下扣。  
-1. 【[下口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_keu.md#下口)】`xia6 keu3` <sup>\[如皋\]\[兴化\]\[泰兴\]</sup>咬人。尤其指狗咬人：狗子～。<sup>\[如皋\]</sup>｜老陈家的狗会～。<sup>\[兴化\]</sup>  
-1. 【[下口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_keu.md#下口)】`xia6 keu3` <sup>[兴化]</sup> ① 下面：把香肠挂啊咸肉的～。 ② 右侧：把船靠啊～。  
+1. 【[下口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_keu.md#下口)】`xia6 keu3` ① <sup>\[如皋\]\[兴化\]\[泰兴\]</sup>咬人。尤其指狗咬人：狗子～。<sup>\[如皋\]</sup>｜老陈家的狗会～。<sup>\[兴化\]</sup> ② <sup>\[兴化\]</sup>下面：把香肠挂啊咸肉的～。<sup>\[兴化\]</sup> ③ <sup>\[兴化\]</sup>右侧：把船靠啊～。<sup>\[兴化\]</sup>  
 1. 【[下考](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_ko.md#下考)】`xia6 ko3` <sup>[泰兴]</sup> 参加考试。一般用于全体参考人员：这回有几万学生～  
 1. 【[下框框<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_kuan_kuan_r.md#下框框<sub>儿</sub>)】`xia6 kuan1 kuan1 r` <sup>[如皋]</sup> 汉字的偏旁之一，“凵”：函凶凿。  
 1. 【[下落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_lah.md#下落)】`xia6 lah` <sup>[泰兴]</sup> 去处，去向；究竟，分晓。  

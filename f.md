@@ -915,6 +915,7 @@
 1. 【[父债子还](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_zhae_zz_huaen.md#父债子还)】`fv6 zhae5 zz3 huaen2` <sup>[兴化]</sup> 俗谓父亲生前的债务，当由儿子来偿还：“……王德富死了……～，我要向他王大爷要这个账……”（《皮五辣子》二）  
 1. 【[父子兵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_zz_bien.md#父子兵)】`fv6 zz3 bien1` <sup>[东台]</sup> ［喻］上下一心、亲密团结的军队：无名氏《陈州粟米》第一折：“常言道：‘厮杀无如～’。”  
 1. 【[腐烂的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_laen_dii.md#腐烂的)】`fv6 laen6 dii` <sup>[东台]</sup> 形容很烂的样子。  
+1. 【[负啊命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_a_mien.md#负啊命)】`fv6 a mien6` <sup>[如皋]</sup> 拼命地：他捱松吖绑就～的遛。  
 1. 【[负担](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_daen.md#负担)】`fv6 daen1` <sup>[如东]</sup> 负责承担的义务：老人生活由我来～。  
 1. 【[负过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_gu.md#负过)】`fv6 gu` <sup>[泰县]</sup> 拼命：你倒～唻？这吖晚还去看电影。  
 1. 【[附](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv.md#附)】`fv6` <sup>[如皋]</sup> 迷信者指鬼神精灵之类附于人体后，使其表现失常：～体、～着咖。  
