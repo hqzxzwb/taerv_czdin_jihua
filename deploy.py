@@ -133,7 +133,6 @@ def parse_cont(cont, fname):
     for cz, ien in mixed:
         sort_key += ien + ' ' + cz + ' '
         word += cz
-    check_path(fname, mixed, word)
 
     prints = False
 
@@ -294,6 +293,7 @@ def write_page(dirs, path, sample_out, cz_ien):
                 conts.append(parse_cont(cont, fname))
     out = ""
     for w in sorted(conts, key=lambda c: c.sort_key):
+        check_path(w.fname, w.mixed, w.text)
         for cz, ien in w.mixed:
             # if cz == '混':
                 # print("【%s】中的【%s】读作【%s】" % (raw_word, cz, ien))

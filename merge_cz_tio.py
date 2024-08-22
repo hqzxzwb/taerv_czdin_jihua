@@ -3,26 +3,42 @@
 
 from deploy import *
 from collections import defaultdict
+import sys
+
+def conts_from_content(fc1, fname):
+  conts = defaultdict(lambda: list())
+  split_cursor = 0
+  for cont_match in re.finditer(r"(?:\r?\n){2,}", fc1 + "\n\n"):
+    cont_text = fc1[split_cursor: cont_match.start()]
+    if not re.fullmatch(r'\s*', cont_text):
+      cont = parse_cont(cont_text, fname)
+      range = (split_cursor, cont_match.start())
+      split_cursor = cont_match.end()
+      conts[f"raw_text$${cont.raw_text}$$raw_pien_ien$${cont.raw_pien_ien}"].append((cont, range))
+  return conts
+
+def txct():
+  for fname in walk_sources():
+    file_content = open(fname,encoding="U8").read()
+    fc1 = re.sub(r"<!--\n(.*\n)*?-->(\n|$)", "", file_content) # 移除注释
+    conts = conts_from_content(fc1, fname)
+    for key, value in conts.items():
+      if len(value) > 1:
+        print(f"====同形词条====")
+        for cont in value:
+          print(cont)
 
 def main():
   for fname in walk_sources():
     file_content = open(fname,encoding="U8").read()
     fc1 = re.sub(r"<!--\n(.*\n)*?-->(\n|$)", "", file_content) # 移除注释
     replaceable = len(file_content) == len(fc1)
-    conts = defaultdict(lambda: list())
-    split_cursor = 0
-    for cont_match in re.finditer(r"(?:\r?\n){2,}", fc1 + "\n\n"):
-      cont_text = fc1[split_cursor: cont_match.start()]
-      if not re.fullmatch(r'\s*', cont_text):
-        cont = parse_cont(cont_text, fname)
-        range = (split_cursor, cont_match.start())
-        split_cursor = cont_match.end()
-        if cont.spec == 1:
-          conts[f"raw_text$${cont.raw_text}$$raw_pien_ien$${cont.raw_pien_ien}"].append((cont, range))
+    conts = conts_from_content(fc1, fname)
 
     ranges_to_delete = []
 
     for key, value in conts.items():
+      value = [it for it in value if value[0].spec == 1]
       if len(value) > 1:
         cont0 = value[0][0]
         if file_content[-1] != '\n':
@@ -56,5 +72,5 @@ def remove_matches(sentence, matches):
 
     return "".join(result)
 
-if __name__ == "__main__":
-  main()
+if __name__ == '__main__':
+  globals()[sys.argv[1] or 'main']()
