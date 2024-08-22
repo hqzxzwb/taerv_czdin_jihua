@@ -2039,9 +2039,7 @@
 1. 【[度种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_zhon.md#度种)】`tv6 zhon3` <sup>[如皋]</sup> ① 受孕。传后代。 ② 引进，以繁衍后代。  
 1. 【[杜仲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_chon.md#杜仲)】`tv6 chon6` <sup>[如东]</sup> 杜仲科植物杜仲，落叶乔木。高约20米。小枝光滑，黄褐色或较淡，具片状髓。皮、枝及叶均含胶质。单叶互生，椭圆形，边缘具锯齿。花单性，雌雄异株，与叶同时开放，或先叶开放。翅果卵状长椭圆形而扁，内有种子1粒。栽培。  
 1. 【[杜仲叶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_chon_ih.md#杜仲叶)】`tv6 chon6 ih8` <sup>[如东]</sup> 杜仲科植物杜仲嫩叶，也称棉芽。  
-1. 【[杜狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_geu.md#杜狗)】`tv6 geu3` <sup>[兴化]</sup> 即蝼蛄。《方言》十一：“蛄诣……南楚谓之～……”。俗称“土狗子”“土地狗子”。  
-1. 【[杜狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_geu.md#杜狗)】`tv6 geu3` <sup>[泰县]</sup> 蝼蛄。  
-1. 【[杜狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_geu.md#杜狗)】`tv6 geu3` ① <sup>\[兴化\]</sup>即蝼蛄。《方言》十一：“蛄诣……南楚谓之～……”。俗称“土狗子”“土地狗子”。 ② <sup>\[泰县\]</sup>蝼蛄。  
+1. 【[杜狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_geu.md#杜狗)】`tv6 geu3` <sup>\[兴化\]\[泰县\]</sup>蝼蛄\[兴化：俗称“土狗子”“土地狗子”。\]\[泰县：（dv5 geu3）\]  
 1. 【[杜瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_gua.md#杜瓜)】`tv6 gua1` <sup>[如皋]</sup> 栝楼。  
 1. 【[杜鹃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_jiun.md#杜鹃)】`tv6 jiun1` <sup>[如东]</sup> 杜鹃科动物小杜鹃，体长约28厘米。嘴暗黑色，基部黄色，细长而弯曲。眼睑黄色。颗部灰色。背部青灰色；翼长，外侧飞羽内輞有白色横纹。尾羽灰票色。尾羽中央沿羽轴有白色横斑，外侧有白色横纹。腹部白色，杂有细小黑色斑纹。脚细小，黄色，对趾型。常栖于林中，初夏间常昼夜鸣叫。好食毛虫。不自营巢，常产卵于莺巢内孵化。  
 1. 【[杜鹃花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_jiun_hua.md#杜鹃花)】`tv6 jiun1 hua1` <sup>[如东]</sup> 杜鵑花科植物杜鹃花，常绿乔木。高约8米。树皮棕色，呈不规则片状剥裂。叶互生，长椭圆状披针形，全缘而微波状。花多数簇生于枝顶，成伞形花序式的总状花序；花大而美丽，紫红色，花冠漏斗状。蒴果圆柱形。栽培。  

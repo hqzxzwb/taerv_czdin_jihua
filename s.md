@@ -1041,10 +1041,7 @@
 1. 【[十瓜九不圆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_gua_jieu_beh.md#十瓜九不圆)】`sheh8 gua1 jieu3 beh7 iun2` <sup>[泰兴]</sup> 喻指人无完人，人或事物不可能各方面都是完美无缺的。  
 1. 【[十有八九](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_ieu_baeh_jieu.md#十有八九)】`sheh8 ieu3 baeh7 jieu3` <sup>[泰兴]</sup> 谓绝大多数，或大致差不多。  
 1. 【[十月里小阳春](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_iuh_lii_xio.md#十月里小阳春)】`sheh8 iuh lii xio3 ian2 chuen1` <sup>[泰兴]</sup> 谓到了农历十月，仍会有春天气息的温暖天气。  
-1. 【[十月朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_iuh_zho.md#十月朝)】`sheh8 iuh zho1` <sup>[如皋]</sup> 农历十月初一秦正建亥，以此日为新年。  
-1. 【[十月朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_iuh_zho.md#十月朝)】`sheh8 iuh zho1` <sup>[兴化]</sup> 农历十月初一，旧俗于近午设馔，焚纸钱祭祀先人。（见《兴化市志·民俗》）  
-1. 【[十月朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_iuh_zho.md#十月朝)】`sheh8 iuh zho1` <sup>[泰兴]</sup> 农历十月初一，古俗为扫墓日，今此俗早废。乡间尚有十月朝吃茄饼之俗，传可少生疮疖。  
-1. 【[十月朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_iuh_zho.md#十月朝)】`sheh8 iuh zho1` ① <sup>\[如皋\]</sup>农历十月初一秦正建亥，以此日为新年。 ② <sup>\[兴化\]</sup>农历十月初一，旧俗于近午设馔，焚纸钱祭祀先人。（见《兴化市志·民俗》） ③ <sup>\[泰兴\]</sup>农历十月初一，古俗为扫墓日，今此俗早废。乡间尚有十月朝吃茄饼之俗，传可少生疮疖。  
+1. 【[十月朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_iuh_zho.md#十月朝)】`sheh8 iuh zho1` <sup>\[如皋\]\[兴化\]\[泰兴\]</sup>节日，在农历十月初一\[如皋：秦正建亥，以此日为新年。\]\[兴化：旧俗于近午设馔，焚纸钱祭祀先人。（见《兴化市志·民俗》）\]\[泰兴：古俗为扫墓日，今此俗早废。乡间尚有十月朝吃茄饼之俗，传可少生疮疖。\]  
 1. 【[十月中，梳头打扮总是工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_iuh_zhon_shv.md#十月中，梳头打扮总是工)】`sheh8 iuh zhon1 shv1 teu2 da3 baen zon3 shr gon1` <sup>[泰兴]</sup> 谓农历十月，日短夜长，白天很容易就过去了，须珍惜时间，抓紧办事。  
 1. 【[十月中，梳头吃饭工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_iuh_zhon_shv.md#十月中，梳头吃饭工)】`sheh8 iuh zhon1 shv1 teu2 qieh7 faen6 gon1` <sup>[东台]</sup> 形容农历十月白天短，梳头吃饭之外忙不了什么。  
 1. 【[十月的桑叶——谁采（睬）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_iuh_dii_san_ih_shuei_cae.md#十月的桑叶——谁采（睬）)】`sheh8 iuh8 dii san1 ih8 shuei2 cae3` <sup>[东台]</sup>   
@@ -1768,9 +1765,6 @@
 1. 【[佋刮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_guaeh.md#佋刮)】`sho2 guaeh7` <sup>[如东]</sup> ① 物体不整齐：这个葫芦有些～。 ② 形容女人疯疯颠颠的样子：你看王兰兰那个～的样子。  
 1. 【[佋样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_ian.md#佋样)】`sho2 ian6` <sup>[如东]</sup> 人的长相不齐整，称佋样。  
 1. 【[捎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho.md#捎)】`sho2` <sup>[东台]</sup> 暗指偷偷摸摸的行为。  
-1. 【[睄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho.md#睄)】`sho2` <sup>[东台]</sup> 用眼睛余光看。  
-1. 【[睄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho.md#睄)】`sho2` <sup>[泰县]</sup> 用眼光扫视四周。  
-1. 【[睄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho.md#睄)】`sho2` <sup>[泰州]</sup> 阳光略过，匆匆一看：我眼睛一～，就晓得这个家伙来头不小。  
 1. 【[睄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho.md#睄)】`sho2` ① <sup>\[东台\]</sup>用眼睛余光看。 ② <sup>\[泰县\]</sup>用眼光扫视四周。 ③ <sup>\[泰州\]</sup>阳光略过，匆匆一看：我眼睛一～，就晓得这个家伙来头不小。<sup>\[泰州\]</sup>  
 1. 【[绍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho.md#绍)】`sho2` <sup>[兴化]</sup> ① 偷偷藏起：他把东西～起来啊。｜这钱，一日只～得四十五钱……（《警世通言》三七） ② 顺着放置：把篙子～到屋里去。  
 1. 【[绍兴调<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_xien_dio_r.md#绍兴调<sub>儿</sub>)】`sho2 xien1 dio5 r` <sup>[如皋]</sup> 越剧唱腔。  
@@ -1780,10 +1774,7 @@
 1. 【[韶叨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_do.md#韶叨)】`sho2 do1` ① <sup>\[如皋\]</sup>杂事、麻烦事。 ② <sup>\[兴化\]</sup>麻烦：他又在下惹～。<sup>\[兴化\]</sup> ③ <sup>\[兴化\]</sup>啰唆：（陈木南）因怕董老太～，便说道<sup>\[兴化\]</sup>｜“……还是我自己去”。（《儒林外史》五四）<sup>\[兴化\]</sup> ④ <sup>\[泰县\]</sup>啰唆。  
 1. 【[韶里不叨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_lii_beh_do.md#韶里不叨)】`sho2 lii beh7 do1` <sup>[泰县]</sup> 啰唆。  
 1. 【[韶里韶叨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_lii_sho_do.md#韶里韶叨)】`sho2 lii sho2 do1` <sup>[泰县]</sup> 啰唆：她一天到晚～的。  
-1. 【[少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho.md#少)】`sho3` 少，不多  
-1. 【[少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho.md#少)】`sho3` <sup>[兴化]</sup> ① 欠：～债｜他～我五百块钱。 ② 谓智力障碍者：别看她大眼睛翻翻的，骨里有点～㖸！ ③ 不、别：～要动手，听一言……（《粉妆楼》二二）  
-1. 【[少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho.md#少)】`sho3` <sup>[泰州]</sup> ① 遗失，丢失：你摆啊家里的东西怎吖可能～，你再寻寻。 ② 被偷的委婉说法：这个大门是夜里捱人撬开来的，你查啊看，～的是甚的东西？  
-1. 【[少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho.md#少)】`sho3` ① 少，不多 ② <sup>\[兴化\]</sup>欠：～债<sup>\[兴化\]</sup>｜他～我五百块钱。<sup>\[兴化\]</sup> ③ <sup>\[兴化\]</sup>谓智力障碍者：别看她大眼睛翻翻的，骨里有点～㖸！<sup>\[兴化\]</sup> ④ <sup>\[兴化\]</sup>不、别：～要动手，听一言……（《粉妆楼》二二）<sup>\[兴化\]</sup> ⑤ <sup>\[泰州\]</sup>遗失，丢失：你摆啊家里的东西怎吖可能～，你再寻寻。<sup>\[泰州\]</sup> ⑥ <sup>\[泰州\]</sup>被偷的委婉说法：这个大门是夜里捱人撬开来的，你查啊看，～的是甚的东西？<sup>\[泰州\]</sup>  
+1. 【[少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho.md#少)】`sho3` ① 少，不多 ② <sup>\[兴化\]</sup>欠：～债<sup>\[兴化\]</sup>｜他～我五百块钱。<sup>\[兴化\]</sup> ③ <sup>\[兴化\]</sup>谓智力障碍者：别看她大眼睛翻翻的，骨里有点～㖸！<sup>\[兴化\]</sup> ④ <sup>\[兴化\]</sup>不、别：～要动手，听一言……（《粉妆楼》二二）<sup>\[兴化\]</sup> ⑤ <sup>\[泰州\]</sup>遗失，丢失：你摆啊家里的东西怎吖可能～，你再寻寻。<sup>\[泰州\]</sup>｜这个大门是夜里捱人撬开来的，你查啊看，～的是甚的东西？<sup>\[泰州\]</sup>  
 1. 【[少啊床帮债](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_a_chuan_ban_zhae.md#少啊床帮债)】`sho3 a chuan2 ban1 zhae5` <sup>[如皋]</sup> 长期生病卧床。  
 1. 【[少宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_bo.md#少宝)】`sho3 bo3` ① 不稀奇，不稀罕。 ② <sup>\[兴化\]</sup>（讽）谓缺少这个宝物，往往是反话：我家大小七八口，你还要来凑热闹，当真的～啦！<sup>\[兴化\]</sup>  
 1. 【[少秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_chen.md#少秤)】`sho3 chen5` <sup>[如皋]</sup> 称量不足，复秤时发现不足秤：他家卖货～，覅买。  

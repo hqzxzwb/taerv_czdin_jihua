@@ -115,11 +115,7 @@
 1. 【[梧桐白皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_ton_poh_pi.md#梧桐白皮)】`v2 ton2 poh8 pi2` <sup>[如东]</sup> 梧桐科植物梧桐去掉栓皮的树皮。  
 1. 【[梧钻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_zun.md#梧钻)】`v2 zun5` <sup>[如东]</sup> 工具。由钻帽、钻身、钻头、牵索四部分构成。钻身细长，钻头锋利作业时，左手抓压钻帽，右手拉动牵索，使钻身旋转进行打孔。也称手牵钻。  
 1. 【[胡蜂<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_fon_r.md#胡蜂<sub>儿</sub>)】`v2 fon r` 马蜂  
-1. 【[胡蜂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_fon.md#胡蜂)】`v2 fon1` <sup>[如皋]</sup> 胡蜂、黄蜂、马蜂。  
-1. 【[胡蜂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_fon.md#胡蜂)】`v2 fon1` <sup>[东台]</sup> 即马蜂。昆虫，褐黄色，尾部有毒刺，能蜇人。  
-1. 【[胡蜂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_fon.md#胡蜂)】`v2 fon1` <sup>[兴化]</sup> 黄蜂的俗称。  
-1. 【[胡蜂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_fon.md#胡蜂)】`v2 fon1` <sup>[泰县]</sup> 马蜂。  
-1. 【[胡蜂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_fon.md#胡蜂)】`v2 fon1` ① <sup>\[如皋\]</sup>胡蜂、黄蜂、马蜂。 ② <sup>\[东台\]</sup>即马蜂。昆虫，褐黄色，尾部有毒刺，能蜇人。 ③ <sup>\[兴化\]</sup>黄蜂的俗称。 ④ <sup>\[泰县\]</sup>马蜂。  
+1. 【[胡蜂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_fon.md#胡蜂)】`v2 fon1` <sup>\[如皋\]\[东台\]\[兴化\]\[泰县\]</sup>胡蜂、黄蜂、马蜂。  
 1. 【[胡蜂窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_fon_ku.md#胡蜂窠)】`v2 fon1 ku1` ① <sup>\[如皋\]</sup>马蜂窝。 ② <sup>\[东台\]</sup>胡蜂窝穴，呈六角形，常挂在树上、墙壁上或屋檐下。也喻指不能碰的是非之地：那个单位是个～，当心！<sup>\[东台\]</sup>  
 1. 【[胡蜂<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_fon_r.md#胡蜂<sub>儿</sub>)】`v2 fon1 r` <sup>[如东]</sup> 胡蜂科昆虫大黄蜂，体大，黄色，尾部有毒刺，能蜇人。成群居住在起，营巢于树枝上或屋檐下。安装在槟榔上制服凶牛的小齿轮。  
 1. 【[胡蜂<sub>儿</sub>窝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_fon_r_u.md#胡蜂<sub>儿</sub>窝)】`v2 fon1 r u1` <sup>[如东]</sup> 胡蜂科昆虫大黄蜂蜂巢，又名露蜂房。  

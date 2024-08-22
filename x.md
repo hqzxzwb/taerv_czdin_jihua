@@ -10,7 +10,7 @@
 1. 【[嘻嘻哈哈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xi_ha_ha.md#嘻嘻哈哈)】`xi1 xi1 ha1 ha1` <sup>[东台]</sup> 说话做事不认真、不严肃。  
 1. 【[嬉大六缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_da_loh_gan.md#嬉大六缸)】`xi1 da6 loh8 gan1` <sup>[泰县]</sup> 轻浮，办事不专心：你不要～的，到底哿去？  
 1. 【[曦光曦亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_guan_xi_lian.md#曦光曦亮)】`xi1 guan1 xi1 lian6` <sup>[如东]</sup> 非常明亮：这把刀磨啊～。  
-1. 【[稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#稀)】`xi1` ① <sup>\[如皋\]</sup>糖～，麦芽糖：做炒米糖要用～。<sup>\[如皋\]</sup> ② <sup>\[如皋\]</sup>形容用钱多：钱不够～、钱～得快。<sup>\[如皋\]</sup> ③ <sup>\[如皋\]</sup>露出缝隙：门～下来啊朆关紧。桌面子因木料收缩～啊缝。<sup>\[如皋\]</sup> ④ <sup>\[东台\]</sup>各个物体之间空隙大。 ⑤ <sup>\[东台\]</sup>轻微裂开或开启（古籍用字：𠩺，《说文·文部》，许其切）：门～啊一条缝。<sup>\[东台\]</sup> ⑥ <sup>\[兴化\]</sup>程度副词，相当于“很”，往往含贬义，表说话人的不满情绪：～脏的；～冷的；……执刑的把个板子摆在腿上，来回光啊光的，光的～痒的……（《武松》五）<sup>\[兴化\]</sup> ⑦ <sup>\[泰县\]</sup>裂开：～啊一条缝。<sup>\[泰县\]</sup> ⑧ <sup>\[泰州\]</sup>程度副词，很，极其：这个咸菜～咸的，你要多泡个盹ㄦ。<sup>\[泰州\]</sup>｜～醉<sup>\[泰州\]</sup>｜～苦<sup>\[泰州\]</sup>｜～软<sup>\[泰州\]</sup>｜～嫩<sup>\[泰州\]</sup>  
+1. 【[稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#稀)】`xi1` ① <sup>\[如皋\]</sup>糖～，麦芽糖：做炒米糖要用～。<sup>\[如皋\]</sup> ② <sup>\[如皋\]</sup>形容用钱多：钱不够～、钱～得快。<sup>\[如皋\]</sup> ③ <sup>\[东台\]</sup>各个物体之间空隙大。 ④ <sup>\[兴化\]</sup>程度副词，相当于“很”，往往含贬义，表说话人的不满情绪：～脏的；～冷的；……执刑的把个板子摆在腿上，来回光啊光的，光的～痒的……（《武松》五）<sup>\[兴化\]</sup> ⑤ <sup>\[泰州\]</sup>程度副词，很，极其：这个咸菜～咸的，你要多泡个盹ㄦ。<sup>\[泰州\]</sup>｜～醉<sup>\[泰州\]</sup>｜～苦<sup>\[泰州\]</sup>｜～软<sup>\[泰州\]</sup>｜～嫩<sup>\[泰州\]</sup>  
 1. 【[稀啊稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_a_xi.md#稀啊稀)】`xi1 a xi1` <sup>[泰县]</sup> 人群渐渐稀少：今朝会开啊不久，人都～的走掉啊。  
 1. 【[稀𬙙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_fan.md#稀𬙙)】`xi1 fan1` <sup>[如东]</sup> 一种捕鱼网具。圆锥形，口宽约1丈，网身长约2丈。草绳结成，网眼较大故称稀𬙙。作业时，把罗放人海洋里，用竹竿撑开，主要捕捞海蜇。  
 1. 【[稀缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_fon.md#稀缝)】`xi1 fon6` ① <sup>\[如东\]</sup>板块接合部裂开：桌面～。<sup>\[如东\]</sup> ② <sup>\[兴化\]</sup>缝隙：可巧，板使有几条～，那个乔家运……瞧看得不亦乐乎。（《广陵满》十三）<sup>\[兴化\]</sup> ③ <sup>\[兴化\]</sup>开裂有缝：这扇后门经过风吹日晒老早就稀啊缝。<sup>\[兴化\]</sup>  
@@ -56,7 +56,7 @@
 1. 【[西装头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_zhuan_teu.md#西装头)】`xi1 zhuan1 teu2` <sup>[如东]</sup> 一种发型，头发向两边分开。也称分头。  
 1. 【[豨莶草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xin_co.md#豨莶草)】`xi1 xin1 co3` <sup>[如东]</sup> 菊科植物腺梗豨莶，一年生草本。高约100厘米。茎直立，常带紫色，枝上部密被短柔毛。叶对生，阔卵状三角形，边缘具粗锯齿。头状花序顶生或腋生。花黄色。瘦果倒卵形，微弯，黑色。生长在路边  
 1. 【[豨莶果](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xin_gu.md#豨莶果)】`xi1 xin1 gu3` <sup>[如东]</sup> 菊科植物腺梗豨莶果实。  
-1. 【[𬮮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#𬮮)】`xi1` ［𨵤］露出缝隙；微开。  
+1. 【[𬮮/𨵤/𨵎/𠩺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#𬮮/𨵤/𨵎/𠩺)】`xi1` <sup>\[如皋\]\[东台\]\[泰县\]</sup>露出缝隙；微开。（𬮮）（𠩺，《说文·文部》，许其切）：门～下来啊朆关紧。桌面子因木料收缩～啊缝。<sup>\[如皋\]</sup>｜门～啊一条缝。<sup>\[东台\]</sup>｜～啊一条缝。<sup>\[泰县\]</sup>  
 1. 【[騱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#騱)】`xi2` <sup>[如东]</sup> 液体沿着支柱向上移动：煤油沿吖灯芯向上～动。  
 1. 【[騱动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ton.md#騱动)】`xi2 ton` <sup>[如皋]</sup> 纷纷乱动：还不曾散会，人就～起来啊。  
 1. 【[騱动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ton.md#騱动)】`xi2 ton6` <sup>[如东]</sup> 小步快走：这个伢儿走得～。  
@@ -137,7 +137,6 @@
 1. 【[潟卤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_lv.md#潟卤)】`xi5 lv3` <sup>[东台]</sup> 咸水浸渍的土地。  
 1. 【[系（繫）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#系（繫）)】`xi5` <sup>[如皋]</sup> ① 沿着绳子上下移动：他拉着绳子～下去啊，过刻儿又～上来呀。 ② 毛细作用：润滑油～进去呀。  
 1. 【[系子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_zz.md#系子)】`xi5 zz` <sup>[兴化]</sup> 拴在器物上的绳子：箬～；秤～。  
-1. 【[细](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#细)】`xi5` 小，不大  
 1. 【[细](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#细)】`xi5` ① 小，不大 ② <sup>\[如东\]</sup>横剖面小：这根木头～。<sup>\[如东\]</sup>  
 1. 【[细瘪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_bih_zz.md#细瘪子)】`xi5 bih7 zz` <sup>[如东]</sup> 最小的男孩。  
 1. 【[细宝宝不识葵花稭——麻木](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_bo_bo_beh_sheh_kuei_hua_gae_ma_moh.md#细宝宝不识葵花稭——麻木)】`xi5 bo3 bo3 beh7 sheh7 kuei2 hua1 gae1 ma2 moh` <sup>[东台]</sup>   
