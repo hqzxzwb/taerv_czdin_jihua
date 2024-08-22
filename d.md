@@ -54,7 +54,7 @@
 1. 【[打抽风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_cheu_fon.md#打抽风)】`da3 cheu1 fon1` <sup>[泰县]</sup> 讹诈人。  
 1. 【[打冲头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chon_teu.md#打冲头)】`da3 chon5 teu` <sup>[如东]</sup> 用手突然打击对方的额头：当心我～。  
 1. 【[打滞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chr.md#打滞)】`da3 chr5` <sup>[兴化]</sup> 用某些药物或食品消除积食，促进消化：锅巴茶能～。  
-1. 【[打春](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chuen.md#打春)】`da3 chuen1` ① <sup>\[如东\]</sup>立春。 ② <sup>\[东台\]</sup>立春的俗称。  
+1. 【[打春](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chuen.md#打春)】`da3 chuen1` <sup>\[如东\]\[东台\]</sup>立春。  
 1. 【[打春卷皮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chuen_jiun_pi_zz.md#打春卷皮子)】`da3 chuen1 jiun3 pi2 zz` <sup>[如皋]</sup> 在酵缸中双手捧面粉酵尽力掼，使蛋白质充分面筋化。然后取一小把酵，一边攉动，一边在烤热的平锅上涂成圆片，烘熟揭下。用于包春卷。  
 1. 【[打穿担](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chun_daen.md#打穿担)】`da3 chun1 daen5` <sup>[东台]</sup> 挑担时一人将肩上满担转给另一人，同时另一肩接过对方的空担回头，让肩膀歇一下。  
 1. 【[打住话把子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chv_hua_ba_zz.md#打住话把子)】`da3 chv6 hua6 ba3 zz` <sup>[如皋]</sup> ① 阻止别人说话。 ② 别人说话时插言，致使别人中止说话。  
