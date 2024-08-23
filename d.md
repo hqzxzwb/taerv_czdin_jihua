@@ -235,8 +235,6 @@
 1. 【[打锣卖糖——各干一行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lu_mae_tan_gah_gun_ieh_han.md#打锣卖糖——各干一行)】`da3 lu2 mae6 tan2 gah7 gun5 ieh7 han2` <sup>[东台]</sup>   
 1. 【[打乱钟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lun_zhon.md#打乱钟)】`da3 lun6 zhon1` <sup>[如皋]</sup> 原如皋县政府中山钟楼顶上装有大钟，如遇火警、匪警等则打乱钟报警事，钟点乱、快、急。  
 1. 【[打芦䉬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lv_fei.md#打芦䉬)】`da3 lv2 fei5` <sup>[如皋]</sup> 用芦柴篾编织成板块。作建材。  
-1. 【[打骂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma.md#打骂)】`da3 ma` <sup>[东台]</sup> 含沙射影地讽刺、讥笑：才将他说的故事，是在下～你呢，你听不出来？（“骂”轻读）  
-1. 【[打骂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma.md#打骂)】`da3 ma` <sup>[兴化]</sup> 表面骂这个人，实际上骂另一个人，犹“指桑骂槐”：有意见你直说，不要～人。  
 1. 【[打骂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma.md#打骂)】`da3 ma` ① <sup>\[东台\]</sup>含沙射影地讽刺、讥笑：才将他说的故事，是在下～你呢，你听不出来？（“骂”轻读）<sup>\[东台\]</sup> ② <sup>\[兴化\]</sup>表面骂这个人，实际上骂另一个人，犹“指桑骂槐”：有意见你直说，不要～人。<sup>\[兴化\]</sup>  
 1. 【[打麻绳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma_shen.md#打麻绳)】`da3 ma2 shen2` <sup>[如皋]</sup> 用手摇动简单机械，把三股麻丝同时加捻度，然后反转合成一根麻绳。  
 1. 【[打麻线](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma_xin.md#打麻线)】`da3 ma2 xin5` <sup>[如皋]</sup> 同打麻绳，径小。  
@@ -416,11 +414,14 @@
 1. 【[大伯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_boh_zz.md#大伯子)】`da5 boh7 zz` <sup>[如皋]</sup> 指称夫之兄。  
 1. 【[大大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_da.md#大大)】`da5 da` <sup>\[如皋\]\[东台\]\[兴化\]\[泰县\]\[泰兴\]</sup>伯伯，父亲的哥哥\[东台：也用于对伯母或上一辈男子的尊称。\]\[兴化：或比父亲年长的姑母\]\[泰兴：泰兴东乡称年龄高于父亲的同辈男性，即伯父为“大大”，西乡部分地区泛称与父同辈男性为“大大”。\]  
 1. 【[大佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lo_r.md#大佬<sub>儿</sub>)】`da5 lo3 r` ① <sup>\[如皋\]</sup>单位的第一领导人。 ② <sup>\[如皋\]</sup>指称兄弟中的行一者。 ③ <sup>\[东台\]</sup>对排行老大的昵称。  
-1. 【[大妈妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma_ma.md#大妈妈)】`da5 ma1 ma` ① <sup>\[如皋\]</sup>伯母。 ② <sup>\[兴化\]</sup>大伯母。 ③ <sup>\[兴化\]</sup>敬称年长妇女。  
+1. 【[大妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma.md#大妈)】`da5 ma` <sup>[兴化]</sup> 旧称女佣。  
+1. 【[大妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma.md#大妈)】`da5 ma` <sup>[泰县]</sup> ① 伯母。 ② 女仆。  
+1. 【[大妈妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma_ma.md#大妈妈)】`da5 ma1 ma` <sup>\[如皋\]</sup>伯母。  
+1. 【[大妈妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma_ma.md#大妈妈)】`da5 ma6 ma` ① <sup>\[兴化\]</sup>大伯母。 ② <sup>\[兴化\]</sup>敬称年长妇女。  
 1. 【[大面相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_min_xian.md#大面相)】`da5 min6 xian5` <sup>[泰县]</sup> 表面上。  
 1. 【[大奶奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_nae_nae.md#大奶奶)】`da5 nae3 nae` <sup>[如皋]</sup> ① 老大之妻。 ② 对正妻的尊称。  
 1. 【[大娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_nian.md#大娘)】`da5 nian` <sup>[如皋]</sup> 指称已婚青壮年女人。  
-1. 【[大娘家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_nian_ga.md#大娘家)】`da5 nian2 ga` <sup>[兴化]</sup> 已婚妇女。区别于“姑娘”。  
+1. 【[大娘家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_nian_ga.md#大娘家)】`da5 nian6 ga` <sup>[兴化]</sup> 已婚妇女。区别于“姑娘”。  
 1. 【[大气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_qi.md#大气)】`da5 qi, tae3 qi` 大方，不吝啬  
 1. 【[大嫂子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_so_zz.md#大嫂子)】`da5 so3 zz` <sup>[如皋]</sup> ① 大哥的妻子。 ② 对已婚妇女的尊称。  
 1. 【[这](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da.md#这)】`da5` <sup>[东台]</sup> 指示代词，近指。“这（zha5）”的口语音。  
@@ -626,15 +627,10 @@
 1. 【[大炉饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lv_bien.md#大炉饼)】`da6 lv2 bien3` <sup>[泰兴]</sup> 黄桥烧饼的一种。以炉烘烤而成。  
 1. 【[大炉烧饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lv_sho_bien.md#大炉烧饼)】`da6 lv2 sho1 bien3` <sup>[兴化]</sup> 见“草炉饼”。  
 1. 【[大路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lv.md#大路)】`da6 lv6` ① <sup>\[如东\]</sup>旧时乡间官道，土路面，宽约一两丈，可以骑马、抬轿、推车。 ② <sup>\[如皋\]</sup>旧时乡间的官道，土路面，约宽3市尺开外，可以推车、骑马、抬轿。  
-1. 【[大路货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lv_hu.md#大路货)】`da6 lv6 hu5` <sup>\[如东\]\[泰兴\]</sup>质量普通而销路较广的货物：箇条街上总是～，生意好得很。<sup>\[泰兴\]</sup>  
-1. 【[大路货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lv_hu.md#大路货)】`da6 lv6 hu5` <sup>[如皋]</sup> ① 同“大市货”。 ② 正牌货、名牌货、来路正的货。  
+1. 【[大路货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lv_hu.md#大路货)】`da6 lv6 hu5` ① <sup>\[如东\]\[泰兴\]\[如皋\]</sup>质量普通而销路较广的货物。\[如皋：同“大市货”。（普通货，中、低档货。）\]：箇条街上总是～，生意好得很。<sup>\[泰兴\]</sup> ② <sup>\[如皋\]</sup>正牌货、名牌货、来路正的货。  
 1. 【[大路脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lv_jiah_r.md#大路脚<sub>儿</sub>)】`da6 lv6 jiah7 r` <sup>[如皋]</sup> 大摇大摆地：他走南头老远的就～的摇过来啊，好不自在！  
 1. 【[大妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma.md#大妈)】`da6 ma` <sup>[泰兴]</sup> 伯母。  
-1. 【[大妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma.md#大妈)】`da6 ma1` <sup>[东台]</sup> 父亲的嫂子。也用于对上一辈女子的尊称。  
-1. 【[大妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma.md#大妈)】`da6 ma1` <sup>[兴化]</sup> 旧称女佣。  
-1. 【[大妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma.md#大妈)】`da6 ma1` <sup>[兴化]</sup> ① 父亲的长嫂，即大伯母。 ② 对年长妇女的敬称：张～；王～。  
-1. 【[大妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma.md#大妈)】`da6 ma1` <sup>[泰县]</sup> ① 伯母。 ② 女仆。  
-1. 【[大妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma.md#大妈)】`da6 ma1` ① <sup>\[东台\]</sup>父亲的嫂子。也用于对上一辈女子的尊称。 ② <sup>\[兴化\]</sup>旧称女佣。 ③ <sup>\[兴化\]</sup>父亲的长嫂，即大伯母。 ④ <sup>\[兴化\]</sup>对年长妇女的敬称：张～；王～。<sup>\[兴化\]</sup> ⑤ <sup>\[泰县\]</sup>伯母。 ⑥ <sup>\[泰县\]</sup>女仆。  
+1. 【[大妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma.md#大妈)】`da6 ma1` ① <sup>\[东台\]</sup>父亲的嫂子。也用于对上一辈女子的尊称。 ② <sup>\[兴化\]</sup>父亲的长嫂，即大伯母。 ③ <sup>\[兴化\]</sup>对年长妇女的敬称：张～；王～。<sup>\[兴化\]</sup>  
 1. 【[大妈妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma_ma.md#大妈妈)】`da6 ma1 ma` <sup>[如东]</sup> 伯父的妻子。亦称伯母。  
 1. 【[大马其略的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma_qi_liah_dii.md#大马其略的)】`da6 ma1 qi2 liah7 dii` <sup>[东台]</sup> 粗略的、马虎了事的意思：这书我只是～翻吖下子。  
 1. 【[大麻苍蝇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma_can_ien.md#大麻苍蝇)】`da6 ma2 can1 ien` <sup>[泰县]</sup> 不知趣的人。  
@@ -770,11 +766,7 @@
 1. 【[大庭广众](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_tien_guan_zhon.md#大庭广众)】`da6 tien2 guan3 zhon5` <sup>[如东]</sup> 公开场所，众人面前。  
 1. 【[大堞港](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_tih_gan.md#大堞港)】`da6 tih8 gan3` <sup>[如东]</sup> 大堞港位于长沙与刘埠之间。宋端宗赵墨景炎二年（1277），民族英雄文天祥在京口（镇江）脱险后，经石港、掘港，至大堞港人海南下。  
 1. 【[大天亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_tin_lian.md#大天亮)】`da6 tin1 lian6` <sup>[如皋]</sup> 黎明过后景色清晰时。  
-1. 【[大天斯亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_tin_sz_lian.md#大天斯亮)】`da6 tin1 sz1 lian6` <sup>[如东]</sup> 天色开始亮了：我动身的时候，已经～吖。  
-1. 【[大天斯亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_tin_sz_lian.md#大天斯亮)】`da6 tin1 sz1 lian6` <sup>[东台]</sup> 黎明之后，天大亮。  
 1. 【[大天斯亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_tin_sz_lian.md#大天斯亮)】`da6 tin1 sz1 lian6` ① <sup>\[如东\]</sup>天色开始亮了：我动身的时候，已经～吖。<sup>\[如东\]</sup> ② <sup>\[东台\]</sup>黎明之后，天大亮。  
-1. 【[大天四亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_tin_sz_lian.md#大天四亮)】`da6 tin1 sz5 lian6` <sup>[兴化]</sup> 指太阳刚露出地平线的时候，比“蒙蒙亮”稍迟：现在五点多钟外头就～吖。  
-1. 【[大天四亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_tin_sz_lian.md#大天四亮)】`da6 tin1 sz5 lian6` <sup>[泰兴]</sup> 完全天亮了，太阳就要出来了：到啊夏天，早上五点钟就大天四亮的了。  
 1. 【[大天四亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_tin_sz_lian.md#大天四亮)】`da6 tin1 sz5 lian6` ① <sup>\[兴化\]</sup>指太阳刚露出地平线的时候，比“蒙蒙亮”稍迟：现在五点多钟外头就～吖。<sup>\[兴化\]</sup> ② <sup>\[泰兴\]</sup>完全天亮了，太阳就要出来了：到啊夏天，早上五点钟就大天四亮的了。<sup>\[泰兴\]</sup>  
 1. 【[大田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_tin.md#大田)】`da6 tin2` <sup>\[泰兴\]\[如东\]</sup>大片田地。大面积种植作物的田地。\[如东：与菜园相对。\]  
 1. 【[大滔滔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_to_to.md#大滔滔)】`da6 to to1` <sup>[如东]</sup> 形容宽大：这件衬衫穿吖身上～的。  
@@ -1160,13 +1152,8 @@
 1. 【[当<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_r.md#当<sub>儿</sub>)】`dan1 r` ① <sup>\[如东\]</sup>地方：在哪个～？<sup>\[如东\]</sup> ② <sup>\[如皋\]</sup>时段：饭～里、夜～里<sup>\[如皋\]</sup> ③ <sup>\[如皋\]</sup>当时：他在下说的～，来啊一个人。<sup>\[如皋\]</sup> ④ <sup>\[兴化\]</sup>事情发生或进行的时候：（女人）回家煮晚饭的～，儿子回来了。（钱国怀《儿子中专毕业》）<sup>\[兴化\]</sup>  
 1. 【[当<sub>儿</sub>里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_r_lii.md#当<sub>儿</sub>里)】`dan1 r lii` <sup>[如东]</sup> ① 地方：在哪个～。 ② 时候。  
 1. 【[当人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_ren_zz.md#当人子)】`dan1 ren zz` <sup>[如皋]</sup> ① 不该、不能：骂上人～！窖作粮饭～！ ② 心愧：吃你老人家的杲子～！  
-1. 【[当人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_ren_zz.md#当人子)】`dan1-da1 ren zz` <sup>[泰县]</sup> 违反伦理。  
-1. 【[当人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_ren_zz.md#当人子)】`dan1-da1 ren zz` <sup>[泰兴]</sup> 犹丧良心，不道德。有时含迷信味，认亵渎神灵：把滞饭倒啊阴沟里，又不怕～。  
 1. 【[当人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_ren_zz.md#当人子)】`dan1-da1 ren zz` ① <sup>\[泰县\]</sup>违反伦理。 ② <sup>\[泰兴\]</sup>犹丧良心，不道德。有时含迷信味，认亵渎神灵：把滞饭倒啊阴沟里，又不怕～。<sup>\[泰兴\]</sup>  
 1. 【[当人百众的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_ren_boh_zhon_dii.md#当人百众的)】`dan1 ren2 boh7 zhon5 dii` <sup>[如皋]</sup> 当着大家的面（说、做）。有“公开地、毫无隐晦地”的意思。  
-1. 【[当人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_ren_zz.md#当人子)】`dan1 ren2 zz` <sup>[如东]</sup> ① 不作兴。小孩或晚辈触犯长辈尊严或糟蹋粮食时，长者常以此语进行教育和吓唬：你骂奶奶，～的呀！ ② 表示一种欠意或感谢：你送箇么些东西给我，～！  
-1. 【[当人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_ren_zz.md#当人子)】`dan1 ren2 zz` <sup>[东台]</sup> 任意糟蹋东西：你把这吖好的菜倒掉，～呢，响雷要打头！  
-1. 【[当人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_ren_zz.md#当人子)】`dan1 ren2 zz` <sup>[兴化]</sup> 佛教语，罪过‖也作“不～”：窖作粮食～！  
 1. 【[当人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_ren_zz.md#当人子)】`dan1 ren2 zz` ① <sup>\[如东\]</sup>不作兴。小孩或晚辈触犯长辈尊严或糟蹋粮食时，长者常以此语进行教育和吓唬：你骂奶奶，～的呀！<sup>\[如东\]</sup> ② <sup>\[如东\]</sup>表示一种欠意或感谢：你送箇么些东西给我，～！<sup>\[如东\]</sup> ③ <sup>\[东台\]</sup>任意糟蹋东西：你把这吖好的菜倒掉，～呢，响雷要打头！<sup>\[东台\]</sup> ④ <sup>\[兴化\]</sup>佛教语，罪过‖也作“不～”：窖作粮食～！<sup>\[兴化\]</sup>  
 1. 【[当仁不让](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_ren_beh_ran.md#当仁不让)】`dan1 ren2 beh7 ran6` <sup>[如东]</sup> 遇到属于自己做的事情，积极主动去做，不退让。  
 1. 【[当手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_sheu.md#当手)】`dan1 sheu3` ① <sup>\[如东\]</sup>经手：这项工程由他～。<sup>\[如东\]</sup> ② <sup>\[如皋\]</sup>经手主办。  

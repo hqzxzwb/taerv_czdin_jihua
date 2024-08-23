@@ -148,9 +148,6 @@
 1. 【[界岸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_un_r.md#界岸<sub>儿</sub>)】`gae5 un6 r` <sup>[兴化]</sup> ① 田间小路。 ② 也指不同业主田地之间分界的小土埂。  
 1. 【[盖戳子，拿角子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_chuah_zz_na_gah_zz.md#盖戳子，拿角子)】`gae5 chuah7 zz na2 gah7 zz` <sup>[东台]</sup> 指过去盖印章领工资。  
 1. 【[盖住盒子摇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_chv_huh_zz_io.md#盖住盒子摇)】`gae5 chv huh8 zz io2` <sup>[兴化]</sup> 不让事态扩大，而在一定范围内悄悄处理：“……你若是验出来，我包管是个死命，我劝你不如～，便宜你许多呢！”（《广陵潮五》）  
-1. 【[盖烦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_faen.md#盖烦)】`gae5 faen2` <sup>[如皋]</sup> 帮着掩盖、打掩护。  
-1. 【[盖烦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_faen.md#盖烦)】`gae5 faen2` <sup>[东台]</sup> 巧妙地掩饰：妈妈见小伙惹新妇生吖气，连忙～说“他是开玩笑的，不要当真！”  
-1. 【[盖烦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_faen.md#盖烦)】`gae5 faen2` <sup>[泰县]</sup> 掩盖：你不要～吖。  
 1. 【[盖烦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_faen.md#盖烦)】`gae5 faen2` ① <sup>\[如皋\]</sup>帮着掩盖、打掩护。 ② <sup>\[东台\]</sup>巧妙地掩饰：妈妈见小伙惹新妇生吖气，连忙～说“他是开玩笑的，不要当真！”<sup>\[东台\]</sup> ③ <sup>\[泰县\]</sup>掩盖：你不要～吖。<sup>\[泰县\]</sup>  
 1. 【[盖一](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_ieh.md#盖一)】`gae5 ieh7` <sup>[兴化]</sup> 第一、最好：她的唱功全团～。  
 1. 【[盖浇饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_jio_faen.md#盖浇饭)】`gae5 jio1 faen6` <sup>[如东]</sup> 大米饭做好后，盛在碗或盒中，上面再加肉菜等。  
@@ -1347,10 +1344,7 @@
 1. 【[关面子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_min_zz.md#关面子)】`guaen1 min6 zz` <sup>[兴化]</sup> 照顾情面：给他～，弄个三等奖。｜他不～，以为别人也不要脸皮……（钱国怀：《家怨》）  
 1. 【[关目](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_moh.md#关目)】`guaen1 moh` ① <sup>\[如皋\]</sup>状婴儿的某些表情动作：小家伙睏吖，一刻儿眨眼、一刻儿又笑，在下做～。<sup>\[如皋\]</sup> ② <sup>\[如皋\]</sup>故弄玄虚、玩嘘头、卖关子。 ③ <sup>\[兴化\]</sup>礼节、仪式：旧式的婚礼～多唻，一步也错不得。<sup>\[兴化\]</sup> ④ <sup>\[兴化\]</sup>花样：他的～最多，有点儿真名其妙。<sup>\[兴化\]</sup>  
 1. 【[关目刀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_moh_do_r.md#关目刀<sub>儿</sub>)】`guaen1 moh8 do1 r` <sup>[如东]</sup> 示意一种信息：他在下做～。  
-1. 【[关目三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_moh_saen.md#关目三)】`guaen1 moh8 saen1` <sup>[如皋]</sup> ① 代指事物：他家店里吃的穿的用的，甚的～总有。 ② 同“关目”❷。  
-1. 【[关目三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_moh_saen.md#关目三)】`guaen1 moh8 saen1` <sup>[东台]</sup> 也叫“关目”，或称噱头、不可告人的名堂：朋友之间还是坦诚相见好，不要玩～。  
-1. 【[关目三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_moh_saen.md#关目三)】`guaen1 moh8 saen1` <sup>[兴化]</sup> 花样，名目：他的～多，几天翻一个花样。  
-1. 【[关目三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_moh_saen.md#关目三)】`guaen1 moh8 saen1` ① <sup>\[如皋\]</sup>代指事物：他家店里吃的穿的用的，甚的～总有。<sup>\[如皋\]</sup> ② <sup>\[如皋\]</sup>同“关目”❷。 ③ <sup>\[东台\]</sup>也叫“关目”，或称噱头、不可告人的名堂：朋友之间还是坦诚相见好，不要玩～。<sup>\[东台\]</sup> ④ <sup>\[兴化\]</sup>花样，名目：他的～多，几天翻一个花样。<sup>\[兴化\]</sup>  
+1. 【[关目三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_moh_saen.md#关目三)】`guaen1 moh8 saen1` ① <sup>\[如皋\]</sup>代指事物：他家店里吃的穿的用的，甚的～总有。<sup>\[如皋\]</sup> ② <sup>\[如皋\]</sup>故弄玄虚、玩嘘头、卖关子。同“关目”。 ③ <sup>\[东台\]</sup>也叫“关目”，或称噱头、不可告人的名堂\[东台：（guaen1 moh7 saen1）\]：朋友之间还是坦诚相见好，不要玩～。<sup>\[东台\]</sup> ④ <sup>\[兴化\]</sup>花样，名目：他的～多，几天翻一个花样。<sup>\[兴化\]</sup>  
 1. 【[关目三<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_moh_saen_r.md#关目三<sub>儿</sub>)】`guaen1 moh8 saen1 r` <sup>[泰县]</sup> 鬼点子：他真有点～。  
 1. 【[关碍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_ngae.md#关碍)】`guaen1 ngae6` <sup>[兴化]</sup> ① 阻碍：你俫的婚事如果遇到～，我一定出来调停。 ② 有碍于：丁母～着北侠，不好推托。（《三侠五义》六四）  
 1. 【[关神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_shen.md#关神)】`guaen1 shen2` <sup>[兴化]</sup> 关心、注意：他人虽老，对家里的事情处处～。  

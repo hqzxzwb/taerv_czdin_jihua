@@ -579,8 +579,6 @@
 1. 【[齁齁<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_heu_r.md#齁齁<sub>儿</sub>)】`heu1 heu1 r` <sup>[如皋]</sup> 哮喘病患者。另见“𣣡𣣡儿”。  
 1. 【[齁齁<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_heu_r.md#齁齁<sub>儿</sub>)】`heu1 heu5 r` <sup>[兴化]</sup> 患有气管炎的人：他是个～，一到冬天就发病。也作“喉喉儿”。马春阳小说《风里雨里》有此写法。  
 1. 【[齁人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_ren.md#齁人)】`heu1 ren` <sup>[如东]</sup> 吃太甜或太咸的食物使喉咙不舒服。  
-1. 【[齁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_zz.md#齁子)】`heu1 zz` <sup>[如东]</sup> ① 说话声音沙哑。 ② 说话声音沙哑的人。  
-1. 【[齁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_zz.md#齁子)】`heu1 zz` <sup>[如皋]</sup> 因过敏而哮喘的人：糖～、盐～。  
 1. 【[齁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_zz.md#齁子)】`heu1 zz` ① <sup>\[如东\]</sup>说话声音沙哑。 ② <sup>\[如东\]</sup>说话声音沙哑的人。 ③ <sup>\[如皋\]</sup>因过敏而哮喘的人：糖～、盐～。<sup>\[如皋\]</sup>  
 1. 【[□堑草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_qin_co.md#□堑草)】`heu2 qin5 co3` <sup>[泰县]</sup> 把水田里杂草堑入土中。  
 1. 【[喉风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_fon.md#喉风)】`heu2 fon1` <sup>[如皋]</sup> 咽喉炎。  
@@ -1979,8 +1977,7 @@
 1. 【[合汁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_zheh.md#合汁)】`huh8 zheh7` <sup>[东台]</sup> 两种以上溶液完全融合，或者凝固成一个整体。  
 1. 【[合子蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_zz_hae.md#合子蟹)】`huh8 zz hae3` <sup>[如东]</sup> 两只蟹，一公一母，称合子蟹。  
 1. 【[合子门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_zz_men.md#合子门)】`huh8 zz men2` <sup>[如东]</sup> 由两扇门组成的门，称合子门。  
-1. 【[活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh.md#活)】`huh8` <sup>\[如皋\]\[东台\]\[兴化\]</sup>抖动；颤抖：把堂灰～下去｜手抖抖～～的｜一～抖，二～战<sup>\[兴化\]</sup>｜救火车一响，老太太吓得直～。<sup>\[兴化\]</sup>  
-1. 【[活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh.md#活)】`huh8` <sup>[泰州]</sup> ① 物体可以移动、转动、解开：这把锁死啊唻，你去换把～锁来锁。 ② 身体颤抖：衣裳穿得少，人冻得～～的。 ③ 抖动物体：把袋子～咖子，把里头米倒啊清吖。 ④ 物体连接处发生松动：螺丝帽子～咖唻，要紧下子。  
+1. 【[活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh.md#活)】`huh8` ① <sup>\[如皋\]\[东台\]\[兴化\]\[泰州\]</sup>抖动；颤抖：把堂灰～下去｜手抖抖～～的｜一～抖，二～战<sup>\[兴化\]</sup>｜救火车一响，老太太吓得直～。<sup>\[兴化\]</sup>｜衣裳穿得少，人冻得～～的。<sup>\[泰州\]</sup>｜把袋子～咖子，把里头米倒啊清吖。<sup>\[泰州\]</sup> ② <sup>\[泰州\]</sup>物体可以移动、转动、解开：这把锁死啊唻，你去换把～锁来锁。<sup>\[泰州\]</sup> ③ <sup>\[泰州\]</sup>物体连接处发生松动：螺丝帽子～咖唻，要紧下子。<sup>\[泰州\]</sup>  
 1. 【[活剥剥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_bah_bah.md#活剥剥)】`huh8 bah7 bah7` ① <sup>\[如东\]</sup>活生生：～的死啊。<sup>\[如东\]</sup> ② <sup>\[兴化\]</sup>活生生：小花狗捱人家～的打死啊。‖也说“活鲜鲜”。<sup>\[兴化\]</sup> ③ <sup>\[泰县\]</sup>活蹦乱跳：他上街买啊几条～的大鱼。<sup>\[泰县\]</sup>  
 1. 【[活剥剥的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_bah_bah_dii.md#活剥剥的)】`huh8 bah7 bah7 dii` <sup>[如皋]</sup> 叹息，指导致不良后果：这本书～捱他糟蹋掉啊。  
 1. 【[活宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_bo.md#活宝)】`huh8 bo3` <sup>[东台]</sup> ① 形容极其珍贵。 ② 指无能或滑稽可笑的人。  
@@ -2063,8 +2060,6 @@
 1. 【[獾猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_zhv.md#獾猪)】`hun1 zhv1` <sup>[如东]</sup> ① 猪獾。 ② 工具。有铁制和竹制两种。长条形，尖头。头上有孔，可以穿绳索。用于穿刺茅屋。  
 1. 【[獾猪<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_zhv_r.md#獾猪<sub>儿</sub>)】`hun1 zhv1 r` <sup>[东台]</sup> 体形大小似狗獾，但其鼻垫与上唇间裸露，吻鼻部狭长而圆，酷似猪鼻。  
 1. 【[獾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_zz.md#獾子)】`hun1 zz` <sup>[如东]</sup> 指如皋地区的人。  
-1. 【[蚶子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_zz.md#蚶子)】`hun1 zz` <sup>[如东]</sup> ① 蚶科动物魁蚶、泥蚶、毛蚶的总称。 ② 也指四角蛤蜊。  
-1. 【[蚶子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_zz.md#蚶子)】`hun1 zz` <sup>[东台]</sup> 软体动物，深潜海边滩涂沙泥中，清明前后肉质鲜嫩，味道最肥美，称之为“菜花～”，常呈簇状分布。  
 1. 【[蚶子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_zz.md#蚶子)】`hun1 zz` ① <sup>\[如东\]</sup>蚶科动物魁蚶、泥蚶、毛蚶的总称。 ② <sup>\[如东\]</sup>也指四角蛤蜊。 ③ <sup>\[东台\]</sup>软体动物，深潜海边滩涂沙泥中，清明前后肉质鲜嫩，味道最肥美，称之为“菜花～”，常呈簇状分布。  
 1. 【[䗙䘆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_xin.md#䗙䘆)】`hun2 xin3` 蚯蚓，口语一般说hu2 xin1。  
 1. 【[含](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun.md#含)】`hun2` <sup>[东台]</sup> 用于书面语：～恨｜～笑｜～羞｜～冤。  
@@ -2100,9 +2095,7 @@
 1. 【[寒心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_xien.md#寒心)】`hun2 xien1` <sup>[东台]</sup> 令人失望而痛心。  
 1. 【[涵筒桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_ton_qio.md#涵筒桥)】`hun2 ton3 qio2` <sup>[如皋]</sup> 桥式的高架涵筒。  
 1. 【[涵洞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_ton.md#涵洞)】`hun2 ton6` <sup>[如东]</sup> 公路与沟渠相接的通道，使水从公路下边流过去。一般孔径较小。作用与桥相似。  
-1. 【[涵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_zz.md#涵子)】`hun2 zz` <sup>[东台]</sup> 涵洞，道路与沟渠相交的设施，使水从路下流过的通道。  
-1. 【[涵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_zz.md#涵子)】`hun2 zz` <sup>[泰县]</sup> 涵洞。  
-1. 【[涵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_zz.md#涵子)】`hun2 zz` ① <sup>\[东台\]</sup>涵洞，道路与沟渠相交的设施，使水从路下流过的通道。 ② <sup>\[泰县\]</sup>涵洞。  
+1. 【[涵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_zz.md#涵子)】`hun2 zz` <sup>\[东台\]\[泰县\]</sup>涵洞，道路与沟渠相交的设施，使水从路下流过的通道。  
 1. 【[唤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun.md#唤)】`hun5` ① <sup>\[兴化\]</sup>发出特殊音响，招引畜禽：～鸡引狗。<sup>\[兴化\]</sup> ② <sup>\[泰州\]</sup>发出声音招引家禽家畜：把狗子～过来龁骨头。<sup>\[泰州\]</sup>  
 1. 【[唤狗吃屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_geu_qieh_shr.md#唤狗吃屎)】`hun5 geu3 qieh7 shr3` <sup>[兴化]</sup> 嘲骂人过于驯顺、听话：你听他一喊就走，就像是～，真没意思。  
 1. 【[唤声](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_shen.md#唤声)】`hun5 shen1` <sup>[兴化]</sup> 男青年由于生理变化，噪音由尖细变得低沉：小吴说话起～，发身吖。  
@@ -2313,7 +2306,6 @@
 1. 【[护网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_van.md#护网)】`hv6 van3` <sup>[如东]</sup> 网具的一种。麻线织成，片状，高约5尺，较短。作业时，许多网连接起来挂在沙滩上的竹竿上，形成长龙，利用潮水涨落，把鱼虾拦住，这种网具称护网。  
 1. 【[护脏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_zan.md#护脏)】`hv6 zan1` <sup>[兴化]</sup> 外穿旧的、质差的衣服，或系围裙、套护袖等，以防把质料好的衣裳弄脏：……为了～，她马上拿出红布带子青短裙，往腰间一围一扎……（马春阳《扬州水乡婚俗散记》）  
 1. 【[瓠子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_zz.md#瓠子)】`hv6 zz` <sup>[如东]</sup> 葫芦科植物瓠子，一年生攀援草本。  
-1. 【[糊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv.md#糊)】`hv6` ① 粉碎，碎末 ② 面条久置粘连  
 1. 【[糊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv.md#糊)】`hv6` ① 粉碎，碎末 ② 面条久置粘连 ③ <sup>\[如东\]</sup>碎：晒啊场上的花生捱踏～啊。<sup>\[如东\]</sup> ④ <sup>\[如皋\]</sup>变糊、涂粘：～眼眵、眼睛～起来啊。<sup>\[如皋\]</sup> ⑤ <sup>\[泰州\]</sup>糊状物凝聚附着在物体上面：锅里的粥～住啊唻。<sup>\[泰州\]</sup>｜身上块块～的是烂泥。<sup>\[泰州\]</sup>  
 1. 【[糊啊汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_a_tan.md#糊啊汤)】`hv6 a tan1` <sup>[如皋]</sup> ① 汤中有淀粉质而变得黏稠。 ② 地面成了一片泥浆地。  
 1. 【[糊糊<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_hv_r.md#糊糊<sub>儿</sub>)】`hv6 hv6 r` ① 碎末 ② <sup>\[如东\]</sup>一种面食。将面粉加水调匀，倒进开水中煮熟，似粥非粥，似块非块，叫做糊糊儿。 ③ <sup>\[如皋\]</sup>面糊状食品。  

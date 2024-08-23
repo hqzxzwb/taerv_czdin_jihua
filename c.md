@@ -1122,8 +1122,6 @@
 1. 【[珿斩齐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh_zhaen_qi.md#珿斩齐)】`choh7 zhaen3 qi2` <sup>[如皋]</sup> 状很齐整。珿，初六切：“齐也”。  
 1. 【[畜牲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh_shen.md#畜牲)】`choh7 shen` <sup>[如皋]</sup> ① 禽兽鱼虫等。 ② 贬指违礼之人：～货、活～、精～、做～事、人毛～。  
 1. 【[畜生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh_shen.md#畜生)】`choh7 shen` ① <sup>\[如东\]</sup>牲畜的通称。 ② <sup>\[如东\]</sup>比喻愚蠢、野蛮、不懂道理、道德低下的人：流氓是一群～。<sup>\[如东\]</sup> ③ <sup>\[东台\]</sup>本指动物，也做詈语，指没有教养如同禽兽。也作“畜牲”。  
-1. 【[触](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh.md#触)】`choh7` <sup>[兴化]</sup> ① 眼鼻受到强烈刺激：这洋葱荤气～人。 ② （迷信）见到应避讳的事物，就会受～。  
-1. 【[触](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh.md#触)】`choh7` <sup>[泰州]</sup> 牛用角伤人：你离牛远点儿啊，当心它～咖你。  
 1. 【[触](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh.md#触)】`choh7` ① <sup>\[兴化\]</sup>眼鼻受到强烈刺激：这洋葱荤气～人。<sup>\[兴化\]</sup> ② <sup>\[兴化\]</sup>（迷信）见到应避讳的事物，就会受～。 ③ <sup>\[泰州\]</sup>牛用角伤人：你离牛远点儿啊，当心它～咖你。<sup>\[泰州\]</sup>  
 1. 【[触壁脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh_bieh_jiah.md#触壁脚)】`choh7 bieh7 jiah7` <sup>[如皋]</sup> 揭老底。  
 1. 【[触阳寿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh_ian_sheu.md#触阳寿)】`choh7 ian2 sheu6` <sup>[如东]</sup> 因为做缺德的事情而早死。  
