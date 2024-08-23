@@ -1140,9 +1140,7 @@
 1. 【[就三复](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_saen_foh.md#就三复)】`qieu6 saen1 foh7` <sup>[如皋]</sup> 下葬第三天上坟祭祀称“复三”。下葬当时就举行复三礼，称～。  
 1. 【[就是的啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_shr_dii_a.md#就是的啊)】`qieu6 shr6 dii a` <sup>[如皋]</sup> 就是这样。  
 1. 【[就数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_shv.md#就数)】`qieu6 shv5` ① 方便，有空，适合做某事：你上街～帮我买点儿菜。/你上街方便的话帮我买点菜。｜～来耍耍。/有空的时候来玩。 ② <sup>\[如东\]</sup>凑数：正好～<sup>\[如东\]</sup> ③ <sup>\[如东\]</sup>凑巧：～就来。<sup>\[如东\]</sup>  
-1. 【[就他](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_ta.md#就他)】`qieu6 ta` <sup>[如东]</sup> 算了吧：～吧，不要管吖。  
-1. 【[就他](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_ta.md#就他)】`qieu6 ta` <sup>[兴化]</sup> ① 好了：～，行吖。 ② 算了：你同我～吧！  
-1. 【[就他](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_ta.md#就他)】`qieu6 ta` ① <sup>\[如东\]</sup>算了吧：～吧，不要管吖。<sup>\[如东\]</sup> ② <sup>\[兴化\]</sup>好了：～，行吖。<sup>\[兴化\]</sup> ③ <sup>\[兴化\]</sup>算了：你同我～吧！<sup>\[兴化\]</sup>  
+1. 【[就他](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_ta.md#就他)】`qieu6 ta` ① <sup>\[如东\]\[兴化\]</sup>算了：～吧，不要管吖。<sup>\[如东\]</sup>｜你同我～吧！<sup>\[兴化\]</sup> ② <sup>\[兴化\]</sup>好了：～，行吖。<sup>\[兴化\]</sup>  
 1. 【[就他吧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_ta_ba.md#就他吧)】`qieu6 ta1 ba` <sup>[泰县]</sup> 马马虎虎：这件事就～，算吖。  
 1. 【[就它](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_ta.md#就它)】`qieu6 ta5` <sup>[东台]</sup> （口头禅）就这样，算了吧。  
 1. 【[就汤卷饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_tan_jiun_bien.md#就汤卷饼)】`qieu6 tan1 jiun3 bien3` <sup>[东台]</sup> ［喻］顺着有利趋势做事。  
@@ -1474,8 +1472,7 @@
 1. 【[撬子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_zz.md#撬子)】`qio5 zz` <sup>[如东]</sup> 一种农具。木制，条形，长一尺，一头尖，一头平，尖的一头钻一个孔，用一尺多长的麻绳穿连起来，夹住稻秸摔打脱粒。  
 1. 【[窍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#窍)】`qio5` <sup>[如皋]</sup> 肛门（*躈）：你不要没～，做绝事要促阳寿的。  
 1. 【[缲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#缲)】`qio5` <sup>[泰州]</sup> ① （泰州词典作敽） ② 一种缝纫方法，先将布料毛边向内卷进，然后藏着针脚缝制：～边  
-1. 【[翘/趬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#翘/趬)】`qio5` <sup>[如皋]</sup> 贬指死：他～掉啊。  
-1. 【[翘/趬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#翘/趬)】`qio5` <sup>[如东]</sup> 杆或板一头高起来了：木板那头～起来啊。近代白话作“趬”。  
+1. 【[翘/趬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#翘/趬)】`qio5` ① <sup>\[如皋\]</sup>贬指死：他～掉啊。<sup>\[如皋\]</sup> ② <sup>\[如东\]</sup>杆或板一头高起来了：木板那头～起来啊。近代白话作“趬”。<sup>\[如东\]</sup>  
 1. 【[翘顶搭<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_dien_daeh_r.md#翘顶搭<sub>儿</sub>)】`qio5 dien3 daeh7 r` <sup>[如东]</sup> 人躺着，顶搭儿直直地竖着，说明人已死了  
 1. 【[翘角<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_gah_r.md#翘角<sub>儿</sub>)】`qio5 gah7 r` <sup>[如皋]</sup> 贬指死。  
 1. 【[翘官<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_gun_r.md#翘官<sub>儿</sub>)】`qio5 gun1 r` <sup>[如东]</sup> 一种发型，头发在头顶打成一个高髻。  
@@ -1601,8 +1598,6 @@
 1. 【[圈令](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_lien.md#圈令)】`qiun1 lien6` <sup>[如皋]</sup> ① 来回：跑～、转～。 ② 量词，来回：一个～。  
 1. 【[圈盘腿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_pun_ty_r.md#圈盘腿<sub>儿</sub>)】`qiun1 pun2 ty3 r` <sup>[如皋]</sup> “o”型腿。幼年缺鈣造成的畸型腿。  
 1. 【[圈圈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_qiun_r.md#圈圈<sub>儿</sub>)】`qiun1 qiun1 r` <sup>[如东]</sup> ① 在一个地方旋转：打～ ② 一种圆形的箍：推～。  
-1. 【[圈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_r.md#圈<sub>儿</sub>)】`qiun1 r` <sup>[如皋]</sup> 耳环及其他环状物。  
-1. 【[圈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_r.md#圈<sub>儿</sub>)】`qiun1 r` <sup>[泰州]</sup> 太阳月亮周围的光圈：亮月子边上有个～。  
 1. 【[圈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_r.md#圈<sub>儿</sub>)】`qiun1 r` ① <sup>\[如皋\]</sup>耳环及其他环状物。 ② <sup>\[泰州\]</sup>太阳月亮周围的光圈：亮月子边上有个～。<sup>\[泰州\]</sup>  
 1. 【[圈套](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_to.md#圈套)】`qiun1 to5` <sup>[如东]</sup> 使人上当受骗的计谋：中吖～。  
 1. 【[全班执事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_baen_zheh_shr.md#全班执事)】`qiun2 baen1 zheh7 shr6` <sup>[东台]</sup> 全体人员（略含讥讽之意）：好家伙，～都来啊！  
