@@ -1697,9 +1697,7 @@
 1. 【[梢瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_gua.md#梢瓜)】`sho1 gua1` ① <sup>\[东台\]</sup>菜瓜。见《本草纲目》。 ② <sup>\[兴化\]</sup>即越瓜、葫芦科，为甜瓜的一个变种。瓠果圆筒形，较长，前端略粗，表面有瓦垄般隆起的条痕。瓜成熟后可生吃、凉拌菜，但主要用作腌菜或酱菜。  
 1. 【[梢身大汉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_shen_da_hun.md#梢身大汉)】`sho1 shen1 da6 hun5` <sup>[如东]</sup> 形容人的身体高大：他是个～，还怕你啊！  
 1. 【[梢袋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_tae.md#梢袋)】`sho1 tae6` <sup>[如东]</sup> 鱼网的尾，形状像袋，所以叫做梢袋。  
-1. 【[烧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho.md#烧)】`sho1` <sup>[如东]</sup> ① 使东西着火：草堆～起来啊。 ② 一种烹调方法。把菜肴放在锅中炒熟或煮熟。  
-1. 【[烧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho.md#烧)】`sho1` <sup>[泰州]</sup> 焚烧纸钱祭祀亲人：他家信基督，清明这天不烧。  
-1. 【[烧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho.md#烧)】`sho1` ① <sup>\[如东\]</sup>使东西着火：草堆～起来啊。<sup>\[如东\]</sup> ② <sup>\[如东\]</sup>一种烹调方法。把菜肴放在锅中炒熟或煮熟。 ③ <sup>\[泰州\]</sup>焚烧纸钱祭祀亲人：他家信基督，清明这天不烧。<sup>\[泰州\]</sup>  
+1. 【[烧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho.md#烧)】`sho1` ① <sup>\[如东\]</sup>使东西着火：草堆～起来啊。<sup>\[如东\]</sup> ② <sup>\[如东\]</sup>一种烹调方法。把菜肴放在锅中炒熟或煮熟。 ③ <sup>\[泰州\]</sup>焚烧纸钱祭祀亲人：他家信基督，清明这天不～。<sup>\[泰州\]</sup>  
 1. 【[烧啊洇吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_a_ien_nga.md#烧啊洇吖)】`sho1 a ien5 nga` <sup>[如皋]</sup> 燃烧彻底。  
 1. 【[烧啊煮、连吖补、跑啊买、扫啊搌、洗啊漉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_a_zhv_lin_nga_bv_po_a_mae_so_a_zhin_xi_a_loh.md#烧啊煮、连吖补、跑啊买、扫啊搌、洗啊漉)】`sho1 a zhv3 lin2 nga bv3 po2 a mae3 so3 a zhin3 xi3 a loh8` <sup>[如皋]</sup> 泛指家中生活杂事。  
 1. 【[烧饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_bien.md#烧饼)】`sho1 bien3` ① <sup>\[如皋\]</sup>农村中有些地方称摊饼为摊～。 ② <sup>\[如东\]</sup>糕点的一种。面粉经过发酵，加工成饼状，里面包馅儿，一面粘上芝麻，放在炉中烤熟。  
