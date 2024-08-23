@@ -2654,7 +2654,7 @@
 1. 【[竖在](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_zae.md#竖在)】`shv6 zae` <sup>[泰县]</sup> 无论如何，反正：～我要去。  
 1. 【[竖砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_zhun.md#竖砖)】`shv6 zhun1` <sup>[如皋]</sup> 长边向上砌的砖。  
 1. 【[嗾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so.md#嗾)】`so1` <sup>[泰州]</sup> 发出使狗咬人的声音：老远就听见他～啊～的唤狗子。  
-1. 【[搔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so.md#搔)】`so1` ① <sup>\[如东\]</sup>脚在地上乱蹬：鸡子死前脚乱～<sup>\[如东\]</sup> ② <sup>\[泰县\]</sup>蹬脚：鸡子死前脚直～。  
+1. 【[搔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so.md#搔)】`so1` <sup>\[如东\]\[泰县\]</sup>蹬（脚）：鸡子死前脚乱～<sup>\[如东\]</sup>｜鸡子死前脚直～。<sup>\[泰县\]</sup>  
 1. 【[搔搔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_so.md#搔搔)】`so1 so1` <sup>[如东]</sup> 寻，找：今朝我也出去～。  
 1. 【[搔腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_tuei.md#搔腿)】`so1 tuei3` <sup>[兴化]</sup> ① 两腿不停地蹬来蹬去：他仰吖地下～。 ② （贬）死亡前的挣扎。  
 1. 【[搔心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_xien.md#搔心)】`so1 xien1` <sup>[兴化]</sup> 使人心动当真：他这几句～话把小徐弄得神魂颠倒的。｜人家是老实人，你覅玩～。  
@@ -2720,7 +2720,7 @@
 1. 【[燥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so.md#燥)】`so5` <sup>[如皋]</sup> 干燥：天～、风～天。  
 1. 【[燥市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_shr.md#燥市)】`so5 shr6` <sup>[如皋]</sup> 特别畅销的行情。  
 1. 【[臊气娘娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_qi_nian_nian.md#臊气娘娘)】`so5 qi nian2 nian` <sup>[兴化]</sup> 即“马陆”，一种小型节肢动物，暗红色，触角和步足极细，生活在阴湿的地方，有臭腺孔，能放出像胺那样的气味。  
-1. 【[𢜶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so.md#𢜶)】`so5` ① <sup>\[如皋\]</sup>快、即将：你～点儿来。 ② <sup>\[东台\]</sup>快。与“速”音义相近。（《集韵》“先到切，快也”）：你～点儿跑，不然赶不上。<sup>\[东台\]</sup> ③ <sup>\[兴化\]</sup>快：～点跑。《集韵·号韵》先到切<sup>\[兴化\]</sup>｜“～，快也。”<sup>\[兴化\]</sup> ④ <sup>\[泰州\]</sup>快：你～点ㄦ跑，不然上班就来不洎唻。<sup>\[泰州\]</sup>  
+1. 【[𢜶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so.md#𢜶)】`so5` <sup>\[如皋\]\[东台\]\[兴化\]\[泰州\]</sup>快（《集韵》“先到切，快也”）：你～点儿来。<sup>\[如皋\]</sup>｜你～点儿跑，不然赶不上。<sup>\[东台\]</sup>｜～点跑。<sup>\[兴化\]</sup>｜你～点ㄦ跑，不然上班就来不洎唻。<sup>\[泰州\]</sup>  
 1. 【[𢜶大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_da.md#𢜶大)】`so5 da` <sup>[如皋]</sup> 快，迅速。  
 1. 【[𢜶大点<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_da_din_r.md#𢜶大点<sub>儿</sub>)】`so5 da din3 r` <sup>[泰县]</sup> 快点：你～来，捉住这条狗子。  
 1. 【[𢜶打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_da.md#𢜶打)】`so5 da` <sup>[兴化]</sup> 形容快捷：现在交通便利，不管到哪许总蛮～的。也作“棱剌”。  

@@ -271,9 +271,7 @@
 1. 【[人物头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_veh_teu_r.md#人物头<sub>儿</sub>)】`ren2 veh8 teu2 r` <sup>[兴化]</sup> 指拔尖的、了不起的人：他往人前一站，还真像个～。  
 1. 【[人物头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_veh_teu_zz.md#人物头子)】`ren2 veh8 teu2 zz` ① <sup>\[如皋\]</sup>贬指、嘲讽用语。 ② <sup>\[泰兴\]</sup>才能杰出、声望卓著、有地位的人。有时用于讽刺挖苦自以为了不起的人：才当吖个班长，就神气国国的，充起～的派头来。<sup>\[泰兴\]</sup>  
 1. 【[人心都是肉做的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_xien_du_shr_roh_zu_dii.md#人心都是肉做的)】`ren2 xien1 du1 shr6 roh8 zu5 dii` <sup>[东台]</sup> 人要有慈悲心肠。  
-1. 【[人心隔肚皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_xien_geh_dv_pi.md#人心隔肚皮)】`ren2 xien1 geh7 dv3 pi2` <sup>[东台]</sup> 人的内心世界别人很难知道。  
-1. 【[人心隔肚皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_xien_geh_dv_pi.md#人心隔肚皮)】`ren2 xien1 geh7 dv3 pi2` <sup>[泰兴]</sup> 谓人的心思难以猜测。  
-1. 【[人心隔肚皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_xien_geh_dv_pi.md#人心隔肚皮)】`ren2 xien1 geh7 dv3 pi2` ① <sup>\[东台\]</sup>人的内心世界别人很难知道。 ② <sup>\[泰兴\]</sup>谓人的心思难以猜测。  
+1. 【[人心隔肚皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_xien_geh_dv_pi.md#人心隔肚皮)】`ren2 xien1 geh7 dv3 pi2` <sup>\[东台\]\[泰兴\]</sup>谓人的心思难以猜测。  
 1. 【[人心齐，泰山移，万众一心，黄土变金](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_xien_qi_tae_shaen_i_vaen_zhon_ieh_xien_huan_tv_bin_jien.md#人心齐，泰山移，万众一心，黄土变金)】`ren2 xien1 qi2 tae5 shaen1 i2 vaen6 zhon5 ieh7 xien1 huan2 tv3 bin5 jien1` <sup>[东台]</sup> 同心协力最重要。  
 1. 【[人心总是肉长的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_xien_zon_shr.md#人心总是肉长的)】`ren2 xien1 zon3 shr6 roh8 zhan3 dii` <sup>\[泰兴\]</sup>指人的言行要讲道德良心  
 1. 【[人形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_xien.md#人形)】`ren2 xien2` <sup>[泰兴]</sup> 人的形象、风貌。常与否定词连用于责备人：箇个伢儿没得～。  

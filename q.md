@@ -505,10 +505,7 @@
 1. 【[七缠八缠的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_chin_baeh_chin_dii.md#七缠八缠的)】`qieh7 chin6 baeh7 chin6 dii` <sup>[如皋]</sup> 状纠缠不清。  
 1. 【[七出](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_chueh.md#七出)】`qieh7 chueh7` <sup>[泰兴]</sup> 旧社会丈夫遗弃妻子的七种条款。“七出”谓：无子，淫佚，不事舅姑，口舌，盗窃，妒忌，恶疾。乡人有初春“七不出，八不归”之俗，云“正月初七不出门，”疑因此而来，盖今人不知“七出”之说也。  
 1. 【[七串联](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_chun_lin.md#七串联)】`qieh7 chun5 lin2` <sup>[如东]</sup> 风筝的一种。用竹条做骨架，扎成六角形，上面糊银皮纸。七只六角风筝联在一起称七串联。最多的三十二串联。  
-1. 【[七簇星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_coh_xien.md#七簇星)】`qieh7 coh7 xien1` <sup>[如皋]</sup> ① 海豚座七星密集，谓之。 ② 用七只圆圈串联成的风筝，下有绳尾。  
-1. 【[七簇星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_coh_xien.md#七簇星)】`qieh7 coh7 xien1` <sup>[如东]</sup> 海豚座七星密集，称七簇星。  
-1. 【[七簇星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_coh_xien.md#七簇星)】`qieh7 coh7 xien1` <sup>[泰兴]</sup> 北斗星。  
-1. 【[七簇星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_coh_xien.md#七簇星)】`qieh7 coh7 xien1` ① <sup>\[如皋\]</sup>海豚座七星密集，谓之。 ② <sup>\[如皋\]</sup>用七只圆圈串联成的风筝，下有绳尾。 ③ <sup>\[如东\]</sup>海豚座七星密集，称七簇星。 ④ <sup>\[泰兴\]</sup>北斗星。  
+1. 【[七簇星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_coh_xien.md#七簇星)】`qieh7 coh7 xien1` ① <sup>\[如皋\]\[如东\]</sup>海豚座七星密集，谓之。 ② <sup>\[如皋\]</sup>用七只圆圈串联成的风筝，下有绳尾。 ③ <sup>\[泰兴\]</sup>北斗星。  
 1. 【[七葱八蒜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_con_baeh_sun.md#七葱八蒜)】`qieh7 con1 baeh7 sun5` <sup>[如皋]</sup> 农历七月栽葱，八月栽蒜。  
 1. 【[七坐八爬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_cu_baeh_pa.md#七坐八爬)】`qieh7 cu6 baeh7 pa2` <sup>[东台]</sup> 婴儿到了七个月就能坐起来，八个月就会爬了。  
 1. 【[七坐八爬，半岁出牙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_cu_baeh_pa.md#七坐八爬，半岁出牙)】`qieh7 cu6 baeh7 pa2 bun5 suei5 chueh7 nga2` <sup>[泰兴]</sup> 谓小孩七八个月就会坐爬了，六个月大开始长乳牙，这是民间对婴儿成长的经验总结。  
@@ -1389,10 +1386,6 @@
 1. 【[缲边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_bin.md#缲边)】`qio1 bin1` <sup>[东台]</sup> 缝纫方法，把布边卷进去，藏着针脚缝。  
 1. 【[缲缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_fon.md#缲缝)】`qio1 fon6` <sup>[如东]</sup> 做衣服边儿时，把布边儿卷进去，藏着针脚缝合。  
 1. 【[缲纽扣<sub>儿</sub>条<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_nieu_keu_r_tio_r.md#缲纽扣<sub>儿</sub>条<sub>儿</sub>)】`qio1 nieu3 keu1 r tio2 r` <sup>[如皋]</sup> 将“斜口”横卷，“缲”成条，供打“桃儿”、做“纽扣儿”用。  
-1. 【[跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#跷)】`qio1` <sup>[如皋]</sup> 作梗：你做事，他总同你～。  
-1. 【[跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#跷)】`qio1` <sup>[泰州]</sup> 舌头僵硬不能活动：你哿是嘴里发咖～，问你话怎吖不说的？  
-1. 【[跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#跷)】`qio1` <sup>[泰州]</sup> 以狡辩而刁难，以貌似正确的借口阻住某件事情不办：不是他～住啊，这件事就通过啊。｜拆迁总体顺利，就是他个人硬～，到现在都不曾搬。  
-1. 【[跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#跷)】`qio1` <sup>[泰州]</sup> ① 脚向上抬：你把脚～起来跨过去。 ② 抬脚搁在他物之上：你把腿子～啊人身上，不好。 ③ 泛指竖起：提到老王，各个～大拇指。  
 1. 【[跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#跷)】`qio1` ① <sup>\[如皋\]</sup>作梗：你做事，他总同你～。 ② <sup>\[泰州\]</sup>舌头僵硬不能活动：你哿是嘴里发咖～，问你话怎吖不说的？<sup>\[泰州\]</sup> ③ <sup>\[泰州\]</sup>以狡辩而刁难，以貌似正确的借口阻住某件事情不办：不是他～住啊，这件事就通过啊。<sup>\[泰州\]</sup>｜拆迁总体顺利，就是他个人硬～，到现在都不曾搬。<sup>\[泰州\]</sup> ④ <sup>\[泰州\]</sup>脚向上抬：你把脚～起来跨过去。<sup>\[泰州\]</sup> ⑤ <sup>\[泰州\]</sup>抬脚搁在他物之上：你把腿子～啊人身上，不好。<sup>\[泰州\]</sup> ⑥ <sup>\[泰州\]</sup>泛指竖起：提到老王，各个～大拇指。<sup>\[泰州\]</sup>  
 1. 【[跷的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_dii.md#跷的)】`qio1 dii` <sup>[如皋]</sup> 波折，不顺。  
 1. 【[跷二郎腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_er_lan_tuei.md#跷二郎腿)】`qio1 er6 lan tuei3` <sup>[兴化]</sup> 坐着的时候，把一条腿搁在另一条腿上的姿势。  
@@ -1432,13 +1425,6 @@
 1. 【[燋干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_gun.md#燋干)】`qio2 gun1` <sup>[如东]</sup> 干燥：稻草晒得～。  
 1. 【[瞧不上眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_beh_shan_ngaen.md#瞧不上眼)】`qio2 beh7 shan6 ngaen3` <sup>[如皋]</sup> 藐视、看不上眼。  
 1. 【[瞧举](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_jy.md#瞧举)】`qio2 jy3` <sup>[如东]</sup> 看得起：你不要～他不起。  
-1. 【[翘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#翘)】`qio2` 翘起，不平整。  
-1. 【[翘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#翘)】`qio2` <sup>[如皋]</sup> ① 不平：桌子面儿～啊。 ② 不正：碗口是～的。  
-1. 【[翘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#翘)】`qio2` <sup>[如东]</sup> 木板表面因受潮而不平：这块木板～啊。  
-1. 【[翘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#翘)】`qio2` <sup>[东台]</sup> 物体变形，不平整了：这块板子～掉啊，不好打门。  
-1. 【[翘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#翘)】`qio2` <sup>[兴化]</sup> 物翘而僵：杂木板一晒就～起来啊。  
-1. 【[翘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#翘)】`qio2` <sup>[泰县]</sup> 不正，不平：这张桌子有点儿～。  
-1. 【[翘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#翘)】`qio2` <sup>[泰州]</sup> 板状物体扭曲而高低不平：潮板子要放吖在家里慢慢阴干，不能在太阳心里晒，一晒就～啊唻。  
 1. 【[翘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#翘)】`qio2` ① 翘起，不平整。 ② <sup>\[如皋\]</sup>不平：桌子面儿～啊。 ③ <sup>\[如皋\]</sup>不正：碗口是～的。 ④ <sup>\[如东\]</sup>木板表面因受潮而不平：这块木板～啊。<sup>\[如东\]</sup> ⑤ <sup>\[东台\]</sup>物体变形，不平整了：这块板子～掉啊，不好打门。<sup>\[东台\]</sup> ⑥ <sup>\[兴化\]</sup>物翘而僵：杂木板一晒就～起来啊。<sup>\[兴化\]</sup> ⑦ <sup>\[泰县\]</sup>不正，不平：这张桌子有点儿～。 ⑧ <sup>\[泰州\]</sup>板状物体扭曲而高低不平：潮板子要放吖在家里慢慢阴干，不能在太阳心里晒，一晒就～啊唻。<sup>\[泰州\]</sup>  
 1. 【[翘二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_er.md#翘二)】`qio2 er6` <sup>[如皋]</sup> 用片编织的一种方法：一排经篾，二上二下两分后，压进一根纬。再右移一根经篾，继续两分压进纬篾，成品无孔。  
 1. 【[翘公笡母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_gon_jia_mu.md#翘公笡母)】`qio2 gon1 jia3 mu3` <sup>[东台]</sup> 形容不平整的样子，喻指言行不端正。（这里“笡”为又音）  
@@ -1480,9 +1466,6 @@
 1. 【[巧云](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_yen.md#巧云)】`qio3 yen2` ① <sup>\[如皋\]</sup>云景。俗谓“七月里看～”。初秋，天高气爽，云景变幻莫测。 ② <sup>\[如东\]</sup>阴历七月，南北气流交汇，云层变化多端，出现各种形状的云景，称巧云。民谣：“七月看巧云”，“七月巧云多。” ③ <sup>\[兴化\]</sup>阴历七月天空的云彩，仿佛各种图案：七月的云多变幻，当地叫做～。（汪曾祺《异秉》）<sup>\[兴化\]</sup>  
 1. 【[𥀣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#𥀣)】`qio3` <sup>[如皋]</sup> 不熨贴：～皮儿。  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#□)】`qio5` <sup>[泰州]</sup> ① （泰州词典作潐） ② 雨停露出太阳：早上雨还下得不小，下午天就～起来啊，出咖太阳。  
-1. 【[俏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#俏)】`qio5` <sup>[兴化]</sup> ① 炒菜时加上配头：炒虾仁～点儿豆芽菜。 ② 配菜：～头｜炒腰花弄点儿洋葱做～头。  
-1. 【[俏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#俏)】`qio5` <sup>[兴化]</sup> 天气由阴雨转晴：阴吖十几天，下午西北风一刮，天～起来啊。  
-1. 【[俏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#俏)】`qio5` <sup>[泰州]</sup> 行情变好，价格上涨：这两天黄瓜卖啊～起来啊。  
 1. 【[俏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#俏)】`qio5` ① <sup>\[兴化\]</sup>炒菜时加上配头：炒虾仁～点儿豆芽菜。<sup>\[兴化\]</sup> ② <sup>\[兴化\]</sup>配菜：～头<sup>\[兴化\]</sup>｜炒腰花弄点儿洋葱做～头。<sup>\[兴化\]</sup> ③ <sup>\[兴化\]</sup>天气由阴雨转晴：阴吖十几天，下午西北风一刮，天～起来啊。<sup>\[兴化\]</sup> ④ <sup>\[泰州\]</sup>行情变好，价格上涨：这两天黄瓜卖啊～起来啊。<sup>\[泰州\]</sup>  
 1. 【[俏波波](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_bu_bu.md#俏波波)】`qio5 bu1 bu1` <sup>[东台]</sup> 形容漂亮精巧的样子。  
 1. 【[俏市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_shr.md#俏市)】`qio5 shr6` <sup>[如皋]</sup> 畅销，价格上扬。另见“燥市”。  
@@ -1491,8 +1474,8 @@
 1. 【[撬子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_zz.md#撬子)】`qio5 zz` <sup>[如东]</sup> 一种农具。木制，条形，长一尺，一头尖，一头平，尖的一头钻一个孔，用一尺多长的麻绳穿连起来，夹住稻秸摔打脱粒。  
 1. 【[窍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#窍)】`qio5` <sup>[如皋]</sup> 肛门（*躈）：你不要没～，做绝事要促阳寿的。  
 1. 【[缲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#缲)】`qio5` <sup>[泰州]</sup> ① （泰州词典作敽） ② 一种缝纫方法，先将布料毛边向内卷进，然后藏着针脚缝制：～边  
-1. 【[翘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#翘)】`qio5` <sup>[如东]</sup> 杆或板一头高起来了：木板那头～起来啊。近代白话作“趬”。  
 1. 【[翘/趬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#翘/趬)】`qio5` <sup>[如皋]</sup> 贬指死：他～掉啊。  
+1. 【[翘/趬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#翘/趬)】`qio5` <sup>[如东]</sup> 杆或板一头高起来了：木板那头～起来啊。近代白话作“趬”。  
 1. 【[翘顶搭<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_dien_daeh_r.md#翘顶搭<sub>儿</sub>)】`qio5 dien3 daeh7 r` <sup>[如东]</sup> 人躺着，顶搭儿直直地竖着，说明人已死了  
 1. 【[翘角<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_gah_r.md#翘角<sub>儿</sub>)】`qio5 gah7 r` <sup>[如皋]</sup> 贬指死。  
 1. 【[翘官<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_gun_r.md#翘官<sub>儿</sub>)】`qio5 gun1 r` <sup>[如东]</sup> 一种发型，头发在头顶打成一个高髻。  
