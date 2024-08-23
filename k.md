@@ -141,9 +141,7 @@
 1. 【[䬵气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_qi.md#䬵气)】`kae2 qi5` ① <sup>\[如皋\]</sup>胃中气自口出。 ② <sup>\[东台\]</sup>嗳气。 ③ <sup>\[东台\]</sup>引申为开口说话：人家敲啊半天门，你团吖家里不～。<sup>\[东台\]</sup>  
 1. 【[䬵酸水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_sun_shuei.md#䬵酸水)】`kae2 sun1 shuei3` <sup>[如皋]</sup> 胃液自口出，极酸。表示胃部受凉或有毛病。  
 1. 【[䬵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#䬵)】`kae3` <sup>[如东]</sup> 胃里生成的气体从口中冒出来并发出声音。  
-1. 【[凯然](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_rin.md#凯然)】`kae3 rin2` <sup>[如东]</sup> 高兴，舒服：这件事做得～。  
-1. 【[凯然](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_rin.md#凯然)】`kae3 rin2` <sup>[如皋]</sup> 高兴  
-1. 【[凯然](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_rin.md#凯然)】`kae3 rin2` ① <sup>\[如东\]</sup>高兴，舒服：这件事做得～。<sup>\[如东\]</sup> ② <sup>\[如皋\]</sup>高兴  
+1. 【[凯然](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_rin.md#凯然)】`kae3 rin2` <sup>\[如东\]\[如皋\]</sup>高兴，舒服：这件事做得～。<sup>\[如东\]</sup>  
 1. 【[楷<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_r.md#楷<sub>儿</sub>)】`kae3 r` <sup>[东台]</sup> 指人写的字：他的两个～不丑。  
 1. 【[螘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#螘)】`kae3` <sup>[如皋]</sup> 蚜虫。又称“腻虫”。  
 1. 【[箇<sub>许</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#箇<sub>许</sub>)】`kae5` 这里。箇许geh7 hae连读。  
@@ -364,8 +362,7 @@
 1. 【[口敞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_chan.md#口敞)】`keu3 chan3` <sup>[兴化]</sup> 说话随便，不能保守秘密：你这个人～，机密事不能让你晓得。  
 1. 【[口重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_chon.md#口重)】`keu3 chon6` <sup>\[东台\]\[泰兴\]</sup>喜欢吃咸；菜肴偏咸：也称“口大”。<sup>\[泰兴\]</sup>  
 1. 【[口疮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_chuan.md#口疮)】`keu3 chuan1` <sup>[泰兴]</sup> 嘴角、口腔疾病。如“鹅口疮”。  
-1. 【[口大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_da.md#口大)】`keu3 da6` <sup>\[东台\]\[泰兴\]</sup>同“口重”（菜肴咸）\[东台：委婉说法\]  
-1. 【[口大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_da.md#口大)】`keu3 da6` ① <sup>\[兴化\]</sup>菜较咸：王师傅烧菜～。反之“口小”。<sup>\[兴化\]</sup> ② <sup>\[泰县\]</sup>太咸：这个菜～。  
+1. 【[口大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_da.md#口大)】`keu3 da6` <sup>\[东台\]\[泰兴\]\[兴化\]\[泰县\]</sup>（菜肴）咸。同“口重”。\[东台：委婉说法\]\[兴化：反之“口小”。\]：王师傅烧菜～。<sup>\[兴化\]</sup>｜这个菜～。<sup>\[泰县\]</sup>  
 1. 【[口大口小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_da_keu_xio.md#口大口小)】`keu3 da6 keu3 xio3` <sup>[东台]</sup> 指说话口气忽大忽小，与自己身份不相称。  
 1. 【[口带语](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_dae_y.md#口带语)】`keu3 dae5 y3` <sup>[东台]</sup> 说话时经常不自觉地说出来的词语，即口头禅，也称口头语：“没事没事”成吖他的～。  
 1. 【[口福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_foh.md#口福)】`keu3 foh` <sup>[泰兴]</sup> 能吃到好东西的运气，对饮食的享受。含诙谐意。也说“嘴福”。  

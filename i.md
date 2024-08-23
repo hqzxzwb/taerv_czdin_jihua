@@ -155,11 +155,7 @@
 1. 【[鸦呱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_gua.md#鸦呱)】`ia1 gua1` ① <sup>\[东台\]</sup>絮絮叨叨，反复啰嗦。 ② <sup>\[泰县\]</sup>喜欢说闲话、啰唆：你怎吖这吖～？<sup>\[泰县\]</sup>  
 1. 【[鸦虎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_hv.md#鸦虎)】`ia1 hv` ① <sup>\[如皋\]</sup>一种驯养行猎的猛禽。 ② <sup>\[如东\]</sup>鹰科动物隼。体型比鷹小，翅膀窄而尖，嘴短而宽，上嘴弯曲并有齿状突起。飞得很快。善于袭击其他鸟类，是凶猛的鸟。  
 1. 【[㝞𡤫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_qia.md#㝞𡤫)】`ia2 qia2` <sup>[泰县]</sup> 言行举止矫揉造作、穿着打扮卖弄风骚：长得～。  
-1. 【[爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia.md#爷)】`ia2` 爸爸（多用于指称）  
-1. 【[爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia.md#爷)】`ia2` <sup>[如皋]</sup> 父亲。  
-1. 【[爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia.md#爷)】`ia2` <sup>[如东]</sup> 父亲。  
-1. 【[爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia.md#爷)】`ia2` <sup>[兴化]</sup> 父亲：儿大不由～，伢儿大啊，做老子的也难管。  
-1. 【[爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia.md#爷)】`ia2` ① 爸爸（多用于指称） ② <sup>\[如皋\]</sup>父亲。 ③ <sup>\[如东\]</sup>父亲。 ④ <sup>\[兴化\]</sup>父亲：儿大不由～，伢儿大啊，做老子的也难管。<sup>\[兴化\]</sup>  
+1. 【[爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia.md#爷)】`ia2` <sup>\[如皋\]\[如东\]\[兴化\]</sup>父亲（多用于指称）：儿大不由～，伢儿大啊，做老子的也难管。<sup>\[兴化\]</sup>  
 1. 【[爷儿两个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_er_laen_gu.md#爷儿两个)】`ia2 er laen3 gu` <sup>[东台]</sup> 爷儿俩，即父子或父亲和女儿两人。（这里爷不是指祖父）  
 1. 【[爷儿门里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_er_men_lii.md#爷儿门里)】`ia2 er2 men2 lii` <sup>[如皋]</sup> 父亲与子女的关系称。  
 1. 【[爷狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_geu.md#爷狗)】`ia2 geu3` <sup>[如东]</sup> 公狗。  
@@ -175,12 +171,7 @@
 1. 【[衙门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_men.md#衙门)】`ia2 men` <sup>[如东]</sup> 旧时官员办公的机关。  
 1. 【[雅趣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_qy.md#雅趣)】`ia2 qy` <sup>[兴化]</sup> 娇气：你真～，一点儿苦不能吃。  
 1. 【[雅序](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_xy.md#雅序)】`ia2 xy` <sup>[东台]</sup> ① （褒）清爽、整洁、高雅。 ② （贬）过分讲究衣着、起居，难伺候。（这里“雅”读阳平）  
-1. 【[也](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia.md#也)】`ia3` <sup>[东台]</sup> 副词“也（a3）”的又音。  
 1. 【[痒□<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_xia_r.md#痒□<sub>儿</sub>)】`ia3 xia r` <sup>[如皋]</sup> 痒丝丝而有难奈的感觉。  
-1. 【[野](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia.md#野)】`ia3` <sup>[如皋]</sup> ① 偏题：他说咖～掉啊，不曾对到题目。 ② 疏远、不融洽：两个人的关系越处越～。  
-1. 【[野](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia.md#野)】`ia3` <sup>[如东]</sup> ① 不驯服：这头牛～。 ② 规定的圆口拉宽了或变形了：衣领子拉～啊。  
-1. 【[野](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia.md#野)】`ia3` <sup>[东台]</sup> ① 野外，自然生成的：～兔； ② ［引］蛮不讲理：这人说话太～； ③ ［动］在外面乱跑：这个伢儿不晓得～啊哪块去啊。  
-1. 【[野](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia.md#野)】`ia3` <sup>[泰州]</sup> 悄悄离开：马上就要开饭，他人又不晓得～啊哪块去啊。｜下午的会开的半里半作的，老李人就～掉唻。  
 1. 【[野](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia.md#野)】`ia3` ① <sup>\[如皋\]</sup>偏题：他说咖～掉啊，不曾对到题目。<sup>\[如皋\]</sup> ② <sup>\[如皋\]</sup>疏远、不融洽：两个人的关系越处越～。<sup>\[如皋\]</sup> ③ <sup>\[如东\]</sup>不驯服：这头牛～。<sup>\[如东\]</sup> ④ <sup>\[如东\]</sup>规定的圆口拉宽了或变形了：衣领子拉～啊。<sup>\[如东\]</sup> ⑤ <sup>\[东台\]</sup>野外，自然生成的：～兔；<sup>\[东台\]</sup> ⑥ <sup>\[东台\]</sup>［引］蛮不讲理：这人说话太～；<sup>\[东台\]</sup> ⑦ <sup>\[东台\]</sup>［动］在外面乱跑：这个伢儿不晓得～啊哪块去啊。<sup>\[东台\]</sup> ⑧ <sup>\[泰州\]</sup>悄悄离开：马上就要开饭，他人又不晓得～啊哪块去啊。<sup>\[泰州\]</sup>｜下午的会开的半里半作的，老李人就～掉唻。<sup>\[泰州\]</sup>  
 1. 【[野啊汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_a_tan.md#野啊汤)】`ia3 a tan1` <sup>[如皋]</sup> 下锅汤放得过多。  
 1. 【[野啊心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_a_xien.md#野啊心)】`ia3 a xien1` <sup>[东台]</sup> 心神不定，兴趣外移。  
@@ -232,8 +223,6 @@
 1. 【[亚麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_ma.md#亚麻)】`ia5 ma2` <sup>[如东]</sup> 亚麻科植物亚麻，又名胡麻，一年生草本。高约90厘米。茎直立，基部稍木质化，分枝少。叶互生，无柄，叶片线形，全缘。花多数，蓝白或白色，生于分枝顶端及上部叶腋内。蒴果球形。种子卵形，棕色。栽培。  
 1. 【[讶口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_keu.md#讶口)】`ia5 keu3` <sup>[兴化]</sup> 口吻：这种～真叫人受不了。  
 1. 【[呀子唔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_zz_v.md#呀子唔)】`ia6 zz v3` <sup>[兴化]</sup> 形容随随便便，不负责任：他是一头～，说的话当不得真。也说“呀呀唔。”  
-1. 【[夜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia.md#夜)】`ia6` <sup>[如皋]</sup> ① 名词：外头～啊。 ② 动词：外头～得早。  
-1. 【[夜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia.md#夜)】`ia6` <sup>[泰州]</sup> 春节之前十天，每一天都称为“夜”，如腊月二十称“二十夜”：我俫工地上二十七～就放假唻。  
 1. 【[夜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia.md#夜)】`ia6` ① <sup>\[如皋\]</sup>名词：外头～啊。<sup>\[如皋\]</sup> ② <sup>\[如皋\]</sup>动词：外头～得早。<sup>\[如皋\]</sup> ③ <sup>\[泰州\]</sup>春节之前十天，每一天都称为“夜”，如腊月二十称“二十夜”：我俫工地上二十七～就放假唻。<sup>\[泰州\]</sup>  
 1. 【[夜啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_a.md#夜啊)】`ia6 a` <sup>[如皋]</sup> 天暗了，天黑了。  
 1. 【[夜邦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_ban.md#夜邦)】`ia6 ban1` <sup>[泰县]</sup> 夜里开的固定航线的客船。  
@@ -837,9 +826,6 @@
 1. 【[一连<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_lin_r.md#一连<sub>儿</sub>)】`ieh7 lin2 r` <sup>[如皋]</sup> 接连不断地：一路上，他～碰到啊多少老同学。  
 1. 【[一脸相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_lin_xian.md#一脸相)】`ieh7 lin3 xian5` <sup>[兴化]</sup> 性格内向，见人不苟言笑：他为人忠厚，就是有点儿～。  
 1. 【[一了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_lio.md#一了)】`ieh7 lio3` ① <sup>\[兴化\]</sup>本来：滴珠～喜欢这个干净房卧，又……（《初刻》二）<sup>\[兴化\]</sup> ② <sup>\[兴化\]</sup>最初：我～在兴中读书。<sup>\[兴化\]</sup>｜“我～不说价，五贯足钱一桶，十贯一担。”（《水浒传》十六）<sup>\[兴化\]</sup> ③ <sup>\[泰县\]</sup>一向：他～在北京。/那汉子道：“我～不说价，五贯足钱一桶，十贯一担。”（水浒·16回）  
-1. 【[一了百了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_lio_boh_lio.md#一了百了)】`ieh7 lio3 boh7 lio3` <sup>[如皋]</sup> 一了百了。  
-1. 【[一了百了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_lio_boh_lio.md#一了百了)】`ieh7 lio3 boh7 lio3` <sup>[如东]</sup> ① 主要的事情解决了，其他的小事也跟着解决了。 ② 比喻人死以后，一切事情都丢下了，不管了：人一死，～。  
-1. 【[一了百了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_lio_boh_lio.md#一了百了)】`ieh7 lio3 boh7 lio3` <sup>[泰兴]</sup> 谓主要的事情了结，其它的一切也跟着了结。  
 1. 【[一了百了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_lio_boh_lio.md#一了百了)】`ieh7 lio3 boh7 lio3` ① <sup>\[如皋\]</sup>一了百了。 ② <sup>\[如东\]</sup>主要的事情解决了，其他的小事也跟着解决了。 ③ <sup>\[如东\]</sup>比喻人死以后，一切事情都丢下了，不管了：人一死，～。<sup>\[如东\]</sup> ④ <sup>\[泰兴\]</sup>谓主要的事情了结，其它的一切也跟着了结。  
 1. 【[一了百净](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_lio_boh_qien.md#一了百净)】`ieh7 lio3 boh7 qien6` <sup>[兴化]</sup> 了却牵挂：老婆离啊，伢儿死啊，从此～。俗语｜寡妇化牌子，～。  
 1. 【[一了百尽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_lio_boh_qien.md#一了百尽)】`ieh7 lio3 boh7 qien6` <sup>[如皋]</sup> 关键事做完就没有遗留问题了。  
@@ -972,9 +958,7 @@
 1. 【[一手泥墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_sheu_ni_qian.md#一手泥墙)】`ieh7 sheu3 ni2 qian2` <sup>[兴化]</sup> （喻）在完成某件事后，趁便把相关的事做好：等打好橱柜，请你～把门窗修理下子。  
 1. 【[一手托两家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_sheu_tah_laen_ga.md#一手托两家)】`ieh7 sheu3 tah7 laen3 ga1` ① <sup>\[东台\]</sup>含有中介的意味，由于身份特殊，可以代表两方意愿促成合作或交换的意向。 ② <sup>\[东台\]</sup>一人可代表双方说话。 ③ <sup>\[兴化\]</sup>在一件事上公平地为两家出力：我俫做中介的总是～，要让甲方满意，乙方也不吃亏。<sup>\[兴化\]</sup> ④ 喻对双方持同样的态度，平等相待，不偏颇任何一方：要我处理你们之间的事肯定是一手托两家，公平合理。  
 1. 【[一扇笼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_shin_lon.md#一扇笼)】`ieh7 shin5 lon2` <sup>[如皋]</sup> 蒸笼的每一层（屉），内有笼子和笼垫儿或笼布等配套用品。  
-1. 【[一肖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_sho.md#一肖)】`ieh7 sho5` <sup>[如东]</sup> 十二个生肖，称一肖。比喻十二：你比他小～。  
-1. 【[一肖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_sho.md#一肖)】`ieh7 sho5` <sup>[东台]</sup> 年龄相差12岁。（地支与生肖相配，一轮12年。这里“肖”读若“少”）：我比他大～。  
-1. 【[一肖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_sho.md#一肖)】`ieh7 sho5` ① <sup>\[如东\]</sup>十二个生肖，称一肖。比喻十二：你比他小～。<sup>\[如东\]</sup> ② <sup>\[东台\]</sup>年龄相差12岁。（地支与生肖相配，一轮12年。这里“肖”读若“少”）：我比他大～。<sup>\[东台\]</sup>  
+1. 【[一肖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_sho.md#一肖)】`ieh7 sho5` <sup>\[如东\]\[东台\]</sup>（年龄差距）十二：你比他小～。<sup>\[如东\]</sup>｜我比他大～。<sup>\[东台\]</sup>  
 1. 【[一事一当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_shr_ieh_dan.md#一事一当)】`ieh7 shr ieh7 dan` <sup>[泰兴]</sup> 谓办事妥当，稳当，不慌不忙。  
 1. 【[一是一，二是二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_shr_ieh_er.md#一是一，二是二)】`ieh7 shr ieh7 er6 shr er6` <sup>[泰兴]</sup> 指是什么就是什么，绝不虚构；或称办事稳妥，老老实实，说一不二。  
 1. 【[一时半间](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_shr_bun_gaen.md#一时半间)】`ieh7 shr2 bun5 gaen1` <sup>[兴化]</sup> ① 短暂的、临时的：～的上城里玩玩可以，长住不行。 ② 指很短的时间：～的到那块去找人吖？｜这件事～的想不起来。  

@@ -883,9 +883,7 @@
 1. 【[紧冻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_don.md#紧冻)】`jien3 don5` <sup>[兴化]</sup> 冬天连刮西北风，气温骤降，风停后河面封冻：风一停就～。  
 1. 【[紧房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_fan.md#紧房)】`jien3 fan2` <sup>[如皋]</sup> 同祖亲属，即“堂”。  
 1. 【[紧隔壁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_geh_bieh.md#紧隔壁)】`jien3 geh7 bieh7` ① <sup>\[如皋\]</sup>紧邻。 ② <sup>\[兴化\]</sup>指并列的房屋之间：“都头不消访问，王婆在～住，只问王婆就知了。”（《金瓶梅词话》九）<sup>\[兴化\]</sup>  
-1. 【[紧佮佮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_guh_guh.md#紧佮佮)】`jien3 guh7 guh7` <sup>[兴化]</sup> 形容很紧凑：他家住啊三间一厨房，～的。  
-1. 【[紧佮佮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_guh_guh.md#紧佮佮)】`jien3 guh7 guh7` <sup>[泰县]</sup> 松紧正好。  
-1. 【[紧佮佮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_guh_guh.md#紧佮佮)】`jien3 guh7 guh7` ① <sup>\[兴化\]</sup>形容很紧凑：他家住啊三间一厨房，～的。<sup>\[兴化\]</sup> ② <sup>\[泰县\]</sup>松紧正好。  
+1. 【[紧佮佮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_guh_guh.md#紧佮佮)】`jien3 guh7 guh7` ① <sup>\[兴化\]</sup>形容很紧凑\[兴化：（jien3 geh7 geh7）\]：他家住啊三间一厨房，～的。<sup>\[兴化\]</sup> ② <sup>\[泰县\]</sup>松紧正好。  
 1. 【[紧佮佮的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_guh_guh_dii.md#紧佮佮的)】`jien3 guh7 guh7 dii` <sup>[东台]</sup> 两物相合，缝隙很小：这双皮鞋穿吖脚上～。  
 1. 【[紧揖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_ieh.md#紧揖)】`jien3 ieh` <sup>[如东]</sup> 紧束：这种衣服穿吖身上～。  
 1. 【[紧脚鞋子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_jiah_hae_zz.md#紧脚鞋子)】`jien3 jiah hae2 zz` <sup>[兴化]</sup> 犹小鞋：你向他提意见，他背后弄个～把你穿穿。  

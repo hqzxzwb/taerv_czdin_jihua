@@ -2183,8 +2183,6 @@
 1. 【[呼吆喝六](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_io_huh_loh.md#呼吆喝六)】`hv1 io1 huh7 loh8` <sup>[兴化]</sup> ① 掷骰时的喊声（么、六是骰子的点子），泛指赌博时的喧闹声。 ② 形容盛气凌人的样子：（倪善继）见老子病势沉重，料是不起，便～，打童骂仆，预先装出家主公的架子来。（《古今小说》十）  
 1. 【[呼来喝去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_lae_huh_qy.md#呼来喝去)】`hv1 lae2 huh7 qy5` ① <sup>\[如皋\]</sup>粗暴叫喊使唤的样子。 ② <sup>\[东台\]</sup>用粗暴的声音使唤人：你这吖～的，哪个睬你呀？！<sup>\[东台\]</sup>  
 1. 【[呼辣气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_laeh_qi.md#呼辣气)】`hv1 laeh8 qi5` ① <sup>\[如东\]</sup>大蒜的一种特殊气味。 ② <sup>\[如皋\]</sup>葱蒜的气味。 ③ <sup>\[如皋\]</sup>指食葱蒜类食物后人体散发出的气味。  
-1. 【[烀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv.md#烀)】`hv1` 一种烹饪方法。把食物放在锅里，加少量的水，盖紧锅盖，加热使变熟。  
-1. 【[烀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv.md#烀)】`hv1` <sup>[兴化]</sup> 放少量的水，盖紧锅盖，对食物半蒸半煮：～山芋；～芋头。  
 1. 【[烀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv.md#烀)】`hv1` ① 一种烹饪方法。把食物放在锅里，加少量的水，盖紧锅盖，加热使变熟。 ② <sup>\[兴化\]</sup>放少量的水，盖紧锅盖，对食物半蒸半煮：～山芋；～芋头。<sup>\[兴化\]</sup>  
 1. 【[㾰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv.md#㾰)】`hv2` <sup>[如皋]</sup> 儿语，指疼。  
 1. 【[和精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_jien.md#和精)】`hv2 jien1` <sup>[如东]</sup> 比喻打牌非常精明的人。  
@@ -2285,11 +2283,6 @@
 1. 【[虎头鲨<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_teu_sha_r.md#虎头鲨<sub>儿</sub>)】`hv3 teu2 sha1 r` <sup>[如皋]</sup> 塘鳢。  
 1. 【[虎头蛇尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_teu_sha_vei.md#虎头蛇尾)】`hv3 teu2 sha2 vei3` <sup>[东台]</sup> 办事不能善始善终，开始认真，后来马虎了事。  
 1. 【[虎跳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_tio.md#虎跳)】`hv3 tio5` <sup>[如皋]</sup> 手着地腿伸直侧滚翻。  
-1. 【[𢮎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv.md#𢮎)】`hv3` <sup>[如皋]</sup> 敷放、抛洒：～种、～水、～粪、～灰，～泥。  
-1. 【[𢮎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv.md#𢮎)】`hv3` <sup>[东台]</sup> 播撒：把种子～啊田里/～水/赶在下雨前～化肥。  
-1. 【[𢮎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv.md#𢮎)】`hv3` <sup>[兴化]</sup> 倾倒、泼洒出来：家伙打掉了事小，油汤～在客家身上不像话（《武松》三）。～水（把水倒掉）；～粪（向田间泼洒粪肥）；～菜水（给菜地浇水）。担子打了翻掉了，炊饼打了～掉了。（《武松》一）  
-1. 【[𢮎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv.md#𢮎)】`hv3` <sup>[泰县]</sup> 泼撒：这盆脏水，～掉吧。  
-1. 【[𢮎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv.md#𢮎)】`hv3` <sup>[泰州]</sup> ① 泼水：洗过脸把水～啊阴沟头去。 ② 容器里的粒状糊状物因晃动或倾斜而洒出：淘个米把米～啊一地。  
 1. 【[𢮎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv.md#𢮎)】`hv3` ① <sup>\[如皋\]</sup>敷放、抛洒：～种、～水、～粪、～灰，～泥。<sup>\[如皋\]</sup> ② <sup>\[东台\]</sup>播撒：把种子～啊田里/～水/赶在下雨前～化肥。<sup>\[东台\]</sup> ③ <sup>\[兴化\]</sup>倾倒、泼洒出来：家伙打掉了事小，油汤～在客家身上不像话（《武松》三）。～水（把水倒掉）；～粪（向田间泼洒粪肥）；～菜水（给菜地浇水）。担子打了翻掉了，炊饼打了～掉了。（《武松》一）<sup>\[兴化\]</sup> ④ <sup>\[泰县\]</sup>泼撒：这盆脏水，～掉吧。<sup>\[泰县\]</sup> ⑤ <sup>\[泰州\]</sup>泼水：洗过脸把水～啊阴沟头去。<sup>\[泰州\]</sup> ⑥ <sup>\[泰州\]</sup>容器里的粒状糊状物因晃动或倾斜而洒出：淘个米把米～啊一地。<sup>\[泰州\]</sup>  
 1. 【[𢮎臭水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_cheu_shuei.md#𢮎臭水)】`hv3 cheu5 shuei3` ① <sup>\[如东\]</sup>把脏水泼出去。 ② <sup>\[如东\]</sup>背后说人坏话：她就喜欢～。<sup>\[如东\]</sup> ③ <sup>\[如皋\]</sup>背后说别人的坏话。败坏别人的声誉。 ④ <sup>\[东台\]</sup>揭露对方隐私或诋毁污蔑对方，称之为～。 ⑤ <sup>\[兴化\]</sup>（喻）揭短：他俫两个人有意见，对过～。<sup>\[兴化\]</sup> ⑥ <sup>\[泰县\]</sup>说人坏话。  
 1. 【[𢮎粪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_fen.md#𢮎粪)】`hv3 fen5` <sup>[如皋]</sup> 用料勺泼浇粪肥。  
@@ -2321,9 +2314,6 @@
 1. 【[护脏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_zan.md#护脏)】`hv6 zan1` <sup>[兴化]</sup> 外穿旧的、质差的衣服，或系围裙、套护袖等，以防把质料好的衣裳弄脏：……为了～，她马上拿出红布带子青短裙，往腰间一围一扎……（马春阳《扬州水乡婚俗散记》）  
 1. 【[瓠子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_zz.md#瓠子)】`hv6 zz` <sup>[如东]</sup> 葫芦科植物瓠子，一年生攀援草本。  
 1. 【[糊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv.md#糊)】`hv6` ① 粉碎，碎末 ② 面条久置粘连  
-1. 【[糊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv.md#糊)】`hv6` <sup>[如东]</sup> 碎：晒啊场上的花生捱踏～啊。  
-1. 【[糊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv.md#糊)】`hv6` <sup>[如皋]</sup> 变糊、涂粘：～眼眵、眼睛～起来啊。  
-1. 【[糊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv.md#糊)】`hv6` <sup>[泰州]</sup> 糊状物凝聚附着在物体上面：锅里的粥～住啊唻。｜身上块块～的是烂泥。  
 1. 【[糊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv.md#糊)】`hv6` ① 粉碎，碎末 ② 面条久置粘连 ③ <sup>\[如东\]</sup>碎：晒啊场上的花生捱踏～啊。<sup>\[如东\]</sup> ④ <sup>\[如皋\]</sup>变糊、涂粘：～眼眵、眼睛～起来啊。<sup>\[如皋\]</sup> ⑤ <sup>\[泰州\]</sup>糊状物凝聚附着在物体上面：锅里的粥～住啊唻。<sup>\[泰州\]</sup>｜身上块块～的是烂泥。<sup>\[泰州\]</sup>  
 1. 【[糊啊汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_a_tan.md#糊啊汤)】`hv6 a tan1` <sup>[如皋]</sup> ① 汤中有淀粉质而变得黏稠。 ② 地面成了一片泥浆地。  
 1. 【[糊糊<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_hv_r.md#糊糊<sub>儿</sub>)】`hv6 hv6 r` ① 碎末 ② <sup>\[如东\]</sup>一种面食。将面粉加水调匀，倒进开水中煮熟，似粥非粥，似块非块，叫做糊糊儿。 ③ <sup>\[如皋\]</sup>面糊状食品。  
