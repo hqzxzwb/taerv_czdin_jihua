@@ -787,7 +787,6 @@
 1. 【[炮仗打啊嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_zhan_da_a_jy.md#炮仗打啊嘴)】`po5 zhan5 da3 a jy3` <sup>[东台]</sup> ［喻］口出狂言，夸张离谱。  
 1. 【[炮仗捻子——一点就着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_zhan_nin_zz_ieh_din_qieu_chah.md#炮仗捻子——一点就着)】`po5 zhan5 nin3 zz ieh7 din3 qieu6 chah8` <sup>[东台]</sup>   
 1. 【[炮子<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_zz_r.md#炮子<sub>儿</sub>)】`po5 zz3 r` <sup>[兴化]</sup> ① 老式火炮的弹丸，如碎石、碎铁等。 ② 骂人遭炮轰：这个～，不得好死！  
-1. 【[刨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po.md#刨)】`po6` <sup>[泰县]</sup> 木刨：～子。  
 1. 【[刨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po.md#刨)】`po6` <sup>\[兴化\]</sup>刨削水果或冬瓜等的皮：～梨子。<sup>\[兴化\]</sup>  
 1. 【[刨床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_chuan.md#刨床)】`po6 chuan2` <sup>[如东]</sup> 车床的一种。有各种规格。用于加工金属材料的平面和直线。  
 1. 【[刨刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_do.md#刨刀)】`po6 do1` <sup>[如东]</sup> 创床上用来加工金属材料的刀具。  

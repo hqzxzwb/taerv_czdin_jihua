@@ -293,8 +293,6 @@
 1. 【[拉啊直咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_a_cheh_ga.md#拉啊直咖)】`la1 a cheh8 ga` <sup>[东台]</sup> ［喻］彻底揭穿事情真相。  
 1. 【[拉啊胡子过河——牵须过渡（谦虚过度）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_a_hv_zz_gu_hu_qin_xy_gu_tv.md#拉啊胡子过河——牵须过渡（谦虚过度）)】`la1 a hv2 zz gu5 hu2 qin1 xy1 gu5 tv6` <sup>[东台]</sup>   
 1. 【[拉㞎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ba.md#拉㞎)】`la1 ba3` <sup>[如皋]</sup> 照料不能自理者大便。  
-1. 【[拉把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ba.md#拉把)】`la1 ba3` <sup>[如东]</sup> 照顾，扶养：毛毛是奶奶～大的。  
-1. 【[拉把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ba.md#拉把)】`la1 ba3` <sup>[东台]</sup> ① 非常：看见你，我～的一欢喜。 ② 尽力：今天任务很多，各位还要～干，才能完成。  
 1. 【[拉把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ba.md#拉把)】`la1 ba3` ① <sup>\[如东\]</sup>照顾，扶养：毛毛是奶奶～大的。<sup>\[如东\]</sup> ② <sup>\[东台\]</sup>非常：看见你，我～的一欢喜。<sup>\[东台\]</sup> ③ <sup>\[东台\]</sup>尽力：今天任务很多，各位还要～干，才能完成。<sup>\[东台\]</sup>  
 1. 【[拉把的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ba_dii.md#拉把的)】`la1 ba3 dii` <sup>[如皋]</sup> 相当用力地：细伢儿养得好，坠手，要～一抱。  
 1. 【[拉不开闩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_beh_kae_shuaen.md#拉不开闩)】`la1 beh7 kae1 shuaen1` <sup>[如东]</sup> 比喻非常忙碌，非常困难：王光明忙吖～。  
@@ -310,6 +308,8 @@
 1. 【[拉寡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_gua.md#拉寡)】`la1 gua3` ① <sup>\[如东\]</sup>闲谈。 ② <sup>\[如皋\]</sup>闲扯，漫无目标地聊天，即便不相识也没关系。  
 1. 【[拉机](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ji.md#拉机)】`la1 ji1` 拉链。  
 1. 【[拉开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_kae.md#拉开)】`la1 kae1` <sup>[如东]</sup> 移开，分开：你把桌子～。  
+1. 【[拉拉扯扯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_la_cha_cha.md#拉拉扯扯)】`la1 la1 cha3 cha3` <sup>[如东]</sup> 纠缠不清：不要跟他俫～的。  
+1. 【[拉拉<sub>儿</sub>亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_la_r_qien.md#拉拉<sub>儿</sub>亲)】`la1 la1 r qien1` <sup>[如东]</sup> 很远的亲戚，拉扯起来的亲属关系：说起来我俫还是～哎。  
 [更多...](./l.md)
 ## M
 1. 【[呣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/m.md#呣)】`m` ① <sup>\[东台\]</sup>（叹词） ② <sup>\[东台\]</sup>表示应答、肯定：～，晓得咖，就这吖。<sup>\[东台\]</sup> ③ <sup>\[东台\]</sup>表示疑问：～？甚的？<sup>\[东台\]</sup> ④ <sup>\[东台\]</sup>表示警告：～！你敢！<sup>\[东台\]</sup> ⑤ <sup>\[兴化\]</sup>叹词，表答应。  

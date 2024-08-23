@@ -251,9 +251,7 @@
 1. 【[我](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ng.md#我)】`ng3` ① <sup>\[东台\]</sup>口语中的我：～俫是好同事<sup>\[东台\]</sup>｜～就不信这个邪！<sup>\[东台\]</sup> ② <sup>\[泰州\]</sup>第一人称。  
 1. 【[嗯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ng.md#嗯)】`ng5` <sup>[东台]</sup> （叹词）表示厌恶：～，好啦，重复的话不要再说！  
 1. 【[吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga.md#吖)】`nga` ① <sup>\[如皋\]</sup>语气助词，“啊”的变体，在阳声尾后出现：怎～、弄～、赢～。<sup>\[如皋\]</sup> ② 助词“啊a”在阳声韵后的变体，见“啊a”：醒吖（醒了）｜动吖（动了）。  
-1. 【[吖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#吖子)】`nga zz` 同“下子”，跟在阳声韵之后：望吖子；尝吖子。  
-1. 【[吖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#吖子)】`nga zz` 相当于“下子”，接在阳声韵之后：身子晃～。  
-1. 【[吖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#吖子)】`nga zz` ① 同“下子”，跟在阳声韵之后：望吖子；尝吖子。 ② 相当于“下子”，接在阳声韵之后：身子晃～。  
+1. 【[吖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#吖子)】`nga zz` 同“下子”，跟在阳声韵之后：望～；尝～。｜身子晃～。  
 1. 【[丫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga.md#丫)】`nga1` <sup>[泰兴]</sup> 树木或物体分叉的地方。如“树丫巴”。  
 1. 【[丫把<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_ba_r.md#丫把<sub>儿</sub>)】`nga1 ba3 r` <sup>[泰县]</sup> 东西交叉的地方。  
 1. 【[丫叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_cha.md#丫叉)】`nga1 cha` <sup>[如东]</sup> 工具，一端有两个齿，一端有一长柄。用来叉草。  
@@ -270,8 +268,6 @@
 1. 【[丫头婆娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_teu_pu_nian.md#丫头婆娘)】`nga1 teu pu2 nian` <sup>[兴化]</sup> 泛指未婚和已婚妇女。  
 1. 【[丫头人家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_teu_ren_ga.md#丫头人家)】`nga1 teu ren2 ga1` <sup>[泰兴]</sup> 女孩。含轻蔑意。  
 1. 【[丫须](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_xy.md#丫须)】`nga1 xy1` <sup>[东台]</sup> 用竹篾编成捕鳝鱼的工具，鳝鱼游进去就出不来。  
-1. 【[丫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#丫子)】`nga1 zz` <sup>[如东]</sup> 沙滩上的小型沟槽，称丫子。  
-1. 【[丫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#丫子)】`nga1 zz` <sup>[东台]</sup> 指潮水沟，港的分汊。  
 1. 【[丫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#丫子)】`nga1 zz` ① <sup>\[如东\]</sup>沙滩上的小型沟槽，称丫子。 ② <sup>\[东台\]</sup>指潮水沟，港的分汊。  
 1. 【[桠巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_ba.md#桠巴)】`nga1 ba` <sup>[兴化]</sup> ① 树干的分权处：谚曰：多个～多个节。 ② 两腿内侧的交汇处：这个鬼形不能见小叔子，裤子卷到大腿～，成何体统呀？（《武松》四）  
 1. 【[桠巴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_ba_r.md#桠巴<sub>儿</sub>)】`nga1 ba1 r` <sup>[如东]</sup> 树杆的分枝。  
@@ -325,10 +321,7 @@
 1. 【[牙𪣩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_ken.md#牙𪣩)】`nga2 ken5` ① <sup>\[东台\]</sup>牙齿表面黄褐色或黄色的污垢。 ② <sup>\[兴化\]</sup>牙齿表面黑褐色或黄色的污垢。  
 1. 【[牙棱子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_len_zz.md#牙棱子)】`nga2 len6 zz` ① 牙龈 ② <sup>\[如东\]</sup>牙床。  
 1. 【[牙楞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_len_zz.md#牙楞子)】`nga2 len6 zz` <sup>[如皋]</sup> 牙龈。  
-1. 【[牙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#牙子)】`nga2 zz` <sup>[如皋]</sup> 牙齿。  
-1. 【[牙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#牙子)】`nga2 zz` <sup>[兴化]</sup> ① 牙齿。 ② 像牙一样的东西：路～。 ③ 旧时买卖双方的中介人：房～｜鱼～。  
-1. 【[牙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#牙子)】`nga2 zz` <sup>[兴化]</sup> 旧称买卖、租赁的中介人。  
-1. 【[牙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#牙子)】`nga2 zz` ① <sup>\[如皋\]</sup>牙齿。 ② <sup>\[兴化\]</sup>牙齿。 ③ <sup>\[兴化\]</sup>像牙一样的东西：路～。<sup>\[兴化\]</sup> ④ <sup>\[兴化\]</sup>旧时买卖双方的中介人：房～<sup>\[兴化\]</sup>｜鱼～。<sup>\[兴化\]</sup> ⑤ <sup>\[兴化\]</sup>旧称买卖、租赁的中介人。  
+1. 【[牙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#牙子)】`nga2 zz` ① <sup>\[如皋\]\[兴化\]</sup>牙齿。 ② <sup>\[兴化\]</sup>像牙一样的东西：路～。<sup>\[兴化\]</sup> ③ <sup>\[兴化\]</sup>旧称买卖、租赁的中介人：房～<sup>\[兴化\]</sup>｜鱼～。<sup>\[兴化\]</sup>  
 1. 【[牙子咬起来撑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz_ngo_qi_lae_chen.md#牙子咬起来撑)】`nga2 zz ngo3 qi lae chen1` <sup>[如皋]</sup> 硬撑。  
 1. 【[牙子咬起来撑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz_ngo_qi_lae_chen.md#牙子咬起来撑)】`nga2 zz ngo3 qi3 lae chen1` <sup>[如皋]</sup> 尽力支撑。  
 1. 【[芽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga.md#芽)】`nga2` <sup>[兴化]</sup> 动词用法：稻、麦等受潮后发芽｜“……不能叫稻～了煮饭不香啊！”（马春阳《风里雨里》）  
@@ -346,11 +339,7 @@
 1. 【[哑噎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_ih.md#哑噎)】`nga3 ih7` <sup>[东台]</sup> 无话可说的样子。  
 1. 【[哑谜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_mi.md#哑谜)】`nga3 mi2` <sup>[如东]</sup> ① 隐晦的话。 ② 比喻难以猜测的问题：他在下跟你打～。  
 1. 【[哑蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_taen.md#哑蛋)】`nga3 taen6` <sup>[兴化]</sup> 壳上有璺的蛋：三斤～全卖把你，少收你一块钱。  
-1. 【[哑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#哑子)】`nga3 zz` <sup>[如皋]</sup> ① 哑巴。 ② 雌蝉，不鸣，尾部有刀状生殖器。  
-1. 【[哑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#哑子)】`nga3 zz` <sup>[如东]</sup> ① 不会说话的人。 ② 雌性昆虫不会鸣叫，称哑子。  
-1. 【[哑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#哑子)】`nga3 zz` <sup>[东台]</sup> ① 哑巴。 ② 未炸响的爆竹。  
-1. 【[哑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#哑子)】`nga3 zz` <sup>[兴化]</sup> ① 哑巴。 ② 哑蛋。  
-1. 【[哑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#哑子)】`nga3 zz` ① <sup>\[如皋\]</sup>哑巴。 ② <sup>\[如皋\]</sup>雌蝉，不鸣，尾部有刀状生殖器。 ③ <sup>\[如东\]</sup>不会说话的人。 ④ <sup>\[如东\]</sup>雌性昆虫不会鸣叫，称哑子。 ⑤ <sup>\[东台\]</sup>哑巴。 ⑥ <sup>\[东台\]</sup>未炸响的爆竹。 ⑦ <sup>\[兴化\]</sup>哑巴。 ⑧ <sup>\[兴化\]</sup>哑蛋。  
+1. 【[哑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#哑子)】`nga3 zz` ① <sup>\[如皋\]\[东台\]\[兴化\]\[如东\]</sup>哑巴。 ② <sup>\[如皋\]</sup>雌蝉，不鸣，尾部有刀状生殖器。 ③ <sup>\[如东\]</sup>雌性昆虫不会鸣叫，称哑子。 ④ <sup>\[东台\]</sup>未炸响的爆竹。 ⑤ <sup>\[兴化\]</sup>哑蛋。  
 1. 【[哑子好说话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz_ho_shuh_hua.md#哑子好说话)】`nga3 zz ho5 shuh7 hua6` <sup>[如皋]</sup> 聋哑人急欲表达心愿，却说不出话来，只好巴巴乱叫，不断比划，而别人又不能领会，他更为着急。谓之～。  
 1. 【[哑子讨老婆——喜不可言](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz_to_lo_pu_xi_beh_ku_in.md#哑子讨老婆——喜不可言)】`nga3 zz to3 lo3 pu xi3 beh7 ku3 in2` <sup>[东台]</sup>   
 1. 【[哑子砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz_zhun.md#哑子砖)】`nga3 zz zhun1` <sup>[如皋]</sup> 为火侯不足而“不开声”且有烟迹（喜鹊斑）的砖头。  

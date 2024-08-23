@@ -9,8 +9,6 @@
 1. 【[拉啊直咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_a_cheh_ga.md#拉啊直咖)】`la1 a cheh8 ga` <sup>[东台]</sup> ［喻］彻底揭穿事情真相。  
 1. 【[拉啊胡子过河——牵须过渡（谦虚过度）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_a_hv_zz_gu_hu_qin_xy_gu_tv.md#拉啊胡子过河——牵须过渡（谦虚过度）)】`la1 a hv2 zz gu5 hu2 qin1 xy1 gu5 tv6` <sup>[东台]</sup>   
 1. 【[拉㞎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ba.md#拉㞎)】`la1 ba3` <sup>[如皋]</sup> 照料不能自理者大便。  
-1. 【[拉把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ba.md#拉把)】`la1 ba3` <sup>[如东]</sup> 照顾，扶养：毛毛是奶奶～大的。  
-1. 【[拉把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ba.md#拉把)】`la1 ba3` <sup>[东台]</sup> ① 非常：看见你，我～的一欢喜。 ② 尽力：今天任务很多，各位还要～干，才能完成。  
 1. 【[拉把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ba.md#拉把)】`la1 ba3` ① <sup>\[如东\]</sup>照顾，扶养：毛毛是奶奶～大的。<sup>\[如东\]</sup> ② <sup>\[东台\]</sup>非常：看见你，我～的一欢喜。<sup>\[东台\]</sup> ③ <sup>\[东台\]</sup>尽力：今天任务很多，各位还要～干，才能完成。<sup>\[东台\]</sup>  
 1. 【[拉把的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ba_dii.md#拉把的)】`la1 ba3 dii` <sup>[如皋]</sup> 相当用力地：细伢儿养得好，坠手，要～一抱。  
 1. 【[拉不开闩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_beh_kae_shuaen.md#拉不开闩)】`la1 beh7 kae1 shuaen1` <sup>[如东]</sup> 比喻非常忙碌，非常困难：王光明忙吖～。  
@@ -801,14 +799,7 @@
 1. 【[楼房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_fan.md#楼房)】`leu2 fan2` <sup>[如东]</sup> 两层以上的房屋。  
 1. 【[楼扶梯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_fv_ti_zz.md#楼扶梯子)】`leu2 fv2 ti1 zz` <sup>[兴化]</sup> 楼梯。  
 1. 【[蝼鸭<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_ngaeh_r.md#蝼鸭<sub>儿</sub>)】`leu2 ngaeh7 r` <sup>[如东]</sup> 蝼蛄科昆虫蝼蛄，也叫土狗儿。  
-1. 【[搂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu.md#搂)】`leu3` 搅拌  
-1. 【[搂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu.md#搂)】`leu3` <sup>[如东]</sup> 玩闹，戏弄，嬲打。  
-1. 【[搂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu.md#搂)】`leu3` <sup>[如皋]</sup> ① 小孩玩耍、顽皮：这伢儿～得汗冒冒的；这伢儿死～！ ② 胡闹：这个丫头不讲理，～得公婆家鸡飞狗跳的。 ③ 使水平圈转：～糊粉。～浆糊。  
-1. 【[搂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu.md#搂)】`leu3` <sup>[如皋]</sup> 玩耍，嬉闹。  
-1. 【[搂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu.md#搂)】`leu3` <sup>[兴化]</sup> ① 搅动：～浆糊｜～焦糏。 ② 炒：～豆子；～花生。 ③ 揭露、捅出：吵啊吵的，把家里的丑事全～出去啊。口语一般念leu3 ，俗作“搂”。  
-1. 【[搂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu.md#搂)】`leu3` <sup>[泰县]</sup> 搅。  
-1. 【[搂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu.md#搂)】`leu3` <sup>[泰州]</sup> ① 搅动：䜺儿下啊锅，你弄筷ㄦ在锅里～啊子。 ② 比喻人胡乱折腾：在家里～啊不曾歇。 ③ 吵闹使他人不得安宁：你不借钱把他，他有得同你～唻。 ④ 小儿哭闹：这个伢儿～啊一夜，大家都不曾睡得好。  
-1. 【[搂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu.md#搂)】`leu3` ① 搅拌 ② <sup>\[如东\]</sup>玩闹，戏弄，嬲打。 ③ <sup>\[如皋\]</sup>小孩玩耍、顽皮：这伢儿～得汗冒冒的；这伢儿死～！ ④ <sup>\[如皋\]</sup>胡闹：这个丫头不讲理，～得公婆家鸡飞狗跳的。<sup>\[如皋\]</sup> ⑤ <sup>\[如皋\]</sup>使水平圈转：～糊粉。～浆糊。 ⑥ <sup>\[如皋\]</sup>玩耍，嬉闹。 ⑦ <sup>\[兴化\]</sup>搅动：～浆糊<sup>\[兴化\]</sup>｜～焦糏。<sup>\[兴化\]</sup> ⑧ <sup>\[兴化\]</sup>炒：～豆子；～花生。<sup>\[兴化\]</sup> ⑨ <sup>\[兴化\]</sup>揭露、捅出：吵啊吵的，把家里的丑事全～出去啊。口语一般念leu3 ，俗作“搂”。<sup>\[兴化\]</sup> ⑩ <sup>\[泰县\]</sup>搅。 ⑪ <sup>\[泰州\]</sup>搅动：䜺儿下啊锅，你弄筷ㄦ在锅里～啊子。<sup>\[泰州\]</sup> ⑫ <sup>\[泰州\]</sup>比喻人胡乱折腾：在家里～啊不曾歇。<sup>\[泰州\]</sup> ⑬ <sup>\[泰州\]</sup>吵闹使他人不得安宁：你不借钱把他，他有得同你～唻。<sup>\[泰州\]</sup> ⑭ <sup>\[泰州\]</sup>小儿哭闹：这个伢儿～啊一夜，大家都不曾睡得好。<sup>\[泰州\]</sup>  
+1. 【[搂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu.md#搂)】`leu3` ① <sup>\[如东\]</sup>玩闹，戏弄，嬲打。 ② <sup>\[如皋\]</sup>小孩玩耍、顽皮：这伢儿～得汗冒冒的<sup>\[如皋\]</sup>｜这伢儿死～！<sup>\[如皋\]</sup> ③ <sup>\[如皋\]</sup>胡闹：这个丫头不讲理，～得公婆家鸡飞狗跳的。<sup>\[如皋\]</sup> ④ <sup>\[如皋\]</sup>使水平圈转：～糊粉。～浆糊。<sup>\[如皋\]</sup> ⑤ <sup>\[如皋\]</sup>玩耍，嬉闹。 ⑥ <sup>\[兴化\]\[泰县\]\[泰州\]</sup>搅动：～浆糊<sup>\[兴化\]</sup>｜～焦糏。<sup>\[兴化\]</sup>｜䜺儿下啊锅，你弄筷ㄦ在锅里～啊子。<sup>\[泰州\]</sup> ⑦ <sup>\[兴化\]</sup>炒：～豆子；～花生。<sup>\[兴化\]</sup> ⑧ <sup>\[兴化\]</sup>揭露、捅出：吵啊吵的，把家里的丑事全～出去啊。<sup>\[兴化\]</sup> ⑨ <sup>\[泰州\]</sup>比喻人胡乱折腾：在家里～啊不曾歇。<sup>\[泰州\]</sup> ⑩ <sup>\[泰州\]</sup>吵闹使他人不得安宁：你不借钱把他，他有得同你～唻。<sup>\[泰州\]</sup> ⑪ <sup>\[泰州\]</sup>小儿哭闹：这个伢儿～啊一夜，大家都不曾睡得好。<sup>\[泰州\]</sup>  
 1. 【[搂啊浑吖汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_a_huen_nga.md#搂啊浑吖汤)】`leu3 a huen2 nga tan1` <sup>[东台]</sup> 形容被搅乱得一塌糊涂。  
 1. 【[搂陈屎缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_chen_shr_gan.md#搂陈屎缸)】`leu3 chen2 shr3 gan1` ① <sup>\[如皋\]</sup>揭短、揭事、揭老底。 ② <sup>\[兴化\]</sup>（喻）互相揭短：他俫两个人～把丑事全抖出来啊。<sup>\[兴化\]</sup>  
 1. 【[搂家窝子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_ga_u_zz.md#搂家窝子)】`leu3 ga1 u1 zz` <sup>[兴化]</sup> 内部的人互相争斗。  
