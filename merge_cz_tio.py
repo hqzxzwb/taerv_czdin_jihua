@@ -38,7 +38,7 @@ def main():
     ranges_to_delete = []
 
     for key, value in conts.items():
-      value = [it for it in value if value[0].spec == 1]
+      value = [it for it in value if it[0].spec == 1]
       if len(value) > 1:
         cont0 = value[0][0]
         if file_content[-1] != '\n':
@@ -73,4 +73,4 @@ def remove_matches(sentence, matches):
     return "".join(result)
 
 if __name__ == '__main__':
-  globals()[sys.argv[1] or 'main']()
+  globals()['main' if len(sys.argv) <= 1 else sys.argv[1]]()
