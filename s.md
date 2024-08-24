@@ -380,7 +380,7 @@
 1. 【[摵牌<sub>儿</sub>饼饼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh_pae_r_bien_bien_r.md#摵牌<sub>儿</sub>饼饼<sub>儿</sub>)】`seh7 pae2 r bien3 bien3 r` <sup>[如皋]</sup> 儿童游戏。与“摵钱墩儿”类似。见“牌儿饼饼儿”。  
 1. 【[摵㗘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh_pah.md#摵㗘)】`seh7 pah7` <sup>[兴化]</sup> 闲聊：夏天晚上几个人乘凉，～摵到半夜。  
 1. 【[摵炮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh_po.md#摵炮)】`seh7 po5` ① 一种向地上摔的折纸玩具 ② 一种落地即响的鞭炮。  
-1. 【[摵钱墩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh_qin_den_r.md#摵钱墩<sub>儿</sub>)】`seh7 qin2 den1 r` <sup>[如皋]</sup> 游戏名。预置一枚铜钱于砖墩，轮流用铜钱，击落则取，并继续；击之铜钱落于墩上则任人𢬘。成人以为赌博。  
+1. 【[摵钱墩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh_qin_den_r.md#摵钱墩<sub>儿</sub>)】`seh7 qin2 den1 r` <sup>[如皋]</sup> 游戏名。预置一枚铜钱于砖墩，轮流用铜钱，击落则取，并继续；击之铜钱落于墩上则任人摵。成人以为赌博。  
 1. 【[摵圈圈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh_qiun_qiun_r.md#摵圈圈<sub>儿</sub>)】`seh7 qiun1 qiun1 r` <sup>[如皋]</sup> 旋转。  
 1. 【[涩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh.md#涩)】`seh7` <sup>[如皋]</sup> 转、滑不爽：车轴发～，要清洗上油。  
 1. 【[涩嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seh_jy.md#涩嘴)】`seh7 jy3` ① <sup>\[如东\]</sup>一种味道使舌头感觉酸麻：柿子不熟，吃起来～。<sup>\[如东\]</sup> ② <sup>\[如皋\]</sup>口感涩：菠菜、青柿子不处理啊好啊总～。<sup>\[如皋\]</sup>  

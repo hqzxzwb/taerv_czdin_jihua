@@ -699,7 +699,7 @@
 1. 【[掼锅摵盏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen_gu_seh_zhaen.md#掼锅摵盏)】`kuaen6 gu1 seh7 zhaen3` <sup>[兴化]</sup> 形容人生气时的情态：她讨厌小良，见他一来就～的。  
 1. 【[掼话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen_hua.md#掼话)】`kuaen6 hua6` <sup>[兴化]</sup> 随嘴一说，并不十分留意的话：他说的～，你覅当真的。  
 1. 【[掼脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen_lin.md#掼脸)】`kuaen6 lin3` <sup>[兴化]</sup> 阴沉着脸：他不高兴就～，也不管别人的感受。  
-1. 【[掼炮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen_po.md#掼炮)】`kuaen6 po5` ① <sup>\[如东\]</sup>爆竹的一种。有各种形状。用手拿着摔在地上即响，故名掼炮。 ② 一种摔向地面即炸响的小鞭炮。 ③ 纸折的玩具，响炮。 ④ 砸纸片，一种儿童游戏。用纸折成方形，用力摔向地面会发出声响，有各种玩法。一般是砸向对方的纸片，把对方纸片打翻过来则赢为几有。 ⑤ <sup>\[兴化\]</sup>一种掼地作响的鞭炮：摵～。 ⑥ <sup>\[泰县\]</sup>鞭炮的一种。  
+1. 【[掼炮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen_po.md#掼炮)】`kuaen6 po5` ① <sup>\[兴化\]\[如东\]\[泰县\]</sup>一种摔落地面即炸响的小鞭炮：摵～。<sup>\[兴化\]</sup> ② 纸折的玩具，响炮。 ③ 砸纸片，一种儿童游戏。用纸折成方形，用力摔向地面会发出声响，有各种玩法。一般是砸向对方的纸片，把对方纸片打翻过来则赢为己有。  
 1. 【[掼手穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen_sheu_qion.md#掼手穷)】`kuaen6 sheu3 qion2` <sup>[东台]</sup> （詈语）批评某人大手大脚，不讲精打细算，浪费太多。  
 1. 【[掼头掼脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen_teu_kuaen_no.md#掼头掼脑)】`kuaen6 teu2 kuaen6 no3` ① <sup>\[兴化\]</sup>形容人打瞌睡时的情态：他打啊一夜的麻将，白天上班～的。 ② <sup>\[兴化\]</sup>形容人没精打采的样子：病得～的｜瘦得～的。 ③ <sup>\[泰县\]</sup>不神气。  
 1. 【[掼掉锅子肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen_tio_gu_zz_roh.md#掼掉锅子肉)】`kuaen6 tio gu1 zz roh8` <sup>[东台]</sup> ［喻］指失去了大好机会，可惜得很：他买完彩票刚走，后头人中吖大奖，真是～！  

@@ -1126,7 +1126,7 @@
 1. 【[英子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_zz.md#英子)】`ien1 zz` <sup>[如皋]</sup> 见“英儿”。  
 1. 【[茵陈蒿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_chen_ho.md#茵陈蒿)】`ien1 chen2 ho1` <sup>[如东]</sup> 乡。菊科植物茵陈，多年生草本。高约100厘米。茎直立，木质化，表面有纵裂条纹，紫色，多分枝。营养叶3回羽状裂，小叶线形。头状花序多数密集成圆锥状。花淡紫色。瘦果长圆形。生长在河岸、沙地。  
 1. 【[茵陈酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_chen_jieu.md#茵陈酒)】`ien1 chen2 jieu3` <sup>[如皋]</sup> 用茵陈浸过的药酒。  
-1. 【[阴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien.md#阴)】`ien1` ① <sup>\[如皋\]</sup>内向性格：他性格～，同他做块儿一天说不到一句话。 ② <sup>\[如皋\]</sup>状冷、暗、极静的环境：这地方～魆魆的，不能蹾人。 ③ <sup>\[如东\]</sup>本人的意图隐藏不露，叫做阴：这个人～。<sup>\[如东\]</sup>  
+1. 【[阴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien.md#阴)】`ien1` ① <sup>\[如皋\]</sup>内向性格：他性格～，同他做块儿一天说不到一句话。<sup>\[如皋\]</sup> ② <sup>\[如皋\]</sup>状冷、暗、极静的环境：这地方～魆魆的，不能蹾人。<sup>\[如皋\]</sup> ③ <sup>\[如东\]</sup>本人的意图隐藏不露，叫做阴：这个人～。<sup>\[如东\]</sup>  
 1. 【[阴巴拉哈的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_ba_la_ha_dii.md#阴巴拉哈的)】`ien1 ba la1 ha1 dii` <sup>[如皋]</sup> 一种阴险、讥讽的态度、口气。  
 1. 【[阴摆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_bae_zz.md#阴摆子)】`ien1 bae3 zz` <sup>[兴化]</sup> ① 夜间发的疟疾。 ② 骂人的话：打～的！  
 1. 【[阴八鬼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_baeh_guei_r.md#阴八鬼<sub>儿</sub>)】`ien1 baeh7 guei3 r` <sup>[兴化]</sup> 形容人阴损：他是个～，晚上看吖人朝河里踵（chon5）也不则声。  
@@ -1266,7 +1266,7 @@
 1. 【[引事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_shr.md#引事)】`ien3 shr6` ① <sup>\[如皋\]</sup>引起对方的某些欲望：你不要～，伢儿闹起来没处弄。 ② <sup>\[东台\]</sup>由某事引起麻烦。  
 1. 【[引线](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_xin.md#引线)】`ien3 xin5` ① <sup>\[如皋\]</sup>乡村间称缝衣针。 ② <sup>\[如皋\]</sup>缝衣针。 ③ <sup>\[兴化\]</sup>缝衣针：穿针～。<sup>\[兴化\]</sup>  
 1. 【[引子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_zz.md#引子)】`ien3 zz` <sup>[兴化]</sup> 鱼饵：钓鲫鱼拿河䘆做～。  
-1. 【[影](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien.md#影)】`ien3` ① <sup>\[如皋\]</sup>闪现：好像看见有个人一～的下子，进吖巷子。 ② <sup>\[兴化\]</sup>隐藏、遮蔽：那妇人见有人来，～在丫头背后往下就走（《梼杌闲评》十二）<sup>\[兴化\]</sup>  
+1. 【[影](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien.md#影)】`ien3` ① <sup>\[如皋\]</sup>闪现：好像看见有个人一～的下子，进吖巷子。<sup>\[如皋\]</sup> ② <sup>\[兴化\]</sup>隐藏、遮蔽：那妇人见有人来，～在丫头背后往下就走（《梼杌闲评》十二）<sup>\[兴化\]</sup>  
 1. 【[影壁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_bieh.md#影壁)】`ien3 bieh7` <sup>[泰县]</sup> 大门对面的一堵墙。  
 1. 【[影影绰绰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_ien_chah_chah.md#影影绰绰)】`ien3 ien3 chah7 chah7` <sup>[东台]</sup> 模模糊糊。  
 1. 【[影壳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_kah_r.md#影壳<sub>儿</sub>)】`ien3 kah7 r` <sup>[兴化]</sup> 儿童描摹习字用的样字。  

@@ -105,7 +105,7 @@
 1. 【[把颜色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ngaen_seh.md#把颜色)】`ba3 ngaen2 seh7` <sup>[如皋]</sup> 给点厉害。  
 1. 【[把你吓咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_nii_heh_ga.md#把你吓咖)】`ba3 nii3 heh7 ga` <sup>[东台]</sup> 形容某人或某事有惊人之处。也作“吓咖你”。  
 1. 【[把屋顶掝掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_oh_dien_hoh_tio.md#把屋顶掝掉)】`ba3 oh7 dien3 hoh7 tio` <sup>[东台]</sup> 掝掉，即掀掉。（掝古籍作𠜻）形容推翻某物的决心和力度太大。  
-1. 【[把<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_r.md#把<sub>儿</sub>)】`ba3 r` ① <sup>\[如东\]</sup>工具，用高粱苗子、棕榈丝做成，长条形，用以刷灰尘。 ② <sup>\[如东\]</sup>一扎：只有一～。<sup>\[如东\]</sup> ③ <sup>\[如皋\]</sup>刷洗用具：洗锅～、刷铺～、涮马～。<sup>\[如皋\]</sup> ④ <sup>\[如皋\]</sup>同量词“把”。  
+1. 【[把<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_r.md#把<sub>儿</sub>)】`ba3 r` ① <sup>\[如东\]\[如皋\]</sup>刷洗用具\[如东：用高粱苗子、棕榈丝做成，长条形，用以刷灰尘。\]：洗锅～、刷铺～、涮马～。<sup>\[如皋\]</sup> ② <sup>\[如东\]</sup>一扎：只有一～。<sup>\[如东\]</sup> ③ <sup>\[如皋\]</sup>同量词“把”。  
 1. 【[把<sub>儿</sub>面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_r_min.md#把<sub>儿</sub>面)】`ba3 r min6` ① <sup>\[如东\]</sup>干面条儿用纸包装或用绳捆扎起来，称把儿面。通常为一斤或二斤。 ② <sup>\[如皋\]</sup>挂面。干的面条把儿。  
 1. 【[把人的卵子还赘下来呢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ren_dii_lun_zz_hae_zhuei_ha_lae_nii.md#把人的卵子还赘下来呢)】`ba3 ren2 dii lun3 zz hae2 zhuei5 ha6 lae2 nii` <sup>[东台]</sup> 形容问话累赘，穷追不舍，过分纠缠细节。  
 1. 【[把人家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ren_ga.md#把人家)】`ba3 ren2 ga` ① <sup>\[如东\]</sup>将东西送给别人：这件衣服我把啊人家。<sup>\[如东\]</sup> ② <sup>\[如东\]</sup>将东西还给对方：你借的东西快点儿把人家。<sup>\[如东\]</sup> ③ <sup>\[如东\]</sup>姑娘嫁人：梅梅已经把啊人家。<sup>\[如东\]</sup> ④ <sup>\[兴化\]</sup>女子订亲。 ⑤ <sup>\[兴化\]</sup>出嫁：她二十五岁才～。<sup>\[兴化\]</sup>  
@@ -1457,7 +1457,7 @@
 1. 【[半对半](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_duei_bun.md#半对半)】`bun5 duei5 bun5` <sup>[兴化]</sup> 各占二分之一：全班四十个学生，男女生～。｜一筐苹果两家～。  
 1. 【[半间屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_gaen_oh.md#半间屋)】`bun5 gaen1 oh7` <sup>[泰县]</sup> 一只眼。  
 1. 【[半高凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_go_den.md#半高凳)】`bun5 go1 den5` <sup>[如东]</sup> 凳的一种，比高凳矮，比矮凳高。  
-1. 【[半个猪头敬神——惹菩萨作气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_gu_zhv_teu_jien_shen_ra_pv_saeh_zah_qi.md#半个猪头敬神——惹菩萨作气)】`bun5 gu zhv1 teu2 jien5 shen2 ra3 pv2 saeh7 zah7 qi5` <sup>[东台]</sup>   
+1. 【[半个猪头敬神——惹菩萨作气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_gu_zhv_teu.md#半个猪头敬神——惹菩萨作气)】`bun5 gu zhv1 teu2 jien5 shen2 ra3 pv2 saeh7 zah7 qi5` <sup>[东台]</sup>   
 1. 【[半个太阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_gu_tae_ian.md#半个太阳)】`bun5 gu5 tae5 ian` <sup>[如皋]</sup> 喻暴晒了半天。  
 1. 【[半干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_gun.md#半干)】`bun5 gun1` <sup>[兴化]</sup> 指物体表面虽收了水头，但仍含有一定湿度：刚洗的衣裳经过甩干机一甩就～吖。  
 1. 【[半瘕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_ha.md#半瘕)】`bun5 ha2` <sup>[如东]</sup> 说话办事不灵活，常出洋相的人：真是一个～。  
