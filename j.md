@@ -94,7 +94,7 @@
 1. 【[鸡头<sub>儿</sub>晕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_teu_r_yen.md#鸡头<sub>儿</sub>晕)】`ji1 teu2 r yen6` <sup>[如东]</sup> 因脑部瞬间缺血而产生的昏晕现象。  
 1. 【[鸡血子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_xiuh_zz.md#鸡血子)】`ji1 xiuh7 zz` <sup>[如皋]</sup> 用鸡血煮成的块状食品。  
 1. 【[鸡杂碎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zaeh_xy.md#鸡杂碎)】`ji1 zaeh7 xy5` <sup>[如皋]</sup> 鸡的内脏、头、脚等次等食品的总称。  
-1. 【[鸡争鸭斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zhen_ngaeh_deu.md#鸡争鸭斗)】`ji1 zhen1 ngaeh7 deu5` ① <sup>\[如皋\]</sup>表示经常的小争执。 ② <sup>\[东台\]</sup>为了小事而不停地争吵。 ③ <sup>\[兴化\]</sup>（喻）吵吵闹闹的：（他）从此一心一意做生意……不再跟人～的了。（《皮五辣子》一）<sup>\[兴化\]</sup>  
+1. 【[鸡争鸭斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zhen_ngaeh_deu.md#鸡争鸭斗)】`ji1 zhen1 ngaeh7 deu5` <sup>\[如皋\]\[东台\]\[兴化\]</sup>表示经常的小争执：（他）从此一心一意做生意……不再跟人～的了。（《皮五辣子》一）<sup>\[兴化\]</sup>  
 1. 【[鸡爪<sub>儿</sub>风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zho_r_fon.md#鸡爪<sub>儿</sub>风)】`ji1 zho3 r fon1` <sup>[如皋]</sup> 指（趾）肌肉痉挛。  
 1. 【[鸡爪疯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zhua_fon.md#鸡爪疯)】`ji1 zhua3 fon1` <sup>[兴化]</sup> 由于手足痉挛，指头不能伸屈的一种疾病：（这个小伙）手朝起环，筋朝起皱，又疼又痠……活象得了～。（扬一《扬香武一盗九龙杯》）  
 1. 【[鸡肫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zhuen_zz.md#鸡肫子)】`ji1 zhuen1 zz` <sup>[如皋]</sup> 鸡的沙囊，即胃。  
