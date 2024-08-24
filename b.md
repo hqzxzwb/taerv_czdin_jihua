@@ -217,7 +217,7 @@
 1. 【[拜香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_xian.md#拜香)】`bae5 xian1` <sup>[兴化]</sup> 旧时，父母为患病的小孩许愿，愈后逢迎神赛会即磕～还愿。届时，手持香凳，插安息香，自庙中出脚跑遍全城，逢庙宇、桥梁、巷口即磕头作揖，有的“披枷戴锁”，数步一回头，数步叩首。（见《兴化市志·民俗》）  
 1. 【[拜烛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_zhoh.md#拜烛)】`bae5 zhoh7` <sup>[东台]</sup> 旧时点天灯所用的小蜡蚀。  
 1. 【[拜烛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_zhoh_r.md#拜烛<sub>儿</sub>)】`bae5 zhoh7 r` <sup>[如皋]</sup> 拜神敬祖时用的小红烛。  
-1. 【[覅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae.md#覅)】`bae5` ① 加在动词之前，表示祈使别人不要做某事。 ② <sup>\[东台\]</sup>不要：有事情直说，～客气<sup>\[东台\]</sup>｜你～缠事。<sup>\[东台\]</sup>  
+1. 【[覅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae.md#覅)】`bae5` <sup>\[东台\]</sup>\[会意\]不要。加在动词之前，表示祈使别人不要做某事：有事情直说，～客气<sup>\[东台\]</sup>｜你～缠事。<sup>\[东台\]</sup>  
 1. 【[覅缠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_chin.md#覅缠)】`bae5 chin6` <sup>[东台]</sup> ① ［带责怪口气］ ② 不要搞错的意思。 ③ 不要磨蹭，耽误时间。  
 1. 【[覅就它吧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_qieu_ta_ba.md#覅就它吧)】`bae5 qieu6 ta1 ba1` <sup>[东台]</sup> 讨厌、气愤时的口头禅，相当于“算了吧”：你还自我感觉良好，～！  
 1. 【[覅虚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_xy.md#覅虚)】`bae5 xy1` <sup>[东台]</sup> 不要过分惊慌：头疼？～！吃点儿药，马上好。  

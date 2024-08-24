@@ -1196,7 +1196,7 @@
 1. 【[声口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_keu.md#声口)】`shen1 keu` <sup>[兴化]</sup> 说话的语调：他这种～叫人听吖不舒服。  
 1. 【[声气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_qi.md#声气)】`shen1 qi` <sup>[兴化]</sup> 说话的声音、语气：听他的声气不像是本地人。  
 1. 【[声气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_qi.md#声气)】`shen1 qi5` <sup>[如皋]</sup> ① 语气、声量：他才病吖的，说话～不大。 ② 方音：听他的～是北方人。  
-1. 【[深](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen.md#深)】`shen1` ① <sup>\[如皋\]</sup>房屋前后进深：～宅大院、房子～。 ② <sup>\[如皋\]</sup>凹陷：～目人。 ③ <sup>\[如皋\]</sup>色浓：茶色～。<sup>\[如皋\]</sup> ④ <sup>\[如东\]</sup>从上到下或从外到里的距离。海滩上很深的水道，渔民称深：前头有一条～。<sup>\[如东\]</sup>  
+1. 【[深](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen.md#深)】`shen1` ① <sup>\[如皋\]</sup>房屋前后进深：～宅大院、房子～。<sup>\[如皋\]</sup> ② <sup>\[如皋\]</sup>凹陷：～目人。<sup>\[如皋\]</sup> ③ <sup>\[如皋\]</sup>色浓：茶色～。<sup>\[如皋\]</sup> ④ <sup>\[如东\]</sup>从上到下或从外到里的距离。海滩上很深的水道，渔民称深：前头有一条～。<sup>\[如东\]</sup>  
 1. 【[深池](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_chr.md#深池)】`shen1 chr2` <sup>[如皋]</sup> 公共浴室一般有三格水池。其中最深也是水温不很高的一格水池叫～，与“头池、二池”相对。  
 1. 【[深造](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_co.md#深造)】`shen1 co5` <sup>[东台]</sup> 进一步的学习和研究：杨爹把女儿送到北京～去啊。  
 1. 【[深更半夜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_gen_bun_ia.md#深更半夜)】`shen1 gen1 bun5 ia6` <sup>[东台]</sup> 夜已很深，到了子时左右。  
@@ -1315,7 +1315,7 @@
 1. 【[盛得进去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_deh_jien_qy.md#盛得进去)】`shen2 deh7 jien5 qy5` <sup>[东台]</sup> 装得下的意思。  
 1. 【[盛饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_faen.md#盛饭)】`shen2 faen6` <sup>[东台]</sup> 把饭装进碗里。  
 1. 【[盛起饭来炒啊吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_qi_faen_lae.md#盛起饭来炒啊吃)】`shen2 qi faen6 lae cho3 a qieh7` <sup>[泰兴]</sup> 见“一番生意两番做”。  
-1. 【[神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen.md#神)】`shen2` ① <sup>\[兴化\]</sup>聪明、机灵：这个小家伙～㗁！<sup>\[兴化\]</sup> ② <sup>\[泰州\]</sup>令人不可思议的，令人出乎意料的：你俫都不曾说，他怎吖就晓得咖的㖸，～吖唻。<sup>\[泰州\]</sup> ③ <sup>\[泰州\]</sup>聪明灵活：这小伙～得狠，三年不到就提啊科长。<sup>\[泰州\]</sup>｜这小伙～吖过啊靶，这回子出咖大事。<sup>\[泰州\]</sup>  
+1. 【[神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen.md#神)】`shen2` ① <sup>\[兴化\]\[泰州\]</sup>聪明、机灵：这个小家伙～㗁！<sup>\[兴化\]</sup>｜这小伙～得狠，三年不到就提啊科长。<sup>\[泰州\]</sup>｜这小伙～吖过啊靶，这回子出咖大事。<sup>\[泰州\]</sup> ② <sup>\[泰州\]</sup>令人不可思议的，令人出乎意料的：你俫都不曾说，他怎吖就晓得咖的㖸，～吖唻。<sup>\[泰州\]</sup>  
 1. 【[神鬼天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_guei_tin.md#神鬼天)】`shen2 guei3 tin1` ① <sup>\[如皋\]</sup>见“降风潮”。 ② <sup>\[如皋\]</sup>农历七、八月间，时晴时雨的天气。 ③ <sup>\[东台\]</sup>指农历七月阴晴不定，风雨难测的天气。  
 1. 【[神魂颠倒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_huen_din_do.md#神魂颠倒)】`shen2 huen2 din1 do5` <sup>[如东]</sup> 头脑糊涂，混乱不清。  
 1. 【[神乎其神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_hv_qi_shen.md#神乎其神)】`shen2 hv qi2 shen2` <sup>[如东]</sup> 非常神气。非常神秘。  
@@ -1373,7 +1373,7 @@
 1. 【[省事无事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_shr_v_shr.md#省事无事)】`shen3 shr6 v2 shr6` <sup>[兴化]</sup> 不招惹闲事，避免卷入是非：老兄吖，不要找事做。俗说，多事有事，～。  
 1. 【[圣菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_cae.md#圣菜)】`shen5 cae5` <sup>[如东]</sup> 念珠藻科植物葛仙米，也称地耳。藻体为多数球形的单细胞串连而成，外被透明的胶质物集成片状，与木耳相似。湿润时展开，呈蓝绿色，干燥时卷曲，呈灰褐色。雨后草间湿地上极多。  
 1. 【[圣柜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_kuei.md#圣柜)】`shen5 kuei6` ① <sup>\[如皋\]</sup>堂屋中靠后墙的供奉神祖的大柜。 ② <sup>\[如东\]</sup>摆在堂屋明间后壁中间的木柜，用以供奉菩萨与祖宗。  
-1. 【[抻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen.md#抻)】`shen5` ① 拉长 ② <sup>\[如皋\]</sup>拉伸：蚂蜞爬的刻儿一～一～的。弹力衫有～劲。 ③ <sup>\[如皋\]</sup>升益：丁堰的升子大，复下来有得～。 ④ <sup>\[如皋\]</sup>趣指“走”：我俫等他带啊～。 ⑤ <sup>\[如东\]</sup>拉长：把面条儿～～。<sup>\[如东\]</sup> ⑥ <sup>\[如东\]</sup>拓宽：把袖口儿～～。<sup>\[如东\]</sup> ⑦ <sup>\[兴化\]</sup>比原数多出：一麻袋花生～出二斤。<sup>\[兴化\]</sup> ⑧ <sup>\[泰州\]</sup>使物体拉长：松紧带用吖两天就～吖多长。<sup>\[泰州\]</sup>｜绳子嫌短，你用劤拉啊～点ㄦ下来，不就够啊唻。<sup>\[泰州\]</sup> ⑨ <sup>\[泰州\]</sup>衣物鞋帽从里向外绷大：这件头绳衣我穿吖正好一身，捱他这个胖子穿吖一天就～吖大啊唻。<sup>\[泰州\]</sup> ⑩ <sup>\[泰州\]</sup>多处，超出原本应有的数量重量：买啊七尺布，家来一量七尺一寸，～吖一寸出来啊。<sup>\[泰州\]</sup>｜他家做生意规矩，买啊他三斤青菜，家来校秤，～吖二两出来啊。<sup>\[泰州\]</sup>  
+1. 【[抻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen.md#抻)】`shen5` ① <sup>\[如皋\]\[如东\]\[泰州\]</sup>拉伸：蚂蜞爬的刻儿一～一～的<sup>\[如皋\]</sup>｜弹力衫有～劲<sup>\[如皋\]</sup>｜把面条儿～～。<sup>\[如东\]</sup>｜松紧带用吖两天就～吖多长。<sup>\[泰州\]</sup>｜绳子嫌短，你用劤拉啊～点ㄦ下来，不就够啊唻。<sup>\[泰州\]</sup> ② <sup>\[如东\]\[泰州\]</sup>绷大：把袖口儿～～。<sup>\[如东\]</sup>｜这件头绳衣我穿吖正好一身，捱他这个胖子穿吖一天就～吖大啊唻。<sup>\[泰州\]</sup> ③ <sup>\[如皋\]</sup>趣指“走”：我俫等他带啊～。<sup>\[如皋\]</sup> ④ <sup>\[兴化\]</sup>比原数多出：一麻袋花生～出二斤。<sup>\[兴化\]</sup> ⑤ <sup>\[泰州\]\[如皋\]</sup>升益，多出，超出原本应有的量：买啊七尺布，家来一量七尺一寸，～吖一寸出来啊。<sup>\[泰州\]</sup>｜他家做生意规矩，买啊他三斤青菜，家来校秤，～吖二两出来啊。<sup>\[泰州\]</sup>｜丁堰的升子大，复下来有得～。<sup>\[如皋\]</sup>  
 1. 【[抻出来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_chueh_lae.md#抻出来)】`shen5 chueh7 lae2` <sup>[东台]</sup> ［引］比原来的数量多出来。  
 1. 【[抻带<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_dae_r.md#抻带<sub>儿</sub>)】`shen5 dae5 r` <sup>[东台]</sup> 松紧带。抻即扩展，使物变长变大。（《广韵》“抻，试刃切，使物长也。”）  
 1. 【[抻溢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_ieh.md#抻溢)】`shen5 ieh` <sup>[兴化]</sup> 商品实物多于账面数：盘点～。  
@@ -1392,7 +1392,7 @@
 1. 【[瘆人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_ren_zz.md#瘆人子)】`shen5 ren2 zz` <sup>[东台]</sup> 令人害怕或肉麻难受：我不敢看人家剥蛇，～！  
 1. 【[盛意谆谆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_i_zhuen_zhuen.md#盛意谆谆)】`shen5 i5 zhuen1 zhuen1` <sup>[东台]</sup> 一片盛情，非常诚恳。  
 1. 【[肾筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_jien.md#肾筋)】`shen5 jien1` <sup>[如皋]</sup> 剥取的畜类的阴茎和输精管。  
-1. 【[胜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen.md#胜)】`shen5` ① <sup>\[东台\]</sup>夸耀自己，讥笑别人，东台词典作“㰮”：你才得咖一回奖，～甚的？<sup>\[东台\]</sup> ② <sup>\[泰县\]</sup>骄傲。 ③ <sup>\[泰县\]</sup>炫耀。 ④ <sup>\[泰州\]</sup>向人炫耀自己的得意之处，贬义：她望见个人就～她小伙考上吖苏州大学。<sup>\[泰州\]</sup>｜她家男的同她买啊件衣裳，她也拿出来～，就像人家不曾穿过新衣裳是的。<sup>\[泰州\]</sup>  
+1. 【[胜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen.md#胜)】`shen5` <sup>\[东台\]\[泰县\]\[泰州\]</sup>夸耀自己：你才得咖一回奖，～甚的？<sup>\[东台\]</sup>｜她望见个人就～她小伙考上吖苏州大学。<sup>\[泰州\]</sup>｜她家男的同她买啊件衣裳，她也拿出来～，就像人家不曾穿过新衣裳是的。<sup>\[泰州\]</sup>  
 1. 【[胜煞咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_shaeh_ga.md#胜煞咖)】`shen5 shaeh7 ga` <sup>[东台]</sup> 盛气凌人，喜欢显摆，好出风头。  
 1. 【[胜𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_son.md#胜𪨊)】`shen5 son2` <sup>[泰县]</sup> （禁忌语）好摆胜的人。  
 1. 【[胜歪歪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_vae_vae.md#胜歪歪)】`shen5 vae1 vae1` <sup>[兴化]</sup> 炫耀自己，令人恶心：她就欢喜～的显摆当官的丈夫。‖也说“胜巴巴”。  
