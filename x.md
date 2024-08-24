@@ -503,10 +503,16 @@
 1. 【[乡党](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_dan.md#乡党)】`xian1 dan3` <sup>[东台]</sup> 乡亲：势不压～。  
 1. 【[乡风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_fon.md#乡风)】`xian1 fon1` <sup>[兴化]</sup> 风土人情：“你乃外江的人，哪里晓得我们的～……”（《海公大红袍》四七）｜谚曰：离家三里路，各地各～。  
 1. 【[乡下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ha.md#乡下)】`xian1 ha` ① <sup>\[如皋\]</sup>乡村里。与“市镇”相对。 ② <sup>\[如皋\]</sup>小集镇，与“城市”相对。 ③ <sup>\[如东\]</sup>县城及大集镇以外的地区。通称农村。  
+1. 【[乡下宝宝吃海参，头一回](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ha_bo_bo.md#乡下宝宝吃海参，头一回)】`xian1 ha bo3 bo qieh7 hae3 shen1 teu2 ieh7 huei2` <sup>\[泰兴\]</sup>歇后语。谓第一次，以前从来没有的事。义与“大姑娘坐轿子”同。  
 1. 【[乡下家里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ha_ga_lii.md#乡下家里)】`xian1 ha ga1 lii` <sup>[如皋]</sup> ① 自家住城镇时指在乡村中的住宅。 ② 自家或家族中的离街市稍远的住宅。均与“街上家里”相对。  
+1. 【[乡下鼓<sub>儿</sub>乡下敲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ha_gv_r.md#乡下鼓<sub>儿</sub>乡下敲)】`xian1 ha gv3 r xian1 ha ko1` <sup>\[泰兴\]</sup>喻指要适合当时当地人的口味说话办事。  
 1. 【[乡下佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ha_lo_r.md#乡下佬<sub>儿</sub>)】`xian1 ha lo3 r` <sup>[如皋]</sup> 对少见识者的鄙称。  
-1. 【[乡下人挑粪——两头屎（死）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ha_ren_tio_fen_laen_teu_shr.md#乡下人挑粪——两头屎（死）)】`xian1 ha6 ren2 tio1 fen5 laen3 teu2 shr3 （sz3）` <sup>[东台]</sup>   
+1. 【[乡下人卖草，上里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ha_ren_mae.md#乡下人卖草，上里)】`xian1 ha ren2 mae6 co3 shan6 li3` <sup>\[泰兴\]</sup>歇后语。谓“到里边去”、“往里边靠”。旧时乡下人常到集镇卖草与城镇居民。  
+1. 【[乡下人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ha_ren.md#乡下人)】`xian1 ha6 ren2` <sup>\[泰兴\]</sup>住在农村的人。有时含贬义。  
+1. 【[乡下人挑粪——两头屎（死）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ha_ren_tio.md#乡下人挑粪——两头屎（死）)】`xian1 ha6 ren2 tio1 fen5 laen3 teu2 shr3 （sz3）` <sup>[东台]</sup>   
+1. 【[乡下人挑粪，前后屎（死）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ha_ren_tio.md#乡下人挑粪，前后屎（死）)】`xian1 ha6 ren2 tio1 fen5 qin2 heu6 shr3 （sz3）` <sup>[泰兴]</sup> 乡谚。谓事情极棘手，不管怎么办都没有好结果。  
 1. 【[乡下人屙屎——头子上硬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ha_ren_u_shr_teu_zz_shan_ngen.md#乡下人屙屎——头子上硬)】`xian1 ha6 ren2 u1 shr3 teu2 zz shan ngen6` <sup>[东台]</sup>   
+1. 【[乡约](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_iah.md#乡约)】`xian1 iah7` <sup>\[泰兴\]</sup>旧时乡中小吏。  
 1. 【[乡友](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ieu.md#乡友)】`xian1 ieu3` <sup>[东台]</sup> 同乡朋友。  
 1. 【[乡里锣鼓乡里敲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_li_lu_gv_xian_li_ko.md#乡里锣鼓乡里敲)】`xian1 li3 lu2 gv3 xian1 li3 ko1` <sup>[东台]</sup> ［喻］指土法上马，就地取材，符合乡情，颇具乡土特色。  
 1. 【[乡里人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_li_ren.md#乡里人)】`xian1 li3 ren2` <sup>[东台]</sup> 通常指范公堤以西的农村人。（堤东沿海地区的称海里人）  
@@ -518,6 +524,7 @@
 1. 【[乡里乡亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_lii_xian_qien.md#乡里乡亲)】`xian1 lii xian1 qien1` <sup>[如东]</sup> 居住在一个地方的朋友：～的，何必这吖心狠！  
 1. 【[乡气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_qi.md#乡气)】`xian1 qi` <sup>[兴化]</sup> 土气：这套衣裳大红大绿的，太～啊。  
 1. 【[乡情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_qien.md#乡情)】`xian1 qien2` <sup>[东台]</sup> 对故乡的感情。  
+1. 【[乡人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ren.md#乡人)】`xian1 ren2` <sup>\[泰兴\]</sup>本乡的人，本地的人，或称同乡人。  
 1. 【[乡田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_tin.md#乡田)】`xian1 tin2` <sup>[兴化]</sup> 以种粮棉为主的农田及地区：“……因为我们是‘垛田’，河多桥多，地形复杂，如在～则要不了这么多……”（刘春龙《无意插柳》）  
 1. 【[乡下风，城里雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_xia_fon_chen_li_y.md#乡下风，城里雨)】`xian1 xia6 fon1 chen2 li3 y3` <sup>[东台]</sup> （俗语）意思是同样的风雨，乡下房子较稀，对风敏感；而城里因房屋密集空地少，对雨更敏感。  
 1. 【[厢房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_fan.md#厢房)】`xian1 fan2` ① <sup>\[如东\]</sup>主屋前面两旁的房屋。也称厢屋：东～。<sup>\[如东\]</sup> ② <sup>\[东台\]</sup>在正房前面两旁的房屋。  
@@ -1207,7 +1214,7 @@
 1. 【[消愁解闷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cheu_gae_men.md#消愁解闷)】`xio1 cheu2 gae3 men6` <sup>[兴化]</sup> 通过游玩或做一些事情来消解忧愁和烦恼：他刚退休，非常无聊，每天看看报纸，下下棋～。  
 1. 【[消防车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_fan_cha.md#消防车)】`xio1 fan2 cha1` <sup>[如东]</sup> 一种灭火车。车身上装着巨大的水箱和水带、水笼头等设施，用于灭火。  
 1. 【[消供](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_gon.md#消供)】`xio1 gon5` <sup>[如皋]</sup> 了结：前头惹的祸还不曾～，后头告状的人又上吖门。  
-1. 【[消贡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_gon.md#消贡)】`xio1 gon5` <sup>[如皋]</sup> ① 贡，俸禄。～，做份内事。 ② 饭后散步消食。  
+1. 【[消贡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_gon.md#消贡)】`xio1 gon5` <sup>[如皋]</sup> ① 做份内事。“贡”，俸禄。 ② 饭后散步消食。  
 1. 【[消阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ian.md#消阳)】`xio1 ian2` <sup>[如皋]</sup> 见“和暴”。  
 1. 【[消浇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_jio.md#消浇)】`xio1 jio1` <sup>[东台]</sup> 讥讽挖苦的意思。  
 1. 【[消灭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_mih.md#消灭)】`xio1 mih` <sup>[东台]</sup> 完蛋。（对某事表示气愤或者绝望的口头禅。灭读轻声）  
@@ -1251,13 +1258,14 @@
 1. 【[肴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio.md#肴)】`xio2` ① <sup>\[如皋\]</sup>猪前上腿去骨，水煮切成的圆片，外圈是皮，半透明；中圈是肥肉色白；内圈是精肉，色红。形似眼睛、 ② <sup>\[兴化\]</sup>一种卤菜。猪的前蹄肉去骨后带皮切碎，加作料煮熟，放在模子中胶结成块，可切片下酒。  
 1. 【[肴肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_roh.md#肴肉)】`xio2 roh8` <sup>[如皋]</sup> 见“肴”。  
 1. 【[肴蹄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ti.md#肴蹄)】`xio2 ti2` <sup>[如皋]</sup> 见“肴”。  
-1. 【[小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio.md#小)】`xio3` ① <sup>\[如皋\]</sup>收缩：把伞～下来。 ② <sup>\[如皋\]</sup>放下：他的官架子～不下来。 ③ <sup>\[如皋\]</sup>搬运时指下降、放下。 ④ <sup>\[如东\]</sup>物体体积细小：这根木头～。<sup>\[如东\]</sup> ⑤ <sup>\[如东\]</sup>物体面积细小：这块田～。<sup>\[如东\]</sup> ⑥ <sup>\[如东\]</sup>物体容量小：这只杯儿～。<sup>\[如东\]</sup> ⑦ <sup>\[如东\]</sup>物体慢慢地往下降：～篷。<sup>\[如东\]</sup> ⑧ <sup>\[东台\]</sup>除一般释义外，本地方言另有“收拢”“放下”之义：把伞～下来<sup>\[东台\]</sup>｜把担子～下来。<sup>\[东台\]</sup> ⑨ <sup>\[兴化\]</sup>（动词用法）落下、收起：把（撑着的）伞～下来<sup>\[兴化\]</sup>｜～篷（落船帆、落风车的篷）。<sup>\[兴化\]</sup> ⑩ <sup>\[兴化\]</sup>摘、拔：～针（拔下静脉滴注的针头）。<sup>\[兴化\]</sup> ⑪ <sup>\[兴化\]</sup>低姿：武二爷把身子朝起一～，就朝路旁边土墩子上头一跳……（《武松》一）<sup>\[兴化\]</sup> ⑫ <sup>\[泰州\]</sup>称谓后缀，表示小孩。用在一以外的数字之后，表示除老大之外的孩子：二～（第二个孩子）<sup>\[泰州\]</sup>｜三～<sup>\[泰州\]</sup> ⑬ <sup>\[泰州\]</sup>加在孩子名字的最后一个字后面：“潘德宝”称为“宝小”，“玉兰”称为“兰小”<sup>\[泰州\]</sup> ⑭ <sup>\[泰州\]</sup>用在双音节词后，表示某种类型的人，多做詈词：讨饭～（要讨饭的人）<sup>\[泰州\]</sup>｜拿宝～（要被鬼捉拿的人）<sup>\[泰州\]</sup>｜秃寿～（要减寿的人）<sup>\[泰州\]</sup>｜哑巴～（不愿与人说话交流的人）<sup>\[泰州\]</sup>｜呆～（傻子）<sup>\[泰州\]</sup>  
+1. 【[小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio.md#小)】`xio3` ① <sup>\[如皋\]</sup>收缩：把伞～下来。 ② <sup>\[如皋\]</sup>放下：他的官架子～不下来。 ③ <sup>\[如皋\]</sup>搬运时指下降、放下。 ④ <sup>\[如东\]\[泰兴\]</sup>细小不大：这根木头～。<sup>\[如东\]</sup>｜这块田～。<sup>\[如东\]</sup>｜这只杯儿～。<sup>\[如东\]</sup> ⑤ <sup>\[如东\]</sup>物体慢慢地往下降：～篷。<sup>\[如东\]</sup> ⑥ <sup>\[东台\]</sup>除一般释义外，本地方言另有“收拢”“放下”之义：把伞～下来<sup>\[东台\]</sup>｜把担子～下来。<sup>\[东台\]</sup> ⑦ <sup>\[兴化\]</sup>（动词用法）落下、收起：把（撑着的）伞～下来<sup>\[兴化\]</sup>｜～篷（落船帆、落风车的篷）。<sup>\[兴化\]</sup> ⑧ <sup>\[兴化\]</sup>摘、拔：～针（拔下静脉滴注的针头）。<sup>\[兴化\]</sup> ⑨ <sup>\[兴化\]</sup>低姿：武二爷把身子朝起一～，就朝路旁边土墩子上头一跳……（《武松》一）<sup>\[兴化\]</sup> ⑩ <sup>\[泰州\]</sup>称谓后缀，表示小孩。用在一以外的数字之后，表示除老大之外的孩子：二～（第二个孩子）<sup>\[泰州\]</sup>｜三～<sup>\[泰州\]</sup> ⑪ <sup>\[泰州\]</sup>加在孩子名字的最后一个字后面：“潘德宝”称为“宝小”，“玉兰”称为“兰小”<sup>\[泰州\]</sup> ⑫ <sup>\[泰州\]</sup>用在双音节词后，表示某种类型的人，多做詈词：讨饭～（要讨饭的人）<sup>\[泰州\]</sup>｜拿宝～（要被鬼捉拿的人）<sup>\[泰州\]</sup>｜秃寿～（要减寿的人）<sup>\[泰州\]</sup>｜哑巴～（不愿与人说话交流的人）<sup>\[泰州\]</sup>｜呆～（傻子）<sup>\[泰州\]</sup> ⑬ <sup>\[泰兴\]</sup>唤狗音  
 1. 【[小把戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ba_xi.md#小把戏)】`xio3 ba3 xi` <sup>[泰县]</sup> 小孩：这～调皮唻。/翩仞总是叫这人～。（官场现形记·8回）  
 1. 【[小把戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ba_xi.md#小把戏)】`xio3 ba3 xi5` ① <sup>\[如皋\]</sup>杂技小节目。 ② <sup>\[如皋\]</sup>称小孩。 ③ <sup>\[如东\]</sup>小孩。 ④ <sup>\[东台\]</sup>指小孩子。 ⑤ <sup>\[东台\]</sup>小伎俩。 ⑥ <sup>\[兴化\]</sup>小孩子：这个～调皮唻！<sup>\[兴化\]</sup> ⑦ <sup>\[泰县\]</sup>小孩。  
 1. 【[小班](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_baen.md#小班)】`xio3 baen1` ① <sup>\[如皋\]</sup>晚辈。 ② <sup>\[如东\]</sup>晚辈。  
 1. 【[小班的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_baen_dii.md#小班的)】`xio3 baen1 dii` 晚辈们  
 1. 【[小傍中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ban_zhon.md#小傍中)】`xio3 ban zhon1` <sup>[兴化]</sup> 近中午的时候：（婆媳俩）一直等到～，派一个人出来回话……（陈登科《淮河边上的儿女》十四）  
 1. 【[小不点<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_beh_din_r.md#小不点<sub>儿</sub>)】`xio3 beh din3 r` <sup>[兴化]</sup> ① （戏）幼童。 ② 形容很小的东西。  
+1. 【[小不点<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_beh_din_r.md#小不点<sub>儿</sub>)】`xio3 beh din3 r` <sup>[泰兴]</sup> 极言其小，很小的孩子：对门的那个～惹人欢喜得凶。  
 1. 【[小不可大算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_beh_ku_tae_sun.md#小不可大算)】`xio3 beh7 ku3 tae6 sun5` <sup>[兴化]</sup> 节约要从小处做起，日积月累见成果：一天不多，十天许多，～吖。  
 1. 【[小不可怠算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_beh_ku_tae_sun.md#小不可怠算)】`xio3 beh7 ku3 tae6 sun5` <sup>[东台]</sup> 小的收入或支出也不能忽略。  
 1. 【[小本营生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ben_ien_shen.md#小本营生)】`xio3 ben3 ien2 shen` <sup>[兴化]</sup> 靠做小买卖维持生计：他下岗以后做的～。  
@@ -1310,6 +1318,7 @@
 1. 【[小字头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cz_teu_r.md#小字头<sub>儿</sub>)】`xio3 cz6 teu2 r` <sup>[泰县]</sup> 党员。  
 1. 【[小寺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cz.md#小寺)】`xio3 cz6` <sup>[如皋]</sup> 如皋中禅寺，在水绘园西侧，始建于宋。  
 1. 【[小打小敲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_da_xio_ko.md#小打小敲)】`xio3 da3 xio3 ko1` <sup>[兴化]</sup> 形容事业的规模或活动的声势不大：我俫的资金有限，这个厂先～的办起来。也说“小打小闹”。  
+1. 【[小打小敲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_da_xio_ko.md#小打小敲)】`xio3 da3 xio3 ko1` <sup>[泰兴]</sup> 规模很小，没有声势、影响：他搞的是个作坊，～的，不是什么工厂。  
 1. 【[小打小闹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_da_xio_no.md#小打小闹)】`xio3 da3 xio3 no6` <sup>[兴化]</sup> 见“小打小敲”。  
 1. 【[小大爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_da_i.md#小大爷)】`xio3 da5 i` <sup>[兴化]</sup> ① 小孩：这个～太不听话。 ② 晚辈：～工作忙，蛮辛苦的。  
 1. 【[小大娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_da_nian.md#小大娘)】`xio3 da5 nian2` <sup>[兴化]</sup> 少妇：……做了新娘子，不是姑娘了，是～子了。（《皮五辣子》二）  
@@ -1341,6 +1350,7 @@
 1. 【[小家伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ga_hu.md#小家伙)】`xio3 ga1 hu3` <sup>[如东]</sup> ① 年纪轻的人：他还是一个～。 ② 对年轻人的称呼：～，你也来参加吧！  
 1. 【[小家子气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ga_zz_qi.md#小家子气)】`xio3 ga1 zz qi5` <sup>[如东]</sup> ① 不大方：还是这吖～。 ② 气量小：不要这吖～。  
 1. 【[小解](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_gae.md#小解)】`xio3 gae3` <sup>[东台]</sup> 小便，解小手。  
+1. 【[小工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_gon.md#小工)】`xio3 gon` <sup>[泰兴]</sup> 从事辅助工作的下手、杂工：我现在跟在瓦匠后面做～。  
 1. 【[小工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_gon.md#小工)】`xio3 gon1` <sup>[如皋]</sup> 辅助工、徒工。  
 1. 【[小锅菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_gu_cae.md#小锅菜)】`xio3 gu1 cae5` <sup>[兴化]</sup> 为病人或有特殊身份的人专门做的菜肴：老人生锅，为他做点～。  
 1. 【[小锅<sub>儿</sub>菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_gu_r_cae.md#小锅<sub>儿</sub>菜)】`xio3 gu1 r cae5` <sup>[如皋]</sup> 专门烧的优质菜肴（与大锅菜、统菜相对）。  
@@ -1394,7 +1404,7 @@
 1. 【[小脚<sub>儿</sub>味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_jiah_r_vei.md#小脚<sub>儿</sub>味)】`xio3 jiah7 r vei6` <sup>[如皋]</sup> ① 原指脚布中的臭味。 ② 引指指酱、腌菜变质后的臭味。  
 1. 【[小金樱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_jien_ien.md#小金樱)】`xio3 jien1 ien1` <sup>[如东]</sup> 蔷薇科植物小果蔷薇落叶漫生灌木。高约5米。小枝纤细，具有弯生皮刺。单数羽状复叶互生，小叶椭圆形边缘具锯齿。花白色，常数朵集生枝顶形成伞房花序。果小，圆球形，成熟时红色。生于较暖的山坡。  
 1. 【[小金库](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_jien_kv.md#小金库)】`xio3 jien1 kv5` <sup>[如东]</sup> 单位的自留资金。也叫小账、账外账。  
-1. 【[小九九](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_jieu_jieu.md#小九九)】`xio3 jieu3 jieu3` ① <sup>\[如皋\]</sup>对私人有利的算盘：他专会打～，不顾大局。 ② <sup>\[东台\]</sup>［喻］以珠算术语喻指打小算盘、算小账；抠精、小气。 ③ <sup>\[兴化\]</sup>（喻）心中的算计：他的～厉害㖸！<sup>\[兴化\]</sup>  
+1. 【[小九九](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_jieu_jieu.md#小九九)】`xio3 jieu3 jieu3` ① <sup>\[如皋\]</sup>对私人有利的算盘：他专会打～，不顾大局。<sup>\[如皋\]</sup> ② <sup>\[东台\]</sup>［喻］以珠算术语喻指打小算盘、算小账；抠精、小气。 ③ <sup>\[兴化\]</sup>（喻）心中的算计：他的～厉害㖸！<sup>\[兴化\]</sup> ④ <sup>\[泰兴\]</sup>喻处处自己打算，或另有不可告人的心思，犹言“打小算盘”：说大话假话空话，心里装着～，还是共产党员吗？<sup>\[泰兴\]</sup>  
 1. 【[小尖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_jin.md#小尖)】`xio3 jin1` <sup>[如皋]</sup> 算小账、占小便宜。  
 1. 【[小肩转弯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_jin_zhun_vaen.md#小肩转弯)】`xio3 jin1 zhun3 vaen1` <sup>[泰县]</sup> 抬棺材的人向左转弯。  
 1. 【[小交易](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_jio_i.md#小交易)】`xio3 jio1 i` <sup>[如皋]</sup> 小生意。  
@@ -1484,14 +1494,17 @@
 1. 【[小曲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qioh.md#小曲)】`xio3 qioh7` <sup>[兴化]</sup> ① 民歌、小唱。 ② 相对于京戏（大曲）的地方戏唱段。  
 1. 【[小取](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qy.md#小取)】`xio3 qy3` <sup>[如东]</sup> 渔民在近海沙滩上从事捕捞作业，称小取。  
 1. 【[小<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_r.md#小<sub>儿</sub>)】`xio3 r` <sup>[如皋]</sup> 小孩。昵称。或指最小的儿女  
-1. 【[小人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ren.md#小人)】`xio3 ren2` ① <sup>\[如皋\]</sup>小气、吝啬。 ② <sup>\[如东\]</sup>未成年的人：他还是一个～。<sup>\[如东\]</sup> ③ <sup>\[如东\]</sup>人格卑鄙的人：那是一个～。<sup>\[如东\]</sup> ④ <sup>\[如东\]</sup>比喻吝啬，不大气：王二真～，请他捐献一担稻草都不肯。<sup>\[如东\]</sup> ⑤ <sup>\[东台\]</sup>指人格卑鄙的人：这家伙是个～，你与他少来往。<sup>\[东台\]</sup>  
+1. 【[小人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ren.md#小人)】`xio3 ren2` ① <sup>\[如皋\]\[如东\]</sup>小气、吝啬：王二真～，请他捐献一担稻草都不肯。<sup>\[如东\]</sup> ② <sup>\[如东\]\[泰兴\]</sup>小孩子，未成年的人：他还是一个～。<sup>\[如东\]</sup> ③ <sup>\[东台\]\[泰兴\]\[如东\]</sup>指人格卑鄙的人：这家伙是个～，你与他少来往。<sup>\[东台\]</sup>｜那是一个～。<sup>\[如东\]</sup>  
 1. 【[小人发财如受罪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ren_faeh_cae_rv_sheu_cuei.md#小人发财如受罪)】`xio3 ren2 faeh7 cae2 rv2 sheu6 cuei6` <sup>[东台]</sup> 有了点小钱就不知所措，也说“小人发财活受罪”。  
-1. 【[小人书](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ren_shv.md#小人书)】`xio3 ren2 shv1` <sup>[东台]</sup> 连环画。20世纪七十年代，东台～创作很有名气。  
-1. 【[小日中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_rih_zhon.md#小日中)】`xio3 rih8 zhon1` ① <sup>\[如皋\]</sup>将近中午。 ② <sup>\[兴化\]</sup>近午时分。 ③ <sup>\[泰县\]</sup>上午十点左右。  
+1. 【[小人书](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ren_shv.md#小人书)】`xio3 ren2 shv1` <sup>\[东台\]\[泰兴\]</sup>连环画。\[东台：20世纪七十年代，东台～创作很有名气。\]：小时候我最欢喜看～。<sup>\[泰兴\]</sup>  
+1. 【[小人物](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ren_veh.md#小人物)】`xio3 ren2 veh8` <sup>[泰兴]</sup> 地位不高，没有名望的普通人。  
+1. 【[小日中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_rih_zhon.md#小日中)】`xio3 rih8 zhon1` <sup>\[如皋\]\[泰兴\]\[兴化\]\[泰县\]</sup>将近中午的时候\[泰县：上午十点左右。\]  
+1. 【[小日子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_rih_zz.md#小日子)】`xio3 rih8 zz` <sup>[泰兴]</sup> 家庭日常生活：他现在的～过得很舒服。  
 1. 【[小食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_sheh.md#小食)】`xio3 sheh8` <sup>[兴化]</sup> 茶食、糕点：他吃饭有限，就喜欢吃～。｜……贾母等五更便去了。下处用些点心～，然后入朝。（《红楼梦》五八）  
 1. 【[小生意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_shen_i.md#小生意)】`xio3 shen1 i` <sup>[如皋]</sup> 小本经营。  
 1. 【[小生日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_shen_rih.md#小生日)】`xio3 shen1 rih` <sup>[东台]</sup> 岁数不是整十的生日。  
 1. 【[小手膀子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_sheu_ban_zz.md#小手膀子)】`xio3 sheu3 ban3 zz` <sup>[如皋]</sup> 下臂，肘至脉。  
+1. 【[小手小脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_sheu_xio_jiah.md#小手小脚)】`xio3 sheu3 xio3 jiah7` <sup>\[泰兴\]</sup>形容不敢放手做事。  
 1. 【[小舌头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_shih_teu.md#小舌头)】`xio3 shih8 teu` <sup>[兴化]</sup> 悬雍垂的俗称。也称“咽喉屌儿。”  
 1. 【[小扇子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_shin_zz.md#小扇子)】`xio3 shin5 zz` <sup>[兴化]</sup> （喻）煽惑别人斗气、闹事的阴险手段：枝山暗暗得意，自思我这把～扇得几下，竟扇出了他们炉中的妒火。（《四杰传》六八）  
 1. 【[小叔子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_shoh_zz.md#小叔子)】`xio3 shoh7 zz` <sup>[如东]</sup> 丈夫的弟弟。  
@@ -1519,6 +1532,7 @@
 1. 【[小媳妇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xieh_fv.md#小媳妇)】`xio3 xieh7 fv6` <sup>[如东]</sup> 童养媳。  
 1. 【[小心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xien.md#小心)】`xio3 xien1` <sup>[如东]</sup> 仔细，留神，谨慎：下雨天跑路要～。  
 1. 【[小心眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xien_ngaen_r.md#小心眼<sub>儿</sub>)】`xio3 xien1 ngaen3 r` <sup>[如东]</sup> 心胸狭窄：她是个～。  
+1. 【[小心眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xien_ngaen_r.md#小心眼<sub>儿</sub>)】`xio3 xien1 ngaen3 r` <sup>[泰兴]</sup> 指狭隘的胸怀、短浅的眼光、多疑的心理状态以及在琐事上的小主意等等：覅太～了，箇点事也不值得你生气！  
 1. 【[小新妇<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xien_fv_r.md#小新妇<sub>儿</sub>)】`xio3 xien1 fv6 r` <sup>[如皋]</sup> 童养媳。  
 1. 【[小汛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xien.md#小汛)】`xio3 xien5` <sup>[如东]</sup> ① 海潮水位降低的一段时间。每月有两次，阴历初五日至初九日、十日至二十四日，为小汛。 ② 海潮水位低。 ③ 海潮水位低的一段时间。  
 1. 【[小先生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xin_shen.md#小先生)】`xio3 xin1 shen` <sup>[如皋]</sup> 尊称老板的儿子。指称、面称。  
