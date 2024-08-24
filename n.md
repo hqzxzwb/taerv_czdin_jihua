@@ -1513,9 +1513,8 @@
 1. 【[脓头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non_teu_r.md#脓头<sub>儿</sub>)】`non2 teu2 r` <sup>[如皋]</sup> 脓肿区上部（表层）的白头儿。  
 1. 【[𨑊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non.md#𨑊)】`non2` ① <sup>\[兴化\]</sup>敷衍、糊弄：你有话实说，覅～人家。<sup>\[兴化\]</sup> ② <sup>\[兴化\]</sup>勉强混过：实在找不到旅馆，就在沙发上～一夜吧！<sup>\[兴化\]</sup>｜《方言》卷十“～，奴动反……凡人语言过度，及妄施行，亦谓之～。”<sup>\[兴化\]</sup>｜《吴下方言考》“……吴中谓勉强而充曰～得过。”<sup>\[兴化\]</sup> ③ <sup>\[泰州\]</sup>明知不妥而勉强凑合：暂时没得好房子把你蹾，你就现在这块～两天，底下我再来想办法。<sup>\[泰州\]</sup>｜不要嫌菜不好吃，你就～住点ㄦ吧，能有人忙吖把你吃就不错唻。<sup>\[泰州\]</sup>｜他这种人，只有你能同他～住啊过。<sup>\[泰州\]</sup>  
 1. 【[挪移](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_i.md#挪移)】`nu2 i2` <sup>[兴化]</sup> ① 挪借：～款项。 ② 移动：向前～几步。  
+1. 【[□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_nu.md#□□)】`nu5 nu5` <sup>\[如皋\]\[东台\]</sup>睡觉。儿语。\[东台：（nu5 nu5-3）\]  
 1. 【[懦褦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_nae.md#懦褦)】`nu5 nae6` <sup>[如东]</sup> 胆小软弱：这个姑娘比较～。  
-1. 【[懦懦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_nu.md#懦懦)】`nu5 nu5` <sup>[如皋]</sup> 睡觉。儿语。“懦”字表音。  
-1. 【[懦懦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_nu.md#懦懦)】`nu5 nu5-3` <sup>[东台]</sup> ［同音］指小孩睡觉。  
 1. 【[懦货<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_hu_r.md#懦货<sub>儿</sub>)】`nu6 hu5 r` <sup>[如东]</sup> 软弱无能的人：王二是个～。  
 1. 【[懦弱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_rah.md#懦弱)】`nu6 rah8` <sup>[东台]</sup> 胆小怕事，软弱无能。  
 1. 【[糯米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_mi.md#糯米)】`nu6 mi3` <sup>[如东]</sup> 禾本科植物糯稻的种仁，也称茶米。黏性大，可以做糕酿酒。  

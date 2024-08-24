@@ -2806,8 +2806,7 @@
 1. 【[送葬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_zan.md#送葬)】`son5 zan5` <sup>[如东]</sup> 送死者到坟地去，叫做送葬。  
 1. 【[送灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_zo.md#送灶)】`son5 zo5` ① <sup>\[如皋\]</sup>腊月二十四夜，在灶神像前敬香，供赤豆儿饭、马草（稻草四小段）、马料（麸皮少许）、灶糖（一小块麦芽糖）。然后烧化旧神像和灶灯，送灶神上天述职。 ② <sup>\[如东\]</sup>一种民俗。阴历腊月二十四日晚，在厨房灶前举行祭祀仪式。扎纸马，供赤豆饭，烧纸钱，送灶神上天庭。灶神两边有一副对联，曰：上天言好事，下界保平安。 ③ <sup>\[东台\]</sup>见“灶老爷”。 ④ <sup>\[兴化\]</sup>旧俗：腊月二十四日晚，民户设馔及麦芽糖（灶糖），撒草豆，焚香烛、纸马，送灶王爷“上天言好事”。<sup>\[兴化\]</sup>  
 1. 【[𢱤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son.md#𢱤)】`son5` ① <sup>\[兴化\]</sup>推、托：墙头太高，你在下边～他一把，帮他爬上去。<sup>\[兴化\]</sup> ② <sup>\[泰州\]</sup>推： 他没得劲望上爬，你在底下托住他的屁股～他一把。<sup>\[泰州\]</sup> ③ <sup>\[泰州\]</sup>在人危难之时趁机诬陷他人：他同老李有仇，上头来调查老李的时候，他～吖老李一把。<sup>\[泰州\]</sup>  
-1. 【[䞭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su.md#䞭)】`su1` ① <sup>\[东台\]</sup>小步快跑：他一～的下子，就走啊<sup>\[东台\]</sup>｜伢儿在下～来～去的。<sup>\[东台\]</sup> ② <sup>\[泰州\]</sup>行走迅速：望吖他骑啊个车子一～的下子，人就看不见唻。<sup>\[泰州\]</sup>｜仓库门一开，地下老鼠～～的。<sup>\[泰州\]</sup>  
-1. 【[梭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su.md#梭)】`su1` ① <sup>\[如东\]</sup>一种加工方法，用钢丝锯或狭条锯将木料锯开。 ② <sup>\[东台\]</sup>来来去去锯东西：把凸咖在上面的铁钉～掉<sup>\[东台\]</sup>｜这许树枝太密，要～掉一些。<sup>\[东台\]</sup> ③ <sup>\[泰县\]</sup>飞快地跑动：蟑螂在碗橱里直～。  
+1. 【[梭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su.md#梭)】`su1` ① <sup>\[如东\]</sup>一种加工方法，用钢丝锯或狭条锯将木料锯开。 ② <sup>\[东台\]</sup>来来去去锯东西：把凸咖在上面的铁钉～掉<sup>\[东台\]</sup>｜这许树枝太密，要～掉一些。<sup>\[东台\]</sup>  
 1. 【[梭床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_chuan.md#梭床)】`su1 chuan2` <sup>[如皋]</sup> 织布机上让梭子来去滑动的木槽。  
 1. 【[梭钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_qin.md#梭钱)】`su1 qin2` <sup>[兴化]</sup> 旧时的一种儿童游戏：一块整砖支起一斜坡，参与者高举铜板向砖面落下，滚在前的砸后边的，砸到为赢。  
 1. 【[梭梭<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_su_r.md#梭梭<sub>儿</sub>)】`su1 su1 r` <sup>[东台]</sup> 旧时儿童玩的一种滚铁环的游戏。  
@@ -2820,7 +2819,7 @@
 1. 【[蓑衣虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_i_chon.md#蓑衣虫)】`su1 i1 chon2` <sup>[兴化]</sup> 蚊螋。《说文·虫部》：“蛷，多足虫也。”《广雅疏证》卷十下，王念孙注｜“……今扬州人谓之～……长可盈寸，行于壁上，往来甚捷。”  
 1. 【[蓑衣虫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_i_chon_r.md#蓑衣虫<sub>儿</sub>)】`su1 i1 chon2 r` <sup>[如皋]</sup> 花蚰蜒。  
 1. 【[蓑衣草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_i_co.md#蓑衣草)】`su1 i1 co3` <sup>[兴化]</sup> 即龙须草，亦称“蓑草”，可用来编制装衣或搓绳：～两股，绞成细绳，过去是穿制钱用的……（汪曾祺《岁寒三友》）  
-1. 【[趖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su.md#趖)】`su1` ① <sup>\[如皋\]</sup>快步走：他走起路来望前只～。 ② <sup>\[如皋\]</sup>滚：～铁环。 ③ <sup>\[兴化\]</sup>疾走：他走起路来直～。<sup>\[兴化\]</sup>｜一只老鼠一～就不见吖。《广韵戈韵》苏禾切<sup>\[兴化\]</sup>｜“～，～疾”。<sup>\[兴化\]</sup>  
+1. 【[趖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su.md#趖)】`su1` ① <sup>\[如皋\]\[兴化\]\[东台\]\[泰州\]\[泰县\]</sup>快步走、疾走：他走起路来望前只～。<sup>\[如皋\]</sup>｜他走起路来直～。<sup>\[兴化\]</sup>｜一只老鼠一～就不见吖。<sup>\[兴化\]</sup>｜他一～的下子，就走啊<sup>\[东台\]</sup>｜伢儿在下～来～去的。<sup>\[东台\]</sup>｜望吖他骑啊个车子一～的下子，人就看不见唻。<sup>\[泰州\]</sup>｜仓库门一开，地下老鼠～～的。<sup>\[泰州\]</sup>｜蟑螂在碗橱里直～。<sup>\[泰县\]</sup> ② <sup>\[如皋\]</sup>滚：～铁环。<sup>\[如皋\]</sup>  
 1. 【[趖抛抛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_po_po_r.md#趖抛抛<sub>儿</sub>)】`su1 po1 po1 r` <sup>[如皋]</sup> 游戏名。用砖“搭台”，设斜面，各人以铜钞（玻璃球等）高举、抛下，击斜坡后滚向前。过“疆线”为“呆子”，近疆线为先，余为次，以先击后，击中为胜。  
 1. 【[趖钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_qin.md#趖钱)】`su1 qin2` <sup>[兴化]</sup> 见“趖铜板”。  
 1. 【[趖铁环](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_tih_kuaen.md#趖铁环)】`su1 tih7 kuaen2` <sup>[如皋]</sup> 游戏名，滚铁环。  
