@@ -85,7 +85,7 @@
 1. 【[鸡生鸭熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_shen_ngaeh_shoh.md#鸡生鸭熟)】`ji1 shen1 ngaeh7 shoh8` <sup>[如皋]</sup> 俗语。不相熟的鸡相遇则争斗，不相熟的鸭相遇则合群。  
 1. 【[鸡屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_shr.md#鸡屎)】`ji1 shr3` <sup>[如皋]</sup> 鸡粪尿。  
 1. 【[鸡屎幺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_shr_io_r.md#鸡屎幺<sub>儿</sub>)】`ji1 shr3 io1 r` <sup>[如皋]</sup> 见“鸡屎”。  
-1. 【[鸡蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_taen.md#鸡蛋)】`ji1 taen6` ① 鸡蛋 ② <sup>\[如东\]</sup>雉科动物家鸡卵。  
+1. 【[鸡蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_taen.md#鸡蛋)】`ji1 taen6` 鸡蛋  
 1. 【[鸡蛋里挑骨头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_taen_lii_tio_gueh_teu.md#鸡蛋里挑骨头)】`ji1 taen6 lii tio1 gueh7 teu` <sup>[东台]</sup> ［喻］故意找岔子。  
 1. 【[鸡蛋里挑骨头——没事找事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_taen_lii_tio_gueh_teu_meh_shr_zho_shr.md#鸡蛋里挑骨头——没事找事)】`ji1 taen6 lii tio1 gueh7 teu2 meh8 shr6 zho3 shr6` <sup>[东台]</sup>   
 1. 【[鸡蛋碰石头——不自量力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_taen_pon_sheh_teu_beh_cz_lian_lieh.md#鸡蛋碰石头——不自量力)】`ji1 taen6 pon5 sheh8 teu beh7 cz6 lian6 lieh8` <sup>[东台]</sup>   
