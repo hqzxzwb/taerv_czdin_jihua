@@ -168,8 +168,7 @@
 1. 【[马齿苋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_chr_haen.md#马齿苋)】`ma3 chr3 haen6` <sup>[如东]</sup> 马齿苋科植物马齿苋，一年生肉质草本。  
 1. 【[马槽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_co.md#马槽)】`ma3 co2` <sup>[如皋]</sup> ① 马吃草料的木槽。 ② 简陋的棺材。另见“槥”。  
 1. 【[马草马料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_co_ma_lio.md#马草马料)】`ma3 co3 ma3 lio6` <sup>[如皋]</sup> 本指饲马的草料，又指腊月二十四送灶时给灶神所骑的“马”准备的稻草4-8小段，麸皮少许。灶神是“蟑螂”，灶马是“钱驮子”。  
-1. 【[马大哈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_da_ha.md#马大哈)】`ma3 da6 ha1` <sup>[如东]</sup> 粗心大意：做事不能～。  
-1. 【[马大哈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_da_ha.md#马大哈)】`ma3 da6 ha1` <sup>[泰兴]</sup> 遇事粗心很不在乎的人：不要说别人二百五，自家也是个～。  
+1. 【[马大哈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_da_ha.md#马大哈)】`ma3 da6 ha1` ① <sup>\[如东\]</sup>粗心大意：做事不能～。<sup>\[如东\]</sup> ② <sup>\[泰兴\]</sup>遇事粗心很不在乎的人：不要说别人二百五，自家也是个～。<sup>\[泰兴\]</sup>  
 1. 【[马灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_den.md#马灯)】`ma3 den1` <sup>[如皋]</sup> 桅灯。  
 1. 【[马兜铃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_deu_lien.md#马兜铃)】`ma3 deu1 lien2` <sup>[如东]</sup> 马兜铃科植物马兜铃，多年生缠绕或匍匐状细弱草本。  
 1. 【[马耳头菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_er_teu_cae.md#马耳头菜)】`ma3 er3 teu cae5` <sup>[如皋]</sup> 冬春上市的一种青菜，叶长若马耳。煮之汤白。  
@@ -197,8 +196,7 @@
 1. 【[马柜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_kuei.md#马柜)】`ma3 kuei6` <sup>[兴化]</sup> 一种方形的矮柜，内中可放置马桶。  
 1. 【[马拉大车牛耕田——各有各事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_la_da_cha_ngeu_gen_tin_gah_ieu_gah_shr.md#马拉大车牛耕田——各有各事)】`ma3 la1 da6 cha1 ngeu2 gen1 tin2 gah7 ieu3 gah7 shr6` <sup>[东台]</sup>   
 1. 【[马兰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_laen.md#马兰)】`ma3 laen2` <sup>[如东]</sup> 菊科植物马兰，多年生草本。  
-1. 【[马兰头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_laen_teu.md#马兰头)】`ma3 laen2 teu2` <sup>[兴化]</sup> 一种野菜，俗称“马菜”，菊科，多年生草本，嫩时可食用。  
-1. 【[马兰头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_laen_teu.md#马兰头)】`ma3 laen2 teu2` <sup>[泰兴]</sup> 一种可食的野菜。  
+1. 【[马兰头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_laen_teu.md#马兰头)】`ma3 laen2 teu2` ① <sup>\[兴化\]</sup>一种野菜，俗称“马菜”，菊科，多年生草本，嫩时可食用。 ② <sup>\[泰兴\]</sup>一种可食的野菜。  
 1. 【[马兰头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_laen_teu_r.md#马兰头<sub>儿</sub>)】`ma3 laen2 teu2 r` <sup>[如皋]</sup> 马兰花的嫩茎叶，可做菜。  
 1. 【[马兰桩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_laen_zhuan.md#马兰桩)】`ma3 laen2 zhuan1` <sup>[东台]</sup> 一种野菜，学名马兰头。又叫孩儿苣、红梗菜、田边菊。  
 1. 【[马漏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_leu_zz.md#马漏子)】`ma3 leu6 zz` <sup>[泰县]</sup> 不稳重的人。  

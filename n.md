@@ -1609,8 +1609,7 @@
 1. 【[女儿墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_er_qian.md#女儿墙)】`ny3 er qian2` <sup>[如东]</sup> 房顶四周的矮墙，叫做女儿墙。  
 1. 【[女将](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_jian.md#女将)】`ny3 jian` ① <sup>\[如皋\]\[如东\]\[东台\]\[兴化\]\[泰县\]\[泰兴\]</sup>通称已婚女性。或泛指成年女性：今朝下田裁秧的全是～<sup>\[兴化\]</sup> ② <sup>\[如皋\]\[如东\]\[东台\]\[兴化\]\[泰县\]\[泰兴\]</sup>指称妻子，又称老婆、堂客、伢儿娘、家里：我家～。<sup>\[如东\]</sup>｜她是黄四的～。<sup>\[兴化\]</sup>｜刘老四的～叫张小英。<sup>\[泰兴\]</sup>  
 1. 【[女将人家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_jian_ren_ga.md#女将人家)】`ny3 jian ren2 ga1` <sup>\[泰兴\]</sup>泛指已婚女子，含轻蔑意。  
-1. 【[女客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_keh.md#女客)】`ny3 keh7` <sup>[兴化]</sup> 宾客中的女性：今朝请客男宾三桌，～两桌。  
-1. 【[女客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_keh.md#女客)】`ny3 keh7` <sup>[泰兴]</sup> ① 客中女性 ② 女人。乡人俗称已婚女性为“女客”。  
+1. 【[女客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_keh.md#女客)】`ny3 keh7` ① <sup>\[兴化\]\[泰兴\]</sup>宾客中的女性：今朝请客男宾三桌，～两桌。<sup>\[兴化\]</sup> ② <sup>\[泰兴\]</sup>女人。乡人俗称已婚女性为“女客”。  
 1. 【[女奶奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_nae_nae.md#女奶奶)】`ny3 nae3 nae` <sup>[兴化]</sup> 已婚妇女：这些～话真多。  
 1. 【[女伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_nga_r.md#女伢<sub>儿</sub>)】`ny3 nga2 r` ① 女孩。 ② <sup>\[如皋\]</sup>女孩子。 ③ <sup>\[如东\]</sup>女孩子。  
 1. 【[女伢<sub>儿</sub>家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_nga_r_ga.md#女伢<sub>儿</sub>家)】`ny3 nga2 r ga` <sup>[如皋]</sup> 见“姑娘家”。  

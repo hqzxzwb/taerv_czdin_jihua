@@ -855,8 +855,7 @@
 1. 【[卫海堤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_hae_ti.md#卫海堤)】`vei6 hae3 ti2` <sup>[如东]</sup> 民国9年至13年（1920年～1924年），分期筑成。西起三十总向北至大弯头，折向东至鲁家丫子，再向南至长沙镇，全长126公里。  
 1. 【[卫生衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_shen_i.md#卫生衣)】`vei6 shen i1` <sup>\[泰兴\]</sup>机制绒里内衣。今已少见。  
 1. 【[卫生衫裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_shen_shaen_kv.md#卫生衫裤)】`vei6 shen shaen1 kv5` <sup>[兴化]</sup> 绒衫、绒裤。‖也称“卫生褂子”“卫生裤子”。  
-1. 【[卫生丸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_shen_un.md#卫生丸)】`vei6 shen un2` <sup>[兴化]</sup> ① 用来防腐或防蛀的樟脑丸。 ② 弹丸的隐语：这个巨贪怕要吃～吖。  
-1. 【[卫生丸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_shen_un.md#卫生丸)】`vei6 shen un2` <sup>[泰兴]</sup> 樟脑丸，用于防蛀防腐。  
+1. 【[卫生丸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_shen_un.md#卫生丸)】`vei6 shen un2` ① <sup>\[兴化\]\[泰兴\]</sup>用来防腐或防蛀的樟脑丸。 ② <sup>\[兴化\]</sup>弹丸的隐语：这个巨贪怕要吃～吖。<sup>\[兴化\]</sup>  
 1. 【[卫生纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_shen_zhr.md#卫生纸)】`vei6 shen1 zhr3` <sup>[如东]</sup> 质量比较细密的手纸。  
 1. 【[卫身棍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_shen_guen.md#卫身棍)】`vei6 shen1 guen5` <sup>[兴化]</sup> 手杖的旧称。  
 1. 【[味精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_jien.md#味精)】`vei6 jien1` <sup>[如东]</sup> 调味品。白色粉末，放在菜或汤里使其有鲜味。  
