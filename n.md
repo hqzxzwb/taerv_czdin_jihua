@@ -1600,13 +1600,17 @@
 1. 【[努嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nv_jy.md#努嘴)】`nv3 jy3` ① <sup>\[如皋\]</sup>嘴向一边歪动，以示意。 ② <sup>\[如皋\]</sup>嘴向一边歪动，以示意。 ③ <sup>\[东台\]</sup>噘嘴示意。  
 1. 【[努努耐耐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nv_nv_nae_nae.md#努努耐耐)】`nv3 nv3 nae6 nae6` <sup>[兴化]</sup> 形容耐心坚持：他～的等儿子家来吃饭。  
 1. 【[揄捺人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_naeh_ren.md#揄捺人)】`ny2 naeh8 ren2` <sup>[东台]</sup> 嘲笑、讥讽别人。（揄，揶揄）  
-1. 【[女大十八变](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_da_sheh_baeh_bin.md#女大十八变)】`ny3 da6 sheh8 baeh7 bin5` <sup>[东台]</sup> 女孩子长大后模样变得快，越变越好看。  
-1. 【[女当家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_dan_jia.md#女当家)】`ny3 dan1 jia1` ① <sup>\[东台\]</sup>指女人说了算的家庭。 ② <sup>\[兴化\]</sup>在居家处事中，由妻子作主：他家是～，先生吃粮不管事。<sup>\[兴化\]</sup> ③ <sup>\[兴化\]</sup>（戏）称妻或别人的妻子：～的。<sup>\[兴化\]</sup>  
+1. 【[女大不中留](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_da_beh_zhon.md#女大不中留)】`ny3 da6 beh7 zhon5 lieu2` <sup>\[泰兴\]</sup>谓女子成年，须应时出嫁，不宜久留在家。  
+1. 【[女大当嫁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_da_dan_ga.md#女大当嫁)】`ny3 da6 dan1 ga5` <sup>\[泰兴\]</sup>女孩大了，就应该出嫁。  
+1. 【[女大十八变](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_da_sheh_baeh_bin.md#女大十八变)】`ny3 da6 sheh8 baeh7 bin5` <sup>\[东台\]\[泰兴\]</sup>女性发育成长过程中容貌、性格多变  
+1. 【[女当家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_dan_jia.md#女当家)】`ny3 dan1 jia1` ① <sup>\[东台\]\[兴化\]\[泰兴\]</sup>女人当家处事：他家是～，先生吃粮不管事。<sup>\[兴化\]</sup>｜他家是～。<sup>\[泰兴\]</sup> ② <sup>\[兴化\]</sup>（戏）称妻或别人的妻子：～的。<sup>\[兴化\]</sup>  
 1. 【[女儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_er.md#女儿)】`ny3 er` <sup>[如东]</sup> 自己的下一代女孩称女儿。  
 1. 【[女儿节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_er_jih.md#女儿节)】`ny3 er jih7` ① <sup>\[如皋\]</sup>农历二月二。出嫁女回母家过节。 ② <sup>\[如东\]</sup>阴历二月初二日为女儿节。幼女梳妆打扮，极妍极美；出嫁的女儿回娘家团聚，吃蒿儿饼。民谣：“二月二，挑蒿儿，搜饼儿，带女儿。不带女儿穷鬼儿；女儿不来，烂腿儿。”  
 1. 【[女儿墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_er_qian.md#女儿墙)】`ny3 er qian2` <sup>[如东]</sup> 房顶四周的矮墙，叫做女儿墙。  
-1. 【[女将](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_jian.md#女将)】`ny3 jian` ① <sup>\[如皋\]</sup>通称已婚女性。 ② <sup>\[如皋\]</sup>指称妻子，又称老婆、堂客、伢儿娘、家里。 ③ <sup>\[如东\]</sup>泛指成年妇女。丈夫对妻子的称谓：我家～。<sup>\[如东\]</sup> ④ <sup>\[东台\]</sup>妻子，婆娘。 ⑤ <sup>\[东台\]</sup>已婚女子。 ⑥ <sup>\[兴化\]</sup>妇女：今朝下田裁秧的全是～。<sup>\[兴化\]</sup> ⑦ <sup>\[兴化\]</sup>妻：她是黄四的～。<sup>\[兴化\]</sup> ⑧ <sup>\[泰县\]</sup>女人。 ⑨ <sup>\[泰县\]</sup>老婆。  
+1. 【[女将](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_jian.md#女将)】`ny3 jian` ① <sup>\[如皋\]\[如东\]\[东台\]\[兴化\]\[泰县\]\[泰兴\]</sup>通称已婚女性。或泛指成年女性：今朝下田裁秧的全是～<sup>\[兴化\]</sup> ② <sup>\[如皋\]\[如东\]\[东台\]\[兴化\]\[泰县\]\[泰兴\]</sup>指称妻子，又称老婆、堂客、伢儿娘、家里：我家～。<sup>\[如东\]</sup>｜她是黄四的～。<sup>\[兴化\]</sup>｜刘老四的～叫张小英。<sup>\[泰兴\]</sup>  
+1. 【[女将人家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_jian_ren_ga.md#女将人家)】`ny3 jian ren2 ga1` <sup>\[泰兴\]</sup>泛指已婚女子，含轻蔑意。  
 1. 【[女客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_keh.md#女客)】`ny3 keh7` <sup>[兴化]</sup> 宾客中的女性：今朝请客男宾三桌，～两桌。  
+1. 【[女客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_keh.md#女客)】`ny3 keh7` <sup>[泰兴]</sup> ① 客中女性 ② 女人。乡人俗称已婚女性为“女客”。  
 1. 【[女奶奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_nae_nae.md#女奶奶)】`ny3 nae3 nae` <sup>[兴化]</sup> 已婚妇女：这些～话真多。  
 1. 【[女伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_nga_r.md#女伢<sub>儿</sub>)】`ny3 nga2 r` ① 女孩。 ② <sup>\[如皋\]</sup>女孩子。 ③ <sup>\[如东\]</sup>女孩子。  
 1. 【[女伢<sub>儿</sub>家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_nga_r_ga.md#女伢<sub>儿</sub>家)】`ny3 nga2 r ga` <sup>[如皋]</sup> 见“姑娘家”。  
@@ -1614,6 +1618,7 @@
 1. 【[女<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_r.md#女<sub>儿</sub>)】`ny3 r` <sup>[如皋]</sup> ① 指称女孩子。面称称名。雅称姑娘。昵称“丫头”，或小伙，鄙称“外根、外根的、不上街”。 ② 女孩子乳名的尾缀：银～、莲～。  
 1. 【[女人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_ren.md#女人)】`ny3 ren2` <sup>[如东]</sup> 女性，多指成年女子。也称女的。男人的妻子：我家～。  
 1. 【[女生外向](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_shen_vae_xian.md#女生外向)】`ny3 shen1 vae6 xian5` <sup>[兴化]</sup> ① 传女胎儿在娘胎中的面部朝外：“……因为～，他两手两脚都在外面……”（《广陵潮》六） ② 旧指女子终究要出嫁，成为外姓：岂知～，虽系吾所生，到底是别家的人。（《初刻》三八）  
+1. 【[女婿半个儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_xy_bun_gu_er.md#女婿半个儿)】`ny3 xy bun5 gu5 er2` <sup>\[泰兴\]</sup>喻岳父母对女婿尤爱，当成自己的儿子。  
 1. 【[女婿一到，丈母娘靠灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_xy_ieh_do_chan_mu_nian_ko_zo.md#女婿一到，丈母娘靠灶)】`ny3 xy5 ieh7 do5 chan6 mu3 nian2 ko5 zo5` <sup>[东台]</sup> 丈母娘立刻为爱婿忙饭做菜。  
 1. 【[女婿如半子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_xy_rv_bun_zz.md#女婿如半子)】`ny3 xy5 rv2 bun5 zz3` <sup>[东台]</sup> 女婿像半个儿子一样重要。  
 1. 【[女贞根](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_zhen_gen.md#女贞根)】`ny3 zhen1 gen1` <sup>[如东]</sup> 木樨科植物女贞根。  
