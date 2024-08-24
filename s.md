@@ -1311,7 +1311,7 @@
 1. 【[甚的头绪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_nii_teu_qy.md#甚的头绪)】`shen2 nii teu2 qy6` <sup>[如东]</sup> ① 什么花样：这个是～？ ② 什么办法：看看他有～。  
 1. 【[甚的址坷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_nii_zhr_ku.md#甚的址坷)】`shen2 nii zhr3 ku` <sup>[如皋]</sup> 什么意思（用意/原因）：你晓得她打伢儿是～？是打伢儿吭邻舍家。  
 1. 【[甚些](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_xi.md#甚些)】`shen2 xi` <sup>[兴化]</sup> 疑问代词，相当于“什么”：吃～｜做～｜写的～｜这是～｜那是～。  
-1. 【[盛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen.md#盛)】`shen2` ① 装入 ② <sup>\[泰县\]</sup>装：～饭。  
+1. 【[盛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen.md#盛)】`shen2` <sup>\[泰县\]\[泰州\]</sup>用容器装东西。多用于用碗装饭。\[泰州：（chen2）\]：～饭。<sup>\[泰县\]</sup>｜天天都要同他把饭～吖好啊摆啊桌上，喊他过来吃。<sup>\[泰州\]</sup>｜你这个篮子嫌小，二十斤萝卜～不下。<sup>\[泰州\]</sup>  
 1. 【[盛得进去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_deh_jien_qy.md#盛得进去)】`shen2 deh7 jien5 qy5` <sup>[东台]</sup> 装得下的意思。  
 1. 【[盛饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_faen.md#盛饭)】`shen2 faen6` <sup>[东台]</sup> 把饭装进碗里。  
 1. 【[盛起饭来炒啊吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_qi_faen_lae.md#盛起饭来炒啊吃)】`shen2 qi faen6 lae cho3 a qieh7` <sup>[泰兴]</sup> 见“一番生意两番做”。  

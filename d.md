@@ -415,7 +415,7 @@
 1. 【[大大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_da.md#大大)】`da5 da` <sup>\[如皋\]\[东台\]\[兴化\]\[泰县\]\[泰兴\]</sup>伯伯，父亲的哥哥\[东台：也用于对伯母或上一辈男子的尊称。\]\[兴化：或比父亲年长的姑母\]\[泰兴：泰兴东乡称年龄高于父亲的同辈男性，即伯父为“大大”，西乡部分地区泛称与父同辈男性为“大大”。\]  
 1. 【[大佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lo_r.md#大佬<sub>儿</sub>)】`da5 lo3 r` ① <sup>\[如皋\]</sup>单位的第一领导人。 ② <sup>\[如皋\]</sup>指称兄弟中的行一者。 ③ <sup>\[东台\]</sup>对排行老大的昵称。  
 1. 【[大妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma.md#大妈)】`da5 ma` ① <sup>\[兴化\]\[泰县\]</sup>旧称女佣。 ② <sup>\[泰县\]</sup>伯母。  
-1. 【[大妈妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma_ma.md#大妈妈)】`da5 ma1 ma` <sup>\[如皋\]</sup>伯母。  
+1. 【[大妈妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma_ma.md#大妈妈)】`da5 ma1 ma` <sup>\[如皋\]\[如东\]</sup>伯母。  
 1. 【[大妈妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma_ma.md#大妈妈)】`da5 ma6 ma` ① <sup>\[兴化\]</sup>大伯母。 ② <sup>\[兴化\]</sup>敬称年长妇女。  
 1. 【[大面相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_min_xian.md#大面相)】`da5 min6 xian5` <sup>[泰县]</sup> 表面上。  
 1. 【[大奶奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_nae_nae.md#大奶奶)】`da5 nae3 nae` <sup>[如皋]</sup> ① 老大之妻。 ② 对正妻的尊称。  
@@ -630,7 +630,6 @@
 1. 【[大路脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lv_jiah_r.md#大路脚<sub>儿</sub>)】`da6 lv6 jiah7 r` <sup>[如皋]</sup> 大摇大摆地：他走南头老远的就～的摇过来啊，好不自在！  
 1. 【[大妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma.md#大妈)】`da6 ma` <sup>[泰兴]</sup> 伯母。  
 1. 【[大妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma.md#大妈)】`da6 ma1` ① <sup>\[东台\]</sup>父亲的嫂子。也用于对上一辈女子的尊称。 ② <sup>\[兴化\]</sup>父亲的长嫂，即大伯母。 ③ <sup>\[兴化\]</sup>对年长妇女的敬称：张～；王～。<sup>\[兴化\]</sup>  
-1. 【[大妈妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma_ma.md#大妈妈)】`da6 ma1 ma` <sup>[如东]</sup> 伯父的妻子。亦称伯母。  
 1. 【[大马其略的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma_qi_liah_dii.md#大马其略的)】`da6 ma1 qi2 liah7 dii` <sup>[东台]</sup> 粗略的、马虎了事的意思：这书我只是～翻吖下子。  
 1. 【[大麻苍蝇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma_can_ien.md#大麻苍蝇)】`da6 ma2 can1 ien` <sup>[泰县]</sup> 不知趣的人。  
 1. 【[大麻风水癞子总不医，只医（依）𢘞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma_fon_shuei.md#大麻风水癞子总不医，只医（依）𢘞)】`da6 ma2 fon1 shuei3 lae6 zz zon3 beh7 i1 zheh7 i1 nen3` <sup>[泰兴]</sup> 诙谐语，谓其他人的意见都不采纳，只按你的意见办。  

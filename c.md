@@ -799,7 +799,6 @@
 1. 【[沉实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_sheh.md#沉实)】`chen2 sheh8` <sup>[兴化]</sup> 新填筑的地基、圩堤或路面，经一定时间雨水冲击和自然沉降，由虚变实：圩堤～高度4米。  
 1. 【[沉香色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_xian_seh.md#沉香色)】`chen2 xian1 seh7` <sup>[如皋]</sup> 像沉香木的浅黄色。  
 1. 【[澄江门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_jian_men.md#澄江门)】`chen2 jian1 men2` <sup>[如皋]</sup> 明代如皋城门。  
-1. 【[盛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen.md#盛)】`chen2` <sup>[泰州]</sup> ① 将食物、饮料等装进食器中：天天都要同他把饭～吖好啊摆啊桌上，喊他过来吃。 ② 泛指将东西装进容器中：你这个篮子嫌小，二十斤萝卜～不下。  
 1. 【[絾被](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_pi.md#絾被)】`chen2 pi6` <sup>[如东]</sup> 将被胎絮在被套里缝起来。  
 1. 【[絾被单](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_pi_daen.md#絾被单)】`chen2 pi6 daen1` <sup>[如皋]</sup> 绗被子。  
 1. 【[诚心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_xien.md#诚心)】`chen2 xien1` <sup>[如东]</sup> 真心。  
@@ -873,11 +872,10 @@
 1. 【[趁熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_shoh.md#趁熟)】`chen5 shoh8` <sup>[兴化]</sup> 逃荒，到丰收之地谋生：几年前外省闹水灾，好多灾民到这块～。  
 1. 【[趁水淌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_shuei_tan.md#趁水淌)】`chen5 shuei3 tan3` <sup>[如东]</sup> 比喻跟着走：他就欢喜～。  
 1. 【[趁早](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_zo.md#趁早)】`chen5 zo3` <sup>[如皋]</sup> 宜早不宜迟，要抓紧：要走～走｜做力气活要一来～，二来趁饱。  
-1. 【[㵾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen.md#㵾)】`chen6` ① 冷，冻：～人｜冰～人 ② <sup>\[如皋\]</sup>触之觉冷：手伸吖冻水里，骨头～得疼。<sup>\[如皋\]</sup> ③ <sup>\[兴化\]</sup>触摸物体时冷的感觉：被窠里蛮～人的。<sup>\[兴化\]</sup>｜这盆水冰～人的。<sup>\[兴化\]</sup> ④ <sup>\[泰州\]</sup>寒气逼人：九里天下河去洗被单，还把人～煞唻。<sup>\[泰州\]</sup>  
+1. 【[㵾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen.md#㵾)】`chen6` <sup>\[如皋\]\[兴化\]\[泰州\]</sup>\[训\]使（人）觉冷：～人｜冰～人｜手伸吖冻水里，骨头～得疼。<sup>\[如皋\]</sup>｜被窠里蛮～人的。<sup>\[兴化\]</sup>｜这盆水冰～人的。<sup>\[兴化\]</sup>｜九里天下河去洗被单，还把人～煞唻。<sup>\[泰州\]</sup>  
 1. 【[㵾牙齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_ia_chr.md#㵾牙齿)】`chen6 ia2 chr3` <sup>[东台]</sup> 食物偏冷，牙齿咀嚼时有冷的感觉。  
-1. 【[㵾人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_ren.md#㵾人)】`chen6 ren` <sup>[泰县]</sup> 水冷得使人惊恐。  
 1. 【[㵾人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_ren_zz.md#㵾人子)】`chen6 ren zz` <sup>[如皋]</sup> 接触冷物的感觉：冷天，手摸咖石头上觉察～。  
-1. 【[㵾人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_ren.md#㵾人)】`chen6 ren2` ① ［凈人］物体温度低，很冷。 ② <sup>\[东台\]</sup>使人触及后有冷刺激的感觉：你手太冷，～吖。（《说文解字》“㵾，冷寒也。”“今吴语谓冷物附他物，其语如郑国之郑，即㵾也。”）<sup>\[东台\]</sup>  
+1. 【[㵾人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_ren.md#㵾人)】`chen6 ren2` <sup>\[东台\]\[泰县\]</sup>物体温度低，使人触及后有冷刺激的感觉\[泰县：（chen6 ren）\]：你手太冷，～吖。<sup>\[东台\]</sup>  
 1. 【[阵场雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_chan_y.md#阵场雨)】`chen6 chan y3` <sup>[如皋]</sup> 见“阵头雨”。  
 1. 【[阵场雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_chan_y.md#阵场雨)】`chen6 chan2 y3` ① <sup>\[如东\]</sup>雷阵雨。 ② <sup>\[东台\]</sup>夏秋季节短暂的骤雨。  
 1. 【[阵阵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_chen.md#阵阵)】`chen6 chen6` <sup>[如皋]</sup> 见“阵头”。  
