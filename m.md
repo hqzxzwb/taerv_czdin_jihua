@@ -146,7 +146,7 @@
 1. 【[码头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_teu.md#码头)】`ma3 teu` ① <sup>\[如东\]</sup>海岸或河边上专供停靠船舶，上下旅客和装卸货物的地方。 ② <sup>\[如东\]</sup>宅前的道路。 ③ <sup>\[兴化\]</sup>旧指交通便利的工商业城镇：水陆～；他是跑～的。<sup>\[兴化\]</sup> ④ <sup>\[兴化\]</sup>组成木器框架的“片子”两端的木料，其两头凿有投榫的眼。  
 1. 【[码头口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_teu_keu.md#码头口)】`ma3 teu2 keu3` <sup>[如皋]</sup> 近码头的地方。  
 1. 【[码堍子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_tv_zz.md#码堍子)】`ma3 tv5 zz` <sup>[如皋]</sup> 高码头的近岸处。  
-1. 【[码子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_zz.md#码子)】`ma3 zz` ① <sup>\[如皋\]</sup>暗语，指某人：刚才的～不识好。<sup>\[如皋\]</sup> ② <sup>\[如皋\]</sup>骰子（色儿）所表示的数：笃定～开！<sup>\[如皋\]</sup> ③ <sup>\[兴化\]</sup>“人”的隐语：神气～；土佬～；九二～（刘）。<sup>\[兴化\]</sup> ④ <sup>\[兴化\]</sup>（喻）等级：这个徒弟比我好一百个～。<sup>\[兴化\]</sup>  
+1. 【[码子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_zz.md#码子)】`ma3 zz` ① <sup>\[如皋\]\[兴化\]</sup>暗语，指人或某人：刚才的～不识好。<sup>\[如皋\]</sup>｜神气～；土佬～；九二～（刘）。<sup>\[兴化\]</sup> ② <sup>\[如皋\]</sup>骰子（色儿）所表示的数：笃定～开！<sup>\[如皋\]</sup> ③ <sup>\[兴化\]</sup>（喻）等级：这个徒弟比我好一百个～。<sup>\[兴化\]</sup>  
 1. 【[蚂蟥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_huan.md#蚂蟥)】`ma3 huan2` <sup>[如东]</sup> 水蛭科动物宽体金线蛭，又叫蚂虮。  
 1. 【[蚂蚁草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_i_co.md#蚂蚁草)】`ma3 i co3` <sup>[如皋]</sup> 萹蓄。（原文作“马尾草”，音不合）  
 1. 【[蚂蚁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_i.md#蚂蚁)】`ma3 i3` <sup>[如东]</sup> 蚁科昆虫黑蚁，又称蚂米儿。  
