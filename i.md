@@ -718,7 +718,8 @@
 1. 【[一篙子抹到底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_go_zz_maeh_do_di.md#一篙子抹到底)】`ieh7 go1 zz maeh8 do5 di3` <sup>[东台]</sup> 形容免去一切职务。  
 1. 【[一交](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_go.md#一交)】`ieh7 go5` <sup>[兴化]</sup> 一遍：晒～；洗～；磨～｜（浦郎见）桌上放着些废残的经典，翻了～，那有个什么诗。（《儒林外史》二一）  
 1. 【[一弓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_gon.md#一弓)】`ieh7 gon1` <sup>[如东]</sup> 长度单位，与步相应。其制历代不一：或以八尺为一弓；或以六尺为弓；清制以五尺为一弓，三百六十弓为一里，二百四十方弓为一亩。  
-1. 【[一个巴掌拍不响](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_gu_ba_zhan_poh_beh_xian.md#一个巴掌拍不响)】`ieh7 gu ba1 zhan3 poh7 beh7 xian3` <sup>[东台]</sup> 矛盾不可能孤立存在，总由双方因素构成。  
+1. 【[一个巴掌拍不响](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_gu_ba_zhan_poh_beh_xian.md#一个巴掌拍不响)】`ieh7 gu ba1 zhan3 poh7 beh7 xian3` <sup>\[东台\]\[泰兴\]</sup>指矛盾是由双方造成的  
+1. 【[一个半斤，一个八两](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_gu_bun_jien.md#一个半斤，一个八两)】`ieh7 gu bun5 jien1 ieh7 gu baeh7 lian3` <sup>[泰兴]</sup> 指双方势均力敌，不相上下。  
 1. 【[一个唱红脸，一个唱白脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_gu_chan_hon_lin_ieh_gu_chan_poh_lin.md#一个唱红脸，一个唱白脸)】`ieh7 gu chan5 hon2 lin3 ieh7 gu chan5 poh8 lin3` <sup>[东台]</sup> 以戏剧中的脸谱，喻指做思想工作时，一个严厉，一个温和，相互配合，相得益彰。  
 1. 【[一个耳朵进，一个耳朵出](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_gu_er_do_jien_ieh_gu_er_do_chueh.md#一个耳朵进，一个耳朵出)】`ieh7 gu er3 do jien ieh7 gu er3 do chueh7` <sup>[泰兴]</sup> 指对别人的意见听不进去，很不当心，或绝不放在心上，根本不听：格个伢儿对长辈的教导是～，长大啊有甚的出息?  
 1. 【[一个锅里做不出两样茶饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_gu_gu_lii_zu_beh_chueh_laen_ian_cha_faen.md#一个锅里做不出两样茶饭)】`ieh7 gu gu1 lii zu5 beh7 chueh7 laen3 ian cha2 faen` <sup>[泰兴]</sup> 喻在相同的条件下产生的效果也是相同的，不会有不同的结果。  
