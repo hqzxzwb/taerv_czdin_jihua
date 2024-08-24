@@ -2188,8 +2188,8 @@
 1. 【[狐狸精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_li_jien.md#狐狸精)】`hv2 li2 jien1` ① <sup>\[如东\]</sup>传说中的狐狸精非常漂亮，比喻打扮妖艳的女人。 ② <sup>\[如东\]</sup>比喻狡猾的人。 ③ <sup>\[如皋\]</sup>传说中的妖怪之一，由狐修炼而成。 ④ <sup>\[如皋\]</sup>詈语，专指勾引男人的女人。  
 1. 【[狐狸精𢪯尾巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_li_jien_tae_vei_ba.md#狐狸精𢪯尾巴)】`hv2 li2 jien1 tae1 vei3 ba` <sup>[如皋]</sup> 打扮、伪装得再好，总要露出真相。  
 1. 【[狐臊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_so.md#狐臊)】`hv2 so` <sup>[兴化]</sup> 腋臭。  
+1. 【[狐臊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_so.md#狐臊)】`hv2 so1` <sup>[东台]</sup> 狐臭味。  
 1. 【[狐臊气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_so_qi.md#狐臊气)】`hv2 so1 qi5` <sup>[如东]</sup> 由于腋窝、阴部等部位的皮肤内汗腺分泌异常而产生的刺鼻味。也称狐臭。  
-1. 【[狐骚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_so.md#狐骚)】`hv2 so1` <sup>[东台]</sup> 狐臭味。  
 1. 【[糊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv.md#糊)】`hv2` <sup>[如东]</sup> ① 把纸或布粘贴在物体的表面上。 ② 模糊：眼睛～。 ③ 烂，焦：饭烧～啊。  
 1. 【[糊包子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_bo_zz.md#糊包子)】`hv2 bo1 zz` <sup>[东台]</sup> 祭祀用的锡箔馃子，用红纸或黄元纸包装糊成包子。  
 1. 【[糊打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_da.md#糊打)】`hv2 da` ① <sup>\[如皋\]</sup>敷衍塞责：他是～你的，你不要信他。<sup>\[如皋\]</sup> ② <sup>\[兴化\]</sup>应付了事：拿好话～人。<sup>\[兴化\]</sup>  
@@ -2229,12 +2229,12 @@
 1. 【[胡椒心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_jio_xien.md#胡椒心)】`hv2 jio1 xien1` <sup>[兴化]</sup> （喻）毒辣的心肠。俗称嘴甜心辣的人为“洋糖嘴，～”。  
 1. 【[胡来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_lae.md#胡来)】`hv2 lae2` <sup>[如东]</sup> 不按规矩，任意乱做：不可以～。  
 1. 【[胡里打滚的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_lii_da_guen_dii.md#胡里打滚的)】`hv2 lii da3 guen3 dii` <sup>[如皋]</sup> 见“胡头乱说”。  
-1. 【[胡萝卜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_lu_poh.md#胡萝卜)】`hv2 lu2 poh` <sup>[如东]</sup> 伞形科植物胡萝卜，一年生或二年生草本。  
-1. 【[胡萝卜干<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_lu_poh_gun_r.md#胡萝卜干<sub>儿</sub>)】`hv2 lu2 poh gun1 r` <sup>[如皋]</sup> 胡萝卜纵切四丫晒成的干货或腌成的咸菜。  
+1. 【[胡萝卜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_lu_poh.md#胡萝卜)】`hv2 lu2 poh` <sup>\[如东\]\[泰兴\]</sup>胡萝卜，伞形科植物\[泰兴：（uh7 lou1 poh）\]  
+1. 【[胡萝卜干<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_lu_poh_gun_r.md#胡萝卜干<sub>儿</sub>)】`hv2 lu2 poh gun1 r` <sup>[如皋]</sup> 胡萝卜纵切四瓣晒成的干货或腌成的咸菜。  
 1. 【[胡闹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_no.md#胡闹)】`hv2 no6` <sup>[如东]</sup> 没有道理地打斗。  
-1. 【[胡𨑊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_non.md#胡𨑊)】`hv2 non2` <sup>[兴化]</sup> ① 敏强应付：这套衣裳款式老一点，先～穿吧！这件事不必认真，～过去算吖。 ② 欺骗、蒙混：～人。  
+1. 【[胡𨑊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_non.md#胡𨑊)】`hv2 non2` <sup>[兴化]</sup> ① 勉强应付：这套衣裳款式老一点，先～穿吧！这件事不必认真，～过去算吖。 ② 欺骗、蒙混：～人。  
 1. 【[胡七皂八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_qieh_co_baeh.md#胡七皂八)】`hv2 qieh7 co6 baeh7` <sup>[兴化]</sup> 形容说话、办事不依规矩：他～的一揪，局面全乱吖。  
-1. 【[胡<sub>儿</sub>□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_r_ha.md#胡<sub>儿</sub>□)】`hv2 r ha3` <sup>[如皋]</sup> 稀里糊涂的。  
+1. 【[胡<sub>儿</sub>𤹉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_r_ha.md#胡<sub>儿</sub>𤹉)】`hv2 r ha3` <sup>[如皋]</sup> 稀里糊涂的。  
 1. 【[胡说八道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_shuh_baeh_to.md#胡说八道)】`hv2 shuh7 baeh7 to6` <sup>[如东]</sup> 没有根据地东扯西拉。  
 1. 【[胡思乱想](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_sz_lun_xian.md#胡思乱想)】`hv2 sz1 lun6 xian3` <sup>[如东]</sup> 没有根据地东猜西想。  
 1. 【[胡头大乱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_teu_da_lun.md#胡头大乱)】`hv2 teu2 da6 lun6` ① <sup>\[如东\]</sup>非常混乱：无人管理，～。<sup>\[如东\]</sup> ② <sup>\[如皋\]</sup>极其混乱、荒唐。  
@@ -2267,9 +2267,9 @@
 1. 【[虎落平阳被犬欺，失时凤凰不如鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_lah_pien_ian_pi_qiun_qi_sheh_shr_fon_huan_beh_rv_ji.md#虎落平阳被犬欺，失时凤凰不如鸡)】`hv3 lah8 pien2 ian2 pi6 qiun3 qi1 sheh7 shr2 fon6 huan2 beh7 rv2 ji1` <sup>[东台]</sup> 人的势力威风离不开一定环境。  
 1. 【[虎狼神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_lan_shen.md#虎狼神)】`hv3 lan2 shen2` ① <sup>\[如皋\]</sup>凶暴者。 ② <sup>\[东台\]</sup>形容非常凶猛快捷的样子：他～样的冲上去。<sup>\[东台\]</sup>  
 1. 【[虎郎神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_lan_shen.md#虎郎神)】`hv3 lan2 shen2` <sup>[泰县]</sup> 鲁莽，气势汹汹的人。  
-1. 【[虎丫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_nga.md#虎丫)】`hv3 nga1` ① <sup>\[如东\]</sup>拇指与食指之间。也称虎口：夹咖～里。<sup>\[如东\]</sup> ② <sup>\[如皋\]</sup>拇指与食指间。  
+1. 【[虎丫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_nga.md#虎丫)】`hv3 nga1` <sup>\[如东\]\[如皋\]</sup>拇指与食指之间。\[如东：也称虎口。\]：夹咖～里。<sup>\[如东\]</sup>  
 1. 【[虎牙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_nga.md#虎牙)】`hv3 nga2` <sup>[如东]</sup> 齿的一种，上下颌各有两枚，在门齿的两侧，齿冠锐利，便于撕裂食物。也称犬齿、犬牙。  
-1. 【[虎皮肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_pi_roh.md#虎皮肉)】`hv3 pi2 roh8` ① <sup>\[如皋\]</sup>即“跑油肉”。 ② <sup>\[如皋\]</sup>见“跑油肉”。  
+1. 【[虎皮肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_pi_roh.md#虎皮肉)】`hv3 pi2 roh8` <sup>\[如皋\]</sup>即“跑油肉”。  
 1. 【[虎势狼威](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_shr_lan_vei.md#虎势狼威)】`hv3 shr5 lan2 vei1` <sup>[兴化]</sup> 令人畏惧的声势或气派：过去当官的出来，护兵一大群，～的真怕人子。  
 1. 【[虎头鞋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_teu_hae.md#虎头鞋)】`hv3 teu2 hae2` ① <sup>\[如东\]</sup>一种童鞋。鞋头做成虎头形，有双目，有口，有须。小儿抓期以及端午节穿，表示吉祥、雄伟和避邪。 ② <sup>\[如皋\]</sup>婴鞋，鞋头绣花呈虎头形。  
 1. 【[虎头花边瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_teu_hua_bin_va.md#虎头花边瓦)】`hv3 teu2 hua1 bin1 va3` <sup>[兴化]</sup> ① 檐前滴水的瓦，前面有虎头花边，故名。 ② （喻）旧谓流品底下，成份复杂的人群：他的朋友全是～，没几个周正人。  
@@ -2281,24 +2281,23 @@
 1. 【[𢮎粪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_fen.md#𢮎粪)】`hv3 fen5` <sup>[如皋]</sup> 用料勺泼浇粪肥。  
 1. 【[𢮎毛昌纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_mo_chan_zhr.md#𢮎毛昌纸)】`hv3 mo2 chan1 zhr3` <sup>[如东]</sup> 在灵柩出殡途中，丧家不断地向外抛出毛昌纸，表示丢下了买路钱。  
 1. 【[𢮎种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_zhon.md#𢮎种)】`hv3 zhon3` <sup>[如皋]</sup> 撒种：～麦种、～菜种。  
-1. 【[□汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_tan.md#□汤)】`hv5 tan1` <sup>[兴化]</sup> 下面条或下汤圆的水因使用多次而变稠。又谓“淴汤”。  
 1. 【[戽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv.md#戽)】`hv5` <sup>[如皋]</sup> ① 风吹：～风、风～～的。 ② 快速转动：车轮儿只～。 ③ 形容吸烟：香烟～起来啊。 ④ 形容舞动、飘动：苍蝇乱～。  
 1. 【[戽风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_fon.md#戽风)】`hv5 fon1` ① <sup>\[如皋\]</sup>迎风，承受风力：衣裳～，捱吹啊鼓起来啊。<sup>\[如皋\]</sup> ② <sup>\[兴化\]</sup>物体前进时受到风的阻力，兴化词典写“护风”：……乃因他穿的长衣服，走起路来……（《武松》六）也。说“夯风”。<sup>\[兴化\]</sup>  
 1. 【[戽戽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_hv.md#戽戽)】`hv5 hv5` <sup>[如皋]</sup> 转动、舞动、吹动、飘动的样子。  
-1. 【[戽水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_shuei.md#戽水)】`hv5 shuei3` ① <sup>\[如东\]</sup>水车提水。 ② <sup>\[如东\]</sup>人工把水从低处往高处泼。 ③ <sup>\[如皋\]</sup>文称，指水车提水。口称踏水、赶水、吆水。 ④ <sup>\[如皋\]</sup>二人对立握绳拉一木桶从低处取水望高处倒的过程。这是本义。  
+1. 【[戽水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_shuei.md#戽水)】`hv5 shuei3` <sup>\[如东\]\[如皋\]</sup>提水，把水从低处往高处泼。用水车或人工。\[如皋：文称，指水车提水。口称踏水、赶水、吆水。又指二人对立握绳拉一木桶从低处取水望高处倒的过程，这是本义。\]  
 1. 【[𥲉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_zz.md#𥲉子)】`hv5 zz` <sup>[如皋]</sup> 一种花瓶式扁竹篓，渔人用以𣥼鱼，旧时学校用以𣥼字纸儿。  
 1. 【[互不照面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_beh_zho_min.md#互不照面)】`hv6 beh7 zho5 min6` <sup>[东台]</sup> 有意回避，互相不见面：他俫以往有过节，在公开场合～。  
 1. 【[互相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_xian.md#互相)】`hv6 xian1` <sup>[东台]</sup> 除一般释义外，在东台话里还作为动词使用，指彼此进行协同的动作：考试应该独立完成，不能～。  
 1. 【[户斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_deu.md#户斗)】`hv6 deu3` <sup>[泰县]</sup> 砖砌的空心墙。  
 1. 【[户口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_keu.md#户口)】`hv6 keu` <sup>[兴化]</sup> 人。见“户儿”。  
-1. 【[户<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_r.md#户<sub>儿</sub>)】`hv6 r` ① <sup>\[如皋\]</sup>贬指某人、某家：这个～叫（使、令）人不放心<sup>\[如皋\]</sup>｜他家是个暴发～。<sup>\[如皋\]</sup> ② <sup>\[兴化\]</sup>人（轻蔑口吻）：“……你家四个侉子，又是四个强盗，杀人不眨眼的～，不能玩！”（《皮五辣子》四）。也说“户口”（“口”轻读）。<sup>\[兴化\]</sup>  
+1. 【[户<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_r.md#户<sub>儿</sub>)】`hv6 r` <sup>\[如皋\]\[兴化\]</sup>贬指某人、某家：这个～叫（使、令）人不放心<sup>\[如皋\]</sup>｜他家是个暴发～。<sup>\[如皋\]</sup>｜“……你家四个侉子，又是四个强盗，杀人不眨眼的～，不能玩！”（《皮五辣子》四）。也说“户口”（“口”轻读）。<sup>\[兴化\]</sup>  
 1. 【[户下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_xia.md#户下)】`hv6 xia` <sup>[兴化]</sup> ① 住户：跟～起钱修路。 ② 人。  
 1. 【[护](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv.md#护)】`hv6` <sup>[东台]</sup> 尽力照顾、保卫：爱～/救～/～理/～林/～航。  
 1. 【[护短](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_dun.md#护短)】`hv6 dun3` <sup>[如东]</sup> 包庇不好的习惯、行为：对伢儿的坏习惯不能～。  
 1. 【[护月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_iuh.md#护月)】`hv6 iuh8` <sup>[兴化]</sup> 月蚀。  
 1. 【[护被](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_pi.md#护被)】`hv6 pi6` <sup>[如皋]</sup> 加盖在上面的被子。  
 1. 【[护被单头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_pi_daen_teu.md#护被单头)】`hv6 pi6 daen1 teu2` <sup>[如皋]</sup> 被头易脏，用一块布护上，经常拆洗以保持清洁。  
-1. 【[护袖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_qieu.md#护袖)】`hv6 qieu6` ① 袖套 ② <sup>\[兴化\]</sup>为防止把衣袖弄脏而外加的套袖。  
+1. 【[护袖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_qieu.md#护袖)】`hv6 qieu6` <sup>\[兴化\]</sup>袖套。套在袖子外，挡脏用。  
 1. 【[护日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_rih.md#护日)】`hv6 rih8` <sup>[兴化]</sup> 日蚀。  
 1. 【[护食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_sheh.md#护食)】`hv6 sheh8` <sup>[兴化]</sup> 不让靠近或拿走自己的食物：猫儿～；小孩子～。  
 1. 【[护身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_shen.md#护身)】`hv6 shen1` <sup>[兴化]</sup> 保护自己，避免受到伤害和打击：他万没料到她这么～，出口伤人。（马春阳《月朗和她的娘舅们》）  
@@ -2311,5 +2310,5 @@
 1. 【[糊糊<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_hv_r.md#糊糊<sub>儿</sub>)】`hv6 hv6 r` ① 碎末 ② <sup>\[如东\]</sup>一种面食。将面粉加水调匀，倒进开水中煮熟，似粥非粥，似块非块，叫做糊糊儿。 ③ <sup>\[如皋\]</sup>面糊状食品。  
 1. 【[糊糊<sub>儿</sub>面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_hv_r_min.md#糊糊<sub>儿</sub>面)】`hv6 hv6 r min6` <sup>[如皋]</sup> 糊状的面条。  
 1. 【[糊弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_lon.md#糊弄)】`hv6 lon6` <sup>[如东]</sup> ① 欺骗：他在下～人。 ② 蛮干。  
-1. 【[糊汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_tan.md#糊汤)】`hv6 tan1` <sup>[如东]</sup> 面条在锅里煮久了，汤变浓了，称糊汤。  
+1. 【[糊汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_tan.md#糊汤)】`hv6 tan1` <sup>\[如东\]\[兴化\]</sup>面条、汤圆等，因久煮或反复用汤，汤变稠了\[兴化：（hv5 tan1）。又谓“淴汤”。\]  
 **[▲](#音序检索)**  

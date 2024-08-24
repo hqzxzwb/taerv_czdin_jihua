@@ -928,6 +928,7 @@
 1. 【[一绝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_qiuh.md#一绝)】`ieh7 qiuh8` <sup>[泰县]</sup> 好到极点：他画的画儿～。  
 1. 【[一瘸一跛的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_qya_ieh_bu_dii.md#一瘸一跛的)】`ieh7 qya2 ieh7 bu3 dii` <sup>[如皋]</sup> 见“瘸啊瘸的”。  
 1. 【[一瘸一拐的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_qya_ieh_guae_dii.md#一瘸一拐的)】`ieh7 qya2 ieh7 guae3 dii` <sup>[如皋]</sup> 见“瘸啊瘸的”。  
+1. 【[一人做事一人当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_ren_zu_shr.md#一人做事一人当)】`ieh7 reh zu5 shr6 ieh7 ren dan1` <sup>[泰兴]</sup> 喻指谁做的事由谁对后果负责，别人不承担责任。乡人有“～，没得嫂嫂替姑娘”一说。  
 1. 【[一人巷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_ren_han.md#一人巷)】`ieh7 ren han6` <sup>[泰兴]</sup> 只能容一人通过的小巷道。形容狭窄的小巷道。  
 1. 【[一人不能充二业](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_ren_beh_nen_chon_er_ih.md#一人不能充二业)】`ieh7 ren2 beh7 nen2 chon1 er6 ih8` <sup>[泰兴]</sup> 指一个人不可能同时负责两个专门的行业，或同时进行两项工作。谓人要干一行，爱一行，钻一行，不能脚踩两只船。  
 1. 【[一人放东西，十人难寻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_ren_fan_don_xi_sheh_ren_naen_qien.md#一人放东西，十人难寻)】`ieh7 ren2 fan5 don1 xi1 sheh8 ren2 naen2 qien2` <sup>[东台]</sup> 存物要有序，标明，否则难找。寻读若擒。  

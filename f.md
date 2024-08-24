@@ -810,8 +810,8 @@
 1. 【[夫妇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_fv.md#夫妇)】`fv1 fv6` <sup>[如东]</sup> 夫妻。  
 1. 【[夫口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_keu.md#夫口)】`fv1 keu` <sup>[东台]</sup> 讨厌的、不好相处的人（这里“夫”是匹夫意，“口”为轻声）：这个～犯嫌哎！  
 1. 【[夫妻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_qi.md#夫妻)】`fv1 qi1` <sup>[如东]</sup> 通过法律程序结婚的男女称夫妻。  
-1. 【[夫妻两个佮的一副脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_qi_laen_gu_guh_dii_ieh_fv_lin.md#夫妻两个佮的一副脸)】`fv1 qi1 laen3 gu guh7 dii ieh7 fv5 lin3` <sup>[东台]</sup> 指夫妻要团结和睦，荣辱与共。  
-1. 【[夫妻老小店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_qi_lo_xio_din.md#夫妻老小店)】`fv1 qi1 lo3 xio3 din5` <sup>[兴化]</sup> 由家庭经营，一般不雇用员工的小店。  
+1. 【[夫妻两个佮的一副脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_qi_laen_gu.md#夫妻两个佮的一副脸)】`fv1 qi1 laen3 gu guh7 dii ieh7 fv5 lin3` <sup>[东台]</sup> 指夫妻要团结和睦，荣辱与共。  
+1. 【[夫妻老小店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_qi_lo_xio.md#夫妻老小店)】`fv1 qi1 lo3 xio3 din5` <sup>[兴化]</sup> 由家庭经营，一般不雇用员工的小店。  
 1. 【[夫妻相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_qi_xian.md#夫妻相)】`fv1 qi1 xian5` <sup>[东台]</sup> 夫妻之间面容相似的现象：他俫越来越有～。  
 1. 【[敷心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_xien.md#敷心)】`fv1 xien1` <sup>[东台]</sup> 极其用心、认真（“敷”有“足、够”之义，故“敷心”可理解为“尽心”“全心”）：多亏你～，这件事才办成功吖。  
 1. 【[稃子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_zz.md#稃子)】`fv1 zz` <sup>[如东]</sup> 小麦等植物花外包着的硬壳。  
@@ -828,9 +828,9 @@
 1. 【[扶桑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_san.md#扶桑)】`fv2 san1` <sup>[如东]</sup> 锦葵科植物朱槿，乔木，高约6米。  
 1. 【[扶桑花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_san_hua.md#扶桑花)】`fv2 san1 hua1` <sup>[如东]</sup> 锦葵科植物朱槿花。  
 1. 【[扶手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_sheu.md#扶手)】`fv2 sheu3` <sup>[如皋]</sup> ① 脚踏式水车、碓臼上供劳作者扶手的横木。 ② 椅把子。  
-1. 【[扶手撮脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_sheu_cuh_jiah.md#扶手撮脚)】`fv2 sheu3 cuh7 jiah7` ① <sup>\[如皋\]</sup>协助：我老啊啦，不能唱主角儿啦，只能～。<sup>\[如皋\]</sup> ② <sup>\[东台\]</sup>指帮助别人干一些简单的活计：大的事情干不了，～还是能帮你做些。<sup>\[东台\]</sup> ③ <sup>\[兴化\]</sup>（引）做辅助性工作：我大事做不来，只能接接拿拿，～的。<sup>\[兴化\]</sup>  
-1. 【[扶手<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_sheu_r.md#扶手<sub>儿</sub>)】`fv2 sheu3 r` <sup>[如皋]</sup> 见“椅把子”。  
-1. 【[扶手<sub>儿</sub>不动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_sheu_r_beh_ton.md#扶手<sub>儿</sub>不动)】`fv2 sheu3 r beh7 ton6` ① <sup>\[如东\]</sup>非常懒惰，什么事情都不做：一天到晚～。<sup>\[如东\]</sup> ② <sup>\[如皋\]</sup>手相扶着，什么事也不做。  
+1. 【[扶手撮脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_sheu_cuh_jiah.md#扶手撮脚)】`fv2 sheu3 cuh7 jiah7` <sup>\[如皋\]\[东台\]\[兴化\]</sup>协助，做辅助性工作：我老啊啦，不能唱主角儿啦，只能～。<sup>\[如皋\]</sup>｜大的事情干不了，～还是能帮你做些。<sup>\[东台\]</sup>｜我大事做不来，只能接接拿拿，～的。<sup>\[兴化\]</sup>  
+1. 【[扶手<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_sheu_r.md#扶手<sub>儿</sub>)】`fv2 sheu3 r` <sup>[如皋]</sup> 椅把子  
+1. 【[扶手<sub>儿</sub>不动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_sheu_r_beh_ton.md#扶手<sub>儿</sub>不动)】`fv2 sheu3 r beh7 ton6` <sup>\[如东\]\[如皋\]</sup>手相扶着，什么事也不做：一天到晚～。<sup>\[如东\]</sup>  
 1. 【[扶梯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_ti.md#扶梯)】`fv2 ti1` <sup>[兴化]</sup> 梯子，多指带扶手的楼梯。  
 1. 【[扶相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_xian.md#扶相)】`fv2 xian5` <sup>[如皋]</sup> ① 奉承、讨好。 ② 敷衍搪塞。 ③ 带贬义的支持。  
 1. 【[扶终](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_zhon.md#扶终)】`fv2 zhon1` <sup>[东台]</sup> 专门帮助人家收敛尸体，并负责将棺柩抬往墓地安葬的人。亦称“脚班子”。现发展为丧事一条龙服务。  
@@ -851,7 +851,7 @@
 1. 【[浮皮搔痒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_pi_so_ian.md#浮皮搔痒)】`fv2 pi2 so1 ian3` <sup>[兴化]</sup> 形容不认真、不仔细、不深入。也说“浮皮潦草”。  
 1. 【[浮萍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_pien.md#浮萍)】`fv2 pien2` <sup>[如东]</sup> 浮萍科植物紫背浮萍或青背浮萍，多年生漂浮植物。  
 1. 【[浮上<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_shan_r.md#浮上<sub>儿</sub>)】`fv2 shan6 r` <sup>[兴化]</sup> 浮面的：篓子里苹果～全是大的。  
-1. 【[浮水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_shuei.md#浮水)】`fv2 shuei3` ① <sup>\[如东\]</sup>一根木头搁在水面上搭成的桥。 ② <sup>\[如皋\]</sup>用一根木头搁于水面搭成的“桥”。  
+1. 【[浮水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_shuei.md#浮水)】`fv2 shuei3` <sup>\[如东\]\[如皋\]</sup>一根木头搁在水面上搭成的桥。  
 1. 【[浮头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_teu_r.md#浮头<sub>儿</sub>)】`fv2 teu2 r` <sup>[兴化]</sup> ① 因水中缺氧而浮上水面的鱼。 ② 表面上的：篓子芦柑，就～几个整齐些。  
 1. 【[浮头肿脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_teu_zhon_lin.md#浮头肿脸)】`fv2 teu2 zhon3 lin3` ① <sup>\[东台\]</sup>形容浮肿的外貌。 ② <sup>\[兴化\]</sup>面部浮肿：他病吖几天，睏得～的。胖得～的。<sup>\[兴化\]</sup>  
 1. 【[浮屠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_tv.md#浮屠)】`fv2 tv2` <sup>[东台]</sup> 指佛塔。  
@@ -867,10 +867,10 @@
 1. 【[芙蓉鸟<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_ion_nio_r.md#芙蓉鸟<sub>儿</sub>)】`fv2 ion2 nio3 r` <sup>[如皋]</sup> ① 即“黄鸟儿”。 ② 金丝雀。  
 1. 【[芙蓉鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_ion_y.md#芙蓉鱼)】`fv2 ion2 y2` <sup>[如皋]</sup> 用青鱼肉打腐，汆成的扁团状物，加作料衬菜做成的菜名。  
 1. 【[俯就](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_qieu.md#俯就)】`fv3 qieu` ① <sup>\[如皋\]</sup>迁就：伢儿不好过（生病），你～他点儿，不要惹他哭。<sup>\[如皋\]</sup> ② <sup>\[如皋\]</sup>勉强：这件旧衣裳～好穿。<sup>\[如皋\]</sup> ③ <sup>\[如皋\]</sup>敷衍：你就～修下子算了。<sup>\[如皋\]</sup> ④ <sup>\[泰县\]</sup>马乎、将就：你～点儿，不要收他的钱。<sup>\[泰县\]</sup>  
-1. 【[俯就](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_qieu.md#俯就)】`fv3 qieu6` ① <sup>\[如东\]</sup>将就，迁就：只好～一点。<sup>\[如东\]</sup> ② <sup>\[如皋\]</sup>见“将就”。 ③ <sup>\[东台\]</sup>马虎一点，将就一下（同“架挂”）：这事要办得十分严谨，不能～。<sup>\[东台\]</sup>  
+1. 【[俯就](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_qieu.md#俯就)】`fv3 qieu6` ① <sup>\[如东\]</sup>将就，迁就：只好～一点。<sup>\[如东\]</sup> ② <sup>\[东台\]</sup>马虎一点，将就一下（同“架挂”）\[东台：（fv3 jieu5）\]：这事要办得十分严谨，不能～。<sup>\[东台\]</sup>  
 1. 【[俯就<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_qieu_r.md#俯就<sub>儿</sub>)】`fv3 qieu6 r` 稍微，稍稍  
 1. 【[俯瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_va.md#俯瓦)】`fv3 va3` <sup>[如东]</sup> 瓦面朝上的瓦，叫俯瓦。  
-1. 【[府上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_shan.md#府上)】`fv3 shan6` <sup>[东台]</sup> 敬辞，称对方的家庭。  
+1. 【[府上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_shan.md#府上)】`fv3 shan` <sup>[东台]</sup> 敬辞，称对方的家庭。  
 1. 【[斧子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_zz.md#斧子)】`fv3 zz` <sup>[如东]</sup> 工具。铁制，头呈楔形，口锋利，有柄。用以砍砟木料。  
 1. 【[烰炭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_taen.md#烰炭)】`fv3 taen5` <sup>[如皋]</sup> 家制木炭。  
 1. 【[腐化](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_hua.md#腐化)】`fv3 hua5` ① <sup>\[如东\]</sup>木头等材料受潮变质腐烂。 ② <sup>\[如东\]</sup>思想行为变坏：你这个人～啊。<sup>\[如东\]</sup> ③ <sup>\[如东\]</sup>不正当的男女关系。 ④ <sup>\[东台\]</sup>指人的思想行为变坏，多指干部生活作风方面，与别的女人发生性关系。  
@@ -897,7 +897,7 @@
 1. 【[富足](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_zoh.md#富足)】`fv5 zoh7` <sup>[泰县]</sup> 结实：这把椅子～。  
 1. 【[负辜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_gv.md#负辜)】`fv5 gv1` <sup>[兴化]</sup> 因出了力，吃了苦，不被理解而感到委屈：难怪她～，忙吖几天，还捱男人包怨。  
 1. 【[负苦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_kv.md#负苦)】`fv5 kv3` <sup>[兴化]</sup> 刻苦持家：这个伢儿真能～，把个小家庭弄得有条有理的。  
-1. 【[负气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_qi.md#负气)】`fv5 qi5` ① <sup>\[如东\]</sup>因怀狠而斗气。 ② <sup>\[东台\]</sup>因不满指责而任性行事：要任劳任怨，肚量大一些，不能动不动就～。<sup>\[东台\]</sup> ③ <sup>\[泰县\]</sup>生气，赌气：这事你不能～，否则办不成。<sup>\[泰县\]</sup>  
+1. 【[负气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_qi.md#负气)】`fv5 qi5` <sup>\[如东\]\[东台\]\[泰县\]</sup>赌气、斗气：要任劳任怨，肚量大一些，不能动不动就～。<sup>\[东台\]</sup>｜这事你不能～，否则办不成。<sup>\[泰县\]</sup>  
 1. 【[负心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_xien.md#负心)】`fv5 xien1` <sup>[如东]</sup> 背叛原来的誓言。  
 1. 【[负债](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_zhae.md#负债)】`fv5 zhae5` <sup>[如东]</sup> 欠别人的钱。  
 1. 【[赴命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_mien.md#赴命)】`fv5 mien6` <sup>[兴化]</sup> 形容不顾一切，为达目的竭尽全力：他两口子为伢儿治病，简直～吖。为当上这个宝贝局长，他就像赴啊命。  
