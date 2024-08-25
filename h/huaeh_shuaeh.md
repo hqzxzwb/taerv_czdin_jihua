@@ -7,4 +7,5 @@ huaeh8 shuaeh7
 # 滑刷
 huaeh8 shuaeh
 > 泰县方言志
-- 活络：他做事～。
+- 活络
+  - 他做事～。
