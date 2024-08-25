@@ -144,7 +144,7 @@
 1. 【[纳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh.md#纳)】`naeh8` <sup>[兴化]</sup> 缝补：补补～～｜他穿吖一件补天～地的破褂子。  
 1. 【[纳棺材](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_gun_cae.md#纳棺材)】`naeh8 gun1 cae` <sup>[泰兴]</sup> 同“下棺材”。  
 1. 【[纳匣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_haeh_zz.md#纳匣子)】`naeh8 haeh8 zz` <sup>[兴化]</sup> 市井语，骂小孩夭亡，装进简易木匣。  
-1. 【[纳函子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_kaen_zz.md#纳函子)】`naeh8 kaen1 zz` <sup>[如皋]</sup> 詈语，咒小孩早死。  
+1. 【[纳函子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_kaen_zz.md#纳函子)】`naeh8 kaen2 zz` <sup>[如皋]</sup> 詈语，咒小孩早死。  
 1. 【[纳函子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_kaen_zz.md#纳函子)】`naeh8 kaen2 zz` <sup>[如东]</sup> 小孩死了，装进一种小型盒子里埋入土中，叫做纳函子。比喻顽皮的小孩。这是骂小孩子的话：你这个～。  
 1. 【[难板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naen_baen.md#难板)】`naen2 baen` <sup>[泰县]</sup> 难得：你～来。  
 1. 【[难板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naen_baen.md#难板)】`naen2 baen3` ① 难得 ② <sup>\[兴化\]</sup>难得：我不常上街，～遇到你。  
@@ -1251,10 +1251,10 @@
 1. 【[娘娘签](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_nian_qin.md#娘娘签)】`nian2 nian2 qin1` <sup>[兴化]</sup> （借）允诺或给予：柳春耕一气之下，说是不求人家的～，藏起了村上的一条水泥船。（刘仁前《香河风情·香河人家》）。  
 1. 【[娘舅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_qieu.md#娘舅)】`nian2 qieu6` ① <sup>\[如东\]</sup>舅舅。 ② <sup>\[东台\]</sup>舅舅，母亲的哥哥或弟弟。 ③ <sup>\[兴化\]</sup>舅父：我是这个伢儿的～。<sup>\[兴化\]</sup>｜“我们这个外甥，他去年到这爿洋行里做生意，是我～做的保人……”（《官场现形记》十一）<sup>\[兴化\]</sup>  
 1. 【[娘舅家表兄大三分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_qieu_ga_bio_xion_da_saen_fen.md#娘舅家表兄大三分)】`nian2 qieu6 ga1 bio3 xion1 da6 saen1 fen1` <sup>[东台]</sup> 姑母家的人对来自舅舅家的表兄特别尊重。  
-1. 【[娘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_r.md#娘<sub>儿</sub>)】`nian2 r` ① 统称父母和子女：～两个/父子（父女、母子、母女）两个 ② <sup>\[如东\]</sup>女人。有时指男人：他是一个甚的～！<sup>\[如东\]</sup>  
+1. 【[娘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_r.md#娘<sub>儿</sub>)】`nian2 r` 亲子：～两个/父子（父女、母子、母女）两个  
 1. 【[娘<sub>儿</sub>两个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_r_laen_gu.md#娘<sub>儿</sub>两个)】`nian2 r laen3 gu5` <sup>[如东]</sup> 长辈妇女与晚辈儿女的合称，如母亲与儿子、女儿、姑母与侄儿侄女等都可以称娘儿两个。  
 1. 【[娘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_zz.md#娘子)】`nian2 zz` <sup>[兴化]</sup> ① 妻：好在施桂芳是支书的～，处惊不乱。（毕飞宇《玉米》） ② 泛指别人的妻：老板～｜队长～。陶宗仪《南村辍耕录》卷十四｜妇女曰娘｜“都下自庶人妻以及大官之国妇人，皆日～”。  
-1. 【[𠆧<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_r.md#𠆧<sub>儿</sub>)】`nian2 r` 人，略含贬义或者戏谑：外国～/外国佬｜外地～/外地人  
+1. 【[𠆧<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_r.md#𠆧<sub>儿</sub>)】`nian2 r` <sup>\[如东\]</sup>人，略含贬义或者戏谑：外国～/外国佬<sup>\[如东\]</sup>｜外地～/外地人<sup>\[如东\]</sup>｜他是一个甚的～！<sup>\[如东\]</sup>  
 1. 【[𰍧𰍨<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_nian_r.md#𰍧𰍨<sub>儿</sub>)】`nian2 nian r` <sup>[如东]</sup> 极小：只有～大。  
 1. 【[仰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian.md#仰)】`nian3` ① 仰躺 ② <sup>\[泰县\]</sup>躺：他～啊在床上。  
 1. 【[仰八岔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_baeh_cha.md#仰八岔)】`nian3 baeh7 cha5` <sup>[如皋]</sup> 见“仰八弯”。  

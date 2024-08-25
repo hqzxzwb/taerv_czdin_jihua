@@ -189,8 +189,6 @@
 1. 【[轧朋友](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh_pon_ieu.md#轧朋友)】`kaeh8 pon2 ieu3` <sup>[兴化]</sup> ① 交朋友：几个少年宝宝～，我看蛮好的。 ② 特指交异性朋友：先～，再谈婚论嫁。  
 1. 【[轧张](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh_zhan.md#轧张)】`kaeh8 zhan1` <sup>[如东]</sup> 在耷子和游戏中，一张牌的连张已经断绝，成为非常关键的牌，称轧张。比喻非常关键的问题：这个问题是～。  
 1. 【[轧账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh_zhan.md#轧账)】`kaeh8 zhan5` ① <sup>\[如东\]</sup>算账，对账。 ② <sup>\[如皋\]</sup>从账中删除。 ③ <sup>\[如皋\]</sup>核对、结算账目。 ④ <sup>\[兴化\]</sup>结算账目：年终～，盈利五万多块。<sup>\[兴化\]</sup>  
-1. 【[函子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen_zz.md#函子)】`kaen1 zz` <sup>[如东]</sup> 长方形的盒子，竖立，后面有壁，前面敞开，这种装置叫函子。有的放在柜上，有的嵌在墙中，里面供奉菩萨。  
-1. 【[函子钉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen_zz_dien_r.md#函子钉<sub>儿</sub>)】`kaen1 zz dien1 r` <sup>[如东]</sup> 比喻顽皮的小孩子：不晓得这个～到哪许去啊。  
 1. 【[铅板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen_baen.md#铅板)】`kaen1 baen3` <sup>[如皋]</sup> 白铁皮，马口铁。  
 1. 【[铅角子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen_gah_zz.md#铅角子)】`kaen1 gah7 zz` ① 硬币。也叫“角子”、“铅子儿”。 ② <sup>\[如东\]</sup>面值为一角钱的人民币。 ③ <sup>\[如皋\]</sup>合金辅币，面值角、分。 ④ <sup>\[东台\]</sup>硬币。 ⑤ <sup>\[兴化\]</sup>金属辅币。 ⑥ <sup>\[泰县\]</sup>硬币。  
 1. 【[铅皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen_pi.md#铅皮)】`kaen1 pi2` <sup>[如皋]</sup> 白铁皮，马口铁。  
@@ -200,7 +198,9 @@
 1. 【[鹐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen.md#鹐)】`kaen1` ① <sup>\[如东\]</sup>啄食：鸡子～大麦。<sup>\[如东\]</sup> ② <sup>\[如东\]</sup>啄人：鸟～人。<sup>\[如东\]</sup> ③ <sup>\[如皋\]</sup>啄：鸡子～虫子。<sup>\[如皋\]</sup> ④ <sup>\[东台\]</sup>尖嘴的鸟类啄食。 ⑤ <sup>\[兴化\]</sup>鸟啄物。儿歌：捣鬼捣鬼，喜鹊～嘴。《集韵·咸韵》苦咸切：“～，鸟啄物”。 ⑥ <sup>\[泰县\]</sup>啄食：鸡子～石头。<sup>\[泰县\]</sup> ⑦ <sup>\[泰州\]</sup>鸟类啄食：鸡子把田里的菜～掉不少。<sup>\[泰州\]</sup>  
 1. 【[鹐食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen_sheh.md#鹐食)】`kaen1 sheh8` <sup>[东台]</sup> 因吃不饱饭影响健康。  
 1. 【[䶠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen.md#䶠)】`kaen2` ① <sup>\[如东\]</sup>紧，精明：这个人打牌～。<sup>\[如东\]</sup> ② <sup>\[如皋\]</sup>钳、夹。 ③ <sup>\[如皋\]</sup>引指过分精明：他处世～。<sup>\[如皋\]</sup>  
-1. 【[函子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen_zz.md#函子)】`kaen2 zz` <sup>[如皋]</sup> ① 未成年而死者用的棺材。 ② 詈语或昵称：～唉，快点儿来吃啋！你这个～，你要死咯！  
+1. 【[函子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen_zz.md#函子)】`kaen2 zz` <sup>[如东]</sup> 长方形的盒子，竖立，后面有壁，前面敞开，这种装置叫函子。有的放在柜上，有的嵌在墙中，里面供奉菩萨。  
+1. 【[函子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen_zz.md#函子)】`kaen2 zz` <sup>[如皋]</sup> ① 未成年而死者用的棺材。 ② 詈语或昵称：～唉，快点儿来吃啋！｜你这个～，你要死咯！  
+1. 【[函子钉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen_zz_dien_r.md#函子钉<sub>儿</sub>)】`kaen2 zz dien1 r` <sup>[如东]</sup> 比喻顽皮的小孩子：不晓得这个～到哪许去啊。  
 1. 【[限](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen.md#限)】`kaen3` <sup>[如皋]</sup> ① 过分精明，斤斤计较：他待人接物太～。 ② 量接近而偏少：秤称得～；～～儿的一斤｜现在是四点～一分。  
 1. 【[限限的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen_kaen_dii.md#限限的)】`kaen3 kaen3 dii` <sup>[如皋]</sup> 将近够到，只差点点。  
 1. 【[嵌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen.md#嵌)】`kaen5` <sup>[东台]</sup> 把较小的东西卡进较大东西上面的凹处：～银；～入式。  
