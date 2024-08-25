@@ -1273,7 +1273,7 @@
 1. 【[花鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_y.md#花鱼)】`hua1 y2` ① 鲤鱼 ② <sup>\[如皋\]</sup>鲤鱼。 ③ <sup>\[东台\]</sup>即鲤鱼。 ④ <sup>\[兴化\]</sup>鲤鱼。  
 1. 【[花鱼尾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_y_vei_zz.md#花鱼尾子)】`hua1 y2 vei3 zz` <sup>[如东]</sup> 门楣上套住门梃的横木，形状像花鱼尾子。  
 1. 【[花斋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_zhae.md#花斋)】`hua1 zhae1` ① <sup>\[兴化\]</sup>信仰佛教的人间断吃斋，如眼光斋、准提斋等。相对于“长斋”：……我还有一句话问问女菩萨：“你一年到头可还吃吃～？”（《广陵潮》六六）<sup>\[兴化\]</sup> ② <sup>\[泰县\]</sup>吃素的人间断吃荤。  
-1. 【[花子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_zz.md#花子)】`hua1 zz` ① <sup>\[如皋\]</sup>脚料：小麦～。<sup>\[如皋\]</sup> ② <sup>\[兴化\]</sup>乞丐。 ③ <sup>\[兴化\]</sup>倾倒油酒时产生的气泡。 ④ <sup>\[兴化\]</sup>水面上的油渍：油～滂滂的。<sup>\[兴化\]</sup> ⑤ <sup>\[兴化\]</sup>节奏：木工敲铁钉的节奏<sup>\[兴化\]</sup>｜「工人数物（如数蛋）时的节奏。<sup>\[兴化\]</sup> ⑥ <sup>\[泰县\]</sup>乞丐：那边来啊个～。  
+1. 【[花子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_zz.md#花子)】`hua1 zz` ① <sup>\[如皋\]</sup>脚料：小麦～。<sup>\[如皋\]</sup> ② <sup>\[兴化\]\[泰县\]</sup>乞丐：那边来啊个～。<sup>\[泰县\]</sup> ③ <sup>\[兴化\]</sup>倾倒油酒时产生的气泡。 ④ <sup>\[兴化\]</sup>水面上的油渍：油～滂滂的。<sup>\[兴化\]</sup> ⑤ <sup>\[兴化\]</sup>木工敲铁钉的节奏；工人数物（如数蛋）时的节奏。  
 1. 【[花子打架](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_zz_da_jia.md#花子打架)】`hua1 zz da3 jia5` ① <sup>\[东台\]</sup>［喻］形容某项活动档次低或安排、操作得乱糟糟的。 ② <sup>\[兴化\]</sup>旧谓穷戏班行头破旧，演技极差：这个本地杂凑班子如同～，有甚的看头？<sup>\[兴化\]</sup>  
 1. 【[花子形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_zz_xien.md#花子形)】`hua1 zz xien2` <sup>[兴化]</sup> 形容衣衫蓝缕，蓬首垢面，像乞丐的样子。  
 1. 【[𠝐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua.md#𠝐)】`hua1` ① 剖开 ② <sup>\[如皋\]</sup>化整为零：把大钱～开。<sup>\[如皋\]</sup>  
@@ -1292,7 +1292,8 @@
 1. 【[划水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_shuei.md#划水)】`hua2 shuei3` ① <sup>\[如东\]</sup>用工具在水中向前划动：用桨～。<sup>\[如东\]</sup> ② <sup>\[如东\]</sup>鱼鳍。 ③ <sup>\[如皋\]</sup>向后拨水为划水：鸭子～。<sup>\[如皋\]</sup> ④ <sup>\[如皋\]</sup>指鱼鳍。 ⑤ <sup>\[兴化\]</sup>鱼鳍的俗称。 ⑥ <sup>\[泰县\]</sup>鱼。 ⑦ <sup>\[泰县\]</sup>鱼鳍。 ⑧ <sup>\[泰县\]</sup>游泳。  
 1. 【[划算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_sun.md#划算)】`hua2 sun5` ① <sup>\[如东\]</sup>合算：用这种材料～。<sup>\[如东\]</sup> ② <sup>\[东台\]</sup>上算，合算。也叫划得来。 ③ <sup>\[兴化\]</sup>上算、合算：……一看是郑板桥画的扇子，个个都惊呆了。只二两银子，太～了！（《郑板桥传说·大年初一卖扇子》）<sup>\[兴化\]</sup> ④ <sup>\[兴化\]</sup>盘算、计算：～下来这笔生意还是不能做。<sup>\[兴化\]</sup>  
 1. 【[划周](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_zheu.md#划周)】`hua2 zheu1` <sup>[兴化]</sup> 为小孩贺周岁。“划”也读va2。  
-1. 【[划子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_zz.md#划子)】`hua2 zz` <sup>[泰县]</sup> 浆。  
+1. 【[划子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_zz.md#划子)】`hua2 zz` <sup>[泰县]</sup> 桨。  
+1. 【[划子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_zz.md#划子)】`hua2 zz` <sup>[泰兴]</sup> 小船  
 1. 【[华乐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_lah.md#华乐)】`hua2 lah` <sup>[东台]</sup> ① 不切实际的奢侈、浮华。 ② 快活。  
 1. 【[华乐天宫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_lah_tin_gon.md#华乐天宫)】`hua2 lah8 tin1 gon1` <sup>[兴化]</sup> 形容建筑物的装璜或装饰富丽堂皇：周老二做生意发咖财，把家里装璜得～的。  
 1. 【[华录](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_loh.md#华录)】`hua2 loh8` <sup>[如东]</sup> 质量不好：这些东西都是一些～货。  
