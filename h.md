@@ -1409,8 +1409,7 @@
 1. 【[搳酵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_go.md#搳酵)】`huaeh7 go5` <sup>[如皋]</sup> 打春卷皮子用的酵，须经双手多次捧起摔下，加深面筋化程度，增强筋饪性，称～。  
 1. 【[搳嘴巴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_jy_ba_r.md#搳嘴巴<sub>儿</sub>)】`huaeh7 jy3 ba1 r` <sup>[如皋]</sup> 打耳光。  
 1. 【[搳泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_ni.md#搳泥)】`huaeh7 ni2` <sup>[如皋]</sup> 用锨之类将泥抓起：他在船上用搳锹～，把罱的河泥搳到半坎子上。  
-1. 【[搳巧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_qio.md#搳巧)】`huaeh7 qio3` <sup>[如皋]</sup> 说话取巧以捉弄别人、讨便宜：你家婆婆的外孙女儿把啊我家舅舅的外甥（你是我的老婆）。  
-1. 【[搳巧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_qio.md#搳巧)】`huaeh7 qio3` <sup>[兴化]</sup> 耍弄小巧，占便宜：他喜欢～，最好离他远一点。  
+1. 【[搳巧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_qio.md#搳巧)】`huaeh7 qio3` <sup>\[如皋\]\[兴化\]</sup>说话取巧以捉弄别人、讨便宜：你家婆婆的外孙女儿把啊我家舅舅的外甥（你是我的老婆）。<sup>\[如皋\]</sup>｜他喜欢～，最好离他远一点。<sup>\[兴化\]</sup>  
 1. 【[搳拳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_qiun.md#搳拳)】`huaeh7 qiun2` ① <sup>\[如皋\]</sup>划拳。 ② <sup>\[东台\]</sup>饮酒时双方同时伸出手指说一个数，谁说的数目跟双方所伸手指的总数相符，就算谁赢。输者喝酒。又作“划拳”。  
 1. 【[搳手膀子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_sheu_ban_zz.md#搳手膀子)】`huaeh7 sheu3 ban3 zz` <sup>[如皋]</sup> 甩手膀子。  
 1. 【[搳水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_shuei.md#搳水)】`huaeh7 shuei3` <sup>[如皋]</sup> ① 把积水掀排掉。 ② 使力甩去水。 ③ 用离心力脱水。  

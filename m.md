@@ -170,8 +170,7 @@
 1. 【[马槽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_co.md#马槽)】`ma3 co2` <sup>[如皋]</sup> ① 马吃草料的木槽。 ② 简陋的棺材。另见“槥”。  
 1. 【[马草马料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_co_ma_lio.md#马草马料)】`ma3 co3 ma3 lio6` <sup>[如皋]</sup> 本指饲马的草料，又指腊月二十四送灶时给灶神所骑的“马”准备的稻草4-8小段，麸皮少许。灶神是“蟑螂”，灶马是“钱驮子”。  
 1. 【[马大哈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_da_ha.md#马大哈)】`ma3 da6 ha1` ① <sup>\[如东\]</sup>粗心大意：做事不能～。<sup>\[如东\]</sup> ② <sup>\[泰兴\]</sup>遇事粗心很不在乎的人：不要说别人二百五，自家也是个～。<sup>\[泰兴\]</sup>  
-1. 【[马灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_den.md#马灯)】`ma3 den1` <sup>[如皋]</sup> 桅灯。  
-1. 【[马灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_den.md#马灯)】`ma3 den1` <sup>[泰兴]</sup> 一种防风油灯。  
+1. 【[马灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_den.md#马灯)】`ma3 den1` ① <sup>\[如皋\]</sup>桅灯。 ② <sup>\[泰兴\]</sup>一种防风油灯。  
 1. 【[马䙞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_den_zz.md#马䙞子)】`ma3 den5 zz` <sup>[泰兴]</sup> 马夹，夹衣。  
 1. 【[马兜铃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_deu_lien.md#马兜铃)】`ma3 deu1 lien2` <sup>[如东]</sup> 马兜铃科植物马兜铃，多年生缠绕或匍匐状细弱草本。  
 1. 【[马儿扯儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_er_cha_er.md#马儿扯儿)】`ma3 er2 cha3 er2` <sup>[泰兴]</sup> 拉拉扯扯，乱拉乱扯。办事草率，不专心。  

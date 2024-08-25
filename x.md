@@ -1264,8 +1264,7 @@
 1. 【[小班](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_baen.md#小班)】`xio3 baen1` ① <sup>\[如皋\]</sup>晚辈。 ② <sup>\[如东\]</sup>晚辈。  
 1. 【[小班的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_baen_dii.md#小班的)】`xio3 baen1 dii` 晚辈们  
 1. 【[小傍中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ban_zhon.md#小傍中)】`xio3 ban zhon1` <sup>[兴化]</sup> 近中午的时候：（婆媳俩）一直等到～，派一个人出来回话……（陈登科《淮河边上的儿女》十四）  
-1. 【[小不点<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_beh_din_r.md#小不点<sub>儿</sub>)】`xio3 beh din3 r` <sup>[兴化]</sup> ① （戏）幼童。 ② 形容很小的东西。  
-1. 【[小不点<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_beh_din_r.md#小不点<sub>儿</sub>)】`xio3 beh din3 r` <sup>[泰兴]</sup> 极言其小，很小的孩子：对门的那个～惹人欢喜得凶。  
+1. 【[小不点<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_beh_din_r.md#小不点<sub>儿</sub>)】`xio3 beh din3 r` ① <sup>\[兴化\]</sup>（戏）幼童。 ② <sup>\[兴化\]</sup>形容很小的东西。 ③ <sup>\[泰兴\]</sup>极言其小，很小的孩子：对门的那个～惹人欢喜得凶。<sup>\[泰兴\]</sup>  
 1. 【[小不可大算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_beh_ku_tae_sun.md#小不可大算)】`xio3 beh7 ku3 tae6 sun5` <sup>[兴化]</sup> 节约要从小处做起，日积月累见成果：一天不多，十天许多，～吖。  
 1. 【[小不可怠算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_beh_ku_tae_sun.md#小不可怠算)】`xio3 beh7 ku3 tae6 sun5` <sup>[东台]</sup> 小的收入或支出也不能忽略。  
 1. 【[小本营生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ben_ien_shen.md#小本营生)】`xio3 ben3 ien2 shen` <sup>[兴化]</sup> 靠做小买卖维持生计：他下岗以后做的～。  
@@ -1317,8 +1316,7 @@
 1. 【[小蚕<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cun_r.md#小蚕<sub>儿</sub>)】`xio3 cun2 r` <sup>[如皋]</sup> 蚕蚁至二龄期在育蚕室喂养的蚕。  
 1. 【[小字头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cz_teu_r.md#小字头<sub>儿</sub>)】`xio3 cz6 teu2 r` <sup>[泰县]</sup> 党员。  
 1. 【[小寺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cz.md#小寺)】`xio3 cz6` <sup>[如皋]</sup> 如皋中禅寺，在水绘园西侧，始建于宋。  
-1. 【[小打小敲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_da_xio_ko.md#小打小敲)】`xio3 da3 xio3 ko1` <sup>[兴化]</sup> 形容事业的规模或活动的声势不大：我俫的资金有限，这个厂先～的办起来。也说“小打小闹”。  
-1. 【[小打小敲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_da_xio_ko.md#小打小敲)】`xio3 da3 xio3 ko1` <sup>[泰兴]</sup> 规模很小，没有声势、影响：他搞的是个作坊，～的，不是什么工厂。  
+1. 【[小打小敲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_da_xio_ko.md#小打小敲)】`xio3 da3 xio3 ko1` <sup>\[兴化\]\[泰兴\]</sup>规模、声势、影响力不大：我俫的资金有限，这个厂先～的办起来。也说“小打小闹”。<sup>\[兴化\]</sup>｜他搞的是个作坊，～的，不是什么工厂。<sup>\[泰兴\]</sup>  
 1. 【[小打小闹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_da_xio_no.md#小打小闹)】`xio3 da3 xio3 no6` <sup>[兴化]</sup> 见“小打小敲”。  
 1. 【[小大爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_da_i.md#小大爷)】`xio3 da5 i` <sup>[兴化]</sup> ① 小孩：这个～太不听话。 ② 晚辈：～工作忙，蛮辛苦的。  
 1. 【[小大娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_da_nian.md#小大娘)】`xio3 da5 nian2` <sup>[兴化]</sup> 少妇：……做了新娘子，不是姑娘了，是～子了。（《皮五辣子》二）  
@@ -1531,8 +1529,7 @@
 1. 【[小学](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xiah.md#小学)】`xio3 xiah8` <sup>[如东]</sup> 对少年实施初等教育的学校。清·光绪三十年（1904年），如东创建丰利小学。  
 1. 【[小媳妇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xieh_fv.md#小媳妇)】`xio3 xieh7 fv6` <sup>[如东]</sup> 童养媳。  
 1. 【[小心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xien.md#小心)】`xio3 xien1` <sup>[如东]</sup> 仔细，留神，谨慎：下雨天跑路要～。  
-1. 【[小心眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xien_ngaen_r.md#小心眼<sub>儿</sub>)】`xio3 xien1 ngaen3 r` <sup>[如东]</sup> 心胸狭窄：她是个～。  
-1. 【[小心眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xien_ngaen_r.md#小心眼<sub>儿</sub>)】`xio3 xien1 ngaen3 r` <sup>[泰兴]</sup> 指狭隘的胸怀、短浅的眼光、多疑的心理状态以及在琐事上的小主意等等：覅太～了，箇点事也不值得你生气！  
+1. 【[小心眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xien_ngaen_r.md#小心眼<sub>儿</sub>)】`xio3 xien1 ngaen3 r` <sup>\[如东\]\[泰兴\]</sup>气量狭小，眼光短浅而多疑：她是个～。<sup>\[如东\]</sup>｜覅太～了，箇点事也不值得你生气！<sup>\[泰兴\]</sup>  
 1. 【[小新妇<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xien_fv_r.md#小新妇<sub>儿</sub>)】`xio3 xien1 fv6 r` <sup>[如皋]</sup> 童养媳。  
 1. 【[小汛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xien.md#小汛)】`xio3 xien5` <sup>[如东]</sup> ① 海潮水位降低的一段时间。每月有两次，阴历初五日至初九日、十日至二十四日，为小汛。 ② 海潮水位低。 ③ 海潮水位低的一段时间。  
 1. 【[小先生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xin_shen.md#小先生)】`xio3 xin1 shen` <sup>[如皋]</sup> 尊称老板的儿子。指称、面称。  
