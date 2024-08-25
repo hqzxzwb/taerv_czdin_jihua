@@ -295,8 +295,8 @@ def write_page(dirs, path, sample_out, cz_ien):
     for w in sorted(conts, key=lambda c: c.sort_key):
         check_path(w.fname, w.mixed, w.text)
         for cz, ien in w.mixed:
-            # if cz == '混':
-                # print("【%s】中的【%s】读作【%s】" % (raw_word, cz, ien))
+            # if cz == '大' and ien == 'tu6':
+                # print("【%s】中的【%s】读作【%s】" % (w.raw_text, cz, ien))
             if ien != '' and cz != '□' and len(cz) == 1 and cz not in cz_ien[ien.rstrip('9')]:
                 print("未登记的字音：【%s】中的【%s】读作【%s】" % (w.raw_text, cz, ien))
         link = LINK_FORMAT % (w.fname.replace("\\","/"), w.text)
