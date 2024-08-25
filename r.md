@@ -6,7 +6,7 @@
 1. 【[二巴子喝薄酒——厚的在底下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/r_ba_zz_huh_pah_jieu_heu_dii_cae_di_ha.md#二巴子喝薄酒——厚的在底下)】`r6 ba1 zz huh7 pah8 jieu3 heu6 dii cae6 di3 ha6` <sup>[东台]</sup>   
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra.md#□)】`ra2` <sup>[如皋]</sup> 示弱、输：这伢儿做生意不～；你不要～啊把他！  
 1. 【[惹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra.md#惹)】`ra3` ① 招惹，引诱 ② <sup>\[如皋\]</sup>容易发生某事。  
-1. 【[惹不得的野胡蜂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_beh_deh_dii_ia_hv_fon.md#惹不得的野胡蜂)】`ra3 beh7 deh7 dii ia3 hv2 fon1` <sup>[东台]</sup> 喻指那些不能得罪的蛮不讲理且凶狠的人物。  
+1. 【[惹不得的野胡蜂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_beh_deh_dii.md#惹不得的野胡蜂)】`ra3 beh7 deh7 dii ia3 v2 fon1` <sup>[东台]</sup> 喻指那些不能得罪的蛮不讲理且凶狠的人物。  
 1. 【[惹当真](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_dan_zhen.md#惹当真)】`ra3 dan5 zhen1` <sup>[如皋]</sup> 容易把开心、玩笑的话当成真话而生气。  
 1. 【[惹的大穷祸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_dii_da_qion_hu.md#惹的大穷祸)】`ra3 dii da6 qion2 hu6` <sup>[东台]</sup> 祸事惹出非常大的麻烦：他放水钱大多收不回，真是～。  
 1. 【[惹惯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_guaen.md#惹惯)】`ra3 guaen5` <sup>[如皋]</sup> 指孩子讨人喜爱。  
@@ -285,7 +285,7 @@
 1. 【[人众](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_zhon.md#人众)】`ren2 zhon5` <sup>[泰兴]</sup> 大众，众人：你有话当住～说说/你有话当面大家说说  
 1. 【[人指甲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_zhr_jiaeh.md#人指甲)】`ren2 zhr3 jiaeh7` <sup>[如东]</sup> 人手上的指甲。  
 1. 【[仁丹胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_daen_hv_zz.md#仁丹胡子)】`ren2 daen1 hv2 zz` <sup>[如皋]</sup> 有如日本仁丹商标上的胡子式样。  
-1. 【[仁义](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_i.md#仁义)】`ren2 i` ① <sup>\[如皋\]</sup>为人厚道宽宏，讲义气：他家兄弟两个，老大～，老二不～。 ② <sup>\[兴化\]</sup>性情温和善良：老吴～，工友有难都肯伸手帮忙。<sup>\[兴化\]</sup> ③ <sup>\[兴化\]</sup>与人相处通情达理：本以为这个人难处，想不到他这吖～。<sup>\[兴化\]</sup>  
+1. 【[仁义](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_i.md#仁义)】`ren2 i` ① <sup>\[如皋\]</sup>为人厚道宽宏，讲义气：他家兄弟两个，老大～，老二不～。<sup>\[如皋\]</sup> ② <sup>\[兴化\]</sup>性情温和善良：老吴～，工友有难都肯伸手帮忙。<sup>\[兴化\]</sup> ③ <sup>\[兴化\]</sup>与人相处通情达理：本以为这个人难处，想不到他这吖～。<sup>\[兴化\]</sup>  
 1. 【[壬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren.md#壬)】`ren2` <sup>[东台]</sup> 天干的第九位。  
 1. 【[忍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren.md#忍)】`ren3` <sup>[如皋]</sup> 挣扎移动：他拖啊一条断腿慢慢儿朝前～。  
 1. 【[忍冬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_don.md#忍冬)】`ren3 don1` <sup>[如东]</sup> 忍冬科植物忍冬，多年生半常绿缠绕灌木。  

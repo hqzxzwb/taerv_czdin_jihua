@@ -1684,7 +1684,7 @@
 1. 【[满样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_ian.md#满样)】`mun3 ian6` ① <sup>\[如东\]</sup>与原来一样：杂配的东西，再好也不得～。<sup>\[如东\]</sup> ② <sup>\[如皋\]</sup>样式、尺寸完全适合，十分满意。  
 1. 【[满月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_iuh.md#满月)】`mun3 iuh8` ① <sup>\[如东\]</sup>每月十五日，月亮最圆，称满月。 ② <sup>\[如东\]</sup>婴儿出生一个月。 ③ <sup>\[如东\]</sup>严妇分娩一个月。 ④ <sup>\[如东\]</sup>男女结婚一个月。 ⑤ <sup>\[兴化\]</sup>新婚满一个月：新娘子～回门。｜～之后，美娘将箱笼打开……（《醒世恒言》三） ⑥ <sup>\[兴化\]</sup>婴儿出生后满一月。  
 1. 【[满月饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_iuh_faen.md#满月饭)】`mun3 iuh8 faen6` ① <sup>\[如东\]</sup>新生儿满月，家中宴请送月子礼的亲友。 ② <sup>\[如皋\]</sup>婴儿出身满一个月的喜庆宴会。  
-1. 【[满朞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_ji.md#满朞)】`mun3 ji1` ① <sup>\[如东\]</sup>婴儿出生一周岁，称满朞。 ② <sup>\[如皋\]</sup>期，期年。小孩满一周岁的生日。俗送礼，设宴庆贺。古俗有设百物任小孩抓取，以测将来志向。  
+1. 【[满朞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_ji.md#满朞)】`mun3 ji1` ① <sup>\[如东\]</sup>婴儿出生一周岁，称满朞。 ② <sup>\[如皋\]</sup>小孩满一周岁的生日。俗送礼，设宴庆贺。古俗有设百物任小孩抓取，以测将来志向。  
 1. 【[满江红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_jian_hon.md#满江红)】`mun3 jian1 hon2` <sup>[如东]</sup> 满江红科植物满江红，漂浮植物，呈三角形。  
 1. 【[满口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_keu.md#满口)】`mun3 keu3` ① <sup>\[如皋\]</sup>指茶水的温度适口：可以～喝。 ② <sup>\[如皋\]</sup>完全，无保留地：～答应。 ③ <sup>\[如皋\]</sup>全部、都是：～假牙、～胡说。 ④ <sup>\[兴化\]</sup>指茶汤等冷热适度：～茶｜～粥。 ⑤ <sup>\[泰县\]</sup>温度适中：这个粥～，你快点儿喝吧。  
 1. 【[满口菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_keu_cae.md#满口菜)】`mun3 keu3 cae5` <sup>[东台]</sup> 油腻少，可以大口大口吃的菜：韭菜炒蘑菇是他欢喜吃的～。  

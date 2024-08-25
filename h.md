@@ -2237,7 +2237,7 @@
 1. 【[胡<sub>儿</sub>𤹉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_r_ha.md#胡<sub>儿</sub>𤹉)】`hv2 r ha3` <sup>[如皋]</sup> 稀里糊涂的。  
 1. 【[胡说八道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_shuh_baeh_to.md#胡说八道)】`hv2 shuh7 baeh7 to6` <sup>[如东]</sup> 没有根据地东扯西拉。  
 1. 【[胡思乱想](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_sz_lun_xian.md#胡思乱想)】`hv2 sz1 lun6 xian3` <sup>[如东]</sup> 没有根据地东猜西想。  
-1. 【[胡头大乱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_teu_da_lun.md#胡头大乱)】`hv2 teu2 da6 lun6` ① <sup>\[如东\]</sup>非常混乱：无人管理，～。<sup>\[如东\]</sup> ② <sup>\[如皋\]</sup>极其混乱、荒唐。  
+1. 【[胡头大乱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_teu_da_lun.md#胡头大乱)】`hv2 teu2 da6 lun6` <sup>\[如东\]\[如皋\]</sup>非常混乱、荒唐：无人管理，～。<sup>\[如东\]</sup>  
 1. 【[胡头乱说](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_teu_lun_shuh.md#胡头乱说)】`hv2 teu2 lun6 shuh7` ① <sup>\[如东\]</sup>无根无据，语无伦次，瞎说一通。 ② <sup>\[如皋\]</sup>说荒唐话，语无伦次。  
 1. 【[胡桃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_to.md#胡桃)】`hv2 to2` <sup>[如东]</sup> 胡桃科植物胡桃，又名核桃。  
 1. 【[胡作非为](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_zah_fei_vei.md#胡作非为)】`hv2 zah7 fei1 vei2` <sup>[如东]</sup> 不顾法律和道德，任意行动。  
@@ -2271,7 +2271,7 @@
 1. 【[虎牙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_nga.md#虎牙)】`hv3 nga2` <sup>[如东]</sup> 齿的一种，上下颌各有两枚，在门齿的两侧，齿冠锐利，便于撕裂食物。也称犬齿、犬牙。  
 1. 【[虎皮肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_pi_roh.md#虎皮肉)】`hv3 pi2 roh8` <sup>\[如皋\]</sup>即“跑油肉”。  
 1. 【[虎势狼威](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_shr_lan_vei.md#虎势狼威)】`hv3 shr5 lan2 vei1` <sup>[兴化]</sup> 令人畏惧的声势或气派：过去当官的出来，护兵一大群，～的真怕人子。  
-1. 【[虎头鞋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_teu_hae.md#虎头鞋)】`hv3 teu2 hae2` ① <sup>\[如东\]</sup>一种童鞋。鞋头做成虎头形，有双目，有口，有须。小儿抓期以及端午节穿，表示吉祥、雄伟和避邪。 ② <sup>\[如皋\]</sup>婴鞋，鞋头绣花呈虎头形。  
+1. 【[虎头鞋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_teu_hae.md#虎头鞋)】`hv3 teu2 hae2` <sup>\[如东\]\[如皋\]</sup>一种童鞋。鞋头绣成虎头形。\[如东：有双目，有口，有须。小儿抓朞以及端午节穿，表示吉祥、雄伟和避邪。\]  
 1. 【[虎头花边瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_teu_hua_bin_va.md#虎头花边瓦)】`hv3 teu2 hua1 bin1 va3` <sup>[兴化]</sup> ① 檐前滴水的瓦，前面有虎头花边，故名。 ② （喻）旧谓流品底下，成份复杂的人群：他的朋友全是～，没几个周正人。  
 1. 【[虎头鲨<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_teu_sha_r.md#虎头鲨<sub>儿</sub>)】`hv3 teu2 sha1 r` <sup>[如皋]</sup> 塘鳢。  
 1. 【[虎头蛇尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_teu_sha_vei.md#虎头蛇尾)】`hv3 teu2 sha2 vei3` <sup>[东台]</sup> 办事不能善始善终，开始认真，后来马虎了事。  

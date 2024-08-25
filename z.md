@@ -1313,7 +1313,7 @@
 1. 【[抓不上手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_beh_shan_sheu.md#抓不上手)】`zhua1 beh7 shan6 sheu3` <sup>[如皋]</sup> ① 不值得抓。 ② 难抓。  
 1. 【[抓不上手，沰不上墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_beh_shan_sheu_dah_beh_shan_qian.md#抓不上手，沰不上墙)】`zhua1 beh7 shan6 sheu3 dah7 beh7 shan6 qian2` ① <sup>\[东台\]</sup>形容无用，实在扶不起来。 ② <sup>\[如皋\]</sup>形容品质太差，不堪理会。  
 1. 【[抓痒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_ian.md#抓痒)】`zhua1 ian3` <sup>[如东]</sup> 挠痒：用手～。  
-1. 【[抓朞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_ji.md#抓朞)】`zhua1 ji1` ① <sup>\[如皋\]</sup>婴儿一周岁时设诸物任抓取，以观志向的古俗。 ② <sup>\[如皋\]</sup>婴儿满一周岁的庆祝活动。 ③ <sup>\[如皋\]</sup>见“满朞”。 ④ <sup>\[如东\]</sup>新生儿满一周岁时举行的庆祝活动。堂屋中间放置一张八仙桌，上面摆着笔、钱、米、算盘等物，让小儿坐在桌上，任其随意抓取。他（她）抓什么东西，表示今后将向什么方向发展。  
+1. 【[抓朞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_ji.md#抓朞)】`zhua1 ji1` ① <sup>\[如皋\]</sup>婴儿一周岁时设诸物任抓取，以观志向的古俗。 ② <sup>\[如皋\]</sup>婴儿满一周岁的庆祝活动。参见“满朞”。 ③ <sup>\[如东\]</sup>新生儿满一周岁时举行的庆祝活动。堂屋中间放置一张八仙桌，上面摆着笔、钱、米、算盘等物，让小儿坐在桌上，任其随意抓取。他（她）抓什么东西，表示今后将向什么方向发展。  
 1. 【[抓朞面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_ji_min.md#抓朞面)】`zhua1 ji1 min6` <sup>[如东]</sup> 新生儿满周岁，家中宴请贺礼亲友，中面晚酒。  
 1. 【[抓阄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_jieu.md#抓阄)】`zhua1 jieu1` <sup>[东台]</sup> 在分配物资或任务时，为避免不公的嫌疑，当众把要分配的内容遮掩或做成看不出差别的物件，由参与分配者随机选取，抓到什么就是什么。  
 1. 【[抓么<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_mu_r.md#抓么<sub>儿</sub>)】`zhua1 mu3 r` <sup>[如皋]</sup> 用七枚杏核或其他物品，以各种方式抓、抛、接，并计数，以比胜负的游戏。  

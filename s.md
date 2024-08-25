@@ -513,7 +513,7 @@
 1. 【[舍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha.md#舍)】`sha5` <sup>[东台]</sup> 原指田头小草房，后用作地名：六里～｜王家～｜西～。  
 1. 【[舍<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_r.md#舍<sub>儿</sub>)】`sha5 r` ① <sup>\[兴化\]</sup>见“舍子”。 ② <sup>\[泰县\]</sup>野外的小屋。  
 1. 【[舍子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_zz.md#舍子)】`sha5 zz` <sup>[兴化]</sup> ① 位于村庄以外的小屋。 ② 较小的村落：张家～；李家～。也说“舍儿”。  
-1. 【[赦数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_shv.md#赦数)】`sha5 shv5` ① <sup>\[如皋\]</sup>分寸、节制：他说话没～；耍子啊没～啊。<sup>\[如皋\]</sup> ② <sup>\[兴化\]</sup>分寸：这个人说话没～。<sup>\[兴化\]</sup> ③ <sup>\[泰县\]</sup>分寸：你这个人说话没得点儿～。  
+1. 【[赦数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_shv.md#赦数)】`sha5 shv5` <sup>\[如皋\]\[兴化\]\[泰县\]</sup>分寸、节制：他说话没～<sup>\[如皋\]</sup>｜耍子啊没～啊。<sup>\[如皋\]</sup>｜这个人说话没～。<sup>\[兴化\]</sup>｜你这个人说话没得点儿～。<sup>\[泰县\]</sup>  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha.md#□)】`sha6` <sup>[如皋]</sup> 信口说，毫不谨慎：他的嘴～，把秘密～出去啊。  
 1. 【[射](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha.md#射)】`sha6` <sup>[如皋]</sup> ① 发射：～箭。 ② 掉落速度快：钱走袋儿里～掉啊。  
 1. 【[射箭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_jin.md#射箭)】`sha6 jin5` <sup>[如皋]</sup> 本指张弓射箭，比喻速度极快。  

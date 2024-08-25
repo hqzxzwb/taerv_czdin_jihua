@@ -2039,6 +2039,7 @@
 1. 【[到甚的山砍甚的柴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_shen_nii_shaen.md#到甚的山砍甚的柴)】`do5 shen2 nii shaen1 kun3 shen2 nii shae2` <sup>[东台]</sup> 审时度势随机应变。  
 1. 【[到位（味）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_vei.md#到位（味）)】`do5 vei6` <sup>[如皋]</sup> ① 达到最佳状态：这次音乐会听得～｜他的话说得～。 ② 办事得体、完美：同你把事情做啊～啊，你放心。  
 1. 【[到嘴不到肚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_zuei_beh_do_tv.md#到嘴不到肚)】`do5 zuei3 beh7 do5 tv6` <sup>[兴化]</sup> 食物太少，不能满足食欲：武二爷望望：酒虽好，吃的不过瘾，～。（《武松》一）  
+1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/doh.md#□)】`doh7` <sup>\[泰兴\]</sup>量词，一坨（粪便）。  
 1. 【[㞘底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/doh_di.md#㞘底)】`doh7 di3` <sup>[兴化]</sup> 终点。《集韵·屋韵》都木切，《博雅》臀也。俗作“𡰪”：四路公交车到关门陈～。  
 1. 【[啄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/doh.md#啄)】`doh7` ① <sup>\[如皋\]\[泰州\]</sup>鸟吃食的动作：鸡子～食，同鹐。<sup>\[如皋\]</sup>｜外头鸡子在下～你家晒的稻。<sup>\[泰州\]</sup> ② <sup>\[如皋\]</sup>缝纫机缝纫：把布～下子。<sup>\[如皋\]</sup> ③ <sup>\[东台\]</sup>用坚硬的嘴凿。《广韵》“丁木切。”：剥～有声。<sup>\[东台\]</sup>  
 1. 【[啄木鸟治树——全凭嘴硬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/doh_moh_nio_chr_shv_qiun_pien_jy_ngen.md#啄木鸟治树——全凭嘴硬)】`doh7 moh8 nio3 chr6 shv6 qiun2 pien2 jy3 ngen6` <sup>[东台]</sup>   
@@ -2047,7 +2048,7 @@
 1. 【[笃定码子开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/doh_tien_ma_zz_kae.md#笃定码子开)】`doh7 tien6 ma3 zz kae1` <sup>[如皋]</sup> 肯定。  
 1. 【[笃定泰山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/doh_tien_tae_shaen.md#笃定泰山)】`doh7 tien6 tae5 shaen1` <sup>[兴化]</sup> ① 一定、有把握：……只要她不再噜嗦，我就可以～地大搞了。（马春阳《二亩自留地》） ② 形容安安稳稳的样子：西边起了天色，人们慌忙往家赶，他却～慢慢朝前走。  
 1. 【[𧰵/㧻/𢽚/厾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/doh.md#𧰵/㧻/𢽚/厾)】`doh7` ① （接触面积较小地）击：～囤子（习俗，年前以草帽盛灰在地上击打印上图案） ② 扔 ③ <sup>\[如皋\]</sup>抛击：飞刀～咖在屋柱子上。<sup>\[如皋\]</sup> ④ <sup>\[东台\]</sup>用指头、棍棒等轻击：他在孩子头上～咖几下子。<sup>\[东台\]</sup> ⑤ <sup>\[东台\]</sup>刺，捅：～咖个洞。<sup>\[东台\]</sup> ⑥ <sup>\[兴化\]</sup>下击：拿铁棒把冻～开。<sup>\[兴化\]</sup>｜把水泥路面～开来翻修。<sup>\[兴化\]</sup>｜他用指头在桌子上一～。《集韵·沃韵》都毒切“～，《说文》椎击物也”。<sup>\[兴化\]</sup> ⑦ <sup>\[兴化\]</sup>揭短、诘问：拿话～他。<sup>\[兴化\]</sup> ⑧ <sup>\[兴化\]</sup>挖苦：几句话把他～咖跳起来。<sup>\[兴化\]</sup> ⑨ <sup>\[泰县\]</sup>撞：～他的头。<sup>\[泰县\]</sup> ⑩ <sup>\[泰县\]</sup>督促：他每天～小张看书。<sup>\[泰县\]</sup> ⑪ <sup>\[泰县\]</sup>缝纫。 ⑫ <sup>\[泰州\]</sup>来自上部垂直打击：他身子一抬，头就顶到啊水泥梁，头上捱～咖个瘤。<sup>\[泰州\]</sup> ⑬ <sup>\[泰州\]</sup>击物所发出的声音，象声词：～～～，外头有人在下打门。<sup>\[泰州\]</sup> ⑭ <sup>\[泰州\]</sup>特指用缝纫机缝：把衣裳～咖子。<sup>\[泰州\]</sup>  
-1. 【[𧰵洋机](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/doh_ian_ji.md#𧰵洋机)】`doh7 ian2 ji1` ① <sup>\[东台\]</sup>打缝纫机。 ② <sup>\[兴化\]</sup>踏缝纫机，借指从事缝纫职业：他在南门外～。<sup>\[兴化\]</sup>  
+1. 【[𧰵洋机](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/doh_ian_ji.md#𧰵洋机)】`doh7 ian2 ji1` <sup>\[东台\]\[兴化\]</sup>踏缝纫机，运行缝纫机\[兴化：借指从事缝纫职业\]：他在南门外～。<sup>\[兴化\]</sup>  
 1. 【[𧰵齐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/doh_qi.md#𧰵齐)】`doh7 qi2` <sup>[如东]</sup> 把不整齐的枝条在地上一上一下地躅动，使之齐整：把芦苇～。  
 1. 【[𧰵糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/doh_tan.md#𧰵糖)】`doh7 tan2` <sup>[兴化]</sup> 一种儿童博彩的游戏。  
 1. 【[东半上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_bun_shan.md#东半上)】`don1 bun shan` <sup>[如皋]</sup> 东边。  
