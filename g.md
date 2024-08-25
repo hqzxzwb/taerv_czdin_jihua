@@ -921,6 +921,7 @@
 1. 【[宫碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_un.md#宫碗)】`gon1 un3` <sup>[兴化]</sup> 一种细瓷小汤碗：他饭量小，中午只吃一～饭。兴化词典作“㔶”，《说文·匚部》古送切，小杯也。  
 1. 【[宫碗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_un_r.md#宫碗<sub>儿</sub>)】`gon1 un3 r` ① <sup>\[如皋\]</sup>一种精致的反边小碗。 ② <sup>\[泰县\]</sup>很小的碗。  
 1. 【[工程](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_chen.md#工程)】`gon1 chen` <sup>[兴化]</sup> 工夫：我等你的～自己倒做好啊。｜“……正是买卖不成，担误～……”（《古今小说》一）  
+1. 【[工程](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_chen.md#工程)】`gon1 chen` <sup>[泰兴]</sup> 程度  
 1. 【[工程](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_chen.md#工程)】`gon1 chen2` <sup>[如皋]</sup> 辛劳、时间：领伢儿从小到大是水磨的～。  
 1. 【[工分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_fen.md#工分)】`gon1 fen1` <sup>[泰兴]</sup> 农业生产合作社、人民公社期间（公元1956年—1980年）计算社员工作量和劳动报酬的单位：大呼隆的时候，我一天只挣到10个～，才几角钱。  
 1. 【[工夫钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_fv_qin.md#工夫钱)】`gon1 fv qin2` <sup>[兴化]</sup> 指产品中所含人工及技术的价格：这东西本钱不大，我卖的～。｜修旧服务寻的～。  
