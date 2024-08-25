@@ -1265,12 +1265,14 @@
 1. 【[小班的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_baen_dii.md#小班的)】`xio3 baen1 dii` 晚辈们  
 1. 【[小傍中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ban_zhon.md#小傍中)】`xio3 ban zhon1` <sup>[兴化]</sup> 近中午的时候：（婆媳俩）一直等到～，派一个人出来回话……（陈登科《淮河边上的儿女》十四）  
 1. 【[小不点<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_beh_din_r.md#小不点<sub>儿</sub>)】`xio3 beh din3 r` ① <sup>\[兴化\]</sup>（戏）幼童。 ② <sup>\[兴化\]</sup>形容很小的东西。 ③ <sup>\[泰兴\]</sup>极言其小，很小的孩子：对门的那个～惹人欢喜得凶。<sup>\[泰兴\]</sup>  
+1. 【[小不下来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_beh_ha_lae.md#小不下来)】`xio3 beh ha6 lae2` <sup>[泰兴]</sup> 拿架子，充派头，抬身份。  
 1. 【[小不可大算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_beh_ku_tae_sun.md#小不可大算)】`xio3 beh7 ku3 tae6 sun5` <sup>[兴化]</sup> 节约要从小处做起，日积月累见成果：一天不多，十天许多，～吖。  
 1. 【[小不可怠算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_beh_ku_tae_sun.md#小不可怠算)】`xio3 beh7 ku3 tae6 sun5` <sup>[东台]</sup> 小的收入或支出也不能忽略。  
 1. 【[小本营生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ben_ien_shen.md#小本营生)】`xio3 ben3 ien2 shen` <sup>[兴化]</sup> 靠做小买卖维持生计：他下岗以后做的～。  
 1. 【[小本经纪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ben_jien_ji.md#小本经纪)】`xio3 ben3 jien1 ji` <sup>[泰兴]</sup> 小本生意买卖：我在菜场做点～，赚不到甚的。  
 1. 【[小本交易](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ben_jio_i.md#小本交易)】`xio3 ben3 jio1 i` <sup>[兴化]</sup> 本钱少，利润薄的买卖：～经不起风浪。  
 1. 【[小本生意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ben_shen_i.md#小本生意)】`xio3 ben3 shen1 i5` <sup>[如东]</sup> 从事资本较小的买卖。  
+1. 【[小兵瘌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_bien_laeh_zz.md#小兵瘌子)】`xio3 bien1 laeh zz` <sup>[泰兴]</sup> 小兵，普通士兵。  
 1. 【[小兵辣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_bien_laeh_zz.md#小兵辣子)】`xio3 bien1 laeh8 zz` <sup>[东台]</sup> 指地位、身份较低的人。  
 1. 【[小兵<sub>儿</sub>辣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_bien_r_laeh_zz.md#小兵<sub>儿</sub>辣子)】`xio3 bien1 r laeh8 zz` <sup>[如皋]</sup> ① 旧时对兵的贬称。 ② 下级人员的自嘲语。  
 1. 【[小瘪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_bih_zz.md#小瘪子)】`xio3 bih7 zz` <sup>[如东]</sup> 最小的一个儿子：龙龙是我家的～。  
@@ -1279,15 +1281,16 @@
 1. 【[小半](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_bun.md#小半)】`xio3 bun5` <sup>[泰兴]</sup> 不足一半。超过一半称大半。  
 1. 【[小布<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_bv_r.md#小布<sub>儿</sub>)】`xio3 bv5 r` ① <sup>\[如皋\]</sup>见“大布”。 ② <sup>\[如皋\]</sup>农家用手工自纺自织的布，粗厚。  
 1. 【[小布子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_bv_zz.md#小布子)】`xio3 bv5 zz` <sup>[兴化]</sup> 门面一尺左右的窄幅棉布。  
-1. 【[小菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cae.md#小菜)】`xio3 cae5` ① 菜肴 ② <sup>\[如东\]</sup>常吃的蔬菜。 ③ <sup>\[如东\]</sup>菜肴。  
-1. 【[小菜场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cae_chan.md#小菜场)】`xio3 cae5 chan2` ① <sup>\[如东\]</sup>菜市场。 ② <sup>\[兴化\]</sup>旧称菜市场。  
+1. 【[小菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cae.md#小菜)】`xio3 cae5` ① <sup>\[如东\]</sup>常吃的蔬菜。 ② <sup>\[如东\]</sup>菜肴。 ③ <sup>\[泰兴\]</sup>咸菜。指吃粥时用的酱菜。  
+1. 【[小菜场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cae_chan.md#小菜场)】`xio3 cae5 chan2` <sup>\[如东\]\[兴化\]\[泰兴\]</sup>菜市场。  
 1. 【[小菜饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cae_faen.md#小菜饭)】`xio3 cae5 faen6` <sup>[兴化]</sup> 比较简单的饭食：大鱼大肉吃不起，每日两餐～是有的。  
-1. 【[小菜一碟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cae_ieh_dih.md#小菜一碟)】`xio3 cae5 ieh7 dih7` ① <sup>\[如东\]</sup>比喻非常简单，人人都会做：大学生写一篇文章，不过是～。<sup>\[如东\]</sup> ② <sup>\[东台\]</sup>［喻］小事一桩，不费事。  
+1. 【[小菜一碟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cae_ieh_dih.md#小菜一碟)】`xio3 cae5 ieh7 dih7` ① <sup>\[如东\]</sup>比喻非常简单，人人都会做：大学生写一篇文章，不过是～。<sup>\[如东\]</sup> ② <sup>\[东台\]</sup>［喻］小事一桩，不费事。 ③ <sup>\[泰兴\]</sup>谓区区小事。  
 1. 【[小菜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cae_r.md#小菜<sub>儿</sub>)】`xio3 cae5 r` <sup>[如皋]</sup> ① 咸菜（相对下锅菜而言）。 ② 家常菜（相对厨师做的、大菜等而言）。 ③ 通指菜蔌：～场、烧～。 ④ 乡村指猪肉：今朝来啊人，去称块～家来拿咸菜干儿烧。  
 1. 【[小菜<sub>儿</sub>一碟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cae_r_ieh_dih.md#小菜<sub>儿</sub>一碟)】`xio3 cae5 r ieh7 dih7` <sup>[如皋]</sup> 小事一桩。即不上眼的小事情。  
 1. 【[小菜子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cae_zz.md#小菜子)】`xio3 cae5 zz` <sup>[兴化]</sup> ① 用小碳盛的下酒饭的菜蔬：酱～。 ② 特指用米佐茶的烫干丝等。  
 1. 【[小馓子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_caen_zz.md#小馓子)】`xio3 caen3 zz` <sup>[如皋]</sup> 一种寸许大的微子，酥脆香甜（相对于大把子的泡食的馓子）。  
 1. 【[小车<sub>儿</sub>行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cha_r_han.md#小车<sub>儿</sub>行)】`xio3 cha r han2` <sup>[如皋]</sup> 制造、出售独轮车的店。上世纪六七十年代还见到过。  
+1. 【[小车子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cha_zz.md#小车子)】`xio3 cha zz` <sup>[泰兴]</sup> 平面独轮木制车，区别于“山车”，有时称“拱头车子”，今已少见。  
 1. 【[小车𣑁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cha_chon.md#小车𣑁)】`xio3 cha1 chon5` <sup>[如东]</sup> 小车楼棚上的横木。  
 1. 【[小车耳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cha_er.md#小车耳)】`xio3 cha1 er3` <sup>[如东]</sup> 固定车轮轴承的装置。  
 1. 【[小车锏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cha_gaen.md#小车锏)】`xio3 cha1 gaen5` <sup>[如东]</sup> 嵌在轴承上方的耐磨装置，用檀木制成。  
@@ -1331,15 +1334,19 @@
 1. 【[小搭搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_daeh_daeh.md#小搭搭)】`xio3 daeh7 daeh7` <sup>[如东]</sup> 做一些很小的生意。  
 1. 【[小凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_den.md#小凳)】`xio3 den5` <sup>[如东]</sup> 矮而小的一种凳子。通常长30厘米，宽12厘米，高20厘米。  
 1. 【[小顶搭<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_dien_daeh_r.md#小顶搭<sub>儿</sub>)】`xio3 dien3 daeh7 r` <sup>[泰县]</sup> 乖宝宝。  
+1. 【[小点子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_din_zz.md#小点子)】`xio3 din3 zz` <sup>[泰兴]</sup> 称辈分小的人。  
 1. 【[小刁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_dio.md#小刁)】`xio3 dio1` ① <sup>\[兴化\]</sup>形容人在小事情显得刁钻：他是个～，总要占点儿便宜才高兴。<sup>\[兴化\]</sup> ② <sup>\[泰县\]</sup>尖刁，在小处盘算。  
 1. 【[小刀面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_do_min.md#小刀面)】`xio3 do1 min6` ① <sup>\[如东\]</sup>小麦糏加适量水调匀，反复揉压使面团软熟，用擀面杖擀成面皮，用薄刀切成四方形的面条，质韧，味香。这种面称小刀面（与机面相对）。 ② <sup>\[兴化\]</sup>人工擀成面皮后，用刀切成的面条。区别于“机面”。  
 1. 【[小刀切葱——两头空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_do_qih_con_laen_teu_kon.md#小刀切葱——两头空)】`xio3 do1 qih7 con1 laen3 teu2 kon1` <sup>[东台]</sup>   
-1. 【[小刀手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_do_sheu.md#小刀手)】`xio3 do1 sheu3` <sup>[兴化]</sup> 新近出现词语，称个体屠户。  
+1. 【[小刀手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_do_sheu.md#小刀手)】`xio3 do1 sheu3` <sup>[兴化]</sup> 新近（1990年成书）出现词语，称个体屠户。  
+1. 【[小刀手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_do_sheu.md#小刀手)】`xio3 do1 sheu3` <sup>[泰兴]</sup> 小屠户，个体宰杀生猪者：现在～生意还蛮好的。  
 1. 【[小冬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_don.md#小冬)】`xio3 don1` ① <sup>\[如皋\]</sup>冬至（大冬）前一天，是周代的除夕。今存烧经祭祖习俗，是鬼节之一。 ② <sup>\[东台\]</sup>指冬至（大冬）前一日，民间冬至祭祖均放在～。 ③ <sup>\[兴化\]</sup>冬至前一日为～，民户中午设馔、焚化纸钱祭奠先人：谚曰：大冬（冬至日）大似年，小冬不值钱。<sup>\[兴化\]</sup>  
+1. 【[小肚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_dv.md#小肚)】`xio3 dv3` <sup>[泰兴]</sup> 食品。可供长时间食用的加作料的肉食品。  
 1. 【[小肚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_dv_r.md#小肚<sub>儿</sub>)】`xio3 dv3 r` <sup>[如皋]</sup> ① 用猪膀胱膜灌猪肉馅呈球形的食品，每只250g左右。 ② 卤菜：猪膀胱。  
+1. 【[小肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_dv_zz.md#小肚子)】`xio3 dv3 zz` <sup>[泰兴]</sup> 下腹部。  
 1. 【[小儿呵唏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_er_hu_xi.md#小儿呵唏)】`xio3 er2 hu1 xi1` <sup>[兴化]</sup> 形容人吝啬，把小气形于表面：你～的怎吖好意思嗲？  
 1. 【[小儿寒气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_er_hun_qi.md#小儿寒气)】`xio3 er2 hun2 qi5` <sup>[东台]</sup> 形容人的举止、行为不够大方，也叫小家子气。  
-1. 【[小儿科](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_er_ku.md#小儿科)】`xio3 er2 ku1` ① <sup>\[如皋\]</sup>专治儿童疾病的学科、机构。 ② <sup>\[如皋\]</sup>喻小气、不大方。 ③ <sup>\[如皋\]</sup>喻干不了大事情，而干些小打小闹的玩意儿。 ④ <sup>\[东台\]</sup>［喻］无足轻重的小事。 ⑤ <sup>\[东台\]</sup>小气巴巴，档次不高。 ⑥ <sup>\[兴化\]</sup>（借）形容人吝啬、举止不大方。  
+1. 【[小儿科](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_er_ku.md#小儿科)】`xio3 er2 ku1` ① <sup>\[如皋\]\[泰兴\]</sup>专治儿童疾病的学科、机构。 ② <sup>\[如皋\]</sup>喻干不了大事情，而干些小打小闹的玩意儿。 ③ <sup>\[东台\]</sup>［喻］无足轻重的小事。 ④ <sup>\[东台\]</sup>小气巴巴，档次不高。 ⑤ <sup>\[兴化\]\[泰兴\]\[如皋\]</sup>（借）形容人吝啬、举止不大方。  
 1. 【[小耳朵话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_er_do_hua.md#小耳朵话)】`xio3 er3 do hua6` <sup>[泰兴]</sup> 带有挑拨性的用或背后听来的来路不正的语言：做领导的千万不要听～。  
 1. 【[小耳朵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_er_du.md#小耳朵)】`xio3 er3 du` <sup>[兴化]</sup> 经常打小报告的人：他是头头的～，在他面前说话要当心。  
 1. 【[小耳头话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_er_teu_hua.md#小耳头话)】`xio3 er3 teu hua6` <sup>[如皋]</sup> 密告、挑唆、偏颇及枕头风之类的话。  
@@ -1365,14 +1372,16 @@
 1. 【[小锅菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_gu_cae.md#小锅菜)】`xio3 gu1 cae5` <sup>[兴化]</sup> 为病人或有特殊身份的人专门做的菜肴：老人生锅，为他做点～。  
 1. 【[小锅<sub>儿</sub>菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_gu_r_cae.md#小锅<sub>儿</sub>菜)】`xio3 gu1 r cae5` <sup>[如皋]</sup> 专门烧的优质菜肴（与大锅菜、统菜相对）。  
 1. 【[小瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_gua.md#小瓜)】`xio3 gua1` <sup>[兴化]</sup> ① 个头小的瓜。 ② 香瓜等小品种的瓜。  
-1. 【[小褂裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_gua_kv.md#小褂裤)】`xio3 gua5 kv5` ① <sup>\[如皋\]</sup>中式衬衣、衬裤：单衣、单裤。 ② <sup>\[如东\]</sup>一套服装：只有一身～。<sup>\[如东\]</sup> ③ <sup>\[兴化\]</sup>衬里的衣裤：换身～。<sup>\[兴化\]</sup> ④ <sup>\[兴化\]</sup>夏天穿的单衣。  
+1. 【[小褂裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_gua_kv.md#小褂裤)】`xio3 gua5 kv5` ① <sup>\[如皋\]</sup>中式衬衣、衬裤：单衣、单裤。 ② <sup>\[如东\]</sup>一套服装：只有一身～。<sup>\[如东\]</sup> ③ <sup>\[兴化\]</sup>衬里的衣裤：换身～。<sup>\[兴化\]</sup> ④ <sup>\[兴化\]</sup>夏天穿的单衣。 ⑤ <sup>\[泰兴\]</sup>靠身单衣。  
 1. 【[小褂子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_gua_zz.md#小褂子)】`xio3 gua5 zz` <sup>[如东]</sup> 单上衣。  
 1. 【[小怪拐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_guae_guae_r.md#小怪拐<sub>儿</sub>)】`xio3 guae5 guae3 r` <sup>[东台]</sup> 指打扮出格，好出风头、卖弄风情的小女人。  
 1. 【[小刮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_guaeh.md#小刮)】`xio3 guaeh7` <sup>[泰县]</sup> ① 谋小利。 ② 占小便宜：这个人就喜欢～。  
 1. 【[小刮刮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_guaeh_guaeh.md#小刮刮)】`xio3 guaeh7 guaeh7` ① <sup>\[如东\]</sup>谋小利。 ② <sup>\[如东\]</sup>占小便宜。 ③ <sup>\[兴化\]</sup>指所赚的钱数不多：我的本钱有限，只能～而已。<sup>\[兴化\]</sup> ④ <sup>\[兴化\]</sup>小额的赌博。  
 1. 【[小鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_guei.md#小鬼)】`xio3 guei3` <sup>[如东]</sup> 对小孩的昵称。  
+1. 【[小鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_guei.md#小鬼)】`xio3 guei3` <sup>[泰兴]</sup> 对小孩的戏称，小朋友，小把戏。  
 1. 【[小倌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_gun.md#小倌)】`xio3 gun` <sup>[如皋]</sup> 对商家徒弟的尊称。  
 1. 【[小姑娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_gv_nian.md#小姑娘)】`xio3 gv1 nian` <sup>[如东]</sup> ① 未成年的女孩：她还是个～。 ② 排行最小的一位女儿：她是我家的～。  
+1. 【[小下腰来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ha_io_lae.md#小下腰来)】`xio3 ha io1 lae2` <sup>[泰兴]</sup> 弯下腰来，俯就，将就。  
 1. 【[小侯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_heu.md#小侯)】`xio3 heu` ① 儿子 ② 泛指男孩子 ③ <sup>\[如东\]</sup>男孩：她家媳妇养吖个～。<sup>\[如东\]</sup>  
 1. 【[小伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_hu.md#小伙)】`xio3 hu` ① <sup>\[东台\]</sup>儿子。 ② <sup>\[东台\]</sup>青年男子。 ③ <sup>\[兴化\]</sup>对女孩的昵称（限于面称）。 ④ <sup>\[泰县\]\[泰兴\]\[兴化\]</sup>男孩。\[泰兴：成年的青年男子称为“小伙子”\]：她第一胎养的～。<sup>\[兴化\]</sup> ⑤ <sup>\[泰县\]\[泰兴\]\[兴化\]</sup>儿子：他家～在外企做事。<sup>\[兴化\]</sup>  
 1. 【[小伙头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_hu_teu_zz.md#小伙头子)】`xio3 hu teu2 zz` <sup>[兴化]</sup> 指男性青少年：～要有点闯劲，覅像大姑娘，羞羞答答的。｜有个人家姓李，老板在外做宫，原配妻子死了，留下个～。（兴文《石头星与灯草星》）  
@@ -1381,6 +1390,7 @@
 1. 【[小伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_hu.md#小伙)】`xio3 hu3` ① <sup>\[如皋\]</sup>称儿子。 ② <sup>\[如皋\]</sup>称男性青少年。 ③ <sup>\[如皋\]</sup>对晚辈的爱称。 ④ <sup>\[如东\]</sup>儿子。 ⑤ <sup>\[如东\]</sup>男孩。 ⑥ <sup>\[如东\]</sup>年轻的男子。  
 1. 【[小火炖蹄髈——慢慢来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_hu_den_ti_pan_maen_maen_lae.md#小火炖蹄髈——慢慢来)】`xio3 hu3 den5 ti2 pan3 maen6 maen6 lae2` <sup>[东台]</sup>   
 1. 【[小货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_hu.md#小货)】`xio3 hu5` ① <sup>\[如皋\]</sup>为店里做生意时，自己也买卖的那部分货物称小货，但要店主批准。如布店学徒在店内卖绣品。 ② <sup>\[如皋\]</sup>詈语，与“老货”相对。 ③ <sup>\[兴化\]</sup>旧称长途小额贩运的商品：跑～。<sup>\[兴化\]</sup> ④ <sup>\[兴化\]</sup>少量堆积商品，待价而沽：他前几年堆～，赚吖一笔钱。<sup>\[兴化\]</sup>  
+1. 【[小华](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_hua.md#小华)】`xio3 hua2` <sup>[泰兴]</sup> 对子女、晚辈的昵称。为“小伙哇”的切音连读。  
 1. 【[小黄鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_huan_y.md#小黄鱼)】`xio3 huan2 y2` <sup>[如东]</sup> 石首科动物小黄鱼，又名春鱼、黄花鱼。体长约20厘米。身体偏扁，形状与大黄鱼相近而小，体背侧灰褐色，两侧及腹侧为黄色，背鳍边缘灰褐色。臀鳍第二鳍棘长小于眼径。头较大。头颅具发达粘液腔。鳞较大，在背鳍与侧线间具鳞5-6行。栖息在软泥或泥沙底质海区中下层。有明显的垂直移动现象，黄昏时上升，黎明时下降，白天在底层或近底层活动。为重要的经济鱼类，是如东县常见鱼种。  
 1. 【[小茴香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_huei_xian.md#小茴香)】`xio3 huei2 xian1` <sup>[如皋]</sup> 茴香。  
 1. 【[小荤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_huen.md#小荤)】`xio3 huen1` <sup>[如皋]</sup> 与大荤相对。即菜中含荤量小。  
@@ -1389,6 +1399,7 @@
 1. 【[小衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_i.md#小衣)】`xio3 i1` ① <sup>\[如皋\]</sup>内衣裤。 ② <sup>\[如东\]</sup>衬衣。 ③ <sup>\[兴化\]</sup>衬裤：半夜里听到火警，她吓得只穿件膜衫和～就跑啊出来。<sup>\[兴化\]</sup>｜打了一回，穿上～，放起他来，吩咐在旁打扇。（《金瓶梅词话》八）<sup>\[兴化\]</sup>  
 1. 【[小姨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_i_zz.md#小姨子)】`xio3 i2 zz` <sup>[如东]</sup> 妻子的妹妹。  
 1. 【[小意思](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_i_sz.md#小意思)】`xio3 i5 sz` ① <sup>\[如东\]</sup>微薄的心意：一点儿～，请收下。<sup>\[如东\]</sup> ② <sup>\[如东\]</sup>数量很少：～，没有大不了。<sup>\[如东\]</sup> ③ <sup>\[东台\]</sup>客套话，指微薄的心意。  
+1. 【[小夜饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ia_faen.md#小夜饭)】`xio3 ia faen` <sup>[泰兴]</sup> 夜间小食。  
 1. 【[小野鸭<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ia_ngaeh_r.md#小野鸭<sub>儿</sub>)】`xio3 ia3 ngaeh7 r` <sup>[如皋]</sup> 䴙䴘。  
 1. 【[小雅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ia.md#小雅)】`xio3 ia3` <sup>[兴化]</sup> ① 《诗经》组成形分之一。（借）二三知己聚饮：餐桌摆开，主宾落坐，酒杯注满，客套两句，便～起来，（钱国怀《社会新闻》） ② 小的享受：今天下午到澡堂子～去。  
 1. 【[小夜班](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ia_baen.md#小夜班)】`xio3 ia6 baen1` ① <sup>\[如东\]</sup>上班制度的一种。晚上十二点钟之前的班次。 ② <sup>\[兴化\]</sup>下午三四点钟连接上半夜的班次：上～。<sup>\[兴化\]</sup>  
@@ -1410,6 +1421,8 @@
 1. 【[小鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ji.md#小鸡)】`xio3 ji1` <sup>[如东]</sup> 孵出不久的幼鸡。也叫雏鸡。  
 1. 【[小鸡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ji_r.md#小鸡<sub>儿</sub>)】`xio3 ji1 r` ① <sup>\[如皋\]</sup>小孩的阴茎。 ② <sup>\[泰县\]</sup>小鸡。  
 1. 【[小蓟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ji.md#小蓟)】`xio3 ji5` <sup>[如东]</sup> 菊科植物小蓟，又名刺秸，多年生草本。具长匍匐根。茎直立，高约50厘米。茎生叶互生，长椭圆形或长圆状披针形，无柄，两面披蛛丝状绵毛，全缘或有波状疏锯齿，齿端具刺。头状花序单生于茎顶。花冠紫红色，细管状。瘦果长椭圆形，淡褐色。生长在路旁、沟边、田间或荒丘。  
+1. 【[小家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_jia.md#小家)】`xio3 jia1` <sup>[泰兴]</sup> 旧称妾。原配夫人称为“大（tu6）家”。  
+1. 【[小家寒气的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_jia_hun_qi.md#小家寒气的)】`xio3 jia1 hun2 qi5 dii` <sup>[泰兴]</sup> 小气，不大方。  
 1. 【[小姐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_jia.md#小姐)】`xio3 jia3` <sup>[如东]</sup> ① 成年未嫁的姑娘。 ② 对年轻女子的尊称。  
 1. 【[小脚鞋子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_jiah_hae_zz.md#小脚鞋子)】`xio3 jiah7 hae2 zz` <sup>[兴化]</sup> （喻）暗中刁难、约束或限制：你要是提意见，他就把～你穿。‖也说“紧脚鞋子”。  
 1. 【[小脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_jiah_r.md#小脚<sub>儿</sub>)】`xio3 jiah7 r` ① <sup>\[如皋\]</sup>独轮车后部的两只脚。 ② <sup>\[如皋\]</sup>自行车的前叉。 ③ <sup>\[如东\]</sup>旧时女孩六七岁时，就用裹脚布把脚包裹起来，不让长大长长，变成一种小脚。旧称三寸金莲。  
@@ -1424,6 +1437,7 @@
 1. 【[小掐尖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_kaeh_jin.md#小掐尖)】`xio3 kaeh7 jin1` <sup>[泰兴]</sup> 谓尖酸、吝惜，爱占小便宜的人。  
 1. 【[小块](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_kuae.md#小块)】`xio3 kuae5` <sup>[泰县]</sup> 小气。  
 1. 【[小看](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_kun.md#小看)】`xio3 kun5` <sup>[如皋]</sup> 轻视、忽视：你不要～他，他的学问不比你少。  
+1. 【[小来来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_lae_lae.md#小来来)】`xio3 lae2 lae` <sup>[泰兴]</sup> ① 小规模地干 ② 玩牌押小赌注，输赢不大：今朝～，来去不要大。  
 1. 【[小来来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_lae_lae.md#小来来)】`xio3 lae2 lae2` <sup>[如东]</sup> ① 做一点很小的交易。 ② 指打牌时，下很小的赌注。  
 1. 【[小量](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_lian.md#小量)】`xio3 lian` <sup>[兴化]</sup> 瞧不起人：你不要～人。｜“他若背放和气些，我好意骂他？他～人家。”（《金瓶梅闻话》七六）  
 1. 【[小殓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_lin.md#小殓)】`xio3 lin6` <sup>[如东]</sup> 尸体入棺，加盖而不密封。  
@@ -1471,6 +1485,7 @@
 1. 【[小拇节头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_mu_jih_teu.md#小拇节头)】`xio3 mu3 jih7 teu` <sup>[泰兴]</sup> 手足小拇指。最小的指头。  
 1. 【[小满](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_mun.md#小满)】`xio3 mun3` 二十四节气之一，通常在5月20、21或22日。  
 1. 【[小满前后吃青蚕豆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_mun_qin_heu_qieh_qien_cun_teu_r.md#小满前后吃青蚕豆<sub>儿</sub>)】`xio3 mun3 qin2 heu6 qieh7 qien1 cun2 teu6 r` <sup>[如皋]</sup> 尝时新。  
+1. 【[小满小满，𪎉子饭满碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_mun_xio_mun.md#小满小满，𪎉子饭满碗)】`xio3 mun3 xio3 mun3 haen6 zz faen6 mun3 un3` <sup>[泰兴]</sup> 谓新麦登场，农活辛苦，可用新麦子做𪎉子饭。  
 1. 【[小拿宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_na_bo_r.md#小拿宝<sub>儿</sub>)】`xio3 na2 bo3 r` <sup>[泰县]</sup> （禁忌语）小男孩。  
 1. 【[小奶奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_nae_nae.md#小奶奶)】`xio3 nae3 nae` ① <sup>\[如皋\]</sup>妾。 ② <sup>\[兴化\]</sup>妾：顾老板在外头要啊个～。也称“小娘子”。<sup>\[兴化\]</sup>  
 1. 【[小奶奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_nae_nae.md#小奶奶)】`xio3 nae3 nae3` ① <sup>\[如东\]</sup>弟弟的妻子。 ② <sup>\[如东\]</sup>小老婆。 ③ <sup>\[如东\]</sup>妾。 ④ <sup>\[泰县\]</sup>妾。  
@@ -1484,12 +1499,16 @@
 1. 【[小眼睛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ngaen_jien.md#小眼睛)】`xio3 ngaen3 jien1` <sup>[东台]</sup> 这里特指一种海鱼，学名梅童鱼。眼小，口大而斜，在暗地里有萤石的光亮。  
 1. 【[小眼眶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ngaen_kuan.md#小眼眶)】`xio3 ngaen3 kuan1` <sup>[兴化]</sup> 形容势利眼，见不得世面的人：她这个～，见人穿一件新衣裳眼睛就发红。  
 1. 【[小牛摆四方](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ngeu_bae_sz_fan.md#小牛摆四方)】`xio3 ngeu2 bae3 sz5 fan1` <sup>[东台]</sup> 原指天真烂漫、个性张扬的样子，有时也喻意小人得志。  
+1. 【[小娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_nian.md#小娘)】`xio3 nian2` <sup>[泰兴]</sup> 旧日时指妾，小老婆。  
+1. 【[小娘养的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_nian_ian_dii.md#小娘养的)】`xio3 nian2 ian3 dii` <sup>[泰兴]</sup> 詈语。谓小老婆生的。旧时妾所生子女地位低下。  
 1. 【[小娘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_nian_zz.md#小娘子)】`xio3 nian2 zz` <sup>[兴化]</sup> 妾：“不多。你看了这个标致模样，今与你做个～，难道消不得千金？”（《初刻》二）  
 1. 【[小年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_nin.md#小年)】`xio3 nin2` ① <sup>\[如皋\]\[如东\]</sup>农历的腊月小，只有29天，称～。 ② <sup>\[如皋\]</sup>冬至节：大冬如～。<sup>\[如皋\]</sup> ③ <sup>\[如东\]\[泰兴\]</sup>阴历腊月二十四日举行祭灶仪式，称过小年。 ④ <sup>\[如东\]\[泰兴\]</sup>果树结果少的年份：今年桃子是～。<sup>\[如东\]</sup>  
 1. 【[小箔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_pah.md#小箔)】`xio3 pah8` <sup>[如皋]</sup> 纸的一种。  
 1. 【[小髈腿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_pan_ty_r.md#小髈腿<sub>儿</sub>)】`xio3 pan3 ty3 r` <sup>[如皋]</sup> ① 小腿后部有肌肉的部分。 ② 小腿。  
+1. 【[小平头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_pien_teu.md#小平头)】`xio3 pien2 teu2` <sup>[泰兴]</sup> 一种不留长发的发型。  
 1. 【[小评论](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_pien_len.md#小评论)】`xio3 pien3 len6` <sup>[东台]</sup> 组织群众对某种言行评论的自我教育方式。  
 1. 【[小便](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_pin.md#小便)】`xio3 pin6` <sup>[如东]</sup> ① 尿。 ② 撒尿。  
+1. 【[小辫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_pin_zz.md#小辫子)】`xio3 pin6 zz` <sup>[泰兴]</sup> 喻把柄，出现的小问题：不要揪住～不放。  
 1. 【[小白虾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_poh_xia.md#小白虾)】`xio3 poh8 xia1` <sup>[如东]</sup> 樱虾科动物中国毛虾，体形小，侧高。体长2.5-4厘米。甲壳薄。额角短小，侧面略呈三角形。下缘斜而微曲，上缘具两齿。尾节很短，末端圆形无刺，侧缘的后半部及末缘具羽毛状。仅有3对足，并呈微小钳状。体无色透明。唯口器部分及触鞭呈红色，第6腹节的腹面微呈红色。可制虾皮，色白壳软，为上品。是如东著名的海味品。  
 1. 【[小篷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_pon.md#小篷)】`xio3 pon2` ① <sup>\[如东\]</sup>把风帆慢慢地从桅樯上放下来，叫小篷。也叫落篷。 ② <sup>\[兴化\]</sup>见“落篷”。  
 1. 【[小气巴巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qi_ba_ba.md#小气巴巴)】`xio3 qi ba1 ba` <sup>[兴化]</sup> ① 吝啬。 ② 俗气、不大方。  
@@ -1505,8 +1524,9 @@
 1. 【[小羌声](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qian_shen.md#小羌声)】`xio3 qian1 shen1` <sup>[如皋]</sup> 踏水号子之一。领五和三，称五唱三接。  
 1. 【[小青草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qien_co.md#小青草)】`xio3 qien1 co3` <sup>[如皋]</sup> 爵床。  
 1. 【[小钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qin.md#小钱)】`xio3 qin2` <sup>[兴化]</sup> ① 小面额的钱钞。 ② 也指少量的钱：说大话，用～。  
+1. 【[小钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qin.md#小钱)】`xio3 qin2` <sup>[泰兴]</sup> ① 旧时通用的小型铜质硬币，圆形，中有方孔 ② 少量的钱。乡人有“说大话，用小钱”语。  
 1. 【[小钱眼大，穷人胆大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qin_ngaen_da.md#小钱眼大，穷人胆大)】`xio3 qin2 ngaen3 da6 qion2 ren2 daen3 da6` <sup>[泰兴]</sup> 谓穷人为了生存，什么事都做得出来。多含贬义。  
-1. 【[小钱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qin_r.md#小钱<sub>儿</sub>)】`xio3 qin2 r` ① <sup>\[如东\]</sup>清朝的铜币。 ② <sup>\[如东\]</sup>钱数很少：几个～。<sup>\[如东\]</sup> ③ <sup>\[如东\]</sup>赏钱：这是给你的几个～。<sup>\[如东\]</sup> ④ <sup>\[泰县\]</sup>小气：他说大话用～。  
+1. 【[小钱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qin_r.md#小钱<sub>儿</sub>)】`xio3 qin2 r` ① <sup>\[如东\]</sup>清朝的铜币。 ② <sup>\[如东\]</sup>赏钱：这是给你的几个～。<sup>\[如东\]</sup> ③ <sup>\[泰县\]\[如东\]</sup>少量钱：他说大话用～。<sup>\[泰县\]</sup>｜几个～。<sup>\[如东\]</sup>  
 1. 【[小乔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qio.md#小乔)】`xio3 qio2` <sup>[兴化]</sup> 谓有身份的人待人谦和、不摆架子：她家老公当个副市长，对家边邻居的倒蛮～的。  
 1. 【[小瞧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qio.md#小瞧)】`xio3 qio2` ① <sup>\[如皋\]</sup>小看。 ② <sup>\[兴化\]</sup>小看：你覅～人，他说不定有真本事。<sup>\[兴化\]</sup>  
 1. 【[小曲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qioh.md#小曲)】`xio3 qioh7` <sup>[兴化]</sup> ① 民歌、小唱。 ② 相对于京戏（大曲）的地方戏唱段。  
@@ -1534,6 +1554,7 @@
 1. 【[小蒜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_sun.md#小蒜)】`xio3 sun5` ① <sup>\[如皋\]</sup>小根蒜，薤，藠头。 ② <sup>\[如东\]</sup>百禾科植物小蒜，多年生草本。外形与大蒜相似而小，鳞茎细小如薤，仅有一个鳞球。野生。 ③ <sup>\[东台\]</sup>即藠头，草本植物。又名藠子、薤白。为百合科葱属，叶细长。盐渍后可作蒸咸肉、咸鱼的衬底小菜，亦可烧蚕豆，作佐餐小菜。  
 1. 【[小榻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_taeh_r.md#小榻<sub>儿</sub>)】`xio3 taeh7 r` <sup>[泰县]</sup> 很小的船。  
 1. 【[小豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_teu.md#小豆)】`xio3 teu` <sup>[泰兴]</sup> 赤豆，红小豆。  
+1. 【[小头鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_teu_guei.md#小头鬼)】`xio3 teu2 guei3` <sup>[泰兴]</sup> 吝惜鬼，小气鬼。  
 1. 【[小豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_teu.md#小豆)】`xio3 teu6` <sup>[东台]</sup> 红小豆，也叫赤豆。  
 1. 【[小题大做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ti_da_zu.md#小题大做)】`xio3 ti2 da6 zu5` <sup>[泰兴]</sup> 拿小题目做大文章。喻把小事情渲染得很大，或当做大事情来处理。有不值得，不恰当的意思。  
 1. 【[小定](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_tien.md#小定)】`xio3 tien6` ① <sup>\[兴化\]</sup>婚事谈成之后，男方先给女方少量财礼，这个程序谓之“下～”：大英子已经有了人家……已经下过～，日子还没有定下来。（汪曾祺《受戒》）<sup>\[兴化\]</sup> ② <sup>\[泰县\]</sup>初次举行的订婚礼。  
@@ -1541,6 +1562,7 @@
 1. 【[小条砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_tio_zhun.md#小条砖)】`xio3 tio2 zhun1` ① <sup>\[如皋\]</sup>见“条砖”。 ② <sup>\[如皋\]</sup>小青砖。每垛300块。  
 1. 【[小笤帚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_tio_zheu.md#小笤帚)】`xio3 tio2 zheu3` ① <sup>\[如皋\]</sup>刷铺、刷案板等的小号笤帚。 ② <sup>\[如皋\]</sup>见“刷铺笤帚”。  
 1. 【[小动作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ton_zah.md#小动作)】`xio3 ton6 zah7` <sup>[如东]</sup> 偷偷做的干扰集体活动的动作：上课的时候，东东做～，拉花花的小辫子。  
+1. 【[小洞不补，大洞吃苦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ton_beh_bv.md#小洞不补，大洞吃苦)】`xio3 ton6 beh7 bv3 da6 ton6 qieh7 kv3` <sup>[泰兴]</sup> 喻出现了问题要消灭在萌芽状态，否则将会造成很大的漏洞，以至难以弥补。  
 1. 【[小腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_tuei.md#小腿)】`xio3 tuei3` <sup>[如东]</sup> 从膝盖到踝骨的一段，称小腿。  
 1. 【[小腿肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_tuei_dv_zz.md#小腿肚子)】`xio3 tuei3 dv3 zz` <sup>[兴化]</sup> 小腿胫骨后由腓肠肌形成的隆起部分。  
 1. 【[小腿肚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ty_dv_r.md#小腿肚<sub>儿</sub>)】`xio3 ty3 dv3 r` <sup>[如皋]</sup> 小腿里侧。  

@@ -1814,6 +1814,7 @@
 1. 【[垛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_zz.md#垛子)】`tu6 zz` <sup>[兴化]</sup> 河湖中的大土墩。  
 1. 【[大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#大)】`tu6` <sup>[东台]</sup> ～小（大儿子）｜～爹（大爷）｜～婆娘（排行老大的女人）｜～拇指头（大拇指）。  
 1. 【[大板床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_baen_chuan.md#大板床)】`tu6 baen3 chuan2` <sup>[如皋]</sup> 见“牛栏床”。  
+1. 【[大家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_jia.md#大家)】`tu6 jia1` <sup>[泰兴]</sup> 元配夫人。  
 1. 【[大人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_ren.md#大人)】`tu6 ren` <sup>[泰兴]</sup> 长辈  
 1. 【[大小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_xio.md#大小)】`tu6 xio3` ① <sup>\[兴化\]</sup>老大、大儿子：我家～在南京工作。《集韵·过韵》他佐切<sup>\[兴化\]</sup>｜大也。<sup>\[兴化\]</sup> ② <sup>\[泰县\]</sup>长子。  
 1. 【[惰懒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_laen.md#惰懒)】`tu6 laen3` <sup>[如皋]</sup> 偷懒、懒惰。  

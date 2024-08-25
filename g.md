@@ -135,6 +135,7 @@
 1. 【[解手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_sheu.md#解手)】`gae3 sheu3` ① <sup>\[如东\]</sup>小便。 ② <sup>\[东台\]</sup>指大小便。  
 1. 【[解套](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_to.md#解套)】`gae3 to5` <sup>[如皋]</sup> 破解圈套，脱离困苦。  
 1. 【[解怀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_vae.md#解怀)】`gae3 vae2` ① <sup>\[如皋\]</sup>解开胸怀以哺乳。指生第一胎：她十八岁～；哪个女的不曾解过怀。<sup>\[如皋\]</sup> ② <sup>\[东台\]</sup>女子第一次怀孕、生育。  
+1. 【[解小手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_xio_sheu.md#解小手)】`gae3 xio3 sheu3` <sup>[泰兴]</sup> 小便。  
 1. 【[解着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_zhah.md#解着)】`gae3 zhah7` ① <sup>\[兴化\]</sup>化解难题的方法，多用在弈棋、武功招数等方面：他玩的杀着，～不多。<sup>\[兴化\]</sup>｜你不要以为你这一棍子厉害，没有～，哈哈，我还有一手哩。（《武松》十）<sup>\[兴化\]</sup> ② <sup>\[东台\]</sup>用神法消灾的迷信术语。（原文作“改作”）  
 1. 【[戒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae.md#戒)】`gae5` <sup>[东台]</sup> 革除某种不良嗜好。  
 1. 【[戒方](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_fan.md#戒方)】`gae5 fan1` <sup>[兴化]</sup> ① 旧时塾师对学童实施体罚用的小木方。 ② 用于镇纸的小木方。  

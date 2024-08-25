@@ -1602,7 +1602,8 @@
 1. 【[拽材](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih_cae.md#拽材)】`ih8 cae2` <sup>[如皋]</sup> 出殡时，孝子、孝孙在棺材前结白布牵引。  
 1. 【[页子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih_zz.md#页子)】`ih8 zz` <sup>[兴化]</sup> 钞票的隐语：好东好西我全想要，可惜手上没～。  
 1. 【[咦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ii.md#咦)】`ii2` <sup>[如东]</sup> 表示疑问惊讶的词。  
-1. 【[咽喉屌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_heu_dio_r.md#咽喉屌<sub>儿</sub>)】`in1 heu2 dio3 r` ① <sup>\[如皋\]</sup>悬雍垂。 ② <sup>\[东台\]</sup>就是小舌头，学名叫悬雍垂：我这两天受啊凉，怕的～忑下来了，噎唾沫总疼。<sup>\[东台\]</sup> ③ <sup>\[兴化\]</sup>小舌，即悬雍垂。  
+1. 【[咽喉屌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_heu_dio_zz.md#咽喉屌子)】`in1 heu dio3 zz` <sup>[泰兴]</sup> 小舌，悬雍垂。  
+1. 【[咽喉屌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_heu_dio_r.md#咽喉屌<sub>儿</sub>)】`in1 heu2 dio3 r` <sup>\[如皋\]\[东台\]\[兴化\]</sup>小舌，悬雍垂：我这两天受啊凉，怕的～忑下来了，噎唾沫总疼。<sup>\[东台\]</sup>  
 1. 【[咽喉屌<sub>儿</sub>忑下来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_heu_dio_r.md#咽喉屌<sub>儿</sub>忑下来啊)】`in1 heu2 dio3 r teh7 ha lae2 a` <sup>[如皋]</sup> 悬雍垂发炎肿大。  
 1. 【[烟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in.md#烟)】`in1` <sup>[如皋]</sup> ① 水的雾气：笼锅的～足。 ② 汗气：他把帽子褪掉，头上只将冒～。 ③ 气管中的热气蒸腾：他说话说得喉咙起～。  
 1. 【[烟草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_co.md#烟草)】`in1 co3` <sup>[如东]</sup> 茄科植物烟草，一年生草本。高约2米。茎直立，粗壮，基部木质化。叶互生，甚大，椭圆状披针形。圆锥花序或总状花序顶生。花冠漏斗形，粉红色。蒴果卵圆形。种子细小，黄褐色。田间种植。叶是制造烟丝的原料。伤。  
