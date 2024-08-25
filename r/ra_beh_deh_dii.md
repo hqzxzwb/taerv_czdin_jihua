@@ -1,4 +1,4 @@
 # 惹不得的野胡蜂
-ra3 beh7 deh7 dii ia3 hv2 fon1
+ra3 beh7 deh7 dii ia3 v2 fon1
 > 东台方言词典
 - 喻指那些不能得罪的蛮不讲理且凶狠的人物。
