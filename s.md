@@ -2871,7 +2871,7 @@
 1. 【[酸话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_hua.md#酸话)】`sun1 hua6` ① <sup>\[如皋\]</sup>反语、挑剔、讥讽、挖苦的话。 ② <sup>\[如东\]</sup>挑拨离间的语言：他说的都是～，不要相信。<sup>\[如东\]</sup> ③ <sup>\[兴化\]</sup>带有妒意或懊丧心情的话：他见到别人上去啊，说咖好多～。 ④ <sup>\[泰县\]</sup>挑拨是非的话。  
 1. 【[酸叽叽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_ji_ji.md#酸叽叽)】`sun1 ji1 ji1` <sup>[兴化]</sup> ① 酸的味道或气味：山楂果子～的。 ② 嫉妒心作祟：他看到别人的文章发表，心里～的。  
 1. 【[酸叽叽的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_ji_ji_dii.md#酸叽叽的)】`sun1 ji1 ji1 dii` <sup>[如皋]</sup> 酸酸的。  
-1. 【[酸齑菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_ji_cae.md#酸齑菜)】`sun1 ji1 cae5` ① <sup>\[东台\]</sup>小青菜秧子经过发酵，变酸的酸菜。有潮、干两种，潮的可以烧羊肉，或拌作料当小菜；干的宜和粉丝、豆瓣烧汤。 ② <sup>\[兴化\]</sup>（喻）形容人吝啬：他是个～，一个小钱啬不出来。  
+1. 【[酸齑菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_ji_cae.md#酸齑菜)】`sun1 ji1 cae5` ① <sup>\[东台\]</sup>小青菜秧子经过发酵，变酸的酸菜。有潮、干两种，潮的可以烧羊肉，或拌作料当小菜；干的宜和粉丝、豆瓣烧汤。 ② <sup>\[兴化\]</sup>（喻）形容人吝啬：他是个～，一个小钱啬不出来。<sup>\[兴化\]</sup>  
 1. 【[酸浆味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_jian_vei.md#酸浆味)】`sun1 jian vei6` <sup>[兴化]</sup> 泔水、潮的芡粉等散发出的酸味：潮坨粉一股～。  
 1. 【[酸浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_jian.md#酸浆)】`sun1 jian1` <sup>[如东]</sup> 茄科植物酸浆，又名挂金灯，多年生草本。高约100厘米。茎直立，不分枝，略扭曲，表面具棱角。叶卵形，边缘具稀疏不规则的缺刻。花单生于叶腋，白色，花冠钟形。浆果圆球形，成熟时呈橙红色。种子多数，细小。生长在田间或路边草丛中。  
 1. 【[酸浆草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_jian_co.md#酸浆草)】`sun1 jian1 co3` <sup>[如皋]</sup> 酢浆草。  

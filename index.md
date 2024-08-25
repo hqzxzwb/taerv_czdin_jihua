@@ -228,8 +228,7 @@
 [更多...](./i.md)
 ## J
 1. 【[……加几](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ji.md#……加几)】`jia1 ji` <sup>[东台]</sup> 形容程度深，通常用在形容词后作补语：他俫的关系好得～呢！（这里“几”读轻声）  
-1. 【[䤒菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_cae.md#䤒菜)】`ji1 cae5` <sup>[兴化]</sup> 小青菜用热水烫后发酵，色青黄，味微酸，可用米烧汤：～散花驼子（肉圆）。  
-1. 【[䤒花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_hua.md#䤒花)】`ji1 hua1` ① <sup>\[如东\]</sup>酒、酱油等溶液表面生长的一种白色霉菌。 ② <sup>\[如皋\]</sup>白醭。酱、醋、黄酒等表面的白膜。 ③ <sup>\[兴化\]</sup>在酱油或咸菜卤表面生成的霉点。 ④ <sup>\[泰县\]</sup>酱油等生霉浮在上面的白色霉菌。  
+1. 【[䤒花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_hua.md#䤒花)】`ji1 hua1` <sup>\[如东\]\[如皋\]\[兴化\]\[泰县\]</sup>白醭，酒、酱油、醋、咸菜卤等溶液表面生长的一种白色霉菌。  
 1. 【[乩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#乩)】`ji1` <sup>[东台]</sup> 一种迷信方法。由二人扶一丁字形的木架竖在沙盘上，所谓神降临时会执木架画字，为人决疑治病，预示吉凶。  
 1. 【[几几乎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ji_hv.md#几几乎)】`ji1 ji1 hv1` <sup>[如皋]</sup> 只差一点点：他～捱汽车轧咖。又作“差点儿”、“实险儿”。  
 1. 【[刏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#刏)】`ji1` ① <sup>\[兴化\]</sup>断物。《广韵·微韵》居依切：“～，断切也……”：～萝卜缨子；～草绳。<sup>\[兴化\]</sup> ② <sup>\[泰州\]</sup>用手将东西扭断或者拉断（*刉）：你把萝卜缨儿～啊来腌咸菜。<sup>\[泰州\]</sup>｜你这个面擀得太长吖唻，把它～成两段，才好扠唻。<sup>\[泰州\]</sup>  
@@ -250,6 +249,7 @@
 1. 【[叽瘦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_sheu.md#叽瘦)】`ji1 sheu5` <sup>[如皋]</sup> 很瘦弱：这个猪子～。  
 1. 【[叽䴛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_so.md#叽䴛)】`ji1 so5` <sup>[如皋]</sup> 很咸：盐～。  
 1. 【[叽酸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_sun.md#叽酸)】`ji1 sun1` <sup>[如皋]</sup> 味很酸：生杏子，～。  
+1. 【[叽哇烦叫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_va_faen_jio.md#叽哇烦叫)】`ji1 va1 faen2 jio5` <sup>[如东]</sup> 大声吵闹：这些伢儿～的，不得安神。  
 [更多...](./j.md)
 ## K
 1. 【[抲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka.md#抲)】`ka1` ① <sup>\[如东\]</sup>把东西往里塞：把馒头朝嘴里～。<sup>\[如东\]</sup> ② <sup>\[如皋\]</sup>揣、塞：把钱～啊袋儿里。<sup>\[如皋\]</sup> ③ <sup>\[东台\]</sup>放进：把钱～啊袋里。<sup>\[东台\]</sup> ④ <sup>\[东台\]</sup>做事偷偷摸摸的：鬼～鬼～的。<sup>\[东台\]</sup> ⑤ <sup>\[兴化\]</sup>嵌：桌子缝里～灰。<sup>\[兴化\]</sup> ⑥ <sup>\[兴化\]</sup>硬塞：吃不下去硬～。<sup>\[兴化\]</sup> ⑦ <sup>\[泰县\]</sup>抓：把药～住阿。（《集韵》平声麻韵丘加切：“扼也，或作揢㧎”。） ⑧ <sup>\[泰县\]</sup>放、塞：街上卖的鸡子食都～得满满的。 ⑨ <sup>\[泰州\]</sup>强行塞进：他吃不下去就不要硬～他唻。<sup>\[泰州\]</sup>｜你多～点ㄦ馅心，包子才好吃。<sup>\[泰州\]</sup> ⑩ <sup>\[泰州\]</sup>把钱物强行塞给别人：临走的时候，老李又～啊两包烟把他。<sup>\[泰州\]</sup> ⑪ <sup>\[泰州\]</sup>强行安插人员：编制已经满吖，上头又～啊两个人进来啊。<sup>\[泰州\]</sup>  

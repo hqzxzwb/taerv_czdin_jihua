@@ -2,8 +2,7 @@
 **[A](./a.md) | [B](./b.md) | [C](./c.md) | [D](./d.md) | [E](./e.md) | [F](./f.md) | [G](./g.md) | [H](./h.md) | [I](./i.md) | [J](./j.md) | [K](./k.md) | [L](./l.md) | [M](./m.md) | [N](./n.md) | [O](./o.md) | [P](./p.md) | [Q](./q.md) | [R](./r.md) | [S](./s.md) | [T](./t.md) | [U](./u.md) | [V](./v.md) | [X](./x.md) | [Y](./y.md) | [Z](./z.md)**  
 ## J
 1. 【[……加几](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ji.md#……加几)】`jia1 ji` <sup>[东台]</sup> 形容程度深，通常用在形容词后作补语：他俫的关系好得～呢！（这里“几”读轻声）  
-1. 【[䤒菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_cae.md#䤒菜)】`ji1 cae5` <sup>[兴化]</sup> 小青菜用热水烫后发酵，色青黄，味微酸，可用米烧汤：～散花驼子（肉圆）。  
-1. 【[䤒花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_hua.md#䤒花)】`ji1 hua1` ① <sup>\[如东\]</sup>酒、酱油等溶液表面生长的一种白色霉菌。 ② <sup>\[如皋\]</sup>白醭。酱、醋、黄酒等表面的白膜。 ③ <sup>\[兴化\]</sup>在酱油或咸菜卤表面生成的霉点。 ④ <sup>\[泰县\]</sup>酱油等生霉浮在上面的白色霉菌。  
+1. 【[䤒花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_hua.md#䤒花)】`ji1 hua1` <sup>\[如东\]\[如皋\]\[兴化\]\[泰县\]</sup>白醭，酒、酱油、醋、咸菜卤等溶液表面生长的一种白色霉菌。  
 1. 【[乩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#乩)】`ji1` <sup>[东台]</sup> 一种迷信方法。由二人扶一丁字形的木架竖在沙盘上，所谓神降临时会执木架画字，为人决疑治病，预示吉凶。  
 1. 【[几几乎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ji_hv.md#几几乎)】`ji1 ji1 hv1` <sup>[如皋]</sup> 只差一点点：他～捱汽车轧咖。又作“差点儿”、“实险儿”。  
 1. 【[刏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#刏)】`ji1` ① <sup>\[兴化\]</sup>断物。《广韵·微韵》居依切：“～，断切也……”：～萝卜缨子；～草绳。<sup>\[兴化\]</sup> ② <sup>\[泰州\]</sup>用手将东西扭断或者拉断（*刉）：你把萝卜缨儿～啊来腌咸菜。<sup>\[泰州\]</sup>｜你这个面擀得太长吖唻，把它～成两段，才好扠唻。<sup>\[泰州\]</sup>  
@@ -106,6 +105,7 @@
 1. 【[鸡子翅膀只躴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zz_zhr_ban_zheh_lan.md#鸡子翅膀只躴)】`ji1 zz zhr5 ban zheh7 lan2` <sup>[如皋]</sup> 表天气炎热或闷热。  
 1. 【[麂毛草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_mo_co.md#麂毛草)】`ji1 mo2 co3` <sup>[如东]</sup> 草本植物，丛生，叶细长，似猪毛。  
 1. 【[齑菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_cae.md#齑菜)】`ji1 cae5` <sup>[东台]</sup> 见“酸齑菜”。“齑”古籍用“虀”，现也用“𪊆”。  
+1. 【[齑菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_cae.md#齑菜)】`ji1 cae5` <sup>[兴化]</sup> 小青菜用热水烫后发酵，色青黄，味微酸，可用米烧汤：～散花驼子（肉圆）。  
 1. 【[齑糟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zo.md#齑糟)】`ji1 zo` <sup>[泰兴]</sup> 焦虑，心神不宁  
 1. 【[𨳻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#𨳻)】`ji1` ① 门臼。 ② 拧着转  
 1. 【[几](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#几)】`ji3` <sup>[如皋]</sup> 条几、香几等的通称。  
