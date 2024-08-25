@@ -1,5 +1,5 @@
 # 纳函子
-naeh8 kaen1 zz
+naeh8 kaen2 zz
 > 如皋方言词典
 - 詈语，咒小孩早死。
 
