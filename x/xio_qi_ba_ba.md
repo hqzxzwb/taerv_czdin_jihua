@@ -8,3 +8,8 @@ xio3 qi ba1 ba
 xio3 qi5 ba1 ba1
 > 泰县方言志
 - 吝啬。
+
+# 小气巴巴
+xio3 qi5 ba1 ba1
+> 泰兴方言辞典
+- 小气，吝啬貌。
