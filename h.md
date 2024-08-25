@@ -1410,6 +1410,7 @@
 1. 【[搳嘴巴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_jy_ba_r.md#搳嘴巴<sub>儿</sub>)】`huaeh7 jy3 ba1 r` <sup>[如皋]</sup> 打耳光。  
 1. 【[搳泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_ni.md#搳泥)】`huaeh7 ni2` <sup>[如皋]</sup> 用锨之类将泥抓起：他在船上用搳锹～，把罱的河泥搳到半坎子上。  
 1. 【[搳巧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_qio.md#搳巧)】`huaeh7 qio3` <sup>[如皋]</sup> 说话取巧以捉弄别人、讨便宜：你家婆婆的外孙女儿把啊我家舅舅的外甥（你是我的老婆）。  
+1. 【[搳巧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_qio.md#搳巧)】`huaeh7 qio3` <sup>[兴化]</sup> 耍弄小巧，占便宜：他喜欢～，最好离他远一点。  
 1. 【[搳拳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_qiun.md#搳拳)】`huaeh7 qiun2` ① <sup>\[如皋\]</sup>划拳。 ② <sup>\[东台\]</sup>饮酒时双方同时伸出手指说一个数，谁说的数目跟双方所伸手指的总数相符，就算谁赢。输者喝酒。又作“划拳”。  
 1. 【[搳手膀子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_sheu_ban_zz.md#搳手膀子)】`huaeh7 sheu3 ban3 zz` <sup>[如皋]</sup> 甩手膀子。  
 1. 【[搳水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_shuei.md#搳水)】`huaeh7 shuei3` <sup>[如皋]</sup> ① 把积水掀排掉。 ② 使力甩去水。 ③ 用离心力脱水。  
@@ -1422,18 +1423,14 @@
 1. 【[豁虎跳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_hv_tio.md#豁虎跳)】`huaeh7 hv3 tio5` <sup>[如皋]</sup> 侧空翻、前空翻。  
 1. 【[豁口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_keu.md#豁口)】`huaeh7 keu3` <sup>[如东]</sup> 很大的一个口子。  
 1. 【[豁口狼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_keu_lan.md#豁口狼)】`huaeh7 keu3 lan2` <sup>[如东]</sup> 张开一个大口子：堤岸上出现一个～。  
-1. 【[豁筢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_pa_r.md#豁筢<sub>儿</sub>)】`huaeh7 pa2 r` <sup>[如皋]</sup> 见“豁筢齿”。  
-1. 【[豁䶕齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_pah_chr.md#豁䶕齿)】`huaeh7 pah7 chr3` <sup>[如皋]</sup> 缺门齿的样子。  
-1. 【[豁泡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_po_r.md#豁泡<sub>儿</sub>)】`huaeh7 po1 r` <sup>[如东]</sup> 皮肤上鼓起水泡儿。  
 1. 【[豁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_zz.md#豁子)】`huaeh7 zz` ① <sup>\[如东\]</sup>口子：河堤上冲吖个～。<sup>\[如东\]</sup> ② <sup>\[兴化\]\[如东\]\[东台\]</sup>（喻）事务中的枝节、纰漏、问题：出～。<sup>\[兴化\]</sup>｜出咖大～。<sup>\[如东\]</sup>｜他手伸得太长，明吖忑个～不得小。<sup>\[东台\]</sup>  
 1. 【[𧽌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh.md#𧽌)】`huaeh7` ① <sup>\[东台\]</sup>越过：这哿水沟，他一～就过去啊。<sup>\[东台\]</sup> ② <sup>\[兴化\]</sup>跳越：小沟头子他一～就过去啊。<sup>\[兴化\]</sup> ③ <sup>\[兴化\]</sup>越级：从三年级～到五年级（～级）。<sup>\[兴化\]</sup> ④ <sup>\[泰县\]</sup>跳跃、超越而过：～过一条沟。<sup>\[泰县\]</sup> ⑤ <sup>\[泰兴\]</sup>跳跃越过 ⑥ <sup>\[泰兴\]</sup>言行程远：老远的～得来，就为买个烧饼<sup>\[泰兴\]</sup> ⑦ <sup>\[泰州\]</sup>奔跑过程汇总跨越一定宽度或者一定高度的障碍：就这点ㄦ高，一～就过去啊唻。<sup>\[泰州\]</sup>｜他一口气连～三个缺口。<sup>\[泰州\]</sup> ⑧ <sup>\[泰州\]</sup>趁人不注意时悄悄走脱：刚才还望见他的，不晓得他这一刻ㄦ～咖哪块去啊。<sup>\[泰州\]</sup> ⑨ <sup>\[泰州\]</sup>漏网，贬义：五个人去打架的，派出所捉咖四个，只有他个人～过去啊。<sup>\[泰州\]</sup>  
 1. 【[𧽌沟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_geu.md#𧽌沟)】`huaeh7 geu1` <sup>[如皋]</sup> 跳过河去。  
-1. 【[𧽌连叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_lin_cha.md#𧽌连叉)】`huaeh7 lin2 cha1` ① <sup>\[东台\]</sup>双手点地，侧身腾跃。 ② <sup>\[兴化\]</sup>两手交替着地连续侧身翻，豁虎跳。儿歌：猫子不在家，老鼠～。<sup>\[兴化\]</sup> ③ <sup>\[泰县\]</sup>侧身翻，豁虎跳。  
+1. 【[𧽌连叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_lin_cha.md#𧽌连叉)】`huaeh7 lin2 cha1` <sup>\[兴化\]\[东台\]\[泰县\]</sup>两手交替着地连续侧身翻，豁虎跳：儿歌：猫子不在家，老鼠～。<sup>\[兴化\]</sup>  
 1. 【[𧽌墙头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_qian_teu.md#𧽌墙头)】`huaeh7 qian2 teu2` <sup>[如皋]</sup> 从墙上越过。  
 1. 【[𧽌三墓头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_saen_mu_teu.md#𧽌三墓头)】`huaeh7 saen1 mu6 teu2` <sup>[东台]</sup> 本义是从别人三代祖宗的坟头上跨过。［喻］侮辱别人，或越过某种程序瞒着别人干事：这件事应该让我来办，你怎吖背啊我签合同，𧽌我三墓头？  
 1. 【[𧽌身冒头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_shen_mo_teu.md#𧽌身冒头)】`huaeh7 shen1 mo6 teu2` <sup>[如皋]</sup> ① 从别人头上跨过，以示欺负。 ② 越级、越权：他直接找市长，对本单位领导是～。  
 1. 【[𧽌臊马头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_so_ma_teu.md#𧽌臊马头)】`huaeh7 so1 ma teu2` <sup>[兴化]</sup> ① 一条腿从人头顶划过的侮辱性动作。 ② （借）瞒着同伙捞好处：既然合伙，就不派𧽌别人臊马头。  
-1. 【[搳巧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_qio.md#搳巧)】`huaeh8 qio3` <sup>[兴化]</sup> 耍弄小巧，占便宜：他喜欢～，最好离他远一点。  
 1. 【[滑边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_bin.md#滑边)】`huaeh8 bin1` <sup>[兴化]</sup> ① 脱节：银行这头～，资金不曾能按时到位。 ② 未达预期目的：那件事又～吖。  
 1. 【[滑边眼睛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_bin_ngaen_jien.md#滑边眼睛)】`huaeh8 bin1 ngaen3 jien` <sup>[兴化]</sup> 俗指单眼皮。  
 1. 【[滑车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_cha.md#滑车)】`huaeh8 cha1` <sup>[如东]</sup> 一种简单的起吊机械，木制或铁制，椭圆形，中间有槽，槽中有滑轮，穿进绳索或练条，可以起吊重物。也叫葫芦。  
@@ -1441,7 +1438,7 @@
 1. 【[滑滴滴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_dieh_dieh.md#滑滴滴)】`huaeh8 dieh7 dieh7` ① <sup>\[如东\]</sup>非常光滑：小明的手～的。<sup>\[如东\]</sup> ② <sup>\[兴化\]</sup>“滑滴”的生动形式：（赵大妈）不论什么时候，头都是梳得～的……（汪曾祺《受戒》）<sup>\[兴化\]</sup> ③ <sup>\[兴化\]</sup>齐备、完好：酒筵准备得～的。<sup>\[兴化\]</sup>｜车子修得～的。也说“滑滑滴滴”。<sup>\[兴化\]</sup>  
 1. 【[滑叽滑𨂞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_ji_huaeh_taen.md#滑叽滑𨂞)】`huaeh8 ji huaeh8 taen5` <sup>[兴化]</sup> 滑溜：地上结咖冰，～的。｜走啊青苔上～的。  
 1. 【[滑叽骨笃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_ji_gueh_doh.md#滑叽骨笃)】`huaeh8 ji1 gueh7 doh7` <sup>[东台]</sup> 形容很滑。也作“滑叽骨董”：雨后烂泥路～的。  
-1. 【[滑稽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_ji.md#滑稽)】`huaeh8 ji1` ① <sup>\[如东\]</sup>憨态可笑的样子。 ② <sup>\[如东\]</sup>耍小聪明：他在下耍～。<sup>\[如东\]</sup> ③ <sup>\[东台\]</sup>言行、神态引人发笑。  
+1. 【[滑稽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_ji.md#滑稽)】`huaeh8 ji1` ① <sup>\[如东\]\[东台\]</sup>憨态可笑的样子。 ② <sup>\[如东\]</sup>耍小聪明：他在下耍～。<sup>\[如东\]</sup>  
 1. 【[滑稽佬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_ji_lo.md#滑稽佬)】`huaeh8 ji1 lo3` <sup>[东台]</sup> 装饰、化妆及言谈举止逗人发笑的人。  
 1. 【[滑稽帽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_ji_mo_zz.md#滑稽帽子)】`huaeh8 ji1 mo6 zz` <sup>[如皋]</sup> 像马戏团的小丑儿戴的一种针织便帽。有尖顶和荡动的帽顶小球。旧时男性居家休闲时常戴。  
 1. 【[滑进滑东的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_jien_huaeh_don_dii.md#滑进滑东的)】`huaeh8 jien5 huaeh8 don1 dii` <sup>[如皋]</sup> 很黏滑，难以控制。  
@@ -1494,7 +1491,7 @@
 1. 【[患疾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_qieh.md#患疾)】`huaen6 qieh8` <sup>[如皋]</sup> 遗留下来的顽疾：她耳头跳啊疼，不曾治好，是个～，经常发。  
 1. 【[㸌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huah.md#㸌)】`huah7` <sup>[东台]</sup> 灼伤：工人在高温下作业，身上～咖好些泡｜开水把他手上烫了个～泡。  
 1. 【[㸌泡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huah_po.md#㸌泡)】`huah7 po1` <sup>[兴化]</sup> 皮肤因受凉或被水烫而起水泡：他重受寒凉，嘴唇上吖～。  
-1. 【[㸌泡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huah_po_r.md#㸌泡<sub>儿</sub>)】`huah7 po1 r` ① <sup>\[如皋\]</sup>烫、烤后后的水泡儿。 ② <sup>\[东台\]</sup>皮肤受烫或受磨起的水泡。 ③ <sup>\[泰县\]</sup>皮肤上隆起的水泡。  
+1. 【[㸌泡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huah_po_r.md#㸌泡<sub>儿</sub>)】`huah7 po1 r` <sup>\[如皋\]\[东台\]\[泰县\]\[如东\]</sup>皮肤隆起水泡，常因烫、磨等原因  
 1. 【[劐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huah.md#劐)】`huah7` <sup>[如东]</sup> 用刀尖插入物体后顺势挑开一道口子。  
 1. 【[攉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huah.md#攉)】`huah7` ① <sup>\[如东\]</sup>用反手打：～他几个耳刮子。<sup>\[如东\]</sup> ② <sup>\[如皋\]</sup>挥霍：这点儿钱经不起他～，一刻儿工夫就～咖光吖。 ③ <sup>\[如皋\]</sup>大晃：大风吹得树只～，树头一根一根的～咖断吖。 ④ <sup>\[东台\]</sup>覆手。《古今韵会举要·十药》“手反覆也；摇手为挥，反手为攉”：他再烦，～他几个巴掌。<sup>\[东台\]</sup> ⑤ <sup>\[兴化\]</sup>打：～他个嘴巴子。《集韵·铎韵》忽郭切“～，手反覆也。”<sup>\[兴化\]</sup> ⑥ <sup>\[泰县\]</sup>拍打：小兵不所话，他爸爸就～他。 ⑦ <sup>\[泰州\]</sup>翻动手掌快速猛击：～咖几个大嘴巴子。<sup>\[泰州\]</sup>｜晚上家去捱家里老子～屁股。<sup>\[泰州\]</sup>  
 1. 【[攉鞭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huah_bin_zz.md#攉鞭子)】`huah7 bin1 zz` <sup>[如东]</sup> ① 用手使劲甩鞭子，使鞭梢发出响声。 ② 一种纸牌游戏活动。  
@@ -1945,9 +1942,11 @@
 1. 【[豁里弯齿的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_lii_vaen_chr_dii.md#豁里弯齿的)】`huh7 lii vaen1 chr3 dii` <sup>[东台]</sup> 形容很不整齐，非常难看。  
 1. 【[豁牙𢴬齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_nga_baen_chr.md#豁牙𢴬齿)】`huh7 nga2 baen5 chr3` <sup>[兴化]</sup> ① 形容口中缺齿且排列不整。 ② （借）形容器物、墙壁等破损不堪：这堵墙～的，人一爬就过去啊。  
 1. 【[豁牙落齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_nga_lah_chr.md#豁牙落齿)】`huh7 nga2 lah8 chr3` <sup>[如东]</sup> ① 牙齿落了很多。 ② 不整齐：把个布剪吖～。  
+1. 【[豁䶕齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_pa_chr.md#豁䶕齿)】`huh7 pa-pah7 chr3` <sup>[如皋]</sup> 缺门齿的样子。  
 1. 【[豁筢齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_pa_chr.md#豁筢齿)】`huh7 pa chr3` <sup>[东台]</sup> 门牙残缺，或指幼童乳牙掉落，恒牙未长全。  
 1. 【[豁筢齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_pa_chr.md#豁筢齿)】`huh7 pa-pah chr3` <sup>[如东]</sup> 门牙掉了一颗或几颗，叫豁䶕齿。  
 1. 【[豁筢齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_pa_chr.md#豁筢齿)】`huh7 pa2 chr3` <sup>[泰县]</sup> 牙齿不全。  
+1. 【[豁筢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_pa_r.md#豁筢<sub>儿</sub>)】`huh7 pa2 r` <sup>[如皋]</sup> 见“豁筢齿”。  
 1. 【[豁嘴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_zuei_zz.md#豁嘴子)】`huh7 zuei3 zz` <sup>[兴化]</sup> 兔唇。  
 1. 【[豁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_zz.md#豁子)】`huh7 zz` ① <sup>\[东台\]\[如东\]\[兴化\]</sup>缺口：碗高头斗啊个～。（另见“豁子huaeh7 zz”）<sup>\[东台\]</sup>｜城墙上有个～。<sup>\[兴化\]</sup>｜圩上有个～。<sup>\[兴化\]</sup> ② <sup>\[如东\]\[兴化\]</sup>嘴唇有豁口者，兔唇残疾者。\[兴化：也称“豁嘴子。”\]  
 1. 【[𧌄虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_chon.md#𧌄虫)】`huh7 chon2, uh7 chon2, hoh7 chon2` <sup>[如皋]</sup> 蚜虫。  
@@ -2238,7 +2237,7 @@
 1. 【[胡说八道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_shuh_baeh_to.md#胡说八道)】`hv2 shuh7 baeh7 to6` <sup>[如东]</sup> 没有根据地东扯西拉。  
 1. 【[胡思乱想](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_sz_lun_xian.md#胡思乱想)】`hv2 sz1 lun6 xian3` <sup>[如东]</sup> 没有根据地东猜西想。  
 1. 【[胡头大乱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_teu_da_lun.md#胡头大乱)】`hv2 teu2 da6 lun6` <sup>\[如东\]\[如皋\]</sup>非常混乱、荒唐：无人管理，～。<sup>\[如东\]</sup>  
-1. 【[胡头乱说](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_teu_lun_shuh.md#胡头乱说)】`hv2 teu2 lun6 shuh7` ① <sup>\[如东\]</sup>无根无据，语无伦次，瞎说一通。 ② <sup>\[如皋\]</sup>说荒唐话，语无伦次。  
+1. 【[胡头乱说](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_teu_lun_shuh.md#胡头乱说)】`hv2 teu2 lun6 shuh7` <sup>\[如东\]\[如皋\]</sup>说荒唐话，语无伦次。  
 1. 【[胡桃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_to.md#胡桃)】`hv2 to2` <sup>[如东]</sup> 胡桃科植物胡桃，又名核桃。  
 1. 【[胡作非为](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_zah_fei_vei.md#胡作非为)】`hv2 zah7 fei1 vei2` <sup>[如东]</sup> 不顾法律和道德，任意行动。  
 1. 【[胡桩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_zhuan_zz.md#胡桩子)】`hv2 zhuan1 zz` <sup>[兴化]</sup> 刚露出皮肤的胡茬儿。  
