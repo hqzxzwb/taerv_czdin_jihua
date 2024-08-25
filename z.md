@@ -2020,7 +2020,7 @@
 1. 【[尊驾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuen_jia.md#尊驾)】`zuen1 jia5` <sup>[如东]</sup> 尊敬的人。  
 1. 【[尊叫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuen_jio.md#尊叫)】`zuen1 jio5` <sup>[兴化]</sup> 称呼人，叫人，见“请叫”。  
 1. 【[尊嗓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuen_san.md#尊嗓)】`zuen1 san3` <sup>[如皋]</sup> 贬指某人嗓音难听。  
-1. 【[捘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuen.md#捘)】`zuen5` <sup>[如皋]</sup> 捻度：搓绳儿上～｜他搓的绳儿～大  
+1. 【[捘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuen.md#捘)】`zuen5` <sup>[如皋]</sup> 【借】【形声】捻度：搓绳儿上～｜他搓的绳儿～大  
 1. 【[撮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuh.md#撮)】`zuh7` ① <sup>\[如皋\]</sup>用筛子筛，使杂物浮于中心，称～。 ② <sup>\[如东\]</sup>用筛子筛，使杂物浮于中心，称撮。  
 1. 【[撮撮<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuh_zuh_r.md#撮撮<sub>儿</sub>)】`zuh7 zuh7 r` <sup>[如皋]</sup> 筛后浮于筛子中心的杂物。  
 1. 【[攥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuh.md#攥)】`zuh7` <sup>[如皋]</sup> 紧抱：他要跌，我一把～住啊他的腰。  

@@ -1526,7 +1526,7 @@
 1. 【[小钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qin.md#小钱)】`xio3 qin2` <sup>[兴化]</sup> ① 小面额的钱钞。 ② 也指少量的钱：说大话，用～。  
 1. 【[小钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qin.md#小钱)】`xio3 qin2` <sup>[泰兴]</sup> ① 旧时通用的小型铜质硬币，圆形，中有方孔 ② 少量的钱。乡人有“说大话，用小钱”语。  
 1. 【[小钱眼大，穷人胆大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qin_ngaen_da.md#小钱眼大，穷人胆大)】`xio3 qin2 ngaen3 da6 qion2 ren2 daen3 da6` <sup>[泰兴]</sup> 谓穷人为了生存，什么事都做得出来。多含贬义。  
-1. 【[小钱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qin_r.md#小钱<sub>儿</sub>)】`xio3 qin2 r` ① <sup>\[如东\]</sup>清朝的铜币。 ② <sup>\[如东\]</sup>赏钱：这是给你的几个～。<sup>\[如东\]</sup> ③ <sup>\[泰县\]\[如东\]</sup>少量钱：他说大话用～。<sup>\[泰县\]</sup>｜几个～。<sup>\[如东\]</sup>  
+1. 【[小钱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qin_r.md#小钱<sub>儿</sub>)】`xio3 qin2 r` ① <sup>\[如东\]</sup>清朝的铜币。 ② <sup>\[泰县\]\[如东\]</sup>少量钱：他说大话用～。<sup>\[泰县\]</sup>｜几个～。<sup>\[如东\]</sup>  
 1. 【[小乔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qio.md#小乔)】`xio3 qio2` <sup>[兴化]</sup> 谓有身份的人待人谦和、不摆架子：她家老公当个副市长，对家边邻居的倒蛮～的。  
 1. 【[小瞧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qio.md#小瞧)】`xio3 qio2` ① <sup>\[如皋\]</sup>小看。 ② <sup>\[兴化\]</sup>小看：你覅～人，他说不定有真本事。<sup>\[兴化\]</sup>  
 1. 【[小曲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qioh.md#小曲)】`xio3 qioh7` <sup>[兴化]</sup> ① 民歌、小唱。 ② 相对于京戏（大曲）的地方戏唱段。  

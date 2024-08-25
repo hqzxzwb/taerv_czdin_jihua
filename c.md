@@ -985,6 +985,7 @@
 1. 【[彻趟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih_tan.md#彻趟)】`chih7 tan5` <sup>[如东]</sup> 利索彻底：这个问题处理得～。  
 1. 【[慑惧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih_jy.md#慑惧)】`chih7 jy5` <sup>[如皋]</sup> 敬畏、害怕：他～你，见到你就躲。  
 1. 【[撤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih.md#撤)】`chih7` <sup>[兴化]</sup> ① 搬开：把堂屋里桌椅～掉。｜把桌上剩菜～掉。 ② 清除液体中沉淀物：～缸脚子｜～油脚子。  
+1. 【[撤撤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih_chih.md#撤撤)】`chih7 chih7` <sup>[泰兴]</sup> 簸箕  
 1. 【[撤撤<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih_chih_r.md#撤撤<sub>儿</sub>)】`chih7 chih7-3 r` <sup>[如皋]</sup> 较浅的一类𡊄箕。  
 1. 【[撤盘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih_pun_zz.md#撤盘子)】`chih7 pun2 zz` <sup>[如东]</sup> 把菜盘、菜碗从酒桌上拿走，表示酒席结束。  
 1. 【[撤跳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih_tio.md#撤跳)】`chih7 tio5` <sup>[兴化]</sup> 搬开搭在岸上的跳板：汽笛一响，水手连忙解缆，～开船。  
