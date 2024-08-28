@@ -1204,8 +1204,8 @@
 1. 【[铳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_zz.md#铳子)】`chon5 zz` <sup>[兴化]</sup> 一种打眼工具，形似铁钉，口圆有刃。下有凹槽对应。  
 1. 【[𣑁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon.md#𣑁)】`chon5` <sup>[东台]</sup> 桌子和板凳腿之间的橫档：桌～儿｜凳～儿。  
 1. 【[𣑁<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_r.md#𣑁<sub>儿</sub>)】`chon5 r` <sup>[如皋]</sup> 桌椅上像栏杆的小木料。  
-1. 【[𥅻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon.md#𥅻)】`chon5` ① <sup>\[如皋\]</sup>打瞌睡：他在打瞌～，头一～一～的。<sup>\[如皋\]</sup> ② <sup>\[兴化\]</sup>困极小睡：他一只手支啊头，在那块～，睡竖头觉。又作“𥅻盹”。<sup>\[兴化\]</sup>  
-1. 【[𥅻盹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_den.md#𥅻盹)】`chon5 den3` ① <sup>\[如皋\]</sup>瞌睡。 ② <sup>\[如皋\]</sup>见“瞌𥅻”。 ③ <sup>\[东台\]</sup>坐着打瞌睡，头上下颠动。 ④ <sup>\[东台\]</sup>眼睛无神，发呆。 ⑤ <sup>\[泰县\]</sup>打盹。  
+1. 【[𥅻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon.md#𥅻)】`chon5` ① <sup>\[如皋\]</sup>打瞌睡：他在打瞌～，头一～一～的。<sup>\[如皋\]</sup> ② <sup>\[兴化\]</sup>困极小睡\[兴化：又作“𥅻盹”。\]：他一只手支啊头，在那块～，睡竖头觉。<sup>\[兴化\]</sup>  
+1. 【[𥅻盹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_den.md#𥅻盹)】`chon5 den3` ① <sup>\[如皋\]</sup>瞌睡。另见“瞌𥅻”。 ② <sup>\[东台\]</sup>坐着打瞌睡，头上下颠动。 ③ <sup>\[东台\]</sup>眼睛无神，发呆。 ④ <sup>\[泰县\]</sup>打盹。  
 1. 【[𥅻盹<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_den_r.md#𥅻盹<sub>儿</sub>)】`chon5 den3 r` <sup>[如皋]</sup> 瞌睡。  
 1. 【[𥅻瞌睡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_kuh_shuei.md#𥅻瞌睡)】`chon5 kuh7 shuei` <sup>[如东]</sup> 疲劳过度而小睡片刻：他在凳儿上～。  
 1. 【[𥅻冚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_kun.md#𥅻冚)】`chon5 kun3` <sup>[泰县]</sup> 打盹。  

@@ -218,7 +218,7 @@
 1. 【[拜烛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_zhoh.md#拜烛)】`bae5 zhoh7` <sup>[东台]</sup> 旧时点天灯所用的小蜡蚀。  
 1. 【[拜烛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_zhoh_r.md#拜烛<sub>儿</sub>)】`bae5 zhoh7 r` <sup>[如皋]</sup> 拜神敬祖时用的小红烛。  
 1. 【[覅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae.md#覅)】`bae5` <sup>\[东台\]</sup>\[会意\]不要。加在动词之前，表示祈使别人不要做某事：有事情直说，～客气<sup>\[东台\]</sup>｜你～缠事。<sup>\[东台\]</sup>  
-1. 【[覅缠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_chin.md#覅缠)】`bae5 chin6` <sup>[东台]</sup> ① ［带责怪口气］ ② 不要搞错的意思。 ③ 不要磨蹭，耽误时间。  
+1. 【[覅缠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_chin.md#覅缠)】`bae5 chin6` <sup>[东台]</sup> ［带责怪口气］不要搞错；不要磨蹭，耽误时间。  
 1. 【[覅就它吧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_qieu_ta_ba.md#覅就它吧)】`bae5 qieu6 ta1 ba1` <sup>[东台]</sup> 讨厌、气愤时的口头禅，相当于“算了吧”：你还自我感觉良好，～！  
 1. 【[覅虚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_xy.md#覅虚)】`bae5 xy1` <sup>[东台]</sup> 不要过分惊慌：头疼？～！吃点儿药，马上好。  
 1. 【[八拜之交](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_bae_zhr_jio.md#八拜之交)】`baeh7 bae5 zhr1 jio1` <sup>[如东]</sup> 旧时异姓男子或女子结拜为兄弟或姐妹的关系，称八拜之交。  
@@ -258,7 +258,7 @@
 1. 【[八根系](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_gen_xi.md#八根系)】`baeh7 gen1 xi6` <sup>[兴化]</sup> 旧指搬运工人或挑担卖菜者：他老爹在旧社会是挑～的。  
 1. 【[八根系<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_gen_xi_r.md#八根系<sub>儿</sub>)】`baeh7 gen1 xi6 r` ① <sup>\[如东\]</sup>装鲜货的竹篮，每只四根系绳，一副竹篮共八根。比喻挑鲜货的小贩：～来啊。<sup>\[如东\]</sup> ② <sup>\[如皋\]</sup>一对箩框或一付货笿儿的绳系。引指货郎担子、箩脚行及挑运工。  
 1. 【[八国里去啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_goh_lii_qy_a.md#八国里去啊)】`baeh7 goh7 lii qy5 a` <sup>[如皋]</sup> 状漫无边际：吹牛吹啊～；说谎说咖～。  
-1. 【[八哥<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_gu_r.md#八哥<sub>儿</sub>)】`baeh7 gu2ᵗ r` <sup>\[泰兴\]\[如皋\]</sup>八哥。\[如皋：（如皋词典释义“乌鸫”，存疑）\]：乡人常称喋喋不休者“一天到夜～似的”。<sup>\[泰兴\]</sup>  
+1. 【[八哥<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_gu_r.md#八哥<sub>儿</sub>)】`baeh7 gu2 r` <sup>\[泰兴\]\[如皋\]</sup>八哥。\[如皋：（如皋词典释义“乌鸫”，存疑）\]：乡人常称喋喋不休者“一天到夜～似的”。<sup>\[泰兴\]</sup>  
 1. 【[八怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_guae.md#八怪)】`baeh7 guae5` ① <sup>\[如皋\]</sup>状奇特：丑～。 ② <sup>\[兴化\]</sup>旧时无固定经营场所，专事小额商品中介的业者：他过去当～，靠一张嘴、两条腿混饭吃。也称“辵辵儿行”。<sup>\[兴化\]</sup> ③ <sup>\[泰兴\]</sup>对调皮的小孩、不务正业、不修边幅者的贬称：箇个伢儿太调皮，一天到夜脏巴邋遢的，真是个丑～。<sup>\[泰兴\]</sup>  
 1. 【[八下里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_ha_lii.md#八下里)】`baeh7 ha6 lii` <sup>[如皋]</sup> 同“四里八下的”，表示面广：他现在不得了啦，～赅债，怎吖还得起呀！  
 1. 【[八音锣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_ien_lu.md#八音锣)】`baeh7 ien1 lu2` <sup>[如皋]</sup> 实际按在架子上的有十面小锣，八音，是指完整的一组音阶。  
@@ -396,7 +396,7 @@
 1. 【[剥铁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_tih.md#剥铁)】`bah7 tih7` <sup>[如皋]</sup> 铁器外层锈蚀后成片剥落。  
 1. 【[剥玉米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_y_mi.md#剥玉米)】`bah7 y6 mi` <sup>[如皋]</sup> 用手工将玉米棒头儿脱粒。  
 1. 【[剥子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_zz.md#剥子)】`bah7 zz` <sup>[泰县]</sup> （禁忌语）这个东西。  
-1. 【[煿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah.md#煿)】`bah7` ① （《集韵·铎韵》伯各切：“～，火乾也，一曰热也”。） ② <sup>\[如皋\]</sup>在锅中出焵黄斑：～豆腐。<sup>\[如皋\]</sup> ③ <sup>\[如皋\]</sup>干燥：晒得干～～的。<sup>\[如皋\]</sup> ④ <sup>\[东台\]</sup>将食物摊在锅里烤，剥离水分，发出毕毕剥剥的声音：～豆腐渣<sup>\[东台\]</sup>｜把沱粉放吖锅里～咖子。<sup>\[东台\]</sup> ⑤ <sup>\[兴化\]</sup>在锅中干烤：～团；～糍粑；～山芋<sup>\[兴化\]</sup> ⑥ <sup>\[泰州\]</sup>一种烹调方法，锅中放少量油煎烤：你把鱼先在锅里～咖子再放作料烧。<sup>\[泰州\]</sup>  
+1. 【[煿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah.md#煿)】`bah7` ① （《集韵·铎韵》伯各切：“～，火乾也，一曰热也”。） ② <sup>\[如皋\]</sup>在锅中焵出黄斑：～豆腐。<sup>\[如皋\]</sup> ③ <sup>\[东台\]</sup>将食物摊在锅里烤，剥离水分，发出毕毕剥剥的声音：～豆腐渣<sup>\[东台\]</sup>｜把沱粉放吖锅里～咖子。<sup>\[东台\]</sup> ④ <sup>\[兴化\]</sup>在锅中干烤：～团；～糍粑；～山芋<sup>\[兴化\]</sup> ⑤ <sup>\[泰州\]</sup>一种烹调方法，锅中放少量油煎烤：你把鱼先在锅里～咖子再放作料烧。<sup>\[泰州\]</sup>  
 1. 【[煿脆饼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_qy_bien_r.md#煿脆饼<sub>儿</sub>)】`bah7 qy5 bien3 r` <sup>[如皋]</sup> 上等脆饼，饼起多层，层薄如纸。谚云：丁堰的脆饼儿十八层，层层照见人。  
 1. 【[煿脆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_qy_r.md#煿脆<sub>儿</sub>)】`bah7 qy5 r` <sup>[泰县]</sup> 泰县特产的一种脆饼。  
 1. 【[驳/䃗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah.md#驳/䃗)】`bah7` <sup>\[如皋\]\[兴化\]\[泰州\]</sup>用砖石等加砌外层：～墙、～河岸子<sup>\[如皋\]</sup>｜圩外帮坍得不少，挖几船荒垡来～～。<sup>\[兴化\]</sup>｜河两边全部用石头～起来啊。<sup>\[泰州\]</sup>  
@@ -951,7 +951,7 @@
 1. 【[壁壁孔<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_bieh_kon_r.md#壁壁孔<sub>儿</sub>)】`bieh7 bieh7 kon3 r` <sup>[如皋]</sup> 偏僻的角落。  
 1. 【[壁塴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_bon_r.md#壁塴<sub>儿</sub>)】`bieh7 bon5 r` <sup>[如东]</sup> 偏僻的角落。  
 1. 【[壁橱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_chv.md#壁橱)】`bieh7 chv2` <sup>[如东]</sup> 设在墙壁上的橱。有碗橱和衣橱两种。  
-1. 【[壁陡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_deu.md#壁陡)】`bieh7 deu3` <sup>[如东]</sup> 非常陡峭：这许下岸～。  
+1. 【[壁陡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_deu.md#壁陡)】`bieh7 deu3` <sup>\[如东\]\[兴化\]</sup>非常陡峭：这许下岸～。<sup>\[如东\]</sup>｜“……拐弯那儿不是叫山洪冲了个豁子吗？～的……”（汪曾祺《羊舍一夕》）<sup>\[兴化\]</sup>｜新筑的大圩远望～成崖的。<sup>\[兴化\]</sup>  
 1. 【[壁陡成□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_deu_chen_caen.md#壁陡成□)】`bieh7 deu3 chen2 caen1` <sup>[如东]</sup> 陡峭险峻：山峰～的，你怎吖上去？  
 1. 【[壁陡的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_deu_dii.md#壁陡的)】`bieh7 deu3 dii` <sup>[如皋]</sup> 很陡峭。  
 1. 【[壁陡山墙的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_deu_shaen_qian_dii.md#壁陡山墙的)】`bieh7 deu3 shaen1 qian2 dii` <sup>[如皋]</sup> 很陡峭。  
@@ -981,7 +981,6 @@
 1. 【[碧清的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_qien_dii.md#碧清的)】`bieh7 qien1 dii` ① <sup>\[如皋\]</sup>见“清沰沰的”。 ② <sup>\[如皋\]</sup>很清澈。  
 1. 【[笔直](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_cheh.md#笔直)】`bieh7 cheh8` <sup>[如东]</sup> 线条非常直：这条路～。  
 1. 【[笔直的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_cheh_dii.md#笔直的)】`bieh7 cheh8 dii` <sup>[东台]</sup> 直立，一点也不弯曲。  
-1. 【[笔陡/壁陡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_deu.md#笔陡/壁陡)】`bieh7 deu3` <sup>[兴化]</sup> 形容陡峭：“……拐弯那儿不是叫山洪冲了个豁子吗？～的……”（汪曾祺《羊舍一夕》）｜新筑的大圩远望～成崖的。  
 1. 【[笔店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_din.md#笔店)】`bieh7 din5` <sup>[如皋]</sup> 旧时专门制售毛笔的店铺。  
 1. 【[笔光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_guan.md#笔光)】`bieh7 guan1` <sup>[泰县]</sup> 光滑、光亮：这个东西叉阿～的。  
 1. 【[笔杆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_gun_zz.md#笔杆子)】`bieh7 gun3 zz` ① <sup>\[如东\]</sup>笔的手握的部分。 ② <sup>\[如东\]</sup>比喻会写文章的人：他是一根～。<sup>\[如东\]</sup> ③ <sup>\[东台\]</sup>指笔。 ④ <sup>\[东台\]</sup>造舆论的工具。 ⑤ <sup>\[东台\]</sup>指善于写作的人。  

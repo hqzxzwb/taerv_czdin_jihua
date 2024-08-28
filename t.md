@@ -1092,7 +1092,7 @@
 1. 【[胅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih.md#胅)】`tih8` <sup>[如皋]</sup> 挺出：肚子～咖前头、挺胸～肚。  
 1. 【[胅胅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_tih.md#胅胅)】`tih8 tih8` <sup>[泰县]</sup> 突出：她的肚子～的，恐怕要生小伢儿啦。  
 1. 【[胅胸走](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_xion_zeu.md#胅胸走)】`tih8 xion1 zeu3` <sup>[如皋]</sup> 鸡胸畸型者走路时的体态。  
-1. 【[天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin.md#天)】`tin1` <sup>[泰县]</sup> 天气：～作咖变。  
+1. 【[天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin.md#天)】`tin1` <sup>\[泰县\]\[泰兴\]</sup>天气：今朝～怎吖说？今朝～不丑。<sup>\[泰兴\]</sup>  
 1. 【[天把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_ba.md#天把)】`tin1 ba` <sup>[如东]</sup> 约一天：来去～时间。  
 1. 【[天粑粑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_ba_ba.md#天粑粑)】`tin1 ba1 ba1` ① <sup>\[如皋\]</sup>见“亮粑粑”。 ② <sup>\[如皋\]</sup>月亮，儿语，视为天上的饼。 ③ <sup>\[如东\]</sup>月亮。  
 1. 【[天不借势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_beh_jia_shr.md#天不借势)】`tin1 beh7 jia5 shr5` <sup>[如皋]</sup> 好日子没好天。  
@@ -1108,6 +1108,7 @@
 1. 【[天灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_den.md#天灯)】`tin1 den1` <sup>[如皋]</sup> 灯节从正月十三到二月二，每天晚间，家家门前高杆上悬挂的红灯笼。  
 1. 【[天法](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_faeh.md#天法)】`tin1 faeh7` <sup>[东台]</sup> 尽最大努力想的最好办法：想～也要把你送出去留学。  
 1. 【[天放晴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_fan_qien.md#天放晴)】`tin1 fan5 qien2` <sup>[如东]</sup> 天气开始晴朗起来：下午天放吖晴。  
+1. 【[天分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_fen.md#天分)】`tin1 fen` <sup>[泰兴]</sup> 天资，天赋：箇个伢儿从小儿～好。  
 1. 【[天沟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_geu.md#天沟)】`tin1 geu1` <sup>[如东]</sup> 屋檐与屋檐连接处或屋檐与墙壁连接处的排水沟，称天沟。  
 1. 【[天狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_geu.md#天狗)】`tin1 geu3` <sup>[兴化]</sup> 神话传说中的动物，实为月蚀时的地球黑影：～吃凉月子。  
 1. 【[天高皇帝远](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_go_huan_di_iun.md#天高皇帝远)】`tin1 go1 huan2 di5 iun3` <sup>[东台]</sup> 地处偏僻，难以管到。  
@@ -1115,13 +1116,15 @@
 1. 【[天干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_gun.md#天干)】`tin1 gun1` <sup>[东台]</sup> 甲、乙、丙、丁、戊、己、庚、辛、壬、癸的总称，传统用作表示次序的符号。与“地支”相配，可表示农历纪年。  
 1. 【[天干难落雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_gun_naen_lah_y.md#天干难落雨)】`tin1 gun1 naen2 lah8 y3` <sup>[东台]</sup> 长时间干旱很难下雨，这里有求雨心切的心理因素。  
 1. 【[天好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_ho.md#天好)】`tin1 ho3` <sup>[如东]</sup> 天气晴朗：～，好晒稻谷。  
-1. 【[天河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hu.md#天河)】`tin1 hu2` ① <sup>\[如皋\]</sup>银河。 ② <sup>\[如东\]</sup>银河。  
-1. 【[天火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hu.md#天火)】`tin1 hu3` <sup>[如东]</sup> 由雷电击中而引起的大火。  
-1. 【[天花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hua.md#天花)】`tin1 hua1` <sup>[如东]</sup> 急性传染病，人和某些哺乳动物都能感染，病原体是一种病毒。症状是先发高烧，全身出红色的丘疹，变成疱疹，最后变成脓疱，中心凹陷，十天左右结痂，痂脱落后的疤痕就是麻子。种牛痘可以预防。  
+1. 【[天河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hu.md#天河)】`tin1 hu2` <sup>\[如皋\]\[如东\]</sup>银河。  
+1. 【[天火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hu.md#天火)】`tin1 hu3` <sup>\[如东\]\[泰兴\]</sup>雷击引起的火\[泰兴：有时称不知源的火灾。\]：失～<sup>\[泰兴\]</sup>  
+1. 【[天花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hua.md#天花)】`tin1 hua1` <sup>\[如东\]\[泰兴\]</sup>病名。急性传染病，今已绝迹。  
 1. 【[天花板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hua_baen.md#天花板)】`tin1 hua1 baen3` <sup>[如东]</sup> 房间上面的装饰板。  
+1. 【[天花板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hua_baen.md#天花板)】`tin1 hua1 baen3` <sup>[泰兴]</sup> 室内装饰、承挡灰尘的天棚：～已吊好了，底下就是刷墙、装饰。  
 1. 【[天花乱坠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hua_lun_chuei.md#天花乱坠)】`tin1 hua1 lun6 chuei6` <sup>[如东]</sup> 天上许多鲜花飘落下来，比喻非常美好：他说得～。  
 1. 【[天话胡话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hua_hv_hua.md#天话胡话)】`tin1 hua6 hv2 hua6` <sup>[东台]</sup> ① 不知道搞的什么鬼花样。 ② 不知道瞎说了些什么。也作“天话肏胡话”。  
 1. 【[天话糊话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hua_hv_hua.md#天话糊话)】`tin1 hua6 hv6 hua6` <sup>[如东]</sup> 东西南北瞎说一通：这个人～的，没个准。  
+1. 【[天皇皇，地皇皇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_huan_huan_ti.md#天皇皇，地皇皇)】`tin1 huan2 huan2 ti6 huan2 huan2` <sup>[泰兴]</sup> 民俗。小儿夜啼不停，主人即用红、黄色纸写上“～，我家有个夜啼郎，过路君子读一遍，一觉睡到大天亮”于街头巷尾张贴，传小儿可即安。含迷信色彩。  
 1. 【[天黄有雨，人狂有祸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_huan_ieu_y_ren_kuan_ieu_hu.md#天黄有雨，人狂有祸)】`tin1 huan2 ieu3 y3 ren2 kuan2 ieu3 hu6` <sup>[东台]</sup> 天发黄是下雨的征兆，人狂失去理智易惹祸。  
 1. 【[天浑笃笃的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_huen_doh_doh_dii.md#天浑笃笃的)】`tin1 huen2 doh7 doh7 dii` <sup>[如皋]</sup> 天色浑浊。  
 1. 【[天意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_i.md#天意)】`tin1 i5` <sup>[如东]</sup> ① 自然规律：这是～。 ② 命运：～如此。  
@@ -1133,6 +1136,7 @@
 1. 【[天僵吖僵的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_jian_nga_jian_dii.md#天僵吖僵的)】`tin1 jian1 nga jian1 dii` <sup>[如皋]</sup> 时阴时晴的天气。  
 1. 【[天浆壳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_jian_kah.md#天浆壳)】`tin1 jian1 kah7` <sup>[如东]</sup> 萝藦科植物萝藦果壳。  
 1. 【[天井](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_jien.md#天井)】`tin1 jien3` <sup>[如东]</sup> 宅院中房子与房子或房子与围墙所围成的露天空地。  
+1. 【[天井](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_jien.md#天井)】`tin1 jien3` <sup>[泰兴]</sup> 院子。房子与房子、围墙围成的露天空地：夏天坐啊～里乘凉。  
 1. 【[天开眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_kae_ngaen.md#天开眼)】`tin1 kae1 ngaen3` <sup>[如皋]</sup> 久阴后放睛，令人特别舒畅。  
 1. 【[天贶节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_kuan_jih.md#天贶节)】`tin1 kuan5 jih7` <sup>[如东]</sup> 阴历六月初六，为天贶节。男子下河洗澡，女子舀水洗头，中午吃黄瓜。谚语：“六月六，黄瓜打菜水绿绿”。  
 1. 【[天盇下来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_kuh_ha_lae_a.md#天盇下来啊)】`tin1 kuh8 ha lae2 a` <sup>[如皋]</sup> 天色阴沉。云层越压越低。  
@@ -1143,9 +1147,10 @@
 1. 【[天亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_lian.md#天亮)】`tin1 lian6` <sup>[如东]</sup> 东方露出亮光，称天亮  
 1. 【[天灵盖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_lien_gae.md#天灵盖)】`tin1 lien2 gae5` <sup>[东台]</sup> 头顶骨。  
 1. 【[天留人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_lieu_ren.md#天留人)】`tin1 lieu2 ren2` <sup>[东台]</sup> 客人因为遇到恶劣天气走不了了：早更头落咖一场大雪，～，你再玩两天吧！  
+1. 【[天老爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_lo_i.md#天老爷)】`tin1 lo i` <sup>[如皋]</sup> 天神：～有眼，不容坏人！  
+1. 【[天老爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_lo_i.md#天老爷)】`tin1 lo i` <sup>[泰兴]</sup> 迷信认为天主宰一切，故称天为“天老爷”：瓦片子也有翻身的时候，～有眼，今年又是一个大丰收！  
+1. 【[天老爷作对](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_lo_i_zah_dy.md#天老爷作对)】`tin1 lo i zah7 dy5` <sup>[如皋]</sup> 见“天不借势”。  
 1. 【[天老爷也不过修一半人缘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_lo_i_ia_beh_gu_xieu_ieh_bun_ren_iun.md#天老爷也不过修一半人缘)】`tin1 lo3 i ia3 beh7 gu5 xieu1 ieh7 bun5 ren2 iun2` <sup>[东台]</sup> 指任何天气总有利有弊，何况人呢？意思是做事不要顾虑太多，不求尽如人意，但求无愧我心。  
-1. 【[天老爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_lo_ia.md#天老爷)】`tin1 lo3 ia` <sup>[如皋]</sup> 天神：～有眼，不容坏人！  
-1. 【[天老爷作对](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_lo_ia_zah_dy.md#天老爷作对)】`tin1 lo3 ia zah7 dy5` <sup>[如皋]</sup> 见“天不借势”。  
 1. 【[天老扎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_lo_zhaeh.md#天老扎)】`tin1 lo3 zhaeh7` <sup>[如东]</sup> 天气晴朗，较长时间不会下雨。  
 1. 【[天老扎咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_lo_zhaeh_ga.md#天老扎咖)】`tin1 lo3 zhaeh7 ga` <sup>[如皋]</sup> 天气放晴，较长时间不再变化。  
 1. 【[天雷打头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_ly_da_teu.md#天雷打头)】`tin1 ly2 da3 teu2` <sup>[如皋]</sup> 人遭雷击，警语，有迷信色彩。  
@@ -1168,7 +1173,7 @@
 1. 【[天桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_qio.md#天桥)】`tin1 qio2` ① <sup>\[如皋\]</sup>彩虹。 ② <sup>\[如皋\]</sup>虹。  
 1. 【[天日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_rih.md#天日)】`tin1 rih8` <sup>[如东]</sup> 时间：～短。  
 1. 【[天色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_seh.md#天色)】`tin1 seh` <sup>[兴化]</sup> 阴云密布，要下雨的先兆：～下来啊，快望家跑。  
-1. 【[天色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_seh.md#天色)】`tin1 seh7` ① <sup>\[如东\]</sup>天气：～不好。<sup>\[如东\]</sup> ② <sup>\[东台\]</sup>天空的颜色，借指天气变化：出门看～，进门看脸色。<sup>\[东台\]</sup>  
+1. 【[天色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_seh.md#天色)】`tin1 seh7` <sup>\[如东\]\[东台\]\[泰兴\]</sup>天气。\[泰兴：“天作色”亦谓天气变了，可能要刮风下雨之意。\]：～不好。<sup>\[如东\]</sup>｜出门看～，进门看脸色。<sup>\[东台\]</sup>｜～不好，恐怕要落雨。<sup>\[泰兴\]</sup>  
 1. 【[天色泛红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_seh_faen_hon.md#天色泛红)】`tin1 seh7 faen5 hon2` <sup>[如皋]</sup> 彤云密布，预示有雪。  
 1. 【[天色泛黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_seh_faen_huan.md#天色泛黄)】`tin1 seh7 faen5 huan2` <sup>[如皋]</sup> 云层泛黄，预示有冰雹。  
 1. 【[天杀的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_shaeh_dii.md#天杀的)】`tin1 shaeh7 dii` <sup>[兴化]</sup> 骂人的话，有时也作调笑语：“～，……怎么平白地赖起我来！我同你拼了命……”（《二十年目睹之怪现状》三二）｜“原来就是你这～”（《梼杌闲评》第二十二回）  
@@ -1184,6 +1189,7 @@
 1. 【[天头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_teu.md#天头)】`tin1 teu` <sup>[东台]</sup> 多指老年人的智力：老父亲神志清醒，～真好。  
 1. 【[天地良心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_ti_lian_xien.md#天地良心)】`tin1 ti6 lian2 xien1` <sup>[兴化]</sup> 指人生天地之间应有的良知：做人不讲～，总是要遣到报应的。  
 1. 【[天地炮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_ti_po.md#天地炮)】`tin1 ti6 po5` ① <sup>\[如皋\]</sup>炮仗的一种，又叫“双响”。 ② <sup>\[东台\]</sup>大的炮仗（爆竹）。  
+1. 【[天天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_tin.md#天天)】`tin1 tin1` <sup>[泰兴]</sup> 每一天。  
 1. 【[天天个天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_tin_gu_tin.md#天天个天)】`tin1 tin1 gu tin1` <sup>[东台]</sup> 每一天：十多年吖，～都要为老人按摩，了不起！  
 1. 【[天天有个天天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_tin_ieu_gu_tin_tin.md#天天有个天天)】`tin1 tin1 ieu3 gu tin1 tin1` <sup>[如皋]</sup> 长此下去：老爹作，～，子女又要上班，一定要找个人服侍。  
 1. 【[天天炮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_tin_po.md#天天炮)】`tin1 tin1 po5` <sup>[兴化]</sup> 一种双响的大炮竹。即所谓“二踢脚”。  
@@ -1268,7 +1274,7 @@
 1. 【[田岸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_un.md#田岸)】`tin2 un6` <sup>[兴化]</sup> 田埂、田间小道：春天，他在～上点黄豆。  
 1. 【[田岸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_un_zz.md#田岸子)】`tin2 un6 zz` ① <sup>\[如皋\]</sup>作田界的土坎。 ② <sup>\[东台\]</sup>田埂。  
 1. 【[田租](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_zv.md#田租)】`tin2 zv1` <sup>[如东]</sup> 土地出租的租金。  
-1. 【[舔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin.md#舔)】`tin3` <sup>[泰州]</sup> ① 用舌头擦拭：邮票反面有胶，你弄舌头～啊子，就好贴到信壳子上去。 ② 用舌头取食：你把碗边子上头的汤～掉。  
+1. 【[舔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin.md#舔)】`tin3` <sup>[泰州]</sup> 用舌头触碰或沾取：邮票反面有胶，你弄舌头～啊子，就好贴到信壳子上去。｜你把碗边子上头的汤～掉。  
 1. 【[舔饭碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_faen_un.md#舔饭碗)】`tin3 faen6 un3` <sup>[如东]</sup> 用舌头把粘在饭碗上的剩粥吸食干净：王二非常爱惜粮食，吃完饭都要～，不让一粒粮食浪费。  
 1. 【[舔肥屁眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_fei_pi_ngaen.md#舔肥屁眼)】`tin3 fei2 pi5 ngaen3` ① <sup>\[如皋\]</sup>讥讽拍马逢迎。 ② <sup>\[如东\]</sup>比喻巴结有钱有势的人。 ③ <sup>\[东台\]</sup>［引］与“拍马屁”同义。也作“舔热屁眼”。  
 1. 【[舔嘴擸𢶍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_jy_laeh_saeh.md#舔嘴擸𢶍)】`tin3 jy3 laeh8 saeh` <sup>[东台]</sup> 形容吃相不好的样子。  
@@ -2064,6 +2070,7 @@
 1. 【[肚全](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_qiun.md#肚全)】`tv6 qiun` <sup>[如皋]</sup> 成套猪内脏，含肝、肠、肚、肺、心。  
 1. 【[肚肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_roh.md#肚肉)】`tv6 roh8` <sup>[兴化]</sup> ① 用作菜肴的家畜、家禽的内脏。 ② 鱼肚皮上的肉。  
 1. 【[肚骚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_so.md#肚骚)】`tv6 so1` <sup>[东台]</sup> 猪子内脏。  
+1. 【[肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_zz.md#肚子)】`tv6 zz` <sup>\[泰兴\]</sup>馅心  
 1. 【[镀金](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_jien.md#镀金)】`tv6 jien1` <sup>[东台]</sup> ① 把一种金属薄而匀地附在别的金属或物体表面：老东台新桥口“豫丰昌”广货店～的仿制品“珠花”吸引大量女性光顾。 ② 以某种经历增加个人资本：干部下基层要真心实意为群众办事，不能有下去～的想法。  
 1. 【[推扳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ty_baen.md#推扳)】`ty1 baen1` ① <sup>\[如皋\]</sup>不好好对待：他宁可～自己，不肯～别人。<sup>\[如皋\]</sup> ② <sup>\[如皋\]</sup>质差：这批货～点儿，不合适。<sup>\[如皋\]</sup> ③ <sup>\[如皋\]</sup>相差、短少：他比我～三岁；买啊他三斤肉就～吖三两！<sup>\[如皋\]</sup> ④ <sup>\[东台\]</sup>质量差，叫入低看一眼：不是我～你，这活计不曾做好。<sup>\[东台\]</sup> ⑤ <sup>\[东台\]</sup>相差，讹错：她才九十六斤，比标准体重还～十二斤。<sup>\[东台\]</sup>  
 1. 【[推扳八庹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ty_baen_baeh_tah.md#推扳八庹)】`ty1 baen1 baeh7 tah7` <sup>[如皋]</sup> 差甚远。  

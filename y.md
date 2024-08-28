@@ -57,7 +57,7 @@
 1. 【[鱼𥲉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_hv_zz.md#鱼𥲉子)】`y2 hv5 zz` <sup>[如皋]</sup> 篾制扁花瓶式鱼笼。  
 1. 【[鱼秧<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_ian_r.md#鱼秧<sub>儿</sub>)】`y2 ian1 r` <sup>[如皋]</sup> 鱼苗。  
 1. 【[鱼圆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_iun.md#鱼圆)】`y2 iun2` ① <sup>\[如皋\]</sup>用鱼之肉打成腐，加鸡蛋清和适量盐、水等和匀，手捏出圆状，下温汤凝成白色小圆子，稍沸而成菜料。极鲜嫩。 ② <sup>\[如东\]</sup>鱼肉加调料做成圆子，肉嫩味鲜，营养丰富。  
-1. 【[鱼卡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_ka.md#鱼卡)】`y2 ka3` ① 鱼骨头，鱼刺 ② <sup>\[如皋\]</sup>鱼的骨、芒总称。 ③ <sup>\[如东\]</sup>工具。把竹篾扭弯，头部加套，套中存放铒料，鱼吞食时即被卡住。 ④ <sup>\[如东\]</sup>鱼骨头：毛毛吃鱼时要当心～。<sup>\[如东\]</sup> ⑤ <sup>\[东台\]</sup>东台话中指鱼刺，或鱼骨。（普通话里～是捕鱼的工具） ⑥ <sup>\[兴化\]</sup>鱼刺、鱼骨。 ⑦ <sup>\[泰县\]</sup>鱼刺。  
+1. 【[鱼卡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_ka.md#鱼卡)】`y2 ka3` ① <sup>\[如皋\]\[如东\]\[东台\]\[兴化\]\[泰县\]</sup>鱼骨头，鱼刺：毛毛吃鱼要当心～。<sup>\[如东\]</sup> ② <sup>\[如东\]</sup>工具。把竹篾扭弯，头部加套，套中存放铒料，鱼吞食时即被卡住。  
 1. 【[鱼𦟯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_leh.md#鱼𦟯)】`y2 leh8` <sup>[如皋]</sup> 鱼的精囊，似白油，与鱼一起煮食，味鲜嫩。  
 1. 【[鱼鳞云](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_lien_yen.md#鱼鳞云)】`y2 lien2 yen2` <sup>[如皋]</sup> 高空云景之一，大片若鱼鳞排列的云。  
 1. 【[鱼鸦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_nga.md#鱼鸦)】`y2 nga1` ① <sup>\[如皋\]</sup>鸬鹚。 ② <sup>\[如东\]</sup>鸬鹚科动物鸬鹚，也称鹗、鱼鹰。体长约60厘米。嘴狭长呈圆锥形上嘴两侧有钩尖端有钩，下嘴有小蘷。上嘴黑褐，上嘴边缘和下嘴灰白，具砖红色斑。虹膜翠绿色。眼橄榄色；眼下橙黄色。嘴下具喉囊，有许多鲜黄色斑点捕获的鱼就放在囊内。体羽主要为黑色而带紫色金属光泽。生殖期间，胁下有一白色块斑。头后部有一不明显的羽冠。脚黑色4趾向前，具蹼及锐爪。栖息在河泊、沼泽及海滨，善潜水捕食鱼类。  

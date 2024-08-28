@@ -2030,9 +2030,10 @@
 1. 【[元宝鞋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_bo_hae.md#元宝鞋)】`iun2 bo3 hae2` <sup>[如东]</sup> 鞋的一种。鞋头圆形，中间有一高梁，以棉鞋为多。  
 1. 【[元宝笿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_bo_lah_r.md#元宝笿<sub>儿</sub>)】`iun2 bo3 lah8 r` <sup>[如皋]</sup> 船形精篾篮。旧时漆匠、卖豆腐的多用它。  
 1. 【[元宝屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_bo_oh.md#元宝屋)】`iun2 bo3 oh7` ① <sup>\[如皋\]</sup>屋顶像倒伏的元宝的房屋。旧时乡村中穷人多住草顶的～，由一间正屋两山搭披构成。 ② <sup>\[如东\]</sup>房屋的一种结构形式，两山为椭圆形，似元宝。  
+1. 【[元宝石](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_bo_sheh.md#元宝石)】`iun2 bo3 sheh8` <sup>[泰兴]</sup> 旧时染坊里的一种设施，因形似元宝，故名。  
 1. 【[元旦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_daen.md#元旦)】`iun2 daen5` <sup>[如东]</sup> 元为开始，旦为清晨，两字组合为公历新年一月一日，表示新的一年的开始。  
 1. 【[元麦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_moh.md#元麦)】`iun2 moh8` ① <sup>\[如东\]</sup>禾本科植物元麦，二年生草本。高约100厘米。秆直立，光滑无毛。叶披针形，上面粗糙，下面平滑。穗状花序，分若干节。颖果，橄榄形，无苞衣和长芒，淡黄色，皮薄。人工种植是一种重要的粮食作物。 ② <sup>\[东台\]</sup>原为本地三麦之一，因产量低现已很少种。在青藏高原又叫青稞。 ③ <sup>\[兴化\]</sup>三麦之一，亦称“裸麦”。在西藏、青海等地称之“青稞”。  
-1. 【[元气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_qi.md#元气)】`iun2 qi5` ① <sup>\[如皋\]</sup>体能。 ② <sup>\[如东\]</sup>人的生命力：～大伤。<sup>\[如东\]</sup> ③ <sup>\[东台\]</sup>指生命力：经过中医调养，他渐渐恢复咖～。<sup>\[东台\]</sup>  
+1. 【[元气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_qi.md#元气)】`iun2 qi5` ① <sup>\[如皋\]</sup>体能。 ② <sup>\[如东\]\[东台\]</sup>人的生命力：～大伤。<sup>\[如东\]</sup>｜经过中医调养，他渐渐恢复咖～。<sup>\[东台\]</sup> ③ <sup>\[泰兴\]</sup>指人的精、气、神：生箇场病他伤吖～<sup>\[泰兴\]</sup>  
 1. 【[元书纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_shv_zhr.md#元书纸)】`iun2 shv1 zhr3` <sup>[东台]</sup> 一种文化用纸，供书写或作簿籍用。  
 1. 【[元宵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_xio.md#元宵)】`iun2 xio1` ① <sup>\[如东\]</sup>阴历正月十五日，用糯米糏做成的汤圆，叫元宵。 ② <sup>\[东台\]</sup>农历正月十五夜晚。不表示“汤圆，圆子”。  
 1. 【[元宵节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_xio_jih.md#元宵节)】`iun2 xio1 jih7` <sup>[如东]</sup> 中国传统节日。阴历正月十五日晚，为元宵节。如东人叫“正月半”。唐代以来有观灯的习俗，所以又叫灯节。城镇里举办观灯活动。城乡小孩玩兔儿灯。农村里放哨火（北坎地区叫浇麻串），把散布在田地里或河沟里的杂草划扰，堆成小垛，用火把点着燃烧，并观看火苗的颜色，红色的为旱年，蓝色的为水年。此俗源于南朝时期祭火神祝融，实际上是为了烧死越冬的害虫。  

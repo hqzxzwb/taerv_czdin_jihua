@@ -186,7 +186,7 @@
 1. 【[齉鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nan_pieh_zz.md#齉鼻子)】`nan5 pieh8 zz` <sup>[如东]</sup> 由于受了风寒导致鼻塞，发音不清，叫做齉鼻子。  
 1. 【[齉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nan.md#齉)】`nan6` <sup>[泰县]</sup> 由于受了风寒导致鼻塞，发音不清：～鼻子。  
 1. 【[呐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/neh.md#呐)】`neh` <sup>[东台]</sup> 加上自成音节的“n”（嗯），构成“嗯～”，是答应和认可对方话时的习惯用语：嗯～，我明朝就去。  
-1. 【[抐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/neh.md#抐)】`neh8` ① 捏 ② <sup>\[如皋\]</sup>紧握、揑、扼的杂合动作。  
+1. 【[抐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/neh.md#抐)】`neh8` ① <sup>\[如皋\]\[泰州\]</sup>紧握、捏、扼、攥：把拳头～咖紧吖不要松。<sup>\[泰州\]</sup> ② <sup>\[泰州\]</sup>牢牢控制钱物，不让支出：你把家里这两个钱～～好。<sup>\[泰州\]</sup>  
 1. 【[抐拳头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/neh_qiun_teu.md#抐拳头)】`neh8 qiun2 teu` <sup>[如皋]</sup> 握起拳头。  
 1. 【[抐人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/neh_ren_zz.md#抐人子)】`neh8 ren2 zz` <sup>[如皋]</sup> 收缩样疼痛：心里～。  
 1. 【[抐手钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/neh_sheu_qin.md#抐手钱)】`neh8 sheu3 qin2` ① <sup>\[如东\]</sup>死者入殡，手中要拿着钱，这种钱，叫做抐手钱。新娘出嫁，手中要拿着钱，这种钱，叫做抐手钱。 ② <sup>\[如皋\]</sup>新娘出家门时父母所给的红包。  

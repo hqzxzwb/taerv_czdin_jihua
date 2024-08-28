@@ -673,7 +673,7 @@
 1. 【[𧻴窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_ku.md#𧻴窠)】`lan6 ku1` <sup>[如皋]</sup> 天气闷热，鸡推迟上窠。  
 1. 【[𧻴田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_tin.md#𧻴田)】`lan6 tin2` <sup>[如皋]</sup> 休耕。  
 1. 【[𧻴田如放债](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_tin_rv_fan.md#𧻴田如放债)】`lan6 tin2 rv2 fan5 zhae5` <sup>[如皋]</sup> 休耕一段时间后，田里肥力恢复，土质得到改善，再种可获丰收。  
-1. 【[勒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh.md#勒)】`leh8` ① 瞪眼 ② <sup>\[如皋\]</sup>状眼睛睁得很大。 ③ <sup>\[泰州\]</sup>使劲攥：把拳头～咖紧吖不要松。<sup>\[泰州\]</sup> ④ <sup>\[泰州\]</sup>使劲睁眼：你～甚的眼睛，哿是想打架？<sup>\[泰州\]</sup> ⑤ <sup>\[泰州\]</sup>使劲喊：你把后来～咖大啊喊，声音小啊他听不见。<sup>\[泰州\]</sup> ⑥ <sup>\[泰州\]</sup>牢牢控制钱物，不让支出：你把家里这两个钱～～好。<sup>\[泰州\]</sup>  
+1. 【[勒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh.md#勒)】`leh8` ① 瞪眼 ② <sup>\[如皋\]</sup>状眼睛睁得很大。 ③ <sup>\[泰州\]</sup>使劲睁眼：你～甚的眼睛，哿是想打架？<sup>\[泰州\]</sup> ④ <sup>\[泰州\]</sup>使劲喊：你把后来～咖大啊喊，声音小啊他听不见。<sup>\[泰州\]</sup>  
 1. 【[勒把<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_ba_r.md#勒把<sub>儿</sub>)】`leh8 ba3 r` <sup>[泰县]</sup> 最小的子女。  
 1. 【[勒逼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_bieh.md#勒逼)】`leh8 bieh7` <sup>[东台]</sup> 强迫，逼迫。  
 1. 【[勒擘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_boh.md#勒擘)】`leh8 boh7` <sup>[如东]</sup> 物体倾斜：这块板放吖在那许，～的。  
