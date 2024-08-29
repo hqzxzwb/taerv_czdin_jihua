@@ -39,11 +39,12 @@
 1. 【[揢手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka_sheu.md#揢手)】`ka5 sheu3` <sup>[如皋]</sup> 聚财：她过日子有～，～紧、～松。  
 1. 【[揢手紧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka_sheu_jien.md#揢手紧)】`ka5 sheu3 jien3` <sup>[如皋]</sup> 不轻易花钱。  
 1. 【[开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#开)】`kae1` <sup>[泰县]</sup> 挖：～塘。  
+1. 【[开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#开)】`kae1` <sup>[泰兴]</sup> ① 量词：泡一～茶。｜格种茶泡三～就不香了。 ② 纸张裁成几份曰“几开”，：《人民日报》对～若干版｜这本杂志是16～月刊  
 1. 【[开啊槅子说亮话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_a_geh_zz_shuh_lian_hua.md#开啊槅子说亮话)】`kae1 a geh7 zz shuh7 lian6 hua6` <sup>[如皋]</sup> 说明了，说穿了，说敞亮了。  
 1. 【[开笔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_bieh.md#开笔)】`kae1 bieh7` <sup>[兴化]</sup> ① 旧指一年中首次写字：新年～，诸事大吉。 ② 旧称学童开始学写文章。  
 1. 【[开财门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_cae_men.md#开财门)】`kae1 cae2 men2` <sup>[如东]</sup> ① 春节后第一次获得经济收入。 ② 春节期间，长辈给小孩红纸钱包儿。 ③ 春节期间，小孩调皮挨打。  
 1. 【[开车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_cha.md#开车)】`kae1 cha1` <sup>[如东]</sup> 发动机器。操纵机器。也叫开机。  
-1. 【[开春](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_chuen.md#开春)】`kae1 chuen1` <sup>[东台]</sup> 春天开始。  
+1. 【[开春](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_chuen.md#开春)】`kae1 chuen1` <sup>\[东台\]\[泰兴\]</sup>春天开始，进入春天。\[泰兴：一般在农历正月或立春前后。\]：一～就要动手起房子了。<sup>\[泰兴\]</sup>  
 1. 【[开船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_chun.md#开船)】`kae1 chun2` <sup>[如东]</sup> 船舶开航。  
 1. 【[开船解缆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_chun_jiae_laen.md#开船解缆)】`kae1 chun2 jiae3 laen3` <sup>[泰县]</sup> 断绝往来。  
 1. 【[开初](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_chv.md#开初)】`kae1 chv1` ① <sup>\[如皋\]</sup>开始之时。 ② <sup>\[如皋\]</sup>一开始，起初。 ③ <sup>\[如皋\]</sup>当初。 ④ <sup>\[兴化\]</sup>开始、起初：这门亲事我～就有看法。<sup>\[兴化\]</sup>  
@@ -55,7 +56,7 @@
 1. 【[开过年来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_gu_nin_lae.md#开过年来)】`kae1 gu nin2 lae2` <sup>[如皋]</sup> 见“开年”。  
 1. 【[开锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_gu.md#开锅)】`kae1 gu1` ① <sup>\[如东\]</sup>揭开锅盖准备煮饭烧菜。比喻做红白喜事时准备请人待客：张明娶亲准备～。<sup>\[如东\]</sup> ② <sup>\[如皋\]</sup>吃饭：天冷，等大家总来啊再～盛饭。 ③ <sup>\[如皋\]</sup>开炊：他家断吖顿，已经几天不～啊。见“开伙仓”。  
 1. 【[开光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_guan.md#开光)】`kae1 guan1` ① <sup>\[如东\]</sup>理发。 ② <sup>\[如东\]</sup>刮脸。 ③ <sup>\[兴化\]</sup>指给佛像或神像点眼睛：“是了，你家塑了新菩萨，要请谭贤弟～哩。”（《歧路灯》七四）<sup>\[兴化\]</sup> ④ <sup>\[兴化\]</sup>（戏）指人理发或刮脸。 ⑤ <sup>\[泰县\]</sup>理发。  
-1. 【[开伙仓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_hu_can.md#开伙仓)】`kae1 hu3 can1` ① <sup>\[如皋\]</sup>料理炊事。 ② <sup>\[东台\]</sup>开办临时伙食房。 ③ <sup>\[兴化\]</sup>办伙食、买菜做饭：小两口分家另过，自己～。<sup>\[兴化\]</sup>｜这位小姐平常吃现成饭吃惯了，临到要自己想办法～，就只好挨饿了。（艾煊《乡关何处》）<sup>\[兴化\]</sup>  
+1. 【[开伙仓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_hu_can.md#开伙仓)】`kae1 hu3 can1` <sup>\[如皋\]\[东台\]\[兴化\]\[泰兴\]</sup>开办伙食，料理炊事：小两口分家另过，自己～。<sup>\[兴化\]</sup>｜这位小姐平常吃现成饭吃惯了，临到要自己想办法～，就只好挨饿了。（艾煊《乡关何处》）<sup>\[兴化\]</sup>｜今朝的奖金拿得来做块～。<sup>\[泰兴\]</sup>  
 1. 【[开花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_hua.md#开花)】`kae1 hua1` ① <sup>\[如东\]</sup>植物的蓓蕾开放：茶树～<sup>\[如东\]</sup> ② <sup>\[如东\]</sup>物体表面破裂：桌子面儿～。<sup>\[如东\]</sup> ③ <sup>\[兴化\]</sup>由狂风刮起的巨大浪花：浪浪～。<sup>\[兴化\]</sup> ④ <sup>\[兴化\]</sup>（借）破口骂人：他动不动嘴里～。<sup>\[兴化\]</sup>  
 1. 【[开怀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_huae.md#开怀)】`kae1 huae2` ① <sup>\[如东\]</sup>妇女怀孕生孩子，叫做开怀。 ② <sup>\[兴化\]</sup>见“解怀”。  
 1. 【[开荒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_huan.md#开荒)】`kae1 huan1` <sup>[如东]</sup> 开垦荒地。  
@@ -66,6 +67,7 @@
 1. 【[开秧门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_ian_men.md#开秧门)】`kae1 ian1 men2` ① <sup>\[东台\]</sup>小秧长成后往大田移栽的第一天起秧，先由一老人在秧池上开个口子，同时举行祭祀仪式，祝愿当年丰收。 ② <sup>\[兴化\]</sup>开始插秧：今吖～，请帮忙的人吃圆子。<sup>\[兴化\]</sup>  
 1. 【[开洋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_ian.md#开洋)】`kae1 ian2` <sup>[兴化]</sup> 一种虾米的品种，个大味鲜。  
 1. 【[开阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_ian.md#开阳)】`kae1 ian2` <sup>[如皋]</sup> 有了太阳：连续阴雨半个月，总算～吖。  
+1. 【[开间](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_jiaen.md#开间)】`kae1 jiaen1` <sup>[泰兴]</sup> 七架梁、五架梁房屋的宽度，一般约一丈左右。泛指房屋的宽度。  
 1. 【[开脚锚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_jiah_mo.md#开脚锚)】`kae1 jiah7 mo2` <sup>[如东]</sup> 帆船上抛在远处的一只锚，叫开脚锚。  
 1. 【[开经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_jien.md#开经)】`kae1 jien1` <sup>[如东]</sup> 埋葬死者的坟坑，正孝子先挖三锹土，叫做开经。然后再由其他人挖完。  
 1. 【[开交](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_jio.md#开交)】`kae1 jio1` ① <sup>\[如东\]</sup>解决发生的纠纷：不得～。<sup>\[如东\]</sup> ② <sup>\[如皋\]</sup>给予，使离开。  
@@ -75,7 +77,7 @@
 1. 【[开领塘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_lien_tan.md#开领塘)】`kae1 lien3 tan2` <sup>[如皋]</sup> 见“开领”。  
 1. 【[开领窝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_lien_u_r.md#开领窝<sub>儿</sub>)】`kae1 lien3 u1 r` <sup>[如皋]</sup> 见“开领”。  
 1. 【[开镰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_lin.md#开镰)】`kae1 lin2` <sup>[如东]</sup> 开始收割庄家，叫做开镰。  
-1. 【[开脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_lin.md#开脸)】`kae1 lin3` ① <sup>\[如东\]</sup>姑娘结婚后的第二天早晨，摘除脸上的绒毛，叫做开脸。也叫做扯脸。 ② <sup>\[如皋\]</sup>见“扯脸”。 ③ <sup>\[如皋\]</sup>旧时女子未婚时脸上有汗毛，额际有刘海儿，鬓脚，颈部有短发，称“毛丫头”。结婚，则于次日晨由妆妈用线扯去，脱去姑娘的脸型而成为大（ta5）娘，妇人。 ④ <sup>\[东台\]</sup>旧时姑娘出嫁前一天，娘家人用绞在一起的细线一张一合为女儿清除脸上汗毛。也叫“扯脸”“绞脸”。  
+1. 【[开脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_lin.md#开脸)】`kae1 lin3` ① <sup>\[如东\]</sup>姑娘结婚后的第二天早晨，摘除脸上的绒毛，叫做开脸。也叫做扯脸。 ② <sup>\[如皋\]</sup>见“扯脸”。 ③ <sup>\[如皋\]</sup>旧时女子未婚时脸上有汗毛，额际有刘海儿，鬓脚，颈部有短发，称“毛丫头”。结婚，则于次日晨由妆妈用线扯去，脱去姑娘的脸型而成为大（da5）娘，妇人。 ④ <sup>\[东台\]</sup>旧时姑娘出嫁前一天，娘家人用绞在一起的细线一张一合为女儿清除脸上汗毛。也叫“扯脸”“绞脸”。 ⑤ <sup>\[泰兴\]</sup>旧俗女子不修面，直到婚前才初次修面整鬓，叫做“开脸”。  
 1. 【[开锣戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_lu_xi.md#开锣戏)】`kae1 lu2 xi5` <sup>[兴化]</sup> 戏场开锣后的第一出戏。也称“帽儿戏”。  
 1. 【[开路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_lv.md#开路)】`kae1 lv6` <sup>[兴化]</sup> 出发：他俫一帮人昨儿就～啊。  
 1. 【[开路神，打路鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_lv_shen_da_lv_guei.md#开路神，打路鬼)】`kae1 lv6 shen2 da3 lv6 guei3` <sup>[如皋]</sup> 旧俗送葬队伍最前面的大型纸人。  
@@ -83,7 +85,7 @@
 1. 【[开门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_men.md#开门)】`kae1 men2` <sup>[如东]</sup> 一种民间风俗。姑娘出嫁那天，花桥上场后，新娘的弟弟、妹妹或亲属将大门关闭，娶亲的媒人要拿出开门封儿来，才开门让他们进屋。这一婚俗程序，叫做开门。  
 1. 【[开门大吉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_men_da_jieh.md#开门大吉)】`kae1 men2 da6 jieh7` <sup>[如东]</sup> 一开始就很顺利。  
 1. 【[开门封](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_men_fon.md#开门封)】`kae1 men2 fon1` <sup>[东台]</sup> 一种民俗，娶亲当天，男方根据事先约定，从门缝里塞进一定数额的钞票后，女方才肯开门，让男方带走新娘。  
-1. 【[开门封<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_men_fon_r.md#开门封<sub>儿</sub>)】`kae1 men2 fon1 r` ① <sup>\[如东\]</sup>民间的一种婚俗。媒人到娘家来迎娶新娘时，娘家人把大门关闭。媒人必须给喜钱，娘家人才开门。这种喜钱叫做开门封儿。也叫关门封儿。 ② <sup>\[如皋\]</sup>旧式婚仪之一：新郎上门迎新娘时给开门者的礼金。<sup>\[如皋\]</sup> ③ <sup>\[兴化\]</sup>旧婚俗：女家向男方索取喜钱，作为放花轿进门的条件<sup>\[兴化\]</sup>｜（轿子停下）……谁知却给一个闭门羹。原来，女方喜妈和小孩儿们向新郎要～，即红纸包的喜钱。（马春阳《扬州水乡婚俗散记》）也作“开门钱”<sup>\[兴化\]</sup>｜《儒林外史》第十回有给“开门钱”情节。<sup>\[兴化\]</sup>  
+1. 【[开门封<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_men_fon_r.md#开门封<sub>儿</sub>)】`kae1 men2 fon1 r` ① <sup>\[如东\]</sup>民间的一种婚俗。媒人到娘家来迎娶新娘时，娘家人把大门关闭。媒人必须给喜钱，娘家人才开门。这种喜钱叫做开门封儿。也叫关门封儿。 ② <sup>\[如皋\]</sup>旧式婚仪之一，新郎上门迎新娘时给开门者的礼金。 ③ <sup>\[兴化\]</sup>旧婚俗，女家向男方索取喜钱，作为放花轿进门的条件：（轿子停下）……谁知却给一个闭门羹。原来，女方喜妈和小孩儿们向新郎要～，即红纸包的喜钱。（马春阳《扬州水乡婚俗散记》）也作“开门钱”<sup>\[兴化\]</sup>｜《儒林外史》第十回有给“开门钱”情节。<sup>\[兴化\]</sup> ④ <sup>\[泰兴\]</sup>婚俗。男方娶亲进新娘家门，女方索要“喜钱”，称为“开门封儿”。  
 1. 【[开门红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_men_hon.md#开门红)】`kae1 men2 hon2` <sup>[如东]</sup> 形容一开场生意就很兴隆。  
 1. 【[开门头市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_men_teu_shr.md#开门头市)】`kae1 men2 teu2 shr6` <sup>[如东]</sup> 第一次交易：～就很好。  
 1. 【[开门戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_men_xi.md#开门戏)】`kae1 men2 xi5` ① <sup>\[如皋\]</sup>演戏散场前，把门打开，让观众陆续退场，此时外面的人可进场免费看戏，此为开门戏。 ② <sup>\[兴化\]</sup>旧时剧场演戏，至散场前半小时左右即打开大门，让人自由进去观赏：谚曰：～好看，伺候难当。<sup>\[兴化\]</sup>  
@@ -98,7 +100,7 @@
 1. 【[开年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_nin.md#开年)】`kae1 nin2` ① <sup>\[如东\]</sup>明年。 ② <sup>\[如皋\]</sup>明年。预约用语。  
 1. 【[开片](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_pin.md#开片)】`kae1 pin5` ① <sup>\[如皋\]</sup>宰牲后沿脊劈开。 ② <sup>\[如皋\]</sup>裁好的服装布料。 ③ <sup>\[兴化\]</sup>将宰杀脱毛（或剥皮）后猪、牛、羊的胴体从中剖开。  
 1. 【[开瓢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_pio_r.md#开瓢<sub>儿</sub>)】`kae1 pio2 r` <sup>[兴化]</sup> （戏）头破血流：今朝子张大捱人家～啦！  
-1. 【[开盘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_pun_zz.md#开盘子)】`kae1 pun2 zz` ① <sup>\[兴化\]</sup>要价、提出条件：唉，谨防施恩教你包办，～要有数，价钱要开大一些啊！（《武松》六）<sup>\[兴化\]</sup> ② <sup>\[泰县\]</sup>提要求：你～，我俫来议下子。  
+1. 【[开盘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_pun_zz.md#开盘子)】`kae1 pun2 zz` ① <sup>\[兴化\]</sup>要价、提出条件：唉，谨防施恩教你包办，～要有数，价钱要开大一些啊！（《武松》六）<sup>\[兴化\]</sup> ② <sup>\[泰县\]</sup>提要求：你～，我俫来议下子。<sup>\[泰县\]</sup> ③ <sup>\[泰兴\]</sup>开价；拿出打算：你先开个盘子，大家再合合眼。<sup>\[泰兴\]</sup>  
 1. 【[开戗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_qian.md#开戗)】`kae1 qian5` <sup>[如东]</sup> 帆船船篷的篷尖在右舷，篷档离开桅樯，向左航行。词典作“开弶”。  
 1. 【[开席](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_qieh.md#开席)】`kae1 qieh8` <sup>[如东]</sup> 客间里摆三张酒桌，称开席。  
 1. 【[开墒口<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_shan_keu_r.md#开墒口<sub>儿</sub>)】`kae1 shan1 keu3 r` <sup>[如皋]</sup> 在新耕的田块间开挖墒沟，以利排水。  
@@ -112,13 +114,14 @@
 1. 【[开趟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_tan.md#开趟)】`kae1 tan5` <sup>[如东]</sup> 开始：这潮水才～。  
 1. 【[开头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_teu.md#开头)】`kae1 teu` ① <sup>\[如东\]</sup>外边。 ② <sup>\[如东\]</sup>外海，外洋，渔民称开头：这一汛，我俫到～去打鱼。<sup>\[如东\]</sup> ③ <sup>\[兴化\]</sup>其他地方：这种技术是～传过来的。<sup>\[兴化\]</sup>｜这位先生是从～请过来的。<sup>\[兴化\]</sup>  
 1. 【[开头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_teu.md#开头)】`kae1 teu2` ① <sup>\[如东\]</sup>开始：今天～。<sup>\[如东\]</sup> ② <sup>\[如东\]</sup>第一次：～是他。<sup>\[如东\]</sup> ③ <sup>\[如皋\]</sup>开始之时。  
-1. 【[开外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_vae.md#开外)】`kae1 vae6` ① <sup>\[如皋\]</sup>见“朝外”。 ② <sup>\[如皋\]</sup>朝外，以上。  
+1. 【[开外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_vae.md#开外)】`kae1 vae6` ① <sup>\[如皋\]</sup>朝外，以上。 ② <sup>\[泰兴\]</sup>超过某一数量；以外。多用于年龄、距离、重量等：我今年六十～了。<sup>\[泰兴\]</sup>｜箇条路大约千米～。<sup>\[泰兴\]</sup>  
 1. 【[开玩笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_vaen_xio.md#开玩笑)】`kae1 vaen2 xio5` <sup>[如东]</sup> 用不严肃的言语或态度戏弄人。  
 1. 【[开网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_van.md#开网)】`kae1 van3` <sup>[如东]</sup> 渔船上向海洋里撒网捕鱼，叫做开网。  
 1. 【[开网的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_van_dii.md#开网的)】`kae1 van3 dii` <sup>[如东]</sup> 负责开网的渔民。开网渔民的份额一般为1.25。  
 1. 【[开胃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_vei.md#开胃)】`kae1 vei5` <sup>[兴化]</sup> 开玩笑：你覅拿老实人～吧！  
+1. 【[开胃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_vei.md#开胃)】`kae1 vei5` <sup>[泰兴]</sup> 增进食欲：箇药吃咖就开胃lo。  
 1. 【[开味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_vei.md#开味)】`kae1 vei6` <sup>[兴化]</sup> 开心：取经和尚找话说，八百里通天河大水烧开了，是拿人～，三更天的梦话。（扬一《通天河》）  
-1. 【[开心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_xien.md#开心)】`kae1 xien1` <sup>[如东]</sup> ① 高兴，快乐。 ② 开玩笑：你不要拿我～。  
+1. 【[开心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_xien.md#开心)】`kae1 xien1` ① <sup>\[如东\]\[泰兴\]</sup>高兴，快乐，愉悦。 ② <sup>\[如东\]\[泰兴\]</sup>开玩笑：你不要拿我～。<sup>\[如东\]</sup>｜我同他～的，他倒当吖真。<sup>\[泰兴\]</sup>  
 1. 【[开销](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_xio.md#开销)】`kae1 xio1` <sup>[如东]</sup> 日常开支：。很大。  
 1. 【[开小伙<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_xio_hu_r.md#开小伙<sub>儿</sub>)】`kae1 xio3 hu3 r` <sup>[如皋]</sup> 开小灶。  
 1. 【[开小灶<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_xio_zo_r.md#开小灶<sub>儿</sub>)】`kae1 xio3 zo5 r` <sup>[如皋]</sup> 开小灶。  
@@ -129,10 +132,10 @@
 1. 【[开庄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_zhuan.md#开庄)】`kae1 zhuan1` <sup>[兴化]</sup> 其他村庄：我庄上没得这个人，你到～找找看。  
 1. 【[开庄遗址](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_zhuan_i_zhr.md#开庄遗址)】`kae1 zhuan1 i2 zhr3` <sup>[东台]</sup> 位于溱东镇开庄。出土文物距今4700年左右，其文化性质为良渚文化类型。  
 1. 【[开早工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_zo_gon.md#开早工)】`kae1 zo3 gon1` <sup>[如东]</sup> ① 早饭前下田做活计。 ② 提前上班。  
-1. 【[揩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#揩)】`kae1` ① <sup>\[如东\]</sup>擦：～桌子。<sup>\[如东\]</sup> ② <sup>\[兴化\]</sup>擦、抹：～汗；～梨子。<sup>\[兴化\]</sup> ③ <sup>\[兴化\]</sup>洗：～脸（用湿布擦脸和用水洗脸都说～脸）。<sup>\[兴化\]</sup> ④ <sup>\[泰州\]</sup>擦拭：拿块布～～干净。<sup>\[泰州\]</sup>  
+1. 【[揩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#揩)】`kae1` ① <sup>\[如东\]\[兴化\]\[泰州\]</sup>擦、抹、拭：～桌子。<sup>\[如东\]</sup>｜～汗；～梨子。<sup>\[兴化\]</sup>｜拿块布～～干净。<sup>\[泰州\]</sup> ② <sup>\[兴化\]</sup>洗：～脸（用湿布擦脸和用水洗脸都说～脸）。<sup>\[兴化\]</sup>  
 1. 【[揩油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_ieu.md#揩油)】`kae1 ieu2` <sup>[如皋]</sup> 从中捞取好处。  
 1. 【[揩揩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_kae_r.md#揩揩<sub>儿</sub>)】`kae1 kae1 r` 橡皮擦  
-1. 【[䬵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#䬵)】`kae2` ① <sup>\[兴化\]</sup>食饱后从胃院中排出气体：～饱。<sup>\[兴化\]</sup> ② <sup>\[泰县\]</sup>打嗝：才喝咖汽水，就～起来啊。 ③ <sup>\[泰州\]</sup>吃得过多造成胃气从嘴巴里出来：他今吖子喝咖多啊唻，嘴里就起一直～啊不歇。<sup>\[泰州\]</sup>｜他昨咖晚上吃咖伤吖，早上嘴里还在下～馊味。<sup>\[泰州\]</sup>  
+1. 【[䬵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#䬵)】`kae2` <sup>\[兴化\]\[泰县\]\[泰州\]</sup>嗳气。消化系统中气体经口排出：～饱。<sup>\[兴化\]</sup>｜才喝咖汽水，就～起来啊。<sup>\[泰县\]</sup>｜他今吖子喝咖多啊唻，嘴里就起一直～啊不歇。<sup>\[泰州\]</sup>｜他昨咖晚上吃咖伤吖，早上嘴里还在下～馊味。<sup>\[泰州\]</sup>  
 1. 【[䬵饱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_bo.md#䬵饱)】`kae2 bo3` ① <sup>\[如皋\]</sup>食后，胃中气自口出。 ② <sup>\[东台\]</sup>打饱嗝，吃饱后嗳气。  
 1. 【[䬵肥肉味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_fei_roh_vei.md#䬵肥肉味)】`kae2 fei2 roh8 vei6` <sup>[如皋]</sup> 见“䬵油味”。  
 1. 【[䬵油味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_ieu_vei.md#䬵油味)】`kae2 ieu2 vei6` <sup>[如皋]</sup> ① 䬵出荤食气味。 ② 状某人极富有，言语间有摆富的意思。 ③ 以话压人。  
@@ -145,7 +148,7 @@
 1. 【[楷<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_r.md#楷<sub>儿</sub>)】`kae3 r` <sup>[东台]</sup> 指人写的字：他的两个～不丑。  
 1. 【[螘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#螘)】`kae3` <sup>[如皋]</sup> 蚜虫。又称“腻虫”。  
 1. 【[箇<sub>许</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#箇<sub>许</sub>)】`kae5` 这里。箇许geh7 hae连读。  
-1. 【[隑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#隑)】`kae5` ① 靠在某处，倚靠 ② <sup>\[如东\]</sup>依靠：～啊墙上。<sup>\[如东\]</sup> ③ <sup>\[如皋\]</sup>斜靠、倚：～啊墙上。 ④ <sup>\[东台\]</sup>斜靠：倚墙～壁。<sup>\[东台\]</sup> ⑤ <sup>\[兴化\]</sup>斜倚者：～下来<sup>\[兴化\]</sup>｜上床～刻儿。<sup>\[兴化\]</sup> ⑥ <sup>\[兴化\]</sup>施延：～时间。<sup>\[兴化\]</sup> ⑦ <sup>\[兴化\]</sup>依赖：你～我，我～你。<sup>\[兴化\]</sup>｜谚曰：大懒～小懒，伙计～老板。《方言》十三<sup>\[兴化\]</sup>｜“～，倚也。”郭璞注<sup>\[兴化\]</sup>｜“江南人呼梯为～，所以～物而登者也。”《集韵·代韵》口溉切<sup>\[兴化\]</sup>｜“～，《博雅》陭也”。<sup>\[兴化\]</sup> ⑧ <sup>\[泰县\]</sup>斜靠，站立：你～啊门上做甚的？ ⑨ <sup>\[泰县\]</sup>斜靠：不要～啊那块。 ⑩ <sup>\[泰州\]</sup>使物体斜靠墙壁：你把这几根竹子先～啊墙上。<sup>\[泰州\]</sup> ⑪ <sup>\[泰州\]</sup>背部倚靠在物体上（休息）：他一到家就望沙发上一～看报纸。<sup>\[泰州\]</sup> ⑫ <sup>\[泰州\]</sup>由于不努力或其他原因致使任务拖延（*愒）：这桩事交把你有一个星期唻，明吖一定要交把我，不能再～啊。<sup>\[泰州\]</sup>｜这小伙做事死～，你要是不催住他弄，他有得同你拖啊。<sup>\[泰州\]</sup>  
+1. 【[隑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#隑)】`kae5` ① <sup>\[如东\]\[如皋\]\[东台\]\[兴化\]\[泰县\]\[泰州\]</sup>斜倚、倚靠：～啊墙上。<sup>\[如东\]</sup>｜～啊墙上。<sup>\[如皋\]</sup>｜倚墙～壁。<sup>\[东台\]</sup>｜～下来<sup>\[兴化\]</sup>｜上床～刻儿。<sup>\[兴化\]</sup>｜你～啊门上做甚的？<sup>\[泰县\]</sup>｜不要～啊那块。<sup>\[泰县\]</sup>｜你把这几根竹子先～啊墙上。<sup>\[泰州\]</sup>｜他一到家就望沙发上一～看报纸。<sup>\[泰州\]</sup> ② <sup>\[兴化\]</sup>依赖：你～我，我～你。<sup>\[兴化\]</sup>｜谚曰：大懒～小懒，伙计～老板。<sup>\[兴化\]</sup> ③ <sup>\[兴化\]\[泰州\]</sup>拖延：～时间。<sup>\[兴化\]</sup>｜这桩事交把你有一个星期唻，明吖一定要交把我，不能再～啊。<sup>\[泰州\]</sup>｜这小伙做事死～，你要是不催住他弄，他有得同你拖啊。<sup>\[泰州\]</sup>  
 1. 【[隑啊下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_a_ha.md#隑啊下)】`kae5 a ha` <sup>[如皋]</sup> 斜靠着。  
 1. 【[隑帮肘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_ban_zheu.md#隑帮肘)】`kae5 ban1 zheu3` <sup>[如东]</sup> 钉在帆船船舱两壁上的梁子，叫隑帮肘。  
 1. 【[隑背](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_bei.md#隑背)】`kae5 bei5` <sup>[如皋]</sup> ① 椅背或沙发背等。 ② 垫在背和背之间，用以缓和及调正姿势的软垫。  

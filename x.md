@@ -1232,7 +1232,7 @@
 1. 【[销售](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_sheu.md#销售)】`xio1 sheu6` <sup>[如东]</sup> 出卖（货物）。  
 1. 【[销账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_zhan.md#销账)】`xio1 zhan5` <sup>[如东]</sup> 销除账目内容。  
 1. 【[销子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_zz.md#销子)】`xio1 zz` ① <sup>\[如东\]</sup>一种形状像钉子一样的东西，横断面多呈圆形，用来插在器物中，使之连接或固定。也叫销钉。 ② <sup>\[东台\]</sup>插在器物中起连接或固定作用的金属棍。  
-1. 【[𢳚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio.md#𢳚)】`xio1` ① <sup>\[如皋\]</sup>揭、掀：～被单、～锅盖、～书。 ② <sup>\[如东\]</sup>揭开来：～书。<sup>\[如东\]</sup> ③ <sup>\[兴化\]</sup>揭开、掀开：把毯子～开来。<sup>\[兴化\]</sup>｜众人……赶紧～开账子看，只见病人已经挣扎着爬起来了。（《官场现形记》六十）<sup>\[兴化\]</sup> ④ <sup>\[泰县\]</sup>翻开，揭开：～开毯子看看。 ⑤ <sup>\[泰州\]</sup>揭开，掀开覆盖之物：你把锅盖～开来望啊子。<sup>\[泰州\]</sup>｜把毯子～开来。<sup>\[泰州\]</sup>  
+1. 【[𢳚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio.md#𢳚)】`xio1` <sup>\[如皋\]\[如东\]\[兴化\]\[泰县\]\[泰州\]</sup>揭、掀：～被单、～锅盖、～书。<sup>\[如皋\]</sup>｜～书。<sup>\[如东\]</sup>｜把毯子～开来。<sup>\[兴化\]</sup>｜众人一齐吃了一惊，赶紧枭开帐子一看，只见病人已经挣扎著爬起来了。（《官场现形记》六十）<sup>\[兴化\]</sup>｜～开毯子看看。<sup>\[泰县\]</sup>｜你把锅盖～开来望啊子。<sup>\[泰州\]</sup>｜把毯子～开来。<sup>\[泰州\]</sup>  
 1. 【[𢳚宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_bo.md#𢳚宝)】`xio1 bo3` ① <sup>\[如皋\]</sup>揭开谜底，公布真相。 ② <sup>\[兴化\]</sup>揭晓、揭底：再过两三个月，她身子出咖怀，两个人的事就～啊。<sup>\[兴化\]</sup>  
 1. 【[𢳚开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_kae.md#𢳚开)】`xio1 kae1` <sup>[东台]</sup> 打开；掀开；翻开（𢳚，有掀、翻、揭去遮掩物等意）：把书～来｜～被单看伤口。  
 1. 【[𢳚老底子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_lo_di_zz.md#𢳚老底子)】`xio1 lo3 di3 zz` <sup>[如皋]</sup> 揭底：你帮他～，他就站不住脚。  
