@@ -55,7 +55,7 @@
 1. 【[阿弥陀佛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_mi_tu_feh.md#阿弥陀佛)】`u1 mi tu2 feh8` <sup>[如皋]</sup> 幸灾乐祸。  
 1. 【[阿弥陀佛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_mi_tu_feh.md#阿弥陀佛)】`u1 mi2 tu2 feh8` <sup>[如东]</sup> ① 大乘佛教的教名。是“西方极乐世界”的教主，为净士宗主要信仰对象。也译作无量寿佛或无量光佛。后世所谓念佛，多指念阿弥陀佛名号。信佛的人口头诵念佛号，表示祈祷或感谢神灵的意思。 ② 比喻善良忠厚的人。泛指老好人：他是一个～。 ③ 表示兴灾乐祸：～！到底出咖事。  
 1. 【[唩啰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_lu.md#唩啰)】`u2 lu2` <sup>[如皋]</sup> 唤犬声。  
-1. 【[涴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u.md#涴)】`u5` ① <sup>\[如皋\]</sup>作～：指大小便失禁，到处弄脏。 ② <sup>\[兴化\]</sup>污渍：衣裳上有两片～斑，洗来洗去也洗不干净。<sup>\[兴化\]</sup> ③ <sup>\[兴化\]</sup>被污损的东西：～卷。<sup>\[兴化\]</sup> ④ <sup>\[兴化\]</sup>漫漶：墨水～开来啊。<sup>\[兴化\]</sup> ⑤ <sup>\[泰州\]</sup>有色液体渗向四周：毛笔上墨汁太多，把宣纸都弄吖～啊来。<sup>\[泰州\]</sup>｜他肩膀上的皮捱磨掉啊，白衬衫上都～啊血。<sup>\[泰州\]</sup>  
+1. 【[涴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u.md#涴)】`u5` ① <sup>\[如皋\]</sup>作～：指大小便失禁，到处弄脏。 ② <sup>\[兴化\]</sup>污渍：衣裳上有两片～斑，洗来洗去也洗不干净。<sup>\[兴化\]</sup> ③ <sup>\[兴化\]</sup>被污损的东西：～卷。<sup>\[兴化\]</sup> ④ <sup>\[兴化\]\[泰州\]</sup>洇渗：墨水～开来啊。<sup>\[兴化\]</sup>｜毛笔上墨汁太多，把宣纸都弄吖～啊来。<sup>\[泰州\]</sup>｜他肩膀上的皮捱磨掉啊，白衬衫上都～啊血。<sup>\[泰州\]</sup>  
 1. 【[涴不清](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_beh_qien.md#涴不清)】`u5 beh qien1` <sup>[泰县]</sup> 搞不清楚不清：他～，你把事情的经过由头至尾说一下。  
 1. 【[涴鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_ji.md#涴鸡)】`u5 ji1` <sup>[泰县]</sup> 不守信誉：这个人打牌会～。  
 1. 【[涴蛮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_maen.md#涴蛮)】`u5 maen2` <sup>[泰县]</sup> 胡闹：你不要～，你家穷不穷我俫心里有数。  
