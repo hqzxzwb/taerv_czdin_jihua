@@ -1273,7 +1273,6 @@
 1. 【[见眼生勤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_ngaen_shen_qien.md#见眼生勤)】`jin5 ngaen3 shen1 qien2` <sup>[东台]</sup> 与“见麻”近义。有眼头见识、勤快：这青年懂事，遇事～，主动积极。  
 1. 【[见眼生情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_ngaen_shen_qien.md#见眼生情)】`jin5 ngaen3 shen1 qien2` ① <sup>\[如皋\]</sup>勤快而灵活，适时的忙个不停。 ② <sup>\[兴化\]</sup>思维敏捷，反应及时、得体：小刘神气，能～，揣摩老板的心思。<sup>\[兴化\]</sup>  
 1. 【[见气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_qi.md#见气)】`jin5 qi5` ① <sup>\[如皋\]</sup>生气：告诉你，你不要～。 ② <sup>\[兴化\]</sup>生气、动气：“……少爷是读书君子，谅该体贴我们，不用～。”（《广陵潮》五二）<sup>\[兴化\]</sup>  
-1. 【[见强](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_qian.md#见强)】`jin5 qian2` <sup>[如东]</sup> 好胜，争上风。如东词典作“竞强”：不要～。  
 1. 【[见吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_qieh.md#见吃)】`jin5 qieh7` <sup>[兴化]</sup> ① 某种食品比其他食品吃的时间长：饼干比蛋糕～。 ② 进餐速度慢：你这顿饭～吤，从开锅吃到现在还不丢碗。  
 1. 【[见情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_qien.md#见情)】`jin5 qien2` ① <sup>\[如皋\]</sup>体现情意，也表示谢意。 ② <sup>\[东台\]</sup>对帮助自己的人心存感激。 ③ <sup>\[兴化\]</sup>表达感激之情：他给人帮点忙总要人家～。<sup>\[兴化\]</sup>  
 1. 【[见钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_qin.md#见钱)】`jin5 qin2` ① <sup>\[如东\]</sup>觉得价钱高：这双鞋子～哎。<sup>\[如东\]</sup> ② <sup>\[如皋\]</sup>觉得价格高昂：这种衣裳好是好，就是～哎！  
