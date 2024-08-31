@@ -485,6 +485,7 @@
 1. 【[不成器](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_chen_qi.md#不成器)】`beh7 chen qi5` <sup>[泰兴]</sup> 比喻不成才，没出息。  
 1. 【[不成材](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_chen_cae.md#不成材)】`beh7 chen2 cae2` <sup>[如东]</sup> 没有长成有用的木材。比喻没有才能，没有出息：这个伢儿懒，～。  
 1. 【[不成器](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_chen_qi.md#不成器)】`beh7 chen2 qi5` <sup>[如东]</sup> ① 没有做成有用的器具。 ② 比喻没有出息：这个伢儿～。 ③ 比喻不正经：这个人到老都～。  
+1. 【[不成人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_chen_ren.md#不成人)】`beh7 chen2 ren` <sup>[泰兴]</sup> 称没有出息为不成人。也指行为不端。  
 1. 【[不成文](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_chen_ven.md#不成文)】`beh7 chen2 ven` <sup>[泰兴]</sup> 不上规矩，不按道德常理行事处世：箇个伢儿太～，起码的礼节都不懂。  
 1. 【[不成文](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_chen_ven.md#不成文)】`beh7 chen2 ven2` <sup>[兴化]</sup> 不规范、不配套：你买的这几件家具格式不同，颜色又杂，～。｜你这件衣裳不棉、不夹，真～。  
 1. 【[不丑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_cheu.md#不丑)】`beh7 cheu3` ① <sup>\[如东\]</sup>好看，不错：这种款式～。<sup>\[如东\]</sup> ② <sup>\[如皋\]</sup>好：模样～、口味～。<sup>\[如皋\]</sup> ③ <sup>\[东台\]</sup>好看； ④ <sup>\[东台\]</sup>质量好。 ⑤ <sup>\[兴化\]</sup>好、行：“你的良心～，我教你个方法可以不必往外逃……”（兴文《屋檐插柳话清明》）<sup>\[兴化\]</sup>｜村里人很喜欢凑热闹，说王二唱得～，有板有眼，有腔有调。（兴文《挨板子》）<sup>\[兴化\]</sup> ⑥ <sup>\[泰县\]</sup>比较好：这伢儿长得～。<sup>\[泰县\]</sup>  
@@ -507,6 +508,7 @@
 1. 【[不打䛏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_da_ni.md#不打䛏)】`beh7 da3 ni6` <sup>[如皋]</sup> 常作口头禅，意为“认真地”：这个价钱，～，打九折把你，再少不能卖啊。  
 1. 【[不打时辰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_da_shr_chen.md#不打时辰)】`beh7 da3 shr2 chen` <sup>[东台]</sup> 不耽误时间。  
 1. 【[不打心上来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_da_xien_shan_lae.md#不打心上来)】`beh7 da3 xien1 shan6 lae2` <sup>[如东]</sup> 不满意，不高兴：你买的箇件衣裳我～。  
+1. 【[不打嘴里过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_da_zuei_lii.md#不打嘴里过)】`beh7 da3 zuei3 lii gu5` <sup>[泰兴]</sup> 谓说话不经思考，不负责任。  
 1. 【[不带](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_dae.md#不带)】`beh7 dae5` <sup>[如东]</sup> 不算，不允许。  
 1. 【[不带虚头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_dae_xy_teu.md#不带虚头)】`beh7 dae5 xy1 teu` <sup>[如东]</sup> 不算假数字：～，你要多少钱？  
 1. 【[不搭界](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_daeh_ga.md#不搭界)】`beh7 daeh7 ga5` <sup>[如皋]</sup> 无关，无联系：两件事互相～。  
@@ -577,6 +579,8 @@
 1. 【[不关风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_guaen_fon.md#不关风)】`beh7 guaen1 fon1` <sup>[如皋]</sup> ① 门牙缺损，影响发音。见“豁䶕齿”。 ② 说话随便，露出机密。  
 1. 【[不光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_guan.md#不光)】`beh7 guan1` <sup>[如东]</sup> 不止，不仅：～他一个人。  
 1. 【[不光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_guan.md#不光)】`beh7 guan1` <sup>[泰兴]</sup> 不但，不仅，不仅仅是：～是你不要去，其他人也不要去。  
+1. 【[不佮节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_guh_jih.md#不佮节)】`beh7 guh7 jih7` <sup>[泰兴]</sup> 不和，不协调：他佼两个人～。  
+1. 【[不佮算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_guh_sun.md#不佮算)】`beh7 guh7 sun` <sup>[泰兴]</sup> 划不来。  
 1. 【[不干净](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_gun_qien.md#不干净)】`beh7 gun1 qien` <sup>[如皋]</sup> 迷信者称异象：这条河里～，有河落鬼作怪。  
 1. 【[不敢当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_gun_dan.md#不敢当)】`beh7 gun3 dan1` <sup>[如东]</sup> ① 当不起。 ② 对别人的赞誉表示不相称的一种谦词。  
 1. 【[不赶寒气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_gun_hun_qi.md#不赶寒气)】`beh7 gun3 hun2 qi5` <sup>[如皋]</sup> 不起作用，不显效、无效。与需要的程度相距甚远。  
@@ -620,6 +624,8 @@
 1. 【[不肯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_ken.md#不肯)】`beh7 ken3` ① 不愿意 ② 不容易，很难发生某事：～坏/不容易坏  
 1. 【[不肯上圆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_ken_shan_iun.md#不肯上圆)】`beh7 ken3 shan6 iun2` <sup>[东台]</sup> 不愿意协助把事情办好。  
 1. 【[不空房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_kon_fan.md#不空房)】`beh7 kon5 fan2` <sup>[如皋]</sup> 结婚正日前夕，新房收拾好后，由新郎偕小伙子同宿，俗说辟邪。  
+1. 【[不共](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_kon.md#不共)】`beh7 kon6` <sup>[泰兴]</sup> 不共事，不相处：我同箇种人～。  
+1. 【[不可当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_ku_dan.md#不可当)】`beh7 ku3 dan1` <sup>[泰兴]</sup> 不得了：那年蝗灾，蝗虫多得～，漫天盖地飞舞。  
 1. 【[不可开交](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_ku_kae_jio.md#不可开交)】`beh7 ku3 kae1 jio1` <sup>[如东]</sup> 无法摆脱或结束：闹得～。  
 1. 【[不可开交](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_ku_kae_jio.md#不可开交)】`beh7 ku3 kae1 jio1` <sup>[泰兴]</sup> 喻无法解脱：忙得～。  
 1. 【[不快活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_kuae_huh.md#不快活)】`beh7 kuae5 huh8` <sup>[如东]</sup> ① 不高兴。 ② 忌妒。  
@@ -638,6 +644,7 @@
 1. 【[不冷不热](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_len_beh_rih.md#不冷不热)】`beh7 len3 beh7 rih8` <sup>[如东]</sup> ① 气候温和：天气～的，真舒服。 ② 比喻不太亲热：她对他～的，住不下去。  
 1. 【[不理不睬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_li_beh_cae.md#不理不睬)】`beh7 li3 beh7 cae3` <sup>[如东]</sup> 不答理。例  
 1. 【[不玲珑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_lien_lon.md#不玲珑)】`beh7 lien2-3 lon` <sup>[东台]</sup> 反应迟钝，不灵敏。  
+1. 【[不了了之](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_lio_lio_zhr.md#不了了之)】`beh7 lio3 lio3 zhr1` <sup>[泰兴]</sup> 把未了的事情放在一边不去管它，就算完事：上次的账也不曾算清，就箇样子～。  
 1. 【[不笼懂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_lon_don.md#不笼懂)】`beh7 lon2 don3` <sup>[兴化]</sup> 不清楚：他说咖半天我都听～。｜他俫的关系我～。  
 1. 【[不拢边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_lon_bin.md#不拢边)】`beh7 lon3 bin1` <sup>[东台]</sup> 有意回避，不靠近：那小伙忤逆，老子生病他都～。  
 1. 【[不敏吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_mien_qieh.md#不敏吃)】`beh7 mien3 qieh7` <sup>[东台]</sup> 也作不惹吃。即不喜欢吃。  
@@ -660,6 +667,7 @@
 1. 【[不怕慢，只怕掼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_pa_maen_zheh_pa_kuaen.md#不怕慢，只怕掼)】`beh7 pa5 maen6 zheh7 pa5 kuaen6` <sup>[东台]</sup> 浪费和折腾比慢速损失大。  
 1. 【[不碰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_pon.md#不碰)】`beh7 pon5` ① <sup>\[兴化\]</sup>不沾边：他烟、酒、麻将全～。<sup>\[兴化\]</sup> ② <sup>\[兴化\]</sup>互不交往。也作“不遇”：他俫性情不投，两个人～。<sup>\[兴化\]</sup> ③ <sup>\[泰县\]</sup>不团结。  
 1. 【[不起眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_qi_ngaen.md#不起眼)】`beh7 qi3 ngaen3` ① <sup>\[如东\]</sup>不引人关注：这点儿货～。<sup>\[如东\]</sup> ② <sup>\[东台\]</sup>微不足道，很不醒目。  
+1. 【[不忌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_qi.md#不忌)】`beh7 qi6` <sup>[泰兴]</sup> 不忌讳。见“无忌”。  
 1. 【[不忌偏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_qi_pin.md#不忌偏)】`beh7 qi6 pin1` <sup>[东台]</sup> 不忌讳某些风俗。  
 1. 【[不强意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_qian_i.md#不强意)】`beh7 qian2-qia2 i5` <sup>[东台]</sup> 没想到：～他冒雨赶到。  
 1. 【[不详意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_qian_i.md#不详意)】`beh7 qian2-qia2 i5` <sup>[如皋]</sup> ① 致歉语，意为不经意：我～碰吖你啦，对不起！ ② 出乎意料：才离啊几年，～他倒成吖博士。  
@@ -707,6 +715,8 @@
 1. 【[不上路子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_shan_lv_zz.md#不上路子)】`beh7 shan6 lv6 zz` <sup>[如皋]</sup> 见“不上道儿”。  
 1. 【[不上谱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_shan_pv_r.md#不上谱<sub>儿</sub>)】`beh7 shan6 pv3 r` <sup>[如皋]</sup> 见“不上道儿”。  
 1. 【[不上师](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_shan_shr.md#不上师)】`beh7 shan6 shr1` <sup>[如东]</sup> 不上规矩：这个伢儿～。  
+1. 【[不上算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_shan_sun.md#不上算)】`beh7 shan6 sun5` <sup>[泰兴]</sup> 不合算，吃亏：有的村民认为植树造林～，不愿意承包。  
+1. 【[不上台面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_shan_tae_min.md#不上台面)】`beh7 shan6 tae2 min` <sup>[泰兴]</sup> 喻俚俗卑下，拿不出手，见不得人：他的那些三朋四友，总是～的人。｜找啊个猥琐寡语，～的新娘子。  
 1. 【[不上台盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_shan_tae_pun.md#不上台盘)】`beh7 shan6 tae2 pun2` <sup>[如皋]</sup> ① 理由不成立，得不到大家认可。 ② 小神气、小聪明上不了大场面。  
 1. 【[不上道<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_shan_to_r.md#不上道<sub>儿</sub>)】`beh7 shan6 to6 r` <sup>[如皋]</sup> 不按规矩说话做事。  
 1. 【[不上相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_shan_xian.md#不上相)】`beh7 shan6 xian5` ① <sup>\[如东\]</sup>不上规矩：这个伢儿～。<sup>\[如东\]</sup> ② <sup>\[如东\]</sup>做事不认真：你今朝做东西～。<sup>\[如东\]</sup> ③ <sup>\[东台\]</sup>照片没有真人好看。 ④ <sup>\[东台\]</sup>［引］形象不好。  
