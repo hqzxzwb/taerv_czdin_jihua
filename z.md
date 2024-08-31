@@ -922,9 +922,9 @@
 1. 【[占押](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_ngaeh.md#占押)】`zhin5 ngaeh7` <sup>[泰县]</sup> 占了别人的便宜。  
 1. 【[占便宜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_pin_i.md#占便宜)】`zhin5 pin2 i` <sup>[东台]</sup> ① 用不正当的方法，取得额外利益。 ② 双方开玩笑，讨别人的巧。  
 1. 【[占强](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_qian.md#占强)】`zhin5 qian2` <sup>[如皋]</sup> 持强多占：这个小伙～，比别人多吃多拿，还不让人说他。  
+1. 【[占强](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_qian.md#占强)】`zhin5 qian2` <sup>[东台]</sup> 好争斗，强势明显者。  
 1. 【[占强](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_qian.md#占强)】`zhin5 qian2` <sup>[如东]</sup> 好胜，争上风：不要～。  
 1. 【[占身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_shen.md#占身)】`zhin5 shen1` <sup>[兴化]</sup> 靠近身体：他和人打架时不让人～。｜智深不等他～，右脚早起，腾的把李四先踢下粪窖里去。（《水浒传》七）  
-1. 【[战强](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_qian.md#战强)】`zhin5 qian2` <sup>[东台]</sup> 好争斗，强势明显者。  
 1. 【[招](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho.md#招)】`zho1` ① <sup>\[如皋\]</sup>招认、供认。 ② <sup>\[兴化\]</sup>掖，把被子或衣服的下部往里折叠：把脚头被子～好。<sup>\[兴化\]</sup>｜把裤脚子～起一边来。<sup>\[兴化\]</sup> ③ <sup>\[泰州\]</sup>将被子边侧掖进身体下面：晚上睏觉前，同伢儿把被单～～好。<sup>\[泰州\]</sup> ④ <sup>\[泰州\]</sup>将上衣下摆掖进裤子里：你穿衣裳怎吖这吖马虎，连个衬衫都不曾～得好。<sup>\[泰州\]</sup>  
 1. 【[招啊家里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_a_ga_lii.md#招啊家里)】`zho1 a ga1 lii` <sup>[如皋]</sup> 见“招女婿”。  
 1. 【[招边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_bin.md#招边)】`zho1 bin1` <sup>[兴化]</sup> 缝纫方法，把衣物的毛边折叠并缝起来。  
