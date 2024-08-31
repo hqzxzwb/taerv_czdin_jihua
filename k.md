@@ -72,7 +72,7 @@
 1. 【[开间](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_jiaen.md#开间)】`kae1 jiaen1` <sup>[泰兴]</sup> 七架梁、五架梁房屋的宽度，一般约一丈左右。泛指房屋的宽度。  
 1. 【[开脚锚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_jiah_mo.md#开脚锚)】`kae1 jiah7 mo2` <sup>[如东]</sup> 帆船上抛在远处的一只锚，叫开脚锚。  
 1. 【[开经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_jien.md#开经)】`kae1 jien1` <sup>[如东]</sup> 埋葬死者的坟坑，正孝子先挖三锹土，叫做开经。然后再由其他人挖完。  
-1. 【[开交](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_jio.md#开交)】`kae1 jio1` ① <sup>\[如东\]</sup>解决发生的纠纷：不得～。<sup>\[如东\]</sup> ② <sup>\[如皋\]</sup>给予，使离开。  
+1. 【[开交](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_jio.md#开交)】`kae1 jio1` ① <sup>\[如东\]</sup>解决发生的纠纷：不得～。<sup>\[如东\]</sup> ② <sup>\[如皋\]</sup>给予，使离开。 ③ <sup>\[泰兴\]</sup>排解，结束：忙得不可～。<sup>\[泰兴\]</sup>  
 1. 【[开口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_keu.md#开口)】`kae1 keu3` ① <sup>\[如东\]</sup>物体张开口子：棉桃～。<sup>\[如东\]</sup> ② <sup>\[如东\]</sup>比喻说话：她终于开啊口。<sup>\[如东\]</sup> ③ <sup>\[兴化\]</sup>初生婴儿开始吃奶：连日忙着买化毒丹、甘草、勾藤、胡黄连，替小儿～……（《广陵潮》六）<sup>\[兴化\]</sup>  
 1. 【[开口子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_keu_zz.md#开口子)】`kae1 keu3 zz` <sup>[东台]</sup> ［喻］突破规定办事。  
 1. 【[开领](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_lien.md#开领)】`kae1 lien3` <sup>[如皋]</sup> 裁剪上装的关键工序，剪出与衣领连接的心形缺口。  
