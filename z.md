@@ -651,7 +651,7 @@
 1. 【[只将](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_jian.md#只将)】`zheh7 jian` <sup>[兴化]</sup> ① 尽管：你有话～说，覅有顾虑。 ② 不停地：他在跟前～转来转去，烦煞咖！  
 1. 【[只将](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_jian.md#只将)】`zheh7 jian5` <sup>[东台]</sup> 一个劲地、连续不断地做某事：小孩抓到好吃的～吃。  
 1. 【[只究](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_jieu.md#只究)】`zheh7 jieu5` <sup>[泰县]</sup> 一直：他～说个不停。  
-1. 【[只叫个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_jio_gu.md#只叫个)】`zheh7 jio5 gu` ① <sup>\[如东\]</sup>怎么这样：王二扎的兔儿灯～好（就是好，非常好）。<sup>\[如东\]</sup> ② <sup>\[泰县\]</sup>怎么这样，就是：他跑得～快，你难跟得上。<sup>\[泰县\]</sup> ③ <sup>\[如皋\]</sup>真正、实在：～好、～值钱、～灵光、西北风～吹人子、他～狠。<sup>\[如皋\]</sup>  
+1. 【[只叫个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_jio_gu.md#只叫个)】`zheh7 jio5 gu` <sup>\[如东\]\[泰县\]\[如皋\]\[泰兴\]</sup>真正、实在、的确：王二扎的兔儿灯～好（就是好，非常好）。<sup>\[如东\]</sup>｜他跑得～快，你难跟得上。<sup>\[泰县\]</sup>｜～好、～值钱、～灵光、西北风～吹人子、他～狠。<sup>\[如皋\]</sup>｜今朝箇些菜～开味。<sup>\[泰兴\]</sup>  
 1. 【[只看见强盗吃肉，看不见强盗受罪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_kun_jin_qian_to_qieh_roh_kun_beh_jin_qian_to_sheu_qy.md#只看见强盗吃肉，看不见强盗受罪)】`zheh7 kun5 jin5 qian2 to qieh7 roh8 kun5 beh7 jin5 qian2 to sheu6 qy6` <sup>[如皋]</sup> 俗语。  
 1. 【[只飘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_pio.md#只飘)】`zheh7 pio1` <sup>[如皋]</sup> 一直不断地飘动：风筝断吖线，在天上～。  
 1. 【[只是](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_shr.md#只是)】`zheh7 shr6` <sup>[如皋]</sup> 连续不断地。  

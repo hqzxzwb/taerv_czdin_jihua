@@ -50,6 +50,8 @@
 1. 【[开初](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_chv.md#开初)】`kae1 chv1` ① <sup>\[如皋\]</sup>开始之时。 ② <sup>\[如皋\]</sup>一开始，起初。 ③ <sup>\[如皋\]</sup>当初。 ④ <sup>\[兴化\]</sup>开始、起初：这门亲事我～就有看法。<sup>\[兴化\]</sup>  
 1. 【[开打头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_da_teu.md#开打头)】`kae1 da3 teu2` <sup>[东台]</sup> 原先，当初。  
 1. 【[开裆裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_dan_kv.md#开裆裤)】`kae1 dan1 kv5` <sup>[如东]</sup> 裤裆开口的裤子。  
+1. 【[开裆裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_dan_kv.md#开裆裤)】`kae1 dan1 kv5` <sup>[泰兴]</sup> 幼儿穿的裆不缝合的裤子。  
+1. 【[开方子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_fan_zz.md#开方子)】`kae1 fan1 zz` <sup>[泰兴]</sup> 开药方。  
 1. 【[开间](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_gaen.md#开间)】`kae1 gaen1` ① <sup>\[如东\]</sup>平房房间的横向长度。 ② <sup>\[如皋\]</sup>室内宽度，与“进深”相对。 ③ <sup>\[兴化\]</sup>指房屋的宽度：三米～<sup>\[兴化\]</sup>｜五米～。<sup>\[兴化\]</sup>  
 1. 【[开工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_gon.md#开工)】`kae1 gon1` <sup>[如东]</sup> ① 工程开始：楼房明朝～。 ② 开始工作。  
 1. 【[开工酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_gon_jieu.md#开工酒)】`kae1 gon1 jieu3` ① <sup>\[如东\]</sup>工程开始而举办的酒筵。 ② <sup>\[如皋\]</sup>一项工程或农事开始时主家款待工人的酒宴。收工时则吃“收工酒”。  
@@ -90,7 +92,8 @@
 1. 【[开门头市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_men_teu_shr.md#开门头市)】`kae1 men2 teu2 shr6` <sup>[如东]</sup> 第一次交易：～就很好。  
 1. 【[开门戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_men_xi.md#开门戏)】`kae1 men2 xi5` ① <sup>\[如皋\]</sup>演戏散场前，把门打开，让观众陆续退场，此时外面的人可进场免费看戏，此为开门戏。 ② <sup>\[兴化\]</sup>旧时剧场演戏，至散场前半小时左右即打开大门，让人自由进去观赏：谚曰：～好看，伺候难当。<sup>\[兴化\]</sup>  
 1. 【[开门戏好看——难等](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_men_xi_ho_kun_naen_den.md#开门戏好看——难等)】`kae1 men2 xi5 ho3 kun5 naen2 den3` <sup>[如皋]</sup> 等到最后才能看到。  
-1. 【[开蒙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_mon.md#开蒙)】`kae1 mon2` <sup>[如东]</sup> 小孩第一欢进私塾读书，称开蒙。  
+1. 【[开蒙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_mon.md#开蒙)】`kae1 mon2` <sup>[如东]</sup> 小孩第一次进私塾读书，称开蒙。  
+1. 【[开蒙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_mon.md#开蒙)】`kae1 mon2` <sup>[泰兴]</sup> 旧时私塾教儿童开始学习或识字，亦泛指教导初学者：《三字经》、《百家姓》、《千字文》箇些总是那时候～读的书。  
 1. 【[开蒙儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_mon_er.md#开蒙儿)】`kae1 mon2 er2` <sup>[泰县]</sup> 刚上学的孩子。  
 1. 【[开蒙<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_mon_r.md#开蒙<sub>儿</sub>)】`kae1 mon2 r` <sup>[兴化]</sup> 旧指儿童入塾接受启蒙教有：～的先生。  
 1. 【[开奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_nae.md#开奶)】`kae1 nae3` <sup>[如皋]</sup> 初生儿开始吃奶。旧时在“洗三”日。后来不限。  
@@ -121,11 +124,15 @@
 1. 【[开胃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_vei.md#开胃)】`kae1 vei5` <sup>[兴化]</sup> 开玩笑：你覅拿老实人～吧！  
 1. 【[开胃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_vei.md#开胃)】`kae1 vei5` <sup>[泰兴]</sup> 增进食欲：箇药吃咖就开胃lo。  
 1. 【[开味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_vei.md#开味)】`kae1 vei6` <sup>[兴化]</sup> 开心：取经和尚找话说，八百里通天河大水烧开了，是拿人～，三更天的梦话。（扬一《通天河》）  
+1. 【[开味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_vei.md#开味)】`kae1 vei6` <sup>[泰兴]</sup> 味道鲜美：今朝箇些菜只叫个～。  
 1. 【[开心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_xien.md#开心)】`kae1 xien1` ① <sup>\[如东\]\[泰兴\]</sup>高兴，快乐，愉悦。 ② <sup>\[如东\]\[泰兴\]</sup>开玩笑：你不要拿我～。<sup>\[如东\]</sup>｜我同他～的，他倒当吖真。<sup>\[泰兴\]</sup>  
-1. 【[开销](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_xio.md#开销)】`kae1 xio1` <sup>[如东]</sup> 日常开支：。很大。  
+1. 【[开销](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_xio.md#开销)】`kae1 xio` <sup>[泰兴]</sup> 花费、支付其所应支用的经费：今朝的中饭开销五百多块钱。  
+1. 【[开销](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_xio.md#开销)】`kae1 xio1` <sup>[如东]</sup> 日常开支：～很大。  
 1. 【[开小伙<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_xio_hu_r.md#开小伙<sub>儿</sub>)】`kae1 xio3 hu3 r` <sup>[如皋]</sup> 开小灶。  
+1. 【[开小灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_xio_zo.md#开小灶)】`kae1 xio3 zo5` <sup>[泰兴]</sup> 喻（在伙食或其它某个方面）特殊照顾：同他补补课，开开小灶。  
 1. 【[开小灶<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_xio_zo_r.md#开小灶<sub>儿</sub>)】`kae1 xio3 zo5 r` <sup>[如皋]</sup> 开小灶。  
 1. 【[开作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_zah.md#开作)】`kae1 zah7` ① <sup>\[如东\]</sup>作坊开工：油坊明朝～。<sup>\[如东\]</sup> ② <sup>\[如皋\]</sup>开工，与“歇作”相对。  
+1. 【[开斋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_zhae.md#开斋)】`kae1 zhae1` <sup>[泰兴]</sup> 吃素的人开始恢复吃荤。借指一般人解除生活上的禁忌，如吸烟、喝酒等。  
 1. 【[开债](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_zhae.md#开债)】`kae1 zhae5` <sup>[如皋]</sup> 给一个个债主偿还债务。  
 1. 【[开张](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_zhan.md#开张)】`kae1 zhan1` <sup>[如东]</sup> 商店开始营业。也称开业。  
 1. 【[开支](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_zhr.md#开支)】`kae1 zhr1` <sup>[如东]</sup> 支付费用。  

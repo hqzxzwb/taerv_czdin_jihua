@@ -852,8 +852,10 @@
 1. 【[井底泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_di_ni.md#井底泥)】`jien3 di3 ni2` <sup>[如东]</sup> 淤积在井底的灰黑色泥土。  
 1. 【[井甃子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_duh_zz.md#井甃子)】`jien3 duh7 zz` ① <sup>\[如东\]</sup>井壁的层次。一层为一甃。 ② <sup>\[如皋\]</sup>井壁的每一层。甃又是井深的量词，每甃为一井砖的长度，现代用标准砖为24cm：18甃、24甃、30甃。  
 1. 【[井滉凉水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_huan_lian_shuei.md#井滉凉水)】`jien3 huan5 lian2 shuei3` <sup>[如皋]</sup> 夏天的井水，使人觉得清凉而舒适。  
+1. 【[井要淘，人要教](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_io_to_ren.md#井要淘，人要教)】`jien3 io5 to2 ren2 io5 jio5` <sup>[泰兴]</sup> 井要常淘水才能正常滲出：人要教育才能成才。  
 1. 【[井栏边草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_laen_bin_co.md#井栏边草)】`jien3 laen2 bin1 co3` <sup>[如东]</sup> 凤尾蕨科植物亮凤尾蕨草，常绿多年生草本。  
 1. 【[井水粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_shuei_zhoh.md#井水粥)】`jien3 shuei3 zhoh7` <sup>[如皋]</sup> 井水煮的粥。井水质硬，煮的饭、粥适口。  
+1. 【[井忑咖吊桶里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_teh_ga_dio.md#井忑咖吊桶里)】`jien3 teh7 ga dio5 ton lii` <sup>[泰兴]</sup> 喻事情反常。  
 1. 【[井潭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_tun.md#井潭)】`jien3 tun2` <sup>[如东]</sup> 干旱时，在河底挖土井，叫井潭。  
 1. 【[井砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zhun.md#井砖)】`jien3 zhun1` <sup>[如皋]</sup> 水井壁专用砖，横截面呈梯形。有的还有榫和榫眼，不易松动变形。  
 1. 【[井子舱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zz_can.md#井子舱)】`jien3 zz can1` <sup>[如东]</sup> 帆船的第4舱，是贮存淡水的舱室。也叫水井舱。  
