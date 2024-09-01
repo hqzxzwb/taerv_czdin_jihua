@@ -55,7 +55,7 @@ def main():
               file_content += (f"  * {cont.source}\n")
             sub_meaning = meaning.subs[0]
             for example in sub_meaning.examples:
-              file_content += (f"    - {example}\n")
+              file_content += (f"  - {example}\n")
 
     ranges_to_delete.sort(key=lambda r: r[0])
     file_content = remove_matches(file_content, ranges_to_delete)
