@@ -1523,7 +1523,7 @@
 1. 【[砖头佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_teu_lo_r.md#砖头佬<sub>儿</sub>)】`zhun1 teu2 lo3 r` <sup>[泰县]</sup> ① 断砖。 ② 为别人泄愤：你不能老是叫我去撂～。  
 1. 【[砖头瓦瓣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_teu_va_baen_r.md#砖头瓦瓣<sub>儿</sub>)】`zhun1 teu2 va3 baen5 r` <sup>[东台]</sup> 碎砖碎瓦等建筑垃圾。  
 1. 【[转场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_chan.md#转场)】`zhun3 chan2` <sup>[兴化]</sup> 暂停争执，使气氛缓和：你不要硬顶，转个场再说。｜你先回避一下，好让他有个～。  
-1. 【[转潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_cho.md#转潮)】`zhun3 cho2` ① <sup>\[如皋\]</sup>空气湿度大，物体由干变䵑乃至潮湿。 ② <sup>\[东台\]</sup>本来干燥的物品，吸收了空气中的水分，变潮湿了。 ③ <sup>\[兴化\]</sup>由于空气湿度大，居室和物品沾有水汽：“你望，你父亲那件老夹袄今天～，水都快往下滴了。”（兴文：《小癞子招驸马》）  
+1. 【[转潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_cho.md#转潮)】`zhun3 cho2` ① <sup>\[如皋\]</sup>空气湿度大，物体由干变䵑乃至潮湿。 ② <sup>\[东台\]</sup>本来干燥的物品，吸收了空气中的水分，变潮湿了。 ③ <sup>\[兴化\]</sup>由于空气湿度大，居室和物品沾有水汽：你望，你父亲那件老夹袄今天～，水都快往下滴了。（兴文：《小癞子招驸马》）<sup>\[兴化\]</sup>  
 1. 【[转刀<sub>儿</sub>块子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_do_r_kuae_zz.md#转刀<sub>儿</sub>块子)】`zhun3 do1 r kuae5 zz` <sup>[如皋]</sup> 切一刀，转一下，切成有棱角的块子。  
 1. 【[转角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_gah.md#转角)】`zhun3 gah7` <sup>[东台]</sup> 拐弯处。  
 1. 【[转瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_gua.md#转瓜)】`zhun3 gua1` <sup>[东台]</sup> 番瓜，即南瓜。渔民避讳语。因番的谐音翻，故避讳。  
@@ -1665,7 +1665,7 @@
 1. 【[主烧不一当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_sho_beh_ieh_dan.md#主烧不一当)】`zhv3 sho1 beh7 ieh7 dan` <sup>[东台]</sup> 形容拿不定主张，主意多变。见“烧主”。  
 1. 【[主事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_shr.md#主事)】`zhv3 shr6` <sup>[如皋]</sup> 主持家中事务的人：家有千口，～一人。  
 1. 【[拄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv.md#拄)】`zhv3` <sup>[泰州]</sup> ① （如皋，泰县作阻） ② 长度或者高度所能达到之处：这小伙回回死吃，不吃咖～到嗓子不丢手。｜大橱的顶～住门桄吖唻，你俫要小的下去才搬得进来。  
-1. 【[煮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv.md#煮)】`zhv3` ① 一种烹饪方法 ② <sup>\[如东\]</sup>种烹调方法。把食物放在锅里加热烧熟。  
+1. 【[煮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv.md#煮)】`zhv3` 一种烹饪方法  
 1. 【[煮啊化啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_a_hua_a.md#煮啊化啊)】`zhv3 a hua5 a` <sup>[如皋]</sup> 见“倒火”。  
 1. 【[煮倒头饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_do_teu_faen.md#煮倒头饭)】`zhv3 do3 teu faen6` <sup>[如皋]</sup> 人刚死停灵即煮的供饭。特点是：锅中先下不淘的米后放水，煮成半熟，只用半汤碗饭供死者，一酒盅饭旁置供“王子”。  
 1. 【[煮饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_faen.md#煮饭)】`zhv3 faen6` <sup>[如东]</sup> 做饭的一种方法。把粮食放在锅中加水烧熟。  
@@ -2054,7 +2054,7 @@
 1. 【[祖宗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zv_zon.md#祖宗)】`zv3 zon1` <sup>[如东]</sup> ① 对长辈的通称。 ② 年尊的长者。 ③ 对儿子的既疼爱又批评的称呼：我的～，你不要调皮！  
 1. 【[祖宗八代](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zv_zon_baeh_tae.md#祖宗八代)】`zv3 zon1 baeh7 tae6` <sup>[东台]</sup> 通常指从自己的父母向止，依次序为祖父母、曾祖父母、高祖父母、天祖父母、烈祖父母、太祖父母、远祖父母、鼻祖父母。（向下的次序见“屑屑孙儿”）  
 1. 【[祖宗亡人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zv_zon_van_ren.md#祖宗亡人)】`zv3 zon1 van2 ren2` ① <sup>\[如东\]</sup>已经死亡的前辈。 ② <sup>\[东台\]</sup>已故长辈。清明、农历七月半、冬至和大年三十民间有敬一的习俗，“早烧清明（祭奠）晚烧冬（冬至），七月半等不到小日中”。  
-1. 【[阻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zv.md#阻)】`zv3` ① <sup>\[如皋\]</sup>这里指顶塞，胀闷感：心门口觉察～着咖；他吃得太多，一直～到喉咙管儿。<sup>\[如皋\]</sup> ② <sup>\[如东\]</sup>挡，拦：你要把他～住，那许不能去。<sup>\[如东\]</sup> ③ <sup>\[泰县\]</sup>满：东西太多，一直～到门口。 ④ <sup>\[泰县\]</sup>挡：这块木头～啊路上。 ⑤ <sup>\[泰州\]</sup>挡，位于使人不能前进之处：他～啊在大门口，外头人进不来。<sup>\[泰州\]</sup> ⑥ <sup>\[泰州\]</sup>堵：他早上吃的粽子，到这一刻儿还～在心里，难过得狠。<sup>\[泰州\]</sup>  
+1. 【[阻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zv.md#阻)】`zv3` ① <sup>\[如皋\]</sup>指顶塞，胀闷感：心门口觉察～着咖<sup>\[如皋\]</sup>｜他吃得太多，一直～到喉咙管儿。<sup>\[如皋\]</sup> ② <sup>\[如东\]</sup>挡，拦：你要把他～住，那许不能去。<sup>\[如东\]</sup> ③ <sup>\[泰县\]</sup>满：东西太多，一直～到门口。<sup>\[泰县\]</sup> ④ <sup>\[泰县\]</sup>挡：这块木头～啊路上。<sup>\[泰县\]</sup> ⑤ <sup>\[泰州\]</sup>挡，位于使人不能前进之处：他～啊在大门口，外头人进不来。<sup>\[泰州\]</sup> ⑥ <sup>\[泰州\]</sup>堵：他早上吃的粽子，到这一刻儿还～在心里，难过得狠。<sup>\[泰州\]</sup>  
 1. 【[阻嘴棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zv_jy_pan.md#阻嘴棒)】`zv3 jy3 pan6` <sup>[泰县]</sup> 磨房里顶住牲口嘴，不让它偷吃的棍子。  
 1. 【[阻老<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zv_lo_r.md#阻老<sub>儿</sub>)】`zv3 lo3 r` <sup>[兴化]</sup> 最后、边缘：他家住啊庄西头～一家。  
 1. 【[阻头阻脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zv_teu_zv_no.md#阻头阻脑)】`zv3 teu2 zv3 no3` <sup>[东台]</sup> 没有一点回旋的余地：办事情不能弄得～的。  

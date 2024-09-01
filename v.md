@@ -610,8 +610,8 @@
 1. 【[瀖动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_ton.md#瀖动)】`vah8 ton` <sup>[如皋]</sup> 闪动、晃动：水面上下～。面团、鲜肉等因外力而～。也读vah7 ton。  
 1. 【[瀖瀖的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_vah_dii.md#瀖瀖的)】`vah8 vah8 dii` <sup>[泰县]</sup> ① 太满，溢出来：这汤盛得这吖多，～。 ② 亮闪闪，显眼：他手表戴啊～。  
 1. 【[矐咖矐的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_ga_vah_dii.md#矐咖矐的)】`vah8 ga vah8 dii` <sup>[东台]</sup> 光线不稳定地闪烁：这电灯泡接触不良，～。  
-1. 【[矐闪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_shin.md#矐闪)】`vah8 shin3` <sup>[东台]</sup> 闪电：响雷～。  
-1. 【[霍闪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_shin.md#霍闪)】`vah8 shin3` <sup>[如皋]</sup> 天空打闪。或作“矆睒”。也读vah7 shin3。  
+1. 【[霍闪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_shin.md#霍闪)】`vah8 shin3` <sup>[如皋]</sup> 天空打闪。或作“矆睒”。  
+1. 【[霍闪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_shin.md#霍闪)】`vah8 shin3` <sup>[东台]</sup> 闪电：响雷～。  
 1. 【[鹱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah.md#鹱)】`vah8` <sup>[东台]</sup> 仰；伸长：伸头～颈。  
 1. 【[汪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van.md#汪)】`van1` ① <sup>\[兴化\]</sup>水洼：北～。<sup>\[兴化\]</sup> ② <sup>\[兴化\]</sup>液体积聚：水～吖那块。<sup>\[兴化\]</sup> ③ <sup>\[兴化\]</sup>特指饮食停在中不消化：“……从早辰吃了口清茶，还～在心里。”（《金瓶梅词话》七五）<sup>\[兴化\]</sup> ④ <sup>\[泰州\]</sup>低洼处的封闭池塘：夏家～<sup>\[泰州\]</sup>｜常～<sup>\[泰州\]</sup>｜薛家～<sup>\[泰州\]</sup>｜打牛～<sup>\[泰州\]</sup>｜藕池～<sup>\[泰州\]</sup>｜十三里～（均为泰州城里的大水塘）<sup>\[泰州\]</sup> ⑤ <sup>\[泰州\]</sup>食物滞留胃中没有及时消化：早上吃的粽子～吖在心里，难过煞咖。<sup>\[泰州\]</sup>  
 1. 【[汪塘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_tan.md#汪塘)】`van1 tan2` ① <sup>\[东台\]</sup>低洼的小水塘。 ② <sup>\[兴化\]</sup>大水塘：谚曰：一沟短，二沟长，三垛有个大～（三地都在兴西高邮市境内）。<sup>\[兴化\]</sup>  

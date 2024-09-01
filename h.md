@@ -1423,7 +1423,7 @@
 1. 【[豁口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_keu.md#豁口)】`huaeh7 keu3` <sup>[如东]</sup> 很大的一个口子。  
 1. 【[豁口狼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_keu_lan.md#豁口狼)】`huaeh7 keu3 lan2` <sup>[如东]</sup> 张开一个大口子：堤岸上出现一个～。  
 1. 【[豁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_zz.md#豁子)】`huaeh7 zz` ① <sup>\[如东\]</sup>口子：河堤上冲吖个～。<sup>\[如东\]</sup> ② <sup>\[兴化\]\[如东\]\[东台\]</sup>（喻）事务中的枝节、纰漏、问题：出～。<sup>\[兴化\]</sup>｜出咖大～。<sup>\[如东\]</sup>｜他手伸得太长，明吖忑个～不得小。<sup>\[东台\]</sup>  
-1. 【[𧽌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh.md#𧽌)】`huaeh7` ① <sup>\[东台\]\[兴化\]\[泰县\]\[泰兴\]\[泰州\]\[泰州\]</sup>跃而越过：这哿水沟，他一～就过去啊。<sup>\[东台\]</sup>｜小沟头子他一～就过去啊。<sup>\[兴化\]</sup>｜～过一条沟。<sup>\[泰县\]</sup>｜就这点ㄦ高，一～就过去啊唻。<sup>\[泰州\]</sup>｜他一口气连～三个缺口。<sup>\[泰州\]</sup> ② <sup>\[兴化\]</sup>越级：从三年级～到五年级（～级）。<sup>\[兴化\]</sup> ③ <sup>\[泰兴\]\[泰州\]</sup>跑、行、往、去：老远的～得来，就为买个烧饼<sup>\[泰兴\]</sup>｜刚才还望见他的，不晓得他这一刻ㄦ～咖哪块去啊。<sup>\[泰州\]</sup>｜五个人去打架的，派出所捉咖四个，只有他个人～过去啊。/只有他一个人走脱了<sup>\[泰州\]</sup>  
+1. 【[𧽌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh.md#𧽌)】`huaeh7` ① <sup>\[东台\]\[兴化\]\[泰县\]\[泰兴\]\[泰州\]</sup>跃而越过：这哿水沟，他一～就过去啊。<sup>\[东台\]</sup>｜小沟头子他一～就过去啊。<sup>\[兴化\]</sup>｜～过一条沟。<sup>\[泰县\]</sup>｜就这点ㄦ高，一～就过去啊唻。<sup>\[泰州\]</sup>｜他一口气连～三个缺口。<sup>\[泰州\]</sup> ② <sup>\[兴化\]</sup>越级：从三年级～到五年级（～级）。<sup>\[兴化\]</sup> ③ <sup>\[泰兴\]\[泰州\]</sup>跑、行、往、去：老远的～得来，就为买个烧饼<sup>\[泰兴\]</sup>｜刚才还望见他的，不晓得他这一刻ㄦ～咖哪块去啊。<sup>\[泰州\]</sup>｜五个人去打架的，派出所捉咖四个，只有他个人～过去啊。/只有他一个人走脱了<sup>\[泰州\]</sup>  
 1. 【[𧽌沟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_geu.md#𧽌沟)】`huaeh7 geu1` <sup>[如皋]</sup> 跳过河去。  
 1. 【[𧽌连叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_lin_cha.md#𧽌连叉)】`huaeh7 lin2 cha1` <sup>\[兴化\]\[东台\]\[泰县\]</sup>两手交替着地连续侧身翻，豁虎跳：儿歌：猫子不在家，老鼠～。<sup>\[兴化\]</sup>  
 1. 【[𧽌墙头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_qian_teu.md#𧽌墙头)】`huaeh7 qian2 teu2` <sup>[如皋]</sup> 从墙上越过。  
@@ -1459,18 +1459,18 @@
 1. 【[滑头码子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_teu_ma_zz.md#滑头码子)】`huaeh8 teu2 ma3 zz` <sup>[如皋]</sup> 油滑、不诚实的人。  
 1. 【[滑头生意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_teu_shen_i.md#滑头生意)】`huaeh8 teu2 shen1 i5` <sup>[如皋]</sup> 做买卖中行骗术。  
 1. 【[滑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_zz.md#滑子)】`huaeh8 zz` <sup>[如皋]</sup> ① 不诚实的人。 ② 隐语，指油：锅里放点～。  
-1. 【[㹕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen.md#㹕)】`huaen1` ① <sup>\[如东\]</sup>不软和：～饭。<sup>\[如东\]</sup> ② <sup>\[如皋\]</sup>硬；饭煮得～，老人家不宜吃。 ③ <sup>\[如皋\]</sup>强直，不灵活：坐啊狠吖，身子发～。 ④ <sup>\[如皋\]</sup>骨质疏松：骨头发咖～，不能跌跟头。  
+1. 【[㹕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen.md#㹕)】`huaen1` ① <sup>\[如东\]\[如皋\]</sup>硬，不软和：～饭。<sup>\[如东\]</sup>｜饭煮得～，老人家不宜吃。<sup>\[如皋\]</sup> ② <sup>\[如皋\]</sup>强直，不灵活：坐啊狠吖，身子发～。<sup>\[如皋\]</sup> ③ <sup>\[如皋\]</sup>骨质疏松：骨头发咖～，不能跌跟头。<sup>\[如皋\]</sup>  
 1. 【[㹕强](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_qian.md#㹕强)】`huaen1 qian2` <sup>[如东]</sup> ① 比较硬。 ② 比喻老人身体比较硬朗、健康。  
 1. 【[㹕硗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_qio.md#㹕硗)】`huaen1 qio1` <sup>[如东]</sup> 比较坚硬干燥：元麦𪎉子饭有些～。  
 1. 【[㹕铮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_zhen.md#㹕铮)】`huaen1 zhen1` <sup>[如皋]</sup> 硬朗，矍铄，如皋词典后字写“𠏫”：老爹的身子骨蛮～的。  
 1. 【[还](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen.md#还)】`huaen2` <sup>[东台]</sup> ① ［此处为动词］ ② 返回：～乡｜～原。 ③ 归还：～债｜偿～。 ④ 回报别人对自己的行动：～琴（把刚刚学习的琴法在老师面前演练一遍）。  
 1. 【[还本](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_ben.md#还本)】`huaen2 ben3` <sup>[东台]</sup> 归还借款的本金：借钱要按期～付息。  
 1. 【[还潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_cho.md#还潮)】`huaen2 cho2` <sup>[如皋]</sup> 见“转潮”。  
-1. 【[还魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_huen.md#还魂)】`huaen2 huen2` ① <sup>\[如东\]</sup>死而复生。 ② <sup>\[东台\]</sup>死而复活（迷信说法）：借尸～。<sup>\[东台\]</sup>  
+1. 【[还魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_huen.md#还魂)】`huaen2 huen2` <sup>\[如东\]\[东台\]</sup>死而复生：借尸～。<sup>\[东台\]</sup>  
 1. 【[还魂饱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_huen_bo.md#还魂饱)】`huaen2 huen2 bo3` <sup>[如皋]</sup> 先是觉得饿。后来反觉得饱了。  
 1. 【[还魂疼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_huen_ten.md#还魂疼)】`huaen2 huen2 ten2` <sup>[如皋]</sup> 受伤的当时不觉疼，过后疼。  
 1. 【[还魂胀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_huen_zhan.md#还魂胀)】`huaen2 huen2 zhan5` <sup>[如皋]</sup> 吃时不胀，过后腹胀难受。  
-1. 【[还阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_ian.md#还阳)】`huaen2 ian2` ① <sup>\[如东\]</sup>气温升高。 ② <sup>\[如皋\]</sup>见“和暴”。 ③ <sup>\[如皋\]</sup>转暖：焐啊半大天，手才～吖。 ④ <sup>\[东台\]</sup>本指冻僵的人身上有了暖气，或阳气不旺的人精神开始振奋。也喻指从糊涂转为清醒。  
+1. 【[还阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_ian.md#还阳)】`huaen2 ian2` ① <sup>\[如东\]</sup>气温升高。 ② <sup>\[如皋\]</sup>见“和暴”（寒潮过去，天气转好、转暖。） ③ <sup>\[如皋\]</sup>转暖：焐啊半大天，手才～吖。<sup>\[如皋\]</sup> ④ <sup>\[东台\]</sup>本指冻僵的人身上有了暖气，或阳气不旺的人精神开始振奋。也喻指从糊涂转为清醒。  
 1. 【[还愿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_iun.md#还愿)】`huaen2 iun6` <sup>[东台]</sup> 求神保佑的人实践对神许下的心愿。  
 1. 【[还价](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_jia.md#还价)】`huaen2 jia5` <sup>[东台]</sup> 买方因嫌货价高而说出自己能够接受的价格。  
 1. 【[还口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_keu.md#还口)】`huaen2 keu3` <sup>[东台]</sup> 也叫还嘴，就是回嘴：面对不明真相的群众，执勤人员坚持骂不～，打不还手。  
@@ -1482,18 +1482,18 @@
 1. 【[还账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_zhan.md#还账)】`huaen2 zhan5` <sup>[如东]</sup> 偿还借款。  
 1. 【[𫝺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen.md#𫝺)】`huaen5` 甩  
 1. 【[幻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen.md#幻)】`huaen6` <sup>[兴化]</sup> 一种捕鱼设施，内部曲折迁回，鱼类进入后，只能向前，不能后退，直至被捕获。  
-1. 【[患](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen.md#患)】`huaen6` ① <sup>\[兴化\]</sup>某些经常发作的病痛：他身上有个～，成年面黄肌瘦的。<sup>\[兴化\]</sup>｜“……我看你这牙子真是个～，一年都要发好几次……”（场二：《混城》）<sup>\[兴化\]</sup> ② <sup>\[兴化\]</sup>祸患：满让我把这几个拿住，为首的跑了，以后仍然是～……（《小五义》八〇）<sup>\[兴化\]</sup> ③ <sup>\[泰州\]</sup>（泰州词典作阴去） ④ <sup>\[泰州\]</sup>无法治愈的慢性病：月子里头千万不能下水，将来弄点ㄦ～下来是一世的事。<sup>\[泰州\]</sup>｜过去挑河，腰受啊伤，落咖个～，一到阴天就腰疼。<sup>\[泰州\]</sup>  
+1. 【[患](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen.md#患)】`huaen6` ① <sup>\[兴化\]</sup>某些经常发作的病痛：他身上有个～，成年面黄肌瘦的。<sup>\[兴化\]</sup>｜“……我看你这牙子真是个～，一年都要发好几次……”（场二：《混城》）<sup>\[兴化\]</sup> ② <sup>\[兴化\]</sup>祸患：满让我把这几个拿住，为首的跑了，以后仍然是～……（《小五义》八〇）<sup>\[兴化\]</sup> ③ <sup>\[泰州\]</sup>无法治愈的慢性病\[泰州：（huaen5）\]：月子里头千万不能下水，将来弄点ㄦ～下来是一世的事。<sup>\[泰州\]</sup>｜过去挑河，腰受啊伤，落咖个～，一到阴天就腰疼。<sup>\[泰州\]</sup>  
 1. 【[患根](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_gen.md#患根)】`huaen6 gen1` <sup>[兴化]</sup> ① 病根：你到大医院看看，把身上～除掉。 ② 祸根：这个匪首漏网，又留下一个～。  
 1. 【[患难](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_naen.md#患难)】`huaen6 naen6` <sup>[东台]</sup> 困难和危险的处境：人民公仆应该与人民群众同甘苦共～。  
 1. 【[患难夫妻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_naen_fv_qi.md#患难夫妻)】`huaen6 naen6 fv1 qi1` <sup>[如东]</sup> 在艰难困苦中结成的伴侣：他俫是～。  
 1. 【[患难之交](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_naen_zhr_jio.md#患难之交)】`huaen6 naen6 zhr1 jio1` <sup>[如东]</sup> 在困难与危险的处境中结成的友谊。  
-1. 【[患疾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_qieh.md#患疾)】`huaen6 qieh8` <sup>[如皋]</sup> 遗留下来的顽疾：她耳头跳啊疼，不曾治好，是个～，经常发。  
+1. 【[患疾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_qieh.md#患疾)】`huaen6 qieh8` <sup>\[如皋\]</sup>遗留下来的顽疾\[如皋：（huaen5 jieh7）\]：她耳头跳啊疼，不曾治好，是个～，经常发。<sup>\[如皋\]</sup>  
 1. 【[㸌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huah.md#㸌)】`huah7` <sup>[东台]</sup> 灼伤：工人在高温下作业，身上～咖好些泡｜开水把他手上烫了个～泡。  
 1. 【[㸌泡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huah_po.md#㸌泡)】`huah7 po1` <sup>[兴化]</sup> 皮肤因受凉或被水烫而起水泡：他重受寒凉，嘴唇上吖～。  
 1. 【[㸌泡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huah_po_r.md#㸌泡<sub>儿</sub>)】`huah7 po1 r` <sup>\[如东\]</sup>（皮肤因烫、磨等）鼓起水泡  
 1. 【[㸌泡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huah_po_r.md#㸌泡<sub>儿</sub>)】`huah7 po5 r` <sup>\[如皋\]\[东台\]\[泰县\]</sup>皮肤因烫、磨等起的水泡  
 1. 【[劐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huah.md#劐)】`huah7` <sup>[如东]</sup> 用刀尖插入物体后顺势挑开一道口子。  
-1. 【[攉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huah.md#攉)】`huah7` ① <sup>\[如东\]</sup>用反手打：～他几个耳刮子。<sup>\[如东\]</sup> ② <sup>\[如皋\]</sup>挥霍：这点儿钱经不起他～，一刻儿工夫就～咖光吖。 ③ <sup>\[如皋\]</sup>大晃：大风吹得树只～，树头一根一根的～咖断吖。 ④ <sup>\[东台\]</sup>覆手。《古今韵会举要·十药》“手反覆也；摇手为挥，反手为攉”：他再烦，～他几个巴掌。<sup>\[东台\]</sup> ⑤ <sup>\[兴化\]</sup>打：～他个嘴巴子。《集韵·铎韵》忽郭切“～，手反覆也。”<sup>\[兴化\]</sup> ⑥ <sup>\[泰县\]</sup>拍打：小兵不所话，他爸爸就～他。 ⑦ <sup>\[泰州\]</sup>翻动手掌快速猛击：～咖几个大嘴巴子。<sup>\[泰州\]</sup>｜晚上家去捱家里老子～屁股。<sup>\[泰州\]</sup>  
+1. 【[攉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huah.md#攉)】`huah7` ① <sup>\[如东\]</sup>用反手打：～他几个耳刮子。<sup>\[如东\]</sup> ② <sup>\[如皋\]</sup>挥霍：这点儿钱经不起他～，一刻儿工夫就～咖光吖。<sup>\[如皋\]</sup> ③ <sup>\[如皋\]</sup>大晃：大风吹得树只～，树头一根一根的～咖断吖。<sup>\[如皋\]</sup> ④ <sup>\[东台\]</sup>覆手。《古今韵会举要·十药》“手反覆也；摇手为挥，反手为攉”：他再烦，～他几个巴掌。<sup>\[东台\]</sup> ⑤ <sup>\[兴化\]</sup>打：～他个嘴巴子。《集韵·铎韵》忽郭切“～，手反覆也。”<sup>\[兴化\]</sup> ⑥ <sup>\[泰县\]</sup>拍打：小兵不所话，他爸爸就～他。<sup>\[泰县\]</sup> ⑦ <sup>\[泰州\]</sup>翻动手掌快速猛击：～咖几个大嘴巴子。<sup>\[泰州\]</sup>｜晚上家去捱家里老子～屁股。<sup>\[泰州\]</sup>  
 1. 【[攉鞭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huah_bin_zz.md#攉鞭子)】`huah7 bin1 zz` <sup>[如东]</sup> ① 用手使劲甩鞭子，使鞭梢发出响声。 ② 一种纸牌游戏活动。  
 1. 【[攉耳刮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huah_er_guaeh_zz.md#攉耳刮子)】`huah7 er3 guaeh7 zz` <sup>[如东]</sup> 打耳光。  
 1. 【[攉咖断吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huah_ga_tun_nga.md#攉咖断吖)】`huah7 ga tun6 nga` <sup>[如皋]</sup> 晃断了。  
@@ -1505,10 +1505,10 @@
 1. 【[霍场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huah_chan.md#霍场)】`huah7 chan2` <sup>[东台]</sup> 摆甩，讲排场，把办事规格提到不恰当的程度。  
 1. 【[霍缸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huah_gan_r.md#霍缸<sub>儿</sub>)】`huah7 gan1 r` <sup>[东台]</sup> 给死人烧纸钱的缸。内壁用泥土搪抹，存放纸灰。又称“化纸缸”。  
 1. 【[霍乱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huah_lun.md#霍乱)】`huah7 lun6` <sup>[东台]</sup> 有剧烈吐泻（水泻如米泔色）等症状的胃肠疾病。  
-1. 【[霍闪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huah_shin.md#霍闪)】`huah7 shin3` ① <sup>\[如东\]</sup>天空闪电。 ② <sup>\[兴化\]</sup>闪电：外头雷电～的。也作“打闪”。<sup>\[兴化\]</sup>  
-1. 【[𢞕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huah.md#𢞕)】`huah7` <sup>[兴化]</sup> 惊恐：心里吓得～里～铎的。《集韵·铎韵》忽郭切｜“～，恐惧貌”。  
+1. 【[霍闪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huah_shin.md#霍闪)】`huah7 shin3` <sup>\[如东\]\[兴化\]</sup>闪电\[兴化：也作“打闪”。\]：外头雷电～的。<sup>\[兴化\]</sup>  
+1. 【[𢞕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huah.md#𢞕)】`huah7` <sup>[兴化]</sup> 惊恐：心里吓得～里～铎的。  
 1. 【[濩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huah.md#濩)】`huah8, vah8` ① 摇晃（液体） ② （液体）动荡的样子  
-1. 【[濩/漷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huah.md#濩/漷)】`huah8` ① <sup>\[兴化\]</sup>水荡出容器：水舀得太满，～～的。<sup>\[兴化\]</sup>｜一担水挑到家～掉一半。《说文·水部》黄郭切<sup>\[兴化\]</sup>｜“～，雨流溜下”。‖也作“漷漷的”。另见“漷kuah8”。<sup>\[兴化\]</sup> ② <sup>\[泰州\]</sup>在水中摆动物体，借助水流冲击使物体漂洗干净：衣裳汏得差不多唻，在河里～咖子就行吖唻。<sup>\[泰州\]</sup>｜萝卜刚刚洗过啊，在清水里～～就干净吖唻。<sup>\[泰州\]</sup> ③ <sup>\[泰州\]</sup>液体在容器中晃动：你盛吖浅吖点ㄦ就不～咖。<sup>\[泰州\]</sup> ④ <sup>\[泰州\]</sup>水在容器中晃动溢出容器：一担水跳到家就捱他～掉一半。<sup>\[泰州\]</sup>  
+1. 【[濩/漷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huah.md#濩/漷)】`huah8` ① <sup>\[兴化\]\[泰州\]</sup>液体晃荡：水舀得太满，～～的。<sup>\[兴化\]</sup>｜一担水挑到家～掉一半。<sup>\[兴化\]</sup>｜你盛吖浅吖点ㄦ就不～咖。<sup>\[泰州\]</sup>｜一担水跳到家就捱他～掉一半。<sup>\[泰州\]</sup> ② <sup>\[泰州\]</sup>在水中摆动物体，借助水流冲击使物体漂洗干净：衣裳汏得差不多唻，在河里～咖子就行吖唻。<sup>\[泰州\]</sup>｜萝卜刚刚洗过啊，在清水里～～就干净吖唻。<sup>\[泰州\]</sup>  
 1. 【[霍闪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huah_shin.md#霍闪)】`huah8 shin3` <sup>[泰县]</sup> 闪电：落雨天～。  
 1. 【[慌慌快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_huan_kuae.md#慌慌快)】`huan1 huan1 kuae5` <sup>[东台]</sup> 办事着急慌忙，速度快，但比较毛糙，质量不高。  
 1. 【[慌里慌张](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_lii_huan_zhan.md#慌里慌张)】`huan1 lii huan1 zhan1` <sup>[东台]</sup> 忙乱，不除一般沉着。  
