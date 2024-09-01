@@ -1121,8 +1121,7 @@
 1. 【[天河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hu.md#天河)】`tin1 hu2` <sup>\[如皋\]\[如东\]</sup>银河。  
 1. 【[天火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hu.md#天火)】`tin1 hu3` <sup>\[如东\]\[泰兴\]</sup>雷击引起的火\[泰兴：有时称不知源的火灾。\]：失～<sup>\[泰兴\]</sup>  
 1. 【[天花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hua.md#天花)】`tin1 hua1` <sup>\[如东\]\[泰兴\]</sup>病名。急性传染病，今已绝迹。  
-1. 【[天花板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hua_baen.md#天花板)】`tin1 hua1 baen3` <sup>[如东]</sup> 房间上面的装饰板。  
-1. 【[天花板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hua_baen.md#天花板)】`tin1 hua1 baen3` <sup>[泰兴]</sup> 室内装饰、承挡灰尘的天棚：～已吊好了，底下就是刷墙、装饰。  
+1. 【[天花板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hua_baen.md#天花板)】`tin1 hua1 baen3` ① <sup>\[如东\]</sup>房间上面的装饰板。 ② <sup>\[泰兴\]</sup>室内装饰、承挡灰尘的天棚：～已吊好了，底下就是刷墙、装饰。<sup>\[泰兴\]</sup>  
 1. 【[天花乱坠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hua_lun_chuei.md#天花乱坠)】`tin1 hua1 lun6 chuei6` <sup>[如东]</sup> 天上许多鲜花飘落下来，比喻非常美好：他说得～。  
 1. 【[天话胡话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hua_hv_hua.md#天话胡话)】`tin1 hua6 hv2 hua6` <sup>[东台]</sup> ① 不知道搞的什么鬼花样。 ② 不知道瞎说了些什么。也作“天话肏胡话”。  
 1. 【[天话糊话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hua_hv_hua.md#天话糊话)】`tin1 hua6 hv6 hua6` <sup>[如东]</sup> 东西南北瞎说一通：这个人～的，没个准。  
@@ -1137,8 +1136,7 @@
 1. 【[天借势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_jia_shr.md#天借势)】`tin1 jia5 shr5` <sup>[如皋]</sup> 天从人愿，天气晴朗，做事方便。与“天不借势”相对。  
 1. 【[天僵吖僵的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_jian_nga_jian_dii.md#天僵吖僵的)】`tin1 jian1 nga jian1 dii` <sup>[如皋]</sup> 时阴时晴的天气。  
 1. 【[天浆壳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_jian_kah.md#天浆壳)】`tin1 jian1 kah7` <sup>[如东]</sup> 萝藦科植物萝藦果壳。  
-1. 【[天井](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_jien.md#天井)】`tin1 jien3` <sup>[如东]</sup> 宅院中房子与房子或房子与围墙所围成的露天空地。  
-1. 【[天井](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_jien.md#天井)】`tin1 jien3` <sup>[泰兴]</sup> 院子。房子与房子、围墙围成的露天空地：夏天坐啊～里乘凉。  
+1. 【[天井](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_jien.md#天井)】`tin1 jien3` ① <sup>\[如东\]</sup>宅院中房子与房子或房子与围墙所围成的露天空地。 ② <sup>\[泰兴\]</sup>院子。房子与房子、围墙围成的露天空地：夏天坐啊～里乘凉。<sup>\[泰兴\]</sup>  
 1. 【[天开眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_kae_ngaen.md#天开眼)】`tin1 kae1 ngaen3` <sup>[如皋]</sup> 久阴后放睛，令人特别舒畅。  
 1. 【[天贶节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_kuan_jih.md#天贶节)】`tin1 kuan5 jih7` <sup>[如东]</sup> 阴历六月初六，为天贶节。男子下河洗澡，女子舀水洗头，中午吃黄瓜。谚语：“六月六，黄瓜打菜水绿绿”。  
 1. 【[天盇下来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_kuh_ha_lae_a.md#天盇下来啊)】`tin1 kuh8 ha lae2 a` <sup>[如皋]</sup> 天色阴沉。云层越压越低。  
@@ -1149,8 +1147,7 @@
 1. 【[天亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_lian.md#天亮)】`tin1 lian6` <sup>[如东]</sup> 东方露出亮光，称天亮  
 1. 【[天灵盖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_lien_gae.md#天灵盖)】`tin1 lien2 gae5` <sup>[东台]</sup> 头顶骨。  
 1. 【[天留人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_lieu_ren.md#天留人)】`tin1 lieu2 ren2` <sup>[东台]</sup> 客人因为遇到恶劣天气走不了了：早更头落咖一场大雪，～，你再玩两天吧！  
-1. 【[天老爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_lo_i.md#天老爷)】`tin1 lo i` <sup>[如皋]</sup> 天神：～有眼，不容坏人！  
-1. 【[天老爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_lo_i.md#天老爷)】`tin1 lo i` <sup>[泰兴]</sup> 迷信认为天主宰一切，故称天为“天老爷”：瓦片子也有翻身的时候，～有眼，今年又是一个大丰收！  
+1. 【[天老爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_lo_i.md#天老爷)】`tin1 lo i` ① <sup>\[如皋\]</sup>天神：～有眼，不容坏人！<sup>\[如皋\]</sup> ② <sup>\[泰兴\]</sup>迷信认为天主宰一切，故称天为“天老爷”：瓦片子也有翻身的时候，～有眼，今年又是一个大丰收！<sup>\[泰兴\]</sup>  
 1. 【[天老爷作对](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_lo_i_zah_dy.md#天老爷作对)】`tin1 lo i zah7 dy5` <sup>[如皋]</sup> 见“天不借势”。  
 1. 【[天老爷也不过修一半人缘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_lo_i_ia_beh_gu_xieu_ieh_bun_ren_iun.md#天老爷也不过修一半人缘)】`tin1 lo3 i ia3 beh7 gu5 xieu1 ieh7 bun5 ren2 iun2` <sup>[东台]</sup> 指任何天气总有利有弊，何况人呢？意思是做事不要顾虑太多，不求尽如人意，但求无愧我心。  
 1. 【[天老扎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_lo_zhaeh.md#天老扎)】`tin1 lo3 zhaeh7` <sup>[如东]</sup> 天气晴朗，较长时间不会下雨。  
@@ -1201,8 +1198,7 @@
 1. 【[天天炮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_tin_po.md#天天炮)】`tin1 tin1 po5` <sup>[兴化]</sup> 一种双响的大炮竹。即所谓“二踢脚”。  
 1. 【[天天天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_tin_tin.md#天天天)】`tin1 tin1 tin1` <sup>[兴化]</sup> 指每一天：这个家伙太讨厌，～来找麻烦。  
 1. 【[天天新](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_tin_xien.md#天天新)】`tin1 tin1 xien1` <sup>[泰县]</sup> 草鞋。  
-1. 【[天条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_tio.md#天条)】`tin1 tio2` <sup>[如东]</sup> 上帝规定的戒律，称天条。这是神和人都必须遵守的：切不可犯～。比喻国家法律。  
-1. 【[天条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_tio.md#天条)】`tin1 tio2` <sup>[泰兴]</sup> 天上的条令、法规。乡人常以“犯天条”谓人不上规矩。  
+1. 【[天条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_tio.md#天条)】`tin1 tio2` ① <sup>\[如东\]</sup>上帝规定的戒律，称天条。这是神和人都必须遵守的：切不可犯～。比喻国家法律。<sup>\[如东\]</sup> ② <sup>\[泰兴\]</sup>天上的条令、法规。乡人常以“犯天条”谓人不上规矩。  
 1. 【[天盦下来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_uh_ha_lae_a.md#天盦下来啊)】`tin1 uh7 ha lae2 a` <sup>[如东]</sup> 形容大雨即将来临的天气状况：快点儿收工吧，～。  
 1. 【[天暗蓬蓬的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_un_pon_pon_dii.md#天暗蓬蓬的)】`tin1 un5 pon1 pon1 dii` <sup>[如皋]</sup> 天色暗而视觉浑。  
 1. 【[天晚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_vaen.md#天晚)】`tin1 vaen3` <sup>[兴化]</sup> 太阳落山至深夜以前：他早上出去打工，～才家来。  
@@ -1214,8 +1210,7 @@
 1. 【[天仙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_xin.md#天仙)】`tin1 xin1` <sup>[如东]</sup> 神话传说中天上的神仙。比喻美女。  
 1. 【[天消起来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_xio_qi_lae_a.md#天消起来啊)】`tin1 xio1 qi3 lae a` <sup>[如皋]</sup> 阴转多云，多云转晴皆谓之。  
 1. 【[天𢳚起来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_xio_qi_lae_a.md#天𢳚起来啊)】`tin1 xio1 qi3 lae2 a` <sup>[东台]</sup> 雨止了，乌云渐渐散去，天气好转。（见“𢳚开”）  
-1. 【[天晓得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_xio_deh.md#天晓得)】`tin1 xio3 deh` <sup>[如皋]</sup> 表示毫无根据，无法预测。  
-1. 【[天晓得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_xio_deh.md#天晓得)】`tin1 xio3 deh` <sup>[泰兴]</sup> 表示难以理解或无法说明：他哿曾拿你的书，真正是～！  
+1. 【[天晓得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_xio_deh.md#天晓得)】`tin1 xio3 deh` <sup>\[如皋\]\[泰兴\]</sup>表示无法理解或没有人知道：他哿曾拿你的书，真正是～！<sup>\[泰兴\]</sup>  
 1. 【[天晓得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_xio_deh.md#天晓得)】`tin1 xio3 deh7` <sup>[东台]</sup> 谁也不知道。  
 1. 【[天作变](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_zah_bin.md#天作变)】`tin1 zah7 bin5` ① <sup>\[如皋\]</sup>天气变坏。 ② <sup>\[兴化\]</sup>天气由晴变阴。 ③ <sup>\[兴化\]</sup>大风雨到来的前兆。 ④ <sup>\[泰兴\]</sup>天气发生变化，风雨将至：天作变ngo，快点把衣裳收家来！<sup>\[泰兴\]</sup>  
 1. 【[天作丑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_zah_cheu.md#天作丑)】`tin1 zah7 cheu3` <sup>[东台]</sup> 指晴好天气向阴雨天或恶劣气候转变的种种迹象。  

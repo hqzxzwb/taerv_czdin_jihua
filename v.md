@@ -58,8 +58,7 @@
 1. 【[无耻界](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_chr_gae.md#无耻界)】`v2 chr3 gae5` <sup>[如东]</sup> 无人关注的地方：这件事我都撂啊～里啊。  
 1. 【[无大不大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_da_beh_da.md#无大不大)】`v2 da6 beh7 da6` <sup>\[东台\]\[兴化\]\[泰兴\]</sup>极大、非常大\[东台：也夸张地说“要多大有多大”\]：新建的厂房～的！<sup>\[东台\]</sup>｜“……他变做～的白牛，我变了法天象地的身量……”（《西游记》六一）<sup>\[兴化\]</sup>｜箇个冬瓜～的，我捧不动。<sup>\[泰兴\]</sup>  
 1. 【[无底的口袋——装风（疯）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_di_dii_keu_tae_zhuan_fon.md#无底的口袋——装风（疯）)】`v2 di3 dii keu3 tae6 zhuan1 fon1` <sup>[东台]</sup>   
-1. 【[无底洞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_di_ton.md#无底洞)】`v2 di3 ton6` <sup>[如东]</sup> 永远填不满的洞：那是一个～。  
-1. 【[无底洞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_di_ton.md#无底洞)】`v2 di3 ton6` <sup>[泰兴]</sup> 深不可测的洞。喻难以满足的欲望。  
+1. 【[无底洞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_di_ton.md#无底洞)】`v2 di3 ton6` ① <sup>\[如东\]</sup>永远填不满的洞：那是一个～。<sup>\[如东\]</sup> ② <sup>\[泰兴\]</sup>深不可测的洞。喻难以满足的欲望。  
 1. 【[无而八怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_er_baeh_guae.md#无而八怪)】`v2 er baeh7 guae5` <sup>[如东]</sup> 不正经，不上规矩：做的都是一些～的事情。  
 1. 【[无而不鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_er_beh_guei.md#无而不鬼)】`v2 er beh7 guei3` <sup>[兴化]</sup> 游手好闲，品行不端的人：这个小伙结交一班～的人，成天在外头鬼混。也作“无而鬼”。“无而不”又是“鬼”的隐语。  
 1. 【[无而鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_er_guei.md#无而鬼)】`v2 er guei3` ① <sup>\[如东\]</sup>不正经的人：那是一些～。<sup>\[如东\]</sup> ② <sup>\[兴化\]</sup>见“无而不鬼”。  
@@ -69,11 +68,9 @@
 1. 【[无风不起浪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_fon_beh_qi_lan.md#无风不起浪)】`v2 fon1 beh7 qi3 lan6` <sup>\[如东\]\[东台\]\[泰兴\]</sup>比喻事情的发生一定有原因：～，这个问题要查下子。<sup>\[如东\]</sup>｜古话说得好，‘～’，没得箇回事，人家说不起来！<sup>\[泰兴\]</sup>  
 1. 【[无风鹞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_fon_io_zz.md#无风鹞子)】`v2 fon1 io6 zz` <sup>[如东]</sup> 没有风，鹞子放不上天，于是拉着绳子往后跑。比喻到处乱跑：一出门就成吖～。  
 1. 【[无根水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_gen_shuei.md#无根水)】`v2 gen1 shuei3` <sup>[兴化]</sup> 即雨水。某些中药方常要求用～炮制。  
-1. 【[无根无襻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_gen_v_paen.md#无根无襻)】`v2 gen1 v2 paen5` <sup>[兴化]</sup> 指没有家室，没有牵挂：“……我老拙见是这般一个～的人，就招了他……”（《西游记》十八）。也作“没根没襻”。  
-1. 【[无根无襻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_gen_v_paen.md#无根无襻)】`v2 gen1 v2 paen5` 没有依据。也说“没根没襻”：～的话不能说。  
+1. 【[无根无襻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_gen_v_paen.md#无根无襻)】`v2 gen1 v2 paen5` ① <sup>\[兴化\]</sup>指没有家室，没有牵挂：“……我老拙见是这般一个～的人，就招了他……”（《西游记》十八）。也作“没根没襻”。<sup>\[兴化\]</sup> ② <sup>\[泰兴\]</sup>没有依据。也说“没根没襻”：～的话不能说。<sup>\[泰兴\]</sup>  
 1. 【[无挂碍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_gua_ngae.md#无挂碍)】`v2 gua5 ngae6` <sup>[兴化]</sup> 没有牵挂、没有牵制：“谁都象你是一心～……一点后事也不虑。”（《红楼梦》七一）语出《多心经》｜依般若波罗蜜多故，心～；～故，无有恐怖……  
-1. 【[无官一身轻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_gun_ieh_shen_qien.md#无官一身轻)】`v2 gun1 ieh7 shen1 qien1` <sup>[东台]</sup> 不承担官的责任浑身轻松。  
-1. 【[无官一身轻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_gun_ieh_shen_qien.md#无官一身轻)】`v2 gun1 ieh7 shen1 qien1` <sup>[泰兴]</sup> 谓不做官反而一身轻松。古语：有子万事足，无官一身轻。”  
+1. 【[无官一身轻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_gun_ieh_shen_qien.md#无官一身轻)】`v2 gun1 ieh7 shen1 qien1` ① <sup>\[东台\]</sup>不承担官的责任浑身轻松。 ② <sup>\[泰兴\]</sup>谓不做官反而一身轻松。古语：有子万事足，无官一身轻。”  
 1. 【[无花果](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_hua_gu.md#无花果)】`v2 hua1 gu3` <sup>[如东]</sup> 桑科植物无花果，落叶小乔木。高约10米。具乳汁，多分枝，小叶粗壮，表面褐色。叶互生，倒卵形，裂片通常倒卵形，有不规则齿。隐头花序。花白色，极多数，着生于总花托的内壁上。瘦果三棱状卵形。  
 1. 【[无患树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_huaen_shv.md#无患树)】`v2 huaen6 shv6` <sup>[如东]</sup> 无患子植物无患树，落叶或常青乔木。高约25米。枝开展，小枝无毛。通常为双数羽状复叶，互生，广披针形或椭圆形，全缘，革质，无毛。圆锥花序顶生及侧生。花杂性，黄色或淡绿色。核果球形，熟时黄色或橙黄色。种子球形，黑色，坚硬，果内含皂素，可代肥皂用。木材黄白色，较脆，可做箱板、器具等用。种子榨油可作润滑油。  
 1. 【[无患树蔃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_huaen_shv_qian.md#无患树蔃)】`v2 huaen6 shv6 qian2` <sup>[如东]</sup> 无患子植物无患树根。  
@@ -100,22 +97,19 @@
 1. 【[无千无万](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_qin_v_vaen.md#无千无万)】`v2 qin1 v2 vaen6` <sup>[兴化]</sup> 形容很多，成千上万：那天晚上，～的人拥到广场看省艺术团的演出。  
 1. 【[无巧不成书](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_qio_beh_chen_shv.md#无巧不成书)】`v2 qio3 beh7 chen2 shv1` <sup>\[如皋\]\[泰兴\]</sup>比喻事情发生得非常凑巧  
 1. 【[无巧不巧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_qio_beh_qio.md#无巧不巧)】`v2 qio3 beh7 qio3` <sup>\[如皋\]\[兴化\]\[泰兴\]</sup>十分巧合，十分凑巧：～有这么一天，弟兄俩一见面，两个都呆住了……（兴文《“勤俭”二字不可分家》）<sup>\[兴化\]</sup>｜他今朝到我家来，～我上吖北京。<sup>\[泰兴\]</sup>  
-1. 【[无趣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_qy.md#无趣)】`v2 qy5` <sup>[兴化]</sup> 没有面子、难堪：自讨～。｜“可好。自己舍生忘死，费了多大的事……那知反倒落了个～。”（《小五义》十一）  
-1. 【[无趣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_qy.md#无趣)】`v2 qy5` <sup>[泰兴]</sup> 没趣，十分难堪：他私家觉察～，讪讪走啊了。  
+1. 【[无趣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_qy.md#无趣)】`v2 qy5` ① <sup>\[兴化\]</sup>没有面子、难堪：自讨～。<sup>\[兴化\]</sup>｜“可好。自己舍生忘死，费了多大的事……那知反倒落了个～。”（《小五义》十一）<sup>\[兴化\]</sup> ② <sup>\[泰兴\]</sup>没趣，十分难堪：他私家觉察～，讪讪走啊了。<sup>\[泰兴\]</sup>  
 1. 【[无人不傲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_ren_beh_ngo.md#无人不傲)】`v2 ren2 beh7 ngo6` <sup>[如东]</sup> 人人都称赞夸奖：这个伢儿～。  
 1. 【[无师自通](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_shr_cz_ton.md#无师自通)】`v2 shr1 cz6 ton1` <sup>[泰兴]</sup> 没有老师的传授指导而自能通晓：箇个小鬼学杲子是～，聪明得很。  
 1. 【[无事不登三宝殿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_shr_beh_den_saen_bo_tin.md#无事不登三宝殿)】`v2 shr6 beh7 den1 saen1 bo3 tin6` <sup>[如皋]</sup> 专访。三宝：佛、法、僧。殿，殿堂。三宝殿，对专访之家的敬称。  
 1. 【[无事□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_shr_dah_gv.md#无事□□)】`v2 shr6 dah gv` <sup>[泰兴]</sup> 无缘无故。  
 1. 【[无事界](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_shr_gae.md#无事界)】`v2 shr6 gae5` <sup>[如皋]</sup> 遗忘干净：他对这事根本不放吖心上，老早撂啊～里去啊。  
 1. 【[无事莫干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_shr_mah_gun.md#无事莫干)】`v2 shr6 mah8 gun1` <sup>[兴化]</sup> 平常无事、没有缘由：程先生，你～的请我吃甚的夜饭？我看算吖吧！  
-1. 【[无事忙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_shr_man.md#无事忙)】`v2 shr6 man2` <sup>[兴化]</sup> 虽然没有什么正事，但成天忙得团团转：“怪不得人说你是～！这会子关了门，人倒疑惑起来……”（《红楼梦》六三）  
-1. 【[无事忙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_shr_man.md#无事忙)】`v2 shr6 man2` <sup>[泰兴]</sup> 不务正事却异常忙碌。有时用作自谦语。  
+1. 【[无事忙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_shr_man.md#无事忙)】`v2 shr6 man2` ① <sup>\[兴化\]</sup>虽然没有什么正事，但成天忙得团团转：“怪不得人说你是～！这会子关了门，人倒疑惑起来……”（《红楼梦》六三）<sup>\[兴化\]</sup> ② <sup>\[泰兴\]</sup>不务正事却异常忙碌。有时用作自谦语。  
 1. 【[无事三百句，有事再找零](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_shr_saen_boh.md#无事三百句，有事再找零)】`v2 shr6 saen1 boh qy6 ieu3 shr6 zae5 zho3 lien2` <sup>[泰兴]</sup> 谓穷嘴啰嗦，滔滔不绝。  
 1. 【[无事上街小破财](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_shr_shan_gae_xio_pu_cae.md#无事上街小破财)】`v2 shr6 shan6 gae1 xio3 pu5 cae2` <sup>[东台]</sup> 到街上总要耗费钱财。  
 1. 【[无事生非](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_shr_shen_fei.md#无事生非)】`v2 shr6 shen1 fei1` <sup>[如东]</sup> 无缘无故找岔子、闹纠纷。  
 1. 【[无事无故](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_shr_v_gv.md#无事无故)】`v2 shr6 v2 gv5` <sup>[泰兴]</sup> 没有原因、原由，突然地。  
-1. 【[无所谓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_su_vei.md#无所谓)】`v2 su3 vei6` <sup>[如东]</sup> 没有大不了：这件事～。  
-1. 【[无所谓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_su_vei.md#无所谓)】`v2 su3 vei6` <sup>[泰兴]</sup> 没什么，说不上；不在乎：箇点小毛病，～。  
+1. 【[无所谓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_su_vei.md#无所谓)】`v2 su3 vei6` <sup>\[如东\]\[泰兴\]</sup>没有什么关系，不在意：这件事～。<sup>\[如东\]</sup>｜箇点小毛病，～。<sup>\[泰兴\]</sup>  
 1. 【[无头大影](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_teu_da_ien.md#无头大影)】`v2 teu2 da6 ien3` ① <sup>\[如皋\]</sup>毫无根据、毫无影约。 ② <sup>\[兴化\]</sup>毫无根据的：这种事～的，到哪块弄得清爽啊！<sup>\[兴化\]</sup>  
 1. 【[无头疯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_teu_fon.md#无头疯)】`v2 teu2 fon1` <sup>[东台]</sup> 无缘无故地发脾气，像神经不正常似的。  
 1. 【[无头公事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_teu_gon_shr.md#无头公事)】`v2 teu2 gon1 shr6` <sup>[泰兴]</sup> 不需做的闲事。  
@@ -124,8 +118,7 @@
 1. 【[无味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_vei.md#无味)】`v2 vei6` ① <sup>\[如皋\]</sup>无颜、无趣、无光彩：你把手伸吖人家鸡窠里，（偷东两）你～，我也～！<sup>\[如皋\]</sup> ② <sup>\[兴化\]</sup>难堪、无趣：他说话无人听，自己也觉察～。<sup>\[兴化\]</sup>  
 1. 【[无形数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_xien_shv.md#无形数)】`v2 xien2 shv5` <sup>[如东]</sup> 形容很多很多：啊呀！真是～啊！  
 1. 【[无中生有](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_zhon_shen_ieu.md#无中生有)】`v2 zhon1 shen1 ieu3` <sup>[如东]</sup> 完全捏造：这是～。  
-1. 【[无知无识](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_zhr_v_sheh.md#无知无识)】`v2 zhr1 v2 sheh7` <sup>[兴化]</sup> 形容人缺乏知识，不明事理：“你看这丁言志～的……他还要死强……”（《儒林外史》五四）  
-1. 【[无知无识](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_zhr_v_sheh.md#无知无识)】`v2 zhr1 v2 sheh7` <sup>[泰兴]</sup> 没有知识，不懂道理：我是～的老百姓，请多包涵。  
+1. 【[无知无识](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_zhr_v_sheh.md#无知无识)】`v2 zhr1 v2 sheh7` <sup>\[兴化\]\[泰兴\]</sup>形容人缺乏知识，不明事理：“你看这丁言志～的……他还要死强……”（《儒林外史》五四）<sup>\[兴化\]</sup>｜我是～的老百姓，请多包涵。<sup>\[泰兴\]</sup>  
 1. 【[无志之人常立志，有志之人立志长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_zhr_zhr_ren_chan_lieh_zhr_ieu_zhr_zhr_ren_lieh_zhr_chan.md#无志之人常立志，有志之人立志长)】`v2 zhr5 zhr1 ren2 chan2 lieh8 zhr5 ieu3 zhr5 zhr1 ren2 lieh8 zhr5 chan2` <sup>[东台]</sup> 立志要专心，不能三心二意。  
 1. 【[梧桐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_ton.md#梧桐)】`v2 ton2` <sup>[如东]</sup> 梧桐科植物梧桐，又名悬铃木。落叶乔木。高约15米。树干直，树皮青色。单叶互生，掌状深裂。圆锥花序顶生。花淡绿色。瞢荧果。种子球形。路边或园林种植。木材白色，质轻而坚韧，可制造乐器和各种器具。种子可食，也可榨油。  
 1. 【[梧桐白皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_ton_poh_pi.md#梧桐白皮)】`v2 ton2 poh8 pi2` <sup>[如东]</sup> 梧桐科植物梧桐去掉栓皮的树皮。  

@@ -38,8 +38,7 @@
 1. 【[揢嗓子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka_san_zz.md#揢嗓子)】`ka5 san3 zz` <sup>[如东]</sup> 用双手掐住对方的脖子。  
 1. 【[揢手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka_sheu.md#揢手)】`ka5 sheu3` <sup>[如皋]</sup> 聚财：她过日子有～，～紧、～松。  
 1. 【[揢手紧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka_sheu_jien.md#揢手紧)】`ka5 sheu3 jien3` <sup>[如皋]</sup> 不轻易花钱。  
-1. 【[开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#开)】`kae1` <sup>[泰县]</sup> 挖：～塘。  
-1. 【[开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#开)】`kae1` <sup>[泰兴]</sup> ① 量词：泡一～茶。｜格种茶泡三～就不香了。 ② 纸张裁成几份曰“几开”，：《人民日报》对～若干版｜这本杂志是16～月刊  
+1. 【[开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#开)】`kae1` ① <sup>\[泰县\]</sup>挖：～塘。<sup>\[泰县\]</sup> ② <sup>\[泰兴\]</sup>量词：泡一～茶。<sup>\[泰兴\]</sup>｜格种茶泡三～就不香了。<sup>\[泰兴\]</sup> ③ <sup>\[泰兴\]</sup>纸张裁成几份曰“几开”，：《人民日报》对～若干版<sup>\[泰兴\]</sup>｜这本杂志是16～月刊<sup>\[泰兴\]</sup>  
 1. 【[开啊槅子说亮话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_a_geh_zz_shuh_lian_hua.md#开啊槅子说亮话)】`kae1 a geh7 zz shuh7 lian6 hua6` <sup>[如皋]</sup> 说明了，说穿了，说敞亮了。  
 1. 【[开笔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_bieh.md#开笔)】`kae1 bieh7` <sup>[兴化]</sup> ① 旧指一年中首次写字：新年～，诸事大吉。 ② 旧称学童开始学写文章。  
 1. 【[开财门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_cae_men.md#开财门)】`kae1 cae2 men2` <sup>[如东]</sup> ① 春节后第一次获得经济收入。 ② 春节期间，长辈给小孩红纸钱包儿。 ③ 春节期间，小孩调皮挨打。  
@@ -49,8 +48,7 @@
 1. 【[开船解缆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_chun_jiae_laen.md#开船解缆)】`kae1 chun2 jiae3 laen3` <sup>[泰县]</sup> 断绝往来。  
 1. 【[开初](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_chv.md#开初)】`kae1 chv1` ① <sup>\[如皋\]</sup>开始之时。 ② <sup>\[如皋\]</sup>一开始，起初。 ③ <sup>\[如皋\]</sup>当初。 ④ <sup>\[兴化\]</sup>开始、起初：这门亲事我～就有看法。<sup>\[兴化\]</sup>  
 1. 【[开打头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_da_teu.md#开打头)】`kae1 da3 teu2` <sup>[东台]</sup> 原先，当初。  
-1. 【[开裆裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_dan_kv.md#开裆裤)】`kae1 dan1 kv5` <sup>[如东]</sup> 裤裆开口的裤子。  
-1. 【[开裆裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_dan_kv.md#开裆裤)】`kae1 dan1 kv5` <sup>[泰兴]</sup> 幼儿穿的裆不缝合的裤子。  
+1. 【[开裆裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_dan_kv.md#开裆裤)】`kae1 dan1 kv5` <sup>\[如东\]\[泰兴\]</sup>裤裆开口的裤子。一般是幼儿用。  
 1. 【[开方子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_fan_zz.md#开方子)】`kae1 fan1 zz` <sup>[泰兴]</sup> 开药方。  
 1. 【[开间](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_gaen.md#开间)】`kae1 gaen1` ① <sup>\[如东\]</sup>平房房间的横向长度。 ② <sup>\[如皋\]</sup>室内宽度，与“进深”相对。 ③ <sup>\[兴化\]</sup>指房屋的宽度：三米～<sup>\[兴化\]</sup>｜五米～。<sup>\[兴化\]</sup>  
 1. 【[开工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_gon.md#开工)】`kae1 gon1` <sup>[如东]</sup> ① 工程开始：楼房明朝～。 ② 开始工作。  
@@ -92,8 +90,7 @@
 1. 【[开门头市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_men_teu_shr.md#开门头市)】`kae1 men2 teu2 shr6` <sup>[如东]</sup> 第一次交易：～就很好。  
 1. 【[开门戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_men_xi.md#开门戏)】`kae1 men2 xi5` ① <sup>\[如皋\]</sup>演戏散场前，把门打开，让观众陆续退场，此时外面的人可进场免费看戏，此为开门戏。 ② <sup>\[兴化\]</sup>旧时剧场演戏，至散场前半小时左右即打开大门，让人自由进去观赏：谚曰：～好看，伺候难当。<sup>\[兴化\]</sup>  
 1. 【[开门戏好看——难等](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_men_xi_ho_kun_naen_den.md#开门戏好看——难等)】`kae1 men2 xi5 ho3 kun5 naen2 den3` <sup>[如皋]</sup> 等到最后才能看到。  
-1. 【[开蒙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_mon.md#开蒙)】`kae1 mon2` <sup>[如东]</sup> 小孩第一次进私塾读书，称开蒙。  
-1. 【[开蒙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_mon.md#开蒙)】`kae1 mon2` <sup>[泰兴]</sup> 旧时私塾教儿童开始学习或识字，亦泛指教导初学者：《三字经》、《百家姓》、《千字文》箇些总是那时候～读的书。  
+1. 【[开蒙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_mon.md#开蒙)】`kae1 mon2` ① <sup>\[如东\]</sup>小孩第一次进私塾读书，称开蒙。 ② <sup>\[泰兴\]</sup>旧时私塾教儿童开始学习或识字，亦泛指教导初学者：《三字经》、《百家姓》、《千字文》箇些总是那时候～读的书。<sup>\[泰兴\]</sup>  
 1. 【[开蒙儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_mon_er.md#开蒙儿)】`kae1 mon2 er2` <sup>[泰县]</sup> 刚上学的孩子。  
 1. 【[开蒙<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_mon_r.md#开蒙<sub>儿</sub>)】`kae1 mon2 r` <sup>[兴化]</sup> 旧指儿童入塾接受启蒙教有：～的先生。  
 1. 【[开奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_nae.md#开奶)】`kae1 nae3` <sup>[如皋]</sup> 初生儿开始吃奶。旧时在“洗三”日。后来不限。  
@@ -113,7 +110,7 @@
 1. 【[开水炉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_shuei_lv_zz.md#开水炉子)】`kae1 shuei3 lv2 zz` <sup>[如皋]</sup> 见“老虎灶”。  
 1. 【[开司米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_sz_mi.md#开司米)】`kae1 sz1 mi3` 羊绒；羊绒毛线  
 1. 【[开抬头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_tae_teu.md#开抬头)】`kae1 tae2 teu2` <sup>[东台]</sup> 指发票上注明客户名称。（参见“抬头”）  
-1. 【[开汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_tan.md#开汤)】`kae1 tan1` ① <sup>\[如东\]</sup>浴室开门或开始营业。 ② <sup>\[如皋\]</sup>公共浴室开始营业。 ③ <sup>\[兴化\]</sup>即浴室开门营业：……（他）见白玉池门口“菊花香水”的大灯笼已挂出来，晓得里面已～，就往前跑。（《皮五辣子》一）<sup>\[兴化\]</sup> ④ <sup>\[泰县\]</sup>浴室开门：浴室九点～。  
+1. 【[开汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_tan.md#开汤)】`kae1 tan1` <sup>\[如东\]\[如皋\]\[兴化\]\[泰县\]</sup>浴室开始营业：……（他）见白玉池门口“菊花香水”的大灯笼已挂出来，晓得里面已～，就往前跑。（《皮五辣子》一）<sup>\[兴化\]</sup>｜浴室九点～。<sup>\[泰县\]</sup>  
 1. 【[开趟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_tan.md#开趟)】`kae1 tan5` <sup>[如东]</sup> 开始：这潮水才～。  
 1. 【[开头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_teu.md#开头)】`kae1 teu` ① <sup>\[如东\]</sup>外边。 ② <sup>\[如东\]</sup>外海，外洋，渔民称开头：这一汛，我俫到～去打鱼。<sup>\[如东\]</sup> ③ <sup>\[兴化\]</sup>其他地方：这种技术是～传过来的。<sup>\[兴化\]</sup>｜这位先生是从～请过来的。<sup>\[兴化\]</sup>  
 1. 【[开头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_teu.md#开头)】`kae1 teu2` ① <sup>\[如东\]</sup>开始：今天～。<sup>\[如东\]</sup> ② <sup>\[如东\]</sup>第一次：～是他。<sup>\[如东\]</sup> ③ <sup>\[如皋\]</sup>开始之时。  
@@ -121,10 +118,8 @@
 1. 【[开玩笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_vaen_xio.md#开玩笑)】`kae1 vaen2 xio5` <sup>[如东]</sup> 用不严肃的言语或态度戏弄人。  
 1. 【[开网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_van.md#开网)】`kae1 van3` <sup>[如东]</sup> 渔船上向海洋里撒网捕鱼，叫做开网。  
 1. 【[开网的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_van_dii.md#开网的)】`kae1 van3 dii` <sup>[如东]</sup> 负责开网的渔民。开网渔民的份额一般为1.25。  
-1. 【[开胃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_vei.md#开胃)】`kae1 vei5` <sup>[兴化]</sup> 开玩笑：你覅拿老实人～吧！  
-1. 【[开胃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_vei.md#开胃)】`kae1 vei5` <sup>[泰兴]</sup> 增进食欲：箇药吃咖就开胃lo。  
-1. 【[开味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_vei.md#开味)】`kae1 vei6` <sup>[兴化]</sup> 开心：取经和尚找话说，八百里通天河大水烧开了，是拿人～，三更天的梦话。（扬一《通天河》）  
-1. 【[开味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_vei.md#开味)】`kae1 vei6` <sup>[泰兴]</sup> 味道鲜美：今朝箇些菜只叫个～。  
+1. 【[开胃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_vei.md#开胃)】`kae1 vei5` ① <sup>\[兴化\]</sup>开玩笑：你覅拿老实人～吧！<sup>\[兴化\]</sup> ② <sup>\[泰兴\]</sup>增进食欲：箇药吃咖就开胃lo。<sup>\[泰兴\]</sup>  
+1. 【[开味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_vei.md#开味)】`kae1 vei6` ① <sup>\[兴化\]</sup>开心：取经和尚找话说，八百里通天河大水烧开了，是拿人～，三更天的梦话。（扬一《通天河》）<sup>\[兴化\]</sup> ② <sup>\[泰兴\]</sup>味道鲜美：今朝箇些菜只叫个～。<sup>\[泰兴\]</sup>  
 1. 【[开心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_xien.md#开心)】`kae1 xien1` ① <sup>\[如东\]\[泰兴\]</sup>高兴，快乐，愉悦。 ② <sup>\[如东\]\[泰兴\]</sup>开玩笑：你不要拿我～。<sup>\[如东\]</sup>｜我同他～的，他倒当吖真。<sup>\[泰兴\]</sup>  
 1. 【[开销](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_xio.md#开销)】`kae1 xio` <sup>[泰兴]</sup> 花费、支付其所应支用的经费：今朝的中饭开销五百多块钱。  
 1. 【[开销](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_xio.md#开销)】`kae1 xio1` <sup>[如东]</sup> 日常开支：～很大。  
@@ -208,8 +203,7 @@
 1. 【[鹐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen.md#鹐)】`kaen1` ① <sup>\[如东\]</sup>啄食：鸡子～大麦。<sup>\[如东\]</sup> ② <sup>\[如东\]</sup>啄人：鸟～人。<sup>\[如东\]</sup> ③ <sup>\[如皋\]</sup>啄：鸡子～虫子。<sup>\[如皋\]</sup> ④ <sup>\[东台\]</sup>尖嘴的鸟类啄食。 ⑤ <sup>\[兴化\]</sup>鸟啄物。儿歌：捣鬼捣鬼，喜鹊～嘴。《集韵·咸韵》苦咸切：“～，鸟啄物”。 ⑥ <sup>\[泰县\]</sup>啄食：鸡子～石头。<sup>\[泰县\]</sup> ⑦ <sup>\[泰州\]</sup>鸟类啄食：鸡子把田里的菜～掉不少。<sup>\[泰州\]</sup>  
 1. 【[鹐食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen_sheh.md#鹐食)】`kaen1 sheh8` <sup>[东台]</sup> 因吃不饱饭影响健康。  
 1. 【[䶠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen.md#䶠)】`kaen2` ① <sup>\[如东\]</sup>紧，精明：这个人打牌～。<sup>\[如东\]</sup> ② <sup>\[如皋\]</sup>钳、夹。 ③ <sup>\[如皋\]</sup>引指过分精明：他处世～。<sup>\[如皋\]</sup>  
-1. 【[函子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen_zz.md#函子)】`kaen2 zz` <sup>[如东]</sup> 长方形的盒子，竖立，后面有壁，前面敞开，这种装置叫函子。有的放在柜上，有的嵌在墙中，里面供奉菩萨。  
-1. 【[函子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen_zz.md#函子)】`kaen2 zz` <sup>[如皋]</sup> ① 未成年而死者用的棺材。 ② 詈语或昵称：～唉，快点儿来吃啋！｜你这个～，你要死咯！  
+1. 【[函子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen_zz.md#函子)】`kaen2 zz` ① <sup>\[如东\]</sup>长方形的盒子，竖立，后面有壁，前面敞开，这种装置叫函子。有的放在柜上，有的嵌在墙中，里面供奉菩萨。 ② <sup>\[如皋\]</sup>未成年而死者用的棺材。 ③ <sup>\[如皋\]</sup>詈语或昵称，称小孩：～唉，快点儿来吃啋！<sup>\[如皋\]</sup>｜你这个～，你要死咯！<sup>\[如皋\]</sup>  
 1. 【[函子钉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen_zz_dien_r.md#函子钉<sub>儿</sub>)】`kaen2 zz dien1 r` <sup>[如东]</sup> 比喻顽皮的小孩子：不晓得这个～到哪许去啊。  
 1. 【[限](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen.md#限)】`kaen3` <sup>[如皋]</sup> ① 过分精明，斤斤计较：他待人接物太～。 ② 量接近而偏少：秤称得～；～～儿的一斤｜现在是四点～一分。  
 1. 【[限限的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen_kaen_dii.md#限限的)】`kaen3 kaen3 dii` <sup>[如皋]</sup> 将近够到，只差点点。  

@@ -1292,8 +1292,7 @@
 1. 【[划水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_shuei.md#划水)】`hua2 shuei3` ① <sup>\[如东\]</sup>用工具在水中向前划动：用桨～。<sup>\[如东\]</sup> ② <sup>\[如东\]</sup>鱼鳍。 ③ <sup>\[如皋\]</sup>向后拨水为划水：鸭子～。<sup>\[如皋\]</sup> ④ <sup>\[如皋\]</sup>指鱼鳍。 ⑤ <sup>\[兴化\]</sup>鱼鳍的俗称。 ⑥ <sup>\[泰县\]</sup>鱼。 ⑦ <sup>\[泰县\]</sup>鱼鳍。 ⑧ <sup>\[泰县\]</sup>游泳。  
 1. 【[划算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_sun.md#划算)】`hua2 sun5` ① <sup>\[如东\]</sup>合算：用这种材料～。<sup>\[如东\]</sup> ② <sup>\[东台\]</sup>上算，合算。也叫划得来。 ③ <sup>\[兴化\]</sup>上算、合算：……一看是郑板桥画的扇子，个个都惊呆了。只二两银子，太～了！（《郑板桥传说·大年初一卖扇子》）<sup>\[兴化\]</sup> ④ <sup>\[兴化\]</sup>盘算、计算：～下来这笔生意还是不能做。<sup>\[兴化\]</sup>  
 1. 【[划周](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_zheu.md#划周)】`hua2 zheu1` <sup>[兴化]</sup> 为小孩贺周岁。“划”也读va2。  
-1. 【[划子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_zz.md#划子)】`hua2 zz` <sup>[泰县]</sup> 桨。  
-1. 【[划子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_zz.md#划子)】`hua2 zz` <sup>[泰兴]</sup> 小船  
+1. 【[划子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_zz.md#划子)】`hua2 zz` ① <sup>\[泰县\]</sup>桨。 ② <sup>\[泰兴\]</sup>小船  
 1. 【[华乐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_lah.md#华乐)】`hua2 lah` <sup>[东台]</sup> ① 不切实际的奢侈、浮华。 ② 快活。  
 1. 【[华乐天宫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_lah_tin_gon.md#华乐天宫)】`hua2 lah8 tin1 gon1` <sup>[兴化]</sup> 形容建筑物的装璜或装饰富丽堂皇：周老二做生意发咖财，把家里装璜得～的。  
 1. 【[华录](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_loh.md#华录)】`hua2 loh8` <sup>[如东]</sup> 质量不好：这些东西都是一些～货。  

@@ -104,8 +104,7 @@
 1. 【[鸡子只㗇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zz_zheh_ha.md#鸡子只㗇)】`ji1 zz zheh7 ha2` <sup>[如皋]</sup> 鸡张口喘气状。表天气炎热。  
 1. 【[鸡子翅膀只躴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zz_zhr_ban_zheh_lan.md#鸡子翅膀只躴)】`ji1 zz zhr5 ban zheh7 lan2` <sup>[如皋]</sup> 表天气炎热或闷热。  
 1. 【[麂毛草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_mo_co.md#麂毛草)】`ji1 mo2 co3` <sup>[如东]</sup> 草本植物，丛生，叶细长，似猪毛。  
-1. 【[齑菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_cae.md#齑菜)】`ji1 cae5` <sup>[东台]</sup> 见“酸齑菜”。“齑”古籍用“虀”，现也用“𪊆”。  
-1. 【[齑菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_cae.md#齑菜)】`ji1 cae5` <sup>[兴化]</sup> 小青菜用热水烫后发酵，色青黄，味微酸，可用米烧汤：～散花驼子（肉圆）。  
+1. 【[齑菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_cae.md#齑菜)】`ji1 cae5` ① <sup>\[东台\]</sup>见“酸齑菜”。“齑”古籍用“虀”，现也用“𪊆”。 ② <sup>\[兴化\]</sup>小青菜用热水烫后发酵，色青黄，味微酸，可用米烧汤：～散花坨子（肉圆）。<sup>\[兴化\]</sup>  
 1. 【[齑糟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zo.md#齑糟)】`ji1 zo` <sup>[泰兴]</sup> 焦虑，心神不宁  
 1. 【[𨳻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#𨳻)】`ji1` ① 门臼。 ② 拧着转  
 1. 【[几](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#几)】`ji3` <sup>[如皋]</sup> 条几、香几等的通称。  
