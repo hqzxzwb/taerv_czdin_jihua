@@ -1493,7 +1493,7 @@
 1. 【[㸌泡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huah_po_r.md#㸌泡<sub>儿</sub>)】`huah7 po1 r` <sup>\[如东\]</sup>（皮肤因烫、磨等）鼓起水泡  
 1. 【[㸌泡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huah_po_r.md#㸌泡<sub>儿</sub>)】`huah7 po5 r` <sup>\[如皋\]\[东台\]\[泰县\]</sup>皮肤因烫、磨等起的水泡  
 1. 【[劐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huah.md#劐)】`huah7` <sup>[如东]</sup> 用刀尖插入物体后顺势挑开一道口子。  
-1. 【[攉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huah.md#攉)】`huah7` ① <sup>\[如东\]</sup>用反手打：～他几个耳刮子。<sup>\[如东\]</sup> ② <sup>\[如皋\]</sup>挥霍：这点儿钱经不起他～，一刻儿工夫就～咖光吖。<sup>\[如皋\]</sup> ③ <sup>\[如皋\]</sup>大晃：大风吹得树只～，树头一根一根的～咖断吖。<sup>\[如皋\]</sup> ④ <sup>\[东台\]</sup>覆手。《古今韵会举要·十药》“手反覆也；摇手为挥，反手为攉”：他再烦，～他几个巴掌。<sup>\[东台\]</sup> ⑤ <sup>\[兴化\]</sup>打：～他个嘴巴子。《集韵·铎韵》忽郭切“～，手反覆也。”<sup>\[兴化\]</sup> ⑥ <sup>\[泰县\]</sup>拍打：小兵不所话，他爸爸就～他。<sup>\[泰县\]</sup> ⑦ <sup>\[泰州\]</sup>翻动手掌快速猛击：～咖几个大嘴巴子。<sup>\[泰州\]</sup>｜晚上家去捱家里老子～屁股。<sup>\[泰州\]</sup>  
+1. 【[攉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huah.md#攉)】`huah7` ① <sup>\[如东\]\[东台\]\[兴化\]\[泰县\]\[泰州\]</sup>用巴掌打，或特指反手打。《集韵·铎韵》忽郭切“～，手反覆也。”：～他几个耳刮子。<sup>\[如东\]</sup>｜他再烦，～他几个巴掌。<sup>\[东台\]</sup>｜～他个嘴巴子。<sup>\[兴化\]</sup>｜小兵不所话，他爸爸就～他。<sup>\[泰县\]</sup>｜～咖几个大嘴巴子。<sup>\[泰州\]</sup>｜晚上家去捱家里老子～屁股。<sup>\[泰州\]</sup> ② <sup>\[如皋\]</sup>挥霍：这点儿钱经不起他～，一刻儿工夫就～咖光吖。<sup>\[如皋\]</sup> ③ <sup>\[如皋\]</sup>大晃：大风吹得树只～，树头一根一根的～咖断吖。<sup>\[如皋\]</sup>  
 1. 【[攉鞭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huah_bin_zz.md#攉鞭子)】`huah7 bin1 zz` <sup>[如东]</sup> ① 用手使劲甩鞭子，使鞭梢发出响声。 ② 一种纸牌游戏活动。  
 1. 【[攉耳刮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huah_er_guaeh_zz.md#攉耳刮子)】`huah7 er3 guaeh7 zz` <sup>[如东]</sup> 打耳光。  
 1. 【[攉咖断吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huah_ga_tun_nga.md#攉咖断吖)】`huah7 ga tun6 nga` <sup>[如皋]</sup> 晃断了。  
@@ -1515,10 +1515,9 @@
 1. 【[荒场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_chan.md#荒场)】`huan1 chan` <sup>[如皋]</sup> 无主坟场。乱坟场。  
 1. 【[荒场𣜂/楔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_chan_saeh.md#荒场𣜂/楔)】`huan1 chan saeh7` <sup>[如皋]</sup> 詈语。毒骂某人死无葬身之地，只能朝荒场中硬插。  
 1. 【[荒草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_co.md#荒草)】`huan1 co3` ① <sup>\[如东\]</sup>生长在荒野的草，主要有乌蓝、仙棵、芒棵、茅草、狼尾草等。 ② <sup>\[如皋\]</sup>相对于“行草”“沟岸草”和“熟草”而言，指田禾秸杆的大部（黄豆子、小麦秆子除外）。作饲料、燃料用。  
-1. 【[荒垡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_faeh.md#荒垡)】`huan1 faeh` <sup>[兴化]</sup> 从荒地里挖出的大土块：风调雨顺的年头做圩子，都是从荡边、湖滩上挖～。（马春阳《风里雨里》）  
-1. 【[荒垡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_faen.md#荒垡)】`huan1 faen5` <sup>[泰县]</sup> 在荒草地上挖起的土块。  
-1. 【[荒饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_faen.md#荒饭)】`huan1 faen6` ① <sup>\[如东\]</sup>肚子感觉十分饥饿，渴望着想吃东西：他病吖几天，现在～。<sup>\[如东\]</sup> ② <sup>\[兴化\]</sup>粗糙的饭食：工地上条件差，马马虎虎吃碗～吧！<sup>\[兴化\]</sup> ③ <sup>\[泰县\]</sup>粗糙的饭。  
-1. 【[荒货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_hu.md#荒货)】`huan1 hu5` ① <sup>\[东台\]</sup>废的、旧的或失去原有使用价值的物品：拾～<sup>\[东台\]</sup>｜收～。<sup>\[东台\]</sup> ② <sup>\[兴化\]</sup>破烂：拾～（捡破烂）。<sup>\[兴化\]</sup> ③ <sup>\[兴化\]</sup>破旧的失去原有使用价值的物品：收～的<sup>\[兴化\]</sup>｜～摊儿。<sup>\[兴化\]</sup>  
+1. 【[荒垡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_faeh.md#荒垡)】`huan1 faeh` <sup>\[兴化\]\[泰县\]</sup>从荒地里挖出的大土块\[泰县：（huan1 faen5）\]：风调雨顺的年头做圩子，都是从荡边、湖滩上挖～。（马春阳《风里雨里》）<sup>\[兴化\]</sup>  
+1. 【[荒饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_faen.md#荒饭)】`huan1 faen6` ① <sup>\[如东\]</sup>肚子感觉十分饥饿，渴望着想吃东西：他病吖几天，现在～。<sup>\[如东\]</sup> ② <sup>\[兴化\]\[泰县\]</sup>粗糙的饭食：工地上条件差，马马虎虎吃碗～吧！<sup>\[兴化\]</sup>  
+1. 【[荒货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_hu.md#荒货)】`huan1 hu5` <sup>\[东台\]\[兴化\]</sup>废的、旧的或失去原有使用价值的物品：拾～<sup>\[东台\]</sup>｜收～。<sup>\[东台\]</sup>｜拾～/捡破烂<sup>\[兴化\]</sup>｜收～的<sup>\[兴化\]</sup>｜～摊儿。<sup>\[兴化\]</sup>  
 1. 【[荒粮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_lian.md#荒粮)】`huan1 lian2` ① <sup>\[如皋\]</sup>“船粮”以外的杂粮。如：大麦、元麦、高粱、芦、小米、荞麦等。 ② <sup>\[东台\]</sup>除稻米、小麦以外的粗粮。 ③ <sup>\[兴化\]</sup>粗粮、杂粮。  
 1. 【[荒吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_nga.md#荒吖)】`huan1 nga` <sup>[如皋]</sup> 织物磨损虽未裂，但强度差。  
 1. 【[荒年成](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_nin_chen.md#荒年成)】`huan1 nin2 chen2` <sup>[如皋]</sup> 荒年。  
@@ -1527,14 +1526,12 @@
 1. 【[荒刨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_po.md#荒刨)】`huan1 po6` <sup>[兴化]</sup> 见“粗刨”。  
 1. 【[荒田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_tin.md#荒田)】`huan1 tin2` ① <sup>\[如东\]</sup>不种庄家的土地，称荒田。 ② <sup>\[如皋\]</sup>弃耕的或未开垦的土地。 ③ <sup>\[东台\]</sup>没有耕种的土地。  
 1. 【[荒田野草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_tin_ia_co.md#荒田野草)】`huan1 tin2 ia3 co3` <sup>[如皋]</sup> ① 状荒芜、人迹稀少的地方。 ② 贬指人之粗鄙，常口吐污秽之语。  
-1. 【[黄巴气鼓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ba_qi_gu.md#黄巴气鼓)】`huan1 ba1 qi5 gu3` <sup>[泰县]</sup> 病态：他脸上一点儿血色都没有，～的。  
+1. 【[黄巴气鼓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ba_qi_gv.md#黄巴气鼓)】`huan1 ba1 qi5 gv3` <sup>[泰县]</sup> 病态：他脸上一点儿血色都没有，～的。  
 1. 【[黄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_zz.md#黄子)】`huan1 zz` <sup>[泰县]</sup> 蛋黄。  
-1. 【[惶不起](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_beh_qi.md#惶不起)】`huan2 beh7 qi3` <sup>[泰县]</sup> 不好推托、回避：今吖他清客，～，大家一起儿去吧。  
 1. 【[惶气巴巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_qi_ba_ba.md#惶气巴巴)】`huan2 qi5 ba1 ba1` <sup>[泰县]</sup> 尴尬，不好意思、难为情：小张去借钱，不曾借到，～的家来啊。  
 1. 【[惶腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_qian.md#惶腔)】`huan2 qian1` <sup>[泰县]</sup> 没趣：他去找领导要官当，弄吖个～。  
 1. 【[皇帝的妈妈——太后（厚）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_di_dii_ma_ma_tae_heu.md#皇帝的妈妈——太后（厚）)】`huan2 di dii ma1 ma1 tae5 heu6` <sup>[如皋]</sup>   
-1. 【[皇帝是假，福气是真](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_di_shr_jia_foh_qi_shr_zhen.md#皇帝是假，福气是真)】`huan2 di5 shr6 jia3 foh7 qi5 shr6 zhen1` <sup>[东台]</sup> 地位并不重要，生活幸福才真值得追求。  
-1. 【[皇秧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ian.md#皇秧)】`huan2 ian1` <sup>[如东]</sup> 稻秧。也叫小秧。  
+1. 【[皇帝是假，福气是真](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_di_shr_jia_foh_qi_shr_zhen.md#皇帝是假，福气是真)】`huan2 di shr6 jia3 foh7 qi5 shr6 zhen1` <sup>[东台]</sup> 地位并不重要，生活幸福才真值得追求。  
 1. 【[皇粮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_lian.md#皇粮)】`huan2 lian2` <sup>[东台]</sup> 借旧时说法，指由国家提供的经费：公务员是吃～的人，理当秉公办事。  
 1. 【[皇历](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_lieh.md#皇历)】`huan2 lieh8` <sup>[东台]</sup> 历书，也称“黄历”：要与时俱进，不能老翻旧～。  
 1. 【[皇天白日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_tin_poh_rih.md#皇天白日)】`huan2 tin1 poh8 rih8` <sup>[如东]</sup> 天气晴朗：，带甚的雨伞！  
@@ -1545,39 +1542,38 @@
 1. 【[黄巴巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ba_ba.md#黄巴巴)】`huan2 ba1 ba1` <sup>[兴化]</sup> 形容面无血色：他脸上～的，就像才害过大病。  
 1. 【[黄巴擸𢶍的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ba_laeh_saeh_dii.md#黄巴擸𢶍的)】`huan2 ba1 laeh8 saeh7 dii` <sup>[东台]</sup> 形容黄色黄得难看：那件衣服～，我不要！  
 1. 【[黄板筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_baen_jien.md#黄板筋)】`huan2 baen3 jien1` <sup>[兴化]</sup> 靠近肩胛骨的韧带：“……爹说筋骨不舒服，他便来捏～……”（《四杰传》十五）  
-1. 【[黄不起](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_beh_qi.md#黄不起)】`huan2 beh7 qi3` ① <sup>\[如东\]</sup>不好推托、回避：老大说的，～，大家都去吧。<sup>\[如东\]</sup> ② <sup>\[东台\]</sup>不好拒绝，得罪不起。  
-1. 【[黄包车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_bo_cha.md#黄包车)】`huan2 bo cha1` <sup>[兴化]</sup> 人力车：拉～。  
-1. 【[黄包车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_bo_cha.md#黄包车)】`huan2 bo1 cha1` <sup>[如皋]</sup> 人力车。  
-1. 【[黄柏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_boh.md#黄柏)】`huan2 boh7` ① <sup>\[如东\]</sup>芸香科植物黄柏，落叶乔木。 ② <sup>\[如皋\]</sup>黄柏，又作“黄檗”，芸香科植物。  
+1. 【[黄不起](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_beh_qi.md#黄不起)】`huan2 beh7 qi3` ① <sup>\[如东\]\[泰县\]</sup>不好推托、回避：老大说的，～，大家都去吧。<sup>\[如东\]</sup>｜今吖他清客，～，大家一起儿去吧。<sup>\[泰县\]</sup> ② <sup>\[东台\]</sup>不好拒绝，得罪不起。  
+1. 【[黄包车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_bo_cha.md#黄包车)】`huan2 bo cha1` <sup>\[如皋\]\[兴化\]</sup>人力车\[如皋：又（huan2 bo1 cha1）\]：拉～。<sup>\[兴化\]</sup>  
+1. 【[黄柏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_boh.md#黄柏)】`huan2 boh7` <sup>\[如东\]\[如皋\]</sup>黄柏，芸香科植物黄柏，又作“黄檗”  
 1. 【[黄百户](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_boh_hu.md#黄百户)】`huan2 boh7 hu2` <sup>[如皋]</sup> 地名。今如皋胜利乡的自然村。元代军制设百户长，蒙、汉各一人，此为汉人黄姓驻所。  
 1. 【[黄䱗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_caen.md#黄䱗)】`huan2 caen1` <sup>[如皋]</sup> 大䱗鱼，鳞色黄。又叫翘嘴儿。  
-1. 【[黄橙橙的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_chen_chen_dii.md#黄橙橙的)】`huan2 chen chen dii` <sup>[如皋]</sup> 淡黄色。  
-1. 【[黄住啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_chu_a.md#黄住啊)】`huan2 chu a` <sup>[如皋]</sup> 见“黄孔儿”。  
+1. 【[黄□□的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_chen_chen_dii.md#黄□□的)】`huan2 chen chen1 dii` <sup>[如皋]</sup> 淡黄色。  
+1. 【[黄住啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_chv_a.md#黄住啊)】`huan2 chv a` <sup>[如皋]</sup> 见“黄孔儿”。  
 1. 【[黄鼠狼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_chv_lan.md#黄鼠狼)】`huan2 chv3 lan2` <sup>[如东]</sup> 鼬科动物黄鼬。  
 1. 【[黄呆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_dae_zz.md#黄呆子)】`huan2 dae1 zz` <sup>[兴化]</sup> 黄烧饼的别称。  
-1. 【[黄得格辣格辣的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_deh_geh_laeh_geh_laeh_dii.md#黄得格辣格辣的)】`huan2 deh geh7 laeh8 geh7 laeh8 dii` <sup>[如皋]</sup> 见“黄孔儿”。  
+1. 【[黄得格辣格辣的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_deh_geh_laeh_geh_laeh_dii.md#黄得格辣格辣的)】`huan2 deh geh7 laeh geh7 laeh dii` <sup>[如皋]</sup> 见“黄孔儿”。  
 1. 【[黄澄澄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_den_den.md#黄澄澄)】`huan2 den1 den1` <sup>[如东]</sup> 黄色鲜艳：金戒戒儿～的。  
 1. 【[黄澄澄的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_den_den_dii.md#黄澄澄的)】`huan2 den1 den1 dii` <sup>[如皋]</sup> 淡黄色。  
-1. 【[黄瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_gua.md#黄瓜)】`huan2 gua1, van2 gua1` 黄瓜  
-1. 【[黄瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_gua.md#黄瓜)】`huan2 gua1` <sup>[如东]</sup> 葫芦科植物黄瓜。  
+1. 【[黄瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_gua.md#黄瓜)】`huan2 gua1, van2 gua1` 黄瓜，葫芦科植物，常见蔬菜  
 1. 【[黄泔水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_gun_shuei.md#黄泔水)】`huan2 gun1 shuei3` <sup>[兴化]</sup> 生产豆腐过程中的废水：他磨好豆浆，连豆渣和～，分别装在两只粪桶里……（马春阳《父女双婚事》）  
-1. 【[黄蛄鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_gv_y.md#黄蛄鱼)】`huan2 gv1 y2` <sup>[如东]</sup> 石首科动物黄姑鱼，体长约31厘米。  
+1. 【[黄姑鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_gv_y.md#黄姑鱼)】`huan2 gv1 y2` <sup>[如东]</sup> 石首科动物黄姑鱼，体长约31厘米。  
 1. 【[黄蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_hae.md#黄蟹)】`huan2 hae3` <sup>[如东]</sup> 海产品。八月以后，梭子蟹卵巢成熟，消化腺丰腴，煮熟后，蟹黄结块，呈橘红色，味鲜醉人。也叫姑娘蟹。  
 1. 【[黄货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_hu.md#黄货)】`huan2 hu5` <sup>[如皋]</sup> 金、金饰品。  
 1. 【[黄花脑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_hua_no_zz.md#黄花脑子)】`huan2 hua no3 zz` <sup>[兴化]</sup> 脑浆：他一个大跟头，把～都栽出来啊。  
 1. 【[黄花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_hua.md#黄花)】`huan2 hua1` <sup>[如皋]</sup> 色黄、质次的棉花。  
-1. 【[黄花菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_hua_cae.md#黄花菜)】`huan2 hua1 cae5` ① <sup>\[如东\]</sup>百合科植物摺叶萱草。 ② <sup>\[东台\]</sup>金针菜的通称。  
+1. 【[黄花菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_hua_cae.md#黄花菜)】`huan2 hua1 cae5` <sup>\[如东\]\[东台\]</sup>萱草属的一种植物，又名金针菜  
 1. 【[黄花女](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_hua_ny.md#黄花女)】`huan2 hua1 ny3` <sup>[如东]</sup> 未婚少女。  
 1. 【[黄花败酱花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_hua_pae_jian_hua.md#黄花败酱花)】`huan2 hua1 pae6 jian5 hua1` <sup>[如东]</sup> 败酱科植物花败酱，又名败酱，多年生草本。  
-1. 【[黄花<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_hua_r.md#黄花<sub>儿</sub>)】`huan2 hua1 r` ① 苜蓿 ② <sup>\[如东\]</sup>豆科植物南苜蓿和紫苜蓿，一年生或二年生草本。  
+1. 【[黄花<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_hua_r.md#黄花<sub>儿</sub>)】`huan2 hua1 r` <sup>\[如东\]</sup>苜蓿\[如东：豆科植物南苜蓿和紫苜蓿，一年生或二年生草本。\]  
 1. 【[黄黄齈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_huan_lon.md#黄黄齈)】`huan2 huan2 lon` <sup>[如皋]</sup> 脓样鼻涕。  
 1. 【[黄昏星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_huen_xien.md#黄昏星)】`huan2 huen1 xien1` <sup>[如皋]</sup> 金星。  
-1. 【[黄秧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ian.md#黄秧)】`huan2 ian1` <sup>[如皋]</sup> 刚裁，未醒棵的秧苗。  
+1. 【[黄秧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ian.md#黄秧)】`huan2 ian1` <sup>[如东]</sup> 稻秧。也叫小秧。  
+1. 【[黄秧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ian.md#黄秧)】`huan2 ian1` <sup>[如皋]</sup> 刚栽，未醒棵的秧苗。  
 1. 【[黄杨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ian.md#黄杨)】`huan2 ian2` <sup>[如东]</sup> 黄杨科植物黄杨，常绿灌木或小乔木。  
 1. 【[黄逸峰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ieh_fon.md#黄逸峰)】`huan2 ieh8 fon1` <sup>[东台]</sup> （1906—1988），东台人。久经考验的忠诚的共产主义战士，社会科学家。1925年加入中国共产党。大革命时期任南京地委书记；抗日战争期间受党支派出任苏北联抗司令，苏北参议会议长。解放后先后担任上海铁路局局长，华东交通部部长，上海社会科学院院长等职。  
 1. 【[黄英菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ien_cae.md#黄英菜)】`huan2 ien1 cae5` <sup>[如皋]</sup> 菘。  
 1. 【[黄烟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_in.md#黄烟)】`huan2 in1` ① <sup>\[如皋\]</sup>黄桥出产的旱烟。 ② <sup>\[兴化\]</sup>旱烟丝。  
-1. 【[黄元](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_iun.md#黄元)】`huan2 iun2` ① <sup>\[如东\]</sup>迷信品。一种黄色的纸，上面打成许多圆形的小孔，作为纸钱，灼化给祖宗亡人使用。 ② <sup>\[如皋\]</sup>迷信品。印有神像的黄纸。  
+1. 【[黄元](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_iun.md#黄元)】`huan2 iun2` <sup>\[如东\]\[如皋\]</sup>迷信品。\[如东：一种黄色的纸，上面打成许多圆形的小孔，作为纸钱，灼化给祖宗亡人使用。\]\[如皋：印有神像的黄纸。\]  
 1. 【[黄鸡揢嗓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ji_ka_san.md#黄鸡揢嗓)】`huan2 ji1 ka5 san3` <sup>[兴化]</sup> 用虎口紧紧按住脖子：他捱歹徒一个～，半天喊不出声。  
 1. 【[黄雀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_jiah.md#黄雀)】`huan2 jiah` <sup>[如皋]</sup> 金丝雀。  
 1. 【[黄鲫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_jieh_zz.md#黄鲫子)】`huan2 jieh7 zz` <sup>[如东]</sup> 鳗科动物黄鲫，体长约15厘米。  
@@ -1662,7 +1658,7 @@
 1. 【[谎子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_zz.md#谎子)】`huan3 zz` <sup>[如皋]</sup> 没有、未曾：你哿曾带钱吖？——带～！  
 1. 【[晃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan.md#晃)】`huan5` ① <sup>\[如东\]</sup>摇摆：篮子挂啊树枝儿上乱～。<sup>\[如东\]</sup> ② <sup>\[如东\]</sup>抛出去：没用的东西，我都～出去啊。<sup>\[如东\]</sup> ③ <sup>\[如皋\]</sup>口头语。意为打赌、挑衅、走着瞧：是不是～下来看、敢不敢～下子。 ④ <sup>\[泰州\]</sup>随意闲逛：不晓得他人又～吖哪块去啊唻。<sup>\[泰州\]</sup>  
 1. 【[晃膀子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ban_zz.md#晃膀子)】`huan5 ban3 zz` <sup>[兴化]</sup> 无事闲逛：他成天不做事，吃饱啊就去～。  
-1. 【[晃长子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_chan_zz.md#晃长子)】`huan5 chan2 zz` <sup>[兴化]</sup> 瘦高个儿：老毛是个～，走路总𨉣啊腰在下。  
+1. 【[晃长子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_chan_zz.md#晃长子)】`huan5 chan2 zz` <sup>[兴化]</sup> 瘦高个儿：老毛是个～，走路腰总𨉣啊在下。  
 1. 【[晃大晃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_da_huan.md#晃大晃)】`huan5 da6 huan5` <sup>[如东]</sup> 欺骗：他玩的是～。  
 1. 【[晃晃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_huan.md#晃晃)】`huan5 huan5` ① <sup>\[如东\]</sup>耍耍：出去～。<sup>\[如东\]</sup> ② <sup>\[东台\]</sup>通“逛逛”：东～，西～，半天就过去了。<sup>\[东台\]</sup>  
 1. 【[晃晃子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_huan_zz.md#晃晃子)】`huan5 huan5-3 zz` <sup>[东台]</sup> 丝绸、化纤之类非棉布衣料的俗称。堤东称“晃晃儿”。  
