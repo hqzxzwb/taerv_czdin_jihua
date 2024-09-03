@@ -1567,8 +1567,7 @@
 1. 【[黄花<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_hua_r.md#黄花<sub>儿</sub>)】`huan2 hua1 r` <sup>\[如东\]</sup>苜蓿\[如东：豆科植物南苜蓿和紫苜蓿，一年生或二年生草本。\]  
 1. 【[黄黄齈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_huan_lon.md#黄黄齈)】`huan2 huan2 lon` <sup>[如皋]</sup> 脓样鼻涕。  
 1. 【[黄昏星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_huen_xien.md#黄昏星)】`huan2 huen1 xien1` <sup>[如皋]</sup> 金星。  
-1. 【[黄秧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ian.md#黄秧)】`huan2 ian1` <sup>[如东]</sup> 稻秧。也叫小秧。  
-1. 【[黄秧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ian.md#黄秧)】`huan2 ian1` <sup>[如皋]</sup> 刚栽，未醒棵的秧苗。  
+1. 【[黄秧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ian.md#黄秧)】`huan2 ian1` ① <sup>\[如东\]</sup>稻秧。也叫小秧。 ② <sup>\[如皋\]</sup>刚栽，未醒棵的秧苗。  
 1. 【[黄杨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ian.md#黄杨)】`huan2 ian2` <sup>[如东]</sup> 黄杨科植物黄杨，常绿灌木或小乔木。  
 1. 【[黄逸峰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ieh_fon.md#黄逸峰)】`huan2 ieh8 fon1` <sup>[东台]</sup> （1906—1988），东台人。久经考验的忠诚的共产主义战士，社会科学家。1925年加入中国共产党。大革命时期任南京地委书记；抗日战争期间受党支派出任苏北联抗司令，苏北参议会议长。解放后先后担任上海铁路局局长，华东交通部部长，上海社会科学院院长等职。  
 1. 【[黄英菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ien_cae.md#黄英菜)】`huan2 ien1 cae5` <sup>[如皋]</sup> 菘。  
