@@ -1590,7 +1590,7 @@
 1. 【[黄梅天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_mei_tin.md#黄梅天)】`huan2 mei2 tin1` <sup>[如东]</sup> 春末夏初，芒种到夏至间，梅子黄熟的一段时间，我国长江中下游地区连绵阴雨，空气潮湿，衣物等容易长霉，称黄梅天。也称黄梅季。  
 1. 【[黄眉柳莺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_mi_lieu_ien.md#黄眉柳莺)】`huan2 mi2 lieu3 ien1` <sup>[如东]</sup> 一种小型莺类。体长约9厘米，体色与叶相似，翼上有两道黄斑。生活在杨柳树上或其他树上，跳跃敏捷。常三五成群觅食，以昆虫为主。鸣叫声洪亮。属益鸟。  
 1. 【[黄明胶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_mien_jio.md#黄明胶)】`huan2 mien2 jio1` <sup>[如东]</sup> 牛科动物黄牛皮熬成的胶。  
-1. 【[黄面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_min.md#黄面)】`huan2 min6` ① <sup>\[如皋\]</sup>见“大刀面”。 ② <sup>\[如皋\]</sup>见“切面”。也说van2 min6。  
+1. 【[黄面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_min.md#黄面)】`huan2 min6, van2 min6` <sup>\[如皋\]</sup>见“大刀面”、“切面”。  
 1. 【[黄面佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_min_lo_r.md#黄面佬<sub>儿</sub>)】`huan2 min6 lo3 r` <sup>[如皋]</sup> 脸色发黄、贫血、营养不良、有病的人。  
 1. 【[黄苗猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_mio_zhv.md#黄苗猪)】`huan2 mio2 zhv1` <sup>[如皋]</sup> 一种肉色发黄，肉味有狐臭的猪。  
 1. 【[黄毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_mo.md#黄毛)】`huan2 mo2` 黄头发；黄头发的人  

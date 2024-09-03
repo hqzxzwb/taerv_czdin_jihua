@@ -1539,6 +1539,7 @@
 1. 【[有事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_shr.md#有事)】`ieu3 shr6` ① <sup>\[东台\]</sup>打发别人走开的借口。 ② <sup>\[兴化\]</sup>出了岔子：不好，～！<sup>\[兴化\]</sup> ③ <sup>\[兴化\]</sup>讳饰词，指妇女睡前的个人卫生。 ④ <sup>\[泰县\]</sup>（表示厌恶）去你的吧：（甲要跟着乙一起到某人家去玩，乙说）～，要你去作甚的？  
 1. 【[有事不怕事，无事不生事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_shr_beh_pa_shr_v_shr_beh_shen_shr.md#有事不怕事，无事不生事)】`ieu3 shr6 beh7 pa5 shr6 v2 shr6 beh7 shen1 shr6` <sup>[东台]</sup> 一种谨慎而又负责的处事态度。  
 1. 【[有事有人，无事无人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_shr_ieu_ren_v_shr_v_ren.md#有事有人，无事无人)】`ieu3 shr6 ieu3 ren2 v2 shr6 v2 ren2` <sup>[东台]</sup> 一种势利小人的目光，是没有真正的朋友的。  
+1. 【[有事骂人不为多，无事骂人下油锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_shr_ma_ren.md#有事骂人不为多，无事骂人下油锅)】`ieu3 shr6 ma6 ren2 beh7 vei du1 v2 shr6 ma6 ren2 ha6 ieu2 gu1` <sup>[泰兴]</sup> 强调无事不该骂人  
 1. 【[有耍头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_shua_teu.md#有耍头)】`ieu3 shua3 teu` <sup>[如皋]</sup> 值得玩。“耍”有时促化。  
 1. 【[有说头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_shuh_teu.md#有说头)】`ieu3 shuh7 teu` <sup>[如皋]</sup> 值得说，有所据。  
 1. 【[有数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_shv.md#有数)】`ieu3 shv5` ① 心里清楚明白 ② <sup>\[如东\]</sup>知道数目，心里清楚：他是来要账的，我心里～。<sup>\[如东\]</sup> ③ <sup>\[如东\]</sup>数目不多：花这几个钱，～。<sup>\[如东\]</sup>  

@@ -85,8 +85,8 @@
 1. 【[三分钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_fen_qin.md#三分钱)】`saen1 fen qin2` <sup>[兴化]</sup> 指借贷时月息三分：汤瞎子放债，～的利，借一千块，每月利息三十块钱。  
 1. 【[三分帮人真帮人，七分帮人帮煞人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_fen_ban_ren_zhen_ban_ren_qieh_fen_ban_ren_ban_shaeh_ren.md#三分帮人真帮人，七分帮人帮煞人)】`saen1 fen1 ban1 ren2 zhen1 ban1 ren2 qieh7 fen1 ban1 ren2 ban1 shaeh7 ren2` <sup>[东台]</sup> 过分向某人倾斜帮助反而有害。  
 1. 【[三分像人，七分像鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_fen_qian_ren.md#三分像人，七分像鬼)】`saen1 fen1 qian6 ren2 qieh7 fen1 qian6 guei3` <sup>[泰兴]</sup> 骂人长相难看。  
-1. 【[三分吃药，七分调理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_fen_qieh_iah.md#三分吃药，七分调理)】`saen1 fen1 qieh7 iah8 qieh7 fen1 tio2 li3` <sup>[泰兴]</sup> 谓人有病，药物治疗只占三分，主要是靠保养、调理。  
 1. 【[三分吃药，七分调理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_fen_qieh_iah_qieh_fen_tio_li.md#三分吃药，七分调理)】`saen1 fen1 qieh7 iah8 qieh7 fen1 tio2 li3` <sup>[东台]</sup> 心理平衡比吃药更利于健康。  
+1. 【[三分吃药，七分调理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_fen_qieh_iah.md#三分吃药，七分调理)】`saen1 fen1 qieh7 iah8 qieh7 fen1 tio2 li3` <sup>[泰兴]</sup> 谓人有病，药物治疗只占三分，主要是靠保养、调理。  
 1. 【[三分三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_fen_saen.md#三分三)】`saen1 fen1 saen1` ① <sup>\[如皋\]\[如东\]</sup>比喻相当的把握：没得～，不吃这碗饭。<sup>\[如皋\]</sup>｜没得～，不吃这碗饭。<sup>\[如东\]</sup> ② <sup>\[泰兴\]</sup>平均分成三个等分。  
 1. 【[三伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_foh.md#三伏)】`saen1 foh8` ① <sup>\[如东\]</sup>三伏的日期是按照节气的日期并配合干支记日来决定的。按夏历规定，夏至后第三个庚日为初伏，第四个庚日为中伏，立秋后第一个庚日为末伏，共三十天，是一年中最热的时期。 ② <sup>\[东台\]</sup>初伏、中伏、秋伏的统称。是一年当中天气最热的时期：冬练三九，夏练～。<sup>\[东台\]</sup> ③ <sup>\[泰兴\]</sup>即初伏、中伏、末伏。农历夏至后至立秋后这一段期间，是一年中最热的时候。  
 1. 【[三伏天穿皮袍——不看天时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_foh_tin_chun_pi_po_beh_kun_tin_shr.md#三伏天穿皮袍——不看天时)】`saen1 foh8 tin1 chun1 pi2 po2 beh7 kun5 tin1 shr2` <sup>[东台]</sup>   

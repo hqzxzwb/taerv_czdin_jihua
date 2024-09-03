@@ -900,7 +900,7 @@
 1. 【[抽行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_han.md#抽行)】`cheu1 han2` <sup>[如东]</sup> 隔一行拿东西：你抓牌不要～。  
 1. 【[抽油水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_ieu_shuei.md#抽油水)】`cheu1 ieu2 shuei3` <sup>[如皋]</sup> 从中抽取好处。  
 1. 【[抽筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_jien.md#抽筋)】`cheu1 jien1` <sup>[如东]</sup> ① 肌肉痉挛：下水游泳就怕～。 ② 找麻烦：你就会～，没完没了的。  
-1. 【[抽空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_kon.md#抽空)】`cheu1 kon5` ① <sup>\[如东\]</sup>挤出时间：请你～来下子。<sup>\[如东\]</sup> ② <sup>\[如皋\]</sup>挤出时间。  
+1. 【[抽空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_kon.md#抽空)】`cheu1 kon5` <sup>\[如东\]\[如皋\]</sup>挤出时间：请你～来下子。<sup>\[如东\]</sup>  
 1. 【[抽牌九](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_pae_jieu.md#抽牌九)】`cheu1 pae2 jieu3` <sup>[兴化]</sup> 卖糖果小贩在竹筒中放置刻有牌九点子的小竹筹一副，和顾客各抽几张，比点子决输赢。  
 1. 【[抽牵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_qin.md#抽牵)】`cheu1 qin1` <sup>[东台]</sup> （詈语）穷折腾的意思。  
 1. 【[抽穗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_qy.md#抽穗)】`cheu1 qy6` <sup>[如东]</sup> 麦子、玉米、高粱等农作物由叶鞘中长出穗头来。  
