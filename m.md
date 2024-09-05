@@ -155,6 +155,7 @@
 1. 【[蚂蚁尿书——湿（识）字不多](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_i_nio_shv_sheh_cz_beh_du.md#蚂蚁尿书——湿（识）字不多)】`ma3 i3 nio6 shv1 sheh7 cz6 beh7 du1` <sup>[东台]</sup>   
 1. 【[蚂蚁庄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_i_zhuan.md#蚂蚁庄)】`ma3 i3 zhuan1` <sup>[如皋]</sup> 自然村名，在如皋原邓园乡。2002年，旅美60余年的如皋高僧释印海捐资在原址重建法华寺，历四年成。  
 1. 【[蚂虮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ji.md#蚂虮)】`ma3 ji1` <sup>\[如皋\]\[东台\]</sup>即蚂蝗。蛭纲动物。  
+1. 【[蚂䗇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_jioh.md#蚂䗇)】`ma3 jioh` <sup>[泰兴]</sup> 水蛭。或音 ma3 jiah。  
 1. 【[蚂蝆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_mi.md#蚂蝆)】`ma3 mi3` <sup>[如皋]</sup> 蚂蚁。  
 1. 【[蚂蟥缠住咖鹭鸶脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_van_chih_chuh_ga_lv_sz_jiah.md#蚂蟥缠住咖鹭鸶脚)】`ma3 van2 chih8 chuh7 ga lv6 sz1 jiah7` <sup>[如皋]</sup> 比喻被纠缠住，甩也甩不开。chih8，缠（chin6）的促化音。  
 1. 【[马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma.md#马)】`ma3` <sup>[如东]</sup> 马科动物马。  
