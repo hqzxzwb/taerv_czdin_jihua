@@ -895,7 +895,6 @@
 1. 【[清账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_zhan.md#清账)】`qien1 zhan5` <sup>[如东]</sup> 查清账目。结清账目。  
 1. 【[清蒸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_zhen.md#清蒸)】`qien1 zhen1` <sup>[东台]</sup> 烹调法，清水文火䊳之。  
 1. 【[蜻蜓吃尾巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_tien_qieh_vei_ba.md#蜻蜓吃尾巴)】`qien1 tien2 qieh7 vei3 ba` <sup>[兴化]</sup> （喻）自己花费，并非他人所请或施舍：谚曰：～——自吃自。  
-1. 【[轻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien.md#轻)】`qien1` <sup>[如皋]</sup> 微微抖动：头～吖～的。  
 1. 【[轻巴轻巴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ba_qien_ba_dii.md#轻巴轻巴的)】`qien1 ba1 qien1 ba1 dii` <sup>[如皋]</sup> 贬指轻浮的样子。  
 1. 【[轻的哪一家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_dii_la_ieh_jia.md#轻的哪一家)】`qien1 dii la3 ieh7 jia1` <sup>[如皋]</sup> 责语，叫对方不要轻浮。  
 1. 【[轻浮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_fv.md#轻浮)】`qien1 fv2` <sup>[如东]</sup> 举止轻佻，不稳重：太～啊。  
@@ -975,6 +974,7 @@
 1. 【[青砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_zhun.md#青砖)】`qien1 zhun1` ① <sup>\[如皋\]</sup>烧制中洇过水的青色砖。 ② <sup>\[如东\]</sup>砖丕烧熟后，用水慢慢洇透，即呈青灰色，称青砖。 ③ <sup>\[兴化\]</sup>青灰色砖块，因烧制工艺不同，质地优于红砖。  
 1. 【[青枣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_zo_r.md#青枣<sub>儿</sub>)】`qien1 zo3 r` <sup>[如皋]</sup> 本地产的枣子，作水果吃。  
 1. 【[青紫贡吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_zz_gon_nga.md#青紫贡吖)】`qien1 zz3 gon5 nga` <sup>[如皋]</sup> 皮肤内现出淤血痕并肿起。贡，借指肿胀发炎。  
+1. 【[顉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien.md#顉)】`qien1` ① （【廣韻】去金切【集韻】【韻會】祛音切【正韻】驅音切，音欽。【廣韻】曲頤之貌。【前漢·揚雄傳】顉頤折頞。） ② <sup>\[如皋\]</sup>微微抖动：头～吖～的。<sup>\[如皋\]</sup>  
 1. 【[□凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_den.md#□凳)】`qien2 den5` <sup>[泰县]</sup> 大凳。  
 1. 【[□脚泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_jiah_ni.md#□脚泥)】`qien2 jiah ni2` <sup>[如皋]</sup> 黏土。  
 1. 【[□泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ni.md#□泥)】`qien2 ni2` <sup>[如皋]</sup> 黏土。如皋词典写“缠泥”。  
@@ -985,7 +985,7 @@
 1. 【[勤力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_lieh.md#勤力)】`qien2 lieh` ① 勤劳 ② <sup>\[如东\]</sup>勤劳：他做事～。<sup>\[如东\]</sup> ③ <sup>\[东台\]</sup>勤快：她家姑娘～吤（gae），丢掉钉耙拿扫帚，一天到夜不得闲。<sup>\[东台\]</sup> ④ <sup>\[兴化\]</sup>勤快：老朱家毛脚女婿真～，一上门就帮吖做事。<sup>\[兴化\]</sup>｜“你老人家这园子好菜蔬，可见是～人。”（《岐路灯》四五）<sup>\[兴化\]</sup>  
 1. 【[勤力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_lieh.md#勤力)】`qien2 lieh8` <sup>[如皋]</sup> 勤快，勤劳。  
 1. 【[勤手爪<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_sheu_zho_r.md#勤手爪<sub>儿</sub>)】`qien2 sheu3 zho3 r` <sup>[如皋]</sup> 见“手爪儿轻”。  
-1. 【[寻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien.md#寻)】`qien2` ① 找，寻找：你～哪个？/你找谁？｜钥匙～不到。/钥匙找不到。 ② <sup>\[如皋\]</sup>挣：～钱。 ③ <sup>\[如皋\]</sup>找：不晓得放吖在哪许，要～下子。 ④ <sup>\[兴化\]</sup>雇：～短工<sup>\[兴化\]</sup>｜“却才兄长只顾问梁山泊路头，要～船去……”。（《水浒传》十一）<sup>\[兴化\]</sup> ⑤ <sup>\[兴化\]</sup>娶：～婆娘<sup>\[兴化\]</sup>｜“……你不如趁早休了我去，我趁着这年小还有人～……”（《醒世烟缘传》七九）<sup>\[兴化\]</sup> ⑥ <sup>\[泰县\]</sup>赚钱：到处～钱。 ⑦ <sup>\[泰县\]</sup>找：他在下～工作。 ⑧ <sup>\[泰州\]</sup>雇：～个保姆<sup>\[泰州\]</sup> ⑨ <sup>\[泰州\]</sup>嫁：～他家姑娘还不曾～到人<sup>\[泰州\]</sup> ⑩ <sup>\[泰州\]</sup>获得，赚到：～做生意～吖不少钱<sup>\[泰州\]</sup>  
+1. 【[寻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien.md#寻)】`qien2` ① <sup>\[如皋\]\[泰县\]</sup>找，寻找：你～哪个？/你找谁？｜钥匙～不到。/钥匙找不到。｜不晓得放吖在哪许，要～下子。<sup>\[如皋\]</sup>｜他在下～工作。<sup>\[泰县\]</sup> ② <sup>\[兴化\]</sup>雇：～短工<sup>\[兴化\]</sup>｜“却才兄长只顾问梁山泊路头，要～船去……”。（《水浒传》十一）<sup>\[兴化\]</sup> ③ <sup>\[兴化\]</sup>娶：～婆娘<sup>\[兴化\]</sup>｜“……你不如趁早休了我去，我趁着这年小还有人～……”（《醒世烟缘传》七九）<sup>\[兴化\]</sup> ④ <sup>\[泰州\]</sup>雇：～个保姆<sup>\[泰州\]</sup> ⑤ <sup>\[泰州\]</sup>嫁：他家姑娘还不曾～到人<sup>\[泰州\]</sup>  
 1. 【[寻岔巴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_cha_ba_r.md#寻岔巴<sub>儿</sub>)】`qien2 cha5 ba1 r` <sup>[如东]</sup> 故意找毛病：他是来～的。  
 1. 【[寻疵头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_cz_teu.md#寻疵头)】`qien2 cz2 teu` <sup>[如东]</sup> 找毛病，找借口：他是～。  
 1. 【[寻得起，折不起](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_deh_qi_shih_beh_qi.md#寻得起，折不起)】`qien2 deh qi3 shih8 beh qi3` <sup>[兴化]</sup> 小本经营者无力承受亏本打击：做小本交易的～。  
@@ -1001,7 +1001,7 @@
 1. 【[寻婆娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_pu_nian.md#寻婆娘)】`qien2 pu2 nian` 讨老婆  
 1. 【[寻气淘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_qi_to.md#寻气淘)】`qien2 qi5 to2` <sup>[如皋]</sup> 自找麻烦跟别人淘气。  
 1. 【[寻皵疤<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_qiah_ba_r.md#寻皵疤<sub>儿</sub>)】`qien2 qiah7 ba1 r` <sup>[如皋]</sup> 找借口、找岔子挑起事端。  
-1. 【[寻钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_qin.md#寻钱)】`qien2 qin2` ① 挣钱 ② <sup>\[如东\]</sup>通过各种渠道和手段挣钱。 ③ <sup>\[东台\]</sup>挣钱，赚钱：用钱如舀水，～如上山<sup>\[东台\]</sup>｜郑板桥家书中有言“兴化人笑我不会～……”<sup>\[东台\]</sup> ④ <sup>\[兴化\]</sup>挣钱：他每早挑着担子在各处卖菜，～养活妻儿老小。<sup>\[兴化\]</sup>｜“舍亲不在家，列位历年都是寻过他钱的……”（《梼杌闲评》十五）<sup>\[兴化\]</sup>｜谚曰：生处好～，熟处好过年。（兴文《谚语》）<sup>\[兴化\]</sup>  
+1. 【[寻钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_qin.md#寻钱)】`qien2 qin2` <sup>\[如东\]\[东台\]\[兴化\]\[如皋\]\[泰县\]\[泰州\]</sup>挣钱：用钱如舀水，～如上山<sup>\[东台\]</sup>｜郑板桥家书中有言“兴化人笑我不会～……”<sup>\[东台\]</sup>｜他每早挑着担子在各处卖菜，～养活妻儿老小。<sup>\[兴化\]</sup>｜“舍亲不在家，列位历年都是寻过他钱的……”（《梼杌闲评》十五）<sup>\[兴化\]</sup>｜谚曰：生处好～，熟处好过年。（兴文《谚语》）<sup>\[兴化\]</sup>｜做生意寻吖不少钱<sup>\[泰州\]</sup>  
 1. 【[寻钱的锥子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_qin_dii_zhuei_zz.md#寻钱的锥子)】`qien2 qin2 dii zhuei1 zz` ① <sup>\[如皋\]</sup>想方设法挣钱的人。 ② <sup>\[如皋\]</sup>指会赚钱的人。  
 1. 【[寻人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ren.md#寻人)】`qien2 ren2` ① <sup>\[如东\]</sup>找人。雇用人：我准备～带伢儿。<sup>\[如东\]</sup> ② <sup>\[东台\]</sup>口语中指雇人做事，不同于一般的寻找人：栽秧要～帮忙。<sup>\[东台\]</sup> ③ <sup>\[兴化\]</sup>找人：……见范进抱着鸡，手里插个草标……在那里～买。（《儒林外史》三）<sup>\[兴化\]</sup> ④ <sup>\[兴化\]</sup>雇人：这些事～做比自己动手好。<sup>\[兴化\]</sup> ⑤ <sup>\[兴化\]</sup>找配偶：他今年二十八岁，至今不曾～哎！<sup>\[兴化\]</sup> ⑥ <sup>\[泰县\]</sup>男人丧偶再娶。 ⑦ <sup>\[泰县\]</sup>找保姆：他家又重新～。 ⑧ <sup>\[泰县\]</sup>雇佣人：～做伙计。  
 1. 【[寻散疤<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_saen_ba_r.md#寻散疤<sub>儿</sub>)】`qien2 saen5 ba1 r` <sup>[如东]</sup> 故意找问题找毛病，找麻烦：他又来～。  
@@ -1042,12 +1042,11 @@
 1. 【[亲家公](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ga_gon.md#亲家公)】`qien5 ga gon1` ① <sup>\[如东\]</sup>女儿的父亲和女婿的父亲。 ② <sup>\[东台\]</sup>称儿子的岳父或女儿的公公。  
 1. 【[亲家母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ga_mu.md#亲家母)】`qien5 ga mu3` ① <sup>\[如东\]</sup>女儿的母亲和女婿的母亲。 ② <sup>\[东台\]</sup>称儿子的岳母或女儿的婆婆。  
 1. 【[亲家母到啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ga_mu_do_a.md#亲家母到啊)】`qien5 ga mu3 do5 a` ① <sup>\[如皋\]</sup>行月经。 ② <sup>\[如皋\]</sup>隐指来了月经。  
-1. 【[揿/搇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien.md#揿/搇)】`qien5` <sup>\[如皋\]\[如东\]\[兴化\]\[泰州\]</sup>按，按压：～钮｜用力把羊～住。<sup>\[如东\]</sup>｜前边堵车，急得些司机不停～喇叭。<sup>\[兴化\]</sup>｜把衣裳上的纽子～吖好啊。<sup>\[泰州\]</sup>  
+1. 【[揿/搇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien.md#揿/搇)】`qien5` <sup>\[如皋\]\[如东\]\[兴化\]\[泰州\]</sup>按，按压：～钮｜用力把羊子～住。<sup>\[如东\]</sup>｜前边堵车，急得些司机不停～喇叭。<sup>\[兴化\]</sup>｜把衣裳上的纽子～吖好啊。<sup>\[泰州\]</sup>  
 1. 【[揿钉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_dien.md#揿钉)】`qien5 dien1` <sup>[兴化]</sup> 图钉。  
 1. 【[揿钮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_nieu.md#揿钮)】`qien5 nieu3` <sup>[兴化]</sup> 子母扣儿。也作“掯钮”。  
 1. 【[罄身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_shen.md#罄身)】`qien5 shen1` <sup>[兴化]</sup> 空身、不带东西：他在外混吖几年，结果～家来。｜“你看着，到前边收拾了教他～儿出去，休要他带出衣袋去了”。（《金瓶梅词话》八五）  
-1. 【[顉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien.md#顉)】`qien5` <sup>[泰州]</sup> 脑石和：他望到我，头一～就走啊唻。｜你把头～点ㄦ下来吧。  
-1. 【[𩔝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien.md#𩔝)】`qien5` <sup>[兴化]</sup> 前倾：头～下来｜身子～下来。  
+1. 【[𩔝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien.md#𩔝)】`qien5` ① （【集韻】丘禁切，音搇。𩔝𩒻，首動也。） ② <sup>\[兴化\]\[泰州\]</sup>（头或身）前倾：头～下来<sup>\[兴化\]</sup>｜身子～下来。<sup>\[兴化\]</sup>｜他望到我，头一～就走啊唻。<sup>\[泰州\]</sup>｜你把头～点ㄦ下来吧。<sup>\[泰州\]</sup>  
 1. 【[𩔝下来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ha_lae.md#𩔝下来)】`qien5 ha6 lae2` <sup>[东台]</sup> 低下来。通常指人的头或腰弯下来：理发时要把头～。  
 1. 【[净办](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_baen.md#净办)】`qien6 baen5` <sup>[兴化]</sup> 清净、安宁：学校里放吖学，蛮～的。｜“……如常吃官司，教我要便随衙听侯，不曾有一个月～……”（《水浒传》二四）也作“静办”。《警世通言》第二十卷有“没一日～”句。  
 1. 【[净打净夯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_da_qien_han.md#净打净夯)】`qien6 da3 qien6 han1` <sup>[如东]</sup> 去除虚数，全部是实货。比喻纯收入：～一百元。  
