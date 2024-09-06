@@ -1567,8 +1567,7 @@
 1. 【[锯倒树捉老鸦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_do_shv_zhuah_lo_nga.md#锯倒树捉老鸦)】`jy5 do3 shv6 zhuah7 lo3 nga1` <sup>[如皋]</sup> 偏执于固定思维，不会实事求是。  
 1. 【[锯口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_keu.md#锯口)】`jy5 keu3` ① <sup>\[如东\]</sup>锯齿处。 ② <sup>\[如东\]</sup>下锯的部位。 ③ <sup>\[如皋\]</sup>锯下来的脚料。  
 1. 【[锯木屑<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_moh_xiuh_r.md#锯木屑<sub>儿</sub>)】`jy5 moh8 xiuh7 r` <sup>[如皋]</sup> 比喻初学拉胡琴，声音嘶哑难听。  
-1. 【[锯匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_qian.md#锯匠)】`jy5 qian` <sup>[如皋]</sup> 旧时专拉大锯纵剖原木的工匠。  
-1. 【[锯匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_qian.md#锯匠)】`jy5 qian6` <sup>[兴化]</sup> 旧指拉锯解木方、木板的工人。这项工作今已由机械取代。  
+1. 【[锯匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_qian.md#锯匠)】`jy5 qian6` <sup>\[兴化\]\[如皋\]</sup>旧指拉锯剖原木、解木方、木板的工人。这项工作今已由机械取代。\[如皋：（jy5 qian）\]  
 1. 【[锯屑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_xiuh.md#锯屑)】`jy5 xiuh7` <sup>[兴化]</sup> 锯竹、木等掉的细末。  
 1. 【[锯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_zz.md#锯子)】`jy5 zz` <sup>[如东]</sup> 工具。长条形，金属制，一边有齿。用以切割木材、钢材等材料。  
 1. 【[䂐䂐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jyeh_jyeh_r.md#䂐䂐<sub>儿</sub>)】`jyeh7 jyeh r` <sup>[如皋]</sup> 短：她穿的一件短～衣裳，总遮不到肚脐眼儿；短～的尾巴。jyeh7是zhueh7的口语音。  
