@@ -1014,7 +1014,7 @@
 1. 【[逼杀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_shaeh.md#逼杀)】`bieh7 shaeh7` <sup>[东台]</sup> 迫害致死：她活剥剥的捱～咖。  
 1. 【[兵房镇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_fan_zhen.md#兵房镇)】`bien1 fan2 zhen5` <sup>[如东]</sup> 民国10年前后，在大豫盐垦公司四管南首建筑两间平房，缉私营驻守2名盐兵，负责稽查私盐。群众把这个地方称为兵房。后来逐渐形成集镇。抗日战争时期属利民乡管辖。1949年，建徐征乡。1958年，成立徐征人民公社，1959年改称兵房人民公社。1983年3月，改称兵房乡。1986年3月，撤乡并镇，兵房乡调整为县属镇。2009年，兵房镇并入大豫镇。  
 1. 【[兵<sub>儿</sub>猴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_r_heu_zz.md#兵<sub>儿</sub>猴子)】`bien1 r heu2 zz` <sup>[兴化]</sup> 旧时对反动军人的鄙称：那些～一上庄，甚的坏事都做得出。  
-1. 【[冰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien.md#冰)】`bien1` ① <sup>\[如皋\]</sup>雹。 ② <sup>\[兴化\]</sup>凝结：熟猪油一冷就～起来啊。<sup>\[兴化\]</sup>｜猪血子～起来啊。<sup>\[兴化\]</sup> ③ <sup>\[泰州\]</sup>用作动词。将食品置于凉水，使之变凉：你把绿豆汤放吖水里冰个盹儿再喝。<sup>\[泰州\]</sup>  
+1. 【[冰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien.md#冰)】`bien1` ① <sup>\[如皋\]</sup>雹。 ② <sup>\[兴化\]</sup>凝结：熟猪油一冷就～起来啊。<sup>\[兴化\]</sup>｜猪血子～起来啊。<sup>\[兴化\]</sup> ③ <sup>\[泰州\]</sup>使（东西）变凉：你把绿豆汤放吖水里～个盹儿再喝。<sup>\[泰州\]</sup>  
 1. 【[冰㵾人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_chen_ren.md#冰㵾人)】`bien1 chen6 ren` 冰冷的  
 1. 【[冰㵾人的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_chen_ren_dii.md#冰㵾人的)】`bien1 chen6 ren2 dii` <sup>[如皋]</sup> 像接触冰块一样有冷痛感：他的手脚总是～。  
 1. 【[冰冻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_don.md#冰冻)】`bien1 don5` <sup>[如东]</sup> 非常冷：你的手～的。  
@@ -1036,7 +1036,7 @@
 1. 【[丙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien.md#丙)】`bien3` <sup>[东台]</sup> 天干的第三位。  
 1. 【[丙弓理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_gon_li.md#丙弓理)】`bien3 gon1 li3` <sup>[泰县]</sup> 歪理。  
 1. 【[比](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien.md#比)】`bien3` <sup>[如皋]</sup> 比，避讳音，介词：事情做啊成吖功～吃肉总快活些。  
-1. 【[饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien.md#饼)】`bien3` <sup>[如皋]</sup> 量词：一～蚊烟香；一～带子。  
+1. 【[饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien.md#饼)】`bien3` <sup>[如皋]</sup> 量词，计数饼形物品：一～蚊烟香；一～带子。  
 1. 【[饼肥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_fei.md#饼肥)】`bien3 fei2` <sup>[东台]</sup> 豆饼、棉籽饼、菜籽饼、花生饼等肥料的通称。  
 1. 【[饼角<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_gah_r.md#饼角<sub>儿</sub>)】`bien3 gah7 r` <sup>[东台]</sup> 蒸好的饼冷却后，切成薄片晒干贮藏：做活计，最经饥的粮饭就是～。  
 1. 【[饼酱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_jian.md#饼酱)】`bien3 jian5` ① <sup>\[如东\]</sup>调味品。将黄豆或蚕豆等发酵加工制成，绛红色。含有多种氨基酸，味道鲜美，营养丰富，是良好的调味品。也叫豆酱、豆瓣酱。 ② <sup>\[如皋\]</sup>用黄豆饼为主做成的酱。  
@@ -1045,7 +1045,7 @@
 1. 【[饼刨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_po_zz.md#饼刨子)】`bien3 po6 zz` <sup>[如皋]</sup> 刨豆饼的专用刨子。  
 1. 【[饼<sub>儿</sub>粑<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_r_ba_r.md#饼<sub>儿</sub>粑<sub>儿</sub>)】`bien3 r ba1 r` <sup>[如皋]</sup> 泛指家制饼类。  
 1. 【[饼<sub>儿</sub>花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_r_hua.md#饼<sub>儿</sub>花)】`bien3 r hua1` <sup>[如皋]</sup> 蜀葵。锦葵科。  
-1. 【[并](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien.md#并)】`bien5` ① <sup>\[如皋\]</sup>比，比赛：大家一起儿～下子，看哪个快！<sup>\[如皋\]</sup> ② <sup>\[东台\]</sup>双方较劲，相持。东台词典写“鈵”：他俫两个拗膀子，～到这刻儿还不分胜负。<sup>\[东台\]</sup> ③ <sup>\[兴化\]</sup>坚持对立、互不相让：你不答应他的要求，他就跟你～！<sup>\[兴化\]</sup> ④ <sup>\[泰县\]</sup>倒，倒是：我～想去的。<sup>\[泰县\]</sup> ⑤ <sup>\[泰州\]</sup>倒是，反而：总以为老赵要在会上讲的，哪晓得老赵一字不曾开口，并是老李讲吖几句。<sup>\[泰州\]</sup>｜人家不曾说你半句不好，并讲你几句好话！<sup>\[泰州\]</sup>  
+1. 【[并](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien.md#并)】`bien5` ① <sup>\[如皋\]</sup>比，比赛：大家一起儿～下子，看哪个快！<sup>\[如皋\]</sup> ② <sup>\[东台\]</sup>双方较劲，相持：他俫两个拗膀子，～到这刻儿还不分胜负。<sup>\[东台\]</sup> ③ <sup>\[兴化\]</sup>坚持对立、互不相让：你不答应他的要求，他就跟你～！<sup>\[兴化\]</sup> ④ <sup>\[泰县\]\[泰州\]</sup>倒是，却是：我～想去的。<sup>\[泰县\]</sup>｜总以为老赵要在会上讲的，哪晓得老赵一字不曾开口，～是老李讲吖几句。<sup>\[泰州\]</sup>｜人家不曾说你半句不好，～讲你几句好话！<sup>\[泰州\]</sup>  
 1. 【[并本事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_ben_shr.md#并本事)】`bien5 ben3 shr` <sup>[如皋]</sup> 比谁的本领强。  
 1. 【[并堆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_duei_r.md#并堆<sub>儿</sub>)】`bien5 duei1 r` <sup>[如皋]</sup> 聚集一起。  
 1. 【[并家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_jia.md#并家)】`bien5 jia1` <sup>[兴化]</sup> ① 把两家合成一家：“我原是却不过孙子孙女的情面，才和他～的。”（马春阳《告状》） ② 一种讹诈手段：“芦笆也不许你动，你如动一点，我就把它全拉掉，跟你～。”（《皮五辣子》一）  
