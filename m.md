@@ -1283,7 +1283,7 @@
 1. 【[猫耳朵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_er_du.md#猫耳朵)】`mo2 er3 du` <sup>[兴化]</sup> 一种油炸食品，以其形状得名。  
 1. 【[猫养猫蘣，狗养狗蘣，刺鱼养的滑滴滴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_ian_mo_ton_geu_ian_geu_ton_cz_y_ian_dii_huaeh_dieh_dieh.md#猫养猫蘣，狗养狗蘣，刺鱼养的滑滴滴)】`mo2 ian3 mo2 ton5 geu3 ian3 geu3 ton5 cz5 y2 ian3 dii huaeh8 dieh7 dieh7` <sup>[东台]</sup> 一种偏爱子女的心理。  
 1. 【[猫哭老鼠——假慈悲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_koh_lo_chv_jia_cz_bei.md#猫哭老鼠——假慈悲)】`mo2 koh7 lo3 chv3 jia3 cz2 bei1` <sup>[东台]</sup>   
-1. 【[猫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_r.md#猫<sub>儿</sub>)】`mo2 r` ① 猫 ② <sup>\[泰县\]</sup>猫。  
+1. 【[猫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_r.md#猫<sub>儿</sub>)】`mo2 r` <sup>\[泰县\]</sup>猫  
 1. 【[猫<sub>儿</sub>不在家，老鼠在家里翻连叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_r_beh_cae_ga_lo_chv_cae_ga_lii_faen_lin_cha.md#猫<sub>儿</sub>不在家，老鼠在家里翻连叉)】`mo2 r beh7 cae6 ga1 lo3 chv3 cae6 ga1 lii faen1 lin2 cha1` <sup>[东台]</sup> 喻指有的人失去管束后肆无忌惮。  
 1. 【[猫<sub>儿</sub>嗒食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_r_daeh_sheh.md#猫<sub>儿</sub>嗒食)】`mo2 r daeh7 sheh8` <sup>[兴化]</sup> （喻）形容像猫那样频繁吃食，但每次都吃得很少。  
 1. 【[猫<sub>儿</sub>搭爪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_r_daeh_zhua.md#猫<sub>儿</sub>搭爪)】`mo2 r daeh7 zhua3` ① <sup>\[东台\]</sup>［喻］动手动脚，偷偷摸摸，或跃跃欲试的样子。 ② <sup>\[兴化\]</sup>小偷小摸：此人～的，要防着点。<sup>\[兴化\]</sup> ③ <sup>\[兴化\]</sup>乘人不备，暗中动手：她正在意会后面那句话的暗示时，他却～地动起手来。（马春阳《月朗和她的娘舅们》）<sup>\[兴化\]</sup> ④ <sup>\[泰县\]</sup>动手动脚。  

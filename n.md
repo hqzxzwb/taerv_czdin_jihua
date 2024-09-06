@@ -864,10 +864,10 @@
 1. 【[硬志志](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_zhr_zhr.md#硬志志)】`ngen6 zhr5 zhr5` <sup>[如东]</sup> 坚定不移：～的要去。  
 1. 【[硬至至的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_zhr_zhr_dii.md#硬至至的)】`ngen6 zhr5 zhr5 dii` ① <sup>\[如皋\]</sup>过分任性地：他在家里～作操你。 ② <sup>\[如皋\]</sup>见“活剥剥的”。  
 1. 【[剾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu.md#剾)】`ngeu1` <sup>[泰州]</sup> （用手指）剜出：脸上捱她～啊几道杠。｜身上皮都捱她～掉啊。  
-1. 【[熰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu.md#熰)】`ngeu1` ① <sup>\[如皋\]</sup>大汤久煮：～粽子、～玉米、～牛肉、～骨头汤。<sup>\[如皋\]</sup> ② <sup>\[如东\]</sup>多煮一会儿：老牛肉，多～一会儿。<sup>\[如东\]</sup> ③ <sup>\[东台\]</sup>用水长时间煮：～老母鸡；～老菱；～粽子。<sup>\[东台\]</sup> ④ <sup>\[兴化\]</sup>大火慢煮：～猪头<sup>\[兴化\]</sup>｜把肉放吖锅里慢慢～。<sup>\[兴化\]</sup> ⑤ <sup>\[泰县\]</sup>煮：～猪头。<sup>\[泰县\]</sup>  
+1. 【[熰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu.md#熰)】`ngeu1` ① <sup>\[如皋\]\[如东\]</sup>大汤久煮：～粽子、～玉米、～牛肉、～骨头汤。<sup>\[如皋\]</sup>｜老牛肉，多～一会儿。<sup>\[如东\]</sup> ② <sup>\[东台\]</sup>用水长时间煮：～老母鸡；～老菱；～粽子。<sup>\[东台\]</sup> ③ <sup>\[兴化\]</sup>大火慢煮：～猪头<sup>\[兴化\]</sup>｜把肉放吖锅里慢慢～。<sup>\[兴化\]</sup> ④ <sup>\[泰县\]</sup>煮：～猪头。<sup>\[泰县\]</sup>  
 1. 【[熰不烂煮不熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_beh_laen_zhv_beh_shoh.md#熰不烂煮不熟)】`ngeu1 beh7 laen6 zhv3 beh7 shoh8` <sup>[东台]</sup> ［喻］指讲阴阳怪气的话，叫人无法接受。  
 1. 【[瓯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_zz.md#瓯子)】`ngeu1 zz` <sup>[泰县]</sup> 小碗：拿个～来。  
-1. 【[牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu.md#牛)】`ngeu2` ① 牛 ② <sup>\[如皋\]</sup>喻蛮横顶撞：他～起来不认人。<sup>\[如皋\]</sup> ③ <sup>\[如东\]</sup>牛科动物黄牛和水牛，身体大，趾端有蹄，头上长有一对角，尾巴尖端有长毛。是反刍类动物，力气大，供役使。 ④ <sup>\[兴化\]</sup>脾气固执而傲慢：他的脾气太～，对甚的人都不买账！<sup>\[兴化\]</sup> ⑤ <sup>\[泰州\]</sup>性格执拗倔强：这小伙～得不得命，大人的话一句听不进去。<sup>\[泰州\]</sup>｜你就不要同他～唻，～到临了没得好果子吃。<sup>\[泰州\]</sup>  
+1. 【[牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu.md#牛)】`ngeu2` ① 牛，作家畜供役使 ② <sup>\[如皋\]</sup>喻蛮横顶撞：他～起来不认人。<sup>\[如皋\]</sup> ③ <sup>\[兴化\]</sup>脾气固执而傲慢：他的脾气太～，对甚的人都不买账！<sup>\[兴化\]</sup> ④ <sup>\[泰州\]</sup>性格执拗倔强：这小伙～得不得命，大人的话一句听不进去。<sup>\[泰州\]</sup>｜你就不要同他～唻，～到临了没得好果子吃。<sup>\[泰州\]</sup>  
 1. 【[牛把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_ba.md#牛把)】`ngeu2 ba3` <sup>[泰县]</sup> 呆子。  
 1. 【[牛蒡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_ban_zz.md#牛蒡子)】`ngeu2 ban5 zz` <sup>[如东]</sup> 菊科植物牛蒡，二年生草本。高约1米。上部多分枝。根生叶丛生茎生叶互生；叶大，有长叶柄，表面有纵裂；叶片广卵形，边缘稍带波状或呈齿牙状。头状花序丛生，着生于枝端排列成伞房状。花冠筒状。瘦果略弯曲，灰褐色。  
 1. 【[牛屄筒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_bi_ton_zz.md#牛屄筒子)】`ngeu2 bi1 ton3 zz` <sup>[如皋]</sup> 喻说大话没遮拦的一种人。  
@@ -981,14 +981,14 @@
 1. 【[藕芽钻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_nga_zun_r.md#藕芽钻<sub>儿</sub>)】`ngeu3 nga2 zun1 r` <sup>[如东]</sup> ① 藕刚出土或水的嫩芽，淡红色。 ② 比喻女子的手指头嫩白而尖：她的手像～一样。  
 1. 【[藕坨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_tu_zz.md#藕坨子)】`ngeu3 tu2 zz` <sup>[兴化]</sup> 将生藕擦成碎末，加芡做成肉圆状，油炸后食用。饼状的也称“藕饼”。  
 1. 【[藕断丝不断](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_tun_sz_beh_tun.md#藕断丝不断)】`ngeu3 tun6 sz1 beh7 tun6` <sup>[东台]</sup> 也作藕断丝连，比喻表面上断了关系，实际上还牵挂着。  
-1. 【[怄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu.md#怄)】`ngeu5` ① <sup>\[兴化\]</sup>惹人生气：“你只怨人行动嗔怪你，你再不知道你～的人难受……”（《红楼梦》二十）也作“呕”<sup>\[兴化\]</sup>｜老残看刚弼怒容满面，连声吆喝，却有意呕着他顽……（《老残游记》十七）<sup>\[兴化\]</sup> ② <sup>\[泰县\]</sup>人生闷气。 ③ <sup>\[泰州\]</sup>收到他人言行刺激后生气：他为这种小人～啊不吃饭，犯不着。<sup>\[泰州\]</sup> ④ <sup>\[泰州\]</sup>故意以言行刺激对方，使对方生气：你不能再～他唻。<sup>\[泰州\]</sup>  
+1. 【[怄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu.md#怄)】`ngeu5` ① <sup>\[兴化\]\[泰州\]</sup>惹人生气：“你只怨人行动嗔怪你，你再不知道你～的人难受……”（《红楼梦》二十）也作“呕”<sup>\[兴化\]</sup>｜老残看刚弼怒容满面，连声吆喝，却有意呕着他顽……（《老残游记》十七）<sup>\[兴化\]</sup>｜你不能再～他唻。<sup>\[泰州\]</sup> ② <sup>\[泰县\]\[泰州\]</sup>人生闷气：他为这种小人～啊不吃饭，犯不着。<sup>\[泰州\]</sup>  
 1. 【[怄急咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_jieh_ga.md#怄急咖)】`ngeu5 jieh7 ga` <sup>[东台]</sup> 气愤极了，痛下决心：他捱冤枉多次，～，不得不申诉。  
 1. 【[怄扣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_keu.md#怄扣)】`ngeu5 keu` <sup>[泰县]</sup> 怨愤难言。  
 1. 【[怄抠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_keu.md#怄抠)】`ngeu5 keu` <sup>[兴化]</sup> 懊恼：有理的官司打不赢，～煞咖。  
 1. 【[怄气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_qi.md#怄气)】`ngeu5 qi5` ① <sup>\[如东\]</sup>生闷气，闹别扭：他在<sup>\[如东\]</sup> ② <sup>\[东台\]</sup>闹别扭，生闷气；这点儿小事，不值得同他～。  
 1. 【[怄人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_ren.md#怄人)】`ngeu5 ren2` ① <sup>\[东台\]</sup>受到冤枉气，很难过。 ② <sup>\[泰县\]</sup>气人：这件事有点～。  
 1. 【[怄受](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_sheu.md#怄受)】`ngeu5 sheu` <sup>[如皋]</sup> 气恼  
-1. 【[沤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu.md#沤)】`ngeu5` ① <sup>\[如东\]</sup>把东西放在水里长时间发酵：～青草。<sup>\[如东\]</sup> ② <sup>\[泰县\]</sup>把东西放在缸里发酵。  
+1. 【[沤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu.md#沤)】`ngeu5` <sup>\[如东\]\[泰县\]</sup>长时间浸泡。往往伴有发酵：～青草。<sup>\[如东\]</sup>  
 1. 【[沤肥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_fei.md#沤肥)】`ngeu5 fei2` <sup>[东台]</sup> 把垃圾、青草、人粪尿、河泥等沤制成有机肥料。  
 1. 【[沤改旱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_gae_hun.md#沤改旱)】`ngeu5 gae3 hun6` <sup>[兴化]</sup> 通过开沟排水等措施，降低地下水位，将一熟沤田改为夏秋两熟旱田。兴化自1953年至1971年全面完成一百万亩沤田的改制。（见《兴化水利志·田间工程》）  
 1. 【[沤田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_tin.md#沤田)】`ngeu5 tin2` <sup>[兴化]</sup> 由于地势低洼，长年浸泡在水中的一年一熟低产田。  

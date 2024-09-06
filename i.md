@@ -548,6 +548,7 @@
 1. 【[养吖潽下来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_nga_pv_ha_lae_a.md#养吖潽下来啊)】`ian3 nga pv1 ha lae2 a` <sup>[如皋]</sup> 养得很胖，发福了。  
 1. 【[养伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_nga_r.md#养伢<sub>儿</sub>)】`ian3 nga2 r` ① 生小孩。 ② <sup>\[如东\]</sup>妇女分娩。也叫生孩子。 ③ <sup>\[如东\]</sup>抚养小孩：负责～的是父亲。<sup>\[如东\]</sup>  
 1. 【[养眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ngaen.md#养眼)】`ian3 ngaen3` <sup>[东台]</sup> 悦目；看了觉得舒服：这场模特大赛看得蛮～的。  
+1. 【[养女](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ny.md#养女)】`ian3 ny3` <sup>[东台]</sup> 领养的女儿。  
 1. 【[养病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_pien.md#养病)】`ian3 pien6` <sup>[东台]</sup> 因患病而休养。  
 1. 【[养嘌孙<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_pio_suen_r.md#养嘌孙<sub>儿</sub>)】`ian3 pio3 suen1 r` <sup>[如皋]</sup> 长房长孙出世。  
 1. 【[养婆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_pu_r.md#养婆<sub>儿</sub>)】`ian3 pu2 r` <sup>[如东]</sup> 分娩小孩的女子。也叫产妇。  
@@ -562,7 +563,7 @@
 1. 【[养息](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_xieh.md#养息)】`ian3 xieh7` ① <sup>\[如东\]</sup>休息、休养：你需要～一段时间。<sup>\[如东\]</sup> ② <sup>\[兴化\]</sup>休息、调养：你一路辛苦，不妨在家～两天再来上班。<sup>\[兴化\]</sup>  
 1. 【[养血](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_xiuh.md#养血)】`ian3 xiuh7` <sup>[如皋]</sup> ① 使血液质量正常。 ② 多造血。  
 1. 【[养猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_zhv.md#养猪)】`ian3 zhv1` <sup>[如东]</sup> 饲养生猪。  
-1. 【[养子（女）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_zz.md#养子（女）)】`ian3 zz3 （ny3）` <sup>[东台]</sup> 领养的儿子或女儿。  
+1. 【[养子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_zz.md#养子)】`ian3 zz3` <sup>[东台]</sup> 领养的儿子。  
 1. 【[痒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian.md#痒)】`ian3` <sup>[如东]</sup> 皮肤受到轻微刺激时而引起的想挠的感觉。  
 1. 【[痒疮<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_chuan_r.md#痒疮<sub>儿</sub>)】`ian3 chuan1 r` <sup>[如皋]</sup> 疥疮。  
 1. 【[痒撮撮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_cuh_cuh.md#痒撮撮)】`ian3 cuh7 cuh7` <sup>[东台]</sup> 也作痒挠挠，形容痒得难受忍不住要抓挠。  
