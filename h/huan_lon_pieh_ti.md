@@ -1,4 +1,4 @@
-# 黄脓鼻涕
-huan2 non2 pieh8 ti1
+# 黄龙鼻涕
+huan2 lon2 pieh8 ti1
 > 东台方言词典
 - 重感冒时所流的鼻涕，黄色像脓。
