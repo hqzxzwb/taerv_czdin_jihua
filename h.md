@@ -1524,20 +1524,17 @@
 1. 【[荒年成饿不死手艺人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_nin_chen_ngu_beh_sz_sheu_i_ren.md#荒年成饿不死手艺人)】`huan1 nin2 chen2 ngu6 beh7 sz3 sheu3 i6 ren2` <sup>[东台]</sup> 有本领有技术的人，年景不好也不愁吃饭。  
 1. 【[荒坯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_pi.md#荒坯)】`huan1 pi1` ① <sup>\[如皋\]</sup>粗坯。 ② <sup>\[东台\]</sup>器物未成形之前的毛坯。 ③ <sup>\[兴化\]</sup>未经加工的毛坯：这是～，不曾加工！<sup>\[兴化\]</sup>  
 1. 【[荒刨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_po.md#荒刨)】`huan1 po6` <sup>[兴化]</sup> 见“粗刨”。  
-1. 【[荒田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_tin.md#荒田)】`huan1 tin2` ① <sup>\[如东\]</sup>不种庄家的土地，称荒田。 ② <sup>\[如皋\]</sup>弃耕的或未开垦的土地。 ③ <sup>\[东台\]</sup>没有耕种的土地。  
+1. 【[荒田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_tin.md#荒田)】`huan1 tin2` <sup>\[如东\]\[如皋\]\[东台\]</sup>不种庄稼的土地。\[如皋：弃耕的或未开垦的。\]  
 1. 【[荒田野草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_tin_ia_co.md#荒田野草)】`huan1 tin2 ia3 co3` <sup>[如皋]</sup> ① 状荒芜、人迹稀少的地方。 ② 贬指人之粗鄙，常口吐污秽之语。  
 1. 【[黄巴气鼓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ba_qi_gv.md#黄巴气鼓)】`huan1 ba1 qi5 gv3` <sup>[泰县]</sup> 病态：他脸上一点儿血色都没有，～的。  
-1. 【[黄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_zz.md#黄子)】`huan1 zz` <sup>[泰县]</sup> 蛋黄。  
-1. 【[惶气巴巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_qi_ba_ba.md#惶气巴巴)】`huan2 qi5 ba1 ba1` <sup>[泰县]</sup> 尴尬，不好意思、难为情：小张去借钱，不曾借到，～的家来啊。  
-1. 【[惶腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_qian.md#惶腔)】`huan2 qian1` <sup>[泰县]</sup> 没趣：他去找领导要官当，弄吖个～。  
 1. 【[皇帝的妈妈——太后（厚）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_di_dii_ma_ma_tae_heu.md#皇帝的妈妈——太后（厚）)】`huan2 di dii ma1 ma1 tae5 heu6` <sup>[如皋]</sup>   
 1. 【[皇帝是假，福气是真](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_di_shr_jia_foh_qi_shr_zhen.md#皇帝是假，福气是真)】`huan2 di shr6 jia3 foh7 qi5 shr6 zhen1` <sup>[东台]</sup> 地位并不重要，生活幸福才真值得追求。  
 1. 【[皇粮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_lian.md#皇粮)】`huan2 lian2` <sup>[东台]</sup> 借旧时说法，指由国家提供的经费：公务员是吃～的人，理当秉公办事。  
 1. 【[皇历](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_lieh.md#皇历)】`huan2 lieh8` <sup>[东台]</sup> 历书，也称“黄历”：要与时俱进，不能老翻旧～。  
-1. 【[皇天白日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_tin_poh_rih.md#皇天白日)】`huan2 tin1 poh8 rih8` <sup>[如东]</sup> 天气晴朗：，带甚的雨伞！  
+1. 【[皇天白日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_tin_poh_rih.md#皇天白日)】`huan2 tin1 poh8 rih8` <sup>[如东]</sup> 天气晴朗：～，带甚的雨伞！  
 1. 【[皇岸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_un.md#皇岸)】`huan2 un6` <sup>[如东]</sup> 宋孝宗赵昚乾道七年（1171年），泰州知州徐子寅兴工修筑海堤，令沿海各盐场官员，分别在所属地境筑堤御潮。自海安旧场起，东接洋口、环港、长沙，经掘港至花市街以西3公里的九总桥（古岸头）。全长47.5公里。百姓称皇岸。因西接范公堤，也称范公堤。  
 1. 【[艎板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_baen.md#艎板)】`huan2 baen3` ① <sup>\[如皋\]</sup>盖舱的横板。 ② <sup>\[兴化\]</sup>覆盖船舱的板：那艄公便去～底下摸出那把明晃晃板刀来……（《水浒传》三七）<sup>\[兴化\]</sup>｜谚曰：逮到鱼～也会说话。<sup>\[兴化\]</sup>  
-1. 【[黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan.md#黄)】`huan2` ① <sup>\[如东\]</sup>植物老了：玉米～吖。<sup>\[如东\]</sup> ② <sup>\[如东\]</sup>不成功：这桩事情～吖。<sup>\[如东\]</sup> ③ <sup>\[如皋\]</sup>受窘难堪、尴尬：他去叫妈妈，认错啊人，觉察～吖下子。 ④ <sup>\[如皋\]</sup>使人难堪、尴尬：他当面～人是不礼貌的。 ⑤ <sup>\[东台\]</sup>除一般含义外，还指愿望未能实现：那件事～吖。<sup>\[东台\]</sup> ⑥ <sup>\[兴化\]</sup>难堪：他这次去说情捱～下来啊！<sup>\[兴化\]</sup> ⑦ <sup>\[兴化\]</sup>使难堪：我请你吃饭你不去，不是～我的面子啊？<sup>\[兴化\]</sup> ⑧ <sup>\[泰州\]</sup>事情失败，不能按计划实现：这件事捱他弄吖～掉啊唻。<sup>\[泰州\]</sup> ⑨ <sup>\[泰州\]</sup>不给他人面子，使人难堪：不是我～你老同学面子，你送的东西我真的不能收。<sup>\[泰州\]</sup>  
+1. 【[黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan.md#黄)】`huan2` ① <sup>\[如东\]</sup>植物老了：玉米～吖。<sup>\[如东\]</sup> ② <sup>\[如东\]\[泰州\]\[东台\]</sup>不成功：这桩事情～吖。<sup>\[如东\]</sup>｜这件事捱他弄吖～掉啊唻。<sup>\[泰州\]</sup>｜那件事～吖。<sup>\[东台\]</sup> ③ <sup>\[如皋\]\[兴化\]\[泰州\]</sup>使人难堪、尴尬：他当面～人是不礼貌的。<sup>\[如皋\]</sup>｜他去叫妈妈，认错啊人，觉察～吖下子。<sup>\[如皋\]</sup>｜我请你吃饭你不去，不是～我的面子啊？<sup>\[兴化\]</sup>｜他这次去说情捱～下来啊！<sup>\[兴化\]</sup>｜不是我～你老同学面子，你送的东西我真的不能收。<sup>\[泰州\]</sup>  
 1. 【[黄巴巴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ba_ba_dii.md#黄巴巴的)】`huan2 ba ba1 dii` <sup>[如皋]</sup> ① 脸色发黄少血色的样子。 ② “黄孔儿”的样子。  
 1. 【[黄巴巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ba_ba.md#黄巴巴)】`huan2 ba1 ba1` <sup>[兴化]</sup> 形容面无血色：他脸上～的，就像才害过大病。  
 1. 【[黄巴擸𢶍的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ba_laeh_saeh_dii.md#黄巴擸𢶍的)】`huan2 ba1 laeh8 saeh7 dii` <sup>[东台]</sup> 形容黄色黄得难看：那件衣服～，我不要！  
@@ -1611,19 +1608,19 @@
 1. 【[黄泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ni.md#黄泥)】`huan2 ni2` <sup>[如东]</sup> 粘质土。也称秦泥。  
 1. 【[黄皮包骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_pi_bo_gueh.md#黄皮包骨)】`huan2 pi2 bo1 gueh7` <sup>[如东]</sup> 皮色泛黄，身体瘦弱：要加强营养，不能～的。  
 1. 【[黄皮锈脸的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_pi_xieu_lin_dii.md#黄皮锈脸的)】`huan2 pi2 xieu5 lin3 dii` <sup>[如皋]</sup> 脸色焦黄。  
-1. 【[黄病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_pien.md#黄病)】`huan2 pien6` ① <sup>\[如东\]</sup>黄胆型肝炎。 ② <sup>\[兴化\]</sup>黄痘性肝炎的俗称。  
+1. 【[黄病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_pien.md#黄病)】`huan2 pien6` <sup>\[如东\]\[兴化\]</sup>黄疸型肝炎的俗称  
 1. 【[黄芪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_qi.md#黄芪)】`huan2 qi2` <sup>[如东]</sup> 豆科植物黄芪，多年生草本。  
+1. 【[黄气巴巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_qi_ba_ba.md#黄气巴巴)】`huan2 qi5 ba1 ba1` <sup>[泰县]</sup> 尴尬，不好意思、难为情：小张去借钱，不曾借到，～的家来啊。  
 1. 【[黄雀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_qiah.md#黄雀)】`huan2 qiah7` <sup>[如东]</sup> 候鸟。体长约12厘米。身体黄色。春夏间雄鸟头顶及额颜中央黑色，并有黑眼纹。  
-1. 【[黄腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_qian.md#黄腔)】`huan2 qian1` ① <sup>\[东台\]</sup>被拒绝之后的窘相：我请他唱歌他不肯，我弄吖个～。<sup>\[东台\]</sup> ② <sup>\[兴化\]</sup>唱歌曲时跑调：～走板。<sup>\[兴化\]</sup> ③ <sup>\[兴化\]</sup>无趣、受窘：他这次跑官，弄个～。<sup>\[兴化\]</sup>  
+1. 【[黄腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_qian.md#黄腔)】`huan2 qian1` ① <sup>\[东台\]</sup>被拒绝之后的窘相：我请他唱歌他不肯，我弄吖个～。<sup>\[东台\]</sup> ② <sup>\[兴化\]</sup>唱歌曲时跑调：～走板。<sup>\[兴化\]</sup> ③ <sup>\[兴化\]</sup>无趣、受窘：他这次跑官，弄个～。<sup>\[兴化\]</sup> ④ <sup>\[泰县\]</sup>没趣：他去找领导要官当，弄吖个～。<sup>\[泰县\]</sup>  
 1. 【[黄泉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_qiun.md#黄泉)】`huan2 qiun2` <sup>[如东]</sup> 地下的泉水。人死后埋葬入坑，即有黄泉注入。比喻阴间：命归～。  
 1. 【[黄泉路上无老少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_qiun_lv_shan_v_lo_sho.md#黄泉路上无老少)】`huan2 qiun2 lv6 shan6 v2 lo3 sho5` <sup>[东台]</sup> 通向阴间的道路，对于年龄大小没有选择。  
-1. 【[黄人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ren.md#黄人)】`huan2 ren2` ① <sup>\[如东\]</sup>使对方丢失面子：不能～。<sup>\[如东\]</sup> ② <sup>\[如皋\]</sup>使人难堪、尴尬。 ③ <sup>\[东台\]</sup>拒绝别人的要求，使人尴尬：我请你吃饭，你不能～。<sup>\[东台\]</sup>  
-1. 【[黄烧饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_sho_bien.md#黄烧饼)】`huan2 sho1 bien3` <sup>[如东]</sup> 面粉经过发酵，做成饼，里面放进馅儿，一面沾上芝蔗，然后贴在烧饼炉壁上用炭火烤熟，外面呈黄色。  
-1. 【[黄霜霜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_shuan_shuan.md#黄霜霜)】`huan2 shuan1 shuan1` ① <sup>\[东台\]</sup>黄色物品，令人喜爱：要选～的稻谷做良种。<sup>\[东台\]</sup> ② <sup>\[兴化\]</sup>形容色泽金黄而鲜艳：一碟蒸的～乳饼，两盏粳米粥。（《金瓶梅词话》六二）<sup>\[兴化\]</sup> ③ <sup>\[泰县\]</sup>颜色很黄：这块饼煎得～的。  
+1. 【[黄人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ren.md#黄人)】`huan2 ren2` <sup>\[如东\]\[如皋\]\[东台\]</sup>使人难堪、尴尬：不能～。<sup>\[如东\]</sup>｜我请你吃饭，你不能～。<sup>\[东台\]</sup>  
+1. 【[黄烧饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_sho_bien.md#黄烧饼)】`huan2 sho1 bien3` <sup>[如东]</sup> 面粉经过发酵，做成饼，里面放进馅儿，一面沾上芝麻，然后贴在烧饼炉壁上用炭火烤熟，外面呈黄色。  
+1. 【[黄霜霜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_shuan_shuan.md#黄霜霜)】`huan2 shuan1 shuan1` ① <sup>\[东台\]</sup>黄色物品，令人喜爱：要选～的稻谷做良种。<sup>\[东台\]</sup> ② <sup>\[兴化\]</sup>形容色泽金黄而鲜艳：一碟蒸的～乳饼，两盏粳米粥。（《金瓶梅词话》六二）<sup>\[兴化\]</sup> ③ <sup>\[泰县\]</sup>颜色很黄：这块饼煎得～的。<sup>\[泰县\]</sup>  
 1. 【[黄霜霜的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_shuan_shuan_dii.md#黄霜霜的)】`huan2 shuan1 shuan1 dii` <sup>[如皋]</sup> 一片黄色。  
 1. 【[黄汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_tan.md#黄汤)】`huan2 tan1` <sup>[如东]</sup> 一种低度酒的颜色呈黄色。比喻酒：天天喝～。  
-1. 【[黄豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_teu.md#黄豆)】`huan2 teu6, van2 teu6` 黄豆  
-1. 【[黄豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_teu.md#黄豆)】`huan2 teu6` <sup>[如东]</sup> 豆科植物黄豆，一年生草本。  
+1. 【[黄豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_teu.md#黄豆)】`huan2 teu6, van2 teu6` 黄豆，农作物。豆科植物。  
 1. 【[黄豆角子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_teu_gah_zz.md#黄豆角子)】`huan2 teu6 gah7 zz` <sup>[兴化]</sup> 大豆的嫩荚，剥出的嫩豆即“黄豆米子”。又称“毛豆”。  
 1. 【[黄豆芽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_teu_nga.md#黄豆芽)】`huan2 teu6 nga2` <sup>[如东]</sup> 黄大豆浸水后生发的嫩芽，是普通蔬菜。  
 1. 【[黄道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_to.md#黄道)】`huan2 to6` <sup>[如东]</sup> 地球一年绕太阳转一周，我们从地球上看成太阳一年在天空中移动一圈，太阳这样移动的路线叫做黄道。它是天球上假设的一个大圆圈，即地球轨道在天球上的投影。黄道和赤道相交于春分点和秋分点。  
@@ -1635,23 +1632,21 @@
 1. 【[黄鱼脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_y_jiah.md#黄鱼脚)】`huan2 y2 jiah7` <sup>[兴化]</sup> 旧称妇女的天足，相对于裹脚。  
 1. 【[黄鱼鲞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_y_xian.md#黄鱼鲞)】`huan2 y2 xian3` <sup>[如东]</sup> 石首科动物大黄鱼的干制品。  
 1. 【[黄玉米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_y_mi.md#黄玉米)】`huan2 y6 mi3` <sup>[如东]</sup> 玉米的一种。种子的表皮呈黄色。  
-1. 【[幌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_zz.md#幌子)】`huan3 zz` ① <sup>\[东台\]</sup>旧时用布或草帘等缀于竹竿头，高高悬挂在店铺门外，用以招揽顾客的标识。 ② <sup>\[东台\]</sup>没有，根本不可能：他说他十七岁就入咖党吖？～！<sup>\[东台\]</sup>｜解放初期有则民谣<sup>\[东台\]</sup>｜二流子，摇膀子，不是共产党来吃～。<sup>\[东台\]</sup> ③ <sup>\[兴化\]</sup>（借）虚的，不可能的：没得钱吃～、玩～。<sup>\[兴化\]</sup>｜（木料给了人家）说定春上砌房子的，这一来砌～唦！（钱国怀《家怨》）<sup>\[兴化\]</sup>  
+1. 【[幌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_zz.md#幌子)】`huan3 zz` ① <sup>\[东台\]</sup>旧时用布或草帘等缀于竹竿头，高高悬挂在店铺门外，用以招揽顾客的标识。 ② <sup>\[东台\]\[兴化\]\[如皋\]</sup>（借）虚的，不可能的：他说他十七岁就入咖党吖？～！<sup>\[东台\]</sup>｜解放初期有则民谣：二流子，摇膀子，不是共产党来吃～。<sup>\[东台\]</sup>｜没得钱吃～、玩～。<sup>\[兴化\]</sup>｜（木料给了人家）说定春上砌房子的，这一来砌～唦！（钱国怀《家怨》）<sup>\[兴化\]</sup>｜你哿曾带钱吖？——带～！<sup>\[如皋\]</sup>  
 1. 【[恍惑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_hoh.md#恍惑)】`huan3 hoh8` <sup>[兴化]</sup> 将别人的意思领会错：我捱你一说倒～住啊。  
 1. 【[晃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan.md#晃)】`huan3` <sup>[东台]</sup> 很快的闪过：唉！一～的下子，十几年就过去啊。  
 1. 【[晃眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ngaen.md#晃眼)】`huan3 ngaen3, huan5 ngaen3` <sup>[如皋]</sup> 过分醒目，易招惹是非（警醒语）。  
-1. 【[晃三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_saen.md#晃三)】`huan3 saen1` <sup>[泰县]</sup> 不是的，没有：“这下子你哿曾分到房子？”“～。”  
 1. 【[晃条子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_tio_zz.md#晃条子)】`huan3 tio2 zz` <sup>[如皋]</sup> 状人瘦而高。  
 1. 【[谎报](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_bo.md#谎报)】`huan3 bo5` <sup>[东台]</sup> 假造事实报告：要实事求是，不能～。  
 1. 【[谎媒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_mei.md#谎媒)】`huan3 mei2` <sup>[兴化]</sup> 说媒时隐瞒了某方的一些情况：她做～，把男方年龄隐瞒五岁。  
 1. 【[谎媒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_mi.md#谎媒)】`huan3 mi2` <sup>[如皋]</sup> 说媒时隐瞒了重大实情。  
 1. 【[谎婆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_pu_r.md#谎婆<sub>儿</sub>)】`huan3 pu2 r` <sup>[如东]</sup> 说假话的人：她是个～。  
-1. 【[谎三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_saen.md#谎三)】`huan3 saen1` <sup>[如皋]</sup> 决不：睬他个～！  
+1. 【[谎三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_saen.md#谎三)】`huan3 saen1` <sup>\[如皋\]\[泰县\]</sup>表示否定、虚幻：睬他个～！<sup>\[如皋\]</sup>｜“这下子你哿曾分到房子？”“～。”<sup>\[泰县\]</sup>  
 1. 【[谎三哥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_saen_gu.md#谎三哥)】`huan3 saen1 gu1` <sup>[如皋]</sup> ① 昵称爱编虚夸故事或说小谎以取乐的人。 ② 指经常说谎，不诚实的人。  
 1. 【[谎说得圆溜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_shuh_deh_iun_lieu.md#谎说得圆溜)】`huan3 shuh7 deh iun2 lieu` <sup>[如皋]</sup> 谎话像真话，无瑕可挑。  
 1. 【[谎张三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_zhan_saen.md#谎张三)】`huan3 zhan1 saen1` <sup>[如东]</sup> 经常说假话的人：不要相信，他是个～。  
 1. 【[谎账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_zhan.md#谎账)】`huan3 zhan5` <sup>[如皋]</sup> 假账。  
-1. 【[谎子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_zz.md#谎子)】`huan3 zz` <sup>[如皋]</sup> 没有、未曾：你哿曾带钱吖？——带～！  
-1. 【[晃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan.md#晃)】`huan5` ① <sup>\[如东\]</sup>摇摆：篮子挂啊树枝儿上乱～。<sup>\[如东\]</sup> ② <sup>\[如东\]</sup>抛出去：没用的东西，我都～出去啊。<sup>\[如东\]</sup> ③ <sup>\[如皋\]</sup>口头语。意为打赌、挑衅、走着瞧：是不是～下来看、敢不敢～下子。 ④ <sup>\[泰州\]</sup>随意闲逛：不晓得他人又～吖哪块去啊唻。<sup>\[泰州\]</sup>  
+1. 【[晃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan.md#晃)】`huan5` ① <sup>\[如东\]</sup>摇摆：篮子挂啊树枝儿上乱～。<sup>\[如东\]</sup> ② <sup>\[如东\]</sup>抛出去：没用的东西，我都～出去啊。<sup>\[如东\]</sup> ③ <sup>\[如皋\]</sup>口头语。意为打赌、挑衅、走着瞧：是不是～下来看、敢不敢～下子。<sup>\[如皋\]</sup> ④ <sup>\[泰州\]</sup>随意闲逛：不晓得他人又～吖哪块去啊唻。<sup>\[泰州\]</sup>  
 1. 【[晃膀子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ban_zz.md#晃膀子)】`huan5 ban3 zz` <sup>[兴化]</sup> 无事闲逛：他成天不做事，吃饱啊就去～。  
 1. 【[晃长子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_chan_zz.md#晃长子)】`huan5 chan2 zz` <sup>[兴化]</sup> 瘦高个儿：老毛是个～，走路腰总𨉣啊在下。  
 1. 【[晃大晃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_da_huan.md#晃大晃)】`huan5 da6 huan5` <sup>[如东]</sup> 欺骗：他玩的是～。  

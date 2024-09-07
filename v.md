@@ -673,7 +673,7 @@
 1. 【[黄豆篓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_teu_leu_r.md#黄豆篓<sub>儿</sub>)】`van2 teu6 leu3 r` <sup>[如皋]</sup> 一种无孔的小竹篮，方底圆口深帮。用精篾翘三编成，密不漏。  
 1. 【[黄豆米<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_teu_mi_r.md#黄豆米<sub>儿</sub>)】`van2 teu6 mi3 r` <sup>[如皋]</sup> 菜用嫩黄豆粒：擘～炒大椒。  
 1. 【[黄豆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_teu_r.md#黄豆<sub>儿</sub>)】`van2 teu6 r` <sup>[如皋]</sup> 大豆。食用时称：吃～、煮～。  
-1. 【[黄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_zz.md#黄子)】`van2 zz` <sup>[如皋]</sup> 蛋黄、蟹黄等。  
+1. 【[黄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_zz.md#黄子)】`van2 zz` <sup>\[如皋\]\[泰县\]</sup>蛋、蟹等的黄。  
 1. 【[往常](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_chan.md#往常)】`van3 chan2` ① <sup>\[如皋\]</sup>以往、经常地：他～逢时过节的总要敬香，后来不咖。 ② <sup>\[东台\]</sup>以往正常情况下：～梅雨季节雨水多，今年偏少。<sup>\[东台\]</sup>  
 1. 【[往家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ga.md#往家)】`van3 ga1` 回家  
 1. 【[往来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_lae.md#往来)】`van3 lae2` <sup>[如皋]</sup> ① 互相交往。 ② 经济交往：共～、～大。  
