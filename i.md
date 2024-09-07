@@ -191,7 +191,7 @@
 1. 【[野胡椒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_hv_jio.md#野胡椒)】`ia3 hv2 jio1` <sup>[东台]</sup> 通常指女性撒泼，不讲理。  
 1. 【[野胡萝卜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_hv_lu_poh.md#野胡萝卜)】`ia3 hv2 lu2 poh` <sup>[如东]</sup> 伞科植物野胡萝卜，二年生草本。高约120厘米。茎直立。叶片3回羽状分裂裂片披针形。复伞形花序顶生或腋生。花白色、黄色或淡紫红色。双悬果卵圆形。分果具窄翅，翅上密生钩刺。生长在路旁、溪边、荒地。  
 1. 【[野野<sub>儿</sub>乌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_ia_r_v.md#野野<sub>儿</sub>乌)】`ia3 ia3 r v1` <sup>[如皋]</sup> 粗野鄙劣，不讲道理，胡言乱语、不上正道。  
-1. 【[野鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_ji.md#野鸡)】`ia3 ji1` ① <sup>\[如皋\]</sup>拉客的婊子。 ② <sup>\[如东\]</sup>雉科动物雉，体长约90厘米。雌雄异色。雄者羽毛华丽，头顶黄铜锴，两侧有微白眉纹。虹膜栗红色。颏、喉和后颈黑色，有金色反光。颈下有一显著的白圈。尾羽很长。翼上覆羽大多黄褐杂以栗色。脚短而健红灰褐色，善走，不能久飞。雌者体形较小，尾也较短。体羽大多砂褐色。生活在荒野或田间。 ③ <sup>\[如东\]</sup>旧时称私娼为野鸡。 ④ <sup>\[东台\]</sup>喻指暗娼和无证经营者：～车。<sup>\[东台\]</sup>  
+1. 【[野鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_ji.md#野鸡)】`ia3 ji1` ① <sup>\[如东\]</sup>雉科动物雉，体长约90厘米。雌雄异色。雄者羽毛华丽，头顶黄铜锴，两侧有微白眉纹。虹膜栗红色。颏、喉和后颈黑色，有金色反光。颈下有一显著的白圈。尾羽很长。翼上覆羽大多黄褐杂以栗色。脚短而健红灰褐色，善走，不能久飞。雌者体形较小，尾也较短。体羽大多砂褐色。生活在荒野或田间。 ② <sup>\[如东\]\[如皋\]\[东台\]</sup>称暗娼、私娼 ③ <sup>\[东台\]</sup>喻指无证经营者：～车。<sup>\[东台\]</sup>  
 1. 【[野雀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_jiah_r.md#野雀<sub>儿</sub>)】`ia3 jiah7 r` <sup>[兴化]</sup> （喻）性情粗野，没有约束的青少年：教他上班，等于～关笼子，他怎吖受得了？  
 1. 【[野菊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_jioh.md#野菊)】`ia3 jioh7` <sup>[如东]</sup> 菊科植物野菊，多年生草本。高约60厘米。顶部的枝通常被白色柔毛，有香气。叶互生，长圆状卵形，有羽状深裂片。头状花序顶生，数个排列成伞房花序。舌状花淡黄色。瘦果。生长在路边、丘陵荒地和林缘。  
 1. 【[野菊花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_jioh_hua.md#野菊花)】`ia3 jioh7 hua1` <sup>[如东]</sup> 菊科植物野菊的头状花序。  

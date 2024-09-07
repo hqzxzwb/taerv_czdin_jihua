@@ -1567,6 +1567,7 @@
 1. 【[黄花<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_hua_r.md#黄花<sub>儿</sub>)】`huan2 hua1 r` <sup>\[如东\]</sup>苜蓿\[如东：豆科植物南苜蓿和紫苜蓿，一年生或二年生草本。\]  
 1. 【[黄黄齈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_huan_lon.md#黄黄齈)】`huan2 huan2 lon` <sup>[如皋]</sup> 脓样鼻涕。  
 1. 【[黄昏星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_huen_xien.md#黄昏星)】`huan2 huen1 xien1` <sup>[如皋]</sup> 金星。  
+1. 【[黄芽菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ia_cae.md#黄芽菜)】`huan2 ia2 cae5` <sup>\[兴化\]\[如皋\]</sup>大白菜。  
 1. 【[黄秧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ian.md#黄秧)】`huan2 ian1` ① <sup>\[如东\]</sup>稻秧。也叫小秧。 ② <sup>\[如皋\]</sup>刚栽，未醒棵的秧苗。  
 1. 【[黄杨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ian.md#黄杨)】`huan2 ian2` <sup>[如东]</sup> 黄杨科植物黄杨，常绿灌木或小乔木。  
 1. 【[黄逸峰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ieh_fon.md#黄逸峰)】`huan2 ieh8 fon1` <sup>[东台]</sup> （1906—1988），东台人。久经考验的忠诚的共产主义战士，社会科学家。1925年加入中国共产党。大革命时期任南京地委书记；抗日战争期间受党支派出任苏北联抗司令，苏北参议会议长。解放后先后担任上海铁路局局长，华东交通部部长，上海社会科学院院长等职。  
@@ -1584,6 +1585,7 @@
 1. 【[黄龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_lon.md#黄龙)】`huan2 lon` 鼻涕  
 1. 【[黄龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_lon.md#黄龙)】`huan2 lon2` <sup>[如东]</sup> 脓性鼻涕。  
 1. 【[黄龙鼻遢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_lon_pieh_taeh.md#黄龙鼻遢)】`huan2 lon2 pieh8 taeh7` <sup>[如东]</sup> 鼻涕流出来，没有擦掉，显得十分邋遢：这个伢儿～的，多难相吖。  
+1. 【[黄龙鼻涕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_lon_pieh_ti.md#黄龙鼻涕)】`huan2 lon2 pieh8 ti1` <sup>[东台]</sup> 重感冒时所流的鼻涕，黄色像脓。  
 1. 【[黄麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ma.md#黄麻)】`huan2 ma2` <sup>[如东]</sup> 桑科植物大麻，一年生草本。  
 1. 【[黄麻果穗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ma_gu_qy.md#黄麻果穗)】`huan2 ma2 gu3 qy6` <sup>[如东]</sup> 桑科植物大麻雌株幼嫩果穗，又名麻黄。  
 1. 【[黄蟒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_man.md#黄蟒)】`huan2 man3` <sup>[如东]</sup> 蟒蛇的一种。背部的鳞片呈淡褐色，两侧的鳞片呈淡黄色或黄色。  
@@ -1596,23 +1598,17 @@
 1. 【[黄毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_mo.md#黄毛)】`huan2 mo2` 黄头发；黄头发的人  
 1. 【[黄毛丫头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_mo_nga_teu.md#黄毛丫头)】`huan2 mo2 nga1 teu` <sup>[如东]</sup> 年幼的女孩子。  
 1. 【[黄毛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_mo_r.md#黄毛<sub>儿</sub>)】`huan2 mo2 r` <sup>[兴化]</sup> 年幼女童，犹“黄毛丫头”：谚曰：～短颈项，越大越犯犟。  
-1. 【[黄猫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_mo_r.md#黄猫<sub>儿</sub>)】`huan2 mo2 r` ① 黄鼠狼 ② <sup>\[兴化\]</sup>黄鼬。黄鼠狼。又称“黄鼠子”。 ③ <sup>\[泰县\]</sup>黄鼠狼。  
-1. 【[黄猫<sub>儿</sub>给鸡拜年——没安好心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_mo_r_gei_ji_bae_nin_meh_un_ho_xien.md#黄猫<sub>儿</sub>给鸡拜年——没安好心)】`huan2 mo2 r gei5 ji1 bae5 nin2 meh8 un1 ho3 xien1` <sup>[东台]</sup>   
-1. 【[黄猫<sub>儿</sub>看鸡——越看越稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_mo_r_kun_ji_iuh_kun_iuh_xi.md#黄猫<sub>儿</sub>看鸡——越看越稀)】`huan2 mo2 r kun1 ji1 iuh8 kun1 iuh8 xi1` <sup>[东台]</sup>   
+1. 【[黄猫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_mo_r.md#黄猫<sub>儿</sub>)】`huan2 mo2 r` <sup>\[兴化\]\[泰县\]</sup>黄鼠狼\[兴化：又称“黄鼠子”。\]  
 1. 【[黄猫<sub>儿</sub>箅子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_mo_r_peh_zz.md#黄猫<sub>儿</sub>箅子)】`huan2 mo2 r peh8 zz` <sup>[如东]</sup> 捕捉黄鼬的一种工具。用芦苇编成帘子，1米长，80厘米宽，下面放置一只癞蛤蟆，作为引饵。癞蛤蟆牵着一个灵敏的机关，一旦黄鼬吃癞蛤蟆，机关一动，黄鼬就被扣在箅子下面。  
-1. 【[黄猫<sub>儿</sub>专拣病鸡咬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_mo_r_zhun_gaen_pien_ji_ngo.md#黄猫<sub>儿</sub>专拣病鸡咬)】`huan2 mo2 r zhun1 gaen3 pien6 ji1 ngo3` <sup>[东台]</sup> 喻指自身有弱点，敌人会乘虚而入。  
 1. 【[黄吖下子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_nga_ha_zz.md#黄吖下子)】`huan2 nga ha6 zz` <sup>[如皋]</sup> 难堪了一下。尴尬了一下。  
 1. 【[黄吖下子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_nga_haeh_zz.md#黄吖下子)】`huan2 nga haeh7 zz` <sup>[东台]</sup> 因出丑或本该保密的事露了馅，很不好意思的窘态。  
-1. 【[黄芽菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_nga_cae.md#黄芽菜)】`huan2 nga cae5` <sup>[如皋]</sup> 大白菜。  
-1. 【[黄芽菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_nga_cae.md#黄芽菜)】`huan2 nga2 cae5` ① <sup>\[如东\]</sup>十字花科植物大白菜，二年生草本。 ② <sup>\[兴化\]</sup>大白菜。  
-1. 【[黄眼睛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ngaen_jien.md#黄眼睛)】`huan2 ngaen3 jien1` <sup>[如东]</sup> 鲻科动物棱鮻，体长约20 ～30厘米。  
+1. 【[黄芽菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_nga_cae.md#黄芽菜)】`huan2 nga2 cae5` <sup>\[如东\]</sup>十字花科植物大白菜，二年生草本。  
+1. 【[黄眼睛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ngaen_jien.md#黄眼睛)】`huan2 ngaen3 jien1` <sup>[如东]</sup> 鲻科动物棱鮻，体长约20～30厘米。  
 1. 【[黄眼无义](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ngaen_v_i.md#黄眼无义)】`huan2 ngaen3 v2 i6` <sup>[如东]</sup> 比喻没有情义：他是个～的东西。  
 1. 【[黄牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ngeu.md#黄牛)】`huan2 ngeu2` <sup>[如东]</sup> 牛科动物黄牛，体长约2米。  
 1. 【[黄牛宝宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ngeu_bo_bo.md#黄牛宝宝)】`huan2 ngeu2 bo3 bo3` <sup>[如东]</sup> 蜗牛科动物蜗牛，雌雄同体。  
 1. 【[黄牛宝宝壳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ngeu_bo_bo_kah.md#黄牛宝宝壳)】`huan2 ngeu2 bo3 bo3 kah7` <sup>[如东]</sup> 蜗牛科动物蜗牛壳。  
-1. 【[黄牛颈项的皮——欲紧不紧的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ngeu_jien_han_dii_pi_ioh_jien_beh_jien_dii.md#黄牛颈项的皮——欲紧不紧的)】`huan2 ngeu2 jien3 han6 dii pi2 ioh8 jien3 beh7 jien3 dii` <sup>[东台]</sup>   
 1. 【[黄泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ni.md#黄泥)】`huan2 ni2` <sup>[如东]</sup> 粘质土。也称秦泥。  
-1. 【[黄脓鼻涕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_non_pieh_ti.md#黄脓鼻涕)】`huan2 non2 pieh8 ti1` <sup>[东台]</sup> 重感冒时所流的鼻涕，黄色像脓。  
 1. 【[黄皮包骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_pi_bo_gueh.md#黄皮包骨)】`huan2 pi2 bo1 gueh7` <sup>[如东]</sup> 皮色泛黄，身体瘦弱：要加强营养，不能～的。  
 1. 【[黄皮锈脸的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_pi_xieu_lin_dii.md#黄皮锈脸的)】`huan2 pi2 xieu5 lin3 dii` <sup>[如皋]</sup> 脸色焦黄。  
 1. 【[黄病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_pien.md#黄病)】`huan2 pien6` ① <sup>\[如东\]</sup>黄胆型肝炎。 ② <sup>\[兴化\]</sup>黄痘性肝炎的俗称。  
