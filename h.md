@@ -1633,6 +1633,7 @@
 1. 【[黄鱼鲞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_y_xian.md#黄鱼鲞)】`huan2 y2 xian3` <sup>[如东]</sup> 石首科动物大黄鱼的干制品。  
 1. 【[黄玉米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_y_mi.md#黄玉米)】`huan2 y6 mi3` <sup>[如东]</sup> 玉米的一种。种子的表皮呈黄色。  
 1. 【[幌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_zz.md#幌子)】`huan3 zz` ① <sup>\[东台\]</sup>旧时用布或草帘等缀于竹竿头，高高悬挂在店铺门外，用以招揽顾客的标识。 ② <sup>\[东台\]\[兴化\]\[如皋\]</sup>（借）虚的，不可能的：他说他十七岁就入咖党吖？～！<sup>\[东台\]</sup>｜解放初期有则民谣：二流子，摇膀子，不是共产党来吃～。<sup>\[东台\]</sup>｜没得钱吃～、玩～。<sup>\[兴化\]</sup>｜（木料给了人家）说定春上砌房子的，这一来砌～唦！（钱国怀《家怨》）<sup>\[兴化\]</sup>｜你哿曾带钱吖？——带～！<sup>\[如皋\]</sup>  
+1. 【[幌子三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_zz_saen.md#幌子三)】`huan3 zz saen1` <sup>\[泰兴\]</sup>是虚幻的、不可能的：我信他个～/我是不可能相信他的<sup>\[泰兴\]</sup>｜“事哿曾办得好唻？”“～”。<sup>\[泰兴\]</sup>  
 1. 【[恍惑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_hoh.md#恍惑)】`huan3 hoh8` <sup>[兴化]</sup> 将别人的意思领会错：我捱你一说倒～住啊。  
 1. 【[晃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan.md#晃)】`huan3` <sup>[东台]</sup> 很快的闪过：唉！一～的下子，十几年就过去啊。  
 1. 【[晃眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ngaen.md#晃眼)】`huan3 ngaen3, huan5 ngaen3` <sup>[如皋]</sup> 过分醒目，易招惹是非（警醒语）。  
