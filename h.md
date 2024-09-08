@@ -1745,8 +1745,7 @@
 1. 【[寣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh.md#寣)】`hueh7` ① <sup>\[如皋\]</sup>小睡：吃咖饭，隑啊沙发上～着咖刻儿。 ② <sup>\[东台\]</sup>一会儿，也作一忽儿。（张舜徽曰“今湖湘间亦称时之短暂为‘一寣’，音如‘忽’。”）：我开啊个夜车，早上才睡啊一～儿。<sup>\[东台\]</sup>  
 1. 【[寣着咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_zhah_ga.md#寣着咖)】`hueh7 zhah7 ga` <sup>[东台]</sup> 刚刚迷迷糊糊地入睡：我才～，电话一响，赶快起身。  
 1. 【[忽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh.md#忽)】`hueh7` <sup>[如东]</sup> 长度和重量单位，一毫的百分之一。  
-1. 【[忽略](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_liah.md#忽略)】`hueh7 liah` ① <sup>\[东台\]</sup>得罪，伤害：我不曾～你，你甚的门儿偏要跟我过不去？<sup>\[东台\]</sup> ② <sup>\[如皋\]</sup>得罪人：他～我的，我不曾～他。 ③ <sup>\[兴化\]</sup>轻视、侮慢：你嘴里不要～人。<sup>\[兴化\]</sup>｜“……哥哥何不去见见他，挂个名儿，在府里也体面些，外人也不敢～你。”（《梼杌闲评》九）<sup>\[兴化\]</sup>  
-1. 【[忽略](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_liah.md#忽略)】`hueh7 liah` <sup>[泰州]</sup> 轻视，怠慢（词典“略”音naeh）：我俫不曾有哪个～咖他啊。  
+1. 【[忽略](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_liah.md#忽略)】`hueh7 liah` ① <sup>\[东台\]</sup>得罪，伤害：我不曾～你，你甚的门儿偏要跟我过不去？<sup>\[东台\]</sup> ② <sup>\[如皋\]</sup>得罪人：他～我的，我不曾～他。<sup>\[如皋\]</sup> ③ <sup>\[兴化\]\[泰州\]</sup>轻视、侮慢\[泰州：（hueh7 naeh）\]：你嘴里不要～人。<sup>\[兴化\]</sup>｜“……哥哥何不去见见他，挂个名儿，在府里也体面些，外人也不敢～你。”（《梼杌闲评》九）<sup>\[兴化\]</sup>｜我俫不曾有哪个～咖他啊。<sup>\[泰州\]</sup>  
 1. 【[忽略人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_liah_ren.md#忽略人)】`hueh7 liah ren2` <sup>[如皋]</sup> 得罪人或引起误会。  
 1. 【[忽略](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_liah.md#忽略)】`hueh7 liah8` <sup>[如东]</sup> 没有注意：这件事我～咖，朆做。  
 1. 【[惚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh.md#惚)】`hueh7` ① 差 ② <sup>\[如东\]</sup>比喻才能小，水平低。 ③ <sup>\[如东\]</sup>比喻不结实：这种布～。<sup>\[如东\]</sup> ④ <sup>\[如东\]</sup>竹、木等物纤维组织腐烂变质。 ⑤ <sup>\[如皋\]</sup>品质、素质、能力差：成绩～、质料～。 ⑥ <sup>\[东台\]</sup>坏；质量差。 ⑦ <sup>\[兴化\]</sup>质地坏朽，而外形无明显变化：木头～咖<sup>\[兴化\]</sup>｜布～咖。<sup>\[兴化\]</sup> ⑧ <sup>\[兴化\]</sup>（引）指人作风数坏，品质恶劣：～胚料<sup>\[兴化\]</sup>｜～货。兴化词典作“殨”，《说文，歹部》<sup>\[兴化\]</sup>｜“～，烂也，胡对切。”《集韵·没韵》胡骨切<sup>\[兴化\]</sup>｜“～，肿坏也”。<sup>\[兴化\]</sup> ⑨ <sup>\[兴化\]</sup>惊恐：心里吓得～里～秃的。兴化词典作“𢝇”，《集韵·陌韵》霍號切<sup>\[兴化\]</sup>｜“～，心惊貌”，反切不合。<sup>\[兴化\]</sup> ⑩ <sup>\[泰州\]</sup>极坏：他这个人～吤，专门敲人家外地人的竹杠。<sup>\[泰州\]</sup>  
@@ -1754,12 +1753,11 @@
 1. 【[惚大响](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_da_xian.md#惚大响)】`hueh7 da6 xian3` <sup>[东台]</sup> （詈语）指质量很差的东西：我去年买的沙发是个～，已经破得不像样吖。  
 1. 【[惚得加几](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_deh_jia_ji.md#惚得加几)】`hueh7 deh7 jia1 ji` <sup>[东台]</sup> 非常坏，或者素质太差的意思：那个骗子真～｜那个伢儿整天上网吧，成绩～。（见“加几”）  
 1. 【[惚得响](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_deh_xian.md#惚得响)】`hueh7 deh7 xian3` <sup>[如东]</sup> ① 形容材料没有什么作用：这种木材～。 ② 形容人没有什么才能：王二～。  
-1. 【[惚灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_den.md#惚灯)】`hueh7 den1` ① <sup>\[东台\]</sup>指素质差的人。 ② <sup>\[泰州\]</sup>（泰州词典作㱮） ③ <sup>\[泰州\]</sup>表面道貌岸然内里品行恶劣的人：他是出咖名的～，你最好让他远吖点儿。<sup>\[泰州\]</sup>  
+1. 【[惚灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_den.md#惚灯)】`hueh7 den1` ① <sup>\[东台\]</sup>指素质差的人。 ② <sup>\[泰州\]</sup>表面道貌岸然内里品行恶劣的人：他是出咖名的～，你最好让他远吖点儿。<sup>\[泰州\]</sup>  
 1. 【[惚咖没得钩墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_ga_meh_deh_geu_qian.md#惚咖没得钩墙)】`hueh7 ga meh8 deh7 geu1 qian` <sup>[东台]</sup> 形容坏到极点。  
 1. 【[惚咖没得影子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_ga_meh_deh_ien_zz.md#惚咖没得影子)】`hueh7 ga meh8 deh7 ien3 zz` <sup>[东台]</sup> 同“惚咖没得钩墙”。  
-1. 【[惚货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_hu.md#惚货)】`hueh7 hu5` ① <sup>\[如皋\]</sup>詈语，指差劲儿的人。 ② <sup>\[东台\]</sup>（詈语）指质量差的物品，也指素质差的人（多指女性）。  
-1. 【[惚货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_hu.md#惚货)】`hueh7 hu5` <sup>[泰州]</sup> 烂货，比喻作风不正派的女性。  
-1. 【[惚名](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_mien.md#惚名)】`hueh7 mien2` ① <sup>\[兴化\]</sup>绰号：他喜欢给人起～。<sup>\[兴化\]</sup>｜谚曰：人无～不发。<sup>\[兴化\]</sup> ② <sup>\[泰州\]</sup>外号，诨名，绰号，贬义绰号。  
+1. 【[惚货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_hu.md#惚货)】`hueh7 hu5` ① <sup>\[如皋\]</sup>詈语，指差劲儿的人。 ② <sup>\[东台\]</sup>（詈语）指质量差的物品，也指素质差的人（多指女性）。 ③ <sup>\[泰州\]</sup>烂货，比喻作风不正派的女性。  
+1. 【[惚名](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_mien.md#惚名)】`hueh7 mien2` <sup>\[兴化\]\[泰州\]</sup>绰号\[泰州：贬义绰号\]：他喜欢给人起～。<sup>\[兴化\]</sup>｜谚曰：人无～不发。<sup>\[兴化\]</sup>  
 1. 【[惚棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_pan.md#惚棒)】`hueh7 pan6` ① 詈语，指人不务正业、不求上进 ② <sup>\[泰州\]</sup>有偷鸡摸狗、坑蒙拐骗之类不端行为的男性，詈词。  
 1. 【[惚坯料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_pi_lio.md#惚坯料)】`hueh7 pi1 lio6` <sup>[东台]</sup> 坏习惯；不良习性。（参见“坏癖”）  
 1. 【[惚事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_shr.md#惚事)】`hueh7 shr6` <sup>[如皋]</sup> 坏事、丑事、不能见人的事。  
@@ -1770,7 +1768,7 @@
 1. 【[惚砟<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_zha_r.md#惚砟<sub>儿</sub>)】`hueh7 zha3 r` <sup>[东台]</sup> 指质量最差的部分：他俫几个成绩太差，都是班上～。  
 1. 【[惚着子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_zhah_zz.md#惚着子)】`hueh7 zhah7 zz` <sup>[如皋]</sup> 无效的或引起负作用的步骤。  
 1. 【[㱮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh.md#㱮)】`hueh8` <sup>[东台]</sup> 浑浊。（原文作“浑 hueh8”。㱮，《集韻》胡骨切，音搰。爛也。泰县方言志作此字。）：～汤。  
-1. 【[㱮笃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_doh.md#㱮笃)】`hueh8 doh7` <sup>[泰县]</sup> 糊涂：我倒～住啊，他到底哿来。  
+1. 【[㱮笃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_doh.md#㱮笃)】`hueh8 doh` <sup>[泰县]</sup> 糊涂：我倒～住啊，他到底哿来。  
 1. 【[㱮汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_tan.md#㱮汤)】`hueh8 tan1` <sup>[泰县]</sup> 面、粉等食物过多溶解于汤中。  
 1. 【[囫囵吞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_len_ten.md#囫囵吞)】`hueh8 len ten1` <sup>[兴化]</sup> ① 整吃：一个汤圆子他～下去。 ② （喻）学习内容不消化，死背硬记：老师讲的功课，他只顾～，也不去思考。  
 1. 【[殨嘟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_dv.md#殨嘟)】`hueh8 dv` <sup>[兴化]</sup> 形容面汤、圆子汤起粘：汤～起来啊。｜一锅～子。  

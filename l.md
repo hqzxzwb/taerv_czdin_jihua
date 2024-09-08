@@ -1003,7 +1003,7 @@
 1. 【[凉团](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_tun.md#凉团)】`lian2 tun2` <sup>[如皋]</sup> 甜馅糯米粉饼，卵圆形，冷食。  
 1. 【[凉宵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_xio.md#凉宵)】`lian2 xio1` <sup>[如东]</sup> 凉爽的夜晚。  
 1. 【[凉渣味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_zha_vei.md#凉渣味)】`lian2 zha1 vei6` <sup>[如皋]</sup> 生青菜、菠菜等败坏的气味。  
-1. 【[凉枕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_zhen.md#凉枕)】`lian2 zhen3` ① <sup>\[如皋\]</sup>竹枕、藤枕、瓷枕等凉爽的枕头。 ② <sup>\[如皋\]</sup>见“竹壳儿枕头”。  
+1. 【[凉枕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_zhen.md#凉枕)】`lian2 zhen3` <sup>\[如皋\]</sup>竹枕、藤枕、瓷枕等凉爽的枕头。另见“竹壳儿枕头”。  
 1. 【[梁背肘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_bei_zheu.md#梁背肘)】`lian2 bei5 zheu3` <sup>[如东]</sup> 帆船上贴在梁背上的木条。  
 1. 【[梁架](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_jia.md#梁架)】`lian2 jia5` <sup>[如东]</sup> 房屋顶部横向的檩条。也称桁条。屋顶第一根称梁，中间称正梁；往下称架，有二架、三架、四架、五架等。  
 1. 【[梁码<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_ma_r.md#梁码<sub>儿</sub>)】`lian2 ma3 r` <sup>[如皋]</sup> 旧时农村常见的“前过道后堂屋”式平房中，“过道”三间，中间用两架“人字梁”，无中柱，名叫过梁，可架水车的槽筒，俗称“架啊～上”。一般有中柱的“大梁”的“山尖儿”上不嵌“山板”的也称～。  
