@@ -146,9 +146,10 @@
 1. 【[发嗲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_dia.md#发嗲)】`faeh7 dia3` ① <sup>\[如东\]</sup>故意装着疼爱的样子。 ② <sup>\[如皋\]</sup>撒娇。  
 1. 【[发嗲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_dia.md#发嗲)】`faeh7 dia3` <sup>[泰州]</sup> 撒娇作态：这个马马儿只要领导来啊，就在领导跟前～。  
 1. 【[发发饿狠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_faeh_ngu_hen.md#发发饿狠)】`faeh7 faeh7 ngu6 hen3` <sup>[如皋]</sup> 见“杀杀水气”。  
-1. 【[发福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_foh.md#发福)】`faeh7 foh7` <sup>[如东]</sup> 身体长胖。  
-1. 【[发福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_foh.md#发福)】`faeh7 foh7` <sup>[泰州]</sup> 称人发胖的客气话：几年不见，你老人家～咖唻。  
+1. 【[发福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_foh.md#发福)】`faeh7 foh7` <sup>\[如东\]\[泰州\]</sup>称人发胖的客套话：几年不见，你老人家～咖唻。<sup>\[泰州\]</sup>  
 1. 【[发浮<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_fv_r.md#发浮<sub>儿</sub>)】`faeh7 fv2 r` <sup>[兴化]</sup> 扬言：他在外头～，一定叫张老三吃不了兜啊走。  
+1. 【[发胕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_fv.md#发胕)】`faeh7 fv2` <sup>[如皋]</sup> ① 因水肿显得胖了，但是气色不好。 ② 麻木感：他吃大椒嘴捱麻啊发咖胕。  
+1. 【[发酵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_go.md#发酵)】`faeh7 go5` <sup>[如东]</sup> 酵母菌在淀粉中发育而使面团变得松软。  
 [更多...](./f.md)
 ## G
 1. 【[……家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga.md#……家)】`ga` <sup>[东台]</sup> ① 这里“家”轻读。接在姓氏后，加上地方特点命名地名：王～舍；孔～堡。 ② 接在某姓后面，相当于姓……的：张～；李～；王～佬。 ③ 亲昵地呼唤小孩：来啊～；到我家多住几天，可好？～。  
