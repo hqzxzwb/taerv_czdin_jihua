@@ -5,7 +5,6 @@ jy5 qian6
   * 如皋方言词典
     + （jy5 qian）
 
-
 # 锯匠
 jy5 qian
 > 泰州方言词典2

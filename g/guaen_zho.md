@@ -2,7 +2,6 @@
 guaen1 zho5
 - 嘱咐
 
-
 # 关照
 guaen1 zho5
 > 泰州方言词典2

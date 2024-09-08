@@ -3,7 +3,6 @@ ngaen2 zhaen
 > 泰县方言志
 - 说话刺人。
 
-
 # 䶠斩
 ngaen2 zhaen
 > 泰州方言词典2

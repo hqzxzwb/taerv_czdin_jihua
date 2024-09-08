@@ -1,5 +1,3 @@
-
-
 # 没得关拦
 meh8 deh7 guaen1 laen2
 > 泰州方言词典2
