@@ -465,8 +465,7 @@
 1. 【[被卧<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_u_r.md#被卧<sub>儿</sub>)】`pi6 u r` <sup>[如东]</sup> 铺成长筒形，准备睡磨的被子。也叫被筒子。被子的下面。  
 1. 【[被卧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_u.md#被卧)】`pi6 u6` <sup>[泰县]</sup> 铺盖卧具：甚的时侯了，还睡啊～里头。/只说林冲就床上放了包裹～，就坐下来生些燄火起来。（水浒·10回）  
 1. 【[避水珠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_shuei_zhv.md#避水珠)】`pi6 shuei3 zhv1` <sup>[如东]</sup> 闰鱼的眼睛。传说闰鱼被送上沙滩时是没有眼珠的。这种眼珠是珍宝，放在身上，下雨能避淋，入水能开道。  
-1. 【[避嫌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_xin.md#避嫌)】`pi6 xin2` <sup>[东台]</sup> 有意避开嫌疑。  
-1. 【[避嫌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_xin.md#避嫌)】`pi6 xin2` <sup>[泰州]</sup> 避开嫌疑，预先避开不参与。  
+1. 【[避嫌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_xin.md#避嫌)】`pi6 xin2` ① <sup>\[东台\]</sup>有意避开嫌疑。 ② <sup>\[泰州\]</sup>避开嫌疑，预先避开不参与。  
 1. 【[避嫌疑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_xin_i.md#避嫌疑)】`pi6 xin2 i2` <sup>[兴化]</sup> 言行注意检点，避开嫌疑：通到自身的事要～。｜“胡说，就是嫡亲兄妹也该避些嫌疑……”（《梼杌闲评》十五）｜《警世通言》第三十四卷有“娇鸾和廷意渐渐不心”句。  
 1. 【[鐾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#鐾)】`pi6` <sup>[如皋]</sup> 把刀口在荡刀布上稍稍荡磨几下。  
 1. 【[𰆘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#𰆘)】`pi6` <sup>[如东]</sup> 下雨或冲水后，泥土表面板结称𰆘。  

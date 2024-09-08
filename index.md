@@ -326,8 +326,7 @@
 1. 【[麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma.md#麻)】`ma2` ① <sup>\[如东\]</sup>桑科植物黄麻，一年生草本。 ② <sup>\[如东\]</sup>鱼、蟹、虾等海鲜食物用盐渍一下，保鲜防腐，叫做麻。 ③ <sup>\[如皋\]</sup>辣：大椒～人。<sup>\[如皋\]</sup> ④ <sup>\[如皋\]</sup>触电的感觉。 ⑤ <sup>\[如皋\]</sup>像芝麻多而小：～虾儿。<sup>\[如皋\]</sup> ⑥ <sup>\[如皋\]</sup>曚昽：天～～儿亮。<sup>\[如皋\]</sup> ⑦ <sup>\[如皋\]</sup>芝麻点状的：～子、～石、～鸭儿、～苍蝇。<sup>\[如皋\]</sup> ⑧ <sup>\[如皋\]</sup>出风头、摆威风、高傲的样子：这家伙，有两个钱，～唻！<sup>\[如皋\]</sup> ⑨ <sup>\[兴化\]</sup>辣味刺激：～人。<sup>\[兴化\]</sup> ⑩ <sup>\[兴化\]</sup>（贬）极：坏啊～啊。<sup>\[兴化\]</sup> ⑪ <sup>\[兴化\]</sup>（借）形容价格昂贵：东西倒不丑，就是价钱～人。<sup>\[兴化\]</sup> ⑫ <sup>\[兴化\]</sup>作动词，喝酒的隐语：“……弄点酒来～下子，暖暖身子睡觉吧！”（兴文《得胜湖的定名及传说》）<sup>\[兴化\]</sup> ⑬ <sup>\[兴化\]</sup>谓人狂妄：你少要～！<sup>\[兴化\]</sup> ⑭ <sup>\[泰县\]</sup>辣。 ⑮ <sup>\[泰州\]</sup>辛辣刺激口腔舌头所产生的味觉：这个大椒太～。<sup>\[泰州\]</sup>  
 1. 【[麻啊爪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_a_zhua_zz.md#麻啊爪子)】`ma2 a zhua3 zz` ① <sup>\[东台\]</sup>麻醉了，手脚不能动。 ② <sup>\[东台\]</sup>吓得不知所措的样子。 ③ <sup>\[泰县\]</sup>手足无措：她家男的一死，撂下老的小的，她就～啊啦。<sup>\[泰县\]</sup>  
 1. 【[麻疤<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ba_r.md#麻疤<sub>儿</sub>)】`ma2 ba1 r` <sup>[如东]</sup> 比喻岔子：他来寻～。  
-1. 【[麻饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_bien.md#麻饼)】`ma2 bien3` <sup>[兴化]</sup> 一种糕点，以面粉、植物油、蔗糖为主要原料制成的银圆大小的薄饼，两面芝麻，在平底锅中烤熟，酥甜可口。  
-1. 【[麻饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_bien.md#麻饼)】`ma2 bien3` <sup>[泰州]</sup> 泰州特产茶食之一，一种直径约4厘米、略厚于普通饼干的小圆饼，以其两面沾满芝麻而得名。  
+1. 【[麻饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_bien.md#麻饼)】`ma2 bien3` ① <sup>\[兴化\]</sup>一种糕点，以面粉、植物油、蔗糖为主要原料制成的银圆大小的薄饼，两面芝麻，在平底锅中烤熟，酥甜可口。 ② <sup>\[泰州\]</sup>泰州特产茶食之一，一种直径约4厘米、略厚于普通饼干的小圆饼，以其两面沾满芝麻而得名。  
 1. 【[麻饼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_bien_r.md#麻饼<sub>儿</sub>)】`ma2 bien3 r` ① <sup>\[如东\]</sup>糕点的一种。面粉经过发酪后，做成圆形饼子，上面撒上芝麻、白糖，放在炉中烤熟，酥脆香甜。 ② <sup>\[如皋\]</sup>洋钱大的芝麻饼（茶食）。 ③ <sup>\[如皋\]</sup>油炸的糯米粉芝麻饼。  
 1. 【[麻布袋草布袋——一袋（代）不如一袋（代）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_bv_tae_co_bv_tae_ieh_tae_beh_rv_ieh_tae.md#麻布袋草布袋——一袋（代）不如一袋（代）)】`ma2 bv5 tae6 co3 bv5 tae6 ieh7 tae6 beh7 rv2 ieh7 tae6` <sup>[东台]</sup>   
 1. 【[麻菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_cae.md#麻菜)】`ma2 cae5` ① <sup>\[如东\]</sup>十字花科植物芥菜，一年生或二年生草本。 ② <sup>\[泰县\]</sup>芥菜。  
@@ -338,6 +337,10 @@
 1. 【[麻二扯二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_er_cha_er.md#麻二扯二)】`ma2 er6 cha3 er6` <sup>[泰县]</sup> 不规范，不正经。  
 1. 【[麻稭<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_gae_r.md#麻稭<sub>儿</sub>)】`ma2 gae1 r` <sup>[如皋]</sup> 苎麻去皮的秸秆，旧时点燃照明用。  
 1. 【[麻芥菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_gae_cae.md#麻芥菜)】`ma2 gae5 cae5` <sup>[如皋]</sup> 野芥菜。  
+1. 【[麻糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_go.md#麻糕)】`ma2 go1` ① <sup>\[如东\]</sup>糕点的一种。米糏加水调和，做成糕，上面加芝麻，放在炉里拷熟，味香而韧绉。 ② <sup>\[泰州\]</sup>泰州特产茶食之一，以炒熟的糯米粉、芝麻粉、绵白糖、核桃仁为原料，切片烘制而成，色泽灰白，质地酥脆，旧时多作为馈赠亲友佳物。  
+1. 【[麻虾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ha.md#麻虾)】`ma2 ha1` <sup>[泰州]</sup> 泰州产的一种体型极小的虾，呈青灰色，体半透明，以其小如芝麻粒，故名：～烧豆腐。  
+1. 【[麻虾<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ha_r.md#麻虾<sub>儿</sub>)】`ma2 ha1 r` ① <sup>\[如东\]</sup>中国毛虾科动物糠虾，体个细小，长约1厘米左右。青白色。尾部两侧有红色斑纹。生活在泥沙底质的近海。为重要的经济虾类。是如东特色海味品三伏虾油的主要原料。 ② <sup>\[如皋\]</sup>芝麻大的虾儿。又名糠虾。  
+1. 【[麻虾<sub>儿</sub>雾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ha_r_v.md#麻虾<sub>儿</sub>雾)】`ma2 ha1 r v5` <sup>[如东]</sup> 雾浓而厚。  
 [更多...](./m.md)
 ## N
 1. 【[拿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na.md#拿)】`na2` <sup>[兴化]</sup> ① 装出：～三做四。 ② 批发：到招商城～货。｜这件上衣我～九十，卖把你一百，寻十块钱。  
@@ -426,8 +429,7 @@
 1. 【[攲里八怪的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_lii_baeh_guae_dii.md#攲里八怪的)】`qi1 lii baeh7 guae5 dii` <sup>[如皋]</sup> 蹊跷。  
 1. 【[攲里攲跷的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_lii_qi_qio_dii.md#攲里攲跷的)】`qi1 lii qi1 qio dii` <sup>[如皋]</sup> 蹊跷。  
 1. 【[攲跷八怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_qio_baeh_guae.md#攲跷八怪)】`qi1 qio baeh7 guae5` ① <sup>\[东台\]</sup>反常；特别；奇怪：这吖热的天他还穿棉𧘸子，真是～的。<sup>\[东台\]</sup> ② <sup>\[兴化\]</sup>形容令人奇怪的事物：江西来的动物展览，有好些～的动物。<sup>\[兴化\]</sup>  
-1. 【[攲跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_qio.md#攲跷)】`qi1 qio1` <sup>[如东]</sup> 奇怪，费解：这样处理让人感觉～。  
-1. 【[攲跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_qio.md#攲跷)】`qi1 qio1` <sup>[泰州]</sup> 可疑，怪异而违背常情：你俫都不曾说，她怎吖晓得的，有点儿～。  
+1. 【[攲跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_qio.md#攲跷)】`qi1 qio1` ① <sup>\[如东\]</sup>奇怪，费解：这样处理让人感觉～。<sup>\[如东\]</sup> ② <sup>\[泰州\]</sup>可疑，怪异而违背常情：你俫都不曾说，她怎吖晓得的，有点儿～。<sup>\[泰州\]</sup>  
 1. 【[期间<sub>儿</sub>窄料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_gaen_r_zheh_lio.md#期间<sub>儿</sub>窄料)】`qi1 gaen1 r zheh7 lio6` <sup>[东台]</sup> 为做某事准备的材料只在预算之间，没有一点余地，紧巴巴的：明天来客多，菜要多买些，不能弄得～的。  
 1. 【[期境](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_jien.md#期境)】`qi1 jien` <sup>[兴化]</sup> ① 局势：等外头～平定下来再出去吧！ ② 境况：你的～也不好，覅管我俫吧！  
 1. 【[欺不掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_beh_tio.md#欺不掉)】`qi1 beh7 tio6` <sup>[东台]</sup> 一般人比不上：忙菜～烹调学校毕业生。  
@@ -436,6 +438,8 @@
 1. 【[欺弱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_rah.md#欺弱)】`qi1 rah8` <sup>[如东]</sup> 欺负软弱。  
 1. 【[欺生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_shen.md#欺生)】`qi1 shen1` <sup>[东台]</sup> 排斥、欺负新来的人：你才去，人家有点儿～，马上就好啊。  
 1. 【[欺削](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_xiah.md#欺削)】`qi1 xiah` <sup>[兴化]</sup> 瞧不起人：你覅～人，你说的那个我也懂。  
+1. 【[欺削](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_xiah.md#欺削)】`qi1 xiah7` <sup>[东台]</sup> 欺负人，以势压人。  
+1. 【[欺心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_xien.md#欺心)】`qi1 xien1` <sup>[兴化]</sup> 昧着良心：“他有这个～的事，我也不饶他……”（《金瓶梅词话》二五）｜谚曰：养性须行善，～莫吃斋。  
 [更多...](./q.md)
 ## R
 1. 【[<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/r.md#<sub>儿</sub>)】`r` <sup>[东台]</sup> 儿缀的口语音。（原文作“子”，音不合）：⼤红枣〜；⿊枣〜；草稿〜；小摊〜；茄〜｜你这把调〜，要考⼤学还需要好好努⼒。  

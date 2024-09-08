@@ -884,8 +884,7 @@
 1. 【[䇽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_zz.md#䇽子)】`zhih7 zz` <sup>[泰州]</sup> 将芦柴压扁剥开成片状，编织成宽50公分左右的长条席：今年子的稻丰收，家里的～都不够用唻。  
 1. 【[慑惧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_qy.md#慑惧)】`zhih7 qy6` <sup>[如东]</sup> 警畏，害怕。  
 1. 【[折](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih.md#折)】`zhih7` ① <sup>\[兴化\]</sup>（迷信）人享用过度或有亏心事，冥冥之中会减去福分、寿数：他寻这种黑心钱，早晚总有一～。<sup>\[兴化\]</sup> ② <sup>\[泰县\]</sup>折叠。  
-1. 【[折福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_foh.md#折福)】`zhih7 foh7` <sup>[东台]</sup> ① 因过分享受或不合情理地铺张浪费而减少福分。 ② 指责人不知足，生在福中不知福：那些端起碗来吃肉放下筷子骂娘的人真要～。  
-1. 【[折福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_foh.md#折福)】`zhih7 foh7` <sup>[泰州]</sup> 因过分享受或者妄受尊崇而减损福分：我俫是老百姓，吃这吖贵的东西，要～的。  
+1. 【[折福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_foh.md#折福)】`zhih7 foh7` ① <sup>\[东台\]</sup>因过分享受或不合情理地铺张浪费而减少福分。 ② <sup>\[东台\]</sup>指责人不知足，生在福中不知福：那些端起碗来吃肉放下筷子骂娘的人真要～。<sup>\[东台\]</sup> ③ <sup>\[泰州\]</sup>因过分享受或者妄受尊崇而减损福分：我俫是老百姓，吃这吖贵的东西，要～的。<sup>\[泰州\]</sup>  
 1. 【[折咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_ga.md#折咖)】`zhih7 ga` <sup>[如皋]</sup> ① 折损福气：你叫伢儿是“少爷”哿～伢儿啊？ ② 自谦之辞：绕你老人家的，真正～！  
 1. 【[折阳寿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_ian_sheu.md#折阳寿)】`zhih7 ian2 sheu6` <sup>[如皋]</sup> 使寿命缩短。  
 1. 【[折印子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_ien_zz.md#折印子)】`zhih7 ien5 zz` <sup>[如皋]</sup> 折痕。  
@@ -908,8 +907,7 @@
 1. 【[蜇人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_ren_zz.md#蜇人子)】`zhih7 ren zz` <sup>[如皋]</sup> 被腌的痛感。  
 1. 【[蜇人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_ren.md#蜇人)】`zhih7 ren2` <sup>[如东]</sup> 皮肤或粘膜因受碱性物质的刺激而发生微痛：海水倒啊伤口上有些～。  
 1. 【[占米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_mi.md#占米)】`zhin1 mi3` <sup>[兴化]</sup> 籼米。  
-1. 【[沾光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_guan.md#沾光)】`zhin1 guan1` <sup>[如东]</sup> 凭借别人或某种事物而得到好处。  
-1. 【[沾光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_guan.md#沾光)】`zhin1 guan1` <sup>[泰州]</sup> 依托他人或者借助参与某事而得到利益好处：今朝我俫有酒吃，是跟吖你后头～。  
+1. 【[沾光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_guan.md#沾光)】`zhin1 guan1` ① <sup>\[如东\]</sup>凭借别人或某种事物而得到好处。 ② <sup>\[泰州\]</sup>依托他人或者借助参与某事而得到利益好处：今朝我俫有酒吃，是跟吖你后头～。<sup>\[泰州\]</sup>  
 1. 【[沾咸味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_haen_vei.md#沾咸味)】`zhin1 haen2 vei6` ① <sup>\[如皋\]</sup>受牵连。 ② <sup>\[兴化\]</sup>指与案件或事件有牵连：老吴的儿子涉嫌贪污，他自己也～。<sup>\[兴化\]</sup>  
 1. 【[沾亲带故](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_qien_dae_gv.md#沾亲带故)】`zhin1 qien1 dae5 gv5` ① <sup>\[东台\]</sup>多少有些亲戚关系。 ② <sup>\[兴化\]</sup>指亲、朋、邻里等方面关系：她们大都沾点亲。即或不是～，一说起是无为哪里哪里的，很快就熟了。（汪曾祺《小芳》）‖也说“沾亲搭故”。<sup>\[兴化\]</sup>  
 1. 【[沾亲搭故](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_qien_daeh_gv.md#沾亲搭故)】`zhin1 qien1 daeh7 gv5` ① <sup>\[如皋\]</sup>细算下来是亲戚的亲戚（或朋友的朋友），但很远。 ② <sup>\[兴化\]</sup>沾亲带故。  

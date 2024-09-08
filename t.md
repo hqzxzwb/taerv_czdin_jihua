@@ -291,8 +291,7 @@
 1. 【[𨂞台](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_tae.md#𨂞台)】`taen5 tae2` <sup>[兴化]</sup> ① 丢面子：这位副市长第一次上台讲话，就弄几个白字，真的～。 ② 自寻台阶摆脱窘境：他闹啊几天没人睬他，只好～。  
 1. 【[𨂞动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_ton.md#𨂞动)】`taen5 ton` <sup>[兴化]</sup> 腹中始有饥饿感：今朝中饭吃得早，这刻儿肚子倒～吖。  
 1. 【[𨂞性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_xien.md#𨂞性)】`taen5 xien5` <sup>[泰县]</sup> 信心不足：这本书恐伯印不成，我俫倒～吖。  
-1. 【[但凡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_faen.md#但凡)】`taen6 faen2` <sup>[东台]</sup> 凡是；只要是：～有一线希望，也要努力争取。  
-1. 【[但凡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_faen.md#但凡)】`taen6 faen2` <sup>[泰州]</sup> 只要是：这两个人犯对，～是老王提的，他就反对。  
+1. 【[但凡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_faen.md#但凡)】`taen6 faen2` ① <sup>\[东台\]</sup>凡是；只要是：～有一线希望，也要努力争取。<sup>\[东台\]</sup> ② <sup>\[泰州\]</sup>只要是：这两个人犯对，～是老王提的，他就反对。<sup>\[泰州\]</sup>  
 1. 【[淡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen.md#淡)】`taen6` ① 味道淡 ② <sup>\[兴化\]</sup>印象逐渐淡漠，以至忘记：儿时的印象早已经～吖。<sup>\[兴化\]</sup>｜“……其时咱魂梦儿都是想他，几次寻死要活的闹，好容易过了一年半载才～下来了……”（《广陵潮》三四）<sup>\[兴化\]</sup>  
 1. 【[淡巴擸𢶍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_ba_laeh_saeh.md#淡巴擸𢶍)】`taen6 ba laeh8 saeh` <sup>[兴化]</sup> 指菜肴淡而无味：把菜烧得～的，有甚的吃头！‖也说“淡叽挖撒”。  
 1. 【[淡巴呀些](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_ba_ia_xia.md#淡巴呀些)】`taen6 ba1 ia1 xia1` <sup>[东台]</sup> 淡而无味。可以指菜肴，也可以指文章或话语。  
@@ -1006,18 +1005,15 @@
 1. 【[定](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien.md#定)】`tien6` <sup>[如皋]</sup> 针法。用针线粗略连或绗（使两块布品固定住）：补补丁要先～后敲。  
 1. 【[定邦定式的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_ban_tien_sheh_dii.md#定邦定式的)】`tien6 ban1 tien6 sheh7 dii` <sup>[如皋]</sup> 认真地，稳妥地。  
 1. 【[定不准](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_beh_zhuen.md#定不准)】`tien6 beh zhuen3` <sup>[如皋]</sup> 不敢认定、决定。  
-1. 【[定当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_dan.md#定当)】`tien6 dan5` <sup>[兴化]</sup> 妥当：我先去报到，等安排～再接你俫去。  
-1. 【[定当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_dan.md#定当)】`tien6 dan5` <sup>[泰州]</sup> 处理或者安排确定而又妥当：这桩事他忙吖几个月，还不曾忙吖～哎。  
+1. 【[定当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_dan.md#定当)】`tien6 dan5` ① <sup>\[兴化\]</sup>妥当：我先去报到，等安排～再接你俫去。<sup>\[兴化\]</sup> ② <sup>\[泰州\]</sup>处理或者安排确定而又妥当：这桩事他忙吖几个月，还不曾忙吖～哎。<sup>\[泰州\]</sup>  
 1. 【[定法不是法](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_faeh_beh_shr_faeh.md#定法不是法)】`tien6 faeh7 beh7 shr6 faeh7` <sup>[兴化]</sup> 指计划不能一成不变：现在～，要随情况变化调整计划。｜“……怎的个招佃，怎的个议租，此时～，你们再听老爷太太的吩咐……”（《儿女英雄传》三三）“定”也说“作”。  
 1. 【[定风旗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_fon_qi.md#定风旗)】`tien6 fon1 qi2` <sup>[如东]</sup> 安装在帆船桅杆顶端的旗帜。它能随着风向旋转观测风向风力。  
 1. 【[定风旗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_fon_qi_r.md#定风旗<sub>儿</sub>)】`tien6 fon1 qi2 r` <sup>[如皋]</sup> 桅顶小旗，可观风向。  
 1. 【[定光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_guan.md#定光)】`tien6 guan1` <sup>[兴化]</sup> ① 因酒醉而目光呆滞：（武松）把这五壶吃完了，眼睛都定了光……（《武松》一） ② 眼睛受突然刺激而失神：眼睛定光。  
 1. 【[定规](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_guei.md#定规)】`tien6 guei1` ① <sup>\[兴化\]</sup>预定金：租房谈成吖，先把～。<sup>\[兴化\]</sup> ② <sup>\[兴化\]</sup>一定的说法：“……几曾见中进士的都是饱学秀才？只要命好，有甚～……”（《西湖二集》四）<sup>\[兴化\]</sup> ③ <sup>\[如皋\]</sup>定金  
 1. 【[定慧寺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_huei_cz.md#定慧寺)】`tien6 huei6-guei1 cz6` <sup>[如皋]</sup> 隋大业十一年，天台宗智顗大师创建。原名“定惠寺”，清末慈禧太后题匾赐名“定慧寺”。原山门朝南，明代建城，迫使改向北。建筑特色：楼抱殿、水环寺、庙门朝北。  
-1. 【[定金](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_jien.md#定金)】`tien6 jien1` <sup>[如东]</sup> 抵押资金。  
-1. 【[定金](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_jien.md#定金)】`tien6 jien1` <sup>[泰州]</sup> 在商业活动中，双方谈妥之后，买方需预支付一定比例费用给卖方，称为“定金”。如买方返回，定金归卖方；若卖方返回，则需双倍返还给买方。  
-1. 【[定力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_lieh.md#定力)】`tien6 lieh8` <sup>[兴化]</sup> 有自我控制能力，遇事沉得住气：王连方要是有这样的～，何至于落到这步田地（毕飞宇《玉米》）  
-1. 【[定力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_lieh.md#定力)】`tien6 lieh8` <sup>[泰州]</sup> 在面对诱惑、突变时表现出的不受干扰、处变不慌的自我控制能力：做领导的人，没得点儿～还行。  
+1. 【[定金](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_jien.md#定金)】`tien6 jien1` ① <sup>\[如东\]</sup>抵押资金。 ② <sup>\[泰州\]</sup>在商业活动中，双方谈妥之后，买方需预支付一定比例费用给卖方，称为“定金”。如买方返回，定金归卖方；若卖方返回，则需双倍返还给买方。  
+1. 【[定力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_lieh.md#定力)】`tien6 lieh8` ① <sup>\[兴化\]</sup>有自我控制能力，遇事沉得住气：王连方要是有这样的～，何至于落到这步田地（毕飞宇《玉米》）<sup>\[兴化\]</sup> ② <sup>\[泰州\]</sup>在面对诱惑、突变时表现出的不受干扰、处变不慌的自我控制能力：做领导的人，没得点儿～还行。<sup>\[泰州\]</sup>  
 1. 【[定吖砣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_nga_tu.md#定吖砣)】`tien6 nga tu2` <sup>[东台]</sup> ［喻］没有多大发展空间：我看他考上大专就～，还想考重点大学？  
 1. 【[定盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_pun.md#定盘)】`tien6 pun2` <sup>[如皋]</sup> 交易谈定，定局。  
 1. 【[定盘星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_pun_xien.md#定盘星)】`tien6 pun2 xien1` <sup>[如皋]</sup> 起点的秤星，重量为0。  
@@ -1562,8 +1558,7 @@
 1. 【[稻籽<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_zz_r.md#稻籽<sub>儿</sub>)】`to6 zz3 r` <sup>[如皋]</sup> 稻粒。  
 1. 【[道场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_chan.md#道场)】`to6 chan2` <sup>[东台]</sup> 释、道做法事的场所，也指法事本身。  
 1. 【[道观](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_gun.md#道观)】`to6 gun5` <sup>[如东]</sup> 道土修行的地方。也称道士庙。  
-1. 【[道行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_hen.md#道行)】`to6 hen` <sup>[东台]</sup> 本指僧道修行的功夫，现泛指本领、修养：他的数学～深。  
-1. 【[道行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_hen.md#道行)】`to6 hen` <sup>[泰州]</sup> 在某个领域的能力、本领、涵养：他搞方言研究三年不到，能有多大～？｜他在单位蹾吖几十年，甚的事情不曾见过，～深吖去啊唻。  
+1. 【[道行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_hen.md#道行)】`to6 hen` ① <sup>\[东台\]</sup>本指僧道修行的功夫，现泛指本领、修养：他的数学～深。<sup>\[东台\]</sup> ② <sup>\[泰州\]</sup>在某个领域的能力、本领、涵养：他搞方言研究三年不到，能有多大～？<sup>\[泰州\]</sup>｜他在单位蹾吖几十年，甚的事情不曾见过，～深吖去啊唻。<sup>\[泰州\]</sup>  
 1. 【[道教](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_jio.md#道教)】`to6 jio5` <sup>[如东]</sup> 我国宗教之一，由东汉张道陵创立，到南北朝时盛行起来。创立时，人道者须出五斗米，所以又叫“五斗米道”。道教徒尊称张道陵为天师，因而又叫“天师道”。道教奉老子为教祖，尊称他为“太上老君”。  
 1. 【[道<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_r.md#道<sub>儿</sub>)】`to6 r` <sup>[如皋]</sup> 规矩：伢儿捱训吖上吖～。  
 1. 【[道士](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_shr.md#道士)】`to6 shr6` ① <sup>\[如东\]</sup>道教徒。 ② <sup>\[东台\]</sup>道教徒。  
@@ -1628,8 +1623,7 @@
 1. 【[独吞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_ten.md#独吞)】`toh8 ten1` ① <sup>\[如皋\]</sup>大家的财富被一人占有。 ② <sup>\[如东\]</sup>自己一人独占：这些东西你不能～。<sup>\[如东\]</sup>  
 1. 【[独独](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_toh.md#独独)】`toh8 toh8` ① <sup>\[如皋\]</sup>唯有、唯一。即唯独。 ② <sup>\[兴化\]</sup>偏偏：几万人中只有一个特等奖，～捱他得咖去啊。<sup>\[兴化\]</sup>  
 1. 【[独独的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_toh_dii.md#独独的)】`toh8 toh8 dii` <sup>[如皋]</sup> 见“独独”。  
-1. 【[独种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_zhon.md#独种)】`toh8 zhon3` <sup>[兴化]</sup> 独根苗，对独生子女的戏称。  
-1. 【[独种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_zhon.md#独种)】`toh8 zhon3` <sup>[泰州]</sup> 家族或者家庭之中只有一个孩子：他家三房就佮咖这吖一个～。  
+1. 【[独种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_zhon.md#独种)】`toh8 zhon3` ① <sup>\[兴化\]</sup>独根苗，对独生子女的戏称。 ② <sup>\[泰州\]</sup>家族或者家庭之中只有一个孩子：他家三房就佮咖这吖一个～。<sup>\[泰州\]</sup>  
 1. 【[独种<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_zhon_r.md#独种<sub>儿</sub>)】`toh8 zhon3 r` <sup>[如皋]</sup> ① 唯一的。 ② 独生子。  
 1. 【[讟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh.md#讟)】`toh8` <sup>[泰州]</sup> 怨恨：他把人家工作弄掉啊，这回子～结咖深吖唻。｜这两家不晓得为的甚的事，这个～就大得加思唻。  
 1. 【[读书不讲，如同隔靴搔痒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_shv_beh_jian_rv_ton_geh_xya_so_ian.md#读书不讲，如同隔靴搔痒)】`toh8 shv1 beh7 jian3 rv2 ton2 geh7 xya1 so1 ian3` <sup>[东台]</sup> 读书要讲透精神实质。  

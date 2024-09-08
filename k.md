@@ -67,8 +67,7 @@
 1. 【[开荒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_huan.md#开荒)】`kae1 huan1` <sup>[如东]</sup> 开垦荒地。  
 1. 【[开黄花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_huan_hua.md#开黄花)】`kae1 huan2 hua1` <sup>[如东]</sup> 棉花花蕾开花口  
 1. 【[开会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_huei.md#开会)】`kae1 huei6` <sup>[如东]</sup> 集中人员讨论研究问题。  
-1. 【[开荤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_huen.md#开荤)】`kae1 huen1` <sup>[东台]</sup> ① 佛教徒不再吃斋。 ② ［喻］打破某种禁忌。  
-1. 【[开荤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_huen.md#开荤)】`kae1 huen1` <sup>[泰州]</sup> ① 信奉宗教的人解除吃素戒律或者吃斋者已满吃斋期限开始吃肉。 ② 隐喻，指男女首次交媾：这小伙是个还不曾～的童男子，你俫嘴里不要瞎说。  
+1. 【[开荤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_huen.md#开荤)】`kae1 huen1` ① <sup>\[东台\]</sup>佛教徒不再吃斋。 ② <sup>\[东台\]</sup>［喻］打破某种禁忌。 ③ <sup>\[泰州\]</sup>信奉宗教的人解除吃素戒律或者吃斋者已满吃斋期限开始吃肉。 ④ <sup>\[泰州\]</sup>隐喻，指男女首次交媾：这小伙是个还不曾～的童男子，你俫嘴里不要瞎说。<sup>\[泰州\]</sup>  
 1. 【[开秧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_ian.md#开秧)】`kae1 ian1` <sup>[如东]</sup> 种植水稻。  
 1. 【[开秧门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_ian_men.md#开秧门)】`kae1 ian1 men2` ① <sup>\[东台\]</sup>小秧长成后往大田移栽的第一天起秧，先由一老人在秧池上开个口子，同时举行祭祀仪式，祝愿当年丰收。 ② <sup>\[兴化\]</sup>开始插秧：今吖～，请帮忙的人吃圆子。<sup>\[兴化\]</sup>  
 1. 【[开洋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_ian.md#开洋)】`kae1 ian2` <sup>[兴化]</sup> 一种虾米的品种，个大味鲜。  
@@ -168,15 +167,13 @@
 1. 【[隑背椅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_bei_i.md#隑背椅)】`kae5 bei5 i3` <sup>[东台]</sup> 靠背比较高的椅子。  
 1. 【[隑大水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_da_shuei.md#隑大水)】`kae5 da6 shuei3` <sup>[如东]</sup> 跟着大家跑：他是～，自己拿不出主意。  
 1. 【[隑觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_go.md#隑觉)】`kae5 go5` <sup>[兴化]</sup> 小憩：他躺吖藤椅上～。  
-1. 【[隑奸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_jiaen.md#隑奸)】`kae5 jiaen1` <sup>[东台]</sup> 偷懒、奸坏：他到哪许都忠实积极，从不～。  
-1. 【[隑奸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_jiaen.md#隑奸)】`kae5 jiaen1` <sup>[泰州]</sup> 在干活时找借口少干、不干活儿或者出工不出力而消磨、荒废时间：老一辈的人都是规矩人，做到活技从来不会～。  
+1. 【[隑奸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_jiaen.md#隑奸)】`kae5 jiaen1` ① <sup>\[东台\]</sup>偷懒、奸坏：他到哪许都忠实积极，从不～。<sup>\[东台\]</sup> ② <sup>\[泰州\]</sup>在干活时找借口少干、不干活儿或者出工不出力而消磨、荒废时间：老一辈的人都是规矩人，做到活技从来不会～。<sup>\[泰州\]</sup>  
 1. 【[隑脚力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_jiah_lieh.md#隑脚力)】`kae5 jiah7 lieh8` <sup>[如东]</sup> 依仗某种势力：你不要～。  
 1. 【[隑懒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_laen.md#隑懒)】`kae5 laen3` <sup>[兴化]</sup> 偷懒：他一大到晚的～。  
 1. 【[隑牌头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_pae_teu.md#隑牌头)】`kae5 pae2 teu2` <sup>[泰县]</sup> 依仗别人的势力。  
 1. 【[隑山梁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_shaen_lian.md#隑山梁)】`kae5 shaen1 lian2` <sup>[如东]</sup> 依靠在房屋两边山墙上的梁，叫隑山梁。  
 1. 【[隑势力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_shr_lieh.md#隑势力)】`kae5 shr5 lieh8` <sup>[如东]</sup> 依仗别人的权势。  
-1. 【[隑死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_sz.md#隑死)】`kae5 sz3` <sup>[兴化]</sup> 形容作风拖拉：他吃吃玩玩一头的神，逢到做事就～。  
-1. 【[隑死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_sz.md#隑死)】`kae5 sz3` <sup>[泰州]</sup> 詈词。骂人找借口少干、不干活儿而消磨、荒废时间：你就～吧，这点儿活技弄吖三天都不曾弄得好。｜你俫不要～，队长说过啊唻，田里的把不挑掉不收工。  
+1. 【[隑死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_sz.md#隑死)】`kae5 sz3` ① <sup>\[兴化\]</sup>形容作风拖拉：他吃吃玩玩一头的神，逢到做事就～。<sup>\[兴化\]</sup> ② <sup>\[泰州\]</sup>詈词。骂人找借口少干、不干活儿而消磨、荒废时间：你就～吧，这点儿活技弄吖三天都不曾弄得好。<sup>\[泰州\]</sup>｜你俫不要～，队长说过啊唻，田里的把不挑掉不收工。<sup>\[泰州\]</sup>  
 1. 【[隑掉刻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_tio_keh_r.md#隑掉刻<sub>儿</sub>)】`kae5 tio keh r` <sup>[东台]</sup> 躺一会儿：中午最好心。  
 1. 【[隑中隑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_zhon_kae.md#隑中隑)】`kae5 zhon kae5` <sup>[兴化]</sup> 互相依赖，拖延时间：遇到吃苦的事情，大家～，没得人肯向前。  
 1. 【[掐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh.md#掐)】`kaeh7` ① <sup>\[如东\]</sup>用手指揪捏：～手膀子。<sup>\[如东\]</sup> ② <sup>\[如东\]</sup>将物体切断：～葱。<sup>\[如东\]</sup> ③ <sup>\[泰州\]</sup>用指甲刺或者按：在腿子上～一把。<sup>\[泰州\]</sup> ④ <sup>\[泰州\]</sup>用指甲切断植物的茎叶：～几根大蒜过来。<sup>\[泰州\]</sup>  
@@ -234,8 +231,7 @@
 1. 【[壳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_r.md#壳<sub>儿</sub>)】`kah7 r` <sup>[如东]</sup> ① 甲壳动物的外甲，如蟹壳、虾壳、螺壳等。 ② 人的躯体的外表：他的年龄虽大，～还蛮好。  
 1. 【[壳树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_shv.md#壳树)】`kah7 shv6` <sup>\[如皋\]\[兴化\]\[泰州\]</sup>楮树、构树。\[泰州：落叶乔木，树皮可为造纸原料。\]  
 1. 【[壳铎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_tah.md#壳铎)】`kah7 tah` <sup>[兴化]</sup> 象声词：折枝或重物落地声｜（他）正在凝神，只听～一声，觉得腿裆里一软，身子一摇，竟滚下山涧去了。（《老残游记》八）  
-1. 【[壳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_zz.md#壳子)】`kah7 zz` <sup>[兴化]</sup> ① 封套：信～｜香烟～。 ② 骂人的话：细～｜焦～｜大烟～。  
-1. 【[壳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_zz.md#壳子)】`kah7 zz` <sup>[泰州]</sup> ① 某些动物包裹身体的外壳：螺蛳～｜乌龟～｜龙虾～。 ② 将物品完全包裹起来的东西：信～｜香烟～｜洋火～。  
+1. 【[壳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_zz.md#壳子)】`kah7 zz` ① <sup>\[兴化\]</sup>封套：信～<sup>\[兴化\]</sup>｜香烟～。<sup>\[兴化\]</sup> ② <sup>\[兴化\]</sup>骂人的话：细～<sup>\[兴化\]</sup>｜焦～<sup>\[兴化\]</sup>｜大烟～。<sup>\[兴化\]</sup> ③ <sup>\[泰州\]</sup>某些动物包裹身体的外壳：螺蛳～<sup>\[泰州\]</sup>｜乌龟～<sup>\[泰州\]</sup>｜龙虾～。<sup>\[泰州\]</sup> ④ <sup>\[泰州\]</sup>将物品完全包裹起来的东西：信～<sup>\[泰州\]</sup>｜香烟～<sup>\[泰州\]</sup>｜洋火～。<sup>\[泰州\]</sup>  
 1. 【[搉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah.md#搉)】`kah7` ① <sup>\[如东\]</sup>敲击：你用榔头～。<sup>\[如东\]</sup> ② <sup>\[如皋\]</sup>敲、打：拿锤儿～核桃<sup>\[如皋\]</sup>｜犯犟我～你！<sup>\[如皋\]</sup> ③ <sup>\[东台\]</sup>砸，敲击：敲敲～～<sup>\[东台\]</sup>｜淘米后要把米～干净。<sup>\[东台\]</sup> ④ <sup>\[兴化\]</sup>敲、击打：～鸡蛋；～匾子<sup>\[兴化\]</sup>｜调皮就～他一家伙<sup>\[兴化\]</sup> ⑤ <sup>\[兴化\]</sup>枪毙的隐语：今朝～掉一个杀人犯<sup>\[兴化\]</sup> ⑥ <sup>\[兴化\]</sup>舂碓：到碓上～稻<sup>\[兴化\]</sup>｜～圆子粉（糯米粉）<sup>\[兴化\]</sup> ⑦ <sup>\[泰县\]</sup>打：～他的手。<sup>\[泰县\]</sup> ⑧ <sup>\[泰州\]</sup>敲击：～核桃。<sup>\[泰州\]</sup>｜把淘箩里头的米～～干净。<sup>\[泰州\]</sup> ⑨ <sup>\[泰州\]</sup>击打，殴打：再不老实就～他的皮。<sup>\[泰州\]</sup> ⑩ <sup>\[泰州\]</sup>引申指枪毙：杀人犯捱～掉啊。<sup>\[泰州\]</sup>  
 1. 【[搉糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_go.md#搉糕)】`kah7 go1` <sup>[泰县]</sup> 蒸糕。  
 1. 【[搉锅底<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_gu_di_r.md#搉锅底<sub>儿</sub>)】`kah7 gu1 di3 r` <sup>[如东]</sup> 一种民俗。假如某人说某人的婆娘与人通奸，某人的婆娘就到某人家去用砖头砸锅底儿，打破煮饭的家伙，表示反对和愤恨：你不要乱说，当心有人～。  
@@ -291,11 +287,9 @@
 1. 【[客边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_bin.md#客边)】`keh7 bin1` ① <sup>\[如皋\]</sup>客方，客人，客人的身份、地位：他是～，大家要尊重他。<sup>\[如皋\]</sup> ② <sup>\[兴化\]</sup>身在外地或在别人家，处于为客地位：他是～人，不好多话。<sup>\[兴化\]</sup>｜“虽说是舅母家如同自己家一样，到底是～……”（《红楼梦》二六）<sup>\[兴化\]</sup>  
 1. 【[客边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_bin.md#客边)】`keh7 bin1` <sup>[泰州]</sup> 旅居他乡或做客他人家庭：你难得去一回是～，他当然同你客气唻。  
 1. 【[客边人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_bin_ren.md#客边人)】`keh7 bin1 ren2` <sup>[如皋]</sup> 外人、外地人。  
-1. 【[客栈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_chaen.md#客栈)】`keh7 chaen6` <sup>[如东]</sup> 住人和存放货物的店铺。  
-1. 【[客栈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_chaen.md#客栈)】`keh7 chaen6` <sup>[泰州]</sup> 旧时设施简陋的旅馆，有的兼供客商堆货并且待办货运，今日指规模比较小的简易旅馆。  
+1. 【[客栈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_chaen.md#客栈)】`keh7 chaen6` ① <sup>\[如东\]</sup>住人和存放货物的店铺。 ② <sup>\[泰州\]</sup>旧时设施简陋的旅馆，有的兼供客商堆货并且待办货运，今日指规模比较小的简易旅馆。  
 1. 【[客家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_jia.md#客家)】`keh7 jia` <sup>[兴化]</sup> 对主家而言，指顾客或投行的客商：“……不管怎样……不能让～吃咸菜过年啊！”（《郑板桥传说·大年初一卖扇子》）  
-1. 【[客家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_jia.md#客家)】`keh7 jia1` <sup>[如皋]</sup> 见“客边”。  
-1. 【[客家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_jia.md#客家)】`keh7 jia1` <sup>[泰州]</sup> 商家顾客：店里来啊几个老～，你快点儿去招呼啊子。  
+1. 【[客家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_jia.md#客家)】`keh7 jia1` ① <sup>\[如皋\]</sup>见“客边”。 ② <sup>\[泰州\]</sup>商家顾客：店里来啊几个老～，你快点儿去招呼啊子。<sup>\[泰州\]</sup>  
 1. 【[客居<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_jy_r.md#客居<sub>儿</sub>)】`keh7 jy1 r` <sup>[兴化]</sup> 较小的偏屋。因常供来客暂住，故名。  
 1. 【[客来扫地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_lae_so_ti.md#客来扫地)】`keh7 lae2 so3 ti6` <sup>[东台]</sup> 指招待客人准备不充分，另一意即为虚情假意。  
 1. 【[客流](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_lieu.md#客流)】`keh7 lieu2` <sup>[如东]</sup> 一百斤左右的生猪，称客流。也称客郎。  
@@ -306,8 +300,7 @@
 1. 【[客随主便](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_qy_zhv_pin.md#客随主便)】`keh7 qy2 zhv3 pin6` <sup>[东台]</sup> 客人服从主人安排。  
 1. 【[客散主人安](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_saen_zhv_ren_un.md#客散主人安)】`keh7 saen5 zhv3 ren2 un1` <sup>[东台]</sup> 客人走了主人才能安下心来收拾整理，忙别的事。  
 1. 【[客师](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_shr.md#客师)】`keh7 shr1` ① <sup>\[如皋\]</sup>见“客边”。 ② <sup>\[东台\]</sup>从外面请来帮助工作的行家里手或关键人物。 ③ <sup>\[兴化\]</sup>僧尼做佛事因人手不够，邀其他庙庵僧尼加入，俗谓“请～。” ④ <sup>\[兴化\]</sup>（借）临时帮忙的人：实在忙不过来，只好请～。<sup>\[兴化\]</sup>  
-1. 【[客水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_shuei.md#客水)】`keh7 shuei3` <sup>[兴化]</sup> 从上游或周边地区流来的水：大雨不停地下着，天雨加～，外坝的外河水位猛涨三尺。（马春阳《城里来的年轻人》）  
-1. 【[客水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_shuei.md#客水)】`keh7 shuei3` <sup>[泰州]</sup> 非本地域河流上游流过来的水：1991年发大水，兴化的～都淌吖泰州来啊。  
+1. 【[客水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_shuei.md#客水)】`keh7 shuei3` ① <sup>\[兴化\]</sup>从上游或周边地区流来的水：大雨不停地下着，天雨加～，外坝的外河水位猛涨三尺。（马春阳《城里来的年轻人》）<sup>\[兴化\]</sup> ② <sup>\[泰州\]</sup>非本地域河流上游流过来的水：1991年发大水，兴化的～都淌吖泰州来啊。<sup>\[泰州\]</sup>  
 1. 【[客堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_tan.md#客堂)】`keh7 tan2` <sup>[如东]</sup> 客厅。平房一般叫做明间。  
 1. 【[客厅里挂驴皮——啥（傻）画（话）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_tien_lii_gua_ly_pi_sha_hua.md#客厅里挂驴皮——啥（傻）画（话）)】`keh7 tien1 lii gua5 ly2 pi2 sha2 （sha3） hua6` <sup>[东台]</sup>   
 1. 【[客尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_vei.md#客尾)】`keh7 vei3` <sup>[东台]</sup> 客厅旁边的一小间房。  
@@ -658,8 +651,7 @@
 1. 【[侉侉驴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_kua_ly_r.md#侉侉驴<sub>儿</sub>)】`kua3 kua3 ly2 r` <sup>[兴化]</sup> 雄蚱蜢。  
 1. 【[侉里侉气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_li_kua_qi.md#侉里侉气)】`kua3 li3 kua3 qi5` <sup>[东台]</sup> ① 办事毛糙，不细巧。 ② 操外地口音。  
 1. 【[侉䗜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_lieu_r.md#侉䗜<sub>儿</sub>)】`kua3 lieu r` <sup>[如皋]</sup> 蝈蝈儿，一名叫哥哥。  
-1. 【[侉搝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_qieu.md#侉搝)】`kua3 qieu3` <sup>[兴化]</sup> 乱来：大冷天他拿凉水同伢儿洗澡，真是～。  
-1. 【[侉搝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_qieu.md#侉搝)】`kua3 qieu3` <sup>[泰州]</sup> 不精细地做某事：像你这格局～，不把东西弄吖坏啊才怪唻。｜这几个伢儿，他就这吖～，倒也没得一个人害病的。  
+1. 【[侉搝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_qieu.md#侉搝)】`kua3 qieu3` ① <sup>\[兴化\]</sup>乱来：大冷天他拿凉水同伢儿洗澡，真是～。<sup>\[兴化\]</sup> ② <sup>\[泰州\]</sup>不精细地做某事：像你这格局～，不把东西弄吖坏啊才怪唻。<sup>\[泰州\]</sup>｜这几个伢儿，他就这吖～，倒也没得一个人害病的。<sup>\[泰州\]</sup>  
 1. 【[侉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_zz.md#侉子)】`kua3 zz` ① 贬称山东河南等地来的人 ② <sup>\[如东\]</sup>说北方语言的人。有时专指山东人。 ③ <sup>\[东台\]</sup>一般指操北方口音的人。 ④ <sup>\[兴化\]</sup>旧称北方人：这个大汉是鲁国人，也就是现在山东一带的人……人都喊他王～。（扬二《吹箫过市》）<sup>\[兴化\]</sup>  
 1. 【[侉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_zz.md#侉子)】`kua3 zz` <sup>[泰州]</sup> 以山东人为代表的北方人，以其身材高大，故名。  
 1. 【[胯塴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_bon.md#胯塴)】`kua5 bon5` ① <sup>\[如东\]</sup>人的两腿之间，称胯塴。 ② <sup>\[如皋\]</sup>胯下。  
@@ -667,8 +659,7 @@
 1. 【[胯窿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_lon.md#胯窿)】`kua5 lon` <sup>[如东]</sup> 胯塴。  
 1. 【[胯生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_shen.md#胯生)】`kua5 shen1` <sup>[如东]</sup> 自己生养的子女：家里还有三个～。  
 1. 【[跨轴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_choh.md#跨轴)】`kua5 choh8` ① <sup>\[如皋\]</sup>与辋子匹配的起传动作用的长轴。牛牵引辋子时每一圈都从此轴上的盖板走过。故名。 ② <sup>\[如皋\]</sup>见“水轴”。  
-1. 【[跨火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_hu.md#跨火)】`kua5 hu3` <sup>[如东]</sup> 民间风俗。人死后，在院场前边放一堆草烧火，送殡后，子女亲属从上面跨过去，表示消灾。  
-1. 【[跨火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_hu.md#跨火)】`kua5 hu3` <sup>[泰州]</sup> 民俗，出殡当日，死者下葬以后，送葬的人归家，进门之前，点燃一捆稻草，跨过火堆方可进门。坊间以为火堆两边象征阴阳两界，跨过火堆就算重新进入阳间。今日通行火葬，死者火化以后，送葬的人仍有跨火仪式。  
+1. 【[跨火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_hu.md#跨火)】`kua5 hu3` ① <sup>\[如东\]</sup>民间风俗。人死后，在院场前边放一堆草烧火，送殡后，子女亲属从上面跨过去，表示消灾。 ② <sup>\[泰州\]</sup>民俗，出殡当日，死者下葬以后，送葬的人归家，进门之前，点燃一捆稻草，跨过火堆方可进门。坊间以为火堆两边象征阴阳两界，跨过火堆就算重新进入阳间。今日通行火葬，死者火化以后，送葬的人仍有跨火仪式。  
 1. 【[跨火把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_hu_ba.md#跨火把)】`kua5 hu3 ba3` <sup>[东台]</sup> 东台民俗，送葬回家，凡参加送葬的人员必须跨火把进门。  
 1. 【[跨月阴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_iuh_ien.md#跨月阴)】`kua5 iuh8 ien1` <sup>[如皋]</sup> 阴雨天从上月绵延到这个月。  
 1. 【[跨门槛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_men_kaen.md#跨门槛)】`kua5 men2 kaen3` ① <sup>\[如东\]</sup>寡妇改嫁，叫做跨门槛。 ② <sup>\[兴化\]</sup>旧谓寡妇改嫁：“……而只因妈妈另～单顾自己快活，为名图利，太不值得！”（马春阳《父女双婚事》）<sup>\[兴化\]</sup> ③ <sup>\[泰县\]</sup>寡妇改嫁：丈夫死啊不到一年她就～。  
@@ -750,8 +741,7 @@
 1. 【[环头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen_teu.md#环头)】`kuaen2 teu2` ① <sup>\[如皋\]</sup>状缠绕不清：这笔账有些～，要理理分清。 ② <sup>\[兴化\]</sup>指账目等交叉、重复：你细想下子，这里头有两笔账～的！  
 1. 【[环腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen_tuei.md#环腿)】`kuaen2 tuei3` <sup>[兴化]</sup> ① 使腿弯曲：把腿环起来，让人走路。 ② 多人挤在一张床上睡觉：外头不早啊，你就在我床上环环腿吧！  
 1. 【[掼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen.md#掼)】`kuaen6` ① 摔；扔 ② <sup>\[如东\]</sup>扔，撂：把死猫儿～掉。<sup>\[如东\]</sup> ③ <sup>\[如皋\]</sup>掷：～手榴弹。 ④ <sup>\[如皋\]</sup>丢下：他来啊气把事情～下来家去啊。 ⑤ <sup>\[如皋\]</sup>旧式脱粒：～麦、～稻。 ⑥ <sup>\[东台\]</sup>撂；扔；失去。 ⑦ <sup>\[兴化\]</sup>扔：他手举砖块向前方～去。｜（那老妈子）也是吓了一个坐蹬，烛台～在一旁。（《八窍珠》二七） ⑧ <sup>\[兴化\]</sup>摔倒、使摔倒：他把手一抬，“咚”的一声就把对方～吖一个跟头。｜（田焕）刚刚将身子抬起，又早“扑通”一声～倒在青草地上，只是哼唤。（《广陵潮》二一） ⑨ <sup>\[兴化\]</sup>丢下、耽搁。谚曰：不怕慢，只怕～。 ⑩ <sup>\[泰州\]</sup>举起物体使劲下砸：隔壁两口子吵事～茶瓶。<sup>\[泰州\]</sup> ⑪ <sup>\[泰州\]</sup>向人炫耀自己能力强，钱财多：你不要听他～，他工资没得这吖高。<sup>\[泰州\]</sup>｜他就喜欢在人家跟前～他的本事大。<sup>\[泰州\]</sup>  
-1. 【[掼把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen_ba.md#掼把)】`kuaen6 ba3` <sup>[兴化]</sup> 一种稻麦脱粒方法：高举谷把将穗头摔向碌碡等坚硬的物体，使谷粒落下。也称“摵把”。  
-1. 【[掼把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen_ba.md#掼把)】`kuaen6 ba3` <sup>[泰州]</sup> 在脱粒机械出现前，一种常见的稻、麦脱粒办法，双手高举稻把或者麦把根部，将有穗的头部使劲对着石头或者其他坚硬物体之上猛砸，而使稻粒或者麦粒与草分离。  
+1. 【[掼把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen_ba.md#掼把)】`kuaen6 ba3` ① <sup>\[兴化\]</sup>一种稻麦脱粒方法：高举谷把将穗头摔向碌碡等坚硬的物体，使谷粒落下。也称“摵把”。 ② <sup>\[泰州\]</sup>在脱粒机械出现前，一种常见的稻、麦脱粒办法，双手高举稻把或者麦把根部，将有穗的头部使劲对着石头或者其他坚硬物体之上猛砸，而使稻粒或者麦粒与草分离。  
 1. 【[掼床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen_chuan.md#掼床)】`kuaen6 chuan2` ① <sup>\[如东\]</sup>农具。木制，长方形，四只脚，面排竹片或木条。用以脱谷。 ② <sup>\[如皋\]</sup>旧式手工脱粒农具，形似矮方桌，桌面隆起，装有整排的竹竿。  
 1. 【[掼担子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen_daen_zz.md#掼担子)】`kuaen6 daen5 zz` <sup>[兴化]</sup> （喻）丢下工作和应负的责任：老林受到批评，一气之下就～，出去养病吖。  
 1. 【[掼风汛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen_fon_xien.md#掼风汛)】`kuaen6 fon1 xien5` <sup>[兴化]</sup> ① 见“调风汛”。 ② 进入深秋以后，因寒潮入侵引起的大风、降温天气。也称“撂风汛”。  
@@ -761,8 +751,7 @@
 1. 【[掼跤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen_go.md#掼跤)】`kuaen6 go1` <sup>[如东]</sup> 摔跤。  
 1. 【[掼锅摵盏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen_gu_seh_zhaen.md#掼锅摵盏)】`kuaen6 gu1 seh7 zhaen3` <sup>[兴化]</sup> 形容人生气时的情态：她讨厌小良，见他一来就～的。  
 1. 【[掼话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen_hua.md#掼话)】`kuaen6 hua6` <sup>[兴化]</sup> 随嘴一说，并不十分留意的话：他说的～，你覅当真的。  
-1. 【[掼脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen_lin.md#掼脸)】`kuaen6 lin3` <sup>[兴化]</sup> 阴沉着脸：他不高兴就～，也不管别人的感受。  
-1. 【[掼脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen_lin.md#掼脸)】`kuaen6 lin3` <sup>[泰州]</sup> 突然将脸变得阴沉：你不肯帮忙就拉倒，不要同人～。  
+1. 【[掼脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen_lin.md#掼脸)】`kuaen6 lin3` ① <sup>\[兴化\]</sup>阴沉着脸：他不高兴就～，也不管别人的感受。 ② <sup>\[泰州\]</sup>突然将脸变得阴沉：你不肯帮忙就拉倒，不要同人～。<sup>\[泰州\]</sup>  
 1. 【[掼炮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen_po.md#掼炮)】`kuaen6 po5` ① <sup>\[兴化\]\[如东\]\[泰县\]</sup>一种摔落地面即炸响的小鞭炮：摵～。<sup>\[兴化\]</sup> ② 纸折的玩具，响炮。 ③ 砸纸片，一种儿童游戏。用纸折成方形，用力摔向地面会发出声响，有各种玩法。一般是砸向对方的纸片，把对方纸片打翻过来则赢为己有。  
 1. 【[掼手穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen_sheu_qion.md#掼手穷)】`kuaen6 sheu3 qion2` <sup>[东台]</sup> （詈语）批评某人大手大脚，不讲精打细算，浪费太多。  
 1. 【[掼头掼脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen_teu_kuaen_no.md#掼头掼脑)】`kuaen6 teu2 kuaen6 no3` ① <sup>\[兴化\]</sup>形容人打瞌睡时的情态：他打啊一夜的麻将，白天上班～的。 ② <sup>\[兴化\]</sup>形容人没精打采的样子：病得～的｜瘦得～的。 ③ <sup>\[泰县\]</sup>不神气。  
@@ -798,8 +787,7 @@
 1. 【[诓骗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan_pin.md#诓骗)】`kuan1 pin5` <sup>[东台]</sup> 瞒哄、欺骗。  
 1. 【[狂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan.md#狂)】`kuan2` <sup>[如皋]</sup> 见“疯”。指小孩贪玩无节制。  
 1. 【[狂风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan_fon.md#狂风)】`kuan2 fon1` <sup>[东台]</sup> 猛烈的风。  
-1. 【[狂话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan_hua.md#狂话)】`kuan2 hua6` <sup>[兴化]</sup> 狂妄、不知轻重的话：“……不是说句～，我们做出来的事，他敢道一个‘不’字……”（《官场现形记》五二）  
-1. 【[狂话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan_hua.md#狂话)】`kuan2 hua6` <sup>[泰州]</sup> 狂妄、不知深浅的话：说句～，他这两个工资根本不在乎。  
+1. 【[狂话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan_hua.md#狂话)】`kuan2 hua6` ① <sup>\[兴化\]</sup>狂妄、不知轻重的话：“……不是说句～，我们做出来的事，他敢道一个‘不’字……”（《官场现形记》五二）<sup>\[兴化\]</sup> ② <sup>\[泰州\]</sup>狂妄、不知深浅的话：说句～，他这两个工资根本不在乎。<sup>\[泰州\]</sup>  
 1. 【[狂言](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan_in.md#狂言)】`kuan2 in2` <sup>[东台]</sup> ① 狂妄的话：口出～。 ② 胡说。  
 1. 【[狂嫖滥赌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan_pio_laen_dv.md#狂嫖滥赌)】`kuan2 pio2 laen6 dv3` <sup>[东台]</sup> 沉溺于嫖妓赌博：～的人绝不会有好下场。  
 1. 【[狂生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan_shen.md#狂生)】`kuan2 shen1` <sup>[东台]</sup> 无知妄为的人。  
@@ -919,8 +907,7 @@
 1. 【[阔敞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh_chan.md#阔敞)】`kuh7 chan3` <sup>[泰州]</sup> 奢侈而不注意：一件衣裳就花掉5000多块钱，你嫌～唻。｜他这个省吖没得命的人，请你吃个排挡就算是～唻。  
 1. 【[阔佬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh_lo.md#阔佬)】`kuh7 lo3` <sup>[东台]</sup> 指有钱有势的人。  
 1. 【[阔派](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh_pae.md#阔派)】`kuh7 pae5` <sup>[兴化]</sup> 大手大脚，讲究排场。  
-1. 【[阔式](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh_sheh.md#阔式)】`kuh7 sheh` <sup>[兴化]</sup> 大手大脚，讲究排场：他～吤，不是名牌的东西看也不看一眼！‖也说“阔派”。  
-1. 【[阔式](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh_sheh.md#阔式)】`kuh7 sheh` <sup>[泰州]</sup> 有钱人的派头：他在外头～得很，身上穿的全是名牌。  
+1. 【[阔式](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh_sheh.md#阔式)】`kuh7 sheh` ① <sup>\[兴化\]</sup>大手大脚，讲究排场：他～吤，不是名牌的东西看也不看一眼！‖也说“阔派”。<sup>\[兴化\]</sup> ② <sup>\[泰州\]</sup>有钱人的派头：他在外头～得很，身上穿的全是名牌。<sup>\[泰州\]</sup>  
 1. 【[阔少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh_sho.md#阔少)】`kuh7 sho5` <sup>[东台]</sup> 旧时对有钱有势的富二代的称呼，也称阔少爷。  
 1. 【[阔哉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh_zae.md#阔哉)】`kuh7 zae` <sup>[如皋]</sup> 贬指摆阔气、大手大脚地用钱：他就会玩～，不懂节约。  
 1. 【[盇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh.md#盇)】`kuh8` ① <sup>\[如皋\]</sup>覆盖、笼罩：云头～下来呀；拿～罩儿～碗。<sup>\[如皋\]</sup> ② <sup>\[如皋\]</sup>上部凸出：墙头要～下来。<sup>\[如皋\]</sup> ③ <sup>\[泰县\]</sup>压、看住：他老是～伢儿。<sup>\[泰县\]</sup> ④ <sup>\[泰县\]</sup>遮盖：帽子～下来啊啦。<sup>\[泰县\]</sup> ⑤ <sup>\[泰州\]</sup>（泰州词典作𥊉） ⑥ <sup>\[泰州\]</sup>双眼发涩，困倦欲睡：两个眼睛～～的要睡觉。<sup>\[泰州\]</sup> ⑦ <sup>\[泰州\]</sup>人跌倒后头部与物体相撞相碰：他走脚踏车上掼下来，～咖在路牙上，弄得一脸的血。<sup>\[泰州\]</sup> ⑧ <sup>\[泰州\]</sup>压在人、物之上：我把腌好的咸菜摆啊在缸里，你去弄快石头来～咖上头。<sup>\[泰州\]</sup> ⑨ <sup>\[泰州\]</sup>上级、长辈或者成就搞着压制下级、晚辈、成就低的：她在家里凶不起来，她家婆婆在上头～住她唻。<sup>\[泰州\]</sup>｜他在班上不曾考过第一，有个伢儿成绩比他好，一直～住他。<sup>\[泰州\]</sup> ⑩ <sup>\[泰州\]</sup>戴帽子戴巾时，使巾边、帽边下垂遮盖住人脸上部：这个鸭舌帽你嫌大，～咖头上像个特务。<sup>\[泰州\]</sup>  
@@ -932,17 +919,14 @@
 1. 【[宽衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_i.md#宽衣)】`kun1 i1` <sup>[东台]</sup> 主人请来客脱去外衣的客套话。  
 1. 【[宽雍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_ion.md#宽雍)】`kun1 ion` <sup>[兴化]</sup> ① 形容居所宽散：房子～。 ② 手有余资：他家日子过得蛮～的。  
 1. 【[宽快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_kuae.md#宽快)】`kun1 kuae5` <sup>[兴化]</sup> ① 心情舒畅：而今日子过得蛮～的。 ② 宽散：“……我住的这点去处子连腚也掉不过来……又不是外头～去处……”（《醒世烟缘传》四三）  
-1. 【[宽汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_tan.md#宽汤)】`kun1 tan1` <sup>[兴化]</sup> 即煮面条的开水放得多，面熟了软硬适口：～面｜在锅里～饱养（多煮一会儿）。  
-1. 【[宽汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_tan.md#宽汤)】`kun1 tan1` <sup>[泰州]</sup> ① 烹煮食物之时添加较多的水：煨鸡子要～，你把锅里再加点儿水。 ② 吃面条时，作料碗中添加较多的面汤：你在碗里多放点儿汤，他吃面欢喜～。  
+1. 【[宽汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_tan.md#宽汤)】`kun1 tan1` ① <sup>\[兴化\]</sup>即煮面条的开水放得多，面熟了软硬适口：～面｜在锅里～饱养（多煮一会儿）。 ② <sup>\[泰州\]</sup>烹煮食物之时添加较多的水：煨鸡子要～，你把锅里再加点儿水。<sup>\[泰州\]</sup> ③ <sup>\[泰州\]</sup>吃面条时，作料碗中添加较多的面汤：你在碗里多放点儿汤，他吃面欢喜～。<sup>\[泰州\]</sup>  
 1. 【[宽头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_teu.md#宽头)】`kun1 teu` <sup>[兴化]</sup> 指物体的阔度：窗帘布～大。  
 1. 【[看](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun.md#看)】`kun1` ① <sup>\[如东\]</sup>守：～住他，不能让他跑啊。<sup>\[如东\]</sup> ② <sup>\[东台\]</sup>守护，照料：～门。<sup>\[东台\]</sup> ③ <sup>\[东台\]</sup>监视：～罪犯。<sup>\[东台\]</sup> ④ <sup>\[泰县\]</sup>看守。  
-1. 【[看场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_chan.md#看场)】`kun1 chan2` <sup>[兴化]</sup> 夏、秋收获期间，各农户轮流在打谷场巡更、上宿，以防火、防盗。  
-1. 【[看场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_chan.md#看场)】`kun1 chan2` <sup>[泰州]</sup> 农村夏秋收割期间，麦稻堆放在打谷场，各家农户青壮年轮流上场巡更、住宿，防雨防盗。  
+1. 【[看场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_chan.md#看场)】`kun1 chan2` ① <sup>\[兴化\]</sup>夏、秋收获期间，各农户轮流在打谷场巡更、上宿，以防火、防盗。 ② <sup>\[泰州\]</sup>农村夏秋收割期间，麦稻堆放在打谷场，各家农户青壮年轮流上场巡更、住宿，防雨防盗。  
 1. 【[看住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_chv.md#看住)】`kun1 chv` <sup>[泰州]</sup> 牢牢盯紧，不使脱离视线：我去买瓶水来，你～这细小伙。  
 1. 【[看房基](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_fan_ji.md#看房基)】`kun1 fan2 ji1` <sup>[如东]</sup> 一种民间风俗。新的房基杠好后，主人要整夜守卫，以防邪气侵入或者有人做破。在动工建房的凌晨，主人脱光衣服，手拿竹扫帚打扫房基，然后烧高香，点黄元，表示驱邪和招财。这个过程，叫做看房基。  
 1. 【[看家狠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_ga_hen.md#看家狠)】`kun1 ga hen3` <sup>[兴化]</sup> 形容在住所及附近逞强的个性：他是有名的～，离家三里比乖乖听话。  
-1. 【[看家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_ga.md#看家)】`kun1 ga1` <sup>[如东]</sup> 看守家园。  
-1. 【[看家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_ga.md#看家)】`kun1 ga1` <sup>[泰州]</sup> 全家外出期间，留下一人在家守护家庭住宅财产，防火防盗：他俫娘儿两个外去玩去啊，我在家里～。  
+1. 【[看家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_ga.md#看家)】`kun1 ga1` ① <sup>\[如东\]</sup>看守家园。 ② <sup>\[泰州\]</sup>全家外出期间，留下一人在家守护家庭住宅财产，防火防盗：他俫娘儿两个外去玩去啊，我在家里～。<sup>\[泰州\]</sup>  
 1. 【[看家本事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_ga_ben_shr.md#看家本事)】`kun1 ga1 ben3 shr` <sup>[东台]</sup> 基本谋生手段。顶碗、蹬坛子是东台许河杂技团的～。  
 1. 【[看家狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_ga_geu.md#看家狗)】`kun1 ga1 geu3` <sup>[如东]</sup> ① 守护门户的狗。 ② 比喻专为某单位或某人效劳的人。  
 1. 【[看家狠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_ga_hen.md#看家狠)】`kun1 ga1 hen3` <sup>[东台]</sup> 本指狗子习性，常喻指有的人在家神气，在外胆小怕事：别看这个小伙～，外去不敢说话。  
@@ -1006,8 +990,7 @@
 1. 【[看奊头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_qia_teu_r.md#看奊头<sub>儿</sub>)】`kun5 qia1 teu2 r` <sup>[如皋]</sup> 旁观别人玩纸牌、玩麻将、下棋等。  
 1. 【[看亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_qien.md#看亲)】`kun5 qien1` <sup>[兴化]</sup> 相亲：今朝她跟三姨娘、六舅母一起，到邻庄为儿子～。  
 1. 【[看青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_qien.md#看青)】`kun5 qien1` <sup>[兴化]</sup> 旧时，在庄稼收割前，家住城镇的田主下乡踏勘估产。  
-1. 【[看乔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_qio.md#看乔)】`kun5 qio2` <sup>[兴化]</sup> 被看透、被藐视：你这吖不长进，都捱人～啊。  
-1. 【[看乔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_qio.md#看乔)】`kun5 qio2` <sup>[泰州]</sup> 看起来极卑鄙，被人蔑视：他家这个领导真的没得说头，这吖做怎吖不捱部下看吖乔啊吧。  
+1. 【[看乔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_qio.md#看乔)】`kun5 qio2` ① <sup>\[兴化\]</sup>被看透、被藐视：你这吖不长进，都捱人～啊。 ② <sup>\[泰州\]</sup>看起来极卑鄙，被人蔑视：他家这个领导真的没得说头，这吖做怎吖不捱部下看吖乔啊吧。<sup>\[泰州\]</sup>  
 1. 【[看人家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_ren_ga.md#看人家)】`kun5 ren2 ga` <sup>[如皋]</sup> 旧式婚嫁仪程之一。女家暗访之后，正式有媒人陪同至男家看望。男家治酒接待。女家入席则表示满意，不满意则辞归。  
 1. 【[看人家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_ren_ga.md#看人家)】`kun5 ren2 ga1` <sup>[如东]</sup> ① 姑娘或姑娘的母亲由媒人陪着到男家看望，了解情况，叫做看人家。 ② 男家治酒接待。女家人入席表示满意，不满意则辞归。  
 1. 【[看人挑担不吃力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_ren_tio_daen_beh_qieh_lieh.md#看人挑担不吃力)】`kun5 ren2 tio1 daen5 beh7 qieh7 lieh8` <sup>[东台]</sup> （俗语）意思是自己不实践，体会不到别人负担沉重。  
@@ -1020,8 +1003,7 @@
 1. 【[看淡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_taen.md#看淡)】`kun5 taen6` <sup>[泰州]</sup> 将世俗所重视的东西看得淡泊：上吖二线的人，对提拔不提拔老早～唻。  
 1. 【[看汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_tan.md#看汤)】`kun5 tan1` <sup>[如皋]</sup> 目测锅中需水量：煮饭煮粥～你比我在行。  
 1. 【[看头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_teu.md#看头)】`kun5 teu` ① <sup>\[如皋\]</sup>看的兴趣、趣味。 ② <sup>\[东台\]</sup>看起来有意思有滋味。  
-1. 【[看头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_teu.md#看头)】`kun5 teu2` <sup>[兴化]</sup> 指是否有看的价值：绱鞋，本来没有～，但是麻皮匠绱鞋就能吸引人。（汪曾祺：《晚饭花》）  
-1. 【[看头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_teu.md#看头)】`kun5 teu2` <sup>[泰州]</sup> 值得欣赏的价值，意义：这种狗屁文章有甚的～？  
+1. 【[看头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_teu.md#看头)】`kun5 teu2` ① <sup>\[兴化\]</sup>指是否有看的价值：绱鞋，本来没有～，但是麻皮匠绱鞋就能吸引人。（汪曾祺：《晚饭花》） ② <sup>\[泰州\]</sup>值得欣赏的价值，意义：这种狗屁文章有甚的～？<sup>\[泰州\]</sup>  
 1. 【[看西洋镜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_xi_ian_jien.md#看西洋镜)】`kun5 xi1 ian2 jien5` <sup>[东台]</sup> 看西洋片，早期多数为欧美风景画。引申为喜欢看稀奇、好热闹，甚至不顾正事。  
 1. 【[看西厢领<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_xi_xian_lien_r.md#看西厢领<sub>儿</sub>)】`kun5 xi1 xian1 lien3 r` <sup>[泰县]</sup> 看笑话。  
 1. 【[看戏淌眼泪——替古人担忧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_xi_tan_ngaen.md#看戏淌眼泪——替古人担忧)】`kun5 xi5 tan3 ngaen3 ly ti5 gv3 ren2 daen5 ieu1` <sup>[东台]</sup>   
@@ -1038,8 +1020,7 @@
 1. 【[枯茶色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_cha_seh.md#枯茶色)】`kv1 cha2 seh7` <sup>[兴化]</sup> 像栗子壳那样的颜色。现通称“咖啡色”。  
 1. 【[枯陈酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_chen_jieu.md#枯陈酒)】`kv1 chen2 jieu3` <sup>[如皋]</sup> 用夏枯草、茵陈草浸制的药酒。简称“枯陈”。  
 1. 【[枯空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_kon.md#枯空)】`kv1 kon1` <sup>[泰县]</sup> 幽默：他说话～。  
-1. 【[枯渴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_kuh.md#枯渴)】`kv1 kuh7` <sup>[如皋]</sup> ① 干瘪状：老人伸出一双～的手。 ② 耗尽；他的心力～咖。  
-1. 【[枯渴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_kuh.md#枯渴)】`kv1 kuh7` <sup>[泰州]</sup> 身体久无营养滋润儿呈枯槁状态：他在食堂里能吃个甚的东西啊，肚子～咖唻，一大碗肉不费事就下去啊唻。  
+1. 【[枯渴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_kuh.md#枯渴)】`kv1 kuh7` ① <sup>\[如皋\]</sup>干瘪状：老人伸出一双～的手。<sup>\[如皋\]</sup> ② <sup>\[如皋\]</sup>耗尽；他的心力～咖。 ③ <sup>\[泰州\]</sup>身体久无营养滋润儿呈枯槁状态：他在食堂里能吃个甚的东西啊，肚子～咖唻，一大碗肉不费事就下去啊唻。<sup>\[泰州\]</sup>  
 1. 【[枯头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_teu.md#枯头)】`kv1 teu2` <sup>[兴化]</sup> 疮疖开始愈合，即将结痂。又谓“焦头”。  
 1. 【[跍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv.md#跍)】`kv1` <sup>[如皋]</sup> ① 连鞋子在泥水中走动：他一双皮鞋走水里～，总～啊坏啊。 ② 沾上、沾满：身上泥～～的。 ③ 硬缠着要求：他～着咖你要钱。  
 1. 【[骷榔头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_lan_teu.md#骷榔头)】`kv1 lan teu2` <sup>[兴化]</sup> 干枯无肉的死人头骨。  
