@@ -1021,7 +1021,7 @@
 1. 【[臭相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_xian.md#臭相)】`cheu5 xian5` <sup>[东台]</sup> 待人刻薄、小气，不友好。  
 1. 【[臭猪头自有齆鼻子菩萨收](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_zhv_teu_cz_ieu_on_pieh_zz_pv_saeh_sheu.md#臭猪头自有齆鼻子菩萨收)】`cheu5 zhv1 teu2 cz6 ieu3 on5 pieh8 zz pv2 saeh7 sheu1` <sup>[如皋]</sup> 凡事不可预料，自有气味相投之人。  
 1. 【[臭嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_zuei.md#臭嘴)】`cheu5 zuei3` <sup>[兴化]</sup> 喜欢骂人或满嘴脏话的人：他这张～，开口没得好话。  
-1. 【[臭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_zz.md#臭子)】`cheu5 zz` ① <sup>\[如皋\]</sup>腋臭患者。 ② <sup>\[泰县\]</sup>有狐臭的人。 ③ <sup>\[泰县\]</sup>不受欢迎的人。  
+1. 【[臭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_zz.md#臭子)】`cheu5 zz` ① <sup>\[如皋\]\[泰县\]</sup>有狐臭的人。 ② <sup>\[泰县\]</sup>不受欢迎的人。  
 1. 【[彻骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih_gueh.md#彻骨)】`chih7 gueh7` <sup>[东台]</sup> 透骨、入骨，形容程度深。  
 1. 【[彻趟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih_tan.md#彻趟)】`chih7 tan5` <sup>[如东]</sup> 利索彻底：这个问题处理得～。  
 1. 【[慑惧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih_jy.md#慑惧)】`chih7 jy5` <sup>[如皋]</sup> 敬畏、害怕：他～你，见到你就躲。  

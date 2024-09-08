@@ -41,8 +41,7 @@
 1. 【[耳门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_men.md#耳门)】`er3 men2` <sup>[如东]</sup> 堂屋（主屋）或厢房大门外侧两边的小门。  
 1. 【[耳门子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_men_zz.md#耳门子)】`er3 men2 zz` <sup>[兴化]</sup> 大门旁的小门：工厂上班时间，只能从～进出。  
 1. 【[耳毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_mo.md#耳毛)】`er3 mo2` <sup>[如皋]</sup> 耳道中的绒毛或老年时的长毫。  
-1. 【[耳筢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_pa.md#耳筢)】`er3 pa2` <sup>[兴化]</sup> 掏耳垢用的小勺。  
-1. 【[耳筢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_pa.md#耳筢)】`er3 pa2` <sup>[泰州]</sup> 筢耳朵的工具。  
+1. 【[耳筢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_pa.md#耳筢)】`er3 pa2` <sup>\[兴化\]\[泰州\]</sup>掏耳垢用的小勺。  
 1. 【[耳筢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_pa_r.md#耳筢<sub>儿</sub>)】`er3 pa2 r` ① <sup>\[如皋\]</sup>耳挖子。 ② <sup>\[泰县\]</sup>耳勺。  
 1. 【[耳痞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_pi.md#耳痞)】`er3 pi3` <sup>[东台]</sup> 耳朵不灵或不太听话了。  
 1. 【[耳屏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_pien.md#耳屏)】`er3 pien2` <sup>[如皋]</sup> 耳门前的小凸起。  
@@ -201,8 +200,7 @@
 1. 【[二踢脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_tieh_jiah.md#二踢脚)】`er6 tieh7 jiah7` <sup>[如皋]</sup> 双响爆竹。  
 1. 【[二道贩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_to_faen_zz.md#二道贩子)】`er6 to faen5 zz` <sup>[泰兴]</sup> 从贩货者手中买下货物后再转手出卖的人：覅望他是个小小的～，一年的收入也相当可观。  
 1. 【[二段](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_tun.md#二段)】`er6 tun6` <sup>[泰县]</sup> 舞龙灯时龙头后的第二个人。  
-1. 【[二碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_un.md#二碗)】`er6 un3` <sup>[兴化]</sup> 一种粗瓷饭碗，小于大碗。商品代号“可二”。  
-1. 【[二碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_un.md#二碗)】`er6 un3` <sup>[泰州]</sup> 仅仅小于大碗的碗：他饭量不大，一～饭就够啊唻。  
+1. 【[二碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_un.md#二碗)】`er6 un3` ① <sup>\[兴化\]</sup>一种粗瓷饭碗，小于大碗。商品代号“可二”。 ② <sup>\[泰州\]</sup>仅仅小于大碗的碗：他饭量不大，一～饭就够啊唻。<sup>\[泰州\]</sup>  
 1. 【[二碗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_un_r.md#二碗<sub>儿</sub>)】`er6 un3 r` ① <sup>\[如皋\]</sup>中药每剂应煎二次，第二次煎的药汁称～（与“头碗儿”相对）。 ② <sup>\[东台\]</sup>居家生活中，比盛菜的大碗小一点，盛饭常用的碗。  
 1. 【[二五](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_v.md#二五)】`er6 v` <sup>[泰兴]</sup> 傻子，傻里傻气者。犹言“二十五”、“二百五”。贬义：整天的不做事，东游西荡，说话不捉句，活像个～  
 1. 【[二五一凑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_v_ieh_ceu.md#二五一凑)】`er6 v3 ieh7 ceu5` ① <sup>\[如皋\]</sup>几种因素凑到一起：他本来就有病，又捱一气，～就倒下来啊。<sup>\[如皋\]</sup> ② <sup>\[兴化\]</sup>两个数字相凑成整：陈粮藏在夹墙里，自留田收的新稻摺在东房间里，～就够数了。（马春阳《陈大年一家人》）<sup>\[兴化\]</sup> ③ <sup>\[兴化\]</sup>诸因素凑合：他这几天劳累，又受啊寒凉，～就病倒啊。<sup>\[兴化\]</sup>  
@@ -210,8 +208,7 @@
 1. 【[二五难担的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_v_naen_daen_dii.md#二五难担的)】`er6 v3 naen2 daen1 dii` <sup>[东台]</sup> 高不成低不就：他退休嫌早，安排嫌老，真有点～。  
 1. 【[二尾<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_vei_r.md#二尾<sub>儿</sub>)】`er6 vei3 r` <sup>[如皋]</sup> 雄蟋蟀。  
 1. 【[二尾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_vei_zz.md#二尾子)】`er6 vei3 zz` ① <sup>\[兴化\]</sup>雄蟋蟀。因其一对尾须而得名。 ② <sup>\[兴化\]</sup>戏谓跟路的小孩：后头跟个～。<sup>\[兴化\]</sup> ③ <sup>\[兴化\]</sup>阴阳两性人。 ④ <sup>\[泰县\]</sup>有权有势人的走卒。 ⑤ <sup>\[泰兴\]</sup>对为虎作伥、溜须拍马者的鄙称：老百姓对箇个～从来就看不上眼。<sup>\[泰兴\]</sup>  
-1. 【[二显](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_xin.md#二显)】`er6 xin3` <sup>[泰县]</sup> （禁忌语）呆子。  
-1. 【[二显](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_xin.md#二显)】`er6 xin3` <sup>[泰州]</sup> 因为逞能或受人教唆而不计后果做出凶狠蠢事的人：你说你哿是个～，人家教你杀人，你还真的去杀人吖？｜他这个～同人家拼酒，三扣喝掉一斤半，差点儿喝煞咖。  
+1. 【[二显](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_xin.md#二显)】`er6 xin3` ① <sup>\[泰县\]</sup>（禁忌语）呆子。 ② <sup>\[泰州\]</sup>因为逞能或受人教唆而不计后果做出凶狠蠢事的人：你说你哿是个～，人家教你杀人，你还真的去杀人吖？<sup>\[泰州\]</sup>｜他这个～同人家拼酒，三扣喝掉一斤半，差点儿喝煞咖。<sup>\[泰州\]</sup>  
 1. 【[二小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_xio.md#二小)】`er6 xio3` ① <sup>\[如东\]</sup>排行第二，多为长辈对晚辈的称呼。也称老二。 ② <sup>\[如皋\]</sup>行二的孩子。 ③ <sup>\[如皋\]</sup>泛指旧时的小雇工：～～，看牛扯草。<sup>\[如皋\]</sup> ④ <sup>\[兴化\]</sup>排行第二的孩子。 ⑤ <sup>\[兴化\]</sup>听使唤的人：你覅把我当～，甚的事总叫我去！<sup>\[兴化\]</sup> ⑥ <sup>\[泰县\]</sup>排行老二。 ⑦ <sup>\[泰县\]</sup>佣人：我不能老是做你的～。<sup>\[泰县\]</sup> ⑧ <sup>\[泰兴\]</sup>跟随主人的贴身奴仆，随时听候主人使唤 ⑨ <sup>\[泰兴\]</sup>比喻受人指使、自己无主见者：他是个没出息的杲子，跟吖人家后头做～，受人支派。<sup>\[泰兴\]</sup>  
 1. 【[二照蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_zho_taen.md#二照蛋)】`er6 zho5 taen6` <sup>[如皋]</sup> 炕坊孵蛋，每7天照光检查一次，剔除死蛋。第二个7天照光剔出的蛋称～。蛋黄已变，尚可食用。  
 1. 【[二指大的条子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_zhr_da_dii_tio_zz.md#二指大的条子)】`er6 zhr3 da6 dii tio2 zz` <sup>[东台]</sup> 对介绍信的戏称或蔑称：只要～一到，他就可以调走。  
