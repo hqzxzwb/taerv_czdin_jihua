@@ -210,8 +210,7 @@
 1. 【[摆谱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_pv_r.md#摆谱<sub>儿</sub>)】`bae3 pv3 r` ① <sup>\[如东\]</sup>讲名位，摆排场。 ② <sup>\[兴化\]</sup>讲究排场、显示阔气、摆架子：才当个小科长，就欢喜在乡亲面前～。<sup>\[兴化\]</sup>  
 1. 【[摆席](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_qieh.md#摆席)】`bae3 qieh8` <sup>[兴化]</sup> 设宴时铺设席面：“二小姐，快要～子，姨太太请你进去。”（《四杰传》十八）  
 1. 【[摆饰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_sheh.md#摆饰)】`bae3 sheh7` <sup>[如东]</sup> 按照规范摆放物品。  
-1. 【[摆胜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_shen.md#摆胜)】`bae3 shen5` ① <sup>\[兴化\]</sup>炫耀：他在小报上登过一首短诗，老拿出来～。<sup>\[兴化\]</sup>｜……方元绿举起老鼠般的小火轮，全庄～……（马春阳《姐妹姻缘船迷传》）<sup>\[兴化\]</sup> ② <sup>\[泰县\]</sup>炫耀：你不要～。<sup>\[泰县\]</sup>  
-1. 【[摆胜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_shen.md#摆胜)】`bae3 shen5` <sup>[泰州]</sup> 炫耀：就是小伙出咖国，也不要在人家面前～。  
+1. 【[摆胜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_shen.md#摆胜)】`bae3 shen5` <sup>\[兴化\]\[泰县\]\[泰州\]</sup>炫耀：他在小报上登过一首短诗，老拿出来～。<sup>\[兴化\]</sup>｜……方元绿举起老鼠般的小火轮，全庄～……（马春阳《姐妹姻缘船迷传》）<sup>\[兴化\]</sup>｜你不要～。<sup>\[泰县\]</sup>｜就是小伙出咖国，也不要在人家面前～。<sup>\[泰州\]</sup>  
 1. 【[摆胜方子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_shen_fan_zz.md#摆胜方子)】`bae3 shen5 fan1 zz` <sup>[东台]</sup> 吹嘘，炫耀自己。  
 1. 【[摆屎摊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_shr_taen_zz.md#摆屎摊子)】`bae3 shr3 taen1 zz` <sup>[兴化]</sup> （讽）将大便拉在地上：……房间里这股臭味不能闻，再一看，原来这些员外在地板上～。（扬二《朱元璋贩卖乌梅》）  
 1. 【[摆甩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_shuae.md#摆甩)】`bae3 shuae3` <sup>[东台]</sup> 为出风头而摆排场。  
@@ -380,8 +379,7 @@
 1. 【[板摇不动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_io_beh_ton.md#板摇不动)】`baen3 io2 beh7 ton6` <sup>[如皋]</sup> 形容牢固。  
 1. 【[板结](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_jih.md#板结)】`baen3 jih7` <sup>[如东]</sup> 土壤中有机质少，下雨后，地面变硬，这种现象称板结。  
 1. 【[板笿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_lah.md#板笿)】`baen3 lah8` <sup>[东台]</sup> 用竹篾做的大菜篮子。  
-1. 【[板聋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_lon.md#板聋)】`baen3 lon2` ① <sup>\[如皋\]</sup>极聋。 ② <sup>\[兴化\]</sup>指人基本没听觉：他是～，在跟前放炮也听不见。<sup>\[兴化\]</sup>｜张昭心里有话：我这一声喊，就是～也听见了。（《火烧赤壁》一）<sup>\[兴化\]</sup>  
-1. 【[板聋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_lon.md#板聋)】`baen3 lon2` <sup>[泰州]</sup> 完全没有听觉的人：你声音再大也没得用，他是个～。  
+1. 【[板聋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_lon.md#板聋)】`baen3 lon2` <sup>\[如皋\]\[兴化\]\[泰州\]</sup>极聋，完全没有听觉。或极聋的人：他是～，在跟前放炮也听不见。<sup>\[兴化\]</sup>｜张昭心里有话：我这一声喊，就是～也听见了。（《火烧赤壁》一）<sup>\[兴化\]</sup>｜你声音再大也没得用，他是个～。<sup>\[泰州\]</sup>  
 1. 【[板门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_men.md#板门)】`baen3 men2` ① <sup>\[如皋\]</sup>木框内木板的门与“穿翘门”相对。 ② <sup>\[兴化\]</sup>木板拼起的门。 ③ <sup>\[兴化\]</sup>（喻）物体宽大：他这个大个子朝跟前一站，就像个～。<sup>\[兴化\]</sup>｜～大的告示贴咖墙上。<sup>\[兴化\]</sup>  
 1. 【[板门大的个子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_men_da_dii_gu_zz.md#板门大的个子)】`baen3 men2 da6 dii gu5 zz` <sup>[如皋]</sup> 状人高大魁梧。  
 1. 【[板瓤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_nan.md#板瓤)】`baen3 nan2` <sup>[如皋]</sup> 西瓜带生，瓜瓤板结。  
@@ -1362,8 +1360,7 @@
 1. 【[报应杲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_ien_go_zz.md#报应杲子)】`bo5 ien5 go3 zz` <sup>[如东]</sup> 不争气的人。  
 1. 【[报怨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_iun.md#报怨)】`bo5 iun5` <sup>[泰州]</sup> 埋怨，因事情不如意而责怪他人：这件事你要想吖清爽吖，到时候不要～人不曾提醒你。｜你自己没本事寻到工作，怎吖好～家里人？  
 1. 【[报恩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_ngen.md#报恩)】`bo5 ngen1` <sup>[如东]</sup> 由于受到恩惠而予以报答。  
-1. 【[报丧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_san.md#报丧)】`bo5 san1` ① <sup>\[如皋\]</sup>詈语或昵语，指人，同“报应”：你这个～。<sup>\[如皋\]</sup> ② <sup>\[东台\]</sup>亦称“跑报”。登门通报亲人去世消息。  
-1. 【[报丧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_san.md#报丧)】`bo5 san1` <sup>[泰州]</sup> 将父、母或亲人去世的消息通知死者生前有血缘关系的人。  
+1. 【[报丧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_san.md#报丧)】`bo5 san1` ① <sup>\[如皋\]</sup>詈语或昵语，指人，同“报应”：你这个～。<sup>\[如皋\]</sup> ② <sup>\[东台\]\[泰州\]</sup>登门通报亲人去世消息。\[东台：亦称“跑报”。\]  
 1. 【[报水荒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_shuei_huan.md#报水荒)】`bo5 shuei3 huan1` <sup>[东台]</sup> 原意是扩大实际灾情，妄图获得高额补偿，喻意扩大事态，试图引起重视，欺骗领导。  
 1. 【[报晓鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_xio_ji.md#报晓鸡)】`bo5 xio3 ji1` ① <sup>\[东台\]</sup>［喻］把所知道的相关内情传递给对方，搬弄是非。 ② <sup>\[兴化\]</sup>司晨的雄鸡：“（这闹钟）比家里～灵……”（马春阳《三九姑娘》）<sup>\[兴化\]</sup> ③ <sup>\[兴化\]</sup>（喻）喜欢传播小道新闻的人。  
 1. 【[报晓鸡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_xio_ji_r.md#报晓鸡<sub>儿</sub>)】`bo5 xio3 ji1 r` ① <sup>\[如东\]</sup>雄鸡在天亮时啼鸣，称报晓。 ② <sup>\[如东\]</sup>母鸡下蛋后叫唤，称报晓。 ③ <sup>\[如东\]</sup>比喻一些人知道了一点情况就马上告诉别人：陈志明是个～，听到一点风声就告诉人。<sup>\[如东\]</sup> ④ <sup>\[如皋\]</sup>詈语，指专打小报告的人（晓，知）。  
