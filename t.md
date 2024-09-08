@@ -121,6 +121,7 @@
 1. 【[大气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_qi.md#大气)】`tae6 qi5` ① <sup>\[如皋\]</sup>落落大方。 ② <sup>\[如皋\]</sup>出手阔绰，办事不吝啬。 ③ <sup>\[东台\]</sup>讲义气：这小伙～。<sup>\[东台\]</sup>  
 1. 【[大气形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_qi_xien.md#大气形)】`tae6 qi5 xien2` <sup>[如皋]</sup> 落落大方、待人宽厚的样子。  
 1. 【[大蒜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_sun.md#大蒜)】`tae6 sun5` <sup>[泰县]</sup> 大蒜。  
+1. 【[待慢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_maen.md#待慢)】`tae6 maen6` <sup>[泰州方言词典2]</sup> 待慢，接待人不周到。  
 1. 【[待媒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_mei.md#待媒)】`tae6 mei2` <sup>[兴化]</sup> 宴请媒人，表示谢意：媒人在婚前及喜日是受人尊重的。无论贫富，请家要请吃三顿酒，请媒酒、～酒和谢媒酒。（马春阳《扬州水乡婚俗散记》）  
 1. 【[待女](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ny.md#待女)】`tae6 ny3` <sup>[东台]</sup> 姑娘出嫁前一天的酒席。这一天男方称“暖轿”。  
 1. 【[待匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_qian.md#待匠)】`tae6 qian6` <sup>[东台]</sup> 指工程竣工，招待工匠：房子明吖～。  
@@ -291,6 +292,7 @@
 1. 【[𨂞动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_ton.md#𨂞动)】`taen5 ton` <sup>[兴化]</sup> 腹中始有饥饿感：今朝中饭吃得早，这刻儿肚子倒～吖。  
 1. 【[𨂞性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_xien.md#𨂞性)】`taen5 xien5` <sup>[泰县]</sup> 信心不足：这本书恐伯印不成，我俫倒～吖。  
 1. 【[但凡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_faen.md#但凡)】`taen6 faen2` <sup>[东台]</sup> 凡是；只要是：～有一线希望，也要努力争取。  
+1. 【[但凡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_faen.md#但凡)】`taen6 faen2` <sup>[泰州方言词典2]</sup> 只要是：这两个人犯对，～是老王提的，他就反对。  
 1. 【[淡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen.md#淡)】`taen6` ① 味道淡 ② <sup>\[兴化\]</sup>印象逐渐淡漠，以至忘记：儿时的印象早已经～吖。<sup>\[兴化\]</sup>｜“……其时咱魂梦儿都是想他，几次寻死要活的闹，好容易过了一年半载才～下来了……”（《广陵潮》三四）<sup>\[兴化\]</sup>  
 1. 【[淡巴擸𢶍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_ba_laeh_saeh.md#淡巴擸𢶍)】`taen6 ba laeh8 saeh` <sup>[兴化]</sup> 指菜肴淡而无味：把菜烧得～的，有甚的吃头！‖也说“淡叽挖撒”。  
 1. 【[淡巴呀些](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_ba_ia_xia.md#淡巴呀些)】`taen6 ba1 ia1 xia1` <sup>[东台]</sup> 淡而无味。可以指菜肴，也可以指文章或话语。  
@@ -806,6 +808,7 @@
 1. 【[豆蠌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_tah.md#豆蠌)】`teu6 tah` <sup>[如皋]</sup> 豆天蛾的幼虫。  
 1. 【[豆拓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_tah.md#豆拓)】`teu6 tah7` <sup>[兴化]</sup> 尺蠖蛾的幼虫。  
 1. 【[逗叨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_ddo.md#逗叨)】`teu6 ddo` <sup>[如东]</sup> 过分地高兴：一听就～，究竟是真是假也不问下子。  
+1. 【[屉斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_deu.md#屉斗)】`ti1 deu3` <sup>[泰州方言词典2]</sup> 抽屉，形近方斗，故名：你把东西放吖～里去。  
 1. 【[屉头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_teu.md#屉头)】`ti1 teu2-3` <sup>[泰县]</sup> 抽屉。  
 1. 【[梯码<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_ma_r.md#梯码<sub>儿</sub>)】`ti1 ma3 r` ① <sup>\[东台\]</sup>梯子：搬个～好登高。<sup>\[东台\]</sup> ② <sup>\[兴化\]</sup>竹、木制的便于上下的用具。  
 1. 【[梯马<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_ma_r.md#梯马<sub>儿</sub>)】`ti1 ma3 r` <sup>[泰县]</sup> 梯子。  
@@ -813,6 +816,7 @@
 1. 【[提](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti.md#提)】`ti2` <sup>[如皋]</sup> ① 提取、选取：～犯人、～审；～肉块子，留汤。 ② 量词：一～粽子是五只。  
 1. 【[提笔忘字](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_bieh_van_cz.md#提笔忘字)】`ti2 bieh7 van6 cz6` <sup>[如东]</sup> 拿起笔来，忘记了要写的字。  
 1. 【[提拨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_buh.md#提拨)】`ti2 buh7` <sup>\[东台\]\[如皋\]\[兴化\]</sup>提醒、提示、点拨、指点：他有甚的不懂的地方请你多～他。<sup>\[兴化\]</sup>  
+1. 【[提拨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_buh.md#提拨)】`ti2 buh7` <sup>[泰州方言词典2]</sup> 提醒，点拨：他有甚的不到之处，还靠你老同志～他。  
 1. 【[提草鞋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_co_hae.md#提草鞋)】`ti2 co3 hae2` <sup>[兴化]</sup> 形容身份低下，百无一用：他这种人只配给人～。｜……还有几个不出名～的小伙，共是十来个。（《二刻》十）‖也说“拎草鞋”。  
 1. 【[提蚕<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_cun_r.md#提蚕<sub>儿</sub>)】`ti2 cun2 r` <sup>[如皋]</sup> 给蚕床清除残叶蚕粪的过程。先覆蚕网喂叶引蚕上行，后提网清床。  
 1. 【[提货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_hu.md#提货)】`ti2 hu5` <sup>[如东]</sup> 到指定地点提取货物。  
@@ -835,7 +839,9 @@
 1. 【[蹄面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_min.md#蹄面)】`ti2 min6` <sup>[如皋]</sup> 代指祝寿礼品。  
 1. 【[蹄髈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_pan.md#蹄髈)】`ti2 pan` <sup>[如东]</sup> 猪前脚的上半部。  
 1. 【[蹄髈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_pan.md#蹄髈)】`ti2 pan3` ① <sup>\[如皋\]</sup>猪前腿上段。 ② <sup>\[东台\]</sup>蹄即爪，髈即大腿，也叫猪腿板、猪屁股。民间常做定亲或逢年过节的礼品。 ③ <sup>\[兴化\]</sup>肘子，用作食品的猪腿：蛮女捧出两个～，一只熟鹅……（《水浒后传》三六）<sup>\[兴化\]</sup>  
+1. 【[蹄髈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_pan.md#蹄髈)】`ti2 pan3` <sup>[泰州方言词典2]</sup> 猪的大腿，肘子。  
 1. 【[蹄筒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_ton.md#蹄筒)】`ti2 ton3` ① <sup>\[东台\]</sup>通常指猪的蹄子肉。 ② <sup>\[兴化\]</sup>去骨后的猪蹄髈。  
+1. 【[蹄爪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_zho.md#蹄爪)】`ti2 zho3` <sup>[泰州方言词典2]</sup> 猪腿踝骨以下部分。  
 1. 【[蹄爪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_zho_zz.md#蹄爪子)】`ti2 zho3 zz` <sup>[兴化]</sup> ① 用作食品的猪腿最下部分。 ② 脚的贬义说法。  
 1. 【[蹄爪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_zhua.md#蹄爪)】`ti2 zhua3` <sup>[东台]</sup> 通常指猪的脚爪。  
 1. 【[蹄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_zz.md#蹄子)】`ti2 zz` ① <sup>\[如皋\]</sup>去骨后的蹄髋。 ② <sup>\[如东\]</sup>牲畜的脚。猪腿，主要指前腿。 ③ <sup>\[兴化\]</sup>牛、马、驴等牲畜的蹄，特指猪肘子。  
@@ -847,6 +853,7 @@
 1. 【[剃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti.md#剃)】`ti5` <sup>[如东]</sup> 把物体锯断：你用锯子把这根木头～掉。  
 1. 【[剃光头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_guan_teu.md#剃光头)】`ti5 guan1 teu2` <sup>[东台]</sup> 在计分比赛中一分未得，或一局未贏，又称送鸭蛋。  
 1. 【[剃头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_teu.md#剃头)】`ti5 teu2` ① <sup>\[如皋\]</sup>用剃刀剃去头发。 ② <sup>\[如皋\]</sup>理发。 ③ <sup>\[如皋\]</sup>教训某人：给某人～。<sup>\[如皋\]</sup> ④ <sup>\[如东\]</sup>理发。  
+1. 【[剃头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_teu.md#剃头)】`ti5 teu2` <sup>[泰州方言词典2]</sup> 理发，减去多余头发。  
 1. 【[剃头店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_teu_din.md#剃头店)】`ti5 teu2 din5` <sup>[如皋]</sup> 理发店。  
 1. 【[剃头匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_teu_qian.md#剃头匠)】`ti5 teu2 qian` <sup>[东台]</sup> 理发师的俗称。  
 1. 【[剃头匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_teu_qian.md#剃头匠)】`ti5 teu2 qian6` ① <sup>\[如皋\]</sup>理发师的旧称。 ② <sup>\[如皋\]</sup>理发师。  
@@ -892,11 +899,14 @@
 1. 【[地龙<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_lon_r.md#地龙<sub>儿</sub>)】`ti6 lon2 r` <sup>[如东]</sup> 一只圆形竹筒制成，有哨口，中间以竹竿相穿，用绳索搓动，高速旋转后，能够发出响声。  
 1. 【[地坪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_pien.md#地坪)】`ti6 pien2` <sup>[兴化]</sup> 室内外地面：混凝土～｜屋里～比天井高三十公分。  
 1. 【[地判](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_pun.md#地判)】`ti6 pun5` <sup>[兴化]</sup> 迎神赛会中在地上行走的判宫：判有两种，一种是～，一文一武，手执朝笏，边走边跳。（汪曾祺《故里三陈》）‖也称“走判”。  
+1. 【[地铺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_pv.md#地铺)】`ti6 pv5` <sup>[泰州方言词典2]</sup> 把铺盖铺在地上做成临时的铺：人来啊多啊，只好打～。  
 1. 【[地身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_shen.md#地身)】`ti6 shen1` ① <sup>\[如皋\]</sup>地方、地势、高程。 ② <sup>\[兴化\]</sup>地平面：这许～高，那许～低。<sup>\[兴化\]</sup> ③ <sup>\[兴化\]</sup>地基。也说“地脚”。  
+1. 【[地身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_shen.md#地身)】`ti6 shen1` <sup>[泰州方言词典2]</sup> ① 某处特定地表：这块地的～高，雨一停水就干。 ② 房屋地基，承受建筑物重量的土层，多为人工挑高以后夯实而成：这个房子～低，一到落雨天，家里地下就发潮。  
 1. 【[地塘屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_tan_oh.md#地塘屋)】`ti6 tan2 oh7` ① <sup>\[如皋\]</sup>室内地平低于室外地平的房屋。 ② <sup>\[兴化\]</sup>室内地坪低于室外的房屋。  
 1. 【[地塘灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_tan_zo.md#地塘灶)】`ti6 tan2 zo5` <sup>[如皋]</sup> 灶脚深入地下，并挖有地塘供烧火者操作的矮而大的砖灶。槽坊、油坊、大伙房多用之。  
 1. 【[地忑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_teh.md#地忑)】`ti6 teh7` <sup>[兴化]</sup> 地陷。  
 1. 【[地头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_teu.md#地头)】`ti6 teu2` ① <sup>\[如皋\]</sup>出发地、原产地：我是打～买的货，不是半路上的。<sup>\[如皋\]</sup> ② <sup>\[如皋\]</sup>目的地：你到啊～就写信家来。<sup>\[如皋\]</sup> ③ <sup>\[如皋\]</sup>集散地：货到～死。<sup>\[如皋\]</sup> ④ <sup>\[兴化\]</sup>目的地：老头子忍气吞声地撑到了～。（兴文《懒儿子变了》）<sup>\[兴化\]</sup> ⑤ <sup>\[兴化\]</sup>当地、原住地：家丁原是～人，多曾认得柯陈家里的……（《三刻》二七）<sup>\[兴化\]</sup> ⑥ <sup>\[兴化\]</sup>田块的两端：田间～。<sup>\[兴化\]</sup> ⑦ <sup>\[兴化\]</sup>对方：这件事要等～来人才好确定。<sup>\[兴化\]</sup>  
+1. 【[地头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_teu.md#地头)】`ti6 teu2` <sup>[泰州方言词典2]</sup> 出发的目的地：你到啊～要打个电话家来。  
 1. 【[地头鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_teu_guei.md#地头鬼)】`ti6 teu2 guei3` ① <sup>\[如皋\]</sup>坐探。指敌方在本地物色的情报人员。 ② <sup>\[如东\]</sup>坐探：此人是个～。<sup>\[如东\]</sup> ③ <sup>\[兴化\]</sup>见“地里鬼”。  
 1. 【[地头价](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_teu_jia.md#地头价)】`ti6 teu2 jia5` <sup>[如皋]</sup> 原产地（厂）的价格。  
 1. 【[地头蛇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_teu_sha.md#地头蛇)】`ti6 teu2 sha2` <sup>[如东]</sup> 当地强横无赖、欺压百姓的人。  
@@ -997,6 +1007,7 @@
 1. 【[定邦定式的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_ban_tien_sheh_dii.md#定邦定式的)】`tien6 ban1 tien6 sheh7 dii` <sup>[如皋]</sup> 认真地，稳妥地。  
 1. 【[定不准](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_beh_zhuen.md#定不准)】`tien6 beh zhuen3` <sup>[如皋]</sup> 不敢认定、决定。  
 1. 【[定当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_dan.md#定当)】`tien6 dan5` <sup>[兴化]</sup> 妥当：我先去报到，等安排～再接你俫去。  
+1. 【[定当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_dan.md#定当)】`tien6 dan5` <sup>[泰州方言词典2]</sup> 处理或者安排确定而又妥当：这桩事他忙吖几个月，还不曾忙吖～哎。  
 1. 【[定法不是法](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_faeh_beh_shr_faeh.md#定法不是法)】`tien6 faeh7 beh7 shr6 faeh7` <sup>[兴化]</sup> 指计划不能一成不变：现在～，要随情况变化调整计划。｜“……怎的个招佃，怎的个议租，此时～，你们再听老爷太太的吩咐……”（《儿女英雄传》三三）“定”也说“作”。  
 1. 【[定风旗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_fon_qi.md#定风旗)】`tien6 fon1 qi2` <sup>[如东]</sup> 安装在帆船桅杆顶端的旗帜。它能随着风向旋转观测风向风力。  
 1. 【[定风旗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_fon_qi_r.md#定风旗<sub>儿</sub>)】`tien6 fon1 qi2 r` <sup>[如皋]</sup> 桅顶小旗，可观风向。  
@@ -1004,7 +1015,9 @@
 1. 【[定规](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_guei.md#定规)】`tien6 guei1` ① <sup>\[兴化\]</sup>预定金：租房谈成吖，先把～。<sup>\[兴化\]</sup> ② <sup>\[兴化\]</sup>一定的说法：“……几曾见中进士的都是饱学秀才？只要命好，有甚～……”（《西湖二集》四）<sup>\[兴化\]</sup> ③ <sup>\[如皋\]</sup>定金  
 1. 【[定慧寺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_huei_cz.md#定慧寺)】`tien6 huei6-guei1 cz6` <sup>[如皋]</sup> 隋大业十一年，天台宗智顗大师创建。原名“定惠寺”，清末慈禧太后题匾赐名“定慧寺”。原山门朝南，明代建城，迫使改向北。建筑特色：楼抱殿、水环寺、庙门朝北。  
 1. 【[定金](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_jien.md#定金)】`tien6 jien1` <sup>[如东]</sup> 抵押资金。  
+1. 【[定金](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_jien.md#定金)】`tien6 jien1` <sup>[泰州方言词典2]</sup> 在商业活动中，双方谈妥之后，买方需预支付一定比例费用给卖方，称为“定金”。如买方返回，定金归卖方；若卖方返回，则需双倍返还给买方。  
 1. 【[定力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_lieh.md#定力)】`tien6 lieh8` <sup>[兴化]</sup> 有自我控制能力，遇事沉得住气：王连方要是有这样的～，何至于落到这步田地（毕飞宇《玉米》）  
+1. 【[定力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_lieh.md#定力)】`tien6 lieh8` <sup>[泰州方言词典2]</sup> 在面对诱惑、突变时表现出的不受干扰、处变不慌的自我控制能力：做领导的人，没得点儿～还行。  
 1. 【[定吖砣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_nga_tu.md#定吖砣)】`tien6 nga tu2` <sup>[东台]</sup> ［喻］没有多大发展空间：我看他考上大专就～，还想考重点大学？  
 1. 【[定盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_pun.md#定盘)】`tien6 pun2` <sup>[如皋]</sup> 交易谈定，定局。  
 1. 【[定盘星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_pun_xien.md#定盘星)】`tien6 pun2 xien1` <sup>[如皋]</sup> 起点的秤星，重量为0。  
@@ -1550,6 +1563,7 @@
 1. 【[道场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_chan.md#道场)】`to6 chan2` <sup>[东台]</sup> 释、道做法事的场所，也指法事本身。  
 1. 【[道观](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_gun.md#道观)】`to6 gun5` <sup>[如东]</sup> 道土修行的地方。也称道士庙。  
 1. 【[道行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_hen.md#道行)】`to6 hen` <sup>[东台]</sup> 本指僧道修行的功夫，现泛指本领、修养：他的数学～深。  
+1. 【[道行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_hen.md#道行)】`to6 hen` <sup>[泰州方言词典2]</sup> 在某个领域的能力、本领、涵养：他搞方言研究三年不到，能有多大～？｜他在单位蹾吖几十年，甚的事情不曾见过，～深吖去啊唻。  
 1. 【[道教](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_jio.md#道教)】`to6 jio5` <sup>[如东]</sup> 我国宗教之一，由东汉张道陵创立，到南北朝时盛行起来。创立时，人道者须出五斗米，所以又叫“五斗米道”。道教徒尊称张道陵为天师，因而又叫“天师道”。道教奉老子为教祖，尊称他为“太上老君”。  
 1. 【[道<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_r.md#道<sub>儿</sub>)】`to6 r` <sup>[如皋]</sup> 规矩：伢儿捱训吖上吖～。  
 1. 【[道士](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_shr.md#道士)】`to6 shr6` ① <sup>\[如东\]</sup>道教徒。 ② <sup>\[东台\]</sup>道教徒。  
@@ -1557,6 +1571,7 @@
 1. 【[道士吃狗肉——块块好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_shr_qieh_geu_roh_kuae_kuae_ho.md#道士吃狗肉——块块好)】`to6 shr6 qieh7 geu3 roh8 kuae5 kuae5 ho3` <sup>[东台]</sup>   
 1. 【[道士头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_shr_teu.md#道士头)】`to6 shr6 teu2` ① <sup>\[如皋\]</sup>明代及以前的男髮式：长髮盘髻于顶。今惟道士用之。 ② <sup>\[如东\]</sup>长头发，头顶盘成一个髻，称道土头。  
 1. 【[道地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_ti.md#道地)】`to6 ti6` <sup>[如皋]</sup> 地道。  
+1. 【[道道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_to.md#道道)】`to6 to6` <sup>[泰州方言词典2]</sup> 处置方法或者处理技术：他说咖半天，也不曾说出个～来。｜他做主任这吖些年，没得点～怎吖行吖。  
 1. 【[道学](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_xiah.md#道学)】`to6 xiah` <sup>[东台]</sup> 道理。东台堤西地区一些人的说法。  
 1. 【[溻湿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_sheh.md#溻湿)】`toh7 sheh7` <sup>[如皋]</sup> 湿透了。  
 1. 【[秃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh.md#秃)】`toh7` ① <sup>\[如皋\]</sup>减：一斤～一两；竹堆子的总～点儿。 ② <sup>\[如东\]</sup>减少：～去2元。<sup>\[如东\]</sup> ③ <sup>\[兴化\]</sup>减掉：十个～去两个，还剩八个。<sup>\[兴化\]</sup> ④ <sup>\[泰州\]</sup>物体被磨损：这把大斧的口～咖唻，要磨下子。<sup>\[泰州\]</sup> ⑤ <sup>\[泰州\]</sup>砍去：30多棵杨树夜里捱人家～掉啊。<sup>\[泰州\]</sup> ⑥ <sup>\[泰州\]</sup>缩减，去除：一共30个人，～去请假的两个人，还有28个人。<sup>\[泰州\]</sup>  
@@ -1587,6 +1602,7 @@
 1. 【[独膀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_ban_r.md#独膀<sub>儿</sub>)】`toh8 ban3 r` <sup>[如皋]</sup> 只有一只健全手臂的肢残者。  
 1. 【[独自](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_cz.md#独自)】`toh8 cz6` <sup>[如东]</sup> 单独一个人：我～去。  
 1. 【[独凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_den.md#独凳)】`toh8 den5` ① <sup>\[东台\]</sup>一个人坐的凳子。 ② <sup>\[兴化\]</sup>只能供一人坐的板凳。也称“一人凳”。  
+1. 【[独凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_den.md#独凳)】`toh8 den5` <sup>[泰州方言词典2]</sup> 一个人做的板凳，相对“大凳”而言。  
 1. 【[独凳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_den_r.md#独凳<sub>儿</sub>)】`toh8 den5 r` <sup>[如皋]</sup> 单人高凳。  
 1. 【[独端](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_dun.md#独端)】`toh8 dun1` <sup>[兴化]</sup> 独自占有：他是两房唯一的伢儿了，所有财产由他～。  
 1. 【[独家门楼子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_ga_men_leu_zz.md#独家门楼子)】`toh8 ga men2 leu2 zz` <sup>[兴化]</sup> 一片地段唯一的人家：他家住啊街南的一户～里。  
@@ -1605,6 +1621,7 @@
 1. 【[独手<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_sheu_r.md#独手<sub>儿</sub>)】`toh8 sheu3 r` <sup>[如皋]</sup> 只有一只手的肢残者。  
 1. 【[独扇子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_shin_zz.md#独扇子)】`toh8 shin5 zz` <sup>[兴化]</sup> 指一副门框或一个门膛内只有一扇门：他家大门、堂屋门都是对开，房门是～。‖也作“独扇门”。  
 1. 【[独市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_shr.md#独市)】`toh8 shr6` ① <sup>\[如皋\]</sup>独家经营。 ② <sup>\[兴化\]</sup>仅有一处销售点：这种牌子的香烟别家没有，只有他家卖～。<sup>\[兴化\]</sup>｜全庄就是一爿小商店，卖的～。<sup>\[兴化\]</sup>  
+1. 【[独市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_shr.md#独市)】`toh8 shr6` <sup>[泰州方言词典2]</sup> 一定地域之内，只有一家商店营业：这条街上只有他家一家～杂货店。  
 1. 【[独睡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_shuei_r.md#独睡<sub>儿</sub>)】`toh8 shuei r` <sup>[如皋]</sup> 单人卧具：～床、～被单。  
 1. 【[独睡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_shuei_zz.md#独睡子)】`toh8 shuei5 zz` <sup>[兴化]</sup> 单人床及与之配套的席和蚊账等：～床｜～席子。  
 1. 【[独蒜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_sun.md#独蒜)】`toh8 sun5` <sup>[东台]</sup> 一个大蒜不像通常含有多个蒜瓣，只有一个整果。  
@@ -1612,6 +1629,7 @@
 1. 【[独独](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_toh.md#独独)】`toh8 toh8` ① <sup>\[如皋\]</sup>唯有、唯一。即唯独。 ② <sup>\[兴化\]</sup>偏偏：几万人中只有一个特等奖，～捱他得咖去啊。<sup>\[兴化\]</sup>  
 1. 【[独独的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_toh_dii.md#独独的)】`toh8 toh8 dii` <sup>[如皋]</sup> 见“独独”。  
 1. 【[独种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_zhon.md#独种)】`toh8 zhon3` <sup>[兴化]</sup> 独根苗，对独生子女的戏称。  
+1. 【[独种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_zhon.md#独种)】`toh8 zhon3` <sup>[泰州方言词典2]</sup> 家族或者家庭之中只有一个孩子：他家三房就佮咖这吖一个～。  
 1. 【[独种<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_zhon_r.md#独种<sub>儿</sub>)】`toh8 zhon3 r` <sup>[如皋]</sup> ① 唯一的。 ② 独生子。  
 1. 【[讟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh.md#讟)】`toh8` <sup>[泰州]</sup> 怨恨：他把人家工作弄掉啊，这回子～结咖深吖唻。｜这两家不晓得为的甚的事，这个～就大得加思唻。  
 1. 【[读书不讲，如同隔靴搔痒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_shv_beh_jian_rv_ton_geh_xya_so_ian.md#读书不讲，如同隔靴搔痒)】`toh8 shv1 beh7 jian3 rv2 ton2 geh7 xya1 so1 ian3` <sup>[东台]</sup> 读书要讲透精神实质。  
@@ -2046,6 +2064,7 @@
 1. 【[度](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv.md#度)】`tv6` <sup>[东台]</sup> ① 跨过，越过：春风不～玉门关/飞～天堑。 ② 经过，经历：虚～青春/欢～春节。 ③ 用于动作次数（经历几次就是几度）：一年一～/几～风雨，几～春秋/再～上映。 ④ 佛教、道教指让人超越尘俗或脱离苦难：剃～/超～。  
 1. 【[度量](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_lian.md#度量)】`tv6 lian6` <sup>[东台]</sup> 宽容的程度，气度：他交关有～，尽管有人当面骂他，他还是和颜悦色的耐心解释。  
 1. 【[度命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_mien.md#度命)】`tv6 mien6` ① <sup>\[如皋\]</sup>不顾艰苦，保全生命。 ② <sup>\[如皋\]</sup>同“餬嘴”。 ③ <sup>\[如东\]</sup>勉强维持生命：这吖点儿粮食只能～。<sup>\[如东\]</sup>  
+1. 【[度命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_mien.md#度命)】`tv6 mien6` <sup>[泰州方言词典2]</sup> 饥荒年代或非常时期采取措施维持生存：最困难的时候，他就靠山芋、胡萝卜～。  
 1. 【[度命粮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_mien_lian.md#度命粮)】`tv6 mien6 lian2` ① <sup>\[如东\]</sup>勉强维持生命的粮食。也称救命粮。 ② <sup>\[泰县\]</sup>仅有的一点口粮。  
 1. 【[度日如年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_rih_rv_nin.md#度日如年)】`tv6 rih8 rv2 nin2` <sup>[如东]</sup> 心中有一种焦虑的情绪，怨恨时间走得太慢。  
 1. 【[度种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_zhon.md#度种)】`tv6 zhon3` <sup>[如皋]</sup> ① 受孕。传后代。 ② 引进，以繁衍后代。  

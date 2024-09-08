@@ -1774,6 +1774,7 @@
 1. 【[燕麦草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_moh_co.md#燕麦草)】`in5 moh8 co3` <sup>[如东]</sup> 禾本科植物野燕麦的茎叶。  
 1. 【[燕鸥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_ngeu.md#燕鸥)】`in5 ngeu1` <sup>[如东]</sup> 鸥科动物燕鸥，体长约20毫米。全身羽毛白色，夏天头顶黑色，冬天则转白色而有黑纹。嘴细长而直翼、尾均像燕子。常三五成群的在海岸和内陆河流等处活动，飞行快捷。能低空俯视水面觅食。喜吃小鱼。  
 1. 【[燕子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_zz.md#燕子)】`in5 zz` <sup>[如东]</sup> 燕科动物燕，通称家燕。体长约15厘米。翅膀尖而长。体羽金属蓝黑色。下颔羽暗红色。眼暗红色。嘴褐色。脚黑褐色。尾羽分开像剪刀。生活在村落中。夏季飞回来产卵繁殖秋季飞回南方越冬。捕食昆虫，对农业有益。  
+1. 【[见用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_ion.md#见用)】`in5 ion6` <sup>[泰州方言词典2]</sup> ① 器物耐用，可以用很长时间：买水铫就要买不锈钢的，铝的不～。 ② 物价便宜，使得同样的钞票可以购买更多东西：现在东西便宜得很，钱真的～咖唻。  
 1. 【[餍食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_sheh.md#餍食)】`in5 sheh8` <sup>[如东]</sup> 不想吃，不愿吃：东东有些～。  
 1. 【[谚头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_teu.md#谚头)】`in6 teu` <sup>[兴化]</sup> 谚语：这些话全是～上有的。  
 1. 【[验当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_dan.md#验当)】`in6 dan1` <sup>[如皋]</sup> 反复衡量、估量、比划：他学习认真，画好图总要反复～。  

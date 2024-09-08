@@ -17,11 +17,13 @@
 1. 【[拉大锯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_da_jy.md#拉大锯)】`la1 da6 jy5` <sup>[兴化]</sup> 两人一来一往地推拉着大锯解木头。  
 1. 【[拉大网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_da_van.md#拉大网)】`la1 da6 van3` <sup>[兴化]</sup> 一种捕鱼方法。  
 1. 【[拉倒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_do.md#拉倒)】`la1 do3` <sup>\[如东\]\[东台\]</sup>算了。作罢：不来～。<sup>\[东台\]</sup>  
+1. 【[拉倒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_do.md#拉倒)】`la1 do3` <sup>[泰州方言词典2]</sup> ① 罢了，表示“不再说了”：你～把，不要在这块再吹唻，家去吃倒头饭去吧。 ② 算了，表示“不再计较”：给我个面子，这件事就～唻。 ③ 完蛋，表示“不再存在”：照你这吖说，他读研究生的事情是～唻。  
 1. 【[拉肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_dv_zz.md#拉肚子)】`la1 dv3 zz` <sup>[东台]</sup> 腹泻  
 1. 【[拉寡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_gua.md#拉寡)】`la1 gua` ① <sup>\[东台\]</sup>拉家常话。 ② <sup>\[兴化\]</sup>谈家常：……她乘空跑出来，想再去同左邻右舍～。（马春阳《访亲》）<sup>\[兴化\]</sup>  
 1. 【[拉瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_gua.md#拉瓜)】`la1 gua` ① <sup>\[如东\]</sup>不整齐。（原文作“拉刮”，音不合）：身上的衣裳～啊，多难相吖。<sup>\[如东\]</sup> ② <sup>\[如皋\]</sup>不利索、不整饰：张家嫲嫲儿～死啊，整天蓬头撒兮、拖鞋𨃚脚的，还到处跑。<sup>\[如皋\]</sup> ③ <sup>\[东台\]</sup>（形容词）不干净，凌乱，他不会收拾，蛮～的。 ④ <sup>\[兴化\]</sup>不洁：～邋遢。<sup>\[兴化\]</sup>  
 1. 【[拉瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_gua.md#拉瓜)】`la1 gua1` <sup>[兴化]</sup> 南瓜的种，果实圆筒形，结头稍晚，淀粉含量亦较高。  
 1. 【[拉寡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_gua.md#拉寡)】`la1 gua3` ① <sup>\[如东\]</sup>闲谈。 ② <sup>\[如皋\]</sup>闲扯，漫无目标地聊天，即便不相识也没关系。  
+1. 【[拉和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_hu.md#拉和)】`la1 hu2` <sup>[泰州方言词典2]</sup> 与因积怨而不相往来的交恶双方都很友好，并有一定影响的第三方出面，通过宴请之类形式，化解交恶双方积怨，恢复正常交往：这两个人原来话都不说，后来支书出来～，现在关系还算说得过去。  
 1. 【[拉机](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ji.md#拉机)】`la1 ji1` 拉链。  
 1. 【[拉开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_kae.md#拉开)】`la1 kae1` <sup>[如东]</sup> 移开，分开：你把桌子～。  
 1. 【[拉拉扯扯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_la_cha_cha.md#拉拉扯扯)】`la1 la1 cha3 cha3` <sup>[如东]</sup> 纠缠不清：不要跟他俫～的。  
@@ -41,6 +43,7 @@
 1. 【[拉桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_qio.md#拉桥)】`la1 qio2` <sup>[如皋]</sup> 为船过闸桥而拆卸桥面并收取管理费的过程。  
 1. 【[拉桥班](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_qio_baen.md#拉桥班)】`la1 qio2 baen1` <sup>[如皋]</sup> 旧时管理闸桥拆装的一班人。  
 1. 【[拉劝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_qiun.md#拉劝)】`la1 qiun5` ① 拉架，连拉带劝。 ② <sup>\[如东\]</sup>拉开，劝解。 ③ <sup>\[如皋\]</sup>连拉带劝。以平息争吵。 ④ <sup>\[东台\]</sup>拉开并劝阻打架的双方。 ⑤ <sup>\[兴化\]</sup>调解、劝和。“拉”又读laeh8。  
+1. 【[拉劝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_qiun.md#拉劝)】`la1 qiun5` <sup>[泰州方言词典2]</sup> 对正在打架或者吵架的双方进行劝阻，使之停止打骂：看到他俫动起手来，老王赶紧上去～。  
 1. 【[拉<sub>儿</sub>兵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_r_bien.md#拉<sub>儿</sub>兵)】`la1 r bien1` <sup>[兴化]</sup> ① 旧指军容不整的兵油子。 ② （喻）衣履不整的人：他一天到晚拖鞋靸袜，蓬头垢面的，像个～。  
 1. 【[拉索](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_sah.md#拉索)】`la1 sah7` <sup>[泰县]</sup> 两条船在浅水滩上取鱼。  
 1. 【[拉生意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_shen_i.md#拉生意)】`la1 shen1 i` <sup>[如皋]</sup> 找生意。  
@@ -53,6 +56,7 @@
 1. 【[拉藤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ten.md#拉藤)】`la1 ten2` <sup>[如皋]</sup> 把瓜、豆等的枯老藤蔓拉掉以清茌口。  
 1. 【[拉兔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_tv.md#拉兔)】`la1 tv5` <sup>[兴化]</sup> 形容农履过于肥大，显得不整洁、不利索：看他拖拖撒撒的像个～。  
 1. 【[拉渡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_tv.md#拉渡)】`la1 tv6` <sup>[兴化]</sup> 设在人流较少的河流上的渡船，不用艄公，而在船两头用绳索连接两岸的小木桩，过渡者登舟后抽拉绳索，即将船曳向对岸。也称“缆渡”。  
+1. 【[拉渡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_tv.md#拉渡)】`la1 tv6` <sup>[泰州方言词典2]</sup> 旧时泰州下河地区偏僻渡口所设无艄公的渡船，渡船头、尾各有一绳，系于河的两岸木桩或者树干之上，行人上船以后抓住向后拉绳，渡船向前移动，到达对岸，以其渡船手“拉”过河，故名。  
 1. 【[拉弯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_vaen_zz.md#拉弯子)】`la1 vaen1 zz` <sup>[兴化]</sup> 调解、劝和。又说“圆弯子”。  
 1. 【[拉网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_van.md#拉网)】`la1 van3` ① <sup>\[如东\]</sup>一种捕鱼网具。长约1丈，高约5尺。网眼较小。网纲上装着竹竿，网袋口上装着锡砣。作业时，渔人用绳索拉着网纲在港汊里拖，把鱼虾兜进网袋。这种网具，称拉网。 ② <sup>\[如皋\]</sup>一种小渔网，一张网有许多小兜，用绳背动，沿河底兜鱼。 ③ <sup>\[如皋\]</sup>拉动渔网。  
 1. 【[拉线](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_xin.md#拉线)】`la1 xin5` <sup>[如东]</sup> 在两物之间拉一根绳索，或测量长度，或度量水平。  

@@ -9,8 +9,13 @@
 1. 【[嗳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/ae.md#嗳)】`ae2` <sup>[如皋]</sup> 叹词。警示声。  
 1. 【[嗳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/ae.md#嗳)】`ae3` <sup>[如皋]</sup> 叹词。否定声。  
 1. 【[嗳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/ae.md#嗳)】`ae5` ① <sup>\[如皋\]</sup>叹词。应答声、提示声、呼叫声。 ② <sup>\[泰州\]</sup>应答声。 ③ <sup>\[泰州\]</sup>表示感叹。 ④ <sup>\[泰州\]</sup>表示提醒对方注意：～，你来下子。<sup>\[泰州\]</sup>  
+1. 【[啊啐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/ah_cuei.md#啊啐)】`ah7 cuei5` <sup>[泰州方言词典2]</sup> ① 人咳嗽打喷嚏的声音。 ② 模仿咳嗽打喷嚏的声音，表示鄙弃、不屑或者愤怒：（甲）听说你俫单位福利不丑啊。（乙）～，你不要听人瞎说，过年就发咖这点点儿东西。  
 1. 【[阿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/ah.md#阿)】`ah7` <sup>[兴化]</sup> 前缀。用在排行、人名的前边：～三；～四；～庆；～根。  
+1. 【[阿曾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/ah_cen.md#阿曾)】`ah7 cen2` <sup>[泰州方言词典2]</sup> 泰州方言，有没有，表示询问：东西你～送吖去唻？｜你～买股票啊？｜他～调家来啊？  
+1. 【[阿好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/ah_ho.md#阿好)】`ah7 ho3` <sup>[泰州方言词典2]</sup> ① 泰州方言。 ② 好不好，行不行，表示征询：你晚上带伢儿去看电影，～？ ③ 能不能，表示征询：你～带伢儿一起上南京去啊？  
+1. 【[阿有](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/ah_ieu.md#阿有)】`ah7 ieu3` <sup>[泰州方言词典2]</sup> 有没有，表示疑问：你晚上～工夫来吃酒？｜你～有钱买房子？  
 1. 【[阿猫阿狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/ah_mo_ah_geu.md#阿猫阿狗)】`ah7 mo2 ah7 geu3` <sup>[兴化]</sup> 泛指某些人（含轻蔑意）：“这地方叫上海滩，我们这些～也能当老爷了。”（毕飞宇《上海往事》）｜“这问信的倒也奇怪，～有称呼，怎么一个‘哙’字当称呼？”（《四杰传》三）  
+1. 【[阿是](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/ah_shr.md#阿是)】`ah7 shr6` <sup>[泰州方言词典2]</sup> 是不是：他～你家老大啊？｜东西～你拿的啊？  
 1. 【[咉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/an.md#咉)】`an` <sup>[如皋]</sup> 以声调不同表示应答、疑问、提醒等。  
 1. 【[咉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/an.md#咉)】`an1` <sup>[泰州]</sup> ① 应答声。 ② 一直说不满的话：单位上年终奖发咖晏吖几天，一个个的就～吖不得命。｜你不要再～唻，你家爸爸答应同你买房子唻。  
 1. 【[咉汪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/an_van.md#咉汪)】`an1 van1` <sup>[如皋]</sup> ① 表叹息：～！吃力死啊！ ② 表转折义：～，你就覅跑吧！通“嗯”。  
