@@ -170,11 +170,10 @@
 1. 【[霸剌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_laeh.md#霸剌)】`ba5 laeh` <sup>[东台]</sup> 霸道、凶狠、手辣：人要厚道，不能～。  
 1. 【[霸实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_sheh.md#霸实)】`ba5 sheh` ① <sup>\[如东\]</sup>结实：这只箩筐～。<sup>\[如东\]</sup> ② <sup>\[如皋\]</sup>形容用物工具结实牢固。 ③ <sup>\[东台\]</sup>结实。（多指用物器具）  
 1. 【[霸王请客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_van_qien_keh.md#霸王请客)】`ba5 van2 qien3 keh7` <sup>[东台]</sup> 强行请人到场，不让推辞。  
-1. 【[扳罾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_zen.md#扳罾)】`bae1 zen1` <sup>[泰州]</sup> 一种捕鱼方法，以木棍藿粗竹搭架子支罾，将罾放入河中，等鱼游经罾时，突然拉罾捕鱼：下午～弄吖百十斤鱼。  
 1. 【[𬥐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae.md#𬥐)】`bae1` <sup>[兴化]</sup> ① 父亲：～～。 ② 父亲的兄或弟：大～；二～；三～。 ③ 和父亲年岁、辈份相当的男性：张大～；王二～。  
 1. 【[𬥐𬥐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_bae.md#𬥐𬥐)】`bae1 bae` ① <sup>\[如皋\]</sup>父。如皋北乡称。 ② <sup>\[泰兴\]</sup>父亲的妹妹。 ③ <sup>\[泰兴\]</sup>泛指父亲的姊或妹。  
 1. 【[𬥐𬥐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_bae.md#𬥐𬥐)】`bae1 bae1, bae1 bae3` <sup>[东台]</sup> 爸爸的旧称。  
-1. 【[𬥐𬥐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_bae.md#𬥐𬥐)】`bae1 bae3` <sup>[泰州]</sup> 爸爸，父亲。  
+1. 【[𬥐𬥐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_bae.md#𬥐𬥐)】`bae1 bae1-3` <sup>[泰州]</sup> 爸爸，父亲。  
 1. 【[摆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae.md#摆)】`bae3` ① <sup>\[如东\]</sup>放。 ② <sup>\[如皋\]</sup>死人停放。 ③ <sup>\[如皋\]</sup>詈语。指睡。 ④ <sup>\[东台\]</sup>除一般释义外，特指停放尸体。故用此词须有所避讳。 ⑤ <sup>\[兴化\]</sup>死的隐语：他～下来连棺材也没得。<sup>\[兴化\]</sup>  
 1. 【[摆啊明吖说](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_a_mien_nga_shuh.md#摆啊明吖说)】`bae3 a mien2 nga shuh7` <sup>[东台]</sup> 开诚布公地说。  
 1. 【[摆不住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_beh_chv.md#摆不住)】`bae3 beh7 chv6` <sup>[如皋]</sup> 见“袒”。  
@@ -296,7 +295,6 @@
 1. 【[八脚头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_jiah_teu_r.md#八脚头<sub>儿</sub>)】`baeh7 jiah7 teu2 r` <sup>[兴化]</sup> 形容爱凑热闹的人：他是～，热闹地方少不了他。｜这婆娘～，脚散哩！（钱国怀《最后的族长》）  
 1. 【[八脚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_jiah_zz.md#八脚子)】`baeh7 jiah7 zz` <sup>[兴化]</sup> 螃蟹的隐语。  
 1. 【[八九不离十](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_jieu_beh_li.md#八九不离十)】`baeh7 jieu3 beh7 li2 sheh8` ① <sup>\[如皋\]</sup>来去不大、相差无几。 ② <sup>\[泰兴\]</sup>差不多，大体上相差无几：如今看来，他两个的亲事也～go。<sup>\[泰兴\]</sup>  
-1. 【[八折](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_jih.md#八折)】`baeh7 jih7` <sup>[泰州]</sup> ① 八成：打～，我俫就个人买一件。 ② 詈语，骂人智商低下，只有正常人的八折：这个小伙就是个～，你同他作气是丢自己架子。｜他这种～的人也能当干部的话，干部就真的不值钱唻。  
 1. 【[八面威风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_min_vei_fon.md#八面威风)】`baeh7 min6 vei1 fon1` <sup>[如东]</sup> ① 帆船能够航行八面风向：大将军（大樯）～。 ② 形容非常有权势：这个人～。  
 1. 【[八败命还怕个死来做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_pae_mien_hae_pa_gu_sz_lae_zu.md#八败命还怕个死来做)】`baeh7 pae mien6 hae2 pa5 gu sz3 lae2 zu5` <sup>[如皋]</sup> 只要辛勤劳动，就能战胜不好的命运。  
 1. 【[八败命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_pae_mien.md#八败命)】`baeh7 pae6 mien6` ① <sup>\[如东\]</sup>形容命运非常不好：她是一个～。<sup>\[如东\]</sup> ② <sup>\[东台\]</sup>迷信称败家的命。俗话有两种说法：：～就怕死做，即再坏的命也怕死做这个克星，苦干能改变不好的命运。<sup>\[东台\]</sup>｜～不怕死做，即苦命人，不要怕死做，定有好前程。<sup>\[东台\]</sup> ③ <sup>\[泰兴\]</sup>旧谓注定事事无成的命。乡人有“八败命不怕死来做”之说。  
@@ -328,6 +326,7 @@
 1. 【[八只眼<sub>儿</sub>烧鲜汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_zheh_ngaen_r_sho_xin_tan.md#八只眼<sub>儿</sub>烧鲜汤)】`baeh7 zheh7 ngaen3 r sho1 xin1 tan1` <sup>[如皋]</sup> 詈语。祭品六只眼，算上某人的两只眼计八只眼。骂某人是畜牲。  
 1. 【[八珍糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_zhen_go.md#八珍糕)】`baeh7 zhen1 go1` ① <sup>\[如皋\]</sup>旧时中药店制的含八位中药（其中有“肉蛆子”）的米粉糕乾品，以药纸包装。 ② <sup>\[兴化\]</sup>由糯米粉、砂糖和八味中药材做成的糕点，形似云片糕。传为清末兴化名医赵海仙所创。  
 1. 【[八折](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_zhih.md#八折)】`baeh7 zhih7` <sup>[兴化]</sup> 骂人低能：他是个～，三言两语就捱人绕住啊。  
+1. 【[八折](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_zhih.md#八折)】`baeh7 zhih7` <sup>[泰州]</sup> ① 八成：打～，我俫就个人买一件。 ② 詈语，骂人智商低下，只有正常人的八折：这个小伙就是个～，你同他作气是丢自己架子。｜他这种～的人也能当干部的话，干部就真的不值钱唻。  
 1. 【[扳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen.md#扳)】`baen1` ① <sup>\[如东\]</sup>使固定物体转动或改变方向：～闸。<sup>\[如东\]</sup> ② <sup>\[兴化\]</sup>争辩：他说话不在理，非要跟他～。<sup>\[兴化\]</sup> ③ <sup>\[兴化\]</sup>攀扯：“……老大你休快活，我们～你出来，只是恨你狠心情薄……”（《绿牡丹》四七）<sup>\[兴化\]</sup> ④ <sup>\[泰州\]</sup>用手抓住物体用力向下压或者向后拉压：你稍微轻吖点儿哉，不要把竹子～吖断吖。<sup>\[泰州\]</sup> ⑤ <sup>\[泰州\]</sup>扭转局势或者趋势：这件事要不是你帮忙，肯定～不过来。<sup>\[泰州\]</sup> ⑥ <sup>\[泰州\]</sup>争辩，辩驳：大人同你说这些话都是为你好的，你不要侭吖在这块～。<sup>\[泰州\]</sup>  
 1. 【[扳驳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_bah.md#扳驳)】`baen1 bah7` ① <sup>\[东台\]</sup>辩论：你的话到底对不对，我俫还要～一下子。<sup>\[东台\]</sup> ② <sup>\[兴化\]</sup>辩驳：别人说话，他总喜欢跟人家～。<sup>\[兴化\]</sup>｜“……他对我说个不了，我也不好～他……”（《广陵潮》八五）<sup>\[兴化\]</sup>  
 1. 【[扳驳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_bah.md#扳驳)】`baen1 bah7` <sup>[泰州]</sup> 找出理由驳斥别人的话：他说他的，你不睬他，侭吖同他～有甚的意思唦。  
@@ -351,7 +350,7 @@
 1. 【[扳头不拢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_teu_beh_lon.md#扳头不拢)】`baen1 teu2 beh7 lon3` ① <sup>\[东台\]</sup>别人不管怎么说，他都不理不睬：这小伙整天玩游戏机，大人批评他，他也～。<sup>\[东台\]</sup> ② <sup>\[兴化\]</sup>（喻）强项，不听劝告：他一声驴起来，任怎吖劝说，就是～。  
 1. 【[扳头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_teu_zz.md#扳头子)】`baen1 teu2 zz` <sup>[兴化]</sup> 从开始就用强力制服：从小就要～，不然等大啊就难管吖。  
 1. 【[扳鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_y.md#扳鱼)】`baen1 y2` <sup>[如皋]</sup> 用扳罾取鱼。  
-1. 【[扳罾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_zen.md#扳罾)】`baen1 zen1` ① <sup>\[如东\]</sup>一种捕鱼方法。把罾放入水中，用扳竿拉起来，鱼在网中，即可捕捉。 ② <sup>\[如皋\]</sup>用四根竹子支撑的方形渔网。 ③ <sup>\[东台\]</sup>用罾（一种方形鱼网）捕鱼：他在河口～，一年下来也有万把块的进项。<sup>\[东台\]</sup> ④ <sup>\[兴化\]</sup>将长竹竿做支架的大网（罾）放置河中捕鱼：河边柳荫下有一位老人在那里～捕鱼。  
+1. 【[扳罾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_zen.md#扳罾)】`baen1 zen1` ① <sup>\[如东\]</sup>一种捕鱼方法。把罾放入水中，用扳竿拉起来，鱼在网中，即可捕捉。 ② <sup>\[如皋\]</sup>用四根竹子支撑的方形渔网。 ③ <sup>\[东台\]</sup>用罾（一种方形鱼网）捕鱼：他在河口～，一年下来也有万把块的进项。<sup>\[东台\]</sup> ④ <sup>\[兴化\]</sup>将长竹竿做支架的大网（罾）放置河中捕鱼：河边柳荫下有一位老人在那里～捕鱼。<sup>\[兴化\]</sup> ⑤ <sup>\[泰州\]</sup>一种捕鱼方法，以木棍或粗竹搭架子支罾，将罾放入河中，等鱼游经罾时，突然拉罾捕鱼：下午～弄吖百十斤鱼。<sup>\[泰州\]</sup>  
 1. 【[攽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen.md#攽)】`baen1` <sup>[如东]</sup> 用手把东西分开或折断：～玉米。  
 1. 【[斑麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_ma.md#斑麻)】`baen1 ma2` <sup>[如东]</sup> 大戟科植物蓖麻。  
 1. 【[爿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen.md#爿)】`baen1` ① <sup>\[兴化\]</sup>量词，如皋东台均为阴去声：一～商店；一～工厂。<sup>\[兴化\]</sup> ② <sup>\[泰州\]</sup>量词，用于工厂、商店等：两～服装店。<sup>\[泰州\]</sup>  
@@ -1402,10 +1401,10 @@
 1. 【[柏油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_ieu.md#柏油)】`boh7 ieu2` <sup>[如东]</sup> 沥青。  
 1. 【[柏油路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_ieu_lv.md#柏油路)】`boh7 ieu2 lv6` <sup>[如东]</sup> 路面由沥青铺成的公路，称柏油路。  
 1. 【[柏油马路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_ieu_ma_lv.md#柏油马路)】`boh7 ieu2 ma3 lv6` <sup>[东台]</sup> 沥青路面的通称。  
-1. 【[白搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_daeh.md#白搭)】`boh7 daeh7` <sup>[泰州]</sup> ① 麻将、扑克牌中按规则可与其他牌相配对的牌：二筒是～，跟三条配头子，和唻。 ② 詈词，辱骂生活作风不正派的女性：这个女将是个～，不晓得到底有多少相好的。  
 1. 【[百虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_chon.md#百虫)】`boh7 chon2` <sup>[兴化]</sup> 各种害虫：春雪调～，冬雪杀～。  
 1. 【[百草霜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_co_shuan.md#百草霜)】`boh7 co3 shuan1` <sup>[如东]</sup> 杂草燃烧后附于锅底、灶膛或烟囱内的烟灰，入中药。  
 1. 【[百搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_daeh.md#百搭)】`boh7 daeh7` ① <sup>\[东台\]</sup>与任何人都能搭讪上的人（贬）：同“逢人搭”。<sup>\[东台\]</sup> ② <sup>\[兴化\]</sup>能和所有的牌搭配的扑克牌。 ③ <sup>\[兴化\]</sup>（喻）与什么人都能搭上关系的人：只要学鸟择木而栖，别做～逢人配就是了。（马春阳《月朗和她的娘舅们》）<sup>\[兴化\]</sup>  
+1. 【[百搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_daeh.md#百搭)】`boh7 daeh7` <sup>[泰州]</sup> ① 麻将、扑克牌中按规则可与其他牌相配对的牌：二筒是～，跟三条配头子，和唻。 ② 詈词，辱骂生活作风不正派的女性：这个女将是个～，不晓得到底有多少相好的。  
 1. 【[百二百三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_er_boh_saen.md#百二百三)】`boh7 er6 boh7 saen1` <sup>[如皋]</sup> 合为二百五。  
 1. 【[百翻百调](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_faen_boh_dio.md#百翻百调)】`boh7 faen1 boh7 dio5` <sup>[东台]</sup> 与“十翻十调”近义，程度上更夸张。  
 1. 【[百分之百](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_fen_zhr_boh.md#百分之百)】`boh7 fen1 zhr1 boh7` <sup>[如东]</sup> 全部，肯定：只要王二出面，那是～的成功。  
@@ -1456,7 +1455,6 @@
 1. 【[绷簧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_huan.md#绷簧)】`bon1 huan2` ① <sup>\[兴化\]</sup>弹簧。 ② <sup>\[泰县\]</sup>弹簧。  
 1. 【[绷面子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_min_zz.md#绷面子)】`bon1 min6 zz` <sup>[如东]</sup> 下雨之后，土层表面板结。  
 1. 【[绷吖脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_nga_lin.md#绷吖脸)】`bon1 nga lin3` <sup>[如东]</sup> 板着脸。  
-1. 【[绷硬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_ngen.md#绷硬)】`bon1 ngen6` <sup>[兴化]</sup> 干硬：湿衣裳冻得～的。｜年糕晒得～的。  
 1. 【[绷皮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_pi_zz.md#绷皮子)】`bon1 pi2 zz` <sup>[如皋]</sup> 脸上缺少滋润而难受。  
 1. 【[绷掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_tio.md#绷掉)】`bon1 tio` <sup>[如皋]</sup> ① 绷裂：裤子捱～啊。 ② 谈判失败：宁可谈吖～，不可谈吖松掉。  
 1. 【[绷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_zz.md#绷子)】`bon1 zz` ① <sup>\[如东\]</sup>工具。圆形或方形，竹制或木制，用来绷紧布绸绣花。 ② <sup>\[兴化\]</sup>棕、藤等在木框上编成的床面：～床；藤～。<sup>\[兴化\]</sup> ③ <sup>\[兴化\]</sup>结成环形的线，二人用手交替，结成不同图案：解～（翻绳游戏）。<sup>\[兴化\]</sup>  
@@ -1467,20 +1465,21 @@
 1. 【[䙀住咖做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_chuh_ga_zu.md#䙀住咖做)】`bon3 chuh ga zu5` <sup>[如皋]</sup> 情势所逼，非做不可。  
 1. 【[䙀得扎实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_deh_zhaeh_sheh.md#䙀得扎实)】`bon3 deh zhaeh7 sheh` <sup>[如皋]</sup> ① 钱物十分短缺。 ② 僵持得厉害。  
 1. 【[䙀的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_dii.md#䙀的)】`bon3 dii` <sup>[如皋]</sup> 只好这样，只得，非得：他是我的儿子，我～要照应他。  
+1. 【[䙀干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_gun.md#䙀干)】`bon3 gun1` <sup>[泰州]</sup> 物体非常干燥的样子：今儿子太阳好，才洗的衣裳，晒啊一刻儿就～的唻。｜粉面晒得～的，灌吖坛肚里去。  
 1. 【[䙀干的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_gun_dii.md#䙀干的)】`bon3 gun1 dii` <sup>[如皋]</sup> 很干燥。  
 1. 【[䙀叫叫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_jio_jio_r.md#䙀叫叫<sub>儿</sub>)】`bon3 jio5 jio5 r` <sup>[如皋]</sup> 见“䙀住咖”。  
 1. 【[䙀脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_lin.md#䙀脸)】`bon3 lin3` <sup>[如皋]</sup> ① 板着脸。 ② 脸上缺少滋润而难受。  
 1. 【[䙀硬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_ngen.md#䙀硬)】`bon3 ngen6` <sup>[东台]</sup> 形容坚硬结实。  
+1. 【[䙀硬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_ngen.md#䙀硬)】`bon3 ngen6` <sup>[兴化]</sup> 干硬：湿衣裳冻得～的。｜年糕晒得～的。  
+1. 【[䙀硬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_ngen.md#䙀硬)】`bon3 ngen6` <sup>[泰州]</sup> 很硬：这个咸鱼晒得～的，能摆好长时间。  
 1. 【[䙀硬的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_ngen_dii.md#䙀硬的)】`bon3 ngen6 dii` <sup>[如皋]</sup> 很硬，很结实。  
 1. 【[䙀脆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_qy.md#䙀脆)】`bon3 qy5` <sup>[东台]</sup> 非常脆。（脆相对于韧）  
+1. 【[䙀脆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_qy.md#䙀脆)】`bon3 qy5` <sup>[泰州]</sup> 爆裂之脆，某些食物坚韧而易断的口感：麻花儿煠得～的。｜～的杨花萝卜  
 1. 【[䙀脆的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_qy_dii.md#䙀脆的)】`bon3 qy5 dii` <sup>[如皋]</sup> 很脆。  
 1. 【[䙀人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_ren_zz.md#䙀人子)】`bon3 ren zz` <sup>[如皋]</sup> 脸上缺少滋润而难受。  
 1. 【[䙀定吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_tien_nga.md#䙀定吖)】`bon3 tien6 nga` <sup>[如皋]</sup> 见“䙀的”。  
 1. 【[䙀定吖做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_tien_nga_zu.md#䙀定吖做)】`bon3 tien6 nga zu5` <sup>[如皋]</sup> 见“䙀住咖做”。  
 1. 【[䙀胀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_zhan.md#䙀胀)】`bon3 zhan5` <sup>[如皋]</sup> 一定发胀。  
-1. 【[绷干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_gun.md#绷干)】`bon3 gun1` <sup>[泰州]</sup> 物体非常干燥的样子：今儿子太阳好，才洗的衣裳，晒啊一刻儿就～的唻。｜粉面晒得～的，灌吖坛肚里去。  
-1. 【[绷硬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_ngen.md#绷硬)】`bon3 ngen6` <sup>[泰州]</sup> 很硬：这个咸鱼晒得～的，能摆好长时间。  
-1. 【[迸脆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_qy.md#迸脆)】`bon3 qy5` <sup>[泰州]</sup> 爆裂之脆，某些食物坚韧而易断的口感：麻花儿煠得～的。｜～的杨花萝卜  
 1. 【[蹦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon.md#蹦)】`bon5` <sup>[如东]</sup> 两脚并拢，向前跳：这条河不宽，我俫～过去。  
 1. 【[蹦瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_gua.md#蹦瓜)】`bon5 gua1` <sup>[兴化]</sup> 香瓜。  
 1. 【[迸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon.md#迸)】`bon5` <sup>[泰州]</sup> ① 喷射,溅射：黄豆滨掉啊，地下迸得块块是的。 ② 在人不知晓的情况下，突然从某物体中冒出、跳出：你这小伙也不啧声，冒里冒失的从旁边迸出来，把人吓咖一跳！  

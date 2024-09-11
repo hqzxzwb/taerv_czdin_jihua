@@ -913,8 +913,7 @@
 1. 【[㵾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen.md#㵾)】`chen6` <sup>\[如皋\]\[兴化\]\[泰州\]</sup>\[训\]使（人）觉冷：～人｜冰～人｜手伸吖冻水里，骨头～得疼。<sup>\[如皋\]</sup>｜被窠里蛮～人的。<sup>\[兴化\]</sup>｜这盆水冰～人的。<sup>\[兴化\]</sup>｜九里天下河去洗被单，还把人～煞唻。<sup>\[泰州\]</sup>  
 1. 【[㵾牙齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_ia_chr.md#㵾牙齿)】`chen6 ia2 chr3` <sup>[东台]</sup> 食物偏冷，牙齿咀嚼时有冷的感觉。  
 1. 【[㵾人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_ren_zz.md#㵾人子)】`chen6 ren zz` <sup>[如皋]</sup> 接触冷物的感觉：冷天，手摸咖石头上觉察～。  
-1. 【[㵾人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_ren.md#㵾人)】`chen6 ren2` <sup>\[东台\]\[泰县\]</sup>物体温度低，使人触及后有冷刺激的感觉\[泰县：（chen6 ren）\]：你手太冷，～吖。<sup>\[东台\]</sup>  
-1. 【[净人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_ren.md#净人)】`chen6 ren` <sup>[泰州]</sup> 严冬季节人的皮肤突然接触金属或者冰水等时寒气渗入体内的感觉：晚上睡觉的时候，被单里头～的话，你就加个汤焐子。｜这吖冷的天，水再冷～也要洗。  
+1. 【[㵾人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_ren.md#㵾人)】`chen6 ren2` <sup>\[东台\]\[泰县\]\[泰州\]</sup>物体温度低，使人触及后有冷刺激的感觉\[泰县：（chen6 ren）\]\[泰州：（chen6 ren）\]：你手太冷，～吖。<sup>\[东台\]</sup>｜晚上睡觉的时候，被单里头～的话，你就加个汤焐子。<sup>\[泰州\]</sup>｜这吖冷的天，水再冷～也要洗。<sup>\[泰州\]</sup>  
 1. 【[阵场雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_chan_y.md#阵场雨)】`chen6 chan y3` <sup>[如皋]</sup> 见“阵头雨”。  
 1. 【[阵场雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_chan_y.md#阵场雨)】`chen6 chan2 y3` ① <sup>\[如东\]</sup>雷阵雨。 ② <sup>\[东台\]</sup>夏秋季节短暂的骤雨。  
 1. 【[阵阵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_chen.md#阵阵)】`chen6 chen6` <sup>[如皋]</sup> 见“阵头”。  
@@ -1967,7 +1966,7 @@
 1. 【[促里促狭的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_lii_coh_kuaeh_dii.md#促里促狭的)】`coh7 lii coh7 kuaeh dii` <sup>[如皋]</sup> 见“促狭”。  
 1. 【[促气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_qi.md#促气)】`coh7 qi5` ① <sup>\[如皋\]</sup>哭时脉冲式吸气状。 ② <sup>\[泰县\]</sup>吃力不见成效。  
 1. 【[促寿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_sheu.md#促寿)】`coh7 sheu6` <sup>[兴化]</sup> 减寿、短命之人：细～子，怎吖做这种畜生事嗲？  
-1. 【[促㞞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_son.md#促㞞)】`coh7 son2` <sup>[泰州]</sup> 詈词，骂搞恶作剧捉弄人的人：这个～说的话都是些药子，他的话不能听。  
+1. 【[促𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_son.md#促𪨊)】`coh7 son2` <sup>[泰州]</sup> 詈词，骂搞恶作剧捉弄人的人：这个～说的话都是些药子，他的话不能听。  
 1. 【[簇光新](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_guan_xien.md#簇光新)】`coh7 guan1 xien1` <sup>[如东]</sup> 非常新：这件衣服～。  
 1. 【[簇新](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_xien.md#簇新)】`coh7 xien1` <sup>[泰县]</sup> 很新。  
 1. 【[簇崭新](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_zhaen_xien.md#簇崭新)】`coh7 zhaen3 xien1` ① <sup>\[如东\]</sup>极新：这部车子～。<sup>\[如东\]</sup> ② <sup>\[如皋\]</sup>状全新。 ③ <sup>\[东台\]</sup>极新；全新：这车子～。<sup>\[东台\]</sup> ④ <sup>\[兴化\]</sup>全新：新房里布置啊～的家具，床上铺啊～的被褥。口语也说“簇崭儿”。<sup>\[兴化\]</sup> ⑤ <sup>\[泰县\]</sup>很新：～的衣裳。  
@@ -2120,7 +2119,7 @@
 1. 【[寸金糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_jien_tan.md#寸金糖)】`cuen5 jien1 tan2` ① <sup>\[如皋\]</sup>用糖稀做成的糖棍。其内包桂花糖、芝麻屑儿，外裹芝麻，色泽金黄，长约寸许。 ② <sup>\[东台\]</sup>一种糖果，寸把长，外滚芝麻。 ③ <sup>\[兴化\]</sup>由饴糖做成的小棍，内包砂糖、芝麻屑等，外沾艺麻，长寸许，酥甜可口。  
 1. 【[寸麦吃尺水，尺麦怕寸水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_moh_qieh_cheh.md#寸麦吃尺水，尺麦怕寸水)】`cuen5 moh8 qieh7 cheh7 shuei3 cheh7 moh8 pa5 cuen5 shuei3` <sup>[泰兴]</sup> 农谚。谓麦苗小的时候不怕潮湿，一尺多高的时候怕受涝渍。  
 1. 【[𧺘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen.md#𧺘)】`cuen5` ① <sup>\[如皋\]</sup>作动词，表探摸、探步：肚子肚里～到一个硬块<sup>\[如皋\]</sup>｜他走路～吖～的。<sup>\[如皋\]</sup> ② <sup>\[兴化\]</sup>探索、探测：（黑夜里）皮五辣子～着步子往前走，两手平起来向前摸着……（《皮五辣子》二）<sup>\[兴化\]</sup>｜拿篙子～～前边有多深。<sup>\[兴化\]</sup>｜～鸡屁股，看多晚能生蛋。<sup>\[兴化\]</sup> ③ <sup>\[兴化\]</sup>轻手轻脚地：（吴大郎）不敢惊动他，轻松地脱了衣服，吹熄了灯，～（衬）进被窝里来。（《初刻》二）<sup>\[兴化\]</sup> ④ <sup>\[东台\]</sup>小心慢走、边走边试探。东台词典作“夋”，《说文·夂部》：“夋，行夋夋也，一曰倨也。从夂，允声。七伦切。”反切不合：前头一段路不平，请你小心点儿，～吖脚走。<sup>\[东台\]</sup> ⑤ <sup>\[泰县\]</sup>试探：用脚～～。<sup>\[泰县\]</sup> ⑥ <sup>\[泰州\]</sup>试探着进：（吴大郎）轻轻的脱了衣服，吹息了灯，衬进被窝里来，滴珠叹了一口气，缩做一团。（《拍案惊奇》）<sup>\[泰州\]</sup>｜你弄根树枝儿慢慢～进去，望吖这个洞里哿有螃蟹？<sup>\[泰州\]</sup> ⑦ <sup>\[泰州\]</sup>试探着走：皮五辣子寸着步子往前走，两手平起来向前摸着，嘴里叽咕着：“伸手不见掌，听到鬼抓痒。怎么这么黑的？’……”（《皮五辣子》）<sup>\[泰州\]</sup>｜天太黑咖唻，你下台阶时脚底下要～住点儿走！<sup>\[泰州\]</sup>  
-1. 【[撮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuh.md#撮)】`cuh7` ① <sup>\[如东\]</sup>举，托：你把米箩～上肩。<sup>\[如东\]</sup> ② <sup>\[东台\]</sup>用力向上猛一托：帮我把这一箩稻子～上肩。<sup>\[东台\]</sup> ③ <sup>\[兴化\]</sup>用手或工具将细碎的东西聚拢：把场上小麦～起来。<sup>\[兴化\]</sup> ④ <sup>\[兴化\]</sup>量词：一～子芝麻<sup>\[兴化\]</sup>｜一～盐。<sup>\[兴化\]</sup> ⑤ <sup>\[兴化\]</sup>帮人把重物搭上肩：～笆斗<sup>\[兴化\]</sup>｜一～就上肩。<sup>\[兴化\]</sup> ⑥ <sup>\[泰州\]</sup>一人或者多人用力以手托起人或物：曹操得命，西北而走，至江岸，众人撮曹公上马。(《三国志平话》)<sup>\[泰州\]</sup>｜哥哥，不消商量，我们到那没梆铃，不防卫处，撮着师父爬过墙去罢。（《西游记》）<sup>\[泰州\]</sup>｜这袋米有一百多斤，你帮他～上肩，把它扛家去！<sup>\[泰州\]</sup> ⑦ <sup>\[泰州\]</sup>以手或者手持工具将碎散的东西聚拢以后装进簸箕：原来那里两扇石门被火气化成灰烬，门里边有几个小妖，正然扫地撮灰。（《西游记》）<sup>\[泰州\]</sup>｜（女子）在那枯树下撮黄叶、摘枯枝为薪。（《东度记》）<sup>\[泰州\]</sup>｜（春梅）走到前边，撮了一筐草，到印子舖门首叫门。（《金瓶梅词话》）<sup>\[泰州\]</sup>｜你去拿个畚斗儿把地下的灰～掉。<sup>\[泰州\]</sup>  
+1. 【[撮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuh.md#撮)】`cuh7` ① <sup>\[如东\]</sup>举，托：你把米箩～上肩。<sup>\[如东\]</sup> ② <sup>\[东台\]</sup>用力向上猛一托：帮我把这一箩稻子～上肩。<sup>\[东台\]</sup> ③ <sup>\[兴化\]\[泰州\]</sup>用手或工具将细碎的东西聚拢：把场上小麦～起来。<sup>\[兴化\]</sup>｜原来那里两扇石门被火气化成灰烬，门里边有几个小妖，正然扫地撮灰。（《西游记》）<sup>\[泰州\]</sup>｜（女子）在那枯树下～黄叶、摘枯枝为薪。（《东度记》）<sup>\[泰州\]</sup>｜（春梅）走到前边，～了一筐草，到印子舖门首叫门。（《金瓶梅词话》）<sup>\[泰州\]</sup>｜你去拿个畚斗儿把地下的灰～掉。<sup>\[泰州\]</sup> ④ <sup>\[兴化\]</sup>量词：一～子芝麻<sup>\[兴化\]</sup>｜一～盐。<sup>\[兴化\]</sup> ⑤ <sup>\[兴化\]</sup>帮人把重物搭上肩：～笆斗<sup>\[兴化\]</sup>｜一～就上肩。<sup>\[兴化\]</sup> ⑥ <sup>\[泰州\]</sup>一人或者多人用力以手托起人或物：曹操得命，西北而走，至江岸，众人撮曹公上马。(《三国志平话》)<sup>\[泰州\]</sup>｜哥哥，不消商量，我们到那没梆铃，不防卫处，撮着师父爬过墙去罢。（《西游记》）<sup>\[泰州\]</sup>｜这袋米有一百多斤，你帮他～上肩，把它扛家去！<sup>\[泰州\]</sup>  
 1. 【[撮撮忙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuh_cuh_man.md#撮撮忙)】`cuh7 cuh7 man2` ① <sup>\[如东\]</sup>帮帮忙：我忙不过来，请你～。<sup>\[如东\]</sup> ② <sup>\[东台\]</sup>帮帮忙：你活技多，我来～。<sup>\[东台\]</sup>  
 1. 【[撮撮手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuh_cuh_sheu.md#撮撮手)】`cuh7 cuh7 sheu3` <sup>[如东]</sup> 帮帮忙：我很忙，请你～。  
 1. 【[撮角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuh_gah.md#撮角)】`cuh7 gah7` <sup>[东台]</sup> 插角：飞檐～。  
@@ -2129,7 +2128,7 @@
 1. 【[撮合](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuh_huh.md#撮合)】`cuh7 huh8` <sup>[东台]</sup> 撮，使其聚合在一起。～，多指促成男女双方相亲相爱。  
 1. 【[撮箕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuh_ji.md#撮箕)】`cuh7 ji1` <sup>[如东]</sup> 小型畚箕，多用竹篾编成，精致。用于撮取粮食等物资。  
 1. 【[撮忙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuh_man.md#撮忙)】`cuh7 man2` ① <sup>\[如皋\]</sup>帮忙 ② <sup>\[兴化\]</sup>帮忙：一家有事，大家来～。<sup>\[兴化\]</sup> ③ <sup>\[兴化\]</sup>旧时专给操办红白大事的人家跑腿、帮忙的人：～的。也作“跑忙”“串忙”。<sup>\[兴化\]</sup>  
-1. 【[襊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuh.md#襊)】`cuh7` <sup>[泰州]</sup> ① 用手将平整的布折成褶子（再用针缝，以便提高缝的速度）：你先把布～咖子再用针缝。 ② 又指因为汗水或者其他因素致使衣服形成褶子：你把衣服顿一下，这格局～咖身上哿难过啊。  
+1. 【[襊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuh.md#襊)】`cuh7` <sup>[泰州]</sup> ① 用手将平整的布折成褶子（再用针缝，以便提高缝的速度）：你先把布～咖子再用针缝。 ② 又指因为汗水或者其他因素致使衣服形成褶子：你把衣服扽下子，这格局～咖身上哿难过啊。  
 1. 【[撮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuh.md#撮)】`cuh8` <sup>[泰县]</sup> 抬举：他当干部，硬是靠人～上去的。  
 1. 【[撮住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuh_chv.md#撮住)】`cuh8 chv` <sup>[泰县]</sup> 施展不开、拥挤：：这地方有点儿～，不好做东西。  
 1. 【[撮撮忙<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuh_cuh_man_r.md#撮撮忙<sub>儿</sub>)】`cuh8 cuh8 man2 r` <sup>[泰县]</sup> 帮忙。  
@@ -2229,7 +2228,7 @@
 1. 【[呲𠺟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_kv.md#呲𠺟)】`cz1 kv` <sup>[如皋]</sup> 象声词。如笑声、连鞋涉水声。  
 1. 【[呲𠺟呲𠺟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_kv_cz_kv.md#呲𠺟呲𠺟)】`cz1 kv cz1 kv` <sup>[如皋]</sup> 见“呲𠺟”。  
 1. 【[呲里不剌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_lii_beh_laeh.md#呲里不剌)】`cz1 lii beh7 laeh8` <sup>[兴化]</sup> 形容烫人：烫得～的。“不剌”元曲中常见之，是一种衬字，多用在词后，有加强语气的作用。  
-1. 【[粢饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_faen.md#粢饭)】`cz1 faen6` <sup>[泰州]</sup> 用蒸熟的糯米做的饭团，长作早饭。  
+1. 【[粢饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_faen.md#粢饭)】`cz1 faen6` <sup>[泰州]</sup> 用蒸熟的糯米做的饭团，常作早饭。  
 1. 【[雌黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_huan.md#雌黄)】`cz1 huan2` <sup>[东台]</sup> 原指矿物质，橙黄色，可做原料，古时用来涂改文字：信口～（指乱加评论。）  
 1. 【[雌冒雄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_mo_ion.md#雌冒雄)】`cz1 mo ion2` 形容人不男不女  
 1. 【[龇牙咧嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_nga_lae_zuei.md#龇牙咧嘴)】`cz1 nga2 lae3 zuei3` <sup>[如东]</sup> ① 凶狠的样子：你看她那个～样子。 ② 疼痛难忍的样子：王明肚子疼吖～的。  
