@@ -60,7 +60,7 @@
 1. 【[大大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_tae.md#大大)】`tae3 tae3` <sup>[泰县]</sup> 愉快满意  
 1. 【[奤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#奤)】`tae3` ① <sup>\[兴化\]</sup>肢体张开坐或倚：身子～下来啊。<sup>\[兴化\]</sup> ② <sup>\[泰州\]</sup>肥胖的人脸部粗大样子：他家新妇坐啊个月子，脸上养吖～开来啊。<sup>\[泰州\]</sup>  
 1. 【[太公](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_gon.md#太公)】`tae5 gon1` ① <sup>\[如皋\]</sup>指称丈夫的祖父。 ② <sup>\[兴化\]</sup>曾祖父：谚曰：有理打得～。通常称“太爷”。<sup>\[兴化\]</sup>  
-1. 【[太阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian.md#太阳)】`tae5 ian` ① 太阳 ② <sup>\[如东\]</sup>银河系的恒星之一，是一炽热的气体球，体积比地球大130万倍，质量是地球的33400倍，表面温度约6000℃，内部温度约15000部经常不断地进行原子核反应而产生大量的热能。太阳是太阳系的中心天体，距地球约1亿五千万公里。地球和其他行星都绕着它旋转并且从它得到光和热。 ③ <sup>\[如东\]</sup>太阳光：今朝～大。<sup>\[如东\]</sup>  
+1. 【[太阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian.md#太阳)】`tae5 ian` 太阳  
 1. 【[太阳暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_bo.md#太阳暴)】`tae5 ian bo5` <sup>[如皋]</sup> 日照长，阳光强烈，多指夏季。  
 1. 【[太阳铲土](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_chaen_tv.md#太阳铲土)】`tae5 ian chaen3 tv3` ① <sup>\[如皋\]</sup>见“太阳平土”。 ② <sup>\[如东\]</sup>太阳开始落山。  
 1. 【[太阳打影](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_da_ien.md#太阳打影)】`tae5 ian da3 ien3` <sup>[如东]</sup> 太阳刚刚出来。  
