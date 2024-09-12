@@ -30,7 +30,7 @@
 1. 【[台基](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ji.md#台基)】`tae2 ji1` <sup>[兴化]</sup> 旧时供婚外男女幽会或私娼卖淫的场所，上～｜（她）有时也出外卖淫，所有城外许多～，大约没有个不见姚氏踪迹。（《广陵潮》六九）  
 1. 【[台面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_min.md#台面)】`tae2 min6` ① <sup>\[如皋\]</sup>正式的、严肃的场合。 ② <sup>\[兴化\]</sup>桌面。 ③ <sup>\[兴化\]</sup>公开的或交际应酬的场合：说话要捧得上～。<sup>\[兴化\]</sup>｜你也买件把新衣壮壮～。<sup>\[兴化\]</sup> ④ <sup>\[兴化\]</sup>筵席间：见面之后，留吃夜饭；～上只有他郎舅、叔侄三个人说的话……（《官场现形记》二）<sup>\[兴化\]</sup>  
 1. 【[台鸭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ngaeh.md#台鸭)】`tae2 ngaeh7` <sup>\[如皋\]\[东台\]\[兴化\]\[泰县\]</sup>一种体型肥大的鸭子。有时用于比喻肥胖者：养得像个～。<sup>\[如皋\]</sup>｜她胖吖像个～。<sup>\[东台\]</sup>｜她胖得像个～。<sup>\[兴化\]</sup>  
-1. 【[台盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_pun.md#台盘)】`tae2 pun2` ① <sup>\[如皋\]</sup>比喻正式场合：他说的话句句搬得上～。<sup>\[如皋\]</sup> ② <sup>\[东台\]</sup>指正式场合：捧不上～。<sup>\[东台\]</sup> ③ <sup>\[兴化\]</sup>应酬交际的场合：妻兄上不得～，就在房里吃吧！<sup>\[兴化\]</sup>｜“……况且既没有好衣服穿，自然上不了～……”（《老残游记》二四）<sup>\[兴化\]</sup>  
+1. 【[台盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_pun.md#台盘)】`tae2 pun2` ① <sup>\[如皋\]\[东台\]</sup>比喻正式场合：他说的话句句搬得上～。<sup>\[如皋\]</sup>｜捧不上～。<sup>\[东台\]</sup> ② <sup>\[兴化\]</sup>应酬交际的场合：妻兄上不得～，就在房里吃吧！<sup>\[兴化\]</sup>｜“……况且既没有好衣服穿，自然上不了～……”（《老残游记》二四）<sup>\[兴化\]</sup>  
 1. 【[台球](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_qieu.md#台球)】`tae2 qieu2` <sup>[如皋]</sup> 乒乓球的老派称法。  
 1. 【[台箱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_xian.md#台箱)】`tae2 xian1` <sup>[如东]</sup> 木制，长方形，体积大，搁置在箱框上，称台箱。  
 1. 【[台子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_zz.md#台子)】`tae2 zz` <sup>[兴化]</sup> ① 桌子。 ② 檐下台阶：廊檐～。  
