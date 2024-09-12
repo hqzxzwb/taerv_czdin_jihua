@@ -342,8 +342,8 @@
 1. 【[饭时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_shr.md#饭时)】`faen6 shr2` <sup>[泰州]</sup> 吃饭的时间，指白天11点至12点半，吃中饭的这段时间：这一刻儿～，你最好不要到人家去。  
 1. 【[饭时候](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_shr_heu.md#饭时候)】`faen6 shr2 heu` ① <sup>\[如皋\]</sup>中午。 ② <sup>\[兴化\]</sup>吃饭的时候：你在～来找他，一准见得到。<sup>\[兴化\]</sup>  
 1. 【[饭堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_tan.md#饭堂)】`faen6 tan2` <sup>[兴化]</sup> 餐厅、食堂：到～就餐。  
-1. 【[饭桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_ton.md#饭桶)】`faen6 ton2` <sup>[泰州]</sup> 詈词，比喻能吃而不能做的人，意谓无用之辈。  
 1. 【[饭桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_ton.md#饭桶)】`faen6 ton3` <sup>[如东]</sup> ① 盛饭的桶。 ② 比喻光会吃饭不会做事的人。  
+1. 【[饭桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_ton.md#饭桶)】`faen6 ton3` <sup>[泰州]</sup> 詈词，比喻能吃而不能做的人，意谓无用之辈。  
 1. 【[饭团](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_tun.md#饭团)】`faen6 tun2` <sup>[泰州]</sup> 小团状米饭块。  
 1. 【[饭团子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_tun_zz.md#饭团子)】`faen6 tun2 zz` <sup>[兴化]</sup> 成块的米饭。  
 1. 【[饭碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_un.md#饭碗)】`faen6 un3` ① <sup>\[如东\]</sup>碗的一种，主要用于盛饭。比喻职业：不能把～丢掉。<sup>\[如东\]</sup> ② <sup>\[东台\]</sup>［喻］维持生计的职业：铁～；毕业后总先要寻个～。<sup>\[东台\]</sup>  
