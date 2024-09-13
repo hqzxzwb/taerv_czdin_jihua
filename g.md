@@ -1526,7 +1526,6 @@
 1. 【[广口瓶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_keu_pien.md#广口瓶)】`guan3 keu3 pien2` <sup>[东台]</sup> 大口径的玻璃瓶，如罐头瓶、咖啡瓶、奶粉瓶等。  
 1. 【[广是](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_shr.md#广是)】`guan3 shr6` <sup>[如皋]</sup> 总是、老是。  
 1. 【[广种薄收](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_zhon_pah_sheu.md#广种薄收)】`guan3 zhon5 pah8 sheu1` <sup>\[东台\]\[泰兴\]</sup>种植面积大，单位面积产量低。也用来喻意广泛施行，最后结果收效甚微。  
-1. 【[光脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_lin.md#光脸)】`guan5 lin3` <sup>[泰州]</sup> 剃去脸上汗毛。  
 1. 【[桄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan.md#桄)】`guan5` ① <sup>\[如皋\]</sup>横木：槽～/槽桶上方的对长横木。<sup>\[如皋\]</sup> ② <sup>\[东台\]</sup>床、门、车等物上的横木。 ③ <sup>\[东台\]</sup>绕线的器具：一～线。<sup>\[东台\]</sup> ④ <sup>\[兴化\]</sup>木器家具上的横木。 ⑤ <sup>\[泰州\]</sup>木制器物上的横木：门～<sup>\[泰州\]</sup>｜这挂板车～太细。<sup>\[泰州\]</sup>  
 1. 【[桄竹<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_zhoh_r.md#桄竹<sub>儿</sub>)】`guan5 zhoh7 r` <sup>[如皋]</sup> 络丝的工具。插在“桄”上的12根笔竹，用以套住丝絖子，便于上下理顺。  
 1. 【[逛街头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_gae_teu.md#逛街头)】`guan5 gae1 teu2` <sup>[东台]</sup> 逛街：没事，我俫～去。  
@@ -1536,7 +1535,7 @@
 1. 【[𠈑胡刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_hv_do.md#𠈑胡刀)】`guan5 hv2 do1` <sup>[东台]</sup> 剃须刀。  
 1. 【[𠈑胡刀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_hv_do_r.md#𠈑胡刀<sub>儿</sub>)】`guan5 hv2 do1 r` <sup>[泰县]</sup> 胡须刀。  
 1. 【[𠈑胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_hv_zz.md#𠈑胡子)】`guan5 hv2 zz` ① 做动词，刮胡子 ② <sup>\[东台\]</sup>用剃须刀将胡子剃去。 ③ <sup>\[东台\]</sup>［借］对某人责难或提出批评，称之为～。  
-1. 【[𠈑脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_lin.md#𠈑脸)】`guan5 lin3` ① <sup>\[如东\]</sup>刮脸：今天不理发，单～。<sup>\[如东\]</sup> ② <sup>\[东台\]</sup>刮去脸上的胡髭，旧时还包括扒耳朵、捶背、肩等局部按摩。 ③ <sup>\[兴化\]</sup>刮脸。同“修面”。 ④ <sup>\[泰县\]</sup>刮脸：现在剃头～要另外加钱。<sup>\[泰县\]</sup>  
+1. 【[𠈑脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_lin.md#𠈑脸)】`guan5 lin3` <sup>\[如东\]\[东台\]\[兴化\]\[泰县\]\[泰州\]</sup>刮脸。刮去脸上须毛，使面容光洁。\[东台：旧时还包括扒耳朵、捶背、肩等局部按摩。\]\[兴化：同“修面”。\]：今天不理发，单～。<sup>\[如东\]</sup>｜现在剃头～要另外加钱。<sup>\[泰县\]</sup>  
 1. 【[𠈑刨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_po.md#𠈑刨)】`guan5 po6` <sup>[如东]</sup> 工具。刨身长，刨舔宽，用以刨平刨光木料的表面。  
 1. 【[𠈑蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_taen.md#𠈑蛋)】`guan5 taen6` <sup>[兴化]</sup> 流氓无赖：这一班～，专想敲乡下人的竹杠。  
 1. 【[𠈑头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_teu.md#𠈑头)】`guan5 teu` <sup>[如皋]</sup> 见“𠈑子”。  

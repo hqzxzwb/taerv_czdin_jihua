@@ -1782,14 +1782,14 @@
 1. 【[灰巴绿色的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_ba_loh_seh_dii.md#灰巴绿色的)】`huei1 ba loh8 seh7 dii` <sup>[如皋]</sup> 灰绿而暗滞的颜色。  
 1. 【[灰巴拉哈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_ba_la_ha.md#灰巴拉哈)】`huei1 ba1 la ha1` <sup>[如东]</sup> 暗灰色：这种布料～，不显彩。  
 1. 【[灰不溜秋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_beh_lieu_qieu.md#灰不溜秋)】`huei1 beh lieu1 qieu1` <sup>[兴化]</sup> （贬）形容颜色灰暗：这种面料～的，我不要！  
-1. 【[灰匾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_bin_zz.md#灰匾子)】`huei1 bin3 zz` <sup>[东台]</sup> 放满草木灰的簸箕：旧时妇女生产后，让其坐在～上，借干燥的草木灰吸收子宫的排出物，促进子宫收缩。  
+1. 【[灰匾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_bin_zz.md#灰匾子)】`huei1 bin3 zz` <sup>[东台]</sup> 放满草木灰的簸箕。旧时妇女生产后，让其坐在～上，借干燥的草木灰吸收子宫的排出物，促进子宫收缩。  
 1. 【[灰场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_chan.md#灰场)】`huei1 chan2` <sup>[如皋]</sup> 旧时外城脚有数家私营的灰场，堆积城市生活垃圾，做成方台体，整方台的卖给里下河地区和海边，用灰船运去作肥料，改善土质的同时也垫高地平。  
 1. 【[灰秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_chen.md#灰秤)】`huei1 chen5` <sup>[如皋]</sup> 灰场用的杆秤。称量很大，并不太准确。由秤店定做。  
 1. 【[灰抄板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_cho_baen.md#灰抄板)】`huei1 cho1 baen3` 泥瓦匠往墙上抹水泥时使用的工具，上面放着水泥浆。  
 1. 【[灰船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_chun.md#灰船)】`huei1 chun2` <sup>[如皋]</sup> 运灰肥的木船。  
 1. 【[灰大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_da.md#灰大)】`huei1 da6` <sup>[兴化]</sup> 形容尘土较多，较厚：外头～，把鞋子都弄脏吖。｜一则脚小难行，二则京中～，一脚下去连鞋帮都陷下去了……。（《梼杌闲评》七）  
 1. 【[灰虴蛨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_deh_moh.md#灰虴蛨)】`huei1 deh7 moh` <sup>[如皋]</sup> 齿脊疣蝗。草丛中常见。  
-1. 【[灰堆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_duei.md#灰堆)】`huei1 duei1` ① 垃圾堆 ② <sup>\[如东\]</sup>存放垃圾的场所。 ③ <sup>\[如皋\]</sup>垃圾堆，旧时城镇家家有，可卖钱。 ④ <sup>\[兴化\]</sup>倾倒草木灰和垃圾的地方：过去家家门口有～，非常不卫生。<sup>\[兴化\]</sup>  
+1. 【[灰堆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_duei.md#灰堆)】`huei1 duei1` <sup>\[如东\]\[如皋\]\[兴化\]</sup>垃圾堆，存放垃圾的场所。\[如皋：旧时城镇家家有，可卖钱。\]\[兴化：倾倒草木灰和垃圾的地方\]：过去家家门口有～，非常不卫生。<sup>\[兴化\]</sup>  
 1. 【[灰堆姑娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_duei_gv_nian.md#灰堆姑娘)】`huei1 duei1 gv1 nian2` <sup>[如东]</sup> 一种民俗。南朝时期已经广泛流传，称请紫姑。紫姑为蚕神、谷神、厕神、生育神、占卜神。阴历正月十五日，选择一只新畚箕，后帮插两只筷子，由童男童女搀着畚箕放在灰堆上，经过一番祷告，就把灰堆姑娘请回来了，放在八仙桌上。桌面上铺一层米。人们询问各种问题，灰堆姑娘用写字或叩头等方法来回答。  
 1. 【[灰堆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_dy.md#灰堆)】`huei1 dy1` <sup>[泰州]</sup> 垃圾堆，旧时居民做饭，燃料以草为主，灶膛灰满以后，将灰倒至一处成堆，居民常将生活垃圾倒在灰堆上，灰堆后来遂也指垃圾堆。  
 1. 【[灰肥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_fei.md#灰肥)】`huei1 fei2` ① <sup>\[如皋\]</sup>草木灰、生活垃圾等堆成的肥料。 ② <sup>\[兴化\]</sup>以草木灰为主的自然肥料，含钾。  
@@ -1800,14 +1800,14 @@
 1. 【[灰换](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_hun.md#灰换)】`huei1 hun6` <sup>[兴化]</sup> 旧时，进城镇向住户购买灰肥的农民，口中吆喝～！  
 1. 【[灰浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_jian.md#灰浆)】`huei1 jian1` <sup>[兴化]</sup> 见“砂灰”。  
 1. 【[灰鹡鸰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_jieh_lien.md#灰鹡鸰)】`huei1 jieh7 lien2` <sup>[如东]</sup> 鸟。体长约180毫米。夏天喉有黑色，冬天下体全黄。飞行时呈波浪式前进。栖息时尾部不停上下摆动。多吃昆虫，属益鸟。  
+1. 【[灰毛鼠浪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_mo_chv_lan.md#灰毛鼠浪)】`huei1 mo2 chv3 lan` <sup>[兴化]</sup> ① 沾满尘土，不洁：家里～的，也不掸掸。｜身上弄得～的。 ② 形容颜色不鲜艳：这种布一落色，～的。  
 1. 【[灰毛鼠浪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_mo_chv_lan.md#灰毛鼠浪)】`huei1 mo2 chv3 lan6` <sup>[东台]</sup> 灰不溜秋的样子，像老鼠皮毛般难看。  
+1. 【[灰毛鼠浪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_mo_chv_lan.md#灰毛鼠浪)】`huei1 mo2 chv3 lan6` <sup>[泰县]</sup> 不鲜艳：这些服装～的，我不想买啊。  
 1. 【[灰毛老鼠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_mo_lo_chv.md#灰毛老鼠)】`huei1 mo2 lo3 chv3` <sup>[如东]</sup> 比喻颜色不鲜艳：这种布料不好，～样的。  
 1. 【[灰毛<sub>儿</sub>老鼠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_mo_r_lo_chv.md#灰毛<sub>儿</sub>老鼠)】`huei1 mo2 r lo3 chv3` <sup>[如皋]</sup> 见“灰头土脸的”。  
 1. 【[灰毛孙<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_mo_suen_r.md#灰毛孙<sub>儿</sub>)】`huei1 mo2 suen1 r` <sup>[东台]</sup> 玄孙，孙子的孙子。这里用灰尘和鸿毛比喻极细小。  
-1. 【[灰猫鼠狼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_mo_chv_lan.md#灰猫鼠狼)】`huei1 mo2 chv3 lan2` <sup>[兴化]</sup> ① 沾满尘土，不洁：家里～的，也不掸掸。｜身上弄得～的。 ② 形容颜色不鲜艳：这种布一落色，～的。  
-1. 【[灰猫鼠浪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_mo_chv_lan.md#灰猫鼠浪)】`huei1 mo2 chv3 lan6` <sup>[泰县]</sup> 不鲜艳：这些服装～的，我不想买啊。  
 1. 【[灰扒<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_pa_r.md#灰扒<sub>儿</sub>)】`huei1 pa2 r` <sup>[如皋]</sup> 灶下出草木灰的工具。  
-1. 【[灰埲埲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_pon_pon.md#灰埲埲)】`huei1 pon6 pon6` ① 灰多的样子 ② <sup>\[如东\]</sup>尘埃飞扬的状貌。 ③ <sup>\[如东\]</sup>到处都是灰尘：家里几天朆打扫，～的。<sup>\[如东\]</sup> ④ <sup>\[东台\]</sup>烟灰飞起的样子：会堂里不曾洒水就扫地，就会～的。<sup>\[东台\]</sup> ⑤ <sup>\[兴化\]</sup>尘土飞扬：以前的土公路，汽车一过～的。<sup>\[兴化\]</sup> ⑥ <sup>\[泰县\]</sup>灰尘被风鼓动飞扬：家里～的。  
+1. 【[灰埲埲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_pon_pon.md#灰埲埲)】`huei1 pon6 pon6` ① <sup>\[如东\]\[东台\]\[兴化\]\[泰县\]</sup>尘埃飞扬的状貌：会堂里不曾洒水就扫地，就会～的。<sup>\[东台\]</sup>｜以前的土公路，汽车一过～的。<sup>\[兴化\]</sup>｜家里～的。<sup>\[泰县\]</sup> ② <sup>\[如东\]</sup>到处都是灰尘：家里几天朆打扫，～的。<sup>\[如东\]</sup>  
 1. 【[灰埲埲的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_pon_pon_dii.md#灰埲埲的)】`huei1 pon6 pon6 dii` <sup>[如皋]</sup> 满是灰尘，一碰就扬起的样子。  
 1. 【[灰孙<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_suen_r.md#灰孙<sub>儿</sub>)】`huei1 suen1 r` <sup>[如皋]</sup> 玄孙，孙之孙。  
 1. 【[灰孙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_suen_zz.md#灰孙子)】`huei1 suen1 zz` <sup>[兴化]</sup> ① 极言辈份很小的人：我又不是～，凭甚的苦差事总要我去！ ② 骂人的话，指公媳乱伦生的孙子：哪个谈谎是你～。  
@@ -1821,31 +1821,29 @@
 1. 【[回](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei.md#回)】`huei2` 回绝，拒绝  
 1. 【[回潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_cho.md#回潮)】`huei2 cho2` <sup>[如皋]</sup> 见“转潮”。  
 1. 【[回船转舵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_chun_zhun_tu.md#回船转舵)】`huei2 chun2 zhun3 tu6` <sup>[兴化]</sup> （喻）改变态度：他看到对方不高兴的样子，连忙～，尽说好话。  
-1. 【[回住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_chv.md#回住)】`huei2 chv` <sup>[东台]</sup> 感到满足并表示拒绝：不管把他多少东西，他总不得～。  
 1. 【[回个抹子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_gu_maeh_zz.md#回个抹子)】`huei2 gu maeh8 zz` <sup>[泰县]</sup> 回答不知道：他再来找你，你就～。  
 1. 【[回锅肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_gu_roh.md#回锅肉)】`huei2 gu1 roh8` <sup>[东台]</sup> 先将猪肉煮至七成熟，后加桂皮、料酒、姜、葱、糖、酱油下锅烧，称之为～。  
 1. 【[回过味来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_gu_vei_lae.md#回过味来)】`huei2 gu5 vei6 lae` <sup>[东台]</sup> 醒悟明白原来不十分清楚、不十分理解的事情。  
-1. 【[回好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_ho.md#回好)】`huei2 ho3` <sup>[兴化]</sup> 旧婚俗：经“合婚”，如认为可婚配，即通知女方，并征询聘礼条件，谓～。  
+1. 【[回好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_ho.md#回好)】`huei2 ho3` <sup>[兴化]</sup> 旧婚俗，经“合婚”，如认为可婚配，即通知女方，并征询聘礼条件，谓～。  
 1. 【[回伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_hu.md#回伙)】`huei2 hu3` <sup>[东台]</sup> 原指不打算一起吃饭的意愿，［喻］辞职不干：企业关爱工人，工人也就极少～不干。  
 1. 【[回回](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_huei.md#回回)】`huei2 huei2` 次次，每次：～总是他/每次都是他  
 1. 【[回汗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_hun.md#回汗)】`huei2 hun6` <sup>[如皋]</sup> 出汗衣湿，静下来觉得冷。  
 1. 【[回殃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_ian.md#回殃)】`huei2 ian1` <sup>[如皋]</sup> 丧葬仪之一。有追念佑护死者的意思。  
 1. 【[回音](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_ien.md#回音)】`huei2 ien1` <sup>[如东]</sup> 反应：我在下等～。  
 1. 【[回油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_ieu.md#回油)】`huei2 ieu2` <sup>[如皋]</sup> 炸制食品后的剩油。  
-1. 【[回家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_jia.md#回家)】`huei2 jia1` ① 民间说法，人死后三天灵魂会回家一趟，这天家属要为死者举行某个仪式。 ② <sup>\[如东\]</sup>一种民间风俗。人死后，魂飞魄散。魂魄下地数尺，每日升一尺。升至地面，由殃神押送，从烟囱经灶门回家。回家日期的确定，要进行推算。推算的公式是：甲子已午，9天；乙庚丑未，8天；丙辛寅申，7天；丁壬卯酉，6天；戌癸辰戊，5天；已亥，4天：乙亥年十月廿一日为丁丑日，上午9时，××死亡。回家日期是：丁为6天，丑为8天，6+8=14天。那么，回家的日期是十一月初五日。<sup>\[如东\]</sup>  
+1. 【[回家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_jia.md#回家)】`huei2 jia1` ① 民间说法，人死后三天灵魂会回家一趟，这天家属要为死者举行某个仪式。 ② <sup>\[如东\]</sup>一种民间风俗。人死后，魂飞魄散。魂魄下地数尺，每日升一尺。升至地面，由殃神押送，从烟囱经灶门回家。回家日期的确定，要进行推算。推算的公式是：甲子已午，9天；乙庚丑未，8天；丙辛寅申，7天；丁壬卯酉，6天；戌癸辰戊，5天；已亥，4天。乙亥年十月廿一日为丁丑日，上午9时，××死亡。回家日期是：丁为6天，丑为8天，6+8=14天。那么，回家的日期是十一月初五日。  
 1. 【[回教](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_jio.md#回教)】`huei2 jio5` <sup>[东台]</sup> 伊斯兰教。清咸丰七年（1857）有两千多户回民避乱迁居东台，掌教阿訇为江浦人吴士诚。  
-1. 【[回嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_jy.md#回嘴)】`huei2 jy3` ① <sup>\[东台\]</sup>顶嘴，不接受意见。 ② <sup>\[泰州\]</sup>顶嘴：大人说你两句，你不拿耳朵听，还敢～。<sup>\[泰州\]</sup>  
-1. 【[回嘴回舌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_jy_huei_shih.md#回嘴回舌)】`huei2 jy3 huei2 shih8` ① <sup>\[如东\]</sup>还嘴，顶嘴：妈妈说咖几句，梅梅还～的。<sup>\[如东\]</sup> ② <sup>\[泰县\]</sup>还嘴，不听话：小伢儿～的，太不像话。  
+1. 【[回嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_jy.md#回嘴)】`huei2 jy3` <sup>\[东台\]\[泰州\]</sup>顶嘴：大人说你两句，你不拿耳朵听，还敢～。<sup>\[泰州\]</sup>  
+1. 【[回嘴回舌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_jy_huei_shih.md#回嘴回舌)】`huei2 jy3 huei2 shih8` <sup>\[如东\]\[泰县\]</sup>还嘴，顶嘴：妈妈说咖几句，梅梅还～的。<sup>\[如东\]</sup>｜小伢儿～的，太不像话。<sup>\[泰县\]</sup>  
 1. 【[回凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_lian.md#回凉)】`huei2 lian2` ① <sup>\[兴化\]</sup>天气乍暖后温度下降：晚上～要加衣裳。<sup>\[兴化\]</sup> ② <sup>\[兴化\]</sup>身子由热转冷：从暖房出来，冷风一吹，身上～。<sup>\[兴化\]</sup> ③ <sup>\[泰州\]</sup>感觉温度由热逐渐转至微寒：夜里～，你值班要加件衣裳。<sup>\[泰州\]</sup>  
 1. 【[回溜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_lieu.md#回溜)】`huei2 lieu6` <sup>[兴化]</sup> 湍急的流水倒流回头：随着上游水闸的启闭……水急的时候，挨者岸边的水会倒流回去……这叫～。（汪曾祺《昙花、鹤和鬼火》）  
 1. 【[回老家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_lo_ga.md#回老家)】`huei2 lo3 ga1` <sup>[东台]</sup> ① 返回故里。 ② 隐指死亡。  
-1. 【[回笼觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_lon_go.md#回笼觉)】`huei2 lon2 go5` ① <sup>\[东台\]</sup>早晨起床后重新上床睡觉。又叫复觉。 ② <sup>\[兴化\]</sup>早晨醒来或起身后重又入睡：光头想睡个～，却是进不去。（毕飞宇《慌乱的指头》）<sup>\[兴化\]</sup>  
+1. 【[回笼觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_lon_go.md#回笼觉)】`huei2 lon2 go5` <sup>\[东台\]\[兴化\]</sup>早晨醒来或起身后重新睡觉。\[东台：又叫复觉。\]：光头想睡个～，却是进不去。（毕飞宇《慌乱的指头》）<sup>\[兴化\]</sup>  
 1. 【[回炉烧饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_lv_sho_bien.md#回炉烧饼)】`huei2 lv2 sho1 bien3` <sup>[兴化]</sup> （喻）被除名或解雇的人重新回头：谚曰：～不香。  
 1. 【[回炉烧饼不香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_lv_sho_bien_beh_xian.md#回炉烧饼不香)】`huei2 lv2 sho1 bien3 beh7 xian1` <sup>[东台]</sup> ［喻］回到原先的环境不受人欢迎。  
-1. 【[回门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_men.md#回门)】`huei2 men2` ① <sup>\[如东\]</sup>一种民俗。姑娘出嫁后的第二天带着丈夫回娘家看望，当晚必须回去，称回门。 ② <sup>\[东台\]</sup>女子出嫁首次回娘家。 ③ <sup>\[兴化\]</sup>女子出嫁后第一次回娘家。“……待我满月～来，亲自上门叫聒噪。”（《清平山堂话本·快嘴李翠莲记》）  
-1. 【[回门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_men.md#回门)】`huei2 men2` <sup>[泰州]</sup> 女子结婚以后首次偕夫回到娘家，旧时为婚后第三日，现在新俗则为婚后次日，回门之日中上或者晚上，娘家置办酒筵大宴亲朋，称之为“回门酒”。《民国泰县志稿》卷之23：“回门，第三日，女家柬请新夫妇，曰回门。新婿拜遍女家诸眷属，有酒宴，日晡并以酒筵随送至男家，明日新夫妇再至曰谢酒。弥月又至，日回满月门。”（《社会志·礼俗》）《越》卷中：“回门，嫁后初次，女以婿归，登堂拜见，备盛筵厚贽曰回门。”  
-1. 【[回暖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_nun.md#回暖)】`huei2 nun3` ① <sup>\[兴化\]</sup>天气由冷变暖：天气～，要准备夹衣。<sup>\[兴化\]</sup> ② <sup>\[泰州\]</sup>感觉气温或者体温由冷逐渐转暖：打过春以后，天气就慢慢的回暖唻。<sup>\[泰州\]</sup>｜刚才人在外头都冻吖僵吖，家来喝咖杯热茶下肚子，身上有点～唻。<sup>\[泰州\]</sup>  
-1. 【[回盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_pun.md#回盘)】`huei2 pun2` ① <sup>\[如皋\]</sup>送礼用的托盘称“礼盘”，回礼用的托盘称～。代指“回礼”。 ② <sup>\[兴化\]</sup>送礼用的托盘称之“礼盘”。借指回礼：～是五粮液两瓶，中华烟一条。<sup>\[兴化\]</sup>  
+1. 【[回门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_men.md#回门)】`huei2 men2` <sup>\[如东\]\[东台\]\[兴化\]\[泰州\]</sup>婚俗。女子出嫁首次回娘家。\[如东：姑娘出嫁后的第二天带着丈夫回娘家看望，当晚必须回去，称回门。\]\[泰州：女子结婚以后首次偕夫回到娘家，旧时为婚后第三日，现在新俗则为婚后次日，回门之日中上或者晚上，娘家置办酒筵大宴亲朋，称之为“回门酒”。《民国泰县志稿》卷之23：“回门，第三日，女家柬请新夫妇，曰回门。新婿拜遍女家诸眷属，有酒宴，日晡并以酒筵随送至男家，明日新夫妇再至曰谢酒。弥月又至，日回满月门。”（《社会志·礼俗》）《越》卷中：“回门，嫁后初次，女以婿归，登堂拜见，备盛筵厚贽曰回门。”\]：“……待我满月～来，亲自上门叫聒噪。”（《清平山堂话本·快嘴李翠莲记》）<sup>\[兴化\]</sup>  
+1. 【[回暖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_nun.md#回暖)】`huei2 nun3` <sup>\[兴化\]\[泰州\]</sup>（气温或体感）由冷变暖：天气～，要准备夹衣。<sup>\[兴化\]</sup>｜打过春以后，天气就慢慢的～唻。<sup>\[泰州\]</sup>｜刚才人在外头都冻吖僵吖，家来喝咖杯热茶下肚子，身上有点～唻。<sup>\[泰州\]</sup>  
+1. 【[回盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_pun.md#回盘)】`huei2 pun2` <sup>\[如皋\]\[兴化\]</sup>送礼用的托盘称“礼盘”，回礼用的托盘称～。代指“回礼”：～是五粮液两瓶，中华烟一条。<sup>\[兴化\]</sup>  
 1. 【[回软](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_run.md#回软)】`huei2 run3` ① <sup>\[兴化\]</sup>原来很硬很脆的东西由于受潮变软：馓子～<sup>\[兴化\]</sup>｜饼干～。<sup>\[兴化\]</sup> ② <sup>\[兴化\]</sup>一种烹调方法：原来炸脆的菜肴从油中走过使变软<sup>\[兴化\]</sup>｜脆长鱼～。<sup>\[兴化\]</sup> ③ <sup>\[兴化\]</sup>态度由强硬而软化，由倔强变顺从：她憋咖几天气，这天把有点～吖。<sup>\[兴化\]</sup> ④ <sup>\[泰州\]</sup>硬脆食物由于受潮变软：早上买的油条中上就～唻。<sup>\[泰州\]</sup>  
 1. 【[回食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_sheh.md#回食)】`huei2 sheh8` <sup>[如皋]</sup> 转噍，反刍。  
 1. 【[回声](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_shen.md#回声)】`huei2 shen1` <sup>[如皋]</sup> 异议：他的权威高，一句话说出去，其他人没得～。  
@@ -1867,6 +1865,7 @@
 1. 【[回性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_xien.md#回性)】`huei2 xien5` <sup>[东台]</sup> 指事物发展到一定阶段出现的逆转趋势。如久晴后转阴：前几天热，这两天可望～。  
 1. 【[回债](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_zhae.md#回债)】`huei2 zhae5` <sup>[兴化]</sup> ① 糊弄索债的人：我俫催他还贷，他一次又一次的～。｜ ② （喻）搪塞：“……每逢要裹脚，你都是像～一般，落后都有一场打。”（《广陵潮》十二）  
 1. 【[回注](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_zhv.md#回注)】`huei2 zhv5` <sup>[泰州]</sup> ① 因感到满足而谢绝：这种人心太黑，不要说你才送吖这几回礼，你天天送礼把他，他都不作兴同你～的。 ② 因长时间吃某种美食而失去对此种美食的食欲：这些时天天弄红烧肉吃，把人都吃咖～唻。  
+1. 【[回注](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_zhv.md#回注)】`huei2 zhv5` <sup>[东台]</sup> 感到满足并表示拒绝：不管把他多少东西，他总不得～。  
 1. 【[回子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_zz.md#回子)】`huei2 zz` <sup>[如皋]</sup> 伊斯兰教徒、回族人、波斯人：识宝～、～吃猪肉一自坏教门。  
 1. 【[茴香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_xian.md#茴香)】`huei2 xian1` ① <sup>\[如东\]</sup>伞形科植物茴香，多年生草本，有强烈香气。 ② <sup>\[兴化\]</sup>一种调味的香料。  
 1. 【[茴香果](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_xian_gu.md#茴香果)】`huei2 xian1 gu3` <sup>[如东]</sup> 伞形科植物茴香的果实。  
@@ -1888,20 +1887,18 @@
 1. 【[晦嘡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_tan.md#晦嘡)】`huei5 tan` <sup>[东台]</sup> 表示感叹惋惜的语气：～，他怎吖又考啊不及格呢？  
 1. 【[会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei.md#会)】`huei6` ① <sup>\[如东\]</sup>领悟，掌握：～做啊。<sup>\[如东\]</sup> ② <sup>\[如东\]</sup>见面：我还不曾～他唻。<sup>\[如东\]</sup> ③ <sup>\[如皋\]</sup>相会、会面：他下午三点在公园门口～你。 ④ <sup>\[兴化\]</sup>民间一种筹款方式，由需款人发起请～，邀集若干人按时分批缴款，首会由发起人取用，此后分期“标会”，中标（得会）者收回付款。  
 1. 【[会船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_chun.md#会船)】`huei6 chun2` <sup>[泰县]</sup> 下河农民香期比赛的船。  
-1. 【[会当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_dan.md#会当)】`huei6 dan1` ① <sup>\[东台\]</sup>两车相遇称之谓～。 ② <sup>\[泰县\]</sup>迎面相会：两辆汽车在～的时候撞吖。<sup>\[泰县\]</sup>  
-1. 【[会当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_dan.md#会当)】`huei6 dan1` <sup>[泰州]</sup> 相向而行的两车（船）在较窄的路上（河上）相遇，其中一方暂停靠边让行，待对方通过后再前进。  
+1. 【[会当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_dan.md#会当)】`huei6 dan1` <sup>\[东台\]\[泰县\]\[泰州\]</sup>（车、船等）反向交错通过\[泰州：相向而行的两车（船）在较窄的路上（河上）相遇，其中一方暂停靠边让行，待对方通过后再前进。\]：两辆汽车在～的时候撞吖。<sup>\[泰县\]</sup>  
 1. 【[会挡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_dan.md#会挡)】`huei6 dan3` <sup>[兴化]</sup> 小车船在途中交会：西往芦荡，取鱼的、放鸭的、罱肥料的。船虽多，～从不相撞。（马春阳《父女双婚事》）  
-1. 【[会得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_deh.md#会得)】`huei6 deh` ① <sup>\[如皋\]</sup>能够：落雪天他不～来。 ② <sup>\[兴化\]</sup>能够、会：这道题我～。<sup>\[兴化\]</sup>｜“……是北乡郑三山的女儿，十八岁……煮茶、做饭、织布、绩麻，件件～……”（《三刻》十一）<sup>\[兴化\]</sup>  
+1. 【[会得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_deh.md#会得)】`huei6 deh` ① <sup>\[如皋\]</sup>能够：落雪天他不～来。<sup>\[如皋\]</sup> ② <sup>\[兴化\]</sup>能够、会：这道题我～。<sup>\[兴化\]</sup>｜“……是北乡郑三山的女儿，十八岁……煮茶、做饭、织布、绩麻，件件～……”（《三刻》十一）<sup>\[兴化\]</sup>  
 1. 【[会得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_deh.md#会得)】`huei6 deh7` ① 相当于普通话的“会”，表示事情可能发生。一般用于否定句和疑问句。 ② <sup>\[东台\]</sup>表示可能实现。  
-1. 【[会东](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_don.md#会东)】`huei6 don1` ① <sup>\[东台\]</sup>出钱请客：这桌饭我来～。<sup>\[东台\]</sup> ② <sup>\[兴化\]</sup>做东请客：明朝吃茶我～。‖也作“惠东”。<sup>\[兴化\]</sup>  
-1. 【[会东](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_don.md#会东)】`huei6 don1` <sup>[泰州]</sup> 做东：今朝晚上饭局老刘～。  
+1. 【[会东/惠东](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_don.md#会东/惠东)】`huei6 don1` <sup>\[东台\]\[兴化\]\[泰州\]\[如皋\]</sup>做东请客\[如皋：几个人一齐在外边消费，由一人出钱，称～。\]：这桌饭我来～。<sup>\[东台\]</sup>｜明朝吃茶我～。<sup>\[兴化\]</sup>｜今朝晚上饭局老刘～。<sup>\[泰州\]</sup>  
 1. 【[会过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_gu.md#会过)】`huei6 gu` <sup>[如皋]</sup> 已经会见过。  
 1. 【[会过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_gu.md#会过)】`huei6 gu5` <sup>[如皋]</sup> 赞语，指懂得勤俭持家，礼貌待人、孝敬长辈、教育子女的人家或人。  
 1. 【[会过日子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_gu_rih_zz.md#会过日子)】`huei6 gu5 rih8 zz` <sup>[如皋]</sup> 见“会过”。  
-1. 【[会话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_hua.md#会话)】`huei6 hua6` ① <sup>\[兴化\]</sup>见面交谈：七官出来，与秋鸿会了话……（《梼杌闲评》十四）<sup>\[兴化\]</sup> ② <sup>\[泰州\]</sup>会面对话，沟通交流：我说的你要是不相信，我同老王不～，你现在就打电话问老王，单看老王同我说的哿是一样的话。<sup>\[泰州\]</sup>  
-1. 【[会会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_huei.md#会会)】`huei6 huei6` ① <sup>\[如东\]</sup>见见面：你明朝去～他。<sup>\[如东\]</sup> ② <sup>\[如皋\]</sup>见见，聚聚。  
+1. 【[会话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_hua.md#会话)】`huei6 hua6` <sup>\[兴化\]\[泰州\]</sup>见面交谈：七官出来，与秋鸿会了话……（《梼杌闲评》十四）<sup>\[兴化\]</sup>｜我说的你要是不相信，我同老王不～，你现在就打电话问老王，单看老王同我说的哿是一样的话。<sup>\[泰州\]</sup>  
+1. 【[会会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_huei.md#会会)】`huei6 huei6` <sup>\[如东\]\[如皋\]</sup>见见面：你明朝去～他。<sup>\[如东\]</sup>  
 1. 【[会酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_jieu.md#会酒)】`huei6 jieu3` <sup>[如东]</sup> 民间请会举办酒筵，称会酒。  
-1. 【[会利](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_li.md#会利)】`huei6 li6` ① <sup>\[如东\]</sup>请会活动中先得会者，在以后打会时加付的利金。此利金由后得会者收取。 ② <sup>\[如皋\]</sup>“请会”中先“得会”者于尔后“打会”时加付的利金，由后“得会”者加收。  
+1. 【[会利](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_li.md#会利)】`huei6 li6` <sup>\[如东\]\[如皋\]</sup>“请会”中先“得会”者于尔后“打会”时加付的利金，由后“得会”者加收。  
 1. 【[会期](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qi.md#会期)】`huei6 qi1` ① <sup>\[如东\]</sup>每月定期打会的时间以及地点。 ② <sup>\[如皋\]</sup>“请会”所定每月“打会”的时间、地点。  
 1. 【[会齐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qi.md#会齐)】`huei6 qi2` <sup>[如皋]</sup> 相聚，聚齐：大家到县门口～，到老松林吃茶。  
 1. 【[会吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qieh.md#会吃)】`huei6 qieh7` <sup>[如皋]</sup> ① 指婴儿、小动物要吃、吃得多。 ② 指吃得技巧、吃得精巧吃得有“名堂”。懂得使用各种食料，做出各种可口的美味享用。  
@@ -1914,12 +1911,11 @@
 1. 【[会做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_zu.md#会做)】`huei6 zu5` 能干，勤劳  
 1. 【[会做新妇两头瞒，不会做新妇两头搬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_zu_xien_fv_laen_teu_mun_beh_huei_zu_xien_fv_laen_teu_bun.md#会做新妇两头瞒，不会做新妇两头搬)】`huei6 zu5 xien1 fv laen3 teu2 mun2 beh7 huei6 zu5 xien1 fv laen3 teu2 bun1` <sup>[东台]</sup> 小事要化了，不能搬话增加矛盾。  
 1. 【[惠钞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_cho.md#惠钞)】`huei6 cho1` <sup>[如皋]</sup> 见“惠账”。  
-1. 【[惠存](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_cuen.md#惠存)】`huei6 cuen2` <sup>[东台]</sup> （敬词）请保存。多用于照片、书籍等所题的上款：“某某～”。  
-1. 【[惠东](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_don.md#惠东)】`huei6 don1` <sup>[如皋]</sup> 几个人一齐在外边消费，由一人出钱，称～。  
-1. 【[惠顾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_gv.md#惠顾)】`huei6 gv5` <sup>[东台]</sup> 敬请他人光临。  
+1. 【[惠存](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_cuen.md#惠存)】`huei6-5 cuen2` <sup>[东台]</sup> （敬词）请保存。多用于照片、书籍等所题的上款：“某某～”。  
+1. 【[惠顾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_gv.md#惠顾)】`huei6-5 gv5` <sup>[东台]</sup> 敬请他人光临。  
 1. 【[惠账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_zhan.md#惠账)】`huei6 zhan5` <sup>[如皋]</sup> 以记账方式代人付款，不同于“汇账”。  
-1. 【[慧根](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_gen.md#慧根)】`huei6 gen1` <sup>[东台]</sup> 佛家语。慧能生道，故曰～。多指能透彻领悟佛法的根机。  
-1. 【[慧眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_ngaen.md#慧眼)】`huei6 ngaen3` <sup>[东台]</sup> 佛家语。能认识过去、未来的眼力。也泛指能照见实相的智慧。  
+1. 【[慧根](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_gen.md#慧根)】`huei6-5 gen1` <sup>[东台]</sup> 佛家语。慧能生道，故曰～。多指能透彻领悟佛法的根机。  
+1. 【[慧眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_ngaen.md#慧眼)】`huei6-5 ngaen3` <sup>[东台]</sup> 佛家语。能认识过去、未来的眼力。也泛指能照见实相的智慧。  
 1. 【[桧柽柳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_chen_lieu.md#桧柽柳)】`huei6 chen1 lieu3` <sup>[如东]</sup> 柽柳科植物柽柳，灌木或小乔木。  
 1. 【[槥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei.md#槥)】`huei6` <sup>[如皋]</sup> 简易棺材，无𤖱头。施～：给无力收者送的简易棺材。  
 1. 【[汇齐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qi.md#汇齐)】`huei6 qi2` ① <sup>\[兴化\]</sup>聚集：明早八点半到板桥宾馆～。<sup>\[兴化\]</sup> ② <sup>\[泰州\]</sup>聚集齐全：把材料～以后交上来。<sup>\[泰州\]</sup>  
