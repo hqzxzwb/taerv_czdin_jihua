@@ -325,8 +325,7 @@
 1. 【[八鲜行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_xin_han.md#八鲜行)】`baeh7 xin1 han2` ① <sup>\[如东\]</sup>买卖鲜货的商行。 ② <sup>\[如皋\]</sup>商行名。八鲜，指菱、藕、虾、蟹、蛼螯等。  
 1. 【[八只眼<sub>儿</sub>烧鲜汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_zheh_ngaen_r_sho_xin_tan.md#八只眼<sub>儿</sub>烧鲜汤)】`baeh7 zheh7 ngaen3 r sho1 xin1 tan1` <sup>[如皋]</sup> 詈语。祭品六只眼，算上某人的两只眼计八只眼。骂某人是畜牲。  
 1. 【[八珍糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_zhen_go.md#八珍糕)】`baeh7 zhen1 go1` ① <sup>\[如皋\]</sup>旧时中药店制的含八位中药（其中有“肉蛆子”）的米粉糕乾品，以药纸包装。 ② <sup>\[兴化\]</sup>由糯米粉、砂糖和八味中药材做成的糕点，形似云片糕。传为清末兴化名医赵海仙所创。  
-1. 【[八折](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_zhih.md#八折)】`baeh7 zhih7` <sup>[兴化]</sup> 骂人低能：他是个～，三言两语就捱人绕住啊。  
-1. 【[八折](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_zhih.md#八折)】`baeh7 zhih7` <sup>[泰州]</sup> ① 八成：打～，我俫就个人买一件。 ② 詈语，骂人智商低下，只有正常人的八折：这个小伙就是个～，你同他作气是丢自己架子。｜他这种～的人也能当干部的话，干部就真的不值钱唻。  
+1. 【[八折](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_zhih.md#八折)】`baeh7 zhih7` ① <sup>\[兴化\]\[泰州\]</sup>骂人低能：他是个～，三言两语就捱人绕住啊。<sup>\[兴化\]</sup>｜这个小伙就是个～，你同他作气是丢自己架子。<sup>\[泰州\]</sup>｜他这种～的人也能当干部的话，干部就真的不值钱唻。<sup>\[泰州\]</sup> ② <sup>\[泰州\]</sup>八成：打～，我俫就个人买一件。<sup>\[泰州\]</sup>  
 1. 【[扳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen.md#扳)】`baen1` ① <sup>\[如东\]</sup>使固定物体转动或改变方向：～闸。<sup>\[如东\]</sup> ② <sup>\[兴化\]</sup>争辩：他说话不在理，非要跟他～。<sup>\[兴化\]</sup> ③ <sup>\[兴化\]</sup>攀扯：“……老大你休快活，我们～你出来，只是恨你狠心情薄……”（《绿牡丹》四七）<sup>\[兴化\]</sup> ④ <sup>\[泰州\]</sup>用手抓住物体用力向下压或者向后拉压：你稍微轻吖点儿哉，不要把竹子～吖断吖。<sup>\[泰州\]</sup> ⑤ <sup>\[泰州\]</sup>扭转局势或者趋势：这件事要不是你帮忙，肯定～不过来。<sup>\[泰州\]</sup> ⑥ <sup>\[泰州\]</sup>争辩，辩驳：大人同你说这些话都是为你好的，你不要侭吖在这块～。<sup>\[泰州\]</sup>  
 1. 【[扳驳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_bah.md#扳驳)】`baen1 bah7` ① <sup>\[东台\]</sup>辩论：你的话到底对不对，我俫还要～一下子。<sup>\[东台\]</sup> ② <sup>\[兴化\]</sup>辩驳：别人说话，他总喜欢跟人家～。<sup>\[兴化\]</sup>｜“……他对我说个不了，我也不好～他……”（《广陵潮》八五）<sup>\[兴化\]</sup>  
 1. 【[扳驳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_bah.md#扳驳)】`baen1 bah7` <sup>[泰州]</sup> 找出理由驳斥别人的话：他说他的，你不睬他，侭吖同他～有甚的意思唦。  
@@ -1468,12 +1467,9 @@
 1. 【[䙀干的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_gun_dii.md#䙀干的)】`bon3 gun1 dii` <sup>[如皋]</sup> 很干燥。  
 1. 【[䙀叫叫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_jio_jio_r.md#䙀叫叫<sub>儿</sub>)】`bon3 jio5 jio5 r` <sup>[如皋]</sup> 见“䙀住咖”。  
 1. 【[䙀脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_lin.md#䙀脸)】`bon3 lin3` <sup>[如皋]</sup> ① 板着脸。 ② 脸上缺少滋润而难受。  
-1. 【[䙀硬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_ngen.md#䙀硬)】`bon3 ngen6` <sup>[东台]</sup> 形容坚硬结实。  
-1. 【[䙀硬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_ngen.md#䙀硬)】`bon3 ngen6` <sup>[兴化]</sup> 干硬：湿衣裳冻得～的。｜年糕晒得～的。  
-1. 【[䙀硬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_ngen.md#䙀硬)】`bon3 ngen6` <sup>[泰州]</sup> 很硬：这个咸鱼晒得～的，能摆好长时间。  
+1. 【[䙀硬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_ngen.md#䙀硬)】`bon3 ngen6` ① <sup>\[东台\]</sup>形容坚硬结实。 ② <sup>\[兴化\]</sup>干硬：湿衣裳冻得～的。<sup>\[兴化\]</sup>｜年糕晒得～的。<sup>\[兴化\]</sup> ③ <sup>\[泰州\]</sup>很硬：这个咸鱼晒得～的，能摆好长时间。<sup>\[泰州\]</sup>  
 1. 【[䙀硬的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_ngen_dii.md#䙀硬的)】`bon3 ngen6 dii` <sup>[如皋]</sup> 很硬，很结实。  
-1. 【[䙀脆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_qy.md#䙀脆)】`bon3 qy5` <sup>[东台]</sup> 非常脆。（脆相对于韧）  
-1. 【[䙀脆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_qy.md#䙀脆)】`bon3 qy5` <sup>[泰州]</sup> 爆裂之脆，某些食物坚韧而易断的口感：麻花儿煠得～的。｜～的杨花萝卜  
+1. 【[䙀脆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_qy.md#䙀脆)】`bon3 qy5` ① <sup>\[东台\]</sup>非常脆。（脆相对于韧） ② <sup>\[泰州\]</sup>爆裂之脆，某些食物坚韧而易断的口感：麻花儿煠得～的。<sup>\[泰州\]</sup>｜～的杨花萝卜<sup>\[泰州\]</sup>  
 1. 【[䙀脆的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_qy_dii.md#䙀脆的)】`bon3 qy5 dii` <sup>[如皋]</sup> 很脆。  
 1. 【[䙀人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_ren_zz.md#䙀人子)】`bon3 ren zz` <sup>[如皋]</sup> 脸上缺少滋润而难受。  
 1. 【[䙀定吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_tien_nga.md#䙀定吖)】`bon3 tien6 nga` <sup>[如皋]</sup> 见“䙀的”。  

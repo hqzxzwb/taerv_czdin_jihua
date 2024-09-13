@@ -1801,8 +1801,7 @@
 1. 【[灰浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_jian.md#灰浆)】`huei1 jian1` <sup>[兴化]</sup> 见“砂灰”。  
 1. 【[灰鹡鸰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_jieh_lien.md#灰鹡鸰)】`huei1 jieh7 lien2` <sup>[如东]</sup> 鸟。体长约180毫米。夏天喉有黑色，冬天下体全黄。飞行时呈波浪式前进。栖息时尾部不停上下摆动。多吃昆虫，属益鸟。  
 1. 【[灰毛鼠浪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_mo_chv_lan.md#灰毛鼠浪)】`huei1 mo2 chv3 lan` <sup>[兴化]</sup> ① 沾满尘土，不洁：家里～的，也不掸掸。｜身上弄得～的。 ② 形容颜色不鲜艳：这种布一落色，～的。  
-1. 【[灰毛鼠浪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_mo_chv_lan.md#灰毛鼠浪)】`huei1 mo2 chv3 lan6` <sup>[东台]</sup> 灰不溜秋的样子，像老鼠皮毛般难看。  
-1. 【[灰毛鼠浪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_mo_chv_lan.md#灰毛鼠浪)】`huei1 mo2 chv3 lan6` <sup>[泰县]</sup> 不鲜艳：这些服装～的，我不想买啊。  
+1. 【[灰毛鼠浪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_mo_chv_lan.md#灰毛鼠浪)】`huei1 mo2 chv3 lan6` ① <sup>\[东台\]</sup>灰不溜秋的样子，像老鼠皮毛般难看。 ② <sup>\[泰县\]</sup>不鲜艳：这些服装～的，我不想买啊。<sup>\[泰县\]</sup>  
 1. 【[灰毛老鼠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_mo_lo_chv.md#灰毛老鼠)】`huei1 mo2 lo3 chv3` <sup>[如东]</sup> 比喻颜色不鲜艳：这种布料不好，～样的。  
 1. 【[灰毛<sub>儿</sub>老鼠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_mo_r_lo_chv.md#灰毛<sub>儿</sub>老鼠)】`huei1 mo2 r lo3 chv3` <sup>[如皋]</sup> 见“灰头土脸的”。  
 1. 【[灰毛孙<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_mo_suen_r.md#灰毛孙<sub>儿</sub>)】`huei1 mo2 suen1 r` <sup>[东台]</sup> 玄孙，孙子的孙子。这里用灰尘和鸿毛比喻极细小。  
@@ -1864,8 +1863,7 @@
 1. 【[回下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_xia.md#回下)】`huei2 xia6` <sup>[如皋]</sup> 承认再无能力了：他吃咖二斤大曲还不肯～。  
 1. 【[回性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_xien.md#回性)】`huei2 xien5` <sup>[东台]</sup> 指事物发展到一定阶段出现的逆转趋势。如久晴后转阴：前几天热，这两天可望～。  
 1. 【[回债](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_zhae.md#回债)】`huei2 zhae5` <sup>[兴化]</sup> ① 糊弄索债的人：我俫催他还贷，他一次又一次的～。｜ ② （喻）搪塞：“……每逢要裹脚，你都是像～一般，落后都有一场打。”（《广陵潮》十二）  
-1. 【[回注](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_zhv.md#回注)】`huei2 zhv5` <sup>[泰州]</sup> ① 因感到满足而谢绝：这种人心太黑，不要说你才送吖这几回礼，你天天送礼把他，他都不作兴同你～的。 ② 因长时间吃某种美食而失去对此种美食的食欲：这些时天天弄红烧肉吃，把人都吃咖～唻。  
-1. 【[回注](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_zhv.md#回注)】`huei2 zhv5` <sup>[东台]</sup> 感到满足并表示拒绝：不管把他多少东西，他总不得～。  
+1. 【[回注](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_zhv.md#回注)】`huei2 zhv5` ① <sup>\[泰州\]\[东台\]</sup>感到满足而谢绝：这种人心太黑，不要说你才送吖这几回礼，你天天送礼把他，他都不作兴同你～的。<sup>\[泰州\]</sup>｜不管把他多少东西，他总不得～。<sup>\[东台\]</sup> ② <sup>\[泰州\]</sup>因长时间吃某种美食而失去对此种美食的食欲：这些时天天弄红烧肉吃，把人都吃咖～唻。<sup>\[泰州\]</sup>  
 1. 【[回子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_zz.md#回子)】`huei2 zz` <sup>[如皋]</sup> 伊斯兰教徒、回族人、波斯人：识宝～、～吃猪肉一自坏教门。  
 1. 【[茴香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_xian.md#茴香)】`huei2 xian1` ① <sup>\[如东\]</sup>伞形科植物茴香，多年生草本，有强烈香气。 ② <sup>\[兴化\]</sup>一种调味的香料。  
 1. 【[茴香果](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_xian_gu.md#茴香果)】`huei2 xian1 gu3` <sup>[如东]</sup> 伞形科植物茴香的果实。  
