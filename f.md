@@ -639,6 +639,7 @@
 1. 【[粉粉瓤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_fen_ran.md#粉粉瓤)】`fen3 fen3 ran2` <sup>[如皋]</sup> 极碎：他运起硬气功，把一块瓦瓷捏得～。  
 1. 【[粉缸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_gan_r.md#粉缸<sub>儿</sub>)】`fen3 gan1 r` <sup>[如皋]</sup> 装扑粉的小瓷缸。  
 1. 【[粉㾭㾭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_jieu_jieu.md#粉㾭㾭)】`fen3 jieu5 jieu5` <sup>[泰县]</sup> ① 粉很多：～的。 ② 形容土豆等烧得松软可口。  
+1. 【[粉烂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_laen.md#粉烂)】`fen3 laen6` (食物熟透而)松软：芋头烧得～的  
 1. 【[粉面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_min.md#粉面)】`fen3 min6` <sup>[泰州]</sup> 糯米面粉：姑妈送的～又细又白。  
 1. 【[粉末](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_muh.md#粉末)】`fen3 muh8` <sup>[如东]</sup> 非常细小的颗粒：剩下的都是些～。  
 1. 【[粉嫩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_nen.md#粉嫩)】`fen3 nen6` ① <sup>\[如东\]</sup>像凉粉一样的嫩滑。 ② <sup>\[如东\]</sup>比喻人的皮肤白嫩。 ③ <sup>\[兴化\]</sup>形容刚采摘的瓜果或某些菜肴麻脆绵软，新鲜可口：～的花香藕。<sup>\[兴化\]</sup>｜他还有一手好烹调，劖（劗）个肉圆儿，～的……（《广陵潮》六六）<sup>\[兴化\]</sup> ④ <sup>\[兴化\]</sup>娇嫩：“……这～的骨头如何经得起打……”（《说岳全传》三）<sup>\[兴化\]</sup>  
