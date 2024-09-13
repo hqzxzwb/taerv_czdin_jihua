@@ -1742,13 +1742,13 @@
 1. 【[㧾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh.md#㧾)】`hueh7` <sup>[兴化]</sup> 击、打：～他两家伙；～他嘴巴子。  
 1. 【[㱮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh.md#㱮)】`hueh7` <sup>[如皋]</sup> 朽：柱棵脚儿～掉啊。  
 1. 【[䶤𪘼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_laeh.md#䶤𪘼)】`hueh7 laeh` <sup>[如皋]</sup> 象声词：啮物声、咀嚼声。  
-1. 【[寣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh.md#寣)】`hueh7` ① <sup>\[如皋\]</sup>小睡：吃咖饭，隑啊沙发上～着咖刻儿。 ② <sup>\[东台\]</sup>一会儿，也作一忽儿。（张舜徽曰“今湖湘间亦称时之短暂为‘一寣’，音如‘忽’。”）：我开啊个夜车，早上才睡啊一～儿。<sup>\[东台\]</sup>  
+1. 【[寣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh.md#寣)】`hueh7` ① <sup>\[如皋\]</sup>小睡：吃咖饭，隑啊沙发上～着咖刻儿。<sup>\[如皋\]</sup> ② <sup>\[东台\]</sup>一会儿，也作一忽儿。（张舜徽曰“今湖湘间亦称时之短暂为‘一寣’，音如‘忽’。”）：我开啊个夜车，早上才睡啊一～儿。<sup>\[东台\]</sup>  
 1. 【[寣着咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_zhah_ga.md#寣着咖)】`hueh7 zhah7 ga` <sup>[东台]</sup> 刚刚迷迷糊糊地入睡：我才～，电话一响，赶快起身。  
 1. 【[忽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh.md#忽)】`hueh7` <sup>[如东]</sup> 长度和重量单位，一毫的百分之一。  
 1. 【[忽略](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_liah.md#忽略)】`hueh7 liah` ① <sup>\[东台\]</sup>得罪，伤害：我不曾～你，你甚的门儿偏要跟我过不去？<sup>\[东台\]</sup> ② <sup>\[如皋\]</sup>得罪人：他～我的，我不曾～他。<sup>\[如皋\]</sup> ③ <sup>\[兴化\]\[泰州\]</sup>轻视、侮慢\[泰州：（hueh7 naeh）\]：你嘴里不要～人。<sup>\[兴化\]</sup>｜“……哥哥何不去见见他，挂个名儿，在府里也体面些，外人也不敢～你。”（《梼杌闲评》九）<sup>\[兴化\]</sup>｜我俫不曾有哪个～咖他啊。<sup>\[泰州\]</sup>  
 1. 【[忽略人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_liah_ren.md#忽略人)】`hueh7 liah ren2` <sup>[如皋]</sup> 得罪人或引起误会。  
 1. 【[忽略](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_liah.md#忽略)】`hueh7 liah8` <sup>[如东]</sup> 没有注意：这件事我～咖，朆做。  
-1. 【[惚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh.md#惚)】`hueh7` ① 差 ② <sup>\[如东\]</sup>比喻才能小，水平低。 ③ <sup>\[如东\]</sup>比喻不结实：这种布～。<sup>\[如东\]</sup> ④ <sup>\[如东\]</sup>竹、木等物纤维组织腐烂变质。 ⑤ <sup>\[如皋\]</sup>品质、素质、能力差：成绩～、质料～。 ⑥ <sup>\[东台\]</sup>坏；质量差。 ⑦ <sup>\[兴化\]</sup>质地坏朽，而外形无明显变化：木头～咖<sup>\[兴化\]</sup>｜布～咖。<sup>\[兴化\]</sup> ⑧ <sup>\[兴化\]</sup>（引）指人作风数坏，品质恶劣：～胚料<sup>\[兴化\]</sup>｜～货。兴化词典作“殨”，《说文，歹部》<sup>\[兴化\]</sup>｜“～，烂也，胡对切。”《集韵·没韵》胡骨切<sup>\[兴化\]</sup>｜“～，肿坏也”。<sup>\[兴化\]</sup> ⑨ <sup>\[兴化\]</sup>惊恐：心里吓得～里～秃的。兴化词典作“𢝇”，《集韵·陌韵》霍號切<sup>\[兴化\]</sup>｜“～，心惊貌”，反切不合。<sup>\[兴化\]</sup> ⑩ <sup>\[泰州\]</sup>极坏：他这个人～吤，专门敲人家外地人的竹杠。<sup>\[泰州\]</sup>  
+1. 【[惚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh.md#惚)】`hueh7` ① <sup>\[如东\]\[兴化\]</sup>腐朽\[如东：竹、木等物纤维组织腐烂变质。\]\[兴化：质地坏朽，而外形无明显变化\]：木头～咖<sup>\[兴化\]</sup>｜布～咖。<sup>\[兴化\]</sup> ② <sup>\[如皋\]\[如东\]\[东台\]\[兴化\]\[泰州\]</sup>品质、素质、能力差：成绩～、质料～。<sup>\[如皋\]</sup>｜这种布～。<sup>\[如东\]</sup>｜～胚料<sup>\[兴化\]</sup>｜～货。<sup>\[兴化\]</sup>｜他这个人～吤，专门敲人家外地人的竹杠。<sup>\[泰州\]</sup> ③ <sup>\[兴化\]</sup>惊恐：心里吓得～里～秃的。<sup>\[兴化\]</sup>  
 1. 【[惚大鲞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_da_xian.md#惚大鲞)】`hueh7 da5 xian3` <sup>[如皋]</sup> 见“惚货”。  
 1. 【[惚大响](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_da_xian.md#惚大响)】`hueh7 da6 xian3` <sup>[东台]</sup> （詈语）指质量很差的东西：我去年买的沙发是个～，已经破得不像样吖。  
 1. 【[惚得加几](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_deh_jia_ji.md#惚得加几)】`hueh7 deh7 jia1 ji` <sup>[东台]</sup> 非常坏，或者素质太差的意思：那个骗子真～｜那个伢儿整天上网吧，成绩～。（见“加几”）  
@@ -1762,23 +1762,21 @@
 1. 【[惚坯料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_pi_lio.md#惚坯料)】`hueh7 pi1 lio6` <sup>[东台]</sup> 坏习惯；不良习性。（参见“坏癖”）  
 1. 【[惚事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_shr.md#惚事)】`hueh7 shr6` <sup>[如皋]</sup> 坏事、丑事、不能见人的事。  
 1. 【[惚𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_son.md#惚𪨊)】`hueh7 son2` ① 詈语，骂人没用，差劲。 ② <sup>\[东台\]</sup>（詈语）指坏人、混蛋（多指男性）。 ③ <sup>\[泰县\]\[泰州\]</sup>坏男人。  
-1. 【[惚胎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_tae.md#惚胎)】`hueh7 tae1` ① <sup>\[如皋\]</sup>詈语，指人格低下。 ② <sup>\[如皋\]</sup>见“惚货”。 ③ <sup>\[兴化\]</sup>骂人品性恶劣：这个～，甚的坏事、丑事总做得出来。<sup>\[兴化\]</sup>  
-1. 【[惚胎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_tae.md#惚胎)】`hueh7 tae1` <sup>[泰州]</sup> 品行恶劣的人。  
+1. 【[惚胎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_tae.md#惚胎)】`hueh7 tae1` <sup>\[如皋\]\[兴化\]\[泰州\]</sup>詈语，指人格低下、品行恶劣的人。\[如皋：参见“惚货”。\]：这个～，甚的坏事、丑事总做得出来。<sup>\[兴化\]</sup>  
 1. 【[惚筒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_ton_zz.md#惚筒子)】`hueh7 ton3 zz` <sup>[东台]</sup> ［喻］（詈语）指学习成绩很差的人。  
 1. 【[惚砟<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_zha_r.md#惚砟<sub>儿</sub>)】`hueh7 zha3 r` <sup>[东台]</sup> 指质量最差的部分：他俫几个成绩太差，都是班上～。  
 1. 【[惚着子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_zhah_zz.md#惚着子)】`hueh7 zhah7 zz` <sup>[如皋]</sup> 无效的或引起负作用的步骤。  
 1. 【[㱮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh.md#㱮)】`hueh8` <sup>[东台]</sup> 浑浊。（原文作“浑 hueh8”。㱮，《集韻》胡骨切，音搰。爛也。泰县方言志作此字。）：～汤。  
 1. 【[㱮笃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_doh.md#㱮笃)】`hueh8 doh` <sup>[泰县]</sup> 糊涂：我倒～住啊，他到底哿来。  
+1. 【[㱮嘟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_dv.md#㱮嘟)】`hueh8 dv` <sup>[兴化]</sup> 形容面汤、圆子汤起粘：汤～起来啊。｜一锅～子。  
 1. 【[㱮汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_tan.md#㱮汤)】`hueh8 tan1` <sup>[泰县]</sup> 面、粉等食物过多溶解于汤中。  
 1. 【[囫囵吞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_len_ten.md#囫囵吞)】`hueh8 len ten1` <sup>[兴化]</sup> ① 整吃：一个汤圆子他～下去。 ② （喻）学习内容不消化，死背硬记：老师讲的功课，他只顾～，也不去思考。  
-1. 【[殨嘟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_dv.md#殨嘟)】`hueh8 dv` <sup>[兴化]</sup> 形容面汤、圆子汤起粘：汤～起来啊。｜一锅～子。  
 1. 【[殨动吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_ton_nga.md#殨动吖)】`hueh8 ton6 nga` <sup>[东台]</sup> 食品开始发酵变坏了。  
-1. 【[𣝗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh.md#𣝗)】`hueh8` ① <sup>\[东台\]</sup>核果中心的坚硬部分：桃～子。<sup>\[东台\]</sup> ② <sup>\[兴化\]</sup>果核（原文记音hueh7）：枣～子；梨～子<sup>\[兴化\]</sup>  
 1. 【[𣝗得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_deh.md#𣝗得)】`hueh8 deh` <sup>[如皋]</sup> 惊呆、痴呆状。  
 1. 【[𣝗髅<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_leu_r.md#𣝗髅<sub>儿</sub>)】`hueh8 leu2 r` <sup>[如东]</sup> ① 干枯无肉的死人头骨。 ② 比喻人的头：～不小。  
 1. 【[𣝗髅<sub>儿</sub>搬家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_leu_r_bun_jia.md#𣝗髅<sub>儿</sub>搬家)】`hueh8 leu2 r bun1 jia1` <sup>[如东]</sup> 头被砍了。  
 1. 【[𣝗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_zz.md#𣝗子)】`hueh8 zz, veh8 zz` <sup>[如东]</sup> ① 果实中坚硬并包含种仁的部分。 ② 肌肤里的瘤块。  
-1. 【[𣝗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_zz.md#𣝗子)】`hueh8 zz` ① <sup>\[如皋\]</sup>果核：桃～、杏～。 ② <sup>\[如皋\]</sup>皮下的硬块。 ③ <sup>\[如皋\]</sup>身上淋巴结肿大。 ④ <sup>\[泰县\]</sup>疙瘩：心里有个～。  
+1. 【[𣝗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_zz.md#𣝗子)】`hueh8 zz` ① <sup>\[如皋\]\[东台\]\[兴化\]</sup>果核\[兴化：（hueh7）\]：桃～、杏～。<sup>\[如皋\]</sup>｜桃～<sup>\[东台\]</sup>｜枣～；梨～<sup>\[兴化\]</sup> ② <sup>\[如皋\]</sup>皮下的硬块。 ③ <sup>\[如皋\]</sup>身上淋巴结肿大。 ④ <sup>\[泰县\]</sup>疙瘩：心里有个～。<sup>\[泰县\]</sup>  
 1. 【[灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei.md#灰)】`huei1` <sup>[泰州]</sup> ① 尘土：把身上的～掸吖子再家来。 ② 垃圾：把畚斗里的～倒啊外头灰堆上去。  
 1. 【[灰巴绿簇的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_ba_loh_coh_dii.md#灰巴绿簇的)】`huei1 ba loh8 coh7 dii` <sup>[如皋]</sup> 灰绿而暗滞的颜色。  
 1. 【[灰巴绿色的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_ba_loh_seh_dii.md#灰巴绿色的)】`huei1 ba loh8 seh7 dii` <sup>[如皋]</sup> 灰绿而暗滞的颜色。  

@@ -1452,13 +1452,12 @@
 1. 【[绷钩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_geu_r.md#绷钩<sub>儿</sub>)】`bon1 geu1 r` <sup>[如皋]</sup> 利用弹性绷住鱼嘴的钩具。  
 1. 【[绷干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_gun.md#绷干)】`bon1 gun1` <sup>[如东]</sup> 非常干燥：麦晒得～。  
 1. 【[绷下来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_ha_lae_a.md#绷下来啊)】`bon1 ha lae2 a` <sup>[如皋]</sup> 绷裂了。  
-1. 【[绷簧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_huan.md#绷簧)】`bon1 huan2` ① <sup>\[兴化\]</sup>弹簧。 ② <sup>\[泰县\]</sup>弹簧。  
+1. 【[绷簧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_huan.md#绷簧)】`bon1 huan2` <sup>\[兴化\]\[泰县\]</sup>弹簧。  
 1. 【[绷面子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_min_zz.md#绷面子)】`bon1 min6 zz` <sup>[如东]</sup> 下雨之后，土层表面板结。  
 1. 【[绷吖脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_nga_lin.md#绷吖脸)】`bon1 nga lin3` <sup>[如东]</sup> 板着脸。  
 1. 【[绷皮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_pi_zz.md#绷皮子)】`bon1 pi2 zz` <sup>[如皋]</sup> 脸上缺少滋润而难受。  
 1. 【[绷掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_tio.md#绷掉)】`bon1 tio` <sup>[如皋]</sup> ① 绷裂：裤子捱～啊。 ② 谈判失败：宁可谈吖～，不可谈吖松掉。  
-1. 【[绷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_zz.md#绷子)】`bon1 zz` ① <sup>\[如东\]</sup>工具。圆形或方形，竹制或木制，用来绷紧布绸绣花。 ② <sup>\[兴化\]</sup>棕、藤等在木框上编成的床面：～床；藤～。<sup>\[兴化\]</sup> ③ <sup>\[兴化\]</sup>结成环形的线，二人用手交替，结成不同图案：解～（翻绳游戏）。<sup>\[兴化\]</sup>  
-1. 【[绷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_zz.md#绷子)】`bon1 zz` <sup>[泰州]</sup> 一种家具名称，功能同床板，以其是将棕绳编成网状绷在木框四周而成，故名。绷子富有弹性，旧时多为小康之家卧具：～枉吖唻，要喊穿～的人来整啊子。  
+1. 【[绷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_zz.md#绷子)】`bon1 zz` ① <sup>\[如东\]</sup>工具。圆形或方形，竹制或木制，用来绷紧布绸绣花。 ② <sup>\[兴化\]</sup>棕、藤等在木框上编成的床面：～床；藤～。<sup>\[兴化\]</sup> ③ <sup>\[兴化\]</sup>结成环形的线，二人用手交替，结成不同图案：解～（翻绳游戏）。<sup>\[兴化\]</sup> ④ <sup>\[泰州\]</sup>一种家具名称，功能同床板，以其是将棕绳编成网状绷在木框四周而成，故名。绷子富有弹性，旧时多为小康之家卧具：～枉吖唻，要喊穿～的人来整啊子。<sup>\[泰州\]</sup>  
 1. 【[䙀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon.md#䙀)】`bon3` ① <sup>\[如皋\]</sup>状短缺：手里～，暂时不买。<sup>\[如皋\]</sup> ② <sup>\[如皋\]</sup>副词，相当于“很、挺、只得”：～脆的、～定吖去、硬～～的。<sup>\[如皋\]</sup> ③ <sup>\[泰县\]</sup>很：～干。<sup>\[泰县\]</sup>  
 1. 【[䙀住咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_chuh_ga.md#䙀住咖)】`bon3 chuh ga` <sup>[如皋]</sup> 僵持着、並比着、牵制着。  
 1. 【[䙀住咖吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_chuh_ga_qieh.md#䙀住咖吃)】`bon3 chuh ga qieh7` <sup>[如皋]</sup> 见“䙀住咖”。  
