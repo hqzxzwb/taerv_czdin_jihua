@@ -1877,7 +1877,7 @@
 1. 【[晦气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qi.md#晦气)】`huei5 qi5` ① <sup>\[如东\]</sup>倒霉：～，出门就跌跟头。<sup>\[如东\]</sup> ② <sup>\[如皋\]</sup>口头禅语。 ③ <sup>\[东台\]</sup>倒霉，或认为倒霉的口头禅。 ④ <sup>\[兴化\]</sup>丧气、不吉：“我～，他倒来惹我！”（《水浒传》六）<sup>\[兴化\]</sup>｜《清稗类钞·方言类》<sup>\[兴化\]</sup>｜“北人出遇不详曰丧气，南人曰～。”<sup>\[兴化\]</sup> ⑤ <sup>\[兴化\]</sup>骂人不长进：这个～！大事小事做不来，只有吃的本事！<sup>\[兴化\]</sup>  
 1. 【[晦气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qi.md#晦气)】`huei5 qi5` <sup>[泰州]</sup> 倒霉，不吉利的：你说哿～啊，车子才到啊黄山就遇到大雨，也不曾玩得成。｜今朝～，脚踏车摆家门口还捱贼子偷掉啊。  
 1. 【[晦气杲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qi_go_zz.md#晦气杲子)】`huei5 qi5 go3 zz` <sup>[如东]</sup> 不争气的人：来啊个～。  
-1. 【[晦气鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qi_guei.md#晦气鬼)】`huei5 qi5 guei3` ① <sup>\[如东\]</sup>心术不正的人。 ② <sup>\[泰县\]</sup>心术不正的人：他是个～，你不要跟他往来。  
+1. 【[晦气鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qi_guei.md#晦气鬼)】`huei5 qi5 guei3` <sup>\[如东\]\[泰县\]</sup>心术不正的人：他是个～，你不要跟他往来。<sup>\[泰县\]</sup>  
 1. 【[晦气货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qi_hu.md#晦气货)】`huei5 qi5 hu5` ① <sup>\[如东\]</sup>不务正业、没有出息的人。 ② <sup>\[东台\]</sup>（詈语）倒霉蛋；堕落鬼：他把事情人为弄糟啊，真个～，怎吖好呢！<sup>\[东台\]</sup>  
 1. 【[晦气样子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qi_ian_zz.md#晦气样子)】`huei5 qi5 ian6 zz` <sup>[如皋]</sup> 倒楣、不遂的样子。  
 1. 【[晦气色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qi_seh.md#晦气色)】`huei5 qi5 seh7` ① <sup>\[如皋\]</sup>灰暗之色倒楣、生病的气色。 ② <sup>\[兴化\]</sup>形容人患病或失意时面部黯淡的气色：我看他满脸～，怕又犯吖甚的事。<sup>\[兴化\]</sup>  

@@ -534,7 +534,7 @@
 1. 【[唩啰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_lu.md#唩啰)】`u lu` <sup>[如东]</sup> 呼狗声。  
 1. 【[䝹𧶲户<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_den_hv_r.md#䝹𧶲户<sub>儿</sub>)】`u1 den hv6 r` <sup>[东台]</sup> un3 dun3 hv6 r的转音。平时不张扬，低调，但很殷实的人家：覅看这个企业小，其实是个～。  
 1. 【[倭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_zz.md#倭子)】`u1 zz` <sup>[如皋]</sup> 旧称日本国为倭国。其海盗为～：西场镇有～坟。  
-1. 【[唩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u.md#唩)】`u1` ① <sup>\[如皋\]</sup>说话缠夹不清：舌头打～、说话～七～八的、～里～咑的、～咑～咑的。 ② <sup>\[泰州\]</sup>舌头僵在口中，说话吐字不清的样子：只听他嘴里～啊～的，不晓得他说的是甚的意思。<sup>\[泰州\]</sup>｜这小伙说话像舌头～啊嘴里，怕的是小时候惯吖狠吖。<sup>\[泰州\]</sup>  
+1. 【[唩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u.md#唩)】`u1` ① <sup>\[如皋\]</sup>说话缠夹不清：舌头打～、说话～七～八的、～里～咑的、～咑～咑的。<sup>\[如皋\]</sup> ② <sup>\[泰州\]</sup>舌头僵在口中，说话吐字不清的样子：只听他嘴里～啊～的，不晓得他说的是甚的意思。<sup>\[泰州\]</sup>｜这小伙说话像舌头～啊嘴里，怕的是小时候惯吖狠吖。<sup>\[泰州\]</sup>  
 1. 【[屙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u.md#屙)】`u1` <sup>\[兴化\]\[泰州\]</sup>排泄（大小便）：～屎；～尿。<sup>\[兴化\]</sup>  
 1. 【[屙啊一裤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_a_ieh_kv_zz.md#屙啊一裤子)】`u1 a ieh7 kv5 zz` <sup>[如皋]</sup> 状情况糟透了。  
 1. 【[屙㞎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_ba.md#屙㞎)】`u1 ba3` <sup>[东台]</sup> 解大便。多用于小孩。  
@@ -553,7 +553,7 @@
 1. 【[屙屎捅节节<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_shr_ton_jih_jih_r.md#屙屎捅节节<sub>儿</sub>)】`u1 shr3 ton3 jih7 jih7 r` <sup>[如皋]</sup> 贬指压力下慢慢前进：他是～，你不压，他不动。  
 1. 【[屙尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_xy.md#屙尿)】`u1 xy1` <sup>[如东]</sup> 撒尿。  
 1. 【[屙奘屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_zhuan_shr.md#屙奘屎)】`u1 zhuan3 shr3` ① <sup>\[东台\]</sup>讽喻小气鬼难得做了一件大方事：他挣（zhen5）吖半天，终于～，掏出500块钱埋啊单。<sup>\[东台\]</sup> ② <sup>\[东台\]</sup>讽喻没有实力也想办大事：你没得钱，覅想～！<sup>\[东台\]</sup> ③ <sup>\[兴化\]</sup>（讽）大出手：这次老四～，拿出百块钱来请客。<sup>\[兴化\]</sup>  
-1. 【[涴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u.md#涴)】`u1` <sup>[如皋]</sup> ① 借指错、糟及糊涂不清：记～账、说～话。做～事、事情发咖～。 ② 借指混水摸鱼、占有：钱总捱他～啊去啊；他同你～，你同他～，大家並吖～，看哪个～得凶。  
+1. 【[涴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u.md#涴)】`u1` <sup>[如皋]</sup> ① 借指错、糟及糊涂不清：记～账、说～话。做～事、事情发咖～。 ② 借指混水摸鱼、占有：钱总捱他～啊去啊｜他同你～，你同他～，大家並吖～，看哪个～得凶。  
 1. 【[涴啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_a.md#涴啊)】`u1 a` <sup>[如皋]</sup> 糟了。  
 1. 【[涴话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_hua.md#涴话)】`u1 hua6` ① <sup>\[如皋\]</sup>反悔、推辞、不负责任的话。 ② <sup>\[泰县\]</sup>抵赖的话。  
 1. 【[窝啊嘴里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_a_jy_lii.md#窝啊嘴里)】`u1 a jy3 lii` <sup>[东台]</sup> 形容某人说话支支吾吾，含混不清。  
