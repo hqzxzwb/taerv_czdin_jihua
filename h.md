@@ -418,7 +418,7 @@
 1. 【[夯力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_lieh.md#夯力)】`han1 lieh8` <sup>[泰州]</sup> 身材粗笨之人有的大力气：这小伙有～，二百斤担子挑啊不费事。  
 1. 【[夯手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_sheu.md#夯手)】`han1 sheu3` <sup>[如东]</sup> 碰手：人多，～。  
 1. 【[夯手膀子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_sheu_ban_zz.md#夯手膀子)】`han1 sheu3 ban3 zz` <sup>[如东]</sup> 用手臂相碰，暗地里通气，送信息。  
-1. 【[夯㞞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_son.md#夯㞞)】`han1 son2` <sup>[泰州]</sup> 愚蠢而冒失的人，带有些许詈义：你说他哿是个～，一撉儿把人家打啊伤吖，用掉万把块钱。｜会上大家一个都不曾开口，只有他这个～提啊有好几条意见，弄得厂长脸上挂不住。  
+1. 【[夯𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_son.md#夯𪨊)】`han1 son2` <sup>[泰州]</sup> 愚蠢而冒失的人，带有些许詈义：你说他哿是个～，一撉儿把人家打啊伤吖，用掉万把块钱。｜会上大家一个都不曾开口，只有他这个～提啊有好几条意见，弄得厂长脸上挂不住。  
 1. 【[炕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han.md#炕)】`han1` ① <sup>\[东台\]</sup>（另见han5）：热～热～的<sup>\[东台\]</sup>｜锅炉旁～人。<sup>\[东台\]</sup> ② <sup>\[泰县\]</sup>用火拱、烤：～山芋甜得很。<sup>\[泰县\]</sup> ③ <sup>\[泰县\]</sup>把冷食品放在锅里热。  
 1. 【[𠇴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han.md#𠇴)】`han1` 表复数的前缀：～人/人们  
 1. 【[𩠾气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_qi.md#𩠾气)】`han1 qi5` <sup>[如东]</sup> 喘气。  

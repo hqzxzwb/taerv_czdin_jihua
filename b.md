@@ -1447,9 +1447,7 @@
 1. 【[崩滩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_taen.md#崩滩)】`bon1 taen1` <sup>[兴化]</sup> 河湖岸边由坍塌的泥土形成的缓坡。  
 1. 【[绷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon.md#绷)】`bon1` ① <sup>\[兴化\]</sup>撑：把口袋～开来灌米。<sup>\[兴化\]</sup> ② <sup>\[兴化\]</sup>用双手把成股的线撑开：你～线，我绕线。<sup>\[兴化\]</sup> ③ <sup>\[泰州\]</sup>张紧，用力将柔韧之物由里向外（两边或者四周）撑开拉紧，以成平直坚挺的状态。缠束之力是由外向里的收缩，绷是反之，其力是由里向外伸张：你帮她把被单里子绷吖床上，让她絾被单！<sup>\[泰州\]</sup>  
 1. 【[绷场面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_chan_min.md#绷场面)】`bon1 chan2 min6` <sup>[兴化]</sup> 撑场面：我请你替我～，千万架势。  
-1. 【[绷脆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_cuei.md#绷脆)】`bon1 cuei5` <sup>[如东]</sup> 非常脆。  
 1. 【[绷钩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_geu_r.md#绷钩<sub>儿</sub>)】`bon1 geu1 r` <sup>[如皋]</sup> 利用弹性绷住鱼嘴的钩具。  
-1. 【[绷干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_gun.md#绷干)】`bon1 gun1` <sup>[如东]</sup> 非常干燥：麦晒得～。  
 1. 【[绷下来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_ha_lae_a.md#绷下来啊)】`bon1 ha lae2 a` <sup>[如皋]</sup> 绷裂了。  
 1. 【[绷簧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_huan.md#绷簧)】`bon1 huan2` <sup>\[兴化\]\[泰县\]</sup>弹簧。  
 1. 【[绷面子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_min_zz.md#绷面子)】`bon1 min6 zz` <sup>[如东]</sup> 下雨之后，土层表面板结。  
@@ -1461,8 +1459,10 @@
 1. 【[䙀住咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_chuh_ga.md#䙀住咖)】`bon3 chuh ga` <sup>[如皋]</sup> 僵持着、並比着、牵制着。  
 1. 【[䙀住咖吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_chuh_ga_qieh.md#䙀住咖吃)】`bon3 chuh ga qieh7` <sup>[如皋]</sup> 见“䙀住咖”。  
 1. 【[䙀住咖做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_chuh_ga_zu.md#䙀住咖做)】`bon3 chuh ga zu5` <sup>[如皋]</sup> 情势所逼，非做不可。  
+1. 【[䙀脆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_cuei.md#䙀脆)】`bon3 cuei5` <sup>[如东]</sup> 非常脆。  
 1. 【[䙀得扎实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_deh_zhaeh_sheh.md#䙀得扎实)】`bon3 deh zhaeh7 sheh` <sup>[如皋]</sup> ① 钱物十分短缺。 ② 僵持得厉害。  
 1. 【[䙀的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_dii.md#䙀的)】`bon3 dii` <sup>[如皋]</sup> 只好这样，只得，非得：他是我的儿子，我～要照应他。  
+1. 【[䙀干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_gun.md#䙀干)】`bon3 gun1` <sup>[如东]</sup> 非常干燥：麦晒得～。  
 1. 【[䙀干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_gun.md#䙀干)】`bon3 gun1` <sup>[泰州]</sup> 物体非常干燥的样子：今儿子太阳好，才洗的衣裳，晒啊一刻儿就～的唻。｜粉面晒得～的，灌吖坛肚里去。  
 1. 【[䙀干的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_gun_dii.md#䙀干的)】`bon3 gun1 dii` <sup>[如皋]</sup> 很干燥。  
 1. 【[䙀叫叫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_jio_jio_r.md#䙀叫叫<sub>儿</sub>)】`bon3 jio5 jio5 r` <sup>[如皋]</sup> 见“䙀住咖”。  

@@ -45,7 +45,7 @@
 1. 【[窝䇽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_zhih.md#窝䇽)】`u1 zhih7` ① <sup>\[东台\]</sup>用苇片编织的长条形的粗席，用于圈囤粮食等农产品。 ② <sup>\[兴化\]</sup>狭长的芦席，不用时窝成一盘，使用时旋成圆筒形，用来堆放粮食。 ③ <sup>\[泰县\]</sup>囤粮用的䇽子。  
 1. 【[窝吱搭蛮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_zhr_daeh_maen.md#窝吱搭蛮)】`u1 zhr1 daeh7 maen2` <sup>[东台]</sup> 讲话不清楚，别人无法理解：他～的说咖好早晚，旁人还是一头雾水。  
 1. 【[窝主](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_zhv.md#窝主)】`u1 zhv3` <sup>[如东]</sup> 隐藏赃物的人：黄三儿是这些贼的～。  
-1. 【[窝子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_zz.md#窝子)】`u1 zz` ① <sup>\[如东\]</sup>小型窝棚，如鸡窝子。比喻居住的地方：我终于有了个～。<sup>\[如东\]</sup> ② <sup>\[东台\]</sup>位子，工作岗位：大家要爱岗敬业，不要老想动～。<sup>\[东台\]</sup> ③ <sup>\[兴化\]</sup>固定的地点：这许是他设摊的～，别人不好占。<sup>\[兴化\]</sup> ④ <sup>\[泰县\]</sup>位置：他把你的～挤掉啊。  
+1. 【[窝子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_zz.md#窝子)】`u1 zz` ① <sup>\[如东\]</sup>小型窝棚，如鸡窝子。比喻居住的地方：我终于有了个～。<sup>\[如东\]</sup> ② <sup>\[东台\]</sup>位子，工作岗位：大家要爱岗敬业，不要老想动～。<sup>\[东台\]</sup> ③ <sup>\[兴化\]</sup>固定的地点：这许是他设摊的～，别人不好占。<sup>\[兴化\]</sup> ④ <sup>\[泰县\]</sup>位置：他把你的～挤掉啊。<sup>\[泰县\]</sup>  
 1. 【[蜗螺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_lu_r.md#蜗螺<sub>儿</sub>)】`u1 lu1 r` <sup>[如皋]</sup> 螺蛳。  
 1. 【[蜗螺<sub>儿</sub>不吃粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_lu_r_beh_qieh_zhoh.md#蜗螺<sub>儿</sub>不吃粥)】`u1 lu1 r beh7 qieh7 zhoh7` <sup>[如皋]</sup> 短翅树莺。本地以鸣声状名。往往闻其声不见其身形。  
 1. 【[蜗螺<sub>儿</sub>菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_lu_r_cae.md#蜗螺<sub>儿</sub>菜)】`u1 lu1 r cae5` <sup>[如皋]</sup> 甘露子。  
