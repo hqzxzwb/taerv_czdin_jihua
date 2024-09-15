@@ -1461,8 +1461,7 @@
 1. 【[䙀脆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_cuei.md#䙀脆)】`bon3 cuei5` <sup>[如东]</sup> 非常脆。  
 1. 【[䙀得扎实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_deh_zhaeh_sheh.md#䙀得扎实)】`bon3 deh zhaeh7 sheh` <sup>[如皋]</sup> ① 钱物十分短缺。 ② 僵持得厉害。  
 1. 【[䙀的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_dii.md#䙀的)】`bon3 dii` <sup>[如皋]</sup> 只好这样，只得，非得：他是我的儿子，我～要照应他。  
-1. 【[䙀干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_gun.md#䙀干)】`bon3 gun1` <sup>[如东]</sup> 非常干燥：麦晒得～。  
-1. 【[䙀干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_gun.md#䙀干)】`bon3 gun1` <sup>[泰州]</sup> 物体非常干燥的样子：今儿子太阳好，才洗的衣裳，晒啊一刻儿就～的唻。｜粉面晒得～的，灌吖坛肚里去。  
+1. 【[䙀干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_gun.md#䙀干)】`bon3 gun1` 非常干燥。<sup>\[如东\]</sup><sup>\[泰州\]</sup>：麦晒得～。<sup>\[如东\]</sup>｜今儿子太阳好，才洗的衣裳，晒啊一刻儿就～的唻。<sup>\[泰州\]</sup>｜粉面晒得～的，灌吖坛肚里去。<sup>\[泰州\]</sup>  
 1. 【[䙀干的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_gun_dii.md#䙀干的)】`bon3 gun1 dii` <sup>[如皋]</sup> 很干燥。  
 1. 【[䙀叫叫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_jio_jio_r.md#䙀叫叫<sub>儿</sub>)】`bon3 jio5 jio5 r` <sup>[如皋]</sup> 见“䙀住咖”。  
 1. 【[䙀脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_lin.md#䙀脸)】`bon3 lin3` <sup>[如皋]</sup> ① 板着脸。 ② 脸上缺少滋润而难受。  

@@ -1967,8 +1967,7 @@
 1. 【[混脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_jiah_r.md#混脚<sub>儿</sub>)】`huen5 jiah7 r` <sup>[兴化]</sup> 在外混世的人：他是～，跟在头头后边三年不到，由临时工混上副总。  
 1. 【[混来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_lae.md#混来)】`huen5 lae2` <sup>[如东]</sup> 蛮干，乱干。  
 1. 【[混赖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_lae.md#混赖)】`huen5 lae6` <sup>[兴化]</sup> ① 抵赖：他明明借啊王二的钱，到期不还想～。 ② 骗取、冒认：才把解珍、解宝押到厅前，不由分说，捆翻便打，定要他两个招做“～大虫……”。（《水浒传》四九》）  
-1. 【[混闷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_men.md#混闷)】`huen5 men5` <sup>[如皋]</sup> ① 受误解、受不公而抑郁。 ② 气恼，发闷。  
-1. 【[混闷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_men.md#混闷)】`huen5 men5` <sup>[泰县]</sup> 有苦说不出：他心里～，睡啊两天。  
+1. 【[混闷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_men.md#混闷)】`huen5 men5` ① 受误解、受不公而抑郁。<sup>\[如皋\]</sup> ② 气恼，发闷。<sup>\[如皋\]</sup> ③ 有苦说不出<sup>\[泰县\]</sup>：他心里～，睡啊两天。<sup>\[泰县\]</sup>  
 1. 【[混闷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_men.md#混闷)】`huen5 men6` <sup>[如东]</sup> 有苦说不出来：他不吃饭，心里～。  
 1. 【[混穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_qion.md#混穷)】`huen5 qion2` 做小买卖或苦力活勉强维持生活。也用作某项职业的谦辞<sup>\[东台\]</sup><sup>\[兴化\]</sup>：我这工作没出息，只是～而已。<sup>\[东台\]</sup>｜我哪里是什么大老板，～罢了。<sup>\[兴化\]</sup>  
 1. 【[混世魔王](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_shr_mu_van.md#混世魔王)】`huen5 shr5 mu2 van2` <sup>[东台]</sup> ［喻］扰乱世界、给人们带来严重危害的恶人：这个～终于捱执行吖死刑。  
@@ -1977,8 +1976,7 @@
 1. 【[溷/荤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen.md#溷/荤)】`huen5` 葱蒜气味  
 1. 【[溷吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_nga.md#溷吖)】`huen5 nga` <sup>[如皋]</sup> 鱼肉类开始变质有臭味。  
 1. 【[溷气味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_qi_vei.md#溷气味)】`huen5 qi vei6` <sup>[兴化]</sup> 指葱、蒜、非之类特有的气味：他喜欢吃大蒜，一嘴的～。  
-1. 【[溷气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_qi.md#溷气)】`huen5 qi5` <sup>[如皋]</sup> ① 葱蒜之类的辛味。 ② 指葱蒜之类食品。见“五荤”。  
-1. 【[溷气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_qi.md#溷气)】`huen5 qi5` <sup>[东台]</sup> 葱、蒜、韭菜等散发的刺鼻气味：刚刚吃咖大蒜，嘴里一阵～味。  
+1. 【[溷气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_qi.md#溷气)】`huen5 qi5` ① 葱、蒜、韭之类的辛味。<sup>\[如皋\]</sup><sup>\[东台\]</sup>：刚刚吃咖大蒜，嘴里一阵～味。<sup>\[东台\]</sup> ② 指葱蒜之类食品。见“五荤”。<sup>\[如皋\]</sup>  
 1. 【[溷味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_vei.md#溷味)】`huen5 vei6` <sup>[如皋]</sup> ① 同“溷气”。 ② 鱼肉类开始变质的臭味。  
 1. 【[混饭吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_faen_qieh.md#混饭吃)】`huen6 faen6 qieh7` <sup>[如东]</sup> 勉强弄点饭吃吃：他是为啊～。  
 1. 【[混饭碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_faen_un.md#混饭碗)】`huen6 faen6 un3` <sup>[兴化]</sup> 餬口。  
@@ -2156,8 +2154,7 @@
 1. 【[寒瘆瘆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_shen_shen.md#寒瘆瘆)】`hun2 shen shen5` <sup>[兴化]</sup> 因寒冷而欲颤的感觉：身上～的。  
 1. 【[寒瘆瘆的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_shen_shen_dii.md#寒瘆瘆的)】`hun2 shen5 shen5 dii` <sup>[东台]</sup> 身上发寒，嫌冷，不时打冷战：这天多冷！我身上～。  
 1. 【[寒酸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_sun.md#寒酸)】`hun2 sun1` <sup>[泰州]</sup> 形容贫苦读书人的穷困窘态：请客没得一个像样的菜，也太～吖唻。  
-1. 【[寒丝丝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_sz_sz.md#寒丝丝)】`hun2 sz1 sz1` <sup>[如皋]</sup> 微冷。  
-1. 【[寒丝丝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_sz_sz.md#寒丝丝)】`hun2 sz1 sz1` <sup>[兴化]</sup> ① 寒冷的感觉：经风一吹身上～的。 ② 害怕的心理：我被他这一看，心里倒被他看得～的。（《火烧赤壁》六）  
+1. 【[寒丝丝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_sz_sz.md#寒丝丝)】`hun2 sz1 sz1` ① 微冷。<sup>\[如皋\]</sup> ② 寒冷的感觉<sup>\[兴化\]</sup>：经风一吹身上～的。<sup>\[兴化\]</sup> ③ 害怕的心理<sup>\[兴化\]</sup>：我被他这一看，心里倒被他看得～的。（《火烧赤壁》六）<sup>\[兴化\]</sup>  
 1. 【[寒天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_tin.md#寒天)】`hun2 tin1` 冷天，冬天。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>  
 1. 【[寒天时候](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_tin_shr_heu.md#寒天时候)】`hun2 tin1 shr2 heu` <sup>[如皋]</sup> 冬天。  
 1. 【[寒心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_xien.md#寒心)】`hun2 xien1` <sup>[东台]</sup> 令人失望而痛心。  
@@ -2168,8 +2165,7 @@
 1. 【[唤狗吃屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_geu_qieh_shr.md#唤狗吃屎)】`hun5 geu3 qieh7 shr3` <sup>[兴化]</sup> 嘲骂人过于驯顺、听话：你听他一喊就走，就像是～，真没意思。  
 1. 【[唤声骂狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_shen_ma_geu.md#唤声骂狗)】`hun5 shen1 ma6 geu3` <sup>[兴化]</sup> 形容大声斥骂：他家两口子动不动对伢儿～的。  
 1. 【[汉气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_qi.md#汉气)】`hun5 qi5` <sup>[如皋]</sup> 男子汉的气概。  
-1. 【[汉声](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_shen.md#汉声)】`hun5 shen1` <sup>[如皋]</sup> 女若男声。  
-1. 【[汉声](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_shen.md#汉声)】`hun5 shen1` <sup>[兴化]</sup> 男青年由于生理变化，噪音由尖细变得低沉：小吴说话起～，发身吖。  
+1. 【[汉声](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_shen.md#汉声)】`hun5 shen1` ① 女若男声。<sup>\[如皋\]</sup> ② 男青年由于生理变化，噪音由尖细变得低沉<sup>\[兴化\]</sup>：小吴说话起～，发身吖。<sup>\[兴化\]</sup>  
 1. 【[汉运盐河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_yen_in_hu.md#汉运盐河)】`hun5 yen6 in2 hu2` <sup>[如皋]</sup> 汉初关王刘添所开，自扬州虾子湾，经泰州至如皋东的蟠溪（十里铺一带），东接盐场，船运盐至泰州仓，今如城仅存迎春桥下的南北河。  
 1. 【[熯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun.md#熯)】`hun5` ① 将冷饭等放在铁锅内，烹点水加热<sup>\[如皋\]</sup>：～饭；韭菜～冷𩚫。<sup>\[如皋\]</sup> ② 加少量水用文火烧食物<sup>\[东台\]</sup>：把饭～下子再吃。（熯《广韵》“呼旱切，火干”）。<sup>\[东台\]</sup> ③ 将冷饭洒水后在锅里加热<sup>\[兴化\]</sup>：～饭。《广韵·翰韵》呼旰切：“～，火乾”。<sup>\[兴化\]</sup> ④ 将冷饭放在锅中，加少许水加热<sup>\[泰州\]</sup>：青菜～饭。<sup>\[泰州\]</sup>  
 1. 【[痪掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_tio.md#痪掉)】`hun5 tio` <sup>[东台]</sup> 指某种植物因被其它东西遮蔽，影响通风透光而生长不良，像瘫痪了似的：这里杂草太多，再不薅掉，就要把菜～。  
