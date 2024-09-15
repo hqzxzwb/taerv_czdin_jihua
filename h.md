@@ -1060,10 +1060,10 @@
 1. 【[和尚头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_shan_teu.md#和尚头)】`hu2 shan teu2` ① <sup>\[如东\]</sup>光头。 ② <sup>\[如皋\]</sup>膝盖区。  
 1. 【[和事佬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_shr_lo.md#和事佬)】`hu2 shr6 lo3` ① <sup>\[如东\]</sup>调解纠纷的人，特指无原则地调和的人：他是一个～，还是让他去吧。<sup>\[如东\]</sup> ② <sup>\[东台\]</sup>调停争端的人，特指无原则地进行调解的人。  
 1. 【[和水做香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_shuei_zu_xian.md#和水做香)】`hu2 shuei3 zu5 xian1` <sup>[如皋]</sup> 粗略洗一下，并未洗浄。  
-1. 【[和头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_teu.md#和头)】`hu2 teu` ① <sup>\[如皋\]</sup>掺入的东西。 ② <sup>\[如皋\]</sup>衬菜：炒肉丝可用笋瓜儿、韭菜、大椒、茭瓜、嫩黄豆等一到几种做～。  
+1. 【[和头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_teu.md#和头)】`hu2 teu` ① <sup>\[如皋\]</sup>掺入的东西。 ② <sup>\[如皋\]</sup>衬菜：炒肉丝可用笋瓜儿、韭菜、大椒、茭瓜、嫩黄豆等一到几种做～。<sup>\[如皋\]</sup>  
 1. 【[和淘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_to.md#和淘)】`hu2 to2` ① <sup>\[如东\]</sup>混和在一起：她不能与大家～。<sup>\[如东\]</sup> ② <sup>\[如皋\]</sup>关系和谐。  
 1. 【[和性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xien.md#和性)】`hu2 xien5` <sup>[如皋]</sup> 见“和暴”。  
-1. 【[回头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_teu.md#回头)】`hu2 teu2` <sup>[泰县]</sup> ① 等一段时间：我～晚上去玩。 ② 假如：～他不证明怎吖弄相？  
+1. 【[回头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_teu.md#回头)】`hu2 teu2` ① <sup>\[泰县\]\[东台\]</sup>等一会儿，过一段时间：我～晚上去玩。<sup>\[泰县\]</sup>｜我先走，你～把门窗关好<sup>\[东台\]</sup>｜你～早点儿去呀！<sup>\[东台\]</sup> ② <sup>\[东台\]\[泰县\]</sup>等一会儿，用于提示未来的后果、风险等可能性。\[东台：似“否则”、“不然”。\]：快走！～要迟到<sup>\[东台\]</sup>｜多吃点儿，～肚里饿。<sup>\[东台\]</sup>｜～他不证明怎吖弄相？<sup>\[泰县\]</sup>  
 1. 【[河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu.md#河)】`hu2` <sup>[如东]</sup> 在陆地上，天然或人工开凿的大水道，称河。  
 1. 【[河帮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_ban_zz.md#河帮子)】`hu2 ban1-3 zz` <sup>[泰县]</sup> 小沟岸。  
 1. 【[河帮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_ban_zz.md#河帮子)】`hu2 ban1 zz` ① <sup>\[如东\]</sup>河岸。 ② <sup>\[如皋\]</sup>河床的斜坡。 ③ <sup>\[如皋\]</sup>见“坎子”。  
@@ -1093,8 +1093,7 @@
 1. 【[河埠子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_pv_zz.md#河埠子)】`hu2 pv6 zz` <sup>[如东]</sup> 河埠口上用砖石砌成的梯形的踏步。也叫河踏步。  
 1. 【[河水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_shuei.md#河水)】`hu2 shuei3` <sup>[如皋]</sup> 河中水。中医称“阳水”。与“阴水”（井水）相对。  
 1. 【[河水煮河鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_shuei_zhv_hu_y.md#河水煮河鱼)】`hu2 shuei3 zhv3 hu2 y2` <sup>[兴化]</sup> （喻）还是原来的成分，性状没起变化：“……（没有肥料）总不能让田～吧。”（马春阳《姐妹姻缘船迷传》）｜拿清水洗你这身脏衣裳，～，有甚的用？  
-1. 【[河头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_teu.md#河头)】`hu2 teu2-3` <sup>[泰县]</sup> 河口。  
-1. 【[河头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_teu.md#河头)】`hu2 teu2` ① <sup>\[如东\]</sup>河的顶端。 ② <sup>\[兴化\]</sup>河边：米行～停满吖买粮和卖粮的船。<sup>\[兴化\]</sup>  
+1. 【[河头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_teu.md#河头)】`hu2 teu2` ① <sup>\[如东\]</sup>河的顶端。 ② <sup>\[兴化\]</sup>河边：米行～停满吖买粮和卖粮的船。<sup>\[兴化\]</sup> ③ <sup>\[泰县\]</sup>河口\[泰县：（hu2 teu3）\]  
 1. 【[河𧒘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_vae.md#河𧒘)】`hu2 vae1` ① <sup>\[如东\]</sup>蚌科动物背角无齿蚌，贝壳2片，具有角突的卵圆形。 ② <sup>\[如皋\]</sup>河蚌。瓣腮纲。 ③ <sup>\[如皋\]</sup>隐称女外阴。 ④ <sup>\[东台\]</sup>就是河蚌，软体动物，有两个椭圆形外壳，可以开闭。 ⑤ <sup>\[兴化\]</sup>河蚌。  
 1. 【[河𧒘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_vae.md#河𧒘)】`hu2 vae1` <sup>[泰州]</sup> 河蚌。  
 1. 【[河𧒘精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_vae_jien.md#河𧒘精)】`hu2 vae1 jien1` <sup>[兴化]</sup> 迎神赛会中的角色，由女角扮演，身后背有一副大“蚌壳”：一出一出的会，到了陈澄家门口……～，荡湖船，吹弹歌舞，笙箫管笛……（扬一《通天河》）  
@@ -1843,20 +1842,19 @@
 1. 【[回门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_men.md#回门)】`huei2 men2` <sup>\[如东\]\[东台\]\[兴化\]\[泰州\]</sup>婚俗。女子出嫁首次回娘家。\[如东：姑娘出嫁后的第二天带着丈夫回娘家看望，当晚必须回去，称回门。\]\[泰州：女子结婚以后首次偕夫回到娘家，旧时为婚后第三日，现在新俗则为婚后次日，回门之日中上或者晚上，娘家置办酒筵大宴亲朋，称之为“回门酒”。《民国泰县志稿》卷之23：“回门，第三日，女家柬请新夫妇，曰回门。新婿拜遍女家诸眷属，有酒宴，日晡并以酒筵随送至男家，明日新夫妇再至曰谢酒。弥月又至，日回满月门。”（《社会志·礼俗》）《越》卷中：“回门，嫁后初次，女以婿归，登堂拜见，备盛筵厚贽曰回门。”\]：“……待我满月～来，亲自上门叫聒噪。”（《清平山堂话本·快嘴李翠莲记》）<sup>\[兴化\]</sup>  
 1. 【[回暖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_nun.md#回暖)】`huei2 nun3` <sup>\[兴化\]\[泰州\]</sup>（气温或体感）由冷变暖：天气～，要准备夹衣。<sup>\[兴化\]</sup>｜打过春以后，天气就慢慢的～唻。<sup>\[泰州\]</sup>｜刚才人在外头都冻吖僵吖，家来喝咖杯热茶下肚子，身上有点～唻。<sup>\[泰州\]</sup>  
 1. 【[回盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_pun.md#回盘)】`huei2 pun2` <sup>\[如皋\]\[兴化\]</sup>送礼用的托盘称“礼盘”，回礼用的托盘称～。代指“回礼”：～是五粮液两瓶，中华烟一条。<sup>\[兴化\]</sup>  
-1. 【[回软](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_run.md#回软)】`huei2 run3` ① <sup>\[兴化\]</sup>原来很硬很脆的东西由于受潮变软：馓子～<sup>\[兴化\]</sup>｜饼干～。<sup>\[兴化\]</sup> ② <sup>\[兴化\]</sup>一种烹调方法：原来炸脆的菜肴从油中走过使变软<sup>\[兴化\]</sup>｜脆长鱼～。<sup>\[兴化\]</sup> ③ <sup>\[兴化\]</sup>态度由强硬而软化，由倔强变顺从：她憋咖几天气，这天把有点～吖。<sup>\[兴化\]</sup> ④ <sup>\[泰州\]</sup>硬脆食物由于受潮变软：早上买的油条中上就～唻。<sup>\[泰州\]</sup>  
+1. 【[回软](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_run.md#回软)】`huei2 run3` ① <sup>\[兴化\]\[泰州\]</sup>原来很硬很脆的东西由于受潮变软：馓子～<sup>\[兴化\]</sup>｜饼干～。<sup>\[兴化\]</sup>｜早上买的油条中上就～唻。<sup>\[泰州\]</sup> ② <sup>\[兴化\]</sup>一种烹调方法：原来炸脆的菜肴从油中走过使变软<sup>\[兴化\]</sup>｜脆长鱼～。<sup>\[兴化\]</sup> ③ <sup>\[兴化\]</sup>态度由强硬而软化，由倔强变顺从：她憋咖几天气，这天把有点～吖。<sup>\[兴化\]</sup>  
 1. 【[回食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_sheh.md#回食)】`huei2 sheh8` <sup>[如皋]</sup> 转噍，反刍。  
 1. 【[回声](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_shen.md#回声)】`huei2 shen1` <sup>[如皋]</sup> 异议：他的权威高，一句话说出去，其他人没得～。  
-1. 【[回手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_sheu.md#回手)】`huei2 sheu3` ① <sup>\[东台\]</sup>转过手来，或者指还手。 ② <sup>\[兴化\]</sup>回扣：这笔交易做成吖，百分之五的～。<sup>\[兴化\]</sup>  
-1. 【[回手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_sheu.md#回手)】`huei2 sheu3` <sup>[泰州]</sup> 还手，还击：你就是打啊他，他也不会～。  
+1. 【[回手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_sheu.md#回手)】`huei2 sheu3` ① <sup>\[东台\]</sup>转过手来 ② <sup>\[兴化\]</sup>回扣：这笔交易做成吖，百分之五的～。<sup>\[兴化\]</sup> ③ <sup>\[东台\]\[泰州\]</sup>还手，还击：你就是打啊他，他也不会～。<sup>\[泰州\]</sup>  
 1. 【[回水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_shuei.md#回水)】`huei2 shuei3` <sup>[东台]</sup> ［喻］反悔，不承认原来的话：他答应来的，怎吖又～，说不来啦？  
-1. 【[回数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_shv.md#回数)】`huei2 shv` <sup>[如皋]</sup> 次数：他来的～不少。  
-1. 【[回头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_teu.md#回头)】`huei2 teu2` ① <sup>\[如皋\]</sup>往回走。 ② <sup>\[如皋\]</sup>以后。 ③ <sup>\[如皋\]</sup>过一会儿。 ④ <sup>\[如皋\]</sup>下次，以后。 ⑤ <sup>\[东台\]</sup>东台音hu2 teu2。此处不是指把头转过来、回来，而是等一会儿：我先走，你～把门窗关好<sup>\[东台\]</sup>｜你～早点儿去呀！<sup>\[东台\]</sup> ⑥ <sup>\[东台\]</sup>否则会导致：快走！～要迟到<sup>\[东台\]</sup>｜多吃点儿，～肚里饿。<sup>\[东台\]</sup> ⑦ <sup>\[兴化\]</sup>颠倒、错乱：你过啊～啊，家里外头倒不分吖！<sup>\[兴化\]</sup> ⑧ <sup>\[兴化\]</sup>答复：明朝听～<sup>\[兴化\]</sup>｜你去把～（给答复）。<sup>\[兴化\]</sup>  
+1. 【[回数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_shv.md#回数)】`huei2 shv` <sup>\[如皋\]\[泰兴\]</sup>次数：他来的～不少。<sup>\[如皋\]</sup>  
+1. 【[回头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_teu.md#回头)】`huei2 teu2` ① <sup>\[如皋\]</sup>往回走。 ② <sup>\[如皋\]</sup>过一会儿。 ③ <sup>\[如皋\]</sup>下次，以后。 ④ <sup>\[兴化\]</sup>颠倒、错乱：你过啊～啊，家里外头倒不分吖！<sup>\[兴化\]</sup> ⑤ <sup>\[兴化\]</sup>答复：明朝听～<sup>\[兴化\]</sup>｜你去把～（给答复）。<sup>\[兴化\]</sup>  
 1. 【[回头货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_teu_hu.md#回头货)】`huei2 teu2 hu5` <sup>[兴化]</sup> ① 从运销目的地购进或归途中顺便销回的货：回头是空车，请你带点儿～家来。 ② （借）已出去的人（或物）又回来：“……只有你们老爷糊涂，还弄这～进门……”（《广陵潮》三八）  
 1. 【[回头会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_teu_huei.md#回头会)】`huei2 teu2 huei6` <sup>[如东]</sup> 再别不久再相会：我俫～。  
 1. 【[回头客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_teu_keh.md#回头客)】`huei2 teu2 keh7` <sup>[东台]</sup> 再次到原先商店买东西的顾客。  
 1. 【[回头炮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_teu_po.md#回头炮)】`huei2 teu2 po5` <sup>[兴化]</sup> ① 象棋术语，指“炮”从前方退回。 ② （借）意见和要求被对方驳回：今吖上庄收费，头一家就弄个～。  
 1. 【[回头人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_teu_ren.md#回头人)】`huei2 teu2 ren2` <sup>[兴化]</sup> 旧称丧夫后再嫁的妇人：“……若是～也好，只是中得我意。”（《水浒传》二四）  
-1. 【[回掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_tio.md#回掉)】`huei2 tio` <sup>[泰州]</sup> ① 谢绝他人请求或者邀请：最近手头的事情太多，我把报纸的约稿都～啊。 ② 辞退，停止雇用：她家原来寻的这个保姆早就～唻。  
+1. 【[回掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_tio.md#回掉)】`huei2 tio` <sup>[泰州]</sup> ① 谢绝：最近手头的事情太多，我把报纸的约稿都～啊。 ② 辞退，停止雇用：她家原来寻的这个保姆早就～唻。  
 1. 【[回断](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_tun.md#回断)】`huei2 tun6` <sup>[兴化]</sup> 断然拒绝：前头那一家又来谈租房子，捱我一口～吖。｜《儒林外史》第四回有“我几次～了他”句。  
 1. 【[回喜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_xi.md#回喜)】`huei2 xi3` <sup>[东台]</sup> 送殡安葬回家过程中及回家后所举行的礼仪，以冲淡悲痛气氛，祝愿吉祥。  
 1. 【[回下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_xia.md#回下)】`huei2 xia5` <sup>[东台]</sup> 承认对某件事无可奈何：那时候这伢儿太调皮，父母亲都～，后来学校把他教好啊。  
@@ -1874,13 +1872,12 @@
 1. 【[悔棋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qi.md#悔棋)】`huei3 qi2` <sup>[东台]</sup> 棋子下定后收回重下。棋界流传这样的规则“观棋不语真君子，落子无悔大丈夫。”  
 1. 【[悔亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qien.md#悔亲)】`huei3 qien1` <sup>[东台]</sup> 又叫“退亲”。意思男女双方订婚后，其中一方由于某种原因，提出解除婚约。  
 1. 【[晦叨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_ddo.md#晦叨)】`huei5 ddo` <sup>[如东]</sup> 感叹词，表示感叹惋惜。  
-1. 【[晦气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qi.md#晦气)】`huei5 qi5` ① <sup>\[如东\]</sup>倒霉：～，出门就跌跟头。<sup>\[如东\]</sup> ② <sup>\[如皋\]</sup>口头禅语。 ③ <sup>\[东台\]</sup>倒霉，或认为倒霉的口头禅。 ④ <sup>\[兴化\]</sup>丧气、不吉：“我～，他倒来惹我！”（《水浒传》六）<sup>\[兴化\]</sup>｜《清稗类钞·方言类》<sup>\[兴化\]</sup>｜“北人出遇不详曰丧气，南人曰～。”<sup>\[兴化\]</sup> ⑤ <sup>\[兴化\]</sup>骂人不长进：这个～！大事小事做不来，只有吃的本事！<sup>\[兴化\]</sup>  
-1. 【[晦气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qi.md#晦气)】`huei5 qi5` <sup>[泰州]</sup> 倒霉，不吉利的：你说哿～啊，车子才到啊黄山就遇到大雨，也不曾玩得成。｜今朝～，脚踏车摆家门口还捱贼子偷掉啊。  
+1. 【[晦气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qi.md#晦气)】`huei5 qi5` ① <sup>\[如东\]\[如皋\]\[东台\]\[泰州\]\[兴化\]</sup>倒霉、不吉，或认为倒霉、不吉的口头禅：～，出门就跌跟头。<sup>\[如东\]</sup>｜你说哿～啊，车子才到啊黄山就遇到大雨，也不曾玩得成。<sup>\[泰州\]</sup>｜今朝～，脚踏车摆家门口还捱贼子偷掉啊。<sup>\[泰州\]</sup>｜“我～，他倒来惹我！”（《水浒传》六）<sup>\[兴化\]</sup>｜“北人出遇不详曰丧气，南人曰～。”（《清稗类钞·方言类》）<sup>\[兴化\]</sup> ② <sup>\[兴化\]</sup>骂人不长进：这个～！大事小事做不来，只有吃的本事！<sup>\[兴化\]</sup>  
 1. 【[晦气杲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qi_go_zz.md#晦气杲子)】`huei5 qi5 go3 zz` <sup>[如东]</sup> 不争气的人：来啊个～。  
 1. 【[晦气鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qi_guei.md#晦气鬼)】`huei5 qi5 guei3` <sup>\[如东\]\[泰县\]</sup>心术不正的人：他是个～，你不要跟他往来。<sup>\[泰县\]</sup>  
 1. 【[晦气货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qi_hu.md#晦气货)】`huei5 qi5 hu5` ① <sup>\[如东\]</sup>不务正业、没有出息的人。 ② <sup>\[东台\]</sup>（詈语）倒霉蛋；堕落鬼：他把事情人为弄糟啊，真个～，怎吖好呢！<sup>\[东台\]</sup>  
 1. 【[晦气样子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qi_ian_zz.md#晦气样子)】`huei5 qi5 ian6 zz` <sup>[如皋]</sup> 倒楣、不遂的样子。  
-1. 【[晦气色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qi_seh.md#晦气色)】`huei5 qi5 seh7` ① <sup>\[如皋\]</sup>灰暗之色倒楣、生病的气色。 ② <sup>\[兴化\]</sup>形容人患病或失意时面部黯淡的气色：我看他满脸～，怕又犯吖甚的事。<sup>\[兴化\]</sup>  
+1. 【[晦气色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qi_seh.md#晦气色)】`huei5 qi5 seh7` <sup>\[如皋\]\[兴化\]</sup>灰暗之色，倒楣、生病的气色：我看他满脸～，怕又犯吖甚的事。<sup>\[兴化\]</sup>  
 1. 【[晦气形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qi_xien.md#晦气形)】`huei5 qi5 xien2` <sup>[如皋]</sup> 见“见晦气样子”。  
 1. 【[晦嘡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_tan.md#晦嘡)】`huei5 tan` <sup>[东台]</sup> 表示感叹惋惜的语气：～，他怎吖又考啊不及格呢？  
 1. 【[会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei.md#会)】`huei6` ① <sup>\[如东\]</sup>领悟，掌握：～做啊。<sup>\[如东\]</sup> ② <sup>\[如东\]</sup>见面：我还不曾～他唻。<sup>\[如东\]</sup> ③ <sup>\[如皋\]</sup>相会、会面：他下午三点在公园门口～你。 ④ <sup>\[兴化\]</sup>民间一种筹款方式，由需款人发起请～，邀集若干人按时分批缴款，首会由发起人取用，此后分期“标会”，中标（得会）者收回付款。  
@@ -1897,13 +1894,11 @@
 1. 【[会会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_huei.md#会会)】`huei6 huei6` <sup>\[如东\]\[如皋\]</sup>见见面：你明朝去～他。<sup>\[如东\]</sup>  
 1. 【[会酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_jieu.md#会酒)】`huei6 jieu3` <sup>[如东]</sup> 民间请会举办酒筵，称会酒。  
 1. 【[会利](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_li.md#会利)】`huei6 li6` <sup>\[如东\]\[如皋\]</sup>“请会”中先“得会”者于尔后“打会”时加付的利金，由后“得会”者加收。  
-1. 【[会期](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qi.md#会期)】`huei6 qi1` ① <sup>\[如东\]</sup>每月定期打会的时间以及地点。 ② <sup>\[如皋\]</sup>“请会”所定每月“打会”的时间、地点。  
-1. 【[会齐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qi.md#会齐)】`huei6 qi2` <sup>[如皋]</sup> 相聚，聚齐：大家到县门口～，到老松林吃茶。  
+1. 【[会期](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qi.md#会期)】`huei6 qi1` <sup>\[如东\]\[如皋\]</sup>每月定期打会的时间以及地点。  
 1. 【[会吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qieh.md#会吃)】`huei6 qieh7` <sup>[如皋]</sup> ① 指婴儿、小动物要吃、吃得多。 ② 指吃得技巧、吃得精巧吃得有“名堂”。懂得使用各种食料，做出各种可口的美味享用。  
-1. 【[会亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qien.md#会亲)】`huei6 qien1` ① <sup>\[如东\]</sup>姑娘结婚后第三天，娘家人到婆家去认识亲戚，叫做会亲；第四天，婆家人到娘家去认识亲戚，叫做反会亲。也称双会亲。参加会亲的人，在新娘生小孩时都要送产妇礼。 ② <sup>\[如皋\]</sup>婚仪之一。结婚后，男家邀女家亲族赴宴，与男家亲族互相承认亲戚关系。赴宴者“不空手”须带礼物去，又“回半礼”带回。 ③ <sup>\[东台\]</sup>结婚时男女双方各自置办宴席，请对方亲友见面。 ④ <sup>\[兴化\]</sup>男女婚姻关系确立后，男方邀集双方主要亲戚聚会认亲：新人上轿，冯老孺人也上轿，送到金家，……次日，杨家哥嫂多来～……（《二刻》九）<sup>\[兴化\]</sup>  
-1. 【[会亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qien.md#会亲)】`huei6 qien1` <sup>[泰州]</sup> 旧时传统婚礼喜日婚宴均由男方举办，女方父母、兄弟、姐妹以及相关亲戚都会回避。男方乃在婚后数日设下酒筵，宴请女方父母、兄弟、姐妹以及相关亲戚，双方互相“认亲”，称为会亲。《民国泰县志稿》卷之23:“会亲，婚后数日，女之伯叔兄弟临男宅视女曰看亲。男宅择日请岳家眷属及做朝之亲族，曰会亲。”  
+1. 【[会亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qien.md#会亲)】`huei6 qien1` <sup>\[如东\]\[如皋\]\[东台\]\[兴化\]\[泰州\]\[泰兴\]</sup>婚俗，男女双方亲族聚会认亲\[如东：姑娘结婚后第三天，娘家人到婆家去认识亲戚，叫做会亲；第四天，婆家人到娘家去认识亲戚，叫做反会亲。也称双会亲。参加会亲的人，在新娘生小孩时都要送产妇礼。\]\[如皋：结婚后，男家邀女家亲族赴宴，与男家亲族互相承认亲戚关系。赴宴者“不空手”须带礼物去，又“回半礼”带回。\]\[东台：结婚时男女双方各自置办宴席，请对方亲友见面。\]\[兴化：男女婚姻关系确立后，男方邀集双方主要亲戚聚会认亲\]\[泰州：旧时传统婚礼喜日婚宴均由男方举办，女方父母、兄弟、姐妹以及相关亲戚都会回避。男方乃在婚后数日设下酒筵，宴请女方父母、兄弟、姐妹以及相关亲戚，双方互相“认亲”，称为会亲。《民国泰县志稿》卷之23:“会亲，婚后数日，女之伯叔兄弟临男宅视女曰看亲。男宅择日请岳家眷属及做朝之亲族，曰会亲。”\]：新人上轿，冯老孺人也上轿，送到金家，……次日，杨家哥嫂多来～……（《二刻》九）<sup>\[兴化\]</sup>  
 1. 【[会亲酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qien_jieu.md#会亲酒)】`huei6 qien1 jieu3` <sup>[如东]</sup> 姑娘结婚后，亲戚相聚而举办的酒筵，称会亲酒。  
-1. 【[会钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qin.md#会钱)】`huei6 qin2` ① <sup>\[如东\]</sup>请会打会有关的资金。 ② <sup>\[如皋\]</sup>“请会”时收取的及以后定期“打会”的钱。 ③ <sup>\[如皋\]</sup>“做会（如青苗会、土地会、龙王会、城隍会）”的份额钱。 ④ <sup>\[如皋\]</sup>结社（如工会、农会）成员交的“会费”。  
+1. 【[会钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qin.md#会钱)】`huei6 qin2` ① <sup>\[如皋\]\[如东\]</sup>“请会”时收取的及以后定期“打会”的钱。 ② <sup>\[如皋\]</sup>“做会（如青苗会、土地会、龙王会、城隍会）”的份额钱。 ③ <sup>\[如皋\]</sup>结社（如工会、农会）成员交的“会费”。  
 1. 【[会杀猪，还要会翻肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_shaeh_zhv_hae_io_huei_faen_chan.md#会杀猪，还要会翻肠)】`huei6 shaeh7 zhv1 hae2 io5 huei6 faen1 chan2` <sup>[东台]</sup> 做了某件事就要处理好相关环节，不留后患。  
 1. 【[会悟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_v.md#会悟)】`huei6 v6` <sup>[泰州]</sup> 领会，领悟：你说的这层意思他还不曾～得过来。  
 1. 【[会做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_zu.md#会做)】`huei6 zu5` 能干，勤劳  
@@ -1916,7 +1911,7 @@
 1. 【[慧眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_ngaen.md#慧眼)】`huei6-5 ngaen3` <sup>[东台]</sup> 佛家语。能认识过去、未来的眼力。也泛指能照见实相的智慧。  
 1. 【[桧柽柳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_chen_lieu.md#桧柽柳)】`huei6 chen1 lieu3` <sup>[如东]</sup> 柽柳科植物柽柳，灌木或小乔木。  
 1. 【[槥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei.md#槥)】`huei6` <sup>[如皋]</sup> 简易棺材，无𤖱头。施～：给无力收者送的简易棺材。  
-1. 【[汇齐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qi.md#汇齐)】`huei6 qi2` ① <sup>\[兴化\]</sup>聚集：明早八点半到板桥宾馆～。<sup>\[兴化\]</sup> ② <sup>\[泰州\]</sup>聚集齐全：把材料～以后交上来。<sup>\[泰州\]</sup>  
+1. 【[汇齐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qi.md#汇齐)】`huei6 qi2` <sup>\[兴化\]\[泰州\]\[如皋\]</sup>聚集、聚齐：明早八点半到板桥宾馆～。<sup>\[兴化\]</sup>｜把材料～以后交上来。<sup>\[泰州\]</sup>｜大家到县门口～，到老松林吃茶。<sup>\[如皋\]</sup>  
 1. 【[烩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei.md#烩)】`huei6` <sup>[泰州]</sup> 一种烹调方法：放点ㄦ虾米在豆腐里头一起～。  
 1. 【[烩肝肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_gun_chan.md#烩肝肠)】`huei6 gun1 chan2` <sup>[东台]</sup> 用已经煮熟的猪肝、大肠，外加菠菜、茨菇片一道下锅烩熟，糖醋起锅勾芡即成。  
 1. 【[婚嫁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_ga.md#婚嫁)】`huen1 ga5` <sup>[东台]</sup> 泛指男女成婚：哪个父母不为儿女的～操劳？  

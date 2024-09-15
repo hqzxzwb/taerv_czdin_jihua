@@ -945,8 +945,7 @@
 1. 【[斧子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_zz.md#斧子)】`fv3 zz` <sup>[如东]</sup> 工具。铁制，头呈楔形，口锋利，有柄。用以砍砟木料。  
 1. 【[烰炭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_taen.md#烰炭)】`fv3 taen5` <sup>[如皋]</sup> 家制木炭。  
 1. 【[腐化](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_hua.md#腐化)】`fv3 hua5` ① <sup>\[如东\]</sup>木头等材料受潮变质腐烂。 ② <sup>\[如东\]</sup>思想行为变坏：你这个人～啊。<sup>\[如东\]</sup> ③ <sup>\[如东\]</sup>不正当的男女关系。 ④ <sup>\[东台\]</sup>指人的思想行为变坏，多指干部生活作风方面，与别的女人发生性关系。  
-1. 【[腐烂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_laen.md#腐烂)】`fv3 laen3` <sup>[泰州]</sup> 食物烧透以后极其松软的样子：萝卜煨得～的。  
-1. 【[腐烂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_laen.md#腐烂)】`fv3 laen6` ① <sup>\[如皋\]</sup>熟透，很烂：肉煮得～。<sup>\[如皋\]</sup> ② <sup>\[如皋\]</sup>腐败如泥。 ③ <sup>\[泰县\]</sup>很烂：这东西～的。<sup>\[泰县\]</sup>  
+1. 【[腐烂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_laen.md#腐烂)】`fv3 laen6` ① <sup>\[如皋\]\[泰州\]</sup>熟透，很烂：肉煮得～。<sup>\[如皋\]</sup>｜萝卜煨得～的。<sup>\[泰州\]</sup> ② <sup>\[如皋\]</sup>腐败如泥。 ③ <sup>\[泰县\]</sup>很烂：这东西～的。<sup>\[泰县\]</sup>  
 1. 【[釜㔶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_gun.md#釜㔶)】`fv3 gun` 锅盖  
 1. 【[釜㔶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_gun.md#釜㔶)】`fv3 gun-gu5, fv3 gu0` <sup>[如皋]</sup> 即“锅盖”。又作镬㔶。  
 1. 【[釜㔶鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_gun_y.md#釜㔶鱼)】`fv3 gun y2` <sup>[如皋]</sup> 鮟鱇。  
