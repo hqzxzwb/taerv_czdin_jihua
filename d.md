@@ -182,6 +182,7 @@
 1. 【[打回](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_huei.md#打回)】`da3 huei2` ① <sup>\[如皋\]</sup>回转、退回。 ② <sup>\[泰州\]</sup>将文件退回到原上报的单位。  
 1. 【[打回票](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_huei_pio.md#打回票)】`da3 huei2 pio5` ① <sup>\[如皋\]</sup>见“打回”。 ② <sup>\[兴化\]</sup>人或货被退回：这批货质量差，捱对方打啊回票。<sup>\[兴化\]</sup> ③ <sup>\[兴化\]</sup>要求被拒绝。  
 1. 【[打回往](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_huei_van.md#打回往)】`da3 huei2 van3` <sup>[兴化]</sup> 指一个来回：现在有了高速公路，兴化到南京可以当天～。  
+1. 【[打会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_huei.md#打会)】`da3 huei6` 参见“请会”。  
 1. 【[打寒禁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_hun_jien.md#打寒禁)】`da3 hun2 jien1` <sup>[如皋]</sup> 因寒冷而一颤。  
 1. 【[打寒噤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_hun_jien.md#打寒噤)】`da3 hun2 jien5` <sup>[如东]</sup> 感觉寒冷而颤抖一下：我衣服穿少啊，出门～。  
 1. 【[打呼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_hv.md#打呼)】`da3 hv1` ① <sup>\[如皋\]</sup>打呼噜。 ② <sup>\[兴化\]</sup>打鼾：在窗外听到有～的声音。<sup>\[兴化\]</sup>  

@@ -1015,7 +1015,7 @@
 1. 【[寻搞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_go.md#寻搞)】`qien2 go3` <sup>[泰县]</sup> 闹纠纷：这两个人天天～。  
 1. 【[寻个虱子头上挠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_gu_sheh_zz_teu_shan_no.md#寻个虱子头上挠)】`qien2 gu sheh7 zz teu2 shan no2` <sup>[东台]</sup> 喻指没事找事，自找麻烦。  
 1. 【[寻话说](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_hua_shuh.md#寻话说)】`qien2 hua6 shuh7` <sup>[兴化]</sup> 本来没有话，而是惹出来的闲话。  
-1. 【[寻魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_huen.md#寻魂)】`qien2 huen2` ① <sup>\[如皋\]</sup>责乱找（翻东西）。 ② <sup>\[兴化\]</sup>骂人像失去魂魄似的徘徊、寻觅：他出来～，一头把人家好事冲破啊。<sup>\[兴化\]</sup>｜教师指了指操场说<sup>\[兴化\]</sup>｜好像到那边去了。朱爱娥心里就骂，到那边～去呀！（钱国怀《冲出樊笼》）。<sup>\[兴化\]</sup>  
+1. 【[寻魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_huen.md#寻魂)】`qien2 huen2` ① <sup>\[如皋\]</sup>责乱找（翻东西）。 ② <sup>\[兴化\]</sup>骂人像失去魂魄似的徘徊、寻觅：他出来～，一头把人家好事冲破啊。<sup>\[兴化\]</sup>｜教师指了指操场说：好像到那边去了。朱爱娥心里就骂，到那边～去呀！（钱国怀《冲出樊笼》）。<sup>\[兴化\]</sup>  
 1. 【[寻开心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_kae_xien.md#寻开心)】`qien2 kae1 xien1` <sup>[兴化]</sup> 跟人开玩笑取乐：这先生穷归穷，人倒蛮正派，不像～的样子……（《郑板桥传说·大年初一卖扇子》）｜“……他们高兴，就和你开开玩笑，不高兴，就掉转脚和别个女人～去了……”（《广陵潮》九四）  
 1. 【[寻婆娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_pu_nian.md#寻婆娘)】`qien2 pu2 nian` 讨老婆  
 1. 【[寻气淘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_qi_to.md#寻气淘)】`qien2 qi5 to2` <sup>[如皋]</sup> 自找麻烦跟别人淘气。  
@@ -1046,7 +1046,7 @@
 1. 【[请财神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_cae_shen.md#请财神)】`qien3 cae2 shen2` ① <sup>\[东台\]</sup>本指请（买）财神像。 ② <sup>\[东台\]</sup>喻指请能人帮助发展经济。 ③ <sup>\[东台\]</sup>旧时是绑票的隐语。 ④ <sup>\[兴化\]</sup>旧指土匪绑票：朱成谦原是老于江湖的人，知道这是实行～的格局……（《广陵潮》九八）也说“抬财神”。<sup>\[兴化\]</sup>  
 1. 【[请春卮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_chuen_zhr.md#请春卮)】`qien3 chuen1 zhr` <sup>[如皋]</sup> 春节间互相邀请吃酒。  
 1. 【[请赌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_dv.md#请赌)】`qien3 dv3` ① <sup>\[如皋\]</sup>邀人玩牌等赌博，并招待，以拿“头儿钱”。 ② <sup>\[如东\]</sup>请人过来打牌，叫做请赌。有这样几种情形：家里来了亲戚，请几个朋友过来打牌陪赌；家里有人生重病，或者死了人，请几个朋友打牌守夜；遇有特殊困难，请几个朋友赌博抽头等。  
-1. 【[请会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_huei.md#请会)】`qien3 huei6` ① <sup>\[如皋\]</sup>民间流行的一种集资办法。 ② <sup>\[如东\]</sup>民间筹集资金的一种组织。也称打会、做会。主会人发起，并主持始终。邀请若干会员参加。确定总金额和份额。每个会员出一份。份额资金一般为10或12。定于某月某日，请会者与出会者都带一份会钱打会，以抽签的方法摇会。得会者，获得全部资金。先得会者，打会时加息，直到终会。得会越迟加息越多。轮流进行，直至每个会员轮上一次为止。 ③ <sup>\[东台\]</sup>民间自发互济的一种方式。由一人发起，每人按约定出钱，按期轮流归一人所得。头会由发起人收取，其余人均以此递增利息，凭个人信誉所为，但容易引起经济纠纷。  
+1. 【[请会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_huei.md#请会)】`qien3 huei6` <sup>\[如皋\]\[如东\]\[东台\]</sup>民间流行的一种集资办法。\[如东：也称打会、做会。主会人发起，并主持始终。邀请若干会员参加。确定总金额和份额。每个会员出一份。份额资金一般为10或12。定于某月某日，请会者与出会者都带一份会钱打会，以抽签的方法摇会。得会者，获得全部资金。先得会者，打会时加息，直到终会。得会越迟加息越多。轮流进行，直至每个会员轮上一次为止。\]\[东台：由一人发起，每人按约定出钱，按期轮流归一人所得。头会由发起人收取，其余人均以此递增利息，凭个人信誉所为，但容易引起经济纠纷。\]  
 1. 【[请叫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_jio.md#请叫)】`qien3 jio5` <sup>[兴化]</sup> 称呼人、叫人：云麟走过来～了一声，晋芳也是有意无意的答应者……（《广陵潮》四九）｜也作“尊叫”。  
 1. 【[请教](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_jio.md#请教)】`qien3 jio5` <sup>[兴化]</sup> 责问：你这个做法要受人家～！  
 1. 【[请客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_keh.md#请客)】`qien3 keh7` <sup>[如东]</sup> 邀请亲戚朋友聚会喝酒。也称请酒。  
