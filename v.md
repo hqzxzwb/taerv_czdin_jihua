@@ -871,7 +871,7 @@
 1. 【[卫生纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_shen_zhr.md#卫生纸)】`vei6 shen1 zhr3` <sup>[如东]</sup> 质量比较细密的手纸。  
 1. 【[卫身棍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_shen_guen.md#卫身棍)】`vei6 shen1 guen5` <sup>[兴化]</sup> 手杖的旧称。  
 1. 【[味精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_jien.md#味精)】`vei6 jien1` <sup>[如东]</sup> 调味品。白色粉末，放在菜或汤里使其有鲜味。  
-1. 【[味口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_keu.md#味口)】`vei6 keu` ① <sup>\[东台\]</sup>指食物的味道。 ② <sup>\[兴化\]</sup>味道：这个西瓜～不错。<sup>\[兴化\]</sup>  
+1. 【[味口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_keu.md#味口)】`vei6 keu` <sup>\[东台\]\[兴化\]</sup>指食物的味道：这个西瓜～不错。<sup>\[兴化\]</sup>  
 1. 【[味<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_r.md#味<sub>儿</sub>)】`vei6 r` <sup>[兴化]</sup> ① 身份、派头：来的人西装礼帽，～十足。 ② 韵味：裘派花脸真的是有～。  
 1. 【[味水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_shuei.md#味水)】`vei6 shuei3` ① <sup>\[如东\]</sup>味道：这碗菜～不错。<sup>\[如东\]</sup> ② <sup>\[兴化\]</sup>味道：西城口的烧鸡～不丑。<sup>\[兴化\]</sup> ③ <sup>\[兴化\]</sup>（引）手段：你还不曾尝到他的～唻！<sup>\[兴化\]</sup>  
 1. 【[味水<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_shuei_r.md#味水<sub>儿</sub>)】`vei6 shuei3 r` <sup>[如皋]</sup> 滋味，引指虐罚：让他尝点儿～。  

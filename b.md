@@ -1382,7 +1382,7 @@
 1. 【[豹脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_jiah.md#豹脚)】`bo5 jiah7` <sup>[东台]</sup> ① 使死者遗体双脚并拢的垫脚物。 ② 棺材的小头下搁（大头下搁为虎足）。现常作为詈语：看你那双～，才买的鞋子又穿破啊。  
 1. 【[豹猫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_mo_r.md#豹猫<sub>儿</sub>)】`bo5 mo2 r` <sup>[如皋]</sup> 狸。哺乳纲，食肉目。  
 1. 【[趵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#趵)】`bo5` ① <sup>\[如皋\]</sup>跳起、跃起：黄豆儿炒啊～起来啊。 ② <sup>\[如皋\]</sup>胀裂：车胆子打气打啊～掉啊。 ③ <sup>\[东台\]</sup>弹起；跃起：篮球的气打得太足，一～老高。<sup>\[东台\]</sup> ④ <sup>\[兴化\]</sup>弹：皮球掉下地，一～多高。<sup>\[兴化\]</sup> ⑤ <sup>\[兴化\]</sup>跳：小河小沟他一～就过去啊。<sup>\[兴化\]</sup> ⑥ <sup>\[兴化\]</sup>溅：～啊一身的水。<sup>\[兴化\]</sup>  
-1. 【[䌟辫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_pin_zz.md#䌟辫子)】`boh7 pin6 zz` ① <sup>\[如东\]</sup>打辫子。 ② <sup>\[如皋\]</sup>打辫子。  
+1. 【[䌟辫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_pin_zz.md#䌟辫子)】`boh7 pin6 zz` <sup>\[如东\]\[如皋\]</sup>打辫子。  
 1. 【[伯伯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_boh.md#伯伯)】`boh7 boh7` <sup>[如东]</sup> 伯父。父亲的哥哥。  
 1. 【[伯母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_mu.md#伯母)】`boh7 mu3` <sup>[泰州]</sup> 尊称同学、朋友之母，包括比自己母亲年纪小的。  
 1. 【[北场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_chan.md#北场)】`boh7 chan2` 北面邻居  
@@ -1390,7 +1390,7 @@
 1. 【[北一灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_ieh_zo.md#北一灶)】`boh7 ieh7 zo5` <sup>[东台]</sup> 旧地名，回民义冢所在，同治十年（1871）七月知县欧阳锴曾公示勒石加以保护。  
 1. 【[北境](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_jien.md#北境)】`boh7 jien` 泛指北边的地方  
 1. 【[北极殿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_qieh_din.md#北极殿)】`boh7 qieh8 din5` <sup>[东台]</sup> 明万历二年（1574）安丰场在星月桥北（今安丰镇下灶村）修建的一座庙宇，供奉北极真武大帝，故取名～。  
-1. 【[北极星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_qieh_xien.md#北极星)】`boh7 qieh8 xien1` <sup>[如东]</sup> 星座名，位于北方小熊星座。  
+1. 【[北极星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_qieh_xien.md#北极星)】`boh7 qieh8 xien1` <sup>[如东]</sup> 星名，位于北方小熊星座。  
 1. 【[北坛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_taen.md#北坛)】`boh7 taen2` <sup>[如皋]</sup> 见“吕祖殿”。  
 1. 【[北猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_zhv.md#北猪)】`boh7 zhv1` <sup>[兴化]</sup> ① 产于两准及盐阜地区的猪，相对于产自江（堰）曲（塘）海（安）的南猪。 ② （喻）矮胖粗黑的女人：她养吖像个～。  
 1. 【[北灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_zo.md#北灶)】`boh7 zo5` <sup>[如皋]</sup> 北方的盐场。通常指大丰县一带。谚云：“北灶的手——𢜶（䴛）手”。  
@@ -1423,15 +1423,14 @@
 1. 【[百脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_jiah.md#百脚)】`boh7 jiah7` ① <sup>\[如东\]</sup>大蜈蚣科动物少棘巨蜈蚣。 ② <sup>\[如皋\]</sup>蜈蚣。 ③ <sup>\[东台\]</sup>蜈蚣的俗称。 ④ <sup>\[兴化\]</sup>蜈蚣。  
 1. 【[百脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_jiah.md#百脚)】`boh7 jiah7` <sup>[泰州]</sup> 蜈蚣：砖头堆子里头有～。  
 1. 【[百脚绳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_jiah_shen.md#百脚绳)】`boh7 jiah7 shen2` <sup>[泰县]</sup> 端午节，小孩手腕脚上扣的各色花线。  
-1. 【[百路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_lv.md#百路)】`boh7 lv` <sup>[东台]</sup> 小孩出生一百天。  
+1. 【[百路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_lv.md#百路)】`boh7 lv6` <sup>\[泰州\]\[东台\]</sup>婴儿出生100天\[东台：（boh7 lv）\]：他家孙子今朝过～。<sup>\[泰州\]</sup>  
 1. 【[百路<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_lv_r.md#百路<sub>儿</sub>)】`boh7 lv6 r` <sup>[如皋]</sup> 婴儿出身一百天庆贺式。见“过百路儿”。  
-1. 【[百露](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_lv.md#百露)】`boh7 lv6` <sup>[泰州]</sup> 婴儿出生100天：他家孙子今朝过～。  
-1. 【[百年松树五月芭蕉——粗枝大叶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_nin_son_shv_v_iuh_ba_jio_cv_zhr_da_ih.md#百年松树五月芭蕉——粗枝大叶)】`boh7 nin2 son1 shv6 v3 iuh8 ba1 jio1 cv1 zhr1 da6 ih8` <sup>[东台]</sup>   
+1. 【[百年松树五月芭蕉——粗枝大叶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_nin_son_shv.md#百年松树五月芭蕉——粗枝大叶)】`boh7 nin2 son1 shv6 v3 iuh8 ba1 jio1 cv1 zhr1 da6 ih8` <sup>[东台]</sup>   
 1. 【[百年之后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_nin_zhr_heu.md#百年之后)】`boh7 nin2 zhr1 heu6` <sup>[如东]</sup> 比喻人死之后。  
-1. 【[百日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_rih.md#百日)】`boh7 rih8` ① <sup>\[如皋\]</sup>人死一百天祭。 ② <sup>\[兴化\]</sup>人死后一百天忌日。  
+1. 【[百日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_rih.md#百日)】`boh7 rih8` <sup>\[如皋\]\[兴化\]</sup>人死一百天祭。  
 1. 【[百日子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_rih_zz.md#百日子)】`boh7 rih8 zz` <sup>[如皋]</sup> 如皋特产冬季萝卜，口感佳，生长期约100天。  
 1. 【[百索<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_sah_r.md#百索<sub>儿</sub>)】`boh7 sah7 r` <sup>[兴化]</sup> 彩色丝绒编成的环状带子，幼儿于端午佩在腕上避邪。梁·宗懔《荆楚岁时记》中谓之“辟兵”。‖东南部分村镇又称“百脚绳儿”。  
-1. 【[百十](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_sheh.md#百十)】`boh7 sheh` ① <sup>\[如东\]</sup>一百左右的概数：有～个吧。<sup>\[如东\]</sup> ② <sup>\[东台\]</sup>一百多一点。  
+1. 【[百十](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_sheh.md#百十)】`boh7 sheh` <sup>\[如东\]\[东台\]</sup>一百左右的概数：有～个吧。<sup>\[如东\]</sup>  
 1. 【[百岁方](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_suei_fan.md#百岁方)】`boh7 suei5 fan1` <sup>[如东]</sup> 棺材。  
 1. 【[百姓不搭𠵹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_xien_beh_daeh_gan.md#百姓不搭𠵹)】`boh7 xien5 beh7 daeh7 gan1` <sup>[东台]</sup> 不理睬，不交往，封闭社会之现象。  
 1. 【[百晓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_xio.md#百晓)】`boh7 xio3` <sup>[东台]</sup> 讥讽人什么都知道，同“万事通”“万宝全”。  

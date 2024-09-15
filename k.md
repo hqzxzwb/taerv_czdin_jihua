@@ -876,8 +876,7 @@
 1. 【[睏中觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_zhon_go.md#睏中觉)】`kuen5 zhon1 go5` 午睡  
 1. 【[睏早起](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_zo_qi.md#睏早起)】`kuen5 zo3 qi3` <sup>[如东]</sup> 早晨起不来：毛毛喜欢～。  
 1. 【[嗑牙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh_nga.md#嗑牙)】`kuh7 nga2` <sup>[兴化]</sup> 闲谈：几个人没事就在一起闲～。  
-1. 【[嗑穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh_qion.md#嗑穷)】`kuh7 qion2` ① <sup>\[如皋\]</sup>哭穷。 ② <sup>\[兴化\]</sup>即哭穷：老朱这几年混得不错，但是见吖老乡就～。<sup>\[兴化\]</sup>  
-1. 【[嗑穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh_qion.md#嗑穷)】`kuh7 qion2` <sup>[泰州]</sup> 同“哭穷”。  
+1. 【[嗑穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh_qion.md#嗑穷)】`kuh7 qion2` <sup>\[如皋\]\[兴化\]\[泰州\]</sup>哭穷：老朱这几年混得不错，但是见吖老乡就～。<sup>\[兴化\]</sup>  
 1. 【[瞌𥅻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh_chon.md#瞌𥅻)】`kuh7 chon5` ① 瞌睡，困极小睡 ② <sup>\[如东\]</sup>打盹：打～。<sup>\[如东\]</sup> ③ <sup>\[如皋\]</sup>欲睡时不自主地颠头。 ④ <sup>\[东台\]</sup>打盹，打瞌睡。 ⑤ <sup>\[东台\]</sup>头脑不十分清醒：打你的～，这桩事怎吖能这吖办？！<sup>\[东台\]</sup> ⑥ <sup>\[泰县\]</sup>打瞌睡。  
 1. 【[瞌睡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh_shuei.md#瞌睡)】`kuh7 shuei` <sup>[如皋]</sup> 见“瞌𥅻”。  
 1. 【[瞌睡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh_shuei.md#瞌睡)】`kuh7 shuei5` <sup>[如东]</sup> 打盹。  

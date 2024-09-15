@@ -163,7 +163,7 @@
 1. 【[作勺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_shah.md#作勺)】`zah7 shah8` <sup>[泰县]</sup> 大勺子。  
 1. 【[作瘆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_shen.md#作瘆)】`zah7 shen5` <sup>[兴化]</sup> ① 惨状令人惊恐。 ② （引）嫌别人所赠菲薄：舍不得就不要送，覅～！  
 1. 【[作时节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_shr_jih.md#作时节)】`zah7 shr2 jih7` <sup>[兴化]</sup> ① 指交节令时天气变化。 ② 逢时过节家庭成员间发生摩擦：他一到节下就要～，你俫别理他。  
-1. 【[作世](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_shr.md#作世)】`zah7 shr5` ① <sup>\[如皋\]</sup>责语，指槽蹋、浪费：他一买多少，吃不了就倒掉，真～啊！ ② <sup>\[泰县\]</sup>令人呕心：烂污糟糟真～。<sup>\[泰县\]</sup> ③ <sup>\[东台\]</sup>同“活作世”。  
+1. 【[作世](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_shr.md#作世)】`zah7 shr5` ① <sup>\[如皋\]</sup>责语，指槽蹋、浪费：他一买多少，吃不了就倒掉，真～啊！<sup>\[如皋\]</sup> ② <sup>\[泰县\]\[东台\]</sup>令人作呕：烂污糟糟真～。<sup>\[泰县\]</sup>  
 1. 【[作世界](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_shr_gae.md#作世界)】`zah7 shr5 gae` <sup>[兴化]</sup> 把环境弄得一团糟：这些邋遢事你到外边去弄，覅在家里～！  
 1. 【[作耍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_shua.md#作耍)】`zah7 shua3` <sup>[兴化]</sup> 耍弄、开玩笑：大家相他调皮，老拿他～。｜“……这却是海老爷故意与你～，你怎么却认真了……？”（《海公大红袍》二一）  
 1. 【[作水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_shuei.md#作水)】`zah7 shuei3` <sup>[如皋]</sup> 玩水。  

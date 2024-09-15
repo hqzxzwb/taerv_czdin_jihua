@@ -106,11 +106,9 @@
 1. 【[活络](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_lah.md#活络)】`uh8 lah` <sup>[如皋]</sup> 见“活泛”。  
 1. 【[活落盐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_lah_in.md#活落盐)】`uh8 lah8 in2` <sup>[如皋]</sup> 进舱时趁活加盐腌制的小黄鱼。品质好。  
 1. 【[活捱搅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_ngae_go.md#活捱搅)】`uh8 ngae2 go3` <sup>[如皋]</sup> 见“活遭罪”。  
-1. 【[活技](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_qi.md#活技)】`uh8 qi` <sup>[如皋]</sup> 幹的活儿：上田里去做～。  
 1. 【[活嚼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_qiah.md#活嚼)】`uh8 qiah8` <sup>[如皋]</sup> 胡说八道。  
 1. 【[活嚼大三光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_qiah_da_saen_guan.md#活嚼大三光)】`uh8 qiah8 da6 saen1 guan1` <sup>[东台]</sup> （詈语）严厉斥责对方是完全没有根据的瞎说。  
 1. 【[活嚼大头蛆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_qiah_da_teu_qy.md#活嚼大头蛆)】`uh8 qiah8 da6 teu2 qy1` ① <sup>\[如皋\]</sup>乱说、胡说。无影子的说，不计后果的说。 ② <sup>\[东台\]</sup>同“活嚼大三光”。（参见“嚼蛆”“嚼瘟蛆”）  
-1. 【[活像](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_qian.md#活像)】`uh8 qian6` <sup>[如皋]</sup> 很像。  
 1. 【[活伤良心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_shan_lian_xien.md#活伤良心)】`uh8 shan1 lian2 xien1` <sup>[东台]</sup> 见“伤良心”。  
 1. 【[活食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_sheh.md#活食)】`uh8 sheh8` ① <sup>\[如皋\]</sup>以鲜活的小动物为食：鸡子吃咖～就长得快。<sup>\[如皋\]</sup> ② <sup>\[东台\]</sup>以活物充当食物。 ③ <sup>\[东台\]</sup>［喻］指固定收入之外的活收入。  
 1. 【[活水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_shuei.md#活水)】`uh8 shuei3` <sup>[东台]</sup> 流动不腐的水。  

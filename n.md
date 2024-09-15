@@ -794,7 +794,7 @@
 1. 【[昂味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_vei.md#昂味)】`ngan2 vei6` <sup>[如皋]</sup> 过浓而有刺激性的味：蟹渣有～。  
 1. 【[𢯤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan.md#𢯤)】`ngan2, ngan3` <sup>[如皋]</sup> 推：他把我望门外只～。  
 1. 【[𪸺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan.md#𪸺)】`ngan2, ngan3` <sup>[如皋]</sup> ① 烟雾迷漫：气冒～烟。 ② ～烟：阴燃，无明火而冒烟。  
-1. 【[𪸺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan.md#𪸺)】`ngan2` ① <sup>\[泰县\]</sup>冒：锅膛里～烟。 ② <sup>\[泰县\]</sup>再烧一会：让炉里的炭再～～。 ③ <sup>\[泰州\]</sup>烟气自然上升的样子：你怎吖弄的，着炭炉子不到天井里去，把家里～得块块是烟。<sup>\[泰州\]</sup> ④ <sup>\[泰州\]</sup>比喻人神气嚣张的样子：这小伙自打当吖处长，人就～吖不得命。<sup>\[泰州\]</sup>  
+1. 【[𪸺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan.md#𪸺)】`ngan2` ① <sup>\[泰县\]</sup>冒：锅膛里～烟。<sup>\[泰县\]</sup> ② <sup>\[泰县\]</sup>再烧一会：让炉里的炭再～～。<sup>\[泰县\]</sup> ③ <sup>\[泰州\]</sup>烟气自然上升的样子：你怎吖弄的，着炭炉子不到天井里去，把家里～得块块是烟。<sup>\[泰州\]</sup> ④ <sup>\[泰州\]</sup>比喻人神气嚣张的样子：这小伙自打当吖处长，人就～吖不得命。<sup>\[泰州\]</sup>  
 1. 【[𪸺烟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_in.md#𪸺烟)】`ngan2 in1` ① <sup>\[如东\]</sup>草未着火时，向外冒浓烟的状态：这些草交关潮湿，点火以后一直～。<sup>\[如东\]</sup> ② <sup>\[泰州\]</sup>烟气在燃烧过程中随风飘去：你把炭炉子点吖着咖以后，弄吖天井里去让它～。<sup>\[泰州\]</sup>  
 1. 【[𪸺口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_keu.md#𪸺口)】`ngan2 keu3` ① <sup>\[如皋\]</sup>烟、酒味不醇，刺激过强。 ② <sup>\[兴化\]</sup>烟酒刺激性大：进口烟抽起来～。<sup>\[兴化\]</sup>｜这酒不正宗，～唻！<sup>\[兴化\]</sup> ③ <sup>\[兴化\]</sup>要求过高，使人难以接受：这个货色倒不丑，就是价钱太～。<sup>\[兴化\]</sup> ④ <sup>\[泰县\]</sup>过度：嫌贵，这个价钱太～。  
 1. 【[𪸺口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_keu.md#𪸺口)】`ngan2 keu3` <sup>[泰州]</sup> ① 劣质烟草刺激口腔所产生的火灼感觉：这个香烟放的时间长啊，吃咖嘴里多～啊。｜他从来不吃雪茄，嫌它～。 ② 报价太高，令人不能接受：青菜买五块钱一斤，太～口啊唻。｜你跟人家要五十桌回门酒，像有点儿～。  
