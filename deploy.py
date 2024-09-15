@@ -6,6 +6,7 @@ import os
 import re
 import string
 import shutil
+import ti_fan_ien_converter
 from itertools import product
 from collections import namedtuple
 from collections import defaultdict
@@ -316,9 +317,9 @@ def write_page(dirs, path, sample_out, cz_ien):
             out = f"1. 【[{w.text}]({link})】`{w.pien_ien}`{source}{meaning}  \n"
         else:
             if len(w.meanings) > 1:
-                meaning = "".join(map(lambda x: " " + ORDERS[x[0]] + " " + meaning_text(x[1]), enumerate(w.meanings)))
+                meaning = "".join(map(lambda x: " " + ORDERS[x[0]] + " " + meaning_text(w, x[1]), enumerate(w.meanings)))
             elif len(w.meanings) == 1:
-                meaning = " " + meaning_text(w.meanings[0])
+                meaning = " " + meaning_text(w, w.meanings[0])
             else:
                 meaning = " "
             out = f"1. 【[{w.text}]({link})】`{w.pien_ien}`{meaning}  \n"
@@ -331,16 +332,26 @@ def write_page(dirs, path, sample_out, cz_ien):
 def shrink_source(source):
     return re.sub(r'(方言词典|方言志|方言辞典)\d?$', '', source)
 
-def meaning_text(meaning):
+def meaning_text(w, meaning):
     str = ""
-    source = "".join(f"\\[{shrink_source(sub.source)}\\]" for sub in meaning.subs if sub and sub.source)
-    if source:
-        str = "<sup>" + source + "</sup>"
     str = str + meaning.explanation
     for sub in meaning.subs:
+        source = sub.source
+        if source:
+            source = shrink_source(source)
+        else:
+            source = ""
         supplement = sub.supplement
+        ti_fan_ien_func = getattr(ti_fan_ien_converter, source, None)
+        ti_fan_ien = ""
+        if ti_fan_ien_func:
+            ti_fan_ien = " ".join([ti_fan_ien_func(m[0], m[1]) for m in w.mixed if m[1]])
+        if ti_fan_ien == w.pien_ien_0:
+            ti_fan_ien = ""
         if supplement:
-            str = str + f"\\[{shrink_source(sub.source)}：{supplement}\\]"
+            str = str + f"\\[{source}{ti_fan_ien}：{supplement}\\]"
+        elif source:
+            str = str + f"\\[{source}{ti_fan_ien}\\]"
     if any(sub.examples for sub in meaning.subs):
         str = str.rstrip('。') + "："
         for sub in meaning.subs:
