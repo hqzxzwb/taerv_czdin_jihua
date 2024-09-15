@@ -335,7 +335,7 @@ def shrink_source(source):
 def meaning_text(w, meaning):
     str = ""
     str = str + meaning.explanation
-    for sub in meaning.subs:
+    for sub in sorted(meaning.subs, key = lambda x: x.supplement or ''):
         source = sub.source
         if source:
             source = shrink_source(source)
@@ -351,7 +351,7 @@ def meaning_text(w, meaning):
         if supplement:
             str = str + f"\\[{source}{ti_fan_ien}：{supplement}\\]"
         elif source:
-            str = str + f"\\[{source}{ti_fan_ien}\\]"
+            str = str + f"<sup>\\[{source}{ti_fan_ien}\\]</sup>"
     if any(sub.examples for sub in meaning.subs):
         str = str.rstrip('。') + "："
         for sub in meaning.subs:
