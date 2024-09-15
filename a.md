@@ -8,7 +8,7 @@
 1. 【[嗳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/ae.md#嗳)】`ae1` <sup>[如皋]</sup> 叹词。轻呼声。  
 1. 【[嗳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/ae.md#嗳)】`ae2` <sup>[如皋]</sup> 叹词。警示声。  
 1. 【[嗳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/ae.md#嗳)】`ae3` <sup>[如皋]</sup> 叹词。否定声。  
-1. 【[嗳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/ae.md#嗳)】`ae5` ① <sup>\[如皋\]</sup>叹词。应答声、提示声、呼叫声。 ② <sup>\[泰州\]</sup>应答声。 ③ <sup>\[泰州\]</sup>表示感叹。 ④ <sup>\[泰州\]</sup>表示提醒对方注意：～，你来下子。<sup>\[泰州\]</sup>  
+1. 【[嗳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/ae.md#嗳)】`ae5` ① 叹词。应答声、提示声、呼叫声。\[如皋\] ② 应答声。\[泰州\] ③ 表示感叹。\[泰州\] ④ 表示提醒对方注意\[泰州\]：～，你来下子。<sup>\[泰州\]</sup>  
 1. 【[啊啐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/ah_cuei.md#啊啐)】`ah7 cuei5` <sup>[泰州]</sup> ① 人咳嗽打喷嚏的声音。 ② 模仿咳嗽打喷嚏的声音，表示鄙弃、不屑或者愤怒：（甲）听说你俫单位福利不丑啊。（乙）～，你不要听人瞎说，过年就发咖这点点儿东西。  
 1. 【[阿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/ah.md#阿)】`ah7` <sup>[兴化]</sup> 前缀。用在排行、人名的前边：～三；～四；～庆；～根。  
 1. 【[阿曾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/ah_cen.md#阿曾)】`ah7 cen2` <sup>[泰州]</sup> 泰州方言，有没有，表示询问：东西你～送吖去唻？｜你～买股票啊？｜他～调家来啊？  
