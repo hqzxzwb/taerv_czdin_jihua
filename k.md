@@ -811,6 +811,7 @@
 1. 【[亏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei.md#亏)】<p>`kuei1` /kʰuəɪ1/<sup>泰兴</sup></p> ① 损失。<sup>\[如东\]</sup>：～本。<sup>\[如东\]</sup> ② 营养不良。<sup>\[如东\]</sup>：身体～。<sup>\[如东\]</sup> ③ 垮、疲<sup>\[兴化\]</sup>：这场大病，使他的身体～下来啊。<sup>\[兴化\]</sup>｜一场人命官司，把他的家业拖～啊。<sup>\[兴化\]</sup> ④ 亏损，减少。<sup>\[泰兴\]</sup> ⑤ 亏空，蚀本。<sup>\[泰兴\]</sup>：今年算下账来是～的。<sup>\[泰兴\]</sup> ⑥ 客套话，若“多承”之意。<sup>\[泰兴\]</sup> ⑦ 幸亏、亏得的反说，表示讥讽。<sup>\[泰兴\]</sup>  
 1. 【[亏啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei_a.md#亏啊)】`kuei1 a` <sup>[如皋]</sup> 同“苦叨（幸好、幸亏、多亏、所幸）”  
 1. 【[亏本](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei_ben.md#亏本)】`kuei1 ben3` <sup>[如东]</sup> 折本。  
+1. 【[亏得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei_deh.md#亏得)】`kuei1 deh7` 幸亏，幸好<sup>\[如东\]</sup>  
 1. 【[亏负](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei_fv.md#亏负)】`kuei1 fv6` <sup>[泰州]</sup> 使人受损而有负于人：你问问她，这些年唻我哿曾有一点儿～过她。  
 1. 【[亏空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei_kon.md#亏空)】`kuei1 kon5` ① 收入不抵支出而欠人钱财。<sup>\[如东\]</sup> ② 入不敷出，以致负债。<sup>\[东台\]</sup>  
 1. 【[亏杀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei_shaeh.md#亏杀)】`kuei1 shaeh` <sup>[兴化]</sup> ① 多亏、全仗：～老兄帮忙，事情才办得这吖顺利。 ② 幸而：～张胜立心至诚，到底不曾有染，所以不受其祸……（《京本通俗小说·志诚张主管》）  

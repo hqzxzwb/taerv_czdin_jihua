@@ -789,8 +789,9 @@
 1. 【[好处](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_chv.md#好处)】`ho3 chv3` <sup>[如皋]</sup> ① 容易相处：他为人贤惠，～。 ② 将近满、尽、完成、终了：锅里水上吖～啊啦｜钱用吖～啊｜事情办吖～啊你就家来。  
 1. 【[好处啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_chv_a.md#好处啊)】`ho3 chv3 a` <sup>[东台]</sup> 某件事快结束、快完成：粥已煮啊个把小时，～。  
 1. 【[好歹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_dae.md#好歹)】`ho3 dae3` <sup>[如皋]</sup> 好歹。也说“反正”“横竖”“输赢”。  
+1. 【[好得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_deh.md#好得)】`ho3 deh7` 幸亏，幸好<sup>\[如东\]</sup>  
 1. 【[好得凶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_deh_xion.md#好得凶)】`ho3 deh7 xion1` <sup>[东台]</sup> 太好，非常好的意思。  
-1. 【[好的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_dieh.md#好的)】`ho3 dii` <sup>[泰州]</sup> 幸亏：他～不曾拿他的回扣，不然同他俫一样也出事唻。｜车子在路上翻掉唻，他～不曾跟吖后头去。  
+1. 【[好的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_dii.md#好的)】`ho3 dii` 幸亏<sup>\[泰州\]</sup>：他～不曾拿他的回扣，不然同他俫一样也出事唻。<sup>\[泰州\]</sup>｜车子在路上翻掉唻，他～不曾跟吖后头去。<sup>\[泰州\]</sup>  
 1. 【[好东好西](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_don_ho_xi.md#好东好西)】`ho3 don1 ho3 xi1` <sup>[兴化]</sup> “好东西”一词的生动说法：～的捱你败光吖，留这些破烂有甚的用？  
 1. 【[好过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_gu.md#好过)】`ho3 gu5` ① 舒服，适意 ② 身体舒服。<sup>\[如东\]</sup>：这几天我身子～啊。<sup>\[如东\]</sup> ③ 日子宽松。<sup>\[如东\]</sup>：这几年我俫的日子～啊。<sup>\[如东\]</sup>  
 1. 【[好过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_gu.md#好过)】`ho3 gu5` <sup>[泰州]</sup> ① 生活基础条件或者生存社会环境较好而觉得日子容易度过：现在换吖个领导，她的日子～啊唻。 ② 精神上的愉快感觉：这种人心术不好，她要个个过得不如她，她才心里好过。 ③ 肉体上的舒适感觉：先头子喉咙嗓子里头像冒烟，喝咖两大碗茶下肚子，这一刻儿才～啊。  
