@@ -1415,7 +1415,7 @@
 1. 【[了败星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_pae_xien.md#了败星)】`lio3 pae6 xien1` <sup>[如东]</sup> 挥霍无度、不聚钱财的人。  
 1. 【[了薄小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_pah_xio.md#了薄小)】`lio3 pah8 xio3` <sup>[泰县]</sup> 最后一名。  
 1. 【[了期](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_qi.md#了期)】`lio3 qi1` <sup>[兴化]</sup> 事情完结的日子：“……我才说是这一案欠命的案定了，还有别的案子呢！我知道哪天是～……”（《老残游记》二·七）  
-1. 【[了手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_sheu.md#了手)】`lio3 sheu3` 办完；了结。<sup>\[东台\]</sup><sup>\[泰兴lio3 xiou3\]</sup><sup>\[兴化\]</sup>：如果不快刀斩乱麻，箇桩事没得～。<sup>\[泰兴\]</sup>｜张家的活计还有三天～。<sup>\[兴化\]</sup>｜“……我又不是个丫头，把我关在家里，何日是个～……”（《红楼梦》四八）<sup>\[兴化\]</sup>  
+1. 【[了手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_sheu.md#了手)】`lio3 sheu3` 办完；了结。<sup>\[东台\]</sup><sup>\[泰兴liɔ3 ɕiɤɯ3\]</sup><sup>\[兴化\]</sup>：如果不快刀斩乱麻，箇桩事没得～。<sup>\[泰兴\]</sup>｜张家的活计还有三天～。<sup>\[兴化\]</sup>｜“……我又不是个丫头，把我关在家里，何日是个～……”（《红楼梦》四八）<sup>\[兴化\]</sup>  
 1. 【[了首尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_sheu_vei.md#了首尾)】`lio3 sheu3 vei3` ① 指完成对子女的责任。<sup>\[东台\]</sup> ② 给儿女办完婚事<sup>\[兴化\]</sup>：我还有小儿子结婚一桩大事，就全部～啊。<sup>\[兴化\]</sup> ③ 完成了培育子女的事。<sup>\[泰县\]</sup>  
 1. 【[了微<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_vei_r.md#了微<sub>儿</sub>)】`lio3 vei2 r` <sup>[如东]</sup> 稍微：～晚点。  
 1. 【[了戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_xi.md#了戏)】`lio3 xi5` <sup>[兴化]</sup> ① 完了：～！皮五辣子今日是非打肉不可了……（扬说《皮五辣子打肉》三） ② “死”的隐语：老王三～啊。  

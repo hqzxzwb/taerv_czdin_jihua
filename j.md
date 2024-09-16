@@ -110,8 +110,8 @@
 1. 【[几](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#几)】`ji3` <sup>[如皋]</sup> 条几、香几等的通称。  
 1. 【[几下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ha.md#几下)】`ji3 ha6` <sup>[东台]</sup> 几个地方。“下”相当于量词“处”。  
 1. 【[几钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_qin.md#几钱)】`ji3 qin2` <sup>[泰兴]</sup> “几个钱”的省称，即“多少钱”：西瓜几钱斤？/西瓜多少钱一斤？  
-1. 【[几□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_shr.md#几□)】`ji3 shr1` 哪一天<sup>\[东台\]</sup><sup>\[泰兴ji3 sz1\]</sup><sup>\[海安\]</sup>：今朝～？/今天是什么日子？<sup>\[海安\]</sup>  
-1. 【[几时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_shr.md#几时)】`ji3 shr2` 什么时候<sup>\[泰兴ji3 sz2\]</sup>：大姑娘～好日？<sup>\[泰兴\]</sup>  
+1. 【[几□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_shr.md#几□)】`ji3 shr1` 哪一天<sup>\[东台\]</sup><sup>\[泰兴t͡ɕʝ3 sɿ1\]</sup><sup>\[海安\]</sup>：今朝～？/今天是什么日子？<sup>\[海安\]</sup>  
+1. 【[几时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_shr.md#几时)】`ji3 shr2` 什么时候<sup>\[泰兴t͡ɕʝ3 sɿ2\]</sup>：大姑娘～好日？<sup>\[泰兴\]</sup>  
 1. 【[几代人裔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_tae_ren_i.md#几代人裔)】`ji3 tae6 ren2 i6` <sup>[如皋]</sup> 一个家族的几代人。  
 1. 【[几天头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_tin_teu.md#几天头)】`ji3 tin1 teu2` ① 十天之内。<sup>\[如东\]</sup>：来回不过～。<sup>\[如东\]</sup> ② 只须×天<sup>\[如皋\]</sup>：做完这件事只要～！<sup>\[如皋\]</sup>  
 1. 【[几文](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ven.md#几文)】`ji3 ven2` <sup>[兴化]</sup> “文”是旧时铜钱的计量单位，～即多少钱，也指不确定数量的钱：这件衬衣卖～？“……比如今夕，家人团聚一堂，何等清闲自在！虽则多费一，心中也是快活的。”（《广陵潮》一〇〇）“……却不料他官虽然只做得一任，任上的钱倒着实弄得～回来……”（《官场现形记》二）  

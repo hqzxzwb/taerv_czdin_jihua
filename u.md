@@ -165,7 +165,7 @@
 1. 【[豌豆心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_teu_xien.md#豌豆心)】`un1 teu6 xien1` ① 朝三暮四，心情多变，像豌豆一样滚动<sup>\[东台\]</sup>：这小伙才处得好好的姑娘又不谈吖，真是～。<sup>\[东台\]</sup> ② 意志不坚定的人：这个女伢儿是个～。<sup>\[泰县\]</sup>  
 1. 【[鹌鹑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_shuen.md#鹌鹑)】`un1 shuen2` <sup>[如东]</sup> 雉科动物鹌鹑，也叫草鸡儿，体长约16厘米。  
 1. 【[鹌鹑蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_shuen_taen.md#鹌鹑蛋)】`un1 shuen2 taen6` <sup>[如东]</sup> 鹌鹑生的蛋，个体较小。现在多为人工饲养的鹌鹑所生。  
-1. 【[丸药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_iah.md#丸药)】`un2 iah8` 药丸<sup>\[如东\]</sup>\[泰兴：泛指各种颗粒状药物\]  
+1. 【[丸药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_iah.md#丸药)】`un2 iah8` 药丸<sup>\[如东\]</sup>\[泰兴ʊ̃2 iaʔ8：泛指各种颗粒状药物\]  
 1. 【[丸药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_iah.md#丸药)】`un2-uh8 iah8` <sup>[泰县]</sup> 药品里的丸剂：先生，这个～怎吖吃？  
 1. 【[丸眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_ngaen_r.md#丸眼<sub>儿</sub>)】`un2 ngaen3 r` <sup>[东台]</sup> 极言其小或少。同“细点滴儿”。又称“眼丸儿”、“眼丸子”。  
 1. 【[完风不透气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_fon_beh_teu_qi.md#完风不透气)】`un2 fon1 beh7 teu5 qi5` <sup>[兴化]</sup> 房屋严密封闭，使空气不能流通：他把屋里门窗关得～的。  

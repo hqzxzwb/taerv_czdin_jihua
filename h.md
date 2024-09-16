@@ -1352,7 +1352,7 @@
 1. 【[划算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_sun.md#划算)】`hua2 sun5` ① 合算。<sup>\[如东\]</sup>：用这种材料～。<sup>\[如东\]</sup> ② 上算，合算。也叫划得来。<sup>\[东台\]</sup> ③ 上算、合算<sup>\[兴化\]</sup>：……一看是郑板桥画的扇子，个个都惊呆了。只二两银子，太～了！（《郑板桥传说·大年初一卖扇子》）<sup>\[兴化\]</sup> ④ 盘算、计算<sup>\[兴化\]</sup>：～下来这笔生意还是不能做。<sup>\[兴化\]</sup>  
 1. 【[划算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_sun.md#划算)】`hua2 sun5` <sup>[泰州]</sup> 合算，划得来：5块钱买啊4斤青菜，蛮～的。  
 1. 【[划周](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_zheu.md#划周)】`hua2 zheu1` <sup>[兴化]</sup> 为小孩贺周岁。“划”也读va2。  
-1. 【[划子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_zz.md#划子)】`hua2 zz` ① 桨。<sup>\[泰县\]</sup> ② 小船<sup>\[泰兴\]</sup>  
+1. 【[划子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_zz.md#划子)】`hua2 zz` ① 桨。<sup>\[泰县\]</sup> ② 小船<sup>\[泰兴xua2 t͡sɿ\]</sup>  
 1. 【[华乐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_lah.md#华乐)】`hua2 lah` <sup>[东台]</sup> ① 不切实际的奢侈、浮华。 ② 快活。  
 1. 【[华乐天宫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_lah_tin_gon.md#华乐天宫)】`hua2 lah8 tin1 gon1` <sup>[兴化]</sup> 形容建筑物的装璜或装饰富丽堂皇：周老二做生意发咖财，把家里装璜得～的。  
 1. 【[华录](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_loh.md#华录)】`hua2 loh8` <sup>[如东]</sup> 质量不好：这些东西都是一些～货。  
@@ -1489,7 +1489,7 @@
 1. 【[豁口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_keu.md#豁口)】`huaeh7 keu3` <sup>[如东]</sup> 很大的一个口子。  
 1. 【[豁口狼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_keu_lan.md#豁口狼)】`huaeh7 keu3 lan2` <sup>[如东]</sup> 张开一个大口子：堤岸上出现一个～。  
 1. 【[豁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_zz.md#豁子)】`huaeh7 zz` ① 口子。<sup>\[如东\]</sup>：河堤上冲吖个～。<sup>\[如东\]</sup> ② （喻）事务中的枝节、纰漏、问题<sup>\[兴化\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup>：出～。<sup>\[兴化\]</sup>｜出咖大～。<sup>\[如东\]</sup>｜他手伸得太长，明吖忑个～不得小。<sup>\[东台\]</sup>  
-1. 【[𧽌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh.md#𧽌)】`huaeh7` ① 跃而越过<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup><sup>\[泰州\]</sup>：这哿水沟，他一～就过去啊。<sup>\[东台\]</sup>｜小沟头子他一～就过去啊。<sup>\[兴化\]</sup>｜～过一条沟。<sup>\[泰县\]</sup>｜就这点ㄦ高，一～就过去啊唻。<sup>\[泰州\]</sup>｜他一口气连～三个缺口。<sup>\[泰州\]</sup> ② 越级<sup>\[兴化\]</sup>：从三年级～到五年级（～级）。<sup>\[兴化\]</sup> ③ 跑、行、往、去<sup>\[泰兴\]</sup><sup>\[泰州\]</sup>：老远的～得来，就为买个烧饼<sup>\[泰兴\]</sup>｜刚才还望见他的，不晓得他这一刻ㄦ～咖哪块去啊。<sup>\[泰州\]</sup>｜五个人去打架的，派出所捉咖四个，只有他个人～过去啊。/只有他一个人走脱了<sup>\[泰州\]</sup>  
+1. 【[𧽌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh.md#𧽌)】`huaeh7` ① 跃而越过<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰兴xuɛʔ7\]</sup><sup>\[泰州\]</sup>：这哿水沟，他一～就过去啊。<sup>\[东台\]</sup>｜小沟头子他一～就过去啊。<sup>\[兴化\]</sup>｜～过一条沟。<sup>\[泰县\]</sup>｜就这点ㄦ高，一～就过去啊唻。<sup>\[泰州\]</sup>｜他一口气连～三个缺口。<sup>\[泰州\]</sup> ② 越级<sup>\[兴化\]</sup>：从三年级～到五年级（～级）。<sup>\[兴化\]</sup> ③ 跑、行、往、去<sup>\[泰兴xuɛʔ7\]</sup><sup>\[泰州\]</sup>：老远的～得来，就为买个烧饼<sup>\[泰兴\]</sup>｜刚才还望见他的，不晓得他这一刻ㄦ～咖哪块去啊。<sup>\[泰州\]</sup>｜五个人去打架的，派出所捉咖四个，只有他个人～过去啊。/只有他一个人走脱了<sup>\[泰州\]</sup>  
 1. 【[𧽌边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_bin.md#𧽌边)】`huaeh7 bin1` <sup>[泰州]</sup> 比喻事情落空：不谈唻，银行的贷款也～唻。｜伢儿上学是件大事，你跟他敲啊定吖，千万不能～。  
 1. 【[𧽌沟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_geu.md#𧽌沟)】`huaeh7 geu1` <sup>[如皋]</sup> 跳过河去。  
 1. 【[𧽌连叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_lin_cha.md#𧽌连叉)】`huaeh7 lin2 cha1` 两手交替着地连续侧身翻，豁虎跳。<sup>\[兴化\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup>：儿歌：猫子不在家，老鼠～。<sup>\[兴化\]</sup>  
@@ -1715,7 +1715,7 @@
 1. 【[黄子/𪏙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_zz.md#黄子/𪏙子)】`huan2 zz` <sup>[泰州]</sup> ① 蛋黄：他吃咸蛋只吃～，不吃白子。 ② 蟹黄：你把螃蟹里栋的～省吖把伢儿吃。  
 1. 【[幌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_zz.md#幌子)】`huan3 zz` ① 旧时用布或草帘等缀于竹竿头，高高悬挂在店铺门外，用以招揽顾客的标识。<sup>\[东台\]</sup> ② （借）虚的，不可能的<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[如皋\]</sup>：他说他十七岁就入咖党吖？～！<sup>\[东台\]</sup>｜解放初期有则民谣：二流子，摇膀子，不是共产党来吃～。<sup>\[东台\]</sup>｜没得钱吃～、玩～。<sup>\[兴化\]</sup>｜（木料给了人家）说定春上砌房子的，这一来砌～唦！（钱国怀《家怨》）<sup>\[兴化\]</sup>｜你哿曾带钱吖？——带～！<sup>\[如皋\]</sup>  
 1. 【[幌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_zz.md#幌子)】`huan3 zz` <sup>[泰州]</sup> 表示事物的结果不在预料中的应有状态：（甲）老李调啊走，轮到你当处长吧。（乙）～，人家帽肚里早就有啊人，我才不想唻。｜（甲）今朝晚上肯定上的五粮液吧？（乙）～，弄吖点儿绵竹大曲就把我俫打发掉唻。  
-1. 【[幌子三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_zz_saen.md#幌子三)】`huan3 zz saen1` 是虚幻的、不可能的<sup>\[泰兴huan3 zz xiaen1\]</sup>：我信他个～/我是不可能相信他的<sup>\[泰兴\]</sup>｜“事哿曾办得好唻？”“～”。<sup>\[泰兴\]</sup>  
+1. 【[幌子三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_zz_saen.md#幌子三)】`huan3 zz saen1` 是虚幻的、不可能的<sup>\[泰兴xuɑŋ3 t͡sɿ ɕiɛ̃1\]</sup>：我信他个～/我是不可能相信他的<sup>\[泰兴\]</sup>｜“事哿曾办得好唻？”“～”。<sup>\[泰兴\]</sup>  
 1. 【[恍惑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_hoh.md#恍惑)】`huan3 hoh8` <sup>[兴化]</sup> 将别人的意思领会错：我捱你一说倒～住啊。  
 1. 【[晃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan.md#晃)】`huan3` <sup>[东台]</sup> 很快的闪过：唉！一～的下子，十几年就过去啊。  
 1. 【[晃眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ngaen.md#晃眼)】`huan3 ngaen3, huan5 ngaen3` <sup>[如皋]</sup> 过分醒目，易招惹是非（警醒语）。  
@@ -1847,7 +1847,7 @@
 1. 【[回声](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_shen.md#回声)】`huei2 shen1` <sup>[如皋]</sup> 异议：他的权威高，一句话说出去，其他人没得～。  
 1. 【[回手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_sheu.md#回手)】`huei2 sheu3` ① 转过手来<sup>\[东台\]</sup> ② 回扣<sup>\[兴化\]</sup>：这笔交易做成吖，百分之五的～。<sup>\[兴化\]</sup> ③ 还手，还击<sup>\[东台\]</sup><sup>\[泰州\]</sup>：你就是打啊他，他也不会～。<sup>\[泰州\]</sup>  
 1. 【[回水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_shuei.md#回水)】`huei2 shuei3` <sup>[东台]</sup> ［喻］反悔，不承认原来的话：他答应来的，怎吖又～，说不来啦？  
-1. 【[回数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_shv.md#回数)】`huei2 shv` 次数<sup>\[如皋\]</sup><sup>\[泰兴huei2 sv\]</sup>：他来的～不少。<sup>\[如皋\]</sup>  
+1. 【[回数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_shv.md#回数)】`huei2 shv` 次数<sup>\[如皋\]</sup><sup>\[泰兴xuəɪ2 su\]</sup>：他来的～不少。<sup>\[如皋\]</sup>  
 1. 【[回头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_teu.md#回头)】`huei2 teu2` ① 往回走。<sup>\[如皋\]</sup> ② 过一会儿。<sup>\[如皋\]</sup> ③ 下次，以后。<sup>\[如皋\]</sup> ④ 颠倒、错乱<sup>\[兴化\]</sup>：你过啊～啊，家里外头倒不分吖！<sup>\[兴化\]</sup> ⑤ 答复<sup>\[兴化\]</sup>：明朝听～<sup>\[兴化\]</sup>｜你去把～（给答复）。<sup>\[兴化\]</sup>  
 1. 【[回头货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_teu_hu.md#回头货)】`huei2 teu2 hu5` <sup>[兴化]</sup> ① 从运销目的地购进或归途中顺便销回的货：回头是空车，请你带点儿～家来。 ② （借）已出去的人（或物）又回来：“……只有你们老爷糊涂，还弄这～进门……”（《广陵潮》三八）  
 1. 【[回头会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_teu_huei.md#回头会)】`huei2 teu2 huei6` <sup>[如东]</sup> 再别不久再相会：我俫～。  
@@ -1895,7 +1895,7 @@
 1. 【[会利](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_li.md#会利)】`huei6 li6` “请会”中先“得会”者于尔后“打会”时加付的利金，由后“得会”者加收。<sup>\[如东\]</sup><sup>\[如皋\]</sup>  
 1. 【[会期](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qi.md#会期)】`huei6 qi1` 每月定期打会的时间以及地点。<sup>\[如东\]</sup><sup>\[如皋\]</sup>  
 1. 【[会吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qieh.md#会吃)】`huei6 qieh7` <sup>[如皋]</sup> ① 指婴儿、小动物要吃、吃得多。 ② 指吃得技巧、吃得精巧吃得有“名堂”。懂得使用各种食料，做出各种可口的美味享用。  
-1. 【[会亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qien.md#会亲)】`huei6 qien1` 婚俗，男女双方亲族聚会认亲<sup>\[泰兴huei1 qien1\]</sup>\[如东：姑娘结婚后第三天，娘家人到婆家去认识亲戚，叫做会亲；第四天，婆家人到娘家去认识亲戚，叫做反会亲。也称双会亲。参加会亲的人，在新娘生小孩时都要送产妇礼。\]\[泰州：旧时传统婚礼喜日婚宴均由男方举办，女方父母、兄弟、姐妹以及相关亲戚都会回避。男方乃在婚后数日设下酒筵，宴请女方父母、兄弟、姐妹以及相关亲戚，双方互相“认亲”，称为会亲。《民国泰县志稿》卷之23:“会亲，婚后数日，女之伯叔兄弟临男宅视女曰看亲。男宅择日请岳家眷属及做朝之亲族，曰会亲。”\]\[兴化：男女婚姻关系确立后，男方邀集双方主要亲戚聚会认亲\]\[如皋：结婚后，男家邀女家亲族赴宴，与男家亲族互相承认亲戚关系。赴宴者“不空手”须带礼物去，又“回半礼”带回。\]\[东台：结婚时男女双方各自置办宴席，请对方亲友见面。\]：新人上轿，冯老孺人也上轿，送到金家，……次日，杨家哥嫂多来～……（《二刻》九）<sup>\[兴化\]</sup>  
+1. 【[会亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qien.md#会亲)】`huei6 qien1` 婚俗，男女双方亲族聚会认亲<sup>\[泰兴xuəɪ1 t͡ɕʰiŋ1\]</sup>\[如东：姑娘结婚后第三天，娘家人到婆家去认识亲戚，叫做会亲；第四天，婆家人到娘家去认识亲戚，叫做反会亲。也称双会亲。参加会亲的人，在新娘生小孩时都要送产妇礼。\]\[泰州：旧时传统婚礼喜日婚宴均由男方举办，女方父母、兄弟、姐妹以及相关亲戚都会回避。男方乃在婚后数日设下酒筵，宴请女方父母、兄弟、姐妹以及相关亲戚，双方互相“认亲”，称为会亲。《民国泰县志稿》卷之23:“会亲，婚后数日，女之伯叔兄弟临男宅视女曰看亲。男宅择日请岳家眷属及做朝之亲族，曰会亲。”\]\[兴化：男女婚姻关系确立后，男方邀集双方主要亲戚聚会认亲\]\[如皋：结婚后，男家邀女家亲族赴宴，与男家亲族互相承认亲戚关系。赴宴者“不空手”须带礼物去，又“回半礼”带回。\]\[东台：结婚时男女双方各自置办宴席，请对方亲友见面。\]：新人上轿，冯老孺人也上轿，送到金家，……次日，杨家哥嫂多来～……（《二刻》九）<sup>\[兴化\]</sup>  
 1. 【[会亲酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qien_jieu.md#会亲酒)】`huei6 qien1 jieu3` <sup>[如东]</sup> 姑娘结婚后，亲戚相聚而举办的酒筵，称会亲酒。  
 1. 【[会钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qin.md#会钱)】`huei6 qin2` ① “请会”时收取的及以后定期“打会”的钱。<sup>\[如皋\]</sup><sup>\[如东\]</sup> ② “做会（如青苗会、土地会、龙王会、城隍会）”的份额钱。<sup>\[如皋\]</sup> ③ 结社（如工会、农会）成员交的“会费”。<sup>\[如皋\]</sup>  
 1. 【[会杀猪，还要会翻肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_shaeh_zhv_hae_io_huei_faen_chan.md#会杀猪，还要会翻肠)】`huei6 shaeh7 zhv1 hae2 io5 huei6 faen1 chan2` <sup>[东台]</sup> 做了某件事就要处理好相关环节，不留后患。  
@@ -1933,7 +1933,7 @@
 1. 【[荤饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_faen.md#荤饭)】`huen1 faen6` <sup>[如东]</sup> ① 饭的一种。大米饭中加猪肉等荤菜，叫做荤饭。 ② 指鱼肉酒菜全有的饭餐。  
 1. 【[荤夹素](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_gaeh_sv.md#荤夹素)】`huen1 gaeh7 sv5` <sup>[如皋]</sup> ① 有荤有素的菜，即家常菜。 ② 说话中带草字。  
 1. 【[荤话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_hua.md#荤话)】`huen1 hua6` 充满色情的粗话。<sup>\[东台\]</sup><sup>\[泰州\]</sup>：他这个人是没得～不开口。<sup>\[泰州\]</sup>｜这小伙不上路子，说咖说的，～就出来唻。<sup>\[泰州\]</sup>  
-1. 【[荤油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_ieu.md#荤油)】`huen1 ieu2` 食用的动物油。多指熬好的猪油。<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>  
+1. 【[荤油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_ieu.md#荤油)】`huen1 ieu2` 食用的动物油。多指熬好的猪油。<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰兴xuə̃1 iɤɯ2\]</sup>  
 1. 【[荤油丁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_ieu_dien_zz.md#荤油丁子)】`huen1 ieu2 dien1 zz` <sup>[兴化]</sup> 见“脂油丁子”。  
 1. 【[荤期](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_qi.md#荤期)】`huen1 qi1` <sup>[如皋]</sup> 周期食谱中吃荤菜的日子。  
 1. 【[荤段<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_tun_r.md#荤段<sub>儿</sub>)】`huen1 tun6-dun5 r` <sup>[兴化]</sup> 粗俗的故事或笑话：这天，巧儿听一个女人说了一段关于黄瓜的～，笑得前合后仰。（钱国怀《水流千转》）。  
@@ -2076,7 +2076,7 @@
 1. 【[活皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_pi.md#活皮)】`huh8 pi2` <sup>[泰县]</sup> 充气的轮船。  
 1. 【[活便](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_pin.md#活便)】`huh8 pin` ① 灵活便利<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：（那老儿）因见小人手脚～，带小人归去到城里，教了许多本事……（《水浒传》二七）<sup>\[兴化\]</sup>｜你岁数大啊唻，手脚不～，不要再逞英雄，爬高的事还是让他俫年纪轻的来吧。<sup>\[泰州\]</sup> ② 经济宽裕，手有余资<sup>\[兴化\]</sup>：他现在下海经商，手头～。<sup>\[兴化\]</sup>  
 1. 【[活便钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_pin_qin.md#活便钱)】`huh8 pin qin2` <sup>[兴化]</sup> 除日常生活开支以外富余的钱。也作“活变钱”：他手上有两个～。｜有个铺儿撰着活变钱（《醒世姻缘传》第八十四回）  
-1. 【[活技](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_qi.md#活技)】`huh8 qi` 活计，活儿<sup>\[泰州\]</sup>\[如皋：（uh8 qi）\]\[泰兴：（uh8 qi）\]：帮家里做～。<sup>\[泰州\]</sup>｜上田里去做～。<sup>\[如皋\]</sup>  
+1. 【[活技](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_qi.md#活技)】`huh8 qi` 活计，活儿<sup>\[泰州\]</sup>\[如皋：（uh8 qi）\]\[泰兴xʊʔ8 t͡ɕʰʝ：（uh8 qi）\]：帮家里做～。<sup>\[泰州\]</sup>｜上田里去做～。<sup>\[如皋\]</sup>  
 1. 【[活嚼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_qiah.md#活嚼)】`huh8 qiah8` （禁忌语）乱说，胡编乱造<sup>\[泰县\]</sup>\[泰州：比喻胡编乱造得非常逼真\]：你不要～。<sup>\[泰县\]</sup>｜你不要听他～，根本就没得他说的这回事。<sup>\[泰州\]</sup>  
 1. 【[活嚼大三光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_qiah_da_saen_guan.md#活嚼大三光)】`huh8 qiah8 da6 saen1 guan1` <sup>[泰县]</sup> 没有根据地说：不晓得，你覅～。  
 1. 【[活嚼蛆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_qiah_qy.md#活嚼蛆)】`huh8 qiah8 qy1` <sup>[如东]</sup> 瞎说胡话。  
@@ -2092,10 +2092,10 @@
 1. 【[活守寡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_sheu_gua.md#活守寡)】`huh8 sheu3 gua3` <sup>[如皋]</sup> 见“守活寡”。  
 1. 【[活受罪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_sheu_qy.md#活受罪)】`huh8 sheu6 qy6` <sup>[如东]</sup> 在没有罪名的状态下遭受折磨：她在那许～。  
 1. 【[活水河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_shuei_hu.md#活水河)】`huh8 shuei3 hu2` <sup>[兴化]</sup> 有源头的常流水：这是～，水质好。｜“此河不是～，因纣王造鹿台，挑取泥士，致成小河……”（《封神演义》八九）也作“活河”。  
-1. 【[活说](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_shuh.md#活说)】`huh8 shuh7` ① 演讲口才富于煽动性，能够鼓动大家的情绪。<sup>\[如东\]</sup>：真是～。<sup>\[如东\]</sup> ② 信口胡说<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>\[泰兴huh8 suh7：（uh8 shuh）\]：覅～，坏人名誉要承担法律责任的！<sup>\[兴化\]</sup>｜覅～。<sup>\[泰县\]</sup>｜你不要听吖他在这块～。<sup>\[泰州\]</sup>  
+1. 【[活说](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_shuh.md#活说)】`huh8 shuh7` ① 演讲口才富于煽动性，能够鼓动大家的情绪。<sup>\[如东\]</sup>：真是～。<sup>\[如东\]</sup> ② 信口胡说<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>\[泰兴xʊʔ8 sʊʔ7：（uh8 shuh）\]：覅～，坏人名誉要承担法律责任的！<sup>\[兴化\]</sup>｜覅～。<sup>\[泰县\]</sup>｜你不要听吖他在这块～。<sup>\[泰州\]</sup>  
 1. 【[活死人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_sz_ren.md#活死人)】`huh8 sz3 ren2` ① 指反应迟钝、动作笨拙的人。<sup>\[东台\]</sup> ② 迂执、呆板、不会灵活变通的人<sup>\[东台\]</sup><sup>\[兴化\]</sup>：他是个～，这件事找他肯定不行！<sup>\[兴化\]</sup>  
 1. 【[活掉啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_tio_a.md#活掉啊)】`huh8 tio a` <sup>[泰县]</sup> 庄稼肥足，倒状：他家的几亩稻都～。  
-1. 【[活动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_ton.md#活动)】`huh8 ton` ① 松动。<sup>\[如皋\]</sup>\[泰兴：（又uh8 ton）\] ② 运动。<sup>\[如东\]</sup>：站起来～下子。<sup>\[如东\]</sup> ③ 物体摇动。<sup>\[如东\]</sup>：这根桩～起来啊。<sup>\[如东\]</sup>  
+1. 【[活动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_ton.md#活动)】`huh8 ton` ① 松动。<sup>\[如皋\]</sup>\[泰兴xʊʔ8 tʰɔ̃：（又uh8 ton）\] ② 运动。<sup>\[如东\]</sup>：站起来～下子。<sup>\[如东\]</sup> ③ 物体摇动。<sup>\[如东\]</sup>：这根桩～起来啊。<sup>\[如东\]</sup>  
 1. 【[活动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_ton.md#活动)】`huh8 ton6` 手有余资，转得动<sup>\[兴化\]</sup>：这几年勤苦营运，手中颇颇～，比前不同。（《古今小说》二八）<sup>\[兴化\]</sup>  
 1. 【[活舞鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_v_guei.md#活舞鬼)】`huh8 v3 guei3` <sup>[泰县]</sup> 很不像样：他俫几个整天不上班，～。  
 1. 【[活鲜活跳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_xin_huh_tio.md#活鲜活跳)】`huh8 xin1 huh8 tio5` 鱼、虾等动物新鲜活跃。<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup>：这些鱼～的。<sup>\[如东\]</sup>｜这个鱼～的。<sup>\[泰县\]</sup>  
@@ -2155,7 +2155,7 @@
 1. 【[寒瘆瘆的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_shen_shen_dii.md#寒瘆瘆的)】`hun2 shen5 shen5 dii` <sup>[东台]</sup> 身上发寒，嫌冷，不时打冷战：这天多冷！我身上～。  
 1. 【[寒酸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_sun.md#寒酸)】`hun2 sun1` <sup>[泰州]</sup> 形容贫苦读书人的穷困窘态：请客没得一个像样的菜，也太～吖唻。  
 1. 【[寒丝丝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_sz_sz.md#寒丝丝)】`hun2 sz1 sz1` ① 微冷。<sup>\[如皋\]</sup> ② 寒冷的感觉<sup>\[兴化\]</sup>：经风一吹身上～的。<sup>\[兴化\]</sup> ③ 害怕的心理<sup>\[兴化\]</sup>：我被他这一看，心里倒被他看得～的。（《火烧赤壁》六）<sup>\[兴化\]</sup>  
-1. 【[寒天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_tin.md#寒天)】`hun2 tin1` 冷天，冬天。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>  
+1. 【[寒天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_tin.md#寒天)】`hun2 tin1` 冷天，冬天。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[泰兴xʊ̃2 tʰɪ̃1\]</sup>  
 1. 【[寒天时候](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_tin_shr_heu.md#寒天时候)】`hun2 tin1 shr2 heu` <sup>[如皋]</sup> 冬天。  
 1. 【[寒心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_xien.md#寒心)】`hun2 xien1` <sup>[东台]</sup> 令人失望而痛心。  
 1. 【[涵筒桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_ton_qio.md#涵筒桥)】`hun2 ton3 qio2` <sup>[如皋]</sup> 桥式的高架涵筒。  
@@ -2295,7 +2295,7 @@
 1. 【[胡椒心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_jio_xien.md#胡椒心)】`hv2 jio1 xien1` <sup>[兴化]</sup> （喻）毒辣的心肠。俗称嘴甜心辣的人为“洋糖嘴，～”。  
 1. 【[胡来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_lae.md#胡来)】`hv2 lae2` <sup>[如东]</sup> 不按规矩，任意乱做：不可以～。  
 1. 【[胡里打滚的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_lii_da_guen_dii.md#胡里打滚的)】`hv2 lii da3 guen3 dii` <sup>[如皋]</sup> 见“胡头乱说”。  
-1. 【[胡萝卜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_lu_poh.md#胡萝卜)】`hv2 lu2 poh` 胡萝卜，伞形科植物<sup>\[如东\]</sup>\[泰兴fv2 lou2 poh：（uh7 lou1 poh）\]  
+1. 【[胡萝卜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_lu_poh.md#胡萝卜)】`hv2 lu2 poh` 胡萝卜，伞形科植物<sup>\[如东\]</sup>\[泰兴fʋ2 lɤɯ2 pʰɔʔ：（uh7 lou1 poh）\]  
 1. 【[胡萝卜干<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_lu_poh_gun_r.md#胡萝卜干<sub>儿</sub>)】`hv2 lu2 poh gun1 r` <sup>[如皋]</sup> 胡萝卜纵切四瓣晒成的干货或腌成的咸菜。  
 1. 【[胡闹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_no.md#胡闹)】`hv2 no6` <sup>[如东]</sup> 没有道理地打斗。  
 1. 【[胡𨑊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_non.md#胡𨑊)】`hv2 non2` <sup>[兴化]</sup> ① 勉强应付：这套衣裳款式老一点，先～穿吧！这件事不必认真，～过去算吖。 ② 欺骗、蒙混：～人。  
