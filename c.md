@@ -1952,14 +1952,13 @@
 1. 【[造罪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_qy.md#造罪)】`co6 qy6` <sup>[如东]</sup> 自己给自己制造麻烦、困难。  
 1. 【[促](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh.md#促)】`coh7` ① 诡诈、缺德<sup>\[兴化\]</sup>：这个人太～，怕没得老人家做。<sup>\[兴化\]</sup> ② （泰州词典作諔）<sup>\[泰州\]</sup> ③ 用诡诈的手段捉弄人或者恶作剧<sup>\[泰州\]</sup>：这个小伙～咖不得命，老孙经常捱他弄得哭笑不得。<sup>\[泰州\]</sup>｜老李多～咯，他大杯肚里全是矿泉水，同小赵杯里倒的是真酒，三杯一干，就把小赵弄吖醉啊。<sup>\[泰州\]</sup>  
 1. 【[促阳寿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_ian_sheu.md#促阳寿)】`coh7 ian2 sheu6` <sup>[如皋]</sup> 宿命论观，因为人过于促狭而缩短寿命。  
-1. 【[促掐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_kaeh.md#促掐)】`coh7 kaeh` <sup>[兴化]</sup> 刻薄刁钻，暗中使坏作弄人：他专做～事，捉弄老实人。｜“又做这等短命～的事！于你何干，何故定要害他……”（《水浒传》四一）书面语多作“促狭”。  
+1. 【[促掐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_kaeh.md#促掐)】`coh7 kaeh` <sup>[兴化]</sup> 刻薄刁钻，暗中使坏作弄人。书面语多作“促狭”：他专做～事，捉弄老实人。｜“又做这等短命～的事！于你何干，何故定要害他……”（《水浒传》四一）  
 1. 【[促掐痨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_kaeh_lo.md#促掐痨)】`coh7 kaeh7 lo2` <sup>[兴化]</sup> 专爱捉弄人的人：这个～坏点子多，一不留神就吃他的亏！  
-1. 【[促狭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_kuaeh.md#促狭)】`coh7 kuaeh` ① 采用狡猾的主意或手段使对方上当。<sup>\[如东\]</sup>：季长如用吖个～主意，让王长明上吖当。<sup>\[如东\]</sup> ② 刁钻刻薄，爱捉弄人。<sup>\[如皋\]</sup> ③ 刁滑。<sup>\[泰县\]</sup>  
+1. 【[促狭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_kuaeh.md#促狭)】`coh7 kuaeh` ① 采用狡猾的主意或手段使对方上当。<sup>\[如东\]</sup>：季长如用吖个～主意，让王长明上吖当。<sup>\[如东\]</sup> ② 刁钻刻薄，爱捉弄人。<sup>\[如皋\]</sup> ③ 刁滑。<sup>\[泰县\]</sup> ④ 搞恶作剧捉弄人的行为<sup>\[泰州\]</sup>：这个小伙多～咖，小王同他在做块儿，吃咖他不少苦头。<sup>\[泰州\]</sup>  
 1. 【[促狭鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_kuaeh_guei.md#促狭鬼)】`coh7 kuaeh guei3` ① 非常狡诈的人。<sup>\[如东\]</sup> ② 促狭的人。<sup>\[如皋\]</sup>  
 1. 【[促狭痨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_kuaeh_lo.md#促狭痨)】`coh7 kuaeh lo2` <sup>[如东]</sup> 非常狡猾的人。  
 1. 【[促狭痨<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_kuaeh_lo_r.md#促狭痨<sub>儿</sub>)】`coh7 kuaeh lo2 r` <sup>[如皋]</sup> 詈语，指促狭者。  
 1. 【[促狭佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_kuaeh_lo_r.md#促狭佬<sub>儿</sub>)】`coh7 kuaeh lo3 r` ① 非常狡猾的人。<sup>\[如东\]</sup> ② 刁滑的人。<sup>\[泰县\]</sup>  
-1. 【[促掐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_kuaeh.md#促掐)】`coh7 kuaeh7` <sup>[泰州]</sup> 搞恶作剧捉弄人的行为：这个小伙多～咖，小王同他在做块儿，吃咖他不少苦头。  
 1. 【[促狭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_kuaeh.md#促狭)】`coh7 kuaeh7` <sup>[东台]</sup> 北方官话区的“促狭”，刁钻鬼滑，好捉弄人的意思（促也作諔）：“又做这等短命～的事，与你无干，何故定要害他？！”（《水浒传》第四十一回）  
 1. 【[促狭佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_kuaeh_lo_r.md#促狭佬<sub>儿</sub>)】`coh7 kuaeh7 lo3 r` <sup>[东台]</sup> 普通话中的“促狭鬼”。  
 1. 【[促里促狭的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_lii_coh_kuaeh_dii.md#促里促狭的)】`coh7 lii coh7 kuaeh dii` <sup>[如皋]</sup> 见“促狭”。  

@@ -1749,7 +1749,7 @@
 1. 【[瞒骗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_pin.md#瞒骗)】`mun2 pin5` <sup>[东台]</sup> 对人说假话进行欺骗。  
 1. 【[絻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun.md#絻)】`mun2` <sup>[如皋]</sup> 相连无隙。～裆裤子：裆下不开放的裤子。与“开裆裤子”相对。  
 1. 【[絻裆裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_dan_kv.md#絻裆裤)】`mun2 dan1 kv5` <sup>[东台]</sup> 裤裆不开的裤子。  
-1. 【[鞔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun.md#鞔)】`mun2` ① 遮蔽覆着：～二胡、～鼓、～眼睛。<sup>\[如皋\]</sup> ② 蒙上：拿块皮把鞋头～起来。｜～档裤——跟“开档裤”相对。《广韵·桓韵》母官切：“～，～鞋履”。<sup>\[兴化\]</sup>  
+1. 【[鞔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun.md#鞔)】`mun2` ① 遮蔽覆着<sup>\[如皋\]</sup>：～二胡、～鼓、～眼睛。<sup>\[如皋\]</sup> ② 蒙上<sup>\[兴化\]</sup>：拿块皮把鞋头～起来。<sup>\[兴化\]</sup>｜～档裤——跟“开档裤”相对。<sup>\[兴化\]</sup>  
 1. 【[鞔鞔网<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_mun_van_r.md#鞔鞔网<sub>儿</sub>)】`mun2 mun2 van3 r` <sup>[如皋]</sup> 蛛网。见“罗罗网儿”。  
 1. 【[鞔眼睛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_ngaen_jien.md#鞔眼睛)】`mun2 ngaen3 jien` <sup>[如皋]</sup> ① 蒙住眼睛。 ② 见“揞眼睛”。与“遮眼睛”有所不同，是贴近眼睛遮。  
 1. 【[鞔头网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_teu_van.md#鞔头网)】`mun2 teu2 van3` <sup>[东台]</sup> 蜘蛛网：老房子结咖许多～。又名“罗罗网”。  
@@ -1795,7 +1795,7 @@
 1. 【[满傤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_zae.md#满傤)】`mun3 zae1` ① 车船满载。<sup>\[如皋\]</sup> ② 吃饭。渔民避讳语。避讳吃的谐音七。<sup>\[东台\]</sup> ③ 船上装满货物。<sup>\[如东\]</sup>：～而归。<sup>\[如东\]</sup>  
 1. 【[幔子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_zz.md#幔子)】`mun6 zz` <sup>[兴化]</sup> 为遮挡视线而悬挂起来的纺织品：布～｜丝绒～。  
 1. 【[槾概](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_gae.md#槾概)】`mun6 gae1` <sup>[泰州]</sup> 泰州城北部下河一带农村常见的一种专门用于平整农田的农具，为一下部安有齿形木刀（用于水田）或铁刀（用于旱田）的长方形木框，槾田时人站在木框上部，用牛牵引槾概平田。（清）储瓘《七言杂字·农器》：槾概石斫铁钉钯，劚土平田用牠。  
-1. 【[漫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun.md#漫)】`mun6` ① 将蔬菜烫熟：～青菜、～韭菜。<sup>\[如皋\]</sup> ② 布满：～英菜儿（散播的小青菜）。<sup>\[如皋\]</sup> ③ 溢<sup>\[东台\]</sup>：水～掉啊。<sup>\[东台\]</sup> ④ 一种烹饪方法，切碎的蔬菜不经烹炒，直接倒入滚汤中：～非菜｜～茼蒿。<sup>\[兴化\]</sup> ⑤ 淹没<sup>\[泰州\]</sup>：水～金山<sup>\[泰州\]</sup>｜水龙头不曾关，家里～吖一地的水。<sup>\[泰州\]</sup> ⑥ 烹饪方法，将切好的蔬菜不经煸炒，直接淹入烧滚油汤之中<sup>\[泰州\]</sup>：你在锅里～点ㄦ青菜，弄个汤上来。<sup>\[泰州\]</sup> ⑦ 从容器中溢出<sup>\[泰州\]</sup>：好啊唻，好啊唻，再倒瓶里就～掉唻。<sup>\[泰州\]</sup>｜这个笆斗装不下，黄豆～吖一地。<sup>\[泰州\]</sup>  
+1. 【[漫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun.md#漫)】`mun6` ① 烹饪方法\[兴化：切碎的蔬菜不经烹炒，直接倒入滚汤中\]\[泰州：将切好的蔬菜不经煸炒，直接淹入烧滚油汤之中\]\[如皋：将蔬菜烫熟\]：～青菜、～韭菜。<sup>\[如皋\]</sup>｜～韭菜、～茼蒿。<sup>\[兴化\]</sup>｜你在锅里～点ㄦ青菜，弄个汤上来。<sup>\[泰州\]</sup> ② 布满<sup>\[如皋\]</sup>：～英菜儿（散播的小青菜）。<sup>\[如皋\]</sup> ③ 溢<sup>\[东台\]</sup><sup>\[泰州\]</sup>：水～掉啊。<sup>\[东台\]</sup>｜好啊唻，好啊唻，再倒瓶里就～掉唻。<sup>\[泰州\]</sup>｜这个笆斗装不下，黄豆～吖一地。<sup>\[泰州\]</sup> ④ 淹没<sup>\[泰州\]</sup>：水～金山<sup>\[泰州\]</sup>｜水龙头不曾关，家里～吖一地的水。<sup>\[泰州\]</sup>  
 1. 【[漫帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_ban.md#漫帮)】`mun6 ban1` ① 地上的积水溢过鞋帮：以往门前的路上坑坑洼洼，落雨天走不几步鞋子就漫吖帮。<sup>\[兴化\]</sup> ② 雨天地上积水深过鞋帮<sup>\[泰州\]</sup>：路上的水将近有一尺深，两个人穿的事高跟套鞋，都弄吖～。<sup>\[泰州\]</sup>  
 1. 【[漫潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_cho.md#漫潮)】`mun6 cho2` <sup>[如皋]</sup> 潮水超过最高潮位。  
 1. 【[漫裆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_dan.md#漫裆)】`mun6 dan1` <sup>[东台]</sup> 形容肥胖，腹部多余的脂肪已经溢到裤档了。  

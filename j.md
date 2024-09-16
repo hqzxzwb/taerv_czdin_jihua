@@ -710,10 +710,10 @@
 1. 【[□头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_teu.md#□头)】`jien1 teu2` <sup>[如皋]</sup> 奶水突然喷涌。如皋词典写“痉头”。  
 1. 【[京江䭣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gan_qi.md#京江䭣)】`jien1 gan1 qi2` ① 一种用面制成的熟食品，有甜、咸两种口味。因原产地在镇江，故名～。<sup>\[东台\]</sup> ② 一种面粉制的六角形茶食。<sup>\[泰县\]</sup>  
 1. 【[京缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gan.md#京缸)】`jien1 gan1` <sup>[兴化]</sup> 一种表、里涂釉的大缸。  
-1. 【[京果](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gu.md#京果)】`jien1 gu3` <sup>[兴化]</sup> 一种茶食，用糯米粉制成花生果状，油炸后拌糖。  
 1. 【[京果粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gu_fen.md#京果粉)】`jien1 gu3 fen3` <sup>[兴化]</sup> 一种传统方便食品。由京果碾成粉末状，用开水冲泡后食用。也称“果屑子”。  
 1. 【[京果<sub>儿</sub>粉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gu_r_fen_zz.md#京果<sub>儿</sub>粉子)】`jien1 gu3 r fen3 zz` <sup>[如皋]</sup> 一种粉状茶食，供泡食。  
 1. 【[京果糏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gu_xiuh_zz.md#京果糏子)】`jien1 gu3 xiuh7 zz` <sup>[泰县]</sup> 京果粉。  
+1. 【[京馃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gu.md#京馃)】`jien1 gu3` <sup>[兴化]</sup> 一种茶食，用糯米粉制成花生果状，油炸后拌糖。  
 1. 【[京馃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gu.md#京馃)】`jien1 gu3` <sup>[泰州]</sup> 著名茶食之一，以糯米粉做成花生果形，油炸以后滚上白糖或者红糖，滚白糖者为“白京馃”，滚红糖者为“红京馃”，香甜酥脆，以其出于京城，故名。  
 1. 【[京货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_hu.md#京货)】`jien1 hu5` <sup>[如东]</sup> 北京的货物，泛指北方货物。  
 1. 【[京货店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_hu_din.md#京货店)】`jien1 hu5 din5` ① 销售北方货物的商店。<sup>\[如东\]</sup> ② 卖北方土、特品的商店。<sup>\[如皋\]</sup>  

@@ -1944,9 +1944,7 @@
 1. 【[鹳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun.md#鹳)】`gun5` <sup>[东台]</sup> 外形像鹤，也像鹭，嘴长而直，翼大尾短，善飞翔，常在水边捕食鱼、虾、蛙、贝等。  
 1. 【[咕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv.md#咕)】`gv1` ① 一饮而尽<sup>\[如皋\]</sup>：一口～。<sup>\[如皋\]</sup> ② 不断地轻轻地说，嘀咕<sup>\[如皋\]</sup>：他～啊不歇，就是要买电脑。<sup>\[如皋\]</sup> ③ 鸽子“谈遇”之声。<sup>\[如皋\]</sup> ④ 食物或水蓄在嘴里。<sup>\[东台\]</sup> ⑤ 啰唆<sup>\[泰县\]</sup>：你～得我头疼。<sup>\[泰县\]</sup>  
 1. 【[咕咕叫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_gv_jio.md#咕咕叫)】`gv1 gv1 jio5` <sup>[东台]</sup> 发出咕咕的响声：（童谣）肚子～，吃饭时未到。  
-1. 【[姑𬥐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_bae.md#姑𬥐)】`gv1 bae1` <sup>[兴化]</sup> 姑父。  
-1. 【[姑𬥐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_bae.md#姑𬥐)】`gv1 bae1-3` <sup>[泰县]</sup> 姨父。  
-1. 【[姑𬥐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_bae.md#姑𬥐)】`gv1 bae3` <sup>[泰州]</sup> 姑父。  
+1. 【[姑𬥐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_bae.md#姑𬥐)】`gv1 bae1(tz,tx:3)` ① 姑父。<sup>\[兴化\]</sup><sup>\[泰州\]</sup> ② 姨父（存疑）。<sup>\[泰县\]</sup>  
 1. 【[姑表](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_bio.md#姑表)】`gv1 bio3` <sup>[泰州]</sup> 姑母的子女与本人的亲戚关系：他俫两个人是～。  
 1. 【[姑丈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_chan.md#姑丈)】`gv1 chan6` 姑父，姑姑的丈夫  
 1. 【[姑爹爹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_dia_dia.md#姑爹爹)】`gv1 dia1 dia` ① 姑父，姑妈的丈夫 ② 父亲或母亲的姑父。<sup>\[兴化\]</sup> ③ 丈夫的姑父。<sup>\[兴化\]</sup>  

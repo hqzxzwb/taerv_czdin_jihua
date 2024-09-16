@@ -1092,8 +1092,7 @@
 1. 【[单独](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_toh.md#单独)】`daen1 toh8` <sup>[如东]</sup> 一个人。  
 1. 【[单独单](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_toh_daen.md#单独单)】`daen1 toh8 daen1` <sup>[东台]</sup> 单独一人。  
 1. 【[单星<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_xien_r.md#单星<sub>儿</sub>)】`daen1 xien1 r` <sup>[如皋]</sup> 杆秤上表示称量最小的秤星。随秤型而实际计星不同。  
-1. 【[单浇/单𣻏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_xio.md#单浇/单𣻏)】`daen1 xio1` <sup>[泰州]</sup> ① 衣服单薄的样子：你穿得太～唻，这吖冷的天，人怎吖吃得消啊。 ② 身体瘦弱的样子：你家老二长得多～啊。  
-1. 【[单𣻏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_xio.md#单𣻏)】`daen1 xio1` ① 身体瘦弱纤长。<sup>\[如东\]</sup> ② 身体单薄。<sup>\[如皋\]</sup>  
+1. 【[单𣻏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_xio.md#单𣻏)】`daen1 xio1` ① （身体）瘦弱单薄。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[泰州\]</sup>：你家老二长得多～啊。<sup>\[泰州\]</sup> ② （衣物）单薄<sup>\[泰州\]</sup>：你穿得太～唻，这吖冷的天，人怎吖吃得消啊。<sup>\[泰州\]</sup>  
 1. 【[单小褂裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_xio_gua_kv.md#单小褂裤)】`daen1 xio3 gua5 kv5` <sup>[兴化]</sup> 单层的上衣和裤子：他这次出门，除啊身上穿的，只带一身～。  
 1. 【[单桩桌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_zhuan_zhuah.md#单桩桌)】`daen1 zhuan1 zhuah7` <sup>[如东]</sup> 桌的一种。桌脚为一根柱子。  
 1. 【[单灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_zo.md#单灶)】`daen1 zo5` <sup>[如皋]</sup> 一口锅的灶，也叫“单间灶”。  
@@ -1353,8 +1352,8 @@
 1. 【[灯笼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_lon.md#灯笼)】`den1 lon2` <sup>[如东]</sup> 以竹丝做底架，外面糊上透明纸，里面点蜡烛，叫灯笼。  
 1. 【[灯笼点蜡烛——肚里明](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_lon_din_laeh_zhoh_tv_lii_mien.md#灯笼点蜡烛——肚里明)】`den1 lon2 din3 laeh8 zhoh7 tv6 lii mien2` <sup>[东台]</sup>   
 1. 【[灯蛾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_ngu_zz.md#灯蛾子)】`den1 ngu2 zz` <sup>[兴化]</sup> 一种昆虫，腹部粗短，有四个带鳞片的翅膀，夜晚趋光：～扑火。  
+1. 【[灯拍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_poh.md#灯拍)】`den1 poh7` <sup>[泰州]</sup> 安在煤油灯的玻璃灯罩上的用来聚光的圆锥形的物品。  
 1. 【[灯拍子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_poh_zz.md#灯拍子)】`den1 poh7 zz` <sup>[兴化]</sup> 罩在灯上用来聚光的东西，形似倒扣的镲钹或盘子：电灯～。  
-1. 【[灯覆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_poh.md#灯覆)】`den1 poh7` <sup>[泰州]</sup> 安在煤油灯的玻璃灯罩上的用来聚光的圆锥形的物品。  
 1. 【[灯台<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_tae_r.md#灯台<sub>儿</sub>)】`den1 tae2 r` <sup>[如皋]</sup> 油盘，放在灯台的上盘上，𣥼油点灯用：一个晚上点吖四～的油。  
 1. 【[灯掭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_tin_zz.md#灯掭子)】`den1 tin5 zz` ① 拨动灯草的小棍子。<sup>\[如东\]</sup> ② 储油点灯或掭灯芯的器具。<sup>\[如皋\]</sup>  
 1. 【[灯下黑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_xia_heh.md#灯下黑)】`den1 xia6 heh7` <sup>[东台]</sup> ［喻］身边的人和事反而看不清、管不好。  
