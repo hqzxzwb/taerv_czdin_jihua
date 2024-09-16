@@ -80,7 +80,7 @@ def tae_xien_pien_ien(cz, ien, for_qio_shih = False):
     yen = 'ou'
   elif yen == 'eu': # 未转ei的eu，也书写为ou。韵母格局与普通泰如不同，区别书写。
     yen = 'ou'
-  elif shen == 'n' and yen == 'v': # 怒懦不分
+  elif shen == 'n' and yen == 'v': # nv -> nu
     yen = 'ou'
   elif shen == 'l' and yen == 'i' and for_qio_shih: # 翘舌话 li -> i
     shen = ''
@@ -89,9 +89,11 @@ def tae_xien_pien_ien(cz, ien, for_qio_shih = False):
     yen = 'ih'
   elif shen == '' and yen == 'ieh': # 零声母 ieh 混入 ih
     yen = 'ih'
-  elif shen in ['z', 'c', 's', 'zh', 'ch', 'sh'] and yen in ['in', 'ih', 'ae', 'aen', 'aeh']: # 山摄腭化
+  elif shen in ['z', 'c', 's', 'zh', 'ch', 'sh'] and yen in ['in', 'ih', 'ae', 'aen', 'aeh']: # 咸山摄腭化
     shen = ngah_hua[shen]
-    if yen[0] != 'i':
+    if gae == 'u':
+      gae = 'y'
+    elif yen[0] == 'i':
       gae = 'i'
   elif shen == 'v' and yen in ['a', 'an', 'ah']: # v、u之别
     shen = ''
@@ -108,9 +110,55 @@ def tae_xien_pien_ien(cz, ien, for_qio_shih = False):
     shen = ngah_hua[shen]
   elif shen in ['d', 't', 'n', 'l'] and gae == 'u' and yen == 'ei': # 合口脱落
     gae = ''
-  shen = pien_shih[shen]
+  elif shen == 'l' and yen == 'y': # ly -> lei
+    yen = 'ei'
+
+  shen = pien_shih[shen] # 平翘舌不分
   if shen == '' and yen == 'r':
     yen = 'er'
   if yen == 'r':
     yen = 'z'
   return (shen, gae, yen, tio)
+
+def 如皋(cz, pien_ien):
+  if re.match(r'm\d', pien_ien):
+    return pien_ien
+
+  shen, gae, yen, tio = parse_pien_ien(pien_ien)
+  if tio == '6': # 阳去并入阴平
+    tio = '1'
+  if cz == '儿' and shen + gae + yen + tio == 'r':
+    return '˞'
+
+  shen = pien_shih[shen] # 平翘舌不分
+  if shen == '' and yen == 'r':
+    yen = 'er'
+  if yen == 'r':
+    yen = 'z'
+
+  if shen == 'h' and yen == 'v': # 呼夫不分
+    shen = 'f'
+  elif shen == 'n' and yen == 'v': # nv -> nu
+    yen = 'u'
+  elif gae == '' and yen == 'eu': # eu -> ei
+    yen = 'ei'
+  elif gae == 'i' and yen == 'eu': # ieu -> iu
+    gae = 'y'
+    yen = 'u'
+  elif gae == 'i' and yen in ['un', 'uh']: # 撮口介音
+    gae = 'y'
+
+  if shen == '' and yen == 'v':
+    result = 'ʋu'
+  else:
+    ipa_yen = tae_rv_ipa.tae_rv_ipa_yen.copy()
+    ipa_yen['v'] = 'u'
+    ipa_yen['ei'] = 'ei'
+    ipa_yen['aen'] = 'e\u0303'
+    ipa_yen['aeh'] = 'eʔ'
+    ipa_yen['on'] = 'ɔŋ'
+    ipa_yen['en'] = 'əŋ'
+    result = tae_rv_ipa.tae_rv_ipa_shen[shen] + tae_rv_ipa.tae_rv_ipa_gae[gae] + ipa_yen[yen]
+
+  result = result + tio
+  return result
