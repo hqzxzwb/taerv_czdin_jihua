@@ -10,7 +10,7 @@
 1. 【[妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma.md#妈)】`ma1` <sup>[东台]</sup> ① 母来。 ② 年长的已婚妇女。  
 1. 【[妈妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma.md#妈妈)】`ma1 ma1` <sup>[如东]</sup> 母亲。  
 1. 【[马胞衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_bo_i.md#马胞衣)】`ma1 bo1 i1` <sup>[如东]</sup> 马科动物马的胎盘。  
-1. 【[马而虎之](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_er_hv_zhr.md#马而虎之)】`ma1 er hv3 zhr1` 马虎。<sup>\[泰兴ma1 er hv3 zz1\]</sup>  
+1. 【[马而虎之](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_er_hv_zhr.md#马而虎之)】`ma1 er hv3 zhr1` 马虎。<sup>\[泰兴ma1 er fv3 zz1\]</sup>  
 1. 【[马马虎虎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma_hv_hv.md#马马虎虎)】`ma1 ma1 hv1 hv1` <sup>[东台]</sup> ① 马虎：随便｜不认真。 ② 勉强：凑合。也说“马马虎”。  
 1. 【[□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma.md#□□)】`ma2 ma3` <sup>[东台]</sup> 在东台话中指婶婶，也叫“嫲儿”。  
 1. 【[麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma.md#麻)】`ma2` ① 桑科植物黄麻，一年生草本。<sup>\[如东\]</sup> ② 鱼、蟹、虾等海鲜食物用盐渍一下，保鲜防腐，叫做麻。<sup>\[如东\]</sup> ③ 辣<sup>\[如皋\]</sup>：大椒～人。<sup>\[如皋\]</sup> ④ 触电的感觉。<sup>\[如皋\]</sup> ⑤ 像芝麻多而小<sup>\[如皋\]</sup>：～虾儿。<sup>\[如皋\]</sup> ⑥ 曚昽<sup>\[如皋\]</sup>：天～～儿亮。<sup>\[如皋\]</sup> ⑦ 芝麻点状的<sup>\[如皋\]</sup>：～子、～石、～鸭儿、～苍蝇。<sup>\[如皋\]</sup> ⑧ 出风头、摆威风、高傲的样子<sup>\[如皋\]</sup>：这家伙，有两个钱，～唻！<sup>\[如皋\]</sup> ⑨ 辣味刺激<sup>\[兴化\]</sup>：～人。<sup>\[兴化\]</sup> ⑩ （贬）极<sup>\[兴化\]</sup>：坏啊～啊。<sup>\[兴化\]</sup> ⑪ （借）形容价格昂贵<sup>\[兴化\]</sup>：东西倒不丑，就是价钱～人。<sup>\[兴化\]</sup> ⑫ 作动词，喝酒的隐语<sup>\[兴化\]</sup>：“……弄点酒来～下子，暖暖身子睡觉吧！”（兴文《得胜湖的定名及传说》）<sup>\[兴化\]</sup> ⑬ 谓人狂妄<sup>\[兴化\]</sup>：你少要～！<sup>\[兴化\]</sup> ⑭ 辣。<sup>\[泰县\]</sup> ⑮ 辛辣刺激口腔舌头所产生的味觉<sup>\[泰州\]</sup>：这个大椒太～。<sup>\[泰州\]</sup>  
@@ -1292,8 +1292,7 @@
 1. 【[毛重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_chon.md#毛重)】`mo2 chon6` ① 包括物品容器在内的重量。<sup>\[如东\]</sup> ② 包括容器或者包装在内的货物总重量<sup>\[泰州\]</sup>：这担菜～八十五斤，去掉家伙净重八十斤。<sup>\[泰州\]</sup>  
 1. 【[毛戳毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_chuah_mo.md#毛戳毛)】`mo2 chuah7 mo2` <sup>[兴化]</sup> （喻）相互之间都不顶真：谚曰：大麦换蟹砟（蟛蜞）——～。  
 1. 【[毛糙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_co.md#毛糙)】`mo2 co` <sup>[兴化]</sup> ① 环境不安静：这几天庄上老好的～哩！ ② 工作马虎，不细心：你这吖～怎吖能做好工作？  
-1. 【[毛糙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_co.md#毛糙)】`mo2 co5` <sup>[泰州]</sup> 做事不认真，不仔细：这小伙做事太～。  
-1. 【[毛躁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_co.md#毛躁)】`mo2 co5` <sup>[泰州]</sup> 脾气急躁：他这个人太～，三句话不对头就召起来啊。  
+1. 【[毛糙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_co.md#毛糙)】`mo2 co5` <sup>[泰州]</sup> ① 做事不认真，不仔细：这小伙做事太～。 ② 脾气急躁：他这个人太～，三句话不对头就召起来啊。  
 1. 【[毛搭车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_daeh_cha.md#毛搭车)】`mo2 daeh7 cha1` <sup>[如东]</sup> 交通工具，摩托车。金属制，两只轮子或三只轮子。以内燃机为动力。行动灵便快速。可以载人或物。  
 1. 【[毛赌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_dv.md#毛赌)】`mo2 dv3` <sup>[东台]</sup> 指打牌、下棋、玩麻将等不按游戏规则办事，作弊的行为。也称“毛机”。  
 1. 【[毛茛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_gen.md#毛茛)】`mo2 gen3` <sup>[如东]</sup> 毛莨科植物毛茛。  
@@ -1412,9 +1411,8 @@
 1. 【[卯眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_ngaen.md#卯眼)】`mo3 ngaen3` <sup>[如东]</sup> 某些工件利用凹凸方式相连接的地方的凹进部分，称卯眼：正梁的的～打啊在两头。  
 1. 【[卯头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_teu.md#卯头)】`mo3 teu` ① 两根木头交叉扎成支架，能够夹住另一根木头，便于加工。这种装置叫做卯头。<sup>\[如东\]</sup> ② 买肉时，商家另加的一块碎肉，叫卯头。<sup>\[如东\]</sup> ③ 民俗<sup>\[兴化\]</sup>：购买猪肉时，在整块之外必须加一小块，谓“搭卯”，所加的小块肉即谓～。<sup>\[兴化\]</sup>  
 1. 【[卯掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_tio.md#卯掉)】`mo3 tio` ① 过头：话说咖～啊。<sup>\[泰县\]</sup> ② 点卯之时某人未来而导致遗漏未点。泛指举行活动时漏掉应该参加的人，多指忘记或者没有通知应该来参加的人<sup>\[泰州\]</sup>：今朝下午开动员大会，连退休的党员都来唻，不曾～一个人。<sup>\[泰州\]</sup> ③ 指侥幸逃脱惩罚<sup>\[泰州\]</sup>：八个人全部捱公安局捉住啊，一个都不曾～。<sup>\[泰州\]</sup>  
-1. 【[卯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_zz.md#卯子)】`mo3 zz` <sup>[东台]</sup> ［同音］指卖肉时迎合顾客心理需求，在称好肉后外加一小块肉，称之为～：大哥，又给你添～，满意啊吧？！  
+1. 【[卯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_zz.md#卯子)】`mo3 zz` 卖肉者在称好肉之后，再割一小块作为饶头的肉<sup>\[东台\]</sup>\[泰州：泰州词典作“昴子”，取其“一星的肉”之义。\]：大哥，又给你添～，满意啊吧？！<sup>\[东台\]</sup>  
 1. 【[懵一冲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_ieh_chon.md#懵一冲)】`mo3 ieh7 chon1` <sup>[如皋]</sup> 暂时性的，一时。  
-1. 【[昴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_zz.md#昴子)】`mo3 zz` <sup>[泰州]</sup> 卖肉者在称好肉之后，再割一小块作为饶头的肉，取其“一星的肉”之义。  
 1. 【[瞀亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_lian.md#瞀亮)】`mo3 lian6` <sup>[泰州]</sup> 人刚脱离黑暗环境之时，眼睛突然受到阳光刺激而睁不开，或者不能适应特别强烈光的照射而使眼睛昏花：你才走黑处跑出来，这一刻儿突然望到太阳，怎吖得不～㖸。  
 1. 【[覒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo.md#覒)】`mo3` <sup>[东台]</sup> 窥视。（《广韵》莫报切，邪视也。）：小偷～好啊，她家里没得人，好下手。  
 1. 【[铆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo.md#铆)】`mo3` <sup>[如皋]</sup> 捆扎。  

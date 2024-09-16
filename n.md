@@ -456,8 +456,8 @@
 1. 【[獃派](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_pae.md#獃派)】`ngae2 pae5` ① 应该、必定<sup>\[兴化\]</sup>：苦事～我去，旁人去不得咖？<sup>\[兴化\]</sup> ② 应该：我哪许～同你去的？<sup>\[泰县\]</sup>  
 1. 【[獃派](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_pae.md#獃派)】`ngae2 pae5` <sup>[泰州]</sup> 非得某人去做某事：这件事不难，个个能做，哪块就～他去做？｜就～他当先进，旁的人不作兴当！  
 1. 【[獃起死来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_qi_sz_lae_a.md#獃起死来啊)】`ngae2 qi sz3 lae2 a` <sup>[如皋]</sup> 比“獃揣”程度强。  
-1. 【[獃钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_qian.md#獃钱)】`ngae2 qian2` <sup>[泰州]</sup> 固定不变而无法增加的收入：他是工薪阶层，每个月就拿这两个～。  
 1. 【[獃钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_qin.md#獃钱)】`ngae2 qin2` <sup>[兴化]</sup> 固定的钱数：靠在厂里拿几个～过不去，所以要在外头寻点外快。｜我出门买东西带的～，不能再做旁的事。  
+1. 【[獃钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_qin.md#獃钱)】`ngae2 qin2` <sup>[泰州]</sup> 固定不变而无法增加的收入：他是工薪阶层，每个月就拿这两个～。  
 1. 【[獃三顿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_saen_den.md#獃三顿)】`ngae2 saen1 den5` <sup>[如皋]</sup> 指固定的早、中晚三顿，没有接顿和零食。  
 1. 【[獃事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_shr.md#獃事)】`ngae2 shr6` ① 简单重复，无须多动脑筋的事<sup>\[兴化\]</sup>：老大文化低，只能做点～。<sup>\[兴化\]</sup>｜“……小人只是管粮官，上头来多少粮，小人具个领据……小人管的～。”（《火烧赤壁》六）<sup>\[兴化\]</sup> ② 无须劳心费神就能做好的事<sup>\[泰州\]</sup>：传达室的工作，无非来人登个记，送送报纸信件，你这点儿～都弄不好，你说你还能做甚的？<sup>\[泰州\]</sup>  
 1. 【[獃水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_shuei.md#獃水)】`ngae2 shuei3` <sup>[如皋]</sup> 即死水。  
@@ -835,8 +835,7 @@
 1. 【[硬逼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_bieh.md#硬逼)】`ngen6 bieh7` <sup>[如东]</sup> 强迫别人接受某种思想。  
 1. 【[硬绷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_bon.md#硬绷)】`ngen6 bon` <sup>[兴化]</sup> ① 坚挺：衣裳晒得蛮～的。｜山芋干～，老年人嚼不动。 ② 理直气壮的样子：“想不到这人倒如此～，说的话句句有理，不好怎么样他”。（《官场现形记》二十）  
 1. 【[硬掷三个六](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_cheh_saen_gu_loh.md#硬掷三个六)】`ngen6 cheh8 saen1 gu loh8` <sup>[兴化]</sup> 三个骰子全掷“六点”机率很少，比喻用强横手段行事：他～的要向兄弟借五万块钱！  
-1. 【[硬撑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_chen.md#硬撑)】`ngen6 chen1` ① 坚持、勉力支持住。<sup>\[如皋\]</sup> ② 虽然能力不够，但努力坚持着<sup>\[东台\]</sup>：乌龟垫床脚——～。（歇后语）<sup>\[东台\]</sup> ③ 勉力支撑<sup>\[兴化\]</sup>：他虽然有病，还～吖上班。<sup>\[兴化\]</sup> ④ 勉强维持<sup>\[兴化\]</sup>：这年头生意难做，小店目前只是～。<sup>\[兴化\]</sup>  
-1. 【[硬撑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_chen.md#硬撑)】`ngen6 chen1` <sup>[泰州]</sup> 在精力或者能力不济的情况下，勉强撑着做某事：他当这个主任确实吃力，推又推不掉，只好自己～。｜你挑不动就不要挑，不能～，弄吖伤吖不得了。  
+1. 【[硬撑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_chen.md#硬撑)】`ngen6 chen1` 坚持，勉力支撑、维持住。<sup>\[如皋\]</sup><sup>\[兴化\]</sup>\[泰州：在精力或者能力不济的情况下，勉强撑着做某事\]\[东台：虽然能力不够，但努力坚持着\]：乌龟垫床脚——～。（歇后语）<sup>\[东台\]</sup>｜他虽然有病，还～吖上班。<sup>\[兴化\]</sup>｜这年头生意难做，小店目前只是～。<sup>\[兴化\]</sup>｜他当这个主任确实吃力，推又推不掉，只好自己～。<sup>\[泰州\]</sup>｜你挑不动就不要挑，不能～，弄吖伤吖不得了。<sup>\[泰州\]</sup>  
 1. 【[硬耳搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_er_daeh.md#硬耳搭)】`ngen6 er3 daeh7` <sup>[兴化]</sup> 汉字偏旁，形状是“卩”。  
 1. 【[硬𠵹头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_gan_teu.md#硬𠵹头)】`ngen6 gan1 teu2` ① 强讨恶化的乞丐。<sup>\[兴化\]</sup> ② 搞讹诈的人。<sup>\[泰县\]</sup>  
 1. 【[硬功](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_gon.md#硬功)】`ngen6 gon1` ① 在武术或杂技中，力度及动作幅度大的套路<sup>\[兴化\]</sup>：他玩的～，不是软功。<sup>\[兴化\]</sup> ② 无法投机取巧，必须经过长时间练习才能掌握的过硬技能<sup>\[泰州\]</sup>：他这个是～，一点儿都不搭浆。<sup>\[泰州\]</sup>  
@@ -1105,7 +1104,7 @@
 1. 【[扷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo.md#扷)】`ngo5` ① 量<sup>\[兴化\]</sup>：把这袋米～～看，到底多重。<sup>\[兴化\]</sup> ② 上、注<sup>\[兴化\]</sup>：把缸里水～满。<sup>\[兴化\]</sup> ③ 《集韵。号韵》於到切“～，量也。”也作“拗”，《西游记》第二十五回有“把油拗上一锅”句。<sup>\[兴化\]</sup> ④ 通过较量取胜<sup>\[泰州\]</sup>：你俫几个人～啊子，单看哪个喝得多。<sup>\[泰州\]</sup>｜你同领导～，哿～得过领导，他嘴大，你嘴小，你～不过他。<sup>\[泰州\]</sup>  
 1. 【[扷膀子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_ban_zz.md#扷膀子)】`ngo5 ban3 zz` <sup>[东台]</sup> 比试臂力的游戏。两人相对而坐，伸手相握上举，肘支桌面，扳倒对方为胜。  
 1. 【[扷磨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_mu.md#扷磨)】`ngo5 mu6` <sup>[兴化]</sup> 一手握磨拐的前端，牵动磨子旋转，一手将米、麦等投入磨眼研磨。  
-1. 【[拗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo.md#拗)】`ngo5` ① 头身抬起：他躺吖地下，一～就坐起来啊；他游闷闷儿水已经能把头～起来啊。<sup>\[如皋\]</sup> ② 挺身坐起<sup>\[兴化\]</sup>：黄盖说着，身子就往起～了。（《火烧赤壁》六）<sup>\[兴化\]</sup> ③ 以锅边或者缸口为支点，将桶架于其上，将桶中之物导入锅或缸中<sup>\[泰州\]</sup>：把清油～上一锅，烧得浓了，将孙行者下油锅扎他一扎，与我人参树报仇。（《西游记》）<sup>\[泰州\]</sup>｜你下午先把缸里的水～啊满吖再出去打牌。<sup>\[泰州\]</sup> ④ 使劲挺身坐起<sup>\[泰州\]</sup>：月香连忙在床上～起身来道……（《风月梦》）<sup>\[泰州\]</sup>｜你不把身子～起来，医生就没得办法同你换药。<sup>\[泰州\]</sup>  
+1. 【[拗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo.md#拗)】`ngo5` ① 头身抬起<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：他躺吖地下，一～就坐起来啊<sup>\[如皋\]</sup>｜他游闷闷儿水已经能把头～起来啊。<sup>\[如皋\]</sup>｜黄盖说着，身子就往起～了。（《火烧赤壁》六）<sup>\[兴化\]</sup>｜月香连忙在床上～起身来道……（《风月梦》）<sup>\[泰州\]</sup>｜你不把身子～起来，医生就没得办法同你换药。<sup>\[泰州\]</sup> ② 以锅边或者缸口为支点，将桶架于其上，将桶中之物导入锅或缸中<sup>\[泰州\]</sup>：把清油～上一锅，烧得浓了，将孙行者下油锅扎他一扎，与我人参树报仇。（《西游记》）<sup>\[泰州\]</sup>｜你下午先把缸里的水～啊满吖再出去打牌。<sup>\[泰州\]</sup>  
 1. 【[拗方](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_fan.md#拗方)】`ngo5 fan1` <sup>[如东]</sup> 使物体四角成方：这块田要～才好开蟹池。  
 1. 【[拗犟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_jian.md#拗犟)】`ngo5 jian5` <sup>[兴化]</sup> 固执、不听劝导：他不敢～，只好顺从的坐下来。‖也作“傲强”｜《梼杌闲评》第二十回有“你且不要傲强，且收监”句。  
 1. 【[拗犟别调](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_jian_bih_dio.md#拗犟别调)】`ngo5 jian5 bih7 dio5` <sup>[兴化]</sup> 因主观偏激而和众人唱反调：他这个人～的，和他没谈头。  

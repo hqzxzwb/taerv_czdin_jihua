@@ -16,9 +16,7 @@
 1. 【[巴巴锔锔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ba_jioh_jioh.md#巴巴锔锔)】`ba1 ba1 jioh7 jioh7` <sup>[东台]</sup> 原指瓷器锔了很多铜钉，形容器物陈旧，破损严重。  
 1. 【[巴巴<sub>儿</sub>菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ba_r_cae.md#巴巴<sub>儿</sub>菜)】`ba1 ba1 r cae5` <sup>[如皋]</sup> ① 冬天青菜的一种，长平不长高。 ② 见“塌棵子菜”。  
 1. 【[巴巴掌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ba_zhan.md#巴巴掌)】`ba1 ba1 zhan` <sup>[如皋]</sup> 儿歌名。见“打～”。  
-1. 【[巴不到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_beh_do.md#巴不到)】`ba1 beh7 do5, ba1 beh7 do3` <sup>[东台]</sup> 求之不得。（“到”也读上声）  
-1. 【[巴不到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_beh_do.md#巴不到)】`ba1 beh7 do5-3` <sup>[泰兴]</sup> 巴不得；非常希望得到。  
-1. 【[巴不到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_beh_do.md#巴不到)】`ba1 beh7 do5` ① 迫切盼望。<sup>\[如东\]</sup> ② 迫切希望得到<sup>\[兴化\]</sup>：傅景在马上四面偷瞧，～有个美色女子好奉承。（《八窍珠》一）<sup>\[兴化\]</sup> ③ 巴不得。<sup>\[泰县\]</sup>  
+1. 【[巴不到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_beh_do.md#巴不到)】`ba1 beh7 do5` 巴不得，求之不得，迫切、希望<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup>\[泰兴：（又ba1 beh7 do3）\]\[东台：（又ba1 beh7 do3）\]：傅景在马上四面偷瞧，～有个美色女子好奉承。（《八窍珠》一）<sup>\[兴化\]</sup>  
 1. 【[巴成](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_chen.md#巴成)】`ba1 chen` <sup>[如皋]</sup> 期望有成：有～、没～。  
 1. 【[巴家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ga.md#巴家)】`ba1 ga1` ① 一心为自己家庭着想。<sup>\[如东\]</sup> ② 顾家。<sup>\[兴化\]</sup> ③ 善于管家、理财<sup>\[兴化\]</sup>：店虽小，但王小三老实～……（扬说《崇月娥杭州当珠》）<sup>\[兴化\]</sup>  
 1. 【[巴根草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_gen_co.md#巴根草)】`ba1 gen1 co3` <sup>[兴化]</sup> 一种贴着地皮生长，根根相连的草，可用来培育草坪。  
@@ -498,7 +496,7 @@
 1. 【[不在](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_cae.md#不在)】`beh7 cae6` ① 已经死亡。<sup>\[如东\]</sup> ② 不在现场。<sup>\[如东\]</sup> ③ 指人不在某处<sup>\[东台\]</sup>：他～家。<sup>\[东台\]</sup> ④ （婉辞）指死亡<sup>\[东台\]</sup>：他～啊。<sup>\[东台\]</sup>  
 1. 【[不在行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_cae_han.md#不在行)】`beh7 cae6 han2` ① 业务不精。<sup>\[如东\]</sup>：做这种事情他～。<sup>\[如东\]</sup> ② 指对某种事情或某种业务缺乏知识和经验。<sup>\[泰兴beh7 qiae1 han2\]</sup>：搞电子我确实～。<sup>\[泰兴\]</sup>  
 1. 【[不在话下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_cae_hua_xia.md#不在话下)】`beh7 cae6 hua6 xia6` <sup>[兴化]</sup> 理所当然，用不着说：他是有名的“酒海”，这瓶把酒当然～。  
-1. 【[不在乎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_cae_hv.md#不在乎)】`beh7 cae6 hv` 不看重、不放在心上。<sup>\[如东\]</sup><sup>\[泰兴beh7 qiae1 hv\]</sup>  
+1. 【[不在乎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_cae_hv.md#不在乎)】`beh7 cae6 hv` 不看重、不放在心上。<sup>\[如东\]</sup><sup>\[泰兴beh7 qiae1 fv\]</sup>  
 1. 【[不在意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_cae_i.md#不在意)】`beh7 cae6 i5` <sup>[东台]</sup> 不显眼；不放在心上。  
 1. 【[不在人肚里数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_cae_ren_tv_lii_shv.md#不在人肚里数)】`beh7 cae6 ren2 tv6 lii shv3` <sup>[如皋]</sup> 评语或置语，指品质恶劣到极点，不算人。  
 1. 【[不孱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_caen.md#不孱)】`beh7 caen5` <sup>[兴化]</sup> 不错、有办法：这个小伙真～，白手起家创起啊一个公司。  

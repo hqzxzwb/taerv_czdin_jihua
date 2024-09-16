@@ -134,7 +134,7 @@
 1. 【[二婚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_huen.md#二婚)】`er6 huen1` ① 已经结过婚的男人或女人再婚，称二婚。<sup>\[如东\]</sup> ② 改嫁或续弦者。<sup>\[兴化\]</sup> ③ 再婚，也称“二婚头”、“填房”。<sup>\[泰兴er1 huen1\]</sup>  
 1. 【[二混子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_huen_zz.md#二混子)】`er6 huen5 zz` <sup>[泰兴]</sup> 二流子，混日子不务正事的人。  
 1. 【[二乎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_hv.md#二乎)】`er6 hv1` <sup>[泰兴]</sup> 畏缩，犹豫：要跟我搝？哼，我才不～他唻！  
-1. 【[二胡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_hv.md#二胡)】`er6 hv2` 乐器，胡琴的一种\[如东：比京胡大，琴筒用木头做成，前端稍大，蒙蟒皮，有两根弦，声音低沉圆润。\]\[泰兴er1 hv2：长三尺四寸左右，琴筒用木制成，一端蒙蟒皮或蛇皮，有内外二弦，声音柔和悦耳。四弦者称“四胡”。民间老幼多有喜好胡琴者。\]  
+1. 【[二胡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_hv.md#二胡)】`er6 hv2` 乐器，胡琴的一种\[如东：比京胡大，琴筒用木头做成，前端稍大，蒙蟒皮，有两根弦，声音低沉圆润。\]\[泰兴er1 fv2：长三尺四寸左右，琴筒用木制成，一端蒙蟒皮或蛇皮，有内外二弦，声音柔和悦耳。四弦者称“四胡”。民间老幼多有喜好胡琴者。\]  
 1. 【[二姨妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_i_ma.md#二姨妈)】`er6 i2 ma1` ① （讽）言谈举止女性化或具有某些女性生理特征的男人。也称“二姨娘”。<sup>\[兴化\]</sup> ② 女性化的男人。<sup>\[泰县\]</sup>  
 1. 【[二姨娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_i_nian.md#二姨娘)】`er6 i2 nian` ① 见“二姨妈”。<sup>\[兴化\]</sup> ② 女性化的男人。<sup>\[泰县\]</sup>  
 1. 【[二样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_ian.md#二样)】`er6 ian6` ① 不同样，多用于否定<sup>\[兴化\]</sup>：他俫两个人的脾气没得～。<sup>\[兴化\]</sup> ② 两样，两个样子。<sup>\[泰兴er1 ian1\]</sup>：箇批货一式头，没得～<sup>\[泰兴\]</sup>  

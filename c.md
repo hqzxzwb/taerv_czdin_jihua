@@ -175,7 +175,7 @@
 1. 【[苍白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/can_poh.md#苍白)】`can1 poh8` <sup>[如东]</sup> ① 1种白色。 ② 脸上没有血色：他刚刚开刀，脸色～。  
 1. 【[苍身鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/can_shen_guei.md#苍身鬼)】`can1 shen1 guei3` <sup>[东台]</sup> 戏称个头特别高的人。  
 1. 【[藏钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/can_qin.md#藏钱)】`can2 qin2` 扣除本金后赚到钱；形容某生意能赚到钱。  
-1. 【[䢢/㼽/磢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/can.md#䢢/㼽/磢)】`can5` ① （㼽，【唐韻】初兩切【集韻】【韻會】【正韻】楚兩切，𠀤音摤。【說文】磋垢瓦石。磢，《广韵·养韵》初两切“～，瓦石洗物”） ② 擦、磨<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：把这个字用橡皮～掉。<sup>\[泰县\]</sup>｜膀子～掉一块皮。<sup>\[泰州\]</sup> ③ 擦洗<sup>\[兴化\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：～锅子<sup>\[兴化\]</sup>｜～锡香炉<sup>\[兴化\]</sup>｜～痒<sup>\[兴化\]</sup>｜～颈项/擦洗脖子<sup>\[兴化\]</sup>｜身上～吖多少硍吖。<sup>\[泰州\]</sup>  
+1. 【[䢢/㼽/磢/𰧕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/can.md#䢢/㼽/磢/𰧕)】`can5` ① （㼽，【唐韻】初兩切【集韻】【韻會】【正韻】楚兩切，𠀤音摤。【說文】磋垢瓦石。磢，《广韵·养韵》初两切“～，瓦石洗物”） ② 擦、磨<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：把这个字用橡皮～掉。<sup>\[泰县\]</sup>｜膀子～掉一块皮。<sup>\[泰州\]</sup> ③ 擦洗<sup>\[兴化\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：～锅子<sup>\[兴化\]</sup>｜～锡香炉<sup>\[兴化\]</sup>｜～痒<sup>\[兴化\]</sup>｜～颈项/擦洗脖子<sup>\[兴化\]</sup>｜身上～吖多少硍吖。<sup>\[泰州\]</sup>  
 1. 【[䢢痒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/can_ian.md#䢢痒)】`can5 ian3` <sup>[如东]</sup> 在物体上摩擦而使痒感缓解。  
 1. 【[䢢脚丫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/can_jiah_nga_r.md#䢢脚丫<sub>儿</sub>)】`can5 jiah7 nga1 r` <sup>[如东]</sup> ① 在脚丫儿里䢢痒。 ② 比喻做低贱的事：你只配代他～。  
 1. 【[䢢𪣩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/can_ken.md#䢢𪣩)】`can5 ken5` ① 依着物体把身体上的污垢擦掉。<sup>\[如东\]</sup> ② 擦去身上的污垢。<sup>\[东台\]</sup>  
@@ -660,7 +660,7 @@
 1. 【[唱独脚戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_toh_jiah_xi.md#唱独脚戏)】`chan5 toh8 jiah7 xi5` <sup>[东台]</sup> ［喻］一个人独自做某事。  
 1. 【[唱小戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_xio_xi.md#唱小戏)】`chan5 xio3 xi5` <sup>[泰县]</sup> 指除京剧外的其他地方剧种。  
 1. 【[唱主角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_zhv_gah.md#唱主角)】`chan5 zhv3 gah7` <sup>[东台]</sup> ［喻］担负主要任务或起主导作用：这个课题由你来～。  
-1. 【[丈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan.md#丈)】`chan6` ① 量词，相当于“泡”<sup>\[兴化\]</sup>：一～尿。<sup>\[兴化\]</sup> ② （量词）泡：上午他才屙啊一～尿。<sup>\[泰县\]</sup>  
+1. 【[丈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan.md#丈)】`chan6` 量词，计量尿次<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰兴can1\]</sup>：一～尿。<sup>\[兴化\]</sup>｜上午他才屙啊一～尿。<sup>\[泰县\]</sup>  
 1. 【[丈尺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_cheh.md#丈尺)】`chan6 cheh7` <sup>[如东]</sup> 测量土地的一种工具。有丈杆和弓尺两种。  
 1. 【[丈二的和尚——摸不着头脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_er_dii_hu_shan_mah_beh_chah_teu_no.md#丈二的和尚——摸不着头脑)】`chan6 er6 dii hu2 shan mah8 beh7 chah8 teu2 no3` <sup>[东台]</sup>   
 1. 【[丈杆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_gun.md#丈杆)】`chan6 gun` ① 一根木杆或竹竿，用来丈量土地。也叫丈尺。<sup>\[如东\]</sup> ② 很长的大木尺。<sup>\[泰兴can1 gun\]</sup>  
@@ -953,7 +953,7 @@
 1. 【[抽桩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_zhuan_r.md#抽桩<sub>儿</sub>)】`cheu1 zhuan1 r` <sup>[如皋]</sup> 打丝线的绕线工具，有二木柱的立架，其上安“抽头儿”。  
 1. 【[抽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_zz.md#抽子)】`cheu1 zz` <sup>[兴化]</sup> ① 抽屉。 ② 手动的唧筒：油～。  
 1. 【[㿒人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_ren_zz.md#㿒人子)】`cheu2 ren2 zz` <sup>[如皋]</sup> 心悸、心中抓紧样难受。  
-1. 【[䌷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu.md#䌷)】`cheu2` ① 用嘴唇吮吸。<sup>\[如东\]</sup> ② 抽，吸<sup>\[如东\]</sup>：～气/吸气<sup>\[如东\]</sup> ③ 吸。<sup>\[如皋\]</sup> ④ 筛选：把米拿筛子～下子。也说抽cheu1。<sup>\[如皋\]</sup> ⑤ 吮吸，又音sheu2<sup>\[东台\]</sup>：把吸管插咖进奶瓶用力～。<sup>\[东台\]</sup>  
+1. 【[䌷/抽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu.md#䌷/抽)】`cheu2` ① 用嘴唇吮吸。<sup>\[如东\]</sup> ② 抽，吸<sup>\[如东\]</sup>：～气/吸气<sup>\[如东\]</sup> ③ 吸。<sup>\[如皋\]</sup> ④ 筛选：把米拿筛子～下子。也说抽cheu1。<sup>\[如皋\]</sup> ⑤ 吮吸，又音sheu2<sup>\[东台\]</sup>：把吸管插咖进奶瓶用力～。<sup>\[东台\]</sup>  
 1. 【[䌷泥螺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_ni_lu.md#䌷泥螺)】`cheu2 ni2 lu1` <sup>[如皋]</sup> 用嘴吸出熟泥螺肉。  
 1. 【[䌷气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_qi.md#䌷气)】`cheu2 qi5` ① 口吸气<sup>\[如皋\]</sup> ② 吸气<sup>\[兴化\]</sup>：他惊得直～。<sup>\[兴化\]</sup>｜“冰冷的嘴亲在我的嘴上～”（《醒世姻缘传》第九十二回）。<sup>\[兴化\]</sup>  
 1. 【[䌷汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_tan.md#䌷汤)】`cheu2 tan1` <sup>[如皋]</sup> ① 口吸汤。 ② 粮食煮熟时吸汤汁的过程。  
@@ -1348,7 +1348,7 @@
 1. 【[齿陡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_deu.md#齿陡)】`chr3 deu3` <sup>[如皋]</sup> 石磨、钉钯、锯子等的齿的迎面与根部的夹角小于90°，工作时吃力而快。  
 1. 【[齿眠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_min.md#齿眠)】`chr3 min2` <sup>[如皋]</sup> 石磨、钉钯、锯子等的齿的迎面与根部的夹角大于90°，工作时省力而慢。  
 1. 【[厕所里安电扇——出臭风头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_su_lii_un.md#厕所里安电扇——出臭风头)】`chr5 su3 lii un1 din5 shin5 chueh7 cheu5 fon1 teu` <sup>[东台]</sup>   
-1. 【[滞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr.md#滞)】`chr5` ① 眼神呆～<sup>\[如皋\]</sup>：他的眼神是～的。<sup>\[如皋\]</sup> ② 脸色无光<sup>\[如皋\]</sup>：他一脸的～色。<sup>\[如皋\]</sup> ③ 剩<sup>\[如皋\]</sup>：吃咖～下来啊；～饭碗。<sup>\[如皋\]</sup> ④ 吃剩下的东西<sup>\[东台\]</sup>：他舍不得把～饭～粥倒掉。<sup>\[东台\]</sup> ⑤ 食积不化<sup>\[如皋\]</sup>：伢儿肚里有～，要吃保赤丸打～。<sup>\[如皋\]</sup> ⑥ 停～、不流动。<sup>\[兴化\]</sup> ⑦ 剩<sup>\[兴化\]</sup>：饭～下来。<sup>\[兴化\]</sup> ⑧ 剩下的<sup>\[兴化\]</sup>：～脚儿；～饭豌。<sup>\[兴化\]</sup> ⑨ 胃中积食<sup>\[兴化\]</sup>：停～；打～。<sup>\[兴化\]</sup> ⑩ 剩<sup>\[泰县\]</sup>：顿顿有～饭碗。<sup>\[泰县\]</sup> ⑪ 食物吃剩<sup>\[泰州\]</sup>：一碗饭～啊大半碗，你吃不下去就不能少盛点儿。<sup>\[泰州\]</sup> ⑫ 泛指货物经挑选而剩下<sup>\[泰州\]</sup>：一担菜卖到现在就～啊这点儿，便宜点儿卖把你。<sup>\[泰州\]</sup>｜灰颜色的袜子都捱人家挑啊走啊，就～啊这几双红的。<sup>\[泰州\]</sup>  
+1. 【[滞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr.md#滞)】`chr5` ① 眼神呆滞<sup>\[如皋\]</sup>：他的眼神是～的。<sup>\[如皋\]</sup> ② 脸色无光<sup>\[如皋\]</sup>：他一脸的～色。<sup>\[如皋\]</sup> ③ 剩；剩下的<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：吃咖～下来啊<sup>\[如皋\]</sup>｜～饭碗。<sup>\[如皋\]</sup>｜他舍不得把～饭～粥倒掉。<sup>\[东台\]</sup>｜饭～下来。<sup>\[兴化\]</sup>｜～脚儿；～饭豌。<sup>\[兴化\]</sup>｜顿顿有～饭碗。<sup>\[泰县\]</sup>｜一碗饭～啊大半碗，你吃不下去就不能少盛点儿。<sup>\[泰州\]</sup>｜一担菜卖到现在就～啊这点儿，便宜点儿卖把你。<sup>\[泰州\]</sup>｜灰颜色的袜子都捱人家挑啊走啊，就～啊这几双红的。<sup>\[泰州\]</sup> ④ 停滞、不流动。<sup>\[兴化\]</sup> ⑤ 胃中积食<sup>\[兴化\]</sup><sup>\[如皋\]</sup>：停～；打～。<sup>\[兴化\]</sup>｜伢儿肚里有～，要吃保赤丸打～。<sup>\[如皋\]</sup>  
 1. 【[滞菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_cae.md#滞菜)】`chr5 cae5` <sup>[泰州]</sup> 剩菜。  
 1. 【[滞饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_faen.md#滞饭)】`chr5 faen6` <sup>[泰州]</sup> 剩饭。  
 1. 【[滞货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_hu.md#滞货)】`chr5 hu5` <sup>[泰州]</sup> ① 顾客挑选之后积压下的货物：听吖说马上要涨价，一个个像疯吖，店里的～都卖啊光吖。 ② 错过婚龄还未成婚的人：你自己多大唻，还嫌人家是～。  

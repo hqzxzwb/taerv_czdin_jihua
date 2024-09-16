@@ -1806,8 +1806,8 @@
 1. 【[干煿煿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_bah_bah.md#干煿煿)】`gun1 bah7 bah7` 十分干燥<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup><sup>\[如皋\]</sup>：小麦晒得～的。<sup>\[兴化\]</sup>｜吃烧饼～，难咽得下去。<sup>\[泰县\]</sup>｜嘴里～的，要喝水。<sup>\[泰兴\]</sup>  
 1. 【[干暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_bo.md#干暴)】`gun1 bo5` <sup>[如皋]</sup> 寒潮侵袭而无雨雪。  
 1. 【[干䢢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_can.md#干䢢)】`gun1 can5` <sup>[兴化]</sup> ① 两物相摩擦时不加水冷却、润滑。 ② （借）用干毛巾擦拭身上汗垢。 ③ 同“干草皮”。  
+1. 【[干䢢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_can.md#干䢢)】`gun1 can5` <sup>[泰州]</sup> ① 用干毛巾或者挤过水的湿毛巾擦身体：你有好几天不洗澡唻，像这格局在家里～不行，还是到澡堂子里去泡啊子。 ② 请人帮忙做事，既不请人吃饭，又不给人报酬：人家为你的事吃咖不少苦，好好的请人家弄一顿，不作兴同人家玩～的。｜他请到人家办事都是～，弄一回还可以，第二回人家就不睬他唻。  
 1. 【[干䢢皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_can_pi.md#干䢢皮)】`gun1 can5 pi2` <sup>[东台]</sup> ［喻］指办事舍不得花一点代价，亦称“玩白大”：人家帮吖这吖大的忙，我总要意思下子表示感谢，不能～吧！  
-1. 【[干𰧕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_can.md#干𰧕)】`gun1 can5` <sup>[泰州]</sup> ① 用干毛巾或者挤过水的湿毛巾擦身体：你有好几天不洗澡唻，像这格局在家里～不行，还是到澡堂子里去泡啊子。 ② 请人帮忙做事，既不请人吃饭，又不给人报酬：人家为你的事吃咖不少苦，好好的请人家弄一顿，不作兴同人家玩～的。｜他请到人家办事都是～，弄一回还可以，第二回人家就不睬他唻。  
 1. 【[干糙皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_co_pi.md#干糙皮)】`gun1 co pi2` <sup>[兴化]</sup> （喻）请人帮忙不付报酬：替他忙吖几天，结果弄个～。  
 1. 【[干草皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_co_pi.md#干草皮)】`gun1 co3 pi2` <sup>[泰兴]</sup> 用以垫牛、羊、猪圈的干泥。  
 1. 【[干冬湿年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_don_sheh_nin.md#干冬湿年)】`gun1 don1 sheh7 nin2` <sup>[东台]</sup> （农谚）冬至这一天不下雨，过春节时往往要下雨。  

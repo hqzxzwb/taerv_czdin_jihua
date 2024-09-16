@@ -134,8 +134,7 @@
 1. 【[起起悄悄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_qi_qio_qio.md#起起悄悄)】`qi3 qi3 qio1 qio1` <sup>[泰县]</sup> 干脆利索：他做的事情～的。  
 1. 【[起皵疤<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_qiah_ba_r.md#起皵疤<sub>儿</sub>)】`qi3 qiah7 ba1 r` ① 找借口闹事<sup>\[如皋\]</sup>：他～上人家去闹丧。<sup>\[如皋\]</sup> ② 见“寻皵疤儿”。<sup>\[如皋\]</sup>  
 1. 【[起皵头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_qiah_teu.md#起皵头)】`qi3 qiah7 teu` <sup>[东台]</sup> 故意找岔子制造矛盾挑起纷争：这家伙是个惹是生非的大王，又窜到这块来～啊。  
-1. 【[起墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_qian.md#起墙)】`qi3 qian2` ① 本指用砖头垒墙，民间常作为打麻将的形象化说法<sup>\[东台\]</sup>：饭碗一丢，几个人就去～吖。<sup>\[东台\]</sup> ② （喻）打麻将<sup>\[兴化\]</sup>：今吖下午没事，～去。<sup>\[兴化\]</sup>  
-1. 【[起墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_qian.md#起墙)】`qi3 qian2` <sup>[泰州]</sup> ① 用砖头或石块用砂浆、烂泥之类材料逐层涂抹，垒起凿墙。 ② 比喻指麻将牌：他一吃过中饭就上老张家～去啊。  
+1. 【[起墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_qian.md#起墙)】`qi3 qian2` ① 砌墙，建墙<sup>\[东台\]</sup>\[泰州：用砖头或石块用砂浆、烂泥之类材料逐层涂抹，垒起凿墙。\] ② （喻）打麻将<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：饭碗一丢，几个人就去～吖。<sup>\[东台\]</sup>｜今吖下午没事，～去。<sup>\[兴化\]</sup>｜他一吃过中饭就上老张家～去啊。<sup>\[泰州\]</sup>  
 1. 【[起戗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_qian.md#起戗)】`qi3 qian5` <sup>[如皋]</sup> 柔软物变得挺刮：浆水一上，绸缎就～。  
 1. 【[起钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_qin.md#起钱)】`qi3 qin2` <sup>[兴化]</sup> 向大家敛钱：～修桥补路。  
 1. 【[起俏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_qio.md#起俏)】`qi3 qio5` ① 容易干燥<sup>\[兴化\]</sup>：天一好，晒的衣裳～。<sup>\[兴化\]</sup> ② 某种商品在定时间内畅销<sup>\[兴化\]</sup>：中秋节前，各式中档月饼～。<sup>\[兴化\]</sup> ③ 干脆利索：他做事蛮～的。<sup>\[泰县\]</sup>  
@@ -165,7 +164,7 @@
 1. 【[起早带晚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_zo_dae_vaen.md#起早带晚)】`qi3 zo3 dae5 vaen3` <sup>[兴化]</sup> 见“起早投晚”。  
 1. 【[起早投晚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_zo_teu_vaen.md#起早投晚)】`qi3 zo3 teu2 vaen3` <sup>[兴化]</sup> 利用早上和晚上的时间多做一点事：我～的养弄花草，也说“起早带晚”。  
 1. 【[起子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_zz.md#起子)】`qi3 zz` <sup>[兴化]</sup> 改锥。  
-1. 【[夡㷆（存疑）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_fv.md#夡㷆（存疑）)】`qi5 fv4` ① 长时间的大火蒸煮，将锅中食物煮透蒸透，食物全部熟透：这个冷馒头不曾吙得～，里头还不曾热。｜锅里的山芋要多少个盹儿，等它煮啊～啊再起锅。 ② 泛指达到充分程度：这块田里的菜还要得两担水浇啊子才得～。｜这种题目他老是出错，你要同他讲～啊。  
+1. 【[夡㷆（存疑）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_fv.md#夡㷆（存疑）)】`qi5 fv5` ① 长时间的大火蒸煮，将锅中食物煮透蒸透，食物全部熟透：这个冷馒头不曾吙得～，里头还不曾热。｜锅里的山芋要多少个盹儿，等它煮啊～啊再起锅。 ② 泛指达到充分程度：这块田里的菜还要得两担水浇啊子才得～。｜这种题目他老是出错，你要同他讲～啊。  
 1. 【[气不动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_beh_ton.md#气不动)】`qi5 beh ton6` <sup>[泰县]</sup> 生气到极点：这件事让人～。  
 1. 【[气不忿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_beh_fen.md#气不忿)】`qi5 beh7 fen6` <sup>[兴化]</sup> 遇到不平的事，心中不服气：“……没的赵姨奶奶听了，又～，反说太便宜了我……”（《红楼梦》六一）。……也有那～的在内生事，闹在一处，挤断了街。（《梼杌闲评》三四）也作“气不愤”。  
 1. 【[气不伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_beh_foh.md#气不伏)】`qi5 beh7 foh8` <sup>[兴化]</sup> 受到欺压心中不服：随来的家人也尽有不平的……谁人敢与他争得？只有～不情愿的，当下四散而去。（《二刻》七）也作“气不服”。  
@@ -686,9 +685,7 @@
 1. 【[吃元宵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_iun_xio.md#吃元宵)】`qieh7 iun2 xio1` <sup>[如东]</sup> 阴历正月十五日，吃糯米汤圆，称吃元宵。含有祭月赏月，合家团圆的意思。此俗始于唐代。  
 1. 【[吃家录](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_jia_loh.md#吃家录)】`qieh7 jia1 loh` <sup>[如东]</sup> 挨打：你再调皮，当心～。上刑罚。  
 1. 【[吃枷碌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_jia_loh.md#吃枷碌)】`qieh7 jia1 loh8` <sup>[东台]</sup> 旧时指吃亏、上当：厂长当初没经验，外去时不时～。  
-1. 【[吃脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_jiah.md#吃脚)】`qieh7 jiah` <sup>[如东]</sup> 爱吃、贪吃的人：你还真像个～。  
-1. 【[吃脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_jiah.md#吃脚)】`qieh7 jiah7` ① 爱吃、贪吃、能吃、会吃的人。<sup>\[如皋\]</sup> ② 脚，即角色。～即懂得吃、也对吃有爱好有讲究的人。<sup>\[东台\]</sup> ③ 贪嘴的人<sup>\[兴化\]</sup>：他是个～，每家酒楼开张总要光顾几餐。<sup>\[兴化\]</sup>  
-1. 【[吃脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_jiah.md#吃脚)】`qieh7 jiah7` <sup>[泰州]</sup> 谑称好吃能吃的人：你晚上弄吖这几个菜嫌少，来的这几个小伙头子哪个不是～咖。  
+1. 【[吃脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_jiah.md#吃脚)】`qieh7 jiah7` 爱吃、贪吃的人，或懂得吃、对吃有讲究的人<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：你还真像个～。<sup>\[如东\]</sup>｜他是个～，每家酒楼开张总要光顾几餐。<sup>\[兴化\]</sup>｜你晚上弄吖这几个菜嫌少，来的这几个小伙头子哪个不是～咖。<sup>\[泰州\]</sup>  
 1. 【[吃劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_jien.md#吃劲)】`qieh7 jien5` ① 吃力 ② 费劲。<sup>\[如东\]</sup>：扛木头是非常～的。<sup>\[如东\]</sup>  
 1. 【[吃进](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_jien.md#吃进)】`qieh7 jien5` ① 购进。<sup>\[如皋\]</sup> ② 成批购进商品<sup>\[兴化\]</sup>：这批货先～，等有好价钱再出手。<sup>\[兴化\]</sup>  
 1. 【[吃酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_jieu.md#吃酒)】`qieh7 jieu3` <sup>[如皋]</sup> ① 指饮酒。 ② 指坐宴席。  
@@ -794,13 +791,10 @@
 1. 【[吃下午](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_xia_v.md#吃下午)】`qieh7 xia6 v` <sup>[兴化]</sup> 午饭和晚饭之间的副餐，一般为糕点或剩饭剩菜等。也说“吃晚茶”。  
 1. 【[吃下午](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_xia_v.md#吃下午)】`qieh7 xia6 v3` <sup>[泰县]</sup> 午饭之后晚饭之前的副餐。  
 1. 【[吃闲饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_xiaen_faen.md#吃闲饭)】`qieh7 xiaen2 faen6` <sup>[如东]</sup> 不做事，不挣钱，混日子：这许没有人～。  
-1. 【[吃香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_xian.md#吃香)】`qieh7 xian1` ① 比喻受欢迎。<sup>\[如东\]</sup>：他在这里很～。<sup>\[如东\]</sup> ② ［喻］在社会上很受欢迎。<sup>\[东台\]</sup>  
-1. 【[吃香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_xian.md#吃香)】`qieh7 xian1` <sup>[泰州]</sup> 泛指受人欢迎，被人重视：过去在农村里，当电工的～得狠。  
-1. 【[吃相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_xian.md#吃相)】`qieh7 xian5` ① 食品的煮法：河鲫鱼怎吖～吖？煨白汤。<sup>\[如皋\]</sup> ② 进食的方法：五香螺儿怎吖～吖？拿嘴抽。<sup>\[如皋\]</sup> ③ 吃的模样。<sup>\[如皋\]</sup> ④ 吃的样子。<sup>\[如东\]</sup>：你看他那个～<sup>\[如东\]</sup> ⑤ 吃的方法。<sup>\[如东\]</sup>：这条鱼怎吖～？<sup>\[如东\]</sup> ⑥ 吃东西时的姿态神情。<sup>\[东台\]</sup> ⑦ 吃的样子：这人的～不好。<sup>\[泰县\]</sup>  
-1. 【[吃相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_xian.md#吃相)】`qieh7 xian5` <sup>[泰州]</sup> 吃的样子，人在吃、喝的时候的举止：你望他这个～嗷，就像饿死鬼投的胎。  
+1. 【[吃香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_xian.md#吃香)】`qieh7 xian1` 比喻受欢迎、受重视<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰州\]</sup>：他在这里很～。<sup>\[如东\]</sup>｜过去在农村里，当电工的～得狠。<sup>\[泰州\]</sup>  
+1. 【[吃相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_xian.md#吃相)】`qieh7 xian5` ① 吃的方式。可借指烹饪方式。<sup>\[如皋\]</sup><sup>\[如东\]</sup>：河鲫鱼怎吖～吖？煨白汤。<sup>\[如皋\]</sup>｜五香螺儿怎吖～吖？拿嘴䌷。<sup>\[如皋\]</sup>｜这条鱼怎吖～？<sup>\[如东\]</sup> ② 吃东西时的模样、神情、举止<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰州\]</sup><sup>\[泰县\]</sup><sup>\[东台\]</sup>：你看他那个～<sup>\[如东\]</sup>｜你望他这个～嗷，就像饿死鬼投的胎。<sup>\[泰州\]</sup>｜这人的～不好。<sup>\[泰县\]</sup>  
 1. 【[吃心大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_xien_da.md#吃心大)】`qieh7 xien da6` <sup>[如皋]</sup> 见“𢺈心重”。  
-1. 【[吃心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_xien.md#吃心)】`qieh7 xien1` ① 欲望：你才学咖挑担的，～不能大，一次少挑点儿。<sup>\[如皋\]</sup> ② 占有的欲望。<sup>\[如东\]</sup>：～重。<sup>\[如东\]</sup> ③ 对物质利益的占有欲。<sup>\[东台\]</sup> ④ 贪欲<sup>\[兴化\]</sup>：他的～不大，跟人家修电器只收工本费。<sup>\[兴化\]</sup>｜他的～大，这点儿钱怕打不动他。<sup>\[兴化\]</sup>  
-1. 【[吃心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_xien.md#吃心)】`qieh7 xien1` <sup>[泰州]</sup> 对物质占有的欲望：你不要～太重，这笔账能赚十万算不错唻。  
+1. 【[吃心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_xien.md#吃心)】`qieh7 xien1` ① 欲望<sup>\[如皋\]</sup>：你才学咖挑担的，～不能大，一次少挑点儿。<sup>\[如皋\]</sup> ② 特指占有欲、贪欲<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：～重。<sup>\[如东\]</sup>｜他的～不大，跟人家修电器只收工本费。<sup>\[兴化\]</sup>｜他的～大，这点儿钱怕打不动他。<sup>\[兴化\]</sup>｜你不要～太重，这笔账能赚十万算不错唻。<sup>\[泰州\]</sup>  
 1. 【[吃心重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_xien_chon.md#吃心重)】`qieh7 xien1 chon6` <sup>[如东]</sup> 占有的欲望大，不容易满足：此人～，不容易成功。  
 1. 【[吃心大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_xien_da.md#吃心大)】`qieh7 xien1 da6` ① 贪多，贪心。<sup>\[如皋\]</sup> ② 占有的欲望大。<sup>\[如东\]</sup>：不能～。<sup>\[如东\]</sup> ③ 个人欲望不容易满足：这个人～，拿了一个还要拿。<sup>\[泰县\]</sup>  
 1. 【[吃辛受苦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_xien_sheu_kv.md#吃辛受苦)】`qieh7 xien1 sheu6 kv3` <sup>[兴化]</sup> 吃苦受累，遭到磨难：他领着老婆和孩子，在灵岩山荒坡上开了一片茶园，～几年，好容易才有点出息。（《施耐庵的传说·爱打抱不平》）｜“……既是秉正沙门，须是要～，才做得徒弟哩。”（《西游记》二三）  
@@ -808,8 +802,7 @@
 1. 【[吃血食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_xiuh_sheh.md#吃血食)】`qieh7 xiuh7 sheh8` <sup>[如皋]</sup> 得到额外的好处：他利用职权包工程，～不少。  
 1. 【[吃鱼不如取鱼乐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_y_beh_rv_qy_y_lah.md#吃鱼不如取鱼乐)】`qieh7 y2 beh7 rv2 qy3 y2 lah8` <sup>[东台]</sup> 事情的过程很有趣。  
 1. 【[吃这碗饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_zha_un_faen.md#吃这碗饭)】`qieh7 zha5 un3 faen6` <sup>[如皋]</sup> 做这份工作。  
-1. 【[吃斋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_zhae.md#吃斋)】`qieh7 zhae1` ① 一种“吃素”的方式，定期吃素食，过后再“开斋”。<sup>\[如皋\]</sup> ② 吃素食素菜，叫做吃斋。<sup>\[如东\]</sup>  
-1. 【[吃斋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_zhae.md#吃斋)】`qieh7 zhae1` <sup>[泰州]</sup> 吃素：老太～，你俫炒菜不要放荤油。  
+1. 【[吃斋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_zhae.md#吃斋)】`qieh7 zhae1` 吃素<sup>\[如东\]</sup><sup>\[泰州\]</sup>\[如皋：一种“吃素”的方式，定期吃素食，过后再“开斋”。\]：老太～，你俫炒菜不要放荤油。<sup>\[泰州\]</sup>  
 1. 【[吃斋饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_zhae_faen.md#吃斋饭)】`qieh7 zhae1 faen6` <sup>[如东]</sup> 举办丧葬、祭祖活动时，亲戚朋友上人情、吃酒饭，叫做吃斋饭。  
 1. 【[吃鲻鱼头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_zhr_y_teu.md#吃鲻鱼头)】`qieh7 zhr1 y2 teu2` <sup>[东台]</sup> ［喻］指挨批评。  
 1. 【[吃猪屎还大肠钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_zhv_shr_hae_da_chan_qin.md#吃猪屎还大肠钱)】`qieh7 zhv1 shr3 hae2 da6 chan2 qin2` <sup>[东台]</sup> 喻指被人愚弄吃了亏。  

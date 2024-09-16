@@ -2295,7 +2295,7 @@
 1. 【[胡椒心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_jio_xien.md#胡椒心)】`hv2 jio1 xien1` <sup>[兴化]</sup> （喻）毒辣的心肠。俗称嘴甜心辣的人为“洋糖嘴，～”。  
 1. 【[胡来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_lae.md#胡来)】`hv2 lae2` <sup>[如东]</sup> 不按规矩，任意乱做：不可以～。  
 1. 【[胡里打滚的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_lii_da_guen_dii.md#胡里打滚的)】`hv2 lii da3 guen3 dii` <sup>[如皋]</sup> 见“胡头乱说”。  
-1. 【[胡萝卜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_lu_poh.md#胡萝卜)】`hv2 lu2 poh` 胡萝卜，伞形科植物<sup>\[如东\]</sup>\[泰兴hv2 lou2 poh：（uh7 lou1 poh）\]  
+1. 【[胡萝卜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_lu_poh.md#胡萝卜)】`hv2 lu2 poh` 胡萝卜，伞形科植物<sup>\[如东\]</sup>\[泰兴fv2 lou2 poh：（uh7 lou1 poh）\]  
 1. 【[胡萝卜干<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_lu_poh_gun_r.md#胡萝卜干<sub>儿</sub>)】`hv2 lu2 poh gun1 r` <sup>[如皋]</sup> 胡萝卜纵切四瓣晒成的干货或腌成的咸菜。  
 1. 【[胡闹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_no.md#胡闹)】`hv2 no6` <sup>[如东]</sup> 没有道理地打斗。  
 1. 【[胡𨑊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_non.md#胡𨑊)】`hv2 non2` <sup>[兴化]</sup> ① 勉强应付：这套衣裳款式老一点，先～穿吧！这件事不必认真，～过去算吖。 ② 欺骗、蒙混：～人。  

@@ -36,14 +36,14 @@
 1. 【[巴巴锔锔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ba_jioh_jioh.md#巴巴锔锔)】`ba1 ba1 jioh7 jioh7` <sup>[东台]</sup> 原指瓷器锔了很多铜钉，形容器物陈旧，破损严重。  
 1. 【[巴巴<sub>儿</sub>菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ba_r_cae.md#巴巴<sub>儿</sub>菜)】`ba1 ba1 r cae5` <sup>[如皋]</sup> ① 冬天青菜的一种，长平不长高。 ② 见“塌棵子菜”。  
 1. 【[巴巴掌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ba_zhan.md#巴巴掌)】`ba1 ba1 zhan` <sup>[如皋]</sup> 儿歌名。见“打～”。  
-1. 【[巴不到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_beh_do.md#巴不到)】`ba1 beh7 do5, ba1 beh7 do3` <sup>[东台]</sup> 求之不得。（“到”也读上声）  
-1. 【[巴不到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_beh_do.md#巴不到)】`ba1 beh7 do5-3` <sup>[泰兴]</sup> 巴不得；非常希望得到。  
-1. 【[巴不到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_beh_do.md#巴不到)】`ba1 beh7 do5` ① 迫切盼望。<sup>\[如东\]</sup> ② 迫切希望得到<sup>\[兴化\]</sup>：傅景在马上四面偷瞧，～有个美色女子好奉承。（《八窍珠》一）<sup>\[兴化\]</sup> ③ 巴不得。<sup>\[泰县\]</sup>  
+1. 【[巴不到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_beh_do.md#巴不到)】`ba1 beh7 do5` 巴不得，求之不得，迫切、希望<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup>\[泰兴：（又ba1 beh7 do3）\]\[东台：（又ba1 beh7 do3）\]：傅景在马上四面偷瞧，～有个美色女子好奉承。（《八窍珠》一）<sup>\[兴化\]</sup>  
 1. 【[巴成](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_chen.md#巴成)】`ba1 chen` <sup>[如皋]</sup> 期望有成：有～、没～。  
 1. 【[巴家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ga.md#巴家)】`ba1 ga1` ① 一心为自己家庭着想。<sup>\[如东\]</sup> ② 顾家。<sup>\[兴化\]</sup> ③ 善于管家、理财<sup>\[兴化\]</sup>：店虽小，但王小三老实～……（扬说《崇月娥杭州当珠》）<sup>\[兴化\]</sup>  
 1. 【[巴根草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_gen_co.md#巴根草)】`ba1 gen1 co3` <sup>[兴化]</sup> 一种贴着地皮生长，根根相连的草，可用来培育草坪。  
 1. 【[巴沟<sub>儿</sub>草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_geu_r_co.md#巴沟<sub>儿</sub>草)】`ba1 geu1 r co3` <sup>[如皋]</sup> 见“乌蓲”。  
 1. 【[巴锅不熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_gu_beh_shoh.md#巴锅不熟)】`ba1 gu1 beh7 shoh8` <sup>[兴化]</sup> ① 不等饭菜煮熟就急着要吃。 ② （喻）形容人性急，不待时机成熟就行事：这个人～，才跟她认得就要订婚。  
+1. 【[巴锅恋灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_gu_lin_zo.md#巴锅恋灶)】`ba1 gu1 lin6 zo5` <sup>[兴化]</sup> 形容人嘴馋，喜欢看着人烹饪，或到厨房找吃的。  
+1. 【[巴棍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_guen.md#巴棍)】`ba1 guen5` <sup>[兴化]</sup> 旧时作刑具的种短木棍：谚曰：吃双粮，打～。  
 [更多...](./b.md)
 ## C
 1. 【[……差掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_dio.md#……差掉)】`cha1 dio` <sup>[东台]</sup> ① 前面的分配过了头，后面的得不到应有的份额。 ② 在差额竞争中被淘汰。  
@@ -321,7 +321,7 @@
 1. 【[妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma.md#妈)】`ma1` <sup>[东台]</sup> ① 母来。 ② 年长的已婚妇女。  
 1. 【[妈妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma.md#妈妈)】`ma1 ma1` <sup>[如东]</sup> 母亲。  
 1. 【[马胞衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_bo_i.md#马胞衣)】`ma1 bo1 i1` <sup>[如东]</sup> 马科动物马的胎盘。  
-1. 【[马而虎之](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_er_hv_zhr.md#马而虎之)】`ma1 er hv3 zhr1` 马虎。<sup>\[泰兴ma1 er hv3 zz1\]</sup>  
+1. 【[马而虎之](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_er_hv_zhr.md#马而虎之)】`ma1 er hv3 zhr1` 马虎。<sup>\[泰兴ma1 er fv3 zz1\]</sup>  
 1. 【[马马虎虎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma_hv_hv.md#马马虎虎)】`ma1 ma1 hv1 hv1` <sup>[东台]</sup> ① 马虎：随便｜不认真。 ② 勉强：凑合。也说“马马虎”。  
 1. 【[□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma.md#□□)】`ma2 ma3` <sup>[东台]</sup> 在东台话中指婶婶，也叫“嫲儿”。  
 1. 【[麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma.md#麻)】`ma2` ① 桑科植物黄麻，一年生草本。<sup>\[如东\]</sup> ② 鱼、蟹、虾等海鲜食物用盐渍一下，保鲜防腐，叫做麻。<sup>\[如东\]</sup> ③ 辣<sup>\[如皋\]</sup>：大椒～人。<sup>\[如皋\]</sup> ④ 触电的感觉。<sup>\[如皋\]</sup> ⑤ 像芝麻多而小<sup>\[如皋\]</sup>：～虾儿。<sup>\[如皋\]</sup> ⑥ 曚昽<sup>\[如皋\]</sup>：天～～儿亮。<sup>\[如皋\]</sup> ⑦ 芝麻点状的<sup>\[如皋\]</sup>：～子、～石、～鸭儿、～苍蝇。<sup>\[如皋\]</sup> ⑧ 出风头、摆威风、高傲的样子<sup>\[如皋\]</sup>：这家伙，有两个钱，～唻！<sup>\[如皋\]</sup> ⑨ 辣味刺激<sup>\[兴化\]</sup>：～人。<sup>\[兴化\]</sup> ⑩ （贬）极<sup>\[兴化\]</sup>：坏啊～啊。<sup>\[兴化\]</sup> ⑪ （借）形容价格昂贵<sup>\[兴化\]</sup>：东西倒不丑，就是价钱～人。<sup>\[兴化\]</sup> ⑫ 作动词，喝酒的隐语<sup>\[兴化\]</sup>：“……弄点酒来～下子，暖暖身子睡觉吧！”（兴文《得胜湖的定名及传说》）<sup>\[兴化\]</sup> ⑬ 谓人狂妄<sup>\[兴化\]</sup>：你少要～！<sup>\[兴化\]</sup> ⑭ 辣。<sup>\[泰县\]</sup> ⑮ 辛辣刺激口腔舌头所产生的味觉<sup>\[泰州\]</sup>：这个大椒太～。<sup>\[泰州\]</sup>  
