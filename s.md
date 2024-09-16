@@ -126,7 +126,7 @@
 1. 【[三合土](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_huh_tv.md#三合土)】`saen1 huh8 tv3` ① 石灰、水泥和沙子加水拌和后，经浇灌夯实而构成的建筑材料，用于打夯地基或修路。<sup>\[东台\]</sup> ② 民俗。人死后入殓时，铺入棺中的以土为主的混合材料。<sup>\[泰兴ɕiɛ̃1 xʊʔ8 tʰu3\]</sup>  
 1. 【[三合厢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_huh_xian.md#三合厢)】`saen1 huh8 xian1` ① 三合院。<sup>\[如皋\]</sup> ② 房屋的一种结构形式，正房两侧配有厢房。<sup>\[如东\]</sup>  
 1. 【[三姨娘六舅母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_i_nian_loh_qieu_mu.md#三姨娘六舅母)】`saen1 i2 nian loh8 qieu6 mu` <sup>[兴化]</sup> 指亲戚中的女性：种他家田有个规矩，只要到个亲朋戚友，不管～，都要请他吃。（《施耐庵的传说·“药老鼠”饼》）  
-1. 【[三一三十一](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_ieh_saen_sheh_ieh.md#三一三十一)】`saen1 ieh7 saen1 sheh8 ieh7` 珠算口诀。借指平均分为三份。也泛指平均分配。<sup>\[东台\]</sup><sup>\[泰兴ɕiɛ̃1 iəʔ7 ɕiɛ̃1 səʔ8 iəʔ7\]</sup>：箇笔收入我佼～吧。<sup>\[泰兴\]</sup>  
+1. 【[三一三十一](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_ieh_saen_sheh_ieh.md#三一三十一)】`saen1 ieh7 saen1 sheh8 ieh7` 珠算口诀。借指平均分为三份。也泛指平均分配。<sup>\[东台\]</sup><sup>\[泰兴ɕiɛ̃1 ɪʔ7 ɕiɛ̃1 səʔ8 ɪʔ7\]</sup>：箇笔收入我佼～吧。<sup>\[泰兴\]</sup>  
 1. 【[三茔六葬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_ien_loh_zan.md#三茔六葬)】`saen1 ien2 loh8 zan5` <sup>[如东]</sup> 一种民俗。在一个坟园里，有三个坟茔，埋葬三对夫妇，六个人，称三茔六葬。  
 1. 【[三月里菜花黄，四月里麦登场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_iuh_lii_cae.md#三月里菜花黄，四月里麦登场)】`saen1 iuh lii cae5 hua1 huan2 sz5 iuh lii moh8 den1 chan2` <sup>[泰兴]</sup> 农谚。谓农历三四月间油菜开花，麦子成熟收割。  
 1. 【[三月螺，抵只鹅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_iuh_lu_di.md#三月螺，抵只鹅)】`saen1 iuh lu1 di3 zheh7 ngu2` <sup>[泰兴]</sup> 谓农历三月的螺螺很肥，是当令的食物。  

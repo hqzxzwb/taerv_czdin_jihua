@@ -538,7 +538,7 @@
 1. 【[大伏里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_foh_lii.md#大伏里)】`da6 foh8 lii` <sup>[泰兴]</sup> 也说大伏心里。夏季三伏期中最热的时候。  
 1. 【[大伏天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_foh_tin.md#大伏天)】`da6 foh8 tin1` <sup>[如皋]</sup> 大暑期间。  
 1. 【[大伏天的太阳——辣火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_foh_tin_dii_tae_ian_laeh_hu.md#大伏天的太阳——辣火)】`da6 foh8 tin1 dii tae5 ian2 laeh8 hu3` <sup>[东台]</sup>   
-1. 【[大伏心里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_foh_xien_lii.md#大伏心里)】`da6 foh8 xien1 lii` 大暑期间。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰兴ta1 fɔʔ8 ɕiŋ1 liʝ\]</sup>：～要预防中暑<sup>\[泰兴\]</sup>  
+1. 【[大伏心里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_foh_xien_lii.md#大伏心里)】`da6 foh8 xien1 lii` 大暑期间。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰兴ta1 fɔʔ8 ɕiŋ1 ləɪ\]</sup>：～要预防中暑<sup>\[泰兴\]</sup>  
 1. 【[大风暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_fon_bo.md#大风暴)】`da6 fon1 bo5` <sup>[兴化]</sup> （喻）规模大的事件或发展迅猛的局势：一九五八年大跃进刮～，家家都要参加人民公社。｜“……当～来，西边好几个乡，就稀里哗啦撒出来了……”（陈登科《淮河边上的儿女》三）  
 1. 【[大衭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_fv.md#大衭)】`da6 fv1` ① 上衣右襟罩在左襟上，右襟称大衭。<sup>\[如东\]</sup> ② 纽扣在一侧的中装的前面部分，通常从左侧到右侧盖住底襟。又称“大襟”。<sup>\[兴化\]</sup>  
 1. 【[大衭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_fv.md#大衭)】`da6 fv1` <sup>[泰州]</sup> 纽扣偏在一侧的中式上衣或者袍子的前面部分，通常从左侧到右侧盖住底襟。  

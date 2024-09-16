@@ -70,7 +70,7 @@
 1. 【[无根水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_gen_shuei.md#无根水)】`v2 gen1 shuei3` <sup>[兴化]</sup> 即雨水。某些中药方常要求用～炮制。  
 1. 【[无根无襻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_gen_v_paen.md#无根无襻)】`v2 gen1 v2 paen5` ① 指没有家室，没有牵挂<sup>\[兴化\]</sup>：“……我老拙见是这般一个～的人，就招了他……”（《西游记》十八）。也作“没根没襻”。<sup>\[兴化\]</sup> ② 没有依据。也说“没根没襻”。<sup>\[泰兴ʋ2 kə̃1 ʋ2 pʰɛ̃5\]</sup>：～的话不能说。<sup>\[泰兴\]</sup>  
 1. 【[无挂碍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_gua_ngae.md#无挂碍)】`v2 gua5 ngae6` <sup>[兴化]</sup> 没有牵挂、没有牵制：“谁都象你是一心～……一点后事也不虑。”（《红楼梦》七一）语出《多心经》｜依般若波罗蜜多故，心～；～故，无有恐怖……  
-1. 【[无官一身轻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_gun_ieh_shen_qien.md#无官一身轻)】`v2 gun1 ieh7 shen1 qien1` ① 不承担官的责任浑身轻松。<sup>\[东台\]</sup> ② 谓不做官反而一身轻松。古语：有子万事足，无官一身轻。”<sup>\[泰兴ʋ2 kʊ̃1 iəʔ7 sə̃1 t͡ɕʰiŋ1\]</sup>  
+1. 【[无官一身轻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_gun_ieh_shen_qien.md#无官一身轻)】`v2 gun1 ieh7 shen1 qien1` ① 不承担官的责任浑身轻松。<sup>\[东台\]</sup> ② 谓不做官反而一身轻松。古语：有子万事足，无官一身轻。”<sup>\[泰兴ʋ2 kʊ̃1 ɪʔ7 sə̃1 t͡ɕʰiŋ1\]</sup>  
 1. 【[无花果](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_hua_gu.md#无花果)】`v2 hua1 gu3` <sup>[如东]</sup> 桑科植物无花果，落叶小乔木。高约10米。具乳汁，多分枝，小叶粗壮，表面褐色。叶互生，倒卵形，裂片通常倒卵形，有不规则齿。隐头花序。花白色，极多数，着生于总花托的内壁上。瘦果三棱状卵形。  
 1. 【[无患树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_huaen_shv.md#无患树)】`v2 huaen6 shv6` <sup>[如东]</sup> 无患子植物无患树，落叶或常青乔木。高约25米。枝开展，小枝无毛。通常为双数羽状复叶，互生，广披针形或椭圆形，全缘，革质，无毛。圆锥花序顶生及侧生。花杂性，黄色或淡绿色。核果球形，熟时黄色或橙黄色。种子球形，黑色，坚硬，果内含皂素，可代肥皂用。木材黄白色，较脆，可做箱板、器具等用。种子榨油可作润滑油。  
 1. 【[无患树蔃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_huaen_shv_qian.md#无患树蔃)】`v2 huaen6 shv6 qian2` <sup>[如东]</sup> 无患子植物无患树根。  

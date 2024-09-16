@@ -176,7 +176,7 @@
 1. 【[人裔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_i.md#人裔)】`ren2 i` <sup>[如皋]</sup> 家族相沿的代数：我家住啊三官殿桥西有啊五代～。  
 1. 【[人裔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_i.md#人裔)】`ren2 i6` <sup>[如东]</sup> 家族相沿代数：许家住啊南坎已经有五代～啊。  
 1. 【[人样<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_ian_r.md#人样<sub>儿</sub>)】`ren2 ian6 r` <sup>[如东]</sup> 身材标准漂亮的人：他长得像个～。  
-1. 【[人一走，茶就凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_ieh_zeu_cha.md#人一走，茶就凉)】`ren2 ieh7 zeu3 cha2 qieu6 lian2` 指两人的关系脆弱，一分手就冷淡了。乡人尚有“人在人情在，人去两分开”之说。<sup>\[泰兴ɻə̃2 iəʔ7 t͡sɤɯ3 t͡sʰa2 t͡ɕʰiɤɯ1 liɑŋ2\]</sup>  
+1. 【[人一走，茶就凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_ieh_zeu_cha.md#人一走，茶就凉)】`ren2 ieh7 zeu3 cha2 qieu6 lian2` 指两人的关系脆弱，一分手就冷淡了。乡人尚有“人在人情在，人去两分开”之说。<sup>\[泰兴ɻə̃2 ɪʔ7 t͡sɤɯ3 t͡sʰa2 t͡ɕʰiɤɯ1 liɑŋ2\]</sup>  
 1. 【[人影<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_ien_r.md#人影<sub>儿</sub>)】`ren2 ien3 r` ① 某人闪现过。<sup>\[如皋\]</sup> ② 身影。<sup>\[如皋\]</sup>  
 1. 【[人又懦惰货又重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_ieu_nuh_du_hu_ieu_chon.md#人又懦惰货又重)】`ren2 ieu6 nuh8 du5 hu5 ieu6 chon6` <sup>[东台]</sup> 人的能力差，工作负荷又重。  
 1. 【[人烟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_in.md#人烟)】`ren2 in1` <sup>[泰兴]</sup> ① 住家的炊烟，比喻人家 ② 传世的子孙：我家在泰兴有三十代人烟  
@@ -184,7 +184,7 @@
 1. 【[人要脸，树要皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_io_lin_shv_io_pi.md#人要脸，树要皮)】`ren2 io5 lin3 shv6 io5 pi2` <sup>[东台]</sup> 人要注重自己的面子和声誉。  
 1. 【[人缘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_iun.md#人缘)】`ren2 iun2` ① 人际关系。<sup>\[如东\]</sup>：张三儿的～好。<sup>\[如东\]</sup> ② 指与别人相处的关系。<sup>\[泰兴ɻə̃2 iʊ̃2\]</sup>：我同他没得～<sup>\[泰兴\]</sup>｜他平常三四～太差，临到事没得人帮他说话<sup>\[泰兴\]</sup>  
 1. 【[人精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_jien.md#人精)】`ren2 jien1` ① 比喻非常精明。<sup>\[如东\]</sup>：桂兰是个～。<sup>\[如东\]</sup> ② 精明过人的人<sup>\[东台\]</sup>：你还想骗他？哿晓得他是个～？<sup>\[东台\]</sup> ③ 指非常精明灵活的人、老于世故的人。有时含贬义<sup>\[泰兴ɻə̃2 t͡ɕiŋ1\]</sup>：箇个～聪明过啊头<sup>\[泰兴\]</sup>  
-1. 【[人敬我一尺，我敬人一丈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_jien_ngu_ieh_cheh_ngu_jien_ren_ieh_chan.md#人敬我一尺，我敬人一丈)】`ren2 jien5 ngu3 ieh7 cheh7 ngu3 jien5 ren2 ieh7 chan6` ① 人要知道感恩，滴水之恩当涌泉相报。<sup>\[东台\]</sup> ② 谓别人尊敬我，我要更加尊敬对方。<sup>\[泰兴ɻə̃2 t͡ɕiŋ5 ŋɤɯ3 iəʔ7 t͡sʰəʔ7 ŋɤɯ3 t͡ɕiŋ5 ɻə̃2 iəʔ7 t͡sʰɑŋ1\]</sup>  
+1. 【[人敬我一尺，我敬人一丈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_jien_ngu_ieh_cheh_ngu_jien_ren_ieh_chan.md#人敬我一尺，我敬人一丈)】`ren2 jien5 ngu3 ieh7 cheh7 ngu3 jien5 ren2 ieh7 chan6` ① 人要知道感恩，滴水之恩当涌泉相报。<sup>\[东台\]</sup> ② 谓别人尊敬我，我要更加尊敬对方。<sup>\[泰兴ɻə̃2 t͡ɕiŋ5 ŋɤɯ3 ɪʔ7 t͡sʰəʔ7 ŋɤɯ3 t͡ɕiŋ5 ɻə̃2 ɪʔ7 t͡sʰɑŋ1\]</sup>  
 1. 【[人节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_jih.md#人节)】`ren2 jih7` <sup>[如皋]</sup> 以人为主的传统节日。  
 1. 【[人见人爱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_jin_ren_ngae.md#人见人爱)】`ren2 jin5 ren2 ngae5` <sup>[如东]</sup> 大家都喜欢：这本书～。  
 1. 【[人嘴上两块皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_jy_shan_laen_kuae_pi.md#人嘴上两块皮)】`ren2 jy3 shan laen3 kuae5 pi2` <sup>[东台]</sup> 毁誉全在人的言语之间，“一言兴邦，一言丧邦”，众口铄金，不可小觑。  
@@ -273,7 +273,7 @@
 1. 【[人心都是肉做的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_xien_du_shr_roh_zu_dii.md#人心都是肉做的)】`ren2 xien1 du1 shr6 roh8 zu5 dii` <sup>[东台]</sup> 人要有慈悲心肠。  
 1. 【[人心隔肚皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_xien_geh_dv_pi.md#人心隔肚皮)】`ren2 xien1 geh7 dv3 pi2` 谓人的心思难以猜测。<sup>\[东台\]</sup><sup>\[泰兴ɻə̃2 ɕiŋ1 kəʔ7 tu3 pʰʝ2\]</sup>  
 1. 【[人心齐，泰山移，万众一心，黄土变金](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_xien_qi_tae_shaen_i_vaen_zhon_ieh_xien_huan_tv_bin_jien.md#人心齐，泰山移，万众一心，黄土变金)】`ren2 xien1 qi2 tae5 shaen1 i2 vaen6 zhon5 ieh7 xien1 huan2 tv3 bin5 jien1` <sup>[东台]</sup> 同心协力最重要。  
-1. 【[人心总是肉长的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_xien_zon_shr.md#人心总是肉长的)】`ren2 xien1 zon3 shr6 roh8 zhan3 dii` 指人的言行要讲道德良心<sup>\[泰兴ɻə̃2 ɕiŋ1 t͡sɔ̃3 sɿ1 ɻɔʔ8 t͡sɑŋ3 t͡ɕiʝ\]</sup>  
+1. 【[人心总是肉长的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_xien_zon_shr.md#人心总是肉长的)】`ren2 xien1 zon3 shr6 roh8 zhan3 dii` 指人的言行要讲道德良心<sup>\[泰兴ɻə̃2 ɕiŋ1 t͡sɔ̃3 sɿ1 ɻɔʔ8 t͡sɑŋ3 təɪ\]</sup>  
 1. 【[人形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_xien.md#人形)】`ren2 xien2` <sup>[泰兴]</sup> 人的形象、风貌。常与否定词连用于责备人：箇个伢儿没得～。  
 1. 【[人小鬼大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_xio_guei_da.md#人小鬼大)】`ren2 xio3 guei3 da6` <sup>[兴化]</sup> 指人年龄虽小，但心绪复杂、点子多：“好囚攮的！～，你竟敢弄这样的戏法……”（《三侠五义》六一）  
 1. 【[人小礼分大，老爹坐栏车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_xio_li_fen.md#人小礼分大，老爹坐栏车)】`ren2 xio3 li3 fen da6 lo3 dia cu6 laen2 cha1` <sup>[泰兴]</sup> 礼分：辈分。栏车：木制的婴儿车。指年龄虽小，辈分却高的现象。  

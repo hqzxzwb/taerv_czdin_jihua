@@ -503,7 +503,7 @@
 1. 【[乡党](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_dan.md#乡党)】`xian1 dan3` <sup>[东台]</sup> 乡亲：势不压～。  
 1. 【[乡风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_fon.md#乡风)】`xian1 fon1` <sup>[兴化]</sup> 风土人情：“你乃外江的人，哪里晓得我们的～……”（《海公大红袍》四七）｜谚曰：离家三里路，各地各～。  
 1. 【[乡下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ha.md#乡下)】`xian1 ha` ① 乡村里。与“市镇”相对。<sup>\[如皋\]</sup> ② 小集镇，与“城市”相对。<sup>\[如皋\]</sup> ③ 县城及大集镇以外的地区。通称农村。<sup>\[如东\]</sup>  
-1. 【[乡下宝宝吃海参，头一回](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ha_bo_bo.md#乡下宝宝吃海参，头一回)】`xian1 ha bo3 bo qieh7 hae3 shen1 teu2 ieh7 huei2` 歇后语。谓第一次，以前从来没有的事。义与“大姑娘坐轿子”同。<sup>\[泰兴ɕiɑŋ1 xa pɔ3 pɔ t͡ɕʰiəʔ7 xɛ3 sə̃1 tʰəɪ2 iəʔ7 xuəɪ2\]</sup>  
+1. 【[乡下宝宝吃海参，头一回](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ha_bo_bo.md#乡下宝宝吃海参，头一回)】`xian1 ha bo3 bo qieh7 hae3 shen1 teu2 ieh7 huei2` 歇后语。谓第一次，以前从来没有的事。义与“大姑娘坐轿子”同。<sup>\[泰兴ɕiɑŋ1 xa pɔ3 pɔ t͡ɕʰiəʔ7 xɛ3 sə̃1 tʰəɪ2 ɪʔ7 xuəɪ2\]</sup>  
 1. 【[乡下家里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ha_ga_lii.md#乡下家里)】`xian1 ha ga1 lii` <sup>[如皋]</sup> ① 自家住城镇时指在乡村中的住宅。 ② 自家或家族中的离街市稍远的住宅。均与“街上家里”相对。  
 1. 【[乡下鼓<sub>儿</sub>乡下敲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ha_gv_r.md#乡下鼓<sub>儿</sub>乡下敲)】`xian1 ha gv3 r xian1 ha ko1` 喻指要适合当时当地人的口味说话办事。<sup>\[泰兴ɕiɑŋ1 xa ku3 ɚ ɕiɑŋ1 xa kʰɔ1\]</sup>  
 1. 【[乡下佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ha_lo_r.md#乡下佬<sub>儿</sub>)】`xian1 ha lo3 r` <sup>[如皋]</sup> 对少见识者的鄙称。  
@@ -1284,7 +1284,7 @@
 1. 【[小菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cae.md#小菜)】`xio3 cae5` ① 常吃的蔬菜。<sup>\[如东\]</sup> ② 菜肴。<sup>\[如东\]</sup> ③ 咸菜。指吃粥时用的酱菜。<sup>\[泰兴ɕiɔ3 t͡ɕʰiɛ5\]</sup>  
 1. 【[小菜场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cae_chan.md#小菜场)】`xio3 cae5 chan2` 菜市场。<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰兴ɕiɔ3 t͡ɕʰiɛ5 t͡sʰɑŋ2\]</sup>  
 1. 【[小菜饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cae_faen.md#小菜饭)】`xio3 cae5 faen6` <sup>[兴化]</sup> 比较简单的饭食：大鱼大肉吃不起，每日两餐～是有的。  
-1. 【[小菜一碟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cae_ieh_dih.md#小菜一碟)】`xio3 cae5 ieh7 dih7` ① 比喻非常简单，人人都会做。<sup>\[如东\]</sup>：大学生写一篇文章，不过是～。<sup>\[如东\]</sup> ② ［喻］小事一桩，不费事。<sup>\[东台\]</sup> ③ 谓区区小事。<sup>\[泰兴ɕiɔ3 t͡ɕʰiɛ5 iəʔ7 tɪʔ7\]</sup>  
+1. 【[小菜一碟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cae_ieh_dih.md#小菜一碟)】`xio3 cae5 ieh7 dih7` ① 比喻非常简单，人人都会做。<sup>\[如东\]</sup>：大学生写一篇文章，不过是～。<sup>\[如东\]</sup> ② ［喻］小事一桩，不费事。<sup>\[东台\]</sup> ③ 谓区区小事。<sup>\[泰兴ɕiɔ3 t͡ɕʰiɛ5 ɪʔ7 tɪʔ7\]</sup>  
 1. 【[小菜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cae_r.md#小菜<sub>儿</sub>)】`xio3 cae5 r` <sup>[如皋]</sup> ① 咸菜（相对下锅菜而言）。 ② 家常菜（相对厨师做的、大菜等而言）。 ③ 通指菜蔌：～场、烧～。 ④ 乡村指猪肉：今朝来啊人，去称块～家来拿咸菜干儿烧。  
 1. 【[小菜<sub>儿</sub>一碟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cae_r_ieh_dih.md#小菜<sub>儿</sub>一碟)】`xio3 cae5 r ieh7 dih7` <sup>[如皋]</sup> 小事一桩。即不上眼的小事情。  
 1. 【[小菜子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cae_zz.md#小菜子)】`xio3 cae5 zz` <sup>[兴化]</sup> ① 用小碳盛的下酒饭的菜蔬：酱～。 ② 特指用米佐茶的烫干丝等。  
