@@ -110,8 +110,8 @@
 1. 【[几](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#几)】`ji3` <sup>[如皋]</sup> 条几、香几等的通称。  
 1. 【[几下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ha.md#几下)】`ji3 ha6` <sup>[东台]</sup> 几个地方。“下”相当于量词“处”。  
 1. 【[几钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_qin.md#几钱)】`ji3 qin2` <sup>[泰兴]</sup> “几个钱”的省称，即“多少钱”：西瓜几钱斤？/西瓜多少钱一斤？  
-1. 【[几□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_shr.md#几□)】`ji3 shr1` 哪一天<sup>\[东台\]</sup><sup>\[泰兴t͡ɕʝ3 sɿ1\]</sup><sup>\[海安\]</sup>：今朝～？/今天是什么日子？<sup>\[海安\]</sup>  
-1. 【[几时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_shr.md#几时)】`ji3 shr2` 什么时候<sup>\[泰兴t͡ɕʝ3 sɿ2\]</sup>：大姑娘～好日？<sup>\[泰兴\]</sup>  
+1. 【[几□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_shr.md#几□)】<p>`ji3 shr1` /t͡ɕʝ3 sɿ1/<sup>泰兴</sup></p> 哪一天<sup>\[东台\]</sup><sup>\[泰兴\]</sup><sup>\[海安\]</sup>：今朝～？/今天是什么日子？<sup>\[海安\]</sup>  
+1. 【[几时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_shr.md#几时)】<p>`ji3 shr2` /t͡ɕʝ3 sɿ2/<sup>泰兴</sup></p> 什么时候<sup>\[泰兴\]</sup>：大姑娘～好日？<sup>\[泰兴\]</sup>  
 1. 【[几代人裔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_tae_ren_i.md#几代人裔)】`ji3 tae6 ren2 i6` <sup>[如皋]</sup> 一个家族的几代人。  
 1. 【[几天头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_tin_teu.md#几天头)】`ji3 tin1 teu2` ① 十天之内。<sup>\[如东\]</sup>：来回不过～。<sup>\[如东\]</sup> ② 只须×天<sup>\[如皋\]</sup>：做完这件事只要～！<sup>\[如皋\]</sup>  
 1. 【[几文](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ven.md#几文)】`ji3 ven2` <sup>[兴化]</sup> “文”是旧时铜钱的计量单位，～即多少钱，也指不确定数量的钱：这件衬衣卖～？“……比如今夕，家人团聚一堂，何等清闲自在！虽则多费一，心中也是快活的。”（《广陵潮》一〇〇）“……却不料他官虽然只做得一任，任上的钱倒着实弄得～回来……”（《官场现形记》二）  
@@ -295,11 +295,11 @@
 1. 【[姐夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_fv.md#姐夫)】`jia3 fv` ① 姐姐的丈夫。<sup>\[东台\]</sup> ② 姐姐的丈夫。<sup>\[泰州\]</sup>  
 1. 【[姐夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_fv.md#姐夫)】`jia3 fv1` <sup>[如东]</sup> 姐姐的丈夫。  
 1. 【[姐姐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_jia.md#姐姐)】`jia3 jia3` ① 同胞和亲戚中同辈而年龄比自己大的女子，称姐姐。根据血缘和亲属关系，分嫡亲姐姐、叔伯姐姐、堂姐姐、表姐姐。<sup>\[如东\]</sup> ② 称呼比自己年长的同辈女子。<sup>\[泰州\]</sup>  
-1. 【[姐䗜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_lieu.md#姐䗜)】`jia3 lieu` ① 蝉科昆虫黑蚱蝉，也称蝉。<sup>\[如东\]</sup> ② 蝉。<sup>\[兴化\]</sup> ③ 蝉。<sup>\[泰县\]</sup> ④ 蝉的俗称。也叫知了。<sup>\[东台\]</sup>  
+1. 【[姐䗜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_lieu.md#姐䗜)】`jia3 lieu` 蝉<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[东台\]</sup>\[如东：黑蚱蝉\]  
 1. 【[姐䗜衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_lieu_i.md#姐䗜衣)】`jia3 lieu i1` <sup>[如东]</sup> 蝉科昆虫黑蚱蝉的壳，又名蝉蜕、蝉衣。  
 1. 【[姐䗜壳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_lieu_kah_r.md#姐䗜壳<sub>儿</sub>)】`jia3 lieu kah7 r` <sup>[泰县]</sup> （中药）蝉衣。  
 1. 【[姐䗜壳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_lieu_kah_zz.md#姐䗜壳子)】`jia3 lieu kah7 zz` <sup>[兴化]</sup> 蝉蜕，可入药。  
-1. 【[姐䗜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_lieu.md#姐䗜)】`jia3 lieu2, jia3 lieu, jia1 lieu2` <sup>[汉语方言大词典]</sup> 蝉  
+1. 【[姐䗜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_lieu.md#姐䗜)】`jia3 lieu2, jia3 lieu0` <sup>[汉语方言大词典]</sup> 蝉  
 1. 【[贾家马家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ga_ma_ga.md#贾家马家)】`jia3 ga ma3 ga` <sup>[兴化]</sup> “贾”“假”同音。意为假的、假装的：我现在～地要杀徐松朋，他一定要跟我争，他一争，我就顺水推舟……（扬一《扬州劫法场》）  
 1. 【[价格](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_geh.md#价格)】`jia5 geh7` <sup>[如东]</sup> 商品价值的货币表现。如1斤黄瓜卖8角钱，8角钱就是黄瓜的价格。  
 1. 【[价昂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ngan.md#价昂)】`jia5 ngan2` <sup>[如皋]</sup> 价格高。  
@@ -567,7 +567,7 @@
 1. 【[犟豆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_teu_r.md#犟豆<sub>儿</sub>)】`jian5 teu6 r` <sup>[如皋]</sup> 倔强的人。又称“戗豆儿”。  
 1. 【[犟爪<sub>儿</sub>瘟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_zho_r_ven.md#犟爪<sub>儿</sub>瘟)】`jian5 zho3 r ven1` <sup>[如皋]</sup> 脾气倔强。  
 1. 【[犟枣<sub>儿</sub>瘟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_zo_r_ven.md#犟枣<sub>儿</sub>瘟)】`jian5 zo3 r ven1` <sup>[如皋]</sup> ① 逆反心理强的脾性，或指人。见“逆性子”。 ② 一种玩具，即陀螺，用鞭子抽，越抽越转得快。  
-1. 【[犟嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_zuei.md#犟嘴)】`jian5 zuei3, qian6 jy3` 顶嘴，回嘴，嘴硬  
+1. 【[犟嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_zuei.md#犟嘴)】`jian5 zuei3, jian5 jy3, qian6 zuei3, qian6 jy3` 顶嘴，回嘴，嘴硬  
 1. 【[糨糊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_hv.md#糨糊)】`jian5 hv2` <sup>[如东]</sup> 用面粉做成可以粘贴东西的糊状物。  
 1. 【[糨手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_sheu.md#糨手)】`jian5 sheu3` <sup>[如东]</sup> 因接触粘黏性物质而把手弄脏了：这些东西很脏，不要你～啊。  
 1. 【[糨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_zz.md#糨子)】`jian5 zz` ① 用糨糊把几层布粘成板块，晒干，这种材料叫做糨子。主要用于做布鞋的鞋底和鞋帮。<sup>\[如东\]</sup> ② 将旧、碎布用薄浆糊糊几层，晒干后的成品，做布鞋用。家中可自制，专糊糨子的人家也有售。<sup>\[如皋\]</sup> ③ 糨糊，用面粉等做成的可以粘贴东西的糊状物。<sup>\[东台\]</sup> ④ 用破布一层一层铺平糊成，专用缝制布鞋底的东西。<sup>\[泰县\]</sup>  
@@ -910,7 +910,7 @@
 1. 【[紧冻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_don.md#紧冻)】`jien3 don5` <sup>[兴化]</sup> 冬天连刮西北风，气温骤降，风停后河面封冻：风一停就～。  
 1. 【[紧房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_fan.md#紧房)】`jien3 fan2` <sup>[如皋]</sup> 同祖亲属，即“堂”。  
 1. 【[紧隔壁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_geh_bieh.md#紧隔壁)】`jien3 geh7 bieh7` ① 紧邻。<sup>\[如皋\]</sup> ② 指并列的房屋之间<sup>\[兴化\]</sup>：“都头不消访问，王婆在～住，只问王婆就知了。”（《金瓶梅词话》九）<sup>\[兴化\]</sup>  
-1. 【[紧佮佮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_guh_guh.md#紧佮佮)】`jien3 guh7 guh7` ① 形容很紧凑\[兴化：（jien3 geh7 geh7）\]：他家住啊三间一厨房，～的。<sup>\[兴化\]</sup> ② 松紧正好。<sup>\[泰县\]</sup>  
+1. 【[紧佮佮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_guh_guh.md#紧佮佮)】`jien3 guh7(xh:geh7) guh7(xh:geh7)` ① 形容很紧凑<sup>\[兴化\]</sup>：他家住啊三间一厨房，～的。<sup>\[兴化\]</sup> ② 松紧正好。<sup>\[泰县\]</sup>  
 1. 【[紧佮佮的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_guh_guh_dii.md#紧佮佮的)】`jien3 guh7 guh7 dii` <sup>[东台]</sup> 两物相合，缝隙很小：这双皮鞋穿吖脚上～。  
 1. 【[紧揖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_ieh.md#紧揖)】`jien3 ieh` <sup>[如东]</sup> 紧束：这种衣服穿吖身上～。  
 1. 【[紧脚鞋子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_jiah_hae_zz.md#紧脚鞋子)】`jien3 jiah hae2 zz` <sup>[兴化]</sup> 犹小鞋：你向他提意见，他背后弄个～把你穿穿。  
@@ -1634,7 +1634,7 @@
 1. 【[锯口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_keu.md#锯口)】`jy5 keu3` ① 锯齿处。<sup>\[如东\]</sup> ② 下锯的部位。<sup>\[如东\]</sup> ③ 锯下来的脚料。<sup>\[如皋\]</sup>  
 1. 【[锯木屑<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_moh_xiuh_r.md#锯木屑<sub>儿</sub>)】`jy5 moh8 xiuh7 r` <sup>[如皋]</sup> 比喻初学拉胡琴，声音嘶哑难听。  
 1. 【[锯匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_qian.md#锯匠)】`jy5 qian` <sup>[泰州]</sup> 以拉锯解析木头为职业的工匠：现在的木料全部用电锯，～望不到唻。  
-1. 【[锯匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_qian.md#锯匠)】`jy5 qian6` 旧指拉锯剖原木、解木方、木板的工人。这项工作今已由机械取代。<sup>\[兴化\]</sup>\[如皋：（jy5 qian）\]  
+1. 【[锯匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_qian.md#锯匠)】`jy5 qian6(rg:0)` 旧指拉锯剖原木、解木方、木板的工人。这项工作今已由机械取代。<sup>\[兴化\]</sup><sup>\[如皋\]</sup>  
 1. 【[锯屑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_xiuh.md#锯屑)】`jy5 xiuh7` <sup>[兴化]</sup> 锯竹、木等掉的细末。  
 1. 【[锯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_zz.md#锯子)】`jy5 zz` <sup>[如东]</sup> 工具。长条形，金属制，一边有齿。用以切割木材、钢材等材料。  
 1. 【[䂐䂐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jyeh_jyeh_r.md#䂐䂐<sub>儿</sub>)】`jyeh7 jyeh r` <sup>[如皋]</sup> 短：她穿的一件短～衣裳，总遮不到肚脐眼儿；短～的尾巴。jyeh7是zhueh7的口语音。  

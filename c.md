@@ -13,7 +13,7 @@
 1. 【[才不轻哎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_beh_qien_ngae.md#才不轻哎)】`cae2 beh7 qien1 ngae` <sup>[东台]</sup> （口头禅）表示惊讶或否定，意思是哪有这样：你说我年收入有十万？～，一半都不到！  
 1. 【[才调<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_dio_r.md#才调<sub>儿</sub>)】`cae2 dio5 r` <sup>[兴化]</sup> ① 才情：“……我必定要拣一个绝好的人物，模样儿，～，性情儿，一件也少不得……”（《广陵潮》七） ② 牙齿的隐语，有人早晨忌说“牙”字，则以～代之。  
 1. 【[才间](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_gaen.md#才间)】`cae2 gaen1` 刚才<sup>\[泰县\]</sup><sup>\[泰州\]</sup>：他～就走啊。<sup>\[泰县\]</sup>｜老王～过来寻你的，你正好出去啊。<sup>\[泰州\]</sup>  
-1. 【[才刚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_gan.md#才刚)】`cae2 gan1` 刚才<sup>\[兴化\]</sup><sup>\[泰兴t͡ɕʰiɛ2 kɑŋ1\]</sup>  
+1. 【[才刚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_gan.md#才刚)】<p>`cae2 gan1` /t͡ɕʰiɛ2 kɑŋ1/<sup>泰兴</sup></p> 刚才<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>  
 1. 【[才好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_ho.md#才好)】`cae2 ho3` <sup>[兴化]</sup> ① 表示对某件事物的强调：中午车流高峰，小学生放学有家长接下子～哩！ ② 表幸灾乐祸的语气：～，不听老人言，出事啊吧？  
 1. 【[才央<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_ian_r.md#才央<sub>儿</sub>)】`cae2 ian1 r` <sup>[东台]</sup> “才将”的轻读，刚才。  
 1. 【[才将](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_jian.md#才将)】`cae2 jian1` <sup>[东台]</sup> 刚才：他～还在这块的，不曾走远。  
@@ -339,7 +339,7 @@
 1. 【[茶壶打掉把子——落个嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_hv_da_tio_ba_zz_lah_gu_jy.md#茶壶打掉把子——落个嘴)】`cha2 hv2 da3 tio ba5 zz lah8 gu jy3` <sup>[东台]</sup>   
 1. 【[茶壶里的水——滚开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_hv_lii_dii_shuei_guen_kae.md#茶壶里的水——滚开)】`cha2 hv2 lii dii shuei3 guen3 kae1` <sup>[东台]</sup>   
 1. 【[茶壶<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_hv_r.md#茶壶<sub>儿</sub>)】`cha2 hv2 r` <sup>[如皋]</sup> 供单人对着嘴子饮茶的壶。  
-1. 【[茶壶下饺——有货倒（道）不出](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_hv_xia_jio_ieu_hu_do_beh_chueh.md#茶壶下饺——有货倒（道）不出)】`cha2 hv2 xia6 jio3 ieu3 hu5 do5 （to6） beh7 chueh7` <sup>[东台]</sup>   
+1. 【[茶壶下饺——有货倒不出](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_hv_xia_jio_ieu_hu_do_beh_chueh.md#茶壶下饺——有货倒不出)】`cha2 hv2 xia6 jio3 ieu3 hu5 do5 beh7 chueh7` <sup>[东台]</sup>   
 1. 【[茶叶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ih.md#茶叶)】`cha2 ih8` 茶叶  
 1. 【[茶叶茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ih_cha.md#茶叶茶)】`cha2 ih8 cha2` ① 放了茶叶的开水，即普通话所说的茶水。单独说茶指白开水。 ② 茶叶泡的茶，因泰如称喝水为喝茶，故有茶（开水）、茶叶茶、炒米茶等说法。<sup>\[如皋\]</sup>  
 1. 【[茶叶罐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ih_gun_r.md#茶叶罐<sub>儿</sub>)】`cha2 ih8 gun5 r` <sup>[如皋]</sup> 见“茶叶瓶”。  
@@ -443,7 +443,7 @@
 1. 【[岔头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_teu.md#岔头)】`cha5 teu2` ① 分枝<sup>\[如东\]</sup> ② 比喻出现新的问题。<sup>\[如东\]</sup> ③ 分蘖<sup>\[如皋\]</sup>：小麦～。<sup>\[如皋\]</sup> ④ 侧枝、分枝<sup>\[如皋\]</sup>：桑树长出～。<sup>\[如皋\]</sup>  
 1. 【[岔头官司](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_teu_gun_sz.md#岔头官司)】`cha5 teu2 gun1 sz1` ① 纠缠枝节问题。<sup>\[如东\]</sup>：不要打～。<sup>\[如东\]</sup> ② 横生枝节；一事来了，又缠到另一是非矛盾中<sup>\[东台\]</sup>：这事还未了结，你不要来打～。<sup>\[东台\]</sup> ③ 在审理某一案件时，出现其他诉讼事由或其他当事人<sup>\[兴化\]</sup>：打～。<sup>\[兴化\]</sup> ④ （喻）意外地插进新问题，使事情变得更复杂<sup>\[兴化\]</sup>：“你快走，免得又出一个～！”（马春阳《谁是妻子》）<sup>\[兴化\]</sup> ⑤ 纠缠枝节问题：谈正经事，不能打～。<sup>\[泰县\]</sup>  
 1. 【[岔心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_xien.md#岔心)】`cha5 xien1` <sup>[泰县]</sup> 分散注意力。  
-1. 【[岔枝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_zhr.md#岔枝)】`cha5 zhr1` ① 分枝。<sup>\[如东\]</sup> ② 比喻由一个问题引申出另一个问题。<sup>\[如东\]</sup>：王明一来就出咖～。<sup>\[如东\]</sup> ③ 谓节外生枝。<sup>\[泰兴t͡sʰa5 t͡sɿ1\]</sup>  
+1. 【[岔枝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_zhr.md#岔枝)】<p>`cha5 zhr1` /t͡sʰa5 t͡sɿ1/<sup>泰兴</sup></p> ① 分枝。<sup>\[如东\]</sup> ② 比喻由一个问题引申出另一个问题。<sup>\[如东\]</sup>：王明一来就出咖～。<sup>\[如东\]</sup> ③ 谓节外生枝。<sup>\[泰兴\]</sup>  
 1. 【[岔枝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_zhr_r.md#岔枝<sub>儿</sub>)】`cha5 zhr1 r` ① 长出的分枝。<sup>\[如皋\]</sup> ② 树木的分枝<sup>\[兴化\]</sup>：打～。<sup>\[兴化\]</sup> ③ （喻）节外生枝<sup>\[兴化\]</sup>：合作的条款谈得好好的，想不到又生～。<sup>\[兴化\]</sup>  
 1. 【[岔嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_zuei.md#岔嘴)】`cha5 zuei3, cha5 jy3` <sup>[如东]</sup> 插话：他说话，你不要～。  
 1. 【[岔嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_zuei.md#岔嘴)】`cha5 zuei3` <sup>[泰兴]</sup> 插话，多嘴。  
@@ -660,16 +660,16 @@
 1. 【[唱独脚戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_toh_jiah_xi.md#唱独脚戏)】`chan5 toh8 jiah7 xi5` <sup>[东台]</sup> ［喻］一个人独自做某事。  
 1. 【[唱小戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_xio_xi.md#唱小戏)】`chan5 xio3 xi5` <sup>[泰县]</sup> 指除京剧外的其他地方剧种。  
 1. 【[唱主角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_zhv_gah.md#唱主角)】`chan5 zhv3 gah7` <sup>[东台]</sup> ［喻］担负主要任务或起主导作用：这个课题由你来～。  
-1. 【[丈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan.md#丈)】`chan6` 量词，计量尿次<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰兴t͡sʰɑŋ1\]</sup>：一～尿。<sup>\[兴化\]</sup>｜上午他才屙啊一～尿。<sup>\[泰县\]</sup>  
+1. 【[丈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan.md#丈)】<p>`chan6` /t͡sʰɑŋ1/<sup>泰兴</sup></p> 量词，计量尿次<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>：一～尿。<sup>\[兴化\]</sup>｜上午他才屙啊一～尿。<sup>\[泰县\]</sup>  
 1. 【[丈尺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_cheh.md#丈尺)】`chan6 cheh7` <sup>[如东]</sup> 测量土地的一种工具。有丈杆和弓尺两种。  
 1. 【[丈二的和尚——摸不着头脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_er_dii_hu_shan_mah_beh_chah_teu_no.md#丈二的和尚——摸不着头脑)】`chan6 er6 dii hu2 shan mah8 beh7 chah8 teu2 no3` <sup>[东台]</sup>   
-1. 【[丈杆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_gun.md#丈杆)】`chan6 gun` ① 一根木杆或竹竿，用来丈量土地。也叫丈尺。<sup>\[如东\]</sup> ② 很长的大木尺。<sup>\[泰兴t͡sʰɑŋ1 kʊ̃\]</sup>  
+1. 【[丈杆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_gun.md#丈杆)】<p>`chan6 gun` /t͡sʰɑŋ1 kʊ̃/<sup>泰兴</sup></p> ① 一根木杆或竹竿，用来丈量土地。也叫丈尺。<sup>\[如东\]</sup> ② 很长的大木尺。<sup>\[泰兴\]</sup>  
 1. 【[丈量](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_lian.md#丈量)】`chan6 lian2` <sup>[泰兴]</sup> 测量  
-1. 【[丈母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_mu.md#丈母)】`chan6 mu` 妻子的母亲；岳母。<sup>\[如东\]</sup><sup>\[泰兴t͡sʰɑŋ1 mɤɯ\]</sup>\[东台：也称丈母娘\]  
+1. 【[丈母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_mu.md#丈母)】<p>`chan6 mu` /t͡sʰɑŋ1 mɤɯ/<sup>泰兴</sup></p> 妻子的母亲；岳母。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>\[东台：也称丈母娘\]  
 1. 【[丈母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_mu.md#丈母)】`chan6 mu` <sup>[泰州]</sup> 岳母，妻子的母亲。  
 1. 【[丈母见女婿，拿刀杀母鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_mu_jin_ny.md#丈母见女婿，拿刀杀母鸡)】`chan6 mu jin5 ny3 xy na2 do1 shaeh7 mu3 ji` <sup>[泰兴]</sup> 乡谚。谓岳母对女婿非常喜欢，连自己最心爱的东西都舍得（给他）。  
 1. 【[丈母娘看女婿——越看越欢喜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_mu_nian_kun_ny_xy_iuh_kun_iuh_hun_xi.md#丈母娘看女婿——越看越欢喜)】`chan6 mu3 nian2 kun5 ny3 xy5 iuh8 kun5 iuh8 hun1 xi3` <sup>[东台]</sup>   
-1. 【[丈人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_ren.md#丈人)】`chan6 ren` 妻子的父亲；岳父。<sup>\[如东\]</sup><sup>\[泰兴t͡sʰɑŋ1 ɻə̃\]</sup>\[东台：也称丈人佬儿\]  
+1. 【[丈人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_ren.md#丈人)】<p>`chan6 ren` /t͡sʰɑŋ1 ɻə̃/<sup>泰兴</sup></p> 妻子的父亲；岳父。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>\[东台：也称丈人佬儿\]  
 1. 【[丈人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_ren.md#丈人)】`chan6 ren` <sup>[泰州]</sup> 岳父，妻子的父亲。  
 1. 【[仗义](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_i.md#仗义)】`chan6 i6` ① 依靠或讲究义气。<sup>\[如东\]</sup> ② 讲义气\[东台：(zhan5 i5)\]：你这个人～，朋友有难都肯帮一把。<sup>\[东台\]</sup>  
 1. 【[仗势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_shr.md#仗势)】`chan6 shr5` <sup>[如东]</sup> 依靠别人的势力：～欺人。  
@@ -912,7 +912,7 @@
 1. 【[㵾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen.md#㵾)】`chen6` \[训\]使（人）觉冷<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：～人｜冰～人｜手伸吖冻水里，骨头～得疼。<sup>\[如皋\]</sup>｜被窠里蛮～人的。<sup>\[兴化\]</sup>｜这盆水冰～人的。<sup>\[兴化\]</sup>｜九里天下河去洗被单，还把人～煞唻。<sup>\[泰州\]</sup>  
 1. 【[㵾牙齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_ia_chr.md#㵾牙齿)】`chen6 ia2 chr3` <sup>[东台]</sup> 食物偏冷，牙齿咀嚼时有冷的感觉。  
 1. 【[㵾人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_ren_zz.md#㵾人子)】`chen6 ren zz` <sup>[如皋]</sup> 接触冷物的感觉：冷天，手摸咖石头上觉察～。  
-1. 【[㵾人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_ren.md#㵾人)】`chen6 ren2` 物体温度低，使人触及后有冷刺激的感觉<sup>\[东台\]</sup>\[泰县：（chen6 ren）\]\[泰州：（chen6 ren）\]：你手太冷，～吖。<sup>\[东台\]</sup>｜晚上睡觉的时候，被单里头～的话，你就加个汤焐子。<sup>\[泰州\]</sup>｜这吖冷的天，水再冷～也要洗。<sup>\[泰州\]</sup>  
+1. 【[㵾人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_ren.md#㵾人)】`chen6 ren2(tx,txe:0)` 物体温度低，使人触及后有冷刺激的感觉<sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：你手太冷，～吖。<sup>\[东台\]</sup>｜晚上睡觉的时候，被单里头～的话，你就加个汤焐子。<sup>\[泰州\]</sup>｜这吖冷的天，水再冷～也要洗。<sup>\[泰州\]</sup>  
 1. 【[阵场雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_chan_y.md#阵场雨)】`chen6 chan y3` <sup>[如皋]</sup> 见“阵头雨”。  
 1. 【[阵场雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_chan_y.md#阵场雨)】`chen6 chan2 y3` ① 雷阵雨。<sup>\[如东\]</sup> ② 夏秋季节短暂的骤雨。<sup>\[东台\]</sup>  
 1. 【[阵阵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_chen.md#阵阵)】`chen6 chen6` <sup>[如皋]</sup> 见“阵头”。  
@@ -1239,7 +1239,7 @@
 1. 【[䟲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon.md#䟲)】`chon5` ① 喻白送<sup>\[如皋\]</sup>：出～（打牌术语：送给别人成了）<sup>\[如皋\]</sup>｜买呀～掉啊。<sup>\[如皋\]</sup> ② 扒窃<sup>\[泰县\]</sup><sup>\[泰州\]</sup>：钱被～去啊啦。<sup>\[泰县\]</sup>｜就是适才同你寻统手的辰光，我一时忘却锁门，不意竟被他乘空～了一只枕箱去。（《冷眼观》）<sup>\[泰州\]</sup>｜就在我们船主面前扯了一个大谎，说是有几百块洋钱，在本船上遇铳手～去了，请船主喊买办来替他查查看。（《冷眼观》）<sup>\[泰州\]</sup>｜她身上的钱包在火车站捱小偷～吖走啊。<sup>\[泰州\]</sup>  
 1. 【[冲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon.md#冲)】`chon5` ① 用言语訩人。<sup>\[如东\]</sup>：你不要～人。<sup>\[如东\]</sup> ② 刺激<sup>\[如皋\]</sup>：酒气～人子。<sup>\[如皋\]</sup> ③ 愤激而不冷静<sup>\[如皋\]</sup>：一～之性。如皋词典写上声。<sup>\[如皋\]</sup> ④ 以言触人<sup>\[如皋\]</sup>：一个喷嚏把他～吖多远。<sup>\[如皋\]</sup> ⑤ 除一般释义外，与“噌”同义<sup>\[东台\]</sup>：再啰唆，别怪我～吖你。<sup>\[东台\]</sup> ⑥ 顶撞。<sup>\[兴化\]</sup>：你再啰唆，覅怪我～吖你！<sup>\[兴化\]</sup>｜他现在脾气坏，动不动就～人。<sup>\[兴化\]</sup>  
 1. 【[冲床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_chuan.md#冲床)】`chon5 chuan2` <sup>[如东]</sup> 用冲压方法使金属板成形或在金属板上冲孔的加工机床。也叫冲压床或压力机。  
-1. 【[冲你（他）个万斤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_nii_gu_vaen_jien.md#冲你（他）个万斤)】`chon5 nii3 （ta1） gu vaen6 jien1` <sup>[东台]</sup> 狠狠地冲（回击）对方。  
+1. 【[冲你（他）个万斤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_nii_gu_vaen_jien.md#冲你（他）个万斤)】`chon5 nii3（ta1） gu vaen6 jien1` <sup>[东台]</sup> 狠狠地冲（回击）对方。  
 1. 【[冲人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_ren_zz.md#冲人子)】`chon5 ren zz` <sup>[如皋]</sup> 见“冲头”。如皋词典写上声。  
 1. 【[冲人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_ren.md#冲人)】`chon5 ren2` ① 呛鼻子。<sup>\[如东\]</sup>：打开酒瓶，酒气～。<sup>\[如东\]</sup> ② 顶撞人。<sup>\[泰县\]</sup>  
 1. 【[冲人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_ren.md#冲人)】`chon5 ren2` <sup>[泰州]</sup> 大声训斥他人：老钱好～，你同他说话注意点儿。  
@@ -1316,7 +1316,7 @@
 1. 【[痴盼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_paen.md#痴盼)】`chr1 paen5` <sup>[泰县]</sup> 呆看，像个痴子：他紧吖站吖那块望，像个～。  
 1. 【[痴病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_pien.md#痴病)】`chr1 pien6` <sup>[兴化]</sup> 形容人沉缅于情感或对某一事物的过度迷恋：原来宝玉自幼生成来的有一种下流～……那黛玉偏生也是个有些～的……（《红楼梦》二九）  
 1. 【[痴脬肚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_po_dv_r.md#痴脬肚<sub>儿</sub>)】`chr1 po1 dv3 r` <sup>[如皋]</sup> ① 腹部松驰隆起的样子。 ② 腰椎前曲畸形。  
-1. 【[痴婆娘等汉，越等越暗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_pu_nian_den_hun_iuh_den_iuh_un.md#痴婆娘等汉，越等越暗)】`chr1 pu2 nian2 den3 hun5，iuh8 den3 iuh8 un5` <sup>[如皋]</sup> 喻久等无果。  
+1. 【[痴婆娘等汉，越等越暗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_pu_nian_den_hun_iuh_den_iuh_un.md#痴婆娘等汉，越等越暗)】`chr1 pu2 nian2 den3 hun5 iuh8 den3 iuh8 un5` <sup>[如皋]</sup> 喻久等无果。  
 1. 【[痴青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_qien.md#痴青)】`chr1 qien1` ① 植物生长期过了又长出青苗，称痴青。<sup>\[如东\]</sup>：已经立冬，稻田里还在下～。<sup>\[如东\]</sup> ② 植物因施肥过量，光长绿叶很少结果，或叶子迟迟不落。<sup>\[东台\]</sup> ③ 由于施肥不当，土壤过肥，造成作物茎叶旺长，秀而不实。也称“恋青”。<sup>\[兴化\]</sup> ④ 农作物过期未成熟。<sup>\[泰县\]</sup>  
 1. 【[痴青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_qien.md#痴青)】`chr1 qien1` <sup>[泰州]</sup> ① （泰州词典作滞青） ② 农业术语，因施肥过度导致水稻茎叶呈深绿色而不灌浆。  
 1. 【[痴情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_qien.md#痴情)】`chr1 qien2` <sup>[如东]</sup> 痴心的爱情。  
@@ -1525,7 +1525,7 @@
 1. 【[出气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chueh_qi.md#出气)】`chueh7 qi5` ① 把心中的怨气发泄出来。<sup>\[如东\]</sup>：让她出～。<sup>\[如东\]</sup> ② 呼气。<sup>\[如皋\]</sup> ③ 发泄恼怒之气。<sup>\[如皋\]</sup>  
 1. 【[出气袋<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chueh_qi_tae_r.md#出气袋<sub>儿</sub>)】`chueh7 qi5 tae6 r` <sup>[如皋]</sup> ① 见“受气袋儿”。 ② 见“出气筒”。  
 1. 【[出气筒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chueh_qi_ton.md#出气筒)】`chueh7 qi5 ton3` ① 比喻无故受气的人。<sup>\[如东\]</sup>：不要把我当成～。<sup>\[如东\]</sup> ② 喻无辜受气的人<sup>\[如皋\]</sup>：他在外头吃咖人家的货，家去就拿妈妈儿做～。<sup>\[如皋\]</sup> ③ ［喻］用来发泄怒气的人<sup>\[东台\]</sup>：小刘简直成吖他的～。<sup>\[东台\]</sup>  
-1. 【[出人情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chueh_ren_qien.md#出人情)】`chueh7 ren2 qien2` ① 在正常的人情往来中给别人送礼。<sup>\[东台\]</sup> ② 送礼贺亲友喜事<sup>\[泰兴t͡sʰuəʔ7 ɻə̃2 t͡ɕʰiŋ2\]</sup>  
+1. 【[出人情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chueh_ren_qien.md#出人情)】<p>`chueh7 ren2 qien2` /t͡sʰuəʔ7 ɻə̃2 t͡ɕʰiŋ2/<sup>泰兴</sup></p> ① 在正常的人情往来中给别人送礼。<sup>\[东台\]</sup> ② 送礼贺亲友喜事<sup>\[泰兴\]</sup>  
 1. 【[出生出世](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chueh_shen_chueh_shr.md#出生出世)】`chueh7 shen1 chueh7 shr5` <sup>[兴化]</sup> 有生以来：我生长在城市，～不曾吃过这吖鲜的桂鱼汤。  
 1. 【[出神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chueh_shen.md#出神)】`chueh7 shen2` <sup>[如东]</sup> 因精神过度集中而发呆：她看吖～。  
 1. 【[出手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chueh_sheu.md#出手)】`chueh7 sheu3` ① 衣袖的长度。<sup>\[如东\]</sup>：这件褂子的～是多少？<sup>\[如东\]</sup> ② 动手打人。<sup>\[如东\]</sup>：王二已经～。<sup>\[如东\]</sup> ③ 衣袖和长度。<sup>\[如皋\]</sup> ④ 应酬交往的数额<sup>\[如皋\]</sup>：他～大，一拿就是一千块。<sup>\[如皋\]</sup> ⑤ 开始做某件事情时表现出的特点<sup>\[东台\]</sup>：～不凡。<sup>\[东台\]</sup> ⑥ 从手里拿出<sup>\[东台\]</sup>：他向来做事豪爽，二～就是千把块。<sup>\[东台\]</sup> ⑦ 动手<sup>\[东台\]</sup>：有真功夫的人轻易不～。<sup>\[东台\]</sup>  

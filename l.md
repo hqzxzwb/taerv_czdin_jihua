@@ -261,7 +261,7 @@
 1. 【[赖学](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_xiah.md#赖学)】`lae6 xiah8` ① 不愿去学校读书。也叫逃学。<sup>\[如东\]</sup> ② 逃学。<sup>\[东台\]</sup>  
 1. 【[赖学宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_xiah_bo.md#赖学宝)】`lae6 xiah8 bo3` 逃学的孩子  
 1. 【[赖学宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_xiah_bo_r.md#赖学宝<sub>儿</sub>)】`lae6 xiah8 bo3 r` <sup>[如东]</sup> 不愿意上学的孩子。  
-1. 【[赖尿、赖㞎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_xy_lae_ba.md#赖尿、赖㞎)】`lae6 xy1，lae6 ba3` <sup>[如皋]</sup> 端着小孩排大小便，小孩哭闹。  
+1. 【[赖尿、赖㞎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_xy_lae_ba.md#赖尿、赖㞎)】`lae6 xy1 lae6 ba3` <sup>[如皋]</sup> 端着小孩排大小便，小孩哭闹。  
 1. 【[赖着花<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_zhah_hua_r.md#赖着花<sub>儿</sub>)】`lae6 zhah7 hua1 r` <sup>[东台]</sup> 几乎，勉勉强强；这孩子七虚岁，～够到上学年龄。  
 1. 【[赖账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_zhan.md#赖账)】`lae6 zhan5` <sup>[如东]</sup> 不承认自己欠下的账目。  
 1. 【[赖澡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_zo.md#赖澡)】`lae6 zo3` <sup>[如皋]</sup> 小孩哭闹，怕洗澡。  
@@ -1415,7 +1415,7 @@
 1. 【[了败星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_pae_xien.md#了败星)】`lio3 pae6 xien1` <sup>[如东]</sup> 挥霍无度、不聚钱财的人。  
 1. 【[了薄小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_pah_xio.md#了薄小)】`lio3 pah8 xio3` <sup>[泰县]</sup> 最后一名。  
 1. 【[了期](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_qi.md#了期)】`lio3 qi1` <sup>[兴化]</sup> 事情完结的日子：“……我才说是这一案欠命的案定了，还有别的案子呢！我知道哪天是～……”（《老残游记》二·七）  
-1. 【[了手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_sheu.md#了手)】`lio3 sheu3` 办完；了结。<sup>\[东台\]</sup><sup>\[泰兴liɔ3 ɕiɤɯ3\]</sup><sup>\[兴化\]</sup>：如果不快刀斩乱麻，箇桩事没得～。<sup>\[泰兴\]</sup>｜张家的活计还有三天～。<sup>\[兴化\]</sup>｜“……我又不是个丫头，把我关在家里，何日是个～……”（《红楼梦》四八）<sup>\[兴化\]</sup>  
+1. 【[了手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_sheu.md#了手)】<p>`lio3 sheu3` /liɔ3 ɕiɤɯ3/<sup>泰兴</sup></p> 办完；了结。<sup>\[东台\]</sup><sup>\[泰兴\]</sup><sup>\[兴化\]</sup>：如果不快刀斩乱麻，箇桩事没得～。<sup>\[泰兴\]</sup>｜张家的活计还有三天～。<sup>\[兴化\]</sup>｜“……我又不是个丫头，把我关在家里，何日是个～……”（《红楼梦》四八）<sup>\[兴化\]</sup>  
 1. 【[了首尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_sheu_vei.md#了首尾)】`lio3 sheu3 vei3` ① 指完成对子女的责任。<sup>\[东台\]</sup> ② 给儿女办完婚事<sup>\[兴化\]</sup>：我还有小儿子结婚一桩大事，就全部～啊。<sup>\[兴化\]</sup> ③ 完成了培育子女的事。<sup>\[泰县\]</sup>  
 1. 【[了微<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_vei_r.md#了微<sub>儿</sub>)】`lio3 vei2 r` <sup>[如东]</sup> 稍微：～晚点。  
 1. 【[了戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_xi.md#了戏)】`lio3 xi5` <sup>[兴化]</sup> ① 完了：～！皮五辣子今日是非打肉不可了……（扬说《皮五辣子打肉》三） ② “死”的隐语：老王三～啊。  
@@ -2358,5 +2358,5 @@
 1. 【[䓞草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_co.md#䓞草)】`ly6 co3` <sup>[如皋]</sup> 狼尾草。另见“扎草”。  
 1. 【[泪斑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_baen.md#泪斑)】`ly6 baen1` <sup>[如皋]</sup> 泪水干后的痕迹。  
 1. 【[累伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_nga_r.md#累伢<sub>儿</sub>)】`ly6 nga2 r` <sup>[如皋]</sup> 指哺育小孩的劳累过程。又叫“过伢儿关”。  
-1. 【[鑢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly.md#鑢)】`ly6` ① 用钝器磨、制\[兴化：（ly5）\]：在墙角上把麻绳～断。（《说文·金部》）“～，错铜铁也。”良据切。<sup>\[兴化\]</sup> ② 划破<sup>\[泰县\]</sup>：草把他的手～开来啊。<sup>\[泰县\]</sup>  
+1. 【[鑢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly.md#鑢)】`ly6(xh:5)` ① 用钝器磨、制<sup>\[兴化\]</sup>：在墙角上把麻绳～断。（《说文·金部》）“～，错铜铁也。”良据切。<sup>\[兴化\]</sup> ② 划破<sup>\[泰县\]</sup>：草把他的手～开来啊。<sup>\[泰县\]</sup>  
 **[▲](#音序检索)**  

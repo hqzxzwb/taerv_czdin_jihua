@@ -198,7 +198,7 @@
 1. 【[作躁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_zo.md#作躁)】`zah7 zo5` ① 着急。<sup>\[东台\]</sup> ② 急躁不安。<sup>\[如东\]</sup>：他相吖房子要倒，心里～。<sup>\[如东\]</sup> ③ 着急。<sup>\[泰县\]</sup> ④ 着急：你不要～。<sup>\[泰县\]</sup>  
 1. 【[脏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zan.md#脏)】`zan1` <sup>[如皋]</sup> ① 肮脏。 ② 隐指月经来潮：身上～吖。  
 1. 【[脏巴擸𢶍的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zan_ba_laeh_saeh_dii.md#脏巴擸𢶍的)】`zan1 ba laeh8 saeh7 dii` <sup>[东台]</sup> 形容某物很不清爽且污染环境的状况。  
-1. 【[脏巴邋遢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zan_ba_laeh_taeh.md#脏巴邋遢)】`zan1 ba laeh8 taeh` 污糟、很脏的样子。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰兴t͡sɑŋ1 pa lɛʔ8 tʰɛʔ\]</sup>  
+1. 【[脏巴邋遢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zan_ba_laeh_taeh.md#脏巴邋遢)】<p>`zan1 ba laeh8 taeh` /t͡sɑŋ1 pa lɛʔ8 tʰɛʔ/<sup>泰兴</sup></p> 污糟、很脏的样子。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
 1. 【[脏巴邋遢的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zan_ba_laeh_taeh_dii.md#脏巴邋遢的)】`zan1 ba laeh8 taeh7 dii` <sup>[东台]</sup> 形容非常肮脏的状况。  
 1. 【[脏巴巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zan_ba_ba.md#脏巴巴)】`zan1 ba1 ba1` <sup>[兴化]</sup> 形容肮脏不洁的样子：满身～的还不去洗洗。  
 1. 【[脏话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zan_hua.md#脏话)】`zan1 hua6` <sup>[东台]</sup> 下流的、不文明的话。  
@@ -651,7 +651,7 @@
 1. 【[只将](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_jian.md#只将)】`zheh7 jian` <sup>[兴化]</sup> ① 尽管：你有话～说，覅有顾虑。 ② 不停地：他在跟前～转来转去，烦煞咖！  
 1. 【[只将](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_jian.md#只将)】`zheh7 jian5` <sup>[东台]</sup> 一个劲地、连续不断地做某事：小孩抓到好吃的～吃。  
 1. 【[只究](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_jieu.md#只究)】`zheh7 jieu5` <sup>[泰县]</sup> 一直：他～说个不停。  
-1. 【[只叫个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_jio_gu.md#只叫个)】`zheh7 jio5 gu` 真正、实在、的确<sup>\[如东\]</sup><sup>\[泰县\]</sup><sup>\[如皋\]</sup><sup>\[泰兴t͡səʔ7 t͡ɕiɔ5 kɤɯ\]</sup>：王二扎的兔儿灯～好（就是好，非常好）。<sup>\[如东\]</sup>｜他跑得～快，你难跟得上。<sup>\[泰县\]</sup>｜～好、～值钱、～灵光、西北风～吹人子、他～狠。<sup>\[如皋\]</sup>｜今朝箇些菜～开味。<sup>\[泰兴\]</sup>  
+1. 【[只叫个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_jio_gu.md#只叫个)】<p>`zheh7 jio5 gu` /t͡səʔ7 t͡ɕiɔ5 kɤɯ/<sup>泰兴</sup></p> 真正、实在、的确<sup>\[如东\]</sup><sup>\[泰县\]</sup><sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：王二扎的兔儿灯～好（就是好，非常好）。<sup>\[如东\]</sup>｜他跑得～快，你难跟得上。<sup>\[泰县\]</sup>｜～好、～值钱、～灵光、西北风～吹人子、他～狠。<sup>\[如皋\]</sup>｜今朝箇些菜～开味。<sup>\[泰兴\]</sup>  
 1. 【[只看见强盗吃肉，看不见强盗受罪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_kun_jin_qian_to_qieh_roh_kun_beh_jin_qian_to_sheu_qy.md#只看见强盗吃肉，看不见强盗受罪)】`zheh7 kun5 jin5 qian2 to qieh7 roh8 kun5 beh7 jin5 qian2 to sheu6 qy6` <sup>[如皋]</sup> 俗语。  
 1. 【[只飘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_pio.md#只飘)】`zheh7 pio1` <sup>[如皋]</sup> 一直不断地飘动：风筝断吖线，在天上～。  
 1. 【[只是](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_shr.md#只是)】`zheh7 shr6` <sup>[如皋]</sup> 连续不断地。  
@@ -2095,7 +2095,7 @@
 1. 【[子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz.md#子)】`zz3` <sup>[东台]</sup> ① “地支”第一位。 ② 某些词的后缀（“子”轻读）：桌～/攮～/铅角～（硬币）/小胖～。  
 1. 【[子帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_ban.md#子帮)】`zz3 ban1` <sup>[如东]</sup> 帆船大帮上边的横木，用于收拢船帮以及坐人。  
 1. 【[子肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_chan.md#子肠)】`zz3 chan2` ① 输卵管。也称“儿肠”。<sup>\[兴化\]</sup> ② 见“儿肠”。<sup>\[兴化\]</sup>  
-1. 【[子侄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_chih.md#子侄)】`zz3 chih8` 泛指年轻后辈。<sup>\[泰兴t͡sɿ3 t͡ɕʰɪʔ8\]</sup>：～兴旺<sup>\[泰兴\]</sup>  
+1. 【[子侄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_chih.md#子侄)】<p>`zz3 chih8` /t͡sɿ3 t͡ɕʰɪʔ8/<sup>泰兴</sup></p> 泛指年轻后辈。<sup>\[泰兴\]</sup>：～兴旺<sup>\[泰兴\]</sup>  
 1. 【[子窗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_chuan.md#子窗)】`zz3 chuan1` <sup>[如东]</sup> 窗框内部可以开关的扇窗。  
 1. 【[子窗帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_chuan_ban.md#子窗帮)】`zz3 chuan1 ban1` <sup>[如东]</sup> 子窗两边的竖梁。  
 1. 【[子窗档头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_chuan_dan_teu.md#子窗档头)】`zz3 chuan1 dan5 teu2` <sup>[如东]</sup> 子窗上下两头的横木。上边的称上档头，下边的称下档头。  
@@ -2104,18 +2104,18 @@
 1. 【[子嗣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_cz.md#子嗣)】`zz3 cz2` <sup>[如皋]</sup> 后代。  
 1. 【[子虾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_ha.md#子虾)】`zz3 ha1-3` <sup>[东台]</sup> 端午节前尚未排卵的河虾。  
 1. 【[子檐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_in.md#子檐)】`zz3 in2` <sup>[如皋]</sup> 向外延伸而叠接的术椽屋檐，殿堂可常见到。  
-1. 【[子鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_ji.md#子鸡)】`zz3 ji1` 可作菜肴的小鸡。<sup>\[泰兴t͡sɿ3 t͡ɕʝ1\]</sup>  
-1. 【[子口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_keu.md#子口)】`zz3 keu3` ① 帆船穿口上边的木条。<sup>\[如东\]</sup> ② 木箱、木匣及其他容器边沿与盖子的咬合处。<sup>\[兴化\]</sup> ③ 两扇门或窗相吻合的部分<sup>\[兴化\]</sup>：（展昭）到了北头，见开门处是一个～风窗。（《三侠五义》五三）<sup>\[兴化\]</sup> ④ 木匠用语。瓶、箱、匣等器物上跟盖相密合的部分。<sup>\[泰兴t͡sɿ3 kʰəɪ3\]</sup>  
+1. 【[子鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_ji.md#子鸡)】<p>`zz3 ji1` /t͡sɿ3 t͡ɕʝ1/<sup>泰兴</sup></p> 可作菜肴的小鸡。<sup>\[泰兴\]</sup>  
+1. 【[子口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_keu.md#子口)】<p>`zz3 keu3` /t͡sɿ3 kʰəɪ3/<sup>泰兴</sup></p> ① 帆船穿口上边的木条。<sup>\[如东\]</sup> ② 木箱、木匣及其他容器边沿与盖子的咬合处。<sup>\[兴化\]</sup> ③ 两扇门或窗相吻合的部分<sup>\[兴化\]</sup>：（展昭）到了北头，见开门处是一个～风窗。（《三侠五义》五三）<sup>\[兴化\]</sup> ④ 木匠用语。瓶、箱、匣等器物上跟盖相密合的部分。<sup>\[泰兴\]</sup>  
 1. 【[子梁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_lian.md#子梁)】`zz3 lian2` <sup>[如东]</sup> 正梁下边的一根小梁。  
 1. 【[子舅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_qieu.md#子舅)】`zz3 qieu6` ① 即姻兄弟。称姊妹的丈夫为子，缘于“子婿”。姊妹的兄弟为舅，缘于“舅氏”。<sup>\[如皋\]</sup> ② 姐（妹）夫与姐妹的兄弟之间的亲戚关系。<sup>\[如东\]</sup>：他俫是～两个。<sup>\[如东\]</sup> ③ 与妻兄弟之间的关系<sup>\[兴化\]</sup>：老王的老婆是老吴的妹妹，他俫是～两个。<sup>\[兴化\]</sup>  
 1. 【[子<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_r.md#子<sub>儿</sub>)】`zz3 r` <sup>[兴化]</sup> ① 小而坚硬的块状物或粒状物：砖头～，石头～，枪～。 ② 某些植物的果实：芋头～。 ③ 睾丸：卵～。 ④ 引伸为对后生的贬称：贼～，喷浪～。  
 1. 【[子<sub>儿</sub>盐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_r_in.md#子<sub>儿</sub>盐)】`zz3 r in2` <sup>[兴化]</sup> 未经加工的原盐，呈颗粒状：（那些人）不由分说，把他舱里的～，一包一包的，尽兴搬到小船上。（《儒林外史》四三）。‖又称“大盐”。  
-1. 【[子孙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_suen.md#子孙)】`zz3 suen1` 儿子和孙子。泛指后代。<sup>\[如东\]</sup><sup>\[泰兴t͡sɿ3 suə̃1\]</sup>：为～造福。<sup>\[如东\]</sup>  
+1. 【[子孙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_suen.md#子孙)】<p>`zz3 suen1` /t͡sɿ3 suə̃1/<sup>泰兴</sup></p> 儿子和孙子。泛指后代。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>：为～造福。<sup>\[如东\]</sup>  
 1. 【[子孙袋<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_suen_tae_r.md#子孙袋<sub>儿</sub>)】`zz3 suen1 tae6 r` <sup>[如皋]</sup> 旧时陪嫁的红绿各一棉布小袋。新婚夜垫用，翌晨验看，有血迹为处女初婚。另隐指男性阴囊。  
 1. 【[子孙堂<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_suen_tan_r.md#子孙堂<sub>儿</sub>)】`zz3 suen1 tan2 r` ① 对子孙满堂的老人的敬词<sup>\[如皋\]</sup>：她是个～。<sup>\[如皋\]</sup> ② 儿孙们。<sup>\[如东\]</sup>：他家～都蛮好的。<sup>\[如东\]</sup>  
-1. 【[子孙桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_suen_ton.md#子孙桶)】`zz3 suen1 ton3` 马桶。旧时陪嫁物。<sup>\[泰兴t͡sɿ3 suə̃1 tʰɔ̃3\]</sup>\[如皋：此称有祝愿子孙繁衍不息之意。\]\[东台：里面放有红筷子、干果、红蛋，柏树枝、万年青，亦称子桶。\]  
+1. 【[子孙桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_suen_ton.md#子孙桶)】<p>`zz3 suen1 ton3` /t͡sɿ3 suə̃1 tʰɔ̃3/<sup>泰兴</sup></p> 马桶。旧时陪嫁物。<sup>\[泰兴\]</sup>\[如皋：此称有祝愿子孙繁衍不息之意。\]\[东台：里面放有红筷子、干果、红蛋，柏树枝、万年青，亦称子桶。\]  
 1. 【[子桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_ton.md#子桶)】`zz3 ton3` ① 马桶。<sup>\[兴化\]</sup> ② 马桶。<sup>\[泰县\]</sup>  
-1. 【[子午](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_v.md#子午)】`zz3 v3` ① 相反，相对立。<sup>\[如皋\]</sup> ② 相去甚远的意思。从时间概念说，一个正午，一个半夜；从空间概念说，一南一北。<sup>\[东台\]</sup> ③ ［喻］人际关系不协调，视对方为对头星。<sup>\[东台\]</sup> ④ 不吉利。<sup>\[东台\]</sup> ⑤ 南北。古人以“子”为正北，“午”为正南，子午相背。喻很不团结。<sup>\[泰兴t͡sɿ3 ʋ3\]</sup>：他们两个是～相冲。<sup>\[泰兴\]</sup>  
+1. 【[子午](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_v.md#子午)】<p>`zz3 v3` /t͡sɿ3 ʋ3/<sup>泰兴</sup></p> ① 相反，相对立。<sup>\[如皋\]</sup> ② 相去甚远的意思。从时间概念说，一个正午，一个半夜；从空间概念说，一南一北。<sup>\[东台\]</sup> ③ ［喻］人际关系不协调，视对方为对头星。<sup>\[东台\]</sup> ④ 不吉利。<sup>\[东台\]</sup> ⑤ 南北。古人以“子”为正北，“午”为正南，子午相背。喻很不团结。<sup>\[泰兴\]</sup>：他们两个是～相冲。<sup>\[泰兴\]</sup>  
 1. 【[子午卯酉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_v_mo_ieu.md#子午卯酉)】`zz3 v3 mo3 ieu3` <sup>[东台]</sup> ① 南北东西。 ② 来龙去脉：你～说不清爽，我怎吖好处理？  
 1. 【[子午星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_v_xien.md#子午星)】`zz3 v3 xien1` <sup>[如东]</sup> 北极星。  
 1. 【[子午线](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_v_xin.md#子午线)】`zz3 v3 xin5` <sup>[如东]</sup> ① 为测量地球而假设的南（午）北（子）方向的线，称子午线，也称子午圈。通称经线。 ② 磁场的南极与北极之间的连线称子午线。也称磁子午线。 ③ 与房屋垂直的一根南北线，称子午线。  

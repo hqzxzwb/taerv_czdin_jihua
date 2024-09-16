@@ -36,7 +36,7 @@
 1. 【[巴巴锔锔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ba_jioh_jioh.md#巴巴锔锔)】`ba1 ba1 jioh7 jioh7` <sup>[东台]</sup> 原指瓷器锔了很多铜钉，形容器物陈旧，破损严重。  
 1. 【[巴巴<sub>儿</sub>菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ba_r_cae.md#巴巴<sub>儿</sub>菜)】`ba1 ba1 r cae5` <sup>[如皋]</sup> ① 冬天青菜的一种，长平不长高。 ② 见“塌棵子菜”。  
 1. 【[巴巴掌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ba_zhan.md#巴巴掌)】`ba1 ba1 zhan` <sup>[如皋]</sup> 儿歌名。见“打～”。  
-1. 【[巴不到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_beh_do.md#巴不到)】`ba1 beh7 do5` 巴不得，求之不得，迫切、希望<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup>\[泰兴pa1 pəʔ7 tɔ5：（又ba1 beh7 do3）\]\[东台：（又ba1 beh7 do3）\]：傅景在马上四面偷瞧，～有个美色女子好奉承。（《八窍珠》一）<sup>\[兴化\]</sup>  
+1. 【[巴不到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_beh_do.md#巴不到)】<p>`ba1 beh7 do5` /pa1 pəʔ7 tɔ5/<sup>泰兴</sup></p> 巴不得，求之不得，迫切、希望<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup>\[泰兴：（又ba1 beh7 do3）\]\[东台：（又ba1 beh7 do3）\]：傅景在马上四面偷瞧，～有个美色女子好奉承。（《八窍珠》一）<sup>\[兴化\]</sup>  
 1. 【[巴成](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_chen.md#巴成)】`ba1 chen` <sup>[如皋]</sup> 期望有成：有～、没～。  
 1. 【[巴家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ga.md#巴家)】`ba1 ga1` ① 一心为自己家庭着想。<sup>\[如东\]</sup> ② 顾家。<sup>\[兴化\]</sup> ③ 善于管家、理财<sup>\[兴化\]</sup>：店虽小，但王小三老实～……（扬说《崇月娥杭州当珠》）<sup>\[兴化\]</sup>  
 1. 【[巴根草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_gen_co.md#巴根草)】`ba1 gen1 co3` <sup>[兴化]</sup> 一种贴着地皮生长，根根相连的草，可用来培育草坪。  
@@ -58,7 +58,7 @@
 1. 【[才不轻哎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_beh_qien_ngae.md#才不轻哎)】`cae2 beh7 qien1 ngae` <sup>[东台]</sup> （口头禅）表示惊讶或否定，意思是哪有这样：你说我年收入有十万？～，一半都不到！  
 1. 【[才调<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_dio_r.md#才调<sub>儿</sub>)】`cae2 dio5 r` <sup>[兴化]</sup> ① 才情：“……我必定要拣一个绝好的人物，模样儿，～，性情儿，一件也少不得……”（《广陵潮》七） ② 牙齿的隐语，有人早晨忌说“牙”字，则以～代之。  
 1. 【[才间](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_gaen.md#才间)】`cae2 gaen1` 刚才<sup>\[泰县\]</sup><sup>\[泰州\]</sup>：他～就走啊。<sup>\[泰县\]</sup>｜老王～过来寻你的，你正好出去啊。<sup>\[泰州\]</sup>  
-1. 【[才刚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_gan.md#才刚)】`cae2 gan1` 刚才<sup>\[兴化\]</sup><sup>\[泰兴t͡ɕʰiɛ2 kɑŋ1\]</sup>  
+1. 【[才刚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_gan.md#才刚)】<p>`cae2 gan1` /t͡ɕʰiɛ2 kɑŋ1/<sup>泰兴</sup></p> 刚才<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>  
 1. 【[才好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_ho.md#才好)】`cae2 ho3` <sup>[兴化]</sup> ① 表示对某件事物的强调：中午车流高峰，小学生放学有家长接下子～哩！ ② 表幸灾乐祸的语气：～，不听老人言，出事啊吧？  
 1. 【[才央<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_ian_r.md#才央<sub>儿</sub>)】`cae2 ian1 r` <sup>[东台]</sup> “才将”的轻读，刚才。  
 1. 【[才将](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_jian.md#才将)】`cae2 jian1` <sup>[东台]</sup> 刚才：他～还在这块的，不曾走远。  
@@ -110,7 +110,7 @@
 1. 【[儿灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_den.md#儿灯)】`er2 den1` <sup>[如皋]</sup> ① 人形灯具。 ② 喻出众者：你充甚的～吖！  
 1. 【[儿多母受苦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_du_mu_sheu.md#儿多母受苦)】`er2 du1 mu3 sheu6 kv3` <sup>[泰兴]</sup> 谓子女多，做母亲的非常辛苦。  
 1. 【[儿儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_er.md#儿儿)】`er2 er` <sup>[兴化]</sup> 孩子：这个～太调皮。｜“人生总受业风吹，三岁～，八十～。”（宋·刘辰翁《一剪梅》）  
-1. 【[儿狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_geu.md#儿狗)】`er2 geu3` 公狗。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰兴ɚ2 kəɪ3\]</sup>  
+1. 【[儿狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_geu.md#儿狗)】<p>`er2 geu3` /ɚ2 kəɪ3/<sup>泰兴</sup></p> 公狗。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>  
 1. 【[儿花女花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_hua_ny_hua.md#儿花女花)】`er2 hua1 ny3 hua1` <sup>[兴化]</sup> 儿女：老奶奶孤寡一人，～没得一个。｜“俺衙内老爹身边，～没有，好不单径……”（《金瓶梅词话》九一）  
 1. 【[儿要教，子要孝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_io_jio_zz.md#儿要教，子要孝)】`er2 io5 jio5 zz3 io5 xio5` <sup>[泰兴]</sup> 对儿女要加强教育，做子女的要孝顺。  
 1. 【[儿女亲家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_ny_qien_ga.md#儿女亲家)】`er2 ny3 qien5 ga` <sup>[如皋]</sup> 姻亲的双方家族间长辈的关系称。  
@@ -120,7 +120,7 @@
 1. 【[儿孙自有儿孙福，莫为儿孙当牛马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_suen_cz_ieu.md#儿孙自有儿孙福，莫为儿孙当牛马)】`er2 suen1 cz6 ieu3 er2 suen1 foh7 mah8 vei6 er2 suen1 dan1 ngeu2 ma3` <sup>[东台]</sup> 要教育后代自强不息。  
 1. 【[儿孙满堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_suen_mun_tan.md#儿孙满堂)】`er2 suen1 mun3 tan2` <sup>[如东]</sup> 形容家庭人丁兴旺。  
 1. 【[儿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_zz.md#儿子)】`er2 zz` <sup>[如东]</sup> 自己的下一代男孩称儿子。亲生的，称生子；收养的，称养子；过继的，称嗣子。  
-1. 【[耳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er.md#耳)】`er3` 理睬<sup>\[泰兴ɚ3\]</sup><sup>\[泰州\]</sup>：没工夫～他<sup>\[泰兴\]</sup>｜他说他的，你不要～他，他有甚的办法到你。<sup>\[泰州\]</sup>  
+1. 【[耳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er.md#耳)】<p>`er3` /ɚ3/<sup>泰兴</sup></p> 理睬<sup>\[泰兴\]</sup><sup>\[泰州\]</sup>：没工夫～他<sup>\[泰兴\]</sup>｜他说他的，你不要～他，他有甚的办法到你。<sup>\[泰州\]</sup>  
 1. 【[耳板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_baen.md#耳板)】`er3 baen3` <sup>[如皋]</sup> 独轮车的轴承架。  
 1. 【[耳边风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_bin_fon.md#耳边风)】`er3 bin1 fon1` <sup>[如东]</sup> 听人说话以后，就像风刮过去一样，并不放在心上。也称耳旁风。  
 1. 【[耳报神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_bo_shen.md#耳报神)】`er3 bo5 shen2` <sup>[兴化]</sup> （喻）暗中通风报信的人：我家里有～，有点事马上传外去啊。  
@@ -203,7 +203,7 @@
 ## I
 1. 【[依](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#依)】`i1` <sup>[如东]</sup> 靠：她～啊门框上。  
 1. 【[依啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_a.md#依啊)】`i1 a` <sup>[如东]</sup> 听从，顺从：～我你就去啊。  
-1. 【[依啊你，盐总卖啊馊啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_a_nii_in_zon_mae_a_seu_a.md#依啊你，盐总卖啊馊啊)】`i1 a nii3，in2 zon3 mae6 a seu1 a` <sup>[如皋]</sup> 按你的意思办，什么事都办糟了。  
+1. 【[依啊你，盐总卖啊馊啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_a_nii_in_zon_mae_a_seu_a.md#依啊你，盐总卖啊馊啊)】`i1 a nii3 in2 zon3 mae6 a seu1 a` <sup>[如皋]</sup> 按你的意思办，什么事都办糟了。  
 1. 【[依着家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_chah_ga.md#依着家)】`i1-2 chah8 ga1` <sup>[东台]</sup> 邻居。这里“依”读若“移”，也作“离着尜”“里舍家”：家落团团的～要和谐相处。  
 1. 【[依赖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_lae.md#依赖)】`i1 lae6` <sup>[如东]</sup> 依靠别人或其他事物而存在，不能自主：～别人生活。  
 1. 【[依旧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_qieu.md#依旧)】`i1 qieu6` <sup>[如东]</sup> 照旧：还是～。  
@@ -321,7 +321,7 @@
 1. 【[妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma.md#妈)】`ma1` <sup>[东台]</sup> ① 母来。 ② 年长的已婚妇女。  
 1. 【[妈妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma.md#妈妈)】`ma1 ma1` <sup>[如东]</sup> 母亲。  
 1. 【[马胞衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_bo_i.md#马胞衣)】`ma1 bo1 i1` <sup>[如东]</sup> 马科动物马的胎盘。  
-1. 【[马而虎之](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_er_hv_zhr.md#马而虎之)】`ma1 er hv3 zhr1` 马虎。<sup>\[泰兴ma1 ɚ fʋ3 t͡sɿ1\]</sup>  
+1. 【[马而虎之](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_er_hv_zhr.md#马而虎之)】<p>`ma1 er hv3 zhr1` /ma1 ɚ fʋ3 t͡sɿ1/<sup>泰兴</sup></p> 马虎。<sup>\[泰兴\]</sup>  
 1. 【[马马虎虎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma_hv_hv.md#马马虎虎)】`ma1 ma1 hv1 hv1` <sup>[东台]</sup> ① 马虎：随便｜不认真。 ② 勉强：凑合。也说“马马虎”。  
 1. 【[□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma.md#□□)】`ma2 ma3` <sup>[东台]</sup> 在东台话中指婶婶，也叫“嫲儿”。  
 1. 【[麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma.md#麻)】`ma2` ① 桑科植物黄麻，一年生草本。<sup>\[如东\]</sup> ② 鱼、蟹、虾等海鲜食物用盐渍一下，保鲜防腐，叫做麻。<sup>\[如东\]</sup> ③ 辣<sup>\[如皋\]</sup>：大椒～人。<sup>\[如皋\]</sup> ④ 触电的感觉。<sup>\[如皋\]</sup> ⑤ 像芝麻多而小<sup>\[如皋\]</sup>：～虾儿。<sup>\[如皋\]</sup> ⑥ 曚昽<sup>\[如皋\]</sup>：天～～儿亮。<sup>\[如皋\]</sup> ⑦ 芝麻点状的<sup>\[如皋\]</sup>：～子、～石、～鸭儿、～苍蝇。<sup>\[如皋\]</sup> ⑧ 出风头、摆威风、高傲的样子<sup>\[如皋\]</sup>：这家伙，有两个钱，～唻！<sup>\[如皋\]</sup> ⑨ 辣味刺激<sup>\[兴化\]</sup>：～人。<sup>\[兴化\]</sup> ⑩ （贬）极<sup>\[兴化\]</sup>：坏啊～啊。<sup>\[兴化\]</sup> ⑪ （借）形容价格昂贵<sup>\[兴化\]</sup>：东西倒不丑，就是价钱～人。<sup>\[兴化\]</sup> ⑫ 作动词，喝酒的隐语<sup>\[兴化\]</sup>：“……弄点酒来～下子，暖暖身子睡觉吧！”（兴文《得胜湖的定名及传说》）<sup>\[兴化\]</sup> ⑬ 谓人狂妄<sup>\[兴化\]</sup>：你少要～！<sup>\[兴化\]</sup> ⑭ 辣。<sup>\[泰县\]</sup> ⑮ 辛辣刺激口腔舌头所产生的味觉<sup>\[泰州\]</sup>：这个大椒太～。<sup>\[泰州\]</sup>  
