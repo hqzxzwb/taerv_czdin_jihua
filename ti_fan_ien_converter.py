@@ -6,7 +6,10 @@ def parse_pien_ien(ien):
   match = re.match(r"^([bpmfvdtnlzcsjqxrgkh]|zh|ch|sh|ng|)(i|u|y|)([aeiouvyzr][a-z]*)(\d|)$", ien)
   if match is None:
     raise Exception(f"Unrecogonized ien: {ien}")
-  return match.groups()
+  g = match.groups()
+  if g[1] == 'i' and g[2] == 'i':
+    return [g[0], '', 'ii', g[3]]
+  return g
 
 class keydefaultdict(defaultdict):
   def __missing__(self, key):
@@ -84,7 +87,8 @@ def tae_xien_pien_ien(cz, ien, for_qio_shih = False):
     yen = 'ou'
   elif shen == 'l' and yen == 'i' and for_qio_shih: # 翘舌话 li -> i
     shen = ''
-  elif yen == 'ieh' and not for_qio_shih: # 平舌话 ieh 混入 ih
+  elif gae == 'i' and yen == 'eh' and cz not in '吃七漆' and not for_qio_shih: # 平舌话 ieh 混入 ih
+    gae = ''
     yen = 'ih'
   elif shen == '' and yen == 'ieh': # 零声母 ieh 混入 ih
     yen = 'ih'
