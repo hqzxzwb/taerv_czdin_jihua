@@ -5,7 +5,7 @@
 1. 【[噢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/o.md#噢)】`o` <sup>[泰州]</sup> ① 叹词，表示恍然大悟：～原来是这回事啊。 ② 句末语气词，表示责备语气：你望你～，这点儿事都弄不好。  
 1. 【[噢唉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/o_ae.md#噢唉)】`o3 ae` <sup>[如皋]</sup> 旧时沿街巷叫买大粪的声音。  
 1. 【[喔吆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_io.md#喔吆)】`oh7 io1` <sup>[东台]</sup> ［语气助词］表示惊讶：～！天气突然变丑啊。  
-1. 【[屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh.md#屋)】`oh7` ① 与“房”同义，但用法有所不同。只用“屋”：砌～、堂～、磨～家的；“房、屋”通用：～脊、～檐、草～；只用“房”：新房、书房、房间。<sup>\[如皋\]</sup> ② 房屋。<sup>\[如东\]</sup>  
+1. 【[屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh.md#屋)】<p>`oh7` /ɔʔ7/<sup>如皋</sup></p> ① 与“房”同义，但用法有所不同。只用“屋”：砌～、堂～、磨～家的；“房、屋”通用：～脊、～檐、草～；只用“房”：新房、书房、房间。<sup>\[如皋\]</sup> ② 房屋。<sup>\[如东\]</sup>  
 1. 【[屋后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_heu.md#屋后)】`oh7 heu6` <sup>[如东]</sup> 房屋的后边。  
 1. 【[屋后头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_heu_teu.md#屋后头)】`oh7 heu6 teu` <sup>[兴化]</sup> 住房的后头：我家～是个大巷。也称“家后头”。  
 1. 【[屋檐头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_in_teu.md#屋檐头)】`oh7 in2 teu` <sup>[东台]</sup> 屋面伸出墙外的部分。  
@@ -39,7 +39,7 @@
 1. 【[横肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_roh.md#横肉)】`on2 roh8` <sup>[东台]</sup> 脸上的给人感觉十分凶恶的肌肉：胡传魁一脸～。  
 1. 【[横生倒养](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_shen_do_ian.md#横生倒养)】`on2 shen1 do5 ian3` <sup>[泰县]</sup> （禁忌语）不能生育：这个人家～，是个绝后代。  
 1. 【[横说横答，武说武答](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_shuh_on_daeh_v_shuh_v_daeh.md#横说横答，武说武答)】`on2 shuh7 on2 daeh7 v3 shuh7 v3 daeh7` <sup>[东台]</sup> 形容某人厉害，敢于较量，从不让步示弱。  
-1. 【[横竖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_shv.md#横竖)】`on2 shv6` ① 反正。<sup>\[如皋\]</sup> ② 反正。<sup>\[如东\]</sup>：～不行。<sup>\[如东\]</sup> ③ 反正，不管怎样<sup>\[东台\]</sup>：这个项目一二名都是中国人，金牌～是中国的。<sup>\[东台\]</sup>  
+1. 【[横竖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_shv.md#横竖)】<p>`on2 shv6` /ɔŋ2 su1/<sup>如皋</sup></p> ① 反正。<sup>\[如皋\]</sup> ② 反正。<sup>\[如东\]</sup>：～不行。<sup>\[如东\]</sup> ③ 反正，不管怎样<sup>\[东台\]</sup>：这个项目一二名都是中国人，金牌～是中国的。<sup>\[东台\]</sup>  
 1. 【[横竖横](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_shv_on.md#横竖横)】`on2 shv6 on2` ① 无论如何。<sup>\[如东\]</sup>：～，我要拼到底。<sup>\[如东\]</sup> ② 反正如此，索性横下心来<sup>\[兴化\]</sup>：他把心一横，来个～，看大家怎吖对付自己。<sup>\[兴化\]</sup>  
 1. 【[横挑鼻子竖挑眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_tio_pieh_zz_shv_tio_ngaen.md#横挑鼻子竖挑眼)】`on2 tio1 pieh8 zz shv6 tio1 ngaen3` <sup>[东台]</sup> 比喻多方挑剔。  
 1. 【[横五六犟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_v_loh_qian.md#横五六犟)】`on2 v3 loh8 qian6` <sup>[兴化]</sup> 固执、顶牛，不服管教：这个小伙～的，一点不听话。  
