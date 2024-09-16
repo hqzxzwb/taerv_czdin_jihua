@@ -2076,7 +2076,7 @@
 1. 【[活皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_pi.md#活皮)】`huh8 pi2` <sup>[泰县]</sup> 充气的轮船。  
 1. 【[活便](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_pin.md#活便)】`huh8 pin` ① 灵活便利<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：（那老儿）因见小人手脚～，带小人归去到城里，教了许多本事……（《水浒传》二七）<sup>\[兴化\]</sup>｜你岁数大啊唻，手脚不～，不要再逞英雄，爬高的事还是让他俫年纪轻的来吧。<sup>\[泰州\]</sup> ② 经济宽裕，手有余资<sup>\[兴化\]</sup>：他现在下海经商，手头～。<sup>\[兴化\]</sup>  
 1. 【[活便钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_pin_qin.md#活便钱)】`huh8 pin qin2` <sup>[兴化]</sup> 除日常生活开支以外富余的钱。也作“活变钱”：他手上有两个～。｜有个铺儿撰着活变钱（《醒世姻缘传》第八十四回）  
-1. 【[活技](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_qi.md#活技)】`huh8 qi` 活计，活儿<sup>\[泰州\]</sup>\[如皋：（uh8 qi）\]\[泰兴xʊʔ8 t͡ɕʰʝ：（uh8 qi）\]：帮家里做～。<sup>\[泰州\]</sup>｜上田里去做～。<sup>\[如皋\]</sup>  
+1. 【[活技](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_qi.md#活技)】`huh8 qi` 活计，活儿<sup>\[泰州\]</sup>\[如皋：（uh8 qi）\]<sup>\[泰兴ʊʔ8 t͡ɕʰʝ\]</sup>：帮家里做～。<sup>\[泰州\]</sup>｜上田里去做～。<sup>\[如皋\]</sup>  
 1. 【[活嚼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_qiah.md#活嚼)】`huh8 qiah8` （禁忌语）乱说，胡编乱造<sup>\[泰县\]</sup>\[泰州：比喻胡编乱造得非常逼真\]：你不要～。<sup>\[泰县\]</sup>｜你不要听他～，根本就没得他说的这回事。<sup>\[泰州\]</sup>  
 1. 【[活嚼大三光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_qiah_da_saen_guan.md#活嚼大三光)】`huh8 qiah8 da6 saen1 guan1` <sup>[泰县]</sup> 没有根据地说：不晓得，你覅～。  
 1. 【[活嚼蛆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_qiah_qy.md#活嚼蛆)】`huh8 qiah8 qy1` <sup>[如东]</sup> 瞎说胡话。  
@@ -2092,7 +2092,7 @@
 1. 【[活守寡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_sheu_gua.md#活守寡)】`huh8 sheu3 gua3` <sup>[如皋]</sup> 见“守活寡”。  
 1. 【[活受罪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_sheu_qy.md#活受罪)】`huh8 sheu6 qy6` <sup>[如东]</sup> 在没有罪名的状态下遭受折磨：她在那许～。  
 1. 【[活水河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_shuei_hu.md#活水河)】`huh8 shuei3 hu2` <sup>[兴化]</sup> 有源头的常流水：这是～，水质好。｜“此河不是～，因纣王造鹿台，挑取泥士，致成小河……”（《封神演义》八九）也作“活河”。  
-1. 【[活说](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_shuh.md#活说)】`huh8 shuh7` ① 演讲口才富于煽动性，能够鼓动大家的情绪。<sup>\[如东\]</sup>：真是～。<sup>\[如东\]</sup> ② 信口胡说<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>\[泰兴xʊʔ8 sʊʔ7：（uh8 shuh）\]：覅～，坏人名誉要承担法律责任的！<sup>\[兴化\]</sup>｜覅～。<sup>\[泰县\]</sup>｜你不要听吖他在这块～。<sup>\[泰州\]</sup>  
+1. 【[活说](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_shuh.md#活说)】`huh8 shuh7` ① 演讲口才富于煽动性，能够鼓动大家的情绪。<sup>\[如东\]</sup>：真是～。<sup>\[如东\]</sup> ② 信口胡说<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴ʊʔ8 sʊʔ\]</sup>：覅～，坏人名誉要承担法律责任的！<sup>\[兴化\]</sup>｜覅～。<sup>\[泰县\]</sup>｜你不要听吖他在这块～。<sup>\[泰州\]</sup>  
 1. 【[活死人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_sz_ren.md#活死人)】`huh8 sz3 ren2` ① 指反应迟钝、动作笨拙的人。<sup>\[东台\]</sup> ② 迂执、呆板、不会灵活变通的人<sup>\[东台\]</sup><sup>\[兴化\]</sup>：他是个～，这件事找他肯定不行！<sup>\[兴化\]</sup>  
 1. 【[活掉啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_tio_a.md#活掉啊)】`huh8 tio a` <sup>[泰县]</sup> 庄稼肥足，倒状：他家的几亩稻都～。  
 1. 【[活动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_ton.md#活动)】`huh8 ton` ① 松动。<sup>\[如皋\]</sup>\[泰兴xʊʔ8 tʰɔ̃：（又uh8 ton）\] ② 运动。<sup>\[如东\]</sup>：站起来～下子。<sup>\[如东\]</sup> ③ 物体摇动。<sup>\[如东\]</sup>：这根桩～起来啊。<sup>\[如东\]</sup>  
@@ -2295,7 +2295,7 @@
 1. 【[胡椒心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_jio_xien.md#胡椒心)】`hv2 jio1 xien1` <sup>[兴化]</sup> （喻）毒辣的心肠。俗称嘴甜心辣的人为“洋糖嘴，～”。  
 1. 【[胡来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_lae.md#胡来)】`hv2 lae2` <sup>[如东]</sup> 不按规矩，任意乱做：不可以～。  
 1. 【[胡里打滚的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_lii_da_guen_dii.md#胡里打滚的)】`hv2 lii da3 guen3 dii` <sup>[如皋]</sup> 见“胡头乱说”。  
-1. 【[胡萝卜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_lu_poh.md#胡萝卜)】`hv2 lu2 poh` 胡萝卜，伞形科植物<sup>\[如东\]</sup>\[泰兴fʋ2 lɤɯ2 pʰɔʔ：（uh7 lou1 poh）\]  
+1. 【[胡萝卜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_lu_poh.md#胡萝卜)】`hv2 lu2 poh` 胡萝卜，伞形科植物<sup>\[如东\]</sup><sup>\[泰兴ʊʔ7 lɤɯ1 pʰɔʔ\]</sup>  
 1. 【[胡萝卜干<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_lu_poh_gun_r.md#胡萝卜干<sub>儿</sub>)】`hv2 lu2 poh gun1 r` <sup>[如皋]</sup> 胡萝卜纵切四瓣晒成的干货或腌成的咸菜。  
 1. 【[胡闹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_no.md#胡闹)】`hv2 no6` <sup>[如东]</sup> 没有道理地打斗。  
 1. 【[胡𨑊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_non.md#胡𨑊)】`hv2 non2` <sup>[兴化]</sup> ① 勉强应付：这套衣裳款式老一点，先～穿吧！这件事不必认真，～过去算吖。 ② 欺骗、蒙混：～人。  

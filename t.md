@@ -1175,7 +1175,7 @@
 1. 【[天气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_qi.md#天气)】`tin1 qi5` <sup>[兴化]</sup> 指时间、时候：现在是半夜～。｜～不早啊，快家去吧！  
 1. 【[天气暑暖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_qi_chv_nun.md#天气暑暖)】`tin1 qi5 chv3 nun3` <sup>[兴化]</sup> 天气炎热：～的在家里凉凉，覅出去乱跑。‖也作“天气暑热”。  
 1. 【[天桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_qio.md#天桥)】`tin1 qio2` ① 彩虹。<sup>\[如皋\]</sup> ② 虹。<sup>\[如皋\]</sup>  
-1. 【[天日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_rih.md#天日)】`tin1 rih8` 一昼夜中白天的时间<sup>\[如东\]</sup>\[泰兴tʰɪ̃1 ɪʔ8：（tin1 rih）\]：夏天～长，寒天～短<sup>\[泰兴\]</sup>  
+1. 【[天日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_rih.md#天日)】`tin1 rih8` 一昼夜中白天的时间<sup>\[如东\]</sup><sup>\[泰兴tʰɪ̃1 ɪʔ\]</sup>：夏天～长，寒天～短<sup>\[泰兴\]</sup>  
 1. 【[天色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_seh.md#天色)】`tin1 seh` <sup>[兴化]</sup> 阴云密布，要下雨的先兆：～下来啊，快望家跑。  
 1. 【[天色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_seh.md#天色)】`tin1 seh7` 天气。<sup>\[如东\]</sup><sup>\[东台\]</sup>\[泰兴tʰɪ̃1 səʔ7：“天作色”亦谓天气变了，可能要刮风下雨之意。\]：～不好。<sup>\[如东\]</sup>｜出门看～，进门看脸色。<sup>\[东台\]</sup>｜～不好，恐怕要落雨。<sup>\[泰兴\]</sup>  
 1. 【[天色泛红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_seh_faen_hon.md#天色泛红)】`tin1 seh7 faen5 hon2` <sup>[如皋]</sup> 彤云密布，预示有雪。  

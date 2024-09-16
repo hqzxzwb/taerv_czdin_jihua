@@ -1496,7 +1496,7 @@
 1. 【[拨火板<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/buh_hu_baen_r.md#拨火板<sub>儿</sub>)】`buh7 hu3 baen3 r` <sup>[东台]</sup> 给烘缸、手炉拨火的竹片。喻指喜欢挑拨离间的人。  
 1. 【[拨水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/buh_shuei.md#拨水)】`buh7 shuei3` ① 将大河里的水戽到小河里去。<sup>\[如东\]</sup> ② 槽筒下端的定齿轮，与“拨齿”相对。<sup>\[如皋\]</sup>  
 1. 【[拨桩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/buh_zhuan.md#拨桩)】`buh7 zhuan1` <sup>[兴化]</sup> 车拨上的小木桩，楔形，由硬杂木制成，作用相当于齿轮上的齿。  
-1. 【[百页/百叶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/buh_ih.md#百页/百叶)】`buh7 ih8` 豆制品，薄皮状，又名千张。<sup>\[如皋\]</sup>\[泰州：厚如纸板，绵软而有韧性，制成后，需要一页一页揭下\]\[泰兴pʊʔ7 ɪʔ8：（buh7 ih）\]：韭菜炒～<sup>\[泰州\]</sup>  
+1. 【[百页/百叶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/buh_ih.md#百页/百叶)】`buh7 ih8` 豆制品，薄皮状，又名千张。<sup>\[如皋\]</sup>\[泰州：厚如纸板，绵软而有韧性，制成后，需要一页一页揭下\]<sup>\[泰兴pʊʔ7 ɪʔ\]</sup>：韭菜炒～<sup>\[泰州\]</sup>  
 1. 【[百页底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/buh_ih_di.md#百页底)】`buh7 ih8 di3` <sup>[如皋]</sup> 褈多层布扎成的鞋底。  
 1. 【[百页肚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/buh_ih_dv_r.md#百页肚<sub>儿</sub>)】`buh7 ih8 dv3 r` <sup>[如皋]</sup> 牛羊的重瓣胃。食品。  
 1. 【[百页卷<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/buh_ih_jiun_r.md#百页卷<sub>儿</sub>)】`buh7 ih8 jiun3 r` <sup>[如皋]</sup> 百页打成的结作衬菜：～烧肉。  

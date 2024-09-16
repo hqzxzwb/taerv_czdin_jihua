@@ -225,7 +225,7 @@
 1. 【[三代属犬的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_tae_shoh_qiun.md#三代属犬的)】`saen1 tae6 shoh7 qiun3 dii` <sup>[泰兴]</sup> 骂人语。犹“狗东西”。  
 1. 【[三代属犬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_tae_shoh_qiun.md#三代属犬)】`saen1 tae6 shoh8 qiun3` <sup>[兴化]</sup> 市井骂人语，相当于“狗狗日的”。  
 1. 【[三踏步床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_taeh_pv_chuan.md#三踏步床)】`saen1 taeh8 pv6 chuan2` <sup>[如皋]</sup> 床前有三进槅架，每进两端都有几、杌、架。旧时大家人家用。  
-1. 【[三头六臂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_teu_loh_bi.md#三头六臂)】`saen1 teu2 loh8 bi5-bei5` 比喻神通广大。<sup>\[东台\]</sup><sup>\[泰兴ɕiɛ̃1 tʰəɪ2 lɔʔ8 pʝ5\]</sup>  
+1. 【[三头六臂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_teu_loh_bi.md#三头六臂)】`saen1 teu2 loh8 bi5` 比喻神通广大。\[东台：（saen1 teu2 loh8 bei5）\]<sup>\[泰兴ɕiɛ̃1 tʰəɪ2 lɔʔ8 pəɪ5\]</sup>  
 1. 【[三头六眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_teu_loh_ngaen.md#三头六眼)】`saen1 teu2 loh8 ngaen3` <sup>[如东]</sup> 比喻眼光锐利：这个人～的，你要当心。  
 1. 【[三天不冷，三天不滚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_tin_beh_len_saen_tin_beh_guen.md#三天不冷，三天不滚)】`saen1 tin1 beh7 len3 saen1 tin1 beh7 guen3` <sup>[东台]</sup> 像温吞水一样，平平淡淡，没有突破。  
 1. 【[三天不离午朝门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_tin_beh_li_v_cho_men.md#三天不离午朝门)】`saen1 tin1 beh7 li2 v3 cho2 men2` <sup>[东台]</sup> （贬）形容几乎天天来访，死死缠着不松劲。  
