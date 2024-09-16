@@ -345,7 +345,14 @@ def meaning_text(w, meaning):
         ti_fan_ien_func = getattr(ti_fan_ien_converter, source, None)
         ti_fan_ien = ""
         if ti_fan_ien_func:
-            ti_fan_ien = " ".join([ti_fan_ien_func(m[0], m[1]) for m in w.mixed if m[1]])
+            ti_fan_pien_ien_match = None if supplement is None else re.match(r"^（([a-z0-9 ]+)）", supplement)
+            if ti_fan_pien_ien_match:
+                supplement = supplement[len(ti_fan_pien_ien_match.string):]
+                ti_fan_pien_ien = ti_fan_pien_ien_match.group(1).split(' ')
+            else:
+                ti_fan_pien_ien = w.pien_ien_0.split(' ')
+            czs = [m[0] for m in w.mixed if m[1]]
+            ti_fan_ien = " ".join([ti_fan_ien_func(cz, ti_fan_pien_ien[index]) for index, cz in enumerate(czs)])
         if ti_fan_ien == w.pien_ien_0:
             ti_fan_ien = ""
         if supplement:

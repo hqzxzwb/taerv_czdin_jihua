@@ -107,8 +107,10 @@ def tae_xien_pien_ien(cz, ien, for_qio_shih = False):
     shen = 'f'
   elif shen == 'r' and yen in ['in', 'ih']: # 日母脱落
     shen = ''
-  elif shen in ['d', 't'] and yen == 'i':
+  elif shen in ['d', 't'] and yen == 'i': # di->ji、ti->qi
     shen = ngah_hua[shen]
+  elif shen in ['d', 't', 'n', 'l'] and gae == 'u' and yen == 'ei': # 合口脱落
+    gae = ''
   shen = pien_shih[shen]
   if shen == '' and yen == 'r':
     yen = 'er'
