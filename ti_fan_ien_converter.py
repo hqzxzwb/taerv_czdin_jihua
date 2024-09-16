@@ -110,6 +110,8 @@ def 泰兴(cz, ien, for_qio_shih = False):
     yen = 'en'
   elif yen == 'ii': # ii裂化
     yen = 'ei'
+  elif shen == 'h' and yen == 'v': # 呼夫不分
+    shen = 'f'
   shen = pien_shih[shen]
   if yen == 'r':
     yen = 'z'
