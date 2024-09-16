@@ -80,7 +80,7 @@ def letter_index(dirs, out):
 
 def validate(py0, word):
     py0 = re.sub("-[a-z1-9]+", "", py0)
-    py0 = re.sub(r"（.*?）|\(.*?\)|…", "", py0).strip()
+    py0 = re.sub(r"（.*?）|\([^()]+\)|…", "", py0).strip()
     syllables = re.split("[^a-z0-9]+", py0)
     for py in syllables:
         if PY_FORMAT.match(py) is None:
@@ -91,10 +91,10 @@ def strip_tio(ien):
 
 def check_path(path, mixed, word):
     """检查词语的文件名是否正确"""
-    computed_path1 = "_".join([strip_tio(ien) for cz, ien in mixed if ien]) + ".md"
+    computed_path1 = "_".join([strip_tio(ien) for cz, ien, *_ in mixed if ien]) + ".md"
     if path.endswith(computed_path1):
         return
-    computed_path2 = "_".join([strip_tio(ien) for cz, ien in mixed if ien][:4]) + ".md"
+    computed_path2 = "_".join([strip_tio(ien) for cz, ien, *_ in mixed if ien][:4]) + ".md"
     if path.endswith(computed_path2):
         return
     cmd = "meld" if os.path.exists(computed_path2) else "mv"
@@ -104,10 +104,10 @@ def check_path(path, mixed, word):
 def parse_pinyin(pinyin):
     """A B/C→AB, AC"""
     if "/" not in pinyin:
-        return pinyin
+        return [pinyin]
     pinyin = re.sub(r"([a-z]+)(\d)/(\d)", r"\1\2/\1\3", pinyin)
     py_list = [i.split("/") for i in pinyin.split(" ")]
-    return ", ".join(map(" ".join, product(*py_list)))
+    return list(map(" ".join, product(*py_list)))
 
 meaning_pattern = r"\+ (?P<explanation>.+)\n(?P<body>(  .+\n)*)"
 sub_meaning_pattern = r"(  \* (?P<source>.+)\n)?( {2,4}\+ (?P<supplement>.+)\n)?(?P<body>( {2,4}- .+\n)*)"
@@ -123,15 +123,16 @@ def parse_cont(cont, fname):
     lines = re.split("\n+", cont)
     raw_text = lines[0].lstrip("#").strip()
     raw_pien_ien = lines[1].strip().replace('ᵗ', '')
-    pien_ien = parse_pinyin(raw_pien_ien)
-    pien_ien_0 = pien_ien.split(",")[0]
+    pien_ien_list = parse_pinyin(raw_pien_ien)
+    pien_ien = ", ".join(pien_ien_list)
+    pien_ien_0 = pien_ien_list[0]
     mixed = mix(raw_text, pien_ien_0)
 
     validate(pien_ien_0, raw_text)
 
     sort_key = ''
     word = ''
-    for cz, ien in mixed:
+    for cz, ien, *_ in mixed:
         sort_key += ien + ' ' + cz + ' '
         word += cz
 
@@ -199,29 +200,41 @@ def parse_cont(cont, fname):
         assert body_cursor == len(body), message_for_failure
     return CzY(source, pien_ien_0, pien_ien, raw_pien_ien, word, raw_text, meanings, fname, sort_key, spec, mixed)
 
-def mix(word, py):
+def mix(word, pien_ien):
     word = word.replace('ʲ', '')
-    py = re.sub("-[a-z1-9]+", "", py)
-    py = re.sub(r"（.*?）|\(.*?\)|…", "", py).strip()
-    char_py_list = re.split("[^a-z0-9]+", py)
+    pien_ien = re.sub("-[a-z1-9]+", "", pien_ien)
+    pien_ien = re.sub(r"（.*?）|[…，；—]", " ", pien_ien).strip()
+    char_py_list = re.split(" +", pien_ien)
     char_list = re.findall(r"[\w□](?:\wʰ)*|[，—、：；×…？\*]|（.*?）|/.+", word)
     mix = []
     pi = 0
     i = 0
     while i < len(char_list):
         char = char_list[i]
+        ti_fan = defaultdict(lambda: None)
         if re.match(r'[\w□]', char[0]):
             if pi >= len(char_py_list):
                 break
-            py = char_py_list[pi]
+            pien_ien = char_py_list[pi]
+            ti_fan_match = re.search(r"\(([^\(\)]+)\)$", pien_ien)
+            if ti_fan_match:
+                pien_ien = pien_ien[0: ti_fan_match.start()]
+                for item in ti_fan_match.group(1).split(';'):
+                    tis, ti_fan_ien = item.split(':')
+                    if ti_fan_ien == '0':
+                        ti_fan_ien = re.sub(r"\d$", "", pien_ien)
+                    elif ti_fan_ien in '123456789':
+                        ti_fan_ien = re.sub(r"\d$", ti_fan_ien, pien_ien)
+                    for ti in tis.split(','):
+                        ti_fan[ti] = ti_fan_ien
             pi += 1
-            if py == 'r' and char == '儿':
+            if pien_ien == 'r' and char == '儿':
                 char = '<sub>儿</sub>'
             else:
                 char = re.sub(r'(\w)ʰ', r'<sub>\1</sub>', char)
-            mix.append((char, py))
+            mix.append((char, pien_ien, ti_fan))
         else:
-            mix.append((char, ''))
+            mix.append((char, '', ti_fan))
         i += 1
     if pi != len(char_py_list) or i != len(char_list):
         raise Exception("【%s】(%s)跟拼音(%s)不对应" % (word, char_list, char_py_list))
@@ -279,6 +292,12 @@ def parse_cz_ien3(f, out):
         out[ien].add(cz)
         out[re.sub(r'\d', '', ien)].add(cz) # 轻声
 
+ti_fan_ien_key = {
+    '泰兴': 'txe',
+    '泰县': 'tx',
+    '如皋': 'rg',
+}
+
 def write_page(dirs, path, sample_out, cz_ien):
     """生成分页"""
     count = 0
@@ -295,7 +314,7 @@ def write_page(dirs, path, sample_out, cz_ien):
     out = ""
     for w in sorted(conts, key=lambda c: c.sort_key):
         check_path(w.fname, w.mixed, w.text)
-        for cz, ien in w.mixed:
+        for cz, ien, *_ in w.mixed:
             # if cz == '大' and ien == 'tu6':
                 # print("【%s】中的【%s】读作【%s】" % (w.raw_text, cz, ien))
             if ien != '' and cz != '□' and len(cz) == 1 and cz not in cz_ien[ien.rstrip('9')]:
@@ -316,13 +335,32 @@ def write_page(dirs, path, sample_out, cz_ien):
                 meaning = " "
             out = f"1. 【[{w.text}]({link})】`{w.pien_ien}`{source}{meaning}  \n"
         else:
+            source_set = set()
+            for meaning in w.meanings:
+                for sub_meaning in meaning.subs:
+                    source = sub_meaning.source
+                    if source:
+                        source = shrink_source(source)
+                        source_set.add(source)
+            ti_fan_ien = {}
+            for source in source_set:
+                ti_fan_ien_func = getattr(ti_fan_ien_converter, source, None)
+                if ti_fan_ien_func:
+                    mixed = [(m[0], m[2][ti_fan_ien_key[source]] or m[1]) for m in w.mixed if m[1]]
+                    ti_fan_ien[source] = " ".join([ti_fan_ien_func(cz, ien) for cz, ien in mixed])
+            if ti_fan_ien:
+                ti_fan_ien_md = ", ".join([f"/{ien}/<sup>{source}</sup>" for source, ien in ti_fan_ien.items()])
+                pien_ien_text = f"<p>`{w.pien_ien}` {ti_fan_ien_md}</p>"
+            else:
+                pien_ien_text = '`' + w.pien_ien + '`'
+
             if len(w.meanings) > 1:
                 meaning = "".join(map(lambda x: " " + ORDERS[x[0]] + " " + meaning_text(w, x[1]), enumerate(w.meanings)))
             elif len(w.meanings) == 1:
                 meaning = " " + meaning_text(w, w.meanings[0])
             else:
                 meaning = " "
-            out = f"1. 【[{w.text}]({link})】`{w.pien_ien}`{meaning}  \n"
+            out = f"1. 【[{w.text}]({link})】{pien_ien_text}{meaning}  \n"
         lines.append(out)
         if count <= 20:
             sample_out.append(out)
@@ -342,23 +380,10 @@ def meaning_text(w, meaning):
         else:
             source = ""
         supplement = sub.supplement
-        ti_fan_ien_func = getattr(ti_fan_ien_converter, source, None)
-        ti_fan_ien = ""
-        if ti_fan_ien_func:
-            ti_fan_pien_ien_match = None if supplement is None else re.match(r"^（([a-z0-9 ]+)）", supplement)
-            if ti_fan_pien_ien_match:
-                supplement = supplement[len(ti_fan_pien_ien_match.string):]
-                ti_fan_pien_ien = ti_fan_pien_ien_match.group(1).split(' ')
-            else:
-                ti_fan_pien_ien = w.pien_ien_0.split(' ')
-            czs = [m[0] for m in w.mixed if m[1]]
-            ti_fan_ien = " ".join([ti_fan_ien_func(cz, ti_fan_pien_ien[index]) for index, cz in enumerate(czs)])
-        if ti_fan_ien == w.pien_ien_0:
-            ti_fan_ien = ""
         if supplement:
-            str = str + f"\\[{source}{ti_fan_ien}：{supplement}\\]"
+            str = str + f"\\[{source}：{supplement}\\]"
         elif source:
-            str = str + f"<sup>\\[{source}{ti_fan_ien}\\]</sup>"
+            str = str + f"<sup>\\[{source}\\]</sup>"
     if any(sub.examples for sub in meaning.subs):
         str = str.rstrip('。') + "："
         for sub in meaning.subs:

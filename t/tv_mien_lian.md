@@ -1,7 +1,6 @@
 # 度命粮
-tv6 mien6 lian2
+tv6(tx:dv5) mien6 lian2
 + 勉强维持生命的粮食。也称救命粮。
   * 如东方言词典
 + 仅有的一点口粮。
-  + （dv5 mien6 lian2）
   * 泰县方言志

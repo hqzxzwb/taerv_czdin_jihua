@@ -1,5 +1,5 @@
 # 犟嘴
-jian5 zuei3, qian6 jy3
+jian5/qian6 zuei3/jy3
 - 顶嘴，回嘴，嘴硬
 
 # 謽嘴

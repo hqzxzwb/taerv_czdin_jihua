@@ -2,10 +2,9 @@
 兴化音jien3 geh7 geh7。推测，geh是扬州音的“佮”。
 -->
 # 紧佮佮
-jien3 guh7 guh7
+jien3 guh7(xh:geh7) guh7(xh:geh7)
 + 形容很紧凑
   * 兴化方言词典
-    + （jien3 geh7 geh7）
     - 他家住啊三间一厨房，～的。
 + 松紧正好。
   * 泰县方言志
