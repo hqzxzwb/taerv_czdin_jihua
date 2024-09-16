@@ -350,7 +350,7 @@ def write_page(dirs, path, sample_out, cz_ien):
                     ti_fan_ien[source] = " ".join([ti_fan_ien_func(cz, ien) for cz, ien in mixed])
             if ti_fan_ien:
                 ti_fan_ien_md = ", ".join([f"/{ien}/<sup>{source}</sup>" for source, ien in ti_fan_ien.items()])
-                pien_ien_text = f"<p>`{w.pien_ien}` {ti_fan_ien_md}</p>"
+                pien_ien_text = f"`{w.pien_ien}` <small>{ti_fan_ien_md}</small>"
             else:
                 pien_ien_text = '`' + w.pien_ien + '`'
 
