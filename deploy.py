@@ -124,7 +124,7 @@ def parse_cont(cont, fname):
     raw_text = lines[0].lstrip("#").strip()
     raw_pien_ien = lines[1].strip().replace('ᵗ', '')
     pien_ien_list = parse_pinyin(raw_pien_ien)
-    pien_ien = ", ".join(pien_ien_list)
+    pien_ien = re.sub(r"\([^\(\)]+\)(?= |,|$)", "", ", ".join(pien_ien_list))
     pien_ien_0 = pien_ien_list[0]
     mixed = mix(raw_text, pien_ien_0)
 
