@@ -133,7 +133,7 @@
 1. 【[办饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_faen.md#办饭)】`paen6 faen6` <sup>[兴化]</sup> 做饭：来啊客，赶快～。｜那老者十分欢喜，道了几声“失迎”，又叫童子～。（《西游记》十五）  
 1. 【[办家家<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_ga_ga_r.md#办家家<sub>儿</sub>)】`paen6 ga1 ga1 r` <sup>[如皋]</sup> 儿童玩的一种组织家庭的游戏。过家家。  
 1. 【[办酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_jieu.md#办酒)】`paen6 jieu3` <sup>[如皋]</sup> 操办酒席。  
-1. 【[㗘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah.md#㗘)】`pah7` ① 用双唇取食：支啊桌上～烧饼屑子。<sup>\[如皋\]</sup> ② 才开奶的，伢儿的细嘴在奶子上只～。<sup>\[如皋\]</sup> ③ 用嘴吸食<sup>\[兴化\]</sup>：酒𢮎啊桌上吖，他连忙拿嘴去～。<sup>\[兴化\]</sup>｜大狼狗一口把牛肉～下去。《集韵·铎韵》匹各切<sup>\[兴化\]</sup>｜“～，噍貌。”<sup>\[兴化\]</sup>  
+1. 【[㗘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah.md#㗘)】`pah7` ① 用双唇取食<sup>\[如皋\]</sup>：支啊桌上～烧饼屑子。<sup>\[如皋\]</sup>｜才开奶的，伢儿的细嘴在奶子上只～。 <sup>\[如皋\]</sup> ② 用嘴吸食<sup>\[兴化\]</sup>：酒𢮎啊桌上吖，他连忙拿嘴去～。<sup>\[兴化\]</sup>｜大狼狗一口把牛肉～下去。《集韵·铎韵》匹各切“～，噍貌。”<sup>\[兴化\]</sup>  
 1. 【[㗘咖㗘的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_ga_pah_dii.md#㗘咖㗘的)】`pah7 ga pah7 dii` <sup>[东台]</sup> 形容作风飘浮，不踏实。  
 1. 【[㗘话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_hua.md#㗘话)】`pah7 hua6` <sup>[如皋]</sup> 假、大、空的话，神话故事等。  
 1. 【[㗘嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_jy.md#㗘嘴)】`pah7 jy3` ① 指口风不紧，或常说大话的人。<sup>\[东台\]</sup> ② 说大话：他是个～。<sup>\[泰县\]</sup>  
