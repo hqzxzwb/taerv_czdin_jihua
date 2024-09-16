@@ -880,8 +880,7 @@
 1. 【[皱纹肚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheu_ven_dv_r.md#皱纹肚<sub>儿</sub>)】`zheu5 ven2 dv3 r` <sup>[如皋]</sup> 牛皱胃。  
 1. 【[䇽圈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_qiun_r.md#䇽圈<sub>儿</sub>)】`zhih7 qiun1 r` <sup>[如皋]</sup> 见“䇽子”。  
 1. 【[䇽窝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_u.md#䇽窝)】`zhih7 u1` <sup>[东台]</sup> 见“窝䇽”（窝摺）。  
-1. 【[䇽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_zz.md#䇽子)】`zhih7 zz` ① 一种囤粮用的长条形芦席，可盘成饼状。<sup>\[如皋\]</sup> ② 苇篾编成的长席，用来圈囤谷物<sup>\[兴化\]</sup>：稻～<sup>\[兴化\]</sup>｜麦～。《广雅·释器》<sup>\[兴化\]</sup>｜～，席也。俗写“折子”。<sup>\[兴化\]</sup>  
-1. 【[䇽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_zz.md#䇽子)】`zhih7 zz` <sup>[泰州]</sup> 将芦柴压扁剥开成片状，编织成宽50公分左右的长条席：今年子的稻丰收，家里的～都不够用唻。  
+1. 【[䇽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_zz.md#䇽子)】`zhih7 zz` 长条苇席\[如皋：一种囤粮用的长条形芦席，可盘成饼状。\]\[泰州：将芦柴压扁剥开成片状，编织成宽50公分左右的长条席\]\[如东：芦苇编成，一尺宽，三丈长左右。围圈起来，可以囤放粮食。也叫折圈儿。\]\[兴化：苇篾编成的长席，用来圈囤谷物\]：稻～<sup>\[兴化\]</sup>｜麦～。《广雅·释器》<sup>\[兴化\]</sup>｜～，席也。俗写“折子”。<sup>\[兴化\]</sup>｜今年子的稻丰收，家里的～都不够用唻。<sup>\[泰州\]</sup>  
 1. 【[慑惧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_qy.md#慑惧)】`zhih7 qy6` <sup>[如东]</sup> 警畏，害怕。  
 1. 【[折](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih.md#折)】`zhih7` ① （迷信）人享用过度或有亏心事，冥冥之中会减去福分、寿数<sup>\[兴化\]</sup>：他寻这种黑心钱，早晚总有一～。<sup>\[兴化\]</sup> ② 折叠。<sup>\[泰县\]</sup>  
 1. 【[折福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_foh.md#折福)】`zhih7 foh7` ① 因过分享受或不合情理地铺张浪费而减少福分。<sup>\[东台\]</sup> ② 指责人不知足，生在福中不知福<sup>\[东台\]</sup>：那些端起碗来吃肉放下筷子骂娘的人真要～。<sup>\[东台\]</sup> ③ 因过分享受或者妄受尊崇而减损福分<sup>\[泰州\]</sup>：我俫是老百姓，吃这吖贵的东西，要～的。<sup>\[泰州\]</sup>  
@@ -901,7 +900,7 @@
 1. 【[折周](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_zheu.md#折周)】`zhih7 zheu` <sup>[泰州]</sup> ① （泰州作𨐃𨰵，兴化泰县作结皱。另有“周折”同义，字序颠倒） ② 事情进程曲折不顺利：你家孙子上学的事怎吖就这吖～的？｜贷款的事做～啊，忙吖个把月都不曾好。  
 1. 【[折折笼笼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_zhih_lon_lon.md#折折笼笼)】`zhih7 zhih7 lon2 lon2` <sup>[东台]</sup> 受拘束，不洒脱的样子：到外面潇洒些，不要～的。也称“窄窄笼笼”。  
 1. 【[折纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_zhr.md#折纸)】`zhih7 zhr3` <sup>[如皋]</sup> ① 纸折成各种形状的技艺。 ② 儿童手工练习法之一。  
-1. 【[折子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_zz.md#折子)】`zhih7 zz` ① 芦苇编成，一尺宽，三丈长左右。围圈起来，可以囤放粮食。也叫折圈儿。<sup>\[如东\]</sup> ② 旧时民间流行的折叠式小账本，又称金折儿。在借贷中记账、签字用。<sup>\[如皋\]</sup> ③ 用纸折叠而成的小册子，一般在十三折以上。<sup>\[东台\]</sup> ④ 指存折。<sup>\[东台\]</sup>  
+1. 【[折子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_zz.md#折子)】`zhih7 zz` ① 旧时民间流行的折叠式小账本，又称金折儿。在借贷中记账、签字用。<sup>\[如皋\]</sup> ② 用纸折叠而成的小册子，一般在十三折以上。<sup>\[东台\]</sup> ③ 指存折。<sup>\[东台\]</sup>  
 1. 【[浙贝母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_bei_mu.md#浙贝母)】`zhih7 bei5 mu3` <sup>[如东]</sup> 百合科植物浙贝母，多年生草本。鳞茎半球形，有2-3片肉质鳞片（名元宝贝）。茎单一，直立，圆柱形，高约80厘米。叶无柄；茎下部叶对生，披针形；中上部叶轮生，较短，先端卷须状。花单生茎顶或叶腋，淡黄色或黄绿色。蒴果卵圆形。种子扁平，边缘具翅。生长在湿润的沟边、村边草丛中。  
 1. 【[蜇下子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_ha_zz.md#蜇下子)】`zhih7 ha zz` <sup>[如皋]</sup> 用盐稍腌。  
 1. 【[蜇人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_ren_zz.md#蜇人子)】`zhih7 ren zz` <sup>[如皋]</sup> 被腌的痛感。  
@@ -916,21 +915,18 @@
 1. 【[沾沾搭搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_zhin_daeh_daeh.md#沾沾搭搭)】`zhin1 zhin1 daeh7 daeh7` <sup>[如东]</sup> 爱占小便宜：这人贪小便宜，就喜欢～的。  
 1. 【[展手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_sheu.md#展手)】`zhin3 sheu3` <sup>[泰州]</sup> 空间较大可以让人充分施展手脚：这个厨房太小，在里头做活技不好～。  
 1. 【[搌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin.md#搌)】`zhin3` ① 抹、擦 ② 用抹布揩抹<sup>\[兴化\]</sup>：拿搌布把桌子～啊子。《集韵·线韵》陟扇切<sup>\[兴化\]</sup>｜“～，卷也，拭也”。<sup>\[兴化\]</sup> ③ 擦拭<sup>\[泰州\]</sup>：～桌子<sup>\[泰州\]</sup>  
-1. 【[搌布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_bv.md#搌布)】`zhin3 bv5` ① 抹布 ② 清洁桌面和灶具的一种布巾。<sup>\[如东\]</sup> ③ 抹布。<sup>\[如皋\]</sup> ④ 抹布。<sup>\[东台\]</sup>  
-1. 【[搌布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_bv.md#搌布)】`zhin3 bv5` <sup>[泰州]</sup> 抹布，擦拭器物上灰尘的布块。  
+1. 【[搌布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_bv.md#搌布)】`zhin3 bv5` 抹布<sup>\[如皋\]</sup><sup>\[东台\]</sup>\[泰州：擦拭器物上灰尘的布块。\]\[如东：清洁桌面和灶具的一种布巾。\]  
 1. 【[搌潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_cho.md#搌潮)】`zhin3 cho2` ① 见“搌澡”。<sup>\[如皋\]</sup> ② 用湿毛巾擦拭身体。<sup>\[东台\]</sup> ③ 洗澡。<sup>\[东台\]</sup>  
 1. 【[搌锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_gu.md#搌锅)】`zhin3 gu1` <sup>[如东]</sup> ① 煮饭烧菜完了，用抹布将锅洗擦干净。 ② 做祭祀活动时，表示吃斋饭结束了。  
 1. 【[搌身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_shen.md#搌身)】`zhin3 shen1` ① 给新死者揩擦身体。<sup>\[如皋\]</sup> ② 用湿毛巾擦拭身体。<sup>\[兴化\]</sup>  
-1. 【[搌澡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_zo.md#搌澡)】`zhin3 zo3` ① 用毛巾擦身。<sup>\[如东\]</sup> ② 用湿毛巾揩擦全身。<sup>\[如皋\]</sup> ③ 洗澡。特指在家中而不含上浴室洗澡。也说“搌潮”。<sup>\[兴化\]</sup> ④ 洗澡、擦身子。<sup>\[泰县\]</sup>  
-1. 【[搌澡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_zo.md#搌澡)】`zhin3 zo3` <sup>[泰州]</sup> 一种净身方式，将毛巾挤至半干擦身，反复至身上干净为止：家里热水没得咖唻，你克服咖子，弄点儿冷水～吧。  
+1. 【[搌澡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_zo.md#搌澡)】`zhin3 zo3` 简易洗浴，用湿毛巾揩擦全身。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[泰县\]</sup>\[泰州：将毛巾挤至半干擦身，反复至身上干净为止\]\[兴化：特指在家中而不含上浴室洗澡。也说“搌潮”。\]：家里热水没得咖唻，你克服咖子，弄点儿冷水～吧。<sup>\[泰州\]</sup>  
 1. 【[占霸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_ba.md#占霸)】`zhin5 ba5` <sup>[泰州]</sup> 过分精明强悍霸道：这个老奶奶做事太～，一个人占吖人家好几块地方种菜。  
 1. 【[占房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_fan.md#占房)】`zhin5 fan2` <sup>[兴化]</sup> 妇女分娩、坐月子：他家新妇～，家里忌生人。  
 1. 【[占界](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_gae.md#占界)】`zhin5 gae5` <sup>[如东]</sup> 侵占别人的地域：田地有界岸，不能～。  
 1. 【[占压](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_ngaeh.md#占压)】`zhin5 ngaeh7` <sup>[泰州]</sup> 侵占他人利益，使他人吃亏：这就是这高头不好，不管分甚的东西，总要～人点儿。｜他这个人正派，从来不～人。  
 1. 【[占押](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_ngaeh.md#占押)】`zhin5 ngaeh7` <sup>[泰县]</sup> 占了别人的便宜。  
 1. 【[占便宜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_pin_i.md#占便宜)】`zhin5 pin2 i` <sup>[东台]</sup> ① 用不正当的方法，取得额外利益。 ② 双方开玩笑，讨别人的巧。  
-1. 【[占强](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_qian.md#占强)】`zhin5 qian2` ① 持强多占<sup>\[如皋\]</sup>：这个小伙～，比别人多吃多拿，还不让人说他。<sup>\[如皋\]</sup> ② 好争斗，强势明显者。<sup>\[东台\]</sup> ③ 好胜，争上风。<sup>\[如东\]</sup>：不要～。<sup>\[如东\]</sup>  
-1. 【[占强](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_qian.md#占强)】`zhin5 qian2` <sup>[泰州]</sup> 凡事都要占优：这马马儿太～，没得人欢喜她。  
+1. 【[占强](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_qian.md#占强)】`zhin5 qian2` 好胜，好争上风，事事要多占好处<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[如东\]</sup><sup>\[泰州\]</sup>：这个小伙～，比别人多吃多拿，还不让人说他。<sup>\[如皋\]</sup>｜这马马儿太～，没得人欢喜她。<sup>\[泰州\]</sup>  
 1. 【[占身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_shen.md#占身)】`zhin5 shen1` <sup>[兴化]</sup> 靠近身体：他和人打架时不让人～。｜智深不等他～，右脚早起，腾的把李四先踢下粪窖里去。（《水浒传》七）  
 1. 【[招](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho.md#招)】`zho1` ① 招认、供认。<sup>\[如皋\]</sup> ② 掖，把被子或衣服的下部往里折叠<sup>\[兴化\]</sup>：把脚头被子～好。<sup>\[兴化\]</sup>｜把裤脚子～起一边来。<sup>\[兴化\]</sup> ③ 将被子边侧掖进身体下面<sup>\[泰州\]</sup>：晚上睏觉前，同伢儿把被单～～好。<sup>\[泰州\]</sup> ④ 将上衣下摆掖进裤子里<sup>\[泰州\]</sup>：你穿衣裳怎吖这吖马虎，连个衬衫都不曾～得好。<sup>\[泰州\]</sup>  
 1. 【[招啊家里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_a_ga_lii.md#招啊家里)】`zho1 a ga1 lii` <sup>[如皋]</sup> 见“招女婿”。  
