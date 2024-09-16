@@ -1175,7 +1175,7 @@
 1. 【[天气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_qi.md#天气)】`tin1 qi5` <sup>[兴化]</sup> 指时间、时候：现在是半夜～。｜～不早啊，快家去吧！  
 1. 【[天气暑暖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_qi_chv_nun.md#天气暑暖)】`tin1 qi5 chv3 nun3` <sup>[兴化]</sup> 天气炎热：～的在家里凉凉，覅出去乱跑。‖也作“天气暑热”。  
 1. 【[天桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_qio.md#天桥)】`tin1 qio2` ① 彩虹。<sup>\[如皋\]</sup> ② 虹。<sup>\[如皋\]</sup>  
-1. 【[天日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_rih.md#天日)】<p>`tin1 rih8(txe:0)` /tʰɪ̃1 ɪʔ/<sup>泰兴</sup></p> 一昼夜中白天的时间<sup>\[泰兴\]</sup><sup>\[如东\]</sup>：夏天～长，寒天～短<sup>\[泰兴\]</sup>  
+1. 【[天日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_rih.md#天日)】<p>`tin1 rih8` /tʰɪ̃1 ɪʔ/<sup>泰兴</sup></p> 一昼夜中白天的时间<sup>\[泰兴\]</sup><sup>\[如东\]</sup>：夏天～长，寒天～短<sup>\[泰兴\]</sup>  
 1. 【[天色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_seh.md#天色)】`tin1 seh` <sup>[兴化]</sup> 阴云密布，要下雨的先兆：～下来啊，快望家跑。  
 1. 【[天色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_seh.md#天色)】<p>`tin1 seh7` /tʰɪ̃1 səʔ7/<sup>泰兴</sup></p> 天气。<sup>\[如东\]</sup><sup>\[东台\]</sup>\[泰兴：“天作色”亦谓天气变了，可能要刮风下雨之意。\]：～不好。<sup>\[如东\]</sup>｜出门看～，进门看脸色。<sup>\[东台\]</sup>｜～不好，恐怕要落雨。<sup>\[泰兴\]</sup>  
 1. 【[天色泛红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_seh_faen_hon.md#天色泛红)】`tin1 seh7 faen5 hon2` <sup>[如皋]</sup> 彤云密布，预示有雪。  
@@ -2051,12 +2051,12 @@
 1. 【[度](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv.md#度)】`tv6` <sup>[东台]</sup> ① 跨过，越过：春风不～玉门关/飞～天堑。 ② 经过，经历：虚～青春/欢～春节。 ③ 用于动作次数（经历几次就是几度）：一年一～/几～风雨，几～春秋/再～上映。 ④ 佛教、道教指让人超越尘俗或脱离苦难：剃～/超～。  
 1. 【[度量](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_lian.md#度量)】`tv6 lian6` <sup>[东台]</sup> 宽容的程度，气度：他交关有～，尽管有人当面骂他，他还是和颜悦色的耐心解释。  
 1. 【[度命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_mien.md#度命)】`tv6 mien6` ① 不顾艰苦，保全生命。<sup>\[如皋\]</sup> ② 同“餬嘴”。<sup>\[如皋\]</sup> ③ 勉强维持生命。<sup>\[如东\]</sup>：这吖点儿粮食只能～。<sup>\[如东\]</sup> ④ 饥荒年代或非常时期采取措施维持生存<sup>\[泰州\]</sup>：最困难的时候，他就靠山芋、胡萝卜～。<sup>\[泰州\]</sup> ⑤ 被迫在最艰苦条件下维持生命<sup>\[兴化\]</sup>：过去每逢荒年，穷人就靠野菜、皮糠～。<sup>\[兴化\]</sup>  
-1. 【[度命粮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_mien_lian.md#度命粮)】`tv6(tx:dv5) mien6 lian2` ① 勉强维持生命的粮食。也称救命粮。<sup>\[如东\]</sup> ② 仅有的一点口粮。<sup>\[泰县\]</sup>  
+1. 【[度命粮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_mien_lian.md#度命粮)】`tv6 mien6 lian2` ① 勉强维持生命的粮食。也称救命粮。<sup>\[如东\]</sup> ② 仅有的一点口粮。<sup>\[泰县\]</sup>  
 1. 【[度日如年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_rih_rv_nin.md#度日如年)】`tv6 rih8 rv2 nin2` <sup>[如东]</sup> 心中有一种焦虑的情绪，怨恨时间走得太慢。  
 1. 【[度种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_zhon.md#度种)】`tv6 zhon3` <sup>[如皋]</sup> ① 受孕。传后代。 ② 引进，以繁衍后代。  
 1. 【[杜仲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_chon.md#杜仲)】`tv6 chon6` <sup>[如东]</sup> 杜仲科植物杜仲，落叶乔木。高约20米。小枝光滑，黄褐色或较淡，具片状髓。皮、枝及叶均含胶质。单叶互生，椭圆形，边缘具锯齿。花单性，雌雄异株，与叶同时开放，或先叶开放。翅果卵状长椭圆形而扁，内有种子1粒。栽培。  
 1. 【[杜仲叶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_chon_ih.md#杜仲叶)】`tv6 chon6 ih8` <sup>[如东]</sup> 杜仲科植物杜仲嫩叶，也称棉芽。  
-1. 【[杜狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_geu.md#杜狗)】`tv6(tx:dv5) geu3` 蝼蛄<sup>\[泰县\]</sup>\[兴化：俗称“土狗子”“土地狗子”。\]  
+1. 【[杜狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_geu.md#杜狗)】`tv6 geu3` 蝼蛄<sup>\[泰县\]</sup>\[兴化：俗称“土狗子”“土地狗子”。\]  
 1. 【[杜瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_gua.md#杜瓜)】`tv6 gua1` <sup>[如皋]</sup> 栝楼。  
 1. 【[杜鹃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_jiun.md#杜鹃)】`tv6 jiun1` <sup>[如东]</sup> 杜鹃科动物小杜鹃，体长约28厘米。嘴暗黑色，基部黄色，细长而弯曲。眼睑黄色。颗部灰色。背部青灰色；翼长，外侧飞羽内輞有白色横纹。尾羽灰票色。尾羽中央沿羽轴有白色横斑，外侧有白色横纹。腹部白色，杂有细小黑色斑纹。脚细小，黄色，对趾型。常栖于林中，初夏间常昼夜鸣叫。好食毛虫。不自营巢，常产卵于莺巢内孵化。  
 1. 【[杜鹃花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_jiun_hua.md#杜鹃花)】`tv6 jiun1 hua1` <sup>[如东]</sup> 杜鵑花科植物杜鹃花，常绿乔木。高约8米。树皮棕色，呈不规则片状剥裂。叶互生，长椭圆状披针形，全缘而微波状。花多数簇生于枝顶，成伞形花序式的总状花序；花大而美丽，紫红色，花冠漏斗状。蒴果圆柱形。栽培。  

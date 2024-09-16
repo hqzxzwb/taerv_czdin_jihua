@@ -1227,7 +1227,7 @@
 1. 【[当<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_r.md#当<sub>儿</sub>)】`dan1 r` <sup>[泰州]</sup> 事情正在发生或者进行的时候：高考的～，家里出咖事。  
 1. 【[当<sub>儿</sub>里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_r_lii.md#当<sub>儿</sub>里)】`dan1 r lii` <sup>[如东]</sup> ① 地方：在哪个～。 ② 时候。  
 1. 【[当人百众的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_ren_boh_zhon_dii.md#当人百众的)】`dan1 ren2 boh7 zhon5 dii` <sup>[如皋]</sup> 当着大家的面（说、做）。有“公开地、毫无隐晦地”的意思。  
-1. 【[当人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_ren_zz.md#当人子)】<p>`dan1(tx,txe:da1) ren2(tx,txe,rg:0) zz` /ta1 ɻə̃ t͡sɿ/<sup>泰兴</sup></p> ① 不作兴。小孩或晚辈触犯长辈尊严或糟蹋粮食时，长者常以此语进行教育和吓唬。<sup>\[如东\]</sup>：你骂奶奶，～的呀！<sup>\[如东\]</sup> ② 表示一种欠意或感谢。<sup>\[如东\]</sup>：你送箇么些东西给我，～！<sup>\[如东\]</sup> ③ 任意糟蹋东西<sup>\[东台\]</sup>：你把这吖好的菜倒掉，～呢，响雷要打头！<sup>\[东台\]</sup> ④ 佛教语，罪过。也作“不～”。<sup>\[兴化\]</sup>：窖作粮食～！<sup>\[兴化\]</sup> ⑤ 违反伦理。<sup>\[泰县\]</sup> ⑥ 犹丧良心，不道德。有时含迷信味，认亵渎神灵。<sup>\[泰兴\]</sup>：把滞饭倒啊阴沟里，又不怕～。<sup>\[泰兴\]</sup> ⑦ 不该、不能<sup>\[如皋\]</sup>：骂上人～！窖作粮饭～！<sup>\[如皋\]</sup> ⑧ 心愧<sup>\[如皋\]</sup>：吃你老人家的杲子～！<sup>\[如皋\]</sup>  
+1. 【[当人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_ren_zz.md#当人子)】<p>`dan1 ren2 zz` /ta1 ɻə̃ t͡sɿ/<sup>泰兴</sup></p> ① 不作兴。小孩或晚辈触犯长辈尊严或糟蹋粮食时，长者常以此语进行教育和吓唬。<sup>\[如东\]</sup>：你骂奶奶，～的呀！<sup>\[如东\]</sup> ② 表示一种欠意或感谢。<sup>\[如东\]</sup>：你送箇么些东西给我，～！<sup>\[如东\]</sup> ③ 任意糟蹋东西<sup>\[东台\]</sup>：你把这吖好的菜倒掉，～呢，响雷要打头！<sup>\[东台\]</sup> ④ 佛教语，罪过。也作“不～”。<sup>\[兴化\]</sup>：窖作粮食～！<sup>\[兴化\]</sup> ⑤ 违反伦理。<sup>\[泰县\]</sup> ⑥ 犹丧良心，不道德。有时含迷信味，认亵渎神灵。<sup>\[泰兴\]</sup>：把滞饭倒啊阴沟里，又不怕～。<sup>\[泰兴\]</sup> ⑦ 不该、不能<sup>\[如皋\]</sup>：骂上人～！窖作粮饭～！<sup>\[如皋\]</sup> ⑧ 心愧<sup>\[如皋\]</sup>：吃你老人家的杲子～！<sup>\[如皋\]</sup>  
 1. 【[当仁不让](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_ren_beh_ran.md#当仁不让)】`dan1 ren2 beh7 ran6` <sup>[如东]</sup> 遇到属于自己做的事情，积极主动去做，不退让。  
 1. 【[当手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_sheu.md#当手)】`dan1 sheu3` ① 经手。<sup>\[如东\]</sup>：这项工程由他～。<sup>\[如东\]</sup> ② 经手主办。<sup>\[如皋\]</sup>  
 1. 【[当时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_shr.md#当时)】`dan1 shr2` <sup>[如皋]</sup> 适时：天热起来啊，西瓜正～。  
@@ -2018,7 +2018,7 @@
 1. 【[刀砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_zhun.md#刀砖)】`do1 zhun1` <sup>[泰兴]</sup> 磨刀剪用的优质砖石。  
 1. 【[刀子不磨要上锈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_zz_beh_mu.md#刀子不磨要上锈)】`do1 zz beh7 mu2 io5 shan6 xieu5` <sup>[泰兴]</sup> 勉励勤奋、不懈怠之语  
 1. 【[刀子鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_zz_y.md#刀子鱼)】`do1 zz y2` <sup>[兴化]</sup> 鲫鱼。不同于长江“刀鱼”。  
-1. 【[刀子嘴，豆腐心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_zz_zuei_teu.md#刀子嘴，豆腐心)】<p>`do1 zz zuei3(dt:jy3) teu6 fv xien1` /tɔ1 t͡sɿ t͡suəɪ3 tʰəɪ1 fʋ ɕiŋ1/<sup>泰兴</sup></p> 说话狠却心软，语言尖利而心地善良。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
+1. 【[刀子嘴，豆腐心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_zz_zuei_teu.md#刀子嘴，豆腐心)】<p>`do1 zz zuei3 teu6 fv xien1` /tɔ1 t͡sɿ t͡suəɪ3 tʰəɪ1 fʋ ɕiŋ1/<sup>泰兴</sup></p> 说话狠却心软，语言尖利而心地善良。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[叨叨嘚嘚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_do_deh_deh.md#叨叨嘚嘚)】`do1 do1 deh7 deh7` <sup>[东台]</sup> 形容说话啰嗦、重三倒四。  
 1. 【[叨嗑穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_kuh_qion.md#叨嗑穷)】`do1 kuh7 qion2` <sup>[兴化]</sup> 成天絮絮叨叨的人：他是个～，一天到晚不晓得说甚的？  
 1. 【[倒啊八世的楣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_a_baeh_shr_dii_mi.md#倒啊八世的楣)】`do3 a baeh7 shr5 dii mi2` <sup>[如皋]</sup> 非常倒楣。  

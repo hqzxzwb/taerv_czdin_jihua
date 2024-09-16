@@ -1432,7 +1432,7 @@
 1. 【[关目](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_moh.md#关目)】`guaen1 moh` ① 状婴儿的某些表情动作<sup>\[如皋\]</sup>：小家伙睏吖，一刻儿眨眼、一刻儿又笑，在下做～。<sup>\[如皋\]</sup> ② 故弄玄虚、玩嘘头、卖关子。<sup>\[如皋\]</sup> ③ 礼节、仪式<sup>\[兴化\]</sup>：旧式的婚礼～多唻，一步也错不得。<sup>\[兴化\]</sup> ④ 花样<sup>\[兴化\]</sup>：他的～最多，有点儿真名其妙。<sup>\[兴化\]</sup>  
 1. 【[关目](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_moh.md#关目)】`guaen1 moh8` <sup>[泰州]</sup> ① 戏曲、小说中的关键情节。 ② 名堂，泛指某个事件中的关键之处：银行里头的～多唻，同你二三句话说不清，你只要贷款办吖成吖，其他的你就不要管唻。 ③ 指男女之间暧昧情事：这马马儿的伢儿到这吖大唻，还同人家小伙头子弄这些～，哿有个说头唻。 ④ 婚礼、丧礼以及开张、奠基等仪式上所进行的特别程序：他家小伙结婚请的就是这家婚庆公司，听说弄的～不少。｜他家起这个楼的时候，也请吖个人过来做啊些～。  
 1. 【[关目刀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_moh_do_r.md#关目刀<sub>儿</sub>)】`guaen1 moh8 do1 r` <sup>[如东]</sup> 示意一种信息：他在下做～。  
-1. 【[关目三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_moh_saen.md#关目三)】`guaen1 moh8(dt:7) saen1` ① 代指事物<sup>\[如皋\]</sup>：他家店里吃的穿的用的，甚的～总有。<sup>\[如皋\]</sup> ② 故弄玄虚、玩嘘头、卖关子。同“关目”。<sup>\[如皋\]</sup> ③ 也叫“关目”，或称噱头、不可告人的名堂<sup>\[东台\]</sup>：朋友之间还是坦诚相见好，不要玩～。<sup>\[东台\]</sup> ④ 花样，名目<sup>\[兴化\]</sup>：他的～多，几天翻一个花样。<sup>\[兴化\]</sup>  
+1. 【[关目三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_moh_saen.md#关目三)】`guaen1 moh8 saen1` ① 代指事物<sup>\[如皋\]</sup>：他家店里吃的穿的用的，甚的～总有。<sup>\[如皋\]</sup> ② 故弄玄虚、玩嘘头、卖关子。同“关目”。<sup>\[如皋\]</sup> ③ 也叫“关目”，或称噱头、不可告人的名堂<sup>\[东台\]</sup>：朋友之间还是坦诚相见好，不要玩～。<sup>\[东台\]</sup> ④ 花样，名目<sup>\[兴化\]</sup>：他的～多，几天翻一个花样。<sup>\[兴化\]</sup>  
 1. 【[关目三<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_moh_saen_r.md#关目三<sub>儿</sub>)】`guaen1 moh8 saen1 r` <sup>[泰县]</sup> 鬼点子：他真有点～。  
 1. 【[关碍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_ngae.md#关碍)】`guaen1 ngae6` <sup>[兴化]</sup> ① 阻碍：你俫的婚事如果遇到～，我一定出来调停。 ② 有碍于：丁母～着北侠，不好推托。（《三侠五义》六四）  
 1. 【[关神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_shen.md#关神)】`guaen1 shen2` <sup>[兴化]</sup> 关心、注意：他人虽老，对家里的事情处处～。  
@@ -1944,7 +1944,7 @@
 1. 【[鹳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun.md#鹳)】`gun5` <sup>[东台]</sup> 外形像鹤，也像鹭，嘴长而直，翼大尾短，善飞翔，常在水边捕食鱼、虾、蛙、贝等。  
 1. 【[咕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv.md#咕)】`gv1` ① 一饮而尽<sup>\[如皋\]</sup>：一口～。<sup>\[如皋\]</sup> ② 不断地轻轻地说，嘀咕<sup>\[如皋\]</sup>：他～啊不歇，就是要买电脑。<sup>\[如皋\]</sup> ③ 鸽子“谈遇”之声。<sup>\[如皋\]</sup> ④ 食物或水蓄在嘴里。<sup>\[东台\]</sup> ⑤ 啰唆<sup>\[泰县\]</sup>：你～得我头疼。<sup>\[泰县\]</sup>  
 1. 【[咕咕叫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_gv_jio.md#咕咕叫)】`gv1 gv1 jio5` <sup>[东台]</sup> 发出咕咕的响声：（童谣）肚子～，吃饭时未到。  
-1. 【[姑𬥐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_bae.md#姑𬥐)】`gv1 bae1(tz,tx:3)` ① 姑父。<sup>\[兴化\]</sup><sup>\[泰州\]</sup> ② 姨父（存疑）。<sup>\[泰县\]</sup>  
+1. 【[姑𬥐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_bae.md#姑𬥐)】`gv1 bae1` ① 姑父。<sup>\[兴化\]</sup><sup>\[泰州\]</sup> ② 姨父（存疑）。<sup>\[泰县\]</sup>  
 1. 【[姑表](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_bio.md#姑表)】`gv1 bio3` <sup>[泰州]</sup> 姑母的子女与本人的亲戚关系：他俫两个人是～。  
 1. 【[姑丈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_chan.md#姑丈)】`gv1 chan6` 姑父，姑姑的丈夫  
 1. 【[姑爹爹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_dia_dia.md#姑爹爹)】`gv1 dia1 dia` ① 姑父，姑妈的丈夫 ② 父亲或母亲的姑父。<sup>\[兴化\]</sup> ③ 丈夫的姑父。<sup>\[兴化\]</sup>  

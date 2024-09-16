@@ -719,7 +719,7 @@
 1. 【[京货店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_hu_din.md#京货店)】`jien1 hu5 din5` ① 销售北方货物的商店。<sup>\[如东\]</sup> ② 卖北方土、特品的商店。<sup>\[如皋\]</sup>  
 1. 【[京胡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_hv.md#京胡)】`jien1 hv2` <sup>[如皋]</sup> 高音胡琴。  
 1. 【[京腔京调](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_qian_jien_tio.md#京腔京调)】`jien1 qian1 jien1 tio6` <sup>[如皋]</sup> 北京人说话的腔调。  
-1. 【[京枣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zo.md#京枣)】`jien1 zo3` <sup>[如东]</sup> 糕点的一种。面粉经过发酩，加工成圆柱形。放在油中炸熟，再沾上糖。是普通糕点。  
+1. 【[京枣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zo.md#京枣)】`jien1 zo3` <sup>[如东]</sup> 糕点的一种。面粉经过发酵，加工成圆柱形。放在油中炸熟，再沾上糖。是普通糕点。  
 1. 【[今吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_nga.md#今吖)】`jien1 nga` 今天。  
 1. 【[今日三，明日四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_rih_saen_mien_rih_sz.md#今日三，明日四)】`jien1 rih8 saen1 mien2 rih8 sz5` <sup>[兴化]</sup> ① 日复一日：“就这样，～，从偷人家的鸡蛋开始，到偷人家的钱、船、车、木排……”（兴文《鲢鱼宝》） ② 施延时日：他借钱时说好一年内归还，结果～，至今分文未还。 ③ 朝三暮四，反复无常：爱情要专一，不要～的。  
 1. 【[惊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien.md#惊)】`jien1` ① 痉挛，抽筋：～～憷憷的、～吖～的。<sup>\[如皋\]</sup> ② 惊风：惹～。如皋词典写“痉”。<sup>\[如皋\]</sup> ③ 婴幼儿因受意外刺激而害怕<sup>\[兴化\]</sup>：小儿～吖。<sup>\[兴化\]</sup> ④ 痱子受刺激而骤痒<sup>\[兴化\]</sup>：痱子一～，浑身发痒。<sup>\[兴化\]</sup> ⑤ 收到意外刺激而引起抽搐<sup>\[泰州\]</sup>：你喉咙小啊点ㄦ哉，不要把伢儿惊吖。<sup>\[泰州\]</sup>  
@@ -910,7 +910,7 @@
 1. 【[紧冻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_don.md#紧冻)】`jien3 don5` <sup>[兴化]</sup> 冬天连刮西北风，气温骤降，风停后河面封冻：风一停就～。  
 1. 【[紧房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_fan.md#紧房)】`jien3 fan2` <sup>[如皋]</sup> 同祖亲属，即“堂”。  
 1. 【[紧隔壁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_geh_bieh.md#紧隔壁)】`jien3 geh7 bieh7` ① 紧邻。<sup>\[如皋\]</sup> ② 指并列的房屋之间<sup>\[兴化\]</sup>：“都头不消访问，王婆在～住，只问王婆就知了。”（《金瓶梅词话》九）<sup>\[兴化\]</sup>  
-1. 【[紧佮佮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_guh_guh.md#紧佮佮)】`jien3 guh7(xh:geh7) guh7(xh:geh7)` ① 形容很紧凑<sup>\[兴化\]</sup>：他家住啊三间一厨房，～的。<sup>\[兴化\]</sup> ② 松紧正好。<sup>\[泰县\]</sup>  
+1. 【[紧佮佮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_guh_guh.md#紧佮佮)】`jien3 guh7 guh7` ① 形容很紧凑<sup>\[兴化\]</sup>：他家住啊三间一厨房，～的。<sup>\[兴化\]</sup> ② 松紧正好。<sup>\[泰县\]</sup>  
 1. 【[紧佮佮的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_guh_guh_dii.md#紧佮佮的)】`jien3 guh7 guh7 dii` <sup>[东台]</sup> 两物相合，缝隙很小：这双皮鞋穿吖脚上～。  
 1. 【[紧揖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_ieh.md#紧揖)】`jien3 ieh` <sup>[如东]</sup> 紧束：这种衣服穿吖身上～。  
 1. 【[紧脚鞋子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_jiah_hae_zz.md#紧脚鞋子)】`jien3 jiah hae2 zz` <sup>[兴化]</sup> 犹小鞋：你向他提意见，他背后弄个～把你穿穿。  
@@ -1634,7 +1634,7 @@
 1. 【[锯口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_keu.md#锯口)】`jy5 keu3` ① 锯齿处。<sup>\[如东\]</sup> ② 下锯的部位。<sup>\[如东\]</sup> ③ 锯下来的脚料。<sup>\[如皋\]</sup>  
 1. 【[锯木屑<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_moh_xiuh_r.md#锯木屑<sub>儿</sub>)】`jy5 moh8 xiuh7 r` <sup>[如皋]</sup> 比喻初学拉胡琴，声音嘶哑难听。  
 1. 【[锯匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_qian.md#锯匠)】`jy5 qian` <sup>[泰州]</sup> 以拉锯解析木头为职业的工匠：现在的木料全部用电锯，～望不到唻。  
-1. 【[锯匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_qian.md#锯匠)】`jy5 qian6(rg:0)` 旧指拉锯剖原木、解木方、木板的工人。这项工作今已由机械取代。<sup>\[兴化\]</sup><sup>\[如皋\]</sup>  
+1. 【[锯匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_qian.md#锯匠)】`jy5 qian6` 旧指拉锯剖原木、解木方、木板的工人。这项工作今已由机械取代。<sup>\[兴化\]</sup><sup>\[如皋\]</sup>  
 1. 【[锯屑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_xiuh.md#锯屑)】`jy5 xiuh7` <sup>[兴化]</sup> 锯竹、木等掉的细末。  
 1. 【[锯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_zz.md#锯子)】`jy5 zz` <sup>[如东]</sup> 工具。长条形，金属制，一边有齿。用以切割木材、钢材等材料。  
 1. 【[䂐䂐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jyeh_jyeh_r.md#䂐䂐<sub>儿</sub>)】`jyeh7 jyeh r` <sup>[如皋]</sup> 短：她穿的一件短～衣裳，总遮不到肚脐眼儿；短～的尾巴。jyeh7是zhueh7的口语音。  

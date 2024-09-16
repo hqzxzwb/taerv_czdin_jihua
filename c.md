@@ -912,7 +912,7 @@
 1. 【[㵾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen.md#㵾)】`chen6` \[训\]使（人）觉冷<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：～人｜冰～人｜手伸吖冻水里，骨头～得疼。<sup>\[如皋\]</sup>｜被窠里蛮～人的。<sup>\[兴化\]</sup>｜这盆水冰～人的。<sup>\[兴化\]</sup>｜九里天下河去洗被单，还把人～煞唻。<sup>\[泰州\]</sup>  
 1. 【[㵾牙齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_ia_chr.md#㵾牙齿)】`chen6 ia2 chr3` <sup>[东台]</sup> 食物偏冷，牙齿咀嚼时有冷的感觉。  
 1. 【[㵾人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_ren_zz.md#㵾人子)】`chen6 ren zz` <sup>[如皋]</sup> 接触冷物的感觉：冷天，手摸咖石头上觉察～。  
-1. 【[㵾人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_ren.md#㵾人)】`chen6 ren2(tx,txe:0)` 物体温度低，使人触及后有冷刺激的感觉<sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：你手太冷，～吖。<sup>\[东台\]</sup>｜晚上睡觉的时候，被单里头～的话，你就加个汤焐子。<sup>\[泰州\]</sup>｜这吖冷的天，水再冷～也要洗。<sup>\[泰州\]</sup>  
+1. 【[㵾人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_ren.md#㵾人)】`chen6 ren2` 物体温度低，使人触及后有冷刺激的感觉<sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：你手太冷，～吖。<sup>\[东台\]</sup>｜晚上睡觉的时候，被单里头～的话，你就加个汤焐子。<sup>\[泰州\]</sup>｜这吖冷的天，水再冷～也要洗。<sup>\[泰州\]</sup>  
 1. 【[阵场雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_chan_y.md#阵场雨)】`chen6 chan y3` <sup>[如皋]</sup> 见“阵头雨”。  
 1. 【[阵场雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_chan_y.md#阵场雨)】`chen6 chan2 y3` ① 雷阵雨。<sup>\[如东\]</sup> ② 夏秋季节短暂的骤雨。<sup>\[东台\]</sup>  
 1. 【[阵阵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_chen.md#阵阵)】`chen6 chen6` <sup>[如皋]</sup> 见“阵头”。  

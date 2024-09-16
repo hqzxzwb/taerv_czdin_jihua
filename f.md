@@ -938,7 +938,7 @@
 1. 【[芙蓉鸟<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_ion_nio_r.md#芙蓉鸟<sub>儿</sub>)】`fv2 ion2 nio3 r` <sup>[如皋]</sup> ① 即“黄鸟儿”。 ② 金丝雀。  
 1. 【[芙蓉鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_ion_y.md#芙蓉鱼)】`fv2 ion2 y2` <sup>[如皋]</sup> 用青鱼肉打腐，汆成的扁团状物，加作料衬菜做成的菜名。  
 1. 【[俯就](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_qieu.md#俯就)】`fv3 qieu` ① 迁就<sup>\[如皋\]</sup>：伢儿不好过（生病），你～他点儿，不要惹他哭。<sup>\[如皋\]</sup> ② 勉强<sup>\[如皋\]</sup>：这件旧衣裳～好穿。<sup>\[如皋\]</sup> ③ 敷衍<sup>\[如皋\]</sup>：你就～修下子算了。<sup>\[如皋\]</sup> ④ 马乎、将就<sup>\[泰县\]</sup>：你～点儿，不要收他的钱。<sup>\[泰县\]</sup>  
-1. 【[俯就](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_qieu.md#俯就)】`fv3 qieu6(dt:jieu5)` ① 将就，迁就。<sup>\[如东\]</sup>：只好～一点。<sup>\[如东\]</sup> ② 马虎一点，将就一下（同“架挂”）<sup>\[东台\]</sup>：这事要办得十分严谨，不能～。<sup>\[东台\]</sup>  
+1. 【[俯就](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_qieu.md#俯就)】`fv3 qieu6` ① 将就，迁就。<sup>\[如东\]</sup>：只好～一点。<sup>\[如东\]</sup> ② 马虎一点，将就一下（同“架挂”）<sup>\[东台\]</sup>：这事要办得十分严谨，不能～。<sup>\[东台\]</sup>  
 1. 【[俯就<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_qieu_r.md#俯就<sub>儿</sub>)】`fv3 qieu6 r` 稍微，稍稍  
 1. 【[俯瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_va.md#俯瓦)】`fv3 va3` <sup>[如东]</sup> 瓦面朝上的瓦，叫俯瓦。  
 1. 【[府上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_shan.md#府上)】`fv3 shan` <sup>[东台]</sup> 敬辞，称对方的家庭。  
