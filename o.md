@@ -40,7 +40,7 @@
 1. 【[横生倒养](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_shen_do_ian.md#横生倒养)】`on2 shen1 do5 ian3` <sup>[泰县]</sup> （禁忌语）不能生育：这个人家～，是个绝后代。  
 1. 【[横说横答，武说武答](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_shuh_on_daeh_v_shuh_v_daeh.md#横说横答，武说武答)】`on2 shuh7 on2 daeh7 v3 shuh7 v3 daeh7` <sup>[东台]</sup> 形容某人厉害，敢于较量，从不让步示弱。  
 1. 【[横竖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_shv.md#横竖)】`on2 shv6` <small>/ɔŋ2 su1/<sup>如皋</sup></small> ① 反正。<sup>\[如皋\]</sup> ② 反正。<sup>\[如东\]</sup>：～不行。<sup>\[如东\]</sup> ③ 反正，不管怎样<sup>\[东台\]</sup>：这个项目一二名都是中国人，金牌～是中国的。<sup>\[东台\]</sup>  
-1. 【[横竖横](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_shv_on.md#横竖横)】`on2 shv6 on2` ① 无论如何。<sup>\[如东\]</sup>：～，我要拼到底。<sup>\[如东\]</sup> ② 反正如此，索性横下心来<sup>\[兴化\]</sup>：他把心一横，来个～，看大家怎吖对付自己。<sup>\[兴化\]</sup>  
+1. 【[横竖横](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_shv_on.md#横竖横)】`on2 shv6 on2` <small>/oŋ2 su6 oŋ2/<sup>兴化</sup></small> ① 无论如何。<sup>\[如东\]</sup>：～，我要拼到底。<sup>\[如东\]</sup> ② 反正如此，索性横下心来<sup>\[兴化\]</sup>：他把心一横，来个～，看大家怎吖对付自己。<sup>\[兴化\]</sup>  
 1. 【[横挑鼻子竖挑眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_tio_pieh_zz_shv_tio_ngaen.md#横挑鼻子竖挑眼)】`on2 tio1 pieh8 zz shv6 tio1 ngaen3` <sup>[东台]</sup> 比喻多方挑剔。  
 1. 【[横五六犟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_v_loh_qian.md#横五六犟)】`on2 v3 loh8 qian6` <sup>[兴化]</sup> 固执、顶牛，不服管教：这个小伙～的，一点不听话。  
 1. 【[横砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_zhun.md#横砖)】`on2 zhun1` <sup>[如皋]</sup> 砌墙时，砖阔面向上以长顺墙而砌。与“丁”砖相对。  
@@ -48,7 +48,7 @@
 1. 【[嗡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_zz.md#嗡子)】`on5 zz` <sup>[东台]</sup> 也叫二嗡子，即二胡。  
 1. 【[瓮子缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_zz_gan.md#瓮子缸)】`on5 zz gan1` <sup>[如皋]</sup> 一种高帮、大口小底的釉缸。  
 1. 【[齆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on.md#齆)】`on5, ngon5` <sup>[如皋]</sup> ① 鼻塞时的发音：他伤风，说话鼻子有点儿～。 ② 软腭缺损者的发音。  
-1. 【[齆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on.md#齆)】`on5` <small>/oŋ5/<sup>泰县</sup></small> ① 鼻子不通气声音嗡嗡 ② 因鼻塞而发音不清晰。《广韵·送韵》乌贡切：“～，鼻塞曰～”。<sup>\[兴化\]</sup>：他这几天感冒，说话～声～气的<sup>\[兴化\]</sup> ③ 鼻子不通气<sup>\[泰县\]</sup>：鼻孔都发咖～。（《广韵》去声送韵乌贡切：“鼻塞曰～”。）<sup>\[泰县\]</sup> ④ 鼻塞语音不清<sup>\[泰县\]</sup>：这个人鼻子发咖～。<sup>\[泰县\]</sup> ⑤ 鼻子不通气，发音不畅<sup>\[泰州\]</sup>：这两天感吖冒，说话声音有点～。<sup>\[泰州\]</sup>  
+1. 【[齆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on.md#齆)】`on5` <small>/oŋ5/<sup>兴化</sup>, /oŋ5/<sup>泰县</sup></small> ① 鼻子不通气声音嗡嗡 ② 因鼻塞而发音不清晰。《广韵·送韵》乌贡切：“～，鼻塞曰～”。<sup>\[兴化\]</sup>：他这几天感冒，说话～声～气的<sup>\[兴化\]</sup> ③ 鼻子不通气<sup>\[泰县\]</sup>：鼻孔都发咖～。（《广韵》去声送韵乌贡切：“鼻塞曰～”。）<sup>\[泰县\]</sup> ④ 鼻塞语音不清<sup>\[泰县\]</sup>：这个人鼻子发咖～。<sup>\[泰县\]</sup> ⑤ 鼻子不通气，发音不畅<sup>\[泰州\]</sup>：这两天感吖冒，说话声音有点～。<sup>\[泰州\]</sup>  
 1. 【[齆鼻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_pieh_r.md#齆鼻<sub>儿</sub>)】`on5 pieh8 r` <sup>[东台]</sup> 因鼻孔堵塞而发音不清。  
 1. 【[齆鼻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_pieh_r.md#齆鼻<sub>儿</sub>)】`on5 pieh8 r, ngon5 pieh8 r` <sup>[如皋]</sup> 软腭缺损者。  
 1. 【[齆鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_pieh_zz.md#齆鼻子)】`on5 pieh8 zz` <sup>[如东]</sup> 因鼻腔阻塞而发音不清。因鼻腔阻塞而嗅觉不灵敏。  
@@ -57,7 +57,7 @@
 1. 【[𨞑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on.md#𨞑)】`on5, ngon5` <sup>[如皋]</sup> 一种腐臭味：～味、～臭，发～。  
 1. 【[𨞑胨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_don.md#𨞑胨)】`on5 don5` <sup>[泰县]</sup> 臭味难闻：这间房子有～臭。  
 1. 【[𨞑而发臭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_er_faeh_cheu.md#𨞑而发臭)】`on5 er faeh7 cheu5, ngon5 er faeh7 cheu5` <sup>[如皋]</sup> ① 腐烂发臭。 ② 喻说的话极为不中听。  
-1. 【[𨞑脓臭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_non_cheu.md#𨞑脓臭)】`on5 non cheu5` ① 食物变质后发出的一种气味（原文作“䐥”，声调不合）<sup>\[东台\]</sup>：这个菜已经～，不能吃咖。<sup>\[东台\]</sup> ② 植物腐败后发出的臭气。<sup>\[兴化\]</sup> ③ 脚臭。（原文作“䐥”，声调不合）<sup>\[兴化\]</sup>  
+1. 【[𨞑脓臭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_non_cheu.md#𨞑脓臭)】`on5 non cheu5` <small>/oŋ5 loŋ t͡sʰɤ5/<sup>兴化</sup></small> ① 食物变质后发出的一种气味（原文作“䐥”，声调不合）<sup>\[东台\]</sup>：这个菜已经～，不能吃咖。<sup>\[东台\]</sup> ② 植物腐败后发出的臭气。<sup>\[兴化\]</sup> ③ 脚臭。（原文作“䐥”，声调不合）<sup>\[兴化\]</sup>  
 1. 【[𨞑<sub>儿</sub>烂泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_r_laen_ni.md#𨞑<sub>儿</sub>烂泥)】`on5 r laen6 ni2, ngon5 r laen6 ni2` <sup>[如皋]</sup> 河底淤泥。  
 1. 【[𨞑味<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_vei_r.md#𨞑味<sub>儿</sub>)】`on5 vei6 r, ngon5 vei6 r` <sup>[如皋]</sup> 腐臭味。  
 1. 【[𨞑咂咂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_zaeh_zaeh.md#𨞑咂咂)】`on5 zaeh7 zaeh7` <sup>[东台]</sup> 很臭。（原文作“䐥”，声调不合）  
