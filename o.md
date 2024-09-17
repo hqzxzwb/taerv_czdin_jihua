@@ -48,7 +48,7 @@
 1. 【[嗡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_zz.md#嗡子)】`on5 zz` <sup>[东台]</sup> 也叫二嗡子，即二胡。  
 1. 【[瓮子缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_zz_gan.md#瓮子缸)】`on5 zz gan1` <sup>[如皋]</sup> 一种高帮、大口小底的釉缸。  
 1. 【[齆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on.md#齆)】`on5, ngon5` <sup>[如皋]</sup> ① 鼻塞时的发音：他伤风，说话鼻子有点儿～。 ② 软腭缺损者的发音。  
-1. 【[齆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on.md#齆)】`on5` ① 鼻子不通气声音嗡嗡 ② 因鼻塞而发音不清晰。《广韵·送韵》乌贡切：“～，鼻塞曰～”。<sup>\[兴化\]</sup>：他这几天感冒，说话～声～气的<sup>\[兴化\]</sup> ③ 鼻子不通气<sup>\[泰县\]</sup>：鼻孔都发咖～。（《广韵》去声送韵乌贡切：“鼻塞曰～”。）<sup>\[泰县\]</sup> ④ 鼻塞语音不清<sup>\[泰县\]</sup>：这个人鼻子发咖～。<sup>\[泰县\]</sup> ⑤ 鼻子不通气，发音不畅<sup>\[泰州\]</sup>：这两天感吖冒，说话声音有点～。<sup>\[泰州\]</sup>  
+1. 【[齆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on.md#齆)】`on5` <small>/oŋ5/<sup>泰县</sup></small> ① 鼻子不通气声音嗡嗡 ② 因鼻塞而发音不清晰。《广韵·送韵》乌贡切：“～，鼻塞曰～”。<sup>\[兴化\]</sup>：他这几天感冒，说话～声～气的<sup>\[兴化\]</sup> ③ 鼻子不通气<sup>\[泰县\]</sup>：鼻孔都发咖～。（《广韵》去声送韵乌贡切：“鼻塞曰～”。）<sup>\[泰县\]</sup> ④ 鼻塞语音不清<sup>\[泰县\]</sup>：这个人鼻子发咖～。<sup>\[泰县\]</sup> ⑤ 鼻子不通气，发音不畅<sup>\[泰州\]</sup>：这两天感吖冒，说话声音有点～。<sup>\[泰州\]</sup>  
 1. 【[齆鼻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_pieh_r.md#齆鼻<sub>儿</sub>)】`on5 pieh8 r` <sup>[东台]</sup> 因鼻孔堵塞而发音不清。  
 1. 【[齆鼻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_pieh_r.md#齆鼻<sub>儿</sub>)】`on5 pieh8 r, ngon5 pieh8 r` <sup>[如皋]</sup> 软腭缺损者。  
 1. 【[齆鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_pieh_zz.md#齆鼻子)】`on5 pieh8 zz` <sup>[如东]</sup> 因鼻腔阻塞而发音不清。因鼻腔阻塞而嗅觉不灵敏。  
