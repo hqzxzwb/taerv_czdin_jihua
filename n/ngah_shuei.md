@@ -1,5 +1,5 @@
 # 恶水
-ngah7 shuei3(tx:0)
+ngah7 shuei3(tx:xy3)
 + 泔水
   * 东台方言词典
   * 兴化方言词典

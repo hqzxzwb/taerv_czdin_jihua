@@ -1,5 +1,5 @@
 # 恶水缸
-ngah7 shuei3 gan1
+ngah7 shuei3(tx:xy3) gan1
 + 装泔水的缸。
   * 东台方言词典
 + ［喻］得罪人的岗位。
