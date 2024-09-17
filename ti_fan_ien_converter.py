@@ -93,7 +93,7 @@ def tae_xien_pien_ien(cz, ien, for_qio_shih = False):
     shen = ngah_hua[shen]
     if gae == 'u':
       gae = 'y'
-    elif yen[0] == 'i':
+    elif yen[0] != 'i':
       gae = 'i'
   elif shen == 'v' and yen in ['a', 'an', 'ah']: # v、u之别
     shen = ''
@@ -158,6 +158,82 @@ def 如皋(cz, pien_ien):
     ipa_yen['aeh'] = 'eʔ'
     ipa_yen['on'] = 'ɔŋ'
     ipa_yen['en'] = 'əŋ'
+    result = tae_rv_ipa.tae_rv_ipa_shen[shen] + tae_rv_ipa.tae_rv_ipa_gae[gae] + ipa_yen[yen]
+
+  result = result + tio
+  return result
+
+def 泰县(cz, pien_ien):
+  if re.match(r'm\d', pien_ien):
+    return pien_ien
+
+  shen, gae, yen, tio = parse_pien_ien(pien_ien)
+  if tio == '6': # 阳去并入阴平
+    tio = '1'
+  if cz == '儿' and shen + gae + yen + tio == 'r':
+    return '˞'
+
+  shen = pien_shih[shen] # 平翘舌不分
+  if shen == '' and yen == 'r':
+    yen = 'er'
+  if yen == 'r':
+    yen = 'z'
+
+  if shen == 'l': # NL不分
+    shen = 'n'
+
+  if yen == 'i': # 舌尖化
+    yen = 'z'
+    if shen in ['j', 'q', 'x']:
+      shen = shih_jin_hua[shen]
+
+  if cz == '子' and tio == '':
+    yen = 'ae'
+  elif shen == 'h' and yen == 'v': # 呼夫不分
+    shen = 'f'
+  elif shen == 'n' and yen == 'v': # nv -> nu
+    yen = 'u'
+  elif shen == 'm' and yen == 'eu': # meu -> mu
+    yen = 'u'
+  elif shen in ['z', 'c', 's'] and gae == 'u' and yen in ['a', 'ae', 'aeh', 'aen', 'ah', 'an', 'ei', 'eh', 'en']: # 合口混入撮口
+    shen = ngah_hua[shen]
+    gae = 'y'
+  elif shen == 'ng' and cz not in ['吖']: # ng脱落
+    shen = ''
+  elif shen == 'v' and yen in ['a', 'an', 'ah']: # v、u之别
+    shen = ''
+    gae = 'u'
+  elif shen == '' and gae + yen in ['y', 'yeh', 'yen']: # 增生r
+    shen = 'r'
+  elif shen + gae + yen == 'ruei': # ruei -> ryei
+    gae = 'y'
+  elif shen in ['z', 'c', 's'] and yen in ['in', 'ih']: # 咸山摄腭化
+    shen = ngah_hua[shen]
+  elif shen == 'r' and yen in ['in', 'ih']: # 日母脱落
+    shen = ''
+  elif shen == 'r' and yen == 'eh': # reh -> ryeh
+    gae = 'y'
+  elif gae == 'i' and yen in ['un', 'uh']: # 撮口介音
+    gae = 'y'
+  elif gae == 'i' and yen == 'eh' and cz not in '吃': # ieh 混入 ih
+    gae = ''
+    yen = 'ih'
+
+  if gae == 'i' and yen == 'en':
+    result = tae_rv_ipa.tae_rv_ipa_shen[shen] + 'iŋ'
+  else:
+    ipa_yen = tae_rv_ipa.tae_rv_ipa_yen.copy()
+    ipa_yen['ah'] = 'ɑʔ'
+    ipa_yen['an'] = 'ɑŋ'
+    ipa_yen['ae'] = 'e'
+    ipa_yen['aeh'] = 'æʔ'
+    ipa_yen['en'] = 'əŋ'
+    ipa_yen['ih'] = 'iɪʔ'
+    ipa_yen['in'] = 'iɪ\u0303'
+    ipa_yen['on'] = 'oŋ'
+    ipa_yen['u'] = 'o'
+    ipa_yen['un'] = 'o\u0303'
+    ipa_yen['v'] = 'u'
     result = tae_rv_ipa.tae_rv_ipa_shen[shen] + tae_rv_ipa.tae_rv_ipa_gae[gae] + ipa_yen[yen]
 
   result = result + tio
