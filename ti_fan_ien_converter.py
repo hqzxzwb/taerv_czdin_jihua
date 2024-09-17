@@ -189,6 +189,8 @@ def 泰县(cz, pien_ien):
 
   if cz == '子' and tio == '':
     yen = 'ae'
+  elif cz == '的' and shen + gae + yen + tio == 'dii':
+    yen = 'ih'
   elif shen == 'h' and yen == 'v': # 呼夫不分
     shen = 'f'
   elif shen == 'n' and yen == 'v': # nv -> nu
