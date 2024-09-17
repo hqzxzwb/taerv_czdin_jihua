@@ -198,7 +198,7 @@
 1. 【[作躁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_zo.md#作躁)】`zah7 zo5` ① 着急。<sup>\[东台\]</sup> ② 急躁不安。<sup>\[如东\]</sup>：他相吖房子要倒，心里～。<sup>\[如东\]</sup> ③ 着急。<sup>\[泰县\]</sup> ④ 着急：你不要～。<sup>\[泰县\]</sup>  
 1. 【[脏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zan.md#脏)】`zan1` <sup>[如皋]</sup> ① 肮脏。 ② 隐指月经来潮：身上～吖。  
 1. 【[脏巴擸𢶍的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zan_ba_laeh_saeh_dii.md#脏巴擸𢶍的)】`zan1 ba laeh8 saeh7 dii` <sup>[东台]</sup> 形容某物很不清爽且污染环境的状况。  
-1. 【[脏巴邋遢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zan_ba_laeh_taeh.md#脏巴邋遢)】`zan1 ba laeh8 taeh` <small>/t͡sɑŋ1 pa lɛʔ8 tʰɛʔ/<sup>泰兴</sup>, /t͡sã1 pa leʔ8 tʰeʔ/<sup>如皋</sup></small> 污糟、很脏的样子。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
+1. 【[脏巴邋遢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zan_ba_laeh_taeh.md#脏巴邋遢)】`zan1 ba laeh8 taeh` <small>/t͡sã1 pa leʔ8 tʰeʔ/<sup>如皋</sup>, /t͡sɑŋ1 pa lɛʔ8 tʰɛʔ/<sup>泰兴</sup></small> 污糟、很脏的样子。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
 1. 【[脏巴邋遢的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zan_ba_laeh_taeh_dii.md#脏巴邋遢的)】`zan1 ba laeh8 taeh7 dii` <sup>[东台]</sup> 形容非常肮脏的状况。  
 1. 【[脏巴巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zan_ba_ba.md#脏巴巴)】`zan1 ba1 ba1` <sup>[兴化]</sup> 形容肮脏不洁的样子：满身～的还不去洗洗。  
 1. 【[脏话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zan_hua.md#脏话)】`zan1 hua6` <sup>[东台]</sup> 下流的、不文明的话。  
@@ -2113,9 +2113,9 @@
 1. 【[子孙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_suen.md#子孙)】`zz3 suen1` <small>/t͡sɿ3 suə̃1/<sup>泰兴</sup></small> 儿子和孙子。泛指后代。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>：为～造福。<sup>\[如东\]</sup>  
 1. 【[子孙袋<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_suen_tae_r.md#子孙袋<sub>儿</sub>)】`zz3 suen1 tae6 r` <sup>[如皋]</sup> 旧时陪嫁的红绿各一棉布小袋。新婚夜垫用，翌晨验看，有血迹为处女初婚。另隐指男性阴囊。  
 1. 【[子孙堂<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_suen_tan_r.md#子孙堂<sub>儿</sub>)】`zz3 suen1 tan2 r` <small>/t͡sɿ3 suəŋ1 tʰã2 ɚ/<sup>如皋</sup></small> ① 对子孙满堂的老人的敬词<sup>\[如皋\]</sup>：她是个～。<sup>\[如皋\]</sup> ② 儿孙们。<sup>\[如东\]</sup>：他家～都蛮好的。<sup>\[如东\]</sup>  
-1. 【[子孙桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_suen_ton.md#子孙桶)】`zz3 suen1 ton3` <small>/t͡sɿ3 suə̃1 tʰɔ̃3/<sup>泰兴</sup>, /t͡sɿ3 suəŋ1 tʰɔŋ3/<sup>如皋</sup></small> 马桶。旧时陪嫁物。<sup>\[泰兴\]</sup>\[如皋：此称有祝愿子孙繁衍不息之意。\]\[东台：里面放有红筷子、干果、红蛋，柏树枝、万年青，亦称子桶。\]  
+1. 【[子孙桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_suen_ton.md#子孙桶)】`zz3 suen1 ton3` <small>/t͡sɿ3 suəŋ1 tʰɔŋ3/<sup>如皋</sup>, /t͡sɿ3 suə̃1 tʰɔ̃3/<sup>泰兴</sup></small> 马桶。旧时陪嫁物。<sup>\[泰兴\]</sup>\[如皋：此称有祝愿子孙繁衍不息之意。\]\[东台：里面放有红筷子、干果、红蛋，柏树枝、万年青，亦称子桶。\]  
 1. 【[子桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_ton.md#子桶)】`zz3 ton3` ① 马桶。<sup>\[兴化\]</sup> ② 马桶。<sup>\[泰县\]</sup>  
-1. 【[子午](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_v.md#子午)】`zz3 v3` <small>/t͡sɿ3 ʋ3/<sup>泰兴</sup>, /t͡sɿ3 ʋu3/<sup>如皋</sup></small> ① 相反，相对立。<sup>\[如皋\]</sup> ② 相去甚远的意思。从时间概念说，一个正午，一个半夜；从空间概念说，一南一北。<sup>\[东台\]</sup> ③ ［喻］人际关系不协调，视对方为对头星。<sup>\[东台\]</sup> ④ 不吉利。<sup>\[东台\]</sup> ⑤ 南北。古人以“子”为正北，“午”为正南，子午相背。喻很不团结。<sup>\[泰兴\]</sup>：他们两个是～相冲。<sup>\[泰兴\]</sup>  
+1. 【[子午](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_v.md#子午)】`zz3 v3` <small>/t͡sɿ3 ʋu3/<sup>如皋</sup>, /t͡sɿ3 ʋ3/<sup>泰兴</sup></small> ① 相反，相对立。<sup>\[如皋\]</sup> ② 相去甚远的意思。从时间概念说，一个正午，一个半夜；从空间概念说，一南一北。<sup>\[东台\]</sup> ③ ［喻］人际关系不协调，视对方为对头星。<sup>\[东台\]</sup> ④ 不吉利。<sup>\[东台\]</sup> ⑤ 南北。古人以“子”为正北，“午”为正南，子午相背。喻很不团结。<sup>\[泰兴\]</sup>：他们两个是～相冲。<sup>\[泰兴\]</sup>  
 1. 【[子午卯酉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_v_mo_ieu.md#子午卯酉)】`zz3 v3 mo3 ieu3` <sup>[东台]</sup> ① 南北东西。 ② 来龙去脉：你～说不清爽，我怎吖好处理？  
 1. 【[子午星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_v_xien.md#子午星)】`zz3 v3 xien1` <sup>[如东]</sup> 北极星。  
 1. 【[子午线](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_v_xin.md#子午线)】`zz3 v3 xin5` <sup>[如东]</sup> ① 为测量地球而假设的南（午）北（子）方向的线，称子午线，也称子午圈。通称经线。 ② 磁场的南极与北极之间的连线称子午线。也称磁子午线。 ③ 与房屋垂直的一根南北线，称子午线。  

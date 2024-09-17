@@ -19,8 +19,7 @@
 1. 【[麻饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_bien.md#麻饼)】`ma2 bien3` ① 一种糕点，以面粉、植物油、蔗糖为主要原料制成的银圆大小的薄饼，两面芝麻，在平底锅中烤熟，酥甜可口。<sup>\[兴化\]</sup> ② 泰州特产茶食之一，一种直径约4厘米、略厚于普通饼干的小圆饼，以其两面沾满芝麻而得名。<sup>\[泰州\]</sup>  
 1. 【[麻饼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_bien_r.md#麻饼<sub>儿</sub>)】`ma2 bien3 r` <small>/ma2 piəŋ3 ɚ/<sup>如皋</sup></small> ① 糕点的一种。面粉经过发酪后，做成圆形饼子，上面撒上芝麻、白糖，放在炉中烤熟，酥脆香甜。<sup>\[如东\]</sup> ② 洋钱大的芝麻饼（茶食）。<sup>\[如皋\]</sup> ③ 油炸的糯米粉芝麻饼。<sup>\[如皋\]</sup>  
 1. 【[麻布袋草布袋——一袋（代）不如一袋（代）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_bv_tae_co_bv_tae_ieh_tae_beh_rv_ieh_tae.md#麻布袋草布袋——一袋（代）不如一袋（代）)】`ma2 bv5 tae6 co3 bv5 tae6 ieh7 tae6 beh7 rv2 ieh7 tae6` <sup>[东台]</sup>   
-1. 【[麻菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_cae.md#麻菜)】`ma2 cae5` ① 十字花科植物芥菜，一年生或二年生草本。<sup>\[如东\]</sup> ② 芥菜。<sup>\[泰县\]</sup>  
-1. 【[麻菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_cae.md#麻菜)】`ma2 cae5` <sup>[泰州]</sup> 一种野生十字花科植物，黄色的花，子实以及生长周期均同油菜，惟叶片形色均类雪里蕻而与油菜叶异。不可直接炒食，嫩薹及其茎叶醃成咸菜以后，方可炒食，味道独特，以其表面粗糙略带辣味，故名。  
+1. 【[麻菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_cae.md#麻菜)】`ma2 cae5` 芥菜<sup>\[泰县\]</sup>\[泰州：一种野生十字花科植物，黄色的花，子实以及生长周期均同油菜，惟叶片形色均类雪里蕻而与油菜叶异。不可直接炒食，嫩薹及其茎叶醃成咸菜以后，方可炒食，味道独特，以其表面粗糙略带辣味，故名。\]\[如东：十字花科植物芥菜，一年生或二年生草本。\]  
 1. 【[麻苍蝇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_can_ien.md#麻苍蝇)】`ma2 can1 ien` <sup>[如皋]</sup> 麻蝇。  
 1. 【[麻岔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_cha.md#麻岔)】`ma2 cha5` <sup>[如东]</sup> 头脑不清醒：你～啊啦？  
 1. 【[麻而岔二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_er_cha_er.md#麻而岔二)】`ma2 er cha er` <sup>[东台]</sup> 形容做事不上规矩。  
@@ -138,14 +137,14 @@
 1. 【[嫲嫲搭搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma_daeh_daeh.md#嫲嫲搭搭)】`ma3 ma daeh7 daeh7` <sup>[兴化]</sup> ① 形容男人有婆子腔调。 ② 形容拉拉扯扯的：这种人就喜欢～的，不管生人熟人总要扯几句。  
 1. 【[嫲嫲腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma_qian.md#嫲嫲腔)】`ma3 ma qian1` <small>/ma3 ma t͡ɕʰiɑŋ1/<sup>泰兴</sup></small> 谓男人像女人一样说话、做事。<sup>\[泰兴\]</sup>  
 1. 【[嫲嫲<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma_r.md#嫲嫲<sub>儿</sub>)】`ma3 ma r` 老婆  
-1. 【[嫲嫲<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma_r.md#嫲嫲<sub>儿</sub>)】`ma3 ma3 r` <small>/ma3 ma3 ɚ/<sup>泰兴</sup>, /ma3 ma3 ɚ/<sup>如皋</sup></small> ① 妻子。<sup>\[如东\]</sup> ② 女人、妻子。作昵称或鄙称。<sup>\[如皋\]</sup> ③ 同“嫲嫲子”。老太婆<sup>\[兴化\]</sup> ④ 妻<sup>\[兴化\]</sup>：娶～。<sup>\[兴化\]</sup> ⑤ 老婆；已结过婚的妇女。<sup>\[泰县\]</sup>：～就是话多。<sup>\[泰县\]</sup>｜他还不曾娶～。<sup>\[泰县\]</sup> ⑥ 俗称妻、老婆。或俗谓女性。不敬。<sup>\[泰兴\]</sup>  
+1. 【[嫲嫲<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma_r.md#嫲嫲<sub>儿</sub>)】`ma3 ma3 r` <small>/ma3 ma3 ɚ/<sup>如皋</sup>, /ma3 ma3 ɚ/<sup>泰兴</sup></small> ① 妻子。<sup>\[如东\]</sup> ② 女人、妻子。作昵称或鄙称。<sup>\[如皋\]</sup> ③ 同“嫲嫲子”。老太婆<sup>\[兴化\]</sup> ④ 妻<sup>\[兴化\]</sup>：娶～。<sup>\[兴化\]</sup> ⑤ 老婆；已结过婚的妇女。<sup>\[泰县\]</sup>：～就是话多。<sup>\[泰县\]</sup>｜他还不曾娶～。<sup>\[泰县\]</sup> ⑥ 俗称妻、老婆。或俗谓女性。不敬。<sup>\[泰兴\]</sup>  
 1. 【[嫲嫲<sub>儿</sub>话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma_r_hua.md#嫲嫲<sub>儿</sub>话)】`ma3 ma3 r hua6` <sup>[如皋]</sup> 无见识的委琐的话。  
 1. 【[嫲嫲<sub>儿</sub>气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma_r_qi.md#嫲嫲<sub>儿</sub>气)】`ma3 ma3 r qi5` <sup>[如皋]</sup> 见“嫲嫲儿腔”。  
 1. 【[嫲嫲<sub>儿</sub>腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma_r_qian.md#嫲嫲<sub>儿</sub>腔)】`ma3 ma3 r qian1` <small>/ma3 ma3 ɚ t͡ɕʰiã1/<sup>如皋</sup></small> ① 贬指男人无汉子气而委琐，扭昵作态的样子。<sup>\[如皋\]</sup> ② 缺乏阳刚之气的男人。<sup>\[泰县\]</sup>  
 1. 【[嫲嫲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma_zz.md#嫲嫲子)】`ma3 ma3 zz` <sup>[兴化]</sup> ① 老年妇女：张～；王～；老～｜那～胆大，把材头扑了一把道｜“老员外，你活了？”（《西游记》九七） ② 妻：有个老头子，～死得早，丢下两个小伙。（兴文《“勤俭”二字不可分家》）  
 1. 【[把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma.md#把)】`ma3` ① 给：这笔钱～你。<sup>\[泰县\]</sup> ② 嫁：二姑娘～啊在庄东头的一家。<sup>\[泰县\]</sup> ③ 给<sup>\[泰州\]</sup>：你～两个钱他去洗澡。<sup>\[泰州\]</sup> ④ 嫁<sup>\[泰州\]</sup>：他家侄女儿～啊王家。<sup>\[泰州\]</sup> ⑤ 介词，将<sup>\[泰州\]</sup>：你～他喊过来。<sup>\[泰州\]</sup>  
 1. 【[杩头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_teu.md#杩头)】`ma3 teu2` <sup>[如东]</sup> 床头上端的横木。  
-1. 【[码](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma.md#码)】`ma3` <small>/ma3/<sup>泰兴</sup>, /ma3/<sup>如皋</sup></small> ① 英美制长度单位，一码等于3英尺，合0.9144米。<sup>\[如东\]</sup> ② 略腌一下<sup>\[如皋\]</sup><sup>\[泰兴\]</sup><sup>\[泰州\]</sup><sup>\[兴化\]</sup>：～鲜、弄盐把肉～下子。<sup>\[如皋\]</sup>｜用盐～下子。<sup>\[泰兴\]</sup>｜弄点ㄦ盐把鱼～下子。<sup>\[泰州\]</sup>｜这块肉弄盐～过啊唻，放两天没得事。<sup>\[泰州\]</sup>｜弄点盐～啊子。<sup>\[兴化\]</sup> ③ 略捆一下<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：弄绳儿～下子。<sup>\[如皋\]</sup>｜用绳子～下子。<sup>\[泰兴\]</sup> ④ 除一般释义外，还有堆叠的意思<sup>\[东台\]</sup>：把这些砖头～齐啊。<sup>\[东台\]</sup> ⑤ 整齐堆放<sup>\[兴化\]</sup>：把砖头～起来。<sup>\[兴化\]</sup> ⑥ 监视或盯梢<sup>\[兴化\]</sup>：这人形迹可疑，同我～住他。<sup>\[兴化\]</sup> ⑦ 堆砌<sup>\[泰县\]</sup>：把这堆砖头～起来。<sup>\[泰县\]</sup> ⑧ 悄俏跟踪<sup>\[泰县\]</sup>：～住他。<sup>\[泰县\]</sup> ⑨ 察访。<sup>\[泰县\]</sup> ⑩ 远远监视，盯住某人行踪<sup>\[泰州\]</sup>：你跟吖他后头～住他，嫑让他跑掉。<sup>\[泰州\]</sup>｜纪委的人老早就～住他唻。<sup>\[泰州\]</sup> ⑪ 垒起<sup>\[泰州\]</sup>：你把这些砖头～啊好啊。<sup>\[泰州\]</sup>  
+1. 【[码](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma.md#码)】`ma3` <small>/ma3/<sup>如皋</sup>, /ma3/<sup>泰兴</sup></small> ① 英美制长度单位，一码等于3英尺，合0.9144米。<sup>\[如东\]</sup> ② 略腌一下<sup>\[如皋\]</sup><sup>\[泰兴\]</sup><sup>\[泰州\]</sup><sup>\[兴化\]</sup>：～鲜、弄盐把肉～下子。<sup>\[如皋\]</sup>｜用盐～下子。<sup>\[泰兴\]</sup>｜弄点ㄦ盐把鱼～下子。<sup>\[泰州\]</sup>｜这块肉弄盐～过啊唻，放两天没得事。<sup>\[泰州\]</sup>｜弄点盐～啊子。<sup>\[兴化\]</sup> ③ 略捆一下<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：弄绳儿～下子。<sup>\[如皋\]</sup>｜用绳子～下子。<sup>\[泰兴\]</sup> ④ 除一般释义外，还有堆叠的意思<sup>\[东台\]</sup>：把这些砖头～齐啊。<sup>\[东台\]</sup> ⑤ 整齐堆放<sup>\[兴化\]</sup>：把砖头～起来。<sup>\[兴化\]</sup> ⑥ 监视或盯梢<sup>\[兴化\]</sup>：这人形迹可疑，同我～住他。<sup>\[兴化\]</sup> ⑦ 堆砌<sup>\[泰县\]</sup>：把这堆砖头～起来。<sup>\[泰县\]</sup> ⑧ 悄俏跟踪<sup>\[泰县\]</sup>：～住他。<sup>\[泰县\]</sup> ⑨ 察访。<sup>\[泰县\]</sup> ⑩ 远远监视，盯住某人行踪<sup>\[泰州\]</sup>：你跟吖他后头～住他，嫑让他跑掉。<sup>\[泰州\]</sup>｜纪委的人老早就～住他唻。<sup>\[泰州\]</sup> ⑪ 垒起<sup>\[泰州\]</sup>：你把这些砖头～啊好啊。<sup>\[泰州\]</sup>  
 1. 【[码单](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_daen.md#码单)】`ma3 daen1` <sup>[兴化]</sup> 运成批货物过数或过秤时，逐笔记录的单子。  
 1. 【[码凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_den.md#码凳)】`ma3 den5` <sup>[泰县]</sup> 河边的码头。  
 1. 【[码尔的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_er_dii.md#码尔的)】`ma3 er dii` <sup>[如东]</sup> ① 拖拉：这个人做事有些～。 ② 糊涂：这个人是个～，你不要轻信他。  
@@ -182,13 +181,13 @@
 1. 【[马槽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_co.md#马槽)】`ma3 co2` <sup>[如皋]</sup> ① 马吃草料的木槽。 ② 简陋的棺材。另见“槥”。  
 1. 【[马草马料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_co_ma_lio.md#马草马料)】`ma3 co3 ma3 lio6` <sup>[如皋]</sup> 本指饲马的草料，又指腊月二十四送灶时给灶神所骑的“马”准备的稻草4-8小段，麸皮少许。灶神是“蟑螂”，灶马是“钱驮子”。  
 1. 【[马大哈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_da_ha.md#马大哈)】`ma3 da6 ha1` <small>/ma3 ta1 xa1/<sup>泰兴</sup></small> ① 粗心大意。<sup>\[如东\]</sup>：做事不能～。<sup>\[如东\]</sup> ② 遇事粗心很不在乎的人。<sup>\[泰兴\]</sup>：不要说别人二百五，自家也是个～。<sup>\[泰兴\]</sup>  
-1. 【[马灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_den.md#马灯)】`ma3 den1` <small>/ma3 tə̃1/<sup>泰兴</sup>, /ma3 təŋ1/<sup>如皋</sup></small> ① 桅灯。<sup>\[如皋\]</sup> ② 一种防风油灯。<sup>\[泰兴\]</sup>  
+1. 【[马灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_den.md#马灯)】`ma3 den1` <small>/ma3 təŋ1/<sup>如皋</sup>, /ma3 tə̃1/<sup>泰兴</sup></small> ① 桅灯。<sup>\[如皋\]</sup> ② 一种防风油灯。<sup>\[泰兴\]</sup>  
 1. 【[马䙞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_den_zz.md#马䙞子)】`ma3 den5 zz` <sup>[泰兴]</sup> 马夹，夹衣。  
 1. 【[马兜铃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_deu_lien.md#马兜铃)】`ma3 deu1 lien2` <sup>[如东]</sup> 马兜铃科植物马兜铃，多年生缠绕或匍匐状细弱草本。  
 1. 【[马儿扯儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_er_cha_er.md#马儿扯儿)】`ma3 er2 cha3 er2` <sup>[泰兴]</sup> 拉拉扯扯，乱拉乱扯。办事草率，不专心。  
 1. 【[马耳头菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_er_teu_cae.md#马耳头菜)】`ma3 er3 teu cae5` <sup>[如皋]</sup> 冬春上市的一种青菜，叶长若马耳。煮之汤白。  
 1. 【[马二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_er.md#马二)】`ma3 er6` <sup>[泰县]</sup> 不值得一提的人。  
-1. 【[马粪纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_fen_zhr.md#马粪纸)】`ma3 fen5 zhr3` <small>/ma3 fə̃5 t͡sɿ3/<sup>泰兴</sup>, /ma3 fəŋ5 t͡sɿ3/<sup>如皋</sup></small> 硬纸板。<sup>\[如皋\]</sup>\[泰兴：以稻麦秆为原料，多作纸盒用。\]  
+1. 【[马粪纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_fen_zhr.md#马粪纸)】`ma3 fen5 zhr3` <small>/ma3 fəŋ5 t͡sɿ3/<sup>如皋</sup>, /ma3 fə̃5 t͡sɿ3/<sup>泰兴</sup></small> 硬纸板。<sup>\[如皋\]</sup>\[泰兴：以稻麦秆为原料，多作纸盒用。\]  
 1. 【[马夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_fv.md#马夫)】`ma3 fv1` <small>/ma3 fʋ1/<sup>泰兴</sup></small> ① 饲养、照看马匹的人<sup>\[泰兴\]</sup> ② 赶马的人。<sup>\[泰兴\]</sup>  
 1. 【[马盖顶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_gae_dien.md#马盖顶)】`ma3 gae5 dien3` <sup>[兴化]</sup> 未曾剃度的雏尼先剃去顶发，形似马盖的外框，故名。旧时少数俗家女童也有仿此发式的。  
 1. 【[马盖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_gae_zz.md#马盖子)】`ma3 gae5 zz` <small>/ma3 kɛ5 t͡sɿ/<sup>泰兴</sup></small> 旧时小孩理发，剃去头顶与头四周的头发，留下一圈，形若马桶盖的外框，故名。<sup>\[泰兴\]</sup>  
@@ -208,7 +207,7 @@
 1. 【[马腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_io.md#马腰)】`ma3 io1` <sup>[如东]</sup> ① 马背，平而微凹。 ② 海滩上像马背一样长而圆的水洼，渔民称为马腰。  
 1. 【[马架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_jia_zz.md#马架子)】`ma3 jia5 zz` <sup>[泰县]</sup> 马灯的框架。  
 1. 【[马缰绳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_jian_shen.md#马缰绳)】`ma3 jian1 shen2` <sup>[泰县]</sup> 一种谷子。  
-1. 【[马𪣩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ken.md#马𪣩)】`ma3 ken5` <small>/ma3 kʰə̃5/<sup>泰兴</sup>, /ma3 kʰəŋ5/<sup>如皋</sup></small> 马桶内壁的积垢。入药，名为人中白、桶砒。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
+1. 【[马𪣩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ken.md#马𪣩)】`ma3 ken5` <small>/ma3 kʰəŋ5/<sup>如皋</sup>, /ma3 kʰə̃5/<sup>泰兴</sup></small> 马桶内壁的积垢。入药，名为人中白、桶砒。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
 1. 【[马口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_keu.md#马口)】`ma3 keu3` <sup>[如东]</sup> 滑车的一种，口可以打开。  
 1. 【[马柜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_kuei.md#马柜)】`ma3 kuei6` <sup>[兴化]</sup> 一种方形的矮柜，内中可放置马桶。  
 1. 【[马拉大车牛耕田——各有各事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_la_da_cha_ngeu_gen_tin_gah_ieu_gah_shr.md#马拉大车牛耕田——各有各事)】`ma3 la1 da6 cha1 ngeu2 gen1 tin2 gah7 ieu3 gah7 shr6` <sup>[东台]</sup>   
@@ -852,7 +851,7 @@
 1. 【[门路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_lv.md#门路)】`men2 lv` <sup>[泰兴]</sup> 途径，方法、窍门。特指能达到个人目的的途径。  
 1. 【[门路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_lv.md#门路)】`men2 lv6` ① 比喻办法。<sup>\[如东\]</sup>：～多。<sup>\[如东\]</sup> ② 办事的诀窍、途径。<sup>\[东台\]</sup>  
 1. 【[门楣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_mi.md#门楣)】`men2 mi2` <sup>[如东]</sup> 门框上端的横木。  
-1. 【[门面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_min.md#门面)】`men2 min` <small>/mə̃2 mĩ/<sup>泰兴</sup>, /məŋ2 mĩ/<sup>如皋</sup></small> ① 见“店面”。<sup>\[如皋\]</sup> ② 商店房屋朝街的部分；店面。<sup>\[泰兴\]</sup> ③ 面子，体面。<sup>\[泰兴\]</sup>  
+1. 【[门面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_min.md#门面)】`men2 min` <small>/məŋ2 mĩ/<sup>如皋</sup>, /mə̃2 mĩ/<sup>泰兴</sup></small> ① 见“店面”。<sup>\[如皋\]</sup> ② 商店房屋朝街的部分；店面。<sup>\[泰兴\]</sup> ③ 面子，体面。<sup>\[泰兴\]</sup>  
 1. 【[门面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_min.md#门面)】`men2 min6, men2 min` <sup>[如皋]</sup> 布幅的宽度。  
 1. 【[门面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_min.md#门面)】`men2 min6` ① 商店房屋沿街的部分，也称门面房。<sup>\[东台\]</sup> ② 喻意家庭人情交往的开支<sup>\[东台\]</sup>：他家～不小，开支大。<sup>\[东台\]</sup> ③ 布幅的阔度：窗帘布～六尺。<sup>\[兴化\]</sup>  
 1. 【[门面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_min.md#门面)】`men2 min6` <sup>[泰州]</sup> ① 大门临街可以做商铺的房：他家买的这个房子～不丑。 ② 成匹布的幅宽：这个布是才出来的，～宽，就剩吖这些，不买就没得唻。  

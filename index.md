@@ -110,7 +110,7 @@
 1. 【[儿灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_den.md#儿灯)】`er2 den1` <sup>[如皋]</sup> ① 人形灯具。 ② 喻出众者：你充甚的～吖！  
 1. 【[儿多母受苦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_du_mu_sheu.md#儿多母受苦)】`er2 du1 mu3 sheu6 kv3` <sup>[泰兴]</sup> 谓子女多，做母亲的非常辛苦。  
 1. 【[儿儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_er.md#儿儿)】`er2 er` <sup>[兴化]</sup> 孩子：这个～太调皮。｜“人生总受业风吹，三岁～，八十～。”（宋·刘辰翁《一剪梅》）  
-1. 【[儿狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_geu.md#儿狗)】`er2 geu3` <small>/ɚ2 kəɪ3/<sup>泰兴</sup>, /ɚ2 kei3/<sup>如皋</sup></small> 公狗。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>  
+1. 【[儿狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_geu.md#儿狗)】`er2 geu3` <small>/ɚ2 kei3/<sup>如皋</sup>, /ɚ2 kəɪ3/<sup>泰兴</sup></small> 公狗。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>  
 1. 【[儿花女花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_hua_ny_hua.md#儿花女花)】`er2 hua1 ny3 hua1` <sup>[兴化]</sup> 儿女：老奶奶孤寡一人，～没得一个。｜“俺衙内老爹身边，～没有，好不单径……”（《金瓶梅词话》九一）  
 1. 【[儿要教，子要孝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_io_jio_zz.md#儿要教，子要孝)】`er2 io5 jio5 zz3 io5 xio5` <sup>[泰兴]</sup> 对儿女要加强教育，做子女的要孝顺。  
 1. 【[儿女亲家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_ny_qien_ga.md#儿女亲家)】`er2 ny3 qien5 ga` <sup>[如皋]</sup> 姻亲的双方家族间长辈的关系称。  
@@ -330,8 +330,7 @@
 1. 【[麻饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_bien.md#麻饼)】`ma2 bien3` ① 一种糕点，以面粉、植物油、蔗糖为主要原料制成的银圆大小的薄饼，两面芝麻，在平底锅中烤熟，酥甜可口。<sup>\[兴化\]</sup> ② 泰州特产茶食之一，一种直径约4厘米、略厚于普通饼干的小圆饼，以其两面沾满芝麻而得名。<sup>\[泰州\]</sup>  
 1. 【[麻饼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_bien_r.md#麻饼<sub>儿</sub>)】`ma2 bien3 r` <small>/ma2 piəŋ3 ɚ/<sup>如皋</sup></small> ① 糕点的一种。面粉经过发酪后，做成圆形饼子，上面撒上芝麻、白糖，放在炉中烤熟，酥脆香甜。<sup>\[如东\]</sup> ② 洋钱大的芝麻饼（茶食）。<sup>\[如皋\]</sup> ③ 油炸的糯米粉芝麻饼。<sup>\[如皋\]</sup>  
 1. 【[麻布袋草布袋——一袋（代）不如一袋（代）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_bv_tae_co_bv_tae_ieh_tae_beh_rv_ieh_tae.md#麻布袋草布袋——一袋（代）不如一袋（代）)】`ma2 bv5 tae6 co3 bv5 tae6 ieh7 tae6 beh7 rv2 ieh7 tae6` <sup>[东台]</sup>   
-1. 【[麻菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_cae.md#麻菜)】`ma2 cae5` ① 十字花科植物芥菜，一年生或二年生草本。<sup>\[如东\]</sup> ② 芥菜。<sup>\[泰县\]</sup>  
-1. 【[麻菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_cae.md#麻菜)】`ma2 cae5` <sup>[泰州]</sup> 一种野生十字花科植物，黄色的花，子实以及生长周期均同油菜，惟叶片形色均类雪里蕻而与油菜叶异。不可直接炒食，嫩薹及其茎叶醃成咸菜以后，方可炒食，味道独特，以其表面粗糙略带辣味，故名。  
+1. 【[麻菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_cae.md#麻菜)】`ma2 cae5` 芥菜<sup>\[泰县\]</sup>\[泰州：一种野生十字花科植物，黄色的花，子实以及生长周期均同油菜，惟叶片形色均类雪里蕻而与油菜叶异。不可直接炒食，嫩薹及其茎叶醃成咸菜以后，方可炒食，味道独特，以其表面粗糙略带辣味，故名。\]\[如东：十字花科植物芥菜，一年生或二年生草本。\]  
 1. 【[麻苍蝇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_can_ien.md#麻苍蝇)】`ma2 can1 ien` <sup>[如皋]</sup> 麻蝇。  
 1. 【[麻岔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_cha.md#麻岔)】`ma2 cha5` <sup>[如东]</sup> 头脑不清醒：你～啊啦？  
 1. 【[麻而岔二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_er_cha_er.md#麻而岔二)】`ma2 er cha er` <sup>[东台]</sup> 形容做事不上规矩。  
@@ -342,6 +341,9 @@
 1. 【[麻虾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ha.md#麻虾)】`ma2 ha1` <sup>[泰州]</sup> 泰州产的一种体型极小的虾，呈青灰色，体半透明，以其小如芝麻粒，故名：～烧豆腐。  
 1. 【[麻虾<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ha_r.md#麻虾<sub>儿</sub>)】`ma2 ha1 r` <small>/ma2 xa1 ɚ/<sup>如皋</sup></small> ① 中国毛虾科动物糠虾，体个细小，长约1厘米左右。青白色。尾部两侧有红色斑纹。生活在泥沙底质的近海。为重要的经济虾类。是如东特色海味品三伏虾油的主要原料。<sup>\[如东\]</sup> ② 芝麻大的虾儿。又名糠虾。<sup>\[如皋\]</sup>  
 1. 【[麻虾<sub>儿</sub>雾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ha_r_v.md#麻虾<sub>儿</sub>雾)】`ma2 ha1 r v5` <sup>[如东]</sup> 雾浓而厚。  
+1. 【[麻虾<sub>儿</sub>网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ha_r_van.md#麻虾<sub>儿</sub>网)】`ma2 ha1 r van3` <sup>[如皋]</sup> 拉捕麻虾儿的小网。  
+1. 【[麻虾<sub>儿</sub>雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ha_r_y.md#麻虾<sub>儿</sub>雨)】`ma2 ha1 r y3` ① 毛毛雨 ② 毛毛细雨。<sup>\[如东\]</sup>  
+1. 【[麻鞋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_hae.md#麻鞋)】`ma2 hae2` <small>/ma2 xɛ2/<sup>如皋</sup></small> ① 以麻为原料编制的鞋，形似草鞋。<sup>\[如东\]</sup> ② 用火麻皮编结的矮帮鞋。<sup>\[如皋\]</sup>  
 [更多...](./m.md)
 ## N
 1. 【[拿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na.md#拿)】`na2` <sup>[兴化]</sup> ① 装出：～三做四。 ② 批发：到招商城～货。｜这件上衣我～九十，卖把你一百，寻十块钱。  

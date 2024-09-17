@@ -106,7 +106,7 @@
 1. 【[肏拱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_gon.md#肏拱)】`reh8 gon3` <sup>[兴化]</sup> 心动难耐：他看见人家买彩票得奖，心里也～的想买。  
 1. 【[肏鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_guei.md#肏鬼)】`reh8 guei3` <small>/ɻəʔ8 kuei3/<sup>如皋</sup></small> ① 说假话。<sup>\[如东\]</sup>：你不要～。<sup>\[如东\]</sup> ② 觉得奇怪、不可思议<sup>\[如皋\]</sup>：倒～啷，钱哪去啊啦？<sup>\[如皋\]</sup> ③ 诡秘、非常的行为。见“肏咖鬼”。<sup>\[如皋\]</sup> ④ 奇怪、令人诧异<sup>\[兴化\]</sup>：～唻，不曾有人进家，东西怎吖少的？<sup>\[兴化\]</sup> ⑤ 也说“肏咖鬼子”。<sup>\[东台\]</sup> ⑥ 感到很奇怪的口头语。<sup>\[东台\]</sup> ⑦ 暗中搞鬼、作弊。<sup>\[东台\]</sup>  
 1. 【[肏鬼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_guei_r.md#肏鬼<sub>儿</sub>)】`reh8 guei3 r` <sup>[泰县]</sup> 蹊跷。  
-1. 【[肏滚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_guen.md#肏滚)】`reh8 guen3` <small>/ɻəʔ8 kuə̃3/<sup>泰兴</sup>, /ɻəʔ8 kuəŋ3/<sup>如皋</sup></small> 粗鄙话。滚开<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰兴\]</sup><sup>\[东台\]</sup>：你同我早啊点儿～，也省得你蹾吖家里作操！<sup>\[如皋\]</sup>｜请你～。<sup>\[如东\]</sup>  
+1. 【[肏滚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_guen.md#肏滚)】`reh8 guen3` <small>/ɻəʔ8 kuəŋ3/<sup>如皋</sup>, /ɻəʔ8 kuə̃3/<sup>泰兴</sup></small> 粗鄙话。滚开<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰兴\]</sup><sup>\[东台\]</sup>：你同我早啊点儿～，也省得你蹾吖家里作操！<sup>\[如皋\]</sup>｜请你～。<sup>\[如东\]</sup>  
 1. 【[肏决](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_jiuh.md#肏决)】`reh8 jiuh7` <sup>[泰县]</sup> 讽刺挖苦。  
 1. 【[肏捲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_jiun.md#肏捲)】`reh8 jiun` <sup>[东台]</sup> 谩骂、嘲讽、羞辱。也作“辱捲”。（肏，会意字，本指性交，引申为羞辱。见“捲”）  
 1. 【[肏句](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_jy.md#肏句)】`reh8 jy` <sup>[如皋]</sup> 用反话挖苦、讽刺对方。见“辱句”。  
@@ -125,7 +125,7 @@
 1. 【[肏薄𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_pah_son.md#肏薄𪨊)】`reh8 pah8 son2` <sup>[如皋]</sup> 表示反对。见“任磨舂”。  
 1. 【[肏泡𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_po_son.md#肏泡𪨊)】`reh8 po son2` <sup>[如皋]</sup> 作补语，表恨、否定：去个～！  
 1. 【[肏笡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_qia.md#肏笡)】`reh8 qia` <sup>[如东]</sup> 比喻没有用。多做叹词：不要～吧。  
-1. 【[肏请](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_qien.md#肏请)】`reh8 qien3` <small>/ɻəʔ8 t͡ɕʰiŋ3/<sup>泰兴</sup>, /ɻəʔ8 t͡ɕʰiəŋ3/<sup>如皋</sup></small> ① 粗鄙的话语。表示算了<sup>\[如皋\]</sup>：你不卖～！别人家不是没得卖！<sup>\[如皋\]</sup> ② 同“肏走”。<sup>\[东台\]</sup> ③ 滚蛋。骂人语。<sup>\[泰兴\]</sup>：你同我～吧！/你给我滚吧！<sup>\[泰兴\]</sup>  
+1. 【[肏请](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_qien.md#肏请)】`reh8 qien3` <small>/ɻəʔ8 t͡ɕʰiəŋ3/<sup>如皋</sup>, /ɻəʔ8 t͡ɕʰiŋ3/<sup>泰兴</sup></small> ① 粗鄙的话语。表示算了<sup>\[如皋\]</sup>：你不卖～！别人家不是没得卖！<sup>\[如皋\]</sup> ② 同“肏走”。<sup>\[东台\]</sup> ③ 滚蛋。骂人语。<sup>\[泰兴\]</sup>：你同我～吧！/你给我滚吧！<sup>\[泰兴\]</sup>  
 1. 【[肏甚的娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_shen_nii_nian.md#肏甚的娘)】`reh8 shen2 nii nian2` <sup>[如皋]</sup> 叹息语，表示做了不愿、无价值、无必要的事：我帮吖他，他反而恨我，我这是～！  
 1. 【[肏𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_son.md#肏𪨊)】`reh8 son2` <sup>[如皋]</sup>   
 1. 【[肏𪨊香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_son_xian.md#肏𪨊香)】`reh8 son2 xian1` <sup>[如东]</sup> 作用不大：这种料子要它～。  
@@ -269,7 +269,7 @@
 1. 【[人望高处走，水望低处流](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_van_go_chv.md#人望高处走，水望低处流)】`ren2 van6 go1 chv5 zeu3 shuei3 van6 di1 chv5 lieu2` <sup>[东台]</sup> 人要有上进心。  
 1. 【[人物](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_veh.md#人物)】`ren2 veh8` <small>/ɻəŋ2 ʋəʔ8/<sup>如皋</sup></small> ① 不寻常的人。<sup>\[如皋\]</sup> ② 有才能有地位有影响的人。<sup>\[如东\]</sup>：他是一个～。<sup>\[如东\]</sup>  
 1. 【[人物头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_veh_teu_r.md#人物头<sub>儿</sub>)】`ren2 veh8 teu2 r` <sup>[兴化]</sup> 指拔尖的、了不起的人：他往人前一站，还真像个～。  
-1. 【[人物头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_veh_teu_zz.md#人物头子)】`ren2 veh8 teu2 zz` <small>/ɻə̃2 ʋəʔ8 tʰəɪ2 t͡sɿ/<sup>泰兴</sup>, /ɻəŋ2 ʋəʔ8 tʰei2 t͡sɿ/<sup>如皋</sup></small> ① 贬指、嘲讽用语。<sup>\[如皋\]</sup> ② 才能杰出、声望卓著、有地位的人。有时用于讽刺挖苦自以为了不起的人。<sup>\[泰兴\]</sup>：才当吖个班长，就神气国国的，充起～的派头来。<sup>\[泰兴\]</sup>  
+1. 【[人物头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_veh_teu_zz.md#人物头子)】`ren2 veh8 teu2 zz` <small>/ɻəŋ2 ʋəʔ8 tʰei2 t͡sɿ/<sup>如皋</sup>, /ɻə̃2 ʋəʔ8 tʰəɪ2 t͡sɿ/<sup>泰兴</sup></small> ① 贬指、嘲讽用语。<sup>\[如皋\]</sup> ② 才能杰出、声望卓著、有地位的人。有时用于讽刺挖苦自以为了不起的人。<sup>\[泰兴\]</sup>：才当吖个班长，就神气国国的，充起～的派头来。<sup>\[泰兴\]</sup>  
 1. 【[人心都是肉做的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_xien_du_shr_roh_zu_dii.md#人心都是肉做的)】`ren2 xien1 du1 shr6 roh8 zu5 dii` <sup>[东台]</sup> 人要有慈悲心肠。  
 1. 【[人心隔肚皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_xien_geh_dv_pi.md#人心隔肚皮)】`ren2 xien1 geh7 dv3 pi2` <small>/ɻə̃2 ɕiŋ1 kəʔ7 tu3 pʰʝ2/<sup>泰兴</sup></small> 谓人的心思难以猜测。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[人心齐，泰山移，万众一心，黄土变金](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_xien_qi_tae_shaen_i_vaen_zhon_ieh_xien_huan_tv_bin_jien.md#人心齐，泰山移，万众一心，黄土变金)】`ren2 xien1 qi2 tae5 shaen1 i2 vaen6 zhon5 ieh7 xien1 huan2 tv3 bin5 jien1` <sup>[东台]</sup> 同心协力最重要。  
