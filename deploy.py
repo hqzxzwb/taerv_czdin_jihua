@@ -293,9 +293,10 @@ def parse_cz_ien3(f, out):
         out[re.sub(r'\d', '', ien)].add(cz) # 轻声
 
 ti_fan_ien_key = {
+    '如皋': 'rg',
     '泰兴': 'txe',
     '泰县': 'tx',
-    '如皋': 'rg',
+    '兴化': 'xh',
 }
 
 def write_page(dirs, path, sample_out, cz_ien):

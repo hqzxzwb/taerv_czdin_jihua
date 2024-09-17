@@ -121,7 +121,7 @@ def tae_xien_pien_ien(cz, ien, for_qio_shih = False):
   return (shen, gae, yen, tio)
 
 def 如皋(cz, pien_ien):
-  if re.match(r'm\d', pien_ien):
+  if re.match(r'^m\d?$', pien_ien):
     return pien_ien
 
   shen, gae, yen, tio = parse_pien_ien(pien_ien)
@@ -169,7 +169,7 @@ def 如皋(cz, pien_ien):
   return result
 
 def 泰县(cz, pien_ien):
-  if re.match(r'm\d', pien_ien):
+  if re.match(r'^m\d?$', pien_ien):
     return pien_ien
 
   shen, gae, yen, tio = parse_pien_ien(pien_ien)
@@ -184,6 +184,9 @@ def 泰县(cz, pien_ien):
   if yen == 'r':
     yen = 'z'
 
+  if shen == 'n' and yen == 'v': # nv -> nu
+    yen = 'u'
+
   if shen == 'l': # NL不分
     shen = 'n'
 
@@ -192,21 +195,20 @@ def 泰县(cz, pien_ien):
     if shen in ['j', 'q', 'x']:
       shen = shih_jin_hua[shen]
 
+  if shen == 'ng' and cz not in ['吖']: # ng脱落
+    shen = ''
+
   if cz == '子' and tio == '':
     yen = 'ae'
   elif cz == '的' and shen + gae + yen + tio == 'dii':
     yen = 'ih'
   elif shen == 'h' and yen == 'v': # 呼夫不分
     shen = 'f'
-  elif shen == 'n' and yen == 'v': # nv -> nu
-    yen = 'u'
   elif shen == 'm' and yen == 'eu': # meu -> mu
     yen = 'u'
   elif shen in ['z', 'c', 's'] and gae == 'u' and yen in ['a', 'ae', 'aeh', 'aen', 'ah', 'an', 'ei', 'eh', 'en']: # 合口混入撮口
     shen = ngah_hua[shen]
     gae = 'y'
-  elif shen == 'ng' and cz not in ['吖']: # ng脱落
-    shen = ''
   elif shen == 'v' and yen in ['a', 'an', 'ah']: # v、u之别
     shen = ''
     gae = 'u'
@@ -240,6 +242,65 @@ def 泰县(cz, pien_ien):
     ipa_yen['on'] = 'oŋ'
     ipa_yen['u'] = 'o'
     ipa_yen['un'] = 'o\u0303'
+    ipa_yen['v'] = 'u'
+    result = tae_rv_ipa.tae_rv_ipa_shen[shen] + tae_rv_ipa.tae_rv_ipa_gae[gae] + ipa_yen[yen]
+
+  result = result + tio
+  return result
+
+def 兴化(cz, pien_ien):
+  if re.match(r'^m\d?$', pien_ien):
+    return pien_ien
+
+  shen, gae, yen, tio = parse_pien_ien(pien_ien)
+  if cz == '儿' and shen + gae + yen + tio == 'r':
+    return '˞'
+
+  shen = pien_shih[shen] # 平翘舌不分
+  if shen == '' and yen == 'r':
+    yen = 'er'
+  if yen == 'r':
+    yen = 'z'
+
+  if shen == 'n' and yen == 'v': # nv -> nu
+    yen = 'u'
+
+  if shen in ['n', 'r']: # NLR不分
+    shen = 'l'
+
+  if shen == 'ng' and cz not in ['吖']: # ng脱落
+    shen = ''
+
+  if shen not in ['j', 'q', 'x', ''] and gae + yen in ['ien', 'ieh']: # ien->in，ieh->ih
+    gae = ''
+    yen = 'i' + yen[1:]
+  elif gae == 'i' and yen in ['un', 'uh', 'oh']: # 撮口介音
+    gae = 'y'
+  elif shen in ['d', 't', 'l'] and yen in ['i', 'ii']: # i裂化
+    yen = 'ei'
+  elif shen == 'v': # v、u之别
+    assert(gae == '')
+    shen = ''
+    gae = 'u'
+
+  if gae == 'i' and yen == 'en':
+    result = tae_rv_ipa.tae_rv_ipa_shen[shen] + 'in'
+  elif gae == 'y' and yen == 'en':
+    result = tae_rv_ipa.tae_rv_ipa_shen[shen] + 'yn'
+  else:
+    ipa_yen = tae_rv_ipa.tae_rv_ipa_yen.copy()
+    ipa_yen['an'] = 'aŋ'
+    ipa_yen['aeh'] = 'æʔ'
+    ipa_yen['ei'] = 'əi'
+    ipa_yen['en'] = 'ən'
+    ipa_yen['eu'] = 'ɤ'
+    ipa_yen['i'] = 'i'
+    ipa_yen['ih'] = 'iɪʔ'
+    ipa_yen['in'] = 'iɪ\u0303'
+    ipa_yen['on'] = 'oŋ'
+    ipa_yen['u'] = 'o'
+    ipa_yen['uh'] = 'uʔ'
+    ipa_yen['un'] = 'u\u0303'
     ipa_yen['v'] = 'u'
     result = tae_rv_ipa.tae_rv_ipa_shen[shen] + tae_rv_ipa.tae_rv_ipa_gae[gae] + ipa_yen[yen]
 
