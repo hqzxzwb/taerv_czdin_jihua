@@ -125,8 +125,7 @@
 1. 【[麻天木地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_tin_moh_ti.md#麻天木地)】`ma2 tin1 moh8 ti6` ① 比喻糊里糊涂。<sup>\[如东\]</sup>：一天到晚～的。<sup>\[如东\]</sup> ② 由于狂妄无知而忘乎所以<sup>\[兴化\]</sup>：呀！我太糊涂啦……我怎么不细细爵酌一下，就～的答应他？（《皮五辣子》四）<sup>\[兴化\]</sup>  
 1. 【[麻天目地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_tin_moh_ti.md#麻天目地)】`ma2 tin1 moh8 ti6` <sup>[如皋]</sup> 见“麻目”。  
 1. 【[麻田扯到菜田里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_tin_cha_do_cae_tin_lii.md#麻田扯到菜田里)】`ma2 tin2 cha3 do5 cae5 tin2 lii` <sup>[东台]</sup> 形容说话乱扯，抓不住主题，漫无边际。  
-1. 【[麻团](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_tun.md#麻团)】`ma2 tun2` <small>/ma2 tʰʊ̃2/<sup>如皋</sup></small> ① 糕点的一种。糯米糏发酵后，做成球形，包进糖馅儿，沾上芝麻，经油炸而成。<sup>\[如东\]</sup> ② 油炸“金团儿”。<sup>\[如皋\]</sup> ③ 大圆子裹芝麻炸成的点心。<sup>\[如皋\]</sup> ④ 一种油炸食品，由米粉做成空心团子，糖馅，外粘芝麻。<sup>\[兴化\]</sup>  
-1. 【[麻团](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_tun.md#麻团)】`ma2 tun2` <sup>[泰州]</sup> 一种食品，相传为周代公刘发明，糯米团裹进糖馅，外滚芝麻，做成球形或者小圆饼形，用油炸成。  
+1. 【[麻团](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_tun.md#麻团)】`ma2 tun2` <small>/ma2 tʰʊ̃2/<sup>如皋</sup></small> 食品。油炸，外沾芝麻。\[兴化：一种油炸食品，由米粉做成空心团子，糖馅，外粘芝麻。\]\[泰州：一种食品，相传为周代公刘发明，糯米团裹进糖馅，外滚芝麻，做成球形或者小圆饼形，用油炸成。\]\[如皋：油炸“金团儿”。大圆子裹芝麻炸成的点心。\]\[如东：糕点的一种。糯米糏发酵后，做成球形，包进糖馅儿，沾上芝麻，经油炸而成。\]  
 1. 【[麻线穿豆腐——提不起来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_xin_chun_teu_fv_ti_beh_qi_lae.md#麻线穿豆腐——提不起来)】`ma2 xin5 chun1 teu6 fv ti2 beh7 qi3 lae2` <sup>[东台]</sup>   
 1. 【[麻症](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_zhen.md#麻症)】`ma2 zhen5` <sup>[兴化]</sup> ① 霍乱的俗称。 ② 骂人的话，意为得急病的。多针对青少年，但无多大恶意。  
 1. 【[麻爪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_zhua_zz.md#麻爪子)】`ma2 zhua3 zz` <sup>[兴化]</sup> ① 形容惊惶失措的样子：（孙家失盗）孙孝继如同猴子吃大蒜一麻了爪子。（《皮五辣子》四） ② 坏极：这个家伙坏得～。  
@@ -835,8 +834,7 @@
 1. 【[门匽/门掩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_in.md#门匽/门掩)】`men2 in` <sup>[泰州]</sup> 门打开靠墙后形成的三角形空间，不为人见，可以藏物：把笤帚放啊～里头去。  
 1. 【[门匽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_in.md#门匽)】`men2 in3` <sup>[兴化]</sup> 门背后的地方：她见到生人躲啊～里不出来。匽，《广韵·阮韵》於幰切：隐也。  
 1. 【[门结子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_jih_zz.md#门结子)】`men2 jih7 zz` <sup>[如东]</sup> 大门关上，在门环上打一个结子。表示主人不在家里。  
-1. 【[门槛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_kaen.md#门槛)】`men2 kaen3` <small>/mə̃2 kʰɛ̃3/<sup>泰兴</sup></small> ① 户槛。<sup>\[如东\]</sup> ② 比喻窍门。<sup>\[如东\]</sup>：～精。<sup>\[如东\]</sup> ③ 门框下的横木。<sup>\[东台\]</sup> ④ ［喻］指进入某范围的条件<sup>\[东台\]</sup>：适当降低～，广招人才。<sup>\[东台\]</sup> ⑤ ［喻］窍门、办法<sup>\[东台\]</sup>：他～精，不会被人骗。<sup>\[东台\]</sup> ⑥ （借）门第：“只要你们不嫌我家～低，我倒愿意……”（马春阳：《月朗和她的娘舅们》）<sup>\[兴化\]</sup> ⑦ 窍门、门路：他下海几年，～混精吖。<sup>\[兴化\]</sup> ⑧ 条件：你把～放低点儿，前来应聘的人就多啊。<sup>\[兴化\]</sup> ⑨ 又称“午槛”。大门之下横木。引申门户、门第。<sup>\[泰兴\]</sup>  
-1. 【[门槛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_kaen.md#门槛)】`men2 kaen3` <sup>[泰州]</sup> ① 门框下部挨着地面的横木或者长石。 ② 比喻诀窍、敲门：这小伙跑啊这吖多年供销，这里头的～他全清。 ③ 进入某个行业的条件或要求：这些单位的～高，一般的人进不去。  
+1. 【[门槛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_kaen.md#门槛)】`men2 kaen3` <small>/mə̃2 kʰɛ̃3/<sup>泰兴</sup></small> ① 户槛。门下所设的横木。另见“午槛”。<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>\[泰州：门框下部挨着地面的横木或者长石。\] ② 比喻窍门、方法、门路<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：～精。<sup>\[如东\]</sup>｜他～精，不会被人骗。<sup>\[东台\]</sup>｜他下海几年，～混精吖。<sup>\[兴化\]</sup>｜这小伙跑啊这吖多年供销，这里头的～他全清。<sup>\[泰州\]</sup> ③ 比喻条件、要求<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：适当降低～，广招人才。<sup>\[东台\]</sup>｜你把～放低点儿，前来应聘的人就多啊。<sup>\[兴化\]</sup>｜这些单位的～高，一般的人进不去。<sup>\[泰州\]</sup> ④ 比喻门户、门第<sup>\[泰兴\]</sup><sup>\[兴化\]</sup>：“只要你们不嫌我家～低，我倒愿意……”（马春阳：《月朗和她的娘舅们》）<sup>\[兴化\]</sup>  
 1. 【[门扣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_keu_r.md#门扣<sub>儿</sub>)】`men2 keu1 r` <sup>[如东]</sup> 装在门帮上的圆环，铜制或铁制，可以扣门或锁门。  
 1. 【[门口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_keu.md#门口)】`men2 keu3` <small>/mə̃2 kʰəɪ3/<sup>泰兴</sup></small> ① 门口 ② 门的外边。<sup>\[如东\]</sup>：他站吖在～。<sup>\[如东\]</sup> ③ 房屋前面。<sup>\[东台\]</sup> ④ 房屋、围墙、车船等出入口。<sup>\[泰兴\]</sup>  
 1. 【[门口边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_keu_bin.md#门口边)】`men2 keu3 bin1` <sup>[如东]</sup> ① 门的外边：把东西放吖～。 ② 门的旁边。  
@@ -1217,8 +1215,7 @@
 1. 【[䛉伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_nga_r.md#䛉伢<sub>儿</sub>)】`min6 nga2 r` <sup>[如皋]</sup> 见“䛉”。  
 1. 【[泯良](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_lian.md#泯良)】`min6 lian2` <sup>[如皋]</sup> 丧失良心。  
 1. 【[面不等客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_beh_den_keh.md#面不等客)】`min6 beh7 den3 keh7` <sup>[如皋]</sup> 面条煮熟即应吃，不能等别人一齐吃，因为久了会变糊。  
-1. 【[面场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_chan.md#面场)】`min6 chan2` <small>/miɪ̃1 t͡sʰɑŋ2/<sup>泰县</sup></small> ① 在大面上或交际应酬场合<sup>\[兴化\]</sup>：她这吖不检点，男人～上怎吖下得来？<sup>\[兴化\]</sup> ② 外表。<sup>\[泰县\]</sup>  
-1. 【[面场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_chan.md#面场)】`min6 chan2` <sup>[泰州]</sup> 当着大家面的公开场合：你对她意见再大，～的话还是要说两句的。  
+1. 【[面场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_chan.md#面场)】`min6 chan2` <small>/miɪ̃1 t͡sʰɑŋ2/<sup>泰县</sup></small> ① 在大面上或交际应酬场合<sup>\[兴化\]</sup>\[泰州：当着大家面的公开场合\]：她这吖不检点，男人～上怎吖下得来？<sup>\[兴化\]</sup>｜你对她意见再大，～的话还是要说两句的。<sup>\[泰州\]</sup> ② 外表。<sup>\[泰县\]</sup>  
 1. 【[面抽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_cheu.md#面抽)】`min6 cheu1` <sup>[如皋]</sup> 酱油的一种。甜面酱的缸中，“抽”篓抽出的乳液，味鲜甜。  
 1. 【[面店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_din.md#面店)】`min6 din5` <sup>[如皋]</sup> ① 制售面条的店家。 ② 卖煮面条、馄饨等的店家。  
 1. 【[面腐盆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_fv_pen.md#面腐盆)】`min6 fv3 pen2` <sup>[泰县]</sup> 糊涂人。  
@@ -1625,8 +1622,7 @@
 1. 【[猛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mon.md#猛)】`mon3` ① 又急又密<sup>\[兴化\]</sup>：雨下得很～。<sup>\[兴化\]</sup>｜这也是个巧劲儿，要不，这样～的水流，早把她冲出来了。（汪曾祺《故里三陈》）<sup>\[兴化\]</sup> ② 雨下的多而急。<sup>\[泰州\]</sup>  
 1. 【[猛一冲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mon_ieh_chon.md#猛一冲)】`mon3 ieh7 chon1` <sup>[东台]</sup> 猛然，突然，乍一看或乍一听：双宝儿长相差不多，～分不清｜他话里有话，～听不懂。  
 1. 【[猛一冲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mon_ieh_chon.md#猛一冲)】`mon3 ieh7 chon5` <sup>[兴化]</sup> 见“冒一冲”。  
-1. 【[猛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mon_zz.md#猛子)】`mon3 zz` <small>/mɔŋ3 t͡sɿ/<sup>如皋</sup></small> ① 潜水、潜泳<sup>\[如皋\]</sup>：捣～。<sup>\[如皋\]</sup> ② 下水游泳时头朝下，钻入水中的动作<sup>\[东台\]</sup>：捣～。<sup>\[东台\]</sup>  
-1. 【[猛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mon_zz.md#猛子)】`mon3 zz` <sup>[泰州]</sup> 头部突然扎入水中潜泳：这条河他一个～就过去啊唻。  
+1. 【[猛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mon_zz.md#猛子)】`mon3 zz` <small>/mɔŋ3 t͡sɿ/<sup>如皋</sup></small> 潜水、潜泳<sup>\[如皋\]</sup>\[东台：下水游泳时头朝下，钻入水中的动作\]\[泰州：头部突然扎入水中潜泳\]：捣～。<sup>\[如皋\]</sup>｜捣～。<sup>\[东台\]</sup>｜这条河他一个～就过去啊唻。<sup>\[泰州\]</sup>  
 1. 【[蠓虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mon_chon.md#蠓虫)】`mon3 chon2` ① 蝶科的昆虫<sup>\[东台\]</sup>：～钻进眼睛，交关难受。<sup>\[东台\]</sup> ② 蠓科、瘿蚊科的各种小双翅蝇，其中多种咬人疼痛，还有一些传染疾病。<sup>\[泰州\]</sup>  
 1. 【[蠓虫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mon_chon_r.md#蠓虫<sub>儿</sub>)】`mon3 chon2 r` <sup>[泰县]</sup> 夏秋季会飞的一种小虫。  
 1. 【[蠓子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mon_zz.md#蠓子)】`mon3 zz` <sup>[如皋]</sup> 蠓。昆虫纲，俗说蠓虫儿。人们常捕水中～以饲金鱼。  
@@ -1774,8 +1770,7 @@
 1. 【[满月饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_iuh_faen.md#满月饭)】`mun3 iuh8 faen6` <small>/mʊ̃3 yʊʔ8 fẽ1/<sup>如皋</sup></small> ① 新生儿满月，家中宴请送月子礼的亲友。<sup>\[如东\]</sup> ② 婴儿出身满一个月的喜庆宴会。<sup>\[如皋\]</sup>  
 1. 【[满朞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_ji.md#满朞)】`mun3 ji1` <small>/mʊ̃3 t͡ɕʝ1/<sup>如皋</sup></small> ① 婴儿出生一周岁，称满朞。<sup>\[如东\]</sup> ② 小孩满一周岁的生日。俗送礼，设宴庆贺。古俗有设百物任小孩抓取，以测将来志向。<sup>\[如皋\]</sup>  
 1. 【[满江红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_jian_hon.md#满江红)】`mun3 jian1 hon2` <sup>[如东]</sup> 满江红科植物满江红，漂浮植物，呈三角形。  
-1. 【[满口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_keu.md#满口)】`mun3 keu3` <small>/mʊ̃3 kʰei3/<sup>如皋</sup>, /mõ3 kʰɤɯ3/<sup>泰县</sup></small> ① 指茶水的温度适口：可以～喝。<sup>\[如皋\]</sup> ② 完全，无保留地：～答应。<sup>\[如皋\]</sup> ③ 全部、都是：～假牙、～胡说。<sup>\[如皋\]</sup> ④ 指茶汤等冷热适度：～茶｜～粥。<sup>\[兴化\]</sup> ⑤ 温度适中：这个粥～，你快点儿喝吧。<sup>\[泰县\]</sup>  
-1. 【[满口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_keu.md#满口)】`mun3 keu3` <sup>[泰州]</sup> ① 整个口腔。 ② 食物冷热稀稠适度可以布满整个口腔，可以大口进食：人不吃饭怎吖行，特地同你煮的～粥，爬起来吃点儿。  
+1. 【[满口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_keu.md#满口)】`mun3 keu3` <small>/mʊ̃3 kʰei3/<sup>如皋</sup>, /mõ3 kʰɤɯ3/<sup>泰县</sup></small> ① 指茶水或食物的温度适中，可以大口饮食<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：～茶、～粥。<sup>\[兴化\]</sup>｜这个粥～，你快点儿喝吧。<sup>\[泰县\]</sup>｜人不吃饭怎吖行，特地同你煮的～粥，爬起来吃点儿。<sup>\[泰州\]</sup> ② 满嘴<sup>\[如皋\]</sup><sup>\[泰州\]</sup>：～答应/无保留地、口气坚决地答应<sup>\[如皋\]</sup>｜～假牙<sup>\[如皋\]</sup>｜～胡说/完全是胡说<sup>\[如皋\]</sup>  
 1. 【[满口菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_keu_cae.md#满口菜)】`mun3 keu3 cae5` <sup>[东台]</sup> 油腻少，可以大口大口吃的菜：韭菜炒蘑菇是他欢喜吃的～。  
 1. 【[满口应承](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_keu_ien_chen.md#满口应承)】`mun3 keu3 ien5 chen2` <sup>[东台]</sup> 爽快地一口答应办某事。  
 1. 【[满满喥喥的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_mun_tah_tah_dii.md#满满喥喥的)】`mun3 mun3 tah8 tah8 dii` <small>/mʊ̃3 mʊ̃3 tʰaʔ8 tʰaʔ8 tei/<sup>如皋</sup></small> ① 满满的要溢（流、淌）出来。<sup>\[如皋\]</sup> ② 见“急急轧轧的”。<sup>\[如皋\]</sup>  
