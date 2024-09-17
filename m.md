@@ -136,7 +136,7 @@
 1. 【[嫲嫲搭搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma_daeh_daeh.md#嫲嫲搭搭)】`ma3 ma daeh7 daeh7` <sup>[兴化]</sup> ① 形容男人有婆子腔调。 ② 形容拉拉扯扯的：这种人就喜欢～的，不管生人熟人总要扯几句。  
 1. 【[嫲嫲腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma_qian.md#嫲嫲腔)】`ma3 ma qian1` <small>/ma3 ma t͡ɕʰiɑŋ1/<sup>泰兴</sup></small> 谓男人像女人一样说话、做事。<sup>\[泰兴\]</sup>  
 1. 【[嫲嫲<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma_r.md#嫲嫲<sub>儿</sub>)】`ma3 ma r` 老婆  
-1. 【[嫲嫲<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma_r.md#嫲嫲<sub>儿</sub>)】`ma3 ma3 r` <small>/ma3 ma3 ɚ/<sup>兴化</sup>, /ma3 ma˞3/<sup>如皋</sup>, /ma3 ma3 ɚ/<sup>泰兴</sup>, /ma3 ma3 ɚ/<sup>泰县</sup></small> ① 妻子。<sup>\[如东\]</sup> ② 女人、妻子。作昵称或鄙称。<sup>\[如皋\]</sup> ③ 同“嫲嫲子”。老太婆<sup>\[兴化\]</sup> ④ 妻<sup>\[兴化\]</sup>：娶～。<sup>\[兴化\]</sup> ⑤ 老婆；已结过婚的妇女。<sup>\[泰县\]</sup>：～就是话多。<sup>\[泰县\]</sup>｜他还不曾娶～。<sup>\[泰县\]</sup> ⑥ 俗称妻、老婆。或俗谓女性。不敬。<sup>\[泰兴\]</sup>  
+1. 【[嫲嫲<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma_r.md#嫲嫲<sub>儿</sub>)】`ma3 ma3 r` <small>/ma3 ma3 ɚ/<sup>兴化</sup>, /ma3 ma˞3/<sup>如皋</sup>, /ma3 ma˞3/<sup>泰兴</sup>, /ma3 ma3 ɚ/<sup>泰县</sup></small> ① 妻子。<sup>\[如东\]</sup> ② 女人、妻子。作昵称或鄙称。<sup>\[如皋\]</sup> ③ 同“嫲嫲子”。老太婆<sup>\[兴化\]</sup> ④ 妻<sup>\[兴化\]</sup>：娶～。<sup>\[兴化\]</sup> ⑤ 老婆；已结过婚的妇女。<sup>\[泰县\]</sup>：～就是话多。<sup>\[泰县\]</sup>｜他还不曾娶～。<sup>\[泰县\]</sup> ⑥ 俗称妻、老婆。或俗谓女性。不敬。<sup>\[泰兴\]</sup>  
 1. 【[嫲嫲<sub>儿</sub>话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma_r_hua.md#嫲嫲<sub>儿</sub>话)】`ma3 ma3 r hua6` <sup>[如皋]</sup> 无见识的委琐的话。  
 1. 【[嫲嫲<sub>儿</sub>气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma_r_qi.md#嫲嫲<sub>儿</sub>气)】`ma3 ma3 r qi5` <sup>[如皋]</sup> 见“嫲嫲儿腔”。  
 1. 【[嫲嫲<sub>儿</sub>腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma_r_qian.md#嫲嫲<sub>儿</sub>腔)】`ma3 ma3 r qian1` <small>/ma3 ma˞3 t͡ɕʰiã1/<sup>如皋</sup>, /ma3 ma3 ɚ t͡ɕʰiɑŋ1/<sup>泰县</sup></small> ① 贬指男人无汉子气而委琐，扭昵作态的样子。<sup>\[如皋\]</sup> ② 缺乏阳刚之气的男人。<sup>\[泰县\]</sup>  
@@ -194,7 +194,7 @@
 1. 【[马甲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_gaeh.md#马甲)】`ma3 gaeh7` <sup>[泰州]</sup> 背心，没有领子和袖子的上衣，旧时罩于外衣之上，今多罩于内衣之上。  
 1. 【[马鲛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_go.md#马鲛)】`ma3 go1` <sup>[东台]</sup> 一种体形狭长、浑身肥满、圆滚滚的名贵海鱼。  
 1. 【[马鲛鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_go_y.md#马鲛鱼)】`ma3 go1 y2` <sup>[如东]</sup> 鲅科动物蓝点马鲛，又名鲅鱼。  
-1. 【[马褂<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_gua_r.md#马褂<sub>儿</sub>)】`ma3 gua r` <small>/ma3 kua ɚ/<sup>泰兴</sup></small> 马夹，马橙子。罩于外套上的对襟短衣，为旧时礼服。今少见。<sup>\[泰兴\]</sup>  
+1. 【[马褂<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_gua_r.md#马褂<sub>儿</sub>)】`ma3 gua r` <small>/ma3 kua˞/<sup>泰兴</sup></small> 马夹，马橙子。罩于外套上的对襟短衣，为旧时礼服。今少见。<sup>\[泰兴\]</sup>  
 1. 【[马褂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_gua.md#马褂)】`ma3 gua5` <sup>[如东]</sup> 套在长袍外面的一种短褂儿。  
 1. 【[马巷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_han.md#马巷)】`ma3 han6` <sup>[兴化]</sup> 床铺的一头可放置马桶的空间。  
 1. 【[马后炮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_heu_po.md#马后炮)】`ma3 heu6 po5` <small>/ma3 xəɪ1 pʰɔ5/<sup>泰兴</sup></small> 事情已处理结束再来出主意<sup>\[泰兴\]</sup>  

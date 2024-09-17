@@ -283,7 +283,7 @@
 1. 【[鸦鹊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_qiah.md#鸦鹊)】`nga1 qiah7` 喜鹊  
 1. 【[鸦子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#鸦子)】`nga1 zz` <sup>[泰兴]</sup> 鸬鹚。经驯养后会捕鱼的禽类动物。  
 1. 【[□求](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_qieu.md#□求)】`nga2 qieu2` <sup>[泰州]</sup> 在他人明确表示否定的情况下，乞求他人满足自己愿望：他已经回啊你，你还再去～他，何苦自讨没趣㖸？  
-1. 【[伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_r.md#伢<sub>儿</sub>)】`nga2 r` <small>/ŋa˞2/<sup>如皋</sup>, /ŋa2 ɚ/<sup>泰兴</sup>, /a2 ɚ/<sup>泰县</sup></small> ① 小孩<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：他家～今年小学毕业。<sup>\[泰州\]</sup> ② 对小孩的称呼。<sup>\[如东\]</sup> ③ 指未结婚的青年男女，多作长者对晚辈的昵称。<sup>\[泰州\]</sup>  
+1. 【[伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_r.md#伢<sub>儿</sub>)】`nga2 r` <small>/ŋa˞2/<sup>如皋</sup>, /ŋa˞2/<sup>泰兴</sup>, /a2 ɚ/<sup>泰县</sup></small> ① 小孩<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：他家～今年小学毕业。<sup>\[泰州\]</sup> ② 对小孩的称呼。<sup>\[如东\]</sup> ③ 指未结婚的青年男女，多作长者对晚辈的昵称。<sup>\[泰州\]</sup>  
 1. 【[伢<sub>儿</sub>自家的蘣，婆娘人家的蘣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_r_cz_ga_dii_ton_pu_nian_ren_ga_dii_ton.md#伢<sub>儿</sub>自家的蘣，婆娘人家的蘣)】`nga2 r cz6 ga dii ton5 pu2 nian ren2 ga dii ton5` <sup>[东台]</sup> 一种普遍存在的偏见及偏爱心理。  
 1. 【[伢<sub>儿</sub>父](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_r_fv.md#伢<sub>儿</sub>父)】`nga2 r fv6` <sup>[如东]</sup> ① 小孩的父亲。 ② 妻子对丈夫的称呼。  
 1. 【[伢<sub>儿</sub>家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_r_ga.md#伢<sub>儿</sub>家)】`nga2 r ga` <sup>[如皋]</sup> 小孩子一类的人，要谦逊礼让：～到哪许总要少说、多听。  

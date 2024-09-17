@@ -822,7 +822,7 @@
 1. 【[提劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_jien.md#提劲)】`ti2 jien5` <sup>[如东]</sup> 加倍使用力气：我嘴唇儿伤吖，吃饭的时候要～。  
 1. 【[提梁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_lian.md#提梁)】`ti2 lian2` <sup>[如东]</sup> 连接桶耳的横木，供提桶用。也称桶把儿。  
 1. 【[提𪳄没把子——翻（饭）桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_lian_meh_ba_zz_faen_ton.md#提𪳄没把子——翻（饭）桶)】`ti2 lian6 meh8 ba5 zz faen1 （faen6） ton3` <sup>[东台]</sup>   
-1. 【[提𪳄<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_lian_r.md#提𪳄<sub>儿</sub>)】`ti2 lian6 r` <small>/tʰʝ2 lia˞1/<sup>如皋</sup>, /tʰɿ2 niɑŋ1 ɚ/<sup>泰县</sup></small> ① 提桶，木制，有提环、盖子的小桶。参见“𪳄子”。<sup>\[如皋\]</sup> ② 容器。木制，圆桶形，高25厘米，口直径22厘米，底直径20厘米。两边伸出两根木板称耳子。耳子中间一根横梁，叫提手。有的加盖，有的无盖。可以提水，也可以贮藏物资。<sup>\[如东\]</sup> ③ 小的提水桶<sup>\[泰县\]</sup>：你把～拿过来。<sup>\[泰县\]</sup>  
+1. 【[提𪳄<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_lian_r.md#提𪳄<sub>儿</sub>)】`ti2 lian6 r` <small>/tʰʝ2 lia˞1/<sup>如皋</sup>, /t͡sʰɿ2 niɑŋ1 ɚ/<sup>泰县</sup></small> ① 提桶，木制，有提环、盖子的小桶。参见“𪳄子”。<sup>\[如皋\]</sup> ② 容器。木制，圆桶形，高25厘米，口直径22厘米，底直径20厘米。两边伸出两根木板称耳子。耳子中间一根横梁，叫提手。有的加盖，有的无盖。可以提水，也可以贮藏物资。<sup>\[如东\]</sup> ③ 小的提水桶<sup>\[泰县\]</sup>：你把～拿过来。<sup>\[泰县\]</sup>  
 1. 【[提笼㧟鼓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_lon_kuae_gv.md#提笼㧟鼓)】`ti2 lon2 kuae6 gv3` <sup>[兴化]</sup> 由于携带的东西多而行动不利索的样子：他上一次城，～的带许多零碎东西，连路也走不动。  
 1. 【[提锣㧟鼓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_lu_kuae_gv.md#提锣㧟鼓)】`ti2 lu2 kuae6 gv3` <sup>[东台]</sup> ［喻］指身上带着很多东西，行动不便：你～的不好跑，我去接你。  
 1. 【[提脓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_non.md#提脓)】`ti2 non2` <sup>[兴化]</sup> 中医外科用药使疮疖等加快化脓，以减轻患者疼痛。  
@@ -905,7 +905,7 @@
 1. 【[地头价](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_teu_jia.md#地头价)】`ti6 teu2 jia5` <sup>[如皋]</sup> 原产地（厂）的价格。  
 1. 【[地头蛇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_teu_sha.md#地头蛇)】`ti6 teu2 sha2` <sup>[如东]</sup> 当地强横无赖、欺压百姓的人。  
 1. 【[地道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_to.md#地道)】`ti6 to6` <sup>[如皋]</sup> 道地的反序词。  
-1. 【[地动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_ton.md#地动)】`ti6 ton6` <small>/tʰəi6 tʰoŋ6/<sup>兴化</sup>, /tʰʝ1 tʰɔŋ1/<sup>如皋</sup>, /tʰɿ1 tʰoŋ1/<sup>泰县</sup></small> ① 地震。<sup>\[如皋\]</sup> ② 地震。<sup>\[如东\]</sup> ③ 地震。<sup>\[兴化\]</sup>：谚曰：～三年不结瓜。<sup>\[兴化\]</sup> ④ 地震。<sup>\[泰县\]</sup>  
+1. 【[地动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_ton.md#地动)】`ti6 ton6` <small>/tʰəi6 tʰoŋ6/<sup>兴化</sup>, /tʰʝ1 tʰɔŋ1/<sup>如皋</sup>, /t͡sʰɿ1 tʰoŋ1/<sup>泰县</sup></small> 地震。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup>：谚曰：～三年不结瓜。<sup>\[兴化\]</sup>  
 1. 【[地为](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_vei.md#地为)】`ti6 vei` ① 特地 ② 特地。<sup>\[如东\]</sup>：～这吖准备的。<sup>\[如东\]</sup>  
 1. 【[地榆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_y.md#地榆)】`ti6 y2` <sup>[如东]</sup> 酱薇科植物地榆，多年生草本。  
 1. 【[地灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_zo.md#地灶)】`ti6 zo5` <sup>[如皋]</sup> 野炊挖塘置锅，塘两端有口，一下草，一出烟，此谓～。  
@@ -2029,7 +2029,7 @@
 1. 【[土地狗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_ti_geu_zz.md#土地狗子)】`tv3 ti6 geu3 zz` <sup>[兴化]</sup> 蝼蛄。  
 1. 【[土地工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_ti_gon.md#土地工)】`tv3 ti6 gon1` <sup>[如东]</sup> 用工制度的一种。因土地被企业征用而吸收的工人。  
 1. 【[土地会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_ti_huei.md#土地会)】`tv3 ti6 huei6` <sup>[如皋]</sup> 夏季祭祀土地菩萨的庙会，给一方住户送太平。  
-1. 【[土地佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_ti_lo_r.md#土地佬<sub>儿</sub>)】`tv3 ti6 lo3 r` <small>/tʰu3 tʰʝ1 lɔ˞3/<sup>如皋</sup>, /tʰu3 t͡ɕʰʝ1 lɔ3 ɚ/<sup>泰兴</sup></small> ① 土地神，土地菩萨。<sup>\[如皋\]</sup><sup>\[如东\]</sup>\[泰兴：也称土地公公。旧时几乎每个村庄都有供奉土地神的小庙。\] ② 贬指农民。<sup>\[如皋\]</sup> ③ 贬指土气的人。<sup>\[如皋\]</sup>  
+1. 【[土地佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_ti_lo_r.md#土地佬<sub>儿</sub>)】`tv3 ti6 lo3 r` <small>/tʰu3 tʰʝ1 lɔ˞3/<sup>如皋</sup>, /tʰu3 t͡ɕʰʝ1 lɔ˞3/<sup>泰兴</sup></small> ① 土地神，土地菩萨。<sup>\[如皋\]</sup><sup>\[如东\]</sup>\[泰兴：也称土地公公。旧时几乎每个村庄都有供奉土地神的小庙。\] ② 贬指农民。<sup>\[如皋\]</sup> ③ 贬指土气的人。<sup>\[如皋\]</sup>  
 1. 【[土地老爷骑公鸡——神气啯啯的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_ti_lo_i_qi_gon_ji_shen_qi_goh_goh_dii.md#土地老爷骑公鸡——神气啯啯的)】`tv3 ti6 lo3 i qi2 gon1 ji1 shen2 qi5 goh7 goh7 dii` <sup>[东台]</sup>   
 1. 【[土地庙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_ti_mio.md#土地庙)】`tv3 ti6 mio6` <small>/tʰu3 t͡ɕʰʝ1 miɔ1/<sup>泰兴</sup></small> 供奉土地菩萨的庙宇。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[土地庙没顶——神气通天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_ti_mio_meh_dien_shen_qi_ton_tin.md#土地庙没顶——神气通天)】`tv3 ti6 mio6 meh8 dien3 shen2 qi5 ton1 tin1` <sup>[东台]</sup>   

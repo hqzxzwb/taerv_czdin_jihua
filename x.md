@@ -505,7 +505,7 @@
 1. 【[乡下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ha.md#乡下)】`xian1 ha` <small>/ɕiã1 xa/<sup>如皋</sup></small> ① 乡村里。与“市镇”相对。<sup>\[如皋\]</sup> ② 小集镇，与“城市”相对。<sup>\[如皋\]</sup> ③ 县城及大集镇以外的地区。通称农村。<sup>\[如东\]</sup>  
 1. 【[乡下宝宝吃海参，头一回](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ha_bo_bo.md#乡下宝宝吃海参，头一回)】`xian1 ha bo3 bo qieh7 hae3 shen1 teu2 ieh7 huei2` <small>/ɕiɑŋ1 xa pɔ3 pɔ t͡ɕʰiəʔ7 xɛ3 sə̃1 tʰəɪ2 iʔ7 xuəɪ2/<sup>泰兴</sup></small> 歇后语。谓第一次，以前从来没有的事。义与“大姑娘坐轿子”同。<sup>\[泰兴\]</sup>  
 1. 【[乡下家里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ha_ga_lii.md#乡下家里)】`xian1 ha ga1 lii` <sup>[如皋]</sup> ① 自家住城镇时指在乡村中的住宅。 ② 自家或家族中的离街市稍远的住宅。均与“街上家里”相对。  
-1. 【[乡下鼓<sub>儿</sub>乡下敲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ha_gv_r.md#乡下鼓<sub>儿</sub>乡下敲)】`xian1 ha gv3 r xian1 ha ko1` <small>/ɕiɑŋ1 xa ku3 ɚ ɕiɑŋ1 xa kʰɔ1/<sup>泰兴</sup></small> 喻指要适合当时当地人的口味说话办事。<sup>\[泰兴\]</sup>  
+1. 【[乡下鼓<sub>儿</sub>乡下敲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ha_gv_r.md#乡下鼓<sub>儿</sub>乡下敲)】`xian1 ha gv3 r xian1 ha ko1` <small>/ɕiɑŋ1 xa ku˞3 ɕiɑŋ1 xa kʰɔ1/<sup>泰兴</sup></small> 喻指要适合当时当地人的口味说话办事。<sup>\[泰兴\]</sup>  
 1. 【[乡下佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ha_lo_r.md#乡下佬<sub>儿</sub>)】`xian1 ha lo3 r` <sup>[如皋]</sup> 对少见识者的鄙称。  
 1. 【[乡下人卖草，上里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ha_ren_mae.md#乡下人卖草，上里)】`xian1 ha ren2 mae6 co3 shan6 li3` <small>/ɕiɑŋ1 xa ɻə̃2 mɛ1 t͡sʰɔ3 sɑŋ1 lʝ3/<sup>泰兴</sup></small> 歇后语。谓“到里边去”、“往里边靠”。旧时乡下人常到集镇卖草与城镇居民。<sup>\[泰兴\]</sup>  
 1. 【[乡下人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ha_ren.md#乡下人)】`xian1 ha6 ren2` <small>/ɕiɑŋ1 xa1 ɻə̃2/<sup>泰兴</sup></small> 住在农村的人。有时含贬义。<sup>\[泰兴\]</sup>  
@@ -1264,7 +1264,7 @@
 1. 【[小班](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_baen.md#小班)】`xio3 baen1` <small>/ɕiɔ3 pẽ1/<sup>如皋</sup></small> ① 晚辈。<sup>\[如皋\]</sup> ② 晚辈。<sup>\[如东\]</sup>  
 1. 【[小班的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_baen_dii.md#小班的)】`xio3 baen1 dii` 晚辈们  
 1. 【[小傍中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ban_zhon.md#小傍中)】`xio3 ban zhon1` <sup>[兴化]</sup> 近中午的时候：（婆媳俩）一直等到～，派一个人出来回话……（陈登科《淮河边上的儿女》十四）  
-1. 【[小不点<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_beh_din_r.md#小不点<sub>儿</sub>)】`xio3 beh din3 r` <small>/ɕiɔ3 pəʔ tiɪ̃3 ɚ/<sup>兴化</sup>, /ɕiɔ3 pəʔ tĩ3 ɚ/<sup>泰兴</sup></small> ① （戏）幼童。<sup>\[兴化\]</sup> ② 形容很小的东西。<sup>\[兴化\]</sup> ③ 极言其小，很小的孩子。<sup>\[泰兴\]</sup>：对门的那个～惹人欢喜得凶。<sup>\[泰兴\]</sup>  
+1. 【[小不点<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_beh_din_r.md#小不点<sub>儿</sub>)】`xio3 beh din3 r` <small>/ɕiɔ3 pəʔ tiɪ̃3 ɚ/<sup>兴化</sup>, /ɕiɔ3 pəʔ ti˞3/<sup>泰兴</sup></small> ① （戏）幼童。<sup>\[兴化\]</sup> ② 形容很小的东西。<sup>\[兴化\]</sup> ③ 极言其小，很小的孩子。<sup>\[泰兴\]</sup>：对门的那个～惹人欢喜得凶。<sup>\[泰兴\]</sup>  
 1. 【[小不下来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_beh_ha_lae.md#小不下来)】`xio3 beh ha6 lae2` <sup>[泰兴]</sup> 拿架子，充派头，抬身份。  
 1. 【[小不可大算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_beh_ku_tae_sun.md#小不可大算)】`xio3 beh7 ku3 tae6 sun5` <sup>[兴化]</sup> 节约要从小处做起，日积月累见成果：一天不多，十天许多，～吖。  
 1. 【[小不可怠算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_beh_ku_tae_sun.md#小不可怠算)】`xio3 beh7 ku3 tae6 sun5` <sup>[东台]</sup> 小的收入或支出也不能忽略。  
@@ -1311,7 +1311,7 @@
 1. 【[小肠皮<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_chan_pi_r.md#小肠皮<sub>儿</sub>)】`xio3 chan2 pi2 r` <sup>[如皋]</sup> 制肠衣刮下的猪小肠肉质部分。可做“扎肠”煮成“红肠”。  
 1. 【[小肠器](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_chan_qi.md#小肠器)】`xio3 chan2 qi5` <sup>[如东]</sup> 疝气。  
 1. 【[小肠气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_chan_qi.md#小肠气)】`xio3 chan2 qi5` <small>/ɕiɔ3 t͡sʰaŋ2 t͡ɕʰi5/<sup>兴化</sup>, /ɕiɔ3 t͡sʰã2 t͡ɕʰʝ5/<sup>如皋</sup>, /ɕiɔ3 t͡sʰɑŋ2 t͡sʰɿ5/<sup>泰县</sup></small> ① 疝气。<sup>\[如皋\]</sup> ② 疝气的俗称。<sup>\[东台\]</sup> ③ 疝气。<sup>\[兴化\]</sup> ④ 疝气。<sup>\[泰县\]</sup>  
-1. 【[小唱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_chan_r.md#小唱<sub>儿</sub>)】`xio3 chan5 r` <small>/ɕiɔ3 t͡sʰaŋ5 ɚ/<sup>兴化</sup>, /ɕiɔ3 t͡sʰɑŋ5 ɚ/<sup>泰兴</sup></small> ① 短小的民间小调。<sup>\[兴化\]</sup> ② 民间以唱为主的一种艺术表演形式，艺人多在农闲季节游走于乡间“卖唱儿”糊口，称卖“小唱儿”。<sup>\[泰兴\]</sup>  
+1. 【[小唱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_chan_r.md#小唱<sub>儿</sub>)】`xio3 chan5 r` <small>/ɕiɔ3 t͡sʰaŋ5 ɚ/<sup>兴化</sup>, /ɕiɔ3 t͡sʰɑ˞5/<sup>泰兴</sup></small> ① 短小的民间小调。<sup>\[兴化\]</sup> ② 民间以唱为主的一种艺术表演形式，艺人多在农闲季节游走于乡间“卖唱儿”糊口，称卖“小唱儿”。<sup>\[泰兴\]</sup>  
 1. 【[小秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_chen.md#小秤)】`xio3 chen5` <sup>[如皋]</sup> 一般家用杆秤。称量上限20市斤，下限0两，分二纽：头纽看面花，打5-20市斤；二纽看怀花，打0两5市斤。  
 1. 【[小潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cho.md#小潮)】`xio3 cho2` <small>/ɕiɔ3 t͡sʰɔ2/<sup>如皋</sup></small> ① 小汛。<sup>\[如皋\]</sup> ② 潮水水位低的海潮，称小潮。<sup>\[如东\]</sup>  
 1. 【[小轴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_choh_r.md#小轴<sub>儿</sub>)】`xio3 choh8 r` <sup>[如皋]</sup> 水车槽筒接近河面端的定齿轮，有7齿。  
@@ -1565,7 +1565,7 @@
 1. 【[小学](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xiah.md#小学)】`xio3 xiah8` <sup>[如东]</sup> 对少年实施初等教育的学校。清·光绪三十年（1904年），如东创建丰利小学。  
 1. 【[小媳妇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xieh_fv.md#小媳妇)】`xio3 xieh7 fv6` <sup>[如东]</sup> 童养媳。  
 1. 【[小心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xien.md#小心)】`xio3 xien1` <sup>[如东]</sup> 仔细，留神，谨慎：下雨天跑路要～。  
-1. 【[小心眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xien_ngaen_r.md#小心眼<sub>儿</sub>)】`xio3 xien1 ngaen3 r` <small>/ɕiɔ3 ɕiŋ1 ŋɛ̃3 ɚ/<sup>泰兴</sup></small> 气量狭小，眼光短浅而多疑<sup>\[如东\]</sup><sup>\[泰兴\]</sup>：她是个～。<sup>\[如东\]</sup>｜覅太～了，箇点事也不值得你生气！<sup>\[泰兴\]</sup>  
+1. 【[小心眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xien_ngaen_r.md#小心眼<sub>儿</sub>)】`xio3 xien1 ngaen3 r` <small>/ɕiɔ3 ɕiŋ1 ŋɛ˞3/<sup>泰兴</sup></small> 气量狭小，眼光短浅而多疑<sup>\[如东\]</sup><sup>\[泰兴\]</sup>：她是个～。<sup>\[如东\]</sup>｜覅太～了，箇点事也不值得你生气！<sup>\[泰兴\]</sup>  
 1. 【[小新妇<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xien_fv_r.md#小新妇<sub>儿</sub>)】`xio3 xien1 fv6 r` <sup>[如皋]</sup> 童养媳。  
 1. 【[小汛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xien.md#小汛)】`xio3 xien5` <sup>[如东]</sup> ① 海潮水位降低的一段时间。每月有两次，阴历初五日至初九日、十日至二十四日，为小汛。 ② 海潮水位低。 ③ 海潮水位低的一段时间。  
 1. 【[小先生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xin_shen.md#小先生)】`xio3 xin1 shen` <sup>[如皋]</sup> 尊称老板的儿子。指称、面称。  
