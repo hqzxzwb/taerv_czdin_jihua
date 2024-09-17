@@ -12,7 +12,7 @@
 1. 【[儿灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_den.md#儿灯)】`er2 den1` <sup>[如皋]</sup> ① 人形灯具。 ② 喻出众者：你充甚的～吖！  
 1. 【[儿多母受苦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_du_mu_sheu.md#儿多母受苦)】`er2 du1 mu3 sheu6 kv3` <sup>[泰兴]</sup> 谓子女多，做母亲的非常辛苦。  
 1. 【[儿儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_er.md#儿儿)】`er2 er` <sup>[兴化]</sup> 孩子：这个～太调皮。｜“人生总受业风吹，三岁～，八十～。”（宋·刘辰翁《一剪梅》）  
-1. 【[儿狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_geu.md#儿狗)】`er2 geu3` <small>/ɚ2 kei3/<sup>如皋</sup>, /ɚ2 kəɪ3/<sup>泰兴</sup></small> 公狗。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>  
+1. 【[儿狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_geu.md#儿狗)】`er2 geu3` <small>/ɚ2 kəɪ3/<sup>泰兴</sup>, /ɚ2 kei3/<sup>如皋</sup></small> 公狗。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>  
 1. 【[儿花女花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_hua_ny_hua.md#儿花女花)】`er2 hua1 ny3 hua1` <sup>[兴化]</sup> 儿女：老奶奶孤寡一人，～没得一个。｜“俺衙内老爹身边，～没有，好不单径……”（《金瓶梅词话》九一）  
 1. 【[儿要教，子要孝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_io_jio_zz.md#儿要教，子要孝)】`er2 io5 jio5 zz3 io5 xio5` <sup>[泰兴]</sup> 对儿女要加强教育，做子女的要孝顺。  
 1. 【[儿女亲家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_ny_qien_ga.md#儿女亲家)】`er2 ny3 qien5 ga` <sup>[如皋]</sup> 姻亲的双方家族间长辈的关系称。  
