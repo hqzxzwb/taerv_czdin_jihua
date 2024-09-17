@@ -43,6 +43,9 @@ shih_jin_hua['q'] = 'c'
 shih_jin_hua['x'] = 's'
 
 def 泰兴(cz, pien_ien):
+  if pien_ien == 'r': # 儿化
+    return '˞'
+
   ien = parse_pien_ien(pien_ien)
   shen, gae, yen, tio = tae_xien_pien_ien(cz, ien)
 
@@ -115,9 +118,7 @@ def tae_xien_pien_ien(cz, ien, for_qio_shih = False):
     yen = 'ei'
 
   shen = pien_shih[shen] # 平翘舌不分
-  if shen == '' and yen == 'r': # 独立音节儿缀
-    yen = 'er'
-  elif yen == 'r':
+  if yen == 'r':
     yen = 'z'
   return (shen, gae, yen, tio)
 
@@ -186,6 +187,10 @@ def 泰县(cz, pien_ien):
     yen = 'z'
     if shen in ['j', 'q', 'x']:
       shen = shih_jin_hua[shen]
+    elif shen == 'd':
+      shen = 'z'
+    elif shen == 't':
+      shen = 'c'
 
   if shen == 'ng' and cz not in ['吖']: # ng脱落
     shen = ''
