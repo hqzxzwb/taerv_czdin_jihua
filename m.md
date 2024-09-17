@@ -379,8 +379,7 @@
 1. 【[蛮掼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_kuaen.md#蛮掼)】`maen2 kuaen6` <sup>[泰县]</sup> 蛮横。  
 1. 【[蛮来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_lae.md#蛮来)】`maen2 lae2` <sup>[兴化]</sup> 不按规矩，任意而为：列公莫认作十三妹生做～，也莫怪道说书的胡诌硬扭。（《儿女英雄传》十）  
 1. 【[蛮辣答](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_laeh_daeh.md#蛮辣答)】`maen2 laeh daeh7` <sup>[兴化]</sup> 胡搅蛮缠的人：她家姐妹全是～，四邻没得哪个敢惹。  
-1. 【[蛮理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_li.md#蛮理)】`maen2 li3` <small>/mɛ̃2 ləi3/<sup>兴化</sup>, /mẽ2 lʝ3/<sup>如皋</sup></small> ① 歪理。<sup>\[如皋\]</sup> ② 歪理：你打啊人还怪人家不好，这是哪一家的～？<sup>\[兴化\]</sup>  
-1. 【[蛮理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_li.md#蛮理)】`maen2 li3` <sup>[泰州]</sup> 站不住脚的道理：你的车子把人家撞吖伤吖，不去同人家上医院看，反而吊住人家赔你的车子，你不是讲的～啊？  
+1. 【[蛮理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_li.md#蛮理)】`maen2 li3` <small>/mɛ̃2 ləi3/<sup>兴化</sup>, /mẽ2 lʝ3/<sup>如皋</sup></small> 歪理。<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：你打啊人还怪人家不好，这是哪一家的～？<sup>\[兴化\]</sup>｜你的车子把人家撞吖伤吖，不去同人家上医院看，反而吊住人家赔你的车子，你不是讲的～啊？<sup>\[泰州\]</sup>  
 1. 【[蛮力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_lieh.md#蛮力)】`maen2 lieh8` <sup>[如皋]</sup> 不善节制而胡乱使出的体力。  
 1. 【[蛮里骨嘟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_lii_gueh_dv.md#蛮里骨嘟)】`maen2 lii gueh7 dv1` <sup>[兴化]</sup> 形容南方人讲话太快，吐字不清：两个广东佬嘴里～的，不晓得说的甚的！  
 1. 【[蛮里骨碌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_lii_gueh_loh.md#蛮里骨碌)】`maen2 lii gueh7 loh` <sup>[泰县]</sup> 泛指外地人说自己的方言，使人听不懂。  
@@ -750,8 +749,7 @@
 1. 【[玫瑰花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_guei_hua.md#玫瑰花)】`mei2 guei1 hua1` <sup>[如东]</sup> 蔷薇科植物玫瑰，直立乔木。  
 1. 【[玫瑰露](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_guei_lv.md#玫瑰露)】`mei2 guei1 lv6` <sup>[如东]</sup> 蔷薇科植物玫瑰花的蒸馏液。  
 1. 【[脢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei.md#脢)】`mei2` <sup>[兴化]</sup> 牲畜背上的肉。俗称～子｜～条｜腰～。《说文·肉部》“～，背肉也。”字又作“脄”。  
-1. 【[脢条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_tio.md#脢条)】`mei2 tio2` <small>/mei2 tʰiɔ2/<sup>如皋</sup></small> ① 贴在猪脊梁（内脊）上的一块长条形瘦肉。肉嫩味鲜。<sup>\[如东\]</sup> ② 猪脊骨两侧的长条精肉。肉色微白，质地细嫩，是上好肉。<sup>\[如皋\]</sup>  
-1. 【[脢条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_tio.md#脢条)】`mei2 tio2` <sup>[泰州]</sup> 猪脊椎两旁瘦肉。（泰州音min2 tio2）  
+1. 【[脢条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_tio.md#脢条)】`mei2 tio2` <small>/mei2 tʰiɔ2/<sup>如皋</sup></small> 里脊肉\[泰州：猪脊椎两旁瘦肉。\]\[如皋：猪脊骨两侧的长条精肉。肉色微白，质地细嫩，是上好肉。\]\[如东：贴在猪脊梁（内脊）上的一块长条形瘦肉。肉嫩味鲜。\]  
 1. 【[脢条肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_tio_roh.md#脢条肉)】`mei2 tio2 roh8` <sup>[东台]</sup> 里脊肉。脢，《广韵》莫怀切：“脊侧之肉”。  
 1. 【[霉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei.md#霉)】`mei2` <sup>[兴化]</sup> 不吉利、倒霉：今吖手气不好，太～。  
 1. 【[霉点子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_din_zz.md#霉点子)】`mei2 din3 zz` <sup>[兴化]</sup> 霉斑：大衣放吖橱子里生吖～。  
@@ -1036,8 +1034,7 @@
 1. 【[米糏饼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_xih_bien_r.md#米糏饼<sub>儿</sub>)】`mi3 xih7 bien3 r` <sup>[如皋]</sup> 米粉糊发酵烙成的饼。西场所产尤佳。  
 1. 【[米猪<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_zhv_r.md#米猪<sub>儿</sub>)】`mi3 zhv1 r` <small>/mɿ3 t͡su1 ɚ/<sup>泰县</sup></small> ① 膘肥的猪。<sup>\[如东\]</sup> ② 膘肥的猪子。<sup>\[泰县\]</sup> ③ 殷实富户。<sup>\[泰县\]</sup>  
 1. 【[米蛀虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_zhv_chon.md#米蛀虫)】`mi3 zhv5 chon2` <small>/mʝ3 t͡su5 t͡sʰɔŋ2/<sup>如皋</sup></small> ① 麦蛾的幼虫。<sup>\[如东\]</sup> ② 大谷盗的幼虫。<sup>\[如皋\]</sup>  
-1. 【[米子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_zz.md#米子)】`mi3 zz` <small>/mi3 t͡sɿ/<sup>兴化</sup>, /mʝ3 t͡sɿ/<sup>如皋</sup></small> ① 钓铒。<sup>\[如东\]</sup>：钓鲫鱼要用河仙做～。<sup>\[如东\]</sup> ② 常指肿块中，小而硬的芯子。<sup>\[如皋\]</sup> ③ 果实硬壳里的子实<sup>\[兴化\]</sup>：菱～；薏仁～；花生～。<sup>\[兴化\]</sup>  
-1. 【[米子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_zz.md#米子)】`mi3 zz` <sup>[泰州]</sup> 部分植物荚内或硬壳内包裹着的果实：花生～｜蚕豆～｜黄豆～｜老菱～。  
+1. 【[米子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_zz.md#米子)】`mi3 zz` <small>/mi3 t͡sɿ/<sup>兴化</sup>, /mʝ3 t͡sɿ/<sup>如皋</sup>, /mʝ3 t͡sɿ/<sup>泰兴</sup></small> ① 钓铒。<sup>\[如东\]</sup>：钓鲫鱼要用河仙做～。<sup>\[如东\]</sup> ② 常指肿块中，小而硬的芯子。<sup>\[如皋\]</sup> ③ 荚或硬壳里的子实<sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：菱～；薏仁～；花生～。<sup>\[兴化\]</sup>｜花生～<sup>\[泰州\]</sup>｜蚕豆～<sup>\[泰州\]</sup>｜黄豆～<sup>\[泰州\]</sup>｜老菱～<sup>\[泰州\]</sup>  
 1. 【[美儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_er.md#美儿)】`mi3 er2` <sup>[如皋]</sup> ① 古瓷、古画上的美女：～碗。 ② 贬指以貌取胜而无实才的女人。  
 1. 【[美美香甜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_mi_xian_tin.md#美美香甜)】`mi3 mi3 xian1 tin2` <sup>[泰县]</sup> 又香又甜。  
 1. 【[美猫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_mo.md#美猫)】`mi3 mo2` <sup>[如皋]</sup> 雌猫。  
@@ -1046,8 +1043,7 @@
 1. 【[妹私](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_sz.md#妹私)】`mi6 sz` <sup>[泰州]</sup> 妹夫。  
 1. 【[妹婿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_xi.md#妹婿)】`mi6 xi` <sup>[东台]</sup> 即妹夫，妹妹的丈夫。婿，音“细”。  
 1. 【[妹婿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_xy.md#妹婿)】`mi6 xy5` <sup>[如皋]</sup> 妹夫。  
-1. 【[妹子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_zz.md#妹子)】`mi6 zz` <small>/mʝ1 t͡sɿ/<sup>如皋</sup></small> ① 妹妹。<sup>\[如皋\]</sup> ② 泛称小于自己的女人。<sup>\[如皋\]</sup> ③ 妹妹。<sup>\[东台\]</sup>  
-1. 【[妹子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_zz.md#妹子)】`mi6 zz` <sup>[泰州]</sup> 妹妹。  
+1. 【[妹子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_zz.md#妹子)】`mi6 zz` <small>/mʝ1 t͡sɿ/<sup>如皋</sup></small> ① 妹妹。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰州\]</sup> ② 泛称小于自己的女人。<sup>\[如皋\]</sup>  
 1. 【[昧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#昧)】`mi6` <sup>[泰州]</sup> 暗中吞没他人财物：最后还多啊几千块钱，捱他～掉啊。  
 1. 【[乜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mia.md#乜)】`mia1` ① 斜视 ② 眯着眼睛斜视。<sup>\[如东\]</sup>：他站吖外面～啊一眼。<sup>\[如东\]</sup>  
 1. 【[乜虎眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mia_hv_ngaen.md#乜虎眼)】`mia1 hv3 ngaen3` <sup>[如东]</sup> 眼睛斜视。比喻把事物看偏了：打～。  
@@ -1486,8 +1482,7 @@
 1. 【[木耳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_er.md#木耳)】`moh8 er3` <sup>[如东]</sup> 菌的一种。生长在腐朽的树干上，形状如人耳，黑褐色，胶质，外面密生柔软的短毛。可供食用。  
 1. 【[木杮<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_fei_r.md#木杮<sub>儿</sub>)】`moh8 fei5 r` <sup>[如皋]</sup> 斫木的木花儿和木屑。同“斫花儿”。  
 1. 【[木哥草枯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_gu_co_kv.md#木哥草枯)】`moh8 gu1 co3 kv1` <sup>[泰县]</sup> 布谷鸟。  
-1. 【[木瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_gua.md#木瓜)】`moh8 gua1` <small>/mɔʔ8 kua1/<sup>兴化</sup></small> ① 蔷薇科植物贴梗海裳。<sup>\[如东\]</sup> ② 本指一种瓜果，喻指愚蠢的人。<sup>\[东台\]</sup> ③ （喻）呆头呆脑的人<sup>\[兴化\]</sup>：他真是个～，说咖半天还不曾听明白。<sup>\[兴化\]</sup>  
-1. 【[木瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_gua.md#木瓜)】`moh8 gua1` <sup>[泰州]</sup> 比喻外表好看儿内里愚蠢者：这小伙是个～，人家把他卖掉都不晓得。  
+1. 【[木瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_gua.md#木瓜)】`moh8 gua1` <small>/mɔʔ8 kua1/<sup>兴化</sup></small> ① 蔷薇科植物贴梗海裳。<sup>\[如东\]</sup> ② 本指一种瓜果，喻指愚蠢的人。<sup>\[东台\]</sup> ③ （喻）呆头呆脑的人<sup>\[兴化\]</sup>：他真是个～，说咖半天还不曾听明白。<sup>\[兴化\]</sup> ④ 比喻外表好看儿内里愚蠢者<sup>\[泰州\]</sup>：这小伙是个～，人家把他卖掉都不晓得。<sup>\[泰州\]</sup>  
 1. 【[木蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_hae.md#木蟹)】`moh8 hae3` <sup>[如东]</sup> 工具。木质，长方形，有柄。瓦工用来抳平墙面。  
 1. 【[木𣖻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_hae.md#木𣖻)】`moh8 hae3` <small>/mɔʔ8 xɛ3/<sup>如皋</sup></small> ① 见“𣖻”。<sup>\[如皋\]</sup> ② 水作涂抹工具。一块矩形木板，背面有“L”型鼻子可握。<sup>\[如皋\]</sup>  
 1. 【[木行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_han.md#木行)】`moh8 han2` <small>/mɔʔ8 xã2/<sup>如皋</sup></small> ① 经营木材的商行。<sup>\[如东\]</sup> ② 旧时卖木料的商家。一般兼营“四门店（棺材店）”。<sup>\[如皋\]</sup>  
@@ -1645,8 +1640,7 @@
 1. 【[摩人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_ren.md#摩人)】`mu2 ren2` <sup>[如皋]</sup> 纠缠、盘弄、玩耍。  
 1. 【[摩踏车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_taeh_cha.md#摩踏车)】`mu2 taeh8 cha1` <sup>[如皋]</sup> 摩托车。  
 1. 【[模样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_ian.md#模样)】`mu2 ian6` <sup>[如东]</sup> 标准的形样：这套家具～不错。  
-1. 【[模子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_zz.md#模子)】`mu2 zz` <small>/mo2 t͡sɿ/<sup>兴化</sup></small> ① 模样、轮廓<sup>\[东台\]</sup>：这个丫头脸～跟她妈长得一样。<sup>\[东台\]</sup> ② （喻）样子<sup>\[兴化\]</sup>：你俫两个人秉性相同，像一个～里倒出来的。<sup>\[兴化\]</sup>  
-1. 【[模子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_zz.md#模子)】`mu2 zz` <sup>[泰州]</sup> 各类不同材质的浇铸金属溶液或压制粉末用的标准磨具。（泰州词典读mun2 zz）  
+1. 【[模子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_zz.md#模子)】`mu2 zz` <small>/mo2 t͡sɿ/<sup>兴化</sup></small> ① 模样、轮廓<sup>\[东台\]</sup>：这个丫头脸～跟她妈长得一样。<sup>\[东台\]</sup> ② （喻）样子<sup>\[兴化\]</sup>：你俫两个人秉性相同，像一个～里倒出来的。<sup>\[兴化\]</sup> ③ 各类不同材质的浇铸金属溶液或压制粉末用的标准磨具。<sup>\[泰州\]</sup>  
 1. 【[磨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu.md#磨)】`mu2` <small>/mo2/<sup>兴化</sup></small> ① 物体与物体紧密接触，来回移动，把物体表面磨光滑或锋利。<sup>\[如东\]</sup>：～刀。<sup>\[如东\]</sup> ② 形容缺齿的人慢慢咀嚼的样子<sup>\[兴化\]</sup>：他牙口不好，一个烧饼半天才～下去。<sup>\[兴化\]</sup>  
 1. 【[磨床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_chuan.md#磨床)】`mu2 chuan2` <sup>[如东]</sup> 装配高速旋转砂轮磨制工件表面的机床，使工件表面光洁，提高精确度。  
 1. 【[磨刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_do.md#磨刀)】`mu2 do1` <sup>[如东]</sup> 将刀口放在石或砖上磨锋利。  
@@ -1717,7 +1711,7 @@
 1. 【[磨糏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_xyeh.md#磨糏)】`mu6 xyeh7` <sup>[如东]</sup> 用石磨把小麦、糯米等谷物磨成面粉。  
 1. 【[磨云](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_yen.md#磨云)】`mu6 yen2` <small>/mʊ1 yəŋ2/<sup>如皋</sup></small> ① 鹞鹰在空中展翅旋转。<sup>\[如东\]</sup> ② 比喻行动缓慢，光转圈子，走不出去。<sup>\[如东\]</sup>：他在家里～，走不动。<sup>\[如东\]</sup> ③ 老鹰在云间滑翔盘旋。<sup>\[如皋\]</sup>  
 1. 【[磨正](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_zhen.md#磨正)】`mu6 zhen5` <sup>[兴化]</sup> ① 通过旋转、移动，使重物就位：来，几个人一齐用力把石墩子～。 ② 副职升正职：他的副局长几时～嗲？  
-1. 【[磨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_zz.md#磨子)】`mu6 zz` <small>/mʊ1 t͡sɿ/<sup>如皋</sup></small> ① 加工粮食的工具。石制，圆形，上下两片，每片的一面有齿。通过旋转，把谷物磨碎。20世纪60年代后，开始使用钢磨。<sup>\[如东\]</sup> ② 比喻人的牙齿。<sup>\[如东\]</sup>：我的～还行，可以磨蚕豆。<sup>\[如东\]</sup> ③ 石磨。<sup>\[如皋\]</sup> ④ 喻臼齿：老人的～好，能吃炒蚕豆儿。<sup>\[如皋\]</sup> ⑤ 加工粮食的石器，分上下两扇，分别有公、母齿。<sup>\[东台\]</sup>  
+1. 【[磨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_zz.md#磨子)】`mu6 zz` <small>/mʊ1 t͡sɿ/<sup>如皋</sup></small> ① 磨，粉碎粮食的工具<sup>\[如皋\]</sup>\[东台：加工粮食的石器，分上下两扇，分别有公、母齿。\]\[如东：石制，圆形，上下两片，每片的一面有齿。通过旋转，把谷物磨碎。20世纪60年代后，开始使用钢磨。\] ② 喻臼齿<sup>\[如皋\]</sup><sup>\[如东\]</sup>：老人的～好，能吃炒蚕豆儿。<sup>\[如皋\]</sup>｜我的～还行，可以磨蚕豆。<sup>\[如东\]</sup>  
 1. 【[磨子小啊不撒麸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_zz_xio_a_beh_saeh_fv.md#磨子小啊不撒麸)】`mu6 zz xio3 a beh7 saeh7 fv1` <sup>[东台]</sup> 喻指力度不大或来头不大难见效。  
 1. 【[耱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu.md#耱)】`mu6` <sup>[如东]</sup> 农具。木制，长一丈二尺，宽八寸，厚二寸半。背而有一耱把，供人站立；两头有环，供系牛笮。用以耱平水田。  
 1. 【[耱田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_tin.md#耱田)】`mu6 tin2` <sup>[如东]</sup> 用耱将水田耥平，叫做耱田。  
@@ -1733,8 +1727,7 @@
 1. 【[末了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/muh_lio.md#末了)】`muh8 lio3` <sup>[泰州]</sup> 末尾结束之时，最后：这小伙不胎谐，在班上的成绩排啊在～。  
 1. 【[末末礓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/muh_muh_jian_r.md#末末礓<sub>儿</sub>)】`muh8 muh8 jian3 r` <small>/mʊʔ8 mʊʔ8 t͡ɕia˞3/<sup>如皋</sup></small> ① 最细小的。<sup>\[如东\]</sup>：这是～。<sup>\[如东\]</sup> ② 排行最小的。<sup>\[如东\]</sup>：他在家里是～。<sup>\[如东\]</sup> ③ 小人物。<sup>\[如东\]</sup>：他是～。<sup>\[如东\]</sup> ④ 最后的一点儿东西。<sup>\[如东\]</sup>：剩下一点～，你拿啊去吧。<sup>\[如东\]</sup> ⑤ 最后、最小的<sup>\[如皋\]</sup>：你是头一名，他是～。<sup>\[如皋\]</sup> ⑥ 辈份在某人的五代之后<sup>\[如皋\]</sup>：灰灰孙儿～。<sup>\[如皋\]</sup>  
 1. 【[末末了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/muh_muh_lio.md#末末了)】`muh8 muh8 lio3` <sup>[兴化]</sup> 最后：他个子矮，排在全班～儿。｜一看电码的～一个字，不是继之的名字。（《二十年目睹之怪现状》五九）  
-1. 【[末香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/muh_xian.md#末香)】`muh8 xian1` <small>/muʔ8 ɕiaŋ1/<sup>兴化</sup>, /mʊʔ8 ɕiɑŋ1/<sup>泰县</sup></small> ① 檀香树的锯末，燃烧时有香味。<sup>\[兴化\]</sup> ② （禁忌语）点在死人头前的香，现指香烟：你又烧～吖。<sup>\[泰县\]</sup>  
-1. 【[末香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/muh_xian.md#末香)】`muh8 xian1` <sup>[泰州]</sup> 詈词，指今人所吸的香烟，取其“烧钱”之义，以“末香价值昂贵”，故有此喻：就拿啊这两个钱，哪块掌得住他成天烧～。  
+1. 【[末香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/muh_xian.md#末香)】`muh8 xian1` <small>/muʔ8 ɕiaŋ1/<sup>兴化</sup>, /mʊʔ8 ɕiɑŋ1/<sup>泰县</sup></small> ① 檀香树的锯末，燃烧时有香味。<sup>\[兴化\]</sup> ② 詈语，指香烟\[泰州：詈词，指今人所吸的香烟，取其“烧钱”之义，以“末香价值昂贵”，故有此喻\]\[泰县：（禁忌语）点在死人头前的香，现指香烟\]：你又烧～吖。<sup>\[泰县\]</sup>｜就拿啊这两个钱，哪块掌得住他成天烧～。<sup>\[泰州\]</sup>  
 1. 【[末子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/muh_zz.md#末子)】`muh8 zz` ① 碎屑<sup>\[东台\]</sup>：京果～<sup>\[东台\]</sup>｜茶叶～。<sup>\[东台\]</sup> ② 粉末，碎屑<sup>\[泰州\]</sup>：茶叶～。<sup>\[泰州\]</sup>  
 1. 【[茉莉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/muh_li.md#茉莉)】`muh8 li6` <sup>[如东]</sup> 木犀科植物茉莉。  
 1. 【[饝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/muh.md#饝)】`muh8` <sup>[泰州]</sup> 无牙老人将食物在嘴中慢慢搅动，软化以后咽下：老太没牙子，只好弄点ㄦ蛋糕把她在嘴里～～吧。｜牙齿不中唻，碗里这点ㄦ饭～咖半天才吃下去。  

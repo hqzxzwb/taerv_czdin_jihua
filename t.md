@@ -2070,7 +2070,7 @@
 1. 【[肚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv.md#肚)】`tv6` <sup>[东台]</sup> “肚”的又音：脸皮老老，～里饱饱/耳不听～不恼。  
 1. 【[肚才](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_cae.md#肚才)】`tv6 cae2` <sup>[兴化]</sup> 谓人内在的知识和智慧：覅看他说话不多，～不坏！  
 1. 【[肚量](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_lian.md#肚量)】`tv6 lian6` <sup>[如皋]</sup> 气量。另读dv3 lian。  
-1. 【[肚里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_lii.md#肚里)】`tv6 lii` <small>/tʰu6 ləi/<sup>兴化</sup>, /tʰu1 nɿ/<sup>泰县</sup></small> ① 里面 ② 腹中<sup>\[兴化\]</sup>：～饿；～疼。<sup>\[兴化\]</sup> ③ 心里、心地<sup>\[兴化\]</sup>：石秀是个精细的人，看在～，便省得了……（《水浒传》四四）<sup>\[兴化\]</sup> ④ 里面：这箱子～有甚的杲子我不晓得。<sup>\[泰县\]</sup>  
+1. 【[肚里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_lii.md#肚里)】`tv6 lii` <small>/tʰu6 ləi/<sup>兴化</sup>, /tʰu1 tiɪ/<sup>泰县</sup></small> ① 里面 ② 腹中<sup>\[兴化\]</sup>：～饿；～疼。<sup>\[兴化\]</sup> ③ 心里、心地<sup>\[兴化\]</sup>：石秀是个精细的人，看在～，便省得了……（《水浒传》四四）<sup>\[兴化\]</sup> ④ 里面<sup>\[泰县\]</sup>：这箱子～有甚的杲子我不晓得。<sup>\[泰县\]</sup>  
 1. 【[肚里唱空城计](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_lii_chan_kon_chen_ji.md#肚里唱空城计)】`tv6 lii chan5 kon1 chen2 ji5` <sup>[如皋]</sup> 饿了。  
 1. 【[肚里二条啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_lii_er_tio_a.md#肚里二条啊)】`tv6 lii er6 tio2 a` <sup>[如皋]</sup> 比喻饿了，要吃。  
 1. 【[肚脐眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_qi_ngaen.md#肚脐眼)】`tv6 qi2 ngaen3` <sup>[东台]</sup> 肚脐。  
