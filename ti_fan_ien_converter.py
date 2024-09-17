@@ -147,6 +147,11 @@ def 如皋(cz, pien_ien):
     yen = 'u'
   elif gae == 'i' and yen in ['un', 'uh']: # 撮口介音
     gae = 'y'
+  elif cz == '里' and shen == 'l' and yen == 'ii': # “里lii”混入“的”
+    shen = 'd'
+    yen = 'ei'
+  elif yen == 'ii': # ii裂化
+    yen = 'ei'
 
   if shen == '' and yen == 'v':
     result = 'ʋu'
