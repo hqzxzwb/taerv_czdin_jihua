@@ -106,7 +106,7 @@ def tae_xien_pien_ien(cz, ien, for_qio_shih = False):
     yen = 'en'
   elif yen == 'ii': # ii裂化
     yen = 'ei'
-  elif shen == 'h' and yen == 'v': # 呼夫不分
+  elif shen == 'h' and yen == 'v': # hv -> fv
     shen = 'f'
   elif shen == 'r' and yen in ['in', 'ih']: # 日母脱落
     shen = ''
@@ -134,7 +134,7 @@ def 如皋(cz, pien_ien):
   if yen == 'r':
     yen = 'z'
 
-  if shen == 'h' and yen == 'v': # 呼夫不分
+  if shen == 'h' and yen == 'v': # hv -> fv
     shen = 'f'
   elif shen == 'n' and yen == 'v': # nv -> nu
     yen = 'u'
@@ -167,6 +167,9 @@ def 如皋(cz, pien_ien):
   return result
 
 def 泰县(cz, pien_ien):
+  if cz == '我' and pien_ien == 'ngu3':
+    return 'ŋ3'
+
   shen, gae, yen, tio = parse_pien_ien(pien_ien)
   if tio == '6': # 阳去并入阴平
     tio = '1'
@@ -191,15 +194,18 @@ def 泰县(cz, pien_ien):
       shen = 'z'
     elif shen == 't':
       shen = 'c'
+  if cz == '里' and pien_ien == 'lii': # 舌尖化
+    shen = 'n'
+    yen = 'z'
 
-  if shen == 'ng' and cz not in ['吖']: # ng脱落
+  if shen == 'ng' and cz not in '吖': # ng脱落
     shen = ''
 
   if cz == '子' and tio == '':
     yen = 'ae'
   elif cz == '的' and shen + gae + yen + tio == 'dii':
     yen = 'ih'
-  elif shen == 'h' and yen == 'v': # 呼夫不分
+  elif shen == 'h' and yen == 'v': # hv -> fv
     shen = 'f'
   elif shen == 'm' and yen == 'eu': # meu -> mu
     yen = 'u'
@@ -260,7 +266,7 @@ def 兴化(cz, pien_ien):
   if shen in ['n', 'r']: # NLR不分
     shen = 'l'
 
-  if shen == 'ng' and cz not in ['吖']: # ng脱落
+  if shen == 'ng' and cz not in '吖': # ng脱落
     shen = ''
 
   if shen not in ['j', 'q', 'x', ''] and gae + yen in ['ien', 'ieh']: # ien->in，ieh->ih
