@@ -1854,12 +1854,13 @@
 1. 【[推杉木鼓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_shaen_moh_gv_r.md#推杉木鼓<sub>儿</sub>)】`tuei1 shaen1 moh8 gv3 r` <sup>[如东]</sup> 将圆形杉木推来推去。比喻互相推诿。  
 1. 【[推死人过街](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_sz_ren_gu_gae.md#推死人过街)】`tuei1 sz3 ren2 gu5 gae1` <sup>[兴化]</sup> ① 旧时地保将路倒者尸体偷运出自己辖区，将责任推给别人。 ② （借）推托、推脱责任：他俫碰到难题就～，让别人去挠头。  
 1. 【[推推搡搡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_tuei_san_san.md#推推搡搡)】`tuei1 tuei1 san3 san3` <sup>[兴化]</sup> 猛推：他喜欢对不听话的学生～的。｜衙役们一声吆喝，把李一桂～逐出辕门。（《四杰传》二十）  
-1. 【[梯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_zz.md#梯子)】`tuei1 zz` ① 梯子 ② 工具。两根边框，中间有档，可以一步一步地向高处爬。俗称步步高。<sup>\[如东\]</sup>  
+1. 【[梯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_zz.md#梯子)】`tuei1 zz` 梯子  
 1. 【[颓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei.md#颓)】`tuei2` <sup>[东台]</sup> ① 倒塌，崩坏：断墙～垣。 ② 衰败，败坏：倾～；～败。  
 1. 【[腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei.md#腿)】`tuei3` <sup>[东台]</sup> 人、动物的下肢或物体下部像腿一样的支撑部分：鸡～；盘～。  
 1. 【[腿肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_dv_zz.md#腿肚子)】`tuei3 dv3 zz` <sup>[如东]</sup> 小腿后面隆起的部分。  
 1. 【[腿脊弯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_jieh_vaen_zz.md#腿脊弯子)】`tuei3 jieh vaen1 zz` <sup>[兴化]</sup> 大腿和小腿相连接的关节后部。  
 1. 【[腿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_zz.md#腿子)】`tuei3 zz` <sup>[如东]</sup> 下肢：狗～。  
+1. 【[腿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_zz.md#腿子)】`tuei3 zz` <sup>[东台]</sup> 人、动物的下肢或物体下部支撑的部分。  
 1. 【[煺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei.md#煺)】`tuei5` ① 已宰杀的畜禽用开水烫过后去毛<sup>\[兴化\]</sup>：～猪毛；～鸡毛。<sup>\[兴化\]</sup> ② 将宰杀的家禽家畜用滚水浸烫后去毛<sup>\[泰州\]</sup>：鸭子身上的毛都不曾～得干净。<sup>\[泰州\]</sup>  
 1. 【[退](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei.md#退)】`tuei5` <sup>[东台]</sup> 向后移动，脱离，下降，交还或取消：后～；～缩；～婚。  
 1. 【[退潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_cho.md#退潮)】`tuei5 cho2` <sup>[如东]</sup> 落潮。  
@@ -2100,7 +2101,6 @@
 1. 【[腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ty.md#腿)】`ty3` <sup>[泰州]</sup> 量词，奔走一次：你就同他上北京跑一～吧。  
 1. 【[腿板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ty_baen.md#腿板)】`ty3 baen3` <sup>[如皋]</sup> 猪臀部肉。  
 1. 【[腿胻筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ty_hen_jien.md#腿胻筋)】`ty3 hen5 jien1` <sup>[如皋]</sup> 小腿前部的筋肉。  
-1. 【[腿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ty_zz.md#腿子)】`ty3 zz` <sup>[东台]</sup> 人、动物的下肢或物体下部支撑的部分。  
 1. 【[退潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ty_cho.md#退潮)】`ty5 cho2` <small>/tʰy5 t͡sʰɔ2/<sup>如皋</sup></small> ① 落潮。<sup>\[如皋\]</sup> ② 海潮退去，落潮。<sup>\[东台\]</sup>  
 1. 【[退色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ty_seh.md#退色)】`ty5 seh7` <sup>[如皋]</sup> 颜色变淡，逐渐消失。  
 1. 【[退动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ty_ton.md#退动)】`ty5 ton` <sup>[如皋]</sup> ① 病情减轻。 ② 水位渐低。 ③ 人群渐退。  

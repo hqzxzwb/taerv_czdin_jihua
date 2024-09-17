@@ -1281,7 +1281,7 @@
 1. 【[埠口踏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_keu_taeh_zz.md#埠口踏子)】`pv6 keu3 taeh8 zz` <sup>[如东]</sup> 由河岸至河底的阶梯，叫埠口踏子。由河水边伸出去的引桥，叫做埠口踏子。  
 1. 【[埠子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_zz.md#埠子)】`pv6 zz` <sup>[如东]</sup> 由河岸通达河水的一条小道。由岸顶通向低处的一条斜道。  
 1. 【[步](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv.md#步)】`pv6` <small>/pʰu1/<sup>如皋</sup></small> ① 名词。动词。丈量用的两脚规，跨度常为五市尺。<sup>\[如皋\]</sup> ② 用脚步粗测，双脚跨行，以同一只脚跟的前后距为一～，约3市尺。<sup>\[如皋\]</sup> ③ 行走时两脚之间的距离<sup>\[东台\]</sup>：一～三摇。<sup>\[东台\]</sup> ④ 地步、境地<sup>\[东台\]</sup>：不曾想到他已经走到啊这一～，真可惜！<sup>\[东台\]</sup> ⑤ 用脚步量<sup>\[兴化\]</sup>：～～看，这块田有多长。<sup>\[兴化\]</sup>  
-1. 【[步步高](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_pv_go.md#步步高)】`pv6 pv6 go1` <small>/pʰu1 pʰu1 kɔ1/<sup>如皋</sup></small> ① 梯子。<sup>\[如皋\]</sup> ② 梯子。<sup>\[如东\]</sup>  
+1. 【[步步高](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_pv_go.md#步步高)】`pv6 pv6 go1` <small>/pʰu1 pʰu1 kɔ1/<sup>如皋</sup></small> 梯子。<sup>\[如皋\]</sup><sup>\[如东\]</sup>  
 1. 【[步套步，脚套脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_to_pv_jiah_to_jiah.md#步套步，脚套脚)】`pv6 to5 pv6 jiah7 to5 jiah7` <sup>[东台]</sup> 形容夫妻、情人或者朋友之间并肩散步，非常和谐的样子：小两口天天～的逛街，好得扎实吤！  
 1. 【[步子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_zz.md#步子)】`pv6 zz` <small>/pʰu1 t͡sɿ/<sup>如皋</sup></small> ① 收割时放在田间的一堆堆田禾<sup>\[如皋\]</sup>：小麦～，黄豆～。<sup>\[如皋\]</sup> ② 脚步。<sup>\[如东\]</sup>：沿吖他的～跑。<sup>\[如东\]</sup> ③ 步幅。<sup>\[如东\]</sup>：大～。<sup>\[如东\]</sup>  
 1. 【[簿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv.md#簿)】`pv6` <sup>[东台]</sup> 供工作、学习用的书写本子：笔记～/练习～/账～。  
