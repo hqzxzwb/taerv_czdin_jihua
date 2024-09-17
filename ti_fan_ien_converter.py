@@ -3,6 +3,9 @@ from collections import defaultdict
 import tae_rv_ipa
 
 def parse_pien_ien(ien):
+  m_match = re.match(r"^m(\d|)$", ien)
+  if m_match:
+    return ['m', '', '', m_match.group(1)]
   match = re.match(r"^([bpmfvdtnlzcsjqxrgkh]|zh|ch|sh|ng|)(i|u|y|)([aeiouvyzr][a-z]*)(\d|)$", ien)
   if match is None:
     raise Exception(f"Unrecogonized ien: {ien}")
@@ -42,8 +45,6 @@ shih_jin_hua['x'] = 's'
 def 泰兴(cz, pien_ien):
   ien = parse_pien_ien(pien_ien)
   shen, gae, yen, tio = tae_xien_pien_ien(cz, ien)
-  if cz == '儿' and shen + gae + yen + tio == 'r':
-    return '˞'
 
   if shen in ['', 'f'] and yen == 'v':
     result = shen + 'ʋ'
@@ -114,25 +115,21 @@ def tae_xien_pien_ien(cz, ien, for_qio_shih = False):
     yen = 'ei'
 
   shen = pien_shih[shen] # 平翘舌不分
-  if shen == '' and yen == 'r':
+  if shen == '' and yen == 'r': # 独立音节儿缀
     yen = 'er'
-  if yen == 'r':
+  elif yen == 'r':
     yen = 'z'
   return (shen, gae, yen, tio)
 
 def 如皋(cz, pien_ien):
-  if re.match(r'^m\d?$', pien_ien):
-    return pien_ien
+  if pien_ien == 'r': # 儿化
+    return '˞'
 
   shen, gae, yen, tio = parse_pien_ien(pien_ien)
   if tio == '6': # 阳去并入阴平
     tio = '1'
-  if cz == '儿' and shen + gae + yen + tio == 'r':
-    return '˞'
 
   shen = pien_shih[shen] # 平翘舌不分
-  if shen == '' and yen == 'r':
-    yen = 'er'
   if yen == 'r':
     yen = 'z'
 
@@ -169,19 +166,14 @@ def 如皋(cz, pien_ien):
   return result
 
 def 泰县(cz, pien_ien):
-  if re.match(r'^m\d?$', pien_ien):
-    return pien_ien
-
   shen, gae, yen, tio = parse_pien_ien(pien_ien)
   if tio == '6': # 阳去并入阴平
     tio = '1'
-  if cz == '儿' and shen + gae + yen + tio == 'r':
-    return '˞'
 
   shen = pien_shih[shen] # 平翘舌不分
-  if shen == '' and yen == 'r':
+  if shen == '' and yen == 'r': # 独立音节儿缀
     yen = 'er'
-  if yen == 'r':
+  elif yen == 'r':
     yen = 'z'
 
   if shen == 'n' and yen == 'v': # nv -> nu
@@ -249,17 +241,12 @@ def 泰县(cz, pien_ien):
   return result
 
 def 兴化(cz, pien_ien):
-  if re.match(r'^m\d?$', pien_ien):
-    return pien_ien
-
   shen, gae, yen, tio = parse_pien_ien(pien_ien)
-  if cz == '儿' and shen + gae + yen + tio == 'r':
-    return '˞'
 
   shen = pien_shih[shen] # 平翘舌不分
-  if shen == '' and yen == 'r':
+  if shen == '' and yen == 'r': # 独立音节儿缀
     yen = 'er'
-  if yen == 'r':
+  elif yen == 'r':
     yen = 'z'
 
   if shen == 'n' and yen == 'v': # nv -> nu

@@ -348,7 +348,16 @@ def write_page(dirs, path, sample_out, cz_ien):
                 ti_fan_ien_func = getattr(ti_fan_ien_converter, source, None)
                 if ti_fan_ien_func:
                     mixed = [(m[0], m[2][ti_fan_ien_key[source]] or m[1]) for m in w.mixed if m[1]]
-                    ti_fan_ien[source] = " ".join([ti_fan_ien_func(cz, ien) for cz, ien in mixed])
+                    ti_fan_ien_list = []
+                    for cz, ien in mixed:
+                        ipa = ti_fan_ien_func(cz, ien)
+                        if ipa == '˞':
+                            last_ipa = ti_fan_ien_list[-1]
+                            last_ipa = re.sub(r"(?<!\d)(ʔ|\u0303|ŋ|(?<!ʔ|\u0303|ŋ))(?=\d?$)", ipa, last_ipa)
+                            ti_fan_ien_list[-1] = last_ipa
+                        else:
+                            ti_fan_ien_list.append(ipa)
+                    ti_fan_ien[source] = " ".join(ti_fan_ien_list)
             if ti_fan_ien:
                 ti_fan_ien_md = ", ".join([f"/{ien}/<sup>{source}</sup>" for source, ien in sorted(ti_fan_ien.items(), key=lambda x: x[0])])
                 pien_ien_text = f"`{w.pien_ien}` <small>{ti_fan_ien_md}</small>"

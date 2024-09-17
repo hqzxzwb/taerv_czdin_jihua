@@ -33,6 +33,7 @@ tae_rv_ipa_gae = {
 }
 
 tae_rv_ipa_yen = {
+  '': '',
   'i': 'ʝ',
   'y': 'y',
   'a': 'a',
