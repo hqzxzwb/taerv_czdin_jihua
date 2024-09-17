@@ -17,7 +17,7 @@
 1. 【[麻啊爪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_a_zhua_zz.md#麻啊爪子)】`ma2 a zhua3 zz` <small>/ma2 a t͡ɕya3 t͡se/<sup>泰县</sup></small> ① 麻醉了，手脚不能动。<sup>\[东台\]</sup> ② 吓得不知所措的样子。<sup>\[东台\]</sup> ③ 手足无措<sup>\[泰县\]</sup>：她家男的一死，撂下老的小的，她就～啊啦。<sup>\[泰县\]</sup>  
 1. 【[麻疤<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ba_r.md#麻疤<sub>儿</sub>)】`ma2 ba1 r` <sup>[如东]</sup> 比喻岔子：他来寻～。  
 1. 【[麻饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_bien.md#麻饼)】`ma2 bien3` <small>/ma2 piɪ̃3/<sup>兴化</sup></small> ① 一种糕点，以面粉、植物油、蔗糖为主要原料制成的银圆大小的薄饼，两面芝麻，在平底锅中烤熟，酥甜可口。<sup>\[兴化\]</sup> ② 泰州特产茶食之一，一种直径约4厘米、略厚于普通饼干的小圆饼，以其两面沾满芝麻而得名。<sup>\[泰州\]</sup>  
-1. 【[麻饼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_bien_r.md#麻饼<sub>儿</sub>)】`ma2 bien3 r` <small>/ma2 piəŋ3 ɚ/<sup>如皋</sup></small> ① 糕点的一种。面粉经过发酪后，做成圆形饼子，上面撒上芝麻、白糖，放在炉中烤熟，酥脆香甜。<sup>\[如东\]</sup> ② 洋钱大的芝麻饼（茶食）。<sup>\[如皋\]</sup> ③ 油炸的糯米粉芝麻饼。<sup>\[如皋\]</sup>  
+1. 【[麻饼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_bien_r.md#麻饼<sub>儿</sub>)】`ma2 bien3 r` <small>/ma2 piə˞3/<sup>如皋</sup></small> ① 糕点的一种。面粉经过发酪后，做成圆形饼子，上面撒上芝麻、白糖，放在炉中烤熟，酥脆香甜。<sup>\[如东\]</sup> ② 洋钱大的芝麻饼（茶食）。<sup>\[如皋\]</sup> ③ 油炸的糯米粉芝麻饼。<sup>\[如皋\]</sup>  
 1. 【[麻布袋草布袋——一袋（代）不如一袋（代）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_bv_tae_co_bv_tae_ieh_tae_beh_rv_ieh_tae.md#麻布袋草布袋——一袋（代）不如一袋（代）)】`ma2 bv5 tae6 co3 bv5 tae6 ieh7 tae6 beh7 rv2 ieh7 tae6` <sup>[东台]</sup>   
 1. 【[麻菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_cae.md#麻菜)】`ma2 cae5` <small>/ma2 t͡sʰe5/<sup>泰县</sup></small> 芥菜<sup>\[泰县\]</sup>\[泰州：一种野生十字花科植物，黄色的花，子实以及生长周期均同油菜，惟叶片形色均类雪里蕻而与油菜叶异。不可直接炒食，嫩薹及其茎叶醃成咸菜以后，方可炒食，味道独特，以其表面粗糙略带辣味，故名。\]\[如东：十字花科植物芥菜，一年生或二年生草本。\]  
 1. 【[麻苍蝇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_can_ien.md#麻苍蝇)】`ma2 can1 ien` <sup>[如皋]</sup> 麻蝇。  
@@ -28,7 +28,7 @@
 1. 【[麻芥菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_gae_cae.md#麻芥菜)】`ma2 gae5 cae5` <sup>[如皋]</sup> 野芥菜。  
 1. 【[麻糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_go.md#麻糕)】`ma2 go1` ① 糕点的一种。米糏加水调和，做成糕，上面加芝麻，放在炉里拷熟，味香而韧绉。<sup>\[如东\]</sup> ② 泰州特产茶食之一，以炒熟的糯米粉、芝麻粉、绵白糖、核桃仁为原料，切片烘制而成，色泽灰白，质地酥脆，旧时多作为馈赠亲友佳物。<sup>\[泰州\]</sup>  
 1. 【[麻虾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ha.md#麻虾)】`ma2 ha1` <sup>[泰州]</sup> 泰州产的一种体型极小的虾，呈青灰色，体半透明，以其小如芝麻粒，故名：～烧豆腐。  
-1. 【[麻虾<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ha_r.md#麻虾<sub>儿</sub>)】`ma2 ha1 r` <small>/ma2 xa1 ɚ/<sup>如皋</sup></small> ① 中国毛虾科动物糠虾，体个细小，长约1厘米左右。青白色。尾部两侧有红色斑纹。生活在泥沙底质的近海。为重要的经济虾类。是如东特色海味品三伏虾油的主要原料。<sup>\[如东\]</sup> ② 芝麻大的虾儿。又名糠虾。<sup>\[如皋\]</sup>  
+1. 【[麻虾<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ha_r.md#麻虾<sub>儿</sub>)】`ma2 ha1 r` <small>/ma2 xa˞1/<sup>如皋</sup></small> ① 中国毛虾科动物糠虾，体个细小，长约1厘米左右。青白色。尾部两侧有红色斑纹。生活在泥沙底质的近海。为重要的经济虾类。是如东特色海味品三伏虾油的主要原料。<sup>\[如东\]</sup> ② 芝麻大的虾儿。又名糠虾。<sup>\[如皋\]</sup>  
 1. 【[麻虾<sub>儿</sub>雾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ha_r_v.md#麻虾<sub>儿</sub>雾)】`ma2 ha1 r v5` <sup>[如东]</sup> 雾浓而厚。  
 1. 【[麻虾<sub>儿</sub>网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ha_r_van.md#麻虾<sub>儿</sub>网)】`ma2 ha1 r van3` <sup>[如皋]</sup> 拉捕麻虾儿的小网。  
 1. 【[麻虾<sub>儿</sub>雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ha_r_y.md#麻虾<sub>儿</sub>雨)】`ma2 ha1 r y3` ① 毛毛雨 ② 毛毛细雨。<sup>\[如东\]</sup>  
@@ -37,7 +37,7 @@
 1. 【[麻划](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_hua.md#麻划)】`ma2 hua` <sup>[兴化]</sup> 大约：这只鸡～三斤。  
 1. 【[麻花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_hua.md#麻花)】`ma2 hua1` <small>/ma2 xua1/<sup>兴化</sup></small> ① （喻）像油炸麻花一样的东西<sup>\[兴化\]</sup>：她在门前的两棵半大榆树之间拴了两根棕绳，拧成了～。（汪曾祺《鸡毛》）<sup>\[兴化\]</sup> ② 爆玉米花。<sup>\[兴化\]</sup>：儿歌：～～你不炸，一炸炸个笆斗大。<sup>\[兴化\]</sup> ③ 一种油炸食品，两股或者三股面条扭成绳状，香脆可口，以其形如麻绳而名。<sup>\[泰州\]</sup>  
 1. 【[麻花汗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_hua_hun.md#麻花汗)】`ma2 hua1 hun6` <sup>[东台]</sup> 微微出汗：出点～蛮舒服。  
-1. 【[麻花䌁<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_hua_io_r.md#麻花䌁<sub>儿</sub>)】`ma2 hua1 io5 r` <small>/ma2 xua1 iɔ5 ɚ/<sup>如皋</sup></small> ① 一种油炸的幺状面食茶点，酥脆香甜。<sup>\[如皋\]</sup> ② 一种食品，把两三股条状面拧若粗绳状，用油炸熟。<sup>\[东台\]</sup>  
+1. 【[麻花䌁<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_hua_io_r.md#麻花䌁<sub>儿</sub>)】`ma2 hua1 io5 r` <small>/ma2 xua1 iɔ˞5/<sup>如皋</sup></small> ① 一种油炸的幺状面食茶点，酥脆香甜。<sup>\[如皋\]</sup> ② 一种食品，把两三股条状面拧若粗绳状，用油炸熟。<sup>\[东台\]</sup>  
 1. 【[麻花䌁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_hua_io_zz.md#麻花䌁子)】`ma2 hua1 io5 zz` <sup>[兴化]</sup> ① 一种食品，也称“麻花”。 ② （喻）象麻花一样的绳状物：……四股皮条，这么绕来绕去的，一走神，就错了花，就拧成～了。（汪曾祺《羊舍一夕》）  
 1. 【[麻花亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_hua_lian.md#麻花亮)】`ma2 hua1 lian6` <small>/ma2 xua1 liaŋ6/<sup>兴化</sup></small> ① 天才发白。也称麻麻亮。<sup>\[东台\]</sup> ② 天蒙明<sup>\[兴化\]</sup>：家丁遵照主人的吩附，天～打开大门……（兴文《误走盐城》）<sup>\[兴化\]</sup>  
 1. 【[麻花<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_hua_r.md#麻花<sub>儿</sub>)】`ma2 hua1 r` <sup>[如东]</sup> 糕点的一种。面粉经过发酵，拉成许多长条，再拧几周，放人油锅里炸熟，色黄而香脆。  
@@ -56,7 +56,7 @@
 1. 【[麻鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ji.md#麻鸡)】`ma2 ji1` <sup>[泰州]</sup> 相对“水鸡”，指市场上出售的剥了皮的蟾蜍：～是败毒的。  
 1. 【[麻脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_jiah.md#麻脚)】`ma2 jiah7` <small>/ma2 t͡ɕiaʔ7/<sup>兴化</sup></small> ① 脚肢麻木而行动迟缓。<sup>\[如东\]</sup> ② 比喻做事拖沓的人。<sup>\[如东\]</sup> ③ 见“麻脚瘟”。<sup>\[兴化\]</sup>  
 1. 【[麻脚侯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_jiah_heu.md#麻脚侯)】`ma2 jiah7 heu2` <sup>[如东]</sup> 做事拖沓的人。  
-1. 【[麻脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_jiah_r.md#麻脚<sub>儿</sub>)】`ma2 jiah7 r` <small>/ma2 t͡ɕiaʔ7 ɚ/<sup>如皋</sup></small> ① 霍乱。病者严重失水脚先干瘪麻木<sup>\[如皋\]</sup>：得～。<sup>\[如皋\]</sup> ② 詈语，咒骂别人害霍乱，速死。<sup>\[如皋\]</sup> ③ 见“瘪脶痧”。<sup>\[如皋\]</sup>  
+1. 【[麻脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_jiah_r.md#麻脚<sub>儿</sub>)】`ma2 jiah7 r` <small>/ma2 t͡ɕia˞7/<sup>如皋</sup></small> ① 霍乱。病者严重失水脚先干瘪麻木<sup>\[如皋\]</sup>：得～。<sup>\[如皋\]</sup> ② 詈语，咒骂别人害霍乱，速死。<sup>\[如皋\]</sup> ③ 见“瘪脶痧”。<sup>\[如皋\]</sup>  
 1. 【[麻脚瘟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_jiah_ven.md#麻脚瘟)】`ma2 jiah7 ven1` <sup>[兴化]</sup> ① 霍乱的俗称。 ② 骂人的话，主要针对青少年。  
 1. 【[麻脚小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_jiah_xio.md#麻脚小)】`ma2 jiah7 xio3` <sup>[兴化]</sup> 见“麻脚瘟”。  
 1. 【[麻雀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_jiah.md#麻雀)】`ma2 jiah7` <sup>[泰州]</sup> ① 麻雀，鸟名。 ② 比喻小男孩的生殖器。  
@@ -136,10 +136,10 @@
 1. 【[嫲嫲搭搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma_daeh_daeh.md#嫲嫲搭搭)】`ma3 ma daeh7 daeh7` <sup>[兴化]</sup> ① 形容男人有婆子腔调。 ② 形容拉拉扯扯的：这种人就喜欢～的，不管生人熟人总要扯几句。  
 1. 【[嫲嫲腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma_qian.md#嫲嫲腔)】`ma3 ma qian1` <small>/ma3 ma t͡ɕʰiɑŋ1/<sup>泰兴</sup></small> 谓男人像女人一样说话、做事。<sup>\[泰兴\]</sup>  
 1. 【[嫲嫲<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma_r.md#嫲嫲<sub>儿</sub>)】`ma3 ma r` 老婆  
-1. 【[嫲嫲<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma_r.md#嫲嫲<sub>儿</sub>)】`ma3 ma3 r` <small>/ma3 ma3 ɚ/<sup>兴化</sup>, /ma3 ma3 ɚ/<sup>如皋</sup>, /ma3 ma3 ɚ/<sup>泰兴</sup>, /ma3 ma3 ɚ/<sup>泰县</sup></small> ① 妻子。<sup>\[如东\]</sup> ② 女人、妻子。作昵称或鄙称。<sup>\[如皋\]</sup> ③ 同“嫲嫲子”。老太婆<sup>\[兴化\]</sup> ④ 妻<sup>\[兴化\]</sup>：娶～。<sup>\[兴化\]</sup> ⑤ 老婆；已结过婚的妇女。<sup>\[泰县\]</sup>：～就是话多。<sup>\[泰县\]</sup>｜他还不曾娶～。<sup>\[泰县\]</sup> ⑥ 俗称妻、老婆。或俗谓女性。不敬。<sup>\[泰兴\]</sup>  
+1. 【[嫲嫲<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma_r.md#嫲嫲<sub>儿</sub>)】`ma3 ma3 r` <small>/ma3 ma3 ɚ/<sup>兴化</sup>, /ma3 ma˞3/<sup>如皋</sup>, /ma3 ma3 ɚ/<sup>泰兴</sup>, /ma3 ma3 ɚ/<sup>泰县</sup></small> ① 妻子。<sup>\[如东\]</sup> ② 女人、妻子。作昵称或鄙称。<sup>\[如皋\]</sup> ③ 同“嫲嫲子”。老太婆<sup>\[兴化\]</sup> ④ 妻<sup>\[兴化\]</sup>：娶～。<sup>\[兴化\]</sup> ⑤ 老婆；已结过婚的妇女。<sup>\[泰县\]</sup>：～就是话多。<sup>\[泰县\]</sup>｜他还不曾娶～。<sup>\[泰县\]</sup> ⑥ 俗称妻、老婆。或俗谓女性。不敬。<sup>\[泰兴\]</sup>  
 1. 【[嫲嫲<sub>儿</sub>话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma_r_hua.md#嫲嫲<sub>儿</sub>话)】`ma3 ma3 r hua6` <sup>[如皋]</sup> 无见识的委琐的话。  
 1. 【[嫲嫲<sub>儿</sub>气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma_r_qi.md#嫲嫲<sub>儿</sub>气)】`ma3 ma3 r qi5` <sup>[如皋]</sup> 见“嫲嫲儿腔”。  
-1. 【[嫲嫲<sub>儿</sub>腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma_r_qian.md#嫲嫲<sub>儿</sub>腔)】`ma3 ma3 r qian1` <small>/ma3 ma3 ɚ t͡ɕʰiã1/<sup>如皋</sup>, /ma3 ma3 ɚ t͡ɕʰiɑŋ1/<sup>泰县</sup></small> ① 贬指男人无汉子气而委琐，扭昵作态的样子。<sup>\[如皋\]</sup> ② 缺乏阳刚之气的男人。<sup>\[泰县\]</sup>  
+1. 【[嫲嫲<sub>儿</sub>腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma_r_qian.md#嫲嫲<sub>儿</sub>腔)】`ma3 ma3 r qian1` <small>/ma3 ma˞3 t͡ɕʰiã1/<sup>如皋</sup>, /ma3 ma3 ɚ t͡ɕʰiɑŋ1/<sup>泰县</sup></small> ① 贬指男人无汉子气而委琐，扭昵作态的样子。<sup>\[如皋\]</sup> ② 缺乏阳刚之气的男人。<sup>\[泰县\]</sup>  
 1. 【[嫲嫲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma_zz.md#嫲嫲子)】`ma3 ma3 zz` <sup>[兴化]</sup> ① 老年妇女：张～；王～；老～｜那～胆大，把材头扑了一把道｜“老员外，你活了？”（《西游记》九七） ② 妻：有个老头子，～死得早，丢下两个小伙。（兴文《“勤俭”二字不可分家》）  
 1. 【[把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma.md#把)】`ma3` <small>/ma3/<sup>泰县</sup></small> ① 给：这笔钱～你。<sup>\[泰县\]</sup> ② 嫁：二姑娘～啊在庄东头的一家。<sup>\[泰县\]</sup> ③ 给<sup>\[泰州\]</sup>：你～两个钱他去洗澡。<sup>\[泰州\]</sup> ④ 嫁<sup>\[泰州\]</sup>：他家侄女儿～啊王家。<sup>\[泰州\]</sup> ⑤ 介词，将<sup>\[泰州\]</sup>：你～他喊过来。<sup>\[泰州\]</sup>  
 1. 【[杩头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_teu.md#杩头)】`ma3 teu2` <sup>[如东]</sup> 床头上端的横木。  
@@ -227,7 +227,7 @@
 1. 【[马弁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_pi.md#马弁)】`ma3 pi2` <sup>[兴化]</sup> 迎神赛会时在神象大轿后的一个角色，铁锥穿颊，两眼赤红，头微倾，手执铁棍，斜着身子行进，令围观者望而生畏。  
 1. 【[马屁猴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_pi_heu_r.md#马屁猴<sub>儿</sub>)】`ma3 pi5 heu2 r` <sup>[如东]</sup> 善于拍马屁的人：他是一个～。  
 1. 【[马鬐膏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_qi_go.md#马鬐膏)】`ma3 qi2 go1` <sup>[如东]</sup> 马科动物马项上的皮下脂肪。  
-1. 【[马<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_r.md#马<sub>儿</sub>)】`ma3 r` <small>/ma3 ɚ/<sup>如皋</sup></small> ① 容器。马桶，圆桶形，高八寸左右，直径六寸左右，一般有盖。用以贮存大小便。<sup>\[如东\]</sup> ② 小的便具。<sup>\[如皋\]</sup>  
+1. 【[马<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_r.md#马<sub>儿</sub>)】`ma3 r` <small>/ma˞3/<sup>如皋</sup></small> ① 容器。马桶，圆桶形，高八寸左右，直径六寸左右，一般有盖。用以贮存大小便。<sup>\[如东\]</sup> ② 小的便具。<sup>\[如皋\]</sup>  
 1. 【[马<sub>儿</sub>的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_r_dii.md#马<sub>儿</sub>的)】`ma3 r dii` <sup>[如皋]</sup> ① 胡涂马虎：他是个～。 ② 无结果：这份报告呈上去还是～。 ③ 敷衍搪塞：他说得的角真真的，好像笃定行，其实是～。  
 1. 【[马上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_shan.md#马上)】`ma3 shan` <sup>[泰兴]</sup> ① 即刻，立刻：你～到学校去一下。 ② 比喻在职做官：他正在～，一倒霉就要下台了。  
 1. 【[马刷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_shuaeh.md#马刷)】`ma3 shuaeh7` <small>/ma3 suæʔ7/<sup>兴化</sup></small> ① 竹篾扎成的长束，专用于洗刷马桶。<sup>\[兴化\]</sup> ② 专门用于刷洗马桶内壁污垢的竹刷子。<sup>\[泰州\]</sup>  
@@ -241,7 +241,7 @@
 1. 【[马桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ton.md#马桶)】`ma3 ton3` <small>/ma3 tʰɔŋ3/<sup>如皋</sup></small> ① 容器。圆桶形，木制，上口有棱边，也有装环的，有盖。用于贮存大小便。也叫恭桶。<sup>\[如东\]</sup> ② 便桶的总名，包括马桶、恭桶。～是有反边、有大小盖而无提环的使桶。<sup>\[如皋\]</sup>  
 1. 【[马桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ton.md#马桶)】`ma3 ton3` <sup>[泰州]</sup> 亦即“马子”，用于排秽的圆鼓形木桶，高同板凳，桶上安有一块可移动的、类似今日镙丝垫圈的、正中有孔的大盖，大盖孔上又有小盖，取下小盖，人坐孔上排秽，排完以后盖上小盖，清洗之时，取下大盖，将木桶中秽物倒入室外茅缸，以其如马可供人坐骑，故名。  
 1. 【[马桶把<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ton_ba_r.md#马桶把<sub>儿</sub>)】`ma3 ton3 ba3 r` <sup>[如东]</sup> 刷马桶的工具，竹条制成。  
-1. 【[马桶盖<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ton_gae_r.md#马桶盖<sub>儿</sub>)】`ma3 ton3 gae5 r` <small>/ma3 tʰɔŋ3 kɛ5 ɚ/<sup>如皋</sup></small> ① 马桶的盖子。<sup>\[如东\]</sup> ② 一种发型，周边剃光，形似马桶盖扣在头上。<sup>\[如东\]</sup> ③ 谑称旧时男童发式之一，头顶及鬓角、枕骨以下剃光，留一圈短发，宛如～。<sup>\[如皋\]</sup>  
+1. 【[马桶盖<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ton_gae_r.md#马桶盖<sub>儿</sub>)】`ma3 ton3 gae5 r` <small>/ma3 tʰɔŋ3 kɛ˞5/<sup>如皋</sup></small> ① 马桶的盖子。<sup>\[如东\]</sup> ② 一种发型，周边剃光，形似马桶盖扣在头上。<sup>\[如东\]</sup> ③ 谑称旧时男童发式之一，头顶及鬓角、枕骨以下剃光，留一圈短发，宛如～。<sup>\[如皋\]</sup>  
 1. 【[马桶巷<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ton_han_r.md#马桶巷<sub>儿</sub>)】`ma3 ton3 han6 r` <sup>[如皋]</sup> 旧时房内床头与山墙间放马桶及清洁用具的夹巷。  
 1. 【[马桶巷<sub>儿</sub>帘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ton_han_r_lin_zz.md#马桶巷<sub>儿</sub>帘子)】`ma3 ton3 han6 r lin2 zz` <sup>[如皋]</sup> 遮住马桶巷的布帘。不使洁具外露。  
 1. 【[马桶箱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ton_xian.md#马桶箱)】`ma3 ton3 xian1` <small>/ma3 tʰɔ̃3 ɕiɑŋ1/<sup>泰兴</sup></small> 旧日时大户人家放于床头装马桶的箱式家具。<sup>\[泰兴\]</sup>  
@@ -344,7 +344,7 @@
 1. 【[抹鬼脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maeh_guei_lin.md#抹鬼脸)】`maeh8 guei3 lin3` <sup>[兴化]</sup> 用手抹脸，表示羞辱：你说话赖话，我抹你个鬼险。  
 1. 【[抹鬼脸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maeh_guei_lin_r.md#抹鬼脸<sub>儿</sub>)】`maeh8 guei3 lin3 r` <sup>[如皋]</sup> 用手指刮鼻子，表示羞耻或逗乐。  
 1. 【[抹下脸来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maeh_ha_lin_lae.md#抹下脸来)】`maeh8 ha6 lin3 lae` <sup>[东台]</sup> 指不顾情面批评人。  
-1. 【[抹花<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maeh_hua_r.md#抹花<sub>儿</sub>)】`maeh8 hua1 r` <small>/meʔ8 xua1 ɚ/<sup>如皋</sup></small> ① 旧时用麻醉药拐卖儿童的罪犯。<sup>\[如皋\]</sup> ② 旧时拐骗贩卖儿童的人。<sup>\[东台\]</sup>  
+1. 【[抹花<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maeh_hua_r.md#抹花<sub>儿</sub>)】`maeh8 hua1 r` <small>/meʔ8 xua˞1/<sup>如皋</sup></small> ① 旧时用麻醉药拐卖儿童的罪犯。<sup>\[如皋\]</sup> ② 旧时拐骗贩卖儿童的人。<sup>\[东台\]</sup>  
 1. 【[抹胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maeh_hv_zz.md#抹胡子)】`maeh8 hv2 zz` <sup>[兴化]</sup> 白吃白拿的隐语：他大吃一顿～走路！｜谚曰：～扰孙子。  
 1. 【[抹□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maeh_jien.md#抹□)】`maeh8 jien1` <sup>[如皋]</sup> 用推拿法治痉挛。如皋词典写“抹痉”。  
 1. 【[抹面子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maeh_min_zz.md#抹面子)】`maeh8 min6 zz` <sup>[兴化]</sup> 照顾面皮，以便转圜：杀人不过头点地，人家认错代你～就算啊。  
@@ -386,7 +386,7 @@
 1. 【[蛮里骨碌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_lii_gueh_loh.md#蛮里骨碌)】`maen2 lii gueh7 loh` <sup>[泰县]</sup> 泛指外地人说自己的方言，使人听不懂。  
 1. 【[蛮里骨碌的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_lii_gueh_loh_dii.md#蛮里骨碌的)】`maen2 lii gueh7 loh dii` <sup>[如皋]</sup> 指说话的口音令人难懂。  
 1. 【[蛮驴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_ly_zz.md#蛮驴子)】`maen2 ly2 zz` <small>/mɛ̃2 ly2 t͡sɿ/<sup>兴化</sup></small> ① ［喻］不讲道理，蛮吵蛮闹，又听不进劝解开导的人。<sup>\[东台\]</sup> ② （喻）调皮、任性的小孩。<sup>\[兴化\]</sup>  
-1. 【[蛮蛮拉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_maen_la_r.md#蛮蛮拉<sub>儿</sub>)】`maen2 maen2 la1 r` <small>/mẽ2 mẽ2 la1 ɚ/<sup>如皋</sup>, /mɛ̃2 mɛ̃2 na1 ɚ/<sup>泰县</sup></small> ① 常指儿童学话时说的似懂非懂、不合常理、夹缠不清、奇怪的话。<sup>\[如皋\]</sup> ② 指不合事理的顺口溜<sup>\[如皋\]</sup> ③ 乱七八糟的东西，无厘头的东西 ④ 不讲道理的人：这个女的是个～，跟她没得理好讲。<sup>\[泰县\]</sup>  
+1. 【[蛮蛮拉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_maen_la_r.md#蛮蛮拉<sub>儿</sub>)】`maen2 maen2 la1 r` <small>/mẽ2 mẽ2 la˞1/<sup>如皋</sup>, /mɛ̃2 mɛ̃2 na1 ɚ/<sup>泰县</sup></small> ① 常指儿童学话时说的似懂非懂、不合常理、夹缠不清、奇怪的话。<sup>\[如皋\]</sup> ② 指不合事理的顺口溜<sup>\[如皋\]</sup> ③ 乱七八糟的东西，无厘头的东西 ④ 不讲道理的人：这个女的是个～，跟她没得理好讲。<sup>\[泰县\]</sup>  
 1. 【[蛮蛮浪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_maen_lan.md#蛮蛮浪)】`maen2 maen2 lan6` <sup>[东台]</sup> ［喻］不上规矩的言行或蛮不讲理的人：讲话要有根有据，有条有理，不能～。  
 1. 【[蛮蛮佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_maen_lo_r.md#蛮蛮佬<sub>儿</sub>)】`maen2 maen2 lo3 r` <sup>[如东]</sup> 不上规矩的话，乱七八糟的东西。  
 1. 【[蛮蛮<sub>儿</sub>理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_maen_r_li.md#蛮蛮<sub>儿</sub>理)】`maen2 maen2 r li3` <sup>[如东]</sup> 没有理论依据的道理。  
@@ -611,7 +611,7 @@
 1. 【[没下巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_ha_ba.md#没下巴)】`meh8 ha6 ba` <sup>[兴化]</sup> 说话随便，胡吹乱扯：他说话～，说一亩田能打两吨粮，哪个信！  
 1. 【[没狠处](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_hen_chv.md#没狠处)】`meh8 hen3 chv5` <sup>[如东]</sup> 没有办法：你对她～。  
 1. 【[没话说](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_hua_shuh.md#没话说)】`meh8 hua6 shuh7` <small>/məʔ8 xua6 suʔ7/<sup>兴化</sup></small> ① 非常满意，没有多余的话好说。<sup>\[如东\]</sup>：这种料子～。<sup>\[如东\]</sup> ② 表示应允或没有问题<sup>\[兴化\]</sup>：这件事包啊我身上，～！<sup>\[兴化\]</sup>｜再难的事交把他办，保证～！<sup>\[兴化\]</sup> ③ 表示关系亲密<sup>\[兴化\]</sup>：他俫两个人好得～。<sup>\[兴化\]</sup>  
-1. 【[没𣝗枣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_hueh_zo_r.md#没𣝗枣<sub>儿</sub>)】`meh8 hueh8 zo3 r` <small>/məʔ8 xuəʔ8 t͡sɔ3 ɚ/<sup>兴化</sup>, /məʔ8 xuəʔ8 t͡sɔ3 ɚ/<sup>如皋</sup></small> ① 想吃～是空想，妄想。<sup>\[如皋\]</sup> ② （喻）意外的好运<sup>\[兴化\]</sup>：他不好好工作，成天想～吃。<sup>\[兴化\]</sup>  
+1. 【[没𣝗枣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_hueh_zo_r.md#没𣝗枣<sub>儿</sub>)】`meh8 hueh8 zo3 r` <small>/məʔ8 xuəʔ8 t͡sɔ3 ɚ/<sup>兴化</sup>, /məʔ8 xuəʔ8 t͡sɔ˞3/<sup>如皋</sup></small> ① 想吃～是空想，妄想。<sup>\[如皋\]</sup> ② （喻）意外的好运<sup>\[兴化\]</sup>：他不好好工作，成天想～吃。<sup>\[兴化\]</sup>  
 1. 【[没魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_huen.md#没魂)】`meh8 huen2` <small>/məʔ8 xuən2/<sup>兴化</sup></small> ① 非常 ② 中医认为，魂是人肝的神明，主理智。比喻没有理智，胆量大。<sup>\[如东\]</sup>：这个人～。<sup>\[如东\]</sup> ③ 形容多。<sup>\[如东\]</sup>：他吃的个苦～。<sup>\[如东\]</sup> ④ 表示程度深。<sup>\[如东\]</sup>：王二打的桌子好啊～。<sup>\[如东\]</sup> ⑤ 形容胆大冒失<sup>\[兴化\]</sup>：小扬～哎，拿起枪就扣，险些走火伤人。<sup>\[兴化\]</sup>  
 1. 【[没魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_huen.md#没魂)】`meh8 huen2` <sup>[泰州]</sup> 没有灵魂所以不知道害怕，意为胆大包天：你不要～吖，救灾的钱不能瞎弄。  
 1. 【[没魂大胆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_huen_da_daen.md#没魂大胆)】`meh8 huen2 da6 daen3` <sup>[如皋]</sup> 见“没（得）魂”。  
@@ -862,7 +862,7 @@
 1. 【[门臼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_qieu.md#门臼)】`men2 qieu6` <sup>[如东]</sup> 安装在户槛上支撑门梃旋转的木墩。也叫门窝儿。  
 1. 【[门前](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_qin.md#门前)】`men2 qin2` <small>/mən2 t͡ɕʰiɪ̃2/<sup>兴化</sup></small> ① 门的前面。<sup>\[如东\]</sup>：东西堆啊在～。<sup>\[如东\]</sup> ② 大门口。谚曰：～扣的高头马，不是亲来也是亲；～戗的讨饭棍，骨肉至亲不上门。<sup>\[兴化\]</sup>  
 1. 【[门<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_r.md#门<sub>儿</sub>)】`men2 r` <small>/mən2 ɚ/<sup>兴化</sup></small> ① 办法。<sup>\[如东\]</sup>：他有～。<sup>\[如东\]</sup> ② 花样、本领：“今天我们三个玩个新～，拼起来吃……”（兴文：《吹牛》）｜众轿夫俱各笑道：“瞧不起他，真有～。”（《三侠五义》五三）<sup>\[兴化\]</sup> ③ 希望：这事还有点儿～唻！<sup>\[兴化\]</sup>  
-1. 【[门<sub>儿</sub>经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_r_jien.md#门<sub>儿</sub>经)】`men2 r jien1` <small>/mən2 ɚ t͡ɕin1/<sup>兴化</sup>, /məŋ2 ɚ t͡ɕiəŋ1/<sup>如皋</sup></small> ① 原因。<sup>\[如东\]</sup>：甚的～？<sup>\[如东\]</sup> ② 办法、窍门：想～。<sup>\[如皋\]</sup> ③ 手腕：玩～。<sup>\[如皋\]</sup> ④ 见“门儿三”。<sup>\[兴化\]</sup>  
+1. 【[门<sub>儿</sub>经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_r_jien.md#门<sub>儿</sub>经)】`men2 r jien1` <small>/mən2 ɚ t͡ɕin1/<sup>兴化</sup>, /mə˞2 t͡ɕiəŋ1/<sup>如皋</sup></small> ① 原因。<sup>\[如东\]</sup>：甚的～？<sup>\[如东\]</sup> ② 办法、窍门：想～。<sup>\[如皋\]</sup> ③ 手腕：玩～。<sup>\[如皋\]</sup> ④ 见“门儿三”。<sup>\[兴化\]</sup>  
 1. 【[门<sub>儿</sub>三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_r_saen.md#门<sub>儿</sub>三)】`men2 r saen1` <sup>[兴化]</sup> ① 点子、花招：他的～大唻。 ② 某些技巧：他～多，是个人才。也作“门儿经”。  
 1. 【[门生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_shen.md#门生)】`men2 shen1` <sup>[泰兴]</sup> 学生，或称学生的学生。  
 1. 【[门神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_shen.md#门神)】`men2 shen2` <sup>[如东]</sup> 守门之神。左为神荼，右为郁垒，后世改为秦叔宝和尉迟恭。  
@@ -877,7 +877,7 @@
 1. 【[门条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_tio.md#门条)】`men2 tio2` <sup>[如皋]</sup> 缝纫术语之一：前襟钉钮处的底衬。  
 1. 【[门道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_to.md#门道)】`men2 to6` <sup>[如东]</sup> ① 门的通道。 ② 比喻办法：他有～，可以成功。  
 1. 【[门度子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_tv_zz.md#门度子)】`men2 tv6 zz` <sup>[如东]</sup> 门板的宽度。  
-1. 【[门窝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_u_r.md#门窝<sub>儿</sub>)】`men2 u1 r` <small>/məŋ2 ʊ1 ɚ/<sup>如皋</sup></small> ① 门臼。<sup>\[如东\]</sup> ② 门臼，即旧式门上下转轴的轴承窝。<sup>\[如皋\]</sup>  
+1. 【[门窝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_u_r.md#门窝<sub>儿</sub>)】`men2 u1 r` <small>/məŋ2 ʊ˞1/<sup>如皋</sup></small> ① 门臼。<sup>\[如东\]</sup> ② 门臼，即旧式门上下转轴的轴承窝。<sup>\[如皋\]</sup>  
 1. 【[门窝子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_u_zz.md#门窝子)】`men2 u1 zz` <small>/mən2 o1 t͡sɿ/<sup>兴化</sup></small> ① 托着旧式门扇转轴的门下坎，凹形，成臼状。<sup>\[东台\]</sup> ② 托住门轴的臼状墩子：把门从～上褪下来。｜他们偷偷地给他留着门，在～里倒了水（这样推门进来没有声音）。（汪曾祺：《大掉记事》）<sup>\[兴化\]</sup>  
 1. 【[门午竖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_v_shv.md#门午竖)】`men2 v3 shv6` <small>/mən2 u3 su6/<sup>兴化</sup>, /məŋ2 u3 su1/<sup>泰县</sup></small> ① 门框。<sup>\[兴化\]</sup> ② 门框子。<sup>\[泰县\]</sup>  
 1. 【[门户框](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_v_kuan.md#门户框)】`men2 v6 kuan1` <sup>[如皋]</sup> 门框之两边的竖框。  
@@ -1131,7 +1131,7 @@
 1. 【[抿缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_fon.md#抿缝)】`mien3 fon6` <sup>[泰州]</sup> ① 以糊状物涂塞两物间的空隙：你望吖看的，墙上好些地方不～，你这个粉的是甚的墙。 ② 紧紧合拢而无缝隙：怪不到馒头蒸吖半天还不行，弄到临了是你锅子不曾盖得～。  
 1. 【[抿一口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_ieh_keu.md#抿一口)】`mien3 ieh7 keu3` <sup>[如东]</sup> 用嘴唇轻轻地沾一下碗或杯子，略微喝一点儿：你先～。  
 1. 【[抿嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_jy.md#抿嘴)】`mien3 jy3` <sup>[如东]</sup> 嘴唇微微合拢：她～儿笑。  
-1. 【[抿嘴<sub>儿</sub>笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_jy_r_xio.md#抿嘴<sub>儿</sub>笑)】`mien3 jy3 r xio5` <small>/miəŋ3 t͡ɕy3 ɚ ɕiɔ5/<sup>如皋</sup></small> ① 微笑而不露牙齿。<sup>\[如东\]</sup> ② 扁唇笑。<sup>\[如皋\]</sup>  
+1. 【[抿嘴<sub>儿</sub>笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_jy_r_xio.md#抿嘴<sub>儿</sub>笑)】`mien3 jy3 r xio5` <small>/miəŋ3 t͡ɕy˞3 ɕiɔ5/<sup>如皋</sup></small> ① 微笑而不露牙齿。<sup>\[如东\]</sup> ② 扁唇笑。<sup>\[如皋\]</sup>  
 1. 【[抿口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_keu.md#抿口)】`mien3 keu3` <sup>[如皋]</sup> 口部完全闭合：疮抿吖口｜坛子盖儿不～，容易走气。  
 1. 【[抿目](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_moh.md#抿目)】`mien3 moh8` <sup>[东台]</sup> 闭眼：死不～。  
 1. 【[抿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_zz.md#抿子)】`mien3 zz` <sup>[兴化]</sup> 瓦工用砂浆勾墙缝的工具，由小铁棒做成，前端扁平。  
@@ -1174,7 +1174,7 @@
 1. 【[棉花卷<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hua_jiun_r.md#棉花卷<sub>儿</sub>)】`min2 hua1 jiun3 r` <sup>[如皋]</sup> 指𢏳好的絮棉，做成每市斤一卷出售。  
 1. 【[棉花壳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hua_kah.md#棉花壳)】`min2 hua1 kah7` <sup>[如东]</sup> 锦葵科植物草棉的外果皮。  
 1. 【[棉花壳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hua_kah_r.md#棉花壳<sub>儿</sub>)】`min2 hua1 kah7 r` <sup>[如皋]</sup> 拾过棉花的空壳。  
-1. 【[棉花卵<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hua_lun_r.md#棉花卵<sub>儿</sub>)】`min2 hua1 lun3 r` <small>/mĩ2 xua1 lʊ̃3 ɚ/<sup>如皋</sup></small> ① 陈旧的棉花胎。<sup>\[如东\]</sup> ② 破碎的棉花胎。<sup>\[如东\]</sup> ③ 不成形的、破败的絮棉。<sup>\[如皋\]</sup>  
+1. 【[棉花卵<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hua_lun_r.md#棉花卵<sub>儿</sub>)】`min2 hua1 lun3 r` <small>/mĩ2 xua1 lʊ˞3/<sup>如皋</sup></small> ① 陈旧的棉花胎。<sup>\[如东\]</sup> ② 破碎的棉花胎。<sup>\[如东\]</sup> ③ 不成形的、破败的絮棉。<sup>\[如皋\]</sup>  
 1. 【[棉花仁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hua_ren.md#棉花仁)】`min2 hua1 ren2` <sup>[如东]</sup> 棉籽去壳后的肉。  
 1. 【[棉花胎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hua_tae.md#棉花胎)】`min2 hua1 tae1` <sup>[如皋]</sup> 作被子的絮棉。  
 1. 【[棉花桃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hua_to.md#棉花桃)】`min2 hua1 to2` <sup>[如东]</sup> 棉苞的果实。  
@@ -1229,7 +1229,7 @@
 1. 【[面糊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hv.md#面糊)】`min6 hv2` <sup>[兴化]</sup> 浆糊。  
 1. 【[面糊刷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hv_shuaeh_zz.md#面糊刷子)】`min6 hv2 shuaeh7 zz` <sup>[东台]</sup> ［喻］指无原则地和稀泥：有矛盾要及时解决，不能当～。  
 1. 【[面糊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hv.md#面糊)】`min6 hv6` <small>/mĩ1 fu1/<sup>如皋</sup></small> ① 糨糊。<sup>\[如东\]</sup> ② 浆糊，粘合剂。半熟时有黏性<sup>\[如皋\]</sup>  
-1. 【[面糊糊<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hv_hv_r.md#面糊糊<sub>儿</sub>)】`min6 hv6 hv6 r` <small>/mĩ1 fu1 fu1 ɚ/<sup>如皋</sup></small> ① 小麦粉放在水中搅拌成糊状，倒入开水中，配青菜叶，煮熟的食物。<sup>\[如东\]</sup> ② 水煮面粉液，食品。熟透则不黏。<sup>\[如皋\]</sup>  
+1. 【[面糊糊<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hv_hv_r.md#面糊糊<sub>儿</sub>)】`min6 hv6 hv6 r` <small>/mĩ1 fu1 fu˞1/<sup>如皋</sup></small> ① 小麦粉放在水中搅拌成糊状，倒入开水中，配青菜叶，煮熟的食物。<sup>\[如东\]</sup> ② 水煮面粉液，食品。熟透则不黏。<sup>\[如皋\]</sup>  
 1. 【[面糊脑<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hv_no_r.md#面糊脑<sub>儿</sub>)】`min6 hv6 no3 r` <sup>[如东]</sup> 用小麦粉做成的面糊糊。  
 1. 【[面糊手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hv_sheu.md#面糊手)】`min6 hv6 sheu3` <sup>[如东]</sup> 爱占小便宜的人。  
 1. 【[面糊刷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hv_shuaeh_zz.md#面糊刷子)】`min6 hv6 shuaeh7 zz` <sup>[如皋]</sup> 喻敷衍或平衡人际关系的表现，或指人。  
@@ -1261,7 +1261,7 @@
 1. 【[面瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_va.md#面瓦)】`min6 va3` <sup>[如皋]</sup> 屋面上瓦背向上的瓦盖瓦，别于底瓦。  
 1. 【[面外花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_vae_hua.md#面外花)】`min6 vae6 hua1` <sup>[如皋]</sup> 有的杆秤有八面花，上面的外花称之。  
 1. 【[面相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_xian.md#面相)】`min6 xian5` <sup>[如东]</sup> 相貌，样子。  
-1. 【[面鱼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_y_r.md#面鱼<sub>儿</sub>)】`min6 y2 r` <small>/mĩ1 y2 ɚ/<sup>如皋</sup></small> ① 间银鱼。鱼纲，鲱形目。<sup>\[如皋\]</sup> ② 水煮的不规则面疙丁。<sup>\[如皋\]</sup> ③ 用面粉加水刮成一条条小鱼状，下在沸水里煮熟食用，堤东一带又叫捺鱼儿、刮抓底。北方人叫“面疙瘩”。<sup>\[东台\]</sup>  
+1. 【[面鱼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_y_r.md#面鱼<sub>儿</sub>)】`min6 y2 r` <small>/mĩ1 y˞2/<sup>如皋</sup></small> ① 间银鱼。鱼纲，鲱形目。<sup>\[如皋\]</sup> ② 水煮的不规则面疙丁。<sup>\[如皋\]</sup> ③ 用面粉加水刮成一条条小鱼状，下在沸水里煮熟食用，堤东一带又叫捺鱼儿、刮抓底。北方人叫“面疙瘩”。<sup>\[东台\]</sup>  
 1. 【[面子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_zz.md#面子)】`min6 zz` <sup>[如东]</sup> ① 物体的表面：书～好。 ② 人的脸面。 ③ 表皮，表层：被～。 ④ 体面，情面：丢不下～。  
 1. 【[面子话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_zz_hua.md#面子话)】`min6 zz hua6` <sup>[兴化]</sup> 没有实际意义的情面话：我俫不是外人，你行就行，覅说～。  
 1. 【[面子上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_zz_shan.md#面子上)】`min6 zz shan6` <sup>[如皋]</sup> 外表上、表面上、情面上。  
@@ -1360,7 +1360,7 @@
 1. 【[猫<sub>儿</sub>吃蟹渣——恶势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_r_qieh_hae_zha_ngah_shr.md#猫<sub>儿</sub>吃蟹渣——恶势)】`mo2 r qieh7 hae3 zha1 ngah7 shr5` <sup>[东台]</sup>   
 1. 【[猫<sub>儿</sub>肉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_r_roh_zz.md#猫<sub>儿</sub>肉子)】`mo2 r roh8 zz` <sup>[兴化]</sup> （喻）形容未成熟的西瓜口感酸而起腻。  
 1. 【[猫<sub>儿</sub>食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_r_sheh.md#猫<sub>儿</sub>食)】`mo2 r sheh8` <sup>[兴化]</sup> （喻）食量小，随时零吃：“我说你是～。虽然如此，也该上去陪他们，多少应个景儿。”（《红楼梦》六二）  
-1. 【[猫<sub>儿</sub>头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_r_teu.md#猫<sub>儿</sub>头)】`mo2 r teu2` <small>/mɔ2 ɚ tʰei2/<sup>如皋</sup></small> ① 建筑材料，泥制，似瓦，形状像猫头，安装在瓦棱下端，起收拢作用。也叫滴水。<sup>\[如东\]</sup> ② 瓦当，又分阴、阳两种。<sup>\[如皋\]</sup> ③ 一称独轮车车头的横木。<sup>\[如皋\]</sup>  
+1. 【[猫<sub>儿</sub>头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_r_teu.md#猫<sub>儿</sub>头)】`mo2 r teu2` <small>/mɔ˞2 tʰei2/<sup>如皋</sup></small> ① 建筑材料，泥制，似瓦，形状像猫头，安装在瓦棱下端，起收拢作用。也叫滴水。<sup>\[如东\]</sup> ② 瓦当，又分阴、阳两种。<sup>\[如皋\]</sup> ③ 一称独轮车车头的横木。<sup>\[如皋\]</sup>  
 1. 【[猫<sub>儿</sub>洞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_r_ton.md#猫<sub>儿</sub>洞)】`mo2 r ton6` <sup>[东台]</sup> 民宅堂屋门槛旁边墙上留有猫进出的洞口。  
 1. 【[猫<sub>儿</sub>屙屎自己盖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_r_u_shr_cz_ji_gae.md#猫<sub>儿</sub>屙屎自己盖)】`mo2 r u1 shr3 cz6 ji3 gae5` <sup>[东台]</sup> 自己对自己的行为后果负责。  
 1. 【[猫<sub>儿</sub>屙屎盖脚印](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_r_u_shr_gae_jiah_ien.md#猫<sub>儿</sub>屙屎盖脚印)】`mo2 r u1 shr3 gae5 jiah7 ien5` <sup>[东台]</sup> ［喻］干了坏事之后将事实真相掩盖得干干净净。  
@@ -1394,7 +1394,7 @@
 1. 【[茅棚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_pon_r.md#茅棚<sub>儿</sub>)】`mo2 pon2 r` <sup>[泰县]</sup> 小草屋。  
 1. 【[茅棚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_pon_zz.md#茅棚子)】`mo2 pon2 zz` <sup>[兴化]</sup> ① 茅草搭的散棚。 ② 茅屋。  
 1. 【[茅屎缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_shr_gan.md#茅屎缸)】`mo2 shr3 gan1` <sup>[泰县]</sup> 厕所。  
-1. 【[茅窝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_u_r.md#茅窝<sub>儿</sub>)】`mo2 u1 r` <small>/mɔ2 ʊ1 ɚ/<sup>如皋</sup></small> ① 原指用茅草、芦花、鸡毛等打成的保暖鞋，后泛指绒、毛、絮等材料做成的保暖鞋。<sup>\[如皋\]</sup> ② 指用茅花、芦苇花加稻草、棉花编织而成的保暖草鞋。<sup>\[东台\]</sup>  
+1. 【[茅窝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_u_r.md#茅窝<sub>儿</sub>)】`mo2 u1 r` <small>/mɔ2 ʊ˞1/<sup>如皋</sup></small> ① 原指用茅草、芦花、鸡毛等打成的保暖鞋，后泛指绒、毛、絮等材料做成的保暖鞋。<sup>\[如皋\]</sup> ② 指用茅花、芦苇花加稻草、棉花编织而成的保暖草鞋。<sup>\[东台\]</sup>  
 1. 【[茅靴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_xya_r.md#茅靴<sub>儿</sub>)】`mo2 xya1 r` <sup>[如东]</sup> 棉鞋的一种。用芦苇花编成，帮高，底厚，保温性能好。也叫毛窝儿。  
 1. 【[茅针](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_zhen.md#茅针)】`mo2 zhen1` ① 茅草的花苞，圆锥形，像针，嫩时可食。<sup>\[如东\]</sup> ② 春天白茅草刚露头的嫩芽，有清热解毒功能<sup>\[东台\]</sup>：～～两头尖，不吃～害大病（童谣）。<sup>\[东台\]</sup>  
 1. 【[锚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo.md#锚)】`mo2` <sup>[如东]</sup> 船舶上装备的器具。铁制，两齿或四齿，用于固定船位：抛～。  
@@ -1636,7 +1636,7 @@
 1. 【[梦事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mon_shr.md#梦事)】`mon6 shr6` <sup>[如皋]</sup> 被人瞧不起的事、坏事、丑事、糊涂事、无价值的事。  
 1. 【[梦忑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mon_teh_zz.md#梦忑子)】`mon6 teh7 zz` <sup>[兴化]</sup> 糊涂，不明事理的人：公社撤销十几年，你还上甚的“公社”，真的是～！  
 1. 【[梦想](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mon_xian.md#梦想)】`mon6 xian3` <sup>[东台]</sup> 过去多指难实现的事，现在多指美好追求、美好愿景。  
-1. 【[梦枣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mon_zo_r.md#梦枣<sub>儿</sub>)】`mon6 zo3 r` <small>/moŋ6 t͡sɔ3 ɚ/<sup>兴化</sup>, /mɔŋ1 t͡sɔ3 ɚ/<sup>如皋</sup></small> ① 宽厚不争或糊涂的人。<sup>\[如皋\]</sup> ② 糊涂人<sup>\[兴化\]</sup>：他成天睡不醒的样子，真是个～。<sup>\[兴化\]</sup>  
+1. 【[梦枣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mon_zo_r.md#梦枣<sub>儿</sub>)】`mon6 zo3 r` <small>/moŋ6 t͡sɔ3 ɚ/<sup>兴化</sup>, /mɔŋ1 t͡sɔ˞3/<sup>如皋</sup></small> ① 宽厚不争或糊涂的人。<sup>\[如皋\]</sup> ② 糊涂人<sup>\[兴化\]</sup>：他成天睡不醒的样子，真是个～。<sup>\[兴化\]</sup>  
 1. 【[嬷嬷<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_mu_r.md#嬷嬷<sub>儿</sub>)】`mu1 mu1 r` <sup>[泰县]</sup> 竹子做的碗。  
 1. 【[摩野](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_ia.md#摩野)】`mu2 ia` <sup>[如皋]</sup> 见“摩气”。  
 1. 【[摩雅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_ia.md#摩雅)】`mu2 ia3` <sup>[兴化]</sup> 形容人行动缓慢、摸索：大家等你有急事，你就不要～吧！  
@@ -1731,7 +1731,7 @@
 1. 【[末朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/muh_cho.md#末朝)】`muh8 cho2` <sup>[如皋]</sup> 毁灭性的灾难，如地陷、海啸、大地震。  
 1. 【[末座](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/muh_cu.md#末座)】`muh8 cu6` <sup>[东台]</sup> 席次最卑小的座位。  
 1. 【[末了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/muh_lio.md#末了)】`muh8 lio3` <sup>[泰州]</sup> 末尾结束之时，最后：这小伙不胎谐，在班上的成绩排啊在～。  
-1. 【[末末礓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/muh_muh_jian_r.md#末末礓<sub>儿</sub>)】`muh8 muh8 jian3 r` <small>/mʊʔ8 mʊʔ8 t͡ɕiã3 ɚ/<sup>如皋</sup></small> ① 最细小的。<sup>\[如东\]</sup>：这是～。<sup>\[如东\]</sup> ② 排行最小的。<sup>\[如东\]</sup>：他在家里是～。<sup>\[如东\]</sup> ③ 小人物。<sup>\[如东\]</sup>：他是～。<sup>\[如东\]</sup> ④ 最后的一点儿东西。<sup>\[如东\]</sup>：剩下一点～，你拿啊去吧。<sup>\[如东\]</sup> ⑤ 最后、最小的<sup>\[如皋\]</sup>：你是头一名，他是～。<sup>\[如皋\]</sup> ⑥ 辈份在某人的五代之后<sup>\[如皋\]</sup>：灰灰孙儿～。<sup>\[如皋\]</sup>  
+1. 【[末末礓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/muh_muh_jian_r.md#末末礓<sub>儿</sub>)】`muh8 muh8 jian3 r` <small>/mʊʔ8 mʊʔ8 t͡ɕia˞3/<sup>如皋</sup></small> ① 最细小的。<sup>\[如东\]</sup>：这是～。<sup>\[如东\]</sup> ② 排行最小的。<sup>\[如东\]</sup>：他在家里是～。<sup>\[如东\]</sup> ③ 小人物。<sup>\[如东\]</sup>：他是～。<sup>\[如东\]</sup> ④ 最后的一点儿东西。<sup>\[如东\]</sup>：剩下一点～，你拿啊去吧。<sup>\[如东\]</sup> ⑤ 最后、最小的<sup>\[如皋\]</sup>：你是头一名，他是～。<sup>\[如皋\]</sup> ⑥ 辈份在某人的五代之后<sup>\[如皋\]</sup>：灰灰孙儿～。<sup>\[如皋\]</sup>  
 1. 【[末末了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/muh_muh_lio.md#末末了)】`muh8 muh8 lio3` <sup>[兴化]</sup> 最后：他个子矮，排在全班～儿。｜一看电码的～一个字，不是继之的名字。（《二十年目睹之怪现状》五九）  
 1. 【[末香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/muh_xian.md#末香)】`muh8 xian1` <small>/muʔ8 ɕiaŋ1/<sup>兴化</sup>, /mʊʔ8 ɕiɑŋ1/<sup>泰县</sup></small> ① 檀香树的锯末，燃烧时有香味。<sup>\[兴化\]</sup> ② （禁忌语）点在死人头前的香，现指香烟：你又烧～吖。<sup>\[泰县\]</sup>  
 1. 【[末香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/muh_xian.md#末香)】`muh8 xian1` <sup>[泰州]</sup> 詈词，指今人所吸的香烟，取其“烧钱”之义，以“末香价值昂贵”，故有此喻：就拿啊这两个钱，哪块掌得住他成天烧～。  
@@ -1749,7 +1749,7 @@
 1. 【[鞔眼睛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_ngaen_jien.md#鞔眼睛)】`mun2 ngaen3 jien` <sup>[如皋]</sup> ① 蒙住眼睛。 ② 见“揞眼睛”。与“遮眼睛”有所不同，是贴近眼睛遮。  
 1. 【[鞔头网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_teu_van.md#鞔头网)】`mun2 teu2 van3` <sup>[东台]</sup> 蜘蛛网：老房子结咖许多～。又名“罗罗网”。  
 1. 【[馒头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_teu.md#馒头)】`mun2 teu` <small>/mʊ̃2 tʰei/<sup>如皋</sup></small> ① 发面包馅的一种食物 ② 有的地方也指无馅的发面食物 ③ 面食的一种。小麦糏经过发酵，加工成椭圆形，放在笼里蒸熟，内部有许多小气孔，酥松而醇香。<sup>\[如东\]</sup> ④ 发酵蒸的馍。与“包儿”相别：冷水发酵而非热水烫酵。无馅时形状多，有条状、分丫状、窝窝头状等。有馅时呈半球形，无收口痕迹。<sup>\[如皋\]</sup>  
-1. 【[馒头干<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_teu_gun_r.md#馒头干<sub>儿</sub>)】`mun2 teu gun1 r` <small>/mʊ̃2 tʰei kʊ̃1 ɚ/<sup>如皋</sup></small> ① 馒头蒸熟后，切成片子，晒干。可以存放很长时间。味道清淡。<sup>\[如东\]</sup> ② 如皋农民对春节做馒头特别隆重，也做得特别多。其中大部分是“黄猫儿”，切片晒成干儿便于保存，取食方便，很适应农村之需，可吃到收麦场。<sup>\[如皋\]</sup>  
+1. 【[馒头干<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_teu_gun_r.md#馒头干<sub>儿</sub>)】`mun2 teu gun1 r` <small>/mʊ̃2 tʰei kʊ˞1/<sup>如皋</sup></small> ① 馒头蒸熟后，切成片子，晒干。可以存放很长时间。味道清淡。<sup>\[如东\]</sup> ② 如皋农民对春节做馒头特别隆重，也做得特别多。其中大部分是“黄猫儿”，切片晒成干儿便于保存，取食方便，很适应农村之需，可吃到收麦场。<sup>\[如皋\]</sup>  
 1. 【[满把攎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_ba_lv.md#满把攎)】`mun3 ba3 lv2` <sup>[如皋]</sup> 用手尽量攎，大把地攎。  
 1. 【[满把抓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_ba_zhua.md#满把抓)】`mun3 ba3 zhua1` <sup>[如皋]</sup> ① 用单手尽量抓取。 ② 幼儿学拿筷儿的初始格式。  
 1. 【[满床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_chuan.md#满床)】`mun3 chuan2` <small>/mũ3 t͡sʰuaŋ2/<sup>兴化</sup>, /mʊ̃3 t͡sʰuã2/<sup>如皋</sup></small> ① 双人床。<sup>\[如皋\]</sup> ② 大床、宽阔的床：～席子｜～帐子。<sup>\[兴化\]</sup> ③ 一床。谚曰：～儿女，不如半途夫妻。<sup>\[兴化\]</sup>  
@@ -1781,7 +1781,7 @@
 1. 【[满七](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_qieh.md#满七)】`mun3 qieh7` <sup>[东台]</sup> 也叫断七。人死后七个七的祭祀活动结束。  
 1. 【[满三朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_saen_zho.md#满三朝)】`mun3 saen1 zho1` <sup>[东台]</sup> 即小孩出生已三日。  
 1. 【[满师](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_shr.md#满师)】`mun3 shr1` <sup>[东台]</sup> 学徒学习期满，出师。  
-1. 【[满塘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_tan_r.md#满塘<sub>儿</sub>)】`mun3 tan2 r` <small>/mʊ̃3 tʰã2 ɚ/<sup>如皋</sup></small> ① 见“盖塘儿”。<sup>\[如皋\]</sup> ② 打塘儿施肥盖土。<sup>\[如皋\]</sup>  
+1. 【[满塘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_tan_r.md#满塘<sub>儿</sub>)】`mun3 tan2 r` <small>/mʊ̃3 tʰa˞2/<sup>如皋</sup></small> ① 见“盖塘儿”。<sup>\[如皋\]</sup> ② 打塘儿施肥盖土。<sup>\[如皋\]</sup>  
 1. 【[满天星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_tin_xien.md#满天星)】`mun3 tin1 xien1` <small>/mũ3 tʰiɪ̃1 ɕin1/<sup>兴化</sup>, /mʊ̃3 tʰĩ1 ɕiəŋ1/<sup>如皋</sup></small> ① 满天星光闪烁，表示没有云雾，天气晴朗。<sup>\[如东\]</sup> ② 比喻到处都散布着或摆放着东西。<sup>\[如东\]</sup>：操场上的脚踏车～。<sup>\[如东\]</sup> ③ 指无月晴空。<sup>\[如皋\]</sup> ④ 指一种焰火。<sup>\[如皋\]</sup> ⑤ 抓么儿一法，么儿散开。<sup>\[如皋\]</sup> ⑥ （戏）茶叶末：～的茶泡啊一壶，喝得有滋有味的。<sup>\[兴化\]</sup>  
 1. 【[满杌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_veh.md#满杌)】`mun3 veh8` <sup>[如皋]</sup> 正方面大杌子。多为两张，放在床前踏板两端，结婚“坐富贵”用它，又作床头柜用。  
 1. 【[满心满意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_xien_mun_i.md#满心满意)】`mun3 xien1 mun3 i5` <small>/mũ3 ɕin1 mũ3 i5/<sup>兴化</sup></small> ① 非常满足。<sup>\[东台\]</sup> ② 一心一意：我～的想帮忙，就是力不从心。<sup>\[兴化\]</sup>  
@@ -1801,7 +1801,7 @@
 1. 【[磨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun.md#磨)】`mun6` <sup>[泰州]</sup> ① （mu2，mu6，muh8，mun6这几个音都有类似的意思，一点一点地移动） ② 转动，移动物体：（拍照时）老李的脸捱老钱挡住啊，身子向东边～啊子。｜画框子东头有点矮，你稍微想上～点ㄦ。 ③ 挑担之时，将肩上的扁担从肩的一侧转移到肩的另一侧，使一侧的肩得到休息：把担子从正肩～啊反肩上来。 ④ 双手抬起沉重粗笨之物一边，移动物体：你俫把这块大石头～啊路边上去。 ⑤ 向人借钱：他家家里装修跟老王～啊两万块钱。 ⑥ 岗位变动：老李是下半年从副处长～啊处长的。｜他到财政局之前就已经～过啊三个单位。  
 1. 【[蹒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun.md#蹒)】`mun6` <sup>[东台]</sup> ① 挪动身体：请你老人家～下子。 ② ［喻］指工作岗位变动：他想～个位子。  
 1. 【[蹒榫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_xyen.md#蹒榫)】`mun6 xyen3` <sup>[东台]</sup> 脱臼，又称关节脱位。  
-1. 【[镘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_r.md#镘<sub>儿</sub>)】`mun6 r` <small>/mʊ̃1 ɚ/<sup>如皋</sup></small> ① 硬币无字的一面。有字的一面叫“字儿”。 ② ～（佬儿）：硬币有图案的一面。与有字的一面“字儿（猫儿）”相对。<sup>\[如皋\]</sup>  
+1. 【[镘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_r.md#镘<sub>儿</sub>)】`mun6 r` <small>/mʊ˞1/<sup>如皋</sup></small> ① 硬币无字的一面。有字的一面叫“字儿”。 ② ～（佬儿）：硬币有图案的一面。与有字的一面“字儿（猫儿）”相对。<sup>\[如皋\]</sup>  
 1. 【[𦔔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun.md#𦔔)】`mun6` <sup>[如皋]</sup> 旧式用牛拉刮平水田的大型农具，用一根约一丈长的杉木削成，牛在水田中牵引时，人立其上。又作踏水者的“扶手”。  
 1. 【[𦔔田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_tin.md#𦔔田)】`mun6 tin2` <sup>[如皋]</sup> 使牛拉刮平水田。分“头𦔔、二𦔔”。  
 **[▲](#音序检索)**  

@@ -12,7 +12,7 @@
 1. 【[余多滞少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_du_chr_sho.md#余多滞少)】`y2 du1 chr5 sho3` <sup>[兴化]</sup> 指挑拣后剩下的：这筐苹果由你们先拿，～全把我。  
 1. 【[余外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_vae.md#余外)】`y2 vae6` <sup>[兴化]</sup> 除此之外：“上头除掉姑老爷，就是于舅太爷一位，～的人都越不过我的头去。”（《官场现形记》五九）  
 1. 【[余蓄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_xioh.md#余蓄)】`y2 xioh7` <sup>[兴化]</sup> 积存的钱财：老恒财家手底好，除了放债，做粮行的资金外，还有～……（马春阳《陈大年一家人》）》  
-1. 【[围袈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_ga_r.md#围袈<sub>儿</sub>)】`y2 ga1 r` <small>/y2 ka1 ɚ/<sup>如皋</sup></small> ① 系在胸前、腰部的护脏布。<sup>\[如皋\]</sup> ② 小孩用的围嘴。<sup>\[如皋\]</sup>  
+1. 【[围袈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_ga_r.md#围袈<sub>儿</sub>)】`y2 ga1 r` <small>/y2 ka˞1/<sup>如皋</sup></small> ① 系在胸前、腰部的护脏布。<sup>\[如皋\]</sup> ② 小孩用的围嘴。<sup>\[如皋\]</sup>  
 1. 【[围腰<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_io_r.md#围腰<sub>儿</sub>)】`y2 io1 r` <sup>[如皋]</sup> 系在腰部护脏的布兜。  
 1. 【[围裙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_qyen.md#围裙)】`y2 qyen2` <sup>[如皋]</sup> 围裙。  
 1. 【[圩田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_tin.md#圩田)】`y2 tin2` <sup>[如皋]</sup> 江边筑圩围垦的田。  
@@ -140,7 +140,7 @@
 1. 【[芋头盒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_teu_huh_zz.md#芋头盒子)】`y6 teu huh8 zz` <sup>[东台]</sup> 芋头硕大的叶子。  
 1. 【[芋头老头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_teu_lo_teu.md#芋头老头)】`y6 teu lo3 teu` <sup>[如皋]</sup> 芋的原栽块茎，食时口感欠佳。  
 1. 【[芋头伢子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_teu_nga_zz.md#芋头伢子)】`y6 teu nga2 zz` <sup>[如皋]</sup> 见“芋头子儿”。  
-1. 【[芋头子<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_teu_zz_r.md#芋头子<sub>儿</sub>)】`y6 teu zz3 r` <small>/y6 tʰɤ t͡sɿ3 ɚ/<sup>兴化</sup>, /y1 tʰei t͡sɿ3 ɚ/<sup>如皋</sup></small> ① 芋的新生块茎。食时口感好。<sup>\[如皋\]</sup> ② 芋头块茎主体以外从生的小子儿。<sup>\[兴化\]</sup>  
+1. 【[芋头子<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_teu_zz_r.md#芋头子<sub>儿</sub>)】`y6 teu zz3 r` <small>/y6 tʰɤ t͡sɿ3 ɚ/<sup>兴化</sup>, /y1 tʰei t͡sɿ˞3/<sup>如皋</sup></small> ① 芋的新生块茎。食时口感好。<sup>\[如皋\]</sup> ② 芋头块茎主体以外从生的小子儿。<sup>\[兴化\]</sup>  
 1. 【[芋头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_teu.md#芋头)】`y6 teu2-3` <sup>[泰县]</sup> 芋艿。  
 1. 【[遇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y.md#遇)】`y6` <small>/y6/<sup>兴化</sup>, /y1/<sup>如皋</sup></small> ① 相遇<sup>\[如皋\]</sup>：～到，～头。<sup>\[如皋\]</sup> ② 往来相处<sup>\[如皋\]</sup>：我俫常～。<sup>\[如皋\]</sup> ③ 相处<sup>\[兴化\]</sup>：这个人难玩，不大好～。<sup>\[兴化\]</sup> ④ 相见<sup>\[兴化\]</sup>：你不听人劝告，以后还～不～？<sup>\[兴化\]</sup> ⑤ 相处，共事<sup>\[泰州\]</sup>：这种人没得～头，你让他今后同旁人～吧。<sup>\[泰州\]</sup>｜大家有话好好说，不要伤吖和气，一个单位的人今后还～不～？<sup>\[泰州\]</sup>  
 1. 【[遇到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_do.md#遇到)】`y6 do` <sup>[兴化]</sup> ① 碰见：我正好在学校门口～他。 ② （东南部分村镇语）被：他～人家一顿骂。  
@@ -154,11 +154,11 @@
 1. 【[曰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/ya.md#曰)】`ya1` <small>/ya1/<sup>兴化</sup></small> ① 说<sup>\[东台\]</sup>：人不能“当面说好话，背后念子～”。<sup>\[东台\]</sup> ② 叫做<sup>\[东台\]</sup>：台城南50华里，有镇～富安。<sup>\[东台\]</sup> ③ “说”的隐语<sup>\[兴化\]</sup>：止～；不～；跟他～啊子。<sup>\[兴化\]</sup>  
 1. 【[曰撇子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/ya_pih_zz.md#曰撇子)】`ya1 pih7 zz` <sup>[兴化]</sup> “白”的隐语：玩～（白吃、白拿）。  
 1. 【[𦚢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/ya.md#𦚢)】`ya1` <small>/ya1/<sup>兴化</sup>, /ya1/<sup>如皋</sup>, /ya1/<sup>泰县</sup></small> ① 天冷或其他原因使手指弯曲，不听使唤。 ② 手足曲病<sup>\[如皋\]</sup>：～手儿；手爪儿发～。<sup>\[如皋\]</sup> ③ 麻木、发僵<sup>\[如皋\]</sup>：嘴边儿挨冻吖发咖～。<sup>\[如皋\]</sup> ④ 手足关节僵直<sup>\[兴化\]</sup>：～膀子；～爪儿。《广韵·戈韵》於靴切<sup>\[兴化\]</sup>｜“～，～𩨷手足病。”𩨷（𩨭），去靴切。<sup>\[兴化\]</sup> ⑤ 手足弯曲：～脖子儿挎笿子。<sup>\[泰县\]</sup> ⑥ 手足弯曲僵硬不能伸直<sup>\[泰州\]</sup>：天多冷吖，手都冻吖～啊。<sup>\[泰州\]</sup> ⑦ 泛指身体某个部位弯曲僵硬不能伸直<sup>\[泰州\]</sup>：他的腰～啊唻，头抬不起来。<sup>\[泰州\]</sup>｜这小伙头～啊，转不过来。<sup>\[泰州\]</sup>  
-1. 【[𦚢膀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/ya_ban_r.md#𦚢膀<sub>儿</sub>)】`ya1 ban3 r` <small>/ya1 pã3 ɚ/<sup>如皋</sup>, /ya1 pɑŋ3 ɚ/<sup>泰县</sup></small> ① 见“𦚢手儿”。<sup>\[如皋\]</sup> ② 膀儿手臂弯曲的人。<sup>\[泰县\]</sup>  
+1. 【[𦚢膀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/ya_ban_r.md#𦚢膀<sub>儿</sub>)】`ya1 ban3 r` <small>/ya1 pa˞3/<sup>如皋</sup>, /ya1 pɑŋ3 ɚ/<sup>泰县</sup></small> ① 见“𦚢手儿”。<sup>\[如皋\]</sup> ② 膀儿手臂弯曲的人。<sup>\[泰县\]</sup>  
 1. 【[𦚢膀<sub>儿</sub>打妈妈——甩开手做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/ya_ban_r_da_ma_ma_shuae_kae_sheu_zu.md#𦚢膀<sub>儿</sub>打妈妈——甩开手做)】`ya1 ban3 r da3 ma1 ma1 shuae3 kae1 sheu3 zu5` <sup>[东台]</sup>   
 1. 【[𦚢𩨭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/ya_qya.md#𦚢𩨭)】`ya1 qya1` 手足弯曲。见“𦚢”。  
 1. 【[𦚢手别脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/ya_sheu_bih_jiah.md#𦚢手别脚)】`ya1 sheu3 bih7 jiah7` <sup>[兴化]</sup> ① 手脚不灵活。 ② 举手投足姿势不正确：～的。  
-1. 【[𦚢手<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/ya_sheu_r.md#𦚢手<sub>儿</sub>)】`ya1 sheu3 r` <small>/ya1 sei3 ɚ/<sup>如皋</sup></small> ① 手臂畸型，或指人。<sup>\[如皋\]</sup> ② 趣指不会或不肯做事的人。<sup>\[如皋\]</sup> ③ 手指或手臂残疾。<sup>\[如东\]</sup> ④ 手指或手臂有残疾的人。也叫涎（𣹺）子。<sup>\[如东\]</sup>  
+1. 【[𦚢手<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/ya_sheu_r.md#𦚢手<sub>儿</sub>)】`ya1 sheu3 r` <small>/ya1 sei˞3/<sup>如皋</sup></small> ① 手臂畸型，或指人。<sup>\[如皋\]</sup> ② 趣指不会或不肯做事的人。<sup>\[如皋\]</sup> ③ 手指或手臂残疾。<sup>\[如东\]</sup> ④ 手指或手臂有残疾的人。也叫涎（𣹺）子。<sup>\[如东\]</sup>  
 1. 【[𦚢手𦚢脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/ya_sheu_ya_jiah.md#𦚢手𦚢脚)】`ya1 sheu3 ya1 jiah7` ① 做事不利落。<sup>\[如东\]</sup>：～的，怎吖得快？<sup>\[如东\]</sup> ② 做事动作不灵敏（𦚢，《广韵》“於靴切手足曲病。”）<sup>\[东台\]</sup>：天又不曾太冷，你怎吖～，做事不刷脱？<sup>\[东台\]</sup>  
 1. 【[挼将](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/ya_jian.md#挼将)】`ya2 jian` <sup>[东台]</sup> 势头衰减、体质弱的趋向：他年纪增大，精气神也不如以前吖，渐渐～啊！｜你以前能喝半斤酒，今吖只喝这一点点，怎吖～吖啦？  
 1. 【[曰口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/ya_keu.md#曰口)】`ya5 keu` <sup>[如皋]</sup> 言下之意，言外之音：听他的～是想买二胡。  
@@ -205,7 +205,7 @@
 1. 【[晕汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_tan.md#晕汤)】`yen6 tan1` <sup>[如皋]</sup> 公共浴室洗澡时发生的玄晕、昏迷等病态。  
 1. 【[晕堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_tan.md#晕堂)】`yen6 tan2` <sup>[东台]</sup> 在浴室中洗澡因闷的时间过长缺氧而晕倒。也作“晕堂子”“晕汤”“晕池”。  
 1. 【[晕头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_teu.md#晕头)】`yen6 teu` <sup>[如东]</sup> 由于细菌感染在皮肤表面出现一种圆形的淡红色的肿块。  
-1. 【[晕枣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_zo_r.md#晕枣<sub>儿</sub>)】`yen6 zo3 r` <small>/yn6 t͡sɔ3 ɚ/<sup>兴化</sup>, /yəŋ1 t͡sɔ3 ɚ/<sup>如皋</sup></small> ① 指糊涂人。<sup>\[如皋\]</sup> ② （讽）指糊涂人<sup>\[兴化\]</sup>：他老婆怀孕三个月都不晓得，真是个～。也说“梦枣儿”。<sup>\[兴化\]</sup>  
+1. 【[晕枣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_zo_r.md#晕枣<sub>儿</sub>)】`yen6 zo3 r` <small>/yn6 t͡sɔ3 ɚ/<sup>兴化</sup>, /yəŋ1 t͡sɔ˞3/<sup>如皋</sup></small> ① 指糊涂人。<sup>\[如皋\]</sup> ② （讽）指糊涂人<sup>\[兴化\]</sup>：他老婆怀孕三个月都不晓得，真是个～。也说“梦枣儿”。<sup>\[兴化\]</sup>  
 1. 【[晕澡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_zo.md#晕澡)】`yen6 zo3` <sup>[如皋]</sup> 见“晕汤”。  
 1. 【[运脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_jiah.md#运脚)】`yen6 jiah7` <sup>[兴化]</sup> 车船费及装卸费用的总称：东北的黄豆虽然比我俫这块便宜些，～一加就没得甚的赚头啊。  
 1. 【[运气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_qi.md#运气)】`yen6 qi` <sup>[东台]</sup> 好运，幸运：碰～。  

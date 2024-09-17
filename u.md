@@ -10,7 +10,7 @@
 1. 【[屙㞎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_ba.md#屙㞎)】`u1 ba3` <sup>[东台]</sup> 解大便。多用于小孩。  
 1. 【[屙㞎㞎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_ba_ba.md#屙㞎㞎)】`u1 ba3 ba` <small>/o1 pa3 pa/<sup>兴化</sup>, /ʊ1 pa3 pa/<sup>如皋</sup></small> ① 解大便 ② 排泄粪便。<sup>\[如皋\]</sup> ③ 排泄大便。<sup>\[如东\]</sup> ④ （儿童语）排泄大便。也说“屙㞎”。<sup>\[兴化\]</sup>  
 1. 【[屙调](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_dio.md#屙调)】`u1 dio5` <sup>[如东]</sup> 不协调，不能办事。  
-1. 【[屙冻冻丁<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_don_don_dien_r.md#屙冻冻丁<sub>儿</sub>)】`u1 don5 don5 dien1 r` <small>/ʊ1 tɔŋ5 tɔŋ5 tiəŋ1 ɚ/<sup>如皋</sup></small> ① 大便中有胶状黏液，是菌痢症状。<sup>\[如皋\]</sup> ② 指小孩大便稀且有黏液。<sup>\[东台\]</sup>  
+1. 【[屙冻冻丁<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_don_don_dien_r.md#屙冻冻丁<sub>儿</sub>)】`u1 don5 don5 dien1 r` <small>/ʊ1 tɔŋ5 tɔŋ5 tiə˞1/<sup>如皋</sup></small> ① 大便中有胶状黏液，是菌痢症状。<sup>\[如皋\]</sup> ② 指小孩大便稀且有黏液。<sup>\[东台\]</sup>  
 1. 【[屙肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_dv_zz.md#屙肚子)】`u1 dv3 zz` <sup>[兴化]</sup> 腹泻。  
 1. 【[屙烂的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_laen_dii.md#屙烂的)】`u1 laen6 dii` <sup>[东台]</sup> ［喻］不讲信用，推卸责任：那家伙借钱时说得的的刮刮，哪晓得到期不还，还说咖多少可怜话，～，真拿他没办法。  
 1. 【[屙面筋屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_min_jien_shr.md#屙面筋屎)】`u1 min6 jien1 shr3` <small>/o1 miɪ̃6 t͡ɕin1 sɿ3/<sup>兴化</sup>, /o1 miɪ̃1 t͡ɕiŋ1 sɿ3/<sup>泰县</sup></small> ① 指人说话、办事不干脆<sup>\[兴化\]</sup>：你到底同意不同意，赶快说。覅～！<sup>\[兴化\]</sup> ② 不干脆：你去还是不去，赶快定下来，不要～。<sup>\[泰县\]</sup>  

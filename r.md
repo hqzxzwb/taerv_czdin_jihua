@@ -177,7 +177,7 @@
 1. 【[人裔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_i.md#人裔)】`ren2 i6` <sup>[如东]</sup> 家族相沿代数：许家住啊南坎已经有五代～啊。  
 1. 【[人样<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_ian_r.md#人样<sub>儿</sub>)】`ren2 ian6 r` <sup>[如东]</sup> 身材标准漂亮的人：他长得像个～。  
 1. 【[人一走，茶就凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_ieh_zeu_cha.md#人一走，茶就凉)】`ren2 ieh7 zeu3 cha2 qieu6 lian2` <small>/ɻə̃2 iʔ7 t͡sɤɯ3 t͡sʰa2 t͡ɕʰiɤɯ1 liɑŋ2/<sup>泰兴</sup></small> 指两人的关系脆弱，一分手就冷淡了。乡人尚有“人在人情在，人去两分开”之说。<sup>\[泰兴\]</sup>  
-1. 【[人影<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_ien_r.md#人影<sub>儿</sub>)】`ren2 ien3 r` <small>/ɻəŋ2 iəŋ3 ɚ/<sup>如皋</sup></small> ① 某人闪现过。<sup>\[如皋\]</sup> ② 身影。<sup>\[如皋\]</sup>  
+1. 【[人影<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_ien_r.md#人影<sub>儿</sub>)】`ren2 ien3 r` <small>/ɻəŋ2 iə˞3/<sup>如皋</sup></small> ① 某人闪现过。<sup>\[如皋\]</sup> ② 身影。<sup>\[如皋\]</sup>  
 1. 【[人又懦惰货又重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_ieu_nuh_du_hu_ieu_chon.md#人又懦惰货又重)】`ren2 ieu6 nuh8 du5 hu5 ieu6 chon6` <sup>[东台]</sup> 人的能力差，工作负荷又重。  
 1. 【[人烟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_in.md#人烟)】`ren2 in1` <sup>[泰兴]</sup> ① 住家的炊烟，比喻人家 ② 传世的子孙：我家在泰兴有三十代人烟  
 1. 【[人要长交，账要短结](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_io_chan_jio.md#人要长交，账要短结)】`ren2 io5 chan2 jio1 zhan5 io5 dun3 jih7` <sup>[泰兴]</sup> 谓人与人相处要持久，但相互的经济来往要清楚明白，及时结清，时间长了，容易产生误会、矛盾。  
@@ -459,7 +459,7 @@
 1. 【[肉板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_baen.md#肉板)】`roh8 baen3` <sup>[如东]</sup> 帆船眼板下边的一块很宽的木板，叫肉板。  
 1. 【[肉膊<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_bah_r.md#肉膊<sub>儿</sub>)】`roh8 bah7 r` <sup>[如皋]</sup> 光着上身。  
 1. 【[肉膊<sub>儿</sub>雄鸡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_bah_r_ion_ji_r.md#肉膊<sub>儿</sub>雄鸡<sub>儿</sub>)】`roh8 bah7 r ion2 ji1 r` <sup>[如皋]</sup> 刚长大羽而体羽不全的小公鸡。  
-1. 【[肉包<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_bo_r.md#肉包<sub>儿</sub>)】`roh8 bo1 r` <small>/ɻɔʔ8 pɔ1 ɚ/<sup>如皋</sup></small> ① 肉包子 ② 指两腮、嘴巴儿：他是个～脸。<sup>\[如皋\]</sup>  
+1. 【[肉包<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_bo_r.md#肉包<sub>儿</sub>)】`roh8 bo1 r` <small>/ɻɔʔ8 pɔ˞1/<sup>如皋</sup></small> ① 肉包子 ② 指两腮、嘴巴儿：他是个～脸。<sup>\[如皋\]</sup>  
 1. 【[肉包子打狗——有去无回](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_bo_zz_da_geu_ieu_qy_v_huei.md#肉包子打狗——有去无回)】`roh8 bo1 zz da3 geu3 ieu3 qy5 v2 huei2` <sup>[东台]</sup>   
 1. 【[肉字底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_cz_di.md#肉字底)】`roh8 cz6 di3` <sup>[如皋]</sup> ① 月字底：臂肾胃。 ② 肉字底：胬胔脔。  
 1. 【[肉墩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_den_zz.md#肉墩子)】`roh8 den1 zz` <small>/ɻɔʔ8 təŋ1 t͡sɿ/<sup>如皋</sup></small> ① 状长得壮实。<sup>\[如皋\]</sup> ② 切肉的树墩。<sup>\[如东\]</sup> ③ 比喻身体矮而胖的人。<sup>\[如东\]</sup>  
@@ -483,7 +483,7 @@
 1. 【[肉磙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_guen_zz.md#肉磙子)】`roh8 guen3 zz` <sup>[如皋]</sup> 状体肉厚实：黑鱼是～；伢儿养得像～。  
 1. 【[肉豁豁的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_huaeh_huaeh_dii.md#肉豁豁的)】`roh8 huaeh7 huaeh7 dii` <sup>[如皋]</sup> 见“肉刮刮的”。  
 1. 【[肉油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_ieu.md#肉油)】`roh8 ieu2` <sup>[如皋]</sup> 用猪肥肉熬制的油。品质次于猪板油：色略黄，夏日易融。  
-1. 【[肉脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_jiah_r.md#肉脚<sub>儿</sub>)】`roh8 jiah7 r` <small>/ɻɔʔ8 t͡ɕiaʔ7 ɚ/<sup>如皋</sup></small> ① 赤脚。<sup>\[如皋\]</sup> ② 笨拙，笨拙者：他是个～，光是做～事。<sup>\[如皋\]</sup> ③ 赤裸的脚。<sup>\[东台\]</sup>  
+1. 【[肉脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_jiah_r.md#肉脚<sub>儿</sub>)】`roh8 jiah7 r` <small>/ɻɔʔ8 t͡ɕia˞7/<sup>如皋</sup></small> ① 赤脚。<sup>\[如皋\]</sup> ② 笨拙，笨拙者：他是个～，光是做～事。<sup>\[如皋\]</sup> ③ 赤裸的脚。<sup>\[东台\]</sup>  
 1. 【[肉酱子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_jian_zz.md#肉酱子)】`roh8 jian5 zz` <sup>[如东]</sup> ① 指大小便：随便拉～，不卫生。 ② 比喻没有能力的人：这个～能做甚的事！  
 1. 【[肉举动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_jy_ton.md#肉举动)】`roh8 jy3 ton` <sup>[如皋]</sup> 肌肉不随意地跳动，面神经痉挛者的脸部常见到。  
 1. 【[肉块<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_kuae_r.md#肉块<sub>儿</sub>)】`roh8 kuae5 r` <sup>[如东]</sup> 剁成的小肉块儿。比喻小孩子。对小孩的呢称：我的～，你过来。  
@@ -551,7 +551,7 @@
 1. 【[肉咂咂的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_zuaeh_zuaeh_dii.md#肉咂咂的)】`roh8 zuaeh zuaeh dii` <sup>[如皋]</sup> 见“roh8 zuaeh”。  
 1. 【[肉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_zz.md#肉子)】`roh8 zz` <small>/lɔʔ8 t͡sɿ/<sup>兴化</sup>, /ɻɔʔ8 t͡sɿ/<sup>如皋</sup></small> ① 皮壳内部的：虾～、螃蟹～。<sup>\[如皋\]</sup> ② 纯肉质：鱼～。<sup>\[如皋\]</sup> ③ 某些植物果实去壳去核部分<sup>\[兴化\]</sup>：圆眼～<sup>\[兴化\]</sup>｜荔枝～。<sup>\[兴化\]</sup> ④ 某些动物去壳或剔刺后的部分<sup>\[兴化\]</sup>：螺螺～鱼～。<sup>\[兴化\]</sup>  
 1. 【[肉子心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_zz_xien.md#肉子心)】`roh8 zz xien1` <sup>[东台]</sup> ［喻］最中心、最宝贵的部分：国贸周围是台城的～。  
-1. 【[肉子心<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_zz_xien_r.md#肉子心<sub>儿</sub>)】`roh8 zz xien1 r` <small>/lɔʔ8 t͡sɿ ɕin1 ɚ/<sup>兴化</sup>, /ɻɔʔ8 t͡sɿ ɕiəŋ1 ɚ/<sup>如皋</sup></small> ① 精华部分：这是选的黄英菜的～。<sup>\[如皋\]</sup> ② 西瓜中最甜部分。<sup>\[兴化\]</sup> ③ （借）物品内部的精华。<sup>\[兴化\]</sup>  
+1. 【[肉子心<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_zz_xien_r.md#肉子心<sub>儿</sub>)】`roh8 zz xien1 r` <small>/lɔʔ8 t͡sɿ ɕin1 ɚ/<sup>兴化</sup>, /ɻɔʔ8 t͡sɿ ɕiə˞1/<sup>如皋</sup></small> ① 精华部分：这是选的黄英菜的～。<sup>\[如皋\]</sup> ② 西瓜中最甜部分。<sup>\[兴化\]</sup> ③ （借）物品内部的精华。<sup>\[兴化\]</sup>  
 1. 【[褥疮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_chuan.md#褥疮)】`roh8 chuan1` <small>/ɻɔʔ8 t͡sʰuã1/<sup>如皋</sup></small> ① 见“印疮”。<sup>\[如皋\]</sup> ② 长时间躺在床上，血管受压，血液循环不好，发生溃烂，叫做生褥疮。也称印疮。<sup>\[如东\]</sup> ③ 常见于重病长期卧床者，多发于腰、臀、肩、肘和足跟。<sup>\[东台\]</sup>  
 1. 【[褥单](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_daen.md#褥单)】`roh8 daen1` <sup>[东台]</sup> 蒙在褥子上的布。  
 1. 【[褥子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_zz.md#褥子)】`roh8 zz` <small>/ɻɔʔ8 t͡sɿ/<sup>如皋</sup></small> ① 身下的被子。<sup>\[如皋\]</sup> ② 垫在床铺上的棉胎。<sup>\[如东\]</sup> ③ 坐卧的垫具，一般用棉花胎制成。<sup>\[东台\]</sup>  

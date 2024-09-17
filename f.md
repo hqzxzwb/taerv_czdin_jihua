@@ -363,7 +363,7 @@
 1. 【[方丈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_chan.md#方丈)】`fan1 chan6` <sup>[如东]</sup> ① 寺庙里的主管，称方丈。 ② 寺庙主管居住的地方，称方丈。  
 1. 【[方尺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_cheh.md#方尺)】`fan1 cheh7` <sup>[如东]</sup> 工具。三角形，直角边外伸，成90°，似尾，用以治方角或直线。  
 1. 【[方方<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_fan_r.md#方方<sub>儿</sub>)】`fan1 fan r` <sup>[泰县]</sup> 方方正正。  
-1. 【[方方<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_fan_r.md#方方<sub>儿</sub>)】`fan1 fan1 r` <small>/fã1 fã1 ɚ/<sup>如皋</sup></small> ① 风筝的一种。一张四方形的纸，用茅草叶穿成斜十字，中间系一根系儿，即可放上天。<sup>\[如东\]</sup> ② 小孩看图识字的一套卡片，正面是图画，反面是文字。<sup>\[如皋\]</sup> ③ 抗战及解放战争初期，民间暗指新四军为～（或伸四个指头）。<sup>\[如皋\]</sup>  
+1. 【[方方<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_fan_r.md#方方<sub>儿</sub>)】`fan1 fan1 r` <small>/fã1 fa˞1/<sup>如皋</sup></small> ① 风筝的一种。一张四方形的纸，用茅草叶穿成斜十字，中间系一根系儿，即可放上天。<sup>\[如东\]</sup> ② 小孩看图识字的一套卡片，正面是图画，反面是文字。<sup>\[如皋\]</sup> ③ 抗战及解放战争初期，民间暗指新四军为～（或伸四个指头）。<sup>\[如皋\]</sup>  
 1. 【[方方斩斩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_fan_zhaen_zhaen.md#方方斩斩)】`fan1 fan1 zhaen3 zhaen3` <sup>[如皋]</sup> 棱角分明的方形、方体。  
 1. 【[方方正正](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_fan_zhen_zhen.md#方方正正)】`fan1 fan1 zhen5 zhen5` <sup>[如皋]</sup> 棱角分明的方形、方体。  
 1. 【[方样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_ian.md#方样)】`fan1 ian` <sup>[兴化]</sup> 性情乖戾、悭吝：他的东西别人碰不得，～吖没魂。  
@@ -782,7 +782,7 @@
 1. 【[疯猫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_mo_r.md#疯猫<sub>儿</sub>)】`fon1 mo2 r` <sup>[如皋]</sup> 患狂犬病的猫。  
 1. 【[疯吖精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_nga_jien.md#疯吖精)】`fon1 nga jien1` <sup>[东台]</sup> 形容某种欲望过分强烈，几乎失去理智。  
 1. 【[疯吖心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_nga_xien.md#疯吖心)】`fon1 nga xien1` <sup>[如皋]</sup> 全身心投入，不顾其他：他耍子啊～，忘掉家来啊！  
-1. 【[疯婆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_pu_r.md#疯婆<sub>儿</sub>)】`fon1 pu2 r` <small>/fɔŋ1 pʰʊ2 ɚ/<sup>如皋</sup>, /foŋ1 pʰo2 ɚ/<sup>泰县</sup></small> ① 不稳重的女人。<sup>\[如东\]</sup> ② 昵指过分活泼带点粗狂的女性，多指小女孩。<sup>\[如皋\]</sup> ③ 不稳重的妇女<sup>\[泰县\]</sup>：这人是个～。<sup>\[泰县\]</sup>  
+1. 【[疯婆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_pu_r.md#疯婆<sub>儿</sub>)】`fon1 pu2 r` <small>/fɔŋ1 pʰʊ˞2/<sup>如皋</sup>, /foŋ1 pʰo2 ɚ/<sup>泰县</sup></small> ① 不稳重的女人。<sup>\[如东\]</sup> ② 昵指过分活泼带点粗狂的女性，多指小女孩。<sup>\[如皋\]</sup> ③ 不稳重的妇女<sup>\[泰县\]</sup>：这人是个～。<sup>\[泰县\]</sup>  
 1. 【[疯婆<sub>儿</sub>搂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_pu_r_leu.md#疯婆<sub>儿</sub>搂)】`fon1 pu2 r leu3` <sup>[如东]</sup> 轻狂的女人：不要像个～是的。  
 1. 【[疯情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_qien.md#疯情)】`fon1 qien2` <sup>[如皋]</sup> 母畜发情时狂燥不安的样子。  
 1. 【[疯事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_shr.md#疯事)】`fon1 shr6` <sup>[如皋]</sup> 见“疯”。指小孩贪玩无节制。  
@@ -899,7 +899,7 @@
 1. 【[扶手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_sheu.md#扶手)】`fv2 sheu3` <sup>[如皋]</sup> ① 脚踏式水车、碓臼上供劳作者扶手的横木。 ② 椅把子。  
 1. 【[扶手撮脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_sheu_cuh_jiah.md#扶手撮脚)】`fv2 sheu3 cuh7 jiah7` <small>/fu2 sɤ3 t͡sʰuʔ7 t͡ɕiaʔ7/<sup>兴化</sup>, /fu2 sei3 t͡sʰʊʔ7 t͡ɕiaʔ7/<sup>如皋</sup></small> 协助，做辅助性工作<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup>：我老啊啦，不能唱主角儿啦，只能～。<sup>\[如皋\]</sup>｜大的事情干不了，～还是能帮你做些。<sup>\[东台\]</sup>｜我大事做不来，只能接接拿拿，～的。<sup>\[兴化\]</sup>  
 1. 【[扶手<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_sheu_r.md#扶手<sub>儿</sub>)】`fv2 sheu3 r` <sup>[如皋]</sup> 椅把子  
-1. 【[扶手<sub>儿</sub>不动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_sheu_r_beh_ton.md#扶手<sub>儿</sub>不动)】`fv2 sheu3 r beh7 ton6` <small>/fu2 sei3 ɚ pəʔ7 tʰɔŋ1/<sup>如皋</sup></small> 手相扶着，什么事也不做。<sup>\[如东\]</sup><sup>\[如皋\]</sup>：一天到晚～。<sup>\[如东\]</sup>  
+1. 【[扶手<sub>儿</sub>不动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_sheu_r_beh_ton.md#扶手<sub>儿</sub>不动)】`fv2 sheu3 r beh7 ton6` <small>/fu2 sei˞3 pəʔ7 tʰɔŋ1/<sup>如皋</sup></small> 手相扶着，什么事也不做。<sup>\[如东\]</sup><sup>\[如皋\]</sup>：一天到晚～。<sup>\[如东\]</sup>  
 1. 【[扶梯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_ti.md#扶梯)】`fv2 ti1` <small>/fu2 tʰəi1/<sup>兴化</sup></small> ① 梯子，多指带扶手的楼梯。<sup>\[兴化\]</sup> ② 有护栏、扶手的楼梯。<sup>\[泰州\]</sup>  
 1. 【[扶相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_xian.md#扶相)】`fv2 xian5` <sup>[如皋]</sup> ① 奉承、讨好。 ② 敷衍搪塞。 ③ 带贬义的支持。  
 1. 【[扶终](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_zhon.md#扶终)】`fv2 zhon1` <sup>[东台]</sup> 专门帮助人家收敛尸体，并负责将棺柩抬往墓地安葬的人。亦称“脚班子”。现发展为丧事一条龙服务。  

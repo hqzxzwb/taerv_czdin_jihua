@@ -42,7 +42,7 @@
 1. 【[耳门子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_men_zz.md#耳门子)】`er3 men2 zz` <sup>[兴化]</sup> 大门旁的小门：工厂上班时间，只能从～进出。  
 1. 【[耳毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_mo.md#耳毛)】`er3 mo2` <sup>[如皋]</sup> 耳道中的绒毛或老年时的长毫。  
 1. 【[耳筢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_pa.md#耳筢)】`er3 pa2` <small>/ɚ3 pʰa2/<sup>兴化</sup></small> 掏耳垢用的小勺。<sup>\[兴化\]</sup><sup>\[泰州\]</sup>  
-1. 【[耳筢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_pa_r.md#耳筢<sub>儿</sub>)】`er3 pa2 r` <small>/ɚ3 pʰa2 ɚ/<sup>如皋</sup>, /ɚ3 pʰa2 ɚ/<sup>泰县</sup></small> ① 耳挖子。<sup>\[如皋\]</sup> ② 耳勺。<sup>\[泰县\]</sup>  
+1. 【[耳筢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_pa_r.md#耳筢<sub>儿</sub>)】`er3 pa2 r` <small>/ɚ3 pʰa˞2/<sup>如皋</sup>, /ɚ3 pʰa2 ɚ/<sup>泰县</sup></small> ① 耳挖子。<sup>\[如皋\]</sup> ② 耳勺。<sup>\[泰县\]</sup>  
 1. 【[耳痞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_pi.md#耳痞)】`er3 pi3` <sup>[东台]</sup> 耳朵不灵或不太听话了。  
 1. 【[耳屏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_pien.md#耳屏)】`er3 pien2` <sup>[如皋]</sup> 耳门前的小凸起。  
 1. 【[耳虱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_sheh_r.md#耳虱<sub>儿</sub>)】`er3 sheh7 r, er3 sha5 r` 耳屎，耵聍  
@@ -201,7 +201,7 @@
 1. 【[二道贩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_to_faen_zz.md#二道贩子)】`er6 to faen5 zz` <sup>[泰兴]</sup> 从贩货者手中买下货物后再转手出卖的人：覅望他是个小小的～，一年的收入也相当可观。  
 1. 【[二段](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_tun.md#二段)】`er6 tun6` <sup>[泰县]</sup> 舞龙灯时龙头后的第二个人。  
 1. 【[二碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_un.md#二碗)】`er6 un3` <small>/ɚ6 ũ3/<sup>兴化</sup></small> ① 一种粗瓷饭碗，小于大碗。商品代号“可二”。<sup>\[兴化\]</sup> ② 仅仅小于大碗的碗<sup>\[泰州\]</sup>：他饭量不大，一～饭就够啊唻。<sup>\[泰州\]</sup>  
-1. 【[二碗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_un_r.md#二碗<sub>儿</sub>)】`er6 un3 r` <small>/ɚ1 ʊ̃3 ɚ/<sup>如皋</sup></small> ① 中药每剂应煎二次，第二次煎的药汁称～（与“头碗儿”相对）。<sup>\[如皋\]</sup> ② 居家生活中，比盛菜的大碗小一点，盛饭常用的碗。<sup>\[东台\]</sup>  
+1. 【[二碗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_un_r.md#二碗<sub>儿</sub>)】`er6 un3 r` <small>/ɚ1 ʊ˞3/<sup>如皋</sup></small> ① 中药每剂应煎二次，第二次煎的药汁称～（与“头碗儿”相对）。<sup>\[如皋\]</sup> ② 居家生活中，比盛菜的大碗小一点，盛饭常用的碗。<sup>\[东台\]</sup>  
 1. 【[二五](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_v.md#二五)】`er6 v` <sup>[泰兴]</sup> 傻子，傻里傻气者。犹言“二十五”、“二百五”。贬义：整天的不做事，东游西荡，说话不捉句，活像个～  
 1. 【[二五一凑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_v_ieh_ceu.md#二五一凑)】`er6 v3 ieh7 ceu5` <small>/ɚ6 u3 iəʔ7 t͡sʰɤ5/<sup>兴化</sup>, /ɚ1 ʋu3 iəʔ7 t͡sʰei5/<sup>如皋</sup></small> ① 几种因素凑到一起<sup>\[如皋\]</sup>：他本来就有病，又捱一气，～就倒下来啊。<sup>\[如皋\]</sup> ② 两个数字相凑成整<sup>\[兴化\]</sup>：陈粮藏在夹墙里，自留田收的新稻摺在东房间里，～就够数了。（马春阳《陈大年一家人》）<sup>\[兴化\]</sup> ③ 诸因素凑合<sup>\[兴化\]</sup>：他这几天劳累，又受啊寒凉，～就病倒啊。<sup>\[兴化\]</sup>  
 1. 【[二五两耽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_v_laen_daen.md#二五两耽)】`er6 v3 laen3 daen1` <small>/ɚ6 u3 lɛ̃3 tɛ̃1/<sup>兴化</sup>, /ɚ1 u3 nɛ̃3 tɛ̃1/<sup>泰县</sup></small> ① 因耽搁而错过时机<sup>\[兴化\]</sup>：就这吖～把个婚事拖下来啊。<sup>\[兴化\]</sup> ② 误事、误了双方。<sup>\[泰县\]</sup>  

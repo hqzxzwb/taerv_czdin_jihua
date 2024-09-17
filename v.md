@@ -333,7 +333,7 @@
 1. 【[瓦匠起墙拿的砖——后来居上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_qian_qi_qian_na_dii_zhun_heu_lae_jy_shan.md#瓦匠起墙拿的砖——后来居上)】`va3 qian6 qi3 qian2 na2 dii zhun1 heu6 lae2 jy1 shan6` <sup>[东台]</sup>   
 1. 【[瓦松](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_son.md#瓦松)】`va3 son1` <sup>[如东]</sup> 景天科植物瓦松，也叫瓦花，多年生肉质草本。高约40厘米。茎略斜伸，全体粉绿色。茎叶线形至倒披针形。伞房状圆锥花序。花紫红色。蓇葖果。  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va.md#□)】`va5` <sup>[如皋]</sup> 我、我家。如皋西南乡音。  
-1. 【[凹坎<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_kun_r.md#凹坎<sub>儿</sub>)】`va5 kun3 r` <small>/ʋa5 kʰʊ̃3 ɚ/<sup>如皋</sup></small> ① 河坡在水面以下的凹处。<sup>\[如皋\]</sup> ② 河坡的塌凹处。<sup>\[如皋\]</sup>  
+1. 【[凹坎<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_kun_r.md#凹坎<sub>儿</sub>)】`va5 kun3 r` <small>/ʋa5 kʰʊ˞3/<sup>如皋</sup></small> ① 河坡在水面以下的凹处。<sup>\[如皋\]</sup> ② 河坡的塌凹处。<sup>\[如皋\]</sup>  
 1. 【[凹塘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_tan_r.md#凹塘<sub>儿</sub>)】`va5 tan2 r` <sup>[如皋]</sup> 小的凹陷处：桌面子有个～。  
 1. 【[洼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va.md#洼)】`va5` ① 凹陷 ② 比较浅的水塘，叫做洼。<sup>\[如东\]</sup> ③ 地势较低，相对于高而言。<sup>\[东台\]</sup>  
 1. 【[洼塘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_tan_r.md#洼塘<sub>儿</sub>)】`va5 tan2 r` <sup>[如东]</sup> 低凹的地方。  
@@ -360,9 +360,9 @@
 1. 【[歪歪理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_vae_li.md#歪歪理)】`vae1 vae1 li3` <sup>[东台]</sup> 没有理而强辩有理的话。  
 1. 【[歪嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_zuei.md#歪嘴)】`vae1 zuei3` <sup>[兴化]</sup> 一种暗示性动作：老头说着，把头掉过来，就望着施恩手下的打手～｜你们走唦。（《武松》六）  
 1. 【[歪嘴和尚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_zuei_hu_shan.md#歪嘴和尚)】`vae1 zuei3 hu2 shan` <sup>[兴化]</sup> （讽）常把好事办糟或把好经验学偏的人：他是～念不出真经来。  
-1. 【[𧒘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_r.md#𧒘<sub>儿</sub>)】`vae1 r` <small>/uɛ1 ɚ/<sup>兴化</sup>, /ʋɛ1 ɚ/<sup>如皋</sup>, /ʋe1 ɚ/<sup>泰县</sup></small> ① 贝壳 ② 蛤、蚌之壳。<sup>\[如皋\]</sup> ③ 蛼螯壳儿。<sup>\[如东\]</sup> ④ 贝壳，贝类动物的外壳。<sup>\[东台\]</sup> ⑤ 河蚌，俗名“河𧒘”。<sup>\[兴化\]</sup> ⑥ 河蚌。<sup>\[泰县\]</sup>  
+1. 【[𧒘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_r.md#𧒘<sub>儿</sub>)】`vae1 r` <small>/uɛ1 ɚ/<sup>兴化</sup>, /ʋɛ˞1/<sup>如皋</sup>, /ʋe1 ɚ/<sup>泰县</sup></small> ① 贝壳 ② 蛤、蚌之壳。<sup>\[如皋\]</sup> ③ 蛼螯壳儿。<sup>\[如东\]</sup> ④ 贝壳，贝类动物的外壳。<sup>\[东台\]</sup> ⑤ 河蚌，俗名“河𧒘”。<sup>\[兴化\]</sup> ⑥ 河蚌。<sup>\[泰县\]</sup>  
 1. 【[𧒘<sub>儿</sub>墩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_r_den.md#𧒘<sub>儿</sub>墩)】`vae1 r den1` <sup>[如东]</sup> 𧒘儿壳堆积起来的墩儿。  
-1. 【[𧒘<sub>儿</sub>灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_r_den.md#𧒘<sub>儿</sub>灯)】`vae1 r den1` <small>/ʋɛ1 ɚ təŋ1/<sup>如皋</sup></small> ① 旧时，阴历七月三十，如皋南门外地藏庙兴灯会。自县衙前到庙门前，一条南大街两侧商家点地灯，相接成龙，又称～。<sup>\[如皋\]</sup> ② 一种民俗。人死后，用两只𧒘儿壳盛油，放一根灯草，点亮，搁在死者的头边和脚边，表示照亮行走的道路。<sup>\[如东\]</sup>  
+1. 【[𧒘<sub>儿</sub>灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_r_den.md#𧒘<sub>儿</sub>灯)】`vae1 r den1` <small>/ʋɛ˞1 təŋ1/<sup>如皋</sup></small> ① 旧时，阴历七月三十，如皋南门外地藏庙兴灯会。自县衙前到庙门前，一条南大街两侧商家点地灯，相接成龙，又称～。<sup>\[如皋\]</sup> ② 一种民俗。人死后，用两只𧒘儿壳盛油，放一根灯草，点亮，搁在死者的头边和脚边，表示照亮行走的道路。<sup>\[如东\]</sup>  
 1. 【[𧒘<sub>儿</sub>油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_r_ieu.md#𧒘<sub>儿</sub>油)】`vae1 r ieu2` ① 蛤蜊油。<sup>\[如东\]</sup> ② 也叫𧒘𧒘油，用文蛤壳装的冬季护肤用的油脂。<sup>\[东台\]</sup>  
 1. 【[𧒘<sub>儿</sub>精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_r_jien.md#𧒘<sub>儿</sub>精)】`vae1 r jien1` <sup>[泰县]</sup> 打扮妖气的女人。  
 1. 【[𧒘<sub>儿</sub>龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_r_lon.md#𧒘<sub>儿</sub>龙)】`vae1 r lon2` <sup>[如东]</sup> 蛼螯壳等堆积起来的长条形的贝壳堆。  
@@ -463,7 +463,7 @@
 1. 【[袜衬子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_chuen_zz.md#袜衬子)】`vaeh8 chuen5 zz` <sup>[泰县]</sup> 保护袜子的布套。  
 1. 【[袜船<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_chun_r.md#袜船<sub>儿</sub>)】`vaeh8 chun2 r` <sup>[兴化]</sup> 没有筒子的布袜，形状略似小船。  
 1. 【[袜底<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_di_r.md#袜底<sub>儿</sub>)】`vaeh8 di3 r` <sup>[如皋]</sup> 用单层或双层白布缝制，旧时是布袜的底儿，后来绱在“洋袜”上。  
-1. 【[袜套<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_to_r.md#袜套<sub>儿</sub>)】`vaeh8 to5 r` <small>/ʋeʔ8 tʰɔ5 ɚ/<sup>如皋</sup></small> ① 单层白布缝的穿在布袜外的套儿。1945年前常见。后偶见。<sup>\[如皋\]</sup> ② 用布缝制的袜子，称袜套儿。<sup>\[如东\]</sup>  
+1. 【[袜套<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_to_r.md#袜套<sub>儿</sub>)】`vaeh8 to5 r` <small>/ʋeʔ8 tʰɔ˞5/<sup>如皋</sup></small> ① 单层白布缝的穿在布袜外的套儿。1945年前常见。后偶见。<sup>\[如皋\]</sup> ② 用布缝制的袜子，称袜套儿。<sup>\[如东\]</sup>  
 1. 【[袜楦子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_xiun_zz.md#袜楦子)】`vaeh8 xiun5 zz` <sup>[如皋]</sup> 袜底、修补袜子所用的木衬架。  
 1. 【[𢼤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh.md#𢼤)】`vaeh8` <sup>[如皋]</sup> 泼浇：～粪、～屎、～尿、～水。  
 1. 【[𢼤臭水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_cheu_shuei.md#𢼤臭水)】`vaeh8 cheu5 shuei3` <sup>[如皋]</sup> 背后说他人的坏话，坏人名誉。  
@@ -498,7 +498,7 @@
 1. 【[玩意腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_i_qian.md#玩意腔)】`vaen2 i5 qian1` <sup>[东台]</sup> 闹着玩，不认真的态度：他是～，开玩笑的，不要当真！  
 1. 【[玩意<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_i_r.md#玩意<sub>儿</sub>)】`vaen2 i5 r` <small>/ʋɛ̃2 ɿ5 ɚ/<sup>泰县</sup></small> ① 东西。<sup>\[如东\]</sup>：那是甚的～？比喻无足轻重的人。<sup>\[如东\]</sup> ② 无足轻重的人或事。<sup>\[泰县\]</sup>  
 1. 【[玩意<sub>儿</sub>头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_i_r_teu.md#玩意<sub>儿</sub>头)】`vaen2 i5 r teu2` <sup>[如东]</sup> 比喻品格低下的人：他算个甚的～！  
-1. 【[玩意<sub>儿</sub>账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_i_r_zhan.md#玩意<sub>儿</sub>账)】`vaen2 i5 r zhan5` <small>/ʋẽ2 ʝ5 ɚ t͡sã5/<sup>如皋</sup></small> ① 毫不在乎：他花起钱来如敌（vaeh8）水，千吖八百的～。<sup>\[如皋\]</sup> ② 不是正规的门路，碰碰机会。<sup>\[如东\]</sup>：这是～，也许会成功。<sup>\[如东\]</sup>  
+1. 【[玩意<sub>儿</sub>账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_i_r_zhan.md#玩意<sub>儿</sub>账)】`vaen2 i5 r zhan5` <small>/ʋẽ2 ʝ˞5 t͡sã5/<sup>如皋</sup></small> ① 毫不在乎：他花起钱来如敌（vaeh8）水，千吖八百的～。<sup>\[如皋\]</sup> ② 不是正规的门路，碰碰机会。<sup>\[如东\]</sup>：这是～，也许会成功。<sup>\[如东\]</sup>  
 1. 【[玩意头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_i_teu.md#玩意头)】`vaen2 i5 teu2` <sup>[泰县]</sup> ① 玩具。 ② 脾气随和的人。  
 1. 【[玩意账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_i_zhan.md#玩意账)】`vaen2 i5 zhan5` <sup>[东台]</sup> 同“玩意腔”。  
 1. 【[玩阴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_ien.md#玩阴)】`vaen2 ien1` <sup>[如皋]</sup> 当面不明说，或是说讽刺挖苦的话、反话，而暗中设计谋对付、看笑话。  
@@ -586,7 +586,7 @@
 1. 【[凹□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_jien.md#凹□)】`vah7 jien1` <sup>[泰兴]</sup> 脸颊  
 1. 【[凹水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_shuei.md#凹水)】`vah7 shuei3` <sup>[如皋]</sup> 低凹处积水。如皋词典作“沃水”。  
 1. 【[凹塘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_tan.md#凹塘)】`vah7 tan2` <sup>[兴化]</sup> ① 低洼地：那个鱼池是在～上浚深加大的。 ② 小的池塘。 ③ （引）比较贫困，落后的地方。‖通读作va5。  
-1. 【[凹塘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_tan_r.md#凹塘<sub>儿</sub>)】`vah7 tan2 r` <small>/ʋaʔ7 tʰã2 ɚ/<sup>如皋</sup>, /uɑʔ7 tʰɑŋ2 ɚ/<sup>泰县</sup></small> ① 小坑。<sup>\[如皋\]</sup> ② 小凹点。<sup>\[如皋\]</sup> ③ 很浅的小塘。<sup>\[泰县\]</sup>  
+1. 【[凹塘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_tan_r.md#凹塘<sub>儿</sub>)】`vah7 tan2 r` <small>/ʋaʔ7 tʰa˞2/<sup>如皋</sup>, /uɑʔ7 tʰɑŋ2 ɚ/<sup>泰县</sup></small> ① 小坑。<sup>\[如皋\]</sup> ② 小凹点。<sup>\[如皋\]</sup> ③ 很浅的小塘。<sup>\[泰县\]</sup>  
 1. 【[嗀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah.md#嗀)】`vah7` <small>/uaʔ7/<sup>兴化</sup>, /ʋaʔ7/<sup>如皋</sup>, /uɑʔ7/<sup>泰县</sup></small> ① 呕吐 ② 呕：作～、吊～。<sup>\[如皋\]</sup> ③ 吃的食物从嘴里吐出来。<sup>\[如东\]</sup>：小毛吃的奶～出来啊。<sup>\[如东\]</sup> ④ 恶心，呕吐<sup>\[东台\]</sup>：作～。<sup>\[东台\]</sup> ⑤ 呕吐，多指干哕或秽物不多<sup>\[兴化\]</sup>：～下来。<sup>\[兴化\]</sup> ⑥ 呕吐：他酒喝多啊，家来都～掉啊。<sup>\[泰县\]</sup> ⑦ 呕吐<sup>\[泰州\]</sup>：他酒喝咖醉啊，在路上就～得一塌糊涂。<sup>\[泰州\]</sup> ⑧ 比如已经到手的钱再次失去<sup>\[泰州\]</sup>：刚刚赢的500多块钱，这一刻儿都～掉啊唻。<sup>\[泰州\]</sup>｜他当厂长的时候弄吖不少钱，现在全部～出来啊。<sup>\[泰州\]</sup>  
 1. 【[嗀出来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_chueh_lae.md#嗀出来)】`vah7 chueh7 lae2` <sup>[如东]</sup> 吃进肚子的食物吐出来。比喻非法侵吞的财物拿出来：王侵占的房产必须～。  
 1. 【[嗀烟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_in.md#嗀烟)】`vah7 in1` <sup>[东台]</sup> 因炉灶排烟不畅，烟囱里的烟向下或向室内窜散。（也有人读若“veh7烟”）  
@@ -657,7 +657,7 @@
 1. 【[黄齈疤<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_lon_ba_r.md#黄齈疤<sub>儿</sub>)】`van2 lon2 ba1 r` <sup>[如皋]</sup> 鼻涕硬结物。  
 1. 【[黄齈鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_lon_pieh_zz.md#黄齈鼻子)】`van2 lon2 pieh8 zz` <sup>[如皋]</sup> 状鼻涕多，且糊满鼻唇间。  
 1. 【[黄猫<sub>儿</sub>糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_mo_r_go.md#黄猫<sub>儿</sub>糕)】`van2 mo r go1` 发面蒸熟切片晒干制成的干粮  
-1. 【[黄猫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_mo_r.md#黄猫<sub>儿</sub>)】`van2 mo2 r` <small>/ʋã2 mɔ2 ɚ/<sup>如皋</sup></small> ① 黄鼠狼。<sup>\[如皋\]</sup><sup>\[东台\]</sup> ② 条形无馅馒头。<sup>\[如皋\]</sup>  
+1. 【[黄猫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_mo_r.md#黄猫<sub>儿</sub>)】`van2 mo2 r` <small>/ʋã2 mɔ˞2/<sup>如皋</sup></small> ① 黄鼠狼。<sup>\[如皋\]</sup><sup>\[东台\]</sup> ② 条形无馅馒头。<sup>\[如皋\]</sup>  
 1. 【[黄猫<sub>儿</sub>给鸡拜年——没安好心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_mo_r_gei.md#黄猫<sub>儿</sub>给鸡拜年——没安好心)】`van2 mo2 r gei5 ji1 bae5 nin2 meh8 un1 ho3 xien1` <sup>[东台]</sup>   
 1. 【[黄猫<sub>儿</sub>𠞖吖鸡窠里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_mo_r_gon_nga_ji_ku_lii.md#黄猫<sub>儿</sub>𠞖吖鸡窠里)】`van2 mo2 r gon1 nga ji1 ku1 lii` <sup>[如皋]</sup> 喻害群之马。使大家不得安宁，且带来祸害。  
 1. 【[黄猫<sub>儿</sub>看鸡——越看越稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_mo_r_kun.md#黄猫<sub>儿</sub>看鸡——越看越稀)】`van2 mo2 r kun1 ji1 iuh8 kun1 iuh8 xi1` <sup>[东台]</sup>   
@@ -775,7 +775,7 @@
 1. 【[煨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei.md#煨)】`vei1` ① 小火慢煮 ② 一种烹调方法。将猪蹄、牛肉、甲鱼、蛏干等荤菜放在锅中用文火慢慢地煮熟。<sup>\[如东\]</sup>：～牛肉。<sup>\[如东\]</sup> ③ 烹调法，用微火慢慢地煮<sup>\[东台\]</sup>：～牛肉<sup>\[东台\]</sup>｜～母鸡<sup>\[东台\]</sup>｜～粽子。<sup>\[东台\]</sup> ④ 一种烹饪方法，将食物用文火煮熟<sup>\[泰州\]</sup>：～啊一锅老母鸡汤<sup>\[泰州\]</sup>  
 1. 【[煨干蛏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_gun_chen.md#煨干蛏)】`vei1 gun1 chen1` <sup>[如东]</sup> 煨干蛏，是栟茶地区的一道历史海鲜名菜，久传不衰。民国年间，栟茶名橱张文清在上海经营江北菜，开发白煨干蛏，闻名江海。20世纪70年代传于王二小，名为王小二煨干蛏。王二小曾受聘出任南京金陵饭店专职白煨干蛏司橱。2012年9月29日，更名为聚福楼煨干蛏。聚福楼煨干蛏须经过浸泡、剖涤、醒蛏、套碱、煨蛏五道工序。配料主要有文蛤、猪肉、木耳、白果、莴苣、冬瓜、冬笋、白菜、萝卜等。蛏肉滑嫩，味鲜不浊，色乳白，汤浓厚，滴在桌上不散珠。2012年12月20日，被中华人民共和国餐饮协会评为中国名菜。  
 1. 【[煨罐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_gun.md#煨罐)】`vei1 gun5` <sup>[东台]</sup> 用陶土和沙烧制的炊器，底较小，胖肚，收口，边上有把手，多用来煨汤，熬粥，煎药：旧时农家常利用锅膛余火燉～。  
-1. 【[煨罐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_gun_r.md#煨罐<sub>儿</sub>)】`vei1 gun5 r` <small>/ʋei1 kʊ̃5 ɚ/<sup>如皋</sup></small> ① 一称焖锅儿。深帮，多为陶、紫铜质，供煮汤菜用。<sup>\[如皋\]</sup> ② 器皿。陶制，似小坛子，有柄，有盖，有嘴。主要用于煨药。<sup>\[如东\]</sup>  
+1. 【[煨罐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_gun_r.md#煨罐<sub>儿</sub>)】`vei1 gun5 r` <small>/ʋei1 kʊ˞5/<sup>如皋</sup></small> ① 一称焖锅儿。深帮，多为陶、紫铜质，供煮汤菜用。<sup>\[如皋\]</sup> ② 器皿。陶制，似小坛子，有柄，有盖，有嘴。主要用于煨药。<sup>\[如东\]</sup>  
 1. 【[煨秧亩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_ian_mu.md#煨秧亩)】`vei1 ian1 mu3` <sup>[东台]</sup> （民俗）正月半（元宵节）下午，用草在秧亩里烟熏，以熏死虫卵求丰年。  
 1. 【[煨汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_tan.md#煨汤)】`vei1 tan1` <sup>[兴化]</sup> 一种烹调方法，用微火慢慢地煮，将汤汁煮得很稠：老母鸡～。  
 1. 【[萎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei.md#萎)】`vei1` <small>/uəi1/<sup>兴化</sup>, /ʋəɪ1/<sup>泰县</sup></small> ① 疲倦，累<sup>\[东台\]</sup>：把你忙吖～啊。（“萎”读若“威”）。<sup>\[东台\]</sup> ② 疲乏<sup>\[兴化\]</sup>：他忙吖一天，刚晚就～下来啊。<sup>\[兴化\]</sup> ③ 疲劳：今吖他挑啊一天的泥，～煞咖。<sup>\[泰县\]</sup> ④ 捧、托，添：～毛窝。<sup>\[泰县\]</sup> ⑤ 疲惫，疲劳<sup>\[泰州\]</sup>：你俫挑啊～啊，就歇咖子。<sup>\[泰州\]</sup>｜爬啊一天的山，人～煞咖，夜饭一吃就上吖铺。<sup>\[泰州\]</sup>｜你一天说到晚，嘴哿～啊？<sup>\[泰州\]</sup>  
@@ -800,7 +800,7 @@
 1. 【[围兜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_deu_r.md#围兜<sub>儿</sub>)】`vei2 deu1 r` <sup>[如东]</sup> 围在肚脐上的一块方布，以红色为多，常绣各种花纹。起保暖作用。  
 1. 【[围加](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_ga.md#围加)】`vei2 ga1` <sup>[泰县]</sup> 兜儿。  
 1. 【[围袈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_ga.md#围袈)】`vei2 ga1` <sup>[东台]</sup> 理发师或厨师用的罩在衣服上的布。  
-1. 【[围袈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_ga_r.md#围袈<sub>儿</sub>)】`vei2 ga1 r` <small>/ʋei2 ka1 ɚ/<sup>如皋</sup>, /ʋəɪ2 ka1 ɚ/<sup>泰县</sup></small> ① 围裙。<sup>\[如皋\]</sup> ② 围在胸前的一块长方形的布，主要用来护脏。<sup>\[如东\]</sup> ③ 布兜，围裙，围腰。<sup>\[泰县\]</sup>  
+1. 【[围袈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_ga_r.md#围袈<sub>儿</sub>)】`vei2 ga1 r` <small>/ʋei2 ka˞1/<sup>如皋</sup>, /ʋəɪ2 ka1 ɚ/<sup>泰县</sup></small> ① 围裙。<sup>\[如皋\]</sup> ② 围在胸前的一块长方形的布，主要用来护脏。<sup>\[如东\]</sup> ③ 布兜，围裙，围腰。<sup>\[泰县\]</sup>  
 1. 【[围袈子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_ga_zz.md#围袈子)】`vei2 ga1 zz` <sup>[兴化]</sup> 围在小孩胸前使衣服保持清洁的东西。‖又称“袈口子”。  
 1. 【[围腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_io.md#围腰)】`vei2 io1` <small>/ʋəɪ2 iɔ1/<sup>泰县</sup></small> ① 即围裙。<sup>\[东台\]</sup> ② 妇女系在衣服外面的布兜。<sup>\[泰县\]</sup>  
 1. 【[围腰布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_io_bv.md#围腰布)】`vei2 io1 bv5` <sup>[兴化]</sup> 围在腰部以下保持清洁的布片。又称“围腰子”。  
@@ -831,7 +831,7 @@
 1. 【[尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei.md#尾)】`vei3` <small>/uəi3/<sup>兴化</sup>, /ʋei3/<sup>如皋</sup></small> ① 暗中尾随：我～啊他后头，看吖他一路儿小跑上吖公园。<sup>\[如皋\]</sup> ② 跟、随<sup>\[兴化\]</sup>：“……我的意思暂时不用声张，只须追上前去，～着大船而行……”（《四杰传》四）<sup>\[兴化\]</sup> ③ 跟在人、车、船后面行走<sup>\[泰州\]</sup>：你悄悄～啊他后头走，单看他到哪块去。<sup>\[泰州\]</sup>｜他的车子在前头带路，你俫的车子就～住他的车子开。<sup>\[泰州\]</sup>  
 1. 【[尾巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_ba.md#尾巴)】`vei3 ba` <sup>[如东]</sup> 鸟、兽、虫、鱼等动物的身体末端突出的部分，主要作用是辅助运动，保持身体平衡等。  
 1. 【[尾巴桩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_ba_zhuan.md#尾巴桩)】`vei3 ba zhuan1` <sup>[兴化]</sup> ① 尾骨：一天坐到晚，～也坐疼吖。 ② （引）根梢：这种恶人，老天爷让他绝到～儿。  
-1. 【[尾巴桩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_ba_zhuan_r.md#尾巴桩<sub>儿</sub>)】`vei3 ba zhuan1 r` <small>/ʋei3 pa t͡suã1 ɚ/<sup>如皋</sup>, /ʋəɪ3 pa t͡ɕyɑŋ1 ɚ/<sup>泰县</sup></small> ① 尾椎骨 ② 尾椎。<sup>\[如皋\]</sup> ③ 尾骨。<sup>\[泰县\]</sup>  
+1. 【[尾巴桩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_ba_zhuan_r.md#尾巴桩<sub>儿</sub>)】`vei3 ba zhuan1 r` <small>/ʋei3 pa t͡sua˞1/<sup>如皋</sup>, /ʋəɪ3 pa t͡ɕyɑŋ1 ɚ/<sup>泰县</sup></small> ① 尾椎骨 ② 尾椎。<sup>\[如皋\]</sup> ③ 尾骨。<sup>\[泰县\]</sup>  
 1. 【[尾巴桩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_ba_zhuan_r.md#尾巴桩<sub>儿</sub>)】`vei3 ba1 zhuan1 r` <sup>[如东]</sup> 尾骨。  
 1. 【[尾刀韭菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_do_jieu_cae.md#尾刀韭菜)】`vei3 do1 jieu3 cae5` <sup>[如皋]</sup> 深秋，最后一次割的韭菜与春天的头、二刀一样好吃。  
 1. 【[尾会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_huei.md#尾会)】`vei3 huei6` <sup>[如皋]</sup> 民间小型集资称“请会”，然后摇“色子”按大小决定各人得会的次序，最后得的会称～。  
