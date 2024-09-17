@@ -159,7 +159,7 @@
 1. 【[三离不角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_li_beh_gah.md#三离不角)】`saen1 li2 beh7 gah7` <sup>[如东]</sup> 形状不规则而多棱。比喻怪里怪气，不通情理：这个人～的，不好相处。  
 1. 【[三里丢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_li_dieu.md#三里丢)】`saen1 li3 dieu1` <sup>[泰县]</sup> 草鞋。  
 1. 【[三里路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_li_lv.md#三里路)】`saen1 li3 lv6` <sup>[东台]</sup> 特指从西溪犁木街东端到海道桥（旧称“海大口子”）的一段路，全长1600多米。较狭窄，像马脊梁一样。始建于西汉，是东台最古老的运盐送草通道。清代加青砖铺就。  
-1. 【[三里不角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_lii_beh_gah.md#三里不角)】`saen1 lii beh7 gah7` <small>/sɛ̃1 ləi pəʔ7 kaʔ7/<sup>兴化</sup>, /sɛ̃1 niɪ pəʔ7 kɑʔ7/<sup>泰县</sup></small> ① 本指不规则之物，喻指令人不顺眼不中听的言谈举止。<sup>\[东台\]</sup> ② 形容物体残峡，形状不规则：～的断砖头不能砌墙。<sup>\[兴化\]</sup> ③ 不规则：这些砖头都是～的。<sup>\[泰县\]</sup>  
+1. 【[三里不角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_lii_beh_gah.md#三里不角)】`saen1 lii beh7 gah7` <small>/sɛ̃1 ləi pəʔ7 kaʔ7/<sup>兴化</sup>, /sɛ̃1 nɿ pəʔ7 kɑʔ7/<sup>泰县</sup></small> ① 本指不规则之物，喻指令人不顺眼不中听的言谈举止。<sup>\[东台\]</sup> ② 形容物体残峡，形状不规则：～的断砖头不能砌墙。<sup>\[兴化\]</sup> ③ 不规则：这些砖头都是～的。<sup>\[泰县\]</sup>  
 1. 【[三里不角的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_lii_beh_gah_dii.md#三里不角的)】`saen1 lii beh7 gah7 dii` <sup>[如皋]</sup> 喻形状不规则。  
 1. 【[三里冒九的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_lii_mo_jieu_dii.md#三里冒九的)】`saen1 lii mo6 jieu3 dii` <sup>[如皋]</sup> 偶尔地、间或地。  
 1. 【[三老板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_lo_baen.md#三老板)】`saen1 lo3 baen3` <sup>[泰县]</sup> 排行老三。  
@@ -2083,7 +2083,7 @@
 1. 【[甩包袱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuae_bo_foh.md#甩包袱)】`shuae3 bo1 foh` <sup>[东台]</sup> ［喻］指去掉拖累自己的人和事物，丢掉负担和债务。  
 1. 【[甩大袖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuae_da_xieu_zz.md#甩大袖子)】`shuae3 da6 xieu5 zz` <sup>[兴化]</sup> ① 光说大话、空话，面无实际行动：他就喜欢～，做实际工作坐不下来。 ② 形容大大咧咧地：（张都监）说着，大袖子一甩走了。（《武松》六）  
 1. 【[甩大袖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuae_da_xieu_zz.md#甩大袖子)】`shuae3 da6 xieu6 zz` <sup>[东台]</sup> ［喻］作风飘浮，不务实，不做具体事。  
-1. 【[甩里甩气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuae_lii_shuae_qi.md#甩里甩气)】`shuae3 lii shuae3 qi5` <small>/suɛ3 ləi suɛ3 t͡ɕʰi5/<sup>兴化</sup>, /ɕye3 niɪ ɕye3 t͡sʰɿ5/<sup>泰县</sup></small> ① 形容盛气凌人的样子<sup>\[兴化\]</sup>：才当吖几天副科长就～的，好像了不起啊！<sup>\[兴化\]</sup> ② 说话随便的样子。<sup>\[泰县\]</sup>  
+1. 【[甩里甩气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuae_lii_shuae_qi.md#甩里甩气)】`shuae3 lii shuae3 qi5` <small>/suɛ3 ləi suɛ3 t͡ɕʰi5/<sup>兴化</sup>, /ɕye3 nɿ ɕye3 t͡sʰɿ5/<sup>泰县</sup></small> ① 形容盛气凌人的样子<sup>\[兴化\]</sup>：才当吖几天副科长就～的，好像了不起啊！<sup>\[兴化\]</sup> ② 说话随便的样子。<sup>\[泰县\]</sup>  
 1. 【[甩里甩气的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuae_lii_shuae_qi.md#甩里甩气的)】`shuae3 lii shuae3 qi5 dii` <sup>[如皋]</sup> 见“甩”。  
 1. 【[甩料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuae_lio.md#甩料)】`shuae3 lio6` <small>/suɛ3 liɔ6/<sup>兴化</sup>, /suɛ3 liɔ1/<sup>如皋</sup></small> ① 见“甩”。<sup>\[如皋\]</sup> ② 见“甩子”。<sup>\[兴化\]</sup>  
 1. 【[甩气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuae_qi.md#甩气)】`shuae3 qi5` <sup>[如皋]</sup> 见“甩”。  
@@ -2750,7 +2750,7 @@
 1. 【[松紧口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_jien_keu.md#松紧口)】`son1 jien3 keu3` <sup>[如皋]</sup> 鞋口、裤腰等处装了松紧带。有弹性。  
 1. 【[松劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_jien.md#松劲)】`son1 jien5` ① 懈气，没了精神 ② 身体乏力。<sup>\[如东\]</sup>：这几天不想吃饭，人有点儿～。<sup>\[如东\]</sup> ③ 没有信心。<sup>\[如东\]</sup>：跑啊几趟都不曾办成，我倒松吖劲。<sup>\[如东\]</sup>  
 1. 【[松口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_keu.md#松口)】`son1 keu3` <sup>[东台]</sup> 本来没有通融余地，现改变主意，稍微做出让步。  
-1. 【[松里落壳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_lii_lah_kah.md#松里落壳)】`son1 lii lah8 kah7` <small>/soŋ1 niɪ nɑʔ8 kʰɑʔ7/<sup>泰县</sup></small> ① 松动、松散的样子。<sup>\[东台\]</sup> ② 松散、不紧凑：这个绷子编得～的，不好用。<sup>\[泰县\]</sup>  
+1. 【[松里落壳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_lii_lah_kah.md#松里落壳)】`son1 lii lah8 kah7` <small>/soŋ1 nɿ nɑʔ8 kʰɑʔ7/<sup>泰县</sup></small> ① 松动、松散的样子。<sup>\[东台\]</sup> ② 松散、不紧凑：这个绷子编得～的，不好用。<sup>\[泰县\]</sup>  
 1. 【[松皮落壳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_pi_lah_kah.md#松皮落壳)】`son1 pi2 lah8 kah7` <sup>[兴化]</sup> 形容不紧凑：粽子裹得～，不好吃。  
 1. 【[松气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_qi.md#松气)】`son1 qi5` <sup>[如东]</sup> 透气。比喻透露消息：你晓得咖，不能～。  
 1. 【[松撬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_qio.md#松撬)】`son1 qio` <sup>[如东]</sup> 松动：开始～。  

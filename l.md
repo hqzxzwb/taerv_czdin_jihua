@@ -31,7 +31,7 @@
 1. 【[拉拉<sub>儿</sub>搡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_la_r_san.md#拉拉<sub>儿</sub>搡)】`la1 la1 r san3` <sup>[如东]</sup> 办事马马虎虎，拖拖拉拉：他是个～，不能让他去做这件事。  
 1. 【[拉郎配](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_lan_pei.md#拉郎配)】`la1 lan2 pei5` <sup>[如东]</sup> 随便拉一个人来搭配。  
 1. 【[拉痢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_li.md#拉痢)】`la1 li6` <sup>[兴化]</sup> 屙痢疾，一种传染病。  
-1. 【[拉里拉瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_lii_la_gua.md#拉里拉瓜)】`la1 lii la1 gua1` <small>/na1 niɪ na1 kua1/<sup>泰县</sup></small> ① 同“拉瓜”。<sup>\[东台\]</sup> ② 穿着不整洁<sup>\[泰县\]</sup>：这个人穿衣裳有点儿～。<sup>\[泰县\]</sup>  
+1. 【[拉里拉瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_lii_la_gua.md#拉里拉瓜)】`la1 lii la1 gua1` <small>/na1 nɿ na1 kua1/<sup>泰县</sup></small> ① 同“拉瓜”。<sup>\[东台\]</sup> ② 穿着不整洁<sup>\[泰县\]</sup>：这个人穿衣裳有点儿～。<sup>\[泰县\]</sup>  
 1. 【[拉马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ma.md#拉马)】`la1 ma3` <sup>[如皋]</sup> 介绍嫖客。  
 1. 【[拉马猴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ma_heu_r.md#拉马猴<sub>儿</sub>)】`la1 ma3 heu2 r` <sup>[如东]</sup> 专门介绍嫖客的人。皮条客。  
 1. 【[拉面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_min.md#拉面)】`la1 min6` <sup>[如东]</sup> 小麦面粉经过揉压，柔软而富韧性，拉成细条，称拉面。  

@@ -159,7 +159,7 @@
 1. 【[二梁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_lian.md#二梁)】`er6 lian2` <sup>[如皋]</sup> 见“二槽”。  
 1. 【[二两茶饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_lian_cha_faen.md#二两茶饭)】`er6 lian3 cha2 faen6` <sup>[如东]</sup> ① 形容饭量很小：她只要～。 ② 胃口不好，吃得很少。  
 1. 【[二流子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_lieu_zz.md#二流子)】`er6 lieu2 zz` <small>/ɚ1 ləɪ2 t͡sɿ/<sup>泰兴</sup></small> ① 不务正业的人。<sup>\[如东\]</sup> ② 游手好闲、不务正业的人。<sup>\[泰兴\]</sup>  
-1. 【[二里不敦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_lii_beh_den.md#二里不敦)】`er6 lii beh7 den1` <small>/ɚ1 niɪ pəʔ7 təŋ1/<sup>泰县</sup></small> ① 比喻不灵活，不聪明。<sup>\[如东\]</sup>：这个伢儿～的。<sup>\[如东\]</sup> ② （禁忌语）痴呆。<sup>\[泰县\]</sup> ③ 有点不伦不类的角色。<sup>\[东台\]</sup>  
+1. 【[二里不敦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_lii_beh_den.md#二里不敦)】`er6 lii beh7 den1` <small>/ɚ1 nɿ pəʔ7 təŋ1/<sup>泰县</sup></small> ① 比喻不灵活，不聪明。<sup>\[如东\]</sup>：这个伢儿～的。<sup>\[如东\]</sup> ② （禁忌语）痴呆。<sup>\[泰县\]</sup> ③ 有点不伦不类的角色。<sup>\[东台\]</sup>  
 1. 【[二老大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_lo_da.md#二老大)】`er6 lo3 da6` <sup>[如东]</sup> 老大的助手。负责日常工作，并开（摇）舢板。也称二副。二老大的份额为1.5倍。  
 1. 【[二码货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_ma_hu.md#二码货)】`er6 ma hu5` <sup>[泰兴]</sup> ① 二等品，次品，质量很差的产品。 ② 引喻人品差者：庄西头李家二少爷，人品太差，是个～。  
 1. 【[二马不离伴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_ma_beh_li.md#二马不离伴)】`er6 ma3 beh7 li2 pun6` <sup>[泰兴]</sup> 喻关系密切，形影不离：他佼两个人合得来，天天～。  

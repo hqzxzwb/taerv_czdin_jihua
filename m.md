@@ -83,7 +83,7 @@
 1. 【[麻篮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_laen.md#麻篮)】`ma2 laen2-1` <sup>[东台]</sup> 用麻编织的篮子。也喻指某单位漏洞百出。  
 1. 【[麻利](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_li.md#麻利)】`ma2 li6` <sup>[兴化]</sup> 形容行动敏捷：手脚～；他做事～。  
 1. 【[麻里核桃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_lii_heh_to.md#麻里核桃)】`ma2 lii heh8 to2` <sup>[如东]</sup> 表面不光滑：这块板～的。  
-1. 【[麻里木痴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_lii_moh_chr.md#麻里木痴)】`ma2 lii moh8 chr1` <small>/ma2 ləi mɔʔ8 t͡sʰɿ1/<sup>兴化</sup>, /ma2 niɪ mɔʔ8 t͡sʰɿ1/<sup>泰县</sup></small> ① 见“麻里木足”。<sup>\[兴化\]</sup> ② 胆大妄为：你怎吖～的，那许哿是你去的地方？<sup>\[泰县\]</sup>  
+1. 【[麻里木痴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_lii_moh_chr.md#麻里木痴)】`ma2 lii moh8 chr1` <small>/ma2 ləi mɔʔ8 t͡sʰɿ1/<sup>兴化</sup>, /ma2 nɿ mɔʔ8 t͡sʰɿ1/<sup>泰县</sup></small> ① 见“麻里木足”。<sup>\[兴化\]</sup> ② 胆大妄为：你怎吖～的，那许哿是你去的地方？<sup>\[泰县\]</sup>  
 1. 【[麻里木竹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_lii_moh_zhoh.md#麻里木竹)】`ma2 lii moh8 zhoh7` 麻木  
 1. 【[麻里木足](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_lii_moh_zoh.md#麻里木足)】`ma2 lii moh8-7 zoh7` <sup>[东台]</sup> 麻木不仁，不上规矩。  
 1. 【[麻里木足](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_lii_moh_zoh.md#麻里木足)】`ma2 lii moh8 zoh7` <sup>[兴化]</sup> 形容少不更事者：那一位少年朋友，～，不问情由，见人就打。  

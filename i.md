@@ -392,7 +392,7 @@
 1. 【[洋辣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_laeh_zz.md#洋辣子)】`ian2 laeh8 zz` <small>/iɑŋ2 næʔ8 t͡se/<sup>泰县</sup></small> ① 刺蛾幼虫 ② 一种剌毛虫。体表黄色，有棕色条纹。全身长棕色刚毛。触及，能分泌一种毒汁，刺激人的皮肤。<sup>\[如东\]</sup> ③ 又叫毛毛虫。果木害虫，黄刺蛾的幼虫。人体碰到它就会红肿，又麻又痒。<sup>\[东台\]</sup> ④ ［喻］性格外向，说话带刺，有理无理都要攻击别人的人。<sup>\[东台\]</sup> ⑤ 刺毛虫。<sup>\[泰县\]</sup>  
 1. 【[洋里不腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_lii_beh_qian.md#洋里不腔)】`ian2 lii beh7 qian1` <sup>[兴化]</sup> 形容人洋腔洋调的：他的语言、动作～的，叫人发笑。‖也作“洋里洋气”｜她打扮得洋里洋气的，像个业余华侨。  
 1. 【[洋里不相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_lii_beh_xian.md#洋里不相)】`ian2 lii beh7 xian5` <sup>[东台]</sup> 指在众人面前充能人、充老资格，言行多有不当之处。  
-1. 【[洋里洋气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_lii_ian_qi.md#洋里洋气)】`ian2 lii ian2 qi5` <small>/iɑŋ2 niɪ iɑŋ2 t͡sʰɿ5/<sup>泰县</sup></small> ① 穿戴妖艳时髦。<sup>\[如东\]</sup>：她打扮得～的。<sup>\[如东\]</sup> ② 穿戴时髦：他打扮得～的。<sup>\[泰县\]</sup>  
+1. 【[洋里洋气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_lii_ian_qi.md#洋里洋气)】`ian2 lii ian2 qi5` <small>/iɑŋ2 nɿ iɑŋ2 t͡sʰɿ5/<sup>泰县</sup></small> ① 穿戴妖艳时髦。<sup>\[如东\]</sup>：她打扮得～的。<sup>\[如东\]</sup> ② 穿戴时髦：他打扮得～的。<sup>\[泰县\]</sup>  
 1. 【[洋里㗘呲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_lii_pah_cz.md#洋里㗘呲)】`ian2 lii pah7 cz1` <sup>[泰县]</sup> 随嘴说：这个人说话～的。  
 1. 【[洋老鼠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_lo_chv.md#洋老鼠)】`ian2 lo3 chv3` <sup>[如皋]</sup> 白鼠。  
 1. 【[洋龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_lon.md#洋龙)】`ian2 lon2` <sup>[兴化]</sup> 早期的救火车：……这里顷刻间火已冒穿屋顶了。一霎时救火的～一齐赶到……（《官场现形记》六十）  

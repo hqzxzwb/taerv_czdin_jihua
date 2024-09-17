@@ -36,7 +36,7 @@
 1. 【[窝扣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_keu.md#窝扣)】`u1 keu` <sup>[兴化]</sup> 俗谓牛的肛门：但见一人……扫帚眉，～眼，驴脸长腮……（《施公案》九五）‖也指雌牛的外阴。  
 1. 【[窝拉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_la.md#窝拉)】`u1 la1` <sup>[东台]</sup> 很窝囊。也说“窝大”。  
 1. 【[窝里斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_li_deu.md#窝里斗)】`u1 li3 deu5` <sup>[东台]</sup> ［喻］内讧：大家在一起工作，要团结协作，不能～。  
-1. 【[窝里鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_lii_ji.md#窝里鸡)】`u1 lii ji1` <small>/o1 ləi t͡ɕi1/<sup>兴化</sup>, /ʊ1 tei t͡ɕʝ1/<sup>如皋</sup>, /o1 niɪ t͡sɿ1/<sup>泰县</sup></small> ① 同伴、伙伴。俗云：“鸡生鸭熟”。生疏的鸡必相争斗，而同窝相熟之鸡必友好共处。<sup>\[如皋\]</sup> ② 同伴，伙伴。<sup>\[如东\]</sup>：都是～，还斗甚的？<sup>\[如东\]</sup> ③ 同“家里人窝的鸡”，也说“家里窝的鸡”。<sup>\[东台\]</sup> ④ （喻）一个小圈子里的人<sup>\[兴化\]</sup>：这件事不要紧，反正都是～。<sup>\[兴化\]</sup> ⑤ 自己人。<sup>\[泰县\]</sup>  
+1. 【[窝里鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_lii_ji.md#窝里鸡)】`u1 lii ji1` <small>/o1 ləi t͡ɕi1/<sup>兴化</sup>, /ʊ1 tei t͡ɕʝ1/<sup>如皋</sup>, /o1 nɿ t͡sɿ1/<sup>泰县</sup></small> ① 同伴、伙伴。俗云：“鸡生鸭熟”。生疏的鸡必相争斗，而同窝相熟之鸡必友好共处。<sup>\[如皋\]</sup> ② 同伴，伙伴。<sup>\[如东\]</sup>：都是～，还斗甚的？<sup>\[如东\]</sup> ③ 同“家里人窝的鸡”，也说“家里窝的鸡”。<sup>\[东台\]</sup> ④ （喻）一个小圈子里的人<sup>\[兴化\]</sup>：这件事不要紧，反正都是～。<sup>\[兴化\]</sup> ⑤ 自己人。<sup>\[泰县\]</sup>  
 1. 【[窝里窝拉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_lii_u_la.md#窝里窝拉)】`u1 lii u1 la1` <sup>[东台]</sup> ① 很窝囊的意思。 ② 说话办事拖泥带水，不干脆。  
 1. 【[窝碌蛆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_loh_qy_zz.md#窝碌蛆子)】`u1 loh qy1 zz` <sup>[兴化]</sup> 形容子女多，像蛆一样拱来拱去。  
 1. 【[窝碌蛆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_loh_qy_zz.md#窝碌蛆子)】`u1 loh8 qy1 zz` <sup>[泰县]</sup> 子女多。  
