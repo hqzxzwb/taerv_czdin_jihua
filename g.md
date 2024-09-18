@@ -1735,7 +1735,7 @@
 1. 【[棍子路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guen_zz_lv.md#棍子路)】`guen5 zz lv6` <sup>[如皋]</sup> 水田的田埂，又狭又凸又硬又滑。  
 1. 【[琯俏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guen_qio.md#琯俏)】`guen5 qio` <sup>[兴化]</sup> 打扮入时。琯，《集韵·圂韵》古困切：治金玉使莹曰～：麻虽麻，麻得～  
 1. 【[𬦸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guen.md#𬦸)】`guen5` <sup>[兴化]</sup> 逃脱。兴化词典作“混”，《集韵·混韵》古本切。俗作“滚”：这次捱他～掉啊。｜你能从这块～掉就算你的本事！  
-1. 【[佮煞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_saeh.md#佮煞)】`guh1 saeh` <sup>[泰兴]</sup> 怜惜，爱惜：他妈妈～他，不曾让他住校  
+1. 【[佮煞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_shaeh.md#佮煞)】`guh1 shaeh` <sup>[泰兴]</sup> 怜惜，爱惜：他妈妈～他，不曾让他住校  
 1. 【[佮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh.md#佮)】`guh7` <small>/kuʔ7/<sup>兴化</sup>, /kʊʔ7/<sup>如皋</sup>, /kʊʔ7/<sup>泰县</sup></small> ① 共享、共奉<sup>\[如皋\]</sup>：～用、～吃、～养上人。<sup>\[如皋\]</sup> ② 缝合<sup>\[如皋\]</sup>：～缝。<sup>\[如皋\]</sup> ③ 结交，如皋词典作“搿”<sup>\[如皋\]</sup>：两家～得好。<sup>\[如皋\]</sup> ④ 合伙<sup>\[兴化\]</sup>：～做生意；～赌钱；～养性命。<sup>\[兴化\]</sup> ⑤ 合资、合作<sup>\[兴化\]</sup>：～起来养鱼。<sup>\[兴化\]</sup> ⑥ 把多股纱线捻合成较粗的线<sup>\[兴化\]</sup>：～线。<sup>\[兴化\]</sup> ⑦ 按配方将多味中草药一起碾碎，制成药丸<sup>\[兴化\]</sup>：～一副丸药。<sup>\[兴化\]</sup> ⑧ 按方配合化学药剂<sup>\[兴化\]</sup>：“我家铎头平生最好弄火药，他也会～……”（《梼杌闲评》十四）<sup>\[兴化\]</sup> ⑨ 合起来<sup>\[泰县\]</sup>：你俫两个人～用一本书。<sup>\[泰县\]</sup> ⑩ 多人共同使用一物或共同做一件事<sup>\[泰州\]</sup>：两个人～睏一张床。<sup>\[泰州\]</sup>｜车子大家～用。<sup>\[泰州\]</sup>  
 1. 【[佮穿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_chun.md#佮穿)】`guh7 chun1` <sup>[泰州]</sup> 多个人轮流穿一件衣服或者一双鞋子、袜子：小时候家里穷，我俫弟兄～一双球鞋，我同你家叔叔一递一个星期穿。  
 1. 【[佮得来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_deh_lae.md#佮得来)】`guh7 deh7 lae2` <sup>[如皋]</sup> 协作得好：双方的脾气～。  

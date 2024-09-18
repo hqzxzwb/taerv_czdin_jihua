@@ -48,8 +48,7 @@
 1. 【[麻衣大孝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_i_da_xio.md#麻衣大孝)】`ma2 i1 da6 xio5` <sup>[如东]</sup> 一种民间风俗。孝子头戴麻布孝帽儿，脑后系着两根孝箍，身穿白袍，腰扎草绳，腿缠白布襄脚，脚套白布袜、穿白布鞋。这种装束，称麻衣大孝，表示对父母致敬致爱。  
 1. 【[麻衣债](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_i_zhae.md#麻衣债)】`ma2 i1 zhae5` <small>/ma2 i1 t͡sɛ5/<sup>兴化</sup></small> ① ［喻］急于得到祖上家产，过早动手。<sup>\[东台\]</sup> ② 旧时富家不肖子弟，因嫖赌欠下利债，父兄一死，债权人上门索债<sup>\[兴化\]</sup>：等陈洪死，陈兴穿上麻衣孝服，大家就来要债了，所以叫～。（《武松》二）<sup>\[兴化\]</sup>  
 1. 【[麻呀爪呀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ia_zhua_ia.md#麻呀爪呀)】`ma2 ia zhua3 ia` <sup>[如皋]</sup> 吓坏了，惊惶失措。  
-1. 【[麻油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ieu.md#麻油)】`ma2 ieu2` <small>/ma2 iɤ2/<sup>兴化</sup></small> ① 芝麻油 ② 芝麻制成的油，味香。又称香油。<sup>\[如东\]</sup> ③ 芝麻油，北方话称“香油”。兴化地区“香油”指菜油、豆油等植物油。<sup>\[兴化\]</sup>  
-1. 【[麻油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ieu.md#麻油)】`ma2 ieu2` <sup>[泰州]</sup> 芝麻榨成的食用油。  
+1. 【[麻油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ieu.md#麻油)】`ma2 ieu2` <small>/ma2 iɤ2/<sup>兴化</sup>, /ma2 iɤɯ2/<sup>泰兴</sup></small> 芝麻油<sup>\[泰州\]</sup><sup>\[泰兴\]</sup>\[兴化：北方话称“香油”。兴化地区“香油”指菜油、豆油等植物油。\]\[如东：味香。又称香油。\]  
 1. 【[麻油馓子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ieu_caen_zz.md#麻油馓子)】`ma2 ieu2 caen3 zz` <sup>[如皋]</sup> 用芝麻油炸成的瘦条环状空心食品，淡黄色。  
 1. 【[麻油壶<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ieu_hv_r.md#麻油壶<sub>儿</sub>)】`ma2 ieu2 hv2 r` <sup>[如东]</sup> 比喻油嘴滑舌的人。  
 1. 【[麻叶绣球菊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ih_xieu_qieu_jioh.md#麻叶绣球菊)】`ma2 ih8 xieu5 qieu2 jioh7` <sup>[如东]</sup> 蔷薇科植物绣球绣线菊，灌木。  
@@ -398,8 +397,7 @@
 1. 【[蛮舞六天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_v_loh_tin.md#蛮舞六天)】`maen2 v3 loh8 tin1` <sup>[泰县]</sup> 蛮横。  
 1. 【[蛮砟<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_zha_r.md#蛮砟<sub>儿</sub>)】`maen2 zha3 r` <sup>[东台]</sup> ［喻］特别蛮，不讲理的人。  
 1. 【[蛮斫三斧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_zhah_saen_fv.md#蛮斫三斧)】`maen2 zhah7 saen1 fv3` <sup>[如东]</sup> 胡乱砍伐一阵。  
-1. 【[蛮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_zz.md#蛮子)】`maen2 zz` <small>/mẽ2 t͡sɿ/<sup>如皋</sup></small> ① 指讲难懂方言的人，尤其指南方的人 ② 说吴语的人以及南方人。在南通地区指启海人。<sup>\[如东\]</sup> ③ 指南方人。（南蛮北侉）<sup>\[如皋\]</sup>  
-1. 【[蛮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_zz.md#蛮子)】`maen2 zz` <sup>[泰州]</sup> 指南方的人：广东～说的话，一句都听不懂。  
+1. 【[蛮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_zz.md#蛮子)】`maen2 zz` <small>/mẽ2 t͡sɿ/<sup>如皋</sup></small> 指讲难懂方言的人，尤其指南方的人<sup>\[泰州\]</sup>\[如东：说吴语的人以及南方人。在南通地区指启海人。\]\[如皋：（南蛮北侉）\]：广东～说的话，一句都听不懂。<sup>\[泰州\]</sup>  
 1. 【[慢痴慢痴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_chr_maen_chr.md#慢痴慢痴)】`maen6 chr1 maen6 chr1` <sup>[东台]</sup> 慢步走路，走走停停。  
 1. 【[慢船先开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_chun_xin_kae.md#慢船先开)】`maen6 chun2 xin1 kae1` <sup>[如东]</sup> 速度缓慢的船只要提前开航，也能按时到达目的地。比喻条件较差的单位做事要预先做好准备，才能实现既定目标。笨鸟先飞：我俫～，才能不误行程。  
 1. 【[慢打逍遥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_da_xio_io.md#慢打逍遥)】`maen6 da3 xio1 io2` <sup>[兴化]</sup> 形容不慌不忙的样子：大家急等他上车，他却～的，真是急人。  
@@ -427,7 +425,7 @@
 1. 【[慢晓天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_xio_tin.md#慢晓天)】`maen6 xio3 tin1` <sup>[兴化]</sup> 早晨天阴，太阳出得较迟。  
 1. 【[慢症](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_zhen.md#慢症)】`maen6 zhen5` <small>/mɛ̃6 t͡sən5/<sup>兴化</sup>, /mẽ1 t͡səŋ5/<sup>如皋</sup>, /mɛ̃1 t͡səŋ5/<sup>泰县</sup></small> ① 慢性病。<sup>\[如皋\]</sup> ② 快不起来。<sup>\[如皋\]</sup> ③ （借）对问题久拖不决：过去调动工作是个～，拖你三年五载也不奇怪。<sup>\[兴化\]</sup> ④ 慢性病。<sup>\[泰县\]</sup> ⑤ 事情长期拖下去不能了结。<sup>\[泰县\]</sup>  
 1. 【[慢症候](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_zhen_heu.md#慢症候)】`maen6 zhen5 heu` <sup>[如皋]</sup> 见“慢症”。  
-1. 【[慢子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_zz.md#慢子)】`maen6 zz` <small>/mɛ̃6 t͡sɿ/<sup>兴化</sup></small> ① 行动迟缓的人：他是二～，急不起来。<sup>\[兴化\]</sup> ② 慢性子的人：她是有名的～，火上堂屋都不着急。<sup>\[兴化\]</sup> ③ 行动迟缓已成习惯的人<sup>\[泰州\]</sup>：他是出咖名的～，你再急他也不急。<sup>\[泰州\]</sup>  
+1. 【[慢子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_zz.md#慢子)】`maen6 zz` <small>/mɛ̃6 t͡sɿ/<sup>兴化</sup></small> 行动迟缓的人，或慢性子的人<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：他是二～，急不起来。<sup>\[兴化\]</sup>｜她是有名的～，火上堂屋都不着急。<sup>\[兴化\]</sup>｜他是出咖名的～，你再急他也不急。<sup>\[泰州\]</sup>  
 1. 【[蛮犟理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_qian_li.md#蛮犟理)】`maen6 qian6 li3` <sup>[如东]</sup> 强词夺理。  
 1. 【[摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah.md#摸)】`mah8` <small>/maʔ8/<sup>兴化</sup></small> ① 拾掇<sup>\[兴化\]</sup>：她一早起来就～咖扫的，把家里收拾干净。<sup>\[兴化\]</sup> ② 找<sup>\[兴化\]</sup>：他家住的地方太偏僻，我几次不曾～到。<sup>\[兴化\]</sup> ③ 动作不利索而拖延时间<sup>\[泰州\]</sup>：你快点ㄦ哿好，不要～唻。<sup>\[泰州\]</sup>｜她这个人做事就是～，顺个包就顺吖个下午。<sup>\[泰州\]</sup> ④ 在黑暗中探索行走或探索取物<sup>\[泰州\]</sup>：停吖电，你到厨房里～个火柴。<sup>\[泰州\]</sup> ⑤ 经过较长时间相处后了解<sup>\[泰州\]</sup>：你～到他的榫ㄦ，事情就好办唻。<sup>\[泰州\]</sup> ⑥ 寻找不熟悉的地方<sup>\[泰州\]</sup>：司机路不熟，在南京～到晚上六点多钟，才～到宾馆。<sup>\[泰州\]</sup>  
 1. 【[摸不着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_beh_chah.md#摸不着)】`mah8 beh chah8` <sup>[兴化]</sup> 不了解、不清楚：这件事头绪复杂，我～头脑。  
@@ -1328,8 +1326,7 @@
 1. 【[毛窝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_u.md#毛窝)】`mo2 u1` <small>/mɔ2 o1/<sup>兴化</sup></small> ① 用稻草和芦花编织的保暖鞋<sup>\[兴化\]</sup>：（他）脱掉脚上的老～，跳下池塘……（陈登科《淮河边上的儿女》一）<sup>\[兴化\]</sup> ② 用稻草、蒲草以及其他材料（毡毛、芦花或鸡毛等）变成的深帮圆头保暖鞋，以其材料与鸟窝类似，故名。旧时冬天穿以保暖，适宜雪地行走。<sup>\[泰州\]</sup>  
 1. 【[毛窝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_u_r.md#毛窝<sub>儿</sub>)】`mo2 u1 r` <sup>[泰县]</sup> 芦柴花和稻草编成的鞋子。  
 1. 【[毛兮兮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_xi_xi.md#毛兮兮)】`mo2 xi1 xi1` <sup>[如东]</sup> ① 物体上布满茸毛。 ② 物体表面没有修饰整理光滑：门板上还是～的。  
-1. 【[毛鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_y.md#毛鱼)】`mo2 y2` <small>/mɔ2 y2/<sup>兴化</sup>, /mɔ2 ɻy2/<sup>泰县</sup></small> ① 鳗鱼 ② 鳗鲡科动物鳗鲡。<sup>\[如东\]</sup> ③ 鳗鱼。<sup>\[东台\]</sup> ④ 鳗鱼。<sup>\[兴化\]</sup> ⑤ 油滑的人。<sup>\[泰县\]</sup>  
-1. 【[毛鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_y.md#毛鱼)】`mo2 y2` <sup>[泰州]</sup> 河鳗，本地特产，尖，口大而宽，身体长形，前部较圆，后部侧扁，上部灰黑，下部白色，表面多有黏液，生活在淡水中，成熟后到海洋中产卵，肉味鲜美。  
+1. 【[毛鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_y.md#毛鱼)】`mo2 y2` <small>/mɔ2 y2/<sup>兴化</sup>, /mɔ2 ɻy2/<sup>泰县</sup></small> ① 鳗鱼<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup>\[泰州：河鳗，本地特产，尖，口大而宽，身体长形，前部较圆，后部侧扁，上部灰黑，下部白色，表面多有黏液，生活在淡水中，成熟后到海洋中产卵，肉味鲜美。\] ② 油滑的人。<sup>\[泰县\]</sup>  
 1. 【[毛鱼趟子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_y_tan_zz.md#毛鱼趟子)】`mo2 y2 tan5 zz` <sup>[如东]</sup> 捕捉鳗鱼苗的工具。塑料网纱制成，口大，尾尖，似袋。作业时，用绳索成排地固定在海水里，利用潮流捕捉鳗鱼苗。  
 1. 【[毛鱼洞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_y_ton.md#毛鱼洞)】`mo2 y2 ton6` <sup>[泰县]</sup> 藏东西的地方。  
 1. 【[毛羽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_y.md#毛羽)】`mo2 y3` <sup>[如东]</sup> 禽鸟身上长出来的羽毛。  
