@@ -3,6 +3,9 @@ from collections import defaultdict
 import tae_rv_ipa
 
 def parse_pien_ien(ien):
+  ii_match = re.match(r"([a-z]+)ii(\d|)", ien)
+  if ii_match:
+    return [ii_match.group(1), '', 'ii', ii_match.group(2)]
   m_match = re.match(r"^m(\d|)$", ien)
   if m_match:
     return ['m', '', '', m_match.group(1)]
