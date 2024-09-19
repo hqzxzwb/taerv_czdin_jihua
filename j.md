@@ -2,6 +2,7 @@
 **[A](./a.md) | [B](./b.md) | [C](./c.md) | [D](./d.md) | [E](./e.md) | [F](./f.md) | [G](./g.md) | [H](./h.md) | [I](./i.md) | [J](./j.md) | [K](./k.md) | [L](./l.md) | [M](./m.md) | [N](./n.md) | [O](./o.md) | [P](./p.md) | [Q](./q.md) | [R](./r.md) | [S](./s.md) | [T](./t.md) | [U](./u.md) | [V](./v.md) | [X](./x.md) | [Y](./y.md) | [Z](./z.md)**  
 ## J
 1. 【[……加几](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ji.md#……加几)】`jia1 ji` <sup>[东台]</sup> 形容程度深，通常用在形容词后作补语：他俫的关系好得～呢！（这里“几”读轻声）  
+1. 【[见用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_ion.md#见用)】`in5 ion6` <sup>[泰州]</sup> ① 器物耐用，可以用很长时间：买水铫就要买不锈钢的，铝的不～。 ② 物价便宜，使得同样的钞票可以购买更多东西：现在东西便宜得很，钱真的～咖唻。  
 1. 【[䤒花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_hua.md#䤒花)】`ji1 hua1` <small>/t͡ɕi1 xua1/<sup>兴化</sup>, /t͡ɕʝ1 xua1/<sup>如皋</sup>, /t͡sɿ1 xua1/<sup>泰县</sup></small> 白醭，酒、酱油、醋、咸菜卤等溶液表面生长的一种白色霉菌。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup>  
 1. 【[乩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#乩)】`ji1` <sup>[东台]</sup> 一种迷信方法。由二人扶一丁字形的木架竖在沙盘上，所谓神降临时会执木架画字，为人决疑治病，预示吉凶。  
 1. 【[几几乎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ji_hv.md#几几乎)】`ji1 ji1 hv1` <sup>[如皋]</sup> 只差一点点：他～捱汽车轧咖。又作“差点儿”、“实险儿”。  
