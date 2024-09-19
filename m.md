@@ -109,9 +109,7 @@
 1. 【[麻切](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_qih.md#麻切)】`ma2 qih7` <sup>[如皋]</sup> 一种用面粉拌花生油、糖，做成矩形，外敷芝麻烤成的茶食。  
 1. 【[麻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_r.md#麻<sub>儿</sub>)】`ma2 r` 尼龙绳编织的网袋  
 1. 【[麻<sub>儿</sub>差<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_r_cha_r.md#麻<sub>儿</sub>差<sub>儿</sub>)】`ma2 r cha1 r` <sup>[兴化]</sup> 形容人稀里糊涂：这个人成天～的，除掉吃饭睡觉甚的事全不管。  
-1. 【[麻人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ren.md#麻人)】`ma2 ren` 食物辣。  
-1. 【[麻人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ren.md#麻人)】`ma2 ren2` <small>/ma2 ɻəŋ2/<sup>如皋</sup></small> ① 一种辛辣味。<sup>\[如东\]</sup> ② 辣味刺痛感。<sup>\[如皋\]</sup> ③ 吃了麻辣的东西，受到强烈的刺激。<sup>\[东台\]</sup>  
-1. 【[麻人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ren.md#麻人)】`ma2 ren2` <sup>[泰州]</sup> 使人感觉麻，人在进食蒜头、白酒、辣椒之类食物时产生的辛辣味觉：这个大椒不～。  
+1. 【[麻人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ren.md#麻人)】`ma2 ren2` <small>/ma2 ɻəŋ2/<sup>如皋</sup></small> ① 一种辛辣味。<sup>\[如东\]</sup> ② 辣味刺痛感。<sup>\[如皋\]</sup> ③ 吃了麻辣的东西，受到强烈的刺激。<sup>\[东台\]</sup> ④ 使人感觉麻，人在进食蒜头、白酒、辣椒之类食物时产生的辛辣味觉<sup>\[泰州\]</sup>：这个大椒不～。<sup>\[泰州\]</sup>  
 1. 【[麻石](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_sheh.md#麻石)】`ma2 sheh8` <sup>[如皋]</sup> 花岗石。  
 1. 【[麻石路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_sheh_lv.md#麻石路)】`ma2 sheh8 lv6` <sup>[如皋]</sup> 旧时市镇街面用花岗岩型石铺的路。  
 1. 【[麻𢜶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_so.md#麻𢜶)】`ma2 so5` <sup>[东台]</sup> 动作麻利、快捷。  
@@ -1108,8 +1106,7 @@
 1. 【[明四门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_sz_men.md#明四门)】`mien2 sz5 men2` <sup>[如皋]</sup> 明代如皋四城门：东“靖海门”，南“澄江门”，西“饯日门”；北“拱极门。”  
 1. 【[明袋<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_tae_r.md#明袋<sub>儿</sub>)】`mien2 tae6 r` <sup>[如皋]</sup> 做在外面的衣袋，与暗袋儿相对。  
 1. 【[明田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_tin.md#明田)】`mien2 tin2` <sup>[如皋]</sup> 旧称海边在范公堤内的田。  
-1. 【[明瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_va.md#明瓦)】`mien2 va3` <small>/miɪ̃2 ua3/<sup>兴化</sup>, /miəŋ2 ʋa3/<sup>如皋</sup>, /miŋ2 ua3/<sup>泰县</sup></small> ① 旧时用云母磨成的小方薄片，嵌在窗子的小方格内，有透光作用，称～。<sup>\[如皋\]</sup> ② 天窗玻璃、玻璃瓦。<sup>\[如皋\]</sup> ③ 天窗上的玻璃。<sup>\[兴化\]</sup> ④ 旧指镶在窗桶上采光的明角。<sup>\[兴化\]</sup> ⑤ 天窗上的玻璃。<sup>\[泰县\]</sup>  
-1. 【[明瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_va.md#明瓦)】`mien2 va3` <sup>[泰州]</sup> 古代用来采光的玻璃替代品，用牡蛎壳、蚌壳等磨制成的半透明薄片，嵌在屋顶、窗户之上，既能做瓦，又透光，故名。  
+1. 【[明瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_va.md#明瓦)】`mien2 va3` <small>/miɪ̃2 ua3/<sup>兴化</sup>, /miəŋ2 ʋa3/<sup>如皋</sup>, /miŋ2 ua3/<sup>泰县</sup></small> ① 旧时用云母磨成的小方薄片，嵌在窗子的小方格内，有透光作用，称～。<sup>\[如皋\]</sup> ② 天窗玻璃、玻璃瓦。<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup> ③ 旧指镶在窗桶上采光的明角。<sup>\[兴化\]</sup> ④ 古代用来采光的玻璃替代品，用牡蛎壳、蚌壳等磨制成的半透明薄片，嵌在屋顶、窗户之上，既能做瓦，又透光，故名。<sup>\[泰州\]</sup>  
 1. 【[明文](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_ven.md#明文)】`mien2 ven2` <sup>[如东]</sup> 公文。  
 1. 【[明星亮月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_xien_lian_iuh.md#明星亮月)】`mien2 xien1 lian6 iuh8` <small>/miɪ̃2 ɕin1 liaŋ6 yuʔ8/<sup>兴化</sup></small> ① 夜间天空没有云雾，星明月亮，表示天气晴朗。<sup>\[如东\]</sup>：今夜～。<sup>\[如东\]</sup> ② 形容晴朗月夜的情景<sup>\[兴化\]</sup>：外头～的，跑夜路怕甚的？<sup>\[兴化\]</sup>  
 1. 【[明星亮月的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_xien_lian_iuh_dii.md#明星亮月的)】`mien2 xien1 lian6 iuh8 dii` <sup>[如皋]</sup> 睛朗有月亮的夜空。  
@@ -1375,8 +1372,7 @@
 1. 【[茅草屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_co_oh.md#茅草屋)】`mo2 co3 oh7` <sup>[如东]</sup> 用茅草或其他草苫盖屋面的房屋。  
 1. 【[茅草棚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_co_pon_r.md#茅草棚<sub>儿</sub>)】`mo2 co3 pon2 r` <sup>[东台]</sup> 用茅苫草盖的屋子。  
 1. 【[茅房里跌跟头——离屎（死）不远](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_fan_lii_dih_gen_teu_li_shr_beh_iun.md#茅房里跌跟头——离屎（死）不远)】`mo2 fan2 lii dih7 gen1 teu li6 shr3 （sz3） beh7 iun3` <sup>[东台]</sup>   
-1. 【[茅缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_gan.md#茅缸)】`mo2 gan1` <small>/mɔ2 kaŋ1/<sup>兴化</sup>, /mɔ2 kɑŋ1/<sup>泰县</sup></small> ① 茅房，厕所 ② 储存粪便的设施，圆形，一般用砖砌成，较大，也有用砂缸的。通称厕所。<sup>\[如东\]</sup> ③ 露天或茅草房的厕所。<sup>\[东台\]</sup> ④ 供人大便的缸<sup>\[兴化\]</sup>：谚曰：～也有三日新。也称“坑缸”。<sup>\[兴化\]</sup> ⑤ 粪缸。<sup>\[泰县\]</sup>  
-1. 【[茅缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_gan.md#茅缸)】`mo2 gan1` <sup>[泰州]</sup> 农村厕所中装粪便的大缸。农村家庭多在此缸下半部分埋入土中，人蹲在缸边或者缸边架的木板上出恭。  
+1. 【[茅缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_gan.md#茅缸)】`mo2 gan1` <small>/mɔ2 kaŋ1/<sup>兴化</sup>, /mɔ2 kɑŋ1/<sup>泰县</sup></small> ① 茅房，厕所 ② 储存粪便的设施，圆形，一般用砖砌成，较大，也有用砂缸的。通称厕所。<sup>\[如东\]</sup> ③ 露天或茅草房的厕所。<sup>\[东台\]</sup> ④ 供人大便的缸<sup>\[兴化\]</sup>：谚曰：～也有三日新。也称“坑缸”。<sup>\[兴化\]</sup> ⑤ 粪缸。<sup>\[泰县\]</sup> ⑥ 农村厕所中装粪便的大缸。农村家庭多在此缸下半部分埋入土中，人蹲在缸边或者缸边架的木板上出恭。<sup>\[泰州\]</sup>  
 1. 【[茅缸座<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_gan_cu_r.md#茅缸座<sub>儿</sub>)】`mo2 gan1 cu6 r` <sup>[如东]</sup> 搁在茅缸上面的装置，供人坐着排泄大便，有坐椅形的，也有条凳形的。  
 1. 【[茅缸巷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_gan_han_zz.md#茅缸巷子)】`mo2 gan1 han6 zz` <sup>[东台]</sup> 旧时台城大户人家住宅下首或后门旁，运送粪便、垃圾和炊草杂物的专用通道。  
 1. 【[茅缸里的石头——又臭又硬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_gan_lii_dii_sheh_teu_ieu_cheu_ieu_ngen.md#茅缸里的石头——又臭又硬)】`mo2 gan1 lii dii sheh8 teu ieu6 cheu5 ieu6 ngen6` <sup>[东台]</sup>   

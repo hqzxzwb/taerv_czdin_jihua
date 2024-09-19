@@ -713,7 +713,7 @@
 1. 【[一间两搭披<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_gaen_laen_daeh_pi_r.md#一间两搭披<sub>儿</sub>)】`ieh7 gaen1 laen3 daeh7 pi1 r` <sup>[如皋]</sup> 一间屋的两山墙外都搭披屋。即元宝屋。  
 1. 【[一缸萝卜一缸水，一缸黄菜一缸粮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_gan_lu_poh_ieh_gan_shuei_ieh_gan_van_cae_ieh_gan_lian.md#一缸萝卜一缸水，一缸黄菜一缸粮)】`ieh7 gan1 lu2 poh8 ieh7 gan1 shuei3 ieh7 gan1 van2 cae5 ieh7 gan1 lian2` <sup>[如皋]</sup> 荒年，吃一缸萝卜如吃一缸水，而吃一缸胡萝卜樱儿如吃了一缸粮食，可度饥荒。  
 1. 【[一根一底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_gen_ieh_di.md#一根一底)】`ieh7 gen1 ieh7 di3` <sup>[兴化]</sup> 底细、缘由：覅忙，等我把他的～慢慢告诉你吧！  
-1. 【[一根竹子劈四丫，不是𢘞就是他](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_gen_zhoh_zz_pieh_sz_nga_beh_shr_nen_qieu_shr_ta.md#一根竹子劈四丫，不是𢘞就是他)】`ieh7 gen1 zhoh7 zz pieh7 sz5 nga1 beh7 shr nen3 qieu6 shr ta1` <sup>[泰兴]</sup> 对两个人中的一个应负责任者的猜测语，无其他实在意义。  
+1. 【[一根竹子劈四丫，不是你就是他](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_gen_zhoh_zz.md#一根竹子劈四丫，不是你就是他)】`ieh7 gen1 zhoh7 zz pieh7 sz5 nga1 beh7 shr nii3 qieu6 shr ta1` <small>/iʔ7 kə̃1 t͡sɔʔ7 t͡sɿ pʰiʔ7 sɿ5 ŋa1 pəʔ7 sɿ nə̃3 t͡ɕʰiɤɯ1 sɿ tʰa1/<sup>泰兴</sup></small> 对两个人中的一个应负责任者的猜测语，无其他实在意义。<sup>\[泰兴\]</sup>  
 1. 【[一篙子抹到底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_go_zz_maeh_do_di.md#一篙子抹到底)】`ieh7 go1 zz maeh8 do5 di3` <sup>[东台]</sup> 形容免去一切职务。  
 1. 【[一交](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_go.md#一交)】`ieh7 go5` <sup>[兴化]</sup> 一遍：晒～；洗～；磨～｜（浦郎见）桌上放着些废残的经典，翻了～，那有个什么诗。（《儒林外史》二一）  
 1. 【[一弓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_gon.md#一弓)】`ieh7 gon1` <sup>[如东]</sup> 长度单位，与步相应。其制历代不一：或以八尺为一弓；或以六尺为弓；清制以五尺为一弓，三百六十弓为一里，二百四十方弓为一亩。  
