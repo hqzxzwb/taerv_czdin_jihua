@@ -170,69 +170,21 @@ def 如皋(cz, pien_ien):
   return result
 
 def 泰县(cz, pien_ien):
-  if cz == '我' and pien_ien == 'ngu3':
-    return 'ŋ3'
+  shen, gae, yen, tio = boh_tae_base(
+    cz,
+    pien_ien,
+    qieh_survivor='吃',
+    i_as_z=True,
+    zin_as_jin=True,
+    rin_as_in=True,
+  )
 
-  shen, gae, yen, tio = parse_pien_ien(pien_ien)
-  if tio == '6': # 阳去并入阴平
-    tio = '1'
-
-  shen = pien_shih[shen] # 平翘舌不分
-  if shen == '' and yen == 'r': # 独立音节儿缀
-    yen = 'er'
-  elif yen == 'r':
-    yen = 'z'
-
-  if shen == 'n' and yen == 'v': # nv -> nu
-    yen = 'u'
-
-  if shen == 'l': # NL不分
-    shen = 'n'
-
-  if yen == 'i': # 舌尖化
-    yen = 'z'
-    if shen in ['j', 'q', 'x']:
-      shen = shih_jin_hua[shen]
-    elif shen == 'd':
-      shen = 'z'
-    elif shen == 't':
-      shen = 'c'
-  if cz == '里' and pien_ien == 'lii': # 舌尖化
-    shen = 'n'
-    yen = 'z'
-
-  if shen == 'ng' and cz not in '吖': # ng脱落
-    shen = ''
-
-  if cz == '子' and tio == '':
-    yen = 'ae'
-  elif cz == '的' and shen + gae + yen + tio == 'dii':
-    yen = 'ih'
-  elif shen == 'h' and yen == 'v': # hv -> fv
-    shen = 'f'
-  elif shen == 'm' and yen == 'eu': # meu -> mu
-    yen = 'u'
-  elif shen in ['z', 'c', 's'] and gae == 'u' and yen in ['a', 'ae', 'aeh', 'aen', 'ah', 'an', 'ei', 'eh', 'en']: # 合口混入撮口
-    shen = ngah_hua[shen]
-    gae = 'y'
-  elif shen == 'v' and yen in ['a', 'an', 'ah']: # v、u之别
-    shen = ''
-    gae = 'u'
-  elif shen == '' and gae + yen in ['y', 'yeh', 'yen']: # 增生r
+  if shen + gae + yen in ['y', 'yeh', 'yen']: # 增生r
     shen = 'r'
   elif shen + gae + yen == 'ruei': # ruei -> ryei
     gae = 'y'
-  elif shen in ['z', 'c', 's'] and yen in ['in', 'ih']: # 咸山摄腭化
-    shen = ngah_hua[shen]
-  elif shen == 'r' and yen in ['in', 'ih']: # 日母脱落
-    shen = ''
   elif shen == 'r' and yen == 'eh': # reh -> ryeh
     gae = 'y'
-  elif gae == 'i' and yen in ['un', 'uh']: # 撮口介音
-    gae = 'y'
-  elif gae == 'i' and yen == 'eh' and cz not in '吃': # ieh 混入 ih
-    gae = ''
-    yen = 'ih'
 
   if gae == 'i' and yen == 'en':
     result = tae_rv_ipa.tae_rv_ipa_shen[shen] + 'iŋ'
@@ -253,6 +205,69 @@ def 泰县(cz, pien_ien):
 
   result = result + tio
   return result
+
+def boh_tae_base(cz, pien_ien, qieh_survivor='吃七', i_as_z=False, zin_as_jin = False, rin_as_in = False):
+  shen, gae, yen, tio = parse_pien_ien(pien_ien)
+
+  if cz == '我' and shen + gae + yen == 'ngu':
+    return ['ng', '', '', tio]
+
+  if tio == '6': # 阳去并入阴平
+    tio = '1'
+
+  shen = pien_shih[shen] # 平翘舌不分
+  if shen == '' and yen == 'r': # 独立音节儿缀
+    yen = 'er'
+  elif yen == 'r':
+    yen = 'z'
+
+  if shen == 'n' and yen == 'v': # nv -> nu
+    yen = 'u'
+
+  if shen == 'l': # NL不分
+    shen = 'n'
+
+  if i_as_z:
+    if yen == 'i': # 舌尖化
+      yen = 'z'
+      if shen in ['j', 'q', 'x']:
+        shen = shih_jin_hua[shen]
+      elif shen == 'd':
+        shen = 'z'
+      elif shen == 't':
+        shen = 'c'
+    if cz == '里' and pien_ien == 'lii': # 舌尖化
+      shen = 'n'
+      yen = 'z'
+
+  if shen == 'ng' and cz not in '吖': # ng脱落
+    shen = ''
+
+  if cz == '子' and tio == '':
+    yen = 'ae'
+  elif cz == '的' and shen + gae + yen + tio == 'dii':
+    yen = 'ih'
+  elif shen == 'h' and yen == 'v': # hv -> fv
+    shen = 'f'
+  elif shen == 'm' and yen == 'eu': # meu -> mu
+    yen = 'u'
+  elif shen in ['z', 'c', 's'] and gae == 'u' and yen in ['a', 'ae', 'aeh', 'aen', 'ah', 'an', 'ei', 'eh', 'en']: # 合口混入撮口
+    shen = ngah_hua[shen]
+    gae = 'y'
+  elif shen == 'v' and yen in ['a', 'an', 'ah']: # v、u之别
+    shen = ''
+    gae = 'u'
+  elif zin_as_jin and shen in ['z', 'c', 's'] and yen in ['in', 'ih']: # 咸山摄腭化
+    shen = ngah_hua[shen]
+  elif rin_as_in and shen == 'r' and yen in ['in', 'ih']: # 日母脱落
+    shen = ''
+  elif gae == 'i' and yen in ['un', 'uh']: # 撮口介音
+    gae = 'y'
+  elif gae == 'i' and yen == 'eh' and cz not in qieh_survivor: # ieh 混入 ih
+    gae = ''
+    yen = 'ih'
+
+  return [shen, gae, yen, tio]
 
 def 兴化(cz, pien_ien):
   shen, gae, yen, tio = parse_pien_ien(pien_ien)
