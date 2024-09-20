@@ -76,6 +76,8 @@ def tae_xien_pien_ien(cz, ien, for_qio_shih = False):
   elif cz in '皱邹绉诌骤瘦愁': # 流摄庄三归精组。泰兴城部分人或部分词“愁”读qiou，顾黔亦有记录。从音系整齐度出发，不采纳。
     shen = pien_shih[shen]
     yen = 'ou'
+  elif cz == '茄' and shen + gae + yen == 'qia': # “茄”撮口
+    gae = 'y'
   elif shen in ['zh', 'ch', 'sh'] and yen == 'eu': # 流摄翘舌转舌面
     shen = ngah_hua[shen]
     gae = 'i'
