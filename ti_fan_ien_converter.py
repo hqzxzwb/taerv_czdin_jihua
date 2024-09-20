@@ -287,7 +287,10 @@ def 兴化(cz, pien_ien):
   if shen == 'ng' and cz not in '吖': # ng脱落
     shen = ''
 
-  if shen not in ['j', 'q', 'x', ''] and gae + yen in ['ien', 'ieh']: # ien->in，ieh->ih
+  if cz == '拚' and shen + gae + yen == 'pun' and tio in ['', '1']:
+    yen = 'aen'
+    tio = {'': '', '1': '6'}[tio]
+  elif shen not in ['j', 'q', 'x', ''] and gae + yen in ['ien', 'ieh']: # ien->in，ieh->ih
     gae = ''
     yen = 'i' + yen[1:]
   elif gae == 'i' and yen in ['un', 'uh', 'oh']: # 撮口介音
