@@ -220,7 +220,7 @@
 1. 【[曾祖父](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_zv_fv.md#曾祖父)】`zen1 zv3 fv6` <sup>[如东]</sup> 父亲的祖父。  
 1. 【[曾祖母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_zv_mu.md#曾祖母)】`zen1 zv3 mu3` <sup>[如东]</sup> 父亲的祖母。  
 1. 【[罾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen.md#罾)】`zen1` 一种四方形渔网。\[东台：按大小和捕鱼方法不同，分踢～、扳～、大～等。（见“扳罾”）\]\[如东：竹竿撑开四角，放入水中，依靠下放上拉进行捕鱼\]  
-1. 【[怎吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_nga.md#怎吖)】`zen3 nga` <small>/t͡sən3 ŋa/<sup>兴化</sup>, /t͡səŋ3 ŋa/<sup>如皋</sup>, /t͡səŋ3 ŋa/<sup>泰县</sup></small> ① 怎么、怎么样，合音为zan3，za3 。<sup>\[如皋\]</sup> ② 怎么，怎样。<sup>\[如东\]</sup>：你要～？<sup>\[如东\]</sup> ③ 疑问代词，相当于“怎么”“怎样”。境内其他地方也读作jien3 nga。<sup>\[兴化\]</sup> ④ 怎么。<sup>\[泰县\]</sup> ⑤ 老是：这事你～说的，我晓得咖啦。<sup>\[泰县\]</sup>  
+1. 【[怎吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_nga.md#怎吖)】`zen3 nga` <small>/t͡sən3 ŋəʔ/<sup>兴化</sup>, /t͡səŋ3 ŋa/<sup>如皋</sup>, /t͡səŋ3 ŋəʔ/<sup>泰县</sup></small> ① 怎么、怎么样，合音为zan3，za3 。<sup>\[如皋\]</sup> ② 怎么，怎样。<sup>\[如东\]</sup>：你要～？<sup>\[如东\]</sup> ③ 疑问代词，相当于“怎么”“怎样”。境内其他地方也读作jien3 nga。<sup>\[兴化\]</sup> ④ 怎么。<sup>\[泰县\]</sup> ⑤ 老是：这事你～说的，我晓得咖啦。<sup>\[泰县\]</sup>  
 1. 【[怎吖好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_nga_ho.md#怎吖好)】`zen3 nga ho3` <sup>[东台]</sup> 一种无可奈何的口气，意思是不知道怎样才好。  
 1. 【[怎吖好意思](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_nga_ho_i_sz.md#怎吖好意思)】`zen3 nga ho3 i5 sz` <sup>[东台]</sup> 一种难为情、无法求人的尴尬心态：我多次烦你，～？  
 1. 【[怎吖弄相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_nga_lon_xian.md#怎吖弄相)】`zen3 nga lon6 xian5` <sup>[如皋]</sup> 怎么做法：这次出差～啋？你说说分清吧！  

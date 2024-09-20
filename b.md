@@ -556,7 +556,7 @@
 1. 【[不得能够](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_deh_nen_geu.md#不得能够)】`beh7 deh nen2 geu5` <sup>[兴化]</sup> ① 不可能：“……我被他坏了名声，破了香火，有心要捉唐僧，只怕～。”（《西游记》四八） ② 傲慢无礼或指手足无措的样子：自从她男人当吖村长，她在庄上就像～啊。｜你看他高兴的样子，简直～啊。  
 1. 【[不得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_deh.md#不得)】`beh7 deh7` <small>/pəʔ7 təʔ7/<sup>兴化</sup></small> ① 不会<sup>\[兴化\]</sup>：你去请他～不来。<sup>\[兴化\]</sup> ② 不能<sup>\[兴化\]</sup>：他满身痧子隐吖皮里～出来。<sup>\[兴化\]</sup> ③ 不能，不会<sup>\[泰州\]</sup>：他～说你不好。<sup>\[泰州\]</sup>｜你～同他写。<sup>\[泰州\]</sup>｜你～骂他。<sup>\[泰州\]</sup>  
 1. 【[不得分门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_deh_fen_men.md#不得分门)】`beh7 deh7 fen1 men2` <sup>[东台]</sup> 无法解决，结局很糟。  
-1. 【[不得咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_deh_ga.md#不得咖)】`beh7 deh7 ga` <small>/pəʔ7 təʔ7 ka/<sup>泰县</sup></small> ① 不会的；不可能。<sup>\[东台\]</sup> ② 他～来啊啦。<sup>\[泰县\]</sup>  
+1. 【[不得咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_deh_ga.md#不得咖)】`beh7 deh7 ga` <small>/pəʔ7 təʔ7 kəʔ/<sup>泰县</sup></small> ① 不会的；不可能。<sup>\[东台\]</sup> ② 他～来啊啦。<sup>\[泰县\]</sup>  
 1. 【[不得过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_deh_gu.md#不得过)】`beh7 deh7 gu5` <sup>[如东]</sup> ① 有障碍，无法通过：这条河～。 ② 非常难受：我心里～。  
 1. 【[不得过啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_deh_gu_a.md#不得过啊)】`beh7 deh7 gu5 a` <sup>[如皋]</sup> ① 程度极强：快活咖～。 ② 贬指癫狂：得咖奖之后他就～啦。 ③ 不能忍受：痒得～。  
 1. 【[不得过门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_deh_gu_men.md#不得过门)】`beh7 deh7 gu5 men2` <sup>[如东]</sup> ① 无法通过大门。比喻无法逃脱障碍或法律制裁：王二把人打伤了，再说情也是～的。 ② 比喻无法达到规定的标准：陈四儿文化太低，他想通过电控机床考试，恐怕～。  

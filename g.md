@@ -3,7 +3,7 @@
 ## G
 1. 【[……家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga.md#……家)】`ga` <sup>[东台]</sup> ① 这里“家”轻读。接在姓氏后，加上地方特点命名地名：王～舍；孔～堡。 ② 接在某姓后面，相当于姓……的：张～；李～；王～佬。 ③ 亲昵地呼唤小孩：来啊～；到我家多住几天，可好？～。  
 1. 【[……鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei.md#……鬼)】`guei3` <sup>[东台]</sup> 用在句末表示对前面内容的否定：好个～（不好）｜睬你个～（不理睬你）。  
-1. 【[咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga.md#咖)】`ga` <small>/ka/<sup>兴化</sup>, /ka/<sup>如皋</sup></small> ① 语气助词，“啊”在前字收塞尾时的变体。<sup>\[如皋\]</sup>：吃～、跌～、活～。<sup>\[如皋\]</sup> ② （同“唃gah”）<sup>\[兴化\]</sup> ③ 表疑问语气<sup>\[兴化\]</sup>：这块布几尺～？；电脑哿难学～？<sup>\[兴化\]</sup> ④ 表感叹语气<sup>\[兴化\]</sup>：这种闷酒不能喝～。<sup>\[兴化\]</sup>  
+1. 【[咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga.md#咖)】`ga` <small>/kəʔ/<sup>兴化</sup>, /ka/<sup>如皋</sup></small> ① 语气助词，“啊”在前字收塞尾时的变体。<sup>\[如皋\]</sup>：吃～、跌～、活～。<sup>\[如皋\]</sup> ② （同“唃gah”）<sup>\[兴化\]</sup> ③ 表疑问语气<sup>\[兴化\]</sup>：这块布几尺～？；电脑哿难学～？<sup>\[兴化\]</sup> ④ 表感叹语气<sup>\[兴化\]</sup>：这种闷酒不能喝～。<sup>\[兴化\]</sup>  
 1. 【[咖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_zz.md#咖子)】`ga zz` 同“下子”，跟在入声韵之后：踢～。｜歇～。  
 1. 【[加大帽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_da_mo_zz.md#加大帽子)】`ga1 da6 mo6 zz` <sup>[如东]</sup> ① 给人随便地添加某种罪名：请你不要匄我～。 ② 说好话：你不要匄我～。  
 1. 【[加褂<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_gua_r.md#加褂<sub>儿</sub>)】`ga1 gua5 r` <sup>[如皋]</sup> 穿在外面的衣裳。  

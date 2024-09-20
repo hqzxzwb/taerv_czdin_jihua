@@ -1287,7 +1287,7 @@
 1. 【[前脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_jiah.md#前脚)】`qin2 jiah7` <sup>[如皋]</sup> 行动在前：你～走，他后脚到，正好不曾遇到。  
 1. 【[前脚后脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_jiah_heu_jiah.md#前脚后脚)】`qin2 jiah7 heu6 jiah7` <small>/t͡ɕʰiɪ̃2 t͡ɕiaʔ7 xɤ6 t͡ɕiaʔ7/<sup>兴化</sup></small> 指到来或离去的时间很接近<sup>\[东台\]</sup><sup>\[兴化\]</sup>：他俩是～赶到现场的。<sup>\[东台\]</sup>  
 1. 【[前具脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_jy_jiah.md#前具脚)】`qin2 jy5 jiah7` <sup>[如东]</sup> 棺材的前脚。  
-1. 【[前吖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_nga_zz.md#前吖子)】`qin2 nga zz` <small>/t͡ɕʰiɪ̃2 ŋa t͡se/<sup>泰县</sup></small> ① 前天，昨天的前一天。也叫“前到儿”。<sup>\[东台\]</sup> ② 前天。<sup>\[泰县\]</sup>  
+1. 【[前吖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_nga_zz.md#前吖子)】`qin2 nga zz` <small>/t͡ɕʰiɪ̃2 ŋəʔ t͡se/<sup>泰县</sup></small> ① 前天，昨天的前一天。也叫“前到儿”。<sup>\[东台\]</sup> ② 前天。<sup>\[泰县\]</sup>  
 1. 【[前娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_nian.md#前娘)】`qin2 nian2` <small>/t͡ɕʰĩ2 niã2/<sup>如皋</sup></small> ① 父再婚后，指称随父生活儿女的生母。<sup>\[如皋\]</sup> ② 父亲的前妻。<sup>\[如东\]</sup>  
 1. 【[前年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_nin.md#前年)】`qin2 nin2` <sup>[东台]</sup> 也叫“前年子”，就是去年的前一年。  
 1. 【[前年子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_nin_zz.md#前年子)】`qin2 nin2 zz` <small>/t͡ɕʰiɪ̃2 liɪ̃2 t͡sɿ/<sup>兴化</sup>, /t͡ɕʰĩ2 nĩ2 t͡sɿ/<sup>如皋</sup></small> ① 前年。去年的去年。<sup>\[如皋\]</sup> ② 去年的前一年。<sup>\[兴化\]</sup>  

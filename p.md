@@ -157,7 +157,7 @@
 1. 【[薄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah.md#薄)】`pah8` <small>/pʰaʔ8/<sup>兴化</sup></small> ① 气体或者液体浓度低：～粥 ② 形容粥或汤稀、含水多<sup>\[兴化\]</sup>：～粥<sup>\[兴化\]</sup>｜～汤。<sup>\[兴化\]</sup>  
 1. 【[薄刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_do.md#薄刀)】`pah8 do1` <small>/pʰaʔ8 tɔ1/<sup>兴化</sup>, /pʰaʔ8 tɔ1/<sup>如皋</sup>, /pʰɑʔ8 tɔ1/<sup>泰县</sup></small> ① 菜刀 ② 厨刀，前口呈弧形。<sup>\[如皋\]</sup> ③ 厨具，长方形，刀身薄，一面锋利，一面厚钝，有柄。用来加工鱼、肉、菜等。也叫莱刀。<sup>\[如东\]</sup> ④ 切菜的刀。<sup>\[东台\]</sup> ⑤ 菜刀。<sup>\[兴化\]</sup> ⑥ 切菜刀<sup>\[泰县\]</sup>：把～磨下子。<sup>\[泰县\]</sup>  
 1. 【[薄咖浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_ga_jian.md#薄咖浆)】`pah8 ga jian1` <sup>[如皋]</sup> 糟了、完了。源自给豆浆点卤失败。  
-1. 【[薄咖汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_ga_tan.md#薄咖汤)】`pah8 ga tan1` <small>/pʰaʔ8 ka tʰã1/<sup>如皋</sup>, /pʰɑʔ8 ka tʰɑŋ1/<sup>泰县</sup></small> ① 见“薄咖浆”。<sup>\[如皋\]</sup> ② 彻底完了：他不曾好好复习，这回考试～。<sup>\[泰县\]</sup>  
+1. 【[薄咖汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_ga_tan.md#薄咖汤)】`pah8 ga tan1` <small>/pʰaʔ8 ka tʰã1/<sup>如皋</sup>, /pʰɑʔ8 kəʔ tʰɑŋ1/<sup>泰县</sup></small> ① 见“薄咖浆”。<sup>\[如皋\]</sup> ② 彻底完了：他不曾好好复习，这回考试～。<sup>\[泰县\]</sup>  
 1. 【[薄荷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_hu.md#薄荷)】`pah8 hu` <sup>[如东]</sup> 唇形科植物家薄荷，多年生草本。  
 1. 【[薄荷糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_hu_go.md#薄荷糕)】`pah8 hu go1` <sup>[如皋]</sup> 含薄荷油的米粉糕，一种夏令茶食。  
 1. 【[薄荷露](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_hu_lv.md#薄荷露)】`pah8 hu lv6` <sup>[如东]</sup> 唇形科植物家薄荷鲜茎叶的蒸馏液，入中药。  

@@ -700,7 +700,7 @@
 1. 【[厚粥烂饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_zhoh_laen_faen.md#厚粥烂饭)】`heu6 zhoh7 laen6 faen6` <sup>[如皋]</sup> 含水量过多的饭或含水量偏少的粥。  
 1. 【[后×月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_iuh.md#后×月)】`heu6 iuh8` <sup>[如皋]</sup> 阴历闰×月，就有后×月之说。  
 1. 【[后啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_a.md#后啊)】`heu6 a` 后天。  
-1. 【[后啊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_a_zz.md#后啊子)】`heu6 a zz` <small>/xɤ6 a t͡sɿ/<sup>兴化</sup>, /xɤɯ1 a t͡se/<sup>泰县</sup></small> ① 后天，明天的明天。<sup>\[东台\]</sup> ② 后天。<sup>\[兴化\]</sup> ③ 后天<sup>\[泰县\]</sup>：你～走。<sup>\[泰县\]</sup>  
+1. 【[后啊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_a_zz.md#后啊子)】`heu6 a zz` <small>/xɤ6 əʔ t͡sɿ/<sup>兴化</sup>, /xɤɯ1 əʔ t͡se/<sup>泰县</sup></small> ① 后天，明天的明天。<sup>\[东台\]</sup> ② 后天。<sup>\[兴化\]</sup> ③ 后天<sup>\[泰县\]</sup>：你～走。<sup>\[泰县\]</sup>  
 1. 【[后背](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_bei.md#后背)】`heu6 bei5` <sup>[如皋]</sup> 背部。  
 1. 【[后壁头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_bieh_teu.md#后壁头)】`heu6 bieh7 teu2` <sup>[兴化]</sup> 后墙的外侧：他家～就是菜市场。  
 1. 【[后补](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_bv.md#后补)】`heu6 bv3` <small>/xɤ6 pu3/<sup>兴化</sup></small> ① 当时没有办到，以后再补上<sup>\[兴化\]</sup>：有情～。<sup>\[兴化\]</sup>｜“府上何人完姻？俺贺礼也不曾备来，只好～了。”（《说岳全传》三二）<sup>\[兴化\]</sup> ② 由于某种原因，当时没法表达情意，以后再想办法弥补<sup>\[泰州\]</sup>：把你忙吖半大天，真的不好意思，有情～。<sup>\[泰州\]</sup>  
@@ -1944,7 +1944,7 @@
 1. 【[浑笃笃的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_doh_doh_dii.md#浑笃笃的)】`huen2 doh doh7 dii` <sup>[如皋]</sup> 浑浊不清的样子。  
 1. 【[浑笃笃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_doh_doh.md#浑笃笃)】`huen2 doh7 doh7` <sup>[如东]</sup> 浑浊不清：桶里的水～的。  
 1. 【[浑名](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_mien.md#浑名)】`huen2 mien2` <sup>[如东]</sup> 绰号。也称外号。  
-1. 【[浑吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_nga.md#浑吖)】`huen2 nga` <small>/xuəŋ2 ŋa/<sup>如皋</sup>, /xuəŋ2 ŋa/<sup>泰县</sup></small> ① 浑浊了。<sup>\[如皋\]</sup> ② 思维混乱，不知所措。常由糊涂、惊吓、忧虑等原因而起。<sup>\[泰县\]</sup><sup>\[如皋\]</sup><sup>\[泰州\]</sup>：证据朝他面前一摆，他就～。<sup>\[泰县\]</sup>｜不要望他现在神气，只要纪委一找他，他就～唻。<sup>\[泰州\]</sup>  
+1. 【[浑吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_nga.md#浑吖)】`huen2 nga` <small>/xuəŋ2 ŋa/<sup>如皋</sup>, /xuəŋ2 ŋəʔ/<sup>泰县</sup></small> ① 浑浊了。<sup>\[如皋\]</sup> ② 思维混乱，不知所措。常由糊涂、惊吓、忧虑等原因而起。<sup>\[泰县\]</sup><sup>\[如皋\]</sup><sup>\[泰州\]</sup>：证据朝他面前一摆，他就～。<sup>\[泰县\]</sup>｜不要望他现在神气，只要纪委一找他，他就～唻。<sup>\[泰州\]</sup>  
 1. 【[浑球](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_qieu.md#浑球)】`huen2 qieu2` <small>/xuən2 t͡ɕʰiɤ2/<sup>兴化</sup>, /xuəŋ5 t͡ɕʰiɤɯ2/<sup>泰县</sup></small> 詈语，犹糊涂蛋、混蛋<sup>\[兴化\]</sup><sup>\[泰县\]</sup>：这小伙是个～，老婆的相好当吖上宾招待。<sup>\[兴化\]</sup>  
 1. 【[浑身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_shen.md#浑身)】`huen2 shen1` <sup>[如东]</sup> 全身。  
 1. 【[浑身谎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_shen_huan.md#浑身谎)】`huen2 shen1 huan3` <sup>[如东]</sup> 比喻到处都说假话。  

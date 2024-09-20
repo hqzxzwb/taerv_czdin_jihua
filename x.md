@@ -670,7 +670,7 @@
 1. 【[相命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_mien.md#相命)】`xian5 mien6` <sup>[兴化]</sup> （借）根据事理推断。  
 1. 【[相面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_min.md#相面)】`xian5 min6` <small>/ɕiaŋ5 miɪ̃6/<sup>兴化</sup></small> ① 观察人的相貌推测祸福。<sup>\[如东\]</sup>：王二是一个～先生。<sup>\[如东\]</sup> ② （借）根据事理推断<sup>\[兴化\]</sup>：我跟你～，你这碗饭怕吃不长吖。‖也作“相命”。<sup>\[兴化\]</sup>  
 1. 【[相貌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_mo.md#相貌)】`xian5 mo6` <sup>[如东]</sup> 人的容貌。  
-1. 【[相吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_nga.md#相吖)】`xian5 nga` <small>/ɕiaŋ5 ŋa/<sup>兴化</sup></small> ① 看着，相当于明明是，后面接转折意<sup>\[东台\]</sup>：这许～干净，他却嫌脏。<sup>\[东台\]</sup> ② 明明的<sup>\[兴化\]</sup>：这个钱～是他拿啊去的，现在不承认，想赖哪个？<sup>\[兴化\]</sup>  
+1. 【[相吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_nga.md#相吖)】`xian5 nga` <small>/ɕiaŋ5 ŋəʔ/<sup>兴化</sup></small> ① 看着，相当于明明是，后面接转折意<sup>\[东台\]</sup>：这许～干净，他却嫌脏。<sup>\[东台\]</sup> ② 明明的<sup>\[兴化\]</sup>：这个钱～是他拿啊去的，现在不承认，想赖哪个？<sup>\[兴化\]</sup>  
 1. 【[相吖脚的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_nga_jiah_dii.md#相吖脚的)】`xian5 nga jiah7 dii` <sup>[东台]</sup> 提醒走路时脚下小心。  
 1. 【[相吖他（我）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_nga_ta.md#相吖他（我）)】`xian5 nga ta1` <sup>[如皋]</sup> 干瞪眼。此语有叹息的意思。  
 1. 【[相吖他（我）㗇气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_nga_ta_ha_qi.md#相吖他（我）㗇气)】`xian5 nga ta1 ha2 qi5` <sup>[如皋]</sup> 干瞪眼。此语有叹息的意思。  
