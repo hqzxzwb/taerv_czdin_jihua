@@ -240,7 +240,9 @@ def boh_tae_base(cz, pien_ien, qieh_survivor='吃七', i_as_z=False, zin_as_jin 
       shen = 'n'
       yen = 'z'
 
-  if shen == 'ng' and cz not in '吖': # ng脱落
+  if cz == '啊' and pien_ien == 'a' or cz == '吖' and pien_ien == 'nga' or cz == '咖' and pien_ien == 'ga': # 啊的高化
+    yen = 'eh'
+  elif shen == 'ng': # ng脱落
     shen = ''
 
   if cz == '子' and tio == '':
@@ -284,7 +286,9 @@ def 兴化(cz, pien_ien):
   if shen in ['n', 'r']: # NLR不分
     shen = 'l'
 
-  if shen == 'ng' and cz not in '吖': # ng脱落
+  if cz == '啊' and pien_ien == 'a' or cz == '吖' and pien_ien == 'nga' or cz == '咖' and pien_ien == 'ga': # 啊的高化
+    yen = 'eh'
+  elif shen == 'ng': # ng脱落
     shen = ''
 
   if cz == '拚' and shen + gae + yen == 'pun' and tio in ['', '1']:
