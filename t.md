@@ -54,7 +54,7 @@
 1. 【[抬头看人低头斫肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_teu_kun_ren_di_teu_zhah_roh.md#抬头看人低头斫肉)】`tae2 teu2 kun5 ren2 di1 teu2 zhah7 roh8` <sup>[东台]</sup> 以看人卖肉讽喻势利、不公平现象。  
 1. 【[抬头婆娘低头汉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_teu_pu_nian_di_teu_hun.md#抬头婆娘低头汉)】`tae2 teu2 pu2 nian2 di1 teu2 hun5` <sup>[东台]</sup> 走路时习惯抬头的女人和低头的男人都很有心机。  
 1. 【[抬箱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_xian.md#抬箱)】`tae2 xian1` <sup>[如皋]</sup> 有底座的大箱子，供抬运。  
-1. 【[大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#大)】`tae3` <small>/tʰɛ3/<sup>如皋</sup></small> ① 大，不小 ② 大。<sup>\[如皋\]</sup> ③ 大<sup>\[东台\]</sup>：这个瓜多～！吃不下。<sup>\[东台\]</sup>  
+1. 【[大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#大)】`tae3` <small>/tʰɛ3/<sup>如皋</sup></small> 大，不小<sup>\[如皋\]</sup><sup>\[东台\]</sup>：这个瓜多～！吃不下。<sup>\[东台\]</sup>  
 1. 【[大哥<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_gu_r.md#大哥<sub>儿</sub>)】`tae3 gu1 r, tae3 gu2 r` <sup>[如皋]</sup> 行一，老大。  
 1. 【[大气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_qi.md#大气)】`tae3 qi` <sup>[如东]</sup> 大方：不～。  
 1. 【[大大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_tae.md#大大)】`tae3 tae3` <sup>[泰县]</sup> 愉快满意  
@@ -127,7 +127,7 @@
 1. 【[待匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_qian.md#待匠)】`tae6 qian6` <sup>[东台]</sup> 指工程竣工，招待工匠：房子明吖～。  
 1. 【[怠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#怠)】`tae6` <sup>[兴化]</sup> （借）松懈：这件事就是他～下来的。  
 1. 【[怠啊怠的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_a_tae_dii.md#怠啊怠的)】`tae6 a tae6 dii` <sup>[东台]</sup> 动作拖沓、慢吞吞：行动快点儿，不要～的。  
-1. 【[汏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#汏)】`tae6` <small>/tʰɛ6/<sup>兴化</sup>, /tʰɛ1/<sup>如皋</sup></small> ① 漂洗。<sup>\[如皋\]</sup> ② 洗过的衣被，再放到清水里漂洗。<sup>\[东台\]</sup> ③ 洗后漂清<sup>\[兴化\]</sup>：金如松一面把洗的衣裳～～清，一面……（马春阳《姐妹姻缘船迷传》）<sup>\[兴化\]</sup>｜《后汉书·陈元传》<sup>\[兴化\]</sup>｜“解释先圣之积结，洮汰学者之累惑。”李贤注<sup>\[兴化\]</sup>｜“洗汰，犹洗濯也。”<sup>\[兴化\]</sup> ④ 用清水漂洗衣物<sup>\[泰州\]</sup>：到河边～衣裳<sup>\[泰州\]</sup> ⑤ 粗洗之后在用清水漂洗物品<sup>\[泰州\]</sup>：青菜我洗过啊，你要～下子再下锅。<sup>\[泰州\]</sup>  
+1. 【[汏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#汏)】`tae6` <small>/tʰɛ6/<sup>兴化</sup>, /tʰɛ1/<sup>如皋</sup></small> 漂洗。<sup>\[如皋\]</sup><sup>\[泰州\]</sup>\[兴化：洗后漂清\]\[东台：洗过的衣被，再放到清水里漂洗。\]：金如松一面把洗的衣裳～～清，一面……（马春阳《姐妹姻缘船迷传》）<sup>\[兴化\]</sup>｜到河边～衣裳<sup>\[泰州\]</sup>｜青菜我洗过啊，你要～下子再下锅。<sup>\[泰州\]</sup>  
 1. 【[绐弯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_vaen.md#绐弯)】`tae6 vaen1` <sup>[东台]</sup> 变形，中间下垂：我家的旧沙发用吖几年，里面弹簧～。  
 1. 【[袋<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_r.md#袋<sub>儿</sub>)】`tae6 r` <sup>[如东]</sup> 口袋。有布口袋麻口袋、草口袋、塑料口袋诸种。  
 1. 【[袋<sub>儿</sub>口朝下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_r_keu_cho_ha.md#袋<sub>儿</sub>口朝下)】`tae6 r keu3 cho2 ha6` <sup>[东台]</sup> ［喻］大方，舍得掏钱用。  

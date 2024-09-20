@@ -42,8 +42,7 @@
 1. 【[拉纤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_qin.md#拉纤)】`la1 qin5` <sup>[兴化]</sup> 把纤绳放在背上拉。  
 1. 【[拉桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_qio.md#拉桥)】`la1 qio2` <sup>[如皋]</sup> 为船过闸桥而拆卸桥面并收取管理费的过程。  
 1. 【[拉桥班](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_qio_baen.md#拉桥班)】`la1 qio2 baen1` <sup>[如皋]</sup> 旧时管理闸桥拆装的一班人。  
-1. 【[拉劝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_qiun.md#拉劝)】`la1 qiun5` <small>/la1 t͡ɕʰyũ5/<sup>兴化</sup>, /la1 t͡ɕʰyʊ̃5/<sup>如皋</sup></small> ① 拉架，连拉带劝。 ② 拉开，劝解。<sup>\[如东\]</sup> ③ 连拉带劝。以平息争吵。<sup>\[如皋\]</sup> ④ 拉开并劝阻打架的双方。<sup>\[东台\]</sup> ⑤ 调解、劝和。“拉”又读laeh8。<sup>\[兴化\]</sup>  
-1. 【[拉劝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_qiun.md#拉劝)】`la1 qiun5` <sup>[泰州]</sup> 对正在打架或者吵架的双方进行劝阻，使之停止打骂：看到他俫动起手来，老王赶紧上去～。  
+1. 【[拉劝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_qiun.md#拉劝)】`la1 qiun5` <small>/la1 t͡ɕʰyũ5/<sup>兴化</sup>, /la1 t͡ɕʰyʊ̃5/<sup>如皋</sup></small> 拉架，连拉带劝，以平息争吵或打斗。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰州\]</sup>\[兴化：“拉”又读laeh8。\]：看到他俫动起手来，老王赶紧上去～。<sup>\[泰州\]</sup>  
 1. 【[拉<sub>儿</sub>兵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_r_bien.md#拉<sub>儿</sub>兵)】`la1 r bien1` <sup>[兴化]</sup> ① 旧指军容不整的兵油子。 ② （喻）衣履不整的人：他一天到晚拖鞋靸袜，蓬头垢面的，像个～。  
 1. 【[拉索](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_sah.md#拉索)】`la1 sah7` <sup>[泰县]</sup> 两条船在浅水滩上取鱼。  
 1. 【[拉生意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_shen_i.md#拉生意)】`la1 shen1 i` <sup>[如皋]</sup> 找生意。  

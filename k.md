@@ -690,8 +690,7 @@
 1. 【[快边<sub>儿</sub>桌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_bin_r_zhuah.md#快边<sub>儿</sub>桌)】`kuae5 bin1 r zhuah7` <sup>[如东]</sup> 桌的一种。结构简单，一块四方形木板，下边安装四条腿，这种桌叫做快边儿桌。  
 1. 【[快船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_chun.md#快船)】`kuae5 chun2` <sup>[如皋]</sup> 旧时内河客船。有固定线路，用縴和橹，日行百里。  
 1. 【[快大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_da.md#快大)】`kuae5 da` <sup>[如皋]</sup> 快，迅速。  
-1. 【[快当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_dan.md#快当)】`kuae5 dan` <small>/kʰuɛ5 taŋ/<sup>兴化</sup>, /kʰuɛ5 tã/<sup>如皋</sup></small> ① 迅速。<sup>\[如皋\]</sup> ② 迅速敏捷，不拖拉。<sup>\[兴化\]</sup>  
-1. 【[快当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_dan.md#快当)】`kuae5 dan` <sup>[泰州]</sup> 迅速：人家都在下等你，你～点儿，哿好？  
+1. 【[快当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_dan.md#快当)】`kuae5 dan` <small>/kʰuɛ5 taŋ/<sup>兴化</sup>, /kʰuɛ5 tã/<sup>如皋</sup></small> 迅速。<sup>\[如皋\]</sup><sup>\[泰州\]</sup>\[兴化：迅速敏捷，不拖拉。\]：人家都在下等你，你～点儿，哿好？<sup>\[泰州\]</sup>  
 1. 【[快得甚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_deh_shen.md#快得甚)】`kuae5 deh7 shen5` <sup>[东台]</sup> 非常快。  
 1. 【[快刀切萝卜——干脆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_do_qih_lu_poh_gun_qy.md#快刀切萝卜——干脆)】`kuae5 do1 qih7 lu2 poh gun1 qy5` <sup>[东台]</sup>   
 1. 【[快刀切豆腐——两面光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_do_qih_teu_fv_laen_min_guan.md#快刀切豆腐——两面光)】`kuae5 do1 qih7 teu6 fv laen3 min6 guan1` <sup>[东台]</sup>   
