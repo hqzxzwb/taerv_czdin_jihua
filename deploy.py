@@ -133,7 +133,8 @@ def parse_cont(cont, fname):
     sort_key = ''
     word = ''
     for cz, ien, *_ in mixed:
-        sort_key += ien + ' ' + cz + ' '
+        if ien:
+            sort_key += ien + ' ' + cz + ' '
         word += cz
 
     prints = False
