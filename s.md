@@ -956,7 +956,6 @@
 1. 【[失算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_sun.md#失算)】`sheh7 sun5` <sup>[如东]</sup> 没有计算或计算得不好：这趟生意我～吖，亏啊本。  
 1. 【[失头忘尾的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_teu_van_vei_dii.md#失头忘尾的)】`sheh7 teu2 van6 vei3 dii` <sup>[如皋]</sup> 健忘：年纪大啊经常～，不是忘这样，就是忘那样。  
 1. 【[失天火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_tin_hu.md#失天火)】`sheh7 tin1 hu3` <small>/səʔ7 tʰiɪ̃1 xo3/<sup>兴化</sup>, /səʔ7 tʰĩ1 xʊ3/<sup>如皋</sup></small> ① 遭雷击而起火，称失天火。<sup>\[如东\]</sup> ② 自然火引发的火灾。<sup>\[如皋\]</sup> ③ 诅咒语。<sup>\[如皋\]</sup> ④ 自然起火，市井认为是上天降灾<sup>\[兴化\]</sup>：“土地老爷在上，我若做了此事，就叫我家死人～！他诬赖我，也一样！”（汪曾祺《故里杂记》）<sup>\[兴化\]</sup>  
-1. 【[失误](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_v.md#失误)】`sheh7 v6` <sup>[如皋]</sup> ① 意外差错或事故：出～。 ② 延误：病捱～下来啊。  
 1. 【[失物数来人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_veh_shv_lae_ren.md#失物数来人)】`sheh7 veh8 shv3 lae2 ren2` <sup>[兴化]</sup> 丢失钱物，当与到过现场的人有关：谚曰：船舱不漏针，～。  
 1. 【[失心疯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_xien_fon.md#失心疯)】`sheh7 xien1 fon1` <sup>[兴化]</sup> 癫狂神经错乱：他一听说买的股票崩盘，急得手足无措，好像～一般。｜《水浒传》第三十九回有“你便口里胡言乱语，只做～便好”句。  
 1. 【[失晓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_xio.md#失晓)】`sheh7 xio3` <small>/səʔ7 ɕiɔ3/<sup>兴化</sup>, /səʔ7 ɕiɔ3/<sup>如皋</sup></small> ① 睡过了头。<sup>\[如东\]</sup>：我睡吖失咖晓。<sup>\[如东\]</sup> ② 晨起过时，睡过头。<sup>\[如皋\]</sup> ③ 睡到天亮，或到约定时间还未醒<sup>\[东台\]</sup>：早上要设个闹钟，防止～。<sup>\[东台\]</sup> ④ 睡过了时间，不知天亮<sup>\[兴化\]</sup>：昨晚打扑克玩晏吖，早上睡啊～。“客官～，好起了。”（《水浒传》二）<sup>\[兴化\]</sup>  
