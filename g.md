@@ -1,7 +1,7 @@
 # 音序检索
 **[A](./a.md) | [B](./b.md) | [C](./c.md) | [D](./d.md) | [E](./e.md) | [F](./f.md) | [G](./g.md) | [H](./h.md) | [I](./i.md) | [J](./j.md) | [K](./k.md) | [L](./l.md) | [M](./m.md) | [N](./n.md) | [O](./o.md) | [P](./p.md) | [Q](./q.md) | [R](./r.md) | [S](./s.md) | [T](./t.md) | [U](./u.md) | [V](./v.md) | [X](./x.md) | [Y](./y.md) | [Z](./z.md)**  
 ## G
-1. 【[咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga.md#咖)】`ga` <small>/kəʔ/<sup>兴化</sup>, /ka/<sup>如皋</sup></small> ① 语气助词，“啊”在前字收塞尾时的变体。<sup>\[如皋\]</sup>：吃～、跌～、活～。<sup>\[如皋\]</sup> ② （同“唃gah”）<sup>\[兴化\]</sup> ③ 表疑问语气<sup>\[兴化\]</sup>：这块布几尺～？；电脑哿难学～？<sup>\[兴化\]</sup> ④ 表感叹语气<sup>\[兴化\]</sup>：这种闷酒不能喝～。<sup>\[兴化\]</sup>  
+1. 【[咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga.md#咖)】`ga` <small>/kəʔ/<sup>兴化</sup>, /ka/<sup>如皋</sup>, /ka/<sup>泰兴</sup>, /kəʔ/<sup>泰县</sup></small> ① 助词，“啊”在前字收塞尾时的变体。<sup>\[兴化\]</sup>：吃～、跌～、活～。｜吃～你家的，省吖他家的<sup>\[兴化\]</sup>｜喝～二两酒<sup>\[兴化\]</sup>｜吓～一跳<sup>\[兴化\]</sup> ② 表疑问语气\[兴化：ga6\]：这块布几尺～？；电脑哿难学～？<sup>\[兴化\]</sup> ③ 表感叹语气\[兴化：ga6\]：这种闷酒不能喝～。<sup>\[兴化\]</sup>  
 1. 【[咖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_zz.md#咖子)】`ga zz` 同“下子”，跟在入声韵之后：踢～。｜歇～。  
 1. 【[……家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga.md#……家)】`ga` <sup>[东台]</sup> ① 这里“家”轻读。接在姓氏后，加上地方特点命名地名：王～舍；孔～堡。 ② 接在某姓后面，相当于姓……的：张～；李～；王～佬。 ③ 亲昵地呼唤小孩：来啊～；到我家多住几天，可好？～。  
 1. 【[加大帽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_da_mo_zz.md#加大帽子)】`ga1 da6 mo6 zz` <sup>[如东]</sup> ① 给人随便地添加某种罪名：请你不要匄我～。 ② 说好话：你不要匄我～。  
