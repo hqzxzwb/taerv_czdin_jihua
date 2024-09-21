@@ -16,8 +16,7 @@
 1. 【[拉长麻线](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_chan_ma_xin.md#拉长麻线)】`la1 chan2 ma2 xin5` <sup>[如皋]</sup> 说话不能紧扣话题，扯得过远过长。  
 1. 【[拉大锯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_da_jy.md#拉大锯)】`la1 da6 jy5` <sup>[兴化]</sup> 两人一来一往地推拉着大锯解木头。  
 1. 【[拉大网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_da_van.md#拉大网)】`la1 da6 van3` <sup>[兴化]</sup> 一种捕鱼方法。  
-1. 【[拉倒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_do.md#拉倒)】`la1 do3` 算了。作罢。<sup>\[如东\]</sup><sup>\[东台\]</sup>：不来～。<sup>\[东台\]</sup>  
-1. 【[拉倒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_do.md#拉倒)】`la1 do3` <sup>[泰州]</sup> ① 罢了，表示“不再说了”：你～把，不要在这块再吹唻，家去吃倒头饭去吧。 ② 算了，表示“不再计较”：给我个面子，这件事就～唻。 ③ 完蛋，表示“不再存在”：照你这吖说，他读研究生的事情是～唻。  
+1. 【[拉倒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_do.md#拉倒)】`la1 do3` ① 算了。作罢。<sup>\[如东\]</sup><sup>\[东台\]</sup>：不来～。<sup>\[东台\]</sup> ② 罢了，表示“不再说了”<sup>\[泰州\]</sup>：你～把，不要在这块再吹唻，家去吃倒头饭去吧。<sup>\[泰州\]</sup> ③ 算了，表示“不再计较”<sup>\[泰州\]</sup>：给我个面子，这件事就～唻。<sup>\[泰州\]</sup> ④ 完蛋，表示“不再存在”<sup>\[泰州\]</sup>：照你这吖说，他读研究生的事情是～唻。<sup>\[泰州\]</sup>  
 1. 【[拉肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_dv_zz.md#拉肚子)】`la1 dv3 zz` <sup>[东台]</sup> 腹泻  
 1. 【[拉寡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_gua.md#拉寡)】`la1 gua` <small>/la1 kua/<sup>兴化</sup></small> ① 拉家常话。<sup>\[东台\]</sup> ② 谈家常<sup>\[兴化\]</sup>：……她乘空跑出来，想再去同左邻右舍～。（马春阳《访亲》）<sup>\[兴化\]</sup>  
 1. 【[拉瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_gua.md#拉瓜)】`la1 gua` <small>/la1 kua/<sup>兴化</sup>, /la1 kua/<sup>如皋</sup></small> ① 不整齐。（原文作“拉刮”，音不合）<sup>\[如东\]</sup>：身上的衣裳～啊，多难相吖。<sup>\[如东\]</sup> ② 不利索、不整饰<sup>\[如皋\]</sup>：张家嫲嫲儿～死啊，整天蓬头撒兮、拖鞋𨃚脚的，还到处跑。<sup>\[如皋\]</sup> ③ （形容词）不干净，凌乱，他不会收拾，蛮～的。<sup>\[东台\]</sup> ④ 不洁<sup>\[兴化\]</sup>：～邋遢。<sup>\[兴化\]</sup>  

@@ -257,8 +257,7 @@
 1. 【[□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka_ka.md#□□)】`ka2 ka2` <sup>[泰州]</sup> 笑声：你望她噢，笑得～的，不晓得为的甚的事？  
 1. 【[喀籽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka_zz.md#喀籽)】`ka2 zz3` <sup>[如皋]</sup> 新母鸡性成熟的鸣声，表示将会生蛋。  
 1. 【[拤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka.md#拤)】`ka2` <small>/kʰa2/<sup>兴化</sup>, /kʰa2/<sup>如皋</sup>, /kʰa2/<sup>泰县</sup></small> ① 扼<sup>\[如皋\]</sup>：钱捱他～着咖，你拿不到。<sup>\[如皋\]</sup> ② 强占的意思<sup>\[东台\]</sup>：～住茅缸不拉屎<sup>\[东台\]</sup>｜一个人～啊三个位子。<sup>\[东台\]</sup> ③ 争、夺<sup>\[兴化\]</sup>：这个小伙硬把哥哥的手表～啊去。<sup>\[兴化\]</sup> ④ 争：他顶会～食。<sup>\[泰县\]</sup> ⑤ 争夺，力求获得而不想让于人<sup>\[泰州\]</sup>：在家里这样不吃，那样不吃，一到人家家里就～啊吃。<sup>\[泰州\]</sup>  
-1. 【[拤强](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka_qian.md#拤强)】`ka2 qian2` <small>/kʰa2 t͡ɕʰiaŋ2/<sup>兴化</sup>, /kʰa2 t͡ɕʰiã2/<sup>如皋</sup>, /kʰa2 t͡ɕʰiɑŋ2/<sup>泰县</sup></small> ① 持强多占。<sup>\[如皋\]</sup> ② 出于私心，以势欺人、格占人<sup>\[东台\]</sup>：这人太～吖！<sup>\[东台\]</sup> ③ 争强好胜，硬要占先<sup>\[兴化\]</sup>：……不，他家奶奶比老爹狠，～卡惯了的……（《武松》四）<sup>\[兴化\]</sup> ④ 占上风：你不要～。<sup>\[泰县\]</sup>  
-1. 【[拤强](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka_qian.md#拤强)】`ka2 qian2` <sup>[泰州]</sup> 争强，凡事都要占先，带有些许霸道意味：这小伙也太～，人家是先来的，凭甚的要让你后来的先买。  
+1. 【[拤强](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka_qian.md#拤强)】`ka2 qian2` <small>/kʰa2 t͡ɕʰiaŋ2/<sup>兴化</sup>, /kʰa2 t͡ɕʰiã2/<sup>如皋</sup>, /kʰa2 t͡ɕʰiɑŋ2/<sup>泰县</sup></small> ① 持强多占。<sup>\[如皋\]</sup> ② 出于私心，以势欺人、格占人<sup>\[东台\]</sup>：这人太～吖！<sup>\[东台\]</sup> ③ 争强好胜，硬要占先<sup>\[兴化\]</sup>：……不，他家奶奶比老爹狠，～卡惯了的……（《武松》四）<sup>\[兴化\]</sup> ④ 占上风：你不要～。<sup>\[泰县\]</sup> ⑤ 争强，凡事都要占先，带有些许霸道意味<sup>\[泰州\]</sup>：这小伙也太～，人家是先来的，凭甚的要让你后来的先买。<sup>\[泰州\]</sup>  
 1. 【[拤嗓子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka_san_zz.md#拤嗓子)】`ka2 san3 zz` <sup>[如东]</sup> 味道刺激喉管粘膜：这些辣椒吃起来～。  
 1. 【[拤食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka_sheh.md#拤食)】`ka2 sheh8` <small>/kʰa2 səʔ8/<sup>兴化</sup>, /kʰa2 səʔ8/<sup>如皋</sup></small> ① 多占食物，不肯让给别人。<sup>\[如皋\]</sup> ② 企图占有更多的食物<sup>\[东台\]</sup>：这几个伢子做块啊吃，个个～。<sup>\[东台\]</sup> ③ 恃强或恃宠多占食物<sup>\[兴化\]</sup>：这小伙～。<sup>\[兴化\]</sup>｜狗子～。<sup>\[兴化\]</sup>  
 1. 【[拤食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka_sheh.md#拤食)】`ka2 sheh8` <sup>[泰州]</sup> 争食，吃饭时抢东西吃：细小伙在家里吃得少，在幼儿园里～，反而吃得多。｜家里人多～，烧这点儿菜不够吃。  
@@ -283,6 +282,7 @@
 1. 【[卡鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka_y.md#卡鱼)】`ka3 y2` <sup>[如皋]</sup> 鱼卡子（绷钩儿）捕鱼。  
 1. 【[卡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka_zz.md#卡子)】`ka3 zz` <small>/kʰa3 t͡sɿ/<sup>兴化</sup>, /kʰa3 t͡sɿ/<sup>如皋</sup>, /kʰa3 t͡se/<sup>泰县</sup></small> ① 即“绷钩儿”。<sup>\[如皋\]</sup> ② 见“二肋尖儿”。<sup>\[如皋\]</sup> ③ 利用弹性绷住鱼嘴的钩具。<sup>\[如皋\]</sup> ④ 旧时，军队和地方势力为征收捐税或警备需要，在交通要道设立的岗哨、检查站<sup>\[兴化\]</sup>：过～。<sup>\[兴化\]</sup> ⑤ 七八十斤的育肥猪：你家的猪子还是～，咋好卖的？<sup>\[泰县\]</sup>  
 1. 【[卡子猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka_zz_zhv.md#卡子猪)】`ka3 zz zhv1` <sup>[兴化]</sup> 见“架子猪”。  
+1. 【[咯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka.md#咯)】`ka3` <sup>[兴化]</sup> 干咳：～痰。  
 [更多...](./k.md)
 ## L
 1. 【[……啦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la.md#……啦)】`la` <sup>[东台]</sup> 助词，用在动词或形容词后面，表示动作或变化已经完成：醒吖～｜脸红吖～。  
@@ -300,8 +300,7 @@
 1. 【[拉长麻线](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_chan_ma_xin.md#拉长麻线)】`la1 chan2 ma2 xin5` <sup>[如皋]</sup> 说话不能紧扣话题，扯得过远过长。  
 1. 【[拉大锯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_da_jy.md#拉大锯)】`la1 da6 jy5` <sup>[兴化]</sup> 两人一来一往地推拉着大锯解木头。  
 1. 【[拉大网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_da_van.md#拉大网)】`la1 da6 van3` <sup>[兴化]</sup> 一种捕鱼方法。  
-1. 【[拉倒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_do.md#拉倒)】`la1 do3` 算了。作罢。<sup>\[如东\]</sup><sup>\[东台\]</sup>：不来～。<sup>\[东台\]</sup>  
-1. 【[拉倒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_do.md#拉倒)】`la1 do3` <sup>[泰州]</sup> ① 罢了，表示“不再说了”：你～把，不要在这块再吹唻，家去吃倒头饭去吧。 ② 算了，表示“不再计较”：给我个面子，这件事就～唻。 ③ 完蛋，表示“不再存在”：照你这吖说，他读研究生的事情是～唻。  
+1. 【[拉倒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_do.md#拉倒)】`la1 do3` ① 算了。作罢。<sup>\[如东\]</sup><sup>\[东台\]</sup>：不来～。<sup>\[东台\]</sup> ② 罢了，表示“不再说了”<sup>\[泰州\]</sup>：你～把，不要在这块再吹唻，家去吃倒头饭去吧。<sup>\[泰州\]</sup> ③ 算了，表示“不再计较”<sup>\[泰州\]</sup>：给我个面子，这件事就～唻。<sup>\[泰州\]</sup> ④ 完蛋，表示“不再存在”<sup>\[泰州\]</sup>：照你这吖说，他读研究生的事情是～唻。<sup>\[泰州\]</sup>  
 1. 【[拉肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_dv_zz.md#拉肚子)】`la1 dv3 zz` <sup>[东台]</sup> 腹泻  
 1. 【[拉寡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_gua.md#拉寡)】`la1 gua` <small>/la1 kua/<sup>兴化</sup></small> ① 拉家常话。<sup>\[东台\]</sup> ② 谈家常<sup>\[兴化\]</sup>：……她乘空跑出来，想再去同左邻右舍～。（马春阳《访亲》）<sup>\[兴化\]</sup>  
 1. 【[拉瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_gua.md#拉瓜)】`la1 gua` <small>/la1 kua/<sup>兴化</sup>, /la1 kua/<sup>如皋</sup></small> ① 不整齐。（原文作“拉刮”，音不合）<sup>\[如东\]</sup>：身上的衣裳～啊，多难相吖。<sup>\[如东\]</sup> ② 不利索、不整饰<sup>\[如皋\]</sup>：张家嫲嫲儿～死啊，整天蓬头撒兮、拖鞋𨃚脚的，还到处跑。<sup>\[如皋\]</sup> ③ （形容词）不干净，凌乱，他不会收拾，蛮～的。<sup>\[东台\]</sup> ④ 不洁<sup>\[兴化\]</sup>：～邋遢。<sup>\[兴化\]</sup>  
@@ -310,6 +309,7 @@
 1. 【[拉和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_hu.md#拉和)】`la1 hu2` <sup>[泰州]</sup> 与因积怨而不相往来的交恶双方都很友好，并有一定影响的第三方出面，通过宴请之类形式，化解交恶双方积怨，恢复正常交往：这两个人原来话都不说，后来支书出来～，现在关系还算说得过去。  
 1. 【[拉机](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ji.md#拉机)】`la1 ji1` 拉链。  
 1. 【[拉开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_kae.md#拉开)】`la1 kae1` <sup>[如东]</sup> 移开，分开：你把桌子～。  
+1. 【[拉拉扯扯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_la_cha_cha.md#拉拉扯扯)】`la1 la1 cha3 cha3` <sup>[如东]</sup> 纠缠不清：不要跟他俫～的。  
 [更多...](./l.md)
 ## M
 1. 【[呣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/m.md#呣)】`m` <small>/m/<sup>兴化</sup></small> ① （叹词）<sup>\[东台\]</sup> ② 表示应答、肯定<sup>\[东台\]</sup>：～，晓得咖，就这吖。<sup>\[东台\]</sup> ③ 表示疑问<sup>\[东台\]</sup>：～？甚的？<sup>\[东台\]</sup> ④ 表示警告<sup>\[东台\]</sup>：～！你敢！<sup>\[东台\]</sup> ⑤ 叹词，表答应。<sup>\[兴化\]</sup>  
