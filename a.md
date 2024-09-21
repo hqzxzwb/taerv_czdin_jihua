@@ -1,7 +1,7 @@
 # 音序检索
 **[A](./a.md) | [B](./b.md) | [C](./c.md) | [D](./d.md) | [E](./e.md) | [F](./f.md) | [G](./g.md) | [H](./h.md) | [I](./i.md) | [J](./j.md) | [K](./k.md) | [L](./l.md) | [M](./m.md) | [N](./n.md) | [O](./o.md) | [P](./p.md) | [Q](./q.md) | [R](./r.md) | [S](./s.md) | [T](./t.md) | [U](./u.md) | [V](./v.md) | [X](./x.md) | [Y](./y.md) | [Z](./z.md)**  
 ## A
-1. 【[啊/吖/咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/a.md#啊/吖/咖)】`a, nga, ga` ① 相当或部分相当于助词“了”：打啊油，买啊菜，找啊两块钱。 ② 相当于助词“着”：捧吖猪头没庙送。 ③ 相当或部分相当于介词“在”：站吖门口；放吖心上。 ④ 相当或部分相当于趋向动词“到”：放吖桌上去；站吖桥上来。 ⑤ 相当于助词“得”的部分功能：忙吖昏吖；疼吖睡不着。 ⑥ 表示感叹：多好啊；多香吖。 ⑦ 根据前字韵母不同而有不同发音，阴声韵后为“啊a”，阳声韵后为“吖nga”，入声韵后为“咖ga”。在表示❶到❺含义时，部分地区发音促化。  
+1. 【[啊/吖/咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/a.md#啊/吖/咖)】`a, nga, ga` <small>/əʔ/<sup>兴化</sup>, /a/<sup>如皋</sup>, /a/<sup>泰兴</sup>, /əʔ/<sup>泰县</sup></small> ① 相当或部分相当于助词“了”：打啊油，买啊菜，找啊两块钱。 ② 相当于助词“着”：捧吖猪头没庙送。 ③ 相当或部分相当于介词“在”：站吖门口；放吖心上。 ④ 相当或部分相当于趋向动词“到”：放吖桌上去；站吖桥上来。 ⑤ 相当于助词“得”的部分功能：忙吖昏吖；疼吖睡不着。 ⑥ 表示感叹：多好啊；多香吖。 ⑦ 根据前字韵母不同而有不同发音，阴声韵后为“啊a”，阳声韵后为“吖nga”，入声韵后为“咖ga”。在表示❶到❺含义时，部分地区发音促化。  
 1. 【[啊哇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/a_va.md#啊哇)】`a va1` <sup>[兴化]</sup> 相当于语气词“了”“啦”：他走～。｜饭烧好～。  
 1. 【[啊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/a_zz.md#啊子)】`a zz` 相当于“下子”，接在阴声韵之后：试～；来～；请你出来～。  
 1. 【[也](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/a.md#也)】`a3` <sup>[东台]</sup> “也ia3”的口语音。副词。表示同样、转折、让步等。  

@@ -375,7 +375,7 @@
 1. 【[日天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_tin.md#日天)】`rih8 tin1` <small>/liɪʔ8 tʰiɪ̃1/<sup>兴化</sup>, /ɻiʔ8 tʰĩ1/<sup>如皋</sup></small> ① 日出到日落的时段<sup>\[如皋\]</sup>：夏至的～最长，冬至的～最短。<sup>\[如皋\]</sup> ② 白天<sup>\[兴化\]</sup>：夏季～长冬季～短。<sup>\[兴化\]</sup>  
 1. 【[日消货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_xio_hu.md#日消货)】`rih8 xio hu5` <sup>[兴化]</sup> 每天都要消费的商品：米面油盐是～，每天少不了。  
 1. 【[日朝日晚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_zho_rih_vaen.md#日朝日晚)】`rih8 zho rih8 vaen3` <sup>[兴化]</sup> 早早晚晚：她过门不多时，就～的吵啊要分家。  
-1. 【[日中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_zhon.md#日中)】`rih8 zhon1` ① 中午 ② 午饭：吃～ ③ 正午<sup>\[东台\]</sup>：早烧清明晚烧冬，七月半的亡人等不到小～。<sup>\[东台\]</sup>  
+1. 【[日中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_zhon.md#日中)】`rih8 zhon1` <small>/liɪʔ8 t͡soŋ1/<sup>兴化</sup>, /ɻiʔ8 t͡sɔŋ1/<sup>如皋</sup>, /iʔ8 t͡sɔŋ1/<sup>泰兴</sup>, /iɪʔ8 t͡soŋ1/<sup>泰县</sup></small> ① 中午 ② 午饭：吃～ ③ 正午<sup>\[东台\]</sup>：早烧清明晚烧冬，七月半的亡人等不到小～。<sup>\[东台\]</sup>  
 1. 【[日子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_zz.md#日子)】`rih8 zz` <sup>[如东]</sup> 比喻生活：过～。  
 1. 【[热潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_cho.md#热潮)】`rih8 cho` <sup>[泰县]</sup> 热闹：节日的时候街上～。  
 1. 【[热炒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_cho.md#热炒)】`rih8 cho3` <sup>[如皋]</sup> 现炒的菜。旧称热盘。  
@@ -430,7 +430,7 @@
 1. 【[热血疯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_xiuh_fon.md#热血疯)】`rih8 xiuh7 fon1` <sup>[如东]</sup> 一种皮肤病，多见于下肢，骚痒难忍。  
 1. 【[然](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rin.md#然)】`rin2` <sup>[如皋]</sup> 钟爱：你越～他，他越忆你。另音：nin2。  
 1. 【[染红蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rin_hon_taen.md#染红蛋)】`rin3 hon2 taen6` <sup>[东台]</sup> 家中生小孩，将鸡蛋染红，送亲戚朋友的一种民俗。  
-1. 【[饶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro.md#饶)】`ro2` <small>/ɻɔ2/<sup>泰县</sup></small> ① 饶恕，原谅，放过 ② 买卖东西时卖家再多给买家一些货物或者减去零头货价：再～我点儿。/再便宜一些吧（再送点东西给我吧）。 ③ 再加一点儿。<sup>\[如东\]</sup>：～一点儿吧。<sup>\[如东\]</sup> ④ 再增添一点的意思<sup>\[东台\]</sup>：再～点儿<sup>\[东台\]</sup>｜买的没得～的多。<sup>\[东台\]</sup> ⑤ 加：已经足秤，再～点儿。<sup>\[泰县\]</sup> ⑥ 卖方多送给买方的货物<sup>\[泰州\]</sup>：做定的价钱，～不得。<sup>\[泰州\]</sup>｜这个菜是早上买黄瓜的时候饶得来的。<sup>\[泰州\]</sup>  
+1. 【[饶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro.md#饶)】`ro2` <small>/lɔ2/<sup>兴化</sup>, /ɻɔ2/<sup>如皋</sup>, /ɻɔ2/<sup>泰兴</sup>, /ɻɔ2/<sup>泰县</sup></small> ① 饶恕，原谅，放过 ② 买卖东西时卖家再多给买家一些货物或者减去零头货价：再～我点儿。/再便宜一些吧（再送点东西给我吧）。 ③ 再加一点儿。<sup>\[如东\]</sup>：～一点儿吧。<sup>\[如东\]</sup> ④ 再增添一点的意思<sup>\[东台\]</sup>：再～点儿<sup>\[东台\]</sup>｜买的没得～的多。<sup>\[东台\]</sup> ⑤ 加：已经足秤，再～点儿。<sup>\[泰县\]</sup> ⑥ 卖方多送给买方的货物<sup>\[泰州\]</sup>：做定的价钱，～不得。<sup>\[泰州\]</sup>｜这个菜是早上买黄瓜的时候饶得来的。<sup>\[泰州\]</sup>  
 1. 【[饶得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_deh.md#饶得)】`ro2 deh7` <sup>[如皋]</sup> 虽然、尽管：～他会说，还是说不过你。  
 1. 【[饶你过天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_nii_gu_tin.md#饶你过天)】`ro2 nii3 gu5 tin1` <sup>[东台]</sup> 宽恕，免于责罚：这回子～，下次再犯就不客气！  
 1. 【[饶人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_ren.md#饶人)】`ro2 ren2` <sup>[如东]</sup> 对人宽容：他就是不～。  

@@ -326,7 +326,7 @@
 1. 【[迈后朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_heu_zho.md#迈后朝)】`mae6 heu6 zho, mae6 heu6 do` 大后天  
 1. 【[□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maeh_zha.md#□□)】`maeh8 zha` <sup>[泰州]</sup> ① （泰州词典作蚂蜡） ② 蝈蝈，农业害虫，似蝗而略小，身体绿色，腹大翅短，雄的借助前翅基部摩擦发声。  
 1. 【[□子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maeh_zz.md#□子)】`maeh8 zz` <sup>[泰州]</sup> 向人询问却遭到拒绝：他跑啊局里去找老王查点儿情况，老王回啊他个～，弄吖个没趣家来啊。  
-1. 【[抹/㩢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maeh.md#抹/㩢)】`maeh8` <small>/mæʔ8/<sup>兴化</sup></small> ① 用手轻按并顺势挪动<sup>\[兴化\]</sup><sup>\[如东\]</sup>：吃过饭嘴一～。<sup>\[兴化\]</sup>｜你要顺住他的毛～。<sup>\[兴化\]</sup>｜～他的脸。<sup>\[如东\]</sup> ② 扫视（*睰）：眼睛一～就晓得咖。  
+1. 【[抹/㩢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maeh.md#抹/㩢)】`maeh8` <small>/mæʔ8/<sup>兴化</sup></small> ① 用手轻按并顺势挪动<sup>\[兴化\]</sup><sup>\[如东\]</sup>：吃过饭嘴一～。<sup>\[兴化\]</sup>｜你要顺住他的毛～。<sup>\[兴化\]</sup>｜～他的脸。<sup>\[如东\]</sup> ② 扫视（*睰）<sup>\[如东\]</sup>：眼睛一～就晓得咖。<sup>\[如东\]</sup>  
 1. 【[抹大冲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maeh_da_chon.md#抹大冲)】`maeh8 da6 chon5` <sup>[如东]</sup> 办事不踏实：他是一个～。  
 1. 【[抹锅锈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maeh_gu_xieu.md#抹锅锈)】`maeh8 gu1 xieu5` <sup>[如皋]</sup> 旧时对人的一种迫害手段，用锅底灰和油抹于人脸，使其“不能见人”。  
 1. 【[抹鬼脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maeh_guei_lin.md#抹鬼脸)】`maeh8 guei3 lin3` <sup>[兴化]</sup> 用手抹脸，表示羞辱：你说话赖话，我抹你个鬼险。  

@@ -102,7 +102,7 @@
 1. 【[哪许](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_hae.md#哪许)】`la3 hae5` <sup>[兴化]</sup> ① 疑问，相当于哪儿、哪里：问方所｜你上～去？｜你走～来的？｜你～不舒服？ ② 虚指或任指：他想到～说到～。 ③ 通过反诘达到否定：他～是大学生啊？连高中也不曾毕业。  
 1. 【[哪样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ian.md#哪样)】`la3 ian6` <sup>[如东]</sup> 哪一样。  
 1. 【[哪一出](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ieh_chueh.md#哪一出)】`la3 ieh7 chueh7` <sup>[泰县]</sup> 什么原因：你吵的～？  
-1. 【[哪一家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ieh_jia.md#哪一家)】`la3 ieh7 jia1` <small>/la3 iəʔ7 t͡ɕia1/<sup>兴化</sup>, /na3 iɪʔ7 t͡ɕia1/<sup>泰县</sup></small> 问缘由。常表示责问、反诘<sup>\[兴化\]</sup><sup>\[泰县\]</sup>：你哭的～；瞎说的～。｜先来的捱打，后来的捱骂，不来的就罢，这是～的规矩？<sup>\[兴化\]</sup>｜当差的心里话，孙先生好玩，跟我们吵的～？（扬一《火烧博望坡》）<sup>\[兴化\]</sup>｜你吵的～？<sup>\[泰县\]</sup>  
+1. 【[哪一家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ieh_jia.md#哪一家)】`la3 ieh7 jia1` <small>/la3 iəʔ7 t͡ɕia1/<sup>兴化</sup>, /na3 iɪʔ7 t͡ɕia1/<sup>泰县</sup></small> 问缘由。常表示责问、反诘<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup>：你哭的～；瞎说的～。<sup>\[如东\]</sup>｜先来的捱打，后来的捱骂，不来的就罢，这是～的规矩？<sup>\[兴化\]</sup>｜当差的心里话，孙先生好玩，跟我们吵的～？（扬一《火烧博望坡》）<sup>\[兴化\]</sup>｜你吵的～？<sup>\[泰县\]</sup>  
 1. 【[哪一码](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ieh_ma.md#哪一码)】`la3 ieh7 ma3` <sup>[兴化]</sup> 问事由：“罢了，查的～。他又不是那一码，你要挡他做什呀？”（扬二《混城》）  
 1. 【[哪一马对哪一车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ieh_ma_dy_la_ieh_jy.md#哪一马对哪一车)】`la3 ieh7 ma3 dy5 la3 ieh7 jy1` <sup>[东台]</sup> 搞不清头绪，全乱套了。  
 1. 【[哪一门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ieh_men.md#哪一门)】`la3 ieh7 men2` <sup>[兴化]</sup> 用于反诘句，什么、什么道理：有责任我自己负，要他急的～？  
@@ -648,7 +648,7 @@
 1. 【[𢭗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan.md#𢭗)】`lan3` <sup>[如皋]</sup> 耽延：他的案子～吖在下，一～就是三年。如皋词典写“冷”。  
 1. 【[𢭗吖下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_nga_ha.md#𢭗吖下)】`lan3 nga ha` <sup>[如皋]</sup> 耽延着。  
 1. 【[𧚅裆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_dan_r.md#𧚅裆<sub>儿</sub>)】`lan3 dan5 r` <sup>[如皋]</sup> ① 布筋、碎布条：破布儿～。 ② 沾满小粒的虫丝团：米生吖～。 ③ 肉类切下来软而不成形的一类。  
-1. 【[㫰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan.md#㫰)】`lan6` <small>/laŋ6/<sup>兴化</sup>, /lã1/<sup>如皋</sup>, /nɑŋ1/<sup>泰县</sup></small> ① 悬挂展开，常为了晾晒<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[如东\]</sup>：～衣裳｜～被单｜洗过的衣服～起来晒干<sup>\[如皋\]</sup>｜你把空调开开，～吖房间的衣裳顶多半天就干吖唻。<sup>\[泰州\]</sup>｜把衣裳～吖天井里去。<sup>\[泰州\]</sup> ② 故意冷落某人<sup>\[泰州\]</sup>：大家在桌上有说有笑，把他～吖边上，没得一个人搭他。<sup>\[泰州\]</sup>  
+1. 【[㫰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan.md#㫰)】`lan6` <small>/laŋ6/<sup>兴化</sup>, /lã1/<sup>如皋</sup>, /lɑŋ1/<sup>泰兴</sup>, /nɑŋ1/<sup>泰县</sup></small> ① 悬挂展开，常为了晾晒<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[如东\]</sup>：～衣裳｜～被单｜洗过的衣服～起来晒干<sup>\[如皋\]</sup>｜你把空调开开，～吖房间的衣裳顶多半天就干吖唻。<sup>\[泰州\]</sup>｜把衣裳～吖天井里去。<sup>\[泰州\]</sup> ② 故意冷落某人<sup>\[泰州\]</sup>：大家在桌上有说有笑，把他～吖边上，没得一个人搭他。<sup>\[泰州\]</sup>  
 1. 【[㫰车绳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_cha_shen.md#㫰车绳)】`lan6 cha1 shen2` <sup>[如东]</sup> 水车部件。一头系在水车绞关上，一头兜着水车槽筒，可以调节水车上升或下降。  
 1. 【[㫰船星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_chun_xien.md#㫰船星)】`lan6 chun2 xien1` <sup>[如东]</sup> 大熊座。凌晨升起在东方，形如一只船。  
 1. 【[㫰风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_fon.md#㫰风)】`lan6 fon1` <sup>[兴化]</sup> 航船利用风力扬帆前进：㫰顺风｜㫰旁风｜～船行得快。‖“帆”兴化又称“篷”，故又称“㫰篷”。  

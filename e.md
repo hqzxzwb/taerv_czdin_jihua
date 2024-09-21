@@ -2,7 +2,6 @@
 **[A](./a.md) | [B](./b.md) | [C](./c.md) | [D](./d.md) | [E](./e.md) | [F](./f.md) | [G](./g.md) | [H](./h.md) | [I](./i.md) | [J](./j.md) | [K](./k.md) | [L](./l.md) | [M](./m.md) | [N](./n.md) | [O](./o.md) | [P](./p.md) | [Q](./q.md) | [R](./r.md) | [S](./s.md) | [T](./t.md) | [U](./u.md) | [V](./v.md) | [X](./x.md) | [Y](./y.md) | [Z](./z.md)**  
 ## E
 1. 【[……儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh.md#……儿)】`eh` <sup>[东台]</sup> 儿缀的东台市区方言口音：茄～；小摊～；让你个子～。  
-1. 【[呃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh.md#呃)】`eh` ① 助词“啊a”“吖nga”在东台方言中的发音，通常用在非入声韵动词或形容词之后<sup>\[东台\]</sup> ② 助词“啊a”“吖nga”在部分地区的发音：来～（来了）；醒～（醒了）。  
 1. 【[呃唷哇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh_io_va.md#呃唷哇)】`eh7 io va1` <sup>[兴化]</sup> 叹词。  
 1. 【[呃唷㗏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh_io_vae.md#呃唷㗏)】`eh7 io vae1` <sup>[兴化]</sup> ① 叹词。呼痛：～，肚子疼！ ② 讽刺语气：～，小王不简单！  
 1. 【[啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh.md#啊)】`eh7` <sup>[泰州]</sup> 表示是否，用于疑问：上海你～去？｜你～吃烧饼？  

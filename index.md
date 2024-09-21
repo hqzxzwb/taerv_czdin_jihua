@@ -1,7 +1,7 @@
 # 音序检索
 **[A](./a.md) | [B](./b.md) | [C](./c.md) | [D](./d.md) | [E](./e.md) | [F](./f.md) | [G](./g.md) | [H](./h.md) | [I](./i.md) | [J](./j.md) | [K](./k.md) | [L](./l.md) | [M](./m.md) | [N](./n.md) | [O](./o.md) | [P](./p.md) | [Q](./q.md) | [R](./r.md) | [S](./s.md) | [T](./t.md) | [U](./u.md) | [V](./v.md) | [X](./x.md) | [Y](./y.md) | [Z](./z.md)**  
 ## A
-1. 【[啊/吖/咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/a.md#啊/吖/咖)】`a, nga, ga` ① 相当或部分相当于助词“了”：打啊油，买啊菜，找啊两块钱。 ② 相当于助词“着”：捧吖猪头没庙送。 ③ 相当或部分相当于介词“在”：站吖门口；放吖心上。 ④ 相当或部分相当于趋向动词“到”：放吖桌上去；站吖桥上来。 ⑤ 相当于助词“得”的部分功能：忙吖昏吖；疼吖睡不着。 ⑥ 表示感叹：多好啊；多香吖。 ⑦ 根据前字韵母不同而有不同发音，阴声韵后为“啊a”，阳声韵后为“吖nga”，入声韵后为“咖ga”。在表示❶到❺含义时，部分地区发音促化。  
+1. 【[啊/吖/咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/a.md#啊/吖/咖)】`a, nga, ga` <small>/əʔ/<sup>兴化</sup>, /a/<sup>如皋</sup>, /a/<sup>泰兴</sup>, /əʔ/<sup>泰县</sup></small> ① 相当或部分相当于助词“了”：打啊油，买啊菜，找啊两块钱。 ② 相当于助词“着”：捧吖猪头没庙送。 ③ 相当或部分相当于介词“在”：站吖门口；放吖心上。 ④ 相当或部分相当于趋向动词“到”：放吖桌上去；站吖桥上来。 ⑤ 相当于助词“得”的部分功能：忙吖昏吖；疼吖睡不着。 ⑥ 表示感叹：多好啊；多香吖。 ⑦ 根据前字韵母不同而有不同发音，阴声韵后为“啊a”，阳声韵后为“吖nga”，入声韵后为“咖ga”。在表示❶到❺含义时，部分地区发音促化。  
 1. 【[啊哇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/a_va.md#啊哇)】`a va1` <sup>[兴化]</sup> 相当于语气词“了”“啦”：他走～。｜饭烧好～。  
 1. 【[啊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/a_zz.md#啊子)】`a zz` 相当于“下子”，接在阴声韵之后：试～；来～；请你出来～。  
 1. 【[也](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/a.md#也)】`a3` <sup>[东台]</sup> “也ia3”的口语音。副词。表示同样、转折、让步等。  
@@ -74,7 +74,7 @@
 ## D
 1. 【[咑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da.md#咑)】`da` <sup>[兴化]</sup> 语气词，用于疑问句末：这东西是你的～？｜这话是你说的～？  
 1. 【[咑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da.md#咑)】`da2` <sup>[如皋]</sup> 象声词：啲啲咑咑（di2 di2 da2 da2），吴咑吴咑（v2 da2 v2 da2）。  
-1. 【[打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da.md#打)】`da3` <small>/ta3/<sup>兴化</sup></small> ① 用手或器具敲击物体，称打。<sup>\[如东\]</sup>：～人。<sup>\[如东\]</sup> ② 东西砸坏。<sup>\[如东\]</sup>：他把木箱～掉啊。<sup>\[如东\]</sup> ③ 跌坏、摔坏<sup>\[如东\]</sup>：杯儿～掉啊。（杯子摔坏了。）｜花瓶～掉啊。<sup>\[如东\]</sup> ④ 洗、擦（肥皂）<sup>\[兴化\]</sup>：拿洋碱把手巾～～。<sup>\[兴化\]</sup>｜拿香皂把身上～～。<sup>\[兴化\]</sup>  
+1. 【[打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da.md#打)】`da3` <small>/ta3/<sup>兴化</sup>, /ta3/<sup>如皋</sup>, /tɑ3/<sup>泰兴</sup>, /ta3/<sup>泰县</sup></small> ① 用手或器具敲击物体，称打。<sup>\[如东\]</sup>：～人。<sup>\[如东\]</sup> ② 东西砸坏。<sup>\[如东\]</sup>：他把木箱～掉啊。<sup>\[如东\]</sup> ③ 跌坏、摔坏<sup>\[如东\]</sup>：杯儿～掉啊。（杯子摔坏了。）｜花瓶～掉啊。<sup>\[如东\]</sup> ④ 洗、擦（肥皂）<sup>\[兴化\]</sup>：拿洋碱把手巾～～。<sup>\[兴化\]</sup>｜拿香皂把身上～～。<sup>\[兴化\]</sup>  
 1. 【[打啊春，赤脚奔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_a_chuen_cheh_jiah_ben.md#打啊春，赤脚奔)】`da3 a chuen1 cheh7 jiah7 ben1` <sup>[东台]</sup> 立春后天气转暖，夸张可以赤脚走路了。  
 1. 【[打啊夹墙塴里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_a_gaeh_qian_bon_lii.md#打啊夹墙塴里)】`da3 a gaeh7 qian2 bon5 lii` <sup>[如皋]</sup> 介于两者之间，处于尴尬境地而为难、委屈。  
 1. 【[打啊高宵的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_a_go_xio_dii.md#打啊高宵的)】`da3 a go1 xio1 dii` <sup>[东台]</sup> 因事熬了夜，睡眠不足。  
@@ -100,7 +100,6 @@
 [更多...](./d.md)
 ## E
 1. 【[……儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh.md#……儿)】`eh` <sup>[东台]</sup> 儿缀的东台市区方言口音：茄～；小摊～；让你个子～。  
-1. 【[呃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh.md#呃)】`eh` ① 助词“啊a”“吖nga”在东台方言中的发音，通常用在非入声韵动词或形容词之后<sup>\[东台\]</sup> ② 助词“啊a”“吖nga”在部分地区的发音：来～（来了）；醒～（醒了）。  
 1. 【[呃唷哇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh_io_va.md#呃唷哇)】`eh7 io va1` <sup>[兴化]</sup> 叹词。  
 1. 【[呃唷㗏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh_io_vae.md#呃唷㗏)】`eh7 io vae1` <sup>[兴化]</sup> ① 叹词。呼痛：～，肚子疼！ ② 讽刺语气：～，小王不简单！  
 1. 【[啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh.md#啊)】`eh7` <sup>[泰州]</sup> 表示是否，用于疑问：上海你～去？｜你～吃烧饼？  
@@ -546,7 +545,7 @@
 1. 【[屙冻冻丁<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_don_don_dien_r.md#屙冻冻丁<sub>儿</sub>)】`u1 don5 don5 dien1 r` <small>/ʊ1 tɔŋ5 tɔŋ5 tiə˞1/<sup>如皋</sup></small> ① 大便中有胶状黏液，是菌痢症状。<sup>\[如皋\]</sup> ② 指小孩大便稀且有黏液。<sup>\[东台\]</sup>  
 1. 【[屙肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_dv_zz.md#屙肚子)】`u1 dv3 zz` <sup>[兴化]</sup> 腹泻。  
 1. 【[屙烂的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_laen_dii.md#屙烂的)】`u1 laen6 dii` <sup>[东台]</sup> ［喻］不讲信用，推卸责任：那家伙借钱时说得的的刮刮，哪晓得到期不还，还说咖多少可怜话，～，真拿他没办法。  
-1. 【[屙面筋屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_min_jien_shr.md#屙面筋屎)】`u1 min6 jien1 shr3` <small>/o1 miɪ̃6 t͡ɕin1 sɿ3/<sup>兴化</sup>, /o1 miɪ̃1 t͡ɕiŋ1 sɿ3/<sup>泰县</sup></small> ① 指人说话、办事不干脆<sup>\[兴化\]</sup>：你到底同意不同意，赶快说。覅～！<sup>\[兴化\]</sup> ② 不干脆：你去还是不去，赶快定下来，不要～。<sup>\[泰县\]</sup>  
+1. 【[屙面筋屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_min_jien_shr.md#屙面筋屎)】`u1 min6 jien1 shr3` <small>/o1 miɪ̃6 t͡ɕin1 sɿ3/<sup>兴化</sup>, /o1 miɪ̃1 t͡ɕiŋ1 sɿ3/<sup>泰县</sup></small> 指人说话、办事不干脆<sup>\[兴化\]</sup><sup>\[泰县\]</sup>：你到底同意不同意，赶快说。覅～！<sup>\[兴化\]</sup>｜你去还是不去，赶快定下来，不要～。<sup>\[泰县\]</sup>  
 1. 【[屙脓沰血](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_non_dah_xiuh.md#屙脓沰血)】`u1 non2 dah7 xiuh7` <small>/o1 loŋ2 taʔ7 ɕyuʔ7/<sup>兴化</sup>, /ʊ1 nɔŋ2 taʔ7 ɕyʊʔ7/<sup>如皋</sup>, /o1 noŋ2 tɑʔ7 ɕyʊʔ7/<sup>泰县</sup></small> ① 状人萎琐无能。民谚：宁养个扒墙上壁，不养个～。<sup>\[如皋\]</sup> ② 身体多病软弱。比喻没有出息。<sup>\[如东\]</sup>：这个人～的，有甚的用。比喻很不干净。<sup>\[如东\]</sup> ③ ［借］形容病情严重，借喻软弱无用的人<sup>\[东台\]</sup>：这个人～的，怎吖能放到这个重要岗位上？<sup>\[东台\]</sup> ④ 形容人个性窝囊，缺乏阳刚之气<sup>\[兴化\]</sup>：他这个人～的，一世狠不起来。<sup>\[兴化\]</sup> ⑤ 很不干净。<sup>\[泰县\]</sup> ⑥ 没出息、窝囊。<sup>\[泰县\]</sup>  
 1. 【[屙屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_shr.md#屙屎)】`u1 shr3` <sup>[如皋]</sup> 排泄大便。  
 1. 【[屙屎离你三砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_shr_li_nii_saen_zhun.md#屙屎离你三砖)】`u1 shr3 li6 nii3 saen1 zhun1` <sup>[东台]</sup> ［喻］旧式茅缸上面，人蹲的地方铺着砖头，此话比喻远离对方：你狠你的，我～！  
@@ -638,8 +637,7 @@
 [更多...](./y.md)
 ## Z
 1. 【[咋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/za.md#咋)】`za3` <small>/t͡sa3/<sup>兴化</sup></small> “怎吖”的合音。怎么。<sup>\[东台\]</sup><sup>\[兴化\]</sup>：这个事你～说？<sup>\[东台\]</sup>｜他～还不到？<sup>\[东台\]</sup>｜～办？<sup>\[兴化\]</sup>｜你～不去的？<sup>\[兴化\]</sup>  
-1. 【[咋得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/za_deh.md#咋得)】`za3 deh` “怎吖”合音为“咋”，“咋得”意思是“怎么可以，怎么能”：这吖简单，咋得不会做的啦？  
-1. 【[咋得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/za_deh.md#咋得)】`za3 deh7` <small>/t͡sa3 təʔ7/<sup>泰县</sup></small> ① 怎么能，怎么会：～箇个样子的啦？/怎么会这个样子的？ ② 怎么能、怎么会：这个人身体蛮好的，～死的？<sup>\[泰县\]</sup>  
+1. 【[咋得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/za_deh.md#咋得)】`za3 deh7` <small>/t͡sa3 təʔ7/<sup>泰县</sup></small> 怎么能，怎么会<sup>\[如东\]</sup><sup>\[泰县\]</sup>：～箇个样子的啦？/怎么会这个样子的？<sup>\[如东\]</sup>｜这吖简单，咋得不会做的啦？<sup>\[如东\]</sup>｜这个人身体蛮好的，～死的？<sup>\[泰县\]</sup>  
 1. 【[咋的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/za_dii.md#咋的)】`za3 dii` “怎吖”合音为“咋”，“咋的”同“怎吖的”。  
 1. 【[咋呼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/za_hv.md#咋呼)】`za3 hv` <sup>[兴化]</sup> ① 吆喝：你瞎～甚的？ ② 张扬、炫耀：这个人有点门儿就喜欢～。也说“咋咋呼呼”。  
 1. 【[栽𠵹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_gan.md#栽𠵹)】`zae1 gan1` <sup>[兴化]</sup> 见“吱风”。  
@@ -663,4 +661,6 @@
 1. 【[财翁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_ion.md#财翁)】`zae1 ion1` <sup>[如皋]</sup> 富有。  
 1. 【[宰宰拘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_zae_jy.md#宰宰拘)】`zae3 zae jy1` <sup>[东台]</sup> 太拘泥、不可变通的意思：这事见机而作，不要～。  
 1. 【[宰宰居](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_zae_jy.md#宰宰居)】`zae3 zae3 jy1` <sup>[泰县]</sup> 固执。  
+1. 【[宰宰拘拘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_zae_jy_jy.md#宰宰拘拘)】`zae3 zae3 jy1 jy1` <sup>[兴化]</sup> 一定的、一成不变的：而今的婚礼不～的行甚的大仪注。兴化词典作“者者拘拘”。也说“宰宰拘”。  
+1. 【[宰执](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_zheh.md#宰执)】`zae3 zheh7` <small>/t͡sɛ3 t͡səʔ7/<sup>兴化</sup>, /t͡se3 t͡səʔ7/<sup>泰县</sup></small> ① 固执、刻板<sup>\[东台\]</sup>：你要灵活点儿，不要太～。<sup>\[东台\]</sup> ② 迂执、拘泥<sup>\[兴化\]</sup>：老先生～，轻容易不跟人交往。兴化词典作“者执”。<sup>\[兴化\]</sup> ③ 固执，不占别人便宜。<sup>\[泰县\]</sup>  
 [更多...](./z.md)

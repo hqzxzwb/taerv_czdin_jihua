@@ -432,7 +432,6 @@
 1. 【[𧧭赖宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_lae_bo.md#𧧭赖宝)】`gan5 lae6 bo3` <sup>[兴化]</sup> （讽）常常哭闹的孩子。  
 1. 【[𧧭赖讹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_lae_u.md#𧧭赖讹)】`gan5 lae6 u` <sup>[东台]</sup> 小孩为达到某种目的而一味哭泣：你再～，就不带你玩。  
 1. 【[𧧭邻舍家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_lien_sha_ga.md#𧧭邻舍家)】`gan5 lien2 sha5 ga` <sup>[如皋]</sup>   
-1. 【[咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh.md#咖)】`geh` ① 助词“咖ga”在东台方言中的发音，用在入声字后。<sup>\[东台\]</sup> ② 助词“咖ga”在部分地区的发音：吃～饭（吃了饭）。  
 1. 【[䞘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh.md#䞘)】`geh7` <sup>[东台]</sup> 单脚连续跳，（《玉篇》解行貌方音读若“隔”）：刘翔在2012年奥运会上一只腿捱𢴬倒，还坚持用另一只腿～到终点，了不起！  
 1. 【[䞘疆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_jian.md#䞘疆)】`geh7 jian1` <sup>[东台]</sup> 旧时小孩玩的一种游戏，在地上画格子，游戏者䞘着踢。也叫“跳房子”。  
 1. 【[䬣飣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_dien.md#䬣飣)】`geh7 dien1` <sup>[如皋]</sup> 荞麦面条，粗短。谚：荞麦糏～，三条一斤，用力一抽（cheu2），打破额头。  

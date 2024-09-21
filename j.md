@@ -165,7 +165,7 @@
 1. 【[继配](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_pei.md#继配)】`ji5 pei5` <sup>[兴化]</sup> ① 器物中另配的零件。 ② 续娶的妻。  
 1. 【[虮䗜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_lieu_r.md#虮䗜<sub>儿</sub>)】`ji5 lieu2 r` <sup>[泰县]</sup> 蝉的一种。  
 1. 【[记不住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_beh_chv.md#记不住)】`ji5 beh7 chv6` <sup>[如皋]</sup> 不能记住，老是忘掉。  
-1. 【[记才](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_cae.md#记才)】`ji5 cae` <small>/t͡ɕi5 t͡sʰɛ/<sup>兴化</sup>, /t͡ɕʝ5 t͡sʰɛ/<sup>如皋</sup></small> 记性，记忆的能力<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup>：～好｜有～  
+1. 【[记才](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_cae.md#记才)】`ji5 cae` <small>/t͡ɕi5 t͡sʰɛ/<sup>兴化</sup>, /t͡ɕʝ5 t͡sʰɛ/<sup>如皋</sup>, /t͡ɕʝ5 t͡ɕʰiɛ/<sup>泰兴</sup>, /t͡sɿ5 t͡sʰe/<sup>泰县</sup></small> 记性，记忆的能力<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup>：～好｜有～  
 1. 【[记仇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_cheu.md#记仇)】`ji5 cheu2` <sup>[如东]</sup> 记住已经发生的不满或仇恨。  
 1. 【[记得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_deh.md#记得)】`ji5 deh7` <sup>[如东]</sup> 没有忘记。  
 1. 【[记得住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_deh_chv.md#记得住)】`ji5 deh7 chv6` <sup>[如皋]</sup> 能记住，不忘记。  
@@ -1348,7 +1348,7 @@
 1. 【[交换](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_hun.md#交换)】`jio1 hun6` <sup>[如东]</sup> 相互对斢。  
 1. 【[交易](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_i.md#交易)】`jio1 i` <sup>[如东]</sup> 贸易活动。也称买卖：出门做～。  
 1. 【[交易](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_i.md#交易)】`jio1 i6` <sup>[东台]</sup> 除一般释义外，指职业、职务：他找了个好～（找了份好工作）｜他的～忑掉啊（职位被免了，或者被辞退了）。  
-1. 【[交易](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_ieh.md#交易)】`jio1 ieh` ① 交易，事情：今朝有甚的～唃？/今天有什么活计没？也说jio1 i。 ② 买卖，生意<sup>\[泰州\]</sup>：两百台空调，是一笔大～。<sup>\[泰州\]</sup> ③ 职业<sup>\[泰州\]</sup>：你家爸爸过去做甚的～啊？<sup>\[泰州\]</sup> ④ 工作过程中出现的令人不满意的情况<sup>\[泰州\]</sup>：这个弄的甚的～啊，通知三点钟开会，到现在才来啊七八个人。<sup>\[泰州\]</sup>｜他这个～弄得好唻，教他到科技局开会去的，他跑啊科协去啊。<sup>\[泰州\]</sup>  
+1. 【[交易](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_ieh.md#交易)】`jio1 ieh` <small>/t͡ɕiɔ1 iəʔ/<sup>兴化</sup>, /t͡ɕiɔ1 ʝ/<sup>如皋</sup>, /t͡ɕiɔ1 iʔ/<sup>泰兴</sup>, /t͡ɕiɔ1 iɪʔ/<sup>泰县</sup></small> ① 交易，事情：今朝有甚的～唃？/今天有什么活计没？ ② 买卖，生意<sup>\[泰州\]</sup>：两百台空调，是一笔大～。<sup>\[泰州\]</sup> ③ 职业<sup>\[泰州\]</sup>：你家爸爸过去做甚的～啊？<sup>\[泰州\]</sup> ④ 工作过程中出现的令人不满意的情况<sup>\[泰州\]</sup>：这个弄的甚的～啊，通知三点钟开会，到现在才来啊七八个人。<sup>\[泰州\]</sup>｜他这个～弄得好唻，教他到科技局开会去的，他跑啊科协去啊。<sup>\[泰州\]</sup>  
 1. 【[交九](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_jieu.md#交九)】`jio1 jieu3` <sup>[如东]</sup> 天气进入寒冷时期的一种计算方法。从冬至开始，至惊蛰结束，九天为一周期，称头九、二九、三九到九九，共九期，81天。气候最冷为三九、四九，有“三九四九不出手”的民谣。  
 1. 【[交节刻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_jih_keh.md#交节刻)】`jio1 jih7 keh7` <sup>[兴化]</sup> 见“交时节”。  
 1. 【[交节令](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_jih_lien.md#交节令)】`jio1 jih7 lien6` <sup>[如皋]</sup> 节气更迭。  

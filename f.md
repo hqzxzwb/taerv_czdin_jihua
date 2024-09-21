@@ -234,7 +234,7 @@
 1. 【[反跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_qio.md#反跷)】`faen3 qio1` <sup>[泰县]</sup> 别扭、刁难：你这事不应该跟他～。  
 1. 【[反撬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_qio.md#反撬)】`faen3 qio5` <sup>[兴化]</sup> （喻）唱反调，闹别扭：个个朝南拜，他朝北拜，硬要～。  
 1. 【[反噍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_qio.md#反噍)】`faen3 qio6` <sup>[泰县]</sup> 牛吃草反刍。  
-1. 【[反如](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_rv.md#反如)】`faen3 rv2` <small>/fɛ̃3 ɻu2/<sup>泰县</sup></small> ① 反而：大的学习～不如细点儿啊。 ② 反而<sup>\[泰县\]</sup>：你这吖说，～让他为难。<sup>\[泰县\]</sup>  
+1. 【[反如](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_rv.md#反如)】`faen3 rv2` <small>/fɛ̃3 lu2/<sup>兴化</sup>, /fẽ3 ɻu2/<sup>如皋</sup>, /fɛ̃3 ɻu2/<sup>泰兴</sup>, /fɛ̃3 ɻu2/<sup>泰县</sup></small> 反而<sup>\[泰县\]</sup>：大的学习～不如细点儿啊。｜你这吖说，～让他为难。<sup>\[泰县\]</sup>  
 1. 【[反绱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_shan.md#反绱)】`faen3 shan6` <sup>[兴化]</sup> 绱鞋工艺：先从反面将鞋底、鞋帮缝合，然后翻转成型。  
 1. 【[反手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_sheu.md#反手)】`faen3 sheu3` <small>/fɛ̃3 sɤ3/<sup>兴化</sup>, /fẽ3 sei3/<sup>如皋</sup></small> ① 用手背出击。<sup>\[如东\]</sup>：～一击。<sup>\[如东\]</sup> ② 左手，手背方向。<sup>\[如皋\]</sup> ③ 通常指左手。<sup>\[兴化\]</sup>  
 1. 【[反手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_sheu.md#反手)】`faen3 sheu3` <sup>[泰州]</sup> 左手，相对“正手”为右手：他的～比正手劲大。  
@@ -600,7 +600,7 @@
 1. 【[分门<sub>儿</sub>透气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_men_r_teu_qi.md#分门<sub>儿</sub>透气)】`fen1 men2 r teu5 qi5` <sup>[如皋]</sup> 称赞语，很好。  
 1. 【[分门透气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_men_teu_qi.md#分门透气)】`fen1 men2 teu5 qi5` <small>/fəŋ1 məŋ2 tʰɤɯ5 t͡sʰɿ5/<sup>泰县</sup></small> ① ［引］意同“分门”。<sup>\[东台\]</sup> ② 成功。<sup>\[泰县\]</sup>  
 1. 【[分剖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_pu.md#分剖)】`fen1 pu1` <sup>[兴化]</sup> 表白、说清楚：若被别人误解要好好的～。  
-1. 【[分清](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_qien.md#分清)】`fen1 qien1` ① 清清楚楚的：我眼睛不好，望这些小字望不～。 ② 对不太好的事物发生后产生后果的感叹，相当于“这下好了”。 ③ 头脑清醒。<sup>\[如东\]</sup>：这个人脑子～。<sup>\[如东\]</sup> ④ 办事清爽。<sup>\[如东\]</sup>：这件事你做得～。<sup>\[如东\]</sup> ⑤ 感叹词，意思类似“这下好了”“完蛋了”。<sup>\[如东\]</sup>  
+1. 【[分清](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_qien.md#分清)】`fen1 qien1` <small>/fəŋ1 t͡ɕʰiŋ1/<sup>泰兴</sup></small> ① 清晰<sup>\[泰兴\]</sup>：我眼睛不好，望这些小字望不～。<sup>\[泰兴\]</sup> ② 头脑清醒。<sup>\[如东\]</sup>：这个人脑子～。<sup>\[如东\]</sup> ③ 办事清爽。<sup>\[如东\]</sup>：这件事你做得～。<sup>\[如东\]</sup> ④ 感叹词，意思类似“这下好了”“完蛋了”。对不太好的事物发生后产生后果的感叹。<sup>\[如东\]</sup>  
 1. 【[分三朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_saen_zho.md#分三朝)】`fen1 saen1 zho1` <sup>[如东]</sup> ① 举行婚礼后的第三天。 ② 妇女做产后的第三天。  
 1. 【[分手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_sheu.md#分手)】`fen1 sheu3` ① 夫妻、朋友、伙伴之间的亲属、友谊与合作关系的终止或淡化。<sup>\[如东\]</sup> ② 分别。<sup>\[东台\]</sup> ③ 离婚或终止恋情。<sup>\[东台\]</sup> ④ 不再合作。<sup>\[东台\]</sup>  
 1. 【[分折](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_shih.md#分折)】`fen1 shih8` <sup>[兴化]</sup> 大宗物品在分装、分配过程中产生的损耗：二百斤鱼分十摊，最后一摊剩下十八斤，中间有二斤～。  
@@ -638,7 +638,7 @@
 1. 【[粉粉瓤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_fen_ran.md#粉粉瓤)】`fen3 fen3 ran2` <sup>[如皋]</sup> 极碎：他运起硬气功，把一块瓦瓷捏得～。  
 1. 【[粉缸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_gan_r.md#粉缸<sub>儿</sub>)】`fen3 gan1 r` <sup>[如皋]</sup> 装扑粉的小瓷缸。  
 1. 【[粉㾭㾭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_jieu_jieu.md#粉㾭㾭)】`fen3 jieu5 jieu5` <sup>[泰县]</sup> ① 粉很多：～的。 ② 形容土豆等烧得松软可口。  
-1. 【[粉烂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_laen.md#粉烂)】`fen3 laen6` (食物熟透而)松软：芋头烧得～的  
+1. 【[粉烂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_laen.md#粉烂)】`fen3 laen6` <small>/fən3 lɛ̃6/<sup>兴化</sup>, /fəŋ3 lẽ1/<sup>如皋</sup>, /fəŋ3 lɛ̃1/<sup>泰兴</sup>, /fəŋ3 nɛ̃1/<sup>泰县</sup></small> (食物熟透而)松软：芋头烧得～的  
 1. 【[粉面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_min.md#粉面)】`fen3 min6` <sup>[泰州]</sup> 糯米面粉：姑妈送的～又细又白。  
 1. 【[粉末](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_muh.md#粉末)】`fen3 muh8` <sup>[如东]</sup> 非常细小的颗粒：剩下的都是些～。  
 1. 【[粉嫩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_nen.md#粉嫩)】`fen3 nen6` <small>/fən3 lən6/<sup>兴化</sup></small> ① 像凉粉一样的嫩滑。<sup>\[如东\]</sup> ② 比喻人的皮肤白嫩。<sup>\[如东\]</sup> ③ 形容刚采摘的瓜果或某些菜肴麻脆绵软，新鲜可口<sup>\[兴化\]</sup>：～的花香藕。<sup>\[兴化\]</sup>｜他还有一手好烹调，劖（劗）个肉圆儿，～的……（《广陵潮》六六）<sup>\[兴化\]</sup> ④ 娇嫩<sup>\[兴化\]</sup>：“……这～的骨头如何经得起打……”（《说岳全传》三）<sup>\[兴化\]</sup>  
