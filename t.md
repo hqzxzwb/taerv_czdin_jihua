@@ -1213,7 +1213,7 @@
 1. 【[天星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_xien.md#天星)】`tin1 xien1` <sup>[兴化]</sup> 天花的讳饰词。  
 1. 【[天行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_xien.md#天行)】`tin1 xien2` <sup>[兴化]</sup> 时疫，流行性传染病：～已过。  
 1. 【[天仙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_xin.md#天仙)】`tin1 xin1` <sup>[如东]</sup> 神话传说中天上的神仙。比喻美女。  
-1. 【[天𢳚起来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_xio_qi_lae_a.md#天𢳚起来啊)】`tin1 xio1 qi lae a` <small>/tʰĩ1 ɕiɔ1 t͡ɕʰʝ lɛ a/<sup>如皋</sup>, /tʰĩ1 ɕiɔ1 t͡ɕʰʝ lɛ ɑ/<sup>泰兴</sup></small> 乌云散去，天气转好。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
+1. 【[天𢳚起来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_xio_qi_lae_a.md#天𢳚起来啊)】`tin1 xio1 qi lae a` <small>/tʰĩ1 ɕiɔ1 t͡ɕʰʝ lɛ a/<sup>如皋</sup>, /tʰĩ1 ɕiɔ1 t͡ɕʰʝ lɛ a/<sup>泰兴</sup></small> 乌云散去，天气转好。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[天晓得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_xio_deh.md#天晓得)】`tin1 xio3 deh` <small>/tʰĩ1 ɕiɔ3 təʔ/<sup>如皋</sup>, /tʰĩ1 ɕiɔ3 təʔ/<sup>泰兴</sup></small> 表示无法理解或没有人知道<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：他哿曾拿你的书，真正是～！<sup>\[泰兴\]</sup>  
 1. 【[天晓得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_xio_deh.md#天晓得)】`tin1 xio3 deh7` <sup>[东台]</sup> 谁也不知道。  
 1. 【[天作变](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_zah_bin.md#天作变)】`tin1 zah7 bin5` <small>/tʰiɪ̃1 t͡saʔ7 piɪ̃5/<sup>兴化</sup>, /tʰĩ1 t͡saʔ7 pĩ5/<sup>如皋</sup>, /tʰĩ1 t͡sɑʔ7 pĩ5/<sup>泰兴</sup></small> ① 天气变坏。<sup>\[如皋\]</sup> ② 天气由晴变阴。<sup>\[兴化\]</sup> ③ 大风雨到来的前兆。<sup>\[兴化\]</sup> ④ 天气发生变化，风雨将至。<sup>\[泰兴\]</sup>：天作变ngo，快点把衣裳收家来！<sup>\[泰兴\]</sup>  

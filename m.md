@@ -795,7 +795,7 @@
 1. 【[门风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_fon.md#门风)】`men2 fon1` <sup>[泰兴]</sup> 指家风。旧指一家或一族世代相传的道德准则和处世方法。  
 1. 【[门风低](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_fon_di.md#门风低)】`men2 fon1 di1` <sup>[东台]</sup> ① 指人出身低贱卑微。 ② 指家风差，缺少教养。  
 1. 【[门缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_fon.md#门缝)】`men2 fon6` <sup>[泰兴]</sup> 门扇之间的缝隙。  
-1. 【[门缝里看人——把人看扁吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_fon_lii_kun_ren_ba_ren_kun_bin_nga.md#门缝里看人——把人看扁吖)】`men2 fon6 lii kun5 ren2 ba3 ren2 kun5 bin3 nga` <small>/məŋ2 fɔŋ1 ləɪ kʰʊ̃5 ɻəŋ2 pɑ3 ɻəŋ2 kʰʊ̃5 pĩ3 ŋɑ/<sup>泰兴</sup></small> 轻视人<sup>\[东台\]</sup><sup>\[泰兴\]</sup><sup>\[如东\]</sup>  
+1. 【[门缝里看人——把人看扁吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_fon_lii_kun_ren_ba_ren_kun_bin_nga.md#门缝里看人——把人看扁吖)】`men2 fon6 lii kun5 ren2 ba3 ren2 kun5 bin3 nga` <small>/məŋ2 fɔŋ1 ləɪ kʰʊ̃5 ɻəŋ2 pɑ3 ɻəŋ2 kʰʊ̃5 pĩ3 ŋa/<sup>泰兴</sup></small> 轻视人<sup>\[东台\]</sup><sup>\[泰兴\]</sup><sup>\[如东\]</sup>  
 1. 【[门缝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_fon_r.md#门缝<sub>儿</sub>)】`men2 fon6 r` <sup>[如东]</sup> ① 门与门之间的缝隙。 ② 比喻狭小：～里看人，把人看扁了。  
 1. 【[门杠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_gan.md#门杠)】`men2 gan5` <sup>[如东]</sup> 木棍或铁棍，穿在门镣中，可以把门杠死。  
 1. 【[门杠子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_gan_zz.md#门杠子)】`men2 gan5 zz` <small>/məŋ2 kã5 t͡sɿ/<sup>如皋</sup></small> ① 关门后两端插在门户框中段后边环里的横木，起加固作用。<sup>\[如皋\]</sup> ② 横在两扇木门后的粗木棍，使门从外面推不开。<sup>\[东台\]</sup>  
