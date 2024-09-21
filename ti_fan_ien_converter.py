@@ -13,8 +13,8 @@ def parse_pien_ien(ien):
   if match is None:
     raise Exception(f"Unrecogonized ien: {ien}")
   g = match.groups()
-  if g[1] == 'i' and g[2] == 'i':
-    return [g[0], '', 'ii', g[3]]
+  if g[1] == 'i' and g[2] in ['un', 'uh']:
+    return [g[0], 'y', g[2], g[3]]
   return g
 
 class keydefaultdict(defaultdict):
@@ -58,7 +58,12 @@ def 泰兴(cz, pien_ien):
     result = tae_rv_ipa.tae_rv_ipa_shen[shen] + 'iŋ'
   else:
     ipa_yen = tae_rv_ipa.tae_rv_ipa_yen.copy()
+    ipa_yen['a'] = 'ɑ'
+    ipa_yen['aeh'] = 'æʔ'
+    ipa_yen['ah'] = 'ɑʔ'
     ipa_yen['an'] = 'ɑŋ'
+    ipa_yen['en'] = 'əŋ'
+    ipa_yen['on'] = 'ɔŋ'
     ipa_yen['v'] = 'u'
     result = tae_rv_ipa.tae_rv_ipa_shen[shen] + tae_rv_ipa.tae_rv_ipa_gae[gae] + ipa_yen[yen]
 
@@ -148,8 +153,6 @@ def 如皋(cz, pien_ien):
   elif gae == 'i' and yen == 'eu': # ieu -> iu
     gae = 'y'
     yen = 'u'
-  elif gae == 'i' and yen in ['un', 'uh']: # 撮口介音
-    gae = 'y'
   elif cz == '里' and shen == 'l' and yen == 'ii': # “里lii”混入“的”
     shen = 'd'
     yen = 'ei'
@@ -265,8 +268,6 @@ def boh_tae_base(cz, pien_ien, qieh_survivor='吃七', i_as_z=False, zin_as_jin 
     shen = ngah_hua[shen]
   elif rin_as_in and shen == 'r' and yen in ['in', 'ih']: # 日母脱落
     shen = ''
-  elif gae == 'i' and yen in ['un', 'uh']: # 撮口介音
-    gae = 'y'
   elif gae == 'i' and yen == 'eh' and cz not in qieh_survivor: # ieh 混入 ih
     gae = ''
     yen = 'ih'
@@ -299,7 +300,7 @@ def 兴化(cz, pien_ien):
   elif shen not in ['j', 'q', 'x', ''] and gae + yen in ['ien', 'ieh']: # ien->in，ieh->ih
     gae = ''
     yen = 'i' + yen[1:]
-  elif gae == 'i' and yen in ['un', 'uh', 'oh']: # 撮口介音
+  elif gae == 'i' and yen in ['oh']: # 撮口介音
     gae = 'y'
   elif shen in ['d', 't', 'l'] and yen in ['i', 'ii']: # i裂化
     yen = 'ei'
