@@ -52,7 +52,9 @@ def 泰兴(cz, pien_ien):
   ien = parse_pien_ien(pien_ien)
   shen, gae, yen, tio = tae_xien_pien_ien(cz, ien)
 
-  if shen in ['', 'f'] and yen == 'v':
+  if cz == '啊' and pien_ien == 'a' or cz == '吖' and pien_ien == 'nga' or cz == '咖' and pien_ien == 'ga': # 啊的前化
+    result = tae_rv_ipa.tae_rv_ipa_shen[shen] + 'a'
+  elif shen in ['', 'f'] and yen == 'v':
     result = shen + 'ʋ'
   elif gae == 'i' and yen == 'en':
     result = tae_rv_ipa.tae_rv_ipa_shen[shen] + 'iŋ'
