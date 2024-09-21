@@ -3155,7 +3155,7 @@
 1. 【[四乡八镇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_xian_baeh_zhen.md#四乡八镇)】`sz5 xian1 baeh7 zhen5` <sup>[如皋]</sup> 指县城以外的广大范围。在如皋，指如皋县城的内四镇迎春、锦绣、丰乐、大寺，外四镇坝桥、宏济、陆桥、普济，郊四乡。  
 1. 【[四仙桌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_xin_zhuah.md#四仙桌)】`sz5 xin1 zhuah7` <sup>[如皋]</sup> 房内打牌用的精制小方桌，四人座。  
 1. 【[肆误](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_v.md#肆误)】`sz5 v` <sup>[东台]</sup> 因判断错误或操作不当造成坏的结果。与耽误、贻误近义。东台词典写“失误”：他的病太重，不能怪医生～。  
-1. 【[肆误](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_v.md#肆误)】`sz5 v6` <sup>[如皋]</sup> ① 意外差错或事故。如皋词典作“失误”：出～。 ② 延误：病捱～下来啊。  
+1. 【[肆误](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_v.md#肆误)】`sz5 v` <sup>[如皋]</sup> ① 意外差错或事故。如皋词典作“失误”：出～。 ② 延误：病捱～下来啊。  
 1. 【[似](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz.md#似)】`sz6` <sup>[泰州]</sup> 介词，用于形容词之后，表示比较：一声高～一声｜肚子一天大～一天｜他的成绩远远好～你。｜他的个子高～你。  
 1. 【[自在](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_cae.md#自在)】`sz6 cae6` <sup>[东台]</sup> 自由；快活：你坐啊河边钓钓鱼，看看书，多～啊！  
 1. 【[自家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ga.md#自家)】`sz6 ga1, sz6 ga3` <sup>[东台]</sup> 自己。  
