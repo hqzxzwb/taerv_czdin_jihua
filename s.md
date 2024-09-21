@@ -3098,7 +3098,6 @@
 1. 【[死猪脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_zhv_lin.md#死猪脸)】`sz3 zhv1 lin3` <sup>[兴化]</sup> （讽）形容人摆架子，成天拉长着脸的样子：他官不大，这副～难看哎。  
 1. 【[死做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_zu.md#死做)】`sz3 zu5` <sup>[兴化]</sup> ① 指不懂得巧干：他这吖～，一世也不得发。 ② 也指苦干：谚曰：八败命怕个～。  
 1. 【[水门汀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_men_tien.md#水门汀)】`sz3 men tien1` <sup>[兴化]</sup> ① 水泥。 ② 混凝土：上池斋药店是～的地坪。～词早年由洋泾浜英语转化面来。  
-1. 【[□误](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_v.md#□误)】`sz5 v` <sup>[东台]</sup> 因判断错误或操作不当造成坏的结果。与耽误、贻误近义。东台词典写“失误”：他的病太重，不能怪医生～。  
 1. 【[四不咬六](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_beh_ngo_loh.md#四不咬六)】`sz5 beh7 ngo3 loh8` <sup>[如皋]</sup> 下不犯上；下鬥不过上。  
 1. 【[四不沾依](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_beh_zhin_i.md#四不沾依)】`sz5 beh7 zhin1 i1` <sup>[兴化]</sup> 指物体周边无可依靠地孤立着：他把热水瓶放吖～的地方，一碰就摔碎啊。  
 1. 【[四边地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_bin_ti.md#四边地)】`sz5 bin1 ti6` <sup>[如东]</sup> 屋边、场边、路边河边的零星地块：～，种蚕豆，不能浪费。  
@@ -3155,6 +3154,8 @@
 1. 【[四碗四盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_un_sz_pun.md#四碗四盘)】`sz5 un3 sz5 pun2` <sup>[兴化]</sup> 菜肴的规格：四个冷盘，四碗烧菜，另有一道汤。多用于便酌。  
 1. 【[四乡八镇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_xian_baeh_zhen.md#四乡八镇)】`sz5 xian1 baeh7 zhen5` <sup>[如皋]</sup> 指县城以外的广大范围。在如皋，指如皋县城的内四镇迎春、锦绣、丰乐、大寺，外四镇坝桥、宏济、陆桥、普济，郊四乡。  
 1. 【[四仙桌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_xin_zhuah.md#四仙桌)】`sz5 xin1 zhuah7` <sup>[如皋]</sup> 房内打牌用的精制小方桌，四人座。  
+1. 【[肆误](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_v.md#肆误)】`sz5 v` <sup>[东台]</sup> 因判断错误或操作不当造成坏的结果。与耽误、贻误近义。东台词典写“失误”：他的病太重，不能怪医生～。  
+1. 【[肆误](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_v.md#肆误)】`sz5 v6` <sup>[如皋]</sup> ① 意外差错或事故。如皋词典作“失误”：出～。 ② 延误：病捱～下来啊。  
 1. 【[似](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz.md#似)】`sz6` <sup>[泰州]</sup> 介词，用于形容词之后，表示比较：一声高～一声｜肚子一天大～一天｜他的成绩远远好～你。｜他的个子高～你。  
 1. 【[自在](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_cae.md#自在)】`sz6 cae6` <sup>[东台]</sup> 自由；快活：你坐啊河边钓钓鱼，看看书，多～啊！  
 1. 【[自家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ga.md#自家)】`sz6 ga1, sz6 ga3` <sup>[东台]</sup> 自己。  
