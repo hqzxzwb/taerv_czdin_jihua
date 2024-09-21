@@ -160,6 +160,8 @@ def parse_cont(cont, fname):
             sub_meaning_cursor = 0
             sub_meaning_body = meaning_match.group('body')
             for sub_meaning_match in re.finditer(sub_meaning_pattern, sub_meaning_body):
+                if sub_meaning_match.start() == sub_meaning_match.end():
+                    continue # sub_meaning_pattern 可匹配到空字符串
                 assert sub_meaning_cursor == sub_meaning_match.start(), message_for_failure
                 sub_meaning_cursor = sub_meaning_match.end()
                 examples = []
@@ -343,6 +345,11 @@ def write_page(dirs, path, sample_out, cz_ien):
                     if source:
                         source = shrink_source(source)
                         source_set.add(source)
+                    else:
+                        for it in dir(ti_fan_ien_converter):
+                            if not re.match(r"^[a-zA-Z0-9_]+$", it):
+                                source_set.add(it)
+                        break
             ti_fan_ien = {}
             for source in source_set:
                 ti_fan_ien_func = getattr(ti_fan_ien_converter, source, None)
