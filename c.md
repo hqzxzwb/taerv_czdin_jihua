@@ -895,6 +895,7 @@
 1. 【[秤星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_xien.md#秤星)】`chen5 xien1` <small>/t͡sʰən5 ɕin1/<sup>兴化</sup></small> ① 秆秤上表示重量单位的标志，用金属丝钉在秤杆上，圆形，像星一样。<sup>\[如东\]</sup> ② 秤杆上表示重量的记号。<sup>\[兴化\]</sup>  
 1. 【[秤星<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_xien_r.md#秤星<sub>儿</sub>)】`chen5 xien1 r` <sup>[如皋]</sup> 秤星。  
 1. 【[秤准](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_zhuen.md#秤准)】`chen5 zhuen3` <sup>[如皋]</sup> 某杆秤的称量用标准秤校核准确。  
+1. 【[称衡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_hen.md#称衡)】`chen5 hen` <small>/t͡sʰəŋ5 xəŋ/<sup>泰兴</sup></small> 相称，搭配得当<sup>\[泰兴\]</sup>：箇件衣裳穿吖你身上～ngae<sup>\[泰兴\]</sup>  
 1. 【[称手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_sheu.md#称手)】`chen5 sheu3` <small>/t͡sʰən5 sɤ3/<sup>兴化</sup>, /t͡sʰəŋ5 sei3/<sup>如皋</sup></small> ① 手掌握合适、满意<sup>\[如皋\]</sup>：这把锄头～。也说“合手（huh8 sheu3）”。<sup>\[如皋\]</sup> ② 见“合手”。<sup>\[如皋\]</sup> ③ 手里用起来合适<sup>\[东台\]</sup>：这把扳子用吖多年，蛮～的。<sup>\[东台\]</sup> ④ 合手<sup>\[兴化\]</sup>：这几件家伙蛮～的。<sup>\[兴化\]</sup>  
 1. 【[称手/趁手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_sheu.md#称手/趁手)】`chen5 sheu3` <sup>[泰州]</sup> 武器或者工具使用合手：这支笔的笔杆子太瘦，用吖不～。  
 1. 【[称头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_teu.md#称头)】`chen5 teu2` <small>/t͡sʰəŋ5 tʰei2/<sup>如皋</sup></small> ① 扁担两端重量相当。<sup>\[如东\]</sup>：一头一只箩，一头两只海子，挑起来～。<sup>\[如东\]</sup> ② 两端重量相当，相对平衡：挑担要～，不要挑背背担儿。<sup>\[如皋\]</sup>  
