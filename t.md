@@ -179,7 +179,6 @@
 1. 【[𤄥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh.md#𤄥)】`taeh7` <sup>[如皋]</sup> 涂、揸：～雪花儿膏。  
 1. 【[𤄥𤄥鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_taeh_pieh_zz.md#𤄥𤄥鼻子)】`taeh7 taeh7 pieh8 zz` <sup>[如皋]</sup> 应付应付，使关系不致尴尬：大家总分到啊，也弄半份儿把他～。  
 1. 【[踏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh.md#踏)】`taeh8` 踏  
-1. 【[踏……脚印](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_jiah_ien.md#踏……脚印)】`taeh8 jiah7 ien5` <sup>[东台]</sup> 学习、继承某人的品质或本领：他踏到他老子的脚印。  
 1. 【[踏板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_baen.md#踏板)】`taeh8 baen3` <small>/tʰeʔ8 pẽ3/<sup>如皋</sup></small> ① 旧式床前的踏脚板，与床同长，约三尺宽，六寸高，八只脚，有框架。<sup>\[如皋\]</sup> ② 上床踏脚的台板，长方形。<sup>\[如东\]</sup> ③ 旧式床前放置的一块下面有矮脚的木板<sup>\[东台\]</sup>：婆娘教他跪～。<sup>\[东台\]</sup>  
 1. 【[踏板底下吊吊灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_baen_di_xia_dio_dio_huei.md#踏板底下吊吊灰)】`taeh8 baen3 di3 xia6 dio5 dio5 huei1` <sup>[东台]</sup> 喻指社会最下层的人物。  
 1. 【[踏车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_cha.md#踏车)】`taeh8 cha1` <small>/tʰæʔ8 t͡sʰa1/<sup>兴化</sup>, /tʰeʔ8 t͡sʰa1/<sup>如皋</sup></small> ① 名。指人力踏车。<sup>\[如皋\]</sup> ② 用人力踏动戽水灌田的水车。<sup>\[如皋\]</sup> ③ 农活之一，脚踏龙骨水车提水<sup>\[兴化\]</sup>：这几天抗旱，天天下田～。<sup>\[兴化\]</sup>  
@@ -190,6 +189,7 @@
 1. 【[踏檐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_in.md#踏檐)】`taeh8 in2` <sup>[如东]</sup> 用“把弣”加固茅屋屋檐，叫做踏檐。  
 1. 【[踏雄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_ion.md#踏雄)】`taeh8 ion2` <sup>[如东]</sup> 鸟禽交尾。  
 1. 【[踏脚𣑁<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_jiah_chon_r.md#踏脚𣑁<sub>儿</sub>)】`taeh8 jiah7 chon5 r` <sup>[如皋]</sup> 桌椅等近地供踏脚的横木。  
+1. 【[踏……脚印](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_jiah_ien.md#踏……脚印)】`taeh8 jiah7 ien5` <sup>[东台]</sup> 学习、继承某人的品质或本领：他踏到他老子的脚印。  
 1. 【[踏脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_jiah_r.md#踏脚<sub>儿</sub>)】`taeh8 jiah7 r` <sup>[如皋]</sup> 桌子下方供踏脚用的木格子。  
 1. 【[踏疆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_jian.md#踏疆)】`taeh8 jian1` <sup>[如皋]</sup> 游戏用语，指踏到疆线上，应受罚。  
 1. 【[踏肩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_jin.md#踏肩)】`taeh8 jin1` <sup>[兴化]</sup> 挨肩儿，指小孩一个挨着一个来到世上：大儿九岁，二儿八岁，～生下来的。  

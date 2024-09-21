@@ -592,17 +592,6 @@
 1. 【[颜咂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_zaeh.md#颜咂)】`ngaen2 zaeh7` <sup>[东台]</sup> 咂，咂嘴。引申为不停地数落、责备、埋怨、批评，使人难受。  
 1. 【[颜张](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_zhan.md#颜张)】`ngaen2 zhan` <sup>[兴化]</sup> 指人的身材、气色：覅看他～小，力气倒有一把唻！  
 1. 【[眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen.md#眼)】`ngaen3` <sup>[东台]</sup> 眼睛、眼光：只怪我～拙，不曾看清。  
-1. 【[眼（睛）眵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_chr.md#眼（睛）眵)】`ngaen3 chr1` <sup>[如皋]</sup> 眼中脓样分泌物，眼屎。  
-1. 【[眼（睛）滞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_chr.md#眼（睛）滞)】`ngaen3 chr5` <sup>[如皋]</sup> 眼力差。  
-1. 【[眼（睛）框络<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_kuan_lah_r.md#眼（睛）框络<sub>儿</sub>)】`ngaen3 kuan1 lah8 r` <sup>[如皋]</sup> ① 眼球四周：西洋人的～是凹的。 ② 眼睑：她熬啊夜的，～发青。 ③ 眼界、视角：常在外头走的人见识多，～大。  
-1. 【[眼（睛）皮打架](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_pi_da_jia.md#眼（睛）皮打架)】`ngaen3 pi2 da3 jia5` <sup>[如皋]</sup> 开始打瞌睡。  
-1. 【[眼（睛）皮耷咖下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_pi_dah_ga_ha.md#眼（睛）皮耷咖下)】`ngaen3 pi2 dah7 ga ha` <sup>[如皋]</sup> 眼微睁。  
-1. 【[眼（睛）皮发重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_pi_faeh_chon.md#眼（睛）皮发重)】`ngaen3 pi2 faeh7 chon6` <sup>[如皋]</sup> 有了睡意。  
-1. 【[眼（睛）皮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_pi_zz.md#眼（睛）皮子)】`ngaen3 pi2 zz` <sup>[如皋]</sup> 眼睑。  
-1. 【[眼（睛）泡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_po_zz.md#眼（睛）泡子)】`ngaen3 po1 zz` <sup>[如皋]</sup> 眼睑，眼皮。  
-1. 【[眼（睛）白子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_poh_zz.md#眼（睛）白子)】`ngaen3 poh8 zz` <sup>[如皋]</sup> 结膜。  
-1. 【[眼（睛）钝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_ten.md#眼（睛）钝)】`ngaen3 ten6` <sup>[如皋]</sup> 目力差（辨识力差）：我～，走路上忽略咖多少人。  
-1. 【[眼（睛）头上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_teu_shan.md#眼（睛）头上)】`ngaen3 teu2 shan` <sup>[如皋]</sup> 眼前，很近，常见：你不要在我～现吖现的。我不希奇！  
 1. 【[眼巴巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_ba_ba.md#眼巴巴)】`ngaen3 ba1 ba` <sup>[东台]</sup> 形容急切地盼望。  
 1. 【[眼巴巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_ba_ba.md#眼巴巴)】`ngaen3 ba1 ba1` <sup>[如东]</sup> 急切地盼望：他俫都在下～的等你。  
 1. 【[眼板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_baen.md#眼板)】`ngaen3 baen3` <sup>[如东]</sup> ① 帆船船眼位置上的一块木板称眼板。 ② 痕迹，把柄：不能留下～。  
@@ -610,6 +599,8 @@
 1. 【[眼不见为净](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_beh_jin_vei_qien.md#眼不见为净)】`ngaen3 beh7 jin5 vei2 qien6` <small>/ɛ̃3 pəʔ7 t͡ɕiɪ̃5 uəi2 t͡ɕʰin6/<sup>兴化</sup></small> ① 本指食物不干净，但没有亲眼看见，也就放心吃了。引申为不知道的事情就不要自寻烦恼。<sup>\[东台\]</sup> ② 看不到就不会产生联想：留心了反会使你产生醋意，～嘛。（马春阳：《昏迷再婚谜》）<sup>\[兴化\]</sup> ③ （戏）脏得不明显就以为是干净的：（大师傅）把皮五辣子吐下的烂污刮掉，余下的馅心照用，顾客～，照吃不误。（《皮五辣子》二）<sup>\[兴化\]</sup>  
 1. 【[眼不转珠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_beh_zhun_zhv.md#眼不转珠)】`ngaen3 beh7 zhun5 zhv1` <sup>[兴化]</sup> 形容注意力集中，目不转晴地看：她捱这种款式的坤表吸引，～的看。  
 1. 【[眼岔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_cha.md#眼岔)】`ngaen3 cha5` <sup>[兴化]</sup> 看错、认错：刚才我～，认错啊人。  
+1. 【[眼（睛）眵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_chr.md#眼（睛）眵)】`ngaen3 chr1` <sup>[如皋]</sup> 眼中脓样分泌物，眼屎。  
+1. 【[眼（睛）滞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_chr.md#眼（睛）滞)】`ngaen3 chr5` <sup>[如皋]</sup> 眼力差。  
 1. 【[眼得之功](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_deh_zhr_gon.md#眼得之功)】`ngaen3 deh7 zhr1 gon1` <sup>[泰县]</sup> 瞬间：他～就做好啊。  
 1. 【[眼福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_foh.md#眼福)】`ngaen3 foh7` <sup>[东台]</sup> 有幸看到美好事物。  
 1. 【[眼角高](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_gah_go.md#眼角高)】`ngaen3 gah7 go1` <small>/ŋẽ3 kaʔ7 kɔ1/<sup>如皋</sup></small> ① 高傲。<sup>\[如皋\]</sup> ② 眼光大。<sup>\[如东\]</sup>：这个伢儿～，这些东西他不要。<sup>\[如东\]</sup> ③ 要求高。<sup>\[如东\]</sup>  
@@ -664,6 +655,7 @@
 1. 【[眼睛长在额头上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jien_zhan_cae_ngeh_teu_shan.md#眼睛长在额头上)】`ngaen3 jien1 zhan3 cae6 ngeh8 teu shan6` <sup>[东台]</sup> 形容目空一切，一般人都不放在眼里。  
 1. 【[眼见得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jin_deh.md#眼见得)】`ngaen3 jin5 deh7` <sup>[兴化]</sup> 显而易见（多用于不如意的事情）：小王这次上广州～又捱骗啊。  
 1. 【[眼孔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_kon.md#眼孔)】`ngaen3 kon3` <sup>[兴化]</sup> 头绪、门路：千方百计找～。  
+1. 【[眼（睛）框络<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_kuan_lah_r.md#眼（睛）框络<sub>儿</sub>)】`ngaen3 kuan1 lah8 r` <sup>[如皋]</sup> ① 眼球四周：西洋人的～是凹的。 ② 眼睑：她熬啊夜的，～发青。 ③ 眼界、视角：常在外头走的人见识多，～大。  
 1. 【[眼眶<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_kuan_r.md#眼眶<sub>儿</sub>)】`ngaen3 kuan1 r` <sup>[如东]</sup> ① 眼皮边缘所构成的框儿。 ② 比喻人的容量：王二～小。  
 1. 【[眼眶<sub>儿</sub>浅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_kuan_r_qin.md#眼眶<sub>儿</sub>浅)】`ngaen3 kuan1 r qin3` <sup>[如东]</sup> ① 看问题不深不远。 ② 心眼儿小：这个人～。 ③ 小气。  
 1. 【[眼眶<sub>儿</sub>小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_kuan_r_xio.md#眼眶<sub>儿</sub>小)】`ngaen3 kuan1 r xio3` <sup>[如东]</sup> ① 看不远：这个人～，不能办大事。 ② 小气：王二～，不肯帮忙。  
@@ -688,9 +680,15 @@
 1. 【[眼眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_ngaen_r.md#眼眼<sub>儿</sub>)】`ngaen3 ngaen3 r` <small>/ŋẽ3 ŋe˞3/<sup>如皋</sup></small> ① 一点点 ② 见“奀奀儿”。<sup>\[如皋\]</sup>  
 1. 【[眼怕手不怕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_pa_sheu_beh_pa.md#眼怕手不怕)】`ngaen3 pa5 sheu3 beh7 pa5` <small>/ŋẽ3 pʰa5 sei3 pəʔ7 pʰa5/<sup>如皋</sup></small> ① 眼看量大，做起来也很快就完成。<sup>\[如皋\]</sup> ② 看起来很难，真正动手就能改观见效<sup>\[东台\]</sup>：～，这几亩田的豆子，我俫也种好啊。<sup>\[东台\]</sup>  
 1. 【[眼皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_pi.md#眼皮)】`ngaen3 pi2` <sup>[东台]</sup> 眼睑。  
+1. 【[眼（睛）皮打架](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_pi_da_jia.md#眼（睛）皮打架)】`ngaen3 pi2 da3 jia5` <sup>[如皋]</sup> 开始打瞌睡。  
+1. 【[眼（睛）皮耷咖下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_pi_dah_ga_ha.md#眼（睛）皮耷咖下)】`ngaen3 pi2 dah7 ga ha` <sup>[如皋]</sup> 眼微睁。  
+1. 【[眼（睛）皮发重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_pi_faeh_chon.md#眼（睛）皮发重)】`ngaen3 pi2 faeh7 chon6` <sup>[如皋]</sup> 有了睡意。  
+1. 【[眼（睛）皮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_pi_zz.md#眼（睛）皮子)】`ngaen3 pi2 zz` <sup>[如皋]</sup> 眼睑。  
 1. 【[眼泡虚肿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_po_xy_zhon.md#眼泡虚肿)】`ngaen3 po xy1 zhon3` <sup>[兴化]</sup> 上眼泡因哭泣或缺乏睡眠面浮肿：小刘因高考落榜，哭得～的。  
+1. 【[眼（睛）泡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_po_zz.md#眼（睛）泡子)】`ngaen3 po1 zz` <sup>[如皋]</sup> 眼睑，眼皮。  
 1. 【[眼泡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_po_zz.md#眼泡子)】`ngaen3 po1 zz` <sup>[如东]</sup> 眼皮。  
 1. 【[眼白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_poh.md#眼白)】`ngaen3 poh8` <sup>[兴化]</sup> 眼眶内除眼珠以外部分，俗称“眼睛白子”。  
+1. 【[眼（睛）白子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_poh_zz.md#眼（睛）白子)】`ngaen3 poh8 zz` <sup>[如皋]</sup> 结膜。  
 1. 【[眼前](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_qin.md#眼前)】`ngaen3 qin2` <sup>[如东]</sup> 现在：不能只顾～利益。  
 1. 【[眼前亏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_qin_kuei.md#眼前亏)】`ngaen3 qin2 kuei1` <sup>[东台]</sup> 当前就会受到的损害：好汉不吃～。  
 1. 【[眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_r.md#眼<sub>儿</sub>)】`ngaen3 r` <sup>[如东]</sup> 洞：被上烫吖个～。  
@@ -710,8 +708,10 @@
 1. 【[眼屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_shr.md#眼屎)】`ngaen3 shr3` <small>/ɛ̃3 sɿ3/<sup>兴化</sup>, /ŋẽ3 sɿ3/<sup>如皋</sup></small> 眼睛分泌的一种黄色物质。通称眵。<sup>\[如东\]</sup><sup>\[泰州\]</sup>\[兴化：也说“眼睛眵”。\]\[如皋：或“眼睛屎”。另见“眼眵”。\]  
 1. 【[眼屎巴搨的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_shr_ba_taeh_dii.md#眼屎巴搨的)】`ngaen3 shr3 ba1 taeh7 dii` <sup>[东台]</sup> 睡后没洗脸，或因眼疾有眼屎。  
 1. 【[眼水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_shuei.md#眼水)】`ngaen3 shuei` <sup>[兴化]</sup> 眼力：小沈～不丑，寻啊个好老婆。  
+1. 【[眼（睛）钝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_ten.md#眼（睛）钝)】`ngaen3 ten6` <sup>[如皋]</sup> 目力差（辨识力差）：我～，走路上忽略咖多少人。  
 1. 【[眼头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_teu.md#眼头)】`ngaen3 teu2` <sup>[兴化]</sup> 眼光所及的地方。见“眼睛头”。  
 1. 【[眼头见识](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_teu_jin_sheh.md#眼头见识)】`ngaen3 teu2 jin5 sheh7` <small>/ɛ̃3 tʰɤ2 t͡ɕiɪ̃5 səʔ7/<sup>兴化</sup>, /ɛ̃3 tʰɤɯ2 t͡ɕiɪ̃5 səʔ7/<sup>泰县</sup></small> ① 见机行事的能力<sup>\[东台\]</sup>：你做领导的秘书，要有点～。<sup>\[东台\]</sup> ② 机灵、乖觉：这小伙有～，讨喜。<sup>\[兴化\]</sup> ③ 察颜观色，办事机灵：我忙煞咖，你也没得一点儿～。<sup>\[泰县\]</sup>  
+1. 【[眼（睛）头上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_teu_shan.md#眼（睛）头上)】`ngaen3 teu2 shan` <sup>[如皋]</sup> 眼前，很近，常见：你不要在我～现吖现的。我不希奇！  
 1. 【[眼毒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_toh.md#眼毒)】`ngaen3 toh8` <sup>[东台]</sup> ① 观察鉴别事物的能力强：你一眼就把假货认出来了，怪不得人家说你～呢！ ② 形容看上某样东西，一心想得到它：这只青花瓷瓶快要捱你相出～来啊。  
 1. 【[眼丸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_un_r.md#眼丸<sub>儿</sub>)】`ngaen3 un2 r` <sup>[东台]</sup> 同“细点滴儿”，“丸眼儿”。  
 1. 【[眼下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_xia.md#眼下)】`ngaen3 xia6` <sup>[如东]</sup> 现在，目前：～工作很多。  

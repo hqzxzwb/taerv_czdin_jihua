@@ -2,9 +2,6 @@
 **[A](./a.md) | [B](./b.md) | [C](./c.md) | [D](./d.md) | [E](./e.md) | [F](./f.md) | [G](./g.md) | [H](./h.md) | [I](./i.md) | [J](./j.md) | [K](./k.md) | [L](./l.md) | [M](./m.md) | [N](./n.md) | [O](./o.md) | [P](./p.md) | [Q](./q.md) | [R](./r.md) | [S](./s.md) | [T](./t.md) | [U](./u.md) | [V](./v.md) | [X](./x.md) | [Y](./y.md) | [Z](./z.md)**  
 ## L
 1. 【[……啦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la.md#……啦)】`la` <sup>[东台]</sup> 助词，用在动词或形容词后面，表示动作或变化已经完成：醒吖～｜脸红吖～。  
-1. 【[……里不……](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_beh.md#……里不……)】`li3 beh7` <sup>[东台]</sup> 中缀。表示程度加深：啰～唆/胡～涂/呆～傻/认～真/神～经/绍～绍叨/嫌～嫌相。  
-1. 【[……佬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo.md#……佬)】`lo3` <sup>[东台]</sup> 称成年男子（含轻蔑意）：江北～｜乡巴～｜土～。  
-1. 【[……佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_r.md#……佬<sub>儿</sub>)】`lo3 r` <sup>[东台]</sup> 戏称或昵称成年男子，用在姓或名的最后一字后，相当于“爹”：张～｜贵～｜宝～。  
 1. 【[拉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la.md#拉)】`la1` <sup>[如东]</sup> ① 用力使物体向自己的方向移动。 ② 用刀刃或刀尖由前向后划。  
 1. 【[拉啊直咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_a_cheh_ga.md#拉啊直咖)】`la1 a cheh8 ga` <sup>[东台]</sup> ［喻］彻底揭穿事情真相。  
 1. 【[拉啊胡子过河——牵须过渡（谦虚过度）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_a_hv_zz_gu_hu_qin_xy_gu_tv.md#拉啊胡子过河——牵须过渡（谦虚过度）)】`la1 a hv2 zz gu5 hu2 qin1 xy1 gu5 tv6` <sup>[东台]</sup>   
@@ -283,8 +280,8 @@
 1. 【[瘌骚猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_so_zhv.md#瘌骚猪)】`laeh8 so zhv1` <sup>[兴化]</sup> （喻）形容人极其肮脏：他作咖像个～。  
 1. 【[瘌头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_teu.md#瘌头)】`laeh8 teu2` <sup>[如皋]</sup> 癞痢头。  
 1. 【[瘌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_zz.md#瘌子)】`laeh8 zz` <small>/læʔ8 t͡sɿ/<sup>兴化</sup>, /leʔ8 t͡sɿ/<sup>如皋</sup></small> ① 头发稀疏。<sup>\[如东\]</sup> ② 喻指长籽不匀的玉米棒头儿。<sup>\[如皋\]</sup> ③ 指头上长黄癣的人。<sup>\[东台\]</sup> ④ 长黄癣的人。<sup>\[兴化\]</sup>  
-1. 【[瘌子打伞——无发（法）无天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_zz_da_saen_v_faeh_v_tin.md#瘌子打伞——无发（法）无天)】`laeh8 zz da3 saen3 v2 faeh7 v2 tin1` <sup>[东台]</sup>   
 1. 【[瘌子打伞，无发（法）无天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_zz_da_saen_v_faeh_v_tin.md#瘌子打伞，无发（法）无天)】`laeh8 zz da3 saen3 v2 faeh7 v2 tin1` <sup>[如皋]</sup>   
+1. 【[瘌子打伞——无发（法）无天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_zz_da_saen_v_faeh_v_tin.md#瘌子打伞——无发（法）无天)】`laeh8 zz da3 saen3 v2 faeh7 v2 tin1` <sup>[东台]</sup>   
 1. 【[瘌子披麻——绕账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_zz_pi_ma_ro_zhan.md#瘌子披麻——绕账)】`laeh8 zz pi1 ma2 ro6 zhan5` <sup>[东台]</sup> 敷衍了事  
 1. 【[瘌子头上的虱子——明摆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_zz_teu_shan_dii_sheh_zz_mien_bae.md#瘌子头上的虱子——明摆)】`laeh8 zz teu2 shan dii sheh7 zz mien2 bae3` <sup>[东台]</sup>   
 1. 【[腊八节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_baeh_jih.md#腊八节)】`laeh8 baeh7 jih7` <sup>[如东]</sup> 佛教节日。相传阴历十二月初八日是佛祖释迦牟尼的成道日，佛寺诵经，并供腊八粥。民间有吃“腊八粥”的习俗。  
@@ -909,6 +906,7 @@
 1. 【[礼道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_to.md#礼道)】`li3 to6` <sup>[如皋]</sup> ① 礼貌。 ② 礼貌的规距。  
 1. 【[里八字](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_baeh_cz.md#里八字)】`li3 baeh7 cz6` <small>/lʝ3 peʔ7 t͡sʰɿ1/<sup>如皋</sup></small> ① 双脚并立，双足尖较靠近的畸型。<sup>\[如皋\]</sup> ② 见“八脚儿”。<sup>\[如皋\]</sup>  
 1. 【[里八折外加二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_baeh_zhih_vae_jia_er.md#里八折外加二)】`li3 baeh7 zhih7 vae6 jia1 er6` <sup>[东台]</sup> 形容克扣厉害。除本金打八折，另外还加二分利息。  
+1. 【[……里不……](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_beh.md#……里不……)】`li3 beh7` <sup>[东台]</sup> 中缀。表示程度加深：啰～唆/胡～涂/呆～傻/认～真/神～经/绍～绍叨/嫌～嫌相。  
 1. 【[里边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_bin.md#里边)】`li3 bin1` <sup>[如东]</sup> 内侧。  
 1. 【[里城门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_chen_men.md#里城门)】`li3 chen2 men2` <sup>[如皋]</sup> 有月城的城门分内外两道，此为内门。  
 1. 【[里打外敲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_da_vae_ko.md#里打外敲)】`li3 da3 vae6 ko1` <sup>[兴化]</sup> 多方刁难：他惯会～，弄得儿女无所适从。  
@@ -1276,10 +1274,9 @@
 1. 【[莲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_zz.md#莲子)】`lin2 zz3` <sup>[如东]</sup> 睡莲科植物莲的果实或种子。  
 1. 【[莲子心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_zz_xien.md#莲子心)】`lin2 zz3 xien1` <sup>[如东]</sup> 睡莲科植物莲昀成熟种子中的绿色胚芽。  
 1. 【[连](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin.md#连)】`lin2` <small>/liɪ̃2/<sup>兴化</sup>, /lĩ2/<sup>如皋</sup></small> ① 一种缝纫方法。用针线把两块布料缝合起来，称连。也称缝。<sup>\[如东\]</sup> ② 人民解放军建制单位，约180人。<sup>\[如东\]</sup> ③ 量词<sup>\[如皋\]</sup>：一～糕（年糕，两块相迭）。<sup>\[如皋\]</sup> ④ 缝合针法：淌针子～。<sup>\[如皋\]</sup> ⑤ 泛指缝衣：烧烧煮煮，～～补补。<sup>\[如皋\]</sup> ⑥ 缝补衣服<sup>\[兴化\]</sup>：裤脚撕破啊，妈妈拿针线～起来。<sup>\[兴化\]</sup> ⑦ 将裁剪成片的布料连缀起来。《吴下方言考》“～，合也。吴人以缝衣为～。”<sup>\[兴化\]</sup> ⑧ 连同<sup>\[泰州\]</sup>：～我在内总共来啊10个人。<sup>\[泰州\]</sup> ⑨ 介词，表示强调<sup>\[泰州\]</sup>：他～厂长都不怕，怎吖会买你的账？<sup>\[泰州\]</sup>  
-1. 【[连……带……](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_dae.md#连……带……)】`lin2 dae5` <sup>[东台]</sup> 前后两项或两种动作连在一起：～本～利｜～滚～爬｜～说～唱｜～跑～蹓。  
-1. 【[连……是……的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_shr_dii.md#连……是……的)】`lin2 shr dii` <sup>[东台]</sup> 表示动作连续不断：～跑～跑～｜～划～划～。  
 1. 【[连本掼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_ben_kuaen.md#连本掼)】`lin2 ben3 kuaen6` <sup>[兴化]</sup> 见“连本烂”。  
 1. 【[连本烂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_ben_laen.md#连本烂)】`lin2 ben3 laen6` <sup>[兴化]</sup> 做生意连本钱也折光了：这次贩水产品到广州，路上死啊大半，弄个～。‖也称“连本掼”。  
+1. 【[连……带……](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_dae.md#连……带……)】`lin2 dae5` <sup>[东台]</sup> 前后两项或两种动作连在一起：～本～利｜～滚～爬｜～说～唱｜～跑～蹓。  
 1. 【[连裆码子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_dan_ma_zz.md#连裆码子)】`lin2 dan ma3 zz` <sup>[兴化]</sup> 贬称同伙的人：他俫两个人是～，一个唱红脸，一个唱白脸。  
 1. 【[连裆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_dan.md#连裆)】`lin2 dan1` <sup>[如东]</sup> 互相勾结、包庇，叫做连裆：他俫是～的。  
 1. 【[连裆裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_dan_kv.md#连裆裤)】`lin2 dan1 kv5` <sup>[如东]</sup> 裤裆不开口的裤子。  
@@ -1313,6 +1310,7 @@
 1. 【[连身打连身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_shen_da_lin_shen.md#连身打连身)】`lin2 shen1 da3 lin2 shen` <sup>[兴化]</sup> 见“打连身”。  
 1. 【[连身打连身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_shen_da_lin_shen.md#连身打连身)】`lin2 shen1 da3 lin2 shen1` <sup>[如皋]</sup> 见“连身睏”。  
 1. 【[连身睏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_shen_kuen.md#连身睏)】`lin2 shen1 kuen5` <sup>[如皋]</sup> 和衣而卧。  
+1. 【[连……是……的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_shr_dii.md#连……是……的)】`lin2 shr dii` <sup>[东台]</sup> 表示动作连续不断：～跑～跑～｜～划～划～。  
 1. 【[连汤带水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_tan_dae_shuei.md#连汤带水)】`lin2 tan1 dae5 shuei3` <sup>[如皋]</sup> 见“连汤夹水”。  
 1. 【[连汤夹水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_tan_gaeh_shuei.md#连汤夹水)】`lin2 tan1 gaeh7 shuei3` <sup>[如皋]</sup> 全部汤水食物。  
 1. 【[连汤面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_tan_min.md#连汤面)】`lin2 tan1 min6` <sup>[如东]</sup> 煮面的一种方法。面条煮熟以后，不起锅，即加作料，称连汤面。这种面，汤腻，面软，有一种独特的口味。  
@@ -1386,8 +1384,8 @@
 1. 【[嫽骚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_so.md#嫽骚)】`lio2 so1` <sup>[如皋]</sup> 卖弄风情、挑逗异性。  
 1. 【[撩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio.md#撩)】`lio2` <small>/liɔ2/<sup>兴化</sup>, /niɔ2/<sup>泰县</sup></small> ① 挑逗、戏弄<sup>\[兴化\]</sup>：他容易当真，覅～他。兴化词典作“嫽”，《广韵·萧韵》落萧切“～，相～戏也”。<sup>\[兴化\]</sup> ② 勾引。<sup>\[泰县\]</sup> ③ 通过言行挑逗以引发对方愤怒<sup>\[泰州\]</sup>：他这一刻ㄦ才稍微消啊点气，你不要再去～他发火。<sup>\[泰州\]</sup> ④ 挑逗以引发对方欲望<sup>\[泰州\]</sup>：他说戒烟就戒烟，几个吃烟的人天天～他，他也不睬。<sup>\[泰州\]</sup> ⑤ 通过暧昧言行勾引人<sup>\[泰州\]</sup>：外头谣言讲吖翻掉啊，说这个马马儿不一当，老是～你家先生。<sup>\[泰州\]</sup>  
 1. 【[撩的搏狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_dii_bah_geu.md#撩的搏狗)】`lio2 dii bah7 geu3` <sup>[泰县]</sup> 勾引、引诱：你又～的，把伢儿弄哭起来啊。  
-1. 【[撩金](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_jien.md#撩金)】`lio2 jien1` <small>/liɔ2 t͡ɕin1/<sup>兴化</sup>, /liɔ2 t͡ɕiəŋ1/<sup>如皋</sup></small> ① 猪舌。本作“筋”，改为“金”吉语。<sup>\[如皋\]</sup> ② 猪舌。也称“口条”。<sup>\[兴化\]</sup>  
 1. 【[撩金（筋）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_jien.md#撩金（筋）)】`lio2 jien1` <sup>[如皋]</sup> 猪舌。  
+1. 【[撩金](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_jien.md#撩金)】`lio2 jien1` <small>/liɔ2 t͡ɕin1/<sup>兴化</sup>, /liɔ2 t͡ɕiəŋ1/<sup>如皋</sup></small> ① 猪舌。本作“筋”，改为“金”吉语。<sup>\[如皋\]</sup> ② 猪舌。也称“口条”。<sup>\[兴化\]</sup>  
 1. 【[撩轻摸重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_qien_mah_chon.md#撩轻摸重)】`lio2 qien1 mah8 chon6` <sup>[兴化]</sup> ① 因挑逗而受到还击。 ② 因惹哭了孩子，自觉难堪：你覅～的，把他惹哭咖难为情吖！  
 1. 【[撩浅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_qin.md#撩浅)】`lio2 qin3` <sup>[东台]</sup> 在老河道清除淤泥，使河水由浅变深，流得更畅通：这条河～后，老百姓都说好。  
 1. 【[撩事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_shr.md#撩事)】`lio2 shr6` <sup>[泰县]</sup> 惹事：请你不要到这块来～。  
@@ -1526,6 +1524,8 @@
 1. 【[痨生子<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_shen_zz_r.md#痨生子<sub>儿</sub>)】`lo2 shen1 zz3 r` <sup>[如东]</sup> ① 身体瘦弱的人。 ② 比喻不好的东西：这个是甚的～？  
 1. 【[痨蛋子<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_taen_zz_r.md#痨蛋子<sub>儿</sub>)】`lo2 taen6 zz3 r` <sup>[如东]</sup> 身体瘦弱的人。  
 1. 【[痨豆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_teu_r.md#痨豆<sub>儿</sub>)】`lo2 teu6 r` <small>/lɔ2 tʰɤ6 ɚ/<sup>兴化</sup></small> ① 对小孩的戏称。 ② 形容发育不良，又瘦又小的人。见“痨礓子”。<sup>\[兴化\]</sup>  
+1. 【[……佬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo.md#……佬)】`lo3` <sup>[东台]</sup> 称成年男子（含轻蔑意）：江北～｜乡巴～｜土～。  
+1. 【[……佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_r.md#……佬<sub>儿</sub>)】`lo3 r` <sup>[东台]</sup> 戏称或昵称成年男子，用在姓或名的最后一字后，相当于“爹”：张～｜贵～｜宝～。  
 1. 【[老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo.md#老)】`lo3` <small>/lɔ3/<sup>兴化</sup></small> ① 对长辈的称呼。<sup>\[如东\]</sup>：老岳父，老公公。<sup>\[如东\]</sup> ② 对年长人的称呼。<sup>\[如东\]</sup>：老高、老李。<sup>\[如东\]</sup> ③ 脸皮厚<sup>\[兴化\]</sup>：王二～得很哩，也不用人请，坐下就大啖起来。<sup>\[兴化\]</sup> ④ 很，极其<sup>\[泰州\]</sup>：牌子举啊～高。<sup>\[泰州\]</sup> ⑤ 经常<sup>\[泰州\]</sup>：上班～迟到。<sup>\[泰州\]</sup>  
 1. 【[老啊勼起来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_a_jieu_qi_lae_a.md#老啊勼起来啊)】`lo3 a jieu1 qi3 lae a` <sup>[东台]</sup> 形容人老了，皮肤皱纹多。  
 1. 【[老啊起啊渠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_a_qi_a_qy.md#老啊起啊渠)】`lo3 a qi3 a qy2` <sup>[东台]</sup> 形容人非常衰老，面部皱纹很深，像开凿了一条条沟渠。也引申为过分拿老的人。  
@@ -1876,8 +1876,8 @@
 1. 【[六月六](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_iuh_loh.md#六月六)】`loh8 iuh8 loh8` ① 黄瓜节。阴历六月初六日，进入小署，天气逐渐炎热，各种瓜果上市。这一天，百姓有吃黄瓜的习俗。民谣：“六月六，黄瓜打菜水绿绿。”<sup>\[如东\]</sup> ② 农历六月六，这一天有包饺子和暴晒寒衣的习俗。口语<sup>\[东台\]</sup>：“～，吃块焦糏长块肉。”<sup>\[东台\]</sup>  
 1. 【[六月心里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_iuh_xien_lii.md#六月心里)】`loh8 iuh8 xien1 lii` <sup>[东台]</sup> 农历六月里天气热的季节。  
 1. 【[六月雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_iuh_xiuh.md#六月雪)】`loh8 iuh8 xiuh7` <small>/lɔʔ8 yʊʔ8 ɕyʊʔ7/<sup>如皋</sup></small> ① 茜草科植物六月雪，落叶小灌木，高约45厘米。<sup>\[如东\]</sup> ② 天星木。茜草科。盆景树。<sup>\[如皋\]</sup>  
-1. 【[六月债——还得快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_iuh_zhae_huaen_deh_kuae.md#六月债——还得快)】`loh8 iuh8 zhae5 huaen2 deh7 kuae5` <sup>[东台]</sup>   
 1. 【[六月债，还得快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_iuh_zhae_huaen_deh_kuae.md#六月债，还得快)】`loh8 iuh8 zhae5 huaen2 deh kuae5` <sup>[兴化]</sup> 俗语。六月接近秋收及中秋节前还账的日子。借指报复之速：“……～，他便借着弓鞋把你取笑一回……”（《四杰传》九六）  
+1. 【[六月债——还得快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_iuh_zhae_huaen_deh_kuae.md#六月债——还得快)】`loh8 iuh8 zhae5 huaen2 deh7 kuae5` <sup>[东台]</sup>   
 1. 【[六块板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_kuae_baen.md#六块板)】`loh8 kuae5 baen3` <small>/lɔʔ8 kʰuɛ5 pẽ3/<sup>如皋</sup></small> ① 见“槥”。<sup>\[如皋\]</sup> ② 棺材。<sup>\[如皋\]</sup>  
 1. 【[六腊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_laeh.md#六腊)】`loh8 laeh8` <sup>[兴化]</sup> ① 六月和腊月。 ② （借）一年中酷热和严寒的日子。古有“～不登舟”“～不交兵”之说：谚曰：～不出门，是个大福人。  
 1. 【[六腊不登楼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_laeh_beh_den_leu.md#六腊不登楼)】`loh8 laeh8 beh7 den1 leu2` <sup>[东台]</sup> 指楼上夏天热，冬天冷，不像平房冬暖夏凉。  

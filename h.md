@@ -1,7 +1,6 @@
 # 音序检索
 **[A](./a.md) | [B](./b.md) | [C](./c.md) | [D](./d.md) | [E](./e.md) | [F](./f.md) | [G](./g.md) | [H](./h.md) | [I](./i.md) | [J](./j.md) | [K](./k.md) | [L](./l.md) | [M](./m.md) | [N](./n.md) | [O](./o.md) | [P](./p.md) | [Q](./q.md) | [R](./r.md) | [S](./s.md) | [T](./t.md) | [U](./u.md) | [V](./v.md) | [X](./x.md) | [Y](./y.md) | [Z](./z.md)**  
 ## H
-1. 【[……呼啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_a.md#……呼啊)】`hv1 a` <sup>[东台]</sup> （作补语）指到了极点：这莱难吃咖～｜这段路难跑啊～｜他的歌儿好听吖～  
 1. 【[哈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha.md#哈)】`ha1` <sup>[兴化]</sup> 油脂或含油过多的食品如猪油、咸肉等因日久变质，产生臭、辣味。  
 1. 【[哈巴郎当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ba_lan_dan.md#哈巴郎当)】`ha1 ba lan2 dan1` <sup>[兴化]</sup> 通通、全部：到超市一转，买啊几样东西，身上的钱～全用光吖。  
 1. 【[哈巴狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ba_geu.md#哈巴狗)】`ha1 ba1 geu3` <sup>[如东]</sup> ① 一种体型较小的家犬，经常跟随主人一起活动。 ② 比喻善于吹捧主人的人。  
@@ -265,7 +264,6 @@
 1. 【[下的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haeh_dii.md#下的)】`haeh7 dii, haeh8 dii` <sup>[东台]</sup> “一下子”的音变，感到时间很长的口气：新房子～不得上圆｜这许班车少，～等不到下一班。  
 1. 【[下子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haeh_zz.md#下子)】`haeh7 zz` ① 用于动作或容器量东西的次数<sup>\[东台\]</sup>：钟敲啊五～<sup>\[东台\]</sup>｜装吖两～酒。<sup>\[东台\]</sup> ② “一下子”的省称，表示很短的时间<sup>\[泰州\]</sup>：你有事就先忙去，这个车子～弄不好。<sup>\[泰州\]</sup>｜他打电话过来，说的局里有事，～不得来。<sup>\[泰州\]</sup>  
 1. 【[瞎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haeh.md#瞎)】`haeh7` <small>/xæʔ7/<sup>兴化</sup></small> ① 眼睛失明。<sup>\[如东\]</sup> ② 胡乱<sup>\[兴化\]</sup>：～搝；～吃。<sup>\[兴化\]</sup> ③ 新出现副词，相当很、极<sup>\[兴化\]</sup>：～好；～多。<sup>\[兴化\]</sup> ④ 随嘴乱说，胡编乱造<sup>\[兴化\]</sup>：～诌。<sup>\[兴化\]</sup>  
-1. 【[瞎（心）钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haeh_qin.md#瞎（心）钱)】`haeh7 qin2` <sup>[如皋]</sup> 见“黑（心）钱”。  
 1. 【[瞎巴啰唆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haeh_ba_lu_su.md#瞎巴啰唆)】`haeh7 ba1 lu1 su1` <sup>[东台]</sup> 与“瞎头闭眼”近义。  
 1. 【[瞎屄啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haeh_bi_a.md#瞎屄啊)】`haeh7 bi1 a` <sup>[如东]</sup> 比喻视力很差：～，眼前的东西都看不清楚。  
 1. 【[瞎菜汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haeh_cae_tan.md#瞎菜汤)】`haeh7 cae5 tan1` <sup>[兴化]</sup> 没有其他配料的光青菜汤：工地上生活苦，中饭菜就是萝卜干子跟～。  
@@ -298,6 +296,7 @@
 1. 【[瞎吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haeh_qieh.md#瞎吃)】`haeh7 qieh7` <sup>[泰州]</sup> ① 没有意义地吃，带有浪费意味：这个风鸡家里人吃它也就～掉唻，留啊后朝请客用，还好算个菜。 ② 没有节制地吃：这小两口儿有两天不下馆子就难过，就拿啊这两个工资，跑哪块掌得住他俫这格局～。 ③ 乱吃不能吃的东西：药不能～。  
 1. 【[瞎搝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haeh_qieu.md#瞎搝)】`haeh7 qieu3` <small>/xeʔ7 t͡ɕʰyʊ3/<sup>如皋</sup></small> ① 胡乱干。蛮幹、胡乱盘弄，以至弄坏东西。<sup>\[如皋\]</sup> ② 盲目蛮干。（见“搝”）<sup>\[东台\]</sup>  
 1. 【[瞎搝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haeh_qieu.md#瞎搝)】`haeh7 qieu3` <sup>[泰州]</sup> 乱搞，胡搞：好好的车子，就捱他～，搝啊坏啊。  
+1. 【[瞎（心）钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haeh_qin.md#瞎（心）钱)】`haeh7 qin2` <sup>[如皋]</sup> 见“黑（心）钱”。  
 1. 【[瞎钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haeh_qin.md#瞎钱)】`haeh7 qin2` <small>/xæʔ7 t͡ɕʰiɪ̃2/<sup>兴化</sup>, /xeʔ7 t͡ɕʰĩ2/<sup>如皋</sup></small> ① 来路不正的钱。<sup>\[如皋\]</sup> ② 无谓地花费的钱。<sup>\[如皋\]</sup> ③ 花得不明不白的钱钞<sup>\[兴化\]</sup>：“事甚紧急，须早作法，不要空使了～到没用哩！”（《梼杌闲评》十）<sup>\[兴化\]</sup>｜谚曰：～用去千千万，不如热豆腐烫烫心。<sup>\[兴化\]</sup>  
 1. 【[瞎钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haeh_qin.md#瞎钱)】`haeh7 qin2` <sup>[泰州]</sup> 盲目用掉的钱，请人办事花了钱却没有达到效果：他为小伙上学的事用掉不少～，最后也不曾办得成。｜你请人也没得用，就不要花这些～唻。  
 1. 【[瞎三话四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haeh_saen_hua_sz.md#瞎三话四)】`haeh7 saen1 hua6 sz5` <sup>[兴化]</sup> 胡说八道：“……我且没有功夫同你～……我也犯不着管你！”（《广陵潮》六八）  
@@ -586,9 +585,9 @@
 1. 【[脝里不敦的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_lii_beh_den_dii.md#脝里不敦的)】`hen5 lii beh7 den1 dii` <sup>[东台]</sup> ［引］形容人性子慢，动作迟缓的样子。  
 1. 【[脝<sub>儿</sub>耷痴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_r_dah_chr.md#脝<sub>儿</sub>耷痴)】`hen5 r dah7 chr1` <sup>[东台]</sup> ［引］动作迟缓，好像因痴呆或痴迷于某物而行动很慢。  
 1. 【[恨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen.md#恨)】`hen6` <sup>[如东]</sup> ① 仇恨。 ② 悔恨：我不答应就好啊，现在我心里～哎。  
-1. 【[恨……个洞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_gu_ton.md#恨……个洞)】`hen6 gu5 ton6` <sup>[东台]</sup> 形容对某人恨之入骨。  
 1. 【[恨不得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_beh_deh.md#恨不得)】`hen6 beh deh7` <sup>[如皋]</sup> 简直要：他病吖～要死。  
 1. 【[恨不洎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_beh_qi.md#恨不洎)】`hen6 beh qi6` <sup>[泰县]</sup> 来不及：我～现在就走。  
+1. 【[恨……个洞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_gu_ton.md#恨……个洞)】`hen6 gu5 ton6` <sup>[东台]</sup> 形容对某人恨之入骨。  
 1. 【[恨苦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_kv.md#恨苦)】`hen6 kv3` <small>/xən6 kʰu3/<sup>兴化</sup></small> ① 虔心向佛，恪守教规<sup>\[兴化\]</sup>：～修行<sup>\[兴化\]</sup>｜“你果然一心向佛，也不难……大约不过一年的～，以后就全是乐境了……”（《老残游记》二·六）<sup>\[兴化\]</sup> ② （借）收起浪荡心神，刻苦向上<sup>\[兴化\]</sup>：他如今～，原来的酒肉朋友一个不惹。<sup>\[兴化\]</sup> ③ 为自己过去所为不妥而深深后悔，定下心来努力做好某事以赎前愆<sup>\[泰州\]</sup>：过去的话不说吤，从现在起你要～读书。<sup>\[泰州\]</sup>  
 1. 【[恨命穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_mien_qion.md#恨命穷)】`hen6 mien6 qion2` <small>/xən6 miɪ̃6 t͡ɕʰioŋ2/<sup>兴化</sup></small> ① 贪食的代名词。引申为贪心太大。<sup>\[东台\]</sup> ② 贪大、贪多<sup>\[兴化\]</sup>：他一个人买上两笼包子当早饭，真是～。<sup>\[兴化\]</sup>  
 1. 【[恨虱子烧棉袄——不值得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_sheh_zz_sho.md#恨虱子烧棉袄——不值得)】`hen6 sheh7 zz sho1 min2 ngo3 beh7 cheh8 deh7` <sup>[东台]</sup>   
@@ -698,7 +697,6 @@
 1. 【[厚实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_sheh.md#厚实)】`heu6 sheh8` <small>/xɤ6 səʔ8/<sup>兴化</sup></small> ① 板材厚而结实。<sup>\[如东\]</sup>：这块木板～。<sup>\[如东\]</sup> ② 比喻东西多。<sup>\[如东\]</sup>：池塘里的鱼～。<sup>\[如东\]</sup> ③ 厚，与薄相对。<sup>\[兴化\]</sup> ④ （借）富有<sup>\[兴化\]</sup>：覅看他穿得土气，骨里～唃！<sup>\[兴化\]</sup>  
 1. 【[厚毒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_toh.md#厚毒)】`heu6 toh8` <sup>[如东]</sup> 非常狠毒。  
 1. 【[厚粥烂饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_zhoh_laen_faen.md#厚粥烂饭)】`heu6 zhoh7 laen6 faen6` <sup>[如皋]</sup> 含水量过多的饭或含水量偏少的粥。  
-1. 【[后×月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_iuh.md#后×月)】`heu6 iuh8` <sup>[如皋]</sup> 阴历闰×月，就有后×月之说。  
 1. 【[后啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_a.md#后啊)】`heu6 a` 后天。  
 1. 【[后啊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_a_zz.md#后啊子)】`heu6 a zz` <small>/xɤ6 əʔ t͡sɿ/<sup>兴化</sup>, /xɤɯ1 əʔ t͡se/<sup>泰县</sup></small> ① 后天，明天的明天。<sup>\[东台\]</sup> ② 后天。<sup>\[兴化\]</sup> ③ 后天<sup>\[泰县\]</sup>：你～走。<sup>\[泰县\]</sup>  
 1. 【[后背](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_bei.md#后背)】`heu6 bei5` <sup>[如皋]</sup> 背部。  
@@ -715,6 +713,7 @@
 1. 【[后耳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_er.md#后耳)】`heu6 er3` <sup>[如东]</sup> 牛车部件。装在车脊后下方，长方形，起固定后轮轴承的作用。  
 1. 【[后福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_foh.md#后福)】`heu6 foh7` <sup>[东台]</sup> 未来的幸福：大难不死，必有～。  
 1. 【[后街](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_gae.md#后街)】`heu6 gae1` <small>/xɤ6 kɛ1/<sup>兴化</sup>, /xei1 kɛ1/<sup>如皋</sup></small> ① 相对次要的、不繁荣的街道。<sup>\[如皋\]</sup> ② 与大街平行而比较偏僻、狭窄的街道<sup>\[兴化\]</sup>：他家住啊东门～上。<sup>\[兴化\]</sup>  
+1. 【[后×月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_iuh.md#后×月)】`heu6 iuh8` <sup>[如皋]</sup> 阴历闰×月，就有后×月之说。  
 1. 【[后园](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_iun.md#后园)】`heu6 iun2` <small>/xei1 yʊ̃2/<sup>如皋</sup></small> ① 房后的园地。<sup>\[如东\]</sup> ② 屋后的园地。同“园后”。<sup>\[如皋\]</sup>  
 1. 【[后具脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_jy_jiah.md#后具脚)】`heu6 jy5 jiah7` <sup>[如东]</sup> 棺材的后脚。  
 1. 【[后力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_lieh.md#后力)】`heu6 lieh` <sup>[如皋]</sup> 耐久力、持久力。  
@@ -1104,8 +1103,8 @@
 1. 【[河虾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xia.md#河虾)】`hu2 xia1` <sup>[如东]</sup> 淡水虾的总称。  
 1. 【[河心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xien.md#河心)】`hu2 xien1` <small>/xo2 ɕin1/<sup>兴化</sup>, /xʊ2 ɕiəŋ1/<sup>如皋</sup></small> ① 河的中央，中流。<sup>\[如皋\]</sup> ② 河的中心<sup>\[兴化\]</sup>：金兵被这上万的青年民众杀得纷纷倒下～。（兴文《清明节撑会船》）<sup>\[兴化\]</sup>  
 1. 【[河心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xien.md#河心)】`hu2 xien1` <sup>[泰州]</sup> 河的中间：你俫的水泥船沗（pan5）吖～唻。  
-1. 【[河仙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xin.md#河仙)】`hu2 xin1` <sup>[泰县]</sup> 蚯蚓。  
 1. 【[河仙/䗙䘆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xin.md#河仙/䗙䘆)】`hu2 xin1` <sup>[如东]</sup> 巨蚓科动物参环毛蚓或正蚓科动物背暗异唇蚓，又名蚯蚓。  
+1. 【[河仙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xin.md#河仙)】`hu2 xin1` <sup>[泰县]</sup> 蚯蚓。  
 1. 【[河鲜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xin.md#河鲜)】`hu2 xin1` <sup>[东台]</sup> 指新鲜的莲藕、莲蓬、荸荠、菱角、鸡头米（芡实）等。  
 1. 【[河蚬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xin.md#河蚬)】`hu2 xin3` <sup>[如东]</sup> 蚬科动物河蚬，贝壳2片，略呈三角形，大小不一，大者约6厘米。  
 1. 【[河䘆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xin.md#河䘆)】`hu2 xin5` <sup>[兴化]</sup> 蚯蚓。  
@@ -1128,9 +1127,9 @@
 1. 【[𤖱头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_teu.md#𤖱头)】`hu2 teu2` <sup>[如皋]</sup> 棺材头。  
 1. 【[𧑚䘆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xin.md#𧑚䘆)】`hu2 xin1` <sup>[泰州]</sup> 蚯蚓。  
 1. 【[伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu.md#伙)】`hu3` <sup>[如皋]</sup> 鼓动、怂惠：他～住咖别人做，自家不做。  
-1. 【[伙（夥）家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_jia.md#伙（夥）家)】`hu3 jia1` <sup>[如皋]</sup> 指在一起的人。昵称。詈指。  
 1. 【[伙仓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_can.md#伙仓)】`hu3 can1` <sup>[如皋]</sup> 炊事：开～（煮饭菜）。  
 1. 【[伙家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_jia.md#伙家)】`hu3 jia` <sup>[兴化]</sup> ① 伙计、佣人。 ② 对朋友，熟人等比较随意的面称：“～，好力气，好膀条子！”（《武松》五）｜“～，今天夜里要防备大风大雨哩！”（马春阳《双灯照》）  
+1. 【[伙（夥）家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_jia.md#伙（夥）家)】`hu3 jia1` <sup>[如皋]</sup> 指在一起的人。昵称。詈指。  
 1. 【[伙家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_jia.md#伙家)】`hu3 jia1, hu1 jia1` <sup>[东台]</sup> 伙伴之间最常用的昵称，一般用于对同辈、晚辈或下级，而不是相反。在这里，“家”为“计啊”合音，“伙”习惯也读阴平。  
 1. 【[伙家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_jia.md#伙家)】`hu3 jia1` <small>/xo3 t͡ɕia1/<sup>泰县</sup></small> ① 同辈或长辈对下辈亲呢称呼：～，等我下子。<sup>\[泰县\]</sup> ② 共事的人，特指店主雇用的工人。<sup>\[泰州\]</sup> ③ 同龄、同事或同伴<sup>\[泰州\]</sup>：～，这件事就全看你的唻。<sup>\[泰州\]</sup>  
 1. 【[伙头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_teu.md#伙头)】`hu3 teu` <sup>[如东]</sup> 做饭的船工。  
@@ -2233,6 +2232,7 @@
 1. 【[𤽂吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_nga.md#𤽂吖)】`hun6 nga` <sup>[如皋]</sup> 酱、腌、卤制的蔬菜表面轻度变质，但未上毛霉烂。  
 1. 【[𤽂头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_teu.md#𤽂头)】`hun6 teu2` <sup>[泰县]</sup> 酱油发了霉。  
 1. 【[呼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv.md#呼)】`hv1` <sup>[如东]</sup> 小睡：我在椅子上～刻儿。  
+1. 【[……呼啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_a.md#……呼啊)】`hv1 a` <sup>[东台]</sup> （作补语）指到了极点：这莱难吃咖～｜这段路难跑啊～｜他的歌儿好听吖～  
 1. 【[呼剥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_bah.md#呼剥)】`hv1 bah7` <sup>[泰县]</sup> 急忽忽：你倒～。  
 1. 【[呼嗤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_chi.md#呼嗤)】`hv1 chi1` <sup>[兴化]</sup> 象声词，喘气的声音：新女婿上门，把老两口忙得～的。  
 1. 【[呼打流星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_da_lieu_xien.md#呼打流星)】`hv1 da3 lieu2 xien1` <sup>[如皋]</sup> 形容熟睡打呼噜。常作补语：他睡得～的。  

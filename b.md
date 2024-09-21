@@ -3,10 +3,6 @@
 ## B
 1. 【[……巴拉哈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_la_ha.md#……巴拉哈)】`ba la1 ha1` 跟在单字形容词之后，用作生动形式：黄～；黑～；酸～。  
 1. 【[……巴剌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_laeh.md#……巴剌)】`ba laeh` 跟在双字形容词之后，用作生动形式：小气～；钝事～。  
-1. 【[……不拉哈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_la_ha.md#……不拉哈)】`beh la1 ha1` 跟在单字形容词之后，用作生动形式：黄～；黑～；酸～。  
-1. 【[……不剌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_laeh.md#……不剌)】`beh laeh` 跟在双字形容词之后，用作生动形式：小气～；钝事～。  
-1. 【[……不齐清](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_qi_qien.md#……不齐清)】`beh7 qi2 qien1` <sup>[东台]</sup> 接在动词后，表示无法做得周全：有病的人太多，帮～。  
-1. 【[……不知斯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_zhr_sz.md#……不知斯)】`beh7 zhr1 sz1` <sup>[东台]</sup> 接在形容词后面作补语，意思是不知道相差多少呢：企业的效益比过去好得～。  
 1. 【[吧嗒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_daeh.md#吧嗒)】`ba1 daeh7` <sup>[如皋]</sup> 象声词。常形容吸烟的唇边音。  
 1. 【[吧啦吧啦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_la_ba_la.md#吧啦吧啦)】`ba1 la1 ba1 la1` <sup>[如皋]</sup> 象声词。常贬指抢着说或无主题说话。  
 1. 【[妑妑<sub>儿</sub>头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ba_r_teu.md#妑妑<sub>儿</sub>头)】`ba1 ba1 r teu2` <sup>[如皋]</sup> 女伢儿梳的～。  
@@ -38,9 +34,8 @@
 1. 【[巴掌心，看不透](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_zhan_xien_kun_beh_teu.md#巴掌心，看不透)】`ba1 zhan3 xien1 kun5 beh7 teu5` <sup>[东台]</sup> 未来前程复杂多变，须再实践再认识。  
 1. 【[巴掌心长毛——老手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_zhan_xien_zhan_mo_lo_sheu.md#巴掌心长毛——老手)】`ba1 zhan3 xien1 zhan3 mo2 lo3 sheu3` <sup>[东台]</sup>   
 1. 【[巴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_zz.md#巴子)】`ba1 zz` <small>/pa1 t͡sɿ/<sup>兴化</sup>, /pa1 t͡sɿ/<sup>如皋</sup></small> ① 粘结在物体上的东西。<sup>\[如东\]</sup>：粥～。<sup>\[如东\]</sup> ② 贬指生理或心理、行为有缺失的人<sup>\[如皋\]</sup>：利～、宋二～。<sup>\[如皋\]</sup> ③ 物体凝结后水分减少形态变硬的板块<sup>\[东台\]</sup>：泥～；饼～香。<sup>\[东台\]</sup> ④ 面饼、米饼在炉壁、锅底烤焦、烤硬的部分。<sup>\[兴化\]</sup> ⑤ 粥、樱糊等冷却后表面凝成的薄膜<sup>\[兴化\]</sup>：粥～；面糊～。<sup>\[兴化\]</sup> ⑥ 修补瓷、陶、木器或金属器皿破损处使用的带钩小铁片及小木片等<sup>\[兴化\]</sup>：打～；钉～。<sup>\[兴化\]</sup>  
-1. 【[扒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba.md#扒)】`ba1` <small>/pa1/<sup>如皋</sup></small> ① 扒开来 ② 分享、分摊<sup>\[如皋\]</sup>：对～。<sup>\[如皋\]</sup>  
-1. 【[扒（巴）山虎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_shaen_hv.md#扒（巴）山虎)】`ba1 shaen1 hv3` <sup>[如皋]</sup> 爬山虎。  
 1. 【[扒（𢻷）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba.md#扒（𢻷）)】`ba1` <sup>[泰州]</sup> ① 挖洞动作，用手或以手持耙、锄之类㔉进并且勾住物体拉出：贼子是夜里～墙进来的。 ② 装物动作，用手将粒状物划进容器：你把笆斗里～啊满吖也没得120斤。 ③ 吃饭动作，用筷子将食物拨进嘴里：姐夫，去请你爹进来～口子饭。（《金瓶梅》） ④ 脱衣动作，拉去或者拉开衣服：把他衣裳～开望望，身上哿有伤。 ⑤ 用手或者手指分开物体，抓住或按住里面东西向外拉出：他把烧饼里头的瓤子都～啊吃掉唻。 ⑥ 计算动作，用一只手的手指逐个拉下另一只手的手指进行计算：你～指头算算，还有几天就高考，你还有心思玩吖。  
+1. 【[扒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba.md#扒)】`ba1` <small>/pa1/<sup>如皋</sup></small> ① 扒开来 ② 分享、分摊<sup>\[如皋\]</sup>：对～。<sup>\[如皋\]</sup>  
 1. 【[扒住人家屁眼当门窝子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_chv_ren_ga_pi_ngaen_dan_men_u_zz.md#扒住人家屁眼当门窝子)】`ba1 chv6 ren2 ga pi5 ngaen3 dan1 men2 u1 zz` <sup>[东台]</sup> 喻指低三下四地讨好别人、依赖别人。  
 1. 【[扒字眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_cz_ngaen_r.md#扒字眼<sub>儿</sub>)】`ba1 cz6 ngaen3 r` <sup>[如东]</sup> 过分仔细地盘查：他就喜欢～。  
 1. 【[扒耳头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_er_teu.md#扒耳头)】`ba1 er3 teu` <sup>[如皋]</sup> 掏耳朵。  
@@ -53,6 +48,7 @@
 1. 【[扒牙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_nga_zz.md#扒牙子)】`ba1 nga2 zz` <sup>[如皋]</sup> 剔牙。  
 1. 【[扒眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ngaen_r.md#扒眼<sub>儿</sub>)】`ba1 ngaen3 r` <sup>[如东]</sup> 追根究底：这个人就喜欢～。  
 1. 【[扒墙上壁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_qian_shan_bieh.md#扒墙上壁)】`ba1 qian2 shan6 bieh7` <sup>[如皋]</sup> 形容贪玩、调皮。  
+1. 【[扒（巴）山虎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_shaen_hv.md#扒（巴）山虎)】`ba1 shaen1 hv3` <sup>[如皋]</sup> 爬山虎。  
 1. 【[扒上落下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_shan_lah_ha.md#扒上落下)】`ba1 shan6 lah8 ha6` <sup>[东台]</sup> 指上上下下地忙个不停或者闹着不歇：这个伢儿～的，烦人！  
 1. 【[扒上搂下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_shan_leu_ha.md#扒上搂下)】`ba1 shan6 leu3 ha6` <sup>[如皋]</sup> 上上下下地活动不停，形容忙碌辛苦或贪玩不已。  
 1. 【[扒手爪<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_sheu_zho_r.md#扒手爪<sub>儿</sub>)】`ba1 sheu3 zho3 r` <small>/pa1 sei3 t͡sɔ˞3/<sup>如皋</sup></small> ① 扳着手指计数。<sup>\[如东\]</sup>：我是～数的，不会错。<sup>\[如东\]</sup> ② 掐指计算。<sup>\[如皋\]</sup>  
@@ -492,6 +488,8 @@
 1. 【[膀子望外弯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ban_zz_van_vae_vaen.md#膀子望外弯)】`ban3 zz van6 vae6 vaen1` <sup>[东台]</sup> 与“膀子望里弯”反义，喻指帮助外人，不关心家里人本地人。  
 1. 【[傍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ban.md#傍)】`ban5` <sup>[兴化]</sup> ① 比较：两个人～下子，看哪个的头绪大。 ② 依附（有钱有势的人）：这个人以前～领导，而今又～大款。  
 1. 【[磅秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ban_chen.md#磅秤)】`ban5 chen5` <sup>[如东]</sup> 秤的一种。金属制成，底座上有承受重量的金属板。也称地秤。  
+1. 【[……不拉哈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_la_ha.md#……不拉哈)】`beh la1 ha1` 跟在单字形容词之后，用作生动形式：黄～；黑～；酸～。  
+1. 【[……不剌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_laeh.md#……不剌)】`beh laeh` 跟在双字形容词之后，用作生动形式：小气～；钝事～。  
 1. 【[不罢妥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_ba_tu.md#不罢妥)】`beh7 ba5 tu3` <sup>[如皋]</sup> 不肯原谅而休止罢消。  
 1. 【[不拨不动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_buh_beh_ton.md#不拨不动)】`beh7 buh7 beh7 ton6` <sup>[兴化]</sup> 形容人缺乏灵性或主动精神：他是属算盘珠的一一～。｜“此话也是，须内里有个人提拨他才好，老头儿有些～哩！”（《梼杌闲评》十）  
 1. 【[不睬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_cae.md#不睬)】`beh7 cae3` <small>/pəʔ7 t͡sʰɛ3/<sup>兴化</sup></small> ① 不答理。<sup>\[如东\]</sup> ② 不理睬，不答应，拒绝。<sup>\[东台\]</sup> ③ 不理会<sup>\[兴化\]</sup>：我俫跟他说，他根本就～。<sup>\[兴化\]</sup>  
@@ -709,6 +707,7 @@
 1. 【[不派](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_pae.md#不派)】`beh7 pae5` <sup>[泰州]</sup> 按理不该：这件事～你俫管。  
 1. 【[不便](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_pin.md#不便)】`beh7 pin6` <small>/pəʔ7 pʰĩ1/<sup>泰兴</sup></small> 不方便，不适宜<sup>\[泰兴\]</sup>：手头～/缺钱用<sup>\[泰兴\]</sup>  
 1. 【[不碰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_pon.md#不碰)】`beh7 pon5` <small>/pəʔ7 pʰoŋ5/<sup>兴化</sup>, /pəʔ7 pʰoŋ5/<sup>泰县</sup></small> ① 不沾边<sup>\[兴化\]</sup>：他烟、酒、麻将全～。<sup>\[兴化\]</sup> ② 互不交往。也作“不遇”。<sup>\[兴化\]</sup>：他俫性情不投，两个人～。<sup>\[兴化\]</sup> ③ 不团结。<sup>\[泰县\]</sup>  
+1. 【[……不齐清](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_qi_qien.md#……不齐清)】`beh7 qi2 qien1` <sup>[东台]</sup> 接在动词后，表示无法做得周全：有病的人太多，帮～。  
 1. 【[不起眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_qi_ngaen.md#不起眼)】`beh7 qi3 ngaen3` <small>/pəʔ7 t͡ɕʰʝ3 ŋɛ̃3/<sup>泰兴</sup></small> ① 不引人关注。<sup>\[如东\]</sup>：这点儿货～。<sup>\[如东\]</sup> ② 微不足道，很不醒目。<sup>\[东台\]</sup> ③ 不引人注目；不值得重视；未进入视野。<sup>\[泰兴\]</sup>  
 1. 【[不忌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_qi.md#不忌)】`beh7 qi6` <sup>[泰兴]</sup> 不忌讳。见“无忌”。  
 1. 【[不忌偏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_qi_pin.md#不忌偏)】`beh7 qi6 pin1` <sup>[东台]</sup> 不忌讳某些风俗。  
@@ -868,6 +867,7 @@
 1. 【[不知趣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_zhr_qy.md#不知趣)】`beh7 zhr1 qy5` <sup>[如东]</sup> 不明白周围人的情绪。  
 1. 【[不知趣的麻苍蝇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_zhr_qy_dii_ma_can_ien.md#不知趣的麻苍蝇)】`beh7 zhr1 qy5 dii ma2 can1 ien` <sup>[东台]</sup> 喻指不自觉、不识相的言行引起别人讨厌。  
 1. 【[不知事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_zhr_shr.md#不知事)】`beh7 zhr1 shr6` <sup>[兴化]</sup> 不懂事：他年青～，你覅计较。  
+1. 【[……不知斯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_zhr_sz.md#……不知斯)】`beh7 zhr1 sz1` <sup>[东台]</sup> 接在形容词后面作补语，意思是不知道相差多少呢：企业的效益比过去好得～。  
 1. 【[不知文脉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_zhr_ven_moh.md#不知文脉)】`beh7 zhr1 ven2 moh8` <sup>[东台]</sup> 头脑糊涂，不知轻重好坏。  
 1. 【[不止](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_zhr.md#不止)】`beh7 zhr3` <sup>[泰州]</sup> 不局限于，实际已经超出某个数目或范围：他俫来啊～5个人，还要再订一个房间。  
 1. 【[不啄谷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_zhuah_goh.md#不啄谷)】`beh7 zhuah7 goh7` <sup>[如皋]</sup> 见“浪流浪”。  
@@ -920,8 +920,7 @@
 1. 【[背气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_qi.md#背气)】`bei5 qi5` <sup>[泰州]</sup> 呼吸因受到刺激而暂时停止：他是背气，同他拍两下子就没事唻。  
 1. 【[背手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_sheu.md#背手)】`bei5 sheu3` <sup>[如东]</sup> 两手放在背后。  
 1. 【[背手亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_sheu_lian.md#背手亮)】`bei5 sheu3 lian6` <sup>[兴化]</sup> 光线从右侧射来，被手的影子遮着：把身子转过来，这吖写字～。  
-1. 【[背时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_shr.md#背时)】`bei5 shr2` <sup>[泰州]</sup> ① 倒霉，运气不好：他现在是个～的人，哪块还有人睬他。 ② 过时，不合时尚：这件衣裳的式样早就～唻，他俫少年人没得眼睛相。  
-1. 【[背时/悖时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_shr.md#背时/悖时)】`bei5 shr2` <small>/pəi5 sɿ2/<sup>兴化</sup>, /pei5 sɿ2/<sup>如皋</sup></small> ① 时运不好，诸事不顺。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup>：王二一生～。<sup>\[如东\]</sup> ② 不合时宜<sup>\[兴化\]</sup>：他上吖年纪，有些～啊，遇事总喜欢唠叨几句。<sup>\[兴化\]</sup>  
+1. 【[背时/悖时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_shr.md#背时/悖时)】`bei5 shr2` <small>/pəi5 sɿ2/<sup>兴化</sup>, /pei5 sɿ2/<sup>如皋</sup></small> ① 时运不好，诸事不顺。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰州\]</sup>：王二一生～。<sup>\[如东\]</sup> ② 不合时宜<sup>\[兴化\]</sup>：他上吖年纪，有些～啊，遇事总喜欢唠叨几句。<sup>\[兴化\]</sup> ③ 过时，不合时尚<sup>\[泰州\]</sup>：这件衣裳的式样早就～唻，他俫少年人没得眼睛相。<sup>\[泰州\]</sup>  
 1. 【[背地里头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_ti_li_teu.md#背地里头)】`bei5 ti6 li3 teu` <sup>[东台]</sup> 私下，不当面暗地里的意思。  
 1. 【[背道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_to.md#背道)】`bei5 to` <sup>[兴化]</sup> 偏僻的地方：那个地方～，晚上路过要留点儿神。  
 1. 【[背道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_to.md#背道)】`bei5 to6` <small>/pei5 tʰɔ1/<sup>如皋</sup></small> 偏僻闭塞<sup>\[如皋\]</sup><sup>\[泰州\]</sup>：～小路<sup>\[泰州\]</sup>｜他家住的这个地方稍微～点儿。<sup>\[泰州\]</sup>  
@@ -1127,9 +1126,9 @@
 1. 【[别起来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bih_qi_lae.md#别起来)】`bih qi3 lae` <sup>[如皋]</sup> ① 用别针、图钉固定。 ② 紧贴着系挂：把钢笔望衭头上～。  
 1. 【[□侉（存疑）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bih_kua.md#□侉（存疑）)】`bih7 kua3` 有意显出自己是用北方方音说话：他出去两年，现在说话□起侉来啊。  
 1. 【[别](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bih.md#别)】`bih7` <small>/piɪʔ7/<sup>兴化</sup></small> ① 转动、扭转<sup>\[兴化\]</sup>：她听到身后有呼吸声，连忙～过头去。<sup>\[兴化\]</sup>｜他这种脾气一时～不过来。<sup>\[兴化\]</sup> ② （泰州词典作𢴩bieh7）<sup>\[泰州\]</sup> ③ 将物插在某处使之固定<sup>\[泰州\]</sup>：他上头袋子上～咖两支钢笔，就像学问大煞咖。<sup>\[泰州\]</sup> ④ 用针将一物附着在另一物上<sup>\[泰州\]</sup>：你把大红花同他弄针～咖好啊。<sup>\[泰州\]</sup>  
-1. 【[别（彆）气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bih_qi.md#别（彆）气)】`bih7 qi5` <sup>[如皋]</sup> 赌气、负气。  
 1. 【[别侉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bih_kua.md#别侉)】`bih7 kua3` <sup>[兴化]</sup> 学说北方口音：明明是当地人，还～吓人。‖“别”也作“撇”。  
 1. 【[别里别调](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bih_lii_bih_dio.md#别里别调)】`bih7 lii bih7 dio5` <sup>[东台]</sup> 说话、办事不按常规，使人感到别扭，不习惯。  
+1. 【[别（彆）气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bih_qi.md#别（彆）气)】`bih7 qi5` <sup>[如皋]</sup> 赌气、负气。  
 1. 【[别气/憋气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bih_qi.md#别气/憋气)】`bih7 qi5` <sup>[兴化]</sup> 负气：她跟妈妈～，睏吖床上不肯起来。｜“小的妻子向来与小的争竞口舌，～归家的。丈人欺心，藏过了……”（《初刻》二六）  
 1. 【[别腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bih_tuei.md#别腿)】`bih7 tuei3` <sup>[兴化]</sup> ① 象棋术语：马～，跳不出。 ② 使绊子：工作有人～，难开展。  
 1. 【[别爪<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bih_zho_r.md#别爪<sub>儿</sub>)】`bih7 zho3 r` <sup>[兴化]</sup> 一种病态：手或足的五指并拢，弯曲僵硬。  

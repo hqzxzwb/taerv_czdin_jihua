@@ -1,7 +1,6 @@
 # 音序检索
 **[A](./a.md) | [B](./b.md) | [C](./c.md) | [D](./d.md) | [E](./e.md) | [F](./f.md) | [G](./g.md) | [H](./h.md) | [I](./i.md) | [J](./j.md) | [K](./k.md) | [L](./l.md) | [M](./m.md) | [N](./n.md) | [O](./o.md) | [P](./p.md) | [Q](./q.md) | [R](./r.md) | [S](./s.md) | [T](./t.md) | [U](./u.md) | [V](./v.md) | [X](./x.md) | [Y](./y.md) | [Z](./z.md)**  
 ## J
-1. 【[……加几](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ji.md#……加几)】`jia1 ji` <sup>[东台]</sup> 形容程度深，通常用在形容词后作补语：他俫的关系好得～呢！（这里“几”读轻声）  
 1. 【[见用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_ion.md#见用)】`in5 ion6` <sup>[泰州]</sup> ① 器物耐用，可以用很长时间：买水铫就要买不锈钢的，铝的不～。 ② 物价便宜，使得同样的钞票可以购买更多东西：现在东西便宜得很，钱真的～咖唻。  
 1. 【[䤒花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_hua.md#䤒花)】`ji1 hua1` <small>/t͡ɕi1 xua1/<sup>兴化</sup>, /t͡ɕʝ1 xua1/<sup>如皋</sup>, /t͡sɿ1 xua1/<sup>泰县</sup></small> 白醭，酒、酱油、醋、咸菜卤等溶液表面生长的一种白色霉菌。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup>  
 1. 【[乩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#乩)】`ji1` <sup>[东台]</sup> 一种迷信方法。由二人扶一丁字形的木架竖在沙盘上，所谓神降临时会执木架画字，为人决疑治病，预示吉凶。  
@@ -196,6 +195,7 @@
 1. 【[加一](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ieh.md#加一)】`jia1 ieh7` <small>/t͡ɕia1 iəʔ7/<sup>兴化</sup>, /t͡ɕia1 iəʔ7/<sup>如皋</sup></small> ① 加一成。<sup>\[如皋\]</sup> ② 加百分之十<sup>\[兴化\]</sup>：～利。<sup>\[兴化\]</sup> ③ 格外、超出应有限度<sup>\[兴化\]</sup>：～奉承。<sup>\[兴化\]</sup>｜光棍打九九，不打～。<sup>\[兴化\]</sup>  
 1. 【[加油添醋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ieu_tin_cv.md#加油添醋)】`jia1 ieu2 tin1 cv5` <sup>[兴化]</sup> 见“加油添酱”。  
 1. 【[加油添酱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ieu_tin_jian.md#加油添酱)】`jia1 ieu2 tin1 jian5` <sup>[兴化]</sup> （贬）说话不切实际，含有虚假成份。也说“加油添醋”：他说话～的，十句听不得三句。  
+1. 【[……加几](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ji.md#……加几)】`jia1 ji` <sup>[东台]</sup> 形容程度深，通常用在形容词后作补语：他俫的关系好得～呢！（这里“几”读轻声）  
 1. 【[加基](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ji.md#加基)】`jia1 ji1` <sup>[如皋]</sup> 制作加工加料，一丝不苟。见“实剌”。  
 1. 【[加基货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ji_hu.md#加基货)】`jia1 ji1 hu5` <sup>[如皋]</sup> 加工加料质量好的货物。  
 1. 【[加力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_lieh.md#加力)】`jia1 lieh8` <sup>[如皋]</sup> 西乡镇名。地处扬泰冈地南缘交通线上的高沙土地区。秦时九江郡移民和西汉东粤国移民开发了这块土地，供旅人暂歇、饮食，故名加力。  
@@ -572,8 +572,8 @@
 1. 【[糨糊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_hv.md#糨糊)】`jian5 hv2` <sup>[如东]</sup> 用面粉做成可以粘贴东西的糊状物。  
 1. 【[糨手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_sheu.md#糨手)】`jian5 sheu3` <sup>[如东]</sup> 因接触粘黏性物质而把手弄脏了：这些东西很脏，不要你～啊。  
 1. 【[糨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_zz.md#糨子)】`jian5 zz` <small>/t͡ɕiã5 t͡sɿ/<sup>如皋</sup>, /t͡ɕiɑŋ5 t͡se/<sup>泰县</sup></small> ① 用糨糊把几层布粘成板块，晒干，这种材料叫做糨子。主要用于做布鞋的鞋底和鞋帮。<sup>\[如东\]</sup> ② 将旧、碎布用薄浆糊糊几层，晒干后的成品，做布鞋用。家中可自制，专糊糨子的人家也有售。<sup>\[如皋\]</sup> ③ 糨糊，用面粉等做成的可以粘贴东西的糊状物。<sup>\[东台\]</sup> ④ 用破布一层一层铺平糊成，专用缝制布鞋底的东西。<sup>\[泰县\]</sup>  
-1. 【[謽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian.md#謽)】`jian5` <sup>[泰州]</sup> 不承认自己的错：不要嘴～。｜这件事明摆啊是你不对，你还要～。  
 1. 【[謽/犟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian.md#謽/犟)】`jian5` <sup>[兴化]</sup> ① 倔强、固执：这个人～，这吖多人劝他总不肯回头。 ② 顶嘴、强辩：他明知不对，还要～。《集韵·养韵》巨两切｜“～，词不屈也。”又读qian6。  
+1. 【[謽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian.md#謽)】`jian5` <sup>[泰州]</sup> 不承认自己的错：不要嘴～。｜这件事明摆啊是你不对，你还要～。  
 1. 【[謽嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_zuei.md#謽嘴)】`jian5 zuei3` <sup>[兴化]</sup> 顶嘴、回嘴：说他几句，他还～。  
 1. 【[酱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian.md#酱)】`jian5` <sup>[如东]</sup> ① 用豆类或面粉，经蒸埯发酶，加盐水，制成糊状物，深红色，入中药。性味寒。有除热、解毒作用，治蜂虿虫伤、汤火伤。 ② 调味品。味香醇。 ③ 东西到处乱放：东西～吖一地。  
 1. 【[酱瓣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_baen_zz.md#酱瓣子)】`jian5 baen5 zz` <sup>[兴化]</sup> 用发酵后的豆、麦粉加盐制成的糊状调味品：炖胡椒～。  

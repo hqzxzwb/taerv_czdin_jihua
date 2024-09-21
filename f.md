@@ -1,7 +1,6 @@
 # 音序检索
 **[A](./a.md) | [B](./b.md) | [C](./c.md) | [D](./d.md) | [E](./e.md) | [F](./f.md) | [G](./g.md) | [H](./h.md) | [I](./i.md) | [J](./j.md) | [K](./k.md) | [L](./l.md) | [M](./m.md) | [N](./n.md) | [O](./o.md) | [P](./p.md) | [Q](./q.md) | [R](./r.md) | [S](./s.md) | [T](./t.md) | [U](./u.md) | [V](./v.md) | [X](./x.md) | [Y](./y.md) | [Z](./z.md)**  
 ## F
-1. 【[……疯吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_nga.md#……疯吖)】`fon1 nga` <sup>[东台]</sup> 同“呼啊”。用法也大致相同：难听吖～。  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh.md#□)】`faeh7` <sup>[泰县]</sup> 腐朽变质：饭～咖。  
 1. 【[发](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh.md#发)】`faeh7` <small>/fæʔ7/<sup>兴化</sup></small> ① 给。<sup>\[如东\]</sup>：～东西。<sup>\[如东\]</sup> ② 次。<sup>\[如东\]</sup>：跑了几～。<sup>\[如东\]</sup> ③ 颗，粒。<sup>\[如东\]</sup>：已经打了10～子弹。<sup>\[如东\]</sup> ④ 次、趟<sup>\[东台\]</sup>：到上海去一～；再弄一～；来啊几～人。<sup>\[东台\]</sup> ⑤ 批、番<sup>\[兴化\]</sup>：今吖一早，来啊几～人找你。<sup>\[兴化\]</sup>｜早上喊他几～，到这晚还不曾起床。<sup>\[兴化\]</sup> ⑥ 交付、发送<sup>\[兴化\]</sup>：～货<sup>\[兴化\]</sup>｜“吩咐长班把行李一来……”（《梼杌闲评》七）<sup>\[兴化\]</sup> ⑦ 起程、上路<sup>\[兴化\]</sup>：～车<sup>\[兴化\]</sup>｜“路远，不到响午就～轿……”（汪曾祺《小学校的钟声》）<sup>\[兴化\]</sup> ⑧ 戏谓吝啬的人偶尔大方起来<sup>\[兴化\]</sup>：老王今吖～起来，买几笼包子请客。<sup>\[兴化\]</sup> ⑨ 量词，次，回<sup>\[泰州\]</sup>：上南京去啊三～。<sup>\[泰州\]</sup>  
 1. 【[发板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_baen.md#发板)】`faeh7 baen3` <sup>[如皋]</sup> ① 板结：浇水多啊地～。 ② 不灵活：人老啊，身骨～，行动不顺便。  
@@ -780,6 +779,7 @@
 1. 【[疯里𧺕痴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_lii_shah_chr.md#疯里𧺕痴)】`fon1 lii shah chr1` <sup>[泰县]</sup> 不稳重：他～。  
 1. 【[疯里𧺕兮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_lii_shah_xi.md#疯里𧺕兮)】`fon1 lii shah8 xi1` <sup>[东台]</sup> 神经失常、以疯作邪的样子，形容人言语行动轻狂或超出常态。又作“疯里𧺕气”。  
 1. 【[疯猫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_mo_r.md#疯猫<sub>儿</sub>)】`fon1 mo2 r` <sup>[如皋]</sup> 患狂犬病的猫。  
+1. 【[……疯吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_nga.md#……疯吖)】`fon1 nga` <sup>[东台]</sup> 同“呼啊”。用法也大致相同：难听吖～。  
 1. 【[疯吖精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_nga_jien.md#疯吖精)】`fon1 nga jien1` <sup>[东台]</sup> 形容某种欲望过分强烈，几乎失去理智。  
 1. 【[疯吖心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_nga_xien.md#疯吖心)】`fon1 nga xien1` <sup>[如皋]</sup> 全身心投入，不顾其他：他耍子啊～，忘掉家来啊！  
 1. 【[疯婆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_pu_r.md#疯婆<sub>儿</sub>)】`fon1 pu2 r` <small>/fɔŋ1 pʰʊ˞2/<sup>如皋</sup>, /foŋ1 pʰo2 ɚ/<sup>泰县</sup></small> ① 不稳重的女人。<sup>\[如东\]</sup> ② 昵指过分活泼带点粗狂的女性，多指小女孩。<sup>\[如皋\]</sup> ③ 不稳重的妇女<sup>\[泰县\]</sup>：这人是个～。<sup>\[泰县\]</sup>  

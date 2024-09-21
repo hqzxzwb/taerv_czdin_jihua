@@ -1,8 +1,6 @@
 # 音序检索
 **[A](./a.md) | [B](./b.md) | [C](./c.md) | [D](./d.md) | [E](./e.md) | [F](./f.md) | [G](./g.md) | [H](./h.md) | [I](./i.md) | [J](./j.md) | [K](./k.md) | [L](./l.md) | [M](./m.md) | [N](./n.md) | [O](./o.md) | [P](./p.md) | [Q](./q.md) | [R](./r.md) | [S](./s.md) | [T](./t.md) | [U](./u.md) | [V](./v.md) | [X](./x.md) | [Y](./y.md) | [Z](./z.md)**  
 ## X
-1. 【[……行行的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_xien_dii.md#……行行的)】`xien2 xien2 dii` <sup>[东台]</sup> 指某种动作正在进行：手术做得～，突然停吖电。  
-1. 【[……歇刻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_keh_r.md#……歇刻<sub>儿</sub>)】`xih7 keh9 r` <sup>[如皋]</sup> 见“早晚”。  
 1. 【[兮兮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xi.md#兮兮)】`xi1 xi1` <sup>[东台]</sup> 加在某些词后面，充当语气助词，表示“很”“太”的意思：神经～/脏～。  
 1. 【[嘻大流𠵹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_da_lieu_gan.md#嘻大流𠵹)】`xi1 da6 lieu2 gan1` <sup>[如皋]</sup> 说话随便、不庄重的样子。  
 1. 【[嘻里哈啦的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_lii_ha_la_dii.md#嘻里哈啦的)】`xi1 lii ha1 la1 dii` <sup>[如皋]</sup> 不严肃、不拘小节、活泼。  
@@ -619,10 +617,10 @@
 1. 【[响雷霍闪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ly_vah_shin.md#响雷霍闪)】`xian3 ly2 vah8 shin3` <sup>[如皋]</sup> 雷声和电闪交加。  
 1. 【[响铁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_tih.md#响铁)】`xian3 tih7` <sup>[如皋]</sup> 锡匠担子沿途单手敲的一副铁器。一种是一串铁片；一种是一根L形、一根Z形的铁件。  
 1. 【[响子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_zz.md#响子)】`xian3 zz` <small>/ɕiã3 t͡sɿ/<sup>如皋</sup>, /ɕiɑŋ3 t͡se/<sup>泰县</sup></small> ① 做烧饼的有套的擀具，长约8寸，擀时常发出清脆响声，故名。<sup>\[如皋\]</sup> ② 锣。<sup>\[泰县\]</sup>  
-1. 【[想……的心思](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_dii_xien_sz.md#想……的心思)】`xian3 dii xien1 sz` <sup>[如皋]</sup> ① 想念。 ② 想从……处获得什么：想钱的心思、想房子的心思。想人家老婆的心思。  
 1. 【[想得起来的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_deh_qi_lae_dii.md#想得起来的)】`xian3 deh qi3 lae2 dii` <sup>[东台]</sup> 相当于“怎么想得起来的？”“怎么能这样？”  
 1. 【[想得开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_deh_kae.md#想得开)】`xian3 deh7 kae1` <sup>[东台]</sup> 不把不如意的事情老放在心上。反之叫想不开。  
 1. 【[想得起来的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_deh_qi_lae_dii.md#想得起来的)】`xian3 deh7 qi3 lae2 dii` <sup>[如皋]</sup> 怎么可以这样想、这样做呢？决不可以！——要我上他家去呀？～！  
+1. 【[想……的心思](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_dii_xien_sz.md#想……的心思)】`xian3 dii xien1 sz` <sup>[如皋]</sup> ① 想念。 ② 想从……处获得什么：想钱的心思、想房子的心思。想人家老婆的心思。  
 1. 【[想空头<sub>儿</sub>心思](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_kon_teu_r_xien_sz.md#想空头<sub>儿</sub>心思)】`xian3 kon5 teu r xien1 sz1` <sup>[如皋]</sup> 想空头，妄想。  
 1. 【[想没𣝗枣<sub>儿</sub>吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_meh_hueh_zo_r_qieh.md#想没𣝗枣<sub>儿</sub>吃)】`xian3 meh8 hueh8 zo3 r qieh7` <sup>[如皋]</sup> 想空头、妄想。  
 1. 【[想吖八国里去啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_nga_baeh_goh_lii_qy_a.md#想吖八国里去啊)】`xian3 nga baeh7 goh7 lii qy5 a` <sup>[如皋]</sup> 离题万里，想入非非。  
@@ -892,6 +890,7 @@
 1. 【[行铺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_pv.md#行铺)】`xien2 pv5` <small>/ɕin2 pʰu5/<sup>兴化</sup>, /ɕiəŋ2 pʰu5/<sup>如皋</sup></small> ① 每天搁每天收的铺。<sup>\[如皋\]</sup> ② 临时搭起来的床铺。<sup>\[如东\]</sup> ③ 临时支的床铺<sup>\[兴化\]</sup>：他晚上睡～，早上起来撤掉。<sup>\[兴化\]</sup>  
 1. 【[行绝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_qiuh.md#行绝)】`xien2 qiuh8` <sup>[东台]</sup> 使坏，做伤天害理的事。  
 1. 【[行瘟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_ven.md#行瘟)】`xien2 ven1` <sup>[兴化]</sup> ① 瘟疫流行：（鸭子）摇头～，甚至全趟死光。（马春阳《要唱拿手好戏》） ② 骂畜禽的话，有时也用来骂人：“我早上拿了钱来，你那该死～的兄弟还不肯……”（《儒林外史》三）  
+1. 【[……行行的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_xien_dii.md#……行行的)】`xien2 xien2 dii` <sup>[东台]</sup> 指某种动作正在进行：手术做得～，突然停吖电。  
 1. 【[行行的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_xien_dii.md#行行的)】`xien2 xien2 dii` <small>/ɕin2 ɕin2 təi/<sup>兴化</sup>, /ɕiəŋ2 ɕiəŋ2 tei/<sup>如皋</sup></small> ① 持续状态：这伢儿啋，才哭得～，又笑起来啊！<sup>\[如皋\]</sup> ② 指正在进行中的<sup>\[兴化\]</sup>：他跑得～的，忽然听见后头有人喊他。<sup>\[兴化\]</sup>｜汽车开得～的突然急刹车。<sup>\[兴化\]</sup>  
 1. 【[行行好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_xien_ho.md#行行好)】`xien2 xien2 ho3` <sup>[东台]</sup> 求人发善心，做善事。  
 1. 【[行消](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_xio.md#行消)】`xien2 xio1` <sup>[如皋]</sup> 认可：我劝吖你半大天，哿曾～？不～的话再请大哥来劝你。  
@@ -1039,6 +1038,7 @@
 1. 【[歇脚墩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_jiah_den_r.md#歇脚墩<sub>儿</sub>)】`xih7 jiah7 den1 r` <sup>[如皋]</sup> 旅程中途的停歇处。  
 1. 【[歇劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_jien.md#歇劲)】`xih7 jien5` <small>/ɕiʔ7 t͡ɕiəŋ5/<sup>如皋</sup></small> ① 放松，松懈 ② 临时休息。<sup>\[如皋\]</sup> ③ 松劲，不愿继续。<sup>\[如皋\]</sup> ④ 休息。<sup>\[如东\]</sup>：明朝～，不劳动吖。<sup>\[如东\]</sup>  
 1. 【[歇刻<sub>儿</sub>工夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_keh_r_gon_fv.md#歇刻<sub>儿</sub>工夫)】`xih7 keh r gon1 fv` <sup>[东台]</sup> 同“歇歇儿工夫”。  
+1. 【[……歇刻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_keh_r.md#……歇刻<sub>儿</sub>)】`xih7 keh9 r` <sup>[如皋]</sup> 见“早晚”。  
 1. 【[歇刻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_keh_r.md#歇刻<sub>儿</sub>)】`xih7 keh9 r` ① 过一会儿。 ② 休息一会儿。<sup>\[如东\]</sup>：我俫～再跑吧。<sup>\[如东\]</sup>  
 1. 【[歇口气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_keu_qi.md#歇口气)】`xih7 keu3 qi5` <sup>[如皋]</sup> 休息一会儿。  
 1. 【[歇凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_lian.md#歇凉)】`xih7 lian2` <sup>[兴化]</sup> 乘凉：到树下～。｜（那牛通）见一座茂林甚觉阴凉，就走进林中，拣一块大石头坐着～。（《说岳全传》六七）  
@@ -1463,8 +1463,8 @@
 1. 【[小米煮饭——有胀头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_mi_zhv_faen_ieu_zhan_teu.md#小米煮饭——有胀头)】`xio3 mi3 zhv3 faen6 ieu3 zhan5 teu2` <sup>[东台]</sup>   
 1. 【[小名](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_mien.md#小名)】`xio3 mien2` <small>/ɕiɔ3 miŋ2/<sup>泰兴</sup></small> ① 婴儿出生后取的名字，只有名，不加姓。也称奶名。<sup>\[如东\]</sup>：扣宝儿、八斤儿。<sup>\[如东\]</sup> ② 乳名，幼时起的非正式的名字。乡人有“小名不瞒当地人”句。<sup>\[泰兴\]</sup>  
 1. 【[小名不瞒当地人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_mien_beh_mun.md#小名不瞒当地人)】`xio3 mien2 beh7 mun2 dan5 ti6 ren2` <sup>[泰兴]</sup>   
-1. 【[小面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_min.md#小面)】`xio3 min6` <sup>[兴化]</sup> 背面，相对于大面（正面）。  
 1. 【[小面（麪）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_min.md#小面（麪）)】`xio3 min6` <sup>[兴化]</sup> 小麦磨的面粉。  
+1. 【[小面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_min.md#小面)】`xio3 min6` <sup>[兴化]</sup> 背面，相对于大面（正面）。  
 1. 【[小面人家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_min_ren_ga.md#小面人家)】`xio3 min6 ren2 ga` <sup>[东台]</sup> 家庭不富，较为寒酸，处世不大方，算小账的小户人家。  
 1. 【[小毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_mo.md#小毛)】`xio3 mo2` <sup>[兴化]</sup> ① 短毛衣料，如灰鼠皮等。 ② 禽类身上被翅膀和外层大毛覆盖的绒毛。  
 1. 【[小猫乍行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_mo_cha_xien.md#小猫乍行)】`xio3 mo2 cha6 xien2` <sup>[兴化]</sup> 见“小马乍行”。  

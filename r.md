@@ -265,8 +265,8 @@
 1. 【[人误地一时，地误人一年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_v_ti_ieh_shr_ti_v_ren_ieh_nin.md#人误地一时，地误人一年)】`ren2 v6 ti6 ieh7 shr2 ti6 v6 ren2 ieh7 nin2` <sup>[东台]</sup> 要掌握季节，遵循规律，及时耕种。  
 1. 【[人王](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_van.md#人王)】`ren2 van2` <small>/ɻəŋ2 uɑŋ2/<sup>泰兴</sup></small> ① 自作聪明能干的人。<sup>\[如东\]</sup>：这个家伙好做～。<sup>\[如东\]</sup> ② 诋责以势欺人或以力侮人者，有“狗大为王，人大见强”一说。贬语。<sup>\[泰兴\]</sup>  
 1. 【[人望](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_van.md#人望)】`ren2 van6` <sup>[泰兴]</sup> 声望，威望：贪污腐败，干尽了坏事，还有甚的人望？  
-1. 【[人望高，水望低](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_van_go_shuei.md#人望高，水望低)】`ren2 van6 go1 shuei3 van6 di1` <sup>[泰兴]</sup> 水往低处流，而人是要向高处攀登，力争干出一番成就的。  
 1. 【[人望高处走，水望低处流](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_van_go_chv.md#人望高处走，水望低处流)】`ren2 van6 go1 chv5 zeu3 shuei3 van6 di1 chv5 lieu2` <sup>[东台]</sup> 人要有上进心。  
+1. 【[人望高，水望低](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_van_go_shuei.md#人望高，水望低)】`ren2 van6 go1 shuei3 van6 di1` <sup>[泰兴]</sup> 水往低处流，而人是要向高处攀登，力争干出一番成就的。  
 1. 【[人物](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_veh.md#人物)】`ren2 veh8` <small>/ɻəŋ2 ʋəʔ8/<sup>如皋</sup></small> ① 不寻常的人。<sup>\[如皋\]</sup> ② 有才能有地位有影响的人。<sup>\[如东\]</sup>：他是一个～。<sup>\[如东\]</sup>  
 1. 【[人物头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_veh_teu_r.md#人物头<sub>儿</sub>)】`ren2 veh8 teu2 r` <sup>[兴化]</sup> 指拔尖的、了不起的人：他往人前一站，还真像个～。  
 1. 【[人物头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_veh_teu_zz.md#人物头子)】`ren2 veh8 teu2 zz` <small>/ɻəŋ2 ʋəʔ8 tʰei2 t͡sɿ/<sup>如皋</sup>, /ɻəŋ2 ʋəʔ8 tʰəɪ2 t͡sɿ/<sup>泰兴</sup></small> ① 贬指、嘲讽用语。<sup>\[如皋\]</sup> ② 才能杰出、声望卓著、有地位的人。有时用于讽刺挖苦自以为了不起的人。<sup>\[泰兴\]</sup>：才当吖个班长，就神气国国的，充起～的派头来。<sup>\[泰兴\]</sup>  

@@ -639,8 +639,8 @@
 1. 【[王翁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_on.md#王翁)】`van2 on1` <small>/ʋã2 ɔŋ1/<sup>如皋</sup></small> ① 见“苦鹱鸟儿”。<sup>\[如皋\]</sup> ② 白胸秧鸡，俗名苦鹱鸟。<sup>\[如皋\]</sup>  
 1. 【[王婆卖瓜——自卖自夸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_pu_mae_gua_cz_mae_cz_kua.md#王婆卖瓜——自卖自夸)】`van2 pu2 mae6 gua1 cz6 mae6 cz6 kua1` <sup>[东台]</sup>   
 1. 【[王三打麻雀<sub>儿</sub>——讹错一芝麻壳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_saen_da_ma_jiah_r_ngu_cu_ieh_zhr_ma_kah_r.md#王三打麻雀<sub>儿</sub>——讹错一芝麻壳<sub>儿</sub>)】`van2 saen1 da3 ma2 jiah7 r ngu2 cu5 ieh7 zhr1 ma2 kah7 r` <sup>[东台]</sup>   
-1. 【[王三骑驴子——𧽌过啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_saen_qi_ly_zz_huaeh_gu_a.md#王三骑驴子——𧽌过啊)】`van2 saen1 qi2 ly2 zz huaeh7 gu5 a` <sup>[东台]</sup>   
-1. 【[王三骑驴子，𧽌过啊头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_saen_qi_ly_zz_huaeh_gu_a_teu.md#王三骑驴子，𧽌过啊头)】`van2 saen1 qi2 ly2 zz huaeh7 gu1 a teu2` <sup>[东台]</sup> ［喻］（俗语）指事情做得过分了。  
+1. 【[王三骑驴子——𧽌过啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_saen_qi_ly.md#王三骑驴子——𧽌过啊)】`van2 saen1 qi2 ly2 zz huaeh7 gu1 a` <sup>[东台]</sup>   
+1. 【[王三骑驴子，𧽌过啊头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_saen_qi_ly.md#王三骑驴子，𧽌过啊头)】`van2 saen1 qi2 ly2 zz huaeh7 gu1 a teu2` <sup>[东台]</sup> ［喻］（俗语）指事情做得过分了。  
 1. 【[王五王六](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_v_van_loh.md#王五王六)】`van2 v3 van2 loh8` <sup>[兴化]</sup> （借）社会上不三不四的人：谚曰：～，吃鱼吃肉｜皈皈真真，饿得狗哼。  
 1. 【[王子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_zz.md#王子)】`van2 zz` <sup>[如皋]</sup> 丧俗中，给死者供倒头饭时，于左首设一只筷、一只酒盅，盛点半熟的米饭同时供～。  
 1. 【[艎板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_baen.md#艎板)】`van2 baen3` <sup>[东台]</sup> 渔船舱口的盖板：取到鱼，～都会说话（有了成绩，即使无关人员也能总结出经验）。  
@@ -660,8 +660,8 @@
 1. 【[黄猫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_mo_r.md#黄猫<sub>儿</sub>)】`van2 mo2 r` <small>/ʋã2 mɔ˞2/<sup>如皋</sup></small> ① 黄鼠狼。<sup>\[如皋\]</sup><sup>\[东台\]</sup> ② 条形无馅馒头。<sup>\[如皋\]</sup>  
 1. 【[黄猫<sub>儿</sub>给鸡拜年——没安好心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_mo_r_gei.md#黄猫<sub>儿</sub>给鸡拜年——没安好心)】`van2 mo2 r gei5 ji1 bae5 nin2 meh8 un1 ho3 xien1` <sup>[东台]</sup>   
 1. 【[黄猫<sub>儿</sub>𠞖吖鸡窠里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_mo_r_gon_nga_ji_ku_lii.md#黄猫<sub>儿</sub>𠞖吖鸡窠里)】`van2 mo2 r gon1 nga ji1 ku1 lii` <sup>[如皋]</sup> 喻害群之马。使大家不得安宁，且带来祸害。  
-1. 【[黄猫<sub>儿</sub>看鸡——越看越稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_mo_r_kun.md#黄猫<sub>儿</sub>看鸡——越看越稀)】`van2 mo2 r kun1 ji1 iuh8 kun1 iuh8 xi1` <sup>[东台]</sup>   
 1. 【[黄猫<sub>儿</sub>看鸡，越看越稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_mo_r_kun_ji_iuh_kun_iuh_xi.md#黄猫<sub>儿</sub>看鸡，越看越稀)】`van2 mo2 r kun1 ji1 iuh8 kun1 iuh8 xi1` <sup>[如皋]</sup> 吃得差不多了。  
+1. 【[黄猫<sub>儿</sub>看鸡——越看越稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_mo_r_kun.md#黄猫<sub>儿</sub>看鸡——越看越稀)】`van2 mo2 r kun1 ji1 iuh8 kun1 iuh8 xi1` <sup>[东台]</sup>   
 1. 【[黄猫<sub>儿</sub>嗍咖血的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_mo_r_shuah.md#黄猫<sub>儿</sub>嗍咖血的)】`van2 mo2 r shuah7 ga xiuh7 dii` <sup>[如皋]</sup> 詈语。脸色焦黄或灰白，无血色的样子。  
 1. 【[黄猫<sub>儿</sub>专拣病鸡咬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_mo_r_zhun.md#黄猫<sub>儿</sub>专拣病鸡咬)】`van2 mo2 r zhun1 gaen3 pien6 ji1 ngo3` <sup>[东台]</sup> 喻指自身有弱点，敌人会乘虚而入。  
 1. 【[黄䱀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ngan.md#黄䱀)】`van2 ngan1` <sup>[如皋]</sup> 黄颡。  

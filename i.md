@@ -838,8 +838,8 @@
 1. 【[一捞抄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_lo_cho.md#一捞抄)】`ieh7 lo2 cho1` <sup>[东台]</sup> 不挑不拣，挨个儿拿：鱼不多啊，～，八块钱一斤。  
 1. 【[一捞<sub>儿</sub>上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_lo_r_shan.md#一捞<sub>儿</sub>上)】`ieh7 lo2-5 r shan6` <sup>[东台]</sup> 同“一捞抄”。  
 1. 【[一捞□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_lo_sho.md#一捞□)】`ieh7 lo2 sho1` <sup>[泰县]</sup> 统统：你～有多少钱？  
-1. 【[一老（了）<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_lo_r.md#一老（了）<sub>儿</sub>)】`ieh7 lo3 r` <sup>[如皋]</sup> ① 从前、原来：他～是日本人，战后在中国定居的。 ② 一向、一直：我家～住啊这许，已经五代人裔呀。  
 1. 【[一老一实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_lo_ieh_sheh.md#一老一实)】`ieh7 lo3 ieh7 sheh8` <small>/iəʔ7 lɔ3 iəʔ7 səʔ8/<sup>兴化</sup></small> ① 老老实实，干干脆脆。<sup>\[东台\]</sup> ② 老老实实<sup>\[兴化\]</sup>：你～说个价，到底卖多少钱？<sup>\[兴化\]</sup> ③ 干脆<sup>\[兴化\]</sup>：“……但是依我的主见，不如～，打发翠姨离了眼前……”（《广陵潮》三二）<sup>\[兴化\]</sup>  
+1. 【[一老（了）<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_lo_r.md#一老（了）<sub>儿</sub>)】`ieh7 lo3 r` <sup>[如皋]</sup> ① 从前、原来：他～是日本人，战后在中国定居的。 ② 一向、一直：我家～住啊这许，已经五代人裔呀。  
 1. 【[一弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_lon.md#一弄)】`ieh7 lon6` <sup>[如皋]</sup> ① 动不动：这几天心绪不宁，～就睡不着｜他的身体不强壮，～就害病。 ② 一经般弄：这只钟捱他～就坏啊，送吖店里去修，人家不费事，～又好啊。  
 1. 【[一摞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_lu_zz.md#一摞子)】`ieh7 lu6 zz` <sup>[兴化]</sup> 一叠：～碗｜～书。  
 1. 【[一路气候](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_lv_qi_heu.md#一路气候)】`ieh7 lv6 qi5 heu` <sup>[如皋]</sup> ① 传染病流行。 ② 一种潮流、倾向：五十年代男青年的发式～都是“一边倒”；九十年代，又是～的大分头。  
@@ -1294,8 +1294,8 @@
 1. 【[饮汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_tan.md#饮汤)】`ien3 tan1` <small>/in3 tʰaŋ1/<sup>兴化</sup>, /iəŋ3 tʰã1/<sup>如皋</sup></small> ① 粥汤 ② 粥汁。<sup>\[如皋\]</sup> ③ 用大米或其他粮食熬的流汁。<sup>\[如东\]</sup> ④ 米汤。<sup>\[兴化\]</sup>  
 1. 【[饮汤粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_tan_zhoh.md#饮汤粥)】`ien3 tan1 zhoh7` <sup>[东台]</sup> 与“米饮汤”近义。东台词典此处用“影”字，出自扬州评话中“施恩派衙役送影汤粥饲喂武松”，大概是因粥太稀薄，可照见人影。  
 1. 【[印](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien.md#印)】`ien5` <small>/iəŋ5/<sup>如皋</sup></small> ① 印痕、痕迹：咬啊个牙子～。创口缝合后有百脚～、脚～、手～、折～。<sup>\[如皋\]</sup> ② 印刷：～书、油～。<sup>\[如皋\]</sup> ③ ［引］透，穿透<sup>\[东台\]</sup>：群众骂恬不知耻的人是“脸厚，三薄刀斫不～”。<sup>\[东台\]</sup>  
-1. 【[印（癊）疮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_chuan.md#印（癊）疮)】`ien5 chuan1` <sup>[如皋]</sup> 久压引起的皮肤坏死。  
 1. 【[印版](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_baen.md#印版)】`ien5 baen3` <sup>[兴化]</sup> 印刷用的木板：他俫两个人一个腔调，赛如一副～印出来的。  
+1. 【[印（癊）疮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_chuan.md#印（癊）疮)】`ien5 chuan1` <sup>[如皋]</sup> 久压引起的皮肤坏死。  
 1. 【[印疮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_chuan.md#印疮)】`ien5 chuan1` <sup>[如东]</sup> 褥疮。  
 1. 【[印花布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_hua_bv.md#印花布)】`ien5 hua1 bv5` <sup>[如东]</sup> 旧时染坊用镂花纸板为模，在布料上涂浆，然后下缸染色，再洗掉浆层，即现花纹。  
 1. 【[印蓝纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_laen_zhr.md#印蓝纸)】`ien5 laen2 zhr3` <sup>[兴化]</sup> 复写纸。  
@@ -1939,8 +1939,8 @@
 1. 【[容马不……](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_ma_beh.md#容马不……)】`ion2 ma3 beh7` <sup>[东台]</sup> 相当于“不容易”一词的倒置，即一般情况下很难得的机会：你平时很忙，～来，这次多蹾几天。  
 1. 【[容犟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_qian.md#容犟)】`ion2 qian6` <sup>[如东]</sup> 庇护不好的习惯：桃桃的坏脾气是她妈妈～起来的。  
 1. 【[容身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_shen.md#容身)】`ion2 shen1` <sup>[如东]</sup> 人居住的地方：～之地。  
-1. 【[容者……不到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_zhae_beh_do.md#容者……不到)】`ion2 zhae3 beh7 do5` <sup>[如皋]</sup> 难以得到：容者吃不到、容者买不到。  
 1. 【[容者不](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_zhae_beh.md#容者不)】`ion2 zhae3 beh7` <sup>[如皋]</sup> 难得，不经常、好不容易：他～来。  
+1. 【[容者……不到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_zhae_beh_do.md#容者……不到)】`ion2 zhae3 beh7 do5` <sup>[如皋]</sup> 难以得到：容者吃不到、容者买不到。  
 1. 【[容仗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_zhan.md#容仗)】`ion2 zhan5` <sup>[东台]</sup> 对孩子或手下人的缺点错误放任不管：对小伙不能太～。  
 1. 【[溶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion.md#溶)】`ion2` <sup>[如东]</sup> ① 物体膨松的状态。 ② 粉碎：把纸撕～吖。  
 1. 【[荣辱不觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_roh_beh_gah.md#荣辱不觉)】`ion2 roh8 beh7 gah7` <sup>[东台]</sup> 办事缺乏道德标准，对什么是光荣，什么是耻辱弄不清。  

@@ -508,43 +508,6 @@
 1. 【[没](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh.md#没)】`meh8` <sup>[如东]</sup> 被水淹没：棉花全部～掉啊。  
 1. 【[没（得）巴成](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_ba_chen.md#没（得）巴成)】`meh8 ba1 chen2` <sup>[如皋]</sup> 指没指望、没希望。  
 1. 【[没（得）板子打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_baen_zz_da.md#没（得）板子打)】`meh8 baen3 zz da3` <sup>[如皋]</sup> ① 特别清闲，没事做：他在家里～，就跑啊外头去耍子。 ② 消遣性劳作：他～，在家里养金鱼耍子。 ③ 没价值，不值得：请你去帮忙，一天弄吖5块钱，～唻。  
-1. 【[没（得）搭煞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_daeh_shaeh.md#没（得）搭煞)】`meh8 daeh7 shaeh7` <sup>[如皋]</sup> 状素质太低，容易蛮缠，不能搭理。  
-1. 【[没（得）底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_di.md#没（得）底)】`meh8 di3` <sup>[如皋]</sup> ① 不知底细，没有把握。 ② 没有限制：用钱～。  
-1. 【[没（得）屌事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_dio_shr.md#没（得）屌事)】`meh8 dio3 shr6` <sup>[如皋]</sup> 同“没（得）板子打”❶❷粗鄙话。  
-1. 【[没（得）𠵹答](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_gan_daeh.md#没（得）𠵹答)】`meh8 gan1 daeh7` <sup>[如皋]</sup> 不答理，不必答理。  
-1. 【[没（得）根](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_gen.md#没（得）根)】`meh8 gen1` <sup>[如皋]</sup> 没出处、无依靠。  
-1. 【[没（得）根底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_gen_di.md#没（得）根底)】`meh8 gen1 di3` <sup>[如皋]</sup> ① 无碍绊，飘浮不定。 ② 来历不明。  
-1. 【[没（得）觉睏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_go_kuen.md#没（得）觉睏)】`meh8 go5 kuen5` <sup>[如皋]</sup> ① 失眠：他一成多少日子总～，人难过。 ② 欠觉：伢儿夜里烦人，妈妈～｜连续受审，几夜～。  
-1. 【[没（得）拐<sub>儿</sub>打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_guae_r_da.md#没（得）拐<sub>儿</sub>打)】`meh8 guae3 r da3` <sup>[如皋]</sup> 见“没（得）板子打”。  
-1. 【[没（得）关拦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_guaen_laen.md#没（得）关拦)】`meh8 guaen1 laen2` <sup>[如皋]</sup> 口风不紧，易漏秘密。  
-1. 【[没（得）惯头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_guaen_teu.md#没（得）惯头)】`meh8 guaen5 teu2` <sup>[如皋]</sup> 懊悔、叹惜、恣心怜爱得不到回报或无好结果。  
-1. 【[没（得）下巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_ha_ba.md#没（得）下巴)】`meh8 ha6 ba` <sup>[如皋]</sup> 喻说离奇无根据的话，或指人。  
-1. 【[没（得）影子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_ien_zz.md#没（得）影子)】`meh8 ien3 zz` <sup>[如皋]</sup> 毫无根据：他说的事情～。  
-1. 【[没（得）教门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_jio_men.md#没（得）教门)】`meh8 jio5 men` <sup>[如皋]</sup> 素质差，不懂规矩，未受教育训练。  
-1. 【[没（得）㧟<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_kuae_r.md#没（得）㧟<sub>儿</sub>)】`meh8 kuae3 r` <sup>[如皋]</sup> 没有框框儿，没有限度：用钱～，可多可少。  
-1. 【[没（得）来头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_lae_teu.md#没（得）来头)】`meh8 lae2 teu` <sup>[如皋]</sup> ① 无正当来源：～的货不能买，～的钱不能赚。 ② 玩得不满意，无趣。  
-1. 【[没（得）捞摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_lo_mah.md#没（得）捞摸)】`meh8 lo2 mah` <sup>[如皋]</sup> ① 无利可图。 ② 质差：这种布～。  
-1. 【[没（得）牢坐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_lo_cu.md#没（得）牢坐)】`meh8 lo2 cu6` <sup>[如皋]</sup> 同“没（得）板子打”❸。没价值，不值得。  
-1. 【[没（得）命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_mien.md#没（得）命)】`meh8 mien6` <sup>[如皋]</sup> 程度副词：两个人好得～！见“没（得）魂”。  
-1. 【[没（得）皮血](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_pi_xiuh.md#没（得）皮血)】`meh8 pi2 xiuh7` <sup>[如皋]</sup> 没有血性，羞耻心弱：他～，捱人家骂得那样子，还是同人家媚啊媚的。  
-1. 【[没（得）屁放](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_pi_fan.md#没（得）屁放)】`meh8 pi5 fan5` <sup>[如皋]</sup> ① 夸好，无可挑剔。 ② 责不适时的插话：你～找话说。  
-1. 【[没（得）气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_qi.md#没（得）气)】`meh8 qi5` <sup>[如皋]</sup> 不生气，气恼消除。  
-1. 【[没（得）窍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_qio.md#没（得）窍)】`meh8 qio5` <sup>[如皋]</sup> 詈或昵语，又称没屁眼，指做刁钻害人之事：这小伙专做～的事！｜你不要～，你要受报应的！  
-1. 【[没（得）日子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_rih_zz.md#没（得）日子)】`meh8 rih8 zz` <sup>[如皋]</sup> 时间紧迫，没有回旋的日子。  
-1. 【[没（得）赦数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_sha_shv.md#没（得）赦数)】`meh8 sha5 shv5` <sup>[如皋]</sup> 放任，无限制。  
-1. 【[没（得）手抓痒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_sheu_zhua_ian.md#没（得）手抓痒)】`meh8 sheu3 zhua1 ian3` <sup>[如皋]</sup> 忙乱，难以应付复杂局面。  
-1. 【[没（得）事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_shr.md#没（得）事)】`meh8 shr6` <sup>[如皋]</sup> ① 清闲。 ② 答语，没关系，不要紧。  
-1. 【[没（得）事啊啦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_shr_a_la.md#没（得）事啊啦)】`meh8 shr6 a la` <sup>[如皋]</sup> ① 风波已过，平静了：案子查清吖，他～。 ② 指死了：枪一响，这个人就～。  
-1. 【[没（得）嗍味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_shuah_vei.md#没（得）嗍味)】`meh8 shuah7 vei6` <sup>[如皋]</sup> 见“没（得）捞摸”。  
-1. 【[没（得）说相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_shuh_xian.md#没（得）说相)】`meh8 shuh7 xian5` <sup>[如皋]</sup> 交际用语：没有关系。  
-1. 【[没（得）四两](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_sz_lian.md#没（得）四两)】`meh8 sz5 lian3` <sup>[如皋]</sup> 昵指撒娇。源自歇后语“十二个菩萨没得四两重——轻神”。  
-1. 【[没（得）头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_teu.md#没（得）头)】`meh8 teu2` <sup>[如皋]</sup> ① 遇事不经头脑思考。 ② 祸事将临。  
-1. 【[没（得）头绪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_teu_qy.md#没（得）头绪)】`meh8 teu2 qy6` <sup>[如皋]</sup> 无价值：这些事～，不要插手。  
-1. 【[没（得）定数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_tien_shv.md#没（得）定数)】`meh8 tien6 shv5` <sup>[如皋]</sup> 没有定准：天气不正常，他来不来～。  
-1. 【[没（得）洞里𠞖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_ton_lii_gon.md#没（得）洞里𠞖)】`meh8 ton6 lii gon1` <sup>[如皋]</sup> ① 羞愧得无地自容。 ② 怕得无处躲藏。  
-1. 【[没（得）胃口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_vei_keu.md#没（得）胃口)】`meh8 vei6 keu3` <sup>[如皋]</sup> 没有食次，喻没有要求。  
-1. 【[没（得）下落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_xia_lah.md#没（得）下落)】`meh8 xia6 lah8` <sup>[如皋]</sup> 未曾找到。  
-1. 【[没（得）心<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_xien_r.md#没（得）心<sub>儿</sub>)】`meh8 xien1 r` <sup>[如皋]</sup> （所说）没有根据。  
 1. 【[没板子打唻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_baen_zz_da_lae.md#没板子打唻)】`meh8 baen3 zz da3 lae` <sup>[如皋]</sup> 表示不屑于做。  
 1. 【[没本钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_ben_qin.md#没本钱)】`meh8 ben3 qin2` <sup>[兴化]</sup> ① （借）不具备条件：～凶不起来。 ② 男子失去性功能：“……你我是个～的货，纵有神针妙手也无用”。（《梼杌闲评》二二）  
 1. 【[没边<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_bin_r.md#没边<sub>儿</sub>)】`meh8 bin1 r` <sup>[兴化]</sup> 没有根据、不着边际：这些～的话覅乱说。｜你吹牛吹得～，哪个信？  
@@ -560,6 +523,7 @@
 1. 【[没处抓痒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_chv_zhua_ian.md#没处抓痒)】`meh8 chv5 zhua1 ian3` <sup>[兴化]</sup> 不知怎样才好：到处是问题，叫人～。｜“他们踏着，唱着，喊着，锣鼓还敲得震天响哩！真是快活得～！”（兴文《灶神爷的传说》）  
 1. 【[没大不了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_da_beh_lio.md#没大不了)】`meh8 da6 beh7 lio3` <sup>[如东]</sup> ① 没有多少：花几个钱～。 ② 不十分要紧：这个问题～。  
 1. 【[没大没小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_da_meh_xio.md#没大没小)】`meh8 da6 meh8 xio3` ① 不分对象尊卑大小。<sup>\[如东\]</sup>：说话～的。<sup>\[如东\]</sup> ② 晚辈对长辈不礼貌；或长辈在晚辈面前不稳重。<sup>\[东台\]</sup>  
+1. 【[没（得）搭煞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_daeh_shaeh.md#没（得）搭煞)】`meh8 daeh7 shaeh7` <sup>[如皋]</sup> 状素质太低，容易蛮缠，不能搭理。  
 1. 【[没搭煞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_daeh_shaeh.md#没搭煞)】`meh8 daeh7 shaeh7` <small>/məʔ8 tæʔ7 sæʔ7/<sup>兴化</sup>, /məʔ8 tæʔ7 sæʔ7/<sup>泰县</sup></small> ① 不好相处，不能接近。<sup>\[如东\]</sup>：这个人～。<sup>\[如东\]</sup> ② 荒唐、没正经<sup>\[兴化\]</sup>：那老儿～，黑暗里已自和那婆娘摸上了。（《初刻》十六）<sup>\[兴化\]</sup>｜谚曰：四十八，养个～。<sup>\[兴化\]</sup> ③ 无聊、无味<sup>\[兴化\]</sup>：这几天戒香烟，嘴里～。<sup>\[兴化\]</sup> ④ 不值得一提。<sup>\[泰县\]</sup>  
 1. 【[没搭煞头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_daeh_shaeh_teu.md#没搭煞头)】`meh8 daeh7 shaeh7 teu2` <sup>[东台]</sup> 没有交往的价值和必要。  
 1. 【[没搭头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_daeh_teu.md#没搭头)】`meh8 daeh7 teu` <sup>[如东]</sup> 不能交往：这个人～。  
@@ -576,16 +540,26 @@
 1. 【[没得命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_deh_mien.md#没得命)】`meh8 deh7 mien6` <sup>[东台]</sup> ① 表示非常惊讶：～，这个多漂亮！｜～，惹大祸啦！ ② （作补语）指到了极点：心里难过啊～｜他快活咖～。  
 1. 【[没得强头过八十](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_deh_qian_teu_gu_baeh_sheh.md#没得强头过八十)】`meh8 deh7 qian2 teu gu5 baeh7 sheh8` <sup>[东台]</sup> 做坏事的人不得长寿。强头即强盗。  
 1. 【[没得他过的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_deh_ta_gu_dii.md#没得他过的)】`meh8 deh7 ta1 gu5 dii` <sup>[东台]</sup> 形容某人得意忘形忘乎所以的形象。  
+1. 【[没（得）底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_di.md#没（得）底)】`meh8 di3` <sup>[如皋]</sup> ① 不知底细，没有把握。 ② 没有限制：用钱～。  
 1. 【[没底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_di.md#没底)】`meh8 di3` <small>/məʔ8 təi3/<sup>兴化</sup></small> ① 没有数。<sup>\[如东\]</sup>：到底多远，他心里～。<sup>\[如东\]</sup> ② 形容很多，没完没了。<sup>\[东台\]</sup> ③ 没有把握<sup>\[兴化\]</sup>：这件事心里～，不敢下决断。<sup>\[兴化\]</sup> ④ 难以满足<sup>\[兴化\]</sup>：他敲起竹杠来～，你千万要当心。<sup>\[兴化\]</sup>  
+1. 【[没（得）屌事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_dio_shr.md#没（得）屌事)】`meh8 dio3 shr6` <sup>[如皋]</sup> 同“没（得）板子打”❶❷粗鄙话。  
 1. 【[没多点<sub>儿</sub>捞摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_du_din_r_lo_mah.md#没多点<sub>儿</sub>捞摸)】`meh8 du1 din3 r lo2 mah8` <sup>[如皋]</sup> 盈利少。  
 1. 【[没发达](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_faeh_taeh.md#没发达)】`meh8 faeh7 taeh8` <sup>[泰县]</sup> 没出息。  
 1. 【[没法说](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_faeh_shuh.md#没法说)】`meh8 faeh7 shuh7` <sup>[如东]</sup> ① 不好说：这件事～。 ② 说不清楚：一个人出的豁子，我俫～。  
 1. 【[没解着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_gae_zhah.md#没解着)】`meh8 gae3 zhah7` <sup>[东台]</sup> 指木已成舟，或灾难性后果已定局。也作“没改着”。  
+1. 【[没（得）𠵹答](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_gan_daeh.md#没（得）𠵹答)】`meh8 gan1 daeh7` <sup>[如皋]</sup> 不答理，不必答理。  
+1. 【[没（得）根](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_gen.md#没（得）根)】`meh8 gen1` <sup>[如皋]</sup> 没出处、无依靠。  
 1. 【[没根](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_gen.md#没根)】`meh8 gen1` <small>/məʔ8 kən1/<sup>兴化</sup></small> ① 荒唐<sup>\[兴化\]</sup>：他四九心里下河游泳，～哎！<sup>\[兴化\]</sup> ② 无度地<sup>\[兴化\]</sup>：他有啊钱就～的噇。<sup>\[兴化\]</sup> ③ 没有根据<sup>\[泰州\]</sup>：哪个说马上调工资的话是～的，报纸上都登吖唻！<sup>\[泰州\]</sup> ④ 做事违反常理或者道德规范<sup>\[泰州\]</sup>：你俫做这些～的事，要捱人家捣指头的。<sup>\[泰州\]</sup>  
+1. 【[没（得）根底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_gen_di.md#没（得）根底)】`meh8 gen1 di3` <sup>[如皋]</sup> ① 无碍绊，飘浮不定。 ② 来历不明。  
 1. 【[没根没襻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_gen_meh_paen.md#没根没襻)】`meh8 gen1 meh8 paen5` <small>/məʔ8 kən1 məʔ8 pʰɛ̃5/<sup>兴化</sup>, /məʔ8 kəŋ1 məʔ8 pʰɛ̃5/<sup>泰县</sup></small> ① 没有基础，没有关系。<sup>\[如东\]</sup>：毛毛一个人在那许，～的。<sup>\[如东\]</sup> ② 指不明底细又无亲属家庭在当地的<sup>\[兴化\]</sup>：你把这吖大一爿店交把个～的人去管，我不放心。<sup>\[兴化\]</sup> ③ 没有根底。<sup>\[泰县\]</sup>  
 1. 【[没根没襻的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_gen_meh_paen_dii.md#没根没襻的)】`meh8 gen1 meh8 paen5 dii` <sup>[如皋]</sup> ① 没有顾忌：他～自然放手大干。 ② 不可相信：要融资，他～，我不敢信他。  
+1. 【[没（得）觉睏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_go_kuen.md#没（得）觉睏)】`meh8 go5 kuen5` <sup>[如皋]</sup> ① 失眠：他一成多少日子总～，人难过。 ② 欠觉：伢儿夜里烦人，妈妈～｜连续受审，几夜～。  
+1. 【[没（得）拐<sub>儿</sub>打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_guae_r_da.md#没（得）拐<sub>儿</sub>打)】`meh8 guae3 r da3` <sup>[如皋]</sup> 见“没（得）板子打”。  
+1. 【[没（得）关拦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_guaen_laen.md#没（得）关拦)】`meh8 guaen1 laen2` <sup>[如皋]</sup> 口风不紧，易漏秘密。  
+1. 【[没（得）惯头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_guaen_teu.md#没（得）惯头)】`meh8 guaen5 teu2` <sup>[如皋]</sup> 懊悔、叹惜、恣心怜爱得不到回报或无好结果。  
 1. 【[没骨头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_gueh_teu.md#没骨头)】`meh8 gueh7 teu` <sup>[如东]</sup> ① 站的姿势不端正：歪在那许～的样子，多难相。 ② 缺乏教养：这个人～，上吖当。 ③ 变化多端：耷子和～。  
 1. 【[没骨子的伞——撑不开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_gueh_zz_dii_saen_chen_beh_kae.md#没骨子的伞——撑不开)】`meh8 gueh7 zz dii saen3 chen1 beh7 kae1` <sup>[东台]</sup>   
+1. 【[没（得）下巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_ha_ba.md#没（得）下巴)】`meh8 ha6 ba` <sup>[如皋]</sup> 喻说离奇无根据的话，或指人。  
 1. 【[没下巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_ha_ba.md#没下巴)】`meh8 ha6 ba` <sup>[兴化]</sup> 说话随便，胡吹乱扯：他说话～，说一亩田能打两吨粮，哪个信！  
 1. 【[没狠处](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_hen_chv.md#没狠处)】`meh8 hen3 chv5` <sup>[如东]</sup> 没有办法：你对她～。  
 1. 【[没话说](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_hua_shuh.md#没话说)】`meh8 hua6 shuh7` <small>/məʔ8 xua6 suʔ7/<sup>兴化</sup></small> ① 非常满意，没有多余的话好说。<sup>\[如东\]</sup>：这种料子～。<sup>\[如东\]</sup> ② 表示应允或没有问题<sup>\[兴化\]</sup>：这件事包啊我身上，～！<sup>\[兴化\]</sup>｜再难的事交把他办，保证～！<sup>\[兴化\]</sup> ③ 表示关系亲密<sup>\[兴化\]</sup>：他俫两个人好得～。<sup>\[兴化\]</sup>  
@@ -596,6 +570,7 @@
 1. 【[没魂的像](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_huen_dii_qian.md#没魂的像)】`meh8 huen2 dii qian6` <sup>[如皋]</sup> 非常像。  
 1. 【[没药医](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_iah_i.md#没药医)】`meh8 iah8 i1` <sup>[兴化]</sup> ① （喻）品质恶劣，无可挽救：这个小伙～，明朝不晓得怎吖缴梢呢？ ② 令人难以应付：“师父要善将起来，就～……”（《西游记》八十）｜谚曰：老实人欺人～。  
 1. 【[没影子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_ien_zz.md#没影子)】`meh8 ien3 zz` <sup>[如东]</sup> 比喻没有这种事情：箇是～的事。  
+1. 【[没（得）影子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_ien_zz.md#没（得）影子)】`meh8 ien3 zz` <sup>[如皋]</sup> 毫无根据：他说的事情～。  
 1. 【[没应动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_ien_ton.md#没应动)】`meh8 ien5 ton6` <sup>[如东]</sup> 没有反映或答复：说咖几次都～。  
 1. 【[没油没酱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_ieu_meh_jian.md#没油没酱)】`meh8 ieu2 meh8 jian5` <small>/məʔ8 iɤ2 məʔ8 t͡ɕiaŋ5/<sup>兴化</sup></small> ① 烧菜不放油，不放酱，没有滋味。比喻没有情趣。<sup>\[如东\]</sup>：那个地方～的，没甚的人去。<sup>\[如东\]</sup> ② 比喻没有好处。<sup>\[如东\]</sup>：他那许～的，哪个去噢？<sup>\[如东\]</sup> ③ （喻）语言无味<sup>\[兴化\]</sup>：你这个话～的，没得意思。<sup>\[兴化\]</sup>  
 1. 【[没油淡酱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_ieu_taen_jian.md#没油淡酱)】`meh8 ieu2 taen6 jian5` <sup>[泰县]</sup> 没趣味的、无关紧要的。  
@@ -610,12 +585,14 @@
 1. 【[没劲/没得劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_jien.md#没劲/没得劲)】`meh8 jien5` <small>/məʔ8 t͡ɕiŋ5/<sup>泰兴</sup></small> 乏力。或泛指身体不舒服。<sup>\[泰兴\]</sup>：箇几天人～，要歇歇。<sup>\[泰兴\]</sup>  
 1. 【[没节通缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_jih_ton_fon.md#没节通缝)】`meh8 jih7 ton1 fon6` <sup>[东台]</sup> 密无缝隙，无一环节透气：门窗关得～的｜东西囥得～的。  
 1. 【[没交易](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_jio_ieh.md#没交易)】`meh8 jio1 ieh` ① 没事情做，没生意 ② 表示拒绝  
+1. 【[没（得）教门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_jio_men.md#没（得）教门)】`meh8 jio5 men` <sup>[如皋]</sup> 素质差，不懂规矩，未受教育训练。  
 1. 【[没嘴没面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_jy_meh_min.md#没嘴没面)】`meh8 jy3 meh8 min6` <small>/məʔ8 t͡ɕy3 məʔ8 miɪ̃1/<sup>泰县</sup></small> ① 形容不声不响，埋头苦干。<sup>\[东台\]</sup> ② 随和，顺从。<sup>\[泰县\]</sup>  
 1. 【[没嘴说](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_jy_shuh.md#没嘴说)】`meh8 jy3 shuh7` <sup>[如东]</sup> 非常不好，不愿再说：这个问题，我～。  
 1. 【[没壳蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_kah_taen.md#没壳蛋)】`meh8 kah7 taen6` <sup>[东台]</sup> 屁。  
 1. 【[没靠山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_ko_shaen.md#没靠山)】`meh8 ko5 shaen1` <sup>[如东]</sup> 比喻没有后台。  
 1. 【[没孔<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_kon_r.md#没孔<sub>儿</sub>)】`meh8 kon3 r` <sup>[如东]</sup> 没有主意：～想吖。  
 1. 【[没空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_kon.md#没空)】`meh8 kon5` ① 没有时间。<sup>\[如东\]</sup>：～去。<sup>\[如东\]</sup> ② 没有闲暇时间，时间均被占用<sup>\[泰州\]</sup>：他这些时忙吖没得命，上医院都～。<sup>\[泰州\]</sup>  
+1. 【[没（得）㧟<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_kuae_r.md#没（得）㧟<sub>儿</sub>)】`meh8 kuae3 r` <sup>[如皋]</sup> 没有框框儿，没有限度：用钱～，可多可少。  
 1. 【[没坤<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_kuen_r.md#没坤<sub>儿</sub>)】`meh8 kuen1 r` <sup>[如东]</sup> 没有规矩，没有标准：起这种房子，我心里～。  
 1. 【[没捆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_kuen.md#没捆)】`meh8 kuen3` <sup>[兴化]</sup> 没有一定标准：青货～儿，早中晚各是一个价。｜“这骡情管不是你的。不然，你怎么说的都是～的价钱？”（《醒世姻缘传》八八）  
 1. 【[没捆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_kuen_r.md#没捆<sub>儿</sub>)】`meh8 kuen3 r` <sup>[泰县]</sup> 没有标准：伙食费每月多少～。  
@@ -623,13 +600,17 @@
 1. 【[没裤带<sub>儿</sub>的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_kv_dae_r_dii.md#没裤带<sub>儿</sub>的)】`meh8 kv5 dae5 r dii` 形容女性行为放荡不正经。  
 1. 【[没裤带子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_kv_dae_zz.md#没裤带子)】`meh8 kv5 dae5 zz` <sup>[如皋]</sup> 指性关系混乱的女人。  
 1. 【[没裤腰带子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_kv_io_dae_zz.md#没裤腰带子)】`meh8 kv5 io1 dae5 zz` <sup>[泰县]</sup> 乱搞两性关系的妇女。  
+1. 【[没（得）来头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_lae_teu.md#没（得）来头)】`meh8 lae2 teu` <sup>[如皋]</sup> ① 无正当来源：～的货不能买，～的钱不能赚。 ② 玩得不满意，无趣。  
 1. 【[没撂摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_lio_mah.md#没撂摸)】`meh8 lio6 mah` <sup>[兴化]</sup> 情绪低落，百无聊赖：才退休家来，生活真的～。｜我戒烟那阵子才～吤！  
 1. 【[没撂摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_lio_mah.md#没撂摸)】`meh8 lio6 mah-ma` <sup>[东台]</sup> 没有食欲：我今吖嘴里～。  
+1. 【[没（得）捞摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_lo_mah.md#没（得）捞摸)】`meh8 lo2 mah` <sup>[如皋]</sup> ① 无利可图。 ② 质差：这种布～。  
+1. 【[没（得）牢坐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_lo_cu.md#没（得）牢坐)】`meh8 lo2 cu6` <sup>[如皋]</sup> 同“没（得）板子打”❸。没价值，不值得。  
 1. 【[没牢坐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_lo_cu.md#没牢坐)】`meh8 lo2 cu6` ① 用于表示否定。类似于普通话的“吃饱了撑的”。又语“没监坐”。 ② 比喻没有事做。<sup>\[如东\]</sup>：～，他上街去啊。<sup>\[如东\]</sup>  
 1. 【[没门<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_men_r.md#没门<sub>儿</sub>)】`meh8 men2 r` <small>/məʔ8 mən2 ɚ/<sup>兴化</sup></small> ① 没有办法。<sup>\[如东\]</sup> ② 没有门路、没有办法<sup>\[兴化\]</sup>：打官司的事，我～。<sup>\[兴化\]</sup> ③ 表示不可能<sup>\[兴化\]</sup>：你这种水平去考公务员怕～。<sup>\[兴化\]</sup>｜他想一人独占遗产，～。<sup>\[兴化\]</sup>  
 1. 【[没名没姓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_mien_meh_xien.md#没名没姓)】`meh8 mien2 meh8 xien5` <sup>[兴化]</sup> 对人的情况了解甚少：这个人～的到哪块去找？｜“～，累我问了好些人，都没有人会知道……”（《广陵薄》七十）  
 1. 【[没名堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_mien_tan.md#没名堂)】`meh8 mien2 tan2` <sup>[如东]</sup> ① 没有本事：这个人～。 ② 没有希望，没有结果：这次出去～。  
 1. 【[没命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_mien.md#没命)】`meh8 mien6` <sup>[如东]</sup> ① 没有性命了。比喻非常危险：差点儿～。 ② 拼命：害啊我～的跑。  
+1. 【[没（得）命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_mien.md#没（得）命)】`meh8 mien6` <sup>[如皋]</sup> 程度副词：两个人好得～！见“没（得）魂”。  
 1. 【[没毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_mo.md#没毛)】`meh8 mo2` <sup>[如皋]</sup> 有命～。指受足伤、受重伤。  
 1. 【[没毛畜牲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_mo_choh_shen.md#没毛畜牲)】`meh8 mo2 choh7 shen` <sup>[如皋]</sup> 詈语。指人面兽心、人身兽行的人。  
 1. 【[没脉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_moh.md#没脉)】`meh8 moh8` <sup>[泰州]</sup> 比喻人做事胆大妄为，取其“要死”之义：他这个人做事太～，竟然同警察动手。  
@@ -643,7 +624,9 @@
 1. 【[没娘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_nian_r.md#没娘<sub>儿</sub>)】`meh8 nian2 r` <sup>[如皋]</sup> ① 离娘早，苦。 ② 缺乏教养或个性有缺陷。  
 1. 【[没脑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_no_zz.md#没脑子)】`meh8 no3 zz` <sup>[如东]</sup> 没有或缺乏思考能力：这个人～，怎吖好这吖做？  
 1. 【[没皮/没得皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_pi.md#没皮/没得皮)】`meh8 pi2` <small>/məʔ8 pʰi2/<sup>兴化</sup>, /məʔ8 pʰʝ2/<sup>如皋</sup>, /məʔ8 pʰɿ2/<sup>泰县</sup></small> ① 遭受严重后果、结局可怕<sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[如皋\]</sup>：你在外头胡来，捱老头子晓得就～啊。<sup>\[兴化\]</sup>｜你把人家打啊伤吖唻，这下子～唻，看你怎么交待。<sup>\[泰州\]</sup>｜这小伙还不曾吃过苦头，甚的～的事他都敢做。<sup>\[泰州\]</sup>｜在外头惹祸，捱你家老子晓得咖，你就～啊。<sup>\[如皋\]</sup> ② 不知羞耻的人。<sup>\[泰县\]</sup>  
+1. 【[没（得）皮血](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_pi_xiuh.md#没（得）皮血)】`meh8 pi2 xiuh7` <sup>[如皋]</sup> 没有血性，羞耻心弱：他～，捱人家骂得那样子，还是同人家媚啊媚的。  
 1. 【[没屁放](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_pi_fan.md#没屁放)】`meh8 pi5 fan5` <sup>[如东]</sup> 比喻没有话说：这次他来～。  
+1. 【[没（得）屁放](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_pi_fan.md#没（得）屁放)】`meh8 pi5 fan5` <sup>[如皋]</sup> ① 夸好，无可挑剔。 ② 责不适时的插话：你～找话说。  
 1. 【[没屁股急](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_pi_gu_jieh.md#没屁股急)】`meh8 pi5 gu jieh7` <sup>[兴化]</sup> 形容人坐不住，闲不下：他这个人～，叫他看看书根本办不到。  
 1. 【[没屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_pi_gu.md#没屁股)】`meh8 pi5 gu3` <sup>[泰县]</sup> 坐不往的人。  
 1. 【[没屁眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_pi_ngaen.md#没屁眼)】`meh8 pi5 ngaen3` <sup>[兴化]</sup> ① 缺德、喜欢恶作剧：这个人～，专拿老实人开心。 ② 做事不顾后果：他为药老鼠，连猫啊狗的全药杀咖，真是～。  
@@ -651,16 +634,20 @@
 1. 【[没鼻子没脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_pieh_zz_meh_lin.md#没鼻子没脸)】`meh8 pieh8 zz meh8 lin3` <sup>[兴化]</sup> 形容不顾情面地：老王把老吴～的熊吖一顿。  
 1. 【[没病没冲的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_pien_meh_chon_dii.md#没病没冲的)】`meh8 pien6 meh8 chon5 dii` <sup>[东台]</sup> 身体健康，什么病也没有。  
 1. 【[没谱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_pv.md#没谱)】`meh8 pv3` <sup>[泰州]</sup> 说话、做事没有标准：他这个人做事有点儿～，你要经常提醒他。  
+1. 【[没（得）气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_qi.md#没（得）气)】`meh8 qi5` <sup>[如皋]</sup> 不生气，气恼消除。  
 1. 【[没轻没重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_qien_meh_chon.md#没轻没重)】`meh8 qien1 meh8 chon6` <sup>[如东]</sup> 不知轻重：说话～的。  
 1. 【[没钱打肉吃，睡觉养精神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_qin_da_roh_qieh_shuei_go_ian_jien_shen.md#没钱打肉吃，睡觉养精神)】`meh8 qin2 da3 roh8 qieh7 shuei5 go5 ian3 jien1 shen` <sup>[东台]</sup> 有养生道理，也是穷人的自我解嘲。  
 1. 【[没钱过河——远转](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_qin_gu_hu_iun_zhun.md#没钱过河——远转)】`meh8 qin2 gu5 hu2 iun3 zhun5` <sup>[东台]</sup>   
 1. 【[没跷没搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_qio_meh_daeh.md#没跷没搭)】`meh8 qio1 meh8 daeh7` <sup>[兴化]</sup> 不严肃，失去尊严：他喜欢同小的～的，没得哪个怕他。  
+1. 【[没（得）窍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_qio.md#没（得）窍)】`meh8 qio5` <sup>[如皋]</sup> 詈或昵语，又称没屁眼，指做刁钻害人之事：这小伙专做～的事！｜你不要～，你要受报应的！  
 1. 【[没窍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_qio.md#没窍)】`meh8 qio5` <sup>[东台]</sup> ① 没意思：这文章人～。 ② 没诀窍。这戏淡，～。  
 1. 【[没蛆嚼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_qy_qiah.md#没蛆嚼)】`meh8 qy1 qiah8` <sup>[如东]</sup> 比喻没话可说：就是他来也～。  
 1. 【[没趣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_qy.md#没趣)】`meh8 qy5` ① 不好玩。没有意思。<sup>\[如东\]</sup>：一个人蹾吖在那块～。<sup>\[如东\]</sup> ② 没有意思，因失面子而觉得难堪<sup>\[泰州\]</sup>：人家又不睬他，他跑啊去还不是自讨～。<sup>\[泰州\]</sup>  
 1. 【[没趣巴巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_qy_ba_ba.md#没趣巴巴)】`meh8 qy5 ba1 ba1` <sup>[如东]</sup> 没有多少情越：来啊这吖几个人，～的。  
+1. 【[没（得）日子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_rih_zz.md#没（得）日子)】`meh8 rih8 zz` <sup>[如皋]</sup> 时间紧迫，没有回旋的日子。  
 1. 【[没日子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_rih_zz.md#没日子)】`meh8 rih8 zz` <sup>[兴化]</sup> （引）做事不留后梢，由着性子来：～吃｜～赌｜～喝（酒）。  
 1. 【[没散<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_saen_r.md#没散<sub>儿</sub>)】`meh8 saen5 r` <sup>[泰县]</sup> 最起码：这本书～要得三块钱。  
+1. 【[没（得）赦数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_sha_shv.md#没（得）赦数)】`meh8 sha5 shv5` <sup>[如皋]</sup> 放任，无限制。  
 1. 【[没赦数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_sha_shv.md#没赦数)】`meh8 sha5 shv5` <sup>[东台]</sup> 言行随便，不计后果。  
 1. 【[没上没下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_shan_meh_xia.md#没上没下)】`meh8 shan6 meh8 xia6` <sup>[兴化]</sup> ① 不分尊卑长上：他～的，太不懂规矩。 ② 对身体和衣物上下、内外不分：他拿脚布洗脸，真是～的。  
 1. 【[没伸直](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_shen_cheh.md#没伸直)】`meh8 shen1 cheh` <sup>[泰县]</sup> 没有发展的余地。  
@@ -668,14 +655,21 @@
 1. 【[没甚的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_shen_dii.md#没甚的)】`meh8 shen6 dii` <sup>[如东]</sup> 表示还可以的意思：这样整理～。  
 1. 【[没甚的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_shen_nii.md#没甚的)】`meh8 shen6 nii` 很好，非常好，不错  
 1. 【[没手抓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_sheu_zhua.md#没手抓)】`meh8 sheu3 zhua1` <sup>[兴化]</sup> 形容问题多，头绪复杂：这块乱成一团，让人～。  
+1. 【[没（得）手抓痒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_sheu_zhua_ian.md#没（得）手抓痒)】`meh8 sheu3 zhua1 ian3` <sup>[如皋]</sup> 忙乱，难以应付复杂局面。  
 1. 【[没手抓痒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_sheu_zhua_ian.md#没手抓痒)】`meh8 sheu3 zhua1 ian3` <small>/məʔ8 sɤɯ3 t͡ɕya1 iɑŋ3/<sup>泰县</sup></small> ① 比喻无从下手。<sup>\[如东\]</sup>：碰上这个问题，真的是～。<sup>\[如东\]</sup> ② 形容忙乱得不可开交。<sup>\[东台\]</sup> ③ 形容不知所措，没法子。<sup>\[东台\]</sup> ④ 无从下手。<sup>\[泰县\]</sup>  
+1. 【[没（得）事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_shr.md#没（得）事)】`meh8 shr6` <sup>[如皋]</sup> ① 清闲。 ② 答语，没关系，不要紧。  
 1. 【[没事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_shr.md#没事)】`meh8 shr6` <small>/məʔ8 sɿ6/<sup>兴化</sup></small> ① 别人对自己表示感谢时，可以说“没事”。<sup>\[如东\]</sup> ② 不要紧；没关系；没问题。<sup>\[东台\]</sup><sup>\[如东\]</sup><sup>\[泰州\]</sup>：老板你不发年终奖，我～噢，怕就怕车间里工人有意见。<sup>\[泰州\]</sup> ③ 无端、无缘无故<sup>\[兴化\]</sup>：他好好的，～你又来找甚的麻烦？<sup>\[兴化\]</sup> ④ 死亡或完结的隐语<sup>\[兴化\]</sup>：夏老头～啊，下半夜断的气。<sup>\[兴化\]</sup>｜“……偏偏慕枚又先死了，这一家人只怕从此～的了。”（《二十年目睹之怪现状》三二）<sup>\[兴化\]</sup> ⑤ 没有发生变故或者意外<sup>\[泰州\]</sup> ⑥ 发生的事已经处理结束<sup>\[泰州\]</sup>：他的病已经好啊，现在～唻。<sup>\[泰州\]</sup>  
+1. 【[没（得）事啊啦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_shr_a_la.md#没（得）事啊啦)】`meh8 shr6 a la` <sup>[如皋]</sup> ① 风波已过，平静了：案子查清吖，他～。 ② 指死了：枪一响，这个人就～。  
 1. 【[没事找事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_shr_zho_shr.md#没事找事)】`meh8 shr6 zho3 shr6` <sup>[兴化]</sup> 自找麻烦、自寻烦恼：你把好好的手机拆下来望望，真是～。｜“我见了儿子，怕他说我～……”（马春阳《告状》）  
+1. 【[没（得）嗍味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_shuah_vei.md#没（得）嗍味)】`meh8 shuah7 vei6` <sup>[如皋]</sup> 见“没（得）捞摸”。  
 1. 【[没说法](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_shuh_faeh.md#没说法)】`meh8 shuh7 faeh7` <sup>[如东]</sup> ① 还没有把道理说出来：至今还～。 ② 不好说：他俫夫妻之间的事，我俫～。 ③ 没有办法说出道理来：像这种事情，他俫～。  
 1. 【[没说头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_shuh_teu.md#没说头)】`meh8 shuh7 teu` <sup>[东台]</sup> 不值一提。  
+1. 【[没（得）说相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_shuh_xian.md#没（得）说相)】`meh8 shuh7 xian5` <sup>[如皋]</sup> 交际用语：没有关系。  
 1. 【[没说相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_shuh_xian.md#没说相)】`meh8 shuh7 xian5` <small>/məʔ8 suʔ7 ɕiaŋ5/<sup>兴化</sup>, /məʔ8 sʊʔ7 ɕiɑŋ5/<sup>泰县</sup></small> ① 没有什么道理说出来。<sup>\[如东\]</sup> ② 不成问题<sup>\[兴化\]</sup>：我俫跟你老～，你自己看吖办吧。<sup>\[兴化\]</sup> ③ 没有关系。<sup>\[泰县\]</sup>  
 1. 【[没数/没得数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_shv.md#没数/没得数)】`meh8 shv5` <small>/məʔ8 su5/<sup>兴化</sup>, /məʔ8 su5/<sup>如皋</sup></small> ① 失去知觉<sup>\[兴化\]</sup>：他下肢麻木，掐也～。<sup>\[兴化\]</sup> ② 荒唐、没准儿<sup>\[兴化\]</sup>：他这个人～，大冷的天穿一件羊毛衫就出去啊！<sup>\[兴化\]</sup> ③ 没有掌握情况、底细<sup>\[泰州\]</sup><sup>\[如东\]</sup>：语文到底能考多少分，他心里～。<sup>\[泰州\]</sup>｜项目的进展，他自己心里也没数。<sup>\[泰州\]</sup>｜这项工程怎吖做，他心里～。<sup>\[如东\]</sup> ④ 没有分寸<sup>\[泰州\]</sup><sup>\[如皋\]</sup>：你同厂长说话就这个态度啊？你也太～唻。<sup>\[泰州\]</sup>｜他手脚重，打起伢儿来～。<sup>\[如皋\]</sup> ⑤ 失去辨别能力<sup>\[泰州\]</sup>：他是个梦人儿，你对他再怎吖好，他心里也～。<sup>\[泰州\]</sup> ⑥ 无把握≈“没得底”。<sup>\[如皋\]</sup>  
+1. 【[没（得）四两](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_sz_lian.md#没（得）四两)】`meh8 sz5 lian3` <sup>[如皋]</sup> 昵指撒娇。源自歇后语“十二个菩萨没得四两重——轻神”。  
 1. 【[没谈头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_taen_teu.md#没谈头)】`meh8 taen2 teu2` <sup>[兴化]</sup> ① 没有谈的必要：他是死猪不怕开水烫，～。 ② 说不上口，说也没有意思：跟这种又霉又酸的人～。  
+1. 【[没（得）头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_teu.md#没（得）头)】`meh8 teu2` <sup>[如皋]</sup> ① 遇事不经头脑思考。 ② 祸事将临。  
 1. 【[没头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_teu.md#没头)】`meh8 teu2` <small>/məʔ8 tʰɤ2/<sup>兴化</sup></small> ① 形容麻木不仁<sup>\[兴化\]</sup>：这个人～，这样的事居然也敢做。<sup>\[兴化\]</sup> ② 形容粗心大意<sup>\[兴化\]</sup>：他真～，出门办事连身份证都弄忑咖咾。<sup>\[兴化\]</sup> ③ 做事粗心<sup>\[泰州\]</sup>：你说他哿是～，出咖两趟差就少啊两回东西。<sup>\[泰州\]</sup>｜你也确实～，上头发的文件就能随便乱丢啊。<sup>\[泰州\]</sup>  
 1. 【[没头苍蝇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_teu_can_ien.md#没头苍蝇)】`meh8 teu2 can1 ien` <small>/məʔ8 tʰɤ2 t͡sʰaŋ1 in/<sup>兴化</sup>, /məʔ8 tʰei2 t͡sʰã1 iəŋ/<sup>如皋</sup></small> ① 苍蝇失去头，翅膀乱飞。比喻瞎闯乱碰。<sup>\[如东\]</sup> ② 喻无中心、乱哄、乱干。<sup>\[如皋\]</sup> ③ ［喻］做事没主张，没目标。<sup>\[东台\]</sup> ④ （喻）无明确目标，到处乱窜<sup>\[兴化\]</sup>：他一天到晚像个～乱拱。<sup>\[兴化\]</sup>｜“好呀！早间忙得像～似的，逼着闹着……”（《广陵潮》六八）<sup>\[兴化\]</sup>  
 1. 【[没头打影](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_teu_da_ien.md#没头打影)】`meh8 teu2 da3 ien3` <sup>[东台]</sup> 指毫无根据地乱说一气。  
@@ -689,17 +683,23 @@
 1. 【[没头没脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_teu_meh_lin.md#没头没脸)】`meh8 teu2 meh8 lin3` <sup>[兴化]</sup> 连头盖脸地：他睡啊床上，拿一条被把自己～的盖起来。｜他把小王～的数落咖一顿。  
 1. 【[没头没脸的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_teu_meh_lin.md#没头没脸的)】`meh8 teu2 meh8 lin3 dii` <sup>[如皋]</sup> 不分头脸：打起伢儿来～的瞎打。  
 1. 【[没头没脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_teu_meh_no.md#没头没脑)】`meh8 teu2 meh8 no3` <sup>[兴化]</sup> ① 茫无头绪：这～的几个字，哪个晓得他甚的意思？ ② 不问情由：（素姐）一手将狄希陈采番在地，拾起一个小板凳来，～的就打。（《醒世姻缘传》七六）  
+1. 【[没（得）头绪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_teu_qy.md#没（得）头绪)】`meh8 teu2 qy6` <sup>[如皋]</sup> 无价值：这些事～，不要插手。  
 1. 【[没头绪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_teu_qy.md#没头绪)】`meh8 teu2 qy6` ① 没有办法。<sup>\[如东\]</sup>：黄林明～。<sup>\[如东\]</sup> ② 没有靠山。<sup>\[如东\]</sup>：这个人～，吃不开。<sup>\[如东\]</sup> ③ 没水平，没本事，或者指某人地位低，某物质量差。<sup>\[东台\]</sup>  
 1. 【[没头神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_teu_shen.md#没头神)】`meh8 teu2 shen2` <sup>[兴化]</sup> （喻）行为葬撞，无所顾忌的市井无赖：（张保）带了这几个～，吃得半醉……（《水浒传》四四）也作“没头鬼”。  
 1. 【[没头断](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_teu_tun.md#没头断)】`meh8 teu2 tun6` <sup>[泰县]</sup> 淹水里不见头顶：落咖水，淹得个～。  
+1. 【[没（得）定数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_tien_shv.md#没（得）定数)】`meh8 tien6 shv5` <sup>[如皋]</sup> 没有定准：天气不正常，他来不来～。  
+1. 【[没（得）洞里𠞖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_ton_lii_gon.md#没（得）洞里𠞖)】`meh8 ton6 lii gon1` <sup>[如皋]</sup> ① 羞愧得无地自容。 ② 怕得无处躲藏。  
+1. 【[没（得）胃口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_vei_keu.md#没（得）胃口)】`meh8 vei6 keu3` <sup>[如皋]</sup> 没有食次，喻没有要求。  
 1. 【[没戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_xi.md#没戏)】`meh8 xi5` <small>/məʔ8 ɕi5/<sup>兴化</sup></small> ① 没有指望<sup>\[兴化\]</sup>：他俫两个的婚事～啊！<sup>\[兴化\]</sup>｜那笔交易黄吖，～唱吖。<sup>\[兴化\]</sup> ② 事情没有希望<sup>\[泰州\]</sup>：小王提拔的事像是～唻。<sup>\[泰州\]</sup>｜他这个成绩想上南京大学肯定是～。<sup>\[泰州\]</sup>  
 1. 【[没戏唱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_xi_chan.md#没戏唱)】`meh8 xi5 chan5` <sup>[如东]</sup> ① 没有希望：这个问题～。 ② 没有事做：现在～吖。  
 1. 【[没戏唱吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_xi_chan_nga.md#没戏唱吖)】`meh8 xi5 chan5 nga` <sup>[如皋]</sup> 喻关键处活动中止，他家老头儿一死，全家就～。  
 1. 【[没霞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_xia.md#没霞)】`meh8 xia2` <sup>[兴化]</sup> 没什么了不起：那个饭店装璜不丑，其实酒菜、服务也～。‖也说“没霞光”。  
+1. 【[没（得）下落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_xia_lah.md#没（得）下落)】`meh8 xia6 lah8` <sup>[如皋]</sup> 未曾找到。  
 1. 【[没相干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_xian_gun.md#没相干)】`meh8 xian1 gun1` <small>/məʔ8 ɕiaŋ1 kũ1/<sup>兴化</sup></small> ① 没有关系。<sup>\[如东\]</sup>：这件事跟他～。<sup>\[如东\]</sup> ② 没有结果。<sup>\[如东\]</sup>：去啊几次都是～。<sup>\[如东\]</sup> ③ 互相之间没有关连<sup>\[兴化\]</sup>：与你～的事少管为好。<sup>\[兴化\]</sup>｜所以富时也不来劝戒，穷时也不来资助，只像～的一般。（《二刻》二二）<sup>\[兴化\]</sup>  
 1. 【[没相管](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_xian_gun.md#没相管)】`meh8 xian1 gun3` <small>/məʔ8 ɕiã1 kʊ̃3/<sup>如皋</sup>, /məʔ8 ɕiɑŋ1 kõ3/<sup>泰县</sup></small> ① 所传无据，不可信。<sup>\[如皋\]</sup> ② 胡来：你不要做～的事。<sup>\[如皋\]</sup> ③ 不可靠：他做事～，不要指望他。<sup>\[如皋\]</sup> ④ 不相关，无所谓。<sup>\[泰县\]</sup>  
 1. 【[没相管](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_xian_gun.md#没相管)】`meh8 xian5 gun3` <sup>[东台]</sup> ① 没有这回事。 ② 不正规，不上档次。  
 1. 【[没心大肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_xien_da_chan.md#没心大肠)】`meh8 xien1 da6 chan2` <sup>[兴化]</sup> 没有心思、缺乏兴趣：她从城里到家，浑身发软，～的，连晚饭也不想吃。  
+1. 【[没（得）心<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_xien_r.md#没（得）心<sub>儿</sub>)】`meh8 xien1 r` <sup>[如皋]</sup> （所说）没有根据。  
 1. 【[没心<sub>儿</sub>秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_xien_r_chen.md#没心<sub>儿</sub>秤)】`meh8 xien1 r chen5` <sup>[泰县]</sup> 没有心计。  
 1. 【[没星秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_xien_chen.md#没星秤)】`meh8 xien1 chen5` <sup>[兴化]</sup> 形容没心计、缺主见的人：他东说东好，西说西好，是个～。  
 1. 【[没形没数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_xien_meh_shv.md#没形没数)】`meh8 xien2 meh8 shv5` <sup>[东台]</sup> 说话办事缺乏理智，有过头或用力过猛之嫌。  
@@ -867,8 +867,8 @@
 1. 【[焖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men.md#焖)】`men6` <sup>[东台]</sup> 烹调方法之一，加少量的水，盖起来用文火慢慢炖熟。  
 1. 【[焖钵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_buh.md#焖钵)】`men6 buh7` <sup>[兴化]</sup> 有盖的砂锅：煤炉上顿吖一只大～，里面煨的老母鸡。  
 1. 【[璺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men.md#璺)】`men6` <small>/mən6/<sup>兴化</sup>, /məŋ1/<sup>如皋</sup></small> ① 物体上的裂纹。<sup>\[如东\]</sup>：水缸裂～。<sup>\[如东\]</sup> ② 器物裂纹：碗裂咖～、墙上有条～。<sup>\[如皋\]</sup> ③ 裂纹<sup>\[东台\]</sup>：一不小心，把细瓷花瓶碰吖条～。歇后语<sup>\[东台\]</sup>｜打破砂锅——璺（问）到底。<sup>\[东台\]</sup> ④ 陶瓷器上的裂纹：花瓶上有个～。<sup>\[兴化\]</sup> ⑤ （借）泛指裂痕：两个人这吖一闹，感情上有啊～。<sup>\[兴化\]</sup> ⑥ 物体表面裂纹<sup>\[泰州\]</sup>：房子墙上有啊～，住啊里头恐怕不安全。<sup>\[泰州\]</sup>  
-1. 【[闷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men.md#闷)】`men6` <sup>[兴化]</sup> 吃哑巴亏：吃～｜他到外地打交道，吃咖人家一个～。  
 1. 【[闷（㵍）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men.md#闷（㵍）)】`men6` <sup>[如皋]</sup> 因阴暗潮湿而腐朽：木器家伙捱～掉啊；丝绸一～就没用。  
+1. 【[闷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men.md#闷)】`men6` <sup>[兴化]</sup> 吃哑巴亏：吃～｜他到外地打交道，吃咖人家一个～。  
 1. 【[闷蹩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_bih_zz.md#闷蹩子)】`men6 bih7 zz` <sup>[兴化]</sup> 受人羞辱后不便发作：黄迷马本来理亏，只好吃了一个～。（兴文：《成梅叔化盗为良》）也说“闷鼻子”。  
 1. 【[闷仓货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_can_hu.md#闷仓货)】`men6 can1 hu5` <sup>[东台]</sup> 滞销，很难卖出去的商品。  
 1. 【[闷痴闷痴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_chr_men_chr_dii.md#闷痴闷痴的)】`men6 chr1 men6 chr1 dii` <sup>[东台]</sup> 同“闷声瘕气的”。  
@@ -1127,7 +1127,6 @@
 1. 【[篾丝淘箩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mih_sz_to_lu.md#篾丝淘箩)】`mih8 sz1 to2 lu` <sup>[东台]</sup> 用毛竹片匝口，用篾丝编成的淘米的器具。  
 1. 【[篾箱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mih_xian.md#篾箱)】`mih8 xian1` <small>/miʔ8 ɕiã1/<sup>如皋</sup></small> ① 竹篾编制的箱子，体积小，可以携带旅行。<sup>\[如东\]</sup> ② 以毛竹片为架，篾编面层做成的箱子。<sup>\[如皋\]</sup>  
 1. 【[篾子𡊄箕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mih_zz_fen_ji.md#篾子𡊄箕)】`mih8 zz fen5 ji1` <sup>[如皋]</sup> 用粗竹篾编的挑泥、挑灰的箕形盛器，有绳系。一副两只。  
-1. 【[棉（花）条<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_tio_r.md#棉（花）条<sub>儿</sub>)】`min2 tio2 r` <sup>[如皋]</sup> 旧时手工纺棉纱，须先将絮棉搓成条状，谓之。  
 1. 【[棉𧘸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_den_zz.md#棉𧘸子)】`min2 den5 zz` <small>/mĩ2 təŋ5 t͡sɿ/<sup>如皋</sup>, /miɪ̃2 təŋ5 t͡se/<sup>泰县</sup></small> ① 棉袄。<sup>\[如东\]</sup> ② 棉袄。<sup>\[如皋\]</sup> ③ 棉袄，也叫棉布宝（见“布宝儿”）<sup>\[东台\]</sup>：天冷吖，快穿～。<sup>\[东台\]</sup> ④ 棉袄。<sup>\[泰县\]</sup>  
 1. 【[棉鞋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hae.md#棉鞋)】`min2 hae2` <sup>[如东]</sup> 鞋的一种。鞋帮内絮棉花，有保温作用。  
 1. 【[棉花包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hua_bo.md#棉花包)】`min2 hua bo1` <sup>[兴化]</sup> （喻）旧称有钱的女人：小黄找啊一个富婆，一头跌进吖～。  
@@ -1150,6 +1149,7 @@
 1. 【[棉仁饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_ren_bien.md#棉仁饼)】`min2 ren2 bien3` <sup>[如东]</sup> 棉籽榨油后的渣滓，可作饲料和肥料。  
 1. 【[棉胎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_tae.md#棉胎)】`min2 tae1` <sup>[如东]</sup> 以棉花为原料，经过蓬松加工，做成长方形块状，具有保暖作用，这种棉花称棉胎。  
 1. 【[棉田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_tin.md#棉田)】`min2 tin2` <sup>[如东]</sup> 种植棉花的田。  
+1. 【[棉（花）条<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_tio_r.md#棉（花）条<sub>儿</sub>)】`min2 tio2 r` <sup>[如皋]</sup> 旧时手工纺棉纱，须先将絮棉搓成条状，谓之。  
 1. 【[棉袜子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_vaeh_zz.md#棉袜子)】`min2 vaeh8 zz` <sup>[如东]</sup> 用棉线织成的袜子，称棉袜子。  
 1. 【[棉线店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_xin_din.md#棉线店)】`min2 xin5 din5` <sup>[如皋]</sup> 经营棉线的店铺（多数兼作坊，前店后作）。  
 1. 【[棉线坊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_xin_fan.md#棉线坊)】`min2 xin5 fan1` <sup>[如皋]</sup> 专门生产棉线的作坊。  

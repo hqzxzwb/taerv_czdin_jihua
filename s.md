@@ -1,7 +1,6 @@
 # 音序检索
 **[A](./a.md) | [B](./b.md) | [C](./c.md) | [D](./d.md) | [E](./e.md) | [F](./f.md) | [G](./g.md) | [H](./h.md) | [I](./i.md) | [J](./j.md) | [K](./k.md) | [L](./l.md) | [M](./m.md) | [N](./n.md) | [O](./o.md) | [P](./p.md) | [Q](./q.md) | [R](./r.md) | [S](./s.md) | [T](./t.md) | [U](./u.md) | [V](./v.md) | [X](./x.md) | [Y](./y.md) | [Z](./z.md)**  
 ## S
-1. 【[……续咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_ga.md#……续咖)】`soh7 ga` <sup>[东台]</sup> 接在动词后面，表示持续进行：相～（看住｜看紧）｜说～跑～（边说边走）。  
 1. 【[唦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa.md#唦)】`sa` <small>/sa/<sup>兴化</sup></small> ① 语气词<sup>\[兴化\]</sup>：用于祈使句末尾<sup>\[兴化\]</sup>｜你快来～！<sup>\[兴化\]</sup>｜覅急，听我慢慢说一！<sup>\[兴化\]</sup> ② 在句中停顿处，表示比较强烈的语气<sup>\[兴化\]</sup>：快跑～！车子要开啦！<sup>\[兴化\]</sup> ③ 在句末表示疑问语气<sup>\[兴化\]</sup>：他的身世你哿清楚～？<sup>\[兴化\]</sup> ④ 语气词，表示轻微责备<sup>\[泰州\]</sup>：快点ㄦ说～。<sup>\[泰州\]</sup>｜教你不要说，你说咖做甚的～。<sup>\[泰州\]</sup> ⑤ 表示略微疑问<sup>\[泰州\]</sup>：不听你的～，你肯定不高兴，听你的～，就要得罪他。<sup>\[泰州\]</sup>  
 1. 【[生活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa_hu.md#生活)】`sa1 hu5` <sup>[如皋]</sup> 吴语词，苦头：吃～。  
 1. 【[生活客人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa_hu_keh_ren.md#生活客人)】`sa1 hu5 keh7 ren` <sup>[如皋]</sup> 经常因调皮捣蛋而挨打、吃苦头的少年人。  
@@ -847,7 +846,6 @@
 1. 【[上茅缸放屁——大澎缸（唪𠵹）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_mo_gan_fan.md#上茅缸放屁——大澎缸（唪𠵹）)】`shan6 mo2 gan1 fan5 pi5 da6 pon1 gan1 （pon6 gan1）` <sup>[东台]</sup>   
 1. 【[上茅缸吃瓜子——少进多出](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_mo_gan_qieh.md#上茅缸吃瓜子——少进多出)】`shan6 mo2 gan1 qieh7 gua1 zz3 sho3 jien5 du1 chueh7` <sup>[东台]</sup>   
 1. 【[上毷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_mo.md#上毷)】`shan6 mo6` <small>/saŋ6 mɔ6/<sup>兴化</sup>, /sã1 mɔ1/<sup>如皋</sup></small> ① 发霉，长出霉菌菌丝。“毷”为借字。<sup>\[如皋\]</sup> ② 生了霉菌。（见“毷”）<sup>\[东台\]</sup> ③ 生霉<sup>\[兴化\]</sup>：梅雨天气，吃物东西容易～。<sup>\[兴化\]</sup>  
-1. 【[上吖（……）水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_nga_shuei.md#上吖（……）水)】`shan6 nga shuei3` <sup>[如皋]</sup> 上当吃亏：这件衣裳买啊～；他“上吖人家的水”，还说人家好！  
 1. 【[上吖八字台](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_nga_baeh_cz_tae.md#上吖八字台)】`shan6 nga baeh7 cz6 tae2` <sup>[东台]</sup> ［喻］某件事已正式列入议程，不能退缩更改：这个项目明吖开工，已经～，非搞好不可！  
 1. 【[上吖紧阵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_nga_jien_chen_zz.md#上吖紧阵子)】`shan6 nga jien3 chen6 zz` <sup>[东台]</sup> 原指孕妇临产时的阵痛，［喻］某项工作进入紧要关头。  
 1. 【[上吖窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_nga_ku.md#上吖窠)】`shan6 nga ku1` <sup>[如皋]</sup> 配种后怀孕了。  
@@ -856,6 +854,7 @@
 1. 【[上吖那世里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_nga_lu_shr_lii.md#上吖那世里)】`shan6 nga lu5 shr5 lii` <sup>[如皋]</sup> 死了的讳称。  
 1. 【[上吖食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_nga_sheh.md#上吖食)】`shan6 nga sheh8` <sup>[如皋]</sup> 康复后食欲旺，吃得香，吃得多。  
 1. 【[上吖手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_nga_sheu.md#上吖手)】`shan6 nga sheu3` <sup>[如皋]</sup> ① 到了手中：～的钱不要也是呆。 ② 熟悉了、掌握了：这门课程我已摸咖～。 ③ 顺手、顺利：这种货不难做，已经做啊～。  
+1. 【[上吖（……）水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_nga_shuei.md#上吖（……）水)】`shan6 nga shuei3` <sup>[如皋]</sup> 上当吃亏：这件衣裳买啊～；他“上吖人家的水”，还说人家好！  
 1. 【[上吖苏州](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_nga_sv_zheu.md#上吖苏州)】`shan6 nga sv1 zheu1` <sup>[东台]</sup> ［引］就是睡着了。因不少东台人的祖先在苏州，进入梦乡就好比回到老家：他才将还下在谈八鹉，这刻儿倒～啦。  
 1. 【[上崖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_ngae.md#上崖)】`shan6 ngae2` <sup>[兴化]</sup> 上岸：“那怪如今怯战，不肯～，只在水里潜踪……”（《西游记》二二）  
 1. 【[上眼泡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_ngaen_po_zz.md#上眼泡子)】`shan6 ngaen3 po1 zz` <sup>[如皋]</sup> 上眼睑。  
@@ -1499,8 +1498,8 @@
 1. 【[手炉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_lv.md#手炉)】`sheu3 lv2` <sup>[如东]</sup> 取暖器皿。铜制，圆柿形，体积较小，有盖，盖上有小孔。放人木炭，抱在手里取暖。  
 1. 【[手炉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_lv_r.md#手炉<sub>儿</sub>)】`sheu3 lv2 r` <sup>[如皋]</sup> 冬季焐手的小铜炉子，内填炭火灰烬作热源。  
 1. 【[手忙脚乱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_man_jiah_lun.md#手忙脚乱)】`sheu3 man2 jiah7 lun6` ① 做事慌张而没有条理。<sup>\[如东\]</sup>：小明发现灶膛后头起火，～的，不晓得怎吖才好。<sup>\[如东\]</sup> ② 做事慌张，没有条理。<sup>\[东台\]</sup>  
-1. 【[手面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_min.md#手面)】`sheu3 min6` <sup>[兴化]</sup> 指用钱的阔绰与否：他～太阔，千儿八百的不在乎。  
 1. 【[手面（麪）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_min.md#手面（麪）)】`sheu3 min6` <sup>[如皋]</sup> 手盘面团，使其中的蛋白质面筋化。  
+1. 【[手面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_min.md#手面)】`sheu3 min6` <sup>[兴化]</sup> 指用钱的阔绰与否：他～太阔，千儿八百的不在乎。  
 1. 【[手面子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_min_zz.md#手面子)】`sheu3 min6 zz` <sup>[如皋]</sup> 手背。  
 1. 【[手脉窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_moh_ku.md#手脉窠)】`sheu3 moh8 ku1` <small>/sei3 mɔʔ8 kʰʊ1/<sup>如皋</sup></small> ① 手腕，有脉博的部位及腕关节处。<sup>\[如皋\]</sup> ② 手腕内侧。<sup>\[如东\]</sup>  
 1. 【[手磨<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_mu_r.md#手磨<sub>儿</sub>)】`sheu3 mu6 r` <sup>[如皋]</sup> 单手推的小石磨，上片径小而厚重，下片周有石槽。  
@@ -2476,7 +2475,6 @@
 1. 【[顺顺戗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_shuen_qian.md#顺顺戗)】`shuen6 shuen6 qian5` <sup>[如皋]</sup> 使之顺戕。  
 1. 【[顺丝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_sz.md#顺丝)】`shuen6 sz1` <sup>[如皋]</sup> 顺着纤维的走向：切牛肉要切丁头丝，不要～切；刨柏木要～，弄不好要皵丝。  
 1. 【[顺趟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_tan.md#顺趟)】`shuen6 tan5` <small>/suəŋ1 tʰã5/<sup>如皋</sup></small> ① 顺利：事情办得～。<sup>\[如皋\]</sup> ② 合理、悦目、顺心：家具布置得～。<sup>\[如皋\]</sup> ③ 顺利。<sup>\[如东\]</sup>：这次交易十分～。<sup>\[如东\]</sup>  
-1. 【[说……鸟<sub>儿</sub>话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_nio_r_hua.md#说……鸟<sub>儿</sub>话)】`shuh7 nio3 r hua6` <sup>[东台]</sup> 背后说某某的坏话。  
 1. 【[说不到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_beh_do.md#说不到)】`shuh7 beh do5` <sup>[泰县]</sup> 不用谢、不要紧：“这件事你帮吖大忙。”“～，我应该做的。”  
 1. 【[说不出个𪎉子和米来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_beh_chueh_gu_haen_zz_hu_mi_lae.md#说不出个𪎉子和米来)】`shuh7 beh7 chueh7 gu haen6 zz hu2 mi3 lae` <sup>[东台]</sup> 说不出道道，分不清彼此。  
 1. 【[说不来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_beh_lae.md#说不来)】`shuh7 beh7 lae2` <small>/sʊʔ7 pəʔ7 lɛ2/<sup>如皋</sup></small> ① 话不投机 ② 有直感而不能说清<sup>\[如皋\]</sup>：他的表现让人～；这种气味怪得很，～。<sup>\[如皋\]</sup> ③ 有感觉而说不清楚。<sup>\[如东\]</sup> ④ 话不投机。<sup>\[东台\]</sup> ⑤ 说不准<sup>\[东台\]</sup>：我～苏州话。<sup>\[东台\]</sup>  
@@ -2543,6 +2541,7 @@
 1. 【[说没相管](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_meh_xian_gun.md#说没相管)】`shuh7 meh8 xian5 gun3` <sup>[如皋]</sup> ① 说没根没据的话。 ② 说的话无足轻重。  
 1. 【[说冒话<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_mo_hua_r.md#说冒话<sub>儿</sub>)】`shuh7 mo6 hua6 r` <small>/sʊʔ7 mɔ1 xua˞1/<sup>如皋</sup></small> ① 状婴儿学话中突然冒出的字音。<sup>\[如皋\]</sup> ② 小孩刚学语，偶尔冒出一句、半句话来。<sup>\[如皋\]</sup>  
 1. 【[说满](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_mun.md#说满)】`shuh7 mun3` <sup>[兴化]</sup> 指说话不留余地：话不能～，要等等再说。｜“……只怪俺昨日话语～，遭此磨难。”（《八窍珠》七七）  
+1. 【[说……鸟<sub>儿</sub>话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_nio_r_hua.md#说……鸟<sub>儿</sub>话)】`shuh7 nio3 r hua6` <sup>[东台]</sup> 背后说某某的坏话。  
 1. 【[说㗘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_pah.md#说㗘)】`shuh7 pah7` <small>/sʊʔ7 pʰaʔ7/<sup>如皋</sup></small> ① 见“谈㗘”。<sup>\[如皋\]</sup> ② 说荒诞、古怪的故事。如皋词典写“𧭤”。<sup>\[如皋\]</sup>  
 1. 【[说嗙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_pan.md#说嗙)】`shuh7 pan5` <sup>[如东]</sup> 说故事，吹牛皮。  
 1. 【[说屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_pi_gu.md#说屁股)】`shuh7 pi5 gu` <sup>[如东]</sup> 背后说人坏话：不要～。  
@@ -2738,6 +2737,7 @@
 1. 【[粟米泔汁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_mi_gun_zheh.md#粟米泔汁)】`soh7 mi3 gun1 zheh7` <sup>[如东]</sup> 禾本科植物粟米淘洗的泔水。  
 1. 【[粟芽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_nga.md#粟芽)】`soh7 nga2` <sup>[如东]</sup> 禾本科植物粟的发芽颖果。  
 1. 【[粟糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_tan.md#粟糖)】`soh7 tan2` <sup>[如东]</sup> 禾本科植物粟的种子经发糖化制成的糖。  
+1. 【[……续咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_ga.md#……续咖)】`soh7 ga` <sup>[东台]</sup> 接在动词后面，表示持续进行：相～（看住｜看紧）｜说～跑～（边说边走）。  
 1. 【[续弦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_xin.md#续弦)】`soh7 xin2` ① 前妻死后，再取后妻，以生后代，称续弦。<sup>\[如东\]</sup> ② 丧妻再娶。<sup>\[东台\]</sup>  
 1. 【[俗气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_qi.md#俗气)】`soh8 qi5` <sup>[东台]</sup> 不高雅，与“文雅”相对。  
 1. 【[松巴落壳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_ba_lah_kah.md#松巴落壳)】`son1 ba1 lah8 kah7` <sup>[如东]</sup> 松松散散的样子：这些草捆子～的，怎吖好运输咯？  
@@ -2858,8 +2858,8 @@
 1. 【[潠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suen.md#潠)】`suen5` <sup>[如东]</sup> 形容东西很多很多：今天市场的虾儿～啊！  
 1. 【[逊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suen.md#逊)】`suen5` <sup>[如东]</sup> ① 肮脏，难看：多长时间不洗衣服，～吖！ ② 吝啬：～精。 ③ 相貌丑陋：这个人长得～。  
 1. 【[逊精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suen_jien.md#逊精)】`suen5 jien` <sup>[如东]</sup> 小气：他这个人～。  
-1. 【[酸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun.md#酸)】`sun1` <sup>[泰州]</sup> ① 产生嫉妒的情绪：你一同她开玩笑，老王又要～唻。 ② 人之话语阴阳怪气：他说话太～，单位上没得一个人同他啰唆。  
 1. 【[酸/痠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun.md#酸/痠)】`sun1` <sup>[泰州]</sup> 肌肉隐隐胀痛的感觉：上吖一趟泰山，腿子都爬啊～吖。  
+1. 【[酸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun.md#酸)】`sun1` <sup>[泰州]</sup> ① 产生嫉妒的情绪：你一同她开玩笑，老王又要～唻。 ② 人之话语阴阳怪气：他说话太～，单位上没得一个人同他啰唆。  
 1. 【[酸巴拉西的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_ba_la_xi_dii.md#酸巴拉西的)】`sun1 ba la1 xi1 dii` <sup>[如皋]</sup> 有酸味，不适口。  
 1. 【[酸巴拉哈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_ba_la_ha.md#酸巴拉哈)】`sun1 ba1 la1 ha` <sup>[如东]</sup> 一种酸味：豆腐～的，不好吃。  
 1. 【[酸巴拉兮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_ba_la_xi.md#酸巴拉兮)】`sun1 ba1 la1 xi` <sup>[如东]</sup> 有些酸味：这些米酒～的，不好喝。  

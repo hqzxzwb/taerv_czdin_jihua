@@ -1,7 +1,6 @@
 # 音序检索
 **[A](./a.md) | [B](./b.md) | [C](./c.md) | [D](./d.md) | [E](./e.md) | [F](./f.md) | [G](./g.md) | [H](./h.md) | [I](./i.md) | [J](./j.md) | [K](./k.md) | [L](./l.md) | [M](./m.md) | [N](./n.md) | [O](./o.md) | [P](./p.md) | [Q](./q.md) | [R](./r.md) | [S](./s.md) | [T](./t.md) | [U](./u.md) | [V](./v.md) | [X](./x.md) | [Y](./y.md) | [Z](./z.md)**  
 ## Q
-1. 【[……起啊浪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_a_lan.md#……起啊浪)】`qi3 a lan6` <sup>[东台]</sup> 形容某种行动干得很起劲，情绪热烈，气氛高涨：腊月里大家都在下办年货，忙吖～。  
 1. 【[㩻/攲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi.md#㩻/攲)】`qi1` <sup>[泰州]</sup> ① 倾斜不正：这张橱子～啊一边，要在东边垫块板子就平吖唻。 ② 人或物体进入狭窄、低矮空间被迫倾斜不正，因受空间束缚以致无法正常伸展：楼上这个斜阁子上又小又矮，他个子大，身子～住啊唻，不好动。｜这个三门冰箱太大，你家楼梯太狭，～住啊，搬不上去。  
 1. 【[䫏𩔈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_pah.md#䫏𩔈)】`qi1 pah7` <sup>[泰州]</sup> 人的身材特别高大魁梧：几年不见，不曾想到他长成这吖个～个子。  
 1. 【[妻儿老小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_er_lo_xio.md#妻儿老小)】`qi1 er2 lo3 xio3` <sup>[如东]</sup> 全体家属，包括父母妻子儿女等人。  
@@ -84,6 +83,7 @@
 1. 【[启明星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_mien_xien.md#启明星)】`qi3 mien2 xien1` <sup>[如皋]</sup> 金星。  
 1. 【[杞柳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_lieu.md#杞柳)】`qi3 lieu3` <sup>[如东]</sup> 落叶灌木，叶子长椭圆形，莱荑花序，花暗紫色，雌雄异株。生长在水边。枝条可以编筐、篓、篮等物。  
 1. 【[起](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi.md#起)】`qi3` <sup>[泰州]</sup> ① 建造：他在近郊买啊块地，～啊一栋别墅。 ② 将物由下向上移动：木头高头全是洋钉儿，木匠～啊半天，才把它～掉啊。  
+1. 【[……起啊浪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_a_lan.md#……起啊浪)】`qi3 a lan6` <sup>[东台]</sup> 形容某种行动干得很起劲，情绪热烈，气氛高涨：腊月里大家都在下办年货，忙吖～。  
 1. 【[起板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_baen.md#起板)】`qi3 baen3` <sup>[如东]</sup> 京戏开演前，敲响锣鼓，称起板。比喻开始：他～就不对。  
 1. 【[起暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_bo.md#起暴)】`qi3 bo5` <sup>[如东]</sup> 冬季天气骤冷、刮风，叫做起暴。  
 1. 【[起差](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_chae.md#起差)】`qi3 chae1` <sup>[东台]</sup> 为别人分担事务。  
@@ -954,8 +954,7 @@
 1. 【[青蒿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ho_r.md#青蒿<sub>儿</sub>)】`qien1 ho1 r` <sup>[如皋]</sup> 野蒿儿，嫩茎叶可吃。  
 1. 【[青货行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_hu_han.md#青货行)】`qien1 hu5 han2` <sup>[东台]</sup> 旧时水果蔬菜商店。  
 1. 【[青黄二色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_huan_er_seh.md#青黄二色)】`qien1 huan2 er6 seh7` <sup>[兴化]</sup> 形容人面容樵悴：他脸上～，就像是抽了鸦片的。｜（柳克堂）一眼瞧见云麟……脸上～的异常憔悴。（《广陵潮》七一）  
-1. 【[青鲩/鯶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_huen.md#青鲩/鯶)】`qien1 huen6` <sup>[兴化]</sup> 青鱼。也称“黑鲩”。  
-1. 【[青鲩（鯶）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_huen.md#青鲩（鯶）)】`qien1 huen6` <sup>[如东]</sup> 鲤科动物青鱼，也称乌鲩（鯶）。  
+1. 【[青鲩/青鯶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_huen.md#青鲩/青鯶)】`qien1 huen6` <small>/t͡ɕʰin1 xuən6/<sup>兴化</sup></small> 青鱼\[兴化：也称“黑鲩”。\]\[如东：也称乌鲩。\]  
 1. 【[青鲩（鯶）枕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_huen_zhen.md#青鲩（鯶）枕)】`qien1 huen6 zhen3` <sup>[如东]</sup> 鲤科动物青鱼头中的枕骨。  
 1. 【[青隐隐的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ien_ien_dii.md#青隐隐的)】`qien1 ien3 ien3 dii` <sup>[如皋]</sup> 稍稍含有青色成份。  
 1. 【[青鯶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_kuen.md#青鯶)】`qien1 kuen6` <small>/t͡ɕʰiəŋ1 kʰuəŋ1/<sup>如皋</sup></small> ① 青鱼。<sup>\[如皋\]</sup> ② 一种淡水鱼。硬骨鱼纲，鲤科。也称说“青鱼”。<sup>\[东台\]</sup>  
@@ -1263,7 +1262,6 @@
 1. 【[谦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin.md#谦)】`qin1` <small>/t͡ɕʰiɪ̃1/<sup>兴化</sup></small> ① 客气、谦让<sup>\[兴化\]</sup>：这一说我就托老实上坐，不～吖。<sup>\[兴化\]</sup> ② 相互谦让<sup>\[泰州\]</sup>：你就不要再～唻，你岁数最大，你不坐，大家都不好坐。<sup>\[泰州\]</sup>｜他俫两个人为个会东～吖半天。<sup>\[泰州\]</sup>  
 1. 【[迁坟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_fen.md#迁坟)】`qin1 fen2` <sup>[如东]</sup> 将坟墓地点由这一处迁移到另一处。  
 1. 【[乾客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_keh.md#乾客)】`qin2 keh7` <sup>[兴化]</sup> 旧称男客：大舅和妹夫两位～一到，连他林从阳老小共七人。（马春阳《昏迷再婚迷》）  
-1. 【[前……后……](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_heu.md#前……后……)】`qin2 heu6` <sup>[东台]</sup> 表示两种事物或行为一前一后：～店～厂｜～苦～甜。  
 1. 【[前不巴村后不巴店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_beh_ba_cuen_heu_beh_ba_din.md#前不巴村后不巴店)】`qin2 beh7 ba1 cuen1 heu6 beh7 ba1 din5` <sup>[东台]</sup> 喻指处处不巧，没有机遇。这里“巴”指靠近。  
 1. 【[前扯后曳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_cha_heu_ih.md#前扯后曳)】`qin2 cha3 heu6 ih8` <sup>[东台]</sup> ［喻］步调不一致，关系不和谐（曳指拖、牵拉）：以前那个班子～的，事情总做不好。  
 1. 【[前栈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_chaen.md#前栈)】`qin2 chaen6` <sup>[如东]</sup> 棺材的前板。  
@@ -1279,6 +1277,7 @@
 1. 【[前街](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_gae.md#前街)】`qin2 gae1` <sup>[如皋]</sup> 两条平行街中繁荣的一条。另一条称后街。  
 1. 【[前夹心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_gaeh_xien.md#前夹心)】`qin2 gaeh7 xien1` <sup>[如东]</sup> 生猪前腿胛部的肉，肥瘦相间，为三层五花肉。  
 1. 【[前过道，后堂屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_gu_to_heu_tan_oh.md#前过道，后堂屋)】`qin2 gu5 to6 heu6 tan2 oh7` <sup>[如皋]</sup> 旧时农村常见的在两进房子左右打土院墙的住宅。前排中间做过道，其余做厨房、牛屋、磨房、放农具。后排住人。  
+1. 【[前……后……](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_heu.md#前……后……)】`qin2 heu6` <sup>[东台]</sup> 表示两种事物或行为一前一后：～店～厂｜～苦～甜。  
 1. 【[前后脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_heu_jiah.md#前后脚)】`qin2 heu6 jiah7` <small>/t͡ɕʰiɪ̃2 xɤ6 t͡ɕiaʔ7/<sup>兴化</sup>, /t͡ɕʰĩ2 xei1 t͡ɕiaʔ7/<sup>如皋</sup></small> ① 两人到达或离开的时间差很短：他来啊没多刻儿，你徕是～。<sup>\[如皋\]</sup> ② 前脚与后脚。比喻刚过一会儿。<sup>\[如东\]</sup>：他离开这许，跟你～。<sup>\[如东\]</sup> ③ 到达或离开的时间接近<sup>\[兴化\]</sup>：他才走，你就来，两个人～。<sup>\[兴化\]</sup>  
 1. 【[前后晚带](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_heu_vaen_dae.md#前后晚带)】`qin2 heu6 vaen3 dae5` <sup>[兴化]</sup> 非继配夫妻中某一方的亲生子女：伢儿又不是～的，怎吖会受到如此对待的啦？  
 1. 【[前回子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_huei_zz.md#前回子)】`qin2 huei2 zz` <sup>[如皋]</sup> 上一次。  
@@ -1319,11 +1318,11 @@
 1. 【[掮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin.md#掮)】`qin2` <sup>[如东]</sup> 用手臂夹东西。  
 1. 【[箝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin.md#箝)】`qin2` <sup>[如皋]</sup> 夹：嘴巴儿养吖～吖下。  
 1. 【[箝手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_sheu.md#箝手)】`qin2 sheu3` <sup>[如皋]</sup> 手的活动受限：台子太高，操作～。  
-1. 【[钱（箝）耳头打巴掌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_er_teu_da_ba_zhan.md#钱（箝）耳头打巴掌)】`qin2 er3 teu da3 ba1 zhan` <sup>[如皋]</sup> 对要钱者否定性的回语。  
 1. 【[钱板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_baen.md#钱板)】`qin2 baen3` <sup>[兴化]</sup> ① 旧时码放铜元的木板。 ② 今指码放金属辅币的塑料板。  
 1. 【[钱板<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_baen_r.md#钱板<sub>儿</sub>)】`qin2 baen3 r` <sup>[如皋]</sup> 放硬币的工具板。  
 1. 【[钱钞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_cho.md#钱钞)】`qin2 cho5` <sup>[兴化]</sup> （引）钱财：只讲友情，不谈～。  
 1. 【[钱串子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_chun_zz.md#钱串子)】`qin2 chun5 zz` <small>/t͡ɕʰiɪ̃2 t͡sʰũ5 t͡sɿ/<sup>兴化</sup></small> ① 与“钱锥子”近义。<sup>\[东台\]</sup> ② 一种细草绳<sup>\[兴化\]</sup>：蓑衣草两股，绞成细绳，过去是穿制钱用的，所以叫做～。（汪曾祺《岁寒三友》）<sup>\[兴化\]</sup>  
+1. 【[钱（箝）耳头打巴掌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_er_teu_da_ba_zhan.md#钱（箝）耳头打巴掌)】`qin2 er3 teu da3 ba1 zhan` <sup>[如皋]</sup> 对要钱者否定性的回语。  
 1. 【[钱疯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_fon_zz.md#钱疯子)】`qin2 fon1 zz` <small>/t͡ɕʰiɪ̃2 foŋ1 t͡sɿ/<sup>兴化</sup></small> ① ［喻］寻钱欲望太强，并以疯狂手段贪财好利的人。<sup>\[东台\]</sup> ② 因想发财而产生心理变态<sup>\[兴化\]</sup>：她是个～，成天想中大奖。<sup>\[兴化\]</sup>  
 1. 【[钱鬼子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_guei_zz.md#钱鬼子)】`qin2 guei3 zz` <sup>[如皋]</sup> 贬指开钱庄的人。  
 1. 【[钱柜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_kuei.md#钱柜)】`qin2 kuei6` <sup>[兴化]</sup> 旧时一种四脚的矮柜，可作坐凳，兼放银元、铜板。  
