@@ -1125,8 +1125,8 @@
 1. 【[天好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_ho.md#天好)】`tin1 ho3` <sup>[如东]</sup> 天气晴朗：～，好晒稻谷。  
 1. 【[天河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hu.md#天河)】`tin1 hu2` <small>/tʰĩ1 xʊ2/<sup>如皋</sup></small> 银河。<sup>\[如皋\]</sup><sup>\[如东\]</sup>  
 1. 【[天火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hu.md#天火)】`tin1 hu3` <small>/tʰĩ1 xɤɯ3/<sup>泰兴</sup></small> 雷击引起的火<sup>\[如东\]</sup>\[泰兴：有时称不知源的火灾。\]：失～<sup>\[泰兴\]</sup>  
-1. 【[天花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hua.md#天花)】`tin1 hua1` <small>/tʰĩ1 xua1/<sup>泰兴</sup></small> 病名。急性传染病，今已绝迹。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
-1. 【[天花板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hua_baen.md#天花板)】`tin1 hua1 baen3` <small>/tʰĩ1 xua1 pɛ̃3/<sup>泰兴</sup></small> ① 房间上面的装饰板。<sup>\[如东\]</sup> ② 室内装饰、承挡灰尘的天棚。<sup>\[泰兴\]</sup>：～已吊好了，底下就是刷墙、装饰。<sup>\[泰兴\]</sup>  
+1. 【[天花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hua.md#天花)】`tin1 hua1` <small>/tʰĩ1 xuɑ1/<sup>泰兴</sup></small> 病名。急性传染病，今已绝迹。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
+1. 【[天花板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hua_baen.md#天花板)】`tin1 hua1 baen3` <small>/tʰĩ1 xuɑ1 pɛ̃3/<sup>泰兴</sup></small> ① 房间上面的装饰板。<sup>\[如东\]</sup> ② 室内装饰、承挡灰尘的天棚。<sup>\[泰兴\]</sup>：～已吊好了，底下就是刷墙、装饰。<sup>\[泰兴\]</sup>  
 1. 【[天花乱坠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hua_lun_chuei.md#天花乱坠)】`tin1 hua1 lun6 chuei6` <sup>[如东]</sup> 天上许多鲜花飘落下来，比喻非常美好：他说得～。  
 1. 【[天话胡话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hua_hv_hua.md#天话胡话)】`tin1 hua6 hv2 hua6` <sup>[东台]</sup> ① 不知道搞的什么鬼花样。 ② 不知道瞎说了些什么。也作“天话肏胡话”。  
 1. 【[天话糊话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hua_hv_hua.md#天话糊话)】`tin1 hua6 hv6 hua6` <sup>[如东]</sup> 东西南北瞎说一通：这个人～的，没个准。  
@@ -1213,10 +1213,10 @@
 1. 【[天星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_xien.md#天星)】`tin1 xien1` <sup>[兴化]</sup> 天花的讳饰词。  
 1. 【[天行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_xien.md#天行)】`tin1 xien2` <sup>[兴化]</sup> 时疫，流行性传染病：～已过。  
 1. 【[天仙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_xin.md#天仙)】`tin1 xin1` <sup>[如东]</sup> 神话传说中天上的神仙。比喻美女。  
-1. 【[天𢳚起来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_xio_qi_lae_a.md#天𢳚起来啊)】`tin1 xio1 qi lae a` <small>/tʰĩ1 ɕiɔ1 t͡ɕʰʝ lɛ a/<sup>如皋</sup>, /tʰĩ1 ɕiɔ1 t͡ɕʰʝ lɛ a/<sup>泰兴</sup></small> 乌云散去，天气转好。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
+1. 【[天𢳚起来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_xio_qi_lae_a.md#天𢳚起来啊)】`tin1 xio1 qi lae a` <small>/tʰĩ1 ɕiɔ1 t͡ɕʰʝ lɛ a/<sup>如皋</sup>, /tʰĩ1 ɕiɔ1 t͡ɕʰʝ lɛ ɑ/<sup>泰兴</sup></small> 乌云散去，天气转好。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[天晓得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_xio_deh.md#天晓得)】`tin1 xio3 deh` <small>/tʰĩ1 ɕiɔ3 təʔ/<sup>如皋</sup>, /tʰĩ1 ɕiɔ3 təʔ/<sup>泰兴</sup></small> 表示无法理解或没有人知道<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：他哿曾拿你的书，真正是～！<sup>\[泰兴\]</sup>  
 1. 【[天晓得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_xio_deh.md#天晓得)】`tin1 xio3 deh7` <sup>[东台]</sup> 谁也不知道。  
-1. 【[天作变](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_zah_bin.md#天作变)】`tin1 zah7 bin5` <small>/tʰiɪ̃1 t͡saʔ7 piɪ̃5/<sup>兴化</sup>, /tʰĩ1 t͡saʔ7 pĩ5/<sup>如皋</sup>, /tʰĩ1 t͡saʔ7 pĩ5/<sup>泰兴</sup></small> ① 天气变坏。<sup>\[如皋\]</sup> ② 天气由晴变阴。<sup>\[兴化\]</sup> ③ 大风雨到来的前兆。<sup>\[兴化\]</sup> ④ 天气发生变化，风雨将至。<sup>\[泰兴\]</sup>：天作变ngo，快点把衣裳收家来！<sup>\[泰兴\]</sup>  
+1. 【[天作变](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_zah_bin.md#天作变)】`tin1 zah7 bin5` <small>/tʰiɪ̃1 t͡saʔ7 piɪ̃5/<sup>兴化</sup>, /tʰĩ1 t͡saʔ7 pĩ5/<sup>如皋</sup>, /tʰĩ1 t͡sɑʔ7 pĩ5/<sup>泰兴</sup></small> ① 天气变坏。<sup>\[如皋\]</sup> ② 天气由晴变阴。<sup>\[兴化\]</sup> ③ 大风雨到来的前兆。<sup>\[兴化\]</sup> ④ 天气发生变化，风雨将至。<sup>\[泰兴\]</sup>：天作变ngo，快点把衣裳收家来！<sup>\[泰兴\]</sup>  
 1. 【[天作丑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_zah_cheu.md#天作丑)】`tin1 zah7 cheu3` <sup>[东台]</sup> 指晴好天气向阴雨天或恶劣气候转变的种种迹象。  
 1. 【[天长吖毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_zhan_nga_mo.md#天长吖毛)】`tin1 zhan3 nga mo2` <sup>[如皋]</sup> 天色混浊。  
 1. 【[添](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin.md#添)】`tin1` <sup>[兴化]</sup> 指生孩子（含头胎）：去年冬天，哥嫂～吖个儿子。  
@@ -1369,7 +1369,7 @@
 1. 【[笤竹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_zhoh.md#笤竹)】`tio2 zhoh7` <sup>[兴化]</sup> 又称“扫竹”，用细竹枝扎成，有长柄，用于清扫场院或街道等。  
 1. 【[笤竹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_zhoh.md#笤竹)】`tio2 zhoh7-3` <sup>[泰县]</sup> 扫帚：要～扫地。  
 1. 【[苕苕<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_tio_r.md#苕苕<sub>儿</sub>)】`tio2 tio2 r` <sup>[如皋]</sup> 一种高杆的豆科作物，耐碱。种子可食，多作饲料。  
-1. 【[调羹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_gen.md#调羹)】`tio2 gen1` <small>/tʰiɔ2 kə̃1/<sup>泰兴</sup></small> 小的勺子<sup>\[泰兴\]</sup>  
+1. 【[调羹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_gen.md#调羹)】`tio2 gen1` <small>/tʰiɔ2 kəŋ1/<sup>泰兴</sup></small> 小的勺子<sup>\[泰兴\]</sup>  
 1. 【[调酵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_go.md#调酵)】`tio2 go5` <sup>[如东]</sup> 把酵母放人面粉加水调和，使之发酵，这种劳动过程叫做调酵。  
 1. 【[调教](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_jio.md#调教)】`tio2 jio5` <sup>[如东]</sup> 调理教导（儿童）。照料训练（牲畜）。  
 1. 【[调皮杲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_pi_go_zz.md#调皮杲子)】`tio2 pi2 go3 zz` <sup>[如皋]</sup> 多喻耍小神气、贪玩、逞强、捣乱、不守规矩的小孩儿，也指成年人。  
@@ -1832,7 +1832,7 @@
 1. 【[大爹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_dia.md#大爹)】`tu6 dia1` <sup>[东台]</sup> 大爷  
 1. 【[大家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_jia.md#大家)】`tu6 jia1` <sup>[泰兴]</sup> 元配夫人。  
 1. 【[大婆娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_pu_nian.md#大婆娘)】`tu6 pu2 nian2` <sup>[东台]</sup> 长房女主人  
-1. 【[大人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_ren.md#大人)】`tu6 ren` <small>/tʰɤɯ1 ɻə̃/<sup>泰兴</sup></small> 长辈<sup>\[泰兴\]</sup>  
+1. 【[大人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_ren.md#大人)】`tu6 ren` <small>/tʰɤɯ1 ɻəŋ/<sup>泰兴</sup></small> 长辈<sup>\[泰兴\]</sup>  
 1. 【[大小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_xio.md#大小)】`tu6 xio3` <small>/tʰo6 ɕiɔ3/<sup>兴化</sup>, /tʰo1 ɕiɔ3/<sup>泰县</sup></small> 老大、大儿子、长子<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[东台\]</sup>：我家～在南京工作。<sup>\[兴化\]</sup>  
 1. 【[惰懒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_laen.md#惰懒)】`tu6 laen3` <sup>[如皋]</sup> 偷懒、懒惰。  
 1. 【[舵杆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_gun.md#舵杆)】`tu6 gun3` <sup>[如东]</sup> 帆船船舵上安装舵扇的木杆。  

@@ -679,7 +679,7 @@
 1. 【[粪担子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_daen_zz.md#粪担子)】`fen5 daen5 zz` <sup>[如皋]</sup> 装了粪的一副担子，包括一根扁担两只装满的粪桶。  
 1. 【[粪鬼伞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_guei_saen.md#粪鬼伞)】`fen5 guei3 saen3` <sup>[如东]</sup> 鬼伞科植物粪鬼伞，也叫鬼盖。  
 1. 【[粪行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_han.md#粪行)】`fen5 han2` <sup>[兴化]</sup> 旧时经营粪肥的商家。  
-1. 【[粪窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_ku.md#粪窠)】`fen5 ku1` <small>/fən5 kʰo1/<sup>兴化</sup>, /fəŋ5 kʰʊ1/<sup>如皋</sup>, /fə̃5 kʰɤɯ/<sup>泰兴</sup></small> 接触粪便，钩虫的幼虫丝状蚴侵入皮肤，起的丘疹。奇痒。<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>\[东台：多发生在脚底、足背、手指或足趾间。\]：挑粪不曾穿鞋子，脚上弄吖几个～，痒吖没得命。<sup>\[泰州\]</sup>  
+1. 【[粪窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_ku.md#粪窠)】`fen5 ku1` <small>/fən5 kʰo1/<sup>兴化</sup>, /fəŋ5 kʰʊ1/<sup>如皋</sup>, /fəŋ5 kʰɤɯ/<sup>泰兴</sup></small> 接触粪便，钩虫的幼虫丝状蚴侵入皮肤，起的丘疹。奇痒。<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>\[东台：多发生在脚底、足背、手指或足趾间。\]：挑粪不曾穿鞋子，脚上弄吖几个～，痒吖没得命。<sup>\[泰州\]</sup>  
 1. 【[粪撂子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_lio_zz.md#粪撂子)】`fen5 lio6 zz` <sup>[东台]</sup> 粪舀子。  
 1. 【[粪清](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_qien.md#粪清)】`fen5 qien1` <sup>[泰州]</sup> 无渣滓的粪汁：听吖人家说的，喝农药的人要弄～灌。  
 1. 【[粪蛆草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_qy_co.md#粪蛆草)】`fen5 qy1 co3` <sup>[如皋]</sup> 半边莲。  

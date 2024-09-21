@@ -45,7 +45,7 @@
 1. 【[开笔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_bieh.md#开笔)】`kae1 bieh7` <sup>[兴化]</sup> ① 旧指一年中首次写字：新年～，诸事大吉。 ② 旧称学童开始学写文章。  
 1. 【[开财门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_cae_men.md#开财门)】`kae1 cae2 men2` <sup>[如东]</sup> ① 春节后第一次获得经济收入。 ② 春节期间，长辈给小孩红纸钱包儿。 ③ 春节期间，小孩调皮挨打。  
 1. 【[开车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_cha.md#开车)】`kae1 cha1` <sup>[如东]</sup> 发动机器。操纵机器。也叫开机。  
-1. 【[开春](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_chuen.md#开春)】`kae1 chuen1` <small>/kʰɛ1 t͡sʰuə̃1/<sup>泰兴</sup></small> 春天开始，进入春天。<sup>\[东台\]</sup>\[泰兴：一般在农历正月或立春前后。\]：一～就要动手起房子了。<sup>\[泰兴\]</sup>  
+1. 【[开春](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_chuen.md#开春)】`kae1 chuen1` <small>/kʰɛ1 t͡sʰuəŋ1/<sup>泰兴</sup></small> 春天开始，进入春天。<sup>\[东台\]</sup>\[泰兴：一般在农历正月或立春前后。\]：一～就要动手起房子了。<sup>\[泰兴\]</sup>  
 1. 【[开船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_chun.md#开船)】`kae1 chun2` <sup>[如东]</sup> 船舶开航。  
 1. 【[开船解缆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_chun_jiae_laen.md#开船解缆)】`kae1 chun2 jiae3 laen3` <sup>[泰县]</sup> 断绝往来。  
 1. 【[开初](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_chv.md#开初)】`kae1 chv1` <small>/kʰɛ1 t͡sʰu1/<sup>兴化</sup>, /kʰɛ1 t͡sʰu1/<sup>如皋</sup></small> ① 开始之时。<sup>\[如皋\]</sup> ② 一开始，起初。<sup>\[如皋\]</sup> ③ 当初。<sup>\[如皋\]</sup> ④ 开始、起初<sup>\[兴化\]</sup>：这门亲事我～就有看法。<sup>\[兴化\]</sup>  
@@ -91,12 +91,12 @@
 1. 【[开门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_men.md#开门)】`kae1 men2` <sup>[如东]</sup> 一种民间风俗。姑娘出嫁那天，花桥上场后，新娘的弟弟、妹妹或亲属将大门关闭，娶亲的媒人要拿出开门封儿来，才开门让他们进屋。这一婚俗程序，叫做开门。  
 1. 【[开门大吉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_men_da_jieh.md#开门大吉)】`kae1 men2 da6 jieh7` <sup>[如东]</sup> 一开始就很顺利。  
 1. 【[开门封](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_men_fon.md#开门封)】`kae1 men2 fon1` <sup>[东台]</sup> 一种民俗，娶亲当天，男方根据事先约定，从门缝里塞进一定数额的钞票后，女方才肯开门，让男方带走新娘。  
-1. 【[开门封<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_men_fon_r.md#开门封<sub>儿</sub>)】`kae1 men2 fon1 r` <small>/kʰɛ1 mən2 foŋ1 ɚ/<sup>兴化</sup>, /kʰɛ1 məŋ2 fɔ˞1/<sup>如皋</sup>, /kʰɛ1 mə̃2 fɔ˞1/<sup>泰兴</sup></small> ① 民间的一种婚俗。媒人到娘家来迎娶新娘时，娘家人把大门关闭。媒人必须给喜钱，娘家人才开门。这种喜钱叫做开门封儿。也叫关门封儿。<sup>\[如东\]</sup> ② 旧式婚仪之一，新郎上门迎新娘时给开门者的礼金。<sup>\[如皋\]</sup> ③ 旧婚俗，女家向男方索取喜钱，作为放花轿进门的条件<sup>\[兴化\]</sup>：（轿子停下）……谁知却给一个闭门羹。原来，女方喜妈和小孩儿们向新郎要～，即红纸包的喜钱。（马春阳《扬州水乡婚俗散记》）也作“开门钱”<sup>\[兴化\]</sup>｜《儒林外史》第十回有给“开门钱”情节。<sup>\[兴化\]</sup> ④ 婚俗。男方娶亲进新娘家门，女方索要“喜钱”，称为“开门封儿”。<sup>\[泰兴\]</sup>  
+1. 【[开门封<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_men_fon_r.md#开门封<sub>儿</sub>)】`kae1 men2 fon1 r` <small>/kʰɛ1 mən2 foŋ1 ɚ/<sup>兴化</sup>, /kʰɛ1 məŋ2 fɔ˞1/<sup>如皋</sup>, /kʰɛ1 məŋ2 fɔ˞1/<sup>泰兴</sup></small> ① 民间的一种婚俗。媒人到娘家来迎娶新娘时，娘家人把大门关闭。媒人必须给喜钱，娘家人才开门。这种喜钱叫做开门封儿。也叫关门封儿。<sup>\[如东\]</sup> ② 旧式婚仪之一，新郎上门迎新娘时给开门者的礼金。<sup>\[如皋\]</sup> ③ 旧婚俗，女家向男方索取喜钱，作为放花轿进门的条件<sup>\[兴化\]</sup>：（轿子停下）……谁知却给一个闭门羹。原来，女方喜妈和小孩儿们向新郎要～，即红纸包的喜钱。（马春阳《扬州水乡婚俗散记》）也作“开门钱”<sup>\[兴化\]</sup>｜《儒林外史》第十回有给“开门钱”情节。<sup>\[兴化\]</sup> ④ 婚俗。男方娶亲进新娘家门，女方索要“喜钱”，称为“开门封儿”。<sup>\[泰兴\]</sup>  
 1. 【[开门红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_men_hon.md#开门红)】`kae1 men2 hon2` <sup>[如东]</sup> 形容一开场生意就很兴隆。  
 1. 【[开门头市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_men_teu_shr.md#开门头市)】`kae1 men2 teu2 shr6` <sup>[如东]</sup> 第一次交易：～就很好。  
 1. 【[开门戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_men_xi.md#开门戏)】`kae1 men2 xi5` <small>/kʰɛ1 mən2 ɕi5/<sup>兴化</sup>, /kʰɛ1 məŋ2 ɕʝ5/<sup>如皋</sup></small> ① 演戏散场前，把门打开，让观众陆续退场，此时外面的人可进场免费看戏，此为开门戏。<sup>\[如皋\]</sup> ② 旧时剧场演戏，至散场前半小时左右即打开大门，让人自由进去观赏。<sup>\[兴化\]</sup>：谚曰：～好看，伺候难当。<sup>\[兴化\]</sup>  
 1. 【[开门戏好看——难等](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_men_xi_ho_kun_naen_den.md#开门戏好看——难等)】`kae1 men2 xi5 ho3 kun5 naen2 den3` <sup>[如皋]</sup> 等到最后才能看到。  
-1. 【[开蒙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_mon.md#开蒙)】`kae1 mon2` <small>/kʰɛ1 mɔ̃2/<sup>泰兴</sup></small> ① 小孩第一次进私塾读书，称开蒙。<sup>\[如东\]</sup> ② 旧时私塾教儿童开始学习或识字，亦泛指教导初学者。<sup>\[泰兴\]</sup>：《三字经》、《百家姓》、《千字文》箇些总是那时候～读的书。<sup>\[泰兴\]</sup>  
+1. 【[开蒙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_mon.md#开蒙)】`kae1 mon2` <small>/kʰɛ1 mɔŋ2/<sup>泰兴</sup></small> ① 小孩第一次进私塾读书，称开蒙。<sup>\[如东\]</sup> ② 旧时私塾教儿童开始学习或识字，亦泛指教导初学者。<sup>\[泰兴\]</sup>：《三字经》、《百家姓》、《千字文》箇些总是那时候～读的书。<sup>\[泰兴\]</sup>  
 1. 【[开蒙儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_mon_er.md#开蒙儿)】`kae1 mon2 er2` <sup>[泰县]</sup> 刚上学的孩子。  
 1. 【[开蒙<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_mon_r.md#开蒙<sub>儿</sub>)】`kae1 mon2 r` <sup>[兴化]</sup> 旧指儿童入塾接受启蒙教有：～的先生。  
 1. 【[开奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_nae.md#开奶)】`kae1 nae3` <sup>[如皋]</sup> 初生儿开始吃奶。旧时在“洗三”日。后来不限。  
@@ -378,9 +378,9 @@
 1. 【[口才](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_cae.md#口才)】`keu3 cae2` <small>/kʰɤ3 t͡sʰɛ2/<sup>兴化</sup></small> ① 说话的才能。<sup>\[如东\]</sup>：这个伢儿的～好。<sup>\[如东\]</sup> ② 莱肴的口味。<sup>\[如东\]</sup>：鲫鱼的～好。<sup>\[如东\]</sup> ③ 口头表达能力。<sup>\[东台\]</sup> ④ 西瓜的口味<sup>\[兴化\]</sup>：西瓜～蛮好。<sup>\[兴化\]</sup>  
 1. 【[口彩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_cae.md#口彩)】`keu3 cae3` <sup>[东台]</sup> 吉利话、顺遂话：把猪、牛舌叫“招财”，选数字“8”谐音“发”，都是为啊讨个～。  
 1. 【[口敞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_chan.md#口敞)】`keu3 chan3` <sup>[兴化]</sup> 说话随便，不能保守秘密：你这个人～，机密事不能让你晓得。  
-1. 【[口重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_chon.md#口重)】`keu3 chon6` <small>/kʰəɪ3 t͡sʰɔ̃1/<sup>泰兴</sup></small> 喜欢吃咸；菜肴偏咸<sup>\[东台\]</sup><sup>\[泰兴\]</sup>：也称“口大”。<sup>\[泰兴\]</sup>  
+1. 【[口重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_chon.md#口重)】`keu3 chon6` <small>/kʰəɪ3 t͡sʰɔŋ1/<sup>泰兴</sup></small> 喜欢吃咸；菜肴偏咸<sup>\[东台\]</sup><sup>\[泰兴\]</sup>：也称“口大”。<sup>\[泰兴\]</sup>  
 1. 【[口疮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_chuan.md#口疮)】`keu3 chuan1` <sup>[泰兴]</sup> 嘴角、口腔疾病。如“鹅口疮”。  
-1. 【[口大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_da.md#口大)】`keu3 da6` <small>/kʰɤ3 ta6/<sup>兴化</sup>, /kʰəɪ3 ta1/<sup>泰兴</sup>, /kʰɤɯ3 ta1/<sup>泰县</sup></small> （菜肴）咸。同“口重”。<sup>\[泰兴\]</sup><sup>\[泰县\]</sup>\[兴化：反之“口小”。\]\[东台：委婉说法\]：王师傅烧菜～。<sup>\[兴化\]</sup>｜这个菜～。<sup>\[泰县\]</sup>  
+1. 【[口大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_da.md#口大)】`keu3 da6` <small>/kʰɤ3 ta6/<sup>兴化</sup>, /kʰəɪ3 tɑ1/<sup>泰兴</sup>, /kʰɤɯ3 ta1/<sup>泰县</sup></small> （菜肴）咸。同“口重”。<sup>\[泰兴\]</sup><sup>\[泰县\]</sup>\[兴化：反之“口小”。\]\[东台：委婉说法\]：王师傅烧菜～。<sup>\[兴化\]</sup>｜这个菜～。<sup>\[泰县\]</sup>  
 1. 【[口大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_da.md#口大)】`keu3 da6` <sup>[泰州]</sup> 偏食味咸的菜：你家爹爹～，你菜里多放点儿盐。  
 1. 【[口大口小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_da_keu_xio.md#口大口小)】`keu3 da6 keu3 xio3` <sup>[东台]</sup> 指说话口气忽大忽小，与自己身份不相称。  
 1. 【[口带语](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_dae_y.md#口带语)】`keu3 dae5 y3` <sup>[东台]</sup> 说话时经常不自觉地说出来的词语，即口头禅，也称口头语：“没事没事”成吖他的～。  
