@@ -733,6 +733,7 @@
 1. 【[直将的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_jian_dii.md#直将的)】`cheh8 jian1-3 dii` <sup>[东台]</sup> 是责怪某人虚张声势的口头语：不过破啊点儿皮，他就～虚煞咖。  
 1. 【[直接](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_jih.md#直接)】`cheh8 jih7` <sup>[兴化]</sup> 简直、干脆：他哪许是人吖，～就是个畜生。｜他以前还暂时不间的家来望望，而今～就不家来咾。  
 1. 【[直棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_pan.md#直棒)】`cheh8 pan6` <sup>[泰县]</sup> 瘦而长的人。  
+1. 【[直气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_qi.md#直气)】`cheh8 qi` <small>/t͡sʰəʔ8 t͡ɕʰʝ/<sup>泰兴</sup></small> 言语处事等干脆直爽<sup>\[泰兴\]</sup>  
 1. 【[直将](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_qian.md#直将)】`cheh8 qian` <sup>[泰县]</sup> 不停地：你看他～的忙煞咖。（“将”送气）。  
 1. 【[直上直下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_shan_cheh_ha.md#直上直下)】`cheh8 shan6 cheh8 ha6` <sup>[兴化]</sup> 形容陡峭：这梯子戗得太陡，～的难爬。｜“……您瞧那南天门的门楼子，看着像一尺多高，你想这够多么远，都是～的路……”（《老残游记》二·二）  
 1. 【[直手直脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_sheu_cheh_jiah.md#直手直脚)】`cheh8 sheu3 cheh8 jiah7` <small>/t͡sʰəʔ8 sɤ3 t͡sʰəʔ8 t͡ɕiaʔ7/<sup>兴化</sup></small> ① ［喻］彻底露出底细<sup>\[东台\]</sup>：到时把你拉得～，看哪个还敢贪腐！<sup>\[东台\]</sup> ② 人死后尸体僵硬的样子<sup>\[兴化\]</sup>：（饶三）再进房瞧瞧他那浑家，早已～，一丝气儿也没有……（《广陵潮》六九）<sup>\[兴化\]</sup>  
@@ -1359,7 +1360,7 @@
 1. 【[柿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_zz.md#柿子)】`chr6 zz, shr6 zz` 柿子  
 1. 【[治艄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_sho.md#治艄)】`chr6 sho1` <sup>[如东]</sup> 帆船上的桅樯，竖在船尾右舷，固定在顶风梁上。也叫艄桅。  
 1. 【[治艄篷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_sho_pon.md#治艄篷)】`chr6 sho1 pon2` <sup>[如东]</sup> 治艄樯上的风帆。  
-1. 【[治事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_shr.md#治事)】`chr6 shr6` <sup>[如皋]</sup> 有效、效果：吃咖多少药，还是不～！  
+1. 【[治事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_shr.md#治事)】`chr6 shr6` <small>/t͡sʰɿ1 sɿ1/<sup>如皋</sup>, /t͡sʰɿ1 sɿ1/<sup>泰兴</sup></small> ① 有效、起效果<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：吃咖多少药，还是不～！<sup>\[如皋\]</sup> ② 能干<sup>\[泰兴\]</sup>  
 1. 【[痔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr.md#痔)】`chr6` <sup>[东台]</sup> 痔疮，一种肛肠科疾病，症状为发痒、灼热、疼痛、出血。  
 1. 【[示众](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_zhon.md#示众)】`chr6 zhon5` 在众人面前丢脸。  
 1. 【[稚嫩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_nen.md#稚嫩)】`chr6 nen6` <sup>[如东]</sup> ① 嫩气：这个伢儿～。 ② 健壮：棉花苗长得非常～。  

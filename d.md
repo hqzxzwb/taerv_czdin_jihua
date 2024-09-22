@@ -942,7 +942,7 @@
 1. 【[带草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_co.md#带草)】`dae5 co3` <small>/tɛ5 t͡sʰɔ3/<sup>兴化</sup>, /tɛ5 t͡sʰɔ3/<sup>如皋</sup></small> ① 写字中夹有草体字或写字潦草。<sup>\[如皋\]</sup> ② 说话时口中带脏字<sup>\[兴化\]</sup>：请你讲点儿文明，嘴里不要～。<sup>\[兴化\]</sup>  
 1. 【[带草字](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_co_cz.md#带草字)】`dae5 co3 cz6` <sup>[如皋]</sup> 说话中夹带辣春的话、粗话。“草”，牝。  
 1. 【[带得住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_deh_chv.md#带得住)】`dae5 deh7 chv6` <sup>[东台]</sup> 勉强过得去：天冷容易感冒，抵抗力强的还可以～。  
-1. 【[带饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_faen.md#带饭)】`dae5 faen6` <small>/tɛ5 fɛ̃6/<sup>兴化</sup>, /tɛ5 fẽ1/<sup>如皋</sup></small> ① 自带饭食。<sup>\[如皋\]</sup> ② 自家煮饭时也给别人顺带煮。<sup>\[如皋\]</sup> ③ 搭伙食<sup>\[兴化\]</sup>：……每年馆金十二两银子，每日二分银子在和尚家代饭……（《儒林外史》二）也说“代伙”。<sup>\[兴化\]</sup>  
+1. 【[带饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_faen.md#带饭)】`dae5 faen6` <small>/tɛ5 fɛ̃6/<sup>兴化</sup>, /tɛ5 fẽ1/<sup>如皋</sup></small> ① 自带饭食。<sup>\[如皋\]</sup> ② 自家煮饭时也给别人顺带煮。<sup>\[如皋\]</sup> ③ 搭伙食\[兴化：也说“带伙”。\]：……每年馆金十二两银子，每日二分银子在和尚家代饭……（《儒林外史》二）<sup>\[兴化\]</sup>  
 1. 【[带过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_gu.md#带过)】`dae5 gu` <sup>[兴化]</sup> 偏偏、恰恰：～你越总好，他越怀疑，越不相信。‖西北部乡镇也作“歹怪”dae3 guae。  
 1. 【[带锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_gu.md#带锅)】`dae5 gu1` <small>/tɛ5 ko1/<sup>兴化</sup>, /tɛ5 kʊ1/<sup>如皋</sup></small> ① 顺带煮饭。<sup>\[如皋\]</sup> ② 比喻顺带受处罚。<sup>\[如皋\]</sup> ③ 请别家带做饭菜。<sup>\[兴化\]</sup> ④ （借）顺带<sup>\[兴化\]</sup>：“好的，我替你顺带……我家失火也把你家～。”（《皮五辣子》三）<sup>\[兴化\]</sup>  
 1. 【[带害](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_hae.md#带害)】`dae5 hae6` <sup>[东台]</sup> 连累别人。  

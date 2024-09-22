@@ -997,6 +997,7 @@
 1. 【[识霉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_mi.md#识霉)】`sheh7 mi2` <sup>[泰县]</sup> 自认倒露。  
 1. 【[识毛不识胆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_mo_beh_sheh_daen.md#识毛不识胆)】`sheh7 mo2 beh7 sheh7 daen3` <sup>[兴化]</sup> 因不明底细而忐忑不安：听说前庄发现传染病人，心里～的，不敢望前跑。  
 1. 【[识人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_ren.md#识人)】`sheh7 ren2` <sup>[如皋]</sup> 能判断出某人的品格、才华、才能等。  
+1. 【[识事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_shr.md#识事)】`sheh7 shr6` <small>/səʔ7 sɿ1/<sup>泰兴</sup></small> 明事理<sup>\[泰兴\]</sup>  
 1. 【[识数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_shv.md#识数)】`sheh7 shv5` <sup>[兴化]</sup> 知道好歹、进退：他非常～，从来不向父母提过高要求。  
 1. 【[识玩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_vaen.md#识玩)】`sheh7 vaen2` <sup>[兴化]</sup> 对善意的玩笑不当真：这个人～，不会为句把玩话跟人翻脸。  
 1. 【[识相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_xian.md#识相)】`sheh7 xian5` <small>/səʔ7 ɕiaŋ5/<sup>兴化</sup>, /səʔ7 ɕiã5/<sup>如皋</sup></small> ① 明白自己的地位和权力而采取合适的态度。会看别人的脸色行事。<sup>\[如东\]</sup>：他～，不曾硬顶。<sup>\[如东\]</sup> ② 权衡利弊后乖觉，不硬性顶撞。<sup>\[如皋\]</sup> ③ 自觉、不强求<sup>\[如皋\]</sup>：年纪大了，自己～，不走雨路，不走夜路。<sup>\[如皋\]</sup> ④ 知趣，有点自知之明。<sup>\[东台\]</sup> ⑤ 知趣<sup>\[兴化\]</sup>：可不行，有些家伙不～，又讨油又讨酱……（马春阳《无心插柳》）<sup>\[兴化\]</sup>｜小木匠是个灵巧人，说话办事都很～……。（钱国怀《船帆》）。<sup>\[兴化\]</sup>  
