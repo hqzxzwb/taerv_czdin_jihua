@@ -2334,6 +2334,7 @@
 1. 【[戽水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_shuei.md#戽水)】`hv5 shuei3` <small>/fu5 suei3/<sup>如皋</sup></small> 提水，把水从低处往高处泼。用水车或人工。<sup>\[如东\]</sup>\[如皋：文称，指水车提水。口称踏水、赶水、吆水。又指二人对立握绳拉一木桶从低处取水望高处倒的过程，这是本义。\]  
 1. 【[𥲉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_zz.md#𥲉子)】`hv5 zz` <sup>[如皋]</sup> 一种花瓶式扁竹篓，渔人用以𣥼鱼，旧时学校用以𣥼字纸儿。  
 1. 【[互不照面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_beh_zho_min.md#互不照面)】`hv6 beh7 zho5 min6` <sup>[东台]</sup> 有意回避，互相不见面：他俫以往有过节，在公开场合～。  
+1. 【[互助组](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_chv_zv.md#互助组)】`hv6 chv6 zv3` <small>/fʋ1 t͡sʰu1 t͡su3/<sup>泰兴</sup></small> 生产、学习或工作上互相帮助的小集体。我国20世纪50年代农业合作化的初级形式。<sup>\[泰兴\]</sup>  
 1. 【[互相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_xian.md#互相)】`hv6 xian1` <sup>[东台]</sup> 除一般释义外，在东台话里还作为动词使用，指彼此进行协同的动作：考试应该独立完成，不能～。  
 1. 【[户斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_deu.md#户斗)】`hv6 deu3` <sup>[泰县]</sup> 砖砌的空心墙。  
 1. 【[户口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_keu.md#户口)】`hv6 keu` <sup>[兴化]</sup> 人。见“户儿”。  

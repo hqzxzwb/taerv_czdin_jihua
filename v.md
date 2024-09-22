@@ -138,7 +138,7 @@
 1. 【[五齿钉筢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_chr_dien_pa.md#五齿钉筢)】`v3 chr3 dien1 pa2` <sup>[兴化]</sup> 钉筢通常为四齿，这里是手的戏称：他来不洎用筷子，直接玩起～来！  
 1. 【[五次三番](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_cz_saen_faen.md#五次三番)】`v3 cz5 saen1 faen1` <sup>[兴化]</sup> 一次又一次的。也说“三番五次”。  
 1. 【[五大六粗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_da_loh_cv.md#五大六粗)】`v3 da6 loh8 cv1` <sup>[如东]</sup> 身材粗壮：这个人～的，肯定有力气。  
-1. 【[五大三粗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_da_saen_cv.md#五大三粗)】`v3 da6 saen1 cv1` <small>/ʋu3 ta1 sẽ1 t͡sʰu1/<sup>如皋</sup></small> ① 身块高大。四肢粗壮。<sup>\[如皋\]</sup> ② 形容人身体高大粗壮。<sup>\[东台\]</sup>  
+1. 【[五大三粗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_da_saen_cv.md#五大三粗)】`v3 da6 saen1 cv1` <small>/ʋu3 ta1 sẽ1 t͡sʰu1/<sup>如皋</sup>, /ʋ3 tɑ1 ɕiɛ̃1 t͡sʰu1/<sup>泰兴</sup></small> 形容人身体高大粗壮。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>：一眨眼，他竟成吖个～的小伙子。<sup>\[泰兴\]</sup>  
 1. 【[五斗厨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_deu_chv.md#五斗厨)】`v3 deu3 chv2` <sup>[兴化]</sup> 一种放置衣物的橱柜，一般有五个大抽屉。  
 1. 【[五斗缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_deu_gan.md#五斗缸)】`v3 deu3 gan1` <sup>[如皋]</sup> 可贮五斗米的小瓮子缸。  
 1. 【[五斗柜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_deu_kuei.md#五斗柜)】`v3 deu3 kuei6` <sup>[如皋]</sup> 相对新式的有五个抽屉的橱柜（家具）。  
@@ -151,9 +151,11 @@
 1. 【[五夹板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_gaeh_baen.md#五夹板)】`v3 gaeh7 baen3` <sup>[兴化]</sup> 由五层薄木片黏合压制而成的胶合板。也称“五合板”。  
 1. 【[五角亭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_gah_tien.md#五角亭)】`v3 gah7 tien2` <sup>[东台]</sup> 1945年7月，苏中第四分区为纪念抗日战争所建的烈士亭，是东台市烈士陵园的主要景点，位于三仓镇新五村。亭为五角形，琉璃瓦顶，上镌有碑文及120名烈士英名。亭西纪念碑上镌陈毅元帅题字“立功立德永垂不朽”。粟裕大将部分骨灰安葬于此。现为江苏省文物保护单位。  
 1. 【[五角星草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_gah_xien_co.md#五角星草)】`v3 gah7 xien1 co3` <sup>[如皋]</sup> 地点梅。  
+1. 【[五更头里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_gen_teu_lii.md#五更头里)】`v3 gen teu2 lii` <small>/ʋ3 kəŋ tʰəɪ2 ləɪ/<sup>泰兴</sup></small> 天将明时。<sup>\[泰兴\]</sup>  
 1. 【[五更鸡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_gen_ji_r.md#五更鸡<sub>儿</sub>)】`v3 gen1 ji1 r` <sup>[如皋]</sup> 旧时一种烧木炭的，炉膛在中心的铜水壶。  
 1. 【[五更头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_gen_teu.md#五更头)】`v3 gen1 teu2` <sup>[如东]</sup> 四点钟之后：明天～起程。  
 1. 【[五更机](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_gen_ji.md#五更机)】`v3 gen5 ji1` <sup>[东台]</sup> 煤油炉。因为常在天亮之前五更天用来加热少量食品故名。  
+1. 【[五谷不分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_goh_beh_fen.md#五谷不分)】`v3 goh beh7 fen1` <small>/ʋ3 kɔʔ pəʔ7 fəŋ1/<sup>泰兴</sup></small> 形容脱离生产实践，缺乏常识。<sup>\[泰兴\]</sup>  
 1. 【[五谷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_goh.md#五谷)】`v3 goh7` <sup>[如东]</sup> 稻、黍（玉米）稷（高粱）、麦、菽（豆）。通称谷物。  
 1. 【[五谷树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_goh_shv.md#五谷树)】`v3 goh7 shv6` <sup>[如东]</sup> 木樨科植物雪柳，落叶灌木，小枝方形。叶对生，披针形或卵状披针形。初夏开花白色带绿，顶生圆锥花序或腋生总状花序。果实宽椭圆形，扁平，周围有狭翅。形状有圆形的，长形的，扁形的，像各种谷物，故名五谷树。  
 1. 【[五个老小族住块<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_gu_lo_xio_coh_chv_kuae_r.md#五个老小族住块<sub>儿</sub>)】`v3 gu lo3 xio3 coh8 chv6 kuae5 r` <sup>[如皋]</sup> 形容五官不开阔的脸型。  
@@ -164,8 +166,9 @@
 1. 【[五花肠子六花心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_hua_chan_zz.md#五花肠子六花心)】`v3 hua chan2 zz loh8 hua xien1` <sup>[兴化]</sup> 形容三心二意或心怀邪念：“……你要仔细些，不要～似的……”（《广陵潮》三四）  
 1. 【[五花八门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_hua_baeh_men.md#五花八门)】`v3 hua1 baeh7 men2` <sup>[如东]</sup> 比喻花样繁多或变化多端：这套戏法～的，看都看不过来。  
 1. 【[五花墩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_hua_den_r.md#五花墩<sub>儿</sub>)】`v3 hua1 den1 r` <sup>[如皋]</sup> 乱放乱丢，到处都是。  
-1. 【[五花肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_hua_roh.md#五花肉)】`v3 hua1 roh8` <small>/u3 xua1 lɔʔ8/<sup>兴化</sup>, /ʋu3 xua1 ɻɔʔ8/<sup>如皋</sup>, /u3 xua1 ɻɔʔ8/<sup>泰县</sup></small> ① 猪的肋部肉，分皮、白、精、白、精五层。实为皮、白、精三类故又称“五花三层”，适宜红烧。<sup>\[如皋\]</sup> ② 肥瘦相间的猪肉，称五花肉。<sup>\[如东\]</sup> ③ 接近猪腹部肥瘦相间的肉。<sup>\[兴化\]</sup> ④ 肥瘦相间的猪肉。<sup>\[泰县\]</sup>  
+1. 【[五花肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_hua_roh.md#五花肉)】`v3 hua1 roh8` <small>/u3 xua1 lɔʔ8/<sup>兴化</sup>, /ʋu3 xua1 ɻɔʔ8/<sup>如皋</sup>, /ʋ3 xuɑ1 ɻɔʔ8/<sup>泰兴</sup>, /u3 xua1 ɻɔʔ8/<sup>泰县</sup></small> ① 猪的肋部肉，分皮、白、精、白、精五层。实为皮、白、精三类故又称“五花三层”，适宜红烧。<sup>\[如皋\]</sup> ② 肥瘦相间的猪肉，称五花肉。<sup>\[如东\]</sup> ③ 接近猪腹部肥瘦相间的肉。<sup>\[兴化\]</sup> ④ 肥瘦相间的猪肉。<sup>\[泰县\]</sup> ⑤ 肥瘦分层相间的猪肉，在前腿和腹部之间。<sup>\[泰兴\]</sup>  
 1. 【[五黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_huan.md#五黄)】`v3 huan2` <sup>[如皋]</sup> 黄鱼、黄鳝、炒蛋、黄酒（雄黄）、咸鸭蛋（切开）等。  
+1. 【[五黄六月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_huan_loh_iuh.md#五黄六月)】`v3 huan2 loh8 iuh` <small>/ʋ3 xuɑŋ2 lɔʔ8 yʊʔ/<sup>泰兴</sup></small> 指农历五六月间，五谷成熟、农事正忙的季节。<sup>\[泰兴\]</sup>  
 1. 【[五合板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_huh_baen.md#五合板)】`v3 huh8 baen3` <sup>[兴化]</sup> 见“五夹板”。  
 1. 【[五洋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_ian.md#五洋)】`v3 ian2` <small>/u3 iaŋ2/<sup>兴化</sup>, /ʋu3 iã2/<sup>如皋</sup></small> ① 本指洋火（火柴）、洋油（煤油）、洋碱（肥皂）、洋烛（蜡烛）、洋钉（元钉）。后演为多种洋货和仿制品。如洋瓷、洋伞、套鞋、洋袜等。<sup>\[如皋\]</sup> ② 旧指洋油（煤油）、洋火（火柴）、洋碱（肥皂）、洋烟（香烟）、洋蜡烛（矿烛）等早期进口品。而经营这些商品的店铺谓之“～店”，贩运这类商品谓之“跑～”。<sup>\[兴化\]</sup>  
 1. 【[五洋店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_ian_din.md#五洋店)】`v3 ian2 din5` <sup>[如皋]</sup> 卖洋货的店铺。  
@@ -184,13 +187,18 @@
 1. 【[五零四散](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_lien_sz_saen.md#五零四散)】`v3 lien2 sz5 saen5` <small>/u3 liɪ̃2 sɿ5 sɛ̃5/<sup>兴化</sup></small> ① 参见“五零稀散”。<sup>\[东台\]</sup> ② 原在一起的人们分散在各方。<sup>\[兴化\]</sup>  
 1. 【[五零稀散](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_lien_xi_saen.md#五零稀散)】`v3 lien2 xi1 saen5` <sup>[东台]</sup> 指溃散得无法聚合在一起。也作“五零四散”。  
 1. 【[五领三腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_lien_saen_io.md#五领三腰)】`v3 lien3 saen1 io1` <small>/u3 liɪ̃3 sɛ̃1 iɔ1/<sup>兴化</sup>, /ʋu3 liəŋ3 sẽ1 iɔ1/<sup>如皋</sup></small> ① 收殓用衣上身五件，下身三件。<sup>\[如皋\]</sup> ② 死者收殓时穿在身上的五件褂子、三件裤子，称五领三腰。也有七领五腰、九领七腰的。<sup>\[如东\]</sup> ③ 丧制，指人死后，其寿衣上身五件，下身三件。<sup>\[兴化\]</sup>  
+1. 【[五流四散](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_lieu_sz_saen.md#五流四散)】`v3 lieu2 sz5 saen5` <small>/ʋ3 ləɪ2 sɿ5 ɕiɛ̃5/<sup>泰兴</sup></small> 无序地向四面八方散开、分流。<sup>\[泰兴\]</sup>：会议一散，些人就～的，各自家去啊。<sup>\[泰兴\]</sup>  
 1. 【[五流稀散](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_lieu_xi_saen.md#五流稀散)】`v3 lieu2 xi1 saen5` <sup>[兴化]</sup> 原在一起的人们分散在各方：当年的老同学早就～吖。也说“五零四散”。  
 1. 【[五绺胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_lieu_hv_zz.md#五绺胡子)】`v3 lieu3 hv2 zz` <sup>[如皋]</sup> 胡子、髭、鬚、双鬓分绺下垂。如关羽、天官像。  
 1. 【[五里稀散](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_lii_xi_saen.md#五里稀散)】`v3 lii xi1 saen5` <sup>[如皋]</sup> 乱糟糟的四散开来。  
 1. 【[五绿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_loh.md#五绿)】`v3 loh8` <sup>[如皋]</sup> 蒲芹、绿豆粉皮、青菜、青椒、青豆、兰花瓣儿等。  
+1. 【[五雷轰顶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_luei_hon_dien.md#五雷轰顶)】`v3 luei2 hon1 dien3` <small>/ʋ3 ləɪ2 xɔŋ1 tiŋ3/<sup>泰兴</sup></small> 比喻遭受巨大的打击。<sup>\[泰兴\]</sup>  
 1. 【[五路财神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_lv_cae_shen.md#五路财神)】`v3 lv6 cae2 shen2` <sup>[如皋]</sup> 如皋北门外五神庙中供奉的五位瘟神，又称五路财神。正月十七财神节，是此庙的庙会。  
 1. 【[五路口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_lv_keu.md#五路口)】`v3 lv6 keu3` <sup>[如皋]</sup> ① 五个方向路的汇合处。 ② 地名，在如皋邓园乡鹿门村。  
 1. 【[五忙六月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_man_loh_iuh.md#五忙六月)】`v3 man2 loh8 iuh8` <sup>[兴化]</sup> 指农村夏收夏插的大忙期间。  
+1. 【[五男二女](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_nun_er_ny.md#五男二女)】`v3 nun2 er6 ny3` <small>/ʋ3 nʊ̃2 ɚ1 ny3/<sup>泰兴</sup></small> 旧时表示子孙繁衍兴旺，有福气。<sup>\[泰兴\]</sup>  
+1. 【[五七](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_qieh.md#五七)】`v3 qieh` <small>/ʋ3 t͡ɕʰiəʔ/<sup>泰兴</sup></small> 人死后第三十五天。<sup>\[泰兴\]</sup>  
+1. 【[五亲六眷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_qien_loh_jiun.md#五亲六眷)】`v3 qien1 loh8 jiun5` <small>/ʋ3 t͡ɕʰiŋ1 lɔʔ8 t͡ɕyʊ̃5/<sup>泰兴</sup></small> 指各种关系的亲眷。<sup>\[泰兴\]</sup>：今朝姑娘出门，～的总来啊了。<sup>\[泰兴\]</sup>  
 1. 【[五禽六兽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_qien_loh_sheu.md#五禽六兽)】`v3 qien2 loh8 sheu5` <sup>[兴化]</sup> 形容人的品质恶劣，态度蛮横：这些～的家伙，不是王法管住啊，还要吃人哎！  
 1. 【[五色果子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_seh_gu_zz.md#五色果子)】`v3 seh7 gu3 zz` <sup>[东台]</sup> 大年三十装“陈饭”用的干果：荔枝、桂圆、白果、红枣、板栗，由南货店打包专卖。  
 1. 【[五色花斑点](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_seh_hua_baen_din.md#五色花斑点)】`v3 seh7 hua1 baen1 din3` <sup>[兴化]</sup> 见“五色花斑脸”。  
@@ -211,6 +219,7 @@
 1. 【[五香茶叶蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_xian_cha_ih_taen.md#五香茶叶蛋)】`v3 xian1 cha2 ih8 taen6` <small>/u3 ɕiaŋ1 t͡sʰa2 iɪʔ8 tʰɛ̃6/<sup>兴化</sup>, /ʋu3 ɕiã1 t͡sʰa2 iʔ8 tʰẽ1/<sup>如皋</sup></small> ① 鸡蛋水煮熟，揉壳，加酱油、茶叶、五香浸煮而成的菜。<sup>\[如皋\]</sup> ② 加香料、酱油、茶叶等调料煮熟的鸡蛋。<sup>\[兴化\]</sup>  
 1. 【[五香蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_xian_taen.md#五香蛋)】`v3 xian1 taen6` <sup>[如东]</sup> 食品。先将鸡蛋煮熟，再把蛋壳敲裂，放进配有八角、桂皮、香叶、酱油等作料的水中煮。色绛，味香。  
 1. 【[五香蜗螺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_xian_u_lu_r.md#五香蜗螺<sub>儿</sub>)】`v3 xian1 u1 lu1 r` <sup>[如皋]</sup> 作料中有五香的炒煮螺，已剪去尾壳，用嘴吸食其肉。  
+1. 【[五心烦恼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_xien_faen_no.md#五心烦恼)】`v3 xien1 faen2 no3` <small>/ʋ3 ɕiŋ1 fɛ̃2 nɔ3/<sup>泰兴</sup></small> 犹言特别烦恼，非常烦恼。<sup>\[泰兴\]</sup>：今朝他吃咖亏，～的样子。<sup>\[泰兴\]</sup>  
 1. 【[五心烦躁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_xien_faen_zo.md#五心烦躁)】`v3 xien1 faen2 zo5` <small>/u3 ɕin1 fɛ̃2 t͡sɔ5/<sup>兴化</sup>, /ʋu3 ɕiəŋ1 fẽ2 t͡sɔ5/<sup>如皋</sup></small> ① 心情烦闷急躁。<sup>\[如东\]</sup>：芳芳这几天～，甚的事都不想做。<sup>\[如东\]</sup> ② 本指生理上五心（两手心、两足心与心胸处），有烦热、烦闷感。泛指烦躁得坐立不安。<sup>\[东台\]</sup> ③ 形容人心烦意乱，焦躁不安的情态<sup>\[兴化\]</sup>：老头子才从工作岗位上退下来，成天～的。<sup>\[兴化\]</sup> ④ 想法很多、情绪多变、焦躁不安。五心，五脏、五内、五中：指心、肝、脾、肺、肾。<sup>\[如皋\]</sup>  
 1. 【[午](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v.md#午)】`v3` <sup>[东台]</sup> 地支第七位。  
 1. 【[午饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_faen.md#午饭)】`v3 faen6` <sup>[如东]</sup> 十二点钟左右就餐，这顿饭称午饭。  
@@ -311,11 +320,12 @@
 1. 【[瓦板<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_baen_r.md#瓦板<sub>儿</sub>)】`va3 baen3 r` <sup>[东台]</sup> 瓦。犹指碎瓦。（原文词条“瓪”，牵强。）  
 1. 【[瓦钵<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_buh_r.md#瓦钵<sub>儿</sub>)】`va3 buh7 r` <sup>[如东]</sup> 比较粗糙的陶器，用以盛水。  
 1. 【[瓦槽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_co.md#瓦槽)】`va3 co2` <sup>[如东]</sup> 屋面上用瓦片铺成的凹的槽，叫瓦槽。  
-1. 【[瓦瓷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_cz.md#瓦瓷)】`va3 cz2` <small>/ua3 t͡sʰɿ2/<sup>兴化</sup>, /ʋa3 t͡sʰɿ2/<sup>如皋</sup></small> ① 瓷器的碎片。<sup>\[如皋\]</sup> ② 碎瓦片<sup>\[兴化\]</sup>：砸～。<sup>\[兴化\]</sup> ③ 碎瓷片<sup>\[兴化\]</sup>：碗～。<sup>\[兴化\]</sup>  
-1. 【[瓦刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_do.md#瓦刀)】`va3 do1` <sup>[如皋]</sup> 泥水匠用的刀形工具。  
+1. 【[瓦瓷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_cz.md#瓦瓷)】`va3 cz2` <small>/ua3 t͡sʰɿ2/<sup>兴化</sup>, /ʋa3 t͡sʰɿ2/<sup>如皋</sup>, /uɑ3 t͡sʰɿ2/<sup>泰兴</sup></small> ① 瓷器的碎片。<sup>\[如皋\]</sup> ② 碎瓦片<sup>\[兴化\]</sup>：砸～。<sup>\[兴化\]</sup> ③ 碎瓷片<sup>\[兴化\]</sup>：碗～。<sup>\[兴化\]</sup> ④ 陶制品破损的碎片。<sup>\[泰兴\]</sup>  
+1. 【[瓦刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_do.md#瓦刀)】`va3 do1` <small>/ʋa3 tɔ1/<sup>如皋</sup>, /uɑ3 tɔ1/<sup>泰兴</sup></small> 瓦匠用具\[如皋：泥水匠用的刀形工具。\]\[泰兴：瓦匠用以砍砖削瓦、涂泥抹灰的工具。\]  
 1. 【[瓦房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_fan.md#瓦房)】`va3 fan2` <sup>[兴化]</sup> 见“瓦屋”。  
 1. 【[瓦封山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_fon_shaen.md#瓦封山)】`va3 fon1 shaen1` <sup>[如东]</sup> 在房屋的两山覆盖两排或三排瓦，用于压住屋山。这种房屋结构称瓦封山。  
 1. 【[瓦封𢇢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_fon_shaen.md#瓦封𢇢)】`va3 fon1 shaen1` <sup>[兴化]</sup> 草屋顶的两𢇢头各铺两三行拱形小瓦，以防风雨侵蚀：砖墙草盖瓦。  
+1. 【[瓦工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_gon.md#瓦工)】`va3 gon1` <small>/uɑ3 kɔŋ1/<sup>泰兴</sup></small> 瓦匠。从事砖、盖瓦、粉刷等工作。<sup>\[泰兴\]</sup>  
 1. 【[瓦行子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_han_zz.md#瓦行子)】`va3 han2 zz` <sup>[兴化]</sup> 瓦垄。  
 1. 【[瓦花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_hua.md#瓦花)】`va3 hua1` <small>/ua3 xua1/<sup>兴化</sup>, /ʋa3 xua1/<sup>如皋</sup></small> ① 瓦菘。<sup>\[如皋\]</sup> ② 即“瓦松”。二年生肉质草本，生于瓦屋顶部瓦缝中。<sup>\[兴化\]</sup>  
 1. 【[瓦灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_huei.md#瓦灰)】`va3 huei1` <sup>[如皋]</sup> 将瓦砾捣碎磨细后筛出的灰，油漆用料之一。  
@@ -326,6 +336,7 @@
 1. 【[瓦屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_oh.md#瓦屋)】`va3 oh7` <small>/ua3 ɔʔ7/<sup>兴化</sup></small> ① 以瓦覆盖屋面的房屋。<sup>\[如东\]</sup> ② 用砖作墙体，瓦作屋面的房子。‖也称“瓦房。”<sup>\[兴化\]</sup>  
 1. 【[瓦屋旁边搭细棚——口大口小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_oh_pan_bin_daeh_xi_pon_keu_da_keu_xio.md#瓦屋旁边搭细棚——口大口小)】`va3 oh7 pan2 bin1 daeh7 xi5 pon2 keu3 da6 keu3 xio3` <sup>[东台]</sup>   
 1. 【[瓦𤖭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_paen.md#瓦𤖭)】`va3 paen2` <sup>[兴化]</sup> 瓦的碎片。  
+1. 【[瓦片子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_pin_zz.md#瓦片子)】`va3 pin zz` <small>/uɑ3 pʰĩ t͡sɿ/<sup>泰兴</sup></small> 瓦，或称碎瓦。<sup>\[泰兴\]</sup>：乡人云：“～也有翻身时。”<sup>\[泰兴\]</sup>  
 1. 【[瓦片](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_pin.md#瓦片)】`va3 pin5` <sup>[如东]</sup> 瓦。破碎的瓦砾。  
 1. 【[瓦片<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_pin_r.md#瓦片<sub>儿</sub>)】`va3 pin5 r` <sup>[如皋]</sup> ① 碎瓦、瓦砾。 ② 代指房产：不要小看，我这点儿～还值几个钱。  
 1. 【[瓦匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_qian.md#瓦匠)】`va3 qian` <small>/ʋa3 t͡ɕʰiã/<sup>如皋</sup></small> ① 瓦匠 ② 制瓦的工匠。<sup>\[如皋\]</sup> ③ 泥瓦上。<sup>\[如皋\]</sup> ④ 建造和修理房屋业务的小手工业者。<sup>\[如东\]</sup>  
@@ -631,17 +642,20 @@
 1. 【[横竖横](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_sz_van.md#横竖横)】`van2 sz van2` <sup>[泰县]</sup> （吴音）豁出去：他～，要同你拼到底。  
 1. 【[王八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_baeh.md#王八)】`van2 baeh7` <sup>[如东]</sup> 乌龟。有的地方称鳖也为王八。  
 1. 【[王二麻子上海安，踱咖外国里去啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_er_ma_zz_shan_hae_un_tah_ga_vae_goh_lii_qy_a.md#王二麻子上海安，踱咖外国里去啊)】`van2 er ma2 zz shan6 hae3 un1 tah8 ga vae6 goh7 lii qy5 a` <sup>[如皋]</sup> 玩得远去了。  
-1. 【[王法](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_faeh.md#王法)】`van2 faeh7` <sup>[如东]</sup> 原指封建王朝的法律。现指一般法律：不能没有～。  
+1. 【[王法](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_faeh.md#王法)】`van2 faeh7` <small>/uɑŋ2 fæʔ7/<sup>泰兴</sup></small> ① 原指封建王朝的法律。现指一般法律。<sup>\[如东\]</sup>：不能没有～。<sup>\[如东\]</sup> ② 王朝法令，国家的法令。<sup>\[泰兴\]</sup>：你竟敢骂我，没得～gou！<sup>\[泰兴\]</sup>  
 1. 【[王家竹窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ga_zhoh_ku.md#王家竹窠)】`van2 ga zhoh7 ku1` <sup>[如皋]</sup> 地名。在邓元鹿门东。  
 1. 【[王家潭堤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ga_tun_ti.md#王家潭堤)】`van2 ga1 tun2 ti2` <sup>[如东]</sup> 1973年11月14日至1974年1月8日，修筑王家潭堤。自掘苴河闸下游东侧港堤起，绕老海堤外滩面，接卫海提大弯头，全长6.6公里。顶高程75米顶宽8米。动用民力22万人。  
 1. 【[王艮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_gen.md#王艮)】`van2 gen5` <sup>[东台]</sup> （1483-1541），字汝止，号心斋，原名银，明代泰州安丰场、今安丰镇人。平民教育家、哲学家，中国早期启蒙思想家。出身灶籍，幼为盐丁，中年自学成才，拜王守仁为师，终身讲学不仕。创立“百姓日用即道”为核心的平民理论“大成之学”，也称“安丰之学”“淮南格物”。传有九传弟子1136人，学术界称为“泰州学派”，尊王艮为该学派创始人，著有《明儒王心斋先生遗集》四卷传世。  
 1. 【[王六刚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_loh_gan.md#王六刚)】`van2 loh8 gan1` <sup>[兴化]</sup> 谓办事不牢靠者：这个小伙～，正事不能倚他。  
+1. 【[王木匠打线，睁只眼闭只眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_moh_qian_da.md#王木匠打线，睁只眼闭只眼)】`van2 moh8 qian da3 xin5 zhen1 zheh ngaen3 bi5 zheh ngaen3` <small>/uɑŋ2 mɔʔ8 t͡ɕʰiɑŋ tɑ3 ɕĩ5 t͡səŋ1 t͡səʔ ŋɛ̃3 pʝ5 t͡səʔ ŋɛ̃3/<sup>泰兴</sup></small> 喻马虎，不求质量或得过且过。<sup>\[泰兴\]</sup>  
+1. 【[王木匠装犁，两边贩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_moh_qian_zhuan.md#王木匠装犁，两边贩)】`van2 moh8 qian zhuan1 li2 laen3 bin1 faen5` <small>/uɑŋ2 mɔʔ8 t͡ɕʰiɑŋ t͡suɑŋ1 lʝ2 lɛ̃3 pĩ1 fɛ̃5/<sup>泰兴</sup></small> 意谓从两个方面作某件事。（存疑。两边贩似乎应该是搬弄是非的意思。）<sup>\[泰兴\]</sup>  
 1. 【[王翁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_on.md#王翁)】`van2 on1` <small>/ʋã2 ɔŋ1/<sup>如皋</sup></small> ① 见“苦鹱鸟儿”。<sup>\[如皋\]</sup> ② 白胸秧鸡，俗名苦鹱鸟。<sup>\[如皋\]</sup>  
-1. 【[王婆卖瓜——自卖自夸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_pu_mae_gua_cz_mae_cz_kua.md#王婆卖瓜——自卖自夸)】`van2 pu2 mae6 gua1 cz6 mae6 cz6 kua1` <sup>[东台]</sup>   
+1. 【[王婆卖瓜——自卖自夸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_pu_mae_gua_cz_mae_cz_kua.md#王婆卖瓜——自卖自夸)】`van2 pu2 mae6 gua1 cz6 mae6 cz6 kua1` <small>/uɑŋ2 pʰɤɯ2 mɛ1 kuɑ1 t͡sʰɿ1 mɛ1 t͡sʰɿ1 kʰuɑ1/<sup>泰兴</sup></small> 自我夸耀<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[王三打麻雀<sub>儿</sub>——讹错一芝麻壳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_saen_da_ma_jiah_r_ngu_cu_ieh_zhr_ma_kah_r.md#王三打麻雀<sub>儿</sub>——讹错一芝麻壳<sub>儿</sub>)】`van2 saen1 da3 ma2 jiah7 r ngu2 cu5 ieh7 zhr1 ma2 kah7 r` <sup>[东台]</sup>   
 1. 【[王三骑驴子——𧽌过啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_saen_qi_ly.md#王三骑驴子——𧽌过啊)】`van2 saen1 qi2 ly2 zz huaeh7 gu1 a` <sup>[东台]</sup>   
-1. 【[王三骑驴子，𧽌过啊头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_saen_qi_ly.md#王三骑驴子，𧽌过啊头)】`van2 saen1 qi2 ly2 zz huaeh7 gu1 a teu2` <sup>[东台]</sup> ［喻］（俗语）指事情做得过分了。  
+1. 【[王三骑驴子，𧽌过啊头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_saen_qi_ly.md#王三骑驴子，𧽌过啊头)】`van2 saen1 qi2 ly2 zz huaeh7 gu1 a teu2` <small>/uɑŋ2 ɕiɛ̃1 t͡ɕʰʝ2 ləɪ2 t͡sɿ xuæʔ7 kɤɯ1 ləɪ tʰəɪ2/<sup>泰兴</sup></small> ① ［喻］（俗语）指事情做得过分了。<sup>\[东台\]</sup> ② 谓超过了规定的标准、要求。<sup>\[泰兴\]</sup>  
 1. 【[王五王六](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_v_van_loh.md#王五王六)】`van2 v3 van2 loh8` <sup>[兴化]</sup> （借）社会上不三不四的人：谚曰：～，吃鱼吃肉｜皈皈真真，饿得狗哼。  
+1. 【[王小二过年，一无所有](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_xio_er_gu.md#王小二过年，一无所有)】`van2 xio3 er6 gu5 nin2 ieh7 v2 su3 ieu3` <small>/uɑŋ2 ɕiɔ3 ɚ1 kɤɯ5 nĩ2 iʔ7 ʋ2 sɤɯ3 iɤɯ3/<sup>泰兴</sup></small> 喻极穷，什么都没有。<sup>\[泰兴\]</sup>：家里穷得很，真是～。<sup>\[泰兴\]</sup>  
 1. 【[王子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_zz.md#王子)】`van2 zz` <sup>[如皋]</sup> 丧俗中，给死者供倒头饭时，于左首设一只筷、一只酒盅，盛点半熟的米饭同时供～。  
 1. 【[艎板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_baen.md#艎板)】`van2 baen3` <sup>[东台]</sup> 渔船舱口的盖板：取到鱼，～都会说话（有了成绩，即使无关人员也能总结出经验）。  
 1. 【[黄菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_cae.md#黄菜)】`van2 cae5` <sup>[如皋]</sup> 胡萝卜英子烫熟做的菜。荒年可以度命，谚云：“一缸～一缸粮”。  

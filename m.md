@@ -1434,7 +1434,7 @@
 1. 【[墨汁鬼伞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_zheh_guei_saen.md#墨汁鬼伞)】`moh8 zheh7 guei3 saen3` <sup>[如东]</sup> 鬼伞科植物墨汁鬼伞，也叫鬼盖。  
 1. 【[木帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_ban.md#木帮)】`moh8 ban1` <sup>[如皋]</sup> 木字旁儿（木）：相村械。  
 1. 【[木扁担](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_bin_daen.md#木扁担)】`moh8 bin3 daen5` <sup>[如东]</sup> 扁担的一种，木制，尤以桑木为佳。  
-1. 【[木尺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_cheh.md#木尺)】`moh8 cheh7` <small>/mɔʔ8 t͡sʰəʔ7/<sup>如皋</sup></small> ① 木工使用的度量工具，长九点二个铜板，叫九二尺。约合0.235公尺。<sup>\[如东\]</sup> ② 旧时木匠的专用尺。1木尺＝0.9老尺＝0.9375市尺＝31.25厘米。<sup>\[如皋\]</sup>  
+1. 【[木尺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_cheh.md#木尺)】`moh8 cheh7` <small>/mɔʔ8 t͡sʰəʔ7/<sup>如皋</sup>, /mɔʔ8 t͡sʰəʔ7/<sup>泰兴</sup></small> ① 木工使用的度量工具，长九点二个铜板，叫九二尺。约合0.235公尺。<sup>\[如东\]</sup> ② 旧时木匠的专用尺。1木尺＝0.9老尺＝0.9375市尺＝31.25厘米。<sup>\[如皋\]</sup> ③ 较长的丈量工具。<sup>\[泰兴\]</sup>  
 1. 【[木畜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_choh.md#木畜)】`moh8 choh` <small>/mɔʔ8 t͡sʰɔʔ/<sup>泰兴</sup></small> ① 迷糊而又发愣的样子<sup>\[泰州\]</sup>：这个小伙真～，客人来啊也不晓得倒杯茶。<sup>\[泰州\]</sup>｜你怎吖这吖～的，上万块钱现金带啊身上去看电影。<sup>\[泰州\]</sup> ② 谓麻木、糊涂<sup>\[泰兴\]</sup>：你望，他～得箇个样子。<sup>\[泰兴\]</sup>｜你哪～咖啦？/你难道糊涂了吗？<sup>\[泰兴\]</sup>  
 1. 【[木触](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_choh.md#木触)】`moh8 choh7` <sup>[如东]</sup> 反应迟钝。  
 1. 【[木冲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_chon_zz.md#木冲子)】`moh8 chon1 zz` <sup>[泰县]</sup> 愣头愣脑。  
@@ -1445,6 +1445,7 @@
 1. 【[木锉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_cu.md#木锉)】`moh8 cu5` <sup>[如东]</sup> 锉的一种，齿较粗，用以锉木料。  
 1. 【[木打人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_da_ren.md#木打人)】`moh8 da ren` <sup>[泰县]</sup> 哄骗人：不要～。  
 1. 【[木耳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_er.md#木耳)】`moh8 er3` <sup>[如东]</sup> 菌的一种。生长在腐朽的树干上，形状如人耳，黑褐色，胶质，外面密生柔软的短毛。可供食用。  
+1. 【[木方子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_fan_zz.md#木方子)】`moh8 fan1 zz` <small>/mɔʔ8 fɑŋ1 t͡sɿ/<sup>泰兴</sup></small> 半成品的木板或木块。<sup>\[泰兴\]</sup>  
 1. 【[木杮<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_fei_r.md#木杮<sub>儿</sub>)】`moh8 fei5 r` <sup>[如皋]</sup> 斫木的木花儿和木屑。同“斫花儿”。  
 1. 【[木工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_gon.md#木工)】`moh8 gon1` <small>/mɔʔ8 kɔŋ1/<sup>泰兴</sup></small> 木匠，从事木作的匠工。<sup>\[泰兴\]</sup>  
 1. 【[木哥草枯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_gu_co_kv.md#木哥草枯)】`moh8 gu1 co3 kv1` <sup>[泰县]</sup> 布谷鸟。  
@@ -1462,22 +1463,25 @@
 1. 【[木簰/木排](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_pae.md#木簰/木排)】`moh8 pae2` <sup>[泰州]</sup> 用粗木排好捆扎成的水上运载工具。  
 1. 【[木盆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_pen.md#木盆)】`moh8 pen2` <sup>[如东]</sup> 盆的一种，以木头为原料制成的盆子。  
 1. 【[木匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_qian.md#木匠)】`moh8 qian` 木匠  
+1. 【[木匠的徒弟，背家伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_qian_dii_tv.md#木匠的徒弟，背家伙)】`moh8 qian dii tv2 ti bei1 ga1 hu` <small>/mɔʔ8 t͡ɕʰiɑŋ təɪ tʰu2 t͡ɕʰʝ pəɪ1 kɑ1 xɤɯ/<sup>泰兴</sup></small> 歇后语。木匠外出作业，所有的工具均由徒弟荷背，借喻为吃苦头、担负责任。<sup>\[泰兴\]</sup>  
 1. 【[木匠店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_qian_din.md#木匠店)】`moh8 qian din5` <sup>[如皋]</sup> 经营木器的店家兼作坊。  
 1. 【[木匠码<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_qian_ma_r.md#木匠码<sub>儿</sub>)】`moh8 qian ma3 r` <sup>[如皋]</sup> 木匠用画签打的草码儿。与通用草码儿稍异。  
+1. 【[木匠手里借大斧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_qian_sheu_lii.md#木匠手里借大斧)】`moh8 qian sheu3 lii jia5 tae6 fv` <small>/mɔʔ8 t͡ɕʰiɑŋ ɕiɤɯ3 ləɪ t͡ɕiɑ5 tʰɛ1 fʋ/<sup>泰兴</sup></small> 喻不可能办到的事。<sup>\[泰兴\]</sup>  
 1. 【[木匠打枷枷木匠——自作自受](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_qian_da_jia_jia_moh_qian_cz_zah_cz_sheu.md#木匠打枷枷木匠——自作自受)】`moh8 qian6 da3 jia1 jia1 moh8 qian6 cz6 zah7 cz6 sheu6` <sup>[东台]</sup>   
 1. 【[木匠怕漆匠，漆匠怕痴眯眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_qian_pa_qieh_qian_qieh_qian_pa_chr_mi_ngaen_r.md#木匠怕漆匠，漆匠怕痴眯眼<sub>儿</sub>)】`moh8 qian6 pa5 qieh7 qian6 qieh7 qian6 pa5 chr1 mi1 ngaen3 r` <sup>[东台]</sup> 喻指前道工序如何，做后道的最清楚；痴眯眼指靠近细看。  
 1. 【[木楔/𣜂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_saeh.md#木楔/𣜂)】`moh8 saeh7` <sup>[如东]</sup> 木料制作的楔子，一头宽厚，一头尖薄。有木制、竹制诸种。销进榫头使之牢固。“楔”为训读，俗写“櫒”，本字或为“𣜂、𩐅”：在门框榫头上要加～才牢固。  
 1. 【[木靸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_saeh_zz.md#木靸子)】`moh8 saeh7 zz` <sup>[兴化]</sup> 木板拖鞋。  
 1. 【[木柴头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_shae_teu_r.md#木柴头<sub>儿</sub>)】`moh8 shae2 teu2 r` <sup>[如皋]</sup> 小的木块、木段。  
 1. 【[木身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_shen.md#木身)】`moh8 shen` <sup>[如皋]</sup> 指木料的品质：这张橱～好，是柏树的。  
-1. 【[木头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_teu.md#木头)】`moh8 teu` <small>/mɔʔ8 tʰɤ/<sup>兴化</sup>, /mɔʔ8 tʰei/<sup>如皋</sup></small> ① 木头 ② 一种纤维结构比较坚硬的长条形的木本植物的通称。<sup>\[如东\]</sup> ③ 比喻呆板的人。<sup>\[如东\]</sup>：他是个～。<sup>\[如东\]</sup> ④ 木料。<sup>\[如皋\]</sup> ⑤ 贬、昵语，指不能细察、领悟他人心意的人。<sup>\[如皋\]</sup> ⑥ （喻）愚笨不灵活的人<sup>\[兴化\]</sup>：“……二姑娘混名儿叫二～……”（《红楼梦》六五）<sup>\[兴化\]</sup>｜“……首县又不是～，为什么刚才台面上一声不言语……”（《官场现形记》十四）<sup>\[兴化\]</sup>  
+1. 【[木头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_teu.md#木头)】`moh8 teu` <small>/mɔʔ8 tʰɤ/<sup>兴化</sup>, /mɔʔ8 tʰei/<sup>如皋</sup>, /mɔʔ8 tʰəɪ/<sup>泰兴</sup></small> ① 木头 ② 一种纤维结构比较坚硬的长条形的木本植物的通称。<sup>\[如东\]</sup> ③ 比喻呆板的人。<sup>\[如东\]</sup>：他是个～。<sup>\[如东\]</sup> ④ 木料。<sup>\[如皋\]</sup> ⑤ 贬、昵语，指不能细察、领悟他人心意的人。<sup>\[如皋\]</sup> ⑥ （喻）愚笨不灵活的人<sup>\[兴化\]</sup>：“……二姑娘混名儿叫二～……”（《红楼梦》六五）<sup>\[兴化\]</sup>｜“……首县又不是～，为什么刚才台面上一声不言语……”（《官场现形记》十四）<sup>\[兴化\]</sup> ⑦ 喻语言、动作迟钝者。<sup>\[泰兴\]</sup>  
 1. 【[木头巴掌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_teu_ba_zhan.md#木头巴掌)】`moh8 teu ba1 zhan3` <sup>[东台]</sup> ［喻］指突如其来的，叫人莫名其妙、无法应付的指责、指令：这件事我明明办不了，他硬要我去办，不是打～啊？  
 1. 【[木头儿戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_teu_er_xi.md#木头儿戏)】`moh8 teu er2 xi5` <sup>[如皋]</sup> 木偶戏。  
 1. 【[木头脸盆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_teu_lin_pen_r.md#木头脸盆<sub>儿</sub>)】`moh8 teu lin3 pen2 r` <sup>[如皋]</sup> 旧时洗脸用的木盆。  
 1. 【[木头老爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_teu_lo_i.md#木头老爷)】`moh8 teu lo3 i` <sup>[兴化]</sup> ① 泥塑木雕的神像。 ② （喻）呆笨，不见机的人：你忙你的，他像个～坐啊一旁。  
+1. 【[木头木脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_teu_moh_no.md#木头木脑)】`moh8 teu moh8 no3` <small>/mɔʔ8 tʰəɪ mɔʔ8 nɔ3/<sup>泰兴</sup></small> 形容呆板、迟钝，不灵活。也称“木头”。<sup>\[泰兴\]</sup>  
 1. 【[木头扒<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_teu_pa_r.md#木头扒<sub>儿</sub>)】`moh8 teu pa2 r` <sup>[如皋]</sup> 丁字形长柄木扒儿，有一排短齿，单人操作，翻晒用。  
 1. 【[木头裙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_teu_qyen_zz.md#木头裙子)】`moh8 teu qyen2 zz` <sup>[兴化]</sup> 旧称站柜台的店员为穿～的。  
-1. 【[木头人<sub>儿</sub>戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_teu_ren_r_xi.md#木头人<sub>儿</sub>戏)】`moh8 teu ren2 r xi5` <sup>[如东]</sup> 木偶戏：庙里在下唱～。  
+1. 【[木头人<sub>儿</sub>戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_teu_ren_r_xi.md#木头人<sub>儿</sub>戏)】`moh8 teu ren2 r xi5` <small>/mɔʔ8 tʰəɪ ɻə˞2 ɕʝ5/<sup>泰兴</sup></small> 木偶戏。<sup>\[如东\]</sup>\[泰兴：用木偶来表演故事的戏剧。表演时，演员在幕后一边操纵木偶，一边演唱，并配以音乐，为泰兴重要的非物质文化遗产。\]：庙里在下唱～。<sup>\[如东\]</sup>  
 1. 【[木头人戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_teu_ren_xi.md#木头人戏)】`moh8 teu ren2 xi5` <sup>[兴化]</sup> 木偶戏。也称“提人儿戏”。  
 1. 【[木头头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_teu_teu_r.md#木头头<sub>儿</sub>)】`moh8 teu teu2 r` <sup>[如皋]</sup> 小的木块、木段，作燃料。见“锯口”。  
 1. 【[木头段<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_teu_tun_r.md#木头段<sub>儿</sub>)】`moh8 teu tun6 r` <sup>[如皋]</sup> 见“木头”。  
@@ -1491,10 +1495,10 @@
 1. 【[木腥气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_xien_qi.md#木腥气)】`moh8 xien qi5` <sup>[如皋]</sup> 木桶盛饭粥等，串进去的木味。  
 1. 【[木性人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_xien_ren.md#木性人)】`moh8 xien5 ren2` <sup>[如皋]</sup> 无月经的成年女性。  
 1. 【[木锨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_xin.md#木锨)】`moh8 xin1` <sup>[如东]</sup> 农具。木制，头部长方形，有柄。用来铲麦、飏麦。  
-1. 【[木鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_y.md#木鱼)】`moh8 y2` <sup>[如东]</sup> 打击乐器。紫檀木镂空做成，偏圆形，似鱼头状，用槌敲击，能够发出响声，表示忠诚、忍耐、坚强。  
+1. 【[木鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_y.md#木鱼)】`moh8 y2` <small>/mɔʔ8 y2/<sup>泰兴</sup></small> 木鱼，打击乐器。\[泰兴：佛教法器。相传佛家谓鱼昼夜不合目，故刻木象鱼，用以警戒僧众应昼夜忘寝念佛，后亦成为一种打击乐器。击打时声音清脆响亮。\]\[如东：紫檀木镂空做成，偏圆形，似鱼头状，用槌敲击，能够发出响声，表示忠诚、忍耐、坚强。\]  
 1. 【[木鱼脑袋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_y_no_tae.md#木鱼脑袋)】`moh8 y2 no3 tae6` <sup>[如东]</sup> 比喻脑袋是空的，不聪明：你长吖个～，这点事情都不懂。  
 1. 【[木鱼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_y_r.md#木鱼<sub>儿</sub>)】`moh8 y2 r` <sup>[东台]</sup> ① 佛教法器。 ② 打击乐器。  
-1. 【[木作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_zah.md#木作)】`moh8 zah7` <small>/mɔʔ8 t͡saʔ7/<sup>兴化</sup>, /mɔʔ8 t͡saʔ7/<sup>如皋</sup></small> ① 加工木器的行业。<sup>\[如皋\]</sup> ② 木工作坊<sup>\[兴化\]</sup>：老邹从农村雇啊几个木匠，在家里开～。<sup>\[兴化\]</sup>  
+1. 【[木作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_zah.md#木作)】`moh8 zah7` <small>/mɔʔ8 t͡saʔ7/<sup>兴化</sup>, /mɔʔ8 t͡saʔ7/<sup>如皋</sup>, /mɔʔ8 t͡sɑʔ7/<sup>泰兴</sup></small> ① 加工木器的行业。<sup>\[如皋\]</sup> ② 木工作坊<sup>\[兴化\]</sup>：老邹从农村雇啊几个木匠，在家里开～。<sup>\[兴化\]</sup> ③ 木工活计。<sup>\[泰兴\]</sup>  
 1. 【[木渣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_zha.md#木渣)】`moh8 zha1` <sup>[兴化]</sup> 形容梨、苹果等质粗、水分少：当地产的梨子吃起来～～的。  
 1. 【[木枕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_zhen.md#木枕)】`moh8 zhen3` <sup>[如皋]</sup> 木质的枕头。  
 1. 【[木竹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_zhoh.md#木竹)】`moh8 zhoh` <sup>[泰州]</sup> 做事莽撞，不顾后果。  
