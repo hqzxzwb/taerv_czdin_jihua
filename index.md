@@ -259,8 +259,7 @@
 1. 【[拤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka.md#拤)】`ka2` <small>/kʰa2/<sup>兴化</sup>, /kʰa2/<sup>如皋</sup>, /kʰa2/<sup>泰县</sup></small> ① 扼<sup>\[如皋\]</sup>：钱捱他～着咖，你拿不到。<sup>\[如皋\]</sup> ② 强占的意思<sup>\[东台\]</sup>：～住茅缸不拉屎<sup>\[东台\]</sup>｜一个人～啊三个位子。<sup>\[东台\]</sup> ③ 争、夺<sup>\[兴化\]</sup>：这个小伙硬把哥哥的手表～啊去。<sup>\[兴化\]</sup> ④ 争：他顶会～食。<sup>\[泰县\]</sup> ⑤ 争夺，力求获得而不想让于人<sup>\[泰州\]</sup>：在家里这样不吃，那样不吃，一到人家家里就～啊吃。<sup>\[泰州\]</sup>  
 1. 【[拤强](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka_qian.md#拤强)】`ka2 qian2` <small>/kʰa2 t͡ɕʰiaŋ2/<sup>兴化</sup>, /kʰa2 t͡ɕʰiã2/<sup>如皋</sup>, /kʰa2 t͡ɕʰiɑŋ2/<sup>泰县</sup></small> ① 持强多占。<sup>\[如皋\]</sup> ② 出于私心，以势欺人、格占人<sup>\[东台\]</sup>：这人太～吖！<sup>\[东台\]</sup> ③ 争强好胜，硬要占先<sup>\[兴化\]</sup>：……不，他家奶奶比老爹狠，～卡惯了的……（《武松》四）<sup>\[兴化\]</sup> ④ 占上风：你不要～。<sup>\[泰县\]</sup> ⑤ 争强，凡事都要占先，带有些许霸道意味<sup>\[泰州\]</sup>：这小伙也太～，人家是先来的，凭甚的要让你后来的先买。<sup>\[泰州\]</sup>  
 1. 【[拤嗓子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka_san_zz.md#拤嗓子)】`ka2 san3 zz` <sup>[如东]</sup> 味道刺激喉管粘膜：这些辣椒吃起来～。  
-1. 【[拤食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka_sheh.md#拤食)】`ka2 sheh8` <small>/kʰa2 səʔ8/<sup>兴化</sup>, /kʰa2 səʔ8/<sup>如皋</sup></small> ① 多占食物，不肯让给别人。<sup>\[如皋\]</sup> ② 企图占有更多的食物<sup>\[东台\]</sup>：这几个伢子做块啊吃，个个～。<sup>\[东台\]</sup> ③ 恃强或恃宠多占食物<sup>\[兴化\]</sup>：这小伙～。<sup>\[兴化\]</sup>｜狗子～。<sup>\[兴化\]</sup>  
-1. 【[拤食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka_sheh.md#拤食)】`ka2 sheh8` <sup>[泰州]</sup> 争食，吃饭时抢东西吃：细小伙在家里吃得少，在幼儿园里～，反而吃得多。｜家里人多～，烧这点儿菜不够吃。  
+1. 【[拤食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka_sheh.md#拤食)】`ka2 sheh8` <small>/kʰa2 səʔ8/<sup>兴化</sup>, /kʰa2 səʔ8/<sup>如皋</sup></small> ① 多占食物，不肯让给别人。<sup>\[如皋\]</sup> ② 企图占有更多的食物<sup>\[东台\]</sup>：这几个伢子做块啊吃，个个～。<sup>\[东台\]</sup> ③ 恃强或恃宠多占食物<sup>\[兴化\]</sup>：这小伙～。<sup>\[兴化\]</sup>｜狗子～。<sup>\[兴化\]</sup> ④ 争食，吃饭时抢东西吃<sup>\[泰州\]</sup>：细小伙在家里吃得少，在幼儿园里～，反而吃得多。<sup>\[泰州\]</sup>｜家里人多～，烧这点儿菜不够吃。<sup>\[泰州\]</sup>  
 1. 【[拤食塘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka_sheh_tan_r.md#拤食塘<sub>儿</sub>)】`ka2 sheh8 tan2 r` <sup>[如皋]</sup> 枕骨下部凹处。  
 1. 【[跒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka.md#跒)】`ka2` <small>/kʰa2/<sup>如皋</sup></small> ① 两脚分开坐在物体上。<sup>\[如东\]</sup>：～啊凳儿上。<sup>\[如东\]</sup> ② 跨越、夹于<sup>\[如皋\]</sup>：～啊中间。<sup>\[如皋\]</sup>  
 1. 【[跒塴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka_bon.md#跒塴)】`ka2 bon5` <sup>[如东]</sup> 人的两腿之间，也称胯塴。  
@@ -283,6 +282,7 @@
 1. 【[卡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka_zz.md#卡子)】`ka3 zz` <small>/kʰa3 t͡sɿ/<sup>兴化</sup>, /kʰa3 t͡sɿ/<sup>如皋</sup>, /kʰa3 t͡se/<sup>泰县</sup></small> ① 即“绷钩儿”。<sup>\[如皋\]</sup> ② 见“二肋尖儿”。<sup>\[如皋\]</sup> ③ 利用弹性绷住鱼嘴的钩具。<sup>\[如皋\]</sup> ④ 旧时，军队和地方势力为征收捐税或警备需要，在交通要道设立的岗哨、检查站<sup>\[兴化\]</sup>：过～。<sup>\[兴化\]</sup> ⑤ 七八十斤的育肥猪：你家的猪子还是～，咋好卖的？<sup>\[泰县\]</sup>  
 1. 【[卡子猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka_zz_zhv.md#卡子猪)】`ka3 zz zhv1` <sup>[兴化]</sup> 见“架子猪”。  
 1. 【[咯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka.md#咯)】`ka3` <sup>[兴化]</sup> 干咳：～痰。  
+1. 【[喀啊喀的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka_a_ka_dii.md#喀啊喀的)】`ka3 a ka3 dii` <sup>[如皋]</sup> 见“喀嗓子”。  
 [更多...](./k.md)
 ## L
 1. 【[……啦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la.md#……啦)】`la` <sup>[东台]</sup> 助词，用在动词或形容词后面，表示动作或变化已经完成：醒吖～｜脸红吖～。  
