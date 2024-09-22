@@ -583,8 +583,7 @@
 1. 【[跟大众](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_da_zhon.md#跟大众)】`gen1 da6 zhon5` <sup>[如东]</sup> 随大流，跟着大多数人走：这件事到底怎吖弄相，我是～。  
 1. 【[跟跟<sub>儿</sub>隑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_gen_r_kae.md#跟跟<sub>儿</sub>隑)】`gen1 gen1 r kae5` <sup>[如东]</sup> 跟着别人走：他是一个～。  
 1. 【[跟哥哥进城](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_gu_gu_jien_chen.md#跟哥哥进城)】`gen1 gu1 gu1 jien5 chen2` <sup>[东台]</sup> 喻指跟着处于优势的人们沾光，或有榜样可仿效。  
-1. 【[跟后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_heu.md#跟后)】`gen1 heu6` <small>/kən1 xɤ6/<sup>兴化</sup>, /kəŋ1 xei1/<sup>如皋</sup></small> ① 紧接着。<sup>\[如皋\]</sup> ② 随后。<sup>\[兴化\]</sup>  
-1. 【[跟后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_heu.md#跟后)】`gen1 heu6` <sup>[泰州]</sup> 接着，时间上紧随于后：这个酒老李先喝，～就是老周喝。  
+1. 【[跟后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_heu.md#跟后)】`gen1 heu6` <small>/kən1 xɤ6/<sup>兴化</sup>, /kəŋ1 xei1/<sup>如皋</sup></small> 紧接着，随后<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：这个酒老李先喝，～就是老周喝。<sup>\[泰州\]</sup>  
 1. 【[跟好人，学好人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_ho_ren_hah_ho_ren.md#跟好人，学好人)】`gen1 ho3 ren2 hah8 ho3 ren2` <sup>[如皋]</sup> 近朱者赤，近墨者黑。  
 1. 【[跟脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_jiah.md#跟脚)】`gen1 jiah7` <small>/kən1 t͡ɕiaʔ7/<sup>兴化</sup>, /kəŋ1 t͡ɕiɑʔ7/<sup>泰县</sup></small> ① 鞋子尺码与脚相合。<sup>\[东台\]</sup> ② 鞋的大小、肥瘦正合脚型。<sup>\[兴化\]</sup> ③ 鞋子合脚，不紧不松<sup>\[兴化\]</sup>：“……莫忙，让我把鞋子脱掉，鞋子不～，不好动手……”（《皮五辣子》三）也说“抱脚”。<sup>\[兴化\]</sup> ④ 鞋子合脚。<sup>\[泰县\]</sup> ⑤ 鞋子穿在脚上合适。<sup>\[如东\]</sup><sup>\[泰州\]</sup>：这双走鞋嫌大，穿吖脚上不～。<sup>\[泰州\]</sup> ⑥ 小孩跟着大人跑。<sup>\[如东\]</sup>：这个伢儿欢喜～。<sup>\[如东\]</sup>  
 1. 【[跟脚铃<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_jiah_lien_r.md#跟脚铃<sub>儿</sub>)】`gen1 jiah7 lien2 r` <sup>[如东]</sup> 经常跟着大人外出的孩子  

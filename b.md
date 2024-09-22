@@ -63,8 +63,7 @@
 1. 【[疤麻破相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ma_pu_xian.md#疤麻破相)】`ba1 ma2 pu5 xian5` <sup>[如皋]</sup> 比喻人或物有这样那样的瑕疵。  
 1. 【[疤眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ngaen_r.md#疤眼<sub>儿</sub>)】`ba1 ngaen3 r` ① 眼皮有残疾的人。<sup>\[如东\]</sup> ② 眼皮上有疤的人。<sup>\[东台\]</sup>  
 1. 【[疤<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_r.md#疤<sub>儿</sub>)】`ba1 r` <sup>[如东]</sup> 伤口上的结痂。也叫疤子。  
-1. 【[笆斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_deu.md#笆斗)】`ba1 deu3` <small>/pa1 tɤ3/<sup>兴化</sup></small> ① 容器。圆筒形，敞口，柳条编成。可盛粮食等物。<sup>\[如东\]</sup> ② 用柳条编成的一种容器，底为半球形，多用来装粮食。<sup>\[东台\]</sup> ③ 一种柳条编的容器，分平底、尖底两种，可用来装运粮食等物<sup>\[兴化\]</sup>：扛～。<sup>\[兴化\]</sup> ④ 计量单位<sup>\[兴化\]</sup>：一～约合粮食百斤左右<sup>\[兴化\]</sup>｜一～稻；一～大麦。<sup>\[兴化\]</sup>  
-1. 【[笆斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_deu.md#笆斗)】`ba1 deu3` <sup>[泰州]</sup> 一种盛装谷物的容器，底为半圆形，一般用藤条或柳条等编成：一～小麦  
+1. 【[笆斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_deu.md#笆斗)】`ba1 deu3` <small>/pa1 tɤ3/<sup>兴化</sup></small> ① 容器\[泰州：一种盛装谷物的容器，底为半圆形，一般用藤条或柳条等编成\]\[如东：圆筒形，敞口，柳条编成。可盛粮食等物。\]\[兴化：柳条编成，分平底、尖底两种，可用来装运粮食等物\]\[东台：用柳条编成，底为半球形，多用来装粮食。\]：扛～。<sup>\[兴化\]</sup>｜一～小麦<sup>\[泰州\]</sup> ② 计量单位，一～约合粮食百斤左右<sup>\[兴化\]</sup>：一～稻；一～大麦。<sup>\[兴化\]</sup>  
 1. 【[笆斗柳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_deu_lieu.md#笆斗柳)】`ba1 deu3 lieu3` <sup>[如皋]</sup> 杞柳。柳条供编织器皿。  
 1. 【[笆斗山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_deu_shaen.md#笆斗山)】`ba1 deu3 shaen1` <sup>[东台]</sup> 地名，原为弶港北十千米处的一个大潮墩，形状像倒放着的笆斗，故名；也有人说，当初在那里吃饭没桌子，就把笆斗口朝下当桌子用，因此而得名。现为弶港镇笆斗村。  
 1. 【[粑粑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ba.md#粑粑)】`ba1 ba` <small>/pa1 pa/<sup>兴化</sup>, /pa1 pa/<sup>泰县</sup></small> ① 饼儿。<sup>\[如东\]</sup> ② 面饼之类的食品。<sup>\[兴化\]</sup>：谚曰：吃煞咖～不当饱。<sup>\[兴化\]</sup> ③ （引）成团、成饼的东西<sup>\[兴化\]</sup>：沰烂泥～。<sup>\[兴化\]</sup> ④ （儿语）饼<sup>\[泰县\]</sup>：我要吃～。<sup>\[泰县\]</sup>  
@@ -1255,8 +1254,7 @@
 1. 【[变样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_ian.md#变样)】`bin5 ian6` <sup>[如东]</sup> ① 韧体形状因受外界条件的作用而发生变化。 ② 比喻人的思想因受外界条件的影响而发生变化：这个人～了。  
 1. 【[变钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_qin.md#变钱)】`bin5 qin2` <sup>[兴化]</sup> 将货物卖成钱：就要到八月中秋了，这群鸭子就可以赶到南京或镇江的鸭市上～。（汪曾祺《鸡鸭名家》）  
 1. 【[变世/变势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_shr.md#变世/变势)】`bin5 shr5` <small>/piɪ̃5 sɿ5/<sup>兴化</sup>, /pĩ5 sɿ5/<sup>如皋</sup></small> ① 形容人情绪反常<sup>\[兴化\]</sup>：他而今～，动不动就发脾气。<sup>\[兴化\]</sup> ② 思想、情趣、习性变得奇怪了，不良了。<sup>\[如皋\]</sup> ③ 指人的性格突然改变<sup>\[东台\]</sup>：这小伙～啊，跟吖小痞子后头学咖偷鸡摸狗的。也作“变势”。<sup>\[东台\]</sup> ④ 样子发生了变化，人的脾气、习性等发生了变化，多指由好向差变化<sup>\[泰州\]</sup>：细丫头过去嘴甜得狠，现在变吖势，望见人都不晓得叫。<sup>\[泰州\]</sup>｜人有啊钱就～，他现在说话喉咙都发咖奘。<sup>\[泰州\]</sup>  
-1. 【[变蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_taen.md#变蛋)】`bin5 taen6` <small>/piɪ̃5 tʰɛ̃1/<sup>泰县</sup></small> ① 皮蛋 ② 用鸭蛋制成的皮蛋，也称松花蛋。<sup>\[东台\]</sup> ③ 皮蛋。<sup>\[泰县\]</sup>  
-1. 【[变蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_taen.md#变蛋)】`bin5 taen6` <sup>[泰州]</sup> 皮蛋。  
+1. 【[变蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_taen.md#变蛋)】`bin5 taen6` <small>/piɪ̃5 tʰɛ̃1/<sup>泰县</sup></small> 皮蛋<sup>\[泰县\]</sup><sup>\[泰州\]</sup>\[东台：用鸭蛋制成的皮蛋，也称松花蛋。\]  
 1. 【[变天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_tin.md#变天)】`bin5 tin1` ① 晴转多云转阴 ② 天气发生变化。 ③ 因多云或雾霾阳光不足的天气。<sup>\[东台\]</sup>  
 1. 【[变天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_tin.md#变天)】`bin5 tin1` <sup>[泰州]</sup> ① 天气发生变化，多指有晴天转为阴天、雨天、雪天：好像是要～，快点儿把衣裳收起来。 ② 特指雨天、雪天，相对“好天”：雨落这吖大，～最好不要上人家去。  
 1. 【[变味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_vei.md#变味)】`bin5 vei6` <small>/piɪ̃5 uəi6/<sup>兴化</sup>, /pĩ5 ʋei1/<sup>如皋</sup></small> ① 改变了原味，多用以表示食品已变质。<sup>\[如皋\]</sup> ② （喻）经转述改变了话的原意<sup>\[兴化\]</sup>：经你一说，这句话像是变吖味。<sup>\[兴化\]</sup>  

@@ -431,6 +431,7 @@
 1. 【[沙浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_jian.md#沙浆)】`sha1 jian1` <sup>[兴化]</sup> 见“砂灰”。  
 1. 【[沙礓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_jian_r.md#沙礓<sub>儿</sub>)】`sha1 jian3 r` <sup>[东台]</sup> 夹在粮食里的沙粒等杂物。  
 1. 【[沙棘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_jieh.md#沙棘)】`sha1 jieh7` <sup>[如东]</sup> 一种酸枣树，耐碱，可以在沿海地区种植。  
+1. 【[沙壳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_kah_zz.md#沙壳子)】`sha1 kah zz` <small>/sɑ1 kʰɑʔ t͡sɿ/<sup>泰兴</sup></small> 花生壳表层一般有一层皮。少部分花生荚缺失这一层皮，露出筋络，表面显得粗糙，这种荚叫～。<sup>\[泰兴\]</sup>  
 1. 【[沙兰杨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_laen_ian.md#沙兰杨)】`sha1 laen2 ian2` <sup>[如东]</sup> 杨柳科植物沙兰杨，落叶乔木。叶互生，卵状披针形。柔荑花序。耐碱，适宜如东县沿海地区种植。木质松软。  
 1. 【[沙里话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_li_hua.md#沙里话)】`sha1 li3 hua6` <sup>[如东]</sup> 吴语启海话。  
 1. 【[沙里人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_li_ren.md#沙里人)】`sha1 li3 ren2` <sup>[如东]</sup> 启东、海门人。  
