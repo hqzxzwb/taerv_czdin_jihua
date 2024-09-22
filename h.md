@@ -579,6 +579,7 @@
 1. 【[恨不洎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_beh_qi.md#恨不洎)】`hen6 beh qi6` <sup>[泰县]</sup> 来不及：我～现在就走。  
 1. 【[恨……个洞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_gu_ton.md#恨……个洞)】`hen6 gu5 ton6` <sup>[东台]</sup> 形容对某人恨之入骨。  
 1. 【[恨苦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_kv.md#恨苦)】`hen6 kv3` <small>/xən6 kʰu3/<sup>兴化</sup></small> ① 虔心向佛，恪守教规<sup>\[兴化\]</sup>：～修行<sup>\[兴化\]</sup>｜“你果然一心向佛，也不难……大约不过一年的～，以后就全是乐境了……”（《老残游记》二·六）<sup>\[兴化\]</sup> ② （借）收起浪荡心神，刻苦向上<sup>\[兴化\]</sup>：他如今～，原来的酒肉朋友一个不惹。<sup>\[兴化\]</sup> ③ 为自己过去所为不妥而深深后悔，定下心来努力做好某事以赎前愆<sup>\[泰州\]</sup>：过去的话不说吤，从现在起你要～读书。<sup>\[泰州\]</sup>  
+1. 【[恨悢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_lian.md#恨悢)】`hen6 lian` <small>/xəŋ1 liɑŋ/<sup>泰兴</sup></small> 遗憾，悔恨<sup>\[泰兴\]</sup>：想到箇个事我就～<sup>\[泰兴\]</sup>  
 1. 【[恨命穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_mien_qion.md#恨命穷)】`hen6 mien6 qion2` <small>/xən6 miɪ̃6 t͡ɕʰioŋ2/<sup>兴化</sup></small> ① 贪食的代名词。引申为贪心太大。<sup>\[东台\]</sup> ② 贪大、贪多<sup>\[兴化\]</sup>：他一个人买上两笼包子当早饭，真是～。<sup>\[兴化\]</sup>  
 1. 【[恨虱子烧棉袄——不值得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_sheh_zz_sho.md#恨虱子烧棉袄——不值得)】`hen6 sheh7 zz sho1 min2 ngo3 beh7 cheh8 deh7` <sup>[东台]</sup>   
 1. 【[恨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_zz.md#恨子)】`hen6 zz` <sup>[如东]</sup> ① 小气，吝啬。 ② 小气吝啬的人。  
