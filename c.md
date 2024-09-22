@@ -2027,7 +2027,7 @@
 1. 【[坐谎马<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_huan_ma_r.md#坐谎马<sub>儿</sub>)】`cu6 huan3 ma3 r` <sup>[如皋]</sup> 坐马儿很久而并不解手。这是婴、幼儿或某些老人、病人的行为。  
 1. 【[坐灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_huei.md#坐灰)】`cu6 huei1` <sup>[如皋]</sup> 用草木灰、生活垃圾、草塘泥等作基肥。  
 1. 【[坐灰匾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_huei_bin_zz.md#坐灰匾子)】`cu6 huei1 bin3 zz` <small>/t͡sʰʊ1 xuei1 pĩ3 t͡sɿ/<sup>如皋</sup></small> ① 旧时产妇坐在盛着草木灰、上置草纸的匾子上，让子宫内余血下行干净。<sup>\[如东\]</sup> ② 旧时产妇坐在盛有草木灰、上置草纸的匾子（布袋/旧裤子）上，让子宫内余血下行的过程。<sup>\[如皋\]</sup>  
-1. 【[坐夜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_ia.md#坐夜)】`cu6 ia6` <small>/t͡sʰʊ1 ia1/<sup>如皋</sup></small> ① 有人病、丧，夜间值班守护。<sup>\[如皋\]</sup> ② 见“看夜”。<sup>\[如皋\]</sup> ③ 同“伴夜”。<sup>\[东台\]</sup>  
+1. 【[坐夜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_ia.md#坐夜)】`cu6 ia6` <small>/t͡sʰʊ1 ia1/<sup>如皋</sup></small> ① 有人病、丧，夜间值班守护。也说“看夜”。<sup>\[如皋\]</sup> ② 同“伴夜”。<sup>\[东台\]</sup>  
 1. 【[坐夜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_ia.md#坐夜)】`cu6 ia6` <sup>[泰州]</sup> 死者出殡前夕，家中亲人整夜守灵：明吖早上老太出殡，四个儿子都来～。  
 1. 【[坐赢不输](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_ien_beh_shv.md#坐赢不输)】`cu6 ien2 beh7 shv1` <sup>[如东]</sup> 坐在家里不劳动而包赢不输。比喻巧取豪夺：王二开赌场，～。  
 1. 【[坐月子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_iuh_zz.md#坐月子)】`cu6 iuh8 zz` <sup>[东台]</sup> 妇女生小孩后的一个月内，接受特别护理。  
