@@ -234,8 +234,7 @@
 1. 【[家神柜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_shen_kuei.md#家神柜)】`jia1 shen2 kuei6` <small>/t͡ɕia1 sən2 kʰuəi6/<sup>兴化</sup></small> ① 放在堂屋正中、上面敬神里面藏物的柜子。（也作家什柜）<sup>\[东台\]</sup> ② 旧时，在堂屋里靠后墙供奉神祇和祖先牌位的柜子，有三抽（三个头）或三张共七抽（七个头），抽展下有放置餐具等的柜子<sup>\[兴化\]</sup>：（她）不敢面对～上的那个亡人牌子，因为那个牌子总像虫子一样噬咬着她的神经。（线国怀《李寡妇的故事》）<sup>\[兴化\]</sup>  
 1. 【[家属](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_shoh.md#家属)】`jia1 shoh` <sup>[东台]</sup> 除本人以外的家庭成员，本地人往往特指配偶。  
 1. 【[家属](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_shoh.md#家属)】`jia1 shoh8` <sup>[如东]</sup> ① 家主本人以外的成员。 ② 职工本人以外的家庭成员。  
-1. 【[家数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_shv.md#家数)】`jia1 shv` <small>/t͡ɕia1 su/<sup>兴化</sup>, /t͡ɕia1 su/<sup>如皋</sup></small> ① 贬指态度<sup>\[如皋\]</sup>：他的～坏，动不动就玩～。<sup>\[如皋\]</sup> ② 路数<sup>\[兴化\]</sup>：……蒋忠出手也是抖抖的，战战的，这是一种什么～呢？（《武松》五）<sup>\[兴化\]</sup> ③ 程度<sup>\[兴化\]</sup>：他不病到这个～也不上医院。<sup>\[兴化\]</sup>  
-1. 【[家数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_shv.md#家数)】`jia1 shv` <sup>[泰州]</sup> ① 学术或者艺术流派风格、特色。 ② 某种技法源泉所出：他的手艺一望就晓得是李爹的～。  
+1. 【[家数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_shv.md#家数)】`jia1 shv` <small>/t͡ɕia1 su/<sup>兴化</sup>, /t͡ɕia1 su/<sup>如皋</sup></small> ① 贬指态度<sup>\[如皋\]</sup>：他的～坏，动不动就玩～。<sup>\[如皋\]</sup> ② 路数<sup>\[兴化\]</sup>：……蒋忠出手也是抖抖的，战战的，这是一种什么～呢？（《武松》五）<sup>\[兴化\]</sup> ③ 程度<sup>\[兴化\]</sup>：他不病到这个～也不上医院。<sup>\[兴化\]</sup> ④ 学术或者艺术流派风格、特色。<sup>\[泰州\]</sup> ⑤ 某种技法源泉所出<sup>\[泰州\]</sup>：他的手艺一望就晓得是李爹的～。<sup>\[泰州\]</sup>  
 1. 【[家书](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_shv.md#家书)】`jia1 shv1` <sup>[如东]</sup> 家庭成员之间互相来往的信件。也称家信。  
 1. 【[家私](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_sz.md#家私)】`jia1 sz1` <small>/t͡ɕia1 sɿ/<sup>兴化</sup>, /t͡ɕiɑ1 sɿ/<sup>泰兴</sup>, /t͡ɕia1 sɿ1/<sup>泰县</sup></small> ① 家庭财产。<sup>\[如东\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup><sup>\[兴化\]</sup>\[东台：狭义指家具，广义指家产。\]：这是他苦起来的～。<sup>\[如东\]</sup>｜这个人家～不少。<sup>\[泰县\]</sup>｜他家的绝后代的～，你切切不能得。<sup>\[泰州\]</sup>｜他家～大<sup>\[泰兴\]</sup> ② 家庭私密。<sup>\[东台\]</sup>  
 1. 【[家堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_tan.md#家堂)】`jia1 tan` <sup>[如皋]</sup> 见“库”。  
@@ -946,8 +945,7 @@
 1. 【[进港](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gan.md#进港)】`jien5 gan3` <sup>[如东]</sup> 船只由外海或外地驶进港湾，叫做进港。  
 1. 【[进贡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gon.md#进贡)】`jien5 gon5` ① 给人（多指对上）送礼。<sup>\[东台\]</sup> ② 扑克牌的一种规则，上轮最后一名在下轮出牌前，将手中最大的一张牌给上轮的第一名，上轮的第一名将自己手中最不需要的牌给上轮最后一名<sup>\[泰州\]</sup>：小李今朝的牌不好，好不容易抓啊张大王，还要～。<sup>\[泰州\]</sup>  
 1. 【[进价](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_jia.md#进价)】`jien5 jia5` <sup>[如东]</sup> 购进商品时的价格。  
-1. 【[进深](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_shen.md#进深)】`jien5 shen1` ① 平房前墙内壁与后墙内壁之间的距离。以丈为计算单位，主要有丈二六、丈四六等。<sup>\[如东\]</sup> ② 房子的纵向长度。<sup>\[东台\]</sup>  
-1. 【[进深](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_shen.md#进深)】`jien5 shen1` <sup>[泰州]</sup> 房屋内部纵向长度，从门至对面墙壁之间的垂直距离：他家房子的进深不小，至少要有五米。  
+1. 【[进深](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_shen.md#进深)】`jien5 shen1` ① 平房前墙内壁与后墙内壁之间的距离。以丈为计算单位，主要有丈二六、丈四六等。<sup>\[如东\]</sup> ② 房子的纵向长度。<sup>\[东台\]</sup>\[泰州：房屋内部纵向长度，从门至对面墙壁之间的垂直距离\]：他家房子的进深不小，至少要有五米。<sup>\[泰州\]</sup>  
 1. 【[进坞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_v.md#进坞)】`jien5 v5` <sup>[如东]</sup> 船只进坞维修。也叫上坞。  
 1. 【[进项](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_xian.md#进项)】`jien5 xian6` <sup>[东台]</sup> 收入的钱：每月～近万元。  
 1. 【[进账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zhan.md#进账)】`jien5 zhan5` <sup>[如东]</sup> ① 进入账户：这批资金应该～。 ② 收入：今朝～多少？  
@@ -1115,8 +1113,7 @@
 1. 【[洁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih.md#洁)】`jih7` <sup>[如皋]</sup> 清洗：吃咖好啊随即把锅、碗、瓢、盆～掉。  
 1. 【[洁福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_foh.md#洁福)】`jih7 foh7` <sup>[泰县]</sup> 福享尽了：在这人家家里，你还不好好过日子，真的是～。  
 1. 【[洁锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_gu.md#洁锅)】`jih7 gu1` <small>/t͡ɕiɪʔ7 ko1/<sup>兴化</sup>, /t͡ɕiʔ7 kʊ1/<sup>如皋</sup>, /t͡ɕiɪʔ7 ko1/<sup>泰县</sup></small> ① 把灶、厨具清洗乾浄，表示这一顿饭的炊事完毕。<sup>\[如皋\]</sup> ② 每餐结束，清洗锅灶。<sup>\[兴化\]</sup> ③ 特指餐馆早、中、晚市结束，暂停接待食客<sup>\[兴化\]</sup>：对不起，已经～，请到另一家吧！<sup>\[兴化\]</sup> ④ 饭后把饭碗洗净。<sup>\[泰县\]</sup>  
-1. 【[疖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_zz.md#疖子)】`jih7 zz` ① 皮肤病，由葡萄球菌或链状茁侵入毛囊内引起。症状是局部出现充血硬块，化脓，红肿，疼痛。<sup>\[如东\]</sup> ② 一种皮肤病，症状为局部充血硬块，化脓、红肿、疼痛。<sup>\[东台\]</sup>  
-1. 【[疖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_zz.md#疖子)】`jih7 zz` <sup>[泰州]</sup> 一种皮肤疾病，皮肤局部出现充血硬块，化脓，红肿，疼痛。  
+1. 【[疖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_zz.md#疖子)】`jih7 zz` 皮肤病，症状为局部充血硬块，化脓、红肿、疼痛。<sup>\[东台\]</sup><sup>\[泰州\]</sup>\[如东：由葡萄球菌或链状茁侵入毛囊内引起。\]  
 1. 【[结](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih.md#结)】`jih7` <sup>[如东]</sup> ① 在条状物上打疙瘩，称结：绳～。 ② 一种编织方法。把绒线编织成服装，称结：～毛线。  
 1. 【[结巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_ba.md#结巴)】`jih7 ba` <sup>[泰州]</sup> 用绳索、皮带等条状物打成的疙瘩：绳子上的～打啊紧吖。  
 1. 【[结疤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_ba.md#结疤)】`jih7 ba1` <sup>[东台]</sup> 伤口或疮口结痂。  
@@ -1145,9 +1142,8 @@
 1. 【[结讟/结毒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_toh.md#结讟/结毒)】`jih7 toh8` <sup>[泰州]</sup> ① 结下难解的仇恨或怨恨：这两个人～深吖唻，好不了唻。 ② 作恶或者犯下罪行，多指浪费食物之类暴殄天物的行为，坊间以为浪费食物乃是犯罪行为，要遭受天的惩罚：这条话语中上只动吖一筷子，摆到晚上没得事的，你把他倒掉，也太～咖唻。  
 1. 【[结账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_zhan.md#结账)】`jih7 zhan5` <sup>[如东]</sup> 结算账目：明天～。  
 1. 【[结皱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_zheu.md#结皱)】`jih7 zheu5` <small>/t͡ɕiɪʔ7 t͡sɤ5/<sup>兴化</sup>, /t͡ɕiɪʔ7 t͡sɤɯ5/<sup>泰县</sup></small> ① 不顺<sup>\[兴化\]</sup>：这次事情办得～。<sup>\[兴化\]</sup> ② 说话不连贯<sup>\[兴化\]</sup>：他一见上级说话就～啊。<sup>\[兴化\]</sup> ③ 不顺利、辣手：这件事还就～唻，到现在都不曾办成功。<sup>\[泰县\]</sup>  
-1. 【[节巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_ba.md#节巴)】`jih7 ba1` <small>/t͡ɕiɪʔ7 pa1/<sup>泰县</sup></small> ① 植物主秆分节的地方。<sup>\[如东\]</sup>：芦穄上有五个～。<sup>\[如东\]</sup> ② 竹节、结：这个竹子～多。<sup>\[泰县\]</sup>  
-1. 【[节疤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_ba.md#节疤)】`jih7 ba1` <small>/t͡ɕiɪʔ7 pa1/<sup>兴化</sup></small> ① 树木上断枝留下的疤痕。<sup>\[如东\]</sup>：树上有三个～。<sup>\[如东\]</sup> ② 树木的分枝在干枝上留下的疤痕。<sup>\[东台\]</sup> ③ 树节，树干分枝处的疤痕。<sup>\[兴化\]</sup>  
-1. 【[节疤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_ba.md#节疤)】`jih7 ba1` <sup>[泰州]</sup> ① 竹子、芦苇、高粱、玉米等植物的茎秆节上凸起部分。 ② 树干表层枝杈去掉以后，留在树干身内部分结成瘤壮硬块：你拿的这块板子身上有好几个大的～。  
+1. 【[节巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_ba.md#节巴)】`jih7 ba1` <small>/t͡ɕiɪʔ7 pa1/<sup>泰县</sup></small> ① 植物主秆分节的地方。<sup>\[如东\]</sup>：芦穄上有五个～。<sup>\[如东\]</sup> ② 竹节、结<sup>\[泰县\]</sup>：这个竹子～多。<sup>\[泰县\]</sup>  
+1. 【[节疤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_ba.md#节疤)】`jih7 ba1` <small>/t͡ɕiɪʔ7 pa1/<sup>兴化</sup></small> ① 树木上断枝留下的疤痕。<sup>\[如东\]</sup>：树上有三个～。<sup>\[如东\]</sup> ② 树木的分枝在干枝上留下的疤痕。<sup>\[东台\]</sup> ③ 树节，树干分枝处的疤痕。<sup>\[兴化\]</sup> ④ 竹子、芦苇、高粱、玉米等植物的茎秆节上凸起部分。<sup>\[泰州\]</sup> ⑤ 树干表层枝杈去掉以后，留在树干身内部分结成瘤壮硬块<sup>\[泰州\]</sup>：你拿的这块板子身上有好几个大的～。<sup>\[泰州\]</sup>  
 1. 【[节骨眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_gueh_ngaen.md#节骨眼)】`jih7 gueh7 ngaen3` <small>/t͡ɕiɪʔ7 kuəʔ7 ɛ̃3/<sup>兴化</sup></small> ① 关节。<sup>\[如东\]</sup> ② 比喻要害之处。<sup>\[如东\]</sup>：在～上出咖问题。<sup>\[如东\]</sup> ③ （喻）重要的环节或时机<sup>\[兴化\]</sup>：在手术的～上千万不能停电。<sup>\[兴化\]</sup> ④ 关键处<sup>\[兴化\]</sup>：书说到～上停下来啊。<sup>\[兴化\]</sup>  
 1. 【[节害](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_hae.md#节害)】`jih7 hae6` <sup>[泰县]</sup> 办事无能：你甚的事情都不能办，～唻。  
 1. 【[节后三日闲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_heu_saen_rih_xiaen.md#节后三日闲)】`jih7 heu6 saen1 rih8 xiaen2` <sup>[东台]</sup> 节前准备事务多，节后相对轻松几天。  
