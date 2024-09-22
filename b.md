@@ -619,7 +619,7 @@
 1. 【[不光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_guan.md#不光)】`beh7 guan1` <small>/pəʔ7 kuɑŋ1/<sup>泰兴</sup></small> 不止，不仅。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>：～他一个人。<sup>\[如东\]</sup>｜～是你不要去，其他人也不要去。<sup>\[泰兴\]</sup>  
 1. 【[不佮节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_guh_jih.md#不佮节)】`beh7 guh7 jih7` <sup>[泰兴]</sup> 不和，不协调：他佼两个人～。  
 1. 【[不佮算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_guh_sun.md#不佮算)】`beh7 guh7 sun` <sup>[泰兴]</sup> 划不来。  
-1. 【[不干不净](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_gun_beh_qien.md#不干不净)】`beh7 gun1 beh7 qien6` <small>/pəʔ7 kʊ̃1 pəʔ7 t͡ɕʰiŋ1/<sup>泰兴</sup></small> 脏，不干净。引喻为粗俗下流，粗言蠢语。<sup>\[泰兴\]</sup>：嘴里不干不净的混骂人。<sup>\[泰兴\]</sup>  
+1. 【[不干不净](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_gun_beh_qien.md#不干不净)】`beh7 gun1 beh7 qien6` <small>/pəʔ7 kʊ̃1 pəʔ7 t͡ɕʰiŋ1/<sup>泰兴</sup></small> 脏，不干净。引喻为粗俗下流，粗言蠢语。<sup>\[泰兴\]</sup>：嘴里～的混骂人。<sup>\[泰兴\]</sup>  
 1. 【[不干净](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_gun_qien.md#不干净)】`beh7 gun1 qien` <sup>[如皋]</sup> 迷信者称异象：这条河里～，有河落鬼作怪。  
 1. 【[不敢当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_gun_dan.md#不敢当)】`beh7 gun3 dan1` <sup>[如东]</sup> ① 当不起。 ② 对别人的赞誉表示不相称的一种谦词。  
 1. 【[不赶寒气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_gun_hun_qi.md#不赶寒气)】`beh7 gun3 hun2 qi5` <sup>[如皋]</sup> 不起作用，不显效、无效。与需要的程度相距甚远。  
