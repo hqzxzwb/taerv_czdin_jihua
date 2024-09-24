@@ -63,6 +63,8 @@
 1. 【[太阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian.md#太阳)】`tae5 ian` 太阳  
 1. 【[太阳暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_bo.md#太阳暴)】`tae5 ian bo5` <sup>[如皋]</sup> 日照长，阳光强烈，多指夏季。  
 1. 【[太阳铲土](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_chaen_tv.md#太阳铲土)】`tae5 ian chaen3 tv3` <small>/tʰɛ5 iã t͡sʰẽ3 tʰu3/<sup>如皋</sup></small> ① 见“太阳平土”。<sup>\[如皋\]</sup> ② 太阳开始落山。<sup>\[如东\]</sup>  
+1. 【[太阳从家家门前过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_con_ga.md#太阳从家家门前过)】`tae5 ian con2 ga1 ga men2 qin gu5` <small>/tʰɛ5 iɑŋ t͡sʰɔŋ2 kɑ1 kɑ məŋ2 t͡ɕʰĩ kɤɯ5/<sup>泰兴</sup></small> 谓历史规律是最公平的。多指年轻人不要瞧不起老年人，因为自己也有年龄大的时候。<sup>\[泰兴\]</sup>  
+1. 【[太阳从西边出](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_con_xi.md#太阳从西边出)】`tae5 ian con2 xi1 bin chueh7` <small>/tʰɛ5 iɑŋ t͡sʰɔŋ2 ɕʝ1 pĩ t͡sʰuəʔ7/<sup>泰兴</sup></small> 喻永远不会出现的现象或永远不可能办到的事。<sup>\[泰兴\]</sup>  
 1. 【[太阳打影](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_da_ien.md#太阳打影)】`tae5 ian da3 ien3` <sup>[如东]</sup> 太阳刚刚出来。  
 1. 【[太阳大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_da.md#太阳大)】`tae5 ian da6` <sup>[如东]</sup> 阳光热烈：今朝～，要戴帽子。  
 1. 【[太阳大竵西](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_da_huae_xi.md#太阳大竵西)】`tae5 ian da6 huae1 xi1` <sup>[如皋]</sup> 冬约在下午4时以后。夏约在下午6时以后。  
@@ -73,27 +75,27 @@
 1. 【[太阳影子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_ien_zz.md#太阳影子)】`tae5 ian ien3 zz` <sup>[如皋]</sup> ① 树荫、竹荫下的阳光透过来形成的小圆斑。 ② 人或物体遮阳的阴影。  
 1. 【[太阳窠啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_ku_a.md#太阳窠啊)】`tae5 ian ku1 a` <sup>[如皋]</sup> 日晕。  
 1. 【[太阳落山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_lah_shaen.md#太阳落山)】`tae5 ian lah8 shaen1` <sup>[如东]</sup> 日暮，太阳下沉，光线逐渐被地球遮挡，称太阳落山。  
+1. 【[太阳门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_men.md#太阳门)】`tae5 ian men2` <small>/tʰɛ5 iɑŋ məŋ2/<sup>泰兴</sup></small> 太阳穴<sup>\[泰兴\]</sup>  
 1. 【[太阳平南](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_pien_nun.md#太阳平南)】`tae5 ian pien2 nun2` <small>/tʰɛ5 iã pʰiəŋ2 nʊ̃2/<sup>如皋</sup></small> ① 约在冬天中午。<sup>\[如皋\]</sup> ② 上午十点钟左右的时间。<sup>\[如东\]</sup>  
 1. 【[太阳平土](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_pien_tv.md#太阳平土)】`tae5 ian pien2 tv3` <sup>[如皋]</sup> 太阳落到地平线附近。  
 1. 【[太阳偏西](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_pin_xi.md#太阳偏西)】`tae5 ian pin1 xi1` <sup>[如东]</sup> 下午两三点钟：一觉睡到～。  
 1. 【[太阳菩萨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_pv_saeh.md#太阳菩萨)】`tae5 ian pv2 saeh7` <sup>[如皋]</sup> 太阳神。如皋旧有太阳庙、太阳庵数处。传说所祀者为建文帝（明）。  
 1. 【[太阳斜西](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_qia_xi.md#太阳斜西)】`tae5 ian qia2 xi1` <sup>[兴化]</sup> ① 下午的太阳从头顶“走”向西边：早上在浦东上车，到兴化时太阳才斜西。 ② （喻）人过中年。  
 1. 【[太阳上角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_shan_gah.md#太阳上角)】`tae5 ian shan6 gah7` <sup>[如东]</sup> 上午八九点钟左右的时间。  
-1. 【[太阳堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_tan.md#太阳堂)】`tae5 ian tan2` <sup>[如皋]</sup> 太阳穴。  
-1. 【[太阳膛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_tan.md#太阳膛)】`tae5 ian tan2` <sup>[如东]</sup> 太阳穴。  
+1. 【[太阳堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_tan.md#太阳堂)】`tae5 ian tan2` <small>/tʰɛ5 iã tʰã2/<sup>如皋</sup>, /tʰɛ5 iɑŋ tʰɑŋ2/<sup>泰兴</sup></small> 太阳穴。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
 1. 【[太阳地<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_ti_r.md#太阳地<sub>儿</sub>)】`tae5 ian ti6 r` <sup>[泰县]</sup> 太阳照得到的地方：把凳儿搬到太阳地儿去。  
 1. 【[太阳天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_tin.md#太阳天)】`tae5 ian tin1` <sup>[如东]</sup> 天气好，万里无云。  
 1. 【[太阳毒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_toh.md#太阳毒)】`tae5 ian toh8` <sup>[如皋]</sup> ① 阳光强烈，灼人。 ② 太阳光灼伤谓之中吖（受啊）～。  
 1. 【[太阳庵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_un.md#太阳庵)】`tae5 ian un1` <sup>[如皋]</sup> 庙名。在如皋原戴庄乡。  
+1. 【[太阳歪西](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_vae_xi.md#太阳歪西)】`tae5 ian vae1 xi1` <small>/tʰɛ5 iɑŋ ʋɛ1 ɕʝ1/<sup>泰兴</sup></small> 午后太阳偏西。<sup>\[泰兴\]</sup>  
 1. 【[太阳心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_xien.md#太阳心)】`tae5 ian xien1` <sup>[兴化]</sup> ① 阳光照着的地方。 ② 太阳穴。  
-1. 【[太阳心里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_xien_lii.md#太阳心里)】`tae5 ian xien1 lii` <sup>[如皋]</sup> 阳光直射的地方。  
+1. 【[太阳心里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_xien_lii.md#太阳心里)】`tae5 ian xien1 lii` <small>/tʰɛ5 iã ɕiəŋ1 tei/<sup>如皋</sup>, /tʰɛ5 iɑŋ ɕiŋ1 ləɪ/<sup>泰兴</sup></small> 阳光直射的地方。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup><sup>\[如东\]</sup>  
 1. 【[太阳晛中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_xin_zhon.md#太阳晛中)】`tae5 ian xin5 zhon1` <sup>[如皋]</sup> 阴雨连绵，中午偶见太阳，表示仍有连绵阴雨。谚云：“～，屋顶烂洞。”（草屋顶）  
 1. 【[太阳雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_y.md#太阳雨)】`tae5 ian y3` <sup>[如皋]</sup> 有太阳的时侯下雨。  
 1. 【[太阳长毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_zhan_mo.md#太阳长毛)】`tae5 ian zhan3 mo2` <sup>[如皋]</sup> 见“太阳发白”。  
 1. 【[太阳堂堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_tan_tan.md#太阳堂堂)】`tae5 ian2 tan2 tan2` <sup>[东台]</sup> 天气晴朗，阳光灿烂。  
-1. 【[太阳膛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_tan.md#太阳膛)】`tae5 ian2 tan2` 太阳穴  
 1. 【[太阳心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_xien.md#太阳心)】`tae5 ian2 xien1` <sup>[东台]</sup> 太阳穴。  
-1. 【[太阳心里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ian_xien_lii.md#太阳心里)】`tae5 ian2 xien1 lii` ① 日光下 ② 太阳光强烈照射的地方。<sup>\[东台\]</sup>  
+1. 【[太离经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_li_jien.md#太离经)】`tae5 li2 jien1` <small>/tʰɛ5 lʝ2 t͡ɕiŋ1/<sup>泰兴</sup></small> 过分，太离谱。<sup>\[泰兴\]</sup>  
 1. 【[太平舱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_pien_can.md#太平舱)】`tae5 pien2 can1` <sup>[如东]</sup> 帆船的第6舱，存放砂泥，用于压艚。假如捕鱼很多，也可存放鱼货。  
 1. 【[太平缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_pien_gan.md#太平缸)】`tae5 pien2 gan1` <sup>[如皋]</sup> 消防用的贮水池或贮水缸。  
 1. 【[太平药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_pien_iah.md#太平药)】`tae5 pien2 iah8` <sup>[如皋]</sup> 无危险也无显效的药。  
@@ -114,13 +116,13 @@
 1. 【[泰州青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_zheu_qien.md#泰州青)】`tae5 zheu1 qien1` <sup>[如皋]</sup> 青菜品种之一。见“碗儿青”。  
 1. 【[代](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#代)】`tae6` <sup>[如皋]</sup> 替，以现金代物：～奁（给新娘）、～墨（给新进学）、～箔（代纸箔）、～点（代供点）。  
 1. 【[大锺垛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_don_teu.md#大锺垛)】`tae6 don1 teu2` <sup>[如皋]</sup> 地名。今记作“岱东头”，是原戴庄乡政府驻地。当地《秦氏宗谱》记载“明初秦氏移民至此，时名‘大锺垛’读作‘岱东头’”。如皋词典记音tae1 den1 tei2。  
-1. 【[大斧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_fv.md#大斧)】`tae6 fv` <sup>[泰县]</sup> 斧头：这把～快。  
+1. 【[大斧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_fv.md#大斧)】`tae6 fv` <small>/tʰɛ1 fʋ/<sup>泰兴</sup>, /tʰe1 fu/<sup>泰县</sup></small> 斧头<sup>\[泰县\]</sup><sup>\[泰兴\]</sup>：这把～快。<sup>\[泰县\]</sup>  
 1. 【[大斧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_fv.md#大斧)】`tae6 fv3` <small>/tʰɛ1 fu3/<sup>如皋</sup></small> ① 斧子 ② 旧斧头。<sup>\[如皋\]</sup> ③ 工具。铁制，口锋利，脑厚，一般方形。也叫斧头、斧子。<sup>\[如东\]</sup> ④ 斧头。谐音“代富”，砌房子时，亲戚赠送此物，喻意“代代富”。<sup>\[东台\]</sup>  
 1. 【[大斧打凿子，凿子凿木头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_fv_da_cah_zz_cah_zz_cah_moh_teu.md#大斧打凿子，凿子凿木头)】`tae6 fv3 da3 cah8 zz cah8 zz cah8 moh8 teu` <sup>[东台]</sup> 以木匠动作比喻一级压一级。  
 1. 【[大蒙馆<sub>儿</sub>先生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_mon_gun_r_xin_shen.md#大蒙馆<sub>儿</sub>先生)】`tae6 mon2 gun3 r xin1 shen1` <sup>[如皋]</sup> 指初级塾师。俗以职小为大。  
 1. 【[大气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_qi.md#大气)】`tae6 qi5` <small>/tʰɛ1 t͡ɕʰʝ5/<sup>如皋</sup></small> ① 落落大方。<sup>\[如皋\]</sup> ② 出手阔绰，办事不吝啬。<sup>\[如皋\]</sup> ③ 讲义气<sup>\[东台\]</sup>：这小伙～。<sup>\[东台\]</sup>  
 1. 【[大气形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_qi_xien.md#大气形)】`tae6 qi5 xien2` <sup>[如皋]</sup> 落落大方、待人宽厚的样子。  
-1. 【[大蒜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_sun.md#大蒜)】`tae6 sun5` <sup>[泰县]</sup> 大蒜。  
+1. 【[大蒜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_sun.md#大蒜)】`tae6 sun5` <small>/tʰɛ1 sʊ̃/<sup>泰兴</sup>, /tʰe1 sõ5/<sup>泰县</sup></small> 大蒜。<sup>\[泰县\]</sup><sup>\[泰兴\]</sup>  
 1. 【[待慢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_maen.md#待慢)】`tae6 maen6` <sup>[泰州]</sup> 待慢，接待人不周到。  
 1. 【[待媒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_mei.md#待媒)】`tae6 mei2` <sup>[兴化]</sup> 宴请媒人，表示谢意：媒人在婚前及喜日是受人尊重的。无论贫富，请家要请吃三顿酒，请媒酒、～酒和谢媒酒。（马春阳《扬州水乡婚俗散记》）  
 1. 【[待女](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ny.md#待女)】`tae6 ny3` <sup>[东台]</sup> 姑娘出嫁前一天的酒席。这一天男方称“暖轿”。  

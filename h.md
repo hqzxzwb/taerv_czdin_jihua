@@ -1822,7 +1822,7 @@
 1. 【[回债](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_zhae.md#回债)】`huei2 zhae5` <sup>[兴化]</sup> ① 糊弄索债的人：我俫催他还贷，他一次又一次的～。｜ ② （喻）搪塞：“……每逢要裹脚，你都是像～一般，落后都有一场打。”（《广陵潮》十二）  
 1. 【[回注](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_zhv.md#回注)】`huei2 zhv5` ① 感到满足而谢绝<sup>\[泰州\]</sup><sup>\[东台\]</sup>：这种人心太黑，不要说你才送吖这几回礼，你天天送礼把他，他都不作兴同你～的。<sup>\[泰州\]</sup>｜不管把他多少东西，他总不得～。<sup>\[东台\]</sup> ② 因长时间吃某种美食而失去对此种美食的食欲<sup>\[泰州\]</sup>：这些时天天弄红烧肉吃，把人都吃咖～唻。<sup>\[泰州\]</sup>  
 1. 【[回子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_zz.md#回子)】`huei2 zz` <sup>[如皋]</sup> 伊斯兰教徒、回族人、波斯人：识宝～｜～吃猪肉——自坏教门。  
-1. 【[茴香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_xian.md#茴香)】`huei2 xian1` <small>/xuəi2 ɕiaŋ1/<sup>兴化</sup></small> ① 伞形科植物茴香，多年生草本，有强烈香气。<sup>\[如东\]</sup> ② 一种调味的香料。<sup>\[兴化\]</sup>  
+1. 【[茴香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_xian.md#茴香)】`huei2 xian1` <small>/xuəi2 ɕiaŋ1/<sup>兴化</sup></small> 茴香，一种植物，可作香料<sup>\[兴化\]</sup><sup>\[泰州\]</sup>\[如东：伞形科植物，多年生草本，有强烈香气。\]  
 1. 【[茴香果](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_xian_gu.md#茴香果)】`huei2 xian1 gu3` <sup>[如东]</sup> 伞形科植物茴香的果实。  
 1. 【[鮰䱀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_ngan.md#鮰䱀)】`huei2 ngan1` <sup>[如皋]</sup> 长吻鮠。鱼纲，鲇亚科。  
 1. 【[鮰鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_y.md#鮰鱼)】`huei2 y2` <sup>[泰州]</sup> 俗称鮠鱼，本地主要名贵江鲜之一，体长眼小，口呈新月形状而唇肥厚，无鳞，体色粉红，背部稍带灰色，腹部白色，鳍为灰黑色。  

@@ -877,6 +877,7 @@
 1. 【[夫妇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_fv.md#夫妇)】`fv1 fv6` <sup>[如东]</sup> 夫妻。  
 1. 【[夫口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_keu.md#夫口)】`fv1 keu` <sup>[东台]</sup> 讨厌的、不好相处的人（这里“夫”是匹夫意，“口”为轻声）：这个～犯嫌哎！  
 1. 【[夫妻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_qi.md#夫妻)】`fv1 qi1` <sup>[如东]</sup> 通过法律程序结婚的男女称夫妻。  
+1. 【[夫妻店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_qi_din.md#夫妻店)】`fv1 qi1 din5` <small>/fʋ1 t͡ɕʰʝ1 tĩ5/<sup>泰兴</sup></small> 夫妻一起经营的商店。有时也指夫妻做官“一唱一和”的家天下，含贬义。<sup>\[泰兴\]</sup>  
 1. 【[夫妻两个佮的一副脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_qi_laen_gu.md#夫妻两个佮的一副脸)】`fv1 qi1 laen3 gu guh7 dii ieh7 fv5 lin3` <sup>[东台]</sup> 指夫妻要团结和睦，荣辱与共。  
 1. 【[夫妻老小店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_qi_lo_xio.md#夫妻老小店)】`fv1 qi1 lo3 xio3 din5` <sup>[兴化]</sup> 由家庭经营，一般不雇用员工的小店。  
 1. 【[夫妻相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_qi_xian.md#夫妻相)】`fv1 qi1 xian5` <sup>[东台]</sup> 夫妻之间面容相似的现象：他俫越来越有～。  

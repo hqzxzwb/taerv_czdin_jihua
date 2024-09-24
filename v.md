@@ -131,18 +131,19 @@
 1. 【[胡蜂子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_fon_zz.md#胡蜂子)】`v2 fon1 zz3` <sup>[如东]</sup> 胡蜂科昆虫大黄蜂的幼虫，又称大黄蜂子。  
 1. 【[芜而不轨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_er_beh_guei.md#芜而不轨)】`v2 er2 beh7 guei3` <sup>[东台]</sup> ① 指某人鬼祟，不上正轨。 ② 素质芜劣，来路不正：交友要慎重，少与～的人来往。  
 1. 【[㳇水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_shuei.md#㳇水)】`v3 shuei3` <sup>[东台]</sup> 游泳。见于《水浒传》。（“㳇”读若“舞”）也作凫水。  
+1. 【[五脏六肺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_can_loh_fei.md#五脏六肺)】`v3 can6 loh8 fei5` <small>/ʋ3 t͡sʰɑŋ1 lɔʔ8 fəɪ5/<sup>泰兴</sup></small> 五脏，谓心、肝、脾、肺、肾五种器官。泛指内脏。<sup>\[泰兴\]</sup>：乡人云：“麻雀儿虽小，～俱全。”<sup>\[泰兴\]</sup>  
 1. 【[五脏六腑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_can_loh_fv.md#五脏六腑)】`v3 can6 loh8 fv3` <sup>[如皋]</sup> 内脏总称。（五脏：心、肝、脾、肺、肾。六腑：胃、胆、小肠、大肠、膀胱、三焦。）  
-1. 【[五脏庙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_can_mio.md#五脏庙)】`v3 can6 mio6` <small>/u3 t͡sʰaŋ6 miɔ6/<sup>兴化</sup>, /ʋu3 t͡sʰã1 miɔ1/<sup>如皋</sup></small> ① 谑指肠胃<sup>\[如皋\]</sup>：～里唱空城计（饿了）。<sup>\[如皋\]</sup> ② （戏）肚皮<sup>\[兴化\]</sup>：他有两个钱就去修～。正是，珍羞百味片时休，果然都送入～（《金瓶梅词话》十三）。<sup>\[兴化\]</sup>  
+1. 【[五脏庙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_can_mio.md#五脏庙)】`v3 can6 mio6` <small>/u3 t͡sʰaŋ6 miɔ6/<sup>兴化</sup>, /ʋu3 t͡sʰã1 miɔ1/<sup>如皋</sup>, /ʋ3 t͡sʰɑŋ1 miɔ1/<sup>泰兴</sup></small> ① 谑指肠胃<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：～里唱空城计（饿了）。<sup>\[如皋\]</sup>｜饿煞咖了，得抢吖打发下子～。<sup>\[泰兴\]</sup> ② （戏）肚皮<sup>\[兴化\]</sup>：他有两个钱就去修～。正是，珍羞百味片时休，果然都送入～（《金瓶梅词话》十三）。<sup>\[兴化\]</sup>  
 1. 【[五尺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_cheh.md#五尺)】`v3 cheh7` <sup>[如东]</sup> 木工使用的度量工具，长五木尺。  
 1. 【[五潮水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_cho_shuei.md#五潮水)】`v3 cho2 shuei3` 阴历初十和二十五日潮水水位开始升高，叫作起水。之后十天的潮水分别叫作一潮水至十潮水。十五日和三十日的潮水叫作五潮水，若该月没有三十日，则顺延至下月初一的潮水叫作五潮水。  
 1. 【[五齿钉筢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_chr_dien_pa.md#五齿钉筢)】`v3 chr3 dien1 pa2` <sup>[兴化]</sup> 钉筢通常为四齿，这里是手的戏称：他来不洎用筷子，直接玩起～来！  
 1. 【[五次三番](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_cz_saen_faen.md#五次三番)】`v3 cz5 saen1 faen1` <sup>[兴化]</sup> 一次又一次的。也说“三番五次”。  
 1. 【[五大六粗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_da_loh_cv.md#五大六粗)】`v3 da6 loh8 cv1` <sup>[如东]</sup> 身材粗壮：这个人～的，肯定有力气。  
 1. 【[五大三粗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_da_saen_cv.md#五大三粗)】`v3 da6 saen1 cv1` <small>/ʋu3 ta1 sẽ1 t͡sʰu1/<sup>如皋</sup>, /ʋ3 tɑ1 ɕiɛ̃1 t͡sʰu1/<sup>泰兴</sup></small> 形容人身体高大粗壮。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>：一眨眼，他竟成吖个～的小伙子。<sup>\[泰兴\]</sup>  
-1. 【[五斗厨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_deu_chv.md#五斗厨)】`v3 deu3 chv2` <sup>[兴化]</sup> 一种放置衣物的橱柜，一般有五个大抽屉。  
+1. 【[五斗厨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_deu_chv.md#五斗厨)】`v3 deu3 chv2` <small>/u3 tɤ3 t͡sʰu2/<sup>兴化</sup>, /ʋ3 təɪ3 t͡sʰu2/<sup>泰兴</sup></small> 家具名，一种橱<sup>\[泰兴\]</sup>\[兴化：一种放置衣物的橱柜，一般有五个大抽屉。\]  
 1. 【[五斗缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_deu_gan.md#五斗缸)】`v3 deu3 gan1` <sup>[如皋]</sup> 可贮五斗米的小瓮子缸。  
 1. 【[五斗柜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_deu_kuei.md#五斗柜)】`v3 deu3 kuei6` <sup>[如皋]</sup> 相对新式的有五个抽屉的橱柜（家具）。  
-1. 【[五点六点](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_din_loh_din.md#五点六点)】`v3 din3 loh8 din3` <sup>[兴化]</sup> 形容忐忑不安的心情：……天天盼大好来带桃子，可盼了好几天，不见大好的影子，心里少不了～的。（钱国怀《桃子》）  
+1. 【[五点六点](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_din_loh_din.md#五点六点)】`v3 din3 loh8 din3` <small>/u3 tiɪ̃3 lɔʔ8 tiɪ̃3/<sup>兴化</sup>, /ʋ3 tĩ3 lɔʔ8 tĩ3/<sup>泰兴</sup></small> ① 形容忐忑不安的心情<sup>\[兴化\]</sup>：……天天盼大好来带桃子，可盼了好几天，不见大好的影子，心里少不了～的。（钱国怀《桃子》）<sup>\[兴化\]</sup> ② 喻受惊吓后心跳加快，有恐惧感。<sup>\[泰兴\]</sup>：一声炸雷，吓得我～的。<sup>\[泰兴\]</sup>  
 1. 【[五点六点的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_din_loh_din_dii.md#五点六点的)】`v3 din3 loh8 din3 dii` <small>/ʋu3 tĩ3 lɔʔ8 tĩ3 tei/<sup>如皋</sup></small> ① 忐忑不安的样子。<sup>\[如皋\]</sup> ② 令人疑三惑四，很不放心<sup>\[东台\]</sup>：他说我吃的菜有污染，弄得我～。<sup>\[东台\]</sup>  
 1. 【[五点五点](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_din_v_din.md#五点五点)】`v3 din3 v3 din3` <sup>[泰县]</sup> 忐忑不安：我心里～的，不晓得今朝突然叫我来做甚的？  
 1. 【[五点五点的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_din_v_din_dii.md#五点五点的)】`v3 din3 v3 din3 dii` <sup>[如皋]</sup> 忐忑不安的样子。  
@@ -162,8 +163,9 @@
 1. 【[五光十色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_guan_sheh_seh.md#五光十色)】`v3 guan1 sheh8 seh7` <sup>[如东]</sup> 非常光彩。  
 1. 【[五鬼星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_guei_xien.md#五鬼星)】`v3 guei3 xien1` <sup>[东台]</sup> 指春夏秋冬四季之瘟及总管中瘟五个瘟神，后来人们用来喻指扰乱秩序影响稳定的人。  
 1. 【[五官](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_gun.md#五官)】`v3 gun1` <sup>[如东]</sup> 耳、目、口、鼻、身。也指面部器官。  
-1. 【[五红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_hon.md#五红)】`v3 hon2` <small>/u3 xoŋ2/<sup>兴化</sup>, /ʋu3 xɔŋ2/<sup>如皋</sup></small> ① 指端午节专用之菜有五样红色的菜肴（另有五绿、五黄同为端午菜肴）。如红烧肉、红萝卜、苋菜、火腿、虾等。<sup>\[如皋\]</sup> ② （民俗）端午节午餐中的红萝卜、盐水虾、红苋菜、咸鸭蛋、红烧鱼，也可加上红烧肉、西红柿等红色食品任选五样。据说吃五红可去“五毒”。<sup>\[东台\]</sup> ③ 民俗端午节的午餐中要有炒虾、红烧肉、红煮鱼、苋菜、咸鸭蛋或红萝卜等五祥红色的菜肴。<sup>\[兴化\]</sup>  
+1. 【[五红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_hon.md#五红)】`v3 hon2` <small>/u3 xoŋ2/<sup>兴化</sup>, /ʋu3 xɔŋ2/<sup>如皋</sup>, /ʋ3 xɔŋ2/<sup>泰兴</sup></small> 民俗，端午五样红色菜肴\[如皋：如红烧肉、红萝卜、苋菜、火腿、虾等。（另有五绿、五黄同为端午菜肴）\]\[泰兴：端午节中午家家吃“五红”。一般为红烧肉、红烧鱼、虾、红苋菜、咸鸭蛋，谓可避邪、保健。\]\[东台：端午节午餐中的红萝卜、盐水虾、红苋菜、咸鸭蛋、红烧鱼，也可加上红烧肉、西红柿等红色食品任选五样。据说吃五红可去“五毒”。\]\[兴化：端午节的午餐中要有炒虾、红烧肉、红煮鱼、苋菜、咸鸭蛋或红萝卜等五样红色的菜肴。\]  
 1. 【[五花肠子六花心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_hua_chan_zz.md#五花肠子六花心)】`v3 hua chan2 zz loh8 hua xien1` <sup>[兴化]</sup> 形容三心二意或心怀邪念：“……你要仔细些，不要～似的……”（《广陵潮》三四）  
+1. 【[五花肺子六花心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_hua_fei_zz.md#五花肺子六花心)】`v3 hua fei5 zz loh8 hua xien1` <small>/ʋ3 xuɑ fəɪ5 t͡sɿ lɔʔ8 xuɑ ɕiŋ1/<sup>泰兴</sup></small> 喻各人有各人的想法、看法，意见不能统一。<sup>\[泰兴\]</sup>  
 1. 【[五花八门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_hua_baeh_men.md#五花八门)】`v3 hua1 baeh7 men2` <sup>[如东]</sup> 比喻花样繁多或变化多端：这套戏法～的，看都看不过来。  
 1. 【[五花墩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_hua_den_r.md#五花墩<sub>儿</sub>)】`v3 hua1 den1 r` <sup>[如皋]</sup> 乱放乱丢，到处都是。  
 1. 【[五花肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_hua_roh.md#五花肉)】`v3 hua1 roh8` <small>/u3 xua1 lɔʔ8/<sup>兴化</sup>, /ʋu3 xua1 ɻɔʔ8/<sup>如皋</sup>, /ʋ3 xuɑ1 ɻɔʔ8/<sup>泰兴</sup>, /u3 xua1 ɻɔʔ8/<sup>泰县</sup></small> ① 猪的肋部肉，分皮、白、精、白、精五层。实为皮、白、精三类故又称“五花三层”，适宜红烧。<sup>\[如皋\]</sup> ② 肥瘦相间的猪肉，称五花肉。<sup>\[如东\]</sup> ③ 接近猪腹部肥瘦相间的肉。<sup>\[兴化\]</sup> ④ 肥瘦相间的猪肉。<sup>\[泰县\]</sup> ⑤ 肥瘦分层相间的猪肉，在前腿和腹部之间。<sup>\[泰兴\]</sup>  
@@ -174,9 +176,10 @@
 1. 【[五洋店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_ian_din.md#五洋店)】`v3 ian2 din5` <sup>[如皋]</sup> 卖洋货的店铺。  
 1. 【[五洋四海的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_ian_sz_hae_dii.md#五洋四海的)】`v3 ian2 sz5 hae3 dii` <sup>[东台]</sup> 没有任何限制，无边无际：这个伢儿太野，一天到晚～的乱跑。  
 1. 【[五阎王怕恶鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_in_van_pa_ngah_guei.md#五阎王怕恶鬼)】`v3 in2 van2 pa5 ngah7 guei3` <sup>[如皋]</sup> 比喻恶人还怕更恶的人。  
+1. 【[五月五，是端午](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_iuh_v_shr.md#五月五，是端午)】`v3 iuh v3 shr6 dun1 v` <small>/ʋ3 yʊʔ ʋ3 sɿ1 tʊ̃1 ʋ/<sup>泰兴</sup></small> 谓农历五月初五是传统的端午节。<sup>\[泰兴\]</sup>  
 1. 【[五月菊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_iuh_jioh.md#五月菊)】`v3 iuh8 jioh7` <sup>[如皋]</sup> 翠菊。  
 1. 【[五架](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_jia.md#五架)】`v3 jia5` <sup>[如东]</sup> 房屋的第五根横梁，称五架。  
-1. 【[五架梁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_jia_lian.md#五架梁)】`v3 jia5 lian2` <small>/ʋu3 t͡ɕia5 liã2/<sup>如皋</sup></small> ① 用五檩的房屋。旧式平房多用之。<sup>\[如皋\]</sup> ② 共有五根梁的一种民房，中间正梁叫中脊，两边各两根与之平行，分别为二桁和边桁。<sup>\[东台\]</sup>  
+1. 【[五架梁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_jia_lian.md#五架梁)】`v3 jia5 lian2` <small>/ʋu3 t͡ɕia5 liã2/<sup>如皋</sup>, /ʋ3 t͡ɕiɑ5 liɑŋ2/<sup>泰兴</sup></small> ① 用五檩的房屋。旧式平房多用之。<sup>\[如皋\]</sup> ② 共有五根梁的一种民房，中间正梁叫中脊，两边各两根与之平行，分别为二桁和边桁。<sup>\[东台\]</sup> ③ 乡间一种每间五根梁条架成的平房。<sup>\[泰兴\]</sup>  
 1. 【[五架梁七架起](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_jia_lian_qieh_jia_qi.md#五架梁七架起)】`v3 jia5 lian2 qieh7 jia5 qi3` <sup>[如皋]</sup> 用五檩，无边檩，将檐椽架于前后墙上，故实为七檩式。  
 1. 【[五瘠六瘦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_jieh_loh_sheu.md#五瘠六瘦)】`v3 jieh7 loh8 sheu5` <sup>[兴化]</sup> 形容瘦弱、困顿：“……就是你老人家老伯老伯的把他折得～……”（《武松》三）‖也作“五脊六兽”，为屋檐及屋脊两端的花瓦。  
 1. 【[五脊六兽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_jieh_loh_sheu.md#五脊六兽)】`v3 jieh7 loh8 sheu5` <sup>[兴化]</sup> 屋檐及屋脊两端的花瓦。形容瘦弱、困顿。  
@@ -215,12 +218,14 @@
 1. 【[五桅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_vei.md#五桅)】`v3 vei2` <sup>[如东]</sup> 帆船上的后桅，竖在船尾的右边，固定在压舵梁上。这是船上最矮的桅樯。  
 1. 【[五桅篷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_vei_pon.md#五桅篷)】`v3 vei2 pon2` <sup>[如东]</sup> 五桅上的风帆。  
 1. 【[五味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_vei.md#五味)】`v3 vei6` <sup>[如东]</sup> 酸、甜、苦、辣、咸。泛指各种味道。  
-1. 【[五香茶干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_xian_cha_gun.md#五香茶干)】`v3 xian1 cha2 gun1` <small>/u3 ɕiaŋ1 t͡sʰa2 kũ1/<sup>兴化</sup>, /ʋu3 ɕiã1 t͡sʰa2 kʊ̃1/<sup>如皋</sup></small> ① 又称“素鸡”。用百叶卷加五香调料煮透切成的块，口感鲜嫩，分“香干”“臭干”两种。旧时有人㧟笿儿沿街叫卖。<sup>\[如皋\]</sup> ② 豆制品。茶干儿加花椒桂皮、八角、酱油、盐、味精等放在锅中煮制而成，赭红色，味醇香。<sup>\[如东\]</sup> ③ 加香料煮熟的茶干，方寸许，酱色，可用来佐茶。<sup>\[兴化\]</sup>  
+1. 【[五香茶干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_xian_cha_gun.md#五香茶干)】`v3 xian1 cha2 gun1` <small>/u3 ɕiaŋ1 t͡sʰa2 kũ1/<sup>兴化</sup>, /ʋu3 ɕiã1 t͡sʰa2 kʊ̃1/<sup>如皋</sup>, /ʋ3 ɕiɑŋ1 t͡sʰɑ2 kʊ̃1/<sup>泰兴</sup></small> ① 又称“素鸡”。用百叶卷加五香调料煮透切成的块，口感鲜嫩，分“香干”“臭干”两种。旧时有人㧟笿儿沿街叫卖。<sup>\[如皋\]</sup> ② 豆制品。茶干儿加花椒桂皮、八角、酱油、盐、味精等放在锅中煮制而成，赭红色，味醇香。<sup>\[如东\]</sup> ③ 加香料煮熟的茶干，方寸许，酱色，可用来佐茶。<sup>\[兴化\]</sup> ④ 一种以五香等香料加工而成的豆腐干，块状，十分可口。<sup>\[泰兴\]</sup>  
 1. 【[五香茶叶蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_xian_cha_ih_taen.md#五香茶叶蛋)】`v3 xian1 cha2 ih8 taen6` <small>/u3 ɕiaŋ1 t͡sʰa2 iɪʔ8 tʰɛ̃6/<sup>兴化</sup>, /ʋu3 ɕiã1 t͡sʰa2 iʔ8 tʰẽ1/<sup>如皋</sup></small> ① 鸡蛋水煮熟，揉壳，加酱油、茶叶、五香浸煮而成的菜。<sup>\[如皋\]</sup> ② 加香料、酱油、茶叶等调料煮熟的鸡蛋。<sup>\[兴化\]</sup>  
+1. 【[五香螺螺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_xian_lu_lu.md#五香螺螺)】`v3 xian1 lu1 lu1` <small>/ʋ3 ɕiɑŋ1 lɤɯ1 lɤɯ1/<sup>泰兴</sup></small> 加五香八角、辣椒等佐料作成的去屁股的螺螺，乡人喜食之品。<sup>\[泰兴\]</sup>  
 1. 【[五香蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_xian_taen.md#五香蛋)】`v3 xian1 taen6` <sup>[如东]</sup> 食品。先将鸡蛋煮熟，再把蛋壳敲裂，放进配有八角、桂皮、香叶、酱油等作料的水中煮。色绛，味香。  
 1. 【[五香蜗螺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_xian_u_lu_r.md#五香蜗螺<sub>儿</sub>)】`v3 xian1 u1 lu1 r` <sup>[如皋]</sup> 作料中有五香的炒煮螺，已剪去尾壳，用嘴吸食其肉。  
 1. 【[五心烦恼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_xien_faen_no.md#五心烦恼)】`v3 xien1 faen2 no3` <small>/ʋ3 ɕiŋ1 fɛ̃2 nɔ3/<sup>泰兴</sup></small> 犹言特别烦恼，非常烦恼。<sup>\[泰兴\]</sup>：今朝他吃咖亏，～的样子。<sup>\[泰兴\]</sup>  
 1. 【[五心烦躁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_xien_faen_zo.md#五心烦躁)】`v3 xien1 faen2 zo5` <small>/u3 ɕin1 fɛ̃2 t͡sɔ5/<sup>兴化</sup>, /ʋu3 ɕiəŋ1 fẽ2 t͡sɔ5/<sup>如皋</sup></small> ① 心情烦闷急躁。<sup>\[如东\]</sup>：芳芳这几天～，甚的事都不想做。<sup>\[如东\]</sup> ② 本指生理上五心（两手心、两足心与心胸处），有烦热、烦闷感。泛指烦躁得坐立不安。<sup>\[东台\]</sup> ③ 形容人心烦意乱，焦躁不安的情态<sup>\[兴化\]</sup>：老头子才从工作岗位上退下来，成天～的。<sup>\[兴化\]</sup> ④ 想法很多、情绪多变、焦躁不安。五心，五脏、五内、五中：指心、肝、脾、肺、肾。<sup>\[如皋\]</sup>  
+1. 【[五张头锅子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_zhan_teu_gu.md#五张头锅子)】`v3 zhan1 teu2 gu1 zz` <small>/ʋ3 t͡sɑŋ1 tʰəɪ2 kɤɯ1 t͡sɿ/<sup>泰兴</sup></small> 铁锅以“张”为量词确定大小。五张头为中等铁锅。<sup>\[泰兴\]</sup>  
 1. 【[午](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v.md#午)】`v3` <sup>[东台]</sup> 地支第七位。  
 1. 【[午饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_faen.md#午饭)】`v3 faen6` <sup>[如东]</sup> 十二点钟左右就餐，这顿饭称午饭。  
 1. 【[午槛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_kaen.md#午槛)】`v3 kaen3` <small>/u3 kʰɛ̃3/<sup>兴化</sup></small> ① 门框下部的横木板。也叫门槛。<sup>\[如东\]</sup> ② 门框下部的横木（也有用石头、水泥做成的）。也作“门槛”“门坎”。<sup>\[东台\]</sup> ③ 门槛。<sup>\[兴化\]</sup>  

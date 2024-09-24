@@ -788,7 +788,7 @@
 1. 【[门墩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_den.md#门墩)】`men2 den1` <sup>[如东]</sup> 门臼。  
 1. 【[门对子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_dy_zz.md#门对子)】`men2 dy5 zz` <sup>[东台]</sup> 对联、春联。通常除夕贴上去迎新年。  
 1. 【[门房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_fan.md#门房)】`men2 fan` <sup>[泰兴]</sup> 传达室：我在门房里看看门，烧烧开水  
-1. 【[门房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_fan.md#门房)】`men2 fan2` <small>/mən2 faŋ2/<sup>兴化</sup>, /məŋ2 fɑŋ2/<sup>泰兴</sup></small> ① 同宗的人：他是我～叔子。颜俊有个～远亲，姓尤名辰，号少梅……（《醒世恒言》七）<sup>\[兴化\]</sup> ② 同宗的各房分支<sup>\[泰兴\]</sup>：庄上姓张的都是～家里<sup>\[泰兴\]</sup>  
+1. 【[门房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_fan.md#门房)】`men2 fan2` <small>/mən2 faŋ2/<sup>兴化</sup>, /məŋ2 fɑŋ2/<sup>泰兴</sup></small> ① 同宗的人<sup>\[兴化\]</sup>：他是我～叔子。颜俊有个～远亲，姓尤名辰，号少梅……（《醒世恒言》七）<sup>\[兴化\]</sup> ② 同宗的各房分支<sup>\[泰兴\]</sup>：庄上姓张的都是～家里<sup>\[泰兴\]</sup>  
 1. 【[门分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_fen.md#门分)】`men2 fen` <sup>[如皋]</sup> 应有的：说话做事要把自己的～礼站吖足咖，不要失礼。  
 1. 【[门份礼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_fen_li_r.md#门份礼<sub>儿</sub>)】`men2 fen6 li3 r` <sup>[东台]</sup> 经统一分配明确的各自待遇或责任：各人把自己的～拿走，并负责送到位。  
 1. 【[门福寿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_foh_sheu.md#门福寿)】`men2 foh7 sheu6` <sup>[如皋]</sup> 门额：门楣上部加装的横木，横批常用“福寿”字样。（与门搭子相配的一只有环的钉子，钉于门的右扇外面，使环呈上下通孔。）  

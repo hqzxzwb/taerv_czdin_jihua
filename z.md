@@ -1194,6 +1194,7 @@
 1. 【[支锅腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_gu_qian.md#支锅腔)】`zhr1 gu1 qian1` <sup>[兴化]</sup> ① 安放锅腔，以便生火做饭。 ② （喻）年青人和父母分灶另爨，独立生活：肋食骨里～。 ③ （喻）临时凄身：脚面上～。  
 1. 【[支锅子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_gu_zz.md#支锅子)】`zhr1 gu1 zz` 砌灶  
 1. 【[支应](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ien.md#支应)】`zhr1 ien5` <sup>[东台]</sup> 应付；处理：我去～下子。  
+1. 【[支牙舞爪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_nga_v_zho.md#支牙舞爪)】`zhr1 nga2 v3 zho3` <small>/t͡sɿ1 ŋɑ2 ʋ3 t͡sɔ3/<sup>泰兴</sup></small> 丫丫叉叉，乱七八糟；呲牙咧嘴。<sup>\[泰兴\]</sup>  
 1. 【[支派](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_pae.md#支派)】`zhr1 pae5` <sup>[东台]</sup> 分派：厂长～他值班。  
 1. 【[支跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_qio.md#支跷)】`zhr1 qio1` <small>/t͡sɿ1 t͡ɕʰiɔ1/<sup>如皋</sup></small> ① 发生波折<sup>\[如皋\]</sup>：这件事～下来呀。<sup>\[如皋\]</sup> ② 不顺从<sup>\[如皋\]</sup>：他同你是～的。<sup>\[如皋\]</sup> ③ 波折，不顺。<sup>\[如皋\]</sup>  
 1. 【[支跷话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_qio_hua.md#支跷话)】`zhr1 qio1 hua6` <sup>[如皋]</sup> 见“怮跷话”。  

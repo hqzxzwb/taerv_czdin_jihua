@@ -788,7 +788,6 @@
 1. 【[盔帽<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei_mo_r.md#盔帽<sub>儿</sub>)】`kuei1 mo6 r` <sup>[东台]</sup> 指人的个子容貌：他的～小，挑担不能重。  
 1. 【[𩏣帽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei_mo_zz.md#𩏣帽子)】`kuei1 mo6 zz` <sup>[如皋]</sup> 用模具给帽子整形出样。  
 1. 【[奎级](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei_jieh.md#奎级)】`kuei2 jieh7` <sup>[东台]</sup> 咸鸭蛋与皮蛋的分级比较特殊，在特级与一级之间有个级别叫奎级：批发5缸～皮蛋。  
-1. 【[茴香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei_xian.md#茴香)】`kuei2 xian1` <sup>[泰州]</sup> 茴香，泰州方音特殊。  
 1. 【[葵花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei_hua.md#葵花)】`kuei2 hua1` <sup>[如东]</sup> 菊科植物向日葵，一年生草本。  
 1. 【[葵花茎髓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei_hua_jien_xyen.md#葵花茎髓)】`kuei2 hua1 jien1 xyen3` <sup>[如东]</sup> 菊科植物向日葵茎髓。  
 1. 【[葵花托](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei_hua_tah.md#葵花托)】`kuei2 hua1 tah7` <sup>[如东]</sup> 菊科植物向日葵花托。  

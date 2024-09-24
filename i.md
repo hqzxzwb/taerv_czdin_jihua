@@ -231,7 +231,7 @@
 1. 【[夜得晏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_deh_ngaen.md#夜得晏)】`ia6 deh7 ngaen5` <sup>[如皋]</sup> 春分后昼长夜短，天黑得较晚。  
 1. 【[夜得早](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_deh_zo.md#夜得早)】`ia6 deh7 zo3` <sup>[如皋]</sup> 秋分后昼短夜长，天黑得较早。  
 1. 【[夜顿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_den_zz.md#夜顿子)】`ia6 den5 zz` <sup>[兴化]</sup> 夜餐：他每天临睡前要吃～。｜“……幸好跑得快，才滑出来，稍微慢一点，我也要被妖怪当～吃了……”（《皮五辣子》四）  
-1. 【[夜饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_faen.md#夜饭)】`ia6 faen6` <small>/ia6 fɛ̃6/<sup>兴化</sup>, /ia1 fẽ1/<sup>如皋</sup></small> ① 晚饭 ② 晚饭。<sup>\[如皋\]</sup> ③ 晚饭。<sup>\[如东\]</sup> ④ 晚饭<sup>\[东台\]</sup>：～～，吃到鸭子生蛋。<sup>\[东台\]</sup> ⑤ 晚饭。<sup>\[兴化\]</sup>：谚曰：～～，吃到鸭子生蛋。<sup>\[兴化\]</sup>  
+1. 【[夜饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_faen.md#夜饭)】`ia6 faen6` <small>/ia6 fɛ̃6/<sup>兴化</sup>, /ia1 fẽ1/<sup>如皋</sup></small> ① 晚饭 ② 晚饭。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup>：～～，吃到鸭子生蛋。<sup>\[东台\]</sup>｜谚曰：～～，吃到鸭子生蛋。<sup>\[兴化\]</sup>  
 1. 【[夜更头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_gen_teu.md#夜更头)】`ia6 gen1 teu` <small>/ia1 kəŋ1 tʰɤɯ/<sup>泰县</sup></small> ① 半夜三更。<sup>\[如东\]</sup> ② 半夜三更。<sup>\[泰县\]</sup>  
 1. 【[夜膏谯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_go_qio.md#夜膏谯)】`ia6 go1 qio` <sup>[兴化]</sup> 熬夜：打～。  
 1. 【[夜觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_go.md#夜觉)】`ia6 go5` <sup>[如皋]</sup> 夜里睡觉。有日觉接～之说。  

@@ -316,13 +316,15 @@
 1. 【[牙花子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_hua_zz.md#牙花子)】`nga2 hua1 zz` <sup>[兴化]</sup> ① 牙垢。 ② 齿龈。  
 1. 【[牙黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_huan.md#牙黄)】`nga2 huan2` <sup>[泰县]</sup> 一种黄颜色。  
 1. 【[牙黄色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_huan_seh.md#牙黄色)】`nga2 huan2 seh7` <sup>[兴化]</sup> 近似象牙的淡黄颜色。  
+1. 【[牙□子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_ion_zz.md#牙□子)】`nga2 ion1 zz` <small>/ŋɑ2 iɔŋ1 t͡sɿ/<sup>泰兴</sup></small> 牙龈。<sup>\[泰兴\]</sup>  
 1. 【[牙祭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_ji.md#牙祭)】`nga2 ji5` <sup>[兴化]</sup> ① 旧俗，商店、作坊于初二、十六改善伙食，午餐加一点鱼肉等荤腥。汪曾祺《岁寒三友》自注：初二、十六一这是店铺里打～的日子。 ② （戏）谓团体内改善伙食。  
 1. 【[牙嘴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_jy_r.md#牙嘴<sub>儿</sub>)】`nga2 jy3 r` <sup>[泰县]</sup> 牙齿外露的人：这个人是个～。  
-1. 【[牙硍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_ken.md#牙硍)】`nga2 ken5` <sup>[泰州]</sup> 牙垢：洗～。  
-1. 【[牙𪣩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_ken.md#牙𪣩)】`nga2 ken5` <small>/a2 kʰən5/<sup>兴化</sup></small> ① 牙齿表面黄褐色或黄色的污垢。<sup>\[东台\]</sup> ② 牙齿表面黑褐色或黄色的污垢。<sup>\[兴化\]</sup>  
-1. 【[牙棱子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_len_zz.md#牙棱子)】`nga2 len6 zz` ① 牙龈 ② 牙床。<sup>\[如东\]</sup>  
+1. 【[牙𪣩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_ken.md#牙𪣩)】`nga2 ken5` <small>/a2 kʰən5/<sup>兴化</sup>, /ŋɑ2 kʰəŋ5/<sup>泰兴</sup></small> 牙垢。<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup><sup>\[泰州\]</sup>：洗～。<sup>\[泰州\]</sup>  
+1. 【[牙棱子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_len_zz.md#牙棱子)】`nga2 len6 zz` 牙龈，牙床<sup>\[如东\]</sup>  
 1. 【[牙楞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_len_zz.md#牙楞子)】`nga2 len6 zz` <sup>[如皋]</sup> 牙龈。  
-1. 【[牙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#牙子)】`nga2 zz` <small>/a2 t͡sɿ/<sup>兴化</sup>, /ŋa2 t͡sɿ/<sup>如皋</sup></small> ① 牙齿。<sup>\[如皋\]</sup><sup>\[兴化\]</sup> ② 像牙一样的东西<sup>\[兴化\]</sup>：路～。<sup>\[兴化\]</sup> ③ 旧称买卖、租赁的中介人。<sup>\[兴化\]</sup>：房～<sup>\[兴化\]</sup>｜鱼～。<sup>\[兴化\]</sup>  
+1. 【[牙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#牙子)】`nga2 zz` <small>/a2 t͡sɿ/<sup>兴化</sup>, /ŋa2 t͡sɿ/<sup>如皋</sup>, /ŋɑ2 t͡sɿ/<sup>泰兴</sup></small> ① 牙齿。<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：拿～/拔牙<sup>\[泰兴\]</sup>｜装～/装牙<sup>\[泰兴\]</sup> ② 像牙一样的东西<sup>\[兴化\]</sup>：路～。<sup>\[兴化\]</sup> ③ 旧称买卖、租赁的中介人。<sup>\[兴化\]</sup>：房～<sup>\[兴化\]</sup>｜鱼～。<sup>\[兴化\]</sup>  
+1. 【[牙子打下来有半升](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz_da_ha.md#牙子打下来有半升)】`nga2 zz da3 ha lae ieu3 bun5 shen1` <small>/ŋɑ2 t͡sɿ tɑ3 xɑ lɛ iɤɯ3 pʊ̃5 səŋ1/<sup>泰兴</sup></small> 谓吃饭的人多，家庭人口多。<sup>\[泰兴\]</sup>  
+1. 【[牙子浮啊嘴里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz_fv_a.md#牙子浮啊嘴里)】`nga2 zz fv2 a zuei3 lii` <small>/ŋɑ2 t͡sɿ fʋ2 a t͡suəɪ3 ləɪ/<sup>泰兴</sup></small> 喻说话不负责任，信口开河。<sup>\[泰兴\]</sup>  
 1. 【[牙子咬起来撑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz_ngo_qi_lae_chen.md#牙子咬起来撑)】`nga2 zz ngo3 qi lae chen1` <sup>[如皋]</sup> 硬撑。  
 1. 【[牙子咬起来撑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz_ngo_qi_lae_chen.md#牙子咬起来撑)】`nga2 zz ngo3 qi3 lae chen1` <sup>[如皋]</sup> 尽力支撑。  
 1. 【[芽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga.md#芽)】`nga2` <sup>[兴化]</sup> 动词用法：稻、麦等受潮后发芽｜“……不能叫稻～了煮饭不香啊！”（马春阳《风里雨里》）  

@@ -1,7 +1,6 @@
 # 音序检索
 **[A](./a.md) | [B](./b.md) | [C](./c.md) | [D](./d.md) | [E](./e.md) | [F](./f.md) | [G](./g.md) | [H](./h.md) | [I](./i.md) | [J](./j.md) | [K](./k.md) | [L](./l.md) | [M](./m.md) | [N](./n.md) | [O](./o.md) | [P](./p.md) | [Q](./q.md) | [R](./r.md) | [S](./s.md) | [T](./t.md) | [U](./u.md) | [V](./v.md) | [X](./x.md) | [Y](./y.md) | [Z](./z.md)**  
 ## J
-1. 【[见用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_ion.md#见用)】`in5 ion6` <sup>[泰州]</sup> ① 器物耐用，可以用很长时间：买水铫就要买不锈钢的，铝的不～。 ② 物价便宜，使得同样的钞票可以购买更多东西：现在东西便宜得很，钱真的～咖唻。  
 1. 【[䤒花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_hua.md#䤒花)】`ji1 hua1` <small>/t͡ɕi1 xua1/<sup>兴化</sup>, /t͡ɕʝ1 xua1/<sup>如皋</sup>, /t͡sɿ1 xua1/<sup>泰县</sup></small> 白醭，酒、酱油、醋、咸菜卤等溶液表面生长的一种白色霉菌。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup>  
 1. 【[乩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#乩)】`ji1` <sup>[东台]</sup> 一种迷信方法。由二人扶一丁字形的木架竖在沙盘上，所谓神降临时会执木架画字，为人决疑治病，预示吉凶。  
 1. 【[几几乎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ji_hv.md#几几乎)】`ji1 ji1 hv1` <sup>[如皋]</sup> 只差一点点：他～捱汽车轧咖。又作“差点儿”、“实险儿”。  
@@ -1285,6 +1284,7 @@
 1. 【[见样<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_ian_r.md#见样<sub>儿</sub>)】`jin5 ian6 r` <sup>[如皋]</sup> 各样东西：你家有的菜，～拿点儿出来。  
 1. 【[见阎王](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_in_van.md#见阎王)】`jin5 in2 van2` <sup>[如皋]</sup> 贬指死：他马上去～！  
 1. 【[见阎王去啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_in_van_qy_a.md#见阎王去啊)】`jin5 in2 van2 qy5 a` <sup>[如东]</sup> 阎王是阴间管理鬼魂的王。比喻人已死掉了。  
+1. 【[见用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_ion.md#见用)】`jin5 ion6` <sup>[泰州]</sup> ① 器物耐用，可以用很长时间：买水铫就要买不锈钢的，铝的不～。 ② 物价便宜，使得同样的钞票可以购买更多东西：现在东西便宜得很，钱真的～咖唻。  
 1. 【[见架](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_jia.md#见架)】`jin5 jia5` <sup>[东台]</sup> 就是随机应变。  
 1. 【[见景生情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_jien_shen_qien.md#见景生情)】`jin5 jien3 shen1 qien2` <sup>[兴化]</sup> ① 看到当前情景而产生联想：旧地重游，～，当年旅伴的音容笑貌又在脑际浮现。 ② 看情形、看会行事：“……请你，你就去，见他何妨？随机应变，～……”（《施公案》二）  
 1. 【[见麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_ma.md#见麻)】`jin5 ma` <sup>[东台]</sup> 遇事敏感，主动出手帮忙：他蛮～的，凉风一来，马上给我批上罩衣。（“麻”轻读）  

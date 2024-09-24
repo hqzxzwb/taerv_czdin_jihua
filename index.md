@@ -227,7 +227,6 @@
 1. 【[衣裳架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_shan_ga_zz.md#衣裳架子)】`i1 shan ga5 zz` <sup>[如皋]</sup> 比喻身材高大，制衣用料多。  
 [更多...](./i.md)
 ## J
-1. 【[见用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_ion.md#见用)】`in5 ion6` <sup>[泰州]</sup> ① 器物耐用，可以用很长时间：买水铫就要买不锈钢的，铝的不～。 ② 物价便宜，使得同样的钞票可以购买更多东西：现在东西便宜得很，钱真的～咖唻。  
 1. 【[䤒花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_hua.md#䤒花)】`ji1 hua1` <small>/t͡ɕi1 xua1/<sup>兴化</sup>, /t͡ɕʝ1 xua1/<sup>如皋</sup>, /t͡sɿ1 xua1/<sup>泰县</sup></small> 白醭，酒、酱油、醋、咸菜卤等溶液表面生长的一种白色霉菌。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup>  
 1. 【[乩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#乩)】`ji1` <sup>[东台]</sup> 一种迷信方法。由二人扶一丁字形的木架竖在沙盘上，所谓神降临时会执木架画字，为人决疑治病，预示吉凶。  
 1. 【[几几乎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ji_hv.md#几几乎)】`ji1 ji1 hv1` <sup>[如皋]</sup> 只差一点点：他～捱汽车轧咖。又作“差点儿”、“实险儿”。  
@@ -250,6 +249,7 @@
 1. 【[叽䴛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_so.md#叽䴛)】`ji1 so5` <sup>[如皋]</sup> 很咸：盐～。  
 1. 【[叽酸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_sun.md#叽酸)】`ji1 sun1` <sup>[如皋]</sup> 味很酸：生杏子，～。  
 1. 【[叽哇烦叫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_va_faen_jio.md#叽哇烦叫)】`ji1 va1 faen2 jio5` <sup>[如东]</sup> 大声吵闹：这些伢儿～的，不得安神。  
+1. 【[叽哇十召](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_va_sheh_cho.md#叽哇十召)】`ji1 va1 sheh8 cho6` <sup>[泰县]</sup> 大声吵闹。  
 [更多...](./j.md)
 ## K
 1. 【[抲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka.md#抲)】`ka1` <small>/kʰa1/<sup>兴化</sup>, /kʰa1/<sup>如皋</sup>, /kʰa1/<sup>泰县</sup></small> ① 把东西往里塞。<sup>\[如东\]</sup>：把馒头朝嘴里～。<sup>\[如东\]</sup> ② 揣、塞<sup>\[如皋\]</sup>：把钱～啊袋儿里。<sup>\[如皋\]</sup> ③ 放进<sup>\[东台\]</sup>：把钱～啊袋里。<sup>\[东台\]</sup> ④ 做事偷偷摸摸的<sup>\[东台\]</sup>：鬼～鬼～的。<sup>\[东台\]</sup> ⑤ 嵌<sup>\[兴化\]</sup>：桌子缝里～灰。<sup>\[兴化\]</sup> ⑥ 硬塞<sup>\[兴化\]</sup>：吃不下去硬～。<sup>\[兴化\]</sup> ⑦ 抓：把药～住阿。（《集韵》平声麻韵丘加切：“扼也，或作揢㧎”。）<sup>\[泰县\]</sup> ⑧ 放、塞：街上卖的鸡子食都～得满满的。<sup>\[泰县\]</sup> ⑨ 强行塞进<sup>\[泰州\]</sup>：他吃不下去就不要硬～他唻。<sup>\[泰州\]</sup>｜你多～点ㄦ馅心，包子才好吃。<sup>\[泰州\]</sup> ⑩ 把钱物强行塞给别人<sup>\[泰州\]</sup>：临走的时候，老李又～啊两包烟把他。<sup>\[泰州\]</sup> ⑪ 强行安插人员<sup>\[泰州\]</sup>：编制已经满吖，上头又～啊两个人进来啊。<sup>\[泰州\]</sup>  

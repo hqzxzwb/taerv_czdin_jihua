@@ -872,7 +872,7 @@
 1. 【[离调](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_dio.md#离调)】`li2 dio5` <small>/nɿ2 tiɔ5/<sup>泰县</sup></small> ① 离开规定。<sup>\[如东\]</sup>：他说的这些话已经离调啊。<sup>\[如东\]</sup> ② 离开口径：他说的话～啊，跟领导说得不一样。<sup>\[泰县\]</sup>  
 1. 【[离𣝗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_hueh.md#离𣝗)】`li2 hueh8` <sup>[如东]</sup> 脱离：他的牙齿已经～。  
 1. 【[离婚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_huen.md#离婚)】`li2 huen1` <sup>[如东]</sup> 依照法律程序解除婚姻关系。  
-1. 【[离经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_jien.md#离经)】`li2 jien1` <sup>[兴化]</sup> ① 言行有悖常理：他在公司当经理，让老父亲沿门讨饭，太～吖！ ② 过于背离事实：他这个谎谈得太～。｜……无谎不成媒，不过她说起谎来都离了经。（《皮五辣子》一）  
+1. 【[离经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_jien.md#离经)】`li2 jien1` <small>/ləi2 t͡ɕin1/<sup>兴化</sup>, /lʝ2 t͡ɕiŋ1/<sup>泰兴</sup></small> 违背常理或事实<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：他在公司当经理，让老父亲沿门讨饭，太～吖！<sup>\[兴化\]</sup>｜他这个谎谈得太～。<sup>\[兴化\]</sup>｜……无谎不成媒，不过她说起谎来都离了经。（《皮五辣子》一）<sup>\[兴化\]</sup>｜不～/合乎常理，不算离谱<sup>\[泰兴\]</sup>  
 1. 【[离开光发狠，遇到又打盹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_kae_guan_faeh_hen_y_do_ieu_da_den.md#离开光发狠，遇到又打盹)】`li2 kae1 guan1 faeh7 hen3 y6 do5 ieu6 da3 den3` <sup>[东台]</sup> 只敢背后扬言不敢当面较真。  
 1. 【[离目子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_moh_zz.md#离目子)】`li2 moh8 zz` <sup>[兴化]</sup> 离谱：你这个价码高得～。！也说“离母子”。  
 1. 【[离母子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_mu_zz.md#离母子)】`li2 mu3 zz` <sup>[泰县]</sup> 越轨：这个人办的这桩事有点儿～。  

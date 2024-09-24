@@ -253,6 +253,7 @@
 1. 【[车把子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ba_zz.md#车把子)】`cha1 ba5 zz` <sup>[如皋]</sup> 小车儿向后伸出的两根长柄，是推车着力和掌握的部位。  
 1. 【[车帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ban.md#车帮)】`cha1 ban1` <sup>[如东]</sup> 牛车部件。车盘四周高出堂板的方木。  
 1. 【[车边桄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_bin_kuan.md#车边桄)】`cha1 bin1 kuan1` <sup>[如皋]</sup> 水车两边载重部位的弯边框，又叫“车杠”。  
+1. 【[车鞭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_bin_zz.md#车鞭子)】`cha1 bin1 zz` <small>/t͡sʰɑ1 pĩ1 t͡sɿ/<sup>泰兴</sup></small> 以细麻、布条等编成的助人推车的用品。长约五尺，两头有扣，可套于车辕条头上。<sup>\[泰兴\]</sup>  
 1. 【[车笮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_cheh.md#车笮)】`cha1 cheh8` <sup>[如东]</sup> 牛车部件。用麻绞成绳索，一头连接车牵，一头缚在轭头上，起牵引牛车前进的作用。  
 1. 【[车耽棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_chen_pan.md#车耽棒)】`cha1 chen3 pan6` <sup>[泰县]</sup> 农民踏水车时，伏着的水棍。  
 1. 【[车衬子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_chen_zz.md#车衬子)】`cha1 chen5 zz` <sup>[如皋]</sup> 车辐，15根。  
@@ -264,7 +265,9 @@
 1. 【[车担棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_daen_pan.md#车担棒)】`cha1 daen5 pan6` <sup>[兴化]</sup> 龙骨水车上供伏看踏水车的木棒。  
 1. 【[车耳板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_er_baen.md#车耳板)】`cha1 er3 baen3` <sup>[如皋]</sup> 见“车耳子”。  
 1. 【[车耳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_er_zz.md#车耳子)】`cha1 er3 zz` <sup>[如皋]</sup> 独轮车的轴承及其支架。  
+1. 【[车反水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_faen_shuei.md#车反水)】`cha1 faen3 shuei3` <small>/t͡sʰɑ1 fɛ̃3 suəɪ3/<sup>泰兴</sup></small> 亦称“走反水”。与主导意见相悖，提出反对意见或采取相反的措施。<sup>\[泰兴\]</sup>  
 1. 【[车軬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_faen.md#车軬)】`cha1 faen6` <sup>[如东]</sup> 河边安装水车辋子的棚，圆尖顶。通称车棚。  
+1. 【[车夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_fv.md#车夫)】`cha1 fv` <small>/t͡sʰɑ1 fʋ/<sup>泰兴</sup></small> 指以推车、拉车、赶车等为职业的人。戏称为他人驾车者。<sup>\[泰兴\]</sup>  
 1. 【[车锏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_gaen_zz.md#车锏子)】`cha1 gaen5 zz` <sup>[如皋]</sup> 小车的轴承，用檀木制，耐磨。  
 1. 【[车杠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_gan.md#车杠)】`cha1 gan5` <sup>[如皋]</sup> ① 独轮车车面向两侧铺展的“弓”形木料。 ② 自行车的梯形车架。  
 1. 【[车工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_gon.md#车工)】`cha1 gon1` <sup>[如东]</sup> 工种的一种。以操纵车床为职业的工人。  
@@ -274,6 +277,7 @@
 1. 【[车鼓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_gv_r.md#车鼓<sub>儿</sub>)】`cha1 gv3 r` <sup>[如皋]</sup> 车轮中心装车辐的鼓状轴。  
 1. 【[车行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_han.md#车行)】`cha1 han2` <small>/t͡sʰa1 xã2/<sup>如皋</sup></small> ① 经营自行车等车辆的销售和修理的商行。<sup>\[如东\]</sup> ② 见“脚踏车行”。<sup>\[如皋\]</sup>  
 1. 【[车湱湱<sub>儿</sub>水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_hoh_hoh_r_shuei.md#车湱湱<sub>儿</sub>水)】`cha1 hoh7 hoh7 r shuei3` <sup>[如皋]</sup> 踏水如飞。  
+1. 【[车椅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_i.md#车椅)】`cha1 i` <small>/t͡sʰɑ1 ʝ/<sup>泰兴</sup></small> 可置于山车上的一种底宽、高背的椅子。旧时用于载请客人（多指老人）用。<sup>\[泰兴\]</sup>  
 1. 【[车辕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_iun.md#车辕)】`cha1 iun2` <sup>[如皋]</sup> 独轮车最前面的横木。  
 1. 【[车脚𣑁<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_jiah_chon_r.md#车脚𣑁<sub>儿</sub>)】`cha1 jiah7 chon5 r` <sup>[如皋]</sup> 小车撑脚之间相连的木料。  
 1. 【[车脊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_jieh.md#车脊)】`cha1 jieh7` <sup>[如东]</sup> 牛车部件。长条形方木，中间固定车桄，下端固定前、后耳，前端固定车牵。  
@@ -298,12 +302,12 @@
 1. 【[车牵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_qin.md#车牵)】`cha1 qin1` <sup>[如东]</sup> 牛车部件。由粗麻绳绞成，固定在车脊上，起牵引牛车前进的作用。  
 1. 【[车前](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_qin.md#车前)】`cha1 qin2` <sup>[如东]</sup> 车前草科植物车前，又名牛舌菜。  
 1. 【[车翘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_qio.md#车翘)】`cha1 qio5` <sup>[如皋]</sup> 小车耳板与车脚儿之间翘紧的装置。  
-1. 【[车水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_shuei.md#车水)】`cha1 shuei3` <small>/t͡sʰa1 suei3/<sup>如皋</sup></small> ① 用水车把河里的水汲取上来灌溉农田。<sup>\[如东\]</sup> ② 用水车戽水灌田。又作“擙水／踏水／赶水／戽水”。<sup>\[如皋\]</sup> ③ 二人对面用绳拉一只桶，从低处舀水向高处倒出。<sup>\[如皋\]</sup> ④ 戽上来的水。与“雨水”相对。<sup>\[如皋\]</sup> ⑤ 脚踏水车把水从河里引到田里。<sup>\[东台\]</sup>  
-1. 【[车水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_shuei.md#车水)】`cha1 shuei3` <sup>[泰州]</sup> 人工踩动水车引水。  
+1. 【[车水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_shuei.md#车水)】`cha1 shuei3` <small>/t͡sʰa1 suei3/<sup>如皋</sup>, /t͡sʰɑ1 suəɪ3/<sup>泰兴</sup></small> ① 用水车把河里的水汲取上来灌溉农田。<sup>\[如东\]</sup><sup>\[东台\]</sup> ② 用水车戽水灌田。又作“擙水／踏水／赶水／戽水”。<sup>\[如皋\]</sup> ③ 二人对面用绳拉一只桶，从低处舀水向高处倒出。<sup>\[如皋\]</sup> ④ 戽上来的水。与“雨水”相对。<sup>\[如皋\]</sup> ⑤ 用水车车水排灌，为过去水田排灌主要方式，机械化后基本消失。<sup>\[泰兴\]</sup> ⑥ 人工踩动水车引水。<sup>\[泰州\]</sup>  
 1. 【[车水老<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_shuei_lo_r.md#车水老<sub>儿</sub>)】`cha1 shuei3 lo3 r` <sup>[如东]</sup> 水车上阻挡水车练倒转的闸，为一根长条形的木条，固定在档上。也称倒须。  
 1. 【[车胆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_taen_zz.md#车胆子)】`cha1 taen3 zz` <small>/t͡sʰa1 tʰẽ3 t͡sɿ/<sup>如皋</sup></small> ① 车轮的胶质胎。又分为里胆、外胆。<sup>\[如皋\]</sup> ② 车胎。<sup>\[如皋\]</sup>  
 1. 【[车头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_teu.md#车头)】`cha1 teu2` <sup>[如皋]</sup> 独轮车最前面的横木。  
 1. 【[车网袋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_van_tae.md#车网袋)】`cha1 van3 tae6` <sup>[如皋]</sup> 小车后下方的网袋，装零碎物件。  
+1. 【[车子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_zz.md#车子)】`cha1 zz` <small>/t͡sʰɑ1 t͡sɿ/<sup>泰兴</sup></small> 泛指各种车辆。<sup>\[泰兴\]</sup>  
 1. 【[𠞊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha.md#𠞊)】`cha1` <small>/t͡sʰa1/<sup>泰县</sup></small> ① 用工具举。<sup>\[如东\]</sup>：把草～起来。<sup>\[如东\]</sup> ② 除一般释义外，东台人指用筷子嫌菜频率快搛得多<sup>\[东台\]</sup>：豆腐吃吃肉～～<sup>\[东台\]</sup>｜好菜尽（jyen3）你～。<sup>\[东台\]</sup> ③ 用叉子挑东西<sup>\[泰县\]</sup>：～草。（《广韵》平声麻韵初牙切：“㔆物。”）<sup>\[泰县\]</sup> ④ 捞<sup>\[泰县\]</sup>：把面～起来。<sup>\[泰县\]</sup> ⑤ 俗多作叉。用叉刺取物体。又引伸出张开筷子大块搛菜<sup>\[泰州\]</sup>：他却问也不问，随即坐下，那双筷子儿又叉起来了（《续济公传》）。<sup>\[泰州\]</sup>｜你弄的这几个菜，量太少啊唻，哪块掌得往他俫这几个小伙头子～啊！<sup>\[泰州\]</sup>  
 1. 【[𠞊住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_chv.md#𠞊住)】`cha1 chv` <sup>[泰县]</sup> ① 挽住。 ② 说话时，中途有误，遭人指责。  
 1. 【[搽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha.md#搽)】`cha2` ① 望脸上身上涂抹化妆品护肤霜之类 ② 将粉、膏、油之类均匀涂抹于皮肤、头发表面<sup>\[泰州\]</sup>：你手上的裂口子弄点油搽啊子！<sup>\[泰州\]</sup>  
@@ -321,7 +325,7 @@
 1. 【[茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha.md#茶)】`cha2` <small>/t͡sʰa2/<sup>兴化</sup>, /t͡sʰa2/<sup>如皋</sup>, /t͡sʰa2/<sup>泰县</sup></small> ① 白开水。 ② 开水<sup>\[如皋\]</sup>：喝～、充～。<sup>\[如皋\]</sup> ③ 药材泡出的饮料<sup>\[如皋\]</sup>：藿香～、参～、午时～、生姜红糖～。<sup>\[如皋\]</sup> ④ 兼作饮料的食物<sup>\[如皋\]</sup>：蛋～、炒米～、红枣儿～、芝麻红糖～。<sup>\[如皋\]</sup> ⑤ 用茶叶沏成的饮料<sup>\[兴化\]</sup>：喝～；品～。<sup>\[兴化\]</sup> ⑥ 有时也指白开水。<sup>\[兴化\]</sup> ⑦ 白开水。<sup>\[泰县\]</sup> ⑧ 茶叶水。<sup>\[泰县\]</sup> ⑨ 供饮用的热的或冷的白开水<sup>\[泰州\]</sup>：却烧了一罐热茶，递与沙僧泡饭，沙僧即将冷饭泡了，递与师父。(《西游记》)<sup>\[泰州\]</sup>｜他渴煞咖，家来喝咖两大碗冷茶！<sup>\[泰州\]</sup>  
 1. 【[茶筹子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_cheu_zz.md#茶筹子)】`cha2 cheu2 zz` <sup>[兴化]</sup> 向茶水炉购买，用来打开水的短竹篾，其上烫有火印。  
 1. 【[茶凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_den.md#茶凳)】`cha2 den5` <sup>[如皋]</sup> 精制的高凳。凳面有硬木框而阔，其下镶牙扳。多与高厨配用。  
-1. 【[茶饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_faen.md#茶饭)】`cha2 faen` <sup>[东台]</sup> 饮食。  
+1. 【[茶饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_faen.md#茶饭)】`cha2 faen` <small>/t͡sʰɑ2 fɛ̃/<sup>泰兴</sup></small> 饮食。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[茶饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_faen.md#茶饭)】`cha2 faen6` <sup>[如东]</sup> 茶和饭，多指饮食：平常～。  
 1. 【[茶缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_gan.md#茶缸)】`cha2 gan1` <sup>[泰州]</sup> 泡茶用的水杯。  
 1. 【[茶缸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_gan_r.md#茶缸<sub>儿</sub>)】`cha2 gan1 r` <small>/t͡sʰa2 ka˞1/<sup>如皋</sup>, /t͡sʰa2 kɑŋ1 ɚ/<sup>泰县</sup></small> ① 有盖无把的柱形稍大的茶具。清茶馆用以泡“碗儿茶”卖。<sup>\[如皋\]</sup> ② 泡茶的小陶缸。<sup>\[如皋\]</sup> ③ 茶杯。<sup>\[泰县\]</sup>  
