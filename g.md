@@ -345,8 +345,7 @@
 1. 【[缸炭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_taen.md#缸炭)】`gan1 taen5` <sup>[如皋]</sup> 窑制木炭。常以缸或油纸篓儿装运，故名。  
 1. 【[缸瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_va.md#缸瓦)】`gan1 va3` <sup>[东台]</sup> 用砂子、陶土等混合而烧成的瓦，也指陶器的碎片：大炼钢铁时有人用～炼钢，荒唐！  
 1. 【[缸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_zz.md#缸子)】`gan1 zz` <sup>[东台]</sup> 喝水或盛东西用的器皿。  
-1. 【[豇豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_teu.md#豇豆)】`gan1 teu6` ① 豆科植物豇豆，一年生草本。<sup>\[如东\]</sup> ② 一种常见蔬菜，长条形荚果，长约三四十公分。（另见“盘香豇子”）<sup>\[东台\]</sup>  
-1. 【[豇豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_teu.md#豇豆)】`gan1 teu6` <sup>[泰州]</sup> 豇豆。  
+1. 【[豇豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_teu.md#豇豆)】`gan1 teu6` 豇豆。常见蔬菜。  
 1. 【[豇豆角<sub>儿</sub>下面——清汤清水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_teu_gah_r_xia_min_qien_tan_qien_shuei.md#豇豆角<sub>儿</sub>下面——清汤清水)】`gan1 teu6 gah7 r xia6 min6 qien1 tan1 qien1 shuei3` <sup>[东台]</sup>   
 1. 【[钢尺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_cheh.md#钢尺)】`gan1 cheh7` <sup>[如东]</sup> 度量工具。金属制成，有直尺、角尺、圈尺、卡尺等多种。  
 1. 【[钢火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_hu.md#钢火)】`gan1 hu3` <sup>[兴化]</sup> 刀、斧等刃具的质量：凿子、斧头～不行。｜并无好～（《说岳全传》第十回）  
@@ -516,8 +515,7 @@
 1. 【[隔山跳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_shaen_tio.md#隔山跳)】`geh7 shaen1 tio5` <sup>[如东]</sup> 从这一山跃过另一山，比喻特别有本事，有能力。  
 1. 【[隔山消](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_shaen_xio.md#隔山消)】`geh7 shaen1 xio1` <sup>[如东]</sup> 萝荤科植物耳叶牛皮消的块根。  
 1. 【[隔水炖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_shuei_den.md#隔水炖)】`geh7 shuei3 den5` <sup>[泰县]</sup> 绕弯子：有甚的事请直截了当，不要～。  
-1. 【[隔宿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_soh.md#隔宿)】`geh7 soh7` <small>/kəʔ7 sɔʔ7/<sup>兴化</sup>, /kəʔ7 sɔʔ7/<sup>如皋</sup></small> ① 另一夜。<sup>\[如东\]</sup>：～再来。<sup>\[如东\]</sup> ② 昨天。<sup>\[如皋\]</sup> ③ 隔了一夜<sup>\[如皋\]</sup>：～的韭菜不能吃。<sup>\[如皋\]</sup> ④ 隔夜、到了次日<sup>\[兴化\]</sup>：这些人家无～之粮，都是当天买，当天吃。（汪曾祺《大淖纪事》）<sup>\[兴化\]</sup>  
-1. 【[隔宿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_soh.md#隔宿)】`geh7 soh7` <sup>[泰州]</sup> 相隔一夜时间：～的菜最好不要再吃。  
+1. 【[隔宿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_soh.md#隔宿)】`geh7 soh7` <small>/kəʔ7 sɔʔ7/<sup>兴化</sup>, /kəʔ7 sɔʔ7/<sup>如皋</sup></small> ① 另一夜。<sup>\[如东\]</sup>：～再来。<sup>\[如东\]</sup> ② 昨天。<sup>\[如皋\]</sup> ③ 隔夜、到了次日<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：～的韭菜不能吃。<sup>\[如皋\]</sup>｜这些人家无～之粮，都是当天买，当天吃。（汪曾祺《大淖纪事》）<sup>\[兴化\]</sup>｜～的菜最好不要再吃。<sup>\[泰州\]</sup>  
 1. 【[隔宿饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_soh_faen.md#隔宿饭)】`geh7 soh7 faen6` ① 做好的饭，放着过了一夜。也叫隔夜饭。<sup>\[如东\]</sup> ② 前一天吃剩下的饭。<sup>\[东台\]</sup>  
 1. 【[隔宿火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_soh_hu.md#隔宿火)】`geh7 soh7 hu3` <sup>[如皋]</sup> 旧时取火难，隔夜预留下的种火。  
 1. 【[隔堂板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_tan_baen.md#隔堂板)】`geh7 tan2 baen3` <sup>[如东]</sup> 过梁上边的隔板。  
