@@ -927,7 +927,6 @@
 1. 【[媒人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ren.md#媒人)】`mi2 ren2` <sup>[东台]</sup> 婚姻介绍人，撮合者。  
 1. 【[媒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_zz.md#媒子)】`mi2 zz` <sup>[东台]</sup> 相当于托儿，指从旁配合，诱使人上当受骗的人。东台话中媒子通常是主办某事者事前约请，到时借其捧场架势的人物：新店开张时很热闹，里面可能有～。  
 1. 【[媒子/𪃏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_zz.md#媒子/𪃏子)】`mi2 zz` <sup>[泰州]</sup> 引诱别人上当的人，托儿：这几个家伙是～，骗你俫去买保健品的。  
-1. 【[弥猴桃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_heu_to.md#弥猴桃)】`mi2 heu2 to2` <sup>[如东]</sup> 猕猴桃科植物猕猴桃。  
 1. 【[弥天大谎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_tin_da_huan.md#弥天大谎)】`mi2 tin1 da6 huan3` <sup>[如东]</sup> 大谎言。  
 1. 【[敉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#敉)】`mi2` <sup>[兴化]</sup> 用甜言蜜语讨好或软化对方：老王玩～功，叫你急不起来。｜这个人软而～，你拿他没办法。《广韵·纸韵》绵婢切｜“～，抚也、爱也、安也。”  
 1. 【[楣啊倒啊包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_a_do_a_bo.md#楣啊倒啊包)】`mi2 a do3 a bo1` <sup>[如皋]</sup> 倒霉到极点。  
@@ -939,6 +938,7 @@
 1. 【[楣形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_xien.md#楣形)】`mi2 xien2` <sup>[如皋]</sup> 倒霉的样子。  
 1. 【[渳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#渳)】`mi2` <sup>[兴化]</sup> 少量地喝一点：她经不起别人劝，～啊一口甜酒。  
 1. 【[煤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_zz.md#煤子)】`mi2 zz` <sup>[泰州]</sup> 用易于引火的纸搓成的细纸卷，点着以后吹熄，让其自燃，引火之时，吹燃。就是多做点火、燃烧水烟只用。  
+1. 【[猕猴桃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_heu_to.md#猕猴桃)】`mi2 heu2 to2` <sup>[如东]</sup> 猕猴桃科植物猕猴桃。  
 1. 【[眉花眼笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_hua_ngaen_xio.md#眉花眼笑)】`mi2 hua1 ngaen3 xio5` <sup>[兴化]</sup> 形容欢乐、嬉笑：老两口看见孙子不禁～。｜那尼姑贪财惹事，见了这两定细丝白银，～道……（《清平山堂话本·戒指儿记》）  
 1. 【[眉花<sub>儿</sub>眼笑的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_hua_r_ngaen_xio_dii.md#眉花<sub>儿</sub>眼笑的)】`mi2 hua1 r ngaen3 xio5 dii` <sup>[如皋]</sup> 眉开眼笑，笑得满脸开了花。  
 1. 【[眉毛疙勼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_mo_geh_jieu.md#眉毛疙勼)】`mi2 mo2 geh7 jieu1` <small>/mi2 mɔ2 kəʔ7 t͡ɕiɤ1/<sup>兴化</sup>, /mɿ2 mɔ2 kəʔ7 t͡ɕiɤɯ1/<sup>泰县</sup></small> ① 形容愁眉苦脸的样子。<sup>\[东台\]</sup> ② 皱着眉头显得愁烦或身体不适的样子。<sup>\[兴化\]</sup> ③ 愁眉苦脸：这些天他为甚的总是～的？<sup>\[泰县\]</sup>  
