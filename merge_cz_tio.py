@@ -18,6 +18,7 @@ def conts_from_content(fc1, fname):
   return conts
 
 def txct():
+  index = 1
   for fname in walk_sources():
     file_content = open(fname,encoding="U8").read()
     fc1 = re.sub(r"<!--\n(.*\n)*?-->(\n|$)", "", file_content) # 移除注释
@@ -26,7 +27,8 @@ def txct():
       if len(value) > 1:
         print(f"====同形词条====")
         for cont in value:
-          print(cont)
+          print(index, '\t', cont)
+        index += 1
 
 def main():
   for fname in walk_sources():
