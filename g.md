@@ -249,7 +249,7 @@
 1. 【[拣拣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_gaen.md#拣拣)】`gaen3 gaen3` <sup>[如东]</sup> 惟独：这种事～让他碰上吖。  
 1. 【[拣个好日子没好天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_gu_ho_rih_zz_meh_ho_tin.md#拣个好日子没好天)】`gaen3 gu ho3 rih8 zz meh8 ho3 tin1` <sup>[东台]</sup> （俗语）预定日期办某事，但偏偏遇到了恶劣天气，这很扫兴，也是对没好天的解嘲。  
 1. 【[拣货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_hu.md#拣货)】`gaen3 hu5` <sup>[如东]</sup> 把刚刚送上岸的海货分类分开：鲜货已经送上来啊，快去～。  
-1. 【[拣嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_jy.md#拣嘴)】`gaen3 jy3` <small>/kẽ3 t͡ɕy3/<sup>如皋</sup>, /kɛ̃3 t͡ɕy3/<sup>泰县</sup></small> ① 挑食。<sup>\[如皋\]</sup> ② 挑食、偏食。<sup>\[如皋\]</sup> ③ 挑食<sup>\[东台\]</sup>：～不是好习惯，嘴泼身才壮嘛！<sup>\[东台\]</sup> ④ 挑食<sup>\[泰县\]</sup>：这个伢儿～，不肯吃菜。<sup>\[泰县\]</sup>  
+1. 【[拣嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_jy.md#拣嘴)】`gaen3 jy3` <small>/kẽ3 t͡ɕy3/<sup>如皋</sup>, /kɛ̃3 t͡ɕy3/<sup>泰县</sup></small> 挑食。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup>：～不是好习惯，嘴泼身才壮嘛！<sup>\[东台\]</sup>｜这个伢儿～，不肯吃菜。<sup>\[泰县\]</sup>  
 1. 【[拣嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_jy.md#拣嘴)】`gaen3 jy3` <sup>[泰州]</sup> ① 挑食：他吃东西从来不～。 ② 挑剔：这个家伙死没出息，甚的东西都要，从来不～，连人家的酱油他都要。  
 1. 【[拣了卖了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_lio_mae_lio.md#拣了卖了)】`gaen3 lio3 mae6 lio3` <sup>[东台]</sup> 商家在一批货物卖到尾声的吆喝语，鼓动顾客快拣快买。  
 1. 【[拣邪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_qia.md#拣邪)】`gaen3 qia2` <sup>[泰县]</sup> 使人尴尬：你不要当面～人。  
@@ -572,8 +572,7 @@
 1. 【[跟脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_jiah.md#跟脚)】`gen1 jiah7` <small>/kən1 t͡ɕiaʔ7/<sup>兴化</sup>, /kəŋ1 t͡ɕiɑʔ7/<sup>泰县</sup></small> ① （鞋子）合脚<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[如东\]</sup><sup>\[泰州\]</sup>\[兴化：也说“抱脚”。\]：“……莫忙，让我把鞋子脱掉，鞋子不～，不好动手……”（《皮五辣子》三）<sup>\[兴化\]</sup>｜这双走鞋嫌大，穿吖脚上不～。<sup>\[泰州\]</sup> ② 小孩跟着大人跑。<sup>\[如东\]</sup>：这个伢儿欢喜～。<sup>\[如东\]</sup>  
 1. 【[跟脚铃<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_jiah_lien_r.md#跟脚铃<sub>儿</sub>)】`gen1 jiah7 lien2 r` <sup>[如东]</sup> 经常跟着大人外出的孩子  
 1. 【[跟□啊去啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_jio_a_qy_a.md#跟□啊去啊)】`gen1 jio3 a qy5 a` <sup>[如东]</sup> 很快地跟着人向前跑去：他听到箇个消息，～。  
-1. 【[跟路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_lv.md#跟路)】`gen1 lv6` <small>/kən1 lu6/<sup>兴化</sup>, /kəŋ1 nu1/<sup>泰县</sup></small> ① 跟随。<sup>\[如东\]</sup>：这个伢儿欢喜～。<sup>\[如东\]</sup> ② 喜欢跟别人走。<sup>\[东台\]</sup> ③ 大人外出，小孩紧紧相随<sup>\[兴化\]</sup>：这个伢儿会～，你到哪块他跟到哪块。<sup>\[兴化\]</sup> ④ 也指狗随主人外出<sup>\[兴化\]</sup>：这小狗会～。<sup>\[兴化\]</sup> ⑤ 跟随<sup>\[泰县\]</sup>：这个伢儿会～。<sup>\[泰县\]</sup>  
-1. 【[跟路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_lv.md#跟路)】`gen1 lv6` <sup>[泰州]</sup> 成人外出，家中小孩紧紧跟在成人后面相随：这个伢儿欢喜～。  
+1. 【[跟路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_lv.md#跟路)】`gen1 lv6` <small>/kən1 lu6/<sup>兴化</sup>, /kəŋ1 nu1/<sup>泰县</sup></small> ① 跟随。<sup>\[如东\]</sup>：这个伢儿欢喜～。<sup>\[如东\]</sup> ② 喜欢跟别人走。<sup>\[东台\]</sup> ③ 大人外出，小孩紧紧相随<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：这个伢儿会～，你到哪块他跟到哪块。<sup>\[兴化\]</sup>｜这个伢儿欢喜～。<sup>\[泰州\]</sup> ④ 也指狗随主人外出<sup>\[兴化\]</sup>：这小狗会～。<sup>\[兴化\]</sup> ⑤ 跟随<sup>\[泰县\]</sup>：这个伢儿会～。<sup>\[泰县\]</sup>  
 1. 【[跟路狗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_lv_geu_r.md#跟路狗<sub>儿</sub>)】`gen1 lv6 geu3 r` <sup>[如东]</sup> 比喻经常跟着别人跑的人。  
 1. 【[跟路狗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_lv_geu_zz.md#跟路狗子)】`gen1 lv6 geu3 zz` <sup>[如皋]</sup> 趣指受宠爱的小孩始终要跟着大人行动，不肯稍离。  
 1. 【[跟满](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_mun.md#跟满)】`gen1 mun3` <sup>[东台]</sup> 类似满坟活动，但满坟是死者死后第三个清明节前举行，而跟满是因这位死者死前三年内本家族已有人死亡，则跟随先死者提前一道举办满坟活动。  
@@ -1167,8 +1166,7 @@
 1. 【[过日中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_rih_zhon.md#过日中)】`gu5 rih8 zhon1` <sup>[如皋]</sup> 吃午饭。  
 1. 【[过日子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_rih_zz.md#过日子)】`gu5 rih8 zz` <sup>[如东]</sup> 日常生活：～要精打细算。  
 1. 【[过生日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_shen_rih.md#过生日)】`gu5 shen1 rih8` <sup>[如东]</sup> 人在60岁之前过寿诞，称过生口。这一天，吃面条，办酒席，举办一般性的庆祝活动。  
-1. 【[过身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_shen.md#过身)】`gu5 shen1` <small>/ko5 sən1/<sup>兴化</sup>, /kʊ5 səŋ1/<sup>如皋</sup></small> ① 度过难关、未被缠住<sup>\[如皋\]</sup>：这次惹的大祸，他的责任大，恐怕不得～。<sup>\[如皋\]</sup> ② 指脱身<sup>\[东台\]</sup>：他平时太贪，这次被“双规”，恐怕不得～吖。<sup>\[东台\]</sup> ③ 得到解脱<sup>\[兴化\]</sup>：放他～。<sup>\[兴化\]</sup>｜祁典晓得自己上次说了谎话，皇甫举回来一定不会放他～……（扬二《严秀打店》）<sup>\[兴化\]</sup> ④ 过得去<sup>\[兴化\]</sup>：生活上得～；工作上得～。<sup>\[兴化\]</sup>  
-1. 【[过身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_shen.md#过身)】`gu5 shen1` <sup>[泰州]</sup> 得到饶恕而德裔减轻或免除对罪行或过错的追究：你把晓得的情况说出来，才得～。  
+1. 【[过身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_shen.md#过身)】`gu5 shen1` <small>/ko5 sən1/<sup>兴化</sup>, /kʊ5 səŋ1/<sup>如皋</sup></small> ① 度过难关、未被缠住<sup>\[如皋\]</sup>：这次惹的大祸，他的责任大，恐怕不得～。<sup>\[如皋\]</sup> ② 指脱身<sup>\[东台\]</sup>：他平时太贪，这次被“双规”，恐怕不得～吖。<sup>\[东台\]</sup> ③ 得到解脱<sup>\[兴化\]</sup>：放他～。<sup>\[兴化\]</sup>｜祁典晓得自己上次说了谎话，皇甫举回来一定不会放他～……（扬二《严秀打店》）<sup>\[兴化\]</sup> ④ 过得去<sup>\[兴化\]</sup>：生活上得～；工作上得～。<sup>\[兴化\]</sup> ⑤ 得到饶恕而得以减轻或免除对罪行或过错的追究<sup>\[泰州\]</sup>：你把晓得的情况说出来，才得～。<sup>\[泰州\]</sup>  
 1. 【[过神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_shen.md#过神)】`gu5 shen2` <small>/ko5 səŋ2/<sup>泰县</sup></small> ① 领会。<sup>\[如东\]</sup>：他不曾～。<sup>\[如东\]</sup> ② 入神，听人讲话或看材料引起高度关注。<sup>\[东台\]</sup> ③ 领会。<sup>\[泰县\]</sup> ④ 留神<sup>\[泰县\]</sup>：我说的这个话你哿曾～？<sup>\[泰县\]</sup>  
 1. 【[过手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_sheu.md#过手)】`gu5 sheu3` <sup>[如东]</sup> 经手：这些布料都经她～。  
 1. 【[过手快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_sheu_kuae.md#过手快)】`gu5 sheu3 kuae5` <sup>[兴化]</sup> 从商品的快进快销中获利：前儿从山东进的二百吨水泥，捱一个建筑工地整卸，～弄吖五千多。  
@@ -1286,8 +1284,7 @@
 1. 【[挂香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_xian.md#挂香)】`gua5 xian1` <sup>[兴化]</sup> 旧时迎神赛会中的一种迷信举动：每年五月迎会，都有许多磕拜香的，其中磕～的都是还了大愿的。｜后面是～的，则都是壮汉，用一个小铁钩勾进左右手臂的肉里，下系一个带链子的锡香炉，炉里烧者檀香。（汪曾祺《故里三陈》）  
 1. 【[挂相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_xian.md#挂相)】`gua5 xian5` <small>/kua5 ɕiaŋ5/<sup>兴化</sup>, /kua5 ɕiã5/<sup>如皋</sup>, /kua5 ɕiɑŋ5/<sup>泰县</sup></small> ① 丢相、丢面子，下不来台。<sup>\[如皋\]</sup> ② 出丑、现相、丢面子。<sup>\[东台\]</sup> ③ 当场出丑<sup>\[兴化\]</sup>：他再老气横秋的就拿他～。<sup>\[兴化\]</sup> ④ 下不了台<sup>\[泰县\]</sup>：你不服输就要～。<sup>\[泰县\]</sup>  
 1. 【[挂线](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_xin.md#挂线)】`gua5 xin5` <sup>[如皋]</sup> 瓦工等取垂直度的方法之一。  
-1. 【[挂账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_zhan.md#挂账)】`gua5 zhan5` <small>/kua5 t͡saŋ5/<sup>兴化</sup></small> ① 欠账。<sup>\[东台\]</sup> ② 赊账。<sup>\[兴化\]</sup>  
-1. 【[挂账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_zhan.md#挂账)】`gua5 zhan5` <sup>[泰州]</sup> 将应付的钱登记在账簿上而暂时不付钱：他在这家饭店吃饭从来不～。  
+1. 【[挂账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_zhan.md#挂账)】`gua5 zhan5` <small>/kua5 t͡saŋ5/<sup>兴化</sup></small> 欠账，赊账<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：他在这家饭店吃饭从来不～。<sup>\[泰州\]</sup>  
 1. 【[褂裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_kv.md#褂裤)】`gua5 kv5` <sup>[兴化]</sup> 中式单上衣和裤子的合称：小～；单～。  
 1. 【[褂子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_zz.md#褂子)】`gua5 zz` ① 旧时中式上衣。<sup>\[东台\]</sup> ② 中式单层上衣。<sup>\[泰州\]</sup>  
 1. 【[乖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guae.md#乖)】`guae1` <small>/kuɛ1/<sup>兴化</sup></small> ① 乖 ② 知识、经验<sup>\[兴化\]</sup>：上一回当，学一次～。<sup>\[兴化\]</sup>  
@@ -1657,8 +1654,7 @@
 1. 【[滚钉板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guen_dien_baen.md#滚钉板)】`guen3 dien1 baen3` <sup>[东台]</sup> 原指一种酷刑。［喻］经受险恶严峻的折磨：我哪怕～，也要省钱把儿子培养成人。  
 1. 【[滚刀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guen_do_r.md#滚刀<sub>儿</sub>)】`guen3 do1 r` <sup>[如皋]</sup> 即捱转刀儿切块子。  
 1. 【[滚刀肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guen_do_roh.md#滚刀肉)】`guen3 do1 roh8` <sup>[东台]</sup> ① 刀切上去打滑的肉。 ② ［喻］死皮赖脸、纠缠不清的人：他胡搅蛮缠，简直就是一块～！  
-1. 【[滚钩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guen_geu.md#滚钩)】`guen3 geu1` <small>/kuən3 kɤ1/<sup>兴化</sup></small> ① 一种在大河里捕鱼的钩。在一根长绳上挂若干鱼钩，横置河中。大鱼一旦被钩住，越挣扎越容易被其它钩钩住。<sup>\[东台\]</sup> ② 一种渔具，在细绳索上挂有成排的大鱼钩，多用来捕捉大鱼。<sup>\[兴化\]</sup>  
-1. 【[滚钩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guen_geu.md#滚钩)】`guen3 geu1` <sup>[泰州]</sup> 一种捕鱼工具，渔绳安上成排较大鱼钩在深水中翻滚前行，故名。旧时常以滚钩捞取溺水者的尸体。  
+1. 【[滚钩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guen_geu.md#滚钩)】`guen3 geu1` <small>/kuən3 kɤ1/<sup>兴化</sup></small> ① 一种在大河里捕鱼的钩。在一根长绳上挂若干鱼钩，横置河中。大鱼一旦被钩住，越挣扎越容易被其它钩钩住。<sup>\[东台\]</sup> ② 一种渔具，在细绳索上挂有成排的大鱼钩，多用来捕捉大鱼。<sup>\[兴化\]</sup> ③ 一种捕鱼工具，渔绳安上成排较大鱼钩在深水中翻滚前行，故名。旧时常以滚钩捞取溺水者的尸体。<sup>\[泰州\]</sup>  
 1. 【[滚瓜烂熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guen_gua_laen_shoh.md#滚瓜烂熟)】`guen3 gua1 laen6 shoh8` ① 非常熟，熟透了。<sup>\[如东\]</sup>：他背书背啊～。<sup>\[如东\]</sup> ② ［喻］读书或背书极熟练。<sup>\[东台\]</sup>  
 1. 【[滚瓜溜圆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guen_gua_lieu_iun.md#滚瓜溜圆)】`guen3 gua1 lieu1 iun2` <sup>[东台]</sup> 滚圆。多形容肥壮：猪场里养的几百头猪，都长得～的。  
 1. 【[滚油煎心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guen_ieu_jin_xien.md#滚油煎心)】`guen3 ieu2 jin1 xien1` <sup>[兴化]</sup> 因受强烈刺激，心里非常难受：可庄里传出的闲言碎语，孙喜高听得，像～……（马春阳《父女双婚事》）  
@@ -1710,8 +1706,7 @@
 1. 【[佮方](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_fan.md#佮方)】`guh7 fan1` <sup>[如皋]</sup> 旧时一种较大的铺地砖，两块可拼合为正方形。  
 1. 【[佮房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_fan.md#佮房)】`guh7 fan2` <sup>[如皋]</sup> 童养媳、寡妇结婚称～。有简便义。即圆房。  
 1. 【[佮咖骨头的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_ga_gueh_teu_dii.md#佮咖骨头的)】`guh7 ga gueh7 teu2 dii` <sup>[如皋]</sup> 喻双方不投，经常无原则的争斗，不肯相让。也说“龁咖骨头的”。  
-1. 【[佮家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_ga.md#佮家)】`guh7 ga1` <small>/kuʔ7 ka1/<sup>兴化</sup>, /kʊʔ7 ka1/<sup>如皋</sup>, /kʊʔ7 ka1/<sup>泰县</sup></small> ① 两家或几家并成一家生活。<sup>\[如皋\]</sup> ② 融洽<sup>\[如皋\]</sup>：油同水不～、水泥同石灰～。<sup>\[如皋\]</sup> ③ 两样或两样以上的东西放在一起不相排斥<sup>\[兴化\]</sup>：鸡跟羊肉放吖一起炖不～。<sup>\[兴化\]</sup> ④ （借）互相协调<sup>\[兴化\]</sup>：两个文人在一起倒蛮～的。<sup>\[兴化\]</sup> ⑤ 团结<sup>\[泰县\]</sup>：他俫两个人不～。<sup>\[泰县\]</sup>  
-1. 【[佮家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_ga.md#佮家)】`guh7 ga1` <sup>[泰州]</sup> ① 两种荤菜或者蔬菜适合放在一起做一道菜：萝卜跟青菜不～，不能放住块儿烧。｜豆腐跟药芹不～，同菠菜～。 ② 两个人可以在一起共事：这两个人脾家不投，弄做块儿肯定不～。  
+1. 【[佮家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_ga.md#佮家)】`guh7 ga1` <small>/kuʔ7 ka1/<sup>兴化</sup>, /kʊʔ7 ka1/<sup>如皋</sup>, /kʊʔ7 ka1/<sup>泰县</sup></small> ① 两家或几家并成一家生活。<sup>\[如皋\]</sup> ② 融洽<sup>\[如皋\]</sup>：油同水不～、水泥同石灰～。<sup>\[如皋\]</sup> ③ 两样或两样以上的东西放在一起不相排斥<sup>\[兴化\]</sup>：鸡跟羊肉放吖一起炖不～。<sup>\[兴化\]</sup> ④ （借）互相协调<sup>\[兴化\]</sup>：两个文人在一起倒蛮～的。<sup>\[兴化\]</sup> ⑤ 团结<sup>\[泰县\]</sup>：他俫两个人不～。<sup>\[泰县\]</sup> ⑥ 两种荤菜或者蔬菜适合放在一起做一道菜<sup>\[泰州\]</sup>：萝卜跟青菜不～，不能放住块儿烧。<sup>\[泰州\]</sup>｜豆腐跟药芹不～，同菠菜～。<sup>\[泰州\]</sup> ⑦ 两个人可以在一起共事<sup>\[泰州\]</sup>：这两个人脾家不投，弄做块儿肯定不～。<sup>\[泰州\]</sup>  
 1. 【[佮界](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_gae.md#佮界)】`guh7 gae5` <sup>[东台]</sup> 邻里之间土地毗邻交界。  
 1. 【[佮角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_gah.md#佮角)】`guh7 gah7` <sup>[东台]</sup> ① 两人坐在桌子同一个角落两侧，紧紧靠在一起。 ② 财务报表行列总和对头。  
 1. 【[佮骨头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_gueh_teu.md#佮骨头)】`guh7 gueh7 teu` <sup>[兴化]</sup> 形容人争吵不休，互不相容：两个人像～的，见面就吵！  

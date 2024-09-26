@@ -819,7 +819,7 @@
 1. 【[抱小腰<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_xio_io_r.md#抱小腰<sub>儿</sub>)】`po6 xio3 io1 r` <sup>[如皋]</sup> 从背后抱住下腰部。比喻支持者、拥护者、保护者。  
 1. 【[抱整](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_zhen.md#抱整)】`po6 zhen3` <sup>[兴化]</sup> 固执已见，认死理：他这个人就是～，不肯听人劝。也说“抱死理”。  
 1. 【[抱奘腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_zhuan_ty.md#抱奘腿)】`po6 zhuan3 ty3` <sup>[东台]</sup> ［喻］找靠山，拍马屁。  
-1. 【[暴暴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_po_dii.md#暴暴的)】`po6 po6 dii` <sup>[如皋]</sup> 忽然地：他～一走，我觉察𨃯啊一大空：人～来啊，家里一点儿菜总没得，要赶紧准备。  
+1. 【[暴暴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_po_dii.md#暴暴的)】`po6 po6 dii` <sup>[如皋]</sup> 忽然地：他～一走，我觉察𨃯啊一大空｜人～来啊，家里一点儿菜总没得，要赶紧准备。  
 1. 【[爆灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_huei.md#爆灰)】`po6 huei1` <sup>[兴化]</sup> 草灰：谚曰：～也有发热之时。  
 1. 【[啪录啪录](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_loh_poh_loh.md#啪录啪录)】`poh7 loh poh7 loh` <sup>[如皋]</sup> 状说话快而连续不止，像放连珠炮。  
 1. 【[扑板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_baen.md#扑板)】`poh7 baen3` <sup>[如东]</sup> 工具。木质，长方形，有柄。扑匠用来平整扑屋屋面。也叫木蟹。  
