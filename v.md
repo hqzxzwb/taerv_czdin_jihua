@@ -228,7 +228,7 @@
 1. 【[五张头锅子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_zhan_teu_gu.md#五张头锅子)】`v3 zhan1 teu2 gu1 zz` <small>/ʋ3 t͡sɑŋ1 tʰəɪ2 kɤɯ1 t͡sɿ/<sup>泰兴</sup></small> 铁锅以“张”为量词确定大小。五张头为中等铁锅。<sup>\[泰兴\]</sup>  
 1. 【[午](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v.md#午)】`v3` <sup>[东台]</sup> 地支第七位。  
 1. 【[午饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_faen.md#午饭)】`v3 faen6` <sup>[如东]</sup> 十二点钟左右就餐，这顿饭称午饭。  
-1. 【[午槛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_kaen.md#午槛)】`v3 kaen3` <small>/u3 kʰɛ̃3/<sup>兴化</sup></small> ① 门框下部的横木板。也叫门槛。<sup>\[如东\]</sup> ② 门框下部的横木（也有用石头、水泥做成的）。也作“门槛”“门坎”。<sup>\[东台\]</sup> ③ 门槛。<sup>\[兴化\]</sup>  
+1. 【[午槛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_kaen.md#午槛)】`v3 kaen3` <small>/u3 kʰɛ̃3/<sup>兴化</sup></small> 门槛。门下所设的横挡。<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup>  
 1. 【[午时茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_shr_cha.md#午时茶)】`v3 shr2 cha2` <sup>[兴化]</sup> 由中草药配制而成的饮料，夏季饮用可生津止渴，防暑祛病。  
 1. 【[午市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_shr.md#午市)】`v3 shr6` <sup>[如皋]</sup> 中午的贸易潮。  
 1. 【[午心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_xien.md#午心)】`v3 xien1` <sup>[兴化]</sup> 中午，特指盛夏的中午：～里太阳晒人哎。也说“午仗心”。  
