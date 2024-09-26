@@ -2507,6 +2507,7 @@
 1. 【[说改故<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_gae_gv_r.md#说改故<sub>儿</sub>)】`shuh7 gae3 gv5 r` <sup>[如皋]</sup> 见“说改过儿”。  
 1. 【[说解故<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_gae_gv_r.md#说解故<sub>儿</sub>)】`shuh7 gae3 gv5 r` <sup>[如皋]</sup> 见“盖烦”。  
 1. 【[说格掝掉啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_geh_hoh_tio_a.md#说格掝掉啊)】`shuh7 geh hoh7 tio a` <sup>[东台]</sup> 形容议论太多，沸沸扬扬。  
+1. 【[说杲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_go_zz.md#说杲子)】`shuh7 go3 zz` <small>/sʊʔ7 kɔ3 t͡sɿ/<sup>泰兴</sup></small> 以言语责备、指责。说某人的杲子：责备某人。<sup>\[泰兴\]</sup>：他不敢家去晏吖，不然他妈妈要～。<sup>\[泰兴\]</sup>  
 1. 【[说功](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_gon.md#说功)】`shuh7 gon1` <sup>[兴化]</sup> 能言善辩：（做媒婆的）除了～就是跑功，两样缺一不可。（刘仁前《香河风情·香河人家》）  
 1. 【[说歌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_gu_zz.md#说歌子)】`shuh7 gu1 zz` <sup>[如东]</sup> 一种民间风俗。在喜庆活动时，如砌房子嫁女儿、娶媳妇，有人说唱群众口头编排的表示吉祥富贵的民歌民谣，称说歌子，也称说富贵。  
 1. 【[说馉饳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_guaeh_do_r.md#说馉饳<sub>儿</sub>)】`shuh7 guaeh7 do1 r` <sup>[如东]</sup> 说俏皮话。  
