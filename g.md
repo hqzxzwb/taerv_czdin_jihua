@@ -1068,7 +1068,6 @@
 1. 【[锅灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_zo.md#锅灶)】`gu1 zo5` <sup>[兴化]</sup> 生火烧饭、做菜的设施，包括锅和灶：把～收拾下子。  
 1. 【[锅子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_zz.md#锅子)】`gu1 zz` <small>/ko1 t͡sɿ/<sup>兴化</sup></small> ① 烧煮食物的器皿。铁、铜、钢精或瓷土制，圆彤，中间凹，有多种规格，可以煮饭炒菜等。<sup>\[如东\]</sup> ② 比较小的锅<sup>\[兴化\]</sup>：钢精～；平底～。<sup>\[兴化\]</sup>  
 1. 【[𠹭𠹭鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_gu_ji.md#𠹭𠹭鸡)】`gu1 gu1-2 ji1` <sup>[东台]</sup> 本为象声词，指公鸡鸣叫的声音。后泛指像鸡头的东西：他的发型像～｜我裹啊个～粽子。  
-1. 【[哿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu.md#哿)】`gu3` <sup>[如皋]</sup> 口语中，反复问句中的副词：～去？＝去不去？～拿？＝拿不拿？是江淮语式。相当于古汉语中“可”。  
 1. 【[哿曾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_cen.md#哿曾)】`gu3 cen2` <sup>[如东]</sup> 是否曾：你～去？  
 1. 【[哿是不早的句话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_shr_beh_zo_dii_jy_hua.md#哿是不早的句话)】`gu3 shr6 beh7 zo3 dii jy5 hua6` <sup>[如皋]</sup> 表示要等待很久，性急无用：你等他？～！不到十点钟不得到班！  
 1. 【[哿凶的呀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_xion_dii_ia.md#哿凶的呀)】`gu3 xion1 dii ia` <sup>[如皋]</sup> 问身体或精神是不是良好。常是向老年人或体弱的人询问、问候的话语。  
@@ -1094,7 +1093,7 @@
 1. 【[个着<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_zhah_r.md#个着<sub>儿</sub>)】`gu5 zhah7 r` <sup>[如皋]</sup> 人的身材，身高和壮瘦。  
 1. 【[个壮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_zhuan.md#个壮)】`gu5 zhuan5` <sup>[东台]</sup> 人的个子或物体的体量。  
 1. 【[个子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_zz.md#个子)】`gu5 zz` <sup>[泰兴]</sup> 人的身材高矮。  
-1. 【[哿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu.md#哿)】`gu5` <sup>[东台]</sup> 表示疑问：～是的？｜～好？｜～错？｜你～懂？｜你～去看戏？｜明天开会你～能参加？  
+1. 【[哿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu.md#哿)】`gu5` <small>/ko5/<sup>兴化</sup>, /kʊ3/<sup>如皋</sup>, /kɤɯ5/<sup>泰兴</sup>, /ko5/<sup>泰县</sup></small> 口语中，反复问句中的副词。是江淮语式。相当于古汉语中“可”：～去？/去不去？｜～拿？/拿不拿？｜～是的？｜～好？｜～错？｜你～懂？｜你～去看戏？｜明天开会你～能参加？  
 1. 【[哿曾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_cen.md#哿曾)】`gu5 cen2` <sup>[东台]</sup> 有没有进行：你～吃？  
 1. 【[哿谈到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_taen_do.md#哿谈到)】`gu5 taen2 do5` <sup>[东台]</sup> （口头禅）意思是完全正确，还有什么疑问吗：甲说某人字写得好，乙说～，人家是著名书法家。  
 1. 【[哿凶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_xion.md#哿凶)】`gu5 xion1` <sup>[东台]</sup> 意思是“身体好吗？”（参见“凶”）  
