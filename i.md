@@ -647,7 +647,7 @@
 1. 【[一柱香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_chv_xian.md#一柱香)】`ieh7 chv6 xian1` <sup>[如东]</sup> 一支或一束香：早晚～。  
 1. 【[一草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_co.md#一草)】`ieh7 co3` <sup>[东台]</sup> 旧时商界“一萬”的隐语，“萬”字，草字头。  
 1. 【[一次眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_cz_ngaen_r.md#一次眼<sub>儿</sub>)】`ieh7 cz ngaen9 r` <sup>[泰兴]</sup> ① 按次序（原文未收此义）：队排排好，～来拿杲子｜～站站好 ② 谓遍地皆是（某物），密度很高。  
-1. 【[一字不忑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_cz_beh_teh.md#一字不忑)】`ieh7 cz6 beh7 teh7` <sup>[如东]</sup> 比喻照样办理。  
+1. 【[一字不𠫓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_cz_beh_teh.md#一字不𠫓)】`ieh7 cz6 beh7 teh7` <sup>[如东]</sup> 比喻照样办理。  
 1. 【[一字值千金](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_cz_cheh_qin_jien.md#一字值千金)】`ieh7 cz6 cheh8 qin1 jien1` <sup>[泰兴]</sup> 谓文字价值高贵，也喻指教人识字，纠正别人的错别字是极值得称道的事。《史记•吕不韦列传》：“《吕氏春秋》书成，公布于咸阳城门，声言有能增删一字者，赏予千金。”清李渔《意中缘》：“一字值千金是说文理值钱的意思。”后以“一字值干金”极言文章价值的高贵。  
 1. 【[一字一板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_cz_ieh_baen.md#一字一板)】`ieh7 cz6 ieh7 baen3` <sup>[东台]</sup> ［喻］说话办事有板有眼，不乱方寸。  
 1. 【[一大把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_da_ba.md#一大把)】`ieh7 da ba3` <sup>[如皋]</sup> 手所能把握的最大量：～青草、～花生米儿。  
@@ -679,7 +679,7 @@
 1. 【[一抖二活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_deu_er_huh.md#一抖二活)】`ieh7 deu3 er6 huh8` <sup>[如皋]</sup> 不住颤抖。  
 1. 【[一斗米是恩人，三石米是仇人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_deu_mi_shr_ngen_ren_saen_daen_mi_shr_cheu_ren.md#一斗米是恩人，三石米是仇人)】`ieh7 deu3 mi3 shr6 ngen1 ren2 saen1 daen5 mi3 shr6 cheu2 ren2` <sup>[如皋]</sup> ① 意为媳妇不孝，姑娘可亲。 ② 适度济人成为恩人，过度济人变为仇人。  
 1. 【[一斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_deu.md#一斗)】`ieh7 deu5` <sup>[泰县]</sup> 一直：～说叫你不要走，你就是不所。  
-1. 【[一滴鼻涕忑咖锅里，我能派多少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_dieh_pieh_ti.md#一滴鼻涕忑咖锅里，我能派多少)】`ieh7 dieh7 pieh8 ti teh7 ga gu1 lii ngu3 nen2 pae5 du1 sho3` <sup>[泰兴]</sup> “派”，得到，分得。喻指因对自己的利益影响很小就不去计较，这是一种典型的事不关己的个人主义行为。  
+1. 【[一滴鼻涕𠫓咖锅里，我能派多少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_dieh_pieh_ti.md#一滴鼻涕𠫓咖锅里，我能派多少)】`ieh7 dieh7 pieh8 ti teh7 ga gu1 lii ngu3 nen2 pae5 du1 sho3` <sup>[泰兴]</sup> “派”，得到，分得。喻指因对自己的利益影响很小就不去计较，这是一种典型的事不关己的个人主义行为。  
 1. 【[一滴水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_dieh_shuei.md#一滴水)】`ieh7 dieh7 shuei3` <sup>[东台]</sup> 旧式木架雕花铺板床，配有灯柜、踏板，有一道门扇和戗板。  
 1. 【[一顶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_dien.md#一顶)】`ieh7 dien3` <small>/iəʔ7 tiɪ̃3/<sup>兴化</sup>, /iəʔ7 tiəŋ3/<sup>如皋</sup></small> ① 副词，相当于“最”，也可与“最”配用：在我俫班上～他最好！<sup>\[如皋\]</sup> ② 副词，相当于最、尤其<sup>\[兴化\]</sup>：这吖多客人，～他难服待。<sup>\[兴化\]</sup>  
 1. 【[一吊钱四开——二百五](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_dio_qin_sz_kae_er_boh_v.md#一吊钱四开——二百五)】`ieh7 dio5 qin2 sz5 kae1 er6 boh7 v3` <sup>[东台]</sup>   
@@ -1507,7 +1507,7 @@
 1. 【[有名的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_mien_dii.md#有名的)】`ieu3 mien2 dii` <sup>[如皋]</sup> 出名的。  
 1. 【[有命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_mien.md#有命)】`ieu3 mien6` <sup>[兴化]</sup> 在危急中得救：他在危急关头，看见来啊几位民警，心想这下子～吖。  
 1. 【[有命没毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_mien_meh_mo.md#有命没毛)】`ieu3 mien6 meh8 mo2` <sup>[东台]</sup> 指事态十分危险，尽管不会死亡，也会有重伤。  
-1. 【[有命无毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_mien_v_mo.md#有命无毛)】`ieu3 mien6 v2 mo2` <sup>[兴化]</sup> 即使逃得性命，也将受到极大伤害：“那公子不是好说话的，惹着他～……”（《说唐》十三）也作“有命没毛”。｜谚曰：麻雀子忑下烟囱——～。  
+1. 【[有命无毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_mien_v_mo.md#有命无毛)】`ieu3 mien6 v2 mo2` <sup>[兴化]</sup> 即使逃得性命，也将受到极大伤害：“那公子不是好说话的，惹着他～……”（《说唐》十三）也作“有命没毛”。｜谚曰：麻雀子𠫓下烟囱——～。  
 1. 【[有奶奶，没爹爹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_nae_nae_meh_dia_dia.md#有奶奶，没爹爹)】`ieu3 nae3 nae meh8 dia1 dia` <sup>[兴化]</sup> 形容不紧不慢的样子：你忙自己先走，等他～的，早唻！  
 1. 【[有耐耐，没耐耐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_nae_nae_meh_nae_nae.md#有耐耐，没耐耐)】`ieu3 nae6 nae6 meh8 nae6 nae6` <sup>[东台]</sup> 拖的时间或等的时间太长，令人很不耐烦。  
 1. 【[有爱主](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_ngae_zhv.md#有爱主)】`ieu3 ngae5 zhv3` <sup>[如东]</sup> 有人喜欢。  
@@ -1604,8 +1604,8 @@
 1. 【[页子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih_zz.md#页子)】`ih8 zz` <sup>[兴化]</sup> 钞票的隐语：好东好西我全想要，可惜手上没～。  
 1. 【[咦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ii.md#咦)】`ii2` <sup>[如东]</sup> 表示疑问惊讶的词。  
 1. 【[咽喉屌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_heu_dio_zz.md#咽喉屌子)】`in1 heu dio3 zz` <sup>[泰兴]</sup> 小舌，悬雍垂。  
-1. 【[咽喉屌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_heu_dio_r.md#咽喉屌<sub>儿</sub>)】`in1 heu2 dio3 r` <small>/iɪ̃1 xɤ2 tiɔ3 ɚ/<sup>兴化</sup>, /ĩ1 xei2 tiɔ˞3/<sup>如皋</sup></small> 小舌，悬雍垂。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup>：我这两天受啊凉，怕的～忑下来了，噎唾沫总疼。<sup>\[东台\]</sup>  
-1. 【[咽喉屌<sub>儿</sub>忑下来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_heu_dio_r.md#咽喉屌<sub>儿</sub>忑下来啊)】`in1 heu2 dio3 r teh7 ha lae2 a` <sup>[如皋]</sup> 悬雍垂发炎肿大。  
+1. 【[咽喉屌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_heu_dio_r.md#咽喉屌<sub>儿</sub>)】`in1 heu2 dio3 r` <small>/iɪ̃1 xɤ2 tiɔ3 ɚ/<sup>兴化</sup>, /ĩ1 xei2 tiɔ˞3/<sup>如皋</sup></small> 小舌，悬雍垂。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup>：我这两天受啊凉，怕的～𠫓下来了，噎唾沫总疼。<sup>\[东台\]</sup>  
+1. 【[咽喉屌<sub>儿</sub>𠫓下来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_heu_dio_r.md#咽喉屌<sub>儿</sub>𠫓下来啊)】`in1 heu2 dio3 r teh7 ha lae2 a` <sup>[如皋]</sup> 悬雍垂发炎肿大。  
 1. 【[烟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in.md#烟)】`in1` <sup>[如皋]</sup> ① 水的雾气：笼锅的～足。 ② 汗气：他把帽子褪掉，头上只将冒～。 ③ 气管中的热气蒸腾：他说话说得喉咙起～。  
 1. 【[烟草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_co.md#烟草)】`in1 co3` <sup>[如东]</sup> 茄科植物烟草，一年生草本。高约2米。茎直立，粗壮，基部木质化。叶互生，甚大，椭圆状披针形。圆锥花序或总状花序顶生。花冠漏斗形，粉红色。蒴果卵圆形。种子细小，黄褐色。田间种植。叶是制造烟丝的原料。伤。  
 1. 【[烟囱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_con.md#烟囱)】`in1 con1` <sup>[如东]</sup> 排烟的管道。  

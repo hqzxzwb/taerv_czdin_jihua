@@ -985,7 +985,7 @@
 1. 【[湿气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_qi.md#湿气)】`sheh7 qi5` <sup>[兴化]</sup> ① 潮湿气：这个房间里～太重，住啊不舒服。 ② 脚气：谚曰：冻疮变～，一年害四季。  
 1. 【[色<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_r.md#色<sub>儿</sub>)】`sheh7 r` <small>/sə˞7/<sup>如皋</sup></small> ① 一种博戏具。每粒正六面体，边长0.8CM，1～6点分刻于各面。一副6粒。玩时置碗中，可手掷，亦可加盖摇，看点数分高低。也称骰子。<sup>\[如东\]</sup> ② 也叫骰子。用骨头、木头或塑料制成的赌具，立体小方块，用手抛，六面分刻123456点。<sup>\[东台\]</sup> ③ 即色子。一种玩具、赌具。<sup>\[如皋\]</sup>  
 1. 【[虱子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_zz.md#虱子)】`sheh7 zz` <sup>[如东]</sup> 昆虫。灰白色、浅黄色或灰黑色，有短毛，头小，没有翅膀，腹部大。卵白色，椭圆形。寄生在人、猪、牛等身上，吸食血液。能传播斑疹、伤寒和回归热等疾病。  
-1. 【[虱子活咖忑下来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_zz_huh_ga.md#虱子活咖忑下来)】`sheh7 zz huh8 ga teh7 ha lae2` <sup>[如皋]</sup> 哭穷、嗑穷、活穷。  
+1. 【[虱子活咖𠫓下来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_zz_huh_ga.md#虱子活咖𠫓下来)】`sheh7 zz huh8 ga teh7 ha lae2` <sup>[如皋]</sup> 哭穷、嗑穷、活穷。  
 1. 【[识宝的回子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_bo_dii_huei_zz.md#识宝的回子)】`sheh7 bo3 dii huei2 zz` <sup>[兴化]</sup> ① 对波斯珠宝商人的旧称。《拍案惊案》第一卷就讲述了一个波斯胡（回子）识宝的故事。 ② （喻）识才重才的人：“左”时的领导，也有～，他们把宗石均就地安排为公社副书记……（马春阳《白发青丝好夫妇》）  
 1. 【[识宝猴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_bo_heu_zz.md#识宝猴子)】`sheh7 bo3 heu2 zz` <sup>[如东]</sup> 对宝物有鉴别能力的人。比喻办事精明：他是～，咋得会弄错？  
 1. 【[识宝回子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_bo_huei_zz.md#识宝回子)】`sheh7 bo3 huei2 zz` <small>/səʔ7 pɔ3 xuei2 t͡sɿ/<sup>如皋</sup></small> ① 珠宝古董行家。<sup>\[如皋\]</sup> ② 旧时东台的回族人擅长鉴别珠宝，后泛指有鉴赏能力的人。也说“识宝猴子”，有猴精的意思。<sup>\[东台\]</sup>  
@@ -1231,7 +1231,7 @@
 1. 【[生姜还是老的辣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_jian_hae_shr_lo_dii_laeh.md#生姜还是老的辣)】`shen1 jian1 hae2 shr6 lo3 dii laeh8` <sup>[东台]</sup> 喻指阅历和经验越丰富越有本领。  
 1. 【[生姜米<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_jian_mi_r.md#生姜米<sub>儿</sub>)】`shen1 jian1 mi3 r` <small>/səŋ1 t͡ɕiã1 mʝ˞3/<sup>如皋</sup>, /səŋ1 t͡ɕiɑŋ1 mɿ3 ɚ/<sup>泰县</sup></small> ① 讽喻能人：她是个～，块块少不了。<sup>\[如皋\]</sup> ② 剁碎的生姜。<sup>\[泰县\]</sup> ③ 处处配得上：～的干部。<sup>\[泰县\]</sup>  
 1. 【[生姜米<sub>儿</sub>——块块搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_jian_mi_r_kuae_kuae_daeh.md#生姜米<sub>儿</sub>——块块搭)】`shen1 jian1 mi3 r kuae5 kuae5 daeh7` <sup>[东台]</sup>   
-1. 【[生姜忑咖肉锅里——肉麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_jian_teh_ga_roh_gu_lii_roh_ma.md#生姜忑咖肉锅里——肉麻)】`shen1 jian1 teh7 ga roh8 gu1 lii roh8 ma2` <sup>[如皋]</sup> 讽认不得自己、表现自己、高抬自己的人。  
+1. 【[生姜𠫓咖肉锅里——肉麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_jian_teh_ga_roh_gu_lii_roh_ma.md#生姜𠫓咖肉锅里——肉麻)】`shen1 jian1 teh7 ga roh8 gu1 lii roh8 ma2` <sup>[如皋]</sup> 讽认不得自己、表现自己、高抬自己的人。  
 1. 【[生姜芋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_jian_y.md#生姜芋)】`shen1 jian1 y6` <small>/səŋ1 t͡ɕiã1 y1/<sup>如皋</sup></small> ① 菊芋 ② 菊芋。<sup>\[如皋\]</sup> ③ 一年生草本植物，也称山芋、菊芋、江南芋。茎直立。叶互生，扇形，有柄。花黄色。地下茎成块状，无辛辣味，可食。<sup>\[如东\]</sup>  
 1. 【[生讲究](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_jian_jieu.md#生讲究)】`shen1 jian3 jieu` <sup>[兴化]</sup> 生病：老刘～，在家里休息。也说“生讲较”。  
 1. 【[生讲较](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_jian_jio.md#生讲较)】`shen1 jian3 jio` <sup>[兴化]</sup> 生病。  
@@ -1594,7 +1594,7 @@
 1. 【[受主](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_zhv.md#受主)】`sheu6 zhv3` <sup>[兴化]</sup> ① 承接者：姑娘虽丑，好在有啊～，我就放吖心。 ② 买主：“产业是你的，恁你卖给谁……你就是有了别个～，也应该问我一声……”（《二十年目睹之怪现状》二十）  
 1. 【[寿斑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_baen.md#寿斑)】`sheu6 baen1` <sup>[如皋]</sup> 老年人的皮下色斑。  
 1. 【[寿匾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_bin.md#寿匾)】`sheu6 bin3` <sup>[如皋]</sup> 祝寿的匾额。  
-1. 【[寿宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_bo.md#寿宝)】`sheu6 bo` ① 对小孩子的略带责怪但又是亲昵的称呼。 ② 指小孩，兼有责怪与疼爱的意思。<sup>\[如东\]</sup>：妈妈看见章章在河边玩水，骂道：“你这个～，不怕忑咖河里！”<sup>\[如东\]</sup>  
+1. 【[寿宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_bo.md#寿宝)】`sheu6 bo` ① 对小孩子的略带责怪但又是亲昵的称呼。 ② 指小孩，兼有责怪与疼爱的意思。<sup>\[如东\]</sup>：妈妈看见章章在河边玩水，骂道：“你这个～，不怕𠫓咖河里！”<sup>\[如东\]</sup>  
 1. 【[寿宝箱子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_bo_xian_zz.md#寿宝箱子)】`sheu6 bo xian1 zz` <sup>[如东]</sup> 人死了，要装进棺材了，这是咒骂小孩的话：你个～！  
 1. 【[寿材](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_cae.md#寿材)】`sheu6 cae2` <small>/sei1 t͡sʰɛ2/<sup>如皋</sup></small> ① 棺材。<sup>\[如皋\]</sup> ② 为活着的老人制作的棺材称寿材。<sup>\[如东\]</sup>  
 1. 【[寿辰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_chen.md#寿辰)】`sheu6 chen2` <sup>[如东]</sup> 生日。  
@@ -2109,7 +2109,7 @@
 1. 【[刷白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuaeh_poh.md#刷白)】`shuaeh7 poh8` <sup>[东台]</sup> ① 在建筑物上加白色涂料。 ② 面色白而略微发青：一听到这个坏消息，他的脸马上变得～。  
 1. 【[刷市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuaeh_shr.md#刷市)】`shuaeh7 shr6` <sup>[如皋]</sup> 收市，整理铺面及货物环境。  
 1. 【[刷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuaeh_zz.md#刷子)】`shuaeh7 zz` ① 刷洗衣物的工具。<sup>\[如东\]</sup> ② 本指用毛、棕、尼龙丝、金属丝等制成的用于清洁脏物或涂抹膏油的用具。<sup>\[东台\]</sup> ③ ［引］有本事、有几下子<sup>\[东台\]</sup>：他办事真有两把～！<sup>\[东台\]</sup> ④ ［引］指和稀泥，缺乏原则性的人<sup>\[东台\]</sup>：要正视矛盾，解决问题，不能当～<sup>\[东台\]</sup>｜群众常称某些领导是～。<sup>\[东台\]</sup>  
-1. 【[刷子忑咖毛——有板有眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuaeh_zz_teh_ga_mo_ieu_baen_ieu_ngaen.md#刷子忑咖毛——有板有眼)】`shuaeh7 zz teh7 ga mo2 ieu3 baen3 ieu3 ngaen3` <sup>[东台]</sup>   
+1. 【[刷子𠫓咖毛——有板有眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuaeh_zz_teh_ga_mo_ieu_baen_ieu_ngaen.md#刷子𠫓咖毛——有板有眼)】`shuaeh7 zz teh7 ga mo2 ieu3 baen3 ieu3 ngaen3` <sup>[东台]</sup>   
 1. 【[唰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuaeh.md#唰)】`shuaeh7` <sup>[兴化]</sup> 大吃、吃好的：……参加利润分配，个体老板死活不肯……老吉出了个主意，你把他们叫起来～一顿不就行了……（刘春龙《无意插柳》）  
 1. 【[刷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuaeh.md#刷)】`shuaeh8` <sup>[如皋]</sup> 通“涮”。  
 1. 【[刷花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuaeh_hua.md#刷花)】`shuaeh8 hua1` <sup>[如皋]</sup> 纸板镂空，放在物件上刷彩色颜料（油漆）。  
@@ -2619,7 +2619,7 @@
 1. 【[树大招风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_da_zho_fon.md#树大招风)】`shv6 da6 zho1 fon1` <sup>[东台]</sup> ［喻］因名气大引人注意或惹人嫉妒。  
 1. 【[树的影，人的名](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_dii_ien_ren_dii_mien.md#树的影，人的名)】`shv6 dii ien3， ren2 dii mien2` <sup>[东台]</sup> ［喻］人生在世要注意个人的形象、名誉。  
 1. 【[树秧子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_ian_zz.md#树秧子)】`shv6 ian1 zz` <sup>[兴化]</sup> 用于移植的树苗。  
-1. 【[树叶子忑下来怕打头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_ih_zz_teh_ha_lae_pa_da_teu.md#树叶子忑下来怕打头)】`shv6 ih8 zz teh7 ha6 lae pa5 da3 teu2` <sup>[东台]</sup> 忑下来即掉下来，形容有的人过分胆小怕事；这人谨小慎微，简直是～。  
+1. 【[树叶子𠫓下来怕打头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_ih_zz_teh_ha_lae_pa_da_teu.md#树叶子𠫓下来怕打头)】`shv6 ih8 zz teh7 ha6 lae pa5 da3 teu2` <sup>[东台]</sup> 𠫓下来即掉下来，形容有的人过分胆小怕事；这人谨小慎微，简直是～。  
 1. 【[树棵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_ku.md#树棵)】`shv6 ku1` <sup>[如皋]</sup> 柱子。  
 1. 【[树兰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_laen.md#树兰)】`shv6 laen2` <sup>[如皋]</sup> 米仔兰。  
 1. 【[树老根多，人老话多](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_lo_gen_du_ren_lo_hua_du.md#树老根多，人老话多)】`shv6 lo3 gen1 du1 ren2 lo3 hua6 du1` <sup>[东台]</sup> 人的经历丰富了感慨就多，但也容易啰啰唆。  
@@ -2929,7 +2929,7 @@
 1. 【[酥饺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_jio.md#酥饺)】`sv1 jio3` <sup>[如皋]</sup> 一种茶食。饺皮擦油酥擀制。油炸。  
 1. 【[酥卷<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_jiun_r.md#酥卷<sub>儿</sub>)】`sv1 jiun3 r` <sup>[如皋]</sup> 酥脆的卷状茶食。  
 1. 【[酥糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_tan.md#酥糖)】`sv1 tan2` <sup>[如皋]</sup> 酥松可口的糖果，如花生酥、董糖。  
-1. 【[𣩷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv.md#𣩷)】`sv1` <small>/su1/<sup>兴化</sup>, /su1/<sup>如皋</sup></small> ① 朽坏<sup>\[如皋\]</sup>：桌子脚～啊，一掐一块屑子。<sup>\[如皋\]</sup> ② 朽、烂<sup>\[兴化\]</sup>：这块砖头浸吖水里一冻全～啊。这块木头已经烂吖泛～啊。《集韵·模韵》孙租切<sup>\[兴化\]</sup>｜“～，烂也。”<sup>\[兴化\]</sup> ③ 器物松软而不坚固<sup>\[泰州\]</sup>：岁数大啊唻，骨头发咖～，走路一跌就骨折。<sup>\[泰州\]</sup>｜这个房子年代久啊，砖头子都～啊，一碰就灰忑忑的。<sup>\[泰州\]</sup>  
+1. 【[𣩷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv.md#𣩷)】`sv1` <small>/su1/<sup>兴化</sup>, /su1/<sup>如皋</sup></small> ① 朽坏<sup>\[如皋\]</sup>：桌子脚～啊，一掐一块屑子。<sup>\[如皋\]</sup> ② 朽、烂<sup>\[兴化\]</sup>：这块砖头浸吖水里一冻全～啊。这块木头已经烂吖泛～啊。《集韵·模韵》孙租切<sup>\[兴化\]</sup>｜“～，烂也。”<sup>\[兴化\]</sup> ③ 器物松软而不坚固<sup>\[泰州\]</sup>：岁数大啊唻，骨头发咖～，走路一跌就骨折。<sup>\[泰州\]</sup>｜这个房子年代久啊，砖头子都～啊，一碰就灰𠫓𠫓的。<sup>\[泰州\]</sup>  
 1. 【[嗉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv.md#嗉)】`sv5` <sup>[东台]</sup> 鸟类食管下端盛食物的囊。  
 1. 【[塑料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_lio.md#塑料)】`sv5 lio6` <sup>[如东]</sup> 树脂等高分子化合物与配料混合，再经加热加压而形成的具有一定形状的材料。在常温下不再变形。种类很多，如电木、赛璐珞、聚氯乙烯等。一般有质轻、绝缘耐腐蚀耐磨等特点。广泛应用于飞机、车辆、船舶电机、机械、化学建筑等工业，也用来制造各种日用品。  
 1. 【[塑匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_qian.md#塑匠)】`sv5 qian` <sup>[如东]</sup> 从事泥塑业务的小手业者。  

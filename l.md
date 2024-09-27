@@ -234,7 +234,7 @@
 1. 【[癞乌龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_v_lon.md#癞乌龙)】`lae6 v lon2` <sup>[兴化]</sup> ① 旧时逢干旱，常有迷信的人用泥巴做成身段，蛤壳作鳞，使成“龙”状，俗称～，用来祈雨。 ② （喻）不爱整洁的人：像个～。  
 1. 【[癞屑<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_xih_r.md#癞屑<sub>儿</sub>)】`lae6 xih7 r` <sup>[如皋]</sup> 见“癞皮儿”。  
 1. 【[癞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_zz.md#癞子)】`lae6 zz` <sup>[东台]</sup> 身上长癣的人。  
-1. 【[癞子抓痒——忑咖来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_zz_zhua_ian_teh_ga_lae_a.md#癞子抓痒——忑咖来啊)】`lae6 zz zhua1 ian3 teh7 ga lae2 a` <sup>[东台]</sup>   
+1. 【[癞子抓痒——𠫓咖来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_zz_zhua_ian_teh_ga_lae_a.md#癞子抓痒——𠫓咖来啊)】`lae6 zz zhua1 ian3 teh7 ga lae2 a` <sup>[东台]</sup>   
 1. 【[褦襶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_dae.md#褦襶)】`lae6 dae` <sup>[如皋]</sup> ① 衣饰不整。 ② 处事不严谨。俗说：～和尚没得个好道场做。  
 1. 【[褦襶配褦襶，坏锅子配啊个翘锅盖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_dae_pi_lae_dae_huae_gu_zz_pi_a_gu_qio_gu_gae.md#褦襶配褦襶，坏锅子配啊个翘锅盖)】`lae6 dae pi5 lae6 dae，huae6 gu1 zz pi5 a gu qio2 gu1 gae5` <sup>[如皋]</sup> 门当户对，只能这样配了。  
 1. 【[赖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae.md#赖)】`lae6` ① 不承认。<sup>\[如东\]</sup>：你不要～啊。<sup>\[如东\]</sup> ② 抵赖<sup>\[泰州\]</sup>：我亲眼看见你先大人的，你还想～啊。<sup>\[泰州\]</sup> ③ 身体向下或向后坠<sup>\[泰州\]</sup>：他把屁股～下来，你拉不动他。<sup>\[泰州\]</sup> ④ 耍赖留在某处不离开<sup>\[泰州\]</sup>：你～啊这块不走，人家店里不能不关门吖。<sup>\[泰州\]</sup>  
@@ -309,7 +309,7 @@
 1. 【[辣胡椒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_hv_jio.md#辣胡椒)】`laeh8 hv2 jio1` <sup>[如皋]</sup> 喻指某女人厉害粗犷。  
 1. 【[辣酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_jieu.md#辣酒)】`laeh8 jieu3` <sup>[兴化]</sup> 酒精含量较高的白酒。也称“麻酒”。  
 1. 【[辣椒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_jio.md#辣椒)】`laeh8 jio1` <sup>[如东]</sup> 茄科植物辣椒  
-1. 【[辣椒忑咖肉锅里——肉麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_jio_teh_ga_roh_gu_lii_roh_ma.md#辣椒忑咖肉锅里——肉麻)】`laeh8 jio1 teh7 ga roh8 gu1 lii roh8 ma2` <sup>[东台]</sup>   
+1. 【[辣椒𠫓咖肉锅里——肉麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_jio_teh_ga_roh_gu_lii_roh_ma.md#辣椒𠫓咖肉锅里——肉麻)】`laeh8 jio1 teh7 ga roh8 gu1 lii roh8 ma2` <sup>[东台]</sup>   
 1. 【[辣蓼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_lo.md#辣蓼)】`laeh8 lo3` <sup>[如东]</sup> 蓼科植物辣蓼。  
 1. 【[辣人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_ren.md#辣人)】`laeh8 ren2` <sup>[如东]</sup> 一种辣性物质对咽喉或皮肤的刺激：这个是菜椒，不～。  
 1. 【[辣人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_ren_zz.md#辣人子)】`laeh8 ren2 zz` <sup>[如皋]</sup> 螫痛、火辣辣的痛感。如皋词典作“𤷈”：肚里～。杨蝲子～。  
@@ -1233,7 +1233,7 @@
 1. 【[柳敬亭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_jien_tien.md#柳敬亭)】`lieu3 jien5 tien2` <sup>[东台]</sup> 东台人，明末清初我国一代评话宗师。本姓曹，原居南通余西场，后迁东台鹤落瑜曹家庄，取名永昌，字葵宇。擅长说楚汉、隋唐、水浒故事，说书技艺精湛。  
 1. 【[柳杉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_shaen.md#柳杉)】`lieu3 shaen1` <sup>[如东]</sup> 柳科植物柳杉，常绿大乔木。  
 1. 【[柳藤箱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_ten_xian.md#柳藤箱)】`lieu3 ten2 xian1` <sup>[东台]</sup> 用杞柳条编织的箱子。  
-1. 【[溜急](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_jieh.md#溜急)】`lieu6 jieh7` <sup>[兴化]</sup> 形容水流溢急：江水～，忑下去难生还。  
+1. 【[溜急](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_jieh.md#溜急)】`lieu6 jieh7` <sup>[兴化]</sup> 形容水流溢急：江水～，𠫓下去难生还。  
 1. 【[溜头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_teu.md#溜头)】`lieu6 teu2` <sup>[兴化]</sup> ① 急流的最前峰：那佛祖轻轻用力撑开，只见上～泱下一个死尸。（《西游记》九八） ② （借）指以往某些政治运动最激烈的时候：运动在～上，硬项就要吃亏。  
 1. 【[遛雀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_jiah_r.md#遛雀<sub>儿</sub>)】`lieu6-5 jiah7 r` <sup>[兴化]</sup> 提着鸟笼到幽静的地方去散步。  
 1. 【[列祖列宗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lih_zv_lih_zon.md#列祖列宗)】`lih8 zv3 lih8 zon1` <sup>[东台]</sup> 历代的祖先。  
@@ -1357,7 +1357,7 @@
 1. 【[脸水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_shuei.md#脸水)】`lin3 shuei3` <sup>[兴化]</sup> 洗脸水：打～。  
 1. 【[脸撕啊破啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_sz_a_pu_a.md#脸撕啊破啊)】`lin3 sz1 a pu5 a` <sup>[如皋]</sup> 不能见人之事被公开揭露。  
 1. 【[脸膛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_tan_r.md#脸膛<sub>儿</sub>)】`lin3 tan2 r` <small>/liɪ̃3 tʰaŋ2 ɚ/<sup>兴化</sup>, /niɪ̃3 tʰɑŋ2 ɚ/<sup>泰县</sup></small> ① 脸<sup>\[兴化\]</sup>：黑里透红的～<sup>\[兴化\]</sup>｜圆鼓鼓的～。也说“脸盘子”。<sup>\[兴化\]</sup> ② 脸庞。<sup>\[泰县\]</sup>  
-1. 【[脸忑下来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_teh_ha_lae.md#脸忑下来)】`lin3 teh7 ha lae` <sup>[东台]</sup> 生气了，板起面孔的样子：少数人捱经理～批评吖一顿。  
+1. 【[脸𠫓下来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_teh_ha_lae.md#脸𠫓下来)】`lin3 teh7 ha lae` <sup>[东台]</sup> 生气了，板起面孔的样子：少数人捱经理～批评吖一顿。  
 1. 【[脸疼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_ten.md#脸疼)】`lin3 ten2` <sup>[泰县]</sup> 难为情。  
 1. 【[脸蘣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_ton.md#脸蘣)】`lin3 ton5` <sup>[如东]</sup> 脸皮白皙，表情稚嫩，使人疼爱：这个丫头～，不好意思说。  
 1. 【[脸脱色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_tuh_seh.md#脸脱色)】`lin3 tuh7 seh7` <sup>[如皋]</sup> 脸色苍白，毫无血色。  
@@ -1374,7 +1374,7 @@
 1. 【[楝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin.md#楝)】`lin6` <sup>[东台]</sup> 落叶乔木，叶子互生，羽状复叶，小叶卵形或披针形，花小，淡紫色，果实椭圆形。  
 1. 【[楝树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_shv.md#楝树)】`lin6 shv6` <sup>[如东]</sup> 楝科植物苦楝，落叶乔木。  
 1. 【[楝树牛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_shv_ngeu_r.md#楝树牛<sub>儿</sub>)】`lin6 shv6 ngeu2 r` <sup>[如东]</sup> 天牛科昆虫星天牛。  
-1. 【[敹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio.md#敹)】`lio1` <sup>[泰州]</sup> 大针粗缝：被单忑咖来啊，你同他～两针。｜你去拿个针把麻袋口～起来。  
+1. 【[敹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio.md#敹)】`lio1` <sup>[泰州]</sup> 大针粗缝：被单𠫓咖来啊，你同他～两针。｜你去拿个针把麻袋口～起来。  
 1. 【[㞠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio.md#㞠)】`lio2` <sup>[兴化]</sup> ① 男子的外生殖器。 ② 雄性驴、马等的外生殖器。原文作“屪”，《字汇·尸部》力宵切，“～，男阴名”：谚曰驴～子向东，马～子向西。  
 1. 【[㞠礓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_jian_r.md#㞠礓<sub>儿</sub>)】`lio2 jian3 r` <sup>[兴化]</sup> 小便的贬义说法：射～。  
 1. 【[僚气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_qi.md#僚气)】`lio2 qi5` <sup>[兴化]</sup> （戏）官僚作风、官气：别看他官不大，～十足。  
@@ -1400,7 +1400,7 @@
 1. 【[聊表](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_bio.md#聊表)】`lio2 bio3` <sup>[如皋]</sup> 大体、稍微、粗略：我把书～翻吖下子，写得不错。  
 1. 【[聊表<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_bio_r.md#聊表<sub>儿</sub>)】`lio2 bio3 r` <sup>[兴化]</sup> 约略地：我跟他～说咖几句，不曾深谈。  
 1. 【[聊微](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_vei.md#聊微)】`lio2 vei2` <sup>[如皋]</sup> 略微，稍许。  
-1. 【[辽边及缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_bin_qieh_fon.md#辽边及缝)】`lio2 bin1 qieh8 fon6` <sup>[兴化]</sup> 位于最边缘：你站得～的，覅跌下去。｜花瓶摆得～的，弄不好忑下地打碎。  
+1. 【[辽边及缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_bin_qieh_fon.md#辽边及缝)】`lio2 bin1 qieh8 fon6` <sup>[兴化]</sup> 位于最边缘：你站得～的，覅跌下去。｜花瓶摆得～的，弄不好𠫓下地打碎。  
 1. 【[了不得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_beh_deh.md#了不得)】`lio3 beh7 deh7` <sup>[如东]</sup> 情况严重，没法收拾。  
 1. 【[了不起](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_beh_qi.md#了不起)】`lio3 beh7 qi3` <small>/liɔ3 pəʔ7 t͡ɕʰʝ3/<sup>如皋</sup></small> ① 非常突出。<sup>\[如东\]</sup>：这座桥这吖漂亮，真是～。<sup>\[如东\]</sup> ② 表瞧不起：我～你！<sup>\[如皋\]</sup>  
 1. 【[了宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_bo.md#了宝)】`lio3 bo3` <sup>[如东]</sup> 挥霍浪费、不聚钱财的人。  
@@ -1580,7 +1580,7 @@
 1. 【[老鼠啃书——咬文嚼字](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_chv_ken_shv_ngo_ven_qiah_cz.md#老鼠啃书——咬文嚼字)】`lo3 chv3 ken3 shv1 ngo3 ven2 qiah8 cz6` <sup>[东台]</sup>   
 1. 【[老鼠拉秤砣——自窒门路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_chv_la_chen.md#老鼠拉秤砣——自窒门路)】`lo3 chv3 la1 chen5 tu2 cz6 zheh7 men2 lv6` <sup>[东台]</sup>   
 1. 【[老鼠爬秤杆——自称](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_chv_pa_chen_gun_cz_chen.md#老鼠爬秤杆——自称)】`lo3 chv3 pa2 chen5 gun3 cz6 chen1` <sup>[东台]</sup>   
-1. 【[老鼠忑到磨眼里——转吖折磨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_chv_teh_do_mu_ngaen_lii_zhun_nga_zhih_mu.md#老鼠忑到磨眼里——转吖折磨)】`lo3 chv3 teh7 do5 mu6 ngaen3 lii zhun5 nga zhih7 mu2` <sup>[东台]</sup>   
+1. 【[老鼠𠫓到磨眼里——转吖折磨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_chv_teh_do_mu_ngaen_lii_zhun_nga_zhih_mu.md#老鼠𠫓到磨眼里——转吖折磨)】`lo3 chv3 teh7 do5 mu6 ngaen3 lii zhun5 nga zhih7 mu2` <sup>[东台]</sup>   
 1. 【[老鼠偷猫饭——提心吊胆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_chv_teu_mo_faen_ti_xien_dio_daen.md#老鼠偷猫饭——提心吊胆)】`lo3 chv3 teu1 mo2 faen6 ti2 xien1 dio5 daen3` <sup>[东台]</sup>   
 1. 【[老鼠拖板掀——大头在后面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_chv_tu_baen_xin_da_teu_cae_heu_min.md#老鼠拖板掀——大头在后面)】`lo3 chv3 tu1 baen3 xin1 da6 teu2 cae6 heu6 min6` <sup>[东台]</sup>   
 1. 【[老鼠尾巴熬汤——没甚的油水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_chv_vei_ba.md#老鼠尾巴熬汤——没甚的油水)】`lo3 chv3 vei3 ba1 ngo2 tan1 meh8 shen dii ieu2 xy3` <sup>[东台]</sup>   
@@ -1907,7 +1907,7 @@
 1. 【[六指<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_zheh_r.md#六指<sub>儿</sub>)】`loh8 zheh7 r` <sup>[如东]</sup> ① 手上有六只手指，称六指儿。 ② 有六只手指的人：～来啊。  
 1. 【[六指<sub>儿</sub>打时——忙不过来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_zheh_r_da_shr_man_beh_gu_lae.md#六指<sub>儿</sub>打时——忙不过来)】`loh8 zheh7 r da3 shr2 man2 beh7 gu5 lae2` <sup>[东台]</sup>   
 1. 【[六指<sub>儿</sub>抓痒——加一恭维](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_zheh_r_zhua_ian_jia_ieh_gon_vei.md#六指<sub>儿</sub>抓痒——加一恭维)】`loh8 zheh7 r zhua1 ian3 jia1 ieh7 gon1 vei2` <sup>[东台]</sup>   
-1. 【[摝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh.md#摝)】`loh8` <small>/lɔʔ8/<sup>如皋</sup></small> ① 捞（形声借字）<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[泰州\]</sup>：把青菜从水里～上来。<sup>\[如东\]</sup>｜吊桶忑咖井里去啊，你去寻个东西把它～上来。<sup>\[泰州\]</sup>｜你把锅里的饺ㄦ～咖干净吖。<sup>\[泰州\]</sup> ② 捕捉（形声借字）<sup>\[如东\]</sup><sup>\[如皋\]</sup>：王二逃出大门，就捱张三～住啊。<sup>\[如东\]</sup>｜把罪犯～起来。<sup>\[如皋\]</sup>  
+1. 【[摝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh.md#摝)】`loh8` <small>/lɔʔ8/<sup>如皋</sup></small> ① 捞（形声借字）<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[泰州\]</sup>：把青菜从水里～上来。<sup>\[如东\]</sup>｜吊桶𠫓咖井里去啊，你去寻个东西把它～上来。<sup>\[泰州\]</sup>｜你把锅里的饺ㄦ～咖干净吖。<sup>\[泰州\]</sup> ② 捕捉（形声借字）<sup>\[如东\]</sup><sup>\[如皋\]</sup>：王二逃出大门，就捱张三～住啊。<sup>\[如东\]</sup>｜把罪犯～起来。<sup>\[如皋\]</sup>  
 1. 【[摝河草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_hu_co.md#摝河草)】`loh8 hu2 co3` <sup>[如皋]</sup> 捞水草作饲料或作沤肥。  
 1. 【[摝起来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_qi_lae.md#摝起来)】`loh8 qi lae` <sup>[东台]</sup> 逮捕或拘留。  
 1. 【[摝稻草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_to_co.md#摝稻草)】`loh8 to6 co3` <sup>[东台]</sup> 喻指捞政治资本。  

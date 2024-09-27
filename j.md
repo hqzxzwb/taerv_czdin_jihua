@@ -867,7 +867,7 @@
 1. 【[井要淘，人要教](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_io_to_ren.md#井要淘，人要教)】`jien3 io5 to2 ren2 io5 jio5` <sup>[泰兴]</sup> 井要常淘水才能正常滲出：人要教育才能成才。  
 1. 【[井栏边草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_laen_bin_co.md#井栏边草)】`jien3 laen2 bin1 co3` <sup>[如东]</sup> 凤尾蕨科植物亮凤尾蕨草，常绿多年生草本。  
 1. 【[井水粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_shuei_zhoh.md#井水粥)】`jien3 shuei3 zhoh7` <sup>[如皋]</sup> 井水煮的粥。井水质硬，煮的饭、粥适口。  
-1. 【[井忑咖吊桶里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_teh_ga_dio.md#井忑咖吊桶里)】`jien3 teh7 ga dio5 ton lii` <sup>[泰兴]</sup> 喻事情反常。  
+1. 【[井𠫓咖吊桶里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_teh_ga_dio.md#井𠫓咖吊桶里)】`jien3 teh7 ga dio5 ton lii` <sup>[泰兴]</sup> 喻事情反常。  
 1. 【[井潭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_tun.md#井潭)】`jien3 tun2` <sup>[如东]</sup> 干旱时，在河底挖土井，叫井潭。  
 1. 【[井砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zhun.md#井砖)】`jien3 zhun1` <sup>[如皋]</sup> 水井壁专用砖，横截面呈梯形。有的还有榫和榫眼，不易松动变形。  
 1. 【[井子舱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zz_can.md#井子舱)】`jien3 zz can1` <sup>[如东]</sup> 帆船的第4舱，是贮存淡水的舱室。也叫水井舱。  
@@ -1323,7 +1323,7 @@
 1. 【[交好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_ho.md#交好)】`jio1 ho3` <sup>[如东]</sup> 男女之间有私情。  
 1. 【[交换](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_hun.md#交换)】`jio1 hun6` <sup>[如东]</sup> 相互对斢。  
 1. 【[交易](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_i.md#交易)】`jio1 i` <sup>[如东]</sup> 贸易活动。也称买卖：出门做～。  
-1. 【[交易](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_i.md#交易)】`jio1 i6` <sup>[东台]</sup> 除一般释义外，指职业、职务：他找了个好～（找了份好工作）｜他的～忑掉啊（职位被免了，或者被辞退了）。  
+1. 【[交易](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_i.md#交易)】`jio1 i6` <sup>[东台]</sup> 除一般释义外，指职业、职务：他找了个好～（找了份好工作）｜他的～𠫓掉啊（职位被免了，或者被辞退了）。  
 1. 【[交易](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_ieh.md#交易)】`jio1 ieh` <small>/t͡ɕiɔ1 iəʔ/<sup>兴化</sup>, /t͡ɕiɔ1 ʝ/<sup>如皋</sup>, /t͡ɕiɔ1 iʔ/<sup>泰兴</sup>, /t͡ɕiɔ1 iɪʔ/<sup>泰县</sup></small> ① 交易，事情：今朝有甚的～唃？/今天有什么活计没？ ② 买卖，生意<sup>\[泰州\]</sup>：两百台空调，是一笔大～。<sup>\[泰州\]</sup> ③ 职业<sup>\[泰州\]</sup>：你家爸爸过去做甚的～啊？<sup>\[泰州\]</sup> ④ 工作过程中出现的令人不满意的情况<sup>\[泰州\]</sup>：这个弄的甚的～啊，通知三点钟开会，到现在才来啊七八个人。<sup>\[泰州\]</sup>｜他这个～弄得好唻，教他到科技局开会去的，他跑啊科协去啊。<sup>\[泰州\]</sup>  
 1. 【[交九](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_jieu.md#交九)】`jio1 jieu3` <sup>[如东]</sup> 天气进入寒冷时期的一种计算方法。从冬至开始，至惊蛰结束，九天为一周期，称头九、二九、三九到九九，共九期，81天。气候最冷为三九、四九，有“三九四九不出手”的民谣。  
 1. 【[交节刻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_jih_keh.md#交节刻)】`jio1 jih7 keh7` <sup>[兴化]</sup> 见“交时节”。  
@@ -1362,7 +1362,7 @@
 1. 【[浇桩水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_zhuan_shuei.md#浇桩水)】`jio1 zhuan1 shuei3` <small>/t͡ɕiɔ1 t͡suã1 suei3/<sup>如皋</sup></small> ① 见“彩水”。<sup>\[如皋\]</sup> ② 旧时人力踏水车戽水时的有奖竞赛。此时戽的水多而急，且冲力大。多在抗旱抢水时采用。<sup>\[如皋\]</sup>  
 1. 【[焦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio.md#焦)】`jio1` <small>/t͡ɕiɔ1/<sup>兴化</sup></small> ① 烦闷无聊<sup>\[兴化\]</sup>：着～；～人子。<sup>\[兴化\]</sup> ② 表示瞧不起人的话<sup>\[兴化\]</sup>：～啊<sup>\[兴化\]</sup>｜～煞咖。<sup>\[兴化\]</sup> ③ 物体烧焦<sup>\[泰州\]</sup>：饭有～味。<sup>\[泰州\]</sup> ④ 烦躁，着急<sup>\[泰州\]</sup>：车子还不曾来，人等吖焦心煞咖。<sup>\[泰州\]</sup> ⑤ 面部消瘦灰黑的样子（*䩌）<sup>\[泰州\]</sup>：你脸上都发咖～，最好上医院望吖子。<sup>\[泰州\]</sup>  
 1. 【[焦干逼卜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_gun_bieh_boh.md#焦干逼卜)】`jio1 gun1 bieh7 boh` <sup>[如东]</sup> 河里没有水，非常干燥。  
-1. 【[焦话忑忑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_hua_teh_teh.md#焦话忑忑)】`jio1 hua6 teh7 teh7` <sup>[东台]</sup> 说了许多矫揉造作、阴阳怪气的话。  
+1. 【[焦话𠫓𠫓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_hua_teh_teh.md#焦话𠫓𠫓)】`jio1 hua6 teh7 teh7` <sup>[东台]</sup> 说了许多矫揉造作、阴阳怪气的话。  
 1. 【[焦盐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_in.md#焦盐)】`jio1 in2` <sup>[兴化]</sup> 由炒焦的芝麻屑及糖盐等拌和而成的月饼、烧饼的馅。  
 1. 【[焦里马烘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_lii_ma_hon.md#焦里马烘)】`jio1 lii ma3 hon1` <sup>[东台]</sup> ① 形容食物被烧枯了。 ② 形容人在阳光下暴晒过久，皮肤黑黝黝的样子。  
 1. 【[焦芽气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_nga_qi.md#焦芽气)】`jio1 nga qi5` <sup>[如皋]</sup> 焦糊的气味。  

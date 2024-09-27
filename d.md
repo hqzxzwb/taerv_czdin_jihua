@@ -579,7 +579,7 @@
 1. 【[大伙计](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_hu_ji.md#大伙计)】`da6 hu3 ji` <small>/ta6 xo3 t͡ɕi/<sup>兴化</sup>, /ta1 xʊ3 t͡ɕʝ/<sup>如皋</sup></small> ① 旧指技能成熟的长工。<sup>\[如皋\]</sup> ② 旧时地主、富农家的长工。<sup>\[兴化\]</sup>  
 1. 【[大花脸的胡子——假的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_hua_lin_dii_hv_zz_jia_dii.md#大花脸的胡子——假的)】`da6 hua1 lin3 dii hv2 zz jia3 dii` <sup>[东台]</sup>   
 1. 【[大话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_hua.md#大话)】`da6 hua6` <sup>[泰兴]</sup> 虚夸不实的话：说～是他的老本行，落实的不多。  
-1. 【[大话忑忑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_hua_teh_teh.md#大话忑忑)】`da6 hua6 teh7 teh7` <sup>[东台]</sup> 说话口气很大，言过其实：别听他～的，要看实践。  
+1. 【[大话𠫓𠫓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_hua_teh_teh.md#大话𠫓𠫓)】`da6 hua6 teh7 teh7` <sup>[东台]</sup> 说话口气很大，言过其实：别听他～的，要看实践。  
 1. 【[大黄鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_huan_y.md#大黄鱼)】`da6 huan2 y2` <sup>[如东]</sup> 石首科动物大黄鱼，也称金鱼。  
 1. 【[大惚𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_hueh_son.md#大惚𪨊)】`da6 hueh7 son2` <sup>[东台]</sup> （詈语）大坏蛋。  
 1. 【[大荤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_huen.md#大荤)】`da6 huen1` <small>/ta6 xuən1/<sup>兴化</sup>, /ta1 xuəŋ1/<sup>如皋</sup></small> ① 旧时店家、作坊等固定的荤期，每月的初二、十六大荤，初八、二十三小荤。<sup>\[如皋\]</sup> ② 以荤食为主的上谱儿的正菜。<sup>\[如皋\]</sup> ③ 泛指鸡、鸭、猪肉之类脂肪较多的辈菜<sup>\[兴化\]</sup>：你的病才好，千万要忌～。<sup>\[兴化\]</sup>  
@@ -2119,7 +2119,7 @@
 1. 【[倒上市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_shan_shr.md#倒上市)】`do5 shan6 shr6` <sup>[如皋]</sup> ① 下市，罢市：春天还吃羊肉——～。 ② 晚熟作物上市、错过季节上市。  
 1. 【[倒梢子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_sho_zz.md#倒梢子)】`do5 sho1 zz` <sup>[如皋]</sup> 芦穄；芦粟。嚼食如甘蔗。  
 1. 【[倒缩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_shoh.md#倒缩)】`do5 shoh` <sup>[兴化]</sup> 形容人体力、智力衰退，言行失序：我望你像～过来啊。  
-1. 【[倒缩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_shoh.md#倒缩)】`do5 shoh7` <small>/tɔ5 sɔʔ7/<sup>如皋</sup>, /tɔ5 sɔʔ7/<sup>泰县</sup></small> ① 衰老倒退<sup>\[如皋\]</sup>：过啊～咖。<sup>\[如皋\]</sup> ② 退步<sup>\[东台\]</sup>：你期中考试怎吖～咖，从前5名忑到30名。<sup>\[东台\]</sup> ③ 倒退。<sup>\[泰县\]</sup>  
+1. 【[倒缩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_shoh.md#倒缩)】`do5 shoh7` <small>/tɔ5 sɔʔ7/<sup>如皋</sup>, /tɔ5 sɔʔ7/<sup>泰县</sup></small> ① 衰老倒退<sup>\[如皋\]</sup>：过啊～咖。<sup>\[如皋\]</sup> ② 退步<sup>\[东台\]</sup>：你期中考试怎吖～咖，从前5名𠫓到30名。<sup>\[东台\]</sup> ③ 倒退。<sup>\[泰县\]</sup>  
 1. 【[倒舂头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_shon_teu.md#倒舂头)】`do5 shon1 teu2` <sup>[如皋]</sup> 平卧时头部偏低的姿势。  
 1. 【[倒示](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_shr.md#倒示)】`do5 shr` <sup>[如皋]</sup> 贬指。追述待某人的好处来显示某人现在不思回报的可恶：他会～人，你不要收他的礼物。  
 1. 【[倒屎肚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_shr_dv_r.md#倒屎肚<sub>儿</sub>)】`do5 shr3 dv3 r` <sup>[如皋]</sup> 见“倒肚儿”。  

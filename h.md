@@ -73,7 +73,7 @@
 1. 【[下巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ba.md#下巴)】`ha6 ba` <sup>[泰兴]</sup> 脸的最下部分。又称“下巴壳子”、“下巴头”：他托住～在想心思。  
 1. 【[下巴鼓子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ba_gv_zz.md#下巴鼓子)】`ha6 ba gv3 zz` <small>/xa6 pa ku3 t͡sɿ/<sup>兴化</sup>, /xa1 pa ku3 t͡se/<sup>泰县</sup></small> ① 脸的最下部分<sup>\[兴化\]</sup>：老徐发咖胖，～全潽开来啊。<sup>\[兴化\]</sup> ② 下巴。<sup>\[泰县\]</sup>  
 1. 【[下巴箍子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ba_gv_zz.md#下巴箍子)】`ha6 ba1 gv1 zz` <sup>[东台]</sup> 同“下巴颏子”。  
-1. 【[下巴颏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ba_kah_zz.md#下巴颏子)】`ha6 ba1 kah7 zz` <sup>[东台]</sup> ① 下巴：别把～笑啊忑下来。 ② ［喻］指有求于别人的地方：项目要经他审批，只好扳住他～摇，听他摆布。  
+1. 【[下巴颏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ba_kah_zz.md#下巴颏子)】`ha6 ba1 kah7 zz` <sup>[东台]</sup> ① 下巴：别把～笑啊𠫓下来。 ② ［喻］指有求于别人的地方：项目要经他审批，只好扳住他～摇，听他摆布。  
 1. 【[下巴𫖡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ba_kah_r.md#下巴𫖡<sub>儿</sub>)】`ha6 ba1 kah7 r` <small>/xa1 pa1 kʰa˞7/<sup>如皋</sup></small> ① 下颔。<sup>\[如东\]</sup> ② 下颌骨。<sup>\[如皋\]</sup>  
 1. 【[下巴𫖡<sub>儿</sub>只兜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ba_kah_r_zheh_deu.md#下巴𫖡<sub>儿</sub>只兜)】`ha6 ba1 kah7 r zheh7 deu1` <sup>[如皋]</sup> 见“牙巴骨儿只兜”。  
 1. 【[下八监](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_baeh_jiaen.md#下八监)】`ha6 baeh7 jiaen1` <sup>[东台]</sup> 原意是指被投入大牢，（詈语）去了不该去的地方。  
@@ -1457,7 +1457,7 @@
 1. 【[豁虎跳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_hv_tio.md#豁虎跳)】`huaeh7 hv3 tio5` <sup>[如皋]</sup> 侧空翻、前空翻。  
 1. 【[豁口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_keu.md#豁口)】`huaeh7 keu3` <sup>[如东]</sup> 很大的一个口子。  
 1. 【[豁口狼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_keu_lan.md#豁口狼)】`huaeh7 keu3 lan2` <sup>[如东]</sup> 张开一个大口子：堤岸上出现一个～。  
-1. 【[豁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_zz.md#豁子)】`huaeh7 zz` <small>/xuæʔ7 t͡sɿ/<sup>兴化</sup></small> ① 口子。<sup>\[如东\]</sup>：河堤上冲吖个～。<sup>\[如东\]</sup> ② （喻）事务中的枝节、纰漏、问题<sup>\[兴化\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup>：出～。<sup>\[兴化\]</sup>｜出咖大～。<sup>\[如东\]</sup>｜他手伸得太长，明吖忑个～不得小。<sup>\[东台\]</sup>  
+1. 【[豁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_zz.md#豁子)】`huaeh7 zz` <small>/xuæʔ7 t͡sɿ/<sup>兴化</sup></small> ① 口子。<sup>\[如东\]</sup>：河堤上冲吖个～。<sup>\[如东\]</sup> ② （喻）事务中的枝节、纰漏、问题<sup>\[兴化\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup>：出～。<sup>\[兴化\]</sup>｜出咖大～。<sup>\[如东\]</sup>｜他手伸得太长，明吖𠫓个～不得小。<sup>\[东台\]</sup>  
 1. 【[𧽌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh.md#𧽌)】`huaeh7` <small>/xuæʔ7/<sup>兴化</sup>, /xuæʔ7/<sup>泰兴</sup>, /xuæʔ7/<sup>泰县</sup></small> ① 跃而越过<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup><sup>\[泰州\]</sup>：这哿水沟，他一～就过去啊。<sup>\[东台\]</sup>｜小沟头子他一～就过去啊。<sup>\[兴化\]</sup>｜～过一条沟。<sup>\[泰县\]</sup>｜就这点ㄦ高，一～就过去啊唻。<sup>\[泰州\]</sup>｜他一口气连～三个缺口。<sup>\[泰州\]</sup> ② 越级<sup>\[兴化\]</sup>：从三年级～到五年级（～级）。<sup>\[兴化\]</sup> ③ 跑、行、往、去<sup>\[泰兴\]</sup><sup>\[泰州\]</sup>：老远的～得来，就为买个烧饼<sup>\[泰兴\]</sup>｜刚才还望见他的，不晓得他这一刻ㄦ～咖哪块去啊。<sup>\[泰州\]</sup>｜五个人去打架的，派出所捉咖四个，只有他个人～过去啊。/只有他一个人走脱了<sup>\[泰州\]</sup>  
 1. 【[𧽌边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_bin.md#𧽌边)】`huaeh7 bin1` <sup>[泰州]</sup> 比喻事情落空：不谈唻，银行的贷款也～唻。｜伢儿上学是件大事，你跟他敲啊定吖，千万不能～。  
 1. 【[𧽌沟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_geu.md#𧽌沟)】`huaeh7 geu1` <sup>[如皋]</sup> 跳过河去。  
@@ -1477,7 +1477,7 @@
 1. 【[滑稽佬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_ji_lo.md#滑稽佬)】`huaeh8 ji1 lo3` <sup>[东台]</sup> 装饰、化妆及言谈举止逗人发笑的人。  
 1. 【[滑稽帽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_ji_mo_zz.md#滑稽帽子)】`huaeh8 ji1 mo6 zz` <sup>[如皋]</sup> 像马戏团的小丑儿戴的一种针织便帽。有尖顶和荡动的帽顶小球。旧时男性居家休闲时常戴。  
 1. 【[滑进滑东的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_jien_huaeh_don_dii.md#滑进滑东的)】`huaeh8 jien5 huaeh8 don1 dii` <sup>[如皋]</sup> 很黏滑，难以控制。  
-1. 【[滑扣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_keu.md#滑扣)】`huaeh8 keu1` <small>/xuæʔ8 kʰɤ1/<sup>兴化</sup>, /xueʔ8 kʰei1/<sup>如皋</sup></small> ① 指滑脱开。<sup>\[如皋\]</sup> ② 说话无信。<sup>\[如皋\]</sup> ③ 做事不结束就丢开。<sup>\[如皋\]</sup> ④ 脱开关系。<sup>\[如皋\]</sup> ⑤ 脱失<sup>\[兴化\]</sup>：绳子～，篮子从上边忑下来啊。<sup>\[兴化\]</sup>｜他不曾在意说咖～啊。<sup>\[兴化\]</sup>  
+1. 【[滑扣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_keu.md#滑扣)】`huaeh8 keu1` <small>/xuæʔ8 kʰɤ1/<sup>兴化</sup>, /xueʔ8 kʰei1/<sup>如皋</sup></small> ① 指滑脱开。<sup>\[如皋\]</sup> ② 说话无信。<sup>\[如皋\]</sup> ③ 做事不结束就丢开。<sup>\[如皋\]</sup> ④ 脱开关系。<sup>\[如皋\]</sup> ⑤ 脱失<sup>\[兴化\]</sup>：绳子～，篮子从上边𠫓下来啊。<sup>\[兴化\]</sup>｜他不曾在意说咖～啊。<sup>\[兴化\]</sup>  
 1. 【[滑轮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_len.md#滑轮)】`huaeh8 len2` <sup>[如东]</sup> 滑车中的轮子。  
 1. 【[滑溜溜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_lieu_lieu.md#滑溜溜)】`huaeh8 lieu1 lieu1` <sup>[如东]</sup> 平整光滑：这块木料～的。  
 1. 【[滑里滑东的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_lii_huaeh_don_dii.md#滑里滑东的)】`huaeh8 lii huaeh8 don1 dii` <sup>[如皋]</sup> 见“滑进滑东的”。  

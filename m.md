@@ -65,7 +65,7 @@
 1. 【[麻雀<sub>儿</sub>步](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_jiah_r_pv.md#麻雀<sub>儿</sub>步)】`ma2 jiah7 r pv6` <sup>[如东]</sup> 小步走动：他只好走～。  
 1. 【[麻雀<sub>儿</sub>瘟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_jiah_r_ven.md#麻雀<sub>儿</sub>瘟)】`ma2 jiah7 r ven1` <sup>[如东]</sup> ① 一种霍乱病，传染性很强，死亡率很高。 ② 比喻不受喜欢的人。 ③ 咒骂像瘟病一样死去：都是些～。  
 1. 【[麻雀<sub>儿</sub>小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_jiah_r_xio.md#麻雀<sub>儿</sub>小)】`ma2 jiah7 r xio3` <sup>[泰县]</sup> （禁忌语）该死的东西。  
-1. 【[麻雀忑咖烟囱里——有命没毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_jiah_teh_ga_in_con_lii_ieu_mien_meh_mo.md#麻雀忑咖烟囱里——有命没毛)】`ma2 jiah7 teh7 ga in1 con1 lii ieu3 mien6 meh8 mo2` <sup>[东台]</sup>   
+1. 【[麻雀𠫓咖烟囱里——有命没毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_jiah_teh_ga_in_con_lii_ieu_mien_meh_mo.md#麻雀𠫓咖烟囱里——有命没毛)】`ma2 jiah7 teh7 ga in1 con1 lii ieu3 mien6 meh8 mo2` <sup>[东台]</sup>   
 1. 【[麻雀瘟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_jiah_ven.md#麻雀瘟)】`ma2 jiah7 ven1` <small>/ma2 t͡ɕiɑʔ7 ʋəŋ1/<sup>泰县</sup></small> ① 霍乱的俗称。也作麻脚瘟。常作詈语，也作对孩子的昵称。<sup>\[东台\]</sup> ② 霍乱。<sup>\[泰县\]</sup>  
 1. 【[麻雀小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_jiah_xio.md#麻雀小)】`ma2 jiah7 xio3` <sup>[东台]</sup> 对孩子的昵称。  
 1. 【[麻雀虽小——五脏俱全](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_jiah_xy_xio_v_can_jy_qiun.md#麻雀虽小——五脏俱全)】`ma2 jiah7 xy1 xio3 v3 can6 jy5 qiun2` <sup>[东台]</sup>   
@@ -670,13 +670,13 @@
 1. 【[没（得）四两](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_sz_lian.md#没（得）四两)】`meh8 sz5 lian3` <sup>[如皋]</sup> 昵指撒娇。源自歇后语“十二个菩萨没得四两重——轻神”。  
 1. 【[没谈头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_taen_teu.md#没谈头)】`meh8 taen2 teu2` <sup>[兴化]</sup> ① 没有谈的必要：他是死猪不怕开水烫，～。 ② 说不上口，说也没有意思：跟这种又霉又酸的人～。  
 1. 【[没（得）头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_teu.md#没（得）头)】`meh8 teu2` <sup>[如皋]</sup> ① 遇事不经头脑思考。 ② 祸事将临。  
-1. 【[没头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_teu.md#没头)】`meh8 teu2` <small>/məʔ8 tʰɤ2/<sup>兴化</sup></small> ① 形容麻木不仁<sup>\[兴化\]</sup>：这个人～，这样的事居然也敢做。<sup>\[兴化\]</sup> ② 形容粗心大意<sup>\[兴化\]</sup>：他真～，出门办事连身份证都弄忑咖咾。<sup>\[兴化\]</sup> ③ 做事粗心<sup>\[泰州\]</sup>：你说他哿是～，出咖两趟差就少啊两回东西。<sup>\[泰州\]</sup>｜你也确实～，上头发的文件就能随便乱丢啊。<sup>\[泰州\]</sup>  
+1. 【[没头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_teu.md#没头)】`meh8 teu2` <small>/məʔ8 tʰɤ2/<sup>兴化</sup></small> ① 形容麻木不仁<sup>\[兴化\]</sup>：这个人～，这样的事居然也敢做。<sup>\[兴化\]</sup> ② 形容粗心大意<sup>\[兴化\]</sup>：他真～，出门办事连身份证都弄𠫓咖咾。<sup>\[兴化\]</sup> ③ 做事粗心<sup>\[泰州\]</sup>：你说他哿是～，出咖两趟差就少啊两回东西。<sup>\[泰州\]</sup>｜你也确实～，上头发的文件就能随便乱丢啊。<sup>\[泰州\]</sup>  
 1. 【[没头苍蝇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_teu_can_ien.md#没头苍蝇)】`meh8 teu2 can1 ien` <small>/məʔ8 tʰɤ2 t͡sʰaŋ1 in/<sup>兴化</sup>, /məʔ8 tʰei2 t͡sʰã1 iəŋ/<sup>如皋</sup></small> ① 苍蝇失去头，翅膀乱飞。比喻瞎闯乱碰。<sup>\[如东\]</sup> ② 喻无中心、乱哄、乱干。<sup>\[如皋\]</sup> ③ ［喻］做事没主张，没目标。<sup>\[东台\]</sup> ④ （喻）无明确目标，到处乱窜<sup>\[兴化\]</sup>：他一天到晚像个～乱拱。<sup>\[兴化\]</sup>｜“好呀！早间忙得像～似的，逼着闹着……”（《广陵潮》六八）<sup>\[兴化\]</sup>  
 1. 【[没头打影](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_teu_da_ien.md#没头打影)】`meh8 teu2 da3 ien3` <sup>[东台]</sup> 指毫无根据地乱说一气。  
 1. 【[没头大瘾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_teu_da_ien.md#没头大瘾)】`meh8 teu2 da6 ien3` <sup>[泰县]</sup> 萎靡不振：这些天他不晓得甚的事，～的。  
 1. 【[没头蹲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_teu_den.md#没头蹲)】`meh8 teu2 den1` <sup>[兴化]</sup> 从头到脚全身没入水中：那呆子扑通的一个～，丢了铁棒，便就负水……（《西游记》三八）  
 1. 【[没头的苍蝇——乱飞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_teu_dii_can_ien_lun_fei.md#没头的苍蝇——乱飞)】`meh8 teu2 dii can1 ien lun6 fei1` <sup>[东台]</sup>   
-1. 【[没头端](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_teu_dun.md#没头端)】`meh8 teu2 dun1` <sup>[如皋]</sup> ① 说不清，听不懂，不知所以：你问他的话，一问个～。 ② 从头到脚，全部：他忑到河里，𩑦（veh7）咖个～。  
+1. 【[没头端](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_teu_dun.md#没头端)】`meh8 teu2 dun1` <sup>[如皋]</sup> ① 说不清，听不懂，不知所以：你问他的话，一问个～。 ② 从头到脚，全部：他𠫓到河里，𩑦（veh7）咖个～。  
 1. 【[没头鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_teu_guei.md#没头鬼)】`meh8 teu2 guei3` <sup>[兴化]</sup> （喻）行为葬撞，无所顾忌的市井无赖  
 1. 【[没头官<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_teu_gun_r.md#没头官<sub>儿</sub>)】`meh8 teu2 gun1 r` <sup>[如东]</sup> ① 比喻没有来源的话：他说的都是些～。 ② 比喻无关紧要的事：都是一些～的事，等刻儿再说。  
 1. 【[没头官司](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_teu_gun_sz.md#没头官司)】`meh8 teu2 gun1 sz` <sup>[兴化]</sup> ① 不明不白的官司。 ② （喻）没有头绪的事：机构撤并吖七、八次，人换吖几茬，几十年前的案子早成吖～。｜扣驾照的不晓得是哪个单位，这个～怎吖打法咖？  
@@ -955,7 +955,7 @@
 1. 【[迷魂药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_huen_iah.md#迷魂药)】`mi2 huen2 iah8` <sup>[兴化]</sup> 见“迷魂汤”。  
 1. 【[迷魂汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_huen_tan.md#迷魂汤)】`mi2 huen2 tan1` <small>/mi2 xuən2 tʰaŋ1/<sup>兴化</sup></small> ① 迷信者认为，人死后，灵魂走到难河桥上，王妈妈给他喝一碗汤，把魂灵迷住了，忘记了人间的一切。这种汤叫做迷魂汤。<sup>\[如东\]</sup> ② 比喻酒。<sup>\[如东\]</sup>：他又喝咖～。<sup>\[如东\]</sup> ③ 比喻迷惑人的花言巧语。<sup>\[如东\]</sup>：他捱～灌糊涂啊。<sup>\[如东\]</sup> ④ （喻）迷惑人的言行<sup>\[兴化\]</sup>：你喝咖她的～，连自己是甚的人总忘掉啊。也说“迷魂药”。<sup>\[兴化\]</sup>  
 1. 【[迷羊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ian_zz.md#迷羊子)】`mi2 ian2 zz` <sup>[如皋]</sup> ① 本地放牧山羊，打桩后任其觅食而不管。 ② 引伸为头目将下人送到岗位之后任其作工而不问的行为。  
-1. 【[霉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#霉)】`mi2` <sup>[泰州]</sup> ① 物体生霉菌变质发黑：这个米～掉啊，不能再吃。 ② 不吉利，不顺利：今朝子～得加思唻，早上骑车子撞吖人，下午皮夹子又忑掉啊。  
+1. 【[霉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#霉)】`mi2` <sup>[泰州]</sup> ① 物体生霉菌变质发黑：这个米～掉啊，不能再吃。 ② 不吉利，不顺利：今朝子～得加思唻，早上骑车子撞吖人，下午皮夹子又𠫓掉啊。  
 1. 【[霉干菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_gun_cae.md#霉干菜)】`mi2 gun1 cae5` <sup>[如皋]</sup> 见“霉咸菜”。  
 1. 【[霉咸菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_haen_cae.md#霉咸菜)】`mi2 haen2 cae5` <sup>[如皋]</sup> 用青菜发酵后腌制晒成的菜干。  
 1. 【[霉话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_hua.md#霉话)】`mi2 hua6` <sup>[泰州]</sup> ① 过时的话：你不要再说甚的男女授受不亲，这是哪百年的～啊。 ② 咒人倒霉的话：你蹾啊这块说霉话，弄得我一牌都不曾成。  
@@ -1600,7 +1600,7 @@
 1. 【[梦人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mon_ren.md#梦人)】`mon6 ren2` <small>/mɔŋ1 ɻəŋ2/<sup>如皋</sup></small> ① 没有能力的人。<sup>\[如东\]</sup>：他是一个～，不能去做这件事。<sup>\[如东\]</sup> ② 糊涂人。<sup>\[如东\]</sup> ③ 宽厚不争或糊涂的人。<sup>\[如皋\]</sup>  
 1. 【[梦人<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mon_ren_r.md#梦人<sub>儿</sub>)】`mon6 ren2 r` <sup>[泰县]</sup> 糊涂的人。  
 1. 【[梦事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mon_shr.md#梦事)】`mon6 shr6` <sup>[如皋]</sup> 被人瞧不起的事、坏事、丑事、糊涂事、无价值的事。  
-1. 【[梦忑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mon_teh_zz.md#梦忑子)】`mon6 teh7 zz` <sup>[兴化]</sup> 糊涂，不明事理的人：公社撤销十几年，你还上甚的“公社”，真的是～！  
+1. 【[梦𠫓子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mon_teh_zz.md#梦𠫓子)】`mon6 teh7 zz` <sup>[兴化]</sup> 糊涂，不明事理的人：公社撤销十几年，你还上甚的“公社”，真的是～！  
 1. 【[梦想](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mon_xian.md#梦想)】`mon6 xian3` <sup>[东台]</sup> 过去多指难实现的事，现在多指美好追求、美好愿景。  
 1. 【[梦枣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mon_zo_r.md#梦枣<sub>儿</sub>)】`mon6 zo3 r` <small>/moŋ6 t͡sɔ3 ɚ/<sup>兴化</sup>, /mɔŋ1 t͡sɔ˞3/<sup>如皋</sup></small> ① 宽厚不争或糊涂的人。<sup>\[如皋\]</sup> ② 糊涂人<sup>\[兴化\]</sup>：他成天睡不醒的样子，真是个～。<sup>\[兴化\]</sup>  
 1. 【[嬷嬷<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_mu_r.md#嬷嬷<sub>儿</sub>)】`mu1 mu1 r` <sup>[泰县]</sup> 竹子做的碗。  

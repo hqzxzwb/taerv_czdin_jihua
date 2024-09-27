@@ -145,7 +145,7 @@
 1. 【[㹒牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_ngeu.md#㹒牛)】`pah7 ngeu2` <sup>[如皋]</sup> 雄黄牛。  
 1. 【[䨰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah.md#䨰)】`pah7` <small>/pʰaʔ7/<sup>如皋</sup>, /pʰɑʔ7/<sup>泰县</sup></small> ① 常用作排泄物的量词：一～涎、一～痰、一～屎。<sup>\[如皋\]</sup> ② （量）堆：一～屎。<sup>\[泰县\]</sup> ③ 量词，滩，用于糊状物体<sup>\[泰州\]</sup>：一～屎<sup>\[泰州\]</sup>  
 1. 【[噗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah.md#噗)】`pah7` <sup>[东台]</sup> 人或动物吃某种东西时，快速吸、喝发出的响声：他泡啊杯新茶，美滋滋的～咖一口。  
-1. 【[噗喥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_tah.md#噗喥)】`pah7 tah` <sup>[兴化]</sup> ① 象声词。东西从高处掉下的声音：碗朝地下一忑，～，打碎啊。 ② 关门声：～一声把门关起来。  
+1. 【[噗喥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_tah.md#噗喥)】`pah7 tah` <sup>[兴化]</sup> ① 象声词。东西从高处掉下的声音：碗朝地下一𠫓，～，打碎啊。 ② 关门声：～一声把门关起来。  
 1. 【[粕头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_teu.md#粕头)】`pah7 teu` <small>/pʰaʔ7 tʰɤ/<sup>兴化</sup>, /pʰɑʔ7 tʰɤɯ/<sup>泰县</sup></small> ① 语言中的糟粕。<sup>\[东台\]</sup>：有话好好说，不要带～！<sup>\[东台\]</sup> ② 讲话时口中带脏字眼<sup>\[兴化\]</sup>：当领导的说话带～，素质太差。<sup>\[兴化\]</sup> ③ 得罪人的秽语：他又在下骂～。<sup>\[泰县\]</sup>  
 1. 【[粕头来哉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_teu_lae_zae.md#粕头来哉)】`pah7 teu lae2 zae1` <sup>[东台]</sup> 指满嘴脏话秽语。  
 1. 【[𩔈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah.md#𩔈)】`pah7` <small>/pʰaʔ7/<sup>如皋</sup>, /pʰɑʔ7/<sup>泰县</sup></small> 阔大，尤其描述脸、脚<sup>\[如皋\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：一双大～脚、一张大～脸。或写“奤”。<sup>\[如皋\]</sup>｜他的脚～吤。<sup>\[泰县\]</sup>｜这个细丫头生吖张大～脸，不好看。<sup>\[泰州\]</sup>｜他的脚～，店里卖的鞋子穿吖脚上嫌勒人。<sup>\[泰州\]</sup>  
@@ -846,7 +846,7 @@
 1. 【[白板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_baen.md#白板)】`poh8 baen3` <sup>[兴化]</sup> ① 光板：～块。 ② 麻将牌的一个花头。  
 1. 【[白背叶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_bei_ih.md#白背叶)】`poh8 bei5 ih8` <sup>[如东]</sup> 大戟科植物白楸，灌木或小乔木，小枝、叶柄和花序均被灰白色星状耸毛。  
 1. 【[白扁豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_bin_teu.md#白扁豆)】`poh8 bin3 teu6` <sup>[如东]</sup> 一年生草本植物，俗称洋扁豆。茎蔓生，小叶披针形。花白色或紫色。荚果，长椭圆形，扁平，微弯。种子白色。是普通蔬菜。  
-1. 【[白布忑进染缸里——洗不清](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_bv_teh_jien_rin_gan_lii_xi_beh_qien.md#白布忑进染缸里——洗不清)】`poh8 bv5 teh7 jien5 rin3 gan1 lii xi3 beh7 qien1` <sup>[东台]</sup>   
+1. 【[白布𠫓进染缸里——洗不清](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_bv_teh_jien_rin_gan_lii_xi_beh_qien.md#白布𠫓进染缸里——洗不清)】`poh8 bv5 teh7 jien5 rin3 gan1 lii xi3 beh7 qien1` <sup>[东台]</sup>   
 1. 【[白察](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_chaeh.md#白察)】`poh8 chaeh` <sup>[如东]</sup> 视觉反映迟钝：眼睛～咖，这吖大的东西都不曾发现。  
 1. 【[白菖蒲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_chan_pv.md#白菖蒲)】`poh8 chan1 pv2` <sup>[如东]</sup> 天南星科植物白菖蒲，多年生草本。  
 1. 【[白阵阵的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_chen_chen_dii.md#白阵阵的)】`poh8 chen chen6 dii` <sup>[如皋]</sup> 状皮肤白皙：脸皮子～。  

@@ -138,7 +138,7 @@
 1. 【[暂为](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/caen_vei.md#暂为)】`caen6 vei2` <small>/t͡sʰɛ̃6 uəi2/<sup>兴化</sup></small> ① 暂时。<sup>\[如东\]</sup> ② 姑且：你说的话，我～记下来，等查实后再说。<sup>\[兴化\]</sup> ③ 偶尔：先不过日间～消遣，后来情浓意治，竟连夜留在宫中。（《绿牡丹》一）<sup>\[兴化\]</sup>  
 1. 【[暂为暂为](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/caen_vei_caen_vei.md#暂为暂为)】`caen6 vei2 caen6 vei2` <sup>[如皋]</sup> 告别时的客套话。先表示口头致谢。  
 1. 【[暂悬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/caen_xiun.md#暂悬)】`caen6 xiun2` <small>/t͡sʰɛ̃6 ɕyũ2/<sup>兴化</sup>, /t͡sʰẽ1 ɕyʊ̃2/<sup>如皋</sup></small> ① 临时借用。<sup>\[如皋\]</sup> ② 临时欠账。<sup>\[如皋\]</sup> ③ 暂欠。<sup>\[兴化\]</sup> ④ 暂借。<sup>\[兴化\]</sup>  
-1. 【[绽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/caen.md#绽)】`caen6` <small>/t͡sʰẽ1/<sup>如皋</sup></small> ① 谷物饱满。<sup>\[如东\]</sup> ② 籽粒饱满<sup>\[如皋\]</sup>：蚕豆荚儿长得～。<sup>\[如皋\]</sup> ③ 线缝<sup>\[如皋\]</sup>：忑～（线缝开裂）。<sup>\[如皋\]</sup>  
+1. 【[绽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/caen.md#绽)】`caen6` <small>/t͡sʰẽ1/<sup>如皋</sup></small> ① 谷物饱满。<sup>\[如东\]</sup> ② 籽粒饱满<sup>\[如皋\]</sup>：蚕豆荚儿长得～。<sup>\[如皋\]</sup> ③ 线缝<sup>\[如皋\]</sup>：𠫓～（线缝开裂）。<sup>\[如皋\]</sup>  
 1. 【[错](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cah.md#错)】`cah7` <small>/t͡sʰaʔ7/<sup>如皋</sup></small> ① 冤<sup>\[如皋\]</sup>：～死。<sup>\[如皋\]</sup> ② 丧失<sup>\[如皋\]</sup>：机会～掉啊。<sup>\[如皋\]</sup> ③ 失去，耽误<sup>\[东台\]</sup>：～过机会。<sup>\[东台\]</sup>  
 1. 【[𦁎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cah.md#𦁎)】`cah7` <sup>[兴化]</sup> 草绳。《广韵·铎韵》在各切：“～，草绳”：牛～  
 1. 【[凿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cah.md#凿)】`cah8` ① 用锐器在物体上往下打孔。<sup>\[如东\]</sup>：～坑。<sup>\[如东\]</sup> ② 将手攥成拳头，中指凸起猛击人的头部<sup>\[泰州\]</sup>：这小伙老卵，同他不要客气，～他的皮。<sup>\[泰州\]</sup>  
@@ -893,7 +893,7 @@
 1. 【[秤头毫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_teu_ho.md#秤头毫)】`chen5 teu2 ho2` <sup>[如东]</sup> 杆秤上靠近刀口的一根提纽。通常配面花，计量大。  
 1. 【[秤砣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_tu.md#秤砣)】`chen5 tu2` ① 称物品时用来使秤平衡的金属锤。也叫秤锤。<sup>\[如东\]</sup> ② 称物时用来使秤平衡的金属锤<sup>\[东台\]</sup>：～虽小压千斤。<sup>\[东台\]</sup>  
 1. 【[秤砣过河——不浮（糊）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_tu_gu_hu_beh_fv.md#秤砣过河——不浮（糊）)】`chen5 tu2 gu5 hu2 beh7 fv2 （hv2）` <sup>[东台]</sup>   
-1. 【[秤砣忑咖水缸里——笃定](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_tu_teh_ga_shuei_gan_lii_doh_tien.md#秤砣忑咖水缸里——笃定)】`chen5 tu2 teh7 ga shuei3 gan1 lii doh7 tien6` <sup>[东台]</sup>   
+1. 【[秤砣𠫓咖水缸里——笃定](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_tu_teh_ga_shuei_gan_lii_doh_tien.md#秤砣𠫓咖水缸里——笃定)】`chen5 tu2 teh7 ga shuei3 gan1 lii doh7 tien6` <sup>[东台]</sup>   
 1. 【[秤砣虽小压千斤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_tu_xy_xio_ngaeh_qin_jien.md#秤砣虽小压千斤)】`chen5 tu2 xy1 xio3 ngaeh7 qin1 jien1` <sup>[东台]</sup> 有威望的领导或关键性的办法可以以少胜多。  
 1. 【[秤活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_uh.md#秤活)】`chen5 uh8` <sup>[如皋]</sup> 某杆秤的灵敏度高。  
 1. 【[秤星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_xien.md#秤星)】`chen5 xien1` <small>/t͡sʰən5 ɕin1/<sup>兴化</sup></small> ① 秆秤上表示重量单位的标志，用金属丝钉在秤杆上，圆形，像星一样。<sup>\[如东\]</sup> ② 秤杆上表示重量的记号。<sup>\[兴化\]</sup>  
@@ -1500,7 +1500,7 @@
 1. 【[出芥<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chueh_gae_r.md#出芥<sub>儿</sub>)】`chueh7 gae5 r` <sup>[如皋]</sup> 长小叶片。喻从小儿、有生以来：我～不曾吃过这种苦过。  
 1. 【[出格](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chueh_geh.md#出格)】`chueh7 geh7` <sup>[东台]</sup> 超出规矩，超出约定俗成的范围，离谱的意思。  
 1. 【[出恭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chueh_gon.md#出恭)】`chueh7 gon1` <small>/t͡ɕʰyəʔ7 koŋ1/<sup>泰县</sup></small> ① 排泄大便。<sup>\[如东\]</sup> ② 排泄大便。<sup>\[东台\]</sup> ③ 上厕所。<sup>\[泰县\]</sup>  
-1. 【[出鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chueh_guei.md#出鬼)】`chueh7 guei3` <small>/t͡sʰuəʔ7 kuəi3/<sup>兴化</sup>, /t͡sʰuəʔ7 kuei3/<sup>如皋</sup></small> ① 出现意外。<sup>\[如东\]</sup>：～唻，有这种事情。<sup>\[如东\]</sup> ② 贬指某种行为。<sup>\[如皋\]</sup> ③ （口头禅）多在看不起对方，或嫌某事做得小气时所说。<sup>\[东台\]</sup> ④ 奇怪、出了怪事<sup>\[兴化\]</sup>：我的手机忑咖个把月，怎吖又在办公桌上放吖在下，真的～！<sup>\[兴化\]</sup>｜～啊，凭你也来吆五喝六的！<sup>\[兴化\]</sup>  
+1. 【[出鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chueh_guei.md#出鬼)】`chueh7 guei3` <small>/t͡sʰuəʔ7 kuəi3/<sup>兴化</sup>, /t͡sʰuəʔ7 kuei3/<sup>如皋</sup></small> ① 出现意外。<sup>\[如东\]</sup>：～唻，有这种事情。<sup>\[如东\]</sup> ② 贬指某种行为。<sup>\[如皋\]</sup> ③ （口头禅）多在看不起对方，或嫌某事做得小气时所说。<sup>\[东台\]</sup> ④ 奇怪、出了怪事<sup>\[兴化\]</sup>：我的手机𠫓咖个把月，怎吖又在办公桌上放吖在下，真的～！<sup>\[兴化\]</sup>｜～啊，凭你也来吆五喝六的！<sup>\[兴化\]</sup>  
 1. 【[出花<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chueh_hua_r.md#出花<sub>儿</sub>)】`chueh7 hua1 r` <small>/t͡sʰuəʔ7 xua˞1/<sup>如皋</sup>, /t͡ɕʰyəʔ7 xua1 ɚ/<sup>泰县</sup></small> ① 患天花；皮肤患脓疱疹。<sup>\[如皋\]</sup> ② 指小儿麻疹。<sup>\[东台\]</sup> ③ 出痘<sup>\[泰县\]</sup>：～要禁风。<sup>\[泰县\]</sup>｜一日，后边的月娘见芹哥儿～，心中不快，睡得早。（金瓶梅·90回）<sup>\[泰县\]</sup>  
 1. 【[出花头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chueh_hua_teu_r.md#出花头<sub>儿</sub>)】`chueh7 hua1 teu2 r` <sup>[如皋]</sup> ① 想出新的花招。 ② 出乱子。 ③ 出意外事故。 ④ 失误。  
 1. 【[出怀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chueh_huae.md#出怀)】`chueh7 huae2` <sup>[兴化]</sup> 妇女怀孕数月后，腹部隆起。  
@@ -1914,8 +1914,8 @@
 1. 【[草塘泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_tan_ni.md#草塘泥)】`co3 tan2 ni2` <sup>[如皋]</sup> 将草置泥塘内，和以粪尿，加水，用泥密封数月后做成的肥料。  
 1. 【[草荡田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_tan_tin.md#草荡田)】`co3 tan6 tin2` <sup>[如皋]</sup> ① 浅湖淤积，杂草蓬生，尚未开垦的荒地。 ② 长满岸草的滩地、滩田。  
 1. 【[草荡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_tan_zz.md#草荡子)】`co3 tan6 zz` <sup>[如皋]</sup> 见“草荡田”。  
-1. 【[草忑咖来都是瘌子捆的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_teh_ga_lae_du_shr_laeh_zz_kuen_dii.md#草忑咖来都是瘌子捆的)】`co3 teh7 ga lae2 du1 shr6 laeh8 zz kuen3 dii` <sup>[东台]</sup> 讽喻凭印象想当然的主观唯心论。  
-1. 【[草忑咖来总是瘌子捆的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_teh_ga_lae_zon_shr_laeh_zz_kuen_dii.md#草忑咖来总是瘌子捆的)】`co3 teh7 ga lae2 zon3 shr6 laeh8 zz kuen3 dii` <sup>[东台]</sup> 一种凭老印象下结论的片面性。  
+1. 【[草𠫓咖来都是瘌子捆的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_teh_ga_lae_du_shr_laeh_zz_kuen_dii.md#草𠫓咖来都是瘌子捆的)】`co3 teh7 ga lae2 du1 shr6 laeh8 zz kuen3 dii` <sup>[东台]</sup> 讽喻凭印象想当然的主观唯心论。  
+1. 【[草𠫓咖来总是瘌子捆的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_teh_ga_lae_zon_shr_laeh_zz_kuen_dii.md#草𠫓咖来总是瘌子捆的)】`co3 teh7 ga lae2 zon3 shr6 laeh8 zz kuen3 dii` <sup>[东台]</sup> 一种凭老印象下结论的片面性。  
 1. 【[草头黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_teu_huan.md#草头黄)】`co3 teu huan2` <sup>[如东]</sup> 秋后，野草返黄枯萎，此时称草头黄。  
 1. 【[草头青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_teu_qien.md#草头青)】`co3 teu qien1` <sup>[如东]</sup> 春天，野草返青生长，此时称草头青。  
 1. 【[草头方子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_teu_fan_zz.md#草头方子)】`co3 teu2 fan1 zz` <sup>[兴化]</sup> 民间中草药单方：“大夫，这个方子上头没得贵重药，是～……”（《火烧赤壁》八》）  

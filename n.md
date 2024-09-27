@@ -1290,7 +1290,7 @@
 1. 【[逆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieh_zz.md#逆子)】`nieh8 zz` ① 不孝顺的子女。<sup>\[如东\]</sup> ② 指忤逆不孝的儿子。<sup>\[东台\]</sup>  
 1. 【[牛郎星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu_lan_xien.md#牛郎星)】`nieu2 lan2 xien1` <sup>[如东]</sup> 星座名，位于银河西侧天鹰座中名河鼓二。  
 1. 【[牛皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu_pi.md#牛皮)】`nieu2 pi2` <sup>[泰县]</sup> ① 说空话：吹～。 ② 有本事，他现在的～大𪠸！  
-1. 【[牛皮忑忑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu_pi_teh_teh.md#牛皮忑忑)】`nieu2 pi2 teh7 teh7` <sup>[东台]</sup> 也称“牛屄吽吽”，形容接连不断地吹牛，说大话。  
+1. 【[牛皮𠫓𠫓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu_pi_teh_teh.md#牛皮𠫓𠫓)】`nieu2 pi2 teh7 teh7` <sup>[东台]</sup> 也称“牛屄吽吽”，形容接连不断地吹牛，说大话。  
 1. 【[牛皮筒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu_pi_ton_zz.md#牛皮筒子)】`nieu2 pi2 ton3 zz` <sup>[东台]</sup> 戏指吹牛吹得太厉害的人。  
 1. 【[扭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu.md#扭)】`nieu3` ① 摇摆着。<sup>\[如东\]</sup> ② 转动，拧<sup>\[泰州\]</sup>：把酱油盖ㄦ～啊好啊。<sup>\[泰州\]</sup>｜这个盖ㄦ～这吖紧，～啊半天～不下来。<sup>\[泰州\]</sup>  
 1. 【[扭扭怪怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu_nieu_guae_guae.md#扭扭怪怪)】`nieu3 nieu3 guae5 guae5` <sup>[兴化]</sup> 矫揉造作，举止不大方：你有话好好说，覅～的。  

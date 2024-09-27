@@ -283,7 +283,7 @@
 1. 【[走四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeu_sz.md#走四)】`zeu3 sz5` <sup>[如东]</sup> 滑车的一种。上下两层，有三只葫芦。  
 1. 【[走堂的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeu_tan_dii.md#走堂的)】`zeu3 tan2 dii` <sup>[兴化]</sup> 旧谓茶馆酒楼的跑堂：岂知他这店里～，挑水的，烧火的，素与强盗一伙。（《西游记》八四）  
 1. 【[走投无路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeu_teu_v_lv.md#走投无路)】`zeu3 teu2 v2 lv6` <sup>[如东]</sup> 无路可走。比喻处境非常困难。  
-1. 【[走天上忑下来的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeu_tin_shan_teh_ha_lae_dii.md#走天上忑下来的)】`zeu3 tin1 shan teh7 ha lae2 dii` <sup>[东台]</sup> 从天上掉下来的，喻指凭空，无根据。  
+1. 【[走天上𠫓下来的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeu_tin_shan_teh_ha_lae_dii.md#走天上𠫓下来的)】`zeu3 tin1 shan teh7 ha lae2 dii` <sup>[东台]</sup> 从天上掉下来的，喻指凭空，无根据。  
 1. 【[走电](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeu_tin.md#走电)】`zeu3 tin6` <sup>[兴化]</sup> 漏电。  
 1. 【[走跳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeu_tio.md#走跳)】`zeu3 tio5` <small>/t͡sɤ3 tʰiɔ5/<sup>兴化</sup></small> ① 活动、走门路<sup>\[兴化\]</sup>：“到根前再添上贲四，替你们～就是了。”（《金瓶梅词话》七八）<sup>\[兴化\]</sup> ② 从上下船的跳板上走过。<sup>\[兴化\]</sup>  
 1. 【[走道猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeu_to_zhv.md#走道猪)】`zeu3 to6 zhv1` <sup>[东台]</sup> 形容不停地走动的人。（多用于孩子，责怪中含喜爱的口气）  
@@ -1351,7 +1351,7 @@
 1. 【[跩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuae.md#跩)】`zhuae5` <sup>[如东]</sup> 走路慢，步子小，不灵活：老太是小脚，走起路来～啊～的。  
 1. 【[鵽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuaeh.md#鵽)】`zhuaeh7` <small>/t͡suæʔ7/<sup>兴化</sup></small> ① 水鸟，小于鸽，《集韵·辖韵》张刮切“～，鸟名。《说文》～鸠”。<sup>\[兴化\]</sup>：秧～<sup>\[兴化\]</sup>｜麻～<sup>\[兴化\]</sup>｜春天，卖一种叫作～的野味——这是一种候鸟，长嘴长脚……（汪曾祺《异秉》）<sup>\[兴化\]</sup> ② （喻）形容人体格瘦小<sup>\[兴化\]</sup>：他瘦得像个～。<sup>\[兴化\]</sup> ③ 差劲<sup>\[兴化\]</sup>：～货<sup>\[兴化\]</sup>｜东西太～，卖不起价钱。<sup>\[兴化\]</sup>  
 1. 【[㔍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuaen.md#㔍)】`zhuaen1` <sup>[东台]</sup> 断：这小伙力气真大，硬把一根粗木棍～掉啊。  
-1. 【[跧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuaen.md#跧)】`zhuaen1` <small>/t͡suɛ̃1/<sup>兴化</sup>, /t͡suẽ1/<sup>如皋</sup>, /t͡ɕyɛ̃1/<sup>泰兴</sup>, /t͡ɕyɛ̃1/<sup>泰县</sup></small> 弯下（腰、背等）。【廣韻】【集韻】【韻會】𠀤莊緣切，音佺。【說文】蹴也。一曰𤰞也，絭也。<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[东台\]</sup>：～腰｜你把腰稍微～一点儿下来。<sup>\[泰州\]</sup>｜东西忑咖地下，你就不能～吖来拾咖子。<sup>\[泰州\]</sup>｜把腰～下来。<sup>\[东台\]</sup>  
+1. 【[跧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuaen.md#跧)】`zhuaen1` <small>/t͡suɛ̃1/<sup>兴化</sup>, /t͡suẽ1/<sup>如皋</sup>, /t͡ɕyɛ̃1/<sup>泰兴</sup>, /t͡ɕyɛ̃1/<sup>泰县</sup></small> 弯下（腰、背等）。【廣韻】【集韻】【韻會】𠀤莊緣切，音佺。【說文】蹴也。一曰𤰞也，絭也。<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[东台\]</sup>：～腰｜你把腰稍微～一点儿下来。<sup>\[泰州\]</sup>｜东西𠫓咖地下，你就不能～吖来拾咖子。<sup>\[泰州\]</sup>｜把腰～下来。<sup>\[东台\]</sup>  
 1. 【[赚头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuaen_teu.md#赚头)】`zhuaen5 teu2` <sup>[东台]</sup> 利润：这笔生意～不小。  
 1. 【[㧻/𢽚/𢧈/𧰵/椓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah.md#㧻/𢽚/𢧈/𧰵/椓)】`zhuah7` <small>/t͡suaʔ7/<sup>兴化</sup>, /t͡suaʔ7/<sup>如皋</sup>, /t͡ɕyɑʔ7/<sup>泰县</sup></small> ① 用力往下放；下击<sup>\[泰州\]</sup><sup>\[如皋\]</sup>：老头儿把拐棒一～，就喊起来啊。<sup>\[泰州\]</sup>｜你把袋子～～，剩下来的这点儿豆儿就都装下去唻。<sup>\[泰州\]</sup>｜他来啊火，把筷儿望桌上一～，把碗总～咖跳起来呀。<sup>\[如皋\]</sup> ② 将东西碰撞平面（以对齐）<sup>\[泰州\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup>：你把书～咖齐啊，放好。<sup>\[泰州\]</sup>｜你把筷子～咖子。<sup>\[泰州\]</sup>｜你把葱～齐啊。<sup>\[泰州\]</sup>｜把这些文件夹～～齐。<sup>\[东台\]</sup>｜～纸<sup>\[兴化\]</sup>｜～筷子。<sup>\[兴化\]</sup>｜我来把这些材料～下子。<sup>\[泰县\]</sup> ③ 骂人始终停留或者站立某个空间不愿离开，詈语<sup>\[泰州\]</sup>：你老～咖家里不是个事，不想法找个工作怎吖行？<sup>\[泰州\]</sup>｜你先家去，在这块～到晚都没得用。<sup>\[泰州\]</sup> ④ 颠簸<sup>\[东台\]</sup>：路上～得难受。<sup>\[东台\]</sup> ⑤ 耸（肩膀）<sup>\[东台\]</sup>：他肩膀一～，做啊个鬼脸。<sup>\[东台\]</sup>  
 1. 【[㧻/捉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah.md#㧻/捉)】`zhuah7` <small>/t͡suaʔ7/<sup>兴化</sup>, /t͡suaʔ7/<sup>如皋</sup></small> 清点、核实数目<sup>\[泰州\]</sup><sup>\[兴化\]</sup><sup>\[如东\]</sup><sup>\[如皋\]</sup>：你把钱～～，看看到底卖啊几个钱。<sup>\[泰州\]</sup>｜你把人～～，齐啊就出发。<sup>\[泰州\]</sup>｜～货款<sup>\[兴化\]</sup>｜～账<sup>\[兴化\]</sup>｜～人数。<sup>\[兴化\]</sup>｜～账。<sup>\[如东\]</sup>｜～账<sup>\[如皋\]</sup>  
@@ -1474,7 +1474,7 @@
 1. 【[锥跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuei_qio.md#锥跷)】`zhuei1 qio1` <sup>[如皋]</sup> 见“支跷”。  
 1. 【[锥跷话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuei_qio_hua.md#锥跷话)】`zhuei1 qio1 hua6` <sup>[如皋]</sup> 见“怮跷话”。  
 1. 【[锥子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuei_zz.md#锥子)】`zhuei1 zz` <sup>[如皋]</sup> 喻专注的人：他是个寻钱的～。  
-1. 【[锥子忑咖尿桶里——扦尿（谦虚）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuei_zz_teh_ga_xy_ton_lii_qin_xy.md#锥子忑咖尿桶里——扦尿（谦虚）)】`zhuei1 zz teh7 ga xy1 ton3 lii qin1 xy1` <sup>[东台]</sup>   
+1. 【[锥子𠫓咖尿桶里——扦尿（谦虚）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuei_zz_teh_ga_xy_ton_lii_qin_xy.md#锥子𠫓咖尿桶里——扦尿（谦虚）)】`zhuei1 zz teh7 ga xy1 ton3 lii qin1 xy1` <sup>[东台]</sup>   
 1. 【[坠人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuei_ren_zz.md#坠人子)】`zhuei5 ren zz` <sup>[如皋]</sup> 下坠样不适感。  
 1. 【[坠人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuei_ren.md#坠人)】`zhuei5 ren2` <sup>[兴化]</sup> 腹部感到沉重，就像内急的感觉：山芋吃多啊有点～。  
 1. 【[坠子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuei_zz.md#坠子)】`zhuei5 zz` <sup>[兴化]</sup> 垂在下面的东西：扇～｜耳～。  
@@ -1778,7 +1778,7 @@
 1. 【[灶里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_li.md#灶里)】`zo5 li3` <sup>[兴化]</sup> 明清时期，位于兴化东部以烧盐的灶户为主的里甲：～三庄（今属安丰镇）。  
 1. 【[灶里的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_lii_dii.md#灶里的)】`zo5 lii dii` <sup>[如东]</sup> 盐灶地区烧盐的人：他是～。  
 1. 【[灶老爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_lo_i.md#灶老爷)】`zo5 lo3 i` <small>/t͡sɔ5 lɔ3 ʝ/<sup>如皋</sup></small> ① 灶神，司命府君。传为颛顼时期的图腾，实即灶间常见的蟑螂、灶马。<sup>\[如皋\]</sup> ② 灶头菩萨龛子里供奉的灶神，两侧对联通常为<sup>\[东台\]</sup>：上天言好事，下界保平安。本地习俗“送灶”即送灶神上天，除夕再接灶（将灶神接回）。俗语<sup>\[东台\]</sup>｜“～上天，有句说句。”<sup>\[东台\]</sup>  
-1. 【[灶老爷忑咖粥锅里——捱粥（足）搅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_lo_i_teh_ga_zhoh_gu_lii_ngae_zhoh_go.md#灶老爷忑咖粥锅里——捱粥（足）搅)】`zo5 lo3 i teh7 ga zhoh7 gu1 lii ngae2 zhoh7 （zoh7） go3` <sup>[东台]</sup>   
+1. 【[灶老爷𠫓咖粥锅里——捱粥（足）搅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_lo_i_teh_ga_zhoh_gu_lii_ngae_zhoh_go.md#灶老爷𠫓咖粥锅里——捱粥（足）搅)】`zo5 lo3 i teh7 ga zhoh7 gu1 lii ngae2 zhoh7 （zoh7） go3` <sup>[东台]</sup>   
 1. 【[灶马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_ma.md#灶马)】`zo5 ma3` <sup>[如皋]</sup> 一种灶间常见的小虫。土名钱驮子。头小，触角细长，背部隆起，后肢长大善跳。传为灶神上天所骑的马。  
 1. 【[灶民](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_mien.md#灶民)】`zo5 mien2` <sup>[如东]</sup> 长期从事盐业生产的劳劲者。  
 1. 【[灶面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_min.md#灶面)】`zo5 min6` <small>/t͡sɔ5 miɪ̃6/<sup>兴化</sup></small> ① 锅台，可放碗盘。<sup>\[东台\]</sup> ② 灶台上和锅在一个平面的部分。也称“灶搁”。<sup>\[兴化\]</sup>  

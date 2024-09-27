@@ -1111,7 +1111,7 @@
 1. 【[冰雹神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_pah_shen.md#冰雹神)】`bien1 pah8 shen2` <small>/piɪ̃1 pʰaʔ8 sən2/<sup>兴化</sup>, /piəŋ1 pʰaʔ8 səŋ2/<sup>如皋</sup></small> ① 道教的一个妖魔。又名蝎子精。<sup>\[如皋\]</sup> ② （喻）行为莽撞、冒失的人<sup>\[兴化\]</sup>：他像个～，跑过来大吵一气，没得下文就跑掉啊。<sup>\[兴化\]</sup>  
 1. 【[冰汤湿冷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_tan_sheh_len.md#冰汤湿冷)】`bien1 tan1 sheh7 len3` <sup>[兴化]</sup> 形容食物不热：饭菜～的，还把肚子吃坏啊唻！  
 1. 【[冰糖拌黄瓜——甘（干）脆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_tan_pun_huan_gua_gun_qy.md#冰糖拌黄瓜——甘（干）脆)】`bien1 tan2 pun6 huan2 gua1 gun1 qy5` <sup>[东台]</sup>   
-1. 【[冰糖忑到蜜缸里——甜上加甜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_tan_teh_do_mieh_gan_lii_tin_shan_jia_tin.md#冰糖忑到蜜缸里——甜上加甜)】`bien1 tan2 teh7 do5 mieh8 gan1 lii tin2 shan6 jia1 tin2` <sup>[东台]</sup>   
+1. 【[冰糖𠫓到蜜缸里——甜上加甜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_tan_teh_do_mieh_gan_lii_tin_shan_jia_tin.md#冰糖𠫓到蜜缸里——甜上加甜)】`bien1 tan2 teh7 do5 mieh8 gan1 lii tin2 shan6 jia1 tin2` <sup>[东台]</sup>   
 1. 【[冰镇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_zhen.md#冰镇)】`bien1 zhen5` <sup>[东台]</sup> 把食物或饮料和冰放在一起，使之快速降温。  
 1. 【[槟榔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_lan.md#槟榔)】`bien1 lan` <sup>[如皋]</sup> 牛鼻桊儿的又名。  
 1. 【[槟榔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_lan.md#槟榔)】`bien1 lan2` ① 穿在牛鼻子中的木棍或铜棍，一头系绳，供牵牛用。<sup>\[如东\]</sup> ② 常绿乔木，树干很高，羽状复叶。果实可以吃，也供药用。<sup>\[东台\]</sup>  

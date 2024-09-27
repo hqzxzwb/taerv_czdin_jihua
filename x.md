@@ -995,7 +995,7 @@
 1. 【[羞光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_guan.md#羞光)】`xieu1 guan1` <sup>[兴化]</sup> 眼在强光刺激下的感觉。  
 1. 【[羞口难开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_keu_naen_kae.md#羞口难开)】`xieu1 keu3 naen2 kae1` <sup>[兴化]</sup> 心里有话不好意思说出口：她～，一直把愿望囥吖在心里。｜……一则贾环～，二则贾环也不在意（《红楼梦》七二）。  
 1. 【[羞亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_lian.md#羞亮)】`xieu1 lian6` <sup>[兴化]</sup> 害怕亮光：他是天生的假巴眼，～。  
-1. 【[𢭆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu.md#𢭆)】`xieu1` <sup>[如东]</sup> 扭动：我抓啊一条鱼，捱它～啊忑掉啊。  
+1. 【[𢭆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu.md#𢭆)】`xieu1` <sup>[如东]</sup> 扭动：我抓啊一条鱼，捱它～啊𠫓掉啊。  
 1. 【[𢫩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu.md#𢫩)】`xieu2` <small>/ɕyʊ2/<sup>如皋</sup></small> ① 偷<sup>\[如皋\]</sup>：把钱～啊走啊。<sup>\[如皋\]</sup> ② 口吸<sup>\[如皋\]</sup>：吃鱼脑子，用嘴一～就出来啊。<sup>\[如皋\]</sup> ③ 短、缩<sup>\[如皋\]</sup>：衣袖～上去啊。<sup>\[如皋\]</sup> ④ （形声借字）  
 1. 【[朽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu.md#朽)】`xieu3` <sup>[泰州]</sup> 不可救药：他现在是吃喝嫖赌全花色，～掉啊唻。  
 1. 【[𢩨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu.md#𢩨)】`xieu3` <sup>[如皋]</sup> ① 身体轻轻地动：细伢儿～啊～的，把手伸出来啊。 ② 喻恢复力量、创业：你借点儿本钱我。让我～～再还你。  
@@ -1168,7 +1168,7 @@
 1. 【[险险<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_xin_r.md#险险<sub>儿</sub>)】`xin3 xin r` <sup>[泰县]</sup> 差一点儿。  
 1. 【[险险乎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_xin_hv.md#险险乎)】`xin3 xin3 hv1` <sup>[兴化]</sup> 差一点儿：“为你打抱不平，～又要吃他三拳两脚……”（马春阳《陈大年一家人》）  
 1. 【[险险佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_xin_lo_r.md#险险佬<sub>儿</sub>)】`xin3 xin3 lo3 r` <sup>[如皋]</sup> 见“险险儿”。  
-1. 【[险险<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_xin_r.md#险险<sub>儿</sub>)】`xin3 xin3 r` <small>/ɕĩ3 ɕi˞3/<sup>如皋</sup></small> ① 极其危险，只差一点儿。<sup>\[如皋\]</sup> ② 只差一点：我忑咖山腰上，捱树挂住咖，～没得命！这件事～办不成。<sup>\[如皋\]</sup>  
+1. 【[险险<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_xin_r.md#险险<sub>儿</sub>)】`xin3 xin3 r` <small>/ɕĩ3 ɕi˞3/<sup>如皋</sup></small> ① 极其危险，只差一点儿。<sup>\[如皋\]</sup> ② 只差一点：我𠫓咖山腰上，捱树挂住咖，～没得命！这件事～办不成。<sup>\[如皋\]</sup>  
 1. 【[□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_xin.md#□□)】`xin5 xin5` <sup>[如东]</sup> 本来就：王二～不走运，请你不要再惹他。  
 1. 【[晛中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_zhon.md#晛中)】`xin5 zhon1` <sup>[兴化]</sup> 阴雨天中午，太阳从云层中露出。日见：《集韵·铣韵》呼典切｜日见也。  
 1. 【[献丑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_cheu.md#献丑)】`xin5 cheu3` <sup>[东台]</sup> 表示自己的能力有限：本来我不会唱歌，今吖不怕～，唱一段为大家助兴。  
@@ -1178,7 +1178,7 @@
 1. 【[线板<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_baen_r.md#线板<sub>儿</sub>)】`xin5 baen3 r` <small>/ɕĩ5 pe˞3/<sup>如皋</sup></small> ① 做针线用的绕线板。<sup>\[如皋\]</sup> ② 绕线的工具。长条形，中间有一蜂腰。<sup>\[如东\]</sup>  
 1. 【[线锤<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_chuei_r.md#线锤<sub>儿</sub>)】`xin5 chuei2 r` <sup>[如皋]</sup> 家用佮绳（线）的工具。一根猪大膀骨，中穿一根带钩的铁钉。转动使线上捘。  
 1. 【[线粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_fen.md#线粉)】`xin5 fen3` <small>/ɕiɪ̃5 fən3/<sup>兴化</sup>, /ɕĩ5 fəŋ3/<sup>如皋</sup>, /ɕiɪ̃5 fəŋ3/<sup>泰县</sup></small> ① 粉丝。<sup>\[如皋\]</sup> ② 用淀粉制作的水粉条。<sup>\[东台\]</sup> ③ 粉丝。<sup>\[兴化\]</sup> ④ 粉丝。<sup>\[泰县\]</sup>  
-1. 【[线脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_jiah.md#线脚)】`xin5 jiah7` <sup>[兴化]</sup> ① 针脚。 ② 线头：忑～。  
+1. 【[线脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_jiah.md#线脚)】`xin5 jiah7` <sup>[兴化]</sup> ① 针脚。 ② 线头：𠫓～。  
 1. 【[线锯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_jy.md#线锯)】`xin5 jy5` <sup>[如东]</sup> 工具。锯条狭窄，锯齿细密，用以加工圆料。  
 1. 【[线刨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_po.md#线刨)】`xin5 po6` <sup>[如东]</sup> 工具。刨㐁狭窄，用以加工木料的线槽。  
 1. 【[线衫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_shaen_zz.md#线衫子)】`xin5 shaen1 zz` <sup>[兴化]</sup> 毛线衣。  
@@ -1363,7 +1363,7 @@
 1. 【[小家子气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ga_zz_qi.md#小家子气)】`xio3 ga1 zz qi5` <sup>[如东]</sup> ① 不大方：还是这吖～。 ② 气量小：不要这吖～。  
 1. 【[小解](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_gae.md#小解)】`xio3 gae3` <sup>[东台]</sup> 小便，解小手。  
 1. 【[小狗子吃屎，乱转](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_geu_zz_qieh.md#小狗子吃屎，乱转)】`xio3 geu3 zz qieh7 shr3 lun6 zhun5` <sup>[泰兴]</sup> 喻办事精力不集中，乱弹琴。  
-1. 【[小狗子忑到茅缸里，没嘴吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_geu_zz_teh.md#小狗子忑到茅缸里，没嘴吃)】`xio3 geu3 zz teh7 do5 mo2 gan1 lii meh8 zuei3 qieh7` <sup>[泰兴]</sup> 喻可食的太多，食品丰富。讥语。  
+1. 【[小狗子𠫓到茅缸里，没嘴吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_geu_zz_teh.md#小狗子𠫓到茅缸里，没嘴吃)】`xio3 geu3 zz teh7 do5 mo2 gan1 lii meh8 zuei3 qieh7` <sup>[泰兴]</sup> 喻可食的太多，食品丰富。讥语。  
 1. 【[小工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_gon.md#小工)】`xio3 gon` <sup>[泰兴]</sup> 从事辅助工作的下手、杂工：我现在跟在瓦匠后面做～。  
 1. 【[小工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_gon.md#小工)】`xio3 gon1` <sup>[如皋]</sup> 辅助工、徒工。  
 1. 【[小锅菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_gu_cae.md#小锅菜)】`xio3 gu1 cae5` <sup>[兴化]</sup> 为病人或有特殊身份的人专门做的菜肴：老人生锅，为他做点～。  
