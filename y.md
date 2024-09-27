@@ -8,7 +8,7 @@
 1. 【[迂而赘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_er_zhuei.md#迂而赘)】`y1 er2 zhuei5` <sup>[如皋]</sup> 古板执拗的脾气。  
 1. 【[迂瘕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_ha.md#迂瘕)】`y1 ha2` <sup>[兴化]</sup> 迂腐、守旧，作事过于顶真。也称“瘕魔”。  
 1. 【[迂痰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_taen.md#迂痰)】`y1 taen2` <sup>[兴化]</sup> 见“迂”。  
-1. 【[余](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y.md#余)】`y2` <sup>[泰州]</sup> 积攒钱钞和物品：太太～啊不少布头子，妈妈把它俫拼吖一条被面单子。｜他上小学就开始～邮票唻。｜你把压岁钱～起来，留啊开学交学费。｜他这几年～啊不少钱。  
+1. 【[余](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y.md#余)】`y2` <sup>[泰州]</sup> 积攒（钱钞、物品等）：太太～啊不少布头子，妈妈把它俫拼吖一条被面单子。｜他上小学就开始～邮票唻。｜你把压岁钱～起来，留啊开学交学费。｜他这几年～啊不少钱。  
 1. 【[余多滞少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_du_chr_sho.md#余多滞少)】`y2 du1 chr5 sho3` <sup>[兴化]</sup> 指挑拣后剩下的：这筐苹果由你们先拿，～全把我。  
 1. 【[余外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_vae.md#余外)】`y2 vae6` <sup>[兴化]</sup> 除此之外：“上头除掉姑老爷，就是于舅太爷一位，～的人都越不过我的头去。”（《官场现形记》五九）  
 1. 【[余蓄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_xioh.md#余蓄)】`y2 xioh7` <sup>[兴化]</sup> 积存的钱财：老恒财家手底好，除了放债，做粮行的资金外，还有～……（马春阳《陈大年一家人》）》  
@@ -106,7 +106,7 @@
 1. 【[雨心里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_xien_lii.md#雨心里)】`y3 xien1 lii` <sup>[如皋]</sup> 正下雨的地方。  
 1. 【[雨星子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_xien_zz.md#雨星子)】`y3 xien1 zz` <sup>[如皋]</sup> 飘动的稀疏的小雨滴。  
 1. 【[雨涍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_xio.md#雨涍)】`y3 xio5` <sup>[如皋]</sup> 阵雨急停，又下。见“涍雨”。  
-1. 【[喂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y.md#喂)】`y5` <small>/y5/<sup>如皋</sup></small> ① 喂食<sup>\[如皋\]</sup>：～料、～饭。<sup>\[如皋\]</sup> ② 把食物送进别人嘴里<sup>\[东台\]</sup>：给伢儿～奶/给病人～点儿汤。<sup>\[东台\]</sup>  
+1. 【[喂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y.md#喂)】`y5` <small>/y5/<sup>如皋</sup></small> 喂食<sup>\[如皋\]</sup><sup>\[东台\]</sup>：～料、～饭。<sup>\[如皋\]</sup>｜给伢儿～奶/给病人～点儿汤。<sup>\[东台\]</sup>  
 1. 【[喂不饱的鹰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_beh_bo_dii_ien.md#喂不饱的鹰)】`y5 beh7 bo3 dii ien1` <sup>[如皋]</sup> 比喻欲壑难填。  
 1. 【[𢲴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y.md#𢲴)】`y5` <sup>[如皋]</sup> 添加材料：打草包时～草要均匀。  
 1. 【[𣢒𣢒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_y.md#𣢒𣢒)】`y5 y5` <sup>[如皋]</sup> 唤猪声。  
@@ -142,7 +142,7 @@
 1. 【[芋头伢子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_teu_nga_zz.md#芋头伢子)】`y6 teu nga2 zz` <sup>[如皋]</sup> 见“芋头子儿”。  
 1. 【[芋头子<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_teu_zz_r.md#芋头子<sub>儿</sub>)】`y6 teu zz3 r` <small>/y6 tʰɤ t͡sɿ3 ɚ/<sup>兴化</sup>, /y1 tʰei t͡sɿ˞3/<sup>如皋</sup></small> ① 芋的新生块茎。食时口感好。<sup>\[如皋\]</sup> ② 芋头块茎主体以外从生的小子儿。<sup>\[兴化\]</sup>  
 1. 【[芋头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_teu.md#芋头)】`y6 teu2-3` <sup>[泰县]</sup> 芋艿。  
-1. 【[遇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y.md#遇)】`y6` <small>/y6/<sup>兴化</sup>, /y1/<sup>如皋</sup></small> ① 相遇<sup>\[如皋\]</sup>：～到，～头。<sup>\[如皋\]</sup> ② 往来相处<sup>\[如皋\]</sup>：我俫常～。<sup>\[如皋\]</sup> ③ 相处<sup>\[兴化\]</sup>：这个人难玩，不大好～。<sup>\[兴化\]</sup> ④ 相见<sup>\[兴化\]</sup>：你不听人劝告，以后还～不～？<sup>\[兴化\]</sup> ⑤ 相处，共事<sup>\[泰州\]</sup>：这种人没得～头，你让他今后同旁人～吧。<sup>\[泰州\]</sup>｜大家有话好好说，不要伤吖和气，一个单位的人今后还～不～？<sup>\[泰州\]</sup>  
+1. 【[遇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y.md#遇)】`y6` <small>/y6/<sup>兴化</sup>, /y1/<sup>如皋</sup></small> ① 相遇、相见<sup>\[如皋\]</sup><sup>\[兴化\]</sup>：～到，～头。<sup>\[如皋\]</sup> ② 相处、往来<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：我俫常～。<sup>\[如皋\]</sup>｜这个人难玩，不大好～。<sup>\[兴化\]</sup>｜你不听人劝告，以后还～不～？（兴化词典此例释“相见”）<sup>\[兴化\]</sup>｜这种人没得～头，你让他今后同旁人～吧。<sup>\[泰州\]</sup>｜大家有话好好说，不要伤吖和气，一个单位的人今后还～不～？<sup>\[泰州\]</sup>  
 1. 【[遇到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_do.md#遇到)】`y6 do` <sup>[兴化]</sup> ① 碰见：我正好在学校门口～他。 ② （东南部分村镇语）被：他～人家一顿骂。  
 1. 【[遇到张果老，不得不烦恼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_do_zhan_gu_lo_beh_deh_beh_faen_no.md#遇到张果老，不得不烦恼)】`y6 do5 zhan1 gu3 lo3 beh7 deh7 beh7 faen2 no3` <sup>[东台]</sup> 要正视矛盾，解决矛盾。  
 1. 【[遇巧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_qio.md#遇巧)】`y6 qio3` <sup>[如皋]</sup> 碰巧。  

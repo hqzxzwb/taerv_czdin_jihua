@@ -622,7 +622,7 @@
 1. 【[迂而赘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_er_zhuei.md#迂而赘)】`y1 er2 zhuei5` <sup>[如皋]</sup> 古板执拗的脾气。  
 1. 【[迂瘕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_ha.md#迂瘕)】`y1 ha2` <sup>[兴化]</sup> 迂腐、守旧，作事过于顶真。也称“瘕魔”。  
 1. 【[迂痰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_taen.md#迂痰)】`y1 taen2` <sup>[兴化]</sup> 见“迂”。  
-1. 【[余](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y.md#余)】`y2` <sup>[泰州]</sup> 积攒钱钞和物品：太太～啊不少布头子，妈妈把它俫拼吖一条被面单子。｜他上小学就开始～邮票唻。｜你把压岁钱～起来，留啊开学交学费。｜他这几年～啊不少钱。  
+1. 【[余](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y.md#余)】`y2` <sup>[泰州]</sup> 积攒（钱钞、物品等）：太太～啊不少布头子，妈妈把它俫拼吖一条被面单子。｜他上小学就开始～邮票唻。｜你把压岁钱～起来，留啊开学交学费。｜他这几年～啊不少钱。  
 1. 【[余多滞少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_du_chr_sho.md#余多滞少)】`y2 du1 chr5 sho3` <sup>[兴化]</sup> 指挑拣后剩下的：这筐苹果由你们先拿，～全把我。  
 1. 【[余外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_vae.md#余外)】`y2 vae6` <sup>[兴化]</sup> 除此之外：“上头除掉姑老爷，就是于舅太爷一位，～的人都越不过我的头去。”（《官场现形记》五九）  
 1. 【[余蓄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_xioh.md#余蓄)】`y2 xioh7` <sup>[兴化]</sup> 积存的钱财：老恒财家手底好，除了放债，做粮行的资金外，还有～……（马春阳《陈大年一家人》）》  
