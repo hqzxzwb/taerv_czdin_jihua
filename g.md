@@ -1599,6 +1599,7 @@
 1. 【[鬼画三符](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_hua_saen_fv.md#鬼画三符)】`guei3 hua6 saen1 fv2` <sup>[泰县]</sup> 变换手法骗人的意思：你覅听他～的。  
 1. 【[鬼话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_hua.md#鬼话)】`guei3 hua6` <sup>[泰州]</sup> ① 谎言，不可相信的话：你不要相信他说的这些～。 ② 悄悄说的不让他人知晓的话：这两个人又躲啊后头说～去唻。  
 1. 【[鬼坏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_huae.md#鬼坏)】`guei3 huae6` <small>/kuəi3 xuɛ6/<sup>兴化</sup></small> ① 形容聪明、机灵、点子多<sup>\[兴化\]</sup>：小孙子～，三言两语就把奶奶逗笑啊。<sup>\[兴化\]</sup> ② 人表面忠厚讷言，实质工于心计<sup>\[泰州\]</sup>：这个马马儿平时不多说话，一副老实样子，其实她骨子里～。<sup>\[泰州\]</sup>  
+1. 【[鬼摇三四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_io_saen_sz.md#鬼摇三四)】`guei3 io saen1 sz5` <small>/kuəɪ3 iɔ ɕiɛ̃1 sɿ5/<sup>泰兴</sup></small> 装腔作势，故弄玄虚。类似于“变鬼”。<sup>\[泰兴\]</sup>：张三出去蹲吖几年，现在跟本乡人也～的说普通话。<sup>\[泰兴\]</sup>  
 1. 【[鬼精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_jien.md#鬼精)】`guei3 jien1` <sup>[泰州]</sup> 为人处世算计特别精明而不肯吃一点小亏的人：这小伙是个～，不会得把便宜你占。  
 1. 【[鬼节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_jih.md#鬼节)】`guei3 jih7` <sup>[如皋]</sup> 习俗中主祭祀的节日。主要有：清明、七月半、十月朝、小冬。  
 1. 【[鬼抲鬼抲的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_ka_guei_ka_dii.md#鬼抲鬼抲的)】`guei3 ka1 guei3 ka1 dii` <sup>[东台]</sup> 行为神秘，不大气。  
