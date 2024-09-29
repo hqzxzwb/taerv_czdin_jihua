@@ -1138,7 +1138,7 @@
 1. 【[火光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_guan.md#火光)】`hu3 guan1` <small>/xo3 kuaŋ1/<sup>兴化</sup></small> ① 迷信认为人身上通邪的气势<sup>\[兴化\]</sup>：～高的鬼祟不敢犯，～低的受鬼欺。<sup>\[兴化\]</sup>｜女人做月子～低，一个人蹲在家里，女人有点怕……（钱国怀《夜半鲤鱼来上滩》）<sup>\[兴化\]</sup> ② （迷信）抵御鬼魅的气势，见“压头”。<sup>\[兴化\]</sup>  
 1. 【[火鸽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_guh_zz.md#火鸽子)】`hu3 guh7 zz` <small>/xo3 kuʔ7 t͡sɿ/<sup>兴化</sup>, /xʊ3 kʊʔ7 t͡sɿ/<sup>如皋</sup></small> ① 火灾中，因物体爆裂而带有火苗的飞溅物。<sup>\[如皋\]</sup> ② （喻）失火时空中飞腾的大火苗。<sup>\[兴化\]</sup>  
 1. 【[火巷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_han.md#火巷)】`hu3 han6` <sup>[如皋]</sup> 旧式大宅，院内厅堂两山外侧的夹道。  
-1. 【[火候](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_heu.md#火候)】`hu3 heu6` <sup>[如东]</sup> ① 烧火的火力大小和时间长短：烧砖要看～。 ② 机会：看准～。 ③ 旺盛时期：人只有三十年的～。  
+1. 【[火候](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_heu.md#火候)】`hu3 heu` <sup>[如东]</sup> ① 烧火的火力大小和时间长短：烧砖要看～。 ② 机会：看准～。 ③ 旺盛时期：人只有三十年的～。  
 1. 【[火花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_hua.md#火花)】`hu3 hua1` <sup>[如东]</sup> 金属碰击后迸发出来的一簇簇火星。  
 1. 【[火药捻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_iah_nin_zz.md#火药捻子)】`hu3 iah8 nin3 zz` <sup>[如皋]</sup> 引火线。  
 1. 【[火药碰火柴——一点就着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_iah_pon_hu_shae_ieh_din_qieu_chah.md#火药碰火柴——一点就着)】`hu3 iah8 pon5 hu3 shae2 ieh7 din3 qieu6 chah8` <sup>[东台]</sup>   
