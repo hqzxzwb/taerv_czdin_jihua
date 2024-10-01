@@ -1775,7 +1775,6 @@
 1. 【[灰藋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_tio.md#灰藋)】`huei1 tio6` <sup>[如东]</sup> 藜科植物小藜，又名灰条头，一年生草本。  
 1. 【[灰桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_ton.md#灰桶)】`huei1 ton3` <sup>[兴化]</sup> 瓦工盛放泥灰的桶子，有提梁。  
 1. 【[灰星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_xien.md#灰星)】`huei1 xien1` <sup>[兴化]</sup> 极小的尘粒：～子眯啊眼睛。｜跟先生做事，连……～大的破绽也不能有一点。（《火烧赤壁》五）  
-1. 【[燘干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_gun.md#燘干)】`huei1 gun1` <sup>[泰州]</sup> 一种豆腐干，方约7厘米，厚约2厘米，顶部圆角，底部四周方角留有小边，有浅酱色、白色两种，硬于豆腐，软于茶干，一般不会直接食用，通常作为炒菜配料。  
 1. 【[回](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei.md#回)】`huei2` 回绝，拒绝  
 1. 【[回潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_cho.md#回潮)】`huei2 cho2` <sup>[如皋]</sup> 见“转潮”。  
 1. 【[回船转舵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_chun_zhun_tu.md#回船转舵)】`huei2 chun2 zhun3 tu6` <sup>[兴化]</sup> （喻）改变态度：他看到对方不高兴的样子，连忙～，尽说好话。  
@@ -1872,6 +1871,7 @@
 1. 【[槥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei.md#槥)】`huei6` <sup>[如皋]</sup> 简易棺材，无𤖱头。施～：给无力收者送的简易棺材。  
 1. 【[汇齐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qi.md#汇齐)】`huei6 qi2` <small>/xuəi6 t͡ɕʰi2/<sup>兴化</sup>, /xuei1 t͡ɕʰʝ2/<sup>如皋</sup></small> 聚集、聚齐<sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[如皋\]</sup>：明早八点半到板桥宾馆～。<sup>\[兴化\]</sup>｜把材料～以后交上来。<sup>\[泰州\]</sup>｜大家到县门口～，到老松林吃茶。<sup>\[如皋\]</sup>  
 1. 【[烩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei.md#烩)】`huei6` <sup>[泰州]</sup> 一种烹调方法：放点ㄦ虾米在豆腐里头一起～。  
+1. 【[烩干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_gun.md#烩干)】`huei6 gun1` <sup>[泰州]</sup> 一种豆腐干，方约7厘米，厚约2厘米，顶部圆角，底部四周方角留有小边，有浅酱色、白色两种，硬于豆腐，软于茶干，一般不会直接食用，通常作为炒菜配料。  
 1. 【[烩肝肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_gun_chan.md#烩肝肠)】`huei6 gun1 chan2` <sup>[东台]</sup> 用已经煮熟的猪肝、大肠，外加菠菜、茨菇片一道下锅烩熟，糖醋起锅勾芡即成。  
 1. 【[婚嫁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_ga.md#婚嫁)】`huen1 ga5` <sup>[东台]</sup> 泛指男女成婚：哪个父母不为儿女的～操劳？  
 1. 【[婚礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_li.md#婚礼)】`huen1 li3` <sup>[东台]</sup> 结婚仪式。  
