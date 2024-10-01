@@ -1178,7 +1178,7 @@
 1. 【[伸舒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_shv.md#伸舒)】`shen1 shv1` <sup>[兴化]</sup> 舒服、偷快的感觉：他今朝身上不～。｜听他一说，我心里不～！  
 1. 【[伸头霍颈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_teu_huah_jien.md#伸头霍颈)】`shen1 teu2 huah7 jien3` <sup>[兴化]</sup> 伸长脖子四处张望：你～的望甚的啊？  
 1. 【[伸头勒颈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_teu_leh_jien.md#伸头勒颈)】`shen1 teu2 leh8 jien3` <sup>[如东]</sup> 头颈乱动，很不稳重的样子：这个伢儿站吖门口～的，像个甚的样子？  
-1. 【[伸头缩颈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_teu_shoh_jien.md#伸头缩颈)】`shen1 teu2 shoh7 jien3` <sup>[兴化]</sup> 因害怕或畏寒而缩起脖子。  
+1. 【[伸头缩颈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_teu_soh_jien.md#伸头缩颈)】`shen1 teu2 soh7 jien3` <sup>[兴化]</sup> 因害怕或畏寒而缩起脖子。  
 1. 【[伸头洼颈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_teu_va_jien.md#伸头洼颈)】`shen1 teu2 va5 jien3` <sup>[如东]</sup> 头颈一伸一缩，很不大方的样子：这个伢儿～的，像个甚的样子？  
 1. 【[伸头鹱颈的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_teu_vah_jien_dii.md#伸头鹱颈的)】`shen1 teu2 vah7 jien3 dii` <small>/səŋ1 tʰei2 ʋaʔ7 t͡ɕiəŋ3 tei/<sup>如皋</sup></small> ① 贬指伸头探脑的样子。<sup>\[如皋\]</sup> ② 贬指探头颈四处乱看。<sup>\[如皋\]</sup>  
 1. 【[伸头鹱颈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_teu_vah_jien.md#伸头鹱颈)】`shen1 teu2 vah8 jien3` <sup>[东台]</sup> 伸长头颈。  
