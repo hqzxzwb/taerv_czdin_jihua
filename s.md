@@ -424,6 +424,7 @@
 1. 【[沙发](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_faeh.md#沙发)】`sha1 faeh7` <sup>[如东]</sup> 装有弹簧的坐具，两边有扶手。  
 1. 【[沙发床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_faeh_chuan.md#沙发床)】`sha1 faeh7 chuan2` <sup>[如东]</sup> 装有弹簧床垫的床，品质高雅。20世纪80年代之前，这种床一般装配在宾馆里；20世纪80年代之后，百姓家庭开始装配。  
 1. 【[沙家花园](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_ga_hua_iun.md#沙家花园)】`sha1 ga1 hua1 iun2` <sup>[如皋]</sup> 如皋历史私人沙元炳家的花园。在城内西北部。  
+1. 【[沙角子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_gah_zz.md#沙角子)】`sha1 gah zz` <small>/sɑ1 kɑʔ t͡sɿ/<sup>泰兴</sup></small> 花生壳表层一般有一层皮。少部分花生荚缺失这一层皮，露出筋络，表面显得粗糙，这种荚叫～。<sup>\[泰兴\]</sup>  
 1. 【[沙蟹<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_hae_r.md#沙蟹<sub>儿</sub>)】`sha1 hae3 r` <sup>[如东]</sup> 方蟹科动物无毛相手蟹，胸甲长约2厘米。背甲长方形，淡褐色，较薄。足5对，螯足小，褐色；步足4对，生长灰褐色细毛。腹部退化，雄者呈三角形，雌者圆形。栖息在沙滩上的洞穴中。营养丰富。是如东常见蟹种。  
 1. 【[沙垳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_hen.md#沙垳)】`sha1 hen5` <sup>[如东]</sup> 渔民采掘螯等贝类的沙滩，称沙垳。也称垳场。  
 1. 【[沙话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_hua.md#沙话)】`sha1 hua6` <sup>[兴化]</sup> 由于受到恐吓或压力，违背心愿说出犯忌的、暴露隐秘的话：小吴经不起几一盘，～全出来啊。  
@@ -431,7 +432,6 @@
 1. 【[沙浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_jian.md#沙浆)】`sha1 jian1` <sup>[兴化]</sup> 见“砂灰”。  
 1. 【[沙礓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_jian_r.md#沙礓<sub>儿</sub>)】`sha1 jian3 r` <sup>[东台]</sup> 夹在粮食里的沙粒等杂物。  
 1. 【[沙棘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_jieh.md#沙棘)】`sha1 jieh7` <sup>[如东]</sup> 一种酸枣树，耐碱，可以在沿海地区种植。  
-1. 【[沙壳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_kah_zz.md#沙壳子)】`sha1 kah zz` <small>/sɑ1 kʰɑʔ t͡sɿ/<sup>泰兴</sup></small> 花生壳表层一般有一层皮。少部分花生荚缺失这一层皮，露出筋络，表面显得粗糙，这种荚叫～。<sup>\[泰兴\]</sup>  
 1. 【[沙兰杨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_laen_ian.md#沙兰杨)】`sha1 laen2 ian2` <sup>[如东]</sup> 杨柳科植物沙兰杨，落叶乔木。叶互生，卵状披针形。柔荑花序。耐碱，适宜如东县沿海地区种植。木质松软。  
 1. 【[沙里话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_li_hua.md#沙里话)】`sha1 li3 hua6` <sup>[如东]</sup> 吴语启海话。  
 1. 【[沙里人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_li_ren.md#沙里人)】`sha1 li3 ren2` <sup>[如东]</sup> 启东、海门人。  

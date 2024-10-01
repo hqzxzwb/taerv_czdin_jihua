@@ -175,7 +175,8 @@
 1. 【[家家<sub>儿</sub>路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_ga_r_lv.md#家家<sub>儿</sub>路)】`ga1 ga1 r lv6` <sup>[如皋]</sup> 很熟悉的路。  
 1. 【[家家人家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_ga_ren_ga.md#家家人家)】`ga1 ga1 ren2 ga` <sup>[如皋]</sup> 家家户户。  
 1. 【[家家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_ga.md#家家)】`ga1 ga2` <sup>[泰州]</sup> 儿语，回家，大人对幼儿使用。  
-1. 【[家伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_hu.md#家伙)】`ga1 hu` <small>/ka1 xo/<sup>兴化</sup>, /ka1 xo/<sup>泰县</sup></small> ① 容器；武器<sup>\[东台\]</sup>：～厉害<sup>\[东台\]</sup> ② 特指马桶<sup>\[东台\]</sup>：上茅缸倒～。<sup>\[东台\]</sup> ③ 机械零部件<sup>\[兴化\]</sup>：汽车坏～，在半路上修不起来。<sup>\[兴化\]</sup> ④ 工具、器皿等<sup>\[泰县\]</sup>：明朝到张家去做活计，你把～都带好。<sup>\[泰县\]</sup>  
+1. 【[家伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_hu.md#家伙)】`ga1 hu` <small>/ka1 xo/<sup>兴化</sup>, /ka1 xo/<sup>泰县</sup></small> ① 容器<sup>\[东台\]</sup><sup>\[泰州\]</sup>：你去拿个～来把这地下的山芋弄家去。<sup>\[泰州\]</sup> ② 特指马桶<sup>\[东台\]</sup>：上茅缸倒～。<sup>\[东台\]</sup> ③ 机械零部件<sup>\[兴化\]</sup>：汽车坏～，在半路上修不起来。<sup>\[兴化\]</sup> ④ 工具、器皿等<sup>\[泰县\]</sup><sup>\[泰州\]</sup>：明朝到张家去做活计，你把～都带好。<sup>\[泰县\]</sup>｜木匠的～不是瓦匠的～，你不能瞎动他的。<sup>\[泰州\]</sup> ⑤ 兵器<sup>\[泰州\]</sup><sup>\[东台\]</sup>：这几个人身上都带啊～，你远吖点儿。<sup>\[泰州\]</sup>｜～厉害<sup>\[东台\]</sup>  
+1. 【[家伙三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_hu_saen.md#家伙三)】`ga1 hu saen1` <small>/ka1 xo sɛ̃1/<sup>兴化</sup>, /ka1 xʊ sẽ1/<sup>如皋</sup></small> ① 俗指本领、能力、手段<sup>\[如皋\]</sup>：他有点儿一～；你就这们点儿～？<sup>\[如皋\]</sup> ② （借）手段<sup>\[兴化\]</sup>：这个人表面上客气，骨里～厉害㖸！<sup>\[兴化\]</sup>  
 [更多...](./g.md)
 ## H
 1. 【[哈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha.md#哈)】`ha1` <sup>[兴化]</sup> 油脂或含油过多的食品如猪油、咸肉等因日久变质，产生臭、辣味。  
