@@ -1240,6 +1240,7 @@
 1. 【[生抲抲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_ka_ka.md#生抲抲)】`shen1 ka1 ka1` <sup>[兴化]</sup> 与陌生人见面时的羞涩感：一男一女初次见面不免～的。  
 1. 【[生来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_lae.md#生来)】`shen1 lae2` ① 的确，确实 ② 先天，本来。<sup>\[如东\]</sup>：～就是这吖。<sup>\[如东\]</sup> ③ 应该。<sup>\[如东\]</sup>：～是他去。<sup>\[如东\]</sup>  
 1. 【[生来的夫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_lae_dii_fv_r.md#生来的夫<sub>儿</sub>)】`shen1 lae2 dii fv1 r` <sup>[东台]</sup> 新来乍到，情况不熟的人：我是～，请大家多指点！  
+1. 【[生来暴到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_lae_po_do.md#生来暴到)】`shen1 lae2 po6 do5, shen1 lae2 bo5 do5` <small>/səŋ1 lɛ2 pʰɔ1 tɔ5/<sup>泰兴</sup></small> 初来乍到<sup>\[泰兴\]</sup>  
 1. 【[生脸色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_lin_seh.md#生脸色)】`shen1 lin3 seh7` <sup>[兴化]</sup> 没有见过面的人：来者是个～。｜刚才来啊几个～儿，把老板叫啊走啊。  
 1. 【[生迈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_mae.md#生迈)】`shen1 mae` <sup>[泰县]</sup> 如果：这件事～你去就办成吖。  
 1. 【[生芒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_man.md#生芒)】`shen1 man2` <sup>[如东]</sup> 物体表面生长出菌丝。生长白色菌丝，称生白芒；生长黑色菌丝，称生黑芒：馒头上～。  
