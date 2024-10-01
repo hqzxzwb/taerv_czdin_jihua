@@ -173,7 +173,6 @@
 1. 【[苍鹭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/can_lv.md#苍鹭)】`can1 lv6` <sup>[如东]</sup> 鹭的一种。体长约1米。背部苍灰色，头上有两条美丽的黑色冠羽。腿长。吃小鱼、昆虫、蛙等。也叫青桩。  
 1. 【[苍白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/can_poh.md#苍白)】`can1 poh8` <sup>[如东]</sup> ① 1种白色。 ② 脸上没有血色：他刚刚开刀，脸色～。  
 1. 【[苍身鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/can_shen_guei.md#苍身鬼)】`can1 shen1 guei3` <sup>[东台]</sup> 戏称个头特别高的人。  
-1. 【[藏钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/can_qin.md#藏钱)】`can2 qin2` 扣除本金后赚到钱；形容某生意能赚到钱。  
 1. 【[䢢/㼽/磢/𰧕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/can.md#䢢/㼽/磢/𰧕)】`can5` <small>/t͡sʰaŋ5/<sup>兴化</sup>, /t͡sʰɑŋ5/<sup>泰县</sup></small> ① （㼽，【唐韻】初兩切【集韻】【韻會】【正韻】楚兩切，𠀤音摤。【說文】磋垢瓦石。磢，《广韵·养韵》初两切“～，瓦石洗物”） ② 擦、磨<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：把这个字用橡皮～掉。<sup>\[泰县\]</sup>｜膀子～掉一块皮。<sup>\[泰州\]</sup> ③ 擦洗<sup>\[兴化\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：～锅子<sup>\[兴化\]</sup>｜～锡香炉<sup>\[兴化\]</sup>｜～痒<sup>\[兴化\]</sup>｜～颈项/擦洗脖子<sup>\[兴化\]</sup>｜身上～吖多少硍吖。<sup>\[泰州\]</sup>  
 1. 【[䢢痒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/can_ian.md#䢢痒)】`can5 ian3` <sup>[如东]</sup> 在物体上摩擦而使痒感缓解。  
 1. 【[䢢脚丫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/can_jiah_nga_r.md#䢢脚丫<sub>儿</sub>)】`can5 jiah7 nga1 r` <sup>[如东]</sup> ① 在脚丫儿里䢢痒。 ② 比喻做低贱的事：你只配代他～。  
