@@ -102,6 +102,7 @@
 1. 【[在我](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_ngu.md#在我)】`cae6 ngu3` <sup>[兴化]</sup> ① 在于、决定于本人：你覅怕，这件事的处理全～，没得把苦你吃。 ② 由自己负责或办理，不用别人操心：“你总不要管，替考的人也～，衙门里打点也～，你只叫他把五百两银子兑出来……”（《儒林外史》十九）  
 1. 【[在谱<sub>儿</sub>上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_pv_r_shan.md#在谱<sub>儿</sub>上)】`cae6 pv3 r shan` <sup>[如皋]</sup> 见“在么儿上”。  
 1. 【[在情在理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_qien_cae_li.md#在情在理)】`cae6 qien2 cae6 li3` <small>/t͡sʰɛ6 t͡ɕʰin2 t͡sʰɛ6 ləi3/<sup>兴化</sup>, /t͡sʰɛ1 t͡ɕʰiəŋ2 t͡sʰɛ1 lʝ3/<sup>如皋</sup></small> ① 言行正派。<sup>\[如皋\]</sup> ② 合情合理。<sup>\[如皋\]</sup> ③ 符合情理<sup>\[兴化\]</sup>：李三拿埋葬费用的余数来喝酒，实在也～，没有什么说不过去。（汪曾祺《故里杂记》）<sup>\[兴化\]</sup>  
+1. 【[在时或到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_shr_hoh_do.md#在时或到)】`cae6 shr hoh7 do` <small>/t͡ɕʰiɛ1 sɿ xɔʔ7 tɔ/<sup>泰兴</sup></small> 不频繁，也不稀少，偶尔为之<sup>\[泰兴\]</sup>：他平时喝酒不多，～的弄点儿抿吖子。<sup>\[泰兴\]</sup>  
 1. 【[在时头上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_shr_teu_shan.md#在时头上)】`cae6 shr2 teu shan` <sup>[如皋]</sup> 正在走时的时候。见“得时”。  
 1. 【[在世](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_shr.md#在世)】`cae6 shr5` <sup>[如东]</sup> 活着：他还～。  
 1. 【[在心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_xien.md#在心)】`cae6 xien1` <sup>[兴化]</sup> 注意、放在心上：开始只当他说的玩话，也不曾～。  

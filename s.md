@@ -1367,8 +1367,7 @@
 1. 【[省得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_deh.md#省得)】`shen3 deh7` <sup>[东台]</sup> 免得。  
 1. 【[省得血腥气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_deh_xiuh_xien_qi.md#省得血腥气)】`shen3 deh7 xiuh7 xien1 qi5` <sup>[东台]</sup> 形容节省得太可怜：这点儿钱对一个农民来说，真是～。  
 1. 【[省油灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_ieu_den.md#省油灯)】`shen3 ieu2 den1` <small>/sən3 iɤ2 tən1/<sup>兴化</sup>, /səŋ3 yʊ2 təŋ1/<sup>如皋</sup></small> ① 规矩、老实或指人：她不是个～。<sup>\[如皋\]</sup> ② （喻）胆小怕事的人<sup>\[兴化\]</sup>：那个婆娘不是～，你惹上她麻烦就大啊。<sup>\[兴化\]</sup>  
-1. 【[省俭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_jin.md#省俭)】`shen3 jin` <sup>[如皋]</sup> 节省、简化：他过日子～。  
-1. 【[省俭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_jin.md#省俭)】`shen3 jin3` ① 俭省。<sup>\[如东\]</sup>：他～吖交关。<sup>\[如东\]</sup> ② 勤俭节约<sup>\[东台\]</sup>：办事要～。<sup>\[东台\]</sup>  
+1. 【[省俭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_jin.md#省俭)】`shen3 jin3` <small>/səŋ3 t͡ɕĩ/<sup>如皋</sup></small> 节省、俭朴<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup>：他过日子～。<sup>\[如皋\]</sup>｜他～吖交关。<sup>\[如东\]</sup>｜办事要～。<sup>\[东台\]</sup>  
 1. 【[省力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_lieh.md#省力)】`shen3 lieh8` <sup>[兴化]</sup> 节省精力，少操心：推车比挑担～。｜老师讲得清楚，学生听起来～。｜这件事请中介公司去办比较～。  
 1. 【[省世](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_shr.md#省世)】`shen3 shr` <sup>[泰兴]</sup> 节俭  
 1. 【[省事无事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_shr_v_shr.md#省事无事)】`shen3 shr6 v2 shr6` <sup>[兴化]</sup> 不招惹闲事，避免卷入是非：老兄吖，不要找事做。俗说，多事有事，～。  
