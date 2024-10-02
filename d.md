@@ -1245,6 +1245,7 @@
 1. 【[挡门面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_men_min.md#挡门面)】`dan3 men2 min6` <sup>[如东]</sup> 应酬：他箇是为啊～。  
 1. 【[挡襻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_paen.md#挡襻)】`dan3 paen5` <sup>[兴化]</sup> 遮拦物：出咖房屋就是大河，没得～。  
 1. 【[挡水老<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_shuei_lo_r.md#挡水老<sub>儿</sub>)】`dan3 shuei3 lo3 r` <sup>[如东]</sup> 水车部件。木制，丁字形，安装在水车中部，舌头起阻止水车练条倒转的作用。  
+1. 【[□□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_v_zan.md#□□□)】`dan5 v zan5` <small>/tɑŋ5 ʋ t͡sɑŋ5/<sup>泰兴</sup></small> 故意<sup>\[泰兴\]</sup>  
 1. 【[当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan.md#当)】`dan5` 以为<sup>\[泰州\]</sup>：他做的这些坏事还～人不晓得吤。<sup>\[泰州\]</sup>  
 1. 【[当饱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_bo.md#当饱)】`dan5 bo3` <small>/taŋ5 pɔ3/<sup>兴化</sup>, /tã5 pɔ3/<sup>如皋</sup></small> ① 能够充饥。<sup>\[如东\]</sup>：这些馒头可以～。<sup>\[如东\]</sup> ② 作为主食<sup>\[如皋\]</sup>：没得饭吃，拿菜～。<sup>\[如皋\]</sup> ③ 作为三顿饭之一<sup>\[如皋\]</sup>：外头也不早啊，你把馒头～的吃，家去就不要吃中饭吖。<sup>\[如皋\]</sup> ④ 可以充肌<sup>\[兴化\]</sup>：角老菱又好吃又当饱。<sup>\[兴化\]</sup>  
 1. 【[当饱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_bo.md#当饱)】`dan5 bo3` <sup>[泰州]</sup> 充饥：你弄这东西又不能～，有甚的弄头。  
