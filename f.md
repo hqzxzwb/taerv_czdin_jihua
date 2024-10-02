@@ -267,6 +267,7 @@
 1. 【[贩搬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_bun.md#贩搬)】`faen5 bun1` <sup>[东台]</sup> 是对一种像贩子样搬来搬去的做法感到厌烦的批评语。  
 1. 【[贩话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_hua.md#贩话)】`faen5 hua6` <small>/fɛ̃5 xua1/<sup>泰县</sup></small> ① 搬弄是非。<sup>\[东台\]</sup> ② 搬弄是非。<sup>\[泰县\]</sup>  
 1. 【[贩脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_jiah_r.md#贩脚<sub>儿</sub>)】`faen5 jiah7 r` <sup>[东台]</sup> ① 经商赚钱有门路的人。 ② 频繁跳槽、婚姻多变的人。 ③ 专门搬弄是非的人。  
+1. 【[贩骡子贩马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_lu_zz_faen.md#贩骡子贩马)】`faen5 lu2 zz faen5 ma3` <small>/fɛ̃5 lɤɯ2 t͡sɿ fɛ̃5 mɑ3/<sup>泰兴</sup></small> 多话、搬弄是非，是“贩”的生动形式<sup>\[泰兴\]</sup>  
 1. 【[贩恘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_qieu.md#贩恘)】`faen5 qieu3` <sup>[如东]</sup> 今天想做这样，明天又想做哪样：做事情要专心，不要～。  
 1. 【[贩私盐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_sz_in.md#贩私盐)】`faen5 sz1 in2` <sup>[如东]</sup> 旧时，盐商未经盐务机关批准而私自贩卖食盐。  
 1. 【[贩私盐的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_sz_in_dii.md#贩私盐的)】`faen5 sz1 in2 dii` <sup>[如东]</sup> 旧时的私盐贩子。  

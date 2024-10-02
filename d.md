@@ -2299,6 +2299,7 @@
 1. 【[躲野猫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_ia_mo_r.md#躲野猫<sub>儿</sub>)】`du3 ia3 mo2 r` <sup>[泰县]</sup> 捉迷藏。  
 1. 【[躲野蒙<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_ia_mon_r.md#躲野蒙<sub>儿</sub>)】`du3 ia3 mon2 r` <sup>[兴化]</sup> 捉迷藏。  
 1. 【[躲养](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_ian.md#躲养)】`du3 ian3` <sup>[兴化]</sup> 为规避生育管理，流落外地超计划生育：（张三的儿子）买了挂浆船出去跑运输了。名是做生意，实是～……（刘春龙《无意插柳》）。  
+1. 【[躲奸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_jiaen.md#躲奸)】`du3 jiaen1` <small>/tɤɯ3 t͡ɕiɛ̃1/<sup>泰兴</sup></small> 偷奸耍滑，少干活<sup>\[泰兴\]</sup>  
 1. 【[躲懒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_laen.md#躲懒)】`du3 laen3` <small>/to3 lɛ̃3/<sup>兴化</sup>, /to3 nɛ̃3/<sup>泰县</sup></small> ① 懒惰。<sup>\[如东\]</sup>：这个伢儿～。<sup>\[如东\]</sup> ② 偷懒，逃避工作和劳动。<sup>\[兴化\]</sup> ③ 把本该自己做的事推给别人<sup>\[兴化\]</sup>：～陪奸。<sup>\[兴化\]</sup> ④ 偷懒<sup>\[泰县\]</sup>：不要～。<sup>\[泰县\]</sup>  
 1. 【[躲懒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_laen.md#躲懒)】`du3 laen3` <sup>[泰州]</sup> 偷懒，逃避劳作或者职责：他这种做啊惯吖的人，不管蹾吖甚的地方都不会得～，哪个领导都喜欢他。  
 1. 【[躲猫猫<sub>儿</sub>寻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_mo_mo_r_qien.md#躲猫猫<sub>儿</sub>寻)】`du3 mo2 mo2 r qien2` <sup>[如皋]</sup> 捉迷藏。  

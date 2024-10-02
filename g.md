@@ -1077,6 +1077,7 @@
 1. 【[个把两个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_ba_laen_gu.md#个把两个)】`gu5 ba laen3 gu5` <sup>[东台]</sup> 一两个：菜叶上有～斑点。  
 1. 【[个等<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_den_r.md#个等<sub>儿</sub>)】`gu5 den3 r` <sup>[兴化]</sup> 一会儿：过了～，彩云仙女回来禀报……（兴文《兴化城的传说》）  
 1. 【[个个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_gu.md#个个)】`gu5 gu5` <sup>[泰兴]</sup> 每一个。  
+1. 【[个个时辰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_gu_shr_shen.md#个个时辰)】`gu5 gu5 shr2 shen2` <small>/kɤɯ5 kɤɯ5 sɿ2 səŋ2/<sup>泰兴</sup></small> 每时每刻<sup>\[泰兴\]</sup>  
 1. 【[个人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_ren.md#个人)】`gu5 ren2` <sup>[东台]</sup> ① 一个人（跟“集体”相对）：～利益服从集体利益。 ② 自称，本人：～认为企业改制宜早不宜迟。  
 1. 【[个头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_teu.md#个头)】`gu5 teu` <sup>[泰兴]</sup> 个子。  
 1. 【[个着<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_zhah_r.md#个着<sub>儿</sub>)】`gu5 zhah7 r` <sup>[如皋]</sup> 人的身材，身高和壮瘦。  
@@ -1204,7 +1205,7 @@
 1. 【[瓜子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_zz.md#瓜子)】`gua1 zz` <small>/kua1 t͡sɿ/<sup>兴化</sup></small> ① 指用稍瓜腌制的咸菜<sup>\[东台\]</sup>：酱～；甜～。<sup>\[东台\]</sup> ② 腌菜瓜、稍瓜或酱稍瓜<sup>\[兴化\]</sup>：咸～；酱～。<sup>\[兴化\]</sup>  
 1. 【[瓜子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_zz.md#瓜子)】`gua1 zz3` <sup>[泰州]</sup> 一种小菜，黄瓜之类的瓜洗净，铺开去籽，用盐腌制出卤，晒干以后保存坛中。食用时，切成丁，拌以麻油，用以佐粥。  
 1. 【[瓜子<sub>儿</sub>脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_zz_r_lin.md#瓜子<sub>儿</sub>脸)】`gua1 zz3 r lin3` <sup>[如东]</sup> 上宽下狭的脸相：她长的是一副～。  
-1. 【[剐草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_co.md#剐草)】`gua3 co3` <small>/kua3 t͡sʰɔ3/<sup>兴化</sup>, /kua3 t͡sʰɔ3/<sup>如皋</sup></small> 割草<sup>\[兴化\]</sup>\[如皋：割取岸草上部的嫩茎叶饲牛。\]\[东台：把草割下来。\]\[泰州：用镰刀割青草\]：下田～。<sup>\[兴化\]</sup>｜姑嫂两个下田～去啊。<sup>\[泰州\]</sup>  
+1. 【[剐草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_co.md#剐草)】`gua3 co3` <small>/kua3 t͡sʰɔ3/<sup>兴化</sup>, /kua3 t͡sʰɔ3/<sup>如皋</sup></small> 割草<sup>\[东台\]</sup><sup>\[兴化\]</sup>\[如皋：割取岸草上部的嫩茎叶饲牛。\]\[泰州：用镰刀割青草\]：下田～。<sup>\[兴化\]</sup>｜姑嫂两个下田～去啊。<sup>\[泰州\]</sup>  
 1. 【[剐麦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_moh.md#剐麦)】`gua3 moh8` <sup>[泰州]</sup> 用镰刀收割成熟的麦子。  
 1. 【[剐人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_ren.md#剐人)】`gua3 ren` <small>/kua3 lən/<sup>兴化</sup></small> ① 吃了某食品，引起胃子像刀刮一样难受。<sup>\[东台\]</sup> ② （借）多吃了萝卜之类的东西以后，胃中极端饥饿而又泛酸的那种感觉。<sup>\[兴化\]</sup> ③ 胃受某些药物强烈刺激后的不适感。<sup>\[兴化\]</sup>  
 1. 【[剐人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_ren.md#剐人)】`gua3 ren2` <sup>[泰州]</sup> 吃了过量生萝卜、生山芋之类的食物之后胃中产生的刀割似的难受感觉：肚肚里～吖不得命。  
