@@ -661,9 +661,7 @@
 1. 【[咋的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/za_dii.md#咋的)】`za3 dii` “怎吖”合音为“咋”，“咋的”同“怎吖的”。  
 1. 【[咋呼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/za_hv.md#咋呼)】`za3 hv` <sup>[兴化]</sup> ① 吆喝：你瞎～甚的？ ② 张扬、炫耀：这个人有点门儿就喜欢～。也说“咋咋呼呼”。  
 1. 【[栽𠵹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_gan.md#栽𠵹)】`zae1 gan1` <sup>[兴化]</sup> 见“吱风”。  
-1. 【[栽害](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_hae.md#栽害)】`zae1 hae` <sup>[泰县]</sup> 陷害。  
-1. 【[栽害](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_hae.md#栽害)】`zae1 hae6` <small>/t͡sɛ1 xɛ6/<sup>兴化</sup></small> ① 诬陷人。<sup>\[如东\]</sup> ② 诬告人。<sup>\[如东\]</sup> ③ 嫁祸于人<sup>\[东台\]</sup>：“文革”中他捱坏人～，坐啊三年牢。<sup>\[东台\]</sup> ④ 栽脏陷害<sup>\[兴化\]</sup>：（高俅）竟然计诬陷，做罪～林冲。（扬说《滕公智断冤案》）<sup>\[兴化\]</sup> ⑤ 诬陷<sup>\[兴化\]</sup>：“……他说我毁了三请，闹了观宇，这又是～我也”。（《西游记》四五）<sup>\[兴化\]</sup>  
-1. 【[栽害](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_hae.md#栽害)】`zae1 hae6` 捏造假证嫁祸伤害清白无辜的人，陷害<sup>\[泰州\]</sup>：这件事肯定是有人～他。<sup>\[泰州\]</sup>  
+1. 【[栽害](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_hae.md#栽害)】`zae1 hae6` <small>/t͡sɛ1 xɛ6/<sup>兴化</sup>, /t͡se1 xe/<sup>泰县</sup></small> 诬陷、诬告、陷害<sup>\[泰县\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：“文革”中他捱坏人～，坐啊三年牢。<sup>\[东台\]</sup>｜（高俅）竟然计诬陷，做罪～林冲。（扬说《滕公智断冤案》）<sup>\[兴化\]</sup>｜“……他说我毁了三请，闹了观宇，这又是～我也”。（《西游记》四五）<sup>\[兴化\]</sup>｜这件事肯定是有人～他。<sup>\[泰州\]</sup>  
 1. 【[栽秧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_ian.md#栽秧)】`zae1 ian1` <small>/t͡sɛ1 iaŋ1/<sup>兴化</sup>, /t͡sɛ1 iã1/<sup>如皋</sup></small> ① 栽插水稻秧苗。<sup>\[如皋\]</sup> ② 把水稻的秧苗从秧田移栽到大田里。又称“插秧”。<sup>\[兴化\]</sup>  
 1. 【[栽秧号子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_ian_ho_zz.md#栽秧号子)】`zae1 ian1 ho6 zz` <sup>[兴化]</sup> 栽秧时打的劳动号子，有独唱、齐唱、领唱、对唱等多种形式，唱词有固定的，也有即兴编唱的。曲调各地有异，境内著名的有茅山号子等。  
 1. 【[栽秧寒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_ian_hun.md#栽秧寒)】`zae1 ian1 hun2` <small>/t͡sɛ1 iã1 xʊ̃2/<sup>如皋</sup></small> ① 栽秧时天气变冷。<sup>\[如皋\]</sup> ② 见“麦秀寒”。<sup>\[如皋\]</sup> ③ 栽秧时节或者此前的寒流气候。<sup>\[东台\]</sup>  
@@ -685,4 +683,5 @@
 1. 【[宰宰拘拘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_zae_jy_jy.md#宰宰拘拘)】`zae3 zae3 jy1 jy1` <sup>[兴化]</sup> 一定的、一成不变的：而今的婚礼不～的行甚的大仪注。兴化词典作“者者拘拘”。也说“宰宰拘”。  
 1. 【[宰执](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_zheh.md#宰执)】`zae3 zheh` 固执，坚持<sup>\[泰州\]</sup>：朋友之间吃顿饭，他付钱要甚的紧，你就不要太～。<sup>\[泰州\]</sup>  
 1. 【[宰执](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_zheh.md#宰执)】`zae3 zheh7` <small>/t͡sɛ3 t͡səʔ7/<sup>兴化</sup>, /t͡se3 t͡səʔ7/<sup>泰县</sup></small> ① 固执、刻板<sup>\[东台\]</sup>：你要灵活点儿，不要太～。<sup>\[东台\]</sup> ② 迂执、拘泥<sup>\[兴化\]</sup>：老先生～，轻容易不跟人交往。兴化词典作“者执”。<sup>\[兴化\]</sup> ③ 固执，不占别人便宜。<sup>\[泰县\]</sup>  
+1. 【[载住咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_chuh_ga.md#载住咖)】`zae3 chuh8 ga` <sup>[如皋]</sup> 一定要，非要不可：他～要，你也没办法推辞。  
 [更多...](./z.md)
