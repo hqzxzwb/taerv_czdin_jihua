@@ -1625,9 +1625,6 @@
 1. 【[女婿半个儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_xy_bun_gu_er.md#女婿半个儿)】`ny3 xy bun5 gu5 er2` <small>/ny3 ɕy pʊ̃5 kɤɯ5 ɚ2/<sup>泰兴</sup></small> 喻岳父母对女婿尤爱，当成自己的儿子。<sup>\[泰兴\]</sup>  
 1. 【[女婿一到，丈母娘靠灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_xy_ieh_do_chan_mu_nian_ko_zo.md#女婿一到，丈母娘靠灶)】`ny3 xy5 ieh7 do5 chan6 mu3 nian2 ko5 zo5` <sup>[东台]</sup> 丈母娘立刻为爱婿忙饭做菜。  
 1. 【[女婿如半子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_xy_rv_bun_zz.md#女婿如半子)】`ny3 xy5 rv2 bun5 zz3` <sup>[东台]</sup> 女婿像半个儿子一样重要。  
-1. 【[女贞根](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_zhen_gen.md#女贞根)】`ny3 zhen1 gen1` <sup>[如东]</sup> 木樨科植物女贞根。  
-1. 【[女贞叶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_zhen_ih.md#女贞叶)】`ny3 zhen1 ih8` <sup>[如东]</sup> 木樨科植物女贞叶。  
-1. 【[女贞皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_zhen_pi.md#女贞皮)】`ny3 zhen1 pi2` <sup>[如东]</sup> 木樨科植物女贞皮。  
-1. 【[女贞树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_zhen_shv.md#女贞树)】`ny3 zhen1 shv6` <sup>[如东]</sup> 木樨科植物女贞树，常绿灌木或小乔木。  
+1. 【[女贞树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_zhen_shv.md#女贞树)】`ny3 zhen1 shv6` <sup>[如东]</sup> 木樨科植物女贞树，常绿灌木或小乔木：女贞叶｜女贞皮｜女贞根  
 1. 【[内教](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_jio.md#内教)】`ny6 jio5` <small>/ny1 t͡ɕiɔ5/<sup>如皋</sup>, /ny1 t͡ɕiɔ5/<sup>泰县</sup></small> ① 内行。<sup>\[如皋\]</sup> ② 内行：他对车工～。<sup>\[泰县\]</sup>  
 **[▲](#音序检索)**  

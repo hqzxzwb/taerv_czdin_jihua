@@ -82,8 +82,7 @@
 1. 【[架架尖尖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_ga_jin_jin.md#架架尖尖)】`ga5 ga5 jin1 jin1` <sup>[兴化]</sup> 物品堆积超过容器口的平面。  
 1. 【[架豇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_gan.md#架豇)】`ga5 gan1` <sup>[兴化]</sup> 一种攀附在苇架上生长的豇豆，豆荚嫩时可做菜。  
 1. 【[架枝架碍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_zhr_ga_ngae.md#架枝架碍)】`ga5 zhr ga5 ngae6` <small>/ka5 t͡sɿ ka5 ɛ6/<sup>兴化</sup>, /ka5 t͡sɿ ka5 e1/<sup>泰县</sup></small> ① 爱睬不睬的样子<sup>\[泰县\]</sup>：他～的，人没得办法接近他。<sup>\[泰县\]</sup> ② 摆架子，不合群<sup>\[东台\]</sup>：下乡要入乡随俗，不能～的。<sup>\[东台\]</sup> ③ 对人爱理不理的样子<sup>\[兴化\]</sup>：他在城里当个小官儿，乡里人去寻他，总是～的。<sup>\[兴化\]</sup>  
-1. 【[架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_zz.md#架子)】`ga5 zz` ① 一种放在锅里搁置食物蒸热的工具。有井字形、圆盘形等多种。也称炣络儿。<sup>\[如东\]</sup> ② 比喻机构的组织、文章的结构等。<sup>\[如东\]</sup>：先搭个～。<sup>\[如东\]</sup> ③ 自高形容自大，装腔作势的作风<sup>\[东台\]</sup>：摆～；官～。<sup>\[东台\]</sup>  
-1. 【[架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_zz.md#架子)】`ga5 zz` <sup>[泰州]</sup> 供藤本植物攀援的棚架：豇豆～。  
+1. 【[架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_zz.md#架子)】`ga5 zz` ① 一种放在锅里搁置食物蒸热的工具。有井字形、圆盘形等多种。也称炣络儿。<sup>\[如东\]</sup> ② 比喻机构的组织、文章的结构等。<sup>\[如东\]</sup>：先搭个～。<sup>\[如东\]</sup> ③ 自高形容自大，装腔作势的作风<sup>\[东台\]</sup>：摆～；官～。<sup>\[东台\]</sup> ④ 供藤本植物攀援的棚架<sup>\[泰州\]</sup>：豇豆～。<sup>\[泰州\]</sup>  
 1. 【[架子床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_zz_chuan.md#架子床)】`ga5 zz chuan2` <sup>[如皋]</sup> 用简易床架（一副两只）组成的床。  
 1. 【[架子猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_zz_zhv.md#架子猪)】`ga5 zz zhv1` <sup>[兴化]</sup> 骨架已形成，尚待育肥的猪。‖也称“克郎猪”“卡子猪”。  
 1. 【[吤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae.md#吤)】`gae` <sup>[泰州]</sup> 语气词，接在入声韵母的字后，用于句尾，表示各种语气含义：这个才不能吃～。｜个子高得扎实～。  
