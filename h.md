@@ -57,7 +57,6 @@
 1. 【[蝦蟆乌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ma_v_r.md#蝦蟆乌<sub>儿</sub>)】`ha2 ma2 v1 r` <small>/xa2 ma2 u1 ɚ/<sup>兴化</sup>, /xa2 ma2 ʋu˞1/<sup>如皋</sup></small> ① 蝌蚪。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup> ② 腮腺炎<sup>\[东台\]</sup>  
 1. 【[蝦蟆乌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ma_v_r.md#蝦蟆乌<sub>儿</sub>)】`ha2 ma2 v1 r, xia2 ma2 v1 r, ha1 ma2 v1 r` 蝌蚪  
 1. 【[还](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha.md#还)】`ha2` <sup>[东台]</sup> ① “还hae2”的口语音。 ② 勉强过得去：菜～可以。 ③ 居然：他～真的来了。  
-1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha.md#□)】`ha3` <sup>[泰兴]</sup> ① 给：～我；～他 ② 被动标记：～人打啊𠼱  
 1. 【[哈巴郎当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ba_lan_dan.md#哈巴郎当)】`ha3 ba lan2 dan1` <sup>[泰县]</sup> 总共：我～就这几角钱。  
 1. 【[哈喇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_la.md#哈喇)】`ha3 la` <sup>[泰州]</sup> 蒙古语音译，指事情搞大了：他家小伙结婚本来只打算请四五桌人，哪晓得把人一排，～啊唻，没得20桌弄不下来。｜我俫厂里发年终奖，就是个人发1000块，3000多个人发咖子，也～啊唻。  
 1. 【[𤹉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha.md#𤹉)】`ha3` <sup>[如皋]</sup> （借字）胡涂，不精明。  
@@ -339,8 +338,7 @@
 1. 【[闲事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_shr.md#闲事)】`haen2 shr6` <sup>[兴化]</sup> ① 事：他岁数虽大一点，蛮管～的（能管事）。 ② 麻烦：惹～；撩～。  
 1. 【[闲暇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_xia.md#闲暇)】`haen2 xia2` <sup>[如皋]</sup> 空闲。  
 1. 【[闲暇无事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_xia_v_shr.md#闲暇无事)】`haen2 xia2 v2 shr6` <sup>[如东]</sup> 清闲无事：～，可以陪你玩耍。  
-1. 【[㨔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen.md#㨔)】`haen3, han3` 给予；表被动  
-1. 【[㨔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen.md#㨔)】`haen3` <sup>[如皋]</sup> 给予：我～钱你用。  
+1. 【[㨔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen.md#㨔)】`haen3` <small>/xẽ3/<sup>如皋</sup>, /xɑ3/<sup>泰兴</sup></small> 给予；表被动<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰兴\]</sup>：我～钱你用。<sup>\[如皋\]</sup>｜～我；～他<sup>\[泰兴\]</sup>｜～人打啊lei<sup>\[泰兴\]</sup>  
 1. 【[喊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen.md#喊)】`haen3, haen5` <sup>[如皋]</sup> ① 大声呼叫：他看见有坏人，连忙～人来捉。 ② 吩咐，叫：你去把他～得来吃饭。  
 1. 【[喊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen.md#喊)】`haen3` <small>/xɛ̃3/<sup>兴化</sup></small> ① 叫、买<sup>\[兴化\]</sup>：上茶馆～一桌菜。<sup>\[兴化\]</sup> ② 雇<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：～船一车子。<sup>\[兴化\]</sup>｜到外头～部车子过来。<sup>\[泰州\]</sup> ③ 称呼<sup>\[兴化\]</sup>：序起来他该～我叔子。<sup>\[兴化\]</sup> ④ 通知（前往某处）<sup>\[泰州\]</sup>：～几个人过来帮忙。<sup>\[泰州\]</sup> ⑤ 打招呼、问候<sup>\[泰州\]</sup>：望见他也不曾～他。<sup>\[泰州\]</sup> ⑥ 叫醒<sup>\[泰州\]</sup>：快点儿～他起来。<sup>\[泰州\]</sup>  
 1. 【[喊倒好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_do_ho.md#喊倒好)】`haen3 do5 ho3, haen5 do5 ho3` <sup>[如皋]</sup> 喝倒彩，这是对表演者的讽刺。  
