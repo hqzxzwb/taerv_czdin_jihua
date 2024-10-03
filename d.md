@@ -1545,6 +1545,7 @@
 1. 【[低声下气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/di_shen_xia_qi.md#低声下气)】`di1 shen1 xia6 qi5` ① 恭顺谨慎。<sup>\[如东\]</sup> ② 卑微恭顺，哀求别人<sup>\[东台\]</sup>：你越是～，他越不把你当人。<sup>\[东台\]</sup>  
 1. 【[低头不见抬头见](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/di_teu_beh_jin_tae_teu_jin.md#低头不见抬头见)】`di1 teu2 beh7 jin5 tae2 teu2 jin5` <sup>[东台]</sup> 经常打交道的人之间要和睦相处，不要伤了和气。  
 1. 【[低形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/di_xien.md#低形)】`di1 xien2` <small>/təi1 ɕin2/<sup>兴化</sup>, /t͡sɿ1 ɕiŋ2/<sup>泰县</sup></small> ① 低三下四的样子<sup>\[兴化\]</sup>：他在领导面前那个～难看煞咖。<sup>\[兴化\]</sup> ② 不自重的样子<sup>\[兴化\]</sup>：女伢儿放稳重点儿，不要一副～。<sup>\[兴化\]</sup> ③ 下流的样子。<sup>\[泰县\]</sup>  
+1. 【[呧咑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/di_da.md#呧咑)】`di1 da` ① 双方不停一问一答，谓人说话啰唆<sup>\[泰州\]</sup>：车子马上要开唻，你不要再同他～唻，让他上车吧。<sup>\[泰州\]</sup> ② 双方私下藕断丝连保持联系或交往<sup>\[泰州\]</sup>：大家都不同他～唻，只有你还在同他～。<sup>\[泰州\]</sup>  
 1. 【[呧咑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/di_da.md#呧咑)】`di1 da1` <sup>[兴化]</sup> ① （贬）交往：今后少和这种人～。 ② 啰唆、不爽快：“老儿～甚么，谁和你发课……有饭只管添将来就是。”（《西游记》二十） ③ 搭讪：你跟人家农村妇女～甚的？兴化词典做“嘀嗒”“滴答”。  
 1. 【[呧呧咑咑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/di_di_da_da.md#呧呧咑咑)】`di1 di1 da1 da1` <small>/təi1 təi1 ta1 ta1/<sup>兴化</sup>, /tʝ1 tʝ1 ta1 ta1/<sup>如皋</sup></small> ① 话音不断而讨厌。<sup>\[如皋\]</sup> ② 拉扯、啰唆<sup>\[兴化\]</sup>：听说这个人不怎吖正派，喜欢跟青年妇女～的。<sup>\[兴化\]</sup>  
 1. 【[啲啲咑咑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/di_di_da_da.md#啲啲咑咑)】`di2 di2 da2 da2` <sup>[如皋]</sup> 象声词。形容音尖快、嘹亮。  
@@ -1554,6 +1555,7 @@
 1. 【[底家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/di_ga.md#底家)】`di3 ga1` <sup>[如东]</sup> 玩耷子和，三人打牌，第三个人称底家。也称三家。  
 1. 【[底箍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/di_gv.md#底箍)】`di3 gv1` <sup>[如东]</sup> 木桶下部的圆箍，竹或铁、铜条制成，起收紧作用。  
 1. 【[底下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/di_ha.md#底下)】`di3 ha` <sup>[兴化]</sup> ① 下级、基层：这些问题全是～处理的。｜市长在～开现场会。 ② 迷信所指的阴间：在上头弄不过你，到～去总要告你的阴状。  
+1. 【[底下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/di_ha.md#底下)】`di3 ha` ① 在物体的下面<sup>\[泰州\]</sup>：电影票放吖在书～。<sup>\[泰州\]</sup> ② 下面，次序紧接上一个<sup>\[泰州\]</sup>：东西交把你，～就是你的事唻。<sup>\[泰州\]</sup> ③ 下级，下属<sup>\[泰州\]</sup>：你着啊弄，～要有意见的。<sup>\[泰州\]</sup>  
 1. 【[底下人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/di_ha_ren.md#底下人)】`di3 ha ren2` <sup>[兴化]</sup> ① 下级：这些小事交～处理就行吖。 ② 旧指仆役：我要把行李拿进去，门上的～不背……（《二十年目睹之怪现状》二）  
 1. 【[底下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/di_ha.md#底下)】`di3 ha6` <sup>[如皋]</sup> 之间，表示人际关系：爷儿～、师徒～。  
 1. 【[底花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/di_hua.md#底花)】`di3 hua1` <sup>[如皋]</sup> 秤朝下一面的秤星。  
@@ -1562,6 +1564,7 @@
 1. 【[底屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/di_oh.md#底屋)】`di3 oh7` <sup>[兴化]</sup> 正屋对面的房子。一般朝北、朝西。  
 1. 【[底盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/di_pun.md#底盘)】`di3 pun2` <sup>[兴化]</sup> 器物的底座。  
 1. 【[底气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/di_qi.md#底气)】`di3 qi5` <sup>[如皋]</sup> 积郁的怒气，常会引发：他今朝来的时候就有～，你再一闹，他就发咖火啦。  
+1. 【[底气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/di_qi.md#底气)】`di3 qi5` 女性下身气味。旧时男女青年定亲之前，媒人要向男方父母事先说明有无，如果隐瞒，男方有权退亲。亦有男方在定亲前，进行暗访有无以后再行决定。<sup>\[泰州\]</sup>  
 1. 【[底亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/di_qien.md#底亲)】`di3 qien1` <sup>[如皋]</sup> 指新结亲时原来就是亲戚。  
 1. 【[底情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/di_qien.md#底情)】`di3 qien2` <sup>[如皋]</sup> 内情、真情：摸下子他的～。  
 1. 【[底<sub>儿</sub>回](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/di_r_huei.md#底<sub>儿</sub>回)】`di3 r huei2` <sup>[如皋]</sup> 下一回。  
@@ -1569,8 +1572,10 @@
 1. 【[底瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/di_va.md#底瓦)】`di3 va3` <small>/tʝ3 ʋa3/<sup>如皋</sup></small> ① 瓦屋上瓦背朝下承水的瓦。也叫阴瓦、仰瓦。<sup>\[如东\]</sup> ② 屋面的底层承水汉瓦。凹面向上排列。<sup>\[如皋\]</sup>  
 1. 【[底细](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/di_xi.md#底细)】`di3 xi5` <small>/tʝ3 ɕʝ5/<sup>如皋</sup></small> ① 根源。<sup>\[如东\]</sup>：要弄清～。<sup>\[如东\]</sup> ② 内情。<sup>\[如东\]</sup> ③ 见“底情”。<sup>\[如皋\]</sup> ④ 事情的原委、内情。<sup>\[东台\]</sup>  
 1. 【[底子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/di_zz.md#底子)】`di3 zz` <small>/təi3 t͡sɿ/<sup>兴化</sup>, /tʝ3 t͡sɿ/<sup>如皋</sup></small> ① 基础<sup>\[如皋\]</sup>：家～、文化～。<sup>\[如皋\]</sup> ② 本来<sup>\[如皋\]</sup>：揭～、我家老～住啊东门外，事变后才进城的。<sup>\[如皋\]</sup> ③ 根本，出身<sup>\[兴化\]</sup>：他是秀才～。<sup>\[兴化\]</sup> ④ 家族的某些遗传病<sup>\[兴化\]</sup>：胡臊～；痨病～。<sup>\[兴化\]</sup>  
+1. 【[底子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/di_zz.md#底子)】`di3 zz` ① 底细，内情<sup>\[泰州\]</sup>：这家伙的～老王全清，他当先就因为腐化受过处分。<sup>\[泰州\]</sup> ② 某个家庭原有经济收入情况<sup>\[泰州\]</sup>：他家家里过去时大家人家，家里的～厚。<sup>\[泰州\]</sup>  
 1. 【[抵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/di.md#抵)】`di3` <sup>[如皋]</sup> 匹敌：他吩咐这吖做，我拿话～住他，他只好收回。  
 1. 【[抵款](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/di_kun.md#抵款)】`di3 kun3` <small>/təi3 kʰũ3/<sup>兴化</sup></small> ① 等着派用场，不可或缺<sup>\[东台\]</sup>：你下午一定要来，还～你办几件事唻！<sup>\[东台\]</sup> ② 指望<sup>\[兴化\]</sup>：他～家里寄钱买书。<sup>\[兴化\]</sup> ③ 守信<sup>\[兴化\]</sup>：他说话～。<sup>\[兴化\]</sup> ④ 有保证<sup>\[兴化\]</sup>：你这一去哿～能成功？<sup>\[兴化\]</sup>  
+1. 【[抵款](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/di_kun.md#抵款)】`di3 kun3` ① 以其他东西代替钱支付。<sup>\[泰州\]</sup> ② 指望某人帮助自己解决某个方面问题<sup>\[泰州\]</sup>：这吖重要的事安排他去做，他这种人不能～，不要误啊事唻。<sup>\[泰州\]</sup>｜我俫出去跑销售，特意把你留啊厂里，～你把生产抓抓好，哪晓得你弄得这种样子。<sup>\[泰州\]</sup>  
 1. 【[抵赖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/di_lae.md#抵赖)】`di3 lae6` <sup>[如皋]</sup> 不承认，赖账。  
 1. 【[抵命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/di_mien.md#抵命)】`di3 mien6` <sup>[如东]</sup> 偿命：打死人是要～的。  
 1. 【[抵敌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/di_tieh.md#抵敌)】`di3 tieh8` <sup>[如皋]</sup> 与别人相比，以争机益：你不要～他。他跟你就是不同。  

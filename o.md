@@ -18,11 +18,13 @@
 1. 【[屋山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_shaen.md#屋山)】`oh7 shaen1` <sup>[如东]</sup> 房屋的两边。  
 1. 【[屋山头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_shaen_teu.md#屋山头)】`oh7 shaen1 teu2` <sup>[兴化]</sup> 山墙和靠近山墙的地方：他在～栽啊两棵水杉。｜……望见泰伯祠的大殿，～倒了半边。（《儒林外史》五五）  
 1. 【[沃动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_ton.md#沃动)】`oh7 ton` <sup>[如东]</sup> 濛濛细雨密集地下着：外头的雨落咖～。  
+1. 【[䐥臭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_cheu.md#䐥臭)】`on1 cheu5` 很臭<sup>\[泰州\]</sup>：你几天不换袜子，～的。<sup>\[泰州\]</sup>  
 1. 【[嗡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_zz.md#嗡子)】`on1 zz` <sup>[兴化]</sup> 空竹：扯～（抖空竹）。  
 1. 【[翁柿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_shr.md#翁柿)】`on1 shr6` <sup>[如皋]</sup> 一种大柿子。  
 1. 【[翁媳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_xieh.md#翁媳)】`on1 xieh7` <sup>[如皋]</sup> 见“公媳”。  
 1. 【[横板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_baen.md#横板)】`on2 baen3` <sup>[如东]</sup> 帆船船头上的一块横板。  
 1. 【[横财](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_cae.md#横财)】`on2 cae2` <sup>[东台]</sup> 意外得来的巨额钱财。  
+1. 【[横财](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_cae.md#横财)】`on2 cae2` 非法或者侥幸获得的钱财<sup>\[泰州\]</sup>：他这次拆迁拿啊几百万，发咖笔～。<sup>\[泰州\]</sup>  
 1. 【[横叉舞棍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_cha_v_guen.md#横叉舞棍)】`on2 cha1 v3 guen5` <sup>[东台]</sup> 指搬放运或放置东西时比较毛糙，到处碰碰打打。也作“横枪舞棍”。  
 1. 【[横长竖大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_chan_shv_da.md#横长竖大)】`on2 chan2 shv6 da6` <sup>[兴化]</sup> ① 形容物体体积大，隔占地方：这张柜子～的，没处放。 ② 形容人身材高大：儿子～的朝面前一站，多威武啊！  
 1. 【[横档](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_dan.md#横档)】`on2 dan5` <sup>[如东]</sup> 门两头的横条木。  
@@ -40,12 +42,15 @@
 1. 【[横生倒养](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_shen_do_ian.md#横生倒养)】`on2 shen1 do5 ian3` <sup>[泰县]</sup> （禁忌语）不能生育：这个人家～，是个绝后代。  
 1. 【[横说横答，武说武答](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_shuh_on_daeh_v_shuh_v_daeh.md#横说横答，武说武答)】`on2 shuh7 on2 daeh7 v3 shuh7 v3 daeh7` <sup>[东台]</sup> 形容某人厉害，敢于较量，从不让步示弱。  
 1. 【[横竖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_shv.md#横竖)】`on2 shv6` <small>/ɔŋ2 su1/<sup>如皋</sup></small> ① 反正。<sup>\[如皋\]</sup> ② 反正。<sup>\[如东\]</sup>：～不行。<sup>\[如东\]</sup> ③ 反正，不管怎样<sup>\[东台\]</sup>：这个项目一二名都是中国人，金牌～是中国的。<sup>\[东台\]</sup>  
+1. 【[横竖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_shv.md#横竖)】`on2 shv6` 反正，不管怎样，无论如何都要<sup>\[泰州\]</sup>：你去不去都行，～是这回事。<sup>\[泰州\]</sup>  
 1. 【[横竖横](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_shv_on.md#横竖横)】`on2 shv6 on2` <small>/oŋ2 su6 oŋ2/<sup>兴化</sup></small> ① 无论如何。<sup>\[如东\]</sup>：～，我要拼到底。<sup>\[如东\]</sup> ② 反正如此，索性横下心来<sup>\[兴化\]</sup>：他把心一横，来个～，看大家怎吖对付自己。<sup>\[兴化\]</sup>  
 1. 【[横挑鼻子竖挑眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_tio_pieh_zz_shv_tio_ngaen.md#横挑鼻子竖挑眼)】`on2 tio1 pieh8 zz shv6 tio1 ngaen3` <sup>[东台]</sup> 比喻多方挑剔。  
 1. 【[横五六犟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_v_loh_qian.md#横五六犟)】`on2 v3 loh8 qian6` <sup>[兴化]</sup> 固执、顶牛，不服管教：这个小伙～的，一点不听话。  
 1. 【[横砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_zhun.md#横砖)】`on2 zhun1` <sup>[如皋]</sup> 砌墙时，砖阔面向上以长顺墙而砌。与“丁”砖相对。  
 1. 【[横子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_zz.md#横子)】`on2 zz` <sup>[如皋]</sup> 指杆秤。  
 1. 【[嗡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_zz.md#嗡子)】`on5 zz` <sup>[东台]</sup> 也叫二嗡子，即二胡。  
+1. 【[嗡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_zz.md#嗡子)】`on5 zz` 空竹<sup>\[泰州\]</sup>：扯～。<sup>\[泰州\]</sup>  
+1. 【[横吹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_chuei.md#横吹)】`on5 chuei1` ① （兴化作hon2）<sup>\[泰州\]</sup> ② 没有节制地瞎吹牛<sup>\[泰州\]</sup>：你不要听他～，根本不是这一回事。<sup>\[泰州\]</sup>  
 1. 【[瓮子缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_zz_gan.md#瓮子缸)】`on5 zz gan1` <sup>[如皋]</sup> 一种高帮、大口小底的釉缸。  
 1. 【[齆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on.md#齆)】`on5, ngon5` <sup>[如皋]</sup> ① 鼻塞时的发音：他伤风，说话鼻子有点儿～。 ② 软腭缺损者的发音。  
 1. 【[齆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on.md#齆)】`on5` <small>/oŋ5/<sup>兴化</sup>, /oŋ5/<sup>泰县</sup></small> ① 鼻子不通气声音嗡嗡 ② 因鼻塞而发音不清晰。《广韵·送韵》乌贡切：“～，鼻塞曰～”。<sup>\[兴化\]</sup>：他这几天感冒，说话～声～气的<sup>\[兴化\]</sup> ③ 鼻子不通气<sup>\[泰县\]</sup>：鼻孔都发咖～。（《广韵》去声送韵乌贡切：“鼻塞曰～”。）<sup>\[泰县\]</sup> ④ 鼻塞语音不清<sup>\[泰县\]</sup>：这个人鼻子发咖～。<sup>\[泰县\]</sup> ⑤ 鼻子不通气，发音不畅<sup>\[泰州\]</sup>：这两天感吖冒，说话声音有点～。<sup>\[泰州\]</sup>  

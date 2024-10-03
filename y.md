@@ -2,6 +2,7 @@
 **[A](./a.md) | [B](./b.md) | [C](./c.md) | [D](./d.md) | [E](./e.md) | [F](./f.md) | [G](./g.md) | [H](./h.md) | [I](./i.md) | [J](./j.md) | [K](./k.md) | [L](./l.md) | [M](./m.md) | [N](./n.md) | [O](./o.md) | [P](./p.md) | [Q](./q.md) | [R](./r.md) | [S](./s.md) | [T](./t.md) | [U](./u.md) | [V](./v.md) | [X](./x.md) | [Y](./y.md) | [Z](./z.md)**  
 ## Y
 1. 【[淤泥河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_ni_hu.md#淤泥河)】`y1 ni2 hu2` <sup>[东台]</sup> 东台城古地名（现中亚城市花园背后），相传唐太宗李世民曾在此遇险，马陷～。  
+1. 【[淤血/瘀血](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_xiuh.md#淤血/瘀血)】`y1 xiuh7` 瘀滞体内某个部位的血液。<sup>\[泰州\]</sup>  
 1. 【[瘀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y.md#瘀)】`y1` <sup>[泰州]</sup> 思维突然受到干扰后一时处于停滞状态：我刚才捱他打啊个岔，人就捱～住啊，到啊嘴边子的话，还就想不起来唻。｜我这一刻儿脑子～啊，繁体的马字是怎吖写的啊？  
 1. 【[迂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y.md#迂)】`y1` <small>/y1/<sup>兴化</sup></small> ① 性格迁腐、固执<sup>\[兴化\]</sup>：“表兄此论甚～。当今之世，讲甚天理……”（《梼杌闲评》三六）<sup>\[兴化\]</sup> ② 由于受强烈刺激而神经紊乱<sup>\[兴化\]</sup>：一个人愁狠了，神就乱了<sup>\[兴化\]</sup>｜神一乱，就～了，就糊了。（扬说《闯昭关》）也说“迂痰”。<sup>\[兴化\]</sup> ③ 迂腐，拘泥陈腐的规则，不切合实际<sup>\[泰州\]</sup>：你就不要～吧，现在带啊身上结婚的人太多啊。<sup>\[泰州\]</sup>｜这个人是个～夫子。<sup>\[泰州\]</sup> ④ 指人坚持原则，不受利诱<sup>\[泰州\]</sup>：他这个人～得狠，管你是甚的人，找他开后门是不可能的事。<sup>\[泰州\]</sup>  
 1. 【[迂而且赘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_er_qia_zhuei.md#迂而且赘)】`y1 er2 qia3 zhuei5` <sup>[兴化]</sup> 迂腐而又啰唆：“笑话了，也不是买货，还要定准。好，你这个人～哎……”（《武松》六）  
@@ -10,6 +11,7 @@
 1. 【[迂痰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_taen.md#迂痰)】`y1 taen2` <sup>[兴化]</sup> 见“迂”。  
 1. 【[余](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y.md#余)】`y2` <sup>[泰州]</sup> 积攒（钱钞、物品等）：太太～啊不少布头子，妈妈把它俫拼吖一条被面单子。｜他上小学就开始～邮票唻。｜你把压岁钱～起来，留啊开学交学费。｜他这几年～啊不少钱。  
 1. 【[余多滞少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_du_chr_sho.md#余多滞少)】`y2 du1 chr5 sho3` <sup>[兴化]</sup> 指挑拣后剩下的：这筐苹果由你们先拿，～全把我。  
+1. 【[余钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_qin.md#余钱)】`y2 qin2` 攒钱<sup>\[泰州\]</sup>：老两口儿拼命～，准备同儿子买房子。<sup>\[泰州\]</sup>  
 1. 【[余外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_vae.md#余外)】`y2 vae6` <sup>[兴化]</sup> 除此之外：“上头除掉姑老爷，就是于舅太爷一位，～的人都越不过我的头去。”（《官场现形记》五九）  
 1. 【[余蓄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_xioh.md#余蓄)】`y2 xioh7` <sup>[兴化]</sup> 积存的钱财：老恒财家手底好，除了放债，做粮行的资金外，还有～……（马春阳《陈大年一家人》）》  
 1. 【[围袈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_ga_r.md#围袈<sub>儿</sub>)】`y2 ga1 r` <small>/y2 ka˞1/<sup>如皋</sup></small> ① 系在胸前、腰部的护脏布。<sup>\[如皋\]</sup> ② 小孩用的围嘴。<sup>\[如皋\]</sup>  
@@ -43,8 +45,10 @@
 1. 【[鱼斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_deu.md#鱼斗)】`y2 deu3` <sup>[如东]</sup> 房屋骑木下边的方形木料。有的雕花。  
 1. 【[鱼到啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_do_a.md#鱼到啊)】`y2 do5 a` <sup>[东台]</sup> 喜宴习俗。主莱上完以后，由一位师傅手捧一盘鱼，高声吆喝“～”，客人齐声应和“鱼存”，既暗示“鱼到酒止”，又用以祝愿主人“年年有余”。  
 1. 【[鱼冻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_don.md#鱼冻)】`y2 don5` <small>/y2 toŋ5/<sup>兴化</sup>, /y2 tɔŋ5/<sup>如皋</sup></small> ① 鱼汤结成的胶冻。<sup>\[如皋\]</sup> ② 鱼煮熟后，汁液在低温下凝结成乳状。<sup>\[如东\]</sup> ③ 红烧鱼的汤汁凝结而成的胶状物。<sup>\[兴化\]</sup>  
+1. 【[鱼冻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_don.md#鱼冻)】`y2 don5` 鱼汤凝固成固态胶体，冬季佳肴之一。<sup>\[泰州\]</sup>  
 1. 【[鱼簖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_dun.md#鱼簖)】`y2 dun5` <sup>[如皋]</sup> 大河上定点捕鱼虾蟹的拦河栅，及大扳罾等设施。  
 1. 【[鱼肚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_dv.md#鱼肚)】`y2 dv3` <sup>[如东]</sup> 鱼鳔。  
+1. 【[鱼肚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_dv.md#鱼肚)】`y2 dv3` 用鲟、鲵鱼鳔制成的食物，高档海味之一。<sup>\[泰州\]</sup>  
 1. 【[鱼放吖在坞子里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_fan_nga_cae_v_zz_lii.md#鱼放吖在坞子里)】`y2 fan5 nga cae6 v5 zz lii` <sup>[东台]</sup> 把鱼捉到了篓子里。［喻］十拿九稳，成功的把握很大。  
 1. 【[鱼浮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_fv_zz.md#鱼浮子)】`y2 fv2 zz` <sup>[如皋]</sup> 钓鱼线上的浮标，常用鹅、鸭毛莛儿制成。  
 1. 【[鱼腐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_fv.md#鱼腐)】`y2 fv3` <sup>[如皋]</sup> 鱼之肉剁成的糜。见“鱼圆”。  
@@ -135,6 +139,7 @@
 1. 【[纬纱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_sha.md#纬纱)】`y6 sha1` <sup>[如皋]</sup> 纬纱。  
 1. 【[芋草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_co.md#芋草)】`y6 co3` <small>/y1 t͡sʰɔ3/<sup>如皋</sup></small> ① 榨油时称狼尾草。<sup>\[如皋\]</sup> ② 草本植物，叶细长，呈丛生状态，也称芋科桩儿，农村常用作土地分界物，叶枯黄后用于搓绳，扎粽子。<sup>\[东台\]</sup>  
 1. 【[芋苗籽<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_mio_zz_r.md#芋苗籽<sub>儿</sub>)】`y6 mio2 zz3 r` <sup>[东台]</sup> 芋头籽粒，比龙头芋（大芋头）嫩、软，可口，富含淀粉，炒菜、烧汤皆可。  
+1. 【[芋头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_teu.md#芋头)】`y6 teu` 芋的地下球形块茎。<sup>\[泰州\]</sup>  
 1. 【[芋头浮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_teu_fv_zz.md#芋头浮子)】`y6 teu fv2 zz` <sup>[如皋]</sup> 芋的叶和叶柄。水浮于叶面，不沾水，战名。  
 1. 【[芋头花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_teu_hua.md#芋头花)】`y6 teu hua1` <sup>[如皋]</sup> 香塘芋的花色浓黄、浓香、形似藕。  
 1. 【[芋头盒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_teu_huh_zz.md#芋头盒子)】`y6 teu huh8 zz` <sup>[东台]</sup> 芋头硕大的叶子。  
@@ -149,6 +154,7 @@
 1. 【[遇<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_r.md#遇<sub>儿</sub>)】`y6 r` <sup>[如东]</sup> 逢喜日或喜事怀孕的孩子。  
 1. 【[遇事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_shr.md#遇事)】`y6 shr6` <small>/y6 sɿ6/<sup>兴化</sup>, /y1 sɿ1/<sup>如皋</sup></small> ① 相处、往来、共事<sup>\[如皋\]</sup>：这人好～。<sup>\[如皋\]</sup> ② 共事<sup>\[兴化\]</sup>：他比不得黄三太，跟他～，要入神。（扬一《杨香武一盗九龙杯》）<sup>\[兴化\]</sup>  
 1. 【[遇头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_teu.md#遇头)】`y6 teu2` <small>/y6 tʰɤ2/<sup>兴化</sup>, /y1 tʰei2/<sup>如皋</sup></small> ① 相遇。<sup>\[如皋\]</sup> ② 会面、会见<sup>\[兴化\]</sup>：我俫约好，明朝早上在车站～。<sup>\[兴化\]</sup>  
+1. 【[预办](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_baen.md#预办)】`y6 baen` ① 事先做好物质准备<sup>\[泰州\]</sup>：上学要用的东西老早～好啊唻。<sup>\[泰州\]</sup> ② 做好思想准备<sup>\[泰州\]</sup>：今年子～他考不上，复读的学堂都找啊好啊唻。<sup>\[泰州\]</sup>｜晓得他得咖这种病后，我俫就～花两个钱。<sup>\[泰州\]</sup>  
 1. 【[预早](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_zo.md#预早)】`y6 zo3` <small>/y6 t͡sɔ3/<sup>兴化</sup>, /y1 t͡sɔ3/<sup>如皋</sup></small> ① 预先，事先。<sup>\[如皋\]</sup> ② 预先，在事情发生或进行之前<sup>\[兴化\]</sup>：开学之前，～儿把伢儿的学费准备齐。<sup>\[兴化\]</sup>  
 1. 【[驭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y.md#驭)】`y6` <sup>[如皋]</sup> 令马停止的吆喝声。  
 1. 【[曰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/ya.md#曰)】`ya1` <small>/ya1/<sup>兴化</sup></small> ① 说<sup>\[东台\]</sup>：人不能“当面说好话，背后念子～”。<sup>\[东台\]</sup> ② 叫做<sup>\[东台\]</sup>：台城南50华里，有镇～富安。<sup>\[东台\]</sup> ③ “说”的隐语<sup>\[兴化\]</sup>：止～；不～；跟他～啊子。<sup>\[兴化\]</sup>  

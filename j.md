@@ -1,6 +1,7 @@
 # 音序检索
 **[A](./a.md) | [B](./b.md) | [C](./c.md) | [D](./d.md) | [E](./e.md) | [F](./f.md) | [G](./g.md) | [H](./h.md) | [I](./i.md) | [J](./j.md) | [K](./k.md) | [L](./l.md) | [M](./m.md) | [N](./n.md) | [O](./o.md) | [P](./p.md) | [Q](./q.md) | [R](./r.md) | [S](./s.md) | [T](./t.md) | [U](./u.md) | [V](./v.md) | [X](./x.md) | [Y](./y.md) | [Z](./z.md)**  
 ## J
+1. 【[䤒花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_hua.md#䤒花)】`ji1 hua` 在盐卤、酱油之类盐分多的液体表面生长出的白色霉块。<sup>\[泰州\]</sup>  
 1. 【[䤒花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_hua.md#䤒花)】`ji1 hua1` <small>/t͡ɕi1 xua1/<sup>兴化</sup>, /t͡ɕʝ1 xua1/<sup>如皋</sup>, /t͡sɿ1 xua1/<sup>泰县</sup></small> 白醭，酒、酱油、醋、咸菜卤等溶液表面生长的一种白色霉菌。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup>  
 1. 【[乩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#乩)】`ji1` <sup>[东台]</sup> 一种迷信方法。由二人扶一丁字形的木架竖在沙盘上，所谓神降临时会执木架画字，为人决疑治病，预示吉凶。  
 1. 【[几几乎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ji_hv.md#几几乎)】`ji1 ji1 hv1` <sup>[如皋]</sup> 只差一点点：他～捱汽车轧咖。又作“差点儿”、“实险儿”。  
@@ -45,6 +46,7 @@
 1. 【[讥人富贵笑人贫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ren_fv_guei_xio_ren_pien.md#讥人富贵笑人贫)】`ji1 ren2 fv5 guei5 xio5 ren2 pien2` <sup>[东台]</sup> （俗语）一种小市民心理。别人无论富贵还是贫穷，他都讥笑，既仇富，又嫌贫。  
 1. 【[饥饥瑟瑟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ji_seh_seh.md#饥饥瑟瑟)】`ji1 ji1 seh7 seh7` <sup>[如皋]</sup> 困窘态，寒酸样。  
 1. 【[鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#鸡)】`ji1` <sup>[如东]</sup> 雉科动物家鸡。  
+1. 【[鸡巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ba.md#鸡巴)】`ji1 ba` ① 男性阴茎。<sup>\[泰州\]</sup> ② 詈语，表示极度轻蔑，用以发泄内心不满情绪<sup>\[泰州\]</sup>：他迟到不迟到关你～的是啊，要你嘴作淡来说咖？<sup>\[泰州\]</sup>  
 1. 【[鸡巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ba.md#鸡巴)】`ji1 ba1` <sup>[东台]</sup> 又作“𣬠𣬶”“屌子”，男性阴茎的俗称。  
 1. 【[鸡肫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_den_zz.md#鸡肫子)】`ji1 den1 zz` <sup>[如东]</sup> 鸡胃。  
 1. 【[鸡膯蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_den_taen.md#鸡膯蛋)】`ji1 den1 taen6` <sup>[如皋]</sup> 鸡的嗉囊，即食袋。  
@@ -57,6 +59,7 @@
 1. 【[鸡冠头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_gun_teu.md#鸡冠头)】`ji1 gun1 teu2` <sup>[如皋]</sup> 见“鸡头菱”。  
 1. 【[鸡一嘴鸭一嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ieh_jy_ngaeh_ieh_jy.md#鸡一嘴鸭一嘴)】`ji1 ieh7 jy3 ngaeh7 ieh7 jy3` <sup>[东台]</sup> ［喻］你说几句他说几句，不知道该听谁的好。  
 1. 【[鸡鸡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ji_r.md#鸡鸡<sub>儿</sub>)】`ji1 ji1 r` <sup>[泰县]</sup> 一点点：这个蛋～大。  
+1. 【[鸡奸/㚻奸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_jiaen.md#鸡奸/㚻奸)】`ji1 jiaen1` 男子之间发生性行为。<sup>\[泰州\]</sup>  
 1. 【[鸡脚菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_jiah_cae.md#鸡脚菜)】`ji1 jiah7 cae5` <sup>[如皋]</sup> 石花菜。  
 1. 【[鸡脚糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_jiah_tan.md#鸡脚糖)】`ji1 jiah7 tan2` <sup>[如皋]</sup> 衬金糖。  
 1. 【[鸡脚藤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_jiah_ten.md#鸡脚藤)】`ji1 jiah7 ten2` <sup>[东台]</sup> 野生攀援草本植物，因叶像鸡脚故名，学名海金沙草。可作药草、猪草。  
@@ -78,6 +81,7 @@
 1. 【[鸡皮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_pi_zz.md#鸡皮子)】`ji1 pi2 zz` <sup>[如皋]</sup> 人的皮肤因寒冷或紧张而收缩，像鸡皮似的有许多小凸起：他颈项里抻起～来啊。  
 1. 【[鸡皮子只抻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_pi_zz_zheh_shen.md#鸡皮子只抻)】`ji1 pi2 zz zheh7 shen5` <sup>[如皋]</sup> 觉得寒冷或害怕时，皮肤上一阵一阵地起一片片小疙瘩。  
 1. 【[鸡屁股牵绳子——扯蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_pi_gu_qin_shen_zz_cha_taen.md#鸡屁股牵绳子——扯蛋)】`ji1 pi5 gu qin1 shen2 zz cha3 taen6` <sup>[东台]</sup>   
+1. 【[鸡脯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_pv.md#鸡脯)】`ji1 pv3` 鸡胸肉。<sup>\[泰州\]</sup>  
 1. 【[鸡<sub>儿</sub>雄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_r_xion.md#鸡<sub>儿</sub>雄)】`ji1 r xion2` <sup>[如皋]</sup> ① 鸡交尾。 ② 鸡奸。  
 1. 【[鸡声鸭斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_shen_ngaeh_deu.md#鸡声鸭斗)】`ji1 shen1 ngaeh7 deu5` <sup>[泰县]</sup> 吵架：他家经常～的。  
 1. 【[鸡生鸭熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_shen_ngaeh_shoh.md#鸡生鸭熟)】`ji1 shen1 ngaeh7 shoh8` <sup>[如皋]</sup> 俗语。不相熟的鸡相遇则争斗，不相熟的鸭相遇则合群。  
@@ -105,6 +109,7 @@
 1. 【[麂毛草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_mo_co.md#麂毛草)】`ji1 mo2 co3` <sup>[如东]</sup> 草本植物，丛生，叶细长，似猪毛。  
 1. 【[齑菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_cae.md#齑菜)】`ji1 cae5` <small>/t͡ɕi1 t͡sʰɛ5/<sup>兴化</sup></small> ① 见“酸齑菜”。“齑”古籍用“虀”，现也用“𪊆”。<sup>\[东台\]</sup> ② 小青菜用热水烫后发酵，色青黄，味微酸，可用米烧汤<sup>\[兴化\]</sup>：～散花坨子（肉圆）。<sup>\[兴化\]</sup>  
 1. 【[齑糟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zo.md#齑糟)】`ji1 zo` <sup>[泰兴]</sup> 焦虑，心神不宁  
+1. 【[齑糟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zo.md#齑糟)】`ji1 zo1` 因琐碎小事而处于焦虑状态<sup>\[泰州\]</sup>：他就是个～人，一点儿小事，他有泡的作阴躁唻。<sup>\[泰州\]</sup>｜她这个人～啊不得命，大事小事都要操心。<sup>\[泰州\]</sup>  
 1. 【[𨳻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#𨳻)】`ji1` ① 门臼。 ② 拧着转  
 1. 【[几](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#几)】`ji3` <sup>[如皋]</sup> 条几、香几等的通称。  
 1. 【[几下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ha.md#几下)】`ji3 ha6` <sup>[东台]</sup> 几个地方。“下”相当于量词“处”。  
@@ -131,6 +136,7 @@
 1. 【[挤牙膏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_nga_go.md#挤牙膏)】`ji3 nga2 go1` <sup>[东台]</sup> ［喻］指不能痛痛快快地把所有的内心话都讲出来。  
 1. 【[挤矮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ngae_zz.md#挤矮子)】`ji3 ngae3 zz` <small>/t͡ɕʝ3 ŋɛ3 t͡sɿ/<sup>如皋</sup></small> ① 互相数说对方的短处。<sup>\[如东\]</sup>：你俫不要～。<sup>\[如东\]</sup> ② 游戏名。冬天，孩子们靠墙互挤取暖。<sup>\[如皋\]</sup> ③ 攀比，不许退缩<sup>\[如皋\]</sup>：我要尽义务，他也要尽义务。一定要同他～。<sup>\[如皋\]</sup>  
 1. 【[挤眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ngaen.md#挤眼)】`ji3 ngaen3` <sup>[兴化]</sup> ① 眨眼：他眼睛里揉进灰尘，不住的～。 ② 用眼色示意：他向我～，叫我少开口。  
+1. 【[挤眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ngaen.md#挤眼)】`ji3 ngaen3` 使劲攒聚眼光或者转动眼球向人示意<sup>\[泰州\]</sup>：你不要同我～，该说的话我是要说掉的。<sup>\[泰州\]</sup>  
 1. 【[挤眼睛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ngaen_jien.md#挤眼睛)】`ji3 ngaen3 jien1` <sup>[如东]</sup> 眼睛不停地开合，偷偷地向对方传送信息，打招呼。  
 1. 【[挤七轧八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_qieh_kaeh_baeh.md#挤七轧八)】`ji3 qieh7 kaeh8 baeh7` <sup>[如东]</sup> 拥挤不堪：人多，～的，进不去。  
 1. 【[挤人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ren_zz.md#挤人子)】`ji3 ren zz` <sup>[如皋]</sup> 被挤得难受。  
@@ -164,19 +170,23 @@
 1. 【[虮䗜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_lieu_r.md#虮䗜<sub>儿</sub>)】`ji5 lieu2 r` <sup>[泰县]</sup> 蝉的一种。  
 1. 【[记不住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_beh_chv.md#记不住)】`ji5 beh7 chv6` <sup>[如皋]</sup> 不能记住，老是忘掉。  
 1. 【[记才](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_cae.md#记才)】`ji5 cae` <small>/t͡ɕi5 t͡sʰɛ/<sup>兴化</sup>, /t͡ɕʝ5 t͡sʰɛ/<sup>如皋</sup>, /t͡ɕʝ5 t͡ɕʰiɛ/<sup>泰兴</sup>, /t͡sɿ5 t͡sʰe/<sup>泰县</sup></small> 记性，记忆的能力<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup>：～好｜有～  
+1. 【[记才](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_cae.md#记才)】`ji5 cae` 记忆才能，记忆力<sup>\[泰州\]</sup>：你家妈妈的岁数大啊唻，～不行唻。<sup>\[泰州\]</sup>｜你家小伙的～好，学堂里的先生说他是块学历史的好料子。<sup>\[泰州\]</sup>  
 1. 【[记仇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_cheu.md#记仇)】`ji5 cheu2` <sup>[如东]</sup> 记住已经发生的不满或仇恨。  
 1. 【[记得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_deh.md#记得)】`ji5 deh7` <sup>[如东]</sup> 没有忘记。  
 1. 【[记得住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_deh_chv.md#记得住)】`ji5 deh7 chv6` <sup>[如皋]</sup> 能记住，不忘记。  
 1. 【[记家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ga.md#记家)】`ji5 ga1` 想家  
 1. 【[记挂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_gua.md#记挂)】`ji5 gua5` <small>/t͡ɕi5 kua5/<sup>兴化</sup></small> ① 惦记 ② 心中记念。<sup>\[如东\]</sup> ③ 惦记、挂念<sup>\[兴化\]</sup>：你在外安心工作，不要～家里。<sup>\[兴化\]</sup>  
+1. 【[记挂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_gua.md#记挂)】`ji5 gua5` 牵挂，挂念<sup>\[泰州\]</sup>：这件事，他一直～啊在心里。<sup>\[泰州\]</sup>  
 1. 【[记恨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_hen.md#记恨)】`ji5 hen6` <sup>[如东]</sup> 记仇：～在心。  
 1. 【[记恨心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_hen_xien.md#记恨心)】`ji5 hen6 xien1` <sup>[兴化]</sup> 把仇恨记在心里：这个人～强，哪个得罪他非报复不可。  
 1. 【[记后心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_heu_xien.md#记后心)】`ji5 heu6 xien1` <sup>[如皋]</sup> 记恨心态：他没得～，说掉就算，还是一样的同你好。  
+1. 【[记号](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ho.md#记号)】`ji5 ho6` 为引起注意、帮助识别、记忆而做的标志<sup>\[泰州\]</sup>：他在书上看不懂的地方都做啊～。<sup>\[泰州\]</sup>  
 1. 【[记怀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_huae.md#记怀)】`ji5 huae2` <sup>[如东]</sup> 记在心中。  
 1. 【[记认](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ren.md#记认)】`ji5 ren6` <sup>[兴化]</sup> 记住便于识别的标志：这一片家家房子差不多，不好～。  
 1. 【[记识](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_sheh.md#记识)】`ji5 sheh7` <small>/t͡ɕʝ5 səʔ7/<sup>如皋</sup></small> ① 记号，标志，标记 ② 记号、印记<sup>\[如皋\]</sup>：这只碗是我家的，这里有块～。<sup>\[如皋\]</sup>  
 1. 【[记性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_xien.md#记性)】`ji5 xien5` <small>/t͡ɕʝ5 ɕiəŋ5/<sup>如皋</sup></small> ① 记忆能力。<sup>\[如东\]</sup>：～好。<sup>\[如东\]</sup> ② 记忆力。<sup>\[如皋\]</sup>  
 1. 【[记憎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zen.md#记憎)】`ji5 zen` <small>/t͡ɕi5 t͡sən/<sup>兴化</sup>, /t͡sɿ5 t͡səŋ/<sup>泰县</sup></small> ① 把别人的不是处记在心中<sup>\[兴化\]</sup>：大舅不是有意为难你，你覅～他。<sup>\[兴化\]</sup> ② 记仇<sup>\[泰县\]</sup>：这件事你不必～。<sup>\[泰县\]</sup>  
+1. 【[记憎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zen.md#记憎)】`ji5 zen` 记仇<sup>\[泰州\]</sup>：老吴就这高头好，随便怎吖吵，事情过啊就拉倒，不～人。<sup>\[泰州\]</sup>｜他就是这种人，你今吖得罪啊他，有得～你唻。<sup>\[泰州\]</sup>  
 1. 【[记争](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zhen.md#记争)】`ji5 zhen` <sup>[如皋]</sup> 记怀，不满：你不要～他，他不懂事。  
 1. 【[鬾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#鬾)】`ji5` <sup>[如皋]</sup> 母孕致儿体弱多病。  
 1. 【[鬾饱子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_bo_zz.md#鬾饱子)】`ji5 bo3 zz` <sup>[如东]</sup> 小儿因为贪食而产生厌食、消瘦疾病。  
@@ -459,6 +469,7 @@
 1. 【[脚爪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_zhua_zz.md#脚爪子)】`jiah7 zhua3 zz` <sup>[如皋]</sup> ① 动物的足部：鸡～会搜（seu2）。 ② 专指猪蹄儿。  
 1. 【[脚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_zz.md#脚子)】`jiah7 zz` <small>/t͡ɕiaʔ7 t͡sɿ/<sup>兴化</sup>, /t͡ɕiaʔ7 t͡sɿ/<sup>如皋</sup>, /t͡ɕiɑʔ7 t͡sɿ/<sup>泰兴</sup>, /t͡ɕiɑʔ7 t͡se/<sup>泰县</sup></small> ① 沉淀物。<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup><sup>\[如皋\]</sup><sup>\[泰州\]</sup>：水缸里有不少～。<sup>\[如东\]</sup>｜缸～<sup>\[兴化\]</sup>｜油～。<sup>\[兴化\]</sup>｜你把杯子里头的茶叶～倒掉。<sup>\[泰州\]</sup> ② 残渣。<sup>\[如东\]</sup><sup>\[泰县\]</sup>：还剩下一点儿～。<sup>\[如东\]</sup>｜茶叶～。<sup>\[泰县\]</sup> ③ ［喻］质量最差的部分，下脚，脚料<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[如皋\]</sup>\[泰州：经过挑选剩下的\]：拣到最后的～只好贱卖。<sup>\[兴化\]</sup>｜好菜都卖掉啊唻，就剩吖这点儿～，随便你把几个钱。<sup>\[泰州\]</sup>｜锅里就滞啊这点儿～。<sup>\[泰州\]</sup>  
 1. 【[脚子货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_zz_hu.md#脚子货)】`jiah7 zz hu5` <sup>[兴化]</sup> 挑剩或卖剩的东西。  
+1. 【[雀斑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_baen.md#雀斑)】`jiah7 baen1` 面部生的黑褐色或黄褐色斑点。<sup>\[泰州\]</sup>  
 1. 【[雀脸斑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_lin_baen.md#雀脸斑)】`jiah7 lin3 baen1` <small>/t͡ɕiaʔ7 liɪ̃3 pɛ̃1/<sup>兴化</sup></small> ① 又叫“雀卵斑”，面部的褐色小斑点，像喜鹊蛋上的斑纹。<sup>\[东台\]</sup> ② 雀斑。也称“雀儿斑”。<sup>\[兴化\]</sup>  
 1. 【[雀卵斑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_lun_baen.md#雀卵斑)】`jiah7 lun3 baen1` <sup>[东台]</sup> 见“雀脸斑”。  
 1. 【[雀盲眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_man_ngaen.md#雀盲眼)】`jiah7 man2 ngaen3` <sup>[兴化]</sup> ① 夜盲症。 ② 夜盲症患者：他是个～。  
