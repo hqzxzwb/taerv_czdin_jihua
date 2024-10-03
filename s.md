@@ -1392,7 +1392,7 @@
 1. 【[身子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_zz.md#身子)】`shen1 zz` <sup>[如皋]</sup> 见“身”。  
 1. 【[身子重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_zz_chon.md#身子重)】`shen1 zz chon6` <sup>[东台]</sup> 意思是某人懒惰：人勤快一点好，～的人别人不喜欢。  
 1. 【[身子骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_zz_gueh.md#身子骨)】`shen1 zz gueh7` <sup>[兴化]</sup> 体格：他虽是七十多岁的人，～还蛮硬铮的。  
-1. 【[甚的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_nii.md#甚的)】`shen2 nii` <small>/sən2 ləi/<sup>兴化</sup>, /səŋ2 nei/<sup>如皋</sup>, /səŋ2 niɪ/<sup>泰县</sup></small> ① 什么。表疑问、反诘：你说～啊？你骂～人吖！你摆～臭架子啊！<sup>\[如皋\]</sup> ② 什么。<sup>\[如东\]</sup>：这个是～东西？<sup>\[如东\]</sup> ③ 疑问代词，相当于“什么”<sup>\[兴化\]</sup>：～人<sup>\[兴化\]</sup>｜～事<sup>\[兴化\]</sup>｜吃～｜做～。<sup>\[兴化\]</sup> ④ 什么：这个是～？<sup>\[泰县\]</sup>  
+1. 【[甚的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_nii.md#甚的)】`shen2 nii` <small>/sən2 ləi/<sup>兴化</sup>, /səŋ2 nei/<sup>如皋</sup>, /səŋ2 niɪ/<sup>泰县</sup></small> 什么。<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup>\[如皋：表疑问、反诘\]\[泰州：（又 shen3 nii）\]：你说～啊？你骂～人吖！你摆～臭架子啊！<sup>\[如皋\]</sup>｜这个是～东西？<sup>\[如东\]</sup>｜～人<sup>\[兴化\]</sup>｜～事<sup>\[兴化\]</sup>｜吃～、做～。<sup>\[兴化\]</sup>｜这个是～？<sup>\[泰县\]</sup>  
 1. 【[甚的把调](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_nii_ba_dio.md#甚的把调)】`shen2 nii ba3 dio5` <small>/səŋ2 niɪ pa3 tiɔ5/<sup>泰县</sup></small> ① 什么说法，什么做法。<sup>\[如东\]</sup>：你看他唱的是～。<sup>\[如东\]</sup> ② 什么样子。<sup>\[泰县\]</sup>  
 1. 【[甚的把戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_nii_ba_xi.md#甚的把戏)】`shen2 nii ba3 xi5` <sup>[如东]</sup> 什么花招，什么名堂：你看他耍的是～！  
 1. 【[甚的辰光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_nii_chen_guan.md#甚的辰光)】`shen2 nii chen2 guan` <sup>[如皋]</sup> 什么时候。  
@@ -1825,7 +1825,6 @@
 1. 【[梢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho.md#梢)】`sho1` <sup>[泰州]</sup> 蹬：晚上同他睏一个被单，腰上捱他～啊一脚。｜这个泼妇望地下一仰，两条腿子直～唻。  
 1. 【[梢把<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_ba_r.md#梢把<sub>儿</sub>)】`sho1 ba3 r` <sup>[如东]</sup> 装在犁梢上的木柄。  
 1. 【[梢瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_gua.md#梢瓜)】`sho1 gua1` <small>/sɔ1 kua1/<sup>兴化</sup></small> ① 菜瓜。见《本草纲目》。<sup>\[东台\]</sup> ② 即越瓜、葫芦科，为甜瓜的一个变种。瓠果圆筒形，较长，前端略粗，表面有瓦垄般隆起的条痕。瓜成熟后可生吃、凉拌菜，但主要用作腌菜或酱菜。<sup>\[兴化\]</sup>  
-1. 【[梢脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho1-_jiah.md#梢脚)】`sho1-3 jiah7` 被顾客挑拣以后，最后剩下来的货物<sup>\[泰州\]</sup>：菜都卖啊差不多啊，就剩吖这点儿～，便宜点儿卖把你吧。<sup>\[泰州\]</sup>  
 1. 【[梢身大汉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_shen_da_hun.md#梢身大汉)】`sho1 shen1 da6 hun5` <sup>[如东]</sup> 形容人的身体高大：他是个～，还怕你啊！  
 1. 【[梢袋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_tae.md#梢袋)】`sho1 tae6` <sup>[如东]</sup> 鱼网的尾，形状像袋，所以叫做梢袋。  
 1. 【[烧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho.md#烧)】`sho1` ① 使东西着火。<sup>\[如东\]</sup>：草堆～起来啊。<sup>\[如东\]</sup> ② 一种烹调方法。把菜肴放在锅中炒熟或煮熟。<sup>\[如东\]</sup> ③ 焚烧纸钱祭祀亲人<sup>\[泰州\]</sup>：他家信基督，清明这天不～。<sup>\[泰州\]</sup>  
@@ -2889,7 +2888,7 @@
 1. 【[嫂子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_zz.md#嫂子)】`so3 zz` <sup>[如东]</sup> 哥哥的妻子。  
 1. 【[扫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so.md#扫)】`so3` <sup>[如东]</sup> ① 清除废物：～地。 ② 观看：用眼光～啊下子。  
 1. 【[扫房基](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_fan_ji.md#扫房基)】`so3 fan2 ji1` <sup>[如东]</sup> 一种民间风俗。建造新房时，要先打扫房基墩儿。凌晨，家主光着身子，用新扫帚打扫地面，口中说：“一扫帚扫去无数穷鬼，万把钩搭起五路财神。”  
-1. 【[扫脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_jiah.md#扫脚)】`so3 jiah7` <sup>[东台]</sup> 最后扫尾的产品或商品：秋后田里只剩吖几个～瓜。  
+1. 【[扫脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_jiah.md#扫脚)】`so3 jiah7` ① 最后扫尾的产品或商品<sup>\[东台\]</sup>：秋后田里只剩吖几个～瓜。<sup>\[东台\]</sup> ② 被顾客挑拣以后，最后剩下来的货物<sup>\[泰州\]</sup>：菜都卖啊差不多啊，就剩吖这点儿～，便宜点儿卖把你吧。<sup>\[泰州\]</sup>  
 1. 【[扫债](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_zhae.md#扫债)】`so3 zhae5` <sup>[东台]</sup> 在子女心目中总感到自己欠父母的债，要感恩报恩，不停地扫除债务。东台人常用此词赞扬那些自立自强、克勤克俭、懂事明理、孝敬长辈的年轻人。（也作“少债”、“少欠别人”）  
 1. 【[扫帚草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_zheu_co.md#扫帚草)】`so3 zheu3 co3` <sup>[如皋]</sup> 地肤。  
 1. 【[扫帚星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_zheu_xien.md#扫帚星)】`so3 zheu3 xien1` <small>/sɔ3 t͡sei3 ɕiəŋ1/<sup>如皋</sup></small> ① 认为是命运不好的女人，会给家庭带来灾难。<sup>\[如皋\]</sup> ② 彗星，绕着太阳旋转的星，背着太阳的一面拖着一条扫帚状的长尾巴。旧时喻指为给家庭带来不吉利的妇女。<sup>\[东台\]</sup>  

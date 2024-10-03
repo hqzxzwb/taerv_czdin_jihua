@@ -472,7 +472,7 @@
 1. 【[夏至](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_zhr.md#夏至)】`xia6 zhr5` 二十四节气之一。通常在6月21或22日。  
 1. 【[夏至草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_zhr_co.md#夏至草)】`xia6 zhr5 co3` <sup>[如东]</sup> 唇形科植物夏至草，多年生直立草本。高约60厘米。茎方形，被有倒生细毛。叶掌状，3全裂，裂片有钝锯齿或小裂，两面均密生细毛。花冠白色，钟状。小坚果褐色，长圆状，三棱形。生长在水边、路旁。棉蚜等害虫常寄生在这种草上过冬。  
 1. 【[些些<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_xia_r.md#些些<sub>儿</sub>)】`xia9 xia1-3 r` <sup>[如皋]</sup> ① 很少：剩吖～。 ② 可能性很小：报告可以送，等批复就～咾。  
-1. 【[辖住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaeh8-_chv.md#辖住)】`xiaeh8-7 chv` ① （泰州词典作挟）<sup>\[泰州\]</sup> ② 倚仗权势或者抓住他人弱点强迫他人做某事<sup>\[泰州\]</sup>：他家老子～他同厂长赔礼打招呼。<sup>\[泰州\]</sup>  
+1. 【[辖住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaeh_chv.md#辖住)】`xiaeh8 chv` 倚仗权势或者抓住他人弱点强迫他人做某事\[泰州：（泰州词典作挟）\]：他家老子～他同厂长赔礼打招呼。<sup>\[泰州\]</sup>  
 1. 【[闲扯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_cha.md#闲扯)】`xiaen2 cha3` <sup>[东台]</sup> 漫无边际地随便聊天。  
 1. 【[闲端午](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_dun_v.md#闲端午)】`xiaen2 dun1 v` <sup>[如皋]</sup> 端午节不在农忙时段。  
 1. 【[闲话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_hua.md#闲话)】`xiaen2 hua6` <sup>[东台]</sup> ① 与正题无关的话。 ② 引人猜疑的、背地里议论的是非话：男同志一般不要单独找女士谈心，免得人家说～。  
@@ -677,8 +677,7 @@
 1. 【[饷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian.md#饷)】`xian3` <sup>[兴化]</sup> ① 将蚬子、蛤蜊等软体动物放在清水中煮，使壳张开，把肉取出：～蚬子。 ② 将鳝鱼放在清水中煮熟，然后划鳝丝（划长鱼）：～长鱼。  
 1. 【[鲞肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_roh.md#鲞肉)】`xian3 roh8` <sup>[如皋]</sup> 把整爿肉成几大块切下。  
 1. 【[向壁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_bieh.md#向壁)】`xian5 bieh7` <small>/ɕiã5 piəʔ7/<sup>如皋</sup></small> ① 面壁思过。 ② 面壁而立。或为练功，或为体罚。<sup>\[如皋\]</sup>  
-1. 【[向后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_heu.md#向后)】`xian5 heu6` <sup>[兴化]</sup> 从此以后：他小时候在这块住过年把，～不曾来过。｜那妇人也和他闹了几场，～闹惯了，不以为事。（《水浒传》二四）  
-1. 【[向后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian__heu.md#向后)】`xian5  heu6` 以后较长的一段时间<sup>\[泰州\]</sup>：你现在不弄吖好啊，～就更不好弄唻。<sup>\[泰州\]</sup>  
+1. 【[向后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_heu.md#向后)】`xian5 heu6` <small>/ɕiaŋ5 xɤ6/<sup>兴化</sup></small> ① 以后较长的一段时间<sup>\[泰州\]</sup>：你现在不弄吖好啊，～就更不好弄唻。<sup>\[泰州\]</sup> ② 从此以后<sup>\[兴化\]</sup>：他小时候在这块住过年把，～不曾来过。<sup>\[兴化\]</sup>｜那妇人也和他闹了几场，～闹惯了，不以为事。（《水浒传》二四）<sup>\[兴化\]</sup>  
 1. 【[向火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_hu.md#向火)】`xian5 hu3` <sup>[兴化]</sup> 烤火：……只见那中间坐着一个老庄家，周围坐着四五个小庄家～。（《水浒传》十）｜当日雪下得越大，周氏在房中～。（《警世通言》三三）  
 1. 【[向来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_lae.md#向来)】`xian5 lae2` <sup>[东台]</sup> 从来；一向。  
 1. 【[向吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_nga.md#向吖)】`xian5 nga` <sup>[如皋]</sup> 本来，事实上：～我不曾去，他偏说我去啊的。  

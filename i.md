@@ -1013,8 +1013,8 @@
 1. 【[一煞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_shaeh.md#一煞)】`ieh7 shaeh7` 索性<sup>\[泰州\]</sup>：横竖是弄洗衣机洗，你帮他一个人洗也是洗，～帮大家都洗啊子。<sup>\[泰州\]</sup>  
 1. 【[一山两水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_shaen_laen_shuei.md#一山两水)】`ieh7 shaen1 laen3 shuei3` <sup>[如皋]</sup> 一夫二妻。  
 1. 【[一晌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_shan.md#一晌)】`ieh7 shan3` <sup>[兴化]</sup> 指一个上午：～下来，耕了五六亩地。（兴文《得胜湖和朱胖舍》）  
-1. 【[一上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_shan6-.md#一上)】`ieh7 shan6-3` 从一开始<sup>\[泰州\]</sup>：这个伢儿的成绩～就好，不是现在才好。<sup>\[泰州\]</sup>｜他～不是这样子说的，怎吖现在有改啊口的？<sup>\[泰州\]</sup>  
 1. 【[一上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_shan.md#一上)】`ieh7 shan6` <sup>[兴化]</sup> ① 刚开始，也说“一上来”“头一上来”：这笔交易他～儿就不赞成。 ② 一下子：戴宗正机又渴，～把酒和豆腐都吃了……（《水浒传》三九）。  
+1. 【[一上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_shan.md#一上)】`ieh7 shan6-3` 从一开始<sup>\[泰州\]</sup>：这个伢儿的成绩～就好，不是现在才好。<sup>\[泰州\]</sup>｜他～不是这样子说的，怎吖现在有改啊口的？<sup>\[泰州\]</sup>  
 1. 【[一上来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_shan_lae.md#一上来)】`ieh7 shan6 lae` <sup>[兴化]</sup> 刚开始。  
 1. 【[一上<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_shan_r.md#一上<sub>儿</sub>)】`ieh7 shan6-3 r` <sup>[泰县]</sup> ① 一直：我俫～在一起儿工作。 ② 过去：我俫～就住啊这许。  
 1. 【[一十脚下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_sheh_jiah_ha.md#一十脚下)】`ieh7 sheh jiah7 ha` <sup>[如皋]</sup> 农历初十前后。  

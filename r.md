@@ -462,6 +462,7 @@
 1. 【[扰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro.md#扰)】`ro3` <small>/ɻɔ3/<sup>如皋</sup></small> ① 叨扰。我～啊他两块肉；我不作兴～你！<sup>\[如皋\]</sup> ② 白占便宜：值二角钱的货，卖啊你一块钱，～啊你啦！<sup>\[如皋\]</sup> ③ 用手来回推动物体，使其摇摆。<sup>\[如东\]</sup>：先～竹竿，再拨起来。<sup>\[如东\]</sup> ④ 叨扰，接受他人饮食招待<sup>\[泰州\]</sup>：春上我上南京开会顺便去望他，～过他一顿饭。<sup>\[泰州\]</sup>  
 1. 【[扰啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_a.md#扰啊)】`ro3 a` <sup>[东台]</sup> 扰，指打扰：～通常指吃了人家的｜前朝～你一顿。  
 1. 【[绕弯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_vaen_zz.md#绕弯子)】`ro3 vaen1-3 zz` <sup>[东台]</sup> ［喻］说话不直截了当。  
+1. 【[绕账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_zhan.md#绕账)】`ro5 zhan5` <small>/ɻɔ5 t͡sã5/<sup>如皋</sup></small> ① 敷衍应付<sup>\[如皋\]</sup><sup>\[泰州\]</sup>：他同你玩～，不是真心。<sup>\[如皋\]</sup>｜你同他又没得多大交情，你～买两个花瓶送把他就是唻。<sup>\[泰州\]</sup>｜晚上要吃酒，中上就～下点儿面吃咖子吧。<sup>\[泰州\]</sup> ② 质量差<sup>\[如皋\]</sup>：这种货～，不能买。<sup>\[如皋\]</sup>  
 1. 【[绕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro.md#绕)】`ro6` <sup>[泰州]</sup> 被纠缠，无法摆脱窘境：弄到临了把自己～进去啊唻。  
 1. 【[绕住咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_chuh_ga.md#绕住咖)】`ro6 chuh8 ga` <sup>[如皋]</sup> 被一种“理由”套住，一时难辨。  
 1. 【[绕刀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_do_r.md#绕刀<sub>儿</sub>)】`ro6 do1 r` <sup>[如皋]</sup> 用诡辩术把对方套住。  
@@ -480,8 +481,6 @@
 1. 【[绕线](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_xin.md#绕线)】`ro6 xin5` <sup>[如皋]</sup> 把线绕上架子或绕成线球。  
 1. 【[绕线板子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_xin_baen_zz.md#绕线板子)】`ro6 xin5 baen3 zz` <sup>[东台]</sup> 原指纺纱绕线的板子，后喻指小孩贪玩，好动。  
 1. 【[绕线砣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_xin_tu_zz.md#绕线砣子)】`ro6 xin5 tu2 zz` <sup>[如皋]</sup> 打丝线的一道程序。把丝的一端绕结在线砣子柄的槽中，并上架。  
-1. 【[绕账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_zhan.md#绕账)】`ro6 zhan5` <small>/ɻɔ1 t͡sã5/<sup>如皋</sup></small> ① 敷衍应付：他同你玩～，不是真心。<sup>\[如皋\]</sup> ② 质量差：这种货不能买。<sup>\[如皋\]</sup> ③ 敷衍了事。<sup>\[如皋\]</sup>  
-1. 【[绕账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro6-_zhan.md#绕账)】`ro6-5 zhan5` 简单敷衍应对一下<sup>\[泰州\]</sup>：你同他又没得多大交情，你～买两个花瓶送把他就是唻。<sup>\[泰州\]</sup>｜晚上要吃酒，中上就～下点儿面吃咖子吧。<sup>\[泰州\]</sup>  
 1. 【[肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh.md#肉)】`roh8` <small>/lɔʔ8/<sup>兴化</sup>, /ɻɔʔ8/<sup>如皋</sup></small> ① 贬指傻而韧。<sup>\[如皋\]</sup> ② 认死理，不知进退<sup>\[兴化\]</sup>：人家让你，就覅～吧！<sup>\[兴化\]</sup>｜与你无关的事，你说甚的戗话？～吤！<sup>\[兴化\]</sup>  
 1. 【[肉板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_baen.md#肉板)】`roh8 baen3` <sup>[如东]</sup> 帆船眼板下边的一块很宽的木板，叫肉板。  
 1. 【[肉膊<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_bah_r.md#肉膊<sub>儿</sub>)】`roh8 bah7 r` <sup>[如皋]</sup> 光着上身。  

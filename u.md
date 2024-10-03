@@ -78,7 +78,7 @@
 1. 【[搕𢶍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_suh.md#搕𢶍)】`uh7 suh7` <small>/uʔ7 suʔ7/<sup>兴化</sup>, /ʊʔ7 sʊʔ7/<sup>如皋</sup></small> ① 状环境脏、阴暗潮湿<sup>\[如皋\]</sup>：地下室的～，不能住人。<sup>\[如皋\]</sup> ② 零碎零乱<sup>\[如皋\]</sup>：抽屉里～杲子多。<sup>\[如皋\]</sup> ③ 尘土秽物<sup>\[兴化\]</sup>：扫～<sup>\[兴化\]</sup>｜草毛～。<sup>\[兴化\]</sup> ④ （引）指人行为不大方<sup>\[兴化\]</sup>：他是个～，上不了台盘。搕，《广韵·合韵》乌合切，～粪也。𢶍，私盍切。‖生动形式“搕里搕𢶍”。<sup>\[兴化\]</sup>  
 1. 【[搕𢶍<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_suh_r.md#搕𢶍<sub>儿</sub>)】`uh7 suh7 r` <small>/ʊʔ7 sʊʔ7 ɚ/<sup>泰县</sup></small> ① 细小的垃圾、灰尘。（《广韵》“搕，乌合切；𢶍，私煮切”）<sup>\[东台\]</sup> ② 垃圾：这个盆子上有～。<sup>\[泰县\]</sup>  
 1. 【[搕𢶍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_sun.md#搕𢶍)】`uh7 sun5` 肮脏<sup>\[泰州\]</sup>：这个家里多少天不打扫唻，～煞咖。<sup>\[泰州\]</sup>｜你身上弄得块块是灰，～煞咖，先洗把澡再说。<sup>\[泰州\]</sup>  
-1. 【[搕𢶍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_sun5-.md#搕𢶍)】`uh7 sun5-3` 垃圾。你把地下的～扫掉。<sup>\[泰州\]</sup>  
+1. 【[搕𢶍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_sun.md#搕𢶍)】`uh7 sun5-3` 垃圾。你把地下的～扫掉。<sup>\[泰州\]</sup>  
 1. 【[焥动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_ton.md#焥动)】`uh7 ton` <sup>[如东]</sup> 火苗向上蹿动的状态：房屋上的火头～。  
 1. 【[盦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh.md#盦)】`uh7` <small>/uʔ7/<sup>兴化</sup>, /ʊʔ7/<sup>如皋</sup></small> ① 闷，不透风，不散热，汗闷难受。见“㵍”。见huh7。<sup>\[如皋\]</sup>：～人、～风、～住啊，不敞开。<sup>\[如皋\]</sup> ② 覆盖、遮住<sup>\[兴化\]</sup>：～酱。<sup>\[兴化\]</sup>｜食物受～发霉。《广韵·盍韵》安盍切“～，《说文》云，覆盖也”。<sup>\[兴化\]</sup> ③ 覆盖不出气<sup>\[泰州\]</sup>：最近天凉，酱黄豆儿最起码要～一个星期，生的毛要多，不然的话做的酱酒不鲜。<sup>\[泰州\]</sup>  
 1. 【[盦住啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_chv_a.md#盦住啊)】`uh7 chv6 a` <sup>[如皋]</sup> 不宽敞，不畅快、不透风。  

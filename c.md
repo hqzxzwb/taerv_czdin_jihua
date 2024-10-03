@@ -2329,9 +2329,7 @@
 1. 【[自家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_ga.md#自家)】`cz6 ga, sz6 ga` <sup>[如东]</sup> 自己：～的事自家做。  
 1. 【[自家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_ga.md#自家)】`cz6 ga` <sup>[如东]</sup> 本人：请你管好～的事情。  
 1. 【[自家屁股红吖半张，还替别人医痔疮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_ga_pi_gu_hon_nga_bun_zhan_hae_ti_pih_ren_i_chr_chuan.md#自家屁股红吖半张，还替别人医痔疮)】`cz6 ga pi5 gu hon2 nga bun5 zhan1 hae2 ti5 pih8 ren2 i1 chr6 chuan1` <sup>[东台]</sup> 喻指自己问题比别人大，还不知趣地指责别人。  
-1. 【[自家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_ga1-.md#自家)】`cz6 ga1-3` 自己<sup>\[泰州\]</sup>：你把你～管管好就行唻。<sup>\[泰州\]</sup>  
-1. 【[自家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_ga.md#自家)】`cz6 ga1` <sup>[兴化]</sup> 自己：（那呆子）口里劳劳叨叨的，～念诵道：“罢了！罢了……”（《西游记》三一）｜“……你不去我～去。”（《梼杌闲评》十二）也说“cz6 gaen3 ”。  
-1. 【[自家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_ga.md#自家)】`cz6 ga1-3` <sup>[泰县]</sup> 自己。  
+1. 【[自家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_ga.md#自家)】`cz6 ga1` <small>/t͡sʰɿ6 ka1/<sup>兴化</sup>, /t͡sʰɿ1 ka3/<sup>泰县</sup></small> 自己<sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰县\]</sup>：（那呆子）口里劳劳叨叨的，～念诵道：“罢了！罢了……”（《西游记》三一）<sup>\[兴化\]</sup>｜“……你不去我～去。”（《梼杌闲评》十二）也说“cz6 gaen3 ”。<sup>\[兴化\]</sup>｜你把你～管管好就行唻。<sup>\[泰州\]</sup>  
 1. 【[自家胳肢自家笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_ga_keh_zeh_cz_ga_xio.md#自家胳肢自家笑)】`cz6 ga1 keh8 zeh cz6 ga1 xio5` <sup>[东台]</sup> 形容自我陶醉，自欺欺人：他谎报成绩，～，没有意思。  
 1. 【[自家抓肉望脸上沰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_ga_zhua_roh_van_lin_shan_dah.md#自家抓肉望脸上沰)】`cz6 ga1 zhua1 roh8 van6 lin3 shan dah7` <sup>[东台]</sup> 形容自我抬高身价。  
 1. 【[自解自叹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_gae_cz_taen.md#自解自叹)】`cz6 gae3 cz6 taen5` <sup>[兴化]</sup> 自我解嘲，自我安慰：“娘，少哭了……你须～，休要只顾烦恼了。”（《金瓶梅词话》五九）  

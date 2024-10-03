@@ -1541,7 +1541,7 @@
 1. 【[闹嚎好<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_ho_ho_r.md#闹嚎好<sub>儿</sub>)】`no6 ho2 ho3 r` <sup>[兴化]</sup> 起哄。  
 1. 【[闹豪兴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_ho_xien.md#闹豪兴)】`no6 ho2 xien` <sup>[兴化]</sup> 起哄：竟有些大胆的少年人～，喊道｜“跟住武二爷走！”（《武松》三）也作“闹嚎好儿”。  
 1. 【[闹魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_huen.md#闹魂)】`no6 huen2` <sup>[泰县]</sup> 闹事：今朝王二又来～。  
-1. 【[闹魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no__huen.md#闹魂)】`no6  huen2` 指人做事当儿戏<sup>\[泰州\]</sup>：他哪块是在下做作业，他是在下～。<sup>\[泰州\]</sup>｜你俫厂里成天～，哪块像个单位。<sup>\[泰州\]</sup>  
+1. 【[闹魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_huen.md#闹魂)】`no6 huen2` 指人做事当儿戏<sup>\[泰州\]</sup>：他哪块是在下做作业，他是在下～。<sup>\[泰州\]</sup>｜你俫厂里成天～，哪块像个单位。<sup>\[泰州\]</sup>  
 1. 【[闹羊花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_ian_hua.md#闹羊花)】`no6 ian2 hua1` <sup>[如皋]</sup> 花杜鹃。有毒。时给行刑前的死囚喝～酒，使之精神麻木不太恐怖。  
 1. 【[闹酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_jieu.md#闹酒)】`no6 jieu3` 同桌喝酒之人相互斗嘴，以使对方多喝为乐<sup>\[泰州\]</sup>：他俫几个人～，老孙喝咖多啊，家来就上吖铺。<sup>\[泰州\]</sup>  
 1. 【[闹热](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_rih.md#闹热)】`no6 rih8` <small>/lɔ6 liɪʔ8/<sup>兴化</sup>, /nɔ1 ɻiʔ8/<sup>如皋</sup></small> ① 热闹。<sup>\[如皋\]</sup> ② “热闹”的逆序词<sup>\[兴化\]</sup>：……楼上才摆桌子，忽听得门外～……（《梼杌闲评》十四）<sup>\[兴化\]</sup>  

@@ -1575,7 +1575,7 @@
 1. 【[淘箩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_lu.md#淘箩)】`to2 lu1` <sup>[如东]</sup> 容器。竹篾编成，缝口细密，圆柿形，无盖，有环。淘米用。  
 1. 【[淘箩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_lu_r.md#淘箩<sub>儿</sub>)】`to2 lu1 r` <sup>[如皋]</sup> 篾制有系淘米篮子。  
 1. 【[淘箩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_lu.md#淘箩)】`to2 lu2` <sup>[东台]</sup> 淘米用具，多用细竹篾制成，缝隙较小，有提梁竹柄。  
-1. 【[淘箩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_lu2-.md#淘箩)】`to2 lu2-3` 竹篾编的专供淘米过滤水用的半球形小篮子。<sup>\[泰州\]</sup>  
+1. 【[淘箩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_lu.md#淘箩)】`to2 lu2-3` 竹篾编的专供淘米过滤水用的半球形小篮子。<sup>\[泰州\]</sup>  
 1. 【[淘箩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_lu_zz.md#淘箩子)】`to2 lu2 zz` <sup>[兴化]</sup> 用细竹篾编成的淘米的器具，有弧形的把子。  
 1. 【[淘米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_mi.md#淘米)】`to2 mi3` <sup>[如东]</sup> 将大米放在水中清洗干净。  
 1. 【[淘米水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_mi_shuei.md#淘米水)】`to2 mi3 shuei3` <sup>[如皋]</sup> 米泔水。  
