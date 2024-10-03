@@ -2291,7 +2291,7 @@
 1. 【[路头神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_teu_shen.md#路头神)】`lv6 teu2 shen2` <sup>[东台]</sup> 传说中又叫“玄坛菩萨”，正月初五祭财神，俗称接“路头神”。  
 1. 【[路头债](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_teu_zhae.md#路头债)】`lv6 teu2 zhae5` <sup>[兴化]</sup> 为办一件事跑了多趟冤枉路：还～。  
 1. 【[路小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_xio.md#路小)】`lv6 xio3` <sup>[泰县]</sup> 在途中生的婴儿。  
-1. 【[路子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_zz.md#路子)】`lv6 zz` <sup>[兴化]</sup> ① 门径：老陈～多，有难事找他帮帮忙。 ② （贬）人的米路、来头：这个人～不正，大家提防点儿。  
+1. 【[路子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_zz.md#路子)】`lv6 zz` <small>/lu6 t͡sɿ/<sup>兴化</sup></small> ① 门径<sup>\[兴化\]</sup>：老陈～多，有难事找他帮帮忙。<sup>\[兴化\]</sup> ② 人的米路、来头<sup>\[兴化\]</sup>：这个人～不正，大家提防点儿。<sup>\[兴化\]</sup> ③ 纹路<sup>\[如东\]</sup> ④ 物体表面的一道道划痕<sup>\[如东\]</sup>  
 1. 【[露](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv.md#露)】`lv6` <small>/lu1/<sup>如皋</sup></small> ① 裸露。<sup>\[如东\]</sup> ② 承受露水<sup>\[如皋\]</sup>：花草要放吖外头～、日晒夜～。<sup>\[如皋\]</sup>  
 1. 【[露啊湿咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_a_sheh_ga.md#露啊湿咖)】`lv6 a sheh7 ga` <sup>[如皋]</sup> 被露水浸湿了。  
 1. 【[露二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_er.md#露二)】`lv6 er6` <sup>[如东]</sup> 瓦屋屋面上瓦片之间的距离等于两指，称露二。  

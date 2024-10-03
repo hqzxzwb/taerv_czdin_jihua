@@ -1817,7 +1817,7 @@
 1. 【[宗族](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zon_coh.md#宗族)】`zon1 coh8` ① 同一父系的家族。<sup>\[如东\]</sup> ② 同一父系家族的成员（不包括出嫁的女性）。<sup>\[如东\]</sup> ③ 同一父系的家族。<sup>\[东台\]</sup>  
 1. 【[棕榈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zon_ly.md#棕榈)】`zon1 ly2` <sup>[如东]</sup> 棕榈科植物棕榈，常绿乔木。高约15米。秆圆柱形，不分枝。叶簇生于秆顶圆扇形，革质，有皱摺，开展时掌状，深裂。叶柄基部有抱茎的叶鞘，分裂为棕褐色纤维状毛（棕衣）。肉穗状花序。花淡黄色。核果球形。种子扁球形，暗灰色或淡黑色。种植。  
 1. 【[纵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zon.md#纵)】`zon1` <sup>[如东]</sup> 向前跳：这条小沟可以～过去。  
-1. 【[总](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zon.md#总)】`zon3` <small>/t͡soŋ3/<sup>兴化</sup>, /t͡sɔŋ3/<sup>如皋</sup>, /t͡sɔŋ3/<sup>泰兴</sup>, /t͡soŋ3/<sup>泰县</sup></small> ① 都：箇些杲子～是他的/这些东西都是他的 ② 元代设置的灶户行政组织。每一百户为一总，每十户为一甲。最多的地区有四十总。设总催，负责征税、兵役等行政工作。<sup>\[如东\]</sup>  
+1. 【[总](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zon.md#总)】`zon3` <small>/t͡soŋ3/<sup>兴化</sup>, /t͡sɔŋ3/<sup>如皋</sup>, /t͡sɔŋ3/<sup>泰兴</sup>, /t͡soŋ3/<sup>泰县</sup></small> ① 都：箇些杲子～是他的/这些东西都是他的 ② 元代设置的灶户行政组织。每一百户为一总，每十户为一甲。最多的地区有四十总。设总催，负责征税、兵役等行政工作。<sup>\[如东\]</sup> ③ 大约，估计<sup>\[如东\]</sup>：这件衣裳千把块钱～要的。<sup>\[如东\]</sup>｜说咖要来，～要来的吧。<sup>\[如东\]</sup>｜他的个子～在一米八朝上。<sup>\[如东\]</sup>  
 1. 【[总归](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zon_guei.md#总归)】`zon3 guei1` <sup>[东台]</sup> 总之的意思。  
 1. 【[总共](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zon_kon.md#总共)】`zon3 kon6` <sup>[如皋]</sup> 总计。  
 1. 【[粽箬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zon_rah.md#粽箬)】`zon5 rah8` <small>/t͡soŋ5 laʔ8/<sup>兴化</sup></small> ① 粽叶 ② 裹粽子的芦苇叶。<sup>\[东台\]</sup> ③ 包粽子用的苇叶。也称“柴叶子”。<sup>\[兴化\]</sup>：这打下的苇叶，专作裹粽子之用，当地人称之为～。（刘仁前·《楚水风物》）<sup>\[兴化\]</sup>  
