@@ -1249,7 +1249,7 @@
 1. 【[舅子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_zz.md#舅子)】`qieu6 zz` 妻子的哥哥和弟弟。<sup>\[泰州\]</sup>  
 1. 【[舅子婆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_zz_pu_r.md#舅子婆<sub>儿</sub>)】`qieu6 zz pu2 r` <sup>[如东]</sup> 舅子的妻子。  
 1. 【[切](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qih.md#切)】`qih7` <sup>[如东]</sup> 用刀把物品切成若干部分：～西瓜。  
-1. 【[切板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qih_baen.md#切板)】`qih7 baen3` 厨具，砧板、切菜板<sup>\[如东\]</sup><sup>\[东台\]</sup>  
+1. 【[切板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qih_baen.md#切板)】`qih7 baen3` <small>/t͡ɕʰiʔ7 pɛ̃3/<sup>泰兴</sup></small> 厨具，砧板、切菜板<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[切菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qih_cae.md#切菜)】`qih7 cae5` <sup>[如皋]</sup> ① 香肉店卖的熟肉食，切好装盘。 ② 到香肉店买熟菜。  
 1. 【[切菜刀剃头——怕人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qih_cae_do_ti_teu_pa_ren_zz.md#切菜刀剃头——怕人子)】`qih7 cae5 do1 ti5 teu2 pa5 ren2 zz` <sup>[东台]</sup>   
 1. 【[切己](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qih_ji.md#切己)】`qih7 ji3` <sup>[兴化]</sup> 贴已，关系密切：让～的人管账放得心。｜通天教主见左右四个～门徒俱丧，切齿深恨……（《封神演义》八四）  

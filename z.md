@@ -54,8 +54,7 @@
 1. 【[杂古脑<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh_gv_no_r.md#杂古脑<sub>儿</sub>)】`zaeh7 gv3 no3 r` <small>/t͡sæʔ7 ku3 nɔ3 ɚ/<sup>泰县</sup></small> ① 什么都有。<sup>\[如东\]</sup>：～一大堆。<sup>\[如东\]</sup> ② 乱七八糟的东西。<sup>\[如东\]</sup>：甚的～。<sup>\[如东\]</sup> ③ 拼凑起来：这些东西～多少斤？<sup>\[泰县\]</sup>  
 1. 【[杂货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh_hu.md#杂货)】`zaeh7 hu5` <sup>[如东]</sup> 各种日用零星货物。例如刷子、铁锅等。  
 1. 【[杂货店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh_hu_din.md#杂货店)】`zaeh7 hu5 din5` <sup>[如东]</sup> 经营杂货的商店。  
-1. 【[杂烩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh_huei.md#杂烩)】`zaeh7 huei6` <sup>[如东]</sup> 多种荤菜和素菜混和在一起的熟菜，称杂烩：大～。  
-1. 【[杂烩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh_huei.md#杂烩)】`zaeh7 huei6` 菜肴名称，将肉圆、鱼圆、鹌鹑蛋、虾、蹄筋、肉皮、海参、笋干等混在一起与鸡汤合煮。<sup>\[泰州\]</sup>  
+1. 【[杂烩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh_huei.md#杂烩)】`zaeh7 huei6` 菜肴，许多种食材搭配制成\[如东：多种荤菜和素菜混和在一起的熟菜，称杂烩。\]\[泰州：将肉圆、鱼圆、鹌鹑蛋、虾、蹄筋、肉皮、海参、笋干等混在一起与鸡汤合煮。\]：大～。<sup>\[如东\]</sup>  
 1. 【[杂粮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh_lian.md#杂粮)】`zaeh7 lian2` <sup>[如皋]</sup> 见“荒粮”。  
 1. 【[杂笼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh_lon.md#杂笼)】`zaeh7 lon2` <sup>[兴化]</sup> 每笼内有几种不同馅心的包子，也说“杂色”。  
 1. 【[杂配](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh_pei.md#杂配)】`zaeh7 pei5` <sup>[兴化]</sup> 器物中某些零部件是杂凑的：自行车的大杠是～的。  
@@ -116,8 +115,7 @@
 1. 【[作而不作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_er_beh_zah.md#作而不作)】`zah7 er beh7 zah7` <small>/t͡saʔ7 ɚ pəʔ7 t͡saʔ7/<sup>兴化</sup>, /t͡saʔ7 ɚ pəʔ7 t͡saʔ7/<sup>如皋</sup></small> ① 两可间。可能或不可能、应当或不应当。<sup>\[如皋\]</sup>：我想买，又不想买，～的。<sup>\[如皋\]</sup>｜现在时兴鞠躬，磕头的礼节是～的。<sup>\[如皋\]</sup> ② 试试看，做好成功不成功两种打算<sup>\[东台\]</sup>：你帮我借点钱，不好办就算，～，不要紧。<sup>\[东台\]</sup> ③ 成败两手打算<sup>\[兴化\]</sup>：他说的那笔钱～，有更好，没得再想别的办法。<sup>\[兴化\]</sup>  
 1. 【[作法不是法](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_faeh_beh_shr_faeh.md#作法不是法)】`zah7 faeh7 beh7 shr6 faeh7` <sup>[兴化]</sup> 见“定法不是法”。  
 1. 【[作烦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_faen.md#作烦)】`zah7 faen2` <sup>[兴化]</sup> 心情烦躁，看什么都不顺眼：他这几天～，覅在他跟前转来转去的。  
-1. 【[作㽹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_faen.md#作㽹)】`zah7 faen5` <small>/t͡saʔ7 fɛ̃5/<sup>兴化</sup>, /t͡saʔ7 fẽ5/<sup>如皋</sup></small> ① 作呕、恶心。也作“作吊㽹”。<sup>\[如皋\]</sup> ② 胃里难受欲呕吐。<sup>\[如东\]</sup> ③ 恶心。（见“意㽹”）<sup>\[东台\]</sup> ④ 胃不适，有欲呕吐的感觉<sup>\[兴化\]</sup>：心里～，先泡杯茶喝喝。<sup>\[兴化\]</sup>  
-1. 【[作㽹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_faen.md#作㽹)】`zah7 faen5` 产生要呕吐的感觉<sup>\[泰州\]</sup>：他这一刻儿心里～。<sup>\[泰州\]</sup>  
+1. 【[作㽹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_faen.md#作㽹)】`zah7 faen5` <small>/t͡saʔ7 fɛ̃5/<sup>兴化</sup>, /t͡saʔ7 fẽ5/<sup>如皋</sup></small> 作呕、恶心，欲呕吐的感觉<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>\[如皋：也作“作吊㽹”。\]\[东台：参见“意㽹”\]：心里～，先泡杯茶喝喝。<sup>\[兴化\]</sup>｜他这一刻儿心里～。<sup>\[泰州\]</sup>  
 1. 【[作嫁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_ga.md#作嫁)】`zah7 ga5` <small>/t͡saʔ7 ka5/<sup>兴化</sup>, /t͡saʔ7 ka5/<sup>如皋</sup></small> ① 想出嫁或出嫁前在家中取闹的行为。<sup>\[如皋\]</sup> ② 少女因思春而怄气。<sup>\[兴化\]</sup> ③ 出嫁前为争陪嫁或难舍娘家而怄气、寻闹<sup>\[兴化\]</sup>：她没几天出门，在家里～唻！<sup>\[兴化\]</sup>  
 1. 【[作角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_gah.md#作角)】`zah7 gah7` <sup>[如东]</sup> 两头牛或羊角斗。  
 1. 【[作酵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_go.md#作酵)】`zah7 go5` <sup>[如皋]</sup> 发酵。  
@@ -221,8 +219,7 @@
 1. 【[作兴慌忙的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_xien_huan_man_dii.md#作兴慌忙的)】`zah7 xien5 huan1 man2 dii` <sup>[如皋]</sup> 匆匆忙忙：你不要～；你～上哪许去啊？  
 1. 【[作衅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_xien.md#作衅)】`zah7 xien5` <sup>[如皋]</sup> 取闹，挑衅：伢儿要钱，要不到就在家里～。  
 1. 【[作□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_xiuh.md#作□)】`zah7 xiuh7` 想方设法制造麻烦来折磨人<sup>\[泰州\]</sup>：他早点儿出去好，省得在家里～人。<sup>\[泰州\]</sup>  
-1. 【[作雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_xiuh.md#作雪)】`zah7 xiuh7` <small>/t͡saʔ7 ɕyuʔ7/<sup>兴化</sup>, /t͡saʔ7 ɕyʊʔ7/<sup>如皋</sup></small> ① 见“焐雪”。<sup>\[如皋\]</sup> ② 天气阴冷，彤云密布，预示将下雪。<sup>\[如皋\]</sup> ③ 冬天出现降雪的先兆<sup>\[兴化\]</sup>：天上彤云密布，冷气侵人，像～的样子。<sup>\[兴化\]</sup>  
-1. 【[作雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_xiuh.md#作雪)】`zah7 xiuh7` 天气忽阴忽晴预示可能降雪<sup>\[泰州\]</sup>：天阴吖阴的，望吖像是在下～。<sup>\[泰州\]</sup>  
+1. 【[作雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_xiuh.md#作雪)】`zah7 xiuh7` <small>/t͡saʔ7 ɕyuʔ7/<sup>兴化</sup>, /t͡saʔ7 ɕyʊʔ7/<sup>如皋</sup></small> ① 天气阴冷，彤云密布，预示将下雪。参见“焐雪”。<sup>\[如皋\]</sup> ② 冬天出现降雪的先兆<sup>\[兴化\]</sup>：天上彤云密布，冷气侵人，像～的样子。<sup>\[兴化\]</sup> ③ 天气忽阴忽晴预示可能降雪<sup>\[泰州\]</sup>：天阴吖阴的，望吖像是在下～。<sup>\[泰州\]</sup>  
 1. 【[作躁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_zo.md#作躁)】`zah7 zo5` <small>/t͡sɑʔ7 t͡sɔ5/<sup>泰县</sup></small> ① 着急。<sup>\[东台\]</sup> ② 急躁不安。<sup>\[如东\]</sup>：他相吖房子要倒，心里～。<sup>\[如东\]</sup> ③ 着急。<sup>\[泰县\]</sup> ④ 着急：你不要～。<sup>\[泰县\]</sup>  
 1. 【[作躁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_zo.md#作躁)】`zah7 zo5` 着急，因事情不顺利、不满意而内心焦躁不安<sup>\[泰州\]</sup>：项目到现在都不曾批下来，厂长～煞咖。<sup>\[泰州\]</sup>｜伢儿这一回不曾考好，嘴上说不要紧，心里骨里～。<sup>\[泰州\]</sup>  
 1. 【[脏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zan.md#脏)】`zan1` <sup>[如皋]</sup> ① 肮脏。 ② 隐指月经来潮：身上～吖。  
@@ -253,13 +250,11 @@
 1. 【[怎吖好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_nga_ho.md#怎吖好)】`zen3 nga ho3` <sup>[东台]</sup> 一种无可奈何的口气，意思是不知道怎样才好。  
 1. 【[怎吖好意思](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_nga_ho_i_sz.md#怎吖好意思)】`zen3 nga ho3 i5 sz` <sup>[东台]</sup> 一种难为情、无法求人的尴尬心态：我多次烦你，～？  
 1. 【[怎吖弄相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_nga_lon_xian.md#怎吖弄相)】`zen3 nga lon6 xian5` <sup>[如皋]</sup> 怎么做法：这次出差～啋？你说说分清吧！  
-1. 【[怎的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_nii.md#怎的)】`zen3 nii` <sup>[东台]</sup> 疑问句，相当于怎么样？怎么搞的？见“咋的za3 dii”。  
-1. 【[怎的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_nii.md#怎的)】`zen3 nii` 怎么，表示反问<sup>\[泰州\]</sup>：他就贪污啊唻，～？你还想扳石头大田啊。<sup>\[泰州\]</sup>｜老子就打啊他个嘴巴子又～？<sup>\[泰州\]</sup>  
+1. 【[怎的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_nii.md#怎的)】`zen3 nii` 疑问词\[泰州：怎么，表示反问\]\[东台：疑问，相当于怎么样？怎么搞的？见“咋的za3 dii”。\]：他就贪污啊唻，～？你还想扳石头大田啊。<sup>\[泰州\]</sup>｜老子就打啊他个嘴巴子又～？<sup>\[泰州\]</sup>  
 1. 【[怎说怎好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_shuh_zen_ho.md#怎说怎好)】`zen3 shuh7 zen3 ho3` <sup>[兴化]</sup> 言听计从或随对方心意办事：“……叔公～，只请叔公吩附就是了……”（《二十年目睹之怪现状》九九）  
 1. 【[甑𠖫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_gun.md#甑𠖫)】`zen5 gun5` <sup>[如皋]</sup> 甑子上的盖子。因为过大，分为两个半圆，各有“工”字鼻，供把握。  
 1. 【[甑䌁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_io.md#甑䌁)】`zen5 io5` <sup>[东台]</sup> 锅盖与锅之间的圆圈形草䌁子。起密封和保护锅盖作用。  
-1. 【[甑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_zz.md#甑子)】`zen5 zz` ① 厨具。木制，圆桶形，下面有孔。用以蒸糕、蒸饭等。<sup>\[如东\]</sup> ② 古代蒸饭的一种瓦器。本地主要指加在锅子上面，蒸饭用的木制桶状物。<sup>\[东台\]</sup>  
-1. 【[甑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_zz.md#甑子)】`zen5 zz` 蒸饭用的有屉有盖无底木制桶装器具。<sup>\[泰州\]</sup>  
+1. 【[甑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_zz.md#甑子)】`zen5 zz` 木制桶状厨具，蒸饭用\[东台：加在锅子上面，蒸饭用的木制桶状物。\]\[如东：木制，圆桶形，下面有孔。用以蒸糕、蒸饭等。\]\[泰州：蒸饭用的有屉有盖无底木制桶装器具。\]  
 1. 【[走](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeu.md#走)】`zeu3` <small>/t͡sɤ3/<sup>兴化</sup>, /t͡sei3/<sup>如皋</sup>, /t͡sɤɯ3/<sup>泰兴</sup>, /t͡sɤɯ3/<sup>泰县</sup></small> ① 经过某地去某处：～上海去北京。/经过上海去北京。 ② 从（表示空间的起点）：～哪许开始？/从哪里开始？ ③ 人或鸟兽的脚交互向前移动。<sup>\[如东\]</sup> ④ 一种烹调方法，把菜肴放在沸油中稍煮即捞起来，叫走。<sup>\[如东\]</sup> ⑤ 一种缝纫方法，用针线在布的边沿缝一条线，称走。<sup>\[如东\]</sup> ⑥ 死的讳称。<sup>\[如东\]</sup>：他已经～啊。<sup>\[如东\]</sup> ⑦ 物体移动、倾斜，偏离了原来的部位<sup>\[兴化\]</sup>：元来那一垛墙～了，一向床遮着不觉得，此时偶然坍将下米……（《二刻》十五）<sup>\[兴化\]</sup> ⑧ 生的菜肴放在油锅中汆一下就捞起来，临吃时再加佐料烩<sup>\[兴化\]</sup>：先拿油～啊子。<sup>\[兴化\]</sup> ⑨ 食品放到锅里后很快捞起来：地瓜切成片以后只要放锅去～下子就能吃。<sup>\[泰县\]</sup> ⑩ 物体偏离原位<sup>\[泰州\]</sup>：他家这扇大门有点儿走啊向西，要请木匠来弄吖子。<sup>\[泰州\]</sup>｜他的线画得笔直的，不作兴～点点儿。<sup>\[泰州\]</sup> ⑪ 动词后缀，表示离开趋势<sup>\[泰州\]</sup>：你把船撑走。<sup>\[泰州\]</sup>｜把车子开走。<sup>\[泰州\]</sup> ⑫ 委婉指人死<sup>\[泰州\]</sup>：他家老的去年～的。<sup>\[泰州\]</sup> ⑬ 介词，从，表示起点<sup>\[泰州\]</sup>：他～泰州开到南京顶多两个钟头。<sup>\[泰州\]</sup>｜你走老李开始，个人发一张票。<sup>\[泰州\]</sup> ⑭ 打牌下棋时出牌，移动棋子<sup>\[泰州\]</sup>：轮到你～唻，你想吖一当吖再走，不许赖贼。<sup>\[泰州\]</sup>｜你想吖半天唻，你哿能快点儿～牌？<sup>\[泰州\]</sup> ⑮ 一种烹饪方法，将食品在锅中略翻一下起锅<sup>\[泰州\]</sup>：菜冷吖唻，你在锅里～啊子再吃。<sup>\[泰州\]</sup>｜韭菜炒的时间不能太长，在锅里～啊子就行吖唻。<sup>\[泰州\]</sup>  
 1. 【[走啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeu_a.md#走啊)】`zeu3 a` <sup>[如东]</sup> ① 已经离开：他～。 ② 比喻人已死了：王二上午～。  
 1. 【[走啊荤（溷）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeu_a_huen.md#走啊荤（溷）)】`zeu3 a huen5` <sup>[如皋]</sup> 鱼肉类开始变质有臭味。  
@@ -445,8 +440,7 @@
 1. 【[这趟弯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_tan_vaen_zz.md#这趟弯子)】`zha5 tan5 vaen3 zz` <sup>[东台]</sup> ① 这趟路的来去。 ② ［引］人的这一辈子：他老人家90岁，～不想去美国咖。  
 1. 【[这条号](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_tio_ho.md#这条号)】`zha5 tio ho6` <sup>[东台]</sup> 这件事、这个问题：嗳，～就拜托你。  
 1. 【[这条号](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_tio_ho.md#这条号)】`zha5 tio2 ho6` <small>/t͡sa5 tʰiɔ2 xɔ6/<sup>兴化</sup>, /t͡sa5 tʰiɔ2 xɔ1/<sup>如皋</sup>, /t͡sa5 tʰiɔ2 xɔ1/<sup>泰县</sup></small> ① 这件事。<sup>\[如皋\]</sup> ② 这件事。<sup>\[如东\]</sup> ③ 这个样。<sup>\[如东\]</sup>：大不了就是～！<sup>\[如东\]</sup> ④ （贬）暗指人<sup>\[兴化\]</sup>：～现在不便说。<sup>\[兴化\]</sup>｜～眼下在外头当马扁。<sup>\[兴化\]</sup> ⑤ 这件事。<sup>\[泰县\]</sup>  
-1. 【[这些](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_xia.md#这些)】`zha5 xia1` <sup>[如东]</sup> 两个以上的人或事物。  
-1. 【[这些](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_xia.md#这些)】`zha5 xia1` ① 这么多的<sup>\[泰州\]</sup>：你弄啊～菜，就这几个人，跑哪块吃得掉？<sup>\[泰州\]</sup> ② 这么少的<sup>\[泰州\]</sup>：卖得差不多唻，就剩吖～，便宜点儿卖把你，哿好？<sup>\[泰州\]</sup>  
+1. 【[这些](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_xia.md#这些)】`zha5 xia1` 这些<sup>\[如东\]</sup><sup>\[泰州\]</sup>：你弄啊～菜，就这几个人，跑哪块吃得掉？/这么多菜<sup>\[泰州\]</sup>｜卖得差不多唻，就剩吖～，便宜点儿卖把你，哿好？/剩了这么点<sup>\[泰州\]</sup>  
 1. 【[这向时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_xian_shr.md#这向时)】`zha5 xian5 shr2` <sup>[兴化]</sup> 近日：～少有人来玩。也说“这向”。《醒世烟缘传》八十二回有“这向有件小事，穷忙没得去”句。  
 1. 【[这相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_xian.md#这相)】`zha5 xian5` <small>/t͡sa5 ɕiaŋ5/<sup>兴化</sup>, /t͡sa5 ɕiɑŋ5/<sup>泰县</sup></small> ① 这个样子<sup>\[兴化\]</sup>：～蛮好的。<sup>\[兴化\]</sup>｜你～混下去何日是了啊！<sup>\[兴化\]</sup> ② 这样：就～算吖。<sup>\[泰县\]</sup>  
 1. 【[这形样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_xien_ian.md#这形样)】`zha5 xien2 ian` <sup>[泰县]</sup> 这样子：这东西搞得～，回去难交待啊。  
@@ -515,8 +509,7 @@
 1. 【[站锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhaen_gu.md#站锅)】`zhaen5 gu1` <small>/t͡sɛ̃5 ko1/<sup>兴化</sup>, /t͡sɛ̃5 ko1/<sup>泰县</sup></small> ① 掌勺，当锅，负责烧菜<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰州\]</sup>\[兴化：或特指当厨师。\]：今朝张师傅～。<sup>\[如东\]</sup>｜今天王师傅～。<sup>\[东台\]</sup>｜今朝老李家请客，特地请吖厨子来～弄菜。<sup>\[泰州\]</sup> ② 烧菜的人。<sup>\[泰县\]</sup>  
 1. 【[站锅的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhaen_gu_dii.md#站锅的)】`zhaen5 gu1 dii` <sup>[如东]</sup> 厨师或炒菜的人。  
 1. 【[站红锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhaen_hon_gu.md#站红锅)】`zhaen5 hon2 gu1` <sup>[如东]</sup> 厨师炒热菜，称站红锅。  
-1. 【[站脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhaen_jiah.md#站脚)】`zhaen5 jiah7` <small>/t͡sɛ̃5 t͡ɕiaʔ7/<sup>兴化</sup>, /t͡sẽ5 t͡ɕiaʔ7/<sup>如皋</sup></small> ① 立足点：院子里头满是鸡屎，叫人没处～。<sup>\[如皋\]</sup> ② 停留：他不曾～，一经而过。<sup>\[如皋\]</sup> ③ 插身：他逃到青海，在朋友家～。<sup>\[如皋\]</sup> ④ 找临时职业或住所。见“垫脚”。<sup>\[兴化\]</sup> ⑤ 停留：他这次路过，不曾～。<sup>\[兴化\]</sup> ⑥ 立足、栖身：“……只求妹妹在二爷跟前替我好言方便方便，留我个～的地方儿……”（《红楼梦》六八）<sup>\[兴化\]</sup>  
-1. 【[站脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhaen_jiah.md#站脚)】`zhaen5 jiah7` ① 停留<sup>\[泰州\]</sup>：你家家里块块放的东西，来个人连个～的地方都没得。<sup>\[泰州\]</sup> ② 暂时栖身<sup>\[泰州\]</sup>：他在上海蹾不下去，只好先在泰州各个的公司里头临时～。<sup>\[泰州\]</sup>  
+1. 【[站脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhaen_jiah.md#站脚)】`zhaen5 jiah7` <small>/t͡sɛ̃5 t͡ɕiaʔ7/<sup>兴化</sup>, /t͡sẽ5 t͡ɕiaʔ7/<sup>如皋</sup></small> ① 立足<sup>\[如皋\]</sup>：院子里头满是鸡屎，叫人没处～。<sup>\[如皋\]</sup> ② 停留<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：他不曾～，一经而过。<sup>\[如皋\]</sup>｜他这次路过，不曾～。<sup>\[兴化\]</sup>｜你家家里块块放的东西，来个人连个～的地方都没得。<sup>\[泰州\]</sup> ③ 栖身<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>\[兴化：找临时职业或住所。见“垫脚”。\]：他逃到青海，在朋友家～。<sup>\[如皋\]</sup>｜“……只求妹妹在二爷跟前替我好言方便方便，留我个～的地方儿……”（《红楼梦》六八）<sup>\[兴化\]</sup>｜他在上海蹾不下去，只好先在泰州各个的公司里头临时～。<sup>\[泰州\]</sup>  
 1. 【[站窠<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhaen_ku_r.md#站窠<sub>儿</sub>)】`zhaen5 ku1 r` <sup>[如皋]</sup> ① 一种供婴儿冬天站立其中的稻草筒子。 ② 让婴儿站于站窠儿之中。  
 1. 【[站筷<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhaen_kuae_r.md#站筷<sub>儿</sub>)】`zhaen5 kuae5 r` <sup>[东台]</sup> 一种迷信动作，有人头疼脑热时，以为撞了某亡人，用四根筷子半碗水求助，据说求准了筷子就站起来，然后烧纸。  
 1. 【[站柜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhaen_kuei.md#站柜)】`zhaen5 kuei6` <sup>[兴化]</sup> 一种老式橱柜，立式，有一对柜门：不多一会儿，（女佣）转过身来就拉～门。（兴文：《同是女佣人》）  
@@ -548,10 +541,8 @@
 1. 【[斫刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhah_do.md#斫刀)】`zhah7 do1` <small>/t͡saʔ7 tɔ1/<sup>兴化</sup>, /t͡saʔ7 tɔ1/<sup>如皋</sup>, /t͡sɑʔ7 tɔ1/<sup>泰县</sup></small> ① 劈竹木的专用刀。<sup>\[如皋\]</sup> ② 一种工具，长方形，刀背厚，后边有铁柄，主要用来砍毛竹。也叫砍刀。<sup>\[如东\]</sup> ③ 厚背的砍刀。<sup>\[兴化\]</sup> ④ 汉字笔划，形状是“刂”。<sup>\[兴化\]</sup> ⑤ 砍刀。<sup>\[泰县\]</sup> ⑥ 字笔划的一种部首。<sup>\[泰县\]</sup>  
 1. 【[斫沟岸草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhah_geu_un_co.md#斫沟岸草)】`zhah7 geu1 un6 co3` <sup>[如东]</sup> 割河岸边上的草。  
 1. 【[斫花<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhah_hua_r.md#斫花<sub>儿</sub>)】`zhah7 hua1 r` <sup>[如皋]</sup> 用大斧下的碎木片。  
-1. 【[斫螂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhah_lan.md#斫螂)】`zhah7 lan` <small>/t͡saʔ7 lã/<sup>如皋</sup></small> ① 螳螂 ② 螳螂。<sup>\[如皋\]</sup> ③ 螳螂科昆虫大刀螳螂，体型较大长约7厘米，黄褐包或绿色。头部三角形。前胸足粗大，为镰刀状，基部外缘有短棘16个以上，腿节下外缘有短棘4个，第2个最大。生活在草丛或树枝上，捕食各种小虫，对农业有利。<sup>\[如东\]</sup>  
-1. 【[斫螂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhah_lan.md#斫螂)】`zhah7 lan` 螳螂。头三角形，一对触角很长，复眼大而明亮，颈可以自由转动，前足的腿节、胫节均有利刺，胫节呈镰刀状，常向腿节折叠，可以方便捕捉猎物，臀部发达，扇状，休息时叠于背上，腹部肥大。前足似刀，亦称为“斫割刀”。<sup>\[泰州\]</sup>  
-1. 【[斫螂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhah_lan.md#斫螂)】`zhah7 lan2-3` <sup>[泰县]</sup> 螳螂。  
-1. 【[斫螂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhah_lan.md#斫螂)】`zhah7 lan2` <small>/t͡saʔ7 laŋ2/<sup>兴化</sup></small> ① 螳螂。也称刀螂，斫刀。<sup>\[东台\]</sup> ② 螳螂。也作“刀螂”。<sup>\[兴化\]</sup>  
+1. 【[斫螂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhah_lan.md#斫螂)】`zhah7 lan` <small>/t͡saʔ7 lã/<sup>如皋</sup>, /t͡sɑʔ7 lɑŋ/<sup>泰兴</sup>, /t͡sɑʔ7 nɑŋ/<sup>泰县</sup></small> 螳螂<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup><sup>\[泰县\]</sup>  
+1. 【[斫螂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhah_lan.md#斫螂)】`zhah7 lan2` <small>/t͡saʔ7 laŋ2/<sup>兴化</sup></small> ① 螳螂。\[东台：也称刀螂，斫刀。\] ② 螳螂。\[兴化：也称“刀螂”。\]  
 1. 【[斫料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhah_lio.md#斫料)】`zhah7 lio6` <sup>[东台]</sup> 大材小用：为了打一张爬爬凳去锯大木料，我看是～啊。  
 1. 【[斫鸭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhah_ngaeh_zz.md#斫鸭子)】`zhah7 ngaeh7 zz` <sup>[泰县]</sup> 定个标准。  
 1. 【[斫人牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhah_ren_ngeu.md#斫人牛)】`zhah7 ren2 ngeu2` <sup>[如皋]</sup> ① 常以角牴人的牛。 ② 比喻常得罪人的人。  
@@ -617,8 +608,7 @@
 1. 【[掌号](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_ho.md#掌号)】`zhan3 ho6` <sup>[兴化]</sup> 吹号：只听得营门外三声大炮，将台上先～，随后又吹打起来。（《官场现形记》六）  
 1. 【[掌叶半夏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_ih_bun_xia.md#掌叶半夏)】`zhan3 ih8 bun5 xia6` <sup>[如东]</sup> 天南星科植物掌叶半夏，多年生草本。块茎近球形。叶片掌状分裂。肉穗花序顶生。浆果卵圆形，绿色。生长在田野阴湿处。  
 1. 【[掌柜的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_kuei_dii.md#掌柜的)】`zhan3 kuei6 dii` <sup>[如东]</sup> ① 旧时指店老板。 ② 比喻当家人：我家～不在。  
-1. 【[掌眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_ngaen.md#掌眼)】`zhan3 ngaen3` <small>/t͡saŋ3 ɛ̃3/<sup>兴化</sup>, /t͡sã3 ŋẽ3/<sup>如皋</sup></small> ① 帮助观察掌握：我想去买双鞋子，请你帮吖～哿好？<sup>\[如皋\]</sup> ② 帮着看、挑拣<sup>\[兴化\]</sup>：明吖上城买电冰箱，请你一起去～。<sup>\[兴化\]</sup>  
-1. 【[掌眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_ngaen.md#掌眼)】`zhan3 ngaen3` 帮人查验人或物的品质<sup>\[泰州\]</sup>：人家介绍啊个女的，约咖见面，想请你一起过去帮吖我～。<sup>\[泰州\]</sup>  
+1. 【[掌眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_ngaen.md#掌眼)】`zhan3 ngaen3` <small>/t͡saŋ3 ɛ̃3/<sup>兴化</sup>, /t͡sã3 ŋẽ3/<sup>如皋</sup></small> 帮助观察掌握（品质等）<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：我想去买双鞋子，请你帮吖～哿好？<sup>\[如皋\]</sup>｜明吖上城买电冰箱，请你一起去～。<sup>\[兴化\]</sup>｜人家介绍啊个女的，约咖见面，想请你一起过去帮吖我～。<sup>\[泰州\]</sup>  
 1. 【[掌气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_qi.md#掌气)】`zhan3 qi5` <sup>[兴化]</sup> 打气、加油：给车胎～｜你瞌睡隀𥅻盹的，怕要～啊。  
 1. 【[掌勺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_shah.md#掌勺)】`zhan3 shah8` <sup>[东台]</sup> 主持烹调。  
 1. 【[掌头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_teu.md#掌头)】`zhan3 teu2` <sup>[如皋]</sup> 排行第一。  
@@ -663,8 +653,7 @@
 1. 【[长相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_xian.md#长相)】`zhan3 xian5` <sup>[如东]</sup> ① 人的相貌：她的～好。 ② 种植的方式方法：玉米怎吖～？  
 1. 【[长云](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_yen.md#长云)】`zhan3 yen2` <small>/t͡sã3 yəŋ2/<sup>如皋</sup></small> ① 云层渐多渐厚。<sup>\[如皋\]</sup> ② 目生瞖，又称上膜络儿、上𣋟曪。<sup>\[如皋\]</sup> ③ 天空中出现了云层。<sup>\[如东\]</sup> ④ 比喻眼球上产生了翳障。<sup>\[如东\]</sup>  
 1. 【[长朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_zho.md#长朝)】`zhan3 zho1` <sup>[兴化]</sup> 指生意最好的一天：小茶馆～的一天卖啊一百多笼点心。  
-1. 【[长志](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_zhr.md#长志)】`zhan3 zhr5` <sup>[兴化]</sup> 助长坏习气：他这吖调皮，你不管他，反而给他～。  
-1. 【[长志](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_zhr.md#长志)】`zhan3 zhr5` 助长他人志气<sup>\[泰州\]</sup>：这件事你必须管，不能让他～。<sup>\[泰州\]</sup>  
+1. 【[长志](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_zhr.md#长志)】`zhan3 zhr5` <small>/t͡saŋ3 t͡sɿ5/<sup>兴化</sup></small> ① 助长坏习气<sup>\[兴化\]</sup>：他这吖调皮，你不管他，反而给他～。<sup>\[兴化\]</sup> ② 助长他人志气<sup>\[泰州\]</sup>：这件事你必须管，不能让他～。<sup>\[泰州\]</sup>  
 1. 【[长智](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_zhr.md#长智)】`zhan3 zhr5` <sup>[兴化]</sup> ① 吸取教训：“你呀，太善了……吃了亏，怎么不～呢？”（刘春龙《无意插柳》） ② 想出对付的办法：“……我们快去，莫要使他停留～。”（《醒世恒言》四）  
 1. 【[长子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_zz.md#长子)】`zhan3 zz3` <sup>[东台]</sup> 排行最大的儿子。本地称“大小tu6 xio3”。  
 1. 【[长子<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_zz_r.md#长子<sub>儿</sub>)】`zhan3 zz3 r` <sup>[如皋]</sup> 见“爬塘儿”。  
@@ -679,8 +668,7 @@
 1. 【[帐檐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_in.md#帐檐)】`zhan5 in2` <sup>[兴化]</sup> 挂在蚊帐前上的横幅：（她们）有求画～的有求画鞋头花的。（汪曾祺《慢戒》）也说“帐颜”。  
 1. 【[帐沿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_in.md#帐沿)】`zhan5 in2` <sup>[东台]</sup> 罩在蚊帐前面上边沿的橫幅装饰品。  
 1. 【[帐帘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_lin_zz.md#帐帘子)】`zhan5 lin2 zz` <sup>[如皋]</sup> 蚊帐帐门上方的横幅绣花布饰。  
-1. 【[帐颜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_ngaen.md#帐颜)】`zhan5 ngaen2` <sup>[兴化]</sup> 挂在蚊帐前上的横幅。  
-1. 【[帐颜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_ngaen.md#帐颜)】`zhan5 ngaen2` 悬挂于蚊帐前部上方装饰用的布幅。<sup>\[泰州\]</sup>  
+1. 【[帐颜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_ngaen.md#帐颜)】`zhan5 ngaen2` <small>/t͡saŋ5 ɛ̃2/<sup>兴化</sup></small> 挂在蚊帐前上的横幅，装饰用<sup>\[兴化\]</sup><sup>\[泰州\]</sup>  
 1. 【[帐索<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_sah_r.md#帐索<sub>儿</sub>)】`zhan5 sah7 r` <sup>[如皋]</sup> 蚊帐用的连接一对帐钩子的索子，多为银质。  
 1. 【[帐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_zz.md#帐子)】`zhan5 zz` <sup>[如东]</sup> 防蚊的透气的方形或圆形织物。  
 1. 【[帐子窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_zz_ku.md#帐子窠)】`zhan5 zz ku1` <sup>[如东]</sup> 蚊帐里面，叫做帐子窠。  
@@ -810,8 +798,7 @@
 1. 【[睁眼闭眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_ngaen_bi_ngaen.md#睁眼闭眼)】`zhen1 ngaen3 bi5 ngaen3` <sup>[兴化]</sup> 明知不对，有意不管：他俫单位负责人看到有人上班打麻将，～，受到通报批评。  
 1. 【[睁眼瞎子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_ngaen_haeh_zz.md#睁眼瞎子)】`zhen1 ngaen3 haeh7 zz` <sup>[如东]</sup> 比喻对事物的本来面目看不清楚。  
 1. 【[睁只眼闭只眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zheh_ngaen_bi_zheh_ngaen.md#睁只眼闭只眼)】`zhen1 zheh7 ngaen3 bi5 zheh7 ngaen3` <sup>[东台]</sup> 原意是看见装看不见。喻意故意敷衍了事，不负责任。  
-1. 【[砧板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_baen.md#砧板)】`zhen1 baen3` <sup>[如东]</sup> 垫在下面切东西的工具，叫做砧板。也叫切板。  
-1. 【[砧板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_baen.md#砧板)】`zhen1 baen3` 切菜板，切菜时垫在菜下面的厚木板。<sup>\[泰州\]</sup>  
+1. 【[砧板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_baen.md#砧板)】`zhen1 baen3` 切菜板<sup>\[泰州\]</sup>\[如东：也叫切板。\]  
 1. 【[蒸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen.md#蒸)】`zhen1` <sup>[如东]</sup> 一种烹调方法。利用水蒸气的热量使食物变热、变熟。  
 1. 【[蒸饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_faen.md#蒸饭)】`zhen1 faen6` <small>/t͡sən1 fɛ̃6/<sup>兴化</sup></small> ① 做饭的一种方法。把米放在甑子里蒸熟。<sup>\[如东\]</sup> ② 饭的一种。用甑子蒸熟的饭，叫蒸饭。<sup>\[如东\]</sup>：这是～。<sup>\[如东\]</sup> ③ 把冷饭放在蒸笼或甑子中加温。<sup>\[如东\]</sup> ④ 一种食品，蒸熟的糯米饭包砂糖、油条等，用布勒成团后进食。‖也作“糍饭”。<sup>\[兴化\]</sup>  
 1. 【[蒸笼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_lon.md#蒸笼)】`zhen1 lon2` <sup>[如东]</sup> 蒸馒头的工具。木制、竹制或金属制，方形或圆形，一层层地垒起来把馒头放在里面加温蒸熟。  
@@ -937,8 +924,7 @@
 1. 【[周劝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheu_qiun.md#周劝)】`zheu1 qiun5` <sup>[如皋]</sup> 耐心劝说和照看：他不受～，你～他没得用。  
 1. 【[周五正六](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheu_v_zhen_loh.md#周五正六)】`zheu1 v3 zhen5 loh8` <sup>[兴化]</sup> “周正”一词的生动形式：你寻个～的事做做，覅成天悠悠荡荡的。  
 1. 【[周瑜打黄盖——一个愿打，一个愿捱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheu_y_da_huan_gae_ieh_gu_iun_da_ieh_gu_iun_ngae.md#周瑜打黄盖——一个愿打，一个愿捱)】`zheu1 y2 da3 huan2 gae5 ieh7 gu iun6 da3 ieh7 gu iun6 ngae2` <sup>[东台]</sup>   
-1. 【[周正](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheu_zhen.md#周正)】`zheu1 zhen` <sup>[如皋]</sup> 端正、正派。  
-1. 【[周正](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheu_zhen.md#周正)】`zheu1 zhen` ① 人的相貌或者物的造型端庄大方<sup>\[泰州\]</sup>：这小伙长得还算～，不过陪你家三丫头还差点儿。<sup>\[泰州\]</sup> ② 人的品行规矩、正派<sup>\[泰州\]</sup>：到底是～人家的人，说起话来句句通情达理。<sup>\[泰州\]</sup>  
+1. 【[周正](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheu_zhen.md#周正)】`zheu1 zhen` <small>/t͡sei1 t͡səŋ/<sup>如皋</sup></small> ① 端正、正派。<sup>\[如皋\]</sup> ② 人的相貌或者物的造型端庄大方<sup>\[泰州\]</sup>：这小伙长得还算～，不过陪你家三丫头还差点儿。<sup>\[泰州\]</sup> ③ 人的品行规矩、正派<sup>\[泰州\]</sup>：到底是～人家的人，说起话来句句通情达理。<sup>\[泰州\]</sup>  
 1. 【[周正](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheu_zhen.md#周正)】`zheu1 zhen5` <small>/t͡sɤ1 t͡sən5/<sup>兴化</sup></small> ① 品德端正。<sup>\[如东\]</sup>：兰兰是个～的伢儿。<sup>\[如东\]</sup> ② 端正<sup>\[东台\]</sup>：模样～。<sup>\[东台\]</sup> ③ 正派<sup>\[东台\]</sup>：～人。<sup>\[东台\]</sup> ④ 正派、正当<sup>\[兴化\]</sup>：他是～人家出来的。<sup>\[兴化\]</sup>｜人家如俊家的不一样，虽说长得差了点，可是～……（毕飞宇《玉米》）<sup>\[兴化\]</sup>｜～行当；～货。<sup>\[兴化\]</sup> ⑤ 认真严肃地<sup>\[兴化\]</sup>：我跟你说句～话。也说“周周正正。”<sup>\[兴化\]</sup>  
 1. 【[周周备备](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheu_zheu_pei_pei.md#周周备备)】`zheu1 zheu1 pei6 pei6` <sup>[兴化]</sup> 周到、缜密：开会的事筹措得～，你就放心吧！  
 1. 【[周周正正](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheu_zheu_zhen_zhen.md#周周正正)】`zheu1 zheu1 zhen5 zhen5` <sup>[兴化]</sup> 见“周正”。  
@@ -1025,8 +1011,7 @@
 1. 【[招魂幡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_huen_faen.md#招魂幡)】`zho1 huen2 faen1` <sup>[如东]</sup> 招喊死者魂灵回来授用祭品、金钱的纸幡。分大幡儿与小幡儿两种。大幡儿由红、黄绿三色纸剪成圆柱状系在芦秆的中部。小幡儿由红、黄、绿三色纸剪成条状，夹在芦秆头部。清明节举行祭祀活动时，大幡儿插在坟茔帽子的上面，小幡儿插在坟茔帽子的四周。  
 1. 【[招女婿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_ny_xy.md#招女婿)】`zho1 ny3 xy5` <sup>[如皋]</sup> 男子入赘女家。  
 1. 【[招耙<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_pa_r.md#招耙<sub>儿</sub>)】`zho1 pa2 r` <sup>[东台]</sup> 划草、聚拢草的工具，一头长柄，一头是一排胡弯的竹齿。  
-1. 【[招牌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_pae.md#招牌)】`zho1 pae2` <sup>[如东]</sup> ① 挂在商店门前作为标志的牌子。 ② 比喻借名：借他的～去办事。  
-1. 【[招牌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_pae.md#招牌)】`zho1 pae2` ① 商家挂在或者竖在门前用以招徕顾客、标明名号、经营内容的木板。<sup>\[泰州\]</sup> ② 比喻最拿手的，可以代表商家技艺水平的东西。<sup>\[泰州\]</sup>  
+1. 【[招牌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_pae.md#招牌)】`zho1 pae2` ① 商店机构作为标识的牌子<sup>\[如东\]</sup><sup>\[泰州\]</sup> ② 比喻借名。<sup>\[如东\]</sup>：借他的～去办事。<sup>\[如东\]</sup> ③ 比喻最拿手的，可以代表商家技艺水平的东西。<sup>\[泰州\]</sup>  
 1. 【[招牌纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_pae_zhr.md#招牌纸)】`zho1 pae2 zhr3` <sup>[兴化]</sup> ① 夹在商品里的广告。 ② 商品的说明书。  
 1. 【[招被单头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_pi_daen_teu.md#招被单头)】`zho1 pi6 daen1 teu2` <sup>[如皋]</sup> 招，回覆。绗被单时，把被头的被里回复到被面上再绗。也指盖被子时，将被单头折起。  
 1. 【[招惹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_ra.md#招惹)】`zho1 ra3` <sup>[东台]</sup> 用语言、行动触动对方：你同我放老实点，别～是非！  
@@ -1058,9 +1043,8 @@
 1. 【[找价](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_jia.md#找价)】`zho3 jia5` 交易完成后，卖主觉得当时售价过贱，而向买主索取加价。<sup>\[泰州\]</sup>  
 1. 【[找零](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_lien.md#找零)】`zho3 lien2` <sup>[如皋]</sup> 裁衣时将零头布留作零用。  
 1. 【[找麻疤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_ma_ba_zz.md#找麻疤子)】`zho3 ma2 ba1 zz` <sup>[东台]</sup> 同“找眼子”。  
-1. 【[找抹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_maeh.md#找抹)】`zho3 maeh` <small>/t͡sɔ3 meʔ/<sup>如皋</sup>, /t͡sɔ3 mæʔ/<sup>泰县</sup></small> ① 清理、清点：～下子、～清爽。<sup>\[如皋\]</sup> ② 挑衅：他就会～人。<sup>\[如皋\]</sup> ③ 回头仔细检查，处理好未了的事宜。<sup>\[东台\]</sup> ④ 检点：你走的时候把家里～下子。<sup>\[泰县\]</sup>  
+1. 【[找抹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_maeh.md#找抹)】`zho3 maeh` <small>/t͡sɔ3 meʔ/<sup>如皋</sup>, /t͡sɔ3 mæʔ/<sup>泰县</sup></small> ① 清理、清点<sup>\[如皋\]</sup>：～下子、～清爽。<sup>\[如皋\]</sup> ② 挑衅<sup>\[如皋\]</sup>：他就会～人。<sup>\[如皋\]</sup> ③ 回头仔细检查，处理好未了的事宜。<sup>\[东台\]</sup> ④ 检点<sup>\[泰县\]</sup>：你走的时候把家里～下子。<sup>\[泰县\]</sup> ⑤ 瓦工粉墙或者拾屋结束之前，寻找未发现的漏隙及时涂抹，引申指事情做完以后，认真检查一下，发现不足之处，弥补一下<sup>\[泰州\]</sup>：他每回打扫过啊，你还要同他～咖子。<sup>\[泰州\]</sup>｜你卷子做啊好啊不要忙吖交，再～咖子，望望哿有甚的不妥的。<sup>\[泰州\]</sup>  
 1. 【[找抹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_maeh.md#找抹)】`zho3 maeh8` <sup>[兴化]</sup> 见“找摸”。  
-1. 【[找抹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_maeh.md#找抹)】`zho3 maeh8` 瓦工粉墙或者拾屋结束之前，寻找未发现的漏隙及时涂抹，引申指事情做完以后，认真检查一下，发现不足之处，弥补一下<sup>\[泰州\]</sup>：他每回打扫过啊，你还要同他～咖子。<sup>\[泰州\]</sup>｜你卷子做啊好啊不要忙吖交，再～咖子，望望哿有甚的不妥的。<sup>\[泰州\]</sup>  
 1. 【[找摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_mah.md#找摸)】`zho3 mah8` <sup>[兴化]</sup> 检点：收工之后再回头～咖子。也说“找抹”。  
 1. 【[找明](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_mien.md#找明)】`zho3 mien2` <sup>[兴化]</sup> 回过头来把事情说清楚：这回书先～王中央众绅衿进署递呈，恳恩免解……（《岐路灯》五五）  
 1. 【[找牙行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_nga_han.md#找牙行)】`zho3 nga2 han2` <sup>[东台]</sup> 请私人职业介绍所介绍工作。  
@@ -1640,8 +1624,7 @@
 1. 【[砖头瓦瓣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_teu_va_baen_r.md#砖头瓦瓣<sub>儿</sub>)】`zhun1 teu2 va3 baen5 r` <sup>[东台]</sup> 碎砖碎瓦等建筑垃圾。  
 1. 【[转场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_chan.md#转场)】`zhun3 chan2` <sup>[兴化]</sup> 暂停争执，使气氛缓和：你不要硬顶，转个场再说。｜你先回避一下，好让他有个～。  
 1. 【[转场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_chan.md#转场)】`zhun3 chan3` ① 戏曲演员转换演出场次。<sup>\[泰州\]</sup> ② 双方发生争执之时，一方暂时回避，等到气氛缓和以后再行商议<sup>\[泰州\]</sup>：你俫这样子吵法不行，老李你先转吖场，有话等一刻儿再说。<sup>\[泰州\]</sup>  
-1. 【[转潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_cho.md#转潮)】`zhun3 cho2` <small>/t͡sũ3 t͡sʰɔ2/<sup>兴化</sup>, /t͡sʊ̃3 t͡sʰɔ2/<sup>如皋</sup></small> ① 空气湿度大，物体由干变䵑乃至潮湿。<sup>\[如皋\]</sup> ② 本来干燥的物品，吸收了空气中的水分，变潮湿了。<sup>\[东台\]</sup> ③ 由于空气湿度大，居室和物品沾有水汽<sup>\[兴化\]</sup>：你望，你父亲那件老夹袄今天～，水都快往下滴了。（兴文：《小癞子招驸马》）<sup>\[兴化\]</sup>  
-1. 【[转潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_cho.md#转潮)】`zhun3 cho2` 因为空气湿度饱和，致使已干衣物沾有湿气<sup>\[泰州\]</sup>：最近这些时天天落雨，家里湿气大啊没得命，橱子里栋的衣裳都转潮唻。<sup>\[泰州\]</sup>  
+1. 【[转潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_cho.md#转潮)】`zhun3 cho2` <small>/t͡sũ3 t͡sʰɔ2/<sup>兴化</sup>, /t͡sʊ̃3 t͡sʰɔ2/<sup>如皋</sup></small> ① 空气湿度大，物体由干变䵑乃至潮湿。<sup>\[如皋\]</sup> ② 本来干燥的物品，吸收了空气中的水分，变潮湿了。<sup>\[东台\]</sup> ③ 由于空气湿度大，居室和物品沾有水汽<sup>\[兴化\]</sup>：你望，你父亲那件老夹袄今天～，水都快往下滴了。（兴文：《小癞子招驸马》）<sup>\[兴化\]</sup> ④ 因为空气湿度饱和，致使已干衣物沾有湿气<sup>\[泰州\]</sup>：最近这些时天天落雨，家里湿气大啊没得命，橱子里栋的衣裳都转潮唻。<sup>\[泰州\]</sup>  
 1. 【[转刀<sub>儿</sub>块子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_do_r_kuae_zz.md#转刀<sub>儿</sub>块子)】`zhun3 do1 r kuae5 zz` <sup>[如皋]</sup> 切一刀，转一下，切成有棱角的块子。  
 1. 【[转角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_gah.md#转角)】`zhun3 gah7` <sup>[东台]</sup> 拐弯处。  
 1. 【[转瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_gua.md#转瓜)】`zhun3 gua1` <sup>[东台]</sup> 番瓜，即南瓜。渔民避讳语。因番的谐音翻，故避讳。  
@@ -1827,8 +1810,7 @@
 1. 【[早办前程](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_baen_qin_chen.md#早办前程)】`zo3 baen5 qin2 chen2` <sup>[兴化]</sup> （戏）意为早作准备：谚曰：黄花女儿绗衲子（厚尿布）——～。｜窠儿桶里（摇篮）打寿纸——～。  
 1. 【[早半晌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_bun_shan.md#早半晌)】`zo3 bun5 shan` <sup>[如皋]</sup> 黎明及清晨。  
 1. 【[早半天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_bun_tin.md#早半天)】`zo3 bun5 tin1` <sup>[兴化]</sup> 上午：这天下午，几乎闲了～的土地庙，接特了四个来求神的人……（兴文《好吃菩陈》）  
-1. 【[早茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_cha.md#早茶)】`zo3 cha2` <small>/t͡sɔ3 t͡sʰa2/<sup>泰县</sup></small> ① 早晨喝茶。<sup>\[如东\]</sup> ② 早晨吃点心。<sup>\[如东\]</sup> ③ 早点。<sup>\[泰县\]</sup>  
-1. 【[早茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_cha.md#早茶)】`zo3 cha2` 在饭店、茶馆食用的干丝、肉包、鱼汤面之类较高档的早餐。<sup>\[泰州\]</sup>  
+1. 【[早茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_cha.md#早茶)】`zo3 cha2` <small>/t͡sɔ3 t͡sʰa2/<sup>泰县</sup></small> ① 早晨喝茶。<sup>\[如东\]</sup> ② 早晨吃点心。<sup>\[如东\]</sup> ③ 早点。<sup>\[泰县\]</sup> ④ 在饭店、茶馆食用的干丝、肉包、鱼汤面之类较高档的早餐。<sup>\[泰州\]</sup>  
 1. 【[早茶时候](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_cha_shr_heu.md#早茶时候)】`zo3 cha2 shr2 heu` <sup>[如皋]</sup> 约早晨7时左右。  
 1. 【[早出晚归](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_chueh_vaen_guei.md#早出晚归)】`zo3 chueh7 vaen3 guei1` <sup>[兴化]</sup> 早晨外出上班或经营，晚间回家休息：父亲开机帆船，往来运货，～。也说“早出晚回”。  
 1. 【[早饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_faen.md#早饭)】`zo3 faen6` <sup>[如东]</sup> 早晨吃饭。也称早餐。  
@@ -1952,8 +1934,7 @@
 1. 【[总在](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zon_cae.md#总在)】`zon3 cae6` ① 都在<sup>\[泰州\]</sup>：他中上～食堂吃饭。<sup>\[泰州\]</sup> ② 大约是在<sup>\[泰州\]</sup>：这件衣裳是真丝的，～二千块钱朝上。<sup>\[泰州\]</sup>  
 1. 【[总归](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zon_guei.md#总归)】`zon3 guei1` <sup>[东台]</sup> 总之的意思。  
 1. 【[总共](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zon_kon.md#总共)】`zon3 kon6` <sup>[如皋]</sup> 总计。  
-1. 【[粽箬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zon_rah.md#粽箬)】`zon5 rah8` <small>/t͡soŋ5 laʔ8/<sup>兴化</sup></small> ① 粽叶 ② 裹粽子的芦苇叶。<sup>\[东台\]</sup> ③ 包粽子用的苇叶。也称“柴叶子”。<sup>\[兴化\]</sup>：这打下的苇叶，专作裹粽子之用，当地人称之为～。（刘仁前·《楚水风物》）<sup>\[兴化\]</sup>  
-1. 【[粽箬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zon_rah.md#粽箬)】`zon5 rah8` 裹粽子用的芦叶。<sup>\[泰州\]</sup>  
+1. 【[粽箬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zon_rah.md#粽箬)】`zon5 rah8` <small>/t͡soŋ5 laʔ8/<sup>兴化</sup>, /t͡sɔŋ5 ɻɑʔ/<sup>泰兴</sup></small> 粽叶<sup>\[东台\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>\[兴化：也称“柴叶子”。\]：这打下的苇叶，专作裹粽子之用，当地人称之为～。（刘仁前·《楚水风物》）<sup>\[兴化\]</sup>  
 1. 【[粽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zon_zz.md#粽子)】`zon5 zz` <sup>[如东]</sup> 食品。以糯米、穄米等为主要原料，用芦箬包裹起来，呈三角形或锥体形，放入锅中煮熟，此种食品称综子。质韧，味香，一般在端午节食用。  
 1. 【[粽子糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zon_zz_tan.md#粽子糖)】`zon5 zz tan2` <sup>[如皋]</sup> 粽形块子糖。  
 1. 【[纵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zon.md#纵)】`zon5` <sup>[如皋]</sup> 奔腾：马～得快。  
@@ -2034,8 +2015,7 @@
 1. 【[做假](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_jia.md#做假)】`zu5 jia3` <sup>[如东]</sup> 掺杂假货：他在烧酒里～。  
 1. 【[做脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_jiah.md#做脚)】`zu5 jiah7` <small>/t͡so5 t͡ɕiaʔ7/<sup>兴化</sup></small> ① 同“做货”。<sup>\[东台\]</sup> ② 做引线、当内应<sup>\[兴化\]</sup>：他买通门卫～，夜里放他进厂偷设备。<sup>\[兴化\]</sup>｜（陈旺）与老婆商议，教他～，里应外合……（《古今小说》一）<sup>\[兴化\]</sup>  
 1. 【[做劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_jien.md#做劲)】`zu5 jien5` <small>/t͡sʊ5 t͡ɕiəŋ5/<sup>如皋</sup></small> ① 使劲：拔河的刻儿，大家一齐儿～。<sup>\[如皋\]</sup> ② 得力、起作用：这个人派啊去不～；这根扂子最～。<sup>\[如皋\]</sup> ③ 吃力。<sup>\[如东\]</sup>：这吖坐，我有些～。<sup>\[如东\]</sup> ④ 下决心。<sup>\[如东\]</sup>：我早就～，一定要去。<sup>\[如东\]</sup>  
-1. 【[做九](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_jieu.md#做九)】`zu5 jieu3` <sup>[东台]</sup> 东台有“做九不做十”的习俗。详见“跨缺”。  
-1. 【[做九](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_jieu.md#做九)】`zu5 jieu3` 民俗，正常情况之下逢十为大生日。五十以上老人九为大生日。在59、69、79、89、99岁的生日视同大生日，是日举办筵席邀请亲朋好友庆贺生日<sup>\[泰州\]</sup>：今年子你家爹爹七十九岁，几个大大说咖唻，要～，把家里的亲戚都请过来，好好儿热嘈下子。<sup>\[泰州\]</sup>  
+1. 【[做九](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_jieu.md#做九)】`zu5 jieu3` 民俗。岁数尾数为九的生日，大贺。\[东台：东台有“做九不做十”的习俗。详见“跨缺”。\]\[泰州：民俗，正常情况之下逢十为大生日。五十以上老人九为大生日。在59、69、79、89、99岁的生日视同大生日，是日举办筵席邀请亲朋好友庆贺生日\]：今年子你家爹爹七十九岁，几个大大说咖唻，要～，把家里的亲戚都请过来，好好儿热嘈下子。<sup>\[泰州\]</sup>  
 1. 【[做节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_jih.md#做节)】`zu5 jih7` <sup>[东台]</sup> 男女确定恋爱关系后，男方带聘礼拜访女方，双方亲属相聚认新亲定亲。也叫“押节”。  
 1. 【[做茧<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_jin_r.md#做茧<sub>儿</sub>)】`zu5 jin3 r` <sup>[如皋]</sup> 结茧。  
 1. 【[做荐头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_jin_teu_zz.md#做荐头子)】`zu5 jin5 teu zz` <sup>[如皋]</sup> 出头与人争执：你不要～，别人又不曾推举你！  
