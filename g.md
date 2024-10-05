@@ -1002,7 +1002,7 @@
 1. 【[锅巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_ba.md#锅巴)】`gu1 ba` <sup>[如东]</sup> 紧贴锅底的硬结的一层饭，叫做锅巴。  
 1. 【[锅巴糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_ba_go.md#锅巴糕)】`gu1 ba go1` <sup>[如皋]</sup> 用烤黄的糯米粉做的云片糕。  
 1. 【[锅巴粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_ba_zhoh.md#锅巴粥)】`gu1 ba zhoh7` <sup>[如皋]</sup> 用锅巴煮的稀饭。  
-1. 【[锅剥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_bah.md#锅剥)】`gu1 bah7` <sup>[东台]</sup> 锅巴。  
+1. 【[锅剥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_bah.md#锅剥)】`gu1 bah7` <small>/kɤɯ1 pɑʔ7/<sup>泰兴</sup></small> 锅巴。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[锅不热，饼不靠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_beh_rih_bien_beh_ko.md#锅不热，饼不靠)】`gu1 beh7 rih8 bien3 beh7 ko5` <sup>[东台]</sup> ① ［喻］一方不主动热情，另一方就不愿接近：对客商要亲，否则～。 ② 主人不热情客人就不来。  
 1. 【[锅不动瓢不响](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_beh_ton_pio_beh_xian.md#锅不动瓢不响)】`gu1 beh7 ton6 pio2 beh7 xian3` <sup>[东台]</sup> （俗语）指没有动静：这个工程怎吖到现在还～的？  
 1. 【[锅不动，瓢不响](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_beh_ton_pio_beh_xian.md#锅不动，瓢不响)】`gu1 beh7 ton6 pio2 beh7 xian3` <sup>[兴化]</sup> （喻）毫无动静：“……这几天我家里～，过年的东西一样还没有办哩。”（《皮五辣子》三）  
