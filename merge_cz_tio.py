@@ -13,8 +13,9 @@ def conts_from_content(fc1, fname):
     if not re.fullmatch(r'\s*', cont_text):
       cont = parse_cont(cont_text, fname)
       range = (split_cursor, cont_match.start())
+      body = cont_text
       split_cursor = cont_match.end()
-      conts[f"raw_text$${cont.raw_text}$$raw_pien_ien$${cont.raw_pien_ien}"].append((cont, range))
+      conts[f"raw_text$${cont.raw_text}$$raw_pien_ien$${cont.raw_pien_ien}"].append((cont, range, body))
   return conts
 
 def txct():
@@ -40,7 +41,6 @@ def main():
     ranges_to_delete = []
 
     for key, value in conts.items():
-      value = [it for it in value if it[0].spec == 1]
       if len(value) > 1:
         cont0 = value[0][0]
         if file_content[-1] != '\n':
@@ -48,16 +48,20 @@ def main():
         file_content += '\n'
         file_content += (f"# {cont0.raw_text}\n")
         file_content += (f"{cont0.raw_pien_ien}\n")
-        for cont, r in value:
+        for cont, r, body in value:
           if replaceable:
             ranges_to_delete.append(r)
-          for meaning in cont.meanings:
-            file_content += (f"+ {meaning.explanation}\n")
-            if cont.source:
-              file_content += (f"  * {cont.source}\n")
-            sub_meaning = meaning.subs[0]
-            for example in sub_meaning.examples:
-              file_content += (f"  - {example}\n")
+          if cont.spec == 1:
+            for meaning in cont.meanings:
+              file_content += (f"+ {meaning.explanation}\n")
+              if cont.source:
+                file_content += (f"  * {cont.source}\n")
+              sub_meaning = meaning.subs[0]
+              for example in sub_meaning.examples:
+                file_content += (f"  - {example}\n")
+          else:
+            file_content += re.sub(r"^.+\n.+\n", "", body)
+            file_content += "\n"
 
     ranges_to_delete.sort(key=lambda r: r[0])
     file_content = remove_matches(file_content, ranges_to_delete)
