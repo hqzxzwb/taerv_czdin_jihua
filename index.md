@@ -562,15 +562,13 @@
 1. 【[屙烂的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_laen_dii.md#屙烂的)】`u1 laen6 dii` <sup>[东台]</sup> ［喻］不讲信用，推卸责任：那家伙借钱时说得的的刮刮，哪晓得到期不还，还说咖多少可怜话，～，真拿他没办法。  
 1. 【[屙面筋屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_min_jien_shr.md#屙面筋屎)】`u1 min6 jien1 shr3` <small>/o1 miɪ̃6 t͡ɕin1 sɿ3/<sup>兴化</sup>, /o1 miɪ̃1 t͡ɕiŋ1 sɿ3/<sup>泰县</sup></small> 指人说话、办事不干脆<sup>\[兴化\]</sup><sup>\[泰县\]</sup>：你到底同意不同意，赶快说。覅～！<sup>\[兴化\]</sup>｜你去还是不去，赶快定下来，不要～。<sup>\[泰县\]</sup>  
 1. 【[屙脓沰血](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_non_dah_xiuh.md#屙脓沰血)】`u1 non2 dah7 xiuh7` <small>/o1 loŋ2 taʔ7 ɕyuʔ7/<sup>兴化</sup>, /ʊ1 nɔŋ2 taʔ7 ɕyʊʔ7/<sup>如皋</sup>, /o1 noŋ2 tɑʔ7 ɕyʊʔ7/<sup>泰县</sup></small> ① 状人萎琐无能。民谚：宁养个扒墙上壁，不养个～。<sup>\[如皋\]</sup> ② 身体多病软弱。比喻没有出息。<sup>\[如东\]</sup>：这个人～的，有甚的用。比喻很不干净。<sup>\[如东\]</sup> ③ ［借］形容病情严重，借喻软弱无用的人<sup>\[东台\]</sup>：这个人～的，怎吖能放到这个重要岗位上？<sup>\[东台\]</sup> ④ 形容人个性窝囊，缺乏阳刚之气<sup>\[兴化\]</sup>：他这个人～的，一世狠不起来。<sup>\[兴化\]</sup> ⑤ 很不干净。<sup>\[泰县\]</sup> ⑥ 没出息、窝囊。<sup>\[泰县\]</sup>  
-1. 【[屙屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_shr.md#屙屎)】`u1 shr3` <sup>[如皋]</sup> 排泄大便。  
-1. 【[屙屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_shr.md#屙屎)】`u1 shr3` 排泄大便。<sup>\[泰州\]</sup>  
+1. 【[屙屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_shr.md#屙屎)】`u1 shr3` <small>/ʊ1 sɿ3/<sup>如皋</sup></small> 排泄大便。<sup>\[如皋\]</sup><sup>\[泰州\]</sup>  
 1. 【[屙屎离你三砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_shr_li_nii_saen_zhun.md#屙屎离你三砖)】`u1 shr3 li6 nii3 saen1 zhun1` <sup>[东台]</sup> ［喻］旧式茅缸上面，人蹲的地方铺着砖头，此话比喻远离对方：你狠你的，我～！  
 1. 【[屙屎离三砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_shr_li_saen_zhun.md#屙屎离三砖)】`u1 shr3 li6 saen1 zhun1` <sup>[兴化]</sup> 避免接触：你这个人我惹不起，只好跟你～。  
 1. 【[屙屎拔茅针，一事两夹当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_shr_paeh_mo_zhen_ieh_shr_laen_gaeh_dan.md#屙屎拔茅针，一事两夹当)】`u1 shr3 paeh8 mo2 zhen1 ieh7 shr6 laen3 gaeh7 dan1` <sup>[东台]</sup> 喻指一举两得。  
 1. 【[屙屎拔茅针，一事两恰当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_shr_paeh_mo_zhen_ieh_shr_laen_kaeh_dan.md#屙屎拔茅针，一事两恰当)】`u1 shr3 paeh8 mo2 zhen1 ieh7 shr6 laen3 kaeh7 dan5` <sup>[如皋]</sup> 做好一件事，完成两项任务。  
 1. 【[屙屎捅节节<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_shr_ton_jih_jih_r.md#屙屎捅节节<sub>儿</sub>)】`u1 shr3 ton3 jih7 jih7 r` <sup>[如皋]</sup> 贬指压力下慢慢前进：他是～，你不压，他不动。  
-1. 【[屙尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_xy.md#屙尿)】`u1 xy1` <sup>[如东]</sup> 撒尿。  
-1. 【[屙尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_xy.md#屙尿)】`u1 xy1` 排泄小便。<sup>\[泰州\]</sup>  
+1. 【[屙尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_xy.md#屙尿)】`u1 xy1` 撒尿。<sup>\[如东\]</sup><sup>\[泰州\]</sup>  
 1. 【[屙奘屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_zhuan_shr.md#屙奘屎)】`u1 zhuan3 shr3` <small>/o1 t͡suaŋ3 sɿ3/<sup>兴化</sup></small> ① 讽喻小气鬼难得做了一件大方事<sup>\[东台\]</sup>：他挣（zhen5）吖半天，终于～，掏出500块钱埋啊单。<sup>\[东台\]</sup> ② 讽喻没有实力也想办大事<sup>\[东台\]</sup>：你没得钱，覅想～！<sup>\[东台\]</sup> ③ （讽）大出手<sup>\[兴化\]</sup>：这次老四～，拿出百块钱来请客。<sup>\[兴化\]</sup>  
 1. 【[涴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u.md#涴)】`u1` <sup>[如皋]</sup> ① 借指错、糟及糊涂不清：记～账、说～话。做～事、事情发咖～。 ② 借指混水摸鱼、占有：钱总捱他～啊去啊｜他同你～，你同他～，大家並吖～，看哪个～得凶。  
 1. 【[涴啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_a.md#涴啊)】`u1 a` <sup>[如皋]</sup> 糟了。  
@@ -578,6 +576,9 @@
 1. 【[窝啊嘴里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_a_jy_lii.md#窝啊嘴里)】`u1 a jy3 lii` <sup>[东台]</sup> 形容某人说话支支吾吾，含混不清。  
 1. 【[窝啊尾子靠啊墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_a_vei_zz_ko_a_qian.md#窝啊尾子靠啊墙)】`u1 a vei3 zz ko5 a qian2` <sup>[东台]</sup> 像一条温顺的狗一样躲到墙角。喻指夹着尾巴做人，不要张扬，免得自找麻烦。  
 1. 【[窝边秀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_bin_xieu.md#窝边秀)】`u1 bin1 xieu5` <sup>[兴化]</sup> 腼腆，不善交际：“公关小姐难做。我是乡下人，～，很怕……”（马春阳《月朗和她的娘舅们》）也称“锅边秀”。  
+1. 【[窝巢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_cho.md#窝巢)】`u1 cho2` <sup>[兴化]</sup> ① 鸟兽楼息的地方：这是狗的～。 ② 坏人聚集隐匿或藏污纳垢的地方：大盗有几处～，镖局也是知道的。（《老残游记》七）｜他在城郊租间房子做～，和个坐台小姐同居。  
+1. 【[窝风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_fon.md#窝风)】`u1 fon1` <sup>[兴化]</sup> 避风：今天这个冷法……所以大店只拉半边门就行了，窝点风稍微暖和些。（《武松》九）  
+1. 【[窝家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_jia.md#窝家)】`u1 jia1` ① 隐藏赃物的人家或地方。<sup>\[如东\]</sup> ② 帮偷盗者窝藏脏物的窝住。<sup>\[东台\]</sup>  
 [更多...](./u.md)
 ## V
 1. 【[捂嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_jy.md#捂嘴)】`v jy3` <sup>[如东]</sup> 用手把嘴遮住。  
