@@ -101,7 +101,7 @@
 1. 【[洗几告](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ji_go.md#洗几告)】`xi3 ji3 go5` <sup>[东台]</sup> 洗几遍。  
 1. 【[洗脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_jiah.md#洗脚)】`xi3 jiah7` <sup>[如皋]</sup> ① 就是洗脚。 ② 讳称清洗阴部。  
 1. 【[洗马池](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ma_chr.md#洗马池)】`xi3 ma3 chr2` <sup>[东台]</sup> 地名，位于东台城大月塘附近。相传唐太宗李世民遇险，马陷淤泥河，曾在此洗马。  
-1. 【[洗牙𪣩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_nga_ken.md#洗牙𪣩)】`xi3 nga2 ken5` <small>/ɕʝ3 ŋa2 kʰəŋ5/<sup>如皋</sup></small> ① 讲解、劝说无效后的叹语。<sup>\[如皋\]</sup> ② 洗刷牙缝中的污垢。通常称刷牙。<sup>\[如东\]</sup> ③ 比喻没紧没慢地说话。<sup>\[如东\]</sup>：没功夫跟你～。<sup>\[如东\]</sup>  
+1. 【[洗牙硍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_nga_ken.md#洗牙硍)】`xi3 nga2 ken5` <small>/ɕʝ3 ŋa2 kʰəŋ5/<sup>如皋</sup></small> ① 讲解、劝说无效后的叹语。<sup>\[如皋\]</sup> ② 洗刷牙缝中的污垢。通常称刷牙。<sup>\[如东\]</sup> ③ 比喻没紧没慢地说话。<sup>\[如东\]</sup>：没功夫跟你～。<sup>\[如东\]</sup>  
 1. 【[洗眼睛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ngaen_jien.md#洗眼睛)】`xi3 ngaen3 jien` <sup>[如皋]</sup> ① 用清水或淡盐水喷或浸眼睛，是一种卫生、治眼疾的方法。 ② 旧时理发店服务项目之一，用剃刀背棱刮眼黏膜，有快感。但有危险而不卫生，后被禁止。  
 1. 【[洗牌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_pae.md#洗牌)】`xi3 pae2` <sup>[东台]</sup> 把牌打乱，重新码齐。  
 1. 【[洗屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_pi_gu.md#洗屁股)】`xi3 pi5 gu` <small>/ɕʝ3 pʰʝ5 kʊ/<sup>如皋</sup></small> ① 讳称“洗脚”。<sup>\[如皋\]</sup> ② 为婴儿清洗时直称～。<sup>\[如皋\]</sup> ③ 用水清洁阴部。<sup>\[如东\]</sup>  
@@ -359,7 +359,7 @@
 1. 【[下嘴边<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_jy_bin_r.md#下嘴边<sub>儿</sub>)】`xia6 jy3 bin1 r` <sup>[如皋]</sup> 下嘴唇。  
 1. 【[下卡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_ka_zz.md#下卡子)】`xia6 ka3 zz` <sup>[如皋]</sup> 将卡具放入河中捕鱼鳖等。  
 1. 【[下槛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_kaen.md#下槛)】`xia6 kaen3` <small>/ɕia6 kʰɛ̃3/<sup>兴化</sup>, /ɕiɑ1 kʰɛ̃3/<sup>泰兴</sup></small> ① 闼子门房檐下的和挨地面的横木，其上有槽，可以上下门板，上谓上槛，下谓～<sup>\[兴化\]</sup>：他左腿直立，右腿一悬，对准～拎起来就是一脚……（扬一《李逵劫法场》）<sup>\[兴化\]</sup> ② 门槛，门下边的横木。<sup>\[泰兴\]</sup>  
-1. 【[下𪣩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_ken.md#下𪣩)】`xia6 ken5` <sup>[如皋]</sup> 去污力强：皂荚洗头又～又清爽。  
+1. 【[下硍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_ken.md#下硍)】`xia6 ken5` <sup>[如皋]</sup> 去污力强：皂荚洗头又～又清爽。  
 1. 【[下扣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_keu.md#下扣)】`xia6 keu1` <sup>[如东]</sup> 海洋捕捞作业的一种方法。把绳索埋在沙圻上做固定鱼网的襻子，叫做下扣。  
 1. 【[下口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_keu.md#下口)】`xia6 keu3` <small>/ɕia6 kʰɤ3/<sup>兴化</sup>, /ɕia1 kʰei3/<sup>如皋</sup>, /ɕiɑ1 kʰəɪ3/<sup>泰兴</sup></small> ① 咬人。尤其指狗咬人。<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：狗子～。<sup>\[如皋\]</sup>｜老陈家的狗会～。<sup>\[兴化\]</sup> ② 下面<sup>\[兴化\]</sup>：把香肠挂啊咸肉的～。<sup>\[兴化\]</sup> ③ 右侧<sup>\[兴化\]</sup>：把船靠啊～。<sup>\[兴化\]</sup>  
 1. 【[下考](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_ko.md#下考)】`xia6 ko3` <sup>[泰兴]</sup> 参加考试。一般用于全体参考人员：这回有几万学生～  

@@ -2365,7 +2365,7 @@
 1. 【[水酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_jieu.md#水酒)】`shuei3 jieu3` <sup>[如东]</sup> ① 浓度淡的酒。 ② 谦辞：吃一杯～。  
 1. 【[水饺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_jio_r.md#水饺<sub>儿</sub>)】`shuei3 jio3 r` <sup>[如皋]</sup> 北方式的圆面皮水煮饺子，与机制方皮的馄饨、笼蒸饺等相对。  
 1. 【[水嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_jy.md#水嘴)】`shuei3 jy3` <small>/ɕyəɪ3 t͡ɕy3/<sup>泰县</sup></small> ① 指说话不可靠，不算数的人<sup>\[东台\]</sup>：他的话要分析，防止是个～。也作“水水嘴”。<sup>\[东台\]</sup> ② 说话不算数。<sup>\[泰县\]</sup> ③ 随意做出承诺而不兑现的人<sup>\[泰州\]</sup>：他是个～，事情一过就不认账唻。<sup>\[泰州\]</sup>  
-1. 【[水𪣩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_ken.md#水𪣩)】`shuei3 ken5` <small>/suei3 kʰəŋ5/<sup>如皋</sup></small> ① 水垢。<sup>\[如皋\]</sup> ② 附着在水缸内壁上的水垢。<sup>\[如东\]</sup>  
+1. 【[水硍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_ken.md#水硍)】`shuei3 ken5` <small>/suei3 kʰəŋ5/<sup>如皋</sup></small> ① 水垢。<sup>\[如皋\]</sup> ② 附着在水缸内壁上的水垢。<sup>\[如东\]</sup>  
 1. 【[水口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_keu.md#水口)】`shuei3 keu3` <small>/suəi3 kʰɤ3/<sup>兴化</sup>, /suei3 kʰei3/<sup>如皋</sup>, /ɕyəɪ3 kʰɤɯ3/<sup>泰县</sup></small> ① 说话时有些字音咬不清并容易流出口水的现象，或指人。<sup>\[如皋\]</sup> ② 衣缝的叠口，重叠多谓“老”，少谓“嫩”。<sup>\[如皋\]</sup> ③ 水边<sup>\[兴化\]</sup>：我家靠近～。<sup>\[兴化\]</sup>｜（萧夫人一行扶柩而去）贾平章同莫夫人直送至～，方才分别。（《西湖二集》二七）<sup>\[兴化\]</sup>｜“不知那里水发，～边淌着许多家伙物件……”（《说岳全传》二）<sup>\[兴化\]</sup> ④ 缝纫时衣服的结合部。<sup>\[泰县\]</sup>  
 1. 【[水窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_ku.md#水窠)】`shuei3 ku1` <sup>[如东]</sup> 皮肤上生的小水泡儿。  
 1. 【[水侉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_kua_zz.md#水侉子)】`shuei3 kua3 zz` <sup>[如皋]</sup> 一种含水不太甜的瓜。瓜体稍长，皮色花续，多作为菜瓜。  
@@ -2914,7 +2914,7 @@
 1. 【[谇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suae.md#谇)】`suae5` <sup>[如皋]</sup> 怒嗔、唾面：你再不说我就～你！把你的脸～啊蓝吖！  
 1. 【[尿鳖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suei_bih.md#尿鳖)】`suei1 bih7` <sup>[兴化]</sup> 即尿壶。男子接尿用的壶一样的器物，大口，有柄，形状象鳖。  
 1. 【[尿布衲索](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suei_bv_nuh_sah.md#尿布衲索)】`suei1 bv5 nuh8 sah7` <sup>[兴化]</sup> 为婴儿接大小便的布片和小褥等物。  
-1. 【[尿𪣩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suei_ken.md#尿𪣩)】`suei1 ken5` <sup>[兴化]</sup> 经常接触尿液的便池、便桶及尿壶等，留下的像结石一样的痕迹。  
+1. 【[尿硍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suei_ken.md#尿硍)】`suei1 ken5` <sup>[兴化]</sup> 经常接触尿液的便池、便桶及尿壶等，留下的像结石一样的痕迹。  
 1. 【[尿头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suei_teu.md#尿头)】`suei1 teu` <sup>[兴化]</sup> 指两次小便相隔时间：～长；～短。  
 1. 【[岁月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suei_iuh.md#岁月)】`suei5 iuh8` <sup>[东台]</sup> 年月：～不饶人。  
 1. 【[岁交春](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suei_jio_chuen.md#岁交春)】`suei5 jio1 chuen1` <sup>[兴化]</sup> 正月初一子时（指0时至1时前那段）正逢立春。20世纪仅有1943年一次：谚曰：百年难遇～。  

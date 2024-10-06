@@ -1688,7 +1688,7 @@
 1. 【[同脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_jiah.md#同脚)】`ton2 jiah7` <sup>[东台]</sup> 抵足而眠。  
 1. 【[同居](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_jy.md#同居)】`ton2 jy1` <sup>[如东]</sup> 共同居住在一起。男女双方没有结婚而共同生活。  
 1. 【[同梁合柱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_lian_huh_chv.md#同梁合柱)】`ton2 lian2 huh8 chv6` <sup>[兴化]</sup> 指隔壁紧邻：你俫是～的老邻居，何必处得这吖僵！  
-1. 【[同你洗牙𪣩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_nii_xi_nga_ken.md#同你洗牙𪣩)】`ton2 nii3 xi3 nga2 ken5` <sup>[如皋]</sup> 不屑与你讲！  
+1. 【[同你洗牙硍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_nii_xi_nga_ken.md#同你洗牙硍)】`ton2 nii3 xi3 nga2 ken5` <sup>[如皋]</sup> 不屑与你讲！  
 1. 【[同起来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_qi_lae.md#同起来)】`ton2 qi lae2` <sup>[东台]</sup> 重复或者重叠了：快把盘子～｜明吖几家请喝喜酒，～啊。  
 1. 【[同事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_shr.md#同事)】`ton2 shr6` <sup>[兴化]</sup> 旧称店员：这位绸缎庄的～想必在家很讲究吃食，学会了烹调……（汪曾祺；《落魄》）  
 1. 【[同水做香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_shuei_zu_xian.md#同水做香)】`ton2 shuei3 zu5 xian1` <sup>[如皋]</sup> 粗略洗一下，并未洗浄。  

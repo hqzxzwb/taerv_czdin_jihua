@@ -283,8 +283,8 @@
 1. 【[人争一口气，佛争一炷香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_zhen_ieh_keu_qi_feh_zhen_ieh_zhv_xian.md#人争一口气，佛争一炷香)】`ren2 zhen1 ieh7 keu3 qi5 feh8 zhen1 ieh7 zhv5 xian1` <sup>[东台]</sup> 人贵在有志气有追求。  
 1. 【[人争气，佛争香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_zhen_qi_feh.md#人争气，佛争香)】`ren2 zhen1 qi5 feh8 zhen1 xian1` <sup>[泰兴]</sup> 勉励争气之语。乡人常说“人争气，佛争香，土地老儿争炮仗”。  
 1. 【[人中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_zhon.md#人中)】`ren2 zhon1` <sup>[泰兴]</sup> 人的上唇正中凹下的部分，其略上请“人中穴”，为急救昏厥的要穴。  
-1. 【[人中黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_zhon_huan.md#人中黄)】`ren2 zhon1 huan2` <small>/ɻəŋ2 t͡sɔŋ1 xuã2/<sup>如皋</sup></small> ① 中药名，马桶𪣩中色黄者。<sup>\[如皋\]</sup> ② 用甘草磨成粗粉，装入一端有节的竹筒内，另一端用布塞紧，松香封口，将竹筒刮去篾青，浸人清水糞坑中2-3个月。一般冬季浸入，翌年春天取出，用清水漂2-3星期，每天一次，至无臭为度。阴干后，劈破竹筒，取出甘草，晒干即成，入中药。<sup>\[如东\]</sup>  
-1. 【[人中白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_zhon_poh.md#人中白)】`ren2 zhon1 poh8` <small>/ɻəŋ2 t͡sɔŋ1 pʰɔʔ8/<sup>如皋</sup></small> ① 中药名，马桶𪣩中色白者。<sup>\[如皋\]</sup> ② 人尿自然沉结的固体物，又名尿垢，入中药。<sup>\[如东\]</sup>  
+1. 【[人中黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_zhon_huan.md#人中黄)】`ren2 zhon1 huan2` <small>/ɻəŋ2 t͡sɔŋ1 xuã2/<sup>如皋</sup></small> ① 中药名，马桶硍中色黄者。<sup>\[如皋\]</sup> ② 用甘草磨成粗粉，装入一端有节的竹筒内，另一端用布塞紧，松香封口，将竹筒刮去篾青，浸人清水糞坑中2-3个月。一般冬季浸入，翌年春天取出，用清水漂2-3星期，每天一次，至无臭为度。阴干后，劈破竹筒，取出甘草，晒干即成，入中药。<sup>\[如东\]</sup>  
+1. 【[人中白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_zhon_poh.md#人中白)】`ren2 zhon1 poh8` <small>/ɻəŋ2 t͡sɔŋ1 pʰɔʔ8/<sup>如皋</sup></small> ① 中药名，马桶硍中色白者。<sup>\[如皋\]</sup> ② 人尿自然沉结的固体物，又名尿垢，入中药。<sup>\[如东\]</sup>  
 1. 【[人众](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_zhon.md#人众)】`ren2 zhon5` <sup>[泰兴]</sup> 大众，众人：你有话当住～说说/你有话当面大家说说  
 1. 【[人指甲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_zhr_jiaeh.md#人指甲)】`ren2 zhr3 jiaeh7` <sup>[如东]</sup> 人手上的指甲。  
 1. 【[仁丹胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_daen_hv_zz.md#仁丹胡子)】`ren2 daen1 hv2 zz` <sup>[如皋]</sup> 有如日本仁丹商标上的胡子式样。  

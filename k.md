@@ -333,11 +333,11 @@
 1. 【[掯头掯脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken_teu_ken_no.md#掯头掯脑)】`ken5 teu2 ken5 no3` <sup>[兴化]</sup> 形容埋头苦干，任劳任怨：老周一天到晚～做事，从不躲懒、隑奸。  
 1. 【[掯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken_zz.md#掯子)】`ken5 zz` <sup>[如东]</sup> 刮皮、吝啬的人。  
 1. 【[硍/𪣩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken.md#硍/𪣩)】`ken5` <small>/kʰən5/<sup>兴化</sup>, /kʰəŋ5/<sup>如皋</sup>, /kʰəŋ5/<sup>泰县</sup></small> ① 身体上的污垢。<sup>\[如东\]</sup> ② 积垢，污垢：人身上有～。<sup>\[如皋\]</sup> ③ 污垢<sup>\[东台\]</sup>：挫澡擦掉不少～<sup>\[东台\]</sup>｜茶杯上傍吖茶～。<sup>\[东台\]</sup> ④ 积淀的污垢<sup>\[兴化\]</sup>：牙～（垢）<sup>\[兴化\]</sup>｜水～（垢）<sup>\[兴化\]</sup>｜茶～｜尿～｜「马（桶）～。<sup>\[兴化\]</sup> ⑤ 人身上的滓垢<sup>\[兴化\]</sup>：老～<sup>\[兴化\]</sup>｜古～。<sup>\[兴化\]</sup> ⑥ 兴化词典作“硍”，《集韵·恨韵》苦恨切“～，吴俗谓石有痕曰～”。<sup>\[兴化\]</sup> ⑦ 汗垢，泥垢。<sup>\[泰县\]</sup> ⑧ 人体皮肤上的污垢<sup>\[泰州\]</sup>：颈项里全是～，脏煞咖唻。<sup>\[泰州\]</sup>｜个把星期不洗澡，～肯定不少。<sup>\[泰州\]</sup>  
-1. 【[𪣩斑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken_baen.md#𪣩斑)】`ken5 baen1` <sup>[如皋]</sup> 见“𪣩”。  
-1. 【[𪣩溚溚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken_daeh_daeh.md#𪣩溚溚)】`ken5 daeh7 daeh7` <sup>[如东]</sup> ① 形容身体脏而潮湿 ② 形容衣服很脏。  
-1. 【[𪣩幺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken_io_r.md#𪣩幺<sub>儿</sub>)】`ken5 io1 r` <sup>[如皋]</sup> 见“𪣩”。  
-1. 【[𪣩纳菌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken_naeh_jyen.md#𪣩纳菌)】`ken5 naeh8 jyen1` <sup>[东台]</sup> 形容人身上很脏，细菌多，藏污纳垢的样子：这孩子身上～是的，快去洗把澡！  
-1. 【[𪣩滋滋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken_zz_zz.md#𪣩滋滋)】`ken5 zz1 zz1` <sup>[如东]</sup> 形容身体上污垢很多。  
+1. 【[硍斑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken_baen.md#硍斑)】`ken5 baen1` <sup>[如皋]</sup> 见“硍”。  
+1. 【[硍溚溚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken_daeh_daeh.md#硍溚溚)】`ken5 daeh7 daeh7` <sup>[如东]</sup> ① 形容身体脏而潮湿 ② 形容衣服很脏。  
+1. 【[硍幺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken_io_r.md#硍幺<sub>儿</sub>)】`ken5 io1 r` <sup>[如皋]</sup> 见“硍”。  
+1. 【[硍纳菌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken_naeh_jyen.md#硍纳菌)】`ken5 naeh8 jyen1` <sup>[东台]</sup> 形容人身上很脏，细菌多，藏污纳垢的样子：这孩子身上～是的，快去洗把澡！  
+1. 【[硍滋滋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken_zz_zz.md#硍滋滋)】`ken5 zz1 zz1` <sup>[如东]</sup> 形容身体上污垢很多。  
 1. 【[扣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu.md#扣)】`keu1` <sup>[如东]</sup> ① 环状物：绳～儿。 ② 埋在海滩上牵引网具的绳套，叫做扣：下海打～。  
 1. 【[扣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_r.md#扣<sub>儿</sub>)】`keu1 r` 打的结  
 1. 【[抠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu.md#抠)】`keu1` <small>/kʰɤ1/<sup>兴化</sup>, /kʰei1/<sup>如皋</sup></small> ① 从狭小的地方把东西挖出来。<sup>\[如东\]</sup>：把蟛蜞从洞里～出来。<sup>\[如东\]</sup> ② 小气，吝啬。<sup>\[如东\]</sup>：这人～。<sup>\[如东\]</sup> ③ 也念keu2。掏：在袋里～钱。<sup>\[如皋\]</sup> ④ 努力赚取：～钱。<sup>\[如皋\]</sup> ⑤ 进取：他上学唸书～得凶。<sup>\[如皋\]</sup> ⑥ 用指甲划<sup>\[兴化\]</sup>：把身上～得血淌淌的。<sup>\[兴化\]</sup> ⑦ 用手指头挖<sup>\[泰州\]</sup>：你把冬瓜里头的瓤子～掉。<sup>\[泰州\]</sup> ⑧ 吝惜<sup>\[泰州\]</sup>：～啊没得命。<sup>\[泰州\]</sup>  
@@ -607,7 +607,7 @@
 1. 【[夸海口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_hae_keu.md#夸海口)】`kua1 hae3 keu3` <sup>[东台]</sup> 吹牛，说大话。  
 1. 【[刳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua.md#刳)】`kua2` <small>/kʰua2/<sup>兴化</sup>, /kʰua2/<sup>如皋</sup>, /kʰua2/<sup>泰县</sup></small> ① \[形声\] ② 刮<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：～油漆。<sup>\[如东\]</sup>｜～肉皮；～～洗洗。<sup>\[兴化\]</sup>｜你去把猪毛～干净。<sup>\[泰县\]</sup>｜～茨菰<sup>\[泰州\]</sup>｜～洋山芋<sup>\[泰州\]</sup> ③ 用刀、刃口、薄片等刮<sup>\[如皋\]</sup><sup>\[东台\]</sup>：～芋头、～肉皮。<sup>\[如皋\]</sup>｜～生姜、～茨菇、～钢板。<sup>\[东台\]</sup> ④ 殴打<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：不听就～你！<sup>\[如皋\]</sup>｜～他一顿。<sup>\[兴化\]</sup>｜我逮住他一顿～<sup>\[泰县\]</sup>｜你老实点ㄦ，当心你家老子～你。<sup>\[泰州\]</sup> ⑤ 强制<sup>\[如皋\]</sup>：～住他把钱。<sup>\[如皋\]</sup> ⑥ 刻写<sup>\[泰县\]</sup>：他在下～钢板。<sup>\[泰县\]</sup> ⑦ 狠狠训斥<sup>\[泰州\]</sup>：他在学堂里捱先生～过啊唻。<sup>\[泰州\]</sup> ⑧ 用指甲挠。<sup>\[泰州\]</sup>  
 1. 【[刳锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_gu.md#刳锅)】`kua2 gu1` <sup>[泰州]</sup> 竖起铲子将粘在锅底的食物刮离。  
-1. 【[刳𪣩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_ken.md#刳𪣩)】`kua2 ken5` <sup>[如皋]</sup> 刮身上污垢。  
+1. 【[刳硍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_ken.md#刳硍)】`kua2 ken5` <sup>[如皋]</sup> 刮身上污垢。  
 1. 【[刳毛芋头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_mo_y_teu.md#刳毛芋头)】`kua2 mo2 y6 teu` <sup>[如皋]</sup> ① 指芋头刮去皮。 ② 比喻男人剃发。  
 1. 【[刳皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_pi.md#刳皮)】`kua2 pi2` <sup>[东台]</sup> ① 刮、削表皮，使之干净。 ② ［引］批评，指责：他捱老板～。  
 1. 【[刳碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_un.md#刳碗)】`kua2 un3` <sup>[泰州]</sup> 用筷子或者汤匙将粘在碗底的食物刮离。  

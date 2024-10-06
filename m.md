@@ -200,7 +200,7 @@
 1. 【[马腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_io.md#马腰)】`ma3 io1` <sup>[如东]</sup> ① 马背，平而微凹。 ② 海滩上像马背一样长而圆的水洼，渔民称为马腰。  
 1. 【[马架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_jia_zz.md#马架子)】`ma3 jia5 zz` <sup>[泰县]</sup> 马灯的框架。  
 1. 【[马缰绳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_jian_shen.md#马缰绳)】`ma3 jian1 shen2` <sup>[泰县]</sup> 一种谷子。  
-1. 【[马𪣩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ken.md#马𪣩)】`ma3 ken5` <small>/ma3 kʰəŋ5/<sup>如皋</sup>, /mɑ3 kʰəŋ5/<sup>泰兴</sup></small> 马桶内壁的积垢。入药，名为人中白、桶砒。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
+1. 【[马硍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ken.md#马硍)】`ma3 ken5` <small>/ma3 kʰəŋ5/<sup>如皋</sup>, /mɑ3 kʰəŋ5/<sup>泰兴</sup></small> 马桶内壁的积垢。入药，名为人中白、桶砒。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
 1. 【[马口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_keu.md#马口)】`ma3 keu3` <sup>[如东]</sup> 滑车的一种，口可以打开。  
 1. 【[马柜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_kuei.md#马柜)】`ma3 kuei6` <sup>[兴化]</sup> 一种方形的矮柜，内中可放置马桶。  
 1. 【[马拉大车牛耕田——各有各事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_la_da_cha_ngeu_gen_tin_gah_ieu_gah_shr.md#马拉大车牛耕田——各有各事)】`ma3 la1 da6 cha1 ngeu2 gen1 tin2 gah7 ieu3 gah7 shr6` <sup>[东台]</sup>   

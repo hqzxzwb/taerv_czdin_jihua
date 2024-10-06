@@ -201,7 +201,7 @@
 1. 【[旁系亲属](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_xi_qien_shoh.md#旁系亲属)】`pan2 xi6 qien1 shoh` <sup>[如东]</sup> 直系亲属以外的在血统上与自己同出一源的人及其配偶，如兄、弟姐、妹、伯父、叔父、伯母、婶母等。  
 1. 【[旁相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_xian.md#旁相)】`pan2 xian5` <small>/pʰaŋ2 ɕiaŋ5/<sup>兴化</sup>, /pʰɑŋ2 ɕiɑŋ5/<sup>泰县</sup></small> ① 侧面看。<sup>\[如东\]</sup>：～，这个人长得还不丑。<sup>\[如东\]</sup> ② 指人侧面形象<sup>\[兴化\]</sup>：他这张照片是～。<sup>\[兴化\]</sup> ③ 侧面看<sup>\[泰县\]</sup>：这个人～不丑。<sup>\[泰县\]</sup> ④ 人的侧面形象，侧颜<sup>\[泰州\]</sup>：他～望起来还不丑。<sup>\[泰州\]</sup>  
 1. 【[旁作气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_zah_qi.md#旁作气)】`pan2 zah7 qi5` <sup>[如皋]</sup> 为别人之事而生气。  
-1. 【[螃蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_hae.md#螃蟹)】`pan2 hae3` ① 方蟹科动物中华绒螯蟹，也叫河蟹、爬蟹、大闸蟹。打草鞋的工具，丁字形横档上有六至八个齿。扑匠的一种工具。一般木制，四方形，一面平整，一面有柄，用于扑平草屋屋面。<sup>\[如东\]</sup> ② 节肢动物，全身有甲壳，眼有柄，足五对，前面一对成钳状。横着爬。<sup>\[东台\]</sup> ③ 戏称身上洗澡时擦下的污垢，同“𪣩ken5”。  
+1. 【[螃蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_hae.md#螃蟹)】`pan2 hae3` ① 方蟹科动物中华绒螯蟹，也叫河蟹、爬蟹、大闸蟹。打草鞋的工具，丁字形横档上有六至八个齿。扑匠的一种工具。一般木制，四方形，一面平整，一面有柄，用于扑平草屋屋面。<sup>\[如东\]</sup> ② 节肢动物，全身有甲壳，眼有柄，足五对，前面一对成钳状。横着爬。<sup>\[东台\]</sup> ③ 戏称身上洗澡时擦下的污垢，同“硍ken5”。  
 1. 【[螃蟹壳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_hae_kah.md#螃蟹壳)】`pan2 hae3 kah7` <sup>[如东]</sup> 方蟹科动物中华绒螯蟹甲壳。  
 1. 【[螃蟹壳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_hae_kah_r.md#螃蟹壳<sub>儿</sub>)】`pan2 hae3 kah7 r` <sup>[泰县]</sup> 砖头包在外面的土墙。  
 1. 【[螃蟹爪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_hae_zhua.md#螃蟹爪)】`pan2 hae3 zhua3` <sup>[如东]</sup> 方蟹科动物中华绒螯蟹爪。  

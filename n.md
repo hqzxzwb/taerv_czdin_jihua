@@ -326,7 +326,7 @@
 1. 【[牙□子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_ion_zz.md#牙□子)】`nga2 ion1 zz` <small>/ŋɑ2 iɔŋ1 t͡sɿ/<sup>泰兴</sup></small> 牙龈。<sup>\[泰兴\]</sup>  
 1. 【[牙祭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_ji.md#牙祭)】`nga2 ji5` <sup>[兴化]</sup> ① 旧俗，商店、作坊于初二、十六改善伙食，午餐加一点鱼肉等荤腥。汪曾祺《岁寒三友》自注：初二、十六一这是店铺里打～的日子。 ② （戏）谓团体内改善伙食。  
 1. 【[牙嘴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_jy_r.md#牙嘴<sub>儿</sub>)】`nga2 jy3 r` <sup>[泰县]</sup> 牙齿外露的人：这个人是个～。  
-1. 【[牙𪣩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_ken.md#牙𪣩)】`nga2 ken5` <small>/a2 kʰən5/<sup>兴化</sup>, /ŋɑ2 kʰəŋ5/<sup>泰兴</sup></small> 牙垢。<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup><sup>\[泰州\]</sup>：洗～。<sup>\[泰州\]</sup>  
+1. 【[牙硍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_ken.md#牙硍)】`nga2 ken5` <small>/a2 kʰən5/<sup>兴化</sup>, /ŋɑ2 kʰəŋ5/<sup>泰兴</sup></small> 牙垢。<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup><sup>\[泰州\]</sup>：洗～。<sup>\[泰州\]</sup>  
 1. 【[牙棱子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_len_zz.md#牙棱子)】`nga2 len6 zz` 牙龈，牙床<sup>\[如东\]</sup>  
 1. 【[牙楞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_len_zz.md#牙楞子)】`nga2 len6 zz` <sup>[如皋]</sup> 牙龈。  
 1. 【[牙签](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_qin.md#牙签)】`nga2 qin1` 剔除牙缝中残留食物的细签。<sup>\[泰州\]</sup>  

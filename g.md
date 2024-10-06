@@ -1930,7 +1930,7 @@
 1. 【[古当先](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_dan_xin.md#古当先)】`gv3 dan xin1` <sup>[兴化]</sup> 从前：～这块是水荡子。  
 1. 【[古当先](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_dan_xin.md#古当先)】`gv3 dan1 xin1` <small>/ku3 tã1 ɕĩ1/<sup>如皋</sup>, /ku3 tɑŋ1 ɕiɪ̃1/<sup>泰县</sup></small> ① 古时候。<sup>\[如皋\]</sup> ② 从前，很久以前<sup>\[东台\]</sup>：～这个地方是一片汪洋。<sup>\[东台\]</sup> ③ 过去<sup>\[泰县\]</sup>：吃饭敲碗是～的人最忌避的。<sup>\[泰县\]</sup>  
 1. 【[古计<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_ji_r.md#古计<sub>儿</sub>)】`gv3 ji5 r` <sup>[兴化]</sup> 故事：姑娘闲来还要听个笑话儿、～……（《儿女英雄传》二三）  
-1. 【[古𪣩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_ken.md#古𪣩)】`gv3 ken5` <small>/ku3 kʰən5/<sup>兴化</sup></small> ① 长时间积聚的污垢<sup>\[兴化\]</sup>：这把操把身上～全擦掉啊。也称“老𪣩”。<sup>\[兴化\]</sup> ② 久积的污渍。<sup>\[兴化\]</sup>  
+1. 【[古硍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_ken.md#古硍)】`gv3 ken5` <small>/ku3 kʰən5/<sup>兴化</sup></small> ① 长时间积聚的污垢<sup>\[兴化\]</sup>：这把操把身上～全擦掉啊。也称“老硍”。<sup>\[兴化\]</sup> ② 久积的污渍。<sup>\[兴化\]</sup>  
 1. 【[古络钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_lah_qin.md#古络钱)】`gv3 lah qin2` <sup>[兴化]</sup> 一种古钱币，形状为圆中方孔，民间作为吉祥图条：这院墙上部都是用瓦摆就的～。  
 1. 【[古历十八代](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_lieh_sheh_baeh_tae.md#古历十八代)】`gv3 lieh8 sheh8 baeh7 tae6` <sup>[东台]</sup> 形容时间已经很久远了。  
 1. 【[古年八代](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_nin_baeh_tae.md#古年八代)】`gv3 nin2 baeh7 tae6` <sup>[如皋]</sup> 见“久已八载”。  

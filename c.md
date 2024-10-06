@@ -174,7 +174,7 @@
 1. 【[䢢/㼽/磢/𰧕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/can.md#䢢/㼽/磢/𰧕)】`can5` <small>/t͡sʰaŋ5/<sup>兴化</sup>, /t͡sʰɑŋ5/<sup>泰县</sup></small> ① （㼽，【唐韻】初兩切【集韻】【韻會】【正韻】楚兩切，𠀤音摤。【說文】磋垢瓦石。磢，《广韵·养韵》初两切“～，瓦石洗物”） ② 擦、磨<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：把这个字用橡皮～掉。<sup>\[泰县\]</sup>｜膀子～掉一块皮。<sup>\[泰州\]</sup> ③ 擦洗<sup>\[兴化\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：～锅子<sup>\[兴化\]</sup>｜～锡香炉<sup>\[兴化\]</sup>｜～痒<sup>\[兴化\]</sup>｜～颈项/擦洗脖子<sup>\[兴化\]</sup>｜身上～吖多少硍吖。<sup>\[泰州\]</sup>  
 1. 【[䢢痒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/can_ian.md#䢢痒)】`can5 ian3` <sup>[如东]</sup> 在物体上摩擦而使痒感缓解。  
 1. 【[䢢脚丫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/can_jiah_nga_r.md#䢢脚丫<sub>儿</sub>)】`can5 jiah7 nga1 r` <sup>[如东]</sup> ① 在脚丫儿里䢢痒。 ② 比喻做低贱的事：你只配代他～。  
-1. 【[䢢𪣩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/can_ken.md#䢢𪣩)】`can5 ken5` ① 依着物体把身体上的污垢擦掉。<sup>\[如东\]</sup> ② 擦去身上的污垢。<sup>\[东台\]</sup>  
+1. 【[䢢硍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/can_ken.md#䢢硍)】`can5 ken5` ① 依着物体把身体上的污垢擦掉。<sup>\[如东\]</sup> ② 擦去身上的污垢。<sup>\[东台\]</sup>  
 1. 【[䢢皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/can_pi.md#䢢皮)】`can5 pi2` <sup>[如东]</sup> 借故刮点儿好处：他经常过来～。  
 1. 【[藏香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/can_xian.md#藏香)】`can6 xian1` <sup>[如皋]</sup> 见“大香”。  
 1. 【[侧耳凝神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/ceh_er_nien_shen.md#侧耳凝神)】`ceh7 er3 nien2 shen2` <sup>[兴化]</sup> 侧着头脸，聚精会神地领听：～的听老师讲故事。  
@@ -347,7 +347,7 @@
 1. 【[茶叶蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ih_taen.md#茶叶蛋)】`cha2 ih8 taen6` <sup>[如东]</sup> 先将鸡蛋煮熟，再把蛋壳敲裂，放进配有茶叶、八角、桂皮、香叶、酱油等作料的水中煮。色赭，味香。  
 1. 【[茶几](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ji.md#茶几)】`cha2 ji3` <small>/t͡sʰa2 t͡ɕʝ3/<sup>如皋</sup></small> ① 放置茶具的家具，比桌子小，多为长方形。<sup>\[如东\]</sup> ② 旧式家俱之一，椅子间放茶碗的几。<sup>\[如皋\]</sup>  
 1. 【[茶脚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_jiah_zz.md#茶脚子)】`cha2 jiah7 zz` <sup>[兴化]</sup> 茶具中剩下的茶水。  
-1. 【[茶𪣩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ken.md#茶𪣩)】`cha2 ken5` <sup>[东台]</sup> 茶具用久了洗得不干净，留下来的深褐色污垢。  
+1. 【[茶硍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ken.md#茶硍)】`cha2 ken5` <sup>[东台]</sup> 茶具用久了洗得不干净，留下来的深褐色污垢。  
 1. 【[茶米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_mi.md#茶米)】`cha2 mi3` <small>/t͡sʰa2 mi3/<sup>兴化</sup></small> ① 糯米。<sup>\[如东\]</sup> ② 糯米。<sup>\[兴化\]</sup>  
 1. 【[茶米饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_mi_faen.md#茶米饭)】`cha2 mi3 faen6` <sup>[如东]</sup> 饭的一种。用糯米做成，香而具黏性，营养丰富。  
 1. 【[茶瓶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_pien.md#茶瓶)】`cha2 pien2` <small>/t͡sʰa2 pʰiɪ̃2/<sup>兴化</sup>, /t͡sʰa2 pʰiəŋ2/<sup>如皋</sup>, /t͡sʰa2 pʰiŋ2/<sup>泰县</sup></small> 保温瓶，热水瓶。<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>\[如皋：玻璃胆双层真空镀水银。\]：你把～拿过来。<sup>\[泰县\]</sup>  
@@ -1961,7 +1961,7 @@
 1. 【[搓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu.md#搓)】`cu1` ① 两手反复摩擦。<sup>\[如东\]</sup>：～手。<sup>\[如东\]</sup> ② 用手掌在别的物体上来回揉。<sup>\[如东\]</sup>：在身上～。<sup>\[如东\]</sup> ③ 以两掌夹物转动使之成圆柱形或者球形<sup>\[泰州\]</sup>： 今吖是正月十五，你去买点儿粉面家来～圆子。<sup>\[泰州\]</sup>｜落雨天，人歇咖在家里反正没得事，～点草绳吧。<sup>\[泰州\]</sup> ④ 两手各握纺织物的一端合在一处使纺织物摩擦<sup>\[泰州\]</sup>：他的脑油重吖没得命，洗他的衣裳，你要着实的～一～。<sup>\[泰州\]</sup> ⑤ 单手或者单手持物按于他物之上使劲摩擦<sup>\[泰州\]</sup>：他有个把月不洗澡唻，你要同他把身上的硍好好的～啊干净吖。<sup>\[泰州\]</sup>  
 1. 【[搓板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_baen.md#搓板)】`cu1 baen3` <small>/t͡sʰʊ1 pẽ3/<sup>如皋</sup></small> ① 一块刻着粗条纹的长方形木板，把湿衣放在上面搓动，去除污垢，这种板叫做搓板。<sup>\[如东\]</sup> ② 擀棉花条儿的工具。<sup>\[如皋\]</sup> ③ 打丝线的工具。<sup>\[如皋\]</sup> ④ 洗衣服用的搓衣板，正面是齿状横槽。<sup>\[泰州\]</sup>  
 1. 【[搓移](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_i.md#搓移)】`cu1 i2` <sup>[兴化]</sup> 重合物体离开了原有位置：门～开来啊。  
-1. 【[搓𪣩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_ken.md#搓𪣩)】`cu1 ken5` <sup>[如东]</sup> 用手把身体上的污垢搓下来。  
+1. 【[搓硍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_ken.md#搓硍)】`cu1 ken5` <sup>[如东]</sup> 用手把身体上的污垢搓下来。  
 1. 【[搓绳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_shen.md#搓绳)】`cu1 shen2` <sup>[如东]</sup> 用两手把麻或草搓成绳子。  
 1. 【[搓捘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_zuen.md#搓捘)】`cu1 zuen5` <small>/t͡sʰʊ1 t͡suəŋ5/<sup>如皋</sup></small> ① 双手搓纤维，令其加捻度。<sup>\[如皋\]</sup> ② 见“上捘”。<sup>\[如皋\]</sup>  
 1. 【[剉剔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_tieh.md#剉剔)】`cu2 tieh` <sup>[如皋]</sup> 整理、清除、清理：把房间里～下子。  
