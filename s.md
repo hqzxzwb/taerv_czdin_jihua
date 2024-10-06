@@ -2110,6 +2110,7 @@
 1. 【[耍耍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_shua.md#耍耍)】`shua3 shua` <sup>[如皋]</sup> ① 玩玩，散步。休息休息。 ② 漫谈、谈心、开玩笑、戏弄的代称。  
 1. 【[耍无赖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_v_lae.md#耍无赖)】`shua3 v2 lae6` <sup>[东台]</sup> 使用放讹、撒泼、装病等蛮不讲理的手段闹事。  
 1. 【[耍务烟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_v_in.md#耍务烟)】`shua3 v6 in1` <sup>[东台]</sup> 抽烟只是抽着玩，没上瘾。  
+1. 【[耍心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_xien.md#耍心)】`shua3 xien` <small>/suɑ3 ɕiŋ/<sup>泰兴</sup></small> 玩心<sup>\[泰兴\]</sup>  
 1. 【[耍心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_xien.md#耍心)】`shua3 xien1` <sup>[如东]</sup> 贪玩的思想或念头。  
 1. 【[耍心重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_xien_chon.md#耍心重)】`shua3 xien1 chon6` <small>/sua3 ɕiəŋ1 t͡sʰɔŋ1/<sup>如皋</sup></small> ① 玩心重，贪玩 ② 贪玩。<sup>\[如皋\]</sup> ③ 非常贪玩。<sup>\[如东\]</sup>：这个伢儿～。<sup>\[如东\]</sup>  
 1. 【[耍子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_zz.md#耍子)】`shua3 zz` <small>/sua3 t͡sɿ/<sup>兴化</sup>, /sua3 t͡sɿ/<sup>如皋</sup>, /ɕya3 t͡se/<sup>泰县</sup></small> ① 玩，玩乐 ② 玩耍。<sup>\[如皋\]</sup> ③ 游玩。<sup>\[如东\]</sup>：你来～。<sup>\[如东\]</sup> ④ 玩耍。见《汉宫秋》一［赚煞］曲<sup>\[东台\]</sup>：陡！量你到的那城，且与你斗三百合～。<sup>\[东台\]</sup> ⑤ 玩要、玩儿<sup>\[兴化\]</sup>：他放学不家去，在外头～。<sup>\[兴化\]</sup>｜“是他！是他！把他长长的绳儿拴在柱料上～！”（《西游记》三四）<sup>\[兴化\]</sup> ⑥ 玩：来～。<sup>\[泰县\]</sup>  

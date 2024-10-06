@@ -44,11 +44,9 @@
 1. 【[鱼刺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_cz.md#鱼刺)】`y2 cz5` <sup>[如皋]</sup> ① 鱼鳍上的硬刺。 ② 鱼卡、鱼骨尖刺。  
 1. 【[鱼斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_deu.md#鱼斗)】`y2 deu3` <sup>[如东]</sup> 房屋骑木下边的方形木料。有的雕花。  
 1. 【[鱼到啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_do_a.md#鱼到啊)】`y2 do5 a` <sup>[东台]</sup> 喜宴习俗。主莱上完以后，由一位师傅手捧一盘鱼，高声吆喝“～”，客人齐声应和“鱼存”，既暗示“鱼到酒止”，又用以祝愿主人“年年有余”。  
-1. 【[鱼冻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_don.md#鱼冻)】`y2 don5` <small>/y2 toŋ5/<sup>兴化</sup>, /y2 tɔŋ5/<sup>如皋</sup></small> ① 鱼汤结成的胶冻。<sup>\[如皋\]</sup> ② 鱼煮熟后，汁液在低温下凝结成乳状。<sup>\[如东\]</sup> ③ 红烧鱼的汤汁凝结而成的胶状物。<sup>\[兴化\]</sup>  
-1. 【[鱼冻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_don.md#鱼冻)】`y2 don5` 鱼汤凝固成固态胶体，冬季佳肴之一。<sup>\[泰州\]</sup>  
+1. 【[鱼冻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_don.md#鱼冻)】`y2 don5` <small>/y2 toŋ5/<sup>兴化</sup>, /y2 tɔŋ5/<sup>如皋</sup></small> ① 鱼汤结成的胶冻。<sup>\[如皋\]</sup> ② 鱼煮熟后，汁液在低温下凝结成乳状。<sup>\[如东\]</sup> ③ 红烧鱼的汤汁凝结而成的胶状物。<sup>\[兴化\]</sup> ④ 鱼汤凝固成固态胶体，冬季佳肴之一。<sup>\[泰州\]</sup>  
 1. 【[鱼簖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_dun.md#鱼簖)】`y2 dun5` <sup>[如皋]</sup> 大河上定点捕鱼虾蟹的拦河栅，及大扳罾等设施。  
-1. 【[鱼肚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_dv.md#鱼肚)】`y2 dv3` <sup>[如东]</sup> 鱼鳔。  
-1. 【[鱼肚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_dv.md#鱼肚)】`y2 dv3` 用鲟、鲵鱼鳔制成的食物，高档海味之一。<sup>\[泰州\]</sup>  
+1. 【[鱼肚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_dv.md#鱼肚)】`y2 dv3` ① 鱼鳔。<sup>\[如东\]</sup> ② 用鲟、鲵鱼鳔制成的食物，高档海味之一。<sup>\[泰州\]</sup>  
 1. 【[鱼放吖在坞子里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_fan_nga_cae_v_zz_lii.md#鱼放吖在坞子里)】`y2 fan5 nga cae6 v5 zz lii` <sup>[东台]</sup> 把鱼捉到了篓子里。［喻］十拿九稳，成功的把握很大。  
 1. 【[鱼浮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_fv_zz.md#鱼浮子)】`y2 fv2 zz` <sup>[如皋]</sup> 钓鱼线上的浮标，常用鹅、鸭毛莛儿制成。  
 1. 【[鱼腐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_fv.md#鱼腐)】`y2 fv3` <sup>[如皋]</sup> 鱼之肉剁成的糜。见“鱼圆”。  
