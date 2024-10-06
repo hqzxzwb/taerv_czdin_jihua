@@ -374,8 +374,7 @@
 1. 【[拿架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_ga_zz.md#拿架子)】`na2 ga5 zz` <sup>[如东]</sup> ① 摆架子。 ② 提出苛刻条件：不要～。  
 1. 【[拿棍子唤狗——越叫越远](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_guen_zz_hun_geu_iuh_jio_iuh_iun.md#拿棍子唤狗——越叫越远)】`na2 guen5 zz hun5 geu3 iuh8 jio5 iuh8 iun3` <sup>[东台]</sup>   
 1. 【[拿和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_hu.md#拿和)】`na2 hu2` <sup>[兴化]</sup> 劝和：“……你我弟兄多年……当真的弄这么个过节儿，最好～吧。”（扬一《风雏理事》）  
-1. 【[拿魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_huen.md#拿魂)】`na2 huen2` <small>/la2 xuən2/<sup>兴化</sup>, /na2 xuəŋ2/<sup>如皋</sup>, /na2 xuəŋ2/<sup>泰县</sup></small> ① 重要、需要、关键<sup>\[如皋\]</sup>：中午的一顿饭最～。<sup>\[如皋\]</sup> ② 魂就是人的生命。比喻关键所在。<sup>\[如东\]</sup>：这场官司，～吖！<sup>\[如东\]</sup> ③ 最有分量、能左右局势的部分<sup>\[东台\]</sup>：他业务精，尤以财务～。<sup>\[东台\]</sup> ④ 抓住关键<sup>\[兴化\]</sup>：一年到头就在这刻儿～。<sup>\[兴化\]</sup> ⑤ 起关键作用<sup>\[兴化\]</sup>：这许就靠你～哎。<sup>\[兴化\]</sup> ⑥ 出主意：这桩事靠他～。<sup>\[泰县\]</sup>  
-1. 【[拿魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_huen.md#拿魂)】`na2 huen2` 比喻在事务或者事件中起主导和决定作用<sup>\[泰州\]</sup>：这次比赛全靠老李～。<sup>\[泰州\]</sup>｜昨朝晚上老李请客，上啊四条半斤重的刀鱼，一桌菜就数它～。<sup>\[泰州\]</sup>  
+1. 【[拿魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_huen.md#拿魂)】`na2 huen2` <small>/la2 xuən2/<sup>兴化</sup>, /na2 xuəŋ2/<sup>如皋</sup>, /na2 xuəŋ2/<sup>泰县</sup></small> ① 重要、需要、关键<sup>\[如皋\]</sup>：中午的一顿饭最～。<sup>\[如皋\]</sup> ② 魂就是人的生命。比喻关键所在。<sup>\[如东\]</sup>：这场官司，～吖！<sup>\[如东\]</sup> ③ 最有分量、能左右局势的部分<sup>\[东台\]</sup>：他业务精，尤以财务～。<sup>\[东台\]</sup> ④ 抓住关键<sup>\[兴化\]</sup>：一年到头就在这刻儿～。<sup>\[兴化\]</sup> ⑤ 起关键作用<sup>\[兴化\]</sup>：这许就靠你～哎。<sup>\[兴化\]</sup> ⑥ 出主意<sup>\[泰县\]</sup>：这桩事靠他～。<sup>\[泰县\]</sup> ⑦ 比喻在事务或者事件中起主导和决定作用<sup>\[泰州\]</sup>：这次比赛全靠老李～。<sup>\[泰州\]</sup>｜昨朝晚上老李请客，上啊四条半斤重的刀鱼，一桌菜就数它～。<sup>\[泰州\]</sup>  
 [更多...](./n.md)
 ## O
 1. 【[噢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/o.md#噢)】`o, ngo, go` <sup>[泰兴]</sup> 助词。表示催促。读音因前字韵尾而不同：快点走～（o）。  
@@ -400,6 +399,7 @@
 1. 【[翁柿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_shr.md#翁柿)】`on1 shr6` <sup>[如皋]</sup> 一种大柿子。  
 1. 【[翁媳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_xieh.md#翁媳)】`on1 xieh7` <sup>[如皋]</sup> 见“公媳”。  
 1. 【[横板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_baen.md#横板)】`on2 baen3` <sup>[如东]</sup> 帆船船头上的一块横板。  
+1. 【[横财](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_cae.md#横财)】`on2 cae2` ① 意外得来的巨额钱财。<sup>\[东台\]</sup> ② 非法或者侥幸获得的钱财<sup>\[泰州\]</sup>：他这次拆迁拿啊几百万，发咖笔～。<sup>\[泰州\]</sup>  
 [更多...](./o.md)
 ## P
 1. 【[派司](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_sz.md#派司)】`pa1 sz` <sup>[东台]</sup> ① 英文pass音译。 ② 指出入证、通行证等。 ③ 指通过；准予通过（检查、关卡、考试等）。 ④ 结束：这个事看来要～啊。  
@@ -501,8 +501,7 @@
 1. 【[洒亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa_lian.md#洒亮)】`sa3 lian6` ① 明亮，光照非常明亮<sup>\[泰州\]</sup>：这个灯泡儿100支光，地下照得～的。<sup>\[泰州\]</sup> ② 器物光鉴照人的样子<sup>\[泰州\]</sup>：他把钢种锅子擦得～的。<sup>\[泰州\]</sup>｜玻璃擦得～的。<sup>\[泰州\]</sup>  
 1. 【[洒亮的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa_lian_dii.md#洒亮的)】`sa3 lian6 dii` <small>/sa3 liã1 tei/<sup>如皋</sup></small> ① 很亮。<sup>\[如皋\]</sup> ② 很光洁。<sup>\[如皋\]</sup> ③ 很耀眼。<sup>\[如皋\]</sup> ④ 形容非常亮堂、闪光。<sup>\[东台\]</sup>  
 1. 【[洒㞠头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa_lio_teu_zz.md#洒㞠头子)】`sa3 lio2 teu2 zz` <sup>[东台]</sup> 解小便（多指男孩子）。  
-1. 【[洒白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa_poh.md#洒白)】`sa3 poh8` <small>/sa3 pʰɔʔ8/<sup>兴化</sup>, /sa3 pʰɔʔ8/<sup>泰县</sup></small> ① 雪白的，常用来形容人的皮肤 ② 形容很白<sup>\[兴化\]</sup>：～如霜。<sup>\[兴化\]</sup> ③ 很白、极白：这张纸～的。<sup>\[泰县\]</sup>  
-1. 【[洒白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa_poh.md#洒白)】`sa3 poh8` 非常白<sup>\[泰州\]</sup>：他把墙上弄石灰粉得～。<sup>\[泰州\]</sup>  
+1. 【[洒白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa_poh.md#洒白)】`sa3 poh8` <small>/sa3 pʰɔʔ8/<sup>兴化</sup>, /sa3 pʰɔʔ8/<sup>泰县</sup></small> ① 雪白的，常用来形容人的皮肤 ② 形容很白<sup>\[兴化\]</sup>：～如霜。<sup>\[兴化\]</sup> ③ 很白、极白：这张纸～的。<sup>\[泰县\]</sup> ④ 非常白<sup>\[泰州\]</sup>：他把墙上弄石灰粉得～。<sup>\[泰州\]</sup>  
 1. 【[洒白的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa_poh_dii.md#洒白的)】`sa3 poh8 dii` <sup>[东台]</sup> 形容非常白的颜色。  
 1. 【[洒圈网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa_qiun_van.md#洒圈网)】`sa3 qiun1 van3` <sup>[东台]</sup> 本指大面积捕鱼的手段，［喻］一人向全桌人敬酒。  
 1. 【[洒趣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa_qy.md#洒趣)】`sa3 qy5` <sup>[兴化]</sup> ① 形容心情舒畅。 ② 无拘无束：你在我家覅见外，放～点儿。  
@@ -527,11 +526,9 @@
 1. 【[他对他](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta_duei_ta.md#他对他)】`ta1 duei5 ta1` <sup>[兴化]</sup> ① 说明没有变化。（另见“他的他”）：谚曰：烧饼两块钱一个，还是～。 ② 两两相抵，无大差别：为省一张车票，送司机两包烟，～。  
 1. 【[他家家里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta_ga_ga_lii.md#他家家里)】`ta1 ga1 ga1 lii` <sup>[如皋]</sup> 他家里。  
 1. 【[他俫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta_lae.md#他俫)】`ta1 lae` <small>/tʰa1 lɛ/<sup>兴化</sup></small> ① 他们，第三人称复数 ② 他们。<sup>\[如东\]</sup> ③ 他们。<sup>\[东台\]</sup> ④ 代词，即他们。称自己和对方以外的若干人。<sup>\[兴化\]</sup>  
-1. 【[胎膘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_bio.md#胎膘)】`tae1 bio1` <sup>[兴化]</sup> 胎儿刚出生时体重情况：～足｜～不足。  
-1. 【[胎膘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_bio.md#胎膘)】`tae1 bio1` 胎儿初生时身体上的肥肉，多被视作母亲怀孕期间营养是否充足的标准<sup>\[泰州\]</sup>：这个小伙养下来就有九斤多重，～好得加思唻。<sup>\[泰州\]</sup>  
+1. 【[胎膘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_bio.md#胎膘)】`tae1 bio1` <small>/tʰɛ1 piɔ1/<sup>兴化</sup></small> ① 胎儿刚出生时体重情况<sup>\[兴化\]</sup>：～足<sup>\[兴化\]</sup>｜～不足。<sup>\[兴化\]</sup> ② 胎儿初生时身体上的肥肉，多被视作母亲怀孕期间营养是否充足的标准<sup>\[泰州\]</sup>：这个小伙养下来就有九斤多重，～好得加思唻。<sup>\[泰州\]</sup>  
 1. 【[胎胞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_bo.md#胎胞)】`tae1 bo1` <sup>[兴化]</sup> 胞衣。  
-1. 【[胎谐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_hae.md#胎谐)】`tae1 hae` <small>/tʰɛ1 xɛ/<sup>如皋</sup></small> ① 有出息，还可指事物<sup>\[如皋\]</sup>：这什衣裳没款式，不～。<sup>\[如皋\]</sup> ② 吉利。<sup>\[如东\]</sup>：他俫这吖下去会不～的。<sup>\[如东\]</sup> ③ 顺利。<sup>\[如东\]</sup>：这件事不～。<sup>\[如东\]</sup> ④ 或作“胎亥”，叠韵连绵词，其意为有出息有本事守规矩等。《吴起敌秦》二姬栾白今日出阵显～，上的马去拿榜牌。<sup>\[东台\]</sup>  
-1. 【[胎谐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_hae.md#胎谐)】`tae1 hae` 长进，上进，多指人在学问、技艺、品行某一方面有所进步<sup>\[泰州\]</sup>：伢儿你要放吖～点儿，争取考个一百分。<sup>\[泰州\]</sup>｜这小伙不～，弄吖在家里偷他家老子的好香烟吃。<sup>\[泰州\]</sup>  
+1. 【[胎谐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_hae.md#胎谐)】`tae1 hae` <small>/tʰɛ1 xɛ/<sup>如皋</sup></small> ① 有出息，还可指事物<sup>\[如皋\]</sup>：这什衣裳没款式，不～。<sup>\[如皋\]</sup> ② 吉利。<sup>\[如东\]</sup>：他俫这吖下去会不～的。<sup>\[如东\]</sup> ③ 顺利。<sup>\[如东\]</sup>：这件事不～。<sup>\[如东\]</sup> ④ 或作“胎亥”，叠韵连绵词，其意为有出息有本事守规矩等。《吴起敌秦》二姬栾白今日出阵显～，上的马去拿榜牌。<sup>\[东台\]</sup> ⑤ 长进，上进，多指人在学问、技艺、品行某一方面有所进步<sup>\[泰州\]</sup>：伢儿你要放吖～点儿，争取考个一百分。<sup>\[泰州\]</sup>｜这小伙不～，弄吖在家里偷他家老子的好香烟吃。<sup>\[泰州\]</sup>  
 1. 【[胎货<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_hu_r.md#胎货<sub>儿</sub>)】`tae1 hu5 r` <sup>[如皋]</sup> 新生儿的身块、体重：～大，有8斤。  
 1. 【[胎里带](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_lii_dae.md#胎里带)】`tae1 lii dae5` <small>/tʰɛ1 ləi tɛ5/<sup>兴化</sup></small> ① 先天性的（毛病）。<sup>\[东台\]</sup> ② 先天的，与生俱来的<sup>\[兴化\]</sup>：他脸上一块黑斑是～的。<sup>\[兴化\]</sup>｜……且他眉心中原有米粒大的一点胭脂㾵，从～来的。（《红楼梦》四）<sup>\[兴化\]</sup>  
 1. 【[胎里病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_lii_pien.md#胎里病)】`tae1 lii pien6` <sup>[如皋]</sup> 通指人或物与生俱来的缺陷、毛病。  
@@ -548,6 +545,7 @@
 1. 【[𢪯胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_hv_zz.md#𢪯胡子)】`tae1 hv2 zz` <sup>[如东]</sup> 玉米吐雌蕊，叫做𢪯胡子。比喻工作还没有做完：～工程。  
 1. 【[𢪯手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_sheu.md#𢪯手)】`tae1 sheu3` <sup>[如东]</sup> 表示无可奈何，认输不干了：我～。  
 1. 【[台秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_chen.md#台秤)】`tae2 chen5` <sup>[兴化]</sup> 案秤。  
+1. 【[台容](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ion.md#台容)】`tae2 ion2` <sup>[兴化]</sup> （借）指人的模样：她这副～晚上出来还把人吓咖唻！  
 [更多...](./t.md)
 ## U
 1. 【[唩啰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_lu.md#唩啰)】`u lu` <sup>[如东]</sup> 呼狗声。  

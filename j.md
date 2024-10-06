@@ -135,8 +135,7 @@
 1. 【[挤麻水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ma_shuei.md#挤麻水)】`ji3 ma2 shuei3` <sup>[东台]</sup> 原指腌或帽萝卜时挤去其中水分。喻指对麻木不仁、狂妄自大者痛加训斥：这家伙太嚣张，要好好挤挤他的麻水！  
 1. 【[挤牙膏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_nga_go.md#挤牙膏)】`ji3 nga2 go1` <sup>[东台]</sup> ［喻］指不能痛痛快快地把所有的内心话都讲出来。  
 1. 【[挤矮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ngae_zz.md#挤矮子)】`ji3 ngae3 zz` <small>/t͡ɕʝ3 ŋɛ3 t͡sɿ/<sup>如皋</sup></small> ① 互相数说对方的短处。<sup>\[如东\]</sup>：你俫不要～。<sup>\[如东\]</sup> ② 游戏名。冬天，孩子们靠墙互挤取暖。<sup>\[如皋\]</sup> ③ 攀比，不许退缩<sup>\[如皋\]</sup>：我要尽义务，他也要尽义务。一定要同他～。<sup>\[如皋\]</sup>  
-1. 【[挤眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ngaen.md#挤眼)】`ji3 ngaen3` <sup>[兴化]</sup> ① 眨眼：他眼睛里揉进灰尘，不住的～。 ② 用眼色示意：他向我～，叫我少开口。  
-1. 【[挤眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ngaen.md#挤眼)】`ji3 ngaen3` 使劲攒聚眼光或者转动眼球向人示意<sup>\[泰州\]</sup>：你不要同我～，该说的话我是要说掉的。<sup>\[泰州\]</sup>  
+1. 【[挤眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ngaen.md#挤眼)】`ji3 ngaen3` <small>/t͡ɕi3 ɛ̃3/<sup>兴化</sup></small> ① 眨眼<sup>\[兴化\]</sup>：他眼睛里揉进灰尘，不住的～。<sup>\[兴化\]</sup> ② 用眼色示意<sup>\[兴化\]</sup>：他向我～，叫我少开口。<sup>\[兴化\]</sup> ③ 使劲攒聚眼光或者转动眼球向人示意<sup>\[泰州\]</sup>：你不要同我～，该说的话我是要说掉的。<sup>\[泰州\]</sup>  
 1. 【[挤眼睛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ngaen_jien.md#挤眼睛)】`ji3 ngaen3 jien1` <sup>[如东]</sup> 眼睛不停地开合，偷偷地向对方传送信息，打招呼。  
 1. 【[挤七轧八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_qieh_kaeh_baeh.md#挤七轧八)】`ji3 qieh7 kaeh8 baeh7` <sup>[如东]</sup> 拥挤不堪：人多，～的，进不去。  
 1. 【[挤人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ren_zz.md#挤人子)】`ji3 ren zz` <sup>[如皋]</sup> 被挤得难受。  
@@ -169,14 +168,12 @@
 1. 【[继配](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_pei.md#继配)】`ji5 pei5` <sup>[兴化]</sup> ① 器物中另配的零件。 ② 续娶的妻。  
 1. 【[虮䗜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_lieu_r.md#虮䗜<sub>儿</sub>)】`ji5 lieu2 r` <sup>[泰县]</sup> 蝉的一种。  
 1. 【[记不住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_beh_chv.md#记不住)】`ji5 beh7 chv6` <sup>[如皋]</sup> 不能记住，老是忘掉。  
-1. 【[记才](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_cae.md#记才)】`ji5 cae` <small>/t͡ɕi5 t͡sʰɛ/<sup>兴化</sup>, /t͡ɕʝ5 t͡sʰɛ/<sup>如皋</sup>, /t͡ɕʝ5 t͡ɕʰiɛ/<sup>泰兴</sup>, /t͡sɿ5 t͡sʰe/<sup>泰县</sup></small> 记性，记忆的能力<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup>：～好｜有～  
-1. 【[记才](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_cae.md#记才)】`ji5 cae` 记忆才能，记忆力<sup>\[泰州\]</sup>：你家妈妈的岁数大啊唻，～不行唻。<sup>\[泰州\]</sup>｜你家小伙的～好，学堂里的先生说他是块学历史的好料子。<sup>\[泰州\]</sup>  
+1. 【[记才](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_cae.md#记才)】`ji5 cae` <small>/t͡ɕi5 t͡sʰɛ/<sup>兴化</sup>, /t͡ɕʝ5 t͡sʰɛ/<sup>如皋</sup>, /t͡ɕʝ5 t͡ɕʰiɛ/<sup>泰兴</sup>, /t͡sɿ5 t͡sʰe/<sup>泰县</sup></small> 记性，记忆的能力<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：～好｜有～｜你家妈妈的岁数大啊唻，～不行唻。<sup>\[泰州\]</sup>｜你家小伙的～好，学堂里的先生说他是块学历史的好料子。<sup>\[泰州\]</sup>  
 1. 【[记仇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_cheu.md#记仇)】`ji5 cheu2` <sup>[如东]</sup> 记住已经发生的不满或仇恨。  
 1. 【[记得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_deh.md#记得)】`ji5 deh7` <sup>[如东]</sup> 没有忘记。  
 1. 【[记得住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_deh_chv.md#记得住)】`ji5 deh7 chv6` <sup>[如皋]</sup> 能记住，不忘记。  
 1. 【[记家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ga.md#记家)】`ji5 ga1` 想家  
-1. 【[记挂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_gua.md#记挂)】`ji5 gua5` <small>/t͡ɕi5 kua5/<sup>兴化</sup></small> ① 惦记 ② 心中记念。<sup>\[如东\]</sup> ③ 惦记、挂念<sup>\[兴化\]</sup>：你在外安心工作，不要～家里。<sup>\[兴化\]</sup>  
-1. 【[记挂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_gua.md#记挂)】`ji5 gua5` 牵挂，挂念<sup>\[泰州\]</sup>：这件事，他一直～啊在心里。<sup>\[泰州\]</sup>  
+1. 【[记挂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_gua.md#记挂)】`ji5 gua5` <small>/t͡ɕi5 kua5/<sup>兴化</sup></small> ① 惦记 ② 心中记念。<sup>\[如东\]</sup> ③ 惦记、挂念<sup>\[兴化\]</sup>：你在外安心工作，不要～家里。<sup>\[兴化\]</sup> ④ 牵挂，挂念<sup>\[泰州\]</sup>：这件事，他一直～啊在心里。<sup>\[泰州\]</sup>  
 1. 【[记恨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_hen.md#记恨)】`ji5 hen6` <sup>[如东]</sup> 记仇：～在心。  
 1. 【[记恨心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_hen_xien.md#记恨心)】`ji5 hen6 xien1` <sup>[兴化]</sup> 把仇恨记在心里：这个人～强，哪个得罪他非报复不可。  
 1. 【[记后心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_heu_xien.md#记后心)】`ji5 heu6 xien1` <sup>[如皋]</sup> 记恨心态：他没得～，说掉就算，还是一样的同你好。  
@@ -185,8 +182,7 @@
 1. 【[记认](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ren.md#记认)】`ji5 ren6` <sup>[兴化]</sup> 记住便于识别的标志：这一片家家房子差不多，不好～。  
 1. 【[记识](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_sheh.md#记识)】`ji5 sheh7` <small>/t͡ɕʝ5 səʔ7/<sup>如皋</sup></small> ① 记号，标志，标记 ② 记号、印记<sup>\[如皋\]</sup>：这只碗是我家的，这里有块～。<sup>\[如皋\]</sup>  
 1. 【[记性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_xien.md#记性)】`ji5 xien5` <small>/t͡ɕʝ5 ɕiəŋ5/<sup>如皋</sup></small> ① 记忆能力。<sup>\[如东\]</sup>：～好。<sup>\[如东\]</sup> ② 记忆力。<sup>\[如皋\]</sup>  
-1. 【[记憎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zen.md#记憎)】`ji5 zen` <small>/t͡ɕi5 t͡sən/<sup>兴化</sup>, /t͡sɿ5 t͡səŋ/<sup>泰县</sup></small> ① 把别人的不是处记在心中<sup>\[兴化\]</sup>：大舅不是有意为难你，你覅～他。<sup>\[兴化\]</sup> ② 记仇<sup>\[泰县\]</sup>：这件事你不必～。<sup>\[泰县\]</sup>  
-1. 【[记憎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zen.md#记憎)】`ji5 zen` 记仇<sup>\[泰州\]</sup>：老吴就这高头好，随便怎吖吵，事情过啊就拉倒，不～人。<sup>\[泰州\]</sup>｜他就是这种人，你今吖得罪啊他，有得～你唻。<sup>\[泰州\]</sup>  
+1. 【[记憎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zen.md#记憎)】`ji5 zen` <small>/t͡ɕi5 t͡sən/<sup>兴化</sup>, /t͡sɿ5 t͡səŋ/<sup>泰县</sup></small> ① 把别人的不是处记在心中<sup>\[兴化\]</sup>：大舅不是有意为难你，你覅～他。<sup>\[兴化\]</sup> ② 记仇<sup>\[泰县\]</sup><sup>\[泰州\]</sup>：这件事你不必～。<sup>\[泰县\]</sup>｜老吴就这高头好，随便怎吖吵，事情过啊就拉倒，不～人。<sup>\[泰州\]</sup>｜他就是这种人，你今吖得罪啊他，有得～你唻。<sup>\[泰州\]</sup>  
 1. 【[记争](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zhen.md#记争)】`ji5 zhen` <sup>[如皋]</sup> 记怀，不满：你不要～他，他不懂事。  
 1. 【[鬾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#鬾)】`ji5` <sup>[如皋]</sup> 母孕致儿体弱多病。  
 1. 【[鬾饱子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_bo_zz.md#鬾饱子)】`ji5 bo3 zz` <sup>[如东]</sup> 小儿因为贪食而产生厌食、消瘦疾病。  
