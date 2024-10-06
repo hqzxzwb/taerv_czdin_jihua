@@ -83,8 +83,7 @@
 1. 【[打啊足咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_a_zoh_ga.md#打啊足咖)】`da3 a zoh7 ga` <sup>[如皋]</sup> ① 满打满算。 ② 充气很足。 ③ 秤梢朝天。  
 1. 【[打巴巴掌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ba_ba_zhan.md#打巴巴掌)】`da3 ba1 ba1 zhan` <sup>[如皋]</sup> 即北京的“打花巴掌”。二人对坐，互、自击掌。如此循环。同时口唱儿歌。  
 1. 【[打把势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ba_shr.md#打把势)】`da3 ba3 shr` <sup>[兴化]</sup> 利用某种关系或用不正当手段索取钱财：……当时他故了下来，同乡里出来替他～，我还帮过他二两银子……（《官场现行记》十一）  
-1. 【[打坝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ba.md#打坝)】`da3 ba5` <small>/ta3 pa5/<sup>兴化</sup>, /ta3 pa5/<sup>如皋</sup></small> ① 在河道上筑坝。<sup>\[如东\]</sup><sup>\[兴化\]</sup> ② 比喻阻挠、作梗<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[兴化\]</sup>：他从中～，事情就有难度咾。<sup>\[如皋\]</sup>｜这件事有人～，不顺利。<sup>\[兴化\]</sup> ③ 堵塞<sup>\[如皋\]</sup><sup>\[兴化\]</sup>：千不怕，万不怕，就怕喉咙管儿～。<sup>\[如皋\]</sup>｜他喉咙～，咽不下去。<sup>\[兴化\]</sup>  
-1. 【[打坝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ba.md#打坝)】`da3 ba5` <sup>[泰州]</sup> ① 在河里或湖口狭窄处筑坝：前头河里在下～，船过不去。 ② 设置障碍阻挠某件事进行：你这桩事怕的有人在当中～，不然怎吖会得到现在还不批。  
+1. 【[打坝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ba.md#打坝)】`da3 ba5` <small>/ta3 pa5/<sup>兴化</sup>, /ta3 pa5/<sup>如皋</sup></small> ① 在河道上筑坝。<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：前头河里在下～，船过不去。<sup>\[泰州\]</sup> ② 比喻阻挠、作梗<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：他从中～，事情就有难度咾。<sup>\[如皋\]</sup>｜这件事有人～，不顺利。<sup>\[兴化\]</sup>｜你这桩事怕的有人在当中～，不然怎吖会得到现在还不批。<sup>\[泰州\]</sup> ③ 堵塞<sup>\[如皋\]</sup><sup>\[兴化\]</sup>：千不怕，万不怕，就怕喉咙管儿～。<sup>\[如皋\]</sup>｜他喉咙～，咽不下去。<sup>\[兴化\]</sup>  
 1. 【[打摆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_bae_zz.md#打摆子)】`da3 bae3 zz` <small>/ta3 pɛ3 t͡sɿ/<sup>兴化</sup>, /ta3 pɛ3 t͡sɿ/<sup>如皋</sup></small> ① 患疟疾。发寒颤抖，旧时无特效药医，病程延长。同“百日子”。<sup>\[如皋\]</sup> ② 患疟疾，身上发寒颤抖。<sup>\[东台\]</sup> ③ ［喻］忽冷忽热、时好时差、时有时无的不正常现象。（作为詈语也说“打阴摆子”）<sup>\[东台\]</sup> ④ 发疟疾。<sup>\[兴化\]</sup> ⑤ （喻）犯冷热病。<sup>\[兴化\]</sup>  
 1. 【[打摆子去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_bae_zz_qy.md#打摆子去)】`da3 bae3 zz qy5` <sup>[如皋]</sup> 恶言逐客：你～吧！  
 1. 【[打八岔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_baeh_cha.md#打八岔)】`da3 baeh7 cha5` <sup>[如东]</sup> 从旁打扰别人的工作或谈话：你不要在这许～。  
@@ -97,6 +96,9 @@
 1. 【[打不住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_beh_chv.md#打不住)】`da3 beh chv6` <sup>[兴化]</sup> 预计的钱物等不敷实际需要：这次修房子两万块～。  
 1. 【[打不平](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_beh_pien.md#打不平)】`da3 beh7 pien2` <sup>[兴化]</sup> 帮助受欺压的人说话或采取某种行动：武松在家行侠仗义，惯～。（《武松》一）  
 1. 【[打不起](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_beh_qi.md#打不起)】`da3 beh7 qi3` <sup>[如皋]</sup> 秤的称量不够。  
+1. 【[打比子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_bi_zz.md#打比子)】`da3 bi3 zz` <sup>[如皋]</sup> 相对比。  
+1. 【[打饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_bien.md#打饼)】`da3 bien3` <small>/ta3 piɪ̃3/<sup>兴化</sup>, /ta3 piəŋ3/<sup>如皋</sup>, /tɑ3 piŋ3/<sup>泰兴</sup>, /ta3 piŋ3/<sup>泰县</sup></small> ① 聚集成一团：头发～了，梳不开。 ② 见“打板”。<sup>\[如皋\]</sup> ③ 旧式榨油打出油饼。<sup>\[如皋\]</sup> ④ 板结、变质<sup>\[如皋\]</sup>：头发～，栉不动。<sup>\[如皋\]</sup>  
+1. 【[打憋气棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_bih_qi_pan.md#打憋气棒)】`da3 bih7 qi5 pan6` <small>/ta3 piʔ7 t͡ɕʰʝ5 pʰã1/<sup>如皋</sup></small> ① 因为自己心里有委曲，故意拿棍棒打小孩，借以出气。<sup>\[如东\]</sup> ② 故意责打小孩，使相关的人黄孔（脸面难下）。<sup>\[如皋\]</sup>  
 [更多...](./d.md)
 ## E
 1. 【[……儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh.md#……儿)】`eh` <sup>[东台]</sup> 儿缀的东台市区方言口音：茄～；小摊～；让你个子～。  
