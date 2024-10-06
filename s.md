@@ -39,6 +39,7 @@
 1. 【[撒村](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_cuen.md#撒村)】`saeh7 cuen1` 说下流话<sup>\[泰州\]</sup>：这个人说咖说的，嘴里就～唻。<sup>\[泰州\]</sup>  
 1. 【[撒刁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_dio.md#撒刁)】`saeh7 dio1` <sup>[东台]</sup> 撒娇，受人宠爱故意作态。  
 1. 【[撒野](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_ia.md#撒野)】`saeh7 ia3` <sup>[东台]</sup> 粗野；放肆；蛮不讲理。  
+1. 【[撒气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_qi.md#撒气)】`saeh7 qi5` 出气，发泄怒气<sup>\[如东\]</sup><sup>\[泰州\]</sup>：你不要拿伢儿～。<sup>\[如东\]</sup>｜你在单位上受啊气，家来就拿女将～。<sup>\[泰州\]</sup>  
 1. 【[撒撒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_saeh.md#撒撒)】`saeh7 saeh7` <sup>[泰县]</sup> ① 小雨很密：毛雨～。 ② 碎屑直往下掉：他吃脆饼儿～的。  
 1. 【[撒乌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_v.md#撒乌)】`saeh7 v1` <sup>[如皋]</sup> 黄昏后天色渐暗。  
 1. 【[撒屑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_xiuh_zz.md#撒屑子)】`saeh7 xiuh7 zz` <sup>[泰县]</sup> 不直接说出自己的牢骚话。  
@@ -605,7 +606,7 @@
 1. 【[煞个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_gu.md#煞个)】`shaeh7 gu` <sup>[如皋]</sup> 尽量：你～多吃点儿，走远路禁饿些。  
 1. 【[煞骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_gueh.md#煞骨)】`shaeh7 gueh7` <sup>[如东]</sup> ① 深入骨髓。比喻称心：今朝洗澡真～。 ② 比喻厉害：今天挑泥真～。  
 1. 【[煞劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_jien.md#煞劲)】`shaeh7 jien5` <small>/sæʔ7 t͡ɕiŋ5/<sup>泰县</sup></small> ① 要用很大的力气。<sup>\[如东\]</sup>：这趟车子～！<sup>\[如东\]</sup> ② 用力。<sup>\[泰县\]</sup>  
-1. 【[煞气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_qi.md#煞气)】`shaeh7 qi5` ① 凶狠，<sup>\[如东\]</sup>：～腾腾<sup>\[如东\]</sup> ② 出气，发泄怒气<sup>\[如东\]</sup><sup>\[泰州\]</sup>：你不要拿伢儿～。<sup>\[如东\]</sup>｜你在单位上受啊气，家来就拿女将～。<sup>\[泰州\]</sup>  
+1. 【[煞气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_qi.md#煞气)】`shaeh7 qi5` 凶狠<sup>\[如东\]</sup>：～腾腾<sup>\[如东\]</sup>  
 1. 【[煞如](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_rv.md#煞如)】`shaeh7 rv` <sup>[如皋]</sup> 好像：不睬你～搳你，不答你～杀你！  
 1. 【[煞着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_zhah.md#煞着)】`shaeh7 zhah7` <sup>[兴化]</sup> 弈棋术语，指厉害的招数：倘或旁观的口嘴不紧，遇～处溜出半句话来，赢者反输，输者反赢……（《醒世恒言》九）也作“杀作”。  
 1. 【[霎霎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_shaeh.md#霎霎)】`shaeh7 shaeh7` <sup>[兴化]</sup> 索性：反正在假期里，～多玩几天再走。  

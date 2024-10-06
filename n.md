@@ -835,7 +835,7 @@
 1. 【[硬橛橛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_jiuh_jiuh.md#硬橛橛)】`ngen6 jiuh7 jiuh7` <sup>[兴化]</sup> ① 形容挺硬：旧棉衣穿吖身上～的。 ② 僵硬：那邓九公直喝的眼睛有些粘糊糊的，舌头有些～的了（《儿女英雄传》三二）  
 1. 【[硬嘴桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_jy_qio.md#硬嘴桥)】`ngen6 jy3 qio2` <sup>[东台]</sup> 讽喻小孩子不肯叫人：你是～出来的，遇到长辈都不肯问好。  
 1. 【[硬蹫蹫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_jyeh_jyeh.md#硬蹫蹫)】`ngen6 jyeh7 jyeh7` <sup>[东台]</sup> ① 形容很硬（含厌恶意）。 ② 形容态度生硬。  
-1. 【[硬蹫蹫的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_jyeh_jyeh_dii.md#硬蹫蹫的)】`ngen6 jyeh7 jyeh7 dii` <sup>[如皋]</sup> 硬挺的样子：挂啊钩子上的湿手巾捱冻得～的，活像个鱼干儿。皮球打足咖气，～。  
+1. 【[硬蹫蹫的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_jyeh_jyeh_dii.md#硬蹫蹫的)】`ngen6 jyeh7 jyeh7 dii` <sup>[如皋]</sup> 硬挺的样子：挂啊钩子上的湿手巾捱冻得～的，活像个鱼干儿｜皮球打足咖气，～。  
 1. 【[硬抲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_ka.md#硬抲)】`ngen6 ka1` <small>/ən6 kʰa1/<sup>兴化</sup>, /əŋ1 kʰa1/<sup>泰县</sup></small> ① 硬塞<sup>\[兴化\]</sup>：硬面的馒头吃不下去就～。<sup>\[兴化\]</sup> ② 用力塞进；这门你不要～。<sup>\[泰县\]</sup>  
 1. 【[硬跍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_kv.md#硬跍)】`ngen6 kv1` <sup>[如皋]</sup> ① 硬性要求，不达目的不止。 ② 连鞋袜在泥水之中走，毫不爱惜。  
 1. 【[硬剌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_laeh.md#硬剌)】`ngen6 laeh` <small>/ŋəŋ1 leʔ/<sup>如皋</sup></small> ① 褒指质量好：这双鞋子的牛皮底～些，买这双吧。<sup>\[如皋\]</sup> ② 坚硬。<sup>\[如东\]</sup>：这根料子～。<sup>\[如东\]</sup> ③ 结实。<sup>\[如东\]</sup>：老人的身体还蛮～的。<sup>\[如东\]</sup>  
