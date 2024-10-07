@@ -1727,8 +1727,7 @@
 1. 【[血腥气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_xien_qi.md#血腥气)】`xiuh7 xien1 qi5` <sup>[如皋]</sup> ① 血的气味。 ② 喻非法非德的害人行径有～。  
 1. 【[血性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_xien.md#血性)】`xiuh7 xien5` <sup>[东台]</sup> 刚强正直的气质。  
 1. 【[血子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_zz.md#血子)】`xiuh7 zz` <small>/ɕyʊʔ7 t͡sɿ/<sup>如皋</sup>, /ɕyʊʔ7 t͡se/<sup>泰县</sup></small> ① 食用的血 ② 用动物血煮成的块，可做菜<sup>\[如皋\]</sup>：猪～、羊～、鸭～。<sup>\[如皋\]</sup> ③ 猪、羊、鸡鸭的血煮成块，称血子。做菜吃。<sup>\[如东\]</sup> ④ 煮熟后供食用的家畜血或家禽血<sup>\[东台\]</sup>：猪～<sup>\[东台\]</sup>｜鸭～汤。<sup>\[东台\]</sup> ⑤ 动物血成块。<sup>\[泰县\]</sup> ⑥ 屠宰家禽家畜时，用盆、碗接住留下的血，凝固成类似豆腐的血块，用作菜肴原料<sup>\[泰州\]</sup>：猪～<sup>\[泰州\]</sup>｜鸡～。<sup>\[泰州\]</sup>  
-1. 【[雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh.md#雪)】`xiuh7, xyeh7, xih7` 雪  
-1. 【[雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh.md#雪)】`xiuh7` <sup>[如东]</sup> 在气温低到0℃以下时，空气层中的水蒸气凝结成白色结晶体降落下来，多为六角形。  
+1. 【[雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh.md#雪)】`xiuh7` <small>/ɕyuʔ7/<sup>兴化</sup>, /ɕyʊʔ7/<sup>如皋</sup>, /ɕiʔ7/<sup>泰兴</sup>, /ɕyʊʔ7/<sup>泰县</sup></small> 雪：落～  
 1. 【[雪菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_cae.md#雪菜)】`xiuh7 cae5` <sup>[兴化]</sup> 一种蔬菜，即雪里蕻（红）。  
 1. 【[雪菜面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_cae_min.md#雪菜面)】`xiuh7 cae5 min6` <sup>[如东]</sup> 面条煮熟后，加雪菜作拌料，称雪菜面。口味鲜香。  
 1. 【[雪等伴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_den_pun.md#雪等伴)】`xiuh7 den3 pun6` <small>/ɕyʊʔ7 təŋ3 pʰʊ̃1/<sup>如皋</sup></small> ① 积雪不化，天色阴沉，预示将再下雪。<sup>\[如皋\]</sup> ② 积雪不化，天气寒冷，预示着还要下雪。<sup>\[如东\]</sup>  
