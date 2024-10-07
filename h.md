@@ -918,7 +918,7 @@
 1. 【[红芒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_man_zz.md#红芒子)】`hon2 man2 zz` <sup>[如东]</sup> 海虾的一种。虾芒呈红色。  
 1. 【[红面<sub>儿</sub>糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_min_r_go.md#红面<sub>儿</sub>糕)】`hon2 min6 r go1` <sup>[如东]</sup> 糯米粉蒸制而成，长方形，上面饰有花纹，并加红色。柔韧清香。  
 1. 【[红毛色稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_mo_seh_xi.md#红毛色稀)】`hon2 mo2 seh7 xi1` <sup>[东台]</sup> 颜色红得不恰当，看了不舒服。  
-1. 【[红毛荻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_mo_tieh_zz.md#红毛荻子)】`hon2 mo2 tieh8 zz` <sup>[兴化]</sup> 长在海滨或盐酸地上的一种多年生草本植物，形似芦苇，色紫，茎可盖房、编席及帘箔等。‖又称“荻柴儿”。  
+1. 【[红毛荻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_mo_tieh_zz.md#红毛荻子)】`hon2 mo2 tieh8 zz` <sup>[兴化]</sup> 长在海滨或盐碱地上的一种多年生草本植物，形似芦苇，色紫，茎可盖房、编席及帘箔等。又称“荻柴儿”。  
 1. 【[红木店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_moh_din.md#红木店)】`hon2 moh8 din5` <sup>[如皋]</sup> 制售红木家俱、器物、摆饰的店。  
 1. 【[红木匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_moh_qian.md#红木匠)】`hon2 moh8 qian6` <sup>[如皋]</sup> 专做红木器的木匠，是细料木匠的分支。  
 1. 【[红吖发紫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_nga_faeh_zz.md#红吖发紫)】`hon2 nga faeh7 zz3` <sup>[如皋]</sup> 红极一时。暗示将有灾厄。  
