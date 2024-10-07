@@ -1722,8 +1722,7 @@
 1. 【[老君须](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_jyen_xy.md#老君须)】`lo3 jyen1 xy1` <sup>[如东]</sup> 萝藦科植物雪里蟠桃，又名婆婆针线包，多年生草本。  
 1. 【[老掐掐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_kaeh_kaeh.md#老掐掐)】`lo3 kaeh7 kaeh7` <sup>[兴化]</sup> ① 形容早熟，与“嫩”相对：这个韭菜～的，不好吃。 ② 指年轻人老气横秋的样子：这个小伙～的，不讨喜。  
 1. 【[老壳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_kah_zz.md#老壳子)】`lo3 kah7 zz` <sup>[如东]</sup> ① 陈旧的外壳：只剩下一个～。 ② 比喻老年妇女：她是一个～。  
-1. 【[老硍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ken.md#老硍)】`lo3 ken5` <sup>[泰县]</sup> 身上的汗腺分泌物，污垢。  
-1. 【[老硍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ken.md#老硍)】`lo3 ken5` <small>/lɔ3 kʰən5/<sup>兴化</sup></small> ① 长时间积聚的污垢。<sup>\[兴化\]</sup> ② 久积的污渍<sup>\[兴化\]</sup>：身上的～难洗哩！也称“古硍”。<sup>\[兴化\]</sup>  
+1. 【[老硍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ken.md#老硍)】`lo3 ken5` <small>/lɔ3 kʰən5/<sup>兴化</sup>, /nɔ3 kʰəŋ5/<sup>泰县</sup></small> ① 身上的汗腺分泌物，污垢。<sup>\[泰县\]</sup> ② 长时间积聚的污垢。<sup>\[兴化\]</sup> ③ 久积的污渍<sup>\[兴化\]</sup>：身上的～难洗哩！也称“古硍”。<sup>\[兴化\]</sup>  
 1. 【[老扣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_keu.md#老扣)】`lo3 keu1` <sup>[如皋]</sup> ① 严密：他做事～。 ② 坚决缜密：你同他说话要下～，一点不能带游扣。  
 1. 【[老抠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_keu.md#老抠)】`lo3 keu1` <sup>[如东]</sup> 小气：王二是个～。  
 1. 【[老口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_keu.md#老口)】`lo3 keu3` <small>/lɔ3 kʰɤ3/<sup>兴化</sup>, /lɔ3 kʰei3/<sup>如皋</sup></small> ① 经验丰富而不谦让的人。<sup>\[如皋\]</sup> ② 年老的牛马。<sup>\[如皋\]</sup> ③ 形容擅于辞令的人<sup>\[兴化\]</sup>：他是个～，不大好说话。<sup>\[兴化\]</sup>  

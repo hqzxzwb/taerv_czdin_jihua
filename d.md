@@ -2050,13 +2050,12 @@
 1. 【[倒纱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_sha.md#倒纱)】`do5 sha1` <sup>[如皋]</sup> 将绽子上的纱先行绕出再回绕过来。  
 1. 【[倒上市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_shan_shr.md#倒上市)】`do5 shan6 shr6` <sup>[如皋]</sup> ① 下市，罢市：春天还吃羊肉——～。 ② 晚熟作物上市、错过季节上市。  
 1. 【[倒梢子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_sho_zz.md#倒梢子)】`do5 sho1 zz` <sup>[如皋]</sup> 芦穄；芦粟。嚼食如甘蔗。  
-1. 【[倒缩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_shoh.md#倒缩)】`do5 shoh` <sup>[兴化]</sup> 形容人体力、智力衰退，言行失序：我望你像～过来啊。  
-1. 【[倒缩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_shoh.md#倒缩)】`do5 shoh7` <small>/tɔ5 sɔʔ7/<sup>如皋</sup>, /tɔ5 sɔʔ7/<sup>泰县</sup></small> ① 衰老倒退<sup>\[如皋\]</sup>：过啊～咖。<sup>\[如皋\]</sup> ② 退步<sup>\[东台\]</sup>：你期中考试怎吖～咖，从前5名𠫓到30名。<sup>\[东台\]</sup> ③ 倒退。<sup>\[泰县\]</sup>  
 1. 【[倒舂头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_shon_teu.md#倒舂头)】`do5 shon1 teu2` <sup>[如皋]</sup> 平卧时头部偏低的姿势。  
 1. 【[倒示](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_shr.md#倒示)】`do5 shr` <sup>[如皋]</sup> 贬指。追述待某人的好处来显示某人现在不思回报的可恶：他会～人，你不要收他的礼物。  
 1. 【[倒屎肚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_shr_dv_r.md#倒屎肚<sub>儿</sub>)】`do5 shr3 dv3 r` <sup>[如皋]</sup> 见“倒肚儿”。  
-1. 【[倒缩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_soh.md#倒缩)】`do5 soh` <sup>[泰州]</sup> ① 人的品德、能力等出现退步：二小上吖高中就～咖，成绩没得初中好唻。｜你写的东西还不如才来的学生，哿是～咖。 ② 是非、好坏、成败的标准颠倒：他打人的人没事，捱打的人反而捱啊批，真的是～咖唻。｜混吖几十年，到临了还要受小拿宝儿的气，～咖唻。  
+1. 【[倒缩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_soh.md#倒缩)】`do5 soh` <small>/tɔ5 sɔʔ/<sup>兴化</sup></small> ① 人的品德、能力等出现退步<sup>\[泰州\]</sup>：二小上吖高中就～咖，成绩没得初中好唻。<sup>\[泰州\]</sup>｜你写的东西还不如才来的学生，哿是～咖。<sup>\[泰州\]</sup> ② 是非、好坏、成败的标准颠倒<sup>\[泰州\]</sup>：他打人的人没事，捱打的人反而捱啊批，真的是～咖唻。<sup>\[泰州\]</sup>｜混吖几十年，到临了还要受小拿宝儿的气，～咖唻。<sup>\[泰州\]</sup> ③ 形容人体力、智力衰退，言行失序<sup>\[兴化\]</sup>：我望你像～过来啊。<sup>\[兴化\]</sup>  
 1. 【[倒粟子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_soh_zz.md#倒粟子)】`do5 soh7-3 zz` <sup>[东台]</sup> 甜高粱。因为茎秆可食，籽粒反而不食，故名。  
+1. 【[倒缩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_soh.md#倒缩)】`do5 soh7` <small>/tɔ5 sɔʔ7/<sup>如皋</sup>, /tɔ5 sɔʔ7/<sup>泰县</sup></small> ① 衰老倒退<sup>\[如皋\]</sup>：过啊～咖。<sup>\[如皋\]</sup> ② 退步<sup>\[东台\]</sup>：你期中考试怎吖～咖，从前5名𠫓到30名。<sup>\[东台\]</sup> ③ 倒退。<sup>\[泰县\]</sup>  
 1. 【[倒算盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_sun_pun.md#倒算盘)】`do5 sun5 pun` <sup>[如皋]</sup> 从相反角度思考，换位思考。这是自我劝慰求得心理平衡的思想方法。常说：顺算盘打不过来打倒算盘。  
 1. 【[倒踏门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_taeh_men.md#倒踏门)】`do5 taeh men2` <sup>[兴化]</sup> 赘婿的俗称。‖也称“倒插门”。  
 1. 【[倒趟子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_tan_zz.md#倒趟子)】`do5 tan5 zz` <sup>[如东]</sup> 庄稼生长后，在田间松土。  

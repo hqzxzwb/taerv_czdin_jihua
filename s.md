@@ -1195,8 +1195,8 @@
 1. 【[伸气活气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_qi_huh_qi.md#伸气活气)】`shen1 qi5 huh8 qi5` <sup>[兴化]</sup> 呼吸：颈项里钮子太紧，～有困难。｜肋骨里头～的觉察疼。  
 1. 【[伸手不见五指，张口不见牙齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_sheu_beh_jin_v_zhr_zhan_keu_beh_jin_nga_chr.md#伸手不见五指，张口不见牙齿)】`shen1 sheu3 beh7 jin5 v3 zhr3 zhan1 keu3 beh7 jin5 nga2 chr3` <sup>[如皋]</sup> 漆黑一片。  
 1. 【[伸舌头他嘴里说话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_shih_teu_ta_jy_lii_shuh_hua.md#伸舌头他嘴里说话)】`shen1 shih8 teu ta1 jy3 lii shuh7 hua6` <sup>[如皋]</sup> 说话暗示、暗中导向，而不明说。  
-1. 【[伸缩气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_shoh_qi.md#伸缩气)】`shen1 shoh7 qi5` <sup>[如皋]</sup> 呼吸气。  
 1. 【[伸舒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_shv.md#伸舒)】`shen1 shv1` <sup>[兴化]</sup> 舒服、偷快的感觉：他今朝身上不～。｜听他一说，我心里不～！  
+1. 【[伸缩气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_soh_qi.md#伸缩气)】`shen1 soh7 qi5` <sup>[如皋]</sup> 呼吸气。  
 1. 【[伸头霍颈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_teu_huah_jien.md#伸头霍颈)】`shen1 teu2 huah7 jien3` <sup>[兴化]</sup> 伸长脖子四处张望：你～的望甚的啊？  
 1. 【[伸头勒颈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_teu_leh_jien.md#伸头勒颈)】`shen1 teu2 leh8 jien3` <sup>[如东]</sup> 头颈乱动，很不稳重的样子：这个伢儿站吖门口～的，像个甚的样子？  
 1. 【[伸头缩颈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_teu_soh_jien.md#伸头缩颈)】`shen1 teu2 soh7 jien3` <sup>[兴化]</sup> 因害怕或畏寒而缩起脖子。  
@@ -1662,7 +1662,7 @@
 1. 【[寿碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_un.md#寿碗)】`sheu6 un3` 为庆贺长寿老人生日所用的碗。民俗，八十、九十以上老人做大生日，寿宴结束时要向每位来宾赠送一只寿碗，如同婚宴上发喜糖一样，客人带回家中一般都给儿童使用，沾润寿星长寿之喜，以保佑小孩健康成长。旧时高龄老人做大生日，家中碗、盘、碟、匙等，客人均可“偷”走，主人不仅不会生气，还会十分高兴，因为这样说明寿星得到大家爱戴，主人愿与亲朋好友共同分享寿星福气。<sup>\[泰州\]</sup>  
 1. 【[寿限](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_xiaen.md#寿限)】`sheu6 xiaen6` <small>/sɤ6 ɕiɛ̃6/<sup>兴化</sup></small> ① 迷信指人命中注定的岁数<sup>\[兴化\]</sup>：～到啊，神仙也治不了。<sup>\[兴化\]</sup>｜“……你撞着太岁爷，也是阁王注定你的～了……”（《说岳全传》七五）<sup>\[兴化\]</sup> ② 个人所能活到的岁数<sup>\[泰州\]</sup>：各人的～不一样，你也不要再难过唻。<sup>\[泰州\]</sup>  
 1. 【[寿星佬吃砒霜——活得不耐烦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_xien_lo_qieh_pi_shuan_huh_deh_beh_nae_faen.md#寿星佬吃砒霜——活得不耐烦)】`sheu6 xien1 lo3 qieh7 pi1 shuan1 huh8 deh7 beh7 nae6 faen2` <sup>[东台]</sup>   
-1. 【[寿星佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_xien_lo_r.md#寿星佬<sub>儿</sub>)】`sheu6 xien1 lo3 r` <sup>[如皋]</sup> ① 敬称老人。 ② 指过生日者。  
+1. 【[寿星佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_xien_lo_r.md#寿星佬<sub>儿</sub>)】`sheu6 xien1 lo3 r` <small>/sei1 ɕiəŋ1 lɔ˞3/<sup>如皋</sup></small> ① 指过生日者。<sup>\[如皋\]</sup> ② 神仙福禄寿三星之一。对老人的敬称。<sup>\[如东\]</sup><sup>\[如皋\]</sup>  
 1. 【[寿星佬<sub>儿</sub>拜财神——有钱大三级](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_xien_lo_r_bae_cae_shen_ieu_qin_da_saen_jieh.md#寿星佬<sub>儿</sub>拜财神——有钱大三级)】`sheu6 xien1 lo3 r bae5 cae2 shen2 ieu3 qin2 da6 saen1 jieh7` <sup>[东台]</sup>   
 1. 【[寿星佬<sub>儿</sub>跌跟头——肉头道啊地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_xien_lo_r_dih_gen_teu_roh_teu_to_a_ti.md#寿星佬<sub>儿</sub>跌跟头——肉头道啊地)】`sheu6 xien1 lo3 r dih7 gen1 teu roh8 teu to6 a ti6` <sup>[如皋]</sup>   
 1. 【[寿星佬<sub>儿</sub>跨户槛——肉头到啊家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_xien_lo_r_kua_v_kaen_roh_teu_do_a_ga.md#寿星佬<sub>儿</sub>跨户槛——肉头到啊家)】`sheu6 xien1 lo3 r kua5 v6 kaen3 roh8 teu do5 a ga1` <sup>[如皋]</sup>   
@@ -1670,8 +1670,7 @@
 1. 【[寿星佬<sub>儿</sub>卖妈妈——倚老卖老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_xien_lo_r_mae_ma_ma_i_lo_mae_lo.md#寿星佬<sub>儿</sub>卖妈妈——倚老卖老)】`sheu6 xien1 lo3 r mae6 ma1 ma i3 lo3 mae6 lo3` <sup>[如皋]</sup>   
 1. 【[寿星佬<sub>儿</sub>卖妈妈——倚老卖老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_xien_lo_r_mae_ma_ma_i_lo_mae_lo.md#寿星佬<sub>儿</sub>卖妈妈——倚老卖老)】`sheu6 xien1 lo3 r mae6 ma1 ma1 i3 lo3 mae6 lo3` <sup>[东台]</sup>   
 1. 【[寿星佬<sub>儿</sub>吃砒霜——活得不耐烦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_xien_lo_r_qieh_pi_shuan_huh_deh_beh_nae_faen.md#寿星佬<sub>儿</sub>吃砒霜——活得不耐烦)】`sheu6 xien1 lo3 r qieh7 pi1 shuan1 huh8 deh beh7 nae6 faen2` <sup>[如皋]</sup>   
-1. 【[寿星佬<sub>儿</sub>抓朞——过啊倒缩过来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_xien_lo_r.md#寿星佬<sub>儿</sub>抓朞——过啊倒缩过来啊)】`sheu6 xien1 lo3 r zhua1 ji1 gu5 a do5 shoh7 gu5 lae a` <sup>[如皋]</sup>   
-1. 【[寿星老<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_xien_lo_r.md#寿星老<sub>儿</sub>)】`sheu6 xien1 lo3 r` <sup>[如东]</sup> 神仙福绿寿三星之一。对老人的敬称。  
+1. 【[寿星佬<sub>儿</sub>抓朞——过啊倒缩过来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_xien_lo_r.md#寿星佬<sub>儿</sub>抓朞——过啊倒缩过来啊)】`sheu6 xien1 lo3 r zhua1 ji1 gu5 a do5 soh7 gu5 lae a` <sup>[如皋]</sup>   
 1. 【[寿鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_y.md#寿鱼)】`sheu6 y2` <sup>[如皋]</sup> ① 黄鳝，寿宴用，习称“长鱼”。 ② 泥鳅，随葬用，习称“地龙”。  
 1. 【[寿幛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_zhan.md#寿幛)】`sheu6 zhan1` <sup>[如皋]</sup> 祝寿礼品之一，即专指祝寿的字画条幅。  
 1. 【[寿枕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_zhen.md#寿枕)】`sheu6 zhen3` <small>/sei1 t͡səŋ3/<sup>如皋</sup></small> ① 死人用枕，多为“山”字形布枕，内衬碎纸条。<sup>\[如皋\]</sup> ② 为死人制作的枕头。<sup>\[如东\]</sup>  
@@ -1903,18 +1902,6 @@
 1. 【[束腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_io.md#束腰)】`shoh7 io1` <sup>[东台]</sup> 一种女子的腰带。  
 1. 【[束手束脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_sheu_shoh_jiah.md#束手束脚)】`shoh7 sheu3 shoh7 jiah7` <sup>[东台]</sup> 捆住手脚。［喻］不能施展才干去做事。也作缩手缩脚。  
 1. 【[束脩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_xieu.md#束脩)】`shoh7 xieu1` ① 送给私墊老师的报酬（古时称干肉为脩）。<sup>\[如东\]</sup> ② 旧时给私塾先生的报酬。<sup>\[东台\]</sup>  
-1. 【[缩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh.md#缩)】`shoh7` <sup>[如皋]</sup> ① 变短、变小。 ② 指移栽时为防水分过量蒸发而剪去部分枝叶。  
-1. 【[缩气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_qi.md#缩气)】`shoh7 qi5` <sup>[如皋]</sup> 吸气。见“伸缩气”。  
-1. 【[缩钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_qin.md#缩钱)】`shoh7 qin2` <sup>[如皋]</sup> 暗中收藏钱财。  
-1. 【[缩身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_shen.md#缩身)】`shoh7 shen1` <sup>[如东]</sup> 物体体积缩小。  
-1. 【[缩缩魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_shoh_huen.md#缩缩魂)】`shoh7 shoh7 huen2` <sup>[东台]</sup> 警告某人收敛些，不要张狂：现在反腐力度大，你～！  
-1. 【[缩水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_shuei.md#缩水)】`shoh7 shuei` <sup>[如皋]</sup> 织物浸水后缩小。  
-1. 【[缩水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_shuei.md#缩水)】`shoh7 shuei3` ① 纺织品浸泡后纤维收缩，现也比喻资产贬值。<sup>\[东台\]</sup> ② 布料浸水后的收缩现象。<sup>\[如东\]</sup>  
-1. 【[缩头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_teu.md#缩头)】`shoh7 teu` <sup>[如皋]</sup> 缩水率：这种布下水～大，那种布～小。  
-1. 【[缩头夹颈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_teu_gaeh_jien.md#缩头夹颈)】`shoh7 teu2 gaeh7 jien3` <sup>[兴化]</sup> 两肩高耸，头颈下缩：他捱冷风一吹，冻得～的。  
-1. 【[缩头<sub>儿</sub>炮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_teu_r_po.md#缩头<sub>儿</sub>炮)】`shoh7 teu2 r po5` <sup>[如皋]</sup> 贬指短颈之人或物。  
-1. 【[缩头缩脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_teu_shoh_no.md#缩头缩脑)】`shoh7 teu2 shoh7 no3` <sup>[东台]</sup> ① 因冷把头裹在衣裳里。 ② 胆小怕死，不敢上前。  
-1. 【[缩头乌龟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_teu_v_guei.md#缩头乌龟)】`shoh7 teu2 v1 guei1` <sup>[东台]</sup> 讥讽遇事逃避，不肯出头的人。  
 1. 【[熟不拘礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_beh_jy_li.md#熟不拘礼)】`shoh8 beh7 jy1 li3` <sup>[兴化]</sup> 熟人之间无需繁琐礼节：“老陈请坐。说说，工作忙吧？还来看我，～嘛。”（马春阳《你该住红楼》）  
 1. 【[熟草<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_co_r.md#熟草<sub>儿</sub>)】`shoh8 co3 r` <sup>[如皋]</sup> 晒乾的野草，作饲料、燃料。  
 1. 【[熟脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_lin.md#熟脸)】`shoh8 lin3` <small>/sɔʔ8 niɪ̃3/<sup>泰县</sup></small> ① 曾经见过，有点印象。<sup>\[如东\]</sup>：我俫是～吖。<sup>\[如东\]</sup> ② 曾经见过面，有点印象的人：这个人是～，就是名字说不出来。<sup>\[泰县\]</sup> ③ 熟悉的面孔，似曾相识的人<sup>\[泰州\]</sup>：刚才过去的人是个～，名字想不起来唻。<sup>\[泰州\]</sup>  
@@ -2813,6 +2800,18 @@
 1. 【[粟糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_tan.md#粟糖)】`soh7 tan2` <sup>[如东]</sup> 禾本科植物粟的种子经发糖化制成的糖。  
 1. 【[……续咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_ga.md#……续咖)】`soh7 ga` <sup>[东台]</sup> 接在动词后面，表示持续进行：相～（看住｜看紧）｜说～跑～（边说边走）。  
 1. 【[续弦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_xin.md#续弦)】`soh7 xin2` ① 前妻死后，再取后妻，以生后代，称续弦。<sup>\[如东\]</sup> ② 丧妻再娶。<sup>\[东台\]</sup>  
+1. 【[缩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh.md#缩)】`soh7` <sup>[如皋]</sup> ① 变短、变小。 ② 指移栽时为防水分过量蒸发而剪去部分枝叶。  
+1. 【[缩气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_qi.md#缩气)】`soh7 qi5` <sup>[如皋]</sup> 吸气。见“伸缩气”。  
+1. 【[缩钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_qin.md#缩钱)】`soh7 qin2` <sup>[如皋]</sup> 暗中收藏钱财。  
+1. 【[缩身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_shen.md#缩身)】`soh7 shen1` <sup>[如东]</sup> 物体体积缩小。  
+1. 【[缩水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_shuei.md#缩水)】`soh7 shuei` <sup>[如皋]</sup> 织物浸水后缩小。  
+1. 【[缩水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_shuei.md#缩水)】`soh7 shuei3` ① 纺织品浸泡后纤维收缩，现也比喻资产贬值。<sup>\[东台\]</sup> ② 布料浸水后的收缩现象。<sup>\[如东\]</sup>  
+1. 【[缩缩魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_soh_huen.md#缩缩魂)】`soh7 soh7 huen2` <sup>[东台]</sup> 警告某人收敛些，不要张狂：现在反腐力度大，你～！  
+1. 【[缩头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_teu.md#缩头)】`soh7 teu` <sup>[如皋]</sup> 缩水率：这种布下水～大，那种布～小。  
+1. 【[缩头夹颈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_teu_gaeh_jien.md#缩头夹颈)】`soh7 teu2 gaeh7 jien3` <sup>[兴化]</sup> 两肩高耸，头颈下缩：他捱冷风一吹，冻得～的。  
+1. 【[缩头<sub>儿</sub>炮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_teu_r_po.md#缩头<sub>儿</sub>炮)】`soh7 teu2 r po5` <sup>[如皋]</sup> 贬指短颈之人或物。  
+1. 【[缩头缩脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_teu_soh_no.md#缩头缩脑)】`soh7 teu2 soh7 no3` <sup>[东台]</sup> ① 因冷把头裹在衣裳里。 ② 胆小怕死，不敢上前。  
+1. 【[缩头乌龟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_teu_v_guei.md#缩头乌龟)】`soh7 teu2 v1 guei1` <sup>[东台]</sup> 讥讽遇事逃避，不肯出头的人。  
 1. 【[俗气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_qi.md#俗气)】`soh8 qi5` <sup>[东台]</sup> 不高雅，与“文雅”相对。  
 1. 【[松巴落壳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_ba_lah_kah.md#松巴落壳)】`son1 ba1 lah8 kah7` <sup>[如东]</sup> 松松散散的样子：这些草捆子～的，怎吖好运输咯？  
 1. 【[松包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_bo.md#松包)】`son1 bo1` <sup>[兴化]</sup> 掏腰包：孙子孙女开学，老两口又要～啦。  
