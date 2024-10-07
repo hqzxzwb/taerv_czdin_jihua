@@ -2321,7 +2321,7 @@
 1. 【[𬊯汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duh_tan.md#𬊯汤)】`duh7 tan1` <small>/tʊʔ7 tʰã1/<sup>如皋</sup></small> ① 一种烹调方法。把猪骨头或鸡肉等，放在锅里长时间的煎熬，使汁液浓厚。<sup>\[如东\]</sup> ② 见“𬊯”。<sup>\[如皋\]</sup>  
 1. 【[𬊯粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duh_zhoh.md#𬊯粥)】`duh7 zhoh7` <sup>[如东]</sup> 把大米、玉米䜺儿或其他粮食放在锅里多煮一会儿，使之浓稠，这种方法称𬊯粥。  
 1. 【[𬊯粥锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duh_zhoh_gu.md#𬊯粥锅)】`duh7 zhoh7 gu1` <sup>[如皋]</sup> 见“𬊯”。  
-1. 【[㴷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dun.md#㴷)】`dun1` <small>/tũ1/<sup>兴化</sup>, /tʊ̃1/<sup>如皋</sup>, /tõ1/<sup>泰县</sup></small> ① 蘸。康熙字典“《集韻》都含切，音耽。濕也。” ② 在液体中蘸一下拿出来。<sup>\[如东\]</sup>：用笔头在墨水里头～下子。<sup>\[如东\]</sup> ③ 蘸<sup>\[如皋\]</sup>：吃变蛋要～醋。<sup>\[如皋\]</sup> ④ 蘸<sup>\[兴化\]</sup>：～墨水；～糖；拿水～吖子。<sup>\[兴化\]</sup> ⑤ 蘸<sup>\[泰县\]</sup>：～水。<sup>\[泰县\]</sup> ⑥ 蘸取<sup>\[泰州\]</sup>：嫌淡就～酱油。<sup>\[泰州\]</sup>  
+1. 【[㴷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dun.md#㴷)】`dun1` <small>/tũ1/<sup>兴化</sup>, /tʊ̃1/<sup>如皋</sup>, /tõ1/<sup>泰县</sup></small> ① 蘸。康熙字典“《集韻》都含切，音耽。濕也。” ② 蘸<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：用笔头在墨水里头～下子。<sup>\[如东\]</sup>｜吃变蛋要～醋。<sup>\[如皋\]</sup>｜～墨水；～糖；拿水～吖子。<sup>\[兴化\]</sup>｜～水。<sup>\[泰县\]</sup>｜嫌淡就～酱油。<sup>\[泰州\]</sup>  
 1. 【[㴷把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dun_ba.md#㴷把)】`dun1 ba3` <small>/tũ1 pa3/<sup>兴化</sup></small> ① 蘸水拖地的拖把。<sup>\[东台\]</sup> ② 成束布条扎在竹竿或木棍一端而成，为拖洗地板、船舱面等的工具。川也称“拖把”。<sup>\[兴化\]</sup>  
 1. 【[㴷把头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dun_ba_teu.md#㴷把头)】`dun1 ba3 teu2` <sup>[兴化]</sup> （喻）女子的发式，短发齐耳。也称“二刀毛”。  
 1. 【[㴷钢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dun_gan.md#㴷钢)】`dun1 gan1` <small>/tũ1 kaŋ1/<sup>兴化</sup>, /tʊ̃1 kã1/<sup>如皋</sup>, /tõ1 kɑŋ1/<sup>泰县</sup></small> 蘸水钢笔，一种蘸墨水写字的金属头的笔。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>  
@@ -2374,7 +2374,7 @@
 1. 【[断断乎乎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dun_dun_hv_hv.md#断断乎乎)】`dun5 dun5 hv1 hv1` <sup>[如东]</sup> 一定要这么办：假如我～的追究，又对不起你俫。  
 1. 【[断者](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dun_zhae.md#断者)】`dun5 zhae3` <sup>[如皋]</sup> 一定、决定、不可改变：你果～要这吖做相？不～。  
 1. 【[簖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dun.md#簖)】`dun5` <small>/tʊ̃5/<sup>如皋</sup></small> ① 一种网具。有网片，有网兜。网片下在河道中，拦住，鱼虾顺着水流进入网兜被捕。<sup>\[如东\]</sup> ② 捕鱼、蟹用的拦河竹箔子。<sup>\[如皋\]</sup> ③ 捕鱼器具，形状像栅栏，插在河捕捉鱼、虾、蟹<sup>\[东台\]</sup>：溱东的“溱湖～蟹”驰名大江南北。<sup>\[东台\]</sup>  
-1. 【[踹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dun.md#踹)】`dun5` <small>/tʊ̃5/<sup>如皋</sup></small> ① 跳动、震动<sup>\[如皋\]</sup>：路不平，又开得快，车子～得凶。<sup>\[如皋\]</sup> ② ［同音］颠簸、震动<sup>\[东台\]</sup>：路不平，坐啊车子上～得难受。<sup>\[东台\]</sup>  
+1. 【[锻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dun.md#锻)】`dun5` <small>/tʊ̃5/<sup>如皋</sup></small> 跳动、震动；颠簸<sup>\[如皋\]</sup><sup>\[东台\]</sup>：路不平，又开得快，车子～得凶。<sup>\[如皋\]</sup>｜路不平，坐啊车子上～得难受。<sup>\[东台\]</sup>  
 1. 【[锻锤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dun_chuei.md#锻锤)】`dun5 chuei2` <sup>[如东]</sup> 金属压力加工机器，由动力带动锤头上下移动而产生压力。常见的有空气锤、蒸气锤等。  
 1. 【[锻工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dun_gon.md#锻工)】`dun5 gon1` <sup>[如东]</sup> 工种的一种。以锻制工件为职业的工人。  
 1. 【[锻磨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dun_mu.md#锻磨)】`dun5 mu2` <sup>[如东]</sup> 石匠加工石磨，使齿尖锐，利于磨粮食。  

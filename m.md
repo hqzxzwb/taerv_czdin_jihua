@@ -1583,9 +1583,8 @@
 1. 【[幪匝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mon_zaeh.md#幪匝)】`mon3 zaeh7` <sup>[如皋]</sup> 密实：鞋底扎得～。  
 1. 【[幪匝匝的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mon_zaeh_zaeh_dii.md#幪匝匝的)】`mon3 zaeh7 zaeh7 dii` <sup>[如皋]</sup> 见“幪匝”。  
 1. 【[懵𥅻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mon_chon.md#懵𥅻)】`mon3 chon5` <sup>[泰县]</sup> 没有睡醒的样子。  
-1. 【[懵一冲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mon_ieh_chon.md#懵一冲)】`mon3 ieh7 chon1` <sup>[如皋]</sup> 陡然地、一时间：我～看见他，不曾认得出来，以后才想出来啊是他。  
 1. 【[猛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mon.md#猛)】`mon3` <small>/moŋ3/<sup>兴化</sup></small> ① 又急又密<sup>\[兴化\]</sup>：雨下得很～。<sup>\[兴化\]</sup>｜这也是个巧劲儿，要不，这样～的水流，早把她冲出来了。（汪曾祺《故里三陈》）<sup>\[兴化\]</sup> ② 雨下的多而急。<sup>\[泰州\]</sup>  
-1. 【[猛一冲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mon_ieh_chon.md#猛一冲)】`mon3 ieh7 chon1` <sup>[东台]</sup> 猛然，突然，乍一看或乍一听：双宝儿长相差不多，～分不清｜他话里有话，～听不懂。  
+1. 【[猛一冲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mon_ieh_chon.md#猛一冲)】`mon3 ieh7 chon1` <small>/mɔŋ3 iəʔ7 t͡sʰɔŋ1/<sup>如皋</sup></small> ① 陡然地、一时间<sup>\[如皋\]</sup>：我～看见他，不曾认得出来，以后才想出来啊是他。<sup>\[如皋\]</sup> ② 猛然，突然，乍一看或乍一听<sup>\[东台\]</sup>：双宝儿长相差不多，～分不清<sup>\[东台\]</sup>｜他话里有话，～听不懂。<sup>\[东台\]</sup>  
 1. 【[猛一冲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mon_ieh_chon.md#猛一冲)】`mon3 ieh7 chon5` <sup>[兴化]</sup> 见“冒一冲”。  
 1. 【[猛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mon_zz.md#猛子)】`mon3 zz` <small>/mɔŋ3 t͡sɿ/<sup>如皋</sup></small> 潜水、潜泳<sup>\[如皋\]</sup>\[东台：下水游泳时头朝下，钻入水中的动作\]\[泰州：头部突然扎入水中潜泳\]：捣～。<sup>\[如皋\]</sup>｜捣～。<sup>\[东台\]</sup>｜这条河他一个～就过去啊唻。<sup>\[泰州\]</sup>  
 1. 【[蠓虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mon_chon.md#蠓虫)】`mon3 chon2` ① 蝶科的昆虫<sup>\[东台\]</sup>：～钻进眼睛，交关难受。<sup>\[东台\]</sup> ② 蠓科、瘿蚊科的各种小双翅蝇，其中多种咬人疼痛，还有一些传染疾病。<sup>\[泰州\]</sup>  

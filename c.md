@@ -664,7 +664,7 @@
 1. 【[㿭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh.md#㿭)】`cheh7` <sup>[兴化]</sup> 皮肤干裂：脚上裂～子  
 1. 【[㿭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_zz.md#㿭子)】`cheh7 zz` <small>/t͡sʰəʔ7 t͡sɿ/<sup>如皋</sup></small> ① 皮肤皴裂开口<sup>\[如皋\]</sup>：一到寒天，脚后跟上就裂，疼得不能跑。<sup>\[如皋\]</sup> ② 皮肤上裂缝<sup>\[东台\]</sup>：冬天在建筑工地上打工，手上裂咖多少～。<sup>\[东台\]</sup>  
 1. 【[哧哧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_cheh.md#哧哧)】`cheh7 cheh7` <sup>[泰县]</sup> 悄悄：他～的走啊。  
-1. 【[哧哧<sub>儿</sub>地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_cheh_r_dii.md#哧哧<sub>儿</sub>地)】`cheh7 cheh7 r dii` <sup>[东台]</sup> 悄悄地：你～跑到我背后。  
+1. 【[哧哧<sub>儿</sub>的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_cheh_r_dii.md#哧哧<sub>儿</sub>的)】`cheh7 cheh7 r dii` <sup>[东台]</sup> 悄悄地：你～跑到我背后。  
 1. 【[尺码](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_ma.md#尺码)】`cheh7 ma3` <sup>[如东]</sup> 尺寸。  
 1. 【[尺头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_teu.md#尺头)】`cheh7 teu` <sup>[兴化]</sup> 尺寸：这个布你覅还价，我在～上跟你放一点儿。  
 1. 【[尺条<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_tio_r.md#尺条<sub>儿</sub>)】`cheh7 tio2 r` <sup>[如皋]</sup> 量具，指一尺长的尺板。  
