@@ -974,7 +974,7 @@
 1. 【[供桌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_zhuah.md#供桌)】`gon5 zhuah7` <sup>[如东]</sup> 人死之后，摆在尸体前边放置供品的桌子，称供桌。  
 1. 【[贡脓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_non.md#贡脓)】`gon5 non2` <small>/koŋ5 loŋ2/<sup>兴化</sup>, /kɔŋ5 nɔŋ2/<sup>如皋</sup></small> ① （贡字表音。） ② 疮内生脓。通“作脓”。<sup>\[如皋\]</sup> ③ 喻酝酿冲突，阴谋生事。<sup>\[如皋\]</sup> ④ 人或动物肌肤化脓。<sup>\[东台\]</sup> ⑤ 疮疖化脓<sup>\[兴化\]</sup>：疖子～疼得要命。<sup>\[兴化\]</sup> ⑥ 皮肤内的疮口腐烂生脓而致皮肤表层拱起。<sup>\[泰州\]</sup>  
 1. 【[贡手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_sheu.md#贡手)】`gon5 sheu3` <sup>[兴化]</sup> 抄着手：他成天～，甚的事也不做。  
-1. 【[哥哥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_gu.md#哥哥)】`gu1 gu` <sup>[如皋]</sup> 社交借称，表示亲切：乡村中不限彼此年龄，老人问路可称小伙子为～。  
+1. 【[哥哥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_gu.md#哥哥)】`gu1 gu` <sup>[如皋]</sup> 社交借称，表示亲切。乡村中不限彼此年龄，老人问路可称小伙子为～。  
 1. 【[哥哥言八八语](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_gu_in_baeh_baeh_y.md#哥哥言八八语)】`gu1 gu1 in2 baeh7 baeh7 y3` <sup>[东台]</sup> ① “哥哥”“八八”，指像很多只八哥。 ② 求人办事说了许多好话。 ③ 人多嘴杂，废话啰唆。  
 1. 【[哥<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_r.md#哥<sub>儿</sub>)】`gu1 r` <sup>[如皋]</sup> （gu2 r）东北乡音，称兄。  
 1. 【[戈宝权](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_bo_qiun.md#戈宝权)】`gu1 bo3 qiun2` <sup>[东台]</sup> 东台人（1913-2000），我国当代著名的翻译家，外国文学研究专家。系戈公振的侄子。曾任驻苏联大使馆临时代办和文化参赞中科院外国文学研究员、学部委员。他翻译过五十多种外国文学作品，为中外文化交流作出了巨大贡献。  
@@ -1066,7 +1066,6 @@
 1. 【[个把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_ba.md#个把)】`gu5 ba` <small>/ko5 pa/<sup>兴化</sup>, /kɤɯ5 pɑ/<sup>泰兴</sup></small> 约数，很少，一个左右<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：今吖来的人不多，只有～两个。<sup>\[兴化\]</sup>｜便叫船家把船撑往西溪。不上～时辰到了，泊船在岸。（《初刻》三四）<sup>\[兴化\]</sup>｜今朝只有～两个人。<sup>\[泰兴\]</sup>  
 1. 【[个把两个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_ba_laen_gu.md#个把两个)】`gu5 ba laen3 gu5` <sup>[东台]</sup> 一两个：菜叶上有～斑点。  
 1. 【[个等<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_den_r.md#个等<sub>儿</sub>)】`gu5 den3 r` <sup>[兴化]</sup> 一会儿：过了～，彩云仙女回来禀报……（兴文《兴化城的传说》）  
-1. 【[个个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_gu.md#个个)】`gu5 gu5` <sup>[泰兴]</sup> 每一个。  
 1. 【[个个时辰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_gu_shr_shen.md#个个时辰)】`gu5 gu5 shr2 shen2` <small>/kɤɯ5 kɤɯ5 sɿ2 səŋ2/<sup>泰兴</sup></small> 每时每刻<sup>\[泰兴\]</sup>  
 1. 【[个人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_ren.md#个人)】`gu5 ren2` <sup>[东台]</sup> ① 一个人（跟“集体”相对）：～利益服从集体利益。 ② 自称，本人：～认为企业改制宜早不宜迟。  
 1. 【[个头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_teu.md#个头)】`gu5 teu` <sup>[泰兴]</sup> 个子。  

@@ -1781,7 +1781,6 @@
 1. 【[回过味来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_gu_vei_lae.md#回过味来)】`huei2 gu5 vei6 lae` <sup>[东台]</sup> 醒悟明白原来不十分清楚、不十分理解的事情。  
 1. 【[回好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_ho.md#回好)】`huei2 ho3` <sup>[兴化]</sup> 旧婚俗，经“合婚”，如认为可婚配，即通知女方，并征询聘礼条件，谓～。  
 1. 【[回伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_hu.md#回伙)】`huei2 hu3` <sup>[东台]</sup> 原指不打算一起吃饭的意愿，［喻］辞职不干：企业关爱工人，工人也就极少～不干。  
-1. 【[回回](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_huei.md#回回)】`huei2 huei2` 次次，每次：～总是他/每次都是他  
 1. 【[回汗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_hun.md#回汗)】`huei2 hun6` <sup>[如皋]</sup> 出汗衣湿，静下来觉得冷。  
 1. 【[回殃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_ian.md#回殃)】`huei2 ian1` <sup>[如皋]</sup> 丧葬仪之一。有追念佑护死者的意思。  
 1. 【[回音](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_ien.md#回音)】`huei2 ien1` <sup>[如东]</sup> 反应：我在下等～。  
