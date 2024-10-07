@@ -543,7 +543,7 @@
 1. 【[筛子装水——漏洞多](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_zz_zhuan_shuei_leu_ton_du.md#筛子装水——漏洞多)】`shae1 zz zhuan1 shuei3 leu6 ton6 du1` <sup>[东台]</sup>   
 1. 【[筛子做锅盖——块块漏气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_zz_zu_gu_gae_kuae_kuae_leu_qi.md#筛子做锅盖——块块漏气)】`shae1 zz zu5 gu1 gae5 kuae5 kuae5 leu6 qi5` <sup>[东台]</sup>   
 1. 【[啥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae.md#啥)】`shae2` <sup>[东台]</sup> 什么。这是东台溱东一带的说法：那是～杲子？  
-1. 【[柴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae.md#柴)】`shae2` <small>/sɛ2/<sup>如皋</sup></small> ① 芦苇。<sup>\[如皋\]</sup> ② 岸草总名，包括<sup>\[如皋\]</sup>：芦苇、红草、江芦（芦竹）、苮棵、乌蓲（荻）、芒棵等。又特指芦苇。<sup>\[如皋\]</sup>  
+1. 【[柴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae.md#柴)】`shae2` <small>/sɛ2/<sup>如皋</sup></small> ① 芦苇。<sup>\[如皋\]</sup> ② 岸草总名，包括芦苇、红草、江芦（芦竹）、苮棵、乌蓲（荻）、芒棵等。<sup>\[如皋\]</sup>  
 1. 【[柴笆门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_ba_men.md#柴笆门)】`shae2 ba men2` <sup>[兴化]</sup> ① 用柴笆扎成的简陋的门。 ② （借）指贫家小户：她是走～出来的。  
 1. 【[柴笆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_ba.md#柴笆)】`shae2 ba1` <sup>[兴化]</sup> 用芦柴编的篱笆。  
 1. 【[柴草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_co.md#柴草)】`shae2 co3` <sup>[兴化]</sup> 整齐成捆的芦苇茎叶。  

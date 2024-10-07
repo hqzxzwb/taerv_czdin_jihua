@@ -1495,8 +1495,7 @@
 1. 【[卷铺盖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiun_pv_gae.md#卷铺盖)】`jiun3 pv1 gae5` <sup>[东台]</sup> ［喻］被辞退或解雇，离开原工作单位。  
 1. 【[卷心菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiun_xien_cae.md#卷心菜)】`jiun3 xien cae5` <sup>[如皋]</sup> 甘蓝。  
 1. 【[卷心菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiun_xien_cae.md#卷心菜)】`jiun3 xien1 cae5` <small>/t͡ɕyũ3 ɕin1 t͡sʰɛ5/<sup>兴化</sup></small> ① 十字花科植物甘蓝，二年生草本。高约90厘米。<sup>\[如东\]</sup> ② 见“牛心菜”。<sup>\[东台\]</sup> ③ 即包心菜（结球甘篮）。<sup>\[兴化\]</sup>  
-1. 【[捲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiun.md#捲)】`jiun3` ① ［同音］这里指骂人、嘲讽人<sup>\[东台\]</sup>：那家伙盛气凌人的，我把他～吖一通，他才不吱声吖。<sup>\[东台\]</sup> ② 肆意谩骂，或连续斥责不容对方开口<sup>\[泰州\]</sup>：这小伙在旁边多嘴，捱老李～吖他一顿。<sup>\[泰州\]</sup>  
-1. 【[𰴽（言卷）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiun.md#𰴽（言卷）)】`jiun3` <sup>[兴化]</sup> 恶毒的、粗野的谩骂：惹啊这个婆娘连～带骂的，叫人听不下去。｜“……他还嘴里劈里剥刺的，叫我一顿～骂……”（《金瓶梅词话》七二）  
+1. 【[𰴽（言卷）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiun.md#𰴽（言卷）)】`jiun3` <small>/t͡ɕyũ3/<sup>兴化</sup></small> ① 恶毒的、粗野的谩骂<sup>\[兴化\]</sup>：惹啊这个婆娘连～带骂的，叫人听不下去。<sup>\[兴化\]</sup>｜“……他还嘴里劈里剥刺的，叫我一顿～骂……”（《金瓶梅词话》七二）<sup>\[兴化\]</sup> ② ［同音］这里指骂人、嘲讽人<sup>\[东台\]</sup>：那家伙盛气凌人的，我把他～吖一通，他才不吱声吖。<sup>\[东台\]</sup> ③ 肆意谩骂，或连续斥责不容对方开口<sup>\[泰州\]</sup>：这小伙在旁边多嘴，捱老李～吖他一顿。<sup>\[泰州\]</sup>  
 1. 【[眷属](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiun_shoh.md#眷属)】`jiun5 shoh8` <sup>[如东]</sup> 家属；亲戚。  
 1. 【[绢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiun_r.md#绢<sub>儿</sub>)】`jiun5 r` <sup>[如皋]</sup> 手帕。  
 1. 【[□子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_zz.md#□子)】`jy1 zz` <sup>[泰县]</sup> 小猪。  

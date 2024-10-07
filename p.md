@@ -347,7 +347,7 @@
 1. 【[疲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#疲)】`pi2` <sup>[如皋]</sup> 秤的称量不足，秤尾低于秤头。见“袒”。  
 1. 【[疲疲沓沓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_pi_taeh_taeh.md#疲疲沓沓)】`pi2 pi2 taeh7 taeh7` <sup>[东台]</sup> 思想上不重视，作风上松懈拖拉，效率低下：这个工程要抓紧，不能～。  
 1. 【[疲塌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_taeh.md#疲塌)】`pi2 taeh` <sup>[如东]</sup> 松懈拖沓：他做事太～咖。  
-1. 【[皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#皮)】`pi2` <small>/pʰʝ2/<sup>如皋</sup></small> ① 一刻闲不住，调皮 ② 人的尊严、禀性。<sup>\[如皋\]</sup> ③ 调皮、顽皮。<sup>\[如皋\]</sup> ④ 调皮<sup>\[泰州\]</sup>：～啊没得命。<sup>\[泰州\]</sup>  
+1. 【[皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#皮)】`pi2` <small>/pʰʝ2/<sup>如皋</sup></small> ① 一刻闲不住，调皮 ② 人的尊严、禀性。<sup>\[如皋\]</sup> ③ 调皮、顽皮。<sup>\[如皋\]</sup><sup>\[泰州\]</sup>：～啊没得命。<sup>\[泰州\]</sup>  
 1. 【[皮啊荡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_a_tan.md#皮啊荡)】`pi2 a tan6` <sup>[东台]</sup> 不落实，一推再推。  
 1. 【[皮包骨头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_bo_gueh_teu.md#皮包骨头)】`pi2 bo1 gueh7 teu` <sup>[东台]</sup> 形容人非常瘦。  
 1. 【[皮包骨头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_bo_gueh_teu.md#皮包骨头)】`pi2 bo1 gueh7 teu2` <sup>[如东]</sup> 形容身体非常瘦弱：张老太身体不好，已经～啊。  
@@ -454,7 +454,7 @@
 1. 【[配箱工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_xian_gon.md#配箱工)】`pi5 xian1 gon1` <sup>[如东]</sup> 工种的一种。以组装产品包装箱为职业的工人。  
 1. 【[焙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#焙)】`pi6` <small>/pʰʝ1/<sup>如皋</sup></small> ① 置乾器中加热并炒。<sup>\[如皋\]</sup> ② 用微火烘<sup>\[东台\]</sup>：请你帮吖～下子焦糏。<sup>\[东台\]</sup>  
 1. 【[痱子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_zz.md#痱子)】`pi6 zz` <sup>[东台]</sup> 夏季常见的皮肤病：三伏天热出一身～，抓得破皮烂肉的。  
-1. 【[篦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#篦)】`pi6` <small>/pʰʝ1/<sup>如皋</sup></small> ① 名、动词<sup>\[如皋\]</sup>：用篦子篦头发。<sup>\[如皋\]</sup> ② 用篦子梳。<sup>\[泰州\]</sup>  
+1. 【[篦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#篦)】`pi6` <small>/pʰʝ1/<sup>如皋</sup></small> 用篦子梳。<sup>\[如皋\]</sup><sup>\[泰州\]</sup>：用篦子～头发。<sup>\[如皋\]</sup>  
 1. 【[篦夹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_gaeh.md#篦夹)】`pi6 gaeh7` <small>/pʰʝ1 keʔ7/<sup>如皋</sup></small> ① 见“篦䇫”。<sup>\[如皋\]</sup> ② 即“篦子”，竹制的梳头用具，中间有梁，两侧有密齿。<sup>\[东台\]</sup>  
 1. 【[篦夹齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_gaeh_chr.md#篦夹齿)】`pi6 gaeh7 chr3` <sup>[如皋]</sup> 雏鸟刚长出大羽毛根部的样子，亦指这时的雏鸟。  
 1. 【[篦䇫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_ji.md#篦䇫)】`pi6 ji1` <sup>[如皋]</sup> 篦子和梳子。如膏城北大街南端旧称篦䇫巷，这里生产的作坊和店家多。  
