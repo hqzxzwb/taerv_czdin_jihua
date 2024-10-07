@@ -34,7 +34,7 @@
 1. 【[仪图](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_tv.md#仪图)】`i2 tv2` <sup>[东台]</sup> 参见“仪注”。  
 1. 【[仪注](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_zhv.md#仪注)】`i2 zhv5` <small>/i2 t͡su5/<sup>兴化</sup></small> ① 婚丧喜庆中的仪式及程序（也作“仪图”）<sup>\[东台\]</sup>：吊唁逝者，先要按当地风俗把～行掉。<sup>\[东台\]</sup> ② 为婚丧寿庆举行典礼的形式、程序等。<sup>\[兴化\]</sup> ③ 在宗教及迷信活动中的礼仪<sup>\[兴化\]</sup>：行～。<sup>\[兴化\]</sup>  
 1. 【[姨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#姨)】`i2` <sup>[如皋]</sup> ① 称母亲的姐妹或比母亲小的女性：大姨、小姨。 ② 姐妹出嫁后与对方家庭成员间的关系称。  
-1. 【[姨𬥐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_bae.md#姨𬥐)】`i2 bae3` 姨父，母亲的姐姐的丈夫。<sup>\[泰州\]</sup>  
+1. 【[姨𬥐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_bae.md#姨𬥐)】`i2 bae1-3` 姨父，母亲的姐姐的丈夫。<sup>\[泰州\]</sup>  
 1. 【[姨表](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_bio.md#姨表)】`i2 bio3` 姨母的子女与本人的亲戚关系。<sup>\[泰州\]</sup>  
 1. 【[姨表兄弟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_bio_xion_ti.md#姨表兄弟)】`i2 bio3 xion1 ti6` <sup>[兴化]</sup> 二人的母亲是姐妹的亲戚关系（区别于姑表兄弟）：他妈妈是我的姨娘，我俫是～。  
 1. 【[姨丈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_chan.md#姨丈)】`i2 chan` 姨父，母亲的妹妹的丈夫。<sup>\[泰州\]</sup>  
@@ -1287,7 +1287,6 @@
 1. 【[银鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_y.md#银鱼)】`ien2 y2` <sup>[如东]</sup> 银鱼科动物银鱼，体长约12厘米，细长，近圆筒形，后段略侧扁。眼大。口大，吻长而尖，呈三角形。背鳍和尾鳍中央有一透明小脂鳍。体柔软无鳞，全身透明，死后呈乳白色。体侧各有一排黑点。生活在近海，具有海洋至江河洄游习性。  
 1. 【[银针](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_zhen.md#银针)】`ien2 zhen1` <sup>[如东]</sup> 医生针灸使用的针。  
 1. 【[银子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_zz.md#银子)】`ien2 zz` <sup>[兴化]</sup> 钱的隐语：建这个大楼要多少～噁？  
-1. 【[饮汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_tan.md#饮汤)】`ien2 tan1` 煮饭煮粥时产生的米汤，坊间以为饮汤极富营养。<sup>\[泰州\]</sup>  
 1. 【[引](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien.md#引)】`ien3` <small>/in3/<sup>兴化</sup></small> ① 元、明、清代食盐计量单位。不同历史时代和地区各有不同。元代规定每引400市斤；明代有大引和小引之分，大引400市斤，小引200市斤；清代大引200市斤。如东每引以两桶计算，合400市斤。<sup>\[如东\]</sup> ② 诱惑，多指教人做不好的事<sup>\[兴化\]</sup>：他伢儿才上五年级，捱人～吖上网吧，学习成绩连连下降。<sup>\[兴化\]</sup>  
 1. 【[引河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_hu.md#引河)】`ien3 hu2` <sup>[东台]</sup> 为灌溉或泄洪而开挖的河道。  
 1. 【[引火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_hu.md#引火)】`ien3 hu3` <sup>[如皋]</sup> 引燃：着煤球儿炉子要用木柴头儿～。  
@@ -1321,7 +1320,7 @@
 1. 【[饮料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_lio.md#饮料)】`ien3 lio6` <sup>[如东]</sup> 经过加工而供饮用的液体，如酒、茶、汽水、橘子水等。  
 1. 【[饮食店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_sheh_din.md#饮食店)】`ien3 sheh din5` <sup>[如皋]</sup> 制作并出售酒、饭、菜肴、面点的店家。  
 1. 【[饮食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_sheh.md#饮食)】`ien3 sheh8` <sup>[如东]</sup> 食物：～哿好？  
-1. 【[饮汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_tan.md#饮汤)】`ien3 tan1` <small>/in3 tʰaŋ1/<sup>兴化</sup>, /iəŋ3 tʰã1/<sup>如皋</sup></small> ① 粥汤 ② 粥汁。<sup>\[如皋\]</sup> ③ 用大米或其他粮食熬的流汁。<sup>\[如东\]</sup> ④ 米汤。<sup>\[兴化\]</sup>  
+1. 【[饮汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_tan.md#饮汤)】`ien3 tan1` <small>/in3 tʰaŋ1/<sup>兴化</sup>, /iəŋ3 tʰã1/<sup>如皋</sup></small> ① 粥汤 ② 粥汁。<sup>\[如皋\]</sup> ③ 用大米或其他粮食熬的流汁。<sup>\[如东\]</sup> ④ 米汤。<sup>\[兴化\]</sup> ⑤ 煮饭煮粥时产生的米汤，坊间以为饮汤极富营养。<sup>\[泰州\]</sup>  
 1. 【[饮汤粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_tan_zhoh.md#饮汤粥)】`ien3 tan1 zhoh7` <sup>[东台]</sup> 与“米饮汤”近义。东台词典此处用“影”字，出自扬州评话中“施恩派衙役送影汤粥饲喂武松”，大概是因粥太稀薄，可照见人影。  
 1. 【[印](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien.md#印)】`ien5` <small>/iəŋ5/<sup>如皋</sup></small> ① 印痕、痕迹：咬啊个牙子～。创口缝合后有百脚～、脚～、手～、折～。<sup>\[如皋\]</sup> ② 印刷：～书、油～。<sup>\[如皋\]</sup> ③ ［引］透，穿透<sup>\[东台\]</sup>：群众骂恬不知耻的人是“脸厚，三薄刀斫不～”。<sup>\[东台\]</sup>  
 1. 【[印版](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_baen.md#印版)】`ien5 baen3` <sup>[兴化]</sup> 印刷用的木板：他俫两个人一个腔调，赛如一副～印出来的。  

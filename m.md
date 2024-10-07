@@ -885,8 +885,7 @@
 1. 【[闷雷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_luei.md#闷雷)】`men6 luei2` <sup>[如东]</sup> 声音低沉的雷。比喻暗地里遭受到打击：他吃咖个～。  
 1. 【[闷雷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_ly.md#闷雷)】`men6 ly2` <sup>[如皋]</sup> 远而沉闷的雷声。  
 1. 【[闷屁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_pi.md#闷屁)】`men6 pi5` <sup>[如东]</sup> 自己遭受了窝囊气而又不好对外说。  
-1. 【[闷气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_qi.md#闷气)】`men6 qi5` <sup>[兴化]</sup> 密闭、不透气：坐啊小轿车里头反而～。  
-1. 【[闷气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_qi.md#闷气)】`men6 qi6` <sup>[泰州]</sup> ① 聚集在心中没有向外发泄的愤怒：他在单位上受啊一肚子的～上吖南京。 ② 空气流通不畅或者气压过低而引起的不适感觉：家里多～啊，你快点儿把窗子打开来透气。  
+1. 【[闷气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_qi.md#闷气)】`men6 qi5` <small>/mən6 t͡ɕʰi5/<sup>兴化</sup></small> ① 密闭、不透气<sup>\[兴化\]</sup>：坐啊小轿车里头反而～。<sup>\[兴化\]</sup> ② 聚集在心中没有向外发泄的愤怒<sup>\[泰州\]</sup>：他在单位上受啊一肚子的～上吖南京。<sup>\[泰州\]</sup> ③ 空气流通不畅或者气压过低而引起的不适感觉<sup>\[泰州\]</sup>：家里多～啊，你快点儿把窗子打开来透气。<sup>\[泰州\]</sup>  
 1. 【[闷人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_ren.md#闷人)】`men6 ren` <sup>[如东]</sup> 天气热，气压低，呼吸不顺畅，感觉不舒畅。  
 1. 【[闷热](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_rih.md#闷热)】`men6 rih8` <sup>[如东]</sup> 天气很热，气压低，湿度大，使人感到呼吸不畅快。  
 1. 【[闷声大发财](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_shen_da_faeh_cae.md#闷声大发财)】`men6 shen1 da6 faeh7 cae2` <small>/mən6 sən1 ta6 fæʔ7 t͡sʰɛ2/<sup>兴化</sup>, /məŋ1 səŋ1 ta1 feʔ7 t͡sʰɛ2/<sup>如皋</sup></small> ① 成绩很大，但不张扬。<sup>\[东台\]</sup> ② 指忍让不争，和为贵。<sup>\[如皋\]</sup> ③ 处世低调，不张扬。<sup>\[如皋\]</sup> ④ 旧俗除夕守岁，举家咸集，多说吉利话。也有不言不语者，谓之～。（《市志·民俗》）<sup>\[兴化\]</sup> ⑤ （借）遇事不张扬<sup>\[兴化\]</sup>：他这次七十大寿概不惊动，来个～。<sup>\[兴化\]</sup>  
@@ -1236,11 +1235,11 @@
 1. 【[苗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio.md#苗)】`mio2` <sup>[东台]</sup> 形容词，指饼或馒头酵的水分偏多，与“壮酵馒头”相对。  
 1. 【[苗情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio_qien.md#苗情)】`mio2 qien2` <sup>[兴化]</sup> 指秧苗的肥瘠和长势：看～补施肥料。  
 1. 【[苗头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio_teu.md#苗头)】`mio2 teu` <sup>[如东]</sup> 略微显露情况发展的趋势。  
+1. 【[苗条/媌䠷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio_tio.md#苗条/媌䠷)】`mio2 tio2` <sup>[泰州]</sup> 女性身材细长，婀娜多姿。  
 1. 【[苗鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio_y.md#苗鱼)】`mio2 y2` <sup>[如东]</sup> 乌贼科动物乌贼鱼，又名墨鱼、苗鱼龟儿。  
 1. 【[苗猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio_zhv.md#苗猪)】`mio2 zhv1` <sup>[如东]</sup> 小仔猪。  
 1. 【[苗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio_zz.md#苗子)】`mio2 zz` <small>/miɔ2 t͡sɿ/<sup>兴化</sup>, /miɔ2 t͡sɿ/<sup>如皋</sup></small> ① 指高粱、芦穄结穗的秆子。<sup>\[如东\]</sup>：芦穄～。<sup>\[如东\]</sup> ② 培养的对象。<sup>\[如东\]</sup> ③ 专指高粱、芦穄的最上段，脱粒后用作扎条帚、把儿及劈篾做工艺品。<sup>\[如皋\]</sup> ④ （喻）继承某种事业的年轻人<sup>\[兴化\]</sup>：他是个好～。<sup>\[兴化\]</sup> ⑤ 扎扫帚用的高梁秆<sup>\[兴化\]</sup>：芦秫～。<sup>\[兴化\]</sup>  
 1. 【[秒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio.md#秒)】`mio3` <sup>[如东]</sup> 计算时间的单位，等于一分种的六十分之一。  
-1. 【[苗条/媌䠷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio_tio.md#苗条/媌䠷)】`mio3 tio2` <sup>[泰州]</sup> 女性身材细长，婀娜多姿。  
 1. 【[妙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio.md#妙)】`mio6` <sup>[如东]</sup> ① 巧：这件事做得～。 ② 形容好。  
 1. 【[庙上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio_shan.md#庙上)】`mio6 shan6` <sup>[如皋]</sup> 庙里，庙里的人或物。  
 1. 【[庙田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio_tin.md#庙田)】`mio6 tin2` <sup>[如东]</sup> 属寺庙所有的土地，称庙田。  

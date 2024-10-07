@@ -285,8 +285,8 @@
 1. 【[备](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pei.md#备)】`pei6` <sup>[东台]</sup> ① 齐全，完备。 ② 事先安排或筹划：准～。 ③ 为应付突发事故或灾害而做准备：防～｜戒～｜～荒。  
 1. 【[备而不用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pei_er_beh_ion.md#备而不用)】`pei6 er beh7 ion6` <sup>[兴化]</sup> 虽然准备，但希望用不着：在旧时的消防水龙上，往往写有～字样。  
 1. 【[备细](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pei_xi.md#备细)】`pei6 xi5` <sup>[兴化]</sup> 详细情形：他从外地洽谈生意回来，经理忙问～。  
+1. 【[喷狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pen_geu.md#喷狗)】`pen1 geu3` 指人说话声嘶力竭，詈词<sup>\[泰州\]</sup>：这小伙是个～，召起来不得命。<sup>\[泰州\]</sup>  
 1. 【[喷灌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pen_gun.md#喷灌)】`pen1 gun5` <sup>[东台]</sup> 利用机械设备将水喷射到田间作物上的一种灌溉方法。  
-1. 【[喷狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pen_keu.md#喷狗)】`pen1 keu3` 指人说话声嘶力竭，詈词<sup>\[泰州\]</sup>：这小伙是个～，召起来不得命。<sup>\[泰州\]</sup>  
 1. 【[喷隆大开花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pen_lon_da_kae_hua.md#喷隆大开花)】`pen1 lon2 da6 kae1 hua1` <sup>[兴化]</sup> 物体因故破裂：箍一断，澡桶～。｜棉花胎捱他蹬得～。  
 1. 【[喷天刮地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pen_tin_guaeh_ti.md#喷天刮地)】`pen1 tin1 guaeh7 ti6` <sup>[如东]</sup> ① 物品到处都有：稻谷～的，也不扫下子。 ② 说话时的凶丑相：他～的说起来。  
 1. 【[盆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pen.md#盆)】`pen2` <sup>[如东]</sup> 器皿。圆形，口大，有底。有各种规格。可以盛物，也可洗脸。  
@@ -859,7 +859,6 @@
 1. 【[拍双转弯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_shuan_zhun_vaen.md#拍双转弯)】`poh7 shuan1 zhun3 vaen1` <sup>[兴化]</sup> 双倍过头：这东西进四个钱，卖十个钱，～。  
 1. 【[拍小照](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_xio_zho.md#拍小照)】`poh7 xio3 zho5` <sup>[东台]</sup> 照相，多指人的肖像。  
 1. 【[拍桌子打板凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_zhuah_zz_da.md#拍桌子打板凳)】`poh7 zhuah7 zz da3 baen3 den5` <small>/pʰɔʔ7 t͡suaʔ7 t͡sɿ ta3 pɛ̃3 tən5/<sup>兴化</sup>, /pʰɔʔ7 t͡suaʔ7 t͡sɿ ta3 pẽ3 təŋ5/<sup>如皋</sup></small> ① 情绪冲动时的情态<sup>\[兴化\]</sup>：（符老爷）说到那里，～的大骂……（《二十年目睹之怪现状》七四）<sup>\[兴化\]</sup>｜邓九公听了，乐得～的，连说“有理！”（《儿女英雄传》二十）<sup>\[兴化\]</sup> ② 盛怒时举止粗野的样子。<sup>\[如皋\]</sup>  
-1. 【[白饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_faen.md#白饭)】`poh7 faen6` 米中没有掺入山芋、胡萝卜或青菜而煮成的饭，相对“糂饭”<sup>\[泰州\]</sup>：以前只有家里来人才能吃到～。<sup>\[泰州\]</sup>  
 1. 【[□□跳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_poh_tio.md#□□跳)】`poh8 poh8 tio5` <sup>[如东]</sup> 活蹦乱跳：河鱼刚打上来，～。  
 1. 【[白巴咧齿的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_ba_lae_chr_dii.md#白巴咧齿的)】`poh8 ba lae3 chr3 dii` <sup>[如皋]</sup> ① 贬指。一种难看的白色。 ② 褪色后显出的暗白色。  
 1. 【[白巴剌呲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_ba_laeh_cz.md#白巴剌呲)】`poh8 ba laeh8 cz1` <sup>[兴化]</sup> 形容白得难看：这块肉～的，怕的是瘟猪肉。｜这件灰衬衫被吹得～的。｜鱼煮得～的，真倒胃口。  
@@ -886,6 +885,7 @@
 1. 【[白沰沰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_dah_dah.md#白沰沰)】`poh8 dah7 dah7` <small>/pʰɔʔ8 tɑʔ7 tɑʔ7/<sup>泰县</sup></small> ① 形容人的皮肤或物体颜色很白嫩<sup>\[东台\]</sup>：姑娘～的<sup>\[东台\]</sup>｜～的面粉。<sup>\[东台\]</sup> ② 白晃晃，白花花。<sup>\[泰县\]</sup>  
 1. 【[白沰沰的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_dah_dah_dii.md#白沰沰的)】`poh8 dah7 dah7 dii` <sup>[如皋]</sup> ① 无价值地：～送吖命。 ② 状白皙、洁白：她的手～、墙上刷得～。  
 1. 【[白底子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_di_zz.md#白底子)】`poh8 di3 zz` <sup>[如皋]</sup> 家底穷。  
+1. 【[白饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_faen.md#白饭)】`poh8 faen6` 米中没有掺入山芋、胡萝卜或青菜而煮成的饭，相对“糂饭”<sup>\[泰州\]</sup>：以前只有家里来人才能吃到～。<sup>\[泰州\]</sup>  
 1. 【[白粉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_fen_zz.md#白粉子)】`poh8 fen3 zz` <sup>[兴化]</sup> 毒品海洛因的俗称。也称“白面子”。  
 1. 【[白咖渣啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_ga_zha_a.md#白咖渣啊)】`poh8 ga zha1 a` <sup>[如皋]</sup> 状脸色像豆腐渣，毫无血色。  
 1. 【[白工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_gon.md#白工)】`poh8 gon1` <small>/pʰɔʔ8 koŋ1/<sup>兴化</sup></small> ① 没有报酬的工作或劳动。<sup>\[如东\]</sup>：他做啊一天的～。<sup>\[如东\]</sup> ② 无用功<sup>\[兴化\]</sup>：忙吖一天不见效果，～。<sup>\[兴化\]</sup> ③ 无报酬的劳动<sup>\[兴化\]</sup>：今朝帮他家做啊一天～，连香烟也不曾抽他一根。<sup>\[兴化\]</sup>  

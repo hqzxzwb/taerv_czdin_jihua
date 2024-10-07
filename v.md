@@ -266,7 +266,7 @@
 1. 【[舞水碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_shuei_un.md#舞水碗)】`v3 shuei3 un3` <sup>[如皋]</sup> 杂技节目，水流星。  
 1. 【[舞钻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_zun.md#舞钻)】`v3 zun5` <sup>[如皋]</sup> ① 秤店用钻，钻身顶有重砣以产生惯性，拉手板中心有孔，套在钻杆上，将拉手上下滑动，牵绳开钻，用以钻微孔钉秤星。 ② 木工手拉钻之一，二人操作，一人扶钻身，一人双手拉绳牵转之，用以钻大孔、深孔。  
 1. 【[坞冲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_chon.md#坞冲)】`v5 chon1` <sup>[泰县]</sup> 冬季用草放在河港里引诱鱼。  
-1. 【[恶寒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_hun.md#恶寒)】`v5 hun2` <sup>[兴化]</sup> 因发高烧而畏寒：（客氏）心中郁闷，酿成一病。～发热，头痛昏沉，终日不思茶饭。（《梼杌闲评》二二）  
+1. 【[恶寒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_hun.md#恶寒)】`v5 hun2` <small>/u5 xũ2/<sup>兴化</sup></small> ① 因发高烧而畏寒<sup>\[兴化\]</sup>：（客氏）心中郁闷，酿成一病。～发热，头痛昏沉，终日不思茶饭。（《梼杌闲评》二二）<sup>\[兴化\]</sup> ② 厌恶寒冷，怕冷<sup>\[泰州\]</sup>：她这一刻儿～，你去冲个汤焐子把她。<sup>\[泰州\]</sup>  
 1. 【[恶数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_shv.md#恶数)】`v5 shv5` 讨厌的，让人不舒服的  
 1. 【[恶嫌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_xin.md#恶嫌)】`v5 xin2` <small>/u5 ɕiɪ̃2/<sup>兴化</sup>, /ʋu5 ɕĩ2/<sup>如皋</sup>, /u5 ɕiɪ̃2/<sup>泰县</sup></small> ① 嫌恶、厌恶。<sup>\[如皋\]</sup> ② 讨厌，嫌弃。<sup>\[如东\]</sup>：不要～她。<sup>\[如东\]</sup> ③ 令人讨厌。<sup>\[东台\]</sup> ④ 忌讳<sup>\[东台\]</sup>：办喜事时说个“死”字，令人～。<sup>\[东台\]</sup> ⑤ 令人生厌<sup>\[兴化\]</sup>：（一娘）思量要回客家去，又怕人情世态，当日苦留不住，今日穷了又来，恐人一。（《梼杌闲评》七）<sup>\[兴化\]</sup> ⑥ 嫌弃<sup>\[泰县\]</sup>：你在这许我俫不～。<sup>\[泰县\]</sup> ⑦ 厌恶<sup>\[泰州\]</sup>：你不要～人吧，人不～你就好事唻。<sup>\[泰州\]</sup>  
 1. 【[焐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v.md#焐)】`v5` ① 保温。<sup>\[如东\]</sup>：把菜～啊锅里。<sup>\[如东\]</sup> ② 用热的东西接触凉的或湿的东西，使它变暖或变干<sup>\[泰州\]</sup>：～手<sup>\[泰州\]</sup>｜脚<sup>\[泰州\]</sup>｜衣裳～啊干吖唻。<sup>\[泰州\]</sup>  

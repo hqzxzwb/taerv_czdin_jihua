@@ -1236,10 +1236,7 @@
 1. 【[现相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_xian.md#现相)】`xin6 xian5` <sup>[兴化]</sup> （借）露出本来面目：你弄的假账，审计部门一查就要～。｜人家要说，广东人何能不会说广东话？岂不就要～。（《皮五辣子》四）  
 1. 【[现形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_xien.md#现形)】`xin6 xien2` <small>/ɕĩ1 ɕiəŋ2/<sup>如皋</sup></small> ① 卖弄、出风头：你有啊新耍货儿就在家里耍耍吧，又要去～，捱人家弄吖坏啊又要淘气！<sup>\[如皋\]</sup> ② 显露原形。<sup>\[东台\]</sup>  
 1. 【[现折子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_zhih_zz.md#现折子)】`xin6 zhih7 zz` <sup>[如皋]</sup> 初见时给的见面礼金。  
-1. 【[小开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_kae.md#小开)】`xio1 kae1` 泛指富贵人家之子，多只知风流享乐，不成大事。<sup>\[泰州\]</sup>  
-1. 【[小锹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qio.md#小锹)】`xio1 qio1` 相对“大锹”，单手使用的锹，锹头类似炒菜的铲，柄长也类似铲柄，柄端安一个约45度可以一手握的把，主要用于铲草、挖小坑等。<sup>\[泰州\]</sup>  
 1. 【[枵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio.md#枵)】`xio1` <sup>[东台]</sup> 空虚：～腹｜～肠。  
-1. 【[浇薄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_pah.md#浇薄)】`xio1 pah8` 为人处事冷漠而不纯朴，刻薄而不敦厚，寡恩而无情义<sup>\[泰州\]</sup>：人家在他家公司里做啊几十年，现在人走啊，花圈都不曾送一个，这个老板也太～咖唻。<sup>\[泰州\]</sup>  
 1. 【[消愁解闷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cheu_gae_men.md#消愁解闷)】`xio1 cheu2 gae3 men6` <sup>[兴化]</sup> 通过游玩或做一些事情来消解忧愁和烦恼：他刚退休，非常无聊，每天看看报纸，下下棋～。  
 1. 【[消防车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_fan_cha.md#消防车)】`xio1 fan2 cha1` <sup>[如东]</sup> 一种灭火车。车身上装着巨大的水箱和水带、水笼头等设施，用于灭火。  
 1. 【[消供](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_gon.md#消供)】`xio1 gon5` <sup>[如皋]</sup> 了结：前头惹的祸还不曾～，后头告状的人又上吖门。  
@@ -1276,7 +1273,7 @@
 1. 【[𣻏膜膜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_mah_mah_r.md#𣻏膜膜<sub>儿</sub>)】`xio1 mah8 mah8 r` <small>/ɕiɔ1 maʔ8 ma˞8/<sup>如皋</sup></small> ① 薄。<sup>\[如皋\]</sup> ② 非常薄。<sup>\[如东\]</sup>：这种纸～。<sup>\[如东\]</sup>  
 1. 【[𣻏膜膜子<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_mah_mah_zz_r.md#𣻏膜膜子<sub>儿</sub>)】`xio1 mah8 mah8 zz3 r` <sup>[兴化]</sup> 很薄的东西：河里结咖～冻。  
 1. 【[𣻏拔拔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_paeh_paeh.md#𣻏拔拔)】`xio1 paeh8 paeh8` <sup>[泰县]</sup> 很薄：铁片～的。  
-1. 【[𣻏薄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_pah.md#𣻏薄)】`xio1 pah8` <small>/ɕiɔ1 pʰaʔ8/<sup>兴化</sup>, /ɕiɔ1 pʰaʔ8/<sup>如皋</sup></small> ① 人情淡薄。<sup>\[如皋\]</sup> ② ［引］小气、刻薄，不厚道。<sup>\[东台\]</sup> ③ 形容人势利，只看眼前枯荣，不念亲情、友情<sup>\[兴化\]</sup>：近来人心～，往往人走茶凉，不讲情分。<sup>\[兴化\]</sup>  
+1. 【[𣻏薄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_pah.md#𣻏薄)】`xio1 pah8` <small>/ɕiɔ1 pʰaʔ8/<sup>兴化</sup>, /ɕiɔ1 pʰaʔ8/<sup>如皋</sup></small> ① 人情淡薄。<sup>\[如皋\]</sup> ② ［引］小气、刻薄，不厚道。<sup>\[东台\]</sup> ③ 形容人势利，只看眼前枯荣，不念亲情、友情<sup>\[兴化\]</sup>：近来人心～，往往人走茶凉，不讲情分。<sup>\[兴化\]</sup> ④ 为人处事冷漠而不纯朴，刻薄而不敦厚，寡恩而无情义<sup>\[泰州\]</sup>：人家在他家公司里做啊几十年，现在人走啊，花圈都不曾送一个，这个老板也太～咖唻。<sup>\[泰州\]</sup>  
 1. 【[𣻏薄薄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_pah_pah.md#𣻏薄薄)】`xio1 pah8 pah8` <sup>[泰县]</sup> 薄薄的。  
 1. 【[𣻏皮寡肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_pi_gua_roh.md#𣻏皮寡肉)】`xio1 pi2 gua3 roh8` <sup>[东台]</sup> ① 形容人体格瘦削。 ② ［喻］人刻薄、不厚道。  
 1. 【[𣻏皮寡肉的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_pi_gua_roh_dii.md#𣻏皮寡肉的)】`xio1 pi2 gua3 roh8 dii` <sup>[如皋]</sup> ① 状面部皮薄肉少的样子。 ② 状待人接物吝啬、刻薄。  
@@ -1336,8 +1333,7 @@
 1. 【[小车子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cha_zz.md#小车子)】`xio3 cha1 zz` <small>/ɕiɔ3 t͡sʰa1 t͡sɿ/<sup>兴化</sup>, /ɕiɔ3 t͡sʰa1 t͡se/<sup>泰县</sup></small> ① 旧指独轮车，今指小轿车。<sup>\[兴化\]</sup> ② 独轮车。<sup>\[泰县\]</sup>  
 1. 【[小插花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_chaeh_hua.md#小插花)】`xio3 chaeh7 hua1` <small>/ɕiɔ3 t͡sʰeʔ7 xua1/<sup>如皋</sup></small> ① 杆秤星的小花，表示衡量在大插花和秤星之间。<sup>\[如皋\]</sup> ② 秤杆上的小花，在大插花与秤星之间。<sup>\[如东\]</sup>  
 1. 【[小插子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_chaeh_zz.md#小插子)】`xio3 chaeh7 zz` <sup>[如皋]</sup> 匕首。  
-1. 【[小产](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_chaen.md#小产)】`xio3 chaen2` 流产，在妊娠最初12周内胎儿的非正常娩出。现在多说“早产”。<sup>\[泰州\]</sup>  
-1. 【[小产](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_chaen.md#小产)】`xio3 chaen3` <sup>[如东]</sup> 自然流产。  
+1. 【[小产](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_chaen.md#小产)】`xio3 chaen3` ① 自然流产。<sup>\[如东\]</sup> ② 流产，在妊娠最初12周内胎儿的非正常娩出。现在多说“早产”。<sup>\[泰州\]</sup>  
 1. 【[小肠膜子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_chan_mah_zz.md#小肠膜子)】`xio3 chan2 mah8 zz` <sup>[如皋]</sup> 猪小肠刮去肉质后剩下的膜子。灌香肠用。  
 1. 【[小肠皮<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_chan_pi_r.md#小肠皮<sub>儿</sub>)】`xio3 chan2 pi2 r` <sup>[如皋]</sup> 制肠衣刮下的猪小肠肉质部分。可做“扎肠”煮成“红肠”。  
 1. 【[小肠器](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_chan_qi.md#小肠器)】`xio3 chan2 qi5` <sup>[如东]</sup> 疝气。  
@@ -1464,7 +1460,7 @@
 1. 【[小肩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_jin.md#小肩)】`xio3 jin1` 肩挑竖长之物通过门框或悬空横拉绳子时，腿部稍弯曲以缩短竖长之物距离地面的高度<sup>\[泰州\]</sup>：前头～挡住啊，你不～过不去。<sup>\[泰州\]</sup>  
 1. 【[小肩转弯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_jin_zhun_vaen.md#小肩转弯)】`xio3 jin1 zhun3 vaen1` <sup>[泰县]</sup> 抬棺材的人向左转弯。  
 1. 【[小交易](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_jio_i.md#小交易)】`xio3 jio1 i` <sup>[如皋]</sup> 小生意。  
-1. 【[小开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_kae.md#小开)】`xio3 kae1` <small>/ɕiɔ3 kʰɛ1/<sup>兴化</sup>, /ɕiɔ3 kʰɛ1/<sup>如皋</sup></small> ① 尊称老板的儿子。指称。<sup>\[如皋\]</sup> ② 旧称老板的儿子<sup>\[兴化\]</sup>：他有个朋友是南货店里～。<sup>\[兴化\]</sup>  
+1. 【[小开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_kae.md#小开)】`xio3 kae1` <small>/ɕiɔ3 kʰɛ1/<sup>兴化</sup>, /ɕiɔ3 kʰɛ1/<sup>如皋</sup></small> ① 尊称老板的儿子。指称。<sup>\[如皋\]</sup> ② 旧称老板的儿子<sup>\[兴化\]</sup>：他有个朋友是南货店里～。<sup>\[兴化\]</sup> ③ 泛指富贵人家之子，多只知风流享乐，不成大事。<sup>\[泰州\]</sup>  
 1. 【[小掐尖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_kaeh_jin.md#小掐尖)】`xio3 kaeh7 jin1` <sup>[泰兴]</sup> 谓尖酸、吝惜，爱占小便宜的人。  
 1. 【[小块](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_kuae.md#小块)】`xio3 kuae5` <sup>[泰县]</sup> 小气。  
 1. 【[小看](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_kun.md#小看)】`xio3 kun5` <sup>[如皋]</sup> 轻视、忽视：你不要～他，他的学问不比你少。  
@@ -1555,6 +1551,7 @@
 1. 【[小钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qin.md#小钱)】`xio3 qin2` <small>/ɕiɔ3 t͡ɕʰiɪ̃2/<sup>兴化</sup>, /ɕiɔ3 t͡ɕʰĩ2/<sup>泰兴</sup></small> ① 小面额的钱钞。<sup>\[兴化\]</sup> ② 指少量的钱<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：说大话，用～。<sup>\[兴化\]</sup>｜说大话，用～。<sup>\[泰兴\]</sup> ③ 旧时通用的小型铜质硬币，圆形，中有方孔<sup>\[泰兴\]</sup> ④ 数目不大的钱<sup>\[泰州\]</sup>：这回开销不大，只用吖两个～。<sup>\[泰州\]</sup>  
 1. 【[小钱眼大，穷人胆大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qin_ngaen_da.md#小钱眼大，穷人胆大)】`xio3 qin2 ngaen3 da6 qion2 ren2 daen3 da6` <sup>[泰兴]</sup> 谓穷人为了生存，什么事都做得出来。多含贬义。  
 1. 【[小钱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qin_r.md#小钱<sub>儿</sub>)】`xio3 qin2 r` <small>/ɕiɔ3 t͡ɕʰiɪ̃2 ɚ/<sup>泰县</sup></small> ① 清朝的铜币。<sup>\[如东\]</sup> ② 少量钱<sup>\[泰县\]</sup><sup>\[如东\]</sup>：他说大话用～。<sup>\[泰县\]</sup>｜几个～。<sup>\[如东\]</sup>  
+1. 【[小锹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qio.md#小锹)】`xio3 qio1` 相对“大锹”，单手使用的锹，锹头类似炒菜的铲，柄长也类似铲柄，柄端安一个约45度可以一手握的把，主要用于铲草、挖小坑等。<sup>\[泰州\]</sup>  
 1. 【[小乔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qio.md#小乔)】`xio3 qio2` <sup>[兴化]</sup> 谓有身份的人待人谦和、不摆架子：她家老公当个副市长，对家边邻居的倒蛮～的。  
 1. 【[小瞧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qio.md#小瞧)】`xio3 qio2` <small>/ɕiɔ3 t͡ɕʰiɔ2/<sup>兴化</sup>, /ɕiɔ3 t͡ɕʰiɔ2/<sup>如皋</sup></small> ① 小看。<sup>\[如皋\]</sup> ② 小看<sup>\[兴化\]</sup>：你覅～人，他说不定有真本事。<sup>\[兴化\]</sup>  
 1. 【[小曲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qioh.md#小曲)】`xio3 qioh7` <sup>[兴化]</sup> ① 民歌、小唱。 ② 相对于京戏（大曲）的地方戏唱段。  

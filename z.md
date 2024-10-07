@@ -1612,7 +1612,6 @@
 1. 【[朱雨秋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_y_qieu.md#朱雨秋)】`zhv1 y3 qieu1` <sup>[东台]</sup> （1834-1918）东台城人，同治六年武举，擅画青绿山水，驰名大江南北。  
 1. 【[株](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv.md#株)】`zhv1` <sup>[如皋]</sup> ① 肿：捱撞的地方～啊个瘤。 ② 胀闷感：这口气～啊心里。  
 1. 【[株里块垃的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_lii_kuae_laeh_dii.md#株里块垃的)】`zhv1 lii kuae5 laeh dii` <sup>[如皋]</sup> 不规则的肿块。  
-1. 【[梳桌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_zhuah.md#梳桌)】`zhv1 zhuah7` 妇女化妆用的桌子，上面有梳子、镜子、粉盒、胭脂盒等化妆用品。<sup>\[泰州\]</sup>  
 1. 【[猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv.md#猪)】`zhv1` <sup>[如东]</sup> ① 猪科动物猪，躯体肥胖，头大，鼻长，眼小，耳壳大而下垂，四肢短小，颈粗，颈背生鬃毛。尾小。家庭饲养。 ② 比喻笨拙：你这个人～唻！  
 1. 【[猪八戒过河——不带嘴拱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_baeh_gae_gu_hu_beh_dae_jy_gon.md#猪八戒过河——不带嘴拱)】`zhv1 baeh7 gae5 gu5 hu2 beh7 dae5 jy3 gon3` <sup>[东台]</sup>   
 1. 【[猪八戒败阵——倒打一耙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_baeh_gae_pae_chen_do_da_ieh_pa.md#猪八戒败阵——倒打一耙)】`zhv1 baeh7 gae5 pae6 chen6 do5 da3 ieh7 pa2` <sup>[东台]</sup>   

@@ -2186,7 +2186,6 @@
 1. 【[呲𠺟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_kv.md#呲𠺟)】`cz1 kv` <sup>[如皋]</sup> 象声词。如笑声、连鞋涉水声。  
 1. 【[呲𠺟呲𠺟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_kv_cz_kv.md#呲𠺟呲𠺟)】`cz1 kv cz1 kv` <sup>[如皋]</sup> 见“呲𠺟”。  
 1. 【[呲里不剌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_lii_beh_laeh.md#呲里不剌)】`cz1 lii beh7 laeh8` <sup>[兴化]</sup> 形容烫人：烫得～的。“不剌”元曲中常见之，是一种衬字，多用在词后，有加强语气的作用。  
-1. 【[粢饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_faen.md#粢饭)】`cz1 faen6` <sup>[泰州]</sup> 用蒸熟的糯米做的饭团，常作早饭。  
 1. 【[雌黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_huan.md#雌黄)】`cz1 huan2` <sup>[东台]</sup> 原指矿物质，橙黄色，可做原料，古时用来涂改文字：信口～（指乱加评论。）  
 1. 【[雌冒雄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_mo_ion.md#雌冒雄)】`cz1 mo ion2` 形容人不男不女  
 1. 【[龇牙咧嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_nga_lae_zuei.md#龇牙咧嘴)】`cz1 nga2 lae3 zuei3` <sup>[如东]</sup> ① 凶狠的样子：你看她那个～样子。 ② 疼痛难忍的样子：王明肚子疼吖～的。  
@@ -2234,6 +2233,7 @@
 1. 【[次<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_r.md#次<sub>儿</sub>)】`cz5 r` <sup>[如皋]</sup> 次序。  
 1. 【[次序](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_xy.md#次序)】`cz5 xy` <sup>[如东]</sup> ① 顺序。 ② 顾当：日子过啊蛮～。  
 1. 【[次序](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_xy.md#次序)】`cz5 xy5` <sup>[如皋]</sup> ① 顺当，有条理：日子过得～，事情办得～。 ② 顺从：你放吖～啊点儿，不要讨啊吃活（生活、苦头）！ ③ 满足：这顿饭吃得～啊啦。 ④ 安适：肚子肚里不～。  
+1. 【[粢饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_faen.md#粢饭)】`cz5 faen6` <sup>[泰州]</sup> 用蒸熟的糯米做的饭团，常作早饭。  
 1. 【[字](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz.md#字)】`cz6` <sup>[东台]</sup> ① 文字：汉～/识～。 ② 字据、借条等书面凭证。 ③ 旧时作为名的补充。  
 1. 【[字钉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_dien.md#字钉)】`cz6 dien1` <sup>[泰州]</sup> 一种写有汉字的方形小纸片，供儿童启蒙识字用：认～。  
 1. 【[字号](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_ho.md#字号)】`cz6 ho6` <sup>[如皋]</sup> 旧指店名。  

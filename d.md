@@ -887,7 +887,6 @@
 1. 【[呆子认不得牛屎——硬酱（犟）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_zz_ren_beh_deh_ngeu_shr_ngen_jian.md#呆子认不得牛屎——硬酱（犟）)】`dae1 zz ren6 beh7 deh7 ngeu2 shr3 ngen6 jian5` <sup>[东台]</sup>   
 1. 【[呆子认不得小菩萨——尽是小人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_zz_ren_beh_deh_xio_pv_saeh_jien_shr_xio_ren.md#呆子认不得小菩萨——尽是小人)】`dae1 zz ren6 beh7 deh7 xio3 pv2 saeh7 jien3 shr6 xio3 ren2` <sup>[东台]</sup>   
 1. 【[呆子数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_zz_shv.md#呆子数)】`dae1 zz shv5` <small>/tɛ1 t͡sɿ su5/<sup>如皋</sup></small> ① 指十三。<sup>\[如皋\]</sup> ② 不吉利的数字，如250。<sup>\[如皋\]</sup> ③ 指二十五或二百五。<sup>\[东台\]</sup>  
-1. 【[带伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_hu.md#带伙)】`dae3 hu3` <sup>[泰州]</sup> 交伙食费在他人家中吃饭：他家没得人弄饭，伢儿中上就在学堂门口一个人家～。  
 1. 【[歹过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_gu.md#歹过)】`dae3 gu5` <sup>[泰县]</sup> 很，而且：这东西～不错。  
 1. 【[歹怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_guae.md#歹怪)】`dae3 guae5` <small>/tɛ3 kuɛ5/<sup>泰兴</sup>, /te3 kue5/<sup>泰县</sup></small> ① 副词，“偏偏”的意思<sup>\[东台\]</sup>：他家两口子水平不高，但小伙～有出息，考上吖名牌大学。<sup>\[东台\]</sup> ② 偏偏。<sup>\[泰县\]</sup> ③ 怪物，很难看的人。多用于骂人。（存疑）<sup>\[泰兴\]</sup>：打扮得不三不四的，活象个～。<sup>\[泰兴\]</sup>  
 1. 【[歹固](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_gv.md#歹固)】`dae3 gv5` <sup>[泰州]</sup> 偏偏，恰恰（存疑）：你家小伙，平常不大用功，每次考试他～考得好。｜你以为你有权，各个都要巴结你，我～不买你的账。  
@@ -910,7 +909,7 @@
 1. 【[带过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_gu.md#带过)】`dae5 gu` <sup>[兴化]</sup> 偏偏、恰恰：～你越总好，他越怀疑，越不相信。‖西北部乡镇也作“歹怪”dae3 guae。  
 1. 【[带锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_gu.md#带锅)】`dae5 gu1` <small>/tɛ5 ko1/<sup>兴化</sup>, /tɛ5 kʊ1/<sup>如皋</sup></small> ① 顺带煮饭。<sup>\[如皋\]</sup> ② 比喻顺带受处罚。<sup>\[如皋\]</sup> ③ 请别家带做饭菜。<sup>\[兴化\]</sup> ④ （借）顺带<sup>\[兴化\]</sup>：“好的，我替你顺带……我家失火也把你家～。”（《皮五辣子》三）<sup>\[兴化\]</sup>  
 1. 【[带害](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_hae.md#带害)】`dae5 hae6` <sup>[东台]</sup> 连累别人。  
-1. 【[带伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_hu.md#带伙)】`dae5 hu3` <sup>[兴化]</sup> 见“带饭”。  
+1. 【[带伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_hu.md#带伙)】`dae5 hu3` <small>/tɛ5 xo3/<sup>兴化</sup></small> ① 见“带饭”。<sup>\[兴化\]</sup> ② 交伙食费在他人家中吃饭<sup>\[泰州\]</sup>：他家没得人弄饭，伢儿中上就在学堂门口一个人家～。<sup>\[泰州\]</sup>  
 1. 【[带夜作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_ia_zah.md#带夜作)】`dae5 ia6 zah7` <small>/te5 ia1 t͡sɑʔ7/<sup>泰县</sup></small> ① 白天干不完，夜晚加班。<sup>\[东台\]</sup> ② 夜晚加班<sup>\[泰县\]</sup>：这事情又要～，不然明朝不好交差。<sup>\[泰县\]</sup>  
 1. 【[带阴镣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_ien_lio.md#带阴镣)】`dae5 ien1 lio2` <sup>[如皋]</sup> 詈语。指因病或受伤造成的跨步小，走不快。  
 1. 【[带……有话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_ieu_hua.md#带……有话)】`dae5 ieu3 hua6` <sup>[东台]</sup> （插入语，省略号可以是某人）正如某人所说：要勤劳，带张爹有话“人勤地不懒”。  
@@ -1309,7 +1308,7 @@
 1. 【[登字头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_cz_teu_r.md#登字头<sub>儿</sub>)】`den1 cz6 teu2 r` <sup>[如皋]</sup> （癶）：登、癸、發。  
 1. 【[登方](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_fan.md#登方)】`den1 fan1` <sup>[兴化]</sup> 工程术语，指建筑物或工件四个角都成直角：桌面～；柜脚～；房子～。  
 1. 【[登高](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_go.md#登高)】`den1 go1` <sup>[如东]</sup> ① 往高处爬。 ② 比喻梯子。  
-1. 【[登样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_ian.md#登样)】`den1 ian6` <small>/tən1 iaŋ6/<sup>兴化</sup>, /təŋ1 iã1/<sup>如皋</sup></small> ① 样子好。<sup>\[如东\]</sup>：你穿这件衣服，蛮～的。<sup>\[如东\]</sup> ② 衣物家具等样子好看、漂亮、合体、合适<sup>\[如皋\]</sup>：这件衣裳做得～！<sup>\[如皋\]</sup> ③ 像模像样，像个样子。<sup>\[东台\]</sup> ④ 模样适中、好看<sup>\[兴化\]</sup>：她又矮又胖，穿连衣裙不～。<sup>\[兴化\]</sup>｜这个宽大的墙面上挂一幅大油画才～。<sup>\[兴化\]</sup>  
+1. 【[登样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_ian.md#登样)】`den1 ian6` <small>/tən1 iaŋ6/<sup>兴化</sup>, /təŋ1 iã1/<sup>如皋</sup></small> ① 样子好。<sup>\[如东\]</sup>：你穿这件衣服，蛮～的。<sup>\[如东\]</sup> ② 衣物家具等样子好看、漂亮、合体、合适<sup>\[如皋\]</sup>：这件衣裳做得～！<sup>\[如皋\]</sup> ③ 像模像样，像个样子。<sup>\[东台\]</sup> ④ 模样适中、好看<sup>\[兴化\]</sup>：她又矮又胖，穿连衣裙不～。<sup>\[兴化\]</sup>｜这个宽大的墙面上挂一幅大油画才～。<sup>\[兴化\]</sup> ⑤ 某件衣服与某人身材、气质相吻合，符合大众审美标准<sup>\[泰州\]</sup>：这件衣裳你穿吖身上～，贵就贵点儿，买下来吧。<sup>\[泰州\]</sup>  
 1. 【[登脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_jiah.md#登脚)】`den1 jiah` <sup>[如皋]</sup> ① 攀登的踏脚处：在陡坎子上挖几个～，以便爬上去；城墙头难爬，有四五十个～。 ② 水边的踏脚石。 ③ 廊沿台儿的台阶。  
 1. 【[登脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_jiah_r.md#登脚<sub>儿</sub>)】`den1 jiah7 r` <sup>[东台]</sup> 台阶：一楼到二楼有30个～｜河坡上挖咖一排～。  
 1. 【[登劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_jien.md#登劲)】`den1 jien5` <sup>[如皋]</sup> ① 支撑有力：这根扂子～，那根扂子不～。 ② 有力、得力：他挑担走路脚脚～。 ③ 有劲、愿意出力：他相到儿子有出息，做起事情来更～。  
@@ -1336,7 +1335,6 @@
 1. 【[戥盘秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_pun_chen.md#戥盘秤)】`den3 pun2 chen5` <sup>[东台]</sup> 比戥子大，以绳系连接盘子盛物测定物体重量的秤。  
 1. 【[戥盘里的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_pun_li_dii.md#戥盘里的)】`den3 pun2 li3 dii` <sup>[如东]</sup> 放在戥盘里称的东西都是贵重物品。比喻上等货，好东西：就你是～。  
 1. 【[戥子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_zz.md#戥子)】`den3 zz` ① 构造和原理与杆秤相同。秤杆一般用骨质材料制成，十分精致。盛物的部分是一个小圆盘。最大单位是两，小到分、钱、厘、毫。用于衡量贵重物品。<sup>\[如东\]</sup> ② 衡量精致物品和药品重量的器具，最大单位是两，小到分或厘（老秤十六两制小到钱）。<sup>\[东台\]</sup> ③ 古代用以称微量物品的小型杆秤，秤的一段有绳子系着小盘，用于放置所称之物，最大单位是两，最小单位是厘，今中药房仍用。<sup>\[泰州\]</sup>  
-1. 【[登样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_ian.md#登样)】`den3 ian6` <sup>[泰州]</sup> 某件衣服与某人身材、气质相吻合，符合大众审美标准：这件衣裳你穿吖身上～，贵就贵点儿，买下来吧。  
 1. 【[盹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den.md#盹)】`den3` <sup>[东台]</sup> 短暂的睡眠：中午哪怕打个～儿，也有益于身体。  
 1. 【[等](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den.md#等)】`den3` <small>/tən3/<sup>兴化</sup>, /təŋ3/<sup>如皋</sup>, /təŋ3/<sup>泰兴</sup>, /təŋ3/<sup>泰县</sup></small> ① 在下方接住某物体：～水/接水 ② 同普通话，等待 ③ 承接<sup>\[如皋\]</sup>：～檐头水<sup>\[如皋\]</sup>｜～尿<sup>\[如皋\]</sup>｜～鱼<sup>\[如皋\]</sup> ④ 以手或者以器物接住从上面自然落下之物<sup>\[泰州\]</sup>：下雨唻，你把盆子摆啊屋檐口底下等水。<sup>\[泰州\]</sup>  
 1. 【[等不洎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_beh_qi.md#等不洎)】`den3 beh7 qi6` <sup>[如皋]</sup> 急迫，不能等待。  

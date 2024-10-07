@@ -247,7 +247,6 @@
 1. 【[宁同讲理的打场官司，不同不讲理的谈句家常](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen_ton_jian_li_dii_da_chan_gun_sz_beh_ton_beh_jian_li_dii_taen_jy_ga_chan.md#宁同讲理的打场官司，不同不讲理的谈句家常)】`nen6 ton2 jian3 li3 dii da3 chan2 gun1 sz1 beh7 ton2 beh7 jian3 li3 dii taen2 jy5 ga1 chan2` <sup>[东台]</sup> 交往要选准对象。  
 1. 【[宁断不弯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen_tun_beh_vaen.md#宁断不弯)】`nen6 tun6 beh7 vaen1` <sup>[如皋]</sup> 状十分倔强。  
 1. 【[宁为鸡头，不为牛后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen_vei_ji_teu_beh_vei_ngeu_heu.md#宁为鸡头，不为牛后)】`nen6 vei2 ji1 teu2 beh7 vei2 ngeu2 heu6` <sup>[东台]</sup> 在小单位有自主权比在大单位听人使唤强。  
-1. 【[呕屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/neu_shr.md#呕屎)】`neu3 shr3` 詈词，骂人说与性相关的话<sup>\[泰州\]</sup>：老家伙在这块～，你不要把人家伢儿教啊坏啊。<sup>\[泰州\]</sup>｜你不要再～哦，当心人家攉你嘴巴子。<sup>\[泰州\]</sup>  
 1. 【[嗯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ng.md#嗯)】`ng` <sup>[如东]</sup> 回答问题的词语，表示赞成或同意。  
 1. 【[嗯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ng.md#嗯)】`ng1` <sup>[东台]</sup> （叹词）表示应答。  
 1. 【[嗯啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ng_a.md#嗯啊)】`ng1 a` <sup>[泰县]</sup> 好的：“你快点儿去吧！”“～，我就去。”  
@@ -815,7 +814,6 @@
 1. 【[䬶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen.md#䬶)】`ngen5` <small>/ŋəŋ5/<sup>如皋</sup></small> ① 臭败的气味：咸菜缸里有啊～味。<sup>\[如皋\]</sup> ② 液体腐败，出现异味。<sup>\[如东\]</sup> ③ 纤维或淀粉、蛋白质久浸水中而变味<sup>\[东台\]</sup>：山芋藤在池塘里时间太长，已经～臭啊。<sup>\[东台\]</sup>  
 1. 【[摁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen.md#摁)】`ngen5` <small>/ŋəŋ5/<sup>如皋</sup></small> ① 揿，按。<sup>\[如皋\]</sup> ② 用手指或棍棒向物体上揿。<sup>\[如东\]</sup>：～开关。<sup>\[如东\]</sup>  
 1. 【[摁实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_sheh.md#摁实)】`ngen5 sheh8` <sup>[兴化]</sup> 进一步落实：贷款的事你再去～咖子，免得滑边。  
-1. 【[硬铮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_zhen.md#硬铮)】`ngen5 zhen` <sup>[泰州]</sup> ① 实力相对强大而不示弱：他的后台比你～，这个项目你争不过他。 ② 态度强硬而不服软：不要望他嘴上说得～，骨里心里怕得要死。 ③ 为人正派而不苟且：他说穷要穷得～，这种人你有甚的办法？｜做人要～。  
 1. 【[硬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen.md#硬)】`ngen6` 硬  
 1. 【[硬巴燎𩝽的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_ba_lio_qian_dii.md#硬巴燎𩝽的)】`ngen6 ba1 lio2 qian3 dii` <sup>[如皋]</sup> 状过于结实：鱼干儿～，要多泡泡水。  
 1. 【[硬邦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_ban.md#硬邦)】`ngen6 ban1` <sup>[泰州]</sup> 过硬，经得起严格的考验或者检验：老李这个人～，不该拿的钱，送把他也不好。｜老孙的账～得很，你甚的时候来查都可以。  
@@ -873,7 +871,7 @@
 1. 【[硬下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_xia.md#硬下)】`ngen6 xia6` <sup>[兴化]</sup> 用强制手段进行，见“硬上”。  
 1. 【[硬行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_xien.md#硬行)】`ngen6 xien2` <small>/ən6 ɕin2/<sup>兴化</sup></small> ① 强行<sup>\[兴化\]</sup>：他不经儿子同意，～做主，替他订吖一门亲事。<sup>\[兴化\]</sup> ② 强行，强制做某事<sup>\[泰州\]</sup>：女将又不肯卖，是他～做主把房子卖掉啊。<sup>\[泰州\]</sup>  
 1. 【[硬摘瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_zheh_gua.md#硬摘瓜)】`ngen6 zheh7 gua1` <small>/ən6 t͡səʔ7 kua1/<sup>兴化</sup></small> ① ［喻］条件未成熟就强行采取措施<sup>\[东台\]</sup>：拆迁前要耐心讲清政策和道理，不能～。<sup>\[东台\]</sup> ② （喻）未得对方认可，用强制方式进行<sup>\[兴化\]</sup>：这种事要征得人家同意，不能～。<sup>\[兴化\]</sup>  
-1. 【[硬铮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_zhen.md#硬铮)】`ngen6 zhen` <sup>[兴化]</sup> ① 坚硬而有韧性：这种纸蛮～的。 ② （引）为人正派，不苟且：他的脾气我晓得，人虽穷一点，穷得～。 ③ 态度坚定，不动摇：小锡匠的～把这些向来是横者膀子走路的家伙惹怒了……（汪曾祺《大淖记事》）Ⅱ“挣”也作“正”“铮”“争”。  
+1. 【[硬铮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_zhen.md#硬铮)】`ngen6 zhen` <small>/ən6 t͡sən/<sup>兴化</sup></small> ① 坚硬而有韧性<sup>\[兴化\]</sup>：这种纸蛮～的。<sup>\[兴化\]</sup> ② （引）为人正派，不苟且<sup>\[兴化\]</sup>：他的脾气我晓得，人虽穷一点，穷得～。<sup>\[兴化\]</sup> ③ 态度坚定，不动摇<sup>\[兴化\]</sup>：小锡匠的～把这些向来是横者膀子走路的家伙惹怒了……（汪曾祺《大淖记事》）Ⅱ“挣”也作“正”“铮”“争”。<sup>\[兴化\]</sup> ④ 实力相对强大而不示弱<sup>\[泰州\]</sup>：他的后台比你～，这个项目你争不过他。<sup>\[泰州\]</sup> ⑤ 态度强硬而不服软<sup>\[泰州\]</sup>：不要望他嘴上说得～，骨里心里怕得要死。<sup>\[泰州\]</sup> ⑥ 为人正派而不苟且<sup>\[泰州\]</sup>：他说穷要穷得～，这种人你有甚的办法？<sup>\[泰州\]</sup>｜做人要～。<sup>\[泰州\]</sup>  
 1. 【[硬铮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_zhen.md#硬铮)】`ngen6 zhen1` <small>/ŋəŋ1 t͡səŋ1/<sup>如皋</sup>, /əŋ1 t͡səŋ1/<sup>泰县</sup></small> ① 坚固：这张桌子还算～，还能用。<sup>\[如皋\]</sup> ② 挺直：老人的身骨～，一点儿不驮背。<sup>\[如皋\]</sup> ③ 有节操：文天是一条～汉子。<sup>\[如皋\]</sup> ④ 物体坚固。<sup>\[如东\]</sup> ⑤ 比喻身体健康。<sup>\[如东\]</sup> ⑥ 物体坚固。<sup>\[东台\]</sup> ⑦ 人正派、能力强<sup>\[东台\]</sup>：这件事难度大，要寻几个～人不可。<sup>\[东台\]</sup> ⑧ 坚固。<sup>\[泰县\]</sup> ⑨ 有志气：这个人穷得～。<sup>\[泰县\]</sup>  
 1. 【[硬铮铮的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_zhen_zhen_dii.md#硬铮铮的)】`ngen6 zhen1 zhen1 dii` <sup>[如皋]</sup> 硬挺貌：细伢儿欢喜站，站起来～的  
 1. 【[硬正正](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_zhen_zhen.md#硬正正)】`ngen6 zhen5 zhen5` <sup>[泰县]</sup> 物品软硬适度。  
@@ -989,7 +987,7 @@
 1. 【[牛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_zz.md#牛子)】`ngeu2 zz` <small>/ɤ2 t͡sɿ/<sup>兴化</sup>, /ŋei2 t͡sɿ/<sup>如皋</sup></small> ① 米象虫。<sup>\[如皋\]</sup> ② 谷蠹。成虫略呈圆筒形，暗黑色或赤黑色，稍带光泽。复眼圆形，黑色。有鞘翅。足短粗。主要危害稻、麦、玉米、高粱、豆类、粉类、干果、蔬菜、图书等。<sup>\[如东\]</sup> ③ 即米象，是贮藏谷物的主要害虫。<sup>\[兴化\]</sup>  
 1. 【[𧉖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_zz.md#𧉖子)】`ngeu2 zz` <sup>[东台]</sup> 一种黑色的粮食蛀虫。  
 1. 【[呕黄汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_huan_tan.md#呕黄汤)】`ngeu3 huan2 tan1` <sup>[东台]</sup> ［喻］酒醉后胡言乱语。  
-1. 【[呕屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_shr.md#呕屎)】`ngeu3 shr3` <sup>[兴化]</sup> 骂人胡说：“你～！军婚，现役嘛！高压线嘛！要法办的！”（毕飞宇《玉米》）  
+1. 【[呕屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_shr.md#呕屎)】`ngeu3 shr3` <small>/ɤ3 sɿ3/<sup>兴化</sup></small> ① 骂人胡说<sup>\[兴化\]</sup>：“你～！军婚，现役嘛！高压线嘛！要法办的！”（毕飞宇《玉米》）<sup>\[兴化\]</sup> ② 詈词，骂人说与性相关的话<sup>\[泰州\]</sup>：老家伙在这块～，你不要把人家伢儿教啊坏啊。<sup>\[泰州\]</sup>｜你不要再～哦，当心人家攉你嘴巴子。<sup>\[泰州\]</sup>  
 1. 【[呕屎礓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_shr_jian.md#呕屎礓)】`ngeu3 shr3 jian3` <sup>[东台]</sup> （詈语）指胡说八道。  
 1. 【[呕𪨊礓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_son_jian.md#呕𪨊礓)】`ngeu3 son2 jian3` <sup>[东台]</sup> 与“呕屎礓”近义。  
 1. 【[藕饼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_bien_r.md#藕饼<sub>儿</sub>)】`ngeu3 bien3 r` <small>/ŋei3 piə˞3/<sup>如皋</sup></small> ① 用藕片夹馅蘸面浆，油炸或油焖成的饼，为中秋节食品。<sup>\[如皋\]</sup> ② 藕切成饼儿，中间嵌肉末、姜末，外面沾上面粉糊，放在锅中炸熟，呈淡黄色，肥、脆、香，营养丰富。<sup>\[如东\]</sup>  
@@ -1250,9 +1248,8 @@
 1. 【[虐罚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/niah_faeh.md#虐罚)】`niah8 faeh8` <sup>[如皋]</sup> ① 虐待、歧视：恶婆娘就是会～小新妇儿。 ② 刁难：你不要～他吧，让他走吧。 ③ 责罚：你惹啊这吖大的祸，我也不～你，你自己请身吧。  
 1. 【[虐煞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/niah_shaeh.md#虐煞)】`niah8 shaeh7` <sup>[如皋]</sup> 心毒手狠：他对伢儿太～，打起来要命！  
 1. 【[□□<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_nian_r.md#□□<sub>儿</sub>)】`nian nian r` <sup>[如皋]</sup> 小、少、一点点。  
-1. 【[嬢嬢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_nian.md#嬢嬢)】`nian1 nian1` 父亲的妹妹。<sup>\[泰州\]</sup>  
 1. 【[孃孃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_nian.md#孃孃)】`nian1 nian` ① 姑姑，爸爸的妹妹 ② 姑母。<sup>\[东台\]</sup>  
-1. 【[孃孃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_nian.md#孃孃)】`nian1 nian1` <small>/liaŋ1 liaŋ1/<sup>兴化</sup>, /niã1 niã1/<sup>如皋</sup></small> ① 姑母。如城称父之妹。与姑妈（父之姐）相对。有些地区统称称父之姐妹。<sup>\[如皋\]</sup> ② 父亲的妹妹。<sup>\[如东\]</sup> ③ 姑母，父亲的姐或妹。<sup>\[兴化\]</sup>  
+1. 【[孃孃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_nian.md#孃孃)】`nian1 nian1` <small>/liaŋ1 liaŋ1/<sup>兴化</sup>, /niã1 niã1/<sup>如皋</sup></small> ① 姑母。如城称父之妹。与姑妈（父之姐）相对。有些地区统称称父之姐妹。<sup>\[如皋\]</sup> ② 父亲的妹妹。<sup>\[如东\]</sup><sup>\[泰州\]</sup> ③ 姑母，父亲的姐或妹。<sup>\[兴化\]</sup>  
 1. 【[娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian.md#娘)】`nian2` <small>/niã2/<sup>如皋</sup></small> ① 母亲（老派称）。<sup>\[如皋\]</sup> ② 母亲。<sup>\[如东\]</sup>  
 1. 【[娘的威风爷的势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_dii_vei_fon_ia_dii_shr.md#娘的威风爷的势)】`nian2 dii vei1 fon1 ia2 dii shr5` <sup>[东台]</sup> 孩子的精气神往往与父母亲的地位名望有关。  
 1. 【[娘儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_er.md#娘儿)】`nian2 er` <sup>[如皋]</sup> 母与子（女）间：～底下、～里头、～两个。  

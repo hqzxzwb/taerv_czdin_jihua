@@ -904,7 +904,6 @@
 1. 【[篱笆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_ba.md#篱笆)】`li2 ba1` <sup>[如东]</sup> 用芦苇、竹子或树枝等编成的栏栅，放在房屋或场园周围。  
 1. 【[篱笆匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_ba_qian.md#篱笆匠)】`li2 ba1 qian6` <sup>[如东]</sup> 建造和修理茅屋的小手工业者。  
 1. 【[篱笆嶂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_ba_zhan.md#篱笆嶂)】`li2 ba1 zhan5` <sup>[如东]</sup> 芦苇编成的建筑材料，长方形，覆盖在茅屋的顶面上或竖立在房屋周围做墙壁。  
-1. 【[了戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_xi.md#了戏)】`li3 xi5` 事情已经结束，再努力已经没有意义了<sup>\[泰州\]</sup>：他俫过啊今朝晚上还不交钱的话，他看中的这个房子也就～唻。<sup>\[泰州\]</sup>｜李校长调啊走啊，他加伢儿上泰中的事怕的要～唻。<sup>\[泰州\]</sup>  
 1. 【[娌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li.md#娌)】`li3` <sup>[东台]</sup> 弟之妻谓之～：妯～（兄弟之妻的合称）。  
 1. 【[李树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_shv.md#李树)】`li3 shv6` <sup>[如东]</sup> 蔷薇科植物李树，落叶乔木。  
 1. 【[李铁拐的葫芦——不晓得卖的甚的药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_tih_guae_dii_hv_lv_beh_xio_deh_mae_dii_shen_nii_iah.md#李铁拐的葫芦——不晓得卖的甚的药)】`li3 tih7 guae3 dii hv2 lv beh7 xio3 deh7 mae6 dii shen nii iah8` <sup>[东台]</sup>   
@@ -936,8 +935,7 @@
 1. 【[里栋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_don.md#里栋)】`li3 don` 相对“外栋”，里面，里头。<sup>\[泰州\]</sup>  
 1. 【[里街](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_gae.md#里街)】`li3 gae1` <sup>[如皋]</sup> 见“后街”。  
 1. 【[里沟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_geu.md#里沟)】`li3 geu1` <sup>[如皋]</sup> 与大河干道相对的乡间河道。本地古来称河为沟。  
-1. 【[里锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_gu.md#里锅)】`li3 gu1` <small>/ləi3 ko1/<sup>兴化</sup>, /lʝ3 kʊ1/<sup>如皋</sup>, /nɿ3 ko1/<sup>泰县</sup></small> ① 老式灶台上两个锅中，靠近里面的那个锅。外面的称“口锅”。 ② 灶台上放置在里边的锅。<sup>\[如东\]</sup> ③ 灶上安在内侧的锅。<sup>\[如皋\]</sup> ④ 旧式灶在里面的一口较大的锅。（另一个叫口锅）<sup>\[东台\]</sup> ⑤ 灶上靠墙壁的锅，多用来煮饭粥。<sup>\[兴化\]</sup> ⑥ 农村老式灶台上两口锅里，靠里面的锅子。靠外的称为“口锅”。<sup>\[泰县\]</sup>  
-1. 【[里锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_gu.md#里锅)】`li3 gu3` 旧时烧灶，灶上几口锅中靠墙的锅为里锅，离墙远的为“口锅”，中间的锅为“中锅”。<sup>\[泰州\]</sup>  
+1. 【[里锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_gu.md#里锅)】`li3 gu1` <small>/ləi3 ko1/<sup>兴化</sup>, /lʝ3 kʊ1/<sup>如皋</sup>, /nɿ3 ko1/<sup>泰县</sup></small> ① 老式灶台上两个锅中，靠近里面的那个锅。外面的称“口锅”。 ② 灶台上放置在里边的锅。<sup>\[如东\]</sup> ③ 灶上安在内侧的锅。<sup>\[如皋\]</sup> ④ 旧式灶在里面的一口较大的锅。（另一个叫口锅）<sup>\[东台\]</sup> ⑤ 灶上靠墙壁的锅，多用来煮饭粥。<sup>\[兴化\]</sup> ⑥ 农村老式灶台上两口锅里，靠里面的锅子。靠外的称为“口锅”。<sup>\[泰县\]</sup> ⑦ 旧时烧灶，灶上几口锅中靠墙的锅为里锅，离墙远的为“口锅”，中间的锅为“中锅”。<sup>\[泰州\]</sup>  
 1. 【[里拐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_guae_r.md#里拐<sub>儿</sub>)】`li3 guae3 r` <sup>[如皋]</sup> 胫骨下端。内侧踝。  
 1. 【[里花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_hua.md#里花)】`li3 hua1` <small>/ləi3 xua1/<sup>兴化</sup>, /lʝ3 xua1/<sup>如皋</sup></small> ① 秤杆内面的秤花（秤星）。<sup>\[如皋\]</sup> ② 见“怀花”。<sup>\[兴化\]</sup>  
 1. 【[里墼外砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_jieh_vae_zhun.md#里墼外砖)】`li3 jieh7 vae6 zhun1` <sup>[兴化]</sup> 墙体里层为土墼，外皮砖砌，既可节省砖块，又保证墙体厚度。  
@@ -1448,7 +1446,7 @@
 1. 【[了手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_sheu.md#了手)】`lio3 sheu3` <small>/liɔ3 sɤ3/<sup>兴化</sup>, /liɔ3 ɕiɤɯ3/<sup>泰兴</sup></small> 办完；了结。<sup>\[东台\]</sup><sup>\[泰兴\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：如果不快刀斩乱麻，箇桩事没得～。<sup>\[泰兴\]</sup>｜张家的活计还有三天～。<sup>\[兴化\]</sup>｜“……我又不是个丫头，把我关在家里，何日是个～……”（《红楼梦》四八）<sup>\[兴化\]</sup>｜等我把这桩事了啊手，就陪你出去玩。<sup>\[泰州\]</sup>  
 1. 【[了首尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_sheu_vei.md#了首尾)】`lio3 sheu3 vei3` <small>/liɔ3 sɤ3 uəi3/<sup>兴化</sup>, /niɔ3 sɤɯ3 ʋəɪ3/<sup>泰县</sup></small> ① 指完成对子女的责任。<sup>\[东台\]</sup> ② 给儿女办完婚事<sup>\[兴化\]</sup>：我还有小儿子结婚一桩大事，就全部～啊。<sup>\[兴化\]</sup> ③ 完成了培育子女的事。<sup>\[泰县\]</sup>  
 1. 【[了微<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_vei_r.md#了微<sub>儿</sub>)】`lio3 vei2 r` <sup>[如东]</sup> 稍微：～晚点。  
-1. 【[了戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_xi.md#了戏)】`lio3 xi5` <sup>[兴化]</sup> ① 完了：～！皮五辣子今日是非打肉不可了……（扬说《皮五辣子打肉》三） ② “死”的隐语：老王三～啊。  
+1. 【[了戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_xi.md#了戏)】`lio3 xi5` <small>/liɔ3 ɕi5/<sup>兴化</sup></small> ① 完了<sup>\[兴化\]</sup>：～！皮五辣子今日是非打肉不可了……（扬说《皮五辣子打肉》三）<sup>\[兴化\]</sup> ② “死”的隐语<sup>\[兴化\]</sup>：老王三～啊。<sup>\[兴化\]</sup> ③ 事情已经结束，再努力已经没有意义了<sup>\[泰州\]</sup>：他俫过啊今朝晚上还不交钱的话，他看中的这个房子也就～唻。<sup>\[泰州\]</sup>｜李校长调啊走啊，他加伢儿上泰中的事怕的要～唻。<sup>\[泰州\]</sup>  
 1. 【[尥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio.md#尥)】`lio6` <small>/liɔ6/<sup>兴化</sup></small> ① 以足钩人使跌。《吴下方言考》“案～，斜舒足钩倒人也。吴中谓舒足钩人曰～。”<sup>\[兴化\]</sup> ② 互相打斗<sup>\[兴化\]</sup>：有种过来～一交。<sup>\[兴化\]</sup> ③ 大步走<sup>\[兴化\]</sup>：他走起路来两条长腿直～。<sup>\[兴化\]</sup> ④ 大步迅速走路<sup>\[泰州\]</sup>：他俫少年人～起来快得狠。<sup>\[泰州\]</sup>｜大个子在前头直～，一刻ㄦ工夫就望不到他人唻。<sup>\[泰州\]</sup>  
 1. 【[尥脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_jiah.md#尥脚)】`lio6 jiah7` <sup>[如皋]</sup> 腿脚不住的踢动。  
 1. 【[尥脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_jiah_r.md#尥脚<sub>儿</sub>)】`lio6 jiah7 r` <small>/liɔ1 t͡ɕia˞7/<sup>如皋</sup></small> ① 走路时，脚腿向前一甩一甩的样子。<sup>\[如东\]</sup> ② 走路时脚腿甩动的人。<sup>\[如东\]</sup> ③ 走路时腿脚向前时好像踢动，或指这种人。<sup>\[如皋\]</sup> ④ 小儿麻痹症患者。<sup>\[如皋\]</sup>  
@@ -1561,7 +1559,6 @@
 1. 【[痨生子<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_shen_zz_r.md#痨生子<sub>儿</sub>)】`lo2 shen1 zz3 r` <sup>[如东]</sup> ① 身体瘦弱的人。 ② 比喻不好的东西：这个是甚的～？  
 1. 【[痨蛋子<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_taen_zz_r.md#痨蛋子<sub>儿</sub>)】`lo2 taen6 zz3 r` <sup>[如东]</sup> 身体瘦弱的人。  
 1. 【[痨豆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_teu_r.md#痨豆<sub>儿</sub>)】`lo2 teu6 r` <small>/lɔ2 tʰɤ6 ɚ/<sup>兴化</sup></small> ① 对小孩的戏称。 ② 形容发育不良，又瘦又小的人。见“痨礓子”。<sup>\[兴化\]</sup>  
-1. 【[老早](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_zo.md#老早)】`lo2 zo3` ① 一大早<sup>\[泰州\]</sup>：他今朝早上～就起来啊。<sup>\[泰州\]</sup> ② 早于通常、预期、规定的时间<sup>\[泰州\]</sup>：下午三点钟才开会，他～就去啊唻。<sup>\[泰州\]</sup> ③ 很早以前，距离说话以前几个星期、几个月甚至几年时间<sup>\[泰州\]</sup>：你说的这些事他～就晓得咖唻。<sup>\[泰州\]</sup>  
 1. 【[髝髞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_so.md#髝髞)】`lo2 so` 急躁<sup>\[泰州\]</sup>：他这个人～啊不得命，不管他的事情，他要问吖作甚的？<sup>\[泰州\]</sup>｜儿女大啊唻，他俫有他俫的想法，你替他俫～也没得半点用。<sup>\[泰州\]</sup>  
 1. 【[……佬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo.md#……佬)】`lo3` <sup>[东台]</sup> 称成年男子（含轻蔑意）：江北～｜乡巴～｜土～。  
 1. 【[……佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_r.md#……佬<sub>儿</sub>)】`lo3 r` <sup>[东台]</sup> 戏称或昵称成年男子，用在姓或名的最后一字后，相当于“爹”：张～｜贵～｜宝～。  
@@ -1888,7 +1885,8 @@
 1. 【[老奘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_zhuan.md#老奘)】`lo3 zhuan3` ① 形容物体很粗。<sup>\[如东\]</sup>：这根木头～。<sup>\[如东\]</sup> ② 比喻势大财阔的人。<sup>\[如东\]</sup>：这个人在我俫这许是～。<sup>\[如东\]</sup> ③ 特别粗大健壮，比喻非常有钱的人<sup>\[泰州\]</sup>：他做生意赚得不少，是这条街上的～。<sup>\[泰州\]</sup>｜他是～，花这两个钱不在乎的。<sup>\[泰州\]</sup>  
 1. 【[老壮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_zhuan.md#老壮)】`lo3 zhuan5` <small>/lɔ3 t͡suaŋ5/<sup>兴化</sup>, /nɔ3 t͡ɕyɑŋ5/<sup>泰县</sup></small> ① 形容物体又大又粗<sup>\[兴化\]</sup>：这条长鱼是大～。<sup>\[兴化\]</sup>｜（邓九公）又把他～的那大姆指头伸出米说<sup>\[兴化\]</sup>｜“这才是我邓老九的好朋友哪！”（《儿女英雄传》二一）亦作“老奘”。<sup>\[兴化\]</sup> ② 老大，称雄：他是～。<sup>\[泰县\]</sup>  
 1. 【[老主户](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_zhv_hv.md#老主户)】`lo3 zhv3 hv` <sup>[兴化]</sup> 经常性的顾客：他是～，要客气一点。  
-1. 【[老早](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_zo.md#老早)】`lo3 zo3` <small>/lɔ3 t͡sɔ3/<sup>如皋</sup></small> ① 从前，很早。<sup>\[如东\]</sup>：这个土墩～就有啊。<sup>\[如东\]</sup> ② 很久以前。不确指：他～死掉啊啦，三年多啊；他～去上班吖啦，你不要等吖咾。<sup>\[如皋\]</sup>  
+1. 【[老早](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_zo.md#老早)】`lo3 zo3` <small>/lɔ3 t͡sɔ3/<sup>如皋</sup></small> ① 从前，很早。<sup>\[如东\]</sup>：这个土墩～就有啊。<sup>\[如东\]</sup> ② 很久以前。不确指<sup>\[如皋\]</sup>：他～死掉啊啦，三年多啊；他～去上班吖啦，你不要等吖咾。<sup>\[如皋\]</sup>  
+1. 【[老早](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_zo.md#老早)】`lo3-2 zo3` ① 一大早<sup>\[泰州\]</sup>：他今朝早上～就起来啊。<sup>\[泰州\]</sup> ② 早于通常、预期、规定的时间<sup>\[泰州\]</sup>：下午三点钟才开会，他～就去啊唻。<sup>\[泰州\]</sup> ③ 很早以前，距离说话以前几个星期、几个月甚至几年时间<sup>\[泰州\]</sup>：你说的这些事他～就晓得咖唻。<sup>\[泰州\]</sup>  
 1. 【[老早八早](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_zo_baeh_zo.md#老早八早)】`lo3 zo3 baeh7 zo3` <sup>[泰县]</sup> 很早：他～就到李秋家。  
 1. 【[老灶泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_zo_ni.md#老灶泥)】`lo3 zo5 ni2` <sup>[如皋]</sup> ① 多年的灶泥。 ② 中药名，学名“伏龙肝”煎水服，可止呕。  
 1. 【[老子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_zz.md#老子)】`lo3 zz` <small>/lɔ3 t͡sɿ/<sup>如皋</sup>, /nɔ3 t͡se/<sup>泰县</sup></small> ① 父亲。<sup>\[如东\]</sup> ② 骄傲人的自称。<sup>\[如东\]</sup>：～甚的都不怕。<sup>\[如东\]</sup> ③ 指称父亲。有不敬或亲切色彩。<sup>\[如皋\]</sup> ④ 父亲。<sup>\[泰县\]</sup>  

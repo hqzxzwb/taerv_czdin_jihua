@@ -531,7 +531,7 @@
 1. 【[不掸底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_daen_di.md#不掸底)】`beh7 daen3 di3` <sup>[东台]</sup> 摸不到底；也说掸不到底，能否成功没有足够把握。  
 1. 【[不掸眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_daen_ngaen.md#不掸眼)】`beh7 daen3 ngaen3` <small>/pəʔ7 tɛ̃3 ŋɛ̃3/<sup>泰兴</sup></small> 没有看到；没有注意；有时称速度极快。<sup>\[泰兴\]</sup>  
 1. 【[不当操](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_dan_co.md#不当操)】`beh7 dan1 co1` <sup>[如皋]</sup> 不适当、不妥贴、不在行：他说的话～。  
-1. 【[不当家不知柴米贵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_dan_jia_beh.md#不当家不知柴米贵)】`beh7 dan1 jia1 beh7 zhr1 chae2 mi3 guei5` <small>/pəʔ7 tɑŋ1 t͡ɕiɑ1 pəʔ7 t͡sɿ1 t͡ɕʰiɛ2 mʝ3 kuəɪ5/<sup>泰兴</sup></small> 谓不经过实践不知道世道的炎凉、生活的艰辛。<sup>\[泰兴\]</sup>  
+1. 【[不当家不知柴米贵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_dan_jia_beh.md#不当家不知柴米贵)】`beh7 dan1 jia1 beh7 zhr1 shae2 mi3 guei5` <small>/pəʔ7 tɑŋ1 t͡ɕiɑ1 pəʔ7 t͡sɿ1 ɕiɛ2 mʝ3 kuəɪ5/<sup>泰兴</sup></small> 谓不经过实践不知道世道的炎凉、生活的艰辛。<sup>\[泰兴\]</sup>  
 1. 【[不当价钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_dan_jia_qin.md#不当价钱)】`beh7 dan5 jia5 qin2` <sup>[泰县]</sup> 没有多少钱。  
 1. 【[不得来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_deh_lae.md#不得来)】`beh7 deh lae2` <sup>[兴化]</sup> 条件不具备，不能满足要求：我也想让婆娘伢儿吃好、穿好，可惜收入少，～。  
 1. 【[不得能够](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_deh_nen_geu.md#不得能够)】`beh7 deh nen2 geu5` <sup>[兴化]</sup> ① 不可能：“……我被他坏了名声，破了香火，有心要捉唐僧，只怕～。”（《西游记》四八） ② 傲慢无礼或指手足无措的样子：自从她男人当吖村长，她在庄上就像～啊。｜你看他高兴的样子，简直～啊。  

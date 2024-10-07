@@ -556,6 +556,7 @@
 1. 【[柴珠<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_zhv_r.md#柴珠<sub>儿</sub>)】`shae2 zhv1 r` <sup>[如东]</sup> 刚刚出土的芦苇嫩芽。  
 1. 【[晒布架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_bv_ga_zz.md#晒布架子)】`shae5 bv5 ga5 zz` <sup>[如皋]</sup> 染坊晒布的高架子。  
 1. 【[晒场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_chan.md#晒场)】`shae5 chan2` <sup>[如东]</sup> 晾晒和堆放谷物的场地。  
+1. 【[晒伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_foh.md#晒伏)】`shae5 foh8` 在伏天太阳最烈的时候，将衣服、书籍、粮食等在阳光下暴晒。<sup>\[泰州\]</sup>  
 1. 【[晒虹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_gan.md#晒虹)】`shae5 gan5` <sup>[如皋]</sup> 出彩虹。  
 1. 【[晒𩄬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_heu.md#晒𩄬)】`shae5 heu5` <sup>[如东]</sup> 空中现出彩虹。  
 1. 【[晒灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_huei.md#晒灰)】`shae5 huei1` <sup>[如东]</sup> 把盐灰挑到盐场上去曝晒，吸收盐分，以利沥卤。  
@@ -572,7 +573,6 @@
 1. 【[晒太阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_tae_ian.md#晒太阳)】`shae5 tae5 ian` <sup>[如东]</sup> 接受阳光曝晒。比喻互相把隐藏的丑话搬出来曝光。  
 1. 【[晒簟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_tin.md#晒簟)】`shae5 tin6` <sup>[如皋]</sup> 作晒具的巨型篾席，似凉席而大，长可数丈。旧时如皋西南乡多见。  
 1. 【[𩴇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae.md#𩴇)】`shae5` <sup>[如皋]</sup> 人的灵魂。  
-1. 【[晒伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_foh.md#晒伏)】`shaeh5 foh8` 在伏天太阳最烈的时候，将衣服、书籍、粮食等在阳光下暴晒。<sup>\[泰州\]</sup>  
 1. 【[刹断](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_dun.md#刹断)】`shaeh7 dun5` <sup>[兴化]</sup> 决断：对这件事你要拿出～来，不能戏啊戏的。  
 1. 【[杀剥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_bah.md#杀剥)】`shaeh7 bah7` <sup>[兴化]</sup> 农民耕作时斥牛的话：～的，快跑！  
 1. 【[杀场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_chan.md#杀场)】`shaeh7 chan2` <sup>[兴化]</sup> 旧时处决人犯的场所：王梁一见，开放城门，押着众犯出城，来至～。（《施公案》五四）  
@@ -2633,12 +2633,11 @@
 1. 【[书公子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_gon_zz.md#书公子)】`shv1 gon1 zz3` <sup>[如皋]</sup> 对读书人的呢、鄙称。  
 1. 【[书瓤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_ran_zz.md#书瓤子)】`shv1 ran2 zz` <sup>[兴化]</sup> 装在信封里写好的信：哪晓得周瑜只看书面子，不看～……（《火烧赤壁》四）。也称“信瓤子”。  
 1. 【[书桌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_zhuah.md#书桌)】`shv1 zhuah7` <sup>[如东]</sup> 写字台。  
-1. 【[树秧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_ian.md#树秧)】`shv1 ian1` 树苗。<sup>\[泰州\]</sup>  
 1. 【[梳角子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_gah_zz.md#梳角子)】`shv1 gah7 zz` <sup>[如皋]</sup> 旧时女童发式。头顶两侧各梳一髻。  
 1. 【[梳锯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_jy.md#梳锯)】`shv1 jy5` <sup>[如东]</sup> 工具。锯条嵌在木柄上，长约10厘米，像梳子。用以加工特殊形状的木料。  
 1. 【[梳梁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_lian.md#梳梁)】`shv1 lian2` <sup>[如东]</sup> 在排五柱中间的横梁。  
 1. 【[梳头妈子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_teu_ma_zz.md#梳头妈子)】`shv1 teu2 ma1 zz` <sup>[兴化]</sup> 旧时，以给富婆和老、病、残妇女梳头为业的女性。  
-1. 【[梳桌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_zhuah.md#梳桌)】`shv1 zhuah7` <small>/su1 t͡suaʔ7/<sup>兴化</sup>, /su1 t͡suaʔ7/<sup>如皋</sup></small> ① 旧时房间内的长桌，供梳妆用。<sup>\[如皋\]</sup> ② 梳妆用的长条桌，有抽屉。<sup>\[兴化\]</sup>  
+1. 【[梳桌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_zhuah.md#梳桌)】`shv1 zhuah7` <small>/su1 t͡suaʔ7/<sup>兴化</sup>, /su1 t͡suaʔ7/<sup>如皋</sup></small> ① 旧时房间内的长桌，供梳妆用。<sup>\[如皋\]</sup> ② 梳妆用的长条桌，有抽屉。<sup>\[兴化\]</sup> ③ 妇女化妆用的桌子，上面有梳子、镜子、粉盒、胭脂盒等化妆用品。<sup>\[泰州\]</sup>  
 1. 【[梳妆盒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_zhuan_huh.md#梳妆盒)】`shv1 zhuan1 huh8` <sup>[如东]</sup> 一种小型木盒，外边饰有花纹，十分精致。搁在梳妆台上，放置化妆品。  
 1. 【[梳妆台](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_zhuan_tae.md#梳妆台)】`shv1 zhuan1 tae2` <sup>[如东]</sup> 放置梳妆用品的桌子，一般长方形，有的上面设有镜、盒等装置。  
 1. 【[梳子板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_zz_baen.md#梳子板)】`shv1 zz baen3` <sup>[如东]</sup> 帆船船底板下面的一块梳子形的木板。  
@@ -2677,6 +2676,7 @@
 1. 【[树杈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_cha.md#树杈)】`shv6 cha1` <sup>[兴化]</sup> 树干分岔的部位：（孙新）跨在～内，双手抱着，一溜溜下去……（《水浒后传》二）。又称“树丫”。  
 1. 【[树大招风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_da_zho_fon.md#树大招风)】`shv6 da6 zho1 fon1` <sup>[东台]</sup> ［喻］因名气大引人注意或惹人嫉妒。  
 1. 【[树的影，人的名](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_dii_ien_ren_dii_mien.md#树的影，人的名)】`shv6 dii ien3， ren2 dii mien2` <sup>[东台]</sup> ［喻］人生在世要注意个人的形象、名誉。  
+1. 【[树秧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_ian.md#树秧)】`shv6 ian1` 树苗。<sup>\[泰州\]</sup>  
 1. 【[树秧子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_ian_zz.md#树秧子)】`shv6 ian1 zz` <sup>[兴化]</sup> 用于移植的树苗。  
 1. 【[树叶子𠫓下来怕打头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_ih_zz_teh_ha_lae_pa_da_teu.md#树叶子𠫓下来怕打头)】`shv6 ih8 zz teh7 ha6 lae pa5 da3 teu2` <sup>[东台]</sup> 𠫓下来即掉下来，形容有的人过分胆小怕事；这人谨小慎微，简直是～。  
 1. 【[树棵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_ku.md#树棵)】`shv6 ku1` <sup>[如皋]</sup> 柱子。  
