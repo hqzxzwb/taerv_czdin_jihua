@@ -1,4 +1,4 @@
 # 缩头儿炮
-shoh7 teu2 r po5
+soh7 teu2 r po5
 > 如皋方言词典
 - 贬指短颈之人或物。
