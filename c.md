@@ -453,10 +453,6 @@
 1. 【[差脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_jiah.md#差脚)】`chae1 jiah7` <sup>[兴化]</sup> 船家装货谓“装差”，载重量谓～：～大；～小。  
 1. 【[差人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_ren.md#差人)】`chae1 ren` <sup>[如皋]</sup> 衙役。  
 1. 【[差人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_ren.md#差人)】`chae1 ren2` <sup>[如东]</sup> 旧社会在衙门里当差的人。  
-1. 【[柴笆门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_ba_men.md#柴笆门)】`chae2 ba men2` <sup>[兴化]</sup> ① 用柴笆扎成的简陋的门。 ② （借）指贫家小户：她是走～出来的。  
-1. 【[柴笆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_ba.md#柴笆)】`chae2 ba1` <sup>[兴化]</sup> 用芦柴编的篱笆。  
-1. 【[柴草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_co.md#柴草)】`chae2 co3` <sup>[兴化]</sup> 整齐成捆的芦苇茎叶。  
-1. 【[柴骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_gueh.md#柴骨)】`chae2 gueh7` <sup>[兴化]</sup> ① 消瘦。 ② 由于骨骼小而显瘦：他生得～。  
 1. 【[䜺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_r.md#䜺<sub>儿</sub>)】`chae3 r` <small>/t͡sʰɛ˞3/<sup>如皋</sup>, /t͡sʰe3 ɚ/<sup>泰县</sup></small> ① 杂粮磨成的粒度较小的粉粒<sup>\[如皋\]</sup>：玉米～、大麦～。䜺≠糁。见《现代汉语词典》。<sup>\[如皋\]</sup> ② 元麦、大麦、玉米等谷物经过碾磨，变成碎粒儿，这种粮食叫䜺儿。也叫䜺子。<sup>\[如东\]</sup> ③ 碾碎了的豆类、玉米或其他杂粮。也叫“䜺子”。<sup>\[东台\]</sup> ④ 大元麦磨成的粉。<sup>\[泰县\]</sup>  
 1. 【[䜺<sub>儿</sub>粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_r_zhoh.md#䜺<sub>儿</sub>粥)】`chae3 r zhoh7` <small>/t͡sʰɛ˞3 t͡sɔʔ7/<sup>如皋</sup></small> ① 用䜺儿煮的粥。又因谷物不同而异称玉米～、元麦～。<sup>\[如皋\]</sup> ② 元麦、大麦或玉米䜺儿煮成的粥，黏韧而香醇，营养丰富。<sup>\[如东\]</sup>  
 1. 【[䜺<sub>儿</sub>粥没得血，这边𬊯那边喝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_r_zhoh_meh.md#䜺<sub>儿</sub>粥没得血，这边𬊯那边喝)】`chae3 r zhoh7 meh8 deh7 xiuh7 zha5 bin1 duh7 lu5 bin1 huh7` <sup>[东台]</sup> 玉米䜺儿粥可以一边煮一边吃。  

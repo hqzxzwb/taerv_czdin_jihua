@@ -2272,7 +2272,6 @@
 1. 【[芦笆根](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_ba_gen.md#芦笆根)】`lv2 ba1 gen1` <sup>[如皋]</sup> 芦苇的地下嫩茎，药用。夏天常用来泡茶，清凉解暑。  
 1. 【[芦笆障](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_ba_zhan.md#芦笆障)】`lv2 ba1 zhan5` <sup>[如皋]</sup> 用芦柴茎编成的板状物，作建材。  
 1. 【[芦芭嶂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_ba_zhan.md#芦芭嶂)】`lv2 ba1 zhan5` <sup>[如东]</sup> 芦苇编成的长方形的建筑材料。  
-1. 【[芦柴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_chae.md#芦柴)】`lv2 chae2` <sup>[兴化]</sup> ① 芦苇。 ② 苇秆，一般的作燃料，其中整齐、挺直的可用来编织芦䉬、窝折，或打柴笆等。  
 1. 【[芦呆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_dae_zz.md#芦呆子)】`lv2 dae1 zz` <sup>[兴化]</sup> 兴化芦洲特产西瓜品种，个大、皮厚、迟熟，肉质酥甜。立秋前后上市。  
 1. 【[芦䉬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_fei.md#芦䉬)】`lv2 fei5` <small>/lu2 fəi5/<sup>兴化</sup>, /lu2 fei5/<sup>如皋</sup></small> ① 芦席，用芦苇篾或高粱秆篾编织而成，方形或长方形，用来铺垫或苫盖物资。<sup>\[如东\]</sup> ② 芦席。用芦柴篾编成。<sup>\[如皋\]</sup> ③ 用芦篾编成的席子。䉬，《广韵·废韵》方肺切<sup>\[兴化\]</sup>：芦䉬。<sup>\[兴化\]</sup> ④ 用芦苇编成的方形席子。<sup>\[泰州\]</sup>  
 1. 【[芦根](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_gen.md#芦根)】`lv2 gen1` <sup>[如东]</sup> 禾本科植物芦苇根茎。  
@@ -2289,7 +2288,7 @@
 1. 【[芦芽珠<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_nga_zhv_r.md#芦芽珠<sub>儿</sub>)】`lv2 nga2 zhv1 r` <sup>[如东]</sup> 芦苇刚出土的嫩芽，尖端色红，似珠。  
 1. 【[芦席爿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_qieh_paen_r.md#芦席爿<sub>儿</sub>)】`lv2 qieh8 paen2 r` <sup>[泰县]</sup> 破旧的芦苇。  
 1. 【[芦席𤖭<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_qieh_paen_r.md#芦席𤖭<sub>儿</sub>)】`lv2 qieh8 paen2 r` <sup>[如东]</sup> 破旧的芦䉬。  
-1. 【[芦柴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_shae.md#芦柴)】`lv2 shae2` <small>/lu2 sɛ2/<sup>如皋</sup></small> ① 芦苇 ② 芦苇。岸草。青叶可裹粽子。老茎供编织、造纸。<sup>\[如皋\]</sup> ③ 芦苇。叶子可包粽子，茎秆可做障笆、帘子，劈成柴篾子可用于编织。茎空，有芦膜，吹笛子用其贴住一孔。<sup>\[东台\]</sup> ④ 芦苇。<sup>\[泰州\]</sup>  
+1. 【[芦柴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_shae.md#芦柴)】`lv2 shae2` <small>/lu2 t͡sʰɛ2/<sup>兴化</sup>, /lu2 sɛ2/<sup>如皋</sup></small> ① 芦苇 ② 芦苇<sup>\[泰州\]</sup><sup>\[兴化\]</sup>\[东台：叶子可包粽子，茎秆可做障笆、帘子，劈成柴篾子可用于编织。茎空，有芦膜，吹笛子用其贴住一孔。\]\[如皋：岸草。青叶可裹粽子。老茎供编织、造纸。\] ③ 苇秆，一般的作燃料，其中整齐、挺直的可用来编织芦䉬、窝折，或打柴笆等。<sup>\[兴化\]</sup>  
 1. 【[芦柴棒<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_shae_pan_r.md#芦柴棒<sub>儿</sub>)】`lv2 shae2 pan6 r` <sup>[如东]</sup> 芦苇茎。  
 1. 【[芦粟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_soh.md#芦粟)】`lv2 soh7` <small>/lu2 sɔʔ7/<sup>兴化</sup>, /nu2 sɔʔ7/<sup>泰县</sup></small> ① 高粱。<sup>\[兴化\]</sup> ② 高粱。<sup>\[泰县\]</sup>  
 1. 【[芦滩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_taen.md#芦滩)】`lv2 taen1` <sup>[如皋]</sup> 江海边长芦苇的草滩。  

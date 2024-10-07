@@ -450,7 +450,7 @@
 1. 【[膜膜<sub>儿</sub>𣻏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_mah_r_xio.md#膜膜<sub>儿</sub>𣻏)】`mah8 mah8 r xio1` <sup>[如东]</sup> 形容很薄很薄：这张纸～。  
 1. 【[膜𤖭<sub>儿</sub>冻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_paen_r_don.md#膜𤖭<sub>儿</sub>冻)】`mah8 paen2 r don5` <sup>[如皋]</sup> 薄冰。  
 1. 【[膜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_r.md#膜<sub>儿</sub>)】`mah8 r` <sup>[兴化]</sup> 熟豆浆表面结的薄膜，用苇杆揭下晾干后供食用。也称“豆腐皮”。  
-1. 【[膜<sub>儿</sub>柴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_r_chae.md#膜<sub>儿</sub>柴)】`mah8 r chae2` <sup>[兴化]</sup> 揭豆腐皮用的芦柴，多次使用后叠加而成，似腐竹。  
+1. 【[膜<sub>儿</sub>柴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_r_shae.md#膜<sub>儿</sub>柴)】`mah8 r shae2` <sup>[兴化]</sup> 揭豆腐皮用的芦柴，多次使用后叠加而成，似腐竹。  
 1. 【[膜衫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_shaen_zz.md#膜衫子)】`mah8 shaen1 zz` <sup>[兴化]</sup> 汗衫。  
 1. 【[膜纸<sub>儿</sub>𣻏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_zhr_r_xio.md#膜纸<sub>儿</sub>𣻏)】`mah8 zhr3 r xio1` <sup>[如皋]</sup> 状厚度很小，像竹膜、仿纸那样薄。  
 1. 【[膜子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_zz.md#膜子)】`mah8 zz` <small>/maʔ8 t͡sɿ/<sup>兴化</sup></small> ① 像薄膜一样的东西<sup>\[兴化\]</sup>：粥～<sup>\[兴化\]</sup>｜塑料～<sup>\[兴化\]</sup>｜脂油～。<sup>\[兴化\]</sup> ② 竹子、芦苇之类植物内壁表层薄皮，用来粘在笛孔上，吹的时候振动发声。<sup>\[泰州\]</sup>  

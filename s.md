@@ -544,6 +544,10 @@
 1. 【[筛子做锅盖——块块漏气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_zz_zu_gu_gae_kuae_kuae_leu_qi.md#筛子做锅盖——块块漏气)】`shae1 zz zu5 gu1 gae5 kuae5 kuae5 leu6 qi5` <sup>[东台]</sup>   
 1. 【[啥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae.md#啥)】`shae2` <sup>[东台]</sup> 什么。这是东台溱东一带的说法：那是～杲子？  
 1. 【[柴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae.md#柴)】`shae2` <small>/sɛ2/<sup>如皋</sup></small> ① 芦苇。<sup>\[如皋\]</sup> ② 岸草总名，包括<sup>\[如皋\]</sup>：芦苇、红草、江芦（芦竹）、苮棵、乌蓲（荻）、芒棵等。又特指芦苇。<sup>\[如皋\]</sup>  
+1. 【[柴笆门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_ba_men.md#柴笆门)】`shae2 ba men2` <sup>[兴化]</sup> ① 用柴笆扎成的简陋的门。 ② （借）指贫家小户：她是走～出来的。  
+1. 【[柴笆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_ba.md#柴笆)】`shae2 ba1` <sup>[兴化]</sup> 用芦柴编的篱笆。  
+1. 【[柴草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_co.md#柴草)】`shae2 co3` <sup>[兴化]</sup> 整齐成捆的芦苇茎叶。  
+1. 【[柴骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_gueh.md#柴骨)】`shae2 gueh7` <sup>[兴化]</sup> ① 消瘦。 ② 由于骨骼小而显瘦：他生得～。  
 1. 【[柴油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_ieu.md#柴油)】`shae2 ieu2` <sup>[如东]</sup> 从石油中分馏出来的做燃料的轻油，挥发性比润滑油高，比煤油低。  
 1. 【[柴米夫妻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_mi_fv_qi.md#柴米夫妻)】`shae2 mi3 fv1 qi1` <sup>[如皋]</sup> 平静生活，白头到老的夫妻，患难夫妻。  
 1. 【[柴米油盐酱醋茶，开门七件事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_mi_ieu_in_jian_cv_cha_kae_men_qieh_qin_shr.md#柴米油盐酱醋茶，开门七件事)】`shae2 mi3 ieu2 in2 jian5 cv5 cha2 kae1 men2 qieh7 qin6 shr6` <sup>[如皋]</sup> 日常生活必须物资。  

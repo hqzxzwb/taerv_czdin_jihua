@@ -323,8 +323,8 @@
 1. 【[㧏肩膊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_jin_bah.md#㧏肩膊)】`gan1 jin1 bah` <sup>[如皋]</sup> ① 肩头抬起。 ② 高肩（缩头）畸型。  
 1. 【[刚刚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_gan.md#刚刚)】`gan1 gan1` <small>/kaŋ1 kaŋ1/<sup>兴化</sup></small> ① 正巧，恰好<sup>\[东台\]</sup>：酒瓶里剩的酒不多不少，～一杯。<sup>\[东台\]</sup> ② 不久以前<sup>\[东台\]</sup>：他～调来。<sup>\[东台\]</sup> ③ 刚才<sup>\[兴化\]</sup>：他～起来，还不曾吃早饭哎！<sup>\[兴化\]</sup>  
 1. 【[刚巧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_qio.md#刚巧)】`gan1 qio3` <sup>[如皋]</sup> 正好。  
-1. 【[江芦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_lv.md#江芦)】`gan1 lv2, gan1 lv2-3` <sup>[如皋]</sup> 芦苇的一种，传统用其篾编制粪箕，即“江芦粪箕”，耐用。  
-1. 【[江芦柴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_lv_chae.md#江芦柴)】`gan1 lv2 chae2` <sup>[兴化]</sup> 又称芦竹。一种株型较大的芦苇。  
+1. 【[江芦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_lv.md#江芦)】`gan1 lv2, gan1 lv3` <sup>[如皋]</sup> 芦苇的一种，传统用其篾编制粪箕，即“江芦粪箕”，耐用。  
+1. 【[江芦柴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_lv_shae.md#江芦柴)】`gan1 lv2 shae2` <sup>[兴化]</sup> 又称芦竹。一种株型较大的芦苇。  
 1. 【[纲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_zz.md#纲子)】`gan1 zz` <sup>[如东]</sup> 网口上的一根粗绳，叫纲子。简称纲。  
 1. 【[缸塴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_bon_r.md#缸塴<sub>儿</sub>)】`gan1 bon5 r` <sup>[如皋]</sup> 缸与邻物相夹的空间。  
 1. 【[缸脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_jiah_r.md#缸脚<sub>儿</sub>)】`gan1 jiah7 r` <sup>[如皋]</sup> ① 水缸底的沉淀物 ② 缸底的余水、余物。  
