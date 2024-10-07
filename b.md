@@ -1115,8 +1115,7 @@
 1. 【[柄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_zz.md#柄子)】`bien5 zz` <sup>[兴化]</sup> 器物的把儿：刀～；锄头～。  
 1. 【[别起来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bih_qi_lae.md#别起来)】`bih qi3 lae` <sup>[如皋]</sup> ① 用别针、图钉固定。 ② 紧贴着系挂：把钢笔望衭头上～。  
 1. 【[别](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bih.md#别)】`bih7` <small>/piɪʔ7/<sup>兴化</sup></small> ① 转动、扭转<sup>\[兴化\]</sup>：她听到身后有呼吸声，连忙～过头去。<sup>\[兴化\]</sup>｜他这种脾气一时～不过来。<sup>\[兴化\]</sup> ② （泰州词典作𢴩bieh7）<sup>\[泰州\]</sup> ③ 将物插在某处使之固定<sup>\[泰州\]</sup>：他上头袋子上～咖两支钢笔，就像学问大煞咖。<sup>\[泰州\]</sup> ④ 用针将一物附着在另一物上<sup>\[泰州\]</sup>：你把大红花同他弄针～咖好啊。<sup>\[泰州\]</sup>  
-1. 【[别侉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bih_kua.md#别侉)】`bih7 kua3` <sup>[兴化]</sup> 学说北方口音：明明是当地人，还～吓人。‖“别”也作“撇”。  
-1. 【[别侉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bih_kua.md#别侉)】`bih7 kua3` 有意显出自己是用北方方音说话：他出去两年，现在说话别起侉来啊。  
+1. 【[别侉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bih_kua.md#别侉)】`bih7 kua3` <small>/piɪʔ7 kʰua3/<sup>兴化</sup></small> 学说北方口音，有意显出自己是用北方方音说话<sup>\[泰州\]</sup>\[兴化：“别”也作“撇”。\]：明明是当地人，还～吓人。<sup>\[兴化\]</sup>｜他出去两年，现在说话别起侉来啊。<sup>\[泰州\]</sup>  
 1. 【[别里别调](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bih_lii_bih_dio.md#别里别调)】`bih7 lii bih7 dio5` <sup>[东台]</sup> 说话、办事不按常规，使人感到别扭，不习惯。  
 1. 【[别（彆）气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bih_qi.md#别（彆）气)】`bih7 qi5` <sup>[如皋]</sup> 赌气、负气。  
 1. 【[别气/憋气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bih_qi.md#别气/憋气)】`bih7 qi5` <sup>[兴化]</sup> 负气：她跟妈妈～，睏吖床上不肯起来。｜“小的妻子向来与小的争竞口舌，～归家的。丈人欺心，藏过了……”（《初刻》二六）  
