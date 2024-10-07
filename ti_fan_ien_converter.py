@@ -311,6 +311,10 @@ def 兴化(cz, pien_ien):
     shen = ''
     gae = 'u'
 
+  # 特字
+  if cz == '柴' and shen + gae + yen == 'sae':
+    shen = 'c'
+
   if gae == 'i' and yen == 'en':
     result = tae_rv_ipa.tae_rv_ipa_shen[shen] + 'in'
   elif gae == 'y' and yen == 'en':
