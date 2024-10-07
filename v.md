@@ -608,11 +608,11 @@
 1. 【[万事通](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_shr_ton.md#万事通)】`vaen6 shr6 ton1` <sup>[东台]</sup> ［喻］无所不晓的人。  
 1. 【[万想不到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_xian_beh_do.md#万想不到)】`vaen6 xian3 beh7 do5` <sup>[兴化]</sup> 绝对没有想到：～那个六角臻臻的大人物竟然是个五毒俱全的大坏蛋。｜～半空中会撞出小稳子的一番言语……（《广陵潮》九四）  
 1. 【[万子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_zz.md#万子)】`vaen6 zz` <sup>[泰县]</sup> 一畦叫一万。  
+1. 【[□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_jien.md#□□)】`vah7 jien1` <small>/uɑʔ7 t͡ɕiŋ1/<sup>泰兴</sup></small> 脸颊<sup>\[泰兴\]</sup>  
 1. 【[凹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah.md#凹)】`vah7` <small>/uaʔ7/<sup>兴化</sup></small> ① 凹陷 ② 内陷或下陷<sup>\[兴化\]</sup>：～进去<sup>\[兴化\]</sup>｜前头有个～子。<sup>\[兴化\]</sup>｜他家房子～咖里头。《广韵·洽韵》乌洽切<sup>\[兴化\]</sup>｜“～，下也”。<sup>\[兴化\]</sup>  
 1. 【[凹沰子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_dah_zz.md#凹沰子)】`vah7 dah7 zz` <sup>[兴化]</sup> 偏僻的地方：他家住在巷子东头～里。  
 1. 【[凹档<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_dan_r.md#凹档<sub>儿</sub>)】`vah7 dan5 r` <sup>[泰县]</sup> 凹进去的地方。  
 1. 【[凹咖肚里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_ga_tv_lii.md#凹咖肚里)】`vah7 ga tv6 lii` <sup>[如皋]</sup> 凹在里面。  
-1. 【[凹□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_jien.md#凹□)】`vah7 jien1` <sup>[泰兴]</sup> 脸颊  
 1. 【[凹水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_shuei.md#凹水)】`vah7 shuei3` <sup>[如皋]</sup> 低凹处积水。如皋词典作“沃水”。  
 1. 【[凹塘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_tan.md#凹塘)】`vah7 tan2` <sup>[兴化]</sup> ① 低洼地：那个鱼池是在～上浚深加大的。 ② 小的池塘。 ③ （引）比较贫困，落后的地方。‖通读作va5。  
 1. 【[凹塘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_tan_r.md#凹塘<sub>儿</sub>)】`vah7 tan2 r` <small>/ʋaʔ7 tʰa˞2/<sup>如皋</sup>, /uɑʔ7 tʰɑŋ2 ɚ/<sup>泰县</sup></small> ① 小坑。<sup>\[如皋\]</sup> ② 小凹点。<sup>\[如皋\]</sup> ③ 很浅的小塘。<sup>\[泰县\]</sup>  
