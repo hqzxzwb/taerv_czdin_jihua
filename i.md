@@ -179,7 +179,7 @@
 1. 【[雅趣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_qy.md#雅趣)】`ia2 qy` <sup>[兴化]</sup> 娇气：你真～，一点儿苦不能吃。  
 1. 【[雅序](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_xy.md#雅序)】`ia2 xy` <sup>[东台]</sup> ① （褒）清爽、整洁、高雅。 ② （贬）过分讲究衣着、起居，难伺候。（这里“雅”读阳平）  
 1. 【[痒□<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_xia_r.md#痒□<sub>儿</sub>)】`ia3 xia r` <sup>[如皋]</sup> 痒丝丝而有难奈的感觉。  
-1. 【[野](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia.md#野)】`ia3` <small>/ia3/<sup>如皋</sup></small> ① 偏题<sup>\[如皋\]</sup>：他说咖～掉啊，不曾对到题目。<sup>\[如皋\]</sup> ② 疏远、不融洽<sup>\[如皋\]</sup>：两个人的关系越处越～。<sup>\[如皋\]</sup> ③ 不驯服。<sup>\[如东\]</sup>：这头牛～。<sup>\[如东\]</sup> ④ 规定的圆口拉宽了或变形了。<sup>\[如东\]</sup>：衣领子拉～啊。<sup>\[如东\]</sup> ⑤ 野外，自然生成的<sup>\[东台\]</sup>：～兔；<sup>\[东台\]</sup> ⑥ ［引］蛮不讲理<sup>\[东台\]</sup>：这人说话太～；<sup>\[东台\]</sup> ⑦ ［动］在外面乱跑<sup>\[东台\]</sup>：这个伢儿不晓得～啊哪块去啊。<sup>\[东台\]</sup> ⑧ 悄悄离开<sup>\[泰州\]</sup>：马上就要开饭，他人又不晓得～啊哪块去啊。<sup>\[泰州\]</sup>｜下午的会开的半里半作的，老李人就～掉唻。<sup>\[泰州\]</sup>  
+1. 【[野](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia.md#野)】`ia3` <small>/ia3/<sup>如皋</sup></small> ① 偏题<sup>\[如皋\]</sup>：他说咖～掉啊，不曾对到题目。<sup>\[如皋\]</sup> ② 疏远、不融洽<sup>\[如皋\]</sup>：两个人的关系越处越～。<sup>\[如皋\]</sup> ③ 不驯服。<sup>\[如东\]</sup>：这头牛～。<sup>\[如东\]</sup> ④ 规定的圆口拉宽了或变形了。<sup>\[如东\]</sup>：衣领子拉～啊。<sup>\[如东\]</sup> ⑤ 野外，自然生成的<sup>\[东台\]</sup>：～兔<sup>\[东台\]</sup> ⑥ ［引］蛮不讲理<sup>\[东台\]</sup>：这人说话太～；<sup>\[东台\]</sup> ⑦ ［动］在外面乱跑<sup>\[东台\]</sup>：这个伢儿不晓得～啊哪块去啊。<sup>\[东台\]</sup> ⑧ 悄悄离开<sup>\[泰州\]</sup>：马上就要开饭，他人又不晓得～啊哪块去啊。<sup>\[泰州\]</sup>｜下午的会开的半里半作的，老李人就～掉唻。<sup>\[泰州\]</sup>  
 1. 【[野啊汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_a_tan.md#野啊汤)】`ia3 a tan1` <sup>[如皋]</sup> 下锅汤放得过多。  
 1. 【[野啊心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_a_xien.md#野啊心)】`ia3 a xien1` <sup>[东台]</sup> 心神不定，兴趣外移。  
 1. 【[野不收](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_beh_sheu.md#野不收)】`ia3 beh7 sheu1` <sup>[如东]</sup> 性情野，收养不住：我再待她好，她都要往外跑，真是一个～。  
@@ -230,7 +230,7 @@
 1. 【[亚麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_ma.md#亚麻)】`ia5 ma2` <sup>[如东]</sup> 亚麻科植物亚麻，又名胡麻，一年生草本。高约90厘米。茎直立，基部稍木质化，分枝少。叶互生，无柄，叶片线形，全缘。花多数，蓝白或白色，生于分枝顶端及上部叶腋内。蒴果球形。种子卵形，棕色。栽培。  
 1. 【[讶口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_keu.md#讶口)】`ia5 keu3` <sup>[兴化]</sup> 口吻：这种～真叫人受不了。  
 1. 【[呀子唔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_zz_v.md#呀子唔)】`ia6 zz v3` <sup>[兴化]</sup> 形容随随便便，不负责任：他是一头～，说的话当不得真。也说“呀呀唔。”  
-1. 【[夜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia.md#夜)】`ia6` <small>/ia1/<sup>如皋</sup></small> ① 名词<sup>\[如皋\]</sup>：外头～啊。<sup>\[如皋\]</sup> ② 动词<sup>\[如皋\]</sup>：外头～得早。<sup>\[如皋\]</sup> ③ 春节之前十天，每一天都称为“夜”，如腊月二十称“二十夜”<sup>\[泰州\]</sup>：我俫工地上二十七～就放假唻。<sup>\[泰州\]</sup>  
+1. 【[夜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia.md#夜)】`ia6` <small>/ia1/<sup>如皋</sup>, /iɑ1/<sup>泰兴</sup></small> ① 入夜<sup>\[泰兴\]</sup><sup>\[如皋\]</sup>：外头～啊。<sup>\[如皋\]</sup>｜外头～得早。<sup>\[如皋\]</sup> ② 春节之前十天，每一天都称为“夜”，如腊月二十称“二十夜”<sup>\[泰兴\]</sup><sup>\[泰州\]</sup>：我俫工地上二十七～就放假唻。<sup>\[泰州\]</sup>  
 1. 【[夜啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_a.md#夜啊)】`ia6 a` <sup>[如皋]</sup> 天暗了，天黑了。  
 1. 【[夜邦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_ban.md#夜邦)】`ia6 ban1` <sup>[泰县]</sup> 夜里开的固定航线的客船。  
 1. 【[夜不收](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_beh_sheu.md#夜不收)】`ia6 beh sheu1` <sup>[泰县]</sup> 深夜在外游荡的人：你这个～，玩到现在才回来。  
