@@ -193,6 +193,10 @@ def 泰县(cz, pien_ien):
   elif shen == 'r' and yen == 'eh': # reh -> ryeh
     gae = 'y'
 
+  # 特字
+  if cz == '柴' and shen + gae + yen == 'sae':
+    shen = 'c'
+
   if gae == 'i' and yen == 'en':
     result = tae_rv_ipa.tae_rv_ipa_shen[shen] + 'iŋ'
   else:
