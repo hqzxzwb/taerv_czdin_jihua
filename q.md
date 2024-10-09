@@ -259,7 +259,7 @@
 1. 【[强住咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_chuh_ga.md#强住咖)】`qia2 chuh ga` <sup>[如皋]</sup> 强制着、逼迫着：小家伙不用心，要～他做作业。  
 1. 【[强意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_i.md#强意)】`qia2 i5` <sup>[如皋]</sup> 在意、留神、注意：你哿～他来啊？不曾～。不～他死得这吖早。  
 1. 【[强如](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_rv.md#强如)】`qia2 rv` <sup>[如皋]</sup> 见“煞如”。  
-1. 【[强如](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_rv.md#强如)】`qia2 rv2` <small>/t͡ɕʰia2 ɻu2/<sup>如皋</sup>, /t͡ɕʰia2 ɻu2/<sup>泰县</sup></small> ① 作为是、假定是、等于是<sup>\[如皋\]</sup>：把伢儿吃吧，～我吃咖。<sup>\[如皋\]</sup> ② 就当，好像：这事你不要老计较，～不晓得。<sup>\[泰县\]</sup>  
+1. 【[强如](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_rv.md#强如)】`qia2 rv2` <small>/t͡ɕʰia2 ɻu2/<sup>如皋</sup>, /t͡ɕʰia2 ɻu2/<sup>泰县</sup></small> ① 作为是、假定是、等于是<sup>\[如皋\]</sup>：把伢儿吃吧，～我吃咖。<sup>\[如皋\]</sup> ② 就当，好像<sup>\[泰县\]</sup>：这事你不要老计较，～不晓得。<sup>\[泰县\]</sup> ③ 权且当作，退一步就算是的意思<sup>\[东台\]</sup>：今朝多走啊几十里冤枉路，～坐车旅游吧。<sup>\[东台\]</sup>  
 1. 【[斜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia.md#斜)】`qia2` <sup>[兴化]</sup> 蛮横无理：这个小伙～得很，无事别惹他。  
 1. 【[斜巴眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_ba_ngaen.md#斜巴眼)】`qia2 ba ngaen3` <sup>[兴化]</sup> 患斜视的人。  
 1. 【[斜凿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_cah.md#斜凿)】`qia2 cah8` <sup>[如东]</sup> 农具。前端金属制成，六七寸长，口宽而锋利，成一定斜角。装有木柄。用以除草、掘土等。木工工具。铁制，口角一边大一边小，用于铲平木板表面。  
@@ -431,7 +431,6 @@
 1. 【[强扭的瓜不甜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_nieu_dii_gua_beh_tin.md#强扭的瓜不甜)】`qian2 nieu3 dii gua1 beh7 tin2` <sup>[东台]</sup> 强行撮合双方关系都不会有好的结果。  
 1. 【[强如](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_rv.md#强如)】`qian2 rv` <small>/t͡ɕʰiaŋ2 lu/<sup>兴化</sup></small> ① 当做<sup>\[兴化\]</sup>：你做你的，我～不曾看见。<sup>\[兴化\]</sup> ② 胜于<sup>\[兴化\]</sup>：“……再者，家里也无什么事，你到长辛店当铺内管点事，～闲着。”（《施公案》一四七）也作“强于”。<sup>\[兴化\]</sup>｜谚曰：淡笑强于哭。<sup>\[兴化\]</sup> ③ 当作，视作<sup>\[泰州\]</sup>：你无论如何都要帮他这个忙，就～帮我的忙。<sup>\[泰州\]</sup>｜你就不要再提这种不讲理的新妇唻，我就～没得这个新妇的。<sup>\[泰州\]</sup>  
 1. 【[强如](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_rv.md#强如)】`qian2 rv2, qia2 rv2` <sup>[如皋]</sup> 如同：伢儿吃咖～我吃咖。  
-1. 【[强如](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_rv.md#强如)】`qian2-qia2 rv2` <sup>[东台]</sup> ［阳转阴］权且当作，退一步就算是的意思：今朝多走啊几十里冤枉路，～坐车旅游吧。  
 1. 【[强头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_teu.md#强头)】`qian2 teu` <small>/t͡ɕʰiã2 tʰei/<sup>如皋</sup>, /t͡ɕʰiɑŋ2 tʰɤɯ/<sup>泰县</sup></small> 强盗。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：没得个～活八十。<sup>\[东台\]</sup>｜这些钱是我俫的血汗钱，不是做～抢得来的。<sup>\[泰州\]</sup>  
 1. 【[强讨恶化](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_to_ngah_hua.md#强讨恶化)】`qian2 to3 ngah7 hua5` <small>/t͡ɕʰiaŋ2 tʰɔ3 aʔ7 xua5/<sup>兴化</sup>, /t͡ɕʰiɑŋ2 tʰɔ3 ɑʔ7 xua5/<sup>泰县</sup></small> ① 强行要求别人施舍财物。<sup>\[如东\]</sup> ② 强要别人钱财的乞丐。也作“强告化”。<sup>\[兴化\]</sup> ③ 强行要别人施舍钱物：那条船里有个～的家伙。<sup>\[泰县\]</sup>  
 1. 【[樯力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_lieh.md#樯力)】`qian2 lieh8` <sup>[如东]</sup> 帆船上牵篷的绳索。  
