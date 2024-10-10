@@ -202,6 +202,7 @@
 1. 【[气喖喖的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_kv_kv_dii.md#气喖喖的)】`qi5 kv2 kv2 dii` <sup>[如皋]</sup> 很生气的样子。  
 1. 【[气量](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_lian.md#气量)】`qi5 lian` <sup>[东台]</sup> 气魄，涵量。  
 1. 【[气量](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_lian.md#气量)】`qi5 lian6` <sup>[如东]</sup> 肚量，修养：这个人有～。  
+1. 【[气力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_lieh.md#气力)】`qi5 lieh` <small>/t͡ɕʰʝ5 liʔ/<sup>泰兴</sup></small> 疲惫<sup>\[泰兴\]</sup>  
 1. 【[气闷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_men.md#气闷)】`qi5 men6` <sup>[兴化]</sup> 因气压低或受窘迫而感到压抑：（胡镜孙）一场没趣，愈加～。（《官场现形记》二一）。  
 1. 【[气冒𪸺烟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_mo_ngan_in.md#气冒𪸺烟)】`qi5 mo6 ngan2 in1` <sup>[如皋]</sup> 烟气、水蒸气弥漫。  
 1. 【[气目淡扬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_moh_taen_ian.md#气目淡扬)】`qi5 moh taen6 ian2` <sup>[泰县]</sup> 脸色好：他最近身体不丑，脸上～的。  
