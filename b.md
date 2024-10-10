@@ -27,7 +27,6 @@
 1. 【[巴络子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_lah_zz.md#巴络子)】`ba1 lah8 zz` <sup>[如东]</sup> 一种建筑材料。用芦苇穿在绳索中，编成网络，罩在茅屋屋面上，固定茅草。这种材料叫做巴络子。  
 1. 【[巴<sub>儿</sub>臭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_r_cheu.md#巴<sub>儿</sub>臭)】`ba1 r cheu5` <sup>[泰县]</sup> 吝啬的人。  
 1. 【[巴望](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_van.md#巴望)】`ba1 van6` <small>/pa1 uaŋ6/<sup>兴化</sup></small> 盼望、希望<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：老两口～儿子早点儿成亲。<sup>\[兴化\]</sup>｜“天下做母亲的哪有不～子女好的……”（似国怀《日月之梦·情愫》）<sup>\[兴化\]</sup>｜家里人哪个不～你早点儿走南京调家来。<sup>\[泰州\]</sup>  
-1. 【[巴心割股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_xien_guh_gv.md#巴心割股)】`ba1 xien1 guh7 gv3` <sup>[兴化]</sup> （喻）用尽精力，费尽心思：我～的培养他成人，不曾想他这吖没良心。  
 1. 【[巴星望月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_xien_van_iuh.md#巴星望月)】`ba1 xien1 van6 iuh8` <sup>[东台]</sup> ［喻］像盼星星、盼月亮一样热切地巴望。（原文记音“月iuh7”）  
 1. 【[巴掌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_zhan.md#巴掌)】`ba1 zhan3` <sup>[如东]</sup> 手掌。  
 1. 【[巴掌心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_zhan_xien.md#巴掌心)】`ba1 zhan3 xien1` <small>/pa1 t͡saŋ3 ɕin1/<sup>兴化</sup>, /pɑ1 t͡sɑŋ ɕiŋ1/<sup>泰兴</sup>, /pa1 t͡sɑŋ3 ɕiŋ1/<sup>泰县</sup></small> 手掌心<sup>\[兴化\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>：孙悟空一千个跟头翻不出如来佛的～。<sup>\[兴化\]</sup>  
@@ -55,6 +54,7 @@
 1. 【[扒田岸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_tin_un_zz.md#扒田岸子)】`ba1 tin2 un6 zz` <sup>[东台]</sup> 是农民的自谦词，也是其他人对农民的蔑称。  
 1. 【[扒虾<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_xia_r.md#扒虾<sub>儿</sub>)】`ba1 xia1 r` <sup>[如东]</sup> 捕虾的一种方法。虾网伸出去，投人水中往回拉，把虾儿捞起来。比喻往回捞：你已经拿出去啊，怎吖～？  
 1. 【[扒心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_xien.md#扒心)】`ba1 xien1` <sup>[兴化]</sup> ① 极言小孩顽皮：细～子。｜他～的厌。 ② 骂人乱翻乱检：你在家里～，寻甚的骨头屑子啊？  
+1. 【[扒心割股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_xien_guh_gv.md#扒心割股)】`ba1 xien1 guh7 gv3` <sup>[兴化]</sup> （喻）用尽精力，费尽心思：我～的培养他成人，不曾想他这吖没良心。  
 1. 【[疤疤锔锔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ba_jioh_jioh.md#疤疤锔锔)】`ba1 ba1 jioh7 jioh7` <sup>[兴化]</sup> ① 形容器物残破，上有疤痕和钉补的地方：这口缸～的，不能养金鱼。 ② （引）形容人面部疤痕、痤疮较多，皮肤缺少光泽。  
 1. 【[疤吊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_dio_zz.md#疤吊子)】`ba1 dio5 zz` <sup>[兴化]</sup> 谓眼皮上有疤的人。  
 1. 【[疤拉眼照镜子——自找难看](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_la_ngaen_zho_jien_zz_cz_zho_naen_kun.md#疤拉眼照镜子——自找难看)】`ba1 la1 ngaen3 zho5 jien5 zz cz6 zho3 naen2 kun5` <sup>[东台]</sup>   

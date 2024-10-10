@@ -2074,7 +2074,7 @@
 1. 【[钻眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zun_ngaen_r.md#钻眼<sub>儿</sub>)】`zun1 ngaen3 r` <sup>[如东]</sup> ① 追根求底：这件事不要～。 ② 钻空子：不能让他～。  
 1. 【[钻眼子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zun_ngaen_zz.md#钻眼子)】`zun1 ngaen3 zz` <sup>[东台]</sup> 想尽方法找关系，托门路：这件事要会～，才能办成。  
 1. 【[钻腮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zun_sae.md#钻腮)】`zun1 sae1` <small>/t͡sũ1 sɛ1/<sup>兴化</sup>, /t͡sʊ̃1 sɛ1/<sup>如皋</sup></small> ① 状食物租，有杂质，吃时易钻入腮帮中。<sup>\[如皋\]</sup> ② 状食物异味，刺激腮部。<sup>\[如皋\]</sup> ③ 食物粗糙，有杂质，吞食时，腮帮受刺激。<sup>\[如东\]</sup> ④ 食物粗糙多杂质，咀嚼时易钻入牙缝和腮帮中：鲤鱼子～。<sup>\[兴化\]</sup>  
-1. 【[钻山打洞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zun_shaen_da_ton.md#钻山打洞)】`zun1 shaen1 da3 ton6` <small>/t͡sʊ̃1 sẽ1 ta3 tʰɔŋ1/<sup>如皋</sup></small> ① 喻尽量设法打探消息。<sup>\[如皋\]</sup> ② ［喻］想各种办法找出路。也作“钻心挖窟”。<sup>\[东台\]</sup>  
+1. 【[钻山打洞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zun_shaen_da_ton.md#钻山打洞)】`zun1 shaen1 da3 ton6` <small>/t͡sʊ̃1 sẽ1 ta3 tʰɔŋ1/<sup>如皋</sup></small> 想尽办法（打探消息、寻找出路等等）<sup>\[如皋\]</sup>\[东台：也作“钻心挖窟”。\]  
 1. 【[钻心虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zun_xien_chon.md#钻心虫)】`zun1 xien1 chon2` <sup>[如皋]</sup> 甘蔗螟、玉米螟幼虫的统称，也叫蛀心虫。  
 1. 【[钻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zun.md#钻)】`zun5` <sup>[如东]</sup> 工具。分钻头、钻身两部分。钻头铁制，尖锐。钻身可以旋转，有的以人工为动力，有的以机械为动力。主要用以打眼。  
 1. 【[钻床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zun_chuan.md#钻床)】`zun5 chuan2` <sup>[如东]</sup> 在金属或其他材料的零件上加工圆孔的机床。工件不动，刀具一面旋转，一面推进。常用的有立式钻床旋臂钻床等。  
