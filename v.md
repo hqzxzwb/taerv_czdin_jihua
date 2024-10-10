@@ -693,8 +693,8 @@
 1. 【[黄猫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_mo_r.md#黄猫<sub>儿</sub>)】`van2 mo2 r` <small>/ʋã2 mɔ˞2/<sup>如皋</sup></small> ① 黄鼠狼。<sup>\[如皋\]</sup><sup>\[东台\]</sup> ② 条形无馅馒头。<sup>\[如皋\]</sup>  
 1. 【[黄猫<sub>儿</sub>给鸡拜年——没安好心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_mo_r_gei.md#黄猫<sub>儿</sub>给鸡拜年——没安好心)】`van2 mo2 r gei5 ji1 bae5 nin2 meh8 un1 ho3 xien1` <sup>[东台]</sup>   
 1. 【[黄猫<sub>儿</sub>𠞖吖鸡窠里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_mo_r_gon_nga_ji_ku_lii.md#黄猫<sub>儿</sub>𠞖吖鸡窠里)】`van2 mo2 r gon1 nga ji1 ku1 lii` <sup>[如皋]</sup> 喻害群之马。使大家不得安宁，且带来祸害。  
-1. 【[黄猫<sub>儿</sub>看鸡，越看越稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_mo_r_kun_ji_iuh_kun_iuh_xi.md#黄猫<sub>儿</sub>看鸡，越看越稀)】`van2 mo2 r kun1 ji1 iuh8 kun1 iuh8 xi1` <sup>[如皋]</sup> 吃得差不多了。  
 1. 【[黄猫<sub>儿</sub>看鸡——越看越稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_mo_r_kun.md#黄猫<sub>儿</sub>看鸡——越看越稀)】`van2 mo2 r kun1 ji1 iuh8 kun1 iuh8 xi1` <sup>[东台]</sup>   
+1. 【[黄猫<sub>儿</sub>看鸡，越看越稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_mo_r_kun_ji_iuh_kun_iuh_xi.md#黄猫<sub>儿</sub>看鸡，越看越稀)】`van2 mo2 r kun1 ji1 iuh8 kun1 iuh8 xi1` <sup>[如皋]</sup> 吃得差不多了。  
 1. 【[黄猫<sub>儿</sub>嗍咖血的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_mo_r_shuah.md#黄猫<sub>儿</sub>嗍咖血的)】`van2 mo2 r shuah7 ga xiuh7 dii` <sup>[如皋]</sup> 詈语。脸色焦黄或灰白，无血色的样子。  
 1. 【[黄猫<sub>儿</sub>专拣病鸡咬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_mo_r_zhun.md#黄猫<sub>儿</sub>专拣病鸡咬)】`van2 mo2 r zhun1 gaen3 pien6 ji1 ngo3` <sup>[东台]</sup> 喻指自身有弱点，敌人会乘虚而入。  
 1. 【[黄䱀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ngan.md#黄䱀)】`van2 ngan1` <sup>[如皋]</sup> 黄颡。  

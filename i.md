@@ -780,8 +780,8 @@
 1. 【[一伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_hu.md#一伙)】`ieh7 hu3` <sup>[泰兴]</sup> ① 一群，指若干人结合的群体：前头来了～人 ② 同伙，伙伴 ③ 一次，一回：再干上～，就完成任务了  
 1. 【[一晃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_huan.md#一晃)】`ieh7 huan5` <small>/iʔ7 xuɑŋ5/<sup>泰兴</sup></small> ① 形容时间过得很快。<sup>\[如东\]</sup>：～就十来天过去啊。<sup>\[如东\]</sup> ② 一闪。<sup>\[如东\]</sup>：眼前～就过去啊。<sup>\[如东\]</sup> ③ 形容时间过得很快。<sup>\[泰兴\]</sup>：～二十多年不见了，你还是箇们年轻。<sup>\[泰兴\]</sup>  
 1. 【[一忽<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_hueh_r.md#一忽<sub>儿</sub>)】`ieh7 hueh7 r` 一会儿<sup>\[东台\]</sup>：我开啊个夜车，早上才睡啊一～儿。<sup>\[东台\]</sup>  
-1. 【[一回生，两回熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_huei_shen_laen.md#一回生，两回熟)】`ieh7 huei2 shen1 laen3 huei2 shoh8` <sup>[泰兴]</sup> 客套话。指第一次相处很生疏，接触多了就会熟悉。  
 1. 【[一回生两回熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_huei_shen_laen_huei_shoh.md#一回生两回熟)】`ieh7 huei2 shen1 laen3 huei2 shoh8` <sup>[东台]</sup> 指与人打交道，第二次就是熟人了。  
+1. 【[一回生，两回熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_huei_shen_laen.md#一回生，两回熟)】`ieh7 huei2 shen1 laen3 huei2 shoh8` <sup>[泰兴]</sup> 客套话。指第一次相处很生疏，接触多了就会熟悉。  
 1. 【[一呼趟<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_hv_tan_r.md#一呼趟<sub>儿</sub>)】`ieh7 hv1 tan5 r` <sup>[如东]</sup> 总共：～有多少？  
 1. 【[一糊塌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_hv_taeh_r.md#一糊塌<sub>儿</sub>)】`ieh7 hv2 taeh7 r` <sup>[如东]</sup> 不分好坏，一起算进去：～都装吖进包里。  
 1. 【[一夜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_ia.md#一夜)】`ieh7 ia6` <sup>[如东]</sup> 从天黑至天明，称一夜。  

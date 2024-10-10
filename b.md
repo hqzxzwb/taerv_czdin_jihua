@@ -681,8 +681,8 @@
 1. 【[不内](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_nuei.md#不内)】`beh7 nuei6` <sup>[如东]</sup> 不内行：他做木工～。  
 1. 【[不男不女](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_nun_beh_ny.md#不男不女)】`beh7 nun2 beh7 ny3` <sup>[如东]</sup> 形容穿着打扮不上规矩。  
 1. 【[不内](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_ny.md#不内)】`beh7 ny6` <sup>[泰县]</sup> 不内行。  
-1. 【[不怕不识字，就怕不识事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_pa_beh_sheh_cz_qieu_pa_beh_sheh_shr.md#不怕不识字，就怕不识事)】`beh7 pa5 beh7 sheh7 cz6 qieu6 pa5 beh7 sheh7 shr6` <sup>[东台]</sup> 看清实际事物比书本知识更重要。  
 1. 【[不怕不识字，就怕不识事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_pa_beh_sheh.md#不怕不识字，就怕不识事)】`beh7 pa5 beh7 sheh7 cz6 qieu6 pa5 beh7 sheh7 shr6` <small>/pəʔ7 pʰɑ5 pəʔ7 səʔ7 t͡sʰɿ1 t͡ɕʰiɤɯ1 pʰɑ5 pəʔ7 səʔ7 sɿ1/<sup>泰兴</sup></small> 识事：懂得道理。强调明事理的重要性。<sup>\[泰兴\]</sup>  
+1. 【[不怕不识字，就怕不识事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_pa_beh_sheh_cz_qieu_pa_beh_sheh_shr.md#不怕不识字，就怕不识事)】`beh7 pa5 beh7 sheh7 cz6 qieu6 pa5 beh7 sheh7 shr6` <sup>[东台]</sup> 看清实际事物比书本知识更重要。  
 1. 【[不怕不识货，就怕货比货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_pa_beh_sheh.md#不怕不识货，就怕货比货)】`beh7 pa5 beh7 sheh7 hu5 qieu6 pa5 hu5 bi3 hu5` <small>/pəʔ7 pʰɑ5 pəʔ7 səʔ7 xɤɯ5 t͡ɕʰiɤɯ1 pʰɑ5 xɤɯ5 pʝ3 xɤɯ5/<sup>泰兴</sup></small> 有了比较，即可辨别优劣<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[不怕官，就怕管](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_pa_gun_qieu_pa_gun.md#不怕官，就怕管)】`beh7 pa5 gun1 qieu6 pa5 gun3` <sup>[东台]</sup> 直接管理者与被管理者利益最密切。  
 1. 【[不怕一万，就怕万一](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_pa_ieh_vaen.md#不怕一万，就怕万一)】`beh7 pa5 ieh7 vaen6 qieu6 pa5 vaen6 ieh7` <small>/pəʔ7 pʰɑ5 iʔ7 ʋɛ̃1 t͡ɕʰiɤɯ1 pʰɑ5 ʋɛ̃1 iʔ7/<sup>泰兴</sup></small> 谓办事要周密计划，预防不测。<sup>\[泰兴\]</sup>：人有个俗语，～。考虑周全点儿好。<sup>\[泰兴\]</sup>  

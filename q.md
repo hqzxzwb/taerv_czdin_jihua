@@ -1163,6 +1163,7 @@
 1. 【[就就数<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_qieu_shv_r.md#就就数<sub>儿</sub>)】`qieu6 qieu6 shv5 r` <sup>[如皋]</sup> 劝语。劝双方让步，求得妥协。  
 1. 【[就巧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_qio.md#就巧)】`qieu6 qio3` <small>/t͡ɕʰyʊ1 t͡ɕʰiɔ3/<sup>如皋</sup></small> ① 碰巧，投缘。<sup>\[如皋\]</sup> ② 碰上机会。<sup>\[如东\]</sup>：不～。<sup>\[如东\]</sup>  
 1. 【[就三复](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_saen_foh.md#就三复)】`qieu6 saen1 foh7` <sup>[如皋]</sup> 下葬第三天上坟祭祀称“复三”。下葬当时就举行复三礼，称～。  
+1. 【[就身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_shen.md#就身)】`qieu6 shen1` <small>/t͡ɕʰiɤɯ1 səŋ1/<sup>泰县</sup></small> （衣服）合身<sup>\[泰县\]</sup>  
 1. 【[就手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_sheu.md#就手)】`qieu6 sheu3` ① 趁着当前便利顺手做另外一件事<sup>\[泰州\]</sup>：趁你下河汏衣裳，～把碗也带啊去洗掉。<sup>\[泰州\]</sup> ② 方便，钱财宽裕<sup>\[泰州\]</sup>：我这些时手头～，让个星期再把钱还把你。<sup>\[泰州\]</sup>  
 1. 【[就是的啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_shr_dii_a.md#就是的啊)】`qieu6 shr6 dii a` <sup>[如皋]</sup> 就是这样。  
 1. 【[就数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_shv.md#就数)】`qieu6 shv5` ① 方便，有空，适合做某事<sup>\[如东\]</sup>：你上街～帮我买点儿菜。/你上街方便的话帮我买点菜。<sup>\[如东\]</sup>｜～来耍耍。/有空的时候来玩。<sup>\[如东\]</sup> ② 凑数。<sup>\[如东\]</sup>：正好～<sup>\[如东\]</sup> ③ 凑巧。<sup>\[如东\]</sup>：～就来。<sup>\[如东\]</sup>  
