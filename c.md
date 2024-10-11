@@ -11,10 +11,10 @@
 1. 【[才不轻哎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_beh_qien_ngae.md#才不轻哎)】`cae2 beh7 qien1 ngae` <sup>[东台]</sup> （口头禅）表示惊讶或否定，意思是哪有这样：你说我年收入有十万？～，一半都不到！  
 1. 【[才调<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_dio_r.md#才调<sub>儿</sub>)】`cae2 dio5 r` <sup>[兴化]</sup> ① 才情：“……我必定要拣一个绝好的人物，模样儿，～，性情儿，一件也少不得……”（《广陵潮》七） ② 牙齿的隐语，有人早晨忌说“牙”字，则以～代之。  
 1. 【[才间](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_gaen.md#才间)】`cae2 gaen1` <small>/t͡sʰe2 kɛ̃1/<sup>泰县</sup></small> 刚才<sup>\[泰县\]</sup><sup>\[泰州\]</sup>：他～就走啊。<sup>\[泰县\]</sup>｜老王～过来寻你的，你正好出去啊。<sup>\[泰州\]</sup>  
-1. 【[才刚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_gan.md#才刚)】`cae2 gan1` <small>/t͡sʰɛ2 kaŋ1/<sup>兴化</sup>, /t͡ɕʰiɛ2 kɑŋ1/<sup>泰兴</sup></small> 刚才<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>  
+1. 【[才刚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_gan.md#才刚)】`cae2 gan1` <small>/t͡sʰɛ2 kaŋ1/<sup>兴化</sup></small> 刚才<sup>\[兴化\]</sup>  
 1. 【[才好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_ho.md#才好)】`cae2 ho3` <sup>[兴化]</sup> ① 表示对某件事物的强调：中午车流高峰，小学生放学有家长接下子～哩！ ② 表幸灾乐祸的语气：～，不听老人言，出事啊吧？  
 1. 【[才央<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_ian_r.md#才央<sub>儿</sub>)】`cae2 ian1 r` <sup>[东台]</sup> “才将”的轻读，刚才。  
-1. 【[才将](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_jian.md#才将)】`cae2 jian1` <sup>[东台]</sup> 刚才：他～还在这块的，不曾走远。  
+1. 【[才将](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_jian.md#才将)】`cae2 jian1` <small>/t͡ɕʰiɛ2 t͡ɕiɑŋ1/<sup>泰兴</sup></small> 刚才<sup>\[东台\]</sup><sup>\[泰兴\]</sup>：他～还在这块的，不曾走远。<sup>\[东台\]</sup>  
 1. 【[才将<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_jian_r.md#才将<sub>儿</sub>)】`cae2 jian1 r` <small>/t͡sʰɛ2 t͡ɕiaŋ1 ɚ/<sup>兴化</sup>, /t͡sʰɛ2 t͡ɕia˞1/<sup>如皋</sup></small> 刚才。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[兴化\]</sup>：老吴～走的。<sup>\[兴化\]</sup>  
 1. 【[才些<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_xia_r.md#才些<sub>儿</sub>)】`cae2 xia1 r` <sup>[如皋]</sup> 刚才、刚刚。  
 1. 【[才学](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_xiah.md#才学)】`cae2 xiah` <sup>[泰兴]</sup> 才能和学问：他的个～大。  
