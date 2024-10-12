@@ -83,7 +83,6 @@
 1. 【[入己](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_ji.md#入己)】`reh8 ji3` <small>/ləʔ8 t͡ɕi3/<sup>兴化</sup>, /ɻəʔ8 t͡ɕʝ3/<sup>泰兴</sup></small> ① 使自己得到好处<sup>\[兴化\]</sup>：可见欺诈之财，没有得与你～受用的。（《二刻》十六）<sup>\[兴化\]</sup>｜谚曰：害人不～，～不害人。<sup>\[兴化\]</sup> ② 谓把财物据为己有<sup>\[泰兴\]</sup>  
 1. 【[入脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_jiah.md#入脚)】`reh8 jiah7` <sup>[兴化]</sup> 入手、进入：他以借东西～，渐渐和她勾搭上吖。  
 1. 【[入溜子跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_lieu_zz_qio.md#入溜子跷)】`reh8 lieu zz qio1` <sup>[泰兴]</sup> 故意作梗，唱反调：他箇个人～，跟哪个总佮不好。  
-1. 【[入妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_ma.md#入妈)】`reh8 ma` 无实际含义，多为口头禅，多含贬义。相当于普通话的“他妈的”之类。  
 1. 【[入马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_ma.md#入马)】`reh8 ma3` <sup>[兴化]</sup> ① 男女勾搭成奸：（那妇人）将那时放帘子因打着西门庆起，并做衣裳～通好，一一地说。（《水浒传》二六） ② 性交。  
 1. 【[入梅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_mei.md#入梅)】`reh8 mei2` 进入梅雨季节。  
 1. 【[入泊头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_pah_teu.md#入泊头)】`reh8 pah7 teu2` <sup>[泰兴]</sup> 骂人。  
@@ -116,7 +115,7 @@
 1. 【[肏开来的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_kae_lae_dii.md#肏开来的)】`reh8 kae1 lae dii` <sup>[东台]</sup> 旧时骂人的粕头粗话。也是表示惊讶的口头禅。后来音转为“若”“喏”“就若”。  
 1. 【[肏壳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_kah_r.md#肏壳<sub>儿</sub>)】`reh8 kah7 r` <sup>[泰县]</sup> 不听话的禽畜。  
 1. 【[肏里肏鬼的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_lii_reh_guei_dii.md#肏里肏鬼的)】`reh8 lii reh8 guei3 dii` <sup>[如皋]</sup> 见“肏鬼”。  
-1. 【[肏妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_ma.md#肏妈)】`reh8 ma1` <small>/ɻəʔ8 ma1/<sup>如皋</sup></small> ① 粗鄙口头禅。<sup>\[如皋\]</sup> ② 粗鄙口头禅。市井俗说<sup>\[如皋\]</sup>：“吃咖如皋水，没得～不开口。”可见流行之广。也反映出旧时受教育程度低，人们素质不高。现今已很少听到。<sup>\[如皋\]</sup>  
+1. 【[肏妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_ma.md#肏妈)】`reh8 ma1` <small>/ɻəʔ8 ma1/<sup>如皋</sup></small> 一种粗鄙口头禅。相当于普通话的“他妈的”之类。<sup>\[如皋\]</sup>：市井俗说“吃咖如皋水，没得～不开口。”可见流行之广。也反映出旧时受教育程度低，人们素质不高。现今已很少听到。<sup>\[如皋\]</sup>  
 1. 【[肏妈妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_ma_ma.md#肏妈妈)】`reh8 ma1 ma` <sup>[泰县]</sup> （禁忌语）他妈的。  
 1. 【[肏妈心的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_ma_xien_dii.md#肏妈心的)】`reh8 ma1 xien1 dii` <sup>[如皋]</sup> 詈语。  
 1. 【[肏母𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_mu_son.md#肏母𪨊)】`reh8 mu3 son2` <sup>[如皋]</sup> 见“肏泡𪨊”。  
