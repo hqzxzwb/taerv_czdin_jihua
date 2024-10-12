@@ -172,7 +172,7 @@
 1. 【[爷娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_nian.md#爷娘)】`ia2 nian` 父母  
 1. 【[爷娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_nian.md#爷娘)】`ia2 nian2` <small>/ia2 liaŋ2/<sup>兴化</sup></small> ① 父母。<sup>\[如东\]</sup> ② 父母。<sup>\[兴化\]</sup> ③ 娘家<sup>\[兴化\]</sup>：侄子是～家人。‖<sup>\[兴化\]</sup>｜谚曰：爷有娘有，不如已有。<sup>\[兴化\]</sup>  
 1. 【[爷娘侄子（女）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_nian_chih_zz.md#爷娘侄子（女）)】`ia2 nian2 chih8 zz（ny3）` <sup>[东台]</sup> 女子的哥哥或弟弟的儿子（女儿）：东台有句俗话“爷娘侄子，命根头子”。  
-1. 【[爷娘家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_nian_ga.md#爷娘家)】`ia2 nian2 ga` <small>/ia2 niã2 ka/<sup>如皋</sup></small> ① 出室女称生父母家。<sup>\[如皋\]</sup> ② 已婚妇女的娘家。<sup>\[东台\]</sup>  
+1. 【[爷娘家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_nian_ga.md#爷娘家)】`ia2 nian2 ga` <small>/ia2 niã2 ka/<sup>如皋</sup>, /iɑ2 niɑŋ2 kɑ/<sup>泰兴</sup>, /ia2 niɑŋ2 ka/<sup>泰县</sup></small> 出室女称生父母家。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup><sup>\[泰县\]</sup>  
 1. 【[爷<sub>儿</sub>两个吃咖升半䜺<sub>儿</sub>——有账算账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_r_laen_gu.md#爷<sub>儿</sub>两个吃咖升半䜺<sub>儿</sub>——有账算账)】`ia2 r laen3 gu qieh7 ga shen1 bun5 chae3 r ieu3 zhan5 sun5 zhan5` <sup>[东台]</sup>   
 1. 【[爷猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_zhv.md#爷猪)】`ia2 zhv1` <sup>[如东]</sup> 未骟的公猪。  
 1. 【[衙门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_men.md#衙门)】`ia2 men` <sup>[如东]</sup> 旧时官员办公的机关。  
