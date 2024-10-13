@@ -232,8 +232,8 @@
 1. 【[汽车路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_cha_lv.md#汽车路)】`qi5 cha1 lv6` <sup>[如皋]</sup> 马路、公路。  
 1. 【[汽锅水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_gu_shuei.md#汽锅水)】`qi5 gu1 shuei3` <sup>[如东]</sup> 由水蒸汽凝结成的水珠。  
 1. 【[汽𠖫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_gun.md#汽𠖫)】`qi5 gun3` <sup>[如皋]</sup> 蒸笼下方的集汽板，方形，中有洞，置锅上，下垫笼圈。  
+1. 【[汽吙水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_hu_shuei.md#汽吙水)】`qi5 hu shuei3` <small>/t͡ɕʰʝ5 xʊ suei3/<sup>如皋</sup></small> ① 水汽凝在盖子、玻璃等上面形成的水珠。<sup>\[如皋\]</sup> ② 同“汽涴水”<sup>\[东台\]</sup>  
 1. 【[汽吙头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_hu_teu.md#汽吙头)】`qi5 hu teu2` <sup>[如皋]</sup> 头部易出汗，冒热气。  
-1. 【[汽炣水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_hu_shuei.md#汽炣水)】`qi5 hu shuei3` <small>/t͡ɕʰʝ5 xʊ suei3/<sup>如皋</sup></small> ① 水汽凝在盖子、玻璃等上面形成的水珠。<sup>\[如皋\]</sup> ② 同“汽涴水”<sup>\[东台\]</sup>  
 1. 【[汽汗水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_hun_shuei.md#汽汗水)】`qi5 hun6 shuei3` <sup>[兴化]</sup> 水蒸汽凝成的水滴：（他）把脸靠在笼上熏，熏得满脸的～……（《皮五辣子》四）。  
 1. 【[汽油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_ieu.md#汽油)】`qi5 ieu2` <sup>[如东]</sup> 碳氢化合物的混合液体，是分馏石油时，沸点范围大约在40°-200°之间所取得的馏分，易挥发燃点很低供做内燃机燃料、溶剂等。  
 1. 【[汽油灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_ieu_den.md#汽油灯)】`qi5 ieu2 den1` <small>/t͡ɕʰi5 iɤ2 tən1/<sup>兴化</sup>, /t͡ɕʰʝ5 yʊ2 təŋ1/<sup>如皋</sup></small> ① 通过装置将煤油汽化喷燃的灯，亮度极高，旧时广场、戏园多采用。<sup>\[如皋\]</sup> ② 汽灯，白热照明灯具的一种。也作“气油灯”。<sup>\[兴化\]</sup>  
