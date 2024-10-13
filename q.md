@@ -188,8 +188,8 @@
 1. 【[气𩠾气𩠾的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_han_qi_han_dii.md#气𩠾气𩠾的)】`qi5 han1 qi5 han1 dii` 气喘吁吁的样子。  
 1. 【[气吭气吭的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_han_qi_han_dii.md#气吭气吭的)】`qi5 han2 qi5 han2 dii` <sup>[如皋]</sup> 见“吭”。  
 1. 【[气吼吼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_heu_heu.md#气吼吼)】`qi5 heu3 heu3` <sup>[兴化]</sup> 形容呼吸急促，上气不接下气的样子：他一气爬啊五层楼，～的进吖办公室。  
+1. 【[气吙头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_hu_teu.md#气吙头)】`qi5 hu teu2` <sup>[东台]</sup> 吃饭时或稍一用力就满头大汗的人；才跑里把路就汗淋淋的，你也是个～啊！  
 1. 【[气炣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_hu.md#气炣)】`qi5 hu` <sup>[东台]</sup> ① 本指饭菜火功很足。 ② ［引］透彻、彻底、到位：他俫原来有些误会，这次谈得蛮～，终于重归于好。  
-1. 【[气炣头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_hu_teu.md#气炣头)】`qi5 hu teu2` <sup>[东台]</sup> 吃饭时或稍一用力就满头大汗的人；才跑里把路就汗淋淋的，你也是个～啊！  
 1. 【[气话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_hua.md#气话)】`qi5 hua6` ① 赌气、不够理智的话。<sup>\[东台\]</sup> ② 愤怒时脱口而出的冲动的话<sup>\[泰州\]</sup>：这个是～，你不要当真。<sup>\[泰州\]</sup>  
 1. 【[气豁掉啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_huaeh_tio_a.md#气豁掉啊)】`qi5 huaeh7 tio a` <sup>[如东]</sup> 气得非常厉害：听到这句话，他～。如东口语中“掉啊”连音为ddo。  
 1. 【[气焊工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_hun_gon.md#气焊工)】`qi5 hun6 gon1` <sup>[如东]</sup> 工种的一种。以从事气焊为职业的工人。  
@@ -232,8 +232,8 @@
 1. 【[汽车路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_cha_lv.md#汽车路)】`qi5 cha1 lv6` <sup>[如皋]</sup> 马路、公路。  
 1. 【[汽锅水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_gu_shuei.md#汽锅水)】`qi5 gu1 shuei3` <sup>[如东]</sup> 由水蒸汽凝结成的水珠。  
 1. 【[汽𠖫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_gun.md#汽𠖫)】`qi5 gun3` <sup>[如皋]</sup> 蒸笼下方的集汽板，方形，中有洞，置锅上，下垫笼圈。  
+1. 【[汽吙头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_hu_teu.md#汽吙头)】`qi5 hu teu2` <sup>[如皋]</sup> 头部易出汗，冒热气。  
 1. 【[汽炣水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_hu_shuei.md#汽炣水)】`qi5 hu shuei3` <small>/t͡ɕʰʝ5 xʊ suei3/<sup>如皋</sup></small> ① 水汽凝在盖子、玻璃等上面形成的水珠。<sup>\[如皋\]</sup> ② 同“汽涴水”<sup>\[东台\]</sup>  
-1. 【[汽炣头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_hu_teu.md#汽炣头)】`qi5 hu teu2` <sup>[如皋]</sup> 头部易出汗，冒热气。  
 1. 【[汽汗水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_hun_shuei.md#汽汗水)】`qi5 hun6 shuei3` <sup>[兴化]</sup> 水蒸汽凝成的水滴：（他）把脸靠在笼上熏，熏得满脸的～……（《皮五辣子》四）。  
 1. 【[汽油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_ieu.md#汽油)】`qi5 ieu2` <sup>[如东]</sup> 碳氢化合物的混合液体，是分馏石油时，沸点范围大约在40°-200°之间所取得的馏分，易挥发燃点很低供做内燃机燃料、溶剂等。  
 1. 【[汽油灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_ieu_den.md#汽油灯)】`qi5 ieu2 den1` <small>/t͡ɕʰi5 iɤ2 tən1/<sup>兴化</sup>, /t͡ɕʰʝ5 yʊ2 təŋ1/<sup>如皋</sup></small> ① 通过装置将煤油汽化喷燃的灯，亮度极高，旧时广场、戏园多采用。<sup>\[如皋\]</sup> ② 汽灯，白热照明灯具的一种。也作“气油灯”。<sup>\[兴化\]</sup>  
