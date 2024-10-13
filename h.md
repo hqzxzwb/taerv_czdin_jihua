@@ -2049,7 +2049,7 @@
 1. 【[活守寡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_sheu_gua.md#活守寡)】`huh8 sheu3 gua3` <sup>[如皋]</sup> 见“守活寡”。  
 1. 【[活受罪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_sheu_qy.md#活受罪)】`huh8 sheu6 qy6` <sup>[如东]</sup> 在没有罪名的状态下遭受折磨：她在那许～。  
 1. 【[活水河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_shuei_hu.md#活水河)】`huh8 shuei3 hu2` <sup>[兴化]</sup> 有源头的常流水：这是～，水质好。｜“此河不是～，因纣王造鹿台，挑取泥士，致成小河……”（《封神演义》八九）也作“活河”。  
-1. 【[活说](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_shuh.md#活说)】`huh8 shuh7` <small>/xuʔ8 suʔ7/<sup>兴化</sup>, /ʊʔ8 sʊʔ7/<sup>泰兴</sup>, /xʊʔ8 sʊʔ7/<sup>泰县</sup></small> ① 演讲口才富于煽动性，能够鼓动大家的情绪。<sup>\[如东\]</sup>：真是～。<sup>\[如东\]</sup> ② 信口胡说<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：覅～，坏人名誉要承担法律责任的！<sup>\[兴化\]</sup>｜覅～。<sup>\[泰县\]</sup>｜你不要听吖他在这块～。<sup>\[泰州\]</sup>  
+1. 【[活说](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_shuh.md#活说)】`huh8 shuh7` <small>/xuʔ8 suʔ7/<sup>兴化</sup>, /ʊʔ8 sʊʔ/<sup>泰兴</sup>, /xʊʔ8 sʊʔ7/<sup>泰县</sup></small> ① 说得天花乱坠\[如东：演讲口才富于煽动性，能够鼓动大家的情绪。\]\[泰兴：（旧有此义）\]：真是～。<sup>\[如东\]</sup> ② 信口胡说<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：覅～，坏人名誉要承担法律责任的！<sup>\[兴化\]</sup>｜覅～。<sup>\[泰县\]</sup>｜你不要听吖他在这块～。<sup>\[泰州\]</sup>  
 1. 【[活死人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_sz_ren.md#活死人)】`huh8 sz3 ren2` <small>/xuʔ8 sɿ3 lən2/<sup>兴化</sup></small> ① 指反应迟钝、动作笨拙的人。<sup>\[东台\]</sup> ② 迂执、呆板、不会灵活变通的人<sup>\[东台\]</sup><sup>\[兴化\]</sup>：他是个～，这件事找他肯定不行！<sup>\[兴化\]</sup>  
 1. 【[活掉啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_tio_a.md#活掉啊)】`huh8 tio a` <sup>[泰县]</sup> 庄稼肥足，倒状：他家的几亩稻都～。  
 1. 【[活动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_ton.md#活动)】`huh8 ton` <small>/xʊʔ8 tʰɔŋ/<sup>如皋</sup>, /xʊʔ8 tʰɔŋ/<sup>泰兴</sup></small> ① 松动。<sup>\[如皋\]</sup>\[泰兴：（又uh8 ton）\] ② 运动。<sup>\[如东\]</sup>：站起来～下子。<sup>\[如东\]</sup> ③ 物体摇动。<sup>\[如东\]</sup>：这根桩～起来啊。<sup>\[如东\]</sup>  
@@ -2207,8 +2207,7 @@
 1. 【[狐狸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_li.md#狐狸)】`hv2 li2` <sup>[如东]</sup> 犬科动物狐狸，也称狐。  
 1. 【[狐狸精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_li_jien.md#狐狸精)】`hv2 li2 jien1` <small>/fu2 lʝ2 t͡ɕiəŋ1/<sup>如皋</sup></small> ① 传说中的狐狸精非常漂亮，比喻打扮妖艳的女人。<sup>\[如东\]</sup> ② 比喻狡猾的人。<sup>\[如东\]</sup> ③ 传说中的妖怪之一，由狐修炼而成。<sup>\[如皋\]</sup> ④ 詈语，专指勾引男人的女人。<sup>\[如皋\]</sup>  
 1. 【[狐狸精𢪯尾巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_li_jien_tae_vei_ba.md#狐狸精𢪯尾巴)】`hv2 li2 jien1 tae1 vei3 ba` <sup>[如皋]</sup> 打扮、伪装得再好，总要露出真相。  
-1. 【[狐臊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_so.md#狐臊)】`hv2 so` <sup>[兴化]</sup> 腋臭。  
-1. 【[狐臊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_so.md#狐臊)】`hv2 so1` ① 狐臭味。<sup>\[东台\]</sup> ② 狐臭。<sup>\[泰州\]</sup>  
+1. 【[狐臊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_so.md#狐臊)】`hv2 so1` <small>/xu2 sɔ/<sup>兴化</sup>, /ʋ2 sɔ1/<sup>泰兴</sup></small> 狐臭味。<sup>\[东台\]</sup><sup>\[泰州\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>  
 1. 【[狐臊气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_so_qi.md#狐臊气)】`hv2 so1 qi5` <sup>[如东]</sup> 由于腋窝、阴部等部位的皮肤内汗腺分泌异常而产生的刺鼻味。也称狐臭。  
 1. 【[糊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv.md#糊)】`hv2` <sup>[如东]</sup> ① 把纸或布粘贴在物体的表面上。 ② 模糊：眼睛～。 ③ 烂，焦：饭烧～啊。  
 1. 【[糊包子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_bo_zz.md#糊包子)】`hv2 bo1 zz` <sup>[东台]</sup> 祭祀用的锡箔馃子，用红纸或黄元纸包装糊成包子。  
@@ -2261,7 +2260,7 @@
 1. 【[胡头乱说](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_teu_lun_shuh.md#胡头乱说)】`hv2 teu2 lun6 shuh7` <small>/fu2 tʰei2 lʊ̃1 sʊʔ7/<sup>如皋</sup></small> 说荒唐话，语无伦次。<sup>\[如东\]</sup><sup>\[如皋\]</sup>  
 1. 【[胡桃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_to.md#胡桃)】`hv2 to2` <sup>[如东]</sup> 胡桃科植物胡桃，又名核桃。  
 1. 【[胡作非为](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_zah_fei_vei.md#胡作非为)】`hv2 zah7 fei1 vei2` <sup>[如东]</sup> 不顾法律和道德，任意行动。  
-1. 【[胡桩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_zhuan.md#胡桩)】`hv2 zhuan1` <sup>[泰州]</sup> 剃光以后新长出的胡茬：当心你的～戳咖伢儿。  
+1. 【[胡桩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_zhuan.md#胡桩)】`hv2 zhuan1` <sup>[泰州]</sup> 胡茬：当心你的～戳咖伢儿。  
 1. 【[胡桩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_zhuan_zz.md#胡桩子)】`hv2 zhuan1 zz` <sup>[兴化]</sup> 刚露出皮肤的胡茬儿。  
 1. 【[胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_zz.md#胡子)】`hv2 zz` <small>/xu2 t͡sɿ/<sup>兴化</sup></small> ① 生长在嘴周围和脸颊部位的毛，较粗硬。<sup>\[如东\]</sup> ② 有神经质的人<sup>\[兴化\]</sup>：他是个～，说话颠三倒四的。<sup>\[兴化\]</sup>  
 1. 【[胡子拉碴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_zz_la_cha.md#胡子拉碴)】`hv2 zz la1 cha` <sup>[如东]</sup> 形容满面胡子未加修饰。  
@@ -2296,7 +2295,7 @@
 1. 【[虎头鲨<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_teu_sha_r.md#虎头鲨<sub>儿</sub>)】`hv3 teu2 sha1 r` <sup>[如皋]</sup> 塘鳢。  
 1. 【[虎头蛇尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_teu_sha_vei.md#虎头蛇尾)】`hv3 teu2 sha2 vei3` <sup>[东台]</sup> 办事不能善始善终，开始认真，后来马虎了事。  
 1. 【[虎跳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_tio.md#虎跳)】`hv3 tio5` <sup>[如皋]</sup> 手着地腿伸直侧滚翻。  
-1. 【[𢮎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv.md#𢮎)】`hv3` <small>/xu3/<sup>兴化</sup>, /fu3/<sup>如皋</sup>, /fu3/<sup>泰县</sup></small> ① 敷放、抛洒<sup>\[如皋\]</sup>：～种、～水、～粪、～灰，～泥。<sup>\[如皋\]</sup> ② 播撒<sup>\[东台\]</sup>：把种子～啊田里/～水/赶在下雨前～化肥。<sup>\[东台\]</sup> ③ 倾倒、泼洒出来<sup>\[兴化\]</sup>：家伙打掉了事小，油汤～在客家身上不像话（《武松》三）。～水（把水倒掉）；～粪（向田间泼洒粪肥）；～菜水（给菜地浇水）。担子打了翻掉了，炊饼打了～掉了。（《武松》一）<sup>\[兴化\]</sup> ④ 泼撒<sup>\[泰县\]</sup>：这盆脏水，～掉吧。<sup>\[泰县\]</sup> ⑤ 泼水<sup>\[泰州\]</sup>：洗过脸把水～啊阴沟头去。<sup>\[泰州\]</sup> ⑥ 容器里的粒状糊状物因晃动或倾斜而洒出<sup>\[泰州\]</sup>：淘个米把米～啊一地。<sup>\[泰州\]</sup>  
+1. 【[𢮎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv.md#𢮎)】`hv3` <small>/xu3/<sup>兴化</sup>, /fu3/<sup>如皋</sup>, /fu3/<sup>泰县</sup></small> 抛洒、泼洒<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：～种、～水、～粪、～灰，～泥。<sup>\[如皋\]</sup>｜把种子～啊田里<sup>\[东台\]</sup>｜～水<sup>\[东台\]</sup>｜赶在下雨前～化肥。<sup>\[东台\]</sup>｜家伙打掉了事小，油汤～在客家身上不像话（《武松》三）。<sup>\[兴化\]</sup>｜～水（把水倒掉）<sup>\[兴化\]</sup>｜～粪（向田间泼洒粪肥）<sup>\[兴化\]</sup>｜～菜水（给菜地浇水）。<sup>\[兴化\]</sup>｜担子打了翻掉了，炊饼打了～掉了。（《武松》一）<sup>\[兴化\]</sup>｜这盆脏水，～掉吧。<sup>\[泰县\]</sup>｜洗过脸把水～啊阴沟头去。<sup>\[泰州\]</sup>｜淘个米把米～啊一地。<sup>\[泰州\]</sup>  
 1. 【[𢮎臭水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_cheu_shuei.md#𢮎臭水)】`hv3 cheu5 shuei3` <small>/xu3 t͡sʰɤ5 suəi3/<sup>兴化</sup>, /fu3 t͡sʰei5 suei3/<sup>如皋</sup>, /fu3 t͡sʰɤɯ5 ɕyəɪ3/<sup>泰县</sup></small> ① 把脏水泼出去。<sup>\[如东\]</sup> ② 背后说别人的坏话。败坏别人的声誉。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup>\[东台：揭露对方隐私或诋毁污蔑对方\]：她就喜欢～。<sup>\[如东\]</sup>｜他俫两个人有意见，对过～。<sup>\[兴化\]</sup>  
 1. 【[𢮎粪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_fen.md#𢮎粪)】`hv3 fen5` <sup>[如皋]</sup> 用料勺泼浇粪肥。  
 1. 【[𢮎毛昌纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_mo_chan_zhr.md#𢮎毛昌纸)】`hv3 mo2 chan1 zhr3` <sup>[如东]</sup> 在灵柩出殡途中，丧家不断地向外抛出毛昌纸，表示丢下了买路钱。  
@@ -2320,13 +2319,13 @@
 1. 【[护被单头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_pi_daen_teu.md#护被单头)】`hv6 pi6 daen1 teu2` <sup>[如皋]</sup> 被头易脏，用一块布护上，经常拆洗以保持清洁。  
 1. 【[护袖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_qieu.md#护袖)】`hv6 qieu6` <small>/xu6 t͡ɕʰiɤ6/<sup>兴化</sup></small> 袖套。套在袖子外，挡脏或防破损。<sup>\[兴化\]</sup><sup>\[泰州\]</sup>  
 1. 【[护日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_rih.md#护日)】`hv6 rih8` <sup>[兴化]</sup> 日蚀。  
-1. 【[护食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_sheh.md#护食)】`hv6 sheh8` <small>/xu6 səʔ8/<sup>兴化</sup></small> ① 不让靠近或拿走自己的食物<sup>\[兴化\]</sup>：猫儿～；小孩子～。<sup>\[兴化\]</sup> ② 保护食物不让别人接近或取走。<sup>\[泰州\]</sup>  
+1. 【[护食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_sheh.md#护食)】`hv6 sheh8` <small>/xu6 səʔ8/<sup>兴化</sup></small> 不让靠近或拿走自己的食物<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：猫儿～；小孩子～。<sup>\[兴化\]</sup>  
 1. 【[护身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_shen.md#护身)】`hv6 shen1` <sup>[兴化]</sup> 保护自己，避免受到伤害和打击：他万没料到她这么～，出口伤人。（马春阳《月朗和她的娘舅们》）  
-1. 【[护疼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_ten.md#护疼)】`hv6 ten2` <small>/xu6 tʰən2/<sup>兴化</sup></small> ① 怕疼，害怕碰着疼痛的地方<sup>\[兴化\]</sup>：“……纵然打不死他，好道也～发晕……”（《四游记》四九）<sup>\[兴化\]</sup> ② 护着伤口不让碰到，怕疼<sup>\[泰州\]</sup>：他手上少掉块皮～，抓不住石锁的把子。<sup>\[泰州\]</sup>  
-1. 【[护头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_teu.md#护头)】`hv6 teu2` <sup>[泰州]</sup> ① 小儿不愿理发：这细小伙～，剃到头就像杀咖他。 ② 家长为孩子的缺点、过失辩护：他家妈妈～，把个细小伙容吖不上相。  
+1. 【[护疼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_ten.md#护疼)】`hv6 ten2` <small>/xu6 tʰən2/<sup>兴化</sup></small> 怕疼，害怕碰着疼痛的地方<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：“……纵然打不死他，好道也～发晕……”（《四游记》四九）<sup>\[兴化\]</sup>｜他手上少掉块皮～，抓不住石锁的把子。<sup>\[泰州\]</sup>  
+1. 【[护头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_teu.md#护头)】`hv6 teu2` <sup>[泰州]</sup> ① 不愿理发：这细小伙～，剃到头就像杀咖他。 ② 家长为孩子的缺点、过失辩护：他家妈妈～，把个细小伙容吖不上相。  
 1. 【[护网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_van.md#护网)】`hv6 van3` <sup>[如东]</sup> 网具的一种。麻线织成，片状，高约5尺，较短。作业时，许多网连接起来挂在沙滩上的竹竿上，形成长龙，利用潮水涨落，把鱼虾拦住，这种网具称护网。  
 1. 【[护脏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_zan.md#护脏)】`hv6 zan1` <small>/xu6 t͡saŋ1/<sup>兴化</sup></small> ① 外穿旧的、质差的衣服，或系围裙、套护袖等，以防把质料好的衣裳弄脏<sup>\[兴化\]</sup>：……为了～，她马上拿出红布带子青短裙，往腰间一围一扎……（马春阳《扬州水乡婚俗散记》）<sup>\[兴化\]</sup> ② 深色衣服即使沾上污垢，看上去也不明显<sup>\[泰州\]</sup>：白褂子不～。<sup>\[泰州\]</sup>  
-1. 【[瓠子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_zz.md#瓠子)】`hv6 zz` ① 葫芦科植物瓠子，一年生攀援草本。<sup>\[如东\]</sup> ② 瓠瓜别名，一年生草本植物，茎蔓生，花白色，果实呈圆柱形或者壶形，瓤籽白色。<sup>\[泰州\]</sup> ③ 指未成熟的西瓜，以其瓤籽皆白，故名<sup>\[泰州\]</sup>：这个瓜是个～，不熟，不要吃。<sup>\[泰州\]</sup>  
+1. 【[瓠子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_zz.md#瓠子)】`hv6 zz` ① 瓠瓜，葫芦科植物，一年生草本植物<sup>\[如东\]</sup>\[泰州：茎蔓生，花白色，果实呈圆柱形或者壶形，瓤籽白色。\] ② 指未成熟的西瓜，以其瓤籽皆白，故名<sup>\[泰州\]</sup>：这个瓜是个～，不熟，不要吃。<sup>\[泰州\]</sup>  
 1. 【[糊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv.md#糊)】`hv6` <small>/fu1/<sup>如皋</sup></small> ① 粉碎，碎末 ② 面条久置粘连 ③ 碎。<sup>\[如东\]</sup>：晒啊场上的花生捱踏～啊。<sup>\[如东\]</sup> ④ 变糊、涂粘<sup>\[如皋\]</sup>：～眼眵、眼睛～起来啊。<sup>\[如皋\]</sup> ⑤ 糊状物凝聚附着在物体上面<sup>\[泰州\]</sup>：锅里的粥～住啊唻。<sup>\[泰州\]</sup>｜身上块块～的是烂泥。<sup>\[泰州\]</sup>  
 1. 【[糊啊汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_a_tan.md#糊啊汤)】`hv6 a tan1` <sup>[如皋]</sup> ① 汤中有淀粉质而变得黏稠。 ② 地面成了一片泥浆地。  
 1. 【[糊糊<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_hv_r.md#糊糊<sub>儿</sub>)】`hv6 hv6 r` <small>/fu1 fu˞1/<sup>如皋</sup></small> ① 碎末 ② 一种面食。将面粉加水调匀，倒进开水中煮熟，似粥非粥，似块非块，叫做糊糊儿。<sup>\[如东\]</sup> ③ 面糊状食品。<sup>\[如皋\]</sup>  

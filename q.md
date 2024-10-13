@@ -1188,7 +1188,7 @@
 1. 【[旧货店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_hu_din.md#旧货店)】`qieu6 hu5 din5` <sup>[如皋]</sup> 二手货商店（旧货调剂商店）。  
 1. 【[旧年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_nin.md#旧年)】`qieu6 nin2` <small>/t͡ɕʰiɤ6 liɪ̃2/<sup>兴化</sup>, /t͡ɕʰyʊ1 nĩ2/<sup>如皋</sup></small> ① 过去的年份。<sup>\[如皋\]</sup> ② 去年<sup>\[兴化\]</sup>：“～闻得这人惹了祸逃走了，不知回来了不曾？”（《红楼梦》六六）。<sup>\[兴化\]</sup>  
 1. 【[臼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu.md#臼)】`qieu6` <small>/t͡ɕʰyʊ1/<sup>如皋</sup></small> ① 见“碓臼”。<sup>\[如皋\]</sup> ② 麻石内凿成漏斗形的用具。口语音qiun6。<sup>\[如皋\]</sup>  
-1. 【[臼齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_chr.md#臼齿)】`qieu6 chr3` <sup>[东台]</sup> 以研磨为用途的牙齿，位置在口腔后方两侧。（“白”本指春米或捣物用的器具）  
+1. 【[臼齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_chr.md#臼齿)】`qieu6 chr3` <sup>[东台]</sup> 以研磨为用途的牙齿，位置在口腔后方两侧。  
 1. 【[臼面子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_min_zz.md#臼面子)】`qieu6 min6 zz` <sup>[如皋]</sup> 臼口周围用砖铺成的浅漏斗形的面层。  
 1. 【[舅表](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_bio.md#舅表)】`qieu6 bio3` <sup>[泰州]</sup> 舅父的子女与本人的亲戚关系：他俫两个人是舅表。  
 1. 【[舅丈母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_chan_mu.md#舅丈母)】`qieu6 chan6 mu` <sup>[兴化]</sup> 妻的舅母。  
