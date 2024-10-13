@@ -10,13 +10,13 @@
 1. 【[依妥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_tu.md#依妥)】`i1 tu3` <sup>[如皋]</sup> 了结，罢休。  
 1. 【[医家先生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_jia_xin_shen.md#医家先生)】`i1 jia1 xin1 shen` <sup>[兴化]</sup> 医生，尤指中医：……请～看病啊，买药啊，都要用钱。（扬二《吹箫过市》）  
 1. 【[衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#衣)】`i1` <sup>[如皋]</sup> ① 指胎盘：～胞、伢儿～。中药名“紫河车”。 ② 小麦粒上的壳、芦柴的叶柄：～裹儿。 ③ 服装：～裳、老～。  
-1. 【[衣胞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_bo.md#衣胞)】`i1 bo1` <small>/ʝ1 pɔ1/<sup>如皋</sup></small> ① 胎盘。<sup>\[如皋\]</sup> ② 胎盘。<sup>\[如东\]</sup>  
+1. 【[衣胞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_bo.md#衣胞)】`i1 bo1` <small>/ʝ1 pɔ1/<sup>如皋</sup></small> 胎盘。<sup>\[如皋\]</sup><sup>\[如东\]</sup>  
 1. 【[衣胞地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_bo_ti.md#衣胞地)】`i1 bo1 ti6` <sup>[东台]</sup> ［借］人的出生地。人的胎盘和胎膜统称衣胞，也叫胎衣、胞衣。  
-1. 【[衣胞之地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_bo_zhr_ti.md#衣胞之地)】`i1 bo1 zhr1 ti6` <small>/i1 pɔ1 t͡sɿ1 tʰəi6/<sup>兴化</sup>, /ʝ1 pɔ1 t͡sɿ1 tʰʝ1/<sup>如皋</sup></small> ① 出生之地，埋衣胞的地方。<sup>\[如皋\]</sup> ② 埋衣胞的地方，比喻出身地。<sup>\[如东\]</sup>：如东是我的～。<sup>\[如东\]</sup> ③ 出身地、故乡<sup>\[兴化\]</sup>：新娘的真哭，是因为突然离开～……（马春阳《扬州水乡婚俗散记》）<sup>\[兴化\]</sup>  
-1. 【[衣兜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_deu.md#衣兜)】`i1 deu1` <sup>[兴化]</sup> 将长衫下摆的两角拎起，形成兜状，可临时放一点东西。儿歌：过年过年，果子搅钱，不要不要，～里一倒。  
+1. 【[衣胞之地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_bo_zhr_ti.md#衣胞之地)】`i1 bo1 zhr1 ti6` <small>/i1 pɔ1 t͡sɿ1 tʰəi6/<sup>兴化</sup>, /ʝ1 pɔ1 t͡sɿ1 tʰʝ1/<sup>如皋</sup></small> 出生之地，埋衣胞的地方。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[兴化\]</sup>：如东是我的～。<sup>\[如东\]</sup>｜新娘的真哭，是因为突然离开～……（马春阳《扬州水乡婚俗散记》）<sup>\[兴化\]</sup>  
+1. 【[衣兜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_deu.md#衣兜)】`i1 deu1` <sup>[兴化]</sup> 将长衫下摆的两角拎起，形成兜状，可临时放一点东西：儿歌：过年过年，果子搅钱，不要不要，～里一倒。  
 1. 【[衣店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_din.md#衣店)】`i1 din5` <small>/i1 tiɪ̃5/<sup>兴化</sup>, /ʝ1 tĩ5/<sup>如皋</sup></small> ① 卖旧衣的商店。旧时常与典当业配套。现已不见。<sup>\[如皋\]</sup> ② 旧时出售估衣或普通衣着的商店。<sup>\[兴化\]</sup>  
-1. 【[衣服新的好，人是旧的好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_foh_xien_dii_ho_ren_shr_qieu_dii_ho.md#衣服新的好，人是旧的好)】`i1 foh xien1 dii ho3 ren2 shr6 qieu6 dii ho3` <sup>[东台]</sup> 熟人好谈事办事。  
-1. 【[衣裹<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_gu_r.md#衣裹<sub>儿</sub>)】`i1 gu3 r` <sup>[如皋]</sup> ① 苞叶，内颖：小麦稃子。 ② 芦苇杆上的叶柄：剥～。  
+1. 【[衣服新的好，人是旧的好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_foh_xien_dii.md#衣服新的好，人是旧的好)】`i1 foh xien1 dii ho3 ren2 shr6 qieu6 dii ho3` <sup>[东台]</sup> 熟人好谈事办事。  
+1. 【[衣裹<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_gu_r.md#衣裹<sub>儿</sub>)】`i1 gu3 r` <sup>[如皋]</sup> ① 苞叶，内颖，小麦稃子。 ② 芦苇杆上的叶柄：剥～。  
 1. 【[衣冠人物](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_gun_ren_veh.md#衣冠人物)】`i1 gun1 ren2 veh8` <sup>[兴化]</sup> ① 形容穿戴体面，有身份的人：匡超人见是，便同他拱手坐下，问起姓名。（《儒林外史》二十） ② （讽）偶尔衣帽光鲜：你今朝～的到哪块去出客咖？  
 1. 【[衣领帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_lien_ban.md#衣领帮)】`i1 lien3 ban1` <sup>[泰县]</sup> 笔画的一种。  
 1. 【[衣领旁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_lien_pan.md#衣领旁)】`i1 lien3 pan2` <sup>[兴化]</sup> 汉字偏旁，形状是“衤”。  
@@ -37,21 +37,19 @@
 1. 【[姨𬥐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_bae.md#姨𬥐)】`i2 bae1-3` 姨父，母亲的姐姐的丈夫。<sup>\[泰州\]</sup>  
 1. 【[姨表](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_bio.md#姨表)】`i2 bio3` 姨母的子女与本人的亲戚关系。<sup>\[泰州\]</sup>  
 1. 【[姨表兄弟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_bio_xion_ti.md#姨表兄弟)】`i2 bio3 xion1 ti6` <sup>[兴化]</sup> 二人的母亲是姐妹的亲戚关系（区别于姑表兄弟）：他妈妈是我的姨娘，我俫是～。  
-1. 【[姨丈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_chan.md#姨丈)】`i2 chan` 姨父，母亲的妹妹的丈夫。<sup>\[泰州\]</sup>  
-1. 【[姨丈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_chan.md#姨丈)】`i2 chan6` <small>/ɿ2 t͡sʰɑŋ3/<sup>泰县</sup></small> 姨娘的丈夫。<sup>\[如东\]</sup><sup>\[泰县\]</sup><sup>\[东台\]</sup>  
+1. 【[姨丈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_chan.md#姨丈)】`i2 chan6` <small>/ɿ2 t͡sʰɑŋ3/<sup>泰县</sup></small> ① 姨娘的丈夫。<sup>\[如东\]</sup><sup>\[泰县\]</sup><sup>\[东台\]</sup> ② 姨父，母亲的妹妹的丈夫。<sup>\[泰州\]</sup>  
 1. 【[姨丈母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_chan_mu.md#姨丈母)】`i2 chan6 mu` <sup>[兴化]</sup> 岳母的姐妹。  
 1. 【[姨丈人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_chan_ren.md#姨丈人)】`i2 chan6 ren` <sup>[兴化]</sup> 岳父的连襟。  
 1. 【[姨侄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_chih.md#姨侄)】`i2 chih8` <sup>[如东]</sup> 姨兄弟、姨姐妹所生的儿子。  
 1. 【[姨侄女](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_chih_ny.md#姨侄女)】`i2 chih8 ny` <sup>[如东]</sup> 姨兄弟、姨姐妹所生的女儿。  
-1. 【[姨爹爹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_dia_dia.md#姨爹爹)】`i2 dia1 dia` 姨父，姨妈的丈夫  
-1. 【[姨夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_fv.md#姨夫)】`i2 fv` <sup>[兴化]</sup> 连襟之间互称～：他俫是～两个。  
+1. 【[姨爹爹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_dia_dia.md#姨爹爹)】`i2 dia1 dia` 姨父，姨妈的丈夫<sup>\[如东\]</sup>  
+1. 【[姨夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_fv.md#姨夫)】`i2 fv` <small>/i2 fu/<sup>兴化</sup></small> 姨子的丈夫，即连襟。<sup>\[东台\]</sup><sup>\[兴化\]</sup>：他俫是～两个。<sup>\[兴化\]</sup>  
 1. 【[姨父](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_fv.md#姨父)】`i2 fv` <sup>[如东]</sup> 姨娘的丈夫。  
-1. 【[姨夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_fv.md#姨夫)】`i2 fv1` <sup>[东台]</sup> 姨子的丈夫，即连襟。  
-1. 【[姨哥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_gu.md#姨哥)】`i2 gu1` <sup>[如东]</sup> 姨妈和姨娘生的年龄比自己大的男子。  
+1. 【[姨哥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_gu.md#姨哥)】`i2 gu1` <sup>[如东]</sup> 姨妈或姨娘生的年龄比自己大的男子。  
 1. 【[姨姐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_jia.md#姨姐)】`i2 jia3` <sup>[如东]</sup> 姨妈和姨娘生的年龄比自己大的女子。  
 1. 【[姨老老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_lo_lo.md#姨老老)】`i2 lo3 lo3` <sup>[如东]</sup> 姨丈、姨父的父亲。  
 1. 【[姨妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_ma.md#姨妈)】`i2 ma1` <small>/ʝ2 mɑ1/<sup>泰兴</sup></small> 母亲的姐姐。<sup>\[如东\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>  
-1. 【[姨妈妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_ma_ma.md#姨妈妈)】`i2 ma1 ma` 姨妈，妈妈的姐姐  
+1. 【[姨妈妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_ma_ma.md#姨妈妈)】`i2 ma1 ma` 姨妈，妈妈的姐姐<sup>\[如东\]</sup>  
 1. 【[姨妹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_mei.md#姨妹)】`i2 mei6` <sup>[如东]</sup> 姨妈和姨娘生的年龄比自己小的女子。  
 1. 【[姨奶奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_nae_nae.md#姨奶奶)】`i2 nae3 nae3` <sup>[如东]</sup> 姨丈、姨父的母亲。  
 1. 【[姨娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_nian.md#姨娘)】`i2 nian` <small>/i2 liaŋ/<sup>兴化</sup></small> ① 姨，妈妈的妹妹<sup>\[如东\]</sup> ② 姨母<sup>\[兴化\]</sup>：“好妈妈！你去劝劝～罢！”（《广陵潮》二十一）<sup>\[兴化\]</sup>  
@@ -62,7 +60,7 @@
 1. 【[姨兄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_xion.md#姨兄)】`i2 xion` <sup>[如东]</sup> 姨妈和姨娘生的年龄比自己大的男子。  
 1. 【[姨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_zz.md#姨子)】`i2 zz` <small>/i2 t͡sɿ/<sup>兴化</sup></small> 妻子的姐妹。<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：大～；小～。<sup>\[兴化\]</sup>  
 1. 【[爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#爷)】`i2` <small>/i2/<sup>兴化</sup>, /ʝ2/<sup>如皋</sup></small> ① 叔叔（扬州音） ② 叔叔。称父亲的弟弟或比父亲年轻的长辈。<sup>\[如皋\]</sup> ③ 父亲的弟弟。通称叔父。<sup>\[如东\]</sup> ④ 兴盐边界某些村舍语<sup>\[兴化\]</sup>：父亲。<sup>\[兴化\]</sup>  
-1. 【[疑猜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_cae.md#疑猜)】`i2 cae` 怀疑  
+1. 【[疑猜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_cae.md#疑猜)】`i2 cae` 怀疑<sup>\[如东\]</sup>  
 1. 【[疑里大惑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_lii_da_hoh.md#疑里大惑)】`i2 lii da6 hoh8` <sup>[兴化]</sup> 疑心：他那个要笑不笑的样子，把人弄得～的。  
 1. 【[疑三惑四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_saen_hoh_sz.md#疑三惑四)】`i2 saen1 hoh8 sz5` <sup>[如东]</sup> 猜测怀疑：不要～的。  
 1. 【[疑心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_xien.md#疑心)】`i2 xien1` <sup>[如东]</sup> 怀疑。  
@@ -73,8 +71,7 @@
 1. 【[胰子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_zz.md#胰子)】`i2 zz` <small>/i2 t͡sɿ/<sup>兴化</sup>, /ʝ2 t͡sɿ/<sup>如皋</sup></small> ① 猪胰脏。<sup>\[如皋\]</sup> ② 蟹腮。<sup>\[如皋\]</sup> ③ 旧称肥皂。<sup>\[如皋\]</sup> ④ 猪、羊等哺乳动物的胰。<sup>\[兴化\]</sup> ⑤ 肥皂<sup>\[兴化\]</sup>：香～。<sup>\[兴化\]</sup> ⑥ 蟹壳以下两片对称的类似白色脂肪的物质<sup>\[兴化\]</sup>：蟹～。<sup>\[兴化\]</sup>  
 1. 【[遗腹子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_foh_zz.md#遗腹子)】`i2 foh7 zz` <sup>[如东]</sup> 父亲死后生下来的孩子。  
 1. 【[颐颗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_ku.md#颐颗)】`i2 ku` <sup>[如皋]</sup> 呼鸭也。据乾隆《如皋县志》今读若“游”。  
-1. 【[以背](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_bin.md#以背)】`i3 bin5` <sup>[泰县]</sup> 反正。  
-1. 【[以到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_do.md#以到)】`i3 do` <small>/ɿ3 tɔ/<sup>泰县</sup></small> ① 认为<sup>\[泰县\]</sup>：我还～你今吖不会来上班的。<sup>\[泰县\]</sup> ② 依仗<sup>\[泰县\]</sup>：你不要～你爸爸当局长，就不会处分你。<sup>\[泰县\]</sup> ③ 认为，当作，以为<sup>\[泰州\]</sup>：本来～他俫落雨不得来的，哪晓得都来啊。<sup>\[泰州\]</sup>｜原来～他最多考个三本，不曾想到他上吖一本。<sup>\[泰州\]</sup>  
+1. 【[以□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_bin.md#以□)】`i3 bin5` <sup>[泰县]</sup> 反正。  
 1. 【[以后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_heu.md#以后)】`i3 heu6` <sup>[如皋]</sup> 以后。  
 1. 【[以话打话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_hua_da_hua.md#以话打话)】`i3 hua6 da3 hua6` <sup>[如皋]</sup> 双方似问似答地说起话来，是不相熟或闹过意见者之间的一种交往方式。  
 1. 【[以话答话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_hua_daeh_hua.md#以话答话)】`i3 hua6 daeh7 hua6` <sup>[如皋]</sup> 见“以话打话”。  
@@ -89,11 +86,10 @@
 1. 【[倚啊草鞋戳咖脚，倚啊洋机赤咖膊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_a_co_hae.md#倚啊草鞋戳咖脚，倚啊洋机赤咖膊)】`i3 a co3 hae2 chuah7 ga jiah7 i3 a ian2 ji1 cheh7 ga bah7` <sup>[东台]</sup> 依赖不可靠的外部条件而误事。  
 1. 【[倚啊伢<sub>儿</sub>叫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_a_nga_r_jio.md#倚啊伢<sub>儿</sub>叫)】`i3 a nga2 r jio5` <sup>[如皋]</sup> 依小孩对某人的称呼而称呼，以避免难以弄清称谓的麻烦。见“倚”。  
 1. 【[倚大欺小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_da_qi_xio.md#倚大欺小)】`i3 da6 qi1 xio3` <sup>[兴化]</sup> 倚仗身强力大欺侮弱小者：你俫这吖大的人打人家伢儿，～，真没得意思！  
-1. 【[倚到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_do.md#倚到)】`i3 do` <sup>[兴化]</sup> ① 以为：我～他不来的。 ② 倚仗：你不要～有后台就在外头胡搅。  
-1. 【[倚到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_do.md#倚到)】`i3 do5` <sup>[东台]</sup> 依赖、凭借：不能～男将当厂长，女将就长翅膀。  
-1. 【[倚疯作邪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_fon_zah_qia.md#倚疯作邪)】`i3 fon1 zah7 qia2` <small>/i3 foŋ1 t͡saʔ7 t͡ɕʰia2/<sup>兴化</sup>, /ʝ3 fɔŋ1 t͡saʔ7 t͡ɕʰia2/<sup>如皋</sup></small> ① 装作疯颠以行讹诈。<sup>\[如皋\]</sup> ② 装疯卖傻达到非分要求。<sup>\[东台\]</sup> ③ 装疯卖傻，寻机大吵大闹。《吴下方言考》“作邪《南史·陶景宗传》，腊月于宅中使人作邪，诈作痴颠也，吴中谓诈为痴颠者～。”<sup>\[兴化\]</sup>  
+1. 【[倚到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_do.md#倚到)】`i3 do` <small>/i3 tɔ/<sup>兴化</sup>, /ɿ3 tɔ/<sup>泰县</sup></small> ① 以为<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：我～他不来的。<sup>\[兴化\]</sup>｜我还～你今吖不会来上班的。<sup>\[泰县\]</sup>｜本来～他俫落雨不得来的，哪晓得都来啊。<sup>\[泰州\]</sup>｜原来～他最多考个三本，不曾想到他上吖一本。<sup>\[泰州\]</sup> ② 倚仗<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[东台\]</sup>：你不要～有后台就在外头胡搅。<sup>\[兴化\]</sup>｜你不要～你爸爸当局长，就不会处分你。<sup>\[泰县\]</sup>｜不能～男将当厂长，女将就长翅膀。<sup>\[东台\]</sup>  
+1. 【[倚疯作邪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_fon_zah_qia.md#倚疯作邪)】`i3 fon1 zah7 qia2` <small>/i3 foŋ1 t͡saʔ7 t͡ɕʰia2/<sup>兴化</sup>, /ʝ3 fɔŋ1 t͡saʔ7 t͡ɕʰia2/<sup>如皋</sup></small> 装作疯颠，装疯卖傻。\[东台：为达到非分要求。\]\[如皋：以行讹诈。\]\[兴化：装疯卖傻，寻机大吵大闹。《吴下方言考》“作邪《南史·陶景宗传》，腊月于宅中使人作邪，诈作痴颠也，吴中谓诈为痴颠者～。”\]  
 1. 【[倚官仗势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_gun_zhan_shr.md#倚官仗势)】`i3 gun1 zhan5 shr5` <sup>[兴化]</sup> 倚仗自己权势或亲友中有人作官，为所欲为，欺压善良：“我晓得你～，倚财为主，把心来横了，只欺侮的是我……”（《金瓶梅词话》四三）  
-1. 【[倚老卖老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_lo_mae_lo.md#倚老卖老)】`i3 lo3 mae6 lo3` <small>/ʝ3 lɔ3 mɛ1 lɔ3/<sup>如皋</sup></small> ① 卖老资格。俗云<sup>\[如皋\]</sup>：寿星佬儿卖妈妈——～。<sup>\[如皋\]</sup> ② 卖老资格。<sup>\[东台\]</sup>  
+1. 【[倚老卖老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_lo_mae_lo.md#倚老卖老)】`i3 lo3 mae6 lo3` <small>/ʝ3 lɔ3 mɛ1 lɔ3/<sup>如皋</sup></small> 卖老资格。<sup>\[如皋\]</sup><sup>\[东台\]</sup>：俗云：寿星佬儿卖妈妈——～。<sup>\[如皋\]</sup>  
 1. 【[倚墙隑壁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_qian_kae_bieh.md#倚墙隑壁)】`i3 qian2 kae5 bieh7` <sup>[东台]</sup> 连站立都很困难，形容窝囊无用之人：宁养个扒墙上壁，不养个～。  
 1. 【[倚墙靠壁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_qian_ko_bieh.md#倚墙靠壁)】`i3 qian2 ko5 bieh7` <small>/i3 t͡ɕʰiaŋ2 kʰɔ5 piɪʔ7/<sup>兴化</sup>, /ʝ3 t͡ɕʰiã2 kʰɔ5 piəʔ7/<sup>如皋</sup></small> ① 软弱无力扶摸着走的样子。<sup>\[如皋\]</sup> ② 倚着墙壁<sup>\[兴化\]</sup>：每逢开会他总是～的打瞌睡。<sup>\[兴化\]</sup> ③ （引）性情懦弱、孤僻，缺乏朝气。<sup>\[兴化\]</sup>：谚曰：宁养飞墙走壁，不养～。<sup>\[兴化\]</sup>  
 1. 【[倚人总是假，跌倒自爬起](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_ren_zon_shr_jia_dih_do_cz_pa_qi.md#倚人总是假，跌倒自爬起)】`i3 ren2 zon3 shr6 jia3 dih7 do3 cz6 pa2 qi3` <sup>[东台]</sup> 自强不息最重要，自可以读若私。  
@@ -107,16 +103,15 @@
 1. 【[饐拐拐的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_guae_guae_dii.md#饐拐拐的)】`i3 guae guae dii` <sup>[如皋]</sup> 腐烂状：天太热，隔宿的百页～，不能吃。  
 1. 【[㱲妞<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_ni_r.md#㱲妞<sub>儿</sub>)】`i5 ni3 r` <sup>[如皋]</sup> ① 幼嫩的瓜果枯萎了。 ② 比喻早产。 ③ 比喻事情刚开始就停止了。  
 1. 【[㱲掉啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_tio_a.md#㱲掉啊)】`i5 tio a` <sup>[如皋]</sup> ① 见“㱲妞儿”。幼嫩的瓜果枯萎了。 ② 比喻早产。 ③ 比喻事情刚开始就停止了。  
-1. 【[意㽹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_faen.md#意㽹)】`i5 faen5` <small>/i5 fɛ̃5/<sup>兴化</sup>, /ʝ5 fẽ5/<sup>如皋</sup></small> ① 恶心，要吐的感觉 ② 过分<sup>\[如皋\]</sup>：惯伢儿惯得～。<sup>\[如皋\]</sup> ③ 难耐<sup>\[如皋\]</sup>：吃饭的刻儿谈屙屎，哿嫌～吖？<sup>\[如皋\]</sup> ④ 讨厌。<sup>\[如东\]</sup>：重三倒四的说这些话，叫人～。<sup>\[如东\]</sup> ⑤ 作呕<sup>\[东台\]</sup>：想起饭馆里用的地沟油，就叫人～。又作臆㽹。（《玉篇》“㽹，吐㽹也。”）<sup>\[东台\]</sup> ⑥ 恶心欲吐<sup>\[兴化\]</sup>：喉咙里～的。<sup>\[兴化\]</sup>  
+1. 【[意㽹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_faen.md#意㽹)】`i5 faen5` <small>/i5 fɛ̃5/<sup>兴化</sup>, /ʝ5 fẽ5/<sup>如皋</sup></small> ① 过分<sup>\[如皋\]</sup>：惯伢儿惯得～。<sup>\[如皋\]</sup> ② 难耐<sup>\[如皋\]</sup>：吃饭的刻儿谈屙屎，哿嫌～吖？<sup>\[如皋\]</sup> ③ 讨厌。<sup>\[如东\]</sup>：重三倒四的说这些话，叫人～。<sup>\[如东\]</sup> ④ 恶心，要吐的感觉<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[如东\]</sup>：想起饭馆里用的地沟油，就叫人～。又作臆㽹。<sup>\[东台\]</sup>｜喉咙里～的。<sup>\[兴化\]</sup>  
 1. 【[意㽹人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_faen_ren_zz.md#意㽹人子)】`i5 faen5 ren zz` <sup>[如皋]</sup> 见“意㽹”。  
-1. 【[意怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_guae.md#意怪)】`i5 guae5` <small>/i5 kuɛ5/<sup>兴化</sup>, /ʝ5 kuɛ5/<sup>如皋</sup>, /ɿ5 kue5/<sup>泰县</sup></small> ① 脏<sup>\[如皋\]</sup>：他家满地的鸡屎，～死啊。<sup>\[如皋\]</sup> ② 可恶、厌恶<sup>\[如皋\]</sup>：～形、～人子。<sup>\[如皋\]</sup> ③ 过分<sup>\[如皋\]</sup>：他俫两个好得～。<sup>\[如皋\]</sup> ④ 感觉恶心。<sup>\[如东\]</sup>：看见这种肉，我有些～。<sup>\[如东\]</sup> ⑤ 怪模怪样，常人看不惯<sup>\[东台\]</sup>：她眉毛描得像拖把，～煞咖啦。<sup>\[东台\]</sup> ⑥ 脏兮兮，叫人难受。也作“臆怪”。<sup>\[东台\]</sup> ⑦ 瘆人<sup>\[兴化\]</sup>：看他满脸流血的样子真～。也说“意里不怪”。<sup>\[兴化\]</sup> ⑧ 脏得使人讨厌。<sup>\[泰县\]</sup> ⑨ 打扮得使人讨厌。<sup>\[泰县\]</sup>  
-1. 【[意怪/臆怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_guae.md#意怪/臆怪)】`i5 guae5` 某种状态令人难以接受，令人感到恶心<sup>\[泰州\]</sup>：身上全是些脓血，望吖～煞咖。<sup>\[泰州\]</sup>｜这吖大的岁数，脸上搽啊像吊死鬼，望吖都～。<sup>\[泰州\]</sup>｜这些话不要再说咖，听吖～煞咖唻。<sup>\[泰州\]</sup>  
+1. 【[意怪/臆怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_guae.md#意怪/臆怪)】`i5 guae5` <small>/i5 kuɛ5/<sup>兴化</sup>, /ʝ5 kuɛ5/<sup>如皋</sup>, /ɿ5 kue5/<sup>泰县</sup></small> ① 脏<sup>\[如皋\]</sup>：他家满地的鸡屎，～死啊。<sup>\[如皋\]</sup> ② 可恶、厌恶<sup>\[如皋\]</sup>：～形、～人子。<sup>\[如皋\]</sup> ③ 过分<sup>\[如皋\]</sup>：他俫两个好得～。<sup>\[如皋\]</sup> ④ 感觉恶心。<sup>\[如东\]</sup>：看见这种肉，我有些～。<sup>\[如东\]</sup> ⑤ 怪模怪样，常人看不惯<sup>\[东台\]</sup>：她眉毛描得像拖把，～煞咖啦。<sup>\[东台\]</sup> ⑥ 脏兮兮，叫人难受。<sup>\[东台\]</sup> ⑦ 瘆人<sup>\[兴化\]</sup>：看他满脸流血的样子真～。也说“意里不怪”。<sup>\[兴化\]</sup> ⑧ 脏得使人讨厌，或打扮得使人讨厌。<sup>\[泰县\]</sup> ⑨ 某种状态令人难以接受，令人感到恶心<sup>\[泰州\]</sup>：身上全是些脓血，望吖～煞咖。<sup>\[泰州\]</sup>｜这吖大的岁数，脸上搽啊像吊死鬼，望吖都～。<sup>\[泰州\]</sup>｜这些话不要再说咖，听吖～煞咖唻。<sup>\[泰州\]</sup>  
 1. 【[意怪不辣的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_guae_beh_laeh_dii.md#意怪不辣的)】`i5 guae5 beh7 laeh8 dii` <sup>[如皋]</sup> 脏、龌龊：他家～，你不要去。  
-1. 【[意怪臭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_guae_cheu.md#意怪臭)】`i5 guae5 cheu5` <small>/ʝ5 kuɛ5 t͡sʰei5/<sup>如皋</sup></small> ① 过分讲究而可恶，或指人<sup>\[如皋\]</sup>：她是个～，粪浇的菜不敢吃<sup>\[如皋\]</sup>｜看见人家舀粪就捂鼻子，做起个～的样子来。<sup>\[如皋\]</sup> ② 作客吃饭时或当别人馈赠礼物时过分拘礼，几乎不近人情。也称“意怪兽”。<sup>\[东台\]</sup>  
+1. 【[意怪臭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_guae_cheu.md#意怪臭)】`i5 guae5 cheu5` <small>/ʝ5 kuɛ5 t͡sʰei5/<sup>如皋</sup></small> 过分讲究而可恶，或指人<sup>\[如皋\]</sup>\[东台：作客吃饭时或当别人馈赠礼物时过分拘礼，几乎不近人情。也称“意怪兽”。\]：她是个～，粪浇的菜不敢吃<sup>\[如皋\]</sup>｜看见人家舀粪就捂鼻子，做起个～的样子来。<sup>\[如皋\]</sup>  
 1. 【[意怪兽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_guae_sheu.md#意怪兽)】`i5 guae5 sheu5` <sup>[兴化]</sup> （讽）有怪癖的人：他好茶好饭不吃，馊粥馊饭吃得津津有味，真是～。  
 1. 【[意样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_ian.md#意样)】`i5 ian6` <sup>[兴化]</sup> 也许、可能，兴化词典写“一样”：“一个女人家，他有什么定见？今天爱这个，明天爱那个，～会上了我们的道儿。”（《广陵潮》七四）｜“这个嘛，明天看唦，～明天去看新娘子……”（《皮五辣子》一）  
 1. 【[意码](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_ma.md#意码)】`i5 ma3` <small>/ɿ5 ma3/<sup>泰县</sup></small> ① 记忆模糊<sup>\[泰县\]</sup>：我～记得这句是唐诗里的。<sup>\[泰县\]</sup> ② 根据已经模糊的记忆估计某种情况，印象不是十分确定<sup>\[泰州\]</sup>：～中老李家家是在八字桥那块。<sup>\[泰州\]</sup>｜具体记不清吖，～当中老王是五三年生的。<sup>\[泰州\]</sup>  
-1. 【[意码<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_ma_r.md#意码<sub>儿</sub>)】`i5 ma3 r` <small>/i5 ma3 ɚ/<sup>兴化</sup></small> ① 初步意向，也称意码象<sup>\[东台\]</sup>：这个项目才有啊个～。<sup>\[东台\]</sup> ② 往事留下的痕迹或模糊印象<sup>\[东台\]</sup>：离开十年，原来的住址一点儿～也寻不到。<sup>\[东台\]</sup> ③ 事前做的记号<sup>\[东台\]</sup>：栽树要先画个～，以利合理布局。<sup>\[东台\]</sup> ④ 隐隐约约的地<sup>\[兴化\]</sup>：我～记得他好像是海下人。<sup>\[兴化\]</sup>  
+1. 【[意码<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_ma_r.md#意码<sub>儿</sub>)】`i5 ma3 r` <small>/i5 ma3 ɚ/<sup>兴化</sup></small> ① 初步意向，也称意码象<sup>\[东台\]</sup>：这个项目才有啊个～。<sup>\[东台\]</sup> ② 往事留下的痕迹或模糊印象<sup>\[东台\]</sup>：离开十年，原来的住址一点儿～也寻不到。<sup>\[东台\]</sup> ③ 事前做的记号<sup>\[东台\]</sup>：栽树要先画个～，以利合理布局。<sup>\[东台\]</sup> ④ 隐隐约约地<sup>\[兴化\]</sup>：我～记得他好像是海下人。<sup>\[兴化\]</sup>  
 1. 【[意忸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_nieu_r.md#意忸<sub>儿</sub>)】`i5 nieu5 r` <sup>[东台]</sup> 与“意怪臭”近义。  
 1. 【[意趄<sub>儿</sub>风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_qia_r_fon.md#意趄<sub>儿</sub>风)】`i5 qia5 r fon1` <small>/ʝ5 t͡ɕʰia˞5 fɔŋ1/<sup>如皋</sup></small> ① 一阵风式的偏信、偏爱<sup>\[如皋\]</sup>：你不要～吧，进口货就没得差的啦？<sup>\[如皋\]</sup> ② 凭着想象而瞎说。<sup>\[如东\]</sup>：不要～，哪许有这回事。<sup>\[如东\]</sup>  
 1. 【[意思](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_sz.md#意思)】`i5 sz` <small>/i5 sɿ/<sup>兴化</sup>, /ʝ5 sɿ/<sup>如皋</sup></small> ① 稍许<sup>\[如皋\]</sup>：他～有点儿发热。<sup>\[如皋\]</sup> ② 表示心意<sup>\[兴化\]</sup>：请大家到水乡酒楼小聚，～下子。<sup>\[兴化\]</sup> ③ 侍弄、服待、照顾<sup>\[兴化\]</sup>：这盆吊兰～得真好。老王生病的时候，爱人～得真好！<sup>\[兴化\]</sup>  
