@@ -10,7 +10,7 @@
 1. 【[依妥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_tu.md#依妥)】`i1 tu3` <sup>[如皋]</sup> 了结，罢休。  
 1. 【[医家先生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_jia_xin_shen.md#医家先生)】`i1 jia1 xin1 shen` <sup>[兴化]</sup> 医生，尤指中医：……请～看病啊，买药啊，都要用钱。（扬二《吹箫过市》）  
 1. 【[衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#衣)】`i1` <sup>[如皋]</sup> ① 指胎盘：～胞、伢儿～。中药名“紫河车”。 ② 小麦粒上的壳、芦柴的叶柄：～裹儿。 ③ 服装：～裳、老～。  
-1. 【[衣胞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_bo.md#衣胞)】`i1 bo1` <small>/ʝ1 pɔ1/<sup>如皋</sup></small> 胎盘。<sup>\[如皋\]</sup><sup>\[如东\]</sup>  
+1. 【[衣胞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_bo.md#衣胞)】`i1 bo1` <small>/ʝ1 pɔ1/<sup>如皋</sup></small> ① 胎盘。<sup>\[如皋\]</sup><sup>\[如东\]</sup> ② 胞衣，包在胎儿体表上的一层胞膜。<sup>\[泰州\]</sup>  
 1. 【[衣胞地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_bo_ti.md#衣胞地)】`i1 bo1 ti6` <sup>[东台]</sup> ［借］人的出生地。人的胎盘和胎膜统称衣胞，也叫胎衣、胞衣。  
 1. 【[衣胞之地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_bo_zhr_ti.md#衣胞之地)】`i1 bo1 zhr1 ti6` <small>/i1 pɔ1 t͡sɿ1 tʰəi6/<sup>兴化</sup>, /ʝ1 pɔ1 t͡sɿ1 tʰʝ1/<sup>如皋</sup></small> 出生之地，埋衣胞的地方。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[兴化\]</sup>：如东是我的～。<sup>\[如东\]</sup>｜新娘的真哭，是因为突然离开～……（马春阳《扬州水乡婚俗散记》）<sup>\[兴化\]</sup>  
 1. 【[衣兜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_deu.md#衣兜)】`i1 deu1` <sup>[兴化]</sup> 将长衫下摆的两角拎起，形成兜状，可临时放一点东西：儿歌：过年过年，果子搅钱，不要不要，～里一倒。  
@@ -21,16 +21,15 @@
 1. 【[衣领帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_lien_ban.md#衣领帮)】`i1 lien3 ban1` <sup>[泰县]</sup> 笔画的一种。  
 1. 【[衣领旁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_lien_pan.md#衣领旁)】`i1 lien3 pan2` <sup>[兴化]</sup> 汉字偏旁，形状是“衤”。  
 1. 【[衣帽鞋袜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_mo_hae_vaeh.md#衣帽鞋袜)】`i1 mo6 hae2 vaeh8` <sup>[如皋]</sup> 泛指衣着。  
-1. 【[衣胞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_po.md#衣胞)】`i1 po1` 胞衣，包在胎儿体表上的一层胞膜。<sup>\[泰州\]</sup>  
 1. 【[衣袖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_qieu.md#衣袖)】`i1 qieu6` <sup>[如皋]</sup> 袖子。  
 1. 【[衣袖管<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_qieu_gun_r.md#衣袖管<sub>儿</sub>)】`i1 qieu6 gun3 r` 袖子  
-1. 【[衣裳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_shan.md#衣裳)】`i1 shan` ① 衣服 ② 服装。衣为褂子，裳为裙子。<sup>\[如东\]</sup>  
+1. 【[衣裳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_shan.md#衣裳)】`i1 shan` 衣服  
 1. 【[衣裳架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_shan_ga_zz.md#衣裳架子)】`i1 shan ga5 zz` <sup>[如皋]</sup> 比喻身材高大，制衣用料多。  
 1. 【[衣食饭碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_sheh_faen_un.md#衣食饭碗)】`i1 sheh8 faen6 un3` <sup>[兴化]</sup> 衣服和食物。（喻）作为主要生活来源的工作：“……他爱拿那个缺给谁，也不管我事，何必这时候来抢我的～呢……”（《官场现形记》四）。“我就是一副担子……对不起，不借。～，不能当玩意。”（《皮五辣子》二）  
 1. 【[衣食父母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_sheh_fv_mu.md#衣食父母)】`i1 sheh8 fv6 mu3` <sup>[兴化]</sup> （喻）提供主要生活来源的人：顾客是店家的～。  
 1. 【[衣箱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_xian.md#衣箱)】`i1 xian1` <sup>[如皋]</sup> 纸扎的烧化给死者的箱子。家常所用则称“箱子、皮箱、木箱、藤箱等”。  
 1. 【[衣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_zz.md#衣子)】`i1 zz` <small>/i1 t͡sɿ/<sup>兴化</sup>, /ʝ1 t͡sɿ/<sup>如皋</sup></small> ① 轻而小的纤维飞尘或纤维，床下、衣袋内常见到。如纱～。<sup>\[如皋\]</sup> ② 芦苇、竹子内壁的薄膜。<sup>\[兴化\]</sup> ③ 豆浆、米粥等表面凝结成的薄膜。<sup>\[兴化\]</sup> ④ 从絮棉或棉布上飘落的纤维<sup>\[兴化\]</sup>：棉花～；布～。<sup>\[兴化\]</sup>  
-1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#□)】`i2` <sup>[兴化]</sup> ① 食物变质泛酸起粘：一锅饭全～啊。 ② 作动词：粽子～掉啊。  
+1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#□)】`i2` <sup>[兴化]</sup> 食物变质泛酸起粘：一锅饭全～啊。｜粽子～掉啊。  
 1. 【[仪图](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_tv.md#仪图)】`i2 tv2` <sup>[东台]</sup> 参见“仪注”。  
 1. 【[仪注](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_zhv.md#仪注)】`i2 zhv5` <small>/i2 t͡su5/<sup>兴化</sup></small> ① 婚丧喜庆中的仪式及程序（也作“仪图”）<sup>\[东台\]</sup>：吊唁逝者，先要按当地风俗把～行掉。<sup>\[东台\]</sup> ② 为婚丧寿庆举行典礼的形式、程序等。<sup>\[兴化\]</sup> ③ 在宗教及迷信活动中的礼仪<sup>\[兴化\]</sup>：行～。<sup>\[兴化\]</sup>  
 1. 【[姨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#姨)】`i2` <sup>[如皋]</sup> ① 称母亲的姐妹或比母亲小的女性：大姨、小姨。 ② 姐妹出嫁后与对方家庭成员间的关系称。  
@@ -52,12 +51,14 @@
 1. 【[姨妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_ma.md#姨妈)】`i2 ma1` <small>/ʝ2 mɑ1/<sup>泰兴</sup></small> 母亲的姐姐。<sup>\[如东\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>  
 1. 【[姨妈妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_ma_ma.md#姨妈妈)】`i2 ma1 ma` 姨妈，妈妈的姐姐<sup>\[如东\]</sup>  
 1. 【[姨妹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_mei.md#姨妹)】`i2 mei6` <sup>[如东]</sup> 姨妈和姨娘生的年龄比自己小的女子。  
-1. 【[姨奶奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_nae_nae.md#姨奶奶)】`i2 nae3 nae3` <small>/ʝ2 nɛ3 nɛ3/<sup>泰兴</sup></small> ① 父亲的姨母\[如东：如东东路\] ② 父亲的姨母或母亲的姨母<sup>\[泰兴\]</sup>  
-1. 【[姨娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_nian.md#姨娘)】`i2 nian` <small>/i2 liaŋ/<sup>兴化</sup></small> ① 姨，妈妈的妹妹<sup>\[如东\]</sup> ② 姨母<sup>\[兴化\]</sup>：“好妈妈！你去劝劝～罢！”（《广陵潮》二十一）<sup>\[兴化\]</sup>  
-1. 【[姨娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_nian.md#姨娘)】`i2 nian2` ① 姨妈，母亲的姐妹。<sup>\[东台\]</sup> ② 母亲的妹妹。<sup>\[泰州\]</sup>  
+1. 【[姨奶奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_nae_nae.md#姨奶奶)】`i2 nae3 nae3` <small>/ʝ2 nɛ3 nɛ3/<sup>泰兴</sup></small> ① 父亲的姨母<sup>\[如东\]</sup> ② 父亲的姨母或母亲的姨母<sup>\[泰兴\]</sup>  
+1. 【[姨娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_nian.md#姨娘)】`i2 nian` <small>/i2 liaŋ/<sup>兴化</sup></small> ① 母亲的妹妹<sup>\[如东\]</sup> ② 姨母<sup>\[兴化\]</sup>：“好妈妈！你去劝劝～罢！”（《广陵潮》二十一）<sup>\[兴化\]</sup>  
+1. 【[姨娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_nian.md#姨娘)】`i2 nian2` <small>/ʝ2 niɑŋ2/<sup>泰兴</sup></small> ① 姨妈，母亲的姐妹。<sup>\[东台\]</sup> ② 母亲的妹妹。<sup>\[泰州\]</sup><sup>\[泰兴\]</sup>  
+1. 【[姨婆婆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_pu_pu.md#姨婆婆)】`i2 pu2 pu` 母亲的姨母<sup>\[如东\]</sup>  
 1. 【[姨亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_qien.md#姨亲)】`i2 qien1` <sup>[如东]</sup> 姐姐与妹妹之间的亲属关系。  
 1. 【[姨太太](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_tae_tae.md#姨太太)】`i2 tae5 tae5` <sup>[如皋]</sup> 尊称妾。  
 1. 【[姨弟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_ti.md#姨弟)】`i2 ti6` <sup>[如东]</sup> 姨妈和姨娘生的年龄比自己小的男子。  
+1. 【[姨外外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_vae_vae.md#姨外外)】`i2 vae6 vae` 母亲的姨父<sup>\[如东\]</sup>  
 1. 【[姨兄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_xion.md#姨兄)】`i2 xion` <sup>[如东]</sup> 姨妈和姨娘生的年龄比自己大的男子。  
 1. 【[姨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_zz.md#姨子)】`i2 zz` <small>/i2 t͡sɿ/<sup>兴化</sup></small> 妻子的姐妹。<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：大～；小～。<sup>\[兴化\]</sup>  
 1. 【[爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#爷)】`i2` <small>/i2/<sup>兴化</sup>, /ʝ2/<sup>如皋</sup></small> ① 叔叔（扬州音） ② 叔叔。称父亲的弟弟或比父亲年轻的长辈。<sup>\[如皋\]</sup> ③ 父亲的弟弟。通称叔父。<sup>\[如东\]</sup> ④ 兴盐边界某些村舍语<sup>\[兴化\]</sup>：父亲。<sup>\[兴化\]</sup>  
@@ -69,7 +70,7 @@
 1. 【[疑心病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_xien_pien.md#疑心病)】`i2 xien1 pien6` <sup>[如东]</sup> 患有怀疑心理症：这个人有～。  
 1. 【[疑心生暗鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_xien_shen_un_guei.md#疑心生暗鬼)】`i2 xien1 shen1 un5 guei3` <sup>[东台]</sup> 因过度怀疑而产生错觉。  
 1. 【[移苗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_mio.md#移苗)】`i2 mio2` <sup>[如东]</sup> 将棉花或其他作物的幼苗由一地移栽到另一地去，叫做移苗。  
-1. 【[胰子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_zz.md#胰子)】`i2 zz` <small>/i2 t͡sɿ/<sup>兴化</sup>, /ʝ2 t͡sɿ/<sup>如皋</sup></small> ① 猪胰脏。<sup>\[如皋\]</sup> ② 蟹腮。<sup>\[如皋\]</sup> ③ 旧称肥皂。<sup>\[如皋\]</sup> ④ 猪、羊等哺乳动物的胰。<sup>\[兴化\]</sup> ⑤ 肥皂<sup>\[兴化\]</sup>：香～。<sup>\[兴化\]</sup> ⑥ 蟹壳以下两片对称的类似白色脂肪的物质<sup>\[兴化\]</sup>：蟹～。<sup>\[兴化\]</sup>  
+1. 【[胰子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_zz.md#胰子)】`i2 zz` <small>/i2 t͡sɿ/<sup>兴化</sup>, /ʝ2 t͡sɿ/<sup>如皋</sup></small> ① 胰脏<sup>\[如皋\]</sup><sup>\[兴化\]</sup> ② 蟹腮。<sup>\[如皋\]</sup> ③ 肥皂<sup>\[如皋\]</sup><sup>\[兴化\]</sup>：香～。<sup>\[兴化\]</sup> ④ 蟹壳以下两片对称的类似白色脂肪的物质<sup>\[兴化\]</sup>：蟹～。<sup>\[兴化\]</sup>  
 1. 【[遗腹子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_foh_zz.md#遗腹子)】`i2 foh7 zz` <sup>[如东]</sup> 父亲死后生下来的孩子。  
 1. 【[颐颗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_ku.md#颐颗)】`i2 ku` <sup>[如皋]</sup> 呼鸭也。据乾隆《如皋县志》今读若“游”。  
 1. 【[以□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_bin.md#以□)】`i3 bin5` <sup>[泰县]</sup> 反正。  
@@ -78,8 +79,8 @@
 1. 【[以话答话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_hua_daeh_hua.md#以话答话)】`i3 hua6 daeh7 hua6` <sup>[如皋]</sup> 见“以话打话”。  
 1. 【[以上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_shan.md#以上)】`i3 shan6` <sup>[东台]</sup> 前一段时间。在普通话里多作为方位词，而在东台话里常作为时间概念：他～来过。  
 1. 【[以生托熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_shen_tah_shoh.md#以生托熟)】`i3 shen1 tah7 shoh8` <small>/i3 sən1 tʰaʔ7 sɔʔ8/<sup>兴化</sup>, /ʝ3 səŋ1 tʰaʔ7 sɔʔ8/<sup>如皋</sup></small> ① 利用关系拉关系<sup>\[如皋\]</sup>：她有本事～的请人来帮忙。<sup>\[如皋\]</sup> ② 本来不熟悉却以熟人的姿态和人拉关系。<sup>\[兴化\]</sup>  
-1. 【[以作/拟作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_zah.md#以作/拟作)】`i3 zah7` ① 按照（实际）估计下来最多算作<sup>\[泰州\]</sup>：会场上的人全部加起来，～来啊七八十个人。<sup>\[泰州\]</sup>｜这件衣裳～值咖一百多块钱吧。<sup>\[泰州\]</sup> ② 估计下来最好就是某个结果<sup>\[泰州\]</sup>：他的成绩，～上个下坝中学吧。<sup>\[泰州\]</sup>｜凭他这门水平，～当个科长就不错唻。<sup>\[泰州\]</sup>  
-1. 【[以酌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_zhah.md#以酌)】`i3 zhah7` <sup>[泰县]</sup> 大约：这回参加运动会的～二百个人。  
+1. 【[以作/拟作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_zah.md#以作/拟作)】`i3 zah7` 估计下来最多<sup>\[泰州\]</sup>：会场上的人全部加起来，～来啊七八十个人。<sup>\[泰州\]</sup>｜这件衣裳～值咖一百多块钱吧。<sup>\[泰州\]</sup>｜他的成绩，～上个下坝中学吧。<sup>\[泰州\]</sup>｜凭他这门水平，～当个科长就不错唻。<sup>\[泰州\]</sup>  
+1. 【[以作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_zah.md#以作)】`i3 zhah7` <sup>[泰县]</sup> 大约：这回参加运动会的～二百个人。  
 1. 【[倚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#倚)】`i3` <small>/ʝ3/<sup>如皋</sup></small> ① 以为，倚仗 ② 依随。弟新妇的妈妈来啊，我～啊侄子叫她婆婆。<sup>\[如皋\]</sup> ③ 延误<sup>\[如皋\]</sup>：事情捱～下来啊。<sup>\[如皋\]</sup> ④ 抵住<sup>\[如皋\]</sup>：拿背脊～着咖门不让人进出。<sup>\[如皋\]</sup>  
 1. 【[倚啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_a.md#倚啊)】`i3 a` <sup>[如皋]</sup> 倚仗、依照、倚赖。  
 1. 【[倚啊包袱㧟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_a_bo_foh.md#倚啊包袱㧟)】`i3 a bo1 foh kuae6` <sup>[如皋]</sup> 依赖功劳或成绩敷衍行事：你不要～，新任领导不吃这一套。  
@@ -115,24 +116,23 @@
 1. 【[意码<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_ma_r.md#意码<sub>儿</sub>)】`i5 ma3 r` <small>/i5 ma3 ɚ/<sup>兴化</sup></small> ① 初步意向，也称意码象<sup>\[东台\]</sup>：这个项目才有啊个～。<sup>\[东台\]</sup> ② 往事留下的痕迹或模糊印象<sup>\[东台\]</sup>：离开十年，原来的住址一点儿～也寻不到。<sup>\[东台\]</sup> ③ 事前做的记号<sup>\[东台\]</sup>：栽树要先画个～，以利合理布局。<sup>\[东台\]</sup> ④ 隐隐约约地<sup>\[兴化\]</sup>：我～记得他好像是海下人。<sup>\[兴化\]</sup>  
 1. 【[意忸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_nieu_r.md#意忸<sub>儿</sub>)】`i5 nieu5 r` <sup>[东台]</sup> 与“意怪臭”近义。  
 1. 【[意趄<sub>儿</sub>风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_qia_r_fon.md#意趄<sub>儿</sub>风)】`i5 qia5 r fon1` <small>/ʝ5 t͡ɕʰia˞5 fɔŋ1/<sup>如皋</sup></small> ① 一阵风式的偏信、偏爱<sup>\[如皋\]</sup>：你不要～吧，进口货就没得差的啦？<sup>\[如皋\]</sup> ② 凭着想象而瞎说。<sup>\[如东\]</sup>：不要～，哪许有这回事。<sup>\[如东\]</sup>  
-1. 【[意思](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_sz.md#意思)】`i5 sz` <small>/i5 sɿ/<sup>兴化</sup>, /ʝ5 sɿ/<sup>如皋</sup></small> ① 稍许<sup>\[如皋\]</sup>：他～有点儿发热。<sup>\[如皋\]</sup> ② 表示心意<sup>\[兴化\]</sup>：请大家到水乡酒楼小聚，～下子。<sup>\[兴化\]</sup> ③ 侍弄、服待、照顾<sup>\[兴化\]</sup>：这盆吊兰～得真好。老王生病的时候，爱人～得真好！<sup>\[兴化\]</sup>  
+1. 【[意思](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_sz.md#意思)】`i5 sz` <small>/i5 sɿ/<sup>兴化</sup>, /ʝ5 sɿ/<sup>如皋</sup></small> ① 稍许<sup>\[如皋\]</sup>：他～有点儿发热。<sup>\[如皋\]</sup> ② 表示心意<sup>\[兴化\]</sup>：请大家到水乡酒楼小聚，～下子。<sup>\[兴化\]</sup> ③ 侍弄、服待、照顾<sup>\[兴化\]</sup>：这盆吊兰～得真好。老王生病的时候，爱人～得真好！<sup>\[兴化\]</sup> ④ 象征性的表示<sup>\[泰州\]</sup>：这套房子起码要得三百万，收啊你五十万，只是表示个～，将来有人说到啊，也好算把啊钱的。<sup>\[泰州\]</sup> ⑤ 情意，心意<sup>\[泰州\]</sup>：人情钱多钱少是一回事，出与不出又是一回事，你的～到啊也就可以唻。<sup>\[泰州\]</sup>  
 1. 【[意思意思](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_sz_i_sz.md#意思意思)】`i5 sz i5 sz` <sup>[东台]</sup> ① 请客送礼略表一下心意：客人来啊这许总要～。 ② 对自己讲话的谦词：我随便讲吖几点，只是～，仅供参考。  
-1. 【[意思间](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_sz_jiaen.md#意思间)】`i5 sz jiaen1` <sup>[东台]</sup> 稍微有那么一点感觉：这道菜～有点鹾（咸）/他说话的～不怎吖情愿。  
-1. 【[意思账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_sz_zhan.md#意思账)】`i5 sz zhan5` <small>/i5 sɿ t͡saŋ5/<sup>兴化</sup>, /ʝ5 sɿ t͡sã5/<sup>如皋</sup></small> ① 敷衍、象征性的表示，并无深交。<sup>\[如皋\]</sup> ② 只是象征性地表示一点心意<sup>\[东台\]</sup>：我这点红纸角落只是～。<sup>\[东台\]</sup> ③ 聊表心意<sup>\[兴化\]</sup>：礼物太轻，不过是一点～。<sup>\[兴化\]</sup> ④ 表面文章，缺乏实际意义<sup>\[兴化\]</sup>：干部上街扫地不过是～而已。<sup>\[兴化\]</sup>  
-1. 【[意思](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_sz.md#意思)】`i5 sz5` ① 象征性的表示<sup>\[泰州\]</sup>：这套房子起码要得三百万，收啊你五十万，只是表示个～，将来有人说到啊，也好算把啊钱的。<sup>\[泰州\]</sup> ② 情意，心意<sup>\[泰州\]</sup>：人情钱多钱少是一回事，出与不出又是一回事，你的～到啊也就可以唻。<sup>\[泰州\]</sup>  
+1. 【[意思间](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_sz_jiaen.md#意思间)】`i5 sz jiaen1` <sup>[东台]</sup> 稍微有那么一点感觉：这道菜～有点鹾（咸）｜他说话的～不怎吖情愿。  
+1. 【[意思账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_sz_zhan.md#意思账)】`i5 sz zhan5` <small>/i5 sɿ t͡saŋ5/<sup>兴化</sup>, /ʝ5 sɿ t͡sã5/<sup>如皋</sup></small> ① 敷衍、象征性的表示，并无深交。<sup>\[如皋\]</sup> ② 聊表心意<sup>\[东台\]</sup><sup>\[兴化\]</sup>：我这点红纸角落只是～。<sup>\[东台\]</sup>｜礼物太轻，不过是一点～。<sup>\[兴化\]</sup> ③ 表面文章，缺乏实际意义<sup>\[兴化\]</sup>：干部上街扫地不过是～而已。<sup>\[兴化\]</sup>  
 1. 【[意思意思](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_sz_i_sz.md#意思意思)】`i5 sz5 i5 sz5` <sup>[如东]</sup> 聊表心意：送点儿东西，～。  
 1. 【[意误意懒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_v_i_laen.md#意误意懒)】`i5 v i5 laen3` <sup>[兴化]</sup> 犹豫不定：开店的事我一直～的，拿不定主意。  
 1. 【[意味<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_vei_r.md#意味<sub>儿</sub>)】`i5 vei6 r` <sup>[如皋]</sup> 待人接物中所显出的品德修养：他的～好。  
 1. 【[殪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#殪)】`i5` <small>/ɿ5/<sup>泰县</sup></small> ① 植物果实萎缩脱落。如皋词典作“㱲”。<sup>\[如东\]</sup>：许多桃儿～掉啊。<sup>\[如东\]</sup> ② 花木水果蔬菜等因失去所含水分而枯萎、下垂。如皋词典作“㱲”。<sup>\[东台\]</sup>：这菜有点～，恐怕不新鲜<sup>\[东台\]</sup>｜刚栽的小树，三天不曾浇水，叶子都～啊。<sup>\[东台\]</sup> ③ 部分枯萎、物不新鲜：花芯儿～掉啊。<sup>\[泰县\]</sup>  
 1. 【[澺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#澺)】`i5` <sup>[如皋]</sup> 纸上墨迹渲润。  
 1. 【[缢蛏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_chen.md#缢蛏)】`i5 chen1` <sup>[如东]</sup> 竹蛏科动物缢蛏，壳中央稍偏前方有一条自壳顶至腹缘的斜沟，状如缢痕故名。壳长4～8厘米。壳长方形。背腹缘近于平行，前缘稍圆，后缘略呈截形。壳面平滑，生长纹显著。壳薄而脆。壳面被有一层黄绿色的壳皮。生长纹清晰。壳内面乳白色。足部肌肉发达，足孔周围具有很多触手。水管2条长而分开。生活在浅海河口泥沙中。主要以硅藻为食。  
-1. 【[翳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#翳)】`i5` <small>/ʝ5/<sup>如皋</sup></small> ① 眼角膜上因受伤而留下的疤痕。<sup>\[如皋\]</sup> ② 遮蔽。眼睛角膜病变后留下的白瘢。他眼睛有个～，看不清东西。<sup>\[东台\]</sup>  
+1. 【[翳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#翳)】`i5` <small>/ʝ5/<sup>如皋</sup></small> ① 眼角膜上因受伤而留下的疤痕。<sup>\[如皋\]</sup> ② 眼睛角膜病变后留下的白瘢。<sup>\[东台\]</sup>：他眼睛有个～，看不清东西。<sup>\[东台\]</sup>  
 1. 【[肄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#肄)】`i5` <sup>[如皋]</sup> ① 照样描画。 ② 修补笔画。  
 1. 【[薏苡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_i.md#薏苡)】`i5 i3` <sup>[如东]</sup> 禾本科植物薏苡，一年或多年生草本。秆直立，高约1.5米。叶片线状披针形。总状花序腋生成束。颖果外包坚硬的总苞，卵形。栽培。种仁，也称薏米。  
-1. 【[裔纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_zhr.md#裔纸)】`i5 zhr` <sup>[东台]</sup> 和尚放焰口时宣诵的死者生平及简易家谱。  
-1. 【[裔纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_zhr.md#裔纸)】`i5 zhr3` <small>/ʝ5 t͡sɿ3/<sup>如皋</sup></small> ① 丧户张挂的孝牌和放焰口由和尚唱读的文书。上面记有死者后裔的名字（外姓则写姓氏）。<sup>\[如皋\]</sup> ② 见“孝牌”。<sup>\[如皋\]</sup> ③ 追荐先人放焰口时，由和尚唱读的宗族后裔名单（用黄纸写）。<sup>\[如皋\]</sup> ④ 死者家族后裔的名单，念夜经、放焰口时，由和尚唱读。<sup>\[如东\]</sup>  
+1. 【[裔纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_zhr.md#裔纸)】`i5 zhr` <small>/ʝ5 t͡sɿ/<sup>如皋</sup></small> ① 和尚放焰口时宣诵的死者生平及简易家谱。<sup>\[东台\]</sup> ② 丧户张挂的孝牌和放焰口由和尚唱读的文书。上面记有死者后裔的名字（外姓则写姓氏）。\[如皋：参见“孝牌”。\]  
+1. 【[裔纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_zhr.md#裔纸)】`i5 zhr3` 死者家族后裔的名单，念夜经、放焰口时，由和尚唱读。<sup>\[如东\]</sup>  
 1. 【[义塾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_shoh.md#义塾)】`i6 shoh8` <sup>[如皋]</sup> 旧时免费施教的学塾。  
-1. 【[勚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#勚)】`i6` <small>/i6/<sup>兴化</sup>, /ʝ1/<sup>如皋</sup>, /ɿ1/<sup>泰县</sup></small> ① 磨损 ② 磨损<sup>\[如皋\]</sup>：鞋底跑啊～掉啊。<sup>\[如皋\]</sup> ③ 贬指吃<sup>\[如皋\]</sup>：～不下去、～砂䀇。<sup>\[如皋\]</sup> ④ 逐渐磨损。<sup>\[如东\]</sup>：我的鞋后跟～掉啊。<sup>\[如东\]</sup> ⑤ 磨损<sup>\[东台\]</sup>：铲子～掉啊一壳。<sup>\[东台\]</sup> ⑥ 指饱食以后还在长时间慢慢地吃。<sup>\[东台\]</sup> ⑦ “吃”的贬义说法<sup>\[兴化\]</sup>：～得下去就快～，～不下去就丢碗。<sup>\[兴化\]</sup> ⑧ 勉强多食<sup>\[泰县\]</sup>：总～下去。<sup>\[泰县\]</sup> ⑨ 詈指吃<sup>\[泰县\]</sup>：你快点儿～。<sup>\[泰县\]</sup> ⑩ 器物因磨损而失去棱角<sup>\[泰州\]</sup>：这件衣裳上的袖口儿都～掉唻。<sup>\[泰州\]</sup>｜钢笔的笔尖儿都写啊～掉唻。<sup>\[泰州\]</sup> ⑪ 吃，咽下食物，带有詈义<sup>\[泰州\]</sup>：你在这块说咖不歇，饭都冷吖唻，快点儿～吧。<sup>\[泰州\]</sup>｜你把碗里这点儿饭～下去，不要再弄个滞饭碗出来。<sup>\[泰州\]</sup>  
+1. 【[勚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#勚)】`i6` <small>/i6/<sup>兴化</sup>, /ʝ1/<sup>如皋</sup>, /ɿ1/<sup>泰县</sup></small> ① 磨损 ② 磨损<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰州\]</sup>：鞋底跑啊～掉啊。<sup>\[如皋\]</sup>｜我的鞋后跟～掉啊。<sup>\[如东\]</sup>｜铲子～掉啊一壳。<sup>\[东台\]</sup>｜这件衣裳上的袖口儿都～掉唻。<sup>\[泰州\]</sup>｜钢笔的笔尖儿都写啊～掉唻。<sup>\[泰州\]</sup> ③ 贬指吃<sup>\[如皋\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[兴化\]</sup>：～不下去、～砂䀇。<sup>\[如皋\]</sup>｜你快点儿～。<sup>\[泰县\]</sup>｜你在这块说咖不歇，饭都冷吖唻，快点儿～吧。<sup>\[泰州\]</sup>｜你把碗里这点儿饭～下去，不要再弄个滞饭碗出来。<sup>\[泰州\]</sup>｜～得下去就快～，～不下去就丢碗。<sup>\[兴化\]</sup> ④ 勉强多食<sup>\[泰县\]</sup><sup>\[东台\]</sup>：总～下去。<sup>\[泰县\]</sup>  
 1. 【[勚人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_ren.md#勚人)】`i6 ren2` <sup>[东台]</sup> 肌肤因受到摩擦而难受。  
 1. 【[勚砂䀇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_sha_gv.md#勚砂䀇)】`i6 sha1 gv1` <sup>[如皋]</sup> 比喻食欲不振，难下咽状。砂䀇：胃。  
 1. 【[异奇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_qi.md#异奇)】`i6 qi2` <sup>[兴化]</sup> “奇异”的逆序词，见到这个奇装异服的人，大家都觉猜～。  

@@ -1291,7 +1291,7 @@
 1. 【[蒲扇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_shin.md#蒲扇)】`pv2 shin5` <small>/pʰu2 sĩ5/<sup>如皋</sup></small> ① 用蒲叶编成的扇子。<sup>\[如皋\]</sup> ② 棕榈叶制作的扇子。也称芭蕉扇。<sup>\[如东\]</sup> ③ 用香蒲叶编织的扇子。<sup>\[东台\]</sup>  
 1. 【[蒲鳀鲨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_ti_sha.md#蒲鳀鲨)】`pv2 ti2 sha1` <sup>[如东]</sup> 魟科动物赤魟，也称海鳐鱼、鲦鱼。  
 1. 【[蒲团](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_tun.md#蒲团)】`pv2 tun2` <sup>[东台]</sup> 用香蒲叶、稻草等材料编成的圆形垫子，历来为寺院和尚、尼姑、道士打坐清修的坐具。  
-1. 【[□子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_zz.md#□子)】`pv3 zz` ① （泰州词典作樸子）<sup>\[泰州\]</sup> ② 未加工成器的长方形木方<sup>\[泰州\]</sup>：这几个～是留啊打三门橱用的。<sup>\[泰州\]</sup>  
+1. 【[□子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_zz.md#□子)】`pv3 zz` 未加工成器的长方形木方\[泰州：（泰州词典作樸子）\]：这几个～是留啊打三门橱用的。<sup>\[泰州\]</sup>  
 1. 【[捕风捉影](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_fon_zhuah_ien.md#捕风捉影)】`pv3 fon1 zhuah7 ien3` <sup>[东台]</sup> 风和影子都是抓不着的，比喻说话做事没有根据。（原文记音“捕”bv3）  
 1. 【[普通夜鹰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_ton_ia_ien.md#普通夜鹰)】`pv3 ton1 ia6 ien1` <sup>[如东]</sup> 鸟。头部扁平。嘴扁平呈三角形，边缘有很多刚毛。羽毛灰褐色，多暗小斑点。昼伏夜出。捕食昆虫。  
 1. 【[普通燕鸻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_ton_in_hen.md#普通燕鸻)】`pv3 ton1 in5 hen2` <sup>[如东]</sup> 鸟。形状像家燕而大，两翼大部灰褐色。颈部有半球形的棕色斑纹。尾纯白色，稍分岔。吃蝗虫等害虫，对农业有益。  

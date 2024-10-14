@@ -214,7 +214,7 @@
 1. 【[依妥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_tu.md#依妥)】`i1 tu3` <sup>[如皋]</sup> 了结，罢休。  
 1. 【[医家先生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_jia_xin_shen.md#医家先生)】`i1 jia1 xin1 shen` <sup>[兴化]</sup> 医生，尤指中医：……请～看病啊，买药啊，都要用钱。（扬二《吹箫过市》）  
 1. 【[衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#衣)】`i1` <sup>[如皋]</sup> ① 指胎盘：～胞、伢儿～。中药名“紫河车”。 ② 小麦粒上的壳、芦柴的叶柄：～裹儿。 ③ 服装：～裳、老～。  
-1. 【[衣胞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_bo.md#衣胞)】`i1 bo1` <small>/ʝ1 pɔ1/<sup>如皋</sup></small> 胎盘。<sup>\[如皋\]</sup><sup>\[如东\]</sup>  
+1. 【[衣胞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_bo.md#衣胞)】`i1 bo1` <small>/ʝ1 pɔ1/<sup>如皋</sup></small> ① 胎盘。<sup>\[如皋\]</sup><sup>\[如东\]</sup> ② 胞衣，包在胎儿体表上的一层胞膜。<sup>\[泰州\]</sup>  
 1. 【[衣胞地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_bo_ti.md#衣胞地)】`i1 bo1 ti6` <sup>[东台]</sup> ［借］人的出生地。人的胎盘和胎膜统称衣胞，也叫胎衣、胞衣。  
 1. 【[衣胞之地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_bo_zhr_ti.md#衣胞之地)】`i1 bo1 zhr1 ti6` <small>/i1 pɔ1 t͡sɿ1 tʰəi6/<sup>兴化</sup>, /ʝ1 pɔ1 t͡sɿ1 tʰʝ1/<sup>如皋</sup></small> 出生之地，埋衣胞的地方。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[兴化\]</sup>：如东是我的～。<sup>\[如东\]</sup>｜新娘的真哭，是因为突然离开～……（马春阳《扬州水乡婚俗散记》）<sup>\[兴化\]</sup>  
 1. 【[衣兜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_deu.md#衣兜)】`i1 deu1` <sup>[兴化]</sup> 将长衫下摆的两角拎起，形成兜状，可临时放一点东西：儿歌：过年过年，果子搅钱，不要不要，～里一倒。  
@@ -225,10 +225,9 @@
 1. 【[衣领帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_lien_ban.md#衣领帮)】`i1 lien3 ban1` <sup>[泰县]</sup> 笔画的一种。  
 1. 【[衣领旁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_lien_pan.md#衣领旁)】`i1 lien3 pan2` <sup>[兴化]</sup> 汉字偏旁，形状是“衤”。  
 1. 【[衣帽鞋袜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_mo_hae_vaeh.md#衣帽鞋袜)】`i1 mo6 hae2 vaeh8` <sup>[如皋]</sup> 泛指衣着。  
-1. 【[衣胞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_po.md#衣胞)】`i1 po1` 胞衣，包在胎儿体表上的一层胞膜。<sup>\[泰州\]</sup>  
 1. 【[衣袖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_qieu.md#衣袖)】`i1 qieu6` <sup>[如皋]</sup> 袖子。  
 1. 【[衣袖管<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_qieu_gun_r.md#衣袖管<sub>儿</sub>)】`i1 qieu6 gun3 r` 袖子  
-1. 【[衣裳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_shan.md#衣裳)】`i1 shan` ① 衣服 ② 服装。衣为褂子，裳为裙子。<sup>\[如东\]</sup>  
+1. 【[衣裳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_shan.md#衣裳)】`i1 shan` 衣服  
 1. 【[衣裳架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_shan_ga_zz.md#衣裳架子)】`i1 shan ga5 zz` <sup>[如皋]</sup> 比喻身材高大，制衣用料多。  
 [更多...](./i.md)
 ## J
