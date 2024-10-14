@@ -463,8 +463,7 @@
 1. 【[外头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_teu.md#外头)】`vae6 teu` ① 外面 ② 同“外通”<sup>\[东台\]</sup>：～热。<sup>\[东台\]</sup> ③ 外面，某个空间范围之外<sup>\[泰州\]</sup>：～有人喊你。<sup>\[泰州\]</sup>  
 1. 【[外头有赚钱手，家里还要有聚钱斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_teu_ieu_zhuaen_qin_sheu_ga_lii_hae_io_ieu_qy_qin_deu.md#外头有赚钱手，家里还要有聚钱斗)】`vae6 teu ieu3 zhuaen5 qin2 sheu3 ga1 lii hae2 io5 ieu3 qy6 qin2 deu5` <sup>[东台]</sup> 要会生财，更要会聚财。  
 1. 【[外通](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_ton.md#外通)】`vae6 ton, vae6 don` <sup>[东台]</sup> 外面。（也有人口音若“外栋”，通、栋皆轻读）  
-1. 【[外外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_vae.md#外外)】`vae6 vae` 外公  
-1. 【[外外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_vae.md#外外)】`vae6 vae6` <sup>[如东]</sup> 母亲的父亲。  
+1. 【[外外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_vae.md#外外)】`vae6 vae` 外祖父<sup>\[如东\]</sup>  
 1. 【[外外后朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_vae_heu_do.md#外外后朝)】`vae6 vae6 heu6 do` <sup>[如皋]</sup> 后天的后天。  
 1. 【[外外后年子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_vae_heu_nin_zz.md#外外后年子)】`vae6 vae6 heu6 nin zz` <sup>[如皋]</sup> 后年的后年。  
 1. 【[外相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_xian.md#外相)】`vae6 xian5` <sup>[兴化]</sup> 指外表的样子：乌鸡～虽不堪入目，叫声也不悦耳，但它不说谎话，是个大忠良……（马春阳《翁婿同还乡》）  

@@ -42,16 +42,17 @@
 1. 【[姨丈人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_chan_ren.md#姨丈人)】`i2 chan6 ren` <sup>[兴化]</sup> 岳父的连襟。  
 1. 【[姨侄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_chih.md#姨侄)】`i2 chih8` <sup>[如东]</sup> 姨兄弟、姨姐妹所生的儿子。  
 1. 【[姨侄女](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_chih_ny.md#姨侄女)】`i2 chih8 ny` <sup>[如东]</sup> 姨兄弟、姨姐妹所生的女儿。  
-1. 【[姨爹爹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_dia_dia.md#姨爹爹)】`i2 dia1 dia` 姨父，姨妈的丈夫<sup>\[如东\]</sup>  
+1. 【[姨爹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_dia.md#姨爹)】`i2 dia1` <small>/ʝ2 tiɑ1/<sup>泰兴</sup></small> 姨父<sup>\[泰兴\]</sup>  
+1. 【[姨爹爹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_dia_dia.md#姨爹爹)】`i2 dia1 dia` ① 姨父\[如东：如东东路\] ② 父亲的姨父\[如东：如东西路\]  
 1. 【[姨夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_fv.md#姨夫)】`i2 fv` <small>/i2 fu/<sup>兴化</sup></small> 姨子的丈夫，即连襟。<sup>\[东台\]</sup><sup>\[兴化\]</sup>：他俫是～两个。<sup>\[兴化\]</sup>  
 1. 【[姨父](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_fv.md#姨父)】`i2 fv` <sup>[如东]</sup> 姨娘的丈夫。  
 1. 【[姨哥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_gu.md#姨哥)】`i2 gu1` <sup>[如东]</sup> 姨妈或姨娘生的年龄比自己大的男子。  
 1. 【[姨姐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_jia.md#姨姐)】`i2 jia3` <sup>[如东]</sup> 姨妈和姨娘生的年龄比自己大的女子。  
-1. 【[姨老老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_lo_lo.md#姨老老)】`i2 lo3 lo3` <sup>[如东]</sup> 姨丈、姨父的父亲。  
+1. 【[姨老老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_lo_lo.md#姨老老)】`i2 lo3 lo3` <small>/ʝ2 lɔ3 lɔ3/<sup>泰兴</sup></small> ① 父亲的姨父\[如东：如东东路\] ② 祖父的姨父\[如东：如东西路\] ③ 父亲的姨父或母亲的姨父<sup>\[泰兴\]</sup>  
 1. 【[姨妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_ma.md#姨妈)】`i2 ma1` <small>/ʝ2 mɑ1/<sup>泰兴</sup></small> 母亲的姐姐。<sup>\[如东\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>  
 1. 【[姨妈妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_ma_ma.md#姨妈妈)】`i2 ma1 ma` 姨妈，妈妈的姐姐<sup>\[如东\]</sup>  
 1. 【[姨妹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_mei.md#姨妹)】`i2 mei6` <sup>[如东]</sup> 姨妈和姨娘生的年龄比自己小的女子。  
-1. 【[姨奶奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_nae_nae.md#姨奶奶)】`i2 nae3 nae3` <sup>[如东]</sup> 姨丈、姨父的母亲。  
+1. 【[姨奶奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_nae_nae.md#姨奶奶)】`i2 nae3 nae3` <small>/ʝ2 nɛ3 nɛ3/<sup>泰兴</sup></small> ① 父亲的姨母\[如东：如东东路\] ② 父亲的姨母或母亲的姨母<sup>\[泰兴\]</sup>  
 1. 【[姨娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_nian.md#姨娘)】`i2 nian` <small>/i2 liaŋ/<sup>兴化</sup></small> ① 姨，妈妈的妹妹<sup>\[如东\]</sup> ② 姨母<sup>\[兴化\]</sup>：“好妈妈！你去劝劝～罢！”（《广陵潮》二十一）<sup>\[兴化\]</sup>  
 1. 【[姨娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_nian.md#姨娘)】`i2 nian2` ① 姨妈，母亲的姐妹。<sup>\[东台\]</sup> ② 母亲的妹妹。<sup>\[泰州\]</sup>  
 1. 【[姨亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_qien.md#姨亲)】`i2 qien1` <sup>[如东]</sup> 姐姐与妹妹之间的亲属关系。  

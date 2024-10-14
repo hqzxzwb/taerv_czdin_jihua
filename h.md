@@ -1579,8 +1579,8 @@
 1. 【[黄板筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_baen_jien.md#黄板筋)】`huan2 baen3 jien1` <sup>[兴化]</sup> 靠近肩胛骨的韧带：“……爹说筋骨不舒服，他便来捏～……”（《四杰传》十五）  
 1. 【[黄不起](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_beh_qi.md#黄不起)】`huan2 beh7 qi3` <small>/xuɑŋ2 pəʔ7 t͡sʰɿ3/<sup>泰县</sup></small> ① 不好推托、回避。<sup>\[如东\]</sup><sup>\[泰县\]</sup>：老大说的，～，大家都去吧。<sup>\[如东\]</sup>｜今吖他清客，～，大家一起儿去吧。<sup>\[泰县\]</sup> ② 不好拒绝，得罪不起。<sup>\[东台\]</sup>  
 1. 【[黄包车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_bo_cha.md#黄包车)】`huan2 bo cha1` <small>/xuaŋ2 pɔ t͡sʰa1/<sup>兴化</sup>, /xuã2 pɔ t͡sʰa1/<sup>如皋</sup></small> 人力车<sup>\[兴化\]</sup>\[如皋：又（huan2 bo1 cha1）\]：拉～。<sup>\[兴化\]</sup>  
+1. 【[黄北河/黄百户/黄卜户](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_boh_hu.md#黄北河/黄百户/黄卜户)】`huan2 boh7 hu2` <small>/xuã2 pɔʔ7 xʊ2/<sup>如皋</sup></small> 地名。今如皋胜利乡的自然村。\[如皋：元代军制设百户长，蒙、汉各一人，此为汉人黄姓驻所。\]  
 1. 【[黄柏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_boh.md#黄柏)】`huan2 boh7` <small>/xuã2 pɔʔ7/<sup>如皋</sup></small> 黄柏，芸香科植物黄柏，又作“黄檗”<sup>\[如东\]</sup><sup>\[如皋\]</sup>  
-1. 【[黄百户](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_boh_hu.md#黄百户)】`huan2 boh7 hu2` <sup>[如皋]</sup> 地名。今如皋胜利乡的自然村。元代军制设百户长，蒙、汉各一人，此为汉人黄姓驻所。  
 1. 【[黄䱗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_caen.md#黄䱗)】`huan2 caen1` <sup>[如皋]</sup> 大䱗鱼，鳞色黄。又叫翘嘴儿。  
 1. 【[黄□□的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_chen_chen_dii.md#黄□□的)】`huan2 chen chen1 dii` <sup>[如皋]</sup> 淡黄色。  
 1. 【[黄住啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_chv_a.md#黄住啊)】`huan2 chv a` <sup>[如皋]</sup> 见“黄孔儿”。  
