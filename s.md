@@ -2258,7 +2258,6 @@
 1. 【[爽气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_qi.md#爽气)】`shuan3 qi5` <small>/suã3 t͡ɕʰʝ5/<sup>如皋</sup></small> ① 爽快，豪爽<sup>\[如皋\]</sup>：她说话～，不欢喜韧。<sup>\[如皋\]</sup> ② 快速<sup>\[如皋\]</sup>：她做事～，一大堆的衣裳一刻儿就洗掉啊。<sup>\[如皋\]</sup> ③ 办事、处理问题爽快、干脆<sup>\[泰州\]</sup>：他这个人办事～。<sup>\[泰州\]</sup>  
 1. 【[爽手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_sheu.md#爽手)】`shuan3 sheu3` 器物长短、大小、轻重之类物理性能适中，使用起来便捷<sup>\[泰州\]</sup>：我用这个乒乓球拍子打起来～。<sup>\[泰州\]</sup>  
 1. 【[爽性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_xien.md#爽性)】`shuan3 xien5` 索性，干脆  
-1. 【[蟀蟀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shueh_shueh_r.md#蟀蟀<sub>儿</sub>)】`shueh7 shueh7 r` <sup>[东台]</sup> 蟋蟀。又叫蛐蛐儿。口语音xyeh7 xyeh7 r。  
 1. 【[垂头耷脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_teu_dah_no.md#垂头耷脑)】`shuei2 teu2 dah7 no3` <sup>[兴化]</sup> ① 形容懊丧的样子。 ② 形容萎靡不振的样子：……那三十多个家伙还是拖得～，走路都打瞌睡。（马春阳《夜袭叹气庙》）  
 1. 【[水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei.md#水)】`shuei3` <small>/suei3/<sup>如皋</sup></small> ① 水；凉水；泛指液体 ② 见“奅”。<sup>\[如皋\]</sup> ③ 量词<sup>\[如皋\]</sup>：这种布已经洗啊几～，一点儿不落色。<sup>\[如皋\]</sup> ④ 傻，不精明<sup>\[如皋\]</sup>：这伢儿太～，是个～虫儿。<sup>\[如皋\]</sup> ⑤ （吃）苦头，（上）当，（受）骗<sup>\[如皋\]</sup>：你上吖人家的～啦！<sup>\[如皋\]</sup>  
 1. 【[水芭蕉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_ba_jio.md#水芭蕉)】`shuei3 ba1 jio1` <sup>[如皋]</sup> 芭蕉。  
@@ -3247,4 +3246,5 @@
 1. 【[自家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ga.md#自家)】`sz6 ga1` <small>/sɿ1 ka1/<sup>如皋</sup>, /sɿ1 ka1/<sup>泰县</sup></small> ① 自己。<sup>\[如皋\]</sup> ② 自己。<sup>\[泰县\]</sup>  
 1. 【[自家家里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ga_ga_lii.md#自家家里)】`sz6 ga1 ga1 lii` <sup>[如皋]</sup> 自己家里。  
 1. 【[自有自便](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ieu_sz_pin.md#自有自便)】`sz6 ieu3 sz6 pin6` 自己拥有（相对于仰仗别人），自己方便。  
+1. 【[蟋蟀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shueh_shueh_r.md#蟋蟀<sub>儿</sub>)】`xyeh7 shueh7 r` <sup>[东台]</sup> 蟋蟀。又叫蛐蛐儿。口语音xyeh7 xyeh7 r。“蟋”受后字影响读撮口音。  
 **[▲](#音序检索)**  
