@@ -1207,7 +1207,7 @@
 1. 【[𦽅凉水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_lian_shuei.md#𦽅凉水)】`hu5 lian2 shuei3` <sup>[如皋]</sup> 夏季的一种清凉饮料，由凉开水加薄荷（蔢𦽅）脑儿、香精、糖精、色素配制而成。  
 1. 【[𦽅令缥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_lien_pio.md#𦽅令缥)】`hu5 lien pio3` <sup>[如皋]</sup> 略带青色的细白棉布。“𦽅令”表音。  
 1. 【[祸害](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_hae.md#祸害)】`hu6 hae6` ① 灾难。<sup>\[如东\]</sup> ② 引起灾难的人。<sup>\[如东\]</sup>：来啊个～。<sup>\[如东\]</sup> ③ 伤害他人并给他人带来灾祸<sup>\[泰州\]</sup>：要吃香烟外去吃，不要弄二手烟来～旁的人。<sup>\[泰州\]</sup> ④ 祸害别人的人<sup>\[泰州\]</sup>：这个狗肏的是个～，好好的单位<sup>\[泰州\]</sup>  
-1. 【[贺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu.md#贺)】`hu6` <small>/xʊ1/<sup>如皋</sup></small> ① 祝贺、庆贺：～寿、～喜。<sup>\[如皋\]</sup> ② 夸赞以怂恿、激发：伢儿禁不起～，一～就颠狂。<sup>\[如皋\]</sup> ③ 庆祝<sup>\[东台\]</sup>：帮老人家～寿。<sup>\[东台\]</sup>  
+1. 【[贺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu.md#贺)】`hu6` <small>/xʊ1/<sup>如皋</sup></small> ① 祝贺、庆贺<sup>\[如皋\]</sup><sup>\[东台\]</sup>：～寿、～喜。<sup>\[如皋\]</sup>｜帮老人家～寿。<sup>\[东台\]</sup> ② 夸赞以怂恿、激发<sup>\[如皋\]</sup>：伢儿禁不起～，一～就颠狂。<sup>\[如皋\]</sup>  
 1. 【[贺份](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_fen.md#贺份)】`hu6 fen6` <sup>[如东]</sup> 在建造房屋等活动中，亲戚朋友赠送礼物，称贺份。  
 1. 【[贺份酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_fen_jieu.md#贺份酒)】`hu6 fen6 jieu3` <sup>[如东]</sup> 因亲戚朋友赠送贺份而举办的答谢酒筵，叫做贺份酒。  
 1. 【[贺九不贺十](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_jieu_beh_hu_sheh.md#贺九不贺十)】`hu6 jieu3 beh7 hu6 sheh8` <sup>[如皋]</sup> 旧俗虚岁逢10称整生日，隆重庆贺。虚岁60称花甲，进入老年期。只贺59虚岁，而不贺60虚岁。此后凡整生日皆～。  

@@ -672,6 +672,7 @@
 1. 【[只是](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_shr.md#只是)】`zheh7 shr6` <sup>[如皋]</sup> 连续不断地。  
 1. 【[只笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_xio.md#只笑)】`zheh7 xio5` <sup>[如皋]</sup> 不住地笑。  
 1. 【[只需<sub>要</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_xio.md#只需<sub>要</sub>)】`zheh7 xio5` <sup>[如皋]</sup> 只需要（合音字）：5个人吃，～买10个烧饼。  
+1. 【[只止](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_zhr.md#只止)】`zheh7 zhr` <small>/t͡səʔ7 t͡sɿ/<sup>泰兴</sup></small> （数量上、好坏程度上等）仅仅\[泰兴：他就考啊～箇点儿分数\]  
 1. 【[只准](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_zhuen.md#只准)】`zheh7 zhuen3` <sup>[东台]</sup> 只多不少；完全对得起。  
 1. 【[夨（侧）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh.md#夨（侧）)】`zheh7` <sup>[如皋]</sup> 侧斜：他头～咖～的不服气。  
 1. 【[夨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh.md#夨)】`zheh7` <sup>[东台]</sup> 侧头。见《说文·矢部》。  
@@ -2028,7 +2029,7 @@
 1. 【[卒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zueh.md#卒)】`zueh7` <sup>[东台]</sup> 兵：马前～｜小～子过河胜似车。  
 1. 【[嘴巴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_ba_r.md#嘴巴<sub>儿</sub>)】`zuei3 ba1 r` <sup>[泰县]</sup> 嘴巴。  
 1. 【[嘴巴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_ba_zz.md#嘴巴子)】`zuei3 ba1 zz` 耳光  
-1. 【[嘴边子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_bin_zz.md#嘴边子)】`zuei3 bin1 zz` <sup>[兴化]</sup> 嘴唇：上～；下～。也称“嘴𤖭子”。  
+1. 【[嘴边子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_bin_zz.md#嘴边子)】`zuei3 bin1 zz` <small>/t͡suəi3 piɪ̃1 t͡sɿ/<sup>兴化</sup>, /t͡suəɪ3 pĩ1 t͡sɿ/<sup>泰兴</sup></small> 嘴唇<sup>\[泰兴\]</sup>\[兴化：也称“嘴𤖭子”。\]：上～；下～。<sup>\[兴化\]</sup>  
 1. 【[嘴敞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_chan.md#嘴敞)】`zuei3 chan3` <sup>[兴化]</sup> 有话放不住，急于说出来：这个人～，机密事不能让他晓得。｜（武松）晓得兄弟～，你跟他一谈，他能够大意在哪块露出来……（《武松》六）  
 1. 【[嘴臭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_cheu.md#嘴臭)】`zuei3 cheu5` <sup>[兴化]</sup> 出言不逊者：老黄～，弄句把话教你下不去覅怪人。  
 1. 【[嘴打锣，舌打鼓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_da_lu_shih_da_gv.md#嘴打锣，舌打鼓)】`zuei3 da3 lu2 shih8 da3 gv3` <sup>[兴化]</sup> 形容人饶舌：这个小子到哪许总是～的说个不停。  

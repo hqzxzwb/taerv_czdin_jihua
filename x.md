@@ -741,11 +741,11 @@
 1. 【[锡匠担子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieh_qian_daen_zz.md#锡匠担子)】`xieh7 qian daen5 zz` <sup>[如皋]</sup> 锡匠走街串巷，上门服务所挑的担子。  
 1. 【[锡匠店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieh_qian_din.md#锡匠店)】`xieh7 qian din5` <small>/ɕiəʔ7 t͡ɕʰiã tĩ5/<sup>如皋</sup></small> ① 加工和出售锡器的店铺。<sup>\[如皋\]</sup> ② 生产和经营锡器的作坊。<sup>\[如东\]</sup>  
 1. 【[锡砣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieh_tu_r.md#锡砣<sub>儿</sub>)】`xieh7 tu2 r` <sup>[如皋]</sup> 锡铸成的块子。  
-1. 【[习时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieh_shr.md#习时)】`xieh8 shr2` <small>/ɕiɪʔ8 sɿ2/<sup>泰县</sup></small> ① 时尚<sup>\[东台\]</sup>：这种款式的羽绒服已经不～啊。<sup>\[东台\]</sup> ② 时髦：这件衣裳～。<sup>\[泰县\]</sup>  
+1. 【[习时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieh_shr.md#习时)】`xieh8 shr2` <small>/ɕiəʔ8 sɿ2/<sup>兴化</sup>, /ɕiɪʔ8 sɿ2/<sup>泰县</sup></small> 时尚、时髦<sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[兴化\]</sup>：这种款式的羽绒服已经不～啊。<sup>\[东台\]</sup>｜这件衣裳～。<sup>\[泰县\]</sup>  
 1. 【[兴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien.md#兴)】`xien1` <sup>[如皋]</sup> 时尚：现在不～穿中式服装吖。  
 1. 【[兴秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_chen.md#兴秤)】`xien1 chen5` <sup>[如皋]</sup> 购秤兴，购秤专用吉语。  
 1. 【[兴灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_den.md#兴灯)】`xien1 den1` <sup>[如皋]</sup> 举行灯会。  
-1. 【[兴时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_shr.md#兴时)】`xien1 shr2` <small>/ɕin1 sɿ2/<sup>兴化</sup>, /ɕiəŋ1 sɿ2/<sup>如皋</sup></small> ① 时尚，时兴。<sup>\[如皋\]</sup> ② 流行的事物<sup>\[兴化\]</sup>：今年春节，市面上～唐装。也作“习时”。<sup>\[兴化\]</sup>  
+1. 【[兴时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_shr.md#兴时)】`xien1 shr2` <small>/ɕin1 sɿ2/<sup>兴化</sup>, /ɕiəŋ1 sɿ2/<sup>如皋</sup></small> 时尚，时兴，流行<sup>\[如皋\]</sup><sup>\[兴化\]</sup>：今年春节，市面上～唐装。也作“习时”。<sup>\[兴化\]</sup>  
 1. 【[兴头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_teu.md#兴头)】`xien1 teu2` <sup>[如皋]</sup> 带头发起，最先。  
 1. 【[心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien.md#心)】`xien1` <small>/ɕiəŋ1/<sup>如皋</sup></small> ① 期间：水～里（发大水期间）。<sup>\[如皋\]</sup> ② 日光下、月光下：太阳～里；凉月子～里。<sup>\[如皋\]</sup> ③ 泛指物体中央<sup>\[泰州\]</sup>：船停吖江～里。<sup>\[泰州\]</sup>  
 1. 【[心肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_chan.md#心肠)】`xien1 chan2` <small>/ɕiŋ1 t͡sʰɑŋ2/<sup>泰县</sup></small> ① 良心。<sup>\[如东\]</sup>：她的～好。<sup>\[如东\]</sup> ② 用心；存心<sup>\[东台\]</sup>：～好。<sup>\[东台\]</sup> ③ 心术、品德<sup>\[东台\]</sup>：菩萨～。<sup>\[东台\]</sup> ④ 心思：这时候没～打扑克。<sup>\[泰县\]</sup>  

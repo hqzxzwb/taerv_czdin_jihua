@@ -1529,7 +1529,7 @@
 1. 【[嘴不关风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_beh_guaen_fon.md#嘴不关风)】`jy3 beh7 guaen1 fon1` <sup>[东台]</sup> 因门牙缺失而发不出唇齿音，［喻］指随意透露消息。  
 1. 【[嘴不嘴，脸不脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_beh_jy_lin_beh_lin.md#嘴不嘴，脸不脸)】`jy3 beh7 jy3 lin3 beh7 lin3` <sup>[东台]</sup> 故意给人脸色看：你就这吖～的，哪个受你的？  
 1. 【[嘴不饶人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_beh_ro_ren.md#嘴不饶人)】`jy3 beh7 ro2 ren2` <sup>[如东]</sup> 爱挑剔别人的缺点：张三就是～。  
-1. 【[嘴边<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_bin_r.md#嘴边<sub>儿</sub>)】`jy3 bin1 r` <small>/t͡ɕy3 pi˞1/<sup>如皋</sup></small> ① 嘴唇。<sup>\[如东\]</sup> ② 嘴唇。<sup>\[如皋\]</sup>  
+1. 【[嘴边<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_bin_r.md#嘴边<sub>儿</sub>)】`jy3 bin1 r` <small>/t͡ɕy3 pi˞1/<sup>如皋</sup></small> 嘴唇。<sup>\[如东\]</sup><sup>\[如皋\]</sup>  
 1. 【[嘴边<sub>儿</sub>𣻏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_bin_r_xio.md#嘴边<sub>儿</sub>𣻏)】`jy3 bin1 r xio1` <sup>[如皋]</sup> 嘴唇薄，常认为会说。  
 1. 【[嘴边子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_bin_zz.md#嘴边子)】`jy3 bin1 zz` <sup>[东台]</sup> 嘴唇：他～上起啊疴疴儿。  
 1. 【[嘴敞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_chan.md#嘴敞)】`jy3 chan3` <small>/t͡ɕy3 t͡sʰã3/<sup>如皋</sup></small> ① 有话就说，不注意隐瞒的个性。<sup>\[如皋\]</sup> ② 指说话随便，不能保守秘密<sup>\[泰州\]</sup>：这马马儿～，你现在同她说的这些话，时间不长外头就要唪掉啊。<sup>\[泰州\]</sup>｜这些话我不曾敢同你说，怕你～传出去，惹出甚的事来不好。<sup>\[泰州\]</sup>  
