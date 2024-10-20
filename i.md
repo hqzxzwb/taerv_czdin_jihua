@@ -142,13 +142,11 @@
 1. 【[洩动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_ton.md#洩动)】`i6 ton` <sup>[如东]</sup> 形容涌动的情形：人群～。  
 1. 【[翳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#翳)】`i6` <sup>[泰州]</sup> 眼睛角膜所生的造成视力障碍的白斑：他左边眼睛里生吖～，望不见东西唻。  
 1. 【[饐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#饐)】`i6` <sup>[泰州]</sup> 饭食发热腐烂变质：这个饭～啊唻，不能吃吤，倒掉吧。  
-1. 【[㝞𡤫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_xia.md#㝞𡤫)】`ia1 xia` <sup>[兴化]</sup> ① 兴化词典做“㝞𡨀”。形容插首弄姿，卖弄风情：他这个～样子，叫人一看就恶心。 ② 形容男作女态：这个人男不男，女不女，～样子。 ③ （借）味不正：甜不～的。‖也说“㝞里不𡤫”。㝞，《广韵·麻韵》於加切，一作姿态貌。“𡨀”音宅加切。  
-1. 【[㝞𡤫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_xia.md#㝞𡤫)】`ia1 xia` <small>/ia1 ɕia/<sup>如皋</sup></small> ① 迟缓拖沓<sup>\[如皋\]</sup>：喊吖数声，他才慢拖拖的来啊，真～。<sup>\[如皋\]</sup> ② 慢吞吞<sup>\[东台\]</sup>：快点，不能～。<sup>\[东台\]</sup>  
+1. 【[㝞𡤫/㝞𡨀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_xia.md#㝞𡤫/㝞𡨀)】`ia1 xia` <small>/ia1 ɕia/<sup>兴化</sup>, /ia1 ɕia/<sup>如皋</sup></small> ① 形容插首弄姿，卖弄风情\[兴化：也说“㝞里不𡤫”。\]：他这个～样子，叫人一看就恶心。<sup>\[兴化\]</sup> ② 形容男作女态<sup>\[兴化\]</sup>：这个人男不男，女不女，～样子。<sup>\[兴化\]</sup> ③ （借）味不正<sup>\[兴化\]</sup>：甜不～的。<sup>\[兴化\]</sup> ④ 迟缓拖沓<sup>\[如皋\]</sup><sup>\[东台\]</sup>：喊吖数声，他才慢拖拖的来啊，真～。<sup>\[如皋\]</sup>｜快点，不能～。<sup>\[东台\]</sup>  
 1. 【[㝞𡤫婆娘没闲时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_xia_pu_nian_meh_xiaen_shr.md#㝞𡤫婆娘没闲时)】`ia1 xia1 pu2 nian2 meh8 xiaen2 shr2` <sup>[东台]</sup> 手脚慢的人没有闲空，忙碌的人常以此作谦辞。见“㝞𡤫”。  
 1. 【[㝞𡤫<sub>儿</sub>话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_xia_r_hua.md#㝞𡤫<sub>儿</sub>话)】`ia1 xia1 r hua6` <sup>[如皋]</sup> 说话故作诙谐，却毫无情趣，反觉多余。  
 1. 【[㝞𡤫人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_xia_ren_zz.md#㝞𡤫人子)】`ia1 xia1 ren2 zz` <sup>[如皋]</sup> 对迟缓拖沓人的不快、厌恶用语。  
-1. 【[㝞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_zz.md#㝞子)】`ia1 zz` <sup>[兴化]</sup> 性格软弱，常受欺侮的人（原文用字“丫子”）：你覅把我当～，我火起来也不是好惹的。  
-1. 【[㝞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_zz.md#㝞子)】`ia1 zz` 懦弱无用，常受人欺负的人<sup>\[泰州\]</sup>：人不能太老实，一老实个个把你当～欺。<sup>\[泰州\]</sup>  
+1. 【[㝞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_zz.md#㝞子)】`ia1 zz` <small>/ia1 t͡sɿ/<sup>兴化</sup></small> 性格软弱，常受欺侮的人（原文用字“丫子”）<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：你覅把我当～，我火起来也不是好惹的。<sup>\[兴化\]</sup>｜人不能太老实，一老实个个把你当～欺。<sup>\[泰州\]</sup>  
 1. 【[爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia.md#爷)】`ia1` <sup>[泰州]</sup> 叔父：你家三～打电话找你有事。  
 1. 【[爷爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_ia.md#爷爷)】`ia1 ia1` <sup>[如皋]</sup> 面称父亲。如皋西南乡音。  
 1. 【[鸦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia.md#鸦)】`ia1` <sup>[泰州]</sup> 地位才智等不如人而收人欺侮：你以为他平时不怎吖开口就是～啊，你真的弄吖错啊唻。  
