@@ -4,7 +4,7 @@ iah7 mah shv5 r
 - 大概的估计，大约。
 
 # 约摸数儿
-iah7 mah8 shv5 r
+iah7 mah shv5 r
 > 如东方言词典
 - 大约。
   - ～有多少？
