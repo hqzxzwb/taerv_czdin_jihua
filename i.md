@@ -146,7 +146,7 @@
 1. 【[㝞𡤫婆娘没闲时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_xia_pu_nian_meh_xiaen_shr.md#㝞𡤫婆娘没闲时)】`ia1 xia1 pu2 nian2 meh8 xiaen2 shr2` <sup>[东台]</sup> 手脚慢的人没有闲空，忙碌的人常以此作谦辞。见“㝞𡤫”。  
 1. 【[㝞𡤫<sub>儿</sub>话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_xia_r_hua.md#㝞𡤫<sub>儿</sub>话)】`ia1 xia1 r hua6` <sup>[如皋]</sup> 说话故作诙谐，却毫无情趣，反觉多余。  
 1. 【[㝞𡤫人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_xia_ren_zz.md#㝞𡤫人子)】`ia1 xia1 ren2 zz` <sup>[如皋]</sup> 对迟缓拖沓人的不快、厌恶用语。  
-1. 【[㝞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_zz.md#㝞子)】`ia1 zz` <small>/ia1 t͡sɿ/<sup>兴化</sup></small> 性格软弱，常受欺侮的人（原文用字“丫子”）<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：你覅把我当～，我火起来也不是好惹的。<sup>\[兴化\]</sup>｜人不能太老实，一老实个个把你当～欺。<sup>\[泰州\]</sup>  
+1. 【[㝞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_zz.md#㝞子)】`ia1 zz` <small>/ia1 t͡sɿ/<sup>兴化</sup></small> 性格软弱，常受欺侮的人<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：你覅把我当～，我火起来也不是好惹的。<sup>\[兴化\]</sup>｜人不能太老实，一老实个个把你当～欺。<sup>\[泰州\]</sup>  
 1. 【[爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia.md#爷)】`ia1` <sup>[泰州]</sup> 叔父：你家三～打电话找你有事。  
 1. 【[爷爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_ia.md#爷爷)】`ia1 ia1` <sup>[如皋]</sup> 面称父亲。如皋西南乡音。  
 1. 【[鸦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia.md#鸦)】`ia1` <sup>[泰州]</sup> 地位才智等不如人而收人欺侮：你以为他平时不怎吖开口就是～啊，你真的弄吖错啊唻。  
@@ -264,6 +264,7 @@
 1. 【[夜凶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_xion.md#夜凶)】`ia6 xion1` <small>/ia6 ɕioŋ1/<sup>兴化</sup></small> ① 白天没精打彩，夜晚精神十足的人<sup>\[兴化\]</sup>：他是个～，旁人睡啊觉他才来神！<sup>\[兴化\]</sup> ② 到了夜晚精力旺盛的人，用来形容喜欢夜间工作的人<sup>\[泰州\]</sup>：他是个～，天天写文章写到半夜。<sup>\[泰州\]</sup>  
 1. 【[夜作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_zah.md#夜作)】`ia6 zah7` <sup>[泰县]</sup> ① 夜餐。 ② 开夜工：这几天开啊几个～。  
 1. 【[吔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iae.md#吔)】`iae` <sup>[如皋]</sup> 象声词，语气词。  
+1. 【[吔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iae.md#吔)】`iae3` <small>/iɛ3/<sup>泰兴</sup></small> 语气词，表示赞同<sup>\[泰兴\]</sup>：“天气预报哿是说的明朝落雨啊？”——“～”<sup>\[泰兴\]</sup>  
 1. 【[䶠屁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iaen_pi.md#䶠屁)】`iaen2 pi5` <sup>[泰县]</sup> （禁忌语）随便乱说：你不要～，哪个说的我不会打球？  
 1. 【[鷃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iaen.md#鷃)】`iaen5` <sup>[如东]</sup> 三趾鹑科动物黄脚三趾鷃，体长约16厘米，形似鹌鹑而略小。虹膜淡黄白色。上嘴微黑。上体大部为褐色与栗黄色相杂的羽毛，胸部两侧有黑褐色的圆点。脚黄色，只有三趾。生活在灌丛或草丛中。  
 1. 【[约](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah.md#约)】`iah7` <sup>[泰州]</sup> 粗略测算：你先挑上肩～～看，望吖你哿挑得动它。  
@@ -273,24 +274,24 @@
 1. 【[约住他](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_chv_ta.md#约住他)】`iah7 chv ta1` <sup>[如皋]</sup> （也说ya5）用方法，暗中稳住，拖住，限住，使之不能离开这个地方。  
 1. 【[约约匡匡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_iah_kuan_kuan.md#约约匡匡)】`iah7 iah7 kuan1 kuan1` <sup>[泰县]</sup> 大体上估算：你这回砌房子～要花多少钱？  
 1. 【[约约数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_iah_shv.md#约约数)】`iah7 iah7 shv5` <sup>[东台]</sup> 同“马马意”、“匡匡酌酌”。  
-1. 【[约匡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_kuan.md#约匡)】`iah7 kuan1` <sup>[兴化]</sup> 大致匡估：这块稻田亩产一千斤挂零。  
+1. 【[约匡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_kuan.md#约匡)】`iah7 kuan1` <sup>[兴化]</sup> 大致匡估：这块稻田亩产～千斤挂零。  
 1. 【[约摸数<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_mah_shv_r.md#约摸数<sub>儿</sub>)】`iah7 mah shv5 r` <sup>[如皋]</sup> 大概的估计，大约。  
-1. 【[约摸酌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_mah_zhah_r.md#约摸酌<sub>儿</sub>)】`iah7 mah zhah7 r` <small>/iaʔ7 maʔ t͡saʔ7 ɚ/<sup>兴化</sup>, /iɑʔ7 mɑʔ t͡sɑʔ7 ɚ/<sup>泰县</sup></small> ① 大概、匡估<sup>\[兴化\]</sup>：砌一套别墅，～三十几万。也称“约酌”。<sup>\[兴化\]</sup> ② 大体上：你～考啊多少分？<sup>\[泰县\]</sup> ③ 大约<sup>\[东台\]</sup>：前儿晚上，村里搞文艺晚会，观众～有两千人。<sup>\[东台\]</sup>  
+1. 【[约摸数<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_mah_shv_r.md#约摸数<sub>儿</sub>)】`iah7 mah shv5 r` <sup>[如东]</sup> 大约：～有多少？  
+1. 【[约摸酌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_mah_zhah_r.md#约摸酌<sub>儿</sub>)】`iah7 mah zhah7 r` <small>/iaʔ7 maʔ t͡saʔ7 ɚ/<sup>兴化</sup>, /iɑʔ7 mɑʔ t͡sɑʔ7 ɚ/<sup>泰县</sup></small> 大概、匡估<sup>\[泰县\]</sup><sup>\[东台\]</sup>\[兴化：也称“约酌”。\]：砌一套别墅，～三十几万。<sup>\[兴化\]</sup>｜你～考啊多少分？<sup>\[泰县\]</sup>｜前儿晚上，村里搞文艺晚会，观众～有两千人。<sup>\[东台\]</sup>  
 1. 【[约摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_mah.md#约摸)】`iah7 mah8` <sup>[如皋]</sup> 估计，大体，大约。  
-1. 【[约摸数<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_mah_shv_r.md#约摸数<sub>儿</sub>)】`iah7 mah8 shv5 r` <sup>[如东]</sup> 大约：～有多少？  
 1. 【[约摸账<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_mah_zhan_r.md#约摸账<sub>儿</sub>)】`iah7 mah8 zhan5 r` <sup>[如东]</sup> 大体上：～估估。  
 1. 【[岳父](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_fv.md#岳父)】`iah8 fv6` <sup>[如东]</sup> 妻子的父亲。也称岳丈、丈人。  
 1. 【[岳母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_mu.md#岳母)】`iah8 mu3` <sup>[如东]</sup> 妻子的母亲。  
-1. 【[药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah.md#药)】`iah8` <small>/iɑʔ8/<sup>泰县</sup></small> ① 毒杀 ② 毒死：～老鼠。<sup>\[泰县\]</sup> ③ 设下全套诱人上当<sup>\[泰州\]</sup>：他说的话你不能听，他是～你的。<sup>\[泰州\]</sup>｜这小伙太老卵，你～他啊子。<sup>\[泰州\]</sup>  
+1. 【[药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah.md#药)】`iah8` <small>/iɑʔ8/<sup>泰县</sup></small> ① 毒杀 ② 毒杀<sup>\[泰县\]</sup>：～老鼠。<sup>\[泰县\]</sup> ③ 设下全套诱人上当<sup>\[泰州\]</sup>：他说的话你不能听，他是～你的。<sup>\[泰州\]</sup>｜这小伙太老卵，你～他啊子。<sup>\[泰州\]</sup>  
 1. 【[药本](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_ben.md#药本)】`iah8 ben3` <sup>[兴化]</sup> 药剂的成本：他替穷人看病，只收～，不收诊金。  
-1. 【[药饼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_bien_r.md#药饼<sub>儿</sub>)】`iah8 bien3 r` <small>/iaʔ8 piɪ̃3 ɚ/<sup>兴化</sup>, /iɑʔ8 piŋ3 ɚ/<sup>泰县</sup></small> ① 药片。也叫药饼儿。<sup>\[东台\]</sup> ② 药片。<sup>\[兴化\]</sup> ③ 药片：今吖不打针，要吃～。<sup>\[泰县\]</sup>  
+1. 【[药饼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_bien_r.md#药饼<sub>儿</sub>)】`iah8 bien3 r` <small>/iaʔ8 piɪ̃3 ɚ/<sup>兴化</sup>, /iɑʔ8 piŋ3 ɚ/<sup>泰县</sup></small> 药片<sup>\[东台\]</sup><sup>\[兴化\]</sup>\[泰县：今吖不打针，要吃～。\]  
 1. 【[药单子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_daen_zz.md#药单子)】`iah8 daen1 zz` <sup>[兴化]</sup> 中医处方：拿～上街打药。  
 1. 【[药戥子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_den_zz.md#药戥子)】`iah8 den3 zz` <sup>[如皋]</sup> 配方时称中药的小戥子秤。  
 1. 【[药店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_din.md#药店)】`iah8 din5` <sup>[如皋]</sup> 习惯指中药铺。  
 1. 【[药店先生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_din_xin_shen.md#药店先生)】`iah8 din5 xin1 shen1` <sup>[如皋]</sup> 中药药师。  
 1. 【[药房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_fan.md#药房)】`iah8 fan2` <sup>[如皋]</sup> 习惯指西药铺、部门。  
 1. 【[药罐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_gun_r.md#药罐<sub>儿</sub>)】`iah8 gun5 r` <small>/iaʔ8 kʊ˞5/<sup>如皋</sup></small> ① 药罐子的口语式的儿化。<sup>\[如皋\]</sup> ② 熬药的罐子。<sup>\[如东\]</sup> ③ 比喻经常生病吃药的人。<sup>\[如东\]</sup>：他是一个～。<sup>\[如东\]</sup>  
-1. 【[药罐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_gun_zz.md#药罐子)】`iah8 gun5 zz` <small>/iaʔ8 kʊ̃5 t͡sɿ/<sup>如皋</sup></small> ① 煎中药用的白砂罐子。<sup>\[如皋\]</sup> ② 喻多病，经常服药的人。<sup>\[如皋\]</sup> ③ ［喻］经常生病吃药的人。<sup>\[东台\]</sup>  
+1. 【[药罐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_gun_zz.md#药罐子)】`iah8 gun5 zz` <small>/iaʔ8 kʊ̃5 t͡sɿ/<sup>如皋</sup></small> ① 煎中药用的白砂罐子。<sup>\[如皋\]</sup> ② 喻多病，经常服药的人。<sup>\[如皋\]</sup><sup>\[东台\]</sup>  
 1. 【[药引子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_ien_zz.md#药引子)】`iah8 ien3 zz` <sup>[东台]</sup> 中药药剂中另加的一些药物，能加强药剂的效力。  
 1. 【[药铺店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_pv_din.md#药铺店)】`iah8 pv5 din5` <sup>[如皋]</sup> 药店。  
 1. 【[药人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_ren.md#药人)】`iah8 ren2` <small>/iaʔ8 lən2/<sup>兴化</sup></small> ① 用有毒的食物害人。<sup>\[东台\]</sup> ② 有毒<sup>\[兴化\]</sup>：这东西～，不能碰。<sup>\[兴化\]</sup>｜谚曰：～的不吃，犯法的不做。<sup>\[兴化\]</sup> ③ 用药毒人。<sup>\[泰州\]</sup> ④ 设下圈套诱人上当<sup>\[泰州\]</sup>：他的话你不要信，他这个是～唻。<sup>\[泰州\]</sup>｜大家一起共事是缘分，有意见当面讲，不作兴～。<sup>\[泰州\]</sup>  
@@ -299,8 +300,8 @@
 1. 【[药杀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_shaeh.md#药杀)】`iah8 shaeh7` ① 下毒药毒死人。<sup>\[泰州\]</sup> ② 设下圈套使人上当<sup>\[泰州\]</sup>：这丫头听吖她家亲戚的话去搞传销，捱～咖唻，一分钱不曾弄到不谈，人还捱这些家伙弄吖关起来啊。<sup>\[泰州\]</sup>  
 1. 【[药水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_shuei.md#药水)】`iah8 shuei3` <sup>[兴化]</sup> （喻）苦涩的东西：这人是～，钱难出世唻！｜他的钱是～锅里煮过的，轻容易不会拿出来。  
 1. 【[药水棉花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_shuei_min_hua.md#药水棉花)】`iah8 shuei3 min2 hua1` <sup>[如皋]</sup> 医院用的药棉。  
-1. 【[药死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_sz.md#药死)】`iah8 sz3` 毒死  
-1. 【[药铫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_tio_r.md#药铫<sub>儿</sub>)】`iah8 tio6 r` <small>/iaʔ8 tʰiɔ˞1/<sup>如皋</sup></small> ① 煎中药用带柄的白砂锅儿。<sup>\[如皋\]</sup> ② 煎药的铫儿。<sup>\[如东\]</sup>  
+1. 【[药死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_sz.md#药死)】`iah8 sz3` 毒死<sup>\[如东\]</sup>  
+1. 【[药铫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_tio_r.md#药铫<sub>儿</sub>)】`iah8 tio6 r` <small>/iaʔ8 tʰiɔ˞1/<sup>如皋</sup></small> 煎中药用的容器<sup>\[如东\]</sup>\[如皋：带柄的白砂锅儿。\]  
 1. 【[药腥气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_xien_qi.md#药腥气)】`iah8 xien1 qi` <sup>[如皋]</sup> 非药品而有药气味。  
 1. 【[药渣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_zha_zz.md#药渣子)】`iah8 zha1 zz` <sup>[如皋]</sup> 中药出汁后的渣子。旧俗倒在路中央，传说扁鹊夜巡可见正误。  
 1. 【[药子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_zz.md#药子)】`iah8 zz` <sup>[东台]</sup> 堤东一带对陌生男人的旧称：那个～说话是北方口音。  
