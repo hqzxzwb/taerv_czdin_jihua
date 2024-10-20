@@ -1200,9 +1200,7 @@
 1. 【[种五谷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_v_goh.md#种五谷)】`zhon5 v3 goh7` <sup>[如皋]</sup> 葬俗之一。出殡过程中，棺材出大门的时候，一人在棺上打伞并转动，一人抛五谷，随伞酒落，表示死者行前祝愿家中丰产丰收，生活富足。  
 1. 【[种喜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_xi.md#种喜)】`zhon5 xi3` <sup>[如东]</sup> 种牛痘。  
 1. 【[种子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_zz.md#种子)】`zhon5 zz3` <sup>[如东]</sup> 结婚时，新郎腰束围裙，里面放着枣子，撒在床上，表示早生贵子。  
-1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr.md#□)】`zhr1` <sup>[泰州]</sup> 长期摩擦而在衣领、袖口处的发黏污迹：一个多月不洗澡不换衣裳，领子上都发咖～。｜领子上都～啊，还不脱咖来洗。  
-1. 【[䐈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr.md#䐈)】`zhr1` <sup>[如皋]</sup> 头发发黏有臭味。  
-1. 【[䭁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr.md#䭁)】`zhr1` <small>/t͡sɿ1/<sup>如皋</sup></small> ① 油及含油食品变质之味<sup>\[如皋\]</sup>：茶食～啊。荤油发咖～。<sup>\[如皋\]</sup> ② 食物腐败发出的臭味<sup>\[泰州\]</sup>：饭～啊唻，不能吃吤。<sup>\[泰州\]</sup>  
+1. 【[䐈/䭁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr.md#䐈/䭁)】`zhr1` <small>/t͡sɿ1/<sup>如皋</sup></small> ① 油、肉酸败、腐烂<sup>\[东台\]</sup>：脂油怎啊会摆～掉的呢？<sup>\[东台\]</sup> ② 油及含油食品变质之味<sup>\[如皋\]</sup>：茶食～啊。荤油发咖～。<sup>\[如皋\]</sup> ③ 食物腐败发出的臭味<sup>\[泰州\]</sup>：饭～啊唻，不能吃吤。<sup>\[泰州\]</sup> ④ 长期摩擦而在衣领、袖口处的发黏污迹<sup>\[泰州\]</sup>：一个多月不洗澡不换衣裳，领子上都发咖～。<sup>\[泰州\]</sup>｜领子上都～啊，还不脱咖来洗。<sup>\[泰州\]</sup> ⑤ 头发发黏有臭味。<sup>\[如皋\]</sup>  
 1. 【[吱儿扭儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_er_nieu_er.md#吱儿扭儿)】`zhr1 er nieu3 er` <sup>[兴化]</sup> 扭扭捏捏的：要她发个言唱个歌，她总是～的。  
 1. 【[吱二扭二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_er_nieu_er.md#吱二扭二)】`zhr1 er6 nieu3 er6` <sup>[泰县]</sup> 推三推四。  
 1. 【[吱风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_fon.md#吱风)】`zhr1 fon1` <sup>[兴化]</sup> 预先露出口风：他来～，想买电脑。也说“吱𠵹”“栽𠵹”。  
@@ -1211,7 +1209,7 @@
 1. 【[吱唔答䶠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_v_daeh_kaen.md#吱唔答䶠)】`zhr1 v1 daeh7 kaen2` <sup>[如东]</sup> 乱开玩笑：哪个跟你～的？  
 1. 【[吱滑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_vaeh.md#吱滑)】`zhr1 vaeh8` <sup>[如皋]</sup> 象声词。  
 1. 【[吱嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_zuei.md#吱嘴)】`zhr1 zuei3` <sup>[兴化]</sup> 小吱声：眼看人家搬他的东西也不敢～。  
-1. 【[支](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr.md#支)】`zhr1` <small>/t͡sɿ1/<sup>如皋</sup>, /t͡sɿ1/<sup>泰县</sup></small> ① 凑近、凑上。<sup>\[如皋\]</sup><sup>\[泰县\]</sup>：你～上去看看。<sup>\[泰县\]</sup> ② 质问<sup>\[如皋\]</sup>：我拿话～他，～得他没口开。<sup>\[如皋\]</sup> ③ 砌、架<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰县\]</sup>：～过霤，～灶，～锅箱儿。<sup>\[如皋\]</sup>｜～灶。<sup>\[如东\]</sup>｜～两眼灶烧饭方便。<sup>\[泰县\]</sup> ④ 坐。<sup>\[如东\]</sup>：太吃力咖，让我～下子。<sup>\[如东\]</sup> ⑤ 顶撞。<sup>\[如东\]</sup>：他在下～我。<sup>\[如东\]</sup> ⑥ 裂<sup>\[泰县\]</sup>：这块板子～开来啊。<sup>\[泰县\]</sup> ⑦ 坐<sup>\[泰县\]</sup>：你俫坐紧点儿，让我～啊子。<sup>\[泰县\]</sup> ⑧ 有意拖延时间赖着不走<sup>\[泰州\]</sup>：大人谈事情，伢儿～啊旁边停甚的。<sup>\[泰州\]</sup>｜他家里来亲眷，你～啊那块哿讨嫌吖。<sup>\[泰州\]</sup> ⑨ 明知自己不受欢迎，仍然纠缠不已<sup>\[泰州\]</sup>：人家不睬你，你还～住人家说甚的唦？<sup>\[泰州\]</sup>｜他硬～啊人家旁边坐。<sup>\[泰州\]</sup>  
+1. 【[支](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr.md#支)】`zhr1` <small>/t͡sɿ1/<sup>如皋</sup>, /t͡sɿ1/<sup>泰兴</sup>, /t͡sɿ1/<sup>泰县</sup></small> ① 凑近、凑上。<sup>\[如皋\]</sup><sup>\[泰县\]</sup>：你～上去看看。<sup>\[泰县\]</sup> ② 质问<sup>\[如皋\]</sup>：我拿话～他，～得他没口开。<sup>\[如皋\]</sup> ③ 砌、架<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>：～过霤，～灶，～锅箱儿。<sup>\[如皋\]</sup>｜～灶。<sup>\[如东\]</sup>｜～两眼灶烧饭方便。<sup>\[泰县\]</sup>｜～锅子/砌灶<sup>\[泰兴\]</sup> ④ 坐。<sup>\[如东\]</sup><sup>\[泰县\]</sup>：太吃力咖，让我～下子。<sup>\[如东\]</sup>｜你俫坐紧点儿，让我～啊子。<sup>\[泰县\]</sup> ⑤ 顶撞。<sup>\[如东\]</sup>：他在下～我。<sup>\[如东\]</sup> ⑥ 裂<sup>\[泰县\]</sup>：这块板子～开来啊。<sup>\[泰县\]</sup> ⑦ 有意拖延时间赖着不走<sup>\[泰州\]</sup>：大人谈事情，伢儿～啊旁边停甚的。<sup>\[泰州\]</sup>｜他家里来亲眷，你～啊那块哿讨嫌吖。<sup>\[泰州\]</sup> ⑧ 明知自己不受欢迎，仍然纠缠不已<sup>\[泰州\]</sup>：人家不睬你，你还～住人家说甚的唦？<sup>\[泰州\]</sup>｜他硬～啊人家旁边坐。<sup>\[泰州\]</sup>  
 1. 【[支啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_a.md#支啊)】`zhr1 a` <sup>[东台]</sup> 靠近某物体：喝汤要把嘴～碗上；他把耳朵～在门缝上听壁。  
 1. 【[支啊忸的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_a_nieu_dii.md#支啊忸的)】`zhr1 a nieu3 dii` <sup>[东台]</sup> 畏畏缩缩、不大方。  
 1. 【[支啊走](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_a_zeu.md#支啊走)】`zhr1 a zeu3` <sup>[东台]</sup> 为回避某一问题，借故把不宜知晓的人临时调开。  
@@ -1256,7 +1254,6 @@
 1. 【[知死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_sz.md#知死)】`zhr1 sz3` <sup>[兴化]</sup> 知道自己的处境不妙：他的问题开始暴露，但他至今还不～。  
 1. 【[知心话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_xien_hua.md#知心话)】`zhr1 xien1 hua6` <sup>[如东]</sup> 内心话：我说的都是～。  
 1. 【[知足](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_zoh.md#知足)】`zhr1 zoh7` <sup>[如东]</sup> ① 获得适当的利益而感到满足。 ② 不追求不合适的利益。  
-1. 【[胑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr.md#胑)】`zhr1` <sup>[东台]</sup> 油、肉酸败、腐烂：脂油怎啊会摆～掉的呢？  
 1. 【[脂垢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_geu.md#脂垢)】`zhr1 geu` <sup>[兴化]</sup> 人身上的污垢：身上～擸𢶍的。  
 1. 【[脂油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ieu.md#脂油)】`zhr1 ieu2` <small>/t͡sɿ1 iɤ2/<sup>兴化</sup>, /t͡sɿ1 yʊ2/<sup>如皋</sup>, /t͡sɿ1 iɤɯ2/<sup>泰县</sup></small> 动物油脂，通常指猪油，或专指猪板油。或称荤油。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：（俗语）一盆～顿吖心口上，让人舒服。<sup>\[东台\]</sup>  
 1. 【[脂油疤<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ieu_ba_r.md#脂油疤<sub>儿</sub>)】`zhr1 ieu2 ba1 r` <sup>[如皋]</sup> 猪油熬出油脂剩下的痂状物，香脆可食。  

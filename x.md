@@ -1873,6 +1873,7 @@
 1. 【[悉淡的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh_taen_dii.md#悉淡的)】`xyeh7 taen6 dii` <sup>[如皋]</sup> ① 无味：青菜不曾放盐，～。 ② 形容味道过淡。  
 1. 【[悉紫的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh_zz_dii.md#悉紫的)】`xyeh7 zz3 dii` <sup>[如皋]</sup> 状全是紫色：高锰酸钾沖的水～。  
 1. 【[戌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh.md#戌)】`xyeh7` <sup>[东台]</sup> 地支第十一位。  
+1. 【[蟋蟀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh_shueh_r.md#蟋蟀<sub>儿</sub>)】`xyeh7 shueh7 r` <sup>[东台]</sup> 蟋蟀。又叫蛐蛐儿。口语音xyeh7 xyeh7 r。“蟋”受后字影响读撮口音。  
 1. 【[訹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh.md#訹)】`xyeh7` <small>/ɕyəʔ7/<sup>兴化</sup>, /ɕyəʔ7/<sup>泰县</sup></small> ① 狡诈。<sup>\[如东\]</sup>：他说不要，是～你的。<sup>\[如东\]</sup> ② 巧言诱骗<sup>\[东台\]</sup>：他的～功大呢，草总能说咖竖起来。<sup>\[东台\]</sup> ③ 怂恿<sup>\[兴化\]</sup>：你不要～，再好玩的地方我也不想去。<sup>\[兴化\]</sup> ④ 连激带骗<sup>\[兴化\]</sup>：他左～右～的，到底把人家两幅字画弄到手啊。‖也说“魆𠵹”“魆功”。兴化词典作“噱”，反切不合。刘春龙小说《无意插柳》中有“王能玩起了噱功”句。<sup>\[兴化\]</sup> ⑤ 可笑、令人发笑<sup>\[兴化\]</sup>：他几句话把一屋的人～咖笑起来。兴化词典作“噱”，《说文·口部》噱，其虐切，大笑也。反切不合。<sup>\[兴化\]</sup> ⑥ 用隐讳的语言来引逗别人说话、做事。<sup>\[泰县\]</sup> ⑦ 引诱，花言巧语引诱别人做某事<sup>\[泰州\]</sup>：你不要听他～，他合适为甚的自己不买？<sup>\[泰州\]</sup>｜他耳朵根子软，掌不住人～，三～二～的，他就当做个真的唻。<sup>\[泰州\]</sup>  
 1. 【[雪白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh_poh.md#雪白)】`xyeh7 poh8` <sup>[泰县]</sup> 很白。  
 1. 【[雪白的猫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh_poh_dii_mo_r.md#雪白的猫<sub>儿</sub>)】`xyeh7 poh8 dii mo2 r` <sup>[如皋]</sup> 喻纯洁无瑕的人。多用于辩解时。  
