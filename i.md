@@ -61,7 +61,7 @@
 1. 【[姨外外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_vae_vae.md#姨外外)】`i2 vae6 vae` 母亲的姨父<sup>\[如东\]</sup>  
 1. 【[姨兄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_xion.md#姨兄)】`i2 xion` <sup>[如东]</sup> 姨妈和姨娘生的年龄比自己大的男子。  
 1. 【[姨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_zz.md#姨子)】`i2 zz` <small>/i2 t͡sɿ/<sup>兴化</sup></small> 妻子的姐妹。<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：大～；小～。<sup>\[兴化\]</sup>  
-1. 【[爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#爷)】`i2` <small>/i2/<sup>兴化</sup>, /ʝ2/<sup>如皋</sup></small> ① 叔叔（扬州音） ② 叔叔。称父亲的弟弟或比父亲年轻的长辈。<sup>\[如皋\]</sup> ③ 父亲的弟弟。通称叔父。<sup>\[如东\]</sup> ④ 兴盐边界某些村舍语<sup>\[兴化\]</sup>：父亲。<sup>\[兴化\]</sup>  
+1. 【[爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#爷)】`i2` <small>/i2/<sup>兴化</sup>, /ʝ2/<sup>如皋</sup></small> ① 叔叔（扬州音） ② 叔叔。称父亲的弟弟或比父亲年轻的长辈。<sup>\[如皋\]</sup> ③ 父亲的弟弟。通称叔父。<sup>\[如东\]</sup> ④ 父亲（兴盐边界某些村舍语）<sup>\[兴化\]</sup>  
 1. 【[疑猜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_cae.md#疑猜)】`i2 cae` 怀疑<sup>\[如东\]</sup>  
 1. 【[疑里大惑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_lii_da_hoh.md#疑里大惑)】`i2 lii da6 hoh8` <sup>[兴化]</sup> 疑心：他那个要笑不笑的样子，把人弄得～的。  
 1. 【[疑三惑四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_saen_hoh_sz.md#疑三惑四)】`i2 saen1 hoh8 sz5` <sup>[如东]</sup> 猜测怀疑：不要～的。  
@@ -143,30 +143,27 @@
 1. 【[翳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#翳)】`i6` <sup>[泰州]</sup> 眼睛角膜所生的造成视力障碍的白斑：他左边眼睛里生吖～，望不见东西唻。  
 1. 【[饐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#饐)】`i6` <sup>[泰州]</sup> 饭食发热腐烂变质：这个饭～啊唻，不能吃吤，倒掉吧。  
 1. 【[㝞𡤫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_xia.md#㝞𡤫)】`ia1 xia` <sup>[兴化]</sup> ① 兴化词典做“㝞𡨀”。形容插首弄姿，卖弄风情：他这个～样子，叫人一看就恶心。 ② 形容男作女态：这个人男不男，女不女，～样子。 ③ （借）味不正：甜不～的。‖也说“㝞里不𡤫”。㝞，《广韵·麻韵》於加切，一作姿态貌。“𡨀”音宅加切。  
-1. 【[㝞𡤫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_xia.md#㝞𡤫)】`ia1 xia1` <small>/ia1 ɕia1/<sup>如皋</sup></small> ① 迟缓拖沓<sup>\[如皋\]</sup>：喊吖数声，他才慢拖拖的来啊，真～。<sup>\[如皋\]</sup> ② 慢吞吞<sup>\[东台\]</sup>：快点，不能～。<sup>\[东台\]</sup>  
+1. 【[㝞𡤫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_xia.md#㝞𡤫)】`ia1 xia` <small>/ia1 ɕia/<sup>如皋</sup></small> ① 迟缓拖沓<sup>\[如皋\]</sup>：喊吖数声，他才慢拖拖的来啊，真～。<sup>\[如皋\]</sup> ② 慢吞吞<sup>\[东台\]</sup>：快点，不能～。<sup>\[东台\]</sup>  
 1. 【[㝞𡤫婆娘没闲时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_xia_pu_nian_meh_xiaen_shr.md#㝞𡤫婆娘没闲时)】`ia1 xia1 pu2 nian2 meh8 xiaen2 shr2` <sup>[东台]</sup> 手脚慢的人没有闲空，忙碌的人常以此作谦辞。见“㝞𡤫”。  
 1. 【[㝞𡤫<sub>儿</sub>话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_xia_r_hua.md#㝞𡤫<sub>儿</sub>话)】`ia1 xia1 r hua6` <sup>[如皋]</sup> 说话故作诙谐，却毫无情趣，反觉多余。  
 1. 【[㝞𡤫人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_xia_ren_zz.md#㝞𡤫人子)】`ia1 xia1 ren2 zz` <sup>[如皋]</sup> 对迟缓拖沓人的不快、厌恶用语。  
 1. 【[㝞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_zz.md#㝞子)】`ia1 zz` <sup>[兴化]</sup> 性格软弱，常受欺侮的人（原文用字“丫子”）：你覅把我当～，我火起来也不是好惹的。  
+1. 【[㝞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_zz.md#㝞子)】`ia1 zz` 懦弱无用，常受人欺负的人<sup>\[泰州\]</sup>：人不能太老实，一老实个个把你当～欺。<sup>\[泰州\]</sup>  
 1. 【[爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia.md#爷)】`ia1` <sup>[泰州]</sup> 叔父：你家三～打电话找你有事。  
 1. 【[爷爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_ia.md#爷爷)】`ia1 ia1` <sup>[如皋]</sup> 面称父亲。如皋西南乡音。  
-1. 【[耶子乌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_zz_v_r.md#耶子乌<sub>儿</sub>)】`ia1 zz v1 r` <sup>[东台]</sup> （詈语）含有随便、马虎、质量差、素质差等义。也作“耶耶乎”，见鲁迅语：“做个公民实在弗容易，大家切莫耶耶乎！”  
 1. 【[鸦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia.md#鸦)】`ia1` <sup>[泰州]</sup> 地位才智等不如人而收人欺侮：你以为他平时不怎吖开口就是～啊，你真的弄吖错啊唻。  
-1. 【[鸦呱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_gua.md#鸦呱)】`ia1 gua` <sup>[兴化]</sup> 搭讪：他没事又来～。  
-1. 【[鸦呱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_gua.md#鸦呱)】`ia1 gua1` <small>/ia1 kua1/<sup>泰县</sup></small> ① 絮絮叨叨，反复啰嗦。<sup>\[东台\]</sup> ② 喜欢说闲话、啰唆<sup>\[泰县\]</sup>：你怎吖这吖～？<sup>\[泰县\]</sup> ③ 不分对象说不该本人说的话而令人讨厌<sup>\[泰州\]</sup>：人家做老子的都不曾开口，你是人家甚的人，把人家说咖一顿，你说你哿～！<sup>\[泰州\]</sup> ④ 不分对象做不该本人做的事而令人讨厌<sup>\[泰州\]</sup>：人家本来就不想请他，他波斯献宝跑啊去人家出人情，你说他哿～！<sup>\[泰州\]</sup>  
+1. 【[鸦呱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_gua.md#鸦呱)】`ia1 gua1` <small>/ia1 kua/<sup>兴化</sup>, /ia1 kua1/<sup>泰县</sup></small> ① 搭讪<sup>\[兴化\]</sup>：他没事又来～。<sup>\[兴化\]</sup> ② 絮絮叨叨，反复啰嗦。<sup>\[东台\]</sup> ③ 喜欢说闲话、啰唆<sup>\[泰县\]</sup>：你怎吖这吖～？<sup>\[泰县\]</sup> ④ 不分对象说不该本人说的话而令人讨厌<sup>\[泰州\]</sup>：人家做老子的都不曾开口，你是人家甚的人，把人家说咖一顿，你说你哿～！<sup>\[泰州\]</sup> ⑤ 不分对象做不该本人做的事而令人讨厌<sup>\[泰州\]</sup>：人家本来就不想请他，他波斯献宝跑啊去人家出人情，你说他哿～！<sup>\[泰州\]</sup>  
 1. 【[鸦虎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_hv.md#鸦虎)】`ia1 hv` <small>/ia1 fu/<sup>如皋</sup></small> ① 一种驯养行猎的猛禽。<sup>\[如皋\]</sup> ② 鹰科动物隼。体型比鷹小，翅膀窄而尖，嘴短而宽，上嘴弯曲并有齿状突起。飞得很快。善于袭击其他鸟类，是凶猛的鸟。<sup>\[如东\]</sup>  
 1. 【[鸦脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_jiah.md#鸦脚)】`ia1 jiah7` 地位、才智等不如人而受人欺负的人<sup>\[泰州\]</sup>：他也不是～，当心他找你。<sup>\[泰州\]</sup>｜现在没得一个是～，你欺哪一个都不行。<sup>\[泰州\]</sup>  
-1. 【[鸦子/丫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_zz.md#鸦子/丫子)】`ia1 zz` 懦弱无用，常受人欺负的人<sup>\[泰州\]</sup>：人不能太老实，一老实个个把你当～欺。<sup>\[泰州\]</sup>  
 1. 【[㝞𡤫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_qia.md#㝞𡤫)】`ia2 qia2` <small>/ia2 t͡ɕʰia2/<sup>泰县</sup></small> ① 言行举止矫揉造作、穿着打扮卖弄风骚<sup>\[泰县\]</sup>：长得～。<sup>\[泰县\]</sup> ② 人故作娇媚的样子<sup>\[泰州\]</sup>：你望这个老太婆，这吖大的岁数唻，脸上还搽这些粉，多～啊。<sup>\[泰州\]</sup>｜这小伙说话嗲啊嗲的，～啊不得命。<sup>\[泰州\]</sup>  
 1. 【[爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia.md#爷)】`ia2` <small>/ia2/<sup>兴化</sup>, /ia2/<sup>如皋</sup></small> 父亲（多用于指称）<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[兴化\]</sup>：儿大不由～，伢儿大啊，做老子的也难管。<sup>\[兴化\]</sup>  
 1. 【[爷儿两个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_er_laen_gu.md#爷儿两个)】`ia2 er laen3 gu` <sup>[东台]</sup> 爷儿俩，即父子或父亲和女儿两人。（这里爷不是指祖父）  
 1. 【[爷儿门里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_er_men_lii.md#爷儿门里)】`ia2 er2 men2 lii` <sup>[如皋]</sup> 父亲与子女的关系称。  
 1. 【[爷狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_geu.md#爷狗)】`ia2 geu3` <sup>[如东]</sup> 公狗。  
-1. 【[爷爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_ia.md#爷爷)】`ia2 ia` <small>/ia2 ia/<sup>兴化</sup></small> ① 叔叔，爸爸的弟弟 ② 叔叔<sup>\[东台\]</sup>：二～<sup>\[东台\]</sup>｜小～。<sup>\[东台\]</sup> ③ 叔父。<sup>\[兴化\]</sup> ④ 姑母（父之妹）。<sup>\[兴化\]</sup>  
-1. 【[爷爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_ia.md#爷爷)】`ia2 ia2` <sup>[泰县]</sup> 叔叔。  
+1. 【[爷爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_ia.md#爷爷)】`ia2 ia` <small>/ia2 ia/<sup>兴化</sup>, /ia2 ia/<sup>泰县</sup></small> ① 叔叔，父亲的弟弟 ② 叔叔，父亲的弟弟<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup>：二～<sup>\[东台\]</sup>｜小～。<sup>\[东台\]</sup> ③ 姑母（父之妹）。<sup>\[兴化\]</sup>  
 1. 【[爷老子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_lo_zz.md#爷老子)】`ia2 lo3 zz` <sup>[如东]</sup> ① 指父亲：他是你的～。 ② 对小儿的称呼，含有批评和疼爱的意思：你这个～，我真拿你没有办法。  
 1. 【[爷娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_nian.md#爷娘)】`ia2 nian` 父母  
-1. 【[爷娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_nian.md#爷娘)】`ia2 nian2` <small>/ia2 liaŋ2/<sup>兴化</sup></small> ① 父母。<sup>\[如东\]</sup> ② 父母。<sup>\[兴化\]</sup> ③ 娘家<sup>\[兴化\]</sup>：侄子是～家人。‖<sup>\[兴化\]</sup>｜谚曰：爷有娘有，不如已有。<sup>\[兴化\]</sup>  
+1. 【[爷娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_nian.md#爷娘)】`ia2 nian2` <small>/ia2 liaŋ2/<sup>兴化</sup></small> ① 父母。<sup>\[如东\]</sup><sup>\[兴化\]</sup> ② 娘家<sup>\[兴化\]</sup>：侄子是～家人。<sup>\[兴化\]</sup>｜谚曰：爷有娘有，不如已有。<sup>\[兴化\]</sup>  
 1. 【[爷娘侄子（女）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_nian_chih_zz.md#爷娘侄子（女）)】`ia2 nian2 chih8 zz（ny3）` <sup>[东台]</sup> 女子的哥哥或弟弟的儿子（女儿）：东台有句俗话“爷娘侄子，命根头子”。  
 1. 【[爷娘家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_nian_ga.md#爷娘家)】`ia2 nian2 ga` <small>/ia2 niã2 ka/<sup>如皋</sup>, /iɑ2 niɑŋ2 kɑ/<sup>泰兴</sup>, /ia2 niɑŋ2 ka/<sup>泰县</sup></small> 出室女称生父母家。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup><sup>\[泰县\]</sup>  
 1. 【[爷<sub>儿</sub>两个吃咖升半䜺<sub>儿</sub>——有账算账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_r_laen_gu.md#爷<sub>儿</sub>两个吃咖升半䜺<sub>儿</sub>——有账算账)】`ia2 r laen3 gu qieh7 ga shen1 bun5 chae3 r ieu3 zhan5 sun5 zhan5` <sup>[东台]</sup>   
@@ -174,7 +171,6 @@
 1. 【[衙门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_men.md#衙门)】`ia2 men` <sup>[如东]</sup> 旧时官员办公的机关。  
 1. 【[雅趣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_qy.md#雅趣)】`ia2 qy` <sup>[兴化]</sup> 娇气：你真～，一点儿苦不能吃。  
 1. 【[雅序](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_xy.md#雅序)】`ia2 xy` <sup>[东台]</sup> ① （褒）清爽、整洁、高雅。 ② （贬）过分讲究衣着、起居，难伺候。（这里“雅”读阳平）  
-1. 【[痒□<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_xia_r.md#痒□<sub>儿</sub>)】`ia3 xia r` <sup>[如皋]</sup> 痒丝丝而有难奈的感觉。  
 1. 【[野](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia.md#野)】`ia3` <small>/ia3/<sup>如皋</sup></small> ① 偏题<sup>\[如皋\]</sup>：他说咖～掉啊，不曾对到题目。<sup>\[如皋\]</sup> ② 疏远、不融洽<sup>\[如皋\]</sup>：两个人的关系越处越～。<sup>\[如皋\]</sup> ③ 不驯服。<sup>\[如东\]</sup>：这头牛～。<sup>\[如东\]</sup> ④ 规定的圆口拉宽了或变形了。<sup>\[如东\]</sup>：衣领子拉～啊。<sup>\[如东\]</sup> ⑤ 野外，自然生成的<sup>\[东台\]</sup>：～兔<sup>\[东台\]</sup> ⑥ ［引］蛮不讲理<sup>\[东台\]</sup>：这人说话太～；<sup>\[东台\]</sup> ⑦ ［动］在外面乱跑<sup>\[东台\]</sup>：这个伢儿不晓得～啊哪块去啊。<sup>\[东台\]</sup> ⑧ 悄悄离开<sup>\[泰州\]</sup>：马上就要开饭，他人又不晓得～啊哪块去啊。<sup>\[泰州\]</sup>｜下午的会开的半里半作的，老李人就～掉唻。<sup>\[泰州\]</sup>  
 1. 【[野啊汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_a_tan.md#野啊汤)】`ia3 a tan1` <sup>[如皋]</sup> 下锅汤放得过多。  
 1. 【[野啊心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_a_xien.md#野啊心)】`ia3 a xien1` <sup>[东台]</sup> 心神不定，兴趣外移。  
@@ -182,7 +178,7 @@
 1. 【[野菜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_cae_r.md#野菜<sub>儿</sub>)】`ia3 cae5 r` <sup>[如皋]</sup> 野菜，一般指荠菜儿。  
 1. 【[野茶叶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_cha_ih.md#野茶叶)】`ia3 cha2 ih8` <sup>[如东]</sup> 山茶科植物钝叶柃，小灌木。高约2米。小枝较粗糙。叶互生，革质，叶形变化很大，披针形、椭圆形或倒卵形，近全缘。花小，腋生。浆果，紫红色。生长在林中。  
 1. 【[野狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_geu.md#野狗)】`ia3 geu3` <sup>[如东]</sup> 不属于自己喂养的狗。  
-1. 【[野鸽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_guh_zz.md#野鸽子)】`ia3 guh7 zz` <small>/ia3 kuʔ7 t͡sɿ/<sup>兴化</sup>, /ia3 kʊʔ7 t͡sɿ/<sup>如皋</sup></small> ① 鹁鸪。<sup>\[如皋\]</sup> ② 鹧鸪。<sup>\[兴化\]</sup> ③ 闲聊<sup>\[兴化\]</sup>：扯～。<sup>\[兴化\]</sup>  
+1. 【[野鸽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_guh_zz.md#野鸽子)】`ia3 guh7 zz` <small>/ia3 kuʔ7 t͡sɿ/<sup>兴化</sup>, /ia3 kʊʔ7 t͡sɿ/<sup>如皋</sup></small> ① 鹁鸪，斑鸠<sup>\[如皋\]</sup>\[兴化：（兴化词典释鹧鸪，存疑）\] ② 闲聊<sup>\[兴化\]</sup>：扯～。<sup>\[兴化\]</sup>  
 1. 【[野匣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_haeh_zz.md#野匣子)】`ia3 haeh8 zz` <sup>[兴化]</sup> 见“野猴子”。  
 1. 【[野苋菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_haen_cae.md#野苋菜)】`ia3 haen6 cae5` <small>/ia3 xẽ1 t͡sʰɛ5/<sup>如皋</sup></small> ① 茎上多刺，叶可采食，味鲜。<sup>\[如皋\]</sup> ② 苋科植物凹头苋，一年生草本。髙约30厘米。茎斜上，微棱形，淡绿色至喑紫色。叶片棱状卵形，全缘。穗状花序顶生。花簇生叶腋。胞果球形，略扁，不开裂。生长在田野路边。<sup>\[如东\]</sup>  
 1. 【[野猴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_heu_zz.md#野猴子)】`ia3 heu2 zz` <sup>[兴化]</sup> ① （喻）粗野蛮横的人（多指男性青少年）。 ② 未受过良好教育的孩子。又说“野匣子”。  
@@ -196,16 +192,14 @@
 1. 【[野野<sub>儿</sub>乌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_ia_r_v.md#野野<sub>儿</sub>乌)】`ia3 ia3 r v1` <sup>[如皋]</sup> 粗野鄙劣，不讲道理，胡言乱语、不上正道。  
 1. 【[野鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_ji.md#野鸡)】`ia3 ji1` <small>/ia3 t͡ɕʝ1/<sup>如皋</sup></small> ① 雉科动物雉，体长约90厘米。雌雄异色。雄者羽毛华丽，头顶黄铜锴，两侧有微白眉纹。虹膜栗红色。颏、喉和后颈黑色，有金色反光。颈下有一显著的白圈。尾羽很长。翼上覆羽大多黄褐杂以栗色。脚短而健红灰褐色，善走，不能久飞。雌者体形较小，尾也较短。体羽大多砂褐色。生活在荒野或田间。<sup>\[如东\]</sup> ② 称暗娼、私娼<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup> ③ 喻指无证经营者<sup>\[东台\]</sup>：～车。<sup>\[东台\]</sup> ④ 没有固定妓院经营、在路上拉客的私娼。<sup>\[泰州\]</sup> ⑤ 非法或者不合规章而经营的<sup>\[泰州\]</sup>：没得牌照的～车子<sup>\[泰州\]</sup>｜他俫这个～班子是临时拼凑起来的。<sup>\[泰州\]</sup>  
 1. 【[野雀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_jiah_r.md#野雀<sub>儿</sub>)】`ia3 jiah7 r` <sup>[兴化]</sup> （喻）性情粗野，没有约束的青少年：教他上班，等于～关笼子，他怎吖受得了？  
-1. 【[野菊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_jioh.md#野菊)】`ia3 jioh7` <sup>[如东]</sup> 菊科植物野菊，多年生草本。高约60厘米。顶部的枝通常被白色柔毛，有香气。叶互生，长圆状卵形，有羽状深裂片。头状花序顶生，数个排列成伞房花序。舌状花淡黄色。瘦果。生长在路边、丘陵荒地和林缘。  
-1. 【[野菊花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_jioh_hua.md#野菊花)】`ia3 jioh7 hua1` <sup>[如东]</sup> 菊科植物野菊的头状花序。  
+1. 【[野菊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_jioh.md#野菊)】`ia3 jioh7` <sup>[如东]</sup> 菊科植物野菊，多年生草本。高约60厘米。顶部的枝通常被白色柔毛，有香气。叶互生，长圆状卵形，有羽状深裂片。头状花序顶生，数个排列成伞房花序。舌状花淡黄色。瘦果。生长在路边、丘陵荒地和林缘：～花  
 1. 【[野绿豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_loh_teu.md#野绿豆)】`ia3 loh8 teu6` <sup>[如东]</sup> 豆科植物鹿藿，多年生缠绕草本。各部密被淡黄色软毛。茎蔓长。3出羽状复叶；侧生小叶阔卵形，纸质。总态花序顶生。花黄色。荚果短矩形，红紫色。有2颗黑色有光的种子。生长在杂草中。  
 1. 【[野驴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_ly_zz.md#野驴子)】`ia3 ly2 zz` <sup>[东台]</sup> 不上规矩，没有拘束的人。  
 1. 【[野猫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_mo_zz.md#野猫子)】`ia3 mo2 zz` <sup>[兴化]</sup> ① 无人豢养的猫。 ② 摇篮曲中虚拟的怪物：～，你去吧，我家宝宝睡觉啦！  
 1. 【[野茅缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_mo_gan.md#野茅缸)】`ia3 mo2 gan1` <sup>[如东]</sup> ① 旷野中的厕所，外人可以登缸。 ② 比喻女人生活作风不好，外人可以随便占有：她是个～。  
 1. 【[野苜蓿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_moh_soh.md#野苜蓿)】`ia3 moh8 soh7` <sup>[如东]</sup> 豆科植物黄花苜蓿，多年生草本。高约70厘米。茎直立或匍匐，稍有毛，多分枝。三出复叶，小叶长圆状倒卵形，边缘具刺。总状花序腋生。花冠蝶形，黄色。荚果扁，矩形，弯曲成半月形，光滑，褐色。生长在原野沟边。  
 1. 【[野伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_nga_r.md#野伢<sub>儿</sub>)】`ia3 nga2 r` 野孩子  
-1. 【[野鸭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_ngaeh.md#野鸭)】`ia3 ngaeh7` ① 鸭科动物绿头鸭，体长约60厘米。嘴呈黄绿色，嘴甲黑色。虹膜红褐色。雄鸟头和颈辉绿色，颈下有一白环。上背和肩灰褐色，下背转为黑褐灰褐色。腰和尾上覆羽黑色，并着金属绿光辉。两腿大都灰褐色。翼镜蓝紫色，其前后缘均为绒黑色，更外缀以白色狭边，三色相衬极为醒目。尾羽大部分白色。胸粟色，腹淡灰尾下覆羽绒黑色。雌鸟尾羽不卷，体黄褐色，并杂有暗褐色斑点。脚橙黄色，趾间有蹼，爪黑色。栖息在河湖芦苇丛中。<sup>\[如东\]</sup> ② 野鸭子，凫的别名。<sup>\[泰州\]</sup>  
-1. 【[野鸭羽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_ngaeh_y.md#野鸭羽)】`ia3 ngaeh7 y3` <sup>[如东]</sup> 鸭科动物绿头鸭羽毛。  
+1. 【[野鸭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_ngaeh.md#野鸭)】`ia3 ngaeh7` ① 鸭科动物绿头鸭，体长约60厘米。嘴呈黄绿色，嘴甲黑色。虹膜红褐色。雄鸟头和颈辉绿色，颈下有一白环。上背和肩灰褐色，下背转为黑褐灰褐色。腰和尾上覆羽黑色，并着金属绿光辉。两腿大都灰褐色。翼镜蓝紫色，其前后缘均为绒黑色，更外缀以白色狭边，三色相衬极为醒目。尾羽大部分白色。胸粟色，腹淡灰尾下覆羽绒黑色。雌鸟尾羽不卷，体黄褐色，并杂有暗褐色斑点。脚橙黄色，趾间有蹼，爪黑色。栖息在河湖芦苇丛中。<sup>\[如东\]</sup>：～羽<sup>\[如东\]</sup> ② 野鸭子，凫的别名。<sup>\[泰州\]</sup>  
 1. 【[野葡萄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_pv_to.md#野葡萄)】`ia3 pv2 to2` <sup>[如东]</sup> 葡萄科植物刺葡萄，又名千斤藤，落叶藤本。枝条粗壮，黄褐色，无毛老枝外皮呈长片剥落，淡褐色，幼枝密生粗壮锐刺。单叶互生，叶片坚纸质，阔卵形至卵状圆形，边缘锯齿微波状。圆锥花序与叶对生。浆果球形，蓝紫色。种子淡红褐色。生长在沟坡两旁。  
 1. 【[野气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_qi.md#野气)】`ia3 qi5` <small>/ia3 t͡ɕʰʝ5/<sup>如皋</sup></small> ① 粗犷、粗野，无教养的样子。<sup>\[如皋\]</sup> ② 个性粗野。<sup>\[如东\]</sup> ③ 对自己不亲热。<sup>\[如东\]</sup>：这个伢儿～。<sup>\[如东\]</sup>  
 1. 【[野荞麦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_qio_moh.md#野荞麦)】`ia3 qio2 moh8` <sup>[如东]</sup> 蓼科植物天荞麦，多年生草本。高约150厘米。主根粗大，呈结状，横走，红褐色。茎纤细具棱槽，淡绿微带红色。叶互生，戟状三角形，全缘。聚伞花序顶生或腋生。瘦果卵状三棱形，红褐色。生长在草坡、林边、温地。  
@@ -225,42 +219,41 @@
 1. 【[亚亚五](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_ia_v.md#亚亚五)】`ia5 ia5 v3` <sup>[如东]</sup> 糊里糊涂：不能～。  
 1. 【[亚麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_ma.md#亚麻)】`ia5 ma2` <sup>[如东]</sup> 亚麻科植物亚麻，又名胡麻，一年生草本。高约90厘米。茎直立，基部稍木质化，分枝少。叶互生，无柄，叶片线形，全缘。花多数，蓝白或白色，生于分枝顶端及上部叶腋内。蒴果球形。种子卵形，棕色。栽培。  
 1. 【[讶口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_keu.md#讶口)】`ia5 keu3` <sup>[兴化]</sup> 口吻：这种～真叫人受不了。  
+1. 【[呀子乌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_zz_v_r.md#呀子乌<sub>儿</sub>)】`ia6 zz v1 r` <sup>[东台]</sup> （詈语）含有随便、马虎、质量差、素质差等义。也作“耶耶乎”，见鲁迅语“做个公民实在弗容易，大家切莫耶耶乎！”  
 1. 【[呀子唔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_zz_v.md#呀子唔)】`ia6 zz v3` <sup>[兴化]</sup> 形容随随便便，不负责任：他是一头～，说的话当不得真。也说“呀呀唔。”  
 1. 【[夜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia.md#夜)】`ia6` <small>/ia1/<sup>如皋</sup>, /iɑ1/<sup>泰兴</sup></small> ① 入夜<sup>\[泰兴\]</sup><sup>\[如皋\]</sup>：外头～啊。<sup>\[如皋\]</sup>｜外头～得早。<sup>\[如皋\]</sup> ② 春节之前十天，每一天都称为“夜”，如腊月二十称“二十夜”<sup>\[泰兴\]</sup><sup>\[泰州\]</sup>：我俫工地上二十七～就放假唻。<sup>\[泰州\]</sup>  
 1. 【[夜啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_a.md#夜啊)】`ia6 a` <sup>[如皋]</sup> 天暗了，天黑了。  
 1. 【[夜邦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_ban.md#夜邦)】`ia6 ban1` <sup>[泰县]</sup> 夜里开的固定航线的客船。  
-1. 【[夜不收](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_beh_sheu.md#夜不收)】`ia6 beh sheu1` <sup>[泰县]</sup> 深夜在外游荡的人：你这个～，玩到现在才回来。  
-1. 【[夜不收](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_beh_sheu.md#夜不收)】`ia6 beh7 sheu1` <small>/ia6 pəʔ7 sɤ1/<sup>兴化</sup>, /ia1 pəʔ7 sei1/<sup>如皋</sup></small> ① 詈语。指夜晚在外玩耍，不回家的小孩儿。<sup>\[如皋\]</sup> ② 深夜还在外面游荡的人。<sup>\[如东\]</sup> ③ 旧指驿卒递送紧急公文时，连夜赶路，夜不投宿。<sup>\[兴化\]</sup> ④ （戏）夜晚忘记收回的洗晒衣物及店铺的幌子等<sup>\[兴化\]</sup>：日晒黄金～。<sup>\[兴化\]</sup>  
+1. 【[夜不收](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_beh_sheu.md#夜不收)】`ia6 beh sheu1` <small>/ia6 pəʔ sɤ1/<sup>兴化</sup>, /ia1 pəʔ sei1/<sup>如皋</sup>, /ia1 pəʔ sɤɯ1/<sup>泰县</sup></small> ① 詈语。指夜晚在外玩耍，不回家的小孩儿。<sup>\[如皋\]</sup> ② 深夜还在外面游荡的人。<sup>\[如东\]</sup><sup>\[泰县\]</sup>：你这个～，玩到现在才回来。<sup>\[泰县\]</sup> ③ 旧指驿卒递送紧急公文时，连夜赶路，夜不投宿。<sup>\[兴化\]</sup> ④ （戏）夜晚忘记收回的洗晒衣物及店铺的幌子等<sup>\[兴化\]</sup>：日晒黄金～。<sup>\[兴化\]</sup>  
 1. 【[夜餐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_caen.md#夜餐)】`ia6 caen1` 半夜吃的一顿加餐，一般是在夜间十点以后。<sup>\[泰州\]</sup>  
 1. 【[夜潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_cho.md#夜潮)】`ia6 cho2` <sup>[如皋]</sup> 学名鳓鱼。此为苏俗名。  
 1. 【[夜得来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_deh_lae_a.md#夜得来啊)】`ia6 deh7 lae2 a` <sup>[如皋]</sup> 天暗起来了，天黑下来了。  
 1. 【[夜得晏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_deh_ngaen.md#夜得晏)】`ia6 deh7 ngaen5` <sup>[如皋]</sup> 春分后昼长夜短，天黑得较晚。  
 1. 【[夜得早](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_deh_zo.md#夜得早)】`ia6 deh7 zo3` <sup>[如皋]</sup> 秋分后昼短夜长，天黑得较早。  
 1. 【[夜顿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_den_zz.md#夜顿子)】`ia6 den5 zz` <sup>[兴化]</sup> 夜餐：他每天临睡前要吃～。｜“……幸好跑得快，才滑出来，稍微慢一点，我也要被妖怪当～吃了……”（《皮五辣子》四）  
-1. 【[夜饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_faen.md#夜饭)】`ia6 faen6` <small>/ia6 fɛ̃6/<sup>兴化</sup>, /ia1 fẽ1/<sup>如皋</sup></small> ① 晚饭 ② 晚饭。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：～～，吃到鸭子生蛋。<sup>\[东台\]</sup>｜谚曰：～～，吃到鸭子生蛋。<sup>\[兴化\]</sup>  
-1. 【[夜更头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_gen_teu.md#夜更头)】`ia6 gen1 teu` <small>/ia1 kəŋ1 tʰɤɯ/<sup>泰县</sup></small> ① 半夜三更。<sup>\[如东\]</sup> ② 半夜三更。<sup>\[泰县\]</sup>  
+1. 【[夜饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_faen.md#夜饭)】`ia6 faen6` <small>/ia6 fɛ̃6/<sup>兴化</sup></small> ① 晚饭 ② 晚饭<sup>\[东台\]</sup><sup>\[兴化\]</sup>：～～，吃到鸭子生蛋。<sup>\[东台\]</sup>｜谚曰：～～，吃到鸭子生蛋。<sup>\[兴化\]</sup>  
+1. 【[夜更头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_gen_teu.md#夜更头)】`ia6 gen1 teu` <small>/ia1 kəŋ1 tʰɤɯ/<sup>泰县</sup></small> 半夜三更。<sup>\[如东\]</sup><sup>\[泰县\]</sup>  
 1. 【[夜膏谯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_go_qio.md#夜膏谯)】`ia6 go1 qio` <sup>[兴化]</sup> 熬夜：打～。  
 1. 【[夜觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_go.md#夜觉)】`ia6 go5` <sup>[如皋]</sup> 夜里睡觉。有日觉接～之说。  
 1. 【[夜下来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_ha_lae_a.md#夜下来啊)】`ia6 ha6 lae a` <sup>[如皋]</sup> 黄昏将尽，黑夜将至。  
 1. 【[夜伙<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_hu_r.md#夜伙<sub>儿</sub>)】`ia6 hu3 r` <sup>[如皋]</sup> 深夜餐，或深夜工作餐。  
-1. 【[夜皇帝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_huan_di.md#夜皇帝)】`ia6 huan2 di5` <sup>[如皋]</sup> 夜间不要睡觉，精神饱满，思维敏捷的人。  
+1. 【[夜皇帝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_huan_di.md#夜皇帝)】`ia6 huan2 di` <sup>[如皋]</sup> 夜间不要睡觉，精神饱满，思维敏捷的人。  
 1. 【[夜壶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_hv.md#夜壶)】`ia6 hv2` <sup>[如东]</sup> 尿壶。  
 1. 【[夜莺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_ien.md#夜莺)】`ia6 ien1` <sup>[如东]</sup> 鸟。体长约35厘米。全体羽毛淡灰色脑后有两条白色长翎。昼伏夜出，在水田、沼泽地区活动，捕食小鱼、昆虫等。也叫夜雁。  
 1. 【[夜游子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_ieu_zz.md#夜游子)】`ia6 ieu2 zz` <sup>[兴化]</sup> ① 夜间工作：熬～。 ② 泛指夜间进行的：玩～｜“昨夜，某人家赌钱，头二十个人赌～……”（《武松》二）  
 1. 【[夜经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_jien.md#夜经)】`ia6 jien1` <sup>[如东]</sup> 人死后第三天晚上，举行关殓仪式，请和尚、道土或尼姑念经，这种祭祀活动称夜经。  
 1. 【[夜来香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_lae_xian.md#夜来香)】`ia6 lae2 xian1` <sup>[如东]</sup> 柳叶菜科植物红萼月，二年生草本。高约1米。茎直立，基部有红色长毛。叶互生，长椭圆状披针形，边缘有细锯齿。花黄色，单生于叶腋间。蒴果圆筒形。庭园中栽培。  
-1. 【[夜里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_lii.md#夜里)】`ia6 lii` <small>/ia1 tei/<sup>如皋</sup></small> ① 晚上 ② 夜里。<sup>\[如皋\]</sup> ③ 太阳落山至太阳出来的一段时间。<sup>\[如东\]</sup>  
+1. 【[夜里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_lii.md#夜里)】`ia6 lii` <small>/ia1 tei/<sup>如皋</sup></small> 夜里。<sup>\[如皋\]</sup><sup>\[如东\]</sup>  
 1. 【[夜里狠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_lii_hen.md#夜里狠)】`ia6 lii hen3` <sup>[如皋]</sup> 见“夜里凶”。  
 1. 【[夜里落雨日里晴，懒婆娘气得心里疼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_lii_lah_y_rih_lii_qien_laen_pu_nian_qi_deh_xien_lii_ten.md#夜里落雨日里晴，懒婆娘气得心里疼)】`ia6 lii lah8 y3 rih8 lii qien2 laen3 pu2 nian qi5 deh7 xien1 lii ten2` <sup>[如皋]</sup> 日里晴，不好玩耍又要做事，心里不疼才怪。  
 1. 【[夜里凶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_lii_xion.md#夜里凶)】`ia6 lii xion1` <sup>[如皋]</sup> ① 指某些疾病夜间严重。 ② 贬指女人夜里最能制服男人。  
 1. 【[夜摸星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_mah_xien.md#夜摸星)】`ia6 mah8 xien1` <sup>[东台]</sup> 习惯日不做夜摸索，或白天拖拉，夜间才出进度的人。  
-1. 【[夜摸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_mah_zz.md#夜摸子)】`ia6 mah8 zz` <small>/ia6 maʔ8 t͡sɿ/<sup>兴化</sup>, /ia1 mɑʔ8 t͡se/<sup>泰县</sup></small> ① 喜欢夜间做事的人。<sup>\[如东\]</sup> ② 惯于夜间出来活动的人<sup>\[兴化\]</sup>：他是个～，天一黑劲头就来啊。<sup>\[兴化\]</sup> ③ 喜欢夜间干事的人：他家老二是个～。<sup>\[泰县\]</sup>  
+1. 【[夜摸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_mah_zz.md#夜摸子)】`ia6 mah8 zz` <small>/ia6 maʔ8 t͡sɿ/<sup>兴化</sup>, /ia1 mɑʔ8 t͡se/<sup>泰县</sup></small> ① 喜欢夜间做事的人。<sup>\[如东\]</sup><sup>\[泰县\]</sup>：他家老二是个～。<sup>\[泰县\]</sup> ② 惯于夜间出来活动的人<sup>\[兴化\]</sup>：他是个～，天一黑劲头就来啊。<sup>\[兴化\]</sup>  
 1. 【[夜明砂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_mien_sha.md#夜明砂)】`ia6 mien2 sha1` <sup>[如东]</sup> 蝙蝠科动物蝙蝠的干燥粪便。  
 1. 【[夜猫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_mo_zz.md#夜猫子)】`ia6 mo2 zz` <sup>[兴化]</sup> ① 猫头鹰。 ② （喻）喜欢晚睡的人：中文系学生是个～，每晚在系图书馆夜读，天亮才回来。（汪曾祺《鸡毛》）  
 1. 【[夜猫子进屋——来者不善](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_mo_zz_jien_oh_lae_zhae_beh_shin.md#夜猫子进屋——来者不善)】`ia6 mo2 zz jien5 oh7 lae2 zhae3 beh7 shin6` <sup>[东台]</sup>   
 1. 【[夜薄咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_pah_ga.md#夜薄咖)】`ia6 pah8 ga` <sup>[东台]</sup> 形容太慢了，叫人等到夜也等不到个头绪：这个机器旧啊，靠它出产品，还等吖～！  
-1. 【[夜上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_shan.md#夜上)】`ia6 shan` <sup>[如皋]</sup> 夜里。  
-1. 【[夜上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_shan.md#夜上)】`ia6 shan6` <small>/ia6 saŋ6/<sup>兴化</sup></small> ① 夜晚 ② 夜晚。也说“夜头”。<sup>\[兴化\]</sup>  
+1. 【[夜上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_shan.md#夜上)】`ia6 shan` <small>/ia6 saŋ/<sup>兴化</sup>, /ia1 sã/<sup>如皋</sup></small> ① 夜晚 ② 夜晚<sup>\[如皋\]</sup>\[兴化：也说“夜头”\]  
 1. 【[夜头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_teu.md#夜头)】`ia6 teu` <sup>[兴化]</sup> 夜晚。  
 1. 【[夜头早晚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_teu_zo_vaen.md#夜头早晚)】`ia6 teu zo3 vaen3` <sup>[兴化]</sup> 或早或晚，也指从日落到次日天明这段时间：～的门户当心。｜“二来老伯～……要个茶水也便宜。”（《岐路灯》九九）  
 1. 【[夜头夜晚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_teu_ia_vaen.md#夜头夜晚)】`ia6 teu2 ia6 vaen3` <sup>[如东]</sup> 夜里：～的，不要一个人在外头跑。  
@@ -580,7 +573,7 @@
 1. 【[痒人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ren.md#痒人)】`ian3 ren` <sup>[如东]</sup> 过分油腻，使人厌食：猪肉太油，～。  
 1. 【[痒喜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_xi_r.md#痒喜<sub>儿</sub>)】`ian3 xi3 r` <sup>[如东]</sup> 皮肤痒  
 1. 【[痒喜<sub>儿</sub>霍霍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_xi_r_huah_huah.md#痒喜<sub>儿</sub>霍霍)】`ian3 xi3 r huah7 huah7` <sup>[如东]</sup> 心里热乎，跃跃欲试：看见人家炒股票赚吖钱，我心里也是～的。  
-1. 【[痒□<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_xia_r.md#痒□<sub>儿</sub>)】`ian3 xia5 r` <sup>[如皋]</sup> 皮肤痒而难忍受的感觉。  
+1. 【[痒□<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_xia_r.md#痒□<sub>儿</sub>)】`ian3 xia r, ia3 xia r` <sup>[如皋]</sup> 痒而难忍受的感觉。  
 1. 【[痒□<sub>儿</sub>草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_xia_r_co.md#痒□<sub>儿</sub>草)】`ian3 xia5 r co3` <sup>[如皋]</sup> 含羞草。  
 1. 【[痒□<sub>儿</sub>人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_xia_r_ren_zz.md#痒□<sub>儿</sub>人子)】`ian3 xia5 r ren zz` <sup>[如皋]</sup> 皮肤痒而难忍受的感觉。  
 1. 【[痒□<sub>儿</sub>树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_xia_r_shv.md#痒□<sub>儿</sub>树)】`ian3 xia5 r shv6` <sup>[如皋]</sup> 紫薇。  
