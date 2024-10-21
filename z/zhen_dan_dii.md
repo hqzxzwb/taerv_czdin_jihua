@@ -1,5 +1,5 @@
 # 真当的
-zhen1 dan dii
+zhen1 dan5 dii
 > 如东方言词典
 - 确实的。
   - ～是这样。
