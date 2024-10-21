@@ -730,6 +730,7 @@
 1. 【[搸𣜂/楔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_saeh.md#搸𣜂/楔)】`zhen1 saeh7` <sup>[东台]</sup> 填充空隙的小木片。  
 1. 【[搸榫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_xyen.md#搸榫)】`zhen1 xyen3` <sup>[如皋]</sup> 榫头与榫眼装配紧固。  
 1. 【[正月半](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_iuh_bun.md#正月半)】`zhen1 iuh bun5` <small>/t͡sən1 yuʔ pũ5/<sup>兴化</sup></small> ① 农历正月十五，即元宵节。是我国民间传统节日。<sup>\[东台\]</sup> ② 农历正月十五日，元宵节。<sup>\[兴化\]</sup>  
+1. 【[正月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_iuh.md#正月)】`zhen1 iuh8` <sup>[如东]</sup> 阴历第一个月称正月。  
 1. 【[正月里打的兔子——有它过年，没它也过年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_iuh_lii_da_dii_tv_zz_ieu_ta_gu_nin_meh_ta_ia_gu_nin.md#正月里打的兔子——有它过年，没它也过年)】`zhen1 iuh8 lii da3 dii tv5 zz ieu3 ta1 gu5 nin2 meh8 ta1 ia3 gu5 nin2` <sup>[东台]</sup>   
 1. 【[正月十五贴门神——晚吖半个月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_iuh_sheh_v_tih_men_shen_vaen_nga_bun_gu_iuh.md#正月十五贴门神——晚吖半个月)】`zhen1 iuh8 sheh8 v3 tih7 men2 shen2 vaen3 nga bun5 gu iuh8` <sup>[东台]</sup>   
 1. 【[珍珠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zhv.md#珍珠)】`zhen1 zhv1` <sup>[如东]</sup> 蚌科动物背角无齿蚌珍珠囊中形成的无核珍珠。  
@@ -829,7 +830,6 @@
 1. 【[正儿八经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_er_baeh_jien.md#正儿八经)】`zhen5 er baeh7 jien1` <sup>[兴化]</sup> 正式地、认真地：他为啊营造严肃气氛，说话的时候总是摆出一副～的样子。  
 1. 【[正果](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_gu.md#正果)】`zhen5 gu3` <sup>[兴化]</sup> ① （借）浪子回头有了好的归宿：这个小伙终于成吖～。 ② 恶性疾病得到确诊：他如今病成～，还是早办前程吧！  
 1. 【[正用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_ion.md#正用)】`zhen5 ion6` <sup>[兴化]</sup> 才能或钱物用于正经方面：他虽有本事，可借才不～。｜“……我指望这五十两银子不是全买靴子穿，我另外有个～哩。”（《火烧赤壁》一）  
-1. 【[正月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_iuh.md#正月)】`zhen5 iuh8` <sup>[如东]</sup> 阴历第一个月称正月。  
 1. 【[正脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_jiah.md#正脚)】`zhen5 jiah7` <small>/t͡sən5 t͡ɕiaʔ7/<sup>兴化</sup></small> 右脚。<sup>\[泰州\]</sup>\[兴化：通常为右脚。\]  
 1. 【[正经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_jien.md#正经)】`zhen5 jien` <sup>[兴化]</sup> 确实、实在：要说喝酒，我～不行。  
 1. 【[正经人家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_jien_ren_ga.md#正经人家)】`zhen5 jien ren2 ga` <sup>[如皋]</sup> 正派之家。  
