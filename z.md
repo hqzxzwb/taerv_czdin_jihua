@@ -700,7 +700,6 @@
 1. 【[窒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh.md#窒)】`zheh7` <small>/t͡səʔ7/<sup>泰县</sup></small> ① 堵住<sup>\[东台\]</sup>：泥门～洞。<sup>\[东台\]</sup> ② 塞<sup>\[泰县\]</sup>：把瓶口～起来。<sup>\[泰县\]</sup>  
 1. 【[窒当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_dan.md#窒当)】`zheh7 dan1` <small>/t͡səʔ7 taŋ1/<sup>兴化</sup>, /t͡səʔ7 tɑŋ1/<sup>泰县</sup></small> 车船在途中受阻<sup>\[兴化\]</sup><sup>\[泰县\]</sup>\[泰州：道路（河道）上的空着地方被行人、车辆（船舶）填满，意为道路交通堵塞\]：今朝进闸的船太多，～。<sup>\[兴化\]</sup>｜上午大雾，车子在路上～。<sup>\[兴化\]</sup>｜今吖汽车在路上～，所以晚点吖。<sup>\[泰县\]</sup>｜过去坡子街上移到星期天，路上就～。<sup>\[泰州\]</sup>  
 1. 【[窒皮打狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_pi_da_geu.md#窒皮打狗)】`zheh7 pi2 da3 geu3` <sup>[兴化]</sup> 形容空间太小：这地方～的，几个人一来就不好转身吖。  
-1. 【[窒窒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_zheh.md#窒窒)】`zheh7 zheh7` <sup>[泰县]</sup> 压压：这几张邮票要～，防止翘边儿。  
 1. 【[窒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_zz.md#窒子)】`zheh7 zz` <small>/t͡səʔ7 t͡sɿ/<sup>如皋</sup></small> ① 瓶塞子。<sup>\[如皋\]</sup> ② 用来塞住瓶类容器的口的东西，塞子<sup>\[泰州\]</sup>：茶瓶～。<sup>\[泰州\]</sup>  
 1. 【[织女星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_ny_xien.md#织女星)】`zheh7 ny3 xien1` <sup>[如东]</sup> 星座名，位于银河东侧天琴座。  
 1. 【[翟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh.md#翟)】`zheh7` <sup>[如皋]</sup> 姓。避同音“贼ceh8”讳改读。  
@@ -711,6 +710,7 @@
 1. 【[趾头节<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_teu_jih_r.md#趾头节<sub>儿</sub>)】`zheh7 teu jih7 r` <sup>[如皋]</sup> 脚趾的关节或每一节。  
 1. 【[趾头爪<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_teu_zho_r.md#趾头爪<sub>儿</sub>)】`zheh7 teu zho3 r` <sup>[如皋]</sup> 脚趾。  
 1. 【[迮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh.md#迮)】`zheh7` <small>/t͡səʔ7/<sup>如皋</sup>, /t͡səʔ7/<sup>泰县</sup></small> ① 压<sup>\[如皋\]</sup>：拿石头～咸菜缸。<sup>\[如皋\]</sup> ② 压（原文作“窒”字，义不合）<sup>\[泰县\]</sup>：这本书不平，坐啊屁股下～下子。<sup>\[泰县\]</sup>  
+1. 【[迮迮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_zheh.md#迮迮)】`zheh7 zheh7` <sup>[泰县]</sup> 压压：这几张邮票要～，防止翘边儿。  
 1. 【[争多略少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_du_liah_sho.md#争多略少)】`zhen1 du1 liah8 sho3` <sup>[如东]</sup> 要求多：不要～的。  
 1. 【[争多撂少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_du_lio_sho.md#争多撂少)】`zhen1 du1 lio6 sho3` <sup>[如皋]</sup> 计较，争论不下。  
 1. 【[争较](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_jio.md#争较)】`zhen1 jio` <small>/t͡sən1 t͡ɕiɔ/<sup>兴化</sup>, /t͡səŋ1 t͡ɕiɔ/<sup>如皋</sup></small> ① 挑剔、计较<sup>\[如皋\]</sup>：他家嫁女儿，～起来凶哎。<sup>\[如皋\]</sup> ② 争理计较<sup>\[东台\]</sup>：家里只剩这吖多，你俫～我也没得办法！<sup>\[东台\]</sup> ③ 计较礼数、金钱<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：有到事情他总喜欢～人。<sup>\[兴化\]</sup>｜（有个老声老气的人）说是～赏金太多了，要将他送到捕厅老爷那里打板子。（《广陵潮》七）<sup>\[兴化\]</sup>｜总共就这两个钱，你是当老板的，就没得必要同他～唻。<sup>\[泰州\]</sup>｜他俫这两天忙吖不曾有工夫上门来请你，家里人就不要～这些礼信唻。<sup>\[泰州\]</sup> ④ 争强好胜<sup>\[兴化\]</sup>：“夫妻夫妻，合伙儿养性命的……你～什么，难道打江山不成？”（钱国怀《潘家女》）<sup>\[兴化\]</sup>  
