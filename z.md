@@ -735,7 +735,7 @@
 1. 【[珍珠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zhv.md#珍珠)】`zhen1 zhv1` <sup>[如东]</sup> 蚌科动物背角无齿蚌珍珠囊中形成的无核珍珠。  
 1. 【[珍珠母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zhv_mu.md#珍珠母)】`zhen1 zhv1 mu3` <sup>[如东]</sup> 蚌科动物背角无齿蚌贝壳珍珠层。  
 1. 【[真本](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_ben.md#真本)】`zhen1 ben3` <sup>[兴化]</sup> 成本，一般指原铺材料的购进价：这套家具～四千多，把人工、税金一加，六千也不能卖！  
-1. 【[真当的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_dan_dii.md#真当的)】`zhen1 dan dii` <sup>[如东]</sup> 确实的：～是这样。  
+1. 【[真当的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_dan_dii.md#真当的)】`zhen1 dan5 dii` <sup>[如东]</sup> 确实的：～是这样。  
 1. 【[真刀真枪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_do_zhen_qian.md#真刀真枪)】`zhen1 do1 zhen1 qian1` <sup>[如东]</sup> 真家伙。比喻真干。  
 1. 【[真峰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_fon.md#真峰)】`zhen1 fon1` <sup>[泰县]</sup> 动真的：上吖～他就不敢吖。  
 1. 【[真钢真火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_gan_zhen_hu.md#真钢真火)】`zhen1 gan1 zhen1 hu3` <sup>[泰县]</sup> 一点不掺假。  
