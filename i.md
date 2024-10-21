@@ -80,7 +80,7 @@
 1. 【[以上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_shan.md#以上)】`i3 shan6` <sup>[东台]</sup> 前一段时间。在普通话里多作为方位词，而在东台话里常作为时间概念：他～来过。  
 1. 【[以生托熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_shen_tah_shoh.md#以生托熟)】`i3 shen1 tah7 shoh8` <small>/i3 sən1 tʰaʔ7 sɔʔ8/<sup>兴化</sup>, /ʝ3 səŋ1 tʰaʔ7 sɔʔ8/<sup>如皋</sup></small> ① 利用关系拉关系<sup>\[如皋\]</sup>：她有本事～的请人来帮忙。<sup>\[如皋\]</sup> ② 本来不熟悉却以熟人的姿态和人拉关系。<sup>\[兴化\]</sup>  
 1. 【[以作/拟作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_zah.md#以作/拟作)】`i3 zah7` 估计下来最多<sup>\[泰州\]</sup>：会场上的人全部加起来，～来啊七八十个人。<sup>\[泰州\]</sup>｜这件衣裳～值咖一百多块钱吧。<sup>\[泰州\]</sup>｜他的成绩，～上个下坝中学吧。<sup>\[泰州\]</sup>｜凭他这门水平，～当个科长就不错唻。<sup>\[泰州\]</sup>  
-1. 【[以作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_zah.md#以作)】`i3 zhah7` <sup>[泰县]</sup> 大约：这回参加运动会的～二百个人。  
+1. 【[以作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_zah.md#以作)】`i3 zah7` <sup>[泰县]</sup> 大约：这回参加运动会的～二百个人。  
 1. 【[倚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#倚)】`i3` <small>/ʝ3/<sup>如皋</sup></small> ① 以为，倚仗 ② 依随。弟新妇的妈妈来啊，我～啊侄子叫她婆婆。<sup>\[如皋\]</sup> ③ 延误<sup>\[如皋\]</sup>：事情捱～下来啊。<sup>\[如皋\]</sup> ④ 抵住<sup>\[如皋\]</sup>：拿背脊～着咖门不让人进出。<sup>\[如皋\]</sup>  
 1. 【[倚啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_a.md#倚啊)】`i3 a` <sup>[如皋]</sup> 倚仗、依照、倚赖。  
 1. 【[倚啊包袱㧟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_a_bo_foh.md#倚啊包袱㧟)】`i3 a bo1 foh kuae6` <sup>[如皋]</sup> 依赖功劳或成绩敷衍行事：你不要～，新任领导不吃这一套。  

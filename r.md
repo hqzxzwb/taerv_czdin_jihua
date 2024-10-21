@@ -106,7 +106,7 @@
 1. 【[肏捣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_do.md#肏捣)】`reh8-7 do` <sup>[兴化]</sup> ① 性交：“……我这里与你两个观风，教你两个自在～，……”（《金瓶梅词话》十三） ② “吃”的贬义说法。  
 1. 【[肏捣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_do.md#肏捣)】`reh8 do3` <sup>[泰县]</sup> （贬义）吃。  
 1. 【[肏拱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_gon.md#肏拱)】`reh8 gon3` <sup>[兴化]</sup> 心动难耐：他看见人家买彩票得奖，心里也～的想买。  
-1. 【[肏鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_guei.md#肏鬼)】`reh8 guei3` <small>/ləʔ8 kuəi3/<sup>兴化</sup>, /ɻəʔ8 kuei3/<sup>如皋</sup></small> ① 说假话。<sup>\[如东\]</sup>：你不要～。<sup>\[如东\]</sup> ② 觉得奇怪、不可思议<sup>\[如皋\]</sup>：倒～啷，钱哪去啊啦？<sup>\[如皋\]</sup> ③ 诡秘、非常的行为。见“肏咖鬼”。<sup>\[如皋\]</sup> ④ 奇怪、令人诧异<sup>\[兴化\]</sup>：～唻，不曾有人进家，东西怎吖少的？<sup>\[兴化\]</sup> ⑤ 也说“肏咖鬼子”。<sup>\[东台\]</sup> ⑥ 感到很奇怪的口头语。<sup>\[东台\]</sup> ⑦ 暗中搞鬼、作弊。<sup>\[东台\]</sup> ⑧ 捣鬼，暗中使用诡计<sup>\[泰州\]</sup>：这件事肯定有人从中～，你要当心。<sup>\[泰州\]</sup> ⑨ 事情蹊跷，古怪不合情理<sup>\[泰州\]</sup>：吃咖嘴里不臭，～唻，哪块来的臭味？<sup>\[泰州\]</sup>  
+1. 【[肏鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_guei.md#肏鬼)】`reh8 guei3` <small>/ləʔ8 kuəi3/<sup>兴化</sup>, /ɻəʔ8 kuei3/<sup>如皋</sup>, /ɻəʔ8 kuəɪ3/<sup>泰兴</sup></small> ① 说假话。<sup>\[如东\]</sup>：你不要～。<sup>\[如东\]</sup> ② 觉得奇怪、不可思议<sup>\[如皋\]</sup>：倒～啷，钱哪去啊啦？<sup>\[如皋\]</sup> ③ 诡秘、非常的行为。见“肏咖鬼”。<sup>\[如皋\]</sup> ④ 奇怪、令人诧异<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：～唻，不曾有人进家，东西怎吖少的？<sup>\[兴化\]</sup>｜～唻，才在箇块的，怎吖找不到的。<sup>\[泰兴\]</sup> ⑤ 也说“肏咖鬼子”。<sup>\[东台\]</sup> ⑥ 感到很奇怪的口头语。<sup>\[东台\]</sup> ⑦ 暗中搞鬼、作弊。<sup>\[东台\]</sup> ⑧ 捣鬼，暗中使用诡计<sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：这件事肯定有人从中～，你要当心。<sup>\[泰州\]</sup> ⑨ 事情蹊跷，古怪不合情理<sup>\[泰州\]</sup>：吃咖嘴里不臭，～唻，哪块来的臭味？<sup>\[泰州\]</sup>  
 1. 【[肏鬼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_guei_r.md#肏鬼<sub>儿</sub>)】`reh8 guei3 r` <sup>[泰县]</sup> 蹊跷。  
 1. 【[肏滚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_guen.md#肏滚)】`reh8 guen3` <small>/ɻəʔ8 kuəŋ3/<sup>如皋</sup>, /ɻəʔ8 kuəŋ3/<sup>泰兴</sup></small> 粗鄙话。滚开<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰兴\]</sup><sup>\[东台\]</sup>：你同我早啊点儿～，也省得你蹾吖家里作操！<sup>\[如皋\]</sup>｜请你～。<sup>\[如东\]</sup>  
 1. 【[肏决](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_jiuh.md#肏决)】`reh8 jiuh7` <sup>[泰县]</sup> 讽刺挖苦。  
@@ -353,6 +353,7 @@
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reu.md#□)】`reu5` <sup>[泰县]</sup> 不随和、固执。  
 1. 【[日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih.md#日)】`rih8` <sup>[如东]</sup> ① 太阳：～出 ② 从天亮到天黑的一段时间：～班。地球自转一周的时间；一昼夜。  
 1. 【[日邦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_ban.md#日邦)】`rih8 ban1` <sup>[泰县]</sup> 民间固定航线白天开的客船。  
+1. 【[日不做夜摸索](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_beh_zu_ia_mah_sah.md#日不做夜摸索)】`rih8 beh zu5 ia6 mah8 sah` <small>/iʔ8 pəʔ t͡sɤɯ5 iɑ1 mɑʔ8 sɑʔ/<sup>泰兴</sup></small> 喻不善于掌握时间，把应在白天做好的事拖到夜上做。多用于责备他人。<sup>\[泰兴\]</sup>  
 1. 【[日不做夜摸索](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_beh_zu_ia_mah_sah.md#日不做夜摸索)】`rih8 beh7 zu5 ia6 mah8 sah7` <sup>[东台]</sup> 不善于掌握时间，白天能完成的工作要拖到晚上来做。  
 1. 【[日本花柏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_ben_hua_boh.md#日本花柏)】`rih8 ben3 hua1 boh7` <sup>[如东]</sup> 常绿乔木。树冠圆锥形。叶表面暗绿色，下面有白色线纹，鳞叶端锐尖略展开侧前较中间稍长。球果。原产日本。园林中种植。  
 1. 【[日本樱花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_ben_ien_hua.md#日本樱花)】`rih8 ben3 ien1 hua1` <sup>[如东]</sup> 落叶乔木。叶子椭圆形，总状花序或伞房花序。花白色或粉红色，略有芳香。果实球形，黑色。这种植物的花称樱花，供观赏。原产日本，故名。  
@@ -360,16 +361,18 @@
 1. 【[日本五针松](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_ben_v_zhen_son.md#日本五针松)】`rih8 ben3 v3 zhen1 son1` <sup>[如东]</sup> 乔木。树冠圆锥形，树皮灰黑色，呈不规则鳞片状剥落裂，内皮赤褐色。叶较细，5针一束。球果卵圆形或卵状椭圆形。种子倒卵形。适宜作盆景、桩景等用。  
 1. 【[日逐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_choh.md#日逐)】`rih8 choh8` <sup>[兴化]</sup> 每日、天天：暑假里，他～到柳荫下看书。｜这婆子能言快语，况且～串街走巷，那一家不认得。（《古今小说》一）  
 1. 【[日咖夜的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_ga_ia_dii.md#日咖夜的)】`rih8 ga ia6 dii` <sup>[东台]</sup> 不分白天黑夜：他交关勤劳，～忙｜他这几天筋骨～疼。  
+1. 【[日工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_gon.md#日工)】`rih8 gon1` <small>/iʔ8 kɔŋ1/<sup>泰兴</sup></small> 以天数计算工资的临时工作。<sup>\[泰兴\]</sup>  
 1. 【[日光灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_guan_den.md#日光灯)】`rih8 guan1 den1` <sup>[如东]</sup> 荧光灯。  
+1. 【[日光灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_guan_den.md#日光灯)】`rih8 guan1 den1` <small>/iʔ8 kuɑŋ1 təŋ1/<sup>泰兴</sup></small> 荧光灯，其光与日光相似，故名。<sup>\[泰兴\]</sup>  
 1. 【[日干日消](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_gun_rih_xio.md#日干日消)】`rih8 gun1 rih8 xio1` <sup>[兴化]</sup> 赚的钱钱只够当天开支：寻两个钱～，哪许有余钱供伢儿上学？  
 1. 【[日夜班](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_ia_baen.md#日夜班)】`rih8 ia6 baen1` <sup>[如东]</sup> 上班制度的一种，分为白天和黑夜两班。  
-1. 【[日脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_jiah.md#日脚)】`rih8 jiah7` <small>/liɪʔ8 t͡ɕiaʔ7/<sup>兴化</sup>, /iɪʔ8 t͡ɕiɑʔ7/<sup>泰县</sup></small> ① 日子。<sup>\[如东\]</sup>：～不好过。<sup>\[如东\]</sup> ② 日期。<sup>\[如东\]</sup> ③ 日子。《吴下方言考》：“～，晷影也。今吴谚谓去日之速曰～快也”。<sup>\[兴化\]</sup>：“大哥休怪。正是要紧的～，先说得明白最好。”（《水浒传》七四）<sup>\[兴化\]</sup> ④ 日子。<sup>\[泰县\]</sup>  
+1. 【[日脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_jiah.md#日脚)】`rih8 jiah7` <small>/liɪʔ8 t͡ɕiaʔ7/<sup>兴化</sup>, /iʔ8 t͡ɕiɑʔ7/<sup>泰兴</sup>, /iɪʔ8 t͡ɕiɑʔ7/<sup>泰县</sup></small> ① 日期。<sup>\[如东\]</sup><sup>\[泰兴\]</sup> ② 日子<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>：～不好过。<sup>\[如东\]</sup>｜《吴下方言考》：“～，晷影也。今吴谚谓去日之速曰～快也”。<sup>\[兴化\]</sup>｜“大哥休怪。正是要紧的～，先说得明白最好。”（《水浒传》七四）<sup>\[兴化\]</sup>  
 1. 【[日脚老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_jiah_lo.md#日脚老)】`rih8 jiah7 lo3` <sup>[如皋]</sup> 一般指休养天数长。  
 1. 【[日脚嫩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_jiah_nen.md#日脚嫩)】`rih8 jiah7 nen6` <sup>[如皋]</sup> 修养天数短。  
 1. 【[日进分文](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_jien_fen_ven.md#日进分文)】`rih8 jien5 fen1 ven2` <sup>[兴化]</sup> 指有经常性经济收入：谚曰：家有良田千顷，不抵～。  
 1. 【[日久](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_jieu.md#日久)】`rih8 jieu3` <sup>[兴化]</sup> 时间长了：兴哥虽然想家，到得～，索性把念头放慢了。（《古今小说》一）｜谚曰：路遥知马力，～见人心。  
 1. 【[日历头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_lieh_teu_zz.md#日历头子)】`rih8 lieh8 teu2 zz` <sup>[兴化]</sup> 历书。  
-1. 【[日里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_lii.md#日里)】`rih8 lii` <small>/liɪʔ8 ləi/<sup>兴化</sup>, /ɻiʔ8 tei/<sup>如皋</sup>, /iɪʔ8 nɿ/<sup>泰县</sup></small> 白天<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰县\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup>\[泰州：（泰州音in1 in1）\]：～热时走不得（《水浒》）。<sup>\[东台\]</sup>｜～抓紧做，免得开夜车。<sup>\[兴化\]</sup>｜他同人是反的，夜里不睡～睡。<sup>\[泰州\]</sup>  
+1. 【[日里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_lii.md#日里)】`rih8 lii` <small>/liɪʔ8 ləi/<sup>兴化</sup>, /ɻiʔ8 tei/<sup>如皋</sup>, /iʔ8 ləɪ/<sup>泰兴</sup>, /iɪʔ8 nɿ/<sup>泰县</sup></small> 白天<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰县\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>\[泰州：（泰州音in1 in1）\]：～热时走不得（《水浒》）。<sup>\[东台\]</sup>｜～抓紧做，免得开夜车。<sup>\[兴化\]</sup>｜他同人是反的，夜里不睡～睡。<sup>\[泰州\]</sup>  
 1. 【[日里家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_lii_ga.md#日里家)】`rih8 lii ga` <sup>[泰县]</sup> 白天。  
 1. 【[日里跑四方，晚上补裤裆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_lii_po_sz_fan_vaen_shan_bv_kv_dan.md#日里跑四方，晚上补裤裆)】`rih8 lii po2 sz5 fan1 vaen3 shan bv3 kv5 dan1` <sup>[如皋]</sup> ① 词面义：白天游逸四方，忘情快活，晚上补缀衣衫，考虑生计。 ② 警语：好逸恶劳，必然穷极潦倒。 ③ 奚落语：死要面子，晚上躲着补裤档，怕被人看到。  
 1. 【[日前](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_qin.md#日前)】`rih8 qin2` <sup>[如东]</sup> 在这天之前。  
@@ -379,7 +382,8 @@
 1. 【[日天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_tin.md#日天)】`rih8 tin1` <small>/liɪʔ8 tʰiɪ̃1/<sup>兴化</sup>, /ɻiʔ8 tʰĩ1/<sup>如皋</sup></small> ① 日出到日落的时段<sup>\[如皋\]</sup>：夏至的～最长，冬至的～最短。<sup>\[如皋\]</sup> ② 白天<sup>\[兴化\]</sup>：夏季～长冬季～短。<sup>\[兴化\]</sup>  
 1. 【[日消货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_xio_hu.md#日消货)】`rih8 xio hu5` <sup>[兴化]</sup> 每天都要消费的商品：米面油盐是～，每天少不了。  
 1. 【[日朝日晚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_zho_rih_vaen.md#日朝日晚)】`rih8 zho rih8 vaen3` <sup>[兴化]</sup> 早早晚晚：她过门不多时，就～的吵啊要分家。  
-1. 【[日中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_zhon.md#日中)】`rih8 zhon1` <small>/liɪʔ8 t͡soŋ1/<sup>兴化</sup>, /ɻiʔ8 t͡sɔŋ1/<sup>如皋</sup>, /iʔ8 t͡sɔŋ1/<sup>泰兴</sup>, /iɪʔ8 t͡soŋ1/<sup>泰县</sup></small> ① 中午 ② 午饭：吃～ ③ 正午<sup>\[东台\]</sup>：早烧清明晚烧冬，七月半的亡人等不到小～。<sup>\[东台\]</sup>  
+1. 【[日中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_zhon.md#日中)】`rih8 zhon1` <small>/iʔ8 t͡sɔŋ1/<sup>泰兴</sup></small> ① 中午 ② 中午<sup>\[东台\]</sup><sup>\[泰兴\]</sup>：早烧清明晚烧冬，七月半的亡人等不到小～。<sup>\[东台\]</sup>｜你到～时候来。<sup>\[泰兴\]</sup> ③ 午饭<sup>\[泰兴\]</sup>：快，家去吃～<sup>\[泰兴\]</sup>  
+1. 【[日中脚下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_zhon_jiah_ga.md#日中脚下)】`rih8 zhon1 jiah7 ga` <small>/iʔ8 t͡sɔŋ1 t͡ɕiɑʔ7 kɑ/<sup>泰兴</sup></small> 中午时分<sup>\[泰兴\]</sup>  
 1. 【[日子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_zz.md#日子)】`rih8 zz` ① 比喻生活。<sup>\[如东\]</sup>：过～。<sup>\[如东\]</sup> ② 生活或者生计<sup>\[泰州\]</sup>：他俫两口子的小～过得蛮好。<sup>\[泰州\]</sup>  
 1. 【[热潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_cho.md#热潮)】`rih8 cho` <sup>[泰县]</sup> 热闹：节日的时候街上～。  
 1. 【[热炒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_cho.md#热炒)】`rih8 cho3` <sup>[如皋]</sup> 现炒的菜。旧称热盘。  

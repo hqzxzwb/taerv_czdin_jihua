@@ -651,13 +651,14 @@
 1. 【[障](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan.md#障)】`zhan5` <sup>[泰县]</sup> 篱笆。  
 1. 【[障栏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_laen.md#障栏)】`zhan5 laen2` <sup>[如东]</sup> 阻止人或动物行动的建筑物：那里非常空旷，没有任何～。  
 1. 【[障𥭚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_van.md#障𥭚)】`zhan5 van6` <small>/t͡sã5 ʋã1/<sup>如皋</sup></small> ① 用芦柴茎编成的板状物，作建材。<sup>\[如皋\]</sup> ② 建筑材料。用芦苇、秫秸等编成条块状，搁在椽子上，供苫草、摊瓦。<sup>\[如东\]</sup>  
-1. 【[侧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh.md#侧)】`zheh7` <small>/t͡səʔ7/<sup>兴化</sup></small> ① 倾斜。<sup>\[如东\]</sup>：坛子摆～倒。<sup>\[如东\]</sup> ② 倾斜、倾倒<sup>\[兴化\]</sup>：～头斜脑；～过来；～过去。<sup>\[兴化\]</sup> ③ （泰州词典作𩔳）<sup>\[泰州\]</sup> ④ 头部不正<sup>\[泰州\]</sup>：伢儿睡觉的时候老是把个头～咖睡，不晓得他怎吖就不难过的。<sup>\[泰州\]</sup>  
+1. 【[侧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh.md#侧)】`zheh7` <small>/t͡səʔ7/<sup>兴化</sup>, /t͡səʔ7/<sup>如皋</sup>, /t͡səʔ7/<sup>泰兴</sup></small> 倾斜、侧斜。有的地方偏指头部倾斜，作𩔳、夨等。<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>：坛子摆～倒。<sup>\[如东\]</sup>｜～头斜脑；～过来；～过去。<sup>\[兴化\]</sup>｜伢儿睡觉的时候老是把个头～咖睡，不晓得他怎吖就不难过的。<sup>\[泰州\]</sup>｜他头～咖～的不服气。<sup>\[如皋\]</sup>｜你～过来就够到了。<sup>\[泰兴\]</sup>｜把杯子～过来倒点水。<sup>\[泰兴\]</sup>  
 1. 【[侧膊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_bah.md#侧膊)】`zheh7 bah7` <sup>[如东]</sup> ① 人的身子半翻转，呈倾斜状：～咖身子睡觉。 ② 物体倾斜：船～咖在河边上，交关危险。  
 1. 【[侧刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_do.md#侧刀)】`zheh7 do1` <sup>[如皋]</sup> 立刀旁儿（刂）：列别剑。  
 1. 【[侧耳听声的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_er_tien_shen_dii.md#侧耳听声的)】`zheh7 er3 tien5 shen1 dii` <sup>[如皋]</sup> 凝神细听的样子。  
 1. 【[侧玉帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_ioh_ban.md#侧玉帮)】`zheh7 ioh8 ban1` <sup>[如皋]</sup> 斜王旁儿（王）：玩珍班。  
 1. 【[侧席子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_qieh_zz.md#侧席子)】`zheh7 qieh8 zz` <sup>[如东]</sup> 白天睡大觉，叫做侧席子：他还在下～。  
 1. 【[侧肉帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_roh_ban.md#侧肉帮)】`zheh7 roh8 ban1` <sup>[如皋]</sup> 月字旁儿（月）：肠肺肝。  
+1. 【[侧头爆眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_teu_bo_ngaen.md#侧头爆眼)】`zheh7 teu2 bo5 ngaen3` <small>/t͡səʔ7 tʰəɪ2 pɔ5 ŋɛ̃3/<sup>泰兴</sup></small> 歪着头，瞪着眼。谓暴怒貌。<sup>\[泰兴\]</sup>  
 1. 【[侧砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_zhun.md#侧砖)】`zheh7 zhun1` <small>/t͡səʔ7 t͡sʊ̃1/<sup>如皋</sup></small> ① 见“陡砖”。<sup>\[如皋\]</sup> ② 砖块横身竖放，称侧砖。<sup>\[如东\]</sup>  
 1. 【[只愁养，不愁长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_cheu_ian_beh_cheu_zhan.md#只愁养，不愁长)】`zheh7 cheu2 ian3 beh7 cheu2 zhan3` <sup>[东台]</sup> 只担心能否生育，孩子出生后成长很快。  
 1. 【[只𧽌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_huaeh.md#只𧽌)】`zheh7 huaeh7` <sup>[泰县]</sup> 很快：这个人走得～。  
@@ -674,8 +675,6 @@
 1. 【[只需<sub>要</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_xio.md#只需<sub>要</sub>)】`zheh7 xio5` <sup>[如皋]</sup> 只需要（合音字）：5个人吃，～买10个烧饼。  
 1. 【[只止](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_zhr.md#只止)】`zheh7 zhr` <small>/t͡səʔ7 t͡sɿ/<sup>泰兴</sup></small> （数量上、好坏程度上等）仅仅\[泰兴：他就考啊～箇点儿分数\]  
 1. 【[只准](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_zhuen.md#只准)】`zheh7 zhuen3` <sup>[东台]</sup> 只多不少；完全对得起。  
-1. 【[夨（侧）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh.md#夨（侧）)】`zheh7` <sup>[如皋]</sup> 侧斜：他头～咖～的不服气。  
-1. 【[夨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh.md#夨)】`zheh7` <sup>[东台]</sup> 侧头。见《说文·矢部》。  
 1. 【[执铲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_chaen_zz.md#执铲子)】`zheh7 chaen3 zz` <sup>[兴化]</sup> 当锅炒菜：今吖中午由大嫂～，弄几样菜让大家尝尝。  
 1. 【[执钉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_dien.md#执钉)】`zheh7 dien1` <sup>[兴化]</sup> 旧葬俗：父母遗体入验，分别由父系或母系亲属中人扶一下斧柄，再由匠人将棺盖钉上。‖也作“挽钉”。  
 1. 【[执斧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_fv.md#执斧)】`zheh7 fv3` <small>/t͡səʔ7 fu3/<sup>如皋</sup></small> ① 丧仪之一。母死，大殓给棺材钉钉子，由舅父～递给木匠。表示母家人无异议。<sup>\[如皋\]</sup> ② 死人盖棺时敲第一斧的人，通常为死者的兄弟或侄子（死者是女人，则为爷娘侄子）中年龄最长者。<sup>\[东台\]</sup>  
@@ -694,10 +693,12 @@
 1. 【[汁浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_jian.md#汁浆)】`zheh7 jian1` <sup>[如东]</sup> 植物体内营养物质的含量：秋天，银杏叶内的～最多。  
 1. 【[汁水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_shuei.md#汁水)】`zheh7 shuei` <small>/t͡səʔ7 suəi/<sup>兴化</sup></small> ① 某些物质里所含液体<sup>\[兴化\]</sup>：（进忠）将药俱洗净了，揉去～，放在篮内……（《梼杌闲评》十九）<sup>\[兴化\]</sup> ② 植物内部黏稠汁液，多指水果汁液<sup>\[泰州\]</sup>：梨子放的时间长吖，没得甚的～唻。<sup>\[泰州\]</sup>  
 1. 【[窄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh.md#窄)】`zheh7` <sup>[如皋]</sup> 汤量小：红烧鱼～～儿的汤。与“野”汤相对。  
+1. 【[窄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh.md#窄)】`zheh7` <small>/t͡səʔ7/<sup>泰兴</sup></small> 狭小、逼仄<sup>\[泰兴\]</sup>  
+1. 【[窄狭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_haeh.md#窄狭)】`zheh7 haeh` <small>/t͡səʔ7 xæʔ/<sup>泰兴</sup></small> 狭窄。多指空间或心胸不宽广。<sup>\[泰兴\]</sup>：家里房子小，～。<sup>\[泰兴\]</sup>  
 1. 【[窄狭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_haeh.md#窄狭)】`zheh7 haeh8` <sup>[东台]</sup> 空间狭小，狭窄。  
 1. 【[窄窄哝哝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_zheh_non_non.md#窄窄哝哝)】`zheh7 zheh7 non2 non2` <small>/t͡səʔ7 t͡səʔ7 loŋ2 loŋ2/<sup>兴化</sup>, /t͡səʔ7 t͡səʔ7 noŋ2 noŋ2/<sup>泰县</sup></small> ① 行动不灵活。<sup>\[泰县\]</sup> ② 同“折折哝哝”。<sup>\[东台\]</sup> ③ 吞吞吐吐，欲言又止<sup>\[兴化\]</sup>：他说话～的。<sup>\[兴化\]</sup> ④ 欲与难舍的样子<sup>\[兴化\]</sup>：她要把钱，又～的舍不得。<sup>\[兴化\]</sup>  
 1. 【[窄窄<sub>儿</sub>汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_zheh_r_tan.md#窄窄<sub>儿</sub>汤)】`zheh7 zheh7 r tan1` <sup>[东台]</sup> 烧菜时放少量的水，使菜肴的汤汁可口。（汤多称宽汤）  
-1. 【[窒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh.md#窒)】`zheh7` <small>/t͡səʔ7/<sup>泰县</sup></small> ① 堵住<sup>\[东台\]</sup>：泥门～洞。<sup>\[东台\]</sup> ② 塞<sup>\[泰县\]</sup>：把瓶口～起来。<sup>\[泰县\]</sup>  
+1. 【[窒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh.md#窒)】`zheh7` <small>/t͡səʔ7/<sup>泰县</sup></small> 堵塞<sup>\[东台\]</sup><sup>\[泰县\]</sup>：泥门～洞。<sup>\[东台\]</sup>｜把瓶口～起来。<sup>\[泰县\]</sup>  
 1. 【[窒当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_dan.md#窒当)】`zheh7 dan1` <small>/t͡səʔ7 taŋ1/<sup>兴化</sup>, /t͡səʔ7 tɑŋ1/<sup>泰县</sup></small> 车船在途中受阻<sup>\[兴化\]</sup><sup>\[泰县\]</sup>\[泰州：道路（河道）上的空着地方被行人、车辆（船舶）填满，意为道路交通堵塞\]：今朝进闸的船太多，～。<sup>\[兴化\]</sup>｜上午大雾，车子在路上～。<sup>\[兴化\]</sup>｜今吖汽车在路上～，所以晚点吖。<sup>\[泰县\]</sup>｜过去坡子街上移到星期天，路上就～。<sup>\[泰州\]</sup>  
 1. 【[窒皮打狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_pi_da_geu.md#窒皮打狗)】`zheh7 pi2 da3 geu3` <sup>[兴化]</sup> 形容空间太小：这地方～的，几个人一来就不好转身吖。  
 1. 【[窒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_zz.md#窒子)】`zheh7 zz` <small>/t͡səʔ7 t͡sɿ/<sup>如皋</sup></small> ① 瓶塞子。<sup>\[如皋\]</sup> ② 用来塞住瓶类容器的口的东西，塞子<sup>\[泰州\]</sup>：茶瓶～。<sup>\[泰州\]</sup>  
@@ -709,7 +710,7 @@
 1. 【[趾头拐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_teu_guae_r.md#趾头拐<sub>儿</sub>)】`zheh7 teu guae3 r` <sup>[如皋]</sup> 外凸骨节。  
 1. 【[趾头节<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_teu_jih_r.md#趾头节<sub>儿</sub>)】`zheh7 teu jih7 r` <sup>[如皋]</sup> 脚趾的关节或每一节。  
 1. 【[趾头爪<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_teu_zho_r.md#趾头爪<sub>儿</sub>)】`zheh7 teu zho3 r` <sup>[如皋]</sup> 脚趾。  
-1. 【[迮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh.md#迮)】`zheh7` <small>/t͡səʔ7/<sup>如皋</sup>, /t͡səʔ7/<sup>泰县</sup></small> ① 压<sup>\[如皋\]</sup>：拿石头～咸菜缸。<sup>\[如皋\]</sup> ② 压（原文作“窒”字，义不合）<sup>\[泰县\]</sup>：这本书不平，坐啊屁股下～下子。<sup>\[泰县\]</sup>  
+1. 【[迮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh.md#迮)】`zheh7` <small>/t͡səʔ7/<sup>如皋</sup>, /t͡səʔ7/<sup>泰县</sup></small> 压<sup>\[如皋\]</sup><sup>\[泰县\]</sup>：拿石头～咸菜缸。<sup>\[如皋\]</sup>｜这本书不平，坐啊屁股下～下子。<sup>\[泰县\]</sup>  
 1. 【[迮迮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_zheh.md#迮迮)】`zheh7 zheh7` <sup>[泰县]</sup> 压压：这几张邮票要～，防止翘边儿。  
 1. 【[争多略少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_du_liah_sho.md#争多略少)】`zhen1 du1 liah8 sho3` <sup>[如东]</sup> 要求多：不要～的。  
 1. 【[争多撂少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_du_lio_sho.md#争多撂少)】`zhen1 du1 lio6 sho3` <sup>[如皋]</sup> 计较，争论不下。  
@@ -1114,6 +1115,7 @@
 1. 【[粥膜子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_mah_zz.md#粥膜子)】`zhoh7 mah8 zz` <small>/t͡sɔʔ7 maʔ8 t͡sɿ/<sup>如皋</sup></small> ① 锅边上、碗边上粥汤乾后形成的膜子。<sup>\[如皋\]</sup> ② 粥冷却后上面凝结成的一层薄膜。也叫“米油”、“粥油”。<sup>\[东台\]</sup>  
 1. 【[粥面子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_min_zz.md#粥面子)】`zhoh7 min6 zz` <sup>[如皋]</sup> 粥的最上层。  
 1. 【[粥汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_tan.md#粥汤)】`zhoh7 tan1` <sup>[如东]</sup> 很稀的粥：喝～。  
+1. 【[中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon.md#中)】`zhon1` <small>/t͡sɔŋ1/<sup>泰兴</sup></small> ① 犹言可、行、成<sup>\[泰兴\]</sup>：箇桩事教他去办恐怕不～。<sup>\[泰兴\]</sup> ② 中午、日中的时候。<sup>\[泰兴\]</sup>：日中时辰磨豆腐，中中着（中饭的菜）。”<sup>\[泰兴\]</sup>  
 1. 【[中班同事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_baen_ton_shr.md#中班同事)】`zhon1 baen1 ton2 shr` <sup>[兴化]</sup> 旧谓刚满师的青年店员：他儿子在布店学生意刚满师，现在当～。  
 1. 【[中半上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_bun_shan.md#中半上)】`zhon1 bun shan6` <small>/t͡sɔŋ1 pʊ̃ sã1/<sup>如皋</sup></small> ① 中午。<sup>\[如皋\]</sup> ② 近中午时分。<sup>\[如皋\]</sup>  
 1. 【[中半天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_bun_tin.md#中半天)】`zhon1 bun tin1` <sup>[兴化]</sup> 中午前后的一段时间。  
@@ -1137,7 +1139,7 @@
 1. 【[中间段<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_gaen_tun_r.md#中间段<sub>儿</sub>)】`zhon1 gaen1 tun6 r` <sup>[如东]</sup> 中部的一段：把～给毛毛。  
 1. 【[中间心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_gaen_xien.md#中间心)】`zhon1 gaen1 xien1` <sup>[如东]</sup> 物体的中心：～变吖质。  
 1. 【[中间心里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_gaen_xien_lii.md#中间心里)】`zhon1 gaen1 xien1 lii` <sup>[如皋]</sup> 指包裹物的中心区：他把银洋钱包啊在棉花胎的～｜他吃包儿专吃～的馅子。  
-1. 【[中觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_go.md#中觉)】`zhon1 go5` <small>/t͡sɔŋ1 kɔ5/<sup>如皋</sup></small> 午觉<sup>\[如皋\]</sup><sup>\[泰州\]</sup>：你夜里不曾睡得好，吃过饭好好睡个～。<sup>\[泰州\]</sup>  
+1. 【[中觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_go.md#中觉)】`zhon1 go5` <small>/t͡sɔŋ1 kɔ5/<sup>如皋</sup>, /t͡sɔŋ1 kɔ5/<sup>泰兴</sup></small> 午觉<sup>\[如皋\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：你夜里不曾睡得好，吃过饭好好睡个～。<sup>\[泰州\]</sup>  
 1. 【[中锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_gu.md#中锅)】`zhon1 gu1` <sup>[如皋]</sup> 砖灶三间，中间的一口锅。  
 1. 【[中光货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_guan_hu.md#中光货)】`zhon1 guan1 hu5` <sup>[兴化]</sup> 品位和质量一般的货色：这批服装都是～，比较适销。  
 1. 【[中箍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_gv.md#中箍)】`zhon1 gv1` <sup>[如东]</sup> 木桶中间的一条箍，竹制或铜制。用以收紧桶墙。  
@@ -1149,6 +1151,7 @@
 1. 【[中块当<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_kuae_dan_r.md#中块当<sub>儿</sub>)】`zhon1 kuae5 dan5 r` <sup>[如东]</sup> 中间位置：你把东西放吖～。  
 1. 【[中块段<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_kuae_tun_r.md#中块段<sub>儿</sub>)】`zhon1 kuae5 tun6 r` <sup>[如东]</sup> 中间的一段：你把～给我吧。  
 1. 【[中块心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_kuae_xien.md#中块心)】`zhon1 kuae5 xien1` <sup>[如东]</sup> 物体的中心：～是黄的。  
+1. 【[中拇节头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_mu_jih_teu.md#中拇节头)】`zhon1 mu jih7 teu` <small>/t͡sɔŋ1 mɤɯ t͡ɕiʔ7 tʰəɪ/<sup>泰兴</sup></small> 中指。<sup>\[泰兴\]</sup>  
 1. 【[中模样<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_mu_ian_r.md#中模样<sub>儿</sub>)】`zhon1 mu2 ian6 r` <sup>[如皋]</sup> 中等的：他的个子有～；这种布的质量是～。  
 1. 【[中拇指](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_mu_zheh.md#中拇指)】`zhon1 mu3 zheh7` <sup>[如东]</sup> 中指。  
 1. 【[中拇指头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_mu_zheh_teu.md#中拇指头)】`zhon1 mu3 zheh7 teu` <sup>[兴化]</sup> 中指。  
@@ -1156,12 +1159,12 @@
 1. 【[中秋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_qieu.md#中秋)】`zhon1 qieu1` <sup>[如东]</sup> 秋季的第二个月，称中秋。  
 1. 【[中秋的月亮——正大光明](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_qieu_dii_iuh_lian_zhen_da_guan_mien.md#中秋的月亮——正大光明)】`zhon1 qieu1 dii iuh8 lian6 zhen5 da6 guan1 mien2` <sup>[东台]</sup>   
 1. 【[中秋节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_qieu_jih.md#中秋节)】`zhon1 qieu1 jih7` <sup>[如东]</sup> 中国传统节日。在阴历八月十五日。宋·吴自枚《梦梁录·中秋》称：“八月十五日，中秋节，此日三秋恰半，故谓之中秋。”这一天，民间有赏月的风俗。吃月饼约在元朝后期。  
-1. 【[中前午后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_qin_v_heu.md#中前午后)】`zhon1 qin2 v3 heu6` <sup>[兴化]</sup> 指中午前后：夏天～的比较热，人家歇歇再做。  
+1. 【[中前午后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_qin_v_heu.md#中前午后)】`zhon1 qin2 v3 heu6` <small>/t͡soŋ1 t͡ɕʰiɪ̃2 u3 xɤ6/<sup>兴化</sup>, /t͡sɔŋ1 t͡ɕʰĩ2 ʋ3 xəɪ1/<sup>泰兴</sup></small> 指中午前后<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：夏天～的比较热，人家歇歇再做。<sup>\[兴化\]</sup>  
 1. 【[中㢗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_qio.md#中㢗)】`zhon1 qio5` <sup>[如东]</sup> 帆船的第11舱，小份头（船工）居住。  
-1. 【[中人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_ren.md#中人)】`zhon1 ren2` 买卖的介绍人、担保人，纠纷的调解人<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰州\]</sup>：王伯达是～。<sup>\[如东\]</sup>｜他把房子过啊把老李，请王爹做的～。<sup>\[泰州\]</sup>  
+1. 【[中人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_ren.md#中人)】`zhon1 ren2` <small>/t͡sɔŋ1 ɻəŋ2/<sup>泰兴</sup></small> 买卖的介绍人、担保人，纠纷的调解人<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰州\]</sup>\[泰兴：居间介绍或作证的人。也称“中间人”。\]：王伯达是～。<sup>\[如东\]</sup>｜他把房子过啊把老李，请王爹做的～。<sup>\[泰州\]</sup>｜产业交关少不得立个文书，也要用着个～才使得。（《二刻拍案惊奇》卷16）<sup>\[泰兴\]</sup>  
 1. 【[中山钟楼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_shaen_zhon_leu.md#中山钟楼)】`zhon1 shaen1 zhon1 leu2` <sup>[如皋]</sup> 1925年孙中山先生奉安时，由德国工程师主持建于如皋县政府钟鼓楼原址。四层，方柱形，顶上有大钟计时，有巨铜钟报时，声音响彻全城。当时作为全国第一大县才有幸建造。1995年旧城改造中被拆毁。  
 1. 【[中上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_shan.md#中上)】`zhon1 shan` <small>/t͡soŋ1 saŋ/<sup>兴化</sup>, /t͡soŋ1 sɑŋ/<sup>泰县</sup></small> 中午。<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：～吃甚的？<sup>\[如东\]</sup>｜～得闲，还溜到门首同邻居们下象棋。（《儒林外史》十六）<sup>\[兴化\]</sup>｜你俫～家来吃饭。<sup>\[泰州\]</sup>  
-1. 【[中堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_tan.md#中堂)】`zhon1 tan2` ① 悬挂在客厅中的字画，称中堂。<sup>\[如东\]</sup> ② 堂屋。<sup>\[东台\]</sup> ③ 悬挂在客厅正中的大幅字画。<sup>\[东台\]</sup>  
+1. 【[中堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_tan.md#中堂)】`zhon1 tan2` <small>/t͡sɔŋ1 tʰɑŋ2/<sup>泰兴</sup></small> ① 悬挂在客厅中的字画，称中堂。<sup>\[如东\]</sup> ② 堂屋。<sup>\[东台\]</sup> ③ 悬挂在客厅正中的大幅字画。<sup>\[东台\]</sup> ④ 挂在厅堂正中的大幅字画。<sup>\[泰兴\]</sup>  
 1. 【[中午](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_v.md#中午)】`zhon1 v3` <sup>[如东]</sup> 十二点钟左右的时间，称中午。  
 1. 【[中学](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_xiah.md#中学)】`zhon1 xiah8` <sup>[如东]</sup> 对青少年实施中等教育的学校。  
 1. 【[中心丸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_xien_un_r.md#中心丸<sub>儿</sub>)】`zhon1 xien un2 r` <sup>[兴化]</sup> ① （戏）谓最受溺爱的后生晚辈：小孙子是老两口的～。 ② 受上司宠信的人：他是老总的～，有点儿小错没事。  
@@ -1191,6 +1194,7 @@
 1. 【[种头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_teu.md#种头)】`zhon3 teu` <sup>[如皋]</sup> 品种。  
 1. 【[种猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_zhv.md#种猪)】`zhon3 zhv1` <sup>[如东]</sup> 未骟的公猪。  
 1. 【[种子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_zz.md#种子)】`zhon3 zz` <sup>[如东]</sup> 播种植物时撒下的谷种，称种子。  
+1. 【[中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon.md#中)】`zhon5` <small>/t͡sɔŋ5/<sup>泰兴</sup></small> ① 考取<sup>\[泰兴\]</sup>：后来孟沂～吖进士。<sup>\[泰兴\]</sup>｜他不曾考得～<sup>\[泰兴\]</sup> ② 命中<sup>\[泰兴\]</sup>  
 1. 【[中吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_nga.md#中吖)】`zhon5 nga` <small>/t͡sɔŋ5 ŋa/<sup>如皋</sup></small> 中风了。<sup>\[如皋\]</sup>\[泰州：中风后瘫痪卧床\]：高血压要吃药，万一～就不得了唻。<sup>\[泰州\]</sup>  
 1. 【[中心圆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_xien_iun_r.md#中心圆<sub>儿</sub>)】`zhon5 xien1 iun2 r` <sup>[东台]</sup> ［喻］指特别赏识和中意的下级或晚辈。  
 1. 【[众人挖给一人挑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_ren_vaeh_gei_ieh_ren_tio.md#众人挖给一人挑)】`zhon5 ren2 vaeh7 gei5 ieh7 ren2 tio1` <sup>[东台]</sup> 喻指忙闲不均，多人不卖力，把难事推给个把人。  

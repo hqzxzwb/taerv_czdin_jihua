@@ -181,11 +181,13 @@
 1. 【[云泛红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_faen_hon.md#云泛红)】`yen2 faen5 hon2` <sup>[如东]</sup> 彤云密布，灰色略红，可能下雪。  
 1. 【[云泛黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_faen_huan.md#云泛黄)】`yen2 faen5 huan2` <sup>[如东]</sup> 云层密布，呈现黄色可能降雨。  
 1. 【[云里雾里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_li_v_li.md#云里雾里)】`yen2 li3 v5 li3` <sup>[东台]</sup> ［喻］形容说话漫无边际。  
+1. 【[云里雾里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_li_v_li.md#云里雾里)】`yen2 li3 v5 li3` <small>/yəŋ2 lʝ3 ʋ5 lʝ3/<sup>泰兴</sup></small> 迷迷糊糊；懞懞懂懂。<sup>\[泰兴\]</sup>：他说的什的，我听吖半大天还是～的。<sup>\[泰兴\]</sup>  
 1. 【[云里雾里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_li_v_li.md#云里雾里)】`yen2 li3 v6 li3` <sup>[兴化]</sup> 稀里糊涂，一头雾水：捱他一席话说得～，头绪全弄不清吖。｜就这丫头一番话，把杨雄骗得～……（扬二《探奸遭陷》）  
 1. 【[云沗沗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_pan_pan.md#云沗沗)】`yen2 pan5 pan5` <sup>[如东]</sup> 天空多浮云：今朝～的，不会得太热。  
 1. 【[云沗沗的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_pan_pan_dii.md#云沗沗的)】`yen2 pan5 pan5 dii` <sup>[如皋]</sup> 多云天气。  
 1. 【[云片糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_pin_go.md#云片糕)】`yen2 pin5 go1` <small>/yəŋ2 pʰĩ5 kɔ1/<sup>如皋</sup></small> ① 切成薄片叠成砖形的米粉糕。<sup>\[如皋\]</sup> ② 用米粉加糖、桂花等制成的米糕，切做长方形薄片。<sup>\[东台\]</sup>  
 1. 【[云头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_teu.md#云头)】`yen2 teu2` <sup>[如皋]</sup> ① 积云的最高处。 ② 飘来一片云的最前部。  
+1. 【[云头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_teu.md#云头)】`yen2 teu2` <small>/yəŋ2 tʰəɪ2/<sup>泰兴</sup></small> 天上的云。<sup>\[泰兴\]</sup>：天上～发薄，没得落go。<sup>\[泰兴\]</sup>  
 1. 【[云头斑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_teu_baen.md#云头斑)】`yen2 teu2 baen1` <small>/yn2 tʰɤ2 pɛ̃1/<sup>兴化</sup>, /yəŋ2 tʰei2 pẽ1/<sup>如皋</sup></small> ① 云样污渍。<sup>\[如皋\]</sup> ② 指上空的雨云块。<sup>\[兴化\]</sup> ③ 衣被上大片水渍、污渍及霉斑。<sup>\[兴化\]</sup>  
 1. 【[云头上的雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_teu_shan_dii_y.md#云头上的雨)】`yen2 teu2 shan dii y3` <sup>[如皋]</sup> 夏秋间随云而过的雨，极短暂。  
 1. 【[云头上的雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_teu_shan_dii_y.md#云头上的雨)】`yen2 teu2 shan6 dii y3` <sup>[东台]</sup> 很快就会停歇的阵场雨。  

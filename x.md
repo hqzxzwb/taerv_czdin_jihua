@@ -1638,7 +1638,7 @@
 1. 【[孝杖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_chan.md#孝杖)】`xio5 chan6` <sup>[兴化]</sup> 俗谓哭丧棒。  
 1. 【[孝轴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_choh.md#孝轴)】`xio5 choh8` <sup>[如皋]</sup> 丧葬用的挂轴。  
 1. 【[孝箍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_gv.md#孝箍)】`xio5 gv1` <sup>[如东]</sup> 孝子扎在头上的两根白布带，称孝箍。父亲死了，左长右短；母亲死了，右长左短。关殓时，孝子将孝箍打开，剃头发挽钉，戴孝箍结束。  
-1. 【[孝牌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_pae.md#孝牌)】`xio5 pae2` <small>/ɕiɔ5 pʰɛ2/<sup>如皋</sup></small> ① 居丧者依辈分排列的名牌。<sup>\[如皋\]</sup> ② 见“丧表”。<sup>\[如皋\]</sup>  
+1. 【[孝牌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_pae.md#孝牌)】`xio5 pae2` <small>/ɕiɔ5 pʰɛ2/<sup>如皋</sup></small> 居丧者依辈分排列的名牌。参见“丧表”。<sup>\[如皋\]</sup>  
 1. 【[孝色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_seh.md#孝色)】`xio5 seh7` <sup>[如皋]</sup> 素色。如白色、黑色、灰色。  
 1. 【[孝顺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_shuen.md#孝顺)】`xio5 shuen6` <sup>[如东]</sup> 尽心奉养父母，顺从父母的意志，这是中国礼教着重提倡的一种道德：儿女非常～。  
 1. 【[孝堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_tan.md#孝堂)】`xio5 tan2` <small>/ɕiɔ5 tʰaŋ2/<sup>兴化</sup>, /ɕiɔ5 tʰã2/<sup>如皋</sup></small> ① 灵堂。<sup>\[如皋\]</sup> ② 灵堂。<sup>\[兴化\]</sup>  

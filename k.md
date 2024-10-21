@@ -187,7 +187,7 @@
 1. 【[掐细鱼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh_xi_y_r.md#掐细鱼<sub>儿</sub>)】`kaeh7 xi5 y2 r` <sup>[东台]</sup> ［喻］小气、算小。（掐指用指甲按或截断）  
 1. 【[掐小尖<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh_xio_jin_r.md#掐小尖<sub>儿</sub>)】`kaeh7 xio3 jin1 r` <sup>[如皋]</sup> 发给时扣下一点，发不足数。  
 1. 【[甲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh.md#甲)】`kaeh7` <sup>[东台]</sup> 用于“指甲”（读若“执掐”）。  
-1. 【[轧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh.md#轧)】`kaeh8` <small>/kʰæʔ8/<sup>兴化</sup>, /kʰeʔ8/<sup>如皋</sup>, /kʰæʔ8/<sup>泰兴</sup>, /kʰæʔ8/<sup>泰县</sup></small> ① 给谷物脱壳：～稻｜～米 ② 碾<sup>\[兴化\]</sup>：～（棉）花<sup>\[兴化\]</sup>｜～稻<sup>\[兴化\]</sup>｜～圆子粉。<sup>\[兴化\]</sup> ③ 锯、解<sup>\[兴化\]</sup>：～木头<sup>\[兴化\]</sup>｜～木板。<sup>\[兴化\]</sup> ④ 检<sup>\[兴化\]</sup>：～票上车。<sup>\[兴化\]</sup> ⑤ 拥挤<sup>\[兴化\]</sup>：大街上人多，挤挤～～的。<sup>\[兴化\]</sup>  
+1. 【[轧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh.md#轧)】`kaeh8` <small>/kæʔ7/<sup>兴化</sup>, /kʰeʔ8/<sup>如皋</sup>, /kʰæʔ8/<sup>泰兴</sup>, /kʰæʔ8/<sup>泰县</sup></small> ① 给谷物脱壳：～稻｜～米 ② 碾<sup>\[兴化\]</sup>：～（棉）花<sup>\[兴化\]</sup>｜～稻<sup>\[兴化\]</sup>｜～圆子粉。<sup>\[兴化\]</sup> ③ 锯、解<sup>\[兴化\]</sup>：～木头<sup>\[兴化\]</sup>｜～木板。<sup>\[兴化\]</sup> ④ 检<sup>\[兴化\]</sup>：～票上车。<sup>\[兴化\]</sup> ⑤ 拥挤<sup>\[兴化\]</sup>：大街上人多，挤挤～～的。<sup>\[兴化\]</sup>  
 1. 【[轧花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh_hua.md#轧花)】`kaeh8 hua1` <sup>[东台]</sup> 用机器剥棉籽、剥棉绒。  
 1. 【[轧价](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh_jia.md#轧价)】`kaeh8 jia5` <sup>[如皋]</sup> 核算出价格。  
 1. 【[轧棉花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh_min_hua.md#轧棉花)】`kaeh8 min2 hua1` <sup>[如皋]</sup> 用机器轧除籽棉中的棉籽。  
