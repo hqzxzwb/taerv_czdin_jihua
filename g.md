@@ -1401,12 +1401,12 @@
 1. 【[惯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_zz.md#惯子)】`guaen5 zz3` <sup>[兴化]</sup> 娇生惯养的独生子：不要看郑板桥从小生得又黑又瘦……他可是个～呢！（《郑板桥传说》）  
 1. 【[𠍿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen.md#𠍿)】`guaen5` ① 吻。<sup>\[如东\]</sup>：我想～你。<sup>\[如东\]</sup> ② 吻<sup>\[东台\]</sup>：她在下～宝宝。<sup>\[东台\]</sup>  
 1. 【[椁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guah.md#椁)】`guah7` <sup>[兴化]</sup> 在浮厝棺木外用砖砌筑的外壳：砌～  
-1. 【[榾柮<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guah_do_r.md#榾柮<sub>儿</sub>)】`guah7 do1 r` <sup>[如皋]</sup> 原指魔术。引指：花样、噱头、阴谋：这个里头有～。  
 1. 【[郭大<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guah_da_r.md#郭大<sub>儿</sub>)】`guah7 da6 r` <sup>[兴化]</sup> 花样、玩意儿。参见“榾柮儿guah7 do1 r”：他又不晓得玩甚的～？  
 1. 【[郭呆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guah_dae_r.md#郭呆<sub>儿</sub>)】`guah7 dae1 r` <sup>[如皋]</sup> ① 趣指愚笨者。 ② 对姓郭者的戏称。童谣：～帮忙，越帮越忙。郭呆儿，清代如城人，又穷又笨。  
 1. 【[郭呆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guah_dae_zz.md#郭呆子)】`guah7 dae1 zz` <sup>[如皋]</sup> 见“郭呆儿”。  
 1. 【[郭呆子帮忙——越帮越忙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guah_dae_zz_ban_man_iuh_ban_iuh_man.md#郭呆子帮忙——越帮越忙)】`guah7 dae1 zz ban1 man2 iuh8 ban1 iuh8 man2` 帮倒忙  
 1. 【[郭的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guah_dii.md#郭的)】`guah7 dii` <sup>[如皋]</sup> 空的，缺少：我没得钱，这两天身上～。  
+1. 【[郭刀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guah_do_r.md#郭刀<sub>儿</sub>)】`guah7 do1 r` <sup>[如皋]</sup> （如皋词典作“榾柮儿”）原指魔术。引指：花样、噱头、阴谋：这个里头有～。  
 1. 【[郭咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guah_ga.md#郭咖)】`guah7 ga` <sup>[如皋]</sup> 见“郭的”。  
 1. 【[郭公](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guah_gon.md#郭公)】`guah7 gon1` <sup>[如皋]</sup> 二声杜鹃。  
 1. 【[郭雀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guah_jiah_r.md#郭雀<sub>儿</sub>)】`guah7 jiah7 r` <sup>[兴化]</sup> 后周太祖郭威发迹前的浑名。由于他在位的时间仅三四年，故有“～登基——快活一时是一时”之说。  
