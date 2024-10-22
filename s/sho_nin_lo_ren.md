@@ -1,4 +1,4 @@
 # 少年老人
-sho5 nin2 lo3 ren
+sho5 nin lo3 ren
 > 如皋方言词典
 - 年轻而体弱显得衰老的人。
