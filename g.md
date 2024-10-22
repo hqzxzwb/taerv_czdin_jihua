@@ -1401,7 +1401,7 @@
 1. 【[惯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_zz.md#惯子)】`guaen5 zz3` <sup>[兴化]</sup> 娇生惯养的独生子：不要看郑板桥从小生得又黑又瘦……他可是个～呢！（《郑板桥传说》）  
 1. 【[𠍿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen.md#𠍿)】`guaen5` ① 吻。<sup>\[如东\]</sup>：我想～你。<sup>\[如东\]</sup> ② 吻<sup>\[东台\]</sup>：她在下～宝宝。<sup>\[东台\]</sup>  
 1. 【[椁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guah.md#椁)】`guah7` <sup>[兴化]</sup> 在浮厝棺木外用砖砌筑的外壳：砌～  
-1. 【[郭大<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guah_da_r.md#郭大<sub>儿</sub>)】`guah7 da6 r` <sup>[兴化]</sup> 花样、玩意儿。参见“榾柮儿guah7 do1 r”：他又不晓得玩甚的～？  
+1. 【[郭大<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guah_da_r.md#郭大<sub>儿</sub>)】`guah7 da6 r` <sup>[兴化]</sup> 花样、玩意儿。参见“郭刀儿guah7 do1 r”：他又不晓得玩甚的～？  
 1. 【[郭呆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guah_dae_r.md#郭呆<sub>儿</sub>)】`guah7 dae1 r` <sup>[如皋]</sup> ① 趣指愚笨者。 ② 对姓郭者的戏称。童谣：～帮忙，越帮越忙。郭呆儿，清代如城人，又穷又笨。  
 1. 【[郭呆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guah_dae_zz.md#郭呆子)】`guah7 dae1 zz` <sup>[如皋]</sup> 见“郭呆儿”。  
 1. 【[郭呆子帮忙——越帮越忙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guah_dae_zz_ban_man_iuh_ban_iuh_man.md#郭呆子帮忙——越帮越忙)】`guah7 dae1 zz ban1 man2 iuh8 ban1 iuh8 man2` 帮倒忙  
