@@ -522,6 +522,7 @@
 1. 【[今<sub>儿</sub>子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_r_zz.md#今<sub>儿</sub>子)】`gen1 r zz` <sup>[兴化]</sup> 今天：～我值班。西北少数村镇也说“今儿个”。  
 1. 【[今朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_zho.md#今朝)】`gen1 zho` <sup>[兴化]</sup> 说话的这一天：～是个好日子。  
 1. 【[今朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_zho.md#今朝)】`gen1 zho, gen1 do` <sup>[泰县]</sup> 今天：我～不去。  
+1. 【[今朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_zho.md#今朝)】`gen1 zho1` <small>/kəŋ1 t͡sɔ1/<sup>泰兴</sup></small> 今天<sup>\[泰兴\]</sup>  
 1. 【[庚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen.md#庚)】`gen1` <sup>[东台]</sup> ① 天干第七位。 ② 年龄：先生贵～几何？  
 1. 【[更把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_ba.md#更把)】`gen1 ba` <sup>[如东]</sup> ① 一更天（19时至20时）。 ② 大约一更（两个小时）左右。  
 1. 【[更把天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_ba_tin.md#更把天)】`gen1 ba tin1` <sup>[兴化]</sup> 旧时一夜分成五更，晚八时左右为初更，～约在九到十时左右。  
@@ -882,9 +883,10 @@
 1. 【[国清寺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/goh_qien_cz.md#国清寺)】`goh7 qien1 cz6` <sup>[如东]</sup> 唐宪宗李纯元和年间（公元806年～820年），僧人行满于掘港建国清寺，并在藏经楼前亲植银杏树2棵。  
 1. 【[谷芽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/goh_nga.md#谷芽)】`goh7 nga2` <sup>[如东]</sup> 禾本科植物稻的成熟果实所发的芽。  
 1. 【[谷雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/goh_y.md#谷雨)】`goh7 y3` 二十四节气之一，通常在4月19日、20日或21日。  
+1. 【[公](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon.md#公)】`gon1` <small>/kɔŋ1/<sup>泰兴</sup></small> 丈夫的父亲。也称“公公”。<sup>\[泰兴\]</sup>  
 1. 【[公尺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_cheh.md#公尺)】`gon1 cheh7` <sup>[如东]</sup> “米”的旧称。  
 1. 【[公丁香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_dien_xian.md#公丁香)】`gon1 dien1 xian1` <sup>[如皋]</sup> 丁香花的一种，花形像男阴，可钓鱼。  
-1. 【[公份](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_fen.md#公份)】`gon1 fen6` <small>/koŋ1 fən6/<sup>兴化</sup>, /kɔŋ1 fəŋ1/<sup>如皋</sup></small> ① 集体办事，各人应占份额<sup>\[如皋\]</sup>：摊～。<sup>\[如皋\]</sup> ② 大家出钱请客、送礼<sup>\[兴化\]</sup>：全科的人出～为科长送行。<sup>\[兴化\]</sup>  
+1. 【[公份](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_fen.md#公份)】`gon1 fen6` <small>/koŋ1 fən6/<sup>兴化</sup>, /kɔŋ1 fəŋ1/<sup>如皋</sup>, /kɔŋ1 fəŋ1/<sup>泰兴</sup></small> ① 集体办事，各人应占份额<sup>\[如皋\]</sup>：摊～。<sup>\[如皋\]</sup> ② 大家出钱请客、送礼<sup>\[兴化\]</sup>：全科的人出～为科长送行。<sup>\[兴化\]</sup> ③ 大家为请客、送礼共同合的钱物。<sup>\[泰兴\]</sup>：临走的那天中午，同事们凑～搝lei一桌菜为他饯行。<sup>\[泰兴\]</sup>  
 1. 【[公分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_fen.md#公分)】`gon1 fen6` <sup>[泰州]</sup> 代表多人出的贺礼或贺钱：老李家儿子结婚，我俫五个人出个～吧。  
 1. 【[公公](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_gon.md#公公)】`gon1 gon1` <sup>[如皋]</sup> 外祖父。  
 1. 【[公话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_hua.md#公话)】`gon1 hua6` <small>/kɔŋ1 xua1/<sup>如皋</sup></small> 公平话、公正话或为大家说的话。<sup>\[如皋\]</sup><sup>\[泰州\]</sup>：到底怪哪个不好，老李你要讲个～。<sup>\[泰州\]</sup>  
@@ -903,7 +905,7 @@
 1. 【[公老鼠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_lo_chv.md#公老鼠)】`gon1 lo3 chv3` <small>/kɔŋ1 lɔ3 t͡sʰu3/<sup>如皋</sup></small> ① 比喻在集体中令人讨厌的人。<sup>\[如东\]</sup> ② 喻在集体中到处生事，令人厌恶的人。<sup>\[如皋\]</sup>  
 1. 【[公老爹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_lo_dia.md#公老爹)】`gon1 lo3 dia1` <sup>[如东]</sup> 丈夫的父亲。  
 1. 【[公路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_lv.md#公路)】`gon1 lv6` <sup>[如东]</sup> 市区以外可以通行各种车辆的宽阔平坦的道路。  
-1. 【[公母人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_mu_ren.md#公母人)】`gon1 mu3 ren2` <sup>[如皋]</sup> 两性人。  
+1. 【[公母人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_mu_ren.md#公母人)】`gon1 mu3 ren2` <small>/kɔŋ1 mʊ3 ɻəŋ2/<sup>如皋</sup>, /kɔŋ1 mɤɯ ɻəŋ/<sup>泰兴</sup></small> 两性人。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
 1. 【[公平秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_pien_chen.md#公平秤)】`gon1 pien2 chen5` <sup>[如皋]</sup> 称量合格，或指这种秤。  
 1. 【[公平两到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_pien_laen_do.md#公平两到)】`gon1 pien2 laen3 do5` <sup>[如东]</sup> 几个方面都一样，合情合理：这吖分配～。  
 1. 【[公平正道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_pien_zhen_to.md#公平正道)】`gon1 pien2 zhen5 to` <sup>[如皋]</sup> 公平合理。  
@@ -913,13 +915,15 @@
 1. 【[公婆礼酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_pu_li_jieu.md#公婆礼酒)】`gon1 pu2 li3 jieu3` <sup>[如东]</sup> 姑娘出嫁时，公婆带来一坛酒赠送给亲家公亲家母，表示对抚育自己儿媳的感谢。这坛酒叫公婆礼酒。  
 1. 【[公气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_qi.md#公气)】`gon1 qi5` <sup>[如东]</sup> 公平，公开：这家公司的价格～。  
 1. 【[公吃公算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_qieh_gon_sun.md#公吃公算)】`gon1 qieh7 gon1 sun5` <small>/koŋ1 t͡ɕʰiəʔ7 koŋ1 sũ5/<sup>兴化</sup>, /kɔŋ1 t͡ɕʰiəʔ7 kɔŋ1 sʊ̃5/<sup>如皋</sup></small> ① 一齐吃喝，平摊结算。<sup>\[如皋\]</sup> ② 吃喝开支由参与者平摊<sup>\[兴化\]</sup>：今晚的酒饭钱～，来个AA制。<sup>\[兴化\]</sup>  
+1. 【[公社化](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_shae_hua.md#公社化)】`gon1 shae6 hua5` <small>/kɔŋ1 ɕiɛ1 xuɑ5/<sup>泰兴</sup></small> 特指 1958年及以后成立的人民公社。<sup>\[泰兴\]</sup>：～时候的浮夸风十分严重。<sup>\[泰兴\]</sup>  
 1. 【[公事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_shr.md#公事)】`gon1 shr` <sup>[兴化]</sup> ① 旧指公文：上头～到啊。 ② 诉状：拿～上法院告他。  
 1. 【[公事桌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_shr_zhuah.md#公事桌)】`gon1 shr zhuah7` <sup>[兴化]</sup> 办公桌。  
-1. 【[公事桌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_shr_zhuah_zz.md#公事桌子)】`gon1 shr6 zhuah7 zz` <sup>[泰县]</sup> 办公桌。  
+1. 【[公事桌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_shr_zhuah_zz.md#公事桌子)】`gon1 shr zhuah7 zz` <small>/kɔŋ1 sɿ t͡suɑʔ7 t͡sɿ/<sup>泰兴</sup>, /koŋ1 sɿ t͡ɕyɑʔ7 t͡se/<sup>泰县</sup></small> 办公桌。<sup>\[泰县\]</sup><sup>\[泰兴\]</sup>  
 1. 【[公孙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_suen.md#公孙)】`gon1 suen1` <sup>[如皋]</sup> 外公与外孙辈之间的关系称。  
 1. 【[公司井](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_sz_jien.md#公司井)】`gon1 sz1 jien3` <sup>[如皋]</sup> 旧称政府开凿的公共水井。双孔井栏。  
 1. 【[公抬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_tae.md#公抬)】`gon1 tae2` <small>/koŋ1 tʰɛ2/<sup>兴化</sup>, /kɔŋ1 tʰɛ2/<sup>如皋</sup></small> ① 大家出钱，一起宴请某人。<sup>\[如皋\]</sup> ② 醵饮时，大家替其中一人或数人出份金<sup>\[兴化\]</sup>：“我们大伙儿～，把你一吊钱抬就抬掉了”（《皮五辣子》三）<sup>\[兴化\]</sup>  
-1. 【[公摊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_taen.md#公摊)】`gon1 taen1` <small>/koŋ1 tʰɛ̃1/<sup>兴化</sup></small> 所花的钱由相关人共同分担<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：修路的钱由各户～。<sup>\[兴化\]</sup>｜这次上黄山用的钱，我俫去的五个人～。<sup>\[泰州\]</sup>  
+1. 【[公摊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_taen.md#公摊)】`gon1 taen1` <small>/koŋ1 tʰɛ̃1/<sup>兴化</sup>, /kɔŋ1 tʰɛ̃1/<sup>泰兴</sup></small> ① 所花的钱由相关人共同分担<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：修路的钱由各户～。<sup>\[兴化\]</sup>｜这次上黄山用的钱，我俫去的五个人～。<sup>\[泰州\]</sup> ② 共同分担，公平分摊。<sup>\[泰兴\]</sup>：今天的收人大家公摊。<sup>\[泰兴\]</sup>  
+1. 【[公堂钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_tan_qin.md#公堂钱)】`gon1 tan qin2` <small>/kɔŋ1 tʰɑŋ t͡ɕʰĩ2/<sup>泰兴</sup></small> 公共的钱，大家的钱。<sup>\[泰兴\]</sup>  
 1. 【[公田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_tin.md#公田)】`gon1 tin2` <sup>[如东]</sup> 旧时没有领主的土地，称公田。例如海滩、草荡等。  
 1. 【[公道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_to.md#公道)】`gon1 to, gon1 to5` <sup>[如皋]</sup> 公平合理  
 1. 【[公道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_to.md#公道)】`gon1 to6` <sup>[如东]</sup> ① 公平合理：这吖处理～。 ② 价格便宜：今朝的玉米～，可以多买点儿。  

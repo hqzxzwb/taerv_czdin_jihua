@@ -1282,7 +1282,6 @@
 1. 【[花生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_shen.md#花生)】`hua1 shen` 花生  
 1. 【[花生酥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_shen_sv.md#花生酥)】`hua1 shen sv1` <sup>[兴化]</sup> 以花生的碎屑和莲糖为主要原料制成的酥糖。  
 1. 【[花生糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_shen_tan.md#花生糖)】`hua1 shen tan2` <sup>[兴化]</sup> 由炒熟的花生米、砂糖和糖稀一起熬成，冷却后切成小方块。  
-1. 【[花生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_shen.md#花生)】`hua1 shen1` <sup>[如东]</sup> 豆科植物落花生，一年生草本。  
 1. 【[花生衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_shen_i.md#花生衣)】`hua1 shen1 i1` <sup>[如东]</sup> 包裹花生米的皮，红色或淡红色，人中药，有止血作用。  
 1. 【[花生耙<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_shen_pa_r.md#花生耙<sub>儿</sub>)】`hua1 shen1 pa2 r` <sup>[如东]</sup> 农具。铁制，四齿，较短，有柄。用以锄花生。  
 1. 【[花生筛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_shen_shae_zz.md#花生筛子)】`hua1 shen1 shae1 zz` <sup>[如皋]</sup> 专用于收花生的筛子。  
@@ -1329,6 +1328,7 @@
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua.md#□)】`hua3` <sup>[如皋]</sup> ① 极破碎：茶杯儿捱打啊～啊。 ② 呈溶融状：肉捱煮啊～啊。  
 1. 【[划廉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_lin.md#划廉)】`hua5 lin2` <sup>[泰县]</sup> 便宜：这笔交易蛮～的。  
 1. 【[化](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua.md#化)】`hua5` <sup>[泰州]</sup> ① 固体融化为液体：天温暖和唻，河里～啊冻唻。 ② 结晶体遇水融化：～点ㄦ糖水吃吃。  
+1. 【[化冻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_don.md#化冻)】`hua5 don5` <small>/xuɑ5 tɔŋ5/<sup>泰兴</sup></small> 冰冻溶化。<sup>\[泰兴\]</sup>：一～土路上就不好跑。<sup>\[泰兴\]</sup>  
 1. 【[化骨丹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_gueh_daen.md#化骨丹)】`hua5 gueh7 daen1` <sup>[东台]</sup> 意同“化砟儿”，即败家子。  
 1. 【[化灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_huei.md#化灰)】`hua5 huei1` <small>/xua5 xuəi1/<sup>兴化</sup></small> ① （喻）像化为灰尘那样一无所有<sup>\[兴化\]</sup>：他是穷得～的光蛋一个，甚的事都玩得出来。<sup>\[兴化\]</sup> ② 比喻坏到极点<sup>\[泰州\]</sup>：这个人偷吃筢拿全花色，惚咖～唻。<sup>\[泰州\]</sup>  
 1. 【[化库](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_kv.md#化库)】`hua5 kv5` <small>/xua5 kʰu5/<sup>兴化</sup></small> ① 在祭祀死者或祖先时，用芦苇扎成纸屋，这种屋叫做库。里边放置纸箱、衣服、金元宝、银元宝等物。祭祀活动结束时，灼化，叫做化库。<sup>\[如东\]</sup> ② 迷信的人将纸钱、锡箔等放进纸扎的“库房”里焚化给亡魂<sup>\[兴化\]</sup>：“阳间有烧房～的事，有用没用呢？”（《老残游记》二·九）<sup>\[兴化\]</sup> ③ （喻）挥霍无度，用钱像～。<sup>\[兴化\]</sup> ④ 迷信者将纸钱、锡箔元宝之类放进纸扎的金库里焚烧给亡灵。<sup>\[泰州\]</sup>  
@@ -1336,13 +1336,13 @@
 1. 【[化千张](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_qin_zhan.md#化千张)】`hua5 qin1 zhan1` <sup>[如皋]</sup> 丧俗。初丧，孝子跪在灵前，向现在盆水中的铁锅内一张一张地烧化一千张毛丈纸，以求老鬼不欺新鬼。  
 1. 【[化肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_roh.md#化肉)】`hua5 roh8` <sup>[如皋]</sup> 詈语。指解大便。  
 1. 【[化肉礓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_roh_jian_r.md#化肉礓<sub>儿</sub>)】`hua5 roh8 jian3 r` <small>/xua5 ɻɔʔ8 t͡ɕia˞3/<sup>如皋</sup></small> ① 詈语。恶毒咒骂。<sup>\[如皋\]</sup> ② 詈语，排泄大便。<sup>\[如皋\]</sup> ③ （詈语）又称“化血水儿”。<sup>\[东台\]</sup> ④ 骂拉肚子的人。<sup>\[东台\]</sup> ⑤ 骂人快死。<sup>\[东台\]</sup> ⑥ 昵称小孩或朋友<sup>\[东台\]</sup>：这个～多神气！<sup>\[东台\]</sup>  
-1. 【[化生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_shen.md#化生)】`hua5 shen` <sup>[如皋]</sup> 见“不少债”。  
-1. 【[化生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_shen.md#化生)】`hua5 shen1` <small>/xua5 səŋ1/<sup>如皋</sup></small> ① 挥霍无度的人。<sup>\[如东\]</sup>：我家养吖个～。<sup>\[如东\]</sup> ② 挥霍无度的人或行为，或可败家。<sup>\[如皋\]</sup>  
+1. 【[化生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_shen.md#化生)】`hua5 shen` <small>/xua5 səŋ/<sup>如皋</sup>, /xuɑ5 səŋ/<sup>泰兴</sup></small> 挥霍无度的人。<sup>\[如东\]</sup>\[泰兴：亦称“化纸炉”。指不善聚敛财物，挥钱如土的人。贬义。佛家有“四生”之说：胎生者人畜；卵生者龟鸟；湿生者虫角；化生者无父无母，鬼神或地狱受苦人也。\]\[如皋：人或行为，或可败家。参见“不少债”。\]：我家养吖个～。<sup>\[如东\]</sup>｜他从小就是个～。<sup>\[泰兴\]</sup>  
 1. 【[化生鬼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_shen_guei_r.md#化生鬼<sub>儿</sub>)】`hua5 shen1 guei3 r` <sup>[如皋]</sup> 见“化生”。  
 1. 【[化生货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_shen_hu.md#化生货)】`hua5 shen1 hu5` <sup>[如皋]</sup> 见“化生”。  
 1. 【[化生窑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_shen_io.md#化生窑)】`hua5 shen1 io2` <sup>[东台]</sup> 原东台“敕赐三昧寺”对河庙田“十五亩”上，历代高僧墓园旁。  
 1. 【[化砟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_zha.md#化砟)】`hua5 zha3` <sup>[兴化]</sup> 形容品性极坏尤指挥霍浪费的恶习：这个小伙坏啊～。  
 1. 【[化砟<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_zha_r.md#化砟<sub>儿</sub>)】`hua5 zha3 r` <sup>[东台]</sup> ［喻］败家子。（砟，碎块）  
+1. 【[化纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_zhr.md#化纸)】`hua5 zhr3` <small>/xuɑ5 t͡sɿ3/<sup>泰兴</sup></small> 烧化纸钱，迷信认为可供亡者在冥间当货币使用。<sup>\[泰兴\]</sup>  
 1. 【[化纸缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_zhr_gan.md#化纸缸)】`hua5 zhr3 gan1` <sup>[兴化]</sup> ① 置于灵前焚化纸钱用的小缸（或铁锅）。 ② （讽）嘲讽挥金如土的败家子：他哪许是人吖？他是个～吖！  
 1. 【[化纸炉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_zhr_lv.md#化纸炉)】`hua5 zhr3 lv2` <sup>[东台]</sup> ① 旧时为了敬惜字纸，往往设立～焚烧字纸，以示敬重。 ② 蔑称挥霍浪费的人。  
 1. 【[划](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua.md#划)】`hua6` <sup>[如东]</sup> 用刀拉开口子。繁体为“劃”。  

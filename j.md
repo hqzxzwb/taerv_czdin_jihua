@@ -1287,7 +1287,7 @@
 1. 【[见话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_hua.md#见话)】`jin5 hua6` <sup>[兴化]</sup> 相互间的不满形诸语言：邻居家边的一声～就不好相处啊。  
 1. 【[见疑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_i.md#见疑)】`jin5 i2` <sup>[兴化]</sup> 产生怀疑：他怕对方～，连忙拿出证件。｜“……话说完了，恐怕别人～，就走出来了……”（《老残游记》二·三）  
 1. 【[见疑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_i.md#见疑)】`jin5 i2` <small>/t͡ɕĩ5 ʝ2/<sup>泰兴</sup></small> 怀疑<sup>\[泰兴\]</sup>  
-1. 【[见意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_i.md#见意)】`jin5 i5` <small>/t͡ɕiɪ̃5 i5/<sup>兴化</sup>, /t͡ɕĩ5 ʝ5/<sup>如皋</sup></small> ① 在意、介意。<sup>\[如皋\]</sup> ② 表达心意<sup>\[兴化\]</sup>：“略饮数杯～，不必固辞……”（《警世通言》二七）<sup>\[兴化\]</sup>｜“也罢，我早些去见个意先来，你二人在此等我。”（《梼杌闲评》五）<sup>\[兴化\]</sup>  
+1. 【[见意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_i.md#见意)】`jin5 i5` <small>/t͡ɕiɪ̃5 i5/<sup>兴化</sup>, /t͡ɕĩ5 ʝ5/<sup>如皋</sup>, /t͡ɕĩ5 ʝ5/<sup>泰兴</sup></small> ① 在意、介意。<sup>\[如皋\]</sup> ② 表达心意<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：“略饮数杯～，不必固辞……”（《警世通言》二七）<sup>\[兴化\]</sup>｜“也罢，我早些去见个意先来，你二人在此等我。”（《梼杌闲评》五）<sup>\[兴化\]</sup>｜今朝只带啊点小礼物，见见意，请多多包涵。<sup>\[泰兴\]</sup>  
 1. 【[见意<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_i_r.md#见意<sub>儿</sub>)】`jin5 i5 r` <sup>[如皋]</sup> 表示一点儿意思。  
 1. 【[见样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_ian.md#见样)】`jin5 ian6` <small>/t͡ɕiɪ̃5 iaŋ6/<sup>兴化</sup>, /t͡ɕiɪ̃5 iɑŋ1/<sup>泰县</sup></small> 每一样<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：你店里的糕点我～买一斤。<sup>\[兴化\]</sup>｜头面首饰、衣服等物，路远不便多带，些微～开些……（《绿牡丹》二三）<sup>\[兴化\]</sup>｜这些菜你要～吃点儿。<sup>\[泰县\]</sup>｜各人口味不同，你把店里的水果～买点儿。<sup>\[泰州\]</sup>  
 1. 【[见样……一点](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_ian_ieh_din.md#见样……一点)】`jin5 ian6 ieh7 din3` <sup>[东台]</sup> 在多种物品中每一样取一点：超市水果多，我～买啊～。  
@@ -1316,7 +1316,8 @@
 1. 【[见外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_vae.md#见外)】`jin5 vae6` ① 当外人看待<sup>\[东台\]</sup>：我帮这点忙，你老是放吖儿嘴上就有点～啊。<sup>\[东台\]</sup> ② 把某人当作外人对待<sup>\[泰州\]</sup>：你再同我说客气话，就～唻。<sup>\[泰州\]</sup>  
 1. 【[见王妈妈去啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_van_ma_ma_qy_a.md#见王妈妈去啊)】`jin5 van2 ma1 ma1 qy5 a` <sup>[如东]</sup> 王妈妈是难河桥上管理迷魂汤的鬼。喝了迷魂汤，就忘记了人间的一切，表示人已死了。  
 1. 【[见相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_xian.md#见相)】`jin5 xian5` <sup>[兴化]</sup> 顺应客观趋势，决定行动：看到天气要变，我～回家，不曾被雨淋。｜饼店里诱人的香味叫他腿沉，二叔～给买了两块。（刘仁前《香河风情·香河纪事》）也作“见巴”。  
-1. 【[见新](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_xien.md#见新)】`jin5 xien1` <sup>[兴化]</sup> ① 修理、装饰旧房屋、旧器物，使之一新。 ② 新粮登场：谚曰：～不死。  
+1. 【[见相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_xian.md#见相)】`jin5 xian5` <small>/t͡ɕĩ5 ɕiɑŋ5/<sup>泰兴</sup></small> 识相，知趣。<sup>\[泰兴\]</sup>  
+1. 【[见新](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_xien.md#见新)】`jin5 xien1` <small>/t͡ɕiɪ̃5 ɕin1/<sup>兴化</sup>, /t͡ɕĩ5 ɕiŋ1/<sup>泰兴</sup></small> ① 修理、装饰旧房屋、旧器物，使之一新。<sup>\[兴化\]</sup><sup>\[泰兴\]</sup> ② 新粮登场。<sup>\[兴化\]</sup>：谚曰：～不死。<sup>\[兴化\]</sup>  
 1. 【[见新不死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_xien_beh_sz.md#见新不死)】`jin5 xien1 beh7 sz3` <sup>[如皋]</sup> 俗说吃到新上市的食品就不易死去。  
 1. 【[见证](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_zhen.md#见证)】`jin5 zhen5` <sup>[如东]</sup> 证明：他可以～。  
 1. 【[见做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_zu.md#见做)】`jin5 zu5` <small>/t͡ɕiɪ̃5 t͡so5/<sup>兴化</sup></small> ① 指人做活太慢或磨洋工<sup>\[兴化\]</sup>：你这点活计～唻，上午把时间全混掉啊。<sup>\[兴化\]</sup> ② 做某样工作花费的时间很长。<sup>\[泰州\]</sup>  
