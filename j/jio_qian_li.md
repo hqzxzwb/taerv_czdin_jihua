@@ -1,4 +1,4 @@
 # 狡戗理
-jio3 qian1 li3
+jio3 qian li3
 > 如皋方言词典
 - 狡辩的理由。
