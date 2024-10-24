@@ -328,8 +328,7 @@
 1. 【[扬场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_chan.md#扬场)】`ian2 chan2` 用机器、板锨等，扬起谷物，借风除去其中杂物（壳、叶、尘土等）<sup>\[东台\]</sup><sup>\[泰州\]</sup>  
 1. 【[扬风车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_fon_cha.md#扬风车)】`ian2 fon1 cha1` <sup>[泰县]</sup> 用风力提水的水车。  
 1. 【[扬𠵹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_gan.md#扬𠵹)】`ian2 gan1` <small>/iaŋ2 kaŋ1/<sup>兴化</sup>, /iã2 kã1/<sup>如皋</sup>, /iɑŋ2 kɑŋ1/<sup>泰县</sup></small> ① 造舆论、造气氛，扬言<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：他～要告你，这是讹诈，你不要买账。<sup>\[如皋\]</sup>｜那家伙不服管理，～还要闹事。<sup>\[东台\]</sup>｜老田～，这次不分房子把他，就找头头的麻烦。<sup>\[兴化\]</sup>｜他在～要打你啦。<sup>\[泰县\]</sup>｜他在外头～，哪个敢拆他房子他就同哪个拼命。<sup>\[泰州\]</sup>｜老头子～吖几回唻，哪个代他把二十万的债坏掉，就把姑娘把哪个。<sup>\[泰州\]</sup> ② 事前造的舆论。<sup>\[东台\]</sup>  
-1. 【[扬花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_hua.md#扬花)】`ian2 hua1` <sup>[如东]</sup> 植物放花受精。2女人在外面的轻佻行为：她经常在外头～。  
-1. 【[扬灰/烊灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_huei.md#扬灰/烊灰)】`ian2 huei1` <sup>[兴化]</sup> 由石灰块氧化而成的粉末，相对于“块灰”。  
+1. 【[扬花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_hua.md#扬花)】`ian2 hua1` <sup>[如东]</sup> ① 植物放花受精。 ② 女人在外面的轻佻行为：她经常在外头～。  
 1. 【[扬口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_keu.md#扬口)】`ian2 keu3` <sup>[东台]</sup> 贝类动物出水后开口，即外壳微微张开。  
 1. 【[扬麦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_moh.md#扬麦)】`ian2 moh8` <sup>[如东]</sup> 麦子打下来后，用畚箕畚着放在风中向下撒，把麦壳麦芒吹掉，这种劳动叫扬麦。  
 1. 【[扬犟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_qian.md#扬犟)】`ian2 qian` <sup>[兴化]</sup> 即小儿撒娇：快点儿去睡觉，覅～。  
@@ -365,16 +364,17 @@
 1. 【[洋家喜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ga_xi_r.md#洋家喜<sub>儿</sub>)】`ian2 ga xi3 r` <sup>[如皋]</sup> 灰喜鹊。  
 1. 【[洋碱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_gaen.md#洋碱)】`ian2 gaen3` <small>/iã2 kẽ3/<sup>如皋</sup></small> 肥皂的旧称。<sup>\[如皋\]</sup><sup>\[如东\]</sup>  
 1. 【[洋号](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ho.md#洋号)】`ian2 ho6` <sup>[如皋]</sup> 现代军号，与原牛角、海螺等“号角”相对。  
-1. 【[洋火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_hu.md#洋火)】`ian2 hu3` ① 火柴 ② 旧时称火柴为洋火。<sup>\[如东\]</sup> ③ 火柴。<sup>\[东台\]</sup> ④ 火柴，旧时从国外引进，故名。<sup>\[泰州\]</sup>  
+1. 【[洋火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_hu.md#洋火)】`ian2 hu3` 火柴  
 1. 【[洋火盒<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_hu_huh_r.md#洋火盒<sub>儿</sub>)】`ian2 hu3 huh8 r` <sup>[泰县]</sup> 火柴盒。  
 1. 【[洋画<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_hua_r.md#洋画<sub>儿</sub>)】`ian2 hua6 r` <sup>[兴化]</sup> ① 儿童玩的硬纸画片。 ② 最初的招贴画和广告画。  
 1. 【[洋话唱曲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_hua_chan_qioh.md#洋话唱曲)】`ian2 hua6 chan5 qioh7` <sup>[东台]</sup> 说话得意洋洋，经常哼着小调的样子，也称“哼歌浪唱”。  
-1. 【[洋灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_huei.md#洋灰)】`ian2 huei1` ① 石灰粉，用于刷白、消毒。<sup>\[东台\]</sup> ② 现在称作水泥，一种建筑材料，混合石灰石和黏土烧成块状，机器碾成粉末，使用时加入细沙拌水，干燥以后坚硬如石。<sup>\[泰州\]</sup>  
+1. 【[洋灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_huei.md#洋灰)】`ian2 huei1` <sup>[兴化]</sup> 由石灰块氧化而成的粉末，相对于“块灰”。  
+1. 【[洋灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_huei.md#洋灰)】`ian2 huei1` <small>/iã2 xuei1/<sup>如皋</sup></small> ① 石灰粉，用于刷白、消毒。<sup>\[东台\]</sup> ② 生石灰粉。<sup>\[如皋\]</sup> ③ 现在称作水泥，一种建筑材料，混合石灰石和黏土烧成块状，机器碾成粉末，使用时加入细沙拌水，干燥以后坚硬如石。<sup>\[泰州\]</sup>  
 1. 【[洋油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ieu.md#洋油)】`ian2 ieu2` 煤油<sup>\[如东\]</sup><sup>\[泰州\]</sup>\[东台：火油\]  
-1. 【[洋油灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ieu_den.md#洋油灯)】`ian2 ieu2 den1` <small>/iaŋ2 iɤ2 tən1/<sup>兴化</sup>, /iɑŋ2 iɤɯ2 təŋ1/<sup>泰县</sup></small> ① 以煤油为燃料的灯，一般带有玻璃灯罩。也称“洋灯”。<sup>\[兴化\]</sup> ② 煤油灯。<sup>\[泰县\]</sup>  
+1. 【[洋油灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ieu_den.md#洋油灯)】`ian2 ieu2 den1` <small>/iaŋ2 iɤ2 tən1/<sup>兴化</sup>, /iɑŋ2 iɤɯ2 təŋ1/<sup>泰县</sup></small> 煤油灯。<sup>\[泰县\]</sup>\[兴化：一般带有玻璃灯罩。也称“洋灯”。\]  
 1. 【[洋油壶子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ieu_hv_zz.md#洋油壶子)】`ian2 ieu2 hv2 zz` <sup>[兴化]</sup> 言语轻佻，举止有乖常理的人：他是～，跟他有理讲不起来。  
 1. 【[洋油味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ieu_vei.md#洋油味)】`ian2 ieu2 vei6` <sup>[兴化]</sup> （讽）有神经质的人：他～发起来啊，大家覅惹他。也说“洋油子”。  
-1. 【[洋圆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_iun.md#洋圆)】`ian2 iun2` <small>/iaŋ2 yũ2/<sup>兴化</sup></small> ① 圆钢筋，即线材。<sup>\[兴化\]</sup> ② 建筑用的较细的钢筋。<sup>\[东台\]</sup> ③ 俗称圆形钢筋。<sup>\[泰州\]</sup>  
+1. 【[洋圆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_iun.md#洋圆)】`ian2 iun2` <small>/iaŋ2 yũ2/<sup>兴化</sup></small> 圆钢筋，即线材。<sup>\[兴化\]</sup><sup>\[泰州\]</sup>\[东台：建筑用的较细的钢筋。\]  
 1. 【[洋机](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ji.md#洋机)】`ian2 ji1` <small>/iã2 t͡ɕʝ1/<sup>如皋</sup>, /iɑŋ2 t͡sɿ1/<sup>泰县</sup></small> 缝纫机。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup>\[泰州：旧时多为外国制造。20世纪70年代以前，坊间将其与脚踏车、收音机并称为“三大件”。\]  
 1. 【[洋机店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ji_din.md#洋机店)】`ian2 ji1 din5` <small>/iã2 t͡ɕʝ1 tĩ5/<sup>如皋</sup></small> ① 缝西服的店。<sup>\[如皋\]</sup> ② 现在通称缝纫店。与“裁衣店”手工缝制中服的店家相对。<sup>\[如皋\]</sup> ③ 用缝纫机做衣服的作坊。<sup>\[东台\]</sup>  
 1. 【[洋机针](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ji_zhen.md#洋机针)】`ian2 ji1 zhen1` <sup>[如皋]</sup> 缝纫机用针。  
@@ -467,7 +467,7 @@
 1. 【[洋种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_zhon.md#洋种)】`ian2 zhon3` <sup>[如皋]</sup> ① 外国传来的品种：～猪子、～马。 ② 指人体格壮、块头大。  
 1. 【[洋种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_zhon.md#洋种)】`ian2 zhon5` <sup>[如皋]</sup> 用天花疫苗接种。  
 1. 【[炀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian.md#炀)】`ian2` <small>/iaŋ2/<sup>兴化</sup></small> ① 固体在高温下化为液体<sup>\[兴化\]</sup>：铁皮太薄，一焊就～掉啊。《广韵·阳韵》与章切“～，释金”。<sup>\[兴化\]</sup> ② 金属氧化<sup>\[泰州\]</sup>：钢种锅儿几年不用，底都～掉唻。<sup>\[泰州\]</sup>  
-1. 【[烊灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_huei.md#烊灰)】`ian2 huei1` <small>/iã2 xuei1/<sup>如皋</sup></small> ① 使生石灰块子烊成粉末。<sup>\[如皋\]</sup> ② 生石灰粉。<sup>\[如皋\]</sup> ③ 使生石灰块子烊成粉末。<sup>\[如东\]</sup>  
+1. 【[烊灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_huei.md#烊灰)】`ian2 huei1` <small>/iã2 xuei1/<sup>如皋</sup></small> 使生石灰块子烊成粉末。<sup>\[如皋\]</sup><sup>\[如东\]</sup>  
 1. 【[羊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian.md#羊)】`ian2` <sup>[如东]</sup> 牛科动物哺乳动物，反刍类，一般头上有一对角。  
 1. 【[羊对羊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_duei_ian.md#羊对羊)】`ian2 duei5 ian2` <sup>[兴化]</sup> 与原来一样，没有什么变化：他麻将不打啊，又天天打扑克，还是～。  
 1. 【[羊肚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_dv.md#羊肚)】`ian2 dv3` <sup>[如东]</sup> 牛科动物山羊或绵羊肚。  

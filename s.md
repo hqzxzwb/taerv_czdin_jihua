@@ -3049,7 +3049,7 @@
 1. 【[丝线架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_xin_ga_zz.md#丝线架子)】`sz1 xin5 ga5 zz` <sup>[如皋]</sup> 手工打丝线的主要工作架。下为三脚马儿，上有横担，左右各有9个“架泡儿”。  
 1. 【[丝线作坊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_xin_zah_fan.md#丝线作坊)】`sz1 xin5 zah7 fan1` <sup>[如皋]</sup> 旧时手工加工丝线的作坊。  
 1. 【[丝线粽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_xin_zon_zz.md#丝线粽子)】`sz1 xin5 zon5 zz` <sup>[如皋]</sup> 以纸牌折成四角椎体，再用彩色丝绒线绕裹而成的工艺品，多在端午节时上市，可悬于帐索儿、百索儿上  
-1. 【[丝鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_y.md#丝鱼)】`sz1 y2` <small>/sɿ1 y2/<sup>如皋</sup></small> ① 用丝网捕鱼。<sup>\[如皋\]</sup> ② 用丝网捕鱼，称丝鱼。<sup>\[如东\]</sup>  
+1. 【[丝鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_y.md#丝鱼)】`sz1 y2` <small>/sɿ1 y2/<sup>如皋</sup></small> 用丝网捕鱼。<sup>\[如皋\]</sup><sup>\[如东\]</sup>  
 1. 【[丝鱼桶<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_y_ton_r.md#丝鱼桶<sub>儿</sub>)】`sz1 y2 ton3 r` <sup>[如皋]</sup> 一种专供用丝网捕鱼的小船，像杀猪桶，两头尖，可用竹篙挑着走。下水后，一人立其中，撑竹篙，颠船以嚄浪，使鱼儿惊窜入网而收网捕鱼。  
 1. 【[丝竹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_zhoh.md#丝竹)】`sz1 zhoh7` <sup>[如东]</sup> 琴、瑟、簫、笛等乐器的总称。“丝”指弦乐器，“竹”指管乐器。  
 1. 【[司仪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_i.md#司仪)】`sz1 i2` <sup>[如东]</sup> 举行典礼或召开大会时报告进行程序的人：陈杰与王苹结婚，赵凯当～。  
