@@ -1523,7 +1523,6 @@
 1. 【[拘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_r.md#拘<sub>儿</sub>)】`jy1 r` <sup>[泰州]</sup> ① 牛拘：小牛大啊唻，要同它戴～唻。 ② 旧时男孩鼻饰，黄金细环，别在鼻中，挂于上唇，旧时家长担心小孩早夭，给小孩戴拘儿，取其“拘住不走”之义：他家这个小伙五房佮咖一个，打小就戴～，一直戴到16岁才除掉。  
 1. 【[椐木](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_moh.md#椐木)】`jy1 moh8` <sup>[泰州]</sup> 椐树木料：这张～大橱还是老爹当年结婚打的。  
 1. 【[车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy.md#车)】`jy1` <sup>[东台]</sup> 象棋中的棋子：丢卒保～。  
-1. 【[举的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_dii.md#举的)】`jy3 dii` 全部  
 1. 【[举烟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_in.md#举烟)】`jy3 in1` <sup>[如东]</sup> 递烟给客人或朋友。  
 1. 【[举酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_jieu.md#举酒)】`jy3 jieu3` <sup>[如东]</sup> 端起酒杯请人喝酒。  
 1. 【[举人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_ren.md#举人)】`jy3 ren` <sup>[如皋]</sup> 称食物上的苍蝇卵、幼蛆。  
@@ -1617,6 +1616,7 @@
 1. 【[锯匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_qian.md#锯匠)】`jy5 qian6` <small>/t͡ɕy5 t͡ɕʰiaŋ6/<sup>兴化</sup>, /t͡ɕy5 t͡ɕʰiã/<sup>如皋</sup></small> 旧指拉锯剖原木、解木方、木板的工人。这项工作今已由机械取代。<sup>\[兴化\]</sup><sup>\[如皋\]</sup>  
 1. 【[锯屑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_xiuh.md#锯屑)】`jy5 xiuh7` <sup>[兴化]</sup> 锯竹、木等掉的细末。  
 1. 【[锯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_zz.md#锯子)】`jy5 zz` <sup>[如东]</sup> 工具。长条形，金属制，一边有齿。用以切割木材、钢材等材料。  
+1. 【[举的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_dii.md#举的)】`jy9 dii` 全部  
 1. 【[䂐䂐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jyeh_jyeh_r.md#䂐䂐<sub>儿</sub>)】`jyeh7 jyeh r` <sup>[如皋]</sup> 短：她穿的一件短～衣裳，总遮不到肚脐眼儿；短～的尾巴。jyeh7是zhueh7的口语音。  
 1. 【[噊噊<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jyeh_jyeh_r.md#噊噊<sub>儿</sub>)】`jyeh7 jyeh7 r` <sup>[如皋]</sup> 私语，附耳：两个人在下捣～，别人听不分清。  
 1. 【[橘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jyeh.md#橘)】`jyeh7` <sup>[如东]</sup> 芸香科植物朱橘，常绿小乔木。  
