@@ -1744,8 +1744,7 @@
 1. 【[老脸皮厚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lin_pi_heu.md#老脸皮厚)】`lo3 lin3 pi2 heu6` <sup>[兴化]</sup> 形容人的脸皮厚，不害羞：“并没有新鲜招笑儿的，少不得～的说一个罢。”（《红楼梦》五四）  
 1. 【[老脸菩萨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lin_pv_saeh.md#老脸菩萨)】`lo3 lin3 pv2 saeh7` <sup>[泰县]</sup> 不顾羞耻：你是个～。  
 1. 【[老脸色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lin_seh.md#老脸色)】`lo3 lin3 seh7` <small>/lɔ3 liɪ̃3 səʔ7/<sup>兴化</sup>, /nɔ3 niɪ̃3 səʔ7/<sup>泰县</sup></small> ① 老样子。<sup>\[如东\]</sup>：还是一个～o<sup>\[如东\]</sup> ② 形容经常出现的面孔<sup>\[兴化\]</sup>：……从庄里跑出了一通人马，打前排的是两个……（马春阳《姐妹烟缘船迷传》）<sup>\[兴化\]</sup> ③ 老面孔。<sup>\[泰县\]</sup>  
-1. 【[老老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lo.md#老老)】`lo3 lo` 爷爷  
-1. 【[老老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lo.md#老老)】`lo3 lo3` <small>/nɔ3 nɔ3/<sup>泰县</sup></small> ① 父亲的父亲。通称祖父。<sup>\[如东\]</sup> ② 对老年男子的尊称，泰县南部称“爷爷”作“老老”：他家～还在。/原来这～姓蒋，叫蒋三。（评话《济公传·割瘤移瘤》）<sup>\[泰县\]</sup>  
+1. 【[老老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lo.md#老老)】`lo3 lo` <small>/lɔ3 lɔ/<sup>泰兴</sup>, /nɔ3 nɔ/<sup>泰县</sup></small> ① 祖父<sup>\[泰兴\]</sup>\[如东：如东东路\]\[泰县：泰县南部\] ② 对老年男子的尊称<sup>\[泰县\]</sup>：他家～还在。<sup>\[泰县\]</sup>｜原来这～姓蒋，叫蒋三。（评话《济公传·割瘤移瘤》）<sup>\[泰县\]</sup>  
 1. 【[老老爹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lo_dia.md#老老爹)】`lo3 lo3 dia1` <sup>[东台]</sup> 高祖父，即爷爷的爷爷。  
 1. 【[老老太](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lo_tae.md#老老太)】`lo3 lo3 tae5` <sup>[东台]</sup> 高祖母，即爷爷的祖母。  
 1. 【[老卵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lun.md#老卵)】`lo3 lun3` ① 自以为了不得 ② （贬）不尊重别人、自以为是、老里老相的人。<sup>\[东台\]</sup> ③ 詈词，指人超越本分妄言妄为<sup>\[泰州\]</sup>：你不要太～，哪块轮到你在这个地方指手画脚的。<sup>\[泰州\]</sup>  

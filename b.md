@@ -153,9 +153,8 @@
 1. 【[霸实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_sheh.md#霸实)】`ba5 sheh` <small>/pa5 səʔ/<sup>如皋</sup></small> ① 结实。<sup>\[如东\]</sup>：这只箩筐～。<sup>\[如东\]</sup> ② 形容用物工具结实牢固。<sup>\[如皋\]</sup> ③ 结实。（多指用物器具）<sup>\[东台\]</sup>  
 1. 【[霸王请客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_van_qien_keh.md#霸王请客)】`ba5 van2 qien3 keh7` <sup>[东台]</sup> 强行请人到场，不让推辞。  
 1. 【[𬥐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae.md#𬥐)】`bae1` <sup>[兴化]</sup> ① 父亲：～～。 ② 父亲的兄或弟：大～；二～；三～。 ③ 和父亲年岁、辈份相当的男性：张大～；王二～。  
-1. 【[𬥐𬥐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_bae.md#𬥐𬥐)】`bae1 bae` <small>/pɛ1 pɛ/<sup>如皋</sup>, /pɛ1 pɛ/<sup>泰兴</sup></small> ① 父。如皋北乡称。<sup>\[如皋\]</sup> ② 父亲的妹妹。<sup>\[泰兴\]</sup> ③ 泛指父亲的姊或妹。<sup>\[泰兴\]</sup>  
+1. 【[𬥐𬥐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_bae.md#𬥐𬥐)】`bae1 bae` <small>/pɛ1 pɛ/<sup>如皋</sup>, /pɛ1 pɛ/<sup>泰兴</sup></small> ① 父亲<sup>\[泰州\]</sup>\[如皋：如皋北乡称。\] ② 父亲的妹妹。或泛指父亲的姊或妹。<sup>\[泰兴\]</sup>  
 1. 【[𬥐𬥐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_bae.md#𬥐𬥐)】`bae1 bae1, bae1 bae3` <sup>[东台]</sup> 爸爸的旧称。  
-1. 【[𬥐𬥐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_bae.md#𬥐𬥐)】`bae1 bae1-3` <sup>[泰州]</sup> 爸爸，父亲。  
 1. 【[摆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae.md#摆)】`bae3` <small>/pɛ3/<sup>兴化</sup>, /pɛ3/<sup>如皋</sup></small> ① 放。<sup>\[如东\]</sup> ② 死人停放。<sup>\[如皋\]</sup> ③ 詈语。指睡。<sup>\[如皋\]</sup> ④ 除一般释义外，特指停放尸体。故用此词须有所避讳。<sup>\[东台\]</sup> ⑤ 死的隐语<sup>\[兴化\]</sup>：他～下来连棺材也没得。<sup>\[兴化\]</sup>  
 1. 【[摆啊明吖说](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_a_mien_nga_shuh.md#摆啊明吖说)】`bae3 a mien2 nga shuh7` <sup>[东台]</sup> 开诚布公地说。  
 1. 【[摆不住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_beh_chv.md#摆不住)】`bae3 beh7 chv6` <sup>[如皋]</sup> 见“袒”。  

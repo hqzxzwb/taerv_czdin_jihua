@@ -362,8 +362,7 @@
 1. 【[日逐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_choh.md#日逐)】`rih8 choh8` <sup>[兴化]</sup> 每日、天天：暑假里，他～到柳荫下看书。｜这婆子能言快语，况且～串街走巷，那一家不认得。（《古今小说》一）  
 1. 【[日咖夜的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_ga_ia_dii.md#日咖夜的)】`rih8 ga ia6 dii` <sup>[东台]</sup> 不分白天黑夜：他交关勤劳，～忙｜他这几天筋骨～疼。  
 1. 【[日工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_gon.md#日工)】`rih8 gon1` <small>/iʔ8 kɔŋ1/<sup>泰兴</sup></small> 以天数计算工资的临时工作。<sup>\[泰兴\]</sup>  
-1. 【[日光灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_guan_den.md#日光灯)】`rih8 guan1 den1` <sup>[如东]</sup> 荧光灯。  
-1. 【[日光灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_guan_den.md#日光灯)】`rih8 guan1 den1` <small>/iʔ8 kuɑŋ1 təŋ1/<sup>泰兴</sup></small> 荧光灯，其光与日光相似，故名。<sup>\[泰兴\]</sup>  
+1. 【[日光灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_guan_den.md#日光灯)】`rih8 guan1 den1` <small>/iʔ8 kuɑŋ1 təŋ1/<sup>泰兴</sup></small> 荧光灯。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
 1. 【[日干日消](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_gun_rih_xio.md#日干日消)】`rih8 gun1 rih8 xio1` <sup>[兴化]</sup> 赚的钱钱只够当天开支：寻两个钱～，哪许有余钱供伢儿上学？  
 1. 【[日夜班](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_ia_baen.md#日夜班)】`rih8 ia6 baen1` <sup>[如东]</sup> 上班制度的一种，分为白天和黑夜两班。  
 1. 【[日脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_jiah.md#日脚)】`rih8 jiah7` <small>/liɪʔ8 t͡ɕiaʔ7/<sup>兴化</sup>, /iʔ8 t͡ɕiɑʔ7/<sup>泰兴</sup>, /iɪʔ8 t͡ɕiɑʔ7/<sup>泰县</sup></small> ① 日期。<sup>\[如东\]</sup><sup>\[泰兴\]</sup> ② 日子<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>：～不好过。<sup>\[如东\]</sup>｜《吴下方言考》：“～，晷影也。今吴谚谓去日之速曰～快也”。<sup>\[兴化\]</sup>｜“大哥休怪。正是要紧的～，先说得明白最好。”（《水浒传》七四）<sup>\[兴化\]</sup>  

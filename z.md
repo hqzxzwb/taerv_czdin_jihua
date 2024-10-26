@@ -692,8 +692,7 @@
 1. 【[指头爪<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_teu_zho_r.md#指头爪<sub>儿</sub>)】`zheh7 teu zho3 r` <sup>[如皋]</sup> 手指。  
 1. 【[汁浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_jian.md#汁浆)】`zheh7 jian1` <sup>[如东]</sup> 植物体内营养物质的含量：秋天，银杏叶内的～最多。  
 1. 【[汁水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_shuei.md#汁水)】`zheh7 shuei` <small>/t͡səʔ7 suəi/<sup>兴化</sup></small> ① 某些物质里所含液体<sup>\[兴化\]</sup>：（进忠）将药俱洗净了，揉去～，放在篮内……（《梼杌闲评》十九）<sup>\[兴化\]</sup> ② 植物内部黏稠汁液，多指水果汁液<sup>\[泰州\]</sup>：梨子放的时间长吖，没得甚的～唻。<sup>\[泰州\]</sup>  
-1. 【[窄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh.md#窄)】`zheh7` <sup>[如皋]</sup> 汤量小：红烧鱼～～儿的汤。与“野”汤相对。  
-1. 【[窄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh.md#窄)】`zheh7` <small>/t͡səʔ7/<sup>泰兴</sup></small> 狭小、逼仄<sup>\[泰兴\]</sup>  
+1. 【[窄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh.md#窄)】`zheh7` <small>/t͡səʔ7/<sup>如皋</sup>, /t͡səʔ7/<sup>泰兴</sup></small> ① 汤量小。与“野”汤相对。<sup>\[如皋\]</sup>：红烧鱼～～儿的汤。<sup>\[如皋\]</sup> ② 狭小、逼仄<sup>\[泰兴\]</sup>  
 1. 【[窄狭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_haeh.md#窄狭)】`zheh7 haeh` <small>/t͡səʔ7 xæʔ/<sup>泰兴</sup></small> 狭窄。多指空间或心胸不宽广。<sup>\[泰兴\]</sup>：家里房子小，～。<sup>\[泰兴\]</sup>  
 1. 【[窄狭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_haeh.md#窄狭)】`zheh7 haeh8` <sup>[东台]</sup> 空间狭小，狭窄。  
 1. 【[窄窄哝哝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_zheh_non_non.md#窄窄哝哝)】`zheh7 zheh7 non2 non2` <small>/t͡səʔ7 t͡səʔ7 loŋ2 loŋ2/<sup>兴化</sup>, /t͡səʔ7 t͡səʔ7 noŋ2 noŋ2/<sup>泰县</sup></small> ① 行动不灵活。<sup>\[泰县\]</sup> ② 同“折折哝哝”。<sup>\[东台\]</sup> ③ 吞吞吐吐，欲言又止<sup>\[兴化\]</sup>：他说话～的。<sup>\[兴化\]</sup> ④ 欲与难舍的样子<sup>\[兴化\]</sup>：她要把钱，又～的舍不得。<sup>\[兴化\]</sup>  

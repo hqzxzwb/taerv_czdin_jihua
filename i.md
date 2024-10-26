@@ -275,8 +275,7 @@
 1. 【[约约匡匡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_iah_kuan_kuan.md#约约匡匡)】`iah7 iah7 kuan1 kuan1` <sup>[泰县]</sup> 大体上估算：你这回砌房子～要花多少钱？  
 1. 【[约约数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_iah_shv.md#约约数)】`iah7 iah7 shv5` <sup>[东台]</sup> 同“马马意”、“匡匡酌酌”。  
 1. 【[约匡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_kuan.md#约匡)】`iah7 kuan1` <sup>[兴化]</sup> 大致匡估：这块稻田亩产～千斤挂零。  
-1. 【[约摸数<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_mah_shv_r.md#约摸数<sub>儿</sub>)】`iah7 mah shv5 r` <sup>[如皋]</sup> 大概的估计，大约。  
-1. 【[约摸数<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_mah_shv_r.md#约摸数<sub>儿</sub>)】`iah7 mah shv5 r` <sup>[如东]</sup> 大约：～有多少？  
+1. 【[约摸数<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_mah_shv_r.md#约摸数<sub>儿</sub>)】`iah7 mah shv5 r` <small>/iaʔ7 maʔ su˞5/<sup>如皋</sup></small> 大概的估计，大约。<sup>\[如皋\]</sup><sup>\[如东\]</sup>：～有多少？<sup>\[如东\]</sup>  
 1. 【[约摸酌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_mah_zhah_r.md#约摸酌<sub>儿</sub>)】`iah7 mah zhah7 r` <small>/iaʔ7 maʔ t͡saʔ7 ɚ/<sup>兴化</sup>, /iɑʔ7 mɑʔ t͡sɑʔ7 ɚ/<sup>泰县</sup></small> 大概、匡估<sup>\[泰县\]</sup><sup>\[东台\]</sup>\[兴化：也称“约酌”。\]：砌一套别墅，～三十几万。<sup>\[兴化\]</sup>｜你～考啊多少分？<sup>\[泰县\]</sup>｜前儿晚上，村里搞文艺晚会，观众～有两千人。<sup>\[东台\]</sup>  
 1. 【[约摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_mah.md#约摸)】`iah7 mah8` <sup>[如皋]</sup> 估计，大体，大约。  
 1. 【[约摸账<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_mah_zhan_r.md#约摸账<sub>儿</sub>)】`iah7 mah8 zhan5 r` <sup>[如东]</sup> 大体上：～估估。  
@@ -312,8 +311,7 @@
 1. 【[秧草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_co.md#秧草)】`ian1 co3` <sup>[如皋]</sup> ① 苜蓿。 ② 稗。 ③ 杂草。  
 1. 【[秧鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ji.md#秧鸡)】`ian1 ji1` ① 秧鸡科动物秧鸡，体长约30厘米。头小；嘴比较长，基部赤色，先端淡黑。颈长。上体羽毛暗灰褐色，带黑色斑纹。两翼表面大半灰色。下体褐色；肛周和尾下覆羽黑白相间，羽端白色。脚带赤褐色，前趾颇长，无趾蹼。栖息在沼泽、水草丛或秧田里。步行快速，不善髙飞。食蚯蚓、昆虫及植物幼叶。<sup>\[如东\]</sup> ② 鸟名，大小若鸡，颊部白色，长嘴短尾，生活在水田和沼泽，夏至以后整夜鸣叫，秋后即止，常见于水稻田，故名。<sup>\[泰州\]</sup>  
 1. 【[秧米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_mi.md#秧米)】`ian1 mi3` <sup>[如皋]</sup> 推广新稻种之前，指如皋东乡的大米，口感好。  
-1. 【[秧母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_mu.md#秧母)】`ian1 mu3` <sup>[兴化]</sup> 培植水稻苗的田块。  
-1. 【[秧母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_mu.md#秧母)】`ian1 mu3` <small>/iã1 mʊ3/<sup>如皋</sup></small> ① 水稻苗床。<sup>\[如皋\]</sup> ② 培植稻秧幼苗的田块，称秧母。<sup>\[如东\]</sup> ③ 专门培育水稻秧苗的田<sup>\[泰州\]</sup>：东边的这块地留啊做～。<sup>\[泰州\]</sup>  
+1. 【[秧母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_mu.md#秧母)】`ian1 mu3` <small>/iaŋ1 mo3/<sup>兴化</sup>, /iã1 mʊ3/<sup>如皋</sup></small> 培植水稻苗的田块，水稻苗床。<sup>\[兴化\]</sup><sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰州\]</sup>：东边的这块地留啊做～。<sup>\[泰州\]</sup>  
 1. 【[秧<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_r.md#秧<sub>儿</sub>)】`ian1 r` <sup>[如皋]</sup> 小孩依排行的称谓：大～、……、四～。  
 1. 【[秧耥子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_tan_zz.md#秧耥子)】`ian1 tan5 zz` <sup>[如皋]</sup> 见“耥子”。  
 1. 【[秧田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_tin.md#秧田)】`ian1 tin2` <sup>[如东]</sup> 种植水稻的田，称秧田。  
@@ -358,8 +356,7 @@
 1. 【[洋钉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_dien.md#洋钉)】`ian2 dien1` 铁钉。<sup>\[东台\]</sup>\[泰州：机器轧的圆钉，顶圆片形，钉身呈圆柱形，旧时从国外引进，故名。\]  
 1. 【[洋钉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_dien_r.md#洋钉<sub>儿</sub>)】`ian2 dien1 r` 铁钉  
 1. 【[洋而打精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_er_da_jien.md#洋而打精)】`ian2 er da3 jien1` <sup>[东台]</sup> 办事不慎重、不严肃，没精打采的样子。  
-1. 【[洋而㗘呲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_er_pah_cz.md#洋而㗘呲)】`ian2 er pah7 cz1` <sup>[兴化]</sup> 形容说话随便，不知轻重：他～的，没得正调。  
-1. 【[洋而㗘呲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_er_pah_cz.md#洋而㗘呲)】`ian2 er pah7 cz1` <sup>[东台]</sup> 不稳重、不实在，真本事不大，但眼角高，还好出风头。  
+1. 【[洋而㗘呲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_er_pah_cz.md#洋而㗘呲)】`ian2 er pah7 cz1` <small>/iaŋ2 ɚ pʰaʔ7 t͡sʰɿ1/<sup>兴化</sup></small> ① 形容说话随便，不知轻重<sup>\[兴化\]</sup>：他～的，没得正调。<sup>\[兴化\]</sup> ② 不稳重、不实在，真本事不大，但眼角高，还好出风头。<sup>\[东台\]</sup>  
 1. 【[洋番芋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_faen_y.md#洋番芋)】`ian2 faen1 y6` 土豆，马铃薯  
 1. 【[洋家喜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ga_xi_r.md#洋家喜<sub>儿</sub>)】`ian2 ga xi3 r` <sup>[如皋]</sup> 灰喜鹊。  
 1. 【[洋碱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_gaen.md#洋碱)】`ian2 gaen3` <small>/iã2 kẽ3/<sup>如皋</sup></small> 肥皂的旧称。<sup>\[如皋\]</sup><sup>\[如东\]</sup>  
@@ -368,8 +365,7 @@
 1. 【[洋火盒<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_hu_huh_r.md#洋火盒<sub>儿</sub>)】`ian2 hu3 huh8 r` <sup>[泰县]</sup> 火柴盒。  
 1. 【[洋画<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_hua_r.md#洋画<sub>儿</sub>)】`ian2 hua6 r` <sup>[兴化]</sup> ① 儿童玩的硬纸画片。 ② 最初的招贴画和广告画。  
 1. 【[洋话唱曲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_hua_chan_qioh.md#洋话唱曲)】`ian2 hua6 chan5 qioh7` <sup>[东台]</sup> 说话得意洋洋，经常哼着小调的样子，也称“哼歌浪唱”。  
-1. 【[洋灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_huei.md#洋灰)】`ian2 huei1` <sup>[兴化]</sup> 由石灰块氧化而成的粉末，相对于“块灰”。  
-1. 【[洋灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_huei.md#洋灰)】`ian2 huei1` <small>/iã2 xuei1/<sup>如皋</sup></small> ① 石灰粉，用于刷白、消毒。<sup>\[东台\]</sup> ② 生石灰粉。<sup>\[如皋\]</sup> ③ 现在称作水泥，一种建筑材料，混合石灰石和黏土烧成块状，机器碾成粉末，使用时加入细沙拌水，干燥以后坚硬如石。<sup>\[泰州\]</sup>  
+1. 【[洋灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_huei.md#洋灰)】`ian2 huei1` <small>/iaŋ2 xuəi1/<sup>兴化</sup>, /iã2 xuei1/<sup>如皋</sup></small> ① 由石灰块氧化而成的粉末，相对于“块灰”。<sup>\[兴化\]</sup> ② 石灰粉，用于刷白、消毒。<sup>\[东台\]</sup> ③ 生石灰粉。<sup>\[如皋\]</sup> ④ 现在称作水泥，一种建筑材料，混合石灰石和黏土烧成块状，机器碾成粉末，使用时加入细沙拌水，干燥以后坚硬如石。<sup>\[泰州\]</sup>  
 1. 【[洋油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ieu.md#洋油)】`ian2 ieu2` 煤油<sup>\[如东\]</sup><sup>\[泰州\]</sup>\[东台：火油\]  
 1. 【[洋油灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ieu_den.md#洋油灯)】`ian2 ieu2 den1` <small>/iaŋ2 iɤ2 tən1/<sup>兴化</sup>, /iɑŋ2 iɤɯ2 təŋ1/<sup>泰县</sup></small> 煤油灯。<sup>\[泰县\]</sup>\[兴化：一般带有玻璃灯罩。也称“洋灯”。\]  
 1. 【[洋油壶子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ieu_hv_zz.md#洋油壶子)】`ian2 ieu2 hv2 zz` <sup>[兴化]</sup> 言语轻佻，举止有乖常理的人：他是～，跟他有理讲不起来。  
@@ -597,8 +593,7 @@
 1. 【[漾风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_fon.md#漾风)】`ian6 fon1` <sup>[如东]</sup> ① 风变小了。 ② 没有风了。  
 1. 【[漾风细水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_fon_xi_shuei.md#漾风细水)】`ian6 fon1 xi5 shuei3` <sup>[如东]</sup> 风力微弱，水流缓慢。  
 1. 【[烊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian.md#烊)】`ian6` <sup>[如东]</sup> 放在汤里多煮一会儿：把圆子放吖锅里再～阵儿。  
-1. 【[样的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_dii.md#样的)】`ian9 dii` <sup>[如东]</sup> 一样：你去也是～。  
-1. 【[样的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_dii.md#样的)】`ian9 dii` <sup>[泰县]</sup> ① 或许：覅看他个子小，～这次他能打败那个高个子唻！ ② 照样：他～捱公安局抓起来啊。  
+1. 【[样的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_dii.md#样的)】`ian9 dii` <small>/iɑŋ9 tiɪʔ/<sup>泰县</sup></small> ① 一样的<sup>\[如东\]</sup>：你去也是～。<sup>\[如东\]</sup> ② 或许<sup>\[泰县\]</sup>：覅看他个子小，～这次他能打败那个高个子唻！<sup>\[泰县\]</sup> ③ 照样<sup>\[泰县\]</sup>：他～捱公安局抓起来啊。<sup>\[泰县\]</sup>  
 1. 【[样的巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_dii_ba.md#样的巴)】`ian9 dii ba1` <sup>[东台]</sup> （口头禅）意思是跟原来做的或看到的一样。  
 1. 【[样的瓢货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_dii_pio_hu.md#样的瓢货)】`ian9 dii pio2 hu5` <sup>[如东]</sup> 一样的货色。比喻两人状况相同：他和她是～。  
 1. 【[样的条号](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_dii_tio_ho.md#样的条号)】`ian9 dii tio2 ho6` <sup>[如东]</sup> 一样的东西。  

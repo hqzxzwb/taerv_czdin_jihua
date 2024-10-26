@@ -591,8 +591,7 @@
 1. 【[分心木](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_xien_moh.md#分心木)】`fen1 xien1 moh8` <sup>[如东]</sup> 胡桃科植物胡桃果核内的木质隔膜，入中药。  
 1. 【[分赃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_zan.md#分赃)】`fen1 zan1` <sup>[如东]</sup> 分取赃款赃物。比喻分取不正当的权利或利益：坐地～。  
 1. 【[分址分清](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_zhr_fen_qien.md#分址分清)】`fen1 zhr3 fen1 qien1` <sup>[泰县]</sup> 详细，清楚：这件事你交待得～。  
-1. 【[分早晚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_zo_vaen.md#分早晚)】`fen1 zo3 vaen3` <sup>[兴化]</sup> ① 立秋后天气虽仍炎热，但日出前和日落后相对凉爽一些：立咖秋天气就～吖。 ② 特指早晨有很多禁忌，不慎误犯者常令人不快：说话要～，不要早上一见面就梦吖梦的。  
-1. 【[分早晚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_zo_vaen.md#分早晚)】`fen1 zo3 vaen3` <small>/fəŋ1 t͡sɔ3 ʋɛ̃3/<sup>泰兴</sup></small> 分早上和晚上。谓立秋后早晚比较凉快。乡人云：“立秋三天分早晚。”<sup>\[泰兴\]</sup>  
+1. 【[分早晚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_zo_vaen.md#分早晚)】`fen1 zo3 vaen3` <small>/fən1 t͡sɔ3 uɛ̃3/<sup>兴化</sup>, /fəŋ1 t͡sɔ3 ʋɛ̃3/<sup>泰兴</sup></small> ① 一般指立秋后早晨与傍晚相较中午时明显凉爽一些<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：立咖秋天气就～吖。<sup>\[兴化\]</sup>｜乡人云：“立秋三天～。”<sup>\[泰兴\]</sup> ② 特指早晨有很多禁忌，不慎误犯者常令人不快<sup>\[兴化\]</sup>：说话要～，不要早上一见面就梦吖梦的。<sup>\[兴化\]</sup>  
 1. 【[分籽分清](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_zz_fen_qien.md#分籽分清)】`fen1 zz3 fen1 qien1` <sup>[东台]</sup> ［喻］分得很清，绝不含糊。  
 1. 【[坟场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_chan.md#坟场)】`fen2 chan2` <sup>[如东]</sup> 埋葬死人的场所。  
 1. 【[坟茔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_ien.md#坟茔)】`fen2 ien2` <sup>[如东]</sup> ① 埋葬棺材后垒起来的土堆，称坟茔。 ② 埋葬死者的场地，称坟茔或坟地。  
@@ -779,8 +778,7 @@
 1. 【[风吹荡荡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_chuei_tan_tan.md#风吹荡荡)】`fon1 chuei1 tan6 tan6` <sup>[如东]</sup> 小风轻轻地吹拂的样子。  
 1. 【[风风扬扬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_fon_ian_ian.md#风风扬扬)】`fon1 fon1 ian2 ian2` <sup>[如东]</sup> 轻飘：这个丫头～的，像个甚的样子。  
 1. 【[风风扬扬的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_fon_ian_ian_dii.md#风风扬扬的)】`fon1 fon1 ian2 ian2 dii` <sup>[如皋]</sup> 纷纷流传不利于某人的消息。  
-1. 【[风风雨雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_fon_y_y.md#风风雨雨)】`fon1 fon1 y3 y3` <sup>[如东]</sup> ① 比喻环境恶劣，不得安宁。 ② 比喻遭遇的困难很多：～大半生。  
-1. 【[风风雨雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_fon_y_y.md#风风雨雨)】`fon1 fon1 y3 y3` <small>/fɔŋ1 fɔŋ1 y3 y3/<sup>泰兴</sup></small> 比喻议论纷纷。<sup>\[泰兴\]</sup>：满城～的，总在议论箇桩事。<sup>\[泰兴\]</sup>  
+1. 【[风风雨雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_fon_y_y.md#风风雨雨)】`fon1 fon1 y3 y3` <small>/fɔŋ1 fɔŋ1 y3 y3/<sup>泰兴</sup></small> ① 比喻环境恶劣，不得安宁。<sup>\[如东\]</sup> ② 比喻遭遇的困难很多。<sup>\[如东\]</sup>：～大半生。<sup>\[如东\]</sup> ③ 比喻议论纷纷。<sup>\[泰兴\]</sup>：满城～的，总在议论箇桩事。<sup>\[泰兴\]</sup>  
 1. 【[风光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_guan.md#风光)】`fon1 guan1` <small>/foŋ1 kuaŋ1/<sup>兴化</sup></small> 体面<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：儿子考上大学，做父母的也感到～。<sup>\[兴化\]</sup>  
 1. 【[风干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_gun.md#风干)】`fon1 gun1` <sup>[东台]</sup> 放在阴凉的地方，让风吹干：～腊肉。  
 1. 【[风虾<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_ha_r.md#风虾<sub>儿</sub>)】`fon1 ha1 r` <sup>[兴化]</sup> 产于湖荡荒滩的一种小虾，多用来磨虾酱或沤肥。  
