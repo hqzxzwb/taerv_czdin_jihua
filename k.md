@@ -811,9 +811,9 @@
 1. 【[昆仲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_chon.md#昆仲)】`kuen1 chon6` <sup>[东台]</sup> 旧时指兄弟。长曰昆，次曰仲。  
 1. 【[昆通山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_ton_shaen.md#昆通山)】`kuen1 ton1 shaen1` <sup>[如东]</sup> 形容物体倒下时的巨大响声。  
 1. 【[裈头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_teu_r.md#裈头<sub>儿</sub>)】`kuen1 teu2 r` <sup>[泰州]</sup> 贴身短裤。  
-1. 【[裈子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_zz.md#裈子)】`kuen1 zz` <sup>[泰县]</sup> 裤头儿。  
-1. 【[裩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_zz.md#裩子)】`kuen1 zz` <sup>[东台]</sup> 短裤、裤衩。也叫“裤头”“裈子”：田径～｜三角～。  
-1. 【[褌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_zz.md#褌子)】`kuen1 zz` <sup>[兴化]</sup> 短裤：西装～。又叫“褌头子”“裤头子”。  
+1. 【[裩子/裈子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_zz.md#裩子/裈子)】`kuen1 zz` <sup>[东台]</sup> 短裤、裤衩。也叫“裤头”：田径～｜三角～。  
+1. 【[裩子/裈子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_zz.md#裩子/裈子)】`kuen1 zz` <sup>[兴化]</sup> 短裤：西装～。又叫“褌头子”“裤头子”。  
+1. 【[裩子/裈子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_zz.md#裩子/裈子)】`kuen1 zz` <sup>[泰县]</sup> 裤头儿。  
 1. 【[捆绑不成夫妻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_ban_beh_chen_fv_qi.md#捆绑不成夫妻)】`kuen3 ban3 beh7 chen2 fv1 qi1` <sup>[东台]</sup> 以夫妻要情投意合喻指合作共事也不能强迫。  
 1. 【[捆捆扎扎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_kuen_zhaeh_zhaeh.md#捆捆扎扎)】`kuen3 kuen3 zhaeh7 zhaeh7` <small>/kʰuən3 kʰuən3 t͡sæʔ7 t͡sæʔ7/<sup>兴化</sup></small> ① 把东西收拾好，捆起来扎起来。<sup>\[东台\]</sup> ② 把东西归并、收拢在一起<sup>\[兴化\]</sup>：把你的破烂～走路吧！<sup>\[兴化\]</sup>  
 1. 【[捆盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_pun.md#捆盘)】`kuen3 pun2` <sup>[如皋]</sup> 转让企业时估算总价格。  

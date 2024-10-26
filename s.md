@@ -3244,7 +3244,7 @@
 1. 【[似](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz.md#似)】`sz6` <sup>[泰州]</sup> 介词，用于形容词之后，表示比较：一声高～一声｜肚子一天大～一天｜他的成绩远远好～你。｜他的个子高～你。  
 1. 【[自在](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_cae.md#自在)】`sz6 cae6` <sup>[东台]</sup> 自由；快活：你坐啊河边钓钓鱼，看看书，多～啊！  
 1. 【[自家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ga.md#自家)】`sz6 ga1, sz6 ga3` <sup>[东台]</sup> 自己。  
-1. 【[自家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ga.md#自家)】`sz6 ga1` <small>/sɿ1 ka1/<sup>如皋</sup>, /sɿ1 ka1/<sup>泰县</sup></small> ① 自己。<sup>\[如皋\]</sup> ② 自己。<sup>\[泰县\]</sup>  
+1. 【[自家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ga.md#自家)】`sz6 ga1` <small>/sɿ1 ka1/<sup>如皋</sup>, /sɿ1 ka1/<sup>泰县</sup></small> 自己。<sup>\[如皋\]</sup><sup>\[泰县\]</sup>  
 1. 【[自家家里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ga_ga_lii.md#自家家里)】`sz6 ga1 ga1 lii` <sup>[如皋]</sup> 自己家里。  
 1. 【[自有自便](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ieu_sz_pin.md#自有自便)】`sz6 ieu3 sz6 pin6` 自己拥有（相对于仰仗别人），自己方便。  
 **[▲](#音序检索)**  

@@ -1879,7 +1879,7 @@
 1. 【[姑𬥐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_bae.md#姑𬥐)】`gv1 bae1` <small>/ku1 pɛ1/<sup>兴化</sup>, /ku1 pe3/<sup>泰县</sup></small> ① 姑父。<sup>\[兴化\]</sup><sup>\[泰州\]</sup> ② 姨父（存疑）。<sup>\[泰县\]</sup>  
 1. 【[姑表](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_bio.md#姑表)】`gv1 bio3` <sup>[泰州]</sup> 姑母的子女与本人的亲戚关系：他俫两个人是～。  
 1. 【[姑丈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_chan.md#姑丈)】`gv1 chan6` 姑父，姑姑的丈夫  
-1. 【[姑爹爹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_dia_dia.md#姑爹爹)】`gv1 dia1 dia` <small>/ku1 tia1 tia/<sup>兴化</sup></small> ① 姑父，姑妈的丈夫 ② 父亲或母亲的姑父。<sup>\[兴化\]</sup> ③ 丈夫的姑父。<sup>\[兴化\]</sup>  
+1. 【[姑爹爹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_dia_dia.md#姑爹爹)】`gv1 dia1 dia` <small>/ku1 tia1 tia/<sup>兴化</sup></small> ① 姑父，姑妈的丈夫\[如东：如东东路\] ② 父亲或母亲的姑父。<sup>\[兴化\]</sup> ③ 丈夫的姑父。<sup>\[兴化\]</sup>  
 1. 【[姑公公](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_gon_gon.md#姑公公)】`gv1 gon1 gon1` <sup>[如皋]</sup> 见“姑外公”。  
 1. 【[姑爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_i.md#姑爷)】`gv1 i` <sup>[如皋]</sup> 指称丈夫姐妹的丈夫。  
 1. 【[姑绺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_lieu_r.md#姑绺<sub>儿</sub>)】`gv1 lieu3 r` <sup>[如皋]</sup> 见“刘海儿”。  
