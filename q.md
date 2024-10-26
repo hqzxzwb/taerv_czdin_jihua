@@ -22,7 +22,6 @@
 1. 【[欺削](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_xiah.md#欺削)】`qi1 xiah` <sup>[兴化]</sup> 瞧不起人：你覅～人，你说的那个我也懂。  
 1. 【[欺削](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_xiah.md#欺削)】`qi1 xiah7` <sup>[东台]</sup> 欺负人，以势压人。  
 1. 【[欺心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_xien.md#欺心)】`qi1 xien1` <sup>[兴化]</sup> 昧着良心：“他有这个～的事，我也不饶他……”（《金瓶梅词话》二五）｜谚曰：养性须行善，～莫吃斋。  
-1. 【[䭣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi.md#䭣)】`qi2` <sup>[东台]</sup> 东台传统茶食，六瓣形，外地称为“老虎脚爪”。有咸、甜之分，原产地为镇江，故名“京江～”；咸～内有中药“茨罗”，能勾起人们食欲。  
 1. 【[其门如市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_men_rv_shr.md#其门如市)】`qi2 men2 rv2 shr6` <sup>[兴化]</sup> 形容交际往来的人多，门口和庭院里热闹得像街市一样：（钝秀才）夫妻衣锦还乡……宾朋一向疏失者，此日奔走～，（《警世通言》十七）  
 1. 【[其时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_shr.md#其时)】`qi2 shr2` <sup>[兴化]</sup> 那个时候：“……他到～，先白花花的送你贤丈二十块洋线……”（《广陵潮》四六）  
 1. 【[奇里八怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_lii_baeh_guae.md#奇里八怪)】`qi2 lii baeh7 guae5` <sup>[东台]</sup> 同“蹊跷八怪”。  
@@ -32,6 +31,7 @@
 1. 【[旗杆上的灯笼——高明](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_gun_shan_dii_den_lon_go_mien.md#旗杆上的灯笼——高明)】`qi2 gun1 shan6 dii den1 lon2 go1 mien2` <sup>[东台]</sup>   
 1. 【[旗杆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_gun.md#旗杆)】`qi2 gun3` <sup>[如皋]</sup> 地名通名：东陈乡旧有村名冒家～。  
 1. 【[祁帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_ban.md#祁帮)】`qi2 ban1` <sup>[如皋]</sup> 示字旁。  
+1. 【[粸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi.md#粸)】`qi2` <sup>[东台]</sup> 东台传统茶食，六瓣形，外地称为“老虎脚爪”。有咸、甜之分，原产地为镇江，故名“京江～”；咸～内有中药“茨罗”，能勾起人们食欲。  
 1. 【[粸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_r.md#粸<sub>儿</sub>)】`qi2 r` <small>/t͡ɕʰi2 ɚ/<sup>兴化</sup>, /t͡ɕʰʝ˞2/<sup>如皋</sup></small> ① 六丫儿糯饼。炉内烘熟，烹糖薰红为糖～，先加盐不烹糖，色白是䴛～。<sup>\[如皋\]</sup> ② 一种面食，六个角，分咸、甜两种，在炉中烤熟。谓自镇江传入，故名“京江～”。<sup>\[兴化\]</sup>：稻饼。<sup>\[兴化\]</sup>  
 1. 【[脐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi.md#脐)】`qi2` <sup>[东台]</sup> ① 人出生后，胚胎期脐带脱落结疤形成的瘢痕：肚～。 ② 指蟹的腹部，雄尖雌圆：尖～/团～。  
 1. 【[脐带](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_dae.md#脐带)】`qi2 dae5` <sup>[如东]</sup> 初生婴儿的脐带，又名坎脐。  
