@@ -453,7 +453,6 @@
 1. 【[欺削](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_xiah.md#欺削)】`qi1 xiah7` <sup>[东台]</sup> 欺负人，以势压人。  
 1. 【[欺心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_xien.md#欺心)】`qi1 xien1` <sup>[兴化]</sup> 昧着良心：“他有这个～的事，我也不饶他……”（《金瓶梅词话》二五）｜谚曰：养性须行善，～莫吃斋。  
 1. 【[䭣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi.md#䭣)】`qi2` <sup>[东台]</sup> 东台传统茶食，六瓣形，外地称为“老虎脚爪”。有咸、甜之分，原产地为镇江，故名“京江～”；咸～内有中药“茨罗”，能勾起人们食欲。  
-1. 【[䭣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_r.md#䭣<sub>儿</sub>)】`qi2 r` <small>/t͡ɕʰi2 ɚ/<sup>兴化</sup>, /t͡ɕʰʝ˞2/<sup>如皋</sup></small> ① 六丫儿糯饼。炉内烘熟，烹糖薰红为糖～，先加盐不烹糖，色白是䴛～。<sup>\[如皋\]</sup> ② 一种面食，六个角，分咸、甜两种，在炉中烤熟。谓自镇江传入，故名“京江～”。䭣，《集韵·脂韵》津私切<sup>\[兴化\]</sup>：稻饼。<sup>\[兴化\]</sup>  
 [更多...](./q.md)
 ## R
 1. 【[<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/r.md#<sub>儿</sub>)】`r` <sup>[东台]</sup> 儿缀的口语音。（原文作“子”，音不合）：⼤红枣〜；⿊枣〜；草稿〜；小摊〜；茄〜｜你这把调〜，要考⼤学还需要好好努⼒。  
