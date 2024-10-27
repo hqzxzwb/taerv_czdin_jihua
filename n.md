@@ -1372,9 +1372,9 @@
 1. 【[年关](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_guaen.md#年关)】`nin2 guaen1` ① 旧例年底结账，欠租负债的人觉得好像过关一样，所以称年关。<sup>\[如东\]</sup> ② 年底。旧时习惯于年底结账，欠债的人觉得过年好比过关，故称为～。<sup>\[东台\]</sup>  
 1. 【[年货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_hu.md#年货)】`nin2 hu5` <sup>[东台]</sup> 过春节应景应时物品：明吖上街去办～。  
 1. 【[年夜饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_ia_faen.md#年夜饭)】`nin2 ia6 faen6` <sup>[如东]</sup> 阴历十二月三十日晚，全家人在一起吃饭，称年夜饭。也称团圆饭。准备丰盛的菜肴，庆祝一年的成功与快乐。  
+1. 【[年纪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_ji.md#年纪)】`nin2 ji` <sup>[如东]</sup> 年龄：多大～？  
 1. 【[年纪大的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_ji_da_dii.md#年纪大的)】`nin2 ji da6 dii` <sup>[兴化]</sup> 老年人：～的身体要保重。｜“太爷！对不起你们～。”（《武松》三）  
 1. 【[年朞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_ji.md#年朞)】`nin2 ji1` <sup>[东台]</sup> 同“过周”。  
-1. 【[年纪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_ji.md#年纪)】`nin2 ji5` <sup>[如东]</sup> 年龄：多大～？  
 1. 【[年假](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_jia.md#年假)】`nin2 jia3` <sup>[如东]</sup> 寒假。  
 1. 【[年脚下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_jiah_xia.md#年脚下)】`nin2 jiah7 xia` <sup>[兴化]</sup> 接近年关的时候：～家家忙吖掸尘、打年货。｜小木匠因为火车票紧张，耽搁了几天时间，～才到家。（钱国怀《船帆》）  
 1. 【[年久失修](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_jieu_sheh_xieu.md#年久失修)】`nin2 jieu3 sheh7 xieu1` <sup>[如皋]</sup> 指房屋等多年未整修，以致损坏。  
