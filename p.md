@@ -79,7 +79,7 @@
 1. 【[排排座](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pae_pae_cu.md#排排座)】`pae2 pae2 cu6` <sup>[兴化]</sup> 依次坐在一排板凳上。儿歌：～，吃果果。  
 1. 【[排<sub>儿</sub>漂<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pae_r_pio_r.md#排<sub>儿</sub>漂<sub>儿</sub>)】`pae2 r pio5 r` <sup>[兴化]</sup> 见“排儿套儿”。  
 1. 【[排<sub>儿</sub>套<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pae_r_to_r.md#排<sub>儿</sub>套<sub>儿</sub>)】`pae2 r to5 r` <sup>[兴化]</sup> 形容衣着讲究、簇新：你穿得～的到哪许出客咯？‖也说“排儿漂儿”。  
-1. 【[排𢇢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pae_shaen.md#排𢇢)】`pae2 shaen1` <sup>[兴化]</sup> 屋内代替山墙（𢇢墙）承桁条的人字屋架：五间房子用四把～，里边是通连的。  
+1. 【[排𣓒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pae_shaen.md#排𣓒)】`pae2 shaen1` <sup>[兴化]</sup> 屋内代替山墙（𣓒墙）承桁条的人字屋架：五间房子用四把～，里边是通连的。  
 1. 【[排水沟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pae_shuei_geu.md#排水沟)】`pae2 shuei3 geu1` <sup>[如东]</sup> 人工在旱田里挖掘的小沟，用于排水  
 1. 【[排五柱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pae_v_chv.md#排五柱)】`pae2 v3 chv6` <sup>[如东]</sup> 平房的一种结构形式。进深为五根立柱，称排五柱。  
 1. 【[排楦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pae_xiun.md#排楦)】`pae2 xiun5` <sup>[兴化]</sup> 数落、埋怨：他一烦起来就～人。｜“……谁知才说了一句，他……倒合我背了一大套四书，把我～了一阵……”（《儿女英雄传》二九）  
