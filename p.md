@@ -122,7 +122,6 @@
 1. 【[拔钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paeh_qin.md#拔钱)】`paeh8 qin2` <small>/pʰeʔ8 t͡ɕʰĩ2/<sup>如皋</sup></small> ① 从计划中、份额中抽出钱来。<sup>\[如皋\]</sup> ② 从计划、份额中抽钱。<sup>\[如东\]</sup>：从二月份的流动资金中～填补。<sup>\[如东\]</sup>  
 1. 【[拔桩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paeh_zhuan.md#拔桩)】`paeh8 zhuan1` <sup>[兴化]</sup> （喻）次要的、胁从的：你偷牛的本事没得，～的本事一等。｜偷船的走啊，逮住个～的。  
 1. 【[攀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen.md#攀)】`paen1` <sup>[如皋]</sup> 相持：对～。  
-1. 【[攀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen.md#攀)】`paen1` <sup>[东台]</sup> “及”或“赶上”：再不出发就来不～吖。  
 1. 【[攀扯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_cha.md#攀扯)】`paen1 cha3` <sup>[东台]</sup> 牵连拉扯，把没有关系的两回事硬连到一起。  
 1. 【[攀垛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_du_zz.md#攀垛子)】`paen1 du3 zz` <sup>[如皋]</sup> 砌墙时，砌给墙加固的部分称之。  
 1. 【[攀阴亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_ien_qien.md#攀阴亲)】`paen1 ien1 qien1` <sup>[如皋]</sup> 旧时残存的一种风俗，为死人办“结婚”仪式。  
@@ -135,6 +134,7 @@
 1. 【[盼头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_teu.md#盼头)】`paen5 teu` <sup>[东台]</sup> 指可能实现的良好愿望。  
 1. 【[襻舌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_shih_r.md#襻舌<sub>儿</sub>)】`paen5 shih8 r` <sup>[兴化]</sup> 舌系带的俗称。  
 1. 【[襻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_zz.md#襻子)】`paen5 zz` <small>/pʰɛ̃5 t͡sɿ/<sup>兴化</sup></small> ① 用布条做的扣住钮扣的圈：钮～。<sup>\[兴化\]</sup> ② 披风之类的衣服上可以打结的布条。<sup>\[兴化\]</sup> ③ 形状或功能像襻子的东西：鞋一。<sup>\[兴化\]</sup> ④ 用圆布条做的扣住纽扣的套。<sup>\[泰州\]</sup>  
+1. 【[办](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen.md#办)】`paen6` <sup>[东台]</sup> “及”或“赶上”：再不出发就来不～吖。  
 1. 【[办菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_cae.md#办菜)】`paen6 cae5` <sup>[如皋]</sup> 操办酒席。  
 1. 【[办饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_faen.md#办饭)】`paen6 faen6` <sup>[兴化]</sup> 做饭：来啊客，赶快～。｜那老者十分欢喜，道了几声“失迎”，又叫童子～。（《西游记》十五）  
 1. 【[办家家<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_ga_ga_r.md#办家家<sub>儿</sub>)】`paen6 ga1 ga1 r` <sup>[如皋]</sup> 儿童玩的一种组织家庭的游戏。过家家。  
