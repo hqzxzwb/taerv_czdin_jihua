@@ -1684,10 +1684,10 @@
 1. 【[𥋖𥋖眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_qy_ngaen.md#𥋖𥋖眼)】`qy1 qy1 ngaen3` <sup>[东台]</sup> 就是近视眼。  
 1. 【[𥋖𥋖眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_qy_ngaen_r.md#𥋖𥋖眼<sub>儿</sub>)】`qy1 qy1 ngaen3 r` <sup>[泰县]</sup> 近视眼：这个人是个～。  
 1. 【[瞿麦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_moh.md#瞿麦)】`qy2 moh8` <sup>[如东]</sup> 石竹科植物瞿麦，多年生草本。  
-1. 【[觑觑眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_qy_ngaen.md#觑觑眼)】`qy2 qy2 ngaen3` <sup>[兴化]</sup> 近视眼。  
 1. 【[随便](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_pin.md#随便)】`qy2 pin6` <sup>[泰县]</sup> 随便：这件事～那个去都行。  
 1. 【[随便哪歇果](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_pin_la_xih_gu.md#随便哪歇果)】`qy2 pin6 la3 xih7 gu3` <sup>[如皋]</sup> 任何时间都行。  
 1. 【[随便哪歇刻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_pin_la_xih_keh_r.md#随便哪歇刻<sub>儿</sub>)】`qy2 pin6 la3 xih7 keh9 r` <sup>[如皋]</sup> 任何时间都行。  
+1. 【[𥋖𥋖眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_qy_ngaen.md#𥋖𥋖眼)】`qy2 qy2 ngaen3` <sup>[兴化]</sup> 近视眼。  
 1. 【[取](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy.md#取)】`qy3` <sup>[如皋]</sup> 迷信者认为雷击是提取、捉某种妖怪：一声雷响，树洞里的大蛇捱～啊走啊。  
 1. 【[取到鱼艎板都会说话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_do_y_van_baen_du_huei_shuh_hua.md#取到鱼艎板都会说话)】`qy3 do5 y2 van2 baen3 du1 huei6 shuh7 hua6` <sup>[东台]</sup> 有了成绩本无关的人也能总结经验说现成话。  
 1. 【[取用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_ion.md#取用)】`qy3 ion` <sup>[东台]</sup> 也作“取容”，有效的容量和实际作用：这厨房不小，蛮有～的/这包太小，没得～。  
