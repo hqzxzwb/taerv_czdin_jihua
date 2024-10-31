@@ -573,11 +573,11 @@
 1. 【[晒太阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_tae_ian.md#晒太阳)】`shae5 tae5 ian` <sup>[如东]</sup> 接受阳光曝晒。比喻互相把隐藏的丑话搬出来曝光。  
 1. 【[晒簟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_tin.md#晒簟)】`shae5 tin6` <sup>[如皋]</sup> 作晒具的巨型篾席，似凉席而大，长可数丈。旧时如皋西南乡多见。  
 1. 【[𩴇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae.md#𩴇)】`shae5` <sup>[如皋]</sup> 人的灵魂。  
-1. 【[刹断](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_dun.md#刹断)】`shaeh7 dun5` <sup>[兴化]</sup> 决断：对这件事你要拿出～来，不能戏啊戏的。  
 1. 【[杀剥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_bah.md#杀剥)】`shaeh7 bah7` <sup>[兴化]</sup> 农民耕作时斥牛的话：～的，快跑！  
 1. 【[杀场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_chan.md#杀场)】`shaeh7 chan2` <sup>[兴化]</sup> 旧时处决人犯的场所：王梁一见，开放城门，押着众犯出城，来至～。（《施公案》五四）  
 1. 【[杀得来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_deh_lae.md#杀得来)】`shaeh7 deh lae2` <small>/sæʔ7 təʔ lɛ2/<sup>兴化</sup>, /sæʔ7 təʔ ne2/<sup>泰县</sup></small> ① 旧指兵匪烧杀<sup>\[兴化\]</sup>：“由他去罢！等～再说……”（《广陵潮》二）<sup>\[兴化\]</sup> ② 斥责匆忙或不顾一切的人<sup>\[兴化\]</sup>：你乱冲乱闯的，～噁？<sup>\[兴化\]</sup>｜一斤虾儿几十块，～啊。<sup>\[兴化\]</sup> ③ 急匆匆、急促：你像～的，撞到我身上吖。<sup>\[泰县\]</sup>  
 1. 【[杀断](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_dun.md#杀断)】`shaeh7 dun5` <sup>[如皋]</sup> 果断、决断：他敢下～，大家听他的。  
+1. 【[杀断](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_dun.md#杀断)】`shaeh7 dun5` <sup>[兴化]</sup> 决断：对这件事你要拿出～来，不能戏啊戏的。  
 1. 【[杀咖剥的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_ga_bah_dii.md#杀咖剥的)】`shaeh7 ga bah7 dii` <sup>[东台]</sup> 形容十分凶狠，逼得很紧。  
 1. 【[杀家窝子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_ga_u_zz.md#杀家窝子)】`shaeh7 ga1 u1 zz` <sup>[东台]</sup> 指窝里斗，内耗。  
 1. 【[杀火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_hu.md#杀火)】`shaeh7 hu3` <sup>[兴化]</sup> ① 发泄怒气：可庄里传出的闲言碎语，孙喜高听得，像滚油煎心，便拿女儿～……（马春阳《父女双婚事》） ② 满足欲念：温水烫脚不～。｜（一娘）打熬不过，未免来寻丑驴～。（《梼杌闲评》二）  
