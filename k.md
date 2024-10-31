@@ -364,7 +364,7 @@
 1. 【[口不应心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_beh_ien_xien.md#口不应心)】`keu3 beh7 ien5 xien1` <small>/kʰɤ3 pəʔ7 in5 ɕin1/<sup>兴化</sup>, /kʰəɪ3 pəʔ7 iŋ5 ɕiŋ1/<sup>泰兴</sup></small> 口中说的与心里想的不一致<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：他说话经常～，覅信他。<sup>\[兴化\]</sup>｜官人，你昨夜恁般说了，却又～……（《醒世恒言》八）<sup>\[兴化\]</sup>  
 1. 【[口边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_bin.md#口边)】`keu3 bin` <sup>[兴化]</sup> 靠近外面的地方。  
 1. 【[口边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_bin.md#口边)】`keu3 bin1` <small>/kʰei3 pĩ1/<sup>如皋</sup></small> ① 外边。<sup>\[如东\]</sup>：你坐啊～。<sup>\[如东\]</sup> ② 外边、靠近外边的地方。<sup>\[如皋\]</sup> ③ 嘴旁边：他～有颗痣。<sup>\[如皋\]</sup>  
-1. 【[口察](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_cae.md#口察)】`keu3 cae` <sup>[如皋]</sup> 口感：这道菜～不丑。  
+1. 【[口才](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_cae.md#口才)】`keu3 cae` <sup>[如皋]</sup> 口感：这道菜～不丑。  
 1. 【[口才](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_cae.md#口才)】`keu3 cae` <sup>[东台]</sup> 味道：三仓西瓜～不丑。（作此义时“才”轻读）  
 1. 【[口才](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_cae.md#口才)】`keu3 cae2` <small>/kʰɤ3 t͡sʰɛ2/<sup>兴化</sup></small> ① 说话的才能。<sup>\[如东\]</sup>：这个伢儿的～好。<sup>\[如东\]</sup> ② 莱肴的口味。<sup>\[如东\]</sup>：鲫鱼的～好。<sup>\[如东\]</sup> ③ 口头表达能力。<sup>\[东台\]</sup> ④ 西瓜的口味<sup>\[兴化\]</sup>：西瓜～蛮好。<sup>\[兴化\]</sup>  
 1. 【[口彩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_cae.md#口彩)】`keu3 cae3` <sup>[东台]</sup> 吉利话、顺遂话：把猪、牛舌叫“招财”，选数字“8”谐音“发”，都是为啊讨个～。  
