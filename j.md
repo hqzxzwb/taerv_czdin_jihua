@@ -746,7 +746,7 @@
 1. 【[筋骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gueh.md#筋骨)】`jien1 gueh7` <sup>[如东]</sup> 筋肉与骨骼。泛指体格：～好。  
 1. 【[筋皮里骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_pi_li_gueh.md#筋皮里骨)】`jien1 pi2 li3 gueh7` <sup>[如皋]</sup> 引指最精细深入的知识、经验。  
 1. 【[筋韧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_ren.md#筋韧)】`jien1 ren6` <sup>[如东]</sup> 柔软而有韧性：这种面条～。  
-1. 【[筋饪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_ren.md#筋饪)】`jien1 ren6` <sup>[如皋]</sup> ① 食品柔韧而有弹性，耐嚼而不粘牙：馒头做得好，吃起来有～。 ② 喻品味、内涵：这篇文章细读起来还是蛮有～的。  
+1. 【[筋韧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_ren.md#筋韧)】`jien1 ren6` <sup>[如皋]</sup> ① 食品柔韧而有弹性，耐嚼而不粘牙：馒头做得好，吃起来有～。 ② 喻品味、内涵：这篇文章细读起来还是蛮有～的。  
 1. 【[筋拽拽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zhuae_zhuae.md#筋拽拽)】`jien1 zhuae5 zhuae5` <sup>[兴化]</sup> 形容食物有韧性：精面馒头一咬～的。  
 1. 【[粳谷奴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_goh_nv.md#粳谷奴)】`jien1 goh7 nv2` <sup>[如东]</sup> 水稻感染稻曲拟黑粉菌后的果穗。  
 1. 【[粳米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_mi.md#粳米)】`jien1 mi3` <sup>[如东]</sup> 禾本科植物粳稻的种仁。  
