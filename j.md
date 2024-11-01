@@ -850,7 +850,7 @@
 1. 【[金圈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_qiun_r.md#金圈<sub>儿</sub>)】`jien1 qiun1 r` <small>/t͡ɕiəŋ1 t͡ɕʰyʊ˞1/<sup>如皋</sup></small> ① 金耳环。<sup>\[如东\]</sup> ② 金耳环。<sup>\[如皋\]</sup>  
 1. 【[金圣叹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_shen_taen.md#金圣叹)】`jien1 shen5 taen5` <sup>[如东]</sup> 明末清初文学评论家。比喻喜欢评论、批评的人：他是个～。  
 1. 【[金手镯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_sheu_chuah.md#金手镯)】`jien1 sheu3 chuah8` <sup>[如东]</sup> 手镯的一种。以金为原料制成的手镯。  
-1. 【[金手练](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_sheu_lin.md#金手练)】`jien1 sheu3 lin6` <sup>[如东]</sup> 手练的一种。金制，环形纹，套在手腕上，象征富贵。  
+1. 【[金手链](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_sheu_lin.md#金手链)】`jien1 sheu3 lin6` <sup>[如东]</sup> 手链的一种。金制，环形纹，套在手腕上，象征富贵。  
 1. 【[金狮子，银哈巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_shr_zz_ien_ha_ba.md#金狮子，银哈巴)】`jien1 shr1 zz ien2 ha1 ba` <sup>[兴化]</sup> 泛指金银财宝：你出门有甚的不放心的，怕～捱人偷啊？  
 1. 【[金狮子银哈巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_shr_zz_ien_ha_ba.md#金狮子银哈巴)】`jien1 shr1 zz ien2 ha1 ba1` <sup>[如皋]</sup> 金狮银狗，喻极其珍爱贵重的私人藏品。  
 1. 【[金头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_teu.md#金头)】`jien1 teu` <sup>[如东]</sup> 帆船船头上部连接船体两边大栏的一根横木，一般采用榆树、榉树或其他硬木制成，起收紧船头的作用。  
