@@ -705,7 +705,7 @@
 1. 【[鲫鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_y.md#鲫鱼)】`jieh7-jieu5 y2` <sup>[东台]</sup> 中国四大淡水鱼之一：青、白、鲤、～。东台～资源丰富，传统面点“白汤面”，就是用野生～熬汤制作而成。  
 1. 【[鲫鱼荷包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_y_hu_bo.md#鲫鱼荷包)】`jieh7-jieu5 y2 hu2 bo1` <sup>[东台]</sup> 将鲫鱼剖开，腹中包裹猪肉糜红煮而成的菜肴。  
 1. 【[□头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_teu.md#□头)】`jien1 teu2` <sup>[如皋]</sup> 奶水突然喷涌。如皋词典写“痉头”。  
-1. 【[京江䭣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gan_qi.md#京江䭣)】`jien1 gan1 qi2` <small>/t͡ɕiŋ1 kɑŋ1 t͡sʰɿ2/<sup>泰县</sup></small> ① 一种用面制成的熟食品，有甜、咸两种口味。因原产地在镇江，故名～。<sup>\[东台\]</sup> ② 一种面粉制的六角形茶食。<sup>\[泰县\]</sup>  
+1. 【[京江粸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gan_qi.md#京江粸)】`jien1 gan1 qi2` <small>/t͡ɕiŋ1 kɑŋ1 t͡sʰɿ2/<sup>泰县</sup></small> ① 一种用面制成的熟食品，有甜、咸两种口味。因原产地在镇江，故名～。<sup>\[东台\]</sup> ② 一种面粉制的六角形茶食。<sup>\[泰县\]</sup>  
 1. 【[京缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gan.md#京缸)】`jien1 gan1` <sup>[兴化]</sup> 一种表、里涂釉的大缸。  
 1. 【[京果粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gu_fen.md#京果粉)】`jien1 gu3 fen3` <sup>[兴化]</sup> 一种传统方便食品。由京果碾成粉末状，用开水冲泡后食用。也称“果屑子”。  
 1. 【[京果<sub>儿</sub>粉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gu_r_fen_zz.md#京果<sub>儿</sub>粉子)】`jien1 gu3 r fen3 zz` <sup>[如皋]</sup> 一种粉状茶食，供泡食。  
