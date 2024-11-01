@@ -725,7 +725,7 @@
 1. 【[惊冻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_don.md#惊冻)】`jien1 don5` <sup>[如皋]</sup> 因温度降低到觉得冷时的一抖。  
 1. 【[惊觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gah.md#惊觉)】`jien1 gah` <sup>[兴化]</sup> 被突然刺激（如响动、梦魇等）所惊醒：睡到四更时分，门外一片声大贼，两弟兄一齐～……（《儒林外史》四五）｜（黄）飞虎猛然一，那灯光依旧复明。（《封神演义》三二）  
 1. 【[惊𠵹神𠵹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gan_shen_gan.md#惊𠵹神𠵹)】`jien1 gan1 shen2 gan1` <sup>[东台]</sup> 形容过分张扬，弄得沸沸扬扬，惊动许多人。  
-1. 【[惊哈把蹊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_ha_ba_qi.md#惊哈把蹊)】`jien1 ha1 ba3 qi1` <sup>[东台]</sup> 形容大惊小怪的样子。  
+1. 【[惊哈把攲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_ha_ba_qi.md#惊哈把攲)】`jien1 ha1 ba3 qi1` <sup>[东台]</sup> 形容大惊小怪的样子。  
 1. 【[惊慌失措](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_huan_sheh_cv.md#惊慌失措)】`jien1 huan1 sheh7 cv5` <sup>[如东]</sup> 因为紧张而忘记采取适当的措施：不要～。  
 1. 【[惊惊怵怵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_jien_chueh_chueh.md#惊惊怵怵)】`jien1 jien1 chueh7 chueh7` <sup>[兴化]</sup> 恐惧不安的样子：听说附近出咖命案，吓得他几个晚上～的。  
 1. 【[惊惊憷憷的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_jien_chv_chv_dii.md#惊惊憷憷的)】`jien1 jien1 chv5 chv5 dii` <sup>[如皋]</sup> ① 恐惧不安状。 ② 轻度痉挛。  
