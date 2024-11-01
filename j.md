@@ -834,7 +834,7 @@
 1. 【[金贵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_guei.md#金贵)】`jien1 guei5` <sup>[东台]</sup> 娇贵：我还没得那吖～，一点儿小病是拖不倒的。  
 1. 【[金贵起来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_guei_qi_lae_a.md#金贵起来啊)】`jien1 guei5 qi3 lae a` <sup>[如皋]</sup> 身价高起来了，变得精明富贵了。  
 1. 【[金鼓齐号](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gv_qi_ho.md#金鼓齐号)】`jien1 gv3 qi2 ho6` <sup>[如东]</sup> ① 锣与鼓一起响起来。 ② 比喻大声地说话：你俫在下说甚的，～的。  
-1. 【[金项练](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_han_lin.md#金项练)】`jien1 han6 lin6` <sup>[如东]</sup> 项练的一种。金制，环形纹，套在脖子上，垂挂在胸前，象征富贵。  
+1. 【[金项链](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_han_lin.md#金项链)】`jien1 han6 lin6` <sup>[如东]</sup> 项链的一种。金制，环形纹，套在脖子上，垂挂在胸前，象征富贵。  
 1. 【[金银花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_ien_hua.md#金银花)】`jien1 ien2 hua1` <sup>[如东]</sup> 忍冬科植物忍冬的花蕾。  
 1. 【[金元宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_iun_bo.md#金元宝)】`jien1 iun2 bo3` <sup>[如东]</sup> 中国旧时钱币的一种名称。金元宝一般供保藏，极少流通。  
 1. 【[金橘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_jyeh.md#金橘)】`jien1 jyeh7` <sup>[如东]</sup> 芸香科植物金橘，常绿乔木，高约3米。枝密生，通常无刺。  
