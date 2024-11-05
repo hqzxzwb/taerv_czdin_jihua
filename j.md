@@ -189,7 +189,7 @@
 1. 【[鬾报子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_bo_zz.md#鬾报子)】`ji5 bo5 zz` <sup>[如皋]</sup> 见“鬾”。  
 1. 【[鬾报子话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_bo_zz_hua.md#鬾报子话)】`ji5 bo5 zz hua6` <sup>[如皋]</sup> 反悔的话。抱怨对方不好好回报。  
 1. 【[鬾二爹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_er_dia.md#鬾二爹)】`ji5 er6 dia1` <sup>[如皋]</sup> 见“鬾”。  
-1. 【[鯚花鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_hua_y.md#鯚花鱼)】`ji5 hua y2` <small>/t͡ɕi5 xua y2/<sup>兴化</sup>, /t͡ɕʝ5 xua y2/<sup>如皋</sup></small> ① 鳜（桂）鱼<sup>\[兴化\]</sup>：～不用整条的，只取两块嘴后腮边眼下蒜瓣肉。（汪曾祺《金冬心》）<sup>\[兴化\]</sup> ② 鳜鱼<sup>\[如皋\]</sup>  
+1. 【[鯚花鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_hua_y.md#鯚花鱼)】`ji5 hua y2` <small>/t͡ɕi5 xua y2/<sup>兴化</sup>, /t͡ɕʝ5 xua y2/<sup>如皋</sup></small> 鳜鱼<sup>\[兴化\]</sup><sup>\[如皋\]</sup>：～不用整条的，只取两块嘴后腮边眼下蒜瓣肉。（汪曾祺《金冬心》）<sup>\[兴化\]</sup>  
 1. 【[鯚花鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_hua_y.md#鯚花鱼)】`ji5 hua1 y2` <sup>[东台]</sup> 又叫鳜鱼、桂鱼，是淡水鱼中的名贵鱼类，肉质纯白细嫩，味道鲜美可口。  
 1. 【[鯚婆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_pu_zz.md#鯚婆子)】`ji5 pu2 zz` <sup>[如皋]</sup> 鳜鱼。又称鯚花鱼。  
 1. 【[𪊆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#𪊆)】`ji5` <sup>[如东]</sup> 一种腌制方法。鲜鱼、虾、菜，加少许盐，腌渍一会儿，即可食。  

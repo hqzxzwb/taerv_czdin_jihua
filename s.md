@@ -1737,7 +1737,6 @@
 1. 【[善和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shin_hu.md#善和)】`shin6 hu` <sup>[兴化]</sup> 形容性情温和：“……其实，俺妈在这里头算是顶～的哩……”（《老残游记》十三）  
 1. 【[善门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shin_men.md#善门)】`shin6 men2` <sup>[东台]</sup> ［喻］行善开了口子，有了先例：这个～一开许多人受益，但也可能引起攀比。  
 1. 【[善门难开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shin_men_naen_kae.md#善门难开)】`shin6 men2 naen2 kae1` <sup>[兴化]</sup> （喻）好事难做，好人难当：最近帮吖几位穷乡邻，不想有钱的也来告贷，真是～。｜“……我们来救了一个，不救一个，他们打架了，这叫～。”（扬一《通天河》）  
-1. 【[梢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho.md#梢)】`sho1` <sup>[泰州]</sup> 蹬：晚上同他睏一个被单，腰上捱他～啊一脚。｜这个泼妇望地下一仰，两条腿子直～唻。  
 1. 【[梢把<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_ba_r.md#梢把<sub>儿</sub>)】`sho1 ba3 r` <sup>[如东]</sup> 装在犁梢上的木柄。  
 1. 【[梢瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_gua.md#梢瓜)】`sho1 gua1` <small>/sɔ1 kua1/<sup>兴化</sup></small> ① 菜瓜。见《本草纲目》。<sup>\[东台\]</sup> ② 即越瓜、葫芦科，为甜瓜的一个变种。瓠果圆筒形，较长，前端略粗，表面有瓦垄般隆起的条痕。瓜成熟后可生吃、凉拌菜，但主要用作腌菜或酱菜。<sup>\[兴化\]</sup>  
 1. 【[梢身大汉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_shen_da_hun.md#梢身大汉)】`sho1 shen1 da6 hun5` <sup>[如东]</sup> 形容人的身体高大：他是个～，还怕你啊！  
@@ -2714,7 +2713,7 @@
 1. 【[竖在](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_zae.md#竖在)】`shv6 zae` <sup>[泰县]</sup> 无论如何，反正：～我要去。  
 1. 【[竖砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_zhun.md#竖砖)】`shv6 zhun1` <sup>[如皋]</sup> 长边向上砌的砖。  
 1. 【[嗾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so.md#嗾)】`so1` <sup>[泰州]</sup> 发出使狗咬人的声音：老远就听见他～啊～的唤狗子。  
-1. 【[搔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so.md#搔)】`so1` <small>/sɔ1/<sup>泰县</sup></small> 蹬（脚）<sup>\[如东\]</sup><sup>\[泰县\]</sup>：鸡子死前脚乱～<sup>\[如东\]</sup>｜鸡子死前脚直～。<sup>\[泰县\]</sup>  
+1. 【[搔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so.md#搔)】`so1` <small>/sɔ1/<sup>泰县</sup></small> 蹬<sup>\[如东\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：鸡子死前脚乱～<sup>\[如东\]</sup>｜鸡子死前脚直～。<sup>\[泰县\]</sup>｜晚上同他睏一个被单，腰上捱他～啊一脚。<sup>\[泰州\]</sup>｜这个泼妇望地下一仰，两条腿子直～唻。<sup>\[泰州\]</sup>  
 1. 【[搔搔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_so.md#搔搔)】`so1 so1` <sup>[如东]</sup> 寻，找：今朝我也出去～。  
 1. 【[搔腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_tuei.md#搔腿)】`so1 tuei3` <sup>[兴化]</sup> ① 两腿不停地蹬来蹬去：他仰吖地下～。 ② （贬）死亡前的挣扎。  
 1. 【[搔心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_xien.md#搔心)】`so1 xien1` <sup>[兴化]</sup> 使人心动当真：他这几句～话把小徐弄得神魂颠倒的。｜人家是老实人，你覅玩～。  

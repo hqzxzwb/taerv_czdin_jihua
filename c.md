@@ -1488,9 +1488,9 @@
 1. 【[出路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chueh_lv.md#出路)】`chueh7 lv6` ① 封闭建筑物的对外通道<sup>\[泰州\]</sup>：他家这个房子的～不好。<sup>\[泰州\]</sup> ② 发展的途径或者摆脱逆境的门路<sup>\[泰州\]</sup>：以前男的最好的～就是参军。<sup>\[泰州\]</sup>  
 1. 【[出麻巴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chueh_ma_ba_r.md#出麻巴<sub>儿</sub>)】`chueh7 ma2 ba1 r` <sup>[如东]</sup> 出现问题：这次下网出咖麻巴儿。  
 1. 【[出梅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chueh_mei.md#出梅)】`chueh7 mei2` <small>/t͡sʰuəʔ7 məi2/<sup>兴化</sup></small> ① 过了梅雨季节。<sup>\[东台\]</sup> ② 也作“出霉”，即过了梅雨季节。<sup>\[兴化\]</sup>  
+1. 【[出梅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chueh_mei.md#出梅)】`chueh7 mei2` 梅雨季节结束。<sup>\[泰州\]</sup>  
 1. 【[出门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chueh_men.md#出门)】`chueh7 men2` <small>/t͡sʰuəʔ7 mən2/<sup>兴化</sup>, /t͡sʰuəʔ7 məŋ2/<sup>如皋</sup></small> ① 外出。<sup>\[如东\]</sup> ② 到很远的地方去。<sup>\[如东\]</sup> ③ 出嫁<sup>\[如皋\]</sup>：女儿腊月里～。<sup>\[如皋\]</sup> ④ 离家外出。<sup>\[如皋\]</sup> ⑤ 外出。<sup>\[东台\]</sup> ⑥ 女子出嫁。<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：老李女儿～，后朝的日子。<sup>\[兴化\]</sup>｜他家三姑娘这个月八号～。<sup>\[泰州\]</sup>  
 1. 【[出门看天色，进门看脸色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chueh_men_kun_tin_seh_jien_men_kun_lin_seh.md#出门看天色，进门看脸色)】`chueh7 men2 kun5 tin1 seh7 jien5 men2 kun5 lin3 seh7` <sup>[东台]</sup> 外出要知气象，作客或办事要知主人态度。  
-1. 【[出梅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chueh_mi.md#出梅)】`chueh7 mi2` 梅雨季节结束。<sup>\[泰州\]</sup>  
 1. 【[出名](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chueh_mien.md#出名)】`chueh7 mien2` <sup>[如东]</sup> 在外面有名声。  
 1. 【[出苗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chueh_mio.md#出苗)】`chueh7 mio2` <sup>[如皋]</sup> 雄性动物阴茎勃起（伸出来）。  
 1. 【[出纰漏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chueh_pi_leu.md#出纰漏)】`chueh7 pi1 leu6` <sup>[如东]</sup> ① 出差错。 ② 闯祸。  
