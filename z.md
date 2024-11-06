@@ -1322,7 +1322,6 @@
 1. 【[纸扎匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_zhaeh_qian.md#纸扎匠)】`zhr3 zhaeh7 qian6` <sup>[如皋]</sup> 制作丧用纸扎品的工匠。  
 1. 【[制服](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_foh.md#制服)】`zhr5 foh8` <sup>[东台]</sup> 通过管制使对方降服。  
 1. 【[炙熬熬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ngo_ngo.md#炙熬熬)】`zhr5 ngo2 ngo2` <sup>[兴化]</sup> 形容炎热：太阳晒得～的。  
-1. 【[炙熬熬的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ngo_ngo_dii.md#炙熬熬的)】`zhr5 ngo2 ngo2 dii` <sup>[东台]</sup> 形容像受烘烤、熬煎一样热得难受，通常在句末作补语：大家捱太阳晒得～。  
 1. 【[痣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr.md#痣)】`zhr5` <small>/t͡sɿ5/<sup>如皋</sup></small> ① 器物上微小损伤的痕迹<sup>\[如皋\]</sup>：碗上有块～。<sup>\[如皋\]</sup> ② 皮肤上隆起的有色斑点。<sup>\[泰州\]</sup>  
 1. 【[置](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr.md#置)】`zhr5` <sup>[如皋]</sup> 添置大件、成批物件：～家私、～嫁妆。  
 1. 【[置家如置骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ga_rv_zhr_gueh.md#置家如置骨)】`zhr5 ga1 rv2 zhr5 gueh7` <sup>[东台]</sup> 添置家俬，扩大家业像长骨头一样艰难。  
@@ -1339,6 +1338,7 @@
 1. 【[致](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr.md#致)】`zhr5` <sup>[如皋]</sup> 得（后遗症）：坐月子～下来的讲究（病）难得好。  
 1. 【[致诚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_chen.md#致诚)】`zhr5 chen2` <sup>[如东]</sup> 老实，真心：老人家～。  
 1. 【[𢴠<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_r.md#𢴠<sub>儿</sub>)】`zhr5 r` <small>/t͡sɿ5 ɚ/<sup>兴化</sup>, /t͡sɿ˞5/<sup>如皋</sup></small> ① 等长标识物<sup>\[如皋\]</sup>：拿篾子掐个～去买锅子。<sup>\[如皋\]</sup> ② 表示长短的标志物<sup>\[兴化\]</sup>：草～。<sup>\[兴化\]</sup> ③ 在墙壁、河岸等处刻画表示高度、长度的记号或在器物上表示分量的符号。𢴠，《集韵·至韵》直利切，持物使相当也。通常写作“志儿”。<sup>\[兴化\]</sup>  
+1. 【[𤈜熬熬的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ngo_ngo_dii.md#𤈜熬熬的)】`zhr5 ngo2 ngo2 dii` <sup>[东台]</sup> （词典作炙，反切不合）形容像受烘烤、熬煎一样热得难受，通常在句末作补语：大家捱太阳晒得～。  
 1. 【[抓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua.md#抓)】`zhua1` <sup>[泰州]</sup> 用指甲或带齿的东西在皮肤上划过：我背脊心有点儿痒，你同我～啊子。  
 1. 【[抓不上手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_beh_shan_sheu.md#抓不上手)】`zhua1 beh7 shan6 sheu3` <sup>[如皋]</sup> ① 不值得抓。 ② 难抓。  
 1. 【[抓不上手，沰不上墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_beh_shan_sheu_dah_beh_shan_qian.md#抓不上手，沰不上墙)】`zhua1 beh7 shan6 sheu3 dah7 beh7 shan6 qian2` <small>/t͡sua1 pəʔ7 sã1 sei3 taʔ7 pəʔ7 sã1 t͡ɕʰiã2/<sup>如皋</sup></small> ① 形容无用，实在扶不起来。<sup>\[东台\]</sup> ② 形容品质太差，不堪理会。<sup>\[如皋\]</sup>  
