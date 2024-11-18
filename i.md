@@ -169,6 +169,7 @@
 1. 【[衙门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_men.md#衙门)】`ia2 men` <sup>[如东]</sup> 旧时官员办公的机关。  
 1. 【[雅趣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_qy.md#雅趣)】`ia2 qy` <sup>[兴化]</sup> 娇气：你真～，一点儿苦不能吃。  
 1. 【[雅序](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_xy.md#雅序)】`ia2 xy` <sup>[东台]</sup> ① （褒）清爽、整洁、高雅。 ② （贬）过分讲究衣着、起居，难伺候。（这里“雅”读阳平）  
+1. 【[也](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia.md#也)】`ia3` 也、亦  
 1. 【[野](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia.md#野)】`ia3` <small>/ia3/<sup>如皋</sup></small> ① 偏题<sup>\[如皋\]</sup>：他说咖～掉啊，不曾对到题目。<sup>\[如皋\]</sup> ② 疏远、不融洽<sup>\[如皋\]</sup>：两个人的关系越处越～。<sup>\[如皋\]</sup> ③ 不驯服。<sup>\[如东\]</sup>：这头牛～。<sup>\[如东\]</sup> ④ 规定的圆口拉宽了或变形了。<sup>\[如东\]</sup>：衣领子拉～啊。<sup>\[如东\]</sup> ⑤ 野外，自然生成的<sup>\[东台\]</sup>：～兔<sup>\[东台\]</sup> ⑥ ［引］蛮不讲理<sup>\[东台\]</sup>：这人说话太～；<sup>\[东台\]</sup> ⑦ ［动］在外面乱跑<sup>\[东台\]</sup>：这个伢儿不晓得～啊哪块去啊。<sup>\[东台\]</sup> ⑧ 悄悄离开<sup>\[泰州\]</sup>：马上就要开饭，他人又不晓得～啊哪块去啊。<sup>\[泰州\]</sup>｜下午的会开的半里半作的，老李人就～掉唻。<sup>\[泰州\]</sup>  
 1. 【[野啊汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_a_tan.md#野啊汤)】`ia3 a tan1` <sup>[如皋]</sup> 下锅汤放得过多。  
 1. 【[野啊心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_a_xien.md#野啊心)】`ia3 a xien1` <sup>[东台]</sup> 心神不定，兴趣外移。  
