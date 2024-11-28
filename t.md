@@ -1865,7 +1865,7 @@
 1. 【[大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#大)】`tu6` <sup>[东台]</sup> ～小（大儿子）｜～爹（大爷）｜～婆娘（排行老大的女人）｜～拇指头（大拇指）。  
 1. 【[大板床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_baen_chuan.md#大板床)】`tu6 baen3 chuan2` <sup>[如皋]</sup> 见“牛栏床”。  
 1. 【[大爹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_dia.md#大爹)】`tu6 dia1` <sup>[东台]</sup> 大爷  
-1. 【[大家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_jia.md#大家)】`tu6 jia1` <sup>[泰兴]</sup> 元配夫人。  
+1. 【[大家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_ga.md#大家)】`tu6 ga1` <sup>[泰兴]</sup> 元配夫人。  
 1. 【[大婆娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_pu_nian.md#大婆娘)】`tu6 pu2 nian2` <sup>[东台]</sup> 长房女主人  
 1. 【[大人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_ren.md#大人)】`tu6 ren` <small>/tʰɤɯ1 ɻəŋ/<sup>泰兴</sup></small> 长辈<sup>\[泰兴\]</sup>  
 1. 【[大小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_xio.md#大小)】`tu6 xio3` <small>/tʰo6 ɕiɔ3/<sup>兴化</sup>, /tʰo1 ɕiɔ3/<sup>泰县</sup></small> 老大、大儿子、长子<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[东台\]</sup>：我家～在南京工作。<sup>\[兴化\]</sup>  
