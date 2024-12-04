@@ -8,3 +8,9 @@ er6 beh7 len6 den1 dii
 er6 beh7 len6 den1
 > 泰兴方言辞典
 - 愣乎乎的样子
+
+# 二不倰僜
+er6 beh len2 den1
+> 泰州方言词典4
+- 傻乎乎的样子
+  - 他就是个～的脾家，你不要惹他。

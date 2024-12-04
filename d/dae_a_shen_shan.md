@@ -7,3 +7,9 @@ dae5 a shen1 shan6
 dae5 a shen1 shan
 > 东台方言词典
 - 怀孕了，也叫“双吖身”。
+
+# 带啊身上
+dae5 a shen1 shan
+> 泰州方言词典4
+- 妇女怀孕
+  - 她～已经有好几个月唻。

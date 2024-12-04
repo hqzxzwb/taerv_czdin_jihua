@@ -7,3 +7,8 @@ maen2 v loh8 tin1
 maen2 v3 loh8 tin1
 > 泰县方言志
 - 蛮横。
+
+# 蛮无六天
+maen2 v2 loh8 tin1
+> 泰州方言词典4
+- 粗野蛮横到了极点。

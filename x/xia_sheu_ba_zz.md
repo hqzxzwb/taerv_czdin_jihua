@@ -11,3 +11,9 @@ xia6 sheu3 ba3 zz
 兴化xia6 sheu ba3 zz
 泰县xia5 sheu3 ba3 zz
 -->
+
+# 下手把子
+xia6 sheu3 ba3 zz
+> 泰州方言词典4
+- 指高明手艺人的助手，主要从事非关键性技术工作的人
+  - 他到人家去做活技从来不带～。

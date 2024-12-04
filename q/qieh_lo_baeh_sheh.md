@@ -12,3 +12,9 @@ qieh7 lo baeh7 sheh
 qieh7 lo3 baeh7 sheh8/sheh dii
 > 如皋方言词典
 - 年老，到了老年时。
+
+# 七老八十
+qieh7 lo3 baeh7 sheh8
+> 泰州方言词典4
+- 人之年纪很老
+  - 你说你啊，还不曾～就龙钟得这形象。

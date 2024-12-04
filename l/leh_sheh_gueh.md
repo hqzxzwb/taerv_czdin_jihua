@@ -19,3 +19,9 @@ leh8 sheh8 gueh7
 leh8 sheh gueh
 > 泰县方言志
 - 肋骨。
+
+# 肋什骨
+leh8 sheh gueh7
+> 泰州方言词典4
+- 肋骨
+  - 他出咖车祸，捱汽车撞吖断掉三根～。
