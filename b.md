@@ -183,7 +183,7 @@
 1. 【[摆理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_li.md#摆理)】`bae3 li3` <sup>[兴化]</sup> 闹纠纷的一方或双方，向别人诉说理由：陈家小两口斗嘴，丈母娘一到争吖～。  
 1. 【[摆脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_lin.md#摆脸)】`bae3 lin3` <sup>[如皋]</sup> 脸挂下来给人看。  
 1. 【[摆脸色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_lin_seh.md#摆脸色)】`bae3 lin3 seh7` <sup>[如皋]</sup> 见“摆脸”。  
-1. 【[摆脸色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_lin_she.md#摆脸色)】`bae3 lin3 she` <sup>[泰州]</sup> 脸上故意显示冷漠之类表情以表示冷淡、生气：又是哪个惹啊她，一进门就望吖她～。  
+1. 【[摆脸色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_lin_seh.md#摆脸色)】`bae3 lin3 seh7` <sup>[泰州]</sup> 脸上故意显示冷漠之类表情以表示冷淡、生气：又是哪个惹啊她，一进门就望吖她～。  
 1. 【[摆老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_lo.md#摆老)】`bae3 lo3` <small>/pɛ3 lɔ3/<sup>兴化</sup>, /pɛ3 lɔ3/<sup>如皋</sup></small> ① 见“摆方子”。<sup>\[如皋\]</sup> ② 自吹自插。<sup>\[兴化\]</sup> ③ 作没有把握的许诺<sup>\[兴化\]</sup>：这件事不一定成功，你覅忙～。<sup>\[兴化\]</sup>  
 1. 【[摆老贤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_lo_xin.md#摆老贤)】`bae3 lo3 xin2` <sup>[如皋]</sup> 见“摆方子”。  
 1. 【[摆弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_lon.md#摆弄)】`bae3 lon6` <sup>[兴化]</sup> 从事某项工作：他～电脑内行，我不行。  
@@ -495,8 +495,6 @@
 1. 【[……不拉哈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_la_ha.md#……不拉哈)】`beh la1 ha1` 跟在单字形容词之后，用作生动形式：黄～；黑～；酸～。  
 1. 【[……不剌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_laeh.md#……不剌)】`beh laeh` <small>/pəʔ læʔ/<sup>兴化</sup>, /pəʔ leʔ/<sup>如皋</sup>, /pəʔ læʔ/<sup>泰兴</sup>, /pəʔ næʔ/<sup>泰县</sup></small> 跟在双字形容词之后，用作生动形式。<sup>\[泰兴\]</sup>：小气～；钝事～。｜小气～的<sup>\[泰兴\]</sup>｜腥气～的<sup>\[泰兴\]</sup>｜麻人～的<sup>\[泰兴\]</sup>｜污糟～的<sup>\[泰兴\]</sup>  
 1. 【[不罢妥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_ba_tu.md#不罢妥)】`beh7 ba5 tu3` <sup>[如皋]</sup> 不肯原谅而休止罢消。  
-1. 【[不为过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_bei_gu.md#不为过)】`beh7 bei2 gu5` <sup>[泰州]</sup> 不算过分或者过头：凭老吴的能力水平，当个局长都～。｜他是上人，像你这种儿子，他就是打你两下子也～。  
-1. 【[不过意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_bu_i.md#不过意)】`beh7 bu5 i5` <sup>[泰州]</sup> 心理上感到不能通过，意谓对于他人对自己的善意感觉不安：这件事老是麻烦你，真的教人心里～。｜吃顿把饭对我来说是小意思，你不要老说～的话。  
 1. 【[不拨不动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_buh_beh_ton.md#不拨不动)】`beh7 buh7 beh7 ton6` <sup>[兴化]</sup> 形容人缺乏灵性或主动精神：他是属算盘珠的一一～。｜“此话也是，须内里有个人提拨他才好，老头儿有些～哩！”（《梼杌闲评》十）  
 1. 【[不拨不动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_buh_beh_ton.md#不拨不动)】`beh7 buh7 beh7 ton6` <sup>[泰州]</sup> 算盘珠儿，不拨不动，比喻人缺乏主动精神：他这种～的人，你不催住他弄，不行！  
 1. 【[不睬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_cae.md#不睬)】`beh7 cae3` <small>/pəʔ7 t͡sʰɛ3/<sup>兴化</sup></small> ① 不答理。<sup>\[如东\]</sup> ② 不理睬，不答应，拒绝。<sup>\[东台\]</sup> ③ 不理会<sup>\[兴化\]</sup>：我俫跟他说，他根本就～。<sup>\[兴化\]</sup>  
@@ -631,6 +629,7 @@
 1. 【[不公不法](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_gon_beh_faeh.md#不公不法)】`beh7 gon1 beh7 faeh7` <sup>[兴化]</sup> 违背道德和法纪：他仗吖老子的势，常做些～的事。｜那牛皋吃惯了的人，怎熬得清淡，未免做些～的事。（《说岳全传》二一）  
 1. 【[不过意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_gu_i.md#不过意)】`beh7 gu1 i5` 不好意思，过意不去  
 1. 【[不裹嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_gu_jy.md#不裹嘴)】`beh7 gu3 jy3` <sup>[如皋]</sup> 自家人破坏自己的威信：不要看他说嘴叭叭的，他家儿子～，还做贼吤（gae）！  
+1. 【[不过意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_gu_i.md#不过意)】`beh7 gu5 i5` <sup>[泰州]</sup> 心理上感到不能通过，意谓对于他人对自己的善意感觉不安：这件事老是麻烦你，真的教人心里～。｜吃顿把饭对我来说是小意思，你不要老说～的话。  
 1. 【[不过言](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_gu_in.md#不过言)】`beh7 gu5 in2` <small>/pəʔ7 kʊ5 ĩ2/<sup>如皋</sup></small> ① 不把话传开去：我俫～，哪许说哪许消。<sup>\[如皋\]</sup> ② 不传话、不贩话。<sup>\[东台\]</sup>  
 1. 【[不过早晚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_gu_zo_vaen.md#不过早晚)】`beh7 gu5 zo3 vaen3` <sup>[东台]</sup> 时间不会很长。  
 1. 【[不寡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_gua.md#不寡)】`beh7 gua3` <sup>[如东]</sup> 不少：这趟生意～。  
@@ -864,6 +863,7 @@
 1. 【[不外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_vae.md#不外)】`beh7 vae6` <sup>[兴化]</sup> 客套话，不见外，不当外人看：原来是朱医生啊！～～，你们散了罢！（《广陵潮》七九）  
 1. 【[不玩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_vaen.md#不玩)】`beh7 vaen2` <sup>[兴化]</sup> 市井语，不干：他如果这次吃咖苦，下次就～吖。｜这种折本交易他从来～。  
 1. 【[不为](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_vei.md#不为)】`beh7 vei2` <small>/pəʔ7 ʋəɪ2/<sup>泰兴</sup></small> 算不上，算不得<sup>\[泰兴\]</sup>：他说的话～过分/他说的话算不得过分<sup>\[泰兴\]</sup>  
+1. 【[不为过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_vei_gu.md#不为过)】`beh7 vei2 gu5` <sup>[泰州]</sup> 不算过分或者过头：凭老吴的能力水平，当个局长都～。｜他是上人，像你这种儿子，他就是打你两下子也～。  
 1. 【[不为萝卜不挑菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_vei_lu_poh_beh_tio_cae.md#不为萝卜不挑菜)】`beh7 vei2 lu2 poh beh7 tio1 cae5` <sup>[东台]</sup> 喻指特为此事操办。  
 1. 【[不为奇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_vei_qi.md#不为奇)】`beh7 vei2 qi2, beh7 vei0 qi2` <sup>[如皋]</sup> 不费事，轻捷：20公里的路，他骑车子（自行车）～。  
 1. 【[不为奇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_vei_qi.md#不为奇)】`beh7 vei2 qi2` <sup>[泰州]</sup> ① 不算珍奇或者稀奇：你比他的成绩好得多唻，他的总分不过三百多分，～。 ② 不珍惜，不爱惜：这个伢儿东西～，把新手机块块撂。  
@@ -1159,8 +1159,8 @@
 1. 【[兵<sub>儿</sub>猴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_r_heu_zz.md#兵<sub>儿</sub>猴子)】`bien1 r heu2 zz` <sup>[兴化]</sup> 旧时对反动军人的鄙称：那些～一上庄，甚的坏事都做得出。  
 1. 【[冰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien.md#冰)】`bien1` <small>/piɪ̃1/<sup>兴化</sup>, /piəŋ1/<sup>如皋</sup></small> ① 雹。<sup>\[如皋\]</sup> ② 凝结<sup>\[兴化\]</sup>：熟猪油一冷就～起来啊。<sup>\[兴化\]</sup>｜猪血子～起来啊。<sup>\[兴化\]</sup> ③ 使（东西）变凉<sup>\[泰州\]</sup>：你把绿豆汤放吖水里～个盹儿再喝。<sup>\[泰州\]</sup>  
 1. 【[冰㵾人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_chen_ren.md#冰㵾人)】`bien1 chen6 ren` 冰冷的  
+1. 【[冰㵾人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_chen_ren.md#冰㵾人)】`bien1 chen6 ren` <sup>[泰州]</sup> 就像接触冰块时的寒气逼人感觉：水～的，你掺点儿热水再洗。｜被单里头～的，你冲个汤焐子。  
 1. 【[冰㵾人的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_chen_ren_dii.md#冰㵾人的)】`bien1 chen6 ren2 dii` <sup>[如皋]</sup> 像接触冰块一样有冷痛感：他的手脚总是～。  
-1. 【[冰净人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_chen_ren.md#冰净人)】`bien1 chen6 ren` <sup>[泰州]</sup> 就像接触冰块时的寒气逼人感觉：水～的，你掺点儿热水再洗。｜被单里头～的，你冲个汤焐子。  
 1. 【[冰冻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_don.md#冰冻)】`bien1 don5` <sup>[如东]</sup> 非常冷：你的手～的。  
 1. 【[冰锅冷灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_gu_len_zo.md#冰锅冷灶)】`bien1 gu1 len3 zo5` <small>/piŋ1 ko1 nəŋ3 t͡sɔ5/<sup>泰县</sup></small> ① 形容长时间不在家起火，家庭显得冷冷清清。<sup>\[东台\]</sup> ② 冷落：他父亲走啊以后，家里～的。<sup>\[泰县\]</sup>  
 1. 【[冰锅冷灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_gu_len_zo.md#冰锅冷灶)】`bien1 gu1 len3 zo5` <sup>[泰州]</sup> ① 锅灶冰冷，即没有生火或过了吃饭时间：已经中上12点唻，家里还是～的，哪块像个过日子的人家。 ② 比喻家中寥落冷寂，没有生气：他家里就他老头儿一个人，～的，有甚的意思啊？  
