@@ -1926,7 +1926,7 @@
 1. 【[熟张](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_zhan.md#熟张)】`shoh8 zhan1` 麻将术语，已经有人打出过的牌，相对“生张”<sup>\[泰州\]</sup>：二饼是～，你打出去没事。<sup>\[泰州\]</sup>  
 1. 【[赎罪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_qy.md#赎罪)】`shoh8 qy6` <sup>[东台]</sup> 用钱物或行动赎免罪行。  
 1. 【[赎身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_shen.md#赎身)】`shoh8 shen1` <sup>[东台]</sup> 用钱物或其他代价换得人身自由。  
-1. 【[舂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shon.md#舂)】`shon1` <small>/sɔŋ1/<sup>如皋</sup></small> ① （用肘或拳）击打 ② 捣击<sup>\[如皋\]</sup>：他拿高凳头儿～人！<sup>\[如皋\]</sup>｜舂一撉儿。<sup>\[如皋\]</sup> ③ 用碓臼给粮食去壳、精加工：～稻、～米、……。按，舂、磕、臿同为用碓臼加工，但词义用法不同。磕，粉碎：～糏。臿，去杂质：～稻、～米。<sup>\[如皋\]</sup> ④ 状头部偏低<sup>\[如皋\]</sup>：倒～头。<sup>\[如皋\]</sup> ⑤ 推。<sup>\[如东\]</sup>：～他一家伙！<sup>\[如东\]</sup> ⑥ 打。<sup>\[如东\]</sup>：～你的屁股。<sup>\[如东\]</sup>  
+1. 【[舂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shon.md#舂)】`shon1` <small>/sɔŋ1/<sup>如皋</sup></small> ① （用肘或拳）击打 ② 捣击<sup>\[如皋\]</sup><sup>\[如东\]</sup>：他拿高凳头儿～人！<sup>\[如皋\]</sup>｜舂一撉儿。<sup>\[如皋\]</sup>｜～他一家伙！<sup>\[如东\]</sup>｜～你的屁股。<sup>\[如东\]</sup> ③ 用碓臼给粮食去壳、精加工：～稻、～米、……。按，舂、磕、臿同为用碓臼加工，但词义用法不同。磕，粉碎：～糏。臿，去杂质：～稻、～米。<sup>\[如皋\]</sup> ④ 状头部偏低<sup>\[如皋\]</sup>：倒～头。<sup>\[如皋\]</sup>  
 1. 【[舂池](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shon_chr.md#舂池)】`shon1 chr2` <sup>[如皋]</sup> 筑粪池。因有将坑中土捣实的重要工序，故称舂池。  
 1. 【[舂碓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shon_dy.md#舂碓)】`shon1 dy5` <small>/sɔŋ1 ty5/<sup>如皋</sup></small> ① 踏碓<sup>\[如皋\]</sup> ② 把稻子放在石臼里面脱壳，或将米捣碎成粉。<sup>\[东台\]</sup>  
 1. 【[舂粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shon_fen.md#舂粉)】`shon1 fen3` <sup>[泰县]</sup> 用碓制米粉。  
@@ -2873,7 +2873,7 @@
 1. 【[送三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_saen.md#送三)】`son5 saen1` <sup>[如皋]</sup> 新丧三日内，每天去土地庙送饭、化锞的习俗。据说是灵魂暂押庙中，三日后才去地府之故。  
 1. 【[送丧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_san.md#送丧)】`son5 san1` <sup>[如皋]</sup> 给新死者上祭品。  
 1. 【[送顺遂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_shuen_qy.md#送顺遂)】`son5 shuen6 qy6` <sup>[如皋]</sup> 说不吉利的话。  
-1. 【[送死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_sz.md#送死)】`son5 sz3` <small>/soŋ5 sɿ3/<sup>兴化</sup></small> ① （詈语）指衣服<sup>\[东台\]</sup>：你身上的～都望不见布眼吖！<sup>\[东台\]</sup> ② 对衣服等的贬义说法<sup>\[兴化\]</sup>：这几件～穿上身不曾洗过。<sup>\[兴化\]</sup> ③ 自寻死路。<sup>\[泰州\]</sup>  
+1. 【[送死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_sz.md#送死)】`son5 sz3` <small>/soŋ5 sɿ3/<sup>兴化</sup></small> ① （詈语）指衣服<sup>\[东台\]</sup><sup>\[兴化\]</sup>：你身上的～都望不见布眼吖！<sup>\[东台\]</sup>｜这几件～穿上身不曾洗过。<sup>\[兴化\]</sup> ② 自寻死路。<sup>\[泰州\]</sup>  
 1. 【[送死信](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_sz_xien.md#送死信)】`son5 sz3 xien5` <small>/sɔŋ5 sɿ3 ɕiəŋ5/<sup>如皋</sup></small> ① 报死讯的信。<sup>\[如皋\]</sup> ② 由孝子登门告知死讯，下半跪礼；或将烧角书信送（寄）达。凡至亲不漏，而且要极快。<sup>\[如皋\]</sup>  
 1. 【[送汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_tan.md#送汤)】`son5 tan1` 妇女生养坐月子期间，亲戚送去老母鸡之类的可烧汤进补的食物。<sup>\[泰州\]</sup>  
 1. 【[送铜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_ton.md#送铜)】`son5 ton2` <sup>[兴化]</sup> 乱花钱：覅拿公家的钱～。｜你拿我的钱～心不疼。  

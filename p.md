@@ -139,7 +139,7 @@
 1. 【[办饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_faen.md#办饭)】`paen6 faen6` <sup>[兴化]</sup> 做饭：来啊客，赶快～。｜那老者十分欢喜，道了几声“失迎”，又叫童子～。（《西游记》十五）  
 1. 【[办家家<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_ga_ga_r.md#办家家<sub>儿</sub>)】`paen6 ga1 ga1 r` <sup>[如皋]</sup> 儿童玩的一种组织家庭的游戏。过家家。  
 1. 【[办酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_jieu.md#办酒)】`paen6 jieu3` <sup>[如皋]</sup> 操办酒席。  
-1. 【[㗘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah.md#㗘)】`pah7` <small>/pʰaʔ7/<sup>兴化</sup>, /pʰaʔ7/<sup>如皋</sup></small> ① 用双唇取食<sup>\[如皋\]</sup>：支啊桌上～烧饼屑子。<sup>\[如皋\]</sup>｜才开奶的，伢儿的细嘴在奶子上只～。 <sup>\[如皋\]</sup> ② 用嘴吸食<sup>\[兴化\]</sup>：酒𢮎啊桌上吖，他连忙拿嘴去～。<sup>\[兴化\]</sup>｜大狼狗一口把牛肉～下去。《集韵·铎韵》匹各切“～，噍貌。”<sup>\[兴化\]</sup>  
+1. 【[㗘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah.md#㗘)】`pah7` <small>/pʰaʔ7/<sup>兴化</sup>, /pʰaʔ7/<sup>如皋</sup></small> 用双唇取食、用嘴吸食<sup>\[如皋\]</sup><sup>\[兴化\]</sup>：支啊桌上～烧饼屑子。<sup>\[如皋\]</sup>｜才开奶的，伢儿的细嘴在奶子上只～。 <sup>\[如皋\]</sup>｜酒𢮎啊桌上吖，他连忙拿嘴去～。<sup>\[兴化\]</sup>｜大狼狗一口把牛肉～下去。《集韵·铎韵》匹各切“～，噍貌。”<sup>\[兴化\]</sup>  
 1. 【[㗘咖㗘的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_ga_pah_dii.md#㗘咖㗘的)】`pah7 ga pah7 dii` <sup>[东台]</sup> 形容作风飘浮，不踏实。  
 1. 【[㗘话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_hua.md#㗘话)】`pah7 hua6` <sup>[如皋]</sup> 假、大、空的话，神话故事等。  
 1. 【[㗘嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_jy.md#㗘嘴)】`pah7 jy3` <small>/pʰɑʔ7 t͡ɕy3/<sup>泰县</sup></small> ① 指口风不紧，或常说大话的人。<sup>\[东台\]</sup> ② 说大话：他是个～。<sup>\[泰县\]</sup>  
@@ -150,7 +150,7 @@
 1. 【[㗘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_zz.md#㗘子)】`pah7 zz` <sup>[如皋]</sup> 会说假大空的话，不可信的人，不踏实的人。  
 1. 【[㹒羊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_ian.md#㹒羊)】`pah7 ian2` <sup>[如皋]</sup> 公羊。  
 1. 【[㹒牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_ngeu.md#㹒牛)】`pah7 ngeu2` <sup>[如皋]</sup> 雄黄牛。  
-1. 【[䨰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah.md#䨰)】`pah7` <small>/pʰaʔ7/<sup>如皋</sup>, /pʰɑʔ7/<sup>泰县</sup></small> ① 常用作排泄物的量词：一～涎、一～痰、一～屎。<sup>\[如皋\]</sup> ② （量）堆：一～屎。<sup>\[泰县\]</sup> ③ 量词，滩，用于糊状物体<sup>\[泰州\]</sup>：一～屎<sup>\[泰州\]</sup>  
+1. 【[䨰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah.md#䨰)】`pah7` <small>/pʰaʔ7/<sup>如皋</sup>, /pʰɑʔ7/<sup>泰县</sup></small> 量词<sup>\[泰县\]</sup>\[如皋：常用于排泄物\]\[泰州：滩，用于糊状物体\]：一～涎、一～痰、一～屎。<sup>\[如皋\]</sup>｜一～屎<sup>\[泰县\]</sup>｜一～屎<sup>\[泰州\]</sup>  
 1. 【[噗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah.md#噗)】`pah7` <sup>[东台]</sup> 人或动物吃某种东西时，快速吸、喝发出的响声：他泡啊杯新茶，美滋滋的～咖一口。  
 1. 【[噗喥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_tah.md#噗喥)】`pah7 tah` <sup>[兴化]</sup> ① 象声词。东西从高处掉下的声音：碗朝地下一𠫓，～，打碎啊。 ② 关门声：～一声把门关起来。  
 1. 【[粕头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_teu.md#粕头)】`pah7 teu` <small>/pʰaʔ7 tʰɤ/<sup>兴化</sup>, /pʰɑʔ7 tʰɤɯ/<sup>泰县</sup></small> ① 语言中的糟粕。<sup>\[东台\]</sup>：有话好好说，不要带～！<sup>\[东台\]</sup> ② 讲话时口中带脏字眼<sup>\[兴化\]</sup>：当领导的说话带～，素质太差。<sup>\[兴化\]</sup> ③ 得罪人的秽语：他又在下骂～。<sup>\[泰县\]</sup> ④ 比喻粗话、脏话<sup>\[泰州\]</sup>：你嘴里放吖干净点儿，不要带～。<sup>\[泰州\]</sup>｜真的是没得爷娘教导，同人说话，嘴里～𠫓𠫓的。<sup>\[泰州\]</sup>  
