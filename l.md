@@ -35,6 +35,8 @@
 1. 【[拉伢<sub>儿</sub>㞎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_nga_r_ba.md#拉伢<sub>儿</sub>㞎)】`la1 nga2 r ba3` <sup>[如皋]</sup> 见“拉㞎”。  
 1. 【[拉伢<sub>儿</sub>尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_nga_r_xy.md#拉伢<sub>儿</sub>尿)】`la1 nga2 r xy1` <sup>[如皋]</sup> 见“拉尿”。  
 1. 【[拉硬劝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ngen_qiun.md#拉硬劝)】`la1 ngen6 qiun5` <small>/la1 ən6 t͡ɕʰyũ5/<sup>兴化</sup>, /la1 ŋəŋ1 t͡ɕʰyʊ̃5/<sup>如皋</sup></small> ① 以调解为名，实为帮一方打压另一方。<sup>\[如皋\]</sup> ② 表面劝阻双方打架，实际上控制一方，好让另一方动手。<sup>\[东台\]</sup> ③ 明为劝和，暗中却偏护一方，拉偏架<sup>\[兴化\]</sup>：他说你是～的，动不动拉架的和打架的打起来就是这个原因。（扬一《李逵劫法场》）<sup>\[兴化\]</sup>  
+1. 【[拉硬劝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ngen_qiun.md#拉硬劝)】`la1 ngen6 qiun5` <sup>[泰州]</sup> 拉架时有意偏袒一方：望得出来，这家伙明显的是～。  
+1. 【[拉皮条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_pi_tio.md#拉皮条)】`la1 pi2 tio2` <sup>[泰州]</sup> 比喻撮合男女双方不正当的性关系。  
 1. 【[拉纤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_qin.md#拉纤)】`la1 qin5` <sup>[兴化]</sup> 把纤绳放在背上拉。  
 1. 【[拉桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_qio.md#拉桥)】`la1 qio2` <sup>[如皋]</sup> 为船过闸桥而拆卸桥面并收取管理费的过程。  
 1. 【[拉桥班](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_qio_baen.md#拉桥班)】`la1 qio2 baen1` <sup>[如皋]</sup> 旧时管理闸桥拆装的一班人。  
@@ -81,6 +83,7 @@
 1. 【[哪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la.md#哪)】`la3` <small>/na3/<sup>泰县</sup></small> ① 疑问代词。<sup>\[如东\]</sup> ② 难道，哪里：这事～是我做的？<sup>\[泰县\]</sup>  
 1. 【[哪啊咑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_a_da.md#哪啊咑)】`la3 a da3` <sup>[兴化]</sup> （兴化东部乡镇口语）问哪儿去了：冯二家小伙～？  
 1. 【[哪把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ba.md#哪把)】`la3 ba3` <sup>[兴化]</sup> 费力、费时：这吖多的菜～一吃吤！｜这吖多的东西～一搬㖸！  
+1. 【[哪百年的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_boh_nin_dii.md#哪百年的)】`la3 boh7 nin2 dii` <sup>[泰州]</sup> ① 意谓过时：先结婚，后养伢儿，你说的这是～话，现在带啊身上去领结婚证的吓煞人唻！ ② 意谓“无可查考”：我也不晓得同他是～亲，我家老的都不曾听说过。  
 1. 【[哪百年上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_boh_nin_shan.md#哪百年上)】`la3 boh7 nin2 shan` <sup>[如皋]</sup> 年代久远。  
 1. 【[哪百年子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_boh_nin_zz.md#哪百年子)】`la3 boh7 nin2 zz` <sup>[东台]</sup> 对时间太久的夸张说法：那是～的事，哪个记得？  
 1. 【[哪对过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_duei_gu.md#哪对过)】`la3 duei5 gu5` <sup>[如东]</sup> ① 什么地方：东西放吖～？ ② 什么地方的对面。  
@@ -103,6 +106,7 @@
 1. 【[哪一码](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ieh_ma.md#哪一码)】`la3 ieh7 ma3` <sup>[兴化]</sup> 问事由：“罢了，查的～。他又不是那一码，你要挡他做什呀？”（扬二《混城》）  
 1. 【[哪一马对哪一车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ieh_ma_dy_la_ieh_jy.md#哪一马对哪一车)】`la3 ieh7 ma3 dy5 la3 ieh7 jy1` <sup>[东台]</sup> 搞不清头绪，全乱套了。  
 1. 【[哪一门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ieh_men.md#哪一门)】`la3 ieh7 men2` <sup>[兴化]</sup> 用于反诘句，什么、什么道理：有责任我自己负，要他急的～？  
+1. 【[哪一门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ieh_men.md#哪一门)】`la3 ieh7 men2` <sup>[泰州]</sup> 哪一家的，通过疑问表示否定：人家又不是说的你，你生的～的气？｜他是你的～亲啊，我怎吖不曾听你说过的？  
 1. 【[哪有猫<sub>儿</sub>不吃腥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ieu_mo_r_beh_qieh_xien.md#哪有猫<sub>儿</sub>不吃腥)】`la3 ieu3 mo2 r beh7 qieh7 xien1` <sup>[东台]</sup> 讽喻某类人物必然干出某类坏事。  
 1. 【[哪月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_iuh.md#哪月)】`la3 iuh8` <sup>[如东]</sup> 哪一月。  
 1. 【[哪脚下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_jiah_ha.md#哪脚下)】`la3 jiah7 ha` <small>/la3 t͡ɕiaʔ7 xa/<sup>如皋</sup></small> ① 哪里。<sup>\[如东\]</sup> ② 哪儿。<sup>\[如皋\]</sup>  
@@ -144,6 +148,7 @@
 1. 【[来㞎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_ba.md#来㞎)】`lae2 ba3` <sup>[东台]</sup> 将大便拉在身上。  
 1. 【[来不办](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_beh_paen.md#来不办)】`lae2 beh7 paen6` <sup>[东台]</sup> 来不及，也称“来不洎”：“四夏五抢”时，～忙别的。  
 1. 【[来不洎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_beh_qi.md#来不洎)】`lae2 beh7 qi6` <small>/lɛ2 pəʔ7 t͡ɕʰʝ1/<sup>如皋</sup></small> ① 来不及 ② 来不及。<sup>\[如皋\]</sup>  
+1. 【[来不洎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_beh_qi.md#来不洎)】`lae2 beh7 qi6` <sup>[泰州]</sup> 来不及，因时间短促而不能及时做某事：还有20分钟电影就要开演唻，再不去就～唻。  
 1. 【[来膘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_bio.md#来膘)】`lae2 bio1` <sup>[如皋]</sup> 本指畜牲养壮了，趣指人养胖了。  
 1. 【[来宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_bo_r.md#来宝<sub>儿</sub>)】`lae2 bo3 r` <sup>[如东]</sup> 盼来了一个男孩。  
 1. 【[来阵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_chen_zz.md#来阵子)】`lae2 chen6 zz` <sup>[如皋]</sup> 孕妇临产的阵痛发生。  
@@ -196,6 +201,7 @@
 1. 【[来文丑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_ven_cheu.md#来文丑)】`lae2 ven2 cheu3` <sup>[如东]</sup> 来历不好。  
 1. 【[来尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_xy.md#来尿)】`lae2 xy1` <small>/ne2 ɕy1/<sup>泰县</sup></small> ① 遗尿，俗称尿床。<sup>\[东台\]</sup> ② 小孩夜里尿床。<sup>\[泰县\]</sup> ③ 小便失禁。<sup>\[泰州\]</sup>  
 1. 【[来尿宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_xy_bo.md#来尿宝)】`lae2 xy1 bo3` <sup>[东台]</sup> 戏指尿床（遗尿）的人。  
+1. 【[来尿精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_xy_jien.md#来尿精)】`lae2 xy1 jien1` <sup>[泰州]</sup> 谑称常尿床的儿童。  
 1. 【[来哉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_zae.md#来哉)】`lae2 zae` 往来<sup>\[泰州\]</sup>：他同乡里的亲戚十来年不～唻。<sup>\[泰州\]</sup>｜听说他在外头赌钱欠吖不少债，你少同他～。<sup>\[泰州\]</sup>  
 1. 【[来□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_zae.md#来□)】`lae2 zae1` <sup>[兴化]</sup> 来往：他俫两家虽是亲戚，平时不大～。  
 1. 【[咧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae.md#咧)】`lae3` <small>/lɛ3/<sup>兴化</sup>, /lɛ3/<sup>如皋</sup>, /ne3/<sup>泰县</sup></small> ① 展开<sup>\[如皋\]</sup>：～嘴；事情～开来啊。<sup>\[如皋\]</sup> ② 嘴咧开<sup>\[兴化\]</sup>：龇牙～嘴<sup>\[兴化\]</sup>｜嘴笑啊～开来。<sup>\[兴化\]</sup> ③ 嘴大而略扁：他看到鱼，嘴就～下来。<sup>\[泰县\]</sup> ④ 张开嘴巴而略扁<sup>\[泰州\]</sup>：你望他嘴一～，笑得这屈形样子。<sup>\[泰州\]</sup>  
@@ -234,6 +240,7 @@
 1. 【[癞皮狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_pi_geu.md#癞皮狗)】`lae6 pi2 geu3` <sup>[如东]</sup> ① 狗的皮肤上长了许多癞疮。 ② 比喻非常肮脏的人：他像～。 ③ 比喻蛮不讲理的人：他是一个～。  
 1. 【[癞皮<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_pi_r.md#癞皮<sub>儿</sub>)】`lae6 pi2 r` <sup>[如皋]</sup> ① 指银屑病患者的皮屑。 ② 指程度轻的无赖。  
 1. 【[癞葡萄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_pv_to.md#癞葡萄)】`lae6 pv2 to2` <small>/lɛ6 pʰu2 tʰɔ2/<sup>兴化</sup>, /lɛ1 pʰu2 tʰɔ2/<sup>如皋</sup></small> ① 苦瓜。北方人以壳为菜，味苦。本地人吃籽肉，味甜。<sup>\[如皋\]</sup> ② 即苦瓜，葫芦科。果实纺锤形或长圆筒形，表面有榴状凸起，成熟后色赤黄，瓤和种子鲜红，味甜，可食。<sup>\[兴化\]</sup>  
+1. 【[癞葡萄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_pv_to.md#癞葡萄)】`lae6 pv2 to2` <sup>[泰州]</sup> 俗称苦瓜，草本植物，黄花，果实长圆而两头尖，可做蔬菜食用，表面布满瘤壮凸起，爬藤，故名。  
 1. 【[癞乌龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_v_lon.md#癞乌龙)】`lae6 v lon2` <sup>[兴化]</sup> ① 旧时逢干旱，常有迷信的人用泥巴做成身段，蛤壳作鳞，使成“龙”状，俗称～，用来祈雨。 ② （喻）不爱整洁的人：像个～。  
 1. 【[癞屑<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_xih_r.md#癞屑<sub>儿</sub>)】`lae6 xih7 r` <sup>[如皋]</sup> 见“癞皮儿”。  
 1. 【[癞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_zz.md#癞子)】`lae6 zz` <sup>[东台]</sup> 身上长癣的人。  
@@ -243,6 +250,7 @@
 1. 【[赖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae.md#赖)】`lae6` ① 不承认。<sup>\[如东\]</sup>：你不要～啊。<sup>\[如东\]</sup> ② 抵赖<sup>\[泰州\]</sup>：我亲眼看见你先大人的，你还想～啊。<sup>\[泰州\]</sup> ③ 身体向下或向后坠<sup>\[泰州\]</sup>：他把屁股～下来，你拉不动他。<sup>\[泰州\]</sup> ④ 耍赖留在某处不离开<sup>\[泰州\]</sup>：你～啊这块不走，人家店里不能不关门吖。<sup>\[泰州\]</sup>  
 1. 【[赖擦花<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_caeh_hua_r.md#赖擦花<sub>儿</sub>)】`lae6 caeh7 hua1 r` <sup>[泰县]</sup> 故意模糊界限。  
 1. 【[赖贼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_ceh.md#赖贼)】`lae6 ceh8` 游戏时偷牌、反悔的行为<sup>\[泰州\]</sup>：大家打牌打啊玩的，你～就没得意思唻。<sup>\[泰州\]</sup>  
+1. 【[赖贼痞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_ceh_pi.md#赖贼痞)】`lae6 ceh8 pi3` <sup>[泰州]</sup> 游戏时违反游戏规则的人：他是个出咖名的～，没得一个人高兴同他打牌。  
 1. 【[赖呆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_dae.md#赖呆)】`lae6 dae1` <sup>[东台]</sup> 不识相，不知趣，赖着不走。（与“褦襶”不同）  
 1. 【[赖家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_ga.md#赖家)】`lae6 ga1` <sup>[如皋]</sup> 恋家而不愿离开。  
 1. 【[赖嫁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_ga.md#赖嫁)】`lae6 ga5` <sup>[如皋]</sup> 临出嫁时慢慢拖延时问，不愿离去。  
@@ -261,6 +269,7 @@
 1. 【[赖学](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_xiah.md#赖学)】`lae6 xiah8` ① 不愿去学校读书。也叫逃学。<sup>\[如东\]</sup> ② 逃学。<sup>\[东台\]</sup> ③ 逃学，没有正当理由不上学。<sup>\[泰州\]</sup>  
 1. 【[赖学宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_xiah_bo.md#赖学宝)】`lae6 xiah8 bo3` 逃学的孩子  
 1. 【[赖学宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_xiah_bo_r.md#赖学宝<sub>儿</sub>)】`lae6 xiah8 bo3 r` <sup>[如东]</sup> 不愿意上学的孩子。  
+1. 【[赖学精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_xiah_jien.md#赖学精)】`lae6 xiah8 jien1` <sup>[泰州]</sup> 经常找借口逃学的学生。  
 1. 【[赖尿、赖㞎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_xy_lae_ba.md#赖尿、赖㞎)】`lae6 xy1 lae6 ba3` <sup>[如皋]</sup> 端着小孩排大小便，小孩哭闹。  
 1. 【[赖着花<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_zhah_hua_r.md#赖着花<sub>儿</sub>)】`lae6 zhah7 hua1 r` <sup>[东台]</sup> 几乎，勉勉强强；这孩子七虚岁，～够到上学年龄。  
 1. 【[赖账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_zhan.md#赖账)】`lae6 zhan5` ① 不承认自己欠下的账目。<sup>\[如东\]</sup> ② 拒绝承认账上记的所欠财物，不还钱<sup>\[泰州\]</sup>：你放心，差你的钱绝对不～。<sup>\[泰州\]</sup> ③ 拒绝承认自己承诺的事<sup>\[泰州\]</sup>：当初你当吖大家的面同意的，怕的不好～。<sup>\[泰州\]</sup>  
@@ -291,12 +300,14 @@
 1. 【[瘌子头上的虱子——明摆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_zz_teu_shan_dii_sheh_zz_mien_bae.md#瘌子头上的虱子——明摆)】`laeh8 zz teu2 shan dii sheh7 zz mien2 bae3` <sup>[东台]</sup>   
 1. 【[腊八节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_baeh_jih.md#腊八节)】`laeh8 baeh7 jih7` <sup>[如东]</sup> 佛教节日。相传阴历十二月初八日是佛祖释迦牟尼的成道日，佛寺诵经，并供腊八粥。民间有吃“腊八粥”的习俗。  
 1. 【[腊八粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_baeh_zhoh.md#腊八粥)】`laeh8 baeh7 zhoh7` ① 仿效佛祖释迦牟尼成道前牧女献乳糜的传说故事，取香谷及果实等造粥供佛，名腊八粥。后流行于民间。据《燕京岁时记》载：“腊八粥者，用黄米、白米、江米、小米、菱角米、粟子、红豇豆、去皮枣泥等，合水煮粥，外用染红桃仁、杏仁、瓜子、花生、榛瓤、松子及白糖、红糖、葡萄以作点染。”如今的八宝粥，就是参照腊八粥的配料制作的。<sup>\[如东\]</sup> ② 农历十二月初八日用米，豆等谷物和枣、栗、莲子等八种干果煮成的粥。起源于佛教。<sup>\[东台\]</sup>  
+1. 【[腊八粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_baeh_zhoh.md#腊八粥)】`laeh8 baeh7 zhoh7` <sup>[泰州]</sup> 亦称佛粥，据说释迦牟尼经过六年苦修，方于腊月八日在菩提树下悟道成佛，此日遂为佛教节日；每年十二月初八日，各大寺院均用果子杂拌煮粥，分食僧众，乃有此称，后来民间相沿成俗。民俗，腊八粥必用青菜，加红枣、黄豆、蚕豆、红豆、花生米、山芋、芋头等为之，泰州光孝寺恢复重建后，每逢腊八，亦以大锅煮粥馈赠百姓。  
 1. 【[腊板酱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_baen_jian.md#腊板酱)】`laeh8 baen3 jian5` <sup>[如皋]</sup> 腊月间做的“饼酱”，以木、竹板挑售。  
 1. 【[腊肥串四方，春肥如钉桩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_fei_chun_sz_fan_chuen_fei_rv_dien_zhuan.md#腊肥串四方，春肥如钉桩)】`laeh8 fei2 chun5 sz5 fan1 chuen1 fei2 rv2 dien1 zhuan1` <sup>[东台]</sup> 腊月里施肥比春天容易渗透进土壤。  
 1. 【[腊月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_iuh.md#腊月)】`laeh8 iuh8` <sup>[如东]</sup> 阴历十二月。  
 1. 【[腊月二十四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_iuh_er_sheh_sz.md#腊月二十四)】`laeh8 iuh8 er6 sheh8 sz5` <sup>[如东]</sup> 传统节日。阴历十二月二十四日，民间有过小年的习俗。这天晚上，送灶神上天。  
 1. 【[腊月皇天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_iuh_huan_tin.md#腊月皇天)】`laeh8 iuh8 huan2 tin1` <small>/leʔ8 yʊʔ8 xuã2 tʰĩ1/<sup>如皋</sup></small> ① 腊月是腊祭之月，皇天是神灵居所。人间祭祀，神灵享受。腊月皇天一词充满神圣、禁忌和避讳。<sup>\[如东\]</sup>：～的，还来讨债。<sup>\[如东\]</sup> ② 腊月是腊祭之月，有神圣的意味，注意禁忌和避讳。<sup>\[如皋\]</sup>  
 1. 【[腊月皇天的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_iuh_huan_tin_dii.md#腊月皇天的)】`laeh8 iuh8 huan2 tin1 dii` <sup>[东台]</sup> 腊月即农历十二月。准备过年的氛围比平常庄重神圣。  
+1. 【[腊月黄天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_iuh_huan_tin.md#腊月黄天)】`laeh8 iuh8 huan2 tin1` <sup>[泰州]</sup> 特指冬季严寒阴沉天气：你现在～的到人家去不好，等天好啊再说吧！  
 1. 【[腊月里黄土贵三分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_iuh_lii_huan_tv_guei_saen_fen.md#腊月里黄土贵三分)】`laeh8 iuh8 lii huan2 tv3 guei5 saen1 fen1` <sup>[如皋]</sup> 腊月里家家采购，准备过年，物价普遍上涨一些。  
 1. 【[腊月子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_iuh_zz.md#腊月子)】`laeh8 iuh8 zz` <sup>[泰县]</sup> 月亮。（原文音laeh8 iuh7 zz）  
 1. 【[腊鸡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_ji_r.md#腊鸡<sub>儿</sub>)】`laeh8 ji1 r` <sup>[如东]</sup> 冬天，鸡毛紧贴身子，头足不舒展。比喻人在冬天趜头趜脑的形样：王二像～样的，为甚的不多穿点儿衣裳？  
@@ -304,6 +315,7 @@
 1. 【[腊雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_xiuh.md#腊雪)】`laeh8 xiuh7` <sup>[如东]</sup> 腊月收藏的雪花所融化的雪水。  
 1. 【[蜡壳<sub>儿</sub>球](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_kah_r_qieu.md#蜡壳<sub>儿</sub>球)】`laeh8 kah7 r qieu2` <sup>[如皋]</sup> 乒乓球。  
 1. 【[蜡烛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_zhoh.md#蜡烛)】`laeh8 zhoh7` <small>/læʔ8 t͡sɔʔ7/<sup>兴化</sup>, /leʔ8 t͡sɔʔ7/<sup>如皋</sup></small> ① 石蜡溶化后浇铸而成，一般圆柱形，中间有芯。有各种规格和颜色。点燃可以照明。<sup>\[如东\]</sup> ② 詈语，喻做笨事，招致处境尴尬，吃力不讨好。<sup>\[如皋\]</sup> ③ 除本义外，喻指迟钝的人<sup>\[东台\]</sup>：你真是个～，不点不亮！<sup>\[东台\]</sup> ④ （喻）不明事理、不识相<sup>\[兴化\]</sup>：～小开<sup>\[兴化\]</sup>｜他是～，不点不亮，不吃点苦头认不得人。<sup>\[兴化\]</sup> ⑤ 缺乏社会经验的人<sup>\[兴化\]</sup>：这种～，真不晓得天高地厚。<sup>\[兴化\]</sup> ⑥ 比喻欺软怕硬、不识尊重的人<sup>\[泰州\]</sup>：这种～你好好的同他说，他不听，同他发咖火就老实咖唻。<sup>\[泰州\]</sup>  
+1. 【[蜡烛坯料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_zhoh_pi_lio.md#蜡烛坯料)】`laeh8 zhoh7 pi1 lio6` <sup>[泰州]</sup> 人欺软怕硬、不识尊重的坏品行：这小伙就是个～，你同他客气，他当做福气，你要摸他啊子，他比孙子还乖。  
 1. 【[蜡烛痞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_zhoh_pi.md#蜡烛痞)】`laeh8 zhoh7 pi3` <sup>[泰县]</sup> 没志气、没出息的人。  
 1. 【[蜡烛台](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_zhoh_tae.md#蜡烛台)】`laeh8 zhoh7 tae2` <sup>[如皋]</sup> 烛台。  
 1. 【[蜡烛泻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_zhoh_xia.md#蜡烛泻)】`laeh8 zhoh7 xia5` <sup>[泰县]</sup> （禁忌语）该死的。（原文作“蜡烛虾”，音不合）  
@@ -312,6 +324,7 @@
 1. 【[辣刮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_guaeh.md#辣刮)】`laeh8 guaeh` ① 手段凶猛狠毒<sup>\[泰州\]</sup>：这家伙整起人不晓得多～，你要防住他点儿。<sup>\[泰州\]</sup> ② 天气酷热、酷冷<sup>\[泰州\]</sup>：十几年不曾有这吖～的大热天。<sup>\[泰州\]</sup>｜乡里的西北风多～咖。<sup>\[泰州\]</sup>  
 1. 【[辣刮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_guaeh_zz.md#辣刮子)】`laeh8 guaeh7 zz` <sup>[兴化]</sup> ① 人的手段厉害：这个人～唻！ ② 天气酷冷、酷热：今朝外头～唻。  
 1. 【[辣火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_hu.md#辣火)】`laeh8 hu` <small>/læʔ8 xo/<sup>兴化</sup></small> ① 很辣的感觉<sup>\[兴化\]</sup>：羊角椒味道太～。<sup>\[兴化\]</sup> ② 厉害<sup>\[兴化\]</sup>：这个老妈妈子～得扎实吤！<sup>\[兴化\]</sup> ③ 辛辣之甚<sup>\[泰州\]</sup>：这个羊角椒，吃咖嘴里这吖～啊，太麻啊唻。<sup>\[泰州\]</sup> ④ 人之行事凶猛狠毒<sup>\[泰州\]</sup>：这家伙嘴上说得好听，骨里阴险得很，你还不曾尝到他～唻。<sup>\[泰州\]</sup> ⑤ 天气酷热、酷冷<sup>\[泰州\]</sup>：这一刻儿午心里太阳多～啊。<sup>\[泰州\]</sup>  
+1. 【[辣乎乎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_hv_hv.md#辣乎乎)】`laeh8 hv1 hv1` <sup>[泰州]</sup> ① 马蜂之类的毒虫螫了皮肤以后产生的类似辛辣的疼痛感。 ② 皮肤被烫被打以后产生的类似辛辣的疼痛感：捱他攉咖个大嘴巴子，脸上到现在还～的。  
 1. 【[辣胡椒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_hv_jio.md#辣胡椒)】`laeh8 hv2 jio1` <sup>[如皋]</sup> 喻指某女人厉害粗犷。  
 1. 【[辣酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_jieu.md#辣酒)】`laeh8 jieu3` <sup>[兴化]</sup> 酒精含量较高的白酒。也称“麻酒”。  
 1. 【[辣椒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_jio.md#辣椒)】`laeh8 jio1` <sup>[如东]</sup> 茄科植物辣椒  
@@ -322,9 +335,11 @@
 1. 【[辣手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_sheu.md#辣手)】`laeh8 sheu3` <small>/læʔ8 sɤ3/<sup>兴化</sup></small> ① 辣椒汁液粘在手上，刺激皮肤，很痛，不舒服。比喻事情难办。<sup>\[如东\]</sup>：这个问题～。<sup>\[如东\]</sup> ② 毒辣的手段（注意：不同于“棘手”——难办义）<sup>\[东台\]</sup>：下～。<sup>\[东台\]</sup> ③ 手段厉害或毒辣<sup>\[兴化\]</sup>：下～。<sup>\[兴化\]</sup> ④ 麻烦、棘手<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：这件事～，不好办。<sup>\[兴化\]</sup>｜这种事情处理起来～。<sup>\[泰州\]</sup> ⑤ 毒辣手段<sup>\[泰州\]</sup>：你要注意点儿，防止这个家伙暗中暗中对你下～。<sup>\[泰州\]</sup>  
 1. 【[辣心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_xien.md#辣心)】`laeh8 xien1` <sup>[如皋]</sup> ① 心狠：她打伢儿～。 ② 胃辣得难受：这种蒜头实在辣，吃下去～。  
 1. 【[邋里邋遢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_lii_laeh_taeh.md#邋里邋遢)】`laeh8 lii laeh8 taeh` <small>/læʔ8 ləi læʔ8 tʰæʔ/<sup>兴化</sup></small> ① 很不清洁。<sup>\[如东\]</sup> ② “邋遢”的生动形式，形容肮脏不洁<sup>\[兴化\]</sup>：这车子～的怎吖坐人？<sup>\[兴化\]</sup>  
+1. 【[邋里邋遢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_lii_laeh_taeh.md#邋里邋遢)】`laeh8 lii laeh8 taeh` <sup>[泰州]</sup> A里AB，常用形容词的生动形式之一。邋里邋遢为“邋遢”生动形式，肮脏不洁：你望你噢，这个～的样子就到人家去，也不怕人家嫌！  
 1. 【[邋里邋遢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_lii_laeh_taeh.md#邋里邋遢)】`laeh8 lii laeh8 taeh7` <sup>[东台]</sup> 很不整洁的样子。  
 1. 【[邋遢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_taeh.md#邋遢)】`laeh8 taeh` ① 不清洁。<sup>\[如东\]</sup> ② 事情办得糟糕<sup>\[泰州\]</sup>：前任留下来的这些～事，他想不问也不行。<sup>\[泰州\]</sup> ③ 肮脏不干净<sup>\[泰州\]</sup>：他这个人～得没得命。<sup>\[泰州\]</sup>  
 1. 【[邋遢财神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_taeh_cae_shen.md#邋遢财神)】`laeh8 taeh cae2 shen2` <sup>[如皋]</sup> 形容小孩很脏。  
+1. 【[邋遢鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_taeh_guei.md#邋遢鬼)】`laeh8 taeh guei3` <sup>[泰州]</sup> 不注意整洁的人：你同他这个～怎吖过得下来的？  
 1. 【[邋遢快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_taeh_kuae.md#邋遢快)】`laeh8 taeh kuae5` <sup>[如皋]</sup> 见“邋遢𢜶”。  
 1. 【[邋遢𢜶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_taeh_so.md#邋遢𢜶)】`laeh8 taeh so5` <sup>[如皋]</sup> 做事快速而不细致整洁。  
 1. 【[邋遢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_taeh.md#邋遢)】`laeh8 taeh7` <small>/næʔ8 tʰæʔ7/<sup>泰县</sup></small> ① 不整洁；肮脏<sup>\[东台\]</sup>：～鬼。<sup>\[东台\]</sup> ② ［喻］矛盾多<sup>\[东台\]</sup>：处理～事。<sup>\[东台\]</sup> ③ 不清洁<sup>\[泰县\]</sup>：这个人家比较～。<sup>\[泰县\]</sup>  
@@ -332,6 +347,7 @@
 1. 【[䆾䆱铺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_taen_pv.md#䆾䆱铺)】`laen2 taen2 pv5` <sup>[兴化]</sup> 特宽大，可睡多人的床铺：这次下乡走亲戚，到的人多，睡的～。䆾，《广韵·谈韵》鲁甘切，～薄大。䆱，他甘切。‖讹称“蛮摊铺”。  
 1. 【[兰花瓣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_hua_baen_r.md#兰花瓣<sub>儿</sub>)】`laen2 hua1 baen5 r` <small>/lẽ2 xua1 pe˞5/<sup>如皋</sup></small> ① 油炸蚕豆瓣儿。<sup>\[如皋\]</sup> ② 油炸的蚕豆瓣。<sup>\[东台\]</sup>  
 1. 【[兰花瓣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_hua_baen_zz.md#兰花瓣子)】`laen2 hua1 baen5 zz` <sup>[兴化]</sup> 油炸蚕豆，其豆壳开裂，以形似命名。  
+1. 【[兰花干子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_hua_gun_zz.md#兰花干子)】`laen2 hua1 gun1 zz` <sup>[泰州]</sup> 泰州特有的一种豆腐干，原料干子白色，长约20厘米，宽约7厘米，厚与回卤干子略同，将干子两边斜剪若干穗状，保持干子连而不断，放至油中炸得焦黄以后，捞至至杂有豆芽、海带的汤中煮透，食同回卤干子。  
 1. 【[拦河网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_hu_van.md#拦河网)】`laen2 hu2 van3` <sup>[如皋]</sup> 连接河两岸的大渔网。  
 1. 【[拦拦水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_laen_shuei.md#拦拦水)】`laen2 laen2 shuei3` <sup>[泰县]</sup> 初入学的小孩。  
 1. 【[拦水脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_shuei_jiah.md#拦水脚)】`laen2 shuei3 jiah7` <sup>[兴化]</sup> 送幼儿入园，防止他们在河湖边玩水：送他上学倒不是为识字，～罢啊。｜也说“关水脚”。  
@@ -353,14 +369,18 @@
 1. 【[蓝圆鲹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_iun_caen.md#蓝圆鲹)】`laen2 iun2 caen1` <sup>[如东]</sup> 鲹科动物蓝圆鲹，长约27厘米。  
 1. 【[蓝眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ngaen_r.md#蓝眼<sub>儿</sub>)】`laen2 ngaen3 r` <sup>[如东]</sup> 眼球表面生长眼翳，呈蓝色，称蓝眼儿。  
 1. 【[蓝鸥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ngeu.md#蓝鸥)】`laen2 ngeu1` <sup>[如东]</sup> 鸟。体长约25厘米。全身羽毛白色，夏天头顶黑色，冬天则转白色为黑纹。嘴细长而宜，翼、尾均象家燕。常三五成群的在海岸和内陆河流等处活动，飞行快捷。能低空俯视水面觅食。喜吃小鱼。  
+1. 【[两把刷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ba_shuaeh_zz.md#两把刷子)】`laen3 ba3 shuaeh7 zz` <sup>[泰州]</sup> 比喻的确有真的本事：老周还真的有两把刷子，他教出来的学生最起码要有个本科上吖子。  
 1. 【[两班倒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_baen_do.md#两班倒)】`laen3 baen1 do3` <sup>[如东]</sup> 上班制度的一种。一天、一夜或一昼夜分两个班次。  
 1. 【[两不会面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_beh_huei_min.md#两不会面)】`laen3 beh huei6 min6` <sup>[兴化]</sup> 当事人互不相见，由中介人代为洽谈。谚曰：姜堰卖稻，～。也作“两不照面”。  
 1. 【[两不见星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_beh_jin_xien.md#两不见星)】`laen3 beh jin5 xien1` <sup>[兴化]</sup> 系秤陀的小绳放在两个秤星当中，表示重量在两者之间：你放吖～上望望看，到底多重。  
 1. 【[两不遇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_beh_y.md#两不遇)】`laen3 beh y6` <sup>[兴化]</sup> 错过机会，寻人未遇：我去找他，正值他外出，弄个～。  
+1. 【[两不遇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_beh_y.md#两不遇)】`laen3 beh7 y6` <sup>[泰州]</sup> 两人相互寻找，相互错过，没有遇到：你找老王吖，他十分钟前出去的，说是去找你谈个事情，早晓得你来的话，他不走唻，也不得弄吖个～唻。  
 1. 【[两不沾衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_beh_zhin_i.md#两不沾衣)】`laen3 beh7 zhin1 i1` <sup>[泰县]</sup> 两下不沾边：这些事他是～。  
 1. 【[两不找](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_beh_zho.md#两不找)】`laen3 beh7 zho3` <sup>[东台]</sup> 钱货两清，谁也不差谁的。  
+1. 【[两不找](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_beh_zho.md#两不找)】`laen3 beh7 zho3` <sup>[泰州]</sup> 双方达成交易以后，相互不要找钱：苹果四块六一斤，四斤苹果十八块四，你把啊20块钱，你再拿两个苹果走，～，我吃点小亏，不谈唻。  
 1. 【[两半个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_bun_gu.md#两半个)】`laen3 bun gu5` <sup>[兴化]</sup> 完整的东西一分为二，各为～：蛮好的大碗，一跌～。  
 1. 【[两般三样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_bun_saen_ian.md#两般三样)】`laen3 bun saen1 ian6` <sup>[兴化]</sup> 花样繁多：你要吃稀，他要吃干，～的烦死人。  
+1. 【[两半个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_bun_gu.md#两半个)】`laen3 bun5 gu5` <sup>[泰州]</sup> 将一个完整的物体分成两个半个：剩吖一个苹果，切～，我俫个人半个。  
 1. 【[两踩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_cae.md#两踩)】`laen3 cae3` <sup>[东台]</sup> 在两个方案比较中举棋不定：去不去工厂，我还在下～。  
 1. 【[两岔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_cha.md#两岔)】`laen3 cha5` <sup>[兴化]</sup> ① 二人走到不同的路上去：一个向东，一个向南，走到～上去啊。 ② 理解发生差误：老王说的“升”是让他走，他以为要“上升”，玩到～里去啊。  
 1. 【[两场小麦一场打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_chan_xio_moh_ieh_chan_da.md#两场小麦一场打)】`laen3 chan2 xio3 moh8 ieh7 chan2 da3` <small>/lɛ̃3 t͡sʰaŋ2 ɕiɔ3 mɔʔ8 iəʔ7 t͡sʰaŋ2 ta3/<sup>兴化</sup></small> ① ［喻］两件事情一起操办，省得重复筹划重复劳烦<sup>\[东台\]</sup>：这次推介产品放吖在厂庆那天，是～，效率高。<sup>\[东台\]</sup> ② （喻）内容相同或性质相同的事一起来做：“明年中秋节，～，订婚带结婚……”（马春阳：《重婚记》）<sup>\[兴化\]</sup>  
@@ -376,9 +396,11 @@
 1. 【[两间灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_gaen_zo.md#两间灶)】`laen3 gaen zo5` <sup>[如皋]</sup> 二口锅的灶。  
 1. 【[两个琵琶一个调——弹（谈）到一块啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_gu_pi_pa_ieh_gu_dio_taen_do_ieh_kuae_a.md#两个琵琶一个调——弹（谈）到一块啊)】`laen3 gu pi2 pa2 ieh7 gu dio5 taen2 do5 ieh7 kuae5 a` <sup>[东台]</sup>   
 1. 【[两挂蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_gua_hae.md#两挂蟹)】`laen3 gua5 hae3` <small>/lɛ̃3 kua5 xɛ3/<sup>兴化</sup></small> ① 两手空空<sup>\[东台\]</sup>：他家毛脚女婿上门送的甚的礼呀？哈，～！（什么都没带）<sup>\[东台\]</sup> ② （戏）一双空手：他这次看望丈母娘就带啊～。<sup>\[兴化\]</sup>  
+1. 【[两挂蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_gua_hae.md#两挂蟹)】`laen3 gua5 hae3` <sup>[泰州]</sup> 比喻两手空空走亲访友：这小伙头一回到丈人家里去，玩吖个～。人家当然要说他不懂规矩啊。  
 1. 【[两划](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_hua.md#两划)】`laen3 hua2` <sup>[兴化]</sup> 两不吃亏：你拿几斤旧书报换我这吖多的再生纸，～下来总合算。  
 1. 【[两疑两错](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_i_laen_cah.md#两疑两错)】`laen3 i2 laen3 cah7` <sup>[东台]</sup> 在疑惑、犹豫不决中一再错过机遇。  
 1. 【[两样心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ian_xien.md#两样心)】`laen3 ian6 xien1` <sup>[兴化]</sup> 偏心。谚曰：人无～，狗倒不吃屎啊。  
+1. 【[两样心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ian_xien.md#两样心)】`laen3 ian6 xien1` <sup>[泰州]</sup> 对人不能做到一视同仁：当领导的做事要公，不能有～。  
 1. 【[两境覒覒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_jien_mo_mo.md#两境覒覒)】`laen3 jien mo6 mo6` <sup>[如东]</sup> 两边跑跑，看看。覒，窥视，斜视：你要～。  
 1. 【[两境走走](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_jien_zeu_zeu.md#两境走走)】`laen3 jien zeu3 zeu3` <sup>[如东]</sup> 两边跑跑，看看。  
 1. 【[两节桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_jih_qio.md#两节桥)】`laen3 jih7 qio2` <sup>[如皋]</sup> 见“两搭桥”。  
@@ -389,6 +411,7 @@
 1. 【[两免](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_min.md#两免)】`laen3 min3` <small>/lɛ̃3 miɪ̃3/<sup>兴化</sup></small> ① 双方都不要客气<sup>\[兴化\]</sup>：“别客气。你没准备‘风凰’，我也没带‘味精’，两免免吧。”（马春阳：《化肥主任下乡来》）<sup>\[兴化\]</sup> ② 双方相互免去客套<sup>\[泰州\]</sup>：你不要过来，我也不过去，大家就～吧。<sup>\[泰州\]</sup>  
 1. 【[两面派](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_min_pae.md#两面派)】`laen3 min6 pae5` <sup>[如东]</sup> 耍两面手法的人：不要做～。  
 1. 【[两眼一抹黑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ngaen_ieh_maeh_heh.md#两眼一抹黑)】`laen3 ngaen3 ieh7 maeh8 heh7` <sup>[东台]</sup> ［喻］初来乍到，什么都不熟悉。  
+1. 【[两眼抹黑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ngaen_maeh_heh.md#两眼抹黑)】`laen3 ngaen3 maeh8 heh7` <sup>[泰州]</sup> 两眼一扫而过，前方一片黑暗，指新来之人对所有情况都不了解：刚调过来的时候，～，一个人都认不得，想买包香烟，都不晓得要到哪块买。  
 1. 【[两眼漆黑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ngaen_qieh_heh.md#两眼漆黑)】`laen3 ngaen3 qieh7 heh7` <sup>[兴化]</sup> 形容对周围的人和事不了解：“……我是个异乡人，走此路过，～，举目无亲……。”（《火烧赤壁》六）  
 1. 【[两片瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_pin_va.md#两片瓦)】`laen3 pin5 va3` <sup>[兴化]</sup> 旧式棉鞋，面子由两片从中缝合：这双老式～棉鞋放在一张橱子的底部，被一块布挡着。（毕飞宇：《上海往事》）  
 1. 【[两便](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_pin.md#两便)】`laen3 pin6` <sup>[如东]</sup> 双方都方便。  
@@ -451,6 +474,7 @@
 1. 【[滥污](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_v.md#滥污)】`laen6 v1` <sup>[东台]</sup> 伸手太多、太滥，贪吃、贪便宜，令人讨厌：个别人真～，连续几天来要吃要喝。  
 1. 【[烂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen.md#烂)】`laen6` <small>/lɛ̃6/<sup>兴化</sup>, /lẽ1/<sup>如皋</sup></small> ① 食物熟透。<sup>\[如东\]</sup>：猪肉煮～吖。<sup>\[如东\]</sup> ② 物资变质。<sup>\[如东\]</sup>：冬瓜～吖。<sup>\[如东\]</sup> ③ 水分过多。<sup>\[如东\]</sup>：烂饭。<sup>\[如东\]</sup> ④ 无选择、无节制地：处～朋友；做～好人。<sup>\[如皋\]</sup> ⑤ 潮湿、泞泥：阴雨天地下～。<sup>\[兴化\]</sup> ⑥ 形容连阴雨：晴冬～年｜～伏不～秋。<sup>\[兴化\]</sup> ⑦ 指人品质低下：这个小伙太～，不能共。<sup>\[兴化\]</sup> ⑧ 物体腐败变质之后呈现出松软状态<sup>\[泰州\]</sup>：生带子鱼放吖～吖唻，不能吃。<sup>\[泰州\]</sup> ⑨ 地面泥泞而松软<sup>\[泰州\]</sup>：才落咖雨，土路地下～。<sup>\[泰州\]</sup>  
 1. 【[烂板凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_baen_den.md#烂板凳)】`laen6 baen3 den5` <small>/lɛ̃6 pɛ̃3 tən5/<sup>兴化</sup>, /lẽ1 pẽ3 təŋ5/<sup>如皋</sup>, /nɛ̃1 pɛ̃3 təŋ5/<sup>泰县</sup></small> ① 把板凳坐烂了。比喻时间很长。<sup>\[如东\]</sup> ② 坐下就不动，也不走：坐～，他是个～，早点儿打发他走。<sup>\[如皋\]</sup> ③ 谓坐着就不想动身的人：老五是～，有时候从早坐到晚都不想动身。<sup>\[兴化\]</sup> ④ 怕干活的人：这人是～。<sup>\[泰县\]</sup>  
+1. 【[烂板凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_baen_den.md#烂板凳)】`laen6 baen3 den5` <sup>[泰州]</sup> 讥讽坐在板凳上没完没了闲扯而不走的人：他是个出咖名的～，坐到哪块就赖啊哪块不走唻，你就是同他说到晚，他也有得同你说。  
 1. 【[烂产](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_chaen.md#烂产)】`laen6 chaen3` <sup>[兴化]</sup> ① 比较破旧的房屋：这几间～想住又修不起，卖又舍不得。 ② 比较笨重的动产，如家具、柜台、货架等。  
 1. 【[烂场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_chan.md#烂场)】`laen6 chan2` <sup>[兴化]</sup> 收获季节遭连阴雨，庄稼在场上无法脱粒：今年麦收是个～。  
 1. 【[烂肠瘟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_chan_ven.md#烂肠瘟)】`laen6 chan2 ven1` <small>/lɛ̃6 t͡sʰaŋ2 uən1/<sup>兴化</sup></small> ① 伤寒。<sup>\[东台\]</sup> ② 伤寒的俗称。<sup>\[兴化\]</sup>  
@@ -461,6 +485,7 @@
 1. 【[烂饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_faen.md#烂饭)】`laen6 faen6` 煮得很软的米饭  
 1. 【[烂狗屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_geu_shr.md#烂狗屎)】`laen6 geu3 shr3` <sup>[如东]</sup> 比喻没有人喜欢，没有人需要：那是一堆～。  
 1. 【[烂好人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ho_ren.md#烂好人)】`laen6 ho3 ren2` <sup>[兴化]</sup> 指与人为善，乐于助人的人：老吴是个～，有事找他一定背帮忙。也作“滥好人”。  
+1. 【[烂好人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ho_ren.md#烂好人)】`laen6 ho3 ren2` <sup>[泰州]</sup> 不讲原则的厚道人。  
 1. 【[烂货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_hu.md#烂货)】`laen6 hu5` <small>/lɛ̃6 xo5/<sup>兴化</sup></small> ① 比喻生活作风不正派的女人。<sup>\[如东\]</sup> ② 指乱搞两性关系的女人：“这丫头弄出恁样事来……原来也是个不成才的～……”（《醒世恒言》十六）<sup>\[兴化\]</sup> ③ 詈词，乱搞男女关系的人。<sup>\[泰州\]</sup>  
 1. 【[烂姱子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_hv_zz.md#烂姱子)】`laen6 hv6 zz` <sup>[兴化]</sup> 指行为放荡的女人：她是个～，不要脸的。姱，《集韵·姥韵》后五切：性不端良谓之～。（声调不合）‖俗作“烂瓠子”。  
 1. 【[烂叽滑煞的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ji_vaeh_shaeh_dii.md#烂叽滑煞的)】`laen6 ji1 vaeh8 shaeh7 dii` <sup>[如皋]</sup> 状较烂、较糊湿：搌布上总是～。  
@@ -468,6 +493,7 @@
 1. 【[烂脚丫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_jiah_nga_r.md#烂脚丫<sub>儿</sub>)】`laen6 jiah7 nga1 r` <small>/lẽ1 t͡ɕiaʔ7 ŋa˞1/<sup>如皋</sup></small> ① 脚气。<sup>\[如东\]</sup> ② 脚气病，趾间皮烂流水，极痒。<sup>\[如皋\]</sup> ③ 鳢肠。<sup>\[如皋\]</sup>  
 1. 【[烂脚髈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_jiah_pan.md#烂脚髈)】`laen6 jiah7 pan3` <sup>[如东]</sup> 脚腿溃疡。  
 1. 【[烂烂泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_laen_ni.md#烂烂泥)】`laen6 laen6 ni2` <sup>[如皋]</sup> 含水多难成形的泥。  
+1. 【[烂马子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ma_zz.md#烂马子)】`laen6 ma3 zz` <sup>[泰州]</sup> 讥讽喜欢长时间坐在马桶上的人。  
 1. 【[烂漠咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_mah_ga.md#烂漠咖)】`laen6 mah ga` <sup>[东台]</sup> 被人批评得太多，简直都被嫌烂了。  
 1. 【[烂眯搭眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_mi_daeh_ngaen.md#烂眯搭眼)】`laen6 mi1 daeh7 ngaen3` <sup>[东台]</sup> 不爽，让人看了恶心。  
 1. 【[烂面黐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_min_chr.md#烂面黐)】`laen6 min6 chr1` <sup>[兴化]</sup> ① 黏性很强的浆糊。 ② （喻）惹不起的人：他是个～，叮上你甩也甩不掉。  
@@ -481,9 +507,11 @@
 1. 【[烂眼子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ngaen_zz.md#烂眼子)】`laen6 ngaen3 zz` <sup>[东台]</sup> 除了指眼疾外，喻指软弱可欺，容易被人把什么缺陷、贵任都推到自己头上的那种人。  
 1. 【[烂泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ni.md#烂泥)】`laen6 ni2` <small>/lɛ̃6 ləi2/<sup>兴化</sup>, /lẽ1 nʝ2/<sup>如皋</sup></small> ① 潮湿的泥土 ② 泛指泥土 ③ 泥土。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup>：他不曾穿鞋子，脚上沾满吖～。<sup>\[兴化\]</sup> ④ 含水较多的厚糊状泥土<sup>\[泰州\]</sup>：落雨，走过来脚上全是～。<sup>\[泰州\]</sup> ⑤ 亦可以指较干燥的泥土<sup>\[泰州\]</sup>：弄点儿～家来，花盆要换土唻。<sup>\[泰州\]</sup>  
 1. 【[烂泥巴巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ni_ba_ba.md#烂泥巴巴)】`laen6 ni2 ba1 ba` <sup>[兴化]</sup> 半干的泥。  
+1. 【[烂泥堕堕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ni_du_du.md#烂泥堕堕)】`laen6 ni2 du5 du5` <sup>[泰州]</sup> 糊状的泥土坠落不停的样子，多指身体或者物体表面沾满泥的样子：你望你身上～的，弄点水把泥冲掉再家来。｜你卖的这个胡萝卜～的，你要是肯便宜点儿，我就称两斤。  
 1. 【[烂泥垡头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ni_faeh_teu.md#烂泥垡头)】`laen6 ni2 faeh8 teu` <sup>[兴化]</sup> 耕翻或挖出的大土块：挖～打坝头。  
 1. 【[烂泥块粒<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ni_kuae_lieh_r.md#烂泥块粒<sub>儿</sub>)】`laen6 ni2 kuae5 lieh r` <sup>[如皋]</sup> 泥团儿，泥块子。  
 1. 【[烂泥块垃<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ni_kueh_laeh_r.md#烂泥块垃<sub>儿</sub>)】`laen6 ni2 kueh7 laeh r` <sup>[如皋]</sup> 烂泥团。  
+1. 【[烂泥团](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ni_tun.md#烂泥团)】`laen6 ni2 tun2` <sup>[泰州]</sup> 泥块：你菜上的这些～也算斤两吖？  
 1. 【[烂年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_nin.md#烂年)】`laen6 nin2` <sup>[东台]</sup> 过年遇到雨雪，又称湿年。  
 1. 【[烂手爪<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_sheu_zho_r.md#烂手爪<sub>儿</sub>)】`laen6 sheu3 zho3 r` <sup>[如皋]</sup> 詈语。常责乱拿，乱动、乱翻别人的东西的人。  
 1. 【[烂舌头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_shih_teu.md#烂舌头)】`laen6 shih8 teu` <sup>[如皋]</sup> 詈语，责说出不利的、不该说的话的人。  
@@ -492,6 +520,7 @@
 1. 【[烂摊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_taen_zz.md#烂摊子)】`laen6 taen1 zz` <sup>[东台]</sup> ［喻］不可收拾的局面。  
 1. 【[烂桃子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_to_zz.md#烂桃子)】`laen6 to2 zz` <sup>[兴化]</sup> 形容作风靡烂的女人：她是个～，一搭就上。  
 1. 【[烂污](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_v.md#烂污)】`laen6 v` <sup>[兴化]</sup> ① 稀屎。 ② 品行恶劣的人：……后来见他～不堪，群相裹足。姚氏也就愈趋愈下……（《广陵潮》六九）也作“滥污”。  
+1. 【[烂污货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_v_hu.md#烂污货)】`laen6 v hu5` <sup>[泰州]</sup> 比喻生活作风不好、行为放荡的女人。  
 1. 【[烂污小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_v_xio.md#烂污小)】`laen6 v xio3` <sup>[兴化]</sup> 指品质恶劣的青少年：几个～把庄子搅得乌烟瘴气的。  
 1. 【[烂污](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_v.md#烂污)】`laen6 v1` <small>/nɛ̃1 u1/<sup>泰县</sup></small> ① 不能碰的人。<sup>\[泰县\]</sup> ② 詈词，骂人淫荡。<sup>\[泰州\]</sup>  
 1. 【[烂污搭訇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_v_daeh_hon.md#烂污搭訇)】`laen6 v1 daeh7 hon1` <sup>[东台]</sup> 腐烂肮脏。  
@@ -552,6 +581,7 @@
 1. 【[落脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_jiah.md#落脚)】`lah8 jiah7` <sup>[如东]</sup> 临时停留或暂住。  
 1. 【[落脚蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_jiah_hae.md#落脚蟹)】`lah8 jiah7 hae3` <sup>[如东]</sup> 比喻没有用的人。  
 1. 【[落脚货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_jiah_hu.md#落脚货)】`lah8 jiah7 hu5` <sup>[兴化]</sup> 挑剩下的：你把好的一拣，～卖把哪个？｜他已是三十岁的大青年，相等年龄的姑娘难找，纵有也是刷下来的～……（马春阳《月朗和她的娘舅们》）‖也称“落脚子”。  
+1. 【[落脚货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_jiah_hu.md#落脚货)】`lah8 jiah7 hu5` <sup>[泰州]</sup> 挑剩下的质量差的货物：他穿的衣裳都是温泰市场的～。  
 1. 【[落脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_jiah_r.md#落脚<sub>儿</sub>)】`lah8 jiah7 r` <small>/laʔ8 t͡ɕia˞7/<sup>如皋</sup>, /nɑʔ8 t͡ɕiɑʔ7 ɚ/<sup>泰县</sup></small> ① 人的脚断了一节，叫落脚儿。<sup>\[如东\]</sup> ② 剩下来的一点点东西。<sup>\[如东\]</sup>：送把你的是一点儿～。<sup>\[如东\]</sup> ③ 挑选后剩下的。<sup>\[如皋\]</sup> ④ 剩下来的货物，次品。也称落脚货。<sup>\[东台\]</sup> ⑤ 搭的脚手架。<sup>\[东台\]</sup> ⑥ 最后一名。<sup>\[泰县\]</sup>  
 1. 【[落脚<sub>儿</sub>灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_jiah_r_den.md#落脚<sub>儿</sub>灯)】`lah8 jiah7 r den1` <sup>[泰县]</sup> 最后一名。  
 1. 【[落脚爪<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_jiah_zhua_r.md#落脚爪<sub>儿</sub>)】`lah8 jiah7 zhua3 r` <sup>[如东]</sup> 脚趾掉了。比喻不能走路：自己不跑，～啊？  
@@ -625,6 +655,7 @@
 1. 【[廊啲当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_dii_dan.md#廊啲当)】`lan2 dii dan1` <sup>[兴化]</sup> ① 对人对事不严肃认真：他一头的～。 ② 成天游荡嬉戏的人：他是有名的～，没得安逸时候。  
 1. 【[廊阴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_ien.md#廊阴)】`lan2 ien1` <sup>[如东]</sup> 廊檐下面、前墙外边的部分。也叫走廊。  
 1. 【[廊檐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_in.md#廊檐)】`lan2 in` <sup>[泰县]</sup> 走廊。  
+1. 【[廊檐台](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_in_tae.md#廊檐台)】`lan2 in tae2` <sup>[泰州]</sup> 房屋前檐伸出部分下的石台（砖台），旧时房屋地基较高，廊檐部分用长方形石板铺成。  
 1. 【[廊檐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_in.md#廊檐)】`lan2 in2` <small>/lã2 ĩ2/<sup>如皋</sup></small> ① 屋檐 ② 屋檐伸出前墙外边的部分。<sup>\[如东\]</sup> ③ 走廊上披屋檐。<sup>\[如皋\]</sup> ④ 指走廊：走马～。<sup>\[如皋\]</sup> ⑤ 房屋前檐伸出部分所覆盖的地面<sup>\[泰州\]</sup>：把鞋子放吖～上晒。<sup>\[泰州\]</sup>  
 1. 【[廊檐台<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_in_tae_r.md#廊檐台<sub>儿</sub>)】`lan2 in2 tae2 r` <sup>[如皋]</sup> 上下走廊用的台阶。  
 1. 【[廊檐台子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_in_tae_zz.md#廊檐台子)】`lan2 in2 tae2 zz` <sup>[兴化]</sup> 屋檐下高出天井的台阶。  
@@ -672,11 +703,13 @@
 1. 【[㫰络<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_lah_r.md#㫰络<sub>儿</sub>)】`lan6 lah8 r` <sup>[如东]</sup> 在大屋里的一侧，竹箅子的四角用绳索吊在梁架上，上面可以搁置东西，这种装置叫做㫰络儿：把蒲锹放吖～上。  
 1. 【[㫰门敞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_men_chan.md#㫰门敞)】`lan6 men chan3, la1 men chan3` <sup>[如皋]</sup> 大门洞开，无人看管；无关拦，不设防。  
 1. 【[㫰门敞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_men_chan.md#㫰门敞)】`lan6 men2 chan3` <sup>[如东]</sup> 房屋没有大门，没有遮栏。  
+1. 【[㫰篷船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_pon_chun.md#㫰篷船)】`lan6 pon chun2` <sup>[泰州]</sup> ① 下河地区一种便捷帆船。 ② 俗称旱船。  
 1. 【[㫰篷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_pon.md#㫰篷)】`lan6 pon2` <sup>[兴化]</sup> 航船利用风力扬帆前进。  
 1. 【[浪/𧻴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan.md#浪/𧻴)】`lan6` <sup>[如皋]</sup> ① 荒疏：他把学业～掉啊。 ② 浪荡：他成天的在外头～，不归家。 ③ 拖：～工。 ④ 拖延、等待：吃咖夜饭～～尿再睏。  
 1. 【[浪工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_gon.md#浪工)】`lan6 gon1` ① 浪费人工，因为返工或者材料、工具不能及时到位儿造成的停工<sup>\[泰州\]</sup>：你家板子到现在还不弄过来，到时候～不好怪人家木匠。<sup>\[泰州\]</sup> ② 因为人多活少造成的劳动效率不高<sup>\[泰州\]</sup>：总共就这点儿活技，你俫要5个人做，太～吖唻。<sup>\[泰州\]</sup>  
 1. 【[浪用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_ion.md#浪用)】`lan6 ion6` 没有节制地乱花钱<sup>\[泰州\]</sup>：你就是钱再多，也不能这格局～。<sup>\[泰州\]</sup>  
 1. 【[浪流浪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_lieu_lan.md#浪流浪)】`lan6 lieu2 lan6` <sup>[如皋]</sup> 言行举止漂浮，不可信任。  
+1. 【[浪吃浪用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_qieh_lan_ion.md#浪吃浪用)】`lan6 qieh7 lan6 ion6` <sup>[泰州]</sup> 没有节制地吃喝、花钱：就这两个工资，哪掌得住他这格局浪吃浪用！  
 1. 【[浪荡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_tan.md#浪荡)】`lan6 tan6` <sup>[如东]</sup> 不务正业，到处游荡。  
 1. 【[浪荡公子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_tan_gon_zz.md#浪荡公子)】`lan6 tan6 gon1 zz` <sup>[如东]</sup> 游手好闲的人：王二是个～。  
 1. 【[浪头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_teu.md#浪头)】`lan6 teu` <sup>[东台]</sup> 涌起的波浪，比喻潮流。  
@@ -703,6 +736,7 @@
 1. 【[勒来勒去的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_lae_leh_qy_dii.md#勒来勒去的)】`leh8 lae2 leh8 qy5 dii` <sup>[如皋]</sup> 状把小孩抱来抱去，非常辛苦。  
 1. 【[勒里勒仄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_lii_leh_zeh.md#勒里勒仄)】`leh8 lii leh8 zeh7` <sup>[东台]</sup> 吃多了不消化，胃部难受。  
 1. 【[勒马打车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_ma_da_jy.md#勒马打车)】`leh8 ma3 da3 jy1` <sup>[泰县]</sup> 要挟。  
+1. 【[勒马打车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_ma_da_jy.md#勒马打车)】`leh8 ma3 da3 jy1` <sup>[泰州]</sup> 象棋术语，车在底线边角位置，马在车旁，以一子别死敌方的“马”腿，用“炮”打对方无法横行的“车”，比喻抓住他人短处迫使他人就范：他这是～，你只好照他说的办。  
 1. 【[勒命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_mien.md#勒命)】`leh8 mien6` <sup>[如东]</sup> ① 拼命挣扎：她在那许～。 ② 很费劲地争辩或提出要求：她在法庭上～。  
 1. 【[勒眼豹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_ngaen_bo.md#勒眼豹)】`leh8 ngaen3 bo5` <sup>[如皋]</sup> 贬指眼球特别大的样子。如皋词典作“……𥄹”  
 1. 【[勒眼豹子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_ngaen_bo_zz.md#勒眼豹子)】`leh8 ngaen3 bo5 zz` <sup>[如东]</sup> 比喻人的眼睛圆而突出。  
@@ -712,6 +746,7 @@
 1. 【[勒丧王](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_san_van.md#勒丧王)】`leh8 san1 van2` <sup>[兴化]</sup> 形容衣服太紧，绷在身上：这件～的衣裳，穿吖身上像甚的？  
 1. 【[勒嗓筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_san_jien.md#勒嗓筋)】`leh8 san3 jien1` <sup>[如皋]</sup> 贬指说、劝：你不要同他～！他一向不听劝，同他～没得用。  
 1. 【[勒嗓子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_san_zz.md#勒嗓子)】`leh8 san3 zz` <small>/ləʔ8 saŋ3 t͡sɿ/<sup>兴化</sup></small> ① （詈语）拼命提高嗓门。<sup>\[东台\]</sup> ② 形容大喊大叫<sup>\[兴化\]</sup>：他往浴池里一泡，就喜欢～乱唱一气。<sup>\[兴化\]</sup>｜你覅～，我就到。<sup>\[兴化\]</sup>  
+1. 【[勒嗓子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_san_zz.md#勒嗓子)】`leh8 san3 zz` <sup>[泰州]</sup> 声嘶力竭喊叫：你不要在这块～，有人要上夜班。｜你哿能有话好好说，要～做甚的？  
 1. 【[勒实干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_sheh_gun.md#勒实干)】`leh8 sheh8 gun1` <sup>[东台]</sup> 勒实即挤水分。～即未干透。  
 1. 【[勒声爆筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_shen_bo_jien.md#勒声爆筋)】`leh8 shen1 bo5 jien1` <sup>[东台]</sup> 形容声嘶力竭的样子：说话轻一点，不要说得～的。  
 1. 【[勒身王](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_shen_van.md#勒身王)】`leh8 shen1 van2` <sup>[东台]</sup> 形容衣服嫌小，像勒在身上一样。也作“勒壳王”。  
@@ -731,6 +766,7 @@
 1. 【[肋排](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_pae.md#肋排)】`leh8 pae2` <sup>[如皋]</sup> 指猪的肋骨排，上面带满精肉，是“糖醋排骨”的原料。  
 1. 【[肋什骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_sheh_gueh.md#肋什骨)】`leh8 sheh gueh` <sup>[泰县]</sup> 肋骨。  
 1. 【[肋什骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_sheh_gueh.md#肋什骨)】`leh8 sheh gueh7` <sup>[如皋]</sup> 肋骨。  
+1. 【[肋什骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_sheh_gueh.md#肋什骨)】`leh8 sheh gueh7` <sup>[泰州]</sup> 肋骨：他出咖车祸，捱汽车撞吖断掉三根～。  
 1. 【[肋式骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_sheh_gueh.md#肋式骨)】`leh8 sheh7 gueh7` <sup>[东台]</sup> 人或哺乳动物胸壁两侧的长条形的骨。也叫肋骨。  
 1. 【[肋食骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_sheh_gueh.md#肋食骨)】`leh8 sheh8 gueh7` <sup>[兴化]</sup> 即肋骨：～里支锅腔（成家立业）。｜空得一屁股两～（负债累累）。  
 1. 【[肋身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_shen.md#肋身)】`leh8 shen1` <sup>[如东]</sup> 肋骨。  
@@ -804,6 +840,7 @@
 1. 【[愣头愣脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_teu_len_no.md#愣头愣脑)】`len6 teu2 len6 no3` <sup>[如东]</sup> 呆板迟钝：站吖在那许～的做甚的？  
 1. 【[愣头愣脑的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_teu_len_no_dii.md#愣头愣脑的)】`len6 teu2 len6 no3 dii` <sup>[如皋]</sup> 愚鲁状。  
 1. 【[愣头青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_teu_qien.md#愣头青)】`len6 teu2 qien1` <small>/lən6 tʰɤ2 t͡ɕʰin1/<sup>兴化</sup>, /ləŋ1 tʰei2 t͡ɕʰiəŋ1/<sup>如皋</sup></small> ① 不会审时度势，只会说一不二，十分强硬的人。<sup>\[如皋\]</sup> ② 直率，没有间架的人。<sup>\[东台\]</sup> ③ 行为鲁葬的年轻人<sup>\[兴化\]</sup>：这个～，动不动就惹事。<sup>\[兴化\]</sup>  
+1. 【[愣头青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_teu_qien.md#愣头青)】`len6 teu2 qien1` <sup>[泰州]</sup> 行为鲁莽的年轻人：这种事只有他这种～才做得出来。  
 1. 【[愣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_zz.md#愣子)】`len6 zz` <small>/ləŋ1 t͡sɿ/<sup>如皋</sup></small> ① 说话口吃的人。<sup>\[如东\]</sup> ② 结巴，口吃患者。<sup>\[如皋\]</sup> ③ 口吃。<sup>\[如皋\]</sup>  
 1. 【[棱凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_den.md#棱凳)】`len6 den5` <sup>[如东]</sup> 搁置棱条晒东西的凳子，有四条腿或三条腿的，也有两条腿的。  
 1. 【[棱子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_zz.md#棱子)】`len6 zz` <sup>[如东]</sup> 直趟的竹竿或木棍，搁在棱凳上，放帘子，晒东西。  
@@ -922,9 +959,11 @@
 1. 【[礼盒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_huh.md#礼盒)】`li3 huh8` <sup>[兴化]</sup> 旧时送节礼、圆礼等用的担盒，有提梁，一般由人抬。也称“拜盒”。  
 1. 【[礼律](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_lieh.md#礼律)】`li3 lieh8` <sup>[如东]</sup> ① 能以规矩约束自己。 ② 客气：这个人～。  
 1. 【[礼帽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_mo.md#礼帽)】`li3 mo6` <sup>[如东]</sup> 用羊毛毡精制而成，圆桶形，四边有沿。  
+1. 【[礼尚往来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_shan_van_lae.md#礼尚往来)】`li3 shan6 van3 lae2` <sup>[泰州]</sup> 在礼节上崇尚有来有往。  
 1. 【[礼数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_shv.md#礼数)】`li3 shv5` <sup>[东台]</sup> 礼节：亲友之间讲个～。  
 1. 【[礼道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_to.md#礼道)】`li3 to6` <sup>[如皋]</sup> ① 礼貌。 ② 礼貌的规距。  
 1. 【[礼信](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_xien.md#礼信)】`li3 xien5` ① 礼仪，礼节<sup>\[泰州\]</sup>：这些老～，现在的伢儿都不懂。<sup>\[泰州\]</sup> ② 表示庆贺或者友好或者诚意儿给的馈赠<sup>\[泰州\]</sup>：老李的～太大，每回来看他，都要带点儿东西过来。<sup>\[泰州\]</sup>  
+1. 【[老脸皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_lin_pi.md#老脸皮)】`li3 lin3 pi2` <sup>[泰州]</sup> 形容人厚颜无耻：不要再说吤，有几个像你这吖～的！  
 1. 【[里八字](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_baeh_cz.md#里八字)】`li3 baeh7 cz6` <small>/lʝ3 peʔ7 t͡sʰɿ1/<sup>如皋</sup></small> ① 双脚并立，双足尖较靠近的畸型。<sup>\[如皋\]</sup> ② 见“八脚儿”。<sup>\[如皋\]</sup>  
 1. 【[里八折外加二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_baeh_zhih_vae_jia_er.md#里八折外加二)】`li3 baeh7 zhih7 vae6 jia1 er6` <sup>[东台]</sup> 形容克扣厉害。除本金打八折，另外还加二分利息。  
 1. 【[……里不……](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_beh.md#……里不……)】`li3 beh7` <sup>[东台]</sup> 中缀。表示程度加深：啰～唆/胡～涂/呆～傻/认～真/神～经/绍～绍叨/嫌～嫌相。  
@@ -951,6 +990,7 @@
 1. 【[里外里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_vae_li.md#里外里)】`li3 vae li3` <sup>[东台]</sup> 反正；更加：随你怎吖说，～我不去丢这个相｜你是老师，又是长辈，我敬你～应该。  
 1. 【[里外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_vae.md#里外)】`li3 vae6` <small>/ləi3 uɛ6/<sup>兴化</sup></small> ① 里面和外面<sup>\[兴化\]</sup>：～不讨好。<sup>\[兴化\]</sup> ② 反正<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：～没事做，不如外去闯闯。<sup>\[兴化\]</sup>｜～是一回事，你不同意也没得用。<sup>\[泰州\]</sup>  
 1. 【[里外里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_vae_li.md#里外里)】`li3 vae6 li3` <small>/lʝ3 ʋɛ1 lʝ3/<sup>如皋</sup>, /nɿ3 ʋe1 nɿ3/<sup>泰县</sup></small> ① 内外比较。<sup>\[如东\]</sup>：～推扳三千多元。<sup>\[如东\]</sup> ② 反正已定局了，不可变了。有怨恨色彩<sup>\[如皋\]</sup>：我～落不到个好。<sup>\[如皋\]</sup> ③ 反正：这见事～就这吖。<sup>\[泰县\]</sup>  
+1. 【[里外里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_vae_li.md#里外里)】`li3 vae6 li3` <sup>[泰州]</sup> 反正，无论怎样：这一大桌子菜～吃不掉，你就把他喊过来吧。｜你俫就不要再谦唻，你把钱，他把钱，～一回事。  
 1. 【[里子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_zz.md#里子)】`li3 zz` <small>/lʝ3 t͡sɿ/<sup>如皋</sup></small> ① 面子里边的布料。<sup>\[如东\]</sup> ② 表衣物的里料。<sup>\[如皋\]</sup> ③ 表事物的内里、内部、内囊。<sup>\[如皋\]</sup>  
 1. 【[鲤鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_y.md#鲤鱼)】`li3 y2` <sup>[如东]</sup> 鲤科动物鲤鱼，也称花鱼。  
 1. 【[鲤鱼拐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_y_guae_zz.md#鲤鱼拐子)】`li3 y2 guae3 zz` <sup>[兴化]</sup> ① 不上斤的小鲤鱼：这种打鱼的，每天打不了多少……大都是不到半斤的～、鲫瓜子、鲶鱼。（汪曾祺《故乡人》） ② 鲤鱼的卵块。  
@@ -970,6 +1010,7 @@
 1. 【[离啊骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_a_gueh.md#离啊骨)】`li6 a gueh7` <sup>[东台]</sup> 肉与骨头分开。  
 1. 【[离齿离骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_chr_li_gueh.md#离齿离骨)】`li6 chr3 li6 gueh7` <sup>[兴化]</sup> ① 形容肉食煨得很烂，肉和骨已经分离。 ② （借）把各种关系分析得很清晰：看你说得～的，这件事就像跟你毫不相干。  
 1. 【[离卡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_ka.md#离卡)】`li6 ka3` <small>/ləi6 kʰa3/<sup>兴化</sup></small> ① 鱼死的时间长，肉和骨已分离<sup>\[兴化\]</sup>：这条鱼都离啊卡，不能买。<sup>\[兴化\]</sup> ② 未冷冻的鲜鱼存放时间过久造成鱼肉与鱼骨因腐烂分离<sup>\[泰州\]</sup>：这条鱼放吖有好几天唻，上头都已经～唻，就不要再吃吤。<sup>\[泰州\]</sup>  
+1. 【[离三冒九](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_saen_mo_jieu.md#离三冒九)】`li6 saen1 mo6 jieu3` <sup>[泰州]</sup> 相距为“三”，夸大过“九”，意谓情况距离事实相差太大：他说的这话也实在～，不是这回事！  
 1. 【[离身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_shen.md#离身)】`li6 shen1` <sup>[兴化]</sup> 离开自己：我这次一病半年多，上个月病才～。｜“要保全却也容易，只怕足下舍不得他～。”（《古今小说》二二）  
 1. 【[离手离脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_sheu_li_jiah.md#离手离脚)】`li6 sheu3 li6 jiah7` <sup>[如皋]</sup> 无牵挂或不缠人：伢儿大啊，自己耍子，～的｜伢儿大啊，大人～的，跑得掉啊。  
 1. 【[离水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_shuei.md#离水)】`li6 shuei3` <sup>[如皋]</sup> ① 离开水：鱼一～就死。 ② 不易吸附水分：化纤～，不像棉布含水。  
@@ -986,6 +1027,7 @@
 1. 【[凉池](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_chr.md#凉池)】`lian2 chr2` <small>/liaŋ2 t͡sʰɿ2/<sup>兴化</sup></small> ① 浴室里近门的大水池，因其距锅炉较远，水温相对较低，故名。<sup>\[兴化\]</sup> ② 与澡堂浴池相连接的非封闭的一间，内设石凳供客人稍微休息后再次入浴，室内温度相对浴池凉快。<sup>\[泰州\]</sup>  
 1. 【[凉床<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_chuan_r.md#凉床<sub>儿</sub>)】`lian2 chuan2 r` <small>/liaŋ2 t͡sʰuaŋ2 ɚ/<sup>兴化</sup>, /liã2 t͡sʰua˞2/<sup>如皋</sup>, /niɑŋ2 t͡ɕʰyɑŋ2 ɚ/<sup>泰县</sup></small> ① 竹床儿，床面为毛竹片。<sup>\[如皋\]</sup> ② 见“竹床儿”。<sup>\[如皋\]</sup> ③ 竹制的床，由床面和竹凳组成。又称“竹床儿”。<sup>\[兴化\]</sup> ④ 幼儿睡的竹床。<sup>\[泰县\]</sup>  
 1. 【[凉沰沰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_dah_dah.md#凉沰沰)】`lian2 dah7 dah7` <sup>[兴化]</sup> 高温下人的体表温度不高：他身上～的。  
+1. 【[凉沰沰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_dah_dah.md#凉沰沰)】`lian2 dah7 dah7` <sup>[泰州]</sup> 夏天以手触摸他人肌肤时感觉到的清凉绵软感觉：才从空调间里走出来，身上～的。  
 1. 【[凉粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_fen.md#凉粉)】`lian2 fen3` ① 食品。将粉坨子加工成片状，圆形，称凉粉。<sup>\[如东\]</sup> ② 多用蚕豆或绿豆淀粉制成的半胶质状固体，刨丝或切成皮，用作料凉拌着吃。<sup>\[东台\]</sup>  
 1. 【[凉粉皮<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_fen_pi_r.md#凉粉皮<sub>儿</sub>)】`lian2 fen3 pi2 r` <sup>[如皋]</sup> 圆片形胶冻状淀粉性夏日食品。端午食品中“五绿”之一（用绿豆淀粉制成）  
 1. 【[凉粉刨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_fen_po_zz.md#凉粉刨子)】`lian2 fen3 po6 zz` <sup>[如皋]</sup> 专用于刨凉粉丝的刨子。原用铜制，现用不锈钢做成盘形或箕形，数排通孔，交错排列，有环把，孔径4mm左右。  
@@ -996,6 +1038,7 @@
 1. 【[凉荫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_ien.md#凉荫)】`lian2 ien` <sup>[兴化]</sup> 夏天因阳光照射不到或遮蔽物高厚而凉爽：……二人进来看时，却是座关帝庙，殿宇宽散，高大～。（《梼杌闲评》十）  
 1. 【[凉阴耷耷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_ien_dah_dah.md#凉阴耷耷)】`lian2 ien1 dah7 dah7` <sup>[泰县]</sup> 凉快：今朝～的，一点儿都不热。  
 1. 【[凉瀴沰沰<sub>儿</sub>的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_ien_dah_dah_r_dii.md#凉瀴沰沰<sub>儿</sub>的)】`lian2 ien5 dah7 dah7 r dii` <sup>[如皋]</sup> 清凉宜人。  
+1. 【[凉瀴瀴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_ien_ien.md#凉瀴瀴)】`lian2 ien5 ien5` <sup>[泰州]</sup> 非常凉爽的感觉：才落过雨的，外头～的。  
 1. 【[凉荫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_ien.md#凉荫)】`lian2 ien5` ① 凉快 ② 夏天在荫凉通风处所产生的凉快的感觉。<sup>\[东台\]</sup>  
 1. 【[凉荫沰沰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_ien_dah_dah.md#凉荫沰沰)】`lian2 ien5 dah7 dah7` <sup>[东台]</sup> 意同“凉荫”，感觉更舒服。  
 1. 【[凉荫荫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_ien_ien.md#凉荫荫)】`lian2 ien5 ien5` <sup>[泰县]</sup> 凉爽宜人。  
@@ -1025,6 +1068,7 @@
 1. 【[梁背肘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_bei_zheu.md#梁背肘)】`lian2 bei5 zheu3` <sup>[如东]</sup> 帆船上贴在梁背上的木条。  
 1. 【[梁架](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_jia.md#梁架)】`lian2 jia5` <sup>[如东]</sup> 房屋顶部横向的檩条。也称桁条。屋顶第一根称梁，中间称正梁；往下称架，有二架、三架、四架、五架等。  
 1. 【[梁码<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_ma_r.md#梁码<sub>儿</sub>)】`lian2 ma3 r` <sup>[如皋]</sup> 旧时农村常见的“前过道后堂屋”式平房中，“过道”三间，中间用两架“人字梁”，无中柱，名叫过梁，可架水车的槽筒，俗称“架啊～上”。一般有中柱的“大梁”的“山尖儿”上不嵌“山板”的也称～。  
+1. 【[梁山伯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_shaen_boh.md#梁山伯)】`lian2 shaen1 boh7` <sup>[泰州]</sup> 黑色玉带凤蝶：叶子上趜咖个～。  
 1. 【[梁山伯、祝英台](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_shaen_boh_zhoh_ien_tae.md#梁山伯、祝英台)】`lian2 shaen1 boh7 zhoh7 ien1 tae2` <sup>[如皋]</sup> 本指戏剧人物，因其最后化蝶，衍为指黑底色的大彩蝶。  
 1. 【[梁山上的军师——吴（无）用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_shaen_shan_dii_jyen_shr_v_ion.md#梁山上的军师——吴（无）用)】`lian2 shaen1 shan6 dii jyen1 shr1 v2 ion6` <sup>[东台]</sup>   
 1. 【[梁上君子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_shan_jyen_zz.md#梁上君子)】`lian2 shan6 jyen1 zz3` <sup>[如东]</sup> 小偷。  
@@ -1039,6 +1083,7 @@
 1. 【[量八尺子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_baeh_cheh_zz.md#量八尺子)】`lian2 baeh7 cheh7 zz` <sup>[东台]</sup> 计较别人，和人家争辩。  
 1. 【[量米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_mi.md#量米)】`lian2 mi3` <sup>[兴化]</sup> 旧指去米店买米：到刘家米店去～。  
 1. 【[量升斠斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_shen_go_deu.md#量升斠斗)】`lian2 shen1 go5 deu3` <small>/liaŋ2 sən1 kɔ5 tɤ3/<sup>兴化</sup></small> ① 原指用斗和升来测定粮食存量，后泛指清仓查库，摸清家底。（见“斠”）<sup>\[东台\]</sup> ② 含贬义，不放心别人；背着人查问题。<sup>\[东台\]</sup> ③ 反复点数、反复核算<sup>\[兴化\]</sup>：他买点东西家来有得～唻！<sup>\[兴化\]</sup>  
+1. 【[量升斠斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_shen_go_deu.md#量升斠斗)】`lian2 shen1 go5 deu3` <sup>[泰州]</sup> 反复用升斗来校正是否准确，意谓因疑重量不足或者多出而反复斠秤、折腾不已：你就不要再～唻，多个两把，少个两把，都没得说相，百十斤鱼在这块分吖半天还不曾分得好！  
 1. 【[量升斠斗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_shen_go_deu_r.md#量升斠斗<sub>儿</sub>)】`lian2 shen1 go5 deu3 r` <sup>[如皋]</sup> 贬词，一指量度工作忙乱，二指斤斤计较，三指重复细碎。  
 1. 【[量升校斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_shen_go_deu.md#量升校斗)】`lian2 shen1 go5 deu3` <sup>[泰县]</sup> 反复计算。  
 1. 【[𪳄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_zz.md#𪳄子)】`lian2 zz` 从河中提水的小木桶，桶口边上有高而弯曲的梁。<sup>\[泰州\]</sup>  
@@ -1048,6 +1093,7 @@
 1. 【[亮粑粑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_ba_ba.md#亮粑粑)】`lian6 ba1 ba1` <sup>[如皋]</sup> 月亮（儿语）。天上发光的饼。  
 1. 【[亮杯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_bei.md#亮杯)】`lian6 bei1` <sup>[如东]</sup> 助酒兴的一种方法。自己站起来，表示与客人一起把杯中酒喝干，叫做亮杯：请～。  
 1. 【[亮处](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_chv.md#亮处)】`lian6 chv` <sup>[如皋]</sup> ① 明亮的地方：他在暗处，你在～。 ② 比喻美好的地方：白鸽子拣～飞。  
+1. 【[亮曤曤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_huah_huah.md#亮曤曤)】`lian6 huah8 huah8` <sup>[泰州]</sup> 光芒闪烁的样子：这把刀才请人磨过的，～。｜家里换吖200支光的灯泡，照得～的。  
 1. 【[亮月<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_iuh_r.md#亮月<sub>儿</sub>)】`lian6 iuh8 r` 月亮  
 1. 【[亮月子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_iuh_zz.md#亮月子)】`lian6 iuh8 zz` <sup>[泰县]</sup> 月亮。  
 1. 【[亮脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_jiah.md#亮脚)】`lian6 jiah7` <sup>[兴化]</sup> 木工行话，即橱柜的腿：这对厨子式样蛮好，就是～嫌短，不登称。  
@@ -1058,6 +1104,7 @@
 1. 【[亮头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_teu.md#亮头)】`lian6 teu` <sup>[兴化]</sup> ① 发光：夏天早上四点多钟东边就有～啊。 ② 光泽：清漆～大。 ③ 衣物磨损起花：他的衣袖起啊～。  
 1. 【[亮头亮眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_teu_lian_ngaen.md#亮头亮眼)】`lian6 teu lian6 ngaen3` <sup>[兴化]</sup> 尚有天光的时候：你～的不抓紧，天黑咖熬灯费火的才着忙。  
 1. 【[亮头亮眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_teu_lian_ngaen.md#亮头亮眼)】`lian6 teu2 lian6 ngaen3` <sup>[如东]</sup> 光线比较明亮：早早收工，～的。  
+1. 【[亮头亮眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_teu_lian_ngaen.md#亮头亮眼)】`lian6 teu2 lian6 ngaen3` <sup>[泰州]</sup> 太阳下山以后、天黑之前尚有光亮这段时间：天还不曾黑，趁现在～的，早点把外栋晒的些东西收家去。  
 1. 【[亮头亮眼的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_teu_lian_ngaen_dii.md#亮头亮眼的)】`lian6 teu2 lian6 ngaen3 dii` <sup>[如皋]</sup> 白天，光线明亮，有抓紧、趁亮时做事，不要拖到夜晚的意思。  
 1. 【[亮相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_xian.md#亮相)】`lian6 xian5` <sup>[如东]</sup> 露出真面目。  
 1. 【[亮星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_xien.md#亮星)】`lian6 xien1` <small>/liã1 ɕiəŋ1/<sup>如皋</sup>, /niɑŋ1 ɕiŋ1/<sup>泰县</sup></small> ① 星光或者月光很亮的晚上 ② 阴历初八至二十三之间，月亮在空中，光线明亮，称亮星。<sup>\[如东\]</sup> ③ 天空没有云雾，星光闪烁，这种天气称亮星。<sup>\[如东\]</sup> ④ 有月的夜间。一般指阴历初八至二十三之间，即使乌云密布，天色也亮，不会一片漆黑。<sup>\[如皋\]</sup> ⑤ 明亮的夜晚。<sup>\[东台\]</sup> ⑥ 有月亮：今朝是～。<sup>\[泰县\]</sup> ⑦ 月光明亮的夜晚或星光很亮的夜晚<sup>\[泰州\]</sup>：趁这一刻儿～，你俫早点儿走吧。<sup>\[泰州\]</sup>  
@@ -1065,6 +1112,7 @@
 1. 【[谅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian.md#谅)】`lian6` <sup>[东台]</sup> 料想：～你也不敢来。  
 1. 【[谅想](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_xian.md#谅想)】`lian6 xian3` <sup>[兴化]</sup> 估摸：～他不敢动真的。  
 1. 【[量](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian.md#量)】`lian6` <sup>[泰州]</sup> 料想，表示轻视：不是我小看他，这种文章～他写不出来。  
+1. 【[量大福大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_da_foh_da.md#量大福大)】`lian6 da6 foh7 da6` <sup>[泰州]</sup> 肚量大的人其福分也大，多作劝人包容、谅解他人之辞：你老人家～，就原谅他这一回吧。  
 1. 【[量气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_qi.md#量气)】`lian6 qi5` <sup>[如东]</sup> 人的气度：这个人的～不小。  
 1. 【[𪳄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_zz.md#𪳄子)】`lian6 zz` <small>/liaŋ6 t͡sɿ/<sup>兴化</sup>, /liã1 t͡sɿ/<sup>如皋</sup></small> ① 有提梁的木制小水桶 ② 手提的小水桶。可以有盖。多以毛竹片弯成弓形，用箍紧固在桶壁上作系（提把）。有耳子的称桶。参见“提𪳄儿”。<sup>\[如皋\]</sup> ③ 提水的器具，圆柱体，用木板制成，有提梁。小的～称提𪳄。<sup>\[东台\]</sup> ④ 提水的桶子，有柄<sup>\[兴化\]</sup>：大～；小～；铅桶～。<sup>\[兴化\]</sup>  
 1. 【[力不从心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_beh_con_xien.md#力不从心)】`lieh8 beh7 con2 xien1` <sup>[东台]</sup> 想做某事而力量达不到：我的能力不强，想做好也～。  
@@ -1089,6 +1137,7 @@
 1. 【[栗壳色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_kah_seh.md#栗壳色)】`lieh8 kah seh7` <sup>[兴化]</sup> 褐色：他上身穿一件～的休闲装。‖也称“栗色”。  
 1. 【[栗壳<sub>儿</sub>球](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_kah_r_qieu.md#栗壳<sub>儿</sub>球)】`lieh8 kah7 r qieu2` <sup>[如皋]</sup> 乒乓球。  
 1. 【[栗壳色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_kah_seh.md#栗壳色)】`lieh8 kah7 seh7` <sup>[如皋]</sup> 像栗壳的颜色。  
+1. 【[栗壳色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_kah_seh.md#栗壳色)】`lieh8 kah7 seh7` <sup>[泰州]</sup> 褐色：这条～的裤子不丑。  
 1. 【[栗毛球](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_mo_qieu.md#栗毛球)】`lieh8 mo2 qieu2` <sup>[如东]</sup> 壳斗科植物栗树总苞。  
 1. 【[栗色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_seh.md#栗色)】`lieh8 seh7` <sup>[兴化]</sup> 褐色。  
 1. 【[栗树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_shv.md#栗树)】`lieh8 shv6` <sup>[如东]</sup> 壳斗科植物栗，又名板栗。  
@@ -1116,6 +1165,7 @@
 1. 【[令尊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_zuen.md#令尊)】`lien zuen1` <sup>[如东]</sup> 旧时对他人父亲的尊称。  
 1. 【[拎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien.md#拎)】`lien1` <small>/liəŋ1/<sup>如皋</sup></small> ① 提<sup>\[如皋\]</sup>：～水、～箱子<sup>\[如皋\]</sup> ② 悬提<sup>\[泰州\]</sup>：你帮她把两个旅行包～吖车子上去。<sup>\[泰州\]</sup>  
 1. 【[拎草鞋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_co_hae.md#拎草鞋)】`lien1 co3 hae2` <sup>[兴化]</sup> 见“提草鞋”。  
+1. 【[拎草鞋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_co_hae.md#拎草鞋)】`lien1 co3 hae2` <sup>[泰州]</sup> 为底层社会地位不高的人提草鞋，比喻一伙人中最无用的角色：这小伙没得点儿本事，就是跟吖人家后头～，人家怕的都不要。  
 1. 【[拎起来不像个粽子，沰下去不像个糍粑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_qi_lae_beh_qian_gu_zon_zz_dah_ha_qy_beh_qian_gu_cz_ba.md#拎起来不像个粽子，沰下去不像个糍粑)】`lien1 qi3 lae2 beh7 qian6 gu zon5 zz dah7 ha6 qy5 beh7 qian6 gu cz2 ba1` <sup>[东台]</sup> 詈语，不伦不类，不像样子。  
 1. 【[拎神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_shen.md#拎神)】`lien1 shen2` <sup>[如皋]</sup> ① 注意：他听话蛮～。 ② 引起注意：听到这话，他拎吖神。 ③ 出神：他听到消息之后，一个人坐啊下～。 ④ 婴儿要排大小便突然静下来的神态。  
 1. 【[临辰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_chen.md#临辰)】`lien2 chen2` <sup>[东台]</sup> 快临近某一时辰：12点吃饭，1点钟就出发，～吃了收拾收拾午睡就睡不成了。  
@@ -1126,6 +1176,7 @@
 1. 【[临时工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_shr_gon.md#临时工)】`lien2 shr2 gon1` <sup>[如东]</sup> 用工制度的一种。临时招募参加企业劳动的工人。  
 1. 【[临时待月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_shr_tae_iuh.md#临时待月)】`lien2 shr2 tae6 iuh8` <small>/liɪ̃2 sɿ2 tʰɛ6 yuʔ8/<sup>兴化</sup>, /niŋ2 sɿ2 tʰe1 yʊʔ8/<sup>泰县</sup></small> ① 妇女怀孕足月，即将分娩。<sup>\[兴化\]</sup> ② 即将临产。<sup>\[泰县\]</sup>  
 1. 【[临时足月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_shr_zoh_iuh.md#临时足月)】`lien2 shr2 zoh7 iuh8` <sup>[兴化]</sup> 妇女怀孕足月，即将分娩。  
+1. 【[临时足月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_shr_zoh_iuh.md#临时足月)】`lien2 shr2 zoh7 iuh8` <sup>[泰州]</sup> 妇女妊娠十个月后进入临产之时：听说康复医院妇产科的床位紧张，你要同里栋的朋友提前打个招呼，不要等到～再找人家，让人家为难。  
 1. 【[临死骚三脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_sz_so_saen_jiah.md#临死骚三脚)】`lien2 sz3 so1 saen1 jiah7` <sup>[东台]</sup> 就是垂死挣扎，死不悔改。  
 1. 【[临帖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_tih.md#临帖)】`lien2 tih7` <sup>[东台]</sup> 模仿字帖练习写字。  
 1. 【[伶牙俐齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_nga_li_chr.md#伶牙俐齿)】`lien2 nga2 li6 chr3` <sup>[如东]</sup> ① 形容口齿伶俐：这个姑娘～的，真聪明。 ② 形容说话尖刻。  
@@ -1191,6 +1242,7 @@
 1. 【[零碎酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_xy_jieu.md#零碎酒)】`lien2 xy5 jieu3` <sup>[东台]</sup> ［喻］事情未结束，点点滴滴、缠缠拉拉不得了结。  
 1. 【[零碎食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_xy_sheh.md#零碎食)】`lien2 xy5 sheh8` <sup>[如皋]</sup> 一日三餐以外的进食。  
 1. 【[零嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_zuei.md#零嘴)】`lien2 zuei3` <sup>[兴化]</sup> 零食：他喜欢吃～。  
+1. 【[零打碎敲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_da_xy_ko.md#零打碎敲)】`lien3 da3 xy5 ko1` <sup>[泰州]</sup> 不能成整进行买卖，意谓零碎卖出或者买进：他今朝拿一点儿货，明朝弄一点儿货，就这格局～的，一年也进不少货唻。  
 1. 【[领](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien.md#领)】`lien3` <sup>[兴化]</sup> 抚育：（老头子）生活条条理理，两个细小的～得滑滑滴滴的。（兴文《“勤俭”二字不可分家》）  
 1. 【[领阵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_chen.md#领阵)】`lien3 chen6` <sup>[兴化]</sup> 挑头、主事：“过去发大水，几十家合一个圩子，没有人～，张不顾李，李不顾张……”（马春阳《风里雨里》）  
 1. 【[领褂皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_gua_pi.md#领褂皮)】`lien3 gua pi2` <sup>[泰县]</sup> 衣领：抓住你的。  
@@ -1220,6 +1272,7 @@
 1. 【[流落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_lah.md#流落)】`lieu2 lah8` <sup>[如东]</sup> ① 漂泊外地，没有固定职业：到处～。 ② 比喻做不正当的事情：在外头～。  
 1. 【[流流脱脱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_lieu_tuh_tuh.md#流流脱脱)】`lieu2 lieu2 tuh7 tuh7` <sup>[如东]</sup> 形容很多很多：镇上的人～的。  
 1. 【[流流下水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_lieu_xia_shuei.md#流流下水)】`lieu2 lieu2 xia6 shuei3` <sup>[东台]</sup> ［喻］记性好，口才好，背诵或者介绍情况滚瓜烂熟。  
+1. 【[流流下水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_lieu_xia_shuei.md#流流下水)】`lieu2 lieu2 xia6 shuei3` <sup>[泰州]</sup> 从上游顺畅流向到下游的水，比喻说话、读书、背诵非常流畅，没有一点停顿样子：他能把《岳阳楼记》～的背下来。  
 1. 【[流里流气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_lii_lieu_qi.md#流里流气)】`lieu2 lii lieu2 qi5` <sup>[如东]</sup> 作风散漫油滑。  
 1. 【[流里流气的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_lii_lieu_qi_dii.md#流里流气的)】`lieu2 lii lieu2 qi5 dii` <sup>[如皋]</sup> 二流子习气。  
 1. 【[流录谈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_loh_taen.md#流录谈)】`lieu2 loh8 taen2` <sup>[东台]</sup> 指捧不上台面，私下里互相交谈的一些闲言碎语、不见经传的里巷故事、见闻：他过去到啊哪许喜欢～，现在实干。  
@@ -1273,6 +1326,7 @@
 1. 【[裂花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lih_hua.md#裂花)】`lih8 hua` <sup>[兴化]</sup> 因膨胀而开裂：这西瓜长的太熟，皮子倒～开来啦！  
 1. 【[裂颈萝卜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lih_jien_lu_poh.md#裂颈萝卜)】`lih8 jien3 lu2 poh` <sup>[东台]</sup> 本地蔬菜中名品。少辛辣，入口脆嫩，成熟后上端易开裂。  
 1. 【[裂口子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lih_keu_zz.md#裂口子)】`lih8 keu3 zz` <sup>[东台]</sup> 裂开的缝隙。  
+1. 【[裂口子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lih_keu_zz.md#裂口子)】`lih8 keu3 zz` <sup>[泰州]</sup> 手背或脚跟的细小皮肤开裂：她天天要下冷水洗东西，手上弄得全是～。｜你拿橡皮膏子把脚上的～贴咖子。  
 1. 【[裂麻缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lih_ma_fon.md#裂麻缝)】`lih8 ma fon6` <sup>[兴化]</sup> 细小的缝隙：谚曰：吹塘灰寻～（有意挑毛病、找茬儿）。  
 1. 【[裂璺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lih_men.md#裂璺)】`lih8 men6` ① 裂缝 ② 物体裂开一道纹路。<sup>\[如东\]</sup>：水缸～。<sup>\[如东\]</sup> ③ 器物裂开的纹路。<sup>\[东台\]</sup>  
 1. 【[裂须](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lih_xy.md#裂须)】`lih8 xy1` <sup>[东台]</sup> 一种根须开裂，皮结了巴子，形状不规则的萝卜。  
@@ -1295,6 +1349,7 @@
 1. 【[莲叶蒂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_ih_di.md#莲叶蒂)】`lin2 ih8 di5` <sup>[如东]</sup> 睡莲科植物莲的叶基部，也称荷叶蒂。  
 1. 【[莲蓬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_pon.md#莲蓬)】`lin2 pon2` ① 莲房。<sup>\[如东\]</sup> ② 荷花开过以后的花托，内有莲子<sup>\[东台\]</sup>：“最喜小儿无赖，溪头卧剥～”（宋·辛弃疾《清平乐·村居》）。<sup>\[东台\]</sup>  
 1. 【[莲蓬头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_pon_teu.md#莲蓬头)】`lin2 pon2 teu2` <sup>[兴化]</sup> 喷头：淋浴设备及喷壶等出水口上的一种装置。  
+1. 【[莲蓬头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_pon_teu.md#莲蓬头)】`lin2 pon2 teu2` <sup>[泰州]</sup> 浴室淋浴的喷头。  
 1. 【[莲蓬心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_pon_xien.md#莲蓬心)】`lin2 pon2 xien1` <sup>[如皋]</sup> 无主见，拿不定主意。或指人。  
 1. 【[莲须](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_xy.md#莲须)】`lin2 xy1` <sup>[如东]</sup> 睡莲科植物莲的雄芯。  
 1. 【[莲子花生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_zz_hua_shen.md#莲子花生)】`lin2 zz hua1 shen1` <sup>[如皋]</sup> 花生品种，花生米儿是红的。  
@@ -1304,11 +1359,13 @@
 1. 【[连本掼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_ben_kuaen.md#连本掼)】`lin2 ben3 kuaen6` <sup>[兴化]</sup> 见“连本烂”。  
 1. 【[连本烂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_ben_laen.md#连本烂)】`lin2 ben3 laen6` <sup>[兴化]</sup> 做生意连本钱也折光了：这次贩水产品到广州，路上死啊大半，弄个～。‖也称“连本掼”。  
 1. 【[连……带……](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_dae.md#连……带……)】`lin2 dae5` <sup>[东台]</sup> 前后两项或两种动作连在一起：～本～利｜～滚～爬｜～说～唱｜～跑～蹓。  
+1. 【[连……带……](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_dae.md#连……带……)】`lin2 dae5` <sup>[泰州]</sup> ① A、B为两个同义、近义动词时，表示一个动作夹着另外一个动作进行：听说二舅舅来啊，三小连跑带遛的走单位上家来啊。｜他捱老周连推带搡的弄吖走啊。 ② A、B为两个同类、相对应的名词时，表示两个东西同时处于某种状态：我借他的钱在上个月就连本带利都还把他唻。｜他骑脚踏车上班，在路上捱人家连人带车撞吖跌咖马路上，还好人没得事。 ③ 谨案，此种短语结构（1）义州人常用。例如  
 1. 【[连裆码子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_dan_ma_zz.md#连裆码子)】`lin2 dan ma3 zz` <sup>[兴化]</sup> 贬称同伙的人：他俫两个人是～，一个唱红脸，一个唱白脸。  
 1. 【[连裆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_dan.md#连裆)】`lin2 dan1` <sup>[如东]</sup> 互相勾结、包庇，叫做连裆：他俫是～的。  
 1. 【[连裆裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_dan_kv.md#连裆裤)】`lin2 dan1 kv5` <sup>[如东]</sup> 裤裆不开口的裤子。  
 1. 【[连凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_den.md#连凳)】`lin2 den5` <sup>[如皋]</sup> 一种精制高凳，面料厚，镶牙板。  
 1. 【[连二三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_er_saen.md#连二三)】`lin2 er saen1` <sup>[兴化]</sup> 紧接着：他遇见熟人～的打招呼。｜一个人举手，其他人～的跟吖把手举起来。也说“连忙三”。  
+1. 【[连二三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_er_saen.md#连二三)】`lin2 er6 saen1` <sup>[泰州]</sup> 连续不停地重复同一个动作：老丈人问他家里哿有酒，他～的说“有有有”。｜他来啊火，上去～的攉咖这家伙几个大嘴巴子。  
 1. 【[连二三的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_er_saen_dii.md#连二三的)】`lin2 er6 saen1 dii` <sup>[泰县]</sup> 连续：～来啊好几个人。  
 1. 【[连範水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_faen_shuei.md#连範水)】`lin2 faen shuei3` <sup>[如皋]</sup> 一範水踏完，接着再踏。  
 1. 【[连房伙计](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_fan_hu_ji.md#连房伙计)】`lin2 fan2 hu3 ji` <sup>[兴化]</sup> 旧称夫妇一齐给地主当长工：我家世代贫苦，在我出生时，父母仍雇在地主家做～（马春阳《〈双灯照〉后记》）  
@@ -1340,16 +1397,19 @@
 1. 【[连身打连身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_shen_da_lin_shen.md#连身打连身)】`lin2 shen1 da3 lin2 shen1` <sup>[如皋]</sup> 见“连身睏”。  
 1. 【[连身睏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_shen_kuen.md#连身睏)】`lin2 shen1 kuen5` <sup>[如皋]</sup> 和衣而卧。  
 1. 【[连……是……的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_shr_dii.md#连……是……的)】`lin2 shr dii` <sup>[东台]</sup> 表示动作连续不断：～跑～跑～｜～划～划～。  
+1. 【[连……是……](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_shr.md#连……是……)】`lin2 shr6` <sup>[泰州]</sup> 常见短语结构类型之一，表示动词所表动作一个紧接一个：超市的苹果跌价卖，大家拣都不拣就往袋肚里放，我连拿是拿的抢吖十斤。｜她连骂是骂的才把她骂啊走啊。  
 1. 【[连汤带水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_tan_dae_shuei.md#连汤带水)】`lin2 tan1 dae5 shuei3` <sup>[如皋]</sup> 见“连汤夹水”。  
 1. 【[连汤夹水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_tan_gaeh_shuei.md#连汤夹水)】`lin2 tan1 gaeh7 shuei3` <sup>[如皋]</sup> 全部汤水食物。  
 1. 【[连汤面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_tan_min.md#连汤面)】`lin2 tan1 min6` <sup>[如东]</sup> 煮面的一种方法。面条煮熟以后，不起锅，即加作料，称连汤面。这种面，汤腻，面软，有一种独特的口味。  
 1. 【[连头夹尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_teu_gaeh_vei.md#连头夹尾)】`lin2 teu2 gaeh7 vei3` <sup>[如皋]</sup> 包括一切，统算在内：他工作18整年，～算20年。  
 1. 【[连杌虎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_veh_hv.md#连杌虎)】`lin2 veh8 hv3` <sup>[兴化]</sup> 长方形小柜，外形像连在一起的两只方杌子。  
+1. 【[连珠炮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_zhv_po.md#连珠炮)】`lin2 zhv1 po5` <sup>[泰州]</sup> 说话一句接着一句，没有停顿：你慢吖点儿说，～样的，人家听不过来。  
 1. 【[连灶房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_zo_fan.md#连灶房)】`lin2 zo5 fan2` <sup>[如东]</sup> 灶间与住房明间连在一起的房屋。  
 1. 【[镰刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_do.md#镰刀)】`lin2 do1` <sup>[如东]</sup> 割麦、稻等农作物的工具。刀营长，呈弧形，头尖，刃锋利。具短柄。  
 1. 【[镰钩刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_geu_do.md#镰钩刀)】`lin2 geu1 do1` <sup>[东台]</sup> 即镰刀，也称钩儿刀。收割庄稼、割草用的农具。  
 1. 【[鲢鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_y.md#鲢鱼)】`lin2 y2` <sup>[东台]</sup> 一种常见淡水鱼。因讨“年年有余”的口彩，成为民间过年过节常用菜肴。  
 1. 【[鲢子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_zz.md#鲢子)】`lin2 zz` <sup>[如皋]</sup> 鲢。或作“鲢子鱼”。  
+1. 【[鲢子鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_zz_y.md#鲢子鱼)】`lin2 zz y2` <sup>[泰州]</sup> “白鲢”俗称，亦作“鲢子”，头大鳞细，背青灰色，腹部白色，本地四大家鱼之一。  
 1. 【[敛饥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_ji.md#敛饥)】`lin3 ji1` <sup>[如皋]</sup> 略吃点，暂抵饥饿。  
 1. 【[脸摆啊下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_bae_a_ha.md#脸摆啊下)】`lin3 bae3 a ha` <sup>[如皋]</sup> 见“死脸”。  
 1. 【[脸板吖下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_baen_nga_ha.md#脸板吖下)】`lin3 baen3 nga ha` <sup>[如皋]</sup> 脸部毫无表情，或过分严肃、带有怒色。  
@@ -1410,6 +1470,7 @@
 1. 【[僚气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_qi.md#僚气)】`lio2 qi5` <sup>[兴化]</sup> （戏）官僚作风、官气：别看他官不大，～十足。  
 1. 【[嫽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio.md#嫽)】`lio2` <sup>[泰州]</sup> 相互戏弄嬉闹：几个细小伙一蹾做块ㄦ，不是你～他，就是他～你，～得不好就哭，中觉都捱他俫吵掉啊。  
 1. 【[嫽拨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_buh.md#嫽拨)】`lio2 buh7` <sup>[如皋]</sup> 撩拨。  
+1. 【[嫽嫽搭搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_lio_daeh_daeh.md#嫽嫽搭搭)】`lio2 lio2 daeh7 daeh7` <sup>[泰州]</sup> 儿童之间相互戏弄嬉闹而斗殴的行为：你俫这些伢儿要玩就在做块儿好好的玩，不要～的，弄吖哭起来！  
 1. 【[嫽人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_ren.md#嫽人)】`lio2 ren2` <sup>[如皋]</sup> 见“嫽骚”。  
 1. 【[嫽人眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_ren_ngaen.md#嫽人眼)】`lio2 ren2 ngaen3` <sup>[如皋]</sup> 能挑逗的眼睛。  
 1. 【[嫽骚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_so.md#嫽骚)】`lio2 so1` <sup>[如皋]</sup> 卖弄风情、挑逗异性。  
@@ -1421,6 +1482,7 @@
 1. 【[撩浅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_qin.md#撩浅)】`lio2 qin3` <sup>[东台]</sup> 在老河道清除淤泥，使河水由浅变深，流得更畅通：这条河～后，老百姓都说好。  
 1. 【[撩人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_ren.md#撩人)】`lio2 ren2` 以色诱人，勾引人<sup>\[泰州\]</sup>：这马马儿随她怎吖～，你不睬她就是唻。<sup>\[泰州\]</sup>  
 1. 【[撩事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_shr.md#撩事)】`lio2 shr6` <small>/niɔ2 sɿ1/<sup>泰县</sup></small> ① 惹事<sup>\[泰县\]</sup>：请你不要到这块来～。<sup>\[泰县\]</sup> ② 挑起争执<sup>\[泰州\]</sup>：这家伙以后肯定还要～，你不睬他，时间一长，他就无趣唻。<sup>\[泰州\]</sup>｜你在这块看书看得好好的，你不要去～。<sup>\[泰州\]</sup>  
+1. 【[撩事拰口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_shr_nien_keu.md#撩事拰口)】`lio2 shr6 nien3 keu3` <sup>[泰州]</sup> 故意挑衅、惹出事端而引发起争执，多被用于形容儿童间的相互争执：你这个做哥哥的是怎吖做的啊，不带住几个小的做块儿好好的玩，反而在家里～，吵得大人不得一刻儿安逸。  
 1. 【[撩骚眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_so_ngaen.md#撩骚眼)】`lio2 so ngaen3` <sup>[东台]</sup> 引逗的眼神；媚眼。  
 1. 【[撩骚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_so.md#撩骚)】`lio2 so1` <sup>[兴化]</sup> 勾引、调戏：对小伙子的挑逗和～，她毫不动心。  
 1. 【[撩他说](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_ta_shuh.md#撩他说)】`lio2 ta1 shuh7` <sup>[东台]</sup> 挑逗别人说某种话。  
@@ -1428,11 +1490,13 @@
 1. 【[敹裁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_cae.md#敹裁)】`lio2-1 cae` <sup>[东台]</sup> 缝补鞋子等衣物。  
 1. 【[橑檐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_in.md#橑檐)】`lio2 in2` <small>/liɔ2 iɪ̃2/<sup>兴化</sup>, /liɔ2 ĩ2/<sup>如皋</sup></small> ① 榛，橡。<sup>\[如皋\]</sup> ② 屋檐。<sup>\[如皋\]</sup> ③ 伸出檐墙的椽子<sup>\[兴化\]</sup>：～条子（横钉在檐口椽下的木条）。橑，《集韵·萧韵》怜萧切<sup>\[兴化\]</sup>｜椽也。<sup>\[兴化\]</sup>  
 1. 【[燎浆大泡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_jian_da_po.md#燎浆大泡)】`lio2 jian1 da6 po5` <sup>[兴化]</sup> 皮肤由于受灼、烫而起的水泡。  
+1. 【[燎浆大泡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_jian_da_po.md#燎浆大泡)】`lio2 jian1 da6 po5` <sup>[泰州]</sup> 因为火伤或者烫伤而在皮肤表面形成的较大水泡：她传水的时候，茶瓶胆陡然的炸掉啊，膀子上捱透水烫吖几个～。  
 1. 【[聊表](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_bio.md#聊表)】`lio2 bio3` <small>/liɔ2 piɔ3/<sup>如皋</sup></small> 大体、稍微、粗略<sup>\[如皋\]</sup><sup>\[泰州\]</sup>：我把书～翻吖下子，写得不错。<sup>\[如皋\]</sup>｜他在会上～说咖几句。<sup>\[泰州\]</sup>｜来不洎啊，你把衣裳～烫啊子。<sup>\[泰州\]</sup>  
 1. 【[聊表<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_bio_r.md#聊表<sub>儿</sub>)】`lio2 bio3 r` <sup>[兴化]</sup> 约略地：我跟他～说咖几句，不曾深谈。  
 1. 【[聊微](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_vei.md#聊微)】`lio2 vei2` <sup>[如皋]</sup> 略微，稍许。  
 1. 【[辽边及缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_bin_qieh_fon.md#辽边及缝)】`lio2 bin1 qieh8 fon6` <sup>[兴化]</sup> 位于最边缘：你站得～的，覅跌下去。｜花瓶摆得～的，弄不好𠫓下地打碎。  
 1. 【[了不得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_beh_deh.md#了不得)】`lio3 beh7 deh7` <sup>[如东]</sup> 情况严重，没法收拾。  
+1. 【[了不得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_beh_deh.md#了不得)】`lio3 beh7 deh7` <sup>[泰州]</sup> ① 不得了，发生的情况很严重：不就迟啊个到，～这个月的奖金不要唻。｜不就是个肝炎，看得好的，也不是甚的～的大病。 ② 不可一世的样子：他自从提啊处长以后，就像～煞咖，望见老同学，头昂吖老高。  
 1. 【[了不起](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_beh_qi.md#了不起)】`lio3 beh7 qi3` <small>/liɔ3 pəʔ7 t͡ɕʰʝ3/<sup>如皋</sup></small> ① 非常突出。<sup>\[如东\]</sup>：这座桥这吖漂亮，真是～。<sup>\[如东\]</sup> ② 表瞧不起：我～你！<sup>\[如皋\]</sup>  
 1. 【[了宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_bo.md#了宝)】`lio3 bo3` <sup>[如东]</sup> 挥霍浪费、不聚钱财的人。  
 1. 【[了得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_deh.md#了得)】`lio3 deh7` <sup>[如东]</sup> 能力强，本领大：这个人武功～。  
@@ -1445,6 +1509,7 @@
 1. 【[了期](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_qi.md#了期)】`lio3 qi1` <sup>[兴化]</sup> 事情完结的日子：“……我才说是这一案欠命的案定了，还有别的案子呢！我知道哪天是～……”（《老残游记》二·七）  
 1. 【[了手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_sheu.md#了手)】`lio3 sheu3` <small>/liɔ3 sɤ3/<sup>兴化</sup>, /liɔ3 ɕiɤɯ3/<sup>泰兴</sup></small> 办完；了结。<sup>\[东台\]</sup><sup>\[泰兴\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：如果不快刀斩乱麻，箇桩事没得～。<sup>\[泰兴\]</sup>｜张家的活计还有三天～。<sup>\[兴化\]</sup>｜“……我又不是个丫头，把我关在家里，何日是个～……”（《红楼梦》四八）<sup>\[兴化\]</sup>｜等我把这桩事了啊手，就陪你出去玩。<sup>\[泰州\]</sup>  
 1. 【[了首尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_sheu_vei.md#了首尾)】`lio3 sheu3 vei3` <small>/liɔ3 sɤ3 uəi3/<sup>兴化</sup>, /niɔ3 sɤɯ3 ʋəɪ3/<sup>泰县</sup></small> ① 指完成对子女的责任。<sup>\[东台\]</sup> ② 给儿女办完婚事<sup>\[兴化\]</sup>：我还有小儿子结婚一桩大事，就全部～啊。<sup>\[兴化\]</sup> ③ 完成了培育子女的事。<sup>\[泰县\]</sup>  
+1. 【[了首尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_sheu_vei.md#了首尾)】`lio3 sheu3 vei3` <sup>[泰州]</sup> 做好最后的事，特指完成为父母送终、替儿子娶亲、送女儿出嫁三大任务。  
 1. 【[了微<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_vei_r.md#了微<sub>儿</sub>)】`lio3 vei2 r` <sup>[如东]</sup> 稍微：～晚点。  
 1. 【[了戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_xi.md#了戏)】`lio3 xi5` <small>/liɔ3 ɕi5/<sup>兴化</sup></small> ① 完了<sup>\[兴化\]</sup>：～！皮五辣子今日是非打肉不可了……（扬说《皮五辣子打肉》三）<sup>\[兴化\]</sup> ② “死”的隐语<sup>\[兴化\]</sup>：老王三～啊。<sup>\[兴化\]</sup> ③ 事情已经结束，再努力已经没有意义了<sup>\[泰州\]</sup>：他俫过啊今朝晚上还不交钱的话，他看中的这个房子也就～唻。<sup>\[泰州\]</sup>｜李校长调啊走啊，他加伢儿上泰中的事怕的要～唻。<sup>\[泰州\]</sup>  
 1. 【[尥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio.md#尥)】`lio6` <small>/liɔ6/<sup>兴化</sup></small> ① 以足钩人使跌。《吴下方言考》“案～，斜舒足钩倒人也。吴中谓舒足钩人曰～。”<sup>\[兴化\]</sup> ② 互相打斗<sup>\[兴化\]</sup>：有种过来～一交。<sup>\[兴化\]</sup> ③ 大步走<sup>\[兴化\]</sup>：他走起路来两条长腿直～。<sup>\[兴化\]</sup> ④ 大步迅速走路<sup>\[泰州\]</sup>：他俫少年人～起来快得狠。<sup>\[泰州\]</sup>｜大个子在前头直～，一刻ㄦ工夫就望不到他人唻。<sup>\[泰州\]</sup>  
@@ -1458,10 +1523,12 @@
 1. 【[撂筹码](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_cheu_ma.md#撂筹码)】`lio6 cheu2 ma3` <sup>[如皋]</sup> ① 计数方式，搬运工人常用。 ② 用水车踏水的计量方法。  
 1. 【[撂潮头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_cho_teu.md#撂潮头)】`lio6 cho2 teu2` <sup>[如东]</sup> 利用潮水涨落时间下海捕捞鱼虾，叫撂潮头。  
 1. 【[撂担子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_daen_zz.md#撂担子)】`lio6 daen5 zz` <sup>[东台]</sup> 甩手不干。  
+1. 【[撂担子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_daen_zz.md#撂担子)】`lio6 daen5 zz` <sup>[泰州]</sup> 比喻因某种原因放弃自己应负的职责：你说你俫科长最近同上头不泻意，～不搝啊。  
 1. 【[撂𬙙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_fan.md#撂𬙙)】`lio6 fan1` <sup>[如东]</sup> 渔民下海去把𬙙（上罒下方，渔网）中的鱼虾取回来。  
 1. 【[撂风汛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_fon_xien.md#撂风汛)】`lio6 fon1 xien5` <sup>[兴化]</sup> 深秋以来因冷空气入侵带来的大风。也说“掼风汛”：马上～，外出要多带衣装  
 1. 【[撂跟头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_gen_teu.md#撂跟头)】`lio6 gen1 teu` <sup>[如皋]</sup> 摔跟头。  
 1. 【[撂糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_go.md#撂糕)】`lio6 go1` <sup>[如东]</sup> 一种民间风俗。建造新屋上正梁时，木匠和瓦匠踩着放在中柱梁上的梯子向上爬，一面说富贵，一面撂糕，表示全家和美发达。  
+1. 【[撂下脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_ha_lin.md#撂下脸)】`lio6 ha6 lin3` <sup>[泰州]</sup> 因生气或不满而突现冷峻或冷漠脸色：今朝子不晓得他～来是同哪一个？  
 1. 【[撂桸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_hae.md#撂桸)】`lio6 hae3` <small>/liɔ1 xɛ3/<sup>如皋</sup></small> ① 工具。海子两边的角上，各系两根绳索，两人抓着，装货物后，向前向上晃动，把货物抛在前方。<sup>\[如东\]</sup> ② 有长柄的用作㪕（chah7）鱼的网兜。<sup>\[如皋\]</sup> ③ 一头长柄一头网兜的渔具，用于捞鱼。<sup>\[东台\]</sup>  
 1. 【[撂话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_hua.md#撂话)】`lio6 hua6` <small>/liɔ6 xua6/<sup>兴化</sup></small> ① 留下表明态度的话<sup>\[兴化\]</sup>：老头临出门～，教你俫覅在他房子上打主意。<sup>\[兴化\]</sup> ② 丢下表明态度或最后通牒的话<sup>\[泰州\]</sup>：他临走撂啊话，月底不还钱，就同你打官司。<sup>\[泰州\]</sup>  
 1. 【[撂荒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_huan.md#撂荒)】`lio6 huan1` ① 农田不种庄稼，让其生长野草，叫做撂荒。也称抛荒。<sup>\[如东\]</sup> ② 也叫抛荒，任土地荒芜。<sup>\[东台\]</sup>  
@@ -1469,6 +1536,7 @@
 1. 【[撂㗘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_pah.md#撂㗘)】`lio6 pah7` <sup>[泰县]</sup> 吹牛皮，说话不负责任：不要在这许～，家去做事去。  
 1. 【[撂棒打不到人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_pan_da_beh_do_ren.md#撂棒打不到人)】`lio6 pan6 da3 beh7 do5 ren2` <sup>[东台]</sup> 形容人烟稀少，人气不足。  
 1. 【[撂盘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_pun_zz.md#撂盘子)】`lio6 pun2 zz` <sup>[如皋]</sup> 谈判时向对方提出意向性的条件、要求。  
+1. 【[撂石锁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_sheh_su.md#撂石锁)】`lio6 sheh8 su3` <sup>[泰州]</sup> 民间传统体育锻炼项目，通过各种花色动作抛接石锁，锻炼臂力、腕力、握力以及腰部、腿部力量。  
 1. 【[撂手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_sheu.md#撂手)】`lio6 sheu3` <sup>[东台]</sup> 不继续做下去，丢开不管：事情不曾结束，我还不能～。  
 1. 【[撂大斧斫𣜂/楔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_tae_fv_zhah_saeh.md#撂大斧斫𣜂/楔)】`lio6 tae6 fv zhah7 saeh7` <sup>[东台]</sup> ［喻］做事没有精准依据，只有凭感觉模糊地操作。东台方言用“𩐅”：这个方案是否科学，没有根据，恐怕是～，碰碰看。  
 1. 【[撂豆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_teu_r.md#撂豆<sub>儿</sub>)】`lio6 teu6 r` <sup>[如东]</sup> 把黄豆儿抛出去。黄豆很轻。比喻不用费劲就把对方战胜了：他跟我掼跤，就像～一样。  
@@ -1515,6 +1583,7 @@
 1. 【[捞蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_hae.md#捞蟹)】`lo2 hae3` <sup>[如东]</sup> 一种捕捞方式。涨潮时，渔民迎着潮头，用捞网在港汊中迅速地向前推动，从而把蟹兜进网袋。  
 1. 【[捞话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_hua.md#捞话)】`lo2 hua6` <sup>[如东]</sup> 随便插话：你不要～。  
 1. 【[捞油水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ieu_shuei.md#捞油水)】`lo2 ieu2 shuei3` <sup>[东台]</sup> （贬）捞取份外好处。  
+1. 【[捞油水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ieu_shuei.md#捞油水)】`lo2 ieu2 shuei3` <sup>[泰州]</sup> 以不正当手段获取公家或者集体钱物：这个家伙分管基建的时候，捞啊公家不少有水。  
 1. 【[捞疄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lien_zz.md#捞疄子)】`lo2 lien2 zz` <sup>[如皋]</sup> 在田间挖槽堆垅，供栽植芋头、番芋等块茎作物。  
 1. 【[捞捞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lo.md#捞捞)】`lo2 lo2` <sup>[如东]</sup> ① 企图获取分外的东西：他想出去～。 ② 做做：现在没事做，我想出去～。  
 1. 【[捞摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_mah.md#捞摸)】`lo2 mah8` ① 好处，外快。<sup>\[如东\]</sup>：你在那许可能有点儿～。<sup>\[如东\]</sup> ② ［喻］有东西可捞可摸，有内容有滋味<sup>\[东台\]</sup>：光喝粥，没～。<sup>\[东台\]</sup>  
@@ -1539,6 +1608,7 @@
 1. 【[牢实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_sheh.md#牢实)】`lo2 sheh` <sup>[泰县]</sup> 结实，质量好：这种布～。  
 1. 【[牢实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_sheh.md#牢实)】`lo2 sheh8` <small>/lɔ2 səʔ8/<sup>如皋</sup></small> ① 结实。<sup>\[如东\]</sup>：这张桌子～。<sup>\[如东\]</sup> ② 牢固，结实。<sup>\[如皋\]</sup>  
 1. 【[牢食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_sheh.md#牢食)】`lo2 sheh8` <small>/lɔ2 səʔ8/<sup>兴化</sup></small> ① 原来为囚犯的饮食，此为怨恨之语。<sup>\[东台\]</sup> ② 牢饭。<sup>\[兴化\]</sup>  
+1. 【[牢手板子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_sheu_baen_zz.md#牢手板子)】`lo2 sheu3 baen3 zz` <sup>[泰州]</sup> 牢，“牢子”省称，狱卒。牢子的手，比喻喜欢乱翻家中东西的人，贬义。犯人关进牢前，狱卒仔细翻找犯人全身，检查有无违禁之物，故有此语：家里东西摆得好好的，不要你～动它，翻吖乱吖，到啊用的时候找不到。｜他这个～怎吖就不得闲的，家里的书捱他翻得块块是的。  
 1. 【[牢事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_shr.md#牢事)】`lo2 shr6` 詈词，指无聊的举动<sup>\[泰州\]</sup>：你在家里没得～做，写写字也是好的。<sup>\[泰州\]</sup>｜你说他哿有～做，家里捱他翻得一塌糊涂。<sup>\[泰州\]</sup>  
 1. 【[牢骚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_so.md#牢骚)】`lo2 so1` <sup>[如东]</sup> 发泄不满情绪，说抱怨话：不要发～。  
 1. 【[牢头禁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_teu_jien_zz.md#牢头禁子)】`lo2 teu2 jien5 zz` <sup>[如东]</sup> ① 旧时看管牢狱的兵士。 ② 比喻紧紧盯着自己的人：他像～一样的盯吖我。  
@@ -1554,6 +1624,7 @@
 1. 【[痨膙<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_jian_r.md#痨膙<sub>儿</sub>)】`lo2 jian3 r` <sup>[东台]</sup> 戏称不肯长，个子矮的人。  
 1. 【[痨病鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_pien_guei.md#痨病鬼)】`lo2 pien guei3` <sup>[兴化]</sup> ① 旧称结核病患者。 ② 也指慢性病缠身，瘦弱无力的人：人丛中还有一个打杂差的～阿七……（《四杰传》七五）  
 1. 【[痨病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_pien.md#痨病)】`lo2 pien6` ① 肺结核。<sup>\[如东\]</sup> ② 肺结核病的一种旧说法。<sup>\[东台\]</sup>  
+1. 【[痨病鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_pien_guei.md#痨病鬼)】`lo2 pien6 guei3` <sup>[泰州]</sup> 对肺结核病患者的蔑称，泛指身体虚弱不能从事重体力劳动的人。  
 1. 【[痨病鬼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_pien_guei_r.md#痨病鬼<sub>儿</sub>)】`lo2 pien6 guei3 r` <small>/lɔ2 pʰiəŋ1 kuei˞3/<sup>如皋</sup>, /nɔ2 pʰiŋ1 kuəɪ3 ɚ/<sup>泰县</sup></small> ① 患肺结核的人。<sup>\[如东\]</sup> ② 形容身体非常瘦弱的人。<sup>\[如东\]</sup>：他像个～。<sup>\[如东\]</sup> ③ 贬指肺结核病者。<sup>\[如皋\]</sup> ④ 体质差的人。<sup>\[如皋\]</sup> ⑤ 肺结核病人。<sup>\[泰县\]</sup>  
 1. 【[痨病鬼<sub>儿</sub>开药店——半吃半卖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_pien_guei_r_kae_iah_din_bun_qieh_bun_mae.md#痨病鬼<sub>儿</sub>开药店——半吃半卖)】`lo2 pien6 guei3 r kae1 iah8 din5 bun5 qieh7 bun5 mae6` <sup>[东台]</sup>   
 1. 【[痨生子<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_shen_zz_r.md#痨生子<sub>儿</sub>)】`lo2 shen1 zz3 r` <sup>[如东]</sup> ① 身体瘦弱的人。 ② 比喻不好的东西：这个是甚的～？  
@@ -1583,6 +1654,7 @@
 1. 【[老板姑娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_baen_gv_nian.md#老板姑娘)】`lo3 baen3 gv1 nian` <sup>[兴化]</sup> 老板的女儿：“有家小哩，连家店，有老板奶奶，有～，你问做啥？”（《武松》八）  
 1. 【[老板老腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_baen_lo_qian.md#老板老腔)】`lo3 baen3 lo3 qian1` <sup>[如东]</sup> 装着很有架势地跟人说话：这个人一的，不好说话。  
 1. 【[老板奶奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_baen_nae_nae.md#老板奶奶)】`lo3 baen3 nae3 nae` <sup>[兴化]</sup> 老板的妻子。也称“老板娘子”。  
+1. 【[老板奶奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_baen_nae_nae.md#老板奶奶)】`lo3 baen3 nae3 nae` <sup>[泰州]</sup> 雇主之妻，老板娘：你家～拟作才三十多岁的人。  
 1. 【[老剥皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_bah_pi.md#老剥皮)】`lo3 bah7 pi2` <sup>[兴化]</sup> ① 骂牲畜的话。 ② （戏）骂老而油滑的男子。  
 1. 【[老驳酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_bah_jieu.md#老驳酒)】`lo3 bah7 jieu3` <sup>[如东]</sup> 一种米酒，淡白色，浓度较低。  
 1. 【[老驳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_bah_zz.md#老驳子)】`lo3 bah7 zz` <sup>[如东]</sup> ① 陈旧的驳船。 ② 比喻老人或老年女人。  
@@ -1592,11 +1664,14 @@
 1. 【[老镑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ban.md#老镑)】`lo3 ban5` <sup>[东台]</sup> ① 受伤的伤疤快要痊愈； ② 成熟、老扎、结实了：才做的水泥路还不～，不能从上头走。  
 1. 【[老不死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_beh_sz.md#老不死)】`lo3 beh7 sz3` <sup>[如东]</sup> 年纪大了怎么还不死，表示厌恨。这是咒骂老人的话。  
 1. 【[老本](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ben.md#老本)】`lo3 ben3` <sup>[如皋]</sup> ① “本家”间的互称。 ② 同姓者的互称，以示亲热。 ③ 本钱。  
+1. 【[老本行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ben_han.md#老本行)】`lo3 ben3 han2` <sup>[泰州]</sup> 个人长期从事的非常熟悉的行业或职业：你还是去做自己的～，教书去吧。  
 1. 【[老屄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_bi.md#老屄)】`lo3 bi1` <sup>[如皋]</sup> 詈语。骂老年女人。  
 1. 【[老屄肏相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_bi_reh_xian.md#老屄肏相)】`lo3 bi1 reh8 xian5` <sup>[泰县]</sup> 摆老资格：你不要总是～的。  
+1. 【[老屄肏相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_bi_reh_xian.md#老屄肏相)】`lo3 bi1 reh8 xian5` <sup>[泰州]</sup> 詈骂年轻小辈表现出的不尊重长辈的言行：厂办的这小伙到哪块都～的，这种把不得穷脸的东西，你同他客气做甚的？  
 1. 【[老膘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_bio.md#老膘)】`lo3 bio1` <sup>[如皋]</sup> 长得偏老，不嫩：～韭菜不好吃。  
 1. 【[老百姓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_boh_xien.md#老百姓)】`lo3 boh7 xien5` <sup>[如东]</sup> 群众：我俫都是～。  
 1. 【[老半天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_bun_tin.md#老半天)】`lo3 bun5 tin1` <small>/lɔ3 pũ5 tʰiɪ̃1/<sup>兴化</sup>, /lɔ3 pʊ̃5 tʰĩ1/<sup>如皋</sup></small> ① 老长时间。见“半大天”。<sup>\[如皋\]</sup> ② 相当长一段时间<sup>\[兴化\]</sup>：我等你～，你才家来。<sup>\[兴化\]</sup>  
+1. 【[老半天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_bun_tin.md#老半天)】`lo3 bun5 tin1` <sup>[泰州]</sup> 泛指一两个小时的时间：他进去啊～唻，马上要出来唻。  
 1. 【[老布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_bv.md#老布)】`lo3 bv5` <small>/lɔ3 pu5/<sup>兴化</sup>, /lɔ3 pu5/<sup>如皋</sup></small> ① 旧时手工纺织的粗棉布。<sup>\[如东\]</sup> ② 土布。家庭旧式木机所织的布，宽约1.3尺，手工纺纱，粗而不匀，布很厚。<sup>\[如皋\]</sup> ③ 粗布、土布<sup>\[兴化\]</sup>：～褂裤。<sup>\[兴化\]</sup>  
 1. 【[老布<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_bv_r.md#老布<sub>儿</sub>)】`lo3 bv5 r` <sup>[如皋]</sup> 见“大布”。  
 1. 【[老插](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_chaeh.md#老插)】`lo3 chaeh7` <small>/nɔ3 t͡sʰæʔ7/<sup>泰县</sup></small> ① 插队知青。<sup>\[泰县\]</sup> ② 插队知识青年，自称“老插”有自嘲之义。<sup>\[泰州\]</sup>  
@@ -1624,7 +1699,10 @@
 1. 【[老住身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_chv_shen.md#老住身)】`lo3 chv6 shen1` <sup>[如皋]</sup> 原居住地。  
 1. 【[老大人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_da_ren.md#老大人)】`lo3 da ren2` <sup>[兴化]</sup> （戏）指自己以外的其他人：约好八点钟会齐，他～九点半才到。｜他～出差到上海，身份证也不带。  
 1. 【[老大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_da.md#老大)】`lo3 da5` <small>/lɔ3 ta5/<sup>兴化</sup></small> ① 掌舵的船夫；也泛指其他的船夫<sup>\[兴化\]</sup>：船～。<sup>\[兴化\]</sup> ② 长子，兄弟辈中排行第一的人<sup>\[泰州\]</sup>：他家弟兄四个，～今年子六十多唻。<sup>\[泰州\]</sup> ③ 船主或者掌舵的人<sup>\[泰州\]</sup>：他家老三是泰州开兴化班船上的～。<sup>\[泰州\]</sup>  
+1. 【[老大的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_da_dii.md#老大的)】`lo3 da5 dii` <sup>[泰州]</sup> 非常大的：你这格局说，他心里～的不欢喜。  
+1. 【[老大人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_da_ren.md#老大人)】`lo3 da5 ren2` <sup>[泰州]</sup> 谑称，相当于“那位”，用尊敬的形式表示调侃：（时间到了人还没来）他～吖，恐怕还不曾出发吤。｜他～在北京玩把钱包弄吖少掉啊，要不是遇到老刘，他差点儿不得家来。｜当吖人家领导的面，你猜他～怎吖说的？  
 1. 【[老大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_da.md#老大)】`lo3 da6` <small>/lɔ3 ta1/<sup>如皋</sup></small> ① 掌管船舶航行及处理日常事务的负责人。渔船老大的份额为3.33。<sup>\[如东\]</sup> ② 兄弟中排行第一的人。也称大哥。<sup>\[如东\]</sup> ③ 民船的舵手，相当于船长。<sup>\[如皋\]</sup> ④ 副词，表示程度，相当于“很大”“极大”<sup>\[泰州\]</sup>：你这样子说他，他～的不高兴。<sup>\[泰州\]</sup>  
+1. 【[老大点<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_da_din_r.md#老大点<sub>儿</sub>)】`lo3 da6 din3 r` <sup>[泰州]</sup> 很有一些：他嘴上说没事，心里～不开心。  
 1. 【[老大哥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_da_gu.md#老大哥)】`lo3 da6 gu1` <small>/lɔ3 ta1 kʊ1/<sup>如皋</sup></small> ① 对兄长的尊称。<sup>\[如东\]</sup> ② 对男性友人的尊称。<sup>\[如东\]</sup> ③ 对工人的通称。<sup>\[如东\]</sup> ④ 土气十足的人。<sup>\[如皋\]</sup> ⑤ 尊称兄长。尊称友人（男性）。<sup>\[如皋\]</sup> ⑥ 贬称农民。源自“农民老大哥”一词。<sup>\[如皋\]</sup>  
 1. 【[老呆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_dae.md#老呆)】`lo3 dae1` <sup>[如皋]</sup> 老，副词，指礼让不争或不想相争的人。  
 1. 【[老驐牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_den_ngeu.md#老驐牛)】`lo3 den1 ngeu2` <sup>[东台]</sup> 形容缺乏朝气，动作慢吞吞的人。  
@@ -1638,6 +1716,7 @@
 1. 【[老到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_do.md#老到)】`lo3 do5` ① 做事老练周到<sup>\[泰州\]</sup>：他说话做事～得很，像是大机关的人。<sup>\[泰州\]</sup> ② 做人本分稳重<sup>\[泰州\]</sup>：人家老李多～啊，从来不上这些乱七八糟的地方去。<sup>\[泰州\]</sup> ③ 行文合乎章法<sup>\[泰州\]</sup>：这篇文章的文笔～得很，不像是中学生写的。<sup>\[泰州\]</sup>  
 1. 【[老东西](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_don_xi.md#老东西)】`lo3 don1 xi` <sup>[如皋]</sup> 詈语，骂老人。  
 1. 【[老而实之](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_er_sheh_zhr.md#老而实之)】`lo3 er sheh7 zhr` <sup>[东台]</sup> 老老实实按规矩办事。  
+1. 【[老儿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_er_zz.md#老儿子)】`lo3 er2 zz` <sup>[泰州]</sup> 年纪最小的儿子：老李同～把大事一办，就了啊首尾唻。  
 1. 【[老福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_foh.md#老福)】`lo3 foh7` <sup>[如皋]</sup> 见“老来福”。  
 1. 【[老家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ga.md#老家)】`lo3 ga1` <small>/lɔ3 ka1/<sup>如皋</sup></small> ① 家乡。<sup>\[如皋\]</sup> ② 阴间，亦指死<sup>\[如皋\]</sup>：回～。<sup>\[如皋\]</sup> ③ 祖籍所在地方或者原先家庭房屋所在的地方<sup>\[泰州\]</sup>：他家～在东台，晚清才迁到泰州来的。<sup>\[泰州\]</sup>  
 1. 【[老介瘟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_gae_ven.md#老介瘟)】`lo3 gae5 ven1` <sup>[东台]</sup> （詈语）木讷，很少与人交流的人。  
@@ -1659,19 +1738,25 @@
 1. 【[老个<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_gu_r.md#老个<sub>儿</sub>)】`lo3 gu5 r` <sup>[东台]</sup> 兄弟姐妹中最小的一个。  
 1. 【[老瓜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_gua_r.md#老瓜<sub>儿</sub>)】`lo3 gua1 r` <sup>[兴化]</sup> （戏）老头：这个～顶真哩！跟他一点不能马虎。  
 1. 【[老骨头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_gueh_teu.md#老骨头)】`lo3 gueh7 teu` <sup>[如东]</sup> 比喻能够撑，能够顶的人。  
+1. 【[老规矩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_guei_jy.md#老规矩)】`lo3 guei1 jy` <sup>[泰州]</sup> 传统的规则或做法：总共赚吖三万块钱，还是照～，一家一半。  
 1. 【[老轨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_guei.md#老轨)】`lo3 guei3` <sup>[如皋]</sup> 船上的技师。  
 1. 【[老鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_guei.md#老鬼)】`lo3 guei3` <sup>[如皋]</sup> ① 贬指老年人。 ② 死去多年的鬼魂。  
 1. 【[老鬼脚迹草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_guei_jiah_jieh_co.md#老鬼脚迹草)】`lo3 guei3 jiah7 jieh7 co3` <sup>[如皋]</sup> 毛茛。  
 1. 【[老贵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_guei.md#老贵)】`lo3 guei5` 在轮船上专职开柴油发动机的人，其在船上的地位仅次于船老大<sup>\[泰州\]</sup>：他家老子在轮船上当～，工资拿得高，家里条件不丑。<sup>\[泰州\]</sup>  
 1. 【[老轨*](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_guei.md#老轨*)】`lo3 guei5` <sup>[兴化]</sup> 旧称司机。  
+1. 【[老倌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_gun_r.md#老倌<sub>儿</sub>)】`lo3 gun r` <sup>[泰州]</sup> 年纪最小的儿子。  
 1. 【[老干痞味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_gun_pi_vei.md#老干痞味)】`lo3 gun pi3 vei6` <sup>[兴化]</sup> 形容倚老卖老的样子：这个人～的，真不讨喜。  
 1. 【[老鹳嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_gun_zuei.md#老鹳嘴)】`lo3 gun zuei3` <sup>[兴化]</sup> 一种小而扁长的蚌，因其形似～而得名。  
 1. 【[老倌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_gun_r.md#老倌<sub>儿</sub>)】`lo3 gun1 r` <sup>[兴化]</sup> 最小的儿子。也称“老巴子”“老梆子”：他是老毛家～。  
 1. 【[老杆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_gun_zz.md#老杆子)】`lo3 gun3 zz` <sup>[兴化]</sup> 谓经验丰富的人：他修电机是～。  
+1. 【[老杆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_gun_zz.md#老杆子)】`lo3 gun3 zz` <sup>[泰州]</sup> 比喻长期从事某个领域工作，经验比较丰富的人：他在这个行当蹾吖几十年，是～唻。  
 1. 【[老鹳草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_gun_co.md#老鹳草)】`lo3 gun5 co3` <sup>[如东]</sup> 牻牛儿科植物老鹤草，一年生草本。  
+1. 【[老鹳嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_gun_jy.md#老鹳嘴)】`lo3 gun5 jy3` <sup>[泰州]</sup> 一种淡水蚌的名称，外壳长直，比河蚌的壳硬、厚，肉较饱满，生于小河浅水之中。  
 1. 【[老姑娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_gv_nian.md#老姑娘)】`lo3 gv1 nian` <small>/lɔ3 ku1 liaŋ/<sup>兴化</sup>, /lɔ3 ku1 niã/<sup>如皋</sup></small> ① 大龄未婚女性。<sup>\[如皋\]</sup> ② 大龄未婚女子<sup>\[兴化\]</sup>：孩子的班主任是一位三十多岁的～。<sup>\[兴化\]</sup>  
+1. 【[老姑娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_gv_nian.md#老姑娘)】`lo3 gv1 nian` <sup>[泰州]</sup> ① 年纪最小的女儿。 ② 过了正常婚假年龄的处女。  
 1. 【[老姑娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_gv_nian.md#老姑娘)】`lo3 gv1 nian2` <sup>[如东]</sup> 未婚大龄女子。  
 1. 【[老古板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_gv_baen.md#老古板)】`lo3 gv3 baen3` <small>/lɔ3 ku3 pɛ̃3/<sup>兴化</sup></small> ① 严守戒律和守旧的人。<sup>\[东台\]</sup> ② 墨守陈规，拘谨守旧的人<sup>\[兴化\]</sup>：他是个～，从来不跟妇女说玩话。<sup>\[兴化\]</sup>  
+1. 【[老古板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_gv_baen.md#老古板)】`lo3 gv3 baen3` <sup>[泰州]</sup> 思想传统守旧的人：你俫在他这个～跟前说话注意点儿。  
 1. 【[老古话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_gv_hua.md#老古话)】`lo3 gv3 hua6` <sup>[兴化]</sup> ① 古人传下来的或过去流行的话题。 ② 也指追述往事：他的～最多，动不动就说人家祖上如何如何。  
 1. 【[老海](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_hae.md#老海)】`lo3 hae3` <sup>[泰县]</sup> 海洛因。  
 1. 【[老侯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_heu.md#老侯)】`lo3 heu` ① 老年男子，老头 ② 对年老男子的称呼。<sup>\[如东\]</sup>  
@@ -1682,6 +1767,7 @@
 1. 【[老火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_hu.md#老火)】`lo3 hu3` <small>/lɔ3 xʊ3/<sup>如皋</sup></small> ① 食物煮过头了，叫做老火。<sup>\[如东\]</sup> ② 卖货时价高又不让价。<sup>\[如皋\]</sup> ③ 做菜过了火候。<sup>\[如皋\]</sup> ④ 资格老，不让人。<sup>\[如皋\]</sup> ⑤ 见“敖翘”。<sup>\[如皋\]</sup> ⑥ 稍微过火。<sup>\[如皋\]</sup>  
 1. 【[老货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_hu.md#老货)】`lo3 hu5` <sup>[如皋]</sup> 詈语。骂老年女性。  
 1. 【[老滑头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_huaeh_teu.md#老滑头)】`lo3 huaeh8 teu2` <sup>[如东]</sup> 老奸巨滑的人。  
+1. 【[老滑头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_huaeh_teu.md#老滑头)】`lo3 huaeh8 teu2` <sup>[泰州]</sup> 社会经验丰富、行事狡诈、欺骗性强的人。  
 1. 【[老虎窗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_hv_chuan.md#老虎窗)】`lo3 hv chuan1` <sup>[兴化]</sup> 建在屋顶上形似小屋的通风设备，也指在这种设备上安装的窗户。  
 1. 【[老虎皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_hv_pi.md#老虎皮)】`lo3 hv pi2` <sup>[兴化]</sup> 贬称旧时的军警制服：披～的。  
 1. 【[老虎爪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_hv_zhua_zz.md#老虎爪子)】`lo3 hv zhua3 zz` <sup>[兴化]</sup> ① 京江䭣的别称。 ② （喻）手段厉害：他是有名的～，经他的手起码剥去层皮。  
@@ -1698,26 +1784,34 @@
 1. 【[老爷娘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_i_nian_zz.md#老爷娘子)】`lo3 i2 nian2 zz` <sup>[兴化]</sup> 旧称官员的夫人：“……不要以为是个七品官，对内照样怕～！”（马春阳《战友加亲邻》）｜谚曰：～不吃屎浇菜，单拣肥的买。  
 1. 【[老爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ia.md#老爷)】`lo3 ia` <sup>[如皋]</sup> 过时、陈旧、质差：～身体、～货、～机器。  
 1. 【[老爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ia.md#老爷)】`lo3 ia2` <small>/lɔ3 ia2/<sup>兴化</sup></small> ① 形容老旧的机械设备或差劲的身体、货物等等<sup>\[兴化\]</sup>：～货；～车；～身体。<sup>\[兴化\]</sup> ② 器物使用时间很长，功能减退或缺失<sup>\[泰州\]</sup>：这支～钢笔，用吖有十几年，笔头子都写啊秃咖唻。<sup>\[泰州\]</sup>  
+1. 【[老一班](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ieh_baen.md#老一班)】`lo3 ieh7 baen1` <sup>[泰州]</sup> 老一辈人：你俫～坐一张桌子。｜～走得差不多唻，就剩吖他俫这两个老的。  
 1. 【[老鹰扠小鸡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ien_cha_xio_ji_r.md#老鹰扠小鸡<sub>儿</sub>)】`lo3 ien1 cha1 xio3 ji1 r` <sup>[如皋]</sup> 游戏名。一人扮老鹰，一人扮母鸡，其余扮小鸡，在母鸡身后依次拉住前人的衣边。先行对话（有定辞），接着一捉一护，捉到一个人就为胜。  
 1. 【[老鹰磨云](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ien_mu_yen.md#老鹰磨云)】`lo3 ien1 mu6 yen2` <sup>[如皋]</sup> 老鹰在高空好像挨着云滑翔盘旋。  
 1. 【[老油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ieu.md#老油)】`lo3 ieu2` 人体分泌出的沾在衣服上的油脂<sup>\[泰州\]</sup>：他身上的～重吖不得命，干净衣裳穿吖不到两天就全黑咖唻。<sup>\[泰州\]</sup>  
 1. 【[老油条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ieu_tio.md#老油条)】`lo3 ieu2 tio2` <small>/lɔ3 iɤ2 tʰiɔ2/<sup>兴化</sup></small> ① 比喻油头滑脑的人。<sup>\[如东\]</sup>：他是一个～。<sup>\[如东\]</sup> ② 比喻屡教不改的人。<sup>\[如东\]</sup>：不要做～。<sup>\[如东\]</sup> ③ 炸得较老的油条。<sup>\[东台\]</sup> ④ 年龄大、处世圆滑的人。<sup>\[东台\]</sup> ⑤ （贬）称处世油滑，工作疲沓拖拉的人<sup>\[兴化\]</sup>：他是～，差不多的人不买账。<sup>\[兴化\]</sup>  
+1. 【[老油条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ieu_tio.md#老油条)】`lo3 ieu2 tio2` <sup>[泰州]</sup> 比喻倚仗自己老资格，说话做事奸猾的人：这家伙是个～，不大好弄，同他打交道要存神。  
+1. 【[老油子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ieu_zz.md#老油子)】`lo3 ieu2 zz` <sup>[泰州]</sup> 某个领域阅历丰富、熟悉情况而且油滑的人：这个人是个～，这些事情他晓得怎吖弄法。  
 1. 【[老园](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_iun.md#老园)】`lo3 iun2` <sup>[如东]</sup> 原来居住的地方。  
 1. 【[老甲鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_jiaeh_y.md#老甲鱼)】`lo3 jiaeh7 y2` <sup>[东台]</sup> 精于世故的老年男子。带贬义。  
 1. 【[老脚鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_jiah_y.md#老脚鱼)】`lo3 jiah7 y2` <small>/lɔ3 t͡ɕiaʔ7 y2/<sup>兴化</sup>, /lɔ3 t͡ɕiaʔ7 y2/<sup>如皋</sup></small> ① 比喻老奸巨猾的人。<sup>\[如东\]</sup>：他是一个～。<sup>\[如东\]</sup> ② 詈语。骂老年男性，尤指精于世故的老年男性。<sup>\[如皋\]</sup> ③ 市井骂人的话，多指老年男子。<sup>\[兴化\]</sup>  
+1. 【[老脚鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_jiah_y.md#老脚鱼)】`lo3 jiah7 y2` <sup>[泰州]</sup> 詈词，老而不正的男子：这～不是个东西，明明自家跌咖来的，还要讹赖人家学生的钱。  
 1. 【[老姜仁<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_jian_ren_r.md#老姜仁<sub>儿</sub>)】`lo3 jian1 ren2 r` <sup>[如东]</sup> 老生姜干瘪皱褶，比喻人的脸皮皱纹很多，身体干瘦，年迈苍老：她现在像个～。  
 1. 【[老姜形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_jian_xien.md#老姜形)】`lo3 jian1 xien2` <sup>[如皋]</sup> 偏老而干瘪的样子。  
+1. 【[老江湖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_jian_hv.md#老江湖)】`lo3 jian1 hv2` <sup>[泰州]</sup> 阅历深厚，社会经验丰富的人。  
+1. 【[老礓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_jian_r.md#老礓<sub>儿</sub>)】`lo3 jian3 r` <sup>[泰州]</sup> 比喻身高、体重、肤色法语显得与其年龄不相称的矮、瘦、黑黄、干枯、衰老的青年人：他是个～，二十几岁唻，还不到八十斤。  
 1. 【[老经纪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_jien_ji.md#老经纪)】`lo3 jien1 ji` <small>/lɔ3 t͡ɕin1 t͡ɕi/<sup>兴化</sup>, /nɔ3 t͡ɕiŋ1 t͡sɿ/<sup>泰县</sup></small> ① 居间买卖的人。<sup>\[兴化\]</sup> ② 老于世故的人。<sup>\[兴化\]</sup> ③ 经验丰富的人。<sup>\[泰县\]</sup>  
 1. 【[老九的弟弟——老十（实）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_jieu_dii_ti_ti_lo_sheh.md#老九的弟弟——老十（实）)】`lo3 jieu3 dii ti6 ti6 lo3 sheh8 （sheh）` <sup>[东台]</sup>   
 1. 【[老酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_jieu.md#老酒)】`lo3 jieu3` <sup>[兴化]</sup> 酒：他喜欢喝～，吃猪头肉。  
 1. 【[老趼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_jin.md#老趼)】`lo3 jin3` <sup>[如皋]</sup> 着力处生成的角质厚皮。  
 1. 【[老交](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_jio.md#老交)】`lo3 jio1` <small>/lɔ3 t͡ɕiɔ1/<sup>兴化</sup></small> ① 深交，老朋友，老交情。<sup>\[东台\]</sup> ② 老朋友、老相交<sup>\[兴化\]</sup>：那合家欢照片上的蓝珍，就是关新仁的～一一他俩相识已四十六个春秋。（马春阳《昏迷再婚谜》）<sup>\[兴化\]</sup>  
+1. 【[老交情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_jio_qien.md#老交情)】`lo3 jio1 qien1` <sup>[泰州]</sup> 经过较长时间交往而建立的感情。  
 1. 【[老居](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_jy.md#老居)】`lo3 jy1` <sup>[东台]</sup> 手艺老练，经验丰富的人。  
 1. 【[老车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_jy.md#老车)】`lo3 jy1` <sup>[如皋]</sup> 摆老资格的人。  
 1. 【[老鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_jy.md#老鬼)】`lo3 jy3` <sup>[兴化]</sup> （音“老举”）老经验：他周正本事没得，吃花酒，洗桑拿是～。  
 1. 【[老君会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_jyen_huei.md#老君会)】`lo3 jyen1 huei6` <sup>[兴化]</sup> 旧时铜、铁、锡等冶炼、锻造业的行会，因奉李老君（疑为李聃，神话中称太上老君）为祖师，故名。  
 1. 【[老君须](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_jyen_xy.md#老君须)】`lo3 jyen1 xy1` <sup>[如东]</sup> 萝藦科植物雪里蟠桃，又名婆婆针线包，多年生草本。  
 1. 【[老掐掐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_kaeh_kaeh.md#老掐掐)】`lo3 kaeh7 kaeh7` <sup>[兴化]</sup> ① 形容早熟，与“嫩”相对：这个韭菜～的，不好吃。 ② 指年轻人老气横秋的样子：这个小伙～的，不讨喜。  
+1. 【[老掐掐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_kaeh_kaeh.md#老掐掐)】`lo3 kaeh7 kaeh7` <sup>[泰州]</sup> ① 叶类蔬菜老得掐不下或者截不断：这个青菜薹儿～的，怕的不能吃唻。 ② 比喻青少年人老气横秋的样子：这小伙岁数不大，说话～的。  
 1. 【[老壳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_kah_zz.md#老壳子)】`lo3 kah7 zz` <sup>[如东]</sup> ① 陈旧的外壳：只剩下一个～。 ② 比喻老年妇女：她是一个～。  
 1. 【[老硍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ken.md#老硍)】`lo3 ken5` <small>/lɔ3 kʰən5/<sup>兴化</sup>, /nɔ3 kʰəŋ5/<sup>泰县</sup></small> ① 身上的汗腺分泌物，污垢。<sup>\[泰县\]</sup> ② 长时间积聚的污垢。<sup>\[兴化\]</sup> ③ 久积的污渍<sup>\[兴化\]</sup>：身上的～难洗哩！也称“古硍”。<sup>\[兴化\]</sup>  
 1. 【[老扣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_keu.md#老扣)】`lo3 keu1` <sup>[如皋]</sup> ① 严密：他做事～。 ② 坚决缜密：你同他说话要下～，一点不能带游扣。  
@@ -1731,19 +1825,24 @@
 1. 【[老来坏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lae_huae.md#老来坏)】`lo3 lae2 huae6` <sup>[如皋]</sup> 玉米、蚕豆、黄豆的籽粒在老熟时干瘪的现象。  
 1. 【[老来青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lae_qien.md#老来青)】`lo3 lae2 qien1` <sup>[兴化]</sup> ① 水稻的一个品种。 ② （借）形容人越活越年轻：她姐年交五十八……不仅貌似“老来俏”，里内确似～。（马春阳《昏迷再婚迷》）  
 1. 【[老来俏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lae_qio.md#老来俏)】`lo3 lae2 qio5` <small>/lɔ3 lɛ2 t͡ɕʰiɔ5/<sup>兴化</sup>, /lɔ3 lɛ2 t͡ɕʰiɔ5/<sup>如皋</sup></small> ① 年纪老了，但却更加注意打扮自己。<sup>\[如东\]</sup>：王奶奶已经六十三岁啊还穿花裙子，真是～。<sup>\[如东\]</sup> ② 年老而变得（打扮）俊俏。<sup>\[如皋\]</sup> ③ 形容人越活越年轻，越扮越花哨<sup>\[兴化\]</sup>：她是～，五十大几还烫发、搽口红。<sup>\[兴化\]</sup>  
+1. 【[老来俏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lae_qio.md#老来俏)】`lo3 lae2 qio5` <sup>[泰州]</sup> 讥讽老年人的衣着打扮像年轻人一样，传统文化认为老年人应该庄重，贬义。今日社会进步，提倡老年人的服装要年轻化，已成为褒义词。  
 1. 【[老来说当先](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lae_shuh_dan_xin.md#老来说当先)】`lo3 lae2 shuh7 dan1 xin1` <sup>[如东]</sup> 年纪老了，喜欢诉说过去经历的事情。  
 1. 【[老来子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lae_zz.md#老来子)】`lo3 lae2 zz` <sup>[泰县]</sup> 老年所生的幼子。  
+1. 【[老来子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lae_zz.md#老来子)】`lo3 lae2 zz` <sup>[泰州]</sup> 父母年纪大了以后生的子女。  
 1. 【[老来子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lae_zz.md#老来子)】`lo3 lae2 zz3` <small>/lɔ3 lɛ2 t͡sɿ3/<sup>兴化</sup>, /lɔ3 lɛ2 t͡sɿ3/<sup>如皋</sup></small> ① 进入衰老期所生的孩子。<sup>\[如皋\]</sup> ② 老年得子<sup>\[兴化\]</sup>：他是个～，身体单薄。<sup>\[兴化\]</sup>  
 1. 【[老菱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lien.md#老菱)】`lo3 lien2` <small>/lɔ3 liɪ̃2/<sup>兴化</sup>, /lɔ3 liəŋ2/<sup>如皋</sup></small> ① 乌菱。<sup>\[如皋\]</sup> ② 即菱角。也称“角老菱”。<sup>\[兴化\]</sup> ③ 有四个刺角的菱，叶片类三角形，叶柄中有气囊，夏开白花，果壳坚硬，下有四个锥形长刺，幼嫩果实可以生食，多为果实长老以后煮食，故名。<sup>\[泰州\]</sup>  
 1. 【[老里八早](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lii_baeh_zo.md#老里八早)】`lo3 lii baeh7 zo3` <sup>[东台]</sup> 非常早，很久以前。  
+1. 【[老里老气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lii_lo_qi.md#老里老气)】`lo3 lii lo3 qi5` <sup>[泰州]</sup> 老练气概：这家伙不晓得是甚的来头，朝办公室一坐，～的称局长是小王，说是有事找小王，叫我同他去把局长喊过来。  
 1. 【[老里老实的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lii_lo_sheh_dii.md#老里老实的)】`lo3 lii lo3 sheh dii` <sup>[如皋]</sup> 老老实实的。  
 1. 【[老里老相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lii_lo_xian.md#老里老相)】`lo3 lii lo3 xian5` <sup>[东台]</sup> ① 对人不尊重，摆架子。 ② 倚老卖老，冒充内行。 ③ 随意取用别人的东西。  
 1. 【[老脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lin.md#老脸)】`lo3 lin3` <sup>[如东]</sup> 谦辞。老年人指自己的面子：还是凭我这张～。  
 1. 【[老脸饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lin_faen.md#老脸饭)】`lo3 lin3 faen6` <sup>[泰县]</sup> 厚着脸皮吃别人的饭。  
 1. 【[老脸皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lin_pi.md#老脸皮)】`lo3 lin3 pi2` <small>/lɔ3 liɪ̃3 pʰi2/<sup>兴化</sup></small> ① 不害怕，不害羞。<sup>\[如东\]</sup>：这们多人脸都不红，真是一张～。<sup>\[如东\]</sup> ② 脸皮厚，没有羞耻感<sup>\[兴化\]</sup>：他这个～不怕人黄他。<sup>\[兴化\]</sup>  
 1. 【[老脸皮厚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lin_pi_heu.md#老脸皮厚)】`lo3 lin3 pi2 heu6` <sup>[兴化]</sup> 形容人的脸皮厚，不害羞：“并没有新鲜招笑儿的，少不得～的说一个罢。”（《红楼梦》五四）  
+1. 【[老脸皮厚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lin_pi_heu.md#老脸皮厚)】`lo3 lin3 pi2 heu6` <sup>[泰州]</sup> 老人脸上皮厚，指面对他人冷眼相待而泰然地我行我素：这小伙你这格局凶吖他，亏他还老脸皮厚的笑得出来！｜人家同他又不啰唆，他还竟然还～的去找人家！  
 1. 【[老脸菩萨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lin_pv_saeh.md#老脸菩萨)】`lo3 lin3 pv2 saeh7` <sup>[泰县]</sup> 不顾羞耻：你是个～。  
 1. 【[老脸色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lin_seh.md#老脸色)】`lo3 lin3 seh7` <small>/lɔ3 liɪ̃3 səʔ7/<sup>兴化</sup>, /nɔ3 niɪ̃3 səʔ7/<sup>泰县</sup></small> ① 老样子。<sup>\[如东\]</sup>：还是一个～o<sup>\[如东\]</sup> ② 形容经常出现的面孔<sup>\[兴化\]</sup>：……从庄里跑出了一通人马，打前排的是两个……（马春阳《姐妹烟缘船迷传》）<sup>\[兴化\]</sup> ③ 老面孔。<sup>\[泰县\]</sup>  
+1. 【[老脸色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lin_seh.md#老脸色)】`lo3 lin3 seh7` <sup>[泰州]</sup> 经常出现的熟悉面孔：今吖子来开会的，还是这几个～。  
 1. 【[老老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lo.md#老老)】`lo3 lo` <small>/lɔ3 lɔ/<sup>泰兴</sup>, /nɔ3 nɔ/<sup>泰县</sup></small> ① 祖父<sup>\[泰兴\]</sup>\[如东：如东东路\]\[泰县：泰县南部\] ② 对老年男子的尊称<sup>\[泰县\]</sup>：他家～还在。<sup>\[泰县\]</sup>｜原来这～姓蒋，叫蒋三。（评话《济公传·割瘤移瘤》）<sup>\[泰县\]</sup>  
 1. 【[老老爹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lo_dia.md#老老爹)】`lo3 lo3 dia1` <sup>[东台]</sup> 高祖父，即爷爷的爷爷。  
 1. 【[老老太](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lo_tae.md#老老太)】`lo3 lo3 tae5` <sup>[东台]</sup> 高祖母，即爷爷的祖母。  
@@ -1753,6 +1852,8 @@
 1. 【[老妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ma.md#老妈)】`lo3 ma1` <sup>[如东]</sup> 老年女佣人。  
 1. 【[老妈妈子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ma_ma_zz.md#老妈妈子)】`lo3 ma1 ma zz` <sup>[兴化]</sup> 老年妇女。  
 1. 【[老妈子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ma_zz.md#老妈子)】`lo3 ma1 zz` <sup>[东台]</sup> 老年女佣。  
+1. 【[老妈子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ma_zz.md#老妈子)】`lo3 ma1 zz` <sup>[泰州]</sup> 五十岁以上的老年女仆：你家妈妈苦啊一世，退啊休还要同你俫当～，你还嫌好嫌丑的，太不像话唻。  
+1. 【[老麻油壶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ma_ieu_hv.md#老麻油壶)】`lo3 ma2 ieu2 hv2` <sup>[泰州]</sup> 使用很久的麻油壶，喻指久经历练、极为精明的人，麻油壶长期浸于油缸之中，又油又滑，故云：老赵这个～多精啊，怎吖可能捱你俫抓到把柄。  
 1. 【[老麻脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ma_jiah.md#老麻脚)】`lo3 ma2 jiah7` <sup>[如东]</sup> 脚麻木了，走路不方便，快要死了。比喻年纪老了，没有用了。这是咒骂老年人的话。  
 1. 【[老末](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_mah.md#老末)】`lo3 mah` 最后一个人  
 1. 【[老霉朽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_mei_xieu.md#老霉朽)】`lo3 mei2 xieu3` <sup>[兴化]</sup> 见“老霉桩子”。  
@@ -1761,6 +1862,7 @@
 1. 【[老迷桩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_mi_zhuan.md#老迷桩)】`lo3 mi2 zhuan1` <sup>[泰县]</sup> 迷信旧事物的人，复古的人。  
 1. 【[老霉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_mi.md#老霉)】`lo3 mi2` 指年老而又思想守旧、见识陈腐的人<sup>\[泰州\]</sup>：我俫这些～的话，年轻人听不进去唻。<sup>\[泰州\]</sup>  
 1. 【[老霉桩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_mi_zhuan_r.md#老霉桩<sub>儿</sub>)】`lo3 mi2 zhuan1 r` <sup>[东台]</sup> ［喻］形容思想老化，跟不上时代的人。  
+1. 【[老霉桩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_mi_zhuan_zz.md#老霉桩子)】`lo3 mi2 zhuan1 zz` <sup>[泰州]</sup> 老得发霉的成年人，喻指年老而又思想守旧、见识陈腐之人，多作年老之人的自嘲之词：他俫想怎吖装修就怎吖装修，无非多花两个钱，你就不要管唻，年轻人的想法同我俫这些～想法不一样。  
 1. 【[老米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_mi.md#老米)】`lo3 mi3` <small>/lɔ3 mi3/<sup>兴化</sup></small> ① 陈米。<sup>\[兴化\]</sup> ② 糙米<sup>\[兴化\]</sup>：～干饭。<sup>\[兴化\]</sup> ③ 糙米，粗碾的米<sup>\[泰州\]</sup>：～青菜饭最养人。<sup>\[泰州\]</sup>  
 1. 【[老面孔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_min_kon.md#老面孔)】`lo3 min6 kon3` <small>/lɔ3 miɪ̃6 kʰoŋ3/<sup>兴化</sup></small> ① 还是原来的那些人。比喻没有什么变化。<sup>\[如东\]</sup>：这次参加会议的全是～。<sup>\[如东\]</sup> ② 指还是原来的那些人<sup>\[兴化\]</sup>：这次上台的大多是～。<sup>\[兴化\]</sup> ③ （喻）陈旧的样式<sup>\[兴化\]</sup>：展出的产品还是一副～。<sup>\[兴化\]</sup>  
 1. 【[老□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_mu.md#老□)】`lo3 mu` <sup>[如皋]</sup> 非常，相当地：他摸咖条鱼～大。  
@@ -1786,6 +1888,7 @@
 1. 【[老牛拖破车——越拖越慢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ngeu_tu_pu_cha_iuh_tu_iuh_maen.md#老牛拖破车——越拖越慢)】`lo3 ngeu2 tu1 pu5 cha1 iuh8 tu1 iuh8 maen6` <sup>[东台]</sup>   
 1. 【[老娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_nian.md#老娘)】`lo3 nian` 老年妇女，老太太  
 1. 【[老娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_nian.md#老娘)】`lo3 nian2` <small>/lɔ3 liaŋ2/<sup>兴化</sup></small> ① 上年纪的母亲 ② 自己的母亲。<sup>\[如东\]</sup> ③ 年龄很大的妇女。<sup>\[如东\]</sup>：她已经是～吖。<sup>\[如东\]</sup> ④ 年龄大的男子对自己妻子的称呼。<sup>\[如东\]</sup>：我家～。<sup>\[如东\]</sup> ⑤ 女人的狂妄自称。<sup>\[如东\]</sup> ⑥ 接生婆<sup>\[兴化\]</sup>：一般人家生孩子，都是请～。（汪《故里三陈》）<sup>\[兴化\]</sup> ⑦ 老妇人或妇人自称<sup>\[兴化\]</sup>：“……～就没了亲戚儿，许你便来欺负～……”（《金瓶梅词话》九九）<sup>\[兴化\]</sup>｜“着了！由你奸似鬼，吃了～的洗脚水。”（《水浒传》二七）<sup>\[兴化\]</sup> ⑧ 称母亲（欠尊重）。<sup>\[兴化\]</sup> ⑨ 稳婆，旧时专业接生女性，多为老年妇女。<sup>\[泰州\]</sup> ⑩ 妇女对人的粗野自称，与男子对人自称“老子”类似<sup>\[泰州\]</sup>：你俫这些狗肏的眼睛瞎咖唻，欺到～的头上来啊唻。<sup>\[泰州\]</sup>  
+1. 【[老牛筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_nieu_jien.md#老牛筋)】`lo3 nieu2 jien1` <sup>[泰州]</sup> 极其倔强固执的人：遇到像他这种～，你说煞咖也没得用。  
 1. 【[老年大学](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_nin_da_xiah.md#老年大学)】`lo3 nin2 da6 xiah8` <sup>[如东]</sup> 对离退休人员实施文化科学知识教育的学校。一般不设专职教师，不记学历，不发文凭。  
 1. 【[老农堆草——后来居上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_non_dy_co_heu_lae_jy_shan.md#老农堆草——后来居上)】`lo3 non2 dy1 co3 heu6 lae2 jy1 shan6` <sup>[东台]</sup>   
 1. 【[老奴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_nv.md#老奴)】`lo3 nv2` <sup>[如皋]</sup> ① 旧时老年男仆。 ② 长辈生气时的自称。  
@@ -1794,6 +1897,7 @@
 1. 【[老皮耷相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_pi_dah_xian.md#老皮耷相)】`lo3 pi2 dah7 xian5` <sup>[兴化]</sup> 形容人老气横秋，令人生厌的样子：他再～的覅怪我冲他。  
 1. 【[老皮入相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_pi_reh_xian.md#老皮入相)】`lo3 pi2 reh8 xian5` <sup>[东台]</sup> 亦有写成“老屄肏相”，喻意脸老皮厚，摆臭架子。  
 1. 【[老皮条子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_pi_tio_zz.md#老皮条子)】`lo3 pi2 tio2 zz` <small>/lɔ3 pʰi2 tʰiɔ2 t͡sɿ/<sup>兴化</sup>, /nɔ3 pʰɿ2 tʰiɔ2 t͡se/<sup>泰县</sup></small> ① （戏）称年老而油滑的人<sup>\[兴化\]</sup>：这个～滑得很，你弄不过他。<sup>\[兴化\]</sup> ② 玩世不恭的人。<sup>\[泰县\]</sup>  
+1. 【[老皮条子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_pi_tio_zz.md#老皮条子)】`lo3 pi2 tio2 zz` <sup>[泰州]</sup> 使用时间很长的皮条子，比喻经历事多、大错没有、小错不断的人:上班迟到对他来说不是头一回，说咖多少回也没得用，你就是扣啊他的工资他也不会改，对这种～，你拿他还真没有办法。  
 1. 【[老屁眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_pi_ngaen.md#老屁眼)】`lo3 pi5 ngaen3` ① 比喻卖老资格而使人感到讨厌的人。<sup>\[如东\]</sup>：他是一个～。<sup>\[如东\]</sup> ② （詈语）老相，卖老资格，一般人的话不买账。与“大象屁股推不动”近义。<sup>\[东台\]</sup>  
 1. 【[老婆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_pu.md#老婆)】`lo3 pu` <sup>[如东]</sup> 丈夫对妻子的俗称。  
 1. 【[老气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_qi.md#老气)】`lo3 qi` <sup>[如皋]</sup> 看上去比实际年龄显得老。  
@@ -1811,6 +1915,7 @@
 1. 【[老人头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ren_teu.md#老人头)】`lo3 ren2 teu2` <small>/lɔ3 ɻəŋ2 tʰei2/<sup>如皋</sup></small> ① 自装聪明。<sup>\[如东\]</sup>：他就爱做～。<sup>\[如东\]</sup> ② 卖老资格。<sup>\[如东\]</sup> ③ 贬指年轻而显得资格老的人。<sup>\[如皋\]</sup> ④ 指不尊重师长的年轻人<sup>\[东台\]</sup>：他对长辈直呼其名，～！<sup>\[东台\]</sup> ⑤ 自以为经验丰富，好摆老资格的人。<sup>\[东台\]</sup>  
 1. 【[老人味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ren_vei.md#老人味)】`lo3 ren2 vei6` <sup>[如皋]</sup> 见“老味”。  
 1. 【[老三老四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_saen_lo_sz.md#老三老四)】`lo3 saen1 lo3 sz5` <small>/lɔ3 sɛ̃1 lɔ3 sɿ5/<sup>兴化</sup>, /nɔ3 sɛ̃1 nɔ3 sɿ5/<sup>泰县</sup></small> ① 老相，不尊重人的态度。<sup>\[东台\]</sup> ② 形容老气横秋，傲慢无理的样子<sup>\[兴化\]</sup>：老大老二走光吖，又冒出个～的来。<sup>\[兴化\]</sup> ③ 说话好为人师或说话傲慢不虚心：你说话不要～的，多听听别人的话。/我生你出来是叫你～来教明阿爹的呀？（甬剧·两兄弟）<sup>\[泰县\]</sup>  
+1. 【[老三老四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_saen_lo_sz.md#老三老四)】`lo3 saen1 lo3 sz5` <sup>[泰州]</sup> 辈分或者职务较低的人言语用词、行为举止僭越本人所处地位：你真没得脉吤，你家爷爷（叔叔）临到你这小伙～的教训吖。｜他家局长在场，他就～的朝上岗子上～坐，连客气话都没得一句！  
 1. 【[老三老四的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_saen_lo_sz_dii.md#老三老四的)】`lo3 saen1 lo3 sz5 dii` <sup>[如皋]</sup> 责语。责夸夸其谈，自以为是的人。  
 1. 【[老上人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_shan_ren.md#老上人)】`lo3 shan6 ren` <sup>[如皋]</sup> 祖先。  
 1. 【[老实巴交的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_sheh_ba_jio_dii.md#老实巴交的)】`lo3 sheh ba1 jio1 dii` <sup>[如皋]</sup> 老实。  
@@ -1818,6 +1923,7 @@
 1. 【[老实巴地的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_sheh_ba_ti_dii.md#老实巴地的)】`lo3 sheh ba1 ti6 dii` <sup>[如皋]</sup> 老实。  
 1. 【[老实不客气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_sheh_beh_keh_qi.md#老实不客气)】`lo3 sheh beh7 keh7 qi5` <sup>[如皋]</sup> 不避嫌恶、强行行动：他跑到人家家里，～的拿起筷儿来就吃。  
 1. 【[老实头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_sheh_teu_r.md#老实头<sub>儿</sub>)】`lo3 sheh teu2 r` <sup>[如皋]</sup> 很老实的人。  
+1. 【[老实头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_sheh_teu_r.md#老实头<sub>儿</sub>)】`lo3 sheh teu2 r` <sup>[泰州]</sup> 指极其忠厚诚实的人：老周这个老实头儿说的话不得假！  
 1. 【[老实头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_sheh_teu_zz.md#老实头子)】`lo3 sheh teu2 zz` <sup>[东台]</sup> 太老实的人。  
 1. 【[老实为尊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_sheh_vei_zuen.md#老实为尊)】`lo3 sheh vei2 zuen1` <sup>[如皋]</sup> ① 劝客不要拘礼客套时的用语。 ② 作客者自诩用语。  
 1. 【[老实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_sheh.md#老实)】`lo3 sheh8` <sup>[如东]</sup> 忠厚诚实：这个人～。  
@@ -1840,11 +1946,13 @@
 1. 【[老太](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_tae.md#老太)】`lo3 tae5` <small>/lɔ3 tʰɛ5/<sup>兴化</sup>, /lɔ3 tʰɛ5/<sup>如皋</sup></small> ① 对年老妇女的尊称。<sup>\[如东\]</sup> ② 年老男子对自己妻子的称呼。<sup>\[如东\]</sup> ③ 对母亲的称谓。<sup>\[如东\]</sup>：我家～不在家。<sup>\[如东\]</sup> ④ 对老年女性的尊称。<sup>\[如皋\]</sup> ⑤ 曾祖母。<sup>\[如皋\]</sup> ⑥ 曾祖母，即父亲的祖母。也作为对老年女士的尊称。<sup>\[东台\]</sup> ⑦ 曾祖母。<sup>\[兴化\]</sup> ⑧ 尊称年老的妇女。<sup>\[兴化\]</sup> ⑨ 老太太的省称，曾祖母。<sup>\[泰州\]</sup> ⑩ 对年纪较大妇女的尊称。<sup>\[泰州\]</sup>  
 1. 【[老太爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_tae_i.md#老太爷)】`lo3 tae5 i2` <sup>[兴化]</sup> ① 曾祖父。 ② 尊称年老的男子。  
 1. 【[老太婆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_tae_pu.md#老太婆)】`lo3 tae5 pu2` <small>/lɔ3 tʰɛ5 pʰo2/<sup>兴化</sup></small> ① 年纪大的女人。<sup>\[如东\]</sup> ② 丈夫对妻子的称呼。<sup>\[如东\]</sup> ③ 中年女子的一种谦称。<sup>\[如东\]</sup> ④ 称年老的妇女（欠尊重）。<sup>\[兴化\]</sup> ⑤ 称老妻。<sup>\[兴化\]</sup>  
+1. 【[老太婆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_tae_pu.md#老太婆)】`lo3 tae5 pu2` <sup>[泰州]</sup> ① 老年妇女自称，谦辞。 ② 他人称呼老年妇女，则为蔑称，贬义：这个～犯嫌吖没得命，没得事就在外头搬淡话。  
 1. 【[老太太](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_tae_tae.md#老太太)】`lo3 tae5 tae5` <sup>[如皋]</sup> 见“老太”。  
 1. 【[老头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_teu.md#老头)】`lo3 teu` <small>/lɔ3 tʰei/<sup>如皋</sup></small> ① 姜榔。<sup>\[如皋\]</sup> ② 见“姜榔”。<sup>\[如皋\]</sup>  
 1. 【[老头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_teu.md#老头)】`lo3 teu2` <sup>[如东]</sup> ① 年纪大的男子。 ② 对老年男子的称呼。 ③ 妻子对丈夫的称呼：他是我的～。  
 1. 【[老头汗衫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_teu_hun_shaen.md#老头汗衫)】`lo3 teu2 hun6 shaen1` <sup>[兴化]</sup> 短袖圆领汗衫。  
 1. 【[老头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_teu_r.md#老头<sub>儿</sub>)】`lo3 teu2 r` <small>/lɔ3 tʰɤ2 ɚ/<sup>兴化</sup>, /lɔ3 tʰei˞2/<sup>如皋</sup></small> ① 称象棋中的将、帅。<sup>\[如皋\]</sup> ② 见“老头子”。<sup>\[兴化\]</sup>  
+1. 【[老头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_teu_r.md#老头<sub>儿</sub>)】`lo3 teu2 r` <sup>[泰州]</sup> ① 对老年男子的不客气的称呼。 ② 老年妇女对丈夫的昵称：我家～早上要吃早茶。  
 1. 【[老头<sub>儿</sub>帽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_teu_r_mo_zz.md#老头<sub>儿</sub>帽子)】`lo3 teu2 r mo6 zz` <small>/lɔ3 tʰei˞2 mɔ1 t͡sɿ/<sup>如皋</sup></small> ① 老式锅箱儿帽子。<sup>\[如皋\]</sup> ② 见“锅箱儿帽子”。<sup>\[如皋\]</sup>  
 1. 【[老头鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_teu_y.md#老头鱼)】`lo3 teu2 y2` <sup>[如东]</sup> 鮟鱇科动物黄鮟鱇，也叫蛤蟆鱼。身体柔软，无鳞，头和体的边缘有许多皮质突起。头大，扁平，呈圆盘状。口宽大，口底前部黄色，下颌有可倒伏尖牙1-2行。第一背鳍6鳍棘，第二棘位于吻背部，顶端有皮质穗。臀鳍具8-11鳍条。脸鳍臂状。冷暖性底层鱼类，常栖伏在海底捕食。能发出像老人咳嗽的声音。所以也称老头鱼。  
 1. 【[老头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_teu_zz.md#老头子)】`lo3 teu2 zz` <sup>[兴化]</sup> ① 年老的男子。 ② 背称父亲。 ③ 老妇背称丈夫。 ④ 旧时帮会的头头：水火帮～。也称“老头儿”。  
@@ -1861,10 +1969,12 @@
 1. 【[老戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_xi.md#老戏)】`lo3 xi5` <sup>[兴化]</sup> 古装传统戏。  
 1. 【[老戏新扮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_xi_xien_baen.md#老戏新扮)】`lo3 xi5 xien1 baen5` <sup>[兴化]</sup> 新编古装戏：《谢瑶环》是～。  
 1. 【[老细](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_xi.md#老细)】`lo3 xi5` <sup>[如皋]</sup> 排行最小的一位。  
+1. 【[老相好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_xian_ho.md#老相好)】`lo3 xian1 ho3` <sup>[泰州]</sup> 泛指交往时间较长的情人。  
 1. 【[老相胡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_xian_hv.md#老相胡)】`lo3 xian1 hv2` <sup>[泰县]</sup> 摆老资格。  
 1. 【[老相交](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_xian_jio.md#老相交)】`lo3 xian1 jio1` <sup>[兴化]</sup> ① 老朋友。 ② 老相好：“莫非是你～送的表记。”（《古今小说》一）  
 1. 【[老香瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_xian_gua.md#老香瓜)】`lo3 xian1 gua1` <small>/lɔ3 ɕiaŋ1 kua1/<sup>兴化</sup>, /lɔ3 ɕiã1 kua1/<sup>如皋</sup></small> ① 已经成熟的香瓜。比喻人已经老了。<sup>\[如东\]</sup> ② 贬指老年长辈。<sup>\[如皋\]</sup> ③ （戏）旧称乡下老头。<sup>\[兴化\]</sup>  
 1. 【[老香瓜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_xian_gua_r.md#老香瓜<sub>儿</sub>)】`lo3 xian1 gua1 r` <small>/nɔ3 ɕiɑŋ1 kua1 ɚ/<sup>泰县</sup></small> ① 老人的戏称<sup>\[东台\]</sup>：他家还有两个～。<sup>\[东台\]</sup> ② （禁忌语）老家伙。<sup>\[泰县\]</sup>  
+1. 【[老香瓜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_xian_gua_r.md#老香瓜<sub>儿</sub>)】`lo3 xian1 gua1 r` <sup>[泰州]</sup> ① 成熟时间较长的香瓜，比喻老年男子，谑语：他俫年轻人蹾住块儿吃饭反而自由，你这 ② 个～要自觉，就不要赶吖他俫那一桌去凑热嘈唻。  
 1. 【[老相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_xian.md#老相)】`lo3 xian5` <small>/lɔ3 ɕiaŋ5/<sup>兴化</sup>, /lɔ3 ɕiã5/<sup>如皋</sup></small> ① 耍威风，逞能，装 ② 卖老资格。<sup>\[如东\]</sup>：他是个～。<sup>\[如东\]</sup> ③ 不懂装懂。<sup>\[如东\]</sup>：他就欢喜装～。<sup>\[如东\]</sup> ④ 摆老资格。<sup>\[如皋\]</sup> ⑤ 说话出格，超出自己的身份。<sup>\[如皋\]</sup> ⑥ 与“老卵”近义。<sup>\[东台\]</sup> ⑦ 相貌看起来比实际年纪要老。<sup>\[兴化\]</sup> ⑧ 老气横秋的样子<sup>\[兴化\]</sup>：年纪轻轻的，留胡子，抽香烟，一脸～。<sup>\[兴化\]</sup>｜既然要登门找人家，就不能～不带东西……（钱国怀《儿子中专毕业》）<sup>\[兴化\]</sup> ⑨ 老年人的相貌。<sup>\[泰州\]</sup> ⑩ 小辈言行表现出不尊重长辈，带有不知礼仪的意味，贬义<sup>\[泰州\]</sup>：这小伙一竟～，望见长辈从来不曾喊过人。<sup>\[泰州\]</sup> ⑪ 年轻者、地位低者言行如同年长者、地位高者，带有身份僭越意味，贬义<sup>\[泰州\]</sup>：说话不能太～。<sup>\[泰州\]</sup>  
 1. 【[老相巴剌的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_xian_ba_laeh_dii.md#老相巴剌的)】`lo3 xian5 ba1 laeh8 dii` <sup>[如皋]</sup> 老成或摆老资格，瞧不起人的样子。  
 1. 【[老相巴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_xian_ba_zz.md#老相巴子)】`lo3 xian5 ba1 zz` <small>/lɔ3 ɕiã5 pa1 t͡sɿ/<sup>如皋</sup></small> ① 自作聪明、指手划脚的人。<sup>\[如东\]</sup>：不要做～。<sup>\[如东\]</sup> ② 贬指老相的人。<sup>\[如皋\]</sup>  
@@ -1873,6 +1983,7 @@
 1. 【[老腥气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_xien_qi.md#老腥气)】`lo3 xien1 qi5` <sup>[如东]</sup> 随着机体老化，老年人身上散发着一种特殊的气味，称老腥气。  
 1. 【[老歇个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_xih_gu.md#老歇个)】`lo3 xih7 gu` <sup>[如皋]</sup> 老长时间。  
 1. 【[老先生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_xin_shen.md#老先生)】`lo3 xin1 shen1` <sup>[兴化]</sup> （戏）对另一方的谓称：你～袖子一甩走啊，屁股由我俫来揩！  
+1. 【[老先生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_xin_shen.md#老先生)】`lo3 xin1 shen1` <sup>[泰州]</sup> ① 对医生、老师等老年知识分子的敬称。 ② 对某些行事反常的人的贬称：你～跑啊哪块去的？一车子的人就在这块等你一个人。  
 1. 【[老小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_xio.md#老小)】`lo3 xio3` <small>/lɔ3 ɕiɔ3/<sup>兴化</sup></small> ① 谓某些老人像孩子那样没正经<sup>\[兴化\]</sup>：～、～，你经常给他带点儿好吃的，他就高兴。<sup>\[兴化\]</sup> ② 妻<sup>\[兴化\]</sup>：他三十多岁的人还不曾讨～哩！<sup>\[兴化\]</sup>｜只说史进回到庄上，每日只是打熬气力，亦且壮年，又没～……（《水浒传》二）<sup>\[兴化\]</sup>  
 1. 【[老兄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_xion.md#老兄)】`lo3 xion1` <sup>[如东]</sup> 对男子的称呼。  
 1. 【[老运](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_yen.md#老运)】`lo3 yen6` <sup>[如皋]</sup> 老年时的运气、好运气。  
@@ -1883,18 +1994,22 @@
 1. 【[老汁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_zheh.md#老汁)】`lo3 zheh7` <sup>[如皋]</sup> 卤菜店煮卤菜的汤汁。此后再点卤，用此陈汤，加水加作料。如此反复日久，形成～，香味浓郁。  
 1. 【[老奘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_zhuan.md#老奘)】`lo3 zhuan3` ① 形容物体很粗。<sup>\[如东\]</sup>：这根木头～。<sup>\[如东\]</sup> ② 比喻势大财阔的人。<sup>\[如东\]</sup>：这个人在我俫这许是～。<sup>\[如东\]</sup> ③ 特别粗大健壮，比喻非常有钱的人<sup>\[泰州\]</sup>：他做生意赚得不少，是这条街上的～。<sup>\[泰州\]</sup>｜他是～，花这两个钱不在乎的。<sup>\[泰州\]</sup>  
 1. 【[老壮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_zhuan.md#老壮)】`lo3 zhuan5` <small>/lɔ3 t͡suaŋ5/<sup>兴化</sup>, /nɔ3 t͡ɕyɑŋ5/<sup>泰县</sup></small> ① 形容物体又大又粗<sup>\[兴化\]</sup>：这条长鱼是大～。<sup>\[兴化\]</sup>｜（邓九公）又把他～的那大姆指头伸出米说<sup>\[兴化\]</sup>｜“这才是我邓老九的好朋友哪！”（《儿女英雄传》二一）亦作“老奘”。<sup>\[兴化\]</sup> ② 老大，称雄：他是～。<sup>\[泰县\]</sup>  
+1. 【[老主顾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_zhv_gv.md#老主顾)】`lo3 zhv3 gv5` <sup>[泰州]</sup> 经常来的顾客。  
 1. 【[老主户](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_zhv_hv.md#老主户)】`lo3 zhv3 hv` <sup>[兴化]</sup> 经常性的顾客：他是～，要客气一点。  
 1. 【[老早](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_zo.md#老早)】`lo3 zo3` <small>/lɔ3 t͡sɔ3/<sup>如皋</sup></small> ① 从前，很早。<sup>\[如东\]</sup>：这个土墩～就有啊。<sup>\[如东\]</sup> ② 很久以前。不确指<sup>\[如皋\]</sup>：他～死掉啊啦，三年多啊；他～去上班吖啦，你不要等吖咾。<sup>\[如皋\]</sup>  
 1. 【[老早](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_zo.md#老早)】`lo3-2 zo3` ① 一大早<sup>\[泰州\]</sup>：他今朝早上～就起来啊。<sup>\[泰州\]</sup> ② 早于通常、预期、规定的时间<sup>\[泰州\]</sup>：下午三点钟才开会，他～就去啊唻。<sup>\[泰州\]</sup> ③ 很早以前，距离说话以前几个星期、几个月甚至几年时间<sup>\[泰州\]</sup>：你说的这些事他～就晓得咖唻。<sup>\[泰州\]</sup>  
 1. 【[老早八早](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_zo_baeh_zo.md#老早八早)】`lo3 zo3 baeh7 zo3` <sup>[泰县]</sup> 很早：他～就到李秋家。  
+1. 【[老早不早](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_zo_beh_zo.md#老早不早)】`lo3 zo3 beh7 zo3` <sup>[泰州]</sup> ① 早晨开始之前很早一段时间:在北京的时候，为啊看升国旗，你家这个在家里睡懒觉的竟然也～的就起来啊。丨年纪大的习惯吖唻，天天～的就上泰山公园去锻炼唻。 ② 大大早于通常、预期、规定的时间：晚上七点钟的电影，他～的就去占位子。｜他～就到啊火车站，哪晓得火车晚吖点。 ③ 距离说话以前的好几年时间：厂长～就想把他换掉唻。｜为啊考文工团，他家家里～就同他请吖辅导老师。  
 1. 【[老灶泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_zo_ni.md#老灶泥)】`lo3 zo5 ni2` <sup>[如皋]</sup> ① 多年的灶泥。 ② 中药名，学名“伏龙肝”煎水服，可止呕。  
 1. 【[老子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_zz.md#老子)】`lo3 zz` <small>/lɔ3 t͡sɿ/<sup>如皋</sup>, /nɔ3 t͡se/<sup>泰县</sup></small> ① 父亲。<sup>\[如东\]</sup> ② 骄傲人的自称。<sup>\[如东\]</sup>：～甚的都不怕。<sup>\[如东\]</sup> ③ 指称父亲。有不敬或亲切色彩。<sup>\[如皋\]</sup> ④ 父亲。<sup>\[泰县\]</sup>  
 1. 【[老滋老味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_zz_lo_vei.md#老滋老味)】`lo3 zz1 lo3 vei6` ① 比喻卖老资格。<sup>\[如东\]</sup>：不要～的。<sup>\[如东\]</sup> ② 故意摆老资格，拿架子。<sup>\[东台\]</sup>  
 1. 【[憦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo.md#憦)】`lo6` <sup>[如皋]</sup> 笨、傻。  
 1. 【[憦里憦气的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lii_lo_qi_dii.md#憦里憦气的)】`lo6 lii lo6 qi5 dii` <sup>[如皋]</sup> 傻乎乎的。当着不着的。如皋词典作“獠里獠气的”。  
 1. 【[憦气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_qi.md#憦气)】`lo6 qi` <sup>[如皋]</sup> 愚鲁型精神病，如皋詞典作“獠气”：宝儿有点儿～。  
+1. 【[六不搭对](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_beh_daeh_dy.md#六不搭对)】`loh8 beh7 daeh7 dy5` <sup>[泰州]</sup> 六面之中没有一面可与另外一面配成一对，喻指所说情况所有方面都不吻合或者都无联系：他说的事同你说的事，根本就是～，你就不要多心唻。｜这事同他～，他是多管闲事。  
 1. 【[六陈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_chen.md#六陈)】`loh8 chen2` <sup>[兴化]</sup> 芝麻、菜籽等杂粮，有的地方将稻谷也列入：这王伯韬是个开～行的。这地方把买卖豆麦杂粮的行叫做～行。（汪曾祺《岁寒三友》）  
 1. 【[六陈行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_chen_han.md#六陈行)】`loh8 chen2 han2` <small>/lɔʔ8 t͡sʰəŋ2 xã2/<sup>如皋</sup></small> ① 粮食行。<sup>\[如东\]</sup> ② 粮食行。六陈，大米、大小麦、大小豆、芝麻等六种可久藏的粮食。见《辞海》。本地又指三麦、二豆、油菜籽六种越冬作物的籽实。<sup>\[如皋\]</sup>  
+1. 【[六陈行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_chen_han.md#六陈行)】`loh8 chen2 han2` <sup>[泰州]</sup> 亦作“六陈铺”，专卖粮食的店。“六陈”指米、大麦、小麦、大豆、小豆、芝麻等六种粮食。  
 1. 【[六畜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_choh.md#六畜)】`loh8 choh7` <sup>[如东]</sup> 猪、牛、羊、马、鸡、狗，称为六畜：～兴旺。  
 1. 【[六冲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_chon.md#六冲)】`loh8 chon1` <small>/lɔʔ8 t͡sʰoŋ1/<sup>兴化</sup>, /lɔʔ8 t͡sʰɔŋ1/<sup>如皋</sup></small> ① 迷信说法。子午、卯酉、辰戌、丑未、寅申、巳亥。六组皆相冲。<sup>\[如皋\]</sup> ② （迷信）旧指男女相差六岁为～，命相不合，不能婚配。<sup>\[兴化\]</sup>  
 1. 【[六大碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_da_un.md#六大碗)】`loh8 da6 un3` <sup>[东台]</sup> 过去请客的一套基本菜系，现常喻指满足基本要求：要先考虑群众利益，不能先把自己的～舀足。  
@@ -1918,6 +2033,7 @@
 1. 【[六月里过年——一半](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_iuh_lii_gu_nin_ieh_bun.md#六月里过年——一半)】`loh8 iuh8 lii gu5 nin2 ieh7 bun5` <sup>[东台]</sup>   
 1. 【[六月六](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_iuh_loh.md#六月六)】`loh8 iuh8 loh8` ① 黄瓜节。阴历六月初六日，进入小署，天气逐渐炎热，各种瓜果上市。这一天，百姓有吃黄瓜的习俗。民谣：“六月六，黄瓜打菜水绿绿。”<sup>\[如东\]</sup> ② 农历六月六，这一天有包饺子和暴晒寒衣的习俗。口语<sup>\[东台\]</sup>：“～，吃块焦糏长块肉。”<sup>\[东台\]</sup>  
 1. 【[六月心里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_iuh_xien_lii.md#六月心里)】`loh8 iuh8 xien1 lii` <sup>[东台]</sup> 农历六月里天气热的季节。  
+1. 【[六月心里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_iuh_xien_lii.md#六月心里)】`loh8 iuh8 xien1 lii` <sup>[泰州]</sup> 农历六月中旬约在大暑前后这段时间，是一年中最为炎热的时候：到乡里姨妈家去玩的日子有的是，何必要凑啊在六月心里去？  
 1. 【[六月雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_iuh_xiuh.md#六月雪)】`loh8 iuh8 xiuh7` <small>/lɔʔ8 yʊʔ8 ɕyʊʔ7/<sup>如皋</sup></small> ① 茜草科植物六月雪，落叶小灌木，高约45厘米。<sup>\[如东\]</sup> ② 天星木。茜草科。盆景树。<sup>\[如皋\]</sup>  
 1. 【[六月债，还得快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_iuh_zhae_huaen_deh_kuae.md#六月债，还得快)】`loh8 iuh8 zhae5 huaen2 deh kuae5` <sup>[兴化]</sup> 俗语。六月接近秋收及中秋节前还账的日子。借指报复之速：“……～，他便借着弓鞋把你取笑一回……”（《四杰传》九六）  
 1. 【[六月债——还得快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_iuh_zhae_huaen_deh_kuae.md#六月债——还得快)】`loh8 iuh8 zhae5 huaen2 deh7 kuae5` <sup>[东台]</sup>   
@@ -1937,16 +2053,20 @@
 1. 【[六十子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_sheh_zz.md#六十子)】`loh8 sheh8 zz3` <sup>[如皋]</sup> 秋萝卜，生长期六十天。多以腌制萝卜干、萝卜鲞。  
 1. 【[六神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_shen.md#六神)】`loh8 shen2` <sup>[如东]</sup> 心、肺、肝、肾、脾、胆，称为六神。  
 1. 【[六神不安](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_shen_beh_un.md#六神不安)】`loh8 shen2 beh7 un1` <small>/lɔʔ8 sən2 pəʔ7 ũ1/<sup>兴化</sup></small> ① 心神不定。<sup>\[如东\]</sup> ② 同“肉神不安”。<sup>\[东台\]</sup> ③ 形容心神慌乱，烦躁<sup>\[兴化\]</sup>：伢儿又哭又闹，弄得人～的。<sup>\[兴化\]</sup>  
+1. 【[六神不安](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_shen_beh_un.md#六神不安)】`loh8 shen2 beh7 un1` <sup>[泰州]</sup> ① 人之内心惊慌、烦燥不安，古人认为人的心、肺、肝、肾、脾、胆各有神灵主宰，称为六神：前朝子财务科长捱反贪局带啊走啊后，我家一把手厂长就像有点儿～的样子，弄得不好他也有问题。 ② 全家被干扰得无法安宁，取“门神、户尉神、井神、灶神、厕神、土地神六位宅神全部不安”之义：他家老子葬吖好啊没得几天，三个儿子、两个姑娘就在家里为点儿家私搂得～。  
 1. 【[六神无主](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_shen_v_zhv.md#六神无主)】`loh8 shen2 v2 zhv3` <sup>[如东]</sup> 心情慌乱，没有主张：他急咖～。  
 1. 【[六扇门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_shin_men.md#六扇门)】`loh8 shin5 men2` <sup>[兴化]</sup> 官府、衙门的别称：“……俺在～里走动，若要没些本领，小弟如何敢在公门应役……”（《施公案》二）  
 1. 【[六书](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_shv.md#六书)】`loh8 shv1` <sup>[兴化]</sup> 一种演唱形式，由民间艺人五至七人，素衣围坐，自拉自唱，内容为民间故事，古代传奇等。犹京师之“乐子”，天津之“大鼓”或某些地方的“宣卷”。  
 1. 【[六素](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_sv.md#六素)】`loh8 sv5` <sup>[泰县]</sup> 民间的音乐班子。  
 1. 【[六妥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_tu.md#六妥)】`loh8 tu3` <small>/lɔʔ8 tʰo3/<sup>兴化</sup>, /nɔʔ8 tʰo3/<sup>泰县</sup></small> ① 虚假不实的东西<sup>\[兴化\]</sup>：这东西是个～。<sup>\[兴化\]</sup> ② 完了，没有成功<sup>\[兴化\]</sup>：这件事又～啊。<sup>\[兴化\]</sup> ③ 无用。<sup>\[泰县\]</sup>  
 1. 【[六碗八碟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_un_baeh_dih.md#六碗八碟)】`loh8 un3 baeh7 dih7` <small>/lɔʔ8 ũ3 pæʔ7 tiɪʔ7/<sup>兴化</sup>, /lɔʔ8 ʊ̃3 peʔ7 tiʔ7/<sup>如皋</sup></small> ① 如皋传统菜谱，冷碟之外有八个炒菜六个汤菜。常用头菜来命名并显示等级。如海参菜、鱼皮菜、鱼翅菜等。<sup>\[如皋\]</sup> ② 筵席中较高的规格，有八个冷碟，六样烧炒<sup>\[兴化\]</sup>：……原来是几个年轻人过来了……样子很振奋，像看见了。（毕飞宇《玉米》）<sup>\[兴化\]</sup>  
+1. 【[六碗八碟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_un_baeh_dih.md#六碗八碟)】`loh8 un3 baeh7 dih7` <sup>[泰州]</sup> 八碟冷菜，六碗烧菜，泛指较高规格的筵席：过去乡里有事请客有个～就蛮好的唻！  
 1. 【[六碗八碟四水果](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_un_baeh_dih_sz_shuei_gu.md#六碗八碟四水果)】`loh8 un3 baeh7 dih7 sz5 shuei3 gu3` <sup>[东台]</sup> 传统淮扬菜的基本规格：八碟（四冷四热）六个大菜，现在泛指桌上菜丰盛。  
 1. 【[六碗头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_un_teu.md#六碗头)】`loh8 un3 teu2` <small>/lɔʔ8 ũ3 tʰɤ2/<sup>兴化</sup></small> ① 见“土六碗”。<sup>\[兴化\]</sup> ② 一种便餐的规格，一般为烧菜六样<sup>\[兴化\]</sup>：“请大爷用中饭，外有～与大叔用的”。（《绿牡丹》二三）<sup>\[兴化\]</sup>  
+1. 【[六碗头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_un_teu.md#六碗头)】`loh8 un3 teu2` <sup>[泰州]</sup> 旧时普通百姓家庭请客，烧六个菜，用大碗盛装：过去人请客有～就不错唻。  
 1. 【[六虞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_y.md#六虞)】`loh8 y2` <sup>[东台]</sup> 人死后烧“六七”。人家父母都不在了才用此词，有尊敬同情意。  
 1. 【[六指<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_zheh_r.md#六指<sub>儿</sub>)】`loh8 zheh7 r` <sup>[如东]</sup> ① 手上有六只手指，称六指儿。 ② 有六只手指的人：～来啊。  
+1. 【[六指<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_zheh_r.md#六指<sub>儿</sub>)】`loh8 zheh7 r` <sup>[泰州]</sup> 一只手长出了六个手指头：弟兄几个当中只有他个人是～。  
 1. 【[六指<sub>儿</sub>打时——忙不过来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_zheh_r_da_shr_man_beh_gu_lae.md#六指<sub>儿</sub>打时——忙不过来)】`loh8 zheh7 r da3 shr2 man2 beh7 gu5 lae2` <sup>[东台]</sup>   
 1. 【[六指<sub>儿</sub>抓痒——加一恭维](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_zheh_r_zhua_ian_jia_ieh_gon_vei.md#六指<sub>儿</sub>抓痒——加一恭维)】`loh8 zheh7 r zhua1 ian3 jia1 ieh7 gon1 vei2` <sup>[东台]</sup>   
 1. 【[摝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh.md#摝)】`loh8` <small>/lɔʔ8/<sup>如皋</sup></small> ① 捞（形声借字）<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[泰州\]</sup>：把青菜从水里～上来。<sup>\[如东\]</sup>｜吊桶𠫓咖井里去啊，你去寻个东西把它～上来。<sup>\[泰州\]</sup>｜你把锅里的饺ㄦ～咖干净吖。<sup>\[泰州\]</sup> ② 捕捉（形声借字）<sup>\[如东\]</sup><sup>\[如皋\]</sup>：王二逃出大门，就捱张三～住啊。<sup>\[如东\]</sup>｜把罪犯～起来。<sup>\[如皋\]</sup>  
@@ -1965,6 +2085,7 @@
 1. 【[绿沉沉的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_chen_chen_dii.md#绿沉沉的)】`loh8 chen2 chen2 dii` <sup>[东台]</sup> 颜色深绿的样子。  
 1. 【[绿大呢官轿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_da_ni_gun_qio.md#绿大呢官轿)】`loh8 da ni2 gun1 qio6` <sup>[如皋]</sup> 旧时官轿用俄国产的墨绿色呢子包裹，故名。又引指好出风头者。  
 1. 【[绿滴滴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_dieh_dieh.md#绿滴滴)】`loh8 dieh7 dieh7` <sup>[泰县]</sup> 绿油油。  
+1. 【[绿滴滴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_dieh_dieh.md#绿滴滴)】`loh8 dieh7 dieh7` <sup>[泰州]</sup> 叶片青翠发亮的样子：田里的韭菜长得～的。｜青菜下锅不能焖，就要炒得～的才好吃。  
 1. 【[绿滴滴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_dieh_dieh_dii.md#绿滴滴的)】`loh8 dieh7 dieh7 dii` <small>/lɔʔ8 tiəʔ7 tiəʔ7 tei/<sup>如皋</sup></small> ① 鲜艳的绿色：青菜长得～。<sup>\[如皋\]</sup> ② 形容苍翠欲滴的样子。<sup>\[东台\]</sup>  
 1. 【[绿肥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_fei.md#绿肥)】`loh8 fei2` <sup>[如东]</sup> 植物肥料，主要指田里种植紫云英等植物，翻压在泥里，经过发酵而成的肥料，能增加土壤的有机质，改善土壤结构。  
 1. 【[绿𧊅𧊅<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_guae_guae_r.md#绿𧊅𧊅<sub>儿</sub>)】`loh8 guae3 guae3 r` <sup>[如皋]</sup> 雨蛙。两栖纲，无尾目。体小，翠绿色，善鸣。  
@@ -2019,6 +2140,7 @@
 1. 【[龙骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_gueh.md#龙骨)】`lon2 gueh7` ① 帆船船底上的大梁，一般为三根。<sup>\[如东\]</sup> ② 车船、建筑物等的像脊椎骨那样的支撑和承重结构。<sup>\[东台\]</sup>  
 1. 【[龙虾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_ha.md#龙虾)】`lon2 ha1` 也指“螯虾”，生活在淡水中，身体呈圆筒状，远小于海中龙虾，甲壳坚厚，前有三对螯足，第一对特别大。<sup>\[泰州\]</sup>  
 1. 【[龙虎斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_hv_deu.md#龙虎斗)】`lon2 hv3 deu5` <small>/loŋ2 xu3 tɤ5/<sup>兴化</sup>, /lɔŋ2 fu3 tei5/<sup>如皋</sup></small> ① 又称饺儿面，即一碗中有面条和馄饨。<sup>\[如皋\]</sup> ② 烧饼的一种，咸中带甜。<sup>\[东台\]</sup> ③ 烹饪方法，即将鳝丝和虾仁放在一起爆炒。<sup>\[兴化\]</sup> ④ 包子或烧饼中同时放入甜、咸两种馅。<sup>\[兴化\]</sup>  
+1. 【[龙虎斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_hv_deu.md#龙虎斗)】`lon2 hv3 deu5` <sup>[泰州]</sup> 烧饼品种之一，一个饼中同时包进甜、咸两种对立味觉的馅儿。  
 1. 【[龙游河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_ieu_hu.md#龙游河)】`lon2 ieu2 hu2` <sup>[如皋]</sup> 从如皋城河向南至杨花桥，折西至西河湾，折南经吴窑、桑木桥、新生港通长江。杨花桥至长江段是隋初南境坍江时的岸线；城河至杨花桥段原称马塘河。  
 1. 【[龙卷风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_jiun_fon.md#龙卷风)】`lon2 jiun3 fon1` <sup>[如东]</sup> 风力极强而范围不大的旋风，形成像一个大漏斗，风速往往达到每秒一百多米，破坏力非常大。在陆地上，能把大树连根拔起来，破坏各种建筑物和农作物。在海洋上，可以把海水吸到空中，形成水柱。人们所说的龙，就是这种水柱。  
 1. 【[龙锯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_jy.md#龙锯)】`lon2 jy5` <sup>[如东]</sup> 工具。铁制，圆圈形，带宽齿粗。用以锯粗大木料。  
@@ -2035,6 +2157,7 @@
 1. 【[龙头拐杖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_teu_guae_chan.md#龙头拐杖)】`lon2 teu2 guae3 chan6` <sup>[东台]</sup> 岳父（丈人，丈与杖谐音）。  
 1. 【[龙头鮳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_teu_ko.md#龙头鮳)】`lon2 teu2 ko5` <sup>[如东]</sup> 龙头鱼科动物龙头鱼的鱼干。  
 1. 【[龙头芋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_teu_y.md#龙头芋)】`lon2 teu2 y6` <sup>[如皋]</sup> 一种特大的芋头。  
+1. 【[龙头芋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_teu_y.md#龙头芋)】`lon2 teu2 y6` <sup>[泰州]</sup> 俗称“芋母”，“龙头”指其大。  
 1. 【[龙系水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_xi_shuei.md#龙系水)】`lon2 xi6 shuei3` <sup>[兴化]</sup> 龙卷风初起时，像龙尾将河湖中的水吸上天空。  
 1. 【[龙虾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_xia.md#龙虾)】`lon2 xia1` <small>/loŋ2 ɕia1/<sup>兴化</sup></small> ① 节肢动物，身体长一尺左右，第一对触角磨擦眼睛下方的骨质板能发出吱吱的声音。生活在海底。肉味鲜美。<sup>\[如东\]</sup> ② 虾的一种，体大，壳深红色。有一对大螯。生活在淡水中。肉质鲜美。也称克氏螯虾。<sup>\[如东\]</sup> ③ 蝲蛄，亦称鳌虾，体形略似海中龙虾而小，甲壳血红色，兴化盛产的为克拉氏鳌虾。<sup>\[兴化\]</sup>  
 1. 【[龙爪花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_zho_hua.md#龙爪花)】`lon2 zho3 hua1` <sup>[如皋]</sup> 石蒜。  
@@ -2081,6 +2204,7 @@
 1. 【[啰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu.md#啰)】`lu` <sup>[泰州]</sup> 唤猪声。  
 1. 【[啰而八唆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_er_baeh_su.md#啰而八唆)】`lu1 er baeh7 su1` <sup>[如东]</sup> 言语颠三倒四的反复。  
 1. 【[啰里不唆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_lii_beh_su.md#啰里不唆)】`lu1 lii beh7 su1` <sup>[东台]</sup> 啰唆，言语絮絮叨叨。（“里不”是衬字）  
+1. 【[啰里不唆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_lii_beh_su.md#啰里不唆)】`lu1 lii beh7 su1` <sup>[泰州]</sup> “啰唆”的生动形式，言语极其重复样子：你说的这个情况我晓得唻，你不要再～的，我马上还要出去有事。  
 1. 【[啰啰嘚嘚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_lu_deh_deh.md#啰啰嘚嘚)】`lu1 lu1 deh7 deh7` <sup>[如皋]</sup> 表达冗长而杂乱不清。  
 1. 【[啰啰𠵨𠵨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_lu_deh_deh.md#啰啰𠵨𠵨)】`lu1 lu1 deh7 deh7` <sup>[如皋]</sup> 见“𠵨𠵨啰啰”。  
 1. 【[啰啰三牵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_lu_saen_qin.md#啰啰三牵)】`lu1 lu1 saen1 qin1` <sup>[泰县]</sup> 颠三倒四。  
@@ -2093,6 +2217,7 @@
 1. 【[箩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu.md#箩)】`lu2` <sup>[如东]</sup> 容器。竹篾或柳条编成，圆口方底，无盖，无环。体积较大。可盛谷物或其他物资。  
 1. 【[箩座](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_cu.md#箩座)】`lu2 cu6` <sup>[如东]</sup> 一种筛小麦屑的工具。木制，长方形，似柜。柜中搁置一张长方形的箩筛，将磨过的小麦放在里面，通过人工踩动踏板，拍打木桩，将小麦糏筛下来。  
 1. 【[箩底砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_di_zhun.md#箩底砖)】`lu2 di3 zhun1` <sup>[如皋]</sup> 铺地大方砖，形如箩底。  
+1. 【[箩底砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_di_zhun.md#箩底砖)】`lu2 di3 zhun1` <sup>[泰州]</sup> 一种专门用于铺地的正方形砖头，边长30厘米左右，厚度小于墙砖，类似今日地面砖，大小似箩底，故名。  
 1. 【[箩方](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_fan.md#箩方)】`lu2 fan1` <sup>[如东]</sup> 一种方砖，形似箩底，一般用于铺设地面。  
 1. 【[箩脚行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_jiah_han.md#箩脚行)】`lu2 jiah7 han2` <sup>[如皋]</sup> 旧时的搬运业，主营挑担、抬杠、推车，兼收殡葬。  
 1. 【[箩筐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_kuan.md#箩筐)】`lu2 kuan1` <sup>[如东]</sup> 用柳条编成的筐。  
@@ -2112,11 +2237,13 @@
 1. 【[罗罗<sub>儿</sub>网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_lu_r_van.md#罗罗<sub>儿</sub>网)】`lu2 lu2 r van3` <sup>[如东]</sup> 蜘蛛网，蟢蟢网。  
 1. 【[罗罗网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_lu_van.md#罗罗网)】`lu2 lu2 van3` <small>/no2 no2 uɑŋ3/<sup>泰县</sup></small> ① 蜘蛛网，又叫鞔头网（见“鞔头网”）。<sup>\[东台\]</sup> ② 蜘蛛网。<sup>\[泰县\]</sup>  
 1. 【[罗罗网<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_lu_van_r.md#罗罗网<sub>儿</sub>)】`lu2 lu2 van3 r` <small>/lo2 lo2 uaŋ3 ɚ/<sup>兴化</sup>, /lʊ2 lʊ2 ʋa˞3/<sup>如皋</sup></small> ① 蜘蛛网。<sup>\[如皋\]</sup> ② 蛛网。<sup>\[如皋\]</sup> ③ 蜘蛛网。<sup>\[兴化\]</sup>  
+1. 【[罗罗网<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_lu_van_r.md#罗罗网<sub>儿</sub>)】`lu2 lu2 van3 r` <sup>[泰州]</sup> “罗网”的生动形式，蜘蛛网，以其捕食飞虫如罗捕鸟，故名：这几间房子好些年不住人唻，梁上块块是罗罗网儿。  
 1. 【[罗皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_pi.md#罗皮)】`lu2 pi2` <small>/lo2 pʰi2/<sup>兴化</sup></small> 海蜇皮<sup>\[泰州\]</sup>\[兴化：可食用\]  
 1. 【[罗盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_pun.md#罗盘)】`lu2 pun2` <sup>[如东]</sup> 指示方向的仪器。也叫指南针。  
 1. 【[罗圈腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_qiun_tuei.md#罗圈腿)】`lu2 qiun1 tuei3` <sup>[如东]</sup> ① 两腿略呈弓形。 ② 两腿略呈弓形的人。  
 1. 【[罗筛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_shae.md#罗筛)】`lu2 shae1` <sup>[如皋]</sup> 用罗鞔的筛子，网眼很小，用以筛面、粉、糏。  
 1. 【[罗筛架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_shae_ga_zz.md#罗筛架子)】`lu2 shae1 ga5 zz` <sup>[如皋]</sup> 罗筛的支架。用两根约80cm长的毛竹片，竹皮向上，平行，两端装上燕尾形木片即成。  
+1. 【[罗□<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_un_r.md#罗□<sub>儿</sub>)】`lu2 un3 r` <sup>[泰州]</sup> 罗汉鱼的俗称，题型很小，头尖而略平扁，无须，繁殖时期雄鱼体色深黑，吻部、颊部出现珠星，卵椭圆形，粘附于石片、蚌壳上。  
 1. 【[罗心重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_xien_chon.md#罗心重)】`lu2 xien1 chon6` <sup>[泰县]</sup> 私心重：这个人的～。  
 1. 【[罗躁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_zo.md#罗躁)】`lu2 zo5` <sup>[泰县]</sup> 找麻烦：你不要～人。  
 1. 【[罗躁人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_zo_ren.md#罗躁人)】`lu2 zo5 ren2` <sup>[东台]</sup> 提出很多麻烦事，令人烦躁。  
@@ -2133,11 +2260,15 @@
 1. 【[萝卜丝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_poh_sz_r.md#萝卜丝<sub>儿</sub>)】`lu2 poh sz1 r` <sup>[如东]</sup> 将萝卜刨或切成丝儿，晒干，或作点心馅儿，或炒蔬菜，均为好配料。  
 1. 【[萝卜头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_poh_teu_r.md#萝卜头<sub>儿</sub>)】`lu2 poh teu2 r` <sup>[如东]</sup> 个体小的萝卜，进行腌制，为普通蔬菜。  
 1. 【[萝卜鲞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_poh_xian.md#萝卜鲞)】`lu2 poh xian3` <sup>[兴化]</sup> 腌萝卜干：这薄粥、这～，在此时此境下，玫琇吃得特别香。（艾煊《乡关何处》）  
+1. 【[萝卜干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_poh_gun.md#萝卜干)】`lu2 poh8 gun1` <sup>[泰州]</sup> 萝卜切成条状腌制成的咸菜，百姓家庭早饭、晚饭主要佐粥小菜之一。制法：将萝卜切成斜角状，用盐酸制出卤，晒到半干，拌以芝麻屑、辣椒末、五香粉等装坛。  
 1. 【[萝卜干<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_poh_gun_r.md#萝卜干<sub>儿</sub>)】`lu2 poh8 gun1 r` <sup>[如皋]</sup> 用秋萝卜切成橘子丫儿状，晒半干（风干脱水），浸栀子花水后加花椒盐腌，下缸压紧封存，泥灰封口，数日成熟。  
+1. 【[萝卜缨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_poh_ien.md#萝卜缨)】`lu2 poh8 ien1` <sup>[泰州]</sup> 萝卜上的叶柄、叶子。  
+1. 【[萝卜灆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_poh_laen.md#萝卜灆)】`lu2 poh8 laen6` <sup>[泰州]</sup> 一种腌制萝卜小菜。制法：将鲜萝卜切成块状，直接浸入酱䜾豆的卤汁之中，直至萝卜块的表面略有发腐，捞至碗中，在饭锅中蒸熟，味极鲜美，乃为老人喜爱的小菜之一。  
 1. 【[萝卜筢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_poh_pa_r.md#萝卜筢<sub>儿</sub>)】`lu2 poh8 pa2 r` <sup>[如皋]</sup> 萝卜田里中耕用的如意形小筢儿。  
 1. 【[萝卜丝<sub>儿</sub>刨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_poh_sz_r_po_zz.md#萝卜丝<sub>儿</sub>刨子)】`lu2 poh8 sz1 r po6 zz` <sup>[如皋]</sup> 专刨萝卜丝儿的礤床。像洗衣搓板，中有方空窟，装有一排排小圆洞刨口的铜片。  
 1. 【[萝卜头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_poh_teu_r.md#萝卜头<sub>儿</sub>)】`lu2 poh8 teu2 r` <sup>[如皋]</sup> 个体小的萝卜，切块下酱缸腌成酱菜。  
 1. 【[萝卜鲞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_poh_xian.md#萝卜鲞)】`lu2 poh8 xian3` <sup>[如皋]</sup> 个体大的萝卜纵切成两半，晒七成干，椒盐腌，下缸封存数日成熟。  
+1. 【[萝卜鲞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_poh_xian.md#萝卜鲞)】`lu2 poh8 xian3` <sup>[泰州]</sup> 一种腌制萝卜小菜。制法：将鲜萝卜切成条状，晒成半干，以酱油、醋、糖浸泡而成。  
 1. 【[螺螺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_lu_r.md#螺螺<sub>儿</sub>)】`lu2 lu2-3 r` <sup>[东台]</sup> 螺蛳。淡水中生长的软体动物，体外包有锥形、纺锤形或扁椭圆形外壳，上有旋纹，体型较大的叫田螺。  
 1. 【[螺蛳青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_shr_qien.md#螺蛳青)】`lu2 shr qien1` <sup>[如皋]</sup> 青鱼。  
 1. 【[螺蛳鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_shr_y.md#螺蛳鱼)】`lu2 shr y2` <sup>[如皋]</sup> 青鱼。  
@@ -2158,6 +2289,7 @@
 1. 【[剆劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_jien.md#剆劲)】`lu3 jien5` <small>/no3 t͡ɕiŋ5/<sup>泰县</sup></small> 磨工<sup>\[泰县\]</sup>：～大<sup>\[泰县\]</sup>  
 1. 【[剆剆<sub>儿</sub>藤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_lu_r_ten.md#剆剆<sub>儿</sub>藤)】`lu3 lu3 r ten2` <small>/lʊ3 lʊ˞3 tʰəŋ2/<sup>如皋</sup></small> ① 葎草，也叫“割人藤”、“拉拉藤”。 ② 一种长刺的藤。葎草。<sup>\[如东\]</sup> ③ 比喻喜欢纠缠的人。<sup>\[如东\]</sup>：她像～一样。<sup>\[如东\]</sup> ④ 葎草、拉拉草。桑科，多年生草本植物。<sup>\[如皋\]</sup> ⑤ 喻会胡搅蛮缠的人。<sup>\[如皋\]</sup>  
 1. 【[剆剆藤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_lu_ten.md#剆剆藤)】`lu3 lu3 ten2` <small>/lo3 lo3 tʰən2/<sup>兴化</sup>, /no3 no3 tʰəŋ2/<sup>泰县</sup></small> ① 本指一种缠绕攀援的藤蔓。<sup>\[东台\]</sup> ② ［喻］纠缠不休的人<sup>\[东台\]</sup>：那人蛮不讲理，像～一样缠吖他。<sup>\[东台\]</sup> ③ 一种茎上布满小刺的蔓生植物，即葎草。<sup>\[兴化\]</sup> ④ （喻）能长时间纠缠的人<sup>\[兴化\]</sup>：她是有名的～，捱她沾上难脱身！<sup>\[兴化\]</sup> ⑤ 惯于纠缠人的人。<sup>\[泰县\]</sup>  
+1. 【[剆剆藤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_lu_ten.md#剆剆藤)】`lu3 lu3 ten2` <sup>[泰州]</sup> ① 葎草长满倒刺的藤。 ② 比喻一旦惹上以后就会死命纠缠、不依不饶的人：这户儿是个～，你不要惹他，最好让他远点儿。  
 1. 【[剆嗓子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_san_zz.md#剆嗓子)】`lu3 san3 zz` <sup>[如皋]</sup> 刀割喉部。  
 1. 【[剆手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_sheu.md#剆手)】`lu3 sheu3` <sup>[如东]</sup> 割手。  
 1. 【[那](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu.md#那)】`lu5` <sup>[如东]</sup> 指示代词。指示远的人、事物、时间、处所性质、状态等。  
@@ -2187,6 +2319,7 @@
 1. 【[摞橱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_chv.md#摞橱)】`lu6 chv2` <small>/lo6 t͡sʰu2/<sup>兴化</sup>, /lʊ1 t͡sʰu2/<sup>如皋</sup></small> ① 指旧式上下分节的衣橱。<sup>\[如皋\]</sup> ② 一种由二层或三层相叠的橱柜，对开橱门。门膛有雕花木板或玻璃镜面。<sup>\[兴化\]</sup> ③ 一种家具，两张或者三张矮橱叠成一张大橱。<sup>\[泰州\]</sup>  
 1. 【[摞摞扎扎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_lu_zhaeh_zhaeh.md#摞摞扎扎)】`lu6 lu6 zhaeh7 zhaeh7` <sup>[兴化]</sup> 把东西聚扰一起、拾掇整齐：把文件、书籍和笔记本～，准备家去度假。  
 1. 【[那块](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_kuae.md#那块)】`lu6 kuae5` 那里，那儿。<sup>\[泰州\]</sup>  
+1. 【[露天心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_tin_xien.md#露天心)】`lu6 tin1 xien1` <sup>[泰州]</sup> 露天，没有棚顶遮盖的地方：天再怎吖热，你也不能睡啊～里过夜啊。  
 1. 【[擂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/luei.md#擂)】`luei2` <sup>[如东]</sup> 磨擦：用绳子来回～，把木槽磨光滑。  
 1. 【[累堆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/luei_duei.md#累堆)】`luei2 duei` ① 人的体型臃肿粗笨的样子<sup>\[泰州\]</sup>：你望你～得这样子噢。<sup>\[泰州\]</sup> ② 物体臃肿笨重的样子<sup>\[泰州\]</sup>：这个沙发太～啊唻。<sup>\[泰州\]</sup> ③ 非常糟糕<sup>\[泰州\]</sup>：这件事捱你弄吖～啊唻。<sup>\[泰州\]</sup>  
 1. 【[累堆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/luei_duei.md#累堆)】`luei2 duei1` 累赘的，麻烦的，事物很费时间或者占据很大空间的。  
@@ -2239,9 +2372,11 @@
 1. 【[乱坟场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_fen_chan.md#乱坟场)】`lun6 fen2-men chan` <sup>[如皋]</sup> 荒冢地。  
 1. 【[乱坟场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_fen_chan.md#乱坟场)】`lun6 fen2 chan2` <sup>[如东]</sup> 旧时贫民丧葬的场所。  
 1. 【[乱坟葬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_fen_zan.md#乱坟葬)】`lun6 fen2 zan5` <sup>[兴化]</sup> 无主的乱葬坟地：（他）实在跑不动了，就在一个～上停了下来。（兴文：《中堡庄》）  
+1. 【[乱坟葬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_fen_zan.md#乱坟葬)】`lun6 fen2 zan5` <sup>[泰州]</sup> 用来埋葬死者的无主荒地。旧时荒滩野地，常被用来埋葬无家可归的死者或者没有资格进入祖坟的死者，穷人因为无地，也在这里埋葬死者。属于无人管的荒地，随地埋葬，坟墓散乱。  
 1. 【[乱营](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_ien.md#乱营)】`lun6 ien2` <small>/lũ6 in2/<sup>兴化</sup>, /nõ1 iŋ2/<sup>泰县</sup></small> ① 内部发生混乱。<sup>\[如东\]</sup>：操场上～吖。<sup>\[如东\]</sup> ② （喻）秩序混乱：迎会队伍一过，街上就像乱吖营。<sup>\[兴化\]</sup> ③ 秩序紊乱：这会场～。<sup>\[泰县\]</sup> ④ 泛指秩序混乱<sup>\[泰州\]</sup>：他家老的过八十岁，各地的亲戚都来啊，家里客厅里人都坐啊满吖，整个乱吖营。<sup>\[泰州\]</sup>  
 1. 【[乱里把西的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_lii_ba_xi_dii.md#乱里把西的)】`lun6 lii ba3 xi1 dii` <sup>[如皋]</sup> 乱糟糟的。  
 1. 【[乱吖营](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_nga_ien.md#乱吖营)】`lun6 nga ien2` <small>/lʊ̃1 ŋa iəŋ2/<sup>如皋</sup></small> ① 指一定范围内，顿时大乱。<sup>\[如皋\]</sup> ② 形容场面一片混乱。<sup>\[东台\]</sup>  
+1. 【[乱悂星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_pi_xien.md#乱悂星)】`lun6 pi1 xien1` <sup>[泰州]</sup> 做事丢三落四的人：你就是个～，自己放的东西，都不晓得在甚的地方。  
 1. 【[乱蓬蓬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_pon_pon.md#乱蓬蓬)】`lun6 pon1 pon1` <sup>[如皋]</sup> 状毛发纷乱、蓬乱状。  
 1. 【[乱埲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_pon.md#乱埲)】`lun6 pon6` <small>/lʊ̃1 pʰɔŋ1/<sup>如皋</sup></small> ① 状人们乱走乱撞。<sup>\[如皋\]</sup> ② 状灰尘、纤维等乱飞乱扬。<sup>\[如皋\]</sup> ③ 状虫子等乱飞乱舞。<sup>\[如皋\]</sup> ④ 状禽鸟等乱飞乱跳。<sup>\[如皋\]</sup>  
 1. 【[乱七八糟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_qieh_baeh_zo.md#乱七八糟)】`lun6 qieh7 baeh7 zo1` <sup>[如东]</sup> 形容非常混乱：家里的东西摆啊～的。  
@@ -2287,6 +2422,7 @@
 1. 【[芦席𤖭<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_qieh_paen_r.md#芦席𤖭<sub>儿</sub>)】`lv2 qieh8 paen2 r` <sup>[如东]</sup> 破旧的芦䉬。  
 1. 【[芦柴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_shae.md#芦柴)】`lv2 shae2` <small>/lu2 t͡sʰɛ2/<sup>兴化</sup>, /lu2 sɛ2/<sup>如皋</sup></small> ① 芦苇 ② 芦苇<sup>\[泰州\]</sup><sup>\[兴化\]</sup>\[东台：叶子可包粽子，茎秆可做障笆、帘子，劈成柴篾子可用于编织。茎空，有芦膜，吹笛子用其贴住一孔。\]\[如皋：岸草。青叶可裹粽子。老茎供编织、造纸。\] ③ 苇秆，一般的作燃料，其中整齐、挺直的可用来编织芦䉬、窝折，或打柴笆等。<sup>\[兴化\]</sup>  
 1. 【[芦柴棒<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_shae_pan_r.md#芦柴棒<sub>儿</sub>)】`lv2 shae2 pan6 r` <sup>[如东]</sup> 芦苇茎。  
+1. 【[芦柴棒<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_shae_pan_r.md#芦柴棒<sub>儿</sub>)】`lv2 shae2 pan6 r` <sup>[泰州]</sup> 芦苇茎秆，指又高又瘦的人：你不要望他家这小伙是个～，两个膀子上肌肉还是蛮发达的。  
 1. 【[芦粟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_soh.md#芦粟)】`lv2 soh7` <small>/lu2 sɔʔ7/<sup>兴化</sup>, /nu2 sɔʔ7/<sup>泰县</sup></small> ① 高粱。<sup>\[兴化\]</sup> ② 高粱。<sup>\[泰县\]</sup>  
 1. 【[芦滩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_taen.md#芦滩)】`lv2 taen1` <sup>[如皋]</sup> 江海边长芦苇的草滩。  
 1. 【[芦头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_teu.md#芦头)】`lv2 teu` <sup>[如皋]</sup> 江海边产的成捆芦柴。  
@@ -2358,6 +2494,7 @@
 1. 【[露水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_shuei.md#露水)】`lv6 shuei3` <sup>[如东]</sup> 凝结在地面或靠近地面物体表面上的水珠。  
 1. 【[露水把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_shuei_ba.md#露水把)】`lv6 shuei3 ba3` <sup>[东台]</sup> 指清晨露水未干之前行窃的小偷。  
 1. 【[露水夫妻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_shuei_fv_qi.md#露水夫妻)】`lv6 shuei3 fv1 qi1` <sup>[东台]</sup> 未履行结婚手续而以夫妻名义暂时同居的男女。  
+1. 【[露水夫妻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_shuei_fv_qi.md#露水夫妻)】`lv6 shuei3 fv1 qi1` <sup>[泰州]</sup> 指临时非法姘居男女：楼下租房子住的这两个打工的像是露水夫妻。  
 1. 【[露水赴赴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_shuei_fv_fv_dii.md#露水赴赴的)】`lv6 shuei3 fv5 fv5 dii` <sup>[如皋]</sup> 有露水时行进。意指很早或很辛苦。  
 1. 【[露水龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_shuei_lon.md#露水龙)】`lv6 shuei3 lon2, lv6 shuei lon2` <sup>[如皋]</sup> 民间传说中的专司下露水的龙。  
 1. 【[露水消掉啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_shuei_xio_tio_a.md#露水消掉啊)】`lv6 shuei3 xio1 tio6 a` <sup>[如皋]</sup> ① 露水干了。 ② 指时间在太阳出来不久。  
@@ -2378,11 +2515,13 @@
 1. 【[鑢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly.md#鑢)】`ly2` <small>/ly2/<sup>如皋</sup></small> 拉、磨、割、划<sup>\[如皋\]</sup><sup>\[东台\]</sup>：井栏捱吊桶绳～起槽儿来啊<sup>\[如皋\]</sup>｜手捱玉米叶子～啊破啊<sup>\[如皋\]</sup>｜细丝线走手上一䟳手就捱～得疼。<sup>\[如皋\]</sup>｜手捱荆棘～啊个口子。<sup>\[东台\]</sup>  
 1. 【[雷不打自招](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_beh_da_cz_zho.md#雷不打自招)】`ly2 beh7 da3 cz6 zho1` <sup>[东台]</sup> 无意中透露自己的过错。  
 1. 【[雷暴雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_bo_y.md#雷暴雨)】`ly2 bo5 y3` <sup>[泰县]</sup> 雷阵雨。  
+1. 【[雷暴雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_bo_y.md#雷暴雨)】`ly2 bo5 y3` <sup>[泰州]</sup> 夏秋下午突然下的雷电交加大豫，下雨时间一般不长，两个小时左右。  
 1. 【[雷阵霍闪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_chen_vah_shin.md#雷阵霍闪)】`ly2 chen6 vah7 shin3` <sup>[如皋]</sup> 打雷声，闪电光相交加。  
 1. 【[雷打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_da.md#雷打)】`ly2 da3` <sup>[如皋]</sup> 雷击。  
 1. 【[雷打啊痴啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_da_a_chr_a.md#雷打啊痴啊)】`ly2 da3 a chr1 a` <sup>[东台]</sup> 形容反应慢、不灵活。  
 1. 【[雷打啊惊吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_da_a_jien_nga.md#雷打啊惊吖)】`ly2 da3 a jien1 nga` <sup>[如皋]</sup> 雷击导致精神错乱。  
 1. 【[雷打火烧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_da_hu_sho.md#雷打火烧)】`ly2 da3 hu3 sho1` <sup>[如皋]</sup> 形容情况紧急。见“限时限刻”。  
+1. 【[雷打火烧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_da_hu_sho.md#雷打火烧)】`ly2 da3 hu3 sho1` <sup>[泰州]</sup> ① 雷击以后引发火烧。 ② 比喻因事情紧急而行动极其迅速：又不是甚的了不得的大事，要这吖～的做甚的？｜老吴性子急，做起事来～的。  
 1. 【[雷打火烧的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_da_hu_sho_dii.md#雷打火烧的)】`ly2 da3 hu3 sho1 dii` <sup>[如皋]</sup> 见“限时限刻的”。  
 1. 【[雷公嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_gon_jy.md#雷公嘴)】`ly2 gon1 jy3` <sup>[东台]</sup> 嘴向前突起，又叫拱拱嘴儿。  
 1. 【[雷瀑雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_po_y.md#雷瀑雨)】`ly2 po y3` <sup>[如皋]</sup> 下大雨，响大雷。  
@@ -2395,6 +2534,7 @@
 1. 【[驴撩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_lio_zz.md#驴撩子)】`ly2 lio2 zz` <sup>[如东]</sup> 马科动物雄性驴的外生殖器，也叫驴阴茎。  
 1. 【[驴磨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_mu.md#驴磨)】`ly2 mu6` <sup>[如皋]</sup> 驴力拉的磨。  
 1. 【[驴球](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_qieu.md#驴球)】`ly2 qieu2` <sup>[东台]</sup> （詈语）也作愚球，指笨蛋。  
+1. 【[驴前马后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_qin_ma_heu.md#驴前马后)】`ly2 qin2 ma3 heu6` <sup>[泰州]</sup> 形容为人效力忙碌不停的样子：他也跟啊你厂长后栋驴前马后的有十几年，你马上就要调啊走唻，你最后也要对他有个交待，这才说得过去。  
 1. 【[驴四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_sz.md#驴四)】`ly2 sz5` <sup>[兴化]</sup> 骂人的话：“～！你认不得城里程抚台大人……”（《广陵潮》四七）  
 1. 【[驴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_zz.md#驴子)】`ly2 zz` <small>/ly2 t͡sɿ/<sup>兴化</sup>, /ly2 t͡sɿ/<sup>如皋</sup></small> ① 驴。哺乳纲，奇蹄目。<sup>\[如皋\]</sup> ② （讽）俗谓脾气执拗的人<sup>\[兴化\]</sup>：他这种脾气好说丑说听不进，活像个～。<sup>\[兴化\]</sup>  
 1. 【[驴子的𬥐𬥐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_zz_dii_bae_bae.md#驴子的𬥐𬥐)】`ly2 zz dii bae1 bae1` <sup>[如皋]</sup> 北方人称为“驴爹”。“爹”一音di1，dy1相近。故谐音“累堆”。  

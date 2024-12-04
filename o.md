@@ -17,6 +17,7 @@
 1. 【[屋里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_lii.md#屋里)】`oh7 lii` <sup>[兴化]</sup> 房屋里面：覅站吖外头，请～坐。｜把～屋外打扫得干干净净。也说“家里”。  
 1. 【[屋山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_shaen.md#屋山)】`oh7 shaen1` <sup>[如东]</sup> 房屋的两边。  
 1. 【[屋山头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_shaen_teu.md#屋山头)】`oh7 shaen1 teu2` <sup>[兴化]</sup> 山墙和靠近山墙的地方：他在～栽啊两棵水杉。｜……望见泰伯祠的大殿，～倒了半边。（《儒林外史》五五）  
+1. 【[屋山头/屋𣓒头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_shaen_teu.md#屋山头/屋𣓒头)】`oh7 shaen1 teu2` <sup>[泰州]</sup> 紧靠在屋脊两端下方左右两侧的墙壁：空调外机装吖两本～上是最合理的。  
 1. 【[沃动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_ton.md#沃动)】`oh7 ton` <sup>[如东]</sup> 濛濛细雨密集地下着：外头的雨落咖～。  
 1. 【[䐥臭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_cheu.md#䐥臭)】`on1 cheu5` 很臭<sup>\[泰州\]</sup>：你几天不换袜子，～的。<sup>\[泰州\]</sup>  
 1. 【[嗡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_zz.md#嗡子)】`on1 zz` <sup>[兴化]</sup> 空竹：扯～（抖空竹）。  
@@ -36,6 +37,7 @@
 1. 【[横吖心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_nga_xien.md#横吖心)】`on2 nga xien1` <sup>[如东]</sup> 下了狠心：他～，一定要这吖做。  
 1. 【[横横毌毌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_on_kuaeh_kuaeh.md#横横毌毌)】`on2 on2 kuaeh8 kuaeh8` <sup>[如皋]</sup> 勾连阻碍：扛毛竹走路～的。  
 1. 【[横七竖八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_qieh_shv_baeh.md#横七竖八)】`on2 qieh7 shv6 baeh7` ① 次序混乱。<sup>\[如东\]</sup>：竹竿～的摆啊下，不好看。<sup>\[如东\]</sup> ② 形容杂乱无章。<sup>\[东台\]</sup> ③ ［引］态度蛮横，不上规矩<sup>\[东台\]</sup>：那人再～的，哪个睬他？<sup>\[东台\]</sup>  
+1. 【[横七竖八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_qieh_shv_baeh.md#横七竖八)】`on2 qieh7 shv6 baeh7` <sup>[泰州]</sup> 杂乱无章样子：他家天井里满地都是横七竖八的竹子。  
 1. 【[横吃萝卜竖吃姜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_qieh_lu_poh_shv_qieh_jian.md#横吃萝卜竖吃姜)】`on2 qieh7 lu2 poh shv6 qieh7 jian1` <sup>[东台]</sup> 形容依疯作邪，不上规矩。  
 1. 【[横肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_roh.md#横肉)】`on2 roh8` <sup>[东台]</sup> 脸上的给人感觉十分凶恶的肌肉：胡传魁一脸～。  
 1. 【[横生倒养](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_shen_do_ian.md#横生倒养)】`on2 shen1 do5 ian3` <sup>[泰县]</sup> （禁忌语）不能生育：这个人家～，是个绝后代。  

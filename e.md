@@ -4,6 +4,7 @@
 1. 【[……儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh.md#……儿)】`eh` <sup>[东台]</sup> 儿缀的东台市区方言口音：茄～；小摊～；让你个子～。  
 1. 【[呃唷哇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh_io_va.md#呃唷哇)】`eh7 io va1` <sup>[兴化]</sup> 叹词。  
 1. 【[呃唷㗏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh_io_vae.md#呃唷㗏)】`eh7 io vae1` <sup>[兴化]</sup> ① 叹词。呼痛：～，肚子疼！ ② 讽刺语气：～，小王不简单！  
+1. 【[呃吁㗏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh_y_vae.md#呃吁㗏)】`eh7 y vae1` <sup>[泰州]</sup> 象声词，呼筒声：～～，疼煞咖唻。  
 1. 【[啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh.md#啊)】`eh7` <sup>[泰州]</sup> 表示是否，用于疑问：上海你～去？｜你～吃烧饼？  
 1. 【[呃/餩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh.md#呃/餩)】`eh8` 气逆声，打嗝(呃逆，不是嗳气)声<sup>\[东台\]</sup><sup>\[泰州\]</sup>：打～。<sup>\[东台\]</sup>｜～打啊不歇，快点ㄦ家去加点ㄦ衣裳。<sup>\[泰州\]</sup>｜打～。<sup>\[泰州\]</sup>  
 1. 【[儿不嫌母丑，狗不嫌家穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_beh_xin_mu.md#儿不嫌母丑，狗不嫌家穷)】`er2 beh7 xin2 mu3 cheu3 geu3 beh7 xin2 ga1 qion2` <sup>[东台]</sup> 人不能忘本，要爱国、爱家、爱长辈。  
@@ -13,9 +14,11 @@
 1. 【[儿儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_er.md#儿儿)】`er2 er` <sup>[兴化]</sup> 孩子：这个～太调皮。｜“人生总受业风吹，三岁～，八十～。”（宋·刘辰翁《一剪梅》）  
 1. 【[儿狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_geu.md#儿狗)】`er2 geu3` <small>/ɚ2 kɤ3/<sup>兴化</sup>, /ɚ2 kei3/<sup>如皋</sup>, /ɚ2 kəɪ3/<sup>泰兴</sup></small> 公狗。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>  
 1. 【[儿花女花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_hua_ny_hua.md#儿花女花)】`er2 hua1 ny3 hua1` <sup>[兴化]</sup> 儿女：老奶奶孤寡一人，～没得一个。｜“俺衙内老爹身边，～没有，好不单径……”（《金瓶梅词话》九一）  
+1. 【[儿花女花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_hua_ny_hua.md#儿花女花)】`er2 hua1 ny3 hua1` <sup>[泰州]</sup> 男孩女孩。  
 1. 【[儿要教，子要孝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_io_jio_zz.md#儿要教，子要孝)】`er2 io5 jio5 zz3 io5 xio5` <sup>[泰兴]</sup> 对儿女要加强教育，做子女的要孝顺。  
 1. 【[儿女亲家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_ny_qien_ga.md#儿女亲家)】`er2 ny3 qien5 ga` <sup>[如皋]</sup> 姻亲的双方家族间长辈的关系称。  
 1. 【[儿女亲家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_ny_qien_jia.md#儿女亲家)】`er2 ny3 qien5 jia` <sup>[兴化]</sup> ① 两家儿女相婚配的亲戚关系。 ② 称儿子的岳父、岳母或女儿的公公、婆婆。  
+1. 【[儿女亲家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_ny_qien_jia.md#儿女亲家)】`er2 ny3 qien5 jia` <sup>[泰州]</sup> 因子女相婚配而形成的亲戚关系。  
 1. 【[儿时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_shr.md#儿时)】`er2 shr2` <sup>[如东]</sup> 少年时候。  
 1. 【[儿孙自有儿孙福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_suen_cz_ieu.md#儿孙自有儿孙福)】`er2 suen1 cz6 ieu3 er2 suen1 foh7` <sup>[泰兴]</sup> 谓子孙自有他们自己的福分，长辈不必操劳。古语有“～，莫与儿孙作马牛。”乡人云：“～，不愁没得三间屋。”  
 1. 【[儿孙自有儿孙福，莫为儿孙当牛马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_suen_cz_ieu.md#儿孙自有儿孙福，莫为儿孙当牛马)】`er2 suen1 cz6 ieu3 er2 suen1 foh7 mah8 vei6 er2 suen1 dan1 ngeu2 ma3` <sup>[东台]</sup> 要教育后代自强不息。  
@@ -24,9 +27,14 @@
 1. 【[耳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er.md#耳)】`er3` <small>/ɚ3/<sup>泰兴</sup></small> 理睬<sup>\[泰兴\]</sup><sup>\[泰州\]</sup>：没工夫～他<sup>\[泰兴\]</sup>｜他说他的，你不要～他，他有甚的办法到你。<sup>\[泰州\]</sup>  
 1. 【[耳板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_baen.md#耳板)】`er3 baen3` <sup>[如皋]</sup> 独轮车的轴承架。  
 1. 【[耳边风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_bin_fon.md#耳边风)】`er3 bin1 fon1` <sup>[如东]</sup> 听人说话以后，就像风刮过去一样，并不放在心上。也称耳旁风。  
+1. 【[耳边风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_bin_fon.md#耳边风)】`er3 bin1 fon1` <sup>[泰州]</sup> 听到以后并不重视的话：大人说的话，这个伢儿全当～。  
 1. 【[耳报神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_bo_shen.md#耳报神)】`er3 bo5 shen2` <sup>[兴化]</sup> （喻）暗中通风报信的人：我家里有～，有点事马上传外去啊。  
+1. 【[耳报神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_bo_shen.md#耳报神)】`er3 bo5 shen2` <sup>[泰州]</sup> 暗中通风报信的人：上午会上研究的事，下午外头就全晓得咖唻，不晓得是哪个～说的。  
 1. 【[耳搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_daeh.md#耳搭)】`er3 daeh7` <sup>[兴化]</sup> 汉字偏旁。形状是卩（巳）一一硬～；阝（在左）、⻏（在右）一一 软～。  
 1. 【[耳搭帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_daeh_ban.md#耳搭帮)】`er3 daeh7 ban1` <sup>[如皋]</sup> ① 单耳搭：印即卸。 ② 双耳搭：邵郎郸；阶附陶。  
+1. 【[耳刀跟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_do_gen.md#耳刀跟)】`er3 do gen1` <sup>[泰州]</sup> 耳朵根部：脸红到～。  
+1. 【[耳刀毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_do_mo.md#耳刀毛)】`er3 do mo2` <sup>[泰州]</sup> 建国初期流行女子发型之一，发短，一般头发剪与耳垂平齐。  
+1. 【[耳刀软](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_do_run.md#耳刀软)】`er3 do run3` <sup>[泰州]</sup> 容易被他人说动而改变原来想法：你家这位领导～，掌不住他俫惑。  
 1. 【[耳朵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_du.md#耳朵)】`er3 du` <sup>[东台]</sup> 耳朵。口语中念“r3 do”。  
 1. 【[耳朵端子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_du_dun_zz.md#耳朵端子)】`er3 du dun1 zz` <sup>[东台]</sup> 耳垂儿。  
 1. 【[耳朵发热](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_du_faeh_rih.md#耳朵发热)】`er3 du faeh7 rih8` <sup>[东台]</sup> 形容被人议论得很多。  
@@ -35,7 +43,9 @@
 1. 【[耳付](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_fv.md#耳付)】`er3 fv5` <sup>[如皋]</sup> 答理、应付。有冷淡义：他这种人不受欢迎，我总不高兴～他。  
 1. 【[耳根子软](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_gen_zz_run.md#耳根子软)】`er3 gen1 zz run3` <sup>[如东]</sup> 对于别人的言语，轻易相信。比喻没有主见：他～，别人一说就相信。  
 1. 【[耳锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_gu.md#耳锅)】`er3 gu1` <sup>[如皋]</sup> 有双耳的铁锅。  
+1. 【[耳刮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_guaeh_zz.md#耳刮子)】`er3 guaeh7 zz` <sup>[泰州]</sup> 耳光，以手掌猛击人的面颊：这小伙嘴里瞎说，同我弄他两个～。  
 1. 【[耳聋缠八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_lon_chin_baeh.md#耳聋缠八)】`er3 lon2 chin6 baeh7` <small>/ɚ3 loŋ2 t͡sʰiɪ̃6 pæʔ7/<sup>兴化</sup>, /ɚ3 noŋ2 t͡ɕʰiɪ̃1 pæʔ7/<sup>泰县</sup></small> ① 耳朵听不清楚。<sup>\[如东\]</sup> ② 答非所问，缠七缠八的。<sup>\[如东\]</sup>：～的，问吖半天也朆说清楚。<sup>\[如东\]</sup> ③ 形容听觉不灵，常闹笑话<sup>\[东台\]</sup>：他～的，不要同他啰唆。<sup>\[东台\]</sup> ④ 由于耳朵失聪，常听不清或理解错别人的话<sup>\[兴化\]</sup>：“……爷爷～的，能管什么？”（马春阳《陈大年一家人》）<sup>\[兴化\]</sup> ⑤ 耳聋听不清<sup>\[泰县\]</sup>：这个人～的。<sup>\[泰县\]</sup> ⑥ 指责人答非所问<sup>\[泰县\]</sup>：你这人～的。<sup>\[泰县\]</sup>  
+1. 【[耳聋缠八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_lon_chin_baeh.md#耳聋缠八)】`er3 lon2 chin6 baeh7` <sup>[泰州]</sup> 因为听力下降而误会别人说的话：他年纪大啊耳朵不好，～的，你带谅点儿。｜他说的不是这个意思，你岁数不大，倒～的唻。  
 1. 【[耳聋缠八的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_lon_chin_baeh_dii.md#耳聋缠八的)】`er3 lon2 chin6 baeh7 dii` <sup>[如皋]</sup> 因耳聋而误会别人意思。  
 1. 【[耳门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_men.md#耳门)】`er3 men2` <sup>[如东]</sup> 堂屋（主屋）或厢房大门外侧两边的小门。  
 1. 【[耳门子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_men_zz.md#耳门子)】`er3 men2 zz` <sup>[兴化]</sup> 大门旁的小门：工厂上班时间，只能从～进出。  
@@ -66,11 +76,15 @@
 1. 【[二八月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_baeh_iuh.md#二八月)】`er6 baeh7 iuh` <sup>[泰兴]</sup> 指农历二月、八月气候宜人、农活最少的时光。  
 1. 【[二八月，乱穿衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_baeh_iuh_lun.md#二八月，乱穿衣)】`er6 baeh7 iuh8 lun6 chun1 i1` <sup>[东台]</sup> 农历二月和八月，气候多变，衣服也随着换。  
 1. 【[二八京腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_baeh_jien_qian.md#二八京腔)】`er6 baeh7 jien1 qian1` <sup>[兴化]</sup> 旧指不地道的普通话：他在北方几年，学得一口的～。  
+1. 【[二八京腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_baeh_jien_qian.md#二八京腔)】`er6 baeh7 jien1 qian1` <sup>[泰州]</sup> 不太标准的北京话。  
 1. 【[二板浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_baen_jian.md#二板浆)】`er6 baen3 jian5` <sup>[泰县]</sup> 第二次。  
+1. 【[二不倰僜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_beh_len_den.md#二不倰僜)】`er6 beh len2 den1` <sup>[泰州]</sup> 傻乎乎的样子：他就是个～的脾家，你不要惹他。  
 1. 【[二不溜秋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_beh_lieu_qieu.md#二不溜秋)】`er6 beh lieu1 qieu1` <sup>[泰县]</sup> ① 两头不落实：这件事～的。 ② 人或事不合规范。  
 1. 【[二不暇五](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_beh_xia_v.md#二不暇五)】`er6 beh xia2 v3` <sup>[泰县]</sup> （禁忌语）呆：不要～的。  
+1. 【[二不搭五](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_beh_daeh_v.md#二不搭五)】`er6 beh7 daeh7 v3` <sup>[泰州]</sup> “二五”是“二百五”的十分之一，比喻傻乎乎的：遇到这种得罪人的事，旁的人都让得远远的，只有他忙得像真的，你望望他这种～的形象嗷。  
 1. 【[二不担五](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_beh_daen_v.md#二不担五)】`er6 beh7 daen1 v3` <sup>[兴化]</sup> 不凑巧、不吻合：这个时候吃早饭嫌迟，吃中饭太早，～的。｜这段木料打床不够，打桌子又枉料，～的。  
 1. 【[二不过三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_beh_gu_saen.md#二不过三)】`er6 beh7 gu5 saen1` <sup>[东台]</sup> ① 连续两次失误，兆头不好。 ② 有些事要经过三次以上试验才能成功。  
+1. 【[二不过三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_beh_gu_saen.md#二不过三)】`er6 beh7 gu5 saen1` <sup>[泰州]</sup> 表示不超出三次，不能再有下次，但通常还会有下次：新车子半年时间不到已经碰掉两回漆，～，弄得不好还要再碰一回。  
 1. 【[二不愣登](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_beh_len_den.md#二不愣登)】`er6 beh7 len6 den1` <sup>[泰兴]</sup> 愣乎乎的样子  
 1. 【[二不愣登的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_beh_len_den.md#二不愣登的)】`er6 beh7 len6 den1 dii` <sup>[东台]</sup> ① 同“二里不敦”（有点不伦不类的角色） ② 傻，愣头愣脑的样子  
 1. 【[二不离三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_beh_li_saen.md#二不离三)】`er6 beh7 li2 saen1` <sup>[泰兴]</sup> 谓有第二次还将会有第三次。  
@@ -81,7 +95,10 @@
 1. 【[二百钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_boh_qin.md#二百钱)】`er6 boh qin2` <sup>[兴化]</sup> ① （借）金钱、名誉之类，也说“二百文”：覅狠，我没得～输把你！ ② 所谓魂魄：～吓咖跑掉啊。｜把你～买下来！（打得灵魂出窍）  
 1. 【[二百五](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_boh_v.md#二百五)】`er6 boh v3` <small>/ɚ6 pɔʔ u3/<sup>兴化</sup>, /ɚ1 pɔʔ ʋu3/<sup>如皋</sup></small> ① 傻瓜。<sup>\[如皋\]</sup> ② 牢骚<sup>\[如皋\]</sup>：一肚子的～。<sup>\[如皋\]</sup> ③ （讽）有些傻气的人<sup>\[兴化\]</sup>：他第一次见丈母娘就口无遮拦，真是个～！<sup>\[兴化\]</sup>  
 1. 【[二百文](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_boh_ven.md#二百文)】`er6 boh ven2` <sup>[兴化]</sup> 金钱，名誉之类。  
+1. 【[二百钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_boh_qin.md#二百钱)】`er6 boh7 qin2` <sup>[泰州]</sup> 指即使得到赏赐，数量也很有限，讥讽为了蝇头小利而阿谀他人的人：你这小伙同他忙吖这半天，教他赏你～。｜人家的事要问啊做甚的，你这吖积极法子，哿得赏你～？  
 1. 【[二百五](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_boh_v.md#二百五)】`er6 boh7 v3` <small>/ɚ1 pɔʔ7 u3/<sup>泰县</sup></small> ① 白痴，傻子 ② 过去银子五百两为一封，二百五为“半封”，谐音“半疯”。比喻不聪明，疯疯癫癫的。<sup>\[如东\]</sup> ③ 精神、智力不正常的人。<sup>\[东台\]</sup> ④ 犹呆<sup>\[泰县\]</sup>：这个人是～。<sup>\[泰县\]</sup>  
+1. 【[二百五](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_boh_v.md#二百五)】`er6 boh7 v3` <sup>[泰州]</sup> 很傻的人，多指不明事理、没有心机而又倔强鲁莽的人：他就是个～，你同他没得计较头。  
+1. 【[二百下五](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_boh_xia_v.md#二百下五)】`er6 boh7 xia v3` <sup>[泰州]</sup> 即“二百五”，傻乎乎的。  
 1. 【[二舱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_can.md#二舱)】`er6 can1` <sup>[如东]</sup> 帆船的第七舱，是货舱。  
 1. 【[二尺半](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_cheh_bun.md#二尺半)】`er6 cheh7 bun5` <small>/ɚ6 t͡sʰəʔ7 pũ5/<sup>兴化</sup>, /ɚ1 t͡sʰəʔ7 põ5/<sup>泰县</sup></small> ① 旧指军装<sup>\[兴化\]</sup>：我再不行，到底还穿过几身～。<sup>\[兴化\]</sup> ② 军装。<sup>\[泰县\]</sup>  
 1. 【[二成打八折](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_chen_da_baeh_zhih.md#二成打八折)】`er6 chen2 da3 baeh7 zhih7` <sup>[东台]</sup> 形容可信度或有效成分太少。  
@@ -123,6 +140,7 @@
 1. 【[二下来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_ha_lae_a.md#二下来啊)】`er6 ha lae2 a` <sup>[如皋]</sup> ① 状破裂，矛盾扩大了，难收拾了。 ② 绷裂了。  
 1. 【[二𤹉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_ha_r.md#二𤹉<sub>儿</sub>)】`er6 ha3 r` <sup>[泰兴]</sup> 犹“二十五”。  
 1. 【[二哼子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_hen_zz.md#二哼子)】`er6 hen1 zz` <small>/ɚ6 xən1 t͡sɿ/<sup>兴化</sup>, /ɚ1 xəŋ1 t͡sɿ/<sup>如皋</sup>, /ɚ1 xəŋ1 t͡se/<sup>泰县</sup></small> ① 没有性欲的男子。<sup>\[如东\]</sup> ② 半痴半呆的男子。<sup>\[如东\]</sup> ③ 阳萎、早泄患者，或性无能者。<sup>\[如皋\]</sup> ④ 指发育不健全，性功能缺乏的男人。<sup>\[东台\]</sup> ⑤ ［喻］做事不成熟。<sup>\[东台\]</sup> ⑥ 患阳痿或天阉的人。<sup>\[兴化\]</sup> ⑦ （禁忌语）阳痿的人。<sup>\[泰县\]</sup> ⑧ 半痴半呆的人。<sup>\[泰县\]</sup>  
+1. 【[二哼子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_hen_zz.md#二哼子)】`er6 hen1 zz` <sup>[泰州]</sup> 俗称阳痿或者天阉之人。  
 1. 【[二侯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_heu.md#二侯)】`er6 heu` <small>/ɚ1 xei/<sup>如皋</sup></small> ① 排行老二的儿子，次子。以此类推，还有三侯、四侯之类。 ② 行二的孩子。<sup>\[如皋\]</sup>  
 1. 【[二猴子躬腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_heu_zz_gon_io.md#二猴子躬腰)】`er6 heu2 zz gon1 io1` <sup>[泰兴]</sup> 指累得躬腰驼背的样子：他一天到夜忙得～啊似的  
 1. 【[二话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_hua.md#二话)】`er6 hua6` <small>/ɚ6 xua6/<sup>兴化</sup>, /ɚ1 xuɑ1/<sup>泰兴</sup></small> ① 重复或附和别人说的话<sup>\[兴化\]</sup>：你说说自己的意思，覅老是说～。<sup>\[兴化\]</sup> ② 自食其言，不能兑现的话<sup>\[泰兴\]</sup> ③ 不讲诚信的话<sup>\[泰兴\]</sup>：我拍胸脯担保，决不说～<sup>\[泰兴\]</sup> ④ 不同意见的话<sup>\[泰州\]</sup>：老板定下来的事，没得～说，照办就是。<sup>\[泰州\]</sup> ⑤ 与之前说的内容含义相反的话<sup>\[泰州\]</sup>：你这个人没得意思，答应吖的事就不作兴说～。<sup>\[泰州\]</sup> ⑥ 重复别人的话或者与别人的话所表达的意思相同的话，取“同样的话第二次说”之义<sup>\[泰州\]</sup>：这小伙没得旁的用，就落咖跟吖领导后头说～的本事。<sup>\[泰州\]</sup>  
@@ -134,6 +152,7 @@
 1. 【[二乎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_hv.md#二乎)】`er6 hv1` <sup>[泰兴]</sup> 畏缩，犹豫：要跟我搝？哼，我才不～他唻！  
 1. 【[二胡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_hv.md#二胡)】`er6 hv2` <small>/ɚ1 fʋ2/<sup>泰兴</sup></small> 乐器，胡琴的一种\[如东：比京胡大，琴筒用木头做成，前端稍大，蒙蟒皮，有两根弦，声音低沉圆润。\]\[泰兴：长三尺四寸左右，琴筒用木制成，一端蒙蟒皮或蛇皮，有内外二弦，声音柔和悦耳。四弦者称“四胡”。民间老幼多有喜好胡琴者。\]  
 1. 【[二姨妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_i_ma.md#二姨妈)】`er6 i2 ma1` <small>/ɚ6 i2 ma1/<sup>兴化</sup>, /ɚ1 ɿ2 ma1/<sup>泰县</sup></small> ① （讽）言谈举止女性化或具有某些女性生理特征的男人。也称“二姨娘”。<sup>\[兴化\]</sup> ② 女性化的男人。<sup>\[泰县\]</sup>  
+1. 【[二姨妈妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_i_ma_ma.md#二姨妈妈)】`er6 i2 ma1 ma` <sup>[泰州]</sup> 言谈举止类似中年女性的男性：这小伙怎吖是个～的，说咖说的，怎吖就哭的？  
 1. 【[二姨娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_i_nian.md#二姨娘)】`er6 i2 nian` <small>/ɚ6 i2 liaŋ/<sup>兴化</sup>, /ɚ1 ɿ2 niɑŋ/<sup>泰县</sup></small> ① 见“二姨妈”。<sup>\[兴化\]</sup> ② 女性化的男人。<sup>\[泰县\]</sup>  
 1. 【[二样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_ian.md#二样)】`er6 ian6` <small>/ɚ6 iaŋ6/<sup>兴化</sup>, /ɚ1 iɑŋ1/<sup>泰兴</sup></small> ① 不同样，多用于否定<sup>\[兴化\]</sup>：他俫两个人的脾气没得～。<sup>\[兴化\]</sup> ② 两样，两个样子。<sup>\[泰兴\]</sup>：箇批货一式头，没得～<sup>\[泰兴\]</sup>  
 1. 【[二一添作五](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_ieh_tin_zah_v.md#二一添作五)】`er6 ieh7 tin1 zah7 v3` <sup>[泰兴]</sup> 珠算除法的一句口诀，二分之一的意思。借指双方平分或平均承担责任和任务。  
@@ -147,6 +166,7 @@
 1. 【[二豭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_ka_zz.md#二豭子)】`er6 ka3 zz` <sup>[东台]</sup> ［喻］本指半大的猪，喻指不大不小的人物。  
 1. 【[二柜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_kuei.md#二柜)】`er6 kuei6` <sup>[泰县]</sup> 站在头柜之后，生意经略差一点的人。  
 1. 【[二郎腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_lan_tuei.md#二郎腿)】`er6 lan tuei3` <sup>[泰兴]</sup> 把一条腿搁在另一条腿上的坐姿。  
+1. 【[二郎腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_lan_ty.md#二郎腿)】`er6 lan ty3` <sup>[泰州]</sup> 一种坐姿，坐时将一条腿搁在另一条腿上：跷～。  
 1. 【[二郎神的外甥——不爱舅（旧）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_lan_shen_dii_vae_shen_beh_ngae_qieu.md#二郎神的外甥——不爱舅（旧）)】`er6 lan2 shen2 dii vae6 shen1 beh7 ngae5 qieu6` <sup>[东台]</sup>   
 1. 【[二郎腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_lan_tuei.md#二郎腿)】`er6 lan2 tuei3` <sup>[如东]</sup> 坐凳时，一条腿搁在另一条腿上，叫做二郎腿，也叫跷二郎腿。  
 1. 【[二勒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_leh_zz.md#二勒子)】`er6 leh8 zz` <small>/ɚ6 ləʔ8 t͡sɿ/<sup>兴化</sup></small> ① 中等货。<sup>\[如东\]</sup>：这些鱼都是～。<sup>\[如东\]</sup> ② ［喻］戏称不大不小的人物。<sup>\[东台\]</sup> ③ 半大的<sup>\[兴化\]</sup>：螃蟹多少钱一斤？<sup>\[兴化\]</sup>｜这么大的事来个～干部怎吖解决得了？<sup>\[兴化\]</sup>  
@@ -155,9 +175,12 @@
 1. 【[二李逵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_li_kuei.md#二李逵)】`er6 li3 kuei2` <sup>[如皋]</sup> 指性格、形像与李逵相似的人。  
 1. 【[二梁膀子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_lian_ban_zz.md#二梁膀子)】`er6 lian ban3 zz` <sup>[兴化]</sup> 紧靠中脊的前后两根桁条。  
 1. 【[二梁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_lian.md#二梁)】`er6 lian2` <sup>[如皋]</sup> 见“二槽”。  
+1. 【[二梁膀子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_lian_ban_zz.md#二梁膀子)】`er6 lian2 ban3 zz` <sup>[泰州]</sup> 二梁，如同两只膀子在大梁的两侧。  
 1. 【[二两茶饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_lian_cha_faen.md#二两茶饭)】`er6 lian3 cha2 faen6` <sup>[如东]</sup> ① 形容饭量很小：她只要～。 ② 胃口不好，吃得很少。  
 1. 【[二流子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_lieu_zz.md#二流子)】`er6 lieu2 zz` <small>/ɚ1 ləɪ2 t͡sɿ/<sup>泰兴</sup></small> ① 不务正业的人。<sup>\[如东\]</sup> ② 游手好闲、不务正业的人。<sup>\[泰兴\]</sup>  
+1. 【[二流子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_lieu_zz.md#二流子)】`er6 lieu2 zz` <sup>[泰州]</sup> 游手好闲不务正业之人。  
 1. 【[二里不敦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_lii_beh_den.md#二里不敦)】`er6 lii beh7 den1` <small>/ɚ1 nɿ pəʔ7 təŋ1/<sup>泰县</sup></small> ① 比喻不灵活，不聪明。<sup>\[如东\]</sup>：这个伢儿～的。<sup>\[如东\]</sup> ② （禁忌语）痴呆。<sup>\[泰县\]</sup> ③ 有点不伦不类的角色。<sup>\[东台\]</sup>  
+1. 【[二槤碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_lin_un.md#二槤碗)】`er6 lin2 un3` <sup>[泰州]</sup> 一种碗口小于大碗而碗深略浅于大碗，碗身外有彩色花绘的碗。  
 1. 【[二老大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_lo_da.md#二老大)】`er6 lo3 da6` <sup>[如东]</sup> 老大的助手。负责日常工作，并开（摇）舢板。也称二副。二老大的份额为1.5倍。  
 1. 【[二码货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_ma_hu.md#二码货)】`er6 ma hu5` <sup>[泰兴]</sup> ① 二等品，次品，质量很差的产品。 ② 引喻人品差者：庄西头李家二少爷，人品太差，是个～。  
 1. 【[二马不离伴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_ma_beh_li.md#二马不离伴)】`er6 ma3 beh7 li2 pun6` <sup>[泰兴]</sup> 喻关系密切，形影不离：他佼两个人合得来，天天～。  
@@ -193,6 +216,7 @@
 1. 【[二事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_shr.md#二事)】`er6 shr6` <sup>[兴化]</sup> 帮忙做杂事：星期天，小于忙吖洗衣做饭，他先生跟吖在后边做～。  
 1. 【[二水货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_shuei_hu.md#二水货)】`er6 shuei hu5` <sup>[泰兴]</sup> ① 指已经用过的物品：不管什么名牌，～我不要，要买就买新的 ② 有时用于贬称再嫁的妇女  
 1. 【[二水钩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_shuei_geu_zz.md#二水钩子)】`er6 shuei3 geu1 zz` <sup>[兴化]</sup> 伸足绊人：他一个～把人家撂下来咾！  
+1. 【[二水货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_shuei_hu.md#二水货)】`er6 shuei3 hu5` <sup>[泰州]</sup> ① 洗过第二次的货物，指不是原装的物品，或者不是初次使用的物品，贬义：这些外国人穿过的～衣裳，再便宜也不能买。 ② 蔑称非处女的女性：他自己是二婚，还嫌人家女的是～。  
 1. 【[二水子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_shuei_zz.md#二水子)】`er6 shuei3 zz` <sup>[兴化]</sup> ① 并非原装的或非初次使用的：他忙吖多时，结果弄来个～。 ② 旧物或剩下的：拾人家～。｜他身穷落魄，在酒馆里等～饭菜充饥。  
 1. 【[二太阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_tae_ian.md#二太阳)】`er6 tae5 ian` <sup>[如皋]</sup> 指月亮。  
 1. 【[二踢脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_tieh_jiah.md#二踢脚)】`er6 tieh7 jiah7` <sup>[如皋]</sup> 双响爆竹。  
@@ -202,10 +226,13 @@
 1. 【[二碗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_un_r.md#二碗<sub>儿</sub>)】`er6 un3 r` <small>/ɚ1 ʊ˞3/<sup>如皋</sup></small> ① 中药每剂应煎二次，第二次煎的药汁称～（与“头碗儿”相对）。<sup>\[如皋\]</sup> ② 居家生活中，比盛菜的大碗小一点，盛饭常用的碗。<sup>\[东台\]</sup>  
 1. 【[二五](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_v.md#二五)】`er6 v` <sup>[泰兴]</sup> 傻子，傻里傻气者。犹言“二十五”、“二百五”。贬义：整天的不做事，东游西荡，说话不捉句，活像个～  
 1. 【[二五一凑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_v_ieh_ceu.md#二五一凑)】`er6 v3 ieh7 ceu5` <small>/ɚ6 u3 iəʔ7 t͡sʰɤ5/<sup>兴化</sup>, /ɚ1 ʋu3 iəʔ7 t͡sʰei5/<sup>如皋</sup></small> ① 几种因素凑到一起<sup>\[如皋\]</sup>：他本来就有病，又捱一气，～就倒下来啊。<sup>\[如皋\]</sup> ② 两个数字相凑成整<sup>\[兴化\]</sup>：陈粮藏在夹墙里，自留田收的新稻摺在东房间里，～就够数了。（马春阳《陈大年一家人》）<sup>\[兴化\]</sup> ③ 诸因素凑合<sup>\[兴化\]</sup>：他这几天劳累，又受啊寒凉，～就病倒啊。<sup>\[兴化\]</sup>  
+1. 【[二五一凑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_v_ieh_ceu.md#二五一凑)】`er6 v3 ieh7 ceu5` <sup>[泰州]</sup> “二五”，即傻子，比喻各种因素凑起来造成不良后果：小王本来脾气就坏，小李那天说话态度也不好，又有人在旁边挑事，～，两个人就打起来啊。｜这个公司的效益本来就不好，加上这次金融危机影响，～，公司怎吖得不破产。  
 1. 【[二五两耽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_v_laen_daen.md#二五两耽)】`er6 v3 laen3 daen1` <small>/ɚ6 u3 lɛ̃3 tɛ̃1/<sup>兴化</sup>, /ɚ1 u3 nɛ̃3 tɛ̃1/<sup>泰县</sup></small> ① 因耽搁而错过时机<sup>\[兴化\]</sup>：就这吖～把个婚事拖下来啊。<sup>\[兴化\]</sup> ② 误事、误了双方。<sup>\[泰县\]</sup>  
+1. 【[二五难担](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_v_naen_daen.md#二五难担)】`er6 v3 naen2 daen1` <sup>[泰州]</sup> 指人什么事情也做不了：你望他这种～的样子，还指望他能做个甚的事情唻。  
 1. 【[二五难担的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_v_naen_daen_dii.md#二五难担的)】`er6 v3 naen2 daen1 dii` <sup>[东台]</sup> 高不成低不就：他退休嫌早，安排嫌老，真有点～。  
 1. 【[二尾<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_vei_r.md#二尾<sub>儿</sub>)】`er6 vei3 r` <sup>[如皋]</sup> 雄蟋蟀。  
 1. 【[二尾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_vei_zz.md#二尾子)】`er6 vei3 zz` <small>/ɚ6 uəi3 t͡sɿ/<sup>兴化</sup>, /ɚ1 ʋəɪ3 t͡sɿ/<sup>泰兴</sup>, /ɚ1 ʋəɪ3 t͡se/<sup>泰县</sup></small> ① 雄蟋蟀。因其一对尾须而得名。<sup>\[兴化\]</sup> ② 戏谓跟路的小孩<sup>\[兴化\]</sup>：后头跟个～。<sup>\[兴化\]</sup> ③ 阴阳两性人。<sup>\[兴化\]</sup> ④ 有权有势人的走卒。<sup>\[泰县\]</sup> ⑤ 对为虎作伥、溜须拍马者的鄙称。<sup>\[泰兴\]</sup>：老百姓对箇个～从来就看不上眼。<sup>\[泰兴\]</sup>  
+1. 【[二尾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_vei_zz.md#二尾子)】`er6 vei3 zz` <sup>[泰州]</sup> 跟在大人屁股后面跑的小孩：这个伢儿成天缠住爷爷（ia2 ia2，叔父），成吖他家爷爷的个～。  
 1. 【[二显](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_xin.md#二显)】`er6 xin3` <small>/ɚ1 ɕiɪ̃3/<sup>泰县</sup></small> ① （禁忌语）呆子。<sup>\[泰县\]</sup> ② 因为逞能或受人教唆而不计后果做出凶狠蠢事的人<sup>\[泰州\]</sup>：你说你哿是个～，人家教你杀人，你还真的去杀人吖？<sup>\[泰州\]</sup>｜他这个～同人家拼酒，三扣喝掉一斤半，差点儿喝煞咖。<sup>\[泰州\]</sup>  
 1. 【[二小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_xio.md#二小)】`er6 xio3` <small>/ɚ6 ɕiɔ3/<sup>兴化</sup>, /ɚ1 ɕiɔ3/<sup>如皋</sup>, /ɚ1 ɕiɔ3/<sup>泰兴</sup>, /ɚ1 ɕiɔ3/<sup>泰县</sup></small> ① 排行第二，多为长辈对晚辈的称呼。也称老二。<sup>\[如东\]</sup> ② 行二的孩子。<sup>\[如皋\]</sup> ③ 泛指旧时的小雇工<sup>\[如皋\]</sup>：～～，看牛扯草。<sup>\[如皋\]</sup> ④ 排行第二的孩子。<sup>\[兴化\]</sup> ⑤ 听使唤的人<sup>\[兴化\]</sup>：你覅把我当～，甚的事总叫我去！<sup>\[兴化\]</sup> ⑥ 排行老二。<sup>\[泰县\]</sup> ⑦ 佣人<sup>\[泰县\]</sup>：我不能老是做你的～。<sup>\[泰县\]</sup> ⑧ 跟随主人的贴身奴仆，随时听候主人使唤<sup>\[泰兴\]</sup> ⑨ 比喻受人指使、自己无主见者<sup>\[泰兴\]</sup>：他是个没出息的杲子，跟吖人家后头做～，受人支派。<sup>\[泰兴\]</sup>  
 1. 【[二照蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_zho_taen.md#二照蛋)】`er6 zho5 taen6` <sup>[如皋]</sup> 炕坊孵蛋，每7天照光检查一次，剔除死蛋。第二个7天照光剔出的蛋称～。蛋黄已变，尚可食用。  
