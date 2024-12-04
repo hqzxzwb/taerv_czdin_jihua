@@ -842,6 +842,7 @@
 1. 【[睏早起](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_zo_qi.md#睏早起)】`kuen5 zo3 qi3` <sup>[如东]</sup> 早晨起不来：毛毛喜欢～。  
 1. 【[嗑牙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh_nga.md#嗑牙)】`kuh7 nga2` <sup>[兴化]</sup> 闲谈：几个人没事就在一起闲～。  
 1. 【[嗑穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh_qion.md#嗑穷)】`kuh7 qion2` <small>/kʰuʔ7 t͡ɕʰioŋ2/<sup>兴化</sup>, /kʰʊʔ7 t͡ɕʰiɔŋ2/<sup>如皋</sup></small> 哭穷。<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：老朱这几年混得不错，但是见吖老乡就～。<sup>\[兴化\]</sup>  
+1. 【[盇篮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh_laen.md#盇篮)】`kuh7 laen2` 菜罩<sup>\[如东\]</sup>  
 1. 【[瞌𥅻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh_chon.md#瞌𥅻)】`kuh7 chon5` <small>/kʰʊʔ7 t͡sʰɔŋ5/<sup>如皋</sup>, /kʰʊʔ7 t͡sʰoŋ5/<sup>泰县</sup></small> ① 瞌睡，困极小睡 ② 打盹。<sup>\[如东\]</sup>：打～。<sup>\[如东\]</sup> ③ 欲睡时不自主地颠头。<sup>\[如皋\]</sup> ④ 打盹，打瞌睡。<sup>\[东台\]</sup> ⑤ 头脑不十分清醒<sup>\[东台\]</sup>：打你的～，这桩事怎吖能这吖办？！<sup>\[东台\]</sup> ⑥ 打瞌睡。<sup>\[泰县\]</sup>  
 1. 【[瞌睡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh_shuei.md#瞌睡)】`kuh7 shuei` <sup>[如皋]</sup> 见“瞌𥅻”。  
 1. 【[瞌睡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh_shuei.md#瞌睡)】`kuh7 shuei5` <sup>[如东]</sup> 打盹。  
