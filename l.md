@@ -1359,7 +1359,7 @@
 1. 【[连本掼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_ben_kuaen.md#连本掼)】`lin2 ben3 kuaen6` <sup>[兴化]</sup> 见“连本烂”。  
 1. 【[连本烂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_ben_laen.md#连本烂)】`lin2 ben3 laen6` <sup>[兴化]</sup> 做生意连本钱也折光了：这次贩水产品到广州，路上死啊大半，弄个～。‖也称“连本掼”。  
 1. 【[连……带……](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_dae.md#连……带……)】`lin2 dae5` <sup>[东台]</sup> 前后两项或两种动作连在一起：～本～利｜～滚～爬｜～说～唱｜～跑～蹓。  
-1. 【[连……带……](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_dae.md#连……带……)】`lin2 dae5` <sup>[泰州]</sup> ① A、B为两个同义、近义动词时，表示一个动作夹着另外一个动作进行：听说二舅舅来啊，三小连跑带遛的走单位上家来啊。｜他捱老周连推带搡的弄吖走啊。 ② A、B为两个同类、相对应的名词时，表示两个东西同时处于某种状态：我借他的钱在上个月就连本带利都还把他唻。｜他骑脚踏车上班，在路上捱人家连人带车撞吖跌咖马路上，还好人没得事。 ③ 谨案，此种短语结构（1）义州人常用。例如  
+1. 【[连……带……](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_dae.md#连……带……)】`lin2 dae5` <sup>[泰州]</sup> ① A、B为两个同义、近义动词时，表示一个动作夹着另外一个动作进行：听说二舅舅来啊，三小连跑带遛的走单位上家来啊。｜他捱老周连推带搡的弄吖走啊。 ② A、B为两个同类、相对应的名词时，表示两个东西同时处于某种状态：我借他的钱在上个月就连本带利都还把他唻。｜他骑脚踏车上班，在路上捱人家连人带车撞吖跌咖马路上，还好人没得事。  
 1. 【[连裆码子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_dan_ma_zz.md#连裆码子)】`lin2 dan ma3 zz` <sup>[兴化]</sup> 贬称同伙的人：他俫两个人是～，一个唱红脸，一个唱白脸。  
 1. 【[连裆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_dan.md#连裆)】`lin2 dan1` <sup>[如东]</sup> 互相勾结、包庇，叫做连裆：他俫是～的。  
 1. 【[连裆裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_dan_kv.md#连裆裤)】`lin2 dan1 kv5` <sup>[如东]</sup> 裤裆不开口的裤子。  
