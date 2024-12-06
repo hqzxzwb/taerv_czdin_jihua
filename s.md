@@ -1634,9 +1634,8 @@
 1. 【[手丫<sub>儿</sub>松](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_nga_r_son.md#手丫<sub>儿</sub>松)】`sheu3 nga1 r son1` <small>/sei3 ŋa˞1 sɔŋ1/<sup>如皋</sup></small> ① 会用钱不精打细算。<sup>\[如皋\]</sup> ② 抓得松，比喻不会存东西。<sup>\[如东\]</sup>  
 1. 【[手丫<sub>儿</sub>稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_nga_r_xi.md#手丫<sub>儿</sub>稀)】`sheu3 nga1 r xi1` <small>/sei3 ŋa˞1 ɕʝ1/<sup>如皋</sup></small> ① 会用钱不精打细算。<sup>\[如皋\]</sup> ② 抓得松，比喻会花钱。<sup>\[如东\]</sup>：她的～的，这吖多钱没几天就用光吖。<sup>\[如东\]</sup>  
 1. 【[手拗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_ngo_zz.md#手拗子)】`sheu3 ngo5 zz` <sup>[泰州]</sup> 手腕，手和手臂的连接处：你当心点儿，不要把～弄吖闪吖。  
-1. 【[手捏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_nih_zz.md#手捏子)】`sheu3 nih8 zz` <small>/sɤ3 liɪʔ8 t͡sɿ/<sup>兴化</sup>, /sei3 niʔ8 t͡sɿ/<sup>如皋</sup></small> ① 手帕。<sup>\[如皋\]</sup> ② 就是手帕。<sup>\[东台\]</sup> ③ 手帕。<sup>\[兴化\]</sup>  
-1. 【[手捏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_nih_zz.md#手捏子)】`sheu3 nih8 zz` <sup>[泰州]</sup> 手帕。  
-1. 【[手拈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_nin_r.md#手拈<sub>儿</sub>)】`sheu3 nin1 r` <sup>[泰县]</sup> 手帕。  
+1. 【[手捏<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_nih_r.md#手捏<sub>儿</sub>)】`sheu3 nih8-1 r` <sup>[泰县]</sup> 手帕。  
+1. 【[手捏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_nih_zz.md#手捏子)】`sheu3 nih8 zz` <small>/sɤ3 liɪʔ8 t͡sɿ/<sup>兴化</sup>, /sei3 niʔ8 t͡sɿ/<sup>如皋</sup></small> 手帕。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>  
 1. 【[手扒<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_pa_r.md#手扒<sub>儿</sub>)】`sheu3 pa2 r` <sup>[兴化]</sup> 手帕。  
 1. 【[手膀子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_pan_z.md#手膀子)】`sheu3 pan2 z` 胳膊  
 1. 【[手气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_qi.md#手气)】`sheu3 qi5` ① 运气。<sup>\[如东\]</sup> ② 赌博抓牌或者抓彩时手的运气<sup>\[泰州\]</sup>：他今朝子的～好，救他个人赢钱。<sup>\[泰州\]</sup>  
