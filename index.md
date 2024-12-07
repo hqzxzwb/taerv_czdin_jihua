@@ -86,19 +86,22 @@
 1. 【[打巴巴掌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ba_ba_zhan.md#打巴巴掌)】`da3 ba1 ba1 zhan` <sup>[如皋]</sup> 即北京的“打花巴掌”。二人对坐，互、自击掌。如此循环。同时口唱儿歌。  
 1. 【[打把势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ba_shr.md#打把势)】`da3 ba3 shr` <sup>[兴化]</sup> 利用某种关系或用不正当手段索取钱财：……当时他故了下来，同乡里出来替他～，我还帮过他二两银子……（《官场现行记》十一）  
 1. 【[打坝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ba.md#打坝)】`da3 ba5` <small>/ta3 pa5/<sup>兴化</sup>, /ta3 pa5/<sup>如皋</sup></small> ① 在河道上筑坝。<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：前头河里在下～，船过不去。<sup>\[泰州\]</sup> ② 比喻阻挠、作梗<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：他从中～，事情就有难度咾。<sup>\[如皋\]</sup>｜这件事有人～，不顺利。<sup>\[兴化\]</sup>｜你这桩事怕的有人在当中～，不然怎吖会得到现在还不批。<sup>\[泰州\]</sup> ③ 堵塞<sup>\[如皋\]</sup><sup>\[兴化\]</sup>：千不怕，万不怕，就怕喉咙管儿～。<sup>\[如皋\]</sup>｜他喉咙～，咽不下去。<sup>\[兴化\]</sup>  
-1. 【[打摆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_bae_zz.md#打摆子)】`da3 bae3 zz` <small>/ta3 pɛ3 t͡sɿ/<sup>兴化</sup>, /ta3 pɛ3 t͡sɿ/<sup>如皋</sup></small> ① 患疟疾。发寒颤抖，旧时无特效药医，病程延长。同“百日子”。<sup>\[如皋\]</sup> ② 患疟疾，身上发寒颤抖。<sup>\[东台\]</sup> ③ ［喻］忽冷忽热、时好时差、时有时无的不正常现象。（作为詈语也说“打阴摆子”）<sup>\[东台\]</sup> ④ 发疟疾。<sup>\[兴化\]</sup> ⑤ （喻）犯冷热病。<sup>\[兴化\]</sup>  
-1. 【[打摆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_bae_zz.md#打摆子)】`da3 bae3 zz` <sup>[泰州]</sup> ① 疟疾发作。 ② 骂人行为反复折腾：你不要～哿好，这件事你先想吖一当吖再说。｜也是他教弄下来的，现在有教弄上去，你说哿是～啊。  
+1. 【[打摆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_bae_zz.md#打摆子)】`da3 bae3 zz` <small>/ta3 pɛ3 t͡sɿ/<sup>兴化</sup>, /ta3 pɛ3 t͡sɿ/<sup>如皋</sup></small> ① 患疟疾。发寒颤抖，旧时无特效药医，病程延长。同“百日子”。<sup>\[如皋\]</sup> ② 患疟疾，身上发寒颤抖。<sup>\[东台\]</sup> ③ ［喻］忽冷忽热、时好时差、时有时无的不正常现象。（作为詈语也说“打阴摆子”）<sup>\[东台\]</sup> ④ 发疟疾。<sup>\[兴化\]</sup><sup>\[泰州\]</sup> ⑤ （喻）犯冷热病。<sup>\[兴化\]</sup> ⑥ 骂人行为反复折腾<sup>\[泰州\]</sup>：你不要～哿好，这件事你先想吖一当吖再说。<sup>\[泰州\]</sup>｜也是他教弄下来的，现在有教弄上去，你说哿是～啊。<sup>\[泰州\]</sup>  
 1. 【[打摆子去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_bae_zz_qy.md#打摆子去)】`da3 bae3 zz qy5` <sup>[如皋]</sup> 恶言逐客：你～吧！  
 1. 【[打八岔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_baeh_cha.md#打八岔)】`da3 baeh7 cha5` <sup>[如东]</sup> 从旁打扰别人的工作或谈话：你不要在这许～。  
 1. 【[打板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_baen.md#打板)】`da3 baen3` <small>/ta3 pɛ̃3/<sup>兴化</sup>, /ta3 pẽ3/<sup>如皋</sup></small> ① 板结<sup>\[如皋\]</sup>：头发～；米蛀啊，打啊板。<sup>\[如皋\]</sup> ② 为演唱击拍子<sup>\[兴化\]</sup>：你唱曲子，我来～。<sup>\[兴化\]</sup>｜（那小旦）才开口要唱，李公道： “不必大曲，只唱小曲罢。”递扇子与他～，唱了一曲。（《梼杌闲评》二）。<sup>\[兴化\]</sup>  
-1. 【[打板子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_baen_zz.md#打板子)】`da3 baen3 zz` <sup>[如皋]</sup> ① 打屁股：秀才～，黄老爷不起。 ② 批评用语：你这吖粗心，真要～。 ③ 表示不屑于：天天这吖远去帮他做，～唻！ ④ 恶言逐客：你～去吧！  
-1. 【[打板子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_baen_zz.md#打板子)】`da3 baen3 zz` <sup>[泰州]</sup> 受到批评或者处分：这件事你不要管，上头要～打我好唻。  
+1. 【[打板子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_baen_zz.md#打板子)】`da3 baen3 zz` <small>/ta3 pẽ3 t͡sɿ/<sup>如皋</sup></small> ① 打屁股<sup>\[如皋\]</sup>：秀才～，黄老爷不起。<sup>\[如皋\]</sup> ② 批评用语<sup>\[如皋\]</sup>：你这吖粗心，真要～。<sup>\[如皋\]</sup> ③ 表示不屑于<sup>\[如皋\]</sup>：天天这吖远去帮他做，～唻！<sup>\[如皋\]</sup> ④ 恶言逐客<sup>\[如皋\]</sup>：你～去吧！<sup>\[如皋\]</sup> ⑤ 受到批评或者处分<sup>\[泰州\]</sup>：这件事你不要管，上头要～打我好唻。<sup>\[泰州\]</sup>  
 1. 【[打扮个鹅<sub>儿</sub>头，还是个扁嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_baen_gu_ngu_r_teu_hae_shr_gu_bin_jy.md#打扮个鹅<sub>儿</sub>头，还是个扁嘴)】`da3 baen5 gu ngu2 r teu2 hae2 shr6 gu bin3 jy3` <sup>[如皋]</sup> 本样改变不了。  
 1. 【[打帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ban.md#打帮)】`da3 ban1` <small>/ta3 paŋ1/<sup>兴化</sup></small> ① 入伙。<sup>\[如东\]</sup>：我跟你～。<sup>\[如东\]</sup> ② 结成一伙<sup>\[兴化\]</sup>：他俫三个人～儿出门做生意。<sup>\[兴化\]</sup>  
 1. 【[打帮<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ban_r.md#打帮<sub>儿</sub>)】`da3 ban1 r` <sup>[如皋]</sup> 结伴，做伴。  
 1. 【[打膀子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ban_zz.md#打膀子)】`da3 ban3 zz` <sup>[如皋]</sup> 以臂互击的锻炼方式。  
 1. 【[打不住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_beh_chv.md#打不住)】`da3 beh chv6` <sup>[兴化]</sup> 预计的钱物等不敷实际需要：这次修房子两万块～。  
 1. 【[打不平](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_beh_pien.md#打不平)】`da3 beh7 pien2` <sup>[兴化]</sup> 帮助受欺压的人说话或采取某种行动：武松在家行侠仗义，惯～。（《武松》一）  
+1. 【[打不起](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_beh_qi.md#打不起)】`da3 beh7 qi3` <sup>[如皋]</sup> 秤的称量不够。  
+1. 【[打比子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_bi_zz.md#打比子)】`da3 bi3 zz` <sup>[如皋]</sup> 相对比。  
+1. 【[打饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_bien.md#打饼)】`da3 bien3` <small>/ta3 piɪ̃3/<sup>兴化</sup>, /ta3 piəŋ3/<sup>如皋</sup>, /tɑ3 piŋ3/<sup>泰兴</sup>, /ta3 piŋ3/<sup>泰县</sup></small> ① 聚集成一团：头发～了，梳不开。 ② 见“打板”。<sup>\[如皋\]</sup> ③ 旧式榨油打出油饼。<sup>\[如皋\]</sup> ④ 板结、变质<sup>\[如皋\]</sup>：头发～，栉不动。<sup>\[如皋\]</sup>  
+1. 【[打憋气棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_bih_qi_pan.md#打憋气棒)】`da3 bih7 qi5 pan6` <small>/ta3 piʔ7 t͡ɕʰʝ5 pʰã1/<sup>如皋</sup></small> ① 因为自己心里有委曲，故意拿棍棒打小孩，借以出气。<sup>\[如东\]</sup> ② 故意责打小孩，使相关的人黄孔（脸面难下）。<sup>\[如皋\]</sup>  
+1. 【[打边心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_bin_xien.md#打边心)】`da3 bin1 xien1` <sup>[如东]</sup> 棉花生长到一定阶段，把无果或少果的边心摘除，以促进棉桃的生长，叫做打边心。  
 [更多...](./d.md)
 ## E
 1. 【[……儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh.md#……儿)】`eh` <sup>[东台]</sup> 儿缀的东台市区方言口音：茄～；小摊～；让你个子～。  
@@ -113,18 +116,22 @@
 1. 【[儿多母受苦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_du_mu_sheu.md#儿多母受苦)】`er2 du1 mu3 sheu6 kv3` <sup>[泰兴]</sup> 谓子女多，做母亲的非常辛苦。  
 1. 【[儿儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_er.md#儿儿)】`er2 er` <sup>[兴化]</sup> 孩子：这个～太调皮。｜“人生总受业风吹，三岁～，八十～。”（宋·刘辰翁《一剪梅》）  
 1. 【[儿狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_geu.md#儿狗)】`er2 geu3` <small>/ɚ2 kɤ3/<sup>兴化</sup>, /ɚ2 kei3/<sup>如皋</sup>, /ɚ2 kəɪ3/<sup>泰兴</sup></small> 公狗。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>  
-1. 【[儿花女花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_hua_ny_hua.md#儿花女花)】`er2 hua1 ny3 hua1` <sup>[兴化]</sup> 儿女：老奶奶孤寡一人，～没得一个。｜“俺衙内老爹身边，～没有，好不单径……”（《金瓶梅词话》九一）  
-1. 【[儿花女花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_hua_ny_hua.md#儿花女花)】`er2 hua1 ny3 hua1` <sup>[泰州]</sup> 男孩女孩。  
+1. 【[儿花女花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_hua_ny_hua.md#儿花女花)】`er2 hua1 ny3 hua1` <small>/ɚ2 xua1 ly3 xua1/<sup>兴化</sup></small> 儿女<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：老奶奶孤寡一人，～没得一个。<sup>\[兴化\]</sup>｜“俺衙内老爹身边，～没有，好不单径……”（《金瓶梅词话》九一）<sup>\[兴化\]</sup>  
 1. 【[儿要教，子要孝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_io_jio_zz.md#儿要教，子要孝)】`er2 io5 jio5 zz3 io5 xio5` <sup>[泰兴]</sup> 对儿女要加强教育，做子女的要孝顺。  
 1. 【[儿女亲家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_ny_qien_ga.md#儿女亲家)】`er2 ny3 qien5 ga` <sup>[如皋]</sup> 姻亲的双方家族间长辈的关系称。  
-1. 【[儿女亲家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_ny_qien_jia.md#儿女亲家)】`er2 ny3 qien5 jia` <sup>[兴化]</sup> ① 两家儿女相婚配的亲戚关系。 ② 称儿子的岳父、岳母或女儿的公公、婆婆。  
-1. 【[儿女亲家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_ny_qien_jia.md#儿女亲家)】`er2 ny3 qien5 jia` <sup>[泰州]</sup> 因子女相婚配而形成的亲戚关系。  
+1. 【[儿女亲家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_ny_qien_jia.md#儿女亲家)】`er2 ny3 qien5 jia` <small>/ɚ2 ly3 t͡ɕʰin5 t͡ɕia/<sup>兴化</sup></small> ① 两家儿女相婚配的亲戚关系。<sup>\[兴化\]</sup> ② 称儿子的岳父、岳母或女儿的公公、婆婆。<sup>\[兴化\]</sup> ③ 因子女相婚配而形成的亲戚关系。<sup>\[泰州\]</sup>  
 1. 【[儿时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_shr.md#儿时)】`er2 shr2` <sup>[如东]</sup> 少年时候。  
 1. 【[儿孙自有儿孙福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_suen_cz_ieu.md#儿孙自有儿孙福)】`er2 suen1 cz6 ieu3 er2 suen1 foh7` <sup>[泰兴]</sup> 谓子孙自有他们自己的福分，长辈不必操劳。古语有“～，莫与儿孙作马牛。”乡人云：“～，不愁没得三间屋。”  
 1. 【[儿孙自有儿孙福，莫为儿孙当牛马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_suen_cz_ieu.md#儿孙自有儿孙福，莫为儿孙当牛马)】`er2 suen1 cz6 ieu3 er2 suen1 foh7 mah8 vei6 er2 suen1 dan1 ngeu2 ma3` <sup>[东台]</sup> 要教育后代自强不息。  
 1. 【[儿孙满堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_suen_mun_tan.md#儿孙满堂)】`er2 suen1 mun3 tan2` <sup>[如东]</sup> 形容家庭人丁兴旺。  
 1. 【[儿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_zz.md#儿子)】`er2 zz` <sup>[如东]</sup> 自己的下一代男孩称儿子。亲生的，称生子；收养的，称养子；过继的，称嗣子。  
 1. 【[耳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er.md#耳)】`er3` <small>/ɚ3/<sup>泰兴</sup></small> 理睬<sup>\[泰兴\]</sup><sup>\[泰州\]</sup>：没工夫～他<sup>\[泰兴\]</sup>｜他说他的，你不要～他，他有甚的办法到你。<sup>\[泰州\]</sup>  
+1. 【[耳板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_baen.md#耳板)】`er3 baen3` <sup>[如皋]</sup> 独轮车的轴承架。  
+1. 【[耳边风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_bin_fon.md#耳边风)】`er3 bin1 fon1` ① 听人说话以后，就像风刮过去一样，并不放在心上。也称耳旁风。<sup>\[如东\]</sup> ② 听到以后并不重视的话<sup>\[泰州\]</sup>：大人说的话，这个伢儿全当～。<sup>\[泰州\]</sup>  
+1. 【[耳报神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_bo_shen.md#耳报神)】`er3 bo5 shen2` <small>/ɚ3 pɔ5 sən2/<sup>兴化</sup></small> ① （喻）暗中通风报信的人<sup>\[兴化\]</sup>：我家里有～，有点事马上传外去啊。<sup>\[兴化\]</sup> ② 暗中通风报信的人<sup>\[泰州\]</sup>：上午会上研究的事，下午外头就全晓得咖唻，不晓得是哪个～说的。<sup>\[泰州\]</sup>  
+1. 【[耳搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_daeh.md#耳搭)】`er3 daeh7` <sup>[兴化]</sup> 汉字偏旁。形状是卩（巳）一一硬～；阝（在左）、⻏（在右）一一 软～。  
+1. 【[耳搭帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_daeh_ban.md#耳搭帮)】`er3 daeh7 ban1` <sup>[如皋]</sup> ① 单耳搭：印即卸。 ② 双耳搭：邵郎郸；阶附陶。  
+1. 【[耳刀跟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_do_gen.md#耳刀跟)】`er3 do gen1` <sup>[泰州]</sup> 耳朵根部：脸红到～。  
 [更多...](./e.md)
 ## F
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh.md#□)】`faeh7` <sup>[泰县]</sup> 腐朽变质：饭～咖。  
