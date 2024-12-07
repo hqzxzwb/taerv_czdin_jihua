@@ -162,8 +162,7 @@
 [更多...](./f.md)
 ## G
 1. 【[咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga.md#咖)】`ga` <small>/kəʔ/<sup>兴化</sup>, /ka/<sup>如皋</sup>, /ka/<sup>泰兴</sup>, /kəʔ/<sup>泰县</sup></small> ① 助词，“啊”在前字收塞尾时的变体。<sup>\[兴化\]</sup>：吃～、跌～、活～。｜吃～你家的，省吖他家的<sup>\[兴化\]</sup>｜喝～二两酒<sup>\[兴化\]</sup>｜吓～一跳<sup>\[兴化\]</sup> ② 表疑问语气\[兴化：ga6\]：这块布几尺～？；电脑哿难学～？<sup>\[兴化\]</sup> ③ 表感叹语气\[兴化：ga6\]：这种闷酒不能喝～。<sup>\[兴化\]</sup>  
-1. 【[咖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_zz.md#咖子)】`ga zz` 同“下子”，跟在入声韵之后：踢～。｜歇～。  
-1. 【[咖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_zz.md#咖子)】`ga zz` <sup>[泰州]</sup> 跟在入声动词之后，表示做一次：弄点鱼吃～。｜同他说～。  
+1. 【[咖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_zz.md#咖子)】`ga zz` <small>/kəʔ t͡sɿ/<sup>兴化</sup>, /ka t͡sɿ/<sup>如皋</sup>, /ka t͡sɿ/<sup>泰兴</sup>, /kəʔ t͡se/<sup>泰县</sup></small> 同“下子”，跟在入声韵之后<sup>\[泰州\]</sup>：踢～。｜歇～。｜弄点鱼吃～。<sup>\[泰州\]</sup>｜同他说～。<sup>\[泰州\]</sup>  
 1. 【[……家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga.md#……家)】`ga` <sup>[东台]</sup> ① 这里“家”轻读。接在姓氏后，加上地方特点命名地名：王～舍；孔～堡。 ② 接在某姓后面，相当于姓……的：张～；李～；王～佬。 ③ 亲昵地呼唤小孩：来啊～；到我家多住几天，可好？～。  
 1. 【[加大帽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_da_mo_zz.md#加大帽子)】`ga1 da6 mo6 zz` <sup>[如东]</sup> ① 给人随便地添加某种罪名：请你不要匄我～。 ② 说好话：你不要匄我～。  
 1. 【[加褂<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_gua_r.md#加褂<sub>儿</sub>)】`ga1 gua5 r` <sup>[如皋]</sup> 穿在外面的衣裳。  
@@ -173,8 +172,7 @@
 1. 【[加肢加眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_zhr_ga_ngaen.md#加肢加眼)】`ga1 zhr1 ga1 ngaen3` <sup>[如东]</sup> ① 无理地增加要求和条件：这个人总是～的。 ② 说话粗鲁，不讲道理：请你不要～的。  
 1. 【[家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga.md#家)】`ga1` <small>/ka1/<sup>兴化</sup>, /ka1/<sup>如皋</sup></small> ① 居住的房屋。<sup>\[如东\]</sup> ② 与“野”相对，即驯化了、培植出的<sup>\[如皋\]</sup>：～鸡、～狗、～苋菜。<sup>\[如皋\]</sup> ③ 家养的<sup>\[如皋\]</sup>：“～鸡打得团团转，野鸡打得满天飞。”飞得来的鸟儿养吖～啊。<sup>\[如皋\]</sup> ④ 家庭<sup>\[如皋\]</sup>：我～、～里。<sup>\[如皋\]</sup> ⑤ 内部的<sup>\[如皋\]</sup>：～里人、～里事、～鬼。<sup>\[如皋\]</sup> ⑥ 用于称谓名词后表人的品位。男将～、女将～、伢儿～、姑娘～。<sup>\[如皋\]</sup> ⑦ 动物经饲养己驯服<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：小狗小猫养～啊！<sup>\[兴化\]</sup>｜这个野鸽子养吖几年才养吖～啊。<sup>\[泰州\]</sup> ⑧ 抱养小孩经过抚养而对养父母产生深厚感情<sup>\[泰州\]</sup>：人家都说抱的儿子养不～，才不是唻。<sup>\[泰州\]</sup>  
 1. 【[家啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_a.md#家啊)】`ga1 a` <sup>[如东]</sup> 自己培养的牲畜，性情驯顺，认识自己了，称家啊。  
-1. 【[家边邻居](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_bin_lien_jy.md#家边邻居)】`ga1 bin1 lien2 jy1` <small>/ka1 piɪ̃1 liɪ̃2 t͡ɕy1/<sup>兴化</sup></small> ① 指近邻。也说“邻居家边”。<sup>\[兴化\]</sup> ② 与自己家庭相近的住户。（原文作“家毗”，音不合）<sup>\[如东\]</sup>：我俫是～，应该互相照顾。<sup>\[如东\]</sup>  
-1. 【[家边邻居](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_bin_lien_jy.md#家边邻居)】`ga1 bin1 lien2 jy1` <sup>[泰州]</sup> 家附近邻居：大家～的，有话好好说，不要骂人。  
+1. 【[家边邻居](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_bin_lien_jy.md#家边邻居)】`ga1 bin1 lien2 jy1` <small>/ka1 piɪ̃1 liɪ̃2 t͡ɕy1/<sup>兴化</sup></small> ① 指近邻。也说“邻居家边”。<sup>\[兴化\]</sup> ② 与自己家庭相近的住户。（原文作“家毗”，音不合）<sup>\[如东\]</sup>：我俫是～，应该互相照顾。<sup>\[如东\]</sup> ③ 家附近邻居<sup>\[泰州\]</sup>：大家～的，有话好好说，不要骂人。<sup>\[泰州\]</sup>  
 1. 【[家边邻舍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_bin_lien_sha.md#家边邻舍)】`ga1 bin1 lien2 sha5` <sup>[如东]</sup> 与自己家庭相近的住户。（原文作“家毗”，音不合）：我俫是～，何必计较。  
 1. 【[家贼难防](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_ceh_naen_fan.md#家贼难防)】`ga1 ceh8 naen2 fan2` <sup>[泰州]</sup> 隐藏在内部的坏人极难防范：哪个想得到是他说出去的，真是～。  
 1. 【[家贼难防狗不咬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_ceh_naen_fan.md#家贼难防狗不咬)】`ga1 ceh8 naen2 fan2 geu3 beh7 ngo3` <sup>[东台]</sup> 内部的坏人更难排查。  
@@ -184,6 +182,11 @@
 1. 【[家家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_ga.md#家家)】`ga1 ga1` <sup>[兴化]</sup> 儿童语，回家：宝宝～。  
 1. 【[家家茶<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_ga_cha_r.md#家家茶<sub>儿</sub>)】`ga1 ga1 cha2 r` <sup>[兴化]</sup> 小孩游戏，即“办家家”“过家家”。  
 1. 【[家家门口有滑石](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_ga_men_keu_ieu_huaeh_sheh.md#家家门口有滑石)】`ga1 ga1 men2 keu3 ieu3 huaeh8 sheh8` <sup>[东台]</sup> 谁都可能遇到不测风云，任何时候都要谦虚谨慎。  
+1. 【[家家<sub>儿</sub>路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_ga_r_lv.md#家家<sub>儿</sub>路)】`ga1 ga1 r lv6` <sup>[如皋]</sup> 很熟悉的路。  
+1. 【[家家人家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_ga_ren_ga.md#家家人家)】`ga1 ga1 ren2 ga` <sup>[如皋]</sup> 家家户户。  
+1. 【[家家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_ga.md#家家)】`ga1 ga2` <sup>[泰州]</sup> 儿语，回家，大人对幼儿使用。  
+1. 【[家伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_hu.md#家伙)】`ga1 hu` <small>/ka1 xo/<sup>兴化</sup>, /ka1 xo/<sup>泰县</sup></small> ① 容器<sup>\[东台\]</sup><sup>\[泰州\]</sup>：你去拿个～来把这地下的山芋弄家去。<sup>\[泰州\]</sup> ② 特指马桶<sup>\[东台\]</sup>：上茅缸倒～。<sup>\[东台\]</sup> ③ 机械零部件<sup>\[兴化\]</sup>：汽车坏～，在半路上修不起来。<sup>\[兴化\]</sup> ④ 工具、器皿等<sup>\[泰县\]</sup><sup>\[泰州\]</sup>：明朝到张家去做活计，你把～都带好。<sup>\[泰县\]</sup>｜木匠的～不是瓦匠的～，你不能瞎动他的。<sup>\[泰州\]</sup> ⑤ 兵器<sup>\[泰州\]</sup><sup>\[东台\]</sup>：这几个人身上都带啊～，你远吖点儿。<sup>\[泰州\]</sup>｜～厉害<sup>\[东台\]</sup>  
+1. 【[家伙三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_hu_saen.md#家伙三)】`ga1 hu saen1` <small>/ka1 xo sɛ̃1/<sup>兴化</sup>, /ka1 xʊ sẽ1/<sup>如皋</sup></small> ① 俗指本领、能力、手段<sup>\[如皋\]</sup>：他有点儿一～；你就这们点儿～？<sup>\[如皋\]</sup> ② （借）手段<sup>\[兴化\]</sup>：这个人表面上客气，骨里～厉害㖸！<sup>\[兴化\]</sup>  
 [更多...](./g.md)
 ## H
 1. 【[哈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha.md#哈)】`ha1` <sup>[兴化]</sup> 油脂或含油过多的食品如猪油、咸肉等因日久变质，产生臭、辣味。  
