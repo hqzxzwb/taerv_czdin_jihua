@@ -3,8 +3,7 @@
 ## A
 1. 【[啊/吖/咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/a.md#啊/吖/咖)】`a, nga, ga` <small>/əʔ/<sup>兴化</sup>, /a/<sup>如皋</sup>, /a/<sup>泰兴</sup>, /əʔ/<sup>泰县</sup></small> ① 相当或部分相当于助词“了”：打啊油，买啊菜，找啊两块钱。 ② 相当于助词“着”：捧吖猪头没庙送。 ③ 相当或部分相当于介词“在”：站吖门口；放吖心上。 ④ 相当或部分相当于趋向动词“到”：放吖桌上去；站吖桥上来。 ⑤ 相当于助词“得”的部分功能：忙吖昏吖；疼吖睡不着。 ⑥ 表示感叹：多好啊；多香吖。 ⑦ 根据前字韵母不同而有不同发音，阴声韵后为“啊a”，阳声韵后为“吖nga”，入声韵后为“咖ga”。在表示❶到❺含义时，部分地区发音促化。  
 1. 【[啊哇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/a_va.md#啊哇)】`a va1` <sup>[兴化]</sup> 相当于语气词“了”“啦”：他走～。｜饭烧好～。  
-1. 【[啊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/a_zz.md#啊子)】`a zz` 相当于“下子”，接在阴声韵之后：试～；来～；请你出来～。  
-1. 【[啊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/a_zz.md#啊子)】`a zz` <sup>[泰州]</sup> 跟在舒声动词后，表示做一次：你笑～。｜你去～就行。  
+1. 【[啊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/a_zz.md#啊子)】`a zz` <small>/əʔ t͡sɿ/<sup>兴化</sup>, /a t͡sɿ/<sup>如皋</sup>, /a t͡sɿ/<sup>泰兴</sup>, /əʔ t͡se/<sup>泰县</sup></small> 相当于“下子”，接在阴声韵之后。<sup>\[泰州\]</sup><sup>\[泰兴\]</sup><sup>\[东台\]</sup>：试～；来～；请你出来～。｜你笑～。<sup>\[泰州\]</sup>｜你去～就行。<sup>\[泰州\]</sup>  
 1. 【[也](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/a.md#也)】`a3` <sup>[东台]</sup> “也ia3”的口语音。副词。表示同样、转折、让步等。  
 1. 【[嗳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/ae.md#嗳)】`ae1` <sup>[如皋]</sup> 叹词。轻呼声。  
 1. 【[嗳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/ae.md#嗳)】`ae2` <sup>[如皋]</sup> 叹词。警示声。  
@@ -15,8 +14,7 @@
 1. 【[阿曾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/ah_cen.md#阿曾)】`ah7 cen2` <sup>[泰州]</sup> 泰州方言，有没有，表示询问：东西你～送吖去唻？｜你～买股票啊？｜他～调家来啊？  
 1. 【[阿好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/ah_ho.md#阿好)】`ah7 ho3` <sup>[泰州]</sup> ① 泰州方言。 ② 好不好，行不行，表示征询：你晚上带伢儿去看电影，～？ ③ 能不能，表示征询：你～带伢儿一起上南京去啊？  
 1. 【[阿有](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/ah_ieu.md#阿有)】`ah7 ieu3` <sup>[泰州]</sup> 有没有，表示疑问：你晚上～工夫来吃酒？｜你～有钱买房子？  
-1. 【[阿猫阿狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/ah_mo_ah_geu.md#阿猫阿狗)】`ah7 mo2 ah7 geu3` <sup>[兴化]</sup> 泛指某些人（含轻蔑意）：“这地方叫上海滩，我们这些～也能当老爷了。”（毕飞宇《上海往事》）｜“这问信的倒也奇怪，～有称呼，怎么一个‘哙’字当称呼？”（《四杰传》三）  
-1. 【[阿猫阿狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/ah_mo_ah_geu.md#阿猫阿狗)】`ah7 mo2 ah7 geu3` <sup>[泰州]</sup> ① 比喻随便起的名字：老百姓的伢儿，七个名字哪块有这些讲究，只要意思好，喊起来顺口，～都行。 ② 泛指不值得重视的人，带贬义：晚上你家儿子请他的些～吃饭，你多弄点儿菜，小伙头子都能吃。  
+1. 【[阿猫阿狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/ah_mo_ah_geu.md#阿猫阿狗)】`ah7 mo2 ah7 geu3` <small>/aʔ7 mɔ2 aʔ7 kɤ3/<sup>兴化</sup></small> ① 泛指某些人（含轻蔑意）<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：“这地方叫上海滩，我们这些～也能当老爷了。”（毕飞宇《上海往事》）<sup>\[兴化\]</sup>｜“这问信的倒也奇怪，～有称呼，怎么一个‘哙’字当称呼？”（《四杰传》三）<sup>\[兴化\]</sup>｜晚上你家儿子请他的些～吃饭，你多弄点儿菜，小伙头子都能吃。<sup>\[泰州\]</sup> ② 比喻随便起的名字<sup>\[泰州\]</sup>：老百姓的伢儿，七个名字哪块有这些讲究，只要意思好，喊起来顺口，～都行。<sup>\[泰州\]</sup>  
 1. 【[阿是](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/ah_shr.md#阿是)】`ah7 shr6` <sup>[泰州]</sup> 是不是：他～你家老大啊？｜东西～你拿的啊？  
 1. 【[咉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/an.md#咉)】`an` <sup>[如皋]</sup> 以声调不同表示应答、疑问、提醒等。  
 1. 【[咉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/an.md#咉)】`an1` <sup>[泰州]</sup> ① 应答声。 ② 一直说不满的话：单位上年终奖发咖晏吖几天，一个个的就～吖不得命。｜你不要再～唻，你家爸爸答应同你买房子唻。  
@@ -31,21 +29,22 @@
 1. 【[巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba.md#巴)】`ba1` <small>/pa1/<sup>兴化</sup>, /pa1/<sup>如皋</sup></small> ① 由倒着的姿势坐起来（站起来），爬起 ② 关心、记挂<sup>\[如皋\]</sup>：～家。<sup>\[如皋\]</sup> ③ 盼望<sup>\[东台\]</sup>：我～你来，～啊好长时间<sup>\[东台\]</sup>｜（童谣）巴啊巴，巴到三十夜，豆腐吃吃肉𠞊𠞊。<sup>\[东台\]</sup> ④ 抓住，把着。引申为刨、剥、拨、攀登等意<sup>\[东台\]</sup>：年纪大啊～到六楼吃力煞咖。<sup>\[东台\]</sup> ⑤ 盼<sup>\[兴化\]</sup>：一进腊月，细伢儿天天～过年。<sup>\[兴化\]</sup> ⑥ 接近<sup>\[兴化\]</sup>：“……来到这里，前不～店，后不～村，欲投贵庄借宿一宵……。”（《水浒传》二）<sup>\[兴化\]</sup> ⑦ 急切期盼<sup>\[泰州\]</sup>：老李～啊多少年才～啊个孙子。<sup>\[泰州\]</sup> ⑧ 以手攀附紧贴高处物体之上<sup>\[泰州\]</sup>：死下来，你～啊在人身上，人哿吃得消啊。<sup>\[泰州\]</sup>  
 1. 【[巴巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ba.md#巴巴)】`ba1 ba1` <sup>[东台]</sup> 用在形容词后，表示程度深：干～；凶～。  
 1. 【[巴巴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ba_dii.md#巴巴的)】`ba1 ba1 dii` <sup>[兴化]</sup> 急切：“……可怜我那母亲还～在家望我回去呢！”（《广陵潮》四二）  
-1. 【[巴巴锔锔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ba_jioh_jioh.md#巴巴锔锔)】`ba1 ba1 jioh7 jioh7` <sup>[东台]</sup> 原指瓷器锔了很多铜钉，形容器物陈旧，破损严重。  
 1. 【[巴巴<sub>儿</sub>菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ba_r_cae.md#巴巴<sub>儿</sub>菜)】`ba1 ba1 r cae5` <sup>[如皋]</sup> ① 冬天青菜的一种，长平不长高。 ② 见“塌棵子菜”。  
 1. 【[巴巴掌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ba_zhan.md#巴巴掌)】`ba1 ba1 zhan` <sup>[如皋]</sup> 儿歌名。见“打～”。  
 1. 【[巴不得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_beh_deh.md#巴不得)】`ba1 beh7 deh7` <sup>[泰州]</sup> 急切盼望做成某事：他～你调啊走，少个竞争对手多好。  
-1. 【[巴不到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_beh_do.md#巴不到)】`ba1 beh7 do5` <small>/pa1 pəʔ7 tɔ5/<sup>兴化</sup>, /pɑ1 pəʔ7 tɔ5/<sup>泰兴</sup>, /pa1 pəʔ7 tɔ5/<sup>泰县</sup></small> 巴不得，求之不得，迫切、希望<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup>\[泰兴：（又ba1 beh7 do3）\]\[东台：（又ba1 beh7 do3）\]：傅景在马上四面偷瞧，～有个美色女子好奉承。（《八窍珠》一）<sup>\[兴化\]</sup>  
-1. 【[巴不到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_beh_do.md#巴不到)】`ba1 beh7 do5` <sup>[泰州]</sup> 急切盼望做成某事：我～他过得比我好才好。  
+1. 【[巴不到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_beh_do.md#巴不到)】`ba1 beh7 do5` <small>/pa1 pəʔ7 tɔ5/<sup>兴化</sup>, /pɑ1 pəʔ7 tɔ5/<sup>泰兴</sup>, /pa1 pəʔ7 tɔ5/<sup>泰县</sup></small> ① 巴不得，求之不得，迫切、希望<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup>\[泰兴：（又ba1 beh7 do3）\]\[东台：（又ba1 beh7 do3）\]：傅景在马上四面偷瞧，～有个美色女子好奉承。（《八窍珠》一）<sup>\[兴化\]</sup> ② 急切盼望做成某事<sup>\[泰州\]</sup>：我～他过得比我好才好。<sup>\[泰州\]</sup>  
 1. 【[巴成](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_chen.md#巴成)】`ba1 chen` <sup>[如皋]</sup> 期望有成：有～、没～。  
 1. 【[巴家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ga.md#巴家)】`ba1 ga1` <small>/pa1 ka1/<sup>兴化</sup></small> ① 一心为自己家庭着想。<sup>\[如东\]</sup> ② 顾家。<sup>\[兴化\]</sup> ③ 善于管家、理财<sup>\[兴化\]</sup>：店虽小，但王小三老实～……（扬说《崇月娥杭州当珠》）<sup>\[兴化\]</sup>  
-1. 【[巴根草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_gen_co.md#巴根草)】`ba1 gen1 co3` <sup>[兴化]</sup> 一种贴着地皮生长，根根相连的草，可用来培育草坪。  
-1. 【[巴根草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_gen_co.md#巴根草)】`ba1 gen1 co3` <sup>[泰州]</sup> 本地产的一种野草，茎部有节，节部生根，盘根错节，紧贴地面，耐涝耐旱，具有极强的生命力，是护坡、护堤的优良草种。  
+1. 【[巴根草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_gen_co.md#巴根草)】`ba1 gen1 co3` <small>/pa1 kən1 t͡sʰɔ3/<sup>兴化</sup></small> ① 一种贴着地皮生长，根根相连的草，可用来培育草坪。<sup>\[兴化\]</sup> ② 本地产的一种野草，茎部有节，节部生根，盘根错节，紧贴地面，耐涝耐旱，具有极强的生命力，是护坡、护堤的优良草种。<sup>\[泰州\]</sup>  
 1. 【[巴沟<sub>儿</sub>草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_geu_r_co.md#巴沟<sub>儿</sub>草)】`ba1 geu1 r co3` <sup>[如皋]</sup> 见“乌蓲”。  
 1. 【[巴锅不熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_gu_beh_shoh.md#巴锅不熟)】`ba1 gu1 beh7 shoh8` <sup>[兴化]</sup> ① 不等饭菜煮熟就急着要吃。 ② （喻）形容人性急，不待时机成熟就行事：这个人～，才跟她认得就要订婚。  
 1. 【[巴锅恋灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_gu_lin_zo.md#巴锅恋灶)】`ba1 gu1 lin6 zo5` <sup>[兴化]</sup> 形容人嘴馋，喜欢看着人烹饪，或到厨房找吃的。  
 1. 【[巴棍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_guen.md#巴棍)】`ba1 guen5` <sup>[兴化]</sup> 旧时作刑具的种短木棍：谚曰：吃双粮，打～。  
 1. 【[巴衣草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_i_co.md#巴衣草)】`ba1 i1 co3` <sup>[如皋]</sup> 狗牙根。  
+1. 【[巴结](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_jih.md#巴结)】`ba1 jih` <sup>[兴化]</sup> 形容努力、勤奋：“你父亲就是你一个儿子，既然叫你读了书，自然望你～上进……”（《官场现形记》一）  
+1. 【[巴结](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_jih.md#巴结)】`ba1 jih7` <sup>[如东]</sup> ① 讨好：～领导。 ② 勉强：～够数。 ③ 老实勤快：这个人蛮～。  
+1. 【[巴交](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_jio.md#巴交)】`ba1 jio1` <sup>[如皋]</sup> ① 巴结。 ② 尾缀：老实～。  
+1. 【[巴络子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_lah_zz.md#巴络子)】`ba1 lah8 zz` <sup>[如东]</sup> 一种建筑材料。用芦苇穿在绳索中，编成网络，罩在茅屋屋面上，固定茅草。这种材料叫做巴络子。  
 [更多...](./b.md)
 ## C
 1. 【[猜猜猜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_cae_cae_r.md#猜猜猜<sub>儿</sub>)】`cae1 cae1 cae1 r` <sup>[如皋]</sup> 猜谜语  
