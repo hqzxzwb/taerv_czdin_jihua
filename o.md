@@ -36,8 +36,7 @@
 1. 【[横吖膀子㨟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_nga_ban_zz_gae.md#横吖膀子㨟)】`on2 nga ban3 zz gae1` <sup>[泰县]</sup> 随心所欲：这个人在单位上～。  
 1. 【[横吖心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_nga_xien.md#横吖心)】`on2 nga xien1` <sup>[如东]</sup> 下了狠心：他～，一定要这吖做。  
 1. 【[横横毌毌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_on_kuaeh_kuaeh.md#横横毌毌)】`on2 on2 kuaeh8 kuaeh8` <sup>[如皋]</sup> 勾连阻碍：扛毛竹走路～的。  
-1. 【[横七竖八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_qieh_shv_baeh.md#横七竖八)】`on2 qieh7 shv6 baeh7` ① 次序混乱。<sup>\[如东\]</sup>：竹竿～的摆啊下，不好看。<sup>\[如东\]</sup> ② 形容杂乱无章。<sup>\[东台\]</sup> ③ ［引］态度蛮横，不上规矩<sup>\[东台\]</sup>：那人再～的，哪个睬他？<sup>\[东台\]</sup>  
-1. 【[横七竖八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_qieh_shv_baeh.md#横七竖八)】`on2 qieh7 shv6 baeh7` <sup>[泰州]</sup> 杂乱无章样子：他家天井里满地都是横七竖八的竹子。  
+1. 【[横七竖八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_qieh_shv_baeh.md#横七竖八)】`on2 qieh7 shv6 baeh7` ① 次序混乱。<sup>\[如东\]</sup>：竹竿～的摆啊下，不好看。<sup>\[如东\]</sup> ② 杂乱无章。<sup>\[东台\]</sup><sup>\[泰州\]</sup>：他家天井里满地都是～的竹子。<sup>\[泰州\]</sup> ③ ［引］态度蛮横，不上规矩<sup>\[东台\]</sup>：那人再～的，哪个睬他？<sup>\[东台\]</sup>  
 1. 【[横吃萝卜竖吃姜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_qieh_lu_poh_shv_qieh_jian.md#横吃萝卜竖吃姜)】`on2 qieh7 lu2 poh shv6 qieh7 jian1` <sup>[东台]</sup> 形容依疯作邪，不上规矩。  
 1. 【[横肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_roh.md#横肉)】`on2 roh8` <sup>[东台]</sup> 脸上的给人感觉十分凶恶的肌肉：胡传魁一脸～。  
 1. 【[横生倒养](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_shen_do_ian.md#横生倒养)】`on2 shen1 do5 ian3` <sup>[泰县]</sup> （禁忌语）不能生育：这个人家～，是个绝后代。  

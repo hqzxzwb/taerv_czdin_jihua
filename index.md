@@ -363,11 +363,9 @@
 1. 【[拿不出手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_beh_chueh_sheu.md#拿不出手)】`na2 beh7 chueh7 sheu3` <sup>[兴化]</sup> 因付出太少，感到面子上难堪：新姑爷上门，这点见面礼怕～。  
 1. 【[拿不他下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_beh_ta_xia.md#拿不他下)】`na2 beh7 ta1 xia6` <sup>[如皋]</sup> 不能压住他的气势，不能使他屈服。此为宋、元白话语之一。又作“拿他不下”。  
 1. 【[拿不掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_beh_tio.md#拿不掉)】`na2 beh7 tio6` <sup>[如皋]</sup> 詈语。阴司来捉拿也捉不到，比喻此人十分厉害。  
-1. 【[拿不稳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_beh_ven.md#拿不稳)】`na2 beh7 ven3` <sup>[兴化]</sup> 吃不准、没有把握：他心里怎吖想，我到现在～。  
-1. 【[拿不稳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_beh_ven.md#拿不稳)】`na2 beh7 ven3` <sup>[泰州]</sup> 没有足够把握：这件事要是～，怎吖敢同你说大话。  
+1. 【[拿不稳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_beh_ven.md#拿不稳)】`na2 beh7 ven3` <small>/la2 pəʔ7 uən3/<sup>兴化</sup></small> 吃不准、没有把握<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：他心里怎吖想，我到现在～。<sup>\[兴化\]</sup>｜这件事要是～，怎吖敢同你说大话。<sup>\[泰州\]</sup>  
 1. 【[拿不准](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_beh_zhuen.md#拿不准)】`na2 beh7 zhuen3` <small>/na2 pəʔ7 t͡suəŋ3/<sup>如皋</sup></small> ① 掌握、判断不准确，难下结论。<sup>\[如皋\]</sup> ② 把握不定。<sup>\[如东\]</sup>：这个问题我～。<sup>\[如东\]</sup>  
-1. 【[拿宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_bo_r.md#拿宝<sub>儿</sub>)】`na2 bo3 r` <small>/la2 pɔ3 ɚ/<sup>兴化</sup>, /na2 pɔ˞3/<sup>如皋</sup>, /na2 pɔ3 ɚ/<sup>泰县</sup></small> ① 詈语，咒骂小孩早死。<sup>\[如皋\]</sup>\[兴化：同“拿宝子”。\]\[东台：现在也常常是年长者对孩子的昵称。也作“拿小”“拿宝小”。\] ② （禁忌语）抱卵的<sup>\[泰县\]</sup>：你个～，不听话。<sup>\[泰县\]</sup>  
-1. 【[拿宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_bo_r.md#拿宝<sub>儿</sub>)】`na2 bo3 r` <sup>[泰州]</sup> ① 对青少年男性带有些许詈义的称呼：这个～嫌烦，家里大人把他容吖不上相。｜这个～不是个正神，同人家姑娘家嘴里不干不净的。 ② 某些语境下，对青少年男性的昵称。  
+1. 【[拿宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_bo_r.md#拿宝<sub>儿</sub>)】`na2 bo3 r` <small>/la2 pɔ3 ɚ/<sup>兴化</sup>, /na2 pɔ˞3/<sup>如皋</sup>, /na2 pɔ3 ɚ/<sup>泰县</sup></small> ① 詈语，咒骂小孩早死。<sup>\[如皋\]</sup>\[兴化：同“拿宝子”。\]\[东台：现在也常常是年长者对孩子的昵称。也作“拿小”“拿宝小”。\]\[泰县：（泰县方言志释义“抱卵的”，疑似讹错）\]：你个～，不听话。<sup>\[泰县\]</sup> ② 对青少年男性带有些许詈义的称呼<sup>\[泰州\]</sup>：这个～嫌烦，家里大人把他容吖不上相。<sup>\[泰州\]</sup>｜这个～不是个正神，同人家姑娘家嘴里不干不净的。<sup>\[泰州\]</sup> ③ 某些语境下，对青少年男性的昵称。<sup>\[泰州\]</sup>  
 1. 【[拿宝小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_bo_xio.md#拿宝小)】`na2 bo3 xio3` <sup>[泰州]</sup> 被鬼捉拿去的孩子。对青少年男性有詈义的称呼，用于长辈詈骂小孩：这个～闯吖这吖大的祸，你怎吖就不早点死掉的唦。｜～这回子考试又是不及格。  
 1. 【[拿宝子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_bo_zz.md#拿宝子)】`na2 bo3 zz` <sup>[兴化]</sup> 收埋死孩尸骸谓“拿”，这是骂人的话，意为“早死的”。又谓“拿宝儿”。  
 1. 【[拿住咖老爷不当官](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_chuh_ga_lo_i_beh_dan_gun.md#拿住咖老爷不当官)】`na2 chuh7 ga lo3 i beh7 dan5 gun1` <sup>[如皋]</sup> 因不明对方身份而有所轻慢。  
@@ -379,6 +377,9 @@
 1. 【[拿得稳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_deh_ven.md#拿得稳)】`na2 deh ven3` <sup>[兴化]</sup> 看得准，有把握：只要你开口，～老板会同意。｜王洪～武松要把脸掉过去看看孔雀呀。（《武松》六）  
 1. 【[拿得出手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_deh_chueh_sheu.md#拿得出手)】`na2 deh7 chueh7 sheu3` <sup>[如皋]</sup> 质量或数量够标准，能拿出来见人、给人、公布。  
 1. 【[拿得住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_deh_chv.md#拿得住)】`na2 deh7 chv6` <sup>[东台]</sup> ［引］有能力控制局面。  
+1. 【[拿得起放得下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_deh_qi_fan_deh_ha.md#拿得起放得下)】`na2 deh7 qi3 fan5 deh7 ha6` <sup>[东台]</sup> 敢于担当，措施有效，而且管理方式超脱。  
+1. 【[拿得稳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_deh_ven.md#拿得稳)】`na2 deh7 ven3` <sup>[泰州]</sup> 有足够把握。  
+1. 【[拿架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_ga_zz.md#拿架子)】`na2 ga5 zz` <sup>[如东]</sup> ① 摆架子。 ② 提出苛刻条件：不要～。  
 [更多...](./n.md)
 ## O
 1. 【[噢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/o.md#噢)】`o, ngo, go` <sup>[泰兴]</sup> 助词。表示催促。读音因前字韵尾而不同：快点走～（o）。  
