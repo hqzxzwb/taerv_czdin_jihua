@@ -385,7 +385,7 @@
 1. 【[日消货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_xio_hu.md#日消货)】`rih8 xio hu5` <sup>[兴化]</sup> 每天都要消费的商品：米面油盐是～，每天少不了。  
 1. 【[日朝日晚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_zho_rih_vaen.md#日朝日晚)】`rih8 zho rih8 vaen3` <sup>[兴化]</sup> 早早晚晚：她过门不多时，就～的吵啊要分家。  
 1. 【[日中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_zhon.md#日中)】`rih8 zhon1` <small>/iʔ8 t͡sɔŋ1/<sup>泰兴</sup></small> ① 中午 ② 中午<sup>\[东台\]</sup><sup>\[泰兴\]</sup>：早烧清明晚烧冬，七月半的亡人等不到小～。<sup>\[东台\]</sup>｜你到～时候来。<sup>\[泰兴\]</sup> ③ 午饭<sup>\[泰兴\]</sup>：快，家去吃～<sup>\[泰兴\]</sup>  
-1. 【[日中脚下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_zhon_jiah_ga.md#日中脚下)】`rih8 zhon1 jiah7 ga` <small>/iʔ8 t͡sɔŋ1 t͡ɕiɑʔ7 kɑ/<sup>泰兴</sup></small> 中午时分<sup>\[泰兴\]</sup>  
+1. 【[日中脚下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_zhon_jiah_ga.md#日中脚下)】`rih8 zhon1 jiah7 ha-ga` <small>/iʔ8 t͡sɔŋ1 t͡ɕiɑʔ7 xɑ/<sup>泰兴</sup></small> 中午时分<sup>\[泰兴\]</sup>  
 1. 【[日子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_zz.md#日子)】`rih8 zz` ① 比喻生活。<sup>\[如东\]</sup>：过～。<sup>\[如东\]</sup> ② 生活或者生计<sup>\[泰州\]</sup>：他俫两口子的小～过得蛮好。<sup>\[泰州\]</sup>  
 1. 【[热潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_cho.md#热潮)】`rih8 cho` <sup>[泰县]</sup> 热闹：节日的时候街上～。  
 1. 【[热炒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_cho.md#热炒)】`rih8 cho3` <sup>[如皋]</sup> 现炒的菜。旧称热盘。  

@@ -1664,8 +1664,8 @@
 1. 【[绝收](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_sheu.md#绝收)】`qiuh8 sheu1` <sup>[东台]</sup> 完全没有收成。  
 1. 【[绝寿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_sheu.md#绝寿)】`qiuh8 sheu6` <sup>[兴化]</sup> 骂人因作恶而减去寿算。也说“绝阳寿”。  
 1. 【[绝事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_shr.md#绝事)】`qiuh8 shr6` 看似善意，实则捉弄人的事<sup>\[泰州\]</sup>：这种～你不能做，以后要捱人家骂的。<sup>\[泰州\]</sup>｜大家都是朋友，你做～搝人，没得意思。<sup>\[泰州\]</sup>  
-1. 【[绝㞞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_son.md#绝㞞)】`qiuh8 son2` 狡诈的男人，詈语<sup>\[泰州\]</sup>：他这个～的话一句都不能听。<sup>\[泰州\]</sup>  
 1. 【[绝𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_son.md#绝𪨊)】`qiuh8 son2` <sup>[泰县]</sup> （禁忌语）缺德的人。  
+1. 【[绝𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_son.md#绝𪨊)】`qiuh8 son2` 狡诈的男人，詈语<sup>\[泰州\]</sup>：他这个～的话一句都不能听。<sup>\[泰州\]</sup>  
 1. 【[绝头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_teu_r.md#绝头<sub>儿</sub>)】`qiuh8 teu2 r` <small>/t͡ɕʰyʊʔ8 tʰei˞2/<sup>如皋</sup></small> ① 促狭的人。<sup>\[如皋\]</sup> ② 指惯用刁钻主意使别人上当吃亏的人。<sup>\[如皋\]</sup>  
 1. 【[绝头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_teu_zz.md#绝头子)】`qiuh8 teu2 zz` <sup>[兴化]</sup> 骂刁钻、损人者的话：这个～，一天不搝人就难过。  
 1. 【[绝地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_ti.md#绝地)】`qiuh8 ti6` <sup>[兴化]</sup> 指环境险恶或人色极坏的地方：这种～，下次再也不敢来啊。  

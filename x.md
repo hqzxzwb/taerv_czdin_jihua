@@ -1272,8 +1272,6 @@
 1. 【[现形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_xien.md#现形)】`xin6 xien2` <small>/ɕĩ1 ɕiəŋ2/<sup>如皋</sup></small> ① 卖弄、出风头：你有啊新耍货儿就在家里耍耍吧，又要去～，捱人家弄吖坏啊又要淘气！<sup>\[如皋\]</sup> ② 显露原形。<sup>\[东台\]</sup>  
 1. 【[现折子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_zhih_zz.md#现折子)】`xin6 zhih7 zz` <sup>[如皋]</sup> 初见时给的见面礼金。  
 1. 【[枵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio.md#枵)】`xio1` <sup>[东台]</sup> 空虚：～腹｜～肠。  
-1. 【[浇嘴薄舌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_jy_pah_shih.md#浇嘴薄舌)】`xio1 jy3 pah8 shih8` <sup>[泰州]</sup> 泛指能说会道：这瘟丫头～的，你跑哪许说得过她啊。  
-1. 【[浇薄薄<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_pah_pah_r.md#浇薄薄<sub>儿</sub>)】`xio1 pah8 pah8 r` <sup>[泰州]</sup> 非常薄的样子：这本～的书要不了一个钟头子，他就看吖好啊唻。｜天这吖冷，盖～的被单人吃不消。  
 1. 【[消愁解闷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cheu_gae_men.md#消愁解闷)】`xio1 cheu2 gae3 men6` <sup>[兴化]</sup> 通过游玩或做一些事情来消解忧愁和烦恼：他刚退休，非常无聊，每天看看报纸，下下棋～。  
 1. 【[消防车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_fan_cha.md#消防车)】`xio1 fan2 cha1` <sup>[如东]</sup> 一种灭火车。车身上装着巨大的水箱和水带、水笼头等设施，用于灭火。  
 1. 【[消供](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_gon.md#消供)】`xio1 gon5` <sup>[如皋]</sup> 了结：前头惹的祸还不曾～，后头告状的人又上吖门。  
@@ -1308,11 +1306,13 @@
 1. 【[𣻏泛泛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_faen_faen.md#𣻏泛泛)】`xio1 faen5 faen5` <sup>[兴化]</sup> 形容东西很薄：这米饼儿～的，一口一个没话说。  
 1. 【[𣻏寡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_gua.md#𣻏寡)】`xio1 gua3` <sup>[如皋]</sup> ① 喻处世刻薄。 ② 指粥或汤液中既薄且无其他内容。  
 1. 【[𣻏嘴薄舌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_jy_pah_shih.md#𣻏嘴薄舌)】`xio1 jy3 pah8 shih8` <sup>[东台]</sup> 形容能说会道，会耍嘴皮  
+1. 【[𣻏嘴薄舌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_jy_pah_shih.md#𣻏嘴薄舌)】`xio1 jy3 pah8 shih8` <sup>[泰州]</sup> 泛指能说会道：这瘟丫头～的，你跑哪许说得过她啊。  
 1. 【[𣻏膜膜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_mah_mah_r.md#𣻏膜膜<sub>儿</sub>)】`xio1 mah8 mah8 r` <small>/ɕiɔ1 maʔ8 ma˞8/<sup>如皋</sup></small> ① 薄。<sup>\[如皋\]</sup> ② 非常薄。<sup>\[如东\]</sup>：这种纸～。<sup>\[如东\]</sup>  
 1. 【[𣻏膜膜子<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_mah_mah_zz_r.md#𣻏膜膜子<sub>儿</sub>)】`xio1 mah8 mah8 zz3 r` <sup>[兴化]</sup> 很薄的东西：河里结咖～冻。  
 1. 【[𣻏拔拔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_paeh_paeh.md#𣻏拔拔)】`xio1 paeh8 paeh8` <sup>[泰县]</sup> 很薄：铁片～的。  
 1. 【[𣻏薄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_pah.md#𣻏薄)】`xio1 pah8` <small>/ɕiɔ1 pʰaʔ8/<sup>兴化</sup>, /ɕiɔ1 pʰaʔ8/<sup>如皋</sup></small> ① 人情淡薄。<sup>\[如皋\]</sup> ② ［引］小气、刻薄，不厚道。<sup>\[东台\]</sup> ③ 形容人势利，只看眼前枯荣，不念亲情、友情<sup>\[兴化\]</sup>：近来人心～，往往人走茶凉，不讲情分。<sup>\[兴化\]</sup> ④ 为人处事冷漠而不纯朴，刻薄而不敦厚，寡恩而无情义<sup>\[泰州\]</sup>：人家在他家公司里做啊几十年，现在人走啊，花圈都不曾送一个，这个老板也太～咖唻。<sup>\[泰州\]</sup>  
 1. 【[𣻏薄薄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_pah_pah.md#𣻏薄薄)】`xio1 pah8 pah8` <sup>[泰县]</sup> 薄薄的。  
+1. 【[𣻏薄薄<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_pah_pah_r.md#𣻏薄薄<sub>儿</sub>)】`xio1 pah8 pah8 r` <sup>[泰州]</sup> 非常薄的样子：这本～的书要不了一个钟头子，他就看吖好啊唻。｜天这吖冷，盖～的被单人吃不消。  
 1. 【[𣻏皮寡肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_pi_gua_roh.md#𣻏皮寡肉)】`xio1 pi2 gua3 roh8` <sup>[东台]</sup> ① 形容人体格瘦削。 ② ［喻］人刻薄、不厚道。  
 1. 【[𣻏皮寡肉的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_pi_gua_roh_dii.md#𣻏皮寡肉的)】`xio1 pi2 gua3 roh8 dii` <sup>[如皋]</sup> ① 状面部皮薄肉少的样子。 ② 状待人接物吝啬、刻薄。  
 1. 【[𣻏皮亮壳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_pi_lian_kah.md#𣻏皮亮壳)】`xio1 pi2 lian6 kah7` <small>/ɕiɔ1 pʰi2 liaŋ6 kʰaʔ7/<sup>兴化</sup></small> ① 形容瓜果等新鲜脆嫩<sup>\[东台\]</sup>：这个西瓜～的。<sup>\[东台\]</sup> ② 形容稻麦等子粒饱满，颜色鲜亮。<sup>\[兴化\]</sup> ③ 形容成熟的西瓜外皮薄而光滑。<sup>\[兴化\]</sup>  

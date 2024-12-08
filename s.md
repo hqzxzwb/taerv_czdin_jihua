@@ -1730,9 +1730,11 @@
 1. 【[折本](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shih_ben.md#折本)】`shih8 ben3` <small>/siʔ8 pəŋ3/<sup>如皋</sup></small> ① 亏损。<sup>\[如皋\]</sup> ② 亏本。<sup>\[如东\]</sup>：这趟生意不曾～。<sup>\[如东\]</sup> ③ 也叫折本，亏了本钱。<sup>\[东台\]</sup>  
 1. 【[折本话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shih_ben_hua.md#折本话)】`shih8 ben3 hua6` <sup>[如皋]</sup> 有失体面的话。  
 1. 【[折膘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shih_bio.md#折膘)】`shih8 bio1` <sup>[兴化]</sup> ① 畜禽变瘦：猪子两天不吃食，～啊。 ② （贬）指人消瘦：叹气～。  
+1. 【[折膘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shih_bio.md#折膘)】`shih8 bio1` ① 家畜身上肥肉减少，体型变瘦<sup>\[泰州\]</sup>：这条老牛耕吖一个春天的田，怎吖得不～啊，要弄点儿黄豆喂它。<sup>\[泰州\]</sup> ② 泛指人的体型变瘦<sup>\[泰州\]</sup>：他的体质好，说起来害啊场大病，望起来也不曾怎吖～。<sup>\[泰州\]</sup>  
 1. 【[折耗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shih_ho.md#折耗)】`shih8 ho5` <sup>[东台]</sup> 损耗：做蔬菜生意要把～算进去｜天气干，水果～大。  
 1. 【[折色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shih_seh.md#折色)】`shih8 seh7` <sup>[兴化]</sup> ① 数量明显减少：这几天缸里的米老好的～吤！ ② 面部失去血色：他这吖一病，脸大大的～咖。  
 1. 【[折手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shih_sheu.md#折手)】`shih8 sheu3` <sup>[东台]</sup> 少了得力人手。（原文也写“蚀手”，音不合）  
+1. 【[折头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shih_teu.md#折头)】`shih8 teu` 已购的蔬菜产生的损耗<sup>\[泰州\]</sup>：你这些菜上头全是烂泥，黄叶子也不能揎掉，～太大啊唻，你哿能便宜点儿卖？<sup>\[泰州\]</sup>  
 1. 【[涉尔搭尔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shih_er_daeh_er.md#涉尔搭尔)】`shih8 er3 daeh7 er3` <sup>[东台]</sup> 说话中夹杂骂人的词语。  
 1. 【[舌尖<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shih_jin_r.md#舌尖<sub>儿</sub>)】`shih8 jin1 r` <sup>[泰县]</sup> 舌尖。  
 1. 【[舌苔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shih_tae.md#舌苔)】`shih8 tae1` <sup>[如东]</sup> 舌头表面上滑腻的物质，是由上皮细包、细菌食物残渣和液体形成的。健康的人，舌苔薄白而润。医生常根据病人舌苔的情况来诊断病情。  
@@ -1748,8 +1750,6 @@
 1. 【[舌头面<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shih_teu_min_r.md#舌头面<sub>儿</sub>)】`shih8 teu min6 r` <sup>[如皋]</sup> 舌面。  
 1. 【[舌头根子迮杀人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shih_teu_gen_zz_zheh_shaeh_ren.md#舌头根子迮杀人)】`shih8 teu2 gen1 zz zheh7 shaeh7 ren2` <sup>[如皋]</sup> 喻坏话、脏话、伪证等恶毒言语能压死人。  
 1. 【[舌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shih_zz.md#舌子)】`shih8 zz` <small>/siɪʔ8 t͡sɿ/<sup>兴化</sup>, /siʔ8 t͡sɿ/<sup>如皋</sup></small> ① 伸出的部分<sup>\[如皋\]</sup>：帽～，鞋～。<sup>\[如皋\]</sup> ② 暗语<sup>\[如皋\]</sup>：吐～。<sup>\[如皋\]</sup> ③ 锁呐等的发音装置。<sup>\[如皋\]</sup> ④ 旧时服务行业的暗语叫舌子。在栟茶地区，尖、小、川、竖、元、用、心、班、泉、流，为一、二、三、四、五、六、七、八、九、十的暗语。蛏叫条儿；虾叫环子；文蛤叫咬口儿；蛤子叫铃儿；秤叫棒儿，也叫横子等等。这些暗语统称舌子。<sup>\[如东\]</sup> ⑤ 行业内部的暗语<sup>\[兴化\]</sup>：他俫同行玩～，局外人一句也听不懂。<sup>\[兴化\]</sup>  
-1. 【[蚀膘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shih_bio.md#蚀膘)】`shih8 bio1` ① 家畜身上肥肉减少，体型变瘦<sup>\[泰州\]</sup>：这条老牛耕吖一个春天的田，怎吖得不～啊，要弄点儿黄豆喂它。<sup>\[泰州\]</sup> ② 泛指人的体型变瘦<sup>\[泰州\]</sup>：他的体质好，说起来害啊场大病，望起来也不曾怎吖～。<sup>\[泰州\]</sup>  
-1. 【[蚀头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shih_teu.md#蚀头)】`shih8 teu` 已购的蔬菜产生的损耗<sup>\[泰州\]</sup>：你这些菜上头全是烂泥，黄叶子也不能揎掉，～太大啊唻，你哿能便宜点儿卖？<sup>\[泰州\]</sup>  
 1. 【[扇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shin.md#扇)】`shin1` <sup>[兴化]</sup> ① 用巴掌打：你再瞎说，～你两个嘴巴子。 ② 鼻翼起伏：他闻见香味，一吸一吸地～鼻子。｜他鼻子一～一～的要哭。  
 1. 【[搧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shin.md#搧)】`shin1` ① 摇动扇子或其他薄片，增加空气流动。<sup>\[东台\]</sup> ② 用手掌打<sup>\[东台\]</sup>：～他一耳光。<sup>\[东台\]</sup> ③ 挥动扇子<sup>\[泰州\]</sup>：～扇子<sup>\[泰州\]</sup> ④ 手掌或者手背竖放平举击打<sup>\[泰州\]</sup>：你嘴里不要再瞎说，当心人家晓得咖～你。<sup>\[泰州\]</sup>  
 1. 【[搧耳光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shin_er_guan.md#搧耳光)】`shin1 er3 guan1` <sup>[如东]</sup> 用手掌打耳光。  
@@ -2829,7 +2829,6 @@
 1. 【[扫帚草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_zheu_co.md#扫帚草)】`so3 zheu3 co3` <sup>[如皋]</sup> 地肤。  
 1. 【[扫帚星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_zheu_xien.md#扫帚星)】`so3 zheu3 xien1` <small>/sɔ3 t͡sei3 ɕiəŋ1/<sup>如皋</sup></small> ① 认为是命运不好的女人，会给家庭带来灾难。<sup>\[如皋\]</sup> ② 彗星，绕着太阳旋转的星，背着太阳的一面拖着一条扫帚状的长尾巴。旧时喻指为给家庭带来不吉利的妇女。<sup>\[东台\]</sup>  
 1. 【[扫竹头上戴帽子——假充人头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_zhoh_teu_shan_dae_mo_zz_jia_chon_ren_teu.md#扫竹头上戴帽子——假充人头)】`so3 zhoh7 teu2 shan dae5 mo6 zz jia3 chon1 ren2 teu2` <sup>[东台]</sup>   
-1. 【[扫竹星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_zhoh_xien.md#扫竹星)】`so4 zhoh7 xien1` <sup>[泰州]</sup> 詈骂败家或引起家庭不和的妇女的词。《封神演义》中姜子牙的妻子马氏生前不贤，死后被封为“扫帚星”。旧时迷信遂认为扫帚星一旦出现，则有战祸、天灾，如果女子命犯扫竹星，会给家族带来灾难或者厄运。  
 1. 【[䴛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so.md#䴛)】`so5` <small>/sɔ5/<sup>如皋</sup></small> ① 咸<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[如东\]</sup>：咸菜太～，吃咖肚里腌心。<sup>\[如皋\]</sup>｜～鸭蛋、～鱼、～肉、～鸡。/盐腌制的X<sup>\[如皋\]</sup>｜～䭣儿、～水、～菜/咸味的X<sup>\[如皋\]</sup>｜这个菜太～啊。<sup>\[东台\]</sup>｜今朝的蛋汤，盐放多啊，太～。<sup>\[如东\]</sup> ② 卤水<sup>\[如东\]</sup> ③ 盐咸<sup>\[如皋\]</sup>：菜肚里哿曾放～啊？<sup>\[如皋\]</sup> ④ 代称小菜<sup>\[如东\]</sup><sup>\[东台\]</sup>：吃点儿～吧！<sup>\[东台\]</sup>  
 1. 【[䴛菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_cae.md#䴛菜)】`so5 cae5` <small>/sɔ5 t͡sʰɛ5/<sup>如皋</sup></small> ① 常指味咸的、吃粥的菜：咸菜、豆腐乳、䴛蛋、萝卜干儿、香肠、肉松等酱菜、腌菜、卤菜、干菜。<sup>\[如皋\]</sup> ② 含有盐分的菜，称䴛菜。<sup>\[如东\]</sup>  
 1. 【[䴛的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_dii.md#䴛的)】`so5 dii` <sup>[如皋]</sup> 味咸的。与淡的、甜的相对。  
@@ -2851,6 +2850,7 @@
 1. 【[扫帚星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_zheu_xien.md#扫帚星)】`so5 zheu3 xien1` <sup>[如东]</sup> 慧星。迷信者认为此星是凶相。比喻良心不好的人。  
 1. 【[扫竹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_zhoh.md#扫竹)】`so5 zhoh7` <sup>[兴化]</sup> 小竹枝条扎成的长柄扫帚，用于清扫街道、庭院或农村的打谷场。  
 1. 【[扫竹星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_zhoh_xien.md#扫竹星)】`so5 zhoh7 xien1` <sup>[兴化]</sup> ① 彗星。 ② （喻）指败家或制造不和者（多指女性）：这个～，把家里搅得六畜不安！  
+1. 【[扫竹星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_zhoh_xien.md#扫竹星)】`so5 zhoh7 xien1` <sup>[泰州]</sup> 詈骂败家或引起家庭不和的妇女的词。《封神演义》中姜子牙的妻子马氏生前不贤，死后被封为“扫帚星”。旧时迷信遂认为扫帚星一旦出现，则有战祸、天灾，如果女子命犯扫竹星，会给家族带来灾难或者厄运。  
 1. 【[燥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so.md#燥)】`so5` <sup>[如皋]</sup> 干燥：天～、风～天。  
 1. 【[燥市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_shr.md#燥市)】`so5 shr6` <sup>[如皋]</sup> 特别畅销的行情。  
 1. 【[臊气娘娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_qi_nian_nian.md#臊气娘娘)】`so5 qi nian2 nian` <sup>[兴化]</sup> 即“马陆”，一种小型节肢动物，暗红色，触角和步足极细，生活在阴湿的地方，有臭腺孔，能放出像胺那样的气味。  
@@ -3214,7 +3214,7 @@
 1. 【[死犟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_jian.md#死犟)】`sz3 jian5` <small>/sɿ3 t͡ɕiaŋ5/<sup>兴化</sup></small> ① 太倔强、固执，不服软。<sup>\[东台\]</sup> ② 认死理，不听人劝导<sup>\[兴化\]</sup> ③ 极其倔强，固执己见，不听人劝<sup>\[泰州\]</sup>：他这个人～。<sup>\[泰州\]</sup>  
 1. 【[死开去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_kae_qy.md#死开去)】`sz3 kae1 qy` ① （詈语）怒斥人走开，滚蛋。<sup>\[东台\]</sup> ② 要人离开说话人所在的地方，詈词<sup>\[泰州\]</sup>：你～，不要在这块碍手𢴬脚的。<sup>\[泰州\]</sup>  
 1. 【[死苦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_kv.md#死苦)】`sz3 kv3` 极大的苦楚或磨难<sup>\[泰州\]</sup>：吃咖笔～。<sup>\[泰州\]</sup>  
-1. 【[死来化](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_lae_hua.md#死来化)】`sz3 lae2 hua5` <sup>[兴化]</sup> 形容纠缠不休的人或哭闹不休的孩子：这个小伙～，惹动他能哭上大半天。  
+1. 【[死来花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_lae_hua.md#死来花)】`sz3 lae2 hua1` <sup>[兴化]</sup> 形容纠缠不休的人或哭闹不休的孩子：这个小伙～，惹动他能哭上大半天。  
 1. 【[死懒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_laen.md#死懒)】`sz3 laen3` <sup>[如东]</sup> 非常懒惰：他呀，～！  
 1. 【[死里逃生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_li_to_shen.md#死里逃生)】`sz3 li3 to2 shen1` <sup>[如东]</sup> 在危险当中逃脱出来。  
 1. 【[死脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_lin.md#死脸)】`sz3 lin3` <sup>[如皋]</sup> 生气时难看的脸色。  
@@ -3228,8 +3228,8 @@
 1. 【[死獃死作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ngae_sz_zah.md#死獃死作)】`sz3 ngae2 sz3 zah7` ① 太呆板，一点不灵活；<sup>\[东台\]</sup> ② 动作机械，操作简单。<sup>\[东台\]</sup> ③ 极不灵活地做某件事，意谓做事呆板而无一点点灵活性<sup>\[泰州\]</sup>：你这人怎就这吖～的，你有事，请老李帮你代个班就是唻。<sup>\[泰州\]</sup>  
 1. 【[死皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_pi.md#死皮)】`sz3 pi2` <sup>[泰县]</sup> 不充气的轮胎。  
 1. 【[死皮赖瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_pi_lae_gua.md#死皮赖瓜)】`sz3 pi2 lae6 gua1` <small>/sɿ3 pʰɿ2 ne1 kua1/<sup>泰县</sup></small> ① 脸皮太厚，胡搅蛮缠。<sup>\[东台\]</sup> ② 纠缠不休。<sup>\[泰县\]</sup>  
-1. 【[死皮赖化](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_pi_lae_hua.md#死皮赖化)】`sz3 pi2 lae6 hua1` <sup>[泰州]</sup> “化”音hua1，老着脸皮赖在某处乞讨财物，指老着脸皮赖在某处纠缠不肯离开的行为：人家又不睬他，他～缠吖半天才走。  
-1. 【[死皮赖化](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_pi_lae_hua.md#死皮赖化)】`sz3 pi2 lae6 hua5` <sup>[兴化]</sup> 死死纠缠：他为一点小事，～的拽住人蛮缠。  
+1. 【[死皮赖花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_pi_lae_hua.md#死皮赖花)】`sz3 pi2 lae6 hua1` <sup>[兴化]</sup> 死死纠缠：他为一点小事，～的拽住人蛮缠。  
+1. 【[死皮赖花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_pi_lae_hua.md#死皮赖花)】`sz3 pi2 lae6 hua1` <sup>[泰州]</sup> “化”音hua1，老着脸皮赖在某处乞讨财物，指老着脸皮赖在某处纠缠不肯离开的行为：人家又不睬他，他～缠吖半天才走。  
 1. 【[死皮赖脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_pi_lae_lin.md#死皮赖脸)】`sz3 pi2 lae6 lin3` <sup>[如东]</sup> 不顾羞耻，一味纠缠：张三儿～的蹾吖这许不走。  
 1. 【[死腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_qian.md#死腔)】`sz3 qian` <sup>[泰县]</sup> 形容看不顺眼的样子：这个人，～嗷，讲话一点儿不爽气。  
 1. 【[死犟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_qian.md#死犟)】`sz3 qian6` ① 脾气非常固执，不听劝说。<sup>\[如东\]</sup>：你不要～。<sup>\[如东\]</sup> ② 固执己见且强词夺理。<sup>\[东台\]</sup>  
