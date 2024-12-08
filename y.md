@@ -6,8 +6,7 @@
 1. 【[瘀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y.md#瘀)】`y1` <sup>[泰州]</sup> 思维突然受到干扰后一时处于停滞状态：我刚才捱他打啊个岔，人就捱～住啊，到啊嘴边子的话，还就想不起来唻。｜我这一刻儿脑子～啊，繁体的马字是怎吖写的啊？  
 1. 【[迂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y.md#迂)】`y1` <small>/y1/<sup>兴化</sup></small> ① 性格迁腐、固执<sup>\[兴化\]</sup>：“表兄此论甚～。当今之世，讲甚天理……”（《梼杌闲评》三六）<sup>\[兴化\]</sup> ② 由于受强烈刺激而神经紊乱<sup>\[兴化\]</sup>：一个人愁狠了，神就乱了<sup>\[兴化\]</sup>｜神一乱，就～了，就糊了。（扬说《闯昭关》）也说“迂痰”。<sup>\[兴化\]</sup> ③ 迂腐，拘泥陈腐的规则，不切合实际<sup>\[泰州\]</sup>：你就不要～吧，现在带啊身上结婚的人太多啊。<sup>\[泰州\]</sup>｜这个人是个～夫子。<sup>\[泰州\]</sup> ④ 指人坚持原则，不受利诱<sup>\[泰州\]</sup>：他这个人～得狠，管你是甚的人，找他开后门是不可能的事。<sup>\[泰州\]</sup>  
 1. 【[迂而且赘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_er_qia_zhuei.md#迂而且赘)】`y1 er2 qia3 zhuei5` <sup>[兴化]</sup> 迂腐而又啰唆：“笑话了，也不是买货，还要定准。好，你这个人～哎……”（《武松》六）  
-1. 【[迂而赘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_er_zhuei.md#迂而赘)】`y1 er2 zhuei5` <sup>[如皋]</sup> 古板执拗的脾气。  
-1. 【[迂而赘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_er_zhuei.md#迂而赘)】`y1 er2 zhuei5` <sup>[泰州]</sup> 不仅迂腐，而且说话啰唆，贬义。  
+1. 【[迂而赘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_er_zhuei.md#迂而赘)】`y1 er2 zhuei5` <small>/y1 ɚ2 t͡suei5/<sup>如皋</sup></small> ① 古板执拗的脾气。<sup>\[如皋\]</sup> ② 不仅迂腐，而且说话啰唆，贬义。<sup>\[泰州\]</sup>  
 1. 【[迂夫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_fv_zz.md#迂夫子)】`y1 fv1 zz` <sup>[泰州]</sup> ① 言行拘泥于旧准则，不能适应时代潮流的读书人，贬义。 ② 言行坚持原则，不肯媚俗或者同流合污的人。  
 1. 【[迂瘕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_ha.md#迂瘕)】`y1 ha2` <sup>[兴化]</sup> 迂腐、守旧，作事过于顶真。也称“瘕魔”。  
 1. 【[迂痰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_taen.md#迂痰)】`y1 taen2` <sup>[兴化]</sup> 见“迂”。  
@@ -54,14 +53,12 @@
 1. 【[鱼浮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_fv_zz.md#鱼浮子)】`y2 fv2 zz` <sup>[如皋]</sup> 钓鱼线上的浮标，常用鹅、鸭毛莛儿制成。  
 1. 【[鱼腐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_fv.md#鱼腐)】`y2 fv3` <sup>[如皋]</sup> 鱼之肉剁成的糜。见“鱼圆”。  
 1. 【[鱼狗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_geu_r.md#鱼狗<sub>儿</sub>)】`y2 geu3 r` <sup>[如皋]</sup> 翠鸟。  
-1. 【[鱼拐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_guae_zz.md#鱼拐子)】`y2 guae3 zz` <sup>[兴化]</sup> 鱼的卵，煮熟后成块状，黄色：“现在鲫鱼不肥，满肚子～。”（马春阳《昏迷再婚迷》）  
-1. 【[鱼拐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_guae_zz.md#鱼拐子)】`y2 guae3 zz` <sup>[泰州]</sup> 呈块状的鱼籽。  
+1. 【[鱼拐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_guae_zz.md#鱼拐子)】`y2 guae3 zz` <small>/y2 kuɛ3 t͡sɿ/<sup>兴化</sup></small> ① 鱼的卵，煮熟后成块状，黄色<sup>\[兴化\]</sup>：“现在鲫鱼不肥，满肚子～。”（马春阳《昏迷再婚迷》）<sup>\[兴化\]</sup> ② 呈块状的鱼籽。<sup>\[泰州\]</sup>  
 1. 【[鱼干<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_gun_r.md#鱼干<sub>儿</sub>)】`y2 gun1 r` <sup>[如皋]</sup> 鱼制成的干货。  
 1. 【[鱼干子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_gun_zz.md#鱼干子)】`y2 gun1 zz` <sup>[兴化]</sup> 未经腌制而晒干的小鱼。  
 1. 【[鱼花<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_hua_r.md#鱼花<sub>儿</sub>)】`y2 hua1 r` <sup>[如东]</sup> 小鱼苗。  
 1. 【[鱼虎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_hv.md#鱼虎)】`y2 hv3` <sup>[如东]</sup> 翠鸟科动物翠鸟，体长约16厘米。嘴粗大而直先端不呈钩曲状，嘴峰稍圆而扁平，黑色。虹膜土黑色。头大，自额至枕蓝黑色，密杂翠蓝色横斑。额前左右边缘颊上部耳羽概栗棕色。颏、喉纯白。背面翠蓝色，肩和两翅的覆羽暗蓝色，稍杂以翠蓝色斑点。胸以下栗棕色。尾亦暗蓝。足短小，朱红色。单独栖于水边的树枝上。  
-1. 【[鱼𥲉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_hv_zz.md#鱼𥲉子)】`y2 hv5 zz` <sup>[如皋]</sup> 篾制扁花瓶式鱼笼。  
-1. 【[鱼𥲉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_hv_zz.md#鱼𥲉子)】`y2 hv5 zz` <sup>[泰州]</sup> 一种圆口细颈呈扁壶状的盛鱼虾的篾篓。  
+1. 【[鱼𥲉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_hv_zz.md#鱼𥲉子)】`y2 hv5 zz` <small>/y2 fu5 t͡sɿ/<sup>如皋</sup></small> ① 篾制扁花瓶式鱼笼。<sup>\[如皋\]</sup> ② 一种圆口细颈呈扁壶状的盛鱼虾的篾篓。<sup>\[泰州\]</sup>  
 1. 【[鱼秧<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_ian_r.md#鱼秧<sub>儿</sub>)】`y2 ian1 r` <sup>[如皋]</sup> 鱼苗。  
 1. 【[鱼圆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_iun.md#鱼圆)】`y2 iun2` <small>/y2 yʊ̃2/<sup>如皋</sup></small> ① 用鱼之肉打成腐，加鸡蛋清和适量盐、水等和匀，手捏出圆状，下温汤凝成白色小圆子，稍沸而成菜料。极鲜嫩。<sup>\[如皋\]</sup> ② 鱼肉加调料做成圆子，肉嫩味鲜，营养丰富。<sup>\[如东\]</sup>  
 1. 【[鱼卡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_ka.md#鱼卡)】`y2 ka3` <small>/y2 kʰa3/<sup>兴化</sup>, /y2 kʰa3/<sup>如皋</sup>, /ɻy2 kʰa3/<sup>泰县</sup></small> ① 鱼骨头，鱼刺<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup>：毛毛吃鱼要当心～。<sup>\[如东\]</sup> ② 工具。把竹篾扭弯，头部加套，套中存放铒料，鱼吞食时即被卡住。<sup>\[如东\]</sup>  
@@ -79,8 +76,7 @@
 1. 【[鱼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_r.md#鱼<sub>儿</sub>)】`y2 r` <sup>[泰县]</sup> 鱼。  
 1. 【[鱼生火，肉生痰，豆腐百页保平安](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_shen_hu_roh_shen_taen_teu_fv_boh_ih_bo_pien_un.md#鱼生火，肉生痰，豆腐百页保平安)】`y2 shen1 hu3 roh8 shen1 taen2 teu6 fv boh7 ih8 bo3 pien2 un1` <sup>[东台]</sup> 简约式生活有益于健康。  
 1. 【[鱼生四两各有主](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_shen_sz_lian_gah_ieu_zhv.md#鱼生四两各有主)】`y2 shen1 sz5 lian3 gah7 ieu3 zhv3` <sup>[兴化]</sup> 俗语，说明人或物最后都有一定的归宿：“……小冻鱼煮起来我还没有吃，真是～……就把你这个畜生搭酒。”（《皮五辣子》一）  
-1. 【[鱼汤面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_tan_min.md#鱼汤面)】`y2 tan1 min6` <sup>[东台]</sup> 东台地方著名美食，曾在1915年巴拿马万国博览会获金奖。其特点是汤白而不腻，味鲜而不腥，质厚而不黏。  
-1. 【[鱼汤面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_tan_min.md#鱼汤面)】`y2 tan1 min6` <sup>[泰州]</sup> 泰州特色早茶之一，面条的底汤是用鲫鱼之类煨的鱼汤。  
+1. 【[鱼汤面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_tan_min.md#鱼汤面)】`y2 tan1 min6` ① 东台地方著名美食，曾在1915年巴拿马万国博览会获金奖。其特点是汤白而不腻，味鲜而不腥，质厚而不黏。<sup>\[东台\]</sup> ② 泰州特色早茶之一，面条的底汤是用鲫鱼之类煨的鱼汤。<sup>\[泰州\]</sup>  
 1. 【[鱼塘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_tan.md#鱼塘)】`y2 tan2` <sup>[兴化]</sup> 养鱼的池塘：到～钓鱼去。  
 1. 【[鱼坞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_v_zz.md#鱼坞子)】`y2 v5 zz` <sup>[东台]</sup> 诱鱼护鱼的敞口塘。  
 1. 【[鱼鲞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_xian.md#鱼鲞)】`y2 xian3` <small>/y2 ɕiã3/<sup>如皋</sup></small> ① 脊剖开而不割离制成的大鱼干，味美。<sup>\[如皋\]</sup> ② 海产品。将新鲜鱼剖开晒干，色淡白者为佳。<sup>\[如东\]</sup>  
@@ -96,8 +92,7 @@
 1. 【[雨沰洵洵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_dah_xyen_xyen.md#雨沰洵洵)】`y3 dah7 xyen2 xyen2` <sup>[东台]</sup> 冒雨走路，浑身水淋淋的：外面～的，你还来看我，谢谢！  
 1. 【[雨陡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_deu.md#雨陡)】`y3 deu3` <sup>[如皋]</sup> 雨特别大。  
 1. 【[雨盖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_gae.md#雨盖)】`y3 gae5` <sup>[如东]</sup> 雨伞，称雨盖。  
-1. 【[雨夹雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_gaeh_xiuh.md#雨夹雪)】`y3 gaeh7 xiuh7` <small>/y3 kæʔ7 ɕyuʔ7/<sup>兴化</sup></small> ① 下雨的同时飘雪花。<sup>\[东台\]</sup> ② 行书作品夹着草字。<sup>\[东台\]</sup> ③ （喻）不纯粹的事物，如说普通话时杂有方言、语体文中杂有文言词语。<sup>\[兴化\]</sup>  
-1. 【[雨夹雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_gaeh_xiuh.md#雨夹雪)】`y3 gaeh7 xiuh7` <sup>[泰州]</sup> ① 下雨的时候下雪。 ② 一种饭食，在煮熟的菜面条里加上米饭混煮。  
+1. 【[雨夹雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_gaeh_xiuh.md#雨夹雪)】`y3 gaeh7 xiuh7` <small>/y3 kæʔ7 ɕyuʔ7/<sup>兴化</sup></small> ① 下雨的同时飘雪花。<sup>\[东台\]</sup> ② 行书作品夹着草字。<sup>\[东台\]</sup> ③ （喻）不纯粹的事物，如说普通话时杂有方言、语体文中杂有文言词语。<sup>\[兴化\]</sup> ④ 下雨的时候下雪。<sup>\[泰州\]</sup> ⑤ 一种饭食，在煮熟的菜面条里加上米饭混煮。<sup>\[泰州\]</sup>  
 1. 【[雨后送伞——过啊时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_heu_son_saen_gu_a_shr.md#雨后送伞——过啊时)】`y3 heu6 son5 saen3 gu5 a shr2` <sup>[东台]</sup>   
 1. 【[雨脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_jiah.md#雨脚)】`y3 jiah7` <sup>[如东]</sup> 下雨的密度：～大。  
 1. 【[雨脚猛烈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_jiah_mon_lih.md#雨脚猛烈)】`y3 jiah7 mon3 lih8` <sup>[如东]</sup> 形容雨下得很大。  
@@ -122,8 +117,7 @@
 1. 【[𣢒𣢒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_y.md#𣢒𣢒)】`y5 y5` <sup>[如皋]</sup> 唤猪声。  
 1. 【[与务一切](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_v_ieh_qih.md#与务一切)】`y6 v6 ieh7 qih7` <sup>[东台]</sup> 指与此事务有关的一切开支：我家房子这次装修的木工，瓦工、水电费用，～不过五万元。  
 1. 【[玉边竹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_bin_zhoh.md#玉边竹)】`y6 bin1 zhoh7` <sup>[如皋]</sup> 竹叶有白边的一种观赏竹。  
-1. 【[玉芦秫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_lv_xieh.md#玉芦秫)】`y6 lv2 xieh7` <small>/y6 lu2 ɕiəʔ7/<sup>兴化</sup>, /ɻy1 nu2 ɕiɪʔ7/<sup>泰县</sup></small> ① 玉米。<sup>\[兴化\]</sup> ② 玉米。<sup>\[泰县\]</sup>  
-1. 【[玉芦秫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_lv_xieh.md#玉芦秫)】`y6 lv2 xieh7` <sup>[泰州]</sup> 玉米。  
+1. 【[玉芦秫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_lv_xieh.md#玉芦秫)】`y6 lv2 xieh7` <small>/y6 lu2 ɕiəʔ7/<sup>兴化</sup>, /ɻy1 nu2 ɕiɪʔ7/<sup>泰县</sup></small> 玉米。<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>  
 1. 【[玉米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_mi.md#玉米)】`y6 mi` <sup>[如东]</sup> 禾本科植物玉蜀黍，一年生草本。高约4米。秤粗壮，直立。节间有髓。叶片长大，扁平，剑形。雄性囡锥花序顶生，雌性小穗孪生，排列于海绵状的穗轴上。颖果略呈扁球形。田间种植。  
 1. 【[玉米苞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_mi_bo_zz.md#玉米苞子)】`y6 mi3 bo1 zz` <sup>[如东]</sup> 玉米棒子外面的苞衣。  
 1. 【[玉米䜺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_mi_chae_r.md#玉米䜺<sub>儿</sub>)】`y6 mi3 chae3 r` <sup>[如东]</sup> 玉米磨成的碎粒。  
@@ -152,8 +146,7 @@
 1. 【[芋头盒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_teu_huh_zz.md#芋头盒子)】`y6 teu huh8 zz` <sup>[东台]</sup> 芋头硕大的叶子。  
 1. 【[芋头老头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_teu_lo_teu.md#芋头老头)】`y6 teu lo3 teu` <sup>[如皋]</sup> 芋的原栽块茎，食时口感欠佳。  
 1. 【[芋头伢子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_teu_nga_zz.md#芋头伢子)】`y6 teu nga2 zz` <sup>[如皋]</sup> 见“芋头子儿”。  
-1. 【[芋头子<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_teu_zz_r.md#芋头子<sub>儿</sub>)】`y6 teu zz3 r` <small>/y6 tʰɤ t͡sɿ3 ɚ/<sup>兴化</sup>, /y1 tʰei t͡sɿ˞3/<sup>如皋</sup></small> ① 芋的新生块茎。食时口感好。<sup>\[如皋\]</sup> ② 芋头块茎主体以外从生的小子儿。<sup>\[兴化\]</sup>  
-1. 【[芋头子<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_teu_zz_r.md#芋头子<sub>儿</sub>)】`y6 teu zz3 r` <sup>[泰州]</sup> 指附在大芋头上的小芋头：街上有才上市的芋头子儿，明吖早上你去买点儿家来。  
+1. 【[芋头子<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_teu_zz_r.md#芋头子<sub>儿</sub>)】`y6 teu zz3 r` <small>/y6 tʰɤ t͡sɿ3 ɚ/<sup>兴化</sup>, /y1 tʰei t͡sɿ˞3/<sup>如皋</sup></small> ① 芋的新生块茎。食时口感好。<sup>\[如皋\]</sup> ② 芋头块茎主体以外从生的小子儿。<sup>\[兴化\]</sup> ③ 指附在大芋头上的小芋头<sup>\[泰州\]</sup>：街上有才上市的芋头子儿，明吖早上你去买点儿家来。<sup>\[泰州\]</sup>  
 1. 【[芋头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_teu.md#芋头)】`y6 teu2-3` <sup>[泰县]</sup> 芋艿。  
 1. 【[遇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y.md#遇)】`y6` <small>/y6/<sup>兴化</sup>, /y1/<sup>如皋</sup></small> ① 相遇、相见<sup>\[如皋\]</sup><sup>\[兴化\]</sup>：～到，～头。<sup>\[如皋\]</sup> ② 相处、往来<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：我俫常～。<sup>\[如皋\]</sup>｜这个人难玩，不大好～。<sup>\[兴化\]</sup>｜你不听人劝告，以后还～不～？（兴化词典此例释“相见”）<sup>\[兴化\]</sup>｜这种人没得～头，你让他今后同旁人～吧。<sup>\[泰州\]</sup>｜大家有话好好说，不要伤吖和气，一个单位的人今后还～不～？<sup>\[泰州\]</sup>  
 1. 【[遇到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_do.md#遇到)】`y6 do` <sup>[兴化]</sup> ① 碰见：我正好在学校门口～他。 ② （东南部分村镇语）被：他～人家一顿骂。  
@@ -168,8 +161,7 @@
 1. 【[曰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/ya.md#曰)】`ya1` <small>/ya1/<sup>兴化</sup></small> ① 说<sup>\[东台\]</sup>：人不能“当面说好话，背后念子～”。<sup>\[东台\]</sup> ② 叫做<sup>\[东台\]</sup>：台城南50华里，有镇～富安。<sup>\[东台\]</sup> ③ “说”的隐语<sup>\[兴化\]</sup>：止～；不～；跟他～啊子。<sup>\[兴化\]</sup>  
 1. 【[曰撇子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/ya_pih_zz.md#曰撇子)】`ya1 pih7 zz` <sup>[兴化]</sup> “白”的隐语：玩～（白吃、白拿）。  
 1. 【[𦚢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/ya.md#𦚢)】`ya1` <small>/ya1/<sup>兴化</sup>, /ya1/<sup>如皋</sup>, /ya1/<sup>泰县</sup></small> ① 天冷或其他原因使手指弯曲，不听使唤。 ② 手足曲病<sup>\[如皋\]</sup>：～手儿；手爪儿发～。<sup>\[如皋\]</sup> ③ 麻木、发僵<sup>\[如皋\]</sup>：嘴边儿挨冻吖发咖～。<sup>\[如皋\]</sup> ④ 手足关节僵直<sup>\[兴化\]</sup>：～膀子；～爪儿。《广韵·戈韵》於靴切<sup>\[兴化\]</sup>｜“～，～𩨷手足病。”𩨷（𩨭），去靴切。<sup>\[兴化\]</sup> ⑤ 手足弯曲：～脖子儿挎笿子。<sup>\[泰县\]</sup> ⑥ 手足弯曲僵硬不能伸直<sup>\[泰州\]</sup>：天多冷吖，手都冻吖～啊。<sup>\[泰州\]</sup> ⑦ 泛指身体某个部位弯曲僵硬不能伸直<sup>\[泰州\]</sup>：他的腰～啊唻，头抬不起来。<sup>\[泰州\]</sup>｜这小伙头～啊，转不过来。<sup>\[泰州\]</sup>  
-1. 【[𦚢膀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/ya_ban_r.md#𦚢膀<sub>儿</sub>)】`ya1 ban3 r` <small>/ya1 pa˞3/<sup>如皋</sup>, /ya1 pɑŋ3 ɚ/<sup>泰县</sup></small> ① 见“𦚢手儿”。<sup>\[如皋\]</sup> ② 膀儿手臂弯曲的人。<sup>\[泰县\]</sup>  
-1. 【[𦚢膀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/ya_ban_r.md#𦚢膀<sub>儿</sub>)】`ya1 ban3 r` <sup>[泰州]</sup> 弯曲僵硬不能伸直的手臂：你不要望他是个～，肩头上的力气还是有的。  
+1. 【[𦚢膀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/ya_ban_r.md#𦚢膀<sub>儿</sub>)】`ya1 ban3 r` <small>/ya1 pa˞3/<sup>如皋</sup>, /ya1 pɑŋ3 ɚ/<sup>泰县</sup></small> ① 见“𦚢手儿”。<sup>\[如皋\]</sup> ② 膀儿手臂弯曲的人。<sup>\[泰县\]</sup> ③ 弯曲僵硬不能伸直的手臂<sup>\[泰州\]</sup>：你不要望他是个～，肩头上的力气还是有的。<sup>\[泰州\]</sup>  
 1. 【[𦚢膀<sub>儿</sub>打妈妈——甩开手做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/ya_ban_r_da_ma_ma_shuae_kae_sheu_zu.md#𦚢膀<sub>儿</sub>打妈妈——甩开手做)】`ya1 ban3 r da3 ma1 ma1 shuae3 kae1 sheu3 zu5` <sup>[东台]</sup>   
 1. 【[𦚢𩨭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/ya_qya.md#𦚢𩨭)】`ya1 qya1` 手足弯曲。见“𦚢”。  
 1. 【[𦚢手别脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/ya_sheu_bih_jiah.md#𦚢手别脚)】`ya1 sheu3 bih7 jiah7` <sup>[兴化]</sup> ① 手脚不灵活。 ② 举手投足姿势不正确：～的。  
@@ -195,8 +187,7 @@
 1. 【[云里无知](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_lii_v_zhr.md#云里无知)】`yen2 lii v2 zhr1` <sup>[泰州]</sup> ① （泰州词典作“晕里无知”，发音阳平） ② 比喻身处险境而不自知，依然头脑发昏我行我素：厂长要开除他，他还在这块说话～的，真是没药医唻。｜纪委早就盯住他唻，他还～的天天跑啊去泡桑拿。  
 1. 【[云沗沗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_pan_pan.md#云沗沗)】`yen2 pan5 pan5` <sup>[如东]</sup> 天空多浮云：今朝～的，不会得太热。  
 1. 【[云沗沗的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_pan_pan_dii.md#云沗沗的)】`yen2 pan5 pan5 dii` <sup>[如皋]</sup> 多云天气。  
-1. 【[云片糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_pin_go.md#云片糕)】`yen2 pin5 go1` <small>/yəŋ2 pʰĩ5 kɔ1/<sup>如皋</sup></small> ① 切成薄片叠成砖形的米粉糕。<sup>\[如皋\]</sup> ② 用米粉加糖、桂花等制成的米糕，切做长方形薄片。<sup>\[东台\]</sup>  
-1. 【[云片糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_pin_go.md#云片糕)】`yen2 pin5 go1` <sup>[泰州]</sup> 茶食之一，米粉加糖制成的糕，切成长方形的薄片。  
+1. 【[云片糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_pin_go.md#云片糕)】`yen2 pin5 go1` <small>/yəŋ2 pʰĩ5 kɔ1/<sup>如皋</sup></small> ① 切成薄片叠成砖形的米粉糕。<sup>\[如皋\]</sup> ② 用米粉加糖、桂花等制成的米糕，切做长方形薄片。<sup>\[东台\]</sup> ③ 茶食之一，米粉加糖制成的糕，切成长方形的薄片。<sup>\[泰州\]</sup>  
 1. 【[云头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_teu.md#云头)】`yen2 teu2` <small>/yəŋ2 tʰei2/<sup>如皋</sup>, /yəŋ2 tʰəɪ2/<sup>泰兴</sup></small> ① 积云的最高处。<sup>\[如皋\]</sup> ② 飘来一片云的最前部。<sup>\[如皋\]</sup> ③ 天上的云。<sup>\[泰兴\]</sup>：天上～发薄，没得落go。<sup>\[泰兴\]</sup>  
 1. 【[云头斑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_teu_baen.md#云头斑)】`yen2 teu2 baen1` <small>/yn2 tʰɤ2 pɛ̃1/<sup>兴化</sup>, /yəŋ2 tʰei2 pẽ1/<sup>如皋</sup></small> ① 云样污渍。<sup>\[如皋\]</sup> ② 指上空的雨云块。<sup>\[兴化\]</sup> ③ 衣被上大片水渍、污渍及霉斑。<sup>\[兴化\]</sup>  
 1. 【[云头上的雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_teu_shan_dii_y.md#云头上的雨)】`yen2 teu2 shan dii y3` <sup>[如皋]</sup> 夏秋间随云而过的雨，极短暂。  

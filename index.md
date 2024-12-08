@@ -640,8 +640,7 @@
 1. 【[瘀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y.md#瘀)】`y1` <sup>[泰州]</sup> 思维突然受到干扰后一时处于停滞状态：我刚才捱他打啊个岔，人就捱～住啊，到啊嘴边子的话，还就想不起来唻。｜我这一刻儿脑子～啊，繁体的马字是怎吖写的啊？  
 1. 【[迂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y.md#迂)】`y1` <small>/y1/<sup>兴化</sup></small> ① 性格迁腐、固执<sup>\[兴化\]</sup>：“表兄此论甚～。当今之世，讲甚天理……”（《梼杌闲评》三六）<sup>\[兴化\]</sup> ② 由于受强烈刺激而神经紊乱<sup>\[兴化\]</sup>：一个人愁狠了，神就乱了<sup>\[兴化\]</sup>｜神一乱，就～了，就糊了。（扬说《闯昭关》）也说“迂痰”。<sup>\[兴化\]</sup> ③ 迂腐，拘泥陈腐的规则，不切合实际<sup>\[泰州\]</sup>：你就不要～吧，现在带啊身上结婚的人太多啊。<sup>\[泰州\]</sup>｜这个人是个～夫子。<sup>\[泰州\]</sup> ④ 指人坚持原则，不受利诱<sup>\[泰州\]</sup>：他这个人～得狠，管你是甚的人，找他开后门是不可能的事。<sup>\[泰州\]</sup>  
 1. 【[迂而且赘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_er_qia_zhuei.md#迂而且赘)】`y1 er2 qia3 zhuei5` <sup>[兴化]</sup> 迂腐而又啰唆：“笑话了，也不是买货，还要定准。好，你这个人～哎……”（《武松》六）  
-1. 【[迂而赘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_er_zhuei.md#迂而赘)】`y1 er2 zhuei5` <sup>[如皋]</sup> 古板执拗的脾气。  
-1. 【[迂而赘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_er_zhuei.md#迂而赘)】`y1 er2 zhuei5` <sup>[泰州]</sup> 不仅迂腐，而且说话啰唆，贬义。  
+1. 【[迂而赘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_er_zhuei.md#迂而赘)】`y1 er2 zhuei5` <small>/y1 ɚ2 t͡suei5/<sup>如皋</sup></small> ① 古板执拗的脾气。<sup>\[如皋\]</sup> ② 不仅迂腐，而且说话啰唆，贬义。<sup>\[泰州\]</sup>  
 1. 【[迂夫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_fv_zz.md#迂夫子)】`y1 fv1 zz` <sup>[泰州]</sup> ① 言行拘泥于旧准则，不能适应时代潮流的读书人，贬义。 ② 言行坚持原则，不肯媚俗或者同流合污的人。  
 1. 【[迂瘕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_ha.md#迂瘕)】`y1 ha2` <sup>[兴化]</sup> 迂腐、守旧，作事过于顶真。也称“瘕魔”。  
 1. 【[迂痰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_taen.md#迂痰)】`y1 taen2` <sup>[兴化]</sup> 见“迂”。  
@@ -659,6 +658,8 @@
 1. 【[愚处](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_chv.md#愚处)】`y2 chv5` <sup>[东台]</sup> 解不开的心结：她不晓得怎吖想到～去的，跳河寻吖死。  
 1. 【[愚而醉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_er_jy.md#愚而醉)】`y2 er2 jy5` <sup>[如东]</sup> 不能灵活办事：他是个～，把事情耽误啊。  
 1. 【[榆树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_shv.md#榆树)】`y2 shv6` <sup>[如东]</sup> 榆科植物榆树，落叶乔木，高约20米。树皮暗灰褐色，粗糙，有纵沟裂。单叶互生，椭圆状倒卵形或披针形，边缘单锯齿，上面暗绿色。花先叶开放簇生，紫色。翅果倒卵形，先端有缺口。生长在河堤、田埂和路边。  
+1. 【[榆树叶<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_shv_ih_r.md#榆树叶<sub>儿</sub>)】`y2 shv6 ih8 r` <sup>[如皋]</sup> 学名榆钱，荒年可充饥。  
+1. 【[榆树酱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_shv_jian.md#榆树酱)】`y2 shv6 jian5` <sup>[如东]</sup> 榆科植物榆树的荚仁和面粉等制成，也称榆仁酱。  
 [更多...](./y.md)
 ## Z
 1. 【[咋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/za.md#咋)】`za3` <small>/t͡sa3/<sup>兴化</sup></small> “怎吖”的合音。怎么。<sup>\[东台\]</sup><sup>\[兴化\]</sup>：这个事你～说？<sup>\[东台\]</sup>｜他～还不到？<sup>\[东台\]</sup>｜～办？<sup>\[兴化\]</sup>｜你～不去的？<sup>\[兴化\]</sup>  
