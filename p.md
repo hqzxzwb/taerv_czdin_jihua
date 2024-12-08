@@ -770,8 +770,7 @@
 1. 【[跑空趟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_kon_tan.md#跑空趟)】`po2 kon1 tan5` <sup>[如东]</sup> 白跑一次：这次去不能～。  
 1. 【[跑快快<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_kuae_kuae_r.md#跑快快<sub>儿</sub>)】`po2 kuae5 kuae5 r` <sup>[如东]</sup> 很快地向前奔跑：小明听见妈妈叫喊，向前～。  
 1. 【[跑哪块](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_la_kuae.md#跑哪块)】`po2 la3 kuae5` <sup>[泰州]</sup> 怎么会，加强语气以表示否定：你出的题目这吖难，他～会做。｜一个才毕业的大学生，在南京人生地不熟的，～弄到个业务。  
-1. 【[跑龙套](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_lon_to.md#跑龙套)】`po2 lon2 to5` <sup>[东台]</sup> 在戏曲中扮演随从或兵卒，引申为无足轻重的小角色。  
-1. 【[跑龙套](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_lon_to.md#跑龙套)】`po2 lon5 to5` <sup>[泰州]</sup> ① 戏曲中担任跟班、随从、兵卒等角色。 ② 在人手下做无关紧要的事：他甚的都不会，主任只好安排他做些～的事。  
+1. 【[跑龙套](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_lon_to.md#跑龙套)】`po2 lon2 to5` ① 在戏曲中扮演随从或兵卒，引申为无足轻重的小角色。<sup>\[东台\]</sup> ② 戏曲中担任跟班、随从、兵卒等角色。<sup>\[泰州\]</sup> ③ 在人手下做无关紧要的事<sup>\[泰州\]</sup>：他甚的都不会，主任只好安排他做些～的事。<sup>\[泰州\]</sup>  
 1. 【[跑路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_lv.md#跑路)】`po2 lv6` <sup>[如东]</sup> ① 走路：我俫一起～ ② 比喻离开：赶快～吧。  
 1. 【[跑码头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_ma_teu.md#跑码头)】`po2 ma3 teu` <small>/pʰɔ2 ma3 tʰɤ/<sup>兴化</sup></small> ① 指在一些城镇间流动经营谋生<sup>\[兴化\]</sup>：他是～的，见多识广。<sup>\[兴化\]</sup> ② 在水陆交通路线上的城市或者集镇往来做生意<sup>\[泰州\]</sup>：老周是～的出身，甚的事不曾见过。<sup>\[泰州\]</sup>  
 1. 【[跑码头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_ma_teu.md#跑码头)】`po2 ma3 teu2` <sup>[东台]</sup> ① 旧时卖艺、算命、相命等职业的人往来各地谋生。 ② 旧时指在沿海或沿江河城市做买卖。 ③ 经常往来于各地：他是个测绘员，一年到头～。  

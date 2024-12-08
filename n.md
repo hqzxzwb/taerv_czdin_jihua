@@ -154,14 +154,13 @@
 1. 【[纳棺材](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_gun_cae.md#纳棺材)】`naeh8 gun1 cae` <sup>[泰兴]</sup> 同“下棺材”。  
 1. 【[纳匣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_haeh_zz.md#纳匣子)】`naeh8 haeh8 zz` <sup>[兴化]</sup> 市井语，骂小孩夭亡，装进简易木匣。  
 1. 【[纳函子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_kaen_zz.md#纳函子)】`naeh8 kaen2 zz` <small>/neʔ8 kʰẽ2 t͡sɿ/<sup>如皋</sup></small> ① 詈语，咒小孩早死。<sup>\[如皋\]</sup> ② 小孩死了，装进一种小型盒子里埋入土中，叫做纳函子。比喻顽皮的小孩。这是骂小孩子的话。<sup>\[如东\]</sup>：你这个～。<sup>\[如东\]</sup>  
-1. 【[难不成](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naen_beh_chen.md#难不成)】`naen1 beh7 chen2` <sup>[泰州]</sup> 难道，用于反问：～你要我向他去低头，不能够！  
 1. 【[难板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naen_baen.md#难板)】`naen2 baen` <sup>[泰县]</sup> 难得：你～来。  
 1. 【[难般](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naen_baen.md#难般)】`naen2 baen` 难得<sup>\[泰州\]</sup>：你家儿子～休息，就让他多睏一刻儿。<sup>\[泰州\]</sup>｜他在新疆工作，～家来一趟。<sup>\[泰州\]</sup>  
 1. 【[难板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naen_baen.md#难板)】`naen2 baen3` <small>/lɛ̃2 pɛ̃3/<sup>兴化</sup></small> ① 难得 ② 难得：我不常上街，～遇到你。<sup>\[兴化\]</sup>  
 1. 【[难不着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naen_beh_chah.md#难不着)】`naen2 beh chah8` <sup>[泰县]</sup> 难道：～她一来，你就不怕吃酒啊啦？  
 1. 【[难不成](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naen_beh_chen.md#难不成)】`naen2 beh chen2` <sup>[兴化]</sup> 副词，相当于“难道”：吃了这么大的亏，～就罢了吗？｜“……店是姓云的店，～你就想拦着他不进来吗……”（《广陵潮》五）  
 1. 【[难不着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naen_beh_chah.md#难不着)】`naen2 beh7 chah8` <sup>[东台]</sup> 难道。也作“难不成”：你还乱吹，～人家不比你强？  
-1. 【[难不成](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naen_beh_chen.md#难不成)】`naen2 beh7 chen2` 难道  
+1. 【[难不成](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naen_beh_chen.md#难不成)】`naen2 beh7 chen2` ① 难道 ② 难道，用于反问<sup>\[泰州\]</sup>：～你要我向他去低头，不能够！<sup>\[泰州\]</sup>  
 1. 【[难缠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naen_chin.md#难缠)】`naen2 chin2` <sup>[兴化]</sup> 指人不好对付：老倪人倒不丑，就是他老婆～！  
 1. 【[难字](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naen_cz.md#难字)】`naen2 cz6` <sup>[兴化]</sup> （借）使人为难的事情：你有好事不挑人，总把～叫人写。  
 1. 【[难逢难易](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naen_fon_naen_i.md#难逢难易)】`naen2 fon2 naen2 i6` <sup>[泰县]</sup> 很不容易：你～的来一次，就多玩几天吧。  

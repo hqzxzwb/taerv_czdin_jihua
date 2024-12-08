@@ -16,8 +16,7 @@
 1. 【[期间<sub>儿</sub>窄料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_gaen_r_zheh_lio.md#期间<sub>儿</sub>窄料)】`qi1 gaen1 r zheh7 lio6` <sup>[东台]</sup> 为做某事准备的材料只在预算之间，没有一点余地，紧巴巴的：明天来客多，菜要多买些，不能弄得～的。  
 1. 【[期境](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_jien.md#期境)】`qi1 jien` <sup>[兴化]</sup> ① 局势：等外头～平定下来再出去吧！ ② 境况：你的～也不好，覅管我俫吧！  
 1. 【[欺不掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_beh_tio.md#欺不掉)】`qi1 beh7 tio6` <sup>[东台]</sup> 一般人比不上：忙菜～烹调学校毕业生。  
-1. 【[欺个薄个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_gu_ba_gu.md#欺个薄个)】`qi1 gu ba1 gu` <sup>[泰州]</sup> 待人不公：当领导的办事要公道，不能这样子～的。  
-1. 【[欺个薄个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_gu_pah_gu.md#欺个薄个)】`qi1 gu pah8 gu` <sup>[兴化]</sup> 待人不公平：搞评比要公平合理，不能～。  
+1. 【[欺个薄个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_gu_pah_gu.md#欺个薄个)】`qi1 gu pah8 gu` <small>/t͡ɕʰi1 ko pʰaʔ8 ko/<sup>兴化</sup></small> 待人不公平<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：搞评比要公平合理，不能～。<sup>\[兴化\]</sup>｜当领导的办事要公道，不能这样子～的。<sup>\[泰州\]</sup>  
 1. 【[欺客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_keh.md#欺客)】`qi1 keh7` <sup>[兴化]</sup> 怠慢或欺蒙顾客：“你这店主人好～，见我是个犯人，便不来采着……”（《水浒传》九）。｜谚曰：行大～，客大欺行。  
 1. 【[欺弱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_rah.md#欺弱)】`qi1 rah8` <sup>[如东]</sup> 欺负软弱。  
 1. 【[欺生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_shen.md#欺生)】`qi1 shen1` <sup>[东台]</sup> 排斥、欺负新来的人：你才去，人家有点儿～，马上就好啊。  

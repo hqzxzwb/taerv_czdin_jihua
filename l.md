@@ -2248,7 +2248,6 @@
 1. 【[摞橱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_chv.md#摞橱)】`lu6 chv2` <small>/lo6 t͡sʰu2/<sup>兴化</sup>, /lʊ1 t͡sʰu2/<sup>如皋</sup></small> ① 指旧式上下分节的衣橱。<sup>\[如皋\]</sup> ② 一种由二层或三层相叠的橱柜，对开橱门。门膛有雕花木板或玻璃镜面。<sup>\[兴化\]</sup> ③ 一种家具，两张或者三张矮橱叠成一张大橱。<sup>\[泰州\]</sup>  
 1. 【[摞摞扎扎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_lu_zhaeh_zhaeh.md#摞摞扎扎)】`lu6 lu6 zhaeh7 zhaeh7` <sup>[兴化]</sup> 把东西聚扰一起、拾掇整齐：把文件、书籍和笔记本～，准备家去度假。  
 1. 【[那块](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_kuae.md#那块)】`lu6 kuae5` 那里，那儿。<sup>\[泰州\]</sup>  
-1. 【[露天心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_tin_xien.md#露天心)】`lu6 tin1 xien1` <sup>[泰州]</sup> 露天，没有棚顶遮盖的地方：天再怎吖热，你也不能睡啊～里过夜啊。  
 1. 【[擂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/luei.md#擂)】`luei2` <sup>[如东]</sup> 磨擦：用绳子来回～，把木槽磨光滑。  
 1. 【[累堆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/luei_duei.md#累堆)】`luei2 duei` ① 人的体型臃肿粗笨的样子<sup>\[泰州\]</sup>：你望你～得这样子噢。<sup>\[泰州\]</sup> ② 物体臃肿笨重的样子<sup>\[泰州\]</sup>：这个沙发太～啊唻。<sup>\[泰州\]</sup> ③ 非常糟糕<sup>\[泰州\]</sup>：这件事捱你弄吖～啊唻。<sup>\[泰州\]</sup>  
 1. 【[累堆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/luei_duei.md#累堆)】`luei2 duei1` 累赘的，麻烦的，事物很费时间或者占据很大空间的。  
@@ -2432,7 +2431,7 @@
 1. 【[露天毛缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_tin_mo_gan.md#露天毛缸)】`lv6 tin1 mo2 gan1` <small>/lu1 tʰĩ1 mɔ2 kã1/<sup>如皋</sup></small> ① 大粪池。<sup>\[如皋\]</sup> ② 詈语。指私生活混乱的女人。<sup>\[如皋\]</sup> ③ 指性关系混乱的女性。<sup>\[如皋\]</sup>  
 1. 【[露天茅港](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_tin_mo_gan.md#露天茅港)】`lv6 tin1 mo2 gan3` <sup>[如皋]</sup> 见“搭搭上”。  
 1. 【[露天戏台](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_tin_xi_tae.md#露天戏台)】`lv6 tin1 xi5 tae2` <sup>[如东]</sup> 搭在广场上的戏台，一般用雨布做棚，遮阳遮雨。  
-1. 【[露天心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_tin_xien.md#露天心)】`lv6 tin1 xien1` <small>/lu6 tʰiɪ̃1 ɕin1/<sup>兴化</sup>, /nu1 tʰiɪ̃1 ɕiŋ1/<sup>泰县</sup></small> ① 指房屋外边的地方<sup>\[兴化\]</sup>：睡啊～里容易受凉。<sup>\[兴化\]</sup> ② 露天<sup>\[泰县\]</sup>：不要把伢儿站吖～里。<sup>\[泰县\]</sup>  
+1. 【[露天心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_tin_xien.md#露天心)】`lv6 tin1 xien1` <small>/lu6 tʰiɪ̃1 ɕin1/<sup>兴化</sup>, /nu1 tʰiɪ̃1 ɕiŋ1/<sup>泰县</sup></small> ① 指房屋外边的地方<sup>\[兴化\]</sup>：睡啊～里容易受凉。<sup>\[兴化\]</sup> ② 露天<sup>\[泰县\]</sup>：不要把伢儿站吖～里。<sup>\[泰县\]</sup> ③ 露天，没有棚顶遮盖的地方<sup>\[泰州\]</sup>：天再怎吖热，你也不能睡啊～里过夜啊。<sup>\[泰州\]</sup>  
 1. 【[露天心里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_tin_xien_lii.md#露天心里)】`lv6 tin1 xien1 lii` <sup>[如皋]</sup> 直接见天而无遮盖的地方。  
 1. 【[露相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_xian.md#露相)】`lv6 xian5` <sup>[兴化]</sup> 露出其面目：俗语｜真人不～。  
 1. 【[露星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_xien.md#露星)】`lv6 xien1` <sup>[如东]</sup> 旷野：睏吖在～里。  
