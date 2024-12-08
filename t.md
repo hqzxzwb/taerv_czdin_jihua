@@ -1450,8 +1450,7 @@
 1. 【[斢生意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_shen_i.md#斢生意)】`tio3 shen1 i` <sup>[如皋]</sup> 照顾、光顾生意。使对方获得生意。  
 1. 【[誂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio.md#誂)】`tio3` <sup>[泰州]</sup> 以言语挑动、离间他人：就是这个马马儿～得人家婆媳两个不和。  
 1. 【[誂祸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_hu.md#誂祸)】`tio3 hu6` <small>/tʰiɔ3 xʊ1/<sup>如皋</sup></small> ① 告诉，使受罚。<sup>\[如皋\]</sup> ② 背后说人坏话。<sup>\[如东\]</sup>：她又在～。<sup>\[如东\]</sup>  
-1. 【[誂祸精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_hu_jien.md#誂祸精)】`tio3 hu6 jien1` <sup>[如皋]</sup> 詈语。专会誂祸的人。  
-1. 【[誂祸精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_hu_jien.md#誂祸精)】`tio3 hu6 jien1` ① 专门搬弄是非的人。<sup>\[东台\]</sup> ② 喜欢在别人面前说人过错而挑拨别人关系的人。<sup>\[泰州\]</sup>  
+1. 【[誂祸精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_hu_jien.md#誂祸精)】`tio3 hu6 jien1` <small>/tʰiɔ3 xʊ1 t͡ɕiəŋ1/<sup>如皋</sup></small> ① 詈语。专会誂祸的人。<sup>\[如皋\]</sup> ② 专门搬弄是非的人。<sup>\[东台\]</sup> ③ 喜欢在别人面前说人过错而挑拨别人关系的人。<sup>\[泰州\]</sup>  
 1. 【[粜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio.md#粜)】`tio5` <sup>[如东]</sup> 出卖。给：～你一笔生意。  
 1. 【[跳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio.md#跳)】`tio5` <small>/tʰiɔ5/<sup>兴化</sup>, /tʰiɔ5/<sup>如皋</sup></small> ① 一种烹调法，略炒，快炒：把韭菜～下子。<sup>\[如皋\]</sup> ② （借）活动<sup>\[兴化\]</sup>：家里一大摊的事，就靠老大一个人～。<sup>\[兴化\]</sup>｜没得资金，你有再大的本领也～不起来。<sup>\[兴化\]</sup>  
 1. 【[跳板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_baen.md#跳板)】`tio5 baen3` <small>/tʰiɔ5 pɛ̃3/<sup>兴化</sup></small> ① 船与岸连接，便于人上下的长板。<sup>\[如东\]</sup> ② （借）为达某种目的，暂时借用的路子<sup>\[兴化\]</sup>：他利用谈恋爱，借未来丈人做～，求得步步高升。<sup>\[兴化\]</sup> ③ 供人上下船的长板。<sup>\[泰州\]</sup>  
@@ -1880,8 +1879,7 @@
 1. 【[驮不动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_beh_ton.md#驮不动)】`tu2 beh7 ton6` <sup>[东台]</sup> 吃不下。渔民避讳语。也是避讳吃的谐音七。  
 1. 【[驮龟<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_guei_r.md#驮龟<sub>儿</sub>)】`tu2 guei1 r` <sup>[如皋]</sup> ① 用背驮人。 ② 蛙交配。  
 1. 【[驮盐巴过河——越背越轻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_in_ba_gu_hu_iuh_bei_iuh_qien.md#驮盐巴过河——越背越轻)】`tu2 in2 ba1 gu5 hu2 iuh8 bei1 iuh8 qien1` <sup>[东台]</sup>   
-1. 【[驮肩搭背](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_jin_daeh_bei.md#驮肩搭背)】`tu2 jin1 daeh7 bei5` <small>/tʰo2 t͡ɕiɪ̃1 tæʔ7 pəi5/<sup>兴化</sup>, /tʰʊ2 t͡ɕĩ1 teʔ7 pei5/<sup>如皋</sup></small> ① 贬指以肢、体相互勾结的样子<sup>\[如皋\]</sup>：两个伢儿一头跑一头～的，没得个走相。<sup>\[如皋\]</sup> ② 见“勾肩搭背”。<sup>\[兴化\]</sup>  
-1. 【[驮肩搭背](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_jin_daeh_bei.md#驮肩搭背)】`tu2 jin1 daeh7 bei5` <small>/tʰo2 t͡ɕiɪ̃1 tæʔ7 pəi5/<sup>兴化</sup></small> ① 行路时，一人搂着另一人的肩<sup>\[兴化\]</sup>：（两个人）拿了个纸捻子点着，～下楼。（《武松》二）<sup>\[兴化\]</sup> ② 手臂贴着他人背部搭于他人肩上<sup>\[泰州\]</sup>：前栋有人，你把手拿啊来吧，～的，被人家望见吖，像个甚的样子。<sup>\[泰州\]</sup>  
+1. 【[驮肩搭背](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_jin_daeh_bei.md#驮肩搭背)】`tu2 jin1 daeh7 bei5` <small>/tʰo2 t͡ɕiɪ̃1 tæʔ7 pəi5/<sup>兴化</sup>, /tʰʊ2 t͡ɕĩ1 teʔ7 pei5/<sup>如皋</sup></small> ① 贬指以肢、体相互勾结的样子<sup>\[如皋\]</sup>：两个伢儿一头跑一头～的，没得个走相。<sup>\[如皋\]</sup> ② 见“勾肩搭背”。<sup>\[兴化\]</sup> ③ 行路时，一人搂着另一人的肩<sup>\[兴化\]</sup>：（两个人）拿了个纸捻子点着，～下楼。（《武松》二）<sup>\[兴化\]</sup> ④ 手臂贴着他人背部搭于他人肩上<sup>\[泰州\]</sup>：前栋有人，你把手拿啊来吧，～的，被人家望见吖，像个甚的样子。<sup>\[泰州\]</sup>  
 1. 【[驮肩搁背](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_jin_gah_bei.md#驮肩搁背)】`tu2 jin1 gah7 bei5` <sup>[东台]</sup> 勾肩搭背，很亲昵的样子。  
 1. 【[驮老虎害人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_lo_hv_hae_ren.md#驮老虎害人)】`tu2 lo3 hv3 hae6 ren2` <sup>[兴化]</sup> （喻）引进坏人招来灾祸：这个张大妈，把个痞子惹来，简直～。  
 1. 【[驮卖卖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_mae_mae.md#驮卖卖)】`tu2 mae6 mae6` <sup>[东台]</sup> 大人背幼儿时说的逗乐的话。也作“驮驮卖卖”。  

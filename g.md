@@ -772,8 +772,7 @@
 1. 【[高脚牌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_jiah_pae.md#高脚牌)】`go1 jiah7 pae2` <small>/kɔ1 t͡ɕiaʔ7 pʰɛ2/<sup>兴化</sup></small> ① 戏称高个子女人。<sup>\[东台\]</sup> ② 旧时官府张贴告示用的木牌，下端有长柄<sup>\[兴化\]</sup>：这一边校场上，有人扛着～，敲着钢锣，～上贴着一张犯由单……（扬一《扬州劫法场》）<sup>\[兴化\]</sup> ③ （喻）义高又瘦的人。<sup>\[兴化\]</sup>  
 1. 【[高劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_jien.md#高劲)】`go1 jien5` <sup>[泰县]</sup> 高兴：～我今朝就到你家去。  
 1. 【[高楼的电梯——能上能下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_leu_dii_din_ti_nen_shan_nen_ha.md#高楼的电梯——能上能下)】`go1 leu2 dii din5 ti1 nen2 shan6 nen2 ha6` <sup>[东台]</sup>   
-1. 【[高丽布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_li_bv.md#高丽布)】`go1 li bv5` <sup>[如皋]</sup> 木机织的有小隐格而无毛的手巾。由高丽国传入。  
-1. 【[高丽布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_li_bv.md#高丽布)】`go1 li bv5` <small>/kɔ1 ləi pu5/<sup>兴化</sup></small> ① 一种棉麻混纺的窄幅布，常用来做手巾<sup>\[兴化\]</sup>：～手巾。<sup>\[兴化\]</sup> ② 一种窄幅棉麻混纺的布，最初产于高丽而得名。<sup>\[泰州\]</sup>  
+1. 【[高丽布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_li_bv.md#高丽布)】`go1 li bv5` <small>/kɔ1 ləi pu5/<sup>兴化</sup>, /kɔ1 lʝ pu5/<sup>如皋</sup></small> ① 木机织的有小隐格而无毛的手巾。由高丽国传入。<sup>\[如皋\]</sup> ② 一种棉麻混纺的窄幅布，常用来做手巾<sup>\[兴化\]</sup>：～手巾。<sup>\[兴化\]</sup> ③ 一种窄幅棉麻混纺的布，最初产于高丽而得名。<sup>\[泰州\]</sup>  
 1. 【[高利贷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_li_tae.md#高利贷)】`go1 li6 tae6` <sup>[如东]</sup> 索取特别高额利息的贷款。  
 1. 【[高梁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_lian.md#高梁)】`go1 lian2` <sup>[如东]</sup> 禾本科植物蜀黍，一年生草本。  
 1. 【[高梁苗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_lian_mio_zz.md#高梁苗子)】`go1 lian2 mio2 zz` <sup>[如皋]</sup> 高梁秸顶节。用以扎笤帚等。  

@@ -377,8 +377,7 @@
 1. 【[瓦松](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_son.md#瓦松)】`va3 son1` <sup>[如东]</sup> 景天科植物瓦松，也叫瓦花，多年生肉质草本。高约40厘米。茎略斜伸，全体粉绿色。茎叶线形至倒披针形。伞房状圆锥花序。花紫红色。蓇葖果。  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va.md#□)】`va5` <sup>[如皋]</sup> 我、我家。如皋西南乡音。  
 1. 【[凹坎<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_kun_r.md#凹坎<sub>儿</sub>)】`va5 kun3 r` <small>/ʋa5 kʰʊ˞3/<sup>如皋</sup></small> ① 河坡在水面以下的凹处。<sup>\[如皋\]</sup> ② 河坡的塌凹处。<sup>\[如皋\]</sup>  
-1. 【[凹塘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_tan_r.md#凹塘<sub>儿</sub>)】`va5 tan2 r` <sup>[如皋]</sup> 小的凹陷处：桌面子有个～。  
-1. 【[凹塘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_tan_r.md#凹塘<sub>儿</sub>)】`va5 tan2 r` ① 低凹的地方。<sup>\[如东\]</sup> ② 泛指地面上的小的低洼之处。<sup>\[泰州\]</sup>  
+1. 【[凹塘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_tan_r.md#凹塘<sub>儿</sub>)】`va5 tan2 r` <small>/ʋa5 tʰa˞2/<sup>如皋</sup></small> ① 小的凹陷处<sup>\[如皋\]</sup>：桌面子有个～。<sup>\[如皋\]</sup> ② 低凹的地方。<sup>\[如东\]</sup> ③ 泛指地面上的小的低洼之处。<sup>\[泰州\]</sup>  
 1. 【[洼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va.md#洼)】`va5` ① 凹陷 ② 比较浅的水塘，叫做洼。<sup>\[如东\]</sup> ③ 地势较低，相对于高而言。<sup>\[东台\]</sup>  
 1. 【[划](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va.md#划)】`va6` <sup>[如皋]</sup> 繁体“劃”。切割：～玻璃；手捱瓦瓷～下来呀，则将冒血。  
 1. 【[画二涂二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_er_tv_er.md#画二涂二)】`va6 er6 tv2 er6` <sup>[如皋]</sup> 乱涂乱搨，卷面不清：他写字～的，一点儿不认真。  

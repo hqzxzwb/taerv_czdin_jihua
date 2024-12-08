@@ -1511,8 +1511,7 @@
 1. 【[斗拐<sub>儿</sub>方桌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_guae_r_fan_zhuah.md#斗拐<sub>儿</sub>方桌)】`deu5 guae3 r fan1 zhuah7` <sup>[东台]</sup> 一种木质坚硬，连接桌面和四条腿部位雕刻工艺比较复杂的正方形桌子。  
 1. 【[斗拐桌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_guae_zhuah_zz.md#斗拐桌子)】`deu5 guae3 zhuah7 zz` <sup>[兴化]</sup> 方桌的一种款式，四条腿上部的外侧（拐子）斗成八个小方格，故名。  
 1. 【[斗鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_ji.md#斗鸡)】`deu5 ji1` ① 一只脚站立，另一条腿弯曲，用手捧住脚，彼此用膝盖互相冲撞的一种游戏。<sup>\[东台\]</sup> ② 一种男孩游戏，一腿直立，一腿抬起弯曲、膝盖朝前成锐角形，一手抓住弯曲腿的脚部上捧，一手抓住弯曲腿的大腿部位裤子上提，双方各以直立单腿跳行向前冲击，并用弯曲腿的膝盖猛顶对方，被顶倒在地的为输。<sup>\[泰州\]</sup>  
-1. 【[斗鸡眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_ji_ngaen.md#斗鸡眼)】`deu5 ji1 ngaen3` <sup>[如皋]</sup> 眼球内斜。  
-1. 【[斗鸡眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_ji_ngaen.md#斗鸡眼)】`deu5 ji1 ngaen3` <small>/tɤ5 t͡ɕi1 ɛ̃3/<sup>兴化</sup></small> ① 见“对对眼”。<sup>\[东台\]</sup> ② 内斜视的俗称。<sup>\[兴化\]</sup> ③ 眼球注视物体时向内侧斜视。<sup>\[泰州\]</sup>  
+1. 【[斗鸡眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_ji_ngaen.md#斗鸡眼)】`deu5 ji1 ngaen3` <small>/tɤ5 t͡ɕi1 ɛ̃3/<sup>兴化</sup>, /tei5 t͡ɕʝ1 ŋẽ3/<sup>如皋</sup></small> ① 眼球内斜。<sup>\[如皋\]</sup> ② 见“对对眼”。<sup>\[东台\]</sup> ③ 内斜视的俗称。<sup>\[兴化\]</sup> ④ 眼球注视物体时向内侧斜视。<sup>\[泰州\]</sup>  
 1. 【[斗交易](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_jio_i.md#斗交易)】`deu5 jio1 i` <sup>[东台]</sup> 主动找人谈生意。  
 1. 【[斗嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_jy.md#斗嘴)】`deu5 jy3` <sup>[泰县]</sup> 争吵。  
 1. 【[斗卯眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_mo_ngaen.md#斗卯眼)】`deu5 mo3 ngaen3` <sup>[兴化]</sup> ① 把榫头和眼相接起来。 ② （喻）说的话与事实相符：他说得～，没错。  
@@ -1791,8 +1790,7 @@
 1. 【[跌跌跄跄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dih_dih_qian_qian.md#跌跌跄跄)】`dih7 dih7 qian5 qian5` <sup>[兴化]</sup> 形容被推搡而站立或行不稳的样子：那些站闲的人捱他挤得～的。｜全班弟兄～，前推后撞地站住了。（艾煊《乡关何处》）  
 1. 【[跌倒抓把泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dih_do_zhua_ba_ni.md#跌倒抓把泥)】`dih7 do3 zhua1 ba3 ni2` <sup>[东台]</sup> 极其勤俭，不放过任何机会。  
 1. 【[跌咖个大元宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dih_ga_gu_da_iun_bo.md#跌咖个大元宝)】`dih7 ga gu da6 iun2 bo3` <sup>[如皋]</sup> 谑指小孩跌跤。  
-1. 【[跌跟头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dih_gen_teu.md#跌跟头)】`dih7 gen1 teu` <sup>[如皋]</sup> 摔倒。  
-1. 【[跌跟头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dih_gen_teu.md#跌跟头)】`dih7 gen1 teu` <small>/tiɪʔ7 kən1 tʰɤ/<sup>兴化</sup></small> ① 摔倒。<sup>\[如东\]</sup> ② （喻）犯错误或受挫折<sup>\[兴化\]</sup>：他原是市里领导干部，在财色上～捱处理的。<sup>\[兴化\]</sup> ③ 走路时（被物绊脚等）突然倒下。<sup>\[泰州\]</sup> ④ 比喻因犯错误而受挫折<sup>\[泰州\]</sup>：他这回子～跌咖大啊唻，职务降吖三级。<sup>\[泰州\]</sup>  
+1. 【[跌跟头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dih_gen_teu.md#跌跟头)】`dih7 gen1 teu` <small>/tiɪʔ7 kən1 tʰɤ/<sup>兴化</sup>, /tiʔ7 kəŋ1 tʰei/<sup>如皋</sup></small> ① 摔倒。<sup>\[如皋\]</sup><sup>\[如东\]</sup> ② （喻）犯错误或受挫折<sup>\[兴化\]</sup>：他原是市里领导干部，在财色上～捱处理的。<sup>\[兴化\]</sup> ③ 走路时（被物绊脚等）突然倒下。<sup>\[泰州\]</sup> ④ 比喻因犯错误而受挫折<sup>\[泰州\]</sup>：他这回子～跌咖大啊唻，职务降吖三级。<sup>\[泰州\]</sup>  
 1. 【[跌元宝跟头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dih_iun_bo_gen_teu.md#跌元宝跟头)】`dih7 iun2 bo3 gen1 teu2` <sup>[如皋]</sup> ① 跌倒时背着地，头、足翘起的样子。 ② 春节间跌跤的避讳称。  
 1. 【[跌圆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dih_iun_zz.md#跌圆子)】`dih7 iun2 zz` <sup>[如东]</sup> 一种加工食品的方法。把馅儿做好，放在盘篮中跌滚一层糯米屑，取出洒水，再跌滚，如此再三，形成圆子。  
 1. 【[跌价](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dih_jia.md#跌价)】`dih7 jia5` ① 物价下降。<sup>\[如东\]</sup>：今朝的虾儿又跌咖价。<sup>\[如东\]</sup> ② 降价；削价<sup>\[东台\]</sup>：老百姓希望房地产～。<sup>\[东台\]</sup>  
@@ -2080,9 +2078,7 @@
 1. 【[捣噊噊<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_jyeh_jyeh_r.md#捣噊噊<sub>儿</sub>)】`do3 jyeh7 jyeh7 r` <sup>[如皋]</sup> 见“捣鬼”。  
 1. 【[捣老实拳头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_lo_sheh_qiun_teu.md#捣老实拳头)】`do3 lo3 sheh7 qiun2 teu` <sup>[东台]</sup> ［喻］实打实，不玩花招。  
 1. 【[捣乱死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_lun_sz.md#捣乱死)】`do3 lun6 sz3` <sup>[如东]</sup> 调皮捣蛋的孩子。  
-1. 【[捣马叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_ma_cha.md#捣马叉)】`do3 ma3 cha1` <sup>[东台]</sup> ［喻］全部受损了，完了。  
-1. 【[捣马叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_ma_cha.md#捣马叉)】`do3 ma3 cha1` <sup>[泰县]</sup> （禁忌语）坏蛋。  
-1. 【[捣马叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_ma_cha.md#捣马叉)】`do3 ma3 cha1` <small>/tɔ3 ma3 t͡sʰa1/<sup>兴化</sup></small> ① 骂人被鬼用马叉戳了。也说“戳马叉”。<sup>\[兴化\]</sup> ② 詈词，不上规矩的人<sup>\[泰州\]</sup>：你这个～又跑啊哪块去的啊，块块找不到你。<sup>\[泰州\]</sup> ③ 字迹歪歪扭扭<sup>\[泰州\]</sup>：你这个～的字，哪个认得出来噢。<sup>\[泰州\]</sup>  
+1. 【[捣马叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_ma_cha.md#捣马叉)】`do3 ma3 cha1` <small>/tɔ3 ma3 t͡sʰa1/<sup>兴化</sup>, /tɔ3 ma3 t͡sʰa1/<sup>泰县</sup></small> ① ［喻］全部受损了，完了。<sup>\[东台\]</sup> ② （禁忌语）坏蛋。<sup>\[泰县\]</sup> ③ 骂人被鬼用马叉戳了。也说“戳马叉”。<sup>\[兴化\]</sup> ④ 詈词，不上规矩的人<sup>\[泰州\]</sup>：你这个～又跑啊哪块去的啊，块块找不到你。<sup>\[泰州\]</sup> ⑤ 字迹歪歪扭扭<sup>\[泰州\]</sup>：你这个～的字，哪个认得出来噢。<sup>\[泰州\]</sup>  
 1. 【[捣冒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_mo.md#捣冒)】`do3 mo` <sup>[东台]</sup> 捣鼓、试探的意思：新手机经他～摸～摸，功能都掌握了。  
 1. 【[捣猛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_mon_zz.md#捣猛子)】`do3 mon3 zz` <small>/tɔ3 moŋ3 t͡sɿ/<sup>兴化</sup>, /tɔ3 mɔŋ3 t͡sɿ/<sup>如皋</sup>, /tɔ3 moŋ3 t͡se/<sup>泰县</sup></small> ① 潜泳。<sup>\[如皋\]</sup> ② 游泳时头朝下钻入水中潜泳。也称“扎猛子”“拱猛子”。<sup>\[兴化\]</sup> ③ 潜水。<sup>\[泰县\]</sup> ④ 头向下，脚在上垂直潜向水底深处。<sup>\[泰州\]</sup>  
 1. 【[捣斜杠子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_qia_gan_zz.md#捣斜杠子)】`do3 qia2 gan5 zz` <sup>[东台]</sup> 故意节外生枝，捣乱。  
@@ -2245,8 +2241,7 @@
 1. 【[冻疮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_chuan.md#冻疮)】`don5 chuan1` <sup>[如东]</sup> 因为寒冷，皮肤局部组织血液循环障碍而发生溃烂，称冻疮。  
 1. 【[冻疮子<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_chuan_zz_r.md#冻疮子<sub>儿</sub>)】`don5 chuan1 zz3 r` <sup>[如东]</sup> 因为寒冷，皮肤局部组织血液循环障碍而出现红肿，尚未溃烂，称冻疮子儿。  
 1. 【[冻疮籽<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_chuan_zz_r.md#冻疮籽<sub>儿</sub>)】`don5 chuan1 zz3 r` <sup>[如皋]</sup> 冻伤处有小硬块，尤以身体回暖时痛、痒难受。  
-1. 【[冻冻钉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_don_dien_r.md#冻冻钉<sub>儿</sub>)】`don5 don5 dien1 r` <sup>[如皋]</sup> ① 向下挂的冰柱：老爹的胡子上挂～；檐头上挂～。 ② 见“凌凙”。  
-1. 【[冻冻钉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_don_dien_r.md#冻冻钉<sub>儿</sub>)】`don5 don5 dien1 r` <small>/toŋ5 toŋ5 tiɪ̃1 ɚ/<sup>兴化</sup>, /toŋ5 toŋ5 tiŋ1 ɚ/<sup>泰县</sup></small> ① 冬天雨、雪水沿屋檐下滴凝结成椎状冰柱，也称冰凌。<sup>\[东台\]</sup> ② 融雪时屋檐滴水结成的冰凌<sup>\[兴化\]</sup>：腊月二十九日，雪后初晴，银光耀眼，屋檐下的～，促使……（兴文《误走盐城》）》<sup>\[兴化\]</sup> ③ 冰锥儿。<sup>\[泰县\]</sup> ④ 冬季屋檐下凝结成的冰凌。<sup>\[泰州\]</sup>  
+1. 【[冻冻钉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_don_dien_r.md#冻冻钉<sub>儿</sub>)】`don5 don5 dien1 r` <small>/toŋ5 toŋ5 tiɪ̃1 ɚ/<sup>兴化</sup>, /tɔŋ5 tɔŋ5 tiə˞1/<sup>如皋</sup>, /toŋ5 toŋ5 tiŋ1 ɚ/<sup>泰县</sup></small> ① 向下挂的冰柱\[如皋：见“凌凙”。\]：老爹的胡子上挂～；檐头上挂～。<sup>\[如皋\]</sup> ② 冬天雨、雪水沿屋檐下滴凝结成椎状冰柱，也称冰凌。<sup>\[东台\]</sup> ③ 融雪时屋檐滴水结成的冰凌<sup>\[兴化\]</sup>：腊月二十九日，雪后初晴，银光耀眼，屋檐下的～，促使……（兴文《误走盐城》）》<sup>\[兴化\]</sup> ④ 冰锥儿。<sup>\[泰县\]</sup> ⑤ 冬季屋檐下凝结成的冰凌。<sup>\[泰州\]</sup>  
 1. 【[冻冻青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_don_qien.md#冻冻青)】`don5 don5 qien1` <sup>[兴化]</sup> 冬青树。  
 1. 【[冻冻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_don_zz.md#冻冻子)】`don5 don5 zz` <sup>[兴化]</sup> 一种黏稠的液体：屙红白～（痢疾）。  
 1. 【[冻耳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_er.md#冻耳)】`don5 er3` <sup>[如皋]</sup> 熟猪耳冷冻成型，切块装盘冷食。  

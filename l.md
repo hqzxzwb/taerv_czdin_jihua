@@ -456,8 +456,7 @@
 1. 【[览花嘴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_hua_jy_r.md#览花嘴<sub>儿</sub>)】`laen3 hua1 jy3 r` <sup>[如东]</sup> ① 形容嘴宽而大。 ② 比喻堤岸上出现豁口：海堤上出现吖一个～。  
 1. 【[览怀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_huae.md#览怀)】`laen3 huae2` <sup>[如东]</sup> 胸前的衣服张开来。  
 1. 【[滥笔头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_bieh_teu_zz.md#滥笔头子)】`laen6 bieh7 teu2 zz` <sup>[兴化]</sup> 喜欢写写画画的人：我是个～，看到、想到就写下来，自娱自乐。  
-1. 【[滥好人/烂好人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ho_ren.md#滥好人/烂好人)】`laen6 ho3 ren2` <small>/lẽ1 xɔ3 ɻəŋ2/<sup>如皋</sup></small> ① 指乐于助人的人，贬指玲珑讨好的人。<sup>\[如皋\]</sup> ② 无原则地帮别人忙的人<sup>\[东台\]</sup>：好事要做，但要坚持原则，不能当～。<sup>\[东台\]</sup>  
-1. 【[滥好人/烂好人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ho_ren.md#滥好人/烂好人)】`laen6 ho3 ren2` <small>/lɛ̃6 xɔ3 lən2/<sup>兴化</sup></small> ① 指与人为善，乐于助人的人<sup>\[兴化\]</sup>：老吴是个～，有事找他一定背帮忙。<sup>\[兴化\]</sup> ② 不讲原则的厚道人。<sup>\[泰州\]</sup>  
+1. 【[滥好人/烂好人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ho_ren.md#滥好人/烂好人)】`laen6 ho3 ren2` <small>/lɛ̃6 xɔ3 lən2/<sup>兴化</sup>, /lẽ1 xɔ3 ɻəŋ2/<sup>如皋</sup></small> ① 指乐于助人的人，贬指玲珑讨好的人。<sup>\[如皋\]</sup> ② 无原则地帮别人忙的人<sup>\[东台\]</sup>：好事要做，但要坚持原则，不能当～。<sup>\[东台\]</sup> ③ 指与人为善，乐于助人的人<sup>\[兴化\]</sup>：老吴是个～，有事找他一定背帮忙。<sup>\[兴化\]</sup> ④ 不讲原则的厚道人。<sup>\[泰州\]</sup>  
 1. 【[滥货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_hu.md#滥货)】`laen6 hu5` <small>/lẽ1 xʊ5/<sup>如皋</sup>, /nɛ̃1 xo5/<sup>泰县</sup></small> ① 詈语，指下流女人。<sup>\[如皋\]</sup> ② 作风不正的女人。<sup>\[泰县\]</sup>  
 1. 【[滥义<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_i_r.md#滥义<sub>儿</sub>)】`laen6 i6 r` <sup>[如皋]</sup> 见“滥好人”。  
 1. 【[滥烟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_in.md#滥烟)】`laen6 in1` 吸烟没有节制的人<sup>\[泰州\]</sup>：他这个～一天要抽两包烟。<sup>\[泰州\]</sup>  
@@ -1596,8 +1595,7 @@
 1. 【[痨病鬼<sub>儿</sub>开药店——半吃半卖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_pien_guei_r_kae_iah_din_bun_qieh_bun_mae.md#痨病鬼<sub>儿</sub>开药店——半吃半卖)】`lo2 pien6 guei3 r kae1 iah8 din5 bun5 qieh7 bun5 mae6` <sup>[东台]</sup>   
 1. 【[痨生子<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_shen_zz_r.md#痨生子<sub>儿</sub>)】`lo2 shen1 zz3 r` <sup>[如东]</sup> ① 身体瘦弱的人。 ② 比喻不好的东西：这个是甚的～？  
 1. 【[痨蛋子<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_taen_zz_r.md#痨蛋子<sub>儿</sub>)】`lo2 taen6 zz3 r` <sup>[如东]</sup> 身体瘦弱的人。  
-1. 【[痨豆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_teu_r.md#痨豆<sub>儿</sub>)】`lo2 teu6 r` <sup>[泰县]</sup> 长不高的人。  
-1. 【[痨豆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_teu_r.md#痨豆<sub>儿</sub>)】`lo2 teu6 r` <small>/lɔ2 tʰɤ6 ɚ/<sup>兴化</sup></small> ① 对小孩的戏称。 ② 形容发育不良，又瘦又小的人。见“痨礓子”。<sup>\[兴化\]</sup>  
+1. 【[痨豆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_teu_r.md#痨豆<sub>儿</sub>)】`lo2 teu6 r` <small>/lɔ2 tʰɤ6 ɚ/<sup>兴化</sup>, /nɔ2 tʰɤɯ1 ɚ/<sup>泰县</sup></small> ① 长不高的人。<sup>\[泰县\]</sup> ② 对小孩的戏称。 ③ 形容发育不良，又瘦又小的人。见“痨礓子”。<sup>\[兴化\]</sup>  
 1. 【[髝髞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_so.md#髝髞)】`lo2 so` 急躁<sup>\[泰州\]</sup>：他这个人～啊不得命，不管他的事情，他要问吖作甚的？<sup>\[泰州\]</sup>｜儿女大啊唻，他俫有他俫的想法，你替他俫～也没得半点用。<sup>\[泰州\]</sup>  
 1. 【[……佬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo.md#……佬)】`lo3` <sup>[东台]</sup> 称成年男子（含轻蔑意）：江北～｜乡巴～｜土～。  
 1. 【[……佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_r.md#……佬<sub>儿</sub>)】`lo3 r` <sup>[东台]</sup> 戏称或昵称成年男子，用在姓或名的最后一字后，相当于“爹”：张～｜贵～｜宝～。  
@@ -2152,8 +2150,7 @@
 1. 【[啰唣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_zo.md#啰唣)】`lu2 zo5` ① 吵闹骚扰<sup>\[泰州\]</sup>：妈妈岁数大啊，吃不消你俫～唻。<sup>\[泰州\]</sup> ② 内心烦躁不安的状态<sup>\[泰州\]</sup>：他这两天心里～得很，做事𠫓头落尾的。<sup>\[泰州\]</sup>  
 1. 【[箩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu.md#箩)】`lu2` <sup>[如东]</sup> 容器。竹篾或柳条编成，圆口方底，无盖，无环。体积较大。可盛谷物或其他物资。  
 1. 【[箩座](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_cu.md#箩座)】`lu2 cu6` <sup>[如东]</sup> 一种筛小麦屑的工具。木制，长方形，似柜。柜中搁置一张长方形的箩筛，将磨过的小麦放在里面，通过人工踩动踏板，拍打木桩，将小麦糏筛下来。  
-1. 【[箩底砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_di_zhun.md#箩底砖)】`lu2 di3 zhun1` <sup>[兴化]</sup> 正方形的黏土砖。  
-1. 【[箩底砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_di_zhun.md#箩底砖)】`lu2 di3 zhun1` <small>/lʊ2 tʝ3 t͡sʊ̃1/<sup>如皋</sup></small> ① 铺地大方砖，形如箩底。<sup>\[如皋\]</sup> ② 一种专门用于铺地的正方形砖头，边长30厘米左右，厚度小于墙砖，类似今日地面砖，大小似箩底，故名。<sup>\[泰州\]</sup>  
+1. 【[箩底砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_di_zhun.md#箩底砖)】`lu2 di3 zhun1` <small>/lo2 təi3 t͡sũ1/<sup>兴化</sup>, /lʊ2 tʝ3 t͡sʊ̃1/<sup>如皋</sup></small> ① 正方形的黏土砖。<sup>\[兴化\]</sup> ② 铺地大方砖，形如箩底。<sup>\[如皋\]</sup> ③ 一种专门用于铺地的正方形砖头，边长30厘米左右，厚度小于墙砖，类似今日地面砖，大小似箩底，故名。<sup>\[泰州\]</sup>  
 1. 【[箩方](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_fan.md#箩方)】`lu2 fan1` <sup>[如东]</sup> 一种方砖，形似箩底，一般用于铺设地面。  
 1. 【[箩脚行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_jiah_han.md#箩脚行)】`lu2 jiah7 han2` <sup>[如皋]</sup> 旧时的搬运业，主营挑担、抬杠、推车，兼收殡葬。  
 1. 【[箩筐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_kuan.md#箩筐)】`lu2 kuan1` <sup>[如东]</sup> 用柳条编成的筐。  
