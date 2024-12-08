@@ -23,8 +23,7 @@
 1. 【[屙屎拔茅针，一事两恰当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_shr_paeh_mo_zhen_ieh_shr_laen_kaeh_dan.md#屙屎拔茅针，一事两恰当)】`u1 shr3 paeh8 mo2 zhen1 ieh7 shr6 laen3 kaeh7 dan5` <sup>[如皋]</sup> 做好一件事，完成两项任务。  
 1. 【[屙屎捅节节<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_shr_ton_jih_jih_r.md#屙屎捅节节<sub>儿</sub>)】`u1 shr3 ton3 jih7 jih7 r` <sup>[如皋]</sup> 贬指压力下慢慢前进：他是～，你不压，他不动。  
 1. 【[屙尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_xy.md#屙尿)】`u1 xy1` 撒尿。<sup>\[如东\]</sup><sup>\[泰州\]</sup>  
-1. 【[屙奘屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_zhuan_shr.md#屙奘屎)】`u1 zhuan3 shr3` <small>/o1 t͡suaŋ3 sɿ3/<sup>兴化</sup></small> ① 讽喻小气鬼难得做了一件大方事<sup>\[东台\]</sup>：他挣（zhen5）吖半天，终于～，掏出500块钱埋啊单。<sup>\[东台\]</sup> ② 讽喻没有实力也想办大事<sup>\[东台\]</sup>：你没得钱，覅想～！<sup>\[东台\]</sup> ③ （讽）大出手<sup>\[兴化\]</sup>：这次老四～，拿出百块钱来请客。<sup>\[兴化\]</sup>  
-1. 【[屙奘屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_zhuan_shr.md#屙奘屎)】`u1 zhuan3 shr3` <sup>[泰州]</sup> 比喻小气人做了大方事：听说他昨朝是在金陵国际大酒店请的客，小气鬼这一回子为小伙的事也算是～唻。  
+1. 【[屙奘屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_zhuan_shr.md#屙奘屎)】`u1 zhuan3 shr3` <small>/o1 t͡suaŋ3 sɿ3/<sup>兴化</sup></small> ① 讽喻小气鬼难得做了一件大方事<sup>\[东台\]</sup>：他挣（zhen5）吖半天，终于～，掏出500块钱埋啊单。<sup>\[东台\]</sup> ② 讽喻没有实力也想办大事<sup>\[东台\]</sup>：你没得钱，覅想～！<sup>\[东台\]</sup> ③ （讽）大出手<sup>\[兴化\]</sup>：这次老四～，拿出百块钱来请客。<sup>\[兴化\]</sup> ④ 比喻小气人做了大方事<sup>\[泰州\]</sup>：听说他昨朝是在金陵国际大酒店请的客，小气鬼这一回子为小伙的事也算是～唻。<sup>\[泰州\]</sup>  
 1. 【[涴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u.md#涴)】`u1` <sup>[如皋]</sup> ① 借指错、糟及糊涂不清：记～账、说～话。做～事、事情发咖～。 ② 借指混水摸鱼、占有：钱总捱他～啊去啊｜他同你～，你同他～，大家並吖～，看哪个～得凶。  
 1. 【[涴啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_a.md#涴啊)】`u1 a` <sup>[如皋]</sup> 糟了。  
 1. 【[涴话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_hua.md#涴话)】`u1 hua6` <small>/ʊ1 xua1/<sup>如皋</sup>, /o1 xua1/<sup>泰县</sup></small> ① 反悔、推辞、不负责任的话。<sup>\[如皋\]</sup> ② 抵赖的话。<sup>\[泰县\]</sup>  
@@ -205,8 +204,7 @@
 1. 【[碗橱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_chv.md#碗橱)】`un3 chv2` <sup>[东台]</sup> 放置食具及饭菜的橱柜。  
 1. 【[碗底<sub>儿</sub>朝天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_di_r_cho_tin.md#碗底<sub>儿</sub>朝天)】`un3 di3 r cho2 tin1` <sup>[如皋]</sup> 吃光了，碗内已无食物。  
 1. 【[碗端户](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_dun_hv.md#碗端户)】`un3 dun1 hv6` <sup>[泰县]</sup> 家道稍好的人家  
-1. 【[碗里抓菱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_lii_zhua_lien.md#碗里抓菱)】`un3 lii zhua1 lien2` <sup>[兴化]</sup> 形容很容易办到的事情：这件事～，一句话。也说成“碗里抓泥”。  
-1. 【[碗里抓菱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_lii_zhua_lien.md#碗里抓菱)】`un3 lii zhua1 lien2` <sup>[泰州]</sup> 用手同时抓住在碗中的多只老菱，喻指看似很难、实际极易。菱生于河，菱实隐在菱叶之下且与花柄相连，人坐木盆之中翻开菱叶发现菱后，只能一只一只地摘，还要注意保持木盆平衡，以防止翻盆落水，故有此喻:同他调个工种，对你当厂长的来说，还不是～啊！  
+1. 【[碗里抓菱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_lii_zhua_lien.md#碗里抓菱)】`un3 lii zhua1 lien2` <small>/ũ3 ləi t͡sua1 liɪ̃2/<sup>兴化</sup></small> ① 形容很容易办到的事情\[兴化：也说成“碗里抓泥”。\]：这件事～，一句话。<sup>\[兴化\]</sup> ② 用手同时抓住在碗中的多只老菱，喻指看似很难、实际极易。菱生于河，菱实隐在菱叶之下且与花柄相连，人坐木盆之中翻开菱叶发现菱后，只能一只一只地摘，还要注意保持木盆平衡，以防止翻盆落水，故有此喻:同他调个工种，对你当厂长的来说，还不是～啊！<sup>\[泰州\]</sup>  
 1. 【[碗里抓泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_lii_zhua_ni.md#碗里抓泥)】`un3 lii zhua1 ni2` <sup>[兴化]</sup> 见“碗里抓菱”。  
 1. 【[碗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_r.md#碗<sub>儿</sub>)】`un3 r` <sup>[兴化]</sup> 外形像碗一样的东西，如抽屉把手：铜～。  
 1. 【[碗<sub>儿</sub>菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_r_cae.md#碗<sub>儿</sub>菜)】`un3 r cae5` <sup>[如皋]</sup> 席间碗装的菜。  

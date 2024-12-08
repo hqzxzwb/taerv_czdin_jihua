@@ -526,8 +526,7 @@
 1. 【[他](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta.md#他)】`ta1` <sup>[如东]</sup> 人称代词。代表“我”和“你”以外的第三者。  
 1. 【[他的根本，我的家乡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta_dii_gen_ben_ngu_dii_jia_xian.md#他的根本，我的家乡)】`ta1 dii gen1 ben3 ngu3 dii jia1 xian1` <sup>[东台]</sup> 喻指我对他的底细十分清楚。  
 1. 【[……他的皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta_dii_pi.md#……他的皮)】`ta1 dii pi2` <sup>[泰州]</sup> 用在动词后，表示发泄对第三者的强烈不满情绪：这小伙下回再同你老卵的话，就夯～。｜他要是还把车子停吖你家门口，挡住你的路，你就同我骂～。  
-1. 【[他的他](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta_dii_ta.md#他的他)】`ta1 dii ta1` <sup>[东台]</sup> 还是老样子。（也作“他对他”或“他的个他”）：对他教育一年效果不大，还是～！  
-1. 【[他的他](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta_dii_ta.md#他的他)】`ta1 dii ta1` <sup>[泰州]</sup> 他还是他，比喻没有发生变化：公司里换吖一个领导，还是～，一直到现在还不曾扭转亏损的局面。｜请吖个老师帮他补课，弄吖个把月，到临了成绩还是～。  
+1. 【[他的他](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta_dii_ta.md#他的他)】`ta1 dii ta1` ① 还是老样子。（也作“他对他”或“他的个他”）<sup>\[东台\]</sup>：对他教育一年效果不大，还是～！<sup>\[东台\]</sup> ② 他还是他，比喻没有发生变化<sup>\[泰州\]</sup>：公司里换吖一个领导，还是～，一直到现在还不曾扭转亏损的局面。<sup>\[泰州\]</sup>｜请吖个老师帮他补课，弄吖个把月，到临了成绩还是～。<sup>\[泰州\]</sup>  
 1. 【[他对他](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta_duei_ta.md#他对他)】`ta1 duei5 ta1` <sup>[兴化]</sup> ① 说明没有变化。（另见“他的他”）：谚曰：烧饼两块钱一个，还是～。 ② 两两相抵，无大差别：为省一张车票，送司机两包烟，～。  
 1. 【[他家家里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta_ga_ga_lii.md#他家家里)】`ta1 ga1 ga1 lii` <sup>[如皋]</sup> 他家里。  
 1. 【[他俫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta_lae.md#他俫)】`ta1 lae` <small>/tʰa1 lɛ/<sup>兴化</sup></small> ① 他们，第三人称复数 ② 他们。<sup>\[如东\]</sup> ③ 他们。<sup>\[东台\]</sup> ④ 代词，即他们。称自己和对方以外的若干人。<sup>\[兴化\]</sup>  
@@ -549,6 +548,8 @@
 1. 【[𢪯胡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_hv.md#𢪯胡)】`tae1 hv2` <sup>[如皋]</sup> 玉米棒头儿上吐出雌花蕊。  
 1. 【[𢪯胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_hv_zz.md#𢪯胡子)】`tae1 hv2 zz` <sup>[如东]</sup> 玉米吐雌蕊，叫做𢪯胡子。比喻工作还没有做完：～工程。  
 1. 【[𢪯手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_sheu.md#𢪯手)】`tae1 sheu3` <sup>[如东]</sup> 表示无可奈何，认输不干了：我～。  
+1. 【[台秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_chen.md#台秤)】`tae2 chen5` <sup>[兴化]</sup> 案秤。  
+1. 【[台容](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ion.md#台容)】`tae2 ion2` <sup>[兴化]</sup> （借）指人的模样：她这副～晚上出来还把人吓咖唻！  
 [更多...](./t.md)
 ## U
 1. 【[唩啰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_lu.md#唩啰)】`u lu` <sup>[如东]</sup> 呼狗声。  
@@ -573,14 +574,14 @@
 1. 【[屙屎拔茅针，一事两恰当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_shr_paeh_mo_zhen_ieh_shr_laen_kaeh_dan.md#屙屎拔茅针，一事两恰当)】`u1 shr3 paeh8 mo2 zhen1 ieh7 shr6 laen3 kaeh7 dan5` <sup>[如皋]</sup> 做好一件事，完成两项任务。  
 1. 【[屙屎捅节节<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_shr_ton_jih_jih_r.md#屙屎捅节节<sub>儿</sub>)】`u1 shr3 ton3 jih7 jih7 r` <sup>[如皋]</sup> 贬指压力下慢慢前进：他是～，你不压，他不动。  
 1. 【[屙尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_xy.md#屙尿)】`u1 xy1` 撒尿。<sup>\[如东\]</sup><sup>\[泰州\]</sup>  
-1. 【[屙奘屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_zhuan_shr.md#屙奘屎)】`u1 zhuan3 shr3` <small>/o1 t͡suaŋ3 sɿ3/<sup>兴化</sup></small> ① 讽喻小气鬼难得做了一件大方事<sup>\[东台\]</sup>：他挣（zhen5）吖半天，终于～，掏出500块钱埋啊单。<sup>\[东台\]</sup> ② 讽喻没有实力也想办大事<sup>\[东台\]</sup>：你没得钱，覅想～！<sup>\[东台\]</sup> ③ （讽）大出手<sup>\[兴化\]</sup>：这次老四～，拿出百块钱来请客。<sup>\[兴化\]</sup>  
-1. 【[屙奘屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_zhuan_shr.md#屙奘屎)】`u1 zhuan3 shr3` <sup>[泰州]</sup> 比喻小气人做了大方事：听说他昨朝是在金陵国际大酒店请的客，小气鬼这一回子为小伙的事也算是～唻。  
+1. 【[屙奘屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_zhuan_shr.md#屙奘屎)】`u1 zhuan3 shr3` <small>/o1 t͡suaŋ3 sɿ3/<sup>兴化</sup></small> ① 讽喻小气鬼难得做了一件大方事<sup>\[东台\]</sup>：他挣（zhen5）吖半天，终于～，掏出500块钱埋啊单。<sup>\[东台\]</sup> ② 讽喻没有实力也想办大事<sup>\[东台\]</sup>：你没得钱，覅想～！<sup>\[东台\]</sup> ③ （讽）大出手<sup>\[兴化\]</sup>：这次老四～，拿出百块钱来请客。<sup>\[兴化\]</sup> ④ 比喻小气人做了大方事<sup>\[泰州\]</sup>：听说他昨朝是在金陵国际大酒店请的客，小气鬼这一回子为小伙的事也算是～唻。<sup>\[泰州\]</sup>  
 1. 【[涴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u.md#涴)】`u1` <sup>[如皋]</sup> ① 借指错、糟及糊涂不清：记～账、说～话。做～事、事情发咖～。 ② 借指混水摸鱼、占有：钱总捱他～啊去啊｜他同你～，你同他～，大家並吖～，看哪个～得凶。  
 1. 【[涴啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_a.md#涴啊)】`u1 a` <sup>[如皋]</sup> 糟了。  
 1. 【[涴话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_hua.md#涴话)】`u1 hua6` <small>/ʊ1 xua1/<sup>如皋</sup>, /o1 xua1/<sup>泰县</sup></small> ① 反悔、推辞、不负责任的话。<sup>\[如皋\]</sup> ② 抵赖的话。<sup>\[泰县\]</sup>  
 1. 【[窝啊嘴里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_a_jy_lii.md#窝啊嘴里)】`u1 a jy3 lii` <sup>[东台]</sup> 形容某人说话支支吾吾，含混不清。  
 1. 【[窝啊尾子靠啊墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_a_vei_zz_ko_a_qian.md#窝啊尾子靠啊墙)】`u1 a vei3 zz ko5 a qian2` <sup>[东台]</sup> 像一条温顺的狗一样躲到墙角。喻指夹着尾巴做人，不要张扬，免得自找麻烦。  
 1. 【[窝边秀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_bin_xieu.md#窝边秀)】`u1 bin1 xieu5` <sup>[兴化]</sup> 腼腆，不善交际：“公关小姐难做。我是乡下人，～，很怕……”（马春阳《月朗和她的娘舅们》）也称“锅边秀”。  
+1. 【[窝巢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_cho.md#窝巢)】`u1 cho2` <sup>[兴化]</sup> ① 鸟兽楼息的地方：这是狗的～。 ② 坏人聚集隐匿或藏污纳垢的地方：大盗有几处～，镖局也是知道的。（《老残游记》七）｜他在城郊租间房子做～，和个坐台小姐同居。  
 [更多...](./u.md)
 ## V
 1. 【[捂嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_jy.md#捂嘴)】`v jy3` <sup>[如东]</sup> 用手把嘴遮住。  
