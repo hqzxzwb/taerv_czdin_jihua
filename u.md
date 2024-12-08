@@ -169,11 +169,10 @@
 1. 【[豌菜头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_cae_teu.md#豌菜头)】`un1 cae5 teu2` <sup>[东台]</sup> 豌豆最嫩的苗，冬春新鲜蔬菜之一。  
 1. 【[豌豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_teu.md#豌豆)】`un1 teu6` ① 豆科植物豌豆，一年生攀援草本。<sup>\[如东\]</sup> ② 豆名，一年生草本植物，接荚果，种子略呈球形，嫩叶、种子均可食用。<sup>\[泰州\]</sup>  
 1. 【[豌豆虫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_teu_chon_r.md#豌豆虫<sub>儿</sub>)】`un1 teu6 chon2 r` <sup>[泰州]</sup> 俗称“鼠妇”，体形椭圆，呈灰褐色或灰蓝色，栖于阴湿壁角，受惊则蜷身如豌豆，故名：花盆底下～爬爬的。  
-1. 【[豌豆头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_teu_eu_r.md#豌豆头<sub>儿</sub>)】`un1 teu6 eu2 r` <sup>[泰州]</sup> 豌豆植株蔓茎顶部嫩茎以及叶子，泰州人春季视线蔬菜之一。  
 1. 【[豌豆粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_teu_fen.md#豌豆粉)】`un1 teu6 fen3` <sup>[如东]</sup> 以豌豆为主要原料制成的粉丝，条细，色白，柔软，有韧性。  
 1. 【[豌豆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_teu_r.md#豌豆<sub>儿</sub>)】`un1 teu6 r` 豌豆  
 1. 【[豌豆<sub>儿</sub>虫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_teu_r_chon_zz.md#豌豆<sub>儿</sub>虫子)】`un1 teu6 r chon2 zz` <sup>[如皋]</sup> ① 鼠妇。 ② 豆象。  
-1. 【[豌豆头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_teu_teu_r.md#豌豆头<sub>儿</sub>)】`un1 teu6 teu2 r` <sup>[如皋]</sup> 豌豆的嫩茎叶，作蔬菜。  
+1. 【[豌豆头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_teu_teu_r.md#豌豆头<sub>儿</sub>)】`un1 teu6 teu2 r` <small>/ʊ̃1 tʰei1 tʰei˞2/<sup>如皋</sup></small> ① 豌豆的嫩茎叶，作蔬菜。<sup>\[如皋\]</sup> ② 豌豆植株蔓茎顶部嫩茎以及叶子，泰州人春季蔬菜之一。<sup>\[泰州\]</sup>  
 1. 【[豌豆心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_teu_xien.md#豌豆心)】`un1 teu6 xien1` <small>/õ1 tʰɤɯ1 ɕiŋ1/<sup>泰县</sup></small> ① 朝三暮四，心情多变，像豌豆一样滚动<sup>\[东台\]</sup>：这小伙才处得好好的姑娘又不谈吖，真是～。<sup>\[东台\]</sup> ② 意志不坚定的人：这个女伢儿是个～。<sup>\[泰县\]</sup>  
 1. 【[鹌鹑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_shuen.md#鹌鹑)】`un1 shuen2` <sup>[如东]</sup> 雉科动物鹌鹑，也叫草鸡儿，体长约16厘米。  
 1. 【[鹌鹑蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_shuen_taen.md#鹌鹑蛋)】`un1 shuen2 taen6` <sup>[如东]</sup> 鹌鹑生的蛋，个体较小。现在多为人工饲养的鹌鹑所生。  

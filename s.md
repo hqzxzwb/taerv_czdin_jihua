@@ -512,7 +512,6 @@
 1. 【[鲨鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_y.md#鲨鱼)】`sha1 y2` <sup>[如东]</sup> 皱唇鲨科白斑星鲨鱼，又名鲛鱼，体细长，长约60厘米。  
 1. 【[鲨鱼白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_y_poh.md#鲨鱼白)】`sha1 y2 poh8` <sup>[如东]</sup> 皱唇鲨科白斑星鲨鱼鳔。  
 1. 【[啥杲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_go_zz.md#啥杲子)】`sha2 go3 zz` <sup>[兴化]</sup> 什么东西：你手里拿的～？｜今朝吃～？  
-1. 【[舌㐁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_tin_zz.md#舌㐁子)】`sha2 tin5 zz` <sup>[泰州]</sup> 蛇的细而长的舌头。  
 1. 【[蛇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha.md#蛇)】`sha2` <sup>[如东]</sup> 爬行动物，身体圆而细长，有鳞，没有四肢。种类很多，有的有毒，有的无毒。吃食青蛙等小动物，大蛇也能吞食较大的兽类。  
 1. 【[蛇虫百脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_chon_boh_jiah.md#蛇虫百脚)】`sha2 chon2 boh7 jiah7` <small>/sa2 t͡sʰoŋ2 pɔʔ7 t͡ɕiaʔ7/<sup>兴化</sup></small> ① 泛指毒虫。<sup>\[如东\]</sup>：这个地方～的，细伢儿不要在这许耍子。<sup>\[如东\]</sup> ② 泛指各种毒虫。<sup>\[兴化\]</sup> ③ 泛指各种在地上爬行的毒蛇、毒虫<sup>\[泰州\]</sup>：夏天晚上在草窠里走，要当心蛇虫百脚！<sup>\[泰州\]</sup>  
 1. 【[蛇床子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_chuan_zz.md#蛇床子)】`sha2 chuan2 zz` <sup>[如东]</sup> 伞科植物蛇床，一年生草本。高约80厘米。茎直立，有纵棱。根生叶卵形，3回羽状分裂，裂片线状披针形。复伞形花序顶生或腋生。花白色。双悬果椭圆形。果实入中药。生长在草丛或田间、路旁。  
@@ -524,7 +523,7 @@
 1. 【[蛇蜃百脚的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_shen_boh_jiah_dii.md#蛇蜃百脚的)】`sha2 shen2 boh7 jiah7 dii` <sup>[如皋]</sup> 指毒虫之类。蜃，龙。  
 1. 【[蛇闪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_shin.md#蛇闪)】`sha2 shin3` <sup>[如皋]</sup> 闪电中心的闪光，形似游蛇。  
 1. 【[蛇头王](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_teu_van.md#蛇头王)】`sha2 teu2 van2` <sup>[如皋]</sup> 一枝黄花。  
-1. 【[蛇㐁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_tin_zz.md#蛇㐁子)】`sha2 tin5 zz` <small>/sa2 tʰiɪ̃5 t͡sɿ/<sup>兴化</sup>, /sa2 tʰĩ5 t͡sɿ/<sup>如皋</sup>, /sa2 tʰiɪ̃5 t͡se/<sup>泰县</sup></small> ① 蛇舌。<sup>\[如皋\]</sup> ② 蛇舌。也称蛇信子。<sup>\[如东\]</sup> ③ 比喻眼睛灵敏、眼光闪烁。<sup>\[如东\]</sup>：这个人的眼睛像～一样的。<sup>\[如东\]</sup> ④ 蛇舌的前分岔。㐁，《说文》舌貌。他念切。<sup>\[兴化\]</sup> ⑤ 蛇的舌头。<sup>\[泰县\]</sup> ⑥ 很毒的人：这个女的是个～。<sup>\[泰县\]</sup> ⑦ 快速：他的眼睛像～。<sup>\[泰县\]</sup>  
+1. 【[蛇㐁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_tin_zz.md#蛇㐁子)】`sha2 tin5 zz` <small>/sa2 tʰiɪ̃5 t͡sɿ/<sup>兴化</sup>, /sa2 tʰĩ5 t͡sɿ/<sup>如皋</sup>, /sa2 tʰiɪ̃5 t͡se/<sup>泰县</sup></small> ① 蛇舌。<sup>\[如皋\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>\[如东：也称蛇信子。\] ② 比喻眼睛灵敏、眼光闪烁。<sup>\[如东\]</sup>：这个人的眼睛像～一样的。<sup>\[如东\]</sup> ③ 蛇舌的前分岔。<sup>\[兴化\]</sup> ④ 很毒的人\[泰县：这个女的是个～。\] ⑤ 快速\[泰县：他的眼睛像～。\]  
 1. 【[蛇芋头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_y_teu.md#蛇芋头)】`sha2 y6 teu2` <sup>[如皋]</sup> 天南星。  
 1. 【[傻不拉叽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_beh_la_ji.md#傻不拉叽)】`sha3 beh7 la1 ji` <sup>[东台]</sup> 傻里傻气。  
 1. 【[傻里傻气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_lii_sha_qi.md#傻里傻气)】`sha3 lii sha3 qi5` <sup>[东台]</sup> 傻乎乎的样子。  
@@ -1099,8 +1098,8 @@
 1. 【[十姐妹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_ji_mei.md#十姐妹)】`sheh8 ji3 mei` <sup>[如皋]</sup> 白腰文鸟。鸟纲雀形目。喜群飞。  
 1. 【[十斤瓶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_jien_pien.md#十斤瓶)】`sheh8 jien1 pien2` <small>/səʔ8 t͡ɕiəŋ1 pʰiəŋ2/<sup>如皋</sup></small> ① 一种陶器。似坛子，上有口有盖，其周围有四耳，可系绳，并有一小嘴可以倒酒容量十市斤。现已不见。<sup>\[如皋\]</sup> ② 一种可容十市斤的高肩瓶形陶器，肩上有四个鼻子供串绳子，口颈部有小嘴子和小把子。<sup>\[如皋\]</sup>  
 1. 【[十来个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_lae_gu.md#十来个)】`sheh8 lae gu5` <sup>[如皋]</sup> 十个左右。  
+1. 【[十来块钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_lae_kuae_qin.md#十来块钱)】`sheh8 lae-laeh kuae5 qin2` <sup>[泰州]</sup> 约数，十几块钱，在十块与二十块之间：这件衣裳不贵，一件不过～，你拿个三五件，买家去送送人也是好的。  
 1. 【[十来天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_lae_tin.md#十来天)】`sheh8 lae tin1` <small>/səʔ8 lɛ tʰĩ1/<sup>如皋</sup></small> ① 约十天。<sup>\[如东\]</sup>：来去～。<sup>\[如东\]</sup> ② 十天左右。<sup>\[如皋\]</sup>  
-1. 【[十略块钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_laeh_kuae_qin.md#十略块钱)】`sheh8 laeh kuae5 qin2` <sup>[泰州]</sup> 约数，十几块钱，在十块与二十块之间。“略”是“来”的促化：这件衣裳不贵，一件不过～，你拿个三五件，买家去送送人也是好的。  
 1. 【[十瘌九刁，不瘌做强盗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_laeh_jieu_dio.md#十瘌九刁，不瘌做强盗)】`sheh8 laeh8 jieu3 dio1 beh7 laeh8 zu5 qian2 to` <sup>[泰兴]</sup> 粗俗的讥人语、不文明语。  
 1. 【[十两纹银——一锭（定）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_laen_ven_ien_ieh_dien.md#十两纹银——一锭（定）)】`sheh8 laen3 ven2 ien2 ieh7 dien5 （tien6）` <sup>[东台]</sup>   
 1. 【[十里不同风，百里不同俗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_li_beh_ton.md#十里不同风，百里不同俗)】`sheh8 li3 beh7 ton2 fon1 boh9 li3 beh7 ton2 soh8` <sup>[泰兴]</sup> 指各地的风俗习惯不尽相同。  
