@@ -588,8 +588,7 @@
 1. 【[乌八代](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_baeh_tae.md#乌八代)】`v1 baeh7 tae6` <sup>[泰县]</sup> 责任心很差。  
 1. 【[乌灯瞎火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_den_haeh_hu.md#乌灯瞎火)】`v1 den1 haeh7 hu3` <sup>[如皋]</sup> 见“乌灯熄火”。  
 1. 【[乌灯黑火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_den_heh_hu.md#乌灯黑火)】`v1 den1 heh7 hu3` <sup>[如皋]</sup> 见“乌灯熄火”。  
-1. 【[乌灯熄火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_den_xieh_hu.md#乌灯熄火)】`v1 den1 xieh7 hu3` <small>/u1 tən1 ɕiəʔ7 xo3/<sup>兴化</sup>, /ʋu1 təŋ1 ɕiəʔ7 xʊ3/<sup>如皋</sup>, /u1 təŋ1 ɕiɪʔ7 xo3/<sup>泰县</sup></small> ① 夜间，无一星灯火。<sup>\[如皋\]</sup> ② 没有灯火，一片黑暗。<sup>\[如东\]</sup>：往家里一望，～的。<sup>\[如东\]</sup> ③ 形容夜晚没有灯光，一片漆黑<sup>\[兴化\]</sup>：下啊晚自修，学校里到处～的。<sup>\[兴化\]</sup> ④ 黑灯瞎火。<sup>\[泰县\]</sup>  
-1. 【[乌灯熄火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_den_xieh_hu.md#乌灯熄火)】`v1 den1 xieh7 hu3` <sup>[泰州]</sup> 夜间照明灯火熄灭后的黑暗样子：晚上十点，学生宿舍里就～的唻。  
+1. 【[乌灯熄火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_den_xieh_hu.md#乌灯熄火)】`v1 den1 xieh7 hu3` <small>/u1 tən1 ɕiəʔ7 xo3/<sup>兴化</sup>, /ʋu1 təŋ1 ɕiəʔ7 xʊ3/<sup>如皋</sup>, /u1 təŋ1 ɕiɪʔ7 xo3/<sup>泰县</sup></small> ① 夜间，无一星灯火。<sup>\[如皋\]</sup> ② 没有灯火，一片黑暗。<sup>\[如东\]</sup>：往家里一望，～的。<sup>\[如东\]</sup> ③ 形容夜晚没有灯光，一片漆黑<sup>\[兴化\]</sup>：下啊晚自修，学校里到处～的。<sup>\[兴化\]</sup> ④ 黑灯瞎火。<sup>\[泰县\]</sup> ⑤ 夜间照明灯火熄灭后的黑暗样子<sup>\[泰州\]</sup>：晚上十点，学生宿舍里就～的唻。<sup>\[泰州\]</sup>  
 1. 【[乌风陡浪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_fon_deu_lan.md#乌风陡浪)】`v1 fon1 deu3 lan6` <sup>[东台]</sup> 形容暴风雨来到之前乌云翻滚狂风大作的气象。有时也喻指政治气候险恶。  
 1. 【[乌骨鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_gueh_ji.md#乌骨鸡)】`v1 gueh7 ji1` ① 雉科动物乌骨鸡，体躯短矮，头小，颈短，具肉冠。耳叶绿色，略呈紫蓝。遍体毛羽白色，除两翅毛羽外，全呈绒丝状。头上有一撮细毛突出。皮、肉、骨均为乌色。翅较短，飞翔力不强。饲养家禽。<sup>\[如东\]</sup> ② 鸡中良种，鸡爪、鸡肉、鸡骨均呈黑色，有药用价值。<sup>\[东台\]</sup>  
 1. 【[乌龟吼曲子——鳖（别）调](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_guei_heu_qioh_zz_bih_dio.md#乌龟吼曲子——鳖（别）调)】`v1 guei1 heu3 qioh7 zz bih7 dio5` <sup>[东台]</sup>   
@@ -606,6 +605,7 @@
 1. 【[乌黑的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_heh_dii.md#乌黑的)】`v1 heh7 dii` <sup>[如皋]</sup> ① 色彩很黑。 ② 没有光线，很暗。  
 1. 【[乌黑黑的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_heh_heh_dii.md#乌黑黑的)】`v1 heh7 heh7 dii` <sup>[如皋]</sup> 形容叶子黑而有光、有生机的样子：玉米叶子～。  
 1. 【[乌酣酣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_hun_hun.md#乌酣酣)】`v1 hun1 hun1` <sup>[兴化]</sup> 形容房屋鳞次栉比、树木葱笼，暗中透亮的景象：……英雄腹中饥馁，意欲打尖，抬头一望，只见前面～一座镇市（《武松》一）。太阳蒸在瓦房上～的，蒸在草房上黄腾腾的。（《武松》四）  
+1. 【[乌烟瘴气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_in_zhan_qi.md#乌烟瘴气)】`v1 in1 zhan5 qi5` <sup>[泰州]</sup> 人际环境污浊、秩序混乱的状态：好好的个公司，打他来当一把手以后，行贿收贿，买官卖官，拉帮结派，闹得～，现在连工资都不能按时发。  
 [更多...](./v.md)
 ## X
 1. 【[兮兮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xi.md#兮兮)】`xi1 xi1` <sup>[东台]</sup> 加在某些词后面，充当语气助词，表示“很”“太”的意思：神经～/脏～。  
