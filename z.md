@@ -1373,8 +1373,7 @@
 1. 【[致](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr.md#致)】`zhr5` <sup>[如皋]</sup> 得（后遗症）：坐月子～下来的讲究（病）难得好。  
 1. 【[致诚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_chen.md#致诚)】`zhr5 chen2` <sup>[如东]</sup> 老实，真心：老人家～。  
 1. 【[𢴠<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_r.md#𢴠<sub>儿</sub>)】`zhr5 r` <small>/t͡sɿ5 ɚ/<sup>兴化</sup>, /t͡sɿ˞5/<sup>如皋</sup></small> ① 等长标识物<sup>\[如皋\]</sup>：拿篾子掐个～去买锅子。<sup>\[如皋\]</sup> ② 表示长短的标志物<sup>\[兴化\]</sup>：草～。<sup>\[兴化\]</sup> ③ 在墙壁、河岸等处刻画表示高度、长度的记号或在器物上表示分量的符号。𢴠，《集韵·至韵》直利切，持物使相当也。通常写作“志儿”。<sup>\[兴化\]</sup>  
-1. 【[𤈜熬熬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ngo_ngo.md#𤈜熬熬)】`zhr5 ngo2 ngo2` <sup>[兴化]</sup> 形容炎热：太阳晒得～的。  
-1. 【[𤈜熬熬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ngo_ngo.md#𤈜熬熬)】`zhr5 ngo2 ngo2` <sup>[泰州]</sup> 夏天烈日暴晒带给人的炙烤油煎的感觉：太阳太毒，外头晒得～的，人吃不消。  
+1. 【[𤈜熬熬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ngo_ngo.md#𤈜熬熬)】`zhr5 ngo2 ngo2` <small>/t͡sɿ5 ɔ2 ɔ2/<sup>兴化</sup></small> ① 形容炎热<sup>\[兴化\]</sup>：太阳晒得～的。<sup>\[兴化\]</sup> ② 夏天烈日暴晒带给人的炙烤油煎的感觉<sup>\[泰州\]</sup>：太阳太毒，外头晒得～的，人吃不消。<sup>\[泰州\]</sup>  
 1. 【[𤈜熬熬的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ngo_ngo_dii.md#𤈜熬熬的)】`zhr5 ngo2 ngo2 dii` <sup>[东台]</sup> （词典作炙，反切不合）形容像受烘烤、熬煎一样热得难受，通常在句末作补语：大家捱太阳晒得～。  
 1. 【[抓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua.md#抓)】`zhua1` <sup>[泰州]</sup> 用指甲或带齿的东西在皮肤上划过：我背脊心有点儿痒，你同我～啊子。  
 1. 【[抓不上手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_beh_shan_sheu.md#抓不上手)】`zhua1 beh7 shan6 sheu3` <sup>[如皋]</sup> ① 不值得抓。 ② 难抓。  
@@ -1595,8 +1594,7 @@
 1. 【[砖头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_teu.md#砖头)】`zhun1 teu2` <sup>[如东]</sup> 种建筑材料。把黏土制成砖坯，多为长方形，放在窑中烧熟强度增加。一般实心，也有中间有孔的称空心砖。  
 1. 【[砖头佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_teu_lo_r.md#砖头佬<sub>儿</sub>)】`zhun1 teu2 lo3 r` <sup>[泰县]</sup> ① 断砖。 ② 为别人泄愤：你不能老是叫我去撂～。  
 1. 【[砖头瓦瓣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_teu_va_baen_r.md#砖头瓦瓣<sub>儿</sub>)】`zhun1 teu2 va3 baen5 r` <sup>[东台]</sup> 碎砖碎瓦等建筑垃圾。  
-1. 【[转场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_chan.md#转场)】`zhun3 chan3` <sup>[兴化]</sup> 暂停争执，使气氛缓和：你不要硬顶，转个场再说。｜你先回避一下，好让他有个～。  
-1. 【[转场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_chan.md#转场)】`zhun3 chan3` ① 戏曲演员转换演出场次。<sup>\[泰州\]</sup> ② 双方发生争执之时，一方暂时回避，等到气氛缓和以后再行商议<sup>\[泰州\]</sup>：你俫这样子吵法不行，老李你先转吖场，有话等一刻儿再说。<sup>\[泰州\]</sup>  
+1. 【[转场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_chan.md#转场)】`zhun3 chan3` <small>/t͡sũ3 t͡sʰaŋ3/<sup>兴化</sup></small> ① 暂停争执，使气氛缓和<sup>\[兴化\]</sup>：你不要硬顶，转个场再说。<sup>\[兴化\]</sup>｜你先回避一下，好让他有个～。<sup>\[兴化\]</sup> ② 戏曲演员转换演出场次。<sup>\[泰州\]</sup> ③ 双方发生争执之时，一方暂时回避，等到气氛缓和以后再行商议<sup>\[泰州\]</sup>：你俫这样子吵法不行，老李你先转吖场，有话等一刻儿再说。<sup>\[泰州\]</sup>  
 1. 【[转潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_cho.md#转潮)】`zhun3 cho2` <small>/t͡sũ3 t͡sʰɔ2/<sup>兴化</sup>, /t͡sʊ̃3 t͡sʰɔ2/<sup>如皋</sup></small> ① 空气湿度大，物体由干变䵑乃至潮湿。<sup>\[如皋\]</sup> ② 本来干燥的物品，吸收了空气中的水分，变潮湿了。<sup>\[东台\]</sup> ③ 由于空气湿度大，居室和物品沾有水汽<sup>\[兴化\]</sup>：你望，你父亲那件老夹袄今天～，水都快往下滴了。（兴文：《小癞子招驸马》）<sup>\[兴化\]</sup> ④ 因为空气湿度饱和，致使已干衣物沾有湿气<sup>\[泰州\]</sup>：最近这些时天天落雨，家里湿气大啊没得命，橱子里栋的衣裳都转潮唻。<sup>\[泰州\]</sup>  
 1. 【[转刀<sub>儿</sub>块子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_do_r_kuae_zz.md#转刀<sub>儿</sub>块子)】`zhun3 do1 r kuae5 zz` <sup>[如皋]</sup> 切一刀，转一下，切成有棱角的块子。  
 1. 【[转角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_gah.md#转角)】`zhun3 gah7` <sup>[东台]</sup> 拐弯处。  
@@ -1620,8 +1618,7 @@
 1. 【[转弯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_vaen.md#转弯)】`zhun3 vaen1` <sup>[东台]</sup> 指改变原先的主意。  
 1. 【[转性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_xien.md#转性)】`zhun3 xien5` <small>/t͡sũ3 ɕin5/<sup>兴化</sup>, /t͡sʊ̃3 ɕiəŋ5/<sup>如皋</sup></small> ① 天气将变坏。<sup>\[如皋\]</sup> ② 早春天气由晴渐暖而突变为阴冷：天又～吖。<sup>\[兴化\]</sup>  
 1. 【[转爪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_zho.md#转爪)】`zhun3 zho3` <sup>[如皋]</sup> 变化、转移、回旋：饭才吃的，肚里还不曾～，再吃是吃不下去；他正在胡说，我不放他～，当面白谎。  
-1. 【[转中转](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_zhon_zhun.md#转中转)】`zhun3 zhon1 zhun3` <sup>[兴化]</sup> 经过几次转手：这封台北来信，经过～隔头两个月才收到。  
-1. 【[转中转](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_zhon_zhun.md#转中转)】`zhun3 zhon1 zhun3` <sup>[泰州]</sup> 甲转交或专卖给乙，乙转交或专卖给丙，丙转交或者专门给丁：这封信～，过啊一个多月才到小王手上。｜两块钱一颗的药出咖厂，几个～，能卖到几十块。  
+1. 【[转中转](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_zhon_zhun.md#转中转)】`zhun3 zhon1 zhun3` <small>/t͡sũ3 t͡soŋ1 t͡sũ3/<sup>兴化</sup></small> ① 经过几次转手<sup>\[兴化\]</sup>：这封台北来信，经过～隔头两个月才收到。<sup>\[兴化\]</sup> ② 甲转交或专卖给乙，乙转交或专卖给丙，丙转交或者专门给丁<sup>\[泰州\]</sup>：这封信～，过啊一个多月才到小王手上。<sup>\[泰州\]</sup>｜两块钱一颗的药出咖厂，几个～，能卖到几十块。<sup>\[泰州\]</sup>  
 1. 【[转智](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_zhr.md#转智)】`zhun3 zhr5` 根据情况变化而变化的智慧，亦即随机应变的智慧<sup>\[泰州\]</sup>：这小夫没得点点儿～，你不想上南京去开会，你就推家里有事就行吖唻。<sup>\[泰州\]</sup>｜这马马儿的～吓煞人，她不回你没得钱，告诉你钱在银行里还不曾到期，你哿好意思再同她开口啊。<sup>\[泰州\]</sup>  
 1. 【[转角落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_gah_lah.md#转角落)】`zhun5 gah7 lah` <sup>[如东]</sup> 转弯处的角落：东西放吖～里。  
 1. 【[转下子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_ha_zz.md#转下子)】`zhun5 ha zz` <sup>[东台]</sup> ① 出去逛一下； ② 引申为缓兵之计，调整对策。这笔债难要，先～再说。  

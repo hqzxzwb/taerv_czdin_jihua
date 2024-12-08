@@ -1729,8 +1729,7 @@
 1. 【[𥍉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shih.md#𥍉)】`shih7` <sup>[东台]</sup> 眼珠闪动。（《广韵》“书涉切，～，目动之貌。”）：她眼珠子～咖～的，神得很！  
 1. 【[折本](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shih_ben.md#折本)】`shih8 ben3` <small>/siʔ8 pəŋ3/<sup>如皋</sup></small> ① 亏损。<sup>\[如皋\]</sup> ② 亏本。<sup>\[如东\]</sup>：这趟生意不曾～。<sup>\[如东\]</sup> ③ 也叫折本，亏了本钱。<sup>\[东台\]</sup>  
 1. 【[折本话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shih_ben_hua.md#折本话)】`shih8 ben3 hua6` <sup>[如皋]</sup> 有失体面的话。  
-1. 【[折膘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shih_bio.md#折膘)】`shih8 bio1` <sup>[兴化]</sup> ① 畜禽变瘦：猪子两天不吃食，～啊。 ② （贬）指人消瘦：叹气～。  
-1. 【[折膘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shih_bio.md#折膘)】`shih8 bio1` ① 家畜身上肥肉减少，体型变瘦<sup>\[泰州\]</sup>：这条老牛耕吖一个春天的田，怎吖得不～啊，要弄点儿黄豆喂它。<sup>\[泰州\]</sup> ② 泛指人的体型变瘦<sup>\[泰州\]</sup>：他的体质好，说起来害啊场大病，望起来也不曾怎吖～。<sup>\[泰州\]</sup>  
+1. 【[折膘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shih_bio.md#折膘)】`shih8 bio1` <small>/siɪʔ8 piɔ1/<sup>兴化</sup></small> ① 畜禽变瘦<sup>\[兴化\]</sup>：猪子两天不吃食，～啊。<sup>\[兴化\]</sup> ② （贬）指人消瘦<sup>\[兴化\]</sup>：叹气～。<sup>\[兴化\]</sup> ③ 家畜身上肥肉减少，体型变瘦<sup>\[泰州\]</sup>：这条老牛耕吖一个春天的田，怎吖得不～啊，要弄点儿黄豆喂它。<sup>\[泰州\]</sup> ④ 泛指人的体型变瘦<sup>\[泰州\]</sup>：他的体质好，说起来害啊场大病，望起来也不曾怎吖～。<sup>\[泰州\]</sup>  
 1. 【[折耗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shih_ho.md#折耗)】`shih8 ho5` <sup>[东台]</sup> 损耗：做蔬菜生意要把～算进去｜天气干，水果～大。  
 1. 【[折色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shih_seh.md#折色)】`shih8 seh7` <sup>[兴化]</sup> ① 数量明显减少：这几天缸里的米老好的～吤！ ② 面部失去血色：他这吖一病，脸大大的～咖。  
 1. 【[折手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shih_sheu.md#折手)】`shih8 sheu3` <sup>[东台]</sup> 少了得力人手。（原文也写“蚀手”，音不合）  
@@ -2849,8 +2848,7 @@
 1. 【[扫帚眉毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_zheu_mi_mo.md#扫帚眉毛)】`so5 zheu3 mi2 mo2` <sup>[如东]</sup> 粗眉：吴强有一副漂亮的～。  
 1. 【[扫帚星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_zheu_xien.md#扫帚星)】`so5 zheu3 xien1` <sup>[如东]</sup> 慧星。迷信者认为此星是凶相。比喻良心不好的人。  
 1. 【[扫竹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_zhoh.md#扫竹)】`so5 zhoh7` <sup>[兴化]</sup> 小竹枝条扎成的长柄扫帚，用于清扫街道、庭院或农村的打谷场。  
-1. 【[扫竹星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_zhoh_xien.md#扫竹星)】`so5 zhoh7 xien1` <sup>[兴化]</sup> ① 彗星。 ② （喻）指败家或制造不和者（多指女性）：这个～，把家里搅得六畜不安！  
-1. 【[扫竹星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_zhoh_xien.md#扫竹星)】`so5 zhoh7 xien1` <sup>[泰州]</sup> 詈骂败家或引起家庭不和的妇女的词。《封神演义》中姜子牙的妻子马氏生前不贤，死后被封为“扫帚星”。旧时迷信遂认为扫帚星一旦出现，则有战祸、天灾，如果女子命犯扫竹星，会给家族带来灾难或者厄运。  
+1. 【[扫竹星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_zhoh_xien.md#扫竹星)】`so5 zhoh7 xien1` <small>/sɔ5 t͡sɔʔ7 ɕin1/<sup>兴化</sup></small> ① 彗星。<sup>\[兴化\]</sup> ② （喻）指败家或制造不和者（多指女性）<sup>\[兴化\]</sup>：这个～，把家里搅得六畜不安！<sup>\[兴化\]</sup> ③ 詈骂败家或引起家庭不和的妇女的词。《封神演义》中姜子牙的妻子马氏生前不贤，死后被封为“扫帚星”。旧时迷信遂认为扫帚星一旦出现，则有战祸、天灾，如果女子命犯扫竹星，会给家族带来灾难或者厄运。<sup>\[泰州\]</sup>  
 1. 【[燥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so.md#燥)】`so5` <sup>[如皋]</sup> 干燥：天～、风～天。  
 1. 【[燥市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_shr.md#燥市)】`so5 shr6` <sup>[如皋]</sup> 特别畅销的行情。  
 1. 【[臊气娘娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_qi_nian_nian.md#臊气娘娘)】`so5 qi nian2 nian` <sup>[兴化]</sup> 即“马陆”，一种小型节肢动物，暗红色，触角和步足极细，生活在阴湿的地方，有臭腺孔，能放出像胺那样的气味。  
@@ -3228,8 +3226,7 @@
 1. 【[死獃死作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ngae_sz_zah.md#死獃死作)】`sz3 ngae2 sz3 zah7` ① 太呆板，一点不灵活；<sup>\[东台\]</sup> ② 动作机械，操作简单。<sup>\[东台\]</sup> ③ 极不灵活地做某件事，意谓做事呆板而无一点点灵活性<sup>\[泰州\]</sup>：你这人怎就这吖～的，你有事，请老李帮你代个班就是唻。<sup>\[泰州\]</sup>  
 1. 【[死皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_pi.md#死皮)】`sz3 pi2` <sup>[泰县]</sup> 不充气的轮胎。  
 1. 【[死皮赖瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_pi_lae_gua.md#死皮赖瓜)】`sz3 pi2 lae6 gua1` <small>/sɿ3 pʰɿ2 ne1 kua1/<sup>泰县</sup></small> ① 脸皮太厚，胡搅蛮缠。<sup>\[东台\]</sup> ② 纠缠不休。<sup>\[泰县\]</sup>  
-1. 【[死皮赖花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_pi_lae_hua.md#死皮赖花)】`sz3 pi2 lae6 hua1` <sup>[兴化]</sup> 死死纠缠：他为一点小事，～的拽住人蛮缠。  
-1. 【[死皮赖花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_pi_lae_hua.md#死皮赖花)】`sz3 pi2 lae6 hua1` <sup>[泰州]</sup> “化”音hua1，老着脸皮赖在某处乞讨财物，指老着脸皮赖在某处纠缠不肯离开的行为：人家又不睬他，他～缠吖半天才走。  
+1. 【[死皮赖花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_pi_lae_hua.md#死皮赖花)】`sz3 pi2 lae6 hua1` <small>/sɿ3 pʰi2 lɛ6 xua1/<sup>兴化</sup></small> ① 死死纠缠<sup>\[兴化\]</sup>：他为一点小事，～的拽住人蛮缠。<sup>\[兴化\]</sup> ② 老着脸皮赖在某处乞讨财物，指老着脸皮赖在某处纠缠不肯离开的行为<sup>\[泰州\]</sup>：人家又不睬他，他～缠吖半天才走。<sup>\[泰州\]</sup>  
 1. 【[死皮赖脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_pi_lae_lin.md#死皮赖脸)】`sz3 pi2 lae6 lin3` <sup>[如东]</sup> 不顾羞耻，一味纠缠：张三儿～的蹾吖这许不走。  
 1. 【[死腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_qian.md#死腔)】`sz3 qian` <sup>[泰县]</sup> 形容看不顺眼的样子：这个人，～嗷，讲话一点儿不爽气。  
 1. 【[死犟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_qian.md#死犟)】`sz3 qian6` ① 脾气非常固执，不听劝说。<sup>\[如东\]</sup>：你不要～。<sup>\[如东\]</sup> ② 固执己见且强词夺理。<sup>\[东台\]</sup>  

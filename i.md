@@ -524,8 +524,7 @@
 1. 【[羊子嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_zz_jy.md#羊子嘴)】`ian2 zz jy3` <sup>[泰县]</sup> 爱吃零食的人：这个人是个～。  
 1. 【[羊子眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_zz_ngaen.md#羊子眼)】`ian2 zz ngaen3` <small>/iã2 t͡sɿ ŋẽ3/<sup>如皋</sup>, /iɑŋ2 t͡se ɛ̃3/<sup>泰县</sup></small> ① 状人的眼球向外倾斜。<sup>\[如皋\]</sup> ② 黄豆的一种。<sup>\[泰县\]</sup>  
 1. 【[蛘虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_chon.md#蛘虫)】`ian2 chon2` <sup>[如皋]</sup> 中药饮片中的象虫。  
-1. 【[阳春面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_chuen_min.md#阳春面)】`ian2 chuen1 min6` <sup>[兴化]</sup> 不加浇头的汤面。也称“光面”。  
-1. 【[阳春面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_chuen_min.md#阳春面)】`ian2 chuen1 min6` <sup>[泰州]</sup> 光面，除了酱油、荤油、葱花等最基本的调料以外，不加其他浇头。旧时此面每碗十文，沪上隐语“十”为“阳春”，故名。  
+1. 【[阳春面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_chuen_min.md#阳春面)】`ian2 chuen1 min6` <small>/iaŋ2 t͡sʰuən1 miɪ̃6/<sup>兴化</sup></small> ① 不加浇头的汤面。也称“光面”。<sup>\[兴化\]</sup> ② 光面，除了酱油、荤油、葱花等最基本的调料以外，不加其他浇头。旧时此面每碗十文，沪上隐语“十”为“阳春”，故名。<sup>\[泰州\]</sup>  
 1. 【[阳间](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_jiaen.md#阳间)】`ian2 jiaen1` <sup>[东台]</sup> 人世间：阴间里不收，～里不要（形容多余的人）。  
 1. 【[阳口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_keu.md#阳口)】`ian2 keu3` <sup>[东台]</sup> 心直口快，不玩阴谋的人：他有甚的说甚的，是个～。  
 1. 【[阳历头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_lieh_teu.md#阳历头)】`ian2 lieh teu2` <sup>[泰县]</sup> 日历。  

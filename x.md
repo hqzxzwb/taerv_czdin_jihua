@@ -1305,8 +1305,7 @@
 1. 【[𣻏泛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_faen.md#𣻏泛)】`xio1 faen` <small>/ɕiɔ1 fẽ/<sup>如皋</sup></small> ① 浓度低。<sup>\[如皋\]</sup> ② 很薄。<sup>\[如东\]</sup>：这块布料～。<sup>\[如东\]</sup>  
 1. 【[𣻏泛泛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_faen_faen.md#𣻏泛泛)】`xio1 faen5 faen5` <sup>[兴化]</sup> 形容东西很薄：这米饼儿～的，一口一个没话说。  
 1. 【[𣻏寡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_gua.md#𣻏寡)】`xio1 gua3` <sup>[如皋]</sup> ① 喻处世刻薄。 ② 指粥或汤液中既薄且无其他内容。  
-1. 【[𣻏嘴薄舌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_jy_pah_shih.md#𣻏嘴薄舌)】`xio1 jy3 pah8 shih8` <sup>[东台]</sup> 形容能说会道，会耍嘴皮  
-1. 【[𣻏嘴薄舌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_jy_pah_shih.md#𣻏嘴薄舌)】`xio1 jy3 pah8 shih8` <sup>[泰州]</sup> 泛指能说会道：这瘟丫头～的，你跑哪许说得过她啊。  
+1. 【[𣻏嘴薄舌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_jy_pah_shih.md#𣻏嘴薄舌)】`xio1 jy3 pah8 shih8` ① 形容能说会道，会耍嘴皮<sup>\[东台\]</sup> ② 泛指能说会道<sup>\[泰州\]</sup>：这瘟丫头～的，你跑哪许说得过她啊。<sup>\[泰州\]</sup>  
 1. 【[𣻏膜膜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_mah_mah_r.md#𣻏膜膜<sub>儿</sub>)】`xio1 mah8 mah8 r` <small>/ɕiɔ1 maʔ8 ma˞8/<sup>如皋</sup></small> ① 薄。<sup>\[如皋\]</sup> ② 非常薄。<sup>\[如东\]</sup>：这种纸～。<sup>\[如东\]</sup>  
 1. 【[𣻏膜膜子<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_mah_mah_zz_r.md#𣻏膜膜子<sub>儿</sub>)】`xio1 mah8 mah8 zz3 r` <sup>[兴化]</sup> 很薄的东西：河里结咖～冻。  
 1. 【[𣻏拔拔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_paeh_paeh.md#𣻏拔拔)】`xio1 paeh8 paeh8` <sup>[泰县]</sup> 很薄：铁片～的。  
