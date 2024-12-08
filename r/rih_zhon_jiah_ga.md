@@ -1,5 +1,5 @@
 # 日中脚下
-rih8 zhon1 jiah7 ga
+rih8 zhon1 jiah7 ha-ga
 + 中午时分
   * 泰兴方言辞典
 <!--
