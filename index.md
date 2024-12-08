@@ -625,13 +625,14 @@
 1. 【[稀脚丫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_jiah_nga_r.md#稀脚丫<sub>儿</sub>)】`xi1 jiah7 nga1 r` <sup>[如东]</sup> 表示不干了：他又～啊。  
 1. 【[稀朗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_lan.md#稀朗)】`xi1 lan3` <sup>[如东]</sup> 稀疏：棉花苗～要适当。  
 1. 【[稀溜溜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_lieu_lieu.md#稀溜溜)】`xi1 lieu1 lieu1` <sup>[如东]</sup> 形容粥等食物很稀薄的状态：今朝的粥煮啊好，～的。  
-1. 【[稀里不脏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_lii_beh_zan.md#稀里不脏)】`xi1 lii beh7 zan1` <sup>[兴化]</sup> 形容非常肮脏，是“稀脏”的生动形式：这个小伙把身上作得～的。  
-1. 【[稀里不脏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_lii_beh_zan.md#稀里不脏)】`xi1 lii beh7 zan1` <sup>[泰州]</sup> “稀脏”的生动形式，非常不洁或者玷污严重样子：他家家里不晓得哪一年子打扫过的，～的，亏他蹾得住的。  
+1. 【[稀里不脏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_lii_beh_zan.md#稀里不脏)】`xi1 lii beh7 zan1` <small>/ɕi1 ləi pəʔ7 t͡saŋ1/<sup>兴化</sup></small> ① 形容非常肮脏，是“稀脏”的生动形式<sup>\[兴化\]</sup>：这个小伙把身上作得～的。<sup>\[兴化\]</sup> ② “稀脏”的生动形式，非常不洁或者玷污严重样子<sup>\[泰州\]</sup>：他家家里不晓得哪一年子打扫过的，～的，亏他蹾得住的。<sup>\[泰州\]</sup>  
 1. 【[稀里讲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_lii_gan.md#稀里讲)】`xi1 lii gan3` <sup>[东台]</sup> 说无关紧要的话，回避主要的实质性内容。  
 1. 【[稀里古怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_lii_gv_guae.md#稀里古怪)】`xi1 lii gv3 guae5` <sup>[东台]</sup> 稀奇古怪。  
 1. 【[稀里糊涂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_lii_hv_tv.md#稀里糊涂)】`xi1 lii hv2 tv2-1` <sup>[东台]</sup> 糊里糊涂。  
 1. 【[稀毛瘌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_mo_laeh_zz.md#稀毛瘌子)】`xi1 mo2 laeh8 zz` <small>/ɕi1 mɔ2 læʔ8 t͡sɿ/<sup>兴化</sup>, /sɿ1 mɔ2 næʔ8 t͡se/<sup>泰县</sup></small> ① 瘌子的头发很少，比喻稀少。<sup>\[如东\]</sup>：玉米苗捱地老虎咬断不少，成吖～。<sup>\[如东\]</sup> ② 头发稀少的人。也戏称农作物出苗率低，长势不好。<sup>\[东台\]</sup> ③ 由于脱落了大部分头发，头顶毛发稀少，形似瘌痢头。<sup>\[兴化\]</sup> ④ 稀少，不整齐。<sup>\[泰县\]</sup>  
 1. 【[稀幪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_mon.md#稀幪)】`xi1 mon3` <sup>[如东]</sup> 稀疏稠密：你看看这块田里的棉苗～。  
+1. 【[稀眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ngaen_r.md#稀眼<sub>儿</sub>)】`xi1 ngaen3 r` <sup>[如皋]</sup> 形容用物的孔、网眼大：～笿儿、～网、～管。  
+1. 【[稀眼<sub>儿</sub>𥭚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ngaen_r_van.md#稀眼<sub>儿</sub>𥭚)】`xi1 ngaen3 r van6` <sup>[如皋]</sup> 眼、孔大的𥭚障。  
 [更多...](./x.md)
 ## Y
 1. 【[淤泥河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_ni_hu.md#淤泥河)】`y1 ni2 hu2` <sup>[东台]</sup> 东台城古地名（现中亚城市花园背后），相传唐太宗李世民曾在此遇险，马陷～。  
