@@ -1436,6 +1436,7 @@
 1. 【[竵嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_jy.md#竵嘴)】`huae1 jy3` <sup>[如皋]</sup> 呶嘴以示意。  
 1. 【[竵嘴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_jy_r.md#竵嘴<sub>儿</sub>)】`huae1 jy3 r` <small>/xuɛ1 t͡ɕy˞3/<sup>如皋</sup></small> ① 嘴巴歪斜。<sup>\[如东\]</sup> ② 嘴巴歪斜的人。<sup>\[如东\]</sup> ③ 口形不正。<sup>\[如皋\]</sup>  
 1. 【[竵西](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_xi.md#竵西)】`huae1 xi1` <sup>[如东]</sup> 偏西：月亮～。  
+1. 【[□杖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_chan.md#□杖)】`huae2 chan` <small>/xuɛ2 t͡sʰɑŋ/<sup>泰兴</sup></small> 浣衣棒<sup>\[泰兴\]</sup>  
 1. 【[怀春](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_chuen.md#怀春)】`huae2 chuen1` <sup>[如东]</sup> 少女爱慕异性。  
 1. 【[怀得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_deh.md#怀得)】`huae2 deh7` <sup>[东台]</sup> 形容食量大：他肚子～呢，那们多肉包都吃光吖。  
 1. 【[怀恨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_hen.md#怀恨)】`huae2 hen6` <sup>[如东]</sup> 记着过去的不满或仇恨：～在心。  
