@@ -3,7 +3,6 @@
 ## R
 1. 【[<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/r.md#<sub>儿</sub>)】`r` <sup>[东台]</sup> 儿缀的口语音。（原文作“子”，音不合）：⼤红枣〜；⿊枣〜；草稿〜；小摊〜；茄〜｜你这把调〜，要考⼤学还需要好好努⼒。  
 1. 【[二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/r.md#二)】`r6` <sup>[东台]</sup> 二“er6”的口语音：⽼〜；⼀咖〜的来（按顺序来）｜他家〜丫头在读书。  
-1. 【[二巴子喝薄酒——厚的在底下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/r_ba_zz_huh_pah_jieu_heu_dii_cae_di_ha.md#二巴子喝薄酒——厚的在底下)】`r6 ba1 zz huh7 pah8 jieu3 heu6 dii cae6 di3 ha6` <sup>[东台]</sup>   
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra.md#□)】`ra2` <sup>[如皋]</sup> 示弱、输：这伢儿做生意不～；你不要～啊把他！  
 1. 【[惹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra.md#惹)】`ra3` <small>/ɻa3/<sup>如皋</sup></small> ① 招惹，引诱 ② 容易发生某事。<sup>\[如皋\]</sup>  
 1. 【[惹不得的野胡蜂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_beh_deh_dii.md#惹不得的野胡蜂)】`ra3 beh7 deh7 dii ia3 v2 fon1` <sup>[东台]</sup> 喻指那些不能得罪的蛮不讲理且凶狠的人物。  

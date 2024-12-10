@@ -65,7 +65,6 @@
 1. 【[耳罩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_zho_zz.md#耳罩子)】`er3 zho5 zz` <sup>[兴化]</sup> 皮毛制品，用于冬天罩在耳朵上防寒。  
 1. 【[耳子搨<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_zz_taeh_r.md#耳子搨<sub>儿</sub>)】`er3 zz taeh7 r` <sup>[如皋]</sup> 水作工人用以涂抹的工具。菠菜叶形铁板背心有L形柄。  
 1. 【[二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er.md#二)】`er6` <sup>[东台]</sup> ① 排行居次：老～；一咖～的来（按顺序来）；他家～丫头在下读书。 ② 除表示数量、排序外，还有“像”“又一个”的意思：他是～张飞，太鲁莽。  
-1. 【[二巴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_ba_zz.md#二巴子)】`er6 ba1 zz` <sup>[东台]</sup> 次等水平的人：～起灴牌｜（歇后语）～喝薄酒——厚的在底下。  
 1. 【[二把手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_ba_sheu.md#二把手)】`er6 ba3 sheu3` <sup>[泰兴]</sup> 副手，位居第二位者：老李是我佼单位的～  
 1. 【[二八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_baeh.md#二八)】`er6 baeh7` <sup>[泰县]</sup> 有点儿呆。  
 1. 【[二八月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_baeh_iuh.md#二八月)】`er6 baeh7 iuh` <sup>[泰兴]</sup> 指农历二月、八月气候宜人、农活最少的时光。  

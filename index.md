@@ -462,7 +462,6 @@
 ## R
 1. 【[<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/r.md#<sub>儿</sub>)】`r` <sup>[东台]</sup> 儿缀的口语音。（原文作“子”，音不合）：⼤红枣〜；⿊枣〜；草稿〜；小摊〜；茄〜｜你这把调〜，要考⼤学还需要好好努⼒。  
 1. 【[二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/r.md#二)】`r6` <sup>[东台]</sup> 二“er6”的口语音：⽼〜；⼀咖〜的来（按顺序来）｜他家〜丫头在读书。  
-1. 【[二巴子喝薄酒——厚的在底下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/r_ba_zz_huh_pah_jieu_heu_dii_cae_di_ha.md#二巴子喝薄酒——厚的在底下)】`r6 ba1 zz huh7 pah8 jieu3 heu6 dii cae6 di3 ha6` <sup>[东台]</sup>   
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra.md#□)】`ra2` <sup>[如皋]</sup> 示弱、输：这伢儿做生意不～；你不要～啊把他！  
 1. 【[惹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra.md#惹)】`ra3` <small>/ɻa3/<sup>如皋</sup></small> ① 招惹，引诱 ② 容易发生某事。<sup>\[如皋\]</sup>  
 1. 【[惹不得的野胡蜂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_beh_deh_dii.md#惹不得的野胡蜂)】`ra3 beh7 deh7 dii ia3 v2 fon1` <sup>[东台]</sup> 喻指那些不能得罪的蛮不讲理且凶狠的人物。  
@@ -491,6 +490,7 @@
 1. 【[惹吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_qieh.md#惹吃)】`ra3 qieh7` <small>/ɻa3 t͡ɕʰiəʔ7/<sup>如皋</sup></small> ① 爱吃。<sup>\[如皋\]</sup> ② 使人爱吃。<sup>\[如皋\]</sup> ③ 嘴馋，贬指。<sup>\[如皋\]</sup> ④ 好吃。<sup>\[如东\]</sup>：这种饭～<sup>\[如东\]</sup> ⑤ 贪吃。<sup>\[如东\]</sup>：这个人～。<sup>\[如东\]</sup>  
 1. 【[惹吃宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_qieh_bo_r.md#惹吃宝<sub>儿</sub>)】`ra3 qieh7 bo3 r` <sup>[如东]</sup> 比喻喜爱吃零食的孩子：狗狗是个～。  
 1. 【[惹人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_ren.md#惹人)】`ra3 ren2` <sup>[如皋]</sup> 侵袭人。  
+1. 【[惹馊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_seu.md#惹馊)】`ra3 seu1` <sup>[如皋]</sup> 容易馊。  
 [更多...](./r.md)
 ## S
 1. 【[唦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa.md#唦)】`sa` <small>/sa/<sup>兴化</sup></small> ① 语气词<sup>\[兴化\]</sup>：用于祈使句末尾<sup>\[兴化\]</sup>｜你快来～！<sup>\[兴化\]</sup>｜覅急，听我慢慢说一！<sup>\[兴化\]</sup> ② 在句中停顿处，表示比较强烈的语气<sup>\[兴化\]</sup>：快跑～！车子要开啦！<sup>\[兴化\]</sup> ③ 在句末表示疑问语气<sup>\[兴化\]</sup>：他的身世你哿清楚～？<sup>\[兴化\]</sup> ④ 语气词，表示轻微责备<sup>\[泰州\]</sup>：快点ㄦ说～。<sup>\[泰州\]</sup>｜教你不要说，你说咖做甚的～。<sup>\[泰州\]</sup> ⑤ 表示略微疑问<sup>\[泰州\]</sup>：不听你的～，你肯定不高兴，听你的～，就要得罪他。<sup>\[泰州\]</sup>  
