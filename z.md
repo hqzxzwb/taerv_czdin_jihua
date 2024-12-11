@@ -1042,7 +1042,7 @@
 1. 【[沼虾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_xia.md#沼虾)】`zho3 xia1` <sup>[东台]</sup> 又称青虾，淡水河里生长的虾，属于长臂虾科。旧时也写作“早虾”。  
 1. 【[爪牙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_nga.md#爪牙)】`zho3 nga2` <sup>[东台]</sup> 坏人的党羽、帮手。  
 1. 【[爪筢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_pa_r.md#爪筢<sub>儿</sub>)】`zho3 pa2 r` <sup>[如东]</sup> 工具。条状毛竹经过热加工，头部制成弯钩，拼成扇形，一般14齿。用作筢草。  
-1. 【[笊篱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_lei_r.md#笊篱<sub>儿</sub>)】`zho3 lei r` <sup>[如皋]</sup> 篾丝或金属丝编成的漏勺儿。  
+1. 【[笊漏<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_leu_r.md#笊漏<sub>儿</sub>)】`zho3 leu r` <small>/t͡sɔ3 lei˞/<sup>如皋</sup></small> 篾丝或金属丝编成的漏勺儿。<sup>\[东台\]</sup><sup>\[如皋\]</sup>：下饺子要用～捞。<sup>\[东台\]</sup>  
 1. 【[笊篱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_li.md#笊篱)】`zho3 li2` <sup>[如东]</sup> 工具。用金属丝或竹篾、柳条编成，一般圆形，能漏水，有长柄。用来捞取水中的东西。  
 1. 【[笊筢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_pa_r.md#笊筢<sub>儿</sub>)】`zho3 pa2 r` <sup>[如皋]</sup> 拉集乱草的多齿筢。用毛竹或铁丝制造头部，加长柄。  
 1. 【[照](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho.md#照)】`zho5` <small>/t͡sɔ5/<sup>兴化</sup>, /t͡sɔ5/<sup>如皋</sup></small> ① 略晒一下：衣裳放吖太阳底下～刻儿。<sup>\[如皋\]</sup> ② 用聚光镜聚阳光：～火。<sup>\[如皋\]</sup> ③ 见<sup>\[兴化\]</sup>：眼不～。<sup>\[兴化\]</sup> ④ 略晒一晒<sup>\[兴化\]</sup>：化纤衣装～一～就要收起来。<sup>\[兴化\]</sup> ⑤ （儿童语）行、好、就这样办<sup>\[兴化\]</sup>：～行；～同意。<sup>\[兴化\]</sup> ⑥ 同样<sup>\[兴化\]</sup>：“你去喝那小木院里的水，喝了～会说话。”（兴文《为什么只有人会说话》）<sup>\[兴化\]</sup>  
@@ -1072,7 +1072,6 @@
 1. 【[照雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_xiuh.md#照雪)】`zho5 xiuh7` <sup>[如东]</sup> 眼睛接受光线的程度：程斌患吖青光眼后，就不～咖。  
 1. 【[照照摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_zho_mah.md#照照摸)】`zho5 zho mah8` <sup>[兴化]</sup> 偷窃成性，见什么输什么：他是个～，你同我𥉊住点儿。  
 1. 【[照准](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_zhuen.md#照准)】`zho5 zhuen3` <sup>[如东]</sup> 对准：～屁股打下去。  
-1. 【[笊漏<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_leu_r.md#笊漏<sub>儿</sub>)】`zho5 leu6-3 r` <sup>[东台]</sup> 也叫笊篱、漏勺。用竹篾、铁丝等制成，用来在液体中捞东西：下饺子要用～捞。  
 1. 【[罩梁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_lian.md#罩梁)】`zho5 lian2` <sup>[如东]</sup> 屋梁的一种结构形式。下边一根梁横贯前后边檐，上边一根梁横贯前后二架，这种结构形式称罩梁。  
 1. 【[罩<sub>儿</sub>灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_r_den.md#罩<sub>儿</sub>灯)】`zho5 r den1` <small>/t͡sɔ˞5 təŋ1/<sup>如皋</sup>, /t͡sɔ5 ɚ təŋ1/<sup>泰县</sup></small> ① 有葫芦形玻璃罩和可调式灯头的煤油灯或豆油灯。<sup>\[如皋\]</sup> ② 一种煤油灯。在灯头的上面，扣着一只圆鼓形的玻璃罩，起抽气、挡风和聚光的作用。<sup>\[如东\]</sup> ③ 旧时照明用的玻璃罩煤油灯。<sup>\[东台\]</sup> ④ 煤油灯。<sup>\[泰县\]</sup>  
 1. 【[罩衫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_shaen.md#罩衫)】`zho5 shaen1` <sup>[东台]</sup> 为防风、护脏而加的外衣。  
