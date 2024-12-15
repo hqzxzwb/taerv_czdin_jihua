@@ -640,7 +640,7 @@
 1. 【[刹账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_zhan.md#刹账)】`shaeh8 zhan5` <small>/sæʔ8 t͡sɑŋ5/<sup>泰县</sup></small> ① 结账。<sup>\[泰县\]</sup> ② 关账，暂停新的钱款收支或货物进出的记录<sup>\[泰州\]</sup>：你俫有发票的快点儿寻会计去报销，20号要～唻。<sup>\[泰州\]</sup>  
 1. 【[煠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh.md#煠)】`shaeh8` <small>/seʔ8/<sup>如皋</sup>, /sæʔ8/<sup>泰县</sup></small> ① 用大量滚油煎<sup>\[如皋\]</sup>：～油条、～肉皮、～豆腐、～麻儿。<sup>\[如皋\]</sup> ② 滚油煎熬<sup>\[泰县\]</sup>：～油条。<sup>\[泰县\]</sup> ③ 将食物在滚油中煎熟<sup>\[泰州\]</sup>：～油条<sup>\[泰州\]</sup>｜～花生米<sup>\[泰州\]</sup>  
 1. 【[闸裆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_dan.md#闸裆)】`shaeh8 dan1` <sup>[如皋]</sup> ① 用布之类系于胯下。 ② 裤裆偏小。 ③ 道路暂时性阻塞。  
-1. 【[山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen.md#山)】`shaen1` <small>/sẽ1/<sup>如皋</sup></small> ① 棺的后壁。<sup>\[如皋\]</sup> ② 此字在东台常指房子两侧墙壁及外面靠墙的地方<sup>\[东台\]</sup>：东～墙是砖混结构<sup>\[东台\]</sup>｜我家西～长的竹子。<sup>\[东台\]</sup>  
+1. 【[山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen.md#山)】`shaen1` <small>/sẽ1/<sup>如皋</sup></small> ① 棺的后壁。<sup>\[如皋\]</sup> ② 常指房子两侧墙壁及外面靠墙的地方<sup>\[东台\]</sup>：东～墙是砖混结构<sup>\[东台\]</sup>｜我家西～长的竹子。<sup>\[东台\]</sup>  
 1. 【[山板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_baen.md#山板)】`shaen1 baen3` <small>/sẽ1 pẽ3/<sup>如皋</sup></small> ① 嵌在梁框间的隔板。<sup>\[如皋\]</sup> ② 铺在室内砖壁上的护墙模板。<sup>\[泰州\]</sup>  
 1. 【[山车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_cha.md#山车)】`shaen1 cha1` <sup>[泰兴]</sup> 独轮小木车，中间隆起，曾为乡间主要农用运输工具，今已少见。  
 1. 【[山车<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_cha_r.md#山车<sub>儿</sub>)】`shaen1 cha1 r` <sup>[如皋]</sup> 传统独轮车的一种。中间有高起的轮棚，两边装载。  
