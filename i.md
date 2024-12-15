@@ -408,22 +408,20 @@
 1. 【[洋码<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ma_r.md#洋码<sub>儿</sub>)】`ian2 ma3 r` <sup>[如皋]</sup> 阿拉伯数字。  
 1. 【[洋马齿苋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ma_chr_haen.md#洋马齿苋)】`ian2 ma3 chr3 haen6` <sup>[如皋]</sup> 半枝莲。一种小型花卉。  
 1. 【[洋名广](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_mien_guan.md#洋名广)】`ian2 mien2 guan3` <sup>[兴化]</sup> 花样、名堂：昨晚七八百一桌也不晓得吃的甚的～？｜他子午卯酉半大天，也不曾说出个～来。  
-1. 【[洋面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_min.md#洋面)】`ian2 min6` <small>/iaŋ2 miɪ̃6/<sup>兴化</sup>, /iã2 mĩ1/<sup>如皋</sup></small> ① 指机器加工的干面。<sup>\[如皋\]</sup> ② 机制小麦粉<sup>\[兴化\]</sup>\[泰州：旧时指机器磨出的面粉，机器从国外引进，故名。\]：～袋子。<sup>\[兴化\]</sup>  
+1. 【[洋面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_min.md#洋面)】`ian2 min6` <small>/iaŋ2 miɪ̃6/<sup>兴化</sup>, /iã2 mĩ1/<sup>如皋</sup></small> 机制小麦粉，机器加工的干面<sup>\[如皋\]</sup><sup>\[兴化\]</sup>\[泰州：旧时指机器磨出的面粉，机器从国外引进，故名。\]：～袋子。<sup>\[兴化\]</sup>  
 1. 【[洋面广](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_min_guan.md#洋面广)】`ian2 min6 guan3` <sup>[东台]</sup> 或作“洋文广”。不着边际的乱说。  
 1. 【[洋茉莉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_muh_li.md#洋茉莉)】`ian2 muh8 li` <sup>[如皋]</sup> 香水草。  
 1. 【[洋鸦雀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_nga_jiah.md#洋鸦雀)】`ian2 nga1 jiah7` <sup>[如东]</sup> 鸦科动物灰喜鹊，也叫山喜鹊、马尾鹊。体长约40厘米。头部黑色，天蓝色的大尾巴。常在住宅旁活动，喜结群穿梭于林间。鸣叫声较为单调。爱吃昆虫，兼食浆果与种子。属益鸟。  
 1. 【[洋牛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ngeu_r.md#洋牛<sub>儿</sub>)】`ian2 ngeu2 r` <sup>[如皋]</sup> 西洋牛，即荷兰牛。俗说：召起来像～，即叫声很响、很高。  
 1. 【[洋钮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_nieu_zz.md#洋钮子)】`ian2 nieu3 zz` <sup>[如皋]</sup> 机器制造的饼状钮子。与传统中服的布质纽扣儿、桃儿相对。  
-1. 【[洋瓮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_on.md#洋瓮)】`ian2 on1` <sup>[泰县]</sup> 搪瓷茶缸。  
-1. 【[洋瓮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_on.md#洋瓮)】`ian2 on5` <sup>[兴化]</sup> 陶器：一种内外都涂了釉的瓮子。  
+1. 【[洋瓮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_on.md#洋瓮)】`ian2 on5` <small>/iaŋ2 oŋ5/<sup>兴化</sup>, /iɑŋ2 oŋ1/<sup>泰县</sup></small> ① 陶器，一种内外都涂了釉的瓮子。<sup>\[兴化\]</sup> ② 搪瓷茶缸。<sup>\[泰县\]</sup>  
 1. 【[洋㗘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_pah_zz.md#洋㗘子)】`ian2 pah7 zz` <sup>[泰县]</sup> ① 大红萝卜。 ② 说假话的人：这个人是个～。  
 1. 【[洋瓶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_pien.md#洋瓶)】`ian2 pien2` <sup>[兴化]</sup> 长颈玻璃瓶。  
-1. 【[洋盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_pun.md#洋盘)】`ian2 pun2` <small>/iaŋ2 pʰũ2/<sup>兴化</sup>, /iɑŋ2 pʰõ2/<sup>泰县</sup></small> ① 表面漂亮，并不实用的东西。<sup>\[如东\]</sup>：那是一些～货。<sup>\[如东\]</sup> ② 洋相。<sup>\[如东\]</sup>：出他的～。<sup>\[如东\]</sup> ③ 不切实际的想法或做法。<sup>\[如东\]</sup>：这些打算都是～。<sup>\[如东\]</sup> ④ 样子很气派，但不实惠。<sup>\[东台\]</sup> ⑤ 外行、不谙事理的人<sup>\[兴化\]</sup>：这次上街，捱人当～宰啊。<sup>\[兴化\]</sup>｜你俫这一套我多少懂点儿，覅把我当～。<sup>\[兴化\]</sup> ⑥ 不切实际、贪大求洋：你买的这件衣服真是～。<sup>\[泰县\]</sup> ⑦ 对某些事物缺乏经验、容易被人愚弄的人<sup>\[泰州\]</sup>：你不要把他当～，这里头的关木三儿他全清。<sup>\[泰州\]</sup>｜你这副眼镜在泰州买就～吖唻，到丹阳去买顶多一半的钱。<sup>\[泰州\]</sup>  
+1. 【[洋盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_pun.md#洋盘)】`ian2 pun2` <small>/iaŋ2 pʰũ2/<sup>兴化</sup>, /iɑŋ2 pʰõ2/<sup>泰县</sup></small> ① 华而不实\[泰县：不切实际、贪大求洋\]\[东台：样子很气派，但不实惠。\]\[如东：表面漂亮，并不实用的东西。\]：那是一些～货。<sup>\[如东\]</sup>｜你买的这件衣服真是～。<sup>\[泰县\]</sup> ② 洋相。<sup>\[如东\]</sup>：出他的～。<sup>\[如东\]</sup> ③ 不切实际的想法或做法。<sup>\[如东\]</sup>：这些打算都是～。<sup>\[如东\]</sup> ④ 外行\[兴化：外行、不谙事理的人\]\[泰州：对某些事物缺乏经验、容易被人愚弄的人\]：这次上街，捱人当～宰啊。<sup>\[兴化\]</sup>｜你俫这一套我多少懂点儿，覅把我当～。<sup>\[兴化\]</sup>｜你不要把他当～，这里头的关木三儿他全清。<sup>\[泰州\]</sup>｜你这副眼镜在泰州买就～吖唻，到丹阳去买顶多一半的钱。<sup>\[泰州\]</sup>  
 1. 【[洋盘广](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_pun_guan.md#洋盘广)】`ian2 pun2 guan3` <sup>[如皋]</sup> 海阔天空，随意漫谈，无主题，无结论。  
-1. 【[洋盘货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_pun_hu.md#洋盘货)】`ian2 pun2 hu5` <small>/iã2 pʰʊ̃2 xʊ5/<sup>如皋</sup></small> ① 好看而不实用，价高而不实惠的东西。<sup>\[如皋\]</sup> ② 表面漂亮并不实用的物品。<sup>\[如东\]</sup>  
+1. 【[洋盘货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_pun_hu.md#洋盘货)】`ian2 pun2 hu5` <small>/iã2 pʰʊ̃2 xʊ5/<sup>如皋</sup></small> 好看而不实用，价高而不实惠的东西。<sup>\[如皋\]</sup><sup>\[如东\]</sup>  
 1. 【[洋盘话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_pun_hua.md#洋盘话)】`ian2 pun2 hua6` <sup>[如东]</sup> 海阔天空，随便乱说：这些人说的都是～。  
-1. 【[洋气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_qi.md#洋气)】`ian2 qi` <sup>[兴化]</sup> 衣饰、家具等式样新颖、受看：这套家具蛮～的。｜这种布料花色～。  
-1. 【[洋气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_qi.md#洋气)】`ian2 qi5` ① 时髦 ② 漂亮。<sup>\[如东\]</sup>：这身衣裳十分～。<sup>\[如东\]</sup> ③ 时髦、新潮；脱了土气。<sup>\[东台\]</sup> ④ 人或者物表现出的外国的情趣、格调、风度、式样等<sup>\[泰州\]</sup>：他走美国带家来的这件衣裳多～啊。<sup>\[泰州\]</sup>  
+1. 【[洋气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_qi.md#洋气)】`ian2 qi5` <small>/iaŋ2 t͡ɕʰi/<sup>兴化</sup></small> 时髦，新潮<sup>\[如东\]</sup><sup>\[东台\]</sup>\[泰州：人或者物表现出的外国的情趣、格调、风度、式样等\]\[兴化：衣饰、家具等式样新颖、受看\]：这身衣裳十分～。<sup>\[如东\]</sup>｜他走美国带家来的这件衣裳多～啊。<sup>\[泰州\]</sup>｜这套家具蛮～的。<sup>\[兴化\]</sup>｜这种布料花色～。<sup>\[兴化\]</sup>  
 1. 【[洋钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_qin.md#洋钱)】`ian2 qin2` <sup>[东台]</sup> 银元。  
 1. 【[洋锹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_qio.md#洋锹)】`ian2 qio1` <sup>[兴化]</sup> 挖土或铲东西的工具，用铁皮锻打而成。有平口和圆口的两种，装有长柄。  
 1. 【[洋桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_qio.md#洋桥)】`ian2 qio2` <small>/iaŋ2 t͡ɕʰiɔ2/<sup>兴化</sup>, /iã2 t͡ɕʰiɔ2/<sup>如皋</sup></small> ① 见“大桥”。<sup>\[如皋\]</sup> ② 可以通行汽车的钢筋混凝土大桥<sup>\[兴化\]</sup>：南门大～<sup>\[兴化\]</sup>｜头部～<sup>\[兴化\]</sup>｜二部～。<sup>\[兴化\]</sup>  
@@ -500,10 +498,9 @@
 1. 【[羊膜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_mah.md#羊膜)】`ian2 mah8` <sup>[东台]</sup> 人或哺乳动物包裹胎儿的膜。  
 1. 【[羊奶草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_nae_co.md#羊奶草)】`ian2 nae3 co3` <sup>[如皋]</sup> 泽漆。  
 1. 【[羊眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ngaen.md#羊眼)】`ian2 ngaen3` <sup>[如皋]</sup> 一种带圆圈的木螺钉。  
-1. 【[羊脬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_po.md#羊脬)】`ian2 po1` <sup>[如东]</sup> 牛科动物山羊或绵羊的膀胱。  
-1. 【[羊<sub>儿</sub>疯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_r_fon.md#羊<sub>儿</sub>疯)】`ian2 r fon1` <small>/iaŋ2 ɚ foŋ1/<sup>兴化</sup>, /ia˞2 fɔŋ1/<sup>如皋</sup>, /iɑŋ2 ɚ foŋ1/<sup>泰县</sup></small> ① 癫痫。<sup>\[如皋\]</sup> ② 癫痫。<sup>\[如东\]</sup> ③ 疯疯癫癫。<sup>\[如东\]</sup>：他像个～一样。<sup>\[如东\]</sup> ④ 癫痫<sup>\[兴化\]</sup>：“老儿，你转怎的？好道是～发了！”（《西游记》七二）<sup>\[兴化\]</sup> ⑤ （喻）为取巧而装模作样。<sup>\[兴化\]</sup>：谚曰：～学三分，不要过河钱。<sup>\[兴化\]</sup> ⑥ 羊癫疯。<sup>\[泰县\]</sup> ⑦ 装疯卖傻。<sup>\[泰县\]</sup> ⑧ 简单的技艺：～学三份，过河不要钱。<sup>\[泰县\]</sup>  
-1. 【[羊<sub>儿</sub>疯/风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_r_fon.md#羊<sub>儿</sub>疯/风)】`ian2 r fon1` <sup>[泰州]</sup> 癫痫，脑补疾患或者颅脑外伤等因素引起的病，发作时突然昏倒，全身痉挛，口吐白沫。  
-1. 【[羊<sub>儿</sub>疯学三分，不要过河钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_r_fon_hah_saen_fen_beh_io_gu_hu_qin.md#羊<sub>儿</sub>疯学三分，不要过河钱)】`ian2 r fon1 hah8 saen1 fen1 beh7 io5 gu5 hu2 qin2` <sup>[东台]</sup> 洋儿疯也称羊角风，本指癫痫病，喻指有一技之长，到哪里都方便。  
+1. 【[羊脬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_po.md#羊脬)】`ian2 po1` <sup>[如东]</sup> 羊的膀胱。  
+1. 【[羊<sub>儿</sub>疯/风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_r_fon.md#羊<sub>儿</sub>疯/风)】`ian2 r fon1` <small>/iaŋ2 ɚ foŋ1/<sup>兴化</sup>, /ia˞2 fɔŋ1/<sup>如皋</sup>, /iɑŋ2 ɚ foŋ1/<sup>泰县</sup></small> ① 癫痫。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：“老儿，你转怎的？好道是～发了！”（《西游记》七二）<sup>\[兴化\]</sup> ② 比喻疯疯癫癫，或装疯卖傻<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup>：他像个～一样。<sup>\[如东\]</sup>｜谚曰：～学三分，不要过河钱。<sup>\[兴化\]</sup>｜～学三分，过河不要钱。<sup>\[泰县\]</sup>  
+1. 【[羊<sub>儿</sub>疯学三分，不要过河钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_r_fon_hah.md#羊<sub>儿</sub>疯学三分，不要过河钱)】`ian2 r fon1 hah8 saen1 fen1 beh7 io5 gu5 hu2 qin2` <sup>[东台]</sup> 喻指有一技之长，到哪里都方便。  
 1. 【[羊<sub>儿</sub>傀疯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_r_kuae_fon.md#羊<sub>儿</sub>傀疯)】`ian2 r kuae3 fon1` <sup>[如皋]</sup> 见“傀”。  
 1. 【[羊肉棚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_roh_pon_r.md#羊肉棚<sub>儿</sub>)】`ian2 roh8 pon2 r` <sup>[如东]</sup> 旧时，乡间每到冬天，临时在路边用芦苇搭建一座茅屋，作为买卖羊肉的店铺，这种店铺称羊肉棚儿。  
 1. 【[羊汤馓子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_tan_caen_zz.md#羊汤馓子)】`ian2 tan1 caen3 zz` <sup>[如东]</sup> 旧时，乡间冬季用羊汤泡馓子，作为一种温暖健身美食。这种食品称羊汤馓子。  
@@ -556,8 +553,8 @@
 1. 【[养吖发下来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_nga_faeh_ha_lae_a.md#养吖发下来啊)】`ian3 nga faeh7 ha lae2 a` <sup>[如皋]</sup> 养得很胖，发福了。  
 1. 【[养吖蒙吖心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_nga_mon_nga_xien.md#养吖蒙吖心)】`ian3 nga mon2 nga xien1` <sup>[如皋]</sup> 体肥而智弱。  
 1. 【[养吖潽下来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_nga_pv_ha_lae_a.md#养吖潽下来啊)】`ian3 nga pv1 ha lae2 a` <sup>[如皋]</sup> 养得很胖，发福了。  
-1. 【[养伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_nga_r.md#养伢<sub>儿</sub>)】`ian3 nga2 r` ① 生小孩。 ② 妇女分娩。也叫生孩子。<sup>\[如东\]</sup> ③ 抚养小孩。<sup>\[如东\]</sup>：负责～的是父亲。<sup>\[如东\]</sup>  
-1. 【[养眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ngaen.md#养眼)】`ian3 ngaen3` ① 悦目；看了觉得舒服<sup>\[东台\]</sup>：这场模特大赛看得蛮～的。<sup>\[东台\]</sup> ② 人或物外形看上去使人感到很舒服<sup>\[泰州\]</sup>：这小丫头长得好看，叫人望吖～。<sup>\[泰州\]</sup>  
+1. 【[养伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_nga_r.md#养伢<sub>儿</sub>)】`ian3 nga2 r` 生小孩。  
+1. 【[养眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ngaen.md#养眼)】`ian3 ngaen3` 悦目；看了觉得舒服<sup>\[东台\]</sup><sup>\[泰州\]</sup>：这场模特大赛看得蛮～的。<sup>\[东台\]</sup>｜这小丫头长得好看，叫人望吖～。<sup>\[泰州\]</sup>  
 1. 【[养女](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ny.md#养女)】`ian3 ny3` <sup>[东台]</sup> 领养的女儿。  
 1. 【[养病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_pien.md#养病)】`ian3 pien6` <sup>[东台]</sup> 因患病而休养。  
 1. 【[养嘌孙<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_pio_suen_r.md#养嘌孙<sub>儿</sub>)】`ian3 pio3 suen1 r` <sup>[如皋]</sup> 长房长孙出世。  

@@ -108,7 +108,7 @@
 1. 【[奶虎<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_hv_r.md#奶虎<sub>儿</sub>)】`nae3 hv3 r` <sup>[如东]</sup> 比喻长得健壮的婴儿。  
 1. 【[奶虎<sub>儿</sub>气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_hv_r_qi.md#奶虎<sub>儿</sub>气)】`nae3 hv3 r qi5` <sup>[如东]</sup> 婴儿吸食母乳，因而身上散发着一种奶香味儿，称奶虎儿气。  
 1. 【[奶瘾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_ien.md#奶瘾)】`nae3 ien3` <sup>[如皋]</sup> 婴儿欲乳．因而啼哭。  
-1. 【[奶浆草<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_jian_co_r.md#奶浆草<sub>儿</sub>)】`nae3 jian1 co3 r` <sup>[如皋]</sup> 苦荬菜  
+1. 【[奶浆草<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_jian_co_r.md#奶浆草<sub>儿</sub>)】`nae3 jian co3 r` <sup>[如皋]</sup> 苦荬菜  
 1. 【[奶壳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_kah_zz.md#奶壳子)】`nae3 kah7 zz` <sup>[泰县]</sup> 喂奶的妇女。  
 1. 【[奶靠子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_ko_zz.md#奶靠子)】`nae3 ko5 zz` <sup>[如皋]</sup> 因缺母乳喂养而发育不良的伢儿。  
 1. 【[奶妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_ma.md#奶妈)】`nae3 ma1` <sup>[如东]</sup> ① 给别人家婴儿喂奶的妇女。 ② 以奶喂养自己的妇女，称奶妈。  
