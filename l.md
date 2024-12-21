@@ -1029,7 +1029,7 @@
 1. 【[凉月爹爹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_iuh_dia_dia.md#凉月爹爹)】`lian2 iuh8 dia1 dia` <sup>[兴化]</sup> 儿童语，月亮：～，照见家家。  
 1. 【[凉月<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_iuh_r.md#凉月<sub>儿</sub>)】`lian2 iuh8 r` <sup>[如东]</sup> 月亮。  
 1. 【[凉月心里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_iuh_xien_lii.md#凉月心里)】`lian2 iuh8 xien1 lii` <sup>[兴化]</sup> 月光照射到的地方。  
-1. 【[凉月子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_iuh_zz.md#凉月子)】`lian2 iuh8 zz` <small>/liã2 yʊʔ8 t͡sɿ/<sup>如皋</sup>, /niɑŋ2 yʊʔ8 t͡se/<sup>泰县</sup></small> ① 一种风筝。用竹篾扎成圆圈，糊纸，似月亮，中间横一根轴，两头插上芦苇花，系一线，即可放上天。<sup>\[如东\]</sup> ② 月亮。<sup>\[如皋\]</sup> ③ 月亮。<sup>\[东台\]</sup> ④ 月亮。<sup>\[泰县\]</sup>  
+1. 【[凉月子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_iuh_zz.md#凉月子)】`lian2 iuh8 zz` <small>/liã2 yʊʔ8 t͡sɿ/<sup>如皋</sup>, /niɑŋ2 yʊʔ8 t͡se/<sup>泰县</sup></small> ① 一种风筝。用竹篾扎成圆圈，糊纸，似月亮，中间横一根轴，两头插上芦苇花，系一线，即可放上天。<sup>\[如东\]</sup> ② 月亮。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup>  
 1. 【[凉月子底下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_iuh_zz_di_ha.md#凉月子底下)】`lian2 iuh8 zz di3 ha` <sup>[如皋]</sup> 月光下。  
 1. 【[凉月子窠啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_iuh_zz_ku_a.md#凉月子窠啊)】`lian2 iuh8 zz ku1 a` <sup>[如皋]</sup> 月晕。  
 1. 【[凉月子心里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_iuh_zz_xien_lii.md#凉月子心里)】`lian2 iuh8 zz xien1 lii` <sup>[如皋]</sup> 月光下。  
@@ -1076,7 +1076,6 @@
 1. 【[亮处](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_chv.md#亮处)】`lian6 chv` <sup>[如皋]</sup> ① 明亮的地方：他在暗处，你在～。 ② 比喻美好的地方：白鸽子拣～飞。  
 1. 【[亮曤曤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_huah_huah.md#亮曤曤)】`lian6 huah8 huah8` <sup>[泰州]</sup> 光芒闪烁的样子：这把刀才请人磨过的，～。｜家里换吖200支光的灯泡，照得～的。  
 1. 【[亮月<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_iuh_r.md#亮月<sub>儿</sub>)】`lian6 iuh8 r` 月亮  
-1. 【[亮月子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_iuh_zz.md#亮月子)】`lian6 iuh8 zz` <sup>[泰县]</sup> 月亮。  
 1. 【[亮脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_jiah.md#亮脚)】`lian6 jiah7` <sup>[兴化]</sup> 木工行话，即橱柜的腿：这对厨子式样蛮好，就是～嫌短，不登称。  
 1. 【[亮亮牛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_lian_ngeu_r.md#亮亮牛<sub>儿</sub>)】`lian6 lian6 ngeu2 r` <sup>[兴化]</sup> 天牛。一种有害昆虫。  
 1. 【[亮吖云脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_nga_yen_jiah.md#亮吖云脚)】`lian6 nga yen2 jiah7` <sup>[如皋]</sup> 下雨时远望，云层下方渐亮，表示雨渐小渐止。  
