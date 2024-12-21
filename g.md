@@ -836,6 +836,7 @@
 1. 【[绞肠痧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_chan_sha.md#绞肠痧)】`go3 chan2 sha1` <sup>[泰州]</sup> 中医特指不吐不泻而有剧烈腹痛的霍乱病人。  
 1. 【[绞担绳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_daen_shen.md#绞担绳)】`go3 daen5 shen2` <sup>[如皋]</sup> 手工绞制挑担的麻绳，一般三股。  
 1. 【[绞吊桶绳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_dio_ton_shen.md#绞吊桶绳)】`go3 dio5 ton3 shen2` <sup>[如皋]</sup> 手工绞制吊桶用的草绳。  
+1. 【[绞绞<sub>儿</sub>理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_go_r_li.md#绞绞<sub>儿</sub>理)】`go3 go r li3` <small>/kɔ3 kɔ˞ lʝ3/<sup>如皋</sup></small> 不正当的理由、或故意胡蛮缠的歪理。<sup>\[如皋\]</sup>  
 1. 【[绞关](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_guaen.md#绞关)】`go3 guaen1` <sup>[如东]</sup> ① 盘车上的推杠。 ② 控制水车升降的木棍。  
 1. 【[绞䌁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_io_zz.md#绞䌁子)】`go3 io5 zz` <small>/kɔ3 iɔ5 t͡sɿ/<sup>兴化</sup>, /kɔ3 iɔ5 t͡sɿ/<sup>如皋</sup>, /kɔ3 iɔ5 t͡se/<sup>泰县</sup></small> ① 用草拧成纹路很粗的绳。<sup>\[如东\]</sup> ② 比喻不停地无理纠缠。<sup>\[如东\]</sup>：她又在下～。<sup>\[如东\]</sup> ③ 搞事情。<sup>\[如皋\]</sup> ④ 将稻草等扭成束，用来捆扎稭秆、蔬菜等物。<sup>\[兴化\]</sup> ⑤ （喻）幼儿扭来扭去<sup>\[兴化\]</sup>：这孩子抱啊手上就像～。<sup>\[兴化\]</sup> ⑥ 用草绞紧捆东西。<sup>\[泰县\]</sup>  
 1. 【[绞<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_r.md#绞<sub>儿</sub>)】`go3 r` <sup>[如皋]</sup> 量词。适用于纱、丝、线等：一～线、一个～的生丝。  
