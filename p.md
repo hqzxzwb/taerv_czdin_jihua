@@ -316,7 +316,7 @@
 1. 【[笨头笨脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pen_teu_pen_no.md#笨头笨脑)】`pen6 teu2 pen6 no3` <sup>[东台]</sup> （詈语）形容人愚笨。  
 1. 【[坯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#坯)】`pi1` <sup>[东台]</sup> ① 已做成形、未烧的砖瓦、陶器等：砖～。 ② 特指土坯：脱～。 ③ 泛指半制成品：～布。  
 1. 【[坯缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_gan.md#坯缸)】`pi1 gan1` <sup>[如皋]</sup> 一种有釉的广白缸，按大小分为头～、二～、三～。  
-1. 【[坯料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_lio.md#坯料)】`pi1 lio6` <small>/pʰʝ1 liɔ1/<sup>如皋</sup></small> ① 贬指某人的品质<sup>\[如皋\]</sup>：～不好、下流～。<sup>\[如皋\]</sup> ② （贬）人的基本素质、习性<sup>\[东台\]</sup>：要改掉惚～。<sup>\[东台\]</sup> ③ 有待进一步加工处理的材料。<sup>\[泰州\]</sup> ④ 人自幼生成的品行<sup>\[泰州\]</sup>：这小伙～不好，怕学习，教他念书像要他的命。<sup>\[泰州\]</sup> ⑤ 人自幼生成的习惯<sup>\[泰州\]</sup>：哪个像你这样子吃饭不扶住碗，这些～不好。<sup>\[泰州\]</sup>  
+1. 【[坯料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_lio.md#坯料)】`pi1 lio6` <small>/pʰi1 liɔ6/<sup>兴化</sup>, /pʰʝ1 liɔ1/<sup>如皋</sup></small> ① 毛坯。<sup>\[兴化\]</sup> ② （引）人的本质、品格<sup>\[兴化\]</sup>：这个小子～太坏，赌输啊就偷。<sup>\[兴化\]</sup> ③ 贬指某人的品质<sup>\[如皋\]</sup>：～不好、下流～。<sup>\[如皋\]</sup> ④ （贬）人的基本素质、习性<sup>\[东台\]</sup>：要改掉惚～。<sup>\[东台\]</sup> ⑤ 有待进一步加工处理的材料。<sup>\[泰州\]</sup> ⑥ 人自幼生成的品行、习惯<sup>\[泰州\]</sup><sup>\[泰州\]</sup>：这小伙～不好，怕学习，教他念书像要他的命。<sup>\[泰州\]</sup>｜哪个像你这样子吃饭不扶住碗，这些～不好。<sup>\[泰州\]</sup>  
 1. 【[批](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#批)】`pi1` <sup>[东台]</sup> 量词，用于大宗的货物或多数的人：一～灶种苗猪/一～大学生村官。  
 1. 【[批削](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_xiah.md#批削)】`pi1 xiah7` <sup>[兴化]</sup> 反驳：不是我要～你，你这个话确实不对。  
 1. 【[披啊股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_a_gv.md#披啊股)】`pi1 a gv3` <sup>[如皋]</sup> 线股敞开。  
@@ -335,7 +335,6 @@
 1. 【[纰漏鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_leu_guei.md#纰漏鬼)】`pi1 leu6 guei3` <sup>[如皋]</sup> 经常犯错误、出问题的人。  
 1. 【[纰漏客人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_leu_keh_ren.md#纰漏客人)】`pi1 leu6 keh7 ren2` <sup>[如皋]</sup> 经常犯错误、出问题的人。  
 1. 【[纰漏筒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_leu_ton_zz.md#纰漏筒子)】`pi1 leu6 ton3 zz` <sup>[东台]</sup> ［喻］指因不稳重经常出错、惹祸的人。  
-1. 【[胚料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_lio.md#胚料)】`pi1 lio6` <sup>[兴化]</sup> ① 毛坏。 ② （引）人的本质、品格：这个小子～太坏，赌输啊就偷。  
 1. 【[醅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#醅)】`pi1` <sup>[如皋]</sup> 黄酒称谓，随原料生、熟而称生～、熟～。  
 1. 【[𠜱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#𠜱)】`pi1` <small>/pʰi1/<sup>兴化</sup>, /pʰʝ1/<sup>如皋</sup></small> ① 削 ② 将刀体平着切薄片<sup>\[如皋\]</sup>：把一片茶干儿～十层。<sup>\[如皋\]</sup> ③ 用利刃将竹片剖成薄篾。<sup>\[兴化\]</sup> ④ 刀斜削，把鱼、肉等削成薄片。<sup>\[兴化\]</sup>：～肉片；～鱼片；～竹笋。<sup>\[兴化\]</sup> ⑤ 横切成薄片<sup>\[泰州\]</sup>：这条乌鱼肥，～点ㄦ鱼片做小炒。<sup>\[泰州\]</sup>  
 1. 【[𠜱削](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_xiah.md#𠜱削)】`pi1 xiah7` <sup>[东台]</sup> 批评指点：这篇文章有些地方还要～下子。  

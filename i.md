@@ -462,8 +462,7 @@
 1. 【[洋行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_xien.md#洋行)】`ian2 xien2` 指人肆无忌惮的言行<sup>\[泰州\]</sup>：人家是让他的，他倒～起来啊，把人家弄吖来啊火，夯吖他一顿。<sup>\[泰州\]</sup>｜本来老李已经不同他说咖，这小伙反而越说越～，你说老李哿得咖买他这个活鬼的账。<sup>\[泰州\]</sup>  
 1. 【[洋线](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_xin.md#洋线)】`ian2 xin5` <sup>[兴化]</sup> 机织的斜纹棉布：她穿的阴丹土林褂子，黑～的背心。  
 1. 【[洋尿脬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_xy_po.md#洋尿脬)】`ian2 xy1 po1` <sup>[如皋]</sup> 玩具汽球胶囊。  
-1. 【[洋芋头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_y_teu.md#洋芋头)】`ian2 y6 teu` <sup>[如皋]</sup> 葵花芋，又名生姜芋。  
-1. 【[洋芋头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_y_teu.md#洋芋头)】`ian2 y6 teu` <sup>[如东]</sup> 茄科植物马铃薯，又名洋番芋，一年生草本。地下块茎椭圆形外皮黄白色，内白色，具芽眼，着生于不长的匍匐茎上。地上茎柔弱，多分枝。羽状复叶，互生，小叶卵形或椭圆状卵形，全缘。聚伞花序。花白色或淡紫色。浆果球形。栽培。  
+1. 【[洋芋头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_y_teu.md#洋芋头)】`ian2 y6 teu` <small>/iã2 y1 tʰei/<sup>如皋</sup></small> ① 葵花芋，又名生姜芋。<sup>\[如皋\]</sup> ② 茄科植物马铃薯，又名洋番芋，一年生草本。地下块茎椭圆形外皮黄白色，内白色，具芽眼，着生于不长的匍匐茎上。地上茎柔弱，多分枝。羽状复叶，互生，小叶卵形或椭圆状卵形，全缘。聚伞花序。花白色或淡紫色。浆果球形。栽培。<sup>\[如东\]</sup>  
 1. 【[洋虘武虘的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_zha_v_zha_dii.md#洋虘武虘的)】`ian2 zha1 v3 zha1 dii` <sup>[如皋]</sup> 耀武扬威、非常蛮横的样子。  
 1. 【[洋针](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_zhen.md#洋针)】`ian2 zhen1` <sup>[如东]</sup> 缝纫机。  
 1. 【[洋针车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_zhen_cha.md#洋针车)】`ian2 zhen1 cha1` 缝纫机<sup>\[如东\]</sup>  
@@ -506,8 +505,7 @@
 1. 【[羊汤面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_tan_min.md#羊汤面)】`ian2 tan1 min6` <sup>[如东]</sup> 旧时，乡间冬季开设羊肉棚儿，利用新鲜羊肉熬汤，下小刀面，称羊汤面。以大蒜叶为拌料，米醋作浇头，汁浓味纯，是优良的滋补品。  
 1. 【[羊蹄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ti.md#羊蹄)】`ian2 ti2` <sup>[如东]</sup> 蓼科植物羊蹄，多年生草本。高约1米。根粗大黄色。茎直立。根生叶丛生，有长柄。叶片长椭圆形，边缘呈波状。茎生叶较小。总状花序顶生，每节花簇略下垂。花绿色。瘦果三角形，褐色，光亮。生长在路旁、沟边：羊蹄实/蓼科植物羊蹄果实。  
 1. 【[羊外肾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_vae_shen.md#羊外肾)】`ian2 vae6 shen5` <sup>[如东]</sup> 牛科动物山羊或绵羊睾丸。  
-1. 【[羊腥气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_xien_qi.md#羊腥气)】`ian2 xien1 qi5` <sup>[如皋]</sup> 即膻腥气。  
-1. 【[羊腥气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_xien_qi.md#羊腥气)】`ian2 xien1 qi5` <sup>[如东]</sup> 羊膻味。  
+1. 【[羊腥气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_xien_qi.md#羊腥气)】`ian2 xien1 qi5` <small>/iã2 ɕiəŋ1 t͡ɕʰʝ5/<sup>如皋</sup></small> ① 即膻腥气。<sup>\[如皋\]</sup> ② 羊膻味。<sup>\[如东\]</sup>  
 1. 【[羊尿脬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_xy_po.md#羊尿脬)】`ian2 xy1 po1` <sup>[如东]</sup> 羊的膀胱。  
 1. 【[羊须](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_xy.md#羊须)】`ian2 xy1` <sup>[如东]</sup> 牛科动物山羊或绵羊须。  
 1. 【[羊水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_xy.md#羊水)】`ian2 xy3` <sup>[东台]</sup> 指女性怀孕时子宫羊膜腔内的液体。主要来自胚胎的血浆成分。  
@@ -581,9 +579,7 @@
 1. 【[痒魆魆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_xyeh_xyeh.md#痒魆魆)】`ian3 xyeh7 xyeh7` <sup>[兴化]</sup> 皮肤或黏膜受刺激想挠一挠的感觉：周身捱他摸得～的。  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian.md#□)】`ian5` 比较长度<sup>\[如东\]</sup>  
 1. 【[䬬/䑆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian.md#䬬/䑆)】`ian5` <small>/iaŋ5/<sup>兴化</sup>, /iã5/<sup>如皋</sup></small> ① （䬬，《广韵·漾韵》於亮切，～，飫也。䑆，【集韻】以兩切，音養。䑆䑆，欲吐。） ② 味过浓而使食欲减退<sup>\[如皋\]</sup>：他吃咖一筷儿场米饭就觉察～起来啊。<sup>\[如皋\]</sup> ③ 过饱<sup>\[兴化\]</sup>：吃咖～住啊。<sup>\[兴化\]</sup> ④ 吃饱以后不想吃的感觉<sup>\[泰州\]</sup>：我已经吃咖～住啊唻，不能再吃吤。<sup>\[泰州\]</sup> ⑤ 油腻难咽，或液体溢出来<sup>\[东台\]</sup>：小孩～吖奶。<sup>\[东台\]</sup> ⑥ 听了恭维话而陶醉<sup>\[东台\]</sup>：你这吖表扬他，把他～煞咖啦。<sup>\[东台\]</sup> ⑦ 食物过肥过腻，难以下咽，以致恶心欲吐。<sup>\[兴化\]</sup>  
-1. 【[䬬人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ren.md#䬬人)】`ian5 ren` <sup>[如东]</sup> 过分油腻，使人厌食：猪肉太油，～。  
-1. 【[䬬人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ren.md#䬬人)】`ian5 ren` <sup>[泰县]</sup> 过分油腻，使人厌食：今吖的菜油放多啊，有些～。  
-1. 【[䬬人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ren.md#䬬人)】`ian5 ren` 肉食过于肥腻令人难以下咽而导致的恶心欲吐感觉<sup>\[泰州\]</sup>：这个肉也太肥啊唻，多～吖，吃咖两块就不想吃咖。<sup>\[泰州\]</sup>  
+1. 【[䬬人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ren.md#䬬人)】`ian5 ren` <small>/iɑŋ5 ɻəŋ/<sup>泰县</sup></small> ① 过分油腻，使人厌食。<sup>\[如东\]</sup><sup>\[泰县\]</sup>：猪肉太油，～。<sup>\[如东\]</sup>｜今吖的菜油放多啊，有些～。<sup>\[泰县\]</sup> ② 肉食过于肥腻令人难以下咽而导致的恶心欲吐感觉<sup>\[泰州\]</sup>：这个肉也太肥啊唻，多～吖，吃咖两块就不想吃咖。<sup>\[泰州\]</sup>  
 1. 【[䬬人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ren_zz.md#䬬人子)】`ian5 ren zz` <sup>[如皋]</sup> 见“䬬”。  
 1. 【[养](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian.md#养)】`ian5` <sup>[如皋]</sup> 纵容：伢儿的坏品总是大人～起来的。  
 1. 【[旺火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_hu.md#旺火)】`ian5 hu3` <sup>[如皋]</sup> 易燃，火旺貌：木头朽啊，烧锅总是不～；干木头～，火头直窜。  
@@ -642,8 +638,7 @@
 1. 【[一朝天子一朝臣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_cho_tin_zz_ieh_cho_chen.md#一朝天子一朝臣)】`ieh7 cho2 tin1 zz3 ieh7 cho2 chen2` <sup>[东台]</sup> 不同的领导用不同的人才。  
 1. 【[一潮水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_cho_shuei.md#一潮水)】`ieh7 cho2 shuei3` 阴历初十和二十五开始潮水水位升高，叫做起水。十一日和二十六日的潮水叫作一潮水。  
 1. 【[一冲之兴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_chon_zhr_xien.md#一冲之兴)】`ieh7 chon1 zhr1 xien5` <sup>[兴化]</sup> 由着性子，凭好恶行事：他做事总是～，过后就丢啊干干净净。也说“一兴之头”。  
-1. 【[一冲之性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_chon_zhr_xien.md#一冲之性)】`ieh7 chon3 zhr1 xien5` <sup>[如皋]</sup> 冲动、不冷静：少年人～做蠢事是常事，要接受教训，学会冷静才好。  
-1. 【[一冲之性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_chon_zhr_xien.md#一冲之性)】`ieh7 chon3 zhr1 xien5` <sup>[泰州]</sup> ① 一下就冲动起来的脾气，意谓遇事不能冷静对待，不考虑任性后果：离婚不是小事，你要想 ② 吖一当吖再做，不能～，到时候反悔就来不洎嗳。  
+1. 【[一冲之性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_chon_zhr_xien.md#一冲之性)】`ieh7 chon3 zhr1 xien5` <small>/iəʔ7 t͡sʰɔŋ3 t͡sɿ1 ɕiəŋ5/<sup>如皋</sup></small> ① 冲动、不冷静<sup>\[如皋\]</sup>：少年人～做蠢事是常事，要接受教训，学会冷静才好。<sup>\[如皋\]</sup> ② 一下就冲动起来的脾气，意谓遇事不能冷静对待，不考虑任性后果<sup>\[泰州\]</sup>：离婚不是小事，你要想<sup>\[泰州\]</sup> ③ 吖一当吖再做，不能～，到时候反悔就来不洎嗳。<sup>\[泰州\]</sup>  
 1. 【[一冲之兴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_chon_zhr_xien.md#一冲之兴)】`ieh7 chon5 zhr1 xien5` <small>/iʔ7 t͡sʰɔŋ5 t͡sɿ1 ɕiŋ5/<sup>泰兴</sup></small> ① 不假思索依着一时冲动和兴致说话、办事<sup>\[东台\]</sup>：你～，哿晓得后果有多严重？！<sup>\[东台\]</sup> ② 不经过认真思考，凭着性气行事。<sup>\[泰兴\]</sup>：他～，失手打人，是不对的。<sup>\[泰兴\]</sup>  
 1. 【[一䟳一滑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_chr_ieh_huaeh.md#一䟳一滑)】`ieh7 chr1 ieh7 huaeh8` <small>/iəʔ7 t͡sʰɿ1 iəʔ7 xuæʔ8/<sup>兴化</sup>, /iʔ7 t͡sʰɿ1 iʔ7 ʋæʔ8/<sup>泰兴</sup></small> 走一步滑一步，常用于泥泞路面上艰难行走的样子<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：刚刚落咖雨，泥路上～的，不好跑。<sup>\[如东\]</sup>｜他冒啊风雨，～赶往工地。<sup>\[兴化\]</sup>｜路上～的，走路要注意。<sup>\[兴化\]</sup>｜他俫从乡里～跑到家，浑身都是烂泥。<sup>\[泰州\]</sup>  
 1. 【[一䟳两个档](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_chr_laen_gu.md#一䟳两个档)】`ieh7 chr1 laen3 gu5 dan5` <sup>[泰兴]</sup> 一举两得  
