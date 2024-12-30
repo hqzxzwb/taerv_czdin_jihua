@@ -1184,7 +1184,7 @@
 1. 【[耷眼梢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_ngaen_sho.md#耷眼梢)】`dah7 ngaen3 sho1` <sup>[如皋]</sup> 外眼角偏下的眼形。  
 1. 【[耷皮眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_pi_ngaen.md#耷皮眼)】`dah7 pi2 ngaen3` <sup>[如皋]</sup> 上眼睑松垂的眼形。  
 1. 【[耷穗头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_qy_teu_r.md#耷穗头<sub>儿</sub>)】`dah7 qy6 teu2 r` <sup>[如皋]</sup> 稷型圆椎花序：稻、糜、穄之穗，成熟即垂。  
-1. 【[耷舌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_shih_r.md#耷舌<sub>儿</sub>)】`dah7 shih8 r` <small>/tɑʔ7 ɕiɪʔ8 ɚ/<sup>泰县</sup></small> ① 耷，下垂。～指舌头不灵活，说话含糊。<sup>\[东台\]</sup> ② 一种布鞋。<sup>\[泰县\]</sup> ③ 帽檐。<sup>\[泰县\]</sup> ④ 结巴。<sup>\[泰县\]</sup> ⑤ 舌头不灵活，说话口齿不清的人<sup>\[泰州\]</sup>：他是个～，你同他唩蛮唩不清。<sup>\[泰州\]</sup>  
+1. 【[耷舌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_shih_r.md#耷舌<sub>儿</sub>)】`dah7 shih8 r` <small>/tɑʔ7 ɕiɪʔ8 ɚ/<sup>泰县</sup></small> ① 一种布鞋。<sup>\[泰县\]</sup> ② 帽檐。<sup>\[泰县\]</sup> ③ 舌头不灵活，说话含糊的人<sup>\[东台\]</sup><sup>\[泰州\]</sup>\[泰县：结巴。\]：他是个～，你同他唩蛮唩不清。<sup>\[泰州\]</sup>  
 1. 【[耷帅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_shuae.md#耷帅)】`dah7 shuae5` <sup>[如皋]</sup> 贬指愚笨者、弱者。  
 1. 【[耷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_zz.md#耷子)】`dah7 zz` <small>/taʔ7 t͡sɿ/<sup>如皋</sup></small> ① 娇惯成性者<sup>\[如皋\]</sup>：叼子～，爬上桌子。<sup>\[如皋\]</sup> ② 耷子和等和种的基本构成单位，由三张花色相同数码相连的牌组成。<sup>\[如东\]</sup>  
 1. 【[耷子和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_zz_hv.md#耷子和)】`dah7 zz hv2` <small>/taʔ7 t͡sɿ fu2/<sup>如皋</sup></small> ① 旧式纸牌的一种玩法。<sup>\[如皋\]</sup> ② 一种智力博戏，产生在清朝中叶之后。以纸牌为工具，分万儿、饼儿、条儿、大将和星儿五种，共125张。入局四人，三人打牌，每人22张，凑成六搭即为成和。胜负以和数多少为依据。最高和数达1 1200和。这是群众博戏活动的方式之一，流行在苏北地区。<sup>\[如东\]</sup>  
@@ -1908,7 +1908,6 @@
 1. 【[踮起脚来相嘴——硬巴结人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_qi_jiah_lae_xian_jy_ngen_ba_jih_ren.md#踮起脚来相嘴——硬巴结人)】`din5 qi3 jiah7 lae2 xian1 jy3 ngen6 ba1 jih7 ren2` <sup>[东台]</sup>   
 1. 【[䂏尾<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_vei_r.md#䂏尾<sub>儿</sub>)】`dio1 vei3 r` <sup>[如皋]</sup> ① 短尾巴或没有尾巴 ② 比喻人绝后代。  
 1. 【[刁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio.md#刁)】`dio1` <small>/tiɔ1/<sup>兴化</sup>, /tiɔ1/<sup>如皋</sup>, /tiɔ1/<sup>泰兴</sup></small> ① 形容生活的标准高妙<sup>\[如皋\]</sup>：吃得～、穿得～、吃～肴。<sup>\[如皋\]</sup> ② 形容人诡诈、爱占便宜<sup>\[兴化\]</sup>：这个人～，吃亏的事不做。<sup>\[兴化\]</sup> ③ 要求苛刻<sup>\[泰兴\]</sup>：嘴～/挑食<sup>\[泰兴\]</sup> ④ 狡诈；阴险；鬼点子多。乡人有“刁啊刁，串子绳束裤腰”之熟语，谓刁狡者反而过很苦的日子。<sup>\[泰兴\]</sup> ⑤ 狡诈，狡猾<sup>\[泰州\]</sup>：他这个人的～在单位上是出咖名的。<sup>\[泰州\]</sup> ⑥ 对事物及其挑剔<sup>\[泰州\]</sup>：他的嘴～得狠，隔咖宿的菜一口都不吃。<sup>\[泰州\]</sup>  
-1. 【[刁屄沰舌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_bi_dah_shih.md#刁屄沰舌)】`dio1 bi1 dah7 shih8` <sup>[泰州]</sup> 詈词，骂人说话吐字不清：他～的说咖半天，哪个晓得他说的甚的。  
 1. 【[刁笔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_bieh.md#刁笔)】`dio1 bieh7` <sup>[东台]</sup> 指旧时包揽讼事的讼棍。也称“破靴”。  
 1. 【[刁边耷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_bin_dah.md#刁边耷)】`dio1 bin1 dah7` <sup>[泰县]</sup> 说话不清：这人是～。  
 1. 【[刁菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_cae.md#刁菜)】`dio1 cae5` <sup>[如皋]</sup> 贪吃美味菜肴而不思吃饭的行为。  
@@ -1930,7 +1929,7 @@
 1. 【[刟人牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_ren_ngeu.md#刟人牛)】`dio1 ren2 ngeu2` <small>/tiɔ1 ɻəŋ2 ŋei2/<sup>如皋</sup>, /tiɔ1 ɻəŋ2 ŋəɪ2/<sup>泰兴</sup>, /tiɔ1 ɻəŋ ɤɯ2/<sup>泰县</sup></small> 常以角牴人的牛。也比喻好斗的、常找人麻烦的人。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>：～，好活技。<sup>\[泰兴\]</sup>  
 1. 【[叼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio.md#叼)】`dio1` ① 说话口齿不清，口吃。 ② 用嘴衔住<sup>\[泰州\]</sup>：刚才望见他嘴里～啊支香烟向东去啊。<sup>\[泰州\]</sup> ③ 用唇、齿夹着少量食物进食<sup>\[泰州\]</sup>：哿是这些菜不对你的胃口啊，我望吖你像有点儿～啊～的样子。<sup>\[泰州\]</sup>  
 1. 【[叼屄耷咍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_bi_dah_hae.md#叼屄耷咍)】`dio1 bi1 dah7 hae1` <sup>[如东]</sup> 说话的声调矫揉造作，嗨嗨呀呀的：王秀秀跟人说话总是～的，听吖人心里不舒服。  
-1. 【[叼屄耷舌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_bi_dah_shih.md#叼屄耷舌)】`dio1 bi1 dah7 shih8` <small>/tiɔ1 pʝ1 tɑʔ7 ɕiʔ8/<sup>泰兴</sup></small> ① （詈语）大舌头，说话不清楚。<sup>\[东台\]</sup><sup>\[如东\]</sup><sup>\[泰兴\]</sup>：王长如说话～的，听不清楚。<sup>\[如东\]</sup> ② 讽说话故意拿腔拿调<sup>\[泰兴\]</sup>  
+1. 【[叼屄耷舌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_bi_dah_shih.md#叼屄耷舌)】`dio1 bi1 dah7 shih8` <small>/tiɔ1 pʝ1 tɑʔ7 ɕiʔ8/<sup>泰兴</sup></small> ① （詈语）大舌头，说话不清楚。<sup>\[东台\]</sup><sup>\[如东\]</sup><sup>\[泰兴\]</sup><sup>\[泰州\]</sup>：王长如说话～的，听不清楚。<sup>\[如东\]</sup>｜他～的说咖半天，哪个晓得他说的甚的。<sup>\[泰州\]</sup> ② 讽说话故意拿腔拿调<sup>\[泰兴\]</sup>  
 1. 【[叼屄耷舌的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_bi_dah_shih_dii.md#叼屄耷舌的)】`dio1 bi1 dah7 shih8 dii` <sup>[如皋]</sup> 贬指因舌过长而吐字不清。  
 1. 【[叼叼耷耷的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_dio_dah_dah_dii.md#叼叼耷耷的)】`dio1 dio1 dah7 dah7 dii` <sup>[如皋]</sup> 因娇惯而娇痴的样子，说话变叼。  
 1. 【[叼二沰二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_er_dah_er.md#叼二沰二)】`dio1 er6 dah7 er6` <small>/tiɔ1 ɚ6 taʔ7 ɚ6/<sup>兴化</sup>, /tiɔ1 ɚ1 tɑʔ7 ɚ1/<sup>泰县</sup></small> ① 挑食，每餐吃很长时间<sup>\[兴化\]</sup>：他吃零食一头劲，吃到茶饭就～的。<sup>\[兴化\]</sup> ② 不专一，慢吞吞。<sup>\[泰县\]</sup>  
@@ -1949,10 +1948,10 @@
 1. 【[屌话饰卵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_hua_sheh_lun.md#屌话饰卵)】`dio3 hua sheh7 lun3` <sup>[如东]</sup> 比喻胡说八道，满口谎言：这个人～的，不要相信。  
 1. 【[屌郎当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_lan_dan.md#屌郎当)】`dio3 lan2 dan1` <sup>[东台]</sup> 男人（多指男孩）一丝不挂的样子。  
 1. 【[屌毛灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_mo_huei.md#屌毛灰)】`dio3 mo2 huei1` <small>/tiɔ3 mɔ2 xuei1/<sup>如皋</sup></small> ① 比喻没有用的人。<sup>\[如东\]</sup>：他是个～。<sup>\[如东\]</sup> ② 轻微得不值提、不屑一说或指什么都没有。<sup>\[如皋\]</sup> ③ 见“卵毛灰”。<sup>\[如皋\]</sup> ④ 粗话，表示极度轻蔑<sup>\[泰州\]</sup>：（甲）你嘴里不要瞎说八道的，当心他收拾你！（乙）～，他就是人在这块，也没得哪个怕他。<sup>\[泰州\]</sup>  
-1. 【[屌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_r.md#屌<sub>儿</sub>)】`dio3 r` <small>/tiɔ˞3/<sup>如皋</sup></small> ① 男性生殖器。<sup>\[如东\]</sup> ② 阴茎。也说“屌子”。<sup>\[如皋\]</sup>  
+1. 【[屌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_r.md#屌<sub>儿</sub>)】`dio3 r` <small>/tiɔ˞3/<sup>如皋</sup></small> 阴茎<sup>\[如东\]</sup><sup>\[如皋\]</sup>  
 1. 【[屌<sub>儿</sub>郎当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_r_lan_dan.md#屌<sub>儿</sub>郎当)】`dio3 r lan2 dan1` <sup>[如东]</sup> ① 作风散漫：办事不能～的。 ② 仪容不整：看他那个～的样子。  
 1. 【[屌人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_ren.md#屌人)】`dio3 ren2` <sup>[泰州]</sup> 对人的蔑称。  
-1. 【[屌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_zz.md#屌子)】`dio3 zz` <sup>[泰县]</sup> 男性生殖器。  
+1. 【[屌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_zz.md#屌子)】`dio3 zz` <small>/tiɔ3 t͡sɿ/<sup>如皋</sup>, /tiɔ3 t͡se/<sup>泰县</sup></small> 阴茎<sup>\[泰县\]</sup><sup>\[如皋\]</sup>  
 1. 【[屌子打连耞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_zz_da_lin_gae.md#屌子打连耞)】`dio3 zz da3 lin2 gae1` <sup>[东台]</sup> 形容贫穷得一无所有。  
 1. 【[吊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio.md#吊)】`dio5` <sup>[兴化]</sup> 购物时一再要卖方添饶头：你买半斤虾儿，～啊又～，倒有七两吖。  
 1. 【[吊八子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_baeh_zz.md#吊八子)】`dio5 baeh7 zz` <sup>[兴化]</sup> 市井暗语，即调戏妇女。  
