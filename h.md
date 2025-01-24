@@ -349,7 +349,7 @@
 1. 【[闲事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_shr.md#闲事)】`haen2 shr6` <sup>[兴化]</sup> ① 事：他岁数虽大一点，蛮管～的（能管事）。 ② 麻烦：惹～；撩～。  
 1. 【[闲暇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_xia.md#闲暇)】`haen2 xia2` <sup>[如皋]</sup> 空闲。  
 1. 【[闲暇无事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_xia_v_shr.md#闲暇无事)】`haen2 xia2 v2 shr6` <sup>[如东]</sup> 清闲无事：～，可以陪你玩耍。  
-1. 【[㨔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen.md#㨔)】`haen3` <small>/xẽ3/<sup>如皋</sup>, /xɑ3/<sup>泰兴</sup></small> 给予；表被动<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰兴\]</sup>：我～钱你用。<sup>\[如皋\]</sup>｜～我；～他<sup>\[泰兴\]</sup>｜～人打啊lei<sup>\[泰兴\]</sup>  
+1. 【[㨔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen.md#㨔)】`haen3` <small>/xẽ3/<sup>如皋</sup>, /xɑ3/<sup>泰兴</sup></small> 给予；表被动（～+施加者+动作）<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰兴\]</sup>：我～钱你用。<sup>\[如皋\]</sup>｜～我；～他<sup>\[泰兴\]</sup>｜～人打啊lei<sup>\[泰兴\]</sup>  
 1. 【[喊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen.md#喊)】`haen3, haen5` <sup>[如皋]</sup> ① 大声呼叫：他看见有坏人，连忙～人来捉。 ② 吩咐，叫：你去把他～得来吃饭。  
 1. 【[喊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen.md#喊)】`haen3` <small>/xɛ̃3/<sup>兴化</sup></small> ① 叫、买<sup>\[兴化\]</sup>：上茶馆～一桌菜。<sup>\[兴化\]</sup> ② 雇<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：～船一车子。<sup>\[兴化\]</sup>｜到外头～部车子过来。<sup>\[泰州\]</sup> ③ 称呼<sup>\[兴化\]</sup>：序起来他该～我叔子。<sup>\[兴化\]</sup> ④ 通知（前往某处）<sup>\[泰州\]</sup>：～几个人过来帮忙。<sup>\[泰州\]</sup> ⑤ 打招呼、问候<sup>\[泰州\]</sup>：望见他也不曾～他。<sup>\[泰州\]</sup> ⑥ 叫醒<sup>\[泰州\]</sup>：快点儿～他起来。<sup>\[泰州\]</sup>  
 1. 【[喊倒好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_do_ho.md#喊倒好)】`haen3 do5 ho3, haen5 do5 ho3` <sup>[如皋]</sup> 喝倒彩，这是对表演者的讽刺。  
@@ -368,12 +368,11 @@
 1. 【[喊冤枉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_iun_van.md#喊冤枉)】`haen5 iun1 van3` <sup>[如东]</sup> 遭受责难不服而大声叫喊。  
 1. 【[喊救命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_jieu_mien.md#喊救命)】`haen5 jieu5 mien6` <sup>[如东]</sup> 紧急求救。  
 1. 【[喊窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_ku.md#喊窠)】`haen5 ku1` <sup>[如东]</sup> 牲畜发情：老母猪～。  
-1. 【[陷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen.md#陷)】`haen5` <sup>[泰州]</sup> 没入人体肌肉之中：脚上的指甲～吖多深，要请个人把脚修啊子。｜她养吖太胖吖唻，网上去像头都～下去唻。  
 1. 【[苋菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_cae.md#苋菜)】`haen6 cae5` 苋菜。蔬菜名。\[泰州：一年生草本植物，茎部细长，叶子卵形，呈暗紫色或者绿色，花绿白色，种子黑色，嫩茎叶为夏季常见蔬菜之一。\]\[如东：苋科植物苋菜，一年生草本植物。高约150厘米。茎直立，分枝较少，枝绿色。叶互生，棱状广卵形或村角状楔形，叶有绿色、红色、暗紫色或带紫斑等。花序在下部者呈球形，上部呈稍断续的穗状花序。花黄绿色，单性，雌雄同株。胞果椭圆形。种子黑褐色。栽培。\]\[东台：茎细长，叶子椭圆形，有长柄，暗紫色或绿色，花绿白色，种子黑色。\]  
 1. 【[苋菜果](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_cae_gu.md#苋菜果)】`haen6 cae5 gu3` <sup>[泰县]</sup> 苋菜茎部腌制成的食品。  
 1. 【[苋菜股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_cae_gv.md#苋菜股)】`haen6 cae5 gv3` <small>/xɛ̃6 t͡sʰɛ5 ku3/<sup>兴化</sup></small> ① 将老苋菜粗壮的茎放在咸菜卤中发酵泡制的小菜。<sup>\[东台\]</sup> ② 苋菜的茎腌制，有特殊臭味，能开胃。<sup>\[兴化\]</sup>  
 1. 【[限定](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_tien.md#限定)】`haen6 tien6` ① 必须 ② 规定。<sup>\[如东\]</sup>：不～甚的时候动身。<sup>\[如东\]</sup>  
-1. 【[陷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen.md#陷)】`haen6` <small>/xɛ̃1/<sup>泰县</sup></small> 陷<sup>\[如东\]</sup><sup>\[泰县\]</sup>：这许沙土软，～脚。<sup>\[如东\]</sup>｜落雨天，我的脚～吖泥肚里。<sup>\[泰县\]</sup>  
+1. 【[陷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen.md#陷)】`haen6` <small>/xɛ̃1/<sup>泰县</sup></small> 陷<sup>\[如东\]</sup><sup>\[泰县\]</sup>\[泰州：没入人体肌肉之中\]：这许沙土软，～脚。<sup>\[如东\]</sup>｜落雨天，我的脚～吖泥肚里。<sup>\[泰县\]</sup>｜脚上的指甲～吖多深，要请个人把脚修啊子。<sup>\[泰州\]</sup>｜她养吖太胖吖唻，望上去像头都～下去唻。<sup>\[泰州\]</sup>  
 1. 【[陷吖肚里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_nga_tv_lii.md#陷吖肚里)】`haen6 nga tv6 lii` <sup>[东台]</sup> 形容掉进去无法出来。  
 1. 【[陷人坑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_ren_ken.md#陷人坑)】`haen6 ren2 ken1` <sup>[兴化]</sup> （喻）害人的圈套（原文此处记音“坑”为ken3，是孤例）：传销组织是个～，千万覅上当。  
 1. 【[陷针布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_zhen_bv.md#陷针布)】`haen6 zhen1 bv5` <sup>[如皋]</sup> 布鞋底最下面的一层布，纳底时线迹可陷入。  
