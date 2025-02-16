@@ -43,9 +43,7 @@
 1. 【[乌鸦翅羽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_nga_zhr_y.md#乌鸦翅羽)】`v1 nga1 zhr5 y3` <sup>[如东]</sup> 鸦科动物大嘴乌鸦翅羽。  
 1. 【[乌篷船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_pon_chun.md#乌篷船)】`v1 pon2 chun2` <sup>[如皋]</sup> 船上罩有拱形黑色桐油席蓬的船。  
 1. 【[乌漆䵬黑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_qieh_taeh_heh.md#乌漆䵬黑)】`v1 qieh taeh heh7` <sup>[如皋]</sup> 见“乌黑的”。  
-1. 【[乌七八糟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_qieh_baeh_zo.md#乌七八糟)】`v1 qieh7 baeh7 zo1` <sup>[东台]</sup> 形容事物肮脏，见不得人：企业弄得～。  
-1. 【[乌七八糟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_qieh_baeh_zo.md#乌七八糟)】`v1 qieh7 baeh7 zo1` <sup>[兴化]</sup> ① 形容十分脏乱：几个人打一夜扑克，把屋里弄得～的。 ② （借）指流品复杂，品格低下的人群：他常把一群～的朋友领家来，闹得乌烟瘴气的。“乌”也作“污”。  
-1. 【[乌七八糟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_qieh_baeh_zo.md#乌七八糟)】`v1 qieh7 baeh7 zo1` <small>/ʋ1 t͡ɕʰiəʔ7 pæʔ7 t͡sɔ1/<sup>泰兴</sup></small> 乱七八糟，肮脏而又混乱。<sup>\[泰兴\]</sup>  
+1. 【[乌七八糟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_qieh_baeh_zo.md#乌七八糟)】`v1 qieh7 baeh7 zo1` <small>/u1 t͡ɕʰiəʔ7 pæʔ7 t͡sɔ1/<sup>兴化</sup>, /ʋ1 t͡ɕʰiəʔ7 pæʔ7 t͡sɔ1/<sup>泰兴</sup></small> ① 形容事物肮脏，见不得人<sup>\[东台\]</sup>：企业弄得～。<sup>\[东台\]</sup> ② 形容十分脏乱<sup>\[兴化\]</sup>：几个人打一夜扑克，把屋里弄得～的。<sup>\[兴化\]</sup> ③ （借）指流品复杂，品格低下的人群<sup>\[兴化\]</sup>：他常把一群～的朋友领家来，闹得乌烟瘴气的。“乌”也作“污”。<sup>\[兴化\]</sup> ④ 乱七八糟，肮脏而又混乱。<sup>\[泰兴\]</sup>  
 1. 【[乌漆抹黑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_qieh_maeh_heh.md#乌漆抹黑)】`v1 qieh7 maeh8 heh7` <sup>[东台]</sup> 形容夜晚或形容人的皮肤非常黑。  
 1. 【[乌漆墨黑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_qieh_moh_heh.md#乌漆墨黑)】`v1 qieh7 moh8 heh7` <small>/u1 t͡ɕʰiəʔ7 mɔʔ8 xəʔ7/<sup>兴化</sup></small> ① 一片漆黑。<sup>\[如东\]</sup>：家里～的。<sup>\[如东\]</sup> ② 形容非常黑、非常暗<sup>\[兴化\]</sup>：外头～的，你慢慢走，当心脚下。<sup>\[兴化\]</sup> ③ 极黑暗的状态<sup>\[泰州\]</sup>：外栋～的，你带把电筒再走。<sup>\[泰州\]</sup>  
 1. 【[乌蓲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_qieu.md#乌蓲)】`v1 qieu1` <sup>[如皋]</sup> 荻。固岸草。  

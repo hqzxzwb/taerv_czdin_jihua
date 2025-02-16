@@ -792,8 +792,7 @@
 1. 【[风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon.md#风)】`fon1` <small>/foŋ1/<sup>兴化</sup></small> ① 由于气压分布不均匀，引起地面空气流动而产生风。风力通常分为十三级，即零级至十二级。<sup>\[如东\]</sup> ② 一种腌制鸡、鱼的方法。腊月，把鸡、鱼加盐，捆扎起来，放在背阳的地方风干，味道香。<sup>\[如东\]</sup> ③ 即借助风力把混在稻麦中的芒、稳子（颖片）扬掉<sup>\[兴化\]</sup>：上场～稻；～大麦。<sup>\[兴化\]</sup>  
 1. 【[风摆柳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_bae_lieu.md#风摆柳)】`fon1 bae3 lieu3` <small>/fɔŋ1 pɛ3 lyʊ3/<sup>如皋</sup></small> ① 柳枝在风中摇摆不定的姿态。<sup>\[如东\]</sup> ② 比喻女子的轻佻作风。<sup>\[如东\]</sup>：不要像个～是的。<sup>\[如东\]</sup> ③ 专指年轻女性举止不庄重，或指人。<sup>\[如皋\]</sup> ④ 指小孩走路飘忽。<sup>\[如皋\]</sup>  
 1. 【[风斑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_baen.md#风斑)】`fon1 baen1` <sup>[如皋]</sup> 风化的痕迹。  
-1. 【[风车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_cha.md#风车)】`fon1 cha1` <sup>[如东]</sup> 利用风力戽水的水车。  
-1. 【[风车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_cha.md#风车)】`fon1 cha1` <small>/fɔŋ1 t͡sʰɑ1/<sup>泰兴</sup></small> 以风为动力带动水车车水的农具。<sup>\[泰兴\]</sup>  
+1. 【[风车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_cha.md#风车)】`fon1 cha1` <small>/fɔŋ1 t͡sʰɑ1/<sup>泰兴</sup></small> 利用风力车水的水车。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
 1. 【[风车<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_cha_r.md#风车<sub>儿</sub>)】`fon1 cha1 r` <sup>[如皋]</sup> 风车，儿童玩具。  
 1. 【[风车<sub>儿</sub>顶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_cha_r_dien.md#风车<sub>儿</sub>顶)】`fon1 cha1 r dien3` <sup>[如皋]</sup> 中服葡萄结的蟠缠工序之一。  
 1. 【[风吹壁倒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_chuei_bieh_do.md#风吹壁倒)】`fon1 chuei1 bieh7 do3` <sup>[如皋]</sup> 虚弱无力的样子。  
@@ -804,17 +803,16 @@
 1. 【[风风扬扬的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_fon_ian_ian_dii.md#风风扬扬的)】`fon1 fon1 ian2 ian2 dii` <sup>[如皋]</sup> 纷纷流传不利于某人的消息。  
 1. 【[风风雨雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_fon_y_y.md#风风雨雨)】`fon1 fon1 y3 y3` <small>/fɔŋ1 fɔŋ1 y3 y3/<sup>泰兴</sup></small> ① 比喻环境恶劣，不得安宁。<sup>\[如东\]</sup> ② 比喻遭遇的困难很多。<sup>\[如东\]</sup>：～大半生。<sup>\[如东\]</sup> ③ 比喻议论纷纷。<sup>\[泰兴\]</sup>：满城～的，总在议论箇桩事。<sup>\[泰兴\]</sup>  
 1. 【[风光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_guan.md#风光)】`fon1 guan1` <small>/foŋ1 kuaŋ1/<sup>兴化</sup></small> 体面<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：儿子考上大学，做父母的也感到～。<sup>\[兴化\]</sup>  
-1. 【[风干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_gun.md#风干)】`fon1 gun1` <sup>[东台]</sup> 放在阴凉的地方，让风吹干：～腊肉。  
-1. 【[风干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_gun.md#风干)】`fon1 gun1` <small>/fɔŋ1 kʊ̃1/<sup>泰兴</sup></small> 借风力吹干。<sup>\[泰兴\]</sup>：～肉、～萝卜<sup>\[泰兴\]</sup>  
+1. 【[风干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_gun.md#风干)】`fon1 gun1` <small>/fɔŋ1 kʊ̃1/<sup>泰兴</sup></small> ① 放在阴凉的地方，让风吹干<sup>\[东台\]</sup>：～腊肉。<sup>\[东台\]</sup> ② 借风力吹干。<sup>\[泰兴\]</sup>：～肉、～萝卜<sup>\[泰兴\]</sup>  
 1. 【[风虾<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_ha_r.md#风虾<sub>儿</sub>)】`fon1 ha1 r` <sup>[兴化]</sup> 产于湖荡荒滩的一种小虾，多用来磨虾酱或沤肥。  
 1. 【[风吼吼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_heu_heu.md#风吼吼)】`fon1 heu3 heu3` <sup>[泰州]</sup> 大风刮得一阵紧随一阵：外头～的，你等风小啊再出去。  
-1. 【[风话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_hua.md#风话)】`fon1 hua6` <sup>[泰州]</sup> 戏谑挑逗之时说的涉及情爱的话：他还是伢ㄦ，你不要同他说这些风话。  
-1. 【[风话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_hua.md#风话)】`fon1 hua6` <small>/fɔŋ1 xuɑ1/<sup>泰兴</sup></small> 没有根据的传说。<sup>\[泰兴\]</sup>：箇些～不能听。<sup>\[泰兴\]</sup>  
+1. 【[风话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_hua.md#风话)】`fon1 hua6` <small>/fɔŋ1 xuɑ1/<sup>泰兴</sup></small> ① 戏谑挑逗之时说的涉及情爱的话<sup>\[泰州\]</sup>：他还是伢ㄦ，你不要同他说这些～。<sup>\[泰州\]</sup> ② 没有根据的传说。<sup>\[泰兴\]</sup>：箇些～不能听。<sup>\[泰兴\]</sup>  
 1. 【[风戽戽的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_hv_hv_dii.md#风戽戽的)】`fon1 hv5 hv5 dii` <sup>[如皋]</sup> 风劲吹。  
 1. 【[风鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_ji.md#风鸡)】`fon1 ji1` 腌制风干的鸡。<sup>\[东台\]</sup><sup>\[泰州\]</sup>  
 1. 【[风激人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_jieh_ren.md#风激人)】`fon1 jieh7 ren2` <sup>[如皋]</sup> 风大，迎风时呼吸困难。  
 1. 【[风激人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_jieh_ren_zz.md#风激人子)】`fon1 jieh7 ren2 zz` <sup>[如皋]</sup> 见“风激人”。  
 1. 【[风尖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_jin.md#风尖)】`fon1 jin1` <sup>[如皋]</sup> 寒风穿透衣服，使人觉得冷。  
+1. 【[风凉飕飕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_lian_seu_seu.md#风凉飕飕)】`fon1 lian seu2 seu2` <small>/fɔŋ1 liɑŋ sɤɯ2 sɤɯ2/<sup>泰兴</sup></small> 通风而凉爽<sup>\[泰兴\]</sup>  
 1. 【[风凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_lian.md#风凉)】`fon1 lian2` <small>/fɔŋ1 liɑŋ2/<sup>泰兴</sup>, /foŋ1 niɑŋ2/<sup>泰县</sup></small> 凉快。<sup>\[如东\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>：楼上～。<sup>\[泰县\]</sup>｜巷子口～<sup>\[泰兴\]</sup>  
 1. 【[风凉话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_lian_hua.md#风凉话)】`fon1 lian2 hua6` <small>/fɔŋ1 liɑŋ2 xuɑ1/<sup>泰兴</sup></small> 不负责任或讥讽别人的话<sup>\[如东\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：他在那许说～。<sup>\[如东\]</sup>｜你不要在旁边说～，有本事你弄弄看。<sup>\[泰州\]</sup>  
 1. 【[风菱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_lien.md#风菱)】`fon1 lien2` <small>/foŋ1 liɪ̃2/<sup>兴化</sup>, /fɔŋ1 liəŋ2/<sup>如皋</sup></small> ① 见“老菱”。<sup>\[如皋\]</sup> ② 表面呈紫红或青色，个体较大，只有两个角的菱。<sup>\[兴化\]</sup> ③ 一种体形扁大，只有两个角的菱角，体大而有气势，故名。<sup>\[泰州\]</sup>  
@@ -843,8 +841,7 @@
 1. 【[风哇哇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_va_va.md#风哇哇)】`fon1 va1 va1` <sup>[兴化]</sup> 微风吹拂：外头～的，我身上倒有点凉吖。  
 1. 【[风闻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_ven.md#风闻)】`fon1 ven2` <sup>[如东]</sup> 听说的消息。  
 1. 【[风虾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_xia.md#风虾)】`fon1 xia1` <sup>[如东]</sup> 虾的一种。体型较小，黑褐色。生活在淡水中。肉可食。  
-1. 【[风箱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_xian.md#风箱)】`fon1 xian1` <sup>[如东]</sup> 鼓风的工具。长方形，一头有孔，中间有一活塞，来回推动，产生风。  
-1. 【[风箱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_xian.md#风箱)】`fon1 xian1` <small>/fɔŋ1 ɕiɑŋ1/<sup>泰兴</sup></small> ① 昔时用以鼓风吹火烧饭的用具（配图待上传）<sup>\[泰兴\]</sup> ② 扬弃稻麦芒壳杂质的农具，木质。今已绝。<sup>\[泰兴\]</sup>  
+1. 【[风箱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_xian.md#风箱)】`fon1 xian1` <small>/fɔŋ1 ɕiɑŋ1/<sup>泰兴</sup></small> ① 鼓风的工具。长方形，一头有孔，中间有一活塞，来回推动，产生风。<sup>\[如东\]</sup> ② 昔时用以鼓风吹火烧饭的用具（配图待上传）<sup>\[泰兴\]</sup> ③ 扬弃稻麦芒壳杂质的农具，木质。今已绝。<sup>\[泰兴\]</sup>  
 1. 【[风箱板做锅盖——受啊冷气受热气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_xian_baen_zu_gu_gae_sheu_a_len_qi_sheu_rih_qi.md#风箱板做锅盖——受啊冷气受热气)】`fon1 xian1 baen3 zu5 gu1 gae5 sheu6 a len3 qi5 sheu6 rih8 qi5` <sup>[东台]</sup>   
 1. 【[风箱里的老鼠——两头受气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_xian_li_dii_lo_chv_laen_teu_sheu_qi.md#风箱里的老鼠——两头受气)】`fon1 xian1 li dii lo3 chv3 laen3 teu2 sheu6 qi5` <sup>[东台]</sup>   
 1. 【[风向](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_xian.md#风向)】`fon1 xian5` <sup>[如东]</sup> 风吹来的方向。  

@@ -721,8 +721,7 @@
 1. 【[没（得）头绪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_teu_qy.md#没（得）头绪)】`meh8 teu2 qy6` <sup>[如皋]</sup> 无价值：这些事～，不要插手。  
 1. 【[没头绪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_teu_qy.md#没头绪)】`meh8 teu2 qy6` ① 没有办法。<sup>\[如东\]</sup>：黄林明～。<sup>\[如东\]</sup> ② 没有靠山。<sup>\[如东\]</sup>：这个人～，吃不开。<sup>\[如东\]</sup> ③ 没水平，没本事，或者指某人地位低，某物质量差。<sup>\[东台\]</sup>  
 1. 【[没头神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_teu_shen.md#没头神)】`meh8 teu2 shen2` <sup>[兴化]</sup> （喻）行为葬撞，无所顾忌的市井无赖：（张保）带了这几个～，吃得半醉……（《水浒传》四四）也作“没头鬼”。  
-1. 【[没头断](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_teu_tun.md#没头断)】`meh8 teu2 tun6` <sup>[泰县]</sup> 淹水里不见头顶：落咖水，淹得个～。  
-1. 【[没头𤁡/段](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_teu_tun.md#没头𤁡/段)】`meh8 teu2 tun6` <sup>[泰州]</sup> ① 头部、身子全部沉没水中：望见她走桥上望河里一跳，暂时人就～，沉吖去啊。 ② 比喻做事慌乱无章：这吖大的人做事还是～。  
+1. 【[没头段/𤁡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_teu_tun.md#没头段/𤁡)】`meh8 teu2 tun6` <small>/məʔ8 tʰɤɯ2 tʰõ1/<sup>泰县</sup></small> ① 淹水里不见头顶<sup>\[泰县\]</sup><sup>\[泰州\]</sup>：落咖水，淹得个～。<sup>\[泰县\]</sup>｜望见她走桥上望河里一跳，暂时人就～，沉吖去啊。<sup>\[泰州\]</sup> ② 比喻做事慌乱无章<sup>\[泰州\]</sup>：这吖大的人做事还是～。<sup>\[泰州\]</sup>  
 1. 【[没（得）定数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_tien_shv.md#没（得）定数)】`meh8 tien6 shv5` <sup>[如皋]</sup> 没有定准：天气不正常，他来不来～。  
 1. 【[没（得）洞里𠞖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_ton_lii_gon.md#没（得）洞里𠞖)】`meh8 ton6 lii gon1` <sup>[如皋]</sup> ① 羞愧得无地自容。 ② 怕得无处躲藏。  
 1. 【[没（得）胃口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_vei_keu.md#没（得）胃口)】`meh8 vei6 keu3` <sup>[如皋]</sup> 没有食次，喻没有要求。  
