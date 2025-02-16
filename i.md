@@ -1787,7 +1787,7 @@
 1. 【[盐灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_zo.md#盐灶)】`in2 zo5` ① 烧盐的灶。用泥土砌成，长条形，一般安放5至7口整锅。<sup>\[如东\]</sup> ② 烧盐的地方。<sup>\[如东\]</sup>：住啊在～里。<sup>\[如东\]</sup> ③ 煮海水煎盐所用的灶。后来灶名逐步变为地名。<sup>\[东台\]</sup>  
 1. 【[筵请](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_qien.md#筵请)】`in2 qien3` <sup>[如东]</sup> 请人喝酒：今朝他家～。  
 1. 【[芫荽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_suei.md#芫荽)】`in2 suei1, in2 xy1` 香菜  
-1. 【[芫荽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_xy.md#芫荽)】`in2 xy1` ① 一年生草本植物，叶互生，羽状复叶，茎和叶有特殊香气，花小，白色。通称香菜。<sup>\[东台\]</sup> ② 即香菜，一年生的草本植物，羽状复叶，白色小花，果实圆形，茎叶有特殊香气。<sup>\[泰州\]</sup>  
+1. 【[芫荽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_xy.md#芫荽)】`in2 xy1` 芫荽，香菜<sup>\[东台\]</sup><sup>\[泰州\]</sup>  
 1. 【[蜒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in.md#蜒)】`in2` <small>/iɪ̃2/<sup>兴化</sup>, /ĩ2/<sup>如皋</sup></small> ① 慢而轻缓地行动<sup>\[如皋\]</sup>：他站吖门外的，不晓得哪刻儿～进来的。<sup>\[如皋\]</sup>｜黏滑虫儿（蛞蝓）爬起来～吖～的。<sup>\[如皋\]</sup> ② 蜗牛等软体动物爬行<sup>\[兴化\]</sup>：朝墙上～。<sup>\[兴化\]</sup> ③ （借）形容悄无声息地缓慢行进<sup>\[兴化\]</sup>：他早上气啊跑掉，晚上又～吖家来。<sup>\[兴化\]</sup> ④ 兴化词典作“𧍢”，《集韵·狝韵》以浅切“～，虫行貌”。（声调不合）<sup>\[兴化\]</sup>  
 1. 【[蜒二摸三的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_er_mah_saen_dii.md#蜒二摸三的)】`in2 er6 mah8 saen1 dii` <sup>[如皋]</sup> 漫不经心的，有意无意的摸弄，耽搁时间。  
 1. 【[言帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_ban.md#言帮)】`in2 ban1` <sup>[如皋]</sup> （讠）：计论讽。  
