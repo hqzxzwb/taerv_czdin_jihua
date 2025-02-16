@@ -3,18 +3,22 @@
 ## V
 1. 【[捂嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_jy.md#捂嘴)】`v jy3` <sup>[如东]</sup> 用手把嘴遮住。  
 1. 【[乌八代](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_baeh_tae.md#乌八代)】`v1 baeh7 tae6` <sup>[泰县]</sup> 责任心很差。  
+1. 【[乌阵陡暗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_chen_deu_un.md#乌阵陡暗)】`v1 chen1 deu3 un5` <small>/ʋ1 t͡sʰəŋ1 təɪ3 ʊ̃5/<sup>泰兴</sup></small> 乌云密布，暴雨将至的样子。<sup>\[泰兴\]</sup>：外头～的，要落大雨了。<sup>\[泰兴\]</sup>  
 1. 【[乌灯瞎火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_den_haeh_hu.md#乌灯瞎火)】`v1 den1 haeh7 hu3` <sup>[如皋]</sup> 见“乌灯熄火”。  
 1. 【[乌灯黑火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_den_heh_hu.md#乌灯黑火)】`v1 den1 heh7 hu3` <sup>[如皋]</sup> 见“乌灯熄火”。  
-1. 【[乌灯熄火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_den_xieh_hu.md#乌灯熄火)】`v1 den1 xieh7 hu3` <small>/u1 tən1 ɕiəʔ7 xo3/<sup>兴化</sup>, /ʋu1 təŋ1 ɕiəʔ7 xʊ3/<sup>如皋</sup>, /u1 təŋ1 ɕiɪʔ7 xo3/<sup>泰县</sup></small> ① 夜间，无一星灯火。<sup>\[如皋\]</sup> ② 没有灯火，一片黑暗。<sup>\[如东\]</sup>：往家里一望，～的。<sup>\[如东\]</sup> ③ 形容夜晚没有灯光，一片漆黑<sup>\[兴化\]</sup>：下啊晚自修，学校里到处～的。<sup>\[兴化\]</sup> ④ 黑灯瞎火。<sup>\[泰县\]</sup> ⑤ 夜间照明灯火熄灭后的黑暗样子<sup>\[泰州\]</sup>：晚上十点，学生宿舍里就～的唻。<sup>\[泰州\]</sup>  
+1. 【[乌灯熄火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_den_xieh_hu.md#乌灯熄火)】`v1 den1 xieh7 hu3` <small>/u1 tən1 ɕiəʔ7 xo3/<sup>兴化</sup>, /ʋu1 təŋ1 ɕiəʔ7 xʊ3/<sup>如皋</sup>, /ʋ1 təŋ1 ɕiʔ7 xɤɯ3/<sup>泰兴</sup>, /u1 təŋ1 ɕiɪʔ7 xo3/<sup>泰县</sup></small> 夜间，无一星灯火，一片漆黑<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：往家里一望，～的。<sup>\[如东\]</sup>｜下啊晚自修，学校里到处～的。<sup>\[兴化\]</sup>｜晚上十点，学生宿舍里就～的唻。<sup>\[泰州\]</sup>｜半夜了，块块～的。<sup>\[泰兴\]</sup>  
 1. 【[乌风陡浪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_fon_deu_lan.md#乌风陡浪)】`v1 fon1 deu3 lan6` <sup>[东台]</sup> 形容暴风雨来到之前乌云翻滚狂风大作的气象。有时也喻指政治气候险恶。  
-1. 【[乌骨鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_gueh_ji.md#乌骨鸡)】`v1 gueh7 ji1` ① 雉科动物乌骨鸡，体躯短矮，头小，颈短，具肉冠。耳叶绿色，略呈紫蓝。遍体毛羽白色，除两翅毛羽外，全呈绒丝状。头上有一撮细毛突出。皮、肉、骨均为乌色。翅较短，飞翔力不强。饲养家禽。<sup>\[如东\]</sup> ② 鸡中良种，鸡爪、鸡肉、鸡骨均呈黑色，有药用价值。<sup>\[东台\]</sup>  
+1. 【[乌骨鸡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_gueh_ji_zz.md#乌骨鸡子)】`v1 gueh ji1 zz` <small>/ʋ1 kuəʔ t͡ɕʝ1 t͡sɿ/<sup>泰兴</sup></small> 乌鸡<sup>\[泰兴\]</sup>  
+1. 【[乌骨鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_gueh_ji.md#乌骨鸡)】`v1 gueh7 ji1` 乌鸡<sup>\[如东\]</sup><sup>\[东台\]</sup>  
 1. 【[乌龟吼曲子——鳖（别）调](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_guei_heu_qioh_zz_bih_dio.md#乌龟吼曲子——鳖（别）调)】`v1 guei1 heu3 qioh7 zz bih7 dio5` <sup>[东台]</sup>   
 1. 【[乌龟壳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_guei_kah.md#乌龟壳)】`v1 guei1 kah7` <sup>[兴化]</sup> 旧时一种小木船，棚子低矮成弧形，似龟壳，故名。又称“龟壳船”。  
 1. 【[乌龟壳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_guei_kah_r.md#乌龟壳<sub>儿</sub>)】`v1 guei1 kah7 r` <sup>[如东]</sup> 乌龟的甲壳。指一种老式的汽车。指日本人的碉堡。  
 1. 【[乌龟吃馓子——自绕头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_guei_qieh_caen_zz_cz_ro_teu.md#乌龟吃馓子——自绕头)】`v1 guei1 qieh7 caen3 zz——cz6 ro6 teu2` <sup>[如皋]</sup> 自己钻进了自己做的圈套里。  
 1. 【[乌龟吃秤砣——铁咖心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_guei_qieh_chen_tu_tih_ga_xien.md#乌龟吃秤砣——铁咖心)】`v1 guei1 qieh7 chen5 tu2 tih7 ga xien1` <sup>[东台]</sup>   
 1. 【[乌龟吃大麦——活窖作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_guei_qieh_da_moh_huh_go_zah.md#乌龟吃大麦——活窖作)】`v1 guei1 qieh7 da6 moh8——huh8 go5 zah7` <sup>[如皋]</sup> 不应吃大麦，实在是浪费。  
-1. 【[乌龟吃馓子——自绕头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_guei_qieh_saen_zz_cz_ro_teu.md#乌龟吃馓子——自绕头)】`v1 guei1 qieh7 saen3 zz cz6 ro6 teu2` <sup>[东台]</sup>   
+1. 【[乌龟吃馓子——自绕头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_guei_qieh_saen.md#乌龟吃馓子——自绕头)】`v1 guei1 qieh7 saen3 zz cz6 ro6 teu2` <sup>[东台]</sup>   
+1. 【[乌龟吃馓子，私家套住头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_guei_qieh_saen.md#乌龟吃馓子，私家套住头)】`v1 guei1 qieh7 saen3 zz sz1 ga to5 chv5 teu2` <small>/ʋ1 kuəɪ1 t͡ɕʰiəʔ7 ɕiɛ̃3 t͡sɿ sɿ1 kɑ tʰɔ5 t͡sʰu5 tʰəɪ2/<sup>泰兴</sup></small> 喻自己给自己出难题、上了自己的当。<sup>\[泰兴\]</sup>  
+1. 【[乌龟台子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_guei_tae_zz.md#乌龟台子)】`v1 guei1 tae2 zz` <small>/ʋ1 kuəɪ1 tʰɛ2 t͡sɿ/<sup>泰兴</sup></small> 谓六个人坐方桌，其中有相对的两面各只坐一人，称一人为龟头，一人为龟尾，十分不雅，乡人称之“乌龟台子”，故习俗不作此座。<sup>\[泰兴\]</sup>  
 1. 【[乌龟垫床脚——硬撑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_guei_tin_chuan_jiah_ngen_chen.md#乌龟垫床脚——硬撑)】`v1 guei1 tin6 chuan2 jiah7——ngen6 chen1` <sup>[如皋]</sup> 力所不能及，自找苦吃。  
 1. 【[乌龟垫床脚——硬撑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_guei_tin_chuan_jiah_ngen_chen.md#乌龟垫床脚——硬撑)】`v1 guei1 tin6 chuan2 jiah7 ngen6 chen1` <sup>[东台]</sup>   
 1. 【[乌龟王八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_guei_van_baeh.md#乌龟王八)】`v1 guei1 van2 baeh7` <sup>[如东]</sup> 比喻不是好人：那是一群～。  
@@ -27,6 +31,8 @@
 1. 【[乌精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_jien.md#乌精)】`v1 jien1` <sup>[泰县]</sup> 马虎到极点的人。  
 1. 【[乌金齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_jien_chr.md#乌金齿)】`v1 jien1 chr3` <sup>[如皋]</sup> 齿面或齿间发黑的牙齿。  
 1. 【[乌焦巴弓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_jio_ba_gon.md#乌焦巴弓)】`v1 jio1 ba1 gon1` <small>/u1 t͡ɕiɔ1 pa1 koŋ1/<sup>兴化</sup>, /ʋu1 t͡ɕiɔ1 pa1 kɔŋ1/<sup>如皋</sup></small> ① 脸色焦黑。<sup>\[如皋\]</sup> ② 原指《百家姓》中的四姓，此处用来形容又焦又黑。<sup>\[东台\]</sup> ③ （借）形容人的皮肤因风吹日晒而呈现灰黑色<sup>\[兴化\]</sup>：（曹操当年中连环计），被周郎一把火，烧的落花流水，～，败回中原。（扬二《张松献地图》）语出《百家姓》<sup>\[兴化\]</sup>｜井段富巫，～。<sup>\[兴化\]</sup> ④ 谑指物体烧焦变黑干枯弯曲样子<sup>\[泰州\]</sup>：他家家里失咖火，家具全部烧得～。<sup>\[泰州\]</sup> ⑤ 面孔黑瘦样子<sup>\[泰州\]</sup>：他在乡里蹾吖一个多月，脸上、身上晒得～。<sup>\[泰州\]</sup>  
+1. 【[乌焦巴黑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_jio_ba_heh.md#乌焦巴黑)】`v1 jio1 ba1 heh7` <small>/ʋ1 t͡ɕiɔ1 pɑ1 xəʔ7/<sup>泰兴</sup></small> 形容又焦又黑。<sup>\[泰兴\]</sup>：今朝做的烧饼不好，～的。<sup>\[泰兴\]</sup>  
+1. 【[乌浪黑瘦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_lan_heh_sheu.md#乌浪黑瘦)】`v1 lan6 heh7 sheu5` <small>/ʋ1 lɑŋ1 xəʔ7 sɤɯ5/<sup>泰兴</sup></small> 又黑又瘦，呈病态。<sup>\[泰兴\]</sup>：你望他～的样子，恐怕有病。<sup>\[泰兴\]</sup>  
 1. 【[乌蔹莓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_lin_mei.md#乌蔹莓)】`v1 lin3 mei2` <sup>[如东]</sup> 葡萄科植物乌蔹莓，又名老虎眼睛藤，多年生草本。茎紫绿色，具卷须。叶掌状复叶。聚伞花序腋生。花小，黄绿色。浆果，圆卵形，黑色生长在旷野、林中。  
 1. 【[乌龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_lon.md#乌龙)】`v1 lon2` <sup>[如皋]</sup> 龙卷风中心区呈现的黑色漏斗云。  
 1. 【[乌蟒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_man.md#乌蟒)】`v1 man3` <sup>[如东]</sup> 蛇科动物乌稍蛇。全长2米以上。头扁圆，眼大。尾部渐细。体呈青灰褐色，背中央2行鳞片黄色或黄褐色，外则2行鳞片具黑色纵线。腹面灰褐色，后半部青灰色。  
@@ -37,7 +43,9 @@
 1. 【[乌鸦翅羽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_nga_zhr_y.md#乌鸦翅羽)】`v1 nga1 zhr5 y3` <sup>[如东]</sup> 鸦科动物大嘴乌鸦翅羽。  
 1. 【[乌篷船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_pon_chun.md#乌篷船)】`v1 pon2 chun2` <sup>[如皋]</sup> 船上罩有拱形黑色桐油席蓬的船。  
 1. 【[乌漆䵬黑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_qieh_taeh_heh.md#乌漆䵬黑)】`v1 qieh taeh heh7` <sup>[如皋]</sup> 见“乌黑的”。  
+1. 【[乌七八糟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_qieh_baeh_zo.md#乌七八糟)】`v1 qieh7 baeh7 zo1` <sup>[东台]</sup> 形容事物肮脏，见不得人：企业弄得～。  
 1. 【[乌七八糟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_qieh_baeh_zo.md#乌七八糟)】`v1 qieh7 baeh7 zo1` <sup>[兴化]</sup> ① 形容十分脏乱：几个人打一夜扑克，把屋里弄得～的。 ② （借）指流品复杂，品格低下的人群：他常把一群～的朋友领家来，闹得乌烟瘴气的。“乌”也作“污”。  
+1. 【[乌七八糟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_qieh_baeh_zo.md#乌七八糟)】`v1 qieh7 baeh7 zo1` <small>/ʋ1 t͡ɕʰiəʔ7 pæʔ7 t͡sɔ1/<sup>泰兴</sup></small> 乱七八糟，肮脏而又混乱。<sup>\[泰兴\]</sup>  
 1. 【[乌漆抹黑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_qieh_maeh_heh.md#乌漆抹黑)】`v1 qieh7 maeh8 heh7` <sup>[东台]</sup> 形容夜晚或形容人的皮肤非常黑。  
 1. 【[乌漆墨黑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_qieh_moh_heh.md#乌漆墨黑)】`v1 qieh7 moh8 heh7` <small>/u1 t͡ɕʰiəʔ7 mɔʔ8 xəʔ7/<sup>兴化</sup></small> ① 一片漆黑。<sup>\[如东\]</sup>：家里～的。<sup>\[如东\]</sup> ② 形容非常黑、非常暗<sup>\[兴化\]</sup>：外头～的，你慢慢走，当心脚下。<sup>\[兴化\]</sup> ③ 极黑暗的状态<sup>\[泰州\]</sup>：外栋～的，你带把电筒再走。<sup>\[泰州\]</sup>  
 1. 【[乌蓲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_qieu.md#乌蓲)】`v1 qieu1` <sup>[如皋]</sup> 荻。固岸草。  
@@ -51,8 +59,8 @@
 1. 【[乌云驾驾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_yen_jia_jia.md#乌云驾驾)】`v1 yen2 jia5 jia5` <sup>[如东]</sup> 天空雨云层层叠叠的形势。  
 1. 【[乌鲻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_zhr.md#乌鲻)】`v1 zhr1` <sup>[如东]</sup> 鲻科动物鲻鱼。眼睛青褐色。  
 1. 【[乌糟糟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_zo_zo.md#乌糟糟)】`v1 zo1 zo1` <sup>[兴化]</sup> ① 不整洁：这个人穿一身～的衣装。 ② 形容忙乱的情景：“……自从我们老爷出去，接连闹这喜事，家里忙得～……”（《广陵潮》三三）  
+1. 【[乌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_zz.md#乌子)】`v1 zz` <small>/ʋ1 t͡sɿ/<sup>泰兴</sup></small> 成群游动的鱼或其他水生动物<sup>\[泰兴\]</sup>：黑鱼～<sup>\[泰兴\]</sup>｜蝦蟆～（蝌蚪）<sup>\[泰兴\]</sup>  
 1. 【[污](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v.md#污)】`v1` <sup>[泰县]</sup> 糟糕：这件事～掉啊。  
-1. 【[污七八糟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_qieh_baeh_zo.md#污七八糟)】`v1 qieh7 baeh7 zo1` <sup>[东台]</sup> 形容事物肮脏，见不得人：企业弄得～。  
 1. 【[污糟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_zo.md#污糟)】`v1 zo1` <small>/u1 t͡sɔ1/<sup>兴化</sup>, /ʋu1 t͡sɔ1/<sup>如皋</sup></small> ① 肮脏<sup>\[如皋\]</sup>：猪圈真的～。<sup>\[如皋\]</sup> ② 侮辱<sup>\[如皋\]</sup>：不准你说话～人！<sup>\[如皋\]</sup> ③ 奸污<sup>\[如皋\]</sup>：她捱鬼子～啊。<sup>\[如皋\]</sup> ④ 糟蹋，浪费。<sup>\[如东\]</sup>：不要～。<sup>\[如东\]</sup> ⑤ 肮脏<sup>\[东台\]</sup>：家里～，要弄吖干净。<sup>\[东台\]</sup> ⑥ 诬陷糟蹋别人<sup>\[东台\]</sup>：说话要有根据，不能～别人。<sup>\[东台\]</sup> ⑦ 肮脏、不洁，这个人一身脏衣装，太～。<sup>\[兴化\]</sup> ⑧ 肮脏<sup>\[泰州\]</sup>：地下捱他作咖～煞咖，脚都没处下。<sup>\[泰州\]</sup>  
 1. 【[吴大吴大的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_da_v_da_dii.md#吴大吴大的)】`v2 da v2 da dii` <sup>[如皋]</sup> ① 吹牛，说大话。 ② 说话声音响亮刺耳。 ③ 警车等的专用喇叭声：听，～来捉人吖。  
 1. 【[吴二八鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_er_baeh_guei.md#吴二八鬼)】`v2 er6 baeh7 guei3` <sup>[如皋]</sup> 奇巧、诡秘，难捉摸：这家伙～的，你难猜透他的心思。  

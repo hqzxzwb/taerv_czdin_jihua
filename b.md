@@ -897,6 +897,7 @@
 1. 【[不知文脉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_zhr_ven_moh.md#不知文脉)】`beh7 zhr1 ven2 moh8` <sup>[东台]</sup> 头脑糊涂，不知轻重好坏。  
 1. 【[不止](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_zhr.md#不止)】`beh7 zhr3` <sup>[泰州]</sup> 不局限于，实际已经超出某个数目或范围：他俫来啊～5个人，还要再订一个房间。  
 1. 【[不止是](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_zhr_shr.md#不止是)】`beh7 zhr3 shr6` <sup>[泰州]</sup> 表示远远超过：他的家境要比你家好得～唻。｜你的字比小王的字好得～唻。｜他的工资比你高得～唻。  
+1. 【[不卓句](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_zhuah_qy.md#不卓句)】`beh7 zhuah7 qy6` <small>/pəʔ7 t͡suɑʔ7 t͡ɕʰy1/<sup>泰兴</sup></small> 谓说话没分寸，不知轻重，信口开河。（对照捉句）<sup>\[泰兴\]</sup>  
 1. 【[不啄谷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_zhuah_goh.md#不啄谷)】`beh7 zhuah7 goh7` <sup>[如皋]</sup> 见“浪流浪”。  
 1. 【[不捉谷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_zhuah_goh.md#不捉谷)】`beh7 zhuah7 goh7` <small>/pəʔ7 t͡suaʔ7 kɔʔ7/<sup>如皋</sup></small> ① 说话不算数，不可信。<sup>\[如东\]</sup>：这个人说话～，你要注意。<sup>\[如东\]</sup> ② 许诺不算数，无定准：他的话～，不能信他的。<sup>\[如皋\]</sup>  
 1. 【[不装形式](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_zhuan_xien_sheh.md#不装形式)】`beh7 zhuan1 xien2 sheh7` <sup>[泰州]</sup> 不注重自己的衣着打扮：他这个人～，一年到头就穿个工作服。｜到人家去吃喜酒，家里有西装也不穿，你这个人也太不～唻。  

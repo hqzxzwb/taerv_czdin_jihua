@@ -587,18 +587,22 @@
 ## V
 1. 【[捂嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_jy.md#捂嘴)】`v jy3` <sup>[如东]</sup> 用手把嘴遮住。  
 1. 【[乌八代](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_baeh_tae.md#乌八代)】`v1 baeh7 tae6` <sup>[泰县]</sup> 责任心很差。  
+1. 【[乌阵陡暗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_chen_deu_un.md#乌阵陡暗)】`v1 chen1 deu3 un5` <small>/ʋ1 t͡sʰəŋ1 təɪ3 ʊ̃5/<sup>泰兴</sup></small> 乌云密布，暴雨将至的样子。<sup>\[泰兴\]</sup>：外头～的，要落大雨了。<sup>\[泰兴\]</sup>  
 1. 【[乌灯瞎火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_den_haeh_hu.md#乌灯瞎火)】`v1 den1 haeh7 hu3` <sup>[如皋]</sup> 见“乌灯熄火”。  
 1. 【[乌灯黑火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_den_heh_hu.md#乌灯黑火)】`v1 den1 heh7 hu3` <sup>[如皋]</sup> 见“乌灯熄火”。  
-1. 【[乌灯熄火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_den_xieh_hu.md#乌灯熄火)】`v1 den1 xieh7 hu3` <small>/u1 tən1 ɕiəʔ7 xo3/<sup>兴化</sup>, /ʋu1 təŋ1 ɕiəʔ7 xʊ3/<sup>如皋</sup>, /u1 təŋ1 ɕiɪʔ7 xo3/<sup>泰县</sup></small> ① 夜间，无一星灯火。<sup>\[如皋\]</sup> ② 没有灯火，一片黑暗。<sup>\[如东\]</sup>：往家里一望，～的。<sup>\[如东\]</sup> ③ 形容夜晚没有灯光，一片漆黑<sup>\[兴化\]</sup>：下啊晚自修，学校里到处～的。<sup>\[兴化\]</sup> ④ 黑灯瞎火。<sup>\[泰县\]</sup> ⑤ 夜间照明灯火熄灭后的黑暗样子<sup>\[泰州\]</sup>：晚上十点，学生宿舍里就～的唻。<sup>\[泰州\]</sup>  
+1. 【[乌灯熄火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_den_xieh_hu.md#乌灯熄火)】`v1 den1 xieh7 hu3` <small>/u1 tən1 ɕiəʔ7 xo3/<sup>兴化</sup>, /ʋu1 təŋ1 ɕiəʔ7 xʊ3/<sup>如皋</sup>, /ʋ1 təŋ1 ɕiʔ7 xɤɯ3/<sup>泰兴</sup>, /u1 təŋ1 ɕiɪʔ7 xo3/<sup>泰县</sup></small> 夜间，无一星灯火，一片漆黑<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：往家里一望，～的。<sup>\[如东\]</sup>｜下啊晚自修，学校里到处～的。<sup>\[兴化\]</sup>｜晚上十点，学生宿舍里就～的唻。<sup>\[泰州\]</sup>｜半夜了，块块～的。<sup>\[泰兴\]</sup>  
 1. 【[乌风陡浪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_fon_deu_lan.md#乌风陡浪)】`v1 fon1 deu3 lan6` <sup>[东台]</sup> 形容暴风雨来到之前乌云翻滚狂风大作的气象。有时也喻指政治气候险恶。  
-1. 【[乌骨鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_gueh_ji.md#乌骨鸡)】`v1 gueh7 ji1` ① 雉科动物乌骨鸡，体躯短矮，头小，颈短，具肉冠。耳叶绿色，略呈紫蓝。遍体毛羽白色，除两翅毛羽外，全呈绒丝状。头上有一撮细毛突出。皮、肉、骨均为乌色。翅较短，飞翔力不强。饲养家禽。<sup>\[如东\]</sup> ② 鸡中良种，鸡爪、鸡肉、鸡骨均呈黑色，有药用价值。<sup>\[东台\]</sup>  
+1. 【[乌骨鸡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_gueh_ji_zz.md#乌骨鸡子)】`v1 gueh ji1 zz` <small>/ʋ1 kuəʔ t͡ɕʝ1 t͡sɿ/<sup>泰兴</sup></small> 乌鸡<sup>\[泰兴\]</sup>  
+1. 【[乌骨鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_gueh_ji.md#乌骨鸡)】`v1 gueh7 ji1` 乌鸡<sup>\[如东\]</sup><sup>\[东台\]</sup>  
 1. 【[乌龟吼曲子——鳖（别）调](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_guei_heu_qioh_zz_bih_dio.md#乌龟吼曲子——鳖（别）调)】`v1 guei1 heu3 qioh7 zz bih7 dio5` <sup>[东台]</sup>   
 1. 【[乌龟壳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_guei_kah.md#乌龟壳)】`v1 guei1 kah7` <sup>[兴化]</sup> 旧时一种小木船，棚子低矮成弧形，似龟壳，故名。又称“龟壳船”。  
 1. 【[乌龟壳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_guei_kah_r.md#乌龟壳<sub>儿</sub>)】`v1 guei1 kah7 r` <sup>[如东]</sup> 乌龟的甲壳。指一种老式的汽车。指日本人的碉堡。  
 1. 【[乌龟吃馓子——自绕头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_guei_qieh_caen_zz_cz_ro_teu.md#乌龟吃馓子——自绕头)】`v1 guei1 qieh7 caen3 zz——cz6 ro6 teu2` <sup>[如皋]</sup> 自己钻进了自己做的圈套里。  
 1. 【[乌龟吃秤砣——铁咖心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_guei_qieh_chen_tu_tih_ga_xien.md#乌龟吃秤砣——铁咖心)】`v1 guei1 qieh7 chen5 tu2 tih7 ga xien1` <sup>[东台]</sup>   
 1. 【[乌龟吃大麦——活窖作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_guei_qieh_da_moh_huh_go_zah.md#乌龟吃大麦——活窖作)】`v1 guei1 qieh7 da6 moh8——huh8 go5 zah7` <sup>[如皋]</sup> 不应吃大麦，实在是浪费。  
-1. 【[乌龟吃馓子——自绕头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_guei_qieh_saen_zz_cz_ro_teu.md#乌龟吃馓子——自绕头)】`v1 guei1 qieh7 saen3 zz cz6 ro6 teu2` <sup>[东台]</sup>   
+1. 【[乌龟吃馓子——自绕头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_guei_qieh_saen.md#乌龟吃馓子——自绕头)】`v1 guei1 qieh7 saen3 zz cz6 ro6 teu2` <sup>[东台]</sup>   
+1. 【[乌龟吃馓子，私家套住头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_guei_qieh_saen.md#乌龟吃馓子，私家套住头)】`v1 guei1 qieh7 saen3 zz sz1 ga to5 chv5 teu2` <small>/ʋ1 kuəɪ1 t͡ɕʰiəʔ7 ɕiɛ̃3 t͡sɿ sɿ1 kɑ tʰɔ5 t͡sʰu5 tʰəɪ2/<sup>泰兴</sup></small> 喻自己给自己出难题、上了自己的当。<sup>\[泰兴\]</sup>  
+1. 【[乌龟台子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_guei_tae_zz.md#乌龟台子)】`v1 guei1 tae2 zz` <small>/ʋ1 kuəɪ1 tʰɛ2 t͡sɿ/<sup>泰兴</sup></small> 谓六个人坐方桌，其中有相对的两面各只坐一人，称一人为龟头，一人为龟尾，十分不雅，乡人称之“乌龟台子”，故习俗不作此座。<sup>\[泰兴\]</sup>  
 1. 【[乌龟垫床脚——硬撑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_guei_tin_chuan_jiah_ngen_chen.md#乌龟垫床脚——硬撑)】`v1 guei1 tin6 chuan2 jiah7——ngen6 chen1` <sup>[如皋]</sup> 力所不能及，自找苦吃。  
 1. 【[乌龟垫床脚——硬撑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_guei_tin_chuan_jiah_ngen_chen.md#乌龟垫床脚——硬撑)】`v1 guei1 tin6 chuan2 jiah7 ngen6 chen1` <sup>[东台]</sup>   
 1. 【[乌龟王八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_guei_van_baeh.md#乌龟王八)】`v1 guei1 van2 baeh7` <sup>[如东]</sup> 比喻不是好人：那是一群～。  

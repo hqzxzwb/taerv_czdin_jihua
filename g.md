@@ -604,8 +604,12 @@
 1. 【[勾打连环](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_da_lin_kuaen.md#勾打连环)】`geu1 da lin2 kuaen2` <sup>[兴化]</sup> ① 连结、勾结在起：这起案件从外部到内部～的，不好破。｜他俫沾亲搭故，～的。 ② 拉拉扯扯：果然那姑娘始则还行躲避，后来逐渐熟了，也就～有说有笑。（《广陵潮》二三）  
 1. 【[勾打连环](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_da_lin_kuaen.md#勾打连环)】`geu1 da3 lin2 kuaen2` <sup>[东台]</sup> 形容相互勾结，错综复杂。  
 1. 【[勾搭连环](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_daeh_lin_kuaen.md#勾搭连环)】`geu1 daeh7 lin2 kuaen2` <sup>[泰州]</sup> 双方或多方搭上关系，互相往来：小冯最近同姓陈的～的，不晓得他俫有要搞甚的名堂。｜厂里办公室的这几个人啊，背景～的，同你一时说不清。  
-1. 【[勾肩搭背](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_jin_daeh_bei.md#勾肩搭背)】`geu1 jin1 daeh7 bei5` <small>/kɤ1 t͡ɕiɪ̃1 tæʔ7 pəi5/<sup>兴化</sup>, /kei1 t͡ɕĩ1 teʔ7 pei5/<sup>如皋</sup></small> ① 贬指互相用手勾住肩背。<sup>\[如皋\]</sup> ② 见“驮肩搭背”。<sup>\[如皋\]</sup> ③ 把手搭在别人的肩上，表示相互关系亲密。<sup>\[东台\]</sup> ④ 互相用手搭着对方的肩膀或背，表示亲呢。‖也说“驮肩搭背”。<sup>\[兴化\]</sup>  
+1. 【[勾刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_do.md#勾刀)】`geu1 do1` <small>/kəɪ1 tɔ1/<sup>泰兴</sup></small> 镰刀类的弯形农具，用于割草或稻禾等。<sup>\[泰兴\]</sup>  
+1. 【[勾缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_fon.md#勾缝)】`geu1 fon6` <small>/kəɪ1 fɔŋ1/<sup>泰兴</sup></small> 瓦工沿砖缝勾勒填缝，以使墙体牢实美观。<sup>\[泰兴\]</sup>  
+1. 【[勾魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_huen.md#勾魂)】`geu1 huen2` <small>/kəɪ1 xuəŋ2/<sup>泰兴</sup></small> 勾摄魂灵。喻勾引，诱骗（去干不好的事）。贬义。<sup>\[泰兴\]</sup>  
+1. 【[勾肩搭背](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_jin_daeh_bei.md#勾肩搭背)】`geu1 jin1 daeh7 bei5` <small>/kɤ1 t͡ɕiɪ̃1 tæʔ7 pəi5/<sup>兴化</sup>, /kei1 t͡ɕĩ1 teʔ7 pei5/<sup>如皋</sup>, /kəɪ1 t͡ɕĩ1 tæʔ7 pəɪ5/<sup>泰兴</sup></small> ① 贬指互相用手勾住肩背。<sup>\[如皋\]</sup> ② 见“驮肩搭背”。<sup>\[如皋\]</sup> ③ 把手搭在别人的肩上，表示相互关系亲密。<sup>\[东台\]</sup> ④ 互相用手搭着对方的肩膀或背，表示亲呢。‖也说“驮肩搭背”。<sup>\[兴化\]</sup> ⑤ 互相用手搭住对方的肩或背，表示亲热。贬义。<sup>\[泰兴\]</sup>：他佼两个一天到夜～的，有多少好事做啊？<sup>\[泰兴\]</sup>  
 1. 【[勾郎鼻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_lan_pieh.md#勾郎鼻)】`geu1 lan pieh8` <sup>[兴化]</sup> 即鹰嘴鼻：～子吊眼睛梢。  
+1. 【[勾郎鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_lan_pieh_zz.md#勾郎鼻子)】`geu1 lan pieh8 zz` <small>/kəɪ1 lɑŋ pʰiʔ8 t͡sɿ/<sup>泰兴</sup></small> 鹰钩鼻。<sup>\[泰兴\]</sup>  
 1. 【[勾被](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_pi.md#勾被)】`geu1 pi6` <sup>[兴化]</sup> 缝被子。也说“絾被单”。  
 1. 【[沟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu.md#沟)】`geu1` <small>/kei1/<sup>如皋</sup></small> ① 河 ② 河的本地古称。乡村中至今除“官河”外都称沟<sup>\[如皋\]</sup>：大～、细～、里～、呆～。<sup>\[如皋\]</sup>  
 1. 【[沟帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_ban.md#沟帮)】`geu1 ban1` <sup>[如皋]</sup> 河床斜坡，从水边到岸边，不含水下。  
