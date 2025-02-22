@@ -897,9 +897,9 @@
 1. 【[不知文脉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_zhr_ven_moh.md#不知文脉)】`beh7 zhr1 ven2 moh8` <sup>[东台]</sup> 头脑糊涂，不知轻重好坏。  
 1. 【[不止](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_zhr.md#不止)】`beh7 zhr3` <sup>[泰州]</sup> 不局限于，实际已经超出某个数目或范围：他俫来啊～5个人，还要再订一个房间。  
 1. 【[不止是](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_zhr_shr.md#不止是)】`beh7 zhr3 shr6` <sup>[泰州]</sup> 表示远远超过：他的家境要比你家好得～唻。｜你的字比小王的字好得～唻。｜他的工资比你高得～唻。  
-1. 【[不卓句](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_zhuah_qy.md#不卓句)】`beh7 zhuah7 qy6` <small>/pəʔ7 t͡suɑʔ7 t͡ɕʰy1/<sup>泰兴</sup></small> 谓说话没分寸，不知轻重，信口开河。（对照捉句）<sup>\[泰兴\]</sup>  
 1. 【[不啄谷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_zhuah_goh.md#不啄谷)】`beh7 zhuah7 goh7` <sup>[如皋]</sup> 见“浪流浪”。  
-1. 【[不捉谷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_zhuah_goh.md#不捉谷)】`beh7 zhuah7 goh7` <small>/pəʔ7 t͡suaʔ7 kɔʔ7/<sup>如皋</sup></small> ① 说话不算数，不可信。<sup>\[如东\]</sup>：这个人说话～，你要注意。<sup>\[如东\]</sup> ② 许诺不算数，无定准：他的话～，不能信他的。<sup>\[如皋\]</sup>  
+1. 【[不捉谷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_zhuah_goh.md#不捉谷)】`beh7 zhuah7 goh7` <small>/pəʔ7 t͡suaʔ7 kɔʔ7/<sup>如皋</sup></small> ① 说话不算数，不可信。<sup>\[如东\]</sup>：这个人说话～，你要注意。<sup>\[如东\]</sup> ② 许诺不算数，无定准<sup>\[如皋\]</sup>：他的话～，不能信他的。<sup>\[如皋\]</sup>  
+1. 【[不捉句](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_zhuah_qy.md#不捉句)】`beh7 zhuah7 qy6` <small>/pəʔ7 t͡suɑʔ7 t͡ɕʰy1/<sup>泰兴</sup></small> 谓说话没分寸，不知轻重，信口开河。<sup>\[泰兴\]</sup>  
 1. 【[不装形式](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_zhuan_xien_sheh.md#不装形式)】`beh7 zhuan1 xien2 sheh7` <sup>[泰州]</sup> 不注重自己的衣着打扮：他这个人～，一年到头就穿个工作服。｜到人家去吃喜酒，家里有西装也不穿，你这个人也太不～唻。  
 1. 【[不准](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_zhuen.md#不准)】`beh7 zhuen3` <sup>[如东]</sup> 不同意，不允许。  
 1. 【[不转爪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_zhun_zho.md#不转爪)】`beh7 zhun3 zho3` <sup>[如皋]</sup> ① 不让变化、转移：贼子儿手伸叫我袋儿里，我揿住他的手，不放他～。 ② 集中注意力，盯住：细伢儿～的朝我相，到底认得咖。  
@@ -1660,7 +1660,7 @@
 1. 【[半桩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_zhuan_zz.md#半桩子)】`bun5 zhuan1 zz` <small>/pũ5 t͡suaŋ1 t͡sɿ/<sup>兴化</sup>, /pʊ̃5 t͡suã1 t͡sɿ/<sup>如皋</sup>, /põ5 t͡ɕyɑŋ1 t͡se/<sup>泰县</sup></small> ① 青春发育期的孩子。俗云：“～，饭缸子。”<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup> ② 十五岁左右的男孩，身体发育介于少年与青年之间<sup>\[泰州\]</sup>：几年不见，倒也长成吖个～唻。<sup>\[泰州\]</sup>  
 1. 【[半桩子，饭缸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_zhuan_zz_faen_gan_zz.md#半桩子，饭缸子)】`bun5 zhuan1 zz faen6 gan1 zz` <sup>[东台]</sup> 处在发育期的青少年饭量很大。  
 1. 【[半籽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_zz.md#半籽)】`bun5 zz3` <sup>[兴化]</sup> 西瓜中部分种子尚未成熟：～瓜甜虽甜，就是不酥。  
-1. 【[𡜵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bv.md#𡜵)】`bv1` <small>/pu1/<sup>兴化</sup></small> ① 姑妈，即东台话中的孃孃。受盐阜方言影响，对与父母同辈或大致同龄的女士也叫“大～”“～儿”“～子”。<sup>\[东台\]</sup> ② 姑母<sup>\[兴化\]</sup>：～子。《集韵，模韵》滂模切<sup>\[兴化\]</sup>｜“～，女字。”（声、义不全合）<sup>\[兴化\]</sup>  
+1. 【[𡜵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bv.md#𡜵)】`bv1` <small>/pu1/<sup>兴化</sup></small> ① 姑妈，即东台话中的孃孃。受盐阜方言影响，对与父母同辈或大致同龄的女士也叫“大～”“～儿”“～子”。<sup>\[东台\]</sup> ② 姑母<sup>\[兴化\]</sup>：～子<sup>\[兴化\]</sup>  
 1. 【[补](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bv.md#补)】`bv3` <small>/pu3/<sup>兴化</sup>, /pu3/<sup>如皋</sup></small> ① 插言揭短<sup>\[如皋\]</sup>：他说得太不像话，我～啊他两句，他就不好开口啊。<sup>\[如皋\]</sup> ② 反唇相讥<sup>\[兴化\]</sup>：“我说了一句玩话，你还要来～我……”（《广陵潮》八四）<sup>\[兴化\]</sup> ③ 反唇相讥，某人前后说话意思相反，将其人的前面所说用来“补充”其人的后面所说，以达到讽刺目的<sup>\[泰州\]</sup>：（《广陵潮》）我说了一句玩话，你还要来～我，我始终说你是放屁。<sup>\[泰州\]</sup>｜甲：你刚才不是说你认不得她的嘛？怎吖这一刻儿又说你俫是同学的㖸！乙：先头子不曾望吖清，这一刻儿才望吖清吖，你这小伙没得意思，你也不作兴当吖女同学面～我啊！<sup>\[泰州\]</sup>  
 1. 【[补疤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bv_ba.md#补疤)】`bv3 ba1` <sup>[如皋]</sup> 用锔疤或烫疤法修锅、缸、碗等。  
 1. 【[补补连连](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bv_bv_lin_lin.md#补补连连)】`bv3 bv3 lin2 lin2` <sup>[兴化]</sup> 缝补衣裳：老太婆下午没事，把旧衣裳寻出来～。  

@@ -966,7 +966,7 @@
 1. 【[占房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_fan.md#占房)】`zhin5 fan2` <sup>[兴化]</sup> 妇女分娩、坐月子：他家新妇～，家里忌生人。  
 1. 【[占界](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_gae.md#占界)】`zhin5 gae5` <sup>[如东]</sup> 侵占别人的地域：田地有界岸，不能～。  
 1. 【[占压](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_ngaeh.md#占压)】`zhin5 ngaeh7` <sup>[泰州]</sup> 侵占他人利益，使他人吃亏：这就是这高头不好，不管分甚的东西，总要～人点儿。｜他这个人正派，从来不～人。  
-1. 【[占压人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_ngaen_ren.md#占压人)】`zhin5 ngaeh7 ren2` <sup>[泰州]</sup> 有意占有他人利益：（甲）一角五一斤，三斤，四角五分，你把四角钱吧。（乙）四角五就四角五，不好～的。  
+1. 【[占压人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_ngaeh_ren.md#占压人)】`zhin5 ngaeh7 ren2` <sup>[泰州]</sup> 有意占有他人利益：（甲）一角五一斤，三斤，四角五分，你把四角钱吧。（乙）四角五就四角五，不好～的。  
 1. 【[占押](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_ngaeh.md#占押)】`zhin5 ngaeh7` <sup>[泰县]</sup> 占了别人的便宜。  
 1. 【[占便宜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_pin_i.md#占便宜)】`zhin5 pin2 i` <sup>[东台]</sup> ① 用不正当的方法，取得额外利益。 ② 双方开玩笑，讨别人的巧。  
 1. 【[占强](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_qian.md#占强)】`zhin5 qian2` <small>/t͡sĩ5 t͡ɕʰiã2/<sup>如皋</sup></small> 好胜，好争上风，事事要多占好处<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[如东\]</sup><sup>\[泰州\]</sup>：这个小伙～，比别人多吃多拿，还不让人说他。<sup>\[如皋\]</sup>｜这马马儿太～，没得人欢喜她。<sup>\[泰州\]</sup>  

@@ -1538,11 +1538,13 @@
 1. 【[守尸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_shr.md#守尸)】`sheu3 shr1` <sup>[如东]</sup> 看管人的尸体：请王二～。  
 1. 【[守岁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_xy.md#守岁)】`sheu3 xy5` ① 除夕，通宵点烛烧香，家主终夜不眠，称守岁。此俗魏晋时期就已出现。《风土记》：“至除夕，达旦不眠，谓之守岁。”<sup>\[如东\]</sup> ② 农历除夕之夜直到子时以后才睡觉。<sup>\[东台\]</sup>  
 1. 【[手巴掌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_ba_zhan.md#手巴掌)】`sheu3 ba1 zhan` <sup>[如东]</sup> 手掌。  
-1. 【[手膀子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_ban_zz.md#手膀子)】`sheu3 ban3 zz` <small>/sei3 pã3 t͡sɿ/<sup>如皋</sup></small> ① 手臂，与脚髈子相对。<sup>\[如皋\]</sup> ② 胳膊。<sup>\[如东\]</sup>  
+1. 【[手膀子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_ban_zz.md#手膀子)】`sheu3 ban3 zz` <small>/sei3 pã3 t͡sɿ/<sup>如皋</sup>, /ɕiɤɯ3 pɑŋ3 t͡sɿ/<sup>泰兴</sup></small> 手臂，胳膊<sup>\[如东\]</sup><sup>\[泰兴\]</sup>\[如皋：与脚髈子相对。\]  
 1. 【[手不停脚不住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_beh_tien_jiah_beh_chv.md#手不停脚不住)】`sheu3 beh7 tien2 jiah7 beh7 chv6` <sup>[东台]</sup> 形容不停地忙碌。  
 1. 【[手背](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_bei.md#手背)】`sheu3 bei5` <sup>[如皋]</sup> 牌风不顺，净输钱。  
 1. 【[手边子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_bin_zz.md#手边子)】`sheu3 bin1 zz` <sup>[如皋]</sup> 小指与腕间部位。  
-1. 【[手长衣袖短](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_chan_i_qieu_dun.md#手长衣袖短)】`sheu3 chan2 i1 qieu6 dun3` <small>/sei3 t͡sʰã2 ʝ1 t͡ɕʰyʊ1 tʊ̃3/<sup>如皋</sup></small> ① 心有余而力不足。<sup>\[如皋\]</sup> ② ［喻］心有余而力不足，主要指财力不够。<sup>\[东台\]</sup>  
+1. 【[手长衣袖短](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_chan_i_qieu_dun.md#手长衣袖短)】`sheu3 chan2 i1 qieu6 dun3` <small>/sei3 t͡sʰã2 ʝ1 t͡ɕʰyʊ1 tʊ̃3/<sup>如皋</sup>, /ɕiɤɯ3 t͡sʰɑŋ2 ʝ1 t͡ɕʰiɤɯ1 tʊ̃3/<sup>泰兴</sup></small> ① 心有余而力不足。<sup>\[如皋\]</sup> ② ［喻］心有余而力不足，主要指财力不够。<sup>\[东台\]</sup> ③ 心有余而力不足，想提供帮助而又无力达到。<sup>\[泰兴\]</sup>  
+1. 【[手铳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_chon.md#手铳)】`sheu3 chon` <small>/ɕiɤɯ3 t͡sʰɔŋ/<sup>泰兴</sup></small> 傻瓜，呆里呆气的样子；办事唐突，计划很不周密。<sup>\[泰兴\]</sup>  
+1. 【[手重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_chon.md#手重)】`sheu3 chon6` <small>/ɕiɤɯ3 t͡sʰɔŋ1/<sup>泰兴</sup></small> 动作时手用力过猛。<sup>\[泰兴\]</sup>：他打人手重得很。<sup>\[泰兴\]</sup>  
 1. 【[手镯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_chuah.md#手镯)】`sheu3 chuah8` <sup>[东台]</sup> 套在手腕上的金银环。  
 1. 【[手打电筒——只照别人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_da_din_ton_zheh_zho_pih_ren.md#手打电筒——只照别人)】`sheu3 da3 din5 ton3 zheh7 zho5 pih8 ren2` <sup>[东台]</sup>   
 1. 【[手打阴棚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_da_ien_pon.md#手打阴棚)】`sheu3 da3 ien1 pon2` <sup>[如东]</sup> 四指伸直并拢放在睛眼上方遮住阳光，向远方眺望：～把你瞟。  
@@ -1551,14 +1553,16 @@
 1. 【[手到擒拿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_do_qien_na.md#手到擒拿)】`sheu3 do5 qien2 na2` <small>/sɤ3 tɔ5 t͡ɕʰin2 la2/<sup>兴化</sup></small> ① （喻）很有把握或毫不费力便能成功<sup>\[兴化\]</sup>：他修个电脑、电视机甚的的简直是～。<sup>\[兴化\]</sup> ② 只要一出手就会擒获到，意谓事情成功把握极大<sup>\[泰州\]</sup>：这事你就不要烦唻，直接交把小李去办，她家哥哥在石化总厂当总经理，她去弄几瓶液化气还不是手到擒拿！<sup>\[泰州\]</sup>  
 1. 【[手朵<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_du_r.md#手朵<sub>儿</sub>)】`sheu3 du3 r` 手，戏谑性的说法。  
 1. 【[手短](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_dun.md#手短)】`sheu3 dun3` <small>/sɤ3 tũ3/<sup>兴化</sup>, /sei3 tʊ̃3/<sup>如皋</sup></small> ① 手里缺钱。<sup>\[如皋\]</sup> ② 收了人家好处，不公正处理事情。俚云：吃咖人家的嘴软，拿啊人家的～。<sup>\[如皋\]</sup> ③ （喻）经济容迫，门路不宽。<sup>\[兴化\]</sup>：谚曰：～够不到天。<sup>\[兴化\]</sup>  
+1. 【[手法](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_faeh.md#手法)】`sheu3 faeh` <small>/ɕiɤɯ3 fæʔ/<sup>泰兴</sup></small> 方法技巧。<sup>\[泰兴\]</sup>：做箇桩活技不要什的～，只要有耐心。<sup>\[泰兴\]</sup>  
 1. 【[手发𦚢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_faeh_ya.md#手发𦚢)】`sheu3 faeh7 ya1` <sup>[如皋]</sup> ① 手被冻僵。 ② 手发僵而动作不灵活。  
 1. 【[手方<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_fan_r.md#手方<sub>儿</sub>)】`sheu3 fan1 r` <small>/sɤɯ3 fɑŋ1 ɚ/<sup>泰县</sup></small> ① 手帕。<sup>\[如东\]</sup> ② 手绢。<sup>\[泰县\]</sup>  
+1. 【[手胳膀子总是朝里弯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_gah_ban_zz.md#手胳膀子总是朝里弯)】`sheu3 gah7 ban3 zz zon3 shr cho2 li3 vaen1` <small>/ɕiɤɯ3 kɑʔ7 pɑŋ3 t͡sɿ t͡sɔŋ3 sɿ t͡sʰɔ2 lʝ3 ʋɛ̃1/<sup>泰兴</sup></small> 喻人总是帮自己或自己人讲话、办事。<sup>\[泰兴\]</sup>  
 1. 【[手拐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_guae_r.md#手拐<sub>儿</sub>)】`sheu3 guae3 r` <sup>[如皋]</sup> 肘外缘。  
 1. 【[手拐<sub>儿</sub>朝里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_guae_r_cho_li.md#手拐<sub>儿</sub>朝里)】`sheu3 guae3 r cho2 li3` <sup>[如皋]</sup> 偏向自己人。  
 1. 【[手拐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_guae_zz.md#手拐子)】`sheu3 guae3 zz` <sup>[如东]</sup> 胳膊肘的外侧。也称手拐儿。  
 1. 【[手花<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_hua_r.md#手花<sub>儿</sub>)】`sheu3 hua1 r` <sup>[兴化]</sup> 形容手的动作：她～快𪠸，一件毛线衫两天就结好啊。  
 1. 【[手印](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_ien.md#手印)】`sheu3 ien5` ① 手指留下的痕迹。也称脶印。<sup>\[如东\]</sup> ② 手留下的痕迹。<sup>\[东台\]</sup> ③ 表示本人同意的指纹。<sup>\[东台\]</sup>  
-1. 【[手脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_jiah.md#手脚)】`sheu3 jiah7` <small>/sɤ3 t͡ɕiaʔ7/<sup>兴化</sup></small> ① 人的手与脚。特殊的手段或动作。<sup>\[如东\]</sup>：他做啊～。<sup>\[如东\]</sup> ② 劳动。<sup>\[如东\]</sup>：花费～。<sup>\[如东\]</sup> ③ 比喻人格，思想。<sup>\[如东\]</sup>：～不干净。<sup>\[如东\]</sup> ④ 功夫。<sup>\[如东\]</sup>：这个人有～。<sup>\[如东\]</sup> ⑤ （借）动作<sup>\[兴化\]</sup>：他能言快语，～麻利。<sup>\[兴化\]</sup> ⑥ （贬）为某种企图而暗中行动谓之做～。<sup>\[兴化\]</sup> ⑦ 指人是否发生偷窃行为<sup>\[泰州\]</sup>：这个家伙～不老实，才捱老板开除掉的。<sup>\[泰州\]</sup> ⑧ 人在花钱时出手多少<sup>\[泰州\]</sup>：现在的年轻人～大。<sup>\[泰州\]</sup>  
+1. 【[手脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_jiah.md#手脚)】`sheu3 jiah7` <small>/sɤ3 t͡ɕiaʔ7/<sup>兴化</sup>, /ɕiɤɯ3 t͡ɕiɑʔ7/<sup>泰兴</sup></small> ① 人的手与脚。特殊的手段或动作。<sup>\[如东\]</sup>：他做啊～。<sup>\[如东\]</sup> ② 劳动。<sup>\[如东\]</sup>：花费～。<sup>\[如东\]</sup> ③ 比喻人格，思想。<sup>\[如东\]</sup>：～不干净。<sup>\[如东\]</sup> ④ 功夫。<sup>\[如东\]</sup>：这个人有～。<sup>\[如东\]</sup> ⑤ （借）动作<sup>\[兴化\]</sup>：他能言快语，～麻利。<sup>\[兴化\]</sup> ⑥ （贬）为某种企图而暗中行动谓之做～。<sup>\[兴化\]</sup> ⑦ 指人是否发生偷窃行为<sup>\[泰州\]</sup>：这个家伙～不老实，才捱老板开除掉的。<sup>\[泰州\]</sup> ⑧ 人在花钱时出手多少<sup>\[泰州\]</sup>：现在的年轻人～大。<sup>\[泰州\]</sup> ⑨ 企图达到某种目的而暗中采取的行动<sup>\[泰兴\]</sup>：（吴用）急教传令军马，再退后二里立阵，好教两路奇兵做手脚。<sup>\[泰兴\]</sup> ⑩ 人手，协助干活的人\[泰兴：伢儿大了，可以替替手脚了。\]  
 1. 【[手脚不干净](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_jiah_beh_gun_qien.md#手脚不干净)】`sheu3 jiah7 beh7 gun1 qien6` <sup>[如东]</sup> 比喻有小偷小摸行为：这个人～。  
 1. 【[手脚不稳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_jiah_beh_ven.md#手脚不稳)】`sheu3 jiah7 beh7 ven3` <sup>[兴化]</sup> 谓人有偷摸行为：这人～，要提防他点儿。｜《西游记》第三十九回有“你这猴子，～”句。  
 1. 【[手脚重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_jiah_chon.md#手脚重)】`sheu3 jiah7 chon6` <sup>[东台]</sup> 动作时用力较猛，是粗心的表现。  
@@ -1568,8 +1572,10 @@
 1. 【[手巾捏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_jien_nih_zz.md#手巾捏子)】`sheu3 jien nih8 zz` <sup>[兴化]</sup> 手帕。也说“手扒儿”“手捏子”。  
 1. 【[手巾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_jien.md#手巾)】`sheu3 jien1` <small>/sɤɯ3 t͡ɕiŋ1/<sup>泰县</sup></small> ① 毛巾，也可特指洗脸用的毛巾 ② 毛巾。<sup>\[如东\]</sup> ③ 用于洗涤的毛巾。<sup>\[东台\]</sup> ④ 毛巾。<sup>\[泰县\]</sup> ⑤ 相对“脚布”，用于擦洗上身（含头、脸）部位的毛巾。<sup>\[泰州\]</sup>  
 1. 【[手巾把子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_jien_ba_zz.md#手巾把子)】`sheu3 jien1 ba3 zz` <sup>[泰州]</sup> 将手巾浸于热水中，捞出叠好，用手挤干而不打开以保持其热度，主要用于饭后揩嘴、长途跋涉以后揩面以及在澡堂大池中浴后休息之时揩汗，形似把子，故名：客人饭吃咖好啊唻，你俫打个～上来！  
+1. 【[手紧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_jien.md#手紧)】`sheu3 jien3` <small>/ɕiɤɯ3 t͡ɕiŋ3/<sup>泰兴</sup></small> 谓不随便花钱或施舍财物，相对“手松”而言。<sup>\[泰兴\]</sup>：他的～，不肯乱花钱。<sup>\[泰兴\]</sup>  
 1. 【[手劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_jien.md#手劲)】`sheu3 jien5` <sup>[如皋]</sup> 握力。  
 1. 【[手节<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_jih_r.md#手节<sub>儿</sub>)】`sheu3 jih7 r` <sup>[如皋]</sup> ① 指关节。 ② 手指骨的每一节。  
+1. 【[手节头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_jih_teu.md#手节头)】`sheu3 jih7 teu` <small>/ɕiɤɯ3 t͡ɕiʔ7 tʰəɪ/<sup>泰兴</sup></small> 手指头。<sup>\[泰兴\]</sup>  
 1. 【[手尖眼快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_jin_ngaen_kuae.md#手尖眼快)】`sheu3 jin1 ngaen3 kuae5` <sup>[兴化]</sup> “眼疾手快”的逆序词，形容目光锐利，动作敏捷：人们小声嘟囔着｜“真是～啊！”（汪曾祺《故里杂记》）  
 1. 【[手绢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_jiun_r.md#手绢<sub>儿</sub>)】`sheu3 jiun5 r` <sup>[如东]</sup> 手帕。  
 1. 【[手口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_keu.md#手口)】`sheu3 keu3` <small>/sɤ3 kʰɤ3/<sup>兴化</sup></small> ① 指身边眼能看到，拿起来方便的地方<sup>\[兴化\]</sup>：把工具放吖在～里，免得要用的时候到处寻。<sup>\[兴化\]</sup>｜坏啦，一定要出事！两张刀在～哩。（《皮五辣子》三）<sup>\[兴化\]</sup> ② 靠近手的周围地方<sup>\[泰州\]</sup>：你把东西丢啊～里，用起来才方便。<sup>\[泰州\]</sup>  
@@ -1580,8 +1586,10 @@
 1. 【[手连脚不住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_lin_jiah_beh_chv.md#手连脚不住)】`sheu3 lin2 jiah7 beh7 chv6` <sup>[兴化]</sup> 手足不停地活动：他一天到晚～的，没得安逸时候。  
 1. 【[手脶脚印](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_lu_jiah_ien.md#手脶脚印)】`sheu3 lu2 jiah7 ien5` <sup>[兴化]</sup> 手足指（趾）纹。  
 1. 【[手炉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_lv.md#手炉)】`sheu3 lv2` <sup>[如东]</sup> 取暖器皿。铜制，圆柿形，体积较小，有盖，盖上有小孔。放人木炭，抱在手里取暖。  
+1. 【[手炉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_lv.md#手炉)】`sheu3 lv2` <small>/ɕiɤɯ3 lu2/<sup>泰兴</sup></small> 铜质的用于取暖的器具。<sup>\[泰兴\]</sup>  
 1. 【[手炉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_lv_r.md#手炉<sub>儿</sub>)】`sheu3 lv2 r` <sup>[如皋]</sup> 冬季焐手的小铜炉子，内填炭火灰烬作热源。  
 1. 【[手忙脚乱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_man_jiah_lun.md#手忙脚乱)】`sheu3 man2 jiah7 lun6` ① 做事慌张而没有条理。<sup>\[如东\]</sup>：小明发现灶膛后头起火，～的，不晓得怎吖才好。<sup>\[如东\]</sup> ② 做事慌张，没有条理。<sup>\[东台\]</sup>  
+1. 【[手面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_min.md#手面)】`sheu3 min` <small>/ɕiɤɯ3 mĩ/<sup>泰兴</sup></small> 手上的功夫，办事的本领。<sup>\[泰兴\]</sup>：他的～不丑。<sup>\[泰兴\]</sup>  
 1. 【[手面（麪）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_min.md#手面（麪）)】`sheu3 min6` <sup>[如皋]</sup> 手盘面团，使其中的蛋白质面筋化。  
 1. 【[手面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_min.md#手面)】`sheu3 min6` <sup>[兴化]</sup> 指用钱的阔绰与否：他～太阔，千儿八百的不在乎。  
 1. 【[手面子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_min_zz.md#手面子)】`sheu3 min6 zz` <sup>[如皋]</sup> 手背。  
@@ -1597,12 +1605,15 @@
 1. 【[手扒<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_pa_r.md#手扒<sub>儿</sub>)】`sheu3 pa2 r` <sup>[兴化]</sup> 手帕。  
 1. 【[手膀子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_pan_z.md#手膀子)】`sheu3 pan2 z` 胳膊  
 1. 【[手气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_qi.md#手气)】`sheu3 qi5` ① 运气。<sup>\[如东\]</sup> ② 赌博抓牌或者抓彩时手的运气<sup>\[泰州\]</sup>：他今朝子的～好，救他个人赢钱。<sup>\[泰州\]</sup>  
+1. 【[手轻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_qien.md#手轻)】`sheu3 qien1` <small>/ɕiɤɯ3 t͡ɕʰiŋ1/<sup>泰兴</sup></small> 手不停地骚扰。贬义。<sup>\[泰兴\]</sup>：不要～，把花瓶弄吖打掉。<sup>\[泰兴\]</sup>  
 1. 【[手局](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_qioh.md#手局)】`sheu3 qioh8` ① 打牌时能够抓到好牌。比喻碰上了好机会。<sup>\[如东\]</sup>：王二的～好，他成吖。<sup>\[如东\]</sup> ② 赌博抓牌或者抓彩时手的运气<sup>\[泰州\]</sup>：他这两天～不好，打牌不曾赢过。<sup>\[泰州\]</sup>  
 1. 【[手散](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_saen.md#手散)】`sheu3 saen3` <sup>[东台]</sup> ［引］有钱放不住：他从小就～，有工资也是“月光族”。  
 1. 【[手柴<sub>儿</sub>不拾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_shae_r_beh_sheh.md#手柴<sub>儿</sub>不拾)】`sheu3 shae2 r beh7 sheh8` <sup>[东台]</sup> 形容什么家务活都不干。  
 1. 【[手上长毛——老手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_shan_zhan_mo_lo_sheu.md#手上长毛——老手)】`sheu3 shan zhan3 mo2 lo3 sheu3` <sup>[如皋]</sup>   
 1. 【[手是钩子眼是秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_shr_geu_zz_ngaen_shr_chen.md#手是钩子眼是秤)】`sheu3 shr6 geu1 zz ngaen3 shr6 chen5` <sup>[东台]</sup> 凭手拎眼看的感觉也能估计分量。  
+1. 【[手松](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_son.md#手松)】`sheu3 son1` <small>/ɕiɤɯ3 sɔŋ1/<sup>泰兴</sup></small> 随意花钱或给人东西。参见“手紧”。<sup>\[泰兴\]</sup>  
 1. 【[手头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_teu.md#手头)】`sheu3 teu2` ① 手里。<sup>\[如东\]</sup>：～没有钢笔。比喻个人的经济情况。<sup>\[如东\]</sup>｜这些日子～不宽裕。<sup>\[如东\]</sup> ② 伸手可以拿到，随手可取<sup>\[东台\]</sup>：我～有资料<sup>\[东台\]</sup>｜～宽裕<sup>\[东台\]</sup>｜～较紧。<sup>\[东台\]</sup> ③ 手上<sup>\[泰州\]</sup>：你要的这本书，我～就有。<sup>\[泰州\]</sup> ④ 经济状况<sup>\[泰州\]</sup>：他最近～也不宽。<sup>\[泰州\]</sup>  
+1. 【[手头不便](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_teu_beh_pin.md#手头不便)】`sheu3 teu2 beh7 pin6` <small>/ɕiɤɯ3 tʰəɪ2 pəʔ7 pʰĩ1/<sup>泰兴</sup></small> 手边缺钱的婉转说法。<sup>\[泰兴\]</sup>  
 1. 【[手条子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_tio_zz.md#手条子)】`sheu3 tio2 zz` <small>/sɤ3 tʰiɔ2 t͡sɿ/<sup>兴化</sup>, /sɤɯ3 tʰiɔ2 t͡se/<sup>泰县</sup></small> ① （贬）手段<sup>\[兴化\]</sup>：他～辣。<sup>\[兴化\]</sup> ② 手段、手腕：你～太辣。<sup>\[泰县\]</sup> ③ 詈骂他人的手<sup>\[泰州\]</sup>：东西摆得好好的，他～作痒，翻得块块是的。<sup>\[泰州\]</sup> ④ 比喻整人的手段<sup>\[泰州\]</sup>：这小伙～辣得很，你同他打交道要存神。<sup>\[泰州\]</sup>  
 1. 【[手套<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_to_r.md#手套<sub>儿</sub>)】`sheu3 to5 r` <sup>[泰县]</sup> 手套。  
 1. 【[手腕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_un.md#手腕)】`sheu3 un5-3` <sup>[东台]</sup> ① 本指人体连接手掌和前手臂的部位。 ② ［喻］不正当的手段：那人不够光明正大，喜欢耍～。  
@@ -1697,7 +1708,7 @@
 1. 【[寿镜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_jien.md#寿镜)】`sheu6 jien5` <sup>[如皋]</sup> 祝寿的镜匾。  
 1. 【[寿酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_jieu.md#寿酒)】`sheu6 jieu3` <small>/sei1 t͡ɕyʊ3/<sup>如皋</sup></small> ① 祝寿酒宴。<sup>\[如皋\]</sup> ② 为庆祝寿辰而举办的酒筵。<sup>\[如东\]</sup>  
 1. 【[寿眉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_mi.md#寿眉)】`sheu6 mi2` <sup>[如东]</sup> 人的眉毛又粗又长，表示寿命可能很长，称寿眉。  
-1. 【[寿面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_min.md#寿面)】`sheu6 min6` ① 祝寿时吃的面条。<sup>\[东台\]</sup> ② 也称作“长寿面”，指生日那天吃的面条，寓意长命百岁。民俗，百岁老人做生日，未被邀请之人会向主家讨要面条，以图吉祥长寿，即使素不相识的路人，主人也不会拒绝。<sup>\[泰州\]</sup>  
+1. 【[寿面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_min.md#寿面)】`sheu6 min6` 也称作“长寿面”，祝寿时吃的面条<sup>\[东台\]</sup>\[泰州：民俗，百岁老人做生日，未被邀请之人会向主家讨要面条，以图吉祥长寿，即使素不相识的路人，主人也不会拒绝。\]  
 1. 【[寿帽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_mo.md#寿帽)】`sheu6 mo6` <small>/sei1 mɔ1/<sup>如皋</sup></small> ① 给死人戴的帽子。随时代、身份、性别而不同。<sup>\[如皋\]</sup> ② 为死人制作的帽子。<sup>\[如东\]</sup>  
 1. 【[寿器](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_qi.md#寿器)】`sheu6 qi5` <sup>[如东]</sup> 棺材。  
 1. 【[寿头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_teu.md#寿头)】`sheu6 teu` <small>/sɤ6 tʰɤ/<sup>兴化</sup></small> ① 傻瓜、不通人情世故的人<sup>\[兴化\]</sup>：这种～，不弄他两个弄哪个？<sup>\[兴化\]</sup> ② 隐语，土也，也就是“土佬”，指不懂人情世故，容易受愚弄欺骗的人<sup>\[泰州\]</sup>：再好的衣裳穿吖他身上也是个～。<sup>\[泰州\]</sup> ③ 谐音“瘦头”，指极小气的人<sup>\[泰州\]</sup>：他是个～，你想他拿钱请客，不可能的事。<sup>\[泰州\]</sup>  

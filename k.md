@@ -395,7 +395,7 @@
 1. 【[口鸽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_guh_zz.md#口鸽子)】`keu3 guh7 zz` <sup>[东台]</sup> “口官司”讹音，意为说不清楚的废话。（参见“打口鸽子”）  
 1. 【[口号](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_ho.md#口号)】`keu3 ho` <sup>[兴化]</sup> 说话时口中带脏字：请你说话覅带～。  
 1. 【[口号<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_ho_r.md#口号<sub>儿</sub>)】`keu3 ho6 r` <sup>[如皋]</sup> 习惯性的附加语：这个人的口号儿不好，一开口就“开荤”。  
-1. 【[口话<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_hua_r.md#口话<sub>儿</sub>)】`keu3 hua6 r` <sup>[如东]</sup> 口头语：这是他的～。  
+1. 【[口话<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_hua_r.md#口话<sub>儿</sub>)】`keu3 hua6 r` <sup>[如东]</sup> 口头禅，口头语：这是他的～。  
 1. 【[口境](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_jien.md#口境)】`keu3 jien` <sup>[如皋]</sup> 见“口边”。  
 1. 【[口紧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_jien.md#口紧)】`keu3 jien3` <small>/kʰɤ3 t͡ɕin3/<sup>兴化</sup>, /kʰəɪ3 t͡ɕiŋ3/<sup>泰兴</sup></small> ① 自己知道的情况不轻易地说出来。<sup>\[如东\]</sup><sup>\[泰州\]</sup>：这个人～，你放心。<sup>\[如东\]</sup>｜这小伙～，不在外头乱说。<sup>\[泰州\]</sup> ② 说话小心，不乱讲。<sup>\[东台\]</sup> ③ 指人不轻易吐露心曲。也说“嘴紧”“口风紧”。<sup>\[兴化\]</sup> ④ 形容麦粒干燥、饱满。<sup>\[兴化\]</sup> ⑤ 不轻易表示态度或泄露某种情况。亦称“嘴紧”。<sup>\[泰兴\]</sup>  
 1. 【[口口声声](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_keu_shen_shen.md#口口声声)】`keu3 keu3 shen1 shen1` <sup>[东台]</sup> 形容把某一说法经常挂在口头上：他～说你关心他。  

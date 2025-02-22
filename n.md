@@ -917,12 +917,13 @@
 1. 【[熰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu.md#熰)】`ngeu1` <small>/ɤ1/<sup>兴化</sup>, /ŋei1/<sup>如皋</sup>, /ɤɯ1/<sup>泰县</sup></small> ① 大汤久煮<sup>\[如皋\]</sup><sup>\[如东\]</sup>：～粽子、～玉米、～牛肉、～骨头汤。<sup>\[如皋\]</sup>｜老牛肉，多～一会儿。<sup>\[如东\]</sup> ② 用水长时间煮<sup>\[东台\]</sup>：～老母鸡；～老菱；～粽子。<sup>\[东台\]</sup> ③ 大火慢煮<sup>\[兴化\]</sup>：～猪头<sup>\[兴化\]</sup>｜把肉放吖锅里慢慢～。<sup>\[兴化\]</sup> ④ 煮<sup>\[泰县\]</sup>：～猪头。<sup>\[泰县\]</sup>  
 1. 【[熰不烂煮不熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_beh_laen_zhv_beh_shoh.md#熰不烂煮不熟)】`ngeu1 beh7 laen6 zhv3 beh7 shoh8` <sup>[东台]</sup> ［喻］指讲阴阳怪气的话，叫人无法接受。  
 1. 【[瓯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_zz.md#瓯子)】`ngeu1 zz` <sup>[泰县]</sup> 小碗：拿个～来。  
-1. 【[牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu.md#牛)】`ngeu2` <small>/ɤ2/<sup>兴化</sup>, /ŋei2/<sup>如皋</sup>, /ŋəɪ2/<sup>泰兴</sup></small> ① 牛，作家畜供役使 ② 喻蛮横顶撞<sup>\[如皋\]</sup>：他～起来不认人。<sup>\[如皋\]</sup> ③ 脾气固执而傲慢<sup>\[兴化\]</sup>：他的脾气太～，对甚的人都不买账！<sup>\[兴化\]</sup> ④ 性格执拗倔强<sup>\[泰州\]</sup>：这小伙～得不得命，大人的话一句听不进去。<sup>\[泰州\]</sup>｜你就不要同他～唻，～到临了没得好果子吃。<sup>\[泰州\]</sup> ⑤ 喻人性格执拗，不活络。<sup>\[泰兴\]</sup>  
+1. 【[牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu.md#牛)】`ngeu2` <small>/ɤ2/<sup>兴化</sup>, /ŋei2/<sup>如皋</sup>, /ŋəɪ2/<sup>泰兴</sup></small> ① 牛，作家畜供役使 ② 喻蛮横顶撞<sup>\[如皋\]</sup>：他～起来不认人。<sup>\[如皋\]</sup> ③ 脾气固执而傲慢<sup>\[兴化\]</sup>：他的脾气太～，对甚的人都不买账！<sup>\[兴化\]</sup> ④ 性格执拗倔强<sup>\[泰州\]</sup>：这小伙～得不得命，大人的话一句听不进去。<sup>\[泰州\]</sup>｜你就不要同他～唻，～到临了没得好果子吃。<sup>\[泰州\]</sup> ⑤ 喻人性格执拗，不活络。<sup>\[泰兴\]</sup>：你不要～唷，要听人说说。<sup>\[泰兴\]</sup>  
 1. 【[牛把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_ba.md#牛把)】`ngeu2 ba3` <sup>[泰县]</sup> 呆子。  
 1. 【[牛蒡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_ban_zz.md#牛蒡子)】`ngeu2 ban5 zz` <sup>[如东]</sup> 菊科植物牛蒡，二年生草本。高约1米。上部多分枝。根生叶丛生茎生叶互生；叶大，有长叶柄，表面有纵裂；叶片广卵形，边缘稍带波状或呈齿牙状。头状花序丛生，着生于枝端排列成伞房状。花冠筒状。瘦果略弯曲，灰褐色。  
+1. 【[牛背雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_bei_y.md#牛背雨)】`ngeu2 bei5 y3` <small>/ŋəɪ2 pəɪ5 y3/<sup>泰兴</sup></small> 夏日范围极小的骤雨。一边晴，一边雨，几可在牛背上分界，故名。<sup>\[泰兴\]</sup>：古语：“六月天分～”。乡人云：“暴雨分牛脊，乌鸦湿半边。”<sup>\[泰兴\]</sup>  
 1. 【[牛屄筒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_bi_ton_zz.md#牛屄筒子)】`ngeu2 bi1 ton3 zz` <sup>[如皋]</sup> 喻说大话没遮拦的一种人。  
 1. 【[牛槟榔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_bien_lan.md#牛槟榔)】`ngeu2 bien1 lan2` <sup>[如皋]</sup> 见“牛鼻桊儿”。  
-1. 【[牛鞭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_bin.md#牛鞭)】`ngeu2 bin1` <small>/ɤ2 piɪ̃1/<sup>兴化</sup>, /ŋei2 pĩ1/<sup>如皋</sup></small> ① 公牛生殖器。<sup>\[如皋\]</sup> ② 可以做菜肴或滋补品的牛阴茎。<sup>\[兴化\]</sup>  
+1. 【[牛鞭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_bin.md#牛鞭)】`ngeu2 bin1` <small>/ɤ2 piɪ̃1/<sup>兴化</sup>, /ŋei2 pĩ1/<sup>如皋</sup>, /ŋəɪ2 pĩ1/<sup>泰兴</sup></small> 公牛生殖器。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>\[兴化：可以做菜肴或滋补品的牛阴茎。\]  
 1. 【[牛包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_bo.md#牛包)】`ngeu2 bo1` <sup>[兴化]</sup> 卖牛的钱：到集上拿～。｜家住三郎庙，上街交～。（兴文《民谣》）  
 1. 【[牛胞衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_bo_i.md#牛胞衣)】`ngeu2 bo1 i1` <sup>[如东]</sup> 牛科动物黄牛或水牛的胎盘。  
 1. 【[牛苍蝇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_can_ien.md#牛苍蝇)】`ngeu2 can1 ien` <sup>[兴化]</sup> 即牛虻，似黑花苍蝇而大，雌蝇吸食牛、马等家畜的血液。  
@@ -945,6 +946,7 @@
 1. 【[牛角腮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_gah_sae.md#牛角腮)】`ngeu2 gah7 sae1` <sup>[如东]</sup> 牛科动物黄牛或水牛角中的骨质骨髓。  
 1. 【[牛角梢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_gah_sho.md#牛角梢)】`ngeu2 gah7 sho1` <sup>[兴化]</sup> ① （喻）难题或无法解决的问题：钻～。 ② 岔道：（他）直接朝～里想，越想越舒服。（《武松》六）  
 1. 【[牛槅头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_geh_teu.md#牛槅头)】`ngeu2 geh7 teu` <sup>[如皋]</sup> 架在牛肩上的“人”字木，是牛牵引时的力点。  
+1. 【[牛过了河拖尾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_gu_a_hu.md#牛过了河拖尾子)】`ngeu2 gu1 a hu2 tu1 vei3 zz` <small>/ŋəɪ2 kɤɯ1 ɑ xɤɯ2 tʰɤɯ1 ʋəɪ3 t͡sɿ/<sup>泰兴</sup></small> 主要矛盾已成为历史，重新抓住小小的一点把柄想翻案。喻不可能做到的事。<sup>\[泰兴\]</sup>：《玉如意》第8回：“怎好牛过河来拖尾巴，把这事耽搁到如今。”<sup>\[泰兴\]</sup>  
 1. 【[牛瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_gua.md#牛瓜)】`ngeu2 gua1` <sup>[泰县]</sup> 固执的人。  
 1. 【[牛下啊河拖尾巴——迟啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_ha_a_hu.md#牛下啊河拖尾巴——迟啊)】`ngeu2 ha6 a hu2 tu1 vei3 ba1 chr2 a` <sup>[东台]</sup>   
 1. 【[牛下河扽尾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_ha_hu_den_vei_zz.md#牛下河扽尾子)】`ngeu2 ha6 hu2 den5 vei3 zz` <sup>[东台]</sup> ［喻］指不好的事情已经发生，临时采取措施已晚了。  
@@ -957,27 +959,28 @@
 1. 【[牛靥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_ih.md#牛靥)】`ngeu2 ih7` <sup>[如东]</sup> 牛科动物黄牛或水牛的甲状腺体。  
 1. 【[牛辕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_iun.md#牛辕)】`ngeu2 iun2` <small>/ŋei2 yʊ̃2/<sup>如皋</sup></small> ① 见“犁盘子”。<sup>\[如皋\]</sup> ② 牛劳作时系在身后的弯木，通过系在两端的“牛索”与“牛槅头”相配。其中段有一通孔，穿短绳，以牵引后方的犁、耙、车等。<sup>\[如皋\]</sup>  
 1. 【[牛脚鞈子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_jiah_guh_zz.md#牛脚鞈子)】`ngeu2 jiah7 guh7 zz` <sup>[如皋]</sup> ① 牛甲。 ② 牛蹄。作食品有滋补强身作用。  
+1. 【[牛脚马脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_jiah_ma_jiah.md#牛脚马脚)】`ngeu2 jiah7 ma3 jiah7` <small>/ŋəɪ2 t͡ɕiɑʔ7 mɑ3 t͡ɕiɑʔ7/<sup>泰兴</sup></small> 犹“东一榔头西一棒子”。谓说话、做事不相连贯，不着边际。<sup>\[泰兴\]</sup>  
 1. 【[牛脚塘<sub>儿</sub>𩑦煞人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_jiah_tan_r_veh_shaeh_ren.md#牛脚塘<sub>儿</sub>𩑦煞人)】`ngeu2 jiah7 tan2 r veh7 shaeh7 ren2` <sup>[东台]</sup> 提醒人们居安思危，如掉以轻心风险会由小转大。  
 1. 【[牛筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_jien.md#牛筋)】`ngeu2 jien1` <small>/ɤ2 t͡ɕin1/<sup>兴化</sup>, /ŋei2 t͡ɕiəŋ1/<sup>如皋</sup>, /ɤɯ2 t͡ɕiŋ1/<sup>泰县</sup></small> ① 牛肉中的筋腱。<sup>\[如皋\]</sup> ② 橡皮筋。<sup>\[如皋\]</sup> ③ 牛科动物黄牛或水牛的蹄筋。<sup>\[如东\]</sup> ④ 橡皮圈儿。<sup>\[兴化\]</sup> ⑤ 骂人脾气固执、傲慢。<sup>\[兴化\]</sup> ⑥ 脾气固执。<sup>\[泰县\]</sup> ⑦ 橡皮筋。<sup>\[泰县\]</sup>  
 1. 【[牛筋草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_jien_co.md#牛筋草)】`ngeu2 jien1 co3` <sup>[如东]</sup> 禾本科植物牛筋草，一年生草本。高约90厘米。须根细而密。秆丛生，直立或基部膝曲。叶片扁平或卷折。穗状花序顶生。种子矩圆形，有明显的波状皱纹。  
-1. 【[牛扣啊在桩上也是老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_keu_a_cae_zhuan_shan_ia_shr_lo.md#牛扣啊在桩上也是老)】`ngeu2 keu1 a cae6 zhuan1 shan6 ia3 shr6 lo3` <sup>[东台]</sup> 闲着不如多干事，生命才有价值。  
 1. 【[牛口涎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_keu_saen.md#牛口涎)】`ngeu2 keu3 saen2` <sup>[如东]</sup> 牛科动物黄牛或水牛的唾涎。  
-1. 【[牛扣在桩上也是老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_keu_cae_zhuan_shan_ia_shr_lo.md#牛扣在桩上也是老)】`ngeu2 keu5 cae6 zhuan1 shan6 ia3 shr6 lo3` <sup>[东台]</sup> 喻指人反正会老，不能虚度光阴，要勤奋做事。  
+1. 【[牛扣啊在桩上也是老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_keu_a_cae.md#牛扣啊在桩上也是老)】`ngeu2 keu5 a cae6 zhuan1 shan6 ia3 shr6 lo3` <sup>[东台]</sup> 闲着不如多干事，生命才有价值。  
+1. 【[牛扣啊桩上也是老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_keu_a_zhuan.md#牛扣啊桩上也是老)】`ngeu2 keu5 a zhuan1 shan ia3 shr lo3` <small>/ŋəɪ2 kʰəɪ5 a t͡suɑŋ1 sɑŋ iɑ3 sɿ lɔ3/<sup>泰兴</sup></small> 牛不干活同样会老去。喻要充分利用其使用价值，提高效益。也作老年人干活时的自慰、自嘲语。<sup>\[泰兴\]</sup>  
 1. 【[牛栏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_laen.md#牛栏)】`ngeu2 laen2` <small>/ŋei2 lẽ2/<sup>如皋</sup></small> ① 牛圈前的木栏。牛头从下方探出吃草。<sup>\[如皋\]</sup> ② 牛圈外边的木栏。<sup>\[如东\]</sup>  
 1. 【[牛栏床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_laen_chuan.md#牛栏床)】`ngeu2 laen2 chuan2` <sup>[如皋]</sup> ① 见“大板床”。 ② 旧时农家普遍使用的三边有矮栏而无高架的大号木板床。夫妻及小儿女可同睡。  
 1. 【[牛郎织女相会——一年一次](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_lan_zheh_ny_xian_huei_ieh_nin_ieh_cz.md#牛郎织女相会——一年一次)】`ngeu2 lan2 zheh7 ny3 xian1 huei6 ieh7 nin2 ieh7 cz5` <sup>[东台]</sup>   
 1. 【[牛里牛气的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_lii_ngeu_qi_dii.md#牛里牛气的)】`ngeu2 lii ngeu2 qi5 dii` <sup>[如皋]</sup> 粗野的样子。  
 1. 【[牛佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_lo_r.md#牛佬<sub>儿</sub>)】`ngeu2 lo3 r` <small>/ɤɯ2 nɔ3 ɚ/<sup>泰县</sup></small> ① 放牛的人。<sup>\[如东\]</sup> ② 乡下人。<sup>\[泰县\]</sup>  
-1. 【[牛虻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_mon.md#牛虻)】`ngeu2 mon` 牛虻，昆虫名，形类似苍蝇稍大，体灰黑色，头阔，触角较短，胸部和腹部有花纹，生活在野草丛中，雄的吸食植物汁液，雌的吸食人畜的血。<sup>\[泰州\]</sup>  
-1. 【[牛虻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_mon.md#牛虻)】`ngeu2 mon2` ① 虻科昆虫复带虻。身体长椭圆形，有灰黑黄褐等色，胸部和腹部有花纹。雌虻体长17毫米，黄绿色。翅透明无斑。雌虻吸食牛、马驴等家畜血液；雄虫不吸血，吸植物的汁液。平常栖于草丛及树林中。成虫在夏季晴朗的天气最活跃。<sup>\[如东\]</sup> ② 昆虫名，生活在田野的杂草中，雌的吸人畜的血。<sup>\[东台\]</sup>  
+1. 【[牛虻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_mon.md#牛虻)】`ngeu2 mon2` <small>/ŋəɪ2 mɔŋ2/<sup>泰兴</sup></small> 牛虻，昆虫名。<sup>\[泰州\]</sup><sup>\[泰兴\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup>  
 1. 【[牛虻蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_mon_hae.md#牛虻蟹)】`ngeu2 mon2 hae3` <sup>[如东]</sup> 蝤蛑科动物锯缘青蟹，也叫牛毛蟹。头胸甲长约10厘米。全体被坚硬的甲壳，外形近似梭子蟹，甲壳隆起而光滑，略呈扇状，前方额缘有明显的尖齿，两侧的最后一刺不向左右特别伸出。背面青绿色。眼1对，能活动。胸肢5对第1对为强大的螯足，第2-4对，长而扁，末端爪状，适于爬行，最后1对，扁平而宽，末节片状，适于游泳。腹部退化，折伏于头胸部下方，无尾节及尾肢，雌者呈圆形，雄者呈三角形。腹肢退化，藏于腹的内侧雌者4对，雄者2对。栖息在浅海泥沙中。  
 1. 【[牛磨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_mu.md#牛磨)】`ngeu2 mu6` <sup>[如皋]</sup> 畜力牵动的大石磨。  
 1. 【[牛轭头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_ngeh_teu.md#牛轭头)】`ngeu2 ngeh7 teu` <sup>[兴化]</sup> 牛拉犁时架在肩头上的轭具。  
 1. 【[牛屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_oh.md#牛屋)】`ngeu2 oh7` <sup>[兴化]</sup> 供牛栖息的棚舍。也称“牛棚”。  
-1. 【[牛皮筒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_pi_ton_zz.md#牛皮筒子)】`ngeu2 pi ton3 zz` <sup>[兴化]</sup> 惯会吹牛的人。‖也称“牛皮大王”。  
+1. 【[牛皮筒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_pi_ton_zz.md#牛皮筒子)】`ngeu2 pi ton3 zz` <small>/ɤ2 pʰi tʰoŋ3 t͡sɿ/<sup>兴化</sup>, /ŋəɪ2 pʰʝ tʰɔŋ3 t͡sɿ/<sup>泰兴</sup></small> 惯会吹牛的人。<sup>\[泰兴\]</sup>\[兴化：也称“牛皮大王”。\]  
 1. 【[牛皮不是吹的，火车不是推的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_pi_beh_shr_chuei_dii_hu_cha_beh_shr_ty_dii.md#牛皮不是吹的，火车不是推的)】`ngeu2 pi2 beh7 shr6 chuei1 dii hu3 cha1 beh7 shr6 ty1 dii` <sup>[东台]</sup> 只有真本事、真功夫才靠得住。  
 1. 【[牛皮灯笼——照里不照外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_pi_den_lon_zho_li_beh_zho_vae.md#牛皮灯笼——照里不照外)】`ngeu2 pi2 den1 lon zho5 li3 beh7 zho5 vae6` <sup>[东台]</sup>   
 1. 【[牛皮糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_pi_tan.md#牛皮糖)】`ngeu2 pi2 tan2` <sup>[如皋]</sup> 一种很韧的软糖，以石花菜和蔗糖为主要原料。  
+1. 【[牛被人偷去啊，逮住个摸桩的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_pi_ren_teu.md#牛被人偷去啊，逮住个摸桩的)】`ngeu2 pi6 ren2 teu1 qy5 a dae3 chv gu mah8 zhuan1 dii` <small>/ŋəɪ2 pʰʝ1 ɻəŋ2 tʰəɪ1 t͡ɕʰy5 a tɛ3 t͡sʰu kɤɯ mɑʔ8 t͡suɑŋ1 təɪ/<sup>泰兴</sup></small> 喻未能抓到真凶，只抓了个怀疑对象。<sup>\[泰兴\]</sup>：《玉如意》第1回：“为何别人偷牛去，捉住个摸桩的顶贼名。”<sup>\[泰兴\]</sup>  
 1. 【[牛鼻管](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_pieh_gun.md#牛鼻管)】`ngeu2 pieh8 gun3` <sup>[如皋]</sup> 见“牛鼻桊儿”。  
 1. 【[牛鼻桊<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_pieh_jiun_r.md#牛鼻桊<sub>儿</sub>)】`ngeu2 pieh8 jiun1 r` <sup>[如皋]</sup> 横穿于牛的鼻中膈的一根有蘑菇头的小木棍，棍梢有孔系上牛鼻绳。  
 1. 【[牛鼻绳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_pieh_shen.md#牛鼻绳)】`ngeu2 pieh8 shen2` <sup>[如皋]</sup> 系在牛鼻桊儿上的约2m长的一段绳。要求不伤牛鼻、牛舌不舔、不易腐烂，故用苮棵草尖儿或棕毛加人髮搓成。  
@@ -990,8 +993,10 @@
 1. 【[牛肉脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_roh_lin.md#牛肉脸)】`ngeu2 roh8 lin3` <sup>[如皋]</sup> 贬指满脸横肉且板着的样子。  
 1. 【[牛索](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_sah.md#牛索)】`ngeu2 sah7` <sup>[如皋]</sup> 系在“牛格头”与“牛辕”两端间的绳。  
 1. 【[牛实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_sheh.md#牛实)】`ngeu2 sheh8` <sup>[泰县]</sup> 殷实。  
+1. 【[牛身上拔根毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_shen_shan_paeh.md#牛身上拔根毛)】`ngeu2 shen1 shan paeh8 gen mo2` <small>/ŋəɪ2 səŋ1 sɑŋ pʰæʔ8 kəŋ mɔ2/<sup>泰兴</sup></small> 喻在数量极大的情况下只取其中极微小的一点点，无伤大雅，不会有任何影响。<sup>\[泰兴\]</sup>  
 1. 【[牛绳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_shen.md#牛绳)】`ngeu2 shen2` <small>/ŋei2 səŋ2/<sup>如皋</sup></small> ① 役牛时用的很长的绳，与牛鼻绳相接，供役者驾驭用。<sup>\[如皋\]</sup> ② 系在牛鼻上牵引牛行走的绳，多以麻制作。<sup>\[如东\]</sup>  
-1. 【[牛舌头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_shih_teu.md#牛舌头)】`ngeu2 shih8 teu` <small>/ŋei2 siʔ8 tʰei/<sup>如皋</sup></small> ① 车前草。牛舌草。<sup>\[如皋\]</sup> ② 牛的舌头。<sup>\[如东\]</sup> ③ 车前子。<sup>\[如东\]</sup>  
+1. 【[牛舌头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_shih_teu.md#牛舌头)】`ngeu2 shih8 teu` <small>/ŋei2 siʔ8 tʰei/<sup>如皋</sup>, /ŋəɪ2 ɕiʔ8 tʰəɪ/<sup>泰兴</sup></small> ① 车前草，牛舌草。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup><sup>\[如东\]</sup> ② 牛的舌头。  
+1. 【[牛舌子草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_shih_zz_co.md#牛舌子草)】`ngeu2 shih8 zz co3` <small>/ŋəɪ2 ɕiʔ8 t͡sɿ t͡sʰɔ3/<sup>泰兴</sup></small> 车前草<sup>\[泰兴\]</sup>  
 1. 【[牛屎饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_shr_bien.md#牛屎饼)】`ngeu2 shr bien3` <sup>[兴化]</sup> 旧时农村将牛粪做成饼状贴在墙上，晒干作燃料：朝北的墙上，穿着麦秸装衣。南墙上，贴满了作燃料的～。（艾煊《乡关何处》）  
 1. 【[牛屎巴巴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_shr_ba_ba_r.md#牛屎巴巴<sub>儿</sub>)】`ngeu2 shr3 ba1 ba1 r, ngeu2 shr0 ba1 ba1 r` <sup>[如皋]</sup> ① 一堆牛粪。 ② 贬指旧时妇女脑后髮髻，即蟠髻。  
 1. 【[牛屎饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_shr_bien.md#牛屎饼)】`ngeu2 shr3 bien3` <sup>[泰州]</sup> 下河农村将牛粪做成饼状贴在墙上，晒干以后可以做燃料。  
@@ -1705,7 +1710,6 @@
 1. 【[女伢<sub>儿</sub>家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_nga_r_ga.md#女伢<sub>儿</sub>家)】`ny3 nga2 r ga` <sup>[如皋]</sup> 见“姑娘家”。  
 1. 【[女攀高亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_paen_go_qien.md#女攀高亲)】`ny3 paen1 go1 qien1` <sup>[兴化]</sup> 指两家结亲时，女方要求对方身份、财富高于自己：老实说，他这么情义，我是动了心的｜何况他爸又是新任乡长，～么。（马春阳《翁婿同还乡》）  
 1. 【[女<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_r.md#女<sub>儿</sub>)】`ny3 r` <sup>[如皋]</sup> ① 指称女孩子。面称称名。雅称姑娘。昵称“丫头”，或小伙，鄙称“外根、外根的、不上街”。 ② 女孩子乳名的尾缀：银～、莲～。  
-1. 【[女人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_ren.md#女人)】`ny3 ren2` <sup>[如东]</sup> 女性，多指成年女子。也称女的。男人的妻子：我家～。  
 1. 【[女生外向](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_shen_vae_xian.md#女生外向)】`ny3 shen1 vae6 xian5` <small>/ly3 sən1 uɛ6 ɕiaŋ5/<sup>兴化</sup></small> ① 传女胎儿在娘胎中的面部朝外<sup>\[兴化\]</sup>：“……因为～，他两手两脚都在外面……”（《广陵潮》六）<sup>\[兴化\]</sup> ② 旧指女子终究要出嫁，成为外姓<sup>\[兴化\]</sup>：岂知～，虽系吾所生，到底是别家的人。（《初刻》三八）<sup>\[兴化\]</sup> ③ 古人以为女子出生之时脸面朝外，以此证明女子出嫁从夫之义。<sup>\[泰州\]</sup> ④ 女儿生下来就心思朝外，向着婆家。<sup>\[泰州\]</sup>  
 1. 【[女婿半个儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_xy_bun_gu_er.md#女婿半个儿)】`ny3 xy bun5 gu5 er2` <small>/ny3 ɕy pʊ̃5 kɤɯ5 ɚ2/<sup>泰兴</sup></small> 喻岳父母对女婿尤爱，当成自己的儿子。<sup>\[泰兴\]</sup>  
 1. 【[女婿一到，丈母娘靠灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ny_xy_ieh_do_chan_mu_nian_ko_zo.md#女婿一到，丈母娘靠灶)】`ny3 xy5 ieh7 do5 chan6 mu3 nian2 ko5 zo5` <sup>[东台]</sup> 丈母娘立刻为爱婿忙饭做菜。  
