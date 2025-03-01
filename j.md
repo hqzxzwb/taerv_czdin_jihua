@@ -751,8 +751,8 @@
 1. 【[惊吖惊的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_nga_jien_dii.md#惊吖惊的)】`jien1 nga jien1 dii` <sup>[如皋]</sup> 见“惊惊憷憷”的。  
 1. 【[惊汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_tan.md#惊汤)】`jien1 tan1` <sup>[兴化]</sup> ① 紧张：他一见这种大阵势，有点～。 ② 受突然刺激而感惊恐不适：婴儿初下浴池洗澡都会～啼哭。  
 1. 【[斤重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_chon.md#斤重)】`jien1 chon` <sup>[兴化]</sup> 重量：这条鱼～不小。  
-1. 【[斤两](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_lian.md#斤两)】`jien1 lian` <sup>[泰州]</sup> ① 指人的某个方面的能力、水平：我俫共事十几年，我有多大～你还不晓得咖？ ② 责任：你是当领导的，要担～的。  
-1. 【[斤两担子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_lian_daen_zz.md#斤两担子)】`jien1 lian daen5 zz` <sup>[泰州]</sup> 比喻应当承担的重任：大家都在下等你拿主意，你当领导的到现在才来上班，你哿有点儿～？  
+1. 【[斤两](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_lian.md#斤两)】`jien1 lian` <small>/t͡ɕiŋ1 liɑŋ/<sup>泰兴</sup></small> ① 指人的某个方面的能力、水平<sup>\[泰州\]</sup>：我俫共事十几年，我有多大～你还不晓得咖？<sup>\[泰州\]</sup> ② 责任<sup>\[泰州\]</sup>：你是当领导的，要担～的。<sup>\[泰州\]</sup> ③ 重量。分量<sup>\[泰兴\]</sup>  
+1. 【[斤两担子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_lian_daen_zz.md#斤两担子)】`jien1 lian daen5 zz` <small>/t͡ɕiŋ1 liɑŋ tɛ̃5 t͡sɿ/<sup>泰兴</sup></small> 比喻应当承担的重任<sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：大家都在下等你拿主意，你当领导的到现在才来上班，你哿有点儿～？<sup>\[泰州\]</sup>｜分家了，～搁到自家肩膊上了。<sup>\[泰兴\]</sup>  
 1. 【[斤两](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_lian.md#斤两)】`jien1 lian3` <sup>[东台]</sup> 分量：你看这个山芋有多少～？  
 1. 【[斤两担子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_lian_daen_zz.md#斤两担子)】`jien1 lian3 daen5 zz` <small>/t͡ɕin1 liaŋ3 tɛ̃5 t͡sɿ/<sup>兴化</sup>, /t͡ɕiəŋ1 liã3 tẽ5 t͡sɿ/<sup>如皋</sup></small> ① 责任、压力：我同他谈过啊，这个任务～不轻，要认真对待。<sup>\[如皋\]</sup> ② ［喻］指应承担的责任<sup>\[东台\]</sup>：把点儿～他，教他有点压力。<sup>\[东台\]</sup> ③ （喻）指承担的责任<sup>\[兴化\]</sup>：孙儿孙女回老家过暑假，老人的～重哎！<sup>\[兴化\]</sup>  
 1. 【[斤求两](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_qieu_lian.md#斤求两)】`jien1 qieu2 lian3` <sup>[如皋]</sup> 口诀。  

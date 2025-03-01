@@ -585,8 +585,7 @@
 1. 【[绒抖抖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ron_deu_deu.md#绒抖抖)】`ron2 deu deu3` <sup>[兴化]</sup> 形容鸟兽细毛长而且密：小儿羔的皮～的。  
 1. 【[绒抖抖的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ron_deu_deu_dii.md#绒抖抖的)】`ron2 deu3 deu3 dii` <small>/ɻɔŋ2 tei3 tei3 tei/<sup>如皋</sup></small> ① 纤维成团而细软蓬松的样子。<sup>\[如皋\]</sup> ② 指物体表面有细密的绒毛，摸上去手感极佳。<sup>\[东台\]</sup>  
 1. 【[绒斗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ron_deu_r.md#绒斗<sub>儿</sub>)】`ron2 deu3 r` <sup>[兴化]</sup> 雄鸡尾羽根部的细绒毛：～大的鸡毛做毽子最好。  
-1. 【[绒毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ron_mo.md#绒毛)】`ron2 mo2` <sup>[如皋]</sup> 鸟兽细软的毛。  
-1. 【[绒毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ron_mo.md#绒毛)】`ron2 mo2` 鸟兽长在贴近皮肤处的柔软而又茂密的细毛<sup>\[泰州\]</sup>：养鸡场里头～飞飞的，脏煞咖。<sup>\[泰州\]</sup>  
+1. 【[绒毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ron_mo.md#绒毛)】`ron2 mo2` <small>/ɻɔŋ2 mɔ2/<sup>如皋</sup></small> ① 鸟兽细软的毛。<sup>\[如皋\]</sup> ② 鸟兽长在贴近皮肤处的柔软而又茂密的细毛<sup>\[泰州\]</sup>：养鸡场里头～飞飞的，脏煞咖。<sup>\[泰州\]</sup>  
 1. 【[绒球球的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ron_qieu_qieu_dii.md#绒球球的)】`ron2 qieu2 qieu2 dii` <sup>[如皋]</sup> 纤维成团而细软蓬松的样子。  
 1. 【[绒线衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ron_xin_i.md#绒线衣)】`ron2 xin5 i1` <sup>[兴化]</sup> 用毛线织成的衫裤。  
 1. 【[冗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ron.md#冗)】`ron5` <small>/ɻɔŋ5/<sup>如皋</sup></small> ① 差、弱、无用<sup>\[如皋\]</sup>：货色～、本事～、～脚儿。<sup>\[如皋\]</sup> ② 软弱，无能。<sup>\[如东\]</sup>：这个人太～。<sup>\[如东\]</sup> ③ 太差。<sup>\[东台\]</sup>  

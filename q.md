@@ -168,23 +168,25 @@
 1. 【[起子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_zz.md#起子)】`qi3 zz` <sup>[兴化]</sup> 改锥。  
 1. 【[夡㷆（存疑）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_fv.md#夡㷆（存疑）)】`qi5 fv5` ① 长时间的大火蒸煮，将锅中食物煮透蒸透，食物全部熟透：这个冷馒头不曾吙得～，里头还不曾热。｜锅里的山芋要多少个盹儿，等它煮啊～啊再起锅。 ② 泛指达到充分程度：这块田里的菜还要得两担水浇啊子才得～。｜这种题目他老是出错，你要同他讲～啊。  
 1. 【[气不动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_beh_ton.md#气不动)】`qi5 beh ton6` <sup>[泰县]</sup> 生气到极点：这件事让人～。  
-1. 【[气不忿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_beh_fen.md#气不忿)】`qi5 beh7 fen6` <sup>[兴化]</sup> 遇到不平的事，心中不服气：“……没的赵姨奶奶听了，又～，反说太便宜了我……”（《红楼梦》六一）。……也有那～的在内生事，闹在一处，挤断了街。（《梼杌闲评》三四）也作“气不愤”。  
+1. 【[气不忿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_beh_fen.md#气不忿)】`qi5 beh7 fen6` <small>/t͡ɕʰi5 pəʔ7 fən6/<sup>兴化</sup>, /t͡ɕʰʝ5 pəʔ7 fəŋ1/<sup>泰兴</sup></small> ① 遇到不平的事，心中不服气<sup>\[兴化\]</sup>：“……没的赵姨奶奶听了，又～，反说太便宜了我……”（《红楼梦》六一）。……也有那～的在内生事，闹在一处，挤断了街。（《梼杌闲评》三四）也作“气不愤”。<sup>\[兴化\]</sup> ② 不服气，很不服气。<sup>\[泰兴\]</sup>  
 1. 【[气不伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_beh_foh.md#气不伏)】`qi5 beh7 foh8` <sup>[兴化]</sup> 受到欺压心中不服：随来的家人也尽有不平的……谁人敢与他争得？只有～不情愿的，当下四散而去。（《二刻》七）也作“气不服”。  
 1. 【[气不服](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_beh_foh.md#气不服)】`qi5 beh7 foh8` <sup>[泰州]</sup> 因为某种结果愤怒而从心里拒绝承认：让他这种不做事的人拿先进，大家心里都～。｜他上头有人，领导就提拔咖他唻，你～也没用。  
-1. 【[气不过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_beh_gu.md#气不过)】`qi5 beh7 gu5` <sup>[如东]</sup> 不能不生气：～才这吖做的。  
+1. 【[气不过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_beh_gu.md#气不过)】`qi5 beh7 gu5` <small>/t͡ɕʰʝ5 pəʔ7 kɤɯ5/<sup>泰兴</sup></small> ① 不能不生气。<sup>\[如东\]</sup>：～才这吖做的。<sup>\[如东\]</sup> ② 谓十分气愤，不能忍受。<sup>\[泰兴\]</sup>：那天我是～才骂啊他几句。<sup>\[泰兴\]</sup>  
 1. 【[气不由命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_beh_ieu_mien.md#气不由命)】`qi5 beh7 ieu2 mien6` <sup>[兴化]</sup> 见“气不留命”。  
-1. 【[气不留命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_beh_lieu_mien.md#气不留命)】`qi5 beh7 lieu2 mien6` <small>/t͡ɕʰi5 pəʔ7 liɤ2 miɪ̃6/<sup>兴化</sup></small> ① 喘气非常急促。<sup>\[如东\]</sup>：我追他追得～。<sup>\[如东\]</sup> ② 在极端愤激的情况下，不惜拼命去争斗。也说“气不由命”。<sup>\[兴化\]</sup>：李监生此时～，就街上拾起一块石头来掷打……（《梼杌闲评》四三）<sup>\[兴化\]</sup>｜……这一下如砸着了，就能送命。祁典也不顾了，正在气头上，这叫“～”。（扬二《严秀打店》）<sup>\[兴化\]</sup>  
+1. 【[气不留命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_beh_lieu_mien.md#气不留命)】`qi5 beh7 lieu2 mien6` <small>/t͡ɕʰi5 pəʔ7 liɤ2 miɪ̃6/<sup>兴化</sup>, /t͡ɕʰʝ5 pəʔ7 ləɪ2 miŋ1/<sup>泰兴</sup></small> ① 喘气非常急促。<sup>\[如东\]</sup>：我追他追得～。<sup>\[如东\]</sup> ② 在极端愤激的情况下，不惜拼命去争斗。也说“气不由命”。<sup>\[兴化\]</sup>：李监生此时～，就街上拾起一块石头来掷打……（《梼杌闲评》四三）<sup>\[兴化\]</sup>｜……这一下如砸着了，就能送命。祁典也不顾了，正在气头上，这叫“～”。（扬二《严秀打店》）<sup>\[兴化\]</sup> ③ 因极度气愤而以性命抗争。<sup>\[泰兴\]</sup>  
 1. 【[气不动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_beh_ton.md#气不动)】`qi5 beh7 ton6` <sup>[东台]</sup> 又好气又好笑：他在十字路口转吖半天，也不曾寻到家来的路，真叫人～。  
+1. 【[气包角子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_bo_gah_zz.md#气包角子)】`qi5 bo1 gah7 zz` <small>/t͡ɕʰʝ5 pɔ1 kɑʔ7 t͡sɿ/<sup>泰兴</sup></small> 指内空的荚<sup>\[泰兴\]</sup>  
 1. 【[气窗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_chuan.md#气窗)】`qi5 chuan1` <sup>[如东]</sup> 窗的一种，一般设在山墙上，供透气用。  
+1. 【[气得个董卓咖似的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_deh_gu_don.md#气得个董卓咖似的)】`qi5 deh gu9 don3 zhuah7 ga sz6 dii` <small>/t͡ɕʰʝ5 təʔ kɤɯ9 tɔŋ3 t͡suɑʔ7 ka sɿ1 təɪ/<sup>泰兴</sup></small> 汉末大军阀董卓貌凶恶，十分难看。喻气极面相十分难看。<sup>\[泰兴\]</sup>  
 1. 【[气得只喖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_deh_zheh_kv.md#气得只喖)】`qi5 deh7 zheh7 kv2` <sup>[如皋]</sup> 很生气。生气到极点。  
 1. 【[气灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_den.md#气灯)】`qi5 den1` <sup>[如东]</sup> 一种灯。把煤油装在一只密封的容器里，通过加气压，使喷头喷出来的煤油雾化，洒在纱罩上，燃烧发光。  
 1. 【[气福倓寿的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_foh_taen_sheu_dii.md#气福倓寿的)】`qi5 foh7 taen2 sheu6 dii` <sup>[如皋]</sup> 体态丰满，满面红光、有福长寿的样子。  
 1. 【[气锅水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_gun_shuei.md#气锅水)】`qi5 gun shuei3` <sup>[泰州]</sup> 蒸汽锅中的蒸气形成的水，引申泛指热气冷却之后凝结成的水。  
 1. 【[气管<sub>儿</sub>炎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_gun_r_in.md#气管<sub>儿</sub>炎)】`qi5 gun3 r in2` <sup>[如东]</sup> ① 支气管发炎。 ② 比喻妻子管束严厉，害怕妻子。  
+1. 【[气咕唠叨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_gv_lo_do.md#气咕唠叨)】`qi5 gv lo2 do1` <small>/t͡ɕʰi5 ku lɔ2 tɔ1/<sup>兴化</sup>, /t͡ɕʰʝ5 ku lɔ2 tɔ1/<sup>泰兴</sup></small> ① 由于生气而呼吸急促，口中不停念叨的样子<sup>\[兴化\]</sup>：不晓得为甚的事，他一早起就～的。<sup>\[兴化\]</sup> ② 由于生气而喋喋不休。<sup>\[泰兴\]</sup>：一天到夜～的让人嫌烦。<sup>\[泰兴\]</sup>  
 1. 【[气咕唠叨的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_gv_lo_do_dii.md#气咕唠叨的)】`qi5 gv lo2 do1 dii` <sup>[如皋]</sup> 很生气的样子。  
 1. 【[气咕咕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_gv_gv.md#气咕咕)】`qi5 gv1 gv1` <sup>[东台]</sup> 生气了，叽叽咕咕的样子。  
 1. 【[气咕唠叨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_gv_lo_do.md#气咕唠叨)】`qi5 gv3 lo2 do1` <sup>[东台]</sup> 生了气，叽叽咕咕地发牢骚：听他～的，快去开导开导！  
-1. 【[气鼓唠叨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_gv_lo_do.md#气鼓唠叨)】`qi5 gv3 lo2 do1` <sup>[兴化]</sup> 由于生气而呼吸急促，口中不停念叨的样子：不晓得为甚的事，他一早起就～的。  
 1. 【[气鼓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_gv_r.md#气鼓<sub>儿</sub>)】`qi5 gv3 r` <sup>[如东]</sup> 章鱼科动物短蛸。比喻肚量小，容易生气。  
 1. 【[气鼓胀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_gv_zhan.md#气鼓胀)】`qi5 gv3 zhan5` <sup>[兴化]</sup> 中医所指由于“气”凝滞而引起鼓胀。  
 1. 【[气鼓子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_gv_zz.md#气鼓子)】`qi5 gv3 zz` <sup>[兴化]</sup> （喻）会生气的人：他是个～，动不动就来气。  
@@ -208,14 +210,16 @@
 1. 【[气量](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_lian.md#气量)】`qi5 lian` <sup>[东台]</sup> 气魄，涵量。  
 1. 【[气量](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_lian.md#气量)】`qi5 lian6` <sup>[如东]</sup> 肚量，修养：这个人有～。  
 1. 【[气力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_lieh.md#气力)】`qi5 lieh` <small>/t͡ɕʰʝ5 liəʔ/<sup>如皋</sup>, /t͡ɕʰʝ5 liʔ/<sup>泰兴</sup>, /t͡sʰɿ5 niɪʔ/<sup>泰县</sup></small> 疲惫<sup>\[泰兴\]</sup><sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰县\]</sup>  
-1. 【[气闷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_men.md#气闷)】`qi5 men6` <sup>[兴化]</sup> 因气压低或受窘迫而感到压抑：（胡镜孙）一场没趣，愈加～。（《官场现形记》二一）。  
+1. 【[气闷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_men.md#气闷)】`qi5 men6` <small>/t͡ɕʰi5 mən6/<sup>兴化</sup>, /t͡ɕʰʝ5 məŋ1/<sup>泰兴</sup></small> ① 因气压低或受窘迫而感到压抑<sup>\[兴化\]</sup>：（胡镜孙）一场没趣，愈加～。（《官场现形记》二一）。<sup>\[兴化\]</sup> ② 心情烦闷、气恼，生闷气。<sup>\[泰兴\]</sup>  
 1. 【[气冒𪸺烟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_mo_ngan_in.md#气冒𪸺烟)】`qi5 mo6 ngan2 in1` <sup>[如皋]</sup> 烟气、水蒸气弥漫。  
 1. 【[气目淡扬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_moh_taen_ian.md#气目淡扬)】`qi5 moh taen6 ian2` <sup>[泰县]</sup> 脸色好：他最近身体不丑，脸上～的。  
+1. 【[气脉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_moh.md#气脉)】`qi5 moh` <small>/t͡ɕʰʝ5 mɔʔ/<sup>泰兴</sup></small> 血气与脉息。<sup>\[泰兴\]</sup>：细伢儿～小，要细貌点照应<sup>\[泰兴\]</sup>  
 1. 【[气脉堂堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_moh_tan_tan.md#气脉堂堂)】`qi5 moh8 tan2 tan2` <sup>[如东]</sup> 脸色红润，身体健康：他养得好，～的。  
-1. 【[气昂昂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_ngan_ngan.md#气昂昂)】`qi5 ngan2 ngan2` <sup>[东台]</sup> 士气高涨：雄赳赳，～。  
+1. 【[气昂昂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_ngan_ngan.md#气昂昂)】`qi5 ngan2 ngan2` <small>/t͡ɕʰʝ5 ŋɑŋ2 ŋɑŋ2/<sup>泰兴</sup></small> ① 士气高涨<sup>\[东台\]</sup>：雄赳赳，～。<sup>\[东台\]</sup> ② 形容精神振奋，气度不凡。<sup>\[泰兴\]</sup>  
 1. 【[气派](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_pae.md#气派)】`qi5 pae5` <sup>[如东]</sup> 气势：这幢楼房～。  
+1. 【[气勃勃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_peh_peh.md#气勃勃)】`qi5 peh8 peh8` <small>/t͡ɕʰʝ5 pʰəʔ8 pʰəʔ8/<sup>泰兴</sup></small> 气盛之貌，非常生气的样子。<sup>\[泰兴\]</sup>：他～的样子，我望见就走了。<sup>\[泰兴\]</sup>  
 1. 【[气潽啊汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_pv_a_tan.md#气潽啊汤)】`qi5 pv1 a tan1` <sup>[如东]</sup> 非常气愤：无缘无故的捱人臭骂，他～。  
-1. 【[气哺哺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_pv_pv.md#气哺哺)】`qi5 pv3 pv3` <sup>[兴化]</sup> 形容气忿不平的样子：季遐年恼了……～的又随堂吃了一顿饭。（《儒林外史》五五）。  
+1. 【[气潽潽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_pv_pv.md#气潽潽)】`qi5 pv1 pv1` <sup>[兴化]</sup> 形容气忿不平的样子：季遐年恼了……～的又随堂吃了一顿饭。（《儒林外史》五五）。  
 1. 【[气软](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_run.md#气软)】`qi5 run3` <sup>[如东]</sup> 温和：说话要～些。  
 1. 【[气嗓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_san.md#气嗓)】`qi5 san3` <small>/t͡ɕʰi5 saŋ3/<sup>兴化</sup>, /t͡ɕʰʝ5 sã3/<sup>如皋</sup></small> ① 气管。<sup>\[如皋\]</sup> ② 气管。也说“气嗓管子”。<sup>\[兴化\]</sup>  
 1. 【[气嗓管子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_san_gun_zz.md#气嗓管子)】`qi5 san3 gun3 zz` <sup>[兴化]</sup> 气管。  
@@ -226,8 +230,8 @@
 1. 【[气伤吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_shan_nga.md#气伤吖)】`qi5 shan1 nga` <sup>[如东]</sup> 气得非常厉害：他～，手都在下发抖。  
 1. 【[气数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_shv.md#气数)】`qi5 shv5` <sup>[东台]</sup> 运气，命运：不要看他上窜下跳的，我看他～已尽，神气不了几天吖。  
 1. 【[气袋子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_tae_zz.md#气袋子)】`qi5 tae6 zz` <sup>[如皋]</sup> 经常引起家人（同伴）生气的成员。  
-1. 【[气头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_teu.md#气头)】`qi5 teu2` <sup>[泰州]</sup> 正在愤怒高潮之际：他这刻儿正在气头上，你说咖也没用。  
-1. 【[气性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_xien.md#气性)】`qi5 xien` <sup>[如东]</sup> 品性，操守：要有～。  
+1. 【[气头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_teu.md#气头)】`qi5 teu2` <small>/t͡ɕʰʝ5 tʰəɪ2/<sup>泰兴</sup></small> ① 愤怒高潮之际<sup>\[泰州\]</sup>：他这刻儿正在气头上，你说咖也没用。<sup>\[泰州\]</sup> ② 发怒、生气的顶点。<sup>\[泰兴\]</sup>：在～上<sup>\[泰兴\]</sup>  
+1. 【[气性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_xien.md#气性)】`qi5 xien` <small>/t͡ɕʰʝ5 ɕiŋ/<sup>泰兴</sup></small> ① 品性，操守。<sup>\[如东\]</sup>：要有～。<sup>\[如东\]</sup> ② 脾气<sup>\[泰兴\]</sup>  
 1. 【[气心疯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_xien_fon.md#气心疯)】`qi5 xien1 fon1` <sup>[兴化]</sup> 因受巨大刺激而精神失常：“沙和尚，不好了。师兄是寻不着师父，恼出～来了。”（《西游记》四十）  
 1. 【[气形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_xien.md#气形)】`qi5 xien2` <sup>[如皋]</sup> 生气的样子。  
 1. 【[气虚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_xy.md#气虚)】`qi5 xy1` <sup>[如皋]</sup> 中医术语，一般指中气不足或元气虚衰的病理现象。  
@@ -1068,9 +1072,7 @@
 1. 【[情商议](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_shan_i.md#情商议)】`qien2 shan1 i` <sup>[兴化]</sup> 协商、恳求：跟你～，所欠款子，展期十天一定还清。  
 1. 【[情势不对](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_shr_beh_duei.md#情势不对)】`qien2 shr5 beh7 duei5` <sup>[如皋]</sup> 情形不对。  
 1. 【[晴带雨伞饱带粮——留一手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_dae_y_saen_bo_dae_lian_lieu_ieh_sheu.md#晴带雨伞饱带粮——留一手)】`qien2 dae5 y3 saen3 bo3 dae5 lian2 lieu2 ieh7 sheu3` <sup>[东台]</sup>   
-1. 【[桯凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_den.md#桯凳)】`qien2 den5` <sup>[泰县]</sup> 大凳。  
-1. 【[桯凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_den.md#桯凳)】`qien2 den5` <small>/t͡ɕʰin2 tən5/<sup>兴化</sup></small> ① 一种特殊加工的长凳，凳面四周用实木，中间用板，比板凳厚重，且长而宽。<sup>\[东台\]</sup> ② 一种质地较好并嵌有花板的长凳。<sup>\[兴化\]</sup>  
-1. 【[桯凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_den.md#桯凳)】`qien2 den5` 一种条形大凳，整体坚实富足，两头凳面下有蝶形饰板。<sup>\[泰州\]</sup>  
+1. 【[桯凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_den.md#桯凳)】`qien2 den5` <small>/t͡ɕʰin2 tən5/<sup>兴化</sup>, /t͡ɕʰiŋ2 təŋ5/<sup>泰县</sup></small> ① 大凳。<sup>\[泰县\]</sup> ② 一种特殊加工的长凳，凳面四周用实木，中间用板，比板凳厚重，且长而宽。<sup>\[东台\]</sup> ③ 一种质地较好并嵌有花板的长凳。<sup>\[兴化\]</sup> ④ 一种条形大凳，整体坚实富足，两头凳面下有蝶形饰板。<sup>\[泰州\]</sup>  
 1. 【[秦泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ni.md#秦泥)】`qien2 ni2` <sup>[如东]</sup> 黏性土质：这许都是～土。  
 1. 【[秦泥路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ni_lv.md#秦泥路)】`qien2 ni2 lv6` <sup>[如东]</sup> 路面由粘质土壤铺成的路，称秦泥路。透水性差，雨后泥泞难行。  
 1. 【[芹菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_cae.md#芹菜)】`qien2 cae5` ① 伞科植物旱芹，又名蒲芹，一年或二年生草本。<sup>\[如东\]</sup> ② 一种蔬菜，叶羽状，叶柄肥大，茎叶均可食用，对预防高血压、动脉硬化等十分有益，又叫“药芹”“秋壅菜”。<sup>\[东台\]</sup> ③ 又名“水芹菜”，多年水生宿根草本植物，茎干似竹有节中空，茎为冬季蔬菜。泰州民俗，农历腊月二十四送灶晚上煮糯米饭，吃芹菜豆腐汤，取其谐音“勤劳兜富”。<sup>\[泰州\]</sup>  

@@ -1311,7 +1311,7 @@
 1. 【[毛昌纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_chan_zhr.md#毛昌纸)】`mo2 chan1 zhr3` <small>/mɔ2 t͡sʰaŋ1 t͡sɿ3/<sup>兴化</sup></small> ① 迷信用品。一种淡黄包的纸，质地比较粗糙，淡黄色，上面凿成许多圆圈，充当纸钱，祭祀亡灵。<sup>\[如东\]</sup> ② 敬亡人的土纸，常用毛昌月子（铁凿子）冲成一行行月牙形口子。詈语中代指钱币。<sup>\[东台\]</sup> ③ 一种浅黄色土纸，打上花纹后，迷信用作纸钱。<sup>\[兴化\]</sup> ④ 钱的贬义说法<sup>\[兴化\]</sup>：“你到底能交多少费用？”“～都没有带一张。”（马春阳《四十块钱》）<sup>\[兴化\]</sup>  
 1. 【[毛重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_chon.md#毛重)】`mo2 chon6` ① 包括物品容器在内的重量。<sup>\[如东\]</sup> ② 包括容器或者包装在内的货物总重量<sup>\[泰州\]</sup>：这担菜～八十五斤，去掉家伙净重八十斤。<sup>\[泰州\]</sup>  
 1. 【[毛戳毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_chuah_mo.md#毛戳毛)】`mo2 chuah7 mo2` <sup>[兴化]</sup> （喻）相互之间都不顶真：谚曰：大麦换蟹砟（蟛蜞）——～。  
-1. 【[毛糙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_co.md#毛糙)】`mo2 co` <sup>[兴化]</sup> ① 环境不安静：这几天庄上老好的～哩！ ② 工作马虎，不细心：你这吖～怎吖能做好工作？  
+1. 【[毛糙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_co.md#毛糙)】`mo2 co` <small>/mɔ2 t͡sʰɔ/<sup>兴化</sup>, /mɔ2 t͡sʰɔ/<sup>泰兴</sup></small> ① 环境不安静<sup>\[兴化\]</sup>：这几天庄上老好的～哩！<sup>\[兴化\]</sup> ② 工作马虎，不细心<sup>\[兴化\]</sup>：你这吖～怎吖能做好工作？<sup>\[兴化\]</sup> ③ 粗糙，粗莽，不细心。<sup>\[泰兴\]</sup>  
 1. 【[毛糙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_co.md#毛糙)】`mo2 co5` <sup>[泰州]</sup> ① 做事不认真，不仔细：这小伙做事太～。 ② 脾气急躁：他这个人太～，三句话不对头就召起来啊。  
 1. 【[毛搭车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_daeh_cha.md#毛搭车)】`mo2 daeh7 cha1` <sup>[如东]</sup> 交通工具，摩托车。金属制，两只轮子或三只轮子。以内燃机为动力。行动灵便快速。可以载人或物。  
 1. 【[毛赌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_dv.md#毛赌)】`mo2 dv3` <sup>[东台]</sup> 指打牌、下棋、玩麻将等不按游戏规则办事，作弊的行为。也称“毛机”。  
@@ -1324,18 +1324,19 @@
 1. 【[毛胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_hv_zz.md#毛胡子)】`mo2 hv2 zz` <small>/mɔ2 xu2 t͡sɿ/<sup>兴化</sup></small> ① 指络腮胡子或留络腮胡子的人。<sup>\[东台\]</sup> ② 络腮胡子<sup>\[兴化\]</sup>：他不到三十岁，长吖一脸的～。<sup>\[兴化\]</sup> ③ 连着鬓角的胡子。<sup>\[兴化\]</sup>  
 1. 【[毛鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_ji.md#毛鸡)】`mo2 ji1` <sup>[兴化]</sup> （儿童语）谓游戏时输了抵赖：不要～，要玩好好玩。  
 1. 【[毛脚姬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_jiah_ji.md#毛脚姬)】`mo2 jiah7 ji1` <small>/mɔ2 t͡ɕiaʔ7 t͡ɕʝ1/<sup>如皋</sup>, /mɔ2 t͡ɕiɑʔ7 t͡sɿ1/<sup>泰县</sup></small> ① 旧时新娘未满月称毛脚姬，不可串门。<sup>\[如皋\]</sup> ② 新娘子。<sup>\[泰县\]</sup>  
-1. 【[毛脚女婿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_jiah_ny_xy.md#毛脚女婿)】`mo2 jiah7 ny3 xy` <sup>[兴化]</sup> 已订婚尚未成亲的女婿：～上门。  
+1. 【[毛脚女婿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_jiah_ny_xy.md#毛脚女婿)】`mo2 jiah7 ny3 xy` <small>/mɔ2 t͡ɕiaʔ7 ly3 ɕy/<sup>兴化</sup>, /mɔ2 t͡ɕiɑʔ7 ny3 ɕy/<sup>泰兴</sup></small> 已订婚尚未成亲的女婿<sup>\[兴化\]</sup>\[泰兴：《沪谚外编》：“尚未结婚，而上岳父之门者。”\]：～上门。<sup>\[兴化\]</sup>  
 1. 【[毛孔眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_kon_ngaen_r.md#毛孔眼<sub>儿</sub>)】`mo2 kon3 ngaen3 r` <sup>[如东]</sup> ① 人体表皮上的汗孔。 ② 比喻细小的洞：砂缸上有～儿，渗水。  
 1. 【[毛辣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_laeh_zz.md#毛辣子)】`mo2 laeh8 zz` <sup>[如皋]</sup> 即“洋辣子”。  
-1. 【[毛里毛糙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_lii_mo_co.md#毛里毛糙)】`mo2 lii mo2 co5` <sup>[东台]</sup> 指做事不细致，粗糙、马虎。也作“毛毛糙糙”。  
+1. 【[毛里毛糙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_lii_mo_co.md#毛里毛糙)】`mo2 lii mo2 co5` <small>/mɔ2 ləɪ mɔ2 t͡sʰɔ5/<sup>泰兴</sup></small> ① 指做事不细致，粗糙、马虎。也作“毛毛糙糙”。<sup>\[东台\]</sup> ② “毛糙”的生动形式<sup>\[泰兴\]</sup>  
 1. 【[毛里毛拉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_lii_mo_la.md#毛里毛拉)】`mo2 lii mo2 la1` <sup>[兴化]</sup> 指衣物的边缘不整：裤脚子～的。  
 1. 【[毛连眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_lin_ngaen.md#毛连眼)】`mo2 lin2 ngaen3` <sup>[泰州]</sup> 两眼眉毛于印堂处连接起来：他家姑娘是～。  
 1. 【[毛米粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_mi_zhoh.md#毛米粥)】`mo2 mi zhoh7` <small>/mɔ2 mʝ t͡sɔʔ7/<sup>如皋</sup></small> ① 新生儿报喜的场米糖粥。<sup>\[如皋\]</sup> ② 煮给新生婴儿母亲的第一餐粥，用糯米熬成，外加红糖。<sup>\[东台\]</sup>  
 1. 【[毛米粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_mi_zhoh.md#毛米粥)】`mo2 mi3 zhoh7` <sup>[泰县]</sup> 生孩子后第三天报喜的糯米糖粥。  
 1. 【[毛毛擦擦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_mo_caeh_caeh.md#毛毛擦擦)】`mo2 mo2 caeh7 caeh7` <sup>[东台]</sup> 某些不良行为的蛛丝马迹：那两个人～的，早有人议论。  
 1. 【[毛毛的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_mo_dii.md#毛毛的)】`mo2 mo2 dii` <sup>[兴化]</sup> 大约、接近：今年这棵树上结的梨子～一百斤。  
-1. 【[毛毛雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_mo_y.md#毛毛雨)】`mo2 mo2 y3` ① 比喻小雨。<sup>\[如东\]</sup> ② 连绵不断细雨。<sup>\[泰州\]</sup>  
+1. 【[毛毛雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_mo_y.md#毛毛雨)】`mo2 mo2 y3` <small>/mɔ2 mɔ2 y3/<sup>泰兴</sup></small> ① 比喻小雨。<sup>\[如东\]</sup> ② 连绵不断细雨。<sup>\[泰州\]</sup> ③ 指水滴极微小、不能形成雨点的小雨；喻微不足道，小意思。<sup>\[泰兴\]</sup>：他工资箇们高，用箇点儿钱是～。<sup>\[泰兴\]</sup>  
 1. 【[毛丫头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_nga_teu.md#毛丫头)】`mo2 nga1 teu` <small>/mɔ2 a1 tʰɤ/<sup>兴化</sup></small> ① 小女孩<sup>\[兴化\]</sup>：“……那是我手里调理出来的～……”（《红楼梦》十九）<sup>\[兴化\]</sup> ② 对女孩的蔑称<sup>\[泰州\]</sup>：不谈唻，你同个～生甚的气唦？<sup>\[泰州\]</sup>  
+1. 【[毛坯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_pei.md#毛坯)】`mo2 pei1` <small>/mɔ2 pʰəɪ1/<sup>泰兴</sup></small> 已具有所要求的形体，还需要再进行加工的半成品。亦常比喻初具规模，但还粗糙、尚未最后完成的物品。<sup>\[泰兴\]</sup>  
 1. 【[毛病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_pien.md#毛病)】`mo2 pien6` <small>/mɔ2 pʰiɪ̃6/<sup>兴化</sup></small> ① 病<sup>\[如东\]</sup><sup>\[兴化\]</sup>：老年人有～要少吃油腻的东西。<sup>\[兴化\]</sup>｜“……还有庞土元先生献连环妙计，解救兵丁的～……”（《火烧赤壁》八）<sup>\[兴化\]</sup> ② 非原则性缺点、不良习惯<sup>\[泰州\]</sup>：他这个𠫓头落尾的～改不掉唻。<sup>\[泰州\]</sup>｜他这个没事就𢻷脚丫儿的～是改不掉唻。<sup>\[泰州\]</sup>｜他有个最大的坏～，早上要在床上吃支烟才起来。<sup>\[泰州\]</sup>  
 1. 【[毛□□的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_poh_poh_dii.md#毛□□的)】`mo2 poh8 poh8 dii` <sup>[如皋]</sup> 灰尘飞扬的样子。  
 1. 【[毛埲埲的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_pon_pon_dii.md#毛埲埲的)】`mo2 pon6 pon6 dii` <sup>[如皋]</sup> 长满了霉斑，且菌丝飞扬。  
@@ -1346,30 +1347,35 @@
 1. 【[毛沙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_sha_zz.md#毛沙子)】`mo2 sha1 zz` <sup>[兴化]</sup> 蒙蒙细雨：外头～喷喷的。  
 1. 【[毛衫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_shaen_r.md#毛衫<sub>儿</sub>)】`mo2 shaen1 r` <sup>[兴化]</sup> 初生儿穿的小衣裳：哈，还是你～做得长，总是赶上好吃的。  
 1. 【[毛衫做得长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_shaen_zu_deh_chan.md#毛衫做得长)】`mo2 shaen1 zu5 deh7 chan2` <sup>[东台]</sup> 特指运气好，有口福。  
-1. 【[毛衫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_shaen_zz.md#毛衫子)】`mo2 shaen1 zz` <sup>[东台]</sup> 初生婴儿穿的衣服，由婴儿的外婆家在产前送来催生。  
+1. 【[毛衫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_shaen_zz.md#毛衫子)】`mo2 shaen1 zz` <small>/mɔ2 ɕiɛ̃1 t͡sɿ/<sup>泰兴</sup></small> ① 初生婴儿穿的衣服，由婴儿的外婆家在产前送来催生。<sup>\[东台\]</sup> ② 不缝边缘的婴儿内衣。<sup>\[泰兴\]</sup>  
 1. 【[毛手毛脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_sheu_mo_jiah.md#毛手毛脚)】`mo2 sheu3 mo2 jiah7` <small>/mɔ2 sɤ3 mɔ2 t͡ɕiaʔ7/<sup>兴化</sup>, /mɔ2 sei3 mɔ2 t͡ɕiaʔ7/<sup>如皋</sup></small> ① 做事情不细心。<sup>\[如东\]</sup> ② 有偷窃行为。<sup>\[如东\]</sup> ③ 比喻偷拿、爱小。<sup>\[如皋\]</sup> ④ 指手脚不清爽，有小偷小摸的行为。<sup>\[东台\]</sup> ⑤ 粗手笨脚<sup>\[兴化\]</sup>：他～的把个金鱼缸打碎啊。<sup>\[兴化\]</sup> ⑥ 动手动脚<sup>\[兴化\]</sup>：“……黄叔叔说打人不好……叫你再不能～的了。”（马春阳《两个小社员》）<sup>\[兴化\]</sup> ⑦ 小偷小摸<sup>\[兴化\]</sup>：“大老爷只管放心……但凡有点～的，小人决不用他。”（《三侠五义》七六）<sup>\[兴化\]</sup>  
 1. 【[毛手毛脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_sheu_mo_jiah.md#毛手毛脚)】`mo2 sheu3 mo3 jiah7` <sup>[泰州]</sup> ① 动手动脚，多指男性对女性的轻佻行为：不要同人家姑娘～的。 ② 小偷小摸行为：这小伙～的拿人家店里东西。 ③ 因技艺不精而导致做活粗疏：你不要～的把人家东西弄坏啊。  
 1. 【[毛骚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_so.md#毛骚)】`mo2 so` <sup>[兴化]</sup> ① “毷氉”。纠缠、折腾：你覅～人。 ② 环境复杂、不安静。  
 1. 【[毛达卡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_taeh_ka.md#毛达卡)】`mo2 taeh ka3` 摩托车  
 1. 【[毛头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_teu.md#毛头)】`mo2 teu` <sup>[兴化]</sup> 物体顶端或周边粗糙的部分。  
 1. 【[毛头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_teu.md#毛头)】`mo2 teu2` <small>/mɔ2 tʰɤ2/<sup>兴化</sup>, /mɔ2 tʰɤɯ2/<sup>泰县</sup></small> ① 可供建筑搭建支架、绑扎成运输竹筏的毛竹。<sup>\[东台\]</sup> ② 粗毛竹。<sup>\[兴化\]</sup> ③ 粗毛竹。<sup>\[泰县\]</sup>  
+1. 【[毛头小伙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_teu_xio_hu.md#毛头小伙子)】`mo2 teu2 xio3 hu zz` <small>/mɔ2 tʰəɪ2 ɕiɔ3 xɤɯ t͡sɿ/<sup>泰兴</sup></small> 谙事不足的年轻小伙子。<sup>\[泰兴\]</sup>  
 1. 【[毛头小伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_teu_xio_hu.md#毛头小伙)】`mo2 teu2 xio3 hu3` <sup>[兴化]</sup> 泛指男青年：李小青的话，像一根火柴丢在干草上，把～他们身上的火，都燃烧起来。（马春阳《双灯照》）  
-1. 【[毛豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_teu.md#毛豆)】`mo2 teu6` <small>/mɔ2 tʰɤ6/<sup>兴化</sup></small> ① 做菜用的黄豆嫩英及子实<sup>\[兴化\]</sup>：～角子<sup>\[兴化\]</sup>｜～米子。<sup>\[兴化\]</sup> ② 带荚的嫩黄豆。<sup>\[泰州\]</sup>  
+1. 【[毛豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_teu.md#毛豆)】`mo2 teu6` <small>/mɔ2 tʰɤ6/<sup>兴化</sup>, /mɔ2 tʰəɪ1/<sup>泰兴</sup></small> ① 做菜用的黄豆嫩英及子实<sup>\[兴化\]</sup>：～角子<sup>\[兴化\]</sup>｜～米子。<sup>\[兴化\]</sup> ② 带荚的嫩黄豆。<sup>\[泰州\]</sup> ③ 大豆的嫩荚果。荚上有细毛，内含青色豆粒，可做蔬菜食用。<sup>\[泰兴\]</sup>  
 1. 【[毛桃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_to.md#毛桃)】`mo2 to2` <sup>[如东]</sup> 一种野生的桃树，果实小，含糖量少。这种桃树的果实叫毛桃。  
 1. 【[毛窝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_u.md#毛窝)】`mo2 u1` <small>/mɔ2 o1/<sup>兴化</sup></small> ① 用稻草和芦花编织的保暖鞋<sup>\[兴化\]</sup>：（他）脱掉脚上的老～，跳下池塘……（陈登科《淮河边上的儿女》一）<sup>\[兴化\]</sup> ② 用稻草、蒲草以及其他材料（毡毛、芦花或鸡毛等）变成的深帮圆头保暖鞋，以其材料与鸟窝类似，故名。旧时冬天穿以保暖，适宜雪地行走。<sup>\[泰州\]</sup>  
 1. 【[毛窝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_u_r.md#毛窝<sub>儿</sub>)】`mo2 u1 r` <sup>[泰县]</sup> 芦柴花和稻草编成的鞋子。  
+1. 【[毛焐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_v_zz.md#毛焐子)】`mo2 v5 zz` <small>/mɔ2 ʋ5 t͡sɿ/<sup>泰兴</sup></small> 带有芦花、棉布条的高帮草鞋。<sup>\[泰兴\]</sup>  
 1. 【[毛兮兮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_xi_xi.md#毛兮兮)】`mo2 xi1 xi1` <sup>[如东]</sup> ① 物体上布满茸毛。 ② 物体表面没有修饰整理光滑：门板上还是～的。  
-1. 【[毛鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_y.md#毛鱼)】`mo2 y2` <small>/mɔ2 y2/<sup>兴化</sup>, /mɔ2 ɻy2/<sup>泰县</sup></small> ① 鳗鱼<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup>\[泰州：河鳗，本地特产，尖，口大而宽，身体长形，前部较圆，后部侧扁，上部灰黑，下部白色，表面多有黏液，生活在淡水中，成熟后到海洋中产卵，肉味鲜美。\] ② 油滑的人。<sup>\[泰县\]</sup>  
+1. 【[毛雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_y.md#毛雨)】`mo2 y` <small>/mɔ2 y/<sup>泰兴</sup></small> 细密如毛的雨。<sup>\[泰兴\]</sup>  
+1. 【[毛鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_y.md#毛鱼)】`mo2 y2` <small>/mɔ2 y2/<sup>兴化</sup>, /mɔ2 y2/<sup>泰兴</sup>, /mɔ2 ɻy2/<sup>泰县</sup></small> ① 鳗鱼<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>\[泰州：河鳗，本地特产，尖，口大而宽，身体长形，前部较圆，后部侧扁，上部灰黑，下部白色，表面多有黏液，生活在淡水中，成熟后到海洋中产卵，肉味鲜美。\] ② 油滑的人。<sup>\[泰县\]</sup>  
 1. 【[毛鱼趟子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_y_tan_zz.md#毛鱼趟子)】`mo2 y2 tan5 zz` <sup>[如东]</sup> 捕捉鳗鱼苗的工具。塑料网纱制成，口大，尾尖，似袋。作业时，用绳索成排地固定在海水里，利用潮流捕捉鳗鱼苗。  
 1. 【[毛鱼洞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_y_ton.md#毛鱼洞)】`mo2 y2 ton6` <sup>[泰县]</sup> 藏东西的地方。  
 1. 【[毛羽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_y.md#毛羽)】`mo2 y3` <sup>[如东]</sup> 禽鸟身上长出来的羽毛。  
 1. 【[毛羽朆干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_y_chen_gun.md#毛羽朆干)】`mo2 y3 chen2 gun1` <sup>[如东]</sup> 小鸟刚出壳，羽毛未干，不能飞翔。比喻人的年龄尚小，能力不强，还不能办事：你的～哎。  
+1. 【[毛雨澎澎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_y_pon_pon.md#毛雨澎澎)】`mo2 y3 pon1 pon1` <small>/mɔ2 y3 pʰɔŋ1 pʰɔŋ1/<sup>泰兴</sup></small> 下小雨。<sup>\[泰兴\]</sup>  
 1. 【[毛雨<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_y_r.md#毛雨<sub>儿</sub>)】`mo2 y3 r` <sup>[泰县]</sup> 小雨。  
+1. 【[毛雨刷刷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_y_shuaeh_shuaeh.md#毛雨刷刷)】`mo2 y3 shuaeh7 shuaeh7` <small>/mɔ2 y3 ɕyæʔ7 ɕyæʔ7/<sup>泰兴</sup></small> 绵延不断的毛毛雨。<sup>\[泰兴\]</sup>：外头～的，要带得把伞。<sup>\[泰兴\]</sup>  
 1. 【[毛雨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_y_zz.md#毛雨子)】`mo2 y3 zz` <sup>[兴化]</sup> 蒙蒙细雨。  
-1. 【[毛芋头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_y_teu.md#毛芋头)】`mo2 y6 teu` <sup>[如东]</sup> 天南星科植物芋，又名芋头或芋艿。  
+1. 【[毛芋头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_y_teu.md#毛芋头)】`mo2 y6 teu` <small>/mɔ2 y1 tʰəɪ/<sup>泰兴</sup></small> ① 天南星科植物芋，又名芋头或芋艿。<sup>\[如东\]</sup> ② 未去皮的芋头。<sup>\[泰兴\]</sup>  
 1. 【[毛竹鼻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_zhoh_pieh.md#毛竹鼻)】`mo2 zhoh7 pieh8` <sup>[如皋]</sup> 连接且固定木板的两头尖的毛竹钉。  
 1. 【[毛猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_zhv.md#毛猪)】`mo2 zhv1` <sup>[如东]</sup> 生猪：～重250斤。  
-1. 【[毛躁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_zo.md#毛躁)】`mo2 zo5` <sup>[兴化]</sup> 脾气急躁：不是我～，他的做法太气人。  
+1. 【[毛躁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_zo.md#毛躁)】`mo2 zo5` <small>/mɔ2 t͡sɔ5/<sup>兴化</sup>, /mɔ2 t͡sɔ5/<sup>泰兴</sup></small> ① 脾气急躁<sup>\[兴化\]</sup>：不是我～，他的做法太气人。<sup>\[兴化\]</sup> ② 性情急躁，不沉着，不细心。<sup>\[泰兴\]</sup>：箇个伢儿办事～得很。<sup>\[泰兴\]</sup>  
 1. 【[猫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo.md#猫)】`mo2` <sup>[如东]</sup> 猫科动物猫。  
 1. 【[猫耳刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_er_do.md#猫耳刀)】`mo2 er3 do1` <sup>[泰州]</sup> ① 一种野菜名称，叶片形状类似猫耳。 ② 一年糕片、虾片等为材料的油炸膨胀食品，形状类似猫耳。  
 1. 【[猫耳朵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_er_du.md#猫耳朵)】`mo2 er3 du` <sup>[兴化]</sup> 一种油炸食品，以其形状得名。  

@@ -716,7 +716,7 @@
 1. 【[够斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_deu.md#够斗)】`geu5 deu5` <sup>[兴化]</sup> 吃不消：这几天忙得～。  
 1. 【[够过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_gu.md#够过)】`geu5 gu5` <small>/kɤ5 ko5/<sup>兴化</sup></small> ① 所有（用）的钱能维持一段时间生计<sup>\[兴化\]</sup>：你俫一餐饭钱把二老～一年苦生活。<sup>\[兴化\]</sup>｜“你家便渐渐～。这边便一日难似一日……”（《岐路灯》七四）<sup>\[兴化\]</sup> ② 现有资产或者收入大致可以满足个人或者家庭生活需求<sup>\[泰州\]</sup>：你的退休工资～唻，没得必要再外去做唻。<sup>\[泰州\]</sup>  
 1. 【[够意思](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_i_sz.md#够意思)】`geu5 i5 sz` <sup>[东台]</sup> 有情有义，出手大方。  
-1. 【[够油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_ieu.md#够油)】`geu5 ieu2` <small>/kɤ5 iɤ2/<sup>兴化</sup>, /kei5 yʊ2/<sup>如皋</sup>, /kɤɯ5 iɤɯ2/<sup>泰县</sup></small> ① 足够<sup>\[如皋\]</sup>：一瓶酒、一只鸡，中午～咾。<sup>\[如皋\]</sup> ② 满足<sup>\[兴化\]</sup>：再给你一万块，～啊吧！<sup>\[兴化\]</sup> ③ 满足<sup>\[泰县\]</sup>：今朝你酒哿曾喝得～？<sup>\[泰县\]</sup>  
+1. 【[够油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_ieu.md#够油)】`geu5 ieu2` <small>/kɤ5 iɤ2/<sup>兴化</sup>, /kei5 yʊ2/<sup>如皋</sup>, /kɤɯ5 iɤɯ2/<sup>泰县</sup></small> ① 足够<sup>\[如皋\]</sup>：一瓶酒、一只鸡，中午～咾。<sup>\[如皋\]</sup> ② 满足<sup>\[兴化\]</sup><sup>\[泰县\]</sup>：再给你一万块，～啊吧！<sup>\[兴化\]</sup>｜今朝你酒哿曾喝得～？<sup>\[泰县\]</sup>  
 1. 【[够交情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_jio_qien.md#够交情)】`geu5 jio1 qien` <sup>[东台]</sup> 指交情很深，够朋友。  
 1. 【[够求](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_qieu.md#够求)】`geu5 qieu2` <sup>[泰县]</sup> 巴结：我不～你。  
 1. 【[够人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_ren.md#够人)】`geu5 ren2` <sup>[东台]</sup> 长时间做某事很累。  
@@ -873,7 +873,7 @@
 1. 【[窖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_zz.md#窖子)】`go5 zz` <sup>[兴化]</sup> 收藏东西的地洞或坑：地～；粮食～。  
 1. 【[膏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go.md#膏)】`go5` <sup>[泰州]</sup> ① 给机器上油使之润滑：这把锁锈啊唻，～点ㄦ油就好开唻。 ② 给油灯注油，使灯芯燃烧发光：汽油灯要～点ㄦ油。  
 1. 【[膏车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_cha.md#膏车)】`go5 cha1` <sup>[如东]</sup> 给牛车轴承掭油，使之润滑。  
-1. 【[膏油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_ieu.md#膏油)】`go5 ieu2` <small>/kɔ5 yʊ2/<sup>如皋</sup></small> ① 给油灯加油。<sup>\[如东\]</sup> ② 注润滑油。<sup>\[如皋\]</sup> ③ 加注油脂使其润滑<sup>\[东台\]</sup>：给脚踏车～。（《广韵》古到切，膏，膏车。《集韵》“膏，润也。”）<sup>\[东台\]</sup>  
+1. 【[膏油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_ieu.md#膏油)】`go5 ieu2` <small>/kɔ5 yʊ2/<sup>如皋</sup></small> 添油（给油灯添油、给器件添润滑油等等——<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup>：给脚踏车～<sup>\[东台\]</sup>  
 1. 【[膏雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_xiuh.md#膏雪)】`go5 xiuh7` <sup>[如皋]</sup> 下大雪。  
 1. 【[觉睡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_shuei.md#觉睡)】`go5 shuei` <sup>[如皋]</sup> 睡眠的深度和长度或欲望：年轻人足，能睡。老年人～少，只要睏四个钟头。  
 1. 【[觉睡头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_shuei_teu.md#觉睡头)】`go5 shuei teu` <sup>[如皋]</sup> 见“觉睡”。  

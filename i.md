@@ -1408,7 +1408,7 @@
 1. 【[油抽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_cheu_zz.md#油抽子)】`ieu2 cheu1 zz` <sup>[如皋]</sup> 手拉式抽油器一根铁管，中有活塞，侧有出油嘴。  
 1. 【[油槽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_co.md#油槽)】`ieu2 co2` <sup>[如东]</sup> 油榨下面的槽沟，榨出的油由此流出。  
 1. 【[油粢/油糍/油餈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_cz.md#油粢/油糍/油餈)】`ieu2 cz2` 一种食品，加水搅糯米粉为厚糊状，用勺舀一小团置于锅中自然成一饼，用油煎熟即成。<sup>\[泰州\]</sup>  
-1. 【[油糍<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_cz_r.md#油糍<sub>儿</sub>)】`ieu2 cz2 r` <small>/iɤ2 t͡sʰɿ2 ɚ/<sup>兴化</sup>, /iɤɯ2 t͡sʰɿ2 ɚ/<sup>泰县</sup></small> ① 用油煎的糯米饼。<sup>\[如东\]</sup> ② 油炸的糯米粉饼子。<sup>\[兴化\]</sup> ③ 用油煎过的糯米饼。<sup>\[泰县\]</sup>  
+1. 【[油糍<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_cz_r.md#油糍<sub>儿</sub>)】`ieu2 cz2 r` <small>/iɤ2 t͡sʰɿ2 ɚ/<sup>兴化</sup>, /iɤɯ2 t͡sʰɿ2 ɚ/<sup>泰县</sup></small> 用油煎的糯米饼。<sup>\[如东\]</sup><sup>\[泰县\]</sup>\[兴化：油炸的糯米粉饼子。\]  
 1. 【[油墩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_den_zz.md#油墩子)】`ieu2 den1 zz` <small>/iɤ2 tən1 t͡sɿ/<sup>兴化</sup></small> ① 东台传统下午点心，糯米粉兑面粉发酵油炸而成，扁圆形，今已少见。<sup>\[东台\]</sup> ② 油炸小吃，用白铁敲成的浅模，浇入稀面（糊），以萝卜丝等为馅，入油炸熟。<sup>\[兴化\]</sup>  
 1. 【[油端子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_dun_zz.md#油端子)】`ieu2 dun1 zz` <sup>[泰州]</sup> 地方特色小吃之一。制法：面粉调成稀糊，放入白铁制成的长柄椭圆或者圆形容器中，滚动使糊附在容器内壁，加入萝卜丝、盐、葱花、虾皮之类，盖上稀糊，容器浸入滚油煎熟，脱出即可食用。  
 1. 【[油锅里捞钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_gu_lii_lo_qin.md#油锅里捞钱)】`ieu2 gu1 lii lo2 qin2` <sup>[东台]</sup> ［喻］不顾危险捞取钱财。  
@@ -1455,7 +1455,7 @@
 1. 【[油馋果<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_shaen_gu_r.md#油馋果<sub>儿</sub>)】`ieu2 shaen2 gu3 r` <sup>[泰县]</sup> 用油炸制成的一种豆制品。  
 1. 【[油石灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_sheh_huei.md#油石灰)】`ieu2 sheh8 huei1` <small>/iɤ2 səʔ8 xuəi1/<sup>兴化</sup></small> ① 桐油和石灰而成，可用来堵塞玻璃与窗框之间的缝隙。加麻丝后可以嵌塞木船的板缝。<sup>\[兴化\]</sup> ② 一定比例桐油、石灰搅拌而成的泥，用于涂抹器物构体连接处的缝隙。<sup>\[泰州\]</sup>  
 1. 【[油水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_shuei.md#油水)】`ieu2 shuei` <sup>[如东]</sup> 比喻好处：有～。  
-1. 【[油水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_shuei.md#油水)】`ieu2 shuei3` ① 额外收益：<sup>\[泰州\]</sup> ② 烧蔬菜中所含动物或者植物油脂<sup>\[泰州\]</sup>：他这些时肚肚里（dv3 tv lii）没油水<sup>\[泰州\]</sup>  
+1. 【[油水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_shuei.md#油水)】`ieu2 shuei3` ① 额外收益<sup>\[泰州\]</sup> ② 烧蔬菜中所含动物或者植物油脂<sup>\[泰州\]</sup>：他这些时肚肚里（dv3 tv lii）没油水<sup>\[泰州\]</sup>  
 1. 【[油酥饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_sv_bien.md#油酥饼)】`ieu2 sv1 bien3` <small>/iɤ2 su1 piɪ̃3/<sup>兴化</sup>, /yʊ2 su1 piəŋ3/<sup>如皋</sup></small> ① 油焵的多层酥油饼。<sup>\[如皋\]</sup> ② 油炸薄饼，面酵加油酥和葱花、焦盐等，在平底油锅中炸然。<sup>\[兴化\]</sup>  
 1. 【[油搨<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_taeh_r.md#油搨<sub>儿</sub>)】`ieu2 taeh7 r` <sup>[如皋]</sup> ① 旧时妇女搽头油用的圆形绒布。 ② 荇菜。  
 1. 【[油汤油水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_tan_ieu_shuei.md#油汤油水)】`ieu2 tan1 ieu2 shuei3` <sup>[兴化]</sup> 菜肴中含有油脂的汤汁：几个月～把他吃得白白胖胖的。  
@@ -1471,12 +1471,11 @@
 1. 【[油渣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_zha_r.md#油渣<sub>儿</sub>)】`ieu2 zha1 r` <sup>[如皋]</sup> 猪板（网）油熬剩的巴儿。  
 1. 【[油榨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_zha.md#油榨)】`ieu2 zha5` <sup>[如东]</sup> 榨油工具。两根粗木，构成长方形框架，里面放置油箍，通过加刹把油榨出来。  
 1. 【[油纸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_zhr_r.md#油纸<sub>儿</sub>)】`ieu2 zhr3 r` <sup>[东台]</sup> 塑料薄膜的俗称。  
-1. 【[游肠气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_chan_qi.md#游肠气)】`ieu2 chan2 qi5` <small>/yʊ2 t͡sʰã2 t͡ɕʰʝ5/<sup>如皋</sup></small> ① 疝气。<sup>\[如皋\]</sup> ② 疝气。<sup>\[如东\]</sup>  
-1. 【[游草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_co.md#游草)】`ieu2 co3` <small>/yʊ2 t͡sʰɔ3/<sup>如皋</sup></small> ① 犬交尾。<sup>\[如皋\]</sup> ② 狗交配。<sup>\[如东\]</sup>  
+1. 【[游肠气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_chan_qi.md#游肠气)】`ieu2 chan2 qi5` <small>/yʊ2 t͡sʰã2 t͡ɕʰʝ5/<sup>如皋</sup></small> 疝气。<sup>\[如皋\]</sup><sup>\[如东\]</sup>  
+1. 【[游草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_co.md#游草)】`ieu2 co3` <small>/yʊ2 t͡sʰɔ3/<sup>如皋</sup></small> 犬交尾。<sup>\[如皋\]</sup><sup>\[如东\]</sup>  
 1. 【[游草狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_co_geu.md#游草狗)】`ieu2 co3 geu3` <sup>[如东]</sup> ① 发情期的母狗。 ② 比喻生活作风不好的女人。  
-1. 【[游游](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_ieu.md#游游)】`ieu2 ieu` <sup>[如皋]</sup> 唤鸭之声。  
-1. 【[游游](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_ieu.md#游游)】`ieu2 ieu2` <sup>[如东]</sup> 呼唤鸭子的声音。  
-1. 【[游扣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_keu.md#游扣)】`ieu2 keu1` <sup>[如皋]</sup> ① 指打结不紧，容易松开、滑动。 ② 喻不坚决，犹豫，摸棱两可：他说话带～，不可全信他。  
+1. 【[游游](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_ieu.md#游游)】`ieu2 ieu2` <small>/yʊ2 yʊ2/<sup>如皋</sup></small> 唤鸭之声。<sup>\[如皋\]</sup><sup>\[如东\]</sup>  
+1. 【[游扣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_keu.md#游扣)】`ieu2 keu1` <sup>[如皋]</sup> ① 指打结不紧，容易松开、滑动。 ② 喻不坚决，犹豫，模棱两可：他说话带～，不可全信他。  
 1. 【[游闷闷<sub>儿</sub>水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_men_men_r_shuei.md#游闷闷<sub>儿</sub>水)】`ieu2 men6 men6 r shuei3` <sup>[如皋]</sup> 初学者头没于水中，一口气游，直至抬头换气。  
 1. 【[游气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_qi.md#游气)】`ieu2 qi5` <small>/iɤ2 t͡ɕʰi5/<sup>兴化</sup></small> ① 人死之前微弱的气息。<sup>\[东台\]</sup> ② 微弱的气息<sup>\[兴化\]</sup>：黄老头还有一口～，眼看就不行吖。<sup>\[兴化\]</sup>｜李逵看任原时，跌得昏晕，倒在献台边，口里只有些～。（《水浒传》七四）‖也作“悠气”<sup>\[兴化\]</sup>｜汪曾祺《大淖记事》有“十一子还有一丝悠悠气”句。<sup>\[兴化\]</sup> ③ 弥留之人口鼻中发出的极微弱的气息<sup>\[泰州\]</sup>：老的嘴上只剩吖点儿～，人怕的不行唻。<sup>\[泰州\]</sup>  
 1. 【[游青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_qien.md#游青)】`ieu2 qien1` <sup>[如东]</sup> 植物生长期限满了，由于温度和湿度的变化，在根部或茎部又生出新芽，叫游青。  
