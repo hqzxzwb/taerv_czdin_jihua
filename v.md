@@ -723,8 +723,8 @@
 1. 【[黄猫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_mo_r.md#黄猫<sub>儿</sub>)】`van2 mo2 r` <small>/ʋã2 mɔ˞2/<sup>如皋</sup></small> ① 黄鼠狼。<sup>\[如皋\]</sup><sup>\[东台\]</sup> ② 条形无馅馒头。<sup>\[如皋\]</sup>  
 1. 【[黄猫<sub>儿</sub>给鸡拜年——没安好心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_mo_r_gei.md#黄猫<sub>儿</sub>给鸡拜年——没安好心)】`van2 mo2 r gei5 ji1 bae5 nin2 meh8 un1 ho3 xien1` <sup>[东台]</sup>   
 1. 【[黄猫<sub>儿</sub>𠞖吖鸡窠里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_mo_r_gon_nga_ji_ku_lii.md#黄猫<sub>儿</sub>𠞖吖鸡窠里)】`van2 mo2 r gon1 nga ji1 ku1 lii` <sup>[如皋]</sup> 喻害群之马。使大家不得安宁，且带来祸害。  
-1. 【[黄猫<sub>儿</sub>看鸡——越看越稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_mo_r_kun.md#黄猫<sub>儿</sub>看鸡——越看越稀)】`van2 mo2 r kun1 ji1 iuh8 kun1 iuh8 xi1` <sup>[东台]</sup>   
 1. 【[黄猫<sub>儿</sub>看鸡，越看越稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_mo_r_kun_ji_iuh_kun_iuh_xi.md#黄猫<sub>儿</sub>看鸡，越看越稀)】`van2 mo2 r kun1 ji1 iuh8 kun1 iuh8 xi1` <sup>[如皋]</sup> 吃得差不多了。  
+1. 【[黄猫<sub>儿</sub>看鸡——越看越稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_mo_r_kun.md#黄猫<sub>儿</sub>看鸡——越看越稀)】`van2 mo2 r kun1 ji1 iuh8 kun1 iuh8 xi1` <sup>[东台]</sup>   
 1. 【[黄猫<sub>儿</sub>嗍咖血的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_mo_r_shuah.md#黄猫<sub>儿</sub>嗍咖血的)】`van2 mo2 r shuah7 ga xiuh7 dii` <sup>[如皋]</sup> 詈语。脸色焦黄或灰白，无血色的样子。  
 1. 【[黄猫<sub>儿</sub>专拣病鸡咬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_mo_r_zhun.md#黄猫<sub>儿</sub>专拣病鸡咬)】`van2 mo2 r zhun1 gaen3 pien6 ji1 ngo3` <sup>[东台]</sup> 喻指自身有弱点，敌人会乘虚而入。  
 1. 【[黄䱀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ngan.md#黄䱀)】`van2 ngan1` <sup>[如皋]</sup> 黄颡。  
@@ -770,7 +770,7 @@
 1. 【[旺地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ti.md#旺地)】`van5 ti6` <sup>[如皋]</sup> 兴旺、发财之地。  
 1. 【[晃亮的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_lian_dii.md#晃亮的)】`van5 lian6 dii` <sup>[如皋]</sup> 一片光亮。俗说：瞎子磨刀——～。  
 1. 【[晃麻油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ma_ieu.md#晃麻油)】`van5 ma2 ieu2` <sup>[如皋]</sup> 制麻油的一道工序，将芝麻炒熟、磨碎、拌水，用子在缸中上下晃动，使芝麻屑渗出麻油来。  
-1. 【[枉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van.md#枉)】`van5` <small>/uaŋ5/<sup>兴化</sup>, /ʋã5/<sup>如皋</sup></small> ① 松垂貌：绳儿～下来啊，你去紧下子。<sup>\[如皋\]</sup> ② 绷直或扎牢的绳索之类的东西时间长了拉长弯曲或松散开来<sup>\[东台\]</sup>：这根电线～下来啊，要赶快绷紧。<sup>\[东台\]</sup> ③ 下垂、弯曲<sup>\[兴化\]</sup>：㫰衣裳的绳子～下来啊。<sup>\[兴化\]</sup>｜雨棚上负荷太大，～下来啊。<sup>\[兴化\]</sup> ④ 原本拉直的绳索、铁丝等中间部分弯曲下垂<sup>\[泰州\]</sup>：衣裳㫰得太多，铅丝都弄吖～下来啊。<sup>\[泰州\]</sup> ⑤ 捆绑物体的绳索松动下垂<sup>\[泰州\]</sup>：你绑得不紧，绳子～吖，车子一颠就𠫓咖来唻。<sup>\[泰州\]</sup>  
+1. 【[枉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van.md#枉)】`van5` <small>/uaŋ5/<sup>兴化</sup>, /ʋã5/<sup>如皋</sup></small> ① 松垂貌<sup>\[如皋\]</sup>：绳儿～下来啊，你去紧下子。<sup>\[如皋\]</sup> ② 绷直或扎牢的绳索之类的东西时间长了拉长弯曲或松散开来<sup>\[东台\]</sup>：这根电线～下来啊，要赶快绷紧。<sup>\[东台\]</sup> ③ 下垂、弯曲<sup>\[兴化\]</sup>：㫰衣裳的绳子～下来啊。<sup>\[兴化\]</sup>｜雨棚上负荷太大，～下来啊。<sup>\[兴化\]</sup> ④ 原本拉直的绳索、铁丝等中间部分弯曲下垂<sup>\[泰州\]</sup>：衣裳㫰得太多，铅丝都弄吖～下来啊。<sup>\[泰州\]</sup> ⑤ 捆绑物体的绳索松动下垂<sup>\[泰州\]</sup>：你绑得不紧，绳子～吖，车子一颠就𠫓咖来唻。<sup>\[泰州\]</sup>  
 1. 【[枉而无功](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_er_v_gon.md#枉而无功)】`van5 er2 v2 gon1` <sup>[兴化]</sup> 徒劳无益：锻炼身体贵在坚持，如果三天打鱼，两天晒网，那是～的。  
 1. 【[汪水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_shuei.md#汪水)】`van5 shuei3` <sup>[如皋]</sup> 表面积水：荷叶上汪吖个大水珠儿：帐篷顶上～。“汪”表音。  
 1. 【[妄言巧舌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_in_qio_shih.md#妄言巧舌)】`van6 in2 qio3 shih8` <small>/uaŋ6 iɪ̃2 t͡ɕʰiɔ3 siɪʔ8/<sup>兴化</sup></small> ① 花言巧语。<sup>\[东台\]</sup> ② 花言巧语<sup>\[兴化\]</sup>：这个人惯会～的，听他的话要打折。<sup>\[兴化\]</sup>  

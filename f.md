@@ -985,7 +985,7 @@
 1. 【[腐烂的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_laen_dii.md#腐烂的)】`fv6 laen6 dii` <sup>[东台]</sup> 形容很烂的样子。  
 1. 【[负啊命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_a_mien.md#负啊命)】`fv6 a mien6` <sup>[如皋]</sup> 拼命地：他捱松吖绑就～的遛。  
 1. 【[负担](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_daen.md#负担)】`fv6 daen1` <sup>[如东]</sup> 负责承担的义务：老人生活由我来～。  
-1. 【[负过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_gu.md#负过)】`fv6 gu` <sup>[泰县]</sup> 拼命：你倒～唻？这吖晚还去看电影。  
+1. 【[负过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_gu.md#负过)】`fv6 gu1` <sup>[泰县]</sup> 拼命：你倒～唻？这吖晚还去看电影。  
 1. 【[负过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_gu.md#负过)】`fv6 gu1` <sup>[泰州]</sup> （清代白话小说作“负辜”）迫不及待、不顾一切的态度：你打啊老太太家的宝贝孙子，她怎吖得不～㖸，要是不同你拼命才怪唻。｜你只要扣到他的奖金就负啊过唻，他甚的话都骂得出来。  
 1. 【[负气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_qi.md#负气)】`fv6 qi5` <sup>[泰州]</sup> ① （泰州负作上声） ② 带着气恼做某事：妈妈说咖她两句，她～走啊唻。  
 1. 【[负心负意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_xien_fv_i.md#负心负意)】`fv6 xien1 fv6 i5` <sup>[泰州]</sup> 带着对某人的情意竭尽全力做某事：他为你的事早饭都不曾吃，真正是～。  

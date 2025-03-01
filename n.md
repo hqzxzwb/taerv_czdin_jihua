@@ -921,7 +921,7 @@
 1. 【[牛把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_ba.md#牛把)】`ngeu2 ba3` <sup>[泰县]</sup> 呆子。  
 1. 【[牛蒡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_ban_zz.md#牛蒡子)】`ngeu2 ban5 zz` <sup>[如东]</sup> 菊科植物牛蒡，二年生草本。高约1米。上部多分枝。根生叶丛生茎生叶互生；叶大，有长叶柄，表面有纵裂；叶片广卵形，边缘稍带波状或呈齿牙状。头状花序丛生，着生于枝端排列成伞房状。花冠筒状。瘦果略弯曲，灰褐色。  
 1. 【[牛背雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_bei_y.md#牛背雨)】`ngeu2 bei5 y3` <small>/ŋəɪ2 pəɪ5 y3/<sup>泰兴</sup></small> 夏日范围极小的骤雨。一边晴，一边雨，几可在牛背上分界，故名。<sup>\[泰兴\]</sup>：古语：“六月天分～”。乡人云：“暴雨分牛脊，乌鸦湿半边。”<sup>\[泰兴\]</sup>  
-1. 【[牛屄筒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_bi_ton_zz.md#牛屄筒子)】`ngeu2 bi1 ton3 zz` <sup>[如皋]</sup> 喻说大话没遮拦的一种人。  
+1. 【[牛屄筒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_bi_ton_zz.md#牛屄筒子)】`ngeu2 bi1 ton3 zz` <small>/liɤ2 pi tʰoŋ3 t͡sɿ/<sup>兴化</sup>, /ŋei2 pʝ1 tʰɔŋ3 t͡sɿ/<sup>如皋</sup>, /nəɪ2 pʝ1 tʰɔŋ3 t͡sɿ/<sup>泰兴</sup></small> 惯会吹牛的人。<sup>\[泰兴\]</sup>\[兴化：也称“牛皮大王”。\]\[如皋：喻说大话没遮拦的一种人。\]  
 1. 【[牛槟榔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_bien_lan.md#牛槟榔)】`ngeu2 bien1 lan2` <sup>[如皋]</sup> 见“牛鼻桊儿”。  
 1. 【[牛鞭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_bin.md#牛鞭)】`ngeu2 bin1` <small>/ɤ2 piɪ̃1/<sup>兴化</sup>, /ŋei2 pĩ1/<sup>如皋</sup>, /ŋəɪ2 pĩ1/<sup>泰兴</sup></small> 公牛生殖器。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>\[兴化：可以做菜肴或滋补品的牛阴茎。\]  
 1. 【[牛包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_bo.md#牛包)】`ngeu2 bo1` <sup>[兴化]</sup> 卖牛的钱：到集上拿～。｜家住三郎庙，上街交～。（兴文《民谣》）  
@@ -976,7 +976,6 @@
 1. 【[牛磨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_mu.md#牛磨)】`ngeu2 mu6` <sup>[如皋]</sup> 畜力牵动的大石磨。  
 1. 【[牛轭头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_ngeh_teu.md#牛轭头)】`ngeu2 ngeh7 teu` <sup>[兴化]</sup> 牛拉犁时架在肩头上的轭具。  
 1. 【[牛屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_oh.md#牛屋)】`ngeu2 oh7` <sup>[兴化]</sup> 供牛栖息的棚舍。也称“牛棚”。  
-1. 【[牛皮筒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_pi_ton_zz.md#牛皮筒子)】`ngeu2 pi ton3 zz` <small>/ɤ2 pʰi tʰoŋ3 t͡sɿ/<sup>兴化</sup>, /ŋəɪ2 pʰʝ tʰɔŋ3 t͡sɿ/<sup>泰兴</sup></small> 惯会吹牛的人。<sup>\[泰兴\]</sup>\[兴化：也称“牛皮大王”。\]  
 1. 【[牛皮不是吹的，火车不是推的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_pi_beh_shr_chuei_dii_hu_cha_beh_shr_ty_dii.md#牛皮不是吹的，火车不是推的)】`ngeu2 pi2 beh7 shr6 chuei1 dii hu3 cha1 beh7 shr6 ty1 dii` <sup>[东台]</sup> 只有真本事、真功夫才靠得住。  
 1. 【[牛皮灯笼——照里不照外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_pi_den_lon_zho_li_beh_zho_vae.md#牛皮灯笼——照里不照外)】`ngeu2 pi2 den1 lon zho5 li3 beh7 zho5 vae6` <sup>[东台]</sup>   
 1. 【[牛皮糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_pi_tan.md#牛皮糖)】`ngeu2 pi2 tan2` <sup>[如皋]</sup> 一种很韧的软糖，以石花菜和蔗糖为主要原料。  

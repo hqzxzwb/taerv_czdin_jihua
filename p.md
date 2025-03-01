@@ -819,7 +819,6 @@
 1. 【[炮仗打啊嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_zhan_da_a_jy.md#炮仗打啊嘴)】`po5 zhan5 da3 a jy3` <sup>[东台]</sup> ［喻］口出狂言，夸张离谱。  
 1. 【[炮仗捻子——一点就着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_zhan_nin_zz_ieh_din_qieu_chah.md#炮仗捻子——一点就着)】`po5 zhan5 nin3 zz ieh7 din3 qieu6 chah8` <sup>[东台]</sup>   
 1. 【[炮子<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_zz_r.md#炮子<sub>儿</sub>)】`po5 zz3 r` <sup>[兴化]</sup> ① 老式火炮的弹丸，如碎石、碎铁等。 ② 骂人遭炮轰：这个～，不得好死！  
-1. 【[䤖腌咸菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_in_haen_cae.md#䤖腌咸菜)】`po6 in1 haen2 cae5` <sup>[泰州]</sup> 一种腌制小菜，将青菜的披叶（青菜外圈的叶）用刀切碎，用盐揉匀，待其出卤以后，用手挤干盐卤，放置容器之中，一宿以后即可食用，可加麻油、酱油、辣椒拌后生食，亦可炒食。“以其醃制时间约在一宿”而名：择咖来的青菜披叶不要撂掉，留啊～。  
 1. 【[刨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po.md#刨)】`po6` <small>/pʰɔ6/<sup>兴化</sup></small> 刨削水果或冬瓜等的皮<sup>\[兴化\]</sup>：～梨子。<sup>\[兴化\]</sup>  
 1. 【[刨床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_chuan.md#刨床)】`po6 chuan2` <sup>[如东]</sup> 车床的一种。有各种规格。用于加工金属材料的平面和直线。  
 1. 【[刨刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_do.md#刨刀)】`po6 do1` <sup>[如东]</sup> 创床上用来加工金属材料的刀具。  
@@ -857,6 +856,7 @@
 1. 【[抱小腰<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_xio_io_r.md#抱小腰<sub>儿</sub>)】`po6 xio3 io1 r` <sup>[如皋]</sup> 从背后抱住下腰部。比喻支持者、拥护者、保护者。  
 1. 【[抱整](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_zhen.md#抱整)】`po6 zhen3` <sup>[兴化]</sup> 固执已见，认死理：他这个人就是～，不肯听人劝。也说“抱死理”。  
 1. 【[抱奘腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_zhuan_ty.md#抱奘腿)】`po6 zhuan3 ty3` <sup>[东台]</sup> ［喻］找靠山，拍马屁。  
+1. 【[暴腌咸菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_in_haen_cae.md#暴腌咸菜)】`po6 in1 haen2 cae5` <sup>[泰州]</sup> 一种腌制小菜，将青菜的披叶（青菜外圈的叶）用刀切碎，用盐揉匀，待其出卤以后，用手挤干盐卤，放置容器之中，一宿以后即可食用，可加麻油、酱油、辣椒拌后生食，亦可炒食。“以其醃制时间约在一宿”而名：择咖来的青菜披叶不要撂掉，留啊～。  
 1. 【[暴暴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_po_dii.md#暴暴的)】`po6 po6 dii` <sup>[如皋]</sup> 忽然地：他～一走，我觉察𨃯啊一大空｜人～来啊，家里一点儿菜总没得，要赶紧准备。  
 1. 【[爆灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_huei.md#爆灰)】`po6 huei1` <sup>[兴化]</sup> 草灰：谚曰：～也有发热之时。  
 1. 【[啪录啪录](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_loh_poh_loh.md#啪录啪录)】`poh7 loh poh7 loh` <sup>[如皋]</sup> 状说话快而连续不止，像放连珠炮。  

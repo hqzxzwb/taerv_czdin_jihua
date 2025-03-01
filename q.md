@@ -1024,7 +1024,6 @@
 1. 【[青枣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_zo_r.md#青枣<sub>儿</sub>)】`qien1 zo3 r` <sup>[如皋]</sup> 本地产的枣子，作水果吃。  
 1. 【[青紫贡吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_zz_gon_nga.md#青紫贡吖)】`qien1 zz3 gon5 nga` <sup>[如皋]</sup> 皮肤内现出淤血痕并肿起。贡，借指肿胀发炎。  
 1. 【[顉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien.md#顉)】`qien1` <small>/t͡ɕʰiəŋ1/<sup>如皋</sup></small> ① （【廣韻】去金切【集韻】【韻會】祛音切【正韻】驅音切，音欽。【廣韻】曲頤之貌。【前漢·揚雄傳】顉頤折頞。） ② 微微抖动<sup>\[如皋\]</sup>：头～吖～的。<sup>\[如皋\]</sup>  
-1. 【[□凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_den.md#□凳)】`qien2 den5` <sup>[泰县]</sup> 大凳。  
 1. 【[□脚泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_jiah_ni.md#□脚泥)】`qien2 jiah ni2` <sup>[如皋]</sup> 黏土。  
 1. 【[□泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ni.md#□泥)】`qien2 ni2` <sup>[如皋]</sup> 黏土。如皋词典写“缠泥”。  
 1. 【[勤而不俭，枉劳其功：俭而不勤，甘受其苦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_er_beh_jin_van_lo_qi_gon_jin_er_beh_qien_gun_sheu_qi_kv.md#勤而不俭，枉劳其功：俭而不勤，甘受其苦)】`qien2 er2 beh7 jin3 van3 lo2 qi2 gon1 jin3 er2 beh7 qien2 gun1 sheu6 qi2 kv3` <sup>[东台]</sup> 生财、聚财，缺一不可。  
@@ -1069,8 +1068,9 @@
 1. 【[情商议](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_shan_i.md#情商议)】`qien2 shan1 i` <sup>[兴化]</sup> 协商、恳求：跟你～，所欠款子，展期十天一定还清。  
 1. 【[情势不对](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_shr_beh_duei.md#情势不对)】`qien2 shr5 beh7 duei5` <sup>[如皋]</sup> 情形不对。  
 1. 【[晴带雨伞饱带粮——留一手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_dae_y_saen_bo_dae_lian_lieu_ieh_sheu.md#晴带雨伞饱带粮——留一手)】`qien2 dae5 y3 saen3 bo3 dae5 lian2 lieu2 ieh7 sheu3` <sup>[东台]</sup>   
-1. 【[桯凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_den.md#桯凳)】`qien2 den5` 一种条形大凳，整体坚实富足，两头凳面下有蝶形饰板。桯，【唐韻】戸經切【集韻】乎經切，牀前几。<sup>\[泰州\]</sup>  
-1. 【[琴凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_den.md#琴凳)】`qien2 den5` <small>/t͡ɕʰin2 tən5/<sup>兴化</sup></small> ① 一种特殊加工的长凳，凳面四周用实木，中间用板，比板凳厚重，且长而宽。<sup>\[东台\]</sup> ② 一种质地较好并嵌有花板的长凳。<sup>\[兴化\]</sup>  
+1. 【[桯凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_den.md#桯凳)】`qien2 den5` <sup>[泰县]</sup> 大凳。  
+1. 【[桯凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_den.md#桯凳)】`qien2 den5` <small>/t͡ɕʰin2 tən5/<sup>兴化</sup></small> ① 一种特殊加工的长凳，凳面四周用实木，中间用板，比板凳厚重，且长而宽。<sup>\[东台\]</sup> ② 一种质地较好并嵌有花板的长凳。<sup>\[兴化\]</sup>  
+1. 【[桯凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_den.md#桯凳)】`qien2 den5` 一种条形大凳，整体坚实富足，两头凳面下有蝶形饰板。<sup>\[泰州\]</sup>  
 1. 【[秦泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ni.md#秦泥)】`qien2 ni2` <sup>[如东]</sup> 黏性土质：这许都是～土。  
 1. 【[秦泥路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ni_lv.md#秦泥路)】`qien2 ni2 lv6` <sup>[如东]</sup> 路面由粘质土壤铺成的路，称秦泥路。透水性差，雨后泥泞难行。  
 1. 【[芹菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_cae.md#芹菜)】`qien2 cae5` ① 伞科植物旱芹，又名蒲芹，一年或二年生草本。<sup>\[如东\]</sup> ② 一种蔬菜，叶羽状，叶柄肥大，茎叶均可食用，对预防高血压、动脉硬化等十分有益，又叫“药芹”“秋壅菜”。<sup>\[东台\]</sup> ③ 又名“水芹菜”，多年水生宿根草本植物，茎干似竹有节中空，茎为冬季蔬菜。泰州民俗，农历腊月二十四送灶晚上煮糯米饭，吃芹菜豆腐汤，取其谐音“勤劳兜富”。<sup>\[泰州\]</sup>  
@@ -1597,9 +1597,9 @@
 1. 【[穷混](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_huen.md#穷混)】`qion2 huen5` 在困窘中无所作为，消磨日子<sup>\[泰州\]</sup>：她下啊岗以后，在人家小饭店里打工，择菜，洗盘子，能拿几个钱，还不是～。<sup>\[泰州\]</sup>  
 1. 【[穷混](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_huen.md#穷混)】`qion2 huen6` <sup>[兴化]</sup> ① 在困境中消磨时光：你年纪轻轻的，总不能一世～！ ② 自嘲或自谦：我也谈不上得意，不过是～罢啊。  
 1. 【[穷欢妗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_hun_xin.md#穷欢妗)】`qion2 hun1 xin1` <sup>[兴化]</sup> 在困境中仍然寻欢作乐。  
-1. 【[穷急妋过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_jieh_fv_gu.md#穷急妋过)】`qion2 jieh7 fv1 gu1` <sup>[泰州]</sup> 因为贫穷而对某些可以获取利益的事表现出的迫不急待、不顾一切态度：你慢吖点儿吃，不得人同你抢，～的样子，怎吖好啊。｜听说单位分东西，这小伙～的，一大老早就来啊。  
+1. 【[穷急负过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_jieh_fv_gu.md#穷急负过)】`qion2 jieh7 fv6 gu1` <sup>[泰州]</sup> 因为贫穷而对某些可以获取利益的事表现出的迫不急待、不顾一切态度：你慢吖点儿吃，不得人同你抢，～的样子，怎吖好啊。｜听说单位分东西，这小伙～的，一大老早就来啊。  
+1. 【[穷急负过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_jieh_fv_gu.md#穷急负过)】`qion2 jieh7 fv6 gu1-fv1` <sup>[东台]</sup> 穷困潦倒，急于吃喝或捞钱。泛指过急，以至行为莽撞的样子。也作“穷急吼吼”。  
 1. 【[穷急吼吼的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_jieh_heu_heu_dii.md#穷急吼吼的)】`qion2 jieh7 heu3 heu3 dii` <sup>[如皋]</sup> 吃相粗鄙。  
-1. 【[穷急呼呼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_jieh_hv_hv.md#穷急呼呼)】`qion2 jieh7 hv1 hv1` <sup>[东台]</sup> 穷困潦倒，急于吃喝或捞钱。泛指过急，以至行为莽撞的样子。也作“穷急吼吼”。  
 1. 【[穷嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_jy.md#穷嘴)】`qion2 jy3` <small>/t͡ɕʰiɔŋ2 t͡ɕy3/<sup>如皋</sup>, /t͡ɕʰioŋ2 t͡ɕy3/<sup>泰县</sup></small> ① 唠叨不停。<sup>\[如皋\]</sup> ② 啰唆嘴。<sup>\[如皋\]</sup> ③ 嘴巴啰唆，唠叨。<sup>\[如皋\]</sup> ④ 啰唆：不要一天到晚～说个不停。<sup>\[泰县\]</sup> ⑤ 不停地说<sup>\[泰州\]</sup>：他到哪块都是～，听吖他一个人说。<sup>\[泰州\]</sup>  
 1. 【[穷嘴擸㒎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_jy_laeh_saeh.md#穷嘴擸㒎)】`qion2 jy3 laeh8 saeh` <sup>[泰州]</sup> 骂人放肆地絮絮叨叨说个不停：你这马马儿也是的，他倒已经不开口唻，你说两句就拉倒唻，侭吖在这块～的，烦煞咖。  
 1. 【[穷开心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_kae_xien.md#穷开心)】`qion2 kae1 xien1` <small>/t͡ɕʰioŋ2 kʰɛ1 ɕin1/<sup>兴化</sup></small> ① 苦中作乐<sup>\[兴化\]</sup>：那年头，肚子吃不饱，还要唱歌跳舞，真是～。<sup>\[兴化\]</sup> ② 拿穷人开心<sup>\[兴化\]</sup>：“小姐可不要拿我们这样的人～”。（毕飞宇《上海往事》）<sup>\[兴化\]</sup> ③ 身处困境仍然苦中取乐<sup>\[泰州\]</sup>：下个月工资都拿不到唻，你还有心肠～。<sup>\[泰州\]</sup>  
