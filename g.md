@@ -1110,7 +1110,6 @@
 1. 【[个着<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_zhah_r.md#个着<sub>儿</sub>)】`gu5 zhah7 r` <sup>[如皋]</sup> 人的身材，身高和壮瘦。  
 1. 【[个壮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_zhuan.md#个壮)】`gu5 zhuan5` <sup>[东台]</sup> 人的个子或物体的体量。  
 1. 【[个子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_zz.md#个子)】`gu5 zz` <sup>[泰兴]</sup> 人的身材高矮。  
-1. 【[哿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu.md#哿)】`gu5` <small>/ko5/<sup>兴化</sup>, /kʊ3/<sup>如皋</sup>, /kɤɯ5/<sup>泰兴</sup>, /ko5/<sup>泰县</sup></small> 口语中，反复问句中的副词。是江淮语式。相当于古汉语中“可”：～去？/去不去？｜～拿？/拿不拿？｜～是的？｜～好？｜～错？｜你～懂？｜你～去看戏？｜明天开会你～能参加？  
 1. 【[哿曾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_cen.md#哿曾)】`gu5 cen2` <sup>[东台]</sup> 有没有进行：你～吃？  
 1. 【[哿谈到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_taen_do.md#哿谈到)】`gu5 taen2 do5` <sup>[东台]</sup> （口头禅）意思是完全正确，还有什么疑问吗：甲说某人字写得好，乙说～，人家是著名书法家。  
 1. 【[哿凶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_xion.md#哿凶)】`gu5 xion1` <sup>[东台]</sup> 意思是“身体好吗？”（参见“凶”）  
@@ -1205,7 +1204,6 @@
 1. 【[过周](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_zheu.md#过周)】`gu5 zheu1` <small>/ko5 t͡sɤ1/<sup>兴化</sup></small> 小儿周岁。<sup>\[东台\]</sup><sup>\[兴化\]</sup>\[泰州：父母为出生一年的小儿摆酒庆贺小儿首个生日\]：老张家大孙子今吖～。<sup>\[泰州\]</sup>  
 1. 【[过周年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_zheu_nin.md#过周年)】`gu5 zheu1 nin` <small>/ko5 t͡sɤ1 liɪ̃/<sup>兴化</sup>, /kʊ5 t͡sei1 nĩ/<sup>如皋</sup></small> ① 去世后的周年祭祀。逢一、三、十、二十、三十周年较隆重。<sup>\[如皋\]</sup> ② 过世一周年，又谓“头年”。<sup>\[兴化\]</sup> ③ 死者每年的忌辰。<sup>\[兴化\]</sup>  
 1. 【[过周年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_zheu_nin.md#过周年)】`gu5 zheu1 nin2` <sup>[如东]</sup> 人死后逢周年的日子，举行祭祀活动。  
-1. 【[个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu.md#个)】`gu9` <sup>[东台]</sup> 一个：～钱没得｜来啊客，～锅子不够用。  
 1. 【[个盹<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_den_r.md#个盹<sub>儿</sub>)】`gu9 den3 r` <sup>[泰州]</sup> 跟在动词之后，表示很短的时间，相当于“一会儿”：你稍微等～。｜这个戏没得多大意思，你俫看吖～就家去打牌唻。｜过～｜谈～。  
 1. 【[个月落咖二十九天雨——该阴（因）、少晴（情）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_iuh_lah_ga_er_sheh_jieu_tin_y_gae_ien_sho_qien.md#个月落咖二十九天雨——该阴（因）、少晴（情）)】`gu9 iuh8 lah8 ga er6 sheh8 jieu3 tin1 y3 gae1 ien1 sho3 qien2` <sup>[东台]</sup>   
 1. 【[个梦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_mon.md#个梦)】`gu9 mon6` <sup>[如皋]</sup> 叹词。常表示不满，相当于“何必、可叹”：～哎！做啊一天只拿啊他五块钱。  
