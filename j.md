@@ -789,7 +789,6 @@
 1. 【[精明鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_mien_guei.md#精明鬼)】`jien1 mien2 guei3` <sup>[如皋]</sup> 非常精明的人。  
 1. 【[精气神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_qi_shen.md#精气神)】`jien1 qi5 shen2` <small>/t͡ɕin1 t͡ɕʰi5 sən2/<sup>兴化</sup></small> ① 精神。<sup>\[如东\]</sup>：你的～不错。<sup>\[如东\]</sup> ② 精神和气力<sup>\[兴化\]</sup>：人一老～就不足咖。<sup>\[兴化\]</sup> ③ 人的精神力气<sup>\[泰州\]</sup>：我年纪大啊唻，再也没得精气神同你说吤。<sup>\[泰州\]</sup>  
 1. 【[精穷人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_qion_ren.md#精穷人)】`jien1 qion2 ren2` <sup>[如皋]</sup> 毫无财产的人。  
-1. 【[精肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_roh.md#精肉)】`jien1 roh8` <small>/t͡ɕiəŋ1 ɻɔʔ8/<sup>如皋</sup></small> ① 瘦肉 ② 瘦肉。也写“腈肉”。<sup>\[如皋\]</sup>  
 1. 【[精湿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_sheh.md#精湿)】`jien1 sheh7` 湿透了  
 1. 【[精湿的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_sheh_dii.md#精湿的)】`jien1 sheh7 dii` <sup>[如皋]</sup> 湿透了，全湿了。  
 1. 【[精神元气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_shen_iun_qi.md#精神元气)】`jien1 shen iun2 qi5` <sup>[如皋]</sup> 精力：～足、要花～、要得些～唻。  
@@ -831,7 +830,7 @@
 1. 【[经暍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_uh.md#经暍)】`jien1 uh7` <sup>[如皋]</sup> 指家具等放在阴暗潮湿处经久不朽。也说“见暍”。  
 1. 【[经纬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_vei.md#经纬)】`jien1 vei3` <sup>[如东]</sup> 做事谨慎，有经验：他有～。  
 1. 【[经折<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zhih_r.md#经折<sub>儿</sub>)】`jien1 zhih7 r` <small>/t͡ɕin1 t͡siɪʔ7 ɚ/<sup>兴化</sup></small> ① 一种记账的册子，长五寸，宽三寸，八至十折。封面和底板硬纸制作，便于携带。<sup>\[如东\]</sup> ② 厚纸折成的记事小手折，长方形，使用时可拉长<sup>\[兴化\]</sup>：只见何清去身边招文袋内摸出一个～来，指道<sup>\[兴化\]</sup>｜“这伙贼人都在上面。”（《水浒传》十八）<sup>\[兴化\]</sup>  
-1. 【[腈肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_roh.md#腈肉)】`jien1 roh8` <sup>[泰州]</sup> 瘦肉。  
+1. 【[腈肉/精肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_roh.md#腈肉/精肉)】`jien1 roh8` <small>/t͡ɕiəŋ1 ɻɔʔ8/<sup>如皋</sup>, /t͡ɕiŋ1 ɻɔʔ/<sup>泰兴</sup></small> 瘦肉<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>  
 1. 【[誩誩𠵹𠵹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_jien_gan_gan.md#誩誩𠵹𠵹)】`jien1 jien1 gan1 gan1` <sup>[如皋]</sup> 吵闹。  
 1. 【[金帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_ban.md#金帮)】`jien1 ban1` <sup>[如皋]</sup> 金字旁儿（钅，釒）：钢钦铃。  
 1. 【[金苍蝇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_can_ien.md#金苍蝇)】`jien1 can1 ien` <sup>[如皋]</sup> 金蝇。苍蝇的一种。  
@@ -844,7 +843,7 @@
 1. 【[金锏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gaen_zz.md#金锏子)】`jien1 gaen5 zz` <sup>[如皋]</sup> 金戒指。  
 1. 【[金刚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gan.md#金刚)】`jien1 gan1` <sup>[泰县]</sup> 机灵。  
 1. 【[金刚脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gan_jiah.md#金刚脚)】`jien1 gan1 jiah7` <sup>[如东]</sup> 帆船上抵住大樯樯脚的两块木板。  
-1. 【[金刚䭣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gan_qi_r.md#金刚䭣<sub>儿</sub>)】`jien1 gan1 qi2 r` <sup>[如皋]</sup> 即䭣儿，一种六丫面饼。  
+1. 【[金刚粸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gan_qi_r.md#金刚粸<sub>儿</sub>)】`jien1 gan1 qi2 r` <sup>[如皋]</sup> 即䭣儿，一种六丫面饼。  
 1. 【[金扛银饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gan_ien_bien.md#金扛银饼)】`jien1 gan1 ien2 bien3` <sup>[如皋]</sup> 中秋节时乡村人家自做的一种饼，分五层。  
 1. 【[金钩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_geu_r.md#金钩<sub>儿</sub>)】`jien1 geu1 r` <sup>[如皋]</sup> 枳椇。鼠李科。  
 1. 【[金钩虾米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_geu_xia_mi.md#金钩虾米)】`jien1 geu1 xia1 mi3` <sup>[如东]</sup> 长臂虾科动物脊尾白虾的虾仁，煮熟晒干，金黄色，弯钩形。  
@@ -1493,7 +1492,7 @@
 1. 【[较量](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_lian.md#较量)】`jio5 lian6` <sup>[如东]</sup> ① 用竞赛或斗争的方式比本领、实力的高低。 ② 计较：这们一点儿钱，你不要～。  
 1. 【[醮鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_guei.md#醮鬼)】`jio5 guei3` <sup>[如皋]</sup> 贬指极贫者：穷鬼杀～。  
 1. 【[菊花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jioh_hua.md#菊花)】`jioh7 hua1` <sup>[如东]</sup> 菊科植物菊，多年生草本。  
-1. 【[菊花䭣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jioh_hua_qi.md#菊花䭣)】`jioh7 hua1 qi2` <sup>[东台]</sup> 东台传统小吃之一。用白铁皮压模的形似菊花的模具，舀一两勺调和的面糊，中间放青菜或萝卜丝馅，上面再舀面糊盖上，下油锅炸成金黄色后，脱模即成。  
+1. 【[菊花粸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jioh_hua_qi.md#菊花粸)】`jioh7 hua1 qi2` <sup>[东台]</sup> 东台传统小吃之一。用白铁皮压模的形似菊花的模具，舀一两勺调和的面糊，中间放青菜或萝卜丝馅，上面再舀面糊盖上，下油锅炸成金黄色后，脱模即成。  
 1. 【[菊花头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jioh_hua_teu_r.md#菊花头<sub>儿</sub>)】`jioh7 hua1 teu2 r` <sup>[如皋]</sup> 植物名，嫩头可做菜。  
 1. 【[菊苣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jioh_qy.md#菊苣)】`jioh7 qy6` <sup>[如东]</sup> 菊科植物菊苣，多年生草本。  
 1. 【[菊三七](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jioh_saen_qieh.md#菊三七)】`jioh7 saen1 qieh7` <sup>[如东]</sup> 菊科植物三七草的根。  

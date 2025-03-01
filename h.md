@@ -1055,7 +1055,7 @@
 1. 【[欢喜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xi.md#欢喜)】`hu1 xi3` <sup>[泰州]</sup> 喜欢，喜欢：茨菇烧肉是最～吃的菜。  
 1. 【[灰堆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_dy.md#灰堆)】`hu1 dy1` <sup>[东台]</sup> 农家存放垃圾和抛灰的地方。可作肥料。（这里“灰”为特殊读法。）  
 1. 【[胢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu.md#胢)】`hu1` <sup>[东台]</sup> 肿起：捱百脚咬啊下子，这刻儿脚上～起来啊。东台词典写“䏨”。  
-1. 【[䗙䘆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xin.md#䗙䘆)】`hu2 xin1` <small>/xʊ2 ɕĩ1/<sup>如皋</sup></small> ① 蚯蚓，又名曲蟮。<sup>\[东台\]</sup> ② 蚯蚓，口语讹音为河香。 ③ 蚯蚓。学名直隶环毛蚓。毛足纲，寡毛目。<sup>\[如皋\]</sup>  
+1. 【[䗙䘆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xin.md#䗙䘆)】`hu2 xin1` <small>/xo2 ɕiɪ̃5/<sup>兴化</sup>, /xʊ2 ɕĩ1/<sup>如皋</sup>, /xo2 ɕiɪ̃1/<sup>泰县</sup></small> 蚯蚓<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[如皋\]</sup><sup>\[泰州\]</sup>\[如东：又俗音“河香”\]\[东台：又名曲蟮\]  
 1. 【[䗙䘆翻跟头——腰里悬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xin_faen_gen_teu_io_lii_xiun.md#䗙䘆翻跟头——腰里悬)】`hu2 xin1 faen1 gen1 teu2 io1 lii xiun2` <sup>[东台]</sup>   
 1. 【[䗙䘆呵屌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xin_hu_dio_r.md#䗙䘆呵屌<sub>儿</sub>)】`hu2 xin1 hu1 dio3 r` <sup>[如皋]</sup> 据说小孩包皮水肿是～所致。  
 1. 【[䗙䘆筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xin_jien.md#䗙䘆筋)】`hu2 xin1 jien1` <small>/xʊ2 ɕĩ1 t͡ɕiəŋ1/<sup>如皋</sup></small> ① 曲张的静脉血管。<sup>\[如皋\]</sup> ② 皮下主静脉血管。<sup>\[如皋\]</sup>  
@@ -1118,11 +1118,8 @@
 1. 【[河𧒘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_vae_r.md#河𧒘<sub>儿</sub>)】`hu2 vae1 r` <sup>[泰县]</sup> 河蚌。  
 1. 【[河虾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xia.md#河虾)】`hu2 xia1` <sup>[如东]</sup> 淡水虾的总称。  
 1. 【[河心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xien.md#河心)】`hu2 xien1` <small>/xo2 ɕin1/<sup>兴化</sup>, /xʊ2 ɕiəŋ1/<sup>如皋</sup></small> 河的中央，中流。<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：金兵被这上万的青年民众杀得纷纷倒下～。（兴文《清明节撑会船》）<sup>\[兴化\]</sup>｜你俫的水泥船沗（pan5）吖～唻。<sup>\[泰州\]</sup>  
-1. 【[河仙/䗙䘆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xin.md#河仙/䗙䘆)】`hu2 xin1` <sup>[如东]</sup> 巨蚓科动物参环毛蚓或正蚓科动物背暗异唇蚓，又名蚯蚓。  
-1. 【[河仙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xin.md#河仙)】`hu2 xin1` <sup>[泰县]</sup> 蚯蚓。  
 1. 【[河鲜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xin.md#河鲜)】`hu2 xin1` <sup>[东台]</sup> 指新鲜的莲藕、莲蓬、荸荠、菱角、鸡头米（芡实）等。  
 1. 【[河蚬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xin.md#河蚬)】`hu2 xin3` <sup>[如东]</sup> 蚬科动物河蚬，贝壳2片，略呈三角形，大小不一，大者约6厘米。  
-1. 【[河䘆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xin.md#河䘆)】`hu2 xin5` <sup>[兴化]</sup> 蚯蚓。  
 1. 【[河鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_y.md#河鱼)】`hu2 y2` ① 淡水鱼。有时专指鲫鱼。<sup>\[如东\]</sup> ② 生活在淡水河里的鱼。<sup>\[东台\]</sup>  
 1. 【[禾帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_ban.md#禾帮)】`hu2 ban1` <sup>[如皋]</sup> 禾字旁儿（禾）：和秋种。  
 1. 【[荷包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_bo.md#荷包)】`hu2 bo1` <small>/xo2 pɔ1/<sup>泰县</sup></small> ① 装饰品。用布缝制小袋，内装香草，系在身上能散发出幽幽的香味。<sup>\[如东\]</sup> ② 倾听。<sup>\[泰县\]</sup>  
@@ -1140,7 +1137,6 @@
 1. 【[荷箬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_rah.md#荷箬)】`hu2 rah8` <sup>[如皋]</sup> 干荷叶。旧时用以包裹卤菜、酱菜等。  
 1. 【[蚵蚵<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_hu_r.md#蚵蚵<sub>儿</sub>)】`hu2 hu2 r` <sup>[泰县]</sup> 一种很小的青蛙。“旱狗儿”。  
 1. 【[𤖱头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_teu.md#𤖱头)】`hu2 teu2` <sup>[如皋]</sup> 棺材头。  
-1. 【[𧑚䘆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xin.md#𧑚䘆)】`hu2 xin1` <sup>[泰州]</sup> 蚯蚓。  
 1. 【[伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu.md#伙)】`hu3` <sup>[如皋]</sup> 鼓动、怂惠：他～住咖别人做，自家不做。  
 1. 【[伙仓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_can.md#伙仓)】`hu3 can1` <sup>[如皋]</sup> 炊事：开～（煮饭菜）。  
 1. 【[伙家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_jia.md#伙家)】`hu3 jia` <sup>[兴化]</sup> ① 伙计、佣人。 ② 对朋友，熟人等比较随意的面称：“～，好力气，好膀条子！”（《武松》五）｜“～，今天夜里要防备大风大雨哩！”（马春阳《双灯照》）  
