@@ -946,7 +946,6 @@
 1. 【[礼数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_shv.md#礼数)】`li3 shv5` <sup>[东台]</sup> 礼节：亲友之间讲个～。  
 1. 【[礼道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_to.md#礼道)】`li3 to6` <sup>[如皋]</sup> ① 礼貌。 ② 礼貌的规距。  
 1. 【[礼信](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_xien.md#礼信)】`li3 xien5` ① 礼仪，礼节<sup>\[泰州\]</sup>：这些老～，现在的伢儿都不懂。<sup>\[泰州\]</sup> ② 表示庆贺或者友好或者诚意儿给的馈赠<sup>\[泰州\]</sup>：老李的～太大，每回来看他，都要带点儿东西过来。<sup>\[泰州\]</sup>  
-1. 【[老脸皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_lin_pi.md#老脸皮)】`li3 lin3 pi2` <sup>[泰州]</sup> 形容人厚颜无耻：不要再说吤，有几个像你这吖～的！  
 1. 【[里八字](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_baeh_cz.md#里八字)】`li3 baeh7 cz6` <small>/lʝ3 peʔ7 t͡sʰɿ1/<sup>如皋</sup></small> ① 双脚并立，双足尖较靠近的畸型。<sup>\[如皋\]</sup> ② 见“八脚儿”。<sup>\[如皋\]</sup>  
 1. 【[里八折外加二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_baeh_zhih_vae_jia_er.md#里八折外加二)】`li3 baeh7 zhih7 vae6 jia1 er6` <sup>[东台]</sup> 形容克扣厉害。除本金打八折，另外还加二分利息。  
 1. 【[……里不……](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_beh.md#……里不……)】`li3 beh7` <sup>[东台]</sup> 中缀。表示程度加深：啰～唆/胡～涂/呆～傻/认～真/神～经/绍～绍叨/嫌～嫌相。  
@@ -1791,7 +1790,7 @@
 1. 【[老里老相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lii_lo_xian.md#老里老相)】`lo3 lii lo3 xian5` <sup>[东台]</sup> ① 对人不尊重，摆架子。 ② 倚老卖老，冒充内行。 ③ 随意取用别人的东西。  
 1. 【[老脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lin.md#老脸)】`lo3 lin3` <sup>[如东]</sup> 谦辞。老年人指自己的面子：还是凭我这张～。  
 1. 【[老脸饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lin_faen.md#老脸饭)】`lo3 lin3 faen6` <sup>[泰县]</sup> 厚着脸皮吃别人的饭。  
-1. 【[老脸皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lin_pi.md#老脸皮)】`lo3 lin3 pi2` <small>/lɔ3 liɪ̃3 pʰi2/<sup>兴化</sup></small> ① 不害怕，不害羞。<sup>\[如东\]</sup>：这们多人脸都不红，真是一张～。<sup>\[如东\]</sup> ② 脸皮厚，没有羞耻感<sup>\[兴化\]</sup>：他这个～不怕人黄他。<sup>\[兴化\]</sup>  
+1. 【[老脸皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lin_pi.md#老脸皮)】`lo3 lin3 pi2` <small>/lɔ3 liɪ̃3 pʰi2/<sup>兴化</sup></small> ① 不害怕，不害羞。<sup>\[如东\]</sup>：这们多人脸都不红，真是一张～。<sup>\[如东\]</sup> ② 脸皮厚，没有羞耻感<sup>\[兴化\]</sup>：他这个～不怕人黄他。<sup>\[兴化\]</sup> ③ 形容人厚颜无耻<sup>\[泰州\]</sup>：不要再说吤，有几个像你这吖～的！<sup>\[泰州\]</sup>  
 1. 【[老脸皮厚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lin_pi_heu.md#老脸皮厚)】`lo3 lin3 pi2 heu6` <small>/lɔ3 liɪ̃3 pʰi2 xɤ6/<sup>兴化</sup></small> ① 形容人的脸皮厚，不害羞<sup>\[兴化\]</sup>：“并没有新鲜招笑儿的，少不得～的说一个罢。”（《红楼梦》五四）<sup>\[兴化\]</sup> ② 老人脸上皮厚，指面对他人冷眼相待而泰然地我行我素<sup>\[泰州\]</sup>：这小伙你这格局凶吖他，亏他还老脸皮厚的笑得出来！<sup>\[泰州\]</sup>｜人家同他又不啰唆，他还竟然还～的去找人家！<sup>\[泰州\]</sup>  
 1. 【[老脸菩萨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lin_pv_saeh.md#老脸菩萨)】`lo3 lin3 pv2 saeh7` <sup>[泰县]</sup> 不顾羞耻：你是个～。  
 1. 【[老脸色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lin_seh.md#老脸色)】`lo3 lin3 seh7` <small>/lɔ3 liɪ̃3 səʔ7/<sup>兴化</sup>, /nɔ3 niɪ̃3 səʔ7/<sup>泰县</sup></small> ① 老样子。<sup>\[如东\]</sup>：还是一个～o<sup>\[如东\]</sup> ② 经常出现的面孔，老面孔<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：……从庄里跑出了一通人马，打前排的是两个……（马春阳《姐妹烟缘船迷传》）<sup>\[兴化\]</sup>｜今吖子来开会的，还是这几个～。<sup>\[泰州\]</sup>  

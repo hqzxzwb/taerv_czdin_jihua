@@ -708,8 +708,7 @@
 1. 【[筷头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_teu_r.md#筷头<sub>儿</sub>)】`kuae5 teu2 r` <sup>[泰县]</sup> 筷尖儿。  
 1. 【[筷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_zz.md#筷子)】`kuae5 zz` <sup>[泰州]</sup> 筷子，中餐中用来夹取食物的两根细长棒。  
 1. 【[㧟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae.md#㧟)】`kuae6` <small>/kʰuɛ6/<sup>兴化</sup>, /kʰuɛ1/<sup>如皋</sup>, /kʰue1/<sup>泰县</sup></small> 挎，或泛指携带<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>\[如东：手臂挎着篮子。\]：～儿卖香烟。<sup>\[如皋\]</sup>｜～书包<sup>\[东台\]</sup>｜～照相机。<sup>\[东台\]</sup>｜旧谚：乡下人上街，大笿子一～。<sup>\[兴化\]</sup>｜你把篮子～啊走。<sup>\[泰州\]</sup>｜篮子重，～不动。<sup>\[泰州\]</sup>｜你～啊这吖多的东西，上火车肯定不方便。<sup>\[泰州\]</sup>  
-1. 【[㧟宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_bo_r.md#㧟宝<sub>儿</sub>)】`kuae6 bo3 r` <sup>[泰县]</sup> 非亲生子。  
-1. 【[㧟宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_bo_r.md#㧟宝<sub>儿</sub>)】`kuae6 bo3 r` <sup>[泰州]</sup> 再加女子从前夫处带过来的孩子，即“拖油瓶”：他又不是～，祖上留下来的家私怎吖好说没得他的份。  
+1. 【[㧟宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_bo_r.md#㧟宝<sub>儿</sub>)】`kuae6 bo3 r` <small>/kʰue1 pɔ3 ɚ/<sup>泰县</sup></small> ① 非亲生子。<sup>\[泰县\]</sup> ② 再加女子从前夫处带过来的孩子，即“拖油瓶”<sup>\[泰州\]</sup>：他又不是～，祖上留下来的家私怎吖好说没得他的份。<sup>\[泰州\]</sup>  
 1. 【[㧟宝子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_bo_zz.md#㧟宝子)】`kuae6 bo3 zz` <sup>[兴化]</sup> 见“㧟油瓶”。  
 1. 【[㧟油瓶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_ieu_pien.md#㧟油瓶)】`kuae6 ieu2 pien2` <small>/kʰuɛ6 iɤ2 pʰiɪ̃2/<sup>兴化</sup>, /kʰue1 iɤɯ2 pʰiŋ2/<sup>泰县</sup></small> ① 旧称随母改嫁者。也称“㧟宝子”。<sup>\[兴化\]</sup> ② 寡妇改嫁后带来的子女。<sup>\[泰县\]</sup>  
 1. 【[㧟笿<sub>儿</sub>的，挑担的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_lah_r_dii_tio_daen_dii.md#㧟笿<sub>儿</sub>的，挑担的)】`kuae6 lah8 r dii tio1 daen5 dii` <sup>[如皋]</sup> 泛指做小买卖的。  

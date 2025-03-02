@@ -1987,8 +1987,7 @@
 1. 【[箍桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_ton.md#箍桶)】`gv1 ton3` <sup>[兴化]</sup> 用铁丝或竹篾将多块短木板绕桶底和腰部紧束起来，制成各式木桶。  
 1. 【[箍桶担子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_ton_daen_zz.md#箍桶担子)】`gv1 ton3 daen5 zz, gv1 ton daen5 zz` <sup>[如皋]</sup> 箍桶匠挑担子走街窜巷，上门服务。  
 1. 【[箍桶匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_ton_qian.md#箍桶匠)】`gv1 ton3 qian6, gv1 ton qian6` <sup>[如皋]</sup> 同“圆料匠”。箍盆箍桶的匠人。  
-1. 【[箍桶匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_ton_qian.md#箍桶匠)】`gv1 ton3 qian6` <sup>[东台]</sup> 或叫圆料匠，指专门制作盆、桶等圆木家具的工匠。  
-1. 【[箍桶匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_ton_qian.md#箍桶匠)】`gv1 ton3 qian6` <sup>[泰州]</sup> 制作木桶木盆等的工匠。  
+1. 【[箍桶匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_ton_qian.md#箍桶匠)】`gv1 ton3 qian6` ① 或叫圆料匠，指专门制作盆、桶等圆木家具的工匠。<sup>\[东台\]</sup> ② 制作木桶木盆等的工匠。<sup>\[泰州\]</sup>  
 1. 【[箍网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_van.md#箍网)】`gv1 van3` <sup>[如皋]</sup> 围网。  
 1. 【[軱拐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_guae.md#軱拐)】`gv1 guae3` <small>/ku1 kuɛ3/<sup>兴化</sup>, /ku1 kuɛ3/<sup>如皋</sup></small> ① 脚踝，《西游记》作“孤拐”。<sup>\[如皋\]</sup> ② 脚踝骨，小腿与脚之间两侧突出的部分，兴化词典作“孤拐”<sup>\[兴化\]</sup>  
 1. 【[估猜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_cae.md#估猜)】`gv3 cae1` <small>/ku3 t͡sʰɛ1/<sup>兴化</sup></small> ① 猜测、估摸<sup>\[兴化\]</sup>：这件事你是～的，不一定真实。<sup>\[兴化\]</sup> ② 大致推测<sup>\[泰州\]</sup>：老师～他这个成绩考不上苏州大学。<sup>\[泰州\]</sup>  

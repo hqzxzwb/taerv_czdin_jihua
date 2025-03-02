@@ -3,7 +3,7 @@
 ## V
 1. 【[捂嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_jy.md#捂嘴)】`v jy3` <sup>[如东]</sup> 用手把嘴遮住。  
 1. 【[乌八代](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_baeh_tae.md#乌八代)】`v1 baeh7 tae6` <sup>[泰县]</sup> 责任心很差。  
-1. 【[乌阵陡暗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_chen_deu_un.md#乌阵陡暗)】`v1 chen1 deu3 un5` <small>/ʋ1 t͡sʰəŋ1 təɪ3 ʊ̃5/<sup>泰兴</sup></small> 乌云密布，暴雨将至的样子。<sup>\[泰兴\]</sup>：外头～的，要落大雨了。<sup>\[泰兴\]</sup>  
+1. 【[乌阵陡暗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_chen_deu_un.md#乌阵陡暗)】`v1 chen6 deu3 un5` <small>/ʋ1 t͡sʰəŋ1 təɪ3 ʊ̃5/<sup>泰兴</sup></small> 乌云密布，暴雨将至的样子。<sup>\[泰兴\]</sup>：外头～的，要落大雨了。<sup>\[泰兴\]</sup>  
 1. 【[乌灯瞎火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_den_haeh_hu.md#乌灯瞎火)】`v1 den1 haeh7 hu3` <sup>[如皋]</sup> 见“乌灯熄火”。  
 1. 【[乌灯黑火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_den_heh_hu.md#乌灯黑火)】`v1 den1 heh7 hu3` <sup>[如皋]</sup> 见“乌灯熄火”。  
 1. 【[乌灯熄火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_den_xieh_hu.md#乌灯熄火)】`v1 den1 xieh7 hu3` <small>/u1 tən1 ɕiəʔ7 xo3/<sup>兴化</sup>, /ʋu1 təŋ1 ɕiəʔ7 xʊ3/<sup>如皋</sup>, /ʋ1 təŋ1 ɕiʔ7 xɤɯ3/<sup>泰兴</sup>, /u1 təŋ1 ɕiɪʔ7 xo3/<sup>泰县</sup></small> 夜间，无一星灯火，一片漆黑<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：往家里一望，～的。<sup>\[如东\]</sup>｜下啊晚自修，学校里到处～的。<sup>\[兴化\]</sup>｜晚上十点，学生宿舍里就～的唻。<sup>\[泰州\]</sup>｜半夜了，块块～的。<sup>\[泰兴\]</sup>  

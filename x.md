@@ -13,7 +13,6 @@
 1. 【[稀啊稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_a_xi.md#稀啊稀)】`xi1 a xi1` <sup>[泰县]</sup> 人群渐渐稀少：今朝会开啊不久，人都～的走掉啊。  
 1. 【[稀臭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_cheu.md#稀臭)】`xi1 cheu5` 很臭<sup>\[泰州\]</sup>：～的球鞋。<sup>\[泰州\]</sup>  
 1. 【[稀𬙙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_fan.md#稀𬙙)】`xi1 fan1` <sup>[如东]</sup> 一种捕鱼网具。圆锥形，口宽约1丈，网身长约2丈。草绳结成，网眼较大故称稀𬙙。作业时，把罗放人海洋里，用竹竿撑开，主要捕捞海蜇。  
-1. 【[稀缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_fon.md#稀缝)】`xi1 fon6` <small>/ɕi1 foŋ6/<sup>兴化</sup></small> ① 板块接合部裂开。<sup>\[如东\]</sup>：桌面～。<sup>\[如东\]</sup> ② 缝隙<sup>\[兴化\]</sup>：可巧，板使有几条～，那个乔家运……瞧看得不亦乐乎。（《广陵满》十三）<sup>\[兴化\]</sup> ③ 开裂有缝<sup>\[兴化\]</sup>：这扇后门经过风吹日晒老早就稀啊缝。<sup>\[兴化\]</sup>  
 1. 【[稀罕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_hun.md#稀罕)】`xi1 hun3` <sup>[如东]</sup> 少有：这种东西非常～。  
 1. 【[稀脚丫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_jiah_nga_r.md#稀脚丫<sub>儿</sub>)】`xi1 jiah7 nga1 r` <sup>[如东]</sup> 表示不干了：他又～啊。  
 1. 【[稀朗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_lan.md#稀朗)】`xi1 lan3` <sup>[如东]</sup> 稀疏：棉花苗～要适当。  
@@ -58,8 +57,8 @@
 1. 【[西装头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_zhuan_teu.md#西装头)】`xi1 zhuan1 teu2` <sup>[如东]</sup> 一种发型，头发向两边分开。也称分头。  
 1. 【[豨莶草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xin_co.md#豨莶草)】`xi1 xin1 co3` <sup>[如东]</sup> 菊科植物腺梗豨莶，一年生草本。高约100厘米。茎直立，常带紫色，枝上部密被短柔毛。叶对生，阔卵状三角形，边缘具粗锯齿。头状花序顶生或腋生。花黄色。瘦果倒卵形，微弯，黑色。生长在路边  
 1. 【[豨莶果](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xin_gu.md#豨莶果)】`xi1 xin1 gu3` <sup>[如东]</sup> 菊科植物腺梗豨莶果实。  
-1. 【[𤭦缝/稀缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_fon.md#𤭦缝/稀缝)】`xi1 fon6` ① 陶器瓷器表面出现裂缝<sup>\[泰州\]</sup>：这个缸𤭦啊缝。<sup>\[泰州\]</sup> ② 器物因干燥收缩或者受潮膨胀使吻合处出现裂缝<sup>\[泰州\]</sup>：这张桌子才用吖两年就～唻。<sup>\[泰州\]</sup>｜墙上～都这吖大唻，要快点儿修。<sup>\[泰州\]</sup>  
 1. 【[𬮮/𨵤/𨵎/𠩺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#𬮮/𨵤/𨵎/𠩺)】`xi1` <small>/ɕʝ1/<sup>如皋</sup>, /sɿ1/<sup>泰县</sup></small> 露出缝隙；微开。（𬮮）（𠩺，《说文·文部》，许其切）<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup>：门～下来啊朆关紧。桌面子因木料收缩～啊缝。<sup>\[如皋\]</sup>｜门～啊一条缝。<sup>\[东台\]</sup>｜～啊一条缝。<sup>\[泰县\]</sup>  
+1. 【[𬮮缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_fon.md#𬮮缝)】`xi1 fon6` <small>/ɕi1 foŋ6/<sup>兴化</sup></small> 开裂有缝，或接合处分开有缝<sup>\[如东\]</sup><sup>\[泰州\]</sup><sup>\[泰州\]</sup>\[兴化：或指缝隙\]：桌面～。<sup>\[如东\]</sup>｜这扇后门经过风吹日晒老早就𬮮啊缝。<sup>\[兴化\]</sup>｜这个缸𬮮啊缝。<sup>\[泰州\]</sup>｜这张桌子才用吖两年就～唻。<sup>\[泰州\]</sup>｜墙上～都这吖大唻，要快点儿修。<sup>\[泰州\]</sup>  
 1. 【[騱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#騱)】`xi2` <sup>[如东]</sup> 液体沿着支柱向上移动：煤油沿吖灯芯向上～动。  
 1. 【[騱动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ton.md#騱动)】`xi2 ton` <sup>[如皋]</sup> 纷纷乱动：还不曾散会，人就～起来啊。  
 1. 【[騱动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ton.md#騱动)】`xi2 ton6` <sup>[如东]</sup> 小步快走：这个伢儿走得～。  

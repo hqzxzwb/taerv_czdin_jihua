@@ -24,15 +24,13 @@
 1. 【[灾天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_tin.md#灾天)】`zae1 tin1` <sup>[如皋]</sup> 恶劣的天气。  
 1. 【[灾𧒘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_vae_r.md#灾𧒘<sub>儿</sub>)】`zae1 vae1 r` <sup>[泰县]</sup> 钱：你一个月的工资就这几个～，怎吖够你去赌噢？  
 1. 【[财翁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_ion.md#财翁)】`zae1 ion1` <sup>[如皋]</sup> 富有。  
-1. 【[宰宰拘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_zae_jy.md#宰宰拘)】`zae3 zae jy1` <sup>[东台]</sup> 太拘泥、不可变通的意思：这事见机而作，不要～。  
-1. 【[宰宰居](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_zae_jy.md#宰宰居)】`zae3 zae3 jy1` <sup>[泰县]</sup> 固执。  
+1. 【[宰宰拘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_zae_jy.md#宰宰拘)】`zae3 zae jy1` <small>/t͡sɛ3 t͡sɛ t͡ɕy1/<sup>如皋</sup></small> ① 一定<sup>\[如皋\]</sup>：不～。<sup>\[如皋\]</sup> ② 太拘泥、不可变通的意思<sup>\[东台\]</sup>：这事见机而作，不要～。<sup>\[东台\]</sup>  
+1. 【[宰宰拘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_zae_jy.md#宰宰拘)】`zae3 zae3 jy1` <small>/t͡se3 t͡se3 t͡ɕy1/<sup>泰县</sup></small> 固执。<sup>\[泰县\]</sup><sup>\[泰州\]</sup>：能上北大当然好，现在考的南京大学也不错，你就不要～唻。<sup>\[泰州\]</sup>  
 1. 【[宰宰拘拘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_zae_jy_jy.md#宰宰拘拘)】`zae3 zae3 jy1 jy1` <sup>[兴化]</sup> 一定的、一成不变的：而今的婚礼不～的行甚的大仪注。兴化词典作“者者拘拘”。也说“宰宰拘”。  
 1. 【[宰执](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_zheh.md#宰执)】`zae3 zheh` 固执，坚持<sup>\[泰州\]</sup>：朋友之间吃顿饭，他付钱要甚的紧，你就不要太～。<sup>\[泰州\]</sup>  
 1. 【[宰执](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_zheh.md#宰执)】`zae3 zheh7` <small>/t͡sɛ3 t͡səʔ7/<sup>兴化</sup>, /t͡se3 t͡səʔ7/<sup>泰县</sup></small> ① 固执、刻板<sup>\[东台\]</sup>：你要灵活点儿，不要太～。<sup>\[东台\]</sup> ② 迂执、拘泥<sup>\[兴化\]</sup>：老先生～，轻容易不跟人交往。兴化词典作“者执”。<sup>\[兴化\]</sup> ③ 固执，不占别人便宜。<sup>\[泰县\]</sup>  
-1. 【[者者居](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_zae_jy.md#者者居)】`zae3 zae3 jy1` <sup>[泰州]</sup> 固执：能上北大当然好，现在考的南京大学也不错，你就不要～唻。  
 1. 【[载住咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_chuh_ga.md#载住咖)】`zae3 chuh8 ga` <sup>[如皋]</sup> 一定要，非要不可：他～要，你也没办法推辞。  
 1. 【[载定](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_tien.md#载定)】`zae3 tien6` <sup>[如皋]</sup> 贬指坚持要、坚持认为：你没有充足的依据怎吖就～吖是他做的咯？  
-1. 【[载载拘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_zae_jy.md#载载拘)】`zae3 zae jy1` <sup>[如皋]</sup> 一定：不～。  
 1. 【[傤脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_jiah.md#傤脚)】`zae5 jiah7` <sup>[兴化]</sup> 由船上装载物的轻重造成船身入水的深浅：……他应当叫黄盖用些大石头摆在船上押押～……（《火烧赤壁》九）  
 1. 【[再表](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_bio.md#再表)】`zae5 bio3` <sup>[如皋]</sup> 同曾祖（外曾祖）姻亲关系称。  
 1. 【[再好不过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_ho_beh_gu.md#再好不过)】`zae5 ho3 beh7 gu5` <sup>[如皋]</sup> 最好。  

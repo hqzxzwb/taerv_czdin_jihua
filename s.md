@@ -2844,7 +2844,7 @@
 1. 【[䴛叽叽的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_ji_ji_dii.md#䴛叽叽的)】`so5 ji1 ji1 dii` <sup>[如皋]</sup> 有些咸。  
 1. 【[䴛津津的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_jien_jien_dii.md#䴛津津的)】`so5 jien1 jien1 dii` <sup>[如皋]</sup> 有些咸味。  
 1. 【[䴛鸭蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_ngaeh_taen.md#䴛鸭蛋)】`so5 ngaeh7 taen6` 咸鸭蛋  
-1. 【[䴛䭣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_qi_r.md#䴛䭣<sub>儿</sub>)】`so5 qi2 r` <sup>[如皋]</sup> 䭣儿为茶食类六角面饼，分甜、䴛两种。  
+1. 【[䴛粸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_qi_r.md#䴛粸<sub>儿</sub>)】`so5 qi2 r` <sup>[如皋]</sup> 䭣儿为茶食类六角面饼，分甜、䴛两种。  
 1. 【[䴛气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_qi.md#䴛气)】`so5 qi5` <sup>[如皋]</sup> ① 咸味：弄根咸菜嚼嚼，啧啧～。 ② 咸菜、酱菜：你吃粥怎吖一点儿～总不吃嗲（diah）？  
 1. 【[䴛水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_shuei.md#䴛水)】`so5 shuei3` <sup>[如皋]</sup> ① 水味咸：这口井是～井，水不能吃。 ② 海水：海货摊儿卖的总是～货。  
 1. 【[䴛水货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_shuei_hu.md#䴛水货)】`so5 shuei3 hu5` <sup>[如皋]</sup> 过去因水质硬软而称北方货为～，南方货称甜水货。  

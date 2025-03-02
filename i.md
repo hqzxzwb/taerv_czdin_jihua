@@ -1514,8 +1514,7 @@
 1. 【[有得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_deh.md#有得)】`ieu3 deh` <small>/iɤ3 təʔ/<sup>兴化</sup></small> ① 有<sup>\[兴化\]</sup>：这许～吃～喝，你就安心蹾下去吧！<sup>\[兴化\]</sup> ② 某种情况将会持续下去<sup>\[兴化\]</sup>：你惹恼啊他，～寻你麻烦哎！<sup>\[兴化\]</sup>｜你年纪轻轻，～过唻！<sup>\[兴化\]</sup> ③ 有且能够，有且可以<sup>\[泰州\]</sup>：你～说就多说两句，没得说就少说点儿。<sup>\[泰州\]</sup> ④ 表示动作、行为持续时间长<sup>\[泰州\]</sup>：你要是不把他安排啊好啊，他～同你闹唻。<sup>\[泰州\]</sup> ⑤ 特指有钱<sup>\[泰州\]</sup>：他就是～，也不可能向你这格局瞎用。<sup>\[泰州\]</sup>  
 1. 【[有得没得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_deh_meh_deh.md#有得没得)】`ieu3 deh meh8 deh` <sup>[兴化]</sup> ① 有或没有，缺乏根据地：你这张嘴，～的不要瞎嚼蛆。 ② 通通、所有的：“……只因是十方常住，被一个云游和尚引着一个道人来此住持，把常住有的没的都毁坏了……”（《水浒传》六）  
 1. 【[有得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_deh.md#有得)】`ieu3 deh7` <sup>[如皋]</sup> ① 富有：他家里～。 ② 会得，并且长时间的：上人死啊，他～哭吤；衣裳一大堆，她～洗唻！  
-1. 【[有得没得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_deh_meh_deh.md#有得没得)】`ieu3 deh7 meh8 deh7` <sup>[东台]</sup> 指没有根据捕风捉影。  
-1. 【[有得没得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_deh_meh_deh.md#有得没得)】`ieu3 deh7 meh8 deh7` <sup>[泰州]</sup> 无论是有，还是没有，即“不管有没有”：伢儿上学是大事，钱～都要供他上。  
+1. 【[有得没得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_deh_meh_deh.md#有得没得)】`ieu3 deh7 meh8 deh7` ① 指没有根据捕风捉影。<sup>\[东台\]</sup> ② 无论是有，还是没有，即“不管有没有”<sup>\[泰州\]</sup>：伢儿上学是大事，钱～都要供他上。<sup>\[泰州\]</sup>  
 1. 【[有顿没顿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_den_meh_den.md#有顿没顿)】`ieu3 den5 meh8 den5` <sup>[东台]</sup> 吃了上顿，没有下顿：旧社会我家常常～。  
 1. 【[有底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_di.md#有底)】`ieu3 di3` <sup>[如东]</sup> 有限度：他说的数儿～。  
 1. 【[有底不为亏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_di_beh_vei_kuei.md#有底不为亏)】`ieu3 di3 beh7 vei2 kuei1` <sup>[兴化]</sup> 有一定的物质保证，才不会吃亏：他拿货物抵押向你借款，不怕他不还，这个叫～。  

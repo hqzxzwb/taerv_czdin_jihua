@@ -585,7 +585,7 @@
 ## V
 1. 【[捂嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_jy.md#捂嘴)】`v jy3` <sup>[如东]</sup> 用手把嘴遮住。  
 1. 【[乌八代](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_baeh_tae.md#乌八代)】`v1 baeh7 tae6` <sup>[泰县]</sup> 责任心很差。  
-1. 【[乌阵陡暗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_chen_deu_un.md#乌阵陡暗)】`v1 chen1 deu3 un5` <small>/ʋ1 t͡sʰəŋ1 təɪ3 ʊ̃5/<sup>泰兴</sup></small> 乌云密布，暴雨将至的样子。<sup>\[泰兴\]</sup>：外头～的，要落大雨了。<sup>\[泰兴\]</sup>  
+1. 【[乌阵陡暗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_chen_deu_un.md#乌阵陡暗)】`v1 chen6 deu3 un5` <small>/ʋ1 t͡sʰəŋ1 təɪ3 ʊ̃5/<sup>泰兴</sup></small> 乌云密布，暴雨将至的样子。<sup>\[泰兴\]</sup>：外头～的，要落大雨了。<sup>\[泰兴\]</sup>  
 1. 【[乌灯瞎火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_den_haeh_hu.md#乌灯瞎火)】`v1 den1 haeh7 hu3` <sup>[如皋]</sup> 见“乌灯熄火”。  
 1. 【[乌灯黑火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_den_heh_hu.md#乌灯黑火)】`v1 den1 heh7 hu3` <sup>[如皋]</sup> 见“乌灯熄火”。  
 1. 【[乌灯熄火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_den_xieh_hu.md#乌灯熄火)】`v1 den1 xieh7 hu3` <small>/u1 tən1 ɕiəʔ7 xo3/<sup>兴化</sup>, /ʋu1 təŋ1 ɕiəʔ7 xʊ3/<sup>如皋</sup>, /ʋ1 təŋ1 ɕiʔ7 xɤɯ3/<sup>泰兴</sup>, /u1 təŋ1 ɕiɪʔ7 xo3/<sup>泰县</sup></small> 夜间，无一星灯火，一片漆黑<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：往家里一望，～的。<sup>\[如东\]</sup>｜下啊晚自修，学校里到处～的。<sup>\[兴化\]</sup>｜晚上十点，学生宿舍里就～的唻。<sup>\[泰州\]</sup>｜半夜了，块块～的。<sup>\[泰兴\]</sup>  
@@ -623,7 +623,6 @@
 1. 【[稀啊稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_a_xi.md#稀啊稀)】`xi1 a xi1` <sup>[泰县]</sup> 人群渐渐稀少：今朝会开啊不久，人都～的走掉啊。  
 1. 【[稀臭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_cheu.md#稀臭)】`xi1 cheu5` 很臭<sup>\[泰州\]</sup>：～的球鞋。<sup>\[泰州\]</sup>  
 1. 【[稀𬙙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_fan.md#稀𬙙)】`xi1 fan1` <sup>[如东]</sup> 一种捕鱼网具。圆锥形，口宽约1丈，网身长约2丈。草绳结成，网眼较大故称稀𬙙。作业时，把罗放人海洋里，用竹竿撑开，主要捕捞海蜇。  
-1. 【[稀缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_fon.md#稀缝)】`xi1 fon6` <small>/ɕi1 foŋ6/<sup>兴化</sup></small> ① 板块接合部裂开。<sup>\[如东\]</sup>：桌面～。<sup>\[如东\]</sup> ② 缝隙<sup>\[兴化\]</sup>：可巧，板使有几条～，那个乔家运……瞧看得不亦乐乎。（《广陵满》十三）<sup>\[兴化\]</sup> ③ 开裂有缝<sup>\[兴化\]</sup>：这扇后门经过风吹日晒老早就稀啊缝。<sup>\[兴化\]</sup>  
 1. 【[稀罕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_hun.md#稀罕)】`xi1 hun3` <sup>[如东]</sup> 少有：这种东西非常～。  
 1. 【[稀脚丫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_jiah_nga_r.md#稀脚丫<sub>儿</sub>)】`xi1 jiah7 nga1 r` <sup>[如东]</sup> 表示不干了：他又～啊。  
 1. 【[稀朗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_lan.md#稀朗)】`xi1 lan3` <sup>[如东]</sup> 稀疏：棉花苗～要适当。  
@@ -688,9 +687,11 @@
 1. 【[灾天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_tin.md#灾天)】`zae1 tin1` <sup>[如皋]</sup> 恶劣的天气。  
 1. 【[灾𧒘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_vae_r.md#灾𧒘<sub>儿</sub>)】`zae1 vae1 r` <sup>[泰县]</sup> 钱：你一个月的工资就这几个～，怎吖够你去赌噢？  
 1. 【[财翁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_ion.md#财翁)】`zae1 ion1` <sup>[如皋]</sup> 富有。  
-1. 【[宰宰拘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_zae_jy.md#宰宰拘)】`zae3 zae jy1` <sup>[东台]</sup> 太拘泥、不可变通的意思：这事见机而作，不要～。  
-1. 【[宰宰居](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_zae_jy.md#宰宰居)】`zae3 zae3 jy1` <sup>[泰县]</sup> 固执。  
+1. 【[宰宰拘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_zae_jy.md#宰宰拘)】`zae3 zae jy1` <small>/t͡sɛ3 t͡sɛ t͡ɕy1/<sup>如皋</sup></small> ① 一定<sup>\[如皋\]</sup>：不～。<sup>\[如皋\]</sup> ② 太拘泥、不可变通的意思<sup>\[东台\]</sup>：这事见机而作，不要～。<sup>\[东台\]</sup>  
+1. 【[宰宰拘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_zae_jy.md#宰宰拘)】`zae3 zae3 jy1` <small>/t͡se3 t͡se3 t͡ɕy1/<sup>泰县</sup></small> 固执。<sup>\[泰县\]</sup><sup>\[泰州\]</sup>：能上北大当然好，现在考的南京大学也不错，你就不要～唻。<sup>\[泰州\]</sup>  
 1. 【[宰宰拘拘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_zae_jy_jy.md#宰宰拘拘)】`zae3 zae3 jy1 jy1` <sup>[兴化]</sup> 一定的、一成不变的：而今的婚礼不～的行甚的大仪注。兴化词典作“者者拘拘”。也说“宰宰拘”。  
 1. 【[宰执](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_zheh.md#宰执)】`zae3 zheh` 固执，坚持<sup>\[泰州\]</sup>：朋友之间吃顿饭，他付钱要甚的紧，你就不要太～。<sup>\[泰州\]</sup>  
 1. 【[宰执](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_zheh.md#宰执)】`zae3 zheh7` <small>/t͡sɛ3 t͡səʔ7/<sup>兴化</sup>, /t͡se3 t͡səʔ7/<sup>泰县</sup></small> ① 固执、刻板<sup>\[东台\]</sup>：你要灵活点儿，不要太～。<sup>\[东台\]</sup> ② 迂执、拘泥<sup>\[兴化\]</sup>：老先生～，轻容易不跟人交往。兴化词典作“者执”。<sup>\[兴化\]</sup> ③ 固执，不占别人便宜。<sup>\[泰县\]</sup>  
+1. 【[载住咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_chuh_ga.md#载住咖)】`zae3 chuh8 ga` <sup>[如皋]</sup> 一定要，非要不可：他～要，你也没办法推辞。  
+1. 【[载定](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_tien.md#载定)】`zae3 tien6` <sup>[如皋]</sup> 贬指坚持要、坚持认为：你没有充足的依据怎吖就～吖是他做的咯？  
 [更多...](./z.md)
