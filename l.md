@@ -1974,10 +1974,11 @@
 1. 【[六月里带手套——老保守（手）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_iuh_lii_dae_sheu_to_lo_bo_sheu.md#六月里带手套——老保守（手）)】`loh8 iuh8 lii dae5 sheu3 to5 lo3 bo3 sheu3` <sup>[东台]</sup>   
 1. 【[六月里过年——一半](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_iuh_lii_gu_nin_ieh_bun.md#六月里过年——一半)】`loh8 iuh8 lii gu5 nin2 ieh7 bun5` <sup>[东台]</sup>   
 1. 【[六月六](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_iuh_loh.md#六月六)】`loh8 iuh8 loh8` ① 黄瓜节。阴历六月初六日，进入小署，天气逐渐炎热，各种瓜果上市。这一天，百姓有吃黄瓜的习俗。民谣：“六月六，黄瓜打菜水绿绿。”<sup>\[如东\]</sup> ② 农历六月六，这一天有包饺子和暴晒寒衣的习俗。口语<sup>\[东台\]</sup>：“～，吃块焦糏长块肉。”<sup>\[东台\]</sup>  
-1. 【[六月心里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_iuh_xien_lii.md#六月心里)】`loh8 iuh8 xien1 lii` 农历六月里天气热的季节。<sup>\[东台\]</sup><sup>\[泰州\]</sup>：到乡里姨妈家去玩的日子有的是，何必要凑啊在六月心里去？<sup>\[泰州\]</sup>  
+1. 【[六月心里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_iuh_xien_lii.md#六月心里)】`loh8 iuh8 xien1 lii` <small>/lɔʔ8 yʊʔ8 ɕiŋ1 ləɪ/<sup>泰兴</sup></small> 农历六月里天气热的季节。<sup>\[东台\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：到乡里姨妈家去玩的日子有的是，何必要凑啊在六月心里去？<sup>\[泰州\]</sup>  
 1. 【[六月雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_iuh_xiuh.md#六月雪)】`loh8 iuh8 xiuh7` <small>/lɔʔ8 yʊʔ8 ɕyʊʔ7/<sup>如皋</sup></small> ① 茜草科植物六月雪，落叶小灌木，高约45厘米。<sup>\[如东\]</sup> ② 天星木。茜草科。盆景树。<sup>\[如皋\]</sup>  
 1. 【[六月债，还得快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_iuh_zhae_huaen_deh_kuae.md#六月债，还得快)】`loh8 iuh8 zhae5 huaen2 deh kuae5` <sup>[兴化]</sup> 俗语。六月接近秋收及中秋节前还账的日子。借指报复之速：“……～，他便借着弓鞋把你取笑一回……”（《四杰传》九六）  
 1. 【[六月债——还得快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_iuh_zhae_huaen_deh_kuae.md#六月债——还得快)】`loh8 iuh8 zhae5 huaen2 deh7 kuae5` <sup>[东台]</sup>   
+1. 【[六节子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_jih_zz.md#六节子)】`loh8 jih7 zz` <small>/lɔʔ8 t͡ɕiʔ7 t͡sɿ/<sup>泰兴</sup></small> 六指。<sup>\[泰兴\]</sup>  
 1. 【[六块板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_kuae_baen.md#六块板)】`loh8 kuae5 baen3` <small>/lɔʔ8 kʰuɛ5 pẽ3/<sup>如皋</sup></small> ① 见“槥”。<sup>\[如皋\]</sup> ② 棺材。<sup>\[如皋\]</sup>  
 1. 【[六腊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_laeh.md#六腊)】`loh8 laeh8` <sup>[兴化]</sup> ① 六月和腊月。 ② （借）一年中酷热和严寒的日子。古有“～不登舟”“～不交兵”之说：谚曰：～不出门，是个大福人。  
 1. 【[六腊不登楼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_laeh_beh_den_leu.md#六腊不登楼)】`loh8 laeh8 beh7 den1 leu2` <sup>[东台]</sup> 指楼上夏天热，冬天冷，不像平房冬暖夏凉。  
@@ -1991,6 +1992,7 @@
 1. 【[六人轴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_ren_choh.md#六人轴)】`loh8 ren2 choh8` <sup>[如皋]</sup> 六人踏的大号踏车轴，常与24杖的槽筒匹配。  
 1. 【[六十二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_sheh_er.md#六十二)】`loh8 sheh er6` <sup>[泰县]</sup> 男性生殖器。  
 1. 【[六十二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_sheh_er.md#六十二)】`loh8 sheh8 er6` <sup>[兴化]</sup> 六指儿，男阴的隐语。  
+1. 【[六十花甲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_sheh_hua_jiaeh_zz.md#六十花甲子)】`loh8 sheh8 hua1 jiaeh7 zz3` <small>/lɔʔ8 səʔ8 xuɑ1 t͡ɕiæʔ7 t͡sɿ3/<sup>泰兴</sup></small> 将天干和地支依次相配，可得从“甲子”到“癸亥”六十个不同的名称，因是错综组合，故名。<sup>\[泰兴\]</sup>  
 1. 【[六十子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_sheh_zz.md#六十子)】`loh8 sheh8 zz3` <sup>[如皋]</sup> 秋萝卜，生长期六十天。多以腌制萝卜干、萝卜鲞。  
 1. 【[六神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_shen.md#六神)】`loh8 shen2` <sup>[如东]</sup> 心、肺、肝、肾、脾、胆，称为六神。  
 1. 【[六神不安](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_shen_beh_un.md#六神不安)】`loh8 shen2 beh7 un1` <small>/lɔʔ8 sən2 pəʔ7 ũ1/<sup>兴化</sup></small> ① 心神不定。<sup>\[如东\]</sup> ② 同“肉神不安”。<sup>\[东台\]</sup> ③ 形容心神慌乱，烦躁<sup>\[兴化\]</sup>：伢儿又哭又闹，弄得人～的。<sup>\[兴化\]</sup> ④ 人之内心惊慌、烦燥不安，古人认为人的心、肺、肝、肾、脾、胆各有神灵主宰，称为六神<sup>\[泰州\]</sup>：前朝子财务科长捱反贪局带啊走啊后，我家一把手厂长就像有点儿～的样子，弄得不好他也有问题。<sup>\[泰州\]</sup> ⑤ 全家被干扰得无法安宁，取“门神、户尉神、井神、灶神、厕神、土地神六位宅神全部不安”之义<sup>\[泰州\]</sup>：他家老子葬吖好啊没得几天，三个儿子、两个姑娘就在家里为点儿家私搂得～。<sup>\[泰州\]</sup>  

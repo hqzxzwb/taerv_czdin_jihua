@@ -2059,10 +2059,12 @@
 1. 【[月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh.md#月)】`iuh8` ① 计时单位，公历一年有十二个月。<sup>\[如东\]</sup><sup>\[东台\]</sup> ② 月球，月亮。<sup>\[东台\]</sup>  
 1. 【[月饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh_bien.md#月饼)】`iuh8 bien3` ① 节令食品。面粉加工制成，圆形，有各种馅儿，如五仁、豆砂、枣泥等。中秋节食用。<sup>\[如东\]</sup> ② 圆形有馅的点心，中秋节的应时食品。<sup>\[东台\]</sup>  
 1. 【[月半](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh_bun.md#月半)】`iuh8 bun5` <sup>[东台]</sup> 一个月的第十五天，通常指阴历十五。  
+1. 【[月半](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh_bun.md#月半)】`iuh8 bun5` <small>/yʊʔ8 pʊ̃5/<sup>泰兴</sup></small> 农历每月十五。<sup>\[泰兴\]</sup>  
+1. 【[月半日子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh_bun_rih_zz.md#月半日子)】`iuh8 bun5 rih8-1 zz` <small>/yʊʔ8 pʊ̃5 iʔ8 t͡sɿ/<sup>泰兴</sup></small> 即“月半”，农历十五日<sup>\[泰兴\]</sup>  
 1. 【[月产病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh_chaen_pien.md#月产病)】`iuh8 chaen3 pien6` <sup>[兴化]</sup> 产褥热的俗称：他娘生小妹的时候，得～死的。  
 1. 【[月铲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh_chaen.md#月铲)】`iuh8 chaen3` <sup>[如皋]</sup> 铲体横截面呈新月形的切削工具：箍桶匠的～——暗𠛵（恨）。  
 1. 【[月城](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh_chen.md#月城)】`iuh8 chen2` 亦称瓮城，城外所筑半圆形的小城，用作掩护城门，加强防御之用，形如半月，故名。<sup>\[泰州\]</sup>  
-1. 【[月大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh_da.md#月大)】`iuh8 da6` ① 阴历一个月三十天，称月大。也叫大月。<sup>\[如东\]</sup> ② 农历三十天，阳历三十一天的月份。<sup>\[东台\]</sup> ③ 阴历指有30天的月份，阳历指有31天的月份<sup>\[泰州\]</sup>：这个月是～。<sup>\[泰州\]</sup>  
+1. 【[月大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh_da.md#月大)】`iuh8 da6` <small>/yʊʔ8 tɑ1/<sup>泰兴</sup></small> 阴历一个月三十天，称月大。或指阳历一个月有三十一天。<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：这个月是～。<sup>\[泰州\]</sup>  
 1. 【[月底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh_di.md#月底)】`iuh8 di3` <sup>[东台]</sup> 每个月最后的几天。  
 1. 【[月分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh_fen.md#月分)】`iuh8 fen1` <sup>[如皋]</sup> 指孕期：甚的～？～大、～小。  
 1. 【[月宫饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh_gon_bien.md#月宫饼)】`iuh8 gon1 bien3` <sup>[泰州]</sup> 泰州特产，一种专门用于祭月的大月饼，一般直径20厘米，大的可达30厘米。  
@@ -2071,17 +2073,18 @@
 1. 【[月光灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh_guan_den.md#月光灯)】`iuh8 guan1 den1` <sup>[泰县]</sup> 日光灯。  
 1. 【[月光糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh_guan_go.md#月光糕)】`iuh8 guan1 go1` <sup>[兴化]</sup> 中秋敬月光的圆形米糕，上有面捏小兔，并插有一面三角小旗——月光旗。  
 1. 【[月光娘娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh_guan_nian_nian.md#月光娘娘)】`iuh8 guan1 nian2 nian2` <sup>[如皋]</sup> 月神。传为嫦娥。  
+1. 【[月月红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh_iuh_hon.md#月月红)】`iuh8 iuh hon2` <small>/yʊʔ8 yʊʔ xɔŋ2/<sup>泰兴</sup></small> 谓每月都有收入。<sup>\[泰兴\]</sup>  
 1. 【[月季花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh_ji_hua.md#月季花)】`iuh8 ji5 hua1` <sup>[如东]</sup> 蔷薇科植物月季花，常绿直立灌木。枝圆柱形，有三棱形钩状皮刺。单数羽状复叶互生，边缘有锯齿。花簇生，红色或玫瑰色。果实卵形。生长在路旁或庭园栽培。  
 1. 【[月亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh_lian.md#月亮)】`iuh8 lian6` <sup>[如东]</sup> 月球，是围绕地球转动的卫星，表面凹凸不平，本身不发光，只能反射太阳光，直径约为地球的四分之一，引力相当于地球的六分之一。  
 1. 【[月亮下看影子——自看自大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh_lian_ha_kun_ien_zz_cz_kun_cz_da.md#月亮下看影子——自看自大)】`iuh8 lian6 ha6 kun5 ien3 zz cz6 kun5 cz6 da6` <sup>[东台]</sup>   
 1. 【[月老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh_lo.md#月老)】`iuh8 lo3` ① 中国远古时代，民间把月神作为主婚之神。所以，后世称男性媒人为月老。<sup>\[如东\]</sup> ② 月下老人的简称，旧指媒人，即现在的婚姻介绍人。<sup>\[东台\]</sup>  
 1. 【[月上吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh_shan_nga.md#月上吖)】`iuh8 shan nga` <sup>[如皋]</sup> 从前，原来，一向，一直。  
 1. 【[月上吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh_shan_nga.md#月上吖)】`iuh8 shan3 nga` <sup>[如皋]</sup> 原来、当初、一向。  
-1. 【[月头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh_teu.md#月头)】`iuh8 teu2` <sup>[东台]</sup> 每个月开头的几天。  
-1. 【[月小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh_xio.md#月小)】`iuh8 xio3` ① 阴历一个月二十九天，称月小。也叫小月。<sup>\[如东\]</sup> ② 农历二十九天，阳历三十天的月份。<sup>\[东台\]</sup> ③ 阴历有29天的月份，阳历有30天的月份<sup>\[泰州\]</sup>：这个月～。<sup>\[泰州\]</sup>  
+1. 【[月头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh_teu.md#月头)】`iuh8 teu2` <small>/yʊʔ8 tʰəɪ2/<sup>泰兴</sup></small> 每个月开头的几天。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>：～上<sup>\[泰兴\]</sup>  
+1. 【[月小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh_xio.md#月小)】`iuh8 xio3` <small>/yʊʔ8 ɕiɔ3/<sup>泰兴</sup></small> 阴历一个月二十九天。或指阳历一个月有三十天。<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：这个月～。<sup>\[泰州\]</sup>  
 1. 【[月晕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh_yen.md#月晕)】`iuh8 yen6` <sup>[如东]</sup> 月光通过云层中的冰晶时，经折射产生的光环现象，在月亮周围形成大圆环。月晕常被认为是天气变化的预兆。通称风圈，也叫月彄。  
 1. 【[月中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh_zhon.md#月中)】`iuh8 zhon1` <sup>[东台]</sup> 每个月当中几天。  
-1. 【[月子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh_zz.md#月子)】`iuh8 zz` <sup>[东台]</sup> 妇女生育后的第一个月：坐～。  
+1. 【[月子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh_zz.md#月子)】`iuh8 zz` <small>/yʊʔ8 t͡sɿ/<sup>泰兴</sup></small> 妇女生育后的第一个月<sup>\[东台\]</sup><sup>\[泰兴\]</sup>：坐～。<sup>\[东台\]</sup>｜坐～<sup>\[泰兴\]</sup>  
 1. 【[月子礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh_zz_li.md#月子礼)】`iuh8 zz li3` <sup>[如皋]</sup> 给产妇和婴儿送的礼。  
 1. 【[月子里头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh_zz_li_teu.md#月子里头)】`iuh8 zz li3 teu2` <sup>[如皋]</sup> 妇女生产后一个月内。  
 1. 【[月子病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh_zz_pien.md#月子病)】`iuh8 zz pien6` <sup>[泰州]</sup> 产妇在月子里，因不注意禁忌而落下的各种疾病。  

@@ -632,6 +632,8 @@
 1. 【[长头孙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_teu_suen_zz.md#长头孙子)】`zhan3 teu2 suen1 zz` <small>/t͡saŋ3 tʰɤ2 suən1 t͡sɿ/<sup>兴化</sup></small> ① 长房大孙子。<sup>\[东台\]</sup> ② 长房长孙。<sup>\[兴化\]</sup> ③ 也指排行最大的孙子。<sup>\[兴化\]</sup>  
 1. 【[长尾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_vei_zz.md#长尾子)】`zhan3 vei3 zz` <small>/t͡saŋ3 uəi3 t͡sɿ/<sup>兴化</sup>, /t͡sã3 ʋei3 t͡sɿ/<sup>如皋</sup>, /t͡sɑŋ3 ʋəɪ3 t͡se/<sup>泰县</sup></small> ① ［喻］过生日。多指小孩。<sup>\[东台\]</sup> ② 戏谓小儿过生日。<sup>\[兴化\]</sup> ③ 过生日。<sup>\[泰县\]</sup> ④ 趣指小孩过生日。<sup>\[如皋\]</sup> ⑤ 谑词，谑指小孩子过生日，指小孩子长大一岁，屁股后面的尾巴长长了。<sup>\[泰州\]</sup>  
 1. 【[长相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_xian.md#长相)】`zhan3 xian5` <sup>[如东]</sup> ① 人的相貌：她的～好。 ② 种植的方式方法：玉米怎吖～？  
+1. 【[长相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_xian.md#长相)】`zhan3 xian5` <small>/t͡sɑŋ3 ɕiɑŋ5/<sup>泰兴</sup></small> 相貌。<sup>\[泰兴\]</sup>  
+1. 【[长兄为父](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_xion_vei_fv.md#长兄为父)】`zhan3 xion1 vei2 fv6` <small>/t͡sɑŋ3 ɕiɔŋ1 ʋəɪ2 fʋ1/<sup>泰兴</sup></small> 长兄是父母的得力助手，承担的家事很多，所以尊重长兄要像尊敬父辈一样。<sup>\[泰兴\]</sup>  
 1. 【[长云](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_yen.md#长云)】`zhan3 yen2` <small>/t͡sã3 yəŋ2/<sup>如皋</sup></small> ① 云层渐多渐厚。<sup>\[如皋\]</sup> ② 目生瞖，又称上膜络儿、上𣋟曪。<sup>\[如皋\]</sup> ③ 天空中出现了云层。<sup>\[如东\]</sup> ④ 比喻眼球上产生了翳障。<sup>\[如东\]</sup>  
 1. 【[长朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_zho.md#长朝)】`zhan3 zho1` <sup>[兴化]</sup> 指生意最好的一天：小茶馆～的一天卖啊一百多笼点心。  
 1. 【[长志](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_zhr.md#长志)】`zhan3 zhr5` <small>/t͡saŋ3 t͡sɿ5/<sup>兴化</sup></small> ① 助长坏习气<sup>\[兴化\]</sup>：他这吖调皮，你不管他，反而给他～。<sup>\[兴化\]</sup> ② 助长他人志气<sup>\[泰州\]</sup>：这件事你必须管，不能让他～。<sup>\[泰州\]</sup>  
@@ -1077,10 +1079,9 @@
 1. 【[竹帘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_lin_zz.md#竹帘子)】`zhoh lin2 zz` <sup>[如皋]</sup> 门窗用的竹丝扼成的卷帘。  
 1. 【[□气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_qi.md#□气)】`zhoh7 qi5` <sup>[东台]</sup> 傍晚的气体，与早晨阳气上升相对。  
 1. 【[㔉田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_tin.md#㔉田)】`zhoh7 tin2` <sup>[东台]</sup> 用锄头或钉耙翻地。  
-1. 【[劚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh.md#劚)】`zhoh7` <sup>[如皋]</sup> ① 用钉钯翻土：～田、～番芋、～花生。 ② 用短柄锄斫挖：～玉米稭儿。  
 1. 【[劚锄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_chv.md#劚锄)】`zhoh7 chv2` <sup>[如皋]</sup> 短柄锄，收割时用以斫断高秆禾的根部。  
 1. 【[喌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh.md#喌)】`zhoh7` <sup>[泰州]</sup> 唤鸡声：～，～，～。  
-1. 【[斸/劚/㔉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh.md#斸/劚/㔉)】`zhoh7` <sup>[泰州]</sup> ① 用钉筢等有铁齿的器具翻地：岂知斸地种田家，官税频催没人织。（李贺《嘲少年》）｜幽人不喜凡草生，秋锄劚得寒青青。（李咸用《小松歌》）｜把田～下子。 ② 比喻取得极难取得的某种成绩或成功：他买的彩票中吖大奖，真的捱他～住唻。  
+1. 【[斸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh.md#斸)】`zhoh7` <small>/t͡sɔʔ7/<sup>如皋</sup></small> ① 用有齿或钩的一端，斫击或挖、拉\[如东：杆子由上往下用力着地，叫筑。\]\[泰州：用钉筢等有铁齿的器具翻地\]\[如皋：用钉钯翻土、用短柄锄斫挖\]：岂知斸地种田家，官税频催没人织。（李贺《嘲少年》）<sup>\[泰州\]</sup>｜幽人不喜凡草生，秋锄劚得寒青青。（李咸用《小松歌》）<sup>\[泰州\]</sup>｜把田～下子。<sup>\[泰州\]</sup>｜～田、～番芋、～花生<sup>\[如皋\]</sup>｜～玉米稭儿<sup>\[如皋\]</sup> ② 比喻取得极难取得的某种成绩或成功<sup>\[泰州\]</sup>：他买的彩票中吖大奖，真的捱他～住唻。<sup>\[泰州\]</sup> ③ 颠簸。<sup>\[如东\]</sup>：车子～咖～的。<sup>\[如东\]</sup>  
 1. 【[灟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh.md#灟)】`zhoh7` <sup>[如皋]</sup> 清洗局部污点：～血斑。  
 1. 【[烛花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_hua.md#烛花)】`zhoh7 hua1` <sup>[东台]</sup> 烛芯烧焦结成花状物。旧时认为出现～将有喜事。  
 1. 【[烛台](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_tae.md#烛台)】`zhoh7 tae2` <small>/t͡sɔʔ7 tʰɛ2/<sup>如皋</sup></small> ① 插本蜡烛的灯台。旧时多用锡造，置于圣柜上，敬神敬祖用。<sup>\[如皋\]</sup> ② 插蜡烛的器具。<sup>\[东台\]</sup>  
@@ -1130,7 +1131,7 @@
 1. 【[竹笋科箬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_xyen_kuh_rah.md#竹笋科箬)】`zhoh7 xyen3 kuh7 rah8` <sup>[如皋]</sup> 竹笋的外包箬。  
 1. 【[竹桌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_zhuah_r.md#竹桌<sub>儿</sub>)】`zhoh7 zhuah7 r` <sup>[如皋]</sup> 旧时厨房常用，价廉。毛竹为架，竹片串扼成板状物，装配成高脚碗厨儿，上为木板面。  
 1. 【[筑仇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_cheu.md#筑仇)】`zhoh7 cheu2` <small>/t͡sɔʔ7 t͡sʰei2/<sup>如皋</sup></small> ① 结成仇恨<sup>\[如皋\]</sup>：你不能得罪他，他要同你～！<sup>\[如皋\]</sup> ② 制造仇恨。<sup>\[如东\]</sup>：不能～。<sup>\[如东\]</sup> ③ 记仇。<sup>\[如东\]</sup>：不要～。<sup>\[如东\]</sup>  
-1. 【[篫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh.md#篫)】`zhoh7` <small>/t͡sɔʔ7/<sup>兴化</sup></small> ① 杆子由上往下用力着地，叫筑。<sup>\[如东\]</sup> ② 以手在物体表面划弄，梳理<sup>\[兴化\]</sup>：他用手指～头发。<sup>\[兴化\]</sup>｜用手把皮毛、絮棉～～。《集韵·屋韵》张六切“～，以手～物”。<sup>\[兴化\]</sup> ③ 颠簸。<sup>\[如东\]</sup>：车子～咖～的。<sup>\[如东\]</sup>  
+1. 【[篫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh.md#篫)】`zhoh7` <small>/t͡sɔʔ7/<sup>兴化</sup></small> 以手在物体表面划弄，梳理。《集韵·屋韵》张六切“～，以手～物”。<sup>\[兴化\]</sup>：他用手指～头发。<sup>\[兴化\]</sup>｜用手把皮毛、絮棉～～。<sup>\[兴化\]</sup>  
 1. 【[篫里篫气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_lii_zhoh_qi.md#篫里篫气)】`zhoh7 lii zhoh7 qi5` <sup>[东台]</sup> 说话的口吻不和顺。  
 1. 【[粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh.md#粥)】`zhoh7` <sup>[如东]</sup> 用粮食煮成半流汁，多在早餐食用。  
 1. 【[粥巴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_ba_zz.md#粥巴子)】`zhoh7 ba1 zz` <small>/t͡sɔʔ7 pa1 t͡sɿ/<sup>如皋</sup></small> ① 粥汁干后的残迹，锅、碗、衣服上常见。<sup>\[如皋\]</sup> ② 粘在锅上的粥液干结物。<sup>\[如东\]</sup>  

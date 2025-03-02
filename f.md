@@ -207,14 +207,16 @@
 1. 【[矾石](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_sheh.md#矾石)】`faen2 sheh8` <sup>[如皋]</sup> 白矾石。多用于碑刻。  
 1. 【[繁华](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_hua.md#繁华)】`faen2 hua2` <sup>[如皋]</sup> 指女性性关系乱：她太～，啊狠吖不得了。  
 1. 【[繁杂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_zaeh.md#繁杂)】`faen2 zaeh7` <sup>[东台]</sup> 多而杂乱：～的家务劳动。  
-1. 【[反巴掌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_ba_zhan.md#反巴掌)】`faen3 ba1 zhan` <small>/fɛ̃3 pa1 t͡saŋ/<sup>兴化</sup></small> ① 武功招数<sup>\[兴化\]</sup>：只见那女子不慌不忙把右手从下往上一翻……吧，只一个～……（《儿女英雄传》六）<sup>\[兴化\]</sup> ② （借）反击<sup>\[兴化\]</sup>：他一个～把对方的话顶吖回头。<sup>\[兴化\]</sup> ③ 以他人的话为由，顺势对他人进行打击<sup>\[泰州\]</sup>：你这话回得不好，送把他打你～。<sup>\[泰州\]</sup>  
+1. 【[反巴掌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_ba_zhan.md#反巴掌)】`faen3 ba1 zhan` <small>/fɛ̃3 pa1 t͡saŋ/<sup>兴化</sup>, /fɛ̃3 pɑ1 t͡sɑŋ/<sup>泰兴</sup></small> ① 武功招数<sup>\[兴化\]</sup>：只见那女子不慌不忙把右手从下往上一翻……吧，只一个～……（《儿女英雄传》六）<sup>\[兴化\]</sup> ② （借）反击<sup>\[兴化\]</sup>：他一个～把对方的话顶吖回头。<sup>\[兴化\]</sup> ③ 以他人的话为由，顺势对他人进行打击<sup>\[泰州\]</sup>：你这话回得不好，送把他打你～。<sup>\[泰州\]</sup> ④ 提出反对或反面的意见。<sup>\[泰兴\]</sup>：他就是欢喜打反巴掌。<sup>\[泰兴\]</sup>  
 1. 【[反扳弓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_baen_gon.md#反扳弓)】`faen3 baen1 gon1` <sup>[如皋]</sup> 脊柱后弯。  
 1. 【[反绑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_ban.md#反绑)】`faen3 ban3` <sup>[如皋]</sup> 见“背绑”。  
 1. 【[反抽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_cheu.md#反抽)】`faen3 cheu1` <sup>[如皋]</sup> 手背或季手攉嘴巴子。  
 1. 【[反齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_chr.md#反齿)】`faen3 chr3` <small>/fɛ̃3 t͡sʰɿ3/<sup>兴化</sup>, /fɛ̃3 t͡sʰɿ3/<sup>泰县</sup></small> ① 推翻原来说的话<sup>\[兴化\]</sup>：《扬州说书选·闯昭关》中有“他来求你，你可反齿”句。<sup>\[兴化\]</sup> ② 不承认<sup>\[泰县\]</sup>：你前朝才答应帮我忙的，今朝怎吖就～啦！<sup>\[泰县\]</sup>  
 1. 【[反滴水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_dieh_shuei.md#反滴水)】`faen3 dieh7 shuei3` <sup>[如东]</sup> 踏步床前边的装饰物，方柱形，一般雕花镶金。  
 1. 【[反而](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_er.md#反而)】`faen3 er2` <sup>[泰州]</sup> 表示与初衷相反或者出乎意料。  
+1. 【[反过钉耙斸天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_gu_dien_pa.md#反过钉耙斸天)】`faen3 gu5 dien1 pa zhoh7 tin1` <small>/fɛ̃3 kɤɯ5 tiŋ1 pʰɑ t͡sɔʔ7 tʰĩ1/<sup>泰兴</sup></small> 喻亏理者反诬有理者，企图占上风。犹“倒打一耙”。<sup>\[泰兴\]</sup>：现在他竟～，不放我过身。<sup>\[泰兴\]</sup>  
 1. 【[反卦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_gua.md#反卦)】`faen3 gua5` <sup>[兴化]</sup> 改变原来的意见、承诺等：三哥养鱼得利，村里突然～，鱼塘不让他承包啊。  
+1. 【[反骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_gueh.md#反骨)】`faen3 gueh7` <small>/fɛ̃3 kuəʔ7/<sup>泰兴</sup></small> 谓有反叛的骨相，乡人常用作骂不听正确意见者。<sup>\[泰兴\]</sup>  
 1. 【[反喉咙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_heu_lon.md#反喉咙)】`faen3 heu2 lon2-3` <sup>[东台]</sup> 唱歌时声音高低不准，音律不齐。也称“左嗓子”。  
 1. 【[反话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_hua.md#反话)】`faen3 hua6` <sup>[泰州]</sup> 故意说出的与本意相反的话：这小伙是个大木瓜，人家同他说的～都听不出来。  
 1. 【[反沿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_in_zz.md#反沿子)】`faen3 in2 zz` <sup>[如皋]</sup> 锅、碗等器物的边延外翻。  
@@ -230,6 +232,7 @@
 1. 【[反跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_qio.md#反跷)】`faen3 qio1` <sup>[泰县]</sup> 别扭、刁难：你这事不应该跟他～。  
 1. 【[反撬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_qio.md#反撬)】`faen3 qio5` <sup>[兴化]</sup> （喻）唱反调，闹别扭：个个朝南拜，他朝北拜，硬要～。  
 1. 【[反噍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_qio.md#反噍)】`faen3 qio6` <sup>[泰县]</sup> 牛吃草反刍。  
+1. 【[反犬帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_qiun_ban.md#反犬帮)】`faen3 qiun3 ban1` <small>/fɛ̃3 t͡ɕʰyʊ̃3 pɑŋ1/<sup>泰兴</sup></small> 汉字偏旁之一，“犭”。<sup>\[泰兴\]</sup>  
 1. 【[反如](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_rv.md#反如)】`faen3 rv2` <small>/fɛ̃3 lu2/<sup>兴化</sup>, /fẽ3 ɻu2/<sup>如皋</sup>, /fɛ̃3 ɻu2/<sup>泰兴</sup>, /fɛ̃3 ɻu2/<sup>泰县</sup></small> 反而<sup>\[泰县\]</sup>：大的学习～不如细点儿啊。｜你这吖说，～让他为难。<sup>\[泰县\]</sup>  
 1. 【[反绱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_shan.md#反绱)】`faen3 shan6` <sup>[兴化]</sup> 绱鞋工艺：先从反面将鞋底、鞋帮缝合，然后翻转成型。  
 1. 【[反手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_sheu.md#反手)】`faen3 sheu3` <small>/fɛ̃3 sɤ3/<sup>兴化</sup>, /fẽ3 sei3/<sup>如皋</sup></small> ① 用手背出击。<sup>\[如东\]</sup>：～一击。<sup>\[如东\]</sup> ② 左手，手背方向。<sup>\[如皋\]</sup> ③ 通常指左手。<sup>\[兴化\]</sup> ④ 左手，相对“正手”为右手<sup>\[泰州\]</sup>：他的～比正手劲大。<sup>\[泰州\]</sup>  
@@ -237,6 +240,7 @@
 1. 【[反堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_tan.md#反堂)】`faen3 tan2` <small>/fɛ̃3 tʰaŋ2/<sup>兴化</sup></small> ① 病情反复<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：他吃咖先生的方子先倒不丑，哪晓得下半夜突然～。<sup>\[兴化\]</sup>｜他早上吃咖点药，精神好啊些，哪晓得晚上又～，赶紧送吖上医院。<sup>\[泰州\]</sup> ② 翻盘<sup>\[兴化\]</sup>：昨子才定下来的事，今吖又～。<sup>\[兴化\]</sup>  
 1. 【[反悟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_v.md#反悟)】`faen3 v6` <sup>[泰州]</sup> 与本义相反的理解或者领会：你弄吖～啊唻，他不是这个意思。｜他是帮你说话，你不见情，还要怪他多嘴，真是～啊唻。  
 1. 【[反王](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_van.md#反王)】`faen3 van2` <sup>[如皋]</sup> 不受约束任性妄为犯上的人。  
+1. 【[反胃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_vei.md#反胃)】`faen3 vei5` <small>/fɛ̃3 ʋəɪ5/<sup>泰兴</sup></small> 咽下食物后，有恶心、呕吐症状。喻腻烦、厌恶。<sup>\[泰兴\]</sup>  
 1. 【[反文](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_ven.md#反文)】`faen3 ven2` <sup>[兴化]</sup> 汉字偏旁，形状是“攵”。  
 1. 【[反性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_xien.md#反性)】`faen3 xien5` <sup>[如皋]</sup> ① 好天气变为坏天气。 ② 见“转性”。  
 1. 【[反汛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_xien.md#反汛)】`faen3 xien5` <sup>[如东]</sup> 天气突然变化，出现暴风或大潮等现象，叫做反汛。  

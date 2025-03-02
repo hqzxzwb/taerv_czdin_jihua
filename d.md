@@ -1714,6 +1714,7 @@
 1. 【[碇子网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_zz_van.md#碇子网)】`dien5 zz van3` <sup>[如东]</sup> 一种捕鱼网具。网片长方形，长约5丈，宽约1丈，细线结成，比较柔软。网底装碇子（石块或铁块），上部装泡儿（浮子）。作业时，十几张网连在一起，放入海洋里，像墙一样，利用潮水涨落现象，使鱼、蟹撞网，卡在网眼上，从而捕取。  
 1. 【[订鞋底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_hae_di.md#订鞋底)】`dien5 hae2 di3` <sup>[泰州]</sup> 用大针粗线缝实布鞋底板。  
 1. 【[订婚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_huen.md#订婚)】`dien5 huen1` <sup>[如东]</sup> 确定婚姻关系，叫做订婚。  
+1. 【[订亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_qien.md#订亲)】`dien5 qien1` <small>/tiŋ5 t͡ɕʰiŋ1/<sup>泰兴</sup></small> 订婚。<sup>\[泰兴\]</sup>  
 1. 【[钉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien.md#钉)】`dien5` ① 将钉状物扎入其他物之中<sup>\[泰州\]</sup>：在墙上～个钢钉挂镜框子。<sup>\[泰州\]</sup> ② 装订图书成册<sup>\[泰州\]</sup>：你帮他～几本作业本子。<sup>\[泰州\]</sup> ③ 缝补<sup>\[泰州\]</sup>：这件衣裳上～吖两个大补丁。<sup>\[泰州\]</sup> ④ 用线缝缀两片以上织物<sup>\[泰州\]</sup>：你帮他把衣裳上的纽子～下子。<sup>\[泰州\]</sup>  
 1. 【[钉船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_chun.md#钉船)】`dien5 chun2` <sup>[如东]</sup> 建造新船。  
 1. 【[钉钉如木](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_dien_rv_moh.md#钉钉如木)】`dien5 dien1 rv2 moh8` <sup>[如东]</sup> 像在木头上钉钉一样。比喻非常认真：处理家务事情不要～的。  
