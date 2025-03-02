@@ -560,7 +560,6 @@
 1. 【[着躁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chah_zo.md#着躁)】`chah8 zo5` <sup>[兴化]</sup> 发急：不要～，有话慢慢说。｜先生～地说：“……快替我把他喊上来！”（兴文《吴生生的故事》）  
 1. 【[伥神鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_shen_guei.md#伥神鬼)】`chan1 shen guei3` <sup>[泰兴]</sup> 传说中身材高大的鬼，讥人个子太高。  
 1. 【[伥神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_shen.md#伥神)】`chan1 shen2` <sup>[兴化]</sup> 传说中长腿长臂的鬼神：他1.85的瘦高个儿，长得像个～。  
-1. 【[撑行市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_han_shr.md#撑行市)】`chan1 han2 shr6` <sup>[泰州]</sup> 由于新的商家加入使得市场饱和，导致价格下降而影响同行的生意：这块的饭店已经不少唻，你就不要再来～唻。  
 1. 【[猖毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_mo.md#猖毛)】`chan1 mo2` <sup>[如东]</sup> ① 毛羽张开来了。 ② 犯脾气：你把他弄～啊。  
 1. 【[猖毛狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_mo_geu.md#猖毛狗)】`chan1 mo2 geu3` <sup>[如东]</sup> ① 狗的一种。身上生长着蓬松的毛。 ② 比喻人的头发蓬乱：头发像～一样的。 ③ 此喻人穿的衣服褴褛：穿得像～一样。  
 1. 【[菖蒲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_pv.md#菖蒲)】`chan1 pv2` <sup>[东台]</sup> 草本植物，叶子像剑，根茎可做香料，也可入药。民间有端午节插艾草和～的风俗。  
@@ -761,6 +760,7 @@
 1. 【[撑撑相相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_chen_xian_xian.md#撑撑相相)】`chen1 chen1 xian5 xian5` <small>/t͡sʰən1 t͡sʰən1 ɕiaŋ5 ɕiaŋ5/<sup>兴化</sup>, /t͡sʰəŋ1 t͡sʰəŋ1 ɕiã5 ɕiã5/<sup>如皋</sup></small> ① 悠闲地站站看看。<sup>\[如皋\]</sup> ② 见“撑吖相的”。<sup>\[兴化\]</sup>  
 1. 【[撑饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_faen.md#撑饭)】`chen1 faen6` <sup>[如东]</sup> 饭吃饱了，还要再吃。多指小孩：小明就会～。  
 1. 【[撑行市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_han_shr.md#撑行市)】`chen1 han2 shr6` <sup>[兴化]</sup> 占了同行的生意买卖：我的洗染店刚刚开张，你又在隔壁开一家，不是～啊？  
+1. 【[撑行市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_han_shr.md#撑行市)】`chen1 han2 shr6` <sup>[泰州]</sup> 由于新的商家加入使得市场饱和，导致价格下降而影响同行的生意：这块的饭店已经不少唻，你就不要再来～唻。  
 1. 【[撑野篙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_ia_go.md#撑野篙)】`chen1 ia3 go1` <small>/t͡sʰəŋ1 ia3 kɔ1/<sup>如皋</sup></small> ① 说话避开正题，绕圈子。<sup>\[如皋\]</sup> ② 喻会谈时不愿靠拢，所提要求过分。<sup>\[如皋\]</sup>  
 1. 【[撑檐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_in.md#撑檐)】`chen1 in2` <sup>[如东]</sup> 房屋檐头下面的柱子，有前撑檐和后撑檐两种。  
 1. 【[撑腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_io.md#撑腰)】`chen1 io1` ① 比喻给予有力的支持。<sup>\[如东\]</sup>：我匃你～。<sup>\[如东\]</sup> ② ［喻］给予强有力的支持。<sup>\[东台\]</sup>  

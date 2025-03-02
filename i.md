@@ -334,7 +334,7 @@
 1. 【[扬风车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_fon_cha.md#扬风车)】`ian2 fon1 cha1` <sup>[泰县]</sup> 用风力提水的水车。  
 1. 【[扬𠵹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_gan.md#扬𠵹)】`ian2 gan1` <small>/iaŋ2 kaŋ1/<sup>兴化</sup>, /iã2 kã1/<sup>如皋</sup>, /iɑŋ2 kɑŋ1/<sup>泰县</sup></small> ① 造舆论、造气氛，扬言<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：他～要告你，这是讹诈，你不要买账。<sup>\[如皋\]</sup>｜那家伙不服管理，～还要闹事。<sup>\[东台\]</sup>｜老田～，这次不分房子把他，就找头头的麻烦。<sup>\[兴化\]</sup>｜他在～要打你啦。<sup>\[泰县\]</sup>｜他在外头～，哪个敢拆他房子他就同哪个拼命。<sup>\[泰州\]</sup>｜老头子～吖几回唻，哪个代他把二十万的债坏掉，就把姑娘把哪个。<sup>\[泰州\]</sup> ② 事前造的舆论。<sup>\[东台\]</sup>  
 1. 【[扬花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_hua.md#扬花)】`ian2 hua1` <sup>[如东]</sup> ① 植物放花受精。 ② 女人在外面的轻佻行为：她经常在外头～。  
-1. 【[扬一擓二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ieh_kuae_er.md#扬一擓二)】`ian2 ieh7 kuae3 er6` <sup>[泰州]</sup> 人在得意之极时的举止轻浮样子：你哿能好好的走路啊，这吖大的人唻，～的，人家望吖像个甚的样子。  
+1. 【[扬一㧟二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ieh_kuae_er.md#扬一㧟二)】`ian2 ieh7 kuae3 er6` <sup>[泰州]</sup> 人在得意之极时的举止轻浮样子：你哿能好好的走路啊，这吖大的人唻，～的，人家望吖像个甚的样子。  
 1. 【[扬口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_keu.md#扬口)】`ian2 keu3` <sup>[东台]</sup> 贝类动物出水后开口，即外壳微微张开。  
 1. 【[扬麦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_moh.md#扬麦)】`ian2 moh8` <sup>[如东]</sup> 麦子打下来后，用畚箕畚着放在风中向下撒，把麦壳麦芒吹掉，这种劳动叫扬麦。  
 1. 【[扬犟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_qian.md#扬犟)】`ian2 qian` <sup>[兴化]</sup> 即小儿撒娇：快点儿去睡觉，覅～。  
@@ -656,8 +656,8 @@
 1. 【[一打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_da.md#一打)】`ieh7 da3` <sup>[泰兴]</sup> 12个称为一打，为英语音译。火柴十盒为一打。  
 1. 【[一打头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_da_teu.md#一打头)】`ieh7 da3 teu2` <sup>[兴化]</sup> 刚开始的时候：他俫两个人～关系就不好。  
 1. 【[一大串](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_da_chun.md#一大串)】`ieh7 da6 chun5` <sup>[如东]</sup> 很长的一串。  
+1. 【[一大浪趟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_da_lan_tan.md#一大浪趟)】`ieh7 da6 lan6 tan5` <sup>[泰州]</sup> 纷乱而拥挤的一大群人：上午信访局大门口围啊～人，听人家说可能是哪个厂里下岗的工人在下上访。  
 1. 【[一大蛮片](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_da_maen_pin.md#一大蛮片)】`ieh7 da6 maen2 pin5` <sup>[东台]</sup> 很大的一块地方。  
-1. 【[一大攘趟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_da_nan_tan.md#一大攘趟)】`ieh7 da6 nan6 tan5` <sup>[泰州]</sup> 纷乱而拥挤的一大群人：上午信访局大门口围啊～人，听人家说可能是哪个厂里下岗的工人在下上访。  
 1. 【[一大片](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_da_pin.md#一大片)】`ieh7 da6 pin5` <sup>[如东]</sup> 面积很大的一块：黄豆晒啊～。  
 1. 【[一大期](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_da_qi.md#一大期)】`ieh7 da6 qi1` <sup>[东台]</sup> 好大一会儿工夫。  
 1. 【[一大气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_da_qi.md#一大气)】`ieh7 da6 qi5` <small>/iəʔ7 ta6 t͡ɕʰi5/<sup>兴化</sup></small> ① 一阵子，一段时间<sup>\[兴化\]</sup>：我追啊～也不曾追得上。<sup>\[兴化\]</sup>｜香莲吃了早饭，编了～芦席……那边门就开了。（钱国怀《献上一枝白玫瑰》）<sup>\[兴化\]</sup> ② 好长一阵时间<sup>\[泰州\]</sup>：你忙吖～唻，坐啊来歇咖子。<sup>\[泰州\]</sup>  
@@ -942,7 +942,7 @@
 1. 【[一气上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_qi_shan.md#一气上)】`ieh7 qi5 shan` <sup>[泰兴]</sup> 一下子，一次性，连续进行：箇个伢儿才三岁，～数啊100个。  
 1. 【[一气上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_qi_shan.md#一气上)】`ieh7 qi5 shan6` <small>/iəʔ7 t͡ɕʰi5 saŋ6/<sup>兴化</sup></small> ① 一下子，一口气<sup>\[东台\]</sup>：～做啊十个俯卧撑<sup>\[东台\]</sup>｜～用掉几千块。<sup>\[东台\]</sup> ② 快速、不间断地<sup>\[兴化\]</sup>：买点东西家来，你～就吃掉啊。<sup>\[兴化\]</sup>｜你先～把作业做完吖，然后再厌不迟。<sup>\[兴化\]</sup> ③ 一口气也不停顿地做某事<sup>\[泰州\]</sup>：大家再坚持一刻儿，～把剩下来的这几台空调装吖好啊再下班。<sup>\[泰州\]</sup>  
 1. 【[一吃带一㧟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_qieh_dae_ieh_kuae.md#一吃带一㧟)】`ieh7 qieh dae5 ieh7 kuae6` <sup>[泰兴]</sup> 除了吃之外，还要带走一些（东西）：他箇个人不管到哪块，总是～，我就不好意思。  
-1. 【[一吃一擓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_qieh_ieh_kuae.md#一吃一擓)】`ieh7 qieh7 ieh7 kuae3` <sup>[泰州]</sup> 客人在主人家吃过以后带着主人所馈赠的礼物告辞回家：人家这吖客气，你俫到人家～，哿有点不好意思啊。  
+1. 【[一吃一㧟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_qieh_ieh_kuae.md#一吃一㧟)】`ieh7 qieh7 ieh7 kuae3` <sup>[泰州]</sup> 客人在主人家吃过以后带着主人所馈赠的礼物告辞回家：人家这吖客气，你俫到人家～，哿有点不好意思啊。  
 1. 【[一吃一㧟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_qieh_ieh_kuae.md#一吃一㧟)】`ieh7 qieh7 ieh7 kuae6` <sup>[兴化]</sup> 作客以后还接受馈赠：这次下乡玩吖三天，～，临了还带家来两只鸡子。  
 1. 【[一吃一添](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_qieh_ieh_tin.md#一吃一添)】`ieh7 qieh7 ieh7 tin1` <sup>[兴化]</sup> 就餐时给一人送上两碗饭：丫环捧着雪花白米饭，～，放于秦重面前……（《醒世恒言》三）  
 1. 【[一吃嘴一抹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_qieh_jy_ieh_maeh.md#一吃嘴一抹)】`ieh7 qieh7 jy3 ieh7 maeh8` <sup>[东台]</sup> 戏指白吃一顿，什么账也没有算。  

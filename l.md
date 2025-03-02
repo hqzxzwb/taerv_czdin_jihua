@@ -1760,7 +1760,7 @@
 1. 【[老酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_jieu.md#老酒)】`lo3 jieu3` <sup>[兴化]</sup> 酒：他喜欢喝～，吃猪头肉。  
 1. 【[老趼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_jin.md#老趼)】`lo3 jin3` <sup>[如皋]</sup> 着力处生成的角质厚皮。  
 1. 【[老交](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_jio.md#老交)】`lo3 jio1` <small>/lɔ3 t͡ɕiɔ1/<sup>兴化</sup></small> ① 深交，老朋友，老交情。<sup>\[东台\]</sup> ② 老朋友、老相交<sup>\[兴化\]</sup>：那合家欢照片上的蓝珍，就是关新仁的～一一他俩相识已四十六个春秋。（马春阳《昏迷再婚谜》）<sup>\[兴化\]</sup>  
-1. 【[老交情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_jio_qien.md#老交情)】`lo3 jio1 qien1` <sup>[泰州]</sup> 经过较长时间交往而建立的感情。  
+1. 【[老交情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_jio_qien.md#老交情)】`lo3 jio1 qien` <sup>[泰州]</sup> 经过较长时间交往而建立的感情。  
 1. 【[老居](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_jy.md#老居)】`lo3 jy1` <sup>[东台]</sup> 手艺老练，经验丰富的人。  
 1. 【[老车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_jy.md#老车)】`lo3 jy1` <sup>[如皋]</sup> 摆老资格的人。  
 1. 【[老鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_jy.md#老鬼)】`lo3 jy3` <sup>[兴化]</sup> （音“老举”）老经验：他周正本事没得，吃花酒，洗桑拿是～。  

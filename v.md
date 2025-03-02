@@ -17,7 +17,7 @@
 1. 【[乌龟吃秤砣——铁咖心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_guei_qieh_chen_tu_tih_ga_xien.md#乌龟吃秤砣——铁咖心)】`v1 guei1 qieh7 chen5 tu2 tih7 ga xien1` <sup>[东台]</sup>   
 1. 【[乌龟吃大麦——活窖作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_guei_qieh_da_moh_huh_go_zah.md#乌龟吃大麦——活窖作)】`v1 guei1 qieh7 da6 moh8——huh8 go5 zah7` <sup>[如皋]</sup> 不应吃大麦，实在是浪费。  
 1. 【[乌龟吃馓子——自绕头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_guei_qieh_saen.md#乌龟吃馓子——自绕头)】`v1 guei1 qieh7 saen3 zz cz6 ro6 teu2` <sup>[东台]</sup>   
-1. 【[乌龟吃馓子，私家套住头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_guei_qieh_saen.md#乌龟吃馓子，私家套住头)】`v1 guei1 qieh7 saen3 zz sz1 ga to5 chv5 teu2` <small>/ʋ1 kuəɪ1 t͡ɕʰiəʔ7 ɕiɛ̃3 t͡sɿ sɿ1 kɑ tʰɔ5 t͡sʰu5 tʰəɪ2/<sup>泰兴</sup></small> 喻自己给自己出难题、上了自己的当。<sup>\[泰兴\]</sup>  
+1. 【[乌龟吃馓子，私家套住头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_guei_qieh_saen.md#乌龟吃馓子，私家套住头)】`v1 guei1 qieh7 saen3 zz sz1 ga to5 chv teu2` <small>/ʋ1 kuəɪ1 t͡ɕʰiəʔ7 ɕiɛ̃3 t͡sɿ sɿ1 kɑ tʰɔ5 t͡sʰu tʰəɪ2/<sup>泰兴</sup></small> 喻自己给自己出难题、上了自己的当。<sup>\[泰兴\]</sup>  
 1. 【[乌龟台子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_guei_tae_zz.md#乌龟台子)】`v1 guei1 tae2 zz` <small>/ʋ1 kuəɪ1 tʰɛ2 t͡sɿ/<sup>泰兴</sup></small> 谓六个人坐方桌，其中有相对的两面各只坐一人，称一人为龟头，一人为龟尾，十分不雅，乡人称之“乌龟台子”，故习俗不作此座。<sup>\[泰兴\]</sup>  
 1. 【[乌龟垫床脚——硬撑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_guei_tin_chuan_jiah_ngen_chen.md#乌龟垫床脚——硬撑)】`v1 guei1 tin6 chuan2 jiah7——ngen6 chen1` <sup>[如皋]</sup> 力所不能及，自找苦吃。  
 1. 【[乌龟垫床脚——硬撑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_guei_tin_chuan_jiah_ngen_chen.md#乌龟垫床脚——硬撑)】`v1 guei1 tin6 chuan2 jiah7 ngen6 chen1` <sup>[东台]</sup>   

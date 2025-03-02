@@ -1649,7 +1649,7 @@
 1. 【[黄澄澄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_den_den.md#黄澄澄)】`huan2 den1 den1` <sup>[如东]</sup> 黄色鲜艳：金戒戒儿～的。  
 1. 【[黄澄澄的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_den_den_dii.md#黄澄澄的)】`huan2 den1 den1 dii` <sup>[如皋]</sup> 淡黄色。  
 1. 【[黄瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_gua.md#黄瓜)】`huan2 gua1, van2 gua1` 黄瓜，葫芦科植物，常见蔬菜  
-1. 【[黄泔水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_gun_shuei.md#黄泔水)】`huan2 gun1 shuei1` <sup>[泰州]</sup> 制作豆腐过程中产生的废水，可以用来喂猪。  
+1. 【[黄泔水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_gun_shuei.md#黄泔水)】`huan2 gun1 shuei` <sup>[泰州]</sup> 制作豆腐过程中产生的废水，可以用来喂猪。  
 1. 【[黄泔水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_gun_shuei.md#黄泔水)】`huan2 gun1 shuei3` <sup>[兴化]</sup> 生产豆腐过程中的废水：他磨好豆浆，连豆渣和～，分别装在两只粪桶里……（马春阳《父女双婚事》）  
 1. 【[黄姑鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_gv_y.md#黄姑鱼)】`huan2 gv1 y2` <sup>[如东]</sup> 石首科动物黄姑鱼，体长约31厘米。  
 1. 【[黄蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_hae.md#黄蟹)】`huan2 hae3` <sup>[如东]</sup> 海产品。八月以后，梭子蟹卵巢成熟，消化腺丰腴，煮熟后，蟹黄结块，呈橘红色，味鲜醉人。也叫姑娘蟹。  
@@ -2006,7 +2006,7 @@
 1. 【[混混](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_huen.md#混混)】`huen6 huen6` <sup>[泰州]</sup> 混迹在某个行业中苟且度日：他哪块能算甚的名师，不过～而已。｜单位上好就～，将来不好混的话再说。  
 1. 【[混日子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_rih_zz.md#混日子)】`huen6 rih8 zz` <sup>[如东]</sup> 勉强过日子。  
 1. 【[混世虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_shr_chon.md#混世虫)】`huen6 shr5 chon2` <sup>[兴化]</sup> 成天游手好闲，无所事事的人：人是～，过一天少十二个时辰。  
-1. 【[混碗饭吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_un_vaen_qieh.md#混碗饭吃)】`huen6 un3 vaen6 qieh7` <sup>[泰州]</sup> 苟且谋生，没有大的本事，找个要求不高的职业谋生：你不曾读过书，学个瓦匠工艺，将来也好～吃。  
+1. 【[混碗饭吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_un_faen_qieh.md#混碗饭吃)】`huen6 un3 faen6 qieh7` <sup>[泰州]</sup> 苟且谋生，没有大的本事，找个要求不高的职业谋生：你不曾读过书，学个瓦匠工艺，将来也好～吃。  
 1. 【[混嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_zuei.md#混嘴)】`huen6 zuei3` <sup>[兴化]</sup> 餬口。也作“混饭碗”：他在街上摆个小青货摊儿，夫妻～  
 1. 【[鯶子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_zz.md#鯶子)】`huen6 zz` <small>/xuəŋ1 t͡sɿ/<sup>如皋</sup></small> ① 草鱼。<sup>\[如皋\]</sup> ② 青鱼、草鱼统称。分开则为“青鯶”、“花鯶”。又音kuen6 zz。<sup>\[如皋\]</sup>  
 1. 【[鯶子鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_zz_y.md#鯶子鱼)】`huen6 zz y2` <sup>[兴化]</sup> 黑鲩（青鲩）和草鱼（草鲩）的合称。  

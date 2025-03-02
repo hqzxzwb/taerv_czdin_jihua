@@ -1970,7 +1970,6 @@
 1. 【[姑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_zz.md#姑子)】`gv1 zz` <sup>[如皋]</sup> 指称丈夫的姐妹。  
 1. 【[孤彆秀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_bih_xieu.md#孤彆秀)】`gv1 bih7 xieu5` <sup>[如皋]</sup> 见“孤痞秀”。  
 1. 【[孤寡绝子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_gua_qiuh_zz.md#孤寡绝子)】`gv1 gua3 qiuh8 zz3, gv1 gua qiuh8 zz3` <sup>[如皋]</sup> 单身一人且无后代。  
-1. 【[孤踝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_guae.md#孤踝)】`gv1 guae3` <sup>[泰州]</sup> 俗作“孤拐”，脚腕两旁凸起部分。  
 1. 【[孤鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_guei.md#孤鬼)】`gv1 guei3` <sup>[泰州]</sup> 或者没有亲人相依的人：她的子女都在外国，老头儿一死，就剩吖她一个～，只好上吖福利院。  
 1. 【[孤魂野鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_huen_ia_guei.md#孤魂野鬼)】`gv1 huen2 ia3 guei3` <sup>[东台]</sup> 指因天灾人祸而客死他乡无人问津的人。  
 1. 【[孤幼学堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_ieu_xiah_tan.md#孤幼学堂)】`gv1 ieu5 xiah8 tan2` <sup>[如皋]</sup> 清末（1906）知县周景焘捐俸创建。假南坛吕祖殿改建（在西南城脚三角池旁），收孤幼学童，供给午餐，半工半读。为私立初级小学堂。  
@@ -1989,7 +1988,7 @@
 1. 【[箍桶匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_ton_qian.md#箍桶匠)】`gv1 ton3 qian6, gv1 ton qian6` <sup>[如皋]</sup> 同“圆料匠”。箍盆箍桶的匠人。  
 1. 【[箍桶匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_ton_qian.md#箍桶匠)】`gv1 ton3 qian6` ① 或叫圆料匠，指专门制作盆、桶等圆木家具的工匠。<sup>\[东台\]</sup> ② 制作木桶木盆等的工匠。<sup>\[泰州\]</sup>  
 1. 【[箍网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_van.md#箍网)】`gv1 van3` <sup>[如皋]</sup> 围网。  
-1. 【[軱拐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_guae.md#軱拐)】`gv1 guae3` <small>/ku1 kuɛ3/<sup>兴化</sup>, /ku1 kuɛ3/<sup>如皋</sup></small> ① 脚踝，《西游记》作“孤拐”。<sup>\[如皋\]</sup> ② 脚踝骨，小腿与脚之间两侧突出的部分，兴化词典作“孤拐”<sup>\[兴化\]</sup>  
+1. 【[軱拐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_guae.md#軱拐)】`gv1 guae3` <small>/ku1 kuɛ3/<sup>兴化</sup>, /ku1 kuɛ3/<sup>如皋</sup></small> 脚踝，脚腕两旁凸起部分。俗作“孤拐”。<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>  
 1. 【[估猜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_cae.md#估猜)】`gv3 cae1` <small>/ku3 t͡sʰɛ1/<sup>兴化</sup></small> ① 猜测、估摸<sup>\[兴化\]</sup>：这件事你是～的，不一定真实。<sup>\[兴化\]</sup> ② 大致推测<sup>\[泰州\]</sup>：老师～他这个成绩考不上苏州大学。<sup>\[泰州\]</sup>  
 1. 【[估估堆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_gv_dy_r.md#估估堆<sub>儿</sub>)】`gv3 gv dy1 r` <sup>[东台]</sup> 估计，推测（也作“毛估估”）：你的眼光好，～，这袋棉花值几钱？  
 1. 【[估估堆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_gv_dy_r.md#估估堆<sub>儿</sub>)】`gv3 gv3 dy1 r` <sup>[如皋]</sup> 对一堆物品的大略匡估。  
