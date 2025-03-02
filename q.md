@@ -404,9 +404,9 @@
 1. 【[戗毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_mo.md#戗毛)】`qian1 mo2` <sup>[如皋]</sup> 喻情绪对立。  
 1. 【[戗吖转过来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_nga_zhun_gu_lae_a.md#戗吖转过来啊)】`qian1 nga zhun5 gu lae2 a` <sup>[如皋]</sup> 互相对戗，各不相让。  
 1. 【[戗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_zz.md#戗子)】`qian1 zz` <sup>[如皋]</sup> 头发屑。因易刺入皮肤而得名：才剪吖头的，颈项里有头发～戳人子。  
-1. 【[枪毙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_bi.md#枪毙)】`qian1 bi5` 詈词，用于女性詈骂男性<sup>\[泰州\]</sup>：这个～赌啊一夜钱，输掉千把块，你说他哿有个脉吤。<sup>\[泰州\]</sup>｜～嘴里不要瞎说，当心人家攉你。<sup>\[泰州\]</sup>  
 1. 【[枪打出头鸟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_da_chueh_teu_nio.md#枪打出头鸟)】`qian1 da3 chueh7 teu2 nio3` <sup>[东台]</sup> ［喻］首先打击或惩办带头闹事的人。  
 1. 【[枪耙<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_pa_r.md#枪耙<sub>儿</sub>)】`qian1 pa2 r` <sup>[东台]</sup> 农村晒场的工具，呈T形。因民间有人将“党”字简化为T，故将入党暗指为扛～。  
+1. 【[枪毙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_pi.md#枪毙)】`qian1 pi6` 詈词，用于女性詈骂男性<sup>\[泰州\]</sup>：这个～赌啊一夜钱，输掉千把块，你说他哿有个脉吤。<sup>\[泰州\]</sup>｜～嘴里不要瞎说，当心人家攉你。<sup>\[泰州\]</sup>  
 1. 【[枪手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_sheu.md#枪手)】`qian1 sheu3` 冒名代人考试的人<sup>\[泰州\]</sup>：他这批论文是请人家～写的。<sup>\[泰州\]</sup>  
 1. 【[枪子<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_zz_r.md#枪子<sub>儿</sub>)】`qian1 zz3 r` <sup>[东台]</sup> 子弹。  
 1. 【[炝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian.md#炝)】`qian1` <small>/t͡ɕʰiaŋ1/<sup>兴化</sup>, /t͡ɕʰiã1/<sup>如皋</sup></small> ① 卤渍。生～：虾、蟹、黄瓜等常用作料生拌，谓之。<sup>\[如皋\]</sup> ② 一种腌制方法。把新鲜的蟹、虾、贝等加盐等作料进行腌制，生吃，肉嫩味鲜。<sup>\[如东\]</sup> ③ 现腌现吃<sup>\[东台\]</sup>：～萝卜。<sup>\[东台\]</sup> ④ 一种烹调方法，将煮、烫或经盐、酒腌渍过的菜加佐料凉拌<sup>\[兴化\]</sup>：～肉<sup>\[兴化\]</sup>｜～虾<sup>\[兴化\]</sup>｜～菠菜<sup>\[兴化\]</sup>  

@@ -2225,6 +2225,7 @@
 1. 【[粗不擸𢶍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cv_beh_laeh_saeh.md#粗不擸𢶍)】`cv1 beh laeh8 saeh` <sup>[泰县]</sup> 粗糙。  
 1. 【[粗不可细算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cv_beh_ku_xi_sun.md#粗不可细算)】`cv1 beh7 ku3 xi5 sun5` <sup>[兴化]</sup> 有的事粗看细算结果大不一样：“……一尺布我多卖二文，～，一匹布就多啦……”（扬二《程咬金卖筢子》）  
 1. 【[粗布衣裳菜饭饱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cv_bv_i_shan_cae_faen_bo.md#粗布衣裳菜饭饱)】`cv1 bv5 i1 shan cae5 faen6 bo3` <sup>[兴化]</sup> （喻）形容清苦贫寒的生活：“……大爷们是混光蛋的！能够～，就求之不得……”（扬说《皮五辣子打肉》）  
+1. 【[粗茶淡饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cv_cha_taen_faen.md#粗茶淡饭)】`cv1 cha2 taen6 faen6` <sup>[泰州]</sup> 简单而粗劣的食物。  
 1. 【[粗糙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cv_co.md#粗糙)】`cv1 co5` <sup>[如皋]</sup> 说话不慎、动作鲁莽。  
 1. 【[粗𪎉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cv_haen_zz.md#粗𪎉子)】`cv1 haen6 zz` <sup>[如皋]</sup> 粒度大的𪎉子。  
 1. 【[粗货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cv_hu.md#粗货)】`cv1 hu5` <small>/t͡sʰu1 xo5/<sup>兴化</sup></small> ① 普通、常见，而且所值不高的东西<sup>\[兴化\]</sup>：这点儿～不值几文，你带家去分人吧。<sup>\[兴化\]</sup> ② 原材料的档次不高且制作粗糙的商品<sup>\[泰州\]</sup>：他穿的衣裳都是在地摊上买的粗货。<sup>\[泰州\]</sup>  
@@ -2253,7 +2254,6 @@
 1. 【[呲𠺟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_kv.md#呲𠺟)】`cz1 kv` <sup>[如皋]</sup> 象声词。如笑声、连鞋涉水声。  
 1. 【[呲𠺟呲𠺟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_kv_cz_kv.md#呲𠺟呲𠺟)】`cz1 kv cz1 kv` <sup>[如皋]</sup> 见“呲𠺟”。  
 1. 【[呲里不剌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_lii_beh_laeh.md#呲里不剌)】`cz1 lii beh7 laeh8` <sup>[兴化]</sup> 形容烫人：烫得～的。“不剌”元曲中常见之，是一种衬字，多用在词后，有加强语气的作用。  
-1. 【[粗茶淡饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_cha_taen_faen.md#粗茶淡饭)】`cz1 cha2 taen6 faen6` <sup>[泰州]</sup> 简单而粗劣的食物。  
 1. 【[雌黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_huan.md#雌黄)】`cz1 huan2` <sup>[东台]</sup> 原指矿物质，橙黄色，可做原料，古时用来涂改文字：信口～（指乱加评论。）  
 1. 【[雌冒雄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_mo_ion.md#雌冒雄)】`cz1 mo ion2` 形容人不男不女  
 1. 【[龇牙咧嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_nga_lae_zuei.md#龇牙咧嘴)】`cz1 nga2 lae3 zuei3` <sup>[如东]</sup> ① 凶狠的样子：你看她那个～样子。 ② 疼痛难忍的样子：王明肚子疼吖～的。  

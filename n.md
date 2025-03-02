@@ -946,7 +946,7 @@
 1. 【[牛角腮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_gah_sae.md#牛角腮)】`ngeu2 gah7 sae1` <sup>[如东]</sup> 牛科动物黄牛或水牛角中的骨质骨髓。  
 1. 【[牛角梢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_gah_sho.md#牛角梢)】`ngeu2 gah7 sho1` <sup>[兴化]</sup> ① （喻）难题或无法解决的问题：钻～。 ② 岔道：（他）直接朝～里想，越想越舒服。（《武松》六）  
 1. 【[牛槅头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_geh_teu.md#牛槅头)】`ngeu2 geh7 teu` <sup>[如皋]</sup> 架在牛肩上的“人”字木，是牛牵引时的力点。  
-1. 【[牛过了河拖尾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_gu_a_hu.md#牛过了河拖尾子)】`ngeu2 gu1 a hu2 tu1 vei3 zz` <small>/ŋəɪ2 kɤɯ1 ɑ xɤɯ2 tʰɤɯ1 ʋəɪ3 t͡sɿ/<sup>泰兴</sup></small> 主要矛盾已成为历史，重新抓住小小的一点把柄想翻案。喻不可能做到的事。<sup>\[泰兴\]</sup>：《玉如意》第8回：“怎好牛过河来拖尾巴，把这事耽搁到如今。”<sup>\[泰兴\]</sup>  
+1. 【[牛过啊河拖尾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_gu_a_hu.md#牛过啊河拖尾子)】`ngeu2 gu1 a hu2 tu1 vei3 zz` <small>/ŋəɪ2 kɤɯ1 a xɤɯ2 tʰɤɯ1 ʋəɪ3 t͡sɿ/<sup>泰兴</sup></small> 主要矛盾已成为历史，重新抓住小小的一点把柄想翻案。喻不可能做到的事。<sup>\[泰兴\]</sup>：《玉如意》第8回：“怎好牛过河来拖尾巴，把这事耽搁到如今。”<sup>\[泰兴\]</sup>  
 1. 【[牛瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_gua.md#牛瓜)】`ngeu2 gua1` <sup>[泰县]</sup> 固执的人。  
 1. 【[牛下啊河拖尾巴——迟啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_ha_a_hu.md#牛下啊河拖尾巴——迟啊)】`ngeu2 ha6 a hu2 tu1 vei3 ba1 chr2 a` <sup>[东台]</sup>   
 1. 【[牛下河扽尾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_ha_hu_den_vei_zz.md#牛下河扽尾子)】`ngeu2 ha6 hu2 den5 vei3 zz` <sup>[东台]</sup> ［喻］指不好的事情已经发生，临时采取措施已晚了。  
