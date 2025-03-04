@@ -1153,7 +1153,8 @@
 1. 【[火爆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_bo.md#火爆)】`hu3 bo5` <sup>[兴化]</sup> ① 形容脾气急躁：～性子。 ② 旺盛、红火：生意～｜场面～。  
 1. 【[火爆将军](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_bo_jian_jyen.md#火爆将军)】`hu3 bo5 jian1 jyen1` <sup>[如皋]</sup> 脾气急躁的人。也说“火炮将军”。  
 1. 【[火爆性子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_bo_xien_zz.md#火爆性子)】`hu3 bo5 xien5 zz` <sup>[如东]</sup> 急躁脾气：他是～。  
-1. 【[火叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_cha.md#火叉)】`hu3 cha1` <small>/xo3 t͡sʰa1/<sup>兴化</sup>, /xʊ3 t͡sʰa1/<sup>如皋</sup></small> ① 工具。铁制，前端双齿，后边有柄。烧火时，用以掭草或拨灰。<sup>\[如东\]</sup> ② 烧锅用的铁叉。是一根长约2尺的铁棍，头部分叉。<sup>\[如皋\]</sup> ③ 旧式灶用的铁制的拨火棍，形状像字母“Y”。<sup>\[东台\]</sup> ④ “丫”形的铁制拨火工具。<sup>\[兴化\]</sup>  
+1. 【[火钵头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_buh_teu.md#火钵头)】`hu3 buh7 teu` <small>/xɤɯ3 pʊʔ7 tʰəɪ/<sup>泰兴</sup></small> 生火取暖的钵头。<sup>\[泰兴\]</sup>  
+1. 【[火叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_cha.md#火叉)】`hu3 cha1` <small>/xo3 t͡sʰa1/<sup>兴化</sup>, /xʊ3 t͡sʰa1/<sup>如皋</sup>, /xɤɯ3 t͡sʰɑ1/<sup>泰兴</sup></small> ① 工具。铁制，前端双齿，后边有柄。烧火时，用以掭草或拨灰。<sup>\[如东\]</sup> ② 烧锅用的铁叉。是一根长约2尺的铁棍，头部分叉。<sup>\[如皋\]</sup> ③ 旧式灶用的铁制的拨火棍，形状像字母“Y”。<sup>\[东台\]</sup> ④ “丫”形的铁制拨火工具。<sup>\[兴化\]</sup> ⑤ 拨火或添炭用的小铁叉。<sup>\[泰兴\]</sup>  
 1. 【[火铲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_chaen.md#火铲)】`hu3 chaen3` <sup>[如皋]</sup> 烧煤用的铁铲。  
 1. 【[火着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_chah.md#火着)】`hu3 chah8` <sup>[泰县]</sup> 火叉。  
 1. 【[火赤练](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_cheh_lin.md#火赤练)】`hu3 cheh7 lin6` <small>/xʊ3 t͡sʰəʔ7 lĩ1/<sup>如皋</sup></small> ① 赤练蛇。身上黑、红圈相间。<sup>\[如皋\]</sup> ② 周身有红褐色斑纹的蛇。<sup>\[东台\]</sup>  
@@ -1166,8 +1167,9 @@
 1. 【[火刀匾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_do_bin_zz.md#火刀匾子)】`hu3 do1 bin3 zz` <sup>[如东]</sup> 装火刀、火石、芒子的小容器。  
 1. 【[火刀火石](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_do_hu_sheh.md#火刀火石)】`hu3 do1 hu3 sheh8` <sup>[兴化]</sup> 火镰。  
 1. 【[火刀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_do_r.md#火刀<sub>儿</sub>)】`hu3 do1 r` <sup>[如皋]</sup> 火镰。  
-1. 【[火到猪头烂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_do_zhv_teu_laen.md#火到猪头烂)】`hu3 do5 zhv1 teu2 laen6` <sup>[兴化]</sup> （喻）做事情，只要有恒心、有决心，就会成功：“不怕他是铁打的……～，等我去撞个木钟儿，再做理会……”（《广陵潮》八十）｜谚曰：～，功到自然成。  
-1. 【[火到猪头烂，功到自然成](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_do_zhv_teu_laen_gon_do_cz_rin_chen.md#火到猪头烂，功到自然成)】`hu3 do5 zhv1 teu2 laen6 gon1 do5 cz6 rin2 chen2` <sup>[东台]</sup> 成事必须下功夫，还要有耐心、恒心。  
+1. 【[火到猪头烂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_do_zhv_teu.md#火到猪头烂)】`hu3 do5 zhv1 teu2 laen6` <sup>[兴化]</sup> （喻）做事情，只要有恒心、有决心，就会成功：“不怕他是铁打的……～，等我去撞个木钟儿，再做理会……”（《广陵潮》八十）｜谚曰：～，功到自然成。  
+1. 【[火到猪头烂，功到自然成](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_do_zhv_teu.md#火到猪头烂，功到自然成)】`hu3 do5 zhv1 teu2 laen6 gon1 do5 cz6 rin2 chen2` <sup>[东台]</sup> 成事必须下功夫，还要有耐心、恒心。  
+1. 【[火到猪头烂，钱到公事办](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_do_zhv_teu.md#火到猪头烂，钱到公事办)】`hu3 do5 zhv1 teu2 laen6 qin2 do5 gon1 shr6 paen5` <small>/xɤɯ3 tɔ5 t͡su1 tʰəɪ2 lɛ̃1 t͡ɕʰĩ2 tɔ5 kɔŋ1 sɿ1 pʰɛ̃5/<sup>泰兴</sup></small> 银钱财物花到了，事情自然能办成功。<sup>\[泰兴\]</sup>  
 1. 【[火钩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_geu_zz.md#火钩子)】`hu3 geu1 zz` <sup>[如皋]</sup> 从炉底向上勾通的铁钩子。  
 1. 【[火光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_guan.md#火光)】`hu3 guan` <sup>[东台]</sup> 旧时指不怕魔鬼的气势。据说男人的～比女人高。（光轻读）  
 1. 【[火光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_guan.md#火光)】`hu3 guan1` <small>/xo3 kuaŋ1/<sup>兴化</sup></small> ① 迷信认为人身上通邪的气势<sup>\[兴化\]</sup>：～高的鬼祟不敢犯，～低的受鬼欺。<sup>\[兴化\]</sup>｜女人做月子～低，一个人蹲在家里，女人有点怕……（钱国怀《夜半鲤鱼来上滩》）<sup>\[兴化\]</sup> ② （迷信）抵御鬼魅的气势，见“压头”。<sup>\[兴化\]</sup>  
@@ -1207,7 +1209,7 @@
 1. 【[火色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_seh.md#火色)】`hu3 seh7` <sup>[兴化]</sup> 火候：烧窑师傅最高的技术就是看～。  
 1. 【[火柴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_shae.md#火柴)】`hu3 shae2` <sup>[如东]</sup> 发火材料。用细小的木条蘸上磷或硫的化合物，再在涂有红磷的火柴盒上擦，便会发火燃烧。旧时称洋火。  
 1. 【[火上吖堂屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_shan_nga_tan_oh.md#火上吖堂屋)】`hu3 shan6 nga tan2 oh7` <sup>[如皋]</sup> 喻盛怒，怒火上冲。  
-1. 【[火上堂屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_shan_tan_oh.md#火上堂屋)】`hu3 shan6 tan2 oh7` <small>/xo3 saŋ6 tʰaŋ2 ɔʔ7/<sup>兴化</sup></small> ① 形容怒不可遏的样子。<sup>\[东台\]</sup> ② 形容非常恼怒、气急<sup>\[兴化\]</sup>：时伐先生真是～……唱到最后一句……口吐鲜血倒在台上。（兴文《时伐先生》）<sup>\[兴化\]</sup>  
+1. 【[火上堂屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_shan_tan_oh.md#火上堂屋)】`hu3 shan6 tan2 oh7` <small>/xo3 saŋ6 tʰaŋ2 ɔʔ7/<sup>兴化</sup>, /xɤɯ3 sɑŋ1 tʰɑŋ2 ɔʔ7/<sup>泰兴</sup></small> ① 形容怒不可遏的样子。<sup>\[东台\]</sup> ② 形容非常恼怒、气急<sup>\[兴化\]</sup>：时伐先生真是～……唱到最后一句……口吐鲜血倒在台上。（兴文《时伐先生》）<sup>\[兴化\]</sup> ③ 形容怒火冲天，怒极。<sup>\[泰兴\]</sup>  
 1. 【[火石](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_sheh.md#火石)】`hu3 sheh8` <small>/xʊ3 səʔ8/<sup>如皋</sup></small> ① 一种钻石，黑色，火刀在上面打击磨擦后，会迸发火星，点燃芒子。<sup>\[如东\]</sup> ② 燧石。<sup>\[如皋\]</sup>  
 1. 【[火石上磨刀——一碰就着火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_sheh_shan_mu_do_ieh_pon_qieu_chah_hu.md#火石上磨刀——一碰就着火)】`hu3 sheh8 shan mu2 do1 ieh7 pon5 qieu6 chah8 hu3` <sup>[东台]</sup>   
 1. 【[火绳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_shen.md#火绳)】`hu3 shen2` <sup>[如皋]</sup> 见“火绒”。  
@@ -1224,6 +1226,7 @@
 1. 【[火豆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_teu_zz.md#火豆子)】`hu3 teu6 zz` <sup>[兴化]</sup> （喻）急性子：他是个～，一碰就跳。  
 1. 【[火体](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_ti.md#火体)】`hu3 ti3` <sup>[如皋]</sup> 觉热不怕冷的体质。  
 1. 【[火㐁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_tin_zz.md#火㐁子)】`hu3 tin5 zz` <sup>[如东]</sup> 火苗：只见～往上蹿动。  
+1. 【[火桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_ton.md#火桶)】`hu3 ton3` <small>/xɤɯ3 tʰɔŋ3/<sup>泰兴</sup></small> 旧时给婴幼儿取暖避寒的木质器具。<sup>\[泰兴\]</sup>  
 1. 【[火团子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_tun_zz.md#火团子)】`hu3 tun2 zz` <sup>[兴化]</sup> 成团状的火焰：那火头已是望见有人把高，一个一个的～往天井里滚。（《儒林外史》十六）  
 1. 【[火星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xien.md#火星)】`hu3 xien1` <sup>[如东]</sup> ① 很小的火种。 ② 金属碰击后迸发出来的细小火种。  
 1. 【[火星庙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xien_mio.md#火星庙)】`hu3 xien1 mio6` <sup>[如皋]</sup> 旧在原如皋灵威观西侧，祀火神祝融吴回的庙。吴回，帝喾的火官，司观测“火星火宿”运行及掌管部落照明、取暖、熟食的火，拟定火历。功绩卓著。  

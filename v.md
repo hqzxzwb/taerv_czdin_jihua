@@ -251,7 +251,7 @@
 1. 【[五爪金龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_zhua_jien_lon.md#五爪金龙)】`v3 zhua3 jien1 lon2` <sup>[泰州]</sup> ① 五个足趾的龙。古代龙饰，龙足多为三爪（趾）、四爪，元代，只有皇家方可使用五爪，清代形成“五爪为龙，四爪为蟒”说法。 ② 指人的五个指头：这个细小伙的手上全是烂泥，～朝他身上穿的白衬衫上一抓，衣裳高头暂时就是五个泥点儿。  
 1. 【[午](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v.md#午)】`v3` <sup>[东台]</sup> 地支第七位。  
 1. 【[午饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_faen.md#午饭)】`v3 faen6` <sup>[如东]</sup> 十二点钟左右就餐，这顿饭称午饭。  
-1. 【[午槛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_kaen.md#午槛)】`v3 kaen3` <small>/u3 kʰɛ̃3/<sup>兴化</sup></small> 门槛。门下所设的横挡。<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup>  
+1. 【[午槛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_kaen.md#午槛)】`v3 kaen3` <small>/u3 kʰɛ̃3/<sup>兴化</sup>, /ʋ3 kʰɛ̃3/<sup>泰兴</sup></small> 门槛。门下所设的横挡。<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>  
 1. 【[午时茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_shr_cha.md#午时茶)】`v3 shr2 cha2` <sup>[兴化]</sup> 由中草药配制而成的饮料，夏季饮用可生津止渴，防暑祛病。  
 1. 【[午市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_shr.md#午市)】`v3 shr6` <sup>[如皋]</sup> 中午的贸易潮。  
 1. 【[午心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_xien.md#午心)】`v3 xien1` <small>/u3 ɕin1/<sup>兴化</sup></small> ① 中午，特指盛夏的中午<sup>\[兴化\]</sup>：～里太阳晒人哎。也说“午仗心”。<sup>\[兴化\]</sup> ② 夏天正午，即中午12点前后这段时间，夏季一天之中最热的时间<sup>\[泰州\]</sup>：这一刻儿～里，太阳毒，你掌不住晒。<sup>\[泰州\]</sup>  
@@ -854,11 +854,11 @@
 1. 【[为过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_gu.md#为过)】`vei2 gu5` <sup>[兴化]</sup> 指过份，多作否定式：你俫年轻人多出点儿力也不～。｜“……就与俺家结了这门亲，也不～，何必推辞……”（《说岳全传》七一）  
 1. 【[为叫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_jio.md#为叫)】`vei2 jio` <sup>[东台]</sup> 言语之外表达的意思：他坐大席，～他是长辈｜他这吖狠，～我怕他？  
 1. 【[为叫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_jio.md#为叫)】`vei2 jio5` <small>/uəi2 t͡ɕiɔ5/<sup>兴化</sup>, /ʋəɪ2 t͡ɕiɔ5/<sup>泰县</sup></small> ① 也就是<sup>\[兴化\]</sup>：他常和你谈谈话，拉拉家常，这～关心。<sup>\[兴化\]</sup> ② 算：你这个～哪一出。<sup>\[泰县\]</sup> ③ 这样所为叫作或者称作<sup>\[泰州\]</sup>：经常去看看他，陪他说说话，就～孝顺。<sup>\[泰州\]</sup>｜你说我是不实事求是，请问我要怎吖说～实事求是。<sup>\[泰州\]</sup>  
-1. 【[为奇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_qi.md#为奇)】`vei2 qi2` <small>/uəi2 t͡ɕʰi2/<sup>兴化</sup>, /ʋei2 t͡ɕʰʝ2/<sup>如皋</sup>, /ʋəɪ2 t͡sʰɿ2/<sup>泰县</sup></small> ① 稀奇、珍奇、难得。<sup>\[如皋\]</sup> ② 珍惜<sup>\[兴化\]</sup>：出门在外钱要～。<sup>\[兴化\]</sup> ③ 稀奇的事<sup>\[兴化\]</sup>：平湖好！旧事懒重提……莲花生小出淤泥，小劫不～。（《广陵潮》十五）<sup>\[兴化\]</sup> ④ 珍惜：小明对他的电子琴～。<sup>\[泰县\]</sup>  
+1. 【[为奇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_qi.md#为奇)】`vei2 qi2` <small>/uəi2 t͡ɕʰi2/<sup>兴化</sup>, /ʋei2 t͡ɕʰʝ2/<sup>如皋</sup>, /ʋəɪ2 t͡ɕʰʝ2/<sup>泰兴</sup>, /ʋəɪ2 t͡sʰɿ2/<sup>泰县</sup></small> ① 稀奇、珍奇、难得。<sup>\[如皋\]</sup> ② 珍惜<sup>\[兴化\]</sup><sup>\[泰县\]</sup>：出门在外钱要～。<sup>\[兴化\]</sup>｜小明对他的电子琴～。<sup>\[泰县\]</sup> ③ 稀奇的事<sup>\[兴化\]</sup>：平湖好！旧事懒重提……莲花生小出淤泥，小劫不～。（《广陵潮》十五）<sup>\[兴化\]</sup> ④ 自以为神奇，了不起。<sup>\[泰兴\]</sup>：才上个初中，就～煞咖！<sup>\[泰兴\]</sup>  
 1. 【[为奇宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_qi_bo.md#为奇宝)】`vei2 qi2 bo3` <sup>[如皋]</sup> 反语，贬指过于珍爱的人和物。  
 1. 【[为情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_qien.md#为情)】`vei2 qien2` <small>/ʋei2 t͡ɕʰiəŋ2/<sup>如皋</sup></small> ① 感谢、并附谢仪。常见式为“为某的情”“难为某的情”。<sup>\[如皋\]</sup> ② 酬谢他人的情谊<sup>\[泰州\]</sup>：人家帮吖你大忙，你到现在都不曾～。<sup>\[泰州\]</sup>  
 1. 【[为人不做亏心事，半夜敲门心不惊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_ren_beh_zu_kuei_xien_shr_bun_ia_ko_men_xien_beh_jien.md#为人不做亏心事，半夜敲门心不惊)】`vei2 ren2 beh7 zu5 kuei1 xien1 shr6 bun5 ia6 ko1 men2 xien1 beh7 jien1` <sup>[东台]</sup> 与做贼心虚近义。  
-1. 【[为事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_shr.md#为事)】`vei2 shr6` <small>/uəi2 sɿ6/<sup>兴化</sup>, /ʋəɪ2 sɿ1/<sup>泰县</sup></small> 男子结婚<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>\[东台：也有人称“帏事”（房帏之事）。\]：他三十岁才～。<sup>\[兴化\]</sup>｜你家儿子哿曾～？<sup>\[泰县\]</sup>｜他家家里最小的儿子还不曾～。<sup>\[泰州\]</sup>  
+1. 【[为事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_shr.md#为事)】`vei2 shr6` <small>/uəi2 sɿ6/<sup>兴化</sup>, /ʋəɪ2 sɿ1/<sup>泰兴</sup>, /ʋəɪ2 sɿ1/<sup>泰县</sup></small> ① （男子）结婚<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>\[东台：也有人称“帏事”（房帏之事）。\]：他三十岁才～。<sup>\[兴化\]</sup>｜你家儿子哿曾～？<sup>\[泰县\]</sup>｜他家家里最小的儿子还不曾～。<sup>\[泰州\]</sup> ② 婚嫁。办事。乡人称子女结婚为“为事”。<sup>\[泰兴\]</sup>：大伢儿今年才～的。<sup>\[泰兴\]</sup>  
 1. 【[为头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_teu.md#为头)】`vei2 teu2` <small>/uəi2 tʰɤ2/<sup>兴化</sup>, /ʋəɪ2 tʰɤɯ2/<sup>泰县</sup></small> ① 在某一组织或群体中领导或带头的人。<sup>\[如东\]</sup>：这里以张三～。<sup>\[如东\]</sup> ② 领头的人<sup>\[兴化\]</sup>：这个学会先由老刘～搞起来。<sup>\[兴化\]</sup> ③ 首要的<sup>\[兴化\]</sup>：……这婆娘倒诸般好。～的爱偷汉子。（《水浒传》二四）<sup>\[兴化\]</sup> ④ 为首的人。<sup>\[泰县\]</sup>  
 1. 【[为头的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_teu_dii.md#为头的)】`vei2 teu2 dii` <sup>[泰州]</sup> 领头的人：这帮人像是搞传销，～是个女的。  
 1. 【[危乎危乎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_hv_vei_hv.md#危乎危乎)】`vei2 hv vei2 hv` <sup>[东台]</sup> 非常危险、奄奄一息的样子。也作“危急危乎”。  
@@ -927,11 +927,12 @@
 1. 【[詴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei.md#詴)】`vei5` <sup>[泰州]</sup> 呼喊人的声音，一般写“喂”。  
 1. 【[𢲴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei.md#𢲴)】`vei5` <sup>[泰州]</sup> （疑为“喂”）运转中的石磨以及脱粒机、绞肉机之类的机械添加原料：磨子小，你～的豆子嫌多。｜你换他～个盹儿。  
 1. 【[为好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_ho.md#为好)】`vei6 ho3` <sup>[兴化]</sup> 出于好意：大人管你也是～。｜“……别说是妈妈，就是旁人来劝你，也是～……”（《红楼梦》三四）  
-1. 【[为客三升米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_keh_saen_shen_mi.md#为客三升米)】`vei6 keh7 saen1 shen1 mi3` <small>/uəi6 kʰəʔ7 sɛ̃1 sən1 mi3/<sup>兴化</sup>, /ʋei1 kʰəʔ7 sẽ1 səŋ1 mʝ3/<sup>如皋</sup></small> ① 来了客人要热情招待，总得多花费。另警示作客者：不要让人家～。<sup>\[如皋\]</sup> ② 为了招待客人，总要多一些开支花销。<sup>\[东台\]</sup> ③ 为招待客人而增加开支<sup>\[兴化\]</sup>：俗说～，来啊人总归要弄点酒啊菜的招待招待。<sup>\[兴化\]</sup>  
+1. 【[为客三升米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_keh_saen_shen_mi.md#为客三升米)】`vei6 keh7 saen1 shen1 mi3` <small>/uəi6 kʰəʔ7 sɛ̃1 sən1 mi3/<sup>兴化</sup>, /ʋei1 kʰəʔ7 sẽ1 səŋ1 mʝ3/<sup>如皋</sup>, /ʋəɪ1 kʰəʔ7 ɕiɛ̃1 səŋ1 mʝ3/<sup>泰兴</sup></small> ① 来了客人要热情招待，总得多花费。另警示作客者：不要让人家～。<sup>\[如皋\]</sup> ② 为了招待客人，总要多一些开支花销。<sup>\[东台\]</sup> ③ 为招待客人而增加开支<sup>\[兴化\]</sup>：俗说～，来啊人总归要弄点酒啊菜的招待招待。<sup>\[兴化\]</sup> ④ 来了客人增加了伙食开支。<sup>\[泰兴\]</sup>：～，来了人总要客气点唦！<sup>\[泰兴\]</sup>｜～，来人吃半升。<sup>\[泰兴\]</sup>  
 1. 【[为奇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_qi.md#为奇)】`vei6 qi2` ① 自以为稀奇，炫耀 ② 自以为了不起。<sup>\[如东\]</sup>：不要～。<sup>\[如东\]</sup>  
 1. 【[为甚的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_shen_nii.md#为甚的)】`vei6 shen2 nii` <sup>[如东]</sup> 为什么：～要去？  
 1. 【[为小失大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_xio_sheh_da.md#为小失大)】`vei6 xio3 sheh7 da6` <sup>[兴化]</sup> 因贪图小利而造成大损失，或因小事而耽误大事：你为啊一点儿回扣把饭碗弄𠫓掉啊，这是～呀！也作“因小失大”。  
 1. 【[为嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_zuei.md#为嘴)】`vei6 zuei3` <sup>[兴化]</sup> 贪吃：这个婆娘～，有两个钱抓不住。  
+1. 【[为嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_zuei.md#为嘴)】`vei6 zuei3` <small>/ʋəɪ1 t͡suəɪ3/<sup>泰兴</sup></small> 为了吃这一方面的事。<sup>\[泰兴\]</sup>：两个人～讲经（方言，争吵），太不值得。<sup>\[泰兴\]</sup>  
 1. 【[位<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_r.md#位<sub>儿</sub>)】`vei6 r` <sup>[如皋]</sup> 身份、气派、派头。  
 1. 【[位子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_zz.md#位子)】`vei6 zz` <sup>[东台]</sup> 位置。引申请为职位：摆正～，到位不越位。  
 1. 【[卫海堤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_hae_ti.md#卫海堤)】`vei6 hae3 ti2` <sup>[如东]</sup> 民国9年至13年（1920年～1924年），分期筑成。西起三十总向北至大弯头，折向东至鲁家丫子，再向南至长沙镇，全长126公里。  
@@ -978,7 +979,7 @@
 1. 【[瘟脏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_zan.md#瘟脏)】`ven1 zan1` ① 非常脏的样子 ② 非常肮脏。<sup>\[如东\]</sup>  
 1. 【[瘟症](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_zhen.md#瘟症)】`ven1 zhen5` <sup>[兴化]</sup> 骂牲畜的话：～！叫你上架你就拉屎撒尿。也说“瘟肠子”。  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven.md#□)】`ven2` <sup>[泰州]</sup> ① （泰州词典作抆） ② 双手抓持重物，使劲使其离地或移动：这个石头太～吖唻，两个人都～不动它。｜你～吖看，哿弄得动它。  
-1. 【[文不像秀才武不像兵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_beh_qian_xieu_cae_v_beh_qian_bien.md#文不像秀才武不像兵)】`ven2 beh7 qian6 xieu5 cae2 v3 beh7 qian6 bien1` <sup>[东台]</sup> 形容有的人不伦不类，什么才能都没有。  
+1. 【[文不像秀才武不像兵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_beh_qian_xieu_cae_v_beh_qian_bien.md#文不像秀才武不像兵)】`ven2 beh7 qian6 xieu5 cae2 v3 beh7 qian6 bien1` <small>/ʋəŋ2 pəʔ7 t͡ɕʰiɑŋ1 ɕiɤɯ5 t͡ɕʰiɛ2 ʋ3 pəʔ7 t͡ɕʰiɑŋ1 piŋ1/<sup>泰兴</sup></small> 形容人不伦不类，没有才能<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[文场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_chan.md#文场)】`ven2 chan2` <small>/ʋəŋ2 t͡sʰɑŋ2/<sup>泰县</sup></small> ① 戏曲伴奏乐队中的管弦乐部分。<sup>\[如东\]</sup> ② 乐队伴奏中的管弦乐器部分，与武场（打击乐器）相对。<sup>\[东台\]</sup> ③ 舞台上丝弦乐器班子。<sup>\[泰县\]</sup> ④ 戏曲术语，剧团的乐队所用管弦乐器（胡琴、二胡、三弦、月琴、笛子、唢呐等）的统称，相对“武场”（锣、鼓、镲、板等打击乐器的总称），又泛指剧团乐队。<sup>\[泰州\]</sup>  
 1. 【[文抄公](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_cho_gon.md#文抄公)】`ven2 cho1 gon1` <sup>[东台]</sup> 指抄袭别人文章的人。  
 1. 【[文呆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_dae.md#文呆)】`ven2 dae1` <sup>[如皋]</sup> 举止文雅，无伤害行为的精神病人。  
@@ -992,6 +993,7 @@
 1. 【[文雅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_ia.md#文雅)】`ven2 ia3` <sup>[如东]</sup> 温和而有礼貌。  
 1. 【[文洋火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_ian_hu.md#文洋火)】`ven2 ian2 hu3` <sup>[如皋]</sup> 安全火柴。与“武洋火”相对。  
 1. 【[文鲢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_lin.md#文鲢)】`ven2 lin2` <small>/ʋəŋ2 lĩ2/<sup>如皋</sup></small> ① 鲢鱼。<sup>\[如皋\]</sup> ② 鲢。<sup>\[如皋\]</sup>  
+1. 【[文明桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_mien_qio.md#文明桥)】`ven2 mien qio2` <small>/ʋəŋ2 miŋ t͡ɕʰiɔ2/<sup>泰兴</sup></small> 黄桥古桥。<sup>\[泰兴\]</sup>  
 1. 【[文墨肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_moh_dv_zz.md#文墨肚子)】`ven2 moh8 dv3 zz` <sup>[如东]</sup> 有知识。有知识的人。  
 1. 【[文吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_nga.md#文吖)】`ven2 nga` <sup>[如皋]</sup> 鱼、虾已死。  
 1. 【[文气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_qi.md#文气)】`ven2 qi` <sup>[兴化]</sup> 见“文范”。  
@@ -1004,6 +1006,7 @@
 1. 【[文先生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_xin_shen.md#文先生)】`ven2 xin1 shen1` <sup>[兴化]</sup> ① 文化水平高，言谈无俗态的人。 ② （借）平常轻言慢语，个性沉稳的人：他是个～，遇事，总不慌不忙的。  
 1. 【[文鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_y.md#文鱼)】`ven2 y2` <sup>[兴化]</sup> “鱼死”的讳饰词。从市上买回死鱼，说是“文的”“文吖”。文者，不动或少动也。  
 1. 【[文绉绉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_zheu_zheu.md#文绉绉)】`ven2 zheu5 zheu5` <sup>[如东]</sup> 言谈举止文雅：这个孩子～的，真像一个大学生。  
+1. 【[文绉绉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_zheu_zheu.md#文绉绉)】`ven2 zheu5 zheu5` <small>/ʋəŋ2 t͡sɤɯ5 t͡sɤɯ5/<sup>泰兴</sup></small> 文雅的样子。有时含贬义。<sup>\[泰兴\]</sup>：今天他倒像个～的样子。<sup>\[泰兴\]</sup>  
 1. 【[文竹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_zhoh.md#文竹)】`ven2 zhoh7` <sup>[如东]</sup> 百合科植物文竹，多年生草本。根长，稍肉质。茎攀援状，木质。枝和叶状枝多数，纤细。花小，稍白色。浆果球形，紫黑色。庭园栽培。  
 1. 【[浑木](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_moh.md#浑木)】`ven2 moh8` <sup>[兴化]</sup> 知觉：冻得不知～。｜“……跌伤后半月中，上半截痛不可言，下半部就不知～了……”（《梼杌闲评》十九）  
 1. 【[纹银](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_ien.md#纹银)】`ven2 ien2` <sup>[东台]</sup> 旧时称成色最好的银子。  

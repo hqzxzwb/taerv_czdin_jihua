@@ -197,6 +197,7 @@
 1. 【[人力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_lieh.md#人力)】`ren2 lieh` <sup>[泰兴]</sup> 劳动力：老的老，小的小，现在家里没得甚的～  
 1. 【[人牢物牢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_lo_veh_lo.md#人牢物牢)】`ren2 lo2 veh8 lo2` <sup>[如皋]</sup> 人惜物而物牢固。  
 1. 【[人老话多，树老根多](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_lo_hua_du.md#人老话多，树老根多)】`ren2 lo3 hua6 du1 shv6 lo3 gen1 du1` <sup>[泰兴]</sup> 谓人年龄大了，说话啰嗦、重复。  
+1. 【[人骂人的句话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_ma_ren_dii.md#人骂人的句话)】`ren2 ma6 ren2 dii qy6 hua6` <small>/ɻəŋ2 mɑ1 ɻəŋ2 təɪ t͡ɕʰy1 xuɑ1/<sup>泰兴</sup></small> 发语词，引出下一句詈骂语。可能起到缓和语气、避免对方误会的作用。<sup>\[泰兴\]</sup>：要是做箇种呆事，～，倒像个手铳ngeh。<sup>\[泰兴\]</sup>  
 1. 【[人蛮理不蛮，弯木上线弹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_maen_li_beh_maen_vaen_moh_shan_xin_taen.md#人蛮理不蛮，弯木上线弹)】`ren2 maen2 li3 beh7 maen2 vaen1 moh8 shan6 xin5 taen2` <sup>[东台]</sup> 以木匠弹线比喻只要上规矩，就不怕不讲理的人。  
 1. 【[人没得十三拳高](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_meh_deh_sheh_saen_qiun_go.md#人没得十三拳高)】`ren2 meh8 deh7 sheh8 saen1 qiun2 go1` <sup>[东台]</sup> 形容人很矮小。  
 1. 【[人命嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_mien_jy.md#人命嘴)】`ren2 mien6 jy3` <small>/ɻəŋ2 miŋ1 t͡ɕy3/<sup>泰县</sup></small> ① 说话不拍担风险。<sup>\[泰县\]</sup> ② 搬弄是非引发重大矛盾纠纷的人<sup>\[泰州\]</sup>：这马马儿是个～，她说的这些话早晚要弄出事来，你让她远吖点儿。<sup>\[泰州\]</sup>  

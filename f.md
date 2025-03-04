@@ -365,15 +365,18 @@
 1. 【[方方<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_fan_r.md#方方<sub>儿</sub>)】`fan1 fan1 r` <small>/fã1 fa˞1/<sup>如皋</sup></small> ① 风筝的一种。一张四方形的纸，用茅草叶穿成斜十字，中间系一根系儿，即可放上天。<sup>\[如东\]</sup> ② 小孩看图识字的一套卡片，正面是图画，反面是文字。<sup>\[如皋\]</sup> ③ 抗战及解放战争初期，民间暗指新四军为～（或伸四个指头）。<sup>\[如皋\]</sup>  
 1. 【[方方斩斩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_fan_zhaen_zhaen.md#方方斩斩)】`fan1 fan1 zhaen3 zhaen3` <sup>[如皋]</sup> 棱角分明的方形、方体。  
 1. 【[方方正正](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_fan_zhen_zhen.md#方方正正)】`fan1 fan1 zhen5 zhen5` <sup>[如皋]</sup> 棱角分明的方形、方体。  
+1. 【[方方正正](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_fan_zhen_zhen.md#方方正正)】`fan1 fan1 zhen5 zhen5` <small>/fɑŋ1 fɑŋ1 t͡səŋ5 t͡səŋ5/<sup>泰兴</sup></small> 正方形；整整齐齐。<sup>\[泰兴\]</sup>  
 1. 【[方样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_ian.md#方样)】`fan1 ian` <sup>[兴化]</sup> 性情乖戾、悭吝：他的东西别人碰不得，～吖没魂。  
 1. 【[方言](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_in.md#方言)】`fan1 in2` <sup>[东台]</sup> 地方语言跟标准语有区别的部分：江淮～；东台～。  
 1. 【[方圆桌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_iun_zhuah.md#方圆桌)】`fan1 iun2 zhuah7` <sup>[如皋]</sup> 方桌四边有活动边，镶上则成圆桌。另见“三折圆桌”。  
+1. 【[方命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_mien.md#方命)】`fan1 mien6` <small>/fɑŋ1 miŋ1/<sup>泰兴</sup></small> 违命，抗命。乡人多指小儿不听话，自作游戏或调皮等，称为方命。也作“放命”。西乡人多用“犯犟”。<sup>\[泰兴\]</sup>  
 1. 【[方眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_ngaen_r.md#方眼<sub>儿</sub>)】`fan1 ngaen3 r` <sup>[如皋]</sup> 方孔。  
+1. 【[方屁眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_pi_ngaen.md#方屁眼)】`fan1 pi5 ngaen` <small>/fɑŋ1 pʰʝ5 ŋɛ̃/<sup>泰兴</sup></small> 制造障碍、爱执撬分的人。责人语。<sup>\[泰兴\]</sup>  
 1. 【[方便](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_pin.md#方便)】`fan1 pin6` ① 便利。<sup>\[如东\]</sup>：从这许跑～。<sup>\[如东\]</sup> ② 解小便。<sup>\[如东\]</sup>：在这许～一下。<sup>\[如东\]</sup> ③ 除一般释义的“便利”“使便利”“适宜”外，还是大小便的隐语<sup>\[东台\]</sup>：需要～的，这许有洗手间。<sup>\[东台\]</sup> ④ 排泄大小便。<sup>\[泰州\]</sup>  
 1. 【[方世](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_shr.md#方世)】`fan1 shr5` <sup>[如东]</sup> 处世不圆，盛气凌人：不可～。  
 1. 【[方塘河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_tan_hu.md#方塘河)】`fan1 tan2 hu2` <sup>[东台]</sup> 原为富安盐场的运盐河，后几次拓浚延伸。西经富安接通榆运河，东至弶港南方塘河闸，是东台南部排洪和引淡的主要水道，全长近50千米。  
 1. 【[方杌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_veh_zz.md#方杌子)】`fan1 veh8 zz` <sup>[如皋]</sup> 方面杌子。  
-1. 【[方子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_zz.md#方子)】`fan1 zz` 药方<sup>\[东台\]</sup><sup>\[泰州\]</sup>：请医家先生开个～。<sup>\[东台\]</sup>｜拿～到药方里去配药。<sup>\[泰州\]</sup>  
+1. 【[方子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_zz.md#方子)】`fan1 zz` <small>/fɑŋ1 t͡sɿ/<sup>泰兴</sup></small> 药方<sup>\[东台\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：请医家先生开个～。<sup>\[东台\]</sup>｜拿～到药方里去配药。<sup>\[泰州\]</sup>  
 1. 【[𬙙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan.md#𬙙)】`fan1` <sup>[如东]</sup> 上罒下方。一种鱼网。锥形，前边有口张开，后边有网袋，用绳索固定在沙滩上，顺着潮水涨落而捕鱼。  
 1. 【[妨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan.md#妨)】`fan2` <sup>[兴化]</sup> （迷信）冲克：～人｜王婆子二十九岁～吖丈夫，守寡多年。｜“这个亡人！你不去～家长，却来咬老孙！”（《西游记》六）  
 1. 【[房东](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_don.md#房东)】`fan2 don1` <sup>[东台]</sup> 出租或出借房屋的人。  
