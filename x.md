@@ -62,7 +62,7 @@
 1. 【[騱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#騱)】`xi2` <sup>[如东]</sup> 液体沿着支柱向上移动：煤油沿吖灯芯向上～动。  
 1. 【[騱动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ton.md#騱动)】`xi2 ton` <sup>[如皋]</sup> 纷纷乱动：还不曾散会，人就～起来啊。  
 1. 【[騱动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ton.md#騱动)】`xi2 ton6` <sup>[如东]</sup> 小步快走：这个伢儿走得～。  
-1. 【[□蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_taen.md#□蛋)】`xi3 taen6` <sup>[泰县]</sup> 孵小鸡孵僵了的蛋。  
+1. 【[□蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_taen.md#□蛋)】`xi3 taen6` <small>/ɕi3 tʰɛ̃6/<sup>兴化</sup>, /sɿ3 tʰɛ̃1/<sup>泰县</sup></small> 孵化未成而死亡的蛋<sup>\[泰县\]</sup><sup>\[兴化\]</sup>\[东台：又叫“冤蛋”。\]\[泰州：孵化成形但未成雏就死亡的鸡蛋、鸭蛋等禽类的蛋。\]  
 1. 【[史](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#史)】`xi3` <sup>[兴化]</sup> 讳饰性读法，“史”与“死”“屎”同音，为了避讳，清晨或春节期间，将“史”讹读成“喜”，有的平时也读成“喜”字音。“历史”的史仍读shr3。  
 1. 【[喜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#喜)】`xi3` <small>/ɕʝ3/<sup>如皋</sup></small> ① 怀孕<sup>\[如皋\]</sup>：有啊～、害～（妊娠反应）。<sup>\[如皋\]</sup> ② 史姓或孟姓避讳改读～。<sup>\[如皋\]</sup> ③ 除一般释义外，还有可庆贺、妇女怀孕等义。<sup>\[东台\]</sup>  
 1. 【[喜布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_bv.md#喜布)】`xi3 bv5` <sup>[如东]</sup> 放在死者屁股下面、防止污物排出的一块布，叫做喜布。关殓时，由长子或长女抽出来。  
@@ -90,7 +90,7 @@
 1. 【[喜神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_shen.md#喜神)】`xi3 shen2` 祖先遗像<sup>\[泰州\]</sup>：家里老祖宗的～都在破四旧的时候烧掉啊。<sup>\[泰州\]</sup>  
 1. 【[喜事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_shr.md#喜事)】`xi3 shr6` <sup>[如东]</sup> 因为结婚、寿诞等举办的庆祝活动，称喜事。  
 1. 【[喜树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_shv.md#喜树)】`xi3 shv6` <sup>[如东]</sup> 珙桐科植物喜树，落叶乔木。高约30米。树皮浅灰色。叶互生，纸质椭圆状披针形。头状花序。花绿白色，无梗。瘦果窄矩圆形，褐色。路边或庭园种植。木材轻软，易翘裂，可供造纸、板料、火柴杆等用。根及果实含喜树碱。  
-1. 【[喜蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_taen.md#喜蛋)】`xi3 taen6` <small>/ɕi3 tʰɛ̃6/<sup>兴化</sup></small> ① 妇女生小孩后，把鸡蛋煮熟，染成红色，赠送给亲友，表示喜庆，这种蛋叫做喜蛋。<sup>\[如东\]</sup> ② 鸡、鸭蛋孵化未能成雏叫喜蛋，又叫“冤蛋”。<sup>\[东台\]</sup> ③ 煮熟并染红的鸡蛋。民俗<sup>\[兴化\]</sup>：生孩子的人家用来向外婆家报喜，并分送亲友。<sup>\[兴化\]</sup> ④ 经孵化未能出雏的蛋。<sup>\[兴化\]</sup> ⑤ 孵化成形但为成雏就死亡的鸡蛋、鸭蛋等禽类的蛋。<sup>\[泰州\]</sup>  
+1. 【[喜蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_taen.md#喜蛋)】`xi3 taen6` <small>/ɕi3 tʰɛ̃6/<sup>兴化</sup></small> ① 妇女生小孩后，把鸡蛋煮熟，染成红色，赠送给亲友，表示喜庆，这种蛋叫做喜蛋。<sup>\[如东\]</sup> ② 煮熟并染红的鸡蛋。民俗，生孩子的人家用来向外婆家报喜，并分送亲友。<sup>\[兴化\]</sup>  
 1. 【[喜喜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xi_r.md#喜喜<sub>儿</sub>)】`xi3 xi3 r` <sup>[泰县]</sup> 贴在门楣上的红色刻纸。见“喜庆”“喜签”“喜钱”。  
 1. 【[喜笺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xin.md#喜笺)】`xi3 xin5` <sup>[如皋]</sup> 逢喜庆事在门楣、堂屋圣柜前过梁上贴挂的镞（coh8）成图案的条形、矩形红纸笺。（丧事则按年用白、绿、黄纸，第四年恢复红纸。）  
 1. 【[喜烛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_zhoh.md#喜烛)】`xi3 zhoh7` <sup>[如皋]</sup> 喜事、敬神用的红色精制蜡烛。  
