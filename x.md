@@ -777,7 +777,7 @@
 1. 【[心底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_di.md#心底)】`xien1 di3` <sup>[兴化]</sup> 居心、用心：他这个人～好，跟他一起有安全感。｜谚曰：～无私天地宽。  
 1. 【[心到神知](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_do_shen_zhr.md#心到神知)】`xien1 do5 shen2 zhr1` <sup>[兴化]</sup> （迷信）神灵对虔诚之心自有感应：“大老爷……也算得是神仙了，太太们这么一说，就叫作～了。”（《红楼梦》十一）  
 1. 【[心挂两肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_gua_laen_chan.md#心挂两肠)】`xien1 gua5 laen3 chan2` <sup>[兴化]</sup> 见“心挂两头”。  
-1. 【[心挂两头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_gua_laen_teu.md#心挂两头)】`xien1 gua5 laen3 teu2` <small>/ɕin1 kua5 lɛ̃3 tʰɤ2/<sup>兴化</sup></small> ① 思想不集中，一心牵挂着多方面<sup>\[兴化\]</sup>：你不要～，一心把学习搞好就行吖。<sup>\[兴化\]</sup>｜傅抚院此时～，正在进退两难的时候……（《官场现形记》二二）‖也说“心挂两肠”。<sup>\[兴化\]</sup> ② 心里牵挂两处或者两个方面<sup>\[泰州\]</sup>：你最好把家搬到泰州来，省得你人～。<sup>\[泰州\]</sup>  
+1. 【[心挂两头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_gua_laen_teu.md#心挂两头)】`xien1 gua5 laen3 teu2` <small>/ɕin1 kua5 lɛ̃3 tʰɤ2/<sup>兴化</sup>, /ɕiŋ1 kuɑ5 lɛ̃3 tʰəɪ2/<sup>泰兴</sup></small> ① 思想不集中，一心牵挂着多方面<sup>\[兴化\]</sup>：你不要～，一心把学习搞好就行吖。<sup>\[兴化\]</sup>｜傅抚院此时～，正在进退两难的时候……（《官场现形记》二二）‖也说“心挂两肠”。<sup>\[兴化\]</sup> ② 心里牵挂两处或者两个方面<sup>\[泰州\]</sup>：你最好把家搬到泰州来，省得你人～。<sup>\[泰州\]</sup> ③ 心中挂念多处的事情，注意力不能集中。<sup>\[泰兴\]</sup>：上班就要注意力集中，不能～<sup>\[泰兴\]</sup>  
 1. 【[心官塘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_gun_tan_r.md#心官塘<sub>儿</sub>)】`xien1 gun1 tan2 r` <sup>[如皋]</sup> 胸骨剑突区凹处。  
 1. 【[心官塘<sub>儿</sub>不得满](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_gun_tan_r_beh_deh_mun.md#心官塘<sub>儿</sub>不得满)】`xien1 gun1 tan2 r beh7 deh7 mun3` <sup>[如皋]</sup> 人心难足。  
 1. 【[心肝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_gun.md#心肝)】`xien1 gun1` <sup>[如东]</sup> 心和肝是人维持生命的最重要的器官。比喻宝贝，多指小儿。  
@@ -797,12 +797,15 @@
 1. 【[心急火燎的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_jieh_hu_lio_dii.md#心急火燎的)】`xien1 jieh7 hu3 lio2-3 dii` <sup>[如皋]</sup> 状特别焦躁不安。  
 1. 【[心坚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_jin.md#心坚)】`xien1 jin1` <sup>[兴化]</sup> 形容有决心，能坚持：只要～，再难的事也学得会。｜“……元来就是赵道姑，作此试我的。因此道我～，尽把术来传了……”（《初刻》四）  
 1. 【[心尖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_jin_zz.md#心尖子)】`xien1 jin1 zz` <sup>[兴化]</sup> 形容最被宠爱的人：小孙子是老两口的～。  
-1. 【[心焦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_jio.md#心焦)】`xien1 jio1` <small>/ɕin1 t͡ɕiɔ1/<sup>兴化</sup>, /ɕiəŋ1 t͡ɕiɔ1/<sup>如皋</sup></small> ① 耽心。<sup>\[如皋\]</sup> ② 久等而心烦。<sup>\[如皋\]</sup> ③ 着急。<sup>\[如东\]</sup>：等得大家都～。<sup>\[如东\]</sup> ④ 心情焦虑、忧烦<sup>\[兴化\]</sup>：等人等得～。<sup>\[兴化\]</sup>｜带来的盘缠看看要用完吖，～得了不得。<sup>\[兴化\]</sup> ⑤ 寂寞无聊<sup>\[兴化\]</sup>：“闲打牙，与你老人家解～……”（《岐路灯》九三）<sup>\[兴化\]</sup>  
-1. 【[心口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_keu.md#心口)】`xien1 keu3` <small>/ɕiŋ1 kʰɤɯ3/<sup>泰县</sup></small> ① 胸口。膻中穴及周围<sup>\[东台\]</sup>：老百姓称胃痛为～疼。<sup>\[东台\]</sup> ② 胸脯：他拍拍～说，我哪块对不起你。<sup>\[泰县\]</sup>  
+1. 【[心尖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_jin_zz.md#心尖子)】`xien1 jin1 zz` <small>/ɕiŋ1 t͡ɕĩ1 t͡sɿ/<sup>泰兴</sup></small> 比喻最喜欢的人或物品。<sup>\[泰兴\]</sup>：苗苗是独生子，是他佼夫妻的～<sup>\[泰兴\]</sup>  
+1. 【[心焦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_jio.md#心焦)】`xien1 jio1` <small>/ɕin1 t͡ɕiɔ1/<sup>兴化</sup>, /ɕiəŋ1 t͡ɕiɔ1/<sup>如皋</sup>, /ɕiŋ1 t͡ɕiɔ1/<sup>泰兴</sup></small> ① 耽心。<sup>\[如皋\]</sup> ② 久等而心烦。<sup>\[如皋\]</sup> ③ 着急。<sup>\[如东\]</sup>：等得大家都～。<sup>\[如东\]</sup> ④ 心情焦虑、忧烦<sup>\[兴化\]</sup>：等人等得～。<sup>\[兴化\]</sup>｜带来的盘缠看看要用完吖，～得了不得。<sup>\[兴化\]</sup> ⑤ 寂寞无聊<sup>\[兴化\]</sup>：“闲打牙，与你老人家解～……”（《岐路灯》九三）<sup>\[兴化\]</sup> ⑥ 寂寞，心中着急烦躁。<sup>\[泰兴\]</sup>：你不要～，我马上来陪你。<sup>\[泰兴\]</sup>  
+1. 【[心口头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_keu_teu.md#心口头)】`xien1 keu teu2` <small>/ɕiŋ1 kʰəɪ tʰəɪ2/<sup>泰兴</sup></small> 胸口，肋下腹上凹下的部分。也称“心口塘儿”。<sup>\[泰兴\]</sup>  
+1. 【[心口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_keu.md#心口)】`xien1 keu3` <small>/ɕiŋ1 kʰɤɯ3/<sup>泰县</sup></small> ① 胸口。膻中穴及周围<sup>\[东台\]</sup>：老百姓称胃痛为～疼。<sup>\[东台\]</sup> ② 胸脯<sup>\[泰县\]</sup>：他拍拍～说，我哪块对不起你。<sup>\[泰县\]</sup>  
 1. 【[心口裂㿭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_keu_lih_cheh_zz.md#心口裂㿭子)】`xien1 keu3 lih8 cheh7 zz` <sup>[东台]</sup> 形容伙食差，人的油水太少：改革开放前苦得～。  
 1. 【[心口气<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_keu_qi_r.md#心口气<sub>儿</sub>)】`xien1 keu3 qi5 r` <sup>[泰县]</sup> 最疼爱的人：她是爹爹的～。  
 1. 【[心口塘/膛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_keu_tan.md#心口塘/膛)】`xien1 keu3 tan2` <sup>[泰州]</sup> 胸口：昨天用吖点儿劲，早上起来，～这块隐隐有点儿疼。｜小王对住他～就是一拳头。  
 1. 【[心口塘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_keu_tan_r.md#心口塘<sub>儿</sub>)】`xien1 keu3 tan2 r` <sup>[东台]</sup> ① 同“心口”。 ② ［喻］人的欲望：有的人不知足，～总是不得满。  
+1. 【[心口塘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_keu_tan_r.md#心口塘<sub>儿</sub>)】`xien1 keu3 tan2 r` <small>/ɕiŋ1 kʰəɪ3 tʰɑ˞2/<sup>泰兴</sup></small> 心口，胸口<sup>\[泰兴\]</sup>  
 1. 【[心口塘<sub>儿</sub>不得满](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_keu_tan_r_beh_deh_mun.md#心口塘<sub>儿</sub>不得满)】`xien1 keu3 tan2 r beh7 deh7 mun3` <sup>[东台]</sup> 形容人的欲望无止境。  
 1. 【[心孔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_kon.md#心孔)】`xien1 kon3` <sup>[兴化]</sup> 心机：他喜欢用～，想问题比较复杂。  
 1. 【[心窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_ku.md#心窠)】`xien1 ku1` <sup>[如东]</sup> 前胸骨凹陷的部位。  
@@ -817,6 +820,7 @@
 1. 【[心里滴血](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_lii_dieh_xiuh.md#心里滴血)】`xien1 lii dieh7 xiuh7` <sup>[如东]</sup> 心脏受伤，向外流血。比喻非常伤心：玉兰气得～。  
 1. 【[心里举动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_lii_jy_ton.md#心里举动)】`xien1 lii jy3 ton` <sup>[如皋]</sup> 心一直乱跳。动，跟在动词之后，表示状态。  
 1. 【[心里𨁝咖𨁝的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_lii_peh_ga_peh_dii.md#心里𨁝咖𨁝的)】`xien1 lii peh8 ga peh8 dii` <sup>[如皋]</sup> ① 状心跳突然加快。 ② 状心跳不规则。𨁝也说pieh8。  
+1. 【[心里疼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_lii_ten.md#心里疼)】`xien1 lii ten2` <small>/ɕiŋ1 ləɪ tʰəŋ2/<sup>泰兴</sup></small> 胃痛（存疑）。<sup>\[泰兴\]</sup>  
 1. 【[心里作㽹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_lii_zah_faen.md#心里作㽹)】`xien1 lii zah7 faen5` <sup>[如皋]</sup> 欲呕的感觉。  
 1. 【[心里作痒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_lii_zah_ian.md#心里作痒)】`xien1 lii zah7 ian3` <sup>[如东]</sup> 急切从事某项活动的愿望和热情。  
 1. 【[心里只举](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_lii_zheh_jy.md#心里只举)】`xien1 lii zheh jy3` <sup>[如皋]</sup> 心一直乱跳。  
@@ -830,6 +834,7 @@
 1. 【[心热](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_rih.md#心热)】`xien1 rih8` <sup>[如皋]</sup> 热心肠。  
 1. 【[心上难过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_shan_naen_gu.md#心上难过)】`xien1 shan6 naen2 gu5` <sup>[如东]</sup> ① 泛胃酸，感觉不舒服。 ② 遇到不顺心的事而感觉痛苦。  
 1. 【[心上疼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_shan_ten.md#心上疼)】`xien1 shan6 ten2` <sup>[如东]</sup> ① 胃病。 ② 心里难受：我气得～。  
+1. 【[心事裸裸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_shr_lu_lu.md#心事裸裸)】`xien1 shr lu3 lu3` <small>/ɕiŋ1 sɿ lɤɯ3 lɤɯ3/<sup>泰兴</sup></small> 所担心的事情又多又大，排解不了。<sup>\[泰兴\]</sup>：出咖事以后，他总是～的。<sup>\[泰兴\]</sup>  
 1. 【[心思都想黄吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_sz_du_xian_huan_nga.md#心思都想黄吖)】`xien1 sz1 du1 xian3 huan2 nga` <sup>[东台]</sup> 形容思虑过多，且都不得如愿。  
 1. 【[心思念念的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_sz_nin_nin_dii.md#心思念念的)】`xien1 sz1 nin6 nin6 dii` <sup>[如皋]</sup> 见“心心念念的”。  
 1. 【[心疼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_ten.md#心疼)】`xien1 ten2` <sup>[如皋]</sup> 见“肉疼”。  

@@ -1179,9 +1179,8 @@
 1. 【[火花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_hua.md#火花)】`hu3 hua1` <sup>[如东]</sup> 金属碰击后迸发出来的一簇簇火星。  
 1. 【[火药捻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_iah_nin_zz.md#火药捻子)】`hu3 iah8 nin3 zz` <sup>[如皋]</sup> 引火线。  
 1. 【[火药碰火柴——一点就着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_iah_pon_hu_shae_ieh_din_qieu_chah.md#火药碰火柴——一点就着)】`hu3 iah8 pon5 hu3 shae2 ieh7 din3 qieu6 chah8` <sup>[东台]</sup>   
-1. 【[火萤虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_ien_chon.md#火萤虫)】`hu3 ien chon2` <sup>[泰州]</sup> 萤火虫，体黄褐色，腹部末端有发光器，夜间发出淡绿色的萤光。  
 1. 【[火萤虫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_ien_chon_r.md#火萤虫<sub>儿</sub>)】`hu3 ien chon2 r` <sup>[如皋]</sup> 萤火虫。本地指黄萤。又称火焰虫。  
-1. 【[火萤虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_ien_chon.md#火萤虫)】`hu3 ien2 chon2` <sup>[东台]</sup> 又叫萤火虫，昼伏夜出，腹部能发出绿莹莹的光。  
+1. 【[火萤虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_ien_chon.md#火萤虫)】`hu3 ien2 chon2` <small>/xɤɯ3 iŋ2 t͡sʰɔŋ2/<sup>泰兴</sup></small> 萤火虫<sup>\[东台\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>  
 1. 【[火萤虫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_ien_chon_r.md#火萤虫<sub>儿</sub>)】`hu3 ien2 chon2 r` <small>/xo3 in2 t͡sʰoŋ2 ɚ/<sup>兴化</sup>, /xo3 iŋ2 t͡sʰoŋ2 ɚ/<sup>泰县</sup></small> ① 即“萤火虫”。<sup>\[兴化\]</sup> ② 萤火虫。<sup>\[泰县\]</sup>  
 1. 【[火油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_ieu.md#火油)】`hu3 ieu2` <small>/xo3 iɤ2/<sup>兴化</sup>, /xʊ3 yʊ2/<sup>如皋</sup></small> ① 煤油。旧称洋油。<sup>\[如皋\]</sup> ② 煤油。<sup>\[兴化\]</sup>  
 1. 【[火焰灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_in_den.md#火焰灯)】`hu3 in den1` <sup>[如皋]</sup> 灯光如豆的小油灯。  
@@ -1200,6 +1199,7 @@
 1. 【[火冒冒的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_mo_mo_dii.md#火冒冒的)】`hu3 mo6 mo6 dii` <sup>[如皋]</sup> 人发火、激动的样子。  
 1. 【[火麦场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_moh_chan.md#火麦场)】`hu3 moh8 chan2` <small>/xʊ3 mɔʔ8 t͡sʰã2/<sup>如皋</sup></small> ① 紧张的夏收夏种。<sup>\[如皋\]</sup> ② 见“麦场”。<sup>\[如皋\]</sup>  
 1. 【[火捻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_nin_r.md#火捻<sub>儿</sub>)】`hu3 nin3 r` <sup>[如皋]</sup> 引火线。  
+1. 【[火旁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_pan.md#火旁)】`hu3 pan2` <small>/xɤɯ3 pʰɑŋ2/<sup>泰兴</sup></small> 汉字偏旁，火，“灯”“烛”的左边。<sup>\[泰兴\]</sup>  
 1. 【[火勃勃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_peh_peh.md#火勃勃)】`hu3 peh8 peh8` <small>/xo3 pʰəʔ8 pʰəʔ8/<sup>兴化</sup>, /xo3 pʰəʔ8 pʰəʔ8/<sup>泰县</sup></small> ① 火气很大。<sup>\[如东\]</sup>：他～的说：“不做啊。”<sup>\[如东\]</sup> ② 形容很着急、很气愤地<sup>\[兴化\]</sup>：听了他一番言语，丈母娘气得～的。<sup>\[兴化\]</sup> ③ 形容燥热感<sup>\[兴化\]</sup>：几里路走下来身上～的。<sup>\[兴化\]</sup> ④ 火气很大：你不要～，听我慢慢说。<sup>\[泰县\]</sup>  
 1. 【[火勃勃/火㶿㶿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_peh_peh.md#火勃勃/火㶿㶿)】`hu3 peh8 peh8` <sup>[泰州]</sup> 因为激烈运动导致浑身发热：早上起来再公园里跑啊个把钟头，这一刻而身上跑得～的。  
 1. 【[火球<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_qieu_r.md#火球<sub>儿</sub>)】`hu3 qieu2 r` <sup>[如皋]</sup> ① 球状燃体：一声惊雷，落下几个～到处滚。 ② 火流星道具：演杂技的在高台上舞～。  
@@ -1217,10 +1217,12 @@
 1. 【[火烧棺材——急死人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_sho_gun_cae_jieh_sz_ren.md#火烧棺材——急死人)】`hu3 sho1 gun1 cae jieh7 sz3 ren2` <sup>[东台]</sup>   
 1. 【[火烧火辣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_sho_hu_laeh.md#火烧火辣)】`hu3 sho1 hu3 laeh8` ① 灼热而又感觉刺人。<sup>\[如东\]</sup>：身上～的，难过。<sup>\[如东\]</sup> ② 热辣辣的感觉<sup>\[东台\]</sup>：那天子身上～的，嘴唇也脱咖皮。<sup>\[东台\]</sup>  
 1. 【[火烧火燎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_sho_hu_lio.md#火烧火燎)】`hu3 sho1 hu3 lio2` <sup>[如东]</sup> 又烫又痛：手上一的疼。  
+1. 【[火烧眉毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_sho_mei_mo.md#火烧眉毛)】`hu3 sho1 mei2 mo2` <small>/xɤɯ3 sɔ1 məɪ2 mɔ2/<sup>泰兴</sup></small> 比喻情势极为急迫，即燃眉之急也。<sup>\[泰兴\]</sup>  
 1. 【[火烧眉毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_sho_mi_mo.md#火烧眉毛)】`hu3 sho1 mi2 mo2` <sup>[如东]</sup> 形容非常焦急：箇许急咖～，你还慢慢吞吞的。  
 1. 【[火烧眉毛——迫在眼前](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_sho_mi_mo_poh_cae_ngaen_qin.md#火烧眉毛——迫在眼前)】`hu3 sho1 mi2 mo2 poh7 cae6 ngaen3 qin2` <sup>[东台]</sup>   
 1. 【[火烧屁股不着忙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_sho_pi_gv_beh_zhah_man.md#火烧屁股不着忙)】`hu3 sho1 pi5 gv3 beh7 zhah7 man2` <sup>[东台]</sup> 形容某人性子太慢，动作太迟缓。  
 1. 【[火头军](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_teu_jyen.md#火头军)】`hu3 teu jyen1` <sup>[如皋]</sup> 见“锅下”。  
+1. 【[火头军](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_teu_jyen.md#火头军)】`hu3 teu jyen1` <small>/xɤɯ3 tʰəɪ t͡ɕyəŋ1/<sup>泰兴</sup></small> 原指军中掌管炊事的人员。今多作戏语，称炊事人员。<sup>\[泰兴\]</sup>  
 1. 【[火头军](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_teu_jyen.md#火头军)】`hu3 teu2 jyen1` <sup>[泰州]</sup> ① 军队中负责烧火做饭的人。 ② 泛指在厨房做杂事的人：他退休后就在家里做～忙三顿饭。  
 1. 【[火头上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_teu_shan.md#火头上)】`hu3 teu2 shan` <sup>[泰州]</sup> 正在最愤怒的时候：处长现在正在～，过一刻儿再说。  
 1. 【[火豆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_teu_zz.md#火豆子)】`hu3 teu6 zz` <sup>[兴化]</sup> （喻）急性子：他是个～，一碰就跳。  

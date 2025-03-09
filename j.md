@@ -593,6 +593,7 @@
 1. 【[酱油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_ieu.md#酱油)】`jian5 ieu2` <sup>[如东]</sup> 黄豆发酵，加盐，制成液体，色深红，味香醇，作调料。  
 1. 【[酱油店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_ieu_din.md#酱油店)】`jian5 ieu2 din5` <sup>[如皋]</sup> 经销酱酒盐类的商店。  
 1. 【[酱油豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_ieu_teu.md#酱油豆)】`jian5 ieu2 teu6` <sup>[东台]</sup> 将大豆煮熟后让其发霉，土法制作酱油，大豆即为～。  
+1. 【[酱龛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_kun_zz.md#酱龛子)】`jian5 kun1 zz` <small>/t͡ɕiɑŋ5 kʰʊ̃1 t͡sɿ/<sup>泰兴</sup></small> 斗篷。<sup>\[泰兴\]</sup>  
 1. 【[酱笼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_lon_r.md#酱笼<sub>儿</sub>)】`jian5 lon2 r` <sup>[如皋]</sup> 插在酱缸中的长篾篓，用以取乳油、浸制酱菜。  
 1. 【[酱色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_seh.md#酱色)】`jian5 seh7` <sup>[如皋]</sup> 用糖稀熬成的浓液，旧时煮红烧肉用作色素。后发现含毒素，已禁用。  
 1. 【[酱味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_vei.md#酱味)】`jian5 vei6` <sup>[如皋]</sup> 生酱的气味。  

@@ -1712,17 +1712,18 @@
 1. 【[颧骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_gueh.md#颧骨)】`qiun2 gueh7` <sup>[东台]</sup> 眼睛下边两腮上面突出的颜面骨。  
 1. 【[鬈毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_mo.md#鬈毛)】`qiun2 mo` 卷发，卷毛  
 1. 【[犬齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_chr.md#犬齿)】`qiun3 chr3` <sup>[东台]</sup> 齿的一种，上下颌各有两枚，在门齿的两侧，较锋利。  
-1. 【[券](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun.md#券)】`qiun5` <small>/t͡ɕʰyʊ̃5/<sup>如皋</sup></small> ① 门、窗等顶部的拱：棚～（给门窗上方制作拱）。<sup>\[如皋\]</sup> ② 票据或作为证据的纸片<sup>\[东台\]</sup>：菜～<sup>\[东台\]</sup>｜入场～<sup>\[东台\]</sup>｜购物～。<sup>\[东台\]</sup>  
+1. 【[券](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun.md#券)】`qiun5` <small>/t͡ɕʰyʊ̃5/<sup>如皋</sup></small> ① 门、窗等顶部的拱<sup>\[如皋\]</sup>：棚～（给门窗上方制作拱）。<sup>\[如皋\]</sup> ② 票据或作为证据的纸片<sup>\[东台\]</sup>：菜～<sup>\[东台\]</sup>｜入场～<sup>\[东台\]</sup>｜购物～。<sup>\[东台\]</sup>  
 1. 【[劝饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_faen.md#劝饭)】`qiun5 faen6` <small>/t͡ɕʰyʊ̃5 fẽ1/<sup>如皋</sup></small> ① 劝人多进餐。<sup>\[如皋\]</sup> ② 劝说客人多吃一些饭菜。<sup>\[如东\]</sup>  
-1. 【[劝架](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_jia.md#劝架)】`qiun5 jia5` ① 劝说双方停止争吵或打架。<sup>\[如东\]</sup> ② 劝人停止争吵、打架。<sup>\[东台\]</sup>  
-1. 【[劝酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_jieu.md#劝酒)】`qiun5 jieu3` <small>/t͡ɕʰyʊ̃5 t͡ɕyʊ3/<sup>如皋</sup></small> ① 劝人多饮酒。<sup>\[如皋\]</sup> ② 助酒兴的一种方法。客人喝酒已经喝得差不多了。主人过来，拿着酒壶或酒瓶，说服客人再喝一杯称劝酒。<sup>\[如东\]</sup>  
+1. 【[劝和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_hu.md#劝和)】`qiun5 hu2` <small>/t͡ɕʰyʊ̃5 xɤɯ2/<sup>泰兴</sup></small> 劝人和解。<sup>\[泰兴\]</sup>  
+1. 【[劝架](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_jia.md#劝架)】`qiun5 jia5` <small>/t͡ɕʰyʊ̃5 t͡ɕiɑ5/<sup>泰兴</sup></small> ① 劝说双方停止争吵或打架。<sup>\[如东\]</sup> ② 劝人停止争吵、打架。<sup>\[东台\]</sup> ③ 劝人停止争吵或打架。<sup>\[泰兴\]</sup>：他两个啕起来了，你去劝劝架。<sup>\[泰兴\]</sup>  
+1. 【[劝酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_jieu.md#劝酒)】`qiun5 jieu3` <small>/t͡ɕʰyʊ̃5 t͡ɕyʊ3/<sup>如皋</sup>, /t͡ɕʰyʊ̃5 t͡ɕiɤɯ3/<sup>泰兴</sup></small> ① 劝人多饮酒。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup> ② 助酒兴的一种方法。客人喝酒已经喝得差不多了。主人过来，拿着酒壶或酒瓶，说服客人再喝一杯称劝酒。<sup>\[如东\]</sup>  
 1. 【[劝世](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_shr.md#劝世)】`qiun5 shr5` <sup>[东台]</sup> 劝人向善：从前流行的道情大多是启发和开导人心胸开阔、与人为善的“～文”。  
 1. 【[圈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun.md#圈)】`qiun6` <sup>[东台]</sup> 饲养家畜的建筑物：猪～｜羊～。  
 1. 【[圈养鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_ian_ji.md#圈养鸡)】`qiun6 ian3 ji1` <sup>[东台]</sup> 关在圈里养的鸡，常用来喻指活动范围小，没有见过大世面的人：我俫是些～，不要说出国，连出省的机会总没得。  
 1. 【[圈棚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_pon_r.md#圈棚<sub>儿</sub>)】`qiun6 pon2 r` <sup>[如东]</sup> 一种小型的房屋，房顶呈半圆形，一般建在田头或河边。  
 1. 【[圈䳞腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_pon_tuei.md#圈䳞腿)】`qiun6 pon6 tuei3` <sup>[兴化]</sup> 罗圈腿的俗称。也称“䳞䳞腿”。  
-1. 【[旋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun.md#旋)】`qiun6` <small>/t͡ɕʰyũ6/<sup>兴化</sup></small> ① 呈旋涡状的头发。<sup>\[如东\]</sup> ② 月晕的俗称：凉月子周围有个～，马上要起风吖。<sup>\[兴化\]</sup> ③ 圆发旋：小四子头上有两个～。<sup>\[兴化\]</sup> ④ 刚刚：他～来的时候表现还不丑。<sup>\[兴化\]</sup>  
-1. 【[旋风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_fon.md#旋风)】`qiun6 fon1` <small>/t͡ɕʰyũ6 foŋ1/<sup>兴化</sup></small> ① 因空气旋转而产生的形似漏斗一样的小风柱，常在田间、路边出现。也称旋旋儿风。<sup>\[如东\]</sup> ② 旋风：一阵～，把场上刮得满天的灰尘跟麦草。<sup>\[兴化\]</sup>  
+1. 【[旋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun.md#旋)】`qiun6` <small>/t͡ɕʰyũ6/<sup>兴化</sup></small> ① 圆发旋，呈旋涡状的头发。<sup>\[如东\]</sup><sup>\[兴化\]</sup>：小四子头上有两个～。<sup>\[兴化\]</sup> ② 月晕的俗称<sup>\[兴化\]</sup>：凉月子周围有个～，马上要起风吖。<sup>\[兴化\]</sup> ③ 刚刚<sup>\[兴化\]</sup>：他～来的时候表现还不丑。<sup>\[兴化\]</sup>  
+1. 【[旋风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_fon.md#旋风)】`qiun6 fon1` <small>/t͡ɕʰyũ6 foŋ1/<sup>兴化</sup></small> ① 因空气旋转而产生的形似漏斗一样的小风柱，常在田间、路边出现。也称旋旋儿风。<sup>\[如东\]</sup> ② 旋风<sup>\[兴化\]</sup>：一阵～，把场上刮得满天的灰尘跟麦草。<sup>\[兴化\]</sup>  
 1. 【[旋旋<sub>儿</sub>风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_qiun_r_fon.md#旋旋<sub>儿</sub>风)】`qiun6 qiun6 r fon1` <sup>[如皋]</sup> 小旋风。  
 1. 【[旋漩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_qiun_r.md#旋漩<sub>儿</sub>)】`qiun6 qiun6 r` <sup>[如东]</sup> 水流旋转时形成的螺旋形。也叫漩涡。  
 1. 【[旋网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_van.md#旋网)】`qiun6 van3` <small>/t͡ɕʰyũ6 uaŋ3/<sup>兴化</sup>, /t͡ɕʰyõ1 uɑŋ3/<sup>泰县</sup></small> ① 鱼网的一种。顶锥形，封闭；底圆形，张开，像钟。底部装着锡砣，叫做脚子。作业时，渔民将网撒出去罩住一定的水域，将鱼罩住捕捉。<sup>\[如东\]</sup> ② 一种捕鱼的围网。<sup>\[兴化\]</sup> ③ 鱼网的一种。<sup>\[泰县\]</sup>  
