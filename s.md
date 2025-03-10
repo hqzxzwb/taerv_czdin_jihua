@@ -2257,15 +2257,17 @@
 1. 【[蒴藋赤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuah_chuah_cheh_zz.md#蒴藋赤子)】`shuah7 chuah8 cheh7 zz` <sup>[如东]</sup> 忍冬科植物蒴藿的果实。  
 1. 【[双胞<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_bo_r.md#双胞<sub>儿</sub>)】`shuan1 bo1 r` 双胞胎  
 1. 【[双胞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_bo_zz.md#双胞子)】`shuan1 bo1 zz` <sup>[兴化]</sup> 孪生子女：她头胎就生吖一对～。也称“双胞儿”。  
-1. 【[双宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_bo_r.md#双宝<sub>儿</sub>)】`shuan1 bo3 r` <small>/suã1 pɔ˞3/<sup>如皋</sup>, /ɕyɑŋ1 pɔ3 ɚ/<sup>泰县</sup></small> ① 双胞胎，双生儿。其一为“大双儿”，其二为“细双儿”。<sup>\[如皋\]</sup> ② 双胞胎。<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>  
+1. 【[双宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_bo_r.md#双宝<sub>儿</sub>)】`shuan1 bo3 r` <small>/suã1 pɔ˞3/<sup>如皋</sup>, /suɑŋ1 pɔ˞3/<sup>泰兴</sup>, /ɕyɑŋ1 pɔ3 ɚ/<sup>泰县</sup></small> 双胞胎，双生儿<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>\[如皋：其一为“大双儿”，其二为“细双儿”。\]：他家的～一起考取了大学。<sup>\[泰兴\]</sup>  
 1. 【[双当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_dan.md#双当)】`shuan1 dan1` <sup>[兴化]</sup> 两件或两件以上的事碰到一起：他接到两张请柬，都是明晚的宴会，～吖。  
+1. 【[双顶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_dien.md#双顶)】`shuan1 dien3` <small>/suɑŋ1 tiŋ3/<sup>泰兴</sup></small> 头顶有两个发旋。<sup>\[泰兴\]</sup>  
 1. 【[双甸镇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_din_zhen.md#双甸镇)】`shuan1 din5 zhen5` <sup>[如东]</sup> 如东古镇。“甸”字地名一般由“店”改名而来，但发音仍旧为“店din5”，不读“甸tin6”。  
 1. 【[双耳搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_er_daeh.md#双耳搭)】`shuan1 er3 daeh7` <sup>[如皋]</sup> （阝）：陡队陈，邻那邓。左为阜，右为邑。  
 1. 【[双缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_gan.md#双缸)】`shuan1 gan1` <sup>[如皋]</sup> 酱园做酱用双缸翻晒。  
 1. 【[双虹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_gan.md#双虹)】`shuan1 gan5` <sup>[如皋]</sup> 指两道彩虹（同心不同径）。  
 1. 【[双钩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_geu_r.md#双钩<sub>儿</sub>)】`shuan1 geu1 r` <sup>[如皋]</sup> 钓具，一根钓鱼线装有上、下两只钩子。  
 1. 【[双箍眼睛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_gv_ngaen_jien.md#双箍眼睛)】`shuan1 gv1 ngaen3 jien` <sup>[泰县]</sup> 双眼皮。  
-1. 【[双箍子眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_gv_zz_ngaen.md#双箍子眼)】`shuan1 gv1 zz ngaen3` ① 双眼皮儿。<sup>\[如东\]</sup>：苹苹是～。<sup>\[如东\]</sup> ② 双眼皮。<sup>\[东台\]</sup>  
+1. 【[双箍子眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_gv_zz_ngaen.md#双箍子眼)】`shuan1 gv1 zz ngaen3` 双眼皮<sup>\[如东\]</sup><sup>\[东台\]</sup>：苹苹是～。<sup>\[如东\]</sup>  
+1. 【[双箍子眼睛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_gv_zz_ngaen.md#双箍子眼睛)】`shuan1 gv1 zz ngaen3 jien` <small>/suɑŋ1 ku1 t͡sɿ ŋɛ̃3 t͡ɕiŋ/<sup>泰兴</sup></small> 双眼皮<sup>\[泰兴\]</sup>  
 1. 【[双箍子眼睛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_gv_zz_ngaen_jien.md#双箍子眼睛)】`shuan1 gv1 zz ngaen3 jien` <sup>[兴化]</sup> 双眼皮：我爱哥哥人品好，～乌眉毛。（兴文《盼郎会》）  
 1. 【[双鞋庄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_hae_zhuan.md#双鞋庄)】`shuan1 hae2 zhuan1` <sup>[东台]</sup> 原广山镇的一个村庄，现为五烈镇双超村。传说七仙女被天兵天将抓上天时，扔下一双鞋给董永做纪念，一只落在河东，一只落在河西，落鞋处分别得名东鞋庄、西鞋庄，合称～。  
 1. 【[双脚踏在棉花堆上——不踏实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_jiah_taeh_cae_min_hua_dy_shan_beh_taeh_sheh.md#双脚踏在棉花堆上——不踏实)】`shuan1 jiah7 taeh8 cae6 min2 hua1 dy1 shan6 beh7 taeh8 sheh` <sup>[东台]</sup>   
@@ -2278,8 +2280,10 @@
 1. 【[双泡<sub>儿</sub>眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_po_r_ngaen.md#双泡<sub>儿</sub>眼)】`shuan1 po1 r ngaen3` <sup>[泰县]</sup> 双眼皮。  
 1. 【[双人帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_ren_ban.md#双人帮)】`shuan1 ren2 ban1` <sup>[如皋]</sup> （彳）：行徒征。  
 1. 【[双人旁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_ren_pan.md#双人旁)】`shuan1 ren2 pan2` <sup>[兴化]</sup> 汉字偏旁：形状是“彳”。  
-1. 【[双身人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_shen_ren.md#双身人)】`shuan1 shen1 ren2` <small>/suaŋ1 sən1 lən2/<sup>兴化</sup>, /suã1 səŋ1 ɻəŋ2/<sup>如皋</sup>, /ɕyɑŋ1 səŋ1 ɻəŋ2/<sup>泰县</sup></small> 孕妇。<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>  
+1. 【[双日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_rih.md#双日)】`shuan1 rih` <small>/suɑŋ1 iʔ/<sup>泰兴</sup></small> 日期逢双的日子。乡人择亲、婚庆等多择双日。<sup>\[泰兴\]</sup>  
+1. 【[双身人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_shen_ren.md#双身人)】`shuan1 shen1 ren2` <small>/suaŋ1 sən1 lən2/<sup>兴化</sup>, /suã1 səŋ1 ɻəŋ2/<sup>如皋</sup>, /suɑŋ1 səŋ1 ɻəŋ2/<sup>泰兴</sup>, /ɕyɑŋ1 səŋ1 ɻəŋ2/<sup>泰县</sup></small> 孕妇。<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>  
 1. 【[双身子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_shen_zz.md#双身子)】`shuan1 shen1 zz` <sup>[如东]</sup> 怀孕的妇女。  
+1. 【[双手揞吖个太阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_sheu_un_nga.md#双手揞吖个太阳)】`shuan1 sheu3 un3 nga gu5 tae5 ian2-1` <small>/suɑŋ1 ɕiɤɯ3 ʊ̃3 ŋa kɤɯ5 tʰɛ5 iɑŋ2/<sup>泰兴</sup></small> 喻一个人同时只能做一件事<sup>\[泰兴\]</sup>  
 1. 【[双数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_shv.md#双数)】`shuan1 shv5` <sup>[兴化]</sup> 数：他家儿子七岁还不曾识～唻。  
 1. 【[双响](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_xian.md#双响)】`shuan1 xian3` <sup>[如东]</sup> 爆竹的一种，能连发两响。  
 1. 【[双星<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_xien_r.md#双星<sub>儿</sub>)】`shuan1 xien1 r` <sup>[如皋]</sup> 杆秤上的最小秤星是单星儿，大一级的是～。  
@@ -2394,6 +2398,7 @@
 1. 【[水绘园](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_huei_iun.md#水绘园)】`shuei3 huei6 iun2` <sup>[如皋]</sup> 明末消初，冒氏别业。冒辟疆、董小宛的居地。建筑为徽派风格。其中有水明楼一座，若浮于水中，其他人文遗迹众多，曾名为水绘庵、雨香庵。现今为如皋4A级（国家级）旅游景点。  
 1. 【[水葫芦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_hv_lv.md#水葫芦)】`shuei3 hv2 lv2` <sup>[如东]</sup> ① 鸟。体长24.5厘米，上体黑褐色，眼前、颊、上喉黑色，耳、颈侧棕色。羽银白。眼红。嘴褐，先端黄。腿和趾黄色。栖息于水草丛生的湖沼中，常成对或成群在水面游泳。善潜水。 ② 凤眼莲的通称。  
 1. 【[水油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_ieu.md#水油)】`shuei3 ieu2` <sup>[如皋]</sup> 清洗猪内脏时剩下的脂肪，或煮猪肉时撤起的油，熬去本分，称之。  
+1. 【[水烟袋子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_in_tae_zz.md#水烟袋子)】`shuei3 in tae6 zz` <small>/suəɪ3 ĩ tʰɛ1 t͡sɿ/<sup>泰兴</sup></small> 铜制吸烟用具。烟经水过滤而吸出，吸时有咕噜的声音。乡谚中有一吸水烟的顺口溜：“山高路天通，孔明借东风，曹操用水计，周瑜用火攻。”<sup>\[泰兴\]</sup>  
 1. 【[水烟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_in.md#水烟)】`shuei3 in1` ① 烟的一种。烟丝切成丝状，压成方块。吸烟时，扒下一点放在烟台头上点燃。也叫板儿烟。产地主要在兰州。<sup>\[如东\]</sup> ② 一种烟丝，吸的时候，烟从注水的筒管中通过，故名。<sup>\[泰州\]</sup>  
 1. 【[水烟店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_in_din.md#水烟店)】`shuei3 in1 din5` <sup>[如皋]</sup> 专售水烟的商店。  
 1. 【[水烟方子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_in_fan_zz.md#水烟方子)】`shuei3 in1 fan1 zz` <sup>[如皋]</sup> 原产的方块形水烟，与“筛青”相对。上有阴文一字，计分为“甘、肃、兰、州”四级。  
@@ -2456,7 +2461,7 @@
 1. 【[水漫金山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_mun_jien_shaen.md#水漫金山)】`shuei3 mun6 jien1 shaen1` ① 比喻到处都是水。<sup>\[如东\]</sup> ② 借白娘子的神话故事来形容涝灾，或指家中漏水的情况<sup>\[东台\]</sup>：忘掉关水龙头，家里～！<sup>\[东台\]</sup>  
 1. 【[水鸭<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_ngaeh_r.md#水鸭<sub>儿</sub>)】`shuei3 ngaeh7 r` <small>/ɕyəɪ3 æʔ7 ɚ/<sup>泰县</sup></small> ① 野鸭。比喻喜欢游泳的孩子。<sup>\[如东\]</sup>：张明是个～。<sup>\[如东\]</sup> ② 喜欢游水的小孩。<sup>\[泰县\]</sup>  
 1. 【[水鸭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_ngaeh_zz.md#水鸭子)】`shuei3 ngaeh7 zz` <sup>[兴化]</sup> （喻）形容人身上被雨水淋湿的样子：身上沰咖像个～。  
-1. 【[水牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_ngeu.md#水牛)】`shuei3 ngeu2` <sup>[如东]</sup> 牛科动物水牛，体长2米以上。头大，额广，鼻阔，口大。唇上部有2个大鼻孔，皮肤硬而光滑，无毛，称鼻镜。眼、耳大。角长大而扁，微弯，无分枝，中空，内有骨质角髓，有很多节纹。颈短，腰腹隆凸。四肢较短，蹄较大4趾均有蹄甲，其后方2趾不着地，称悬蹄。尾较长，尾端有丛毛。皮肤无汁腺，暑天喜欢浸在水中，毛粗而短。体色大多为黑色，亦有黄褐色或白色的。食物以青草为主。适于农田耕作和拉车运输。  
+1. 【[水牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_ngeu.md#水牛)】`shuei3 ngeu2` <small>/suəɪ3 ŋəɪ2/<sup>泰兴</sup></small> 水牛，牛科动物，耕作用畜。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
 1. 【[水牛角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_ngeu_gah.md#水牛角)】`shuei3 ngeu2 gah7` <sup>[如东]</sup> 牛科动物水牛角。  
 1. 【[水牛身上拔根毛——毫不在乎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_ngeu_shen_shan_paeh_gen_mo_ho_beh_cae_hv.md#水牛身上拔根毛——毫不在乎)】`shuei3 ngeu2 shen1 shan6 paeh8 gen1 mo2 ho2 beh7 cae6 hv` <sup>[东台]</sup>   
 1. 【[水泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_ni.md#水泥)】`shuei3 ni2` <sup>[如东]</sup> 一种重要的建筑材料。粉末状，灰色或棕色。用石灰石、黏土等按适当比例磨细混合，装在窑里烧成块，再用机器碾碎而成。水泥跟沙石混合成糊状，晾干后胶结在一起，非常坚固，可以抹墙，可以制混凝土和钢筋混凝土。过去叫水门汀。  
@@ -2479,7 +2484,7 @@
 1. 【[水芹菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_qien_cae.md#水芹菜)】`shuei3 qien2 cae5` <sup>[如东]</sup> 伞形科植物水芹菜，多年生草本。高约40厘米。全体无毛。茎直立，有分枝，具棱。羽状复叶。复伞形花序顶生或侧顶生，小花白色，略带紫色晕。双悬果椭圆形，淡黄褐色。生长在水边潮湿地里。  
 1. 【[水芹花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_qien_hua.md#水芹花)】`shuei3 qien2 hua1` <sup>[如东]</sup> 伞形科植物水芹花，又称芹花。  
 1. 【[水索](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_sah.md#水索)】`shuei3 sah7` <sup>[如东]</sup> 系水砣的绳索，用棉线麻线或尼龙制成。  
-1. 【[水色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_seh.md#水色)】`shuei3 seh7` <small>/suəi3 səʔ7/<sup>兴化</sup>, /suei3 səʔ7/<sup>如皋</sup></small> ① 皮肤的色泽及细腻的程度，通常用作称赞女性褒词：如，她的～好。<sup>\[如皋\]</sup> ② 指女人皮肤的粗细和色泽<sup>\[兴化\]</sup>：人说扬州妇女～好，其实兴化妇女的～也不丑。<sup>\[兴化\]</sup> ③ 女性肤色黑白粗嫩程度<sup>\[泰州\]</sup>：他家几个姑娘的～都不丑。<sup>\[泰州\]</sup>  
+1. 【[水色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_seh.md#水色)】`shuei3 seh7` <small>/suəi3 səʔ7/<sup>兴化</sup>, /suei3 səʔ7/<sup>如皋</sup>, /suəɪ3 səʔ7/<sup>泰兴</sup></small> ① 皮肤的色泽及细腻的程度，通常用作称赞女性褒词<sup>\[如皋\]</sup>：她的～好。<sup>\[如皋\]</sup> ② 指女人皮肤的粗细和色泽<sup>\[兴化\]</sup>：人说扬州妇女～好，其实兴化妇女的～也不丑。<sup>\[兴化\]</sup> ③ 女性肤色黑白粗嫩程度<sup>\[泰州\]</sup>：他家几个姑娘的～都不丑。<sup>\[泰州\]</sup> ④ 指人的白里透红的面色。<sup>\[泰兴\]</sup>：东家里大姑娘～不丑。<sup>\[泰兴\]</sup>  
 1. 【[水蛇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_sha.md#水蛇)】`shuei3 sha2` ① 游蛇科动物水蛇体长约70厘米。尾短。体鳞光滑。体背呈橄榄色或青灰色，头后至颈部背面中线有黑纵线一条。腹面黄色。捕食鱼类。生活在水田、池、沟等地。<sup>\[如东\]</sup> ② 水赤链的俗称，身有红黑相间斑纹，腹部偏红，背部偏黑，喜栖息在与池沼、流速较缓河流边的树根洞穴、水稻田埂鼠洞或者黄鳝洞穴中之，善于游泳，以泥鳅、蛙类、蝌蚪等为食。<sup>\[泰州\]</sup>  
 1. 【[水蛇腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_sha_io.md#水蛇腰)】`shuei3 sha2 io1` ① 形容女子腰身细长。<sup>\[如东\]</sup>：这姑娘是个～。<sup>\[如东\]</sup> ② 形容女子腰细且灵活。<sup>\[东台\]</sup>  
 1. 【[水杉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_shaen.md#水杉)】`shuei3 shaen1` <sup>[如东]</sup> 落叶大乔木，高约35米，叶子扁平，对生。花单性。球果近圆形，种子扁形。是世界上现存的稀有植物之一。  
@@ -2499,18 +2504,18 @@
 1. 【[水田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_tin.md#水田)】`shuei3 tin2` <sup>[如东]</sup> 贮水的土地，称水田。适于种植水属作物。  
 1. 【[水田种麦子——怪栽（哉）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_tin_zhon_moh_zz_guae_zae.md#水田种麦子——怪栽（哉）)】`shuei3 tin2 zhon5 moh8 zz guae5 zae1` <sup>[东台]</sup>   
 1. 【[水铫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_tio_r.md#水铫<sub>儿</sub>)】`shuei3 tio6 r` <sup>[如东]</sup> 烧水的器具。一个圆桶形的容器，上边装环，前面装倒水的嘴儿。  
-1. 【[水铫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_tio_zz.md#水铫子)】`shuei3 tio6 zz` <small>/suəi3 tʰiɔ6 t͡sɿ/<sup>兴化</sup></small> ① 水壶。<sup>\[东台\]</sup> ② 烧水的壶，旧有铜、锡制品，今多为铝制品。铫<sup>\[兴化\]</sup>：《广韵·啸韵》徒吊切<sup>\[兴化\]</sup>｜烧器。<sup>\[兴化\]</sup>  
+1. 【[水铫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_tio_zz.md#水铫子)】`shuei3 tio6 zz` <small>/suəi3 tʰiɔ6 t͡sɿ/<sup>兴化</sup>, /suəɪ3 tʰiɔ1 t͡sɿ/<sup>泰兴</sup></small> 烧水的壶<sup>\[东台\]</sup><sup>\[泰兴\]</sup>\[兴化：旧有铜、锡制品，今多为铝制品。铫\]  
 1. 【[水套子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_to_zz.md#水套子)】`shuei3 to5 zz` <sup>[如皋]</sup> 河道纵横的水荡地区。外人到此，路道、河道难辨认，往往晕头转向。  
 1. 【[水稻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_to.md#水稻)】`shuei3 to6` <sup>[如东]</sup> 禾本科植物水稻，包括粳稻、籼稻和糯稻三大类。一年生。秆直立，丛生，高约1米。有节，分蘖。叶鞘无毛。叶片线形。圆锥花序疏松。颖果短圆形，平滑，淡黄色或白色。糯稻种仁黏性强，籼稻种仁粘性差，粳稻种仁粘性较强。  
 1. 【[水桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_ton.md#水桶)】`shuei3 ton3` <sup>[如东]</sup> 运水的工具。木制，圆柱形。  
 1. 【[水砣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_tu.md#水砣)】`shuei3 tu2` <sup>[如东]</sup> 帆船上测量水深的的工具。锡制，条形，长20厘米，直径5厘米，底部有一小孔，可储存海底泥沙。上系一根绳索。测量时，渔民将它抛入海中，即可测得水深及海底泥沙情况。  
 1. 【[水潭<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_tun_r.md#水潭<sub>儿</sub>)】`shuei3 tun2 r` 深水塘  
+1. 【[水土](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_tv.md#水土)】`shuei3 tv3` <small>/suəɪ3 tʰu3/<sup>泰兴</sup></small> 指某一区域的自然条件、生活环境。<sup>\[泰兴\]</sup>  
 1. 【[水土不服](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_tv_beh_foh.md#水土不服)】`shuei3 tv3 beh7 foh8` <small>/suei3 tʰu3 pəʔ7 fɔʔ8/<sup>如皋</sup></small> ① 水土不服。<sup>\[如皋\]</sup> ② 因某地的气侯、饮食等不适应，吃了食物后出现泻肚子现象，称水土不服。<sup>\[如东\]</sup>  
-1. 【[水肚里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_tv_lii.md#水肚里)】`shuei3 tv6 lii` <sup>[兴化]</sup> 水中：他一个猛子能伏咖～好几分钟。  
 1. 【[水焐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_v_zz.md#水焐子)】`shuei3 v5 zz` <sup>[兴化]</sup> 橡皮口袋，有螺旋口，冬天注热水焐手。  
 1. 【[水袜香鞋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_vaeh_xian_hae.md#水袜香鞋)】`shuei3 vaeh8 xian1 hae2` <sup>[兴化]</sup> 形容人讲究穿着，一尘不染的样子：他一年到头～的，哪许像个农村干部啊？  
 1. 【[水捾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_vaen_zz.md#水捾子)】`shuei3 vaen3 zz` <sup>[如东]</sup> 圆桶形，木制，高33厘米，直径30厘米，口上有一横梁，可以系绳索或安装竹竿，用以井中或河中打水。  
-1. 【[水汪塘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_van_tan.md#水汪塘)】`shuei3 van1 tan2` <sup>[东台]</sup> 小水坑。  
+1. 【[水汪塘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_van_tan.md#水汪塘)】`shuei3 van1 tan2` <small>/suəɪ3 uɑŋ1 tʰɑŋ2/<sup>泰兴</sup></small> 小水坑，小水汪<sup>\[东台\]</sup>\[泰兴：地面坑洼不平、积水很小的浅塘。\]  
 1. 【[水汪塘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_van_tan_r.md#水汪塘<sub>儿</sub>)】`shuei3 van1 tan2 r` <sup>[如皋]</sup> 地上较大的积水。  
 1. 【[水泻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_xia.md#水泻)】`shuei3 xia5` <sup>[如东]</sup> 排泄稀薄的大便。  
 1. 【[水性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_xien.md#水性)】`shuei3 xien5` 游泳技能<sup>\[泰州\]</sup>：他的～好，这条河一个猛子就过去啊唻。<sup>\[泰州\]</sup>  

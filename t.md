@@ -2155,7 +2155,7 @@
 1. 【[肚才](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_cae.md#肚才)】`tv6 cae2` <sup>[兴化]</sup> 谓人内在的知识和智慧：覅看他说话不多，～不坏！  
 1. 【[肚里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_li.md#肚里)】`tv6 li` ① 心里<sup>\[泰州\]</sup>：你对他的好，他～都明白。<sup>\[泰州\]</sup> ② 物体中间空旷部分<sup>\[泰州\]</sup>：铫子～水透啊唻。<sup>\[泰州\]</sup> ③ 泛指物体里面<sup>\[泰州\]</sup>：不晓得他脑～想甚的。<sup>\[泰州\]</sup> ④ 事情内里<sup>\[泰州\]</sup>：三月份的奖金到现在都不发，这～有问题。<sup>\[泰州\]</sup>  
 1. 【[肚量](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_lian.md#肚量)】`tv6 lian6` <sup>[如皋]</sup> 气量。另读dv3 lian。  
-1. 【[肚里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_lii.md#肚里)】`tv6 lii` <small>/tʰu6 ləi/<sup>兴化</sup>, /tʰu1 tiɪ/<sup>泰县</sup></small> ① 里面 ② 腹中<sup>\[兴化\]</sup>：～饿；～疼。<sup>\[兴化\]</sup> ③ 心里、心地<sup>\[兴化\]</sup>：石秀是个精细的人，看在～，便省得了……（《水浒传》四四）<sup>\[兴化\]</sup> ④ 里面<sup>\[泰县\]</sup>：这箱子～有甚的杲子我不晓得。<sup>\[泰县\]</sup>  
+1. 【[肚里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_lii.md#肚里)】`tv6 lii` <small>/tʰu6 ləi/<sup>兴化</sup>, /tʰu1 tiɪ/<sup>泰县</sup></small> ① 里面 ② 腹中<sup>\[兴化\]</sup>：～饿；～疼。<sup>\[兴化\]</sup> ③ 心里、心地<sup>\[兴化\]</sup>：石秀是个精细的人，看在～，便省得了……（《水浒传》四四）<sup>\[兴化\]</sup> ④ 里面<sup>\[泰县\]</sup><sup>\[兴化\]</sup>：这箱子～有甚的杲子我不晓得。<sup>\[泰县\]</sup>｜他一个猛子能伏咖水～好几分钟。<sup>\[兴化\]</sup>  
 1. 【[肚里唱空城计](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_lii_chan_kon_chen_ji.md#肚里唱空城计)】`tv6 lii chan5 kon1 chen2 ji5` <sup>[如皋]</sup> 饿了。  
 1. 【[肚里二条啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_lii_er_tio_a.md#肚里二条啊)】`tv6 lii er6 tio2 a` <sup>[如皋]</sup> 比喻饿了，要吃。  
 1. 【[肚脐眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_qi_ngaen.md#肚脐眼)】`tv6 qi2 ngaen3` <sup>[东台]</sup> 肚脐。  

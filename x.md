@@ -1165,7 +1165,7 @@
 1. 【[先先年子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_xin_nin_zz.md#先先年子)】`xin1 xin1 nin2 zz` <sup>[如皋]</sup> 大前年。  
 1. 【[先先日子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_xin_rih_zz.md#先先日子)】`xin1 xin1 rih8 zz` <sup>[如皋]</sup> 大前天。  
 1. 【[先小人后君子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_xio_ren_heu_jyen_zz.md#先小人后君子)】`xin1 xio3 ren2 heu6 jyen1 zz3` <sup>[东台]</sup> 把不客气的话说在前头，定好规矩，在此基础上可以相互客气，友好交往。  
-1. 【[妗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin.md#妗)】`xin1` <sup>[兴化]</sup> 女子轻浮，不持重：～巴｜～犯。《廣韻》許兼切｜“～，女轻薄貌。”  
+1. 【[妗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin.md#妗)】`xin1` <sup>[兴化]</sup> 女子轻浮，不持重：～巴｜～犯  
 1. 【[妗泛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_faen.md#妗泛)】`xin1 faen` 以轻薄或者轻浮的言行频繁骚扰他人逗笑<sup>\[泰州\]</sup>：人家有正事，你还在这块～。<sup>\[泰州\]</sup>｜你不要～嗷，处长马上就到啊唻。<sup>\[泰州\]</sup>  
 1. 【[忺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin.md#忺)】`xin1` <sup>[如皋]</sup> 贬指过分热情、亲热：他俫～哎，～吖过啊头就要恼咯。不准你同他～。  
 1. 【[忺吖忺的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_nga_xin_dii.md#忺吖忺的)】`xin1 nga xin1 dii` <sup>[如皋]</sup> 见“忺”。  
@@ -1189,7 +1189,7 @@
 1. 【[鲜水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_shuei.md#鲜水)】`xin1 shuei3` <small>/ɕĩ1 suei3/<sup>如皋</sup></small> ① 新降的雨水：～比“车水”发秧。<sup>\[如皋\]</sup> ② 新降的雨水<sup>\[如东\]</sup>  
 1. 【[鲜甜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_tin.md#鲜甜)】`xin1 tin2` <small>/ɕiɪ̃1 tʰiɪ̃2/<sup>兴化</sup></small> ① 形容新鲜瓜果甜美可口<sup>\[兴化\]</sup>：西瓜口味～。<sup>\[兴化\]</sup> ② 非常甜<sup>\[泰州\]</sup>：这个西瓜吃咖嘴里～的。<sup>\[泰州\]</sup>  
 1. 【[鲜鱼䴛煮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_y_so_zhv.md#鲜鱼䴛煮)】`xin1 y2 so5 zhv3` <sup>[东台]</sup> 鲜鱼㓾过后加盐擦一下，调味口重一些，鱼肉更鲜美。  
-1. 【[嫌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin.md#嫌)】`xin2` <sup>[如皋]</sup> ① 太、过分。贬指：他～促狭！他～神气！ ② 恶嫌：你～他，我不～他。  
+1. 【[嫌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin.md#嫌)】`xin2` <small>/ɕĩ2/<sup>如皋</sup>, /ɕĩ2/<sup>泰兴</sup></small> ① 太、过分。贬指<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：他～促狭！他～神气！<sup>\[如皋\]</sup> ② 恶嫌<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：你～他，我不～他。<sup>\[如皋\]</sup>  
 1. 【[嫌不透](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_beh_teu.md#嫌不透)】`xin2 beh teu5` <sup>[兴化]</sup> 指人十分讨厌：你这个～，又来找事！  
 1. 【[嫌不透](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_beh_teu.md#嫌不透)】`xin2 beh7 teu5` <small>/ɕiɪ̃2 pəʔ7 tʰɤɯ5/<sup>泰县</sup></small> ① （詈语）责怪某人形象差，无休止地丢相出丑。<sup>\[东台\]</sup> ② 故意做作，使人讨厌。<sup>\[泰县\]</sup>  
 1. 【[嫌丑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_cheu.md#嫌丑)】`xin2 cheu3` <sup>[如东]</sup> 人或物不漂亮。表示不满意：这双鞋子我～。  
@@ -1836,7 +1836,7 @@
 1. 【[悬空跟头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun_kon_gen_teu.md#悬空跟头)】`xiun2 kon1 gen1 teu` <sup>[如皋]</sup> 无支点翻跟头。  
 1. 【[悬天奅<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun_tin_po_r.md#悬天奅<sub>儿</sub>)】`xiun2 tin1 po1 r` <sup>[如东]</sup> 比喻说大话说假话的人：王二是一个～。  
 1. 【[旋复花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun_foh_hua.md#旋复花)】`xiun2 foh7 hua1` <sup>[如东]</sup> 菊科植物旋复花，多年生草本。有阔叶、线叶两种。阔叶旋复花，高约80厘米。茎具纵棱绿色或微带紫红色。叶互生，椭圆形椭圆状披针形或窄长椭圆形，全缘或具细锯齿，上面绿色，下面淡绿色。线叶旋复花高约60厘米，叶互生，线状披针形或线形，边缘反卷，下面淡绿色，被疏柔毛。头状花序少数或多数，顶生。花黄色。瘦果长椭圆形，冠毛白色。生长在路旁、田边。  
-1. 【[玄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun.md#玄)】`xiun2` <sup>[如皋]</sup> ① 枵薄易坏：这种布～，不牢。 ② 软、皱、松：书捱盘吖～吖：衣裳捱抟吖～吖；他养得不壮，肉是～的。 ③ 体弱欠神：他病得不轻，至今人还是～的。  
+1. 【[玄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun.md#玄)】`xiun2` <sup>[如皋]</sup> ① 枵薄易坏：这种布～，不牢。 ② 软、皱、松：书捱盘吖～吖｜衣裳捱抟吖～吖｜他养得不壮，肉是～的 ③ 体弱欠神：他病得不轻，至今人还是～的。  
 1. 【[玄乎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun_hv.md#玄乎)】`xiun2 hv1` <sup>[东台]</sup> 玄虚，不可捉摸：到他张嘴里就越说越～！  
 1. 【[玄胡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun_hv.md#玄胡)】`xiun2 hv2` <sup>[如东]</sup> 罂粟科植物延胡索，多年生草本。高约20厘米。块根球形。地上茎短，纤细，稍带肉质，在基部之上生一鳞片。叶互生，有柄，2回3出复叶，小叶长椭圆形。总状花序，顶生或对叶生。花红紫色。蒴果。  
 1. 【[玄色缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun_seh_gan.md#玄色缸)】`xiun2 seh7 gan1` <sup>[兴化]</sup> 贮放黑色染料的大缸：这种人累教不改，等于下啊～（如白染皂不可改变）。  
@@ -1848,13 +1848,13 @@
 1. 【[选吖好日没好天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun_nga_ho_rih_meh_ho_tin.md#选吖好日没好天)】`xiun3 nga ho3 rih8 meh8 ho3 tin1` <sup>[如皋]</sup>   
 1. 【[选种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun_zhon.md#选种)】`xiun3 zhon3` ① 选择动植物的优良品种，加以繁殖。<sup>\[东台\]</sup> ② 选择优良品种。<sup>\[如东\]</sup>  
 1. 【[暄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun.md#暄)】`xiun5` <sup>[东台]</sup> 馒头、糕饼虚松爽口。  
-1. 【[楦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun.md#楦)】`xiun5` <small>/ɕyũ5/<sup>兴化</sup></small> ① 用东西填塞或撑大物体中空部分：～鞋子｜人是屋～子。<sup>\[兴化\]</sup> ② 肿胀：左右开弓几个嘴巴，把脸打得～起来。<sup>\[兴化\]</sup> ③ 绕着弯儿向人索取：～吖吃｜～吖玩。<sup>\[兴化\]</sup> ④ （泰州词典作𩕖）<sup>\[泰州\]</sup> ⑤ 脸部或者身体饱满的样子<sup>\[泰州\]</sup>：他这些时歇咖在家里，伙食好，脸上养吖～起来啊。<sup>\[泰州\]</sup>｜你最近好的吃咖多啊，肚子～吖不少。<sup>\[泰州\]</sup> ⑥ 用物填紧或撑大物体中空部分<sup>\[泰州\]</sup>：新皮鞋最多穿个把月就～吖大啊唻。<sup>\[泰州\]</sup>｜天天喝粥把肚子都～吖大啊唻。<sup>\[泰州\]</sup>  
+1. 【[楦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun.md#楦)】`xiun5` <small>/ɕyũ5/<sup>兴化</sup></small> ① 用东西填塞或撑大物体中空部分<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：～鞋子｜人是屋～子。<sup>\[兴化\]</sup>｜新皮鞋最多穿个把月就～吖大啊唻。<sup>\[泰州\]</sup>｜天天喝粥把肚子都～吖大啊唻。<sup>\[泰州\]</sup> ② 肿胀<sup>\[兴化\]</sup>：左右开弓几个嘴巴，把脸打得～起来。<sup>\[兴化\]</sup> ③ 脸部或者身体饱满的样子\[泰州：（泰州词典作𩕖）\]：他这些时歇咖在家里，伙食好，脸上养吖～起来啊。<sup>\[泰州\]</sup>｜你最近好的吃咖多啊，肚子～吖不少。<sup>\[泰州\]</sup>  
 1. 【[楦饱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun_bo.md#楦饱)】`xiun5 bo3` 吃饱，食物填满肠胃<sup>\[泰州\]</sup>：你管他菜好菜丑，只要能把肚子～就行。<sup>\[泰州\]</sup>  
 1. 【[楦<sub>儿</sub>派<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun_r_pae_r.md#楦<sub>儿</sub>派<sub>儿</sub>)】`xiun5 r pae5 r` <sup>[兴化]</sup> 绕着弯儿向人要吃要喝或索取线物：他看中你的东西，～的弄到手才安逸。  
 1. 【[楦头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun_teu_zz.md#楦头子)】`xiun5 teu2 zz` <sup>[如皋]</sup> 见“鞋楦子”。  
 1. 【[楦子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun_zz.md#楦子)】`xiun5 zz` ① 工具。椭圆形，一般木制，形似人脚，用以为鞋整形。<sup>\[如东\]</sup> ② 制鞋、制帽、补袜所用的模型。<sup>\[东台\]</sup>  
 1. 【[渲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun.md#渲)】`xiun5` <sup>[如皋]</sup> 逐渐扩展：皮五同倪四隔壁，他把芦笆障望倪家一边～。  
-1. 【[谖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun.md#谖)】`xiun5` <small>/ɕyʊ̃5/<sup>如皋</sup></small> ① 诱取：儿子～老子的钱用。<sup>\[如皋\]</sup> ② 用巧妙的话试探，或引诱对方吐露真情<sup>\[东台\]</sup>：他真不晓得内情，你～他也没用。<sup>\[东台\]</sup>  
+1. 【[谖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun.md#谖)】`xiun5` <small>/ɕyũ5/<sup>兴化</sup>, /ɕyʊ̃5/<sup>如皋</sup></small> ① 诱取<sup>\[如皋\]</sup>：儿子～老子的钱用。<sup>\[如皋\]</sup> ② 用巧妙的话试探，或引诱对方吐露真情<sup>\[东台\]</sup>：他真不晓得内情，你～他也没用。<sup>\[东台\]</sup> ③ 绕着弯儿向人索取<sup>\[兴化\]</sup>：～吖吃｜～吖玩。<sup>\[兴化\]</sup>  
 1. 【[谖吖吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun_nga_qieh.md#谖吖吃)】`xiun5 nga qieh7` <sup>[东台]</sup> 用花言巧语提示对方请自己吃饭：嘴馋的人到处～！  
 1. 【[嘘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xy.md#嘘)】`xy1` <small>/ɕy1/<sup>兴化</sup>, /ɕy1/<sup>如皋</sup></small> ① 吆喝声之一。驱鸡鸟时喊<sup>\[如皋\]</sup>：～！～！<sup>\[如皋\]</sup> ② 大声喊叫<sup>\[兴化\]</sup>：“不要～啊！～跑了又打不成……”（《淮河边上的儿女》二五）<sup>\[兴化\]</sup> ③ 慢慢地吐气<sup>\[兴化\]</sup>：～气。<sup>\[兴化\]</sup> ④ 叹词，表示制止、驱逐等意念<sup>\[兴化\]</sup>：～！轻点！<sup>\[兴化\]</sup>｜～！少啰唆！<sup>\[兴化\]</sup> ⑤ 不断催促<sup>\[泰州\]</sup>：你不要～他，让他慢慢想一刻儿。<sup>\[泰州\]</sup>  
 1. 【[嘘不起](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xy_beh_qi.md#嘘不起)】`xy1 beh qi3` <sup>[泰县]</sup> 不停地催促，你做甚的事总是～。  

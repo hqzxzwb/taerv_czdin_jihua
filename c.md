@@ -688,6 +688,7 @@
 1. 【[哧哧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_cheh.md#哧哧)】`cheh7 cheh7` <sup>[泰县]</sup> 悄悄：他～的走啊。  
 1. 【[哧哧<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_cheh_r.md#哧哧<sub>儿</sub>)】`cheh7 cheh7 r` <sup>[泰州]</sup> ① 小心翼翼的样子：才落过雨的，跳板上滑，你～的走，不要滑咖河里去。｜你家奶奶岁数大啊唻，你扶住她～的走。｜这个花瓶是清朝的，你～的捧，不要弄吖打掉。 ② 悄悄地，不弄出声响的：伢儿才睡着咖，你～的走。  
 1. 【[哧哧<sub>儿</sub>的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_cheh_r_dii.md#哧哧<sub>儿</sub>的)】`cheh7 cheh7 r dii` <sup>[东台]</sup> 悄悄地：你～跑到我背后。  
+1. 【[尺寸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_cuen.md#尺寸)】`cheh7 cuen5` <small>/t͡sʰəʔ7 t͡sʰuəŋ5/<sup>泰兴</sup></small> 分寸，指适当的限度或程度。<sup>\[泰兴\]</sup>：说话办事总要有点～<sup>\[泰兴\]</sup>  
 1. 【[尺码](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_ma.md#尺码)】`cheh7 ma3` <sup>[如东]</sup> 尺寸。  
 1. 【[尺头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_teu.md#尺头)】`cheh7 teu` <sup>[兴化]</sup> 尺寸：这个布你覅还价，我在～上跟你放一点儿。  
 1. 【[尺条<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_tio_r.md#尺条<sub>儿</sub>)】`cheh7 tio2 r` <sup>[如皋]</sup> 量具，指一尺长的尺板。  
@@ -959,7 +960,7 @@
 1. 【[抽筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_jien.md#抽筋)】`cheu1 jien1` ① 肌肉痉挛。<sup>\[如东\]</sup>\[泰州：民间以为是有静脉抽搐引起，故名\]：下水游泳就怕～。<sup>\[如东\]</sup>｜他在河里游得行行的，小腿陡然的～，差点儿淹杀咖。<sup>\[泰州\]</sup> ② 找麻烦。<sup>\[如东\]</sup>：你就会～，没完没了的。<sup>\[如东\]</sup>  
 1. 【[抽空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_kon.md#抽空)】`cheu1 kon5` <small>/t͡sʰei1 kʰɔŋ5/<sup>如皋</sup></small> 挤出时间。<sup>\[如东\]</sup><sup>\[如皋\]</sup>：请你～来下子。<sup>\[如东\]</sup>  
 1. 【[抽牌九](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_pae_jieu.md#抽牌九)】`cheu1 pae2 jieu3` <sup>[兴化]</sup> 卖糖果小贩在竹筒中放置刻有牌九点子的小竹筹一副，和顾客各抽几张，比点子决输赢。  
-1. 【[抽牵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_qin.md#抽牵)】`cheu1 qin1` <sup>[东台]</sup> （詈语）穷折腾的意思。  
+1. 【[抽牵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_qin.md#抽牵)】`cheu1 qin1` <small>/t͡ɕʰiɤɯ1 t͡ɕʰĩ1/<sup>泰兴</sup></small> 穷折腾<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[抽签](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_qin.md#抽签)】`cheu1 qin1` <sup>[泰州]</sup> ① 指人遇到事情犹豫不决，难下决策：你到底是去，还是不去，不要～。 ② 事物发展过程变化无常，始终没有结果：他本来答应帮忙的，后来说没得工夫，只好请老王，老王又说家里有事，你说哿～吖。  
 1. 【[抽穗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_qy.md#抽穗)】`cheu1 qy6` <sup>[如东]</sup> 麦子、玉米、高粱等农作物由叶鞘中长出穗头来。  
 1. 【[抽<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_r.md#抽<sub>儿</sub>)】`cheu1 r` 抽屉  
@@ -998,13 +999,16 @@
 1. 【[丑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu.md#丑)】`cheu3` <small>/t͡sʰɤ3/<sup>兴化</sup>, /t͡sʰei3/<sup>如皋</sup>, /t͡sʰɤɯ3/<sup>泰县</sup></small> ① 长相难看。<sup>\[如东\]</sup> ② 不好。<sup>\[如东\]</sup>：他脾家太～。<sup>\[如东\]</sup> ③ 脾气坏：脾家～。<sup>\[如皋\]</sup> ④ 难听毫不客气的话：～话说咖前头。<sup>\[如皋\]</sup> ⑤ 地支第二位。<sup>\[东台\]</sup> ⑥ 差<sup>\[东台\]</sup>：这套家具打得不～。<sup>\[东台\]</sup> ⑦ 羞<sup>\[东台\]</sup>：这人不晓得怕～。<sup>\[东台\]</sup> ⑧ 性情暴躁<sup>\[兴化\]</sup>：脾气～。<sup>\[兴化\]</sup> ⑨ 阴雨天气<sup>\[兴化\]</sup>：～天。<sup>\[兴化\]</sup> ⑩ 坏、差劲<sup>\[兴化\]</sup>：这东西质量太～。<sup>\[兴化\]</sup>｜“……若是武艺～的，竟回去，下科再来考罢。”（《说岳全传》十）<sup>\[兴化\]</sup> ⑪ 坏。<sup>\[泰县\]</sup> ⑫ 脾气坏<sup>\[泰县\]</sup>：这人～得没得命。<sup>\[泰县\]</sup> ⑬ 泛指不好的，恶劣的，不满意的<sup>\[泰州\]</sup>：你的米太～啊唻，还卖这吖贵！<sup>\[泰州\]</sup>｜他这吖～的成绩上不了省泰中！<sup>\[泰州\]</sup>｜他家买的这个房子的地点是～点儿。<sup>\[泰州\]</sup> ⑭ 特指人之脾气暴躁<sup>\[泰州\]</sup>：这小伙～啊不得命，动不动就瞎骂人。<sup>\[泰州\]</sup>｜你家局长旁的都好，就是脾家～点儿。<sup>\[泰州\]</sup> ⑮ 指雨雪、阴天天气<sup>\[泰州\]</sup>：今吖天不～，你抓紧时间把被单洗啊晒。<sup>\[泰州\]</sup>｜天～啊有个把星期。<sup>\[泰州\]</sup>  
 1. 【[丑巴巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_ba_ba.md#丑巴巴)】`cheu3 ba ba1` <sup>[如东]</sup> ① 害羞的样子：兰兰与王二在一起，感觉～的。 ② 长相难看：这个女人长吖～的。  
 1. 【[丑巴巴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_ba_ba_dii.md#丑巴巴的)】`cheu3 ba1 ba1 dii` <sup>[如皋]</sup> 嘲笑语。指难堪的样子。  
-1. 【[丑八怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_baeh_guae.md#丑八怪)】`cheu3 baeh7 guae5` ① 相貌很丑的人。<sup>\[如东\]</sup><sup>\[泰州\]</sup>：这个人长吖像个～。<sup>\[如东\]</sup> ② 打扮奇特的人。<sup>\[如东\]</sup>：你看她的个样子，跟～差不多。<sup>\[如东\]</sup>  
+1. 【[丑八怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_baeh_guae.md#丑八怪)】`cheu3 baeh7 guae5` <small>/t͡ɕʰiɤɯ3 pæʔ7 kuɛ5/<sup>泰兴</sup></small> ① 相貌很丑的人。<sup>\[如东\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：这个人长吖像个～。<sup>\[如东\]</sup> ② 打扮奇特的人。<sup>\[如东\]</sup>：你看她的个样子，跟～差不多。<sup>\[如东\]</sup>  
 1. 【[丑搭搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_daeh_daeh.md#丑搭搭)】`cheu3 daeh daeh7` <sup>[如东]</sup> 害羞的样子：兰兰第一次看见王二，有些一的。  
+1. 【[丑杲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_go_zz.md#丑杲子)】`cheu3 go3 zz` <small>/t͡ɕʰiɤɯ3 kɔ3 t͡sɿ/<sup>泰兴</sup></small> 不好的东西或人。<sup>\[泰兴\]</sup>：他是个～<sup>\[泰兴\]</sup>  
+1. 【[丑话说咖前头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_hua_shuh_ga.md#丑话说咖前头)】`cheu3 hua shuh7 ga qin2 teu2` <small>/t͡ɕʰiɤɯ3 xuɑ sʊʔ7 ka t͡ɕʰĩ2 tʰəɪ2/<sup>泰兴</sup></small> 不好听的话先说掉，免得以后再岔气。<sup>\[泰兴\]</sup>  
 1. 【[丑话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_hua.md#丑话)】`cheu3 hua6` <sup>[如皋]</sup> 常用于自述，指对方不愿听的话：我把～说咖前头，这趟差事苦，你愿就去，不愿就回一声。  
-1. 【[丑话说咖前头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_hua_shuh_ga_qin_teu.md#丑话说咖前头)】`cheu3 hua6 shuh7 ga qin2 teu2` <sup>[东台]</sup> 先把规矩定下来，好像缺少人情味，但后面少废话。  
+1. 【[丑话说咖前头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_hua_shuh_ga.md#丑话说咖前头)】`cheu3 hua6 shuh7 ga qin2 teu2` <sup>[东台]</sup> 先把规矩定下来，好像缺少人情味，但后面少废话。  
 1. 【[丑劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_jien.md#丑劲)】`cheu3 jien` <sup>[兴化]</sup> ① 性情粗暴：他脾气多～吖！ ② 蓄意使坏：这件事与你无关，你覅～。  
 1. 【[丑劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_jien.md#丑劲)】`cheu3 jien5` <sup>[东台]</sup> ① 脾气坏，不好通融。 ② 夸奖小孩聪明的说法。  
 1. 【[丑里丑巴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_lii_cheu_ba_dii.md#丑里丑巴的)】`cheu3 lii cheu3 ba1 dii` <sup>[如皋]</sup> 见“丑巴巴的”。  
+1. 【[丑□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_qien.md#丑□)】`cheu3 qien` <small>/t͡ɕʰiɤɯ3 t͡ɕʰiŋ/<sup>泰兴</sup></small> 常喻小孩调皮、犯犟，惹人讨厌。\[泰兴：（泰兴词典作“丑獍”）\]：箇个伢儿～ngae。<sup>\[泰兴\]</sup>  
 1. 【[丑天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_tin.md#丑天)】`cheu3 tin1` <small>/t͡sʰei3 tʰĩ1/<sup>如皋</sup>, /t͡sʰɤɯ3 tʰiɪ̃1/<sup>泰县</sup></small> ① 阴雨天气。<sup>\[如东\]</sup>：明朝是～，不能出门。<sup>\[如东\]</sup> ② 不好的天气。<sup>\[如皋\]</sup> ③ 刮风下雨，或下雪天气。<sup>\[东台\]</sup> ④ 阴雨天。<sup>\[泰县\]</sup>  
 1. 【[丑新妇总要见公婆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_xien_fv_zon_io_jin_gon_pu.md#丑新妇总要见公婆)】`cheu3 xien1 fv zon3 io5 jin5 gon1 pu2` <sup>[东台]</sup> 喻指隐藏总不能长久，真相总要露出。  
 1. 【[臭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu.md#臭)】`cheu5` <sup>[如皋]</sup> ① 直言指摘，说话不留情，嘴～。 ② 说话粗横：这家伙死泛～，同人说话～死啊，你少同他搭吭！  

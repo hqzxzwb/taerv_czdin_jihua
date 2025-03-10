@@ -78,9 +78,12 @@
 1. 【[以后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_heu.md#以后)】`i3 heu6` <sup>[如皋]</sup> 以后。  
 1. 【[以话打话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_hua_da_hua.md#以话打话)】`i3 hua6 da3 hua6` <sup>[如皋]</sup> 双方似问似答地说起话来，是不相熟或闹过意见者之间的一种交往方式。  
 1. 【[以话答话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_hua_daeh_hua.md#以话答话)】`i3 hua6 daeh7 hua6` <sup>[如皋]</sup> 见“以话打话”。  
+1. 【[以内](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_nuei.md#以内)】`i3 nuei6` <small>/ʝ3 nəɪ1/<sup>泰兴</sup></small> 在一定的数量、时间、处所、范围的界限之内。<sup>\[泰兴\]</sup>：他的年龄大概三十～。<sup>\[泰兴\]</sup>  
 1. 【[以上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_shan.md#以上)】`i3 shan6` <sup>[东台]</sup> 前一段时间。在普通话里多作为方位词，而在东台话里常作为时间概念：他～来过。  
 1. 【[以生托熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_shen_tah_shoh.md#以生托熟)】`i3 shen1 tah7 shoh8` <small>/i3 sən1 tʰaʔ7 sɔʔ8/<sup>兴化</sup>, /ʝ3 səŋ1 tʰaʔ7 sɔʔ8/<sup>如皋</sup></small> ① 利用关系拉关系<sup>\[如皋\]</sup>：她有本事～的请人来帮忙。<sup>\[如皋\]</sup> ② 本来不熟悉却以熟人的姿态和人拉关系。<sup>\[兴化\]</sup> ③ 本来不与对方熟悉，摆出与对方非常熟悉的样子而毫不认生地套近乎、拉关系<sup>\[泰州\]</sup>：人家本来又认不得他，上次老刘请客，同他在一桌吃过一回饭认得的，他老先生就～的找人家去办事。<sup>\[泰州\]</sup>  
+1. 【[以外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_vae.md#以外)】`i3 vae6` <small>/ʝ3 ʋɛ1/<sup>泰兴</sup></small> 在一定的条件、范围、界限、时间之外。<sup>\[泰兴\]</sup>  
 1. 【[以玩带笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_vaen_dae_xio.md#以玩带笑)】`i3 vaen2 dae5 xio5` <sup>[泰州]</sup> 亦作“以顽带笑”，以带有开玩笑的语言、行为表达严肃、正经的意图：你说的那桩事，前朝子晚上在做块儿打牌的时候，我～的同老孙说过啊，他当时不曾接我的话，估计没得戏。  
+1. 【[以为](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_vei.md#以为)】`i3 vei2` <small>/ʝ3 ʋəɪ2/<sup>泰兴</sup></small> 认为，常偏指“原认为”。<sup>\[泰兴\]</sup>  
 1. 【[以作/拟作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_zah.md#以作/拟作)】`i3 zah7` 估计下来最多<sup>\[泰州\]</sup>：会场上的人全部加起来，～来啊七八十个人。<sup>\[泰州\]</sup>｜这件衣裳～值咖一百多块钱吧。<sup>\[泰州\]</sup>｜他的成绩，～上个下坝中学吧。<sup>\[泰州\]</sup>｜凭他这门水平，～当个科长就不错唻。<sup>\[泰州\]</sup>  
 1. 【[以作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_zah.md#以作)】`i3 zah7` <sup>[泰县]</sup> 大约：这回参加运动会的～二百个人。  
 1. 【[倚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#倚)】`i3` <small>/ʝ3/<sup>如皋</sup></small> ① 以为，倚仗 ② 依随。弟新妇的妈妈来啊，我～啊侄子叫她婆婆。<sup>\[如皋\]</sup> ③ 延误<sup>\[如皋\]</sup>：事情捱～下来啊。<sup>\[如皋\]</sup> ④ 抵住<sup>\[如皋\]</sup>：拿背脊～着咖门不让人进出。<sup>\[如皋\]</sup>  
@@ -1302,13 +1305,16 @@
 1. 【[引](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien.md#引)】`ien3` <small>/in3/<sup>兴化</sup></small> ① 元、明、清代食盐计量单位。不同历史时代和地区各有不同。元代规定每引400市斤；明代有大引和小引之分，大引400市斤，小引200市斤；清代大引200市斤。如东每引以两桶计算，合400市斤。<sup>\[如东\]</sup> ② 诱惑，多指教人做不好的事<sup>\[兴化\]</sup>：他伢儿才上五年级，捱人～吖上网吧，学习成绩连连下降。<sup>\[兴化\]</sup>  
 1. 【[引河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_hu.md#引河)】`ien3 hu2` <sup>[东台]</sup> 为灌溉或泄洪而开挖的河道。  
 1. 【[引火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_hu.md#引火)】`ien3 hu3` <sup>[如皋]</sup> 引燃：着煤球儿炉子要用木柴头儿～。  
+1. 【[引火草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_hu_co.md#引火草)】`ien3 hu3 co3` <small>/iŋ3 xɤɯ3 t͡sʰɔ3/<sup>泰兴</sup></small> 用于引火的易燃的干草。<sup>\[泰兴\]</sup>  
+1. 【[引火烧身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_hu_sho_shen.md#引火烧身)】`ien3 hu3 sho1 shen1` <small>/iŋ3 xɤɯ3 sɔ1 səŋ1/<sup>泰兴</sup></small> 也称“惹火烧身”。比喻自取其祸，自讨苦吃。今亦用以比喻主动自我批评，争取他人帮助。<sup>\[泰兴\]</sup>  
 1. 【[引猫吊狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_mo_dio_geu.md#引猫吊狗)】`ien3 mo2 dio5 geu3` <sup>[兴化]</sup> （喻）引逗人去干不好的事：他饭一吃就来～的，喊人上赌场。  
 1. 【[引桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_qio.md#引桥)】`ien3 qio2` <sup>[如东]</sup> ① 从公路到趸船的桥梁，叫引桥。 ② 两幢房屋之间的桥梁，叫引桥。  
 1. 【[引蛇出洞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_sha_chueh_ton.md#引蛇出洞)】`ien3 sha2 chueh7 ton6` <sup>[东台]</sup> ［喻］运用计谋诱使坏人进行活动，使之暴露。  
 1. 【[引示](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_shr.md#引示)】`ien3 shr5` 炫耀，以激发别人的嫉妒心理。  
 1. 【[引事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_shr.md#引事)】`ien3 shr6` <small>/iəŋ3 sɿ1/<sup>如皋</sup></small> ① 引起对方的某些欲望：你不要～，伢儿闹起来没处弄。<sup>\[如皋\]</sup> ② 由某事引起麻烦。<sup>\[东台\]</sup>  
-1. 【[引线](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_xin.md#引线)】`ien3 xin5` <small>/in3 ɕiɪ̃5/<sup>兴化</sup>, /iəŋ3 ɕĩ5/<sup>如皋</sup></small> ① 乡村间称缝衣针。<sup>\[如皋\]</sup> ② 缝衣针。<sup>\[如皋\]</sup> ③ 缝衣针<sup>\[兴化\]</sup>：穿针～。<sup>\[兴化\]</sup>  
+1. 【[引线](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_xin.md#引线)】`ien3 xin5` <small>/in3 ɕiɪ̃5/<sup>兴化</sup>, /iəŋ3 ɕĩ5/<sup>如皋</sup>, /iŋ3 ɕĩ5/<sup>泰兴</sup></small> ① 缝衣针。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup> ② 缝衣针<sup>\[兴化\]</sup>：穿针～。<sup>\[兴化\]</sup>  
 1. 【[引子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_zz.md#引子)】`ien3 zz` <sup>[兴化]</sup> 鱼饵：钓鲫鱼拿河䘆做～。  
+1. 【[引子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_zz.md#引子)】`ien3 zz` <small>/iŋ3 t͡sɿ/<sup>泰兴</sup></small> 中医在处方末尾所加的药引，能加强药剂的效力。<sup>\[泰兴\]</sup>  
 1. 【[影](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien.md#影)】`ien3` <small>/in3/<sup>兴化</sup>, /iəŋ3/<sup>如皋</sup></small> ① 闪现<sup>\[如皋\]</sup>：好像看见有个人一～的下子，进吖巷子。<sup>\[如皋\]</sup> ② 隐藏、遮蔽<sup>\[兴化\]</sup>：那妇人见有人来，～在丫头背后往下就走（《梼杌闲评》十二）<sup>\[兴化\]</sup>  
 1. 【[影壁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_bieh.md#影壁)】`ien3 bieh7` <sup>[泰县]</sup> 大门对面的一堵墙。  
 1. 【[影影绰绰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_ien_chah_chah.md#影影绰绰)】`ien3 ien3 chah7 chah7` <sup>[东台]</sup> 模模糊糊。  
