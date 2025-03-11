@@ -13,7 +13,6 @@
 1. 【[马而虎之](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_er_hv_zhr.md#马而虎之)】`ma1 er hv3 zhr1` <small>/mɑ1 ɚ fʋ3 t͡sɿ1/<sup>泰兴</sup></small> 马虎。<sup>\[泰兴\]</sup>  
 1. 【[马马虎虎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma_hv_hv.md#马马虎虎)】`ma1 ma1 hv1 hv1` <sup>[东台]</sup> ① 马虎：随便｜不认真。 ② 勉强：凑合。也说“马马虎”。  
 1. 【[□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma.md#□□)】`ma2 ma3` <sup>[东台]</sup> 在东台话中指婶婶，也叫“嫲儿”。  
-1. 【[马蹄袖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ti_xieu.md#马蹄袖)】`ma2 ti2 xieu5` <sup>[泰州]</sup> 谑称袖口较长的衣袖，小孩穿上因袖子长而弄脏袖口，家长多用此词来斥责小孩：快点儿把～卷起来，弄得袖口高头全是油。  
 1. 【[麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma.md#麻)】`ma2` <small>/ma2/<sup>兴化</sup>, /ma2/<sup>如皋</sup>, /ma2/<sup>泰县</sup></small> ① 桑科植物黄麻，一年生草本。<sup>\[如东\]</sup> ② 鱼、蟹、虾等海鲜食物用盐渍一下，保鲜防腐，叫做麻。<sup>\[如东\]</sup> ③ 辣<sup>\[如皋\]</sup>：大椒～人。<sup>\[如皋\]</sup> ④ 触电的感觉。<sup>\[如皋\]</sup> ⑤ 像芝麻多而小<sup>\[如皋\]</sup>：～虾儿。<sup>\[如皋\]</sup> ⑥ 曚昽<sup>\[如皋\]</sup>：天～～儿亮。<sup>\[如皋\]</sup> ⑦ 芝麻点状的<sup>\[如皋\]</sup>：～子、～石、～鸭儿、～苍蝇。<sup>\[如皋\]</sup> ⑧ 出风头、摆威风、高傲的样子<sup>\[如皋\]</sup>：这家伙，有两个钱，～唻！<sup>\[如皋\]</sup> ⑨ 辣味刺激<sup>\[兴化\]</sup>：～人。<sup>\[兴化\]</sup> ⑩ （贬）极<sup>\[兴化\]</sup>：坏啊～啊。<sup>\[兴化\]</sup> ⑪ （借）形容价格昂贵<sup>\[兴化\]</sup>：东西倒不丑，就是价钱～人。<sup>\[兴化\]</sup> ⑫ 作动词，喝酒的隐语<sup>\[兴化\]</sup>：“……弄点酒来～下子，暖暖身子睡觉吧！”（兴文《得胜湖的定名及传说》）<sup>\[兴化\]</sup> ⑬ 谓人狂妄<sup>\[兴化\]</sup>：你少要～！<sup>\[兴化\]</sup> ⑭ 辣。<sup>\[泰县\]</sup> ⑮ 辛辣刺激口腔舌头所产生的味觉<sup>\[泰州\]</sup>：这个大椒太～。<sup>\[泰州\]</sup>  
 1. 【[麻啊爪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_a_zhua_zz.md#麻啊爪子)】`ma2 a zhua3 zz` <small>/ma2 əʔ t͡ɕya3 t͡se/<sup>泰县</sup></small> ① 麻醉了，手脚不能动。<sup>\[东台\]</sup> ② 吓得不知所措的样子。<sup>\[东台\]</sup> ③ 手足无措<sup>\[泰县\]</sup>：她家男的一死，撂下老的小的，她就～啊啦。<sup>\[泰县\]</sup> ④ 两手受到压迫或者打击而丧失知觉，比喻事态发展失控，不可收拾<sup>\[泰州\]</sup>：据说纪委找他谈话唻，他这下子～唻。<sup>\[泰州\]</sup>  
 1. 【[麻疤<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ba_r.md#麻疤<sub>儿</sub>)】`ma2 ba1 r` <sup>[如东]</sup> 比喻岔子：他来寻～。  
@@ -241,6 +240,7 @@
 1. 【[马蹄甲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ti_jiaeh.md#马蹄甲)】`ma3 ti2 jiaeh7` <sup>[如东]</sup> 马科动物马蹄甲。  
 1. 【[马蹄莲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ti_lin.md#马蹄莲)】`ma3 ti2 lin2` <sup>[如东]</sup> 多年生草本植物，有块茎，叶有长柄，心状卵形。肉穗花序，外有漏斗状的大型苞片，白色，形似花冠。供观赏  
 1. 【[马蹄酥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ti_sv.md#马蹄酥)】`ma3 ti2 sv1` <small>/mɑ3 t͡ɕʰʝ2 su1/<sup>泰兴</sup></small> 形似马蹄的一种面食品。<sup>\[泰兴\]</sup>  
+1. 【[马蹄袖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ti_xieu.md#马蹄袖)】`ma3 ti2 xieu5` <sup>[泰州]</sup> 谑称袖口较长的衣袖，小孩穿上因袖子长而弄脏袖口，家长多用此词来斥责小孩：快点儿把～卷起来，弄得袖口高头全是油。  
 1. 【[马桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ton.md#马桶)】`ma3 ton3` <small>/ma3 tʰɔŋ3/<sup>如皋</sup></small> 便桶。\[泰州：亦即“马子”，用于排秽的圆鼓形木桶，高同板凳，桶上安有一块可移动的、类似今日镙丝垫圈的、正中有孔的大盖，大盖孔上又有小盖，取下小盖，人坐孔上排秽，排完以后盖上小盖，清洗之时，取下大盖，将木桶中秽物倒入室外茅缸，以其如马可供人坐骑，故名。\]\[如皋：便桶的总名，包括马桶、恭桶。～是有反边、有大小盖而无提环的使桶。\]\[如东：容器。圆桶形，木制，上口有棱边，也有装环的，有盖。用于贮存大小便。也叫恭桶。\]  
 1. 【[马桶把<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ton_ba_r.md#马桶把<sub>儿</sub>)】`ma3 ton3 ba3 r` <sup>[如东]</sup> 刷马桶的工具，竹条制成。  
 1. 【[马桶盖<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ton_gae_r.md#马桶盖<sub>儿</sub>)】`ma3 ton3 gae5 r` <small>/ma3 tʰɔŋ3 kɛ˞5/<sup>如皋</sup></small> ① 马桶的盖子。<sup>\[如东\]</sup> ② 一种发型，周边剃光，形似马桶盖扣在头上。<sup>\[如东\]</sup> ③ 谑称旧时男童发式之一，头顶及鬓角、枕骨以下剃光，留一圈短发，宛如～。<sup>\[如皋\]</sup>  
@@ -262,6 +262,7 @@
 1. 【[马鬃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_zon.md#马鬃)】`ma3 zon1` <sup>[如东]</sup> 马科动物马的鬃毛和尾毛。  
 1. 【[马子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_zz.md#马子)】`ma3 zz` <small>/ma3 t͡sɿ/<sup>兴化</sup>, /mɑ3 t͡sɿ/<sup>泰兴</sup>, /ma3 t͡se/<sup>泰县</sup></small> 马桶，便桶<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup><sup>\[泰州\]</sup>：大～；小～。<sup>\[兴化\]</sup>  
 1. 【[马子菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_zz_cae.md#马子菜)】`ma3 zz cae5` <sup>[兴化]</sup> 一种野生植物，即“马齿苋”。  
+1. 【[马子盖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_zz_gae.md#马子盖)】`ma3 zz gae5` <sup>[泰州]</sup> 又作“马桶盖”，就是一种男孩发型，当中攒成一髻或者打成辫子，周围剃光，四周短发平齐，形似马桶盖子。20世纪50年代末期，仍有不少男孩剃此发型。  
 1. 【[马子巷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_zz_han.md#马子巷)】`ma3 zz han6` <sup>[泰州]</sup> 卧室中床侧摆放马桶的狭窄空间。旧时房间中的大床靠着床头一侧墙壁安放，床尾就与另外一侧墙壁形成一个巷子，用于安放马桶，故名。  
 1. 【[□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma.md#□□)】`ma5 ma5` <sup>[如皋]</sup> 伯母、大妈。  
 1. 【[嘛咯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_lo.md#嘛咯)】`ma5 lo` <sup>[如皋]</sup> 抚慰小孩用语，好像说：好乖乖，不要哭。  
@@ -301,7 +302,6 @@
 1. 【[买嘱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_zhoh.md#买嘱)】`mae3 zhoh7` <small>/mɛ3 t͡sɔʔ/<sup>兴化</sup>, /mɛ3 t͡sɔʔ7/<sup>如皋</sup>, /me3 t͡sɔʔ/<sup>泰县</sup></small> 用钱财收买人<sup>\[兴化\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：他～人做假证。<sup>\[兴化\]</sup>｜“……他～知县，将我父亲断输了……”（《儒林外史》四一）<sup>\[兴化\]</sup>｜拆迁部门的上上下下他都～过啊唻。<sup>\[泰州\]</sup>  
 1. 【[买桩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_zhuan.md#买桩)】`mae3 zhuan1` <sup>[如东]</sup> 在博戏活动中，以一定的筹码作抵押，增加效益，计算方法是约定金额翻番。  
 1. 【[买猪不买圈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_zhv_beh_mae_qiun.md#买猪不买圈)】`mae3 zhv1 beh7 mae3 qiun6` <sup>[东台]</sup> ［喻］婚姻选对象主要看本人，并非看家庭条件。  
-1. 【[马子盖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_zz_gae.md#马子盖)】`mae3 zz gae5` <sup>[泰州]</sup> 又作“马桶盖”，就是一种男孩发型，当中攒成一髻或者打成辫子，周围剃光，四周短发平齐，形似马桶盖子。20世纪50年代末期，仍有不少男孩剃此发型。  
 1. 【[卖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae.md#卖)】`mae6` <sup>[如东]</sup> 出售货物。  
 1. 【[卖啊把你打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_a_ba_nii_da.md#卖啊把你打)】`mae6 a ba3 nii3 da3` <sup>[如皋]</sup> 耍无赖，凑上去挑衅。  
 1. 【[卖才](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_cae.md#卖才)】`mae6 cae2` <sup>[兴化]</sup> 炫耀自己的才华：你这少年人只不过是自作聪明，有意～。（《火烧赤壁》一）  
@@ -1818,9 +1818,8 @@
 1. 【[满口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_keu.md#满口)】`mun3 keu3` <small>/mũ3 kʰɤ3/<sup>兴化</sup>, /mʊ̃3 kʰei3/<sup>如皋</sup>, /mõ3 kʰɤɯ3/<sup>泰县</sup></small> ① 指茶水或食物的温度适中，可以大口饮食<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：～茶、～粥。<sup>\[兴化\]</sup>｜这个粥～，你快点儿喝吧。<sup>\[泰县\]</sup>｜人不吃饭怎吖行，特地同你煮的～粥，爬起来吃点儿。<sup>\[泰州\]</sup> ② 满嘴<sup>\[如皋\]</sup><sup>\[泰州\]</sup>：～答应/无保留地、口气坚决地答应<sup>\[如皋\]</sup>｜～假牙<sup>\[如皋\]</sup>｜～胡说/完全是胡说<sup>\[如皋\]</sup>  
 1. 【[满口菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_keu_cae.md#满口菜)】`mun3 keu3 cae5` <sup>[东台]</sup> 油腻少，可以大口大口吃的菜：韭菜炒蘑菇是他欢喜吃的～。  
 1. 【[满口应承](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_keu_ien_chen.md#满口应承)】`mun3 keu3 ien5 chen2` <sup>[东台]</sup> 爽快地一口答应办某事。  
-1. 【[满满涾涾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_mun_taeh_taeh.md#满满涾涾)】`mun3 mun3 taeh8 taeh8` <sup>[泰州]</sup> ① 容器中的液体装得很满而欲溢出的样子：他把家里水缸里的水挑得～的才去上班。 ② 容器中的物体装得很满的样子：他活技重，中上要吃～三大碗饭才够油。  
 1. 【[满满喥喥的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_mun_tah_tah_dii.md#满满喥喥的)】`mun3 mun3 tah8 tah8 dii` <small>/mʊ̃3 mʊ̃3 tʰaʔ8 tʰaʔ8 tei/<sup>如皋</sup></small> ① 满满的要溢（流、淌）出来。<sup>\[如皋\]</sup> ② 见“急急轧轧的”。<sup>\[如皋\]</sup>  
-1. 【[满满踱踱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_mun_tah_tah.md#满满踱踱)】`mun3 mun3 tah8 tah8` <sup>[兴化]</sup> 形容很满：～的一担水，挑到家落咖一半。  
+1. 【[满满踱踱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_mun_tah_tah.md#满满踱踱)】`mun3 mun3 tah8 tah8` <small>/mũ3 mũ3 tʰaʔ8 tʰaʔ8/<sup>兴化</sup></small> 形容很满<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：～的一担水，挑到家落咖一半。<sup>\[兴化\]</sup>｜他把家里水缸里的水挑得～的才去上班。<sup>\[泰州\]</sup>｜他活技重，中上要吃～三大碗饭才够油。<sup>\[泰州\]</sup>  
 1. 【[满眼漆黑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_ngaen_qieh_heh.md#满眼漆黑)】`mun3 ngaen3 qieh7 heh7` <sup>[兴化]</sup> 形容对周围的人和事不了解。  
 1. 【[满屋三间](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_oh_saen_gaen.md#满屋三间)】`mun3 oh7 saen1 gaen1` <small>/mũ3 ɔʔ7 sɛ̃1 kɛ̃1/<sup>兴化</sup></small> ① 充满屋子所有地方<sup>\[东台\]</sup>：一着煤炉，～都是烟。<sup>\[东台\]</sup> ② 形容屋内杂物多<sup>\[东台\]</sup>：你家～都是东西。<sup>\[东台\]</sup> ③ 极言整个屋子里：丰收啊，～堆的全是粮食。<sup>\[兴化\]</sup> ④ 一个堂屋和两个房间的空间，泛指一进正屋内的全部空间<sup>\[泰州\]</sup>：你在家里着炭炉子，弄得满屋三间都是烟！<sup>\[泰州\]</sup>  
 1. 【[满屋三间的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_oh_saen_gaen_dii.md#满屋三间的)】`mun3 oh7 saen1 gaen1 dii` <sup>[如皋]</sup> 家里充满了、布满了：家里有啊猫儿屎，～的臭味；叫他晒粮饭，脱得～的！  
