@@ -865,6 +865,7 @@
 1. 【[习](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh.md#习)】`qieh8` <sup>[泰县]</sup> 学：你要～咖做。  
 1. 【[习惯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_guaen.md#习惯)】`qieh8 guaen5` <sup>[如东]</sup> 经久养成、时不易改变的行为或社会风俗  
 1. 【[习惯成自然](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_guaen_chen_cz_rin.md#习惯成自然)】`qieh8 guaen5 chen2 cz6 rin2` <sup>[东台]</sup> （俗语）不管什么事，大家习惯了，也就成为自然而然的事情了。  
+1. 【[习惯成自然](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_guaen_chen_cz_rin.md#习惯成自然)】`qieh8 guaen5 chen2 cz6 rin2` <small>/t͡ɕʰiʔ8 kuɛ̃5 t͡sʰəŋ2 t͡sʰɿ1 ĩ2/<sup>泰兴</sup></small> 养成习惯以后，就变成了自然而然的事。<sup>\[泰兴\]</sup>  
 1. 【[及格](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_geh.md#及格)】`qieh8 geh7` <sup>[如东]</sup> 达到规定的最低标准。  
 1. 【[及时雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_shr_y.md#及时雨)】`qieh8 shr2 y3` <sup>[东台]</sup> 自然界适时的雨水。［喻］指在别人危难时给予的帮助。  
 1. 【[及早](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_zo.md#及早)】`qieh8 zo3` <sup>[如皋]</sup> 预先，事先。  

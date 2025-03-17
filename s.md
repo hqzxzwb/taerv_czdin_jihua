@@ -2329,7 +2329,7 @@
 1. 【[水别子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_bih_zz.md#水别子)】`shuei3 bih7 zz` <sup>[泰县]</sup> ① 水壶。 ② 会游泳的人。  
 1. 【[水瘪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_bih_zz.md#水瘪子)】`shuei3 bih7 zz` <small>/suei3 piʔ7 t͡sɿ/<sup>如皋</sup></small> ① 一种铝制略扁的军用水壶。<sup>\[如皋\]</sup> ② 容器。椭圆形，有盖，金属或塑料制成。用以贮存水或酒。<sup>\[如东\]</sup>  
 1. 【[水边边<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_bin_bin_r.md#水边边<sub>儿</sub>)】`shuei3 bin1 bin1 r` <sup>[如皋]</sup> 水面近岸处。  
-1. 【[水包皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_bo_pi.md#水包皮)】`shuei3 bo1 pi2` <small>/suəi3 pɔ1 pʰi2/<sup>兴化</sup></small> ① 指泡澡（旧俗）<sup>\[东台\]</sup>：早上皮包水（去茶馆吃茶），晚上～。<sup>\[东台\]</sup> ② 意指浴室洗澡。<sup>\[兴化\]</sup>：谚曰：早上皮包水，晚上～。<sup>\[兴化\]</sup> ③ 指人在澡堂泡澡<sup>\[泰州\]</sup>：退啊休以后，早上皮包水，晚上～，快活煞咖唻。<sup>\[泰州\]</sup>  
+1. 【[水包皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_bo_pi.md#水包皮)】`shuei3 bo1 pi2` <small>/suəi3 pɔ1 pʰi2/<sup>兴化</sup>, /suəɪ3 pɔ1 pʰʝ2/<sup>泰兴</sup></small> 指泡澡，在浴室洗澡<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：早上皮包水（去茶馆吃茶），晚上～。<sup>\[东台\]</sup>｜谚曰：早上皮包水，晚上～。<sup>\[兴化\]</sup>｜退啊休以后，早上皮包水，晚上～，快活煞咖唻。<sup>\[泰州\]</sup>｜早上皮包水（吃早茶），晚上～（洗浴）。<sup>\[泰兴\]</sup>  
 1. 【[水百脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_boh_jiah.md#水百脚)】`shuei3 boh7 jiah7` <sup>[如皋]</sup> 日本沙蚕。  
 1. 【[水拨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_buh.md#水拨)】`shuei3 buh7` <sup>[如皋]</sup> 旧式水车上与槽筒上端相接以传递动力的木齿轮。  
 1. 【[水菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_cae.md#水菜)】`shuei3 cae5` <sup>[如皋]</sup> ① 通指销售时泡水或常洒水的菜。 ② 水芹菜。  
@@ -2368,7 +2368,7 @@
 1. 【[水虫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_chon_r.md#水虫<sub>儿</sub>)】`shuei3 chon2 r` <small>/suei3 t͡sʰɔ˞2/<sup>如皋</sup></small> ① 见“奅儿”。<sup>\[如皋\]</sup> ② 水冕。<sup>\[如皋\]</sup> ③ 即“水上飞机”。<sup>\[如皋\]</sup> ④ 稚嫩，毫无社会经验，而常吃亏的年轻人。<sup>\[如皋\]</sup>  
 1. 【[水葱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_con.md#水葱)】`shuei3 con1` <sup>[如东]</sup> 莎草科植物水葱，多年生草本。根茎匍匐，具多数须根。秆圆柱状，高2米。叶片线形。秆直立。聚伞花序。小坚果倒卵形。生长在潮湿地区或浅水池塘中。  
 1. 【[水大椒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_da_jio.md#水大椒)】`shuei3 da6 jio1` <sup>[泰州]</sup> 磨成稀糊状的辣椒，含水较多。  
-1. 【[水凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_den.md#水凳)】`shuei3 den5` <small>/ɕyəɪ3 təŋ5/<sup>泰县</sup></small> ① 用于下河淘米洗菜的水边小木凳，通常一头伸在水中。<sup>\[东台\]</sup> ② 河边淘米洗菜用的凳子。<sup>\[泰县\]</sup> ③ 泰州城特有的安在河边深水中的长木凳，凳面长约为普通大凳的2倍至2.5倍，宽约为普通大凳的1倍至2倍，凳的一端两根约两米长的凳腿扎进河底泥土之中、一端没有凳腿搁于河岸之上，此凳可随河水涨落移动，始终保持凳面略高水面，居民蹲在凳面之上在水深处淘米、洗菜、汏洗衣物、打水等等。<sup>\[泰州\]</sup>  
+1. 【[水凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_den.md#水凳)】`shuei3 den5` <small>/suəɪ3 təŋ5/<sup>泰兴</sup>, /ɕyəɪ3 təŋ5/<sup>泰县</sup></small> ① 用于下河淘米洗菜的水边小木凳，通常一头伸在水中。<sup>\[东台\]</sup> ② 河边淘米洗菜用的凳子。<sup>\[泰县\]</sup> ③ 泰州城特有的安在河边深水中的长木凳，凳面长约为普通大凳的2倍至2.5倍，宽约为普通大凳的1倍至2倍，凳的一端两根约两米长的凳腿扎进河底泥土之中、一端没有凳腿搁于河岸之上，此凳可随河水涨落移动，始终保持凳面略高水面，居民蹲在凳面之上在水深处淘米、洗菜、汏洗衣物、打水等等。<sup>\[泰州\]</sup> ④ 水边以石板、木板架起的供洗涤用的长条形凳状设施。<sup>\[泰兴\]</sup>  
 1. 【[水滴滴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_dieh_dieh_dii.md#水滴滴的)】`shuei3 dieh7 dieh7 dii` <sup>[如皋]</sup> 因含水过多，拿起来时不住滴水。  
 1. 【[水貂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_dio.md#水貂)】`shuei3 dio1` <sup>[如东]</sup> 哺乳动物。身体细长，四肢短，趾间有蹼，毛暗黑色，密而柔软，有光泽。善于潜入水底捕食鱼类和蛙等。  
 1. 【[水耳头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_er_teu.md#水耳头)】`shuei3 er3 teu` <sup>[兴化]</sup> 东说东好，西说西好，缺乏主见的人。  
@@ -2376,11 +2376,14 @@
 1. 【[水粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_fen.md#水粉)】`shuei3 fen3` <small>/suəi3 fən3/<sup>兴化</sup>, /suei3 fəŋ3/<sup>如皋</sup></small> ① 鲜粉丝，与“冬粉”“片粉”相对。<sup>\[如皋\]</sup> ② 制成后泡在水中的粉条。也称“素粉”。<sup>\[兴化\]</sup>  
 1. 【[水腹桃子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_foh_to_zz.md#水腹桃子)】`shuei3 foh to2 zz` <sup>[如皋]</sup> 水蜜桃。  
 1. 【[水浮莲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_fv_lin.md#水浮莲)】`shuei3 fv2 lin2` <sup>[如东]</sup> 天南星科植物水浮莲，又名大浮萍、大藻。浮水无茎草本，有长而悬垂成束的根。叶簇生，倒卵状楔形，无叶柄，扇形。肉穗花序。浆果。生长在淡水中，可做猪饲料。  
+1. 【[水缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_gan.md#水缸)】`shuei3 gan` <small>/suəɪ3 kɑŋ/<sup>泰兴</sup></small> 装水的缸。昔时家家必备。<sup>\[泰兴\]</sup>  
 1. 【[水虼蚤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_geh_zo.md#水虼蚤)】`shuei3 geh7 zo3` <sup>[如皋]</sup> 一种跳虫，能在水中游，又能在水边爬、跳。  
+1. 【[水钩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_geu.md#水钩)】`shuei3 geu` <small>/suəɪ3 kəɪ/<sup>泰兴</sup></small> 挑水时钩住水桶的钩子，多铁质。<sup>\[泰兴\]</sup>  
 1. 【[水沟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_geu.md#水沟)】`shuei3 geu1` <sup>[如东]</sup> ① 田间或路边排水的沟渠。 ② 在两幢房屋连接处的排水槽。 ③ 在帆船舱口上面的横槽木。  
 1. 【[水糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_go.md#水糕)】`shuei3 go1` <sup>[如皋]</sup> 家中用发酵面液做的大蒸饼。  
 1. 【[水酵饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_go_bien.md#水酵饼)】`shuei3 go5 bien3` <small>/suəi3 kɔ5 piɪ̃3/<sup>兴化</sup></small> ① 用水兑和面粉或米粉涨酵，然后上蒸笼蒸的饼。<sup>\[东台\]</sup> ② 见“米饭饼”。<sup>\[兴化\]</sup> ③ 泰州特有早点之一，以粳米粉发酵调制成厚糊状，以其水酵发面，故名。制法用勺子舀米糊至特制已烧热的大平锅中，厚糊自然松塌成饼，喷少许水后，即将锅盖覆在平锅周边平放草把之上，半烤半蒸至熟出锅，饼底焦黄，饼面松软；通常用特制的长铲将一只饼的表面覆于另一只饼的表面之上，称为“一付”，以“一付”为单位出售；食时抓住两只饼的底部，其饼绵软，带有些许酸甜，伴有特有米香，老人尤为喜食，青年人则多裹夹油条而食。<sup>\[泰州\]</sup>  
-1. 【[水酵饼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_go_bien_r.md#水酵饼<sub>儿</sub>)】`shuei3 go5 bien3 r` <sup>[如皋]</sup> 见“水糕”。  
+1. 【[水酵饼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_go_bien_r.md#水酵饼<sub>儿</sub>)】`shuei3 go5 bien3 r` <sup>[如皋]</sup> 家中用发酵面液做的大蒸饼。见“水糕”。  
+1. 【[水酵饼子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_go_bien_zz.md#水酵饼子)】`shuei3 go5 bien3 zz` <small>/suəɪ3 kɔ5 piŋ3 t͡sɿ/<sup>泰兴</sup></small> 经过发酵的面团作成的烧饼，绵软絮和，略带酸味，为乡人所喜食。或说“水酵饼儿”。<sup>\[泰兴\]</sup>  
 1. 【[水瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_gua.md#水瓜)】`shuei3 gua1` 瓜名。表面光华无棱，体肥肉厚，外形大小略同腌瓜，淡绿的瓜，以其含汁水丰富而名，夏季上市，可以生吃，也可腌制做小菜。<sup>\[泰州\]</sup>  
 1. 【[水关](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_guaen.md#水关)】`shuei3 guaen1` <small>/suəi3 kuɛ̃1/<sup>兴化</sup>, /suei3 kuẽ1/<sup>如皋</sup></small> ① 城墙下的水门。<sup>\[如皋\]</sup> ② 旧时城内市河通外河的进出口<sup>\[兴化\]</sup>：以前兴化有东、西、南、北四个～。<sup>\[兴化\]</sup> ③ 古城墙上穿过城墙，通城内市河与外河的闸门。<sup>\[泰州\]</sup>  
 1. 【[水鬼子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_guei_zz.md#水鬼子)】`shuei3 guei3 zz` <sup>[泰县]</sup> 冬季穿皮衣摸鱼的人。  
@@ -2390,6 +2393,7 @@
 1. 【[水还不到脚面子就沗起来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_hae_beh_do.md#水还不到脚面子就沗起来啊)】`shuei3 hae2 beh7 do5 jiah7 min6 zz qieu6 pan5 qi3 lae2 a` <sup>[东台]</sup> 形容还没有取得什么成绩就忘乎所以。  
 1. 【[水咸菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_haen_cae.md#水咸菜)】`shuei3 haen2 cae5` <small>/suəi3 xɛ̃2 t͡sʰɛ5/<sup>兴化</sup></small> ① 青菜末用盐拌匀，过片刻挤去其中菜汁即成<sup>\[兴化\]</sup>：吃粥搭～<sup>\[兴化\]</sup>｜～烧豆腐<sup>\[兴化\]</sup>｜～烧小鱼。<sup>\[兴化\]</sup> ② 以寒菜为原料所腌制的成菜，以其浸于卤中，饱含水分，故名。<sup>\[泰州\]</sup>  
 1. 【[水货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_hu.md#水货)】`shuei3 hu5` <sup>[东台]</sup> ① ［喻］假冒伪劣的商品； ② 走私物品，其售价往往低于市场价。  
+1. 【[水货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_hu.md#水货)】`shuei3 hu5` <small>/suəɪ3 xɤɯ5/<sup>泰兴</sup></small> 通过非正常途径走私、假冒的货物。<sup>\[泰兴\]</sup>  
 1. 【[水花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_hua.md#水花)】`shuei3 hua1` <sup>[如东]</sup> 一种面食。将面粉调匀，稍浓，用筷子或勺儿一块块地放入开水中煮熟即成。也叫水老鼠、落水鬼儿。通称面疙瘩。  
 1. 【[水花<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_hua_r.md#水花<sub>儿</sub>)】`shuei3 hua1 r` <small>/suei3 xua˞1/<sup>如皋</sup></small> ① 绿萍。<sup>\[如皋\]</sup> ② 因激荡而在水面上泛起的泡沫。<sup>\[如东\]</sup>  
 1. 【[水花生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_hua_shen.md#水花生)】`shuei3 hua1 shen1` <small>/suei3 xua1 səŋ1/<sup>如皋</sup></small> ① 空心莲子草。<sup>\[如皋\]</sup> ② 苋科植物空心莲子草，又名空心苋，多年生草本。高约1米。茎基部匍匐，生须状根，上部上升，中空，具纵纹，并有分枝。叶对生，矩圆状倒卵形。头状花序腋生。花白色。胞果，卵状。生长在田野荒地或池沼、水沟处。<sup>\[如东\]</sup>  
@@ -2405,17 +2409,18 @@
 1. 【[水烟硭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_in_man_zz.md#水烟硭子)】`shuei3 in1 man2 zz` <small>/suei3 ĩ1 mã2 t͡sɿ/<sup>如皋</sup></small> ① 吸水烟时燃火的纸媒儿。硭子纸制作时掺入硭硝，有火星时对吹即生火焰。<sup>\[如皋\]</sup> ② 歇后语<sup>\[如皋\]</sup>：水烟硭子——喷（笨）货。<sup>\[如皋\]</sup> ③ 稻草制的含硭硝的纸，搓成细长纸卷，可以引燃，吸水烟的必须品。<sup>\[如皋\]</sup>  
 1. 【[水烟台<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_in_tae_r.md#水烟台<sub>儿</sub>)】`shuei3 in1 tae2 r` <small>/suei3 ĩ1 tʰɛ˞2/<sup>如皋</sup></small> ① 吸水烟的铜器具。<sup>\[如皋\]</sup> ② 吸水烟的工具。铜制，底部是一只长方形圆筒，筒里装烟台和烟筒。烟台下部为圆柱形，里面装水，上部双叉形，一支是烟锅，较长的一支是烟嘴。吸烟时，用芒子点燃烟丝，即可抽吸。<sup>\[如东\]</sup>  
 1. 【[水烟袋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_in_tae.md#水烟袋)】`shuei3 in1 tae6` <sup>[泰州]</sup> 特制金属烟具，烟经过水过滤吸入，吸烟时水会发出咕噜响声，以烟具上除活动烟嘴外，另有专门储放烟丝有盖小盒，功能类袋，故名。  
-1. 【[水舀子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_io_zz.md#水舀子)】`shuei3 io3 zz` <small>/suəi3 iɔ3 t͡sɿ/<sup>兴化</sup></small> ① 容器。圆桶形，敞口，有柄。有木制、竹制、金属制、塑料制等品种。用以舀水。<sup>\[如东\]</sup> ② 舀水的器皿，底平、口圆，有柄，木板、铁皮或铝皮等制成。<sup>\[兴化\]</sup> ③ 用于舀取液体的圆口平底长柄勺。<sup>\[泰州\]</sup>  
+1. 【[水舀子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_io_zz.md#水舀子)】`shuei3 io3 zz` <small>/suəi3 iɔ3 t͡sɿ/<sup>兴化</sup>, /suəɪ3 iɔ3 t͡sɿ/<sup>泰兴</sup></small> 用于舀水的器皿\[如东：圆桶形，敞口，有柄。有木制、竹制、金属制、塑料制等品种。\]\[兴化：底平、口圆，有柄，木板、铁皮或铝皮等制成。\]\[泰兴：旧多为木质，乡人称挽子，今多为塑料制品。\]\[泰州：用于舀取液体的圆口平底长柄勺。\]  
 1. 【[水叽咍呆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_ji_hae_dae.md#水叽咍呆)】`shuei3 ji hae1 dae1` <sup>[兴化]</sup> 食物中含水份过多：这些水发货～的，经不起煮。  
 1. 【[水叽叽的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_ji_ji_dii.md#水叽叽的)】`shuei3 ji ji5 dii` <sup>[如皋]</sup> 含水量多，欲滴状。  
 1. 【[水叽货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_ji_hu.md#水叽货)】`shuei3 ji1 hu5` <sup>[泰县]</sup> 含水分很多的蔬菜。  
 1. 【[水叽叽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_ji_ji.md#水叽叽)】`shuei3 ji1 ji1` <sup>[泰县]</sup> 湿漉漉：这个平菇～的。  
 1. 【[水机关](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_ji_guaen.md#水机关)】`shuei3 ji1 guaen1` <sup>[泰县]</sup> 机枪。  
-1. 【[水鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_ji.md#水鸡)】`shuei3 ji1` <small>/ɕyəɪ3 t͡sɿ1/<sup>泰县</sup></small> ① 青蛙的别称，又叫田鸡。<sup>\[东台\]</sup> ② 青蛙。<sup>\[泰县\]</sup> ③ 市场上出售的剥了皮的青蛙。<sup>\[泰州\]</sup>  
+1. 【[水鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_ji.md#水鸡)】`shuei3 ji1` <small>/suəɪ3 t͡ɕʝ1/<sup>泰兴</sup>, /ɕyəɪ3 t͡sɿ1/<sup>泰县</sup></small> 青蛙<sup>\[泰县\]</sup>\[东台：又叫田鸡\]\[泰兴：又叫田鸡\]\[泰州：市场上出售的剥了皮的青蛙。\]  
 1. 【[水鸡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_ji_r.md#水鸡<sub>儿</sub>)】`shuei3 ji1 r` <sup>[如皋]</sup> 剥了皮的青蛙。  
 1. 【[水鸡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_ji_zz.md#水鸡子)】`shuei3 ji1 zz` <sup>[兴化]</sup> 青蛙。  
 1. 【[水济济](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_ji_ji.md#水济济)】`shuei3 ji5 ji5` <sup>[如东]</sup> 湿漉漉：衣裳～的，穿吖身上不好过。  
-1. 【[水脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_jiah.md#水脚)】`shuei3 jiah7` <small>/suəi3 t͡ɕiaʔ7/<sup>兴化</sup>, /suei3 t͡ɕiaʔ7/<sup>如皋</sup>, /ɕyəɪ3 t͡ɕiɑʔ7/<sup>泰县</sup></small> ① 指购销的交通运输等杂费。<sup>\[如皋\]</sup> ② 水运费。<sup>\[如东\]</sup>：这船货～多少？<sup>\[如东\]</sup> ③ 水运费<sup>\[兴化\]</sup>：这次运十吨钢材把三百块钱～。<sup>\[兴化\]</sup>｜“办好的机器，如果能退，就是贴点～，再罚上几个，都还有限……”（《官场现形记》十）<sup>\[兴化\]</sup> ④ 指小孩在河边玩耍时的安全问题<sup>\[兴化\]</sup>：送伢儿上幼儿园不过是关关～。也作“水儿脚儿”。<sup>\[兴化\]</sup> ⑤ 水运的费用。<sup>\[泰县\]</sup>  
+1. 【[水脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_jiah.md#水脚)】`shuei3 jiah7` <small>/suəi3 t͡ɕiaʔ7/<sup>兴化</sup>, /suei3 t͡ɕiaʔ7/<sup>如皋</sup>, /ɕyəɪ3 t͡ɕiɑʔ7/<sup>泰县</sup></small> ① 指购销的交通运输等杂费。<sup>\[如皋\]</sup> ② 水运费。<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup>：这船货～多少？<sup>\[如东\]</sup>｜这次运十吨钢材把三百块钱～。<sup>\[兴化\]</sup>｜“办好的机器，如果能退，就是贴点～，再罚上几个，都还有限……”（《官场现形记》十）<sup>\[兴化\]</sup> ③ 指小孩在河边玩耍时的安全问题<sup>\[兴化\]</sup>：送伢儿上幼儿园不过是关关～。也作“水儿脚儿”。<sup>\[兴化\]</sup>  
+1. 【[水脚沿头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_jiah_in_teu.md#水脚沿头)】`shuei3 jiah7 in2 teu2` <small>/suəɪ3 t͡ɕiɑʔ7 ĩ2 tʰəɪ2/<sup>泰兴</sup></small> 水边。<sup>\[泰兴\]</sup>  
 1. 【[水脚钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_jiah_qin.md#水脚钱)】`shuei3 jiah7 qin2` <sup>[如皋]</sup> 见“水脚”。  
 1. 【[水浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_jian.md#水浆)】`shuei3 jian1` <sup>[兴化]</sup> 泛指水：晚稻的～管理。｜一个大家庭水儿浆儿的也要个人管唻！  
 1. 【[水井舱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_jien_can.md#水井舱)】`shuei3 jien3 can1` <sup>[如东]</sup> 帆船的第4舱，贮存淡水。  
@@ -2431,7 +2436,9 @@
 1. 【[水落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_lah.md#水落)】`shuei3 lah8` <sup>[兴化]</sup> 檐沟：落雨的时候屋上的水沿～往下流。  
 1. 【[水落管](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_lah_gun.md#水落管)】`shuei3 lah8 gun3` <sup>[兴化]</sup> 把檐沟里的雨水引到地面的管子。  
 1. 【[水落滔天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_lah_to_tin.md#水落滔天)】`shuei3 lah8 to1 tin1` <sup>[东台]</sup> 形容水势大，亦是对房屋内外到处是水的夸张说法。  
+1. 【[水落稻草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_lah_to_co.md#水落稻草)】`shuei3 lah8 to6 co3` <small>/suəɪ3 lɑʔ8 tʰɔ1 t͡sʰɔ3/<sup>泰兴</sup></small> 浑身淋湿的样子。<sup>\[泰兴\]</sup>  
 1. 【[水冷草枯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_len_co_kv.md#水冷草枯)】`shuei3 len3 co3 kv1` <sup>[兴化]</sup> 冬天草枯易燃，为火灾多发季节。早年更夫巡更时，即有“～，火烛小心”的口号。  
+1. 【[水冷草枯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_len_co_kv.md#水冷草枯)】`shuei3 len3 co3 kv1` <small>/suəɪ3 ləŋ3 t͡sʰɔ3 kʰu1/<sup>泰兴</sup></small> 喻秋后冬到，天气寒冷，草木枯干。<sup>\[泰兴\]</sup>：到lei冬天，～的，老年人要特别注意保重身体。<sup>\[泰兴\]</sup>  
 1. 【[水利](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_li.md#水利)】`shuei3 li6` <sup>[如东]</sup> 利用水力资源和防止水灾。水利工程的简称：兴修～。  
 1. 【[水𪳄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_lian_zz.md#水𪳄子)】`shuei3 lian6 zz` <sup>[如皋]</sup> 手提的小水桶。多以毛竹片弯成弓形，箍在桶壁上作系（提把）。参见“𪳄子”。  
 1. 【[水里捞月亮——一场空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_lii_lo_iuh_lian_ieh_chan_kon.md#水里捞月亮——一场空)】`shuei3 lii lo2 iuh8 lian6 ieh7 chan2 kon1` <sup>[东台]</sup>   
@@ -2442,13 +2449,14 @@
 1. 【[水龙会馆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_lon_huei_gun.md#水龙会馆)】`shuei3 lon2 huei6 gun3` <sup>[如皋]</sup> 旧时民间救火机构。内存放水龙等救火器材。  
 1. 【[水龙局](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_lon_qioh.md#水龙局)】`shuei3 lon2 qioh8` <sup>[东台]</sup> 旧时消防器材存放处。  
 1. 【[水炉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_lv_zz.md#水炉子)】`shuei3 lv2 zz` <small>/suei3 lu2 t͡sɿ/<sup>如皋</sup></small> ① 见“老虎灶”。<sup>\[如皋\]</sup> ② 即“老虎灶”。<sup>\[如皋\]</sup>  
-1. 【[水路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_lv.md#水路)】`shuei3 lv6` <small>/suei3 lu1/<sup>如皋</sup></small> ① 灌溉用水流经的路线：～在我家田边头。<sup>\[如皋\]</sup> ② 水运路线，包括河路和海路。<sup>\[如东\]</sup>  
+1. 【[水路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_lv.md#水路)】`shuei3 lv6` <small>/suei3 lu1/<sup>如皋</sup>, /suəɪ3 lu1/<sup>泰兴</sup></small> ① 灌溉用水流经的路线<sup>\[如皋\]</sup>：～在我家田边头。<sup>\[如皋\]</sup> ② 水运路线，包括河路和海路。<sup>\[如东\]</sup> ③ 水上航行的路。<sup>\[泰兴\]</sup>：老龙河是泰兴到黄桥的一条～<sup>\[泰兴\]</sup>  
 1. 【[水码<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_ma_r.md#水码<sub>儿</sub>)】`shuei3 ma3 r` <small>/suei3 ma˞3/<sup>如皋</sup></small> ① 见“跳码儿”。<sup>\[如皋\]</sup> ② 河中立梯，架板至岸边，供洗用的设施。<sup>\[如皋\]</sup>  
 1. 【[水码头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_ma_teu.md#水码头)】`shuei3 ma3 teu` <small>/suəi3 ma3 tʰɤ/<sup>兴化</sup>, /suei3 ma3 tʰei/<sup>如皋</sup></small> ① 见“跳码儿”。<sup>\[如皋\]</sup> ② 在近水面处设的码头。与“高码头/岸码头”相对。<sup>\[如皋\]</sup> ③ 在河湖边供停船时乘客和货物上下的议施。<sup>\[兴化\]</sup> ④ 供居民洗涤、取水时立足的设施。<sup>\[兴化\]</sup>  
 1. 【[水明楼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_mien_leu.md#水明楼)】`shuei3 mien2 leu2` <sup>[如皋]</sup> 水绘园中的建筑，清·乾隆二十三年（公元1758）盐运副使汪仕珩恢复故楼。取杜甫“四更山吐月，残夜水明楼”之句命楼名。楼匾为时任知县何廷模手书。  
 1. 【[水棉花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_min_hua.md#水棉花)】`shuei3 min2 hua1` <sup>[如皋]</sup> 一种像棉花丝样的水草。  
-1. 【[水面（麪）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_min.md#水面（麪）)】`shuei3 min6` <sup>[兴化]</sup> 面条，有机制和刀切的两种，加工后带潮出售。相对于烘千（或晒干）的挂面。  
+1. 【[水面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_min.md#水面)】`shuei3 min6` <sup>[兴化]</sup> 面条，有机制和刀切的两种，加工后带潮出售。相对于烘千（或晒干）的挂面。  
 1. 【[水面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_min.md#水面)】`shuei3 min6` 未晒干的面条。<sup>\[泰州\]</sup>  
+1. 【[水面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_min.md#水面)】`shuei3 min6` <small>/suəɪ3 mĩ1/<sup>泰兴</sup></small> 面条，区别于挂面。<sup>\[泰兴\]</sup>  
 1. 【[水黾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_mon.md#水黾)】`shuei3 mon3` <sup>[如东]</sup> 水黾科昆虫水黾，长约1厘米。体形细长，黑褐色。头部为三角形。复眼1对。口吻稍长。触角丝状，突出于头的前方。前翅革质，无膜质部。足3对，前足短，中、后足很长。背部黑褐色，腹部灰色。生活在水面，能跳跃，捕食小虫。  
 1. 【[水磨的功夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_mu_dii_gon_fv.md#水磨的功夫)】`shuei3 mu2 dii gon1 fv1` <sup>[东台]</sup> 精细的需要耗费大量时间的工艺：这帧东台发绣几十个人绣啊一年，真是～！  
 1. 【[水磨的工程](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_mu_dii_gon_chen.md#水磨的工程)】`shuei3 mu2 dii gon1 chen2` <sup>[如皋]</sup> ① 喻长期艰苦磨炼：育人是～。 ② 十分精工细作：微雕艺术真是～。  
@@ -2458,6 +2466,7 @@
 1. 【[水母娘娘哭兽头，蘣模蘣样亲乖乖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_mu_nian_nian_koh_sheu_teu_ton_mu_ton_ian_qien_guae_guae.md#水母娘娘哭兽头，蘣模蘣样亲乖乖)】`shuei3 mu3 nian2 nian2 koh7 sheu5 teu2 ton5 mu2 ton5 ian6 qien1 guae1 guae1` <sup>[东台]</sup> 本指水神的母亲偏爱自己的孩子，泛指通常父母亲都疼爱自己的、哪怕长相丑陋的孩子。  
 1. 【[水𣳠花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_mu_hua.md#水𣳠花)】`shuei3 mu3 hua1` <sup>[如东]</sup> 浮在河水表面的泡沫。  
 1. 【[水磨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_mu.md#水磨)】`shuei3 mu6` <sup>[如皋]</sup> ① 专用于磨含水物品的石磨。 ② 带水磨成的：～糯米粉、～年糕。  
+1. 【[水磨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_mu.md#水磨)】`shuei3 mu6` <small>/suəɪ3 mɤɯ1/<sup>泰兴</sup></small> 磨黄豆、绿豆等作豆腐、粉丝的石磨，运作时需不断续水。<sup>\[泰兴\]</sup>  
 1. 【[水漫金山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_mun_jien_shaen.md#水漫金山)】`shuei3 mun6 jien1 shaen1` ① 比喻到处都是水。<sup>\[如东\]</sup> ② 借白娘子的神话故事来形容涝灾，或指家中漏水的情况<sup>\[东台\]</sup>：忘掉关水龙头，家里～！<sup>\[东台\]</sup>  
 1. 【[水鸭<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_ngaeh_r.md#水鸭<sub>儿</sub>)】`shuei3 ngaeh7 r` <small>/ɕyəɪ3 æʔ7 ɚ/<sup>泰县</sup></small> ① 野鸭。比喻喜欢游泳的孩子。<sup>\[如东\]</sup>：张明是个～。<sup>\[如东\]</sup> ② 喜欢游水的小孩。<sup>\[泰县\]</sup>  
 1. 【[水鸭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_ngaeh_zz.md#水鸭子)】`shuei3 ngaeh7 zz` <sup>[兴化]</sup> （喻）形容人身上被雨水淋湿的样子：身上沰咖像个～。  
@@ -2476,9 +2485,12 @@
 1. 【[水瓶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_pien.md#水瓶)】`shuei3 pien2` <sup>[兴化]</sup> 热水瓶。  
 1. 【[水撇子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_pih_zz.md#水撇子)】`shuei3 pih7 zz` <sup>[兴化]</sup> 用瓦片在水面上擦水飘儿：上河边擦～去。｜这条河不宽，会打～的孩子，捡一片薄海的酸瓦，一扬手忒忒忒忒，打出二十多个，瓦片贴水飘过河面……（汪曾祺《故乡人》）  
 1. 【[水漂漂<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_pio_pio_r.md#水漂漂<sub>儿</sub>)】`shuei3 pio1 pio1 r` <sup>[如皋]</sup> 儿童游戏：飘瓦片擦水面而过，击起由大到小的一串涟漪。  
+1. 【[水漂<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_pio_r.md#水漂<sub>儿</sub>)】`shuei3 pio1 r` <small>/suəɪ3 pʰiɔ˞1/<sup>泰兴</sup></small> 以小薄片、蚌壳等撇至水面使之飞速向前，后入水沉没。与“打”连用。故借指白白损失为“打水漂儿”。<sup>\[泰兴\]</sup>  
 1. 【[水瓢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_pio.md#水瓢)】`shuei3 pio2` <sup>[如皋]</sup> 旧时舀水用的瓢，剖瓜壳制成。  
+1. 【[水瓢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_pio_r.md#水瓢<sub>儿</sub>)】`shuei3 pio2 r` <small>/suəɪ3 pʰiɔ˞2/<sup>泰兴</sup></small> 舀水的用具<sup>\[泰兴\]</sup>  
 1. 【[水泡眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_po_ngaen.md#水泡眼)】`shuei3 po1 ngaen3` <sup>[东台]</sup> 上眼皮呈水肿状的眼睛。  
 1. 【[水泡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_po_r.md#水泡<sub>儿</sub>)】`shuei3 po1 r` <sup>[如皋]</sup> ① 玉米、蚕豆等的嫩籽，因含浆水多，未老熟，称之。 ② 称未知世事的青、少年人。  
+1. 【[水汽货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_qi_hu.md#水汽货)】`shuei3 qi hu5` <small>/suəɪ3 t͡ɕʰʝ xɤɯ5/<sup>泰兴</sup></small> 含水量大难保管的瓜果蔬菜等<sup>\[泰兴\]</sup>：箇些～，折耗太大。<sup>\[泰兴\]</sup>  
 1. 【[水枪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_qian.md#水枪)】`shuei3 qian1` <sup>[如东]</sup> 工具。枪头圆锥形，金属制，枪身为一根水带，通过加压，可以把水喷射到很远或很高的地方去，用于灭火或冲刷泥垢。一种玩具。在枪体内通过加压，可以把装在枪内的水喷射出来。  
 1. 【[水芹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_qien.md#水芹)】`shuei3 qien2` <sup>[如东]</sup> 伞形科植物水芹，又名野水芹，多年生湿生或水生草本。全体光滑无毛。茎圆柱形，长约1米，中空，直立或匍匐，上部多分枝，伸出水面；下部每节略膨大，生多数白色须根。复叶互生，羽状，边缘具锯齿。复伞形花序顶生。花白色。双悬果椭圆形。生长在湿地或水沟中。  
 1. 【[水芹菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_qien_cae.md#水芹菜)】`shuei3 qien2 cae5` <sup>[如东]</sup> 伞形科植物水芹菜，多年生草本。高约40厘米。全体无毛。茎直立，有分枝，具棱。羽状复叶。复伞形花序顶生或侧顶生，小花白色，略带紫色晕。双悬果椭圆形，淡黄褐色。生长在水边潮湿地里。  
@@ -2529,6 +2541,7 @@
 1. 【[水涨船高](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_zhan_chun_go.md#水涨船高)】`shuei3 zhan3 chun2 go1` <sup>[如东]</sup> 一个物体升高了，另一个相关的物体也跟着升高。比喻相随着提升：猪饲料涨价，猪肉也跟吖涨价。  
 1. 【[水竹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_zhoh.md#水竹)】`shuei3 zhoh7` <sup>[如皋]</sup> ① 以材用为主的材笋两用竹。竹身细，节间长，材质柔韧，富于弹性。还有许多药用价值。 ② 草本水竹又名伞草、早伞草、风车儿草。  
 1. 【[水转山遥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_zhun_shaen_io.md#水转山遥)】`shuei3 zhun3 shaen1 io2` <sup>[兴化]</sup> （喻）说话兜圈子：请你推开窗子说亮话，不要～的。也说“远转三桥”。  
+1. 【[水注头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_zhv_teu.md#水注头)】`shuei3 zhv teu2` <small>/suəɪ3 t͡su tʰəɪ2/<sup>泰兴</sup></small> 愚蠢、驽钝的人，经常被骗上当的人。<sup>\[泰兴\]</sup>  
 1. 【[水猪头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_zhv_teu.md#水猪头)】`shuei3 zhv1 teu2` <sup>[如东]</sup> 此喻不聪明：此人是个～。  
 1. 【[水子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_zz.md#水子)】`shuei3 zz` <sup>[兴化]</sup> 钞票的隐语。  
 1. 【[瑞雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_xiuh.md#瑞雪)】`shuei5 xiuh7` <sup>[如东]</sup> 冬天降雪，称瑞雪。  
@@ -2702,11 +2715,14 @@
 1. 【[说语](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_y.md#说语)】`shuh7 y` <sup>[如皋]</sup> 根据、来源：他这吖说相总有个～的。  
 1. 【[说嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_zuei.md#说嘴)】`shuh7 zuei3` <sup>[兴化]</sup> ① 自夸：“啧、啧、啧！狗大年纪又来～了。”（《广陵潮》三二） ② 争辩：众官听罢，彼此相看，都不敢～咧！（《施公案》一〇二）｜谚曰：～郎中没好药。  
 1. 【[书包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_bo.md#书包)】`shv1 bo1` <sup>[东台]</sup> 学生上学时装书籍簿本、文具的包或袋子。  
+1. 【[书橱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_chv.md#书橱)】`shv1 chv2` <small>/su1 t͡sʰu2/<sup>泰兴</sup></small> 装书的橱柜。<sup>\[泰兴\]</sup>  
 1. 【[书呆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_dae_zz.md#书呆子)】`shv1 dae1 zz` <sup>[泰州]</sup> 死读书而缺乏实际知识的人。  
-1. 【[书房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_fan.md#书房)】`shv1 fan2` <small>/su1 faŋ2/<sup>兴化</sup></small> ① 学校 ② 大户人家看书写字的地方。<sup>\[如东\]</sup>：老爷在～里。<sup>\[如东\]</sup> ③ 私塾。<sup>\[如东\]</sup>：上～。<sup>\[如东\]</sup> ④ 藏书、读书、写字的房间。<sup>\[东台\]</sup> ⑤ 旧指私塾，今指学校<sup>\[东台\]</sup>：你家小孙子到啊上～的年龄吖啦？<sup>\[东台\]</sup> ⑥ 旧称私塾<sup>\[兴化\]</sup>：“象今日那个少年……正是上～读书的时候……”（《广陵潮》三九）<sup>\[兴化\]</sup>  
+1. 【[书呆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_dae_zz.md#书呆子)】`shv1 dae1 zz, shv5 dae1 zz` <small>/su1 tɛ1 t͡sɿ/<sup>泰兴</sup></small> 指只知读书，脱离实际、看问题幼稚、单纯的人；言谈不切实际、不知变通的读书人。<sup>\[泰兴\]</sup>  
+1. 【[书房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_fan.md#书房)】`shv1 fan2` <small>/su1 faŋ2/<sup>兴化</sup>, /su1 fɑŋ/<sup>泰兴</sup></small> ① 学校 ② 大户人家看书写字的地方。<sup>\[如东\]</sup>：老爷在～里。<sup>\[如东\]</sup> ③ 私塾。<sup>\[如东\]</sup>：上～。<sup>\[如东\]</sup> ④ 藏书、读书、写字的房间。<sup>\[东台\]</sup> ⑤ 旧指私塾，今指学校<sup>\[东台\]</sup>：你家小孙子到啊上～的年龄吖啦？<sup>\[东台\]</sup> ⑥ 旧称私塾<sup>\[兴化\]</sup>：“象今日那个少年……正是上～读书的时候……”（《广陵潮》三九）<sup>\[兴化\]</sup> ⑦ 私塾，学校。<sup>\[泰兴\]</sup>  
 1. 【[书公子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_gon_zz.md#书公子)】`shv1 gon1 zz3` <sup>[如皋]</sup> 对读书人的呢、鄙称。  
 1. 【[书瓤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_ran_zz.md#书瓤子)】`shv1 ran2 zz` <sup>[兴化]</sup> 装在信封里写好的信：哪晓得周瑜只看书面子，不看～……（《火烧赤壁》四）。也称“信瓤子”。  
 1. 【[书生气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_shen_qi.md#书生气)】`shv1 shen1 qi5` <sup>[泰州]</sup> 读书人表现出的死抱书本所说，理论脱离实际，看待问题单纯的言行特征。  
+1. 【[书箱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_xian.md#书箱)】`shv1 xian1` <small>/su1 ɕiɑŋ1/<sup>泰兴</sup></small> 旧时读书人用的便携式小木箱。<sup>\[泰兴\]</sup>  
 1. 【[书桌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_zhuah.md#书桌)】`shv1 zhuah7` <sup>[如东]</sup> 写字台。  
 1. 【[梳角子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_gah_zz.md#梳角子)】`shv1 gah7 zz` <sup>[如皋]</sup> 旧时女童发式。头顶两侧各梳一髻。  
 1. 【[梳锯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_jy.md#梳锯)】`shv1 jy5` <sup>[如东]</sup> 工具。锯条嵌在木柄上，长约10厘米，像梳子。用以加工特殊形状的木料。  
