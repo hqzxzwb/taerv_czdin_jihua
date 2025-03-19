@@ -1609,6 +1609,7 @@
 1. 【[手散](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_saen.md#手散)】`sheu3 saen3` <sup>[东台]</sup> ［引］有钱放不住：他从小就～，有工资也是“月光族”。  
 1. 【[手柴<sub>儿</sub>不拾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_shae_r_beh_sheh.md#手柴<sub>儿</sub>不拾)】`sheu3 shae2 r beh7 sheh8` <sup>[东台]</sup> 形容什么家务活都不干。  
 1. 【[手上长毛——老手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_shan_zhan_mo_lo_sheu.md#手上长毛——老手)】`sheu3 shan zhan3 mo2 lo3 sheu3` <sup>[如皋]</sup>   
+1. 【[手势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_shr.md#手势)】`sheu3 shr5` <small>/ɕiɤɯ3 sɿ5/<sup>泰兴</sup></small> 用手作的表示意思的各种姿势。<sup>\[泰兴\]</sup>：打～<sup>\[泰兴\]</sup>  
 1. 【[手是钩子眼是秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_shr_geu_zz_ngaen_shr_chen.md#手是钩子眼是秤)】`sheu3 shr6 geu1 zz ngaen3 shr6 chen5` <sup>[东台]</sup> 凭手拎眼看的感觉也能估计分量。  
 1. 【[手松](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_son.md#手松)】`sheu3 son1` <small>/ɕiɤɯ3 sɔŋ1/<sup>泰兴</sup></small> 随意花钱或给人东西。参见“手紧”。<sup>\[泰兴\]</sup>  
 1. 【[手头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_teu.md#手头)】`sheu3 teu2` ① 手里。<sup>\[如东\]</sup>：～没有钢笔。比喻个人的经济情况。<sup>\[如东\]</sup>｜这些日子～不宽裕。<sup>\[如东\]</sup> ② 伸手可以拿到，随手可取<sup>\[东台\]</sup>：我～有资料<sup>\[东台\]</sup>｜～宽裕<sup>\[东台\]</sup>｜～较紧。<sup>\[东台\]</sup> ③ 手上<sup>\[泰州\]</sup>：你要的这本书，我～就有。<sup>\[泰州\]</sup> ④ 经济状况<sup>\[泰州\]</sup>：他最近～也不宽。<sup>\[泰州\]</sup>  

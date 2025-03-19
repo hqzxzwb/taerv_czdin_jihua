@@ -1538,6 +1538,7 @@
 1. 【[巧气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_qi.md#巧气)】`qio3 qi5` <sup>[兴化]</sup> 形容心灵手巧：他修修补补的，蛮有～的。  
 1. 【[巧巧<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_qio_r.md#巧巧<sub>儿</sub>)】`qio3 qio r` <sup>[泰县]</sup> 巧的。  
 1. 【[巧巧的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_qio_dii.md#巧巧的)】`qio3 qio3 dii` <sup>[如皋]</sup> 正好。  
+1. 【[巧<sub>儿</sub>家妈妈养巧<sub>儿</sub>，巧上加巧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_r_ga_ma.md#巧<sub>儿</sub>家妈妈养巧<sub>儿</sub>，巧上加巧)】`qio3 r ga ma1 ma ian3 qio3 r qio3 shan6 jia1 qio3` <small>/t͡ɕʰiɔ˞3 kɑ mɑ1 mɑ iɑŋ3 t͡ɕʰiɔ˞3 t͡ɕʰiɔ3 sɑŋ1 t͡ɕiɑ1 t͡ɕʰiɔ3/<sup>泰兴</sup></small> 歇后语，谓更为碰巧、好上加好。<sup>\[泰兴\]</sup>  
 1. 【[巧上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_shan.md#巧上)】`qio3 shan` <sup>[兴化]</sup> 恰好遇上：我只买一张彩票，就中吖个二等奖，正碰到～。｜你不要赌咒，碰吖～上去不顺遂。也作“巧里”。｜谚曰：路上说话，～有人。  
 1. 【[巧事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_shr.md#巧事)】`qio3 shr6` <small>/t͡ɕʰiɔ3 sɿ6/<sup>兴化</sup></small> ① 正好碰在某种机会上<sup>\[兴化\]</sup>：他急咖寻房子搬家，正好碰吖老时要卖房子，倒是一件～唻！<sup>\[兴化\]</sup> ② 偶然巧合的事。<sup>\[泰州\]</sup>  
 1. 【[巧云](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_yen.md#巧云)】`qio3 yen2` <small>/t͡ɕʰiɔ3 yn2/<sup>兴化</sup>, /t͡ɕʰiɔ3 yəŋ2/<sup>如皋</sup></small> ① 云景。俗谓“七月里看～”。初秋，天高气爽，云景变幻莫测。<sup>\[如皋\]</sup> ② 阴历七月，南北气流交汇，云层变化多端，出现各种形状的云景，称巧云。民谣：“七月看巧云”，“七月巧云多。”<sup>\[如东\]</sup> ③ 阴历七月天空的云彩，仿佛各种图案<sup>\[兴化\]</sup>：七月的云多变幻，当地叫做～。（汪曾祺《异秉》）<sup>\[兴化\]</sup>  

@@ -808,6 +808,7 @@
 1. 【[㽱人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_ren_zz.md#㽱人子)】`go3 ren zz` <sup>[如皋]</sup> 见“㽱人”。  
 1. 【[㽱人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_ren.md#㽱人)】`go3 ren2` ① 胃部不舒服，有绞痛感觉。<sup>\[如东\]</sup> ② 胃难受，像被搅动似的。<sup>\[东台\]</sup>  
 1. 【[搅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go.md#搅)】`go3` <small>/kɔ3/<sup>兴化</sup>, /kɔ3/<sup>泰县</sup></small> ① 拌。<sup>\[如东\]</sup>：你把面粉～下子。<sup>\[如东\]</sup> ② 掺和。<sup>\[如东\]</sup>：今天饭里～的是甚的？<sup>\[如东\]</sup> ③ 掺杂、混合在一起<sup>\[兴化\]</sup>：大和大～。<sup>\[兴化\]</sup> ④ 连词<sup>\[兴化\]</sup>：张三～李四一齐上的街。<sup>\[兴化\]</sup> ⑤ 拌<sup>\[泰县\]</sup>：把面粉～下子。<sup>\[泰县\]</sup> ⑥ 掺<sup>\[泰县\]</sup>：你这个里头～的甚的啊？<sup>\[泰县\]</sup> ⑦ 搅拌。<sup>\[泰州\]</sup> ⑧ 吵闹，骚扰，不要在这块瞎～。<sup>\[泰州\]</sup> ⑨ 小孩相互争吵，直至动手。<sup>\[泰州\]</sup>  
+1. 【[搅锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_gu.md#搅锅)】`go3 gu1` <small>/kɔ3 kɤɯ1/<sup>泰兴</sup></small> 煮粥时适量加入米、豆等<sup>\[泰兴\]</sup>：𪎉子粥，米～，肚子吃得着地拖。<sup>\[泰兴\]</sup>  
 1. 【[搅和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_hu.md#搅和)】`go3 hu2` <sup>[兴化]</sup> ① 混合、掺杂：商城范围太大，真货、假货～在一起儿不好分辨。 ② 扰乱：好多事情有他一～就黄吖。  
 1. 【[搅浑水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_huen_shuei.md#搅浑水)】`go3 huen2 shuei3` <sup>[东台]</sup> ［喻］故意把事情弄复杂化，让人辨认不清。  
 1. 【[搅面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_min.md#搅面)】`go3 min6` <sup>[东台]</sup> 用机器制作面条，不同于用手工擀面。  
