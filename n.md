@@ -794,10 +794,10 @@
 1. 【[恶作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngah_zah.md#恶作)】`ngah7 zah7` <sup>[东台]</sup> 厉害，过分：双方争夺得十分～｜太～的人不好共事。  
 1. 【[鄂家埭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngah_ga_tae.md#鄂家埭)】`ngah8 ga tae6` <sup>[如皋]</sup> 如皋江安镇的自然村名。  
 1. 【[𠵫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan.md#𠵫)】`ngan` <sup>[如皋]</sup> 语气助词：这杲子重～，难拿啷！  
-1. 【[䱀䲉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_sz.md#䱀䲉)】`ngan1 sz1` <small>/aŋ1 sɿ1/<sup>兴化</sup>, /ŋã1 sɿ/<sup>如皋</sup></small> 黄颡鱼。\[如皋：喻小孩胡闹蛮吵的样子。\]\[泰州：大头平扁，大口圆吻小眼，上下颌有绒毛状的细齿；胸部长平无鳞，后部稍稍侧扁，呈青黄色带不规则褐色斑纹；背鳍灰黑带黄，均具发达硬刺，活动时能发声。\]\[兴化：生活在沟河中的小型鱼类，无鳞。俗称“䱀䲉钉子”。又比喻会争会闹的人。\]：他像个～。<sup>\[兴化\]</sup>  
-1. 【[䱀䲉鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_sz_y.md#䱀䲉鱼)】`ngan1 sz1 y2` ① 鲿科动物黄颡鱼，体长11-19厘米。体长，后部侧扁，腹部平直。头大。吻短。口下位，横裂。唇厚。须4对，上颌须长，末端达到或超过胸鳍基部。体无鳞。背鳍硬刺后缘具锯齿。胸鳍硬刺比背鳍硬鳍长。前后缘均具锯齿。尾鳍深叉形。侧线平直。背部青褐色，体侧淡黄色，具褐色的斑节。鼻须一半白色一半黑色。生活在淡水中。肉质鲜嫩。是如东常见的鱼种。<sup>\[如东\]</sup> ② 学名黄颡鱼。<sup>\[东台\]</sup>  
+1. 【[䱀䲉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_sz.md#䱀䲉)】`ngan1 sz1` <small>/aŋ1 sɿ1/<sup>兴化</sup>, /ŋã1 sɿ/<sup>如皋</sup></small> 黄颡鱼。又音 ngan1 cz1/3。\[如皋：喻小孩胡闹蛮吵的样子。\]\[泰州：大头平扁，大口圆吻小眼，上下颌有绒毛状的细齿；胸部长平无鳞，后部稍稍侧扁，呈青黄色带不规则褐色斑纹；背鳍灰黑带黄，均具发达硬刺，活动时能发声。\]\[兴化：生活在沟河中的小型鱼类，无鳞。俗称“䱀䲉钉子”。又比喻会争会闹的人。\]：他像个～。<sup>\[兴化\]</sup>  
+1. 【[䱀䲉鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_sz_y.md#䱀䲉鱼)】`ngan1 sz1 y2` 黄颡鱼<sup>\[如东\]</sup><sup>\[东台\]</sup>  
 1. 【[䱀䲉鱼颊骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_sz_y_jih_gueh.md#䱀䲉鱼颊骨)】`ngan1 sz1 y2 jih7 gueh7` <sup>[如东]</sup> 鲿科动物黄颡鱼颊骨。  
-1. 【[䱀䲉鱼涎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_sz_y_saen.md#䱀䲉鱼涎)】`ngan1 sz1 y2 saen2` <sup>[如东]</sup> 鲿科动物黄颡鱼皮肤中汾泌的黏液。  
+1. 【[䱀䲉鱼涎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_sz_y_saen.md#䱀䲉鱼涎)】`ngan1 sz1 y2 saen2` <sup>[如东]</sup> 鲿科动物黄颡鱼皮肤中分泌的黏液。  
 1. 【[咉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan.md#咉)】`ngan1` <sup>[兴化]</sup> ① 喧闹：伢儿～饭｜～觉。 ② 争闹：每回分东西他总要～一气。｜她成天～吖要分家。 ③ 《广韵·荡韵》乌郎切“～，～～咽悲也。”  
 1. 【[咉窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_ku.md#咉窠)】`ngan1 ku1` <sup>[如皋]</sup> 蚊子晨昏聚飞交配，咉咉有声。  
 1. 【[肮狗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_geu_zz.md#肮狗子)】`ngan1 geu3 zz` <sup>[东台]</sup> 狗獾的俗称。  
