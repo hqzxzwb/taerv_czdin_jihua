@@ -1642,8 +1642,8 @@
 1. 【[半生烂熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_shen_laen_shoh.md#半生烂熟)】`bun5 shen1 laen6 shoh8` <sup>[兴化]</sup> 食物没有完全煮熟：他端上一只～的白斩鸡，嚼也嚼不动。  
 1. 【[半身不遂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_shen_beh_qy.md#半身不遂)】`bun5 shen1 beh7 qy6` <sup>[东台]</sup> 半边身体不能随意转动。  
 1. 【[半扇门<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_shin_men_r.md#半扇门<sub>儿</sub>)】`bun5 shin5 men2 r` <sup>[兴化]</sup> 暗娼：开～的。‖也作“半掩门儿”。  
-1. 【[半世](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_shr.md#半世)】`bun5 shr5` <small>/pũ5 sɿ5/<sup>兴化</sup></small> ① 半辈子。<sup>\[如东\]</sup>：他已过啊～。<sup>\[如东\]</sup> ② 对世事一知半解，傻里傻气的<sup>\[东台\]</sup><sup>\[兴化\]</sup>：你真的是～，这些村话也派你大姑娘说咖？<sup>\[兴化\]</sup> ③ （詈语）寿命短的人。<sup>\[东台\]</sup>  
-1. 【[半势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_shr.md#半势)】`bun5 shr5` <sup>[泰州]</sup> ① 詈词，谓人的行为、动作不规范，取其“只有一半像人”之义：你望他这个笨手拙脚的～形象噢。 ② 行为、动作极不规范的人，詈词：他这个～能弄个甚的好东西出来啊。  
+1. 【[半世](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_shr.md#半世)】`bun5 shr5` ① 半辈子。<sup>\[如东\]</sup>：他已过啊～。<sup>\[如东\]</sup> ② （詈语）寿命短的人。<sup>\[东台\]</sup>  
+1. 【[半世/半势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_shr.md#半世/半势)】`bun5 shr5` <small>/pũ5 sɿ5/<sup>兴化</sup></small> ① 詈词，谓人的行为、动作不规范，取其“只有一半像人”之义。或指行为、动作不规范的人。<sup>\[泰州\]</sup>：你望他这个笨手拙脚的～形象噢。<sup>\[泰州\]</sup>｜他这个～能弄个甚的好东西出来啊。<sup>\[泰州\]</sup> ② 对世事一知半解，傻里傻气的<sup>\[东台\]</sup><sup>\[兴化\]</sup>：你真的是～，这些村话也派你大姑娘说咖？<sup>\[兴化\]</sup>  
 1. 【[半数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_shv.md#半数)】`bun5 shv5` <sup>[如皋]</sup> 占一半的数。  
 1. 【[半死不活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_sz_beh_huh.md#半死不活)】`bun5 sz3 beh7 huh8` <sup>[泰州]</sup> ① 伤势严重的状态：他捱几个痞子打得～的，睡啊在地下。 ② 身体或者精神处于极差状态：你这种～的样子哿能去上班？ ③ 比喻没有生机活力而仍勉力维持状态：这个厂现在这种～的样子，还不如早点儿关掉好。  
 1. 【[半头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_teu.md#半头)】`bun5 teu` 指遥远的地方；不注意的角落  
