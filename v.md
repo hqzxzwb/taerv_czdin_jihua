@@ -931,8 +931,7 @@
 1. 【[为奇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_qi.md#为奇)】`vei6 qi2` ① 自以为稀奇，炫耀 ② 自以为了不起。<sup>\[如东\]</sup>：不要～。<sup>\[如东\]</sup>  
 1. 【[为甚的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_shen_nii.md#为甚的)】`vei6 shen2 nii` <sup>[如东]</sup> 为什么：～要去？  
 1. 【[为小失大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_xio_sheh_da.md#为小失大)】`vei6 xio3 sheh7 da6` <sup>[兴化]</sup> 因贪图小利而造成大损失，或因小事而耽误大事：你为啊一点儿回扣把饭碗弄𠫓掉啊，这是～呀！也作“因小失大”。  
-1. 【[为嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_zuei.md#为嘴)】`vei6 zuei3` <sup>[兴化]</sup> 贪吃：这个婆娘～，有两个钱抓不住。  
-1. 【[为嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_zuei.md#为嘴)】`vei6 zuei3` <small>/ʋəɪ1 t͡suəɪ3/<sup>泰兴</sup></small> 为了吃这一方面的事。<sup>\[泰兴\]</sup>：两个人～讲经（方言，争吵），太不值得。<sup>\[泰兴\]</sup>  
+1. 【[为嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_zuei.md#为嘴)】`vei6 zuei3` <small>/uəi6 t͡suəi3/<sup>兴化</sup>, /ʋəɪ1 t͡suəɪ3/<sup>泰兴</sup></small> ① 贪吃<sup>\[兴化\]</sup>：这个婆娘～，有两个钱抓不住。<sup>\[兴化\]</sup> ② 为了吃这一方面的事。<sup>\[泰兴\]</sup>：两个人～讲经（方言，争吵），太不值得。<sup>\[泰兴\]</sup>  
 1. 【[位<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_r.md#位<sub>儿</sub>)】`vei6 r` <sup>[如皋]</sup> 身份、气派、派头。  
 1. 【[位子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_zz.md#位子)】`vei6 zz` <sup>[东台]</sup> 位置。引申请为职位：摆正～，到位不越位。  
 1. 【[卫海堤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_hae_ti.md#卫海堤)】`vei6 hae3 ti2` <sup>[如东]</sup> 民国9年至13年（1920年～1924年），分期筑成。西起三十总向北至大弯头，折向东至鲁家丫子，再向南至长沙镇，全长126公里。  
@@ -1005,8 +1004,7 @@
 1. 【[文秀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_xieu.md#文秀)】`ven2 xieu5` <sup>[如东]</sup> 举止端雅：这个姑娘多～。  
 1. 【[文先生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_xin_shen.md#文先生)】`ven2 xin1 shen1` <sup>[兴化]</sup> ① 文化水平高，言谈无俗态的人。 ② （借）平常轻言慢语，个性沉稳的人：他是个～，遇事，总不慌不忙的。  
 1. 【[文鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_y.md#文鱼)】`ven2 y2` <sup>[兴化]</sup> “鱼死”的讳饰词。从市上买回死鱼，说是“文的”“文吖”。文者，不动或少动也。  
-1. 【[文绉绉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_zheu_zheu.md#文绉绉)】`ven2 zheu5 zheu5` <sup>[如东]</sup> 言谈举止文雅：这个孩子～的，真像一个大学生。  
-1. 【[文绉绉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_zheu_zheu.md#文绉绉)】`ven2 zheu5 zheu5` <small>/ʋəŋ2 t͡sɤɯ5 t͡sɤɯ5/<sup>泰兴</sup></small> 文雅的样子。有时含贬义。<sup>\[泰兴\]</sup>：今天他倒像个～的样子。<sup>\[泰兴\]</sup>  
+1. 【[文绉绉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_zheu_zheu.md#文绉绉)】`ven2 zheu5 zheu5` <small>/ʋəŋ2 t͡sɤɯ5 t͡sɤɯ5/<sup>泰兴</sup></small> ① 言谈举止文雅。<sup>\[如东\]</sup>：这个孩子～的，真像一个大学生。<sup>\[如东\]</sup> ② 文雅的样子。有时含贬义。<sup>\[泰兴\]</sup>：今天他倒像个～的样子。<sup>\[泰兴\]</sup>  
 1. 【[文竹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_zhoh.md#文竹)】`ven2 zhoh7` <sup>[如东]</sup> 百合科植物文竹，多年生草本。根长，稍肉质。茎攀援状，木质。枝和叶状枝多数，纤细。花小，稍白色。浆果球形，紫黑色。庭园栽培。  
 1. 【[浑木](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_moh.md#浑木)】`ven2 moh8` <sup>[兴化]</sup> 知觉：冻得不知～。｜“……跌伤后半月中，上半截痛不可言，下半部就不知～了……”（《梼杌闲评》十九）  
 1. 【[纹银](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_ien.md#纹银)】`ven2 ien2` <sup>[东台]</sup> 旧时称成色最好的银子。  

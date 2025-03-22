@@ -589,13 +589,11 @@
 1. 【[长豝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_ba.md#长豝)】`chan2 ba1` <sup>[如东]</sup> 未交配的母猪。  
 1. 【[长把<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_ba_r.md#长把<sub>儿</sub>)】`chan2 ba3 r` <sup>[泰县]</sup> 未下小猪的母猪。  
 1. 【[长膀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_ban_r.md#长膀<sub>儿</sub>)】`chan2 ban3 r` ① 长袖衬衫。<sup>\[东台\]</sup> ② 长袖单衣<sup>\[泰州\]</sup>：天凉吖唻，要穿～。<sup>\[泰州\]</sup>  
-1. 【[长短](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_dun.md#长短)】`chan2 dun3` 长度  
-1. 【[长短](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_dun.md#长短)】`chan2 dun3` <small>/t͡sʰɑŋ2 tʊ̃3/<sup>泰兴</sup></small> 指死亡等意外事故。<sup>\[泰兴\]</sup>  
+1. 【[长短](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_dun.md#长短)】`chan2 dun3` <small>/t͡sʰɑŋ2 tʊ̃3/<sup>泰兴</sup></small> ① 长度 ② 指死亡等意外事故。<sup>\[泰兴\]</sup>  
 1. 【[长锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_gu.md#长锅)】`chan2 gu1` <small>/t͡sʰaŋ2 ko1/<sup>兴化</sup></small> 虚拟的“煨人”的锅<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：只有团锅烧肉，没得～煨人。<sup>\[兴化\]</sup>｜你怕他甚的？怕他弄～把你煮啊吃掉。<sup>\[泰州\]</sup>  
 1. 【[长褂子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_gua_zz.md#长褂子)】`chan2 gua5 zz` <small>/t͡sʰɑŋ2 kuɑ5 t͡sɿ/<sup>泰兴</sup></small> 长衫。旧时罩衣。<sup>\[泰兴\]</sup>  
 1. 【[长话短说](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_hua_dun_shuh.md#长话短说)】`chan2 hua6 dun3 shuh7` <sup>[泰州]</sup> 简要地说：我马上要开会，你就～吧。  
-1. 【[长腰腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_io_io.md#长腰腰)】`chan2 io1 io1` <sup>[如东]</sup> 长圆形或葫芦形：这块田～的。  
-1. 【[长腰腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_io_io.md#长腰腰)】`chan2 io1 io1` <small>/t͡sʰɑŋ2 iɔ1 iɔ1/<sup>泰兴</sup></small> 很长<sup>\[泰兴\]</sup>  
+1. 【[长腰腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_io_io.md#长腰腰)】`chan2 io1 io1` <small>/t͡sʰɑŋ2 iɔ1 iɔ1/<sup>泰兴</sup></small> ① 长圆形或葫芦形。<sup>\[如东\]</sup>：这块田～的。<sup>\[如东\]</sup> ② 很长<sup>\[泰兴\]</sup>  
 1. 【[长远](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_iun.md#长远)】`chan2 iun3` <sup>[兴化]</sup> 指时间很长：他处朋友不得～，容易反脸。｜“你这里～了，不怕没八人轿你坐。”（《红楼梦》十九）  
 1. 【[长脚𣑁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_jiah_chon.md#长脚𣑁)】`chan2 jiah7 chon5` <sup>[如东]</sup> 在木床上连接床脚的方木，叫长脚𣑁。  
 1. 【[长脚尥髈的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_jiah_lio_pan_dii.md#长脚尥髈的)】`chan2 jiah7 lio6 pan3 dii` <sup>[如皋]</sup> 人瘦而高。  
@@ -614,8 +612,7 @@
 1. 【[长钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_qin.md#长钱)】`chan2 qin2` 赚到钱，有盈余：箇交易不长钱。｜今年子交易不好做，长不到钱。  
 1. 【[长三春](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_saen_chuen.md#长三春)】`chan2 saen1 chuen1` <sup>[兴化]</sup> 春节后立春，因春节至清明时间略长，农事安排显得从容。  
 1. 【[长衫改短膀<sub>儿</sub>——绰绰有余](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_shaen_gae_dun_ban_r_chah_chah_ieu_y.md#长衫改短膀<sub>儿</sub>——绰绰有余)】`chan2 shaen1 gae3 dun3 ban3 r chah7 chah7 ieu3 y2` <sup>[东台]</sup>   
-1. 【[长生果](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_shen_gu.md#长生果)】`chan2 shen1 gu3` <sup>[兴化]</sup> 落花生的果实。  
-1. 【[长生果](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_shen_gu.md#长生果)】`chan2 shen1 gu3` <small>/t͡sʰɑŋ2 səŋ1 kɤɯ3/<sup>泰兴</sup></small> 花生的俗称。花生，落花生花落即生，故名。<sup>\[泰兴\]</sup>  
+1. 【[长生果](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_shen_gu.md#长生果)】`chan2 shen1 gu3` <small>/t͡sʰaŋ2 sən1 ko3/<sup>兴化</sup>, /t͡sʰɑŋ2 səŋ1 kɤɯ3/<sup>泰兴</sup></small> 落花生的别名，或其果实。<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>  
 1. 【[长生花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_shen_hua.md#长生花)】`chan2 shen1 hua1` <sup>[如东]</sup> 五月菊。祝寿时，为礼花。  
 1. 【[长生禄位](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_shen_loh_vei.md#长生禄位)】`chan2 shen1 loh8 vei6` <small>/t͡sʰɑŋ2 səŋ1 lɔʔ8 ʋəɪ1/<sup>泰兴</sup></small> 即长生牌位。写有恩人姓名，为恩人祈求福寿的牌位。<sup>\[泰兴\]</sup>  
 1. 【[长手尥脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_sheu_lio_jiah.md#长手尥脚)】`chan2 sheu3 lio6 jiah7` <small>/t͡sʰaŋ2 sɤ3 liɔ6 t͡ɕiaʔ7/<sup>兴化</sup>, /t͡sʰɑŋ2 sɤɯ3 niɔ1 t͡ɕiɑʔ7/<sup>泰县</sup></small> ① 手脚很长，走路时，脚腿向前甩动。<sup>\[如东\]</sup>：这个人～的，样子难看。<sup>\[如东\]</sup> ② 形容身材高，胳膊和腿长<sup>\[兴化\]</sup>：他～的，三五里路两袋烟功夫就到啊。<sup>\[兴化\]</sup> ③ 手脚长。<sup>\[泰县\]</sup>  
@@ -769,8 +766,7 @@
 1. 【[撑厂子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_chan_zz.md#撑厂子)】`chen1 chan3 zz` <sup>[东台]</sup> 为某个场面捧场增光。  
 1. 【[撑撑相相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_chen_xian_xian.md#撑撑相相)】`chen1 chen1 xian5 xian5` <small>/t͡sʰən1 t͡sʰən1 ɕiaŋ5 ɕiaŋ5/<sup>兴化</sup>, /t͡sʰəŋ1 t͡sʰəŋ1 ɕiã5 ɕiã5/<sup>如皋</sup></small> ① 悠闲地站站看看。<sup>\[如皋\]</sup> ② 见“撑吖相的”。<sup>\[兴化\]</sup>  
 1. 【[撑饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_faen.md#撑饭)】`chen1 faen6` <sup>[如东]</sup> 饭吃饱了，还要再吃。多指小孩：小明就会～。  
-1. 【[撑行市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_han_shr.md#撑行市)】`chen1 han2 shr6` <sup>[兴化]</sup> 占了同行的生意买卖：我的洗染店刚刚开张，你又在隔壁开一家，不是～啊？  
-1. 【[撑行市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_han_shr.md#撑行市)】`chen1 han2 shr6` <sup>[泰州]</sup> 由于新的商家加入使得市场饱和，导致价格下降而影响同行的生意：这块的饭店已经不少唻，你就不要再来～唻。  
+1. 【[撑行市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_han_shr.md#撑行市)】`chen1 han2 shr6` <small>/t͡sʰən1 xaŋ2 sɿ6/<sup>兴化</sup></small> ① 占了同行的生意买卖<sup>\[兴化\]</sup>：我的洗染店刚刚开张，你又在隔壁开一家，不是～啊？<sup>\[兴化\]</sup> ② 由于新的商家加入使得市场饱和，导致价格下降而影响同行的生意<sup>\[泰州\]</sup>：这块的饭店已经不少唻，你就不要再来～唻。<sup>\[泰州\]</sup>  
 1. 【[撑野篙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_ia_go.md#撑野篙)】`chen1 ia3 go1` <small>/t͡sʰəŋ1 ia3 kɔ1/<sup>如皋</sup></small> ① 说话避开正题，绕圈子。<sup>\[如皋\]</sup> ② 喻会谈时不愿靠拢，所提要求过分。<sup>\[如皋\]</sup>  
 1. 【[撑檐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_in.md#撑檐)】`chen1 in2` <sup>[如东]</sup> 房屋檐头下面的柱子，有前撑檐和后撑檐两种。  
 1. 【[撑腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_io.md#撑腰)】`chen1 io1` ① 比喻给予有力的支持。<sup>\[如东\]</sup>：我匃你～。<sup>\[如东\]</sup> ② ［喻］给予强有力的支持。<sup>\[东台\]</sup>  
@@ -2017,8 +2013,7 @@
 1. 【[从头到尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/con_teu_do_vei.md#从头到尾)】`con2 teu2 do5 vei3` <sup>[兴化]</sup> 由始至终：这件事～我都参加的。｜“黄飞虎这一遍言语，～，细细说完”（《封神演义》二七）  
 1. 【[从先](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/con_xin.md#从先)】`con2 xin1` <small>/t͡sʰoŋ2 ɕiɪ̃1/<sup>兴化</sup>, /t͡sʰɔŋ2 ɕĩ1/<sup>如皋</sup>, /t͡sʰɔŋ2 ɕĩ1/<sup>泰兴</sup></small> 很久以前，从前，过去<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：他～是个小标品。<sup>\[东台\]</sup>｜我～在乡下教学。<sup>\[兴化\]</sup>  
 1. 【[从小一看，到老一半](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/con_xio_ieh_kun_do_lo_ieh_bun.md#从小一看，到老一半)】`con2 xio3 ieh7 kun5 do5 lo3 ieh7 bun5` <sup>[东台]</sup> 一个人小时候就能初步看出是不是个苗子。  
-1. 【[从小<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/con_xio_r.md#从小<sub>儿</sub>)】`con2 xio3 r` <sup>[如东]</sup> 自年纪小的时候：这个人～就爱学习。  
-1. 【[从小<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/con_xio_r.md#从小<sub>儿</sub>)】`con2 xio3 r` <small>/t͡sʰɔŋ2 ɕiɔ˞3/<sup>泰兴</sup></small> 从小时候起<sup>\[泰兴\]</sup>：～一观，到老一半。<sup>\[泰兴\]</sup>  
+1. 【[从小<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/con_xio_r.md#从小<sub>儿</sub>)】`con2 xio3 r` <small>/t͡sʰɔŋ2 ɕiɔ˞3/<sup>泰兴</sup></small> ① 自年纪小的时候。<sup>\[如东\]</sup>：这个人～就爱学习。<sup>\[如东\]</sup> ② 从小时候起<sup>\[泰兴\]</sup>：～一看，到老一半。<sup>\[泰兴\]</sup>  
 1. 【[嗾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu.md#嗾)】`cu1` <sup>[如皋]</sup> 令犬冲击。另音su1。  
 1. 【[搓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu.md#搓)】`cu1` ① 两手反复摩擦。<sup>\[如东\]</sup>：～手。<sup>\[如东\]</sup> ② 用手掌在别的物体上来回揉。<sup>\[如东\]</sup>：在身上～。<sup>\[如东\]</sup> ③ 以两掌夹物转动使之成圆柱形或者球形<sup>\[泰州\]</sup>： 今吖是正月十五，你去买点儿粉面家来～圆子。<sup>\[泰州\]</sup>｜落雨天，人歇咖在家里反正没得事，～点草绳吧。<sup>\[泰州\]</sup> ④ 两手各握纺织物的一端合在一处使纺织物摩擦<sup>\[泰州\]</sup>：他的脑油重吖没得命，洗他的衣裳，你要着实的～一～。<sup>\[泰州\]</sup> ⑤ 单手或者单手持物按于他物之上使劲摩擦<sup>\[泰州\]</sup>：他有个把月不洗澡唻，你要同他把身上的硍好好的～啊干净吖。<sup>\[泰州\]</sup>  
 1. 【[搓板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_baen.md#搓板)】`cu1 baen3` <small>/t͡sʰʊ1 pẽ3/<sup>如皋</sup></small> ① 一块刻着粗条纹的长方形木板，把湿衣放在上面搓动，去除污垢，这种板叫做搓板。<sup>\[如东\]</sup> ② 擀棉花条儿的工具。<sup>\[如皋\]</sup> ③ 打丝线的工具。<sup>\[如皋\]</sup> ④ 洗衣服用的搓衣板，正面是齿状横槽。<sup>\[泰州\]</sup>  

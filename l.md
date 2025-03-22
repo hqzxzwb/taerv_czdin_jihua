@@ -1954,8 +1954,7 @@
 1. 【[六陈行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_chen_han.md#六陈行)】`loh8 chen2 han2` <small>/lɔʔ8 t͡sʰəŋ2 xã2/<sup>如皋</sup></small> ① 粮食行。<sup>\[如东\]</sup> ② 粮食行。六陈，大米、大小麦、大小豆、芝麻等六种可久藏的粮食。见《辞海》。本地又指三麦、二豆、油菜籽六种越冬作物的籽实。<sup>\[如皋\]</sup> ③ 亦作“六陈铺”，专卖粮食的店。“六陈”指米、大麦、小麦、大豆、小豆、芝麻等六种粮食。<sup>\[泰州\]</sup>  
 1. 【[六畜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_choh.md#六畜)】`loh8 choh7` <sup>[如东]</sup> 猪、牛、羊、马、鸡、狗，称为六畜：～兴旺。  
 1. 【[六冲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_chon.md#六冲)】`loh8 chon1` <small>/lɔʔ8 t͡sʰoŋ1/<sup>兴化</sup>, /lɔʔ8 t͡sʰɔŋ1/<sup>如皋</sup></small> ① 迷信说法。子午、卯酉、辰戌、丑未、寅申、巳亥。六组皆相冲。<sup>\[如皋\]</sup> ② （迷信）旧指男女相差六岁为～，命相不合，不能婚配。<sup>\[兴化\]</sup>  
-1. 【[六大碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_da_un.md#六大碗)】`loh8 da6 un3` <sup>[东台]</sup> 过去请客的一套基本菜系，现常喻指满足基本要求：要先考虑群众利益，不能先把自己的～舀足。  
-1. 【[六大碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_da_un.md#六大碗)】`loh8 da6 un3` <small>/lɔʔ8 tɑ1 ʊ̃3/<sup>泰兴</sup></small> 谓六个菜。昔时乡人待客，多为六个主菜。<sup>\[泰兴\]</sup>  
+1. 【[六大碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_da_un.md#六大碗)】`loh8 da6 un3` <small>/lɔʔ8 tɑ1 ʊ̃3/<sup>泰兴</sup></small> ① 过去请客的一套基本菜系，现常喻指满足基本要求<sup>\[东台\]</sup>：要先考虑群众利益，不能先把自己的～舀足。<sup>\[东台\]</sup> ② 谓六个菜。昔时乡人待客，多为六个主菜。<sup>\[泰兴\]</sup>  
 1. 【[六点<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_din_r.md#六点<sub>儿</sub>)】`loh8 din3 r` <sup>[兴化]</sup> ① 骰子上最大的点子。 ② （喻）有权势的人：你五点儿遇到～，不服软哿行嗷？  
 1. 【[六角门<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_gah_men_r.md#六角门<sub>儿</sub>)】`loh8 gah men2 r` <sup>[如皋]</sup> ① 六角形的院门、便门。 ② 俏皮话，表示不回答内容：甚的门儿？——～！  
 1. 【[六角铮铮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_gah_zhen_zhen.md#六角铮铮)】`loh8 gah zhen1 zhen1` <sup>[兴化]</sup> 煞有介事的：他成天～的，活像是个了不起的人物。  

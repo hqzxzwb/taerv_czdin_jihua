@@ -1222,8 +1222,7 @@
 1. 【[火烧眉毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_sho_mi_mo.md#火烧眉毛)】`hu3 sho1 mi2 mo2` <sup>[如东]</sup> 形容非常焦急：箇许急咖～，你还慢慢吞吞的。  
 1. 【[火烧眉毛——迫在眼前](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_sho_mi_mo_poh_cae_ngaen_qin.md#火烧眉毛——迫在眼前)】`hu3 sho1 mi2 mo2 poh7 cae6 ngaen3 qin2` <sup>[东台]</sup>   
 1. 【[火烧屁股不着忙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_sho_pi_gv_beh_zhah_man.md#火烧屁股不着忙)】`hu3 sho1 pi5 gv3 beh7 zhah7 man2` <sup>[东台]</sup> 形容某人性子太慢，动作太迟缓。  
-1. 【[火头军](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_teu_jyen.md#火头军)】`hu3 teu jyen1` <sup>[如皋]</sup> 见“锅下”。  
-1. 【[火头军](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_teu_jyen.md#火头军)】`hu3 teu jyen1` <small>/xɤɯ3 tʰəɪ t͡ɕyəŋ1/<sup>泰兴</sup></small> 原指军中掌管炊事的人员。今多作戏语，称炊事人员。<sup>\[泰兴\]</sup>  
+1. 【[火头军](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_teu_jyen.md#火头军)】`hu3 teu jyen1` <small>/xʊ3 tʰei t͡ɕyəŋ1/<sup>如皋</sup>, /xɤɯ3 tʰəɪ t͡ɕyəŋ1/<sup>泰兴</sup></small> ① 见“锅下”。<sup>\[如皋\]</sup> ② 原指军中掌管炊事的人员。今多作戏语，称炊事人员。<sup>\[泰兴\]</sup>  
 1. 【[火头军](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_teu_jyen.md#火头军)】`hu3 teu2 jyen1` <sup>[泰州]</sup> ① 军队中负责烧火做饭的人。 ② 泛指在厨房做杂事的人：他退休后就在家里做～忙三顿饭。  
 1. 【[火头上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_teu_shan.md#火头上)】`hu3 teu2 shan` <sup>[泰州]</sup> 正在最愤怒的时候：处长现在正在～，过一刻儿再说。  
 1. 【[火豆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_teu_zz.md#火豆子)】`hu3 teu6 zz` <sup>[兴化]</sup> （喻）急性子：他是个～，一碰就跳。  

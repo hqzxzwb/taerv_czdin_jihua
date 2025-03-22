@@ -364,8 +364,7 @@
 1. 【[方方<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_fan_r.md#方方<sub>儿</sub>)】`fan1 fan r` <sup>[泰县]</sup> 方方正正。  
 1. 【[方方<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_fan_r.md#方方<sub>儿</sub>)】`fan1 fan1 r` <small>/fã1 fa˞1/<sup>如皋</sup></small> ① 风筝的一种。一张四方形的纸，用茅草叶穿成斜十字，中间系一根系儿，即可放上天。<sup>\[如东\]</sup> ② 小孩看图识字的一套卡片，正面是图画，反面是文字。<sup>\[如皋\]</sup> ③ 抗战及解放战争初期，民间暗指新四军为～（或伸四个指头）。<sup>\[如皋\]</sup>  
 1. 【[方方斩斩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_fan_zhaen_zhaen.md#方方斩斩)】`fan1 fan1 zhaen3 zhaen3` <sup>[如皋]</sup> 棱角分明的方形、方体。  
-1. 【[方方正正](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_fan_zhen_zhen.md#方方正正)】`fan1 fan1 zhen5 zhen5` <sup>[如皋]</sup> 棱角分明的方形、方体。  
-1. 【[方方正正](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_fan_zhen_zhen.md#方方正正)】`fan1 fan1 zhen5 zhen5` <small>/fɑŋ1 fɑŋ1 t͡səŋ5 t͡səŋ5/<sup>泰兴</sup></small> 正方形；整整齐齐。<sup>\[泰兴\]</sup>  
+1. 【[方方正正](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_fan_zhen_zhen.md#方方正正)】`fan1 fan1 zhen5 zhen5` <small>/fã1 fã1 t͡səŋ5 t͡səŋ5/<sup>如皋</sup>, /fɑŋ1 fɑŋ1 t͡səŋ5 t͡səŋ5/<sup>泰兴</sup></small> ① 棱角分明的方形、方体。<sup>\[如皋\]</sup> ② 正方形；整整齐齐。<sup>\[泰兴\]</sup>  
 1. 【[方样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_ian.md#方样)】`fan1 ian` <sup>[兴化]</sup> 性情乖戾、悭吝：他的东西别人碰不得，～吖没魂。  
 1. 【[方言](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_in.md#方言)】`fan1 in2` <sup>[东台]</sup> 地方语言跟标准语有区别的部分：江淮～；东台～。  
 1. 【[方圆桌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_iun_zhuah.md#方圆桌)】`fan1 iun2 zhuah7` <sup>[如皋]</sup> 方桌四边有活动边，镶上则成圆桌。另见“三折圆桌”。  

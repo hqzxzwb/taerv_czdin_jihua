@@ -609,7 +609,7 @@
 1. 【[涨价](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_jia.md#涨价)】`zhan3 jia5` ① 商品价格上升。<sup>\[如东\]</sup>：大米又涨吖价。<sup>\[如东\]</sup> ② 提高物价。<sup>\[东台\]</sup>  
 1. 【[涨水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_shuei.md#涨水)】`zhan3 shuei3` <small>/t͡sã3 suei3/<sup>如皋</sup></small> ① 除夕上满水缸。<sup>\[如皋\]</sup> ② 涨潮。<sup>\[如东\]</sup> ③ 春节期间喝炒米茶。喝了几口以后，再添一点儿茶，称涨水。寓意富贵不断上涨。<sup>\[如东\]</sup>：请～。<sup>\[如东\]</sup>  
 1. 【[涨蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_taen.md#涨蛋)】`zhan3 taen6` <sup>[如皋]</sup> 蛋漷好拌和作料后，下温油锅，盖锅盖小火焖熟，体积涨大，翻面再焵，成熟。  
-1. 【[长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan.md#长)】`zhan3` <small>/t͡saŋ3/<sup>兴化</sup>, /t͡sã3/<sup>如皋</sup>, /t͡sɑŋ3/<sup>泰兴</sup>, /t͡sɑŋ3/<sup>泰县</sup></small> ① 生长 ② 使（作物）生长，即种植、培植作物：田里～吖些黄豆｜佤今年子不曾～花生  
+1. 【[长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan.md#长)】`zhan3` <small>/t͡saŋ3/<sup>兴化</sup>, /t͡sã3/<sup>如皋</sup>, /t͡sɑŋ3/<sup>泰兴</sup>, /t͡sɑŋ3/<sup>泰县</sup></small> ① 生长 ② 使（作物）生长，即种植、培植作物<sup>\[如东\]</sup>：田里～吖些黄豆｜佤今年子不曾～花生｜玉米怎吖～相？<sup>\[如东\]</sup>  
 1. 【[长班](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_baen.md#长班)】`zhan3 baen1` <sup>[东台]</sup> 即长辈，辈分大的人。  
 1. 【[长房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_fan.md#长房)】`zhan3 fan2` <sup>[东台]</sup> 家族中长子的一支。  
 1. 【[长梗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_gen_r.md#长梗<sub>儿</sub>)】`zhan3 gen3 r` <small>/t͡sã3 kə˞3/<sup>如皋</sup></small> ① 萌发新枝条。<sup>\[如皋\]</sup> ② 抽薹。<sup>\[如皋\]</sup>  
@@ -632,8 +632,7 @@
 1. 【[长头孙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_teu_suen.md#长头孙)】`zhan3 teu2 suen1` <sup>[泰州]</sup> 长子生的长子。  
 1. 【[长头孙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_teu_suen_zz.md#长头孙子)】`zhan3 teu2 suen1 zz` <small>/t͡saŋ3 tʰɤ2 suən1 t͡sɿ/<sup>兴化</sup></small> ① 长房大孙子。<sup>\[东台\]</sup> ② 长房长孙。<sup>\[兴化\]</sup> ③ 也指排行最大的孙子。<sup>\[兴化\]</sup>  
 1. 【[长尾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_vei_zz.md#长尾子)】`zhan3 vei3 zz` <small>/t͡saŋ3 uəi3 t͡sɿ/<sup>兴化</sup>, /t͡sã3 ʋei3 t͡sɿ/<sup>如皋</sup>, /t͡sɑŋ3 ʋəɪ3 t͡se/<sup>泰县</sup></small> ① ［喻］过生日。多指小孩。<sup>\[东台\]</sup> ② 戏谓小儿过生日。<sup>\[兴化\]</sup> ③ 过生日。<sup>\[泰县\]</sup> ④ 趣指小孩过生日。<sup>\[如皋\]</sup> ⑤ 谑词，谑指小孩子过生日，指小孩子长大一岁，屁股后面的尾巴长长了。<sup>\[泰州\]</sup>  
-1. 【[长相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_xian.md#长相)】`zhan3 xian5` <sup>[如东]</sup> ① 人的相貌：她的～好。 ② 种植的方式方法：玉米怎吖～？  
-1. 【[长相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_xian.md#长相)】`zhan3 xian5` <small>/t͡sɑŋ3 ɕiɑŋ5/<sup>泰兴</sup></small> 相貌。<sup>\[泰兴\]</sup>  
+1. 【[长相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_xian.md#长相)】`zhan3 xian5` <small>/t͡sɑŋ3 ɕiɑŋ5/<sup>泰兴</sup></small> ① 人的相貌。<sup>\[如东\]</sup>：她的～好。<sup>\[如东\]</sup> ② 相貌。<sup>\[泰兴\]</sup>  
 1. 【[长兄为父](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_xion_vei_fv.md#长兄为父)】`zhan3 xion1 vei2 fv6` <small>/t͡sɑŋ3 ɕiɔŋ1 ʋəɪ2 fʋ1/<sup>泰兴</sup></small> 长兄是父母的得力助手，承担的家事很多，所以尊重长兄要像尊敬父辈一样。<sup>\[泰兴\]</sup>  
 1. 【[长云](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_yen.md#长云)】`zhan3 yen2` <small>/t͡sã3 yəŋ2/<sup>如皋</sup></small> ① 云层渐多渐厚。<sup>\[如皋\]</sup> ② 目生瞖，又称上膜络儿、上𣋟曪。<sup>\[如皋\]</sup> ③ 天空中出现了云层。<sup>\[如东\]</sup> ④ 比喻眼球上产生了翳障。<sup>\[如东\]</sup>  
 1. 【[长朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_zho.md#长朝)】`zhan3 zho1` <sup>[兴化]</sup> 指生意最好的一天：小茶馆～的一天卖啊一百多笼点心。  

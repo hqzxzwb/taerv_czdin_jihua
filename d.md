@@ -130,8 +130,7 @@
 1. 【[打公骂婆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_gon_ma_pu.md#打公骂婆)】`da3 gon1 ma6 pu2` <small>/ta3 koŋ1 ma6 pʰo2/<sup>兴化</sup></small> ① 形容为媳者凶悍忤逆<sup>\[兴化\]</sup>：“你这妇人只好在家中狠，～，这里狠不出米的……”（《三刻》六）<sup>\[兴化\]</sup>｜谚曰：～，拖男将下河。<sup>\[兴化\]</sup> ② 殴打辱骂公公婆婆。<sup>\[泰州\]</sup>  
 1. 【[打过门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_gu_men.md#打过门)】`da3 gu5 men2` <small>/ta3 ko5 mən2/<sup>兴化</sup>, /ta3 kʊ5 məŋ2/<sup>如皋</sup></small> ① 见“带彩”。<sup>\[如皋\]</sup> ② （借）以虚言搪塞，遮掩实情<sup>\[兴化\]</sup>：一个门里平白无故连死两个，一父一女，皆是暴死，难～。（《皮五辣子》一）<sup>\[兴化\]</sup>  
 1. 【[打过门<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_gu_men_r.md#打过门<sub>儿</sub>)】`da3 gu5 men2 r` <sup>[如皋]</sup> 原指演戏中间用打击乐器演奏“过门”，借指蒙混、搪塞、帮助掩饰。  
-1. 【[打卦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_gua.md#打卦)】`da3 gua5` <sup>[如东]</sup> 请算命先生预测前途、命运、财气等。  
-1. 【[打卦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_gua.md#打卦)】`da3 gua5` <small>/tɑ3 kuɑ5/<sup>泰兴</sup></small> 旧时的一种迷信活动<sup>\[泰兴\]</sup>  
+1. 【[打卦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_gua.md#打卦)】`da3 gua5` <small>/tɑ3 kuɑ5/<sup>泰兴</sup></small> ① 请算命先生预测前途、命运、财气等。<sup>\[如东\]</sup> ② 旧时的一种迷信活动<sup>\[泰兴\]</sup>  
 1. 【[打挂落拖的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_gua_lah_tu_dii.md#打挂落拖的)】`da3 gua5 lah8 tu1 dii` <sup>[如皋]</sup> 形容衣服特别宽大，不合身的样子。  
 1. 【[打拐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_guae.md#打拐)】`da3 guae3` <small>/ta3 kuɛ3/<sup>如皋</sup>, /ta3 kue3/<sup>泰县</sup></small> ① 中饱私囊。见“落钱”。<sup>\[如皋\]</sup> ② 揩油。<sup>\[泰县\]</sup>  
 1. 【[打拐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_guae_r.md#打拐<sub>儿</sub>)】`da3 guae3 r` <sup>[如皋]</sup> ① 贬指无聊、无价值、不值得做。 ② 见“搉拐儿”。  
@@ -213,8 +212,7 @@
 1. 【[打家具](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_jia_jy.md#打家具)】`da3 jia1 jy5` <sup>[如东]</sup> 制造家具。  
 1. 【[打脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_jiah.md#打脚)】`da3 jiah7` <small>/ta3 t͡ɕiaʔ7/<sup>兴化</sup></small> 因鞋码不合，脚被挤痛或磨破了皮<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：鞋子～。<sup>\[兴化\]</sup>｜鞋子嫌小，你穿吖～。<sup>\[泰州\]</sup>  
 1. 【[打酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_jieu.md#打酒)】`da3 jieu3` <small>/ta3 t͡ɕyʊ3/<sup>如皋</sup></small> 买酒。<sup>\[如皋\]</sup><sup>\[泰州\]</sup>  
-1. 【[打尖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_jin.md#打尖)】`da3 jin1` <sup>[如东]</sup> 旅途中休息下来吃点东西。  
-1. 【[打尖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_jin.md#打尖)】`da3 jin1` <small>/tɑ3 t͡ɕĩ1/<sup>泰兴</sup></small> 在旅途或劳动中休息进食。<sup>\[泰兴\]</sup>  
+1. 【[打尖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_jin.md#打尖)】`da3 jin1` <small>/tɑ3 t͡ɕĩ1/<sup>泰兴</sup></small> ① 旅途中休息下来吃点东西。<sup>\[如东\]</sup> ② 在旅途或劳动中休息进食。<sup>\[泰兴\]</sup>  
 1. 【[打牮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_jin.md#打牮)】`da3 jin5` <sup>[兴化]</sup> 房屋倾斜时，用长木头支起，弄正。  
 1. 【[打搅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_jio.md#打搅)】`da3 jio3` <sup>[如东]</sup> 增添麻烦的意思。  
 1. 【[打驹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_jy.md#打驹)】`da3 jy1` <sup>[如皋]</sup> 兔交配。  
@@ -322,8 +320,7 @@
 1. 【[打腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_qian.md#打腔)】`da3 qian1` <sup>[如东]</sup> 跟对方说话：他俫见吖面都不～。  
 1. 【[打墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_qian.md#打墙)】`da3 qian2` <small>/ta3 t͡ɕʰiã2/<sup>如皋</sup></small> ① 垒土墙。<sup>\[如东\]</sup>：明天开始～。<sup>\[如东\]</sup> ② 制造障碍。<sup>\[如东\]</sup>：王二从中～。<sup>\[如东\]</sup> ③ 用湿土边垒边拍实，制成土墙。<sup>\[如皋\]</sup> ④ 比喻堆积<sup>\[如皋\]</sup>：鸡蛋没得尝，鸡屎好～。<sup>\[如皋\]</sup> ⑤ 比喻不处世<sup>\[如皋\]</sup>：邻舍家高～。<sup>\[如皋\]</sup>  
 1. 【[打情骂俏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_qien_ma_qio.md#打情骂俏)】`da3 qien2 ma6 qio5` <sup>[兴化]</sup> 男女间挑逗、戏谑：……王小四子便～起来……把个糖葫芦的脑袋揿到自己怀里，举起粉嫩的手打他的嘴巴。（《官场现形记》二九）  
-1. 【[打前站](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_qin_zhaen.md#打前站)】`da3 qin2 zhaen5` <sup>[泰州]</sup> 行军或者集体出行之时，派人提前先到将要停留或者到达的地点办理食宿事务：3号局里组织20多家企业去镇江考察，老刘你同小王去～，有甚的情况打电话把我。  
-1. 【[打前站](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_qin_zhaen.md#打前站)】`da3 qin2 zhaen5` <small>/tɑ3 t͡ɕʰĩ2 t͡ɕiɛ̃5/<sup>泰兴</sup></small> 行军或集体出行时先派人到将要停留或到达的地点去办理食宿等事务。<sup>\[泰兴\]</sup>  
+1. 【[打前站](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_qin_zhaen.md#打前站)】`da3 qin2 zhaen5` <small>/tɑ3 t͡ɕʰĩ2 t͡ɕiɛ̃5/<sup>泰兴</sup></small> 行军或出行时，提前到将要停留或到达的地点为大队人马的到来办理食宿等事务<sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：3号局里组织20多家企业去镇江考察，老刘你同小王去～，有甚的情况打电话把我。<sup>\[泰州\]</sup>  
 1. 【[打钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_qin.md#打钱)】`da3 qin2` <sup>[兴化]</sup> 旧时的一种儿童游戏：一块整砖支起一斜坡，参与者高举铜板向砖面落下，滚在前的砸后边的，砸到为赢。  
 1. 【[打钱墩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_qin_den.md#打钱墩)】`da3 qin2 den1` <sup>[如东]</sup> 一种游戏。地上画一个圆圈，里面放几只铜钞，谁先把铜钞打出圈，即为赢家。  
 1. 【[打钱堆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_qin_dy.md#打钱堆)】`da3 qin2 dy1` <sup>[东台]</sup> 旧时儿童打铜钞的游戏。  
@@ -395,8 +392,7 @@
 1. 【[打田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_tin.md#打田)】`da3 tin2` <sup>[如东]</sup> 用耙或石碌在田里牵拉滚压，使田地平整。  
 1. 【[打淘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_to.md#打淘)】`da3 to2` <sup>[如皋]</sup> 关系和谐。  
 1. 【[打通关](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ton_guaen.md#打通关)】`da3 ton1 guaen1` <sup>[泰州]</sup> ① 打通全部关口，指一种划拳方式，打通关者依次与席上每个人划拳，赢了通过，输了饮酒一杯，再划，直至全体通过。 ② 敬酒者依次与酒席上的人逐一敬酒，直至全部敬完：小宫打啊两个通关，喝咖起码有八两酒。  
-1. 【[打退堂鼓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_tuei_tan_gv.md#打退堂鼓)】`da3 tuei5 tan2 gv3` <sup>[泰州]</sup> 比喻事情正在进行之时中途退出：这件事上头都～唻，你还弄个梦吖。  
-1. 【[打退堂鼓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_tuei_tan_gv.md#打退堂鼓)】`da3 tuei5 tan2 gv3` <small>/tɑ3 tʰəɪ5 tʰɑŋ2 ku3/<sup>泰兴</sup></small> 古代官吏退堂时打鼓。今多喻指中途退缩。<sup>\[泰兴\]</sup>  
+1. 【[打退堂鼓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_tuei_tan_gv.md#打退堂鼓)】`da3 tuei5 tan2 gv3` <small>/tɑ3 tʰəɪ5 tʰɑŋ2 ku3/<sup>泰兴</sup></small> 比喻中途退缩放弃<sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：这件事上头都～唻，你还弄个梦吖。<sup>\[泰州\]</sup>  
 1. 【[打兔（吐）子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_tv_zz.md#打兔（吐）子)】`da3 tv5 zz` <small>/ta3 tʰu5 t͡sɿ/<sup>兴化</sup>, /ta3 tʰu5 t͡sɿ/<sup>如皋</sup></small> ［喻］醉酒后呕吐。<sup>\[东台\]</sup><sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：老钱昨朝晚上酒弄吖多啊，不曾到家就～，身上弄得一塌糊涂。<sup>\[泰州\]</sup>  
 1. 【[打杜鲁克](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_tv_lv_keh.md#打杜鲁克)】`da3 tv6 lv keh7` <sup>[东台]</sup> 打扑克。也称“打沙蟹”。  
 1. 【[打肚皮官司](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_tv_pi_gun_sz.md#打肚皮官司)】`da3 tv6 pi2 gun1 sz` <sup>[如皋]</sup> ① 自己反复思考。 ② 饿了。  
@@ -424,8 +420,7 @@
 1. 【[打先站](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_xin_zhaen.md#打先站)】`da3 xin1 zhaen5` <sup>[如东]</sup> 先去做一下准备工作。也叫打前站。  
 1. 【[打现折子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_xin_zhih_zz.md#打现折子)】`da3 xin6 zhih7 zz` <sup>[如皋]</sup> 民俗，长辈初见晚辈、平辈远来，用红纸包现钱作礼金相赠。  
 1. 【[打小九九](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_xio_jieu_jieu.md#打小九九)】`da3 xio3 jieu3 jieu3` <sup>[东台]</sup> ［喻］打小算盘，只为个人或小团体的利益打算。  
-1. 【[打小算盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_xio_sun_pun.md#打小算盘)】`da3 xio3 sun5 pun` <sup>[泰州]</sup> 在小处精打细算，斤斤计较‌：这次地震，同事个个捐500块，只有她个人～，弄吖100块钱。｜这个人～出咖名，把人家撂掉的汽车票拾家来报销。  
-1. 【[打小算盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_xio_sun_pun.md#打小算盘)】`da3 xio3 sun5 pun` <small>/tɑ3 ɕiɔ3 sʊ̃5 pʰʊ̃/<sup>泰兴</sup></small> 喻为个人或局部利益算计。<sup>\[泰兴\]</sup>：他箇个人就欢喜～。<sup>\[泰兴\]</sup>  
+1. 【[打小算盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_xio_sun_pun.md#打小算盘)】`da3 xio3 sun5 pun` <small>/tɑ3 ɕiɔ3 sʊ̃5 pʰʊ̃/<sup>泰兴</sup></small> ① 在小处精打细算，斤斤计较‌<sup>\[泰州\]</sup>：这次地震，同事个个捐500块，只有她个人～，弄吖100块钱。<sup>\[泰州\]</sup>｜这个人～出咖名，把人家撂掉的汽车票拾家来报销。<sup>\[泰州\]</sup> ② 喻为个人或局部利益算计。<sup>\[泰兴\]</sup>：他箇个人就欢喜～。<sup>\[泰兴\]</sup>  
 1. 【[打笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_xio.md#打笑)】`da3 xio5` <sup>[如皋]</sup> 运用语言技巧嘲笑、取笑。  
 1. 【[打雄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_xion.md#打雄)】`da3 xion2` <small>/ta3 ɕioŋ2/<sup>兴化</sup>, /ta3 ɕiɔŋ2/<sup>如皋</sup></small> 禽鸟类交尾。<sup>\[如皋\]</sup><sup>\[兴化\]</sup>\[泰州：动物交媾\]：麻雀儿～。<sup>\[泰州\]</sup>  
 1. 【[打雪花脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_xiuh_hua_lin.md#打雪花脸)】`da3 xiuh7 hua1 lin3` <sup>[东台]</sup> ［喻］言而无信，前头说的话过后反悔、不认账。  
@@ -1480,8 +1475,7 @@
 1. 【[抖罗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_lu.md#抖罗)】`deu3 lu` <sup>[泰县]</sup> 不稳重：你～狠吖就要惹祸。  
 1. 【[抖动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_ton.md#抖动)】`deu3 ton6` <sup>[如东]</sup> 物体颤动：大车经过，路面～。  
 1. 【[抖魆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_xyeh.md#抖魆)】`deu3 xyeh7` <sup>[如东]</sup> 小气而奸诈：这个人非常～。  
-1. 【[斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu.md#斗)】`deu3` <sup>[如东]</sup> 衡器。木制，圆桶形或方形，无盖。通称为市斗，相当于十分之一石。  
-1. 【[斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu.md#斗)】`deu3` <small>/təɪ3/<sup>泰兴</sup></small> 量具。<sup>\[泰兴\]</sup>  
+1. 【[斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu.md#斗)】`deu3` <small>/təɪ3/<sup>泰兴</sup></small> ① 衡器。木制，圆桶形或方形，无盖。通称为市斗，相当于十分之一石。<sup>\[如东\]</sup> ② 量具。<sup>\[泰兴\]</sup>  
 1. 【[斗板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_baen.md#斗板)】`deu3 baen3` <sup>[如皋]</sup> 水车上的零件即“沷”。  
 1. 【[斗大的胡椒辣不煞个人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_da_dii_hv.md#斗大的胡椒辣不煞个人)】`deu3 da6 dii hv2 jio1 laeh8 beh shaeh7 gu5 ren2` <small>/təɪ3 tɑ1 təɪ fʋ2 t͡ɕiɔ1 læʔ8 pəʔ ɕiæʔ7 kɤɯ5 ɻəŋ2/<sup>泰兴</sup></small> 喻只要有胆略、勇气，天大的困难都能克服。<sup>\[泰兴\]</sup>  
 1. 【[斗大的馒头——没处下口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_da_dii_mun_teu_meh_chv_xia_keu.md#斗大的馒头——没处下口)】`deu3 da6 dii mun2 teu2 meh8 chv5 xia6 keu3` <sup>[东台]</sup>   
@@ -1495,8 +1489,7 @@
 1. 【[斗篷螺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_pon_lu_r.md#斗篷螺<sub>儿</sub>)】`deu3 pon2 lu1 r` <sup>[如东]</sup> 玉螺科动物鲳螺。  
 1. 【[斗香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_xian.md#斗香)】`deu3 xian1` <sup>[如皋]</sup> 将一把一把的圆檀（香名）从端向基一层层捆扎成的塔形香。  
 1. 【[斗砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_zhun.md#斗砖)】`deu3 zhun1` <sup>[如东]</sup> 把砖头仄起来。  
-1. 【[斗猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_zhv.md#斗猪)】`deu3 zhv1` <sup>[东台]</sup> 专门用于配种的大公猪。  
-1. 【[斗猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_zhv.md#斗猪)】`deu3 zhv1` <small>/təɪ3 t͡su1/<sup>泰兴</sup></small> 配种的公猪。<sup>\[泰兴\]</sup>  
+1. 【[斗猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_zhv.md#斗猪)】`deu3 zhv1` <small>/təɪ3 t͡su1/<sup>泰兴</sup></small> 配种的公猪。<sup>\[泰兴\]</sup>\[东台：专门用于配种的大公猪。\]  
 1. 【[斗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_zz.md#斗子)】`deu3 zz` <sup>[如皋]</sup> 水车的零件。见“鹤儿”。  
 1. 【[斗子墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_zz_qian.md#斗子墙)】`deu3 zz qian2` <sup>[如东]</sup> 用仄砖砌起来的墙。  
 1. 【[陡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu.md#陡)】`deu3` <sup>[如皋]</sup> 雨势急：雨～。  
@@ -1514,9 +1507,7 @@
 1. 【[斗缝合榫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_fon_huh_xyen.md#斗缝合榫)】`deu4 fon6 huh8 xyen3` <sup>[泰州]</sup> ① 构件两个部分咬合极其准确：这个木匠的手艺没得话说，打的家具块块～。 ② 比喻账务上所记收支与实际的收支完全吻合：他是老会计，弄的账～，领导对他非常放心。  
 1. 【[斗（鬥）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu.md#斗（鬥）)】`deu5` <small>/tei5/<sup>如皋</sup></small> ① 主动找<sup>\[如皋\]</sup>：雄鸡～母鸡，～交易。<sup>\[如皋\]</sup> ② 挑动、挑起争端<sup>\[如皋\]</sup>：是他～我，我才还手的。<sup>\[如皋\]</sup> ③ 争斗<sup>\[如皋\]</sup>：坐山观虎～；好～的鸡儿不长毛。<sup>\[如皋\]</sup> ④ 凑合<sup>\[如皋\]</sup>：～股子、～份子。<sup>\[如皋\]</sup> ⑤ 相合，拼合<sup>\[如皋\]</sup><sup>\[泰州\]</sup>：～缝合榫。<sup>\[如皋\]</sup>｜这几块小板子～啊子就是一块大板子。<sup>\[泰州\]</sup> ⑥ （泰州词典作𨁋）<sup>\[泰州\]</sup> ⑦ 前进之时足尖碰到硬物受阻，惯性导致前倾<sup>\[泰州\]</sup>：刚才不曾注意，捱脚底下的石子ㄦ～啊下子，还好不曾跌跟头。<sup>\[泰州\]</sup> ⑧ 用刨子刨物体，用锯子锯物时，刀口、锯口碰到硬块后被弹起<sup>\[泰州\]</sup>：这个木头里头有钉子，锯的时候要当心，不要把家伙～啊坏啊。<sup>\[泰州\]</sup>  
 1. 【[斗草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_co.md#斗草)】`deu5 co3` <sup>[泰州]</sup> 一种儿童游戏，两人各执一根带茎的青草，将双方的草茎相互交结，各持一端猛烈向后拉扯，谁的草茎断了谁就为输。  
-1. 【[斗份子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_fen_zz.md#斗份子)】`deu5 fen6 zz` <sup>[兴化]</sup> 许多人凑钱合做一件事：我俫～为老陈送行。｜……共有五个宫员，都斗了分子，穿孝服来上纸帛吊问。（《金瓶梅词话》六五）  
-1. 【[斗份子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_fen_zz.md#斗份子)】`deu5 fen6 zz` <sup>[泰州]</sup> 每人出一分钱拼凑起来送礼：老李家儿子下个星期六结婚，处长说的，处里八个人～出人情，个人100块钱。  
-1. 【[斗份子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_fen_zz.md#斗份子)】`deu5 fen6 zz` <small>/təɪ5 fəŋ1 t͡sɿ/<sup>泰兴</sup></small> 每人出一份钱凑起来办一件事。<sup>\[泰兴\]</sup>  
+1. 【[斗份子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_fen_zz.md#斗份子)】`deu5 fen6 zz` <small>/tɤ5 fən6 t͡sɿ/<sup>兴化</sup>, /təɪ5 fəŋ1 t͡sɿ/<sup>泰兴</sup></small> 凑钱合做一件事<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>\[泰州：每人出一分钱拼凑起来送礼\]：我俫～为老陈送行。<sup>\[兴化\]</sup>｜……共有五个宫员，都斗了分子，穿孝服来上纸帛吊问。（《金瓶梅词话》六五）<sup>\[兴化\]</sup>｜老李家儿子下个星期六结婚，处长说的，处里八个人～出人情，个人100块钱。<sup>\[泰州\]</sup>  
 1. 【[斗缝合榫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_fon_huh_xyen.md#斗缝合榫)】`deu5 fon6 huh8 xyen3` <sup>[东台]</sup> ① 本指木器榫头和卯眼接合，喻指几方面反映的情况完全吻合，严丝合缝。 ② 几方面环节衔接紧凑。  
 1. 【[斗富](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_fv.md#斗富)】`deu5 fv5` <sup>[兴化]</sup> 比较富有：“徒弟，莫要与人～。你我是单身在外，恐有错。”（《西游记》十六）  
 1. 【[斗搞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_go.md#斗搞)】`deu5 go3` <small>/tɤ5 kɔ3/<sup>兴化</sup>, /tei5 kɔ3/<sup>如皋</sup></small> ① 打闹争斗。<sup>\[如皋\]</sup> ② 与人嬉闹。<sup>\[如皋\]</sup> ③ 对小争斗的淡化性称法。<sup>\[如皋\]</sup> ④ 小孩互相争执、斗殴。<sup>\[兴化\]</sup> ⑤ 儿童、少年相互争吵，直至动手打斗<sup>\[泰州\]</sup>：他家大人不在家，几个小的在家里～。<sup>\[泰州\]</sup>  
@@ -1533,12 +1524,10 @@
 1. 【[斗起来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_qi_lae.md#斗起来)】`deu5 qi3 lae` <sup>[东台]</sup> 拼凑起来：几块零布～一块桌围｜这套班子是临时～的。  
 1. 【[斗七字段](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_qieh_cz_tun.md#斗七字段)】`deu5 qieh7 cz6 tun6` <sup>[兴化]</sup> 七字段是一种民间小唱。借指他一言，你一语，互相挖苦、斗气：你俫覅～吖，还是谈正事吧！  
 1. 【[斗巧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_qio.md#斗巧)】`deu5 qio3` <small>/tɤ5 t͡ɕʰiɔ3/<sup>兴化</sup></small> ① 碰巧<sup>\[东台\]</sup>：昨天～遇到他。<sup>\[东台\]</sup> ② 凑巧、碰巧<sup>\[兴化\]</sup>：～有个便车上北京，他就搭车去啊。<sup>\[兴化\]</sup>  
-1. 【[斗瘸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_qya_zz.md#斗瘸子)】`deu5 qya2 zz` <sup>[兴化]</sup> 蓄意挑衅：我俫各做各的生意，你凭甚的老来～？  
-1. 【[斗瘸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_qya_zz.md#斗瘸子)】`deu5 qya2 zz` <small>/təɪ5 t͡ɕʰyɑ2 t͡sɿ/<sup>泰兴</sup></small> 对淡话，矛盾双方相互辩析。<sup>\[泰兴\]</sup>  
+1. 【[斗瘸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_qya_zz.md#斗瘸子)】`deu5 qya2 zz` <small>/tɤ5 t͡ɕʰya2 t͡sɿ/<sup>兴化</sup>, /təɪ5 t͡ɕʰyɑ2 t͡sɿ/<sup>泰兴</sup></small> ① 蓄意挑衅<sup>\[兴化\]</sup>：我俫各做各的生意，你凭甚的老来～？<sup>\[兴化\]</sup> ② 对淡话，矛盾双方相互辩析。<sup>\[泰兴\]</sup>  
 1. 【[斗生意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_shen_i.md#斗生意)】`deu5 shen1 i` <sup>[兴化]</sup> 招揽买卖：一到夜市，许多摊主走上来～。  
 1. 【[斗头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_teu.md#斗头)】`deu5 teu2` <small>/tɤ5 tʰɤ2/<sup>兴化</sup></small> ① 对得上，不错。<sup>\[东台\]</sup> ② 即对头、正确<sup>\[兴化\]</sup>：你的办法～，我赞成。<sup>\[兴化\]</sup>  
-1. 【[斗嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_zuei.md#斗嘴)】`deu5 zuei3` <sup>[如东]</sup> 争吵。  
-1. 【[斗嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_zuei.md#斗嘴)】`deu5 zuei3` <small>/təɪ5 t͡suəɪ3/<sup>泰兴</sup></small> 吵嘴，吵架。<sup>\[泰兴\]</sup>  
+1. 【[斗嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_zuei.md#斗嘴)】`deu5 zuei3` <small>/təɪ5 t͡suəɪ3/<sup>泰兴</sup></small> 争吵，吵嘴，吵架。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
 1. 【[鬥草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_co.md#鬥草)】`deu5 co3` <sup>[如皋]</sup> 古俗。有二式：夏秋间取白杨树叶柄，每人一根，二人一组，互相牵拉，断为输，不断者为“王”。取香附花莛，沿花撕开，呈“叉”者是“小伙”，呈“框”者是“丫头”。双方各撕数根，得“小伙”多者为胜。  
 1. 【[鬥打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_da.md#鬥打)】`deu5 da3` <sup>[兴化]</sup> ① 通过挑衅，使对方冲动，进而相互斗殴。 ② 招打：他过得好好的就～。  
 1. 【[鬥拐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_guae_r.md#鬥拐<sub>儿</sub>)】`deu5 guae3 r` <sup>[如皋]</sup> 旧式木质桌椅等侧框上的装饰结构，全由榫拼合成：～八仙。  
