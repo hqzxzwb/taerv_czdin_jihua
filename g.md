@@ -1215,7 +1215,7 @@
 1. 【[个人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_ren.md#个人)】`gu9 ren2` <sup>[东台]</sup> 每人；一个人：现在发练习簿，～五本。  
 1. 【[个人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_ren.md#个人)】`gu9 ren2, gu9 ren` <sup>[泰兴]</sup> 一个人。单独的。  
 1. 【[个如个的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_rv_gu_dii.md#个如个的)】`gu9 rv2 gu9 dii` <sup>[东台]</sup> 一个个；每一个：这批苹果质量好，你看，～，光洁整齐｜听到噩耗，～吓咖痴啊。  
-1. 【[个说个观，抵到个半](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_shuh_gu_gun_di_do_gu_bun.md#个说个观，抵到个半)】`gu9 shuh7 gu9 gun1 di3 do5 gu9 bun5` <sup>[泰兴]</sup> 参见“一个烧香一个拜”。  
+1. 【[个说个看，抵到个半](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_shuh_gu_kun.md#个说个看，抵到个半)】`gu9 shuh7 gu9 kun5 di3 do5 gu9 bun5` <sup>[泰兴]</sup> 参见“一个烧香一个拜”。  
 1. 【[个数个的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_shv_gu_dii.md#个数个的)】`gu9 shv5 gu9 dii` <sup>[如皋]</sup> 一个一个的。“个”有变调。  
 1. 【[呱里呱啦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_lii_gua_la.md#呱里呱啦)】`gua1 lii gua1 la1` <sup>[兴化]</sup> 形容人言语过多：他一天到晚～的。  
 1. 【[瓜菜萝卜行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_cae_lu_poh_han.md#瓜菜萝卜行)】`gua1 cae5 lu2 poh han2` <sup>[如皋]</sup> 经营瓜菜萝卜等的商行。  
