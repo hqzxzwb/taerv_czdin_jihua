@@ -136,7 +136,6 @@
 1. 【[坝口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_keu.md#坝口)】`ba5 keu3` <sup>[如皋]</sup> 坝上的出入口。  
 1. 【[坝落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_lah.md#坝落)】`ba5 lah8` <sup>[如东]</sup> 捕鱼的一种方式。渔民站在落潮水流中，用网拦截鱼虾。  
 1. 【[坝勒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_leh.md#坝勒)】`ba5 leh8` <sup>[如东]</sup> 堵塞：大河中间～，洪水流不出去。  
-1. 【[坝实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_sheh.md#坝实)】`ba5 sheh` <small>/pa5 səʔ/<sup>泰县</sup></small> ① 结实。<sup>\[泰县\]</sup>：这张椅子蛮～。<sup>\[泰县\]</sup> ② 物体坚固耐重压<sup>\[泰州\]</sup>：祖上传吖唻的这张床打得～，用吖有四五十年还好好的。<sup>\[泰州\]</sup> ③ 指人的身体魁梧能干重体力活<sup>\[泰州\]</sup>：小二子身体多～咖，二百斤担子挑得飞飞的。<sup>\[泰州\]</sup>  
 1. 【[坝头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_teu.md#坝头)】`ba5 teu2` <sup>[兴化]</sup> ① 拦水建筑物。 ② （喻）前进道路上的人为障碍：不把这个～开掉，庄上的工作没法开展。  
 1. 【[坝头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_teu_zz.md#坝头子)】`ba5 teu2 zz` <sup>[如皋]</sup> 坝墩。  
 1. 【[坝堍子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_tv_zz.md#坝堍子)】`ba5 tv5 zz` <small>/pa5 tʰu5 t͡sɿ/<sup>如皋</sup></small> ① 坝身两端与岸边相接的一段。<sup>\[如东\]</sup> ② 坝身两端与岸边、路道相连的一段。<sup>\[如皋\]</sup>  
@@ -147,7 +146,6 @@
 1. 【[把缸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_gan_r.md#把缸<sub>儿</sub>)】`ba5 gan1 r` <small>/pa5 kɑŋ1 ɚ/<sup>泰县</sup></small> ① 带把子的茶杯。<sup>\[东台\]</sup> ② 搪瓷茶缸。<sup>\[泰县\]</sup>  
 1. 【[把缸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_gan_zz.md#把缸子)】`ba5 gan1 zz` <sup>[兴化]</sup> 有把子的茶杯。  
 1. 【[把<sub>儿</sub>话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_r_hua.md#把<sub>儿</sub>话)】`ba5 r hua6` <sup>[东台]</sup> ［喻］答复问题不干脆，拖泥带水，好像还留有话把儿：凡是要进事业单位的，都要经过考试，不能随意说～开口子。  
-1. 【[把实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_sheh.md#把实)】`ba5 sheh` <sup>[兴化]</sup> 形容器物牢固耐用：这张藤椅蛮～的。也作“坝实”。  
 1. 【[把手紧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_sheu_jien.md#把手紧)】`ba5 sheu3 jien3` <sup>[如皋]</sup> 精打细算，不肯乱花一文钱。见“手丫儿紧”。  
 1. 【[把壮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_zhuan.md#把壮)】`ba5 zhuan` <sup>[兴化]</sup> 多指器物材料粗厚，做工认真，因而牢固耐用：这张桌子打得～。｜这个篮子编得～。  
 1. 【[爸爸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ba.md#爸爸)】`ba5 ba` <sup>[如东]</sup> 父亲。  
@@ -158,7 +156,7 @@
 1. 【[罢咾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_lo.md#罢咾)】`ba5 lo` <sup>[如皋]</sup> 算了，温和平静地：一点小事，～，～。  
 1. 【[霸住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_chuh.md#霸住)】`ba5 chuh` <sup>[如皋]</sup> 强行控制：他～咖大门不准走。  
 1. 【[霸剌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_laeh.md#霸剌)】`ba5 laeh` <sup>[东台]</sup> 霸道、凶狠、手辣：人要厚道，不能～。  
-1. 【[霸实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_sheh.md#霸实)】`ba5 sheh` <small>/pa5 səʔ/<sup>如皋</sup></small> ① 结实。<sup>\[如东\]</sup>：这只箩筐～。<sup>\[如东\]</sup> ② 形容用物工具结实牢固。<sup>\[如皋\]</sup> ③ 结实。（多指用物器具）<sup>\[东台\]</sup>  
+1. 【[霸实/坝实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_sheh.md#霸实/坝实)】`ba5 sheh` <small>/pa5 səʔ/<sup>兴化</sup>, /pa5 səʔ/<sup>如皋</sup>, /pa5 səʔ/<sup>泰县</sup></small> ① 结实。<sup>\[如东\]</sup>：这只箩筐～。<sup>\[如东\]</sup> ② 形容用物工具结实牢固。<sup>\[如皋\]</sup> ③ 结实。（多指用物器具）<sup>\[东台\]</sup> ④ 结实。<sup>\[泰县\]</sup>：这张椅子蛮～。<sup>\[泰县\]</sup> ⑤ 物体坚固耐重压<sup>\[泰州\]</sup>：祖上传吖唻的这张床打得～，用吖有四五十年还好好的。<sup>\[泰州\]</sup> ⑥ 指人的身体魁梧能干重体力活<sup>\[泰州\]</sup>：小二子身体多～咖，二百斤担子挑得飞飞的。<sup>\[泰州\]</sup> ⑦ 形容器物牢固耐用<sup>\[兴化\]</sup>：这张藤椅蛮～的。<sup>\[兴化\]</sup>  
 1. 【[霸王请客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_van_qien_keh.md#霸王请客)】`ba5 van2 qien3 keh7` <sup>[东台]</sup> 强行请人到场，不让推辞。  
 1. 【[𬥐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae.md#𬥐)】`bae1` <sup>[兴化]</sup> ① 父亲：～～。 ② 父亲的兄或弟：大～；二～；三～。 ③ 和父亲年岁、辈份相当的男性：张大～；王二～。  
 1. 【[𬥐𬥐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_bae.md#𬥐𬥐)】`bae1 bae` <small>/pɛ1 pɛ/<sup>如皋</sup>, /pɛ1 pɛ/<sup>泰兴</sup></small> ① 父亲<sup>\[泰州\]</sup>\[如皋：如皋北乡称。\] ② 父亲的妹妹。或泛指父亲的姊或妹。<sup>\[泰兴\]</sup>  
