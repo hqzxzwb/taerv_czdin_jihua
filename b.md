@@ -532,7 +532,7 @@
 1. 【[不打嘴里过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_da_zuei_lii.md#不打嘴里过)】`beh7 da3 zuei3 lii gu5` <sup>[泰兴]</sup> 谓说话不经思考，不负责任。  
 1. 【[不带](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_dae.md#不带)】`beh7 dae5` <sup>[如东]</sup> 不算，不允许。  
 1. 【[不带虚头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_dae_xy_teu.md#不带虚头)】`beh7 dae5 xy1 teu` <sup>[如东]</sup> 不算假数字：～，你要多少钱？  
-1. 【[不搭筏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_daeh_faen_zz.md#不搭筏子)】`beh7 daeh7 faen8 zz` <sup>[泰州]</sup> 不要乘坐他的筏子，比喻不要接受他人邀请共同做某事：说咖好啊一起上南京的，今吖问他甚的时候走，他～唻。  
+1. 【[不搭筏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_daeh_faeh_zz.md#不搭筏子)】`beh7 daeh7 faeh8 zz` <sup>[泰州]</sup> 比喻不接受他人邀请共同做某事：说咖好啊一起上南京的，今吖问他甚的时候走，他～唻。  
 1. 【[不搭界](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_daeh_ga.md#不搭界)】`beh7 daeh7 ga5` <sup>[如皋]</sup> 无关，无联系：两件事互相～。  
 1. 【[不搭界](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_daeh_gae.md#不搭界)】`beh7 daeh7 gae5` <sup>[如皋]</sup> 无关，无联系。  
 1. 【[不搭𠵹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_daeh_gan.md#不搭𠵹)】`beh7 daeh7 gan` <sup>[东台]</sup> 不交往、不理睬。  

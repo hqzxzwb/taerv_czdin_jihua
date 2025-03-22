@@ -1609,7 +1609,6 @@
 1. 【[濩/漷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huah.md#濩/漷)】`huah8` <small>/xuaʔ8/<sup>兴化</sup></small> ① 液体晃荡<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：水舀得太满，～～的。<sup>\[兴化\]</sup>｜一担水挑到家～掉一半。<sup>\[兴化\]</sup>｜你盛吖浅吖点ㄦ就不～咖。<sup>\[泰州\]</sup>｜一担水跳到家就捱他～掉一半。<sup>\[泰州\]</sup> ② 在水中摆动物体，借助水流冲击使物体漂洗干净<sup>\[泰州\]</sup>：衣裳汏得差不多唻，在河里～咖子就行吖唻。<sup>\[泰州\]</sup>｜萝卜刚刚洗过啊，在清水里～～就干净吖唻。<sup>\[泰州\]</sup>  
 1. 【[霍闪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huah_shin.md#霍闪)】`huah8 shin3` <sup>[泰县]</sup> 闪电：落雨天～。  
 1. 【[霍闪/曤晱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huah_shin.md#霍闪/曤晱)】`huah8 shin3` <sup>[泰州]</sup> 打闪，电光急速掠过天空。  
-1. 【[鬼画符](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huai_hua_fv.md#鬼画符)】`huai3 hua6 fv2` <sup>[泰州]</sup> 比喻写字潦草拙劣：他心不通吖这高头，就是写字也是～。  
 1. 【[慌慌快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_huan_kuae.md#慌慌快)】`huan1 huan1 kuae5` <sup>[东台]</sup> 办事着急慌忙，速度快，但比较毛糙，质量不高。  
 1. 【[慌里慌张](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_lii_huan_zhan.md#慌里慌张)】`huan1 lii huan1 zhan1` <sup>[东台]</sup> 忙乱，不除一般沉着。  
 1. 【[荒场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_chan.md#荒场)】`huan1 chan` <sup>[如皋]</sup> 无主坟场。乱坟场。  

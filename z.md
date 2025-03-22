@@ -609,7 +609,7 @@
 1. 【[涨价](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_jia.md#涨价)】`zhan3 jia5` ① 商品价格上升。<sup>\[如东\]</sup>：大米又涨吖价。<sup>\[如东\]</sup> ② 提高物价。<sup>\[东台\]</sup>  
 1. 【[涨水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_shuei.md#涨水)】`zhan3 shuei3` <small>/t͡sã3 suei3/<sup>如皋</sup></small> ① 除夕上满水缸。<sup>\[如皋\]</sup> ② 涨潮。<sup>\[如东\]</sup> ③ 春节期间喝炒米茶。喝了几口以后，再添一点儿茶，称涨水。寓意富贵不断上涨。<sup>\[如东\]</sup>：请～。<sup>\[如东\]</sup>  
 1. 【[涨蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_taen.md#涨蛋)】`zhan3 taen6` <sup>[如皋]</sup> 蛋漷好拌和作料后，下温油锅，盖锅盖小火焖熟，体积涨大，翻面再焵，成熟。  
-1. 【[长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan.md#长)】`zhan3` <small>/t͡saŋ3/<sup>兴化</sup>, /t͡sã3/<sup>如皋</sup>, /t͡sɑŋ3/<sup>泰兴</sup>, /t͡sɑŋ3/<sup>泰县</sup></small> ① 生长 ② 使（作物）生长，即种植、培植作物<sup>\[如东\]</sup>：田里～吖些黄豆｜佤今年子不曾～花生｜玉米怎吖～相？<sup>\[如东\]</sup>  
+1. 【[长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan.md#长)】`zhan3` <small>/t͡saŋ3/<sup>兴化</sup>, /t͡sã3/<sup>如皋</sup>, /t͡sɑŋ3/<sup>泰兴</sup>, /t͡sɑŋ3/<sup>泰县</sup></small> ① 生长 ② 使（作物）生长，即种植、培植作物：田里～吖些黄豆｜佤今年子不曾～花生｜玉米怎吖～相？  
 1. 【[长班](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_baen.md#长班)】`zhan3 baen1` <sup>[东台]</sup> 即长辈，辈分大的人。  
 1. 【[长房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_fan.md#长房)】`zhan3 fan2` <sup>[东台]</sup> 家族中长子的一支。  
 1. 【[长梗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_gen_r.md#长梗<sub>儿</sub>)】`zhan3 gen3 r` <small>/t͡sã3 kə˞3/<sup>如皋</sup></small> ① 萌发新枝条。<sup>\[如皋\]</sup> ② 抽薹。<sup>\[如皋\]</sup>  
