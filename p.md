@@ -262,8 +262,7 @@
 1. 【[勃兴勃跳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/peh_xien_peh_tio.md#勃兴勃跳)】`peh8 xien1 peh8 tio5` <sup>[东台]</sup> ① 见到友人很高兴的样子。 ② 因突然惊吓而心跳厉害。  
 1. 【[哱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/peh.md#哱)】`peh8` <sup>[东台]</sup> 忙乱：这点事，你就虚啊～掉啊，沉不住气啊？  
 1. 【[箅子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/peh_zz.md#箅子)】`peh8 zz` <sup>[如东]</sup> 用芦苇或秫秸编成的帘子。  
-1. 【[荸荠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/peh_ji.md#荸荠)】`peh8 ji1` ① （泰州音pih8）<sup>\[泰州\]</sup> ② 荸荠，多年生沼生草本植物，生长在水田中，地下茎块扁圆形，表面深褐色或紫红色，肉白，可以生食。<sup>\[泰州\]</sup>  
-1. 【[荸荠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/peh_qi.md#荸荠)】`peh8 qi` <sup>[如东]</sup> 莎草科水生植物荸荠，多年生草本。  
+1. 【[荸荠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/peh_ji.md#荸荠)】`peh8 ji1` 荸荠<sup>\[泰州\]</sup>\[如东：如东方言词典记录音 peh8 qi2，实际也多说 peh8 ji1。\]  
 1. 【[𡋯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/peh.md#𡋯)】`peh8` <small>/pʰəʔ8/<sup>兴化</sup>, /pʰəʔ8/<sup>如皋</sup></small> ① 清扫时由扫具弹起灰尘：他扫地的刻儿，笤帚头儿～咖～的，～得块块是塘灰。<sup>\[如皋\]</sup> ② 浮土、灰尘。《广韵·没韵》蒲没切“～，尘起”。<sup>\[兴化\]</sup> ③ 尘土微扬<sup>\[兴化\]</sup>：鸡寻食把地上的土～得块块是的。<sup>\[兴化\]</sup>  
 1. 【[𥹸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/peh.md#𥹸)】`peh8` <small>/pʰəʔ8/<sup>兴化</sup>, /pʰəʔ8/<sup>如皋</sup></small> ① 做糕点时洒的干面粉。<sup>\[如皋\]</sup> ② 擀面时撒的干粉。<sup>\[如东\]</sup>：用荞麦面做～，滑爽。<sup>\[如东\]</sup> ③ 做面食用的干面粉。<sup>\[东台\]</sup> ④ 做面食时防粘手用的干面粉。《广韵·没韵》蒲没切“～，面𥹸”。<sup>\[兴化\]</sup> ⑤ 将粉状物拂开<sup>\[兴化\]</sup>：把干面往旁边～～。<sup>\[兴化\]</sup> ⑥ （引）用力推脱<sup>\[兴化\]</sup>：他管的事太多，～不开身。<sup>\[兴化\]</sup> ⑦ 做面食时防粘手用的干面粉。可用小麦面、荞麦面。也有用米粉。<sup>\[泰州\]</sup>  
 1. 【[𥹸身子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/peh_shen_zz.md#𥹸身子)】`peh8 shen1 zz` <sup>[兴化]</sup> 为自己洗刷，推脱干系：听说厂里出咖事故，那位副厂长连忙出来～。也说“拂身子”。  
