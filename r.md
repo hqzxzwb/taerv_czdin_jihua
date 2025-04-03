@@ -309,7 +309,7 @@
 1. 【[任性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_xien.md#任性)】`ren6 xien5` <sup>[如东]</sup> 脾气固执：这个伢儿非常～，说咖半天都不行。  
 1. 【[认不得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_beh_deh.md#认不得)】`ren6 beh deh7` <sup>[兴化]</sup> 即不认识：你要找的人我～。｜“你既～我，怎么差人来勾我？”（《西游记》三）  
 1. 【[认不得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_beh_deh.md#认不得)】`ren6 beh7 deh7` <sup>[泰州]</sup> 不认识，不知道：小李调过来的时候你不在家，难怪你～。  
-1. 【[认得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_deh.md#认得)】`ren6 deh` ① 认识 ② 认识。<sup>\[如东\]</sup>：这个字我～。<sup>\[如东\]</sup>  
+1. 【[认得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_deh.md#认得)】`ren6 deh` <small>/lən6 təʔ/<sup>兴化</sup>, /ɻəŋ1 təʔ/<sup>如皋</sup>, /ɻəŋ1 təʔ/<sup>泰兴</sup>, /ɻəŋ1 təʔ/<sup>泰县</sup></small> 认识：这个字我～  
 1. 【[认得你狠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_deh_nii_hen.md#认得你狠)】`ren6 deh nii3 hen3` <sup>[东台]</sup> 被迫承认对方强过自己，勉强默认对方的不合理要求。  
 1. 【[认得个扁担大的一字](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_deh_gu_bin_daen_da_dii_ieh_cz.md#认得个扁担大的一字)】`ren6 deh7 gu bin3 daen5 da6 dii ieh7 cz` <sup>[如皋]</sup> 意为不识字。  
 1. 【[认得他（你）狠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_deh_ta_hen.md#认得他（你）狠)】`ren6 deh7 ta1 hen3` <sup>[如皋]</sup> 既表示退让，又表示要记住对方凶狠。  
