@@ -159,14 +159,12 @@
 1. 【[人到八十八，不知瘸和瞎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_do_baeh_sheh.md#人到八十八，不知瘸和瞎)】`ren2 do5 baeh7 sheh baeh7 beh7 zhr1 qya2 hu2 haeh7` <sup>[泰兴]</sup> 谓人年龄大了，身体变化状况难以预测。  
 1. 【[人到四十五，正是出山虎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_do_sz_sheh.md#人到四十五，正是出山虎)】`ren2 do5 sz5 sheh v3 zhen5 shr chueh7 shaen1 hv3` <sup>[泰兴]</sup> 谓人到了40多岁，年轻力壮，趋于成熟，正是大干事业的时候。  
 1. 【[人到葬将垛，𪎉子䜺<sub>儿</sub>总下锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_do_zan_jian.md#人到葬将垛，𪎉子䜺<sub>儿</sub>总下锅)】`ren2 do5 zan5 jian5 tu6 haen6 zz chae3 r zon3 xia6 gu1` <sup>[东台]</sup> 葬将垛在西溪，是隋朝抗倭英烈墓地，意思是饥肠辘辘的人回来急要吃饭，成为当地人的谚语。  
-1. 【[人多没好食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_du_meh_ho_sheh.md#人多没好食)】`ren2 du1 meh8 ho3 sheh8` <sup>[东台]</sup> 人多了，需求量大，就难以精心制作。  
 1. 【[人多抢食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_du_qian_sheh.md#人多抢食)】`ren2 du1 qian3 sheh8` <sup>[东台]</sup> 人一多，就有争着吃的兴致和吃不到的担心。  
 1. 【[人多嘴杂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_du_zuei_zaeh.md#人多嘴杂)】`ren2 du1 zuei3 zaeh7` <sup>[泰兴]</sup> 谈论的人多，各种议论都有。亦指在场的人多，七嘴八舌。  
 1. 【[人发炭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_faeh_taen.md#人发炭)】`ren2 faeh7 taen5` <sup>[如皋]</sup> 中药名，煅烧人发为炭。又称血余炭。  
 1. 【[人夫轿马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_fv_qio_ma.md#人夫轿马)】`ren2 fv qio6 ma3` <sup>[兴化]</sup> ① 旧宫员出行时的仪仗、仆从及各种交通工具。 ② 形容热闹、气派：今朝～的接她不走，过几天灰溜溜的往家跑。  
-1. 【[人家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_ga.md#人家)】`ren2 ga` <small>/ɻəŋ2 ka/<sup>如皋</sup></small> ① 别人、别人家；“我”的委婉称法 ② 所指随语境而变。<sup>\[如皋\]</sup> ③ 别人。<sup>\[如皋\]</sup> ④ 别人家。<sup>\[如皋\]</sup> ⑤ 出嫁女称母家。<sup>\[如皋\]</sup> ⑥ 有时为自称。<sup>\[如皋\]</sup> ⑦ 家庭。<sup>\[如东\]</sup>：这许住啊3户～。<sup>\[如东\]</sup> ⑧ 别人。<sup>\[如东\]</sup>：那个是～的事。<sup>\[如东\]</sup>  
+1. 【[人家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_ga.md#人家)】`ren2 ga` <small>/ɻəŋ2 ka/<sup>如皋</sup></small> ① 别人、别人家；“我”的委婉称法 ② 别人。<sup>\[如皋\]</sup> ③ 别人家。<sup>\[如皋\]</sup> ④ 出嫁女称母家。<sup>\[如皋\]</sup> ⑤ 有时为自称。<sup>\[如皋\]</sup> ⑥ 家庭。<sup>\[如东\]</sup>：这许住啊3户～。<sup>\[如东\]</sup> ⑦ 别人。<sup>\[如东\]</sup>：那个是～的事。<sup>\[如东\]</sup>  
 1. 【[人家家里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_ga_ga_lii.md#人家家里)】`ren2 ga ga1 lii` <sup>[如皋]</sup> 别人的家里。  
-1. 【[人家把尿他喝，他连屎都吃掉啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_ga_ba_xy_ta_huh_ta_lin_shr_du_qieh_tio_a.md#人家把尿他喝，他连屎都吃掉啊)】`ren2 ga1 ba3 xy1 ta1 huh7 ta1 lin2 shr3 du1 qieh7 tio a` <sup>[东台]</sup> 形容某人受骗上当太多。  
 1. 【[人高马大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_go_ma_da.md#人高马大)】`ren2 go1 ma3 da6` <small>/lən2 kɔ1 ma3 ta6/<sup>兴化</sup></small> 形容人身材高大<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：前面走过来几个～的汉子。<sup>\[兴化\]</sup>｜这小伙长得人高马大，穿西装蛮派头的。<sup>\[泰州\]</sup>  
 1. 【[人过八十八，不知瘸和瞎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_gu_baeh_sheh_baeh_beh_zhr_qya_hu_haeh.md#人过八十八，不知瘸和瞎)】`ren2 gu5 baeh7 sheh8 baeh7 beh7 zhr1 qya2 hu2 haeh7` <sup>[东台]</sup> 人老了说不定有什么病，要理解关心老人。  
 1. 【[人过留名，雁过留声](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_gu_lieu_mien_ngaen_gu_lieu_shen.md#人过留名，雁过留声)】`ren2 gu5 lieu2 mien2 ngaen6 gu5 lieu2 shen1` <sup>[东台]</sup> 人生在世不能虚度年华，总要留下业绩。  
@@ -309,11 +307,11 @@
 1. 【[任性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_xien.md#任性)】`ren6 xien5` <sup>[如东]</sup> 脾气固执：这个伢儿非常～，说咖半天都不行。  
 1. 【[认不得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_beh_deh.md#认不得)】`ren6 beh deh7` <sup>[兴化]</sup> 即不认识：你要找的人我～。｜“你既～我，怎么差人来勾我？”（《西游记》三）  
 1. 【[认不得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_beh_deh.md#认不得)】`ren6 beh7 deh7` <sup>[泰州]</sup> 不认识，不知道：小李调过来的时候你不在家，难怪你～。  
-1. 【[认得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_deh.md#认得)】`ren6 deh` <small>/lən6 təʔ/<sup>兴化</sup>, /ɻəŋ1 təʔ/<sup>如皋</sup>, /ɻəŋ1 təʔ/<sup>泰兴</sup>, /ɻəŋ1 təʔ/<sup>泰县</sup></small> 认识：这个字我～  
+1. 【[认得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_deh.md#认得)】`ren6 deh` <small>/lən6 təʔ/<sup>兴化</sup>, /ɻəŋ1 təʔ/<sup>如皋</sup>, /ɻəŋ1 təʔ/<sup>泰兴</sup>, /ɻəŋ1 təʔ/<sup>泰县</sup></small> 认识：这个字我～｜他～我，我认不得他  
 1. 【[认得你狠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_deh_nii_hen.md#认得你狠)】`ren6 deh nii3 hen3` <sup>[东台]</sup> 被迫承认对方强过自己，勉强默认对方的不合理要求。  
 1. 【[认得个扁担大的一字](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_deh_gu_bin_daen_da_dii_ieh_cz.md#认得个扁担大的一字)】`ren6 deh7 gu bin3 daen5 da6 dii ieh7 cz` <sup>[如皋]</sup> 意为不识字。  
 1. 【[认得他（你）狠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_deh_ta_hen.md#认得他（你）狠)】`ren6 deh7 ta1 hen3` <sup>[如皋]</sup> 既表示退让，又表示要记住对方凶狠。  
-1. 【[认斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_deu.md#认斗)】`ren6 deu5` <sup>[如皋]</sup> 站出来接受不点名的挑战：一个老鸦十八扠，哪个～就是他！我家杲子少掉啊我就骂，我不曾说是你偷的，你何必～！  
+1. 【[认斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_deu.md#认斗)】`ren6 deu5` <sup>[如皋]</sup> 站出来接受不点名的挑战：一个老鸦十八扠，哪个～就是他！｜我家杲子少掉啊我就骂，我不曾说是你偷的，你何必～！  
 1. 【[认赌服输](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_dv_foh_shv.md#认赌服输)】`ren6 dv3 foh8 shv1` <sup>[如东]</sup> 承认失败：我～。  
 1. 【[认贩头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_faen_teu.md#认贩头)】`ren6 faen5 teu` <sup>[兴化]</sup> 经过对质，被迫承认搬舌丑行：他捱几个人证住，只好出来～。  
 1. 【[认范](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_faen.md#认范)】`ren6 faen6` <sup>[如皋]</sup> 被迫承认苛刻的条件。  
