@@ -802,24 +802,23 @@
 1. 【[一箭上马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_jin_shan_ma.md#一箭上马)】`ieh7 jin5 shan6 ma3` <sup>[兴化]</sup> （喻）事情一说就成或说干就干：姨丈替他找事，～，头天才谈，第二天就上班。｜他昨儿才接到通加，今儿～就到任去啊。  
 1. 【[一嘴长刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_jy_zhan_do.md#一嘴长刀)】`ieh7 jy3 zhan3 do1` <sup>[东台]</sup> 形容回嘴很绝、很厉害。  
 1. 【[一具家伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_jy_jia_hu.md#一具家伙)】`ieh7 jy5 jia1 hu3` <sup>[如东]</sup> 扁担加箩筐或泥络子，称一具家伙。  
-1. 【[一句话把人说咖笑起来，一句话把人说咖跳起来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_jy_hua_ba_ren_shuh_ga_xio_qi_lae_ieh_jy_hua_ba_ren_shuh_ga_tio_qi_lae.md#一句话把人说咖笑起来，一句话把人说咖跳起来)】`ieh7 jy5 hua6 ba3 ren2 shuh7 ga xio5 qi3 lae2 ieh7 jy5 hua6 ba3 ren2 shuh7 ga tio5 qi3 lae2` <sup>[东台]</sup> 说话艺术不同，效果就不同。  
-1. 【[一句话分板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_jy_hua_fen_baen.md#一句话分板)】`ieh7 jy5 hua6 fen1 baen3` <sup>[如皋]</sup> ① 关键性的一句话，以此决定取舍。 ② 表做事干脆。  
+1. 【[一句话把人说咖笑起来，一句话把人说咖跳起来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_jy_hua_ba.md#一句话把人说咖笑起来，一句话把人说咖跳起来)】`ieh7 jy5 hua6 ba3 ren2 shuh7 ga xio5 qi3 lae2 ieh7 jy5 hua6 ba3 ren2 shuh7 ga tio5 qi3 lae2` <sup>[东台]</sup> 说话艺术不同，效果就不同。  
 1. 【[一壳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_kah.md#一壳)】`ieh7 kah7` 一只壳的厚度<sup>\[泰州\]</sup>：他得咖一场大病，人瘦掉啊～。<sup>\[泰州\]</sup>  
 1. 【[一刻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_keh_r.md#一刻<sub>儿</sub>)】`ieh7 keh r` <small>/iəʔ7 kʰə˞/<sup>如皋</sup></small> 一会儿。<sup>\[如皋\]</sup><sup>\[如东\]</sup>：过～就来。<sup>\[如东\]</sup>  
 1. 【[一刻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_keh_r.md#一刻<sub>儿</sub>)】`ieh7 keh7 r` 一会儿。<sup>\[东台\]</sup><sup>\[泰州\]</sup>：你稍等～，他马上就到。<sup>\[泰州\]</sup>  
-1. 【[一客不烦二主](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_keh_beh_faen_er_zhv.md#一客不烦二主)】`ieh7 keh7 beh7 faen2 er6 zhv3` <sup>[兴化]</sup> ① 一位或一批客人不用两家接待：～，他就在我家，你俫不必烦吖。 ② （引）同一件事不必启动更多人：好，索性～，还是请老兄辛苦一趟吧！  
-1. 【[一口沽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_keu_gv.md#一口沽)】`ieh7 keu3 gv1` <small>/iəʔ7 kʰei3 ku1/<sup>如皋</sup></small> ① 一口饮下。<sup>\[如皋\]</sup> ② 见“喝莽酒”。<sup>\[如皋\]</sup>  
-1. 【[一口咬啊个三角菱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_keu_ngo_a_gu_saen_gah_lien.md#一口咬啊个三角菱)】`ieh7 keu3 ngo3 a gu saen1 gah7 lien2` <sup>[如皋]</sup> 喻处境尴尬，难以应付：他夹咖在当中，一边是娘，一边是老婆，～，难吖！  
-1. 【[一口咬啊个疼指头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_keu_ngo_a_gu_ten_zheh_teu.md#一口咬啊个疼指头)】`ieh7 keu3 ngo3 a gu5 ten2 zheh7 teu` <sup>[如皋]</sup> 喻说话刺痛对方的关键处。又作“一口咬啊个疼疖子”。  
-1. 【[一口咬个饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_keu_ngo_gu_bien.md#一口咬个饼)】`ieh7 keu3 ngo3 gu bien3` <sup>[兴化]</sup> （喻）一次完成：这吖多的钱，要～，我拿不出！｜“……我也不想～，只要把80万利息解决了就行……”（刘春龙《无意插柳》）  
-1. 【[一口咬个疼指头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_keu_ngo_gu_ten_zheh_teu.md#一口咬个疼指头)】`ieh7 keu3 ngo3 gu ten2 zheh7 teu` <sup>[东台]</sup> 与“捏住鼻子不则声”近义。  
+1. 【[一客不烦二主](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_keh_beh_faen.md#一客不烦二主)】`ieh7 keh7 beh7 faen2 er6 zhv3` <sup>[兴化]</sup> ① 一位或一批客人不用两家接待：～，他就在我家，你俫不必烦吖。 ② （引）同一件事不必启动更多人：好，索性～，还是请老兄辛苦一趟吧！  
+1. 【[一口沽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_keu_gv.md#一口沽)】`ieh7 keu3 gv1` <small>/iəʔ7 kʰei3 ku1/<sup>如皋</sup></small> 一口饮下。\[如皋：参见“喝莽酒”。\]  
+1. 【[一口咬啊个三角菱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_keu_ngo_a.md#一口咬啊个三角菱)】`ieh7 keu3 ngo3 a gu9 saen1 gah7 lien2` <sup>[如皋]</sup> 喻处境尴尬，难以应付：他夹咖在当中，一边是娘，一边是老婆，～，难吖！  
+1. 【[一口咬啊个疼指头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_keu_ngo_a.md#一口咬啊个疼指头)】`ieh7 keu3 ngo3 a gu9 ten2 zheh7 teu` <sup>[如皋]</sup> 喻说话刺痛对方的关键处。又作“一口咬啊个疼疖子”。  
+1. 【[一口咬个饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_keu_ngo_gu.md#一口咬个饼)】`ieh7 keu3 ngo3 gu bien3` <sup>[兴化]</sup> （喻）一次完成：这吖多的钱，要～，我拿不出！｜“……我也不想～，只要把80万利息解决了就行……”（刘春龙《无意插柳》）  
+1. 【[一口咬个疼指头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_keu_ngo_gu.md#一口咬个疼指头)】`ieh7 keu3 ngo3 gu ten2 zheh7 teu` <sup>[东台]</sup> 与“捏住鼻子不则声”近义。  
 1. 【[一口咬个三角菱，难说难讲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_keu_ngo_gu.md#一口咬个三角菱，难说难讲)】`ieh7 keu3 ngo3 gu5 saen1 gah lien2 naen2 shuh7 naen2 gan3` <sup>[泰兴]</sup> 指遇到十分为难的事情，进退维谷，难以表述。  
 1. 【[一口<sub>儿</sub>饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_keu_r_faen.md#一口<sub>儿</sub>饭)】`ieh7 keu3 r faen6` 一口饭，比喻很少的饭：他就吃～。/他只吃一点点饭。  
-1. 【[一口吞棒冰——凉透啊心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_keu_ten_pan_bien_lian_teu_a_xien.md#一口吞棒冰——凉透啊心)】`ieh7 keu3 ten1 pan6 bien1 lian2 teu5 a xien1` <sup>[东台]</sup>   
+1. 【[一口吞棒冰——凉透啊心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_keu_ten_pan.md#一口吞棒冰——凉透啊心)】`ieh7 keu3 ten1 pan6 bien1 lian2 teu5 a xien1` <sup>[东台]</sup>   
 1. 【[一口头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_keu_teu.md#一口头)】`ieh7 keu3 teu2` <sup>[泰州]</sup> 强调一口：他把半斤酒～喝咖去啊。  
 1. 【[一敲一答](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_ko_ieh_daeh.md#一敲一答)】`ieh7 ko1 ieh7 daeh7` ① 一唱一和，相互配合。（贬）<sup>\[东台\]</sup> ② 二人配合起来一问一答，指桑骂槐攻击他人或者影射他事<sup>\[泰州\]</sup>：早上一上班，老周同小王这两个家伙就在办公室里～，有一句、没一句的，把主任听吖气啊跑外来啊。<sup>\[泰州\]</sup>  
-1. 【[一共](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_kon.md#一共)】`ieh7 kon6` <small>/iəʔ7 kʰɔŋ1/<sup>如皋</sup></small> ① 总共<sup>\[如皋\]</sup> ② 除指合计外，东台人常指一直<sup>\[东台\]</sup>：这几天他～不曾来。<sup>\[东台\]</sup>  
-1. 【[一共总<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_kon_zon_r.md#一共总<sub>儿</sub>)】`ieh7 kon6 zon3 r` <sup>[如皋]</sup> 总计。  
+1. 【[一共](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_kon.md#一共)】`ieh7 kon6` <small>/iəʔ7 kɔŋ5/<sup>如皋</sup></small> ① 总共<sup>\[如皋\]</sup> ② 除指合计外，东台人常指一直<sup>\[东台\]</sup>：这几天他～不曾来。<sup>\[东台\]</sup>  
+1. 【[一共总<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_kon_zon_r.md#一共总<sub>儿</sub>)】`ieh7 kon6-gon5 zon3 r` <sup>[如皋]</sup> 总计。  
 1. 【[一块馒头搭块糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_kuae_mun_teu_daeh_kuae_go.md#一块馒头搭块糕)】`ieh7 kuae5 mun2 teu daeh7 kuae5 go1` <sup>[东台]</sup> ［喻］合作伙伴性格、能力诸方面好差搭配或优势互补。  
 1. 【[一块石头落咖地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_kuae_sheh_teu_lah_ga_ti.md#一块石头落咖地)】`ieh7 kuae5 sheh8 teu lah8 ga ti6` <sup>[东台]</sup> ［喻］大局已定，心里踏实，可以放心的意思。  
 1. 【[一𱖞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_kuan.md#一𱖞)】`ieh7 kuan1` <sup>[如东]</sup> 地积单位。长2.5里，宽2.5里，合6.25平方里，为一𱖞。  
@@ -952,6 +951,7 @@
 1. 【[一巧干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_qio_gun.md#一巧干)】`ieh7 qio3 gun1` <sup>[如皋]</sup> 一次性晒干。  
 1. 【[一俏干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_qio_gun.md#一俏干)】`ieh7 qio5 gun1` <sup>[兴化]</sup> 刚洗的衣服或才打下的粮食等，在一个晴天里晒干：冬天洗衣裳最好赶太阳～。  
 1. 【[一绝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_qiuh.md#一绝)】`ieh7 qiuh8` <sup>[泰县]</sup> 好到极点：他画的画儿～。  
+1. 【[一句话分板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_qy_hua_fen.md#一句话分板)】`ieh7 qy hua6 fen1 baen3` <sup>[如皋]</sup> ① 关键性的一句话，以此决定取舍。 ② 表做事干脆。  
 1. 【[一瘸一跛的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_qya_ieh_bu_dii.md#一瘸一跛的)】`ieh7 qya2 ieh7 bu3 dii` <sup>[如皋]</sup> 见“瘸啊瘸的”。  
 1. 【[一瘸一拐的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_qya_ieh_guae_dii.md#一瘸一拐的)】`ieh7 qya2 ieh7 guae3 dii` <sup>[如皋]</sup> 见“瘸啊瘸的”。  
 1. 【[一人巷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_ren_han.md#一人巷)】`ieh7 ren han6` <sup>[泰兴]</sup> 只能容一人通过的小巷道。形容狭窄的小巷道。  

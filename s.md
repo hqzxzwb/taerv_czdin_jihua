@@ -517,6 +517,7 @@
 1. 【[蛇床子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_chuan_zz.md#蛇床子)】`sha2 chuan2 zz` <sup>[如东]</sup> 伞科植物蛇床，一年生草本。高约80厘米。茎直立，有纵棱。根生叶卵形，3回羽状分裂，裂片线状披针形。复伞形花序顶生或腋生。花白色。双悬果椭圆形。果实入中药。生长在草丛或田间、路旁。  
 1. 【[蛇𠞖屁眼没手抓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_gon_pi_ngaen_meh_sheu_zhua.md#蛇𠞖屁眼没手抓)】`sha2 gon1 pi5 ngaen3 meh8 sheu3 zhua1` <sup>[东台]</sup> 形容忙得不可开交。  
 1. 【[蛇化子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_hua_zz.md#蛇化子)】`sha2 hua5 zz` <sup>[如皋]</sup> 旧时捕蛇、耍蛇的乞丐。  
+1. 【[蛇交](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_jio.md#蛇交)】`sha2 jio1` <small>/sɑ2 t͡ɕiɔ1/<sup>泰兴</sup></small> 蛇的交配行为<sup>\[泰兴\]</sup>  
 1. 【[蛇壳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_kah.md#蛇壳)】`sha2 kah7` <sup>[如皋]</sup> 蛇在生长过程中蜕的皮壳。  
 1. 【[蛇莓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_mei.md#蛇莓)】`sha2 mei2` <sup>[如东]</sup> 蔷薇科植物蛇莓，多年生草本。根茎粗壮，有多数长而细的匍匐枝。掌状复叶具长柄。小叶通常3枚，倒卵形，边级具钝锯齿。花单生于叶腋，黄色。花托球形或长椭圆形，鲜红色，覆以无数红色的小瘦果。生长在道旁及杂草中。  
 1. 【[蛇葡萄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_pv_to.md#蛇葡萄)】`sha2 pv2 to2` <sup>[如皋]</sup> 蛇莓。  
@@ -796,7 +797,7 @@
 1. 【[上等荒草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_den_huan_co.md#上等荒草)】`shan6 den3 huan1 co3` <sup>[如皋]</sup> 田禾秸称荒草，旧时做燃料。其质优者称～。如：黄豆、棉花、小麦的秸。见“行草”“沟岸草”。  
 1. 【[上吊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_dio.md#上吊)】`shan6 dio5` <sup>[如东]</sup> 将绳索系在高处，另一端勒紧咽喉而自杀。  
 1. 【[上吊搽粉——死要脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_dio_cha_fen_sz_io_lin.md#上吊搽粉——死要脸)】`shan6 dio5 cha2 fen3 sz3 io5 lin3` <sup>[如皋]</sup> 死要面子。  
-1. 【[上冻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_don.md#上冻)】`shan6 don5` <small>/sã1 tɔŋ5/<sup>如皋</sup></small> 结冰<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰州\]</sup>\[如皋：或开始结冰。\]：河里～唻，船没得办法撑唻。<sup>\[泰州\]</sup>  
+1. 【[上冻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_don.md#上冻)】`shan6 don5` <small>/sã1 tɔŋ5/<sup>如皋</sup>, /sɑŋ1 tɔŋ5/<sup>泰兴</sup></small> 结冰<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>\[如皋：或开始结冰。\]：河里～唻，船没得办法撑唻。<sup>\[泰州\]</sup>｜河里上吖冻<sup>\[泰兴\]</sup>  
 1. 【[上饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_faen.md#上饭)】`shan6 faen6` <small>/saŋ6 fɛ̃6/<sup>兴化</sup></small> ① 祭祀时，给亡人供饭的仪注。<sup>\[兴化\]</sup> ② 筵席上酒后进主食。<sup>\[兴化\]</sup> ③ 筵席程序之一，酒喝结束以后，送上米饭<sup>\[泰州\]</sup>：就喝得差不多唻，你～吧。<sup>\[泰州\]</sup>  
 1. 【[上坟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_fen.md#上坟)】`shan6 fen2` <small>/sɑŋ1 fəŋ2/<sup>泰兴</sup></small> ① 墓祭。春节清明、七月半、十月朝，后代或家人到坟地上去供菜灼纸，举行祭祀活动。<sup>\[如东\]</sup> ② 扫墓<sup>\[东台\]</sup>：清明回乡～。<sup>\[东台\]</sup> ③ 到坟前奠祭死者。<sup>\[泰兴\]</sup>：清明时节，家家祭祖～。<sup>\[泰兴\]</sup> ④ 扫墓。每年清明前后，去亲人的坟前除草、添土，摆放食物（米饭，红烧鱼，百叶烧肉，豆腐青菜之类），化纸祭祀。<sup>\[泰州\]</sup>  
 1. 【[上风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_fon.md#上风)】`shan6 fon1` <small>/sɑŋ1 fɔŋ1/<sup>泰兴</sup></small> 风刮过来的方向。比喻优势或有利的地位。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>：张明华的渔船在～航行。<sup>\[如东\]</sup>｜覅望他现在占吖上风，早晏点是要吃亏的。<sup>\[泰兴\]</sup>  

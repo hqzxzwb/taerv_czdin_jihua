@@ -1481,7 +1481,7 @@
 1. 【[叫人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_ren.md#叫人)】`jio5 ren2` <small>/t͡ɕiɔ5 ɻəŋ2/<sup>如皋</sup></small> ① 称呼人，一般指对长辈或同辈的称呼。<sup>\[如东\]</sup>：你到啊外婆家要～。<sup>\[如东\]</sup> ② 呼唤人。<sup>\[如东\]</sup>：你去～过来开会。<sup>\[如东\]</sup> ③ 一种民间风俗。结婚后，第二天早晨，新娘参见丈夫的长辈，由丈夫领头叫唤长辈的称谓，新娘跟着叫唤；下午，新娘带着新郎回娘家，参见妻子的长辈，由新娘领头叫唤长辈的称谓，新郎跟着叫唤；这种程序称叫人。被叫唤的长辈，要给喜钱。<sup>\[如东\]</sup> ④ 与人见面时先行称呼，以示尊重。<sup>\[如皋\]</sup> ⑤ 主动和人打招呼。<sup>\[东台\]</sup> ⑥ 晚辈看见长辈以后主动向长辈招呼以示尊敬<sup>\[泰州\]</sup>：这个伢儿望见大人都不晓得～。<sup>\[泰州\]</sup>  
 1. 【[叫天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_tin.md#叫天)】`jio5 tin1` <sup>[如皋]</sup> 母牛发情。  
 1. 【[叫响批](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_xian_pi.md#叫响批)】`jio5 xian3 pi1` <sup>[如东]</sup> 大声地叫喊。  
-1. 【[叫争](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_zhen.md#叫争)】`jio5 zhen1` <small>/t͡ɕiɔ5 t͡səŋ1/<sup>如皋</sup></small> ① 雌性牲畜发情而雄性牲畜相互争斗叫唤。也称叫春。<sup>\[如东\]</sup> ② 猫交配的过程，事前对叫，事后追逐。<sup>\[如皋\]</sup>  
+1. 【[叫争](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_zhen.md#叫争)】`jio5 zhen1` <small>/t͡ɕiɔ5 t͡səŋ1/<sup>如皋</sup>, /t͡ɕiɔ5 t͡səŋ1/<sup>泰兴</sup></small> ① 雌性牲畜发情而雄性牲畜相互争斗叫唤。也称叫春。<sup>\[如东\]</sup> ② 猫交配的过程，事前对叫，事后追逐。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
 1. 【[叫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_zz.md#叫子)】`jio5 zz` <small>/t͡ɕiɔ5 t͡sɿ/<sup>兴化</sup></small> ① 哨儿。又称“叫叫子”“叫鸡子”。<sup>\[兴化\]</sup> ② 哨子，用竹子、金属等制成的能吹出声响的器物。<sup>\[泰州\]</sup>  
 1. 【[嘦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio.md#嘦)】`jio5` <sup>[兴化]</sup> 方言俗字，这要、只要：这个也不行，那个也不好，～怎吖弄？  
 1. 【[教把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_ba.md#教把)】`jio5 ba3` <sup>[兴化]</sup> 指经济状况拮据的人：他是个～，恐怕又是来打秋丰的。  

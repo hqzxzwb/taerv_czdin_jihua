@@ -92,7 +92,7 @@
 1. 【[起阵阵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_chen_chen.md#起阵阵)】`qi3 chen6 chen6` <sup>[如皋]</sup> 见“起天色”。  
 1. 【[起阵头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_chen_teu.md#起阵头)】`qi3 chen6 teu` <small>/t͡ɕʰʝ3 t͡sʰəŋ1 tʰei/<sup>如皋</sup></small> ① 见“起天色”。<sup>\[如皋\]</sup> ② 天气闷热，乌云骤起，雷暴雨即将来临的状况。<sup>\[如东\]</sup>  
 1. 【[起初](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_chv.md#起初)】`qi3 chv1` <small>/t͡ɕʰʝ3 t͡sʰu1/<sup>如皋</sup></small> ① 开始之时。<sup>\[如皋\]</sup> ② 开始。<sup>\[如东\]</sup>  
-1. 【[起草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_co.md#起草)】`qi3 co3` <small>/t͡ɕʰi3 t͡sʰɔ3/<sup>兴化</sup>, /t͡sʰɿ3 t͡sʰɔ3/<sup>泰县</sup></small> ① 狗交配<sup>\[兴化\]</sup>：狗子～。‖也说“爬窠”」“跳窠”。<sup>\[兴化\]</sup> ② 狗交配。<sup>\[泰县\]</sup>  
+1. 【[起草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_co.md#起草)】`qi3 co3` <small>/t͡ɕʰi3 t͡sʰɔ3/<sup>兴化</sup>, /t͡ɕʰʝ3 t͡sʰɔ3/<sup>泰兴</sup>, /t͡sʰɿ3 t͡sʰɔ3/<sup>泰县</sup></small> 狗交配<sup>\[泰县\]</sup><sup>\[泰兴\]</sup>\[兴化：也说“爬窠”、“跳窠”。\]：狗子～。<sup>\[兴化\]</sup>  
 1. 【[起草狗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_co_geu_zz.md#起草狗子)】`qi3 co3 geu3 zz` <sup>[泰县]</sup> 惹是生非的人。  
 1. 【[起脆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_cuei.md#起脆)】`qi3 cuei5` <sup>[兴化]</sup> 形容食物硬而易碎：质量好的海蜇、俺瓜、萝卜干～。  
 1. 【[起底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_di.md#起底)】`qi3 di3` <sup>[如皋]</sup> ① 最后一批（货）。 ② 质差、价低兜底算。  

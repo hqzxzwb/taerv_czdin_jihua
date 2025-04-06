@@ -434,7 +434,7 @@
 1. 【[放假](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_jia.md#放假)】`fan5 jia3` <sup>[如东]</sup> 在规定的日期停止学习或工作。  
 1. 【[放卡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_ka.md#放卡)】`fan5 ka3` <sup>[如东]</sup> 一种捕鱼的方式。把竹丝弯成钩，套在一个小管内，里面装着饵料，放在河塘里，鱼吞食时，即将鱼嘴卡住，这种方式叫做放卡。  
 1. 【[放空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_kon.md#放空)】`fan5 kon1` <sup>[东台]</sup> ① 空车行驶。 ② 指无人管理的状态。  
-1. 【[放窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_ku.md#放窠)】`fan5 ku1` <sup>[如东]</sup> 牲畜交配，叫做放窠。  
+1. 【[放窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_ku.md#放窠)】`fan5 ku1` <small>/fɑŋ5 kʰɤɯ1/<sup>泰兴</sup></small> 牲畜交配。或畜养者安排牲畜交配。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
 1. 【[放赖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_lae.md#放赖)】`fan5 lae6` <small>/faŋ5 lɛ6/<sup>兴化</sup>, /fã5 lɛ1/<sup>如皋</sup></small> ① 死不认账。<sup>\[如东\]</sup>：王二又在下～。<sup>\[如东\]</sup> ② 刁钻耍赖。<sup>\[如皋\]</sup> ③ 使用放讹、撒泼、装病等蛮不讲理的手段闹事。<sup>\[东台\]</sup> ④ 耍弄无赖手段<sup>\[兴化\]</sup>：人家上门要债，他就～。<sup>\[兴化\]</sup> ⑤ 撒娇<sup>\[兴化\]</sup>：他倒啊爹爹怀里～，要钱上肯德基。<sup>\[兴化\]</sup>  
 1. 【[放冷空气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_len_kon_qi.md#放冷空气)】`fan5 len3 kon1 qi5` <sup>[兴化]</sup> （喻）散布泄气话：全厂个个加油苦做，他反而在旁边～。  
 1. 【[放莽的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_man_dii.md#放莽的)】`fan5 man3 dii` <sup>[兴化]</sup> 正在发生或正在进行的：外头～落雨噁，覅忙出去。｜快跑，会场上～的点名！  

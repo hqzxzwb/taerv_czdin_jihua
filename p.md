@@ -46,6 +46,7 @@
 1. 【[爬藤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_ten.md#爬藤)】`pa2 ten2` <small>/pʰa2 tʰəŋ2/<sup>如皋</sup></small> ① 藤蔓生长铺展。<sup>\[如皋\]</sup> ② 藤蔓生长铺展。<sup>\[如东\]</sup>  
 1. 【[牌头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_teu.md#牌头)】`pa2 teu` <sup>[如皋]</sup> 指后台，靠山。源于吴语。  
 1. 【[筢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa.md#筢)】`pa2` 筢取，rake，使物体聚拢，通常写作“耙，扒”  
+1. 【[筢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa.md#筢)】`pa2` <small>/pʰɑ2/<sup>泰兴</sup></small> 使物体聚拢，俗作“扒”。<sup>\[泰兴\]</sup>：～饭。<sup>\[泰兴\]</sup>｜吃饭三～两咽。<sup>\[泰兴\]</sup>  
 1. 【[筢灰/扒灰/爬灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_huei.md#筢灰/扒灰/爬灰)】`pa2 huei1` 公公和儿媳乱伦的行为。<sup>\[泰州\]</sup>  
 1. 【[耙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa.md#耙)】`pa2` <small>/pʰa2/<sup>如皋</sup></small> ① 牛拉碎土器。矩形木架下有双排铁齿。<sup>\[如皋\]</sup> ② 用耙碎土<sup>\[如皋\]</sup>：～田。<sup>\[如皋\]</sup> ③ 比喻打击报复<sup>\[如皋\]</sup>：耕，耕不到，～也要～到。<sup>\[如皋\]</sup> ④ 农具。木制，长方形，长4尺，宽2尺5寸，下面有18个齿。用来碎土或平地。<sup>\[如东\]</sup> ⑤ 齿耙，一种手工农具。<sup>\[东台\]</sup>  
 1. 【[耙耳头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_er_teu.md#耙耳头)】`pa2 er3 teu` <sup>[兴化]</sup> 掏耳朵。  

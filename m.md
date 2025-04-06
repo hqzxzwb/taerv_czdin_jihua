@@ -1537,7 +1537,7 @@
 1. 【[木木鱼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_moh_y_r.md#木木鱼<sub>儿</sub>)】`moh8 moh8 y2 r` <sup>[泰州]</sup> “木鱼”的生动形式，佛教法器，相传佛家以为鱼昼夜不合目，故刻木像鱼形，用以警戒僧众应昼夜忘寐而思道。诵经礼佛之时扣之以调音节。  
 1. 【[木模](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_mu.md#木模)】`moh8 mu2` <sup>[如东]</sup> 用木板制作的模壳。  
 1. 【[木模工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_mu_gon.md#木模工)】`moh8 mu2 gon1` <sup>[如东]</sup> 从事木模装配操作的工人。  
-1. 【[木簰/木排](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_pae.md#木簰/木排)】`moh8 pae2` <sup>[泰州]</sup> 用粗木排好捆扎成的水上运载工具。  
+1. 【[木排/木簰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_pae.md#木排/木簰)】`moh8 pae2` <sup>[泰州]</sup> 用粗木排好捆扎成的水上运载工具。  
 1. 【[木盆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_pen.md#木盆)】`moh8 pen2` <sup>[如东]</sup> 盆的一种，以木头为原料制成的盆子。  
 1. 【[木匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_qian.md#木匠)】`moh8 qian` 木匠  
 1. 【[木匠的徒弟，背家伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_qian_dii_tv.md#木匠的徒弟，背家伙)】`moh8 qian dii tv2 ti bei1 ga1 hu` <small>/mɔʔ8 t͡ɕʰiɑŋ təɪ tʰu2 t͡ɕʰʝ pəɪ1 kɑ1 xɤɯ/<sup>泰兴</sup></small> 歇后语。木匠外出作业，所有的工具均由徒弟荷背，借喻为吃苦头、担负责任。<sup>\[泰兴\]</sup>  

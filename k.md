@@ -308,8 +308,8 @@
 1. 【[䞘肌头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_ji_teu_zz.md#䞘肌头子)】`keh8 ji1 teu2 zz` <sup>[兴化]</sup> 膝盖：～碰疼吖。  
 1. 【[剋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh.md#剋)】`keh8` <sup>[如皋]</sup> ① 刁难：他专门～人！ ② 挤轧：鞋子～脚。 ③ 隔开。 ④ 剔除。  
 1. 【[纥巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_ba.md#纥巴)】`keh8 ba` <sup>[兴化]</sup> 琐碎、缠手、耗费工夫：覅看这点小活计，做起来还～人子唻。  
-1. 【[纥繨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_daeh.md#纥繨)】`keh8 daeh` <sup>[兴化]</sup> 日常生活中的小磨擦：妯娌两个常常为伢儿～。生动形式为“纥纥繨繨”“纥里纥繨”。  
-1. 【[纥繨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_daeh.md#纥繨)】`keh8 daeh7` <sup>[东台]</sup> ① 事情进展得不顺利； ② 因矛盾纠缠在一起：他俫这几个人，到啊一起就～。  
+1. 【[纥繨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_daeh.md#纥繨)】`keh8 daeh` <sup>[兴化]</sup> 日常生活中的小磨擦。生动形式为“纥纥繨繨”“纥里纥繨”：妯娌两个常常为伢儿～  
+1. 【[纥繨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_daeh.md#纥繨)】`keh8 daeh7` <sup>[东台]</sup> ① 事情进展得不顺利 ② 因矛盾纠缠在一起：他俫这几个人，到啊一起就～。  
 1. 【[纥里纥繨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_lii_keh_daeh.md#纥里纥繨)】`keh8 lii keh8 daeh7` <sup>[东台]</sup> 矛盾错综复杂：想当初，改革～的，费多少心血啊！  
 1. 【[胳肢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_zhr.md#胳肢)】`keh8 zhr` <sup>[东台]</sup> 开玩笑，在别人身上抓挠，使其发痒。  
 1. 【[趷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh.md#趷)】`keh8` <sup>[泰州]</sup> 单脚跳：一只脚烫吖伤吖，只好用另一只脚～咖到门口去开门。  
@@ -594,7 +594,7 @@
 1. 【[共拢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_lon.md#共拢)】`kon6 lon3` <sup>[泰县]</sup> 共计：我～就剩吖这几个钱。  
 1. 【[共信用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_xien_ion.md#共信用)】`kon6 xien5 ion6` <sup>[如皋]</sup> 交往中取信于人。  
 1. 【[共账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_zhan.md#共账)】`kon6 zhan5` <small>/kʰoŋ6 t͡saŋ5/<sup>兴化</sup>, /kʰɔŋ1 t͡sã5/<sup>如皋</sup></small> ① 交易双方互相记账结算。<sup>\[如皋\]</sup> ② 互有账目往来<sup>\[兴化\]</sup>：我俫～七八年，不曾有过差错。<sup>\[兴化\]</sup>  
-1. 【[共总](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_zon.md#共总)】`kon6 zon3` <small>/kʰɔŋ1 t͡sɔŋ3/<sup>如皋</sup></small> ① 总共。<sup>\[如皋\]</sup> ② 一共；合计；总共。<sup>\[东台\]</sup>  
+1. 【[共总](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_zon.md#共总)】`kon6 zon3` <small>/kɔŋ5 t͡sɔŋ3/<sup>如皋</sup></small> 一共；合计；总共。<sup>\[如皋\]</sup><sup>\[东台\]</sup>  
 1. 【[棵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku.md#棵)】`ku1` <sup>[东台]</sup> 除作为量词外，还指移植后成活的植株：醒～。  
 1. 【[棵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku_zz.md#棵子)】`ku1 zz` <small>/kʰo1 t͡sɿ/<sup>兴化</sup>, /kʰʊ1 t͡sɿ/<sup>如皋</sup></small> ① 农作物、蔬菜等单株的大小<sup>\[如皋\]</sup><sup>\[泰州\]</sup>：黄英菜的～大，大～有二十几斤。<sup>\[如皋\]</sup>｜他卖的这个青菜的～不小。<sup>\[泰州\]</sup> ② 指植物的茎和叶<sup>\[兴化\]</sup>：这田里黄芽菜（大白菜）～不小。<sup>\[兴化\]</sup>｜这个树苗～不小。<sup>\[兴化\]</sup>  
 1. 【[疴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku.md#疴)】`ku1` <sup>[东台]</sup> 病：沉～｜养～。  

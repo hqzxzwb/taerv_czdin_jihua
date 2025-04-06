@@ -159,12 +159,14 @@
 1. 【[人到八十八，不知瘸和瞎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_do_baeh_sheh.md#人到八十八，不知瘸和瞎)】`ren2 do5 baeh7 sheh baeh7 beh7 zhr1 qya2 hu2 haeh7` <sup>[泰兴]</sup> 谓人年龄大了，身体变化状况难以预测。  
 1. 【[人到四十五，正是出山虎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_do_sz_sheh.md#人到四十五，正是出山虎)】`ren2 do5 sz5 sheh v3 zhen5 shr chueh7 shaen1 hv3` <sup>[泰兴]</sup> 谓人到了40多岁，年轻力壮，趋于成熟，正是大干事业的时候。  
 1. 【[人到葬将垛，𪎉子䜺<sub>儿</sub>总下锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_do_zan_jian.md#人到葬将垛，𪎉子䜺<sub>儿</sub>总下锅)】`ren2 do5 zan5 jian5 tu6 haen6 zz chae3 r zon3 xia6 gu1` <sup>[东台]</sup> 葬将垛在西溪，是隋朝抗倭英烈墓地，意思是饥肠辘辘的人回来急要吃饭，成为当地人的谚语。  
+1. 【[人多没好食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_du_meh_ho.md#人多没好食)】`ren2 du1 meh8 ho3 sheh8` <sup>[东台]</sup> 人多了，需求量大，就难以精心制作。  
 1. 【[人多抢食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_du_qian_sheh.md#人多抢食)】`ren2 du1 qian3 sheh8` <sup>[东台]</sup> 人一多，就有争着吃的兴致和吃不到的担心。  
 1. 【[人多嘴杂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_du_zuei_zaeh.md#人多嘴杂)】`ren2 du1 zuei3 zaeh7` <sup>[泰兴]</sup> 谈论的人多，各种议论都有。亦指在场的人多，七嘴八舌。  
 1. 【[人发炭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_faeh_taen.md#人发炭)】`ren2 faeh7 taen5` <sup>[如皋]</sup> 中药名，煅烧人发为炭。又称血余炭。  
 1. 【[人夫轿马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_fv_qio_ma.md#人夫轿马)】`ren2 fv qio6 ma3` <sup>[兴化]</sup> ① 旧宫员出行时的仪仗、仆从及各种交通工具。 ② 形容热闹、气派：今朝～的接她不走，过几天灰溜溜的往家跑。  
 1. 【[人家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_ga.md#人家)】`ren2 ga` <small>/ɻəŋ2 ka/<sup>如皋</sup></small> ① 别人、别人家；“我”的委婉称法 ② 别人。<sup>\[如皋\]</sup> ③ 别人家。<sup>\[如皋\]</sup> ④ 出嫁女称母家。<sup>\[如皋\]</sup> ⑤ 有时为自称。<sup>\[如皋\]</sup> ⑥ 家庭。<sup>\[如东\]</sup>：这许住啊3户～。<sup>\[如东\]</sup> ⑦ 别人。<sup>\[如东\]</sup>：那个是～的事。<sup>\[如东\]</sup>  
 1. 【[人家家里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_ga_ga_lii.md#人家家里)】`ren2 ga ga1 lii` <sup>[如皋]</sup> 别人的家里。  
+1. 【[人家把尿他喝，他连屎都吃掉啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_ga_ba_xy.md#人家把尿他喝，他连屎都吃掉啊)】`ren2 ga1 ba3 xy1 ta1 huh7 ta1 lin2 shr3 du1 qieh7 tio a` <sup>[东台]</sup> 形容某人受骗上当太多。  
 1. 【[人高马大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_go_ma_da.md#人高马大)】`ren2 go1 ma3 da6` <small>/lən2 kɔ1 ma3 ta6/<sup>兴化</sup></small> 形容人身材高大<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：前面走过来几个～的汉子。<sup>\[兴化\]</sup>｜这小伙长得人高马大，穿西装蛮派头的。<sup>\[泰州\]</sup>  
 1. 【[人过八十八，不知瘸和瞎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_gu_baeh_sheh_baeh_beh_zhr_qya_hu_haeh.md#人过八十八，不知瘸和瞎)】`ren2 gu5 baeh7 sheh8 baeh7 beh7 zhr1 qya2 hu2 haeh7` <sup>[东台]</sup> 人老了说不定有什么病，要理解关心老人。  
 1. 【[人过留名，雁过留声](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_gu_lieu_mien_ngaen_gu_lieu_shen.md#人过留名，雁过留声)】`ren2 gu5 lieu2 mien2 ngaen6 gu5 lieu2 shen1` <sup>[东台]</sup> 人生在世不能虚度年华，总要留下业绩。  

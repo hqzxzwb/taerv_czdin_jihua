@@ -210,7 +210,7 @@
 1. 【[踏轿米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_qio_mi.md#踏轿米)】`taeh8 qio6 mi3` <sup>[如东]</sup> 一种民俗。姑娘出嫁时，新郎送给丈人、丈母一袋米，表示感谢老人对妻子的抚育之恩。这袋米叫做踏轿米。  
 1. 【[踏生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_shen.md#踏生)】`taeh8 shen1` <small>/tʰæʔ8 sən1/<sup>兴化</sup>, /tʰeʔ8 səŋ1/<sup>如皋</sup></small> ① 旧时在家生产。婴儿初生时，第一个进产房的人，俗谓此人人品对婴儿以后成长影响极大。<sup>\[如皋\]</sup> ② 孩子出生后第一个进产房的人，民间说法将来孩子的脾气像这个人。<sup>\[东台\]</sup> ③ 旧称婴儿出生后第一个进入产房的人为～。<sup>\[兴化\]</sup>  
 1. 【[踏水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_shuei.md#踏水)】`taeh8 shuei3` <sup>[如皋]</sup> 人踏动水车戽水灌田  
-1. 【[踏雄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_xion.md#踏雄)】`taeh8 xion2` <small>/tʰeʔ8 ɕiɔŋ2/<sup>如皋</sup></small> ① 禽交尾。<sup>\[如皋\]</sup> ② 禽类动物的交配行为。<sup>\[东台\]</sup>  
+1. 【[踏雄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_xion.md#踏雄)】`taeh8 xion2` <small>/tʰeʔ8 ɕiɔŋ2/<sup>如皋</sup>, /tʰæʔ8 ɕiɔŋ2/<sup>泰兴</sup></small> 禽交尾。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[达当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_dan.md#达当)】`taeh8 dan` <sup>[如皋]</sup> 商定。  
 1. 【[达咖月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_ga_iuh.md#达咖月)】`taeh8 ga iuh8` <sup>[东台]</sup> 孕妇进入产前一个月内。  
 1. 【[达月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_iuh.md#达月)】`taeh8 iuh8` <small>/tʰeʔ8 yʊʔ8/<sup>如皋</sup></small> ① 临产的月份。<sup>\[如皋\]</sup> ② 孕妇进入临产月份，叫做达月。<sup>\[如东\]</sup>  
