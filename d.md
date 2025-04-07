@@ -44,8 +44,7 @@
 1. 【[打岔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_cha.md#打岔)】`da3 cha5` <small>/ta3 t͡sʰa5/<sup>兴化</sup></small> ① 干扰别人说话或做事<sup>\[东台\]</sup>：人家有事，覅（bae5）～！<sup>\[东台\]</sup> ② 消遣<sup>\[兴化\]</sup>：我烦起来就看小说～。<sup>\[兴化\]</sup> ③ 因他人或他事干扰而中断正在做的事<sup>\[泰州\]</sup>：人家现在忙，你就不要过去～。<sup>\[泰州\]</sup> ④ 插话打断别人讲话或者有意转换话题<sup>\[泰州\]</sup>：你让他把话说完，不要～。<sup>\[泰州\]</sup> ⑤ 寻找其他无关紧要的事来打发时间<sup>\[泰州\]</sup>：退啊休在家里也没得事，上午陪家属上菜场，下午洗把澡，打打岔。<sup>\[泰州\]</sup>  
 1. 【[打岔头官司](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_cha_teu_gun_sz.md#打岔头官司)】`da3 cha5 teu gun1 sz1` <sup>[东台]</sup> ［喻］干预别人正在做的事，横生枝节添麻烦。  
 1. 【[打插子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chaeh_zz.md#打插子)】`da3 chaeh7 zz` <sup>[兴化]</sup> 由于布幅宽度不够，裁剪时另镶上一小块：他腿子粗，裤档里要～。  
-1. 【[打场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chan.md#打场)】`da3 chan2` <sup>[泰州]</sup> 农活名称，将收割的稻子、麦子之类在场上铺开，用牛拖着碌碡一圈一圈转着碾压脱粒。  
-1. 【[打场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chan.md#打场)】`da3 chan2` <small>/tɑ3 t͡sʰɑŋ2/<sup>泰兴</sup></small> 庄稼收获登场后晒干、脱粒的过程。<sup>\[泰兴\]</sup>  
+1. 【[打场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chan.md#打场)】`da3 chan2` <small>/tɑ3 t͡sʰɑŋ2/<sup>泰兴</sup></small> ① 农活名称，将收割的稻子、麦子之类在场上铺开，用牛拖着碌碡一圈一圈转着碾压脱粒。<sup>\[泰州\]</sup> ② 庄稼收获登场后晒干、脱粒的过程。<sup>\[泰兴\]</sup>  
 1. 【[打常](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chan.md#打常)】`da3 chan2` <sup>[如皋]</sup> ① 正常、平常、经常。 ② 见“站常”。  
 1. 【[打常过日子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chan_gu_rih_zz.md#打常过日子)】`da3 chan2 gu5 rih8 zz` <sup>[如皋]</sup> 平常过日子。  
 1. 【[打场子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chan_zz.md#打场子)】`da3 chan3 zz` <small>/tɑ3 t͡sʰɑŋ3 t͡sɿ/<sup>泰兴</sup></small> 演文娱节目或变魔术玩杂技等开始前围成的场地。<sup>\[泰兴\]</sup>  
@@ -99,8 +98,7 @@
 1. 【[打点](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_din.md#打点)】`da3 din3` <small>/ta3 tĩ3/<sup>如皋</sup></small> ① 准备。<sup>\[如皋\]</sup> ② 送人钱财，请人关照。<sup>\[东台\]</sup> ③ 向人送钱物以疏通关系，求关照<sup>\[泰州\]</sup>：这些事情你要亲自出面～才行。<sup>\[泰州\]</sup>  
 1. 【[打倒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_do.md#打倒)】`da3 do3` <sup>[如东]</sup> 把人或物打翻。  
 1. 【[打倒小矮人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_do_xio_ngae_ren.md#打倒小矮人)】`da3 do3 xio3 ngae3 ren2` <sup>[如皋]</sup> 游戏名。相当于“石头、剪子、布”。  
-1. 【[打倒算盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_do_sun_pun.md#打倒算盘)】`da3 do5 sun5 pun` <sup>[泰州]</sup> 面对吃亏或者不利情况，从相反的角度找出合理解释，以求内心平衡：他一分钱不还把你，你也不能拿他怎吖样，现在毕竟还吖几个钱把你，你就～吧，就强如他不还的。  
-1. 【[打倒算盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_do_sun_pun.md#打倒算盘)】`da3 do5 sun5 pun` <small>/ta3 tɔ5 sʊ̃5 pʰʊ̃/<sup>如皋</sup>, /tɑ3 tɔ5 sʊ̃5 pʰʊ̃/<sup>泰兴</sup></small> ① 在客观情况危及事业或个人利益时作出收敛、退缩的盘算。<sup>\[泰兴\]</sup>：打打倒算盘，譬如一分钱赚不到。<sup>\[泰兴\]</sup> ② 从相反的角度去思考，以抵消心中的不快和痛苦。<sup>\[如皋\]</sup>  
+1. 【[打倒算盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_do_sun_pun.md#打倒算盘)】`da3 do5 sun5 pun` <small>/ta3 tɔ5 sʊ̃5 pʰʊ̃/<sup>如皋</sup>, /tɑ3 tɔ5 sʊ̃5 pʰʊ̃/<sup>泰兴</sup></small> ① 面对吃亏或者不利情况，从相反的角度找出合理解释，以求内心平衡<sup>\[泰州\]</sup>：他一分钱不还把你，你也不能拿他怎吖样，现在毕竟还吖几个钱把你，你就～吧，就强如他不还的。<sup>\[泰州\]</sup> ② 在客观情况危及事业或个人利益时作出收敛、退缩的盘算。<sup>\[泰兴\]</sup>：打打倒算盘，譬如一分钱赚不到。<sup>\[泰兴\]</sup> ③ 从相反的角度去思考，以抵消心中的不快和痛苦。<sup>\[如皋\]</sup>  
 1. 【[打倒算盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_do_sun_pun.md#打倒算盘)】`da3 do5 sun5 pun2` <small>/ta3 tɔ5 sũ5 pʰũ2/<sup>兴化</sup></small> ① ［引］换一个角度算账。多用于安慰别人或自我安慰<sup>\[东台\]</sup>：工钱是算得少啊，作为多学几天手艺吧，顺算盘打不来就～！<sup>\[东台\]</sup> ② 自我解嘲，在失利的情况下作退一步考虑<sup>\[兴化\]</sup>：这次出门受骗，我也不恨，～，强如害病打药吃的。<sup>\[兴化\]</sup>  
 1. 【[打对家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_duei_ga.md#打对家)】`da3 duei5 ga1` <small>/tɑ3 təɪ5 kɑ1/<sup>泰兴</sup></small> 玩牌时对面而坐相互配合者。<sup>\[泰兴\]</sup>  
 1. 【[打堆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_dy.md#打堆)】`da3 dy1` <sup>[如皋]</sup> 聚合、堆积：家里多唻，再买啊家去～呀！  
@@ -193,8 +191,7 @@
 1. 【[打呼噜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_hv_lv.md#打呼噜)】`da3 hv1 lv` ① 睡觉后发出的鼻息声。也叫鼾声。<sup>\[如东\]</sup> ② 打鼾，睡觉之时因为呼吸受阻而发出粗重的呼吸声。<sup>\[泰州\]</sup>  
 1. 【[打虎亲兄弟，上阵父子兵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_hv_qien_xion_ti_shan_chen_fv_zz_bien.md#打虎亲兄弟，上阵父子兵)】`da3 hv3 qien1 xion1 ti6 shan6 chen6 fv6 zz3 bien1` <sup>[东台]</sup> 家人团结、同仇敌忾力量大。  
 1. 【[打虎跳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_hv_tio.md#打虎跳)】`da3 hv3 tio5` <small>/ta3 fu3 tʰiɔ5/<sup>如皋</sup>, /tɑ3 fʋ3 tʰiɔ5/<sup>泰兴</sup>, /ta3 fu3 tʰiɔ5/<sup>泰县</sup></small> ① 见“虎跳”、“𧽌虎跳”<sup>\[如皋\]</sup> ② ［喻］指衣服太宽大，不合身。或指房屋宽敞。<sup>\[东台\]</sup> ③ 侧身翻。<sup>\[泰县\]</sup> ④ 手脚先后着地，向前跳跃或侧向翻身。<sup>\[泰兴\]</sup>  
-1. 【[打野](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ia.md#打野)】`da3 ia3` <sup>[如皋]</sup> ① 到外边去碰运气、找寻食物：他是个穷光棍，早上就出去～去啊。 ② 比喻找野婆娘。  
-1. 【[打野](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ia.md#打野)】`da3 ia3` <small>/tɑ3 iɑ3/<sup>泰兴</sup></small> 兽类在野外交配。乡人多用于狗起草交配，亦转借骂性行不端者。<sup>\[泰兴\]</sup>  
+1. 【[打野](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ia.md#打野)】`da3 ia3` <small>/ta3 ia3/<sup>如皋</sup>, /tɑ3 iɑ3/<sup>泰兴</sup></small> ① 到外边去碰运气、找寻食物<sup>\[如皋\]</sup>：他是个穷光棍，早上就出去～去啊。<sup>\[如皋\]</sup> ② 比喻找野婆娘。<sup>\[如皋\]</sup> ③ 兽类在野外交配。乡人多用于狗起草交配，亦转借骂性行不端者。<sup>\[泰兴\]</sup>  
 1. 【[打野鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ia_ji.md#打野鸡)】`da3 ia3 ji1` <small>/ta3 ia3 t͡ɕi1/<sup>兴化</sup>, /ta3 ia3 t͡ɕʝ1/<sup>如皋</sup></small> ① 用鸟枪或网具捕猎雉鸡等野生动物。<sup>\[如东\]</sup> ② 比喻捞外快。<sup>\[如东\]</sup>：出去～。<sup>\[如东\]</sup> ③ 嫖路边拉客的娼妓。<sup>\[如皋\]</sup> ④ 旧指嫖妓。<sup>\[兴化\]</sup> ⑤ 嫖宿马路上拉客的私娼。<sup>\[泰州\]</sup>  
 1. 【[打野雀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ia_jiah_r.md#打野雀<sub>儿</sub>)】`da3 ia3 jiah7 r` <small>/ta3 ia3 t͡ɕiɑʔ7 ɚ/<sup>泰县</sup></small> ① 悄悄地离岗外去干私活<sup>\[东台\]</sup>：他靠～，赚吖点儿钱。<sup>\[东台\]</sup> ② 不正规地赚钱。<sup>\[泰县\]</sup>  
 1. 【[打野食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ia_sheh.md#打野食)】`da3 ia3 sheh8` <small>/ta3 ia3 səʔ8/<sup>兴化</sup>, /ta3 ia3 səʔ8/<sup>如皋</sup></small> ① 见“打野”。<sup>\[如皋\]</sup> ② 家鸽飞到野外觅食。（喻）在外吃喝、搞第二职业赚外块、搞婚外两性关系。<sup>\[兴化\]</sup>  
@@ -214,8 +211,7 @@
 1. 【[打幺扣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_io_keu.md#打幺扣)】`da3 io1 keu1` <sup>[如东]</sup> 两把草头互结，或者一把草头捻捘捆紧另一把草，称打幺扣。  
 1. 【[打幺扣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_io_keu.md#打幺扣)】`da3 io1 keu5` <sup>[如皋]</sup> 将两把草的穗部互结，或将一把草加点捻度，供捆扎用。  
 1. 【[打腰栈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_io_chaen.md#打腰栈)】`da3 io1 chaen6` <sup>[兴化]</sup> “栈”与“餐”谐音。即在两次正餐之间吃点东西：走，上肯德基去～。  
-1. 【[打腰站](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_io_zhaen.md#打腰站)】`da3 io1 zhaen5` <sup>[如皋]</sup> 吃接顿。  
-1. 【[打腰站](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_io_zhaen.md#打腰站)】`da3 io1 zhaen5` <small>/tɑ3 iɔ1 t͡ɕiɛ̃5/<sup>泰兴</sup></small> 两顿主餐之间的小食。<sup>\[泰兴\]</sup>  
+1. 【[打腰站](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_io_zhaen.md#打腰站)】`da3 io1 zhaen5` <small>/ta3 iɔ1 t͡sẽ5/<sup>如皋</sup>, /tɑ3 iɔ1 t͡ɕiɛ̃5/<sup>泰兴</sup></small> ① 吃接顿。<sup>\[如皋\]</sup> ② 两顿主餐之间的小食。<sup>\[泰兴\]</sup>  
 1. 【[打遥望](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_io_van.md#打遥望)】`da3 io2 van6` <sup>[如东]</sup> 站在外面向四面观望。  
 1. 【[打雄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ion.md#打雄)】`da3 ion2` <sup>[如东]</sup> 鸟禽交尾。  
 1. 【[打元宝囤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_iun_bo_ten_zz.md#打元宝囤子)】`da3 iun2 bo3 ten6 zz` <sup>[如皋]</sup> 旧时，除夕入夜后，用小蒲包在大门外、庭院中打出一排排石灰印，表示“年”已走过，留下脚印，不复再来祸害人。  
@@ -277,8 +273,7 @@
 1. 【[打骂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma.md#打骂)】`da3 ma6` <sup>[泰州]</sup> 责骂：你不曾听得出来，他这些话是～你的。  
 1. 【[打骂人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma_ren.md#打骂人)】`da3 ma6 ren2` <sup>[泰县]</sup> 讥讽人。  
 1. 【[打闷辛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_men_xien.md#打闷辛)】`da3 men1 xien1` <sup>[如皋]</sup> 小睡了会儿。  
-1. 【[打闷棍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_men_guen.md#打闷棍)】`da3 men6 guen5` <sup>[东台]</sup> 本指拦路抢劫，［喻］平白无故地恶意中伤人。  
-1. 【[打闷棍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_men_guen.md#打闷棍)】`da3 men6 guen5` <small>/tɑ3 məŋ1 kuəŋ5/<sup>泰兴</sup></small> 乘人不备给人一棍或无端中伤他人以达到自己的目的。<sup>\[泰兴\]</sup>  
+1. 【[打闷棍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_men_guen.md#打闷棍)】`da3 men6 guen5` <small>/tɑ3 məŋ1 kuəŋ5/<sup>泰兴</sup></small> ① 本指拦路抢劫，［喻］平白无故地恶意中伤人。<sup>\[东台\]</sup> ② 乘人不备给人一棍或无端中伤他人以达到自己的目的。<sup>\[泰兴\]</sup>  
 1. 【[打闷虎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_men_hv.md#打闷虎)】`da3 men6 hv3` <sup>[兴化]</sup> 私吞公共的或他人的财物：全车间的夜餐补贴捱他～上吖腰包。  
 1. 【[打闷醒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_men_xien.md#打闷醒)】`da3 men6 xien3` <small>/ta3 mən6 ɕin3/<sup>兴化</sup></small> ① 困极小睡<sup>\[兴化\]</sup>：昨晚睡得迟，今吖饭后打啊个闷醒。<sup>\[兴化\]</sup> ② 打瞌睡。<sup>\[兴化\]</sup>  
 1. 【[打米<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_mi_r.md#打米<sub>儿</sub>)】`da3 mi3 r` <sup>[东台]</sup> 高粱的一种。与芦穄比壳红，籽粒大而白，有粘性。可直接食用或酿酒、包粽子。  
@@ -290,14 +285,12 @@
 1. 【[打麦桩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_moh_zhuan_r.md#打麦桩<sub>儿</sub>)】`da3 moh8 zhuan1 r` <sup>[如皋]</sup> 旧时穷人到已收割的麦田里挖麦根作柴禾。  
 1. 【[打猛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_mon_zz.md#打猛子)】`da3 mon3 zz` <sup>[如东]</sup> 潜水：小强会～啊。  
 1. 【[打磨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_mu.md#打磨)】`da3 mu6` <sup>[如皋]</sup> 打凿石磨齿，使锐利。  
-1. 【[打磨匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_mu_qian.md#打磨匠)】`da3 mu6 qian6` <sup>[如皋]</sup> 石匠之一，主要凿石磨。  
-1. 【[打磨匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_mu_qian.md#打磨匠)】`da3 mu6 qian6` <small>/tɑ3 mɤɯ1 t͡ɕʰiɑŋ1/<sup>泰兴</sup></small> 锻打石磨的匠人。<sup>\[泰兴\]</sup>  
+1. 【[打磨匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_mu_qian.md#打磨匠)】`da3 mu6 qian6` <small>/ta3 mʊ1 t͡ɕʰiã1/<sup>如皋</sup>, /tɑ3 mɤɯ1 t͡ɕʰiɑŋ1/<sup>泰兴</sup></small> ① 石匠之一，主要凿石磨。<sup>\[如皋\]</sup> ② 锻打石磨的匠人。<sup>\[泰兴\]</sup>  
 1. 【[打嗯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ng.md#打嗯)】`da3 ng2` <sup>[东台]</sup> 打岔、耽搁、说废话：你的事到我这许保证不～。  
 1. 【[打伢<sub>儿</sub>黄人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_nga_r_huan_ren.md#打伢<sub>儿</sub>黄人)】`da3 nga2 r huan2 ren2` <sup>[如皋]</sup> 见“打憋气棒”。  
 1. 【[打伢<sub>儿</sub>骂邻舍家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_nga_r_ma_lien_sha_ga.md#打伢<sub>儿</sub>骂邻舍家)】`da3 nga2 r ma6 lien2 sha5 ga` <sup>[如皋]</sup> 以打自家孩子为手段，用意在骂邻人。  
 1. 【[打哑语](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_nga_y.md#打哑语)】`da3 nga3 y` <sup>[如皋]</sup> 因某种情况不能说话而用肢体比划来表示。  
-1. 【[打讶声](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_nga_shen.md#打讶声)】`da3 nga6 shen1` <sup>[兴化]</sup> 表示惊讶和反感。讶，《广韵·祃韵》吾驾切，嗟～：听说要价这吖高，他不住～  
-1. 【[打讶声](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_nga_shen.md#打讶声)】`da3 nga6 shen1` <small>/tɑ3 ŋɑ1 səŋ1/<sup>泰兴</sup></small> 对对方的要求表示异议而不及时作答。\[泰兴：（泰兴方言辞典作“打哑声”）\]：他刚才～，像吖是不同意这个价钱。<sup>\[泰兴\]</sup>  
+1. 【[打讶声](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_nga_shen.md#打讶声)】`da3 nga6 shen1` <small>/ta3 a6 sən1/<sup>兴化</sup>, /tɑ3 ŋɑ1 səŋ1/<sup>泰兴</sup></small> ① 表示惊讶和反感。讶，《广韵·祃韵》吾驾切，嗟～。<sup>\[兴化\]</sup>：听说要价这吖高，他不住～<sup>\[兴化\]</sup> ② 对对方的要求表示异议而不及时作答。\[泰兴：（泰兴方言辞典作“打哑声”）\]：他刚才～，像吖是不同意这个价钱。<sup>\[泰兴\]</sup>  
 1. 【[打眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ngaen.md#打眼)】`da3 ngaen3` <sup>[兴化]</sup> 小偷在行窃前窥探作案环境。  
 1. 【[打眼色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ngaen_seh.md#打眼色)】`da3 ngaen3 seh` <sup>[兴化]</sup> 用眼示意：他跟我～，要我覅多事。  
 1. 【[打呃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ngeh.md#打呃)】`da3 ngeh7` <sup>[兴化]</sup> 气逆出声。兴化词典作“打䬵”，《广韵·德韵》爱黑切，噎声。  
@@ -308,8 +301,7 @@
 1. 【[打仰蛙<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_nian_va_r.md#打仰蛙<sub>儿</sub>)】`da3 nian3 va1 r` <sup>[如东]</sup> ① 游泳的一种方式。脸朝天，浮在水面上，用手划水，推动身体前进。也叫仰泳。 ② 躺在地上，脸朝天，手划脚蹬，大喊大叫耍赖：她躺吖地下～。  
 1. 【[打纽扣<sub>儿</sub>桃<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_nieu_keu_r_to_r.md#打纽扣<sub>儿</sub>桃<sub>儿</sub>)】`da3 nieu3 keu1 r to2 r` <sup>[如皋]</sup> 将“斜口”缲成布条儿后，先盘风车儿结，中心穿鼻，然后逐节抽紧，成桃状结，作中服的纽子，与纽扣儿相配。  
 1. 【[打纽<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_nieu_r.md#打纽<sub>儿</sub>)】`da3 nieu3 r` <small>/ta3 nyʊ˞3/<sup>如皋</sup></small> ① 瓜藤上长出雌花。<sup>\[如东\]</sup> ② 瓜果雌花受精后生成嫩胚。<sup>\[如皋\]</sup> ③ 比喻有孕。<sup>\[如皋\]</sup> ④ 比喻事之端倪。<sup>\[如皋\]</sup>  
-1. 【[打年货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_nin_hu.md#打年货)】`da3 nin2 hu5` <sup>[兴化]</sup> 春节前购买节日吃、穿、用及敬神、娱乐等方面的商品：我今日上街做什么事的？我是上街～的。（《皮五辣子》三）  
-1. 【[打年货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_nin_hu.md#打年货)】`da3 nin2 hu5` <small>/tɑ3 nĩ2 xɤɯ5/<sup>泰兴</sup></small> 购买春节所需的各种物品。<sup>\[泰兴\]</sup>  
+1. 【[打年货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_nin_hu.md#打年货)】`da3 nin2 hu5` <small>/ta3 liɪ̃2 xo5/<sup>兴化</sup>, /tɑ3 nĩ2 xɤɯ5/<sup>泰兴</sup></small> ① 春节前购买节日吃、穿、用及敬神、娱乐等方面的商品<sup>\[兴化\]</sup>：我今日上街做什么事的？我是上街～的。（《皮五辣子》三）<sup>\[兴化\]</sup> ② 购买春节所需的各种物品。<sup>\[泰兴\]</sup>  
 1. 【[打挠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_no.md#打挠)】`da3 no2` <sup>[如皋]</sup> 胡搅蛮缠、阻挠正常活动。  
 1. 【[打□稭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_no_gae.md#打□稭)】`da3 no6 gae1` <sup>[泰州]</sup> 用连枷击打脱过粒的乱麦稭。  
 1. 【[打闹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_no.md#打闹)】`da3 no6` <small>/ta3 lɔ6/<sup>兴化</sup></small> ① 哄闹嬉戏排。也说“打打闹闹”。<sup>\[兴化\]</sup> ② 搅和<sup>\[兴化\]</sup>：我俫玩得好好的，他跑来～儿。<sup>\[兴化\]</sup> ③ 与之吵闹使之不得安宁<sup>\[泰州\]</sup>：你当真为哿伢儿斗搞的事去同人家～啊？<sup>\[泰州\]</sup> ④ 与之嬉戏使之不得安宁<sup>\[泰州\]</sup>：哥哥要复习，你俫外去玩去，不要同他～唻。<sup>\[泰州\]</sup>  
@@ -345,8 +337,7 @@
 1. 【[打钱墩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_qin_den.md#打钱墩)】`da3 qin2 den1` <sup>[如东]</sup> 一种游戏。地上画一个圆圈，里面放几只铜钞，谁先把铜钞打出圈，即为赢家。  
 1. 【[打钱堆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_qin_dy.md#打钱堆)】`da3 qin2 dy1` <sup>[东台]</sup> 旧时儿童打铜钞的游戏。  
 1. 【[打撬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_qio.md#打撬)】`da3 qio` <sup>[如东]</sup> 从中阻挠、作梗。  
-1. 【[打跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_qio.md#打跷)】`da3 qio1` <sup>[如皋]</sup> 从中阻挠、作梗。见“跷轧”。  
-1. 【[打跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_qio.md#打跷)】`da3 qio1` <small>/tɑ3 t͡ɕʰiɔ1/<sup>泰兴</sup></small> 提出反对意见，使事情不能顺利进行。<sup>\[泰兴\]</sup>  
+1. 【[打跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_qio.md#打跷)】`da3 qio1` <small>/ta3 t͡ɕʰiɔ1/<sup>如皋</sup>, /tɑ3 t͡ɕʰiɔ1/<sup>泰兴</sup></small> ① 从中阻挠、作梗。见“跷轧”。<sup>\[如皋\]</sup> ② 提出反对意见，使事情不能顺利进行。<sup>\[泰兴\]</sup>  
 1. 【[打圈零](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_qiun_lien.md#打圈零)】`da3 qiun1 lien2` <sup>[如东]</sup> 走过去，又走回来。  
 1. 【[打圈圈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_qiun_qiun_r.md#打圈圈<sub>儿</sub>)】`da3 qiun1 qiun1 r` <sup>[如东]</sup> 在地上转圈儿。  
 1. 【[打旋网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_qiun_van.md#打旋网)】`da3 qiun6 van3` <sup>[如东]</sup> 捕鱼的一种方式。捕鱼者将旋网撒出去，罩住一定水域，把其中的鱼网住。  
@@ -367,8 +358,7 @@
 1. 【[打蛇打七寸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_sha_da_qieh.md#打蛇打七寸)】`da3 sha2 da3 qieh7 cuen5` <small>/tɑ3 sɑ2 tɑ3 t͡ɕʰiəʔ7 t͡sʰuəŋ5/<sup>泰兴</sup></small> 喻做事把握住关键，才易于制胜。<sup>\[泰兴\]</sup>  
 1. 【[打筛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_shae.md#打筛)】`da3 shae1` <sup>[如皋]</sup> 筛名。䜺儿筛子，网眼较小，易窒筛孔，要一边筛一边拍打。  
 1. 【[打煞气棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_shaeh_qi_pan.md#打煞气棒)】`da3 shaeh7 qi5 pan6` <sup>[如皋]</sup> 借打孩子出气。  
-1. 【[打失惊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_sheh_jien.md#打失惊)】`da3 sheh7 jien` <sup>[兴化]</sup> 表示惊讶和不平：听说一间房子年租金七八万，他直～。｜（孙小官）直等听得声音，方知是差讹，打个失惊，不要命的一道烟跑了去。（《二刻》五）  
-1. 【[打失惊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_sheh_jien.md#打失惊)】`da3 sheh7 jien` <small>/tɑ3 səʔ7 t͡ɕiŋ/<sup>泰兴</sup></small> 吃惊，十分惊讶。<sup>\[泰兴\]</sup>  
+1. 【[打失惊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_sheh_jien.md#打失惊)】`da3 sheh7 jien` <small>/ta3 səʔ7 t͡ɕin/<sup>兴化</sup>, /tɑ3 səʔ7 t͡ɕiŋ/<sup>泰兴</sup></small> ① 表示惊讶和不平<sup>\[兴化\]</sup>：听说一间房子年租金七八万，他直～。<sup>\[兴化\]</sup>｜（孙小官）直等听得声音，方知是差讹，打个失惊，不要命的一道烟跑了去。（《二刻》五）<sup>\[兴化\]</sup> ② 吃惊，十分惊讶。<sup>\[泰兴\]</sup>  
 1. 【[打湿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_sheh.md#打湿)】`da3 sheh7` <sup>[如东]</sup> 被雨水淋了。  
 1. 【[打食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_sheh.md#打食)】`da3 sheh8` <small>/tɑ3 səʔ8/<sup>泰兴</sup>, /ta3 səʔ8/<sup>泰县</sup></small> ① 觅食。常用于禽鸟。<sup>\[如东\]</sup><sup>\[泰县\]</sup>：天刚刚亮，麻雀就出来～。<sup>\[如东\]</sup>｜鸽子出去～去啊。<sup>\[泰县\]</sup> ② 家禽离窠寻找食物<sup>\[泰州\]</sup>：鸽子飞出去～还不曾家来。<sup>\[泰州\]</sup> ③ （鸟兽禽畜）寻找食物<sup>\[泰兴\]</sup>  
 1. 【[打声不剌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_shen_beh_laeh.md#打声不剌)】`da3 shen beh7 laeh` <sup>[兴化]</sup> 形容过分谦恭的情态：我留他吃顿便饭，他～的不肯。  
@@ -388,8 +378,7 @@
 1. 【[打水仗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_shuei_zhan.md#打水仗)】`da3 shuei3 zhan5` <sup>[如皋]</sup> 用水互泼的游戏，可以在游泳中，可以用激发筒儿喷射。  
 1. 【[打顺风旗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_shuen_fon_qi.md#打顺风旗)】`da3 shuen6 fon1 qi2` <sup>[兴化]</sup> 见“扯顺风旗”。  
 1. 【[打顺算盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_shuen_sun_pun.md#打顺算盘)】`da3 shuen6 sun5 pun2` <sup>[如皋]</sup> 只算到利益和好处，未算到困难和失利。  
-1. 【[打尿噤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_suei_jien.md#打尿噤)】`da3 suei1 jien` <sup>[兴化]</sup> 小便将尽热量散失或因熬尿时间过久而打寒噤。  
-1. 【[打尿噤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_suei_jien.md#打尿噤)】`da3 suei1 jien` <small>/tɑ3 suəɪ1 t͡ɕiŋ/<sup>泰兴</sup></small> 小便时突然全身寒噤。多用于责备人办事不爽快。<sup>\[泰兴\]</sup>：你打什的尿噤，放快点去办！<sup>\[泰兴\]</sup>  
+1. 【[打尿噤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_suei_jien.md#打尿噤)】`da3 suei1 jien` <small>/ta3 suəi1 t͡ɕin/<sup>兴化</sup>, /tɑ3 suəɪ1 t͡ɕiŋ/<sup>泰兴</sup></small> ① 小便将尽热量散失或因熬尿时间过久而打寒噤。<sup>\[兴化\]</sup> ② 小便时突然全身寒噤。多用于责备人办事不爽快。<sup>\[泰兴\]</sup>：你打什的尿噤，放快点去办！<sup>\[泰兴\]</sup>  
 1. 【[打算盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_sun_pun.md#打算盘)】`da3 sun5 pun` <small>/tɑ3 sʊ̃5 pʰʊ̃/<sup>泰兴</sup></small> 盘算；想主意。<sup>\[泰兴\]</sup>：到什的山樵什的柴，自家的事也要打打算盘，望望怎吖办才好。<sup>\[泰兴\]</sup>  
 1. 【[打算盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_sun_pun.md#打算盘)】`da3 sun5 pun2` <sup>[泰州]</sup> ① 运用算盘计算。 ② 比喻筹划谋算：人家嫌你厂子小，你再怎吖～想他来也没得用。 ③ 凡是都从经济角度反复算账：你俫就拿啊这两个工资，过日子不～不行。  
 1. 【[打丝线](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_sz_xin.md#打丝线)】`da3 sz1 xin5` <sup>[如皋]</sup> ① 职业名。 ② 用简单机械将蚕丝加捻度合成线。  
@@ -429,8 +418,7 @@
 1. 【[打舞扯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_v_cha_zz.md#打舞扯子)】`da3 v3 cha3 zz` <sup>[兴化]</sup> 打岔：这块谈周正事，覅来～。  
 1. 【[打洼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_va.md#打洼)】`da3 va1` <small>/tɑ3 uɑ1/<sup>泰兴</sup></small> 水牛在水塘中休息、避暑。（存疑。对照“打汪”）<sup>\[泰兴\]</sup>  
 1. 【[打瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_va.md#打瓦)】`da3 va3` <sup>[兴化]</sup> 揩油：朋友开餐馆。哪天没事去打个瓦。  
-1. 【[打滑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_vaeh.md#打滑)】`da3 vaeh8` <sup>[如皋]</sup> ① 制动失灵。 ② 脚下滑动，站不稳。  
-1. 【[打滑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_vaeh.md#打滑)】`da3 vaeh8` <small>/tɑ3 ʋæʔ8/<sup>泰兴</sup></small> 地滑站不住，行走不稳。<sup>\[泰兴\]</sup>：雨天路上～，要小心一点。<sup>\[泰兴\]</sup>  
+1. 【[打滑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_vaeh.md#打滑)】`da3 vaeh8` <small>/ta3 ʋeʔ8/<sup>如皋</sup>, /tɑ3 ʋæʔ8/<sup>泰兴</sup></small> ① 制动失灵。<sup>\[如皋\]</sup> ② 脚下滑动，站不稳。<sup>\[如皋\]</sup> ③ 地滑站不住，行走不稳。<sup>\[泰兴\]</sup>：雨天路上～，要小心一点。<sup>\[泰兴\]</sup>  
 1. 【[打弯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_vaen.md#打弯)】`da3 vaen1` <small>/ta3 uɛ̃1/<sup>兴化</sup></small> （车船）拐弯<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：这条路狭，车子不好～。<sup>\[兴化\]</sup>｜你的车子走到前头要～向左开。<sup>\[泰州\]</sup>  
 1. 【[打万年桩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_vaen_nin_zhuan.md#打万年桩)】`da3 vaen6 nin2 zhuan1` <small>/ta3 uɛ̃6 liɪ̃2 t͡suaŋ1/<sup>兴化</sup>, /ta3 ʋẽ1 nĩ2 t͡suã1/<sup>如皋</sup>, /tɑ3 ʋɛ̃1 nĩ2 t͡suɑŋ1/<sup>泰兴</sup></small> ① 永远占有某一位置、地方。<sup>\[如皋\]</sup> ② ［喻］作很长久或永久打算（一般用于否定句）<sup>\[东台\]</sup>：大家都嫑斤斤计较，哪个能在这块～？<sup>\[东台\]</sup> ③ 形容地位牢固<sup>\[兴化\]</sup>：你总有下来的一天，不见得～。<sup>\[兴化\]</sup> ④ 坚持不动<sup>\[兴化\]</sup>：“大老呆……珠珠总不能在乡下～吧……”（马春阳《你该住红楼》）<sup>\[兴化\]</sup> ⑤ 比喻永不离开某个地方或者某个单位<sup>\[泰州\]</sup>：没得哪个人想在这个公司～。<sup>\[泰州\]</sup> ⑥ 永久性的，不会再有变化的。<sup>\[泰兴\]</sup>：他不会在箇许～，你就将就点罢。<sup>\[泰兴\]</sup>  
 1. 【[打㗥子笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_vah_zz_xio.md#打㗥子笑)】`da3 vah7 zz xio5` <sup>[如东]</sup> 小儿大笑。  

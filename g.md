@@ -1622,8 +1622,7 @@
 1. 【[鬼火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_hu.md#鬼火)】`guei3 hu3` ① 坟场上的磷火，后喻意背后出坏主意叫“点鬼火”。<sup>\[东台\]</sup> ② 夜晚时在墓地出现的绿色磷光，迷信者以为是鬼点的灯<sup>\[泰州\]</sup>：他在乡里荒田心里望见过～。<sup>\[泰州\]</sup> ③ 指没有理由、没有原因的无名火<sup>\[泰州\]</sup>：只要望见他就是一头的～。<sup>\[泰州\]</sup>  
 1. 【[鬼花头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_hua_teu.md#鬼花头)】`guei3 hua1 teu` <sup>[兴化]</sup> 阴险、不正的手段：他只要达到目的，甚的～总玩得出来。  
 1. 【[鬼花头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_hua_teu.md#鬼花头)】`guei3 hua1 teu2` ① 不光明正大的计谋。<sup>\[东台\]</sup> ② 阴险手段或者暗中捉弄人的诡计<sup>\[泰州\]</sup>：只要望他脸上笑嘻嘻的，肯定就有～。<sup>\[泰州\]</sup>  
-1. 【[鬼画符](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_hua_fv.md#鬼画符)】`guei3 hua6 fv2` ① 写字潦草，难以辨认。<sup>\[东台\]</sup> ② ［喻］办事毛糙，质量差。<sup>\[东台\]</sup> ③ 乱画，瞎画。又音guei3 hua6 hv2。<sup>\[如东\]</sup>：他根本不会写字，他在下～。<sup>\[如东\]</sup>  
-1. 【[鬼画符](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_hua_fv.md#鬼画符)】`guei3 hua6 fv2` <sup>[泰州]</sup> 比喻写字潦草拙劣：他心不通吖这高头，就是写字也是～。  
+1. 【[鬼画符](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_hua_fv.md#鬼画符)】`guei3 hua6 fv2` ① 写字潦草，难以辨认。<sup>\[东台\]</sup> ② ［喻］办事毛糙，质量差。<sup>\[东台\]</sup> ③ 乱画，瞎画。又音guei3 hua6 hv2。<sup>\[如东\]</sup>：他根本不会写字，他在下～。<sup>\[如东\]</sup> ④ 比喻写字潦草拙劣<sup>\[泰州\]</sup>：他心不通吖这高头，就是写字也是～。<sup>\[泰州\]</sup>  
 1. 【[鬼画三符](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_hua_saen_fv.md#鬼画三符)】`guei3 hua6 saen1 fv2` <sup>[泰县]</sup> 变换手法骗人的意思：你覅听他～的。  
 1. 【[鬼话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_hua.md#鬼话)】`guei3 hua6` <sup>[泰州]</sup> ① 谎言，不可相信的话：你不要相信他说的这些～。 ② 悄悄说的不让他人知晓的话：这两个人又躲啊后头说～去唻。  
 1. 【[鬼坏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_huae.md#鬼坏)】`guei3 huae6` <small>/kuəi3 xuɛ6/<sup>兴化</sup></small> ① 形容聪明、机灵、点子多<sup>\[兴化\]</sup>：小孙子～，三言两语就把奶奶逗笑啊。<sup>\[兴化\]</sup> ② 人表面忠厚讷言，实质工于心计<sup>\[泰州\]</sup>：这个马马儿平时不多说话，一副老实样子，其实她骨子里～。<sup>\[泰州\]</sup>  
