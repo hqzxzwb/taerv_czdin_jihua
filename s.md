@@ -1883,7 +1883,7 @@
 1. 【[少件](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_qin.md#少件)】`sho3 qin6` <sup>[兴化]</sup> 见“少零件”。  
 1. 【[少水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_shuei.md#少水)】`sho3 shuei3` <sup>[泰县]</sup> 高利贷。  
 1. 【[少掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_tio.md#少掉)】`sho3 tio` 遗失<sup>\[泰州\]</sup>：他上街去买东西，把皮夹子弄吖～啊。<sup>\[泰州\]</sup>  
-1. 【[少债](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_zhae.md#少债)】`sho3 zhae5` <small>/sɔ3 t͡sɛ5/<sup>如皋</sup>, /sɔ3 t͡se5/<sup>泰县</sup></small> ① 自觉尽义务照顾家庭。<sup>\[如皋\]</sup> ② 亏欠，欠钱或欠情<sup>\[如东\]</sup>：我问人借啊钱还不曾还清，还～唻！<sup>\[如东\]</sup>｜我在她家蹾吖交关长时间，至今还～唻。<sup>\[如东\]</sup> ③ 很懂事，不给别人添麻频<sup>\[泰县\]</sup>：这个老的还就～唻，夜里不声不响就死啊。<sup>\[泰县\]</sup>  
+1. 【[少债](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_zhae.md#少债)】`sho3 zhae5` <small>/sɔ3 t͡sɛ5/<sup>如皋</sup>, /sɔ3 t͡se5/<sup>泰县</sup></small> ① 自觉尽义务照顾家庭。<sup>\[如皋\]</sup> ② 亏欠，欠钱或欠情<sup>\[如东\]</sup>：我问人借啊钱还不曾还清，还～唻！<sup>\[如东\]</sup>｜我在她家蹾吖交关长时间，至今还～唻。<sup>\[如东\]</sup> ③ 很懂事，不给别人添麻烦<sup>\[泰县\]</sup>：这个老的还就～唻，夜里不声不响就死啊。<sup>\[泰县\]</sup>  
 1. 【[㷹火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_hu.md#㷹火)】`sho5 hu` <sup>[如皋]</sup> 放㷹火：元宵节俗，晚点燃田间、沟岸宿草，看火色测水、旱年，可烧死躲在草中越冬的害虫。也叫“浇麻串”。  
 1. 【[哨竿脚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_gun_jiah_zz.md#哨竿脚子)】`sho5 gun1 jiah7 zz` <sup>[如皋]</sup> 立哨竿的石块，中有竖孔，可插入竹竿。  
 1. 【[哨竿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_gun.md#哨竿)】`sho5 gun3` <sup>[如皋]</sup> 打丝线时立在离架子约20米的一根竹竿，传筢时把丝从上面绕过去，再回到架子下  
