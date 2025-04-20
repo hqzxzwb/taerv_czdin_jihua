@@ -1489,7 +1489,7 @@
 1. 【[百子花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_zz_hua.md#百子花)】`boh7 zz3 hua1` <sup>[东台]</sup> 旧时台城妇女喜欢戴的一种花，以红色为基调，剪彩绒，有寿星、招财进宝、和合二仙、麒麟送子等品种。  
 1. 【[崩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon.md#崩)】`bon1` ① ［引］破裂<sup>\[东台\]</sup>：两人谈～吖。<sup>\[东台\]</sup> ② 裂开<sup>\[泰州\]</sup>：袋子里头已经着不下唻，不能再㪕，再㪕袋子就～掉唻。<sup>\[泰州\]</sup>  
 1. 【[崩滩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_taen.md#崩滩)】`bon1 taen1` <sup>[兴化]</sup> 河湖岸边由坍塌的泥土形成的缓坡。  
-1. 【[绷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon.md#绷)】`bon1` <small>/poŋ1/<sup>兴化</sup></small> ① 撑<sup>\[兴化\]</sup>：把口袋～开来灌米。<sup>\[兴化\]</sup> ② 用双手把成股的线撑开<sup>\[兴化\]</sup>：你～线，我绕线。<sup>\[兴化\]</sup> ③ 张紧，用力将柔韧之物由里向外（两边或者四周）撑开拉紧，以成平直坚挺的状态。缠束之力是由外向里的收缩，绷是反之，其力是由里向外伸张<sup>\[泰州\]</sup>：你帮她把被单里子绷吖床上，让她絾被单！<sup>\[泰州\]</sup>  
+1. 【[绷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon.md#绷)】`bon1` <small>/poŋ1/<sup>兴化</sup></small> ① 撑<sup>\[兴化\]</sup>：把口袋～开来灌米。<sup>\[兴化\]</sup> ② 用双手把成股的线撑开<sup>\[兴化\]</sup>：你～线，我绕线。<sup>\[兴化\]</sup> ③ 张紧，用力将柔韧之物由里向外（两边或者四周）撑开拉紧，以成平直坚挺的状态。缠束之力是由外向里的收缩，绷是反之，其力是由里向外伸张<sup>\[泰州\]</sup>：你帮她把被单里子～吖床上，让她絾被单！<sup>\[泰州\]</sup>  
 1. 【[绷场面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_chan_min.md#绷场面)】`bon1 chan2 min6` <sup>[兴化]</sup> 撑场面：我请你替我～，千万架势。  
 1. 【[绷钩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_geu_r.md#绷钩<sub>儿</sub>)】`bon1 geu1 r` <sup>[如皋]</sup> 利用弹性绷住鱼嘴的钩具。  
 1. 【[绷下来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_ha_lae_a.md#绷下来啊)】`bon1 ha lae2 a` <sup>[如皋]</sup> 绷裂了。  

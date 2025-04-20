@@ -702,7 +702,7 @@
 1. 【[执斧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_fv.md#执斧)】`zheh7 fv3` <small>/t͡səʔ7 fu3/<sup>如皋</sup></small> ① 丧仪之一。母死，大殓给棺材钉钉子，由舅父～递给木匠。表示母家人无异议。<sup>\[如皋\]</sup> ② 死人盖棺时敲第一斧的人，通常为死者的兄弟或侄子（死者是女人，则为爷娘侄子）中年龄最长者。<sup>\[东台\]</sup>  
 1. 【[执意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_i.md#执意)】`zheh7 i5` <sup>[如皋]</sup> 坚决，坚持。  
 1. 【[执五执六](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_v_zheh_loh.md#执五执六)】`zheh7 v3 zheh7 loh8` <sup>[东台]</sup> 拿不定主张，一会儿要这样，一会儿要那样。  
-1. 【[指掐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_kaeh.md#指掐)】`zheh7 kaeh` <small>/t͡səʔ7 kʰeʔ/<sup>如皋</sup></small> ① 即指甲。<sup>\[如皋\]</sup> ② 指尖上面的角质物，有保护指尖的作用。<sup>\[如东\]</sup>  
+1. 【[指掐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_kaeh.md#指掐)】`zheh7 kaeh` <small>/t͡səʔ7 kʰeʔ/<sup>如皋</sup></small> ① 指甲或趾甲<sup>\[如皋\]</sup> ② 指尖上面的角质物，有保护指尖的作用。<sup>\[如东\]</sup>  
 1. 【[指掐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_kaeh.md#指掐)】`zheh7 kaeh7` <sup>[东台]</sup> ［读若执掐］手指或脚趾端背面扁平的甲状结构，属于结缔组织。  
 1. 【[指掐篷<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_kaeh_pon_r.md#指掐篷<sub>儿</sub>)】`zheh7 kaeh7 pon2 r` <sup>[如东]</sup> 指甲。  
 1. 【[指□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_kaen.md#指□)】`zheh7 kaen3` <sup>[兴化]</sup> 指甲：脚上有两个灰～。  
@@ -727,7 +727,6 @@
 1. 【[翟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh.md#翟)】`zheh7` <sup>[如皋]</sup> 姓。避同音“贼ceh8”讳改读。  
 1. 【[职分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_fen.md#职分)】`zheh7 fen` <small>/t͡səʔ7 fən/<sup>兴化</sup>, /t͡səʔ7 fəŋ/<sup>如皋</sup></small> 辈分。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[兴化\]</sup>\[泰州：辈分，在家族、亲友的长幼先后中所居的地位\]：谚：人小～大，坐啊窠儿里做老爹。<sup>\[如皋\]</sup>｜他人小～大，坐啊窠儿里就有人喊爹爹咾。<sup>\[兴化\]</sup>｜你不要望吖他人小，他的～不小。认真序起来你还要喊他舅舅唻。<sup>\[泰州\]</sup>  
 1. 【[职业学校](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_ih_xiah_xio.md#职业学校)】`zheh7 ih8 xiah8 xio6` <sup>[如东]</sup> 实施技术教育的学校。清·光绪三十年（1905年），建立丰利市立师范传习所、双甸市立师范传习所栟茶市立师范传习所。这是如东首次开办技术学校。1981年，建立如东县石甸多种经营技术学校，这是如东县第一所实施中等科学技术教育的学校。  
-1. 【[趾掐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_kaeh.md#趾掐)】`zheh7 kaeh` <sup>[如皋]</sup> 即趾甲。  
 1. 【[趾头拐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_teu_guae_r.md#趾头拐<sub>儿</sub>)】`zheh7 teu guae3 r` <sup>[如皋]</sup> 外凸骨节。  
 1. 【[趾头节<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_teu_jih_r.md#趾头节<sub>儿</sub>)】`zheh7 teu jih7 r` <sup>[如皋]</sup> 脚趾的关节或每一节。  
 1. 【[趾头爪<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_teu_zho_r.md#趾头爪<sub>儿</sub>)】`zheh7 teu zho3 r` <sup>[如皋]</sup> 脚趾。  
@@ -849,15 +848,19 @@
 1. 【[挣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen.md#挣)】`zhen5` <small>/t͡sən5/<sup>兴化</sup>, /t͡səŋ5/<sup>如皋</sup></small> ① 用力使自己摆脱束缚。<sup>\[如东\]</sup> ② 用力往下压，挤<sup>\[如东\]</sup>：大便拉不下来，下劲～。<sup>\[如东\]</sup> ③ 屏息用力：屙不下来，要用力～。<sup>\[如皋\]</sup> ④ 用大力气：工薪阶层要一下子搬出十几万元，真要“拉把的一～”。<sup>\[如皋\]</sup> ⑤ 此处指用力排大便，也指尽力做某事<sup>\[东台\]</sup>：挑不动不要硬～。（古籍作“𠠹”，《集韵》陟甚切，《玉篇》“𠠹，用力也。”）<sup>\[东台\]</sup> ⑥ 使劲<sup>\[兴化\]</sup>：老二费的力气大，把脸都～红了。（兴文《石头星与灯草星》）<sup>\[兴化\]</sup>｜这个上来摇一摇，涨得脸红<sup>\[兴化\]</sup>｜那个上来拔一拔，～得面赤……（《说岳全传》十五）<sup>\[兴化\]</sup> ⑦ 屏气聚起全身力气移动、举起重物<sup>\[泰州\]</sup>：100斤的石头，你举不上去就丢下来，不要～吖伤吖。<sup>\[泰州\]</sup> ⑧ 出恭之时屏气聚力<sup>\[泰州\]</sup>：～吖半天才～吖个屎团儿。<sup>\[泰州\]</sup> ⑨ 集聚所有财力勉强去做某事<sup>\[泰州\]</sup>：他就拿这两个钱，花2000块钱请你俫吃饭，确实是～吖子唻。<sup>\[泰州\]</sup>  
 1. 【[挣钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_qin.md#挣钱)】`zhen5 qin2` <sup>[如东]</sup> 通过劳动而获得资金  
 1. 【[正菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_cae.md#正菜)】`zhen5 cae5` <sup>[如皋]</sup> 见“桌菜”。  
+1. 【[正座](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_cu.md#正座)】`zhen5 cu6` <small>/t͡səŋ5 t͡sʰɤɯ1/<sup>泰兴</sup></small> 所坐的位置位于中间，相对于“旁座”。<sup>\[泰兴\]</sup>  
 1. 【[正当中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_dan_zhon.md#正当中)】`zhen5 dan1 zhon1` <sup>[东台]</sup> 最中间的部位。  
+1. 【[正儿巴经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_er_ba_jien.md#正儿巴经)】`zhen5 er ba jien1` <small>/t͡səŋ5 ɚ pɑ t͡ɕiŋ1/<sup>泰兴</sup></small> 亦说“正儿八经”。正经的，严肃认真的，真正的，确实的。\[泰兴：这批货总是～的，绝无假冒。\]  
 1. 【[正儿八经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_er_baeh_jien.md#正儿八经)】`zhen5 er baeh7 jien1` <sup>[兴化]</sup> 正式地、认真地：他为啊营造严肃气氛，说话的时候总是摆出一副～的样子。  
 1. 【[正果](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_gu.md#正果)】`zhen5 gu3` <sup>[兴化]</sup> ① （借）浪子回头有了好的归宿：这个小伙终于成吖～。 ② 恶性疾病得到确诊：他如今病成～，还是早办前程吧！  
 1. 【[正用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_ion.md#正用)】`zhen5 ion6` <sup>[兴化]</sup> 才能或钱物用于正经方面：他虽有本事，可借才不～。｜“……我指望这五十两银子不是全买靴子穿，我另外有个～哩。”（《火烧赤壁》一）  
 1. 【[正脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_jiah.md#正脚)】`zhen5 jiah7` <small>/t͡sən5 t͡ɕiaʔ7/<sup>兴化</sup></small> 右脚。<sup>\[泰州\]</sup>\[兴化：通常为右脚。\]  
 1. 【[正经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_jien.md#正经)】`zhen5 jien` <sup>[兴化]</sup> 确实、实在：要说喝酒，我～不行。  
+1. 【[正经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_jien.md#正经)】`zhen5 jien` <small>/t͡səŋ5 t͡ɕiŋ/<sup>泰兴</sup></small> 严肃而认真；堂堂正正。\[泰兴：他是个～人，办事从来不肯马虎。\]  
 1. 【[正经人家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_jien_ren_ga.md#正经人家)】`zhen5 jien ren2 ga` <sup>[如皋]</sup> 正派之家。  
 1. 【[正经神道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_jien_shen_to.md#正经神道)】`zhen5 jien shen2 to6` <sup>[如皋]</sup> 喻正派之人、正派之事、正派之理论。正神正道，不是旁门左道。  
 1. 【[正经人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_jien_ren.md#正经人)】`zhen5 jien1 ren2` <sup>[如东]</sup> 正派人。有时也用为贬义：就是她是～。  
+1. 【[正客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_keh.md#正客)】`zhen5 keh7` <small>/t͡səŋ5 kʰəʔ7/<sup>泰兴</sup></small> 主要的宾客。相对于“陪客”。<sup>\[泰兴\]</sup>  
 1. 【[正理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_li.md#正理)】`zhen5 li3` <sup>[如东]</sup> 有道理：他是～。  
 1. 【[正理只一个，歪理十八条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_li_zheh_ieh.md#正理只一个，歪理十八条)】`zhen5 li3 zheh7 ieh7 gu5 vae1 li3 sheh8 baeh7 tio2` <sup>[东台]</sup> 真理只是事物及其规律的客观反映，实践是其唯一的检验标准，而错误的说法可能无限多样。  
 1. 【[正梁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_lian.md#正梁)】`zhen5 lian2` <sup>[如东]</sup> 房屋屋顶上的一架大梁，叫做正梁。  
@@ -869,8 +872,8 @@
 1. 【[正<sub>儿</sub>八经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_r_baeh_jien.md#正<sub>儿</sub>八经)】`zhen5 r baeh7 jien1` <sup>[东台]</sup> 正宗的、一本正经的样子。  
 1. 【[正<sub>儿</sub>八经的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_r_baeh_jien_dii.md#正<sub>儿</sub>八经的)】`zhen5 r baeh7 jien1-3 dii` <sup>[如皋]</sup> 正式的，郑重的。  
 1. 【[正人君子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_ren_jyen_zz.md#正人君子)】`zhen5 ren2 jyen1 zz` <sup>[如东]</sup> 品行端正的人。现多用于讽刺：此人是位～啊，动不得的。  
-1. 【[正日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_rih.md#正日)】`zhen5 rih8` ① 节日当天，或正式办结婚喜庆礼仪的那一天。<sup>\[东台\]</sup> ② 主要日子。旧时诸如结婚、生日等重要家庭喜庆活动，通常要用三天时间，首日下午报到，晚上酒席宴请一顿，称为“上客”，次日主人招待三顿，除早饭用早点外，中、晚酒席宴请，其中晚宴是三天中最主要的一顿，要上大菜，因为各种主要礼仪活动都在本日举行，故称之为“正日”，第三天招待早、中两顿，中饭酒席宴请，客人吃过中饭后离去，称为“打散”，民间谓之“三天六顿”<sup>\[泰州\]</sup>：他家小伙结婚～这天子乡长都过来啊。<sup>\[泰州\]</sup>  
-1. 【[正神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_shen.md#正神)】`zhen5 shen2` <small>/t͡sən5 sən2/<sup>兴化</sup></small> ① （迷信）有益于人或在仙班序列中的神仙<sup>\[兴化\]</sup>：“……此福国庇民之～，陛下当往行香。”（《封神演义》一）<sup>\[兴化\]</sup> ② （借）正经人、正派人<sup>\[兴化\]</sup>\[泰州：一般用于否定句中\]：他偷鸡摸狗的，成不了～。<sup>\[兴化\]</sup>｜这小伙成天在街上鬼转，不是个～，你让他远点儿。<sup>\[泰州\]</sup>｜这个人喜欢搬话，不是甚的～，你要注意。<sup>\[泰州\]</sup>  
+1. 【[正日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_rih.md#正日)】`zhen5 rih8` <small>/t͡səŋ5 iʔ8/<sup>泰兴</sup></small> ① 节日当天，或正式办结婚喜庆礼仪的那一天。<sup>\[东台\]</sup><sup>\[泰兴\]</sup> ② 主要日子。旧时诸如结婚、生日等重要家庭喜庆活动，通常要用三天时间，首日下午报到，晚上酒席宴请一顿，称为“上客”，次日主人招待三顿，除早饭用早点外，中、晚酒席宴请，其中晚宴是三天中最主要的一顿，要上大菜，因为各种主要礼仪活动都在本日举行，故称之为“正日”，第三天招待早、中两顿，中饭酒席宴请，客人吃过中饭后离去，称为“打散”，民间谓之“三天六顿”<sup>\[泰州\]</sup>：他家小伙结婚～这天子乡长都过来啊。<sup>\[泰州\]</sup>  
+1. 【[正神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_shen.md#正神)】`zhen5 shen2` <small>/t͡sən5 sən2/<sup>兴化</sup>, /t͡səŋ5 səŋ2/<sup>泰兴</sup></small> ① （迷信）有益于人或在仙班序列中的神仙<sup>\[兴化\]</sup>：“……此福国庇民之～，陛下当往行香。”（《封神演义》一）<sup>\[兴化\]</sup> ② （借）正经人、正派人<sup>\[兴化\]</sup>\[泰州：一般用于否定句中\]：他偷鸡摸狗的，成不了～。<sup>\[兴化\]</sup>｜这小伙成天在街上鬼转，不是个～，你让他远点儿。<sup>\[泰州\]</sup>｜这个人喜欢搬话，不是甚的～，你要注意。<sup>\[泰州\]</sup> ③ 正道之神。乡人常加否定语用以责怪他人。<sup>\[泰兴\]</sup>：他不是个～<sup>\[泰兴\]</sup>  
 1. 【[正手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_sheu.md#正手)】`zhen5 sheu3` <small>/t͡sən5 sɤ3/<sup>兴化</sup></small> ① 右手 ② 右手。<sup>\[如东\]</sup><sup>\[泰州\]</sup> ③ 用手掌出击。<sup>\[如东\]</sup>：用～打。<sup>\[如东\]</sup> ④ 拿筷子、握笔的那一只手，通常为右手。<sup>\[兴化\]</sup>  
 1. 【[正午时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_v_shr.md#正午时)】`zhen5 v3 shr2` <sup>[如皋]</sup> 白天十二点正。  
 1. 【[正孝子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_xio_zz.md#正孝子)】`zhen5 xio5 zz` <sup>[如东]</sup> 长子或长女为正孝子。  

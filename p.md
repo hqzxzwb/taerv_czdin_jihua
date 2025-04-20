@@ -13,7 +13,6 @@
 1. 【[𤆵猪头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_zhv_teu.md#𤆵猪头)】`pa1 zhv1 teu2` <sup>[如皋]</sup> ① 大汤久煮整猪头至烂，择骨，加酱油、冰糖、五香及一应作料焖烂装盘。 ② 趣指打呼噜。  
 1. 【[妑妑角<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_pa_gah_r.md#妑妑角<sub>儿</sub>)】`pa2 pa2 gah7 r` <small>/pʰa2 pʰa2 ka˞7/<sup>如皋</sup></small> ① 见“梳角子”。<sup>\[如皋\]</sup> ② 女童发式。头顶两侧各梳一髻。见“梳角子”。<sup>\[如皋\]</sup>  
 1. 【[扒饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_faen.md#扒饭)】`pa2 faen6` <small>/pʰa2 fɛ̃6/<sup>兴化</sup>, /pʰa2 fẽ1/<sup>如皋</sup></small> ① 吃饭的动作 ② 下唇贴碗，用筷子、勺儿等向自己口中拨饭。<sup>\[如皋\]</sup> ③ 用筷子把饭拨到嘴里<sup>\[兴化\]</sup>：他老～，也不吃菜。<sup>\[兴化\]</sup>  
-1. 【[扒灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_huei.md#扒灰)】`pa2 huei1` <small>/pʰa2 xuəi1/<sup>兴化</sup></small> ① 俗指公公与儿媳通奸，现在称娶了儿媳的男子是个～佬儿，多为玩笑取乐的话。<sup>\[东台\]</sup> ② 指公媳关系暧昧。李复元《常谈丛录》卷八<sup>\[兴化\]</sup>：“俗以淫于子妇者为～。盖为污媳之隐语。膝媳同音，扒行灰上，则膝污也。”<sup>\[兴化\]</sup>  
 1. 【[扒灰公公](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_huei_gon_gon.md#扒灰公公)】`pa2 huei1 gon1 gon` <sup>[兴化]</sup> 乡邻亲友对初为公公者戏称：看来乡人对～大有欢笑戏谑之意。提起这来，男女老少皆喜乐。（马春阳《扬州水乡婚俗散记》）  
 1. 【[扒灰佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_huei_lo_r.md#扒灰佬<sub>儿</sub>)】`pa2 huei1 lo3 r` <sup>[如东]</sup> 工具。一头为方形木块，有柄。用于搅扒炉膛里的灰烬。公公与媳妇有奸，称公公为扒灰佬儿。  
 1. 【[扒灰老头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_huei_lo_teu.md#扒灰老头)】`pa2 huei1 lo3 teu2` <sup>[兴化]</sup> 见“扒灰公公”。  
@@ -24,6 +23,7 @@
 1. 【[扒网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_van.md#扒网)】`pa2 van3` <sup>[如皋]</sup> 头部有箕形架的小网，装长竹柄，人在岸边抛网，拉捕小鱼虾。  
 1. 【[扒鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_y.md#扒鱼)】`pa2 y2` <sup>[如皋]</sup> 将扒网抛向河心，握住长柄向岸边拉，可捕小鱼、小虾。  
 1. 【[掱<sub>儿</sub>手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_r_sheu.md#掱<sub>儿</sub>手)】`pa2 r sheu3` <sup>[如东]</sup> 小偷。也叫三只手。  
+1. 【[掱<sub>儿</sub>手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_r_sheu.md#掱<sub>儿</sub>手)】`pa2 r sheu3` <small>/pʰɑ˞2 ɕiɤɯ3/<sup>泰兴</sup></small> 也称“扒手”。从别人身上摸取财物的小偷。<sup>\[泰兴\]</sup>  
 1. 【[掱手/爬手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_sheu.md#掱手/爬手)】`pa2 sheu3` 俗称剪绺，剪开他人衣带以窃取钱财者<sup>\[泰州\]</sup>：皮夹子在火车站捱～摸咖走啊。<sup>\[泰州\]</sup>  
 1. 【[爬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa.md#爬)】`pa2` ① 爬 ② 用手支撑身体站起<sup>\[泰州\]</sup>：腿子跌咖受啊伤，～不起来唻。<sup>\[泰州\]</sup>  
 1. 【[爬到戥盘上称称](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_do_den_pun_shan_chen_chen.md#爬到戥盘上称称)】`pa2 do5 den3 pun2 shan chen1 chen` <sup>[东台]</sup> 嘲讽有人不自量力，也提醒人要有自知之明。  
@@ -46,7 +46,7 @@
 1. 【[爬藤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_ten.md#爬藤)】`pa2 ten2` <small>/pʰa2 tʰəŋ2/<sup>如皋</sup></small> ① 藤蔓生长铺展。<sup>\[如皋\]</sup> ② 藤蔓生长铺展。<sup>\[如东\]</sup>  
 1. 【[牌头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_teu.md#牌头)】`pa2 teu` <sup>[如皋]</sup> 指后台，靠山。源于吴语。  
 1. 【[筢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa.md#筢)】`pa2` <small>/pʰɑ2/<sup>泰兴</sup></small> ① 筢取，rake，使物体聚拢，通常写作“耙，扒” ② 使物体聚拢，俗作“扒”。<sup>\[泰兴\]</sup>：～饭。<sup>\[泰兴\]</sup>｜吃饭三～两咽。<sup>\[泰兴\]</sup>  
-1. 【[筢灰/扒灰/爬灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_huei.md#筢灰/扒灰/爬灰)】`pa2 huei1` 公公和儿媳乱伦的行为。<sup>\[泰州\]</sup>  
+1. 【[筢灰/扒灰/爬灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_huei.md#筢灰/扒灰/爬灰)】`pa2 huei1` <small>/pʰa2 xuəi1/<sup>兴化</sup>, /pʰɑ2 xuəɪ1/<sup>泰兴</sup></small> 俗指公公与儿媳通奸<sup>\[泰州\]</sup><sup>\[泰兴\]</sup>\[兴化：指公媳关系暧昧。\]\[东台：现在称娶了儿媳的男子是个～佬儿，多为玩笑取乐的话。\]：说～是福份，真～是畜牲。（戏语）<sup>\[泰兴\]</sup>  
 1. 【[耙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa.md#耙)】`pa2` <small>/pʰa2/<sup>如皋</sup></small> ① 牛拉碎土器。矩形木架下有双排铁齿。<sup>\[如皋\]</sup> ② 用耙碎土<sup>\[如皋\]</sup>：～田。<sup>\[如皋\]</sup> ③ 比喻打击报复<sup>\[如皋\]</sup>：耕，耕不到，～也要～到。<sup>\[如皋\]</sup> ④ 农具。木制，长方形，长4尺，宽2尺5寸，下面有18个齿。用来碎土或平地。<sup>\[如东\]</sup> ⑤ 齿耙，一种手工农具。<sup>\[东台\]</sup>  
 1. 【[耙耳头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_er_teu.md#耙耳头)】`pa2 er3 teu` <sup>[兴化]</sup> 掏耳朵。  
 1. 【[耙<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_r.md#耙<sub>儿</sub>)】`pa2 r` <small>/pʰa˞2/<sup>如皋</sup></small> ① 无齿的耙子<sup>\[如皋\]</sup>：萝卜～、屎～、耳～。<sup>\[如皋\]</sup> ② 长柄，有八根短齿的木耙子，供梳理表层土和翻晒粮食用。<sup>\[如皋\]</sup> ③ 八齿钉耙，铁制，有长柄。<sup>\[如皋\]</sup>  
@@ -547,13 +547,12 @@
 1. 【[姘头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_teu.md#姘头)】`pien1 teu2` <sup>[如东]</sup> 非夫妇关系而发生性行为的男女，叫姘头。  
 1. 【[拼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien.md#拼)】`pien1` <sup>[泰州]</sup> 多人合在一起对付一人：你俫三个～他一个，也～不过他。  
 1. 【[拼斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_deu.md#拼斗)】`pien1 deu5` <sup>[兴化]</sup> 把零碎的或分散的东西凑合在一起：她把许多小手绢～成一条短裤头。｜他想把散板的澡桶～起来。  
-1. 【[拼命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_mien.md#拼命)】`pien1 mien6` <sup>[如东]</sup> 不顾生命：他～工作。  
 1. 【[拼盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_pun.md#拼盘)】`pien1 pun2` ① 由几种菜拼起来的一盘菜。<sup>\[如东\]</sup> ② 用十种以上的凉莱摆在一个盘子里拼成一定的花色<sup>\[东台\]</sup>：看这桌上摆的～，盛情得很。<sup>\[东台\]</sup>  
 1. 【[拼市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_shr.md#拼市)】`pien1 shr6` 商家打价格战，一般是竞相降价以吸引顾客。<sup>\[泰州\]</sup>  
 1. 【[拼头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_teu.md#拼头)】`pien1 teu` <sup>[兴化]</sup> 商量：我有件事跟你～～。  
 1. 【[拼头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_teu.md#拼头)】`pien1 teu2` 找几个知己朋友来认真商量<sup>\[泰州\]</sup>：我同几个朋友～过唻，他要是不答应我的条件就打官司。<sup>\[泰州\]</sup>  
 1. 【[平扒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_ba.md#平扒)】`pien2 ba1` <sup>[如皋]</sup> 平均分摊：这次出差由你管钱，回头家来～。  
-1. 【[平班](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_baen.md#平班)】`pien2 baen1` <small>/pʰiɪ̃2 pɛ̃1/<sup>兴化</sup>, /pʰiəŋ2 pẽ1/<sup>如皋</sup></small> 平辈，同辈。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>\[东台：也称平辈\]：他俫两个人～<sup>\[东台\]</sup>｜表哥表弟都是～人。<sup>\[东台\]</sup>｜他俫虽然说相差二十岁，实际是～。<sup>\[兴化\]</sup>｜你俫都是王老师的研究生，是～。<sup>\[泰州\]</sup>  
+1. 【[平班](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_baen.md#平班)】`pien2 baen1` <small>/pʰiɪ̃2 pɛ̃1/<sup>兴化</sup>, /pʰiəŋ2 pẽ1/<sup>如皋</sup>, /pʰiŋ2 pɛ̃1/<sup>泰兴</sup></small> 平辈，同辈。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>\[东台：也称平辈\]：他俫两个人～<sup>\[东台\]</sup>｜表哥表弟都是～人。<sup>\[东台\]</sup>｜他俫虽然说相差二十岁，实际是～。<sup>\[兴化\]</sup>｜你俫都是王老师的研究生，是～。<sup>\[泰州\]</sup>  
 1. 【[平班对口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_baen_duei_keu.md#平班对口)】`pien2 baen1 duei5 keu3` <sup>[兴化]</sup> ① 平辈的人。 ② 相互平等的：夫妻是～的，谁也别想欺负谁。  
 1. 【[平板车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_baen_cha.md#平板车)】`pien2 baen3 cha1` <sup>[如东]</sup> 一种木制独轮小推车，车身为一长条状平面。  
 1. 【[平辈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_bei.md#平辈)】`pien2 bei5` <sup>[如东]</sup> 在血缘或宗族关系上属于同一辈分的人，称平辈。也称同辈。  
@@ -562,17 +561,19 @@
 1. 【[平车<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_cha_r.md#平车<sub>儿</sub>)】`pien2 cha1 r` <sup>[如皋]</sup> 见“平平车儿”。  
 1. 【[平扯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_cha.md#平扯)】`pien2 cha3` <small>/pʰiəŋ2 t͡sʰa3/<sup>如皋</sup></small> ① 见“缠扯”❷。<sup>\[如皋\]</sup> ② 通扯。<sup>\[如皋\]</sup> ③ 平均分配。<sup>\[如东\]</sup>：大家～。<sup>\[如东\]</sup>  
 1. 【[平常](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_chan.md#平常)】`pien2 chan2` <sup>[如东]</sup> 普通，不突出。平时：～就是这吖。  
+1. 【[平常三四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_chan_saen_sz.md#平常三四)】`pien2 chan2 saen1 sz5` <small>/pʰiŋ2 t͡sʰɑŋ2 ɕiɛ̃1 sɿ5/<sup>泰兴</sup></small> 平时，平常的时候。<sup>\[泰兴\]</sup>  
 1. 【[平常无事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_chan_v_shr.md#平常无事)】`pien2 chan2 v2 shr6` <small>/pʰiɪ̃2 t͡sʰaŋ2 u2 sɿ6/<sup>兴化</sup></small> ① 平时、在一般情况下<sup>\[兴化\]</sup>：～他连脚影也不来显下子，一旦有事成天盯吖你。<sup>\[兴化\]</sup>｜“……这都是～的话。万一要有甚么伤风外感，那不更费手脚么……”（《二十年目睹之怪现状》七十）<sup>\[兴化\]</sup> ② 平时没有重要事情之时<sup>\[泰州\]</sup>：他～的时候就在家里练练书法。<sup>\[泰州\]</sup>  
 1. 【[平底鞋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_di_hae.md#平底鞋)】`pien2 di3 hae2` <sup>[如东]</sup> 后跟与前掌一样平的鞋，称平底鞋。  
 1. 【[平顶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_dien.md#平顶)】`pien2 dien3` <small>/pʰiəŋ2 tiəŋ3/<sup>如皋</sup></small> ① 顶髮短而平的男髮式。<sup>\[如皋\]</sup> ② 物体顶端呈水平状，称平顶。房屋屋顶呈水平状，称平顶。人的头发短而平，称平顶。<sup>\[如东\]</sup>  
 1. 【[平顶头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_dien_teu.md#平顶头)】`pien2 dien3 teu2` <sup>[兴化]</sup> 一种发式，即平头：他是个大高个子，～。  
-1. 【[平房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_fan.md#平房)】`pien2 fan2` ① 一层的房屋。<sup>\[如东\]</sup> ② 只有一层的房子（区别于楼房）。<sup>\[东台\]</sup>  
-1. 【[平伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_foh.md#平伏)】`pien2 foh8` <small>/pʰiɪ̃2 fɔʔ8/<sup>兴化</sup>, /pʰiəŋ2 fɔʔ8/<sup>如皋</sup></small> ① 平静，转为平静：才进医院的刻儿蛮咆躁的，这刻儿～咖。<sup>\[如皋\]</sup> ② 服气<sup>\[兴化\]</sup>：做事公平，人心才～吤！<sup>\[兴化\]</sup> ③ 平静<sup>\[兴化\]</sup>：她被击倒了，躺在床上，悲切之后，器儿的心开始～下来。（钱国怀《摆渡的女人》）<sup>\[兴化\]</sup> ④ 布、纸等加压或熨烫后平展。<sup>\[兴化\]</sup>  
-1. 【[平服/平伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_foh.md#平服/平伏)】`pien2 foh8` ① 地面平整<sup>\[泰州\]</sup>：这块地～的，稍微整吖子就能用唻。<sup>\[泰州\]</sup> ② 呼吸平稳<sup>\[泰州\]</sup>：一针打下去，她这刻儿呼吸～咖唻。<sup>\[泰州\]</sup> ③ 事情平息<sup>\[泰州\]</sup>：这件事现在还不曾算了解，怕的还要过到些时，才能慢慢～。<sup>\[泰州\]</sup>  
+1. 【[平房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_fan.md#平房)】`pien2 fan2` <small>/pʰiŋ2 fɑŋ2/<sup>泰兴</sup></small> ① 一层的房屋。<sup>\[如东\]</sup> ② 只有一层的房子（区别于楼房）。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
+1. 【[平服/平伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_foh.md#平服/平伏)】`pien2 foh8` <small>/pʰiɪ̃2 fɔʔ8/<sup>兴化</sup>, /pʰiəŋ2 fɔʔ8/<sup>如皋</sup>, /pʰiŋ2 fɔʔ8/<sup>泰兴</sup></small> ① 平静，转为平静<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup><sup>\[泰州\]</sup>：才进医院的刻儿蛮咆躁的，这刻儿～咖。<sup>\[如皋\]</sup>｜她被击倒了，躺在床上，悲切之后，器儿的心开始～下来。（钱国怀《摆渡的女人》）<sup>\[兴化\]</sup>｜这件事现在还不曾算了解，怕的还要过到些时，才能慢慢～/平息<sup>\[泰州\]</sup>｜一针打下去，她这刻儿呼吸～咖唻/平稳<sup>\[泰州\]</sup> ② 服气<sup>\[兴化\]</sup>：做事公平，人心才～吤！<sup>\[兴化\]</sup> ③ 布、纸等加压或熨烫后平展。<sup>\[兴化\]</sup> ④ 平整<sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：这块地～的，稍微整吖子就能用唻。<sup>\[泰州\]</sup>  
 1. 【[平风息浪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_fon_xieh_lan.md#平风息浪)】`pien2 fon1 xieh7 lan6` <sup>[兴化]</sup> 形容风停浪静：台风一过，外头～的。  
+1. 【[平风息浪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_fon_xieh_lan.md#平风息浪)】`pien2 fon1 xieh7 lan6` <small>/pʰiŋ2 fɔŋ1 ɕiʔ7 lɑŋ1/<sup>泰兴</sup></small> 风平浪静，多喻平安无事。<sup>\[泰兴\]</sup>  
 1. 【[平菇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_gv.md#平菇)】`pien2 gv1` <sup>[兴化]</sup> 一种蕈类，伞状。市场出售的多为人工培植，供食用。  
 1. 【[平和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_hu.md#平和)】`pien2 hu2` <sup>[兴化]</sup> 纠纷平息，气氛缓和：一帮人在市场打群架，110的人来啊才～下来。  
 1. 【[平阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_ian.md#平阳)】`pien2 ian2` <sup>[兴化]</sup> 平展空旷之地：下西坡，乃是一段～之地。（《西游记》五六）｜谚曰：龙游浅水遭虾戏，虎落～受犬欺。  
+1. 【[平阳之地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_ian_zhr_ti.md#平阳之地)】`pien2 ian2 zhr1 ti6` <small>/pʰiŋ2 iɑŋ2 t͡sɿ1 t͡ɕʰʝ1/<sup>泰兴</sup></small> 地势平整的开阔地。<sup>\[泰兴\]</sup>：龙游浅水遭虾戏，虎落平阳受犬欺。<sup>\[泰兴\]</sup>  
 1. 【[平机](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_ji.md#平机)】`pien2 ji1` <sup>[如东]</sup> 帆船上覆盖舱口的一块长方形木板。  
 1. 【[平脚板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_jiah_baen.md#平脚板)】`pien2 jiah7 baen3` <sup>[兴化]</sup> 指足弓偏低或塌陷，脚心逐渐变成扁平的脚，即“扁平足”。  
 1. 【[平南](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_nun.md#平南)】`pien2 nun2` <sup>[如东]</sup> 在南方：太阳～。  
@@ -580,9 +581,11 @@
 1. 【[平平泛泛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_pien_faen_faen.md#平平泛泛)】`pien2 pien2 faen5 faen5` <sup>[兴化]</sup> 平常、一般：有些明星吹得凶，他俫的演出其实也一。｜“某旧时读书，专要拣好处看，看到～处，多阔略。”（《朱子语类辑略》卷五）  
 1. 【[平白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_poh.md#平白)】`pien2 poh8` <sup>[如东]</sup> 没有任何关系：～无故。  
 1. 【[平白无辜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_poh_v_gv.md#平白无辜)】`pien2 poh8 v2 gv1` <sup>[如皋]</sup> ① 无辜：他～的捱人家欺，叫人不服气！ ② 无理由无借口：我～的去寻他，怎吖好开口啷？  
-1. 【[平起平坐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_qi_pien_cu.md#平起平坐)】`pien2 qi3 pien2 cu6` ① 比喻彼此地位或权力相等。<sup>\[如东\]</sup> ② 中国传统礼仪之一，入座之时，辈分、地位平等之人，可以同时起身或者同时坐下。而晚辈以及位卑之人在入座时，须等长者、尊者坐下以后方可坐下，在离座时须等长者、尊者起身以后方可起身。<sup>\[泰州\]</sup> ③ 指双方地位或者权力相等<sup>\[泰州\]</sup>：老周是局长，老吴是书记，他俫两个人在局里～，你这个当处长的，一个都不能得罪！<sup>\[泰州\]</sup>｜你家这哿副局长不上规矩，他以为也喊他局长，就同一把手局长～唻！<sup>\[泰州\]</sup>  
+1. 【[平起平坐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_qi_pien_cu.md#平起平坐)】`pien2 qi3 pien2 cu6` <small>/pʰiŋ2 t͡ɕʰʝ3 pʰiŋ2 t͡sʰɤɯ1/<sup>泰兴</sup></small> ① 比喻彼此地位或权力相等。<sup>\[如东\]</sup> ② 中国传统礼仪之一，入座之时，辈分、地位平等之人，可以同时起身或者同时坐下。而晚辈以及位卑之人在入座时，须等长者、尊者坐下以后方可坐下，在离座时须等长者、尊者起身以后方可起身。<sup>\[泰州\]</sup> ③ 指双方地位或者权力相等<sup>\[泰州\]</sup>：老周是局长，老吴是书记，他俫两个人在局里～，你这个当处长的，一个都不能得罪！<sup>\[泰州\]</sup>｜你家这哿副局长不上规矩，他以为也喊他局长，就同一把手局长～唻！<sup>\[泰州\]</sup> ④ 比喻地位或权力、辈分相等。<sup>\[泰兴\]</sup>  
 1. 【[平手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_sheu.md#平手)】`pien2 sheu3` <sup>[东台]</sup> 不分高下的比赛结果：两队打成吖～。  
+1. 【[平手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_sheu.md#平手)】`pien2 sheu3` <small>/pʰiŋ2 ɕiɤɯ3/<sup>泰兴</sup></small> 在相互竞赛（竞争）中不分胜负。<sup>\[泰兴\]</sup>  
 1. 【[平时不烧香，临死抱佛脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_shr_beh_sho_xian_lien_sz_po_feh_jiah.md#平时不烧香，临死抱佛脚)】`pien2 shr2 beh7 sho1 xian1 lien2 sz3 po6 feh8 jiah7` <sup>[东台]</sup> ［喻］平时不努力，事到临头再怎么折腾也无济于事：大家要把功夫用在经常性的操作上，不要～。  
+1. 【[平时不烧香，临死抱佛脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_shr_beh_sho_xian_lien_sz_po_feh_jiah.md#平时不烧香，临死抱佛脚)】`pien2 shr2 beh7 sho1 xian1 lien2 sz3 po6 feh8 jiah7` <small>/pʰiŋ2 sɿ2 pəʔ7 sɔ1 ɕiɑŋ1 liŋ2 sɿ3 pʰɔ1 fəʔ8 t͡ɕiɑʔ7/<sup>泰兴</sup></small> 谓平日不早作准备或努力，到事情紧急时才匆忙设法解决（某个问题）。<sup>\[泰兴\]</sup>  
 1. 【[平素](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_sv.md#平素)】`pien2 sv5` <sup>[兴化]</sup> 平时、向来：他～儿蛮讲信用的。｜“……就是衣服一层，～总不肯穿一件绸衣……”（《二十年目睹之怪现状》七四）  
 1. 【[平摊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_taen.md#平摊)】`pien2 taen1` <sup>[如皋]</sup> 平均分摊。  
 1. 【[平堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_tan.md#平堂)】`pien2 tan2` <sup>[如东]</sup> 物体表面平滑：这条路～。  
@@ -1196,7 +1199,7 @@
 1. 【[拚得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_deh.md#拚得)】`pun1-paen6 deh` <sup>[兴化]</sup> 不惜一切地去做：～倾家荡产，跟他把这场官司打到底。｜你～死，我～埋！  
 1. 【[拚得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_deh.md#拚得)】`pun1 deh` <small>/pʰʊ̃1 təʔ/<sup>如皋</sup></small> ① 豁出去<sup>\[如皋\]</sup>：你～，我舍得。<sup>\[如皋\]</sup> ② 另见“确备”。<sup>\[如皋\]</sup> ③ 舍得。<sup>\[如东\]</sup>：花这吖多钱，他～。<sup>\[如东\]</sup>  
 1. 【[拚得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_deh.md#拚得)】`pun1 deh7` <sup>[东台]</sup> 舍得：你舍得我～｜这小伙～做/这小伙干活肯卖力  
-1. 【[拚命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_mien.md#拚命)】`pun1 mien6` ① 不顾一切，哪怕搭上性命<sup>\[东台\]</sup>：今吖你不把东西交出来，我同你～。<sup>\[东台\]</sup> ② （本作拌命）<sup>\[泰州\]</sup> ③ 豁出性命，不惜舍弃生命<sup>\[泰州\]</sup>：你只要碰吖她家孙子，她就同你～。<sup>\[泰州\]</sup>  
+1. 【[拚命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_mien.md#拚命)】`pun1 mien6` ① 不顾一切，哪怕搭上性命<sup>\[东台\]</sup>：今吖你不把东西交出来，我同你～。<sup>\[东台\]</sup> ② 豁出性命，不惜舍弃生命<sup>\[泰州\]</sup>：你只要碰吖她家孙子，她就同你～。<sup>\[泰州\]</sup> ③ 不顾生命。<sup>\[如东\]</sup>  
 1. 【[拚死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_sz.md#拚死)】`pun1 sz3` <small>/pʰɛ̃1 sɿ3/<sup>泰县</sup></small> 哪怕死也不顾。<sup>\[东台\]</sup><sup>\[泰县\]</sup>：～吃河豚。河豚营养价值高，但内脏与血液含毒素，如洗不干净，食后可危及生命。<sup>\[东台\]</sup>｜～吃河豚。<sup>\[泰县\]</sup>  
 1. 【[拚死吃河豚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_sz_qieh_hu_ten.md#拚死吃河豚)】`pun1 sz3 qieh7 hu2 ten2` <small>/pʰɛ̃6 sɿ3 t͡ɕʰiəʔ7 xo2 tʰən2/<sup>兴化</sup>, /pʰʊ̃1 sɿ3 t͡ɕʰiəʔ7 xʊ2 təŋ1/<sup>如皋</sup>, /pʰõ1 sɿ3 t͡ɕʰiəʔ7 xo2 tʰəŋ2/<sup>泰县</sup></small> 为获得收益，甘冒风险<sup>\[泰县\]</sup>\[东台：冒着风险追求享受。\]\[如皋：决心强，不惜代价\]\[兴化：（喻）受利益驱动去冒险\]：他明知走私犯法，为啊赚大钱，～。<sup>\[兴化\]</sup>｜这次大家～，一定把厂办起来。<sup>\[如皋\]</sup>  
 1. 【[潘泾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_jien.md#潘泾)】`pun1 jien1` <sup>[如皋]</sup> 古水名，注入牟尼湖。久湮。时水侧有市，名～。后衍为搬经，今镇名。然读音仍为～。  

@@ -427,7 +427,6 @@
 1. 【[𤆵猪头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_zhv_teu.md#𤆵猪头)】`pa1 zhv1 teu2` <sup>[如皋]</sup> ① 大汤久煮整猪头至烂，择骨，加酱油、冰糖、五香及一应作料焖烂装盘。 ② 趣指打呼噜。  
 1. 【[妑妑角<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_pa_gah_r.md#妑妑角<sub>儿</sub>)】`pa2 pa2 gah7 r` <small>/pʰa2 pʰa2 ka˞7/<sup>如皋</sup></small> ① 见“梳角子”。<sup>\[如皋\]</sup> ② 女童发式。头顶两侧各梳一髻。见“梳角子”。<sup>\[如皋\]</sup>  
 1. 【[扒饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_faen.md#扒饭)】`pa2 faen6` <small>/pʰa2 fɛ̃6/<sup>兴化</sup>, /pʰa2 fẽ1/<sup>如皋</sup></small> ① 吃饭的动作 ② 下唇贴碗，用筷子、勺儿等向自己口中拨饭。<sup>\[如皋\]</sup> ③ 用筷子把饭拨到嘴里<sup>\[兴化\]</sup>：他老～，也不吃菜。<sup>\[兴化\]</sup>  
-1. 【[扒灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_huei.md#扒灰)】`pa2 huei1` <small>/pʰa2 xuəi1/<sup>兴化</sup></small> ① 俗指公公与儿媳通奸，现在称娶了儿媳的男子是个～佬儿，多为玩笑取乐的话。<sup>\[东台\]</sup> ② 指公媳关系暧昧。李复元《常谈丛录》卷八<sup>\[兴化\]</sup>：“俗以淫于子妇者为～。盖为污媳之隐语。膝媳同音，扒行灰上，则膝污也。”<sup>\[兴化\]</sup>  
 1. 【[扒灰公公](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_huei_gon_gon.md#扒灰公公)】`pa2 huei1 gon1 gon` <sup>[兴化]</sup> 乡邻亲友对初为公公者戏称：看来乡人对～大有欢笑戏谑之意。提起这来，男女老少皆喜乐。（马春阳《扬州水乡婚俗散记》）  
 1. 【[扒灰佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_huei_lo_r.md#扒灰佬<sub>儿</sub>)】`pa2 huei1 lo3 r` <sup>[如东]</sup> 工具。一头为方形木块，有柄。用于搅扒炉膛里的灰烬。公公与媳妇有奸，称公公为扒灰佬儿。  
 1. 【[扒灰老头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_huei_lo_teu.md#扒灰老头)】`pa2 huei1 lo3 teu2` <sup>[兴化]</sup> 见“扒灰公公”。  
@@ -438,6 +437,7 @@
 1. 【[扒网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_van.md#扒网)】`pa2 van3` <sup>[如皋]</sup> 头部有箕形架的小网，装长竹柄，人在岸边抛网，拉捕小鱼虾。  
 1. 【[扒鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_y.md#扒鱼)】`pa2 y2` <sup>[如皋]</sup> 将扒网抛向河心，握住长柄向岸边拉，可捕小鱼、小虾。  
 1. 【[掱<sub>儿</sub>手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_r_sheu.md#掱<sub>儿</sub>手)】`pa2 r sheu3` <sup>[如东]</sup> 小偷。也叫三只手。  
+1. 【[掱<sub>儿</sub>手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_r_sheu.md#掱<sub>儿</sub>手)】`pa2 r sheu3` <small>/pʰɑ˞2 ɕiɤɯ3/<sup>泰兴</sup></small> 也称“扒手”。从别人身上摸取财物的小偷。<sup>\[泰兴\]</sup>  
 1. 【[掱手/爬手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_sheu.md#掱手/爬手)】`pa2 sheu3` 俗称剪绺，剪开他人衣带以窃取钱财者<sup>\[泰州\]</sup>：皮夹子在火车站捱～摸咖走啊。<sup>\[泰州\]</sup>  
 1. 【[爬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa.md#爬)】`pa2` ① 爬 ② 用手支撑身体站起<sup>\[泰州\]</sup>：腿子跌咖受啊伤，～不起来唻。<sup>\[泰州\]</sup>  
 1. 【[爬到戥盘上称称](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_do_den_pun_shan_chen_chen.md#爬到戥盘上称称)】`pa2 do5 den3 pun2 shan chen1 chen` <sup>[东台]</sup> 嘲讽有人不自量力，也提醒人要有自知之明。  

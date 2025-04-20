@@ -70,6 +70,8 @@
 1. 【[让身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ran_shen.md#让身)】`ran6 shen1` <small>/ɻã1 səŋ1/<sup>如皋</sup></small> ① 让开、避开：他捱人家缠住啊不得～。<sup>\[如皋\]</sup> ② 身体在原来的地方让开留出后退的去路。<sup>\[如东\]</sup>：要有～。<sup>\[如东\]</sup>  
 1. 【[让他遇别人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ran_ta_y_pih_ren.md#让他遇别人)】`ran6 ta1 y6 pih8 ren` <sup>[如皋]</sup> 冷眼相看。  
 1. 【[让疼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ran_ten.md#让疼)】`ran6 ten2` <sup>[如皋]</sup> ① 因疼而下意识地让动或取保护性姿势，动作。 ② 喻忍辱屈服。  
+1. 【[入碰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_bon.md#入碰)】`reh8 bon5` <small>/ɻəʔ8 pɔŋ5/<sup>泰兴</sup></small> 办事毫无头绪，胡乱行动碰运气。<sup>\[泰兴\]</sup>  
+1. 【[入碰𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_bon_son.md#入碰𪨊)】`reh8 bon5 son2` <small>/ɻəʔ8 pɔŋ5 sɔŋ2/<sup>泰兴</sup></small> 同“入碰”。<sup>\[泰兴\]</sup>：箇桩事叫他去办肯定是～，办不好的。<sup>\[泰兴\]</sup>  
 1. 【[入大糊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_da_hv.md#入大糊)】`reh8 da6 hv6` <sup>[如东]</sup> ① 马马虎虎，糊糊涂涂：不要～ ② 比喻办事糊涂的人：他是个～。  
 1. 【[入耳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_er.md#入耳)】`reh8 er3` <sup>[泰兴]</sup> 悦耳，中听：他的箇些话，我是越听越不～。  
 1. 【[入伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_foh.md#入伏)】`reh8 foh8` <sup>[东台]</sup> 进入伏天（暑热夏天）。  
