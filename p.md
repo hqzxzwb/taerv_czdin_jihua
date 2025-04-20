@@ -1058,7 +1058,6 @@
 1. 【[捧牛屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_ngeu_pi_gu.md#捧牛屁股)】`pon3 ngeu2 pi5 gu` <small>/pʰoŋ3 ɤ2 pʰi5 ko/<sup>兴化</sup></small> ① 耕田人的谦称或贱称。<sup>\[东台\]</sup> ② 旧时对农民的鄙称<sup>\[兴化\]</sup>：“你是七品父母官，老～未免太可惜啦！”（马相阳《白发青丝好夫妇》）<sup>\[兴化\]</sup> ③ 在牛的后面捧着牛的屁股，喻指从事农业劳动，内涵鄙视农业劳动之意。旧时农民用牛打场之时，发现牛要拉屎，为防弄脏庄稼，会用稻草在牛屁股下接牛屎，姿势就像捧着牛的屁股一样，故名<sup>\[泰州\]</sup>：他家家里祖上三代都是～的。<sup>\[泰州\]</sup>  
 1. 【[捧铺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_pv.md#捧铺)】`pon3 pv5` <sup>[如皋]</sup> 把铺捧出去晒。  
 1. 【[捧人家碗，受人家管](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_ren_ga_un_sheu_ren_ga_gun.md#捧人家碗，受人家管)】`pon3 ren2 ga un3 sheu6 ren2 ga gun3` <sup>[东台]</sup> 在哪里谋生，就得受那里主人管理。  
-1. 【[捧手爪<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_sheu_zho_r.md#捧手爪<sub>儿</sub>)】`pon3 sheu3 zho3 r` <sup>[如东]</sup> 两手捧在一起，表示懒惰，不做事：这个人一天到晚～。  
 1. 【[捧头贴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_teu_tih_r.md#捧头贴<sub>儿</sub>)】`pon3 teu2 tih7 r` <sup>[泰县]</sup> （禁忌语）看书。  
 1. 【[捧小茶壶<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_xio_cha_hv_r.md#捧小茶壶<sub>儿</sub>)】`pon3 xio3 cha2 hv2 r` <sup>[泰县]</sup> 游手好闲：他是个～的人。  
 1. 【[捧孝顺本子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_xio_shuen_ben_zz.md#捧孝顺本子)】`pon3 xio5 shuen ben3 zz` <sup>[东台]</sup> 一个人失势后，其故友趁机将他的问题，向上举报，以示划清界限。  
@@ -1187,8 +1186,8 @@
 1. 【[泼水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh_shuei.md#泼水)】`puh7 shuei3` <sup>[如东]</sup> 将水使劲倒出去。一种婚俗。晚上，女儿出嫁前，将洗脸水泼在花轿前表示到婆家以后不再想娘家。  
 1. 【[泼趖趖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh_su_su.md#泼趖趖)】`puh7 su1 su1` <sup>[如皋]</sup> 恶狠狠的快速的走路：这个泼妇，～的去同人家打架。  
 1. 【[泼天撒地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh_tin_saeh_ti.md#泼天撒地)】`puh7 tin1 saeh7 ti6` <sup>[如皋]</sup> 见“泼泼撒撒”。  
-1. 【[盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh.md#盘)】`puh8` <sup>[如皋]</sup> ① 促化音。掉转船头，本义。 ② 搬移笨重物品：～缸、～天水、～砖头、～嫁妆。 ③ 搬弄：～来～去、～是非。 ④ 抚养、教育：～伢儿、把伢儿～嘎大呀。  
-1. 【[跋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh.md#跋)】`puh8` <sup>[兴化]</sup> ① 摩擦：脚～脚｜把蛮好的一双布鞋～坏啊。 ② 调教。《集韵·末韵》普活切：“～，足～物”：～伢儿不容易！  
+1. 【[盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh.md#盘)】`puh8` <sup>[如皋]</sup> ① 促化音。掉转船头，本义。 ② 搬移笨重物品：～缸、～天水、～砖头、～嫁妆。 ③ 搬弄：～来～去、～是非。 ④ 抚养、教育：～伢儿、把伢儿～咖大呀。  
+1. 【[跋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh.md#跋)】`puh8` <sup>[兴化]</sup> ① 摩擦：脚～脚｜把蛮好的一双布鞋～坏啊。 ② 调教：～伢儿不容易！  
 1. 【[跋搅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh_jio.md#跋搅)】`puh8 jio3` <sup>[兴化]</sup> 各方面开销：现在私人建房，材料、人工好算，～大发咖！也作“盘搅”。  
 1. 【[跋绞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh_jio.md#跋绞)】`puh8 jio3` <sup>[东台]</sup> 花销、费用：这一类的活动～太大，划不来，以后不能再搞啊。（“跋”疑似“盘”促化）  
 1. 【[钹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh.md#钹)】`puh8` <sup>[兴化]</sup> 把多出部分去掉：这块木头凸咖在外头，拿锯子～掉。  
@@ -1239,6 +1238,7 @@
 1. 【[盘旋筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_qiun_jien.md#盘旋筋)】`pun2 qiun6 jien1` <sup>[如东]</sup> 曲张的静脉，称盘旋筋。  
 1. 【[盘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_r.md#盘<sub>儿</sub>)】`pun2 r` ① 轮子 ② 轮子。<sup>\[如东\]</sup>  
 1. 【[盘手爪<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_sheu_zho_r.md#盘手爪<sub>儿</sub>)】`pun2 sheu3 zho3 r` <sup>[如皋]</sup> 般玩指头。喻无所事事。  
+1. 【[盘手爪<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_sheu_zho_r.md#盘手爪<sub>儿</sub>)】`pun2 sheu3 zho3 r` <sup>[如东]</sup> 两手捧在一起，表示懒惰，不做事：这个人一天到晚～。  
 1. 【[盘水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_shuei.md#盘水)】`pun2 shuei3` <sup>[如皋]</sup> 面条煮熟即下冷水激，终止后熟，再烫一下，搳去水，这一过程称～。  
 1. 【[盘水面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_shuei_min.md#盘水面)】`pun2 shuei3 min6` <sup>[如皋]</sup> 煮法见“盘水”。装碗与佐料拌匀，不放汤的面条。另做“口汤”。与“点汤面、糊糊儿面”相对。  
 1. 【[盘算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_sun.md#盘算)】`pun2 sun5` <sup>[如东]</sup> 计算。企图别人的好处：～人。  

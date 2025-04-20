@@ -1234,7 +1234,7 @@
 1. 【[免气着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_qi_zhah.md#免气着)】`min3 qi5 zhah7` <sup>[东台]</sup> 亲人之间发生小摩擦，一方主动退让，叫～。  
 1. 【[勉强](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_qian.md#勉强)】`min3 qian3` <sup>[如东]</sup> ① 不是心甘情愿的：～答应下来啊。 ② 将就，凑合：这点儿水～吃三天。 ③ 不充足：这些理由～，恐怕通不过。  
 1. 【[鮸鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_y.md#鮸鱼)】`min3 y2` <sup>[如东]</sup> 石首科动物鮸鱼。  
-1. 【[䛉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min.md#䛉)】`min6` <sup>[如皋]</sup> 以哼唱催眠：我手里摇住嘎，嘴里～住嘎，小家伙渐渐要睏吖；伢儿要睏，你～～他。  
+1. 【[䛉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min.md#䛉)】`min6` <sup>[如皋]</sup> 以哼唱催眠：我手里摇住咖，嘴里～住咖，小家伙渐渐要睏吖｜伢儿要睏，你～～他。  
 1. 【[䛉伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_nga_r.md#䛉伢<sub>儿</sub>)】`min6 nga2 r` <sup>[如皋]</sup> 见“䛉”。  
 1. 【[泯良](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_lian.md#泯良)】`min6 lian2` <sup>[如皋]</sup> 丧失良心。  
 1. 【[面不等客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_beh_den_keh.md#面不等客)】`min6 beh7 den3 keh7` <sup>[如皋]</sup> 面条煮熟即应吃，不能等别人一齐吃，因为久了会变糊。  
