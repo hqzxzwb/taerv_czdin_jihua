@@ -142,8 +142,8 @@
 1. 【[耐脏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_zan.md#耐脏)】`nae6 zan1` <small>/nɛ1 t͡sã1/<sup>如皋</sup></small> ① 长期使用不觉脏。<sup>\[如皋\]</sup> ② 颜色深，沾染一点脏物不会显眼。<sup>\[如东\]</sup>：青布～。<sup>\[如东\]</sup> ③ 又叫“耐涴”，不容易显出污迹来<sup>\[东台\]</sup>：这件衬衫不～。<sup>\[东台\]</sup>  
 1. 【[褦襶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_dae.md#褦襶)】`nae6 dae` ① 愚蠢，不懂事。<sup>\[如东\]</sup>：这个伢儿有些～。<sup>\[如东\]</sup> ② 不懂事。（见《现代汉语词典》第六版930页）<sup>\[东台\]</sup> ③ 与“䐯膗”近义，臃肿庞大<sup>\[东台\]</sup>：这身衣裳太大，嫌～。<sup>\[东台\]</sup> ④ 体态臃肿的样子<sup>\[泰州\]</sup>：人这吖胖，再穿吖个厚羽绒服，～煞咖唻。<sup>\[泰州\]</sup> ⑤ 思维愚钝不伶俐<sup>\[泰州\]</sup>：这小伙～，这些辣手的事情不能交把他去处理。<sup>\[泰州\]</sup>  
 1. 【[㖸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh.md#㖸)】`naeh` <sup>[泰州]</sup> ① 语气助词，表示提醒：毛笔字要这样子写～。 ② 表示疑问：你家科长人～？｜你买的东西～？ ③ 表示选择：你高兴～就支持他两个，不高兴～就拉倒。  
-1. 【[捺住性子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_chv_xien_zz.md#捺住性子)】`naeh7 chv xien5 zz` <sup>[泰州]</sup> 努力控制住心中升起的怒火：他这些话太过分！我～不曾同他发火。  
 1. 【[捺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh.md#捺)】`naeh8` <sup>[兴化]</sup> 汉字笔划，形状是“㇏”。  
+1. 【[捺住性子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_chv_xien_zz.md#捺住性子)】`naeh8 chv xien5 zz` <sup>[泰州]</sup> 努力控制住心中升起的怒火：他这些话太过分！我～不曾同他发火。  
 1. 【[捺䬣𩟐/疙瘩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_geh_daeh.md#捺䬣𩟐/疙瘩)】`naeh8 geh7 daeh7` <sup>[泰州]</sup> 制作䬣𩟐，将厚糊状面团用勺子或者筷子披开拨堕入滚水之中，煮熟即成。  
 1. 【[捺䬣饤<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_geh_dien_r.md#捺䬣饤<sub>儿</sub>)】`naeh8 geh7 dien1 r` <sup>[如皋]</sup> 在糊糊面里捺进面䬣饤儿。  
 1. 【[捺捺馋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_naeh_shaen.md#捺捺馋)】`naeh8 naeh8 shaen2` <sup>[东台]</sup> 这里捺，即忍耐。指只能稍微解一下食欲，不能尽兴：过去只有过年才弄点儿肉～。  

@@ -1172,8 +1172,8 @@
 1. 【[天花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hua.md#天花)】`tin1 hua1` <small>/tʰĩ1 xuɑ1/<sup>泰兴</sup></small> 病名。急性传染病，今已绝迹。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
 1. 【[天花板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hua_baen.md#天花板)】`tin1 hua1 baen3` <small>/tʰĩ1 xuɑ1 pɛ̃3/<sup>泰兴</sup></small> ① 房间上面的装饰板。<sup>\[如东\]</sup> ② 室内装饰、承挡灰尘的天棚。<sup>\[泰兴\]</sup>：～已吊好了，底下就是刷墙、装饰。<sup>\[泰兴\]</sup>  
 1. 【[天花乱坠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hua_lun_chuei.md#天花乱坠)】`tin1 hua1 lun6 chuei6` <sup>[如东]</sup> 天上许多鲜花飘落下来，比喻非常美好：他说得～。  
+1. 【[天话胡话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hua_hv_hua.md#天话胡话)】`tin1 hua6 hv2 hua6` <sup>[如东]</sup> 东西南北瞎说一通：这个人～的，没个准。  
 1. 【[天话胡话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hua_hv_hua.md#天话胡话)】`tin1 hua6 hv2 hua6` ① 不知道搞的什么鬼花样。<sup>\[东台\]</sup> ② 不知道瞎说了些什么。也作“天话肏胡话”。<sup>\[东台\]</sup> ③ 夸大虚妄、动听而不切实际的话<sup>\[泰州\]</sup>：这家伙是搞传销的，你不要听他人～的瞎说，等你上吖他的划子船，你哭都来不洎！<sup>\[泰州\]</sup>  
-1. 【[天话胡话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hua_hv_hua.md#天话胡话)】`tin1 hua6 hv6 hua6` <sup>[如东]</sup> 东西南北瞎说一通：这个人～的，没个准。  
 1. 【[天皇皇，地皇皇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_huan_huan_ti.md#天皇皇，地皇皇)】`tin1 huan2 huan2 ti6 huan2 huan2` <sup>[泰兴]</sup> 民俗。小儿夜啼不停，主人即用红、黄色纸写上“～，我家有个夜啼郎，过路君子读一遍，一觉睡到大天亮”于街头巷尾张贴，传小儿可即安。含迷信色彩。  
 1. 【[天黄有雨，人狂有祸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_huan_ieu_y_ren_kuan_ieu_hu.md#天黄有雨，人狂有祸)】`tin1 huan2 ieu3 y3 ren2 kuan2 ieu3 hu6` <sup>[东台]</sup> 天发黄是下雨的征兆，人狂失去理智易惹祸。  
 1. 【[天浑笃笃的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_huen_doh_doh_dii.md#天浑笃笃的)】`tin1 huen2 doh7 doh7 dii` <sup>[如皋]</sup> 天色浑浊。  

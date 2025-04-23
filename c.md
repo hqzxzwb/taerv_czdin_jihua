@@ -46,7 +46,7 @@
 1. 【[彩水号子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_shuei_ho_zz.md#彩水号子)】`cae3 shuei3 ho6 zz` <sup>[如皋]</sup> 踏水比赛时喊唱的山歌。从柴湾采录的歌词如下：（领）先生不来我就来吆，不把个号子冷吖台吆。（和）呼！吆！嗨！——起脚快踏。  
 1. 【[彩头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_teu.md#彩头)】`cae3 teu2` <sup>[东台]</sup> 获利或得胜的征兆：得咖个好～。  
 1. 【[彩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_zz.md#彩子)】`cae3 zz` <sup>[如东]</sup> 海滩上结成的细小冰块，叫彩子。  
-1. 【[睬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae.md#睬)】`cae3` <small>/t͡sʰɛ3/<sup>如皋</sup></small> ① 理睬，答应 ② 答理、理睬<sup>\[如皋\]</sup>：他不～我；不～你赛如搳你；他俫淘啊气，不～啊啦。<sup>\[如皋\]</sup>  
+1. 【[睬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae.md#睬)】`cae3` <small>/t͡sʰɛ3/<sup>如皋</sup></small> ① 理睬，答应 ② 答理、理睬<sup>\[如皋\]</sup>：他不～我；不～你赛如搳你<sup>\[如皋\]</sup>｜他俫淘啊气，不～啊啦。<sup>\[如皋\]</sup>  
 1. 【[踩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae.md#踩)】`cae3` <sup>[如东]</sup> 用脚轻轻地踏。  
 1. 【[踩高跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_go_qio.md#踩高跷)】`cae3 go1 qio1` <sup>[东台]</sup> 一种民间表演形式。表演者双脚缚在木制撬棍上，高约1-3米，装扮成戏中人物，边走边表演。  
 1. 【[踩摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_mah.md#踩摸)】`cae3 mah8` <sup>[兴化]</sup> 打听、调查：这件事先～～再做决断。｜情况～不真不能乱来。  
