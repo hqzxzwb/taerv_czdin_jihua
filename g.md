@@ -723,7 +723,7 @@
 1. 【[够煞咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_shaeh_ga.md#够煞咖)】`geu5 shaeh7 ga` <sup>[泰州]</sup> 表示容忍已经到了极限，表示极度厌恶：遇到这种领导，真教你～，都不晓得同你说甚的好。｜他要离婚，我求之不得，同他这种人在做块儿过，我早就～唻。｜这个倒头房子我蹾吖～。｜天天同这些活鬼打交道，我真的～唻。  
 1. 【[够种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_zhon.md#够种)】`geu5 zhon3` <sup>[兴化]</sup> 有胆量、有骨气。同“有种”：“年轻人到底是年青人，有办法，～。”（马春阳《十二道水车》）  
 1. 【[够做麻篮够做包，就看哪个手艺高](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_zu_ma_laen_geu_zu_bo_qieu_kun_la_gu_sheu_i_go.md#够做麻篮够做包，就看哪个手艺高)】`geu5 zu5 ma2 laen2 geu5 zu5 bo1 qieu6 kun5 la3 gu sheu3 i6 go1` <sup>[东台]</sup> 同样条件，成果取决于主观能动性。  
-1. 【[交](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go.md#交)】`go1` <small>/kɔ1/<sup>兴化</sup>, /kɔ1/<sup>如皋</sup></small> ① 连词。同“和”<sup>\[如皋\]</sup>：他不问头子～牙子，一来就骂人。你～他一齐儿去。<sup>\[如皋\]</sup> ② 避、尽<sup>\[兴化\]</sup>：城里城外找～过来，都不曾找到。<sup>\[兴化\]</sup>｜办法想～啊都没得用。<sup>\[兴化\]</sup> ③ 合<sup>\[兴化\]</sup>：烦吖一夜不曾～眼。<sup>\[兴化\]</sup> ④ 《广韵·肴韵》古肴切“～，……共也合也领也。”<sup>\[兴化\]</sup>  
+1. 【[交](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go.md#交)】`go1` <small>/kɔ1/<sup>兴化</sup>, /kɔ1/<sup>如皋</sup></small> ① 连词。同“和”<sup>\[如皋\]</sup>：他不问头子～牙子，一来就骂人。你～他一齐儿去。<sup>\[如皋\]</sup> ② 遍、尽<sup>\[兴化\]</sup>：城里城外找～过来，都不曾找到。<sup>\[兴化\]</sup>｜办法想～啊都没得用。<sup>\[兴化\]</sup> ③ 合。《广韵·肴韵》古肴切“～，……共也合也领也。”<sup>\[兴化\]</sup>：烦吖一夜不曾～眼。<sup>\[兴化\]</sup>  
 1. 【[交伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_foh.md#交伏)】`go1 foh8` <sup>[如东]</sup> 进入伏天。  
 1. 【[交牙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_nga.md#交牙)】`go1 nga2` <sup>[兴化]</sup> 啮合：这把剪子不～。｜那把火剪倒～唻。  
 1. 【[交秋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_qieu.md#交秋)】`go1 qieu1` <sup>[如东]</sup> 立秋。  
