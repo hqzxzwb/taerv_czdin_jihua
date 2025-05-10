@@ -449,7 +449,6 @@
 1. 【[搪弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_lon.md#搪弄)】`tan2 lon6` <sup>[兴化]</sup> 搪塞、敷衍：他再来催促就拿好话～他下子。  
 1. 【[搪塞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_seh.md#搪塞)】`tan2 seh7` <sup>[如东]</sup> 敷衍。  
 1. 【[搪相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_xian.md#搪相)】`tan2 xian5` <sup>[如皋]</sup> 扶相、捧场。  
-1. 【[淌猫尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_mo_xy.md#淌猫尿)】`tan2 mo2 xy1` <sup>[泰州]</sup> 讥讽人流眼泪：说咖急咖就～。  
 1. 【[溏恭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_gon.md#溏恭)】`tan2 gon1` <sup>[兴化]</sup> 稀薄的不成形的大便。  
 1. 【[溏鸡屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_ji_shr.md#溏鸡屎)】`tan2 ji1 shr3` <sup>[兴化]</sup> 稀薄的鸡粪。  
 1. 【[溏心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_xien.md#溏心)】`tan2 xien1` ① 蛋煮过或腌过后，蛋黄没有完全凝固的地方。<sup>\[东台\]</sup> ② 蛋煮熟后蛋黄没有完全凝固<sup>\[泰州\]</sup>：～鸡蛋。<sup>\[泰州\]</sup>  
@@ -487,6 +486,7 @@
 1. 【[淌猫<sub>儿</sub>尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_mo_r_xy.md#淌猫<sub>儿</sub>尿)】`tan3 mo2 r xy1` <sup>[如皋]</sup> 詈语。指流泪。  
 1. 【[淌猫尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_mo_suei.md#淌猫尿)】`tan3 mo2 suei1` <sup>[兴化]</sup> （戏）流泪。也说“淌麻油”。  
 1. 【[淌猫尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_mo_xy.md#淌猫尿)】`tan3 mo2 xy1` <sup>[东台]</sup> 戏称淌眼泪：你好好做，不然捱我熊吖还覅～！  
+1. 【[淌猫尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_mo_xy.md#淌猫尿)】`tan3 mo2 xy1` <sup>[泰州]</sup> 讥讽人流眼泪：说咖急咖就～。  
 1. 【[淌吖身大汗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_nga_shen_da_hun.md#淌吖身大汗)】`tan3 nga shen1 da6 hun6` <sup>[东台]</sup> ［喻］用了一大笔钱：这次些朋友来聚会，叫你～。  
 1. 【[淌动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_ton.md#淌动)】`tan3 ton` <sup>[如皋]</sup> 缓缓流动。  
 1. 【[淌针子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_zhen_zz.md#淌针子)】`tan3 zhen1 zz` <sup>[如皋]</sup> 用针线一直连。  

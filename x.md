@@ -53,7 +53,7 @@
 1. 【[西溪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_qi.md#西溪)】`xi1 qi1` <sup>[东台]</sup> 位于东台城西、泰东河北岸的古镇。  
 1. 【[西山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_shaen.md#西山)】`xi1 shaen1` <sup>[兴化]</sup> 朝南房屋的右侧：屋～；～头。  
 1. 【[西山太阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_shaen_tae_ian.md#西山太阳)】`xi1 shaen1 tae5 ian` <sup>[兴化]</sup> 午后从西边照射过来的阳光：朝西的房子夏天～一照热煞人。  
-1. 【[西𣓒太阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_shaen_tae_ian.md#西𣓒太阳)】`xi1 shaen1 tae5 ian` <sup>[泰州]</sup> 下午三点左右太阳偏西后由西向东斜射过来的阳光，以其照于西侧𣓒墙（山墙），故名：这房子旁的都好，就是夏天～吃不消。  
+1. 【[西山太阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_shaen_tae_ian.md#西山太阳)】`xi1 shaen1 tae5 ian` <sup>[泰州]</sup> 下午三点左右太阳偏西后由西向东斜射过来的阳光，以其照于西侧山墙，故名：这房子旁的都好，就是夏天～吃不消。  
 1. 【[西装头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_zhuan_teu.md#西装头)】`xi1 zhuan1 teu2` <sup>[如东]</sup> 一种发型，头发向两边分开。也称分头。  
 1. 【[豨莶草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xin_co.md#豨莶草)】`xi1 xin1 co3` <sup>[如东]</sup> 菊科植物腺梗豨莶，一年生草本。高约100厘米。茎直立，常带紫色，枝上部密被短柔毛。叶对生，阔卵状三角形，边缘具粗锯齿。头状花序顶生或腋生。花黄色。瘦果倒卵形，微弯，黑色。生长在路边  
 1. 【[豨莶果](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xin_gu.md#豨莶果)】`xi1 xin1 gu3` <sup>[如东]</sup> 菊科植物腺梗豨莶果实。  

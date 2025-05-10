@@ -796,10 +796,9 @@
 1. 【[针](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen.md#针)】`zhen1` <sup>[如东]</sup> 缝衣物用的工具，多用金属制成，细长而小，一头尖锐，一头有孔，可以引线：绣花～。  
 1. 【[针匾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_bin.md#针匾)】`zhen1 bin3` 用来摆放针、线、针箍、剪子等缝补衣服工具的油漆柳条圆形小匾。<sup>\[泰州\]</sup>  
 1. 【[针钩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_geu_r.md#针钩<sub>儿</sub>)】`zhen1 geu1 r` <sup>[如皋]</sup> 自己用缝衣针烧红扳成的鱼钩。与“卡钩儿”相对。  
-1. 【[针鼓（裹）<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_gu_r.md#针鼓（裹）<sub>儿</sub>)】`zhen1 gu3 r` <sup>[如皋]</sup> 顶针。  
-1. 【[针箍<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_gv_r.md#针箍<sub>儿</sub>)】`zhen1 gv1 r` <small>/t͡səŋ1 ku1 ɚ/<sup>泰县</sup></small> ① 工具。圆环形，铜制或铁制，外面有麻点。缝纫时，套在中指上用于顶针。<sup>\[如东\]</sup> ② 顶针的工具。<sup>\[泰县\]</sup> ③ 亦作“针箍子”，一种外层有许多小窝的金属箍，做针线时戴在手指上，用来抵住针眼一端，使针容易穿过布料而手指不至于受伤。<sup>\[泰州\]</sup>  
+1. 【[针箍<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_gv_r.md#针箍<sub>儿</sub>)】`zhen1 gv1 r` <small>/t͡səŋ1 kʊ˞3/<sup>如皋</sup>, /t͡səŋ1 ku3 ɚ/<sup>泰县</sup></small> 顶针<sup>\[如东\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[如皋\]</sup>  
 1. 【[针箍子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_gv_zz.md#针箍子)】`zhen1 gv1-3 zz` <sup>[东台]</sup> 又叫顶针。一种铜的圆箍状的用具，上面有很多小窝，套在中指上，顶住针屁股，使针容易扎进，手指不致顶伤。  
-1. 【[针箍子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_gv_zz.md#针箍子)】`zhen1 gv1 zz` <sup>[兴化]</sup> 顶针。  
+1. 【[针箍子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_gv_zz.md#针箍子)】`zhen1 gv1-3 zz` <sup>[兴化]</sup> 顶针。  
 1. 【[针脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_jiah.md#针脚)】`zhen1 jiah7` ① 缝纫的线迹。<sup>\[如东\]</sup>：～稀。<sup>\[如东\]</sup> ② 缝纫衣裳时前后两针的距离<sup>\[东台\]</sup>：你做衣裳～要幪（mon3）吖点儿。<sup>\[东台\]</sup>  
 1. 【[针尖大的洞，三斗三升风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_jin_da_dii_ton_saen_deu_saen_shen_fon.md#针尖大的洞，三斗三升风)】`zhen1 jin1 da6 dii ton6 saen1 deu3 saen1 shen1 fon1` <sup>[东台]</sup> 墙壁上哪怕一个小洞，也会漏很大的风。  
 1. 【[针尖对麦芒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_jin_duei_moh_man.md#针尖对麦芒)】`zhen1 jin1 duei5 moh8 man2` <sup>[东台]</sup> （俗语）喻意互不相让：她俫两个～，一个比一个凶。  

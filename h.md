@@ -1170,7 +1170,7 @@
 1. 【[火刀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_do_r.md#火刀<sub>儿</sub>)】`hu3 do1 r` <sup>[如皋]</sup> 火镰。  
 1. 【[火到猪头烂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_do_zhv_teu.md#火到猪头烂)】`hu3 do5 zhv1 teu2 laen6` <sup>[兴化]</sup> （喻）做事情，只要有恒心、有决心，就会成功：“不怕他是铁打的……～，等我去撞个木钟儿，再做理会……”（《广陵潮》八十）｜谚曰：～，功到自然成。  
 1. 【[火到猪头烂，功到自然成](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_do_zhv_teu.md#火到猪头烂，功到自然成)】`hu3 do5 zhv1 teu2 laen6 gon1 do5 cz6 rin2 chen2` <sup>[东台]</sup> 成事必须下功夫，还要有耐心、恒心。  
-1. 【[火到猪头烂，钱到公事办](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_do_zhv_teu.md#火到猪头烂，钱到公事办)】`hu3 do5 zhv1 teu2 laen6 qin2 do5 gon1 shr6 paen5` <small>/xɤɯ3 tɔ5 t͡su1 tʰəɪ2 lɛ̃1 t͡ɕʰĩ2 tɔ5 kɔŋ1 sɿ1 pʰɛ̃5/<sup>泰兴</sup></small> 银钱财物花到了，事情自然能办成功。<sup>\[泰兴\]</sup>  
+1. 【[火到猪头烂，钱到公事办](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_do_zhv_teu.md#火到猪头烂，钱到公事办)】`hu3 do5 zhv1 teu2 laen6 qin2 do5 gon1 shr6 paen6` <small>/xɤɯ3 tɔ5 t͡su1 tʰəɪ2 lɛ̃1 t͡ɕʰĩ2 tɔ5 kɔŋ1 sɿ1 pʰɛ̃1/<sup>泰兴</sup></small> 银钱财物花到了，事情自然能办成功。<sup>\[泰兴\]</sup>  
 1. 【[火钩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_geu_zz.md#火钩子)】`hu3 geu1 zz` <sup>[如皋]</sup> 从炉底向上勾通的铁钩子。  
 1. 【[火光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_guan.md#火光)】`hu3 guan` <sup>[东台]</sup> 旧时指不怕魔鬼的气势。据说男人的～比女人高。（光轻读）  
 1. 【[火光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_guan.md#火光)】`hu3 guan1` <small>/xo3 kuaŋ1/<sup>兴化</sup></small> ① 迷信认为人身上通邪的气势<sup>\[兴化\]</sup>：～高的鬼祟不敢犯，～低的受鬼欺。<sup>\[兴化\]</sup>｜女人做月子～低，一个人蹲在家里，女人有点怕……（钱国怀《夜半鲤鱼来上滩》）<sup>\[兴化\]</sup> ② （迷信）抵御鬼魅的气势，见“压头”。<sup>\[兴化\]</sup>  
