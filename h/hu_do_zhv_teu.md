@@ -6,7 +6,7 @@ hu3 do5 zhv1 teu2 laen6
   - 谚曰：～，功到自然成。
 
 # 火到猪头烂，钱到公事办
-hu3 do5 zhv1 teu2 laen6 qin2 do5 gon1 shr6 paen5
+hu3 do5 zhv1 teu2 laen6 qin2 do5 gon1 shr6 paen6
 + 银钱财物花到了，事情自然能办成功。
   * 泰兴方言辞典
 
