@@ -2003,6 +2003,7 @@
 1. 【[古历十八代](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_lieh_sheh_baeh_tae.md#古历十八代)】`gv3 lieh8 sheh8 baeh7 tae6` <sup>[东台]</sup> 形容时间已经很久远了。  
 1. 【[古年八代](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_nin_baeh_tae.md#古年八代)】`gv3 nin2 baeh7 tae6` <sup>[如皋]</sup> 见“久已八载”。  
 1. 【[古年十八代](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_nin_sheh_baeh_tae.md#古年十八代)】`gv3 nin2 sheh8 baeh tae6` <sup>[兴化]</sup> 极言很久很前：老年人喜欢把～的事拿出来说。  
+1. 【[古年十八代](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_nin_sheh_baeh_tae.md#古年十八代)】`gv3 nin2 sheh8 baeh tae6` <small>/ku3 nĩ2 səʔ8 pæʔ tʰɛ1/<sup>泰兴</sup></small> 过去了很长时间，极言时间久远。<sup>\[泰兴\]</sup>：不要把～的些话拿出来说。<sup>\[泰兴\]</sup>  
 1. 【[古铜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_ton.md#古铜)】`gv3 ton2` <sup>[如皋]</sup> 青铜。  
 1. 【[牯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_zz.md#牯子)】`gv3 zz` <sup>[兴化]</sup> 公牛。  
 1. 【[股子香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_zz_xian.md#股子香)】`gv3 zz xian1` <sup>[兴化]</sup> 用色纸条束成的神香。  

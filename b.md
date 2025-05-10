@@ -707,8 +707,8 @@
 1. 【[不内](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_nuei.md#不内)】`beh7 nuei6` <sup>[如东]</sup> 不内行：他做木工～。  
 1. 【[不男不女](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_nun_beh_ny.md#不男不女)】`beh7 nun2 beh7 ny3` <sup>[如东]</sup> 形容穿着打扮不上规矩。  
 1. 【[不内](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_ny.md#不内)】`beh7 ny6` <sup>[泰县]</sup> 不内行。  
-1. 【[不怕不识字，就怕不识事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_pa_beh_sheh.md#不怕不识字，就怕不识事)】`beh7 pa5 beh7 sheh7 cz6 qieu6 pa5 beh7 sheh7 shr6` <small>/pəʔ7 pʰɑ5 pəʔ7 səʔ7 t͡sʰɿ1 t͡ɕʰiɤɯ1 pʰɑ5 pəʔ7 səʔ7 sɿ1/<sup>泰兴</sup></small> 识事：懂得道理。强调明事理的重要性。<sup>\[泰兴\]</sup>  
 1. 【[不怕不识字，就怕不识事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_pa_beh_sheh_cz_qieu_pa_beh_sheh_shr.md#不怕不识字，就怕不识事)】`beh7 pa5 beh7 sheh7 cz6 qieu6 pa5 beh7 sheh7 shr6` <sup>[东台]</sup> 看清实际事物比书本知识更重要。  
+1. 【[不怕不识字，就怕不识事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_pa_beh_sheh.md#不怕不识字，就怕不识事)】`beh7 pa5 beh7 sheh7 cz6 qieu6 pa5 beh7 sheh7 shr6` <small>/pəʔ7 pʰɑ5 pəʔ7 səʔ7 t͡sʰɿ1 t͡ɕʰiɤɯ1 pʰɑ5 pəʔ7 səʔ7 sɿ1/<sup>泰兴</sup></small> 识事：懂得道理。强调明事理的重要性。<sup>\[泰兴\]</sup>  
 1. 【[不怕不识货，就怕货比货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_pa_beh_sheh.md#不怕不识货，就怕货比货)】`beh7 pa5 beh7 sheh7 hu5 qieu6 pa5 hu5 bi3 hu5` <small>/pəʔ7 pʰɑ5 pəʔ7 səʔ7 xɤɯ5 t͡ɕʰiɤɯ1 pʰɑ5 xɤɯ5 pʝ3 xɤɯ5/<sup>泰兴</sup></small> 有了比较，即可辨别优劣<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[不怕官，就怕管](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_pa_gun_qieu_pa_gun.md#不怕官，就怕管)】`beh7 pa5 gun1 qieu6 pa5 gun3` <sup>[东台]</sup> 直接管理者与被管理者利益最密切。  
 1. 【[不怕一万，就怕万一](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_pa_ieh_vaen.md#不怕一万，就怕万一)】`beh7 pa5 ieh7 vaen6 qieu6 pa5 vaen6 ieh7` <small>/pəʔ7 pʰɑ5 iʔ7 ʋɛ̃1 t͡ɕʰiɤɯ1 pʰɑ5 ʋɛ̃1 iʔ7/<sup>泰兴</sup></small> 谓办事要周密计划，预防不测。<sup>\[泰兴\]</sup>：人有个俗语，～。考虑周全点儿好。<sup>\[泰兴\]</sup>  
@@ -981,8 +981,9 @@
 1. 【[本场人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_chan_ren.md#本场人)】`ben3 chan2 ren2` <sup>[如东]</sup> 说泰如话的人。  
 1. 【[本大头菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_da_teu_cae.md#本大头菜)】`ben3 da6 teu cae5` <sup>[如皋]</sup> 根用芥菜。  
 1. 【[本当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_dan.md#本当)】`ben3 dan1` <small>/pəŋ3 tã1/<sup>如皋</sup></small> ① 本来，原来。<sup>\[如皋\]</sup> ② 本来应该这样。<sup>\[东台\]</sup>  
+1. 【[本等](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_den.md#本等)】`ben3 den3` <small>/pəŋ3 təŋ3/<sup>泰兴</sup></small> 本分，本身分内；原来，本来。<sup>\[泰兴\]</sup>  
 1. 【[本底子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_di_zz.md#本底子)】`ben3 di3 zz` <sup>[兴化]</sup> 原来：这地方～是一座庙宇。｜他家～是开鞋帽店的。  
-1. 【[本到本](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_do_ben.md#本到本)】`ben3 do5 ben3` <small>/pən3 tɔ5 pən3/<sup>兴化</sup>, /pəŋ3 tɔ5 pəŋ3/<sup>如皋</sup></small> 从本钱到本钱，意谓生意不赔不赚<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：这次贩蟹到上海，打去开支，弄个～。<sup>\[兴化\]</sup>｜这趟生意只弄吖个～，一分钱不曾赚，主要是图下回子的生意。<sup>\[泰州\]</sup>  
+1. 【[本到本](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_do_ben.md#本到本)】`ben3 do5 ben3` <small>/pən3 tɔ5 pən3/<sup>兴化</sup>, /pəŋ3 tɔ5 pəŋ3/<sup>如皋</sup>, /pəŋ3 tɔ5 pəŋ3/<sup>泰兴</sup></small> 从本钱到本钱，意谓生意不赔不赚<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：这次贩蟹到上海，打去开支，弄个～。<sup>\[兴化\]</sup>｜这趟生意只弄吖个～，一分钱不曾赚，主要是图下回子的生意。<sup>\[泰州\]</sup>｜今朝的生意做下来，将将～。<sup>\[泰兴\]</sup>  
 1. 【[本房亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_fan_qien.md#本房亲)】`ben3 fan2 qien1` <sup>[如皋]</sup> 在大家庭中属于本房的姻亲。  
 1. 【[本分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_fen.md#本分)】`ben3 fen` <sup>[如皋]</sup> 见“门分”。  
 1. 【[本分人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_fen_ren.md#本分人)】`ben3 fen ren2` <sup>[泰州]</sup> 安分守己的人：他是个～，不会吹牛拍马这一套。  
@@ -993,29 +994,33 @@
 1. 【[本该](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_gae.md#本该)】`ben3 gae1` <sup>[兴化]</sup> 理应如此：这笔钱～我来付，你不必客气。  
 1. 【[本港](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_gan.md#本港)】`ben3 gan3` <sup>[如东]</sup> 本地的港口。  
 1. 【[本港货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_gan_hu.md#本港货)】`ben3 gan3 hu5` <sup>[如东]</sup> 本地沿海所产的鱼、虾、蟹、贝等海产品。  
+1. 【[本根](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_gen.md#本根)】`ben3 gen` <small>/pəŋ3 kəŋ/<sup>泰兴</sup></small> 根本，根由，根源。也说本生。指事物的最重要的部分。<sup>\[泰兴\]</sup>：忘吖本根，上对不起祖宗，下对不起子孙。<sup>\[泰兴\]</sup>  
 1. 【[本行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_han.md#本行)】`ben3 han2` ① 本人一贯从事的或已经熟练的行业。<sup>\[如东\]</sup> ② 本人从事的行业。<sup>\[东台\]</sup>  
-1. 【[本家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_jia.md#本家)】`ben3 jia1` <small>/pən3 t͡ɕia1/<sup>兴化</sup></small> ① 同姓的人。<sup>\[如东\]</sup> ② 同姓亲族的人。<sup>\[东台\]</sup> ③ 当事者：谁家失窃，首先得叫李三来……然后，叫～写一份失单。（汪曾棋：《故里杂记》）<sup>\[兴化\]</sup> ④ 本宗族的人，同一祖先的人<sup>\[泰州\]</sup>：他是我的～兄弟。<sup>\[泰州\]</sup>  
+1. 【[本家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_jia.md#本家)】`ben3 jia1` <small>/pən3 t͡ɕia1/<sup>兴化</sup>, /pəŋ3 t͡ɕiɑ1/<sup>泰兴</sup></small> ① 同姓的人。<sup>\[如东\]</sup> ② 同姓亲族的人。<sup>\[东台\]</sup> ③ 当事者<sup>\[兴化\]</sup>：谁家失窃，首先得叫李三来……然后，叫～写一份失单。（汪曾棋：《故里杂记》）<sup>\[兴化\]</sup> ④ 本宗族的人，同一祖先的人<sup>\[泰州\]</sup>：他是我的～兄弟。<sup>\[泰州\]</sup> ⑤ 同姓、同宗者。<sup>\[泰兴\]</sup>  
 1. 【[本来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_lae.md#本来)】`ben3 lae2` <sup>[如东]</sup> ① 原有：～如此。 ② 原先，先前：～就说过。 ③ 理所当然：～应该这样。  
 1. 【[本蜡烛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_laeh_zhoh.md#本蜡烛)】`ben3 laeh8 zhoh7` <sup>[如皋]</sup> 用红草杆卷灯草为芯，蘸羊油模压而成的蜡烛。与“洋（矿）烛”相对。  
 1. 【[本力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_lieh.md#本力)】`ben3 lieh8` <sup>[如皋]</sup> 本身的基础、素质、体能：我～不够，不能胜任。  
 1. 【[本领](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_lien.md#本领)】`ben3 lien3` <sup>[如东]</sup> ① 能力。 ② 技术。  
 1. 【[本门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_men.md#本门)】`ben3 men2` <sup>[如东]</sup> 属于自己的，属于自己行业的：～的工作一定要做好。  
 1. 【[本门亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_men_qien.md#本门亲)】`ben3 men2 qien1` <sup>[如皋]</sup> 在大家庭中属于本房的姻亲。  
+1. 【[本命年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_mien_nin.md#本命年)】`ben3 mien nin2` <small>/pəŋ3 miŋ nĩ2/<sup>泰兴</sup></small> 旧指与人生年干支相值之年。如某人壬戌年生，过六十年即可再遇，谓之本命年。一说，以生年分十二属，如生于子年属鼠，生于丑年属牛等，过十二年即可再遇，谓之本命年。<sup>\[泰兴\]</sup>：我是属鸡的，生于酉年，每逢到酉年为～。<sup>\[泰兴\]</sup>  
 1. 【[本面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_min.md#本面)】`ben3 min6` <small>/pən3 miɪ̃6/<sup>兴化</sup>, /pəŋ3 mĩ1/<sup>如皋</sup></small> ① 用传统工具将本种小麦磨出的面粉。与“洋面”相对。<sup>\[如皋\]</sup> ② 旧称磨坊生产的面粉，相对于机制麦粉——洋面。<sup>\[兴化\]</sup>  
 1. 【[本派](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_pae.md#本派)】`ben3 pae5` <small>/pən3 pʰɛ5/<sup>兴化</sup></small> 本来理论应当<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：“……我～要进去见嫂子请安呀！”（《武松》六）<sup>\[兴化\]</sup>｜你去年的考试成绩～录取，因为肝上有毛病不曾能入学。<sup>\[兴化\]</sup>｜这件事～你来管，怎吖好推啊把人家？<sup>\[泰州\]</sup>  
 1. 【[本钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_qin.md#本钱)】`ben3 qin` <sup>[兴化]</sup> （讳饰语）指男性生殖器官：他是天生的太监，没～的货。｜“李大哥……只是这～没了，将甚么赔令正……”（《三刻》二一）  
-1. 【[本钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_qin.md#本钱)】`ben3 qin2` ① 用以办事、营利、生息、赌博之类的钱财。比喻可以凭借依靠的条件和必要的代价。<sup>\[东台\]</sup> ② 用以经商营利、放贷生息、赌博赢钱等的钱。<sup>\[泰州\]</sup>  
+1. 【[本钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_qin.md#本钱)】`ben3 qin2` <small>/pəŋ3 t͡ɕʰĩ2/<sup>泰兴</sup></small> ① 用以办事、营利、生息、赌博之类的钱财。比喻可以凭借依靠的条件和必要的代价。<sup>\[东台\]</sup> ② 用以经商营利、放贷生息、赌博赢钱等的钱。<sup>\[泰州\]</sup> ③ 用以办事、营利、生息、赌博的钱财；比喻可以赁借、依靠的人或事物。有时作代价讲。<sup>\[泰兴\]</sup>：没得～怎吖做生意？<sup>\[泰兴\]</sup>  
 1. 【[本<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_r.md#本<sub>儿</sub>)】`ben3 r` <sup>[泰县]</sup> 本子。  
 1. 【[本伞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_saen.md#本伞)】`ben3 saen3` <sup>[如皋]</sup> 与“洋伞”相对。即本地制的竹架油布伞。  
 1. 【[本桑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_san.md#本桑)】`ben3 san1` <sup>[如皋]</sup> 本地乔木桑。  
 1. 【[本色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_seh.md#本色)】`ben3 seh7` <sup>[东台]</sup> ① 本来的颜色。 ② 本来的面目。 ③ 质朴自然，不加修饰。  
 1. 【[本生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_shen.md#本生)】`ben3 shen1` <sup>[如皋]</sup> 原来，根本：他～姓练，参加革命后姓何。  
+1. 【[本事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_shr.md#本事)】`ben3 shr` <small>/pəŋ3 sɿ/<sup>泰兴</sup></small> 本领，能耐<sup>\[泰兴\]</sup>  
 1. 【[本事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_shr.md#本事)】`ben3 shr6` <sup>[泰州]</sup> 本领，处理事务的能力。  
 1. 【[本柿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_shr_zz.md#本柿子)】`ben3 shr6 zz` <sup>[如皋]</sup> 未嫁接的柿子，果实小，有籽。  
 1. 【[本谈话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_taen_hua.md#本谈话)】`ben3 taen2 hua6` <sup>[东台]</sup> 不做任何修饰的老实话。  
 1. 【[本套本](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_to_ben.md#本套本)】`ben3 to5 ben3` <sup>[东台]</sup> 做的生意不赔也不赚。  
-1. 【[本桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_ton.md#本桶)】`ben3 ton3` <small>/pəŋ3 tʰoŋ3/<sup>泰县</sup></small> ① 粪桶。（堤东地区说法）<sup>\[东台\]</sup> ② 粪桶。<sup>\[泰县\]</sup>  
+1. 【[本桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_ton.md#本桶)】`ben3 ton3` <small>/pəŋ3 tʰɔŋ3/<sup>泰兴</sup>, /pəŋ3 tʰoŋ3/<sup>泰县</sup></small> 粪桶。<sup>\[泰县\]</sup><sup>\[泰兴\]</sup>\[东台：堤东地区说法\]  
 1. 【[本瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_va.md#本瓦)】`ben3 va3` <sup>[兴化]</sup> 一种泥土烧制的弧形建筑材料，铺屋面用。也称“小瓦”“水瓦”。  
+1. 【[本乡本土](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_xian_ben_tv.md#本乡本土)】`ben3 xian1 ben3 tv3` <small>/pəŋ3 ɕiɑŋ1 pəŋ3 tʰu3/<sup>泰兴</sup></small> 本地，家乡。<sup>\[泰兴\]</sup>  
 1. 【[本心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_xien.md#本心)】`ben3 xien1` <sup>[如东]</sup> 本来的心愿。  
 1. 【[本心本意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_xien_ben_i.md#本心本意)】`ben3 xien1 ben3 i5` <sup>[如东]</sup> 真心诚意：他对你是～的。  
 1. 【[本心话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_xien_hua.md#本心话)】`ben3 xien1 hua6` 真心话  

@@ -751,7 +751,9 @@
 1. 【[搸钉筢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_dien_pa.md#搸钉筢)】`zhen1 dien1 pa2` <sup>[如东]</sup> 钉耙柄插入钉耙脑中，用木楔加紧，叫做搸钉耙。  
 1. 【[搸𣜂/楔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_saeh.md#搸𣜂/楔)】`zhen1 saeh7` <sup>[东台]</sup> 填充空隙的小木片。  
 1. 【[搸榫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_xyen.md#搸榫)】`zhen1 xyen3` <sup>[如皋]</sup> 榫头与榫眼装配紧固。  
-1. 【[正月半](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_iuh_bun.md#正月半)】`zhen1 iuh bun5` <small>/t͡sən1 yuʔ pũ5/<sup>兴化</sup></small> ① 农历正月十五，即元宵节。是我国民间传统节日。<sup>\[东台\]</sup> ② 农历正月十五日，元宵节。<sup>\[兴化\]</sup>  
+1. 【[正月半](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_iuh_bun.md#正月半)】`zhen1 iuh bun5` 农历正月十五，即元宵节。  
+1. 【[正月半送门神，迟晏半个月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_iuh_bun_son.md#正月半送门神，迟晏半个月)】`zhen1 iuh bun5 son5 men2 shen2 chr2 ngaen5 bun5 gu iuh8` <small>/t͡səŋ1 yʊʔ pʊ̃5 sɔŋ5 məŋ2 səŋ2 t͡sʰɿ2 ŋɛ̃5 pʊ̃5 kɤɯ yʊʔ8/<sup>泰兴</sup></small> 谓想办某件事时间已经太晚了，失去了大好时机。<sup>\[泰兴\]</sup>  
+1. 【[正月初一拜年，总是好听的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_iuh_chv_ieh.md#正月初一拜年，总是好听的)】`zhen1 iuh chv1 ieh7 bae5 nin2 zon3 shr ho3 tien5 dii` <small>/t͡səŋ1 yʊʔ t͡sʰu1 iʔ7 pɛ5 nĩ2 t͡sɔŋ3 sɿ xɔ3 tʰiŋ5 təɪ/<sup>泰兴</sup></small> 谓嘴上讲的总是漂亮话，实际行动却是另一回事。<sup>\[泰兴\]</sup>  
 1. 【[正月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_iuh.md#正月)】`zhen1 iuh8` <sup>[如东]</sup> 阴历第一个月称正月。  
 1. 【[正月里打的兔子——有它过年，没它也过年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_iuh_lii_da_dii_tv_zz_ieu_ta_gu_nin_meh_ta_ia_gu_nin.md#正月里打的兔子——有它过年，没它也过年)】`zhen1 iuh8 lii da3 dii tv5 zz ieu3 ta1 gu5 nin2 meh8 ta1 ia3 gu5 nin2` <sup>[东台]</sup>   
 1. 【[正月十五贴门神——晚吖半个月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_iuh_sheh_v_tih_men_shen_vaen_nga_bun_gu_iuh.md#正月十五贴门神——晚吖半个月)】`zhen1 iuh8 sheh8 v3 tih7 men2 shen2 vaen3 nga bun5 gu iuh8` <sup>[东台]</sup>   
@@ -849,10 +851,12 @@
 1. 【[挣钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_qin.md#挣钱)】`zhen5 qin2` <sup>[如东]</sup> 通过劳动而获得资金  
 1. 【[正菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_cae.md#正菜)】`zhen5 cae5` <sup>[如皋]</sup> 见“桌菜”。  
 1. 【[正座](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_cu.md#正座)】`zhen5 cu6` <small>/t͡səŋ5 t͡sʰɤɯ1/<sup>泰兴</sup></small> 所坐的位置位于中间，相对于“旁座”。<sup>\[泰兴\]</sup>  
+1. 【[正当中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_dan_zhon.md#正当中)】`zhen5 dan zhon1` <small>/t͡səŋ5 tɑŋ t͡sɔŋ1/<sup>泰兴</sup></small> 正中。<sup>\[泰兴\]</sup>  
 1. 【[正当中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_dan_zhon.md#正当中)】`zhen5 dan1 zhon1` <sup>[东台]</sup> 最中间的部位。  
 1. 【[正儿巴经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_er_ba_jien.md#正儿巴经)】`zhen5 er ba jien1` <small>/t͡səŋ5 ɚ pɑ t͡ɕiŋ1/<sup>泰兴</sup></small> 亦说“正儿八经”。正经的，严肃认真的，真正的，确实的。\[泰兴：这批货总是～的，绝无假冒。\]  
 1. 【[正儿八经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_er_baeh_jien.md#正儿八经)】`zhen5 er baeh7 jien1` <sup>[兴化]</sup> 正式地、认真地：他为啊营造严肃气氛，说话的时候总是摆出一副～的样子。  
 1. 【[正果](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_gu.md#正果)】`zhen5 gu3` <sup>[兴化]</sup> ① （借）浪子回头有了好的归宿：这个小伙终于成吖～。 ② 恶性疾病得到确诊：他如今病成～，还是早办前程吧！  
+1. 【[正话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_hua.md#正话)】`zhen5 hua` <small>/t͡səŋ5 xuɑ/<sup>泰兴</sup></small> 正经话，合乎道理的话。<sup>\[泰兴\]</sup>  
 1. 【[正用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_ion.md#正用)】`zhen5 ion6` <sup>[兴化]</sup> 才能或钱物用于正经方面：他虽有本事，可借才不～。｜“……我指望这五十两银子不是全买靴子穿，我另外有个～哩。”（《火烧赤壁》一）  
 1. 【[正脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_jiah.md#正脚)】`zhen5 jiah7` <small>/t͡sən5 t͡ɕiaʔ7/<sup>兴化</sup></small> 右脚。<sup>\[泰州\]</sup>\[兴化：通常为右脚。\]  
 1. 【[正经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_jien.md#正经)】`zhen5 jien` <sup>[兴化]</sup> 确实、实在：要说喝酒，我～不行。  
@@ -866,7 +870,7 @@
 1. 【[正梁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_lian.md#正梁)】`zhen5 lian2` <sup>[如东]</sup> 房屋屋顶上的一架大梁，叫做正梁。  
 1. 【[正门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_men.md#正门)】`zhen5 men2` <sup>[东台]</sup> 建筑物正面的主要的门。  
 1. 【[正面正式的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_min_zhen_sheh_dii.md#正面正式的)】`zhen5 min6 zhen5 sheh7 dii` <sup>[如皋]</sup> 正式的、郑重的。  
-1. 【[正屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_oh.md#正屋)】`zhen5 oh7` <small>/t͡sən5 ɔʔ7/<sup>兴化</sup>, /t͡səŋ5 ɔʔ7/<sup>如皋</sup></small> ① 一宅平房中最主要的一台居室，即“上房”。<sup>\[如皋\]</sup> ② 牮屋，使倾斜的屋恢复正位。<sup>\[如皋\]</sup> ③ 院落中的主屋，通常坐北朝南<sup>\[兴化\]</sup>：我家有～三间，厢房两间。<sup>\[兴化\]</sup> ④ 位于正中主体部分房屋，相对厢房<sup>\[泰州\]</sup>：老家的房子三间～，东西各有两间厢房。<sup>\[泰州\]</sup>  
+1. 【[正屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_oh.md#正屋)】`zhen5 oh7` <small>/t͡sən5 ɔʔ7/<sup>兴化</sup>, /t͡səŋ5 ɔʔ7/<sup>如皋</sup>, /t͡səŋ5 ɔʔ7/<sup>泰兴</sup></small> ① 一宅平房中最主要的一台居室，即“上房”。<sup>\[如皋\]</sup> ② 牮屋，使倾斜的屋恢复正位。<sup>\[如皋\]</sup> ③ 院落中的主屋，通常坐北朝南<sup>\[兴化\]</sup>：我家有～三间，厢房两间。<sup>\[兴化\]</sup> ④ 位于正中主体部分房屋，相对厢房<sup>\[泰州\]</sup>：老家的房子三间～，东西各有两间厢房。<sup>\[泰州\]</sup> ⑤ 位于正中的主体房屋，与“厢屋”相对。<sup>\[泰兴\]</sup>  
 1. 【[正牌货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_pae_hu.md#正牌货)】`zhen5 pae2 hu5` <sup>[如皋]</sup> 真货，不是冒牌货、假货。  
 1. 【[正派](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_pae.md#正派)】`zhen5 pae5` <sup>[如东]</sup> 品德优，作风好：这个人～。  
 1. 【[正<sub>儿</sub>八经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_r_baeh_jien.md#正<sub>儿</sub>八经)】`zhen5 r baeh7 jien1` <sup>[东台]</sup> 正宗的、一本正经的样子。  
@@ -874,7 +878,7 @@
 1. 【[正人君子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_ren_jyen_zz.md#正人君子)】`zhen5 ren2 jyen1 zz` <sup>[如东]</sup> 品行端正的人。现多用于讽刺：此人是位～啊，动不得的。  
 1. 【[正日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_rih.md#正日)】`zhen5 rih8` <small>/t͡səŋ5 iʔ8/<sup>泰兴</sup></small> ① 节日当天，或正式办结婚喜庆礼仪的那一天。<sup>\[东台\]</sup><sup>\[泰兴\]</sup> ② 主要日子。旧时诸如结婚、生日等重要家庭喜庆活动，通常要用三天时间，首日下午报到，晚上酒席宴请一顿，称为“上客”，次日主人招待三顿，除早饭用早点外，中、晚酒席宴请，其中晚宴是三天中最主要的一顿，要上大菜，因为各种主要礼仪活动都在本日举行，故称之为“正日”，第三天招待早、中两顿，中饭酒席宴请，客人吃过中饭后离去，称为“打散”，民间谓之“三天六顿”<sup>\[泰州\]</sup>：他家小伙结婚～这天子乡长都过来啊。<sup>\[泰州\]</sup>  
 1. 【[正神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_shen.md#正神)】`zhen5 shen2` <small>/t͡sən5 sən2/<sup>兴化</sup>, /t͡səŋ5 səŋ2/<sup>泰兴</sup></small> ① （迷信）有益于人或在仙班序列中的神仙<sup>\[兴化\]</sup>：“……此福国庇民之～，陛下当往行香。”（《封神演义》一）<sup>\[兴化\]</sup> ② （借）正经人、正派人<sup>\[兴化\]</sup>\[泰州：一般用于否定句中\]：他偷鸡摸狗的，成不了～。<sup>\[兴化\]</sup>｜这小伙成天在街上鬼转，不是个～，你让他远点儿。<sup>\[泰州\]</sup>｜这个人喜欢搬话，不是甚的～，你要注意。<sup>\[泰州\]</sup> ③ 正道之神。乡人常加否定语用以责怪他人。<sup>\[泰兴\]</sup>：他不是个～<sup>\[泰兴\]</sup>  
-1. 【[正手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_sheu.md#正手)】`zhen5 sheu3` <small>/t͡sən5 sɤ3/<sup>兴化</sup></small> ① 右手 ② 右手。<sup>\[如东\]</sup><sup>\[泰州\]</sup> ③ 用手掌出击。<sup>\[如东\]</sup>：用～打。<sup>\[如东\]</sup> ④ 拿筷子、握笔的那一只手，通常为右手。<sup>\[兴化\]</sup>  
+1. 【[正手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_sheu.md#正手)】`zhen5 sheu3` <small>/t͡sən5 sɤ3/<sup>兴化</sup>, /t͡səŋ5 ɕiɤɯ3/<sup>泰兴</sup></small> ① 右手 ② 右手。<sup>\[如东\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup> ③ 用手掌出击。<sup>\[如东\]</sup>：用～打。<sup>\[如东\]</sup> ④ 拿筷子、握笔的那一只手，通常为右手。<sup>\[兴化\]</sup>  
 1. 【[正午时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_v_shr.md#正午时)】`zhen5 v3 shr2` <sup>[如皋]</sup> 白天十二点正。  
 1. 【[正孝子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_xio_zz.md#正孝子)】`zhen5 xio5 zz` <sup>[如东]</sup> 长子或长女为正孝子。  
 1. 【[正主<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zhv_r.md#正主<sub>儿</sub>)】`zhen5 zhv3 r` <sup>[兴化]</sup> 事件的直接关系人：我是这许的客人，有事等～家来再说。｜“这一厘是欠着什么？”“这一厘么？～还不在家。”（《醒世恒言》三）  

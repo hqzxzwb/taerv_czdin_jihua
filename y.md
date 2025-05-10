@@ -119,6 +119,7 @@
 1. 【[玉边竹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_bin_zhoh.md#玉边竹)】`y6 bin1 zhoh7` <sup>[如皋]</sup> 竹叶有白边的一种观赏竹。  
 1. 【[玉芦秫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_lv_xieh.md#玉芦秫)】`y6 lv2 xieh7` <small>/y6 lu2 ɕiəʔ7/<sup>兴化</sup>, /ɻy1 nu2 ɕiɪʔ7/<sup>泰县</sup></small> 玉米。<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>  
 1. 【[玉米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_mi.md#玉米)】`y6 mi` <sup>[如东]</sup> 禾本科植物玉蜀黍，一年生草本。高约4米。秤粗壮，直立。节间有髓。叶片长大，扁平，剑形。雄性囡锥花序顶生，雌性小穗孪生，排列于海绵状的穗轴上。颖果略呈扁球形。田间种植。  
+1. 【[玉米花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_mi_hua.md#玉米花)】`y6 mi hua1` <small>/y1 mʝ xuɑ1/<sup>泰兴</sup></small> 以玉米爆成的花状食品。<sup>\[泰兴\]</sup>  
 1. 【[玉米苞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_mi_bo_zz.md#玉米苞子)】`y6 mi3 bo1 zz` <sup>[如东]</sup> 玉米棒子外面的苞衣。  
 1. 【[玉米䜺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_mi_chae_r.md#玉米䜺<sub>儿</sub>)】`y6 mi3 chae3 r` <sup>[如东]</sup> 玉米磨成的碎粒。  
 1. 【[玉米䜺<sub>儿</sub>粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_mi_chae_r_zhoh.md#玉米䜺<sub>儿</sub>粥)】`y6 mi3 chae3 r zhoh7` <sup>[如东]</sup> 稀饭的一种。用玉米䜺儿和粳米煮成粥，营养丰富，并可作为一种医疗食品，经常吃，有益肺宁心调中开胃作用，治动脉硬化、高血脂症、冠心病等疾病。  

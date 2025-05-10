@@ -723,8 +723,8 @@
 1. 【[黄猫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_mo_r.md#黄猫<sub>儿</sub>)】`van2 mo2 r` <small>/ʋã2 mɔ˞2/<sup>如皋</sup></small> ① 黄鼠狼。<sup>\[如皋\]</sup><sup>\[东台\]</sup> ② 条形无馅馒头。<sup>\[如皋\]</sup>  
 1. 【[黄猫<sub>儿</sub>给鸡拜年——没安好心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_mo_r_gei.md#黄猫<sub>儿</sub>给鸡拜年——没安好心)】`van2 mo2 r gei5 ji1 bae5 nin2 meh8 un1 ho3 xien1` <sup>[东台]</sup>   
 1. 【[黄猫<sub>儿</sub>𠞖吖鸡窠里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_mo_r_gon_nga_ji_ku_lii.md#黄猫<sub>儿</sub>𠞖吖鸡窠里)】`van2 mo2 r gon1 nga ji1 ku1 lii` <sup>[如皋]</sup> 喻害群之马。使大家不得安宁，且带来祸害。  
-1. 【[黄猫<sub>儿</sub>看鸡——越看越稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_mo_r_kun.md#黄猫<sub>儿</sub>看鸡——越看越稀)】`van2 mo2 r kun1 ji1 iuh8 kun1 iuh8 xi1` <sup>[东台]</sup>   
 1. 【[黄猫<sub>儿</sub>看鸡，越看越稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_mo_r_kun_ji_iuh_kun_iuh_xi.md#黄猫<sub>儿</sub>看鸡，越看越稀)】`van2 mo2 r kun1 ji1 iuh8 kun1 iuh8 xi1` <sup>[如皋]</sup> 吃得差不多了。  
+1. 【[黄猫<sub>儿</sub>看鸡——越看越稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_mo_r_kun.md#黄猫<sub>儿</sub>看鸡——越看越稀)】`van2 mo2 r kun1 ji1 iuh8 kun1 iuh8 xi1` <sup>[东台]</sup>   
 1. 【[黄猫<sub>儿</sub>嗍咖血的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_mo_r_shuah.md#黄猫<sub>儿</sub>嗍咖血的)】`van2 mo2 r shuah7 ga xiuh7 dii` <sup>[如皋]</sup> 詈语。脸色焦黄或灰白，无血色的样子。  
 1. 【[黄猫<sub>儿</sub>专拣病鸡咬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_mo_r_zhun.md#黄猫<sub>儿</sub>专拣病鸡咬)】`van2 mo2 r zhun1 gaen3 pien6 ji1 ngo3` <sup>[东台]</sup> 喻指自身有弱点，敌人会乘虚而入。  
 1. 【[黄䱀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ngan.md#黄䱀)】`van2 ngan1` <sup>[如皋]</sup> 黄颡。  
@@ -952,6 +952,7 @@
 1. 【[未儿完](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_er_un.md#未儿完)】`vei6 er un2` <sup>[兴化]</sup> 没有了结：我一生还剩这个～。｜这是我的～，不处理掉心里不安。  
 1. 【[未婚夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_huen_fv.md#未婚夫)】`vei6 huen1 fv1` <sup>[如东]</sup> 已经订婚尚未结婚的丈夫。  
 1. 【[未婚妻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_huen_qi.md#未婚妻)】`vei6 huen1 qi1` <sup>[如东]</sup> 已经订婚尚未结婚的妻子。  
+1. 【[未水先打坝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_shuei_xin_da.md#未水先打坝)】`vei6 shuei3 xin1 da3 ba5` <small>/ʋəɪ1 suəɪ3 ɕĩ1 tɑ3 pɑ5/<sup>泰兴</sup></small> 喻将可能出现的问题消灭在萌芽状态中。<sup>\[泰兴\]</sup>  
 1. 【[未水先作坝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_shuei_xin_zah_ba.md#未水先作坝)】`vei6 shuei3 xin1 zah7 ba5` <sup>[东台]</sup> 凡时要提前准备，防患于未然。  
 1. 【[□塘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_tan.md#□塘)】`ven tan2` <sup>[如东]</sup> 水面上出现的一种漩涡，波纹向四面扩散：这条鱼不小，泛起这吖大的～。  
 1. 【[温柔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_reu.md#温柔)】`ven1 reu2` <sup>[如东]</sup> 脾气柔和。  

@@ -1164,6 +1164,7 @@
 1. 【[□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mih_xih.md#□□)】`mih8 xih` <sup>[如皋]</sup> 装马虎，不急于理睬：这伢儿～吤，喊他不睬人，只顾忙他的杲子。  
 1. 【[灭茬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mih_cha.md#灭茬)】`mih8 cha5` <sup>[东台]</sup> 收割农作物后将留在田里的秸秆埋入土中。  
 1. 【[灭朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mih_cho.md#灭朝)】`mih8 cho2` <sup>[东台]</sup> ① 改朝换代。 ② 指因地震、海啸等特大自然灾害造成毁灭性灾难。  
+1. 【[灭朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mih_cho.md#灭朝)】`mih8 cho2` <small>/miʔ8 t͡sʰɔ2/<sup>泰兴</sup></small> 彻底完蛋。<sup>\[泰兴\]</sup>：死人～失天火<sup>\[泰兴\]</sup>  
 1. 【[灭门其乎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mih_men_qi_hv.md#灭门其乎)】`mih8 men qi hv` 乱七八糟的，一塌糊涂的。“灭门绝户”的讹音。  
 1. 【[灭门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mih_men.md#灭门)】`mih8 men2` <sup>[如皋]</sup> 全家都死光了。  
 1. 【[灭门绝户](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mih_men_qiuh_hv.md#灭门绝户)】`mih8 men2 qiuh8 hv6` <small>/miɪʔ8 mən2 t͡ɕʰyuʔ8 xu6/<sup>兴化</sup>, /miʔ8 məŋ2 t͡ɕʰyʊʔ8 fu1/<sup>如皋</sup></small> ① 门户已被灭绝，形容遭受巨大的灾难。<sup>\[如东\]</sup> ② 全家死光、门户灭绝。<sup>\[如皋\]</sup> ③ （詈语）死尽死绝<sup>\[东台\]</sup>：当年日本鬼子杀人放火，～！<sup>\[东台\]</sup> ④ 全家死光或离散，空无一人<sup>\[兴化\]</sup>：这个人家过去多威风，而今死的死，逃的逃，～啊。<sup>\[兴化\]</sup>  
@@ -1775,10 +1776,12 @@
 1. 【[末朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/muh_cho.md#末朝)】`muh8 cho2` <sup>[如皋]</sup> 毁灭性的灾难，如地陷、海啸、大地震。  
 1. 【[末座](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/muh_cu.md#末座)】`muh8 cu6` <sup>[东台]</sup> 席次最卑小的座位。  
 1. 【[末了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/muh_lio.md#末了)】`muh8 lio3` <sup>[泰州]</sup> 末尾结束之时，最后：这小伙不胎谐，在班上的成绩排啊在～。  
+1. 【[末了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/muh_lio.md#末了)】`muh8 lio3` <small>/mʊʔ8 liɔ3/<sup>泰兴</sup></small> 最后，末尾。<sup>\[泰兴\]</sup>  
 1. 【[末末礓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/muh_muh_jian_r.md#末末礓<sub>儿</sub>)】`muh8 muh8 jian3 r` <small>/mʊʔ8 mʊʔ8 t͡ɕia˞3/<sup>如皋</sup></small> ① 最细小的。<sup>\[如东\]</sup>：这是～。<sup>\[如东\]</sup> ② 排行最小的。<sup>\[如东\]</sup>：他在家里是～。<sup>\[如东\]</sup> ③ 小人物。<sup>\[如东\]</sup>：他是～。<sup>\[如东\]</sup> ④ 最后的一点儿东西。<sup>\[如东\]</sup>：剩下一点～，你拿啊去吧。<sup>\[如东\]</sup> ⑤ 最后、最小的<sup>\[如皋\]</sup>：你是头一名，他是～。<sup>\[如皋\]</sup> ⑥ 辈份在某人的五代之后<sup>\[如皋\]</sup>：灰灰孙儿～。<sup>\[如皋\]</sup>  
 1. 【[末末了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/muh_muh_lio.md#末末了)】`muh8 muh8 lio3` <sup>[兴化]</sup> 最后：他个子矮，排在全班～儿。｜一看电码的～一个字，不是继之的名字。（《二十年目睹之怪现状》五九）  
+1. 【[末梢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/muh_sho.md#末梢)】`muh8 sho1` <small>/mʊʔ8 sɔ1/<sup>泰兴</sup></small> ① 末尾，最后。<sup>\[泰兴\]</sup> ② （泰兴）江边过船有龙梢港，为入江口，传为老龙河的末梢，故称。<sup>\[泰兴\]</sup>  
 1. 【[末香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/muh_xian.md#末香)】`muh8 xian1` <small>/muʔ8 ɕiaŋ1/<sup>兴化</sup>, /mʊʔ8 ɕiɑŋ1/<sup>泰县</sup></small> ① 檀香树的锯末，燃烧时有香味。<sup>\[兴化\]</sup> ② 詈语，指香烟\[泰州：詈词，指今人所吸的香烟，取其“烧钱”之义，以“末香价值昂贵”，故有此喻\]\[泰县：（禁忌语）点在死人头前的香，现指香烟\]：你又烧～吖。<sup>\[泰县\]</sup>｜就拿啊这两个钱，哪块掌得住他成天烧～。<sup>\[泰州\]</sup>  
-1. 【[末子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/muh_zz.md#末子)】`muh8 zz` ① 碎屑<sup>\[东台\]</sup>：京果～<sup>\[东台\]</sup>｜茶叶～。<sup>\[东台\]</sup> ② 粉末，碎屑<sup>\[泰州\]</sup>：茶叶～。<sup>\[泰州\]</sup>  
+1. 【[末子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/muh_zz.md#末子)】`muh8 zz` <small>/mʊʔ8 t͡sɿ/<sup>泰兴</sup></small> 粉末，碎屑<sup>\[东台\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：京果～<sup>\[东台\]</sup>｜茶叶～。<sup>\[东台\]</sup>｜茶叶～。<sup>\[泰州\]</sup>｜茶叶～。<sup>\[泰兴\]</sup>  
 1. 【[茉莉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/muh_li.md#茉莉)】`muh8 li6` <sup>[如东]</sup> 木犀科植物茉莉。  
 1. 【[饝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/muh.md#饝)】`muh8` <sup>[泰州]</sup> 无牙老人将食物在嘴中慢慢搅动，软化以后咽下：老太没牙子，只好弄点ㄦ蛋糕把她在嘴里～～吧。｜牙齿不中唻，碗里这点ㄦ饭～咖半天才吃下去。  
 1. 【[瞒谎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_huan.md#瞒谎)】`mun2 huan3` <sup>[东台]</sup> 撒谎，不讲真话。  
