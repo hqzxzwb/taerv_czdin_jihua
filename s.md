@@ -2086,7 +2086,9 @@
 1. 【[屎腥皮臭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_xien_pi_cheu.md#屎腥皮臭)】`shr3 xien1 pi2 cheu5` <sup>[兴化]</sup> 人品性恶劣，名声极坏：他到处诓吃诓喝，把名声弄得～的。  
 1. 【[世界](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_gae.md#世界)】`shr5 gae5` <sup>[兴化]</sup> ① 污七八糟的东西：一摊～。 ② （引）遗留问题：他作的～留把人收拾。  
 1. 【[世故](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_gv.md#世故)】`shr5 gv5` <sup>[东台]</sup> ① 待人接物的处事经验，也指世俗人情。 ② （处事待人）圆滑，不肯轻易得罪人：这个人有些～。  
-1. 【[世上三件苦，打铁行船磨豆腐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_shan_saen_qin_kv_da_tih_xien_chun_mu_teu_fv.md#世上三件苦，打铁行船磨豆腐)】`shr5 shan6 saen1 qin6 kv3 da3 tih7 xien2 chun2 mu2 teu6 fv` <sup>[东台]</sup> 旧时这几项不分日夜，皆重体力活。  
+1. 【[世上三桩苦，行船打铁磨豆腐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_shan_saen_zhuan.md#世上三桩苦，行船打铁磨豆腐)】`shr5 shan saen1 zhuan1 kv3 xien2 chun2 da3 tih7 mu6 teu6 fv` <small>/sɿ5 sɑŋ ɕiɛ̃1 t͡suɑŋ1 kʰu3 ɕiŋ2 t͡sʰʊ̃2 tɑ3 tʰiʔ7 mɤɯ1 tʰəɪ1 fʋ/<sup>泰兴</sup></small> 谓这三种行业是非常辛苦的。<sup>\[泰兴\]</sup>  
+1. 【[世上三件苦，打铁行船磨豆腐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_shan_saen_qin.md#世上三件苦，打铁行船磨豆腐)】`shr5 shan6 saen1 qin6 kv3 da3 tih7 xien2 chun2 mu6 teu6 fv` <sup>[东台]</sup> 旧时这几项不分日夜，皆重体力活。  
+1. 【[世务](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_v.md#世务)】`shr5 v` <small>/sɿ5 ʋ/<sup>泰兴</sup></small> 谋身治世之事；世情，时势；人际关系。<sup>\[泰兴\]</sup>：人情～<sup>\[泰兴\]</sup>｜家好当，～难处。<sup>\[泰兴\]</sup>  
 1. 【[势摇𧺕拐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_io_shah_guae.md#势摇𧺕拐)】`shr5 io2 shah8 guae3, shr2 io2 shah8 guae3` <sup>[东台]</sup> 形容衣衫不整，走路摇晃，东倒西歪的样子：你看他～的，一点儿也没得个正经人的样子。  
 1. 【[势利眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_li_ngaen.md#势利眼)】`shr5 li6 ngaen3` <sup>[东台]</sup> 对有权有势的或对自己有好处的人就热情，反之就冷淡。  
 1. 【[势派](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_pae.md#势派)】`shr5 pae` <sup>[兴化]</sup> 排场、气势：他在外头当吖官，那种～吓人哩！  

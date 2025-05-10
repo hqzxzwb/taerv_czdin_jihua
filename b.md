@@ -1013,6 +1013,7 @@
 1. 【[本桑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_san.md#本桑)】`ben3 san1` <sup>[如皋]</sup> 本地乔木桑。  
 1. 【[本色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_seh.md#本色)】`ben3 seh7` <sup>[东台]</sup> ① 本来的颜色。 ② 本来的面目。 ③ 质朴自然，不加修饰。  
 1. 【[本生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_shen.md#本生)】`ben3 shen1` <sup>[如皋]</sup> 原来，根本：他～姓练，参加革命后姓何。  
+1. 【[本生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_shen.md#本生)】`ben3 shen1` <small>/pəŋ3 səŋ1/<sup>泰兴</sup></small> 原本，原来。<sup>\[泰兴\]</sup>  
 1. 【[本事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_shr.md#本事)】`ben3 shr` <small>/pəŋ3 sɿ/<sup>泰兴</sup></small> 本领，能耐<sup>\[泰兴\]</sup>  
 1. 【[本事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_shr.md#本事)】`ben3 shr6` <sup>[泰州]</sup> 本领，处理事务的能力。  
 1. 【[本柿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_shr_zz.md#本柿子)】`ben3 shr6 zz` <sup>[如皋]</sup> 未嫁接的柿子，果实小，有籽。  

@@ -181,7 +181,7 @@
 1. 【[马草马料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_co_ma_lio.md#马草马料)】`ma3 co3 ma3 lio6` <sup>[如皋]</sup> 本指饲马的草料，又指腊月二十四送灶时给灶神所骑的“马”准备的稻草4-8小段，麸皮少许。灶神是“蟑螂”，灶马是“钱驮子”。  
 1. 【[马大哈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_da_ha.md#马大哈)】`ma3 da6 ha1` <small>/mɑ3 tɑ1 xɑ1/<sup>泰兴</sup></small> ① 粗心大意。<sup>\[如东\]</sup>：做事不能～。<sup>\[如东\]</sup> ② 遇事粗心很不在乎的人。<sup>\[泰兴\]</sup>：不要说别人二百五，自家也是个～。<sup>\[泰兴\]</sup>  
 1. 【[马灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_den.md#马灯)】`ma3 den1` <small>/ma3 təŋ1/<sup>如皋</sup>, /mɑ3 təŋ1/<sup>泰兴</sup></small> ① 桅灯。<sup>\[如皋\]</sup> ② 一种防风油灯。<sup>\[泰兴\]</sup>  
-1. 【[马䙞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_den_zz.md#马䙞子)】`ma3 den5 zz` <sup>[泰兴]</sup> 马夹，夹衣。  
+1. 【[马𧘸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_den_zz.md#马𧘸子)】`ma3 den5 zz` <sup>[泰兴]</sup> 马夹，夹衣。  
 1. 【[马兜铃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_deu_lien.md#马兜铃)】`ma3 deu1 lien2` <sup>[如东]</sup> 马兜铃科植物马兜铃，多年生缠绕或匍匐状细弱草本。  
 1. 【[马儿扯儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_er_cha_er.md#马儿扯儿)】`ma3 er2 cha3 er2` <sup>[泰兴]</sup> 拉拉扯扯，乱拉乱扯。办事草率，不专心。  
 1. 【[马耳头菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_er_teu_cae.md#马耳头菜)】`ma3 er3 teu cae5` <sup>[如皋]</sup> 冬春上市的一种青菜，叶长若马耳。煮之汤白。  

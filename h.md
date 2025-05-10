@@ -316,7 +316,7 @@
 1. 【[瞎子看见鬼——多呢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haeh_zz_kun_jin_guei_du_nii.md#瞎子看见鬼——多呢)】`haeh7 zz kun5 jin5 guei3 du1 nii` <sup>[东台]</sup>   
 1. 【[瞎子摸鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haeh_zz_mah_y.md#瞎子摸鱼)】`haeh7 zz mah8 y2` <sup>[如皋]</sup> 一种集体游戏。一人蒙住眼睛去摸别人并猜是谁。猜中为胜，被猜中者做“瞎子”。  
 1. 【[瞎子磨刀——看见亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haeh_zz_mu_do_kun_jin_lian.md#瞎子磨刀——看见亮)】`haeh7 zz mu2 do1 kun5 jin5 lian6` <sup>[东台]</sup>   
-1. 【[瞎子磨豆腐——来啊浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haeh_zz_mu_teu_fv_lae_a_jian.md#瞎子磨豆腐——来啊浆)】`haeh7 zz mu2 teu6 fv lae2 a jian1` <sup>[东台]</sup>   
+1. 【[瞎子磨豆腐——来啊浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haeh_zz_mu_teu_fv_lae_a_jian.md#瞎子磨豆腐——来啊浆)】`haeh7 zz mu6 teu6 fv lae2 a jian1` <sup>[东台]</sup>   
 1. 【[瞎子吃汤圆——心里有数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haeh_zz_qieh_tan_iun_xien_lii_ieu_shv.md#瞎子吃汤圆——心里有数)】`haeh7 zz qieh7 tan1 iun2 xien1 lii ieu3 shv5` <sup>[东台]</sup>   
 1. 【[瞎子闻到臭味——离屎（死）不远](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haeh_zz_ven_do_cheu_vei_li_shr_beh_iun.md#瞎子闻到臭味——离屎（死）不远)】`haeh7 zz ven2 do5 cheu5 vei6 li6 shr3（sz3） beh7 iun3` <sup>[东台]</sup>   
 1. 【[匣小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haeh_xio.md#匣小)】`haeh8 xio3` <sup>[泰县]</sup> （禁忌语）小孩。  
@@ -328,6 +328,7 @@
 1. 【[𢜩皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_pi.md#𢜩皮)】`haen1 pi2` <small>/xɛ̃1 pʰʝ2/<sup>泰兴</sup>, /xɛ̃1 pʰɿ2/<sup>泰县</sup></small> ① 做事不利索的人<sup>\[泰县\]</sup><sup>\[泰兴\]</sup>：你这个～，快点儿起来。<sup>\[泰县\]</sup> ② 极愚蠢地调皮，指做错事后受到斥责而不生气的人<sup>\[泰州\]</sup>：小赵这家伙是个～，上次上班迟到，说过他以后，顶多好啊两天，今朝早上他老先生又迟到唻。<sup>\[泰州\]</sup> ③ 儿童傻乎乎地做出破坏性行为<sup>\[泰州\]</sup>：这细小伙～，能把金鱼缸里的鱼全部捞出来玩。<sup>\[泰州\]</sup>  
 1. 【[𢜩事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_shr.md#𢜩事)】`haen1 shr6` <sup>[泰县]</sup> 食品不脆：前几天买的脆饼儿倒～唻。  
 1. 【[𢜩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_zz.md#𢜩子)】`haen1 zz` <sup>[泰县]</sup> 很长时间：他～都不得来，你不要等吖。  
+1. 【[𪎉子搅米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_zz_go_mi.md#𪎉子搅米)】`haen1 zz go3 mi3` <small>/xɛ̃1 t͡sɿ kɔ3 mʝ3/<sup>泰兴</sup></small> 犹“名堂”。<sup>\[泰兴\]</sup>：两个人东拉西扯的大半天，不曾说到个～。<sup>\[泰兴\]</sup>  
 1. 【[□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_zaen.md#□□)】`haen2 zaen5` <sup>[泰县]</sup> ① 贵：这个菜伍角钱一斤，太～吖。 ② 寒酸。  
 1. 【[含糊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_hv.md#含糊)】`haen2 hv` <sup>[兴化]</sup> 芥蒂、嫌隙：他俫原来就有～，不然为这点小事不会大吵大闹！  
 1. 【[咸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen.md#咸)】`haen2` <sup>[兴化]</sup> 菜肴：中饭～；晚饭～。  

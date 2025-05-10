@@ -2208,35 +2208,52 @@
 1. 【[𧰵洋机](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/doh_ian_ji.md#𧰵洋机)】`doh7 ian2 ji1` <small>/tɔʔ7 iaŋ2 t͡ɕi1/<sup>兴化</sup></small> ① 踏缝纫机，运行缝纫机<sup>\[东台\]</sup>\[兴化：借指从事缝纫职业\]：他在南门外～。<sup>\[兴化\]</sup> ② 踩缝纫机<sup>\[泰州\]</sup>：她在服装厂里～好些年唻。<sup>\[泰州\]</sup>  
 1. 【[𧰵齐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/doh_qi.md#𧰵齐)】`doh7 qi2` <sup>[如东]</sup> 把不整齐的枝条在地上一上一下地躅动，使之齐整：把芦苇～。  
 1. 【[𧰵糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/doh_tan.md#𧰵糖)】`doh7 tan2` <small>/tɔʔ7 tʰaŋ2/<sup>兴化</sup></small> ① 一种儿童博彩的游戏。<sup>\[兴化\]</sup> ② 一种带有博彩性质的售糖方法，在约一平方米的长圆形盘内带有斜度的平板上钻若干个圆洞，洞的四周用大头针钉成U形，开口之处仅可滚进小玻璃球，每个洞口上部根据小玻璃球落进洞的机率（机率高者放低价东西，反之则放高价东西）放置水果糖、薄荷糖等，底部设一长洞。小孩交钱以后，抽动底部安有弹簧的铁棍击打玻璃球，使之沿着弯曲轨道冲向盘的顶部，然后自由下落，落进哪个小洞，洞上所放东西就归小孩所有，如玻璃球进入长洞，小贩给一远低于所交钱的价值的小糖予以安慰。以其借助小圆铁棒垂直击打小玻璃球，故名。例如：小三子下晚在演化桥口毅糖赢呃一条水果糖。<sup>\[泰州\]</sup>  
+1. 【[东不成，西不就](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_beh_chen_xi.md#东不成，西不就)】`don1 beh7 chen2 xi1 beh7 qieu6` <small>/tɔŋ1 pəʔ7 t͡sʰəŋ2 ɕʝ1 pəʔ7 t͡ɕʰiɤɯ1/<sup>泰兴</sup></small> 谓多方谋划而事情总是办不成<sup>\[泰兴\]</sup>：丫头也不小了，介绍的人也不少，就是～<sup>\[泰兴\]</sup>  
+1. 【[东䁃西相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_bio_xi_xian.md#东䁃西相)】`don1 bio1 xi1 xian5` <small>/tɔŋ1 piɔ1 ɕʝ1 ɕiɑŋ5/<sup>泰兴</sup></small> 犹东张西望。<sup>\[泰兴\]</sup>  
+1. 【[东北风，雨太公](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_boh_fon_y.md#东北风，雨太公)】`don1 boh7 fon1 y3 tae5 gon1` <small>/tɔŋ1 pɔʔ7 fɔŋ1 y3 tʰɛ5 kɔŋ1/<sup>泰兴</sup></small> 气象谚语。谓东北风刮起会阴雨连绵不断。<sup>\[泰兴\]</sup>  
 1. 【[东半上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_bun_shan.md#东半上)】`don1 bun shan` <sup>[如皋]</sup> 东边。  
 1. 【[东扯西拉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_cha_xi_la.md#东扯西拉)】`don1 cha3 xi1 la1` <sup>[如东]</sup> 随便胡说乱吹。  
 1. 【[东场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_chan.md#东场)】`don1 chan2` 东面邻居  
+1. 【[东角落打不到西角落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_gah_lah_da.md#东角落打不到西角落)】`don1 gah7 lah da3 beh7 do5 xi1 gah7 lah` <small>/tɔŋ1 kɑʔ7 lɑʔ tɑ3 pəʔ7 tɔ5 ɕʝ1 kɑʔ7 lɑʔ/<sup>泰兴</sup></small> 犹言极宽敞，面积很广。<sup>\[泰兴\]</sup>  
 1. 【[东沟钓鱼西沟放](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_geu_dio_y_xi_geu_fan.md#东沟钓鱼西沟放)】`don1 geu1 dio5 y2 xi1 geu1 fan5` <sup>[东台]</sup> ［喻］只注重生财，不善于聚财和理财。  
+1. 【[东滚西爬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_guen_xi_pa.md#东滚西爬)】`don1 guen3 xi1 pa2` <small>/tɔŋ1 kuəŋ3 ɕʝ1 pʰɑ2/<sup>泰兴</sup></small> 形容溃逃时的狼狈相。<sup>\[泰兴\]</sup>  
+1. 【[东河里捉鱼，西河里放生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_hu_lii_zhuah.md#东河里捉鱼，西河里放生)】`don1 hu2 lii zhuah7 y2 xi1 hu2 lii fan5 shen1` <small>/tɔŋ1 xɤɯ2 ləɪ t͡suɑʔ7 y2 ɕʝ1 xɤɯ2 ləɪ fɑŋ5 səŋ1/<sup>泰兴</sup></small> 谓不聚财，钱到手就花光。<sup>\[泰兴\]</sup>：他赚的钱不少，就是～，没得积余。<sup>\[泰兴\]</sup>  
 1. 【[东伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_hu.md#东伙)】`don1 hu3` <sup>[兴化]</sup> 老板（店东）与职工（伙计）：他俫～关系不丑。  
 1. 【[东洋车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_ian_cha.md#东洋车)】`don1 ian2 cha1` <sup>[兴化]</sup> 旧指人力车。  
 1. 【[东洋大海](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_ian_da_hae.md#东洋大海)】`don1 ian2 da5 hae3` <sup>[泰州]</sup> 比喻极其遥远的地方：你关照他的话老早丢啊～去啊唻。  
 1. 【[东洋大海](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_ian_da_hae.md#东洋大海)】`don1 ian2 da6 hae3` <sup>[兴化]</sup> 极言非常遥远的地方：你拜托他的事情，他老早撂到～去啊。  
 1. 【[东洋剪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_ian_jin_zz.md#东洋剪子)】`don1 ian2 jin3 zz` <sup>[兴化]</sup> 理发工具，上下有两排带刃的齿。也称“推子”。  
-1. 【[东一榔头西一棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_ieh_lan_teu_xi_ieh_pan.md#东一榔头西一棒)】`don1 ieh7 lan2 teu xi1 ieh7 pan6` <sup>[东台]</sup> 形容说话办事没有条理，乱扯。  
+1. 【[东一榔头西一棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_ieh_lan_teu.md#东一榔头西一棒)】`don1 ieh7 lan2 teu xi1 ieh7 pan6` <sup>[东台]</sup> 形容说话办事没有条理，乱扯。  
+1. 【[东一榔头西一棒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_ieh_lan_teu.md#东一榔头西一棒子)】`don1 ieh7 lan2 teu xi1 ieh7 pan6 zz` <small>/tɔŋ1 iʔ7 lɑŋ2 tʰəɪ ɕʝ1 iʔ7 pʰɑŋ1 t͡sɿ/<sup>泰兴</sup></small> 喻做事没有全局观点，忙于局部应付：或说话没有中心，东一句西一句，不相连贯。<sup>\[泰兴\]</sup>：他讲了半天，～的，我不曾听到个头绪。<sup>\[泰兴\]</sup>  
+1. 【[东游西荡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_ieu_xi_tan.md#东游西荡)】`don1 ieu2 xi1 tan6` <small>/tɔŋ1 iɤɯ2 ɕʝ1 tʰɑŋ1/<sup>泰兴</sup></small> 谓到处游荡，形容不务正业。<sup>\[泰兴\]</sup>  
 1. 【[东家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_jia.md#东家)】`don1 jia` <sup>[如东]</sup> 旧时受雇人称主人为东家。  
+1. 【[东家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_jia.md#东家)】`don1 jia` <small>/tɔŋ1 t͡ɕiɑ/<sup>泰兴</sup></small> 旧时雇工、佃户、幕僚对雇主、田主、上司的称呼；有时也作对东道主的称呼。<sup>\[泰兴\]</sup>：～逼债如虎狼。<sup>\[泰兴\]</sup>  
 1. 【[东境](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_jien.md#东境)】`don1 jien` <small>/tɔŋ1 t͡ɕiəŋ/<sup>如皋</sup>, /toŋ1 t͡ɕiŋ/<sup>泰县</sup></small> ① 泛指东边的地方 ② 东边。<sup>\[如皋\]</sup> ③ 东面<sup>\[泰县\]</sup>：他家在～。<sup>\[泰县\]</sup>  
 1. 【[东境窜毫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_jien_cun_ho.md#东境窜毫)】`don1 jien cun5 ho2` <sup>[如皋]</sup> 黎明时分，一道毫光射向黑暗的天空。就一刹那。  
 1. 【[东凌港](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_lien_gan.md#东凌港)】`don1 lien2 gan3` <sup>[如东]</sup> 如东渔港。位于兵房镇东安闸外。高潮位，水深8-10米，低潮位，水深5米。港宽30-50米。常航能力50-80吨，最大通航能力400吨。能泊50-80吨渔船。  
 1. 【[东凌堤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_lien_ti.md#东凌堤)】`don1 lien2 ti2` <sup>[如东]</sup> 东凌堤分两期工程：<br>老东凌堤：1981年1 1月30日至1982年1月8日，为匡围东凌垦区而修筑。县政府成立围垦工程指挥部，顾永乐任指挥，调集掘东、岔河、双甸、马塘、丰剁、掘港6区民工近8万人参加施工。自东安闸北港堤起，绕十贯堤外滩，接北坎新堤东北角，全长16.58公里。完成土方355万立方米。顶高程8-8.5米，顶宽6米。<br>新东凌堤：2007年1月24日至2007年10月15日结束，筑堤14.005公里。采用机械化作业。动用民力0.15万人。  
 1. 【[东路鸡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_lv_ji_zz.md#东路鸡子)】`don1 lv6 ji1 zz` <sup>[如皋]</sup> 如皋三黄鸡。泰州称如皋为东路。  
+1. 【[东南风的小鸡子，死多活少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_nun_fon_dii.md#东南风的小鸡子，死多活少)】`don1 nun fon1 dii xio3 ji zz sz3 du1 uh8 sho3` <small>/tɔŋ1 nʊ̃ fɔŋ1 təɪ ɕiɔ3 t͡ɕʝ t͡sɿ sɿ3 tɤɯ1 ʊʔ8 sɔ3/<sup>泰兴</sup></small> 歇后语。春天刮东南风，天气湿冷，刚孵出的雏鸡容易死亡。<sup>\[泰兴\]</sup>  
 1. 【[东斜西竵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_qia_xi_huae.md#东斜西竵)】`don1 qia2 xi1 huae1` <sup>[如东]</sup> 歪歪斜斜，很不整齐的样子。  
 1. 【[东席不管西席](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_qieh_beh_gun_xi_qieh.md#东席不管西席)】`don1 qieh8 beh7 gun3 xi1 qieh8` <sup>[东台]</sup> 以酒席喻指只管分内事。  
+1. 【[东席不管西席](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_qieh_beh_gun_xi_qieh.md#东席不管西席)】`don1 qieh8 beh7 gun3 xi1 qieh8` <small>/tɔŋ1 t͡ɕʰiʔ8 pəʔ7 kʊ̃3 ɕʝ1 t͡ɕʰiʔ8/<sup>泰兴</sup></small> 喻各管各的事，别人不要来干预。<sup>\[泰兴\]</sup>  
 1. 【[东晒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_shae.md#东晒)】`don1 shae5` <sup>[如皋]</sup> 上午阳光的照射。  
 1. 【[东首](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_sheu.md#东首)】`don1 sheu3` <sup>[东台]</sup> 东头。（首即头）  
+1. 【[东闪空，西闪风，南闪天门开，北闪雨上担](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_shin_kon_xi.md#东闪空，西闪风，南闪天门开，北闪雨上担)】`don1 shin3 kon1 xi1 shin3 fon1 nun2 shin3 tin1 men2 kae1 boh7 shin3 y3 shan6 daen5` <small>/tɔŋ1 ɕĩ3 kʰɔŋ1 ɕʝ1 ɕĩ3 fɔŋ1 nʊ̃2 ɕĩ3 tʰĩ1 məŋ2 kʰɛ1 pɔʔ7 ɕĩ3 y3 sɑŋ1 tɛ̃5/<sup>泰兴</sup></small> 气象谚语<sup>\[泰兴\]</sup>  
 1. 【[东头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_teu.md#东头)】`don1 teu2` <sup>[如皋]</sup> 东边。  
 1. 【[东天抽毫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_tin_cheu_ho.md#东天抽毫)】`don1 tin1 cheu1 ho2` <sup>[如东]</sup> 拂晓时，东方初现亮光：～他就起来啊。  
 1. 【[东天窜毫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_tin_cun_ho.md#东天窜毫)】`don1 tin1 cun5 ho2` <sup>[如皋]</sup> 见“东境窜毫”。  
 1. 【[东道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_to.md#东道)】`don1 to6` <sup>[如东]</sup> ① 请客：请你做～。 ② 打赌：我俫赌个～吧？  
+1. 【[东道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_to.md#东道)】`don1 to6` <small>/tɔŋ1 tʰɔ1/<sup>泰兴</sup></small> 主人的代称；作东，设宴请客；赌博的庄家。<sup>\[泰兴\]</sup>  
 1. 【[东吴招亲——弄假成真](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_v_zho_qien.md#东吴招亲——弄假成真)】`don1 v2 zho1 qien1 lon6 jia3 chen2 zhen1` <sup>[东台]</sup>   
 1. 【[东西](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_xi.md#东西)】`don1 xi1` <sup>[如东]</sup> ① 方向：～方向。 ② 物体：甚的～。  
 1. 【[东西场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_xi_chan.md#东西场)】`don1 xi1 chan2` 东西面邻居  
-1. 【[东西耳朵南北听](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_xi_er_du_nun_boh_tien.md#东西耳朵南北听)】`don1 xi1 er3 du nun2 boh7 tien5` <sup>[东台]</sup> 责备语，形容对方把别人的话听错了。  
+1. 【[东西耳刀南北听](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_xi_er_do.md#东西耳刀南北听)】`don1 xi1 er3 do nun2 boh7 tien5` <sup>[东台]</sup> 责备语，形容对方把别人的话听错了。  
+1. 【[东西耳刀南北听](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_xi_er_do.md#东西耳刀南北听)】`don1 xi1 er3 do nun2 boh7 tien5` <small>/tɔŋ1 ɕʝ1 ɚ3 tɔ nʊ̃2 pɔʔ7 tʰiŋ5/<sup>泰兴</sup></small> 谓不专心听取别人的讲话，常跟“南北耳朵打苍蝇”句连用。<sup>\[泰兴\]</sup>  
+1. 【[东西南北风，来去好扯篷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_xi_nun_boh.md#东西南北风，来去好扯篷)】`don1 xi1 nun2 boh7 fon1 lae2 qy ho3 cha3 pon2` <small>/tɔŋ1 ɕʝ1 nʊ̃2 pɔʔ7 fɔŋ1 lɛ2 t͡ɕʰy xɔ3 t͡sʰɑ3 pʰɔŋ2/<sup>泰兴</sup></small> 帆船行驶时遇上各种风向，均可扯篷，可侧可正，视风势调整。<sup>\[泰兴\]</sup>  
 1. 【[东乡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_xian.md#东乡)】`don1 xian1` <sup>[兴化]</sup> 市境东部的乡镇：～地势高，种棉花、旱谷的比较多。  
+1. 【[东乡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_xian.md#东乡)】`don1 xian1` <small>/tɔŋ1 ɕiɑŋ1/<sup>泰兴</sup></small> 乡人对泰兴东部原旱谷地区（以黄桥为中心）的习称，相对于以泰兴为中心的沿江西部地区。<sup>\[泰兴\]</sup>  
+1. 【[东乡人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_xian_ren.md#东乡人)】`don1 xian1 ren2` <small>/tɔŋ1 ɕiɑŋ1 ɻəŋ2/<sup>泰兴</sup></small> 乡人对县域东部地区人的习称。<sup>\[泰兴\]</sup>  
 1. 【[冬菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_cae.md#冬菜)】`don1 cae5` <small>/tɔŋ1 t͡sʰɛ5/<sup>如皋</sup></small> ① 冬天上市的蔬菜。<sup>\[如皋\]</sup> ② 州中一种小菜名称，将经过冬天生长，冬春交汇之季长出嫩薹的青菜切碎，加盐揉透，用手挤去卤汁，捺入小坛之内，密封，夏季食用，味极鲜美。以菜长于冬天，故名。<sup>\[泰州\]</sup>  
 1. 【[冬粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_fen.md#冬粉)】`don1 fen3` <small>/tɔŋ1 fəŋ3/<sup>如皋</sup></small> ① 豆制品。绿豆、蚕豆或豌豆浸泡磨碎，做成粉坨子，再放人容器里挤压，变成条状，入开水烫熟，晒干即成。白色，无味。以龙须粉为佳品。可以爆炒，亦可与其他菜类调配。也叫粉丝、粉条、线粉、索粉。<sup>\[如东\]</sup> ② 干的粉丝。冬季索出，晒干。<sup>\[如皋\]</sup>  
 1. 【[冬瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_gua.md#冬瓜)】`don1 gua1` <sup>[如东]</sup> 葫芦科植物冬瓜，一年生草本。  

@@ -138,7 +138,7 @@
 1. 【[耳报神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_bo_shen.md#耳报神)】`er3 bo5 shen2` <small>/ɚ3 pɔ5 sən2/<sup>兴化</sup></small> ① （喻）暗中通风报信的人<sup>\[兴化\]</sup>：我家里有～，有点事马上传外去啊。<sup>\[兴化\]</sup> ② 暗中通风报信的人<sup>\[泰州\]</sup>：上午会上研究的事，下午外头就全晓得咖唻，不晓得是哪个～说的。<sup>\[泰州\]</sup>  
 1. 【[耳搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_daeh.md#耳搭)】`er3 daeh7` <sup>[兴化]</sup> 汉字偏旁。形状是卩（巳）一一硬～；阝（在左）、⻏（在右）一一 软～。  
 1. 【[耳搭帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_daeh_ban.md#耳搭帮)】`er3 daeh7 ban1` <sup>[如皋]</sup> ① 单耳搭：印即卸。 ② 双耳搭：邵郎郸；阶附陶。  
-1. 【[耳刀跟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_do_gen.md#耳刀跟)】`er3 do gen1` <sup>[泰州]</sup> 耳朵根部：脸红到～。  
+1. 【[耳刀根](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_do_gen.md#耳刀根)】`er3 do gen1` <sup>[泰州]</sup> 耳朵根部：脸红到～。  
 [更多...](./e.md)
 ## F
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh.md#□)】`faeh7` <sup>[泰县]</sup> 腐朽变质：饭～咖。  
