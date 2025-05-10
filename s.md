@@ -1182,6 +1182,7 @@
 1. 【[石碱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_gaen.md#石碱)】`sheh8 gaen3` <sup>[如东]</sup> 从蒿、蓼等植物草灰中提取碱汁，和以面粉，经加工而成的固体。  
 1. 【[石膏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_go.md#石膏)】`sheh8 go1` <sup>[如东]</sup> 硫酸盐类矿物石膏的矿石。  
 1. 【[石磙上搁灯——照场（常）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_guen_shan_gah_den_zho_chan.md#石磙上搁灯——照场（常）)】`sheh8 guen3 shan gah7 den1 zho5 chan2` <sup>[东台]</sup>   
+1. 【[石鼓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_gv.md#石鼓)】`sheh8 gv3` <small>/səʔ8 ku3/<sup>泰兴</sup></small> 鼓状石墩。多作柱基。<sup>\[泰兴\]</sup>  
 1. 【[石鼓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_gv_r.md#石鼓<sub>儿</sub>)】`sheh8 gv3 r` <sup>[如皋]</sup> 旧式大门门框外的一对石饰，下部伸入门内为门下窝儿。  
 1. 【[石夯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_han.md#石夯)】`sheh8 han1` <small>/səʔ8 xã1/<sup>如皋</sup></small> ① 工具。石制，圆柱形，用以砸实泥土。<sup>\[如东\]</sup> ② 夯，实地的工具。主要为石制，故称石夯。<sup>\[如皋\]</sup>  
 1. 【[石灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_huei.md#石灰)】`sheh8 huei1` <sup>[如东]</sup> 无机化合物，主要成分是氧化钙，由石灰岩煅烧而成，为白色不固定体用于建筑、农业等方面。  
@@ -1205,7 +1206,8 @@
 1. 【[石头上钉钉子——硬碰硬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_teu_shan_dien_dien_zz_ngen_pon_ngen.md#石头上钉钉子——硬碰硬)】`sheh8 teu shan dien5 dien1 zz ngen6 pon5 ngen6` <sup>[东台]</sup>   
 1. 【[石头狮子灌米汤——滴水不进](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_teu_shr_zz_gun_mi_tan_dieh_shuei_beh_jien.md#石头狮子灌米汤——滴水不进)】`sheh8 teu shr1 zz gun5 mi3 tan1 dieh7 shuei3 beh7 jien5` <sup>[东台]</sup>   
 1. 【[石头望山上背](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_teu_van_shaen_shan_bei.md#石头望山上背)】`sheh8 teu van6 shaen1 shan6 bei1` <sup>[东台]</sup> ［喻］指将某物搬往此物已经多余的地方：刚吃过饭，又吃零食，简直是～。  
-1. 【[石头星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_teu_xien.md#石头星)】`sheh8 teu xien1` <small>/səʔ8 tʰei ɕiəŋ1/<sup>如皋</sup></small> ① 位于天鹰座的牛郎星，净白色。民间传说，一家有两个儿子，一个是前娘养的，一个是晚娘养的。有一天，父亲吩咐两个儿子挑东西过淮河（天河）。晚娘偏心，叫亲生的儿子挑灯草，虽然轻耗，但是躴躿，淮河风大，非常难走，眼睛都熬红了，也未能过河，所以叫灯草星（织女星）。前娘养的儿子挑着石头，虽然淮河风大，但是体积小，沉重，顺利过河，眼睛是净白的，所以叫石头星。<sup>\[如东\]</sup> ② 织女星。天琴座织女一，最亮，即a星，色淡蓝。<sup>\[如皋\]</sup>  
+1. 【[石头星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_teu_xien.md#石头星)】`sheh8 teu xien1` <small>/səʔ8 tʰei ɕiəŋ1/<sup>如皋</sup>, /səʔ8 tʰəɪ ɕiŋ1/<sup>泰兴</sup></small> ① 位于天鹰座的牛郎星，净白色。民间传说，一家有两个儿子，一个是前娘养的，一个是晚娘养的。有一天，父亲吩咐两个儿子挑东西过淮河（天河）。晚娘偏心，叫亲生的儿子挑灯草，虽然轻耗，但是躴躿，淮河风大，非常难走，眼睛都熬红了，也未能过河，所以叫灯草星（织女星）。前娘养的儿子挑着石头，虽然淮河风大，但是体积小，沉重，顺利过河，眼睛是净白的，所以叫石头星。<sup>\[如东\]</sup> ② 织女星。天琴座织女一，最亮，即a星，色淡蓝。<sup>\[如皋\]</sup> ③ 牛郎星。<sup>\[泰兴\]</sup>  
+1. 【[石头望山上背](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_teu_van_shaen_shan_bei.md#石头望山上背)】`sheh8 teu2 van6 shaen1 shan6 bei1` <small>/səʔ8 tʰəɪ2 uɑŋ1 ɕiɛ̃1 sɑŋ1 pəɪ1/<sup>泰兴</sup></small> 比喻作无功之劳，多此一举。<sup>\[泰兴\]</sup>：箇许的砖瓦多得很，你还要再运得来，不是～beh？<sup>\[泰兴\]</sup>  
 1. 【[石竹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_zhoh.md#石竹)】`sheh8 zhoh7` <sup>[如东]</sup> 石竹科植物石竹，多年生草本。高约1米。茎丛生，直立，节明显叶互生线形或线状披针形，全缘。圆锥花序。花梗长达4厘米，苞片卵形，状，开张，花弯圆筒形，花淡红色、白色或淡紫红色。蒴果长圆形。庭园栽培。  
 1. 【[石桌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_zhuah.md#石桌)】`sheh8 zhuah7` <sup>[如皋]</sup> 坟前放祭祀用品的石台。  
 1. 【[石硺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_zhuah.md#石硺)】`sheh8 zhuah7` <sup>[如皋]</sup> 牛拉动，在水田中压碎土块的瘦长多棱的麻石磙子。  

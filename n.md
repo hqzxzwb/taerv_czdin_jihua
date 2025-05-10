@@ -521,7 +521,7 @@
 1. 【[碍手碍脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_sheu_ngae_jiah.md#碍手碍脚)】`ngae6 sheu3 ngae6 jiah7` ① 妨碍别人做事。<sup>\[如东\]</sup>：你站吖这许，～的。<sup>\[如东\]</sup> ② 因他人在场而无法从容展开手脚做事<sup>\[泰州\]</sup>：你望不见人在下做事啊，蹾吖这块～的。<sup>\[泰州\]</sup>  
 1. 【[碍手襻脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_sheu_paen_jiah.md#碍手襻脚)】`ngae6 sheu3 paen5 jiah7` <sup>[兴化]</sup> ① 妨碍别人：他在这许～的。 ② 给人添麻烦。 ③ 也说“碍事襻脚”。  
 1. 【[碍事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_shr.md#碍事)】`ngae6 shr6` ① 不方便。<sup>\[如东\]</sup>：你把凳子放在门口，走路多～。<sup>\[如东\]</sup> ② 损伤事物。<sup>\[如东\]</sup>：船艄碰吖下子，不～。<sup>\[如东\]</sup> ③ 妨碍做事。<sup>\[东台\]</sup> ④ 有问题<sup>\[东台\]</sup>：他的病不～。<sup>\[东台\]</sup>  
-1. 【[艾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae.md#艾)】`ngae6` <sup>[如东]</sup> 菊科植物艾，多年生草本。高约120厘米。茎直立，圆形，质硬，基部木质化，被灰白色软毛。单叶，互生，卵状椭圆形，羽状深裂，边缘具锯齿，上面暗绿色，稀被白色软毛，下面灰绿色，密被灰白色绒毛。总状花序，顶生。花红色。瘦果长圆形。生长在路边、草地、荒野。茎叶含芳香油，可作香料，也可杀虫。  
+1. 【[艾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae.md#艾)】`ngae6` <small>/ŋɛ1/<sup>泰兴</sup></small> 艾，植物。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
 1. 【[艾叶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_ih.md#艾叶)】`ngae6 ih8` <sup>[如东]</sup> 菊科植物艾叶。  
 1. 【[艾绒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_ron.md#艾绒)】`ngae6 ron2` <sup>[如东]</sup> 菊科植物艾叶加工成绒是中医实施针灸治病的主要燃料。  
 1. 【[艾实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_sheh.md#艾实)】`ngae6 sheh8` <sup>[如东]</sup> 菊科植物艾的果实。  
