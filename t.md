@@ -1309,10 +1309,12 @@
 1. 【[田埂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_gen.md#田埂)】`tin2 gen3` 田塍，两块田之间兼做分界、蓄水用的凸起地面的狭长条形土路。<sup>\[泰州\]</sup>  
 1. 【[田埂子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_gen_zz.md#田埂子)】`tin2 gen3 zz` <sup>[如东]</sup> 田边上的土棱。田中间的土棱。  
 1. 【[田禾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hu.md#田禾)】`tin2 hu2` <sup>[如东]</sup> 田里生长的庄稼：今年～欠收。  
-1. 【[田鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_ji.md#田鸡)】`tin2 ji1` 青蛙。<sup>\[东台\]</sup><sup>\[泰州\]</sup>  
+1. 【[田鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_ji.md#田鸡)】`tin2 ji1` <small>/tʰĩ2 t͡ɕʝ1/<sup>泰兴</sup></small> 青蛙。<sup>\[东台\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：乡人云：“～跳一丈，管嘴管不上；癞宝端端坐，一世不忍饿。”<sup>\[泰兴\]</sup>  
 1. 【[田鸡叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_ji_cha.md#田鸡叉)】`tin2 ji1 cha1` <sup>[如皋]</sup> 微型叉。捕蛙用。  
+1. 【[田鸡翻跟头，白肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_ji_faen_gen.md#田鸡翻跟头，白肚子)】`tin2 ji1 faen1 gen1 teu poh8 dv3 zz` <small>/tʰĩ2 t͡ɕʝ1 fɛ̃1 kəŋ1 tʰəɪ pʰɔʔ8 tu3 t͡sɿ/<sup>泰兴</sup></small> 歇后语。喻没有文化知识。<sup>\[泰兴\]</sup>  
 1. 【[田鸡瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_ji_gua.md#田鸡瓜)】`tin2 ji1 gua1` <sup>[如东]</sup> 甜瓜的一种，皮呈蓝白相间的颜色，像青蛙一样。故名。  
 1. 【[田鸡要命蛇要饱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_ji_io_mien_sha_io_bo.md#田鸡要命蛇要饱)】`tin2 ji1 io5 mien6 sha2 io5 bo3` <sup>[兴化]</sup> （喻）双方利益发生根本冲突，不可调和：“而今社会，你争他夺……谁顾不了谁，这叫～么。”（马春阳《月朗和他的娘舅们》）  
+1. 【[田鸡要命蛇要饱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_ji_io_mien_sha_io_bo.md#田鸡要命蛇要饱)】`tin2 ji1 io5 mien6 sha2 io5 bo3` <small>/tʰĩ2 t͡ɕʝ1 iɔ5 miŋ1 sɑ2 iɔ5 pɔ3/<sup>泰兴</sup></small> 比喻双方为了各自的利益拼命抗争，毫不相让。<sup>\[泰兴\]</sup>：～，为这笔生意，两个人总不肯让步。<sup>\[泰兴\]</sup>  
 1. 【[田鸡麻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_ji_ma_zz.md#田鸡麻子)】`tin2 ji1 ma2 zz` <sup>[兴化]</sup> ① 面部麻点子较大而且重叠。 ② 也指这种麻脸的人。  
 1. 【[田鸡仰吖田岸上——白大肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_ji_nian_nga_tin_un_shan_poh_da_dv_zz.md#田鸡仰吖田岸上——白大肚子)】`tin2 ji1 nian3 nga tin2 un6 shan6 poh8 da6 dv3 zz` <sup>[东台]</sup>   
 1. 【[田鸡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_ji_r.md#田鸡<sub>儿</sub>)】`tin2 ji1 r` 青蛙  

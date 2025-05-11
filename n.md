@@ -1447,6 +1447,7 @@
 1. 【[年作子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_zah_zz.md#年作子)】`nin2 zah7 zz` <sup>[如东]</sup> 过年期间所需要花费的钱：箇趟生意把～赚家来啊。  
 1. 【[年租](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_zv.md#年租)】`nin2 zv1` <small>/nĩ2 t͡su1/<sup>如皋</sup></small> ① 租赁一年的租金。<sup>\[如皋\]</sup> ② 一年的租金。<sup>\[如东\]</sup>：～一万。<sup>\[如东\]</sup>  
 1. 【[拈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin.md#拈)】`nin2` <sup>[泰州]</sup> 捏取或夹取食物：手都不洗就～吖望嘴里送，也不卫生吖。  
+1. 【[拈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin.md#拈)】`nin2` <small>/nĩ2/<sup>泰兴</sup></small> 以指捏取。或指拾取。<sup>\[泰兴\]</sup>  
 1. 【[鲇滑<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_huaeh_r.md#鲇滑<sub>儿</sub>)】`nin2 huaeh8 r` <sup>[如东]</sup> 胡子鲇科动物胡子鲇，长约14厘米。  
 1. 【[鲶滑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_vaeh_zz.md#鲶滑子)】`nin2 vaeh zz` <sup>[泰州]</sup> “鲶鱼”俗称，本地产淡水鱼，周身无鳞，身体表面布满黏液，头扁口阔，上下颌有四根胡须，味道鲜美。  
 1. 【[黏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin.md#黏)】`nin2` <sup>[如皋]</sup> 亲热、怜爱、笼络：你这吖～他，他的心更加忆咖你这许。  

@@ -1590,6 +1590,7 @@
 1. 【[目不斜视](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_beh_qia_shr.md#目不斜视)】`moh8 beh7 qia2 shr6` <sup>[东台]</sup> 形容为人正派，眼睛不向旁边看。  
 1. 【[目瞪痴獃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_den_chr_ngae.md#目瞪痴獃)】`moh8 den1 chr1 ngae2` <sup>[兴化]</sup> 呆笨、不灵敏：这个小伙～的，一点儿眼头见识没得。  
 1. 【[目瞪口呆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_den_keu_dae.md#目瞪口呆)】`moh8 den1 keu3 dae1` <sup>[东台]</sup> 瞪着眼睛说不出话，形容因吃惊或受气发愣。  
+1. 【[目今](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_jien.md#目今)】`moh8 jien1` <small>/mɔʔ8 t͡ɕiŋ1/<sup>泰兴</sup></small> 现在，当前。<sup>\[泰兴\]</sup>  
 1. 【[目力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_lieh.md#目力)】`moh8 lieh8` <sup>[东台]</sup> 视力。  
 1. 【[目目相蠚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_moh_xian_hah.md#目目相蠚)】`moh8 moh8 xian5 hah7` <sup>[东台]</sup> 指某物品制作精细，各部件之间无缝对接。（目，大项中的小项；蠚，靠近）  
 1. 【[目无尊长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_v_zuen_zhan.md#目无尊长)】`moh8 v2 zuen1 zhan3` <sup>[东台]</sup> 不把长辈放在眼里，形容狂妄无礼。  

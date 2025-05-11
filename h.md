@@ -766,12 +766,12 @@
 1. 【[薅草的黄豆八百，不薅草的黄豆也八百](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_co_dii_huan_teu_baeh_boh_beh_ho_co_dii_huan_teu_ia_baeh_boh.md#薅草的黄豆八百，不薅草的黄豆也八百)】`ho1 co3 dii huan2 teu6 baeh7 boh7 beh7 ho1 co3 dii huan2 teu6 ia3 baeh7 boh7` <sup>[东台]</sup> 干多干少一个样，平均主义。  
 1. 【[薅毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_mo.md#薅毛)】`ho1 mo2` <sup>[如皋]</sup> 剪去毛。  
 1. 【[薅树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_shv.md#薅树)】`ho1 shv6` <sup>[如皋]</sup> 修剪树枝。  
-1. 【[号](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho.md#号)】`ho2` <sup>[如皋]</sup> 哭叫。贬指哭闹。  
+1. 【[号](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho.md#号)】`ho2` <small>/xɔ2/<sup>如皋</sup>, /xɔ2/<sup>泰兴</sup></small> 哭叫。贬指哭闹。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
 1. 【[号丧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_san.md#号丧)】`ho2 san1` <sup>[如皋]</sup> ① 丧户一片大哭之声（有亲友悲嚎的，有专门代哭的）。 ② 詈语指嚎哭。号通嚎。  
 1. 【[号丧鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_san_guei.md#号丧鬼)】`ho2 san1 guei3` <sup>[如皋]</sup> 詈语。指爱哭的小孩。  
 1. 【[号啕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_to.md#号啕)】`ho2 to2` <sup>[如东]</sup> 放声大哭。  
 1. 【[嚎嚎射射](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_ho_sha_sha.md#嚎嚎射射)】`ho2 ho2 sha6 sha6` <sup>[兴化]</sup> 因悲伤而声泪俱下：她哭得～的。  
-1. 【[嚎丧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_san.md#嚎丧)】`ho2 san1` <small>/xɔ2 saŋ1/<sup>兴化</sup></small> ① 大声地哭叫。<sup>\[如东\]</sup>：她在下～。<sup>\[如东\]</sup> ② 大叫大嚷。<sup>\[如东\]</sup>：不要在外头～吖。<sup>\[如东\]</sup> ③ 死了亲人大声哭泣，十分悲哀（也常作詈语）。<sup>\[东台\]</sup> ④ 哭丧。<sup>\[兴化\]</sup> ⑤ 骂人的话，指人大声哭叫。<sup>\[兴化\]</sup>  
+1. 【[嚎丧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_san.md#嚎丧)】`ho2 san1` <small>/xɔ2 saŋ1/<sup>兴化</sup>, /xɔ2 sɑŋ1/<sup>泰兴</sup></small> ① 大声地哭叫。<sup>\[如东\]</sup>：她在下～。<sup>\[如东\]</sup> ② 大叫大嚷。<sup>\[如东\]</sup>：不要在外头～吖。<sup>\[如东\]</sup> ③ 死了亲人大声哭泣，十分悲哀（也常作詈语）。<sup>\[东台\]</sup> ④ 哭丧。<sup>\[兴化\]</sup> ⑤ 骂人的话，指人大声哭叫。<sup>\[兴化\]</sup> ⑥ 丧事期间死者亲属的悲哭<sup>\[泰兴\]</sup> ⑦ 骂人啼哭语。<sup>\[泰兴\]</sup>：号什的丧，快去弄活计！<sup>\[泰兴\]</sup>  
 1. 【[嚎丧/号丧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_san.md#嚎丧/号丧)】`ho2 san1` <sup>[泰州]</sup> 骂人哭泣，詈语。  
 1. 【[嚎丧狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_san_geu.md#嚎丧狗)】`ho2 san1 geu3` <sup>[如东]</sup> 比喻大叫大喊的人。  
 1. 【[嚎丧狗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_san_geu_zz.md#嚎丧狗子)】`ho2 san1 geu3 zz` <sup>[泰县]</sup> 大喊大叫的人：你这个～不要叫。  
@@ -874,6 +874,8 @@
 1. 【[号头纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_teu_zhr.md#号头纸)】`ho6 teu zhr3` <sup>[兴化]</sup> 日历：墙上的～一天撕一张。  
 1. 【[号头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_teu.md#号头)】`ho6 teu2` <small>/xɔ6 tʰɤ2/<sup>兴化</sup></small> ① 日历<sup>\[如东\]</sup> ② 号码，编号<sup>\[东台\]</sup><sup>\[泰州\]</sup>：他一大早就过来排班唻，来的时候，～已经排到五十几号唻。<sup>\[泰州\]</sup> ③ 日期。<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：记住～，按时去报到。<sup>\[兴化\]</sup>｜你怕的是把～弄吖讹错啊唻，我记得开学是8号。<sup>\[泰州\]</sup> ④ 月份<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：他一个～五百多块养老金。<sup>\[兴化\]</sup>｜你家舅舅上个～去啊一趟上海。<sup>\[泰州\]</sup>  
 1. 【[号头鸭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_teu_ngaeh.md#号头鸭)】`ho6 teu2 ngaeh7` <sup>[兴化]</sup> ① 趟鸭中的头鸭。 ② （喻）爱出头露面的人：他是～，热闹场合总少不了他。  
+1. 【[号筒嘴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_ton_zuei_zz.md#号筒嘴子)】`ho6 ton zuei3 zz` <small>/xɔ1 tʰɔŋ t͡suəɪ3 t͡sɿ/<sup>泰兴</sup></small> 本指宣传工具、喉舌，今多作责人语，谓到处宣扬、传播（消息）。<sup>\[泰兴\]</sup>：她是个～<sup>\[泰兴\]</sup>  
+1. 【[号子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_zz.md#号子)】`ho6 zz` <small>/xɔ1 t͡sɿ/<sup>泰兴</sup></small> 在劳动中使劲时为减轻疲劳而唱的歌。<sup>\[泰兴\]</sup>：打～<sup>\[泰兴\]</sup>｜筛花生～：天上淮河什么人来开？月中梭椤树什么人来栽？什么人把守三关口？什么人出家一去不回来？/天上淮河老龙王来开，月中梭椤树王母娘娘栽，杨六郎把守三关口，杨五郎一去不回来。”<sup>\[泰兴\]</sup>｜车水～<sup>\[泰兴\]</sup>｜栽秧～<sup>\[泰兴\]</sup>｜打夯～<sup>\[泰兴\]</sup>  
 1. 【[号子里头的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_zz_li_teu_dii.md#号子里头的)】`ho6 zz li3 teu dii` <sup>[东台]</sup> 旧称敌伪特务机关，人们所说～即指敌伪时期的特务。  
 1. 【[㖪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh.md#㖪)】`hoh7` <small>/xɔʔ7/<sup>如皋</sup></small> ① （借字，形声） ② 叫喊，鼓动，煽动。<sup>\[如东\]</sup>：他把这件事～起来啊。<sup>\[如东\]</sup> ③ 只图热闹，而不计花费<sup>\[如皋\]</sup>：他俫在这许吃咖，～咖，没几天就把钱总～掉啊。<sup>\[如皋\]</sup>  
 1. 【[㖪住气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh_chv_qi.md#㖪住气)】`hoh7 chv qi5` <sup>[泰州]</sup> 大脑思维受阻，本应立即反应出来，却一时未反应过来：不谈唻，当时～唻，捱他多收啊两块钱去。｜真～唻，望吖你是个熟脸，你哿是姓周啊？  
