@@ -194,7 +194,7 @@
 1. 【[掐小尖<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh_xio_jin_r.md#掐小尖<sub>儿</sub>)】`kaeh7 xio3 jin1 r` <sup>[如皋]</sup> 发给时扣下一点，发不足数。  
 1. 【[掐小鱼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh_xio_y_r.md#掐小鱼<sub>儿</sub>)】`kaeh7 xio3 y2 r` <sup>[泰州]</sup> 指为了一点微不足道的利益而得不偿失。对于一二寸的小鱼的处理方式是不打鳞，不剖腹，不去腮，用指甲在鱼的头腹连接处掐一个小口，挤出肚中物即可。而对三四分厂的极小的鱼，一般不掐，因为太小，稍不留意就会将鱼掐烂，因此“掐小鱼儿”是个费力耗时而得利极小的事：你这个人死没出息，请客吃饭在香烟上～，弄一包中华能省几个钱，弄吖捱人家背后说小气。  
 1. 【[甲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh.md#甲)】`kaeh7` <sup>[东台]</sup> 用于“指甲”（读若“执掐”）。  
-1. 【[轧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh.md#轧)】`kaeh8` <small>/kæʔ7/<sup>兴化</sup>, /kʰeʔ8/<sup>如皋</sup>, /kʰæʔ8/<sup>泰兴</sup>, /kʰæʔ8/<sup>泰县</sup></small> ① 给谷物脱壳：～稻｜～米 ② 碾<sup>\[兴化\]</sup>：～（棉）花<sup>\[兴化\]</sup>｜～稻<sup>\[兴化\]</sup>｜～圆子粉。<sup>\[兴化\]</sup> ③ 锯、解<sup>\[兴化\]</sup>：～木头<sup>\[兴化\]</sup>｜～木板。<sup>\[兴化\]</sup> ④ 检<sup>\[兴化\]</sup>：～票上车。<sup>\[兴化\]</sup>  
+1. 【[轧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh.md#轧)】`kaeh8` <small>/kæʔ7/<sup>兴化</sup>, /kʰeʔ8/<sup>如皋</sup>, /kʰæʔ8/<sup>泰兴</sup>, /kʰæʔ8/<sup>泰县</sup></small> ① 给谷物脱壳：～稻｜～米 ② 碾<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：～（棉）花<sup>\[兴化\]</sup>｜～稻<sup>\[兴化\]</sup>｜～圆子粉。<sup>\[兴化\]</sup>｜～𪎉子/碾大麦或玉米等，以获得𪎉子<sup>\[泰兴\]</sup> ③ 锯、解<sup>\[兴化\]</sup>：～木头<sup>\[兴化\]</sup>｜～木板。<sup>\[兴化\]</sup> ④ 检<sup>\[兴化\]</sup>：～票上车。<sup>\[兴化\]</sup> ⑤ 核算，查对<sup>\[泰兴\]</sup>：～帐<sup>\[泰兴\]</sup>  
 1. 【[轧花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh_hua.md#轧花)】`kaeh8 hua1` <sup>[东台]</sup> 用机器剥棉籽、剥棉绒。  
 1. 【[轧价](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh_jia.md#轧价)】`kaeh8 jia5` <sup>[如皋]</sup> 核算出价格。  
 1. 【[轧棉花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh_min_hua.md#轧棉花)】`kaeh8 min2 hua1` <sup>[如皋]</sup> 用机器轧除籽棉中的棉籽。  
@@ -202,7 +202,7 @@
 1. 【[轧姘头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh_pien_teu.md#轧姘头)】`kaeh8 pien1 teu` <small>/kʰæʔ8 pʰiɪ̃1 tʰɤ/<sup>兴化</sup></small> ① 非夫关系而同居<sup>\[兴化\]</sup>：“这刘老头子……大不了想同我～罢咧！又不是明媒正娶……”（《广陵潮》七十）<sup>\[兴化\]</sup> ② 非夫妻关系男女发生性行为或同居<sup>\[泰州\]</sup>：男将在外头～，女将还蒙吖在鼓里。<sup>\[泰州\]</sup>  
 1. 【[轧朋友](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh_pon_ieu.md#轧朋友)】`kaeh8 pon2 ieu3` <sup>[兴化]</sup> ① 交朋友：几个少年宝宝～，我看蛮好的。 ② 特指交异性朋友：先～，再谈婚论嫁。  
 1. 【[轧张](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh_zhan.md#轧张)】`kaeh8 zhan1` <sup>[如东]</sup> 在耷子和游戏中，一张牌的连张已经断绝，成为非常关键的牌，称轧张。比喻非常关键的问题：这个问题是～。  
-1. 【[轧账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh_zhan.md#轧账)】`kaeh8 zhan5` <small>/kʰæʔ8 t͡saŋ5/<sup>兴化</sup>, /kʰeʔ8 t͡sã5/<sup>如皋</sup></small> ① 算账，对账。<sup>\[如东\]</sup> ② 从账中删除。<sup>\[如皋\]</sup> ③ 核对、结算账目。<sup>\[如皋\]</sup> ④ 结算账目<sup>\[兴化\]</sup>：年终～，盈利五万多块。<sup>\[兴化\]</sup>  
+1. 【[轧账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh_zhan.md#轧账)】`kaeh8 zhan5` <small>/kæʔ7 t͡saŋ5/<sup>兴化</sup>, /kʰeʔ8 t͡sã5/<sup>如皋</sup>, /kʰæʔ8 t͡sɑŋ5/<sup>泰兴</sup></small> ① 算账，对账。<sup>\[如东\]</sup> ② 从账中删除。<sup>\[如皋\]</sup> ③ 核对、结算账目。<sup>\[如皋\]</sup> ④ 结算账目<sup>\[兴化\]</sup>：年终～，盈利五万多块。<sup>\[兴化\]</sup> ⑤ 核算账目。<sup>\[泰兴\]</sup>  
 1. 【[铅板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen_baen.md#铅板)】`kaen1 baen3` <sup>[如皋]</sup> 白铁皮，马口铁。  
 1. 【[铅角子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen_gah_zz.md#铅角子)】`kaen1 gah7 zz` <small>/kʰɛ̃1 kaʔ7 t͡sɿ/<sup>兴化</sup>, /kʰẽ1 kaʔ7 t͡sɿ/<sup>如皋</sup>, /kʰɛ̃1 kɑʔ7 t͡se/<sup>泰县</sup></small> ① 硬币。也叫“角子”、“铅子儿”。 ② 面值为一角钱的人民币。<sup>\[如东\]</sup> ③ 合金辅币，面值角、分。<sup>\[如皋\]</sup> ④ 硬币。<sup>\[东台\]</sup> ⑤ 金属辅币。<sup>\[兴化\]</sup> ⑥ 硬币。<sup>\[泰县\]</sup>  
 1. 【[铅皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen_pi.md#铅皮)】`kaen1 pi2` <sup>[如皋]</sup> 白铁皮，马口铁。  
@@ -618,6 +618,7 @@
 1. 【[可可的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku_ku_dii.md#可可的)】`ku3 ku3 dii` <sup>[兴化]</sup> 恰巧；正好赶上：总共一个头等奖，～捱他买中吖。  
 1. 【[可怜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku_lin.md#可怜)】`ku3 lin2` <sup>[如东]</sup> ① 值得怜悯：老太太孤身一人，真～。 ② 形容东西少。  
 1. 【[可怜巴巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku_lin_ba_ba.md#可怜巴巴)】`ku3 lin2 ba1 ba` <sup>[泰州]</sup> 可怜的样子。  
+1. 【[可怜巴巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku_lin_ba_ba.md#可怜巴巴)】`ku3 lin2 ba1 ba` <small>/kʰɤɯ3 lĩ2 pɑ1 pɑ/<sup>泰兴</sup></small> 极为可怜的样子。<sup>\[泰兴\]</sup>：与大师相比，我真是个～的小人物。<sup>\[泰兴\]</sup>  
 1. 【[颗颗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku_ku_zz.md#颗颗子)】`ku3 ku3 zz` <sup>[兴化]</sup> 体表生出的小颗粒：夏天，手上出咖好些～。  
 1. 【[科](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku.md#科)】`ku5` <sup>[泰州]</sup> ① 动物植物繁殖：一个夏天下来，河里水草～啊满吖。 ② 皮肤上疹子非子增多：两天～啊一身疹子。  
 1. 【[科箬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku_rah.md#科箬)】`ku5 rah8` <sup>[如皋]</sup> 禾本科植物裹在茎、实上的叶柄，嫩芽等：竹笋～、芦柴～、玉米～。  

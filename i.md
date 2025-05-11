@@ -1651,14 +1651,15 @@
 1. 【[擪戗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih_qian.md#擪戗)】`ih7 qian` <sup>[如皋]</sup> ① 妥贴：家具放得蛮～的。 ② 幹练：做事～。 ③ 隐蔽：把贵重杲子放吖～的地方。 ④ 平安、富足、平静：他的日子过得～。  
 1. 【[𢩮粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih_fen.md#𢩮粉)】`ih7 fen3` <sup>[如皋]</sup> 用爽身粉涂揸在皮肤皱折处。  
 1. 【[𢩮汗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih_hun.md#𢩮汗)】`ih7 hun6` <sup>[如皋]</sup> 用汗巾之类轻拭，吸去汗水。而不是擦汗。  
-1. 【[𧌄蝶<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih_tih_r.md#𧌄蝶<sub>儿</sub>)】`ih7 tih8 r` <sup>[如皋]</sup> ① 金凤蝶。 ② 泛指蝴蝶。《本草纲目》：音叶，～。  
+1. 【[𧌄蝶<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih_tih_r.md#𧌄蝶<sub>儿</sub>)】`ih7 tih8 r` <sup>[如皋]</sup> ① 金凤蝶。 ② 泛指蝴蝶。《本草纲目》音叶，～。  
 1. 【[□上吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih_shan_nga.md#□上吖)】`ih8 shan3 nga` <sup>[如皋]</sup> 原来，原来就。  
 1. 【[业报](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih_bo.md#业报)】`ih8 bo5` <sup>[东台]</sup> 指善行、恶行的报应。  
 1. 【[业主](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih_zhv.md#业主)】`ih8 zhv3` <sup>[东台]</sup> 资产或产业的所有者。  
 1. 【[叶虫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih_chon_r.md#叶虫<sub>儿</sub>)】`ih8 chon2 r` <sup>[如皋]</sup> 粉螨。蛛形纲。  
 1. 【[叶的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih_dii.md#叶的)】`ih8 dii` <sup>[泰县]</sup> 正是：“你说哿是？”“～啊。”  
 1. 【[叶家垛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih_ga_tu.md#叶家垛)】`ih8 ga1 tu6` <sup>[东台]</sup> 旧地名，东蹲线路北，台城向东9千米处。  
-1. 【[叶蝶<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih_tih_r.md#叶蝶<sub>儿</sub>)】`ih8 tih8 r` <small>/iɪʔ8 tʰiɪʔ8 ɚ/<sup>兴化</sup>, /iɪʔ8 tʰiɪʔ8 ɚ/<sup>泰县</sup></small> ① 蝴蝶。<sup>\[兴化\]</sup> ② 蝴蝶。<sup>\[泰县\]</sup>  
+1. 【[叶蝶<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih_tih_r.md#叶蝶<sub>儿</sub>)】`ih8 tih8 r` <small>/iɪʔ8 tʰiɪʔ8 ɚ/<sup>兴化</sup>, /iɪʔ8 tʰiɪʔ8 ɚ/<sup>泰县</sup></small> 蝴蝶。<sup>\[兴化\]</sup><sup>\[泰县\]</sup>  
+1. 【[叶蝶子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih_tih_zz.md#叶蝶子)】`ih8 tih8 zz` <small>/iʔ8 tʰiʔ8 t͡sɿ/<sup>泰兴</sup></small> 蝴蝶。<sup>\[泰兴\]</sup>  
 1. 【[叶子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih_zz.md#叶子)】`ih8 zz` <sup>[兴化]</sup> 纸牌：下午，四个老太婆在家里玩～。  
 1. 【[拽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih.md#拽)】`ih8` <small>/iʔ8/<sup>如皋</sup></small> ① 本指拉、牵引，东台方言常形容艰难前行的样子<sup>\[东台\]</sup>：我俫腿脚不好，慢慢向前～吧。<sup>\[东台\]</sup> ② 拖、背（bei1）、拉<sup>\[如皋\]</sup>：你在后头推车子，我在前头～车子。<sup>\[如皋\]</sup>  
 1. 【[拽材](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih_cae.md#拽材)】`ih8 cae2` <sup>[如皋]</sup> 出殡时，孝子、孝孙在棺材前结白布牵引。  

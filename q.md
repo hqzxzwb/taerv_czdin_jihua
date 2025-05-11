@@ -1221,6 +1221,7 @@
 1. 【[就这形样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_zha_xien_ian.md#就这形样)】`qieu6 zha5 xien2 ian6` <sup>[泰县]</sup> 就这样：这个杲子～，以后再说。  
 1. 【[就着为](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_zhah_vei.md#就着为)】`qieu6 zhah7 vei2` <sup>[泰县]</sup> 就这样：～你就恩准吧。  
 1. 【[旧的不去，新的不来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_dii_beh_qy_xien_dii_beh_lae.md#旧的不去，新的不来)】`qieu6 dii beh7 qy5 xien1 dii beh7 lae2` <sup>[东台]</sup> 解叹或自嘲物件损坏或遗失有弊也有利。  
+1. 【[旧的不去，新的不来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_dii_beh_qy_xien_dii_beh_lae.md#旧的不去，新的不来)】`qieu6 dii beh7 qy5 xien1 dii beh7 lae2` <small>/t͡ɕʰiɤɯ1 təɪ pəʔ7 t͡ɕʰy5 ɕiŋ1 təɪ pəʔ7 lɛ2/<sup>泰兴</sup></small> 陈旧的事物不清除掉，崭新的就不能占有地盘。谓不破不立，应与时俱进，吐故纳新。<sup>\[泰兴\]</sup>  
 1. 【[旧店新开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_din_xien_kae.md#旧店新开)】`qieu6 din5 xien1 kae1` <sup>[兴化]</sup> ① 在闭歇的商店旧址上重新开张。 ② （戏）有婚史的人再次结婚：（修轸）取再婚之妇为妻……龙友就做只《柳梢青》词儿为戏道｜挂起招牌，一声喝采，～……（《西湖二集》三）｜谚曰：～，重换招牌。  
 1. 【[旧货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_hu.md#旧货)】`qieu6 hu5` <sup>[如皋]</sup> 二手货。  
 1. 【[旧货店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_hu_din.md#旧货店)】`qieu6 hu5 din5` <sup>[如皋]</sup> 二手货商店（旧货调剂商店）。  

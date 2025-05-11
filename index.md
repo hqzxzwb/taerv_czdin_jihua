@@ -21,6 +21,7 @@
 ## B
 1. 【[……巴拉哈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_la_ha.md#……巴拉哈)】`ba la1 ha1` 跟在单字形容词之后，用作生动形式：黄～；黑～；酸～。  
 1. 【[……巴剌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_laeh.md#……巴剌)】`ba laeh` 跟在双字形容词之后，用作生动形式：小气～；钝事～。  
+1. 【[叭<sub>儿</sub>狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_r_geu.md#叭<sub>儿</sub>狗)】`ba1 r geu3` <small>/pɑ˞1 kəɪ3/<sup>泰兴</sup></small> 又称哈巴狗。体小、腿短、毛长。供玩赏。常用来比喻被主子豢养的温顺的奴才。<sup>\[泰兴\]</sup>  
 1. 【[吧嗒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_daeh.md#吧嗒)】`ba1 daeh7` <sup>[如皋]</sup> 象声词。常形容吸烟的唇边音。  
 1. 【[吧啦吧啦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_la_ba_la.md#吧啦吧啦)】`ba1 la1 ba1 la1` <sup>[如皋]</sup> 象声词。常贬指抢着说或无主题说话。  
 1. 【[妑妑<sub>儿</sub>头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ba_r_teu.md#妑妑<sub>儿</sub>头)】`ba1 ba1 r teu2` <sup>[如皋]</sup> 女伢儿梳的～。  
@@ -260,6 +261,7 @@
 1. 【[叽苦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_kv.md#叽苦)】`ji1 kv3` <sup>[如皋]</sup> 味很苦：黄连～。  
 1. 【[叽哩抹喳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_li_maeh_zha.md#叽哩抹喳)】`ji1 li1 maeh8 zha1` <sup>[东台]</sup> 尖声讲话，使人感到刺耳：几个小丫头七嘴八舌，～的。  
 1. 【[叽里咕噜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_lii_gv_lv.md#叽里咕噜)】`ji1 lii gv1 lv1` <sup>[东台]</sup> 低声说话，别人听不清楚。  
+1. 【[叽里咕噜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_lii_gv_lv.md#叽里咕噜)】`ji1 lii gv1 lv1` <small>/t͡ɕʝ1 ləɪ ku1 lu1/<sup>泰兴</sup></small> 小声讲一些别人听不清的话；唠叨不停。<sup>\[泰兴\]</sup>  
 1. 【[叽里木促](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_lii_moh_coh.md#叽里木促)】`ji1 lii moh8 coh7` <sup>[兴化]</sup> 啰里啰唆，令人生厌：这个老太婆，成天～的。  
 1. 【[叽里入咕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_lii_reh_gv.md#叽里入咕)】`ji1 lii reh8 gv` <sup>[兴化]</sup> 口中唠唠叨叨，念念有词：你嘴里～的说甚的啊？也作“叽咕”“叽咕祷咂”。  
 1. 【[叽里哇啦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_lii_va_la.md#叽里哇啦)】`ji1 lii va1 la1` <sup>[如皋]</sup> ① 形容语音尖厉刺耳。 ② 说话过快或声音嘈杂而听不清楚。  

@@ -1181,17 +1181,21 @@
 1. 【[石菖蒲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_chan_pv.md#石菖蒲)】`sheh8 chan1 pv2` <sup>[如东]</sup> 天南星科植物石菖蒲，多年生草本。根茎横卧，外皮黄色。叶根生，剑状线形。肉穗花序。花淡黄绿色。浆果肉质，倒卵形。生长在潮湿的土壤里。  
 1. 【[石碱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_gaen.md#石碱)】`sheh8 gaen3` <sup>[如东]</sup> 从蒿、蓼等植物草灰中提取碱汁，和以面粉，经加工而成的固体。  
 1. 【[石膏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_go.md#石膏)】`sheh8 go1` <sup>[如东]</sup> 硫酸盐类矿物石膏的矿石。  
+1. 【[石滚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_guen_zz.md#石滚子)】`sheh8 guen3 zz` <small>/səʔ8 kuəŋ3 t͡sɿ/<sup>泰兴</sup></small> 碌碡，石制滚压农具。<sup>\[泰兴\]</sup>  
 1. 【[石磙上搁灯——照场（常）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_guen_shan_gah_den_zho_chan.md#石磙上搁灯——照场（常）)】`sheh8 guen3 shan gah7 den1 zho5 chan2` <sup>[东台]</sup>   
 1. 【[石鼓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_gv.md#石鼓)】`sheh8 gv3` <small>/səʔ8 ku3/<sup>泰兴</sup></small> 鼓状石墩。多作柱基。<sup>\[泰兴\]</sup>  
 1. 【[石鼓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_gv_r.md#石鼓<sub>儿</sub>)】`sheh8 gv3 r` <sup>[如皋]</sup> 旧式大门门框外的一对石饰，下部伸入门内为门下窝儿。  
 1. 【[石夯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_han.md#石夯)】`sheh8 han1` <small>/səʔ8 xã1/<sup>如皋</sup></small> ① 工具。石制，圆柱形，用以砸实泥土。<sup>\[如东\]</sup> ② 夯，实地的工具。主要为石制，故称石夯。<sup>\[如皋\]</sup>  
 1. 【[石灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_huei.md#石灰)】`sheh8 huei1` <sup>[如东]</sup> 无机化合物，主要成分是氧化钙，由石灰岩煅烧而成，为白色不固定体用于建筑、农业等方面。  
 1. 【[石灰行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_huei_han.md#石灰行)】`sheh8 huei1 han2` <small>/səʔ8 xuei1 xã2/<sup>如皋</sup></small> ① 经营石灰的商店。<sup>\[如东\]</sup> ② 专营石灰的商行。<sup>\[如皋\]</sup>  
+1. 【[石灰里头翻眼睛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_huei_li_teu.md#石灰里头翻眼睛)】`sheh8 huei1 li3 teu2 faen1 ngaen3 jien` <small>/səʔ8 xuəɪ1 lʝ3 tʰəɪ2 fɛ̃1 ŋɛ̃3 t͡ɕiŋ/<sup>泰兴</sup></small> 谓人调皮、机灵，思维敏捷。有时作贬义用。<sup>\[泰兴\]</sup>  
+1. 【[石加官](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_jia_gun.md#石加官)】`sheh8 jia1 gun` <small>/səʔ8 t͡ɕiɑ1 kʊ̃/<sup>泰兴</sup></small> 古代帝王或大官墓前石雕的人马等像，称石翁仲，乡人则称石加官。<sup>\[泰兴\]</sup>  
 1. 【[石碱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_jiaen.md#石碱)】`sheh8 jiaen3` <small>/səʔ8 t͡ɕiẽ3/<sup>如皋</sup></small> ① 一种矿物，可以用于发面面及去污等。<sup>\[如皋\]</sup> ② 一种物质，化学成分是碳酸钠，作洗涤剂或者中和发面中的酸味。<sup>\[泰州\]</sup>  
 1. 【[石腊红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_laeh_hon.md#石腊红)】`sheh8 laeh8 hon2` <sup>[如皋]</sup> 天竺葵。  
 1. 【[石榴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_lieu.md#石榴)】`sheh8 lieu` <sup>[如东]</sup> 石榴科植物石榴，落叶乔木。高约5米。树皮青灰色。叶对生或簇生，叶片倒卵形。花红色。浆果近球形熟时黄色。种子多数，倒卵形，带棱角。生长在向阳处或栽培在庭园里。果实，也称甜石榴。  
 1. 【[石磥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_luei.md#石磥)】`sheh8 luei` <sup>[如皋]</sup> 见“石头磙子”。  
 1. 【[石磥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_luei.md#石磥)】`sheh8 luei3` <sup>[如东]</sup> 农具。石制，圆柱形，有的有棱，有的无棱。用来脱谷、平地。也叫碌碡。  
+1. 【[石马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_ma.md#石马)】`sheh8 ma3` <small>/səʔ8 mɑ3/<sup>泰兴</sup></small> 旧时大官墓前的石刻物，另有石人、石龟等，以显示其地位。<sup>\[泰兴\]</sup>  
 1. 【[石砚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_nin.md#石砚)】`sheh8 nin6` <sup>[如东]</sup> 用石料制成的砚台。  
 1. 【[石楠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_nun.md#石楠)】`sheh8 nun2` <sup>[如东]</sup> 蔷薇科植物石楠，常绿灌木或小乔木。高约12米。树冠圆形，多分枝。叶互生，革质，长椭圆形，边缘有细密而尖锐的锯齿，上面深绿色，有光泽，下面黄绿色，两面常被有白粉。圆锥状伞房花序顶生。花白色。梨果红色，近球形。庭园栽培。  
 1. 【[石楠叶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_nun_ih.md#石楠叶)】`sheh8 nun2 ih8` <sup>[如东]</sup> 蔷薇科植物石楠的干燥叶，人中药。性味辛苦，平。有祛风、通络、益肾作用，治风痹、腰背酸痛、肾虚脚软、偏头痛、风疹。  
@@ -1201,6 +1205,7 @@
 1. 【[石人石马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_ren_sheh_ma.md#石人石马)】`sheh8 ren2 sheh8 ma3` <sup>[如皋]</sup> 护陵石雕翁仲之类。  
 1. 【[石磉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_san.md#石磉)】`sheh8 san3` <sup>[兴化]</sup> 房柱底下的石礅。  
 1. 【[石蒜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_sun.md#石蒜)】`sheh8 sun5` <sup>[如东]</sup> 石蒜科植物石蒜，多年生草本。鳞茎阔椭圆形，外披紫褐色茎鳞皮。叶丛生，带形，肉质，上面青绿色，下面粉绿色，全缘。花茎在叶前抽出，实心。伞形花序。花红色，或具白色边缘。蒴果背裂，种子多数。生长在路边、林缘阴湿处。  
+1. 【[石弹子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_taen_zz.md#石弹子)】`sheh8 taen zz` <small>/səʔ8 tʰɛ̃ t͡sɿ/<sup>泰兴</sup></small> 鹅卵石。<sup>\[泰兴\]</sup>  
 1. 【[石蛋<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_taen_r.md#石蛋<sub>儿</sub>)】`sheh8 taen6 r` <sup>[如皋]</sup> 鹅卵石。  
 1. 【[石头磙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_teu_guen_zz.md#石头磙子)】`sheh8 teu guen3 zz` <sup>[如皋]</sup> 碾场用的石头磙子。  
 1. 【[石头上钉钉子——硬碰硬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_teu_shan_dien_dien_zz_ngen_pon_ngen.md#石头上钉钉子——硬碰硬)】`sheh8 teu shan dien5 dien1 zz ngen6 pon5 ngen6` <sup>[东台]</sup>   
@@ -1212,6 +1217,7 @@
 1. 【[石桌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_zhuah.md#石桌)】`sheh8 zhuah7` <sup>[如皋]</sup> 坟前放祭祀用品的石台。  
 1. 【[石硺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_zhuah.md#石硺)】`sheh8 zhuah7` <sup>[如皋]</sup> 牛拉动，在水田中压碎土块的瘦长多棱的麻石磙子。  
 1. 【[石子<sub>儿</sub>路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_zz_r_lv.md#石子<sub>儿</sub>路)】`sheh8 zz3 r lv6` <sup>[如皋]</sup> ① 用乱石子压面的公路。 ② 用鹅卵石铺面的庭园路。  
+1. 【[石子子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_zz_zz.md#石子子)】`sheh8 zz3 zz` <small>/səʔ8 t͡sɿ3 t͡sɿ/<sup>泰兴</sup></small> 碎石块。<sup>\[泰兴\]</sup>  
 1. 【[遈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh.md#遈)】`sheh8` 单脚跳  
 1. 【[食不重餐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_beh_chon_caen.md#食不重餐)】`sheh8 beh7 chon2 caen1` <sup>[兴化]</sup> 用过主餐后不再吃第二顿：覅客气，～，我已经吃过啊。  
 1. 【[食肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_chan.md#食肠)】`sheh8 chan` 食量，依次进食的饭量<sup>\[泰州\]</sup>：他俫少年人的～大，你要多弄几个菜。<sup>\[泰州\]</sup>  

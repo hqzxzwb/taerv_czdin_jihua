@@ -1066,7 +1066,6 @@
 1. 【[量升斠斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_shen_go_deu.md#量升斠斗)】`lian2 shen1 go5 deu3` <small>/liaŋ2 sən1 kɔ5 tɤ3/<sup>兴化</sup></small> ① 原指用斗和升来测定粮食存量，后泛指清仓查库，摸清家底。（见“斠”）<sup>\[东台\]</sup> ② 含贬义，不放心别人；背着人查问题。<sup>\[东台\]</sup> ③ 反复点数、反复核算<sup>\[兴化\]</sup>：他买点东西家来有得～唻！<sup>\[兴化\]</sup> ④ 反复用升斗来校正是否准确，意谓因疑重量不足或者多出而反复斠秤、折腾不已<sup>\[泰州\]</sup>：你就不要再～唻，多个两把，少个两把，都没得说相，百十斤鱼在这块分吖半天还不曾分得好！<sup>\[泰州\]</sup>  
 1. 【[量升斠斗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_shen_go_deu_r.md#量升斠斗<sub>儿</sub>)】`lian2 shen1 go5 deu3 r` <sup>[如皋]</sup> 贬词，一指量度工作忙乱，二指斤斤计较，三指重复细碎。  
 1. 【[量升校斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_shen_go_deu.md#量升校斗)】`lian2 shen1 go5 deu3` <sup>[泰县]</sup> 反复计算。  
-1. 【[𪳄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_zz.md#𪳄子)】`lian2 zz` 从河中提水的小木桶，桶口边上有高而弯曲的梁。<sup>\[泰州\]</sup>  
 1. 【[两把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_ba.md#两把)】`lian3 ba` <sup>[如皋]</sup> 一两左右。  
 1. 【[两把二两](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_ba_er_lian.md#两把二两)】`lian3 ba er6 lian3` <sup>[如皋]</sup> 估计一二两左右。  
 1. 【[两求斤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_qieu_jien.md#两求斤)】`lian3 qieu2 jien1` <sup>[如皋]</sup> 口诀。  
@@ -1092,7 +1091,7 @@
 1. 【[量](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian.md#量)】`lian6` <sup>[泰州]</sup> 料想，表示轻视：不是我小看他，这种文章～他写不出来。  
 1. 【[量大福大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_da_foh_da.md#量大福大)】`lian6 da6 foh7 da6` <sup>[泰州]</sup> 肚量大的人其福分也大，多作劝人包容、谅解他人之辞：你老人家～，就原谅他这一回吧。  
 1. 【[量气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_qi.md#量气)】`lian6 qi5` <sup>[如东]</sup> 人的气度：这个人的～不小。  
-1. 【[𪳄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_zz.md#𪳄子)】`lian6 zz` <small>/liaŋ6 t͡sɿ/<sup>兴化</sup>, /liã1 t͡sɿ/<sup>如皋</sup></small> ① 有提梁的木制小水桶 ② 手提的小水桶。可以有盖。多以毛竹片弯成弓形，用箍紧固在桶壁上作系（提把）。有耳子的称桶。参见“提𪳄儿”。<sup>\[如皋\]</sup> ③ 提水的器具，圆柱体，用木板制成，有提梁。小的～称提𪳄。<sup>\[东台\]</sup> ④ 提水的桶子，有柄<sup>\[兴化\]</sup>：大～；小～；铅桶～。<sup>\[兴化\]</sup>  
+1. 【[𪳄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_zz.md#𪳄子)】`lian6 zz` <small>/liaŋ6 t͡sɿ/<sup>兴化</sup>, /liã1 t͡sɿ/<sup>如皋</sup></small> ① 有提梁的木制小水桶 ② 手提的小水桶。可以有盖。多以毛竹片弯成弓形，用箍紧固在桶壁上作系（提把）。有耳子的称桶。参见“提𪳄儿”。<sup>\[如皋\]</sup> ③ 提水的器具，圆柱体，用木板制成，有提梁。小的～称提𪳄。<sup>\[东台\]</sup> ④ 提水的桶子，有柄<sup>\[兴化\]</sup>：大～；小～；铅桶～。<sup>\[兴化\]</sup> ⑤ 从河中提水的小木桶，桶口边上有高而弯曲的梁。<sup>\[泰州\]</sup>  
 1. 【[力不从心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_beh_con_xien.md#力不从心)】`lieh8 beh7 con2 xien1` <sup>[东台]</sup> 想做某事而力量达不到：我的能力不强，想做好也～。  
 1. 【[力大养一口，智大养千人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_da_ian_ieh_keu_zhr_da_ian_qin_ren.md#力大养一口，智大养千人)】`lieh8 da6 ian3 ieh7 keu3 zhr5 da6 ian3 qin1 ren2` <sup>[东台]</sup> 智慧比力气重要得多，要多动脑。  
 1. 【[力大为王](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_da_vei_van.md#力大为王)】`lieh8 da6 vei2 van2` <sup>[兴化]</sup> 凭力气、本领和后台称霸：你覅以为～，再横也有药搽你的头。  
@@ -2072,13 +2071,14 @@
 1. 【[龙船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_chun.md#龙船)】`lon2 chun2` <sup>[东台]</sup> 装饰成龙状的船：～比赛。  
 1. 【[龙胆草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_daen_co.md#龙胆草)】`lon2 daen3 co3` <sup>[如东]</sup> 龙胆科植物龙胆，多年生草本。  
 1. 【[龙灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_den.md#龙灯)】`lon2 den1` <sup>[东台]</sup> 民间娱乐用具，一人举一个绣球在前面引导，后面若干人跟着舞动。  
+1. 【[龙灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_den.md#龙灯)】`lon2 den1` <small>/lɔŋ2 təŋ1/<sup>泰兴</sup></small> 仿龙形所制的灯。民间节日的娱乐用品。<sup>\[泰兴\]</sup>：舞～<sup>\[泰兴\]</sup>  
 1. 【[龙东](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_don.md#龙东)】`lon2 don1` <sup>[泰县]</sup> 不成型的东西：这篇杲子不像～。  
 1. 【[龙冬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_don.md#龙冬)】`lon2 don1` <sup>[如皋]</sup> 不像样、难耐的、不合要求的：他做的衣裳不像个～；这是做的个甚的～！  
 1. 【[龙多不治水，庙多不显灵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_du_beh_chr_shuei_mio_du_beh_xin_lien.md#龙多不治水，庙多不显灵)】`lon2 du1 beh7 chr6 shuei3 mio6 du1 beh7 xin3 lien2` <sup>[东台]</sup> 人浮于事，必然相互扯皮影响办事效率。  
-1. 【[龙缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_gan.md#龙缸)】`lon2 gan1` <small>/loŋ2 kaŋ1/<sup>兴化</sup>, /lɔŋ2 kã1/<sup>如皋</sup></small> ① 绘有龙图案的缸，黄釉。多为荷花缸。陶器。<sup>\[如皋\]</sup> ② 一种圆筒形的小缸，底略小，内外涂釉，外有龙形图案。<sup>\[兴化\]</sup> ③ 一种黄色小缸，内外有釉，外饰龙的图案，故名。<sup>\[泰州\]</sup>  
+1. 【[龙缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_gan.md#龙缸)】`lon2 gan1` <small>/loŋ2 kaŋ1/<sup>兴化</sup>, /lɔŋ2 kã1/<sup>如皋</sup>, /lɔŋ2 kɑŋ1/<sup>泰兴</sup></small> ① 绘有龙图案的缸，黄釉。多为荷花缸。陶器。<sup>\[如皋\]</sup> ② 一种圆筒形的小缸，底略小，内外涂釉，外有龙形图案。<sup>\[兴化\]</sup> ③ 一种黄色小缸，内外有釉，外饰龙的图案，故名。<sup>\[泰州\]</sup> ④ 一种绘有龙的图文的较大的缸。<sup>\[泰兴\]</sup>  
 1. 【[龙骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_gueh.md#龙骨)】`lon2 gueh7` ① 帆船船底上的大梁，一般为三根。<sup>\[如东\]</sup> ② 车船、建筑物等的像脊椎骨那样的支撑和承重结构。<sup>\[东台\]</sup>  
 1. 【[龙虾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_ha.md#龙虾)】`lon2 ha1` 也指“螯虾”，生活在淡水中，身体呈圆筒状，远小于海中龙虾，甲壳坚厚，前有三对螯足，第一对特别大。<sup>\[泰州\]</sup>  
-1. 【[龙虎斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_hv_deu.md#龙虎斗)】`lon2 hv3 deu5` <small>/loŋ2 xu3 tɤ5/<sup>兴化</sup>, /lɔŋ2 fu3 tei5/<sup>如皋</sup></small> ① 又称饺儿面，即一碗中有面条和馄饨。<sup>\[如皋\]</sup> ② 烧饼的一种，咸中带甜。<sup>\[东台\]</sup> ③ 烹饪方法，即将鳝丝和虾仁放在一起爆炒。<sup>\[兴化\]</sup> ④ 包子或烧饼中同时放入甜、咸两种馅。<sup>\[兴化\]</sup> ⑤ 烧饼品种之一，一个饼中同时包进甜、咸两种对立味觉的馅儿。<sup>\[泰州\]</sup>  
+1. 【[龙虎斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_hv_deu.md#龙虎斗)】`lon2 hv3 deu5` <small>/loŋ2 xu3 tɤ5/<sup>兴化</sup>, /lɔŋ2 fu3 tei5/<sup>如皋</sup>, /lɔŋ2 fʋ3 təɪ5/<sup>泰兴</sup></small> ① 又称饺儿面，即一碗中有面条和馄饨。<sup>\[如皋\]</sup> ② 烧饼的一种，咸中带甜。<sup>\[东台\]</sup> ③ 烹饪方法，即将鳝丝和虾仁放在一起爆炒。<sup>\[兴化\]</sup> ④ 包子或烧饼中同时放入甜、咸两种馅。<sup>\[兴化\]</sup> ⑤ 烧饼品种之一，一个饼中同时包进甜、咸两种对立味觉的馅儿。<sup>\[泰州\]</sup> ⑥ 菜名。由蛇肉和猫肉作成，传为广东大菜，非大宴不食。<sup>\[泰兴\]</sup>  
 1. 【[龙游河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_ieu_hu.md#龙游河)】`lon2 ieu2 hu2` <sup>[如皋]</sup> 从如皋城河向南至杨花桥，折西至西河湾，折南经吴窑、桑木桥、新生港通长江。杨花桥至长江段是隋初南境坍江时的岸线；城河至杨花桥段原称马塘河。  
 1. 【[龙卷风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_jiun_fon.md#龙卷风)】`lon2 jiun3 fon1` <sup>[如东]</sup> 风力极强而范围不大的旋风，形成像一个大漏斗，风速往往达到每秒一百多米，破坏力非常大。在陆地上，能把大树连根拔起来，破坏各种建筑物和农作物。在海洋上，可以把海水吸到空中，形成水柱。人们所说的龙，就是这种水柱。  
 1. 【[龙锯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_jy.md#龙锯)】`lon2 jy5` <sup>[如东]</sup> 工具。铁制，圆圈形，带宽齿粗。用以锯粗大木料。  
@@ -2090,15 +2090,16 @@
 1. 【[龙虱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_sheh.md#龙虱)】`lon2 sheh7` <sup>[如东]</sup> 龙虱科昆虫东方潜龙虱，身体圆形，体长2.4至2.8厘米。  
 1. 【[龙虱子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_sheh_zz.md#龙虱子)】`lon2 sheh7 zz` <sup>[如皋]</sup> 红蜻蜓。夏秋间天气闷热时成群出现，常预示有龙卷风或暴风雨。  
 1. 【[龙梢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_sho.md#龙梢)】`lon2 sho1` <sup>[兴化]</sup> 厢房，多为正屋延伸部分：这座房子三间带一～。  
-1. 【[龙蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_taen.md#龙蛋)】`lon2 taen6` <small>/loŋ2 tʰɛ̃6/<sup>兴化</sup>, /lɔŋ2 tʰẽ1/<sup>如皋</sup></small> ① 常指珍贵的孩子。<sup>\[如皋\]</sup> ② 极言非常金贵的人<sup>\[兴化\]</sup>：他是全家的～，碰不得。<sup>\[兴化\]</sup>  
-1. 【[龙头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_teu.md#龙头)】`lon2 teu2` <small>/loŋ2 tʰɤ2/<sup>兴化</sup>, /lɔŋ2 tʰei2/<sup>如皋</sup></small> ① 喻首领。～老大。<sup>\[如皋\]</sup> ② 自行车把的轴<sup>\[兴化\]</sup>：这车子～太活，不好骑。<sup>\[兴化\]</sup> ③ 旧时称邮票。<sup>\[兴化\]</sup>  
+1. 【[龙蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_taen.md#龙蛋)】`lon2 taen6` <small>/loŋ2 tʰɛ̃6/<sup>兴化</sup>, /lɔŋ2 tʰẽ1/<sup>如皋</sup>, /lɔŋ2 tʰɛ̃1/<sup>泰兴</sup></small> ① 常指珍贵的孩子。<sup>\[如皋\]</sup> ② 极言非常金贵的人<sup>\[兴化\]</sup>：他是全家的～，碰不得。<sup>\[兴化\]</sup> ③ 喻多年盼得的极宝贵的后代<sup>\[泰兴\]</sup>：他家新妇生吖个～，一家儿欢喜啊不得了。<sup>\[泰兴\]</sup>  
+1. 【[龙头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_teu.md#龙头)】`lon2 teu2` <small>/loŋ2 tʰɤ2/<sup>兴化</sup>, /lɔŋ2 tʰei2/<sup>如皋</sup>, /lɔŋ2 tʰəɪ2/<sup>泰兴</sup></small> ① 喻首领。～老大。<sup>\[如皋\]</sup> ② 自行车把的轴<sup>\[兴化\]</sup>：这车子～太活，不好骑。<sup>\[兴化\]</sup> ③ 旧时称邮票。<sup>\[兴化\]</sup> ④ 自行车、摩托车头；自来水出水口部分。<sup>\[泰兴\]</sup>  
 1. 【[龙头拐杖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_teu_guae_chan.md#龙头拐杖)】`lon2 teu2 guae3 chan6` <sup>[东台]</sup> 岳父（丈人，丈与杖谐音）。  
 1. 【[龙头鮳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_teu_ko.md#龙头鮳)】`lon2 teu2 ko5` <sup>[如东]</sup> 龙头鱼科动物龙头鱼的鱼干。  
 1. 【[龙头芋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_teu_y.md#龙头芋)】`lon2 teu2 y6` <small>/lɔŋ2 tʰei2 y1/<sup>如皋</sup></small> ① 一种特大的芋头。<sup>\[如皋\]</sup> ② 俗称“芋母”，“龙头”指其大。<sup>\[泰州\]</sup>  
+1. 【[龙岸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_un.md#龙岸)】`lon2 un6` <small>/lɔŋ2 ʊ̃1/<sup>泰兴</sup></small> 水中大埂，不便种植。<sup>\[泰兴\]</sup>  
 1. 【[龙系水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_xi_shuei.md#龙系水)】`lon2 xi6 shuei3` <sup>[兴化]</sup> 龙卷风初起时，像龙尾将河湖中的水吸上天空。  
 1. 【[龙虾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_xia.md#龙虾)】`lon2 xia1` <small>/loŋ2 ɕia1/<sup>兴化</sup></small> ① 节肢动物，身体长一尺左右，第一对触角磨擦眼睛下方的骨质板能发出吱吱的声音。生活在海底。肉味鲜美。<sup>\[如东\]</sup> ② 虾的一种，体大，壳深红色。有一对大螯。生活在淡水中。肉质鲜美。也称克氏螯虾。<sup>\[如东\]</sup> ③ 蝲蛄，亦称鳌虾，体形略似海中龙虾而小，甲壳血红色，兴化盛产的为克拉氏鳌虾。<sup>\[兴化\]</sup>  
 1. 【[龙爪花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_zho_hua.md#龙爪花)】`lon2 zho3 hua1` <sup>[如皋]</sup> 石蒜。  
-1. 【[龙钟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_zhon.md#龙钟)】`lon2 zhon1` ① 年老体衰、行动不便的样子<sup>\[泰州\]</sup>：年纪大的～吖唻，你搀住他慢慢儿走。<sup>\[泰州\]</sup> ② 泛指人做事笨拙的样子<sup>\[泰州\]</sup>：你怎吖这吖～，端个碗把汤弄吖块块是的。<sup>\[泰州\]</sup>  
+1. 【[龙钟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_zhon.md#龙钟)】`lon2 zhon1` <small>/lɔŋ2 t͡sɔŋ1/<sup>泰兴</sup></small> ① 年老体衰、行动不便的样子<sup>\[泰州\]</sup>：年纪大的～吖唻，你搀住他慢慢儿走。<sup>\[泰州\]</sup> ② 泛指人做事笨拙的样子<sup>\[泰州\]</sup>：你怎吖这吖～，端个碗把汤弄吖块块是的。<sup>\[泰州\]</sup> ③ 身体衰老，行动不灵便、思维不清晰貌。<sup>\[泰兴\]</sup>：老爷爷年纪大了，有些～。<sup>\[泰兴\]</sup>  
 1. 【[龙爪花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_zhua_hua.md#龙爪花)】`lon2 zhua3 hua1` <sup>[如东]</sup> 石蒜科植物石蒜。  
 1. 【[龙猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_zhv.md#龙猪)】`lon2 zhv1` <small>/noŋ2 t͡su1/<sup>泰县</sup></small> 种公猪。<sup>\[泰县\]</sup><sup>\[泰州\]</sup>  
 1. 【[𧍰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon.md#𧍰)】`lon2` <sup>[如皋]</sup> 花花～儿：口语中的萤火虫。  

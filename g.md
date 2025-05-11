@@ -850,8 +850,7 @@
 1. 【[藁荐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_jin.md#藁荐)】`go3 jin` <sup>[东台]</sup> 旧时用稻草、麦秸等编成的垫子，铺在床上保温。  
 1. 【[交](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go.md#交)】`go5` <small>/kɔ5/<sup>兴化</sup>, /kɔ5/<sup>如皋</sup></small> ① 量词<sup>\[如皋\]</sup>：头～糏、二～糏。<sup>\[如皋\]</sup> ② 量词，次、遍<sup>\[兴化\]</sup>：浇一～水；薅二～草。<sup>\[兴化\]</sup> ③ 量词，遍，次<sup>\[泰州\]</sup>：这本书的样稿已经校对啊两～唻。<sup>\[泰州\]</sup>｜这块田你下午再打一～药。<sup>\[泰州\]</sup>  
 1. 【[告状](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_chuan.md#告状)】`go5 chuan6` <sup>[如东]</sup> ① 当事人请求司法机关审理某一案件。 ② 向某人的上级、长辈诉说被其欺负或受到不公正的待遇。  
-1. 【[告花子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_hua_zz.md#告花子)】`go5 hua zz` <sup>[如皋]</sup> 乞丐。  
-1. 【[告花子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_hua_zz.md#告花子)】`go5 hua1 zz` <small>/kɔ5 xua1 t͡sɿ/<sup>兴化</sup>, /kɔ5 xua1 t͡se/<sup>泰县</sup></small> ① 依靠乞讨为生的人。也称讨饭子、讨饭花子。通常称乞丐。<sup>\[如东\]</sup> ② 乞丐。也作叫花子。<sup>\[东台\]</sup> ③ 乞丐。也作“告化子”“叫化子”。<sup>\[兴化\]</sup> ④ 乞丐<sup>\[泰县\]</sup>：～又来啊啦。<sup>\[泰县\]</sup>  
+1. 【[告花子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_hua_zz.md#告花子)】`go5 hua1 zz` <small>/kɔ5 xua1 t͡sɿ/<sup>兴化</sup>, /kɔ5 xua t͡sɿ/<sup>如皋</sup>, /kɔ5 xuɑ t͡sɿ/<sup>泰兴</sup>, /kɔ5 xua1 t͡se/<sup>泰县</sup></small> 乞丐<sup>\[如皋\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>\[兴化：也作“告化子”“叫化子”。\]\[东台：也作叫花子。\]\[如东：也称讨饭子、讨饭花子。\]：～又来啊啦。<sup>\[泰县\]</sup>｜穷快活，富洒落，叫花子打个莲花落<sup>\[泰兴\]</sup>  
 1. 【[告阴状](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_ien_chuan.md#告阴状)】`go5 ien1 chuan6` <small>/kɔ5 in1 t͡sʰuaŋ6/<sup>兴化</sup></small> ① 背后说人坏话。<sup>\[如东\]</sup>：此人爱～，没人欢喜。<sup>\[如东\]</sup> ② 迷信<sup>\[兴化\]</sup>：在阳世斗不过有权势的恶人，死后到阴曹地府去告状。<sup>\[兴化\]</sup> ③ （借）打小报告或写匿名信诬告。<sup>\[兴化\]</sup>  
 1. 【[告苦告难](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_kv_go_naen.md#告苦告难)】`go5 kv3 go5 naen6` <sup>[兴化]</sup> 诉说自己的苦情，向亲友求助：她来～，说要看病，借走三百块钱。  
 1. 【[告别](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_pih.md#告别)】`go5 pih8` <sup>[如东]</sup> ① 分别：～双亲，来到前线。 ② 辞行：今日～，何时再见。  
@@ -1560,17 +1559,23 @@
 1. 【[骨子里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_zz_lii.md#骨子里)】`gueh7 zz lii` <small>/kuəʔ7 t͡sɿ ləi/<sup>兴化</sup></small> ① ［喻］内心或实质上<sup>\[东台\]</sup>：她表面上不动声色，～已经默许这门亲事啊。<sup>\[东台\]</sup> ② （喻）内心和实质上<sup>\[兴化\]</sup>：他表面做好人，～心狠手辣。<sup>\[兴化\]</sup>｜精明强干同尖酸刻薄，外表看差不多，～是截然不同的。<sup>\[兴化\]</sup> ③ 私下、暗中<sup>\[兴化\]</sup>：他俫～的事哪个总不清爽。‖也作“骨里”。<sup>\[兴化\]</sup>  
 1. 【[归着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_zhah.md#归着)】`guei zhah7` <sup>[泰州]</sup> ① 归宿，人的最终着落之处：你老在外头漂来漂去不是个事，还是家来找份收入稳定的工作，成个家，将来老啊也有个～。 ② 物体的固定存放之处：你把身份证随手乱丢，没得个～，等到要用的时候找不到就怪人。  
 1. 【[归家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_ga.md#归家)】`guei1 ga1` <sup>[泰州]</sup> 返回家中：他走早上出来，到现在还不曾～。  
+1. 【[归家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_ga.md#归家)】`guei1 ga1` <small>/kuəɪ1 kɑ1/<sup>泰兴</sup></small> 回家。<sup>\[泰兴\]</sup>：箇个伢儿天天耍子啊不～。<sup>\[泰兴\]</sup>  
 1. 【[归归拢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_guei_lon.md#归归拢)】`guei1 guei1 lon3` <small>/kuei1 kuei1 lɔŋ3/<sup>如皋</sup></small> ① 集中集中，整理整理。<sup>\[如皋\]</sup> ② 将分散的具体或者抽象之物集中一处<sup>\[泰州\]</sup>：把桌上的作业本子～放吖书包里去。<sup>\[泰州\]</sup>｜大家提啊不少意见，你抓紧时间把意见～，梳理下子报上去。<sup>\[泰州\]</sup>  
 1. 【[归一](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_ieh.md#归一)】`guei1 ieh7` <sup>[如东]</sup> ① 统一，一致：应该～。 ② 正规：生活开始～。  
 1. 【[归拢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_lon.md#归拢)】`guei1 lon3` <sup>[东台]</sup> 把零散的东西归并聚拢。  
+1. 【[归拢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_lon.md#归拢)】`guei1 lon3` <small>/kuəɪ1 lɔŋ3/<sup>泰兴</sup></small> 把分散的东西分类归集到一起。<sup>\[泰兴\]</sup>  
 1. 【[归神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_shen.md#归神)】`guei1 shen2` <sup>[兴化]</sup> 收起杂念，集中注意力：你一个春节把心玩野啊，现在该～吖。  
 1. 【[归宿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_soh.md#归宿)】`guei1 soh7` <sup>[如东]</sup> ① 回家休息：夜不～。 ② 人或事物最终的着落：她有啊好的～。  
 1. 【[归天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_tin.md#归天)】`guei1 tin1` <sup>[如东]</sup> 人死了：他已～。  
+1. 【[归天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_tin.md#归天)】`guei1 tin1` <small>/kuəɪ1 tʰĩ1/<sup>泰兴</sup></small> 谓人死亡<sup>\[泰兴\]</sup>  
+1. 【[归正](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_zhen.md#归正)】`guei1 zhen` <small>/kuəɪ1 t͡səŋ/<sup>泰兴</sup></small> 上规矩，归正道。<sup>\[泰兴\]</sup>：他这个人归正<sup>\[泰兴\]</sup>  
 1. 【[归真](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_zhen.md#归真)】`guei1 zhen1` <small>/kuəi1 t͡sən1/<sup>兴化</sup></small> ① 认真。<sup>\[如东\]</sup>：～说，他是对的。<sup>\[如东\]</sup> ② 正派、不苟且<sup>\[兴化\]</sup>：我俫庄上的妇女都～，请你覅乱说。<sup>\[兴化\]</sup> ③ 认真，郑重其事<sup>\[兴化\]</sup>：说句～话，有病上医院，那些走方郎中千万不能信。‖也说“规正”“规规真真”。<sup>\[兴化\]</sup>  
 1. 【[归真话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_zhen_hua.md#归真话)】`guei1 zhen1 hua6` ① 当真的话，实话实说的意思。<sup>\[东台\]</sup> ② 心里的真实想法，用于对话双方言归正传之词<sup>\[泰州\]</sup>：我～，我老早就想去，不过不曾有机会提。<sup>\[泰州\]</sup>｜玩归玩，笑归笑，说～，这件事还是要你去解决才行。<sup>\[泰州\]</sup>  
 1. 【[归正](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_zhen.md#归正)】`guei1 zhen5` <sup>[如东]</sup> 按规矩：统计应该～。  
 1. 【[归宗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_zon.md#归宗)】`guei1 zon1` <sup>[东台]</sup> 旧时流落在外的宗亲异支归回本来的宗族。  
+1. 【[归宗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_zon.md#归宗)】`guei1 zon1` <small>/kuəɪ1 t͡sɔŋ1/<sup>泰兴</sup></small> 出嗣异姓别支或流落在外的人还归本宗。<sup>\[泰兴\]</sup>  
 1. 【[归总](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_zon.md#归总)】`guei1 zon3` <sup>[如东]</sup> 把分散的并到一处：～有多少？  
+1. 【[归总](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_zon.md#归总)】`guei1 zon3` <small>/kuəɪ1 t͡sɔŋ3/<sup>泰兴</sup></small> 归并；总共；归结。<sup>\[泰兴\]</sup>：～就是这么点事儿，咱们能说负担不了吗？<sup>\[泰兴\]</sup>  
 1. 【[规矩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_jy.md#规矩)】`guei1 jy` <sup>[如东]</sup> ① 一定的标准、法则或习惯：做事要上～。 ② （行为）端正老实：王二蛮～的。  
 1. 【[规矩礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_jy_li.md#规矩礼)】`guei1 jy li3` <sup>[如皋]</sup> 既定的程序、手续：大家都这样，这是～。  
 1. 【[规真](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_zhen.md#规真)】`guei1 zhen1` <sup>[如皋]</sup> 正规：一般说，上海货～些。｜他做事～，不马虎。｜～吖，不哄你。  

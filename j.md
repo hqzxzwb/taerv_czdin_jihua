@@ -16,6 +16,7 @@
 1. 【[叽苦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_kv.md#叽苦)】`ji1 kv3` <sup>[如皋]</sup> 味很苦：黄连～。  
 1. 【[叽哩抹喳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_li_maeh_zha.md#叽哩抹喳)】`ji1 li1 maeh8 zha1` <sup>[东台]</sup> 尖声讲话，使人感到刺耳：几个小丫头七嘴八舌，～的。  
 1. 【[叽里咕噜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_lii_gv_lv.md#叽里咕噜)】`ji1 lii gv1 lv1` <sup>[东台]</sup> 低声说话，别人听不清楚。  
+1. 【[叽里咕噜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_lii_gv_lv.md#叽里咕噜)】`ji1 lii gv1 lv1` <small>/t͡ɕʝ1 ləɪ ku1 lu1/<sup>泰兴</sup></small> 小声讲一些别人听不清的话；唠叨不停。<sup>\[泰兴\]</sup>  
 1. 【[叽里木促](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_lii_moh_coh.md#叽里木促)】`ji1 lii moh8 coh7` <sup>[兴化]</sup> 啰里啰唆，令人生厌：这个老太婆，成天～的。  
 1. 【[叽里入咕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_lii_reh_gv.md#叽里入咕)】`ji1 lii reh8 gv` <sup>[兴化]</sup> 口中唠唠叨叨，念念有词：你嘴里～的说甚的啊？也作“叽咕”“叽咕祷咂”。  
 1. 【[叽里哇啦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_lii_va_la.md#叽里哇啦)】`ji1 lii va1 la1` <sup>[如皋]</sup> ① 形容语音尖厉刺耳。 ② 说话过快或声音嘈杂而听不清楚。  
@@ -109,7 +110,7 @@
 1. 【[麂毛草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_mo_co.md#麂毛草)】`ji1 mo2 co3` <sup>[如东]</sup> 草本植物，丛生，叶细长，似猪毛。  
 1. 【[齑菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_cae.md#齑菜)】`ji1 cae5` <small>/t͡ɕi1 t͡sʰɛ5/<sup>兴化</sup></small> ① 见“酸齑菜”。“齑”古籍用“虀”，现也用“𪊆”。<sup>\[东台\]</sup> ② 小青菜用热水烫后发酵，色青黄，味微酸，可用米烧汤<sup>\[兴化\]</sup>：～散花坨子（肉圆）。<sup>\[兴化\]</sup>  
 1. 【[齑糟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zo.md#齑糟)】`ji1 zo` <sup>[泰兴]</sup> 焦虑，心神不宁  
-1. 【[齑糟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zo.md#齑糟)】`ji1 zo1` 因琐碎小事而处于焦虑状态<sup>\[泰州\]</sup>：他就是个～人，一点儿小事，他有泡的作阴躁唻。<sup>\[泰州\]</sup>｜她这个人～啊不得命，大事小事都要操心。<sup>\[泰州\]</sup>  
+1. 【[齑糟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zo.md#齑糟)】`ji1 zo1` <small>/t͡ɕʝ1 t͡sɔ1/<sup>泰兴</sup></small> ① 因琐碎小事而处于焦虑状态<sup>\[泰州\]</sup>：他就是个～人，一点儿小事，他有泡的作阴躁唻。<sup>\[泰州\]</sup>｜她这个人～啊不得命，大事小事都要操心。<sup>\[泰州\]</sup> ② 烦躁，不耐烦<sup>\[泰兴\]</sup>：你佼不要～，一刻儿就妥了<sup>\[泰兴\]</sup>  
 1. 【[𨳻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#𨳻)】`ji1` ① 门臼。 ② 拧着转  
 1. 【[几](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#几)】`ji3` <sup>[如皋]</sup> 条几、香几等的通称。  
 1. 【[几下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ha.md#几下)】`ji3 ha6` <sup>[东台]</sup> 几个地方。“下”相当于量词“处”。  
@@ -1484,7 +1485,7 @@
 1. 【[叫天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_tin.md#叫天)】`jio5 tin1` <sup>[如皋]</sup> 母牛发情。  
 1. 【[叫响批](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_xian_pi.md#叫响批)】`jio5 xian3 pi1` <sup>[如东]</sup> 大声地叫喊。  
 1. 【[叫争](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_zhen.md#叫争)】`jio5 zhen1` <small>/t͡ɕiɔ5 t͡səŋ1/<sup>如皋</sup>, /t͡ɕiɔ5 t͡səŋ1/<sup>泰兴</sup></small> ① 雌性牲畜发情而雄性牲畜相互争斗叫唤。也称叫春。<sup>\[如东\]</sup> ② 猫交配的过程，事前对叫，事后追逐。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
-1. 【[叫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_zz.md#叫子)】`jio5 zz` <small>/t͡ɕiɔ5 t͡sɿ/<sup>兴化</sup></small> ① 哨儿。又称“叫叫子”“叫鸡子”。<sup>\[兴化\]</sup> ② 哨子，用竹子、金属等制成的能吹出声响的器物。<sup>\[泰州\]</sup>  
+1. 【[叫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_zz.md#叫子)】`jio5 zz` <small>/t͡ɕiɔ5 t͡sɿ/<sup>兴化</sup>, /t͡ɕiɔ5 t͡sɿ/<sup>泰兴</sup></small> ① 哨儿。又称“叫叫子”“叫鸡子”。<sup>\[兴化\]</sup> ② 哨子，用竹子、金属等制成的能吹出声响的器物。<sup>\[泰州\]</sup> ③ 哨子，口哨。口吹发声之器。<sup>\[泰兴\]</sup>：乡谚：“清明到，麦叫叫。”叫叫，即以麦杆作成的叫子。<sup>\[泰兴\]</sup>  
 1. 【[嘦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio.md#嘦)】`jio5` <sup>[兴化]</sup> 方言俗字，这要、只要：这个也不行，那个也不好，～怎吖弄？  
 1. 【[教把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_ba.md#教把)】`jio5 ba3` <sup>[兴化]</sup> 指经济状况拮据的人：他是个～，恐怕又是来打秋丰的。  
 1. 【[教门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_men.md#教门)】`jio5 men2` <small>/t͡ɕiɔ5 mən2/<sup>兴化</sup>, /t͡ɕiɔ5 məŋ2/<sup>如皋</sup></small> ① 规矩：伢儿这吖野气，没～！回子吃猪肉——自坏～。<sup>\[如皋\]</sup> ② 指回民<sup>\[兴化\]</sup>：开牛行的马家是～。<sup>\[兴化\]</sup>｜“……尊驾在此，无物可敬，割了五斤牛肉——是～的干净东西，略伸薄敬。”（《岐路灯》三三）<sup>\[兴化\]</sup>  

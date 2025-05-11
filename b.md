@@ -3,6 +3,7 @@
 ## B
 1. 【[……巴拉哈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_la_ha.md#……巴拉哈)】`ba la1 ha1` 跟在单字形容词之后，用作生动形式：黄～；黑～；酸～。  
 1. 【[……巴剌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_laeh.md#……巴剌)】`ba laeh` 跟在双字形容词之后，用作生动形式：小气～；钝事～。  
+1. 【[叭<sub>儿</sub>狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_r_geu.md#叭<sub>儿</sub>狗)】`ba1 r geu3` <small>/pɑ˞1 kəɪ3/<sup>泰兴</sup></small> 又称哈巴狗。体小、腿短、毛长。供玩赏。常用来比喻被主子豢养的温顺的奴才。<sup>\[泰兴\]</sup>  
 1. 【[吧嗒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_daeh.md#吧嗒)】`ba1 daeh7` <sup>[如皋]</sup> 象声词。常形容吸烟的唇边音。  
 1. 【[吧啦吧啦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_la_ba_la.md#吧啦吧啦)】`ba1 la1 ba1 la1` <sup>[如皋]</sup> 象声词。常贬指抢着说或无主题说话。  
 1. 【[妑妑<sub>儿</sub>头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ba_r_teu.md#妑妑<sub>儿</sub>头)】`ba1 ba1 r teu2` <sup>[如皋]</sup> 女伢儿梳的～。  

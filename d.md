@@ -2232,6 +2232,7 @@
 1. 【[东境窜毫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_jien_cun_ho.md#东境窜毫)】`don1 jien cun5 ho2` <sup>[如皋]</sup> 黎明时分，一道毫光射向黑暗的天空。就一刹那。  
 1. 【[东凌港](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_lien_gan.md#东凌港)】`don1 lien2 gan3` <sup>[如东]</sup> 如东渔港。位于兵房镇东安闸外。高潮位，水深8-10米，低潮位，水深5米。港宽30-50米。常航能力50-80吨，最大通航能力400吨。能泊50-80吨渔船。  
 1. 【[东凌堤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_lien_ti.md#东凌堤)】`don1 lien2 ti2` <sup>[如东]</sup> 东凌堤分两期工程：<br>老东凌堤：1981年1 1月30日至1982年1月8日，为匡围东凌垦区而修筑。县政府成立围垦工程指挥部，顾永乐任指挥，调集掘东、岔河、双甸、马塘、丰剁、掘港6区民工近8万人参加施工。自东安闸北港堤起，绕十贯堤外滩，接北坎新堤东北角，全长16.58公里。完成土方355万立方米。顶高程8-8.5米，顶宽6米。<br>新东凌堤：2007年1月24日至2007年10月15日结束，筑堤14.005公里。采用机械化作业。动用民力0.15万人。  
+1. 【[东邻西舍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_lien_xi_shae.md#东邻西舍)】`don1 lien2 xi1 shae5` <small>/tɔŋ1 liŋ2 ɕʝ1 ɕiɛ5/<sup>泰兴</sup></small> 犹言左邻右舍。<sup>\[泰兴\]</sup>  
 1. 【[东路鸡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_lv_ji_zz.md#东路鸡子)】`don1 lv6 ji1 zz` <sup>[如皋]</sup> 如皋三黄鸡。泰州称如皋为东路。  
 1. 【[东南风的小鸡子，死多活少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_nun_fon_dii.md#东南风的小鸡子，死多活少)】`don1 nun fon1 dii xio3 ji zz sz3 du1 uh8 sho3` <small>/tɔŋ1 nʊ̃ fɔŋ1 təɪ ɕiɔ3 t͡ɕʝ t͡sɿ sɿ3 tɤɯ1 ʊʔ8 sɔ3/<sup>泰兴</sup></small> 歇后语。春天刮东南风，天气湿冷，刚孵出的雏鸡容易死亡。<sup>\[泰兴\]</sup>  
 1. 【[东斜西竵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_qia_xi_huae.md#东斜西竵)】`don1 qia2 xi1 huae1` <sup>[如东]</sup> 歪歪斜斜，很不整齐的样子。  

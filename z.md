@@ -1914,6 +1914,7 @@
 1. 【[左右](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_ieu.md#左右)】`zu3 ieu6` <small>/t͡so3 iɤ6/<sup>兴化</sup></small> ① 副词，相当于反正、无非<sup>\[兴化\]</sup>：我～闲吖在下，就去帮几天忙吧！<sup>\[兴化\]</sup>｜～是一伙的人……没一个不思量骗他的。（《初刻》十八）<sup>\[兴化\]</sup> ② 左和右两方面。<sup>\[如东\]</sup>：～都要考虑。<sup>\[如东\]</sup> ③ 表示概数。<sup>\[如东\]</sup>：一万～吧。<sup>\[如东\]</sup>  
 1. 【[左右手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_ieu_sheu.md#左右手)】`zu3 ieu6 sheu3` <sup>[如东]</sup> 左手与右手。比喻帮手：他是我的～。  
 1. 【[左框框<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_kuan_kuan_r.md#左框框<sub>儿</sub>)】`zu3 kuan1 kuan1 r` <sup>[如皋]</sup> 框栏儿（匚）：区匪臣  
+1. 【[左邻右舍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_lien_ieu_shae.md#左邻右舍)】`zu3 lien2 ieu6 shae5` <small>/t͡sɤɯ3 liŋ2 iɤɯ1 ɕiɛ5/<sup>泰兴</sup></small> 左右邻居。<sup>\[泰兴\]</sup>  
 1. 【[左撇子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_pih_zz.md#左撇子)】`zu3 pih7 zz` ① 习惯用左手的人。<sup>\[东台\]</sup> ② 习惯于用左手拿筷子、刀、剪等物的人。<sup>\[如东\]</sup>：他俫两个都是～。<sup>\[如东\]</sup>  
 1. 【[左嗓子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_san_zz.md#左嗓子)】`zu3 san3 zz` <sup>[兴化]</sup> ① 指唱歌时音准欠佳的人。 ② 说话时仿佛勒着嗓子发出的声音：他是个～。  
 1. 【[左手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_sheu.md#左手)】`zu3 sheu3` <sup>[如东]</sup> ① 左边的手。 ② 左边（多指座位）：你坐啊我的～。  
