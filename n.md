@@ -1161,7 +1161,8 @@
 1. 【[讹错驴大个芝麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_cu_ly_da_gu_zhr_ma.md#讹错驴大个芝麻)】`ngu2 cu5 ly2 da6 gu zhr1 ma2` <sup>[东台]</sup> 相差太大的意思：他的话不实，审核下来简直～！  
 1. 【[讹个盹<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_gu_den_r.md#讹个盹<sub>儿</sub>)】`ngu2 gu den3 r` <sup>[泰州]</sup> 相差极少点儿时间，意谓非常侥幸或者非常可惜：你再～，车子就开啊走唻。｜他再～就要迟到唻。  
 1. 【[讹话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_hua.md#讹话)】`ngu2 hua6` <sup>[如皋]</sup> 讹诈的话。  
-1. 【[讹鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_ji.md#讹鸡)】`ngu2 ji1` <sup>[兴化]</sup> 耍赖：他跟伢儿打扑克，输掉就～。  
+1. 【[讹稽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_ji.md#讹稽)】`ngu2 ji1` <sup>[兴化]</sup> 耍赖：他跟伢儿打扑克，输掉就～。  
+1. 【[讹稽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_ji.md#讹稽)】`ngu2 ji1` 运用不正当手段获胜，多指在打牌时偷牌、换牌、反悔等不符合规则的行文<sup>\[泰州\]</sup>：要同你打牌可以，不带～。<sup>\[泰州\]</sup>  
 1. 【[讹赖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_lae.md#讹赖)】`ngu2 lae6` <small>/o2 lɛ6/<sup>兴化</sup></small> ① 讹诈、抵赖<sup>\[东台\]</sup>：借钱要办抵押手续，防止～行为。<sup>\[东台\]</sup> ② 讹诈或抵赖<sup>\[兴化\]</sup>：“……日后倘有亲属本家～等事，概由中人倪四一手承当……”（《皮五辣子》一）<sup>\[兴化\]</sup> ③ 讹诈，敲诈勒索<sup>\[泰州\]</sup>：我亲眼望见你自己跌咖来的，还想～人家。<sup>\[泰州\]</sup> ④ 抵赖，拒绝承认发生的事实<sup>\[泰州\]</sup>：你说咖要请大家的，不带耍～啊。<sup>\[泰州\]</sup>  
 1. 【[讹蛮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_maen.md#讹蛮)】`ngu2 maen2` <sup>[兴化]</sup> 无理纠缠：他老来～，说几年前有件事不曾落实。  
 1. 【[讹钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_qin.md#讹钱)】`ngu2 qin2` <sup>[如皋]</sup> 讹诈现钱。  
@@ -1170,7 +1171,6 @@
 1. 【[讹险险<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_xin_xin_r.md#讹险险<sub>儿</sub>)】`ngu2 xin3 xin3 r` <sup>[泰州]</sup> 相差极少点儿就会铸成大错，意谓情况极其危险：今儿子要不是他的方向盘打得快，～就撞到那个年纪大的唻。｜本科的录取分数线是327分，他考啊327.5，～就上不了大学。  
 1. 【[讹诈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_zha.md#讹诈)】`ngu2 zha5` <sup>[如东]</sup> 假借某种理由向人强行索取财物。威胁恫吓。  
 1. 【[讹账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_zhan.md#讹账)】`ngu2 zhan5` <sup>[如皋]</sup> 错账。  
-1. 【[讹□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_zz.md#讹□)】`ngu2 zz1` 运用不正当手段获胜，多指在打牌时偷牌、换牌、反悔等不符合规则的行文<sup>\[泰州\]</sup>：要同你打牌可以，不带～。<sup>\[泰州\]</sup>  
 1. 【[鹅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu.md#鹅)】`ngu2` <sup>[如东]</sup> 鸭科动物鹅，体长约60厘米。嘴扁圆，前额有肉瘤，雄者膨大，黄色或黑褐色。颈长。体躯宽壮，龙骨长，胸部丰满。尾短，羽毛白色或灰色。脚大有蹼，黄色或黑褐色，能游水。饲养家禽。吃谷物、蔬菜、鱼虾等。  
 1. 【[鹅不食草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_beh_sheh_co.md#鹅不食草)】`ngu2 beh7 sheh8 co3` <sup>[如东]</sup> 石竹科植物蚤缀，又名小无心菜，一年生或二年生草本。高约30厘米。茎多数簇生，稍铺散，密生白色短毛。叶对生，卵形。聚伞花序。花白色。蒴果。种子肾形，褐色。生长在稻田或阴湿处、路边。  
 1. 【[鹅臎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_cuei.md#鹅臎)】`ngu2 cuei5` <sup>[如东]</sup> 鸭科动物鹅的尾肉。  
@@ -1182,7 +1182,7 @@
 1. 【[鹅眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_ngaen.md#鹅眼)】`ngu2 ngaen3` <sup>[兴化]</sup> ① 古代私铸的一种劣质小钱：人人爱果然在他衣兜里掏出一大把钱来，约莫小洋有十几个，铜板有十几个，其余便尽是～小钱。（《广陵潮》六三） ② 小、少：滴滴～儿。  
 1. 【[鹅眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_ngaen_r.md#鹅眼<sub>儿</sub>)】`ngu2 ngaen3 r` <small>/o2 ɛ̃3 ɚ/<sup>泰县</sup></small> 比喻极小<sup>\[泰县\]</sup><sup>\[泰州\]</sup>：～大的个地方。<sup>\[泰县\]</sup>｜他睡的个地方～大，人在里头身子都转不过来。<sup>\[泰州\]</sup>｜这～大的东西，𠫓咖地下还就不好找。<sup>\[泰州\]</sup>  
 1. 【[鹅内金](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_nuei_jien.md#鹅内金)】`ngu2 nuei6 jien1` <sup>[如东]</sup> 鸭科动物鹅的砂囊内壁。  
-1. 【[鹅<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_r.md#鹅<sub>儿</sub>)】`ngu2 r` <small>/o2 ɚ/<sup>泰县</sup></small> ① 鹅 ② 鹅。<sup>\[泰县\]</sup>  
+1. 【[鹅<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_r.md#鹅<sub>儿</sub>)】`ngu2 r` <small>/ŋɤɯ˞2/<sup>泰兴</sup>, /o2 ɚ/<sup>泰县</sup></small> 鹅<sup>\[泰县\]</sup><sup>\[泰兴\]</sup><sup>\[如东\]</sup>  
 1. 【[鹅<sub>儿</sub>不食草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_r_beh_sheh_co.md#鹅<sub>儿</sub>不食草)】`ngu2 r beh7 sheh8 co3` <sup>[如皋]</sup> 石胡荽。  
 1. 【[鹅<sub>儿</sub>蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_r_taen.md#鹅<sub>儿</sub>蛋)】`ngu2 r taen6` ① 鹅蛋 ② 喻指考试得零分  
 1. 【[鹅<sub>儿</sub>头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_r_teu.md#鹅<sub>儿</sub>头)】`ngu2 r teu2` <small>/ŋʊ˞2 tʰei2/<sup>如皋</sup></small> ① 一种麦田常见的野草。花苞大，花瓣小，呈粉红色。<sup>\[如皋\]</sup> ② 前额或枕骨凸起的头型。<sup>\[如皋\]</sup>  
@@ -1397,7 +1397,7 @@
 1. 【[蹑手蹑脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nih_sheu_nih_jiah.md#蹑手蹑脚)】`nih8 sheu3 nih8 jiah7` <sup>[东台]</sup> 形容走路脚步很轻。  
 1. 【[镍角子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nih_gah_zz.md#镍角子)】`nih8 gah7 zz` <sup>[如皋]</sup> 镍质辅币。  
 1. 【[𥬬子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nih_zz.md#𥬬子)】`nih8 zz` <sup>[兴化]</sup> 由竹片编成，圆形置于锅中，其下放水加热蒸面食。  
-1. 【[你](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nii.md#你)】`nii3` ① 你 ② 人称代词。代表听话的人。<sup>\[如东\]</sup>  
+1. 【[你](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nii.md#你)】`nii3` 你，第二人称。泰兴用nen3。  
 1. 【[你有你的关门计，我有我的跳墙法](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nii_ieu_nii_dii_guaen_men_ji_ngu_ieu_ngu_dii_tio_qian_faeh.md#你有你的关门计，我有我的跳墙法)】`nii3 ieu3 nii3 dii guaen1 men2 ji5 ngu3 ieu3 ngu3 dii tio5 qian2 faeh7` <sup>[东台]</sup> 一方有计策，另一方有对策。  
 1. 【[你要心肝，他要五脏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nii_io_xien_gun_ta_io_v_can.md#你要心肝，他要五脏)】`nii3 io5 xien1 gun1 ta1 io5 v3 can6` <sup>[如皋]</sup> 各自要求不同。  
 1. 【[你敬我一尺，我敬你一丈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nii_jien_ngu_ieh_cheh_ngu_jien_nii_ieh_chan.md#你敬我一尺，我敬你一丈)】`nii3 jien5 ngu3 ieh7 cheh7 ngu3 jien5 nii3 ieh7 chan6` <sup>[东台]</sup> 人娶相互尊重，对人好，人家才对己好。  

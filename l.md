@@ -136,7 +136,7 @@
 1. 【[喇叭头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ba_teu_zz.md#喇叭头子)】`la3 ba teu2 zz` <small>/la3 pa tʰɤ2 t͡sɿ/<sup>兴化</sup>, /na3 pa tʰɤɯ2 t͡se/<sup>泰县</sup></small> ① 扬声器的俗称。<sup>\[兴化\]</sup> ② 广播喇叭。<sup>\[泰县\]</sup>  
 1. 【[藞挂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_gua.md#藞挂)】`la3 gua` <sup>[如皋]</sup> 见“拉瓜”。  
 1. 【[藞䕢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_zha.md#藞䕢)】`la3 zha3` <sup>[如皋]</sup> 见“拉瓜”。  
-1. 【[俫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae.md#俫)】`lae` <small>/lɛ/<sup>如皋</sup></small> ① 人称复数 ② 们<sup>\[如皋\]</sup>：我～、你～、他～。<sup>\[如皋\]</sup> ③ 相当于“们”，表示人称的复数<sup>\[东台\]</sup>：我～<sup>\[东台\]</sup>｜你～<sup>\[东台\]</sup>｜他～。<sup>\[东台\]</sup> ④ 人称复数<sup>\[泰州\]</sup>：你～<sup>\[泰州\]</sup>｜我～<sup>\[泰州\]</sup>  
+1. 【[俫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae.md#俫)】`lae` <small>/lɛ/<sup>兴化</sup>, /lɛ/<sup>如皋</sup>, /lɛ/<sup>泰兴</sup>, /ne/<sup>泰县</sup></small> 人称复数，相当于“们”。泰兴用“jio“：我～｜你～｜他～。  
 1. 【[唻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae.md#唻)】`lae` <sup>[泰州]</sup> ① 助词，相当于“了”。 ② 表示动作行为终结：你就不要讲～，领导心里有数的。｜退啊休，就不要再做～。 ③ 用于句末，表示肯定：事情老早就办好啊唻。  
 1. 【[来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae.md#来)】`lae2` <sup>[泰州]</sup> 特指赌博：小的没得意思，要～就～大的。  
 1. 【[来啊阵仗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_a_chen_chan.md#来啊阵仗)】`lae2 a chen6 chan6` <sup>[如皋]</sup> 见“来啊天色”。  
@@ -201,7 +201,7 @@
 1. 【[来尿精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_xy_jien.md#来尿精)】`lae2 xy1 jien1` <sup>[泰州]</sup> 谑称常尿床的儿童。  
 1. 【[来哉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_zae.md#来哉)】`lae2 zae` 往来<sup>\[泰州\]</sup>：他同乡里的亲戚十来年不～唻。<sup>\[泰州\]</sup>｜听说他在外头赌钱欠吖不少债，你少同他～。<sup>\[泰州\]</sup>  
 1. 【[来□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_zae.md#来□)】`lae2 zae1` <sup>[兴化]</sup> 来往：他俫两家虽是亲戚，平时不大～。  
-1. 【[咧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae.md#咧)】`lae3` <small>/lɛ3/<sup>兴化</sup>, /lɛ3/<sup>如皋</sup>, /ne3/<sup>泰县</sup></small> ① 展开<sup>\[如皋\]</sup>：～嘴；事情～开来啊。<sup>\[如皋\]</sup> ② 嘴咧开<sup>\[兴化\]</sup>：龇牙～嘴<sup>\[兴化\]</sup>｜嘴笑啊～开来。<sup>\[兴化\]</sup> ③ 嘴大而略扁：他看到鱼，嘴就～下来。<sup>\[泰县\]</sup> ④ 张开嘴巴而略扁<sup>\[泰州\]</sup>：你望他嘴一～，笑得这屈形样子。<sup>\[泰州\]</sup>  
+1. 【[咧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae.md#咧)】`lae3` <small>/lɛ3/<sup>兴化</sup>, /lɛ3/<sup>如皋</sup>, /ne3/<sup>泰县</sup></small> ① 展开<sup>\[如皋\]</sup>：～嘴；事情～开来啊。<sup>\[如皋\]</sup> ② 嘴咧开<sup>\[兴化\]</sup>：龇牙～嘴<sup>\[兴化\]</sup>｜嘴笑啊～开来。<sup>\[兴化\]</sup> ③ 嘴大而略扁<sup>\[泰县\]</sup>：他看到鱼，嘴就～下来。<sup>\[泰县\]</sup> ④ 张开嘴巴而略扁<sup>\[泰州\]</sup>：你望他嘴一～，笑得这屈形样子。<sup>\[泰州\]</sup>  
 1. 【[咧嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_jy.md#咧嘴)】`lae3 jy3` <sup>[如皋]</sup> ① 嘴大。 ② 一种张嘴的动作表情。  
 1. 【[那<sub>许</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae.md#那<sub>许</sub>)】`lae5` 那里。那许lu5 hae连读。  
 1. 【[䐯膗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_chuae.md#䐯膗)】`lae6 chuae5` <sup>[兴化]</sup> 因过肥面形体不匀称，容貌难看：谚曰：～对～，破锅腔配个齾锅盖。䐯，《广韵·皆韵》力怀切，～形恶貌。膗，仕怀切。（声调不合）  

@@ -1,7 +1,7 @@
 # 音序检索
 **[A](./a.md) | [B](./b.md) | [C](./c.md) | [D](./d.md) | [E](./e.md) | [F](./f.md) | [G](./g.md) | [H](./h.md) | [I](./i.md) | [J](./j.md) | [K](./k.md) | [L](./l.md) | [M](./m.md) | [N](./n.md) | [O](./o.md) | [P](./p.md) | [Q](./q.md) | [R](./r.md) | [S](./s.md) | [T](./t.md) | [U](./u.md) | [V](./v.md) | [X](./x.md) | [Y](./y.md) | [Z](./z.md)**  
 ## T
-1. 【[他](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta.md#他)】`ta1` <sup>[如东]</sup> 人称代词。代表“我”和“你”以外的第三者。  
+1. 【[他](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta.md#他)】`ta1` 他，第三人称。  
 1. 【[他的根本，我的家乡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta_dii_gen_ben_ngu_dii_jia_xian.md#他的根本，我的家乡)】`ta1 dii gen1 ben3 ngu3 dii jia1 xian1` <sup>[东台]</sup> 喻指我对他的底细十分清楚。  
 1. 【[……他的皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta_dii_pi.md#……他的皮)】`ta1 dii pi2` <sup>[泰州]</sup> 用在动词后，表示发泄对第三者的强烈不满情绪：这小伙下回再同你老卵的话，就夯～。｜他要是还把车子停吖你家门口，挡住你的路，你就同我骂～。  
 1. 【[他的他](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta_dii_ta.md#他的他)】`ta1 dii ta1` ① 还是老样子。（也作“他对他”或“他的个他”）<sup>\[东台\]</sup>：对他教育一年效果不大，还是～！<sup>\[东台\]</sup> ② 他还是他，比喻没有发生变化<sup>\[泰州\]</sup>：公司里换吖一个领导，还是～，一直到现在还不曾扭转亏损的局面。<sup>\[泰州\]</sup>｜请吖个老师帮他补课，弄吖个把月，到临了成绩还是～。<sup>\[泰州\]</sup>  

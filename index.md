@@ -536,7 +536,7 @@
 1. 【[腮帮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sae_ban_zz.md#腮帮子)】`sae1 ban1 zz` <small>/sɛ1 pã1 t͡sɿ/<sup>如皋</sup></small> ① 脸颊内侧<sup>\[如皋\]</sup>：～上有啊疳疮，疼得没魂。<sup>\[如皋\]</sup> ② 见“颌腮”。<sup>\[如皋\]</sup>  
 [更多...](./s.md)
 ## T
-1. 【[他](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta.md#他)】`ta1` <sup>[如东]</sup> 人称代词。代表“我”和“你”以外的第三者。  
+1. 【[他](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta.md#他)】`ta1` 他，第三人称。  
 1. 【[他的根本，我的家乡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta_dii_gen_ben_ngu_dii_jia_xian.md#他的根本，我的家乡)】`ta1 dii gen1 ben3 ngu3 dii jia1 xian1` <sup>[东台]</sup> 喻指我对他的底细十分清楚。  
 1. 【[……他的皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta_dii_pi.md#……他的皮)】`ta1 dii pi2` <sup>[泰州]</sup> 用在动词后，表示发泄对第三者的强烈不满情绪：这小伙下回再同你老卵的话，就夯～。｜他要是还把车子停吖你家门口，挡住你的路，你就同我骂～。  
 1. 【[他的他](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta_dii_ta.md#他的他)】`ta1 dii ta1` ① 还是老样子。（也作“他对他”或“他的个他”）<sup>\[东台\]</sup>：对他教育一年效果不大，还是～！<sup>\[东台\]</sup> ② 他还是他，比喻没有发生变化<sup>\[泰州\]</sup>：公司里换吖一个领导，还是～，一直到现在还不曾扭转亏损的局面。<sup>\[泰州\]</sup>｜请吖个老师帮他补课，弄吖个把月，到临了成绩还是～。<sup>\[泰州\]</sup>  
@@ -563,6 +563,8 @@
 1. 【[𢪯手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_sheu.md#𢪯手)】`tae1 sheu3` <sup>[如东]</sup> 表示无可奈何，认输不干了：我～。  
 1. 【[台秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_chen.md#台秤)】`tae2 chen5` <sup>[兴化]</sup> 案秤。  
 1. 【[台容](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ion.md#台容)】`tae2 ion2` <sup>[兴化]</sup> （借）指人的模样：她这副～晚上出来还把人吓咖唻！  
+1. 【[台基](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ji.md#台基)】`tae2 ji1` <sup>[兴化]</sup> 旧时供婚外男女幽会或私娼卖淫的场所，上～｜（她）有时也出外卖淫，所有城外许多～，大约没有个不见姚氏踪迹。（《广陵潮》六九）  
+1. 【[台面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_min.md#台面)】`tae2 min6` <small>/tʰɛ2 miɪ̃6/<sup>兴化</sup>, /tʰɛ2 mĩ1/<sup>如皋</sup></small> ① 正式的、严肃的场合。<sup>\[如皋\]</sup> ② 桌面。<sup>\[兴化\]</sup> ③ 公开的或交际应酬的场合<sup>\[兴化\]</sup>：说话要捧得上～。<sup>\[兴化\]</sup>｜你也买件把新衣壮壮～。<sup>\[兴化\]</sup> ④ 筵席间<sup>\[兴化\]</sup>：见面之后，留吃夜饭；～上只有他郎舅、叔侄三个人说的话……（《官场现形记》二）<sup>\[兴化\]</sup>  
 [更多...](./t.md)
 ## U
 1. 【[唩啰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_lu.md#唩啰)】`u lu` <sup>[如东]</sup> 呼狗声。  

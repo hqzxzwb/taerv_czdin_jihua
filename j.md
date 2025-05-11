@@ -46,7 +46,6 @@
 1. 【[虮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zz.md#虮子)】`ji1 zz` <small>/t͡ɕʝ1 t͡sɿ/<sup>如皋</sup></small> 虱子的卵。<sup>\[如东\]</sup><sup>\[如皋\]</sup>  
 1. 【[讥人富贵笑人贫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ren_fv_guei_xio_ren_pien.md#讥人富贵笑人贫)】`ji1 ren2 fv5 guei5 xio5 ren2 pien2` <sup>[东台]</sup> （俗语）一种小市民心理。别人无论富贵还是贫穷，他都讥笑，既仇富，又嫌贫。  
 1. 【[饥饥瑟瑟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ji_seh_seh.md#饥饥瑟瑟)】`ji1 ji1 seh7 seh7` <sup>[如皋]</sup> 困窘态，寒酸样。  
-1. 【[鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#鸡)】`ji1` <sup>[如东]</sup> 雉科动物家鸡。  
 1. 【[鸡巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ba.md#鸡巴)】`ji1 ba` ① 男性阴茎。<sup>\[泰州\]</sup> ② 詈语，表示极度轻蔑，用以发泄内心不满情绪<sup>\[泰州\]</sup>：他迟到不迟到关你～的是啊，要你嘴作淡来说咖？<sup>\[泰州\]</sup>  
 1. 【[鸡巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ba.md#鸡巴)】`ji1 ba1` <sup>[东台]</sup> 又作“𣬠𣬶”“屌子”，男性阴茎的俗称。  
 1. 【[鸡肫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_den_zz.md#鸡肫子)】`ji1 den1 zz` <sup>[如东]</sup> 鸡胃。  
@@ -101,7 +100,7 @@
 1. 【[鸡爪<sub>儿</sub>风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zho_r_fon.md#鸡爪<sub>儿</sub>风)】`ji1 zho r fon1` <sup>[如皋]</sup> 指（趾）肌肉痉挛。  
 1. 【[鸡爪疯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zhua_fon.md#鸡爪疯)】`ji1 zhua3 fon1` <sup>[兴化]</sup> 由于手足痉挛，指头不能伸屈的一种疾病：（这个小伙）手朝起环，筋朝起皱，又疼又痠……活象得了～。（扬一《扬香武一盗九龙杯》）  
 1. 【[鸡肫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zhuen_zz.md#鸡肫子)】`ji1 zhuen1 zz` <sup>[如皋]</sup> 鸡的沙囊，即胃。  
-1. 【[鸡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zz.md#鸡子)】`ji1 zz` <small>/t͡ɕi1 t͡sɿ/<sup>兴化</sup>, /t͡sɿ1 t͡se/<sup>泰县</sup></small> 鸡。<sup>\[泰县\]</sup><sup>\[兴化\]</sup>  
+1. 【[鸡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zz.md#鸡子)】`ji1 zz` <small>/t͡ɕi1 t͡sɿ/<sup>兴化</sup>, /t͡ɕʝ1 t͡sɿ/<sup>泰兴</sup>, /t͡sɿ1 t͡se/<sup>泰县</sup></small> 鸡。<sup>\[泰县\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>  
 1. 【[鸡子不尿尿——各有各的去处](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zz_beh_nio_xy_gah_ieu_gah_dii_qy_chv.md#鸡子不尿尿——各有各的去处)】`ji1 zz beh7 nio6 xy1 gah7 ieu3 gah7 dii qy5 chv5` <sup>[东台]</sup>   
 1. 【[鸡子叫赶路——越走越亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zz_jio_gun_lv_iuh_zeu_iuh_lian.md#鸡子叫赶路——越走越亮)】`ji1 zz jio5 gun3 lv6 iuh8 zeu3 iuh8 lian6` <sup>[东台]</sup>   
 1. 【[鸡子鹐石头——难嘚（得）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zz_kaen_sheh_teu_naen_deh.md#鸡子鹐石头——难嘚（得）)】`ji1 zz kaen1 sheh8 teu naen2 deh7` <sup>[东台]</sup>   
