@@ -316,6 +316,7 @@
 1. 【[药子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_zz.md#药子)】`iah8 zz` <sup>[东台]</sup> 堤东一带对陌生男人的旧称：那个～说话是北方口音。  
 1. 【[钥匙挂在胸口——开心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_chr_gua_cae_xion_keu_kae_xien.md#钥匙挂在胸口——开心)】`iah8 chr gua5 cae6 xion1 keu3 kae1 xien1` <sup>[东台]</sup>   
 1. 【[央](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian.md#央)】`ian1` <sup>[东台]</sup> 请；恳求：农忙季节～几个人家来帮忙。  
+1. 【[央](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian.md#央)】`ian1` <small>/iɑŋ1/<sup>泰兴</sup></small> 请求，恳求。<sup>\[泰兴\]</sup>：～个人来帮忙。<sup>\[泰兴\]</sup>  
 1. 【[秧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian.md#秧)】`ian1` <small>/iɑŋ1/<sup>泰兴</sup>, /iɑŋ1/<sup>泰县</sup></small> 庄稼幼苗，也指部分养殖动物的幼体<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>\[泰州：有时特指用于移栽的水稻苗\]：稻～。<sup>\[如东\]</sup>｜稻～<sup>\[东台\]</sup>｜鱼～。<sup>\[东台\]</sup>｜菜～儿。<sup>\[泰县\]</sup>｜下田莳～。<sup>\[泰州\]</sup>  
 1. 【[秧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian.md#秧)】`ian1` <small>/iaŋ1/<sup>兴化</sup>, /yɑŋ1/<sup>泰兴</sup>, /iɑŋ1/<sup>泰县</sup></small> 种植，栽种<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>：～树；～菜<sup>\[如东\]</sup>｜～芋头<sup>\[如东\]</sup>｜～吖几棵树<sup>\[东台\]</sup>｜他在下～菜。<sup>\[东台\]</sup>｜～瓜；～菜；～树。<sup>\[兴化\]</sup>｜～电线杆子；～柱子。<sup>\[兴化\]</sup>｜他今吖在家～菜。<sup>\[泰县\]</sup>  
 1. 【[秧草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_co.md#秧草)】`ian1 co3` <sup>[如皋]</sup> ① 苜蓿。 ② 稗。 ③ 杂草。  

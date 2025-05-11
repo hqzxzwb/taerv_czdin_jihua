@@ -1341,7 +1341,7 @@
 1. 【[生张](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_zhan.md#生张)】`shen1 zhan1` 麻将术语，相对“熟张”，指尚未有人出过的某一花色的牌<sup>\[泰州\]</sup>：三条是～，你不能打，防止吃冲。<sup>\[泰州\]</sup>  
 1. 【[甥舅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_qieu.md#甥舅)】`shen1 qieu6` <sup>[如皋]</sup> 外甥与舅父间的关系称。  
 1. 【[申](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen.md#申)】`shen1` <sup>[东台]</sup> 地支第九位。  
-1. 【[申报纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_bo_zhr.md#申报纸)】`shen1 bo5 zhr3` <small>/sən1 pɔ5 t͡sɿ3/<sup>兴化</sup>, /səŋ1 pɔ5 t͡sɿ3/<sup>如皋</sup>, /səŋ1 pɔ5 t͡sɿ3/<sup>泰县</sup></small> ① 旧时上海的报纸。<sup>\[如皋\]</sup> ② 旧时泛指报纸<sup>\[兴化\]</sup>：墙上糊的～。<sup>\[兴化\]</sup> ③ 废报纸。<sup>\[泰县\]</sup>  
+1. 【[申报纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_bo_zhr.md#申报纸)】`shen1 bo5 zhr3` <small>/sən1 pɔ5 t͡sɿ3/<sup>兴化</sup>, /səŋ1 pɔ5 t͡sɿ3/<sup>如皋</sup>, /səŋ1 pɔ5 t͡sɿ3/<sup>泰兴</sup>, /səŋ1 pɔ5 t͡sɿ3/<sup>泰县</sup></small> ① 旧时上海的报纸。<sup>\[如皋\]</sup> ② 旧时泛指报纸<sup>\[兴化\]</sup>：墙上糊的～。<sup>\[兴化\]</sup> ③ 废报纸。<sup>\[泰县\]</sup> ④ 报纸。旧时上海办有《申报》，时称申报纸。后乡人习称阅读的报纸。<sup>\[泰兴\]</sup>  
 1. 【[身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen.md#身)】`shen1` <sup>[如皋]</sup> 指女性的人格、节操。  
 1. 【[身大力不亏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_da_lieh_beh_kuei.md#身大力不亏)】`shen1 da6 lieh8 beh7 kuei1` <small>/sən1 ta6 liɪʔ8 pəʔ7 kʰuəi1/<sup>兴化</sup>, /səŋ1 ta1 liəʔ8 pəʔ7 kʰuei1/<sup>如皋</sup></small> ① 身块大，本力不会小。<sup>\[如皋\]</sup> ② 一般来说身体高大的人，力气比较大。<sup>\[东台\]</sup> ③ 形容人身高力大<sup>\[兴化\]</sup>：他姓金，块头倒是很大，～。（汪曾祺《故乡人》）<sup>\[兴化\]</sup>  
 1. 【[身底下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_di_ha.md#身底下)】`shen1 di ha6` <sup>[兴化]</sup> ① 站着的地方：我～原来是一座粮库。 ② 建筑物所处位置：板桥中学～老底子是文庙。  
@@ -3303,7 +3303,10 @@
 1. 【[死猪脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_zhv_lin.md#死猪脸)】`sz3 zhv1 lin3` <sup>[兴化]</sup> （讽）形容人摆架子，成天拉长着脸的样子：他官不大，这副～难看哎。  
 1. 【[死做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_zu.md#死做)】`sz3 zu5` <small>/sɿ3 t͡so5/<sup>兴化</sup></small> ① 指不懂得巧干<sup>\[兴化\]</sup>：他这吖～，一世也不得发。<sup>\[兴化\]</sup> ② 也指苦干。<sup>\[兴化\]</sup>：谚曰：八败命怕个～。<sup>\[兴化\]</sup> ③ 做工作或活动时全力去做<sup>\[泰州\]</sup>：他这个人实在，不问到啊哪块，他都是～。<sup>\[泰州\]</sup>  
 1. 【[水门汀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_men_tien.md#水门汀)】`sz3 men tien1` <sup>[兴化]</sup> ① 水泥。 ② 混凝土：上池斋药店是～的地坪。～词早年由洋泾浜英语转化面来。  
-1. 【[四不咬六](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_beh_ngo_loh.md#四不咬六)】`sz5 beh7 ngo3 loh8` <sup>[如皋]</sup> 下不犯上；下鬥不过上。  
+1. 【[四……八……](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_baeh.md#四……八……)】`sz5 baeh7` <small>/sɿ5 pæʔ7/<sup>泰兴</sup></small> 分別用在两个意义相近的词或词素前面，表示全方位或各个方面。如“四面八方”、“四通八达”、“四碗八盘”等等。<sup>\[泰兴\]</sup>  
+1. 【[四不拗六](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_beh_ngo_loh.md#四不拗六)】`sz5 beh7 ngo3 loh8` <sup>[如皋]</sup> 下不犯上；下鬥不过上。  
+1. 【[四不拗六](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_beh_ngo_loh.md#四不拗六)】`sz5 beh7 ngo3 loh8` <small>/sɿ5 pəʔ7 ŋɔ3 lɔʔ8/<sup>泰兴</sup></small> 少数拗不过多数。<sup>\[泰兴\]</sup>  
+1. 【[四不像](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_beh_qian.md#四不像)】`sz5 beh7 qian6` <small>/sɿ5 pəʔ7 t͡ɕʰiɑŋ1/<sup>泰兴</sup></small> 神话传说中的一种什么都不像的动物，今多以为麋鹿的俗称。因其头似鹿，蹄似牛，颈似骆驼，尾似驴，而总观全体则无一似之，故名。乡人多喻指不伦不类的物品或打扮。<sup>\[泰兴\]</sup>  
 1. 【[四不沾依](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_beh_zhin_i.md#四不沾依)】`sz5 beh7 zhin1 i1` <sup>[兴化]</sup> 指物体周边无可依靠地孤立着：他把热水瓶放吖～的地方，一碰就摔碎啊。  
 1. 【[四边地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_bin_ti.md#四边地)】`sz5 bin1 ti6` <sup>[如东]</sup> 屋边、场边、路边河边的零星地块：～，种蚕豆，不能浪费。  
 1. 【[四舱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_can.md#四舱)】`sz5 can1` <sup>[如东]</sup> 帆船上的第九舱，也叫货舱。  
@@ -3312,16 +3315,23 @@
 1. 【[四大四开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_da_sz_kae.md#四大四开)】`sz5 da6 sz5 kae1` <sup>[兴化]</sup> 聚餐时餐桌未坐满而显得宽松：今朝八个人坐一张圆桌，～的。  
 1. 【[四滴水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_dieh_shuei.md#四滴水)】`sz5 dieh7 shuei3` <sup>[如皋]</sup> 部首的四点儿、灬。  
 1. 【[四方脸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_fan_lin_r.md#四方脸<sub>儿</sub>)】`sz5 fan1 lin3 r` <sup>[如东]</sup> 脸相略呈方形。  
+1. 【[四角方方](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_gah_fan_fan.md#四角方方)】`sz5 gah7 fan1 fan1` <small>/sɿ5 kɑʔ7 fɑŋ1 fɑŋ1/<sup>泰兴</sup></small> 正方形。<sup>\[泰兴\]</sup>  
 1. 【[四角篮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_gah_laen_zz.md#四角篮子)】`sz5 gah7 laen2 zz` <sup>[如东]</sup> 篮子的一种，底部四方形，有四只角，故名。  
 1. 【[四角笿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_gah_lah_r.md#四角笿<sub>儿</sub>)】`sz5 gah7 lah8 r` <sup>[如东]</sup> 篮子的一种，底部有四只角。也叫四角篮子。  
+1. 【[四角笿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_gah_lah_zz.md#四角笿子)】`sz5 gah7 lah8 zz` <small>/sɿ5 kɑʔ7 lɑʔ8 t͡sɿ/<sup>泰兴</sup></small> 竹编小篮，有四角，故名。<sup>\[泰兴\]</sup>  
 1. 【[四角菱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_gah_lien.md#四角菱)】`sz5 gah7 lien2` <sup>[如皋]</sup> 野菱。  
+1. 【[四角崭方](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_gah_zhaen_fan.md#四角崭方)】`sz5 gah7 zhaen3 fan1` <small>/sɿ5 kɑʔ7 t͡ɕiɛ̃3 fɑŋ1/<sup>泰兴</sup></small> 标准的正方形。<sup>\[泰兴\]</sup>  
 1. 【[四高六胖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_go_loh_pan.md#四高六胖)】`sz5 go1 loh8 pan5` <sup>[东台]</sup> 形容人身材高大且健壮。  
 1. 【[四交糏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_go_xih.md#四交糏)】`sz5 go5 xih7` <sup>[如皋]</sup> 第四次磨出的面粉，质量差。  
+1. 【[四关厢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_guaen_xian.md#四关厢)】`sz5 guaen1 xian1` <small>/sɿ5 kuɛ̃1 ɕiɑŋ1/<sup>泰兴</sup></small> 即四合院。正面为上房，东西为厢房，南面为倒厅，四面相对。<sup>\[泰兴\]</sup>  
 1. 【[四下的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ha_dii.md#四下的)】`sz5 ha6 dii` <sup>[如皋]</sup> 见“四里八下的”。  
 1. 【[四合厢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_huh_xian.md#四合厢)】`sz5 huh8 xian1` <sup>[如皋]</sup> 即北京的四合院。旧时如皋小康人家多造此宅。  
 1. 【[四汗八淌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_hun_baeh_tan.md#四汗八淌)】`sz5 hun6 baeh7 tan3` <sup>[如皋]</sup> 比喻流大汗。  
 1. 【[四胡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_hv.md#四胡)】`sz5 hv2` <sup>[如皋]</sup> 四根弦的胡琴。  
+1. 【[四胡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_hv.md#四胡)】`sz5 hv2` <small>/sɿ5 fʋ2/<sup>泰兴</sup></small> 四弦胡琴。两根弦的称二胡。<sup>\[泰兴\]</sup>：拉～<sup>\[泰兴\]</sup>  
+1. 【[四月四，大麦芒好挑刺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_iuh_sz_da.md#四月四，大麦芒好挑刺)】`sz5 iuh sz5 da6 moh man2 ho3 tio1 cz5` <small>/sɿ5 yʊʔ sɿ5 tɑ1 mɔʔ mɑŋ2 xɔ3 tʰiɔ1 t͡sʰɿ5/<sup>泰兴</sup></small> 谓农历四月初，大麦穗芒发硬，麦子已经成熟了。<sup>\[泰兴\]</sup>  
 1. 【[四月不老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_iuh_beh_lo.md#四月不老)】`sz5 iuh8 beh7 lo3` <sup>[兴化]</sup> 一种晚熟的青菜品种。  
+1. 【[四月不老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_iuh_beh_lo.md#四月不老)】`sz5 iuh8 beh7 lo3` <small>/sɿ5 yʊʔ8 pəʔ7 lɔ3/<sup>泰兴</sup></small> 一种品种较好的青菜名。<sup>\[泰兴\]</sup>  
 1. 【[四季莓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ji_mei.md#四季莓)】`sz5 ji5 mei2` <small>/sɿ5 t͡ɕi5 məi2/<sup>兴化</sup></small> ① 菜豆。也叫四季豆、刀豆。<sup>\[兴化\]</sup> ② 刀豆，菜豆。<sup>\[兴化\]</sup>  
 1. 【[四季豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ji_teu.md#四季豆)】`sz5 ji5 teu6` <sup>[如东]</sup> 豆科植物菜豆，又名白饭豆，一年生缠绕草本。茎被短柔毛。三出复叶，卵针形。总状花序腋生。花白色、黄色紫堇色、红色。荚果带形，膨胀，无毛，顶端有钻状长喙。种子矩形，红棕色或白色。人工种植。  
 1. 【[四架](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_jia.md#四架)】`sz5 jia5` <sup>[如东]</sup> 房屋的第四根横梁，称四架。  
@@ -3335,6 +3345,7 @@
 1. 【[四九心里吃西瓜——凉透心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_jieu_xien_lii_qieh_xi_gua_lian_teu_xien.md#四九心里吃西瓜——凉透心)】`sz5 jieu3 xien1 lii qieh7 xi1 gua1 lian2 teu5 xien1` <sup>[东台]</sup>   
 1. 【[四接垛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_jih_tu_zz.md#四接垛子)】`sz5 jih7 tu6 zz` <sup>[兴化]</sup> 四面环水的小土墩。  
 1. 【[四两棉花八把弓——细弹细弹（谈）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_laen_min_hua_baeh_ba_gon_xi_taen_xi_taen.md#四两棉花八把弓——细弹细弹（谈）)】`sz5 laen3 min2 hua1 baeh7 ba3 gon1 xi5 taen2 xi5 taen2` <sup>[东台]</sup>   
+1. 【[四廊四开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_lan_sz_kae.md#四廊四开)】`sz5 lan2 sz5 kae1` <small>/sɿ5 lɑŋ2 sɿ5 kʰɛ1/<sup>泰兴</sup></small> 谓四周无遮挡，很宽敞；没有干扰。<sup>\[泰兴\]</sup>  
 1. 【[四梁八柱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_lian_baeh_chv.md#四梁八柱)】`sz5 lian2 baeh7 chv6` <sup>[东台]</sup> ［喻］支撑局面的精英骨干：厂有今朝，～功不可没。  
 1. 【[四流八淌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_lieu_baeh_tan.md#四流八淌)】`sz5 lieu2 baeh7 tan3` <sup>[如东]</sup> 到处流淌：这场雨～的。  
 1. 【[四里八下的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_lii_baeh_ha_dii.md#四里八下的)】`sz5 lii baeh7 ha6 dii` <sup>[如皋]</sup> ① 到处。 ② 各方面。  
@@ -3347,21 +3358,28 @@
 1. 【[四门汀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_men_tien.md#四门汀)】`sz5 men tien1` <sup>[东台]</sup> 水泥地面的旧称。  
 1. 【[四门店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_men_din.md#四门店)】`sz5 men2 din5` <sup>[如皋]</sup> 棺材店。  
 1. 【[四面不靠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_min_beh_ko.md#四面不靠)】`sz5 min6 beh7 ko5` <sup>[泰州]</sup> ① 周围都挨不到其他物体。 ② 地处偏僻，附近没有集镇：他家乡里老家那块落地是～，要买冰箱、彩电这些大件的东西，要跑十几里路。  
+1. 【[四拇节头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_mu_jih_teu.md#四拇节头)】`sz5 mu jih7 teu` <small>/sɿ5 mɤɯ t͡ɕiʔ7 tʰəɪ/<sup>泰兴</sup></small> 无名指。<sup>\[泰兴\]</sup>  
 1. 【[四拇指<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_mu_zheh_r.md#四拇指<sub>儿</sub>)】`sz5 mu3 zheh7 r` <sup>[如皋]</sup> 无名指。  
 1. 【[四眼人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ngaen_ren.md#四眼人)】`sz5 ngaen3 ren2` <sup>[如皋]</sup> 孕妇。  
 1. 【[四仰八叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_nian_baeh_cha.md#四仰八叉)】`sz5 nian3 baeh7 cha1` <small>/sɿ5 liaŋ3 pæʔ7 t͡sʰa1/<sup>兴化</sup></small> ① 肢体张开躺着<sup>\[兴化\]</sup>：饶三吃完了饭，一咕噜便睡在外屋一张铺上，顿时鼾声如雷，～象死狗似的。（《广陵潮》六九）。“叉”又作“岔”。<sup>\[兴化\]</sup> ② 四肢叉开仰面倒在地上，形容跌倒后的狼狈样子<sup>\[泰州\]</sup>：人捱他一推，跌咖地上，～。<sup>\[泰州\]</sup>  
 1. 【[四仰八叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_nian_baeh_cha.md#四仰八叉)】`sz5 nian3 baeh7 cha5` <sup>[东台]</sup> 指人呈“大”字形仰卧，姿态不雅。  
 1. 【[四仰八岔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_nian_baeh_cha.md#四仰八岔)】`sz5 nian3 baeh7 cha5` <small>/sɿ5 niã3 peʔ7 t͡sʰa5/<sup>如皋</sup>, /sɿ5 niɑŋ3 pæʔ7 t͡sʰa5/<sup>泰县</sup></small> ① 躺着，四肢岔开。<sup>\[如皋\]</sup> ② 睡觉时手脚岔开，姿势难看。<sup>\[如东\]</sup>：～的躺吖床上。<sup>\[如东\]</sup> ③ 难着的睡态。<sup>\[泰县\]</sup>  
+1. 【[四七](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_qieh.md#四七)】`sz5 qieh7` <small>/sɿ5 t͡ɕʰiəʔ7/<sup>泰兴</sup></small> 旧俗，人死后每隔七天为忌日，祭奠一次。第四个忌日称“四七”。<sup>\[泰兴\]</sup>  
 1. 【[四人轴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ren_choh.md#四人轴)】`sz5 ren2 choh8` <sup>[如皋]</sup> 人踏水车的一个部件。此为中号踏车轴，供四人踏动，常与18杖的槽筒匹配，提水距离较长。  
 1. 【[四人亮轿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ren_lian_qio.md#四人亮轿)】`sz5 ren2 lian6 qio6` <sup>[如东]</sup> 由四个人抬的四面都有玻璃的大轿，称四人亮轿。比喻非常气派：我用～把你抬回来。  
 1. 【[四声杜鹃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_shen_tv_jiun.md#四声杜鹃)】`sz5 shen1 tv6 jiun1` <sup>[如东]</sup> 杜鹃科动物小杜鹃，体长约28厘米。嘴暗黑色，基部黄色，细长而弯曲。眼脸黄色。颊部灰色。背部青灰色；翼长，外侧飞羽内有白色横纹。尾羽灰黑色。尾羽中央沿羽轴有白色横斑，外侧有白色横纹。腹部白色，杂有细小黑色斑纹。脚细小，黄色，对趾型。常栖于林中，初夏间常昼夜鸣叫。好食毛虫，对农业有益。不自营巢，常产卵于莺巢内孵化。  
-1. 【[四时八节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_shr_baeh_jih.md#四时八节)】`sz5 shr2 baeh7 jih7` <small>/sɿ5 sɿ2 peʔ7 t͡ɕiʔ7/<sup>如皋</sup></small> ① 四时，四季。八节，两分两至四立。<sup>\[如皋\]</sup> ② 略称主要传统节日。现在稍重视的大节如春节、元宵节、清明节、端午节、七月半、中秋节、重阳节、冬至节。<sup>\[如皋\]</sup> ③ 泛指一年四季的各个节刻，有时也特指按民俗有纪念，庆祝和祭祀活动的节日。<sup>\[东台\]</sup> ④ 春、夏、秋、冬四季中的立春、春分、立夏、夏至、立秋、秋分、立冬、冬至八个节日。<sup>\[泰州\]</sup> ⑤ 泛指一年四季中的各个节日<sup>\[泰州\]</sup>：年年～，他都要到丈人家送节礼。<sup>\[泰州\]</sup>  
+1. 【[四时八节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_shr_baeh_jih.md#四时八节)】`sz5 shr2 baeh7 jih7` <small>/sɿ5 sɿ2 peʔ7 t͡ɕiʔ7/<sup>如皋</sup>, /sɿ5 sɿ2 pæʔ7 t͡ɕiʔ7/<sup>泰兴</sup></small> ① 四时，四季。八节，两分两至四立。<sup>\[如皋\]</sup> ② 略称主要传统节日。现在稍重视的大节如春节、元宵节、清明节、端午节、七月半、中秋节、重阳节、冬至节。<sup>\[如皋\]</sup> ③ 泛指一年四季的各个节刻，有时也特指按民俗有纪念，庆祝和祭祀活动的节日。<sup>\[东台\]</sup> ④ 春、夏、秋、冬四季中的立春、春分、立夏、夏至、立秋、秋分、立冬、冬至八个节日。<sup>\[泰州\]</sup> ⑤ 泛指一年四季中的各个节日<sup>\[泰州\]</sup>：年年～，他都要到丈人家送节礼。<sup>\[泰州\]</sup> ⑥ 四时指春夏秋冬，八节指立春、春分、立夏、夏至、立秋、秋分、立冬、冬至。乡人则谓一年中的各个节气。<sup>\[泰兴\]</sup>  
+1. 【[四荡八野](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_tan_baeh_ia.md#四荡八野)】`sz5 tan6 baeh7 ia3` <small>/sɿ5 tʰɑŋ1 pæʔ7 iɑ3/<sup>泰兴</sup></small> 广阔的原野，人烟稀少或无人居住的地方。<sup>\[泰兴\]</sup>  
 1. 【[四条筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_tio_jien.md#四条筋)】`sz5 tio2 jien1` <sup>[泰县]</sup> 草鞋的别名。  
 1. 【[四团团](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_tun_tun.md#四团团)】`sz5 tun2 tun2` <sup>[泰州]</sup> 四周：～都找过啊，都没得。｜他家家的～都是田，空气肯定好。  
-1. 【[四团转<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_tun_zhun_r.md#四团转<sub>儿</sub>)】`sz5 tun2 zhun5 r` <small>/sɿ5 tʰʊ̃2 t͡sʊ˞5/<sup>如皋</sup></small> ① 四周，附近。<sup>\[如皋\]</sup> ② 周围，四周。<sup>\[如皋\]</sup>  
+1. 【[四团转<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_tun_zhun_r.md#四团转<sub>儿</sub>)】`sz5 tun2 zhun5 r` <small>/sɿ5 tʰʊ̃2 t͡sʊ˞5/<sup>如皋</sup></small> 周围，四周，附近。<sup>\[如皋\]</sup>  
 1. 【[四碗四盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_un_sz_pun.md#四碗四盘)】`sz5 un3 sz5 pun2` <sup>[兴化]</sup> 菜肴的规格：四个冷盘，四碗烧菜，另有一道汤。多用于便酌。  
 1. 【[四乡八镇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_xian_baeh_zhen.md#四乡八镇)】`sz5 xian1 baeh7 zhen5` <sup>[如皋]</sup> 指县城以外的广大范围。在如皋，指如皋县城的内四镇迎春、锦绣、丰乐、大寺，外四镇坝桥、宏济、陆桥、普济，郊四乡。  
+1. 【[四仙台子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_xin_tae_zz.md#四仙台子)】`sz5 xin1 tae2 zz` <small>/sɿ5 ɕĩ1 tʰɛ2 t͡sɿ/<sup>泰兴</sup></small> 四仙桌子<sup>\[泰兴\]</sup>  
 1. 【[四仙桌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_xin_zhuah.md#四仙桌)】`sz5 xin1 zhuah7` <small>/sɿ5 ɕĩ1 t͡suaʔ7/<sup>如皋</sup></small> ① 房内打牌用的精制小方桌，四人座。<sup>\[如皋\]</sup> ② 一种木制方桌，每边可以坐一个人，共坐四人。<sup>\[泰州\]</sup>  
+1. 【[四仙桌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_xin_zhuah_zz.md#四仙桌子)】`sz5 xin1 zhuah7 zz` <small>/sɿ5 ɕĩ1 t͡suɑʔ7 t͡sɿ/<sup>泰兴</sup></small> 也称“四仙台子”。小的方桌，每边只坐一人。<sup>\[泰兴\]</sup>  
+1. 【[四只脚白，家家熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_zheh_jiah_poh.md#四只脚白，家家熟)】`sz5 zheh jiah7 poh8 ga1 ga1 shoh8` <small>/sɿ5 t͡səʔ t͡ɕiɑʔ7 pʰɔʔ8 kɑ1 kɑ1 sɔʔ8/<sup>泰兴</sup></small> 本谓猫狗对邻家等很熟悉，借用于人对各处很熟悉了解，含有戏谑意。<sup>\[泰兴\]</sup>  
+1. 【[四转转<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_zhun_zhun_r.md#四转转<sub>儿</sub>)】`sz5 zhun5 zhun5 r` <small>/sɿ5 t͡sʊ̃5 t͡sʊ˞5/<sup>泰兴</sup></small> 四周围，周边，到处。<sup>\[泰兴\]</sup>：一到年底，街上～，块块是打年货的。<sup>\[泰兴\]</sup>  
 1. 【[肆误](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_v.md#肆误)】`sz5 v` <small>/sɿ5 ʋu/<sup>如皋</sup></small> ① 因判断错误或操作不当造成坏的结果。与耽误、贻误近义。东台词典写“失误”<sup>\[东台\]</sup>：他的病太重，不能怪医生～。<sup>\[东台\]</sup> ② 意外差错或事故。如皋词典作“失误”<sup>\[如皋\]</sup>：出～。<sup>\[如皋\]</sup> ③ 延误<sup>\[如皋\]</sup>：病捱～下来啊。<sup>\[如皋\]</sup> ④ 由于没有抓紧办理而导致事情未能做好或者未能完成<sup>\[泰州\]</sup>：还以为他这件事早就弄吖好啊的，哪晓得捱他～下来啊，你说哿教人着躁。<sup>\[泰州\]</sup>  
 1. 【[似](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz.md#似)】`sz6` <sup>[泰州]</sup> 介词，用于形容词之后，表示比较：一声高～一声｜肚子一天大～一天｜他的成绩远远好～你。｜他的个子高～你。  
 1. 【[自在](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_cae.md#自在)】`sz6 cae6` <sup>[东台]</sup> 自由；快活：你坐啊河边钓钓鱼，看看书，多～啊！  

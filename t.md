@@ -1321,9 +1321,10 @@
 1. 【[田客子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_keh_zz.md#田客子)】`tin2 keh7 zz` <sup>[泰县]</sup> 佃户。  
 1. 【[田老鼠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_lo_chv.md#田老鼠)】`tin2 lo3 chv3` <sup>[如东]</sup> 鼠的一类，有多种。生活在树林、草地、田野里。主要吃草本植物的茎、叶、种子等，对农作物有害。  
 1. 【[田垅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_lon.md#田垅)】`tin2 lon2` <sup>[如东]</sup> 农田中间的土埂。  
-1. 【[田螺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_lu.md#田螺)】`tin2 lu1` ① 田螺科动物田螺。<sup>\[如东\]</sup> ② 软体动物，壳圆锥形，苍黑色，触角长，生长在淡水中。<sup>\[东台\]</sup> ③ 一种形似螺蛳的软体动物，体型较大，壳苍黑色，呈圆锥形，生有较长触角，雌雄异体，胎生，以其常见于稻田中，故名。<sup>\[泰州\]</sup>  
+1. 【[田螺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_lu.md#田螺)】`tin2 lu1` <small>/tʰĩ2 lɤɯ1/<sup>泰兴</sup></small> ① 田螺科动物田螺。<sup>\[如东\]</sup> ② 软体动物，壳圆锥形，苍黑色，触角长，生长在淡水中。<sup>\[东台\]</sup> ③ 一种形似螺蛳的软体动物，体型较大，壳苍黑色，呈圆锥形，生有较长触角，雌雄异体，胎生，以其常见于稻田中，故名。<sup>\[泰州\]</sup> ④ 生长水田中或岸侧、水边的体形较大的软体动物，壳与普通小螺螺相似，肉可食。<sup>\[泰兴\]</sup>  
 1. 【[田螺壳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_lu_kah.md#田螺壳)】`tin2 lu1 kah7` <sup>[如东]</sup> 田螺科动物田螺外壳。  
 1. 【[田横头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_on_teu.md#田横头)】`tin2 on2 teu2` <sup>[如皋]</sup> 田块畈子的两端，牛耕时的调向处，最后横耕成畈。  
+1. 【[田横头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_on_teu.md#田横头)】`tin2 on2 teu2` <small>/tʰĩ2 ɔŋ2 tʰəɪ2/<sup>泰兴</sup></small> 田头。田地两头横着的土垅。<sup>\[泰兴\]</sup>：他佼两个人坐啊在～上谈家常。<sup>\[泰兴\]</sup>  
 1. 【[田契](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_qi.md#田契)】`tin2 qi5` <sup>[如东]</sup> 证明土地隶属关系的文书：写～。  
 1. 【[田青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_qien.md#田青)】`tin2 qien1` <sup>[如皋]</sup> 菘蓝。  
 1. 【[田上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_shan.md#田上)】`tin2 shan` <sup>[如皋]</sup> 代管坟地的农家或人。  

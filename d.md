@@ -1921,11 +1921,13 @@
 1. 【[电灯泡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_den_po_r.md#电灯泡<sub>儿</sub>)】`din5 den1 po1 r` <sup>[如皋]</sup> ① 趣指头、秃头，或指人。 ② 晃眼的障碍：你俫谈吖正热乎，我不做～，跑啦！  
 1. 【[电工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_gon.md#电工)】`din5 gon1` <sup>[如东]</sup> 工种的一种。以安装维修电器为职业的工人。  
 1. 【[电火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_hu.md#电火)】`din5 hu3` <sup>[泰县]</sup> 点灯用的电：家里还没得～唻。｜～要节省点儿。  
+1. 【[电火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_hu.md#电火)】`din5 hu3` <small>/tĩ5 xɤɯ3/<sup>泰兴</sup></small> 手电筒。<sup>\[泰兴\]</sup>  
 1. 【[电话线断吖——不通](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_hua_xin_tun_nga_beh_ton.md#电话线断吖——不通)】`din5 hua6 xin5 tun6 nga beh7 ton1` <sup>[东台]</sup>   
 1. 【[电焊工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_hun_gon.md#电焊工)】`din5 hun6 gon1` <sup>[如东]</sup> 工种的一种。以电焊为职业的工人。  
 1. 【[电动车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_ton_cha.md#电动车)】`din5 ton6 cha1` <sup>[如东]</sup> 以电瓶储存的直流电为主要动力的轻便车。也称电瓶车。  
 1. 【[电网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_van.md#电网)】`din5 van3` <sup>[如东]</sup> ① 电力部门建立的供电网络。 ② 一种捕鱼网具。袋形。网口有一金属丝，通电后，用电触击鱼虾，捕取。  
-1. 【[电线杆绑鸡毛——好大的胆（掸）子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_xin_gun_ban_ji_mo_ho_da_dii_daen_zz.md#电线杆绑鸡毛——好大的胆（掸）子)】`din5 xin5 gun ban3 ji1 mo2 ho3 da6 dii daen3 zz` <sup>[东台]</sup>   
+1. 【[电线杆绑鸡毛——好大的胆（掸）子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_xin_gun_ban.md#电线杆绑鸡毛——好大的胆（掸）子)】`din5 xin5 gun ban3 ji1 mo2 ho3 da6 dii daen3 zz` <sup>[东台]</sup>   
+1. 【[电线杆子剔牙子，大来大去的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_xin_gun_zz.md#电线杆子剔牙子，大来大去的)】`din5 xin5 gun3 zz tieh7 nga2 zz da6 lae2 da6 qy5 dii` <small>/tĩ5 ɕĩ5 kʊ̃3 t͡sɿ tʰiʔ7 ŋɑ2 t͡sɿ tɑ1 lɛ2 tɑ1 t͡ɕʰy5 təɪ/<sup>泰兴</sup></small> 歇后语。表示出手大方。<sup>\[泰兴\]</sup>  
 1. 【[踮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din.md#踮)】`din5` <small>/tiɪ̃5/<sup>兴化</sup></small> ① 脚尖着地，脚跟抬起。<sup>\[东台\]</sup> ② 提起脚跟<sup>\[兴化\]</sup>：～起脚来香嘴。<sup>\[兴化\]</sup> ③ 足用力点地<sup>\[兴化\]</sup>：他将上身一闪……脚一～，早已上屋去了。（《八窍珠》二二）<sup>\[兴化\]</sup> ④ 提起脚跟，脚尖着地立着<sup>\[泰州\]</sup>：你把脚～起来站吖他旁边，才同他一样高。<sup>\[泰州\]</sup> ⑤ 腿部受伤或者跛足人脚尖点地走路<sup>\[泰州\]</sup>：他脚上有个刺，走起路来就像个瘸子，一～一～的。<sup>\[泰州\]</sup>  
 1. 【[踮脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_jiah.md#踮脚)】`din5 jiah7` <small>/tiɪ̃5 t͡ɕiaʔ7/<sup>兴化</sup></small> ① 脚跟离地，用脚尖儿站着。<sup>\[如东\]</sup> ② 跛足人走路时足尖点地的样子<sup>\[兴化\]</sup>：一个老母亲，是个～，走起路来一踮一踮的。（江曾祺《三姐妹出嫁》）‖“踮”也作“掂”<sup>\[兴化\]</sup>｜《水浒后传》第二十二回有“道人掂手掂脚”句。<sup>\[兴化\]</sup>  
 1. 【[踮脚奅<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_jiah_po_r.md#踮脚奅<sub>儿</sub>)】`din5 jiah7 po1 r` <sup>[如东]</sup> ① 比喻办事脱离实际：不能做～。 ② 办事脱离实际的人。  
