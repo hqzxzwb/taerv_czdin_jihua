@@ -2258,6 +2258,7 @@
 1. 【[东乡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_xian.md#东乡)】`don1 xian1` <sup>[兴化]</sup> 市境东部的乡镇：～地势高，种棉花、旱谷的比较多。  
 1. 【[东乡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_xian.md#东乡)】`don1 xian1` <small>/tɔŋ1 ɕiɑŋ1/<sup>泰兴</sup></small> 乡人对泰兴东部原旱谷地区（以黄桥为中心）的习称，相对于以泰兴为中心的沿江西部地区。<sup>\[泰兴\]</sup>  
 1. 【[东乡人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_xian_ren.md#东乡人)】`don1 xian1 ren2` <small>/tɔŋ1 ɕiɑŋ1 ɻəŋ2/<sup>泰兴</sup></small> 乡人对县域东部地区人的习称。<sup>\[泰兴\]</sup>  
+1. 【[冬不离十一月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_beh_lii_sheh.md#冬不离十一月)】`don1 beh7 lii2 sheh8 ieh7 iuh` <small>/tɔŋ1 pəʔ7 ləɪ2 səʔ8 iʔ7 yʊʔ/<sup>泰兴</sup></small> 谓冬至节气在农历十一月之内。<sup>\[泰兴\]</sup>  
 1. 【[冬菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_cae.md#冬菜)】`don1 cae5` <small>/tɔŋ1 t͡sʰɛ5/<sup>如皋</sup></small> ① 冬天上市的蔬菜。<sup>\[如皋\]</sup> ② 州中一种小菜名称，将经过冬天生长，冬春交汇之季长出嫩薹的青菜切碎，加盐揉透，用手挤去卤汁，捺入小坛之内，密封，夏季食用，味极鲜美。以菜长于冬天，故名。<sup>\[泰州\]</sup>  
 1. 【[冬粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_fen.md#冬粉)】`don1 fen3` <small>/tɔŋ1 fəŋ3/<sup>如皋</sup></small> ① 豆制品。绿豆、蚕豆或豌豆浸泡磨碎，做成粉坨子，再放人容器里挤压，变成条状，入开水烫熟，晒干即成。白色，无味。以龙须粉为佳品。可以爆炒，亦可与其他菜类调配。也叫粉丝、粉条、线粉、索粉。<sup>\[如东\]</sup> ② 干的粉丝。冬季索出，晒干。<sup>\[如皋\]</sup>  
 1. 【[冬瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_gua.md#冬瓜)】`don1 gua1` <sup>[如东]</sup> 葫芦科植物冬瓜，一年生草本。  
@@ -2276,6 +2277,7 @@
 1. 【[冬校](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_xio.md#冬校)】`don1 xio6` <sup>[如东]</sup> 在20世纪50年代至60年代，农村里每到冬闲季节，政府都要把农民组织起来学习文化，扫除文盲。这种学校称冬校。  
 1. 【[冬雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_xiuh.md#冬雪)】`don1 xiuh7` <small>/tɔŋ1 ɕyʊʔ7/<sup>如皋</sup></small> ① 冬季下雪，称冬雪。视为瑞雪。<sup>\[如东\]</sup>：今年下～，明年收成好。<sup>\[如东\]</sup> ② 一说“立春”以前下的雪；一说“尽九”以前下的雪。<sup>\[如皋\]</sup>  
 1. 【[冬至](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_zhr.md#冬至)】`don1 zhr5` 二十四节气之一，通常在12月21、22或23日。也称“过冬”“大冬”。这一天北半球白天最短，夜间最长。从这一天起进入数九寒冬。  
+1. 【[冬至一阳生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_zhr_ieh_ian.md#冬至一阳生)】`don1 zhr5 ieh7 ian2 shen1` <small>/tɔŋ1 t͡sɿ5 iʔ7 iɑŋ2 səŋ1/<sup>泰兴</sup></small> 谓冬至之后白天渐长。乡谚“过啊冬，一天长一钟。过啊年，一天长一弦”。<sup>\[泰兴\]</sup>  
 1. 【[懂行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_han.md#懂行)】`don3 han2` <sup>[如皋]</sup> 懂得行里的规矩，精通行里的业务。  
 1. 【[懂礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_li.md#懂礼)】`don3 li3` <sup>[如皋]</sup> 讲礼貌，懂礼节。  
 1. 【[懂礼道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_li_to.md#懂礼道)】`don3 li3 to` <sup>[如皋]</sup> 讲礼貌，懂礼节。  

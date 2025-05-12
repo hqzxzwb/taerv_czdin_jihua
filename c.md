@@ -679,7 +679,7 @@
 1. 【[丈母娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_mu_nian.md#丈母娘)】`chan6 mu nian2` <sup>[泰州]</sup> 岳母。  
 1. 【[丈母娘看女婿——越看越欢喜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_mu_nian_kun_ny_xy_iuh_kun_iuh_hun_xi.md#丈母娘看女婿——越看越欢喜)】`chan6 mu3 nian2 kun5 ny3 xy5 iuh8 kun5 iuh8 hun1 xi3` <sup>[东台]</sup>   
 1. 【[丈人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_ren.md#丈人)】`chan6 ren` <small>/t͡sʰɑŋ1 ɻəŋ/<sup>泰兴</sup></small> 妻子的父亲；岳父。<sup>\[如东\]</sup><sup>\[泰兴\]</sup><sup>\[泰州\]</sup>\[东台：也称丈人佬儿\]  
-1. 【[仗义](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_i.md#仗义)】`chan6 i6` ① 依靠或讲究义气。<sup>\[如东\]</sup> ② 讲义气\[东台：(zhan5 i5)\]：你这个人～，朋友有难都肯帮一把。<sup>\[东台\]</sup>  
+1. 【[仗义](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_i.md#仗义)】`chan6 i6` <small>/t͡sʰɑŋ1 ʝ1/<sup>泰兴</sup></small> ① 依靠或讲究义气。<sup>\[如东\]</sup> ② 讲义气<sup>\[东台\]</sup><sup>\[泰兴\]</sup>：你这个人～，朋友有难都肯帮一把。<sup>\[东台\]</sup>｜他这个人～<sup>\[泰兴\]</sup>  
 1. 【[仗势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_shr.md#仗势)】`chan6 shr5` <sup>[如东]</sup> 依靠别人的势力：～欺人。  
 1. 【[㿭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh.md#㿭)】`cheh7` <sup>[兴化]</sup> 皮肤干裂：脚上裂～子  
 1. 【[㿭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_zz.md#㿭子)】`cheh7 zz` <small>/t͡sʰəʔ7 t͡sɿ/<sup>如皋</sup></small> ① 皮肤皴裂开口<sup>\[如皋\]</sup>：一到寒天，脚后跟上就裂，疼得不能跑。<sup>\[如皋\]</sup> ② 皮肤上裂缝<sup>\[东台\]</sup>：冬天在建筑工地上打工，手上裂咖多少～。<sup>\[东台\]</sup>  

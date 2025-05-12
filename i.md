@@ -1340,12 +1340,15 @@
 1. 【[印（癊）疮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_chuan.md#印（癊）疮)】`ien5 chuan1` <sup>[如皋]</sup> 久压引起的皮肤坏死。  
 1. 【[印疮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_chuan.md#印疮)】`ien5 chuan1` <sup>[如东]</sup> 褥疮。  
 1. 【[印花布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_hua_bv.md#印花布)】`ien5 hua1 bv5` <sup>[如东]</sup> 旧时染坊用镂花纸板为模，在布料上涂浆，然后下缸染色，再洗掉浆层，即现花纹。  
+1. 【[印画](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_hua.md#印画)】`ien5 hua6` <small>/iŋ5 xuɑ1/<sup>泰兴</sup></small> 儿童玩具之一。将印有彩色的小图案印贴到另一张纸上。<sup>\[泰兴\]</sup>  
 1. 【[印蓝纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_laen_zhr.md#印蓝纸)】`ien5 laen2 zhr3` <sup>[兴化]</sup> 复写纸。  
 1. 【[印染工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_rin_gon.md#印染工)】`ien5 rin3 gon1` <sup>[如东]</sup> 工种的一种。以印染为职业的工人。  
 1. 【[印色油子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_seh_ieu_zz.md#印色油子)】`ien5 seh ieu2 zz` <sup>[兴化]</sup> 印泥。  
+1. 【[印色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_seh.md#印色)】`ien5 seh7` <small>/iŋ5 səʔ7/<sup>泰兴</sup></small> 印泥<sup>\[泰兴\]</sup>：把～盒子拿得来，我要盖脶印。<sup>\[泰兴\]</sup>  
 1. 【[印堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_tan.md#印堂)】`ien5 tan2` <sup>[东台]</sup> 指额部两眉之间：我看他～发黑，必有重病。  
 1. 【[印子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_zz.md#印子)】`ien5 zz` <small>/iəŋ5 t͡sɿ/<sup>如皋</sup></small> ① 印痕，痕迹。<sup>\[如皋\]</sup> ② 痕迹。<sup>\[如东\]</sup>：脚在地上足闹啊个～。<sup>\[如东\]</sup>  
 1. 【[印子钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_zz_qin.md#印子钱)】`ien5 zz qin2` <sup>[东台]</sup> 高利贷的一种。约定期限，由债务人分期偿还，每还一期，在折子上盖印为记。  
+1. 【[印子钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_zz_qin.md#印子钱)】`ien5 zz qin2` <small>/iŋ5 t͡sɿ t͡ɕʰĩ2/<sup>泰兴</sup></small> 旧时的一种高利贷。放债人以高利放出贷款，限借债人分期偿还，每次还款，都在预立的折子上加盖一印为记，故名。<sup>\[泰兴\]</sup>  
 1. 【[应酬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_cheu.md#应酬)】`ien5 cheu` <sup>[如东]</sup> 交际往来：经常要去～。  
 1. 【[应酬故事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_cheu_gv_shr.md#应酬故事)】`ien5 cheu gv5 shr` <sup>[如皋]</sup> 敷衍。  
 1. 【[应此](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_cz.md#应此)】`ien5 cz3` <sup>[如皋]</sup> 见“应点”。  
