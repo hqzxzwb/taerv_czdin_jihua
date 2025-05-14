@@ -995,24 +995,30 @@
 1. 【[绱鞋子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_hae_zz.md#绱鞋子)】`shan6 hae2 zz` <small>/sã1 xɛ2 t͡sɿ/<sup>如皋</sup>, /sɑŋ1 xɛ2 t͡sɿ/<sup>泰兴</sup></small> 将鞋、鞋底缝合制成鞋子<sup>\[东台\]</sup>\[如皋：并用楦子楦好\]\[泰兴：旧为民间一种谋生手艺\]  
 1. 【[绱袜底<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_vaeh_di_r.md#绱袜底<sub>儿</sub>)】`shan6 vaeh8 di3 r` <sup>[如皋]</sup> 旧时给针织袜、布袜加缝布底。  
 1. 【[失比](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_bi.md#失比)】`sheh7 bi3` <sup>[如皋]</sup> 假定、假如：他～不在家，你就先到同学家去。  
-1. 【[失贼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_ceh.md#失贼)】`sheh7 ceh8` <small>/səʔ7 t͡sʰəʔ8/<sup>兴化</sup>, /səʔ7 t͡sʰəʔ8/<sup>如皋</sup></small> 被窃。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：王小明家昨儿夜里～。<sup>\[如东\]</sup>｜“……但这～的事，该地方官管……”（《儒林外史》四三）<sup>\[兴化\]</sup>｜家里～。<sup>\[泰州\]</sup>  
+1. 【[失贼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_ceh.md#失贼)】`sheh7 ceh8` <small>/səʔ7 t͡sʰəʔ8/<sup>兴化</sup>, /səʔ7 t͡sʰəʔ8/<sup>如皋</sup>, /səʔ7 t͡sʰəʔ8/<sup>泰兴</sup></small> 被窃。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：王小明家昨儿夜里～。<sup>\[如东\]</sup>｜“……但这～的事，该地方官管……”（《儒林外史》四三）<sup>\[兴化\]</sup>｜家里～。<sup>\[泰州\]</sup>  
 1. 【[失刀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_do_r.md#失刀<sub>儿</sub>)】`sheh7 do1 r` <sup>[如东]</sup> 差一点儿：～忘掉啊。  
 1. 【[失火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_hu.md#失火)】`sheh7 hu3` <small>/səʔ7 xʊ3/<sup>如皋</sup></small> ① 发生火灾。<sup>\[如东\]</sup> ② 失察而发生火灾。<sup>\[如皋\]</sup> ③ 发生火灾。<sup>\[泰州\]</sup>  
 1. 【[失火捱板子——叹晦气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_hu_ngae_baen_zz_taen_huei_qi.md#失火捱板子——叹晦气)】`sheh7 hu3 ngae2 baen3 zz taen5 huei5 qi5` <sup>[东台]</sup>   
 1. 【[失魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_huen.md#失魂)】`sheh7 huen2` <sup>[东台]</sup> 失去理智的人。也用于找某人找不到时骂“失咖魂”。  
 1. 【[失脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_jiah.md#失脚)】`sheh7 jiah7` <sup>[如皋]</sup> 失足。犯了错误或犯了罪。  
 1. 【[失惊打怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_jien_da_guae.md#失惊打怪)】`sheh7 jien1 da3 guae5` <sup>[兴化]</sup> ① 惊疑、慌乱：“你家莫不有甚事，这般～？”（《水浒传》六九） ② 反应过度：而今这些事交关平常，你不必～的。｜他晓得行者会～的，推睡不应。（《西游记》三八）  
+1. 【[失落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_lah.md#失落)】`sheh7 lah` <small>/səʔ7 lɑʔ/<sup>泰兴</sup></small> 失去，丢失。<sup>\[泰兴\]</sup>：箇杲子非常重要，千万不可～。<sup>\[泰兴\]</sup>  
+1. 【[失三冒四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_saen_mo_sz.md#失三冒四)】`sheh7 saen1 mo6 sz5` <small>/səʔ7 ɕiɛ̃1 mɔ1 sɿ5/<sup>泰兴</sup></small> 乡人谓尚未睡醒，思维处于朦胧状态。<sup>\[泰兴\]</sup>  
 1. 【[失失慌慌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_sheh_huan_huan.md#失失慌慌)】`sheh7 sheh7 huan1 huan1` <sup>[兴化]</sup> 神情慌乱的样子：大癞子～的往家跑，不晓得又在外头做啊甚的坏事？  
+1. 【[失失慌慌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_sheh_huan_huan.md#失失慌慌)】`sheh7 sheh7 huan1 huan1` <small>/səʔ7 səʔ7 xuɑŋ1 xuɑŋ1/<sup>泰兴</sup></small> 犹慌慌张张。<sup>\[泰兴\]</sup>：我望他～的样子，怕的不是好人。<sup>\[泰兴\]</sup>  
+1. 【[失手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_sheu.md#失手)】`sheh7 sheu3` <small>/səʔ7 ɕiɤɯ3/<sup>泰兴</sup></small> 因不慎从手中掉下，或无意中造成不好的后果。<sup>\[泰兴\]</sup>  
 1. 【[失时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_shr.md#失时)】`sheh7 shr2` <small>/səʔ7 sɿ2/<sup>兴化</sup>, /səʔ7 sɿ2/<sup>如皋</sup></small> ① 时运不好。<sup>\[如皋\]</sup> ② 失意，处于困难中。<sup>\[如皋\]</sup> ③ 倒运<sup>\[兴化\]</sup>：他～在家，成天唉声叹气。<sup>\[兴化\]</sup>｜“子牙，你说的是～话。现成官你没福做，到去空拳只手去别处寻……”（《封神演义》十八）<sup>\[兴化\]</sup>｜谚曰：有时猫儿雄似虎，～凤凰不如鸡。<sup>\[兴化\]</sup>  
 1. 【[失势落魄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_shr_lah_pah.md#失势落魄)】`sheh7 shr5 lah8 pah7` <sup>[东台]</sup> 衣履不整、失魂落魄的样子，也形容庄稼长势差：他不会种田，把个棉花弄得～的。  
 1. 【[失算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_sun.md#失算)】`sheh7 sun5` <sup>[如东]</sup> 没有计算或计算得不好：这趟生意我～吖，亏啊本。  
-1. 【[失头忘尾的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_teu_van_vei_dii.md#失头忘尾的)】`sheh7 teu2 van6 vei3 dii` <sup>[如皋]</sup> 健忘：年纪大啊经常～，不是忘这样，就是忘那样。  
-1. 【[失天火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_tin_hu.md#失天火)】`sheh7 tin1 hu3` <small>/səʔ7 tʰiɪ̃1 xo3/<sup>兴化</sup>, /səʔ7 tʰĩ1 xʊ3/<sup>如皋</sup></small> ① 遭雷击而起火，称失天火。<sup>\[如东\]</sup> ② 自然火引发的火灾。<sup>\[如皋\]</sup> ③ 诅咒语。<sup>\[如皋\]</sup> ④ 自然起火，市井认为是上天降灾<sup>\[兴化\]</sup>：“土地老爷在上，我若做了此事，就叫我家死人～！他诬赖我，也一样！”（汪曾祺《故里杂记》）<sup>\[兴化\]</sup>  
+1. 【[失头忘尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_teu_van_vei.md#失头忘尾)】`sheh7 teu2-1 van6 vei3` <small>/səʔ7 tʰəɪ2 uɑŋ1 ʋəɪ3/<sup>泰兴</sup></small> 记忆力差，容易忘记。<sup>\[泰兴\]</sup>：年纪又不大，办事总是～的。<sup>\[泰兴\]</sup>  
+1. 【[失头忘尾的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_teu_van_vei.md#失头忘尾的)】`sheh7 teu2 van6 vei3 dii` <sup>[如皋]</sup> 健忘：年纪大啊经常～，不是忘这样，就是忘那样。  
+1. 【[失天火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_tin_hu.md#失天火)】`sheh7 tin1 hu3` <small>/səʔ7 tʰiɪ̃1 xo3/<sup>兴化</sup>, /səʔ7 tʰĩ1 xʊ3/<sup>如皋</sup>, /səʔ7 tʰĩ1 xɤɯ3/<sup>泰兴</sup></small> ① 遭雷击而起火，称失天火。<sup>\[如东\]</sup> ② 自然火引发的火灾。<sup>\[如皋\]</sup> ③ 诅咒语。<sup>\[如皋\]</sup> ④ 自然起火，市井认为是上天降灾<sup>\[兴化\]</sup>：“土地老爷在上，我若做了此事，就叫我家死人～！他诬赖我，也一样！”（汪曾祺《故里杂记》）<sup>\[兴化\]</sup> ⑤ 因雷电或其它原因自然造成的火灾，迷信认为是苍天所致，故称失天火。<sup>\[泰兴\]</sup>  
 1. 【[失物数来人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_veh_shv_lae_ren.md#失物数来人)】`sheh7 veh8 shv3 lae2 ren2` <sup>[兴化]</sup> 丢失钱物，当与到过现场的人有关：谚曰：船舱不漏针，～。  
 1. 【[失心疯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_xien_fon.md#失心疯)】`sheh7 xien1 fon1` <sup>[兴化]</sup> 癫狂神经错乱：他一听说买的股票崩盘，急得手足无措，好像～一般。｜《水浒传》第三十九回有“你便口里胡言乱语，只做～便好”句。  
 1. 【[失晓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_xio.md#失晓)】`sheh7 xio3` <small>/səʔ7 ɕiɔ3/<sup>兴化</sup>, /səʔ7 ɕiɔ3/<sup>如皋</sup></small> ① 睡过了头。<sup>\[如东\]</sup>：我睡吖失咖晓。<sup>\[如东\]</sup> ② 晨起过时，睡过头。<sup>\[如皋\]</sup> ③ 睡到天亮，或到约定时间还未醒<sup>\[东台\]</sup>：早上要设个闹钟，防止～。<sup>\[东台\]</sup> ④ 睡过了时间，不知天亮<sup>\[兴化\]</sup>：昨晚打扑克玩晏吖，早上睡啊～。“客官～，好起了。”（《水浒传》二）<sup>\[兴化\]</sup> ⑤ 一直睡到天亮而不知道天亮该起床<sup>\[泰州\]</sup>：他昨朝晚上就喝咖多啊，今朝早起睡啊～唻。<sup>\[泰州\]</sup>  
 1. 【[失笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_xio.md#失笑)】`sheh7 xio5` <sup>[如东]</sup> 让人感觉好笑：我说咖，你不要～。  
 1. 【[失虚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_xy.md#失虚)】`sheh7 xy1` <sup>[兴化]</sup> 心虚：他昨晚在外头鬼混，早上家来有些～。  
+1. 【[失虚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_xy.md#失虚)】`sheh7 xy1` <small>/səʔ7 ɕy1/<sup>泰兴</sup></small> 心虚，胆怯。<sup>\[泰兴\]</sup>：望他～的样子，八成是个贼。<sup>\[泰兴\]</sup>  
 1. 【[失着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_zhah.md#失着)】`sheh7 zhah7` ① 行动疏忽或方法错误。<sup>\[东台\]</sup> ② 失策，行动或者方法失误<sup>\[泰州\]</sup>：今年子的这种推销方法是大～。<sup>\[泰州\]</sup>  
 1. 【[失张失智](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_zhan_sheh_zhr.md#失张失智)】`sheh7 zhan1 sheh7 zhr5` <sup>[兴化]</sup> 心神不定，举止失措的样子：他晓得挪用公款事发，～，懊悔不及。  
 1. 【[失照](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_zho.md#失照)】`sheh7 zho5` <small>/səʔ7 t͡sɔ5/<sup>兴化</sup>, /səʔ7 t͡sɔ5/<sup>泰县</sup></small> ① 客套话，表示失于关照<sup>\[兴化\]</sup>：对不起，～～！<sup>\[兴化\]</sup> ② 因考虑不周，表示歉意。<sup>\[泰县\]</sup>  
@@ -1277,26 +1283,30 @@
 1. 【[生产](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_chaen.md#生产)】`shen1 chaen3` <sup>[如东]</sup> 人们使用工具创造各种生产资料和生活资料。生孩子。  
 1. 【[生成的眉毛，长成的骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_chen_dii_mi_mo_zhan_chen_dii_gueh.md#生成的眉毛，长成的骨)】`shen1 chen2 dii mi2 mo zhan3 chen2 dii gueh7` <sup>[如皋]</sup> 天生本性难以改变。  
 1. 【[生成皮毛长成骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_chen_pi_mo_zhan_chen_gueh.md#生成皮毛长成骨)】`shen1 chen2 pi2 mo2 zhan3 chen2 gueh7` <sup>[东台]</sup> ［喻］指坏东西已经发展成形，难以改变或根除。  
+1. 【[生辰八字](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_chen_baeh_cz.md#生辰八字)】`shen1 chen2 baeh7 cz` <small>/səŋ1 t͡sʰəŋ2 pæʔ7 t͡sʰɿ/<sup>泰兴</sup></small> 将人出生的年、月、日、时各配以干支，合为八字，故称。星相家据以推算人的命运的好坏。<sup>\[泰兴\]</sup>  
 1. 【[生愁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_cheu.md#生愁)】`shen1 cheu2` 唯恐，只怕<sup>\[泰州\]</sup>：他～去啊晏吖买不到，老早就去排班唻。<sup>\[泰州\]</sup>  
-1. 【[生臭熟香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_cheu_shoh_xian.md#生臭熟香)】`shen1 cheu5 shoh8 xian1` <small>/sən1 t͡sʰɤ5 sɔʔ8 ɕiaŋ1/<sup>兴化</sup></small> ① 臭豆腐干之类的食品，闻起来臭，烹调后就香了。<sup>\[东台\]</sup> ② 某些发酵变臭的食品做熟后有一种特殊“香味”，如臭豆腐干、苋菜梗等。<sup>\[兴化\]</sup> ③ （讽）不讲卫生的借口。<sup>\[兴化\]</sup> ④ 某些发过酵的食物原料，“生”的时候发出“臭”气，但是经过烹制加工变“熟”以后，就会产生特殊“香”味<sup>\[泰州\]</sup>：油煠臭干～，家里人个个欢喜吃。<sup>\[泰州\]</sup>  
+1. 【[生臭熟香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_cheu_shoh_xian.md#生臭熟香)】`shen1 cheu5 shoh8 xian1` <small>/sən1 t͡sʰɤ5 sɔʔ8 ɕiaŋ1/<sup>兴化</sup>, /səŋ1 t͡ɕʰiɤɯ5 sɔʔ8 ɕiɑŋ1/<sup>泰兴</sup></small> ① 臭豆腐干之类的食品，闻起来臭，烹调后就香了。<sup>\[东台\]</sup> ② 某些发酵变臭的食品做熟后有一种特殊“香味”，如臭豆腐干、苋菜梗等。<sup>\[兴化\]</sup> ③ （讽）不讲卫生的借口。<sup>\[兴化\]</sup> ④ 某些发过酵的食物原料，“生”的时候发出“臭”气，但是经过烹制加工变“熟”以后，就会产生特殊“香”味<sup>\[泰州\]</sup>：油煠臭干～，家里人个个欢喜吃。<sup>\[泰州\]</sup> ⑤ 闻起来臭，吃起来香，如“臭豆腐”。<sup>\[泰兴\]</sup>  
 1. 【[生床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_chuan.md#生床)】`shen1 chuan2` 不熟悉的床，多指第一次睡的床<sup>\[泰州\]</sup>：宾馆的条件没得话说，就是～，弄吖一夜凑不曾睡得着。<sup>\[泰州\]</sup>  
 1. 【[生疵从](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_cz_con.md#生疵从)】`shen1 cz2 con2` <sup>[如东]</sup> 制造借口：不要～。  
+1. 【[生祠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_cz.md#生祠)】`shen1 cz2` <small>/səŋ1 t͡sʰɿ2/<sup>泰兴</sup></small> 为活人建立的祠庙。传说今靖江的生祠堂即沩当时人民为民族英雄岳飞所建。<sup>\[泰兴\]</sup>  
 1. 【[生旦净末丑，酸甜苦辣咸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_daen_qien_muh_cheu_sun_tin_kv_laeh_haen.md#生旦净末丑，酸甜苦辣咸)】`shen1 daen5 qien6 muh8 cheu3 sun1 tin2 kv3 laeh8 haen2` <sup>[东台]</sup> 世上有各种角色，人生尝到各种滋味。  
 1. 【[生的不打熟的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_dii_beh_da_shoh_dii.md#生的不打熟的)】`shen1 dii beh7 da3 shoh8 dii` <sup>[如皋]</sup> 虽见过，未相处过，不熟悉。  
 1. 【[生发油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_faeh_ieu.md#生发油)】`shen1 faeh7 ieu2` <sup>[如皋]</sup> 旧时用的一种头发油。  
 1. 【[生仿生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_fan_shen.md#生仿生)】`shen1 fan3 shen1` <sup>[如东]</sup> 没有见过面：我跟这个人～，不曾见过。  
-1. 【[生分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_fen.md#生分)】`shen1 fen` ① 很久不往来，感情疏远了。小孩见了不熟悉的人，有些害怕。<sup>\[如东\]</sup> ② 疏远；见外<sup>\[东台\]</sup>：帮你做这点事是应该的，你要给钱就～了。<sup>\[东台\]</sup> ③ 冷淡，疏远，像生人一样<sup>\[泰州\]</sup>：大家是老朋友，不要因为小事弄吖～吖。<sup>\[泰州\]</sup>  
+1. 【[生分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_fen.md#生分)】`shen1 fen` <small>/səŋ1 fəŋ/<sup>泰兴</sup></small> ① 很久不往来，感情疏远了。小孩见了不熟悉的人，有些害怕。<sup>\[如东\]</sup> ② 疏远；见外<sup>\[东台\]</sup>：帮你做这点事是应该的，你要给钱就～了。<sup>\[东台\]</sup> ③ 冷淡，疏远，像生人一样<sup>\[泰州\]</sup>：大家是老朋友，不要因为小事弄吖～吖。<sup>\[泰州\]</sup> ④ 冷淡，疏远。<sup>\[泰兴\]</sup>  
 1. 【[生粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_fen.md#生粉)】`shen1 fen3` <sup>[兴化]</sup> 芡粉，烹调时勾芡用。  
 1. 【[生根](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_gen.md#生根)】`shen1 gen1` <sup>[如东]</sup> 植物生出根芽，扎在土壤中，开始生长。祝寿时，晚宴吃完最后一道菜，一定要吃一些饭表示生根。  
 1. 【[生荒田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_huan_tin.md#生荒田)】`shen1 huan1 tin2` <sup>[如东]</sup> 未开垦的草地。  
 1. 【[生活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_huh.md#生活)】`shen1 huh8` <sup>[如东]</sup> ① 生存。人或动物为了生存和发展而进行的各种活动。 ② 活计：做～。  
 1. 【[生意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_i.md#生意)】`shen1 i` <sup>[如东]</sup> 交易：做～。  
+1. 【[生意不在早上，只要遇到巧上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_i_beh_cae.md#生意不在早上，只要遇到巧上)】`shen1 i beh7 cae5 zo3 shan zheh7 io5 y6 do qio3 shan` <small>/səŋ1 ʝ pəʔ7 t͡ɕʰiɛ5 t͡sɔ3 sɑŋ t͡səʔ7 iɔ5 y1 tɔ t͡ɕʰiɔ3 sɑŋ/<sup>泰兴</sup></small> 谓做生意不绝对以时间迟早为条件，碰到局气、机遇也能取得成功。<sup>\[泰兴\]</sup>  
 1. 【[生意经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_i_jien.md#生意经)】`shen1 i jien1` <sup>[泰州]</sup> 做生意的经验、规则。  
 1. 【[生意人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_i_ren.md#生意人)】`shen1 i ren2` <small>/sən1 i lən2/<sup>兴化</sup>, /səŋ1 ʝ ɻəŋ2/<sup>如皋</sup></small> ① 买卖人、商人。<sup>\[如皋\]</sup> ② 商人。<sup>\[如东\]</sup> ③ 经商的人<sup>\[兴化\]</sup>：……见了官场说官场上的话，见了～说生意场中的话……（《官场现形记》三八）<sup>\[兴化\]</sup>  
 1. 【[生衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_i.md#生衣)】`shen1 i1` 物体表面寄生菌藻类植物<sup>\[泰州\]</sup>：这块～的咸肉不能吃，撂掉吧。<sup>\[泰州\]</sup>  
 1. 【[生意不成情意在](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_i_beh_chen_qien_i_cae.md#生意不成情意在)】`shen1 i5 beh7 chen2 qien2 i5 cae6` <sup>[东台]</sup> 不能因为合作未成功就影响情谊。  
 1. 【[生意经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_i_jien.md#生意经)】`shen1 i5 jien1` <sup>[东台]</sup> 做生意的一套方法。  
 1. 【[生油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_ieu.md#生油)】`shen1 ieu2` <sup>[兴化]</sup> 花生油。  
+1. 【[生脚踏生地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_jiah_taeh_shen.md#生脚踏生地)】`shen1 jiah7 taeh8 shen1 ti6` <small>/səŋ1 t͡ɕiɑʔ7 tʰæʔ8 səŋ1 t͡ɕʰʝ1/<sup>泰兴</sup></small> 谓初到某处，人生地不熟。<sup>\[泰兴\]</sup>  
 1. 【[生姜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_jian.md#生姜)】`shen1 jian1` <sup>[如东]</sup> 姜科植物生姜，多年生草本。高约100厘米。基部肉质，扁圆横走，具芳香和辛辣气味。叶互生，披针形，膜质。穗状花序。花黄绿色。萌果种子黑色。人工种植。  
 1. 【[生姜拐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_jian_guae_r.md#生姜拐<sub>儿</sub>)】`shen1 jian1 guae3 r` <sup>[如皋]</sup> 手指中节关节，屈指时指关节突出处，打人很疼：你调皮就侯你吃～。  
 1. 【[生姜还是老的辣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_jian_hae_shr_lo_dii_laeh.md#生姜还是老的辣)】`shen1 jian1 hae2 shr6 lo3 dii laeh8` <sup>[东台]</sup> 喻指阅历和经验越丰富越有本领。  
@@ -1310,32 +1320,41 @@
 1. 【[生犟拗别](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_jian_ngo_bih.md#生犟拗别)】`shen1 jian5 ngo5 bih7` <sup>[兴化]</sup> 有意顶牛、唱反调：这个人喜欢～的，实在不好共事。  
 1. 【[生劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_jien.md#生劲)】`shen1 jien5` <sup>[如东]</sup> 人体增长精力：已经吃咖饭吖，人也生吖劲。  
 1. 【[生抲抲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_ka_ka.md#生抲抲)】`shen1 ka1 ka1` <sup>[兴化]</sup> 与陌生人见面时的羞涩感：一男一女初次见面不免～的。  
+1. 【[生客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_keh.md#生客)】`shen1 keh7` <small>/səŋ1 kʰəʔ7/<sup>泰兴</sup></small> 陌生的客人。<sup>\[泰兴\]</sup>  
+1. 【[生来落头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_lae_lah_teu.md#生来落头)】`shen1 lae lah8 teu` <small>/səŋ1 lɛ lɑʔ8 tʰəɪ/<sup>泰兴</sup></small> 陌生的地方，从未到过的地方。<sup>\[泰兴\]</sup>  
+1. 【[生来人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_lae_ren.md#生来人)】`shen1 lae ren2` <small>/səŋ1 lɛ ɻəŋ2/<sup>泰兴</sup></small> 陌生人<sup>\[泰兴\]</sup>  
 1. 【[生来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_lae.md#生来)】`shen1 lae2` ① 的确，确实 ② 先天，本来。<sup>\[如东\]</sup>：～就是这吖。<sup>\[如东\]</sup> ③ 应该。<sup>\[如东\]</sup>：～是他去。<sup>\[如东\]</sup>  
-1. 【[生来的夫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_lae_dii_fv_r.md#生来的夫<sub>儿</sub>)】`shen1 lae2 dii fv1 r` <sup>[东台]</sup> 新来乍到，情况不熟的人：我是～，请大家多指点！  
+1. 【[生来的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_lae_dii.md#生来的)】`shen1 lae2 dii` <small>/səŋ1 lɛ2 təɪ/<sup>泰兴</sup></small> 与生俱来的，从来；从小时候起。<sup>\[泰兴\]</sup>：他～就是箇种货色。<sup>\[泰兴\]</sup>  
+1. 【[生来的户<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_lae_dii_hv_r.md#生来的户<sub>儿</sub>)】`shen1 lae2 dii hv6 r` <sup>[东台]</sup> 新来乍到，情况不熟的人：我是～，请大家多指点！  
 1. 【[生来暴到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_lae_po_do.md#生来暴到)】`shen1 lae2 po6 do5, shen1 lae2 bo5 do5` <small>/səŋ1 lɛ2 pʰɔ1 tɔ5/<sup>泰兴</sup></small> 初来乍到<sup>\[泰兴\]</sup>  
+1. 【[生来暴到，摸不到锅灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_lae_po_do.md#生来暴到，摸不到锅灶)】`shen1 lae2 po6 do5 mah8 beh do5 gu1 zo5, shen1 lae2 bo5 do5 mah8 beh do5 gu1 zo5` <small>/səŋ1 lɛ2 pʰɔ1 tɔ5 mɑʔ8 pəʔ tɔ5 kɤɯ1 t͡sɔ5/<sup>泰兴</sup></small> 谓刚到陌生之处，对各种情况一点都不了解。<sup>\[泰兴\]</sup>  
 1. 【[生脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_lin.md#生脸)】`shen1 lin3` 陌生面孔，未见过面的人<sup>\[泰州\]</sup>：刚才来的这个人是个～，你哿认得他啊？<sup>\[泰州\]</sup>  
 1. 【[生脸色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_lin_seh.md#生脸色)】`shen1 lin3 seh7` <sup>[兴化]</sup> 没有见过面的人：来者是个～。｜刚才来啊几个～儿，把老板叫啊走啊。  
 1. 【[生迈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_mae.md#生迈)】`shen1 mae` <sup>[泰县]</sup> 如果：这件事～你去就办成吖。  
 1. 【[生芒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_man.md#生芒)】`shen1 man2` <sup>[如东]</sup> 物体表面生长出菌丝。生长白色菌丝，称生白芒；生长黑色菌丝，称生黑芒：馒头上～。  
 1. 【[生闷气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_men_qi.md#生闷气)】`shen1 men6 qi5` <sup>[如东]</sup> 心中有气而不说出来：他一个人在家里～。  
 1. 【[生米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_mi.md#生米)】`shen1 mi3` <sup>[如东]</sup> 脱掉稻壳而未碾掉米皮的大米，称生米。未蒸煮的大米。  
-1. 【[生米煮成熟饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_mi_zhv_chen_shoh_faen.md#生米煮成熟饭)】`shen1 mi3 zhv3 chen2 shoh8 faen6` ① （俗语）形容事情已成定局，到了无法逆转的地步。<sup>\[东台\]</sup> ② 已成定局不可逆转。<sup>\[东台\]</sup>  
-1. 【[生怕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_pa.md#生怕)】`shen1 pa5` <small>/səŋ1 pʰa5/<sup>如皋</sup></small> ① 担心，害怕<sup>\[如皋\]</sup>：我不敢去，～他家狗子咬人。<sup>\[如皋\]</sup> ② 唯恐<sup>\[泰州\]</sup>：他～你不来，特地派车子来接你。<sup>\[泰州\]</sup>  
+1. 【[生米煮成熟饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_mi_zhv_chen_shoh_faen.md#生米煮成熟饭)】`shen1 mi3 zhv3 chen2 shoh8 faen6` 已成定局不可逆转。<sup>\[东台\]</sup>  
+1. 【[生怕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_pa.md#生怕)】`shen1 pa5` <small>/səŋ1 pʰa5/<sup>如皋</sup>, /səŋ1 pʰɑ/<sup>泰兴</sup></small> ① 担心，害怕<sup>\[如皋\]</sup>：我不敢去，～他家狗子咬人。<sup>\[如皋\]</sup> ② 唯恐<sup>\[泰州\]</sup>：他～你不来，特地派车子来接你。<sup>\[泰州\]</sup> ③ 只怕，唯恐<sup>\[泰兴\]</sup>  
 1. 【[生醅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_pi.md#生醅)】`shen1 pi1` <sup>[如皋]</sup> 料未蒸而酿的黄酒。与蒸而酸的“熟醅”相对。  
 1. 【[生气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_qi.md#生气)】`shen1 qi5` <sup>[如东]</sup> 有意见。透气，有呼吸：经过急救，王二开始～。  
 1. 【[生翘蝴蝶片](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_qio_hv_tih_pin.md#生翘蝴蝶片)】`shen1 qio5 hv2 tih8 pin5` <sup>[如皋]</sup> 炒长鱼的菜名。也是切长鱼的一种刀法。  
+1. 【[生人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_ren.md#生人)】`shen1 ren2` <small>/səŋ1 ɻəŋ2/<sup>泰兴</sup></small> 陌生人，没有见过面、没有打过交道的人。<sup>\[泰兴\]</sup>  
 1. 【[生日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_rih.md#生日)】`shen1 rih8` <sup>[如东]</sup> 人出生的日子，也指每年满周岁的那一天：7月18是毛毛的～。  
 1. 【[生三千，死八百](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_saen_qin_sz_baeh_boh.md#生三千，死八百)】`shen1 saen1 qin1 sz3 baeh7 boh7` <sup>[如皋]</sup> 古代正常条件下，人口变化规律。  
 1. 【[生生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_shen.md#生生)】`shen1 shen` <sup>[兴化]</sup> 理所当然：你家砌房子，只要说一声，我～来帮忙。  
 1. 【[生生卡卡的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_shen_ka_ka_dii.md#生生卡卡的)】`shen1 shen1 ka3 ka3 dii` <sup>[如皋]</sup> 生疏，拘谨。  
+1. 【[生手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_sheu.md#生手)】`shen1 sheu3` <small>/səŋ1 ɕiɤɯ3/<sup>泰兴</sup></small> 指新做某项工作，对从事的事务还不熟悉的人。<sup>\[泰兴\]</sup>  
 1. 【[生死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_sz.md#生死)】`shen1 sz3` <sup>[兴化]</sup> 无论如何：劝她嫁啊本庄，她～不肯。  
 1. 【[生炭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_taen.md#生炭)】`shen1 taen5` 未燃烧过的煤炭。<sup>\[泰州\]</sup>  
 1. 【[生蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_taen.md#生蛋)】`shen1 taen6` <sup>[如皋]</sup> 禽产卵。  
 1. 【[生疼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_ten.md#生疼)】`shen1 ten2` <sup>[兴化]</sup> 很疼痛的感觉：（刘老老）“咕咚”一声，却撞到板壁上，把头蹦的～。（《红楼梦》四一）｜却说张金凤听得一对新人双双就寝，才觉出两只小脚儿站了个～……（《儿女英雄传》二八）  
 1. 【[生天法](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_tin_faeh.md#生天法)】`shen1 tin1 faeh7` <sup>[如东]</sup> 想尽一切办法：～也要把她寻家来。  
 1. 【[生田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_tin.md#生田)】`shen1 tin2` <sup>[如皋]</sup> 新垦田。  
+1. 【[生田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_tin.md#生田)】`shen1 tin2` <small>/səŋ1 tʰĩ2/<sup>泰兴</sup></small> 未耕作播种过的土地。<sup>\[泰兴\]</sup>  
 1. 【[生桐油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_ton_ieu.md#生桐油)】`shen1 ton2 ieu2` <sup>[如皋]</sup> 天然桐油，未经熬制。  
 1. 【[生土](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_tv.md#生土)】`shen1 tv3` <sup>[如东]</sup> 未经开发的板结的土壤，称生土：这许还是～。  
+1. 【[生相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_xian.md#生相)】`shen1 xian5` <small>/səŋ1 ɕiɑŋ5/<sup>泰兴</sup></small> 长相，相貌。<sup>\[泰兴\]</sup>  
 1. 【[生心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_xien.md#生心)】`shen1 xien1` <sup>[兴化]</sup> ① 起疑心：“……不痴不聋，不做阿家翁，一家子人生了心，倒反不好。”（《广陵潮》五十） ② 起外心：他家儿子没出息，难怪媳妇～要离婚。  
 1. 【[生灾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_zae.md#生灾)】`shen1 zae1` <sup>[如东]</sup> 生病：吃咖五谷要～。  
 1. 【[生张](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_zhan.md#生张)】`shen1 zhan1` 麻将术语，相对“熟张”，指尚未有人出过的某一花色的牌<sup>\[泰州\]</sup>：三条是～，你不能打，防止吃冲。<sup>\[泰州\]</sup>  

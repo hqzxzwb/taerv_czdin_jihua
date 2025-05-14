@@ -1732,7 +1732,7 @@
 1. 【[淀人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_ren_zz.md#淀人子)】`dien5 ren zz` <sup>[如皋]</sup> 感觉食物在肠胃中沉塞的不适感：饼干儿是淀粉做的，吃咖多啊～，不如吃脆饼儿。  
 1. 【[淀汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_tan.md#淀汤)】`dien5 tan1` <small>/tiɪ̃5 tʰaŋ1/<sup>兴化</sup>, /tiəŋ5 tʰã1/<sup>如皋</sup></small> ① 黏稠的汤汁中渗出水来，表示已变质。<sup>\[如皋\]</sup> ② 粥里的米糁或糊状物中淀粉沉底<sup>\[兴化\]</sup>：～落水。<sup>\[兴化\]</sup>｜他想着想着，走到厨房里揭开锅盖，有半锅淀了汤的菜粥。（马春阳《十二道水车》）<sup>\[兴化\]</sup>  
 1. 【[淀汤淀水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_tan_dien_shuei.md#淀汤淀水)】`dien5 tan1 dien5 shuei3` <sup>[兴化]</sup> （喻）气氛冷落：他跑到家一看，～的，十分冷落。｜这酒吃得～的，没有意思。（杨二《甘露寺相婿》）也作“淀汤落水”。  
-1. 【[淀汤落水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_tan_lah_shuei.md#淀汤落水)】`dien5 tan1 lah8 shuei3` <small>/tiŋ5 tʰɑŋ1 nɑʔ8 ɕyəɪ3/<sup>泰县</sup></small> ① 粥中的米沉淀在水下，不黏糊。<sup>\[如东\]</sup>：今朝煮的粥～的，不好吃。<sup>\[如东\]</sup> ② 粥或菜汤不稠。<sup>\[泰县\]</sup> ③ 煮好的食物中食物原来太少<sup>\[泰州\]</sup>：他是做重活技的人，这个粥煮得～的怎吖行㖸？<sup>\[泰州\]</sup>  
+1. 【[淀汤落水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_tan_lah_shuei.md#淀汤落水)】`dien5 tan1 lah8 shuei3` <small>/tiŋ5 tʰɑŋ1 lɑʔ8 suəɪ3/<sup>泰兴</sup>, /tiŋ5 tʰɑŋ1 nɑʔ8 ɕyəɪ3/<sup>泰县</sup></small> ① 粥中的米沉淀在水下，不黏糊。<sup>\[如东\]</sup>：今朝煮的粥～的，不好吃。<sup>\[如东\]</sup> ② 粥或菜汤不稠。<sup>\[泰县\]</sup> ③ 煮好的食物中食物原来太少<sup>\[泰州\]</sup>：他是做重活技的人，这个粥煮得～的怎吖行㖸？<sup>\[泰州\]</sup> ④ 指稀饭、酸粥变质后水都浮在上面，其它物质则沉淀于水下的状态。喻萧条冷落的样子。<sup>\[泰兴\]</sup>  
 1. 【[淀汤落水的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_tan_lah_shuei_dii.md#淀汤落水的)】`dien5 tan1 lah8 shuei3 dii` <sup>[如皋]</sup> ① 汤汁不黏稠的样子。 ② 见“薄叽拐汤的”。  
 1. 【[淀汤落水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_tan_lah_xy.md#淀汤落水)】`dien5 tan1 lah8 xy3` <sup>[东台]</sup> 粥不粘稠，米粒和汤水不调和。或指菜肴、稀饭等放置时间过长，开始沉淀、变质。  
 1. 【[碇子𬙙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_zz_fan.md#碇子𬙙)】`dien5 zz fan1` <sup>[如东]</sup> 一种捕鱼网具。圆锥形，口宽36米，身长36米。苎麻线结成，网眼较大。作业时，将网放入海洋中，以船拖带，主要捕捞大黄鱼和小黄鱼。  
@@ -2261,6 +2261,7 @@
 1. 【[冬不离十一月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_beh_lii_sheh.md#冬不离十一月)】`don1 beh7 lii2 sheh8 ieh7 iuh` <small>/tɔŋ1 pəʔ7 ləɪ2 səʔ8 iʔ7 yʊʔ/<sup>泰兴</sup></small> 谓冬至节气在农历十一月之内。<sup>\[泰兴\]</sup>  
 1. 【[冬菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_cae.md#冬菜)】`don1 cae5` <small>/tɔŋ1 t͡sʰɛ5/<sup>如皋</sup></small> ① 冬天上市的蔬菜。<sup>\[如皋\]</sup> ② 州中一种小菜名称，将经过冬天生长，冬春交汇之季长出嫩薹的青菜切碎，加盐揉透，用手挤去卤汁，捺入小坛之内，密封，夏季食用，味极鲜美。以菜长于冬天，故名。<sup>\[泰州\]</sup>  
 1. 【[冬粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_fen.md#冬粉)】`don1 fen3` <small>/tɔŋ1 fəŋ3/<sup>如皋</sup></small> ① 豆制品。绿豆、蚕豆或豌豆浸泡磨碎，做成粉坨子，再放人容器里挤压，变成条状，入开水烫熟，晒干即成。白色，无味。以龙须粉为佳品。可以爆炒，亦可与其他菜类调配。也叫粉丝、粉条、线粉、索粉。<sup>\[如东\]</sup> ② 干的粉丝。冬季索出，晒干。<sup>\[如皋\]</sup>  
+1. 【[冬瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_gua.md#冬瓜)】`don1 gua` <small>/tɔŋ1 kuɑ/<sup>泰兴</sup></small> 一种蔬菜。体形很大，含水量多。<sup>\[泰兴\]</sup>  
 1. 【[冬瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_gua.md#冬瓜)】`don1 gua1` <sup>[如东]</sup> 葫芦科植物冬瓜，一年生草本。  
 1. 【[冬瓜糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_gua_tan.md#冬瓜糖)】`don1 gua1 tan2` <sup>[如皋]</sup> 冬瓜条用糖渍成的晶体食品。  
 1. 【[冬瓜枕头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_gua_zhen_teu.md#冬瓜枕头)】`don1 gua1 zhen3 teu` <sup>[如皋]</sup> 传统用的长圆形青布枕头，两端用红色方块布，内填荞麦壳儿、稻壳儿、蚕砂、茭瓜子之类。  
@@ -2268,12 +2269,15 @@
 1. 【[冬酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_jieu.md#冬酒)】`don1 jieu3` <sup>[如皋]</sup> 冬至节宴。旧时作坊工人吃过这顿酒饭就开始做夜作。  
 1. 【[冬节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_jih.md#冬节)】`don1 jih7` <sup>[如东]</sup> 冬至日。周代为新年。民间有吃圆子、烧经祭祖习俗。俗称“冬节大似年”。  
 1. 【[冬葵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_kuei.md#冬葵)】`don1 kuei2` <sup>[如东]</sup> 锦葵科植物冬葵，一年生草本。  
+1. 【[冬垩金，春垩银，过啊清明不值钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_nga_jien_chuen.md#冬垩金，春垩银，过啊清明不值钱)】`don1 nga5 jien1 chuen1 nga5 ien2 gu1 a qien1 mien beh7 cheh8 qin2` <small>/tɔŋ1 ŋɑ5 t͡ɕiŋ1 t͡sʰuəŋ1 ŋɑ5 iŋ2 kɤɯ1 a t͡ɕʰiŋ1 miŋ pəʔ7 t͡sʰəʔ8 t͡ɕʰĩ2/<sup>泰兴</sup></small> 农谚。谓农作物施肥要把握时机，才有效果。<sup>\[泰兴\]</sup>  
 1. 【[冬沤田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_ngeu_tin.md#冬沤田)】`don1 ngeu5 tin2` <sup>[兴化]</sup> 秋收后浸泡在水中的一熟田。  
 1. 【[冬青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_qien.md#冬青)】`don1 qien1` <sup>[如东]</sup> 冬青科植物冬青，常绿乔木。  
+1. 【[冬前三铺雪，庄稼稳似铁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_qin_saen_pv.md#冬前三铺雪，庄稼稳似铁)】`don1 qin2 saen1 pv1 xiuh7 zhuan1 jia1 ven3 sz6 tih8` <small>/tɔŋ1 t͡ɕʰĩ2 ɕiɛ̃1 pʰu1 ɕyʊʔ7 t͡suɑŋ1 t͡ɕiɑ1 ʋəŋ3 sɿ1 tʰiʔ8/<sup>泰兴</sup></small> 农谚。冬至之前下三次雪，庄稼笃定丰收。<sup>\[泰兴\]</sup>  
 1. 【[冬天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_tin.md#冬天)】`don1 tin1` <sup>[如东]</sup> 冬季。  
 1. 【[冬天的扇子——没人爱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_tin_dii_shin_zz_meh_ren_ngae.md#冬天的扇子——没人爱)】`don1 tin1 dii shin5 zz meh8 ren2 ngae5` <sup>[东台]</sup>   
 1. 【[冬天揽锅烧，夏天把米淘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_tin_laen_gu_sho_xia_tin_ba_mi_to.md#冬天揽锅烧，夏天把米淘)】`don1 tin1 laen3 gu1 sho1 xia6 tin1 ba3 mi3 to2` <sup>[东台]</sup> 形容人看似勤快，实际上专拣舒服活儿做。  
 1. 【[冬闲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_xiaen.md#冬闲)】`don1 xiaen2` <sup>[如东]</sup> 农村里秋收秋种结束之后，农民进入休闲时期，称冬闲。  
+1. 【[冬学](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_xiah.md#冬学)】`don1 xiah8` <small>/tɔŋ1 ɕiɑʔ8/<sup>泰兴</sup></small> 旧时文盲甚多，新中国成立后，农村利用冬闲季节开办的识字班性质的学校，乡人谓之“冬学”。<sup>\[泰兴\]</sup>  
 1. 【[冬校](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_xio.md#冬校)】`don1 xio6` <sup>[如东]</sup> 在20世纪50年代至60年代，农村里每到冬闲季节，政府都要把农民组织起来学习文化，扫除文盲。这种学校称冬校。  
 1. 【[冬雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_xiuh.md#冬雪)】`don1 xiuh7` <small>/tɔŋ1 ɕyʊʔ7/<sup>如皋</sup></small> ① 冬季下雪，称冬雪。视为瑞雪。<sup>\[如东\]</sup>：今年下～，明年收成好。<sup>\[如东\]</sup> ② 一说“立春”以前下的雪；一说“尽九”以前下的雪。<sup>\[如皋\]</sup>  
 1. 【[冬至](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_zhr.md#冬至)】`don1 zhr5` 二十四节气之一，通常在12月21、22或23日。也称“过冬”“大冬”。这一天北半球白天最短，夜间最长。从这一天起进入数九寒冬。  
