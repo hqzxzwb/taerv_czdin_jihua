@@ -5,7 +5,7 @@ ngen6 jyeh7 jyeh7
 - 形容态度生硬。
 
 # 硬蹫蹫
-ngen7 jyeh7 jyeh7
+ngen6 jyeh7 jyeh7
 > 泰州方言词典4
 - 条状物体坚硬微带上翘的样子
   - 这几条风干的咸猪尾巴～的。
