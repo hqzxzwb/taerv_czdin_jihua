@@ -896,36 +896,42 @@
 1. 【[白痴白痴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_chr_poh_chr_dii.md#白痴白痴的)】`poh8 chr1 poh8 chr1 dii` <sup>[如皋]</sup> 睁大眼睛不知所以的样子：打得他～；他才睏吖醒吖，眼睛～。  
 1. 【[白草莓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_co_mei.md#白草莓)】`poh8 co3 mei2` <sup>[如东]</sup> 蔷薇科植物白草莓，多年生草本。  
 1. 【[白糙糙的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_co_co_dii.md#白糙糙的)】`poh8 co5 co dii` <sup>[如皋]</sup> 浑白色：银灰色的衣裳落咖色变得～。  
-1. 【[白字](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_cz.md#白字)】`poh8 cz6` ① 错读的字<sup>\[泰州\]</sup>：他读咖几个大～出来啊。<sup>\[泰州\]</sup> ② 误写的字<sup>\[泰州\]</sup>：你说起来也是个大学生，写啊封信，高头～𠫓𠫓的。<sup>\[泰州\]</sup>  
+1. 【[白字](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_cz.md#白字)】`poh8 cz6` <small>/pʰɔʔ8 t͡sʰɿ1/<sup>泰兴</sup></small> ① 错读的字<sup>\[泰州\]</sup>：他读咖几个大～出来啊。<sup>\[泰州\]</sup> ② 误写的字<sup>\[泰州\]</sup>：你说起来也是个大学生，写啊封信，高头～𠫓𠫓的。<sup>\[泰州\]</sup> ③ 别字<sup>\[泰兴\]</sup>  
 1. 【[白字佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_cz_lo_r.md#白字佬<sub>儿</sub>)】`poh8 cz6 lo3 r` <sup>[如皋]</sup> 贬指常读、写别字的人。  
 1. 【[白大字](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_da_cz.md#白大字)】`poh8 da cz6` <sup>[兴化]</sup> 错别字：他识～字。｜一篇短文他念吖几个～。也作“白字”。  
 1. 【[白大肚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_da_dv.md#白大肚)】`poh8 da dv3` <sup>[兴化]</sup> （讽）没有文化的人：我是～，斗大的字认不得半担。  
 1. 【[白大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_da.md#白大)】`poh8 da5` <small>/pʰɔʔ8 ta5/<sup>如皋</sup></small> ① 无偿得到的<sup>\[如皋\]</sup>：吃～、玩～、扰～、～货。<sup>\[如皋\]</sup> ② 没有花钱而得到<sup>\[东台\]</sup>：这顿饭他是吃的～<sup>\[东台\]</sup>｜有人洗～澡。<sup>\[东台\]</sup> ③ 没有付出代价，无偿获得某种利益或者好处<sup>\[泰州\]</sup>：不要钱的～酒，你不喝是白不喝。<sup>\[泰州\]</sup>  
-1. 【[白大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_da.md#白大)】`poh8 da6` <small>/pʰɔʔ8 ta6/<sup>兴化</sup></small> ① 无偿地占有。<sup>\[如东\]</sup>：吃～。<sup>\[如东\]</sup> ② 不付代价而得到的<sup>\[兴化\]</sup>：他专门吃～<sup>\[兴化\]</sup>｜玩～<sup>\[兴化\]</sup>｜这是～，不要白不要。生动形式“白而大”。<sup>\[兴化\]</sup>  
+1. 【[白大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_da.md#白大)】`poh8 da6` <small>/pʰɔʔ8 ta6/<sup>兴化</sup>, /pʰɔʔ8 tɑ1/<sup>泰兴</sup></small> ① 无偿地占有。<sup>\[如东\]</sup>：吃～。<sup>\[如东\]</sup> ② 不付代价而得到的<sup>\[兴化\]</sup>：他专门吃～<sup>\[兴化\]</sup>｜玩～<sup>\[兴化\]</sup>｜这是～，不要白不要。生动形式“白而大”。<sup>\[兴化\]</sup> ③ 白食；不付出代价而得到的东西。<sup>\[泰兴\]</sup>  
 1. 【[白大肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_da_dv_zz.md#白大肚子)】`poh8 da6 dv3 zz` ① ［喻］指没有文化的人<sup>\[东台\]</sup>：现在要好好学习，～吃不开啊。<sup>\[东台\]</sup> ② 讥称一字不识的人，取其“腹中空空没有一点墨水”之义<sup>\[泰州\]</sup>：他一天学不曾上过，就是个～，你同他有甚的说头！<sup>\[泰州\]</sup>  
 1. 【[白沰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_dah.md#白沰)】`poh8 dah` <sup>[兴化]</sup> 形容很白：这种进口纸真～。｜她的皮子蛮～的。‖生动形式“白沰石”“白白沰沰”。  
-1. 【[白沰沰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_dah_dah.md#白沰沰)】`poh8 dah7 dah7` <small>/pʰɔʔ8 tɑʔ7 tɑʔ7/<sup>泰县</sup></small> ① 形容人的皮肤或物体颜色很白嫩<sup>\[东台\]</sup>：姑娘～的<sup>\[东台\]</sup>｜～的面粉。<sup>\[东台\]</sup> ② 白晃晃，白花花。<sup>\[泰县\]</sup> ③ 非常白的样子<sup>\[泰州\]</sup>：她脸上，雪花膏搽得～的。<sup>\[泰州\]</sup>｜洗得～的衬衫，他顶多一天头领子同袖口就全黑咖唻。<sup>\[泰州\]</sup>  
+1. 【[白沰沰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_dah_dah.md#白沰沰)】`poh8 dah7 dah7` <small>/pʰɔʔ8 tɑʔ7 tɑʔ7/<sup>泰兴</sup>, /pʰɔʔ8 tɑʔ7 tɑʔ7/<sup>泰县</sup></small> 非常白<sup>\[泰州\]</sup><sup>\[泰兴\]</sup>\[东台：形容人的皮肤或物体颜色很白嫩\]\[泰县：白晃晃，白花花。\]：姑娘～的<sup>\[东台\]</sup>｜～的面粉。<sup>\[东台\]</sup>｜她脸上，雪花膏搽得～的。<sup>\[泰州\]</sup>｜洗得～的衬衫，他顶多一天头领子同袖口就全黑咖唻。<sup>\[泰州\]</sup>  
 1. 【[白沰沰的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_dah_dah_dii.md#白沰沰的)】`poh8 dah7 dah7 dii` <sup>[如皋]</sup> ① 无价值地：～送吖命。 ② 状白皙、洁白：她的手～、墙上刷得～。  
 1. 【[白底子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_di_zz.md#白底子)】`poh8 di3 zz` <sup>[如皋]</sup> 家底穷。  
+1. 【[白肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_dv_zz.md#白肚子)】`poh8 dv3 zz` <small>/pʰɔʔ8 tu3 t͡sɿ/<sup>泰兴</sup></small> 谦称自己没有文化知识。<sup>\[泰兴\]</sup>  
+1. 【[白饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_faen.md#白饭)】`poh8 faen` <small>/pʰɔʔ8 fɛ̃/<sup>泰兴</sup></small> 常与“吃”连用，称吃白饭，谓光吃饭不干事；没有菜肴的干饭。<sup>\[泰兴\]</sup>  
 1. 【[白饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_faen.md#白饭)】`poh8 faen6` 米中没有掺入山芋、胡萝卜或青菜而煮成的饭，相对“糂饭”<sup>\[泰州\]</sup>：以前只有家里来人才能吃到～。<sup>\[泰州\]</sup>  
 1. 【[白粉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_fen_zz.md#白粉子)】`poh8 fen3 zz` <sup>[兴化]</sup> 毒品海洛因的俗称。也称“白面子”。  
 1. 【[白咖渣啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_ga_zha_a.md#白咖渣啊)】`poh8 ga zha1 a` <sup>[如皋]</sup> 状脸色像豆腐渣，毫无血色。  
 1. 【[白工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_gon.md#白工)】`poh8 gon1` <small>/pʰɔʔ8 koŋ1/<sup>兴化</sup></small> ① 没有报酬的工作或劳动。<sup>\[如东\]</sup>：他做啊一天的～。<sup>\[如东\]</sup> ② 无用功<sup>\[兴化\]</sup>：忙吖一天不见效果，～。<sup>\[兴化\]</sup> ③ 无报酬的劳动<sup>\[兴化\]</sup>：今朝帮他家做啊一天～，连香烟也不曾抽他一根。<sup>\[兴化\]</sup>  
 1. 【[白个个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_gu_gu.md#白个个)】`poh8 gu gu5` <sup>[如皋]</sup> 珠颈斑鸠。即鹁鸪鸪。  
-1. 【[白果](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_gu.md#白果)】`poh8 gu3` <sup>[东台]</sup> 又名银杏，落叶乔木，雌雄异株，叶子扇形。  
-1. 【[白果树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_gu_shv.md#白果树)】`poh8 gu3 shv6` <sup>[如东]</sup> 银杏科植物银杏，又名公孙树。  
+1. 【[白果](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_gu.md#白果)】`poh8 gu3` <small>/pʰɔʔ8 kɤɯ3/<sup>泰兴</sup></small> 银杏，或指其果实。白果树也称“公孙树”。<sup>\[东台\]</sup><sup>\[泰兴\]</sup><sup>\[如东\]</sup>：～树<sup>\[如东\]</sup>  
 1. 【[白鸽子拣亮处飞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_guh_zz_gaen_lian_chv_fei.md#白鸽子拣亮处飞)】`poh8 guh7 zz gaen3 lian6 chv fei1` <sup>[如皋]</sup> 喻人拣好的地方去，往好的方向努力。  
 1. 【[白鸽子拣亮处飞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_guh_zz_gaen_lian_chv_fei.md#白鸽子拣亮处飞)】`poh8 guh7 zz gaen3 lian6 chv5 fei1` <sup>[东台]</sup> ［喻］人们都想到好地方。  
+1. 【[白鸽子望亮处飞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_guh_zz_van.md#白鸽子望亮处飞)】`poh8 guh7 zz van6 lian6 chv5 fei1` <small>/pʰɔʔ8 kʊʔ7 t͡sɿ uɑŋ1 liɑŋ1 t͡sʰu5 fəɪ1/<sup>泰兴</sup></small> 喻指趋炎附势，溜须拍马。<sup>\[泰兴\]</sup>  
 1. 【[白姑鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_gv_y.md#白姑鱼)】`poh8 gv1 y2` <sup>[如东]</sup> 石首科动物白姑鱼。  
 1. 【[白鸪<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_gv_r.md#白鸪<sub>儿</sub>)】`poh8 gv1 r` <sup>[如东]</sup> 鸠鸽科动物斑鸠，体长约34厘米。  
 1. 【[白花败酱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_hua_pae_jian.md#白花败酱)】`poh8 hua1 pae6 jian5` <sup>[如东]</sup> 败酱科植物白花败酱，又名败酱，多年生草本。  
 1. 【[白话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_hua.md#白话)】`poh8 hua6` <sup>[如皋]</sup> ① 闲谈，聊天：说～。 ② 无作用的话。  
 1. 【[白谎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_huan.md#白谎)】`poh8 huan3` <small>/pʰɔʔ8 xuã3/<sup>如皋</sup></small> ① 当面对质，揭穿谎言。<sup>\[如皋\]</sup> ② 拆穿谎言。<sup>\[如东\]</sup>：我要当面～。也叫白是非。<sup>\[如东\]</sup>  
+1. 【[白虎星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_hv_xien.md#白虎星)】`poh8 hv3 xien1` <small>/pʰɔʔ8 fʋ3 ɕiŋ1/<sup>泰兴</sup></small> 特指迷信传说中的凶神，据说逢之不吉。<sup>\[泰兴\]</sup>：这个家伙真是白虎星下啊凡，什的坏事总做。<sup>\[泰兴\]</sup>  
+1. 【[白衣人士](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_i_ren_shr.md#白衣人士)】`poh8 i1 ren2 shr` <small>/pʰɔʔ8 ʝ1 ɻəŋ2 sɿ/<sup>泰兴</sup></small> 指平民百姓，亦指无功名无官职的士人。白衣，古代的平民服。<sup>\[泰兴\]</sup>：我是个～，不是干部。<sup>\[泰兴\]</sup>  
 1. 【[白胰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_i.md#白胰)】`poh8 i2` <sup>[如皋]</sup> 胰脏。  
+1. 【[白洋纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_ian_zhr.md#白洋纸)】`poh8 ian2 zhr3` <small>/pʰɔʔ8 iɑŋ2 t͡sɿ3/<sup>泰兴</sup></small> 白纸。<sup>\[泰兴\]</sup>  
 1. 【[白脚猫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_jiah_mo_r.md#白脚猫<sub>儿</sub>)】`poh8 jiah7 mo2 r` <sup>[如皋]</sup> 喻爱走动，坐不住的人。  
 1. 【[白僵蚕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_jian_cun.md#白僵蚕)】`poh8 jian1 cun2` <sup>[如东]</sup> 蚕蛾科昆虫家蚕蛾的幼虫感染白僵菌而僵死的干燥体。  
 1. 【[白迹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_jieh.md#白迹)】`poh8 jieh7` <sup>[如皋]</sup> 完全没有这回事。只作“推、赖”的补语：他一赖个～、一推个～。  
 1. 【[白鹡鸰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_jieh_lien.md#白鹡鸰)】`poh8 jieh7 lien2` <sup>[如东]</sup> 鸟。体长约18厘米。叫声尖亮，似“脊令”，故名。  
+1. 【[白颈项老鸹，张口就是祸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_jien_han_lo.md#白颈项老鸹，张口就是祸)】`poh8 jien3 han lo3 gua zhan1 keu3 qieu6 shr6 hu6` <small>/pʰɔʔ8 t͡ɕiŋ3 xɑŋ lɔ3 kuɑ t͡sɑŋ1 kʰəɪ3 t͡ɕʰiɤɯ1 sɿ1 xɤɯ1/<sup>泰兴</sup></small> 老鸹，乌鸦的俗称。民间传说认为其叫声不祥。喻某个人的出言吐语会给人带来不愉快或祸害。<sup>\[泰兴\]</sup>  
 1. 【[白开水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_kae_shuei.md#白开水)】`poh8 kae1 shuei3` <sup>[如东]</sup> 不加茶叶和其他东西的开水，叫做白开水。比喻酒的质量不好。这是主家的谦辞：请你来喝点儿～。  
 1. 【[白口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_keu.md#白口)】`poh8 keu3` <sup>[兴化]</sup> 只吃菜、不吃饭，也不喝酒：他～吃下去一只咸鸡子。｜他不吃饭，先～吃菜。  
 1. 【[白蜡烛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_laeh_zhoh.md#白蜡烛)】`poh8 laeh8 zhoh7` <sup>[如东]</sup> 石蜡溶化后浇铸而成，外表呈白色。用来照明。  
@@ -940,6 +946,7 @@
 1. 【[白螺蛳壳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_lu_shr_kah.md#白螺蛳壳)】`poh8 lu1 shr1 kah7` <sup>[如东]</sup> 田蜾科动物方形环棱螺或其他同属动物的陈旧螺壳。  
 1. 【[白露](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_lv.md#白露)】`poh8 lv6` 二十四节气之一，通常在9月7、8或9日。  
 1. 【[白露不露身，寒露不露顶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_lv_beh_lv_shen_hun_lv_beh_lv_dien.md#白露不露身，寒露不露顶)】`poh8 lv6 beh7 lv6 shen1 hun2 lv6 beh7 lv6 dien3` <sup>[东台]</sup> 白露后要穿长袖衣服，寒露后要戴帽子。  
+1. 【[白露菜，寒露栽，小雪挑腌菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_lv_cae_hun.md#白露菜，寒露栽，小雪挑腌菜)】`poh8 lv6 cae5 hun2 lv6 zae1 xio3 xiuh7 tio1 in1 cae5` <small>/pʰɔʔ8 lu1 t͡ɕʰiɛ5 xʊ̃2 lu1 t͡ɕiɛ1 ɕiɔ3 ɕyʊʔ7 tʰiɔ1 ĩ1 t͡ɕʰiɛ5/<sup>泰兴</sup></small> 农谚。谓冬天的腌菜最佳栽种的时节。<sup>\[泰兴\]</sup>  
 1. 【[白鹭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_lv.md#白鹭)】`poh8 lv6` <sup>[如东]</sup> 鹭科动物白鹭，也叫夜鹭。  
 1. 【[白麻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_ma_zz.md#白麻子)】`poh8 ma2 zz` <sup>[如皋]</sup> 少而浅的麻点，或指人。  
 1. 【[白蚂蝆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_ma_mi.md#白蚂蝆)】`poh8 ma3 mi3` <sup>[如皋]</sup> 白蚁。  
@@ -959,20 +966,25 @@
 1. 【[白额燕鸥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_ngeh_in_ngeu.md#白额燕鸥)】`poh8 ngeh8 in5 ngeu1` <sup>[如东]</sup> 鸥科动物白额燕鸥，体长约25厘米。前额白色。上嘴基部有一黑纹伸至眼上方，头顶至后颈黑，背、肩及二翅的表面灰色，腰灰色，尾上复羽和尾羽纯白下体纯白。眼暗褐色。嘴黄，具黑尖。脚和趾橙黄。栖息于海边和内陆江河等处，觅食小鱼、小虾等。  
 1. 【[白鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_pieh_zz.md#白鼻子)】`poh8 pieh8 zz` <sup>[如皋]</sup> 借指坏人（缘自京剧丑角脸谱）。  
 1. 【[白白净净](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_poh_qien_qien.md#白白净净)】`poh8 poh8 qien6 qien6` <sup>[泰州]</sup> “白净”的生动形式，皮肤白皙而洁净的样子：这小伙长得不丑，～的。  
+1. 【[白白净净](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_poh_qien_qien.md#白白净净)】`poh8 poh8 qien6 qien6` <small>/pʰɔʔ8 pʰɔʔ8 t͡ɕʰiŋ1 t͡ɕʰiŋ1/<sup>泰兴</sup></small> 洁白，干净。<sup>\[泰兴\]</sup>  
 1. 【[白斜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_qia.md#白斜)】`poh8 qia2` <sup>[兴化]</sup> ① 故事：说～。 ② 闲扯：两个人没事做，晒太阳，曰～。  
 1. 【[白斜斜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_qia_qia.md#白斜斜)】`poh8 qia2 qia2` <sup>[兴化]</sup> 平白无故地：今朝活倒霉，～的捱人家骗去几百块钱。  
 1. 【[白净](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_qien.md#白净)】`poh8 qien6` <sup>[如东]</sup> 色白而洁嫩：皮肤～。  
 1. 【[白净净的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_qien_qien_dii.md#白净净的)】`poh8 qien6 qien6 dii` <sup>[如皋]</sup> 状肤色白浄细匀。  
 1. 【[白<sub>儿</sub>大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_r_da.md#白<sub>儿</sub>大)】`poh8 r da5` <sup>[如皋]</sup> 见“白大”。  
 1. 【[白日闯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_rih_chuan.md#白日闯)】`poh8 rih8 chuan3` <small>/pʰɔʔ8 ɻiʔ8 t͡sʰuã3/<sup>如皋</sup></small> ① 大白天径自到人家闯骗或行窃的人。<sup>\[如皋\]</sup> ② 白天闯入人家作案的贼<sup>\[泰州\]</sup>：生人敲门不能随便开门，当心是～。<sup>\[泰州\]</sup>  
-1. 【[白日撞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_rih_chuan.md#白日撞)】`poh8 rih8 chuan6` <sup>[兴化]</sup> 小偷白天潜入人家行窍者：一个～掩进门来，见家里有人，讪讪地走了。  
+1. 【[白日撞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_rih_chuan.md#白日撞)】`poh8 rih8 chuan6` <sup>[兴化]</sup> 小偷白天潜入人家行窃者：一个～掩进门来，见家里有人，讪讪地走了。  
+1. 【[白日撞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_rih_chuan.md#白日撞)】`poh8 rih8 chuan6` <small>/pʰɔʔ8 iʔ8 t͡sʰuɑŋ1/<sup>泰兴</sup></small> 白天闯入人家作案的窃贼。<sup>\[泰兴\]</sup>：昨朝有个～被逮住了。<sup>\[泰兴\]</sup>  
 1. 【[白日皇天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_rih_huan_tin.md#白日皇天)】`poh8 rih8 huan2 tin1` <sup>[如东]</sup> 晴好的白天：～，还怕甚的！  
 1. 【[白沙糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_sha_tan.md#白沙糖)】`poh8 sha1 tan2` <sup>[如东]</sup> 禾本科植物甘蔗的茎汁，经精制而成的乳白色结晶体。也称白糖。  
 1. 【[白芍药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_shah_iah.md#白芍药)】`poh8 shah8 iah8` <sup>[如东]</sup> 毛茛科植物芍药，多年生草本。  
 1. 【[白食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_sheh.md#白食)】`poh8 sheh8` <sup>[东台]</sup> 亦称“吃白大”。  
+1. 【[白食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_sheh.md#白食)】`poh8 sheh8` <small>/pʰɔʔ8 səʔ8/<sup>泰兴</sup></small> 不出力不出钱而得到的饮食，吃白大的。<sup>\[泰兴\]</sup>：吃～的交易我不弄。<sup>\[泰兴\]</sup>  
 1. 【[白生生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_shen_shen.md#白生生)】`poh8 shen1 shen1` <sup>[兴化]</sup> 形容皮肤白暂：小韩～的脸皮子，比女伢儿还娇嫩。  
+1. 【[白身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_shen.md#白身)】`poh8 shen1` <small>/pʰɔʔ8 səŋ1/<sup>泰兴</sup></small> 未油漆的家具。<sup>\[泰兴\]</sup>  
 1. 【[白身子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_shen_zz.md#白身子)】`poh8 shen1 zz` <sup>[东台]</sup> 未上油漆的木制家具。  
 1. 【[白瘦□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_sheu_lio_lio.md#白瘦□□)】`poh8 sheu5 lio2 lio` <sup>[如东]</sup> 苍白清瘦：张三儿的脸色～的，身体不够健壮  
+1. 【[白事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_shr.md#白事)】`poh8 shr` <small>/pʰɔʔ8 sɿ/<sup>泰兴</sup></small> 丧事<sup>\[泰兴\]</sup>  
 1. 【[白事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_shr.md#白事)】`poh8 shr6` <sup>[如东]</sup> 丧事。  
 1. 【[白是非](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_shr_fei.md#白是非)】`poh8 shr6 fei1` <sup>[如东]</sup> 说明事实真相。  
 1. 【[白术](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_shueh.md#白术)】`poh8 shueh8` <sup>[如东]</sup> 菊科植物白术，多年生草本。  
@@ -992,6 +1004,7 @@
 1. 【[白铁皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_tih_pi.md#白铁皮)】`poh8 tih7 pi2` <sup>[如东]</sup> 镀锌的铁皮。  
 1. 【[白铁匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_tih_qian.md#白铁匠)】`poh8 tih7 qian` <small>/pʰɔʔ8 tʰiɪʔ7 t͡ɕʰiaŋ/<sup>兴化</sup></small> ① 用镀锌铁皮加工各种器皿的手工师傅。‖工厂也称“冷作工”。<sup>\[兴化\]</sup> ② 以镀锌铁皮为材料制作各种器物的匠人。<sup>\[泰州\]</sup>  
 1. 【[白铁匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_tih_qian.md#白铁匠)】`poh8 tih7 qian6` <sup>[东台]</sup> 为人制作修理铝、铁、锌皮制品及锡制品的工匠。  
+1. 【[白田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_tin.md#白田)】`poh8 tin2` <small>/pʰɔʔ8 tʰĩ2/<sup>泰兴</sup></small> 没有种庄稼的田地，空田。<sup>\[泰兴\]</sup>  
 1. 【[白条虾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_tio_xia.md#白条虾)】`poh8 tio2 xia1` <sup>[兴化]</sup> 一种白色的虾，体形瘦长。特点是壳软、鲜嫩，但出水即死。  
 1. 【[白掉啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_tio_a.md#白掉啊)】`poh8 tio6 a` <sup>[如皋]</sup> ① 白费了：忙吖～！ ② 说的谎话被揭穿：谎说咖～。  
 1. 【[白豌豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_un_teu.md#白豌豆)】`poh8 un1 teu6` <sup>[如东]</sup> 豆科植物豌豆的白色种子。  

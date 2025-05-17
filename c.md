@@ -1804,6 +1804,7 @@
 1. 【[鼠耗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_ho.md#鼠耗)】`chv3 ho5` <sup>[兴化]</sup> 在存放的粮食中被鼠类吃掉的部分：“……日无鸡啄之米，夜无～之粮……”（《皮五辣子》一）  
 1. 【[鼠头鼠脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_teu_chv_no.md#鼠头鼠脑)】`chv3 teu2 chv3 no3` <sup>[东台]</sup> 形容猥琐、庸俗、鬼鬼祟祟的样子。  
 1. 【[处暑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_chv.md#处暑)】`chv5 chv3` 二十四节气之一，在阳历8月22、23或24日。  
+1. 【[处暑萝卜白露菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_chv_lu_poh.md#处暑萝卜白露菜)】`chv5 chv3 lu2 poh8 poh8 lv6 cae5` <small>/t͡sʰu5 t͡sʰu3 lɤɯ2 pʰɔʔ8 pʰɔʔ8 lu1 t͡ɕʰiɛ5/<sup>泰兴</sup></small> 农谚。谓处暑、白露为萝卜青菜下种、移栽的最佳时节。<sup>\[泰兴\]</sup>  
 1. 【[憷伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_foh.md#憷伏)】`chv5 foh8` <sup>[泰州]</sup> 因为畏惧而屈服：你不要望他凶，他就～老王。  
 1. 【[憷惮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_taen.md#憷惮)】`chv5 taen6` <small>/t͡sʰu5 tʰẽ1/<sup>如皋</sup></small> ① 忌讳<sup>\[如皋\]</sup>：老人～“老”字，欢喜说“小”字。<sup>\[如皋\]</sup> ② 害怕、畏缩，不放心<sup>\[东台\]</sup>：他说人家新房子下头原来是坟墓，人家非常～。<sup>\[东台\]</sup>｜大过年的，防止说不吉利的话，叫人～。<sup>\[东台\]</sup>  
 1. 【[住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv.md#住)】`chv6` <sup>[如皋]</sup> 停止：～脚、～啊雨、～啊风。  

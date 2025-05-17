@@ -512,7 +512,7 @@
 1. 【[鲨鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_y.md#鲨鱼)】`sha1 y2` <sup>[如东]</sup> 皱唇鲨科白斑星鲨鱼，又名鲛鱼，体细长，长约60厘米。  
 1. 【[鲨鱼白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_y_poh.md#鲨鱼白)】`sha1 y2 poh8` <sup>[如东]</sup> 皱唇鲨科白斑星鲨鱼鳔。  
 1. 【[啥杲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_go_zz.md#啥杲子)】`sha2 go3 zz` <sup>[兴化]</sup> 什么东西：你手里拿的～？｜今朝吃～？  
-1. 【[蛇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha.md#蛇)】`sha2` <sup>[如东]</sup> 爬行动物，身体圆而细长，有鳞，没有四肢。种类很多，有的有毒，有的无毒。吃食青蛙等小动物，大蛇也能吞食较大的兽类。  
+1. 【[蛇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha.md#蛇)】`sha2` 蛇。  
 1. 【[蛇虫百脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_chon_boh_jiah.md#蛇虫百脚)】`sha2 chon2 boh7 jiah7` <small>/sa2 t͡sʰoŋ2 pɔʔ7 t͡ɕiaʔ7/<sup>兴化</sup></small> ① 泛指毒虫。<sup>\[如东\]</sup>：这个地方～的，细伢儿不要在这许耍子。<sup>\[如东\]</sup> ② 泛指各种毒虫。<sup>\[兴化\]</sup> ③ 泛指各种在地上爬行的毒蛇、毒虫<sup>\[泰州\]</sup>：夏天晚上在草窠里走，要当心蛇虫百脚！<sup>\[泰州\]</sup>  
 1. 【[蛇床子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_chuan_zz.md#蛇床子)】`sha2 chuan2 zz` <sup>[如东]</sup> 伞科植物蛇床，一年生草本。高约80厘米。茎直立，有纵棱。根生叶卵形，3回羽状分裂，裂片线状披针形。复伞形花序顶生或腋生。花白色。双悬果椭圆形。果实入中药。生长在草丛或田间、路旁。  
 1. 【[蛇𠞖屁眼没手抓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_gon_pi_ngaen_meh_sheu_zhua.md#蛇𠞖屁眼没手抓)】`sha2 gon1 pi5 ngaen3 meh8 sheu3 zhua1` <sup>[东台]</sup> 形容忙得不可开交。  
@@ -537,7 +537,7 @@
 1. 【[嗄巴喉咙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_ba_heu_lon.md#嗄巴喉咙)】`sha5 ba heu2 lon2-3` <sup>[东台]</sup> 嗓子沙了，嗓音嘶哑不清脆：我是～喇叭声，唱歌难听。  
 1. 【[嗄喉咙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_heu_lon.md#嗄喉咙)】`sha5 heu2 lon` <small>/sa5 xɤ2 loŋ/<sup>兴化</sup></small> 形容嗓音沙哑的人<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：来人是个～。<sup>\[兴化\]</sup>｜他是～，说话就这样子。<sup>\[泰州\]</sup>  
 1. 【[嗄翅<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_zhr_r.md#嗄翅<sub>儿</sub>)】`sha5 zhr5 r` <sup>[如皋]</sup> 原指昆虫振翅发声嘶哑。后即发声嘶哑、嗄喉咙。  
-1. 【[沙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha.md#沙)】`sha5` <small>/sa5/<sup>如皋</sup>, /sa5/<sup>泰县</sup></small> （菜）受虫咬而多孔<sup>\[如皋\]</sup><sup>\[泰县\]</sup><sup>\[东台\]</sup>：青菜～啊<sup>\[如皋\]</sup>｜这个菜～啊，买家去不好吃<sup>\[泰县\]</sup>｜菜～啊<sup>\[东台\]</sup>  
+1. 【[沙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha.md#沙)】`sha5` <small>/sa5/<sup>如皋</sup>, /sɑ5/<sup>泰兴</sup>, /sa5/<sup>泰县</sup></small> （菜）受虫咬而多孔<sup>\[如皋\]</sup><sup>\[泰县\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>：青菜～啊<sup>\[如皋\]</sup>｜这个菜～啊，买家去不好吃<sup>\[泰县\]</sup>｜菜～啊<sup>\[东台\]</sup>  
 1. 【[舍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha.md#舍)】`sha5` <sup>[东台]</sup> 原指田头小草房，后用作地名：六里～｜王家～｜西～。  
 1. 【[舍<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_r.md#舍<sub>儿</sub>)】`sha5 r` <small>/sa5 ɚ/<sup>兴化</sup>, /sa5 ɚ/<sup>泰县</sup></small> ① 见“舍子”。<sup>\[兴化\]</sup> ② 野外的小屋。<sup>\[泰县\]</sup>  
 1. 【[舍子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_zz.md#舍子)】`sha5 zz` <sup>[兴化]</sup> ① 位于村庄以外的小屋。 ② 较小的村落：张家～；李家～。也说“舍儿”。  
@@ -1282,6 +1282,7 @@
 1. 【[生菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_cae.md#生菜)】`shen1 cae5` ① 莴苣 ② 莴苣的变种，没有捏子，叶子狭长，可以做蔬菜。<sup>\[东台\]</sup>  
 1. 【[生产](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_chaen.md#生产)】`shen1 chaen3` <sup>[如东]</sup> 人们使用工具创造各种生产资料和生活资料。生孩子。  
 1. 【[生成的眉毛，长成的骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_chen_dii_mi_mo_zhan_chen_dii_gueh.md#生成的眉毛，长成的骨)】`shen1 chen2 dii mi2 mo zhan3 chen2 dii gueh7` <sup>[如皋]</sup> 天生本性难以改变。  
+1. 【[生成眉毛长成骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_chen_mei_mo.md#生成眉毛长成骨)】`shen1 chen2 mei2 mo2 zhan3 chen2 gueh7` <small>/səŋ1 t͡sʰəŋ2 məɪ2 mɔ2 t͡sɑŋ3 t͡sʰəŋ2 kuəʔ7/<sup>泰兴</sup></small> 谓已经定型，或谓天生的秉性，不可改变。<sup>\[泰兴\]</sup>  
 1. 【[生成皮毛长成骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_chen_pi_mo_zhan_chen_gueh.md#生成皮毛长成骨)】`shen1 chen2 pi2 mo2 zhan3 chen2 gueh7` <sup>[东台]</sup> ［喻］指坏东西已经发展成形，难以改变或根除。  
 1. 【[生辰八字](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_chen_baeh_cz.md#生辰八字)】`shen1 chen2 baeh7 cz` <small>/səŋ1 t͡sʰəŋ2 pæʔ7 t͡sʰɿ/<sup>泰兴</sup></small> 将人出生的年、月、日、时各配以干支，合为八字，故称。星相家据以推算人的命运的好坏。<sup>\[泰兴\]</sup>  
 1. 【[生愁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_cheu.md#生愁)】`shen1 cheu2` 唯恐，只怕<sup>\[泰州\]</sup>：他～去啊晏吖买不到，老早就去排班唻。<sup>\[泰州\]</sup>  
@@ -1299,7 +1300,7 @@
 1. 【[生荒田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_huan_tin.md#生荒田)】`shen1 huan1 tin2` <sup>[如东]</sup> 未开垦的草地。  
 1. 【[生活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_huh.md#生活)】`shen1 huh8` <sup>[如东]</sup> ① 生存。人或动物为了生存和发展而进行的各种活动。 ② 活计：做～。  
 1. 【[生意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_i.md#生意)】`shen1 i` <sup>[如东]</sup> 交易：做～。  
-1. 【[生意不在早上，只要遇到巧上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_i_beh_cae.md#生意不在早上，只要遇到巧上)】`shen1 i beh7 cae5 zo3 shan zheh7 io5 y6 do qio3 shan` <small>/səŋ1 ʝ pəʔ7 t͡ɕʰiɛ5 t͡sɔ3 sɑŋ t͡səʔ7 iɔ5 y1 tɔ t͡ɕʰiɔ3 sɑŋ/<sup>泰兴</sup></small> 谓做生意不绝对以时间迟早为条件，碰到局气、机遇也能取得成功。<sup>\[泰兴\]</sup>  
+1. 【[生意不在早上，只要遇到巧上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_i_beh_cae.md#生意不在早上，只要遇到巧上)】`shen1 i beh7 cae6 zo3 shan zheh7 io5 y6 do qio3 shan` <small>/səŋ1 ʝ pəʔ7 t͡ɕʰiɛ1 t͡sɔ3 sɑŋ t͡səʔ7 iɔ5 y1 tɔ t͡ɕʰiɔ3 sɑŋ/<sup>泰兴</sup></small> 谓做生意不绝对以时间迟早为条件，碰到局气、机遇也能取得成功。<sup>\[泰兴\]</sup>  
 1. 【[生意经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_i_jien.md#生意经)】`shen1 i jien1` <sup>[泰州]</sup> 做生意的经验、规则。  
 1. 【[生意人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_i_ren.md#生意人)】`shen1 i ren2` <small>/sən1 i lən2/<sup>兴化</sup>, /səŋ1 ʝ ɻəŋ2/<sup>如皋</sup></small> ① 买卖人、商人。<sup>\[如皋\]</sup> ② 商人。<sup>\[如东\]</sup> ③ 经商的人<sup>\[兴化\]</sup>：……见了官场说官场上的话，见了～说生意场中的话……（《官场现形记》三八）<sup>\[兴化\]</sup>  
 1. 【[生衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_i.md#生衣)】`shen1 i1` 物体表面寄生菌藻类植物<sup>\[泰州\]</sup>：这块～的咸肉不能吃，撂掉吧。<sup>\[泰州\]</sup>  

@@ -1605,7 +1605,7 @@
 1. 【[穷急负过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_jieh_fv_gu.md#穷急负过)】`qion2 jieh7 fv6 gu1-fv1` <sup>[东台]</sup> 穷困潦倒，急于吃喝或捞钱。泛指过急，以至行为莽撞的样子。也作“穷急吼吼”。  
 1. 【[穷急吼吼的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_jieh_heu_heu_dii.md#穷急吼吼的)】`qion2 jieh7 heu3 heu3 dii` <sup>[如皋]</sup> 吃相粗鄙。  
 1. 【[穷嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_jy.md#穷嘴)】`qion2 jy3` <small>/t͡ɕʰiɔŋ2 t͡ɕy3/<sup>如皋</sup>, /t͡ɕʰioŋ2 t͡ɕy3/<sup>泰县</sup></small> ① 唠叨不停。<sup>\[如皋\]</sup> ② 啰唆嘴。<sup>\[如皋\]</sup> ③ 嘴巴啰唆，唠叨。<sup>\[如皋\]</sup> ④ 啰唆：不要一天到晚～说个不停。<sup>\[泰县\]</sup> ⑤ 不停地说<sup>\[泰州\]</sup>：他到哪块都是～，听吖他一个人说。<sup>\[泰州\]</sup>  
-1. 【[穷嘴擸㒎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_jy_laeh_saeh.md#穷嘴擸㒎)】`qion2 jy3 laeh8 saeh` <sup>[泰州]</sup> 骂人放肆地絮絮叨叨说个不停：你这马马儿也是的，他倒已经不开口唻，你说两句就拉倒唻，侭吖在这块～的，烦煞咖。  
+1. 【[穷嘴擸𢶍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_jy_laeh_saeh.md#穷嘴擸𢶍)】`qion2 jy3 laeh8 saeh` <sup>[泰州]</sup> 骂人放肆地絮絮叨叨说个不停：你这马马儿也是的，他倒已经不开口唻，你说两句就拉倒唻，侭吖在这块～的，烦煞咖。  
 1. 【[穷开心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_kae_xien.md#穷开心)】`qion2 kae1 xien1` <small>/t͡ɕʰioŋ2 kʰɛ1 ɕin1/<sup>兴化</sup></small> ① 苦中作乐<sup>\[兴化\]</sup>：那年头，肚子吃不饱，还要唱歌跳舞，真是～。<sup>\[兴化\]</sup> ② 拿穷人开心<sup>\[兴化\]</sup>：“小姐可不要拿我们这样的人～”。（毕飞宇《上海往事》）<sup>\[兴化\]</sup> ③ 身处困境仍然苦中取乐<sup>\[泰州\]</sup>：下个月工资都拿不到唻，你还有心肠～。<sup>\[泰州\]</sup>  
 1. 【[穷快活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_kuae_huh.md#穷快活)】`qion2 kuae5 huh` <sup>[泰州]</sup> 在处境困难时仍然自得其乐。  
 1. 【[穷快活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_kuae_huh.md#穷快活)】`qion2 kuae5 huh8` <sup>[兴化]</sup> 在困境中仍然寻欢作乐：你覅～吧，先把儿子的学费愁愁！‖也作“穷欢妗”。  

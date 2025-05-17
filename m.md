@@ -730,8 +730,8 @@
 1. 【[没戏唱吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_xi_chan_nga.md#没戏唱吖)】`meh8 xi5 chan5 nga` <sup>[如皋]</sup> 喻关键处活动中止，他家老头儿一死，全家就～。  
 1. 【[没霞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_xia.md#没霞)】`meh8 xia2` <sup>[兴化]</sup> 没什么了不起：那个饭店装璜不丑，其实酒菜、服务也～。‖也说“没霞光”。  
 1. 【[没（得）下落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_xia_lah.md#没（得）下落)】`meh8 xia6 lah8` <sup>[如皋]</sup> 未曾找到。  
-1. 【[没想干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_xian_gun.md#没想干)】`meh8 xian1 gun1` <sup>[泰州]</sup> 相互之间没有关联：遇到这些～的事情，你让吖远吖点儿。  
 1. 【[没相干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_xian_gun.md#没相干)】`meh8 xian1 gun1` <small>/məʔ8 ɕiaŋ1 kũ1/<sup>兴化</sup></small> ① 没有关系。<sup>\[如东\]</sup>：这件事跟他～。<sup>\[如东\]</sup> ② 没有结果。<sup>\[如东\]</sup>：去啊几次都是～。<sup>\[如东\]</sup> ③ 互相之间没有关连<sup>\[兴化\]</sup>：与你～的事少管为好。<sup>\[兴化\]</sup>｜所以富时也不来劝戒，穷时也不来资助，只像～的一般。（《二刻》二二）<sup>\[兴化\]</sup>  
+1. 【[没相干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_xian_gun.md#没相干)】`meh8 xian1 gun1` <sup>[泰州]</sup> 相互之间没有关联：遇到这些～的事情，你让吖远吖点儿。  
 1. 【[没相管](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_xian_gun.md#没相管)】`meh8 xian1 gun3` <small>/məʔ8 ɕiã1 kʊ̃3/<sup>如皋</sup>, /məʔ8 ɕiɑŋ1 kõ3/<sup>泰县</sup></small> ① 所传无据，不可信。<sup>\[如皋\]</sup> ② 胡来：你不要做～的事。<sup>\[如皋\]</sup> ③ 不可靠：他做事～，不要指望他。<sup>\[如皋\]</sup> ④ 不相关，无所谓。<sup>\[泰县\]</sup>  
 1. 【[没相管](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_xian_gun.md#没相管)】`meh8 xian5 gun3` <sup>[东台]</sup> ① 没有这回事。 ② 不正规，不上档次。  
 1. 【[没心肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_xien_chan.md#没心肠)】`meh8 xien1 chan2` <sup>[泰州]</sup> 没有心情去做某事：儿子大事不曾办，她～陪你出去旅游。  

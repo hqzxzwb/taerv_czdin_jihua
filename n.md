@@ -864,6 +864,7 @@
 1. 【[硬橛橛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_jiuh_jiuh.md#硬橛橛)】`ngen6 jiuh7 jiuh7` <sup>[兴化]</sup> ① 形容挺硬：旧棉衣穿吖身上～的。 ② 僵硬：那邓九公直喝的眼睛有些粘糊糊的，舌头有些～的了（《儿女英雄传》三二）  
 1. 【[硬嘴桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_jy_qio.md#硬嘴桥)】`ngen6 jy3 qio2` <sup>[东台]</sup> 讽喻小孩子不肯叫人：你是～出来的，遇到长辈都不肯问好。  
 1. 【[硬蹫蹫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_jyeh_jyeh.md#硬蹫蹫)】`ngen6 jyeh7 jyeh7` <sup>[东台]</sup> ① 形容很硬（含厌恶意）。 ② 形容态度生硬。  
+1. 【[硬蹫蹫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_jyeh_jyeh.md#硬蹫蹫)】`ngen6 jyeh7 jyeh7` <sup>[泰州]</sup> 条状物体坚硬微带上翘的样子：这几条风干的咸猪尾巴～的。  
 1. 【[硬蹫蹫的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_jyeh_jyeh_dii.md#硬蹫蹫的)】`ngen6 jyeh7 jyeh7 dii` <sup>[如皋]</sup> 硬挺的样子：挂啊钩子上的湿手巾捱冻得～的，活像个鱼干儿｜皮球打足咖气，～。  
 1. 【[硬抲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_ka.md#硬抲)】`ngen6 ka1` <small>/ən6 kʰa1/<sup>兴化</sup>, /əŋ1 kʰa1/<sup>泰县</sup></small> ① 硬塞<sup>\[兴化\]</sup>：硬面的馒头吃不下去就～。<sup>\[兴化\]</sup> ② 用力塞进；这门你不要～。<sup>\[泰县\]</sup>  
 1. 【[硬跍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_kv.md#硬跍)】`ngen6 kv1` <sup>[如皋]</sup> ① 硬性要求，不达目的不止。 ② 连鞋袜在泥水之中走，毫不爱惜。  
@@ -910,7 +911,6 @@
 1. 【[硬吱吱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_zhr_zhr.md#硬吱吱)】`ngen6 zhr1 zhr1` <sup>[兴化]</sup> 带强制性的：过去托私盐的，不管你要不要，～的丢下来就跑。  
 1. 【[硬志志](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_zhr_zhr.md#硬志志)】`ngen6 zhr5 zhr5` <sup>[如东]</sup> 坚定不移：～的要去。  
 1. 【[硬至至的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_zhr_zhr_dii.md#硬至至的)】`ngen6 zhr5 zhr5 dii` <small>/ŋəŋ1 t͡sɿ5 t͡sɿ5 tei/<sup>如皋</sup></small> ① 过分任性地：他在家里～作操你。<sup>\[如皋\]</sup> ② 见“活剥剥的”。<sup>\[如皋\]</sup>  
-1. 【[硬蹫蹫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_jyeh_jyeh.md#硬蹫蹫)】`ngen7 jyeh7 jyeh7` <sup>[泰州]</sup> 条状物体坚硬微带上翘的样子：这几条风干的咸猪尾巴～的。  
 1. 【[剾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu.md#剾)】`ngeu1` <sup>[泰州]</sup> （用手指）剜出：脸上捱她～啊几道杠。｜身上皮都捱她～掉啊。  
 1. 【[剾心挖颡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_xien_vaeh_san.md#剾心挖颡)】`ngeu1 xien1 vaeh7 san3` <sup>[泰州]</sup> 抠出心脏，挖空脑袋，喻指费尽心机：处长的人选上头已经定吖唻，你再怎吖～找人也没得用。｜他手头才有点儿小权，就～的想主意捞钱。  
 1. 【[怄抠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_keu.md#怄抠)】`ngeu1 keu1` 为自己的付出未得到回报而生气后悔，懊恼<sup>\[泰州\]</sup>：当初恨不得把心都掏啊把他，现在他对待我这吖无情，我心里真的是越想越～。<sup>\[泰州\]</sup>  
