@@ -1964,4 +1964,5 @@
 1. 【[笋衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyen_i.md#笋衣)】`xyen3 i1` <sup>[如皋]</sup> 竹笋的包，其内层嫩者可食。  
 1. 【[笋鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyen_ji.md#笋鸡)】`xyen3 ji1` <sup>[东台]</sup> 一二斤重，还未啼叫的小公鸡。因其肉嫩鲜美，故名。  
 1. 【[笋鸡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyen_ji_r.md#笋鸡<sub>儿</sub>)】`xyen3 ji1 r` <sup>[如皋]</sup> 童子鸡、小公鸡。  
+1. 【[训](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyen.md#训)】`xyen5` <small>/ɕyəŋ5/<sup>泰兴</sup></small> 教诲，教训，教导；训斥，批评。<sup>\[泰兴\]</sup>  
 **[▲](#音序检索)**  

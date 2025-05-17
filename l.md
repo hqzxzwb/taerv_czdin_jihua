@@ -339,7 +339,7 @@
 1. 【[邋遢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_taeh.md#邋遢)】`laeh8 taeh7` <small>/næʔ8 tʰæʔ7/<sup>泰县</sup></small> ① 不整洁；肮脏<sup>\[东台\]</sup>：～鬼。<sup>\[东台\]</sup> ② ［喻］矛盾多<sup>\[东台\]</sup>：处理～事。<sup>\[东台\]</sup> ③ 不清洁<sup>\[泰县\]</sup>：这个人家比较～。<sup>\[泰县\]</sup>  
 1. 【[邋遢胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_taeh_hv_zz.md#邋遢胡子)】`laeh8 taeh7 hv2 zz` <small>/læʔ8 tʰæʔ7 xu2 t͡sɿ/<sup>兴化</sup></small> ① 络腮胡子。<sup>\[东台\]</sup> ② 络腮胡子<sup>\[兴化\]</sup>：他一嘴的～。<sup>\[兴化\]</sup>  
 1. 【[䆾䆱铺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_taen_pv.md#䆾䆱铺)】`laen2 taen2 pv5` <sup>[兴化]</sup> 特宽大，可睡多人的床铺：这次下乡走亲戚，到的人多，睡的～。䆾，《广韵·谈韵》鲁甘切，～薄大。䆱，他甘切。‖讹称“蛮摊铺”。  
-1. 【[兰花瓣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_hua_baen_r.md#兰花瓣<sub>儿</sub>)】`laen2 hua1 baen5 r` <small>/lẽ2 xua1 pe˞5/<sup>如皋</sup></small> ① 油炸蚕豆瓣儿。<sup>\[如皋\]</sup> ② 油炸的蚕豆瓣。<sup>\[东台\]</sup>  
+1. 【[兰花瓣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_hua_baen_r.md#兰花瓣<sub>儿</sub>)】`laen2 hua1 baen5 r` <small>/lẽ2 xua1 pe˞5/<sup>如皋</sup>, /lɛ̃2 xuɑ1 pɛ˞5/<sup>泰兴</sup></small> 油炸蚕豆瓣儿。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[兰花瓣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_hua_baen_zz.md#兰花瓣子)】`laen2 hua1 baen5 zz` <sup>[兴化]</sup> 油炸蚕豆，其豆壳开裂，以形似命名。  
 1. 【[兰花干子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_hua_gun_zz.md#兰花干子)】`laen2 hua1 gun1 zz` <sup>[泰州]</sup> 泰州特有的一种豆腐干，原料干子白色，长约20厘米，宽约7厘米，厚与回卤干子略同，将干子两边斜剪若干穗状，保持干子连而不断，放至油中炸得焦黄以后，捞至至杂有豆芽、海带的汤中煮透，食同回卤干子。  
 1. 【[拦河网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_hu_van.md#拦河网)】`laen2 hu2 van3` <sup>[如皋]</sup> 连接河两岸的大渔网。  
@@ -939,7 +939,8 @@
 1. 【[礼拜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_bae.md#礼拜)】`li3 bae` <sup>[泰兴]</sup> 星期。时间为七天。（原文词条“一个礼拜”）  
 1. 【[礼拜花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_bae_hua.md#礼拜花)】`li3 bae5 hua1` <sup>[如皋]</sup> 学名半枝莲，叉名洋马齿苋。  
 1. 【[礼多人不怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_du_ren_beh_guae.md#礼多人不怪)】`li3 du1 ren2 beh7 guae5` <small>/ləi3 to1 lən2 pəʔ7 kuɛ5/<sup>兴化</sup></small> ① （俗语）讲礼节多多益善，是不会有人怪罪的。<sup>\[东台\]</sup> ② 指礼数周到，总可取悦别人。<sup>\[兴化\]</sup>：谚曰：～，油多没坏菜。<sup>\[兴化\]</sup>  
-1. 【[礼多人不怪，油多不坏菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_du_ren_beh_guae_ieu_du_beh_huae_cae.md#礼多人不怪，油多不坏菜)】`li3 du1 ren2 beh7 guae5 ieu2 du1 beh7 huae6 cae5` <sup>[东台]</sup> 文明礼貌多多益善，后半句有片面性。  
+1. 【[礼多人不怪，油多不坏菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_du_ren_beh_guae_ieu_du_beh_huae_cae.md#礼多人不怪，油多不坏菜)】`li3 du1 ren2 beh7 guae5 ieu2 du1 beh7 huae6 cae5` <small>/lʝ3 tɤɯ1 ɻəŋ2 pəʔ7 kuɛ5 iɤɯ2 tɤɯ1 pəʔ7 xuɛ1 t͡ɕʰiɛ5/<sup>泰兴</sup></small> ① 文明礼貌多多益善，后半句有片面性。<sup>\[东台\]</sup> ② 讲究礼节是不会受人责的。<sup>\[泰兴\]</sup>  
+1. 【[礼分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_fen.md#礼分)】`li3 fen` <small>/lʝ3 fəŋ/<sup>泰兴</sup></small> 辈分。<sup>\[泰兴\]</sup>  
 1. 【[礼盒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_huh.md#礼盒)】`li3 huh8` <sup>[兴化]</sup> 旧时送节礼、圆礼等用的担盒，有提梁，一般由人抬。也称“拜盒”。  
 1. 【[礼律](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_lieh.md#礼律)】`li3 lieh8` <sup>[如东]</sup> ① 能以规矩约束自己。 ② 客气：这个人～。  
 1. 【[礼帽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_mo.md#礼帽)】`li3 mo6` <sup>[如东]</sup> 用羊毛毡精制而成，圆桶形，四边有沿。  
@@ -1125,6 +1126,7 @@
 1. 【[立字据](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_cz_jy.md#立字据)】`lieh8 cz6 jy5` <sup>[东台]</sup> 写下字据：口说无凭，立字为据。  
 1. 【[立等可取](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_den_ku_qy.md#立等可取)】`lieh8 den3 ku3 qy3` <sup>[东台]</sup> 服务行业招徕顾客的一种承诺，意思是很快就能办好。  
 1. 【[立冬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_don.md#立冬)】`lieh8 don1` 二十四节气之一，通常在11月7日或8日。  
+1. 【[立冬种晚麦，小雪住犁耙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_don_zhon_vaen.md#立冬种晚麦，小雪住犁耙)】`lieh8 don1 zhon5 vaen3 moh8 xio3 xiuh7 chv6 li2 pa` <small>/liʔ8 tɔŋ1 t͡sɔŋ5 ʋɛ̃3 mɔʔ8 ɕiɔ3 ɕyʊʔ7 t͡sʰu1 lʝ2 pʰɑ/<sup>泰兴</sup></small> 农谚。谓立冬种麦已经晚了，到了小雪节气就不可再种了。<sup>\[泰兴\]</sup>  
 1. 【[立房约<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_fan_iah_r.md#立房约<sub>儿</sub>)】`lieh8 fan2 iah7 r` <sup>[如皋]</sup> 写租房契约，付租金，并交接成立。  
 1. 【[立马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_ma.md#立马)】`lieh8 ma3` <sup>[东台]</sup> 立即，马上。  
 1. 【[立秋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_qieu.md#立秋)】`lieh8 qieu1` 二十四节气之一，通常在8月7日或8日。  
@@ -1134,7 +1136,9 @@
 1. 【[立瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_va.md#立瓦)】`lieh8 va3` <sup>[如皋]</sup> 屋面盖瓦富裕像是竖立着盖的。  
 1. 【[立夏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_xia.md#立夏)】`lieh8 xia6` <sup>[东台]</sup> 二十四节气之一，通常在5月5日或6日。  
 1. 【[立夏节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_xia_jih.md#立夏节)】`lieh8 xia6 jih7` <sup>[如东]</sup> 立夏日。民间有吃鸡蛋、秤体重的习俗，祝愿不疰夏。  
-1. 【[立夏十八朝，家家动担挑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_xia_sheh_baeh_zho_ga_ga_ton_daen_tio.md#立夏十八朝，家家动担挑)】`lieh8 xia6 sheh8 baeh7 zho1 ga1 ga1 ton6 daen5 tio1` <sup>[如皋]</sup> 立夏十八天后，可大面积收麦、豆（大麦、元麦）。  
+1. 【[立夏两边豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_xia_laen_bin.md#立夏两边豆)】`lieh8 xia6 laen3 bin1 teu6` <small>/liʔ8 ɕiɑ1 lɛ̃3 pĩ1 tʰəɪ1/<sup>泰兴</sup></small> 农谚。谓立夏前后，栽瓜种豆。<sup>\[泰兴\]</sup>  
+1. 【[立夏十八朝，家家动担挑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_xia_sheh_baeh.md#立夏十八朝，家家动担挑)】`lieh8 xia6 sheh8 baeh7 zho1 ga1 ga1 ton6 daen5 tio1` <sup>[如皋]</sup> 立夏十八天后，可大面积收麦、豆（大麦、元麦）。  
+1. 【[立夏十，当头勒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_xia_sheh_dan.md#立夏十，当头勒)】`lieh8 xia6 sheh8 dan1 teu2 leh8` <small>/liʔ8 ɕiɑ1 səʔ8 tɑŋ1 tʰəɪ2 ləʔ8/<sup>泰兴</sup></small> 农谚。谓立夏以后时间不长，麦子就将成熟，应做好收获的各项准备工作。<sup>\[泰兴\]</sup>  
 1. 【[立线](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_xin.md#立线)】`lieh8 xin5` <sup>[如东]</sup> 工匠测量建筑物垂直线的一种方法。  
 1. 【[立锥之地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_zhuei_zhr_ti.md#立锥之地)】`lieh8 zhuei1 zhr1 ti6` <sup>[东台]</sup> 极言地方之小：解放前，他家很穷，真是上无片瓦，下无～。  
 1. 【[粒米度三光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_mi_tv_saen_guan.md#粒米度三光)】`lieh8 mi3 tv6 saen1 guan1` <sup>[东台]</sup> （俗语）极言粮食之少尚能度过艰难的岁月，要求人们克勤克俭，杜绝奢侈。  

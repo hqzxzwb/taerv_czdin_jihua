@@ -1808,6 +1808,7 @@
 1. 【[闪筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shin_jien.md#闪筋)】`shin3 jien1` <sup>[如东]</sup> 筋骨扭伤。  
 1. 【[闪吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shin_nga.md#闪吖)】`shin3 nga` <sup>[泰县]</sup> 扭伤：脚～。  
 1. 【[闪吖腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shin_nga_io.md#闪吖腰)】`shin3 nga io1` <sup>[东台]</sup> 因动作过猛，或受外力冲击腰部筋肉受伤而疼痛。  
+1. 【[闪舌头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shin_shih_teu.md#闪舌头)】`shin3 shih8 teu2` <small>/ɕĩ3 ɕiʔ8 tʰəɪ2/<sup>泰兴</sup></small> 嘲笑人说话伤着舌头。多作对他人语言的反驳语。<sup>\[泰兴\]</sup>  
 1. 【[扇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shin.md#扇)】`shin5` <sup>[泰州]</sup> 量词，用于门、窗、板等厂房且扁的物体：卸掉一～门，才把东西搭进去啊。  
 1. 【[扇贝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shin_bei.md#扇贝)】`shin5 bei5` <sup>[东台]</sup> 软体动物，壳略作扇形，是一种珍贵的海产食品。  
 1. 【[扇子面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shin_zz_min.md#扇子面)】`shin5 zz min6` <sup>[兴化]</sup> 像折扇打开时的半圆形。  

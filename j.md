@@ -180,7 +180,7 @@
 1. 【[记号](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ho.md#记号)】`ji5 ho6` 为引起注意、帮助识别、记忆而做的标志<sup>\[泰州\]</sup>：他在书上看不懂的地方都做啊～。<sup>\[泰州\]</sup>  
 1. 【[记怀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_huae.md#记怀)】`ji5 huae2` <sup>[如东]</sup> 记在心中。  
 1. 【[记认](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ren.md#记认)】`ji5 ren6` <sup>[兴化]</sup> 记住便于识别的标志：这一片家家房子差不多，不好～。  
-1. 【[记识](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_sheh.md#记识)】`ji5 sheh7` <small>/t͡ɕʝ5 səʔ7/<sup>如皋</sup></small> ① 记号，标志，标记 ② 记号、印记<sup>\[如皋\]</sup>：这只碗是我家的，这里有块～。<sup>\[如皋\]</sup>  
+1. 【[记识](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_sheh.md#记识)】`ji5 sheh7` <small>/t͡ɕʝ5 səʔ7/<sup>如皋</sup>, /t͡ɕʝ5 səʔ7/<sup>泰兴</sup></small> ① 记号，标志，标记 ② 记号、印记<sup>\[如皋\]</sup>：这只碗是我家的，这里有块～。<sup>\[如皋\]</sup> ③ 指可引起回忆的标志、标记、印码。<sup>\[泰兴\]</sup>：你在箇许做个～，下次就晓得咖lo<sup>\[泰兴\]</sup>  
 1. 【[记性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_xien.md#记性)】`ji5 xien5` <small>/t͡ɕʝ5 ɕiəŋ5/<sup>如皋</sup></small> ① 记忆能力。<sup>\[如东\]</sup>：～好。<sup>\[如东\]</sup> ② 记忆力。<sup>\[如皋\]</sup>  
 1. 【[记憎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zen.md#记憎)】`ji5 zen` <small>/t͡ɕi5 t͡sən/<sup>兴化</sup>, /t͡sɿ5 t͡səŋ/<sup>泰县</sup></small> ① 把别人的不是处记在心中<sup>\[兴化\]</sup>：大舅不是有意为难你，你覅～他。<sup>\[兴化\]</sup> ② 记仇<sup>\[泰县\]</sup><sup>\[泰州\]</sup>：这件事你不必～。<sup>\[泰县\]</sup>｜老吴就这高头好，随便怎吖吵，事情过啊就拉倒，不～人。<sup>\[泰州\]</sup>｜他就是这种人，你今吖得罪啊他，有得～你唻。<sup>\[泰州\]</sup>  
 1. 【[记争](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zhen.md#记争)】`ji5 zhen` <sup>[如皋]</sup> 记怀，不满：你不要～他，他不懂事。  
