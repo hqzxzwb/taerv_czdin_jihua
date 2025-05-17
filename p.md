@@ -990,10 +990,12 @@
 1. 【[白术](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_shueh.md#白术)】`poh8 shueh8` <sup>[如东]</sup> 菊科植物白术，多年生草本。  
 1. 【[白术苗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_shueh_mio.md#白术苗)】`poh8 shueh8 mio2` <sup>[如东]</sup> 菊科植物白术苗叶。  
 1. 【[白水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_shuei.md#白水)】`poh8 shuei3` <sup>[如皋]</sup> 清汤煮：煨～肉。  
+1. 【[白水煠蛤蟆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_shuei_shaeh_ha.md#白水煠蛤蟆)】`poh8 shuei3 shaeh8 ha2 ma2` <small>/pʰɔʔ8 suəɪ3 ɕiæʔ8 xɑ2 mɑ2/<sup>泰兴</sup></small> 谓没有油水的菜肴，只用清水煮的菜肴。<sup>\[泰兴\]</sup>  
 1. 【[白水虾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_shuei_xia.md#白水虾)】`poh8 shuei3 xia1` <sup>[如东]</sup> 长臂虾科动物脊尾白虾，体长5-9厘米。额角侧扁细长，上下缘均具锯齿，下缘具3-6枚。尾节末端尖细，呈刺状。体色透明，微带蓝色或红色小斑点腹部各节后缘颜色较深。死后体呈白色。生活在泥沙底浅海水域。肉质鲜美，营养丰富。  
 1. 【[白苏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_sv.md#白苏)】`poh8 sv1` <sup>[如东]</sup> 唇形科植物白苏，一年生草本。  
 1. 【[白苏头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_sv_teu.md#白苏头)】`poh8 sv1 teu2` <sup>[如东]</sup> 唇形科植物白苏根及近根的老茎。  
 1. 【[白苏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_sv_zz.md#白苏子)】`poh8 sv1 zz3` <sup>[如东]</sup> 唇形科植物白苏的果实。  
+1. 【[白䲉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_sz.md#白䲉)】`poh8 sz1` <small>/pʰɔʔ8 sɿ1/<sup>泰兴</sup></small> 翘嘴白鱼。《泰兴方言辞典》载“一种高档鱼。其味鲜美，肉细嫩”。<sup>\[泰兴\]</sup>  
 1. 【[白塌塌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_taeh_taeh.md#白塌塌)】`poh8 taeh7 taeh7` <sup>[泰县]</sup> 有点儿白的样子：墙壁～的。  
 1. 【[白汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_tan.md#白汤)】`poh8 tan1` <sup>[如皋]</sup> 清水煮，不加色素：～鸡、～肉。  
 1. 【[白汤面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_tan_min.md#白汤面)】`poh8 tan1 min6` <sup>[兴化]</sup> 以荤汤为汤料的面条，只放盐，不放酱油。  
@@ -1009,7 +1011,7 @@
 1. 【[白掉啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_tio_a.md#白掉啊)】`poh8 tio6 a` <sup>[如皋]</sup> ① 白费了：忙吖～！ ② 说的谎话被揭穿：谎说咖～。  
 1. 【[白豌豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_un_teu.md#白豌豆)】`poh8 un1 teu6` <sup>[如东]</sup> 豆科植物豌豆的白色种子。  
 1. 【[白案](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_un.md#白案)】`poh8 un5` <sup>[如东]</sup> 点心：卖～。  
-1. 【[白喜事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_xi_shr.md#白喜事)】`poh8 xi3 shr6` <sup>[如皋]</sup> 高寿者寿终正容的丧葬礼仪。  
+1. 【[白喜事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_xi_shr.md#白喜事)】`poh8 xi3 shr6` <small>/pʰɔʔ8 ɕʝ3 sɿ1/<sup>如皋</sup></small> 高寿者寿终正寝的丧葬礼仪。<sup>\[如皋\]</sup>  
 1. 【[白孝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_xio.md#白孝)】`poh8 xio5` <sup>[如皋]</sup> 苍白无血色。  
 1. 【[白胸苦恶鸟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_xion_kv_ngah_nio.md#白胸苦恶鸟)】`poh8 xion1 kv3 ngah7 nio3` <sup>[如东]</sup> 鸟。背部羽毛茶褐色，前胸、头侧、胸腹、腿纯白色。尾下黄褐色。翼短，飞翔力弱。常在水田、河滨觅食虫、螺或种子。叫声作“苦恶、苦恶”，故名。  
 1. 【[白鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_y.md#白鱼)】`poh8 y2` 俗称鱎鱼，头尾微微上翘，游泳迅速，凶猛善跳，以小鱼、昆虫为食，以其通体洁白而名，肉质白而细嫩，滋味美而不腥。<sup>\[泰州\]</sup>  

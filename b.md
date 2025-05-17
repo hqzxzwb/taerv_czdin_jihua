@@ -1330,12 +1330,14 @@
 1. 【[嫑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio.md#嫑)】`bio5` “不要”的合音  
 1. 【[包爿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_baen.md#包爿)】`bo1 baen1` <sup>[泰州]</sup> 旧时妇女做鞋底的材料，将面糊刷在蒲席上，两边贴上废纸晾干即成，因其似爿用布包裹，故名：糊～  
 1. 【[包菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_cae.md#包菜)】`bo1 cae5` <sup>[如皋]</sup> 卷心菜  
-1. 【[包打听](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_da_tien.md#包打听)】`bo1 da3 tien` ① 知道消息多的人。<sup>\[如东\]</sup>：你去问他，他是个～。<sup>\[如东\]</sup> ② 好打听消息的人。<sup>\[如东\]</sup> ③ 旧时巡捕房的侦探，现戏称好打听消息的人<sup>\[东台\]</sup>：他是个～，甚的事情他都晓得。<sup>\[东台\]</sup>  
+1. 【[包打听](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_da_tien.md#包打听)】`bo1 da3 tien` <small>/pɔ1 tɑ3 tʰiŋ/<sup>泰兴</sup></small> ① 知道消息多的人。<sup>\[如东\]</sup>：你去问他，他是个～。<sup>\[如东\]</sup> ② 好打听消息的人。<sup>\[如东\]</sup> ③ 旧时巡捕房的侦探，现戏称好打听消息的人<sup>\[东台\]</sup>：他是个～，甚的事情他都晓得。<sup>\[东台\]</sup> ④ 探子，特务。亦戏称好打昕消息或消息知道得多的人。<sup>\[泰兴\]</sup>：你是个包打听，什的事总晓得。<sup>\[泰兴\]</sup>  
 1. 【[包打听](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_da_tien.md#包打听)】`bo1 da3 tien5` <small>/pɔ1 ta3 tʰiɪ̃5/<sup>兴化</sup></small> ① （喻）爱听小道新闻，窥探他人隐私的人。<sup>\[兴化\]</sup> ② 喜好打探他人隐私并且知道情况多的人<sup>\[泰州\]</sup>：这小伙是个～，哪家的情况都瞒不了他。<sup>\[泰州\]</sup>  
 1. 【[包饭作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_faen_zah.md#包饭作)】`bo1 faen6 zah7` <sup>[兴化]</sup> 旧时只承包伙食而不设门市的饭店：以前，府前街的经济饭店就是～。  
 1. 【[包袱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_foh.md#包袱)】`bo1 foh` <sup>[泰州]</sup> ① 用包包裹衣物打成的包：衣裳都在～里。 ② 用来包裹衣服的方布块：把这几样东西用～包起来。  
+1. 【[包工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_gon.md#包工)】`bo1 gon1` <small>/pɔ1 kɔŋ1/<sup>泰兴</sup></small> 按规定的要求和期限完成某项生产任务；按完成的工作量计算工资。与“日工”相对。<sup>\[泰兴\]</sup>  
 1. 【[包伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_hu.md#包伙)】`bo1 hu3` <sup>[如东]</sup> 包饭。  
 1. 【[包荒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_huan.md#包荒)】`bo1 huan1` <sup>[兴化]</sup> 请人包涵、原谅：（月航）扑通向婆子身边一跪，低低央告道｜“总求太太～则个！”（《广陵潮》六六）  
+1. 【[包圆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_iun_zz.md#包圆子)】`bo1 iun2 zz` <small>/pɔ1 yʊ̃2 t͡sɿ/<sup>泰兴</sup></small> 包汤圆；有馅儿的汤圆。<sup>\[泰兴\]</sup>  
 1. 【[包脚布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_jiah_bv.md#包脚布)】`bo1 jiah7 bv5` <small>/pɔ1 t͡ɕiaʔ7 pu5/<sup>如皋</sup></small> ① 旧时男子穿布袜，先将脚包裹起来的白布，叫包脚布。<sup>\[如东\]</sup> ② 旧时男子穿布袜，先行包脚的方形白布。<sup>\[如皋\]</sup>  
 1. 【[包浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_jian.md#包浆)】`bo1 jian1` <sup>[泰州]</sup> 裹在物体表面的浆皮，尤其指古物表面经过长期使用、抚摩形成的表层皮壳：这张大桌子的～有啊年代唻。  
 1. 【[包饺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_jio_r.md#包饺<sub>儿</sub>)】`bo1 jio3 r` <sup>[如东]</sup> ① 用面皮把馅儿包起来，称包饺子。 ② 比喻遭受对方包抄。  
@@ -1347,9 +1349,10 @@
 1. 【[包<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_r.md#包<sub>儿</sub>)】`bo1 r` <sup>[如东]</sup> 包子。一种面食。似馒头，里面有馅儿。  
 1. 【[包山到顶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_shaen_do_dien.md#包山到顶)】`bo1 shaen1 do5 dien3` <sup>[东台]</sup> 旧式民房两山墙全部用砖头砌到顶，在当时比芦柴壁帐泥壁优越得多：几十年前他家房子～，我俫交关羡慕。  
 1. 【[包生完](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_shen_un.md#包生完)】`bo1 shen1 un2` <sup>[东台]</sup> （詈语）吃光用光：你这个～，把老子的老本都败掉啊。  
-1. 【[包头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_teu.md#包头)】`bo1 teu2` <small>/pɔ1 tʰei2/<sup>如皋</sup></small> ① 帆船的第三舱。是储存盐的舱室。<sup>\[如东\]</sup> ② 男发式之一。额、鬓发向后梳，包住头部。<sup>\[如皋\]</sup>  
+1. 【[包头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_teu.md#包头)】`bo1 teu2` <small>/pɔ1 tʰei2/<sup>如皋</sup>, /pɔ1 tʰəɪ2/<sup>泰兴</sup></small> ① 帆船的第三舱。是储存盐的舱室。<sup>\[如东\]</sup> ② 男发式之一。额、鬓发向后梳，包住头部。<sup>\[如皋\]</sup> ③ 乡人亦称扎头布；包头的布<sup>\[泰兴\]</sup> ④ 负责承包某项工程的工头<sup>\[泰兴\]</sup>  
 1. 【[包头菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_teu_cae.md#包头菜)】`bo1 teu2 cae5` <sup>[泰州]</sup> 甘蓝：炒～要多放油。  
 1. 【[包头戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_teu_xi.md#包头戏)】`bo1 teu2 xi5` <sup>[东台]</sup> 原指戏文中头部裏布的角色，后戏称头部受伤包扎之状。  
+1. 【[包肚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_tv.md#包肚)】`bo1 tv6` <small>/pɔ1 tʰu1/<sup>泰兴</sup></small> 某些食品的内馅。<sup>\[泰兴\]</sup>：箇顿扁食不丑，就是～咸吖点儿。<sup>\[泰兴\]</sup>  
 1. 【[包喜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_xi.md#包喜)】`bo1 xi3` <small>/pɔ1 ɕi3/<sup>兴化</sup></small> ① 红包中的一种。<sup>\[东台\]</sup> ② 逢年过节长辈给晚辈的贺喜钱。<sup>\[东台\]</sup> ③ 在婚丧喜庆（包括建房、乔迁等大事）中亲友出的人情或主人给有关人员的酬谢金。<sup>\[东台\]</sup> ④ 逢喜事或年节赠给晚辈的红纸钱包。也说“喜封儿”。<sup>\[兴化\]</sup>  
 1. 【[包心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_xien.md#包心)】`bo1 xien1` <sup>[泰县]</sup> 馅。  
 1. 【[包芯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_xien.md#包芯)】`bo1 xien1` <sup>[如东]</sup> 点心里的馅儿，包括菜、糖、豆沙、肉泥等。  

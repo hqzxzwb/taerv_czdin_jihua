@@ -1217,21 +1217,28 @@
 1. 【[个数个的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_shv_gu_dii.md#个数个的)】`gu9 shv5 gu9 dii` <sup>[如皋]</sup> 一个一个的。“个”有变调。  
 1. 【[呱里呱啦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_lii_gua_la.md#呱里呱啦)】`gua1 lii gua1 la1` <sup>[兴化]</sup> 形容人言语过多：他一天到晚～的。  
 1. 【[瓜菜萝卜行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_cae_lu_poh_han.md#瓜菜萝卜行)】`gua1 cae5 lu2 poh han2` <sup>[如皋]</sup> 经营瓜菜萝卜等的商行。  
+1. 【[瓜搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_daeh.md#瓜搭)】`gua1 daeh` <small>/kuɑ1 tæʔ/<sup>泰兴</sup></small> 勾搭，牵连。<sup>\[泰兴\]</sup>：我同他没得任何～<sup>\[泰兴\]</sup>  
 1. 【[瓜瓜亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_gua_qien.md#瓜瓜亲)】`gua1 gua1 qien` <sup>[兴化]</sup> 远亲。《诗·大雅》：“绵绵瓜瓞。”朱熹集传：“瓜之近本初生者常小，其蔓不绝……”：他是我表侄的连襟，有一点～  
 1. 【[瓜瓜<sub>儿</sub>亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_gua_r_qien.md#瓜瓜<sub>儿</sub>亲)】`gua1 gua1 r qien1` <sup>[泰县]</sup> 远亲：我跟他有点儿～。  
 1. 【[瓜干酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_gun_jieu.md#瓜干酒)】`gua1 gun1 jieu3` <sup>[兴化]</sup> 即薯干酒。  
+1. 【[瓜干酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_gun_jieu.md#瓜干酒)】`gua1 gun1 jieu3` <small>/kuɑ1 kʊ̃1 t͡ɕiɤɯ3/<sup>泰兴</sup></small> 用山芋干酿造的酒，称瓜干酒。<sup>\[泰兴\]</sup>  
 1. 【[瓜干<sub>儿</sub>酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_gun_r_jieu.md#瓜干<sub>儿</sub>酒)】`gua1 gun1 r jieu3` <sup>[如皋]</sup> 用甘薯干儿（番芋）酿成的酒，有冲劲、无后力，俗称昏头大曲。  
 1. 【[瓜秧子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_ian_zz.md#瓜秧子)】`gua1 ian1 zz` <sup>[东台]</sup> 瓜类种苗。  
 1. 【[瓜蒌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_leu.md#瓜蒌)】`gua1 leu2` <sup>[如皋]</sup> 栝楼。  
 1. 【[瓜瓤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_nan_zz.md#瓜瓤子)】`gua1 nan2 zz` <sup>[如东]</sup> 瓜肉里面生长种子的组织。  
+1. 【[瓜皮帽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_pi_mo_zz.md#瓜皮帽子)】`gua1 pi2 mo6 zz` <small>/kuɑ1 pʰʝ2 mɔ1 t͡sɿ/<sup>泰兴</sup></small> 像半个西瓜形状的旧式便帽，顶有小结。<sup>\[泰兴\]</sup>  
 1. 【[瓜皮<sub>儿</sub>帽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_pi_r_mo.md#瓜皮<sub>儿</sub>帽)】`gua1 pi2 r mo6` <sup>[如东]</sup> 旧时富户子弟所戴的一种单帽。圆形，黑色，薄，像西瓜皮．顶端有一颗红球。  
 1. 【[瓜锹<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_qio_r.md#瓜锹<sub>儿</sub>)】`gua1 qio1 r` <sup>[东台]</sup> 栽培蔬菜瓜果的小铁锹。  
 1. 【[瓜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_r.md#瓜<sub>儿</sub>)】`gua1 r` <small>/kua1 ɚ/<sup>兴化</sup>, /kua1 ɚ/<sup>泰县</sup></small> ① 人臂部或腿上的肌肉块。<sup>\[兴化\]</sup> ② 牛腿上部的筋肉<sup>\[兴化\]</sup><sup>\[泰县\]</sup>\[泰州：煮熟后呈圆球状的牛肉，形状类瓜，故名。\]：～肉。<sup>\[兴化\]</sup>｜我要买这块～，请你剁下来称下子。<sup>\[泰县\]</sup>  
 1. 【[瓜瓠茄<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_v_qia_r.md#瓜瓠茄<sub>儿</sub>)】`gua1 v qia2 r` <sup>[兴化]</sup> 泛指各种蔬菜：他家承包五分垛田，全种上～。  
-1. 【[瓜瓠茄子大胡椒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_v_qia_zz_da_hv_jio.md#瓜瓠茄子大胡椒)】`gua1 v6 qia2 zz da6 hv2 jio1` <sup>[东台]</sup> 旧时菜贩叫卖蔬菜时概述语：嗳，哪个买～，～哪个买的？  
+1. 【[瓜无个个圆，人无样样精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_v_gu_gu.md#瓜无个个圆，人无样样精)】`gua1 v2 gu5 gu5 iun2 ren2 v2 ian6 ian6 jien1` <small>/kuɑ1 ʋ2 kɤɯ5 kɤɯ5 yʊ̃2 ɻəŋ2 ʋ2 iɑŋ1 iɑŋ1 t͡ɕiŋ1/<sup>泰兴</sup></small> 喻世界上没有绝对十全十美的事物、人才。<sup>\[泰兴\]</sup>  
+1. 【[瓜瓠茄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_v_qia_zz.md#瓜瓠茄子)】`gua1 v6 qia2 zz` <small>/kuɑ1 ʋ1 t͡ɕʰyɑ2 t͡sɿ/<sup>泰兴</sup></small> 各种蔬菜瓜果。<sup>\[泰兴\]</sup>：家前屋后长的总是～。<sup>\[泰兴\]</sup>  
+1. 【[瓜瓠茄子大胡椒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_v_qia_zz.md#瓜瓠茄子大胡椒)】`gua1 v6 qia2 zz da6 hv2 jio1` <sup>[东台]</sup> 旧时菜贩叫卖蔬菜时概述语：嗳，哪个买～，～哪个买的？  
 1. 【[瓜子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_zz.md#瓜子)】`gua1 zz` <small>/kua1 t͡sɿ/<sup>兴化</sup></small> ① 指用稍瓜腌制的咸菜<sup>\[东台\]</sup>：酱～；甜～。<sup>\[东台\]</sup> ② 腌菜瓜、稍瓜或酱稍瓜<sup>\[兴化\]</sup>：咸～；酱～。<sup>\[兴化\]</sup>  
 1. 【[瓜子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_zz.md#瓜子)】`gua1 zz3` <sup>[泰州]</sup> 一种小菜，黄瓜之类的瓜洗净，铺开去籽，用盐腌制出卤，晒干以后保存坛中。食用时，切成丁，拌以麻油，用以佐粥。  
+1. 【[瓜子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_zz.md#瓜子)】`gua1 zz3` <small>/kuɑ1 t͡sɿ3/<sup>泰兴</sup></small> 瓜的种子。经炒制作成的消闲食品的某些瓜的种子。<sup>\[泰兴\]</sup>  
 1. 【[瓜子脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_zz_lin.md#瓜子脸)】`gua1 zz3 lin3` <sup>[泰州]</sup> 脸形微长偏窄，上部略圆稍款，下部略尖的面庞。  
+1. 【[瓜子片](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_zz_pin.md#瓜子片)】`gua1 zz3 pin5` <small>/kuɑ1 t͡sɿ3 pʰĩ5/<sup>泰兴</sup></small> 形似瓜子的小石片，作建筑材料用。<sup>\[泰兴\]</sup>  
 1. 【[瓜子<sub>儿</sub>脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_zz_r_lin.md#瓜子<sub>儿</sub>脸)】`gua1 zz3 r lin3` <sup>[如东]</sup> 上宽下狭的脸相：她长的是一副～。  
 1. 【[剐草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_co.md#剐草)】`gua3 co3` <small>/kua3 t͡sʰɔ3/<sup>兴化</sup>, /kua3 t͡sʰɔ3/<sup>如皋</sup></small> 割草<sup>\[东台\]</sup><sup>\[兴化\]</sup>\[如皋：割取岸草上部的嫩茎叶饲牛。\]\[泰州：用镰刀割青草\]：下田～。<sup>\[兴化\]</sup>｜姑嫂两个下田～去啊。<sup>\[泰州\]</sup>  
 1. 【[剐麦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_moh.md#剐麦)】`gua3 moh8` <sup>[泰州]</sup> 用镰刀收割成熟的麦子。  

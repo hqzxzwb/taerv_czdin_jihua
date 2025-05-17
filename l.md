@@ -525,6 +525,7 @@
 1. 【[乐唐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_tan.md#乐唐)】`lah8 tan2` <sup>[如东]</sup> 正合自己的心意而感到快乐。  
 1. 【[乐堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_tan.md#乐堂)】`lah8 tan2` <sup>[兴化]</sup> 愉快、自如：他心里快活～。｜你心里～吖，其他人怎吖想㗁？  
 1. 【[乐心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_xien.md#乐心)】`lah8 xien1` <sup>[泰县]</sup> 没有必要的想法和举动：不要～。  
+1. 【[乐心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_xien.md#乐心)】`lah8 xien1` <small>/lɑʔ8 ɕiŋ1/<sup>泰兴</sup></small> 娱乐，使心情愉快。多谓小儿戏乐。<sup>\[泰兴\]</sup>：箇个伢儿一天到夜～<sup>\[泰兴\]</sup>  
 1. 【[擽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah.md#擽)】`lah8` <sup>[如东]</sup> 用手抹过去，使物体顺直或干净。捋：把铁丝～直。  
 1. 【[烙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah.md#烙)】`lah8` <sup>[如东]</sup> 一种烹调方法。把食物放在一种架子上用文火烤熟。  
 1. 【[笿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_r.md#笿<sub>儿</sub>)】`lah8 r` <small>/la˞8/<sup>如皋</sup></small> ① 篮子。<sup>\[如东\]</sup> ② 篾丝、篾片编制的小竹篮<sup>\[如皋\]</sup>：通州～、元宝～。<sup>\[如皋\]</sup>  

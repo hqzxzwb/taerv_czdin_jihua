@@ -1776,6 +1776,7 @@
 1. 【[除剔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_tieh.md#除剔)】`chv2 tieh7` <sup>[如东]</sup> ① 收拾整理：你把房间里～下字。 ② 把不合适的去掉：把这些东西～掉。  
 1. 【[除掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_tio.md#除掉)】`chv2 tio` <sup>[泰州]</sup> 除了，不包括在内：～老王，没得人再比他资格老。  
 1. 【[除夕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_xieh.md#除夕)】`chv2 xieh7` <sup>[如东]</sup> 阴历十二月二十九日或三十日晚。泛指一年最后一天的晚上。  
+1. 【[处](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv.md#处)】`chv3` <small>/t͡sʰu3/<sup>泰兴</sup></small> 相处，交往<sup>\[泰兴\]</sup>：～朋友<sup>\[泰兴\]</sup>｜我不同他～<sup>\[泰兴\]</sup>  
 1. 【[处在](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_cae.md#处在)】`chv3 cae6` <sup>[如皋]</sup> ① 方面或部分：我有不好的～请你及时指正！ ② 位置：他～这样的地位也真难吖！ ③ 地方、所在：他俫到啊个～。  
 1. 【[处方世](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_fan_shr.md#处方世)】`chv3 fan1 shr5` <sup>[如皋]</sup> 见“处世方”。  
 1. 【[处鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_guei.md#处鬼)】`chv3 guei3` <sup>[如皋]</sup> 与不正派的人、坏人相处。  
