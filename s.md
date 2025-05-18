@@ -1004,8 +1004,7 @@
 1. 【[失惊打怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_jien_da_guae.md#失惊打怪)】`sheh7 jien1 da3 guae5` <sup>[兴化]</sup> ① 惊疑、慌乱：“你家莫不有甚事，这般～？”（《水浒传》六九） ② 反应过度：而今这些事交关平常，你不必～的。｜他晓得行者会～的，推睡不应。（《西游记》三八）  
 1. 【[失落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_lah.md#失落)】`sheh7 lah` <small>/səʔ7 lɑʔ/<sup>泰兴</sup></small> 失去，丢失。<sup>\[泰兴\]</sup>：箇杲子非常重要，千万不可～。<sup>\[泰兴\]</sup>  
 1. 【[失三冒四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_saen_mo_sz.md#失三冒四)】`sheh7 saen1 mo6 sz5` <small>/səʔ7 ɕiɛ̃1 mɔ1 sɿ5/<sup>泰兴</sup></small> 乡人谓尚未睡醒，思维处于朦胧状态。<sup>\[泰兴\]</sup>  
-1. 【[失失慌慌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_sheh_huan_huan.md#失失慌慌)】`sheh7 sheh7 huan1 huan1` <sup>[兴化]</sup> 神情慌乱的样子：大癞子～的往家跑，不晓得又在外头做啊甚的坏事？  
-1. 【[失失慌慌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_sheh_huan_huan.md#失失慌慌)】`sheh7 sheh7 huan1 huan1` <small>/səʔ7 səʔ7 xuɑŋ1 xuɑŋ1/<sup>泰兴</sup></small> 犹慌慌张张。<sup>\[泰兴\]</sup>：我望他～的样子，怕的不是好人。<sup>\[泰兴\]</sup>  
+1. 【[失失慌慌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_sheh_huan_huan.md#失失慌慌)】`sheh7 sheh7 huan1 huan1` <small>/səʔ7 səʔ7 xuaŋ1 xuaŋ1/<sup>兴化</sup>, /səʔ7 səʔ7 xuɑŋ1 xuɑŋ1/<sup>泰兴</sup></small> ① 神情慌乱的样子<sup>\[兴化\]</sup>：大癞子～的往家跑，不晓得又在外头做啊甚的坏事？<sup>\[兴化\]</sup> ② 犹慌慌张张。<sup>\[泰兴\]</sup>：我望他～的样子，怕的不是好人。<sup>\[泰兴\]</sup>  
 1. 【[失手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_sheu.md#失手)】`sheh7 sheu3` <small>/səʔ7 ɕiɤɯ3/<sup>泰兴</sup></small> 因不慎从手中掉下，或无意中造成不好的后果。<sup>\[泰兴\]</sup>  
 1. 【[失时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_shr.md#失时)】`sheh7 shr2` <small>/səʔ7 sɿ2/<sup>兴化</sup>, /səʔ7 sɿ2/<sup>如皋</sup></small> ① 时运不好。<sup>\[如皋\]</sup> ② 失意，处于困难中。<sup>\[如皋\]</sup> ③ 倒运<sup>\[兴化\]</sup>：他～在家，成天唉声叹气。<sup>\[兴化\]</sup>｜“子牙，你说的是～话。现成官你没福做，到去空拳只手去别处寻……”（《封神演义》十八）<sup>\[兴化\]</sup>｜谚曰：有时猫儿雄似虎，～凤凰不如鸡。<sup>\[兴化\]</sup>  
 1. 【[失势落魄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_shr_lah_pah.md#失势落魄)】`sheh7 shr5 lah8 pah7` <sup>[东台]</sup> 衣履不整、失魂落魄的样子，也形容庄稼长势差：他不会种田，把个棉花弄得～的。  
@@ -1017,8 +1016,7 @@
 1. 【[失心疯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_xien_fon.md#失心疯)】`sheh7 xien1 fon1` <sup>[兴化]</sup> 癫狂神经错乱：他一听说买的股票崩盘，急得手足无措，好像～一般。｜《水浒传》第三十九回有“你便口里胡言乱语，只做～便好”句。  
 1. 【[失晓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_xio.md#失晓)】`sheh7 xio3` <small>/səʔ7 ɕiɔ3/<sup>兴化</sup>, /səʔ7 ɕiɔ3/<sup>如皋</sup></small> ① 睡过了头。<sup>\[如东\]</sup>：我睡吖失咖晓。<sup>\[如东\]</sup> ② 晨起过时，睡过头。<sup>\[如皋\]</sup> ③ 睡到天亮，或到约定时间还未醒<sup>\[东台\]</sup>：早上要设个闹钟，防止～。<sup>\[东台\]</sup> ④ 睡过了时间，不知天亮<sup>\[兴化\]</sup>：昨晚打扑克玩晏吖，早上睡啊～。“客官～，好起了。”（《水浒传》二）<sup>\[兴化\]</sup> ⑤ 一直睡到天亮而不知道天亮该起床<sup>\[泰州\]</sup>：他昨朝晚上就喝咖多啊，今朝早起睡啊～唻。<sup>\[泰州\]</sup>  
 1. 【[失笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_xio.md#失笑)】`sheh7 xio5` <sup>[如东]</sup> 让人感觉好笑：我说咖，你不要～。  
-1. 【[失虚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_xy.md#失虚)】`sheh7 xy1` <sup>[兴化]</sup> 心虚：他昨晚在外头鬼混，早上家来有些～。  
-1. 【[失虚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_xy.md#失虚)】`sheh7 xy1` <small>/səʔ7 ɕy1/<sup>泰兴</sup></small> 心虚，胆怯。<sup>\[泰兴\]</sup>：望他～的样子，八成是个贼。<sup>\[泰兴\]</sup>  
+1. 【[失虚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_xy.md#失虚)】`sheh7 xy1` <small>/səʔ7 ɕy1/<sup>兴化</sup>, /səʔ7 ɕy1/<sup>泰兴</sup></small> 心虚<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：他昨晚在外头鬼混，早上家来有些～。<sup>\[兴化\]</sup>｜望他～的样子，八成是个贼。<sup>\[泰兴\]</sup>  
 1. 【[失着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_zhah.md#失着)】`sheh7 zhah7` ① 行动疏忽或方法错误。<sup>\[东台\]</sup> ② 失策，行动或者方法失误<sup>\[泰州\]</sup>：今年子的这种推销方法是大～。<sup>\[泰州\]</sup>  
 1. 【[失张失智](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_zhan_sheh_zhr.md#失张失智)】`sheh7 zhan1 sheh7 zhr5` <sup>[兴化]</sup> 心神不定，举止失措的样子：他晓得挪用公款事发，～，懊悔不及。  
 1. 【[失照](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_zho.md#失照)】`sheh7 zho5` <small>/səʔ7 t͡sɔ5/<sup>兴化</sup>, /səʔ7 t͡sɔ5/<sup>泰县</sup></small> ① 客套话，表示失于关照<sup>\[兴化\]</sup>：对不起，～～！<sup>\[兴化\]</sup> ② 因考虑不周，表示歉意。<sup>\[泰县\]</sup>  
@@ -1351,8 +1349,7 @@
 1. 【[生蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_taen.md#生蛋)】`shen1 taen6` <sup>[如皋]</sup> 禽产卵。  
 1. 【[生疼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_ten.md#生疼)】`shen1 ten2` <sup>[兴化]</sup> 很疼痛的感觉：（刘老老）“咕咚”一声，却撞到板壁上，把头蹦的～。（《红楼梦》四一）｜却说张金凤听得一对新人双双就寝，才觉出两只小脚儿站了个～……（《儿女英雄传》二八）  
 1. 【[生天法](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_tin_faeh.md#生天法)】`shen1 tin1 faeh7` <sup>[如东]</sup> 想尽一切办法：～也要把她寻家来。  
-1. 【[生田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_tin.md#生田)】`shen1 tin2` <sup>[如皋]</sup> 新垦田。  
-1. 【[生田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_tin.md#生田)】`shen1 tin2` <small>/səŋ1 tʰĩ2/<sup>泰兴</sup></small> 未耕作播种过的土地。<sup>\[泰兴\]</sup>  
+1. 【[生田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_tin.md#生田)】`shen1 tin2` <small>/səŋ1 tʰĩ2/<sup>如皋</sup>, /səŋ1 tʰĩ2/<sup>泰兴</sup></small> ① 新垦田。<sup>\[如皋\]</sup> ② 未耕作播种过的土地。<sup>\[泰兴\]</sup>  
 1. 【[生桐油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_ton_ieu.md#生桐油)】`shen1 ton2 ieu2` <sup>[如皋]</sup> 天然桐油，未经熬制。  
 1. 【[生土](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_tv.md#生土)】`shen1 tv3` <sup>[如东]</sup> 未经开发的板结的土壤，称生土：这许还是～。  
 1. 【[生相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_xian.md#生相)】`shen1 xian5` <small>/səŋ1 ɕiɑŋ5/<sup>泰兴</sup></small> 长相，相貌。<sup>\[泰兴\]</sup>  
@@ -3327,8 +3324,7 @@
 1. 【[死做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_zu.md#死做)】`sz3 zu5` <small>/sɿ3 t͡so5/<sup>兴化</sup></small> ① 指不懂得巧干<sup>\[兴化\]</sup>：他这吖～，一世也不得发。<sup>\[兴化\]</sup> ② 也指苦干。<sup>\[兴化\]</sup>：谚曰：八败命怕个～。<sup>\[兴化\]</sup> ③ 做工作或活动时全力去做<sup>\[泰州\]</sup>：他这个人实在，不问到啊哪块，他都是～。<sup>\[泰州\]</sup>  
 1. 【[水门汀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_men_tien.md#水门汀)】`sz3 men tien1` <sup>[兴化]</sup> ① 水泥。 ② 混凝土：上池斋药店是～的地坪。～词早年由洋泾浜英语转化面来。  
 1. 【[四……八……](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_baeh.md#四……八……)】`sz5 baeh7` <small>/sɿ5 pæʔ7/<sup>泰兴</sup></small> 分別用在两个意义相近的词或词素前面，表示全方位或各个方面。如“四面八方”、“四通八达”、“四碗八盘”等等。<sup>\[泰兴\]</sup>  
-1. 【[四不拗六](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_beh_ngo_loh.md#四不拗六)】`sz5 beh7 ngo3 loh8` <sup>[如皋]</sup> 下不犯上；下鬥不过上。  
-1. 【[四不拗六](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_beh_ngo_loh.md#四不拗六)】`sz5 beh7 ngo3 loh8` <small>/sɿ5 pəʔ7 ŋɔ3 lɔʔ8/<sup>泰兴</sup></small> 少数拗不过多数。<sup>\[泰兴\]</sup>  
+1. 【[四不拗六](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_beh_ngo_loh.md#四不拗六)】`sz5 beh7 ngo3 loh8` <small>/sɿ5 pəʔ7 ŋɔ3 lɔʔ8/<sup>如皋</sup>, /sɿ5 pəʔ7 ŋɔ3 lɔʔ8/<sup>泰兴</sup></small> ① 下不犯上；下斗不过上。<sup>\[如皋\]</sup> ② 少数拗不过多数。<sup>\[泰兴\]</sup>  
 1. 【[四不像](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_beh_qian.md#四不像)】`sz5 beh7 qian6` <small>/sɿ5 pəʔ7 t͡ɕʰiɑŋ1/<sup>泰兴</sup></small> 神话传说中的一种什么都不像的动物，今多以为麋鹿的俗称。因其头似鹿，蹄似牛，颈似骆驼，尾似驴，而总观全体则无一似之，故名。乡人多喻指不伦不类的物品或打扮。<sup>\[泰兴\]</sup>  
 1. 【[四不沾依](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_beh_zhin_i.md#四不沾依)】`sz5 beh7 zhin1 i1` <sup>[兴化]</sup> 指物体周边无可依靠地孤立着：他把热水瓶放吖～的地方，一碰就摔碎啊。  
 1. 【[四边地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_bin_ti.md#四边地)】`sz5 bin1 ti6` <sup>[如东]</sup> 屋边、场边、路边河边的零星地块：～，种蚕豆，不能浪费。  
@@ -3350,11 +3346,9 @@
 1. 【[四下的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ha_dii.md#四下的)】`sz5 ha6 dii` <sup>[如皋]</sup> 见“四里八下的”。  
 1. 【[四合厢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_huh_xian.md#四合厢)】`sz5 huh8 xian1` <sup>[如皋]</sup> 即北京的四合院。旧时如皋小康人家多造此宅。  
 1. 【[四汗八淌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_hun_baeh_tan.md#四汗八淌)】`sz5 hun6 baeh7 tan3` <sup>[如皋]</sup> 比喻流大汗。  
-1. 【[四胡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_hv.md#四胡)】`sz5 hv2` <sup>[如皋]</sup> 四根弦的胡琴。  
-1. 【[四胡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_hv.md#四胡)】`sz5 hv2` <small>/sɿ5 fʋ2/<sup>泰兴</sup></small> 四弦胡琴。两根弦的称二胡。<sup>\[泰兴\]</sup>：拉～<sup>\[泰兴\]</sup>  
+1. 【[四胡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_hv.md#四胡)】`sz5 hv2` <small>/sɿ5 fu2/<sup>如皋</sup>, /sɿ5 fʋ2/<sup>泰兴</sup></small> 四根弦的胡琴。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：拉～<sup>\[泰兴\]</sup>  
 1. 【[四月四，大麦芒好挑刺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_iuh_sz_da.md#四月四，大麦芒好挑刺)】`sz5 iuh sz5 da6 moh man2 ho3 tio1 cz5` <small>/sɿ5 yʊʔ sɿ5 tɑ1 mɔʔ mɑŋ2 xɔ3 tʰiɔ1 t͡sʰɿ5/<sup>泰兴</sup></small> 谓农历四月初，大麦穗芒发硬，麦子已经成熟了。<sup>\[泰兴\]</sup>  
-1. 【[四月不老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_iuh_beh_lo.md#四月不老)】`sz5 iuh8 beh7 lo3` <sup>[兴化]</sup> 一种晚熟的青菜品种。  
-1. 【[四月不老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_iuh_beh_lo.md#四月不老)】`sz5 iuh8 beh7 lo3` <small>/sɿ5 yʊʔ8 pəʔ7 lɔ3/<sup>泰兴</sup></small> 一种品种较好的青菜名。<sup>\[泰兴\]</sup>  
+1. 【[四月不老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_iuh_beh_lo.md#四月不老)】`sz5 iuh8 beh7 lo3` <small>/sɿ5 yuʔ8 pəʔ7 lɔ3/<sup>兴化</sup>, /sɿ5 yʊʔ8 pəʔ7 lɔ3/<sup>泰兴</sup></small> 青菜品种名\[泰兴：品种较好\]\[兴化：晚熟\]  
 1. 【[四季莓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ji_mei.md#四季莓)】`sz5 ji5 mei2` <small>/sɿ5 t͡ɕi5 məi2/<sup>兴化</sup></small> ① 菜豆。也叫四季豆、刀豆。<sup>\[兴化\]</sup> ② 刀豆，菜豆。<sup>\[兴化\]</sup>  
 1. 【[四季豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ji_teu.md#四季豆)】`sz5 ji5 teu6` <sup>[如东]</sup> 豆科植物菜豆，又名白饭豆，一年生缠绕草本。茎被短柔毛。三出复叶，卵针形。总状花序腋生。花白色、黄色紫堇色、红色。荚果带形，膨胀，无毛，顶端有钻状长喙。种子矩形，红棕色或白色。人工种植。  
 1. 【[四架](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_jia.md#四架)】`sz5 jia5` <sup>[如东]</sup> 房屋的第四根横梁，称四架。  

@@ -1920,8 +1920,7 @@
 1. 【[电灯泡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_den_po.md#电灯泡)】`din5 den1 po1` ① 对秃头的戏称。 ② 白炽电灯泡的通称。<sup>\[东台\]</sup> ③ ［喻］男女朋友交往时不知趣地跟随的人<sup>\[东台\]</sup>：你俫一起儿去玩吧，我不去做～。<sup>\[东台\]</sup>  
 1. 【[电灯泡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_den_po_r.md#电灯泡<sub>儿</sub>)】`din5 den1 po1 r` <sup>[如皋]</sup> ① 趣指头、秃头，或指人。 ② 晃眼的障碍：你俫谈吖正热乎，我不做～，跑啦！  
 1. 【[电工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_gon.md#电工)】`din5 gon1` <sup>[如东]</sup> 工种的一种。以安装维修电器为职业的工人。  
-1. 【[电火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_hu.md#电火)】`din5 hu3` <sup>[泰县]</sup> 点灯用的电：家里还没得～唻。｜～要节省点儿。  
-1. 【[电火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_hu.md#电火)】`din5 hu3` <small>/tĩ5 xɤɯ3/<sup>泰兴</sup></small> 手电筒。<sup>\[泰兴\]</sup>  
+1. 【[电火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_hu.md#电火)】`din5 hu3` <small>/tĩ5 xɤɯ3/<sup>泰兴</sup>, /tiɪ̃5 xo3/<sup>泰县</sup></small> ① 点灯用的电<sup>\[泰县\]</sup>：家里还没得～唻。<sup>\[泰县\]</sup>｜～要节省点儿。<sup>\[泰县\]</sup> ② 手电筒。<sup>\[泰兴\]</sup>  
 1. 【[电话线断吖——不通](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_hua_xin_tun_nga_beh_ton.md#电话线断吖——不通)】`din5 hua6 xin5 tun6 nga beh7 ton1` <sup>[东台]</sup>   
 1. 【[电焊工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_hun_gon.md#电焊工)】`din5 hun6 gon1` <sup>[如东]</sup> 工种的一种。以电焊为职业的工人。  
 1. 【[电动车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_ton_cha.md#电动车)】`din5 ton6 cha1` <sup>[如东]</sup> 以电瓶储存的直流电为主要动力的轻便车。也称电瓶车。  
@@ -2229,8 +2228,7 @@
 1. 【[东一榔头西一棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_ieh_lan_teu.md#东一榔头西一棒)】`don1 ieh7 lan2 teu xi1 ieh7 pan6` <sup>[东台]</sup> 形容说话办事没有条理，乱扯。  
 1. 【[东一榔头西一棒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_ieh_lan_teu.md#东一榔头西一棒子)】`don1 ieh7 lan2 teu xi1 ieh7 pan6 zz` <small>/tɔŋ1 iʔ7 lɑŋ2 tʰəɪ ɕʝ1 iʔ7 pʰɑŋ1 t͡sɿ/<sup>泰兴</sup></small> 喻做事没有全局观点，忙于局部应付：或说话没有中心，东一句西一句，不相连贯。<sup>\[泰兴\]</sup>：他讲了半天，～的，我不曾听到个头绪。<sup>\[泰兴\]</sup>  
 1. 【[东游西荡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_ieu_xi_tan.md#东游西荡)】`don1 ieu2 xi1 tan6` <small>/tɔŋ1 iɤɯ2 ɕʝ1 tʰɑŋ1/<sup>泰兴</sup></small> 谓到处游荡，形容不务正业。<sup>\[泰兴\]</sup>  
-1. 【[东家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_jia.md#东家)】`don1 jia` <sup>[如东]</sup> 旧时受雇人称主人为东家。  
-1. 【[东家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_jia.md#东家)】`don1 jia` <small>/tɔŋ1 t͡ɕiɑ/<sup>泰兴</sup></small> 旧时雇工、佃户、幕僚对雇主、田主、上司的称呼；有时也作对东道主的称呼。<sup>\[泰兴\]</sup>：～逼债如虎狼。<sup>\[泰兴\]</sup>  
+1. 【[东家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_jia.md#东家)】`don1 jia` <small>/tɔŋ1 t͡ɕiɑ/<sup>泰兴</sup></small> ① 旧时受雇人称主人为东家。<sup>\[如东\]</sup> ② 旧时雇工、佃户、幕僚对雇主、田主、上司的称呼；有时也作对东道主的称呼。<sup>\[泰兴\]</sup>：～逼债如虎狼。<sup>\[泰兴\]</sup>  
 1. 【[东境](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_jien.md#东境)】`don1 jien` <small>/tɔŋ1 t͡ɕiəŋ/<sup>如皋</sup>, /toŋ1 t͡ɕiŋ/<sup>泰县</sup></small> ① 泛指东边的地方 ② 东边。<sup>\[如皋\]</sup> ③ 东面<sup>\[泰县\]</sup>：他家在～。<sup>\[泰县\]</sup>  
 1. 【[东境窜毫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_jien_cun_ho.md#东境窜毫)】`don1 jien cun5 ho2` <sup>[如皋]</sup> 黎明时分，一道毫光射向黑暗的天空。就一刹那。  
 1. 【[东凌港](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_lien_gan.md#东凌港)】`don1 lien2 gan3` <sup>[如东]</sup> 如东渔港。位于兵房镇东安闸外。高潮位，水深8-10米，低潮位，水深5米。港宽30-50米。常航能力50-80吨，最大通航能力400吨。能泊50-80吨渔船。  
@@ -2239,24 +2237,20 @@
 1. 【[东路鸡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_lv_ji_zz.md#东路鸡子)】`don1 lv6 ji1 zz` <sup>[如皋]</sup> 如皋三黄鸡。泰州称如皋为东路。  
 1. 【[东南风的小鸡子，死多活少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_nun_fon_dii.md#东南风的小鸡子，死多活少)】`don1 nun fon1 dii xio3 ji zz sz3 du1 uh8 sho3` <small>/tɔŋ1 nʊ̃ fɔŋ1 təɪ ɕiɔ3 t͡ɕʝ t͡sɿ sɿ3 tɤɯ1 ʊʔ8 sɔ3/<sup>泰兴</sup></small> 歇后语。春天刮东南风，天气湿冷，刚孵出的雏鸡容易死亡。<sup>\[泰兴\]</sup>  
 1. 【[东斜西竵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_qia_xi_huae.md#东斜西竵)】`don1 qia2 xi1 huae1` <sup>[如东]</sup> 歪歪斜斜，很不整齐的样子。  
-1. 【[东席不管西席](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_qieh_beh_gun_xi_qieh.md#东席不管西席)】`don1 qieh8 beh7 gun3 xi1 qieh8` <sup>[东台]</sup> 以酒席喻指只管分内事。  
-1. 【[东席不管西席](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_qieh_beh_gun_xi_qieh.md#东席不管西席)】`don1 qieh8 beh7 gun3 xi1 qieh8` <small>/tɔŋ1 t͡ɕʰiʔ8 pəʔ7 kʊ̃3 ɕʝ1 t͡ɕʰiʔ8/<sup>泰兴</sup></small> 喻各管各的事，别人不要来干预。<sup>\[泰兴\]</sup>  
+1. 【[东席不管西席](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_qieh_beh_gun_xi_qieh.md#东席不管西席)】`don1 qieh8 beh7 gun3 xi1 qieh8` <small>/tɔŋ1 t͡ɕʰiʔ8 pəʔ7 kʊ̃3 ɕʝ1 t͡ɕʰiʔ8/<sup>泰兴</sup></small> 喻指只管分内事。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[东晒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_shae.md#东晒)】`don1 shae5` <sup>[如皋]</sup> 上午阳光的照射。  
 1. 【[东首](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_sheu.md#东首)】`don1 sheu3` <sup>[东台]</sup> 东头。（首即头）  
 1. 【[东闪空，西闪风，南闪天门开，北闪雨上担](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_shin_kon_xi.md#东闪空，西闪风，南闪天门开，北闪雨上担)】`don1 shin3 kon1 xi1 shin3 fon1 nun2 shin3 tin1 men2 kae1 boh7 shin3 y3 shan6 daen5` <small>/tɔŋ1 ɕĩ3 kʰɔŋ1 ɕʝ1 ɕĩ3 fɔŋ1 nʊ̃2 ɕĩ3 tʰĩ1 məŋ2 kʰɛ1 pɔʔ7 ɕĩ3 y3 sɑŋ1 tɛ̃5/<sup>泰兴</sup></small> 气象谚语<sup>\[泰兴\]</sup>  
 1. 【[东头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_teu.md#东头)】`don1 teu2` <sup>[如皋]</sup> 东边。  
 1. 【[东天抽毫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_tin_cheu_ho.md#东天抽毫)】`don1 tin1 cheu1 ho2` <sup>[如东]</sup> 拂晓时，东方初现亮光：～他就起来啊。  
 1. 【[东天窜毫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_tin_cun_ho.md#东天窜毫)】`don1 tin1 cun5 ho2` <sup>[如皋]</sup> 见“东境窜毫”。  
-1. 【[东道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_to.md#东道)】`don1 to6` <sup>[如东]</sup> ① 请客：请你做～。 ② 打赌：我俫赌个～吧？  
-1. 【[东道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_to.md#东道)】`don1 to6` <small>/tɔŋ1 tʰɔ1/<sup>泰兴</sup></small> 主人的代称；作东，设宴请客；赌博的庄家。<sup>\[泰兴\]</sup>  
+1. 【[东道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_to.md#东道)】`don1 to6` <small>/tɔŋ1 tʰɔ1/<sup>泰兴</sup></small> ① 请客。<sup>\[如东\]</sup>：请你做～。<sup>\[如东\]</sup> ② 打赌。<sup>\[如东\]</sup>：我俫赌个～吧？<sup>\[如东\]</sup> ③ 主人的代称；作东，设宴请客；赌博的庄家。<sup>\[泰兴\]</sup>  
 1. 【[东吴招亲——弄假成真](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_v_zho_qien.md#东吴招亲——弄假成真)】`don1 v2 zho1 qien1 lon6 jia3 chen2 zhen1` <sup>[东台]</sup>   
 1. 【[东西](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_xi.md#东西)】`don1 xi1` <sup>[如东]</sup> ① 方向：～方向。 ② 物体：甚的～。  
 1. 【[东西场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_xi_chan.md#东西场)】`don1 xi1 chan2` 东西面邻居  
-1. 【[东西耳刀南北听](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_xi_er_do.md#东西耳刀南北听)】`don1 xi1 er3 do nun2 boh7 tien5` <sup>[东台]</sup> 责备语，形容对方把别人的话听错了。  
-1. 【[东西耳刀南北听](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_xi_er_do.md#东西耳刀南北听)】`don1 xi1 er3 do nun2 boh7 tien5` <small>/tɔŋ1 ɕʝ1 ɚ3 tɔ nʊ̃2 pɔʔ7 tʰiŋ5/<sup>泰兴</sup></small> 谓不专心听取别人的讲话，常跟“南北耳朵打苍蝇”句连用。<sup>\[泰兴\]</sup>  
+1. 【[东西耳刀南北听](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_xi_er_do.md#东西耳刀南北听)】`don1 xi1 er3 do nun2 boh7 tien5` <small>/tɔŋ1 ɕʝ1 ɚ3 tɔ nʊ̃2 pɔʔ7 tʰiŋ5/<sup>泰兴</sup></small> ① 责备语，形容对方把别人的话听错了。<sup>\[东台\]</sup> ② 谓不专心听取别人的讲话，常跟“南北耳朵打苍蝇”句连用。<sup>\[泰兴\]</sup>  
 1. 【[东西南北风，来去好扯篷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_xi_nun_boh.md#东西南北风，来去好扯篷)】`don1 xi1 nun2 boh7 fon1 lae2 qy ho3 cha3 pon2` <small>/tɔŋ1 ɕʝ1 nʊ̃2 pɔʔ7 fɔŋ1 lɛ2 t͡ɕʰy xɔ3 t͡sʰɑ3 pʰɔŋ2/<sup>泰兴</sup></small> 帆船行驶时遇上各种风向，均可扯篷，可侧可正，视风势调整。<sup>\[泰兴\]</sup>  
-1. 【[东乡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_xian.md#东乡)】`don1 xian1` <sup>[兴化]</sup> 市境东部的乡镇：～地势高，种棉花、旱谷的比较多。  
-1. 【[东乡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_xian.md#东乡)】`don1 xian1` <small>/tɔŋ1 ɕiɑŋ1/<sup>泰兴</sup></small> 乡人对泰兴东部原旱谷地区（以黄桥为中心）的习称，相对于以泰兴为中心的沿江西部地区。<sup>\[泰兴\]</sup>  
+1. 【[东乡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_xian.md#东乡)】`don1 xian1` <small>/toŋ1 ɕiaŋ1/<sup>兴化</sup>, /tɔŋ1 ɕiɑŋ1/<sup>泰兴</sup></small> ① 市境东部的乡镇<sup>\[兴化\]</sup>：～地势高，种棉花、旱谷的比较多。<sup>\[兴化\]</sup> ② 乡人对泰兴东部原旱谷地区（以黄桥为中心）的习称，相对于以泰兴为中心的沿江西部地区。<sup>\[泰兴\]</sup>  
 1. 【[东乡人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_xian_ren.md#东乡人)】`don1 xian1 ren2` <small>/tɔŋ1 ɕiɑŋ1 ɻəŋ2/<sup>泰兴</sup></small> 乡人对县域东部地区人的习称。<sup>\[泰兴\]</sup>  
 1. 【[冬不离十一月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_beh_lii_sheh.md#冬不离十一月)】`don1 beh7 lii2 sheh8 ieh7 iuh` <small>/tɔŋ1 pəʔ7 ləɪ2 səʔ8 iʔ7 yʊʔ/<sup>泰兴</sup></small> 谓冬至节气在农历十一月之内。<sup>\[泰兴\]</sup>  
 1. 【[冬菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_cae.md#冬菜)】`don1 cae5` <small>/tɔŋ1 t͡sʰɛ5/<sup>如皋</sup></small> ① 冬天上市的蔬菜。<sup>\[如皋\]</sup> ② 州中一种小菜名称，将经过冬天生长，冬春交汇之季长出嫩薹的青菜切碎，加盐揉透，用手挤去卤汁，捺入小坛之内，密封，夏季食用，味极鲜美。以菜长于冬天，故名。<sup>\[泰州\]</sup>  
@@ -2403,8 +2397,7 @@
 1. 【[对半扒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_bun_ba.md#对半扒)】`duei5 bun5 ba1` <sup>[兴化]</sup> 见“对扒”。  
 1. 【[对半分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_bun_fen.md#对半分)】`duei5 bun5 fen1` <small>/təɪ5 pʊ̃5 fəŋ1/<sup>泰兴</sup></small> 分成两半，各二分之一。<sup>\[泰兴\]</sup>  
 1. 【[对掺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_chaen.md#对掺)】`duei5 chaen1` <sup>[兴化]</sup> 两种份量相等的东西搀和在一起：磨焦糏粳米和精米～。｜“我们白酒……若再不好，就是～。”（《八窍珠》二四）  
-1. 【[对直](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_cheh.md#对直)】`duei5 cheh8` <sup>[兴化]</sup> ① 正对面：我家～就是一所学校。 ② 延直路向前：从长安路～向南，过桥不远就是新车站。  
-1. 【[对直](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_cheh.md#对直)】`duei5 cheh8` <small>/təɪ5 t͡sʰəʔ8/<sup>泰兴</sup></small> 在一条直线上。<sup>\[泰兴\]</sup>  
+1. 【[对直](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_cheh.md#对直)】`duei5 cheh8` <small>/tuəi5 t͡sʰəʔ8/<sup>兴化</sup>, /təɪ5 t͡sʰəʔ8/<sup>泰兴</sup></small> ① 正对面<sup>\[兴化\]</sup>：我家～就是一所学校。<sup>\[兴化\]</sup> ② 延直路向前<sup>\[兴化\]</sup>：从长安路～向南，过桥不远就是新车站。<sup>\[兴化\]</sup> ③ 在一条直线上。<sup>\[泰兴\]</sup>  
 1. 【[对打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_da.md#对打)】`duei5 da3` <sup>[兴化]</sup> 互相斗殴：两个人为一件小事～。｜颜家的家人回护家主，就与高家从人～。（《醒世恒言》七）  
 1. 【[对得住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_deh_chv.md#对得住)】`duei5 deh7 chv6` <small>/təɪ5 təʔ7 t͡sʰu1/<sup>泰兴</sup></small> 对得起；对人不愧，不辜负。<sup>\[泰兴\]</sup>  
 1. 【[对刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_do.md#对刀)】`duei5 do1` <sup>[兴化]</sup> 约一斤两条的刀子鱼（鲫鱼）。  
@@ -2412,8 +2405,7 @@
 1. 【[对分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_fen.md#对分)】`duei5 fen1` <sup>[兴化]</sup> 大家平分：“我们衣食被你夺去，若不拿出来～，你也去不得！”（《说唐》十九）  
 1. 【[对衭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_fv.md#对衭)】`duei5 fv1` <sup>[如东]</sup> 左右衣襟一样大，称对衭。  
 1. 【[对过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_gu.md#对过)】`duei5 gu1` 对面  
-1. 【[对过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_gu.md#对过)】`duei5 gu5` <sup>[兴化]</sup> 对方：这吖重大的事情，～派哪个来联络？  
-1. 【[对过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_gu.md#对过)】`duei5 gu5` <small>/təɪ5 kɤɯ5/<sup>泰兴</sup></small> 对门；那一边。<sup>\[泰兴\]</sup>  
+1. 【[对过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_gu.md#对过)】`duei5 gu5` <small>/tuəi5 ko5/<sup>兴化</sup>, /təɪ5 kɤɯ5/<sup>泰兴</sup></small> ① 对方<sup>\[兴化\]</sup>：这吖重大的事情，～派哪个来联络？<sup>\[兴化\]</sup> ② 对门；那一边。<sup>\[泰兴\]</sup>  
 1. 【[对拐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_guae_zz.md#对拐子)】`duei5 guae3 zz` <sup>[兴化]</sup> ① 合得来：他俫两个人正好～。 ② 相匹配：夫妻两个一个好吃，一个好扮，半斤八两，真的是～。  
 1. 【[对火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_hu.md#对火)】`duei5 hu3` <small>/təɪ5 xɤɯ3/<sup>泰兴</sup></small> 碰火；双方都发火，吵架。<sup>\[泰兴\]</sup>  
 1. 【[对合](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_huh.md#对合)】`duei5 huh8` <sup>[兴化]</sup> 利润或利息跟本金相当：这批服装足足赚～有余。  
@@ -2427,13 +2419,10 @@
 1. 【[对卯眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_mo_ngaen.md#对卯眼)】`duei5 mo3 ngaen3` <sup>[如东]</sup> 卯与眼相符，表示符合实际情形：箇吖说，～。  
 1. 【[对识](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_sheh.md#对识)】`duei5 sheh` <sup>[兴化]</sup> 认识、熟悉：我俫老早就～咖！  
 1. 【[对说对回](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_shuh_duei_huei.md#对说对回)】`duei5 shuh7 duei5 huei2` <sup>[兴化]</sup> 回答对方的言辞：他见儿子跟他～，气不打一处来。  
-1. 【[对头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_teu.md#对头)】`duei5 teu` <sup>[如东]</sup> ① 矛盾很深的人：他俫是～。 ② 相符合：这吖摆，～。  
-1. 【[对头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_teu.md#对头)】`duei5 teu` <small>/təɪ5 tʰəɪ/<sup>泰兴</sup></small> 冤家，仇人；敌对的方面<sup>\[泰兴\]</sup>  
+1. 【[对头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_teu.md#对头)】`duei5 teu` <small>/təɪ5 tʰəɪ/<sup>泰兴</sup></small> ① 矛盾很深的人。<sup>\[如东\]</sup>：他俫是～。<sup>\[如东\]</sup> ② 相符合。<sup>\[如东\]</sup>：这吖摆，～。<sup>\[如东\]</sup> ③ 冤家，仇人；敌对的方面<sup>\[泰兴\]</sup>  
 1. 【[对头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_teu.md#对头)】`duei5 teu2` <small>/təɪ5 tʰəɪ2/<sup>泰兴</sup></small> 正确<sup>\[泰兴\]</sup>  
-1. 【[对头星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_teu_xien.md#对头星)】`duei5 teu2 xien1` <sup>[兴化]</sup> 对立双方：两个～碰到一起，互相拆台。  
-1. 【[对头星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_teu_xien.md#对头星)】`duei5 teu2 xien1` <small>/təɪ5 tʰəɪ2 ɕiŋ1/<sup>泰兴</sup></small> 对头，有仇隙的双方。<sup>\[泰兴\]</sup>  
-1. 【[对味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_vei.md#对味)】`duei5 vei6` <sup>[兴化]</sup> 合口味：这道菜蛮～的。｜《二泉映月》听起来真的是～。  
-1. 【[对味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_vei.md#对味)】`duei5 vei6` <small>/təɪ5 ʋəɪ1/<sup>泰兴</sup></small> 对胃口，合乎口味。<sup>\[泰兴\]</sup>  
+1. 【[对头星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_teu_xien.md#对头星)】`duei5 teu2 xien1` <small>/tuəi5 tʰɤ2 ɕin1/<sup>兴化</sup>, /təɪ5 tʰəɪ2 ɕiŋ1/<sup>泰兴</sup></small> ① 对立双方<sup>\[兴化\]</sup>：两个～碰到一起，互相拆台。<sup>\[兴化\]</sup> ② 对头，有仇隙的双方。<sup>\[泰兴\]</sup>  
+1. 【[对味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_vei.md#对味)】`duei5 vei6` <small>/tuəi5 uəi6/<sup>兴化</sup>, /təɪ5 ʋəɪ1/<sup>泰兴</sup></small> ① 合口味<sup>\[兴化\]</sup>：这道菜蛮～的。<sup>\[兴化\]</sup>｜《二泉映月》听起来真的是～。<sup>\[兴化\]</sup> ② 对胃口，合乎口味。<sup>\[泰兴\]</sup>  
 1. 【[对虾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_xia.md#对虾)】`duei5 xia1` <sup>[如东]</sup> 对虾科动物对虾，体长约24厘米。  
 1. 【[对象](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_xian.md#对象)】`duei5 xian5` <sup>[如东]</sup> 恋爱中的男子和女子。  
 1. 【[对账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_zhan.md#对账)】`duei5 zhan5` <sup>[如东]</sup> 核对账目  

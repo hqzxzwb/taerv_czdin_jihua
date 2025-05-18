@@ -209,9 +209,7 @@
 1. 【[加力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_lieh.md#加力)】`jia1 lieh8` <sup>[如皋]</sup> 西乡镇名。地处扬泰冈地南缘交通线上的高沙土地区。秦时九江郡移民和西汉东粤国移民开发了这块土地，供旅人暂歇、饮食，故名加力。  
 1. 【[加明](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_mien.md#加明)】`jia1 mien` 更加  
 1. 【[加苗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_mio.md#加苗)】`jia1 mio2` <sup>[兴化]</sup> 旧俗：如遇水稻苗情欠佳，农户即在田头焚香敬神，以求苗全苗壮，俗谓～。  
-1. 【[加𣜂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_saeh.md#加𣜂)】`jia1 saeh7` <sup>[如东]</sup> 在榫眼里插入木楔。比喻加码：这件事不能再～。  
-1. 【[加𣜂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_saeh.md#加𣜂)】`jia1 saeh7` <sup>[兴化]</sup> ① 木工在榫缝里加楔，可使接榫处紧密、不活动。 ② （喻）挤进拥挤的人群或队伍中：在队伍里～。 ③ 在艰难处境中出现新问题：你这吖一来又给我～。  
-1. 【[加𣜂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_saeh.md#加𣜂)】`jia1 saeh7` <small>/t͡ɕiɑ1 ɕiæʔ7/<sup>泰兴</sup></small> 在木榫部位加一小木塞以使榫头更牢固坚实。<sup>\[泰兴\]</sup>  
+1. 【[加𣜂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_saeh.md#加𣜂)】`jia1 saeh7` <small>/t͡ɕia1 sæʔ7/<sup>兴化</sup>, /t͡ɕiɑ1 ɕiæʔ7/<sup>泰兴</sup></small> ① 在榫眼里插入木楔。比喻加码。<sup>\[如东\]</sup>：这件事不能再～。<sup>\[如东\]</sup> ② 木工在榫缝里加楔，可使接榫处紧密、不活动。<sup>\[兴化\]</sup> ③ （喻）挤进拥挤的人群或队伍中<sup>\[兴化\]</sup>：在队伍里～。<sup>\[兴化\]</sup> ④ 在艰难处境中出现新问题<sup>\[兴化\]</sup>：你这吖一来又给我～。<sup>\[兴化\]</sup> ⑤ 在木榫部位加一小木塞以使榫头更牢固坚实。<sup>\[泰兴\]</sup>  
 1. 【[加思](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_sz.md#加思)】`jia1 sz1` <sup>[泰州]</sup> 副词，很，非常，常跟在形容词后，表示程度极深：福利好得～。｜力气大得～。｜房子贵得～。｜个子矮得～。  
 1. 【[加托](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_tah.md#加托)】`jia1 tah7` <sup>[泰县]</sup> 加重别人的责任：这些话全是～人时。  
 1. 【[嘉奖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_jian.md#嘉奖)】`jia1 jian3` <sup>[如东]</sup> 称赞和奖励。  
@@ -1194,8 +1192,7 @@
 1. 【[节眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_ngaen.md#节眼)】`jih7 ngaen3` <small>/t͡ɕiʔ7 ŋẽ3/<sup>如皋</sup></small> ① 植物茎上的节。<sup>\[如东\]</sup> ② 节巴。<sup>\[如东\]</sup> ③ 比喻人的手脚关节。<sup>\[如东\]</sup> ④ 比喻人的手脚关节之间的长度。<sup>\[如东\]</sup>：这个伢儿～长。<sup>\[如东\]</sup> ⑤ 见“手节儿”。<sup>\[如皋\]</sup>  
 1. 【[节眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_ngaen_r.md#节眼<sub>儿</sub>)】`jih7 ngaen3 r` <sup>[如皋]</sup> 手指骨节，可预测身高：～长，个子高。  
 1. 【[节疤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_pa.md#节疤)】`jih7 pa` <sup>[如皋]</sup> ① 禾本科植物的茎节。木本植物分枝处的疤痕。 ② 绳结：打～、改～。  
-1. 【[节气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_qi.md#节气)】`jih7 qi5` <sup>[如东]</sup> 在一年时间里定出二十四个点，每一点叫一个节气。  
-1. 【[节气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_qi.md#节气)】`jih7 qi5` <small>/t͡ɕiʔ7 t͡ɕʰʝ5/<sup>泰兴</sup></small> 节候，季节，气候。乡人多指一年中二十四个节气或指农历中重大的节日。<sup>\[泰兴\]</sup>：中秋节气到啊，些人总要家去团圆。<sup>\[泰兴\]</sup>  
+1. 【[节气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_qi.md#节气)】`jih7 qi5` <small>/t͡ɕiʔ7 t͡ɕʰʝ5/<sup>泰兴</sup></small> ① 在一年时间里定出二十四个点，每一点叫一个节气。<sup>\[如东\]</sup> ② 节候，季节，气候。乡人多指一年中二十四个节气或指农历中重大的节日。<sup>\[泰兴\]</sup>：中秋节气到啊，些人总要家去团圆。<sup>\[泰兴\]</sup>  
 1. 【[节庆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_qien.md#节庆)】`jih7 qien5` <sup>[东台]</sup> 节日喜庆活动的简称。  
 1. 【[节下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_xia.md#节下)】`jih7 xia` <sup>[如皋]</sup> 节日临近及过节期间。  
 1. 【[节序](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_xy.md#节序)】`jih7 xy` <sup>[如皋]</sup> 节日的序列。指传统节日。  

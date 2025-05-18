@@ -456,14 +456,11 @@
 1. 【[外后年子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_heu_nin_zz.md#外后年子)】`vae6 heu6 nin2 zz` <sup>[东台]</sup> 大后年，即明年的后年。  
 1. 【[外后日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_heu_rih.md#外后日)】`vae6 heu6 rih` <sup>[兴化]</sup> 即大后天，紧接着后天的一天：“费你的心去打听打听，仁昌典方六房里～可请的有成老爹……”（《儒林外史》四七）也说“外后朝子”。  
 1. 【[外后天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_heu_tin.md#外后天)】`vae6 heu6 tin1` <sup>[如东]</sup> 往后第四天。也称外后朝、大后天。  
-1. 【[外后朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_heu_zho.md#外后朝)】`vae6 heu6 zho` <sup>[泰县]</sup> 大后天，俗讹作“万后朝”：我～到泰州去。  
-1. 【[外后朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_heu_zho.md#外后朝)】`vae6 heu6 zho` <small>/ʋɛ1 xəɪ1 t͡sɔ/<sup>泰兴</sup></small> 大后天。<sup>\[泰兴\]</sup>  
-1. 【[外后朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_heu_zho.md#外后朝)】`vae6 heu6 zho1` <sup>[东台]</sup> 大后天，即明天的后天，也叫“大后啊子”。  
+1. 【[外后朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_heu_zho.md#外后朝)】`vae6 heu6 zho` <small>/ʋɛ1 xəɪ1 t͡sɔ/<sup>泰兴</sup>, /ʋe1 xɤɯ1 t͡sɔ/<sup>泰县</sup></small> 大后天<sup>\[泰兴\]</sup>\[东台：也叫“大后啊子”\]\[泰县：俗讹作“万后朝”\]：我～到泰州去。<sup>\[泰县\]</sup>  
 1. 【[外号](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_ho.md#外号)】`vae6 ho6` <sup>[如东]</sup> 绰号。也称浑名：王志月的外号叫包打听。  
 1. 【[外花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_hua.md#外花)】`vae6 hua1` <sup>[如皋]</sup> 秤杆上外侧的秤星。  
 1. 【[外教](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_jio.md#外教)】`vae6 jio5` <small>/uɛ6 t͡ɕiɔ5/<sup>兴化</sup>, /ʋɛ1 t͡ɕiɔ5/<sup>泰兴</sup></small> 外行。<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>\[泰州：相对“内教”\]：不要说～话。<sup>\[如东\]</sup>｜谈养鸭，你是～。<sup>\[兴化\]</sup>｜他烧饭是个大～。<sup>\[泰州\]</sup>｜催生婆儿摸屁股，大～<sup>\[泰兴\]</sup>  
-1. 【[外客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_keh.md#外客)】`vae6 keh7` <sup>[兴化]</sup> 指家人和亲戚以外的客人：明朝是老太的生日，不请～，自家儿孙欢聚。  
-1. 【[外客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_keh.md#外客)】`vae6 keh7` <small>/ʋɛ1 kʰəʔ7/<sup>泰兴</sup></small> 外来的客人。<sup>\[泰兴\]</sup>  
+1. 【[外客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_keh.md#外客)】`vae6 keh7` <small>/uɛ6 kʰəʔ7/<sup>兴化</sup>, /ʋɛ1 kʰəʔ7/<sup>泰兴</sup></small> ① 指家人和亲戚以外的客人<sup>\[兴化\]</sup>：明朝是老太的生日，不请～，自家儿孙欢聚。<sup>\[兴化\]</sup> ② 外来的客人。<sup>\[泰兴\]</sup>  
 1. 【[外口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_keu.md#外口)】`vae6 keu3` <small>/uɛ6 kʰɤ3/<sup>兴化</sup>, /ʋɛ1 kʰei3/<sup>如皋</sup></small> ① 靠近外边之处<sup>\[如皋\]</sup>：水缸～就是门。<sup>\[如皋\]</sup> ② 外边，相对于里口而言<sup>\[兴化\]</sup>：大圩的～要加固。<sup>\[兴化\]</sup>  
 1. 【[外快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_kuae.md#外快)】`vae6 kuae5` <sup>[如东]</sup> 正常收入以外的收人：捞～。  
 1. 【[外快/外𢾒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_kuae.md#外快/外𢾒)】`vae6 kuae5` 额外收入。<sup>\[泰州\]</sup>  
@@ -474,8 +471,7 @@
 1. 【[外面花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_min_hua.md#外面花)】`vae6 min6 hua1` <sup>[泰县]</sup> 秤杆上向外一面的星。  
 1. 【[外婆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_pu.md#外婆)】`vae6 pu2` <sup>[如皋]</sup> 外祖母。  
 1. 【[外去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_qy.md#外去)】`vae6 qy` ① 到外面去，到室外去<sup>\[泰州\]</sup>：大门口好像有人在下吵，你～看看。<sup>\[泰州\]</sup> ② 到远方去，出门<sup>\[泰州\]</sup>：老李～啊唻，上南京开会去啊。<sup>\[泰州\]</sup>  
-1. 【[外甥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_shen.md#外甥)】`vae6 shen` <sup>[如东]</sup> 男子的姐妹的儿子。  
-1. 【[外甥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_shen.md#外甥)】`vae6 shen` <small>/ʋɛ1 səŋ/<sup>泰兴</sup></small> 姐或妹的儿子。称呼自己舅舅者。<sup>\[泰兴\]</sup>  
+1. 【[外甥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_shen.md#外甥)】`vae6 shen` <small>/ʋɛ1 səŋ/<sup>泰兴</sup></small> ① 男子的姐妹的儿子。<sup>\[如东\]</sup> ② 姐或妹的儿子。称呼自己舅舅者。<sup>\[泰兴\]</sup>  
 1. 【[外甥女](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_shen_ny.md#外甥女)】`vae6 shen ny3` <sup>[如东]</sup> 男子的姐妹的女儿。  
 1. 【[外甥女婿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_shen_ny_xy.md#外甥女婿)】`vae6 shen ny3 xy` <sup>[兴化]</sup> 外甥女的丈夫。  
 1. 【[外甥孙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_shen_suen.md#外甥孙)】`vae6 shen suen1` <sup>[兴化]</sup> 外甥或外甥女的儿子。  
@@ -484,8 +480,7 @@
 1. 【[外甥打灯笼，照舅（旧）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_shen_da_den_lon_zho_qieu.md#外甥打灯笼，照舅（旧）)】`vae6 shen1 da3 den1 lon2 zho5 qieu6` <small>/ʋɛ1 səŋ1 tɑ3 təŋ1 lɔŋ2 t͡sɔ5 t͡ɕʰiɤɯ1/<sup>泰兴</sup></small> 歇后语。谓按原来的办。<sup>\[泰兴\]</sup>  
 1. 【[外孙女婿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_suen_ny_xy.md#外孙女婿)】`vae6 suen ny3 xy` <sup>[兴化]</sup> 外孙女的丈夫。  
 1. 【[外孙新妇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_suen_xien_fv.md#外孙新妇)】`vae6 suen xien1 fv` <sup>[兴化]</sup> 外孙的妻。  
-1. 【[外孙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_suen.md#外孙)】`vae6 suen1` <sup>[如东]</sup> 女儿的儿子。  
-1. 【[外孙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_suen.md#外孙)】`vae6 suen1` <small>/ʋɛ1 suəŋ1/<sup>泰兴</sup></small> 女儿的儿子<sup>\[泰兴\]</sup>  
+1. 【[外孙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_suen.md#外孙)】`vae6 suen1` <small>/ʋɛ1 suəŋ1/<sup>泰兴</sup></small> 女儿的儿子<sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
 1. 【[外孙女](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_suen_ny.md#外孙女)】`vae6 suen1 ny3` 女儿的女儿。<sup>\[如东\]</sup><sup>\[泰州\]</sup>  
 1. 【[外孙认不得婆爹爹——妈妈父（马马虎）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_suen_ren_beh_deh_pu_dia_dia_ma_ma_fv.md#外孙认不得婆爹爹——妈妈父（马马虎）)】`vae6 suen1 ren6 beh7 deh7 pu2 dia1 dia1 ma1 ma1 fv6 （ma1 ma1 hv1）` <sup>[东台]</sup>   
 1. 【[外孙认不得舅爹爹——舅爸（就罢）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_suen_ren_beh_deh_qieu_dia_dia_qieu_ba.md#外孙认不得舅爹爹——舅爸（就罢）)】`vae6 suen1 ren6 beh7 deh7 qieu6 dia1 dia1 qieu6 ba5` <sup>[东台]</sup>   
@@ -499,8 +494,7 @@
 1. 【[外外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_vae.md#外外)】`vae6 vae` 外祖父<sup>\[如东\]</sup>  
 1. 【[外外后朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_vae_heu_do.md#外外后朝)】`vae6 vae6 heu6 do` <sup>[如皋]</sup> 后天的后天。  
 1. 【[外外后年子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_vae_heu_nin_zz.md#外外后年子)】`vae6 vae6 heu6 nin zz` <sup>[如皋]</sup> 后年的后年。  
-1. 【[外相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_xian.md#外相)】`vae6 xian5` <sup>[兴化]</sup> 指外表的样子：乌鸡～虽不堪入目，叫声也不悦耳，但它不说谎话，是个大忠良……（马春阳《翁婿同还乡》）  
-1. 【[外相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_xian.md#外相)】`vae6 xian5` <small>/ʋɛ1 ɕiɑŋ5/<sup>泰兴</sup></small> 外表。或谓表面现象。<sup>\[泰兴\]</sup>  
+1. 【[外相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_xian.md#外相)】`vae6 xian5` <small>/uɛ6 ɕiaŋ5/<sup>兴化</sup>, /ʋɛ1 ɕiɑŋ5/<sup>泰兴</sup></small> ① 指外表的样子<sup>\[兴化\]</sup>：乌鸡～虽不堪入目，叫声也不悦耳，但它不说谎话，是个大忠良……（马春阳《翁婿同还乡》）<sup>\[兴化\]</sup> ② 外表。或谓表面现象。<sup>\[泰兴\]</sup>  
 1. 【[外走廊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_zeu_lan.md#外走廊)】`vae6 zeu3 lan2` <small>/ʋɛ1 t͡sɤɯ3 lɑŋ2/<sup>泰兴</sup></small> 房屋室外的走廊。<sup>\[泰兴\]</sup>  
 1. 【[外症](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_zhen.md#外症)】`vae6 zhen5` <sup>[兴化]</sup> 中医指疮、疔、疖、痈、疽、痔等外科疾病：王淡人一看，这是个有名有姓的～｜搭背。（汪曾祺《故乡人》）  
 1. 【[外祖父](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_zv_fv.md#外祖父)】`vae6 zv3 fv6` <sup>[如东]</sup> 母亲的父亲。也称外公、外外。  

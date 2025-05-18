@@ -22,8 +22,7 @@
 1. 【[扒头钉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_teu_dien.md#扒头钉)】`pa2 teu2 dien1` <sup>[兴化]</sup> 一种上部呈扁圆形的铁钉。钉入木料后，头子卷曲成扒子形。  
 1. 【[扒网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_van.md#扒网)】`pa2 van3` <sup>[如皋]</sup> 头部有箕形架的小网，装长竹柄，人在岸边抛网，拉捕小鱼虾。  
 1. 【[扒鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_y.md#扒鱼)】`pa2 y2` <sup>[如皋]</sup> 将扒网抛向河心，握住长柄向岸边拉，可捕小鱼、小虾。  
-1. 【[掱<sub>儿</sub>手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_r_sheu.md#掱<sub>儿</sub>手)】`pa2 r sheu3` <sup>[如东]</sup> 小偷。也叫三只手。  
-1. 【[掱<sub>儿</sub>手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_r_sheu.md#掱<sub>儿</sub>手)】`pa2 r sheu3` <small>/pʰɑ˞2 ɕiɤɯ3/<sup>泰兴</sup></small> 也称“扒手”。从别人身上摸取财物的小偷。<sup>\[泰兴\]</sup>  
+1. 【[掱<sub>儿</sub>手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_r_sheu.md#掱<sub>儿</sub>手)】`pa2 r sheu3` <small>/pʰɑ˞2 ɕiɤɯ3/<sup>泰兴</sup></small> ① 小偷。也叫三只手。<sup>\[如东\]</sup> ② 也称“扒手”。从别人身上摸取财物的小偷。<sup>\[泰兴\]</sup>  
 1. 【[掱手/爬手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_sheu.md#掱手/爬手)】`pa2 sheu3` 俗称剪绺，剪开他人衣带以窃取钱财者<sup>\[泰州\]</sup>：皮夹子在火车站捱～摸咖走啊。<sup>\[泰州\]</sup>  
 1. 【[爬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa.md#爬)】`pa2` ① 爬 ② 用手支撑身体站起<sup>\[泰州\]</sup>：腿子跌咖受啊伤，～不起来唻。<sup>\[泰州\]</sup>  
 1. 【[爬到戥盘上称称](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_do_den_pun_shan_chen_chen.md#爬到戥盘上称称)】`pa2 do5 den3 pun2 shan chen1 chen` <sup>[东台]</sup> 嘲讽有人不自量力，也提醒人要有自知之明。  
@@ -568,8 +567,7 @@
 1. 【[平顶头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_dien_teu.md#平顶头)】`pien2 dien3 teu2` <sup>[兴化]</sup> 一种发式，即平头：他是个大高个子，～。  
 1. 【[平房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_fan.md#平房)】`pien2 fan2` <small>/pʰiŋ2 fɑŋ2/<sup>泰兴</sup></small> ① 一层的房屋。<sup>\[如东\]</sup> ② 只有一层的房子（区别于楼房）。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[平服/平伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_foh.md#平服/平伏)】`pien2 foh8` <small>/pʰiɪ̃2 fɔʔ8/<sup>兴化</sup>, /pʰiəŋ2 fɔʔ8/<sup>如皋</sup>, /pʰiŋ2 fɔʔ8/<sup>泰兴</sup></small> ① 平静，转为平静<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup><sup>\[泰州\]</sup>：才进医院的刻儿蛮咆躁的，这刻儿～咖。<sup>\[如皋\]</sup>｜她被击倒了，躺在床上，悲切之后，器儿的心开始～下来。（钱国怀《摆渡的女人》）<sup>\[兴化\]</sup>｜这件事现在还不曾算了解，怕的还要过到些时，才能慢慢～/平息<sup>\[泰州\]</sup>｜一针打下去，她这刻儿呼吸～咖唻/平稳<sup>\[泰州\]</sup> ② 服气<sup>\[兴化\]</sup>：做事公平，人心才～吤！<sup>\[兴化\]</sup> ③ 布、纸等加压或熨烫后平展。<sup>\[兴化\]</sup> ④ 平整<sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：这块地～的，稍微整吖子就能用唻。<sup>\[泰州\]</sup>  
-1. 【[平风息浪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_fon_xieh_lan.md#平风息浪)】`pien2 fon1 xieh7 lan6` <sup>[兴化]</sup> 形容风停浪静：台风一过，外头～的。  
-1. 【[平风息浪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_fon_xieh_lan.md#平风息浪)】`pien2 fon1 xieh7 lan6` <small>/pʰiŋ2 fɔŋ1 ɕiʔ7 lɑŋ1/<sup>泰兴</sup></small> 风平浪静，多喻平安无事。<sup>\[泰兴\]</sup>  
+1. 【[平风息浪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_fon_xieh_lan.md#平风息浪)】`pien2 fon1 xieh7 lan6` <small>/pʰiɪ̃2 foŋ1 ɕiəʔ7 laŋ6/<sup>兴化</sup>, /pʰiŋ2 fɔŋ1 ɕiʔ7 lɑŋ1/<sup>泰兴</sup></small> ① 形容风停浪静<sup>\[兴化\]</sup>：台风一过，外头～的。<sup>\[兴化\]</sup> ② 风平浪静，多喻平安无事。<sup>\[泰兴\]</sup>  
 1. 【[平菇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_gv.md#平菇)】`pien2 gv1` <sup>[兴化]</sup> 一种蕈类，伞状。市场出售的多为人工培植，供食用。  
 1. 【[平和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_hu.md#平和)】`pien2 hu2` <sup>[兴化]</sup> 纠纷平息，气氛缓和：一帮人在市场打群架，110的人来啊才～下来。  
 1. 【[平阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_ian.md#平阳)】`pien2 ian2` <sup>[兴化]</sup> 平展空旷之地：下西坡，乃是一段～之地。（《西游记》五六）｜谚曰：龙游浅水遭虾戏，虎落～受犬欺。  
@@ -582,10 +580,8 @@
 1. 【[平白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_poh.md#平白)】`pien2 poh8` <sup>[如东]</sup> 没有任何关系：～无故。  
 1. 【[平白无辜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_poh_v_gv.md#平白无辜)】`pien2 poh8 v2 gv1` <sup>[如皋]</sup> ① 无辜：他～的捱人家欺，叫人不服气！ ② 无理由无借口：我～的去寻他，怎吖好开口啷？  
 1. 【[平起平坐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_qi_pien_cu.md#平起平坐)】`pien2 qi3 pien2 cu6` <small>/pʰiŋ2 t͡ɕʰʝ3 pʰiŋ2 t͡sʰɤɯ1/<sup>泰兴</sup></small> ① 比喻彼此地位或权力相等。<sup>\[如东\]</sup> ② 中国传统礼仪之一，入座之时，辈分、地位平等之人，可以同时起身或者同时坐下。而晚辈以及位卑之人在入座时，须等长者、尊者坐下以后方可坐下，在离座时须等长者、尊者起身以后方可起身。<sup>\[泰州\]</sup> ③ 指双方地位或者权力相等<sup>\[泰州\]</sup>：老周是局长，老吴是书记，他俫两个人在局里～，你这个当处长的，一个都不能得罪！<sup>\[泰州\]</sup>｜你家这哿副局长不上规矩，他以为也喊他局长，就同一把手局长～唻！<sup>\[泰州\]</sup> ④ 比喻地位或权力、辈分相等。<sup>\[泰兴\]</sup>  
-1. 【[平手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_sheu.md#平手)】`pien2 sheu3` <sup>[东台]</sup> 不分高下的比赛结果：两队打成吖～。  
-1. 【[平手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_sheu.md#平手)】`pien2 sheu3` <small>/pʰiŋ2 ɕiɤɯ3/<sup>泰兴</sup></small> 在相互竞赛（竞争）中不分胜负。<sup>\[泰兴\]</sup>  
-1. 【[平时不烧香，临死抱佛脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_shr_beh_sho_xian_lien_sz_po_feh_jiah.md#平时不烧香，临死抱佛脚)】`pien2 shr2 beh7 sho1 xian1 lien2 sz3 po6 feh8 jiah7` <sup>[东台]</sup> ［喻］平时不努力，事到临头再怎么折腾也无济于事：大家要把功夫用在经常性的操作上，不要～。  
-1. 【[平时不烧香，临死抱佛脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_shr_beh_sho_xian_lien_sz_po_feh_jiah.md#平时不烧香，临死抱佛脚)】`pien2 shr2 beh7 sho1 xian1 lien2 sz3 po6 feh8 jiah7` <small>/pʰiŋ2 sɿ2 pəʔ7 sɔ1 ɕiɑŋ1 liŋ2 sɿ3 pʰɔ1 fəʔ8 t͡ɕiɑʔ7/<sup>泰兴</sup></small> 谓平日不早作准备或努力，到事情紧急时才匆忙设法解决（某个问题）。<sup>\[泰兴\]</sup>  
+1. 【[平手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_sheu.md#平手)】`pien2 sheu3` <small>/pʰiŋ2 ɕiɤɯ3/<sup>泰兴</sup></small> 不分高下的比赛结果<sup>\[东台\]</sup><sup>\[泰兴\]</sup>：两队打成吖～。<sup>\[东台\]</sup>  
+1. 【[平时不烧香，临死抱佛脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_shr_beh_sho_xian_lien_sz_po_feh_jiah.md#平时不烧香，临死抱佛脚)】`pien2 shr2 beh7 sho1 xian1 lien2 sz3 po6 feh8 jiah7` <small>/pʰiŋ2 sɿ2 pəʔ7 sɔ1 ɕiɑŋ1 liŋ2 sɿ3 pʰɔ1 fəʔ8 t͡ɕiɑʔ7/<sup>泰兴</sup></small> ① ［喻］平时不努力，事到临头再怎么折腾也无济于事<sup>\[东台\]</sup>：大家要把功夫用在经常性的操作上，不要～。<sup>\[东台\]</sup> ② 谓平日不早作准备或努力，到事情紧急时才匆忙设法解决（某个问题）。<sup>\[泰兴\]</sup>  
 1. 【[平素](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_sv.md#平素)】`pien2 sv5` <sup>[兴化]</sup> 平时、向来：他～儿蛮讲信用的。｜“……就是衣服一层，～总不肯穿一件绸衣……”（《二十年目睹之怪现状》七四）  
 1. 【[平摊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_taen.md#平摊)】`pien2 taen1` <sup>[如皋]</sup> 平均分摊。  
 1. 【[平堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_tan.md#平堂)】`pien2 tan2` <sup>[如东]</sup> 物体表面平滑：这条路～。  
@@ -965,21 +961,18 @@
 1. 【[白眼珠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_ngaen_zhv.md#白眼珠)】`poh8 ngaen3 zhv1` <sup>[如东]</sup> 眼球上白色的部分，称白眼珠。  
 1. 【[白额燕鸥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_ngeh_in_ngeu.md#白额燕鸥)】`poh8 ngeh8 in5 ngeu1` <sup>[如东]</sup> 鸥科动物白额燕鸥，体长约25厘米。前额白色。上嘴基部有一黑纹伸至眼上方，头顶至后颈黑，背、肩及二翅的表面灰色，腰灰色，尾上复羽和尾羽纯白下体纯白。眼暗褐色。嘴黄，具黑尖。脚和趾橙黄。栖息于海边和内陆江河等处，觅食小鱼、小虾等。  
 1. 【[白鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_pieh_zz.md#白鼻子)】`poh8 pieh8 zz` <sup>[如皋]</sup> 借指坏人（缘自京剧丑角脸谱）。  
-1. 【[白白净净](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_poh_qien_qien.md#白白净净)】`poh8 poh8 qien6 qien6` <sup>[泰州]</sup> “白净”的生动形式，皮肤白皙而洁净的样子：这小伙长得不丑，～的。  
-1. 【[白白净净](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_poh_qien_qien.md#白白净净)】`poh8 poh8 qien6 qien6` <small>/pʰɔʔ8 pʰɔʔ8 t͡ɕʰiŋ1 t͡ɕʰiŋ1/<sup>泰兴</sup></small> 洁白，干净。<sup>\[泰兴\]</sup>  
+1. 【[白白净净](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_poh_qien_qien.md#白白净净)】`poh8 poh8 qien6 qien6` <small>/pʰɔʔ8 pʰɔʔ8 t͡ɕʰiŋ1 t͡ɕʰiŋ1/<sup>泰兴</sup></small> ① “白净”的生动形式，皮肤白皙而洁净的样子<sup>\[泰州\]</sup>：这小伙长得不丑，～的。<sup>\[泰州\]</sup> ② 洁白，干净。<sup>\[泰兴\]</sup>  
 1. 【[白斜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_qia.md#白斜)】`poh8 qia2` <sup>[兴化]</sup> ① 故事：说～。 ② 闲扯：两个人没事做，晒太阳，曰～。  
 1. 【[白斜斜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_qia_qia.md#白斜斜)】`poh8 qia2 qia2` <sup>[兴化]</sup> 平白无故地：今朝活倒霉，～的捱人家骗去几百块钱。  
 1. 【[白净](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_qien.md#白净)】`poh8 qien6` <sup>[如东]</sup> 色白而洁嫩：皮肤～。  
 1. 【[白净净的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_qien_qien_dii.md#白净净的)】`poh8 qien6 qien6 dii` <sup>[如皋]</sup> 状肤色白浄细匀。  
 1. 【[白<sub>儿</sub>大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_r_da.md#白<sub>儿</sub>大)】`poh8 r da5` <sup>[如皋]</sup> 见“白大”。  
 1. 【[白日闯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_rih_chuan.md#白日闯)】`poh8 rih8 chuan3` <small>/pʰɔʔ8 ɻiʔ8 t͡sʰuã3/<sup>如皋</sup></small> ① 大白天径自到人家闯骗或行窃的人。<sup>\[如皋\]</sup> ② 白天闯入人家作案的贼<sup>\[泰州\]</sup>：生人敲门不能随便开门，当心是～。<sup>\[泰州\]</sup>  
-1. 【[白日撞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_rih_chuan.md#白日撞)】`poh8 rih8 chuan6` <sup>[兴化]</sup> 小偷白天潜入人家行窃者：一个～掩进门来，见家里有人，讪讪地走了。  
-1. 【[白日撞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_rih_chuan.md#白日撞)】`poh8 rih8 chuan6` <small>/pʰɔʔ8 iʔ8 t͡sʰuɑŋ1/<sup>泰兴</sup></small> 白天闯入人家作案的窃贼。<sup>\[泰兴\]</sup>：昨朝有个～被逮住了。<sup>\[泰兴\]</sup>  
+1. 【[白日撞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_rih_chuan.md#白日撞)】`poh8 rih8 chuan6` <small>/pʰɔʔ8 liɪʔ8 t͡sʰuaŋ6/<sup>兴化</sup>, /pʰɔʔ8 iʔ8 t͡sʰuɑŋ1/<sup>泰兴</sup></small> ① 小偷白天潜入人家行窃者<sup>\[兴化\]</sup>：一个～掩进门来，见家里有人，讪讪地走了。<sup>\[兴化\]</sup> ② 白天闯入人家作案的窃贼。<sup>\[泰兴\]</sup>：昨朝有个～被逮住了。<sup>\[泰兴\]</sup>  
 1. 【[白日皇天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_rih_huan_tin.md#白日皇天)】`poh8 rih8 huan2 tin1` <sup>[如东]</sup> 晴好的白天：～，还怕甚的！  
 1. 【[白沙糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_sha_tan.md#白沙糖)】`poh8 sha1 tan2` <sup>[如东]</sup> 禾本科植物甘蔗的茎汁，经精制而成的乳白色结晶体。也称白糖。  
 1. 【[白芍药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_shah_iah.md#白芍药)】`poh8 shah8 iah8` <sup>[如东]</sup> 毛茛科植物芍药，多年生草本。  
-1. 【[白食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_sheh.md#白食)】`poh8 sheh8` <sup>[东台]</sup> 亦称“吃白大”。  
-1. 【[白食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_sheh.md#白食)】`poh8 sheh8` <small>/pʰɔʔ8 səʔ8/<sup>泰兴</sup></small> 不出力不出钱而得到的饮食，吃白大的。<sup>\[泰兴\]</sup>：吃～的交易我不弄。<sup>\[泰兴\]</sup>  
+1. 【[白食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_sheh.md#白食)】`poh8 sheh8` <small>/pʰɔʔ8 səʔ8/<sup>泰兴</sup></small> 不出力不出钱而得到的饮食，吃白大的。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>：吃～的交易我不弄。<sup>\[泰兴\]</sup>  
 1. 【[白生生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_shen_shen.md#白生生)】`poh8 shen1 shen1` <sup>[兴化]</sup> 形容皮肤白暂：小韩～的脸皮子，比女伢儿还娇嫩。  
 1. 【[白身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_shen.md#白身)】`poh8 shen1` <small>/pʰɔʔ8 səŋ1/<sup>泰兴</sup></small> 未油漆的家具。<sup>\[泰兴\]</sup>  
 1. 【[白身子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_shen_zz.md#白身子)】`poh8 shen1 zz` <sup>[东台]</sup> 未上油漆的木制家具。  
@@ -1252,8 +1245,7 @@
 1. 【[盘旋豇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_qiun_gan.md#盘旋豇)】`pun2 qiun6 gan1` <sup>[如东]</sup> 一年生草本植物。茎蔓生。叶子由三个棱形小叶合成。花淡紫色。果实盘旋状，故名盘旋豇，亦称盘盘儿豇。普通蔬菜。  
 1. 【[盘旋筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_qiun_jien.md#盘旋筋)】`pun2 qiun6 jien1` <sup>[如东]</sup> 曲张的静脉，称盘旋筋。  
 1. 【[盘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_r.md#盘<sub>儿</sub>)】`pun2 r` ① 轮子 ② 轮子。<sup>\[如东\]</sup>  
-1. 【[盘手爪<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_sheu_zho_r.md#盘手爪<sub>儿</sub>)】`pun2 sheu3 zho3 r` <sup>[如皋]</sup> 般玩指头。喻无所事事。  
-1. 【[盘手爪<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_sheu_zho_r.md#盘手爪<sub>儿</sub>)】`pun2 sheu3 zho3 r` <sup>[如东]</sup> 两手捧在一起，表示懒惰，不做事：这个人一天到晚～。  
+1. 【[盘手爪<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_sheu_zho_r.md#盘手爪<sub>儿</sub>)】`pun2 sheu3 zho3 r` <small>/pʰʊ̃2 sei3 t͡sɔ˞3/<sup>如皋</sup></small> ① 般玩指头。喻无所事事。<sup>\[如皋\]</sup> ② 两手捧在一起，表示懒惰，不做事。<sup>\[如东\]</sup>：这个人一天到晚～。<sup>\[如东\]</sup>  
 1. 【[盘水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_shuei.md#盘水)】`pun2 shuei3` <sup>[如皋]</sup> 面条煮熟即下冷水激，终止后熟，再烫一下，搳去水，这一过程称～。  
 1. 【[盘水面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_shuei_min.md#盘水面)】`pun2 shuei3 min6` <sup>[如皋]</sup> 煮法见“盘水”。装碗与佐料拌匀，不放汤的面条。另做“口汤”。与“点汤面、糊糊儿面”相对。  
 1. 【[盘算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_sun.md#盘算)】`pun2 sun5` <sup>[如东]</sup> 计算。企图别人的好处：～人。  

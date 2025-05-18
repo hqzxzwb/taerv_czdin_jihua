@@ -487,8 +487,7 @@
 1. 【[淌猫<sub>儿</sub>屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_mo_r_shr.md#淌猫<sub>儿</sub>屎)】`tan3 mo2 r shr3` <sup>[泰县]</sup> 流泪。  
 1. 【[淌猫<sub>儿</sub>尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_mo_r_xy.md#淌猫<sub>儿</sub>尿)】`tan3 mo2 r xy1` <sup>[如皋]</sup> 詈语。指流泪。  
 1. 【[淌猫尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_mo_suei.md#淌猫尿)】`tan3 mo2 suei1` <sup>[兴化]</sup> （戏）流泪。也说“淌麻油”。  
-1. 【[淌猫尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_mo_xy.md#淌猫尿)】`tan3 mo2 xy1` <sup>[东台]</sup> 戏称淌眼泪：你好好做，不然捱我熊吖还覅～！  
-1. 【[淌猫尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_mo_xy.md#淌猫尿)】`tan3 mo2 xy1` <sup>[泰州]</sup> 讥讽人流眼泪：说咖急咖就～。  
+1. 【[淌猫尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_mo_xy.md#淌猫尿)】`tan3 mo2 xy1` 戏称淌眼泪<sup>\[东台\]</sup><sup>\[泰州\]</sup>：你好好做，不然捱我熊吖还覅～！<sup>\[东台\]</sup>｜说咖急咖就～。<sup>\[泰州\]</sup>  
 1. 【[淌吖身大汗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_nga_shen_da_hun.md#淌吖身大汗)】`tan3 nga shen1 da6 hun6` <sup>[东台]</sup> ［喻］用了一大笔钱：这次些朋友来聚会，叫你～。  
 1. 【[淌动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_ton.md#淌动)】`tan3 ton` <sup>[如皋]</sup> 缓缓流动。  
 1. 【[淌针子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_zhen_zz.md#淌针子)】`tan3 zhen1 zz` <sup>[如皋]</sup> 用针线一直连。  
@@ -692,10 +691,8 @@
 1. 【[头发丝炒韭菜——乱七八糟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_faeh_sz_cho_jieu_cae_lun_qieh_baeh_zo.md#头发丝炒韭菜——乱七八糟)】`teu2 faeh7 sz1 cho3 jieu3 cae5 lun6 qieh7 baeh7 zo1` <sup>[东台]</sup>   
 1. 【[头发丝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_faeh_sz_r.md#头发丝<sub>儿</sub>)】`teu2 faeh7 sz1 r` <sup>[如东]</sup> 人的一根一根的头发。  
 1. 【[头发网<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_faeh_van_r.md#头发网<sub>儿</sub>)】`teu2 faeh7 van3 r` <sup>[如皋]</sup> 罩发网。又称“大网儿”。  
-1. 【[头伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_foh.md#头伏)】`teu2 foh8` <sup>[如皋]</sup> 见“初伏”。  
-1. 【[头伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_foh.md#头伏)】`teu2 foh8` <small>/tʰəɪ2 fɔʔ8/<sup>泰兴</sup></small> 伏天分大伏、中伏、小伏“三伏”，大伏即头伏。<sup>\[泰兴\]</sup>  
-1. 【[头风头水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_fon_teu_shuei.md#头风头水)】`teu2 fon1 teu2 shuei3` <sup>[兴化]</sup> 第一回：新年～的第一笔生意，不能失手。  
-1. 【[头风头水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_fon_teu_shuei.md#头风头水)】`teu2 fon1 teu2 shuei3` <small>/tʰəɪ2 fɔŋ1 tʰəɪ2 suəɪ3/<sup>泰兴</sup></small> 第一次，首次。<sup>\[泰兴\]</sup>：你～的来，要多耍子几天。<sup>\[泰兴\]</sup>  
+1. 【[头伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_foh.md#头伏)】`teu2 foh8` <small>/tʰei2 fɔʔ8/<sup>如皋</sup>, /tʰəɪ2 fɔʔ8/<sup>泰兴</sup></small> ① 见“初伏”。<sup>\[如皋\]</sup> ② 伏天分大伏、中伏、小伏“三伏”，大伏即头伏。<sup>\[泰兴\]</sup>  
+1. 【[头风头水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_fon_teu_shuei.md#头风头水)】`teu2 fon1 teu2 shuei3` <small>/tʰɤ2 foŋ1 tʰɤ2 suəi3/<sup>兴化</sup>, /tʰəɪ2 fɔŋ1 tʰəɪ2 suəɪ3/<sup>泰兴</sup></small> ① 第一回<sup>\[兴化\]</sup>：新年～的第一笔生意，不能失手。<sup>\[兴化\]</sup> ② 第一次，首次。<sup>\[泰兴\]</sup>：你～的来，要多耍子几天。<sup>\[泰兴\]</sup>  
 1. 【[头麸面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_fv_min.md#头麸面)】`teu2 fv min6` <sup>[兴化]</sup> 磨面粉时筛下的第一交（go5）成品，相当于精面。  
 1. 【[头家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_ga.md#头家)】`teu2 ga1-3` <sup>[东台]</sup> ① 第一个。 ② 比赛中最大的贏家。  
 1. 【[头家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_ga.md#头家)】`teu2 ga1` <small>/tʰɤ2 ka1/<sup>兴化</sup>, /tʰei2 ka1/<sup>如皋</sup>, /tʰəɪ2 kɑ1/<sup>泰兴</sup>, /tʰɤɯ2 ka1/<sup>泰县</sup></small> ① 玩游戏时的第一个人 ② 打牌、做游戏每一盘的开始者或庄主。<sup>\[如皋\]</sup> ③ 第一家。<sup>\[如东\]</sup>：上交公粮张三是～。<sup>\[如东\]</sup> ④ 打牌时庄家称头家。<sup>\[如东\]</sup>：王二做～。<sup>\[如东\]</sup> ⑤ 聚赌时的庄家。<sup>\[兴化\]</sup> ⑥ 第一个起牌的<sup>\[兴化\]</sup>：我是～。<sup>\[兴化\]</sup> ⑦ 第一名：这回下棋你是～。<sup>\[泰县\]</sup> ⑧ 每局牌局中第一个取牌、出牌的人<sup>\[泰州\]</sup>：你是～，摊你出牌，快点儿。<sup>\[泰州\]</sup> ⑨ 犹庄家。某些牌戏或赌博中每一局的主持人。<sup>\[泰兴\]</sup>  
@@ -708,8 +705,7 @@
 1. 【[头一的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_ieh_dii.md#头一的)】`teu2 ieh7 dii` <small>/tʰəɪ2 iʔ7 təɪ/<sup>泰兴</sup></small> 第一个，第一条；特别是。<sup>\[泰兴\]</sup>：～是他不派动手打人。<sup>\[泰兴\]</sup>  
 1. 【[头一发](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_ieh_faeh.md#头一发)】`teu2 ieh7 faeh7` <sup>[泰州]</sup> ① 第一次：他又不是～到泰州来，怎吖得认不得路。 ② 第一批：这个是第二发的人，～的人已经走啊唻。  
 1. 【[头一个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_ieh_gu.md#头一个)】`teu2 ieh7 gu5` <sup>[泰州]</sup> 顺序为第一的：下啊班她是～走。  
-1. 【[头一回](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_ieh_huei.md#头一回)】`teu2 ieh7 huei2` <sup>[如东]</sup> 第一次。  
-1. 【[头一回](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_ieh_huei.md#头一回)】`teu2 ieh7 huei2` <small>/tʰəɪ2 iʔ7 xuəɪ2/<sup>泰兴</sup></small> 第一回，首次。<sup>\[泰兴\]</sup>  
+1. 【[头一回](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_ieh_huei.md#头一回)】`teu2 ieh7 huei2` <small>/tʰəɪ2 iʔ7 xuəɪ2/<sup>泰兴</sup></small> 第一回，首次。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
 1. 【[头一上来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_ieh_shan_lae.md#头一上来)】`teu2 ieh7 shan6 lae` <small>/tʰɤ2 iəʔ7 saŋ6 lɛ/<sup>兴化</sup></small> ① 刚开始。见“头上来”。<sup>\[兴化\]</sup> ② 刚开始。<sup>\[兴化\]</sup>  
 1. 【[头一代](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_ieh_tae.md#头一代)】`teu2 ieh7 tae6` <sup>[泰州]</sup> 第一代祖宗，多用作讥讽：你家厂长望见你就怕，你真了不起！你是他家的～？  
 1. 【[头应里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_ien_lii.md#头应里)】`teu2 ien5 lii` <sup>[东台]</sup> 人死后第一个祭祀活动日，通常在“伴夜”那一天：老人家死后，～来吊唁的亲友蛮多的。  
@@ -731,12 +727,10 @@
 1. 【[头目](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_moh.md#头目)】`teu2 moh8` <sup>[如东]</sup> 头领。领导。  
 1. 【[头难](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_naen.md#头难)】`teu2 naen2` <small>/tʰɤ2 lɛ̃2/<sup>兴化</sup>, /tʰei2 nẽ2/<sup>如皋</sup></small> ① 开始时困难大。<sup>\[如皋\]</sup> ② 凡做一件事，起头的时候都感到困难<sup>\[兴化\]</sup>：俗语说～～。<sup>\[兴化\]</sup> ③ 凡是开头困难<sup>\[泰州\]</sup>：不要说～，你真正开啊头就不难唻。<sup>\[泰州\]</sup>  
 1. 【[头难剃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_naen_ti.md#头难剃)】`teu2 naen2 ti5` <sup>[泰州]</sup> 比喻最初阶段难以制服，或者不好对付：这小伙郎当吖惯吖，现在同他上规矩，就怕～。  
-1. 【[头年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_nin.md#头年)】`teu2 nin2` <sup>[兴化]</sup> ① 上一年：～中秋节。 ② 人死后第一个忌辰：记得老王去年过世，转眼已是～。  
-1. 【[头年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_nin.md#头年)】`teu2 nin2` <small>/tʰəɪ2 nĩ2/<sup>泰兴</sup></small> 第一年。<sup>\[泰兴\]</sup>  
+1. 【[头年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_nin.md#头年)】`teu2 nin2` <small>/tʰɤ2 liɪ̃2/<sup>兴化</sup>, /tʰəɪ2 nĩ2/<sup>泰兴</sup></small> ① 上一年<sup>\[兴化\]</sup>：～中秋节。<sup>\[兴化\]</sup> ② 人死后第一个忌辰<sup>\[兴化\]</sup>：记得老王去年过世，转眼已是～。<sup>\[兴化\]</sup> ③ 第一年。<sup>\[泰兴\]</sup>  
 1. 【[头脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_no.md#头脑)】`teu2 no3` <sup>[兴化]</sup> ① 头绪：“……（爷）把这件没～的事，派我去碰头，怎么说我没用呢？”（《红楼梦》三九） ② 合适的对象：雪娥收泪谢薛嫂｜“只望早晚寻个好～，我去只有饭吃罢。”（《金瓶梅词话》九四）  
 1. 【[头脑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_no_zz.md#头脑子)】`teu2 no3 zz` <small>/tʰɤ2 lɔ3 t͡sɿ/<sup>兴化</sup></small> ① 脑筋<sup>\[兴化\]</sup>：他一天到晚动～。<sup>\[兴化\]</sup> ② 头骨破裂时流出的脑髓。<sup>\[兴化\]</sup> ③ 比喻思考、记忆等能力<sup>\[泰州\]</sup>：这个人做事没得点儿～。<sup>\[泰州\]</sup>  
-1. 【[头南脚北](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_nun_jiah_boh.md#头南脚北)】`teu2 nun2 jiah7 boh7` <sup>[兴化]</sup> 死亡的隐语，因灵床上尸体方位通常如此：叹世人，真可惜……并不顾～，倒成了手指东西！（《施公案》一〇一）  
-1. 【[头南脚北](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_nun_jiah_boh.md#头南脚北)】`teu2 nun2 jiah7 boh7` <small>/tʰəɪ2 nʊ̃2 t͡ɕiɑʔ7 pɔʔ7/<sup>泰兴</sup></small> 谓人死后躺着的方位，通常指人过世。<sup>\[泰兴\]</sup>  
+1. 【[头南脚北](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_nun_jiah_boh.md#头南脚北)】`teu2 nun2 jiah7 boh7` <small>/tʰɤ2 lũ2 t͡ɕiaʔ7 pɔʔ7/<sup>兴化</sup>, /tʰəɪ2 nʊ̃2 t͡ɕiɑʔ7 pɔʔ7/<sup>泰兴</sup></small> 死亡的隐语，因灵床上尸体方位通常如此<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：叹世人，真可惜……并不顾～，倒成了手指东西！（《施公案》一〇一）<sup>\[兴化\]</sup>  
 1. 【[头排](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_pae.md#头排)】`teu2 pae2` <sup>[如东]</sup> 第一排。比喻第一：他的技术在我俫这许属～。  
 1. 【[头皮缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_pi_gan.md#头皮缸)】`teu2 pi2 gan1` <sup>[如东]</sup> 缸的一种。陶制，口大，底小。口径比砂缸略小。可以装水或物。  
 1. 【[头鐅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_pih.md#头鐅)】`teu2 pih` <sup>[如皋]</sup> 大鐅缸。  
@@ -747,8 +741,7 @@
 1. 【[头樯篷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_qian_pon.md#头樯篷)】`teu2 qian2 pon2` <sup>[如东]</sup> 头樯上的风帆。  
 1. 【[头七](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_qieh.md#头七)】`teu2 qieh7` <small>/tʰəɪ2 t͡ɕʰiəʔ7/<sup>泰兴</sup></small> 人死后的第一个七天，第七天。乡间有为死者做头七作祭的习俗。<sup>\[泰兴\]</sup>  
 1. 【[头前](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_qin.md#头前)】`teu2 qin2` <sup>[东台]</sup> 前面：在～带路。  
-1. 【[头钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_qin.md#头钱)】`teu2 qin2` <sup>[东台]</sup> 赌博抽头所得的钱。  
-1. 【[头钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_qin.md#头钱)】`teu2 qin2` <small>/tʰəɪ2 t͡ɕʰĩ2/<sup>泰兴</sup></small> 赌博场所主人或供役使的人从赢者所得中提取的一小部分。<sup>\[泰兴\]</sup>  
+1. 【[头钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_qin.md#头钱)】`teu2 qin2` <small>/tʰəɪ2 t͡ɕʰĩ2/<sup>泰兴</sup></small> ① 赌博抽头所得的钱。<sup>\[东台\]</sup> ② 赌博场所主人或供役使的人从赢者所得中提取的一小部分。<sup>\[泰兴\]</sup>  
 1. 【[头拳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_qiun.md#头拳)】`teu2 qiun2` <small>/tʰɤ2 t͡ɕʰyũ2/<sup>兴化</sup>, /tʰei2 t͡ɕʰyʊ̃2/<sup>如皋</sup></small> ① 以头撞人。<sup>\[如皋\]</sup> ② 以头当拳撞人<sup>\[兴化\]</sup>：一～把人家撞倒。<sup>\[兴化\]</sup>  
 1. 【[头绪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_qy.md#头绪)】`teu2 qy6` <sup>[如东]</sup> ① 条理：理出咖～。 ② 办法：他有～。 ③ 靠山：这个人有～。  
 1. 【[头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_r.md#头<sub>儿</sub>)】`teu2 r` <small>/tʰei˞2/<sup>如皋</sup></small> ① 领头人。<sup>\[如皋\]</sup> ② 短小的、剩余的：萝卜～、玉米～、木柴～、面～。<sup>\[如皋\]</sup> ③ 幼小：鲢子～。<sup>\[如皋\]</sup> ④ 开头的一段。<sup>\[如东\]</sup>：绳～。<sup>\[如东\]</sup> ⑤ 头领，领导。<sup>\[如东\]</sup>：他是我俫的～。<sup>\[如东\]</sup>  
@@ -773,8 +766,7 @@
 1. 【[头疼伤风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_ten_shan_fon.md#头疼伤风)】`teu2 ten2 shan1 fon1` <sup>[兴化]</sup> 指一般小的病痛：有个～的，跟前有个人照应也好啊！也说“头疼脑热”。  
 1. 【[头头脑脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_teu_no_no.md#头头脑脑)】`teu2 teu2 no3 no3` <small>/tʰəɪ2 tʰəɪ2 nɔ3 nɔ3/<sup>泰兴</sup></small> 杂七杂八。<sup>\[泰兴\]</sup>：把箇些～的总收啊一起<sup>\[泰兴\]</sup>  
 1. 【[头桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_ton.md#头桶)】`teu2 ton3` <sup>[如皋]</sup> 推车用的大号木桶，可𣥼小麦200斤。  
-1. 【[头动尾巴摇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_ton_vei_ba_io.md#头动尾巴摇)】`teu2 ton6 vei3 ba io2` <sup>[兴化]</sup> （贬）自得其乐或自以为了不起的样子：她家男人当个小官，她到哪许总是～的，显得了不起。  
-1. 【[头动尾巴摇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_ton_vei_ba_io.md#头动尾巴摇)】`teu2 ton6 vei3 ba io2` <small>/tʰəɪ2 tʰɔŋ1 ʋəɪ3 pɑ iɔ2/<sup>泰兴</sup></small> 骂人语，谓似狗。喻指有了得意之事就自以为了不起的样子。<sup>\[泰兴\]</sup>：才取得点儿小成绩，就～的<sup>\[泰兴\]</sup>  
+1. 【[头动尾巴摇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_ton_vei_ba_io.md#头动尾巴摇)】`teu2 ton6 vei3 ba io2` <small>/tʰɤ2 tʰoŋ6 uəi3 pa iɔ2/<sup>兴化</sup>, /tʰəɪ2 tʰɔŋ1 ʋəɪ3 pɑ iɔ2/<sup>泰兴</sup></small> ① （贬）自得其乐或自以为了不起的样子<sup>\[兴化\]</sup>：她家男人当个小官，她到哪许总是～的，显得了不起。<sup>\[兴化\]</sup> ② 骂人语，谓似狗。喻指有了得意之事就自以为了不起的样子。<sup>\[泰兴\]</sup>：才取得点儿小成绩，就～的<sup>\[泰兴\]</sup>  
 1. 【[头动尾巴摇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_ton_vei_ba_io.md#头动尾巴摇)】`teu2 ton6 vei3 ba1 io2` <sup>[东台]</sup> 形容洋洋得意的样子。  
 1. 【[头碗菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_un_cae.md#头碗菜)】`teu2 un3 cae5` <sup>[泰州]</sup> 第一道菜，比喻最重要的人：这个厂在技术上全靠老孙个人拿魂，他是厂里的～，领导有甚的好事首先想到的就是他。  
 1. 【[头尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_vei.md#头尾)】`teu2 vei3` <sup>[兴化]</sup> 来龙去脉：你先把事情的～弄清爽再发表意见。  
@@ -1194,8 +1186,7 @@
 1. 【[天花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hua.md#天花)】`tin1 hua1` <small>/tʰĩ1 xuɑ1/<sup>泰兴</sup></small> 病名。急性传染病，今已绝迹。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
 1. 【[天花板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hua_baen.md#天花板)】`tin1 hua1 baen3` <small>/tʰĩ1 xuɑ1 pɛ̃3/<sup>泰兴</sup></small> ① 房间上面的装饰板。<sup>\[如东\]</sup> ② 室内装饰、承挡灰尘的天棚。<sup>\[泰兴\]</sup>：～已吊好了，底下就是刷墙、装饰。<sup>\[泰兴\]</sup>  
 1. 【[天花乱坠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hua_lun_chuei.md#天花乱坠)】`tin1 hua1 lun6 chuei6` <sup>[如东]</sup> 天上许多鲜花飘落下来，比喻非常美好：他说得～。  
-1. 【[天话胡话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hua_hv_hua.md#天话胡话)】`tin1 hua6 hv2 hua6` <sup>[如东]</sup> 东西南北瞎说一通：这个人～的，没个准。  
-1. 【[天话胡话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hua_hv_hua.md#天话胡话)】`tin1 hua6 hv2 hua6` ① 不知道搞的什么鬼花样。<sup>\[东台\]</sup> ② 不知道瞎说了些什么。也作“天话肏胡话”。<sup>\[东台\]</sup> ③ 夸大虚妄、动听而不切实际的话<sup>\[泰州\]</sup>：这家伙是搞传销的，你不要听他人～的瞎说，等你上吖他的划子船，你哭都来不洎！<sup>\[泰州\]</sup>  
+1. 【[天话胡话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hua_hv_hua.md#天话胡话)】`tin1 hua6 hv2 hua6` ① 东西南北瞎说一通。<sup>\[如东\]</sup>：这个人～的，没个准。<sup>\[如东\]</sup> ② 不知道搞的什么鬼花样。<sup>\[东台\]</sup> ③ 不知道瞎说了些什么。也作“天话肏胡话”。<sup>\[东台\]</sup> ④ 夸大虚妄、动听而不切实际的话<sup>\[泰州\]</sup>：这家伙是搞传销的，你不要听他人～的瞎说，等你上吖他的划子船，你哭都来不洎！<sup>\[泰州\]</sup>  
 1. 【[天皇皇，地皇皇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_huan_huan_ti.md#天皇皇，地皇皇)】`tin1 huan2 huan2 ti6 huan2 huan2` <sup>[泰兴]</sup> 民俗。小儿夜啼不停，主人即用红、黄色纸写上“～，我家有个夜啼郎，过路君子读一遍，一觉睡到大天亮”于街头巷尾张贴，传小儿可即安。含迷信色彩。  
 1. 【[天黄有雨，人狂有祸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_huan_ieu_y_ren_kuan_ieu_hu.md#天黄有雨，人狂有祸)】`tin1 huan2 ieu3 y3 ren2 kuan2 ieu3 hu6` <sup>[东台]</sup> 天发黄是下雨的征兆，人狂失去理智易惹祸。  
 1. 【[天浑笃笃的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_huen_doh_doh_dii.md#天浑笃笃的)】`tin1 huen2 doh7 doh7 dii` <sup>[如皋]</sup> 天色浑浊。  
@@ -1335,8 +1326,7 @@
 1. 【[田鸡叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_ji_cha.md#田鸡叉)】`tin2 ji1 cha1` <sup>[如皋]</sup> 微型叉。捕蛙用。  
 1. 【[田鸡翻跟头，白肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_ji_faen_gen.md#田鸡翻跟头，白肚子)】`tin2 ji1 faen1 gen1 teu poh8 dv3 zz` <small>/tʰĩ2 t͡ɕʝ1 fɛ̃1 kəŋ1 tʰəɪ pʰɔʔ8 tu3 t͡sɿ/<sup>泰兴</sup></small> 歇后语。喻没有文化知识。<sup>\[泰兴\]</sup>  
 1. 【[田鸡瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_ji_gua.md#田鸡瓜)】`tin2 ji1 gua1` <sup>[如东]</sup> 甜瓜的一种，皮呈蓝白相间的颜色，像青蛙一样。故名。  
-1. 【[田鸡要命蛇要饱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_ji_io_mien_sha_io_bo.md#田鸡要命蛇要饱)】`tin2 ji1 io5 mien6 sha2 io5 bo3` <sup>[兴化]</sup> （喻）双方利益发生根本冲突，不可调和：“而今社会，你争他夺……谁顾不了谁，这叫～么。”（马春阳《月朗和他的娘舅们》）  
-1. 【[田鸡要命蛇要饱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_ji_io_mien_sha_io_bo.md#田鸡要命蛇要饱)】`tin2 ji1 io5 mien6 sha2 io5 bo3` <small>/tʰĩ2 t͡ɕʝ1 iɔ5 miŋ1 sɑ2 iɔ5 pɔ3/<sup>泰兴</sup></small> 比喻双方为了各自的利益拼命抗争，毫不相让。<sup>\[泰兴\]</sup>：～，为这笔生意，两个人总不肯让步。<sup>\[泰兴\]</sup>  
+1. 【[田鸡要命蛇要饱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_ji_io_mien_sha_io_bo.md#田鸡要命蛇要饱)】`tin2 ji1 io5 mien6 sha2 io5 bo3` <small>/tʰiɪ̃2 t͡ɕi1 iɔ5 miɪ̃6 sa2 iɔ5 pɔ3/<sup>兴化</sup>, /tʰĩ2 t͡ɕʝ1 iɔ5 miŋ1 sɑ2 iɔ5 pɔ3/<sup>泰兴</sup></small> ① （喻）双方利益发生根本冲突，不可调和<sup>\[兴化\]</sup>：“而今社会，你争他夺……谁顾不了谁，这叫～么。”（马春阳《月朗和他的娘舅们》）<sup>\[兴化\]</sup> ② 比喻双方为了各自的利益拼命抗争，毫不相让。<sup>\[泰兴\]</sup>：～，为这笔生意，两个人总不肯让步。<sup>\[泰兴\]</sup>  
 1. 【[田鸡麻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_ji_ma_zz.md#田鸡麻子)】`tin2 ji1 ma2 zz` <sup>[兴化]</sup> ① 面部麻点子较大而且重叠。 ② 也指这种麻脸的人。  
 1. 【[田鸡仰吖田岸上——白大肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_ji_nian_nga_tin_un_shan_poh_da_dv_zz.md#田鸡仰吖田岸上——白大肚子)】`tin2 ji1 nian3 nga tin2 un6 shan6 poh8 da6 dv3 zz` <sup>[东台]</sup>   
 1. 【[田鸡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_ji_r.md#田鸡<sub>儿</sub>)】`tin2 ji1 r` 青蛙  
@@ -1345,8 +1335,7 @@
 1. 【[田垅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_lon.md#田垅)】`tin2 lon2` <sup>[如东]</sup> 农田中间的土埂。  
 1. 【[田螺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_lu.md#田螺)】`tin2 lu1` <small>/tʰĩ2 lɤɯ1/<sup>泰兴</sup></small> ① 田螺科动物田螺。<sup>\[如东\]</sup> ② 软体动物，壳圆锥形，苍黑色，触角长，生长在淡水中。<sup>\[东台\]</sup> ③ 一种形似螺蛳的软体动物，体型较大，壳苍黑色，呈圆锥形，生有较长触角，雌雄异体，胎生，以其常见于稻田中，故名。<sup>\[泰州\]</sup> ④ 生长水田中或岸侧、水边的体形较大的软体动物，壳与普通小螺螺相似，肉可食。<sup>\[泰兴\]</sup>  
 1. 【[田螺壳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_lu_kah.md#田螺壳)】`tin2 lu1 kah7` <sup>[如东]</sup> 田螺科动物田螺外壳。  
-1. 【[田横头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_on_teu.md#田横头)】`tin2 on2 teu2` <sup>[如皋]</sup> 田块畈子的两端，牛耕时的调向处，最后横耕成畈。  
-1. 【[田横头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_on_teu.md#田横头)】`tin2 on2 teu2` <small>/tʰĩ2 ɔŋ2 tʰəɪ2/<sup>泰兴</sup></small> 田头。田地两头横着的土垅。<sup>\[泰兴\]</sup>：他佼两个人坐啊在～上谈家常。<sup>\[泰兴\]</sup>  
+1. 【[田横头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_on_teu.md#田横头)】`tin2 on2 teu2` <small>/tʰĩ2 ɔŋ2 tʰei2/<sup>如皋</sup>, /tʰĩ2 ɔŋ2 tʰəɪ2/<sup>泰兴</sup></small> ① 田块畈子的两端，牛耕时的调向处，最后横耕成畈。<sup>\[如皋\]</sup> ② 田头。田地两头横着的土垅。<sup>\[泰兴\]</sup>：他佼两个人坐啊在～上谈家常。<sup>\[泰兴\]</sup>  
 1. 【[田契](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_qi.md#田契)】`tin2 qi5` <sup>[如东]</sup> 证明土地隶属关系的文书：写～。  
 1. 【[田青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_qien.md#田青)】`tin2 qien1` <sup>[如皋]</sup> 菘蓝。  
 1. 【[田上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_shan.md#田上)】`tin2 shan` <sup>[如皋]</sup> 代管坟地的农家或人。  
@@ -1590,12 +1579,10 @@
 1. 【[讨汉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_hun.md#讨汉)】`to3 hun` <sup>[如东]</sup> 女子与非婚姻关系的男子通奸，叫做讨汉。  
 1. 【[讨汉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_hun.md#讨汉)】`to3 hun5` <small>/tʰɔ3 xũ5/<sup>兴化</sup>, /tʰɔ3 xʊ̃5/<sup>如皋</sup>, /tʰɔ3 xʊ̃5/<sup>泰兴</sup></small> ① 詈语。指女人的婚外恋情。<sup>\[如皋\]</sup> ② 谓女人偷汉子<sup>\[兴化\]</sup>：姑奶奶一不做贼，二不～，怕哪个说三道四啊？<sup>\[兴化\]</sup> ③ 骂人语。谓女人偷汉子。<sup>\[泰兴\]</sup>  
 1. 【[讨价还价](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_jia_huaen_jia.md#讨价还价)】`to3 jia5 huaen2 jia5` <sup>[如东]</sup> 讨论商品价格。比喻办事讲究条件。  
-1. 【[讨教](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_jio.md#讨教)】`to3 jio5` <sup>[如东]</sup> 请教：我是来～的。  
-1. 【[讨教](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_jio.md#讨教)】`to3 jio5` <small>/tʰɔ3 t͡ɕiɔ5/<sup>泰兴</sup></small> 请教，虚心讨问<sup>\[泰兴\]</sup>：向人～<sup>\[泰兴\]</sup>  
+1. 【[讨教](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_jio.md#讨教)】`to3 jio5` <small>/tʰɔ3 t͡ɕiɔ5/<sup>泰兴</sup></small> 请教<sup>\[如东\]</sup><sup>\[泰兴\]</sup>：我是来～的。<sup>\[如东\]</sup>｜向人～<sup>\[泰兴\]</sup>  
 1. 【[讨口谕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_keu_y.md#讨口谕)】`to3 keu3 y` <sup>[如皋]</sup> 要求给予口头指示。  
 1. 【[讨丫头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_nga_teu.md#讨丫头)】`to3 nga1 teu` <small>/tʰɔ3 a1 tʰɤ/<sup>兴化</sup>, /tʰɔ3 ŋa1 tʰei/<sup>如皋</sup>, /tʰɔ3 ŋɑ tʰəɪ/<sup>泰兴</sup>, /tʰɔ3 a1 tʰɤɯ/<sup>泰县</sup></small> ① 丫环的贱称。<sup>\[如皋\]</sup> ② 旧时大户人家使唤的女孩。<sup>\[东台\]</sup> ③ 收养的女孩<sup>\[兴化\]</sup>：苦的脏的要我做，差的剩的让我吃，我是～啊？收养的男孩谓“讨小伙”。<sup>\[兴化\]</sup> ④ 年轻的女佣人。<sup>\[泰县\]</sup> ⑤ 女佣。<sup>\[泰兴\]</sup>  
-1. 【[讨便宜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_pi_i.md#讨便宜)】`to3 pi2 i2` <sup>[泰州]</sup> 斗嘴或者交谈时，一方在语言上有意无意得到某种可意会的诸如成为对方长辈或者对方丈夫之类的所谓“好处”。  
-1. 【[讨便宜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_pi_i.md#讨便宜)】`to3 pi2 i2` <small>/tʰɔ3 pʰʝ2 ʝ2/<sup>泰兴</sup></small> 指占便宜或取巧，尤其是伦理上。<sup>\[泰兴\]</sup>：他箇张嘴就是好讨人便宜。<sup>\[泰兴\]</sup>  
+1. 【[讨便宜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_pi_i.md#讨便宜)】`to3 pi2 i2` <small>/tʰɔ3 pʰʝ2 ʝ2/<sup>泰兴</sup></small> ① 斗嘴或者交谈时，一方在语言上有意无意得到某种可意会的诸如成为对方长辈或者对方丈夫之类的所谓“好处”。<sup>\[泰州\]</sup> ② 指占便宜或取巧，尤其是伦理上。<sup>\[泰兴\]</sup>：他箇张嘴就是好讨人便宜。<sup>\[泰兴\]</sup>  
 1. 【[讨贱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_qin.md#讨贱)】`to3 qin6` <sup>[兴化]</sup> 犯贱：你有好日子不过，要跟个骗子到处混，真～！  
 1. 【[讨巧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_qio.md#讨巧)】`to3 qio3` <small>/tʰɔ3 t͡ɕʰiɔ3/<sup>泰兴</sup></small> ① 用巧力做事，而且结果做得很漂亮。<sup>\[东台\]</sup> ② 讨便宜，碰巧沾光。<sup>\[东台\]</sup> ③ 占了对方辈分上的便宜<sup>\[泰州\]</sup>：～又不长块肉，喊你声姑爸又怎吖？<sup>\[泰州\]</sup> ④ 取巧；做事不费力而占便宜。<sup>\[泰兴\]</sup>：吃苦不～<sup>\[泰兴\]</sup>  
 1. 【[讨饶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_ro.md#讨饶)】`to3 ro2` <sup>[如东]</sup> 求情。  
@@ -1622,8 +1609,7 @@
 1. 【[套脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_jiah_r.md#套脚<sub>儿</sub>)】`to5 jiah7 r` <sup>[泰县]</sup> 木制雨鞋。  
 1. 【[套嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_jy.md#套嘴)】`to5 jy3` <sup>[如东]</sup> 接吻。  
 1. 【[套口气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_keu_qi.md#套口气)】`to5 keu3 qi` <sup>[兴化]</sup> 绕着弯儿将对方真情实话引出来：你跟他～，问他到底想做甚的？  
-1. 【[套窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_ku.md#套窠)】`to5 ku1` <sup>[如东]</sup> 猪交配。也称爬窠。  
-1. 【[套窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_ku.md#套窠)】`to5 ku1` <small>/tʰɔ5 kʰɤɯ1/<sup>泰兴</sup></small> 牲畜配种。<sup>\[泰兴\]</sup>  
+1. 【[套窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_ku.md#套窠)】`to5 ku1` <small>/tʰɔ5 kʰɤɯ1/<sup>泰兴</sup></small> ① 猪交配。也称爬窠。<sup>\[如东\]</sup> ② 牲畜配种。<sup>\[泰兴\]</sup>  
 1. 【[套裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_kv.md#套裤)】`to5 kv5` ① 裤的一种。只有两只裤脚管，没有裤裆和裤腰，套在腿上，给腿保温。有棉套裤和夹套裤两种。<sup>\[如东\]</sup> ② 旧时一种没有前后裆，只有两个裤筒的裤子，上用裤带扎在腰间，下用纽扣扣紧。<sup>\[东台\]</sup> ③ 罩在裤腿外面以御寒的无腰无裆只有裤腿的裤子，裤腿多为双层或者衬棉。<sup>\[泰州\]</sup>  
 1. 【[套笼头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_lon_teu.md#套笼头)】`to5 lon2 teu2` <sup>[兴化]</sup> （喻）小孩上学或闲散惯的人突然要做事：你整整玩吖一个暑假，明吖起要～啦！｜“被他缠住不算事，现在又把笼头套起来。”（《广陵潮》八二）  
 1. 【[套袍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_po.md#套袍)】`to5 po2` <sup>[兴化]</sup> 加在棉袍外的罩衣。  

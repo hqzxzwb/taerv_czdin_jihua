@@ -440,12 +440,13 @@
 1. 【[扒头钉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_teu_dien.md#扒头钉)】`pa2 teu2 dien1` <sup>[兴化]</sup> 一种上部呈扁圆形的铁钉。钉入木料后，头子卷曲成扒子形。  
 1. 【[扒网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_van.md#扒网)】`pa2 van3` <sup>[如皋]</sup> 头部有箕形架的小网，装长竹柄，人在岸边抛网，拉捕小鱼虾。  
 1. 【[扒鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_y.md#扒鱼)】`pa2 y2` <sup>[如皋]</sup> 将扒网抛向河心，握住长柄向岸边拉，可捕小鱼、小虾。  
-1. 【[掱<sub>儿</sub>手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_r_sheu.md#掱<sub>儿</sub>手)】`pa2 r sheu3` <sup>[如东]</sup> 小偷。也叫三只手。  
-1. 【[掱<sub>儿</sub>手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_r_sheu.md#掱<sub>儿</sub>手)】`pa2 r sheu3` <small>/pʰɑ˞2 ɕiɤɯ3/<sup>泰兴</sup></small> 也称“扒手”。从别人身上摸取财物的小偷。<sup>\[泰兴\]</sup>  
+1. 【[掱<sub>儿</sub>手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_r_sheu.md#掱<sub>儿</sub>手)】`pa2 r sheu3` <small>/pʰɑ˞2 ɕiɤɯ3/<sup>泰兴</sup></small> ① 小偷。也叫三只手。<sup>\[如东\]</sup> ② 也称“扒手”。从别人身上摸取财物的小偷。<sup>\[泰兴\]</sup>  
 1. 【[掱手/爬手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_sheu.md#掱手/爬手)】`pa2 sheu3` 俗称剪绺，剪开他人衣带以窃取钱财者<sup>\[泰州\]</sup>：皮夹子在火车站捱～摸咖走啊。<sup>\[泰州\]</sup>  
 1. 【[爬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa.md#爬)】`pa2` ① 爬 ② 用手支撑身体站起<sup>\[泰州\]</sup>：腿子跌咖受啊伤，～不起来唻。<sup>\[泰州\]</sup>  
 1. 【[爬到戥盘上称称](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_do_den_pun_shan_chen_chen.md#爬到戥盘上称称)】`pa2 do5 den3 pun2 shan chen1 chen` <sup>[东台]</sup> 嘲讽有人不自量力，也提醒人要有自知之明。  
 1. 【[爬肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_dv_zz.md#爬肚子)】`pa2 dv3 zz` <sup>[如皋]</sup> 詈语。儿子非礼娘或指非礼娘的儿子。此语一责母亲溺爱，一责被溺爱的儿子品质恶劣。  
+1. 【[爬根草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_gen_co.md#爬根草)】`pa2 gen1 co3` <sup>[如东]</sup> 多年生草本植物。茎蔓生，叶尖长，每节生根。花白色，很小。生长在田边、路旁，繁殖力强，防害农作物。  
+1. 【[爬高上梯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_go_shan_ti.md#爬高上梯)】`pa2 go1 shan6 ti1` <small>/pʰa2 kɔ1 saŋ6 tʰəi1/<sup>兴化</sup></small> ① 爬上高处<sup>\[兴化\]</sup>：你太顽皮，动不动～的，跌下来覅哭。<sup>\[兴化\]</sup> ② 登梯攀到高处。<sup>\[泰州\]</sup> ③ 泛指登高作业<sup>\[泰州\]</sup>：他家老大在供电局工作，成天～，蛮危险的。<sup>\[泰州\]</sup>｜没得点儿～的本事，也不能在消防队里蹾吖。<sup>\[泰州\]</sup>  
 [更多...](./p.md)
 ## Q
 1. 【[㩻/攲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi.md#㩻/攲)】`qi1` <sup>[泰州]</sup> ① 倾斜不正：这张橱子～啊一边，要在东边垫块板子就平吖唻。 ② 人或物体进入狭窄、低矮空间被迫倾斜不正，因受空间束缚以致无法正常伸展：楼上这个斜阁子上又小又矮，他个子大，身子～住啊唻，不好动。｜这个三门冰箱太大，你家楼梯太狭，～住啊，搬不上去。  

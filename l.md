@@ -524,8 +524,7 @@
 1. 【[乐得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_deh.md#乐得)】`lah8 deh` <small>/laʔ8 təʔ/<sup>兴化</sup></small> ① 事态发展于自己有利无害，顺其自然而获得自己满意的结果<sup>\[泰州\]</sup>：你不让他问事，他也正好～清闲。<sup>\[泰州\]</sup> ② 正合心意<sup>\[兴化\]</sup>：其他人没意见，我～做好人。<sup>\[兴化\]</sup>  
 1. 【[乐唐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_tan.md#乐唐)】`lah8 tan2` <sup>[如东]</sup> 正合自己的心意而感到快乐。  
 1. 【[乐堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_tan.md#乐堂)】`lah8 tan2` <sup>[兴化]</sup> 愉快、自如：他心里快活～。｜你心里～吖，其他人怎吖想㗁？  
-1. 【[乐心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_xien.md#乐心)】`lah8 xien1` <sup>[泰县]</sup> 没有必要的想法和举动：不要～。  
-1. 【[乐心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_xien.md#乐心)】`lah8 xien1` <small>/lɑʔ8 ɕiŋ1/<sup>泰兴</sup></small> 娱乐，使心情愉快。多谓小儿戏乐。<sup>\[泰兴\]</sup>：箇个伢儿一天到夜～<sup>\[泰兴\]</sup>  
+1. 【[乐心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_xien.md#乐心)】`lah8 xien1` <small>/lɑʔ8 ɕiŋ1/<sup>泰兴</sup>, /nɑʔ8 ɕiŋ1/<sup>泰县</sup></small> ① 没有必要的想法和举动<sup>\[泰县\]</sup>：不要～。<sup>\[泰县\]</sup> ② 娱乐，使心情愉快。多谓小儿戏乐。<sup>\[泰兴\]</sup>：箇个伢儿一天到夜～<sup>\[泰兴\]</sup>  
 1. 【[擽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah.md#擽)】`lah8` <sup>[如东]</sup> 用手抹过去，使物体顺直或干净。捋：把铁丝～直。  
 1. 【[烙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah.md#烙)】`lah8` <sup>[如东]</sup> 一种烹调方法。把食物放在一种架子上用文火烤熟。  
 1. 【[笿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_r.md#笿<sub>儿</sub>)】`lah8 r` <small>/la˞8/<sup>如皋</sup></small> ① 篮子。<sup>\[如东\]</sup> ② 篾丝、篾片编制的小竹篮<sup>\[如皋\]</sup>：通州～、元宝～。<sup>\[如皋\]</sup>  
@@ -2075,8 +2074,7 @@
 1. 【[龙钵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_buh.md#龙钵)】`lon2 buh7` <sup>[如皋]</sup> 外壁上部环状黄釉图案为龙的钵。一般指“头缽”，即大号钵。陶器。  
 1. 【[龙船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_chun.md#龙船)】`lon2 chun2` <sup>[东台]</sup> 装饰成龙状的船：～比赛。  
 1. 【[龙胆草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_daen_co.md#龙胆草)】`lon2 daen3 co3` <sup>[如东]</sup> 龙胆科植物龙胆，多年生草本。  
-1. 【[龙灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_den.md#龙灯)】`lon2 den1` <sup>[东台]</sup> 民间娱乐用具，一人举一个绣球在前面引导，后面若干人跟着舞动。  
-1. 【[龙灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_den.md#龙灯)】`lon2 den1` <small>/lɔŋ2 təŋ1/<sup>泰兴</sup></small> 仿龙形所制的灯。民间节日的娱乐用品。<sup>\[泰兴\]</sup>：舞～<sup>\[泰兴\]</sup>  
+1. 【[龙灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_den.md#龙灯)】`lon2 den1` <small>/lɔŋ2 təŋ1/<sup>泰兴</sup></small> ① 民间娱乐用具，一人举一个绣球在前面引导，后面若干人跟着舞动。<sup>\[东台\]</sup> ② 仿龙形所制的灯。民间节日的娱乐用品。<sup>\[泰兴\]</sup>：舞～<sup>\[泰兴\]</sup>  
 1. 【[龙东](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_don.md#龙东)】`lon2 don1` <sup>[泰县]</sup> 不成型的东西：这篇杲子不像～。  
 1. 【[龙冬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_don.md#龙冬)】`lon2 don1` <sup>[如皋]</sup> 不像样、难耐的、不合要求的：他做的衣裳不像个～；这是做的个甚的～！  
 1. 【[龙多不治水，庙多不显灵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_du_beh_chr_shuei_mio_du_beh_xin_lien.md#龙多不治水，庙多不显灵)】`lon2 du1 beh7 chr6 shuei3 mio6 du1 beh7 xin3 lien2` <sup>[东台]</sup> 人浮于事，必然相互扯皮影响办事效率。  

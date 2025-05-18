@@ -617,8 +617,7 @@
 1. 【[可恨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku_hen.md#可恨)】`ku3 hen6` <sup>[如东]</sup> 令人痛恨。  
 1. 【[可可的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku_ku_dii.md#可可的)】`ku3 ku3 dii` <sup>[兴化]</sup> 恰巧；正好赶上：总共一个头等奖，～捱他买中吖。  
 1. 【[可怜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku_lin.md#可怜)】`ku3 lin2` <sup>[如东]</sup> ① 值得怜悯：老太太孤身一人，真～。 ② 形容东西少。  
-1. 【[可怜巴巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku_lin_ba_ba.md#可怜巴巴)】`ku3 lin2 ba1 ba` <sup>[泰州]</sup> 可怜的样子。  
-1. 【[可怜巴巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku_lin_ba_ba.md#可怜巴巴)】`ku3 lin2 ba1 ba` <small>/kʰɤɯ3 lĩ2 pɑ1 pɑ/<sup>泰兴</sup></small> 极为可怜的样子。<sup>\[泰兴\]</sup>：与大师相比，我真是个～的小人物。<sup>\[泰兴\]</sup>  
+1. 【[可怜巴巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku_lin_ba_ba.md#可怜巴巴)】`ku3 lin2 ba1 ba` <small>/kʰɤɯ3 lĩ2 pɑ1 pɑ/<sup>泰兴</sup></small> ① 可怜的样子。<sup>\[泰州\]</sup> ② 极为可怜的样子。<sup>\[泰兴\]</sup>：与大师相比，我真是个～的小人物。<sup>\[泰兴\]</sup>  
 1. 【[颗颗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku_ku_zz.md#颗颗子)】`ku3 ku3 zz` <sup>[兴化]</sup> 体表生出的小颗粒：夏天，手上出咖好些～。  
 1. 【[科](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku.md#科)】`ku5` <sup>[泰州]</sup> ① 动物植物繁殖：一个夏天下来，河里水草～啊满吖。 ② 皮肤上疹子非子增多：两天～啊一身疹子。  
 1. 【[科箬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku_rah.md#科箬)】`ku5 rah8` <sup>[如皋]</sup> 禾本科植物裹在茎、实上的叶柄，嫩芽等：竹笋～、芦柴～、玉米～。  

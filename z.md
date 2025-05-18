@@ -800,8 +800,7 @@
 1. 【[针匾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_bin.md#针匾)】`zhen1 bin3` 用来摆放针、线、针箍、剪子等缝补衣服工具的油漆柳条圆形小匾。<sup>\[泰州\]</sup>  
 1. 【[针钩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_geu_r.md#针钩<sub>儿</sub>)】`zhen1 geu1 r` <sup>[如皋]</sup> 自己用缝衣针烧红扳成的鱼钩。与“卡钩儿”相对。  
 1. 【[针箍<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_gv_r.md#针箍<sub>儿</sub>)】`zhen1 gv1 r` <small>/t͡səŋ1 kʊ˞3/<sup>如皋</sup>, /t͡səŋ1 ku3 ɚ/<sup>泰县</sup></small> 顶针<sup>\[如东\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[如皋\]</sup>  
-1. 【[针箍子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_gv_zz.md#针箍子)】`zhen1 gv1-3 zz` <sup>[东台]</sup> 又叫顶针。一种铜的圆箍状的用具，上面有很多小窝，套在中指上，顶住针屁股，使针容易扎进，手指不致顶伤。  
-1. 【[针箍子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_gv_zz.md#针箍子)】`zhen1 gv1-3 zz` <sup>[兴化]</sup> 顶针。  
+1. 【[针箍子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_gv_zz.md#针箍子)】`zhen1 gv1-3 zz` <small>/t͡sən1 ku1 t͡sɿ/<sup>兴化</sup></small> 顶针<sup>\[兴化\]</sup>\[东台：一种铜的圆箍状的用具，上面有很多小窝，套在中指上，顶住针屁股，使针容易扎进，手指不致顶伤。\]  
 1. 【[针脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_jiah.md#针脚)】`zhen1 jiah7` ① 缝纫的线迹。<sup>\[如东\]</sup>：～稀。<sup>\[如东\]</sup> ② 缝纫衣裳时前后两针的距离<sup>\[东台\]</sup>：你做衣裳～要幪（mon3）吖点儿。<sup>\[东台\]</sup>  
 1. 【[针尖大的洞，三斗三升风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_jin_da_dii_ton_saen_deu_saen_shen_fon.md#针尖大的洞，三斗三升风)】`zhen1 jin1 da6 dii ton6 saen1 deu3 saen1 shen1 fon1` <sup>[东台]</sup> 墙壁上哪怕一个小洞，也会漏很大的风。  
 1. 【[针尖对麦芒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_jin_duei_moh_man.md#针尖对麦芒)】`zhen1 jin1 duei5 moh8 man2` <sup>[东台]</sup> （俗语）喻意互不相让：她俫两个～，一个比一个凶。  
@@ -861,8 +860,7 @@
 1. 【[正话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_hua.md#正话)】`zhen5 hua` <small>/t͡səŋ5 xuɑ/<sup>泰兴</sup></small> 正经话，合乎道理的话。<sup>\[泰兴\]</sup>  
 1. 【[正用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_ion.md#正用)】`zhen5 ion6` <sup>[兴化]</sup> 才能或钱物用于正经方面：他虽有本事，可借才不～。｜“……我指望这五十两银子不是全买靴子穿，我另外有个～哩。”（《火烧赤壁》一）  
 1. 【[正脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_jiah.md#正脚)】`zhen5 jiah7` <small>/t͡sən5 t͡ɕiaʔ7/<sup>兴化</sup></small> 右脚。<sup>\[泰州\]</sup>\[兴化：通常为右脚。\]  
-1. 【[正经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_jien.md#正经)】`zhen5 jien` <sup>[兴化]</sup> 确实、实在：要说喝酒，我～不行。  
-1. 【[正经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_jien.md#正经)】`zhen5 jien` <small>/t͡səŋ5 t͡ɕiŋ/<sup>泰兴</sup></small> 严肃而认真；堂堂正正。\[泰兴：他是个～人，办事从来不肯马虎。\]  
+1. 【[正经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_jien.md#正经)】`zhen5 jien` <small>/t͡sən5 t͡ɕin/<sup>兴化</sup>, /t͡səŋ5 t͡ɕiŋ/<sup>泰兴</sup></small> ① 确实、实在<sup>\[兴化\]</sup>：要说喝酒，我～不行。<sup>\[兴化\]</sup> ② 严肃而认真；堂堂正正。\[泰兴：他是个～人，办事从来不肯马虎。\]  
 1. 【[正经人家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_jien_ren_ga.md#正经人家)】`zhen5 jien ren2 ga` <sup>[如皋]</sup> 正派之家。  
 1. 【[正经神道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_jien_shen_to.md#正经神道)】`zhen5 jien shen2 to6` <sup>[如皋]</sup> 喻正派之人、正派之事、正派之理论。正神正道，不是旁门左道。  
 1. 【[正经人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_jien_ren.md#正经人)】`zhen5 jien1 ren2` <sup>[如东]</sup> 正派人。有时也用为贬义：就是她是～。  

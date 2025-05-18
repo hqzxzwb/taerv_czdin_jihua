@@ -866,8 +866,7 @@
 1. 【[硬脚髈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_jiah_pan.md#硬脚髈)】`ngen6 jiah7 pan3` <sup>[如东]</sup> 比喻势力大的人物：他靠的是～。  
 1. 【[硬橛橛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_jiuh_jiuh.md#硬橛橛)】`ngen6 jiuh7 jiuh7` <sup>[兴化]</sup> ① 形容挺硬：旧棉衣穿吖身上～的。 ② 僵硬：那邓九公直喝的眼睛有些粘糊糊的，舌头有些～的了（《儿女英雄传》三二）  
 1. 【[硬嘴桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_jy_qio.md#硬嘴桥)】`ngen6 jy3 qio2` <sup>[东台]</sup> 讽喻小孩子不肯叫人：你是～出来的，遇到长辈都不肯问好。  
-1. 【[硬蹫蹫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_jyeh_jyeh.md#硬蹫蹫)】`ngen6 jyeh7 jyeh7` <sup>[东台]</sup> ① 形容很硬（含厌恶意）。 ② 形容态度生硬。  
-1. 【[硬蹫蹫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_jyeh_jyeh.md#硬蹫蹫)】`ngen6 jyeh7 jyeh7` <sup>[泰州]</sup> 条状物体坚硬微带上翘的样子：这几条风干的咸猪尾巴～的。  
+1. 【[硬蹫蹫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_jyeh_jyeh.md#硬蹫蹫)】`ngen6 jyeh7 jyeh7` ① 形容很硬（含厌恶意）。<sup>\[东台\]</sup> ② 形容态度生硬。<sup>\[东台\]</sup> ③ 条状物体坚硬微带上翘的样子<sup>\[泰州\]</sup>：这几条风干的咸猪尾巴～的。<sup>\[泰州\]</sup>  
 1. 【[硬蹫蹫的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_jyeh_jyeh_dii.md#硬蹫蹫的)】`ngen6 jyeh7 jyeh7 dii` <sup>[如皋]</sup> 硬挺的样子：挂啊钩子上的湿手巾捱冻得～的，活像个鱼干儿｜皮球打足咖气，～。  
 1. 【[硬抲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_ka.md#硬抲)】`ngen6 ka1` <small>/ən6 kʰa1/<sup>兴化</sup>, /əŋ1 kʰa1/<sup>泰县</sup></small> ① 硬塞<sup>\[兴化\]</sup>：硬面的馒头吃不下去就～。<sup>\[兴化\]</sup> ② 用力塞进；这门你不要～。<sup>\[泰县\]</sup>  
 1. 【[硬跍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_kv.md#硬跍)】`ngen6 kv1` <sup>[如皋]</sup> ① 硬性要求，不达目的不止。 ② 连鞋袜在泥水之中走，毫不爱惜。  
@@ -1164,8 +1163,7 @@
 1. 【[讹错驴大个芝麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_cu_ly_da_gu_zhr_ma.md#讹错驴大个芝麻)】`ngu2 cu5 ly2 da6 gu zhr1 ma2` <sup>[东台]</sup> 相差太大的意思：他的话不实，审核下来简直～！  
 1. 【[讹个盹<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_gu_den_r.md#讹个盹<sub>儿</sub>)】`ngu2 gu den3 r` <sup>[泰州]</sup> 相差极少点儿时间，意谓非常侥幸或者非常可惜：你再～，车子就开啊走唻。｜他再～就要迟到唻。  
 1. 【[讹话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_hua.md#讹话)】`ngu2 hua6` <sup>[如皋]</sup> 讹诈的话。  
-1. 【[讹稽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_ji.md#讹稽)】`ngu2 ji1` <sup>[兴化]</sup> 耍赖：他跟伢儿打扑克，输掉就～。  
-1. 【[讹稽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_ji.md#讹稽)】`ngu2 ji1` 运用不正当手段获胜，多指在打牌时偷牌、换牌、反悔等不符合规则的行文<sup>\[泰州\]</sup>：要同你打牌可以，不带～。<sup>\[泰州\]</sup>  
+1. 【[讹稽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_ji.md#讹稽)】`ngu2 ji1` <small>/o2 t͡ɕi1/<sup>兴化</sup></small> ① 耍赖<sup>\[兴化\]</sup>：他跟伢儿打扑克，输掉就～。<sup>\[兴化\]</sup> ② 运用不正当手段获胜，多指在打牌时偷牌、换牌、反悔等不符合规则的行文<sup>\[泰州\]</sup>：要同你打牌可以，不带～。<sup>\[泰州\]</sup>  
 1. 【[讹赖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_lae.md#讹赖)】`ngu2 lae6` <small>/o2 lɛ6/<sup>兴化</sup></small> ① 讹诈、抵赖<sup>\[东台\]</sup>：借钱要办抵押手续，防止～行为。<sup>\[东台\]</sup> ② 讹诈或抵赖<sup>\[兴化\]</sup>：“……日后倘有亲属本家～等事，概由中人倪四一手承当……”（《皮五辣子》一）<sup>\[兴化\]</sup> ③ 讹诈，敲诈勒索<sup>\[泰州\]</sup>：我亲眼望见你自己跌咖来的，还想～人家。<sup>\[泰州\]</sup> ④ 抵赖，拒绝承认发生的事实<sup>\[泰州\]</sup>：你说咖要请大家的，不带耍～啊。<sup>\[泰州\]</sup>  
 1. 【[讹蛮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_maen.md#讹蛮)】`ngu2 maen2` <sup>[兴化]</sup> 无理纠缠：他老来～，说几年前有件事不曾落实。  
 1. 【[讹钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_qin.md#讹钱)】`ngu2 qin2` <sup>[如皋]</sup> 讹诈现钱。  
@@ -1449,8 +1447,7 @@
 1. 【[年尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_vei.md#年尾)】`nin2 vei3` <sup>[如东]</sup> 一年的收尾：～结账。  
 1. 【[年作子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_zah_zz.md#年作子)】`nin2 zah7 zz` <sup>[如东]</sup> 过年期间所需要花费的钱：箇趟生意把～赚家来啊。  
 1. 【[年租](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_zv.md#年租)】`nin2 zv1` <small>/nĩ2 t͡su1/<sup>如皋</sup></small> ① 租赁一年的租金。<sup>\[如皋\]</sup> ② 一年的租金。<sup>\[如东\]</sup>：～一万。<sup>\[如东\]</sup>  
-1. 【[拈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin.md#拈)】`nin2` <sup>[泰州]</sup> 捏取或夹取食物：手都不洗就～吖望嘴里送，也不卫生吖。  
-1. 【[拈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin.md#拈)】`nin2` <small>/nĩ2/<sup>泰兴</sup></small> 以指捏取。或指拾取。<sup>\[泰兴\]</sup>  
+1. 【[拈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin.md#拈)】`nin2` <small>/nĩ2/<sup>泰兴</sup></small> ① 捏取或夹取食物<sup>\[泰州\]</sup>：手都不洗就～吖望嘴里送，也不卫生吖。<sup>\[泰州\]</sup> ② 以指捏取。或指拾取。<sup>\[泰兴\]</sup>  
 1. 【[鲇滑<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_huaeh_r.md#鲇滑<sub>儿</sub>)】`nin2 huaeh8 r` <sup>[如东]</sup> 胡子鲇科动物胡子鲇，长约14厘米。  
 1. 【[鲶滑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_vaeh_zz.md#鲶滑子)】`nin2 vaeh zz` <sup>[泰州]</sup> “鲶鱼”俗称，本地产淡水鱼，周身无鳞，身体表面布满黏液，头扁口阔，上下颌有四根胡须，味道鲜美。  
 1. 【[黏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin.md#黏)】`nin2` <sup>[如皋]</sup> 亲热、怜爱、笼络：你这吖～他，他的心更加忆咖你这许。  

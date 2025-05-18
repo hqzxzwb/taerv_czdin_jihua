@@ -1013,8 +1013,7 @@
 1. 【[本伞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_saen.md#本伞)】`ben3 saen3` <sup>[如皋]</sup> 与“洋伞”相对。即本地制的竹架油布伞。  
 1. 【[本桑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_san.md#本桑)】`ben3 san1` <sup>[如皋]</sup> 本地乔木桑。  
 1. 【[本色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_seh.md#本色)】`ben3 seh7` <sup>[东台]</sup> ① 本来的颜色。 ② 本来的面目。 ③ 质朴自然，不加修饰。  
-1. 【[本生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_shen.md#本生)】`ben3 shen1` <sup>[如皋]</sup> 原来，根本：他～姓练，参加革命后姓何。  
-1. 【[本生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_shen.md#本生)】`ben3 shen1` <small>/pəŋ3 səŋ1/<sup>泰兴</sup></small> 原本，原来。<sup>\[泰兴\]</sup>  
+1. 【[本生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_shen.md#本生)】`ben3 shen1` <small>/pəŋ3 səŋ1/<sup>如皋</sup>, /pəŋ3 səŋ1/<sup>泰兴</sup></small> 原本，原来。<sup>\[泰兴\]</sup>\[如皋：原来，根本\]：他～姓练，参加革命后姓何。<sup>\[如皋\]</sup>  
 1. 【[本事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_shr.md#本事)】`ben3 shr` <small>/pəŋ3 sɿ/<sup>泰兴</sup></small> 本领，能耐<sup>\[泰兴\]</sup>  
 1. 【[本事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_shr.md#本事)】`ben3 shr6` <sup>[泰州]</sup> 本领，处理事务的能力。  
 1. 【[本柿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_shr_zz.md#本柿子)】`ben3 shr6 zz` <sup>[如皋]</sup> 未嫁接的柿子，果实小，有籽。  
@@ -1593,8 +1592,7 @@
 1. 【[半边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_bin.md#半边)】`bun5 bin1` <small>/pũ5 piɪ̃1/<sup>兴化</sup></small> ① 边<sup>\[兴化\]</sup>：主屋东～搭了个棚子，放放杂物甚的的。<sup>\[兴化\]</sup>｜东～；西～；南～；北～。<sup>\[兴化\]</sup> ② 部分，表示方位<sup>\[泰州\]</sup>：东～<sup>\[泰州\]</sup>｜西～<sup>\[泰州\]</sup>｜北～<sup>\[泰州\]</sup>｜楼上两个部门，宣传部在东～，西～是经委。<sup>\[泰州\]</sup>｜泰州师范的南半边是～，北半边是教室。<sup>\[泰州\]</sup>  
 1. 【[半边词](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_bin_cz.md#半边词)】`bun5 bin1 cz2` <sup>[泰州]</sup> 不全面的道理，意谓只说在争执中有利于己方的情况：他俫两个人的矛盾不是一天的唻你不能只听老王的～，还要听听老赵是怎吖说的。  
 1. 【[半边人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_bin_ren.md#半边人)】`bun5 bin1 ren2` <small>/pũ5 piɪ̃ lən2/<sup>兴化</sup>, /pʊ̃5 pĩ1 ɻəŋ2/<sup>泰兴</sup>, /põ5 piɪ̃1 ɻəŋ2/<sup>泰县</sup></small> 指寡妇。<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>\[泰州：旧时以为夫妇本为一体，夫为一半，妻为一半，丈夫去世，仅剩妻子一半，故名。\]：陈家老大却一病不起……丢下的妻子一下子成了～。（兴文：《夺墓陈》）<sup>\[兴化\]</sup>  
-1. 【[半百](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_boh.md#半百)】`bun5 boh7` <sup>[如东]</sup> 五十：他已过～。  
-1. 【[半百](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_boh.md#半百)】`bun5 boh7` <small>/pʊ̃5 pɔʔ7/<sup>泰兴</sup></small> 五十。多用于年龄<sup>\[泰兴\]</sup>  
+1. 【[半百](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_boh.md#半百)】`bun5 boh7` <small>/pʊ̃5 pɔʔ7/<sup>泰兴</sup></small> 五十。多用于年龄。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>：他已过～。<sup>\[如东\]</sup>  
 1. 【[半半拉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_bun_la_r.md#半半拉<sub>儿</sub>)】`bun5 bun5 la1 r` <sup>[如东]</sup> ① 不完全：剩下～。 ② 没有全部完成：割稻割咖个～。  
 1. 【[半大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_da.md#半大)】`bun5 da` <small>/pʊ̃5 tɑ/<sup>泰兴</sup></small> 形容介乎大小之间（的东西）。<sup>\[泰兴\]</sup>  
 1. 【[半大天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_da_tin.md#半大天)】`bun5 da tin1` <small>/pũ5 ta tʰiɪ̃1/<sup>兴化</sup>, /pʊ̃5 ta tʰĩ1/<sup>如皋</sup>, /pʊ̃5 tɑ tʰĩ1/<sup>泰兴</sup></small> ① 很长时间。<sup>\[如东\]</sup>：去啊～还不家来。<sup>\[如东\]</sup> ② 好久。<sup>\[如皋\]</sup> ③ 等待很久。感觉心焦、不耐烦、有责怪义。<sup>\[如皋\]</sup> ④ 相当长一段时间<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：等他～，他才不慌不忙的跑过来。<sup>\[兴化\]</sup> ⑤ 泛指半天中的较长一段时间<sup>\[泰州\]</sup>：他早起就整理唻，忙吖～也不曾弄得好。<sup>\[泰州\]</sup>｜他俫两个谈吖～才谈吖妥啊。<sup>\[泰州\]</sup>  
@@ -1603,8 +1601,7 @@
 1. 【[半吨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_den.md#半吨)】`bun5 den1` ① 五百公斤。<sup>\[如东\]</sup> ② 比喻身体肥胖的女人。<sup>\[如东\]</sup> ③ 戏称女孩子。半吨即千斤，与“千金”谐音。<sup>\[东台\]</sup>  
 1. 【[半敦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_den.md#半敦)】`bun5 den1` <sup>[东台]</sup> 傻里傻气，不谙世事。  
 1. 【[半吊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_dio_zz.md#半吊子)】`bun5 dio5 zz` <small>/pũ5 tiɔ5 t͡sɿ/<sup>兴化</sup>, /pʊ̃5 tiɔ5 t͡sɿ/<sup>泰兴</sup></small> ① 不懂装懂、卖弄聪明的人。<sup>\[如东\]</sup>：不要做～。<sup>\[如东\]</sup> ② 原指钱串一千为一吊，半吊五百不满一钱串。<sup>\[东台\]</sup> ③ ［借］知识、技术水平低不通事理的人。（同“二百五”）<sup>\[东台\]</sup> ④ 不够朋友，不讲交情的人<sup>\[兴化\]</sup>：朋友之间总要顾点情面，不要当～。<sup>\[兴化\]</sup>｜我说的嘛，不能全做～，总有个把朋友的唦。（扬二：《朱元璋贩卖乌梅》）<sup>\[兴化\]</sup> ⑤ 胆大包天或者胆小如鼠的人<sup>\[泰州\]</sup>：要不是我拉住他，他就当真要动手打人家年纪大的，你说他哿是个～。<sup>\[泰州\]</sup> ⑥ 对某种知识只有粗略肤浅了解的人<sup>\[泰州\]</sup>：这种老式家具，他这个～木匠打不起来。<sup>\[泰州\]</sup> ⑦ 有始无终的人<sup>\[泰州\]</sup>：说咖好啊八点钟来的，现在九点唻，车影子都不曾望见，你有甚的情况也来个电话唦，这个～没得说头唻。<sup>\[泰州\]</sup> ⑧ 形容知识不丰富或技艺不熟练的人。或谓痴呆不精明者。贬义。<sup>\[泰兴\]</sup>  
-1. 【[半对半](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_duei_bun.md#半对半)】`bun5 duei5 bun5` <sup>[兴化]</sup> 各占二分之一：全班四十个学生，男女生～。｜一筐苹果两家～。  
-1. 【[半对半](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_duei_bun.md#半对半)】`bun5 duei5 bun5` <small>/pʊ̃5 təɪ5 pʊ̃5/<sup>泰兴</sup></small> 各二分之一，各一半。<sup>\[泰兴\]</sup>：这笔钱我佼～。<sup>\[泰兴\]</sup>  
+1. 【[半对半](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_duei_bun.md#半对半)】`bun5 duei5 bun5` <small>/pũ5 tuəi5 pũ5/<sup>兴化</sup>, /pʊ̃5 təɪ5 pʊ̃5/<sup>泰兴</sup></small> 各占二分之一<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：全班四十个学生，男女生～。<sup>\[兴化\]</sup>｜一筐苹果两家～。<sup>\[兴化\]</sup>｜这笔钱我佼～。<sup>\[泰兴\]</sup>  
 1. 【[半间屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_gaen_oh.md#半间屋)】`bun5 gaen1 oh7` <sup>[泰县]</sup> 一只眼。  
 1. 【[半高凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_go_den.md#半高凳)】`bun5 go1 den5` <sup>[如东]</sup> 凳的一种，比高凳矮，比矮凳高。  
 1. 【[半个猪头敬神——惹菩萨作气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_gu_zhv_teu.md#半个猪头敬神——惹菩萨作气)】`bun5 gu zhv1 teu2 jien5 shen2 ra3 pv2 saeh7 zah7 qi5` <sup>[东台]</sup>   
@@ -1629,8 +1626,7 @@
 1. 【[半愣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_len.md#半愣)】`bun5 len6` <sup>[兴化]</sup> 智商低，反应迟钝的人：这个～，人家指住他鼻子骂都不懂。  
 1. 【[半离不吊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_li_beh_dio.md#半离不吊)】`bun5 li2 beh7 dio5` <sup>[如东]</sup> 怪里怪气，不好相处：这个人～。  
 1. 【[半里半外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_li_bun_vae.md#半里半外)】`bun5 li3 bun5 vae6` <sup>[如东]</sup> ① 既关心又马虎的态度：他总是～的，我不放心。 ② 比喻关系一般化，不够忠诚：他俫两个是～的。  
-1. 【[半里不吊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_lii_beh_dio.md#半里不吊)】`bun5 lii beh7 dio5` <sup>[泰州]</sup> “半吊”的生动形式，指人处理问题不周或者处理问题有始无终：这小伙就是这～的坯料，他自己同人家老刘玩吖个有约无请，到临了还怪人家老刘不来。｜小王你同人做事不能～的，你答应同人家把电脑修啊好啊的，现在还不曾弄得好㖸，你怎吖好说走就走。  
-1. 【[半里不吊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_lii_beh_dio.md#半里不吊)】`bun5 lii beh7 dio5` <small>/pʊ̃5 ləɪ pəʔ7 tiɔ5/<sup>泰兴</sup></small> 犹称半吊子。痴呆而不明事理者。也谓做事不着边际者。<sup>\[泰兴\]</sup>  
+1. 【[半里不吊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_lii_beh_dio.md#半里不吊)】`bun5 lii beh7 dio5` <small>/pʊ̃5 ləɪ pəʔ7 tiɔ5/<sup>泰兴</sup></small> ① “半吊”的生动形式，指人处理问题不周或者处理问题有始无终<sup>\[泰州\]</sup>：这小伙就是这～的坯料，他自己同人家老刘玩吖个有约无请，到临了还怪人家老刘不来。<sup>\[泰州\]</sup>｜小王你同人做事不能～的，你答应同人家把电脑修啊好啊的，现在还不曾弄得好㖸，你怎吖好说走就走。<sup>\[泰州\]</sup> ② 犹称半吊子。痴呆而不明事理者。也谓做事不着边际者。<sup>\[泰兴\]</sup>  
 1. 【[半里不邪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_lii_beh_qia.md#半里不邪)】`bun5 lii beh7 qia2` <sup>[兴化]</sup> 形容言谈举止有悖常理：这个人～的，覅跟他一般见识。  
 1. 【[半里半作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_lii_bun_zah.md#半里半作)】`bun5 lii bun5 zah7` <sup>[兴化]</sup> 指事情进行到中途：会议开得～的他就退啊席。也说“半里不作”。  
 1. 【[半里半作的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_lii_bun_zah_dii.md#半里半作的)】`bun5 lii bun5 zah7 dii` <sup>[东台]</sup> 事情才做了一半就丢下。  
@@ -1644,8 +1640,7 @@
 1. 【[半面人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_min_ren.md#半面人)】`bun5 min6 ren2` <small>/pʊ̃5 mĩ1 ɻəŋ2/<sup>如皋</sup></small> ① 寡妇。<sup>\[如东\]</sup> ② 寡妇。<sup>\[如皋\]</sup>  
 1. 【[半哑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_nga_zz.md#半哑子)】`bun5 nga3 zz` <sup>[兴化]</sup> 仅有部分听力或语言功能的人：他是个～，说话一冒一冒的。  
 1. 【[半旁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_pan.md#半旁)】`bun5 pan2` 旁边，附近  
-1. 【[半瓶醋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_pien_cv.md#半瓶醋)】`bun5 pien2 cv5` <sup>[泰州]</sup> 虽然读了点书但对学问一知半解的人：他这个～也敢到人家学堂里做老师。  
-1. 【[半瓶醋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_pien_cv.md#半瓶醋)】`bun5 pien2 cv5` <small>/pʊ̃5 pʰiŋ2 t͡sʰu5/<sup>泰兴</sup></small> 喻指对某种知识或技术一知半解的人。<sup>\[泰兴\]</sup>  
+1. 【[半瓶醋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_pien_cv.md#半瓶醋)】`bun5 pien2 cv5` <small>/pʊ̃5 pʰiŋ2 t͡sʰu5/<sup>泰兴</sup></small> 一知半解的人<sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：他这个～也敢到人家学堂里做老师。<sup>\[泰州\]</sup>  
 1. 【[半期水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_qi_shuei.md#半期水)】`bun5 qi1 shuei3` <sup>[如皋]</sup> 踏水的计量单位，含五十筹的提水量。  
 1. 【[半墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_qian.md#半墙)】`bun5 qian2` <sup>[如皋]</sup> 半高的墙。  
 1. 【[半情半意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_qien_bun_i.md#半情半意)】`bun5 qien2 bun5 i5` <sup>[兴化]</sup> 为他人出力，只取部分报酬：老赵替他修电脑，～的只收啊五十块钱。  

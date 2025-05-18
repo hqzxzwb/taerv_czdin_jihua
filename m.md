@@ -730,9 +730,8 @@
 1. 【[没戏唱吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_xi_chan_nga.md#没戏唱吖)】`meh8 xi5 chan5 nga` <sup>[如皋]</sup> 喻关键处活动中止，他家老头儿一死，全家就～。  
 1. 【[没霞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_xia.md#没霞)】`meh8 xia2` <sup>[兴化]</sup> 没什么了不起：那个饭店装璜不丑，其实酒菜、服务也～。‖也说“没霞光”。  
 1. 【[没（得）下落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_xia_lah.md#没（得）下落)】`meh8 xia6 lah8` <sup>[如皋]</sup> 未曾找到。  
-1. 【[没相干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_xian_gun.md#没相干)】`meh8 xian1 gun1` <small>/məʔ8 ɕiaŋ1 kũ1/<sup>兴化</sup></small> ① 没有关系。<sup>\[如东\]</sup>：这件事跟他～。<sup>\[如东\]</sup> ② 没有结果。<sup>\[如东\]</sup>：去啊几次都是～。<sup>\[如东\]</sup> ③ 互相之间没有关连<sup>\[兴化\]</sup>：与你～的事少管为好。<sup>\[兴化\]</sup>｜所以富时也不来劝戒，穷时也不来资助，只像～的一般。（《二刻》二二）<sup>\[兴化\]</sup>  
-1. 【[没相干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_xian_gun.md#没相干)】`meh8 xian1 gun1` <sup>[泰州]</sup> 相互之间没有关联：遇到这些～的事情，你让吖远吖点儿。  
-1. 【[没相管](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_xian_gun.md#没相管)】`meh8 xian1 gun3` <small>/məʔ8 ɕiã1 kʊ̃3/<sup>如皋</sup>, /məʔ8 ɕiɑŋ1 kõ3/<sup>泰县</sup></small> ① 所传无据，不可信。<sup>\[如皋\]</sup> ② 胡来：你不要做～的事。<sup>\[如皋\]</sup> ③ 不可靠：他做事～，不要指望他。<sup>\[如皋\]</sup> ④ 不相关，无所谓。<sup>\[泰县\]</sup>  
+1. 【[没相干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_xian_gun.md#没相干)】`meh8 xian1 gun1` <small>/məʔ8 ɕiaŋ1 kũ1/<sup>兴化</sup></small> ① 没有关系。<sup>\[如东\]</sup>：这件事跟他～。<sup>\[如东\]</sup> ② 没有结果。<sup>\[如东\]</sup>：去啊几次都是～。<sup>\[如东\]</sup> ③ 互相之间没有关连<sup>\[兴化\]</sup>：与你～的事少管为好。<sup>\[兴化\]</sup>｜所以富时也不来劝戒，穷时也不来资助，只像～的一般。（《二刻》二二）<sup>\[兴化\]</sup> ④ 相互之间没有关联<sup>\[泰州\]</sup>：遇到这些～的事情，你让吖远吖点儿。<sup>\[泰州\]</sup>  
+1. 【[没相管](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_xian_gun.md#没相管)】`meh8 xian1 gun3` <small>/məʔ8 ɕiã1 kʊ̃3/<sup>如皋</sup>, /məʔ8 ɕiɑŋ1 kõ3/<sup>泰县</sup></small> ① 所传无据，不可信。<sup>\[如皋\]</sup> ② 胡来<sup>\[如皋\]</sup>：你不要做～的事。<sup>\[如皋\]</sup> ③ 不可靠<sup>\[如皋\]</sup>：他做事～，不要指望他。<sup>\[如皋\]</sup> ④ 不相关，无所谓。<sup>\[泰县\]</sup>  
 1. 【[没相管](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_xian_gun.md#没相管)】`meh8 xian5 gun3` <sup>[东台]</sup> ① 没有这回事。 ② 不正规，不上档次。  
 1. 【[没心肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_xien_chan.md#没心肠)】`meh8 xien1 chan2` <sup>[泰州]</sup> 没有心情去做某事：儿子大事不曾办，她～陪你出去旅游。  
 1. 【[没心大肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_xien_da_chan.md#没心大肠)】`meh8 xien1 da6 chan2` <sup>[兴化]</sup> 没有心思、缺乏兴趣：她从城里到家，浑身发软，～的，连晚饭也不想吃。  
@@ -1163,8 +1162,7 @@
 1. 【[谬奖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mieu_jian.md#谬奖)】`mieu6 jian3` <sup>[东台]</sup> （谦词）表示受到的评价或待遇超过自己的实际水平或贡献。  
 1. 【[□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mih_xih.md#□□)】`mih8 xih` <sup>[如皋]</sup> 装马虎，不急于理睬：这伢儿～吤，喊他不睬人，只顾忙他的杲子。  
 1. 【[灭茬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mih_cha.md#灭茬)】`mih8 cha5` <sup>[东台]</sup> 收割农作物后将留在田里的秸秆埋入土中。  
-1. 【[灭朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mih_cho.md#灭朝)】`mih8 cho2` <sup>[东台]</sup> ① 改朝换代。 ② 指因地震、海啸等特大自然灾害造成毁灭性灾难。  
-1. 【[灭朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mih_cho.md#灭朝)】`mih8 cho2` <small>/miʔ8 t͡sʰɔ2/<sup>泰兴</sup></small> 彻底完蛋。<sup>\[泰兴\]</sup>：死人～失天火<sup>\[泰兴\]</sup>  
+1. 【[灭朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mih_cho.md#灭朝)】`mih8 cho2` <small>/miʔ8 t͡sʰɔ2/<sup>泰兴</sup></small> ① 改朝换代。<sup>\[东台\]</sup> ② 指因地震、海啸等特大自然灾害造成毁灭性灾难。<sup>\[东台\]</sup> ③ 彻底完蛋。<sup>\[泰兴\]</sup>：死人～失天火<sup>\[泰兴\]</sup>  
 1. 【[灭门其乎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mih_men_qi_hv.md#灭门其乎)】`mih8 men qi hv` 乱七八糟的，一塌糊涂的。“灭门绝户”的讹音。  
 1. 【[灭门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mih_men.md#灭门)】`mih8 men2` <sup>[如皋]</sup> 全家都死光了。  
 1. 【[灭门绝户](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mih_men_qiuh_hv.md#灭门绝户)】`mih8 men2 qiuh8 hv6` <small>/miɪʔ8 mən2 t͡ɕʰyuʔ8 xu6/<sup>兴化</sup>, /miʔ8 məŋ2 t͡ɕʰyʊʔ8 fu1/<sup>如皋</sup></small> ① 门户已被灭绝，形容遭受巨大的灾难。<sup>\[如东\]</sup> ② 全家死光、门户灭绝。<sup>\[如皋\]</sup> ③ （詈语）死尽死绝<sup>\[东台\]</sup>：当年日本鬼子杀人放火，～！<sup>\[东台\]</sup> ④ 全家死光或离散，空无一人<sup>\[兴化\]</sup>：这个人家过去多威风，而今死的死，逃的逃，～啊。<sup>\[兴化\]</sup>  
@@ -1776,8 +1774,7 @@
 1. 【[抹煞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/muh_shaeh.md#抹煞)】`muh8 shaeh7` <sup>[如东]</sup> 被人有意地取消：他的资格捱～咖。  
 1. 【[末朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/muh_cho.md#末朝)】`muh8 cho2` <sup>[如皋]</sup> 毁灭性的灾难，如地陷、海啸、大地震。  
 1. 【[末座](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/muh_cu.md#末座)】`muh8 cu6` <sup>[东台]</sup> 席次最卑小的座位。  
-1. 【[末了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/muh_lio.md#末了)】`muh8 lio3` <sup>[泰州]</sup> 末尾结束之时，最后：这小伙不胎谐，在班上的成绩排啊在～。  
-1. 【[末了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/muh_lio.md#末了)】`muh8 lio3` <small>/mʊʔ8 liɔ3/<sup>泰兴</sup></small> 最后，末尾。<sup>\[泰兴\]</sup>  
+1. 【[末了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/muh_lio.md#末了)】`muh8 lio3` <small>/mʊʔ8 liɔ3/<sup>泰兴</sup></small> 最后，末尾<sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：这小伙不胎谐，在班上的成绩排啊在～。<sup>\[泰州\]</sup>  
 1. 【[末末礓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/muh_muh_jian_r.md#末末礓<sub>儿</sub>)】`muh8 muh8 jian3 r` <small>/mʊʔ8 mʊʔ8 t͡ɕia˞3/<sup>如皋</sup></small> ① 最细小的。<sup>\[如东\]</sup>：这是～。<sup>\[如东\]</sup> ② 排行最小的。<sup>\[如东\]</sup>：他在家里是～。<sup>\[如东\]</sup> ③ 小人物。<sup>\[如东\]</sup>：他是～。<sup>\[如东\]</sup> ④ 最后的一点儿东西。<sup>\[如东\]</sup>：剩下一点～，你拿啊去吧。<sup>\[如东\]</sup> ⑤ 最后、最小的<sup>\[如皋\]</sup>：你是头一名，他是～。<sup>\[如皋\]</sup> ⑥ 辈份在某人的五代之后<sup>\[如皋\]</sup>：灰灰孙儿～。<sup>\[如皋\]</sup>  
 1. 【[末末了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/muh_muh_lio.md#末末了)】`muh8 muh8 lio3` <sup>[兴化]</sup> 最后：他个子矮，排在全班～儿。｜一看电码的～一个字，不是继之的名字。（《二十年目睹之怪现状》五九）  
 1. 【[末梢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/muh_sho.md#末梢)】`muh8 sho1` <small>/mʊʔ8 sɔ1/<sup>泰兴</sup></small> ① 末尾，最后。<sup>\[泰兴\]</sup> ② （泰兴）江边过船有龙梢港，为入江口，传为老龙河的末梢，故称。<sup>\[泰兴\]</sup>  
