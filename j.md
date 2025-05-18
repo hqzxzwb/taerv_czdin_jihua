@@ -194,7 +194,7 @@
 1. 【[鯚婆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_pu_zz.md#鯚婆子)】`ji5 pu2 zz` <sup>[如皋]</sup> 鳜鱼。又称鯚花鱼。  
 1. 【[𪊆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#𪊆)】`ji5` <sup>[如东]</sup> 一种腌制方法。鲜鱼、虾、菜，加少许盐，腌渍一会儿，即可食。  
 1. 【[佳济](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ji.md#佳济)】`jia1 ji` <sup>[如东]</sup> 结实而便宜：王师傅做的工具～。  
-1. 【[加二奉承](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_er_fon_chen.md#加二奉承)】`jia1 er6 fon6 chen` <small>/t͡ɕiɑ1 ɚ1 fɔŋ1 t͡sʰəŋ/<sup>泰兴</sup></small> 特别客气，加倍尊重。加二，在原来的基础上再加二成。<sup>\[泰兴\]</sup>：老大人几十年没来过，今天登门，全家是～，特别孝敬。<sup>\[泰兴\]</sup>  
+1. 【[加二奉承](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_er_fon_chen.md#加二奉承)】`jia1 er6 fon6 chen` <small>/t͡ɕiɑ1 ɚ1 fɔŋ1 t͡sʰəŋ/<sup>泰兴</sup></small> 特别客气，加倍尊重。加二，在原来的基础上再加二成。<sup>\[泰兴\]</sup>：老大人几十年不曾来过，今朝登门，全家是～，特别孝敬。<sup>\[泰兴\]</sup>  
 1. 【[加个更字](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_gu_gen_cz.md#加个更字)】`jia1 gu gen5 cz6` <sup>[如皋]</sup> 更加、进一步：你教他不要偷啊赔钱，他却～！  
 1. 【[加褂子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_gua_zz.md#加褂子)】`jia1 gua5 zz` <small>/t͡ɕia1 kua5 t͡se/<sup>泰县</sup></small> ① 罩衫。<sup>\[泰县\]</sup> ② 加在棉衣上的单层布衣，尺寸稍稍大于棉衣。改革开放之前，物资匮乏，因为棉衣要穿一个冬天，穿脏以后不便洗涤，在棉衣上罩加褂子，可以保持棉衣整洁，加褂子也方便清洗。<sup>\[泰州\]</sup>  
 1. 【[加官](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_gun.md#加官)】`jia1 gun1` <small>/t͡ɕiɑ1 kʊ̃1/<sup>泰兴</sup></small> 旧时在戏曲正式演出前外加的单人或多人表演。表演者身穿红袍，藏有含笑容的假面具，边跳边唱，以增强喜庆气氛，称之为“跳加官”。<sup>\[泰兴\]</sup>  

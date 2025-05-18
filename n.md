@@ -87,7 +87,7 @@
 1. 【[那摩文](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_mu_ven.md#那摩文)】`na5 mu ven2` <sup>[东台]</sup> number one的变音。原指工头，现多指头一个、第一名：谈到唱歌，他竖起大拇指说，小王在全班是～！  
 1. 【[奶子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_zz.md#奶子)】`nae1 zz` <sup>[如东]</sup> 乳房。  
 1. 【[褦襶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_dae.md#褦襶)】`nae1 dae` <sup>[兴化]</sup> ① 粗笨、不利索：出门旅游，他带上多少吃的、穿的、用的，路都走不动，真～。 ② 不晓事、不合时宜：几个人当中就数他～，开口就捱人家叉住。｜晋，程晓《嘲热客》｜“闭门避署卧，出入不相过，只今～子，触热到人家。”《吴下方言考》｜“～，不解事而笨也，吴谚呼笨人为～。”  
-1. 【[奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae.md#奶)】`nae3` <sup>[如东]</sup> 母亲的乳汁。也说nae1。  
+1. 【[奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae.md#奶)】`nae3` <small>/nɛ3/<sup>泰兴</sup></small> 乳<sup>\[泰兴\]</sup>\[如东：也说nae1。\]  
 1. 【[奶膊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_bah_zz.md#奶膊子)】`nae3 bah7 zz` <sup>[兴化]</sup> 从乳房到腋窝部分：这件衫子太露，～撂出来一大半。  
 1. 【[奶膀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_ban.md#奶膀)】`nae3 ban` 乳房，因部位靠膀，故名<sup>\[泰州\]</sup>：他一撉儿打啊这小伙～上。<sup>\[泰州\]</sup>  
 1. 【[奶帮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_ban_zz.md#奶帮子)】`nae3 ban1 zz` <sup>[如皋]</sup> 乳房基部。  
@@ -104,19 +104,22 @@
 1. 【[奶黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_huan.md#奶黄)】`nae3 huan2` 出生不足月的婴儿<sup>\[泰州\]</sup>：她家里有个细～，不能离人。<sup>\[泰州\]</sup>  
 1. 【[奶黄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_huan_zz.md#奶黄子)】`nae3 huan2 zz` <sup>[兴化]</sup> 见“奶含子”。  
 1. 【[奶含子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_hun_zz.md#奶含子)】`nae3 hun2 zz` <sup>[兴化]</sup> 尚在吃奶的孩子：又上班，又带～，真不容易。也说“奶黄子”。  
+1. 【[奶含子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_hun_zz.md#奶含子)】`nae3 hun2 zz` <small>/nɛ3 xʊ̃2 t͡sɿ/<sup>泰兴</sup></small> 婴儿，吃奶的孩子。<sup>\[泰兴\]</sup>  
 1. 【[奶唤伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_hun_nga_r.md#奶唤伢<sub>儿</sub>)】`nae3 hun5 nga2 r` <sup>[泰县]</sup> 吃奶的幼儿。  
 1. 【[奶虎<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_hv_r.md#奶虎<sub>儿</sub>)】`nae3 hv3 r` <sup>[如东]</sup> 比喻长得健壮的婴儿。  
 1. 【[奶虎<sub>儿</sub>气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_hv_r_qi.md#奶虎<sub>儿</sub>气)】`nae3 hv3 r qi5` <sup>[如东]</sup> 婴儿吸食母乳，因而身上散发着一种奶香味儿，称奶虎儿气。  
 1. 【[奶瘾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_ien.md#奶瘾)】`nae3 ien3` <sup>[如皋]</sup> 婴儿欲乳．因而啼哭。  
-1. 【[奶浆草<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_jian_co_r.md#奶浆草<sub>儿</sub>)】`nae3 jian co3 r` <sup>[如皋]</sup> 苦荬菜  
+1. 【[奶浆草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_jian_co.md#奶浆草)】`nae3 jian co3` <small>/nɛ3 t͡ɕiɑŋ t͡sʰɔ3/<sup>泰兴</sup></small> 一种野草，绿叶红梗。折断其梗即冒出很多似奶白浆，故名。（泽漆）<sup>\[泰兴\]</sup>  
+1. 【[奶浆草<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_jian_co_r.md#奶浆草<sub>儿</sub>)】`nae3 jian co3 r` <sup>[如皋]</sup> 苦荬菜（存疑。实际查问，应指“泽漆”。）  
 1. 【[奶壳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_kah_zz.md#奶壳子)】`nae3 kah7 zz` <sup>[泰县]</sup> 喂奶的妇女。  
 1. 【[奶靠子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_ko_zz.md#奶靠子)】`nae3 ko5 zz` <sup>[如皋]</sup> 因缺母乳喂养而发育不良的伢儿。  
 1. 【[奶妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_ma.md#奶妈)】`nae3 ma1` <sup>[如东]</sup> ① 给别人家婴儿喂奶的妇女。 ② 以奶喂养自己的妇女，称奶妈。  
 1. 【[奶妈妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_ma_ma.md#奶妈妈)】`nae3 ma1 ma` <sup>[如皋]</sup> 奶妈，乳母。  
 1. 【[奶名](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_mien.md#奶名)】`nae3 mien2` <sup>[如东]</sup> 婴儿出生后取的名字，只有名不加姓。也称小名：狗儿、虎儿。  
 1. 【[奶奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_nae.md#奶奶)】`nae3 nae` <small>/nɛ3 nɛ/<sup>如皋</sup></small> ① 祖母。<sup>\[如皋\]</sup><sup>\[泰州\]</sup><sup>\[如东\]</sup> ② 称老板娘。<sup>\[如皋\]</sup> ③ 称家庭主妇。<sup>\[如皋\]</sup> ④ 妻子，老婆。<sup>\[泰州\]</sup> ⑤ 泛指已婚的妇女<sup>\[泰州\]</sup>：你是男的，怎吖就喜欢同些～搬淡话的？<sup>\[泰州\]</sup>  
-1. 【[奶奶𠛵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_nae_hen.md#奶奶𠛵)】`nae3 nae hen1` <small>/lɛ3 lɛ xən1/<sup>兴化</sup>, /ne3 ne xəŋ1/<sup>泰县</sup></small> ① 一种甜瓜，比香瓜稍大。<sup>\[东台\]</sup> ② 一种又软又面的甜瓜，没牙的老人也吃得动，故名<sup>\[兴化\]</sup>：这时正是各种瓜果下来的时候，牛角酥、～……瓜香果味，飘满一街。（汪曾祺《故里三陈》）<sup>\[兴化\]</sup> ③ 香瓜。<sup>\[泰县\]</sup> ④ 瓜名，特指下河产的一种甜瓜，表皮黄色间有深绿色的竖纹，体积约为普通香瓜二倍左右，肉厚味甜，绵软如泥，入口即化，无牙或者缺牙的老年妇女亦可直接啃食，故名。<sup>\[泰州\]</sup>  
+1. 【[奶奶𠛵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_nae_hen.md#奶奶𠛵)】`nae3 nae hen1` <small>/lɛ3 lɛ xən1/<sup>兴化</sup>, /nɛ3 nɛ xəŋ1/<sup>泰兴</sup>, /ne3 ne xəŋ1/<sup>泰县</sup></small> ① 一种甜瓜，比香瓜稍大。<sup>\[东台\]</sup> ② 一种又软又面的甜瓜，没牙的老人也吃得动，故名<sup>\[兴化\]</sup>：这时正是各种瓜果下来的时候，牛角酥、～……瓜香果味，飘满一街。（汪曾祺《故里三陈》）<sup>\[兴化\]</sup> ③ 香瓜。<sup>\[泰县\]</sup> ④ 瓜名，特指下河产的一种甜瓜，表皮黄色间有深绿色的竖纹，体积约为普通香瓜二倍左右，肉厚味甜，绵软如泥，入口即化，无牙或者缺牙的老年妇女亦可直接啃食，故名。<sup>\[泰州\]</sup> ⑤ 一种又甜又鲜的小香瓜，成熟后很适宜老人品尝。<sup>\[泰兴\]</sup>  
 1. 【[奶奶经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_nae_jien.md#奶奶经)】`nae3 nae jien1` <sup>[兴化]</sup> 中老年妇女见面时的谈资、笑料：几个娘儿们先谈了几句～，谈呀谈的，才转到正文上来。  
+1. 【[奶奶老爹无大小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_nae_lo_dia.md#奶奶老爹无大小)】`nae3 nae lo3 dia v2 da6 xio3` <small>/nɛ3 nɛ lɔ3 tiɑ ʋ2 tɑ1 ɕiɔ3/<sup>泰兴</sup></small> 谓对年龄大的老者要尊敬，叫人一声“奶奶”、“老爹”是应该的。（不必拘泥实际辈分）<sup>\[泰兴\]</sup>  
 1. 【[奶奶庙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_nae_mio.md#奶奶庙)】`nae3 nae mio6` <sup>[如皋]</sup> 又名“娘娘庙”，在如皋泰山西。  
 1. 【[奶奶邪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_nae_qia.md#奶奶邪)】`nae3 nae qia2` <sup>[兴化]</sup> 邪：我就不信这个～。  
 1. 【[奶奶腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_nae_qian.md#奶奶腔)】`nae3 nae qian1` <sup>[如皋]</sup> ① 指某男性的言谈举止像女性。 ② 指责妖声怪气。 ③ 指责优柔寡断。  
@@ -125,7 +128,7 @@
 1. 【[奶娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_nian.md#奶娘)】`nae3 nian2` <small>/nɛ3 niã2/<sup>如皋</sup></small> ① 乳母，指称。<sup>\[如皋\]</sup> ② 以奶喂养自己的妇女，称奶娘。<sup>\[如东\]</sup>  
 1. 【[奶醭气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_pah_qi.md#奶醭气)】`nae3 pah qi5` <sup>[如东]</sup> 饮食过多消化不良而䬵出一种特别的气味。  
 1. 【[奶钱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_qin_r.md#奶钱<sub>儿</sub>)】`nae3 qin2 r` <sup>[如皋]</sup> 乳晕。  
-1. 【[奶子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_zz.md#奶子)】`nae3 zz` <small>/lɛ3 t͡sɿ/<sup>兴化</sup>, /nɛ3 t͡sɿ/<sup>如皋</sup>, /ne3 t͡se/<sup>泰县</sup></small> ① 乳房、乳头。<sup>\[如皋\]</sup> ② 妇女乳房的俗称。<sup>\[东台\]</sup> ③ 乳房。<sup>\[兴化\]</sup> ④ 乳房。<sup>\[泰县\]</sup> ⑤ 乳房。<sup>\[泰州\]</sup>  
+1. 【[奶子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_zz.md#奶子)】`nae3 zz` <small>/lɛ3 t͡sɿ/<sup>兴化</sup>, /nɛ3 t͡sɿ/<sup>如皋</sup>, /nɛ3 t͡sɿ/<sup>泰兴</sup>, /ne3 t͡se/<sup>泰县</sup></small> ① 乳房、乳头。<sup>\[如皋\]</sup> ② 乳房<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>  
 1. 【[奶子头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_zz_teu_r.md#奶子头<sub>儿</sub>)】`nae3 zz teu2 r` <sup>[如皋]</sup> 乳头。  
 1. 【[耐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae.md#耐)】`nae5` <sup>[如皋]</sup> 难咽状：一口饭～啊半大天，喉咙管儿里不得下去。  
 1. 【[耐不住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_beh_chv.md#耐不住)】`nae6 beh chv6` <sup>[如皋]</sup> 忍耐不住。  

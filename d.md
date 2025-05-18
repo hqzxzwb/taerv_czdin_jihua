@@ -1524,11 +1524,12 @@
 1. 【[陡坎子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_kun_zz.md#陡坎子)】`deu3 kun3 zz` <sup>[兴化]</sup> 陡峭的河岸。  
 1. 【[陡然](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_rin.md#陡然)】`deu3 rin2` <small>/tɤɯ3 iɪ̃2/<sup>泰县</sup></small> 突然<sup>\[泰县\]</sup><sup>\[泰州\]</sup>：他～的不来啊。<sup>\[泰县\]</sup>｜她说得行行的，就～的哭起来啊。<sup>\[泰州\]</sup>  
 1. 【[陡砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_zhun.md#陡砖)】`deu3 zhun1` <sup>[如皋]</sup> 砖块侧立着（侧面向上）砌墙。与“平砖（平面向上）、竖砖（端面向上）”相对。  
-1. 【[斗缝合榫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_fon_huh_xyen.md#斗缝合榫)】`deu4 fon6 huh8 xyen3` <sup>[泰州]</sup> ① 构件两个部分咬合极其准确：这个木匠的手艺没得话说，打的家具块块～。 ② 比喻账务上所记收支与实际的收支完全吻合：他是老会计，弄的账～，领导对他非常放心。  
 1. 【[斗（鬥）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu.md#斗（鬥）)】`deu5` <small>/tei5/<sup>如皋</sup></small> ① 主动找<sup>\[如皋\]</sup>：雄鸡～母鸡，～交易。<sup>\[如皋\]</sup> ② 挑动、挑起争端<sup>\[如皋\]</sup>：是他～我，我才还手的。<sup>\[如皋\]</sup> ③ 争斗<sup>\[如皋\]</sup>：坐山观虎～；好～的鸡儿不长毛。<sup>\[如皋\]</sup> ④ 凑合<sup>\[如皋\]</sup>：～股子、～份子。<sup>\[如皋\]</sup> ⑤ 相合，拼合<sup>\[如皋\]</sup><sup>\[泰州\]</sup>：～缝合榫。<sup>\[如皋\]</sup>｜这几块小板子～啊子就是一块大板子。<sup>\[泰州\]</sup> ⑥ （泰州词典作𨁋）<sup>\[泰州\]</sup> ⑦ 前进之时足尖碰到硬物受阻，惯性导致前倾<sup>\[泰州\]</sup>：刚才不曾注意，捱脚底下的石子ㄦ～啊下子，还好不曾跌跟头。<sup>\[泰州\]</sup> ⑧ 用刨子刨物体，用锯子锯物时，刀口、锯口碰到硬块后被弹起<sup>\[泰州\]</sup>：这个木头里头有钉子，锯的时候要当心，不要把家伙～啊坏啊。<sup>\[泰州\]</sup>  
 1. 【[斗草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_co.md#斗草)】`deu5 co3` <sup>[泰州]</sup> 一种儿童游戏，两人各执一根带茎的青草，将双方的草茎相互交结，各持一端猛烈向后拉扯，谁的草茎断了谁就为输。  
 1. 【[斗份子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_fen_zz.md#斗份子)】`deu5 fen6 zz` <small>/tɤ5 fən6 t͡sɿ/<sup>兴化</sup>, /təɪ5 fəŋ1 t͡sɿ/<sup>泰兴</sup></small> 凑钱合做一件事<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>\[泰州：每人出一分钱拼凑起来送礼\]：我俫～为老陈送行。<sup>\[兴化\]</sup>｜……共有五个宫员，都斗了分子，穿孝服来上纸帛吊问。（《金瓶梅词话》六五）<sup>\[兴化\]</sup>｜老李家儿子下个星期六结婚，处长说的，处里八个人～出人情，个人100块钱。<sup>\[泰州\]</sup>  
 1. 【[斗缝合榫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_fon_huh_xyen.md#斗缝合榫)】`deu5 fon6 huh8 xyen3` <sup>[东台]</sup> ① 本指木器榫头和卯眼接合，喻指几方面反映的情况完全吻合，严丝合缝。 ② 几方面环节衔接紧凑。  
+1. 【[斗缝合榫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_fon_huh_xyen.md#斗缝合榫)】`deu5 fon6 huh8 xyen3` <sup>[泰州]</sup> ① 构件两个部分咬合极其准确：这个木匠的手艺没得话说，打的家具块块～。 ② 比喻账务上所记收支与实际的收支完全吻合：他是老会计，弄的账～，领导对他非常放心。  
+1. 【[斗缝合榫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_fon_huh_xyen.md#斗缝合榫)】`deu5 fon6 huh8 xyen3` <small>/təɪ5 fɔŋ1 xʊʔ8 ɕyəŋ3/<sup>泰兴</sup></small> 即“斗榫”。<sup>\[泰兴\]</sup>  
 1. 【[斗富](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_fv.md#斗富)】`deu5 fv5` <sup>[兴化]</sup> 比较富有：“徒弟，莫要与人～。你我是单身在外，恐有错。”（《西游记》十六）  
 1. 【[斗搞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_go.md#斗搞)】`deu5 go3` <small>/tɤ5 kɔ3/<sup>兴化</sup>, /tei5 kɔ3/<sup>如皋</sup></small> ① 打闹争斗。<sup>\[如皋\]</sup> ② 与人嬉闹。<sup>\[如皋\]</sup> ③ 对小争斗的淡化性称法。<sup>\[如皋\]</sup> ④ 小孩互相争执、斗殴。<sup>\[兴化\]</sup> ⑤ 儿童、少年相互争吵，直至动手打斗<sup>\[泰州\]</sup>：他家大人不在家，几个小的在家里～。<sup>\[泰州\]</sup>  
 1. 【[斗鹄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_goh_zz.md#斗鹄子)】`deu5 goh7 zz` <sup>[东台]</sup> ［喻］对路，找到解决问题的办法了（“鹄”读若“谷”，指箭靶子的中心）：这件事交给他俫去办，就～啊。  
@@ -1538,6 +1539,7 @@
 1. 【[斗鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_ji.md#斗鸡)】`deu5 ji1` <small>/təɪ5 t͡ɕʝ1/<sup>泰兴</sup></small> ① 一只脚站立，另一条腿弯曲，用手捧住脚，彼此用膝盖互相冲撞的一种游戏。<sup>\[东台\]</sup> ② 一种男孩游戏，一腿直立，一腿抬起弯曲、膝盖朝前成锐角形，一手抓住弯曲腿的脚部上捧，一手抓住弯曲腿的大腿部位裤子上提，双方各以直立单腿跳行向前冲击，并用弯曲腿的膝盖猛顶对方，被顶倒在地的为输。<sup>\[泰州\]</sup> ③ 儿童游戏。以两人相戏，各曲一腿以手相帮，以膝相斗。<sup>\[泰兴\]</sup>  
 1. 【[斗鸡眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_ji_ngaen.md#斗鸡眼)】`deu5 ji1 ngaen3` <small>/tɤ5 t͡ɕi1 ɛ̃3/<sup>兴化</sup>, /tei5 t͡ɕʝ1 ŋẽ3/<sup>如皋</sup>, /təɪ5 t͡ɕʝ1 ŋɛ̃3/<sup>泰兴</sup></small> 眼球内斜，内斜视<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>\[泰兴：也称“假眼儿”、“斗鸡子眼”。\]\[东台：见“对对眼”。\]  
 1. 【[斗交易](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_jio_i.md#斗交易)】`deu5 jio1 i` <sup>[东台]</sup> 主动找人谈生意。  
+1. 【[斗嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_jy.md#斗嘴)】`deu5 jy3` <sup>[如皋]</sup> 家庭小争执。旧时限平辈间。与长辈争则为“回嘴”“顶嘴”。  
 1. 【[斗嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_jy.md#斗嘴)】`deu5 jy3` <sup>[泰县]</sup> 争吵。  
 1. 【[斗卯眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_mo_ngaen.md#斗卯眼)】`deu5 mo3 ngaen3` <sup>[兴化]</sup> ① 把榫头和眼相接起来。 ② （喻）说的话与事实相符：他说得～，没错。  
 1. 【[斗朋<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_pon_r.md#斗朋<sub>儿</sub>)】`deu5 pon2 r` <sup>[东台]</sup> 朋友小聚，费用平摊。  
@@ -1547,7 +1549,9 @@
 1. 【[斗瘸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_qya_zz.md#斗瘸子)】`deu5 qya2 zz` <small>/tɤ5 t͡ɕʰya2 t͡sɿ/<sup>兴化</sup>, /təɪ5 t͡ɕʰyɑ2 t͡sɿ/<sup>泰兴</sup></small> ① 蓄意挑衅<sup>\[兴化\]</sup>：我俫各做各的生意，你凭甚的老来～？<sup>\[兴化\]</sup> ② 对淡话，矛盾双方相互辩析。<sup>\[泰兴\]</sup>  
 1. 【[斗生意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_shen_i.md#斗生意)】`deu5 shen1 i` <sup>[兴化]</sup> 招揽买卖：一到夜市，许多摊主走上来～。  
 1. 【[斗头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_teu.md#斗头)】`deu5 teu2` <small>/tɤ5 tʰɤ2/<sup>兴化</sup></small> ① 对得上，不错。<sup>\[东台\]</sup> ② 即对头、正确<sup>\[兴化\]</sup>：你的办法～，我赞成。<sup>\[兴化\]</sup>  
+1. 【[斗榫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_xyen.md#斗榫)】`deu5 xyen3` <small>/təɪ5 ɕyəŋ3/<sup>泰兴</sup></small> 连接和拼合榫头。喻人的议论与事实相符。或两人意气相投，意见相同。<sup>\[泰兴\]</sup>  
 1. 【[斗嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_zuei.md#斗嘴)】`deu5 zuei3` <small>/təɪ5 t͡suəɪ3/<sup>泰兴</sup></small> 争吵，吵嘴，吵架。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
+1. 【[斗嘴斗舌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_zuei_deu_shih.md#斗嘴斗舌)】`deu5 zuei3 deu5 shih8` <small>/təɪ5 t͡suəɪ3 təɪ5 ɕiʔ8/<sup>泰兴</sup></small> 斗嘴，争论<sup>\[泰兴\]</sup>  
 1. 【[鬥草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_co.md#鬥草)】`deu5 co3` <sup>[如皋]</sup> 古俗。有二式：夏秋间取白杨树叶柄，每人一根，二人一组，互相牵拉，断为输，不断者为“王”。取香附花莛，沿花撕开，呈“叉”者是“小伙”，呈“框”者是“丫头”。双方各撕数根，得“小伙”多者为胜。  
 1. 【[鬥打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_da.md#鬥打)】`deu5 da3` <sup>[兴化]</sup> ① 通过挑衅，使对方冲动，进而相互斗殴。 ② 招打：他过得好好的就～。  
 1. 【[鬥拐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_guae_r.md#鬥拐<sub>儿</sub>)】`deu5 guae3 r` <sup>[如皋]</sup> 旧式木质桌椅等侧框上的装饰结构，全由榫拼合成：～八仙。  
@@ -1556,7 +1560,6 @@
 1. 【[鬥雄鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_ion_ji.md#鬥雄鸡)】`deu5 ion2 ji1` <sup>[如皋]</sup> 游戏：二人一组，各环一足跳撞，环足着地者输。  
 1. 【[鬥碱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_jiaen.md#鬥碱)】`deu5 jiaen3` <sup>[如皋]</sup> 见“鬥石碱”。  
 1. 【[鬥金花<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_jien_hua_r.md#鬥金花<sub>儿</sub>)】`deu5 jien1 hua1 r` <sup>[如皋]</sup> 斗蟋蟀、斗鸟儿、斗鸡优胜者得金花儿。  
-1. 【[鬥嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_jy.md#鬥嘴)】`deu5 jy3` <sup>[如皋]</sup> 家庭小争执。旧时限平辈间。与长辈争则为“回嘴”“顶嘴”。  
 1. 【[鬥皮袄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_pi_ngo.md#鬥皮袄)】`deu5 pi2 ngo3` <sup>[如皋]</sup> 赌输赢的别称。  
 1. 【[鬥七巧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_qieh_qio.md#鬥七巧)】`deu5 qieh7 qio3` <sup>[如皋]</sup> ① 碰巧、巧合。 ② 互相讥诮。  
 1. 【[鬥钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_qin.md#鬥钱)】`deu5 qin2` <sup>[如皋]</sup> 集资。  
@@ -2402,6 +2405,7 @@
 1. 【[对得住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_deh_chv.md#对得住)】`duei5 deh7 chv6` <small>/təɪ5 təʔ7 t͡sʰu1/<sup>泰兴</sup></small> 对得起；对人不愧，不辜负。<sup>\[泰兴\]</sup>  
 1. 【[对刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_do.md#对刀)】`duei5 do1` <sup>[兴化]</sup> 约一斤两条的刀子鱼（鲫鱼）。  
 1. 【[对捣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_do.md#对捣)】`duei5 do3` <sup>[兴化]</sup> 双方面谈，不经过中介人：我俫是老熟人，买卖房子的事干脆～吧！  
+1. 【[对对和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_duei_hv.md#对对和)】`duei5 duei5 hv2` <small>/təɪ5 təɪ5 fʋ2/<sup>泰兴</sup></small> 纸牌的一种玩法。<sup>\[泰兴\]</sup>  
 1. 【[对分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_fen.md#对分)】`duei5 fen1` <sup>[兴化]</sup> 大家平分：“我们衣食被你夺去，若不拿出来～，你也去不得！”（《说唐》十九）  
 1. 【[对衭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_fv.md#对衭)】`duei5 fv1` <sup>[如东]</sup> 左右衣襟一样大，称对衭。  
 1. 【[对过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_gu.md#对过)】`duei5 gu1` 对面  
