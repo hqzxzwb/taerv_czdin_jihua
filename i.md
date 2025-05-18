@@ -2030,6 +2030,7 @@
 1. 【[雄鸡口涎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_ji_keu_saen.md#雄鸡口涎)】`ion2 ji1 keu3 saen2` <sup>[如东]</sup> 雉科动物家鸡雄者的口涎。  
 1. 【[雄鸡卵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_ji_lun_zz.md#雄鸡卵子)】`ion2 ji1 lun3 zz` <sup>[如东]</sup> ① 形容物体圆而突出。 ② 形容人的眼睛圆而突出。  
 1. 【[勇敢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_gun.md#勇敢)】`ion3 gun3` <sup>[如东]</sup> 有胆量，不怕困难和危险。  
+1. 【[永丰里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_fon_li.md#永丰里)】`ion3 fon1 li3` <small>/iɔŋ3 fɔŋ1 lʝ3/<sup>泰兴</sup></small> 黄桥的古称。又称“永丰镇”。<sup>\[泰兴\]</sup>  
 1. 【[涌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion.md#涌)】`ion3` <sup>[如东]</sup> 源源不断地流出来，表示非常多：他的钞票是～的。  
 1. 【[涌市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_shr.md#涌市)】`ion3 shr6` <small>/iɔŋ3 sɿ1/<sup>如皋</sup></small> ① 营业繁忙。<sup>\[如皋\]</sup> ② 人气很旺，买卖活跃的市场<sup>\[东台\]</sup>：早晨七点钟菜场进入～。<sup>\[东台\]</sup>  
 1. 【[甬堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_tan.md#甬堂)】`ion3 tan2` <sup>[如东]</sup> 两屋之间的通道。  

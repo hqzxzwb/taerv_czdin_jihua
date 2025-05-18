@@ -281,8 +281,10 @@
 1. 【[蝦蚂灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_ma_den.md#蝦蚂灯)】`xia2 ma3 den1` <sup>[如皋]</sup> 三脚蛤蟆形的提灯。旧时灯节上常见。  
 1. 【[霞光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_guan.md#霞光)】`xia2 guan1` <sup>[兴化]</sup> 有意思、有情趣：这次抽奖蛮有～的。｜昨儿的晚会一个名角没得，真是没～。  
 1. 【[霞天膏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_tin_go.md#霞天膏)】`xia2 tin1 go1` <sup>[如东]</sup> 牛科动物黄牛肉经熬炼而成之膏，入中药。  
-1. 【[写字](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_cz.md#写字)】`xia3 cz6` 做作业，写字  
+1. 【[写字](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_cz.md#写字)】`xia3 cz6` ① 写字 ② 做作业  
+1. 【[写字不要描，耕田不要摇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_cz_beh_io.md#写字不要描，耕田不要摇)】`xia3 cz6 beh7 io5 mio2 gen1 tin2 beh7 io5 io2` <small>/ɕiɑ3 t͡sʰɿ1 pəʔ7 iɔ5 miɔ2 kəŋ1 tʰĩ2 pəʔ7 iɔ5 iɔ2/<sup>泰兴</sup></small> 写字、耕田的经验总结。“描”、“摇”的效果会适得其反。<sup>\[泰兴\]</sup>  
 1. 【[写仿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_fan.md#写仿)】`xia3 fan3` <small>/ɕia3 faŋ3/<sup>兴化</sup>, /ɕia3 fɑŋ3/<sup>泰县</sup></small> ① 练习毛笔字的一种方法。以母体字为样本，上面复盖仿纸，照样临，称写仿。也叫描红。<sup>\[如东\]</sup> ② 照着字贴在习字本上练习写字（多指毛笔）。<sup>\[兴化\]</sup> ③ 特指描红。<sup>\[兴化\]</sup> ④ 练习毛笔字。<sup>\[泰县\]</sup>  
+1. 【[写口喻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_keu_y.md#写口喻)】`xia3 keu3 y` <small>/ɕiɑ3 kʰəɪ3 y/<sup>泰兴</sup></small> 旧时男女双方定亲的程序之一。主要内容是用纸写上女方的生辰八字，字数必须成双，用红纸包起来，由媒人送交男方去合婚，类似于今天的定婚书。<sup>\[泰兴\]</sup>  
 1. 【[写难字](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_naen_cz.md#写难字)】`xia3 naen2 cz6` <sup>[如皋]</sup> 为难：我不叫你～，你能做就做，不能做就丢下来。  
 1. 【[写细字<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_xi_cz_r.md#写细字<sub>儿</sub>)】`xia3 xi5 cz6 r` <sup>[如皋]</sup> 耐心细致地做思想工作。见“玩软功”。  
 1. 【[卸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia.md#卸)】`xia5` <sup>[如皋]</sup> 成趸批发：他把货～啊把二道贩子。  
