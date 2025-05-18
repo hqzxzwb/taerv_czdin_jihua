@@ -194,21 +194,24 @@
 1. 【[鯚婆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_pu_zz.md#鯚婆子)】`ji5 pu2 zz` <sup>[如皋]</sup> 鳜鱼。又称鯚花鱼。  
 1. 【[𪊆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#𪊆)】`ji5` <sup>[如东]</sup> 一种腌制方法。鲜鱼、虾、菜，加少许盐，腌渍一会儿，即可食。  
 1. 【[佳济](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ji.md#佳济)】`jia1 ji` <sup>[如东]</sup> 结实而便宜：王师傅做的工具～。  
+1. 【[加二奉承](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_er_fon_chen.md#加二奉承)】`jia1 er6 fon6 chen` <small>/t͡ɕiɑ1 ɚ1 fɔŋ1 t͡sʰəŋ/<sup>泰兴</sup></small> 特别客气，加倍尊重。加二，在原来的基础上再加二成。<sup>\[泰兴\]</sup>：老大人几十年没来过，今天登门，全家是～，特别孝敬。<sup>\[泰兴\]</sup>  
 1. 【[加个更字](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_gu_gen_cz.md#加个更字)】`jia1 gu gen5 cz6` <sup>[如皋]</sup> 更加、进一步：你教他不要偷啊赔钱，他却～！  
 1. 【[加褂子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_gua_zz.md#加褂子)】`jia1 gua5 zz` <small>/t͡ɕia1 kua5 t͡se/<sup>泰县</sup></small> ① 罩衫。<sup>\[泰县\]</sup> ② 加在棉衣上的单层布衣，尺寸稍稍大于棉衣。改革开放之前，物资匮乏，因为棉衣要穿一个冬天，穿脏以后不便洗涤，在棉衣上罩加褂子，可以保持棉衣整洁，加褂子也方便清洗。<sup>\[泰州\]</sup>  
+1. 【[加官](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_gun.md#加官)】`jia1 gun1` <small>/t͡ɕiɑ1 kʊ̃1/<sup>泰兴</sup></small> 旧时在戏曲正式演出前外加的单人或多人表演。表演者身穿红袍，藏有含笑容的假面具，边跳边唱，以增强喜庆气氛，称之为“跳加官”。<sup>\[泰兴\]</sup>  
 1. 【[加厚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_heu.md#加厚)】`jia1 heu6` <sup>[兴化]</sup> 指待遇或回报从丰：你我兄弟，你的工资、奖金一定比旁人～。  
 1. 【[加一](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ieh.md#加一)】`jia1 ieh7` <small>/t͡ɕia1 iəʔ7/<sup>兴化</sup>, /t͡ɕia1 iəʔ7/<sup>如皋</sup></small> ① 加一成。<sup>\[如皋\]</sup> ② 加百分之十<sup>\[兴化\]</sup>：～利。<sup>\[兴化\]</sup> ③ 格外、超出应有限度<sup>\[兴化\]</sup>：～奉承。<sup>\[兴化\]</sup>｜光棍打九九，不打～。<sup>\[兴化\]</sup>  
 1. 【[加一奉承](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ieh_fon_chen.md#加一奉承)】`jia1 ieh7 fon6 chen2` <sup>[泰州]</sup> 超出常规逢迎、恭维别人：你厂长去光顾他的小店，他肯定是～。  
 1. 【[加油添醋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ieu_tin_cv.md#加油添醋)】`jia1 ieu2 tin1 cv5` <sup>[兴化]</sup> 见“加油添酱”。  
-1. 【[加油添酱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ieu_tin_jian.md#加油添酱)】`jia1 ieu2 tin1 jian5` <small>/t͡ɕia1 iɤ2 tʰiɪ̃1 t͡ɕiaŋ5/<sup>兴化</sup></small> ① （贬）说话不切实际，含有虚假成份。也说“加油添醋”。<sup>\[兴化\]</sup>：他说话～的，十句听不得三句。<sup>\[兴化\]</sup> ② 为了夸张或者渲染需要，在叙述事情时增加原来没有的内容<sup>\[泰州\]</sup>：你要如实反映情况，不能～。<sup>\[泰州\]</sup>  
+1. 【[加油添酱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ieu_tin_jian.md#加油添酱)】`jia1 ieu2 tin1 jian5` <small>/t͡ɕia1 iɤ2 tʰiɪ̃1 t͡ɕiaŋ5/<sup>兴化</sup>, /t͡ɕiɑ1 iɤɯ2 tʰĩ1 t͡ɕiɑŋ5/<sup>泰兴</sup></small> ① （贬）说话不切实际，含有虚假成份。也说“加油添醋”。<sup>\[兴化\]</sup>：他说话～的，十句听不得三句。<sup>\[兴化\]</sup> ② 为了夸张或者渲染需要，在叙述事情时增加原来没有的内容<sup>\[泰州\]</sup>：你要如实反映情况，不能～。<sup>\[泰州\]</sup> ③ 为了达到个人的某种目的，在叙事或转述时，夸张渲染，增添原来没有的内容。<sup>\[泰兴\]</sup>  
 1. 【[……加几](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ji.md#……加几)】`jia1 ji` <sup>[东台]</sup> 形容程度深，通常用在形容词后作补语：他俫的关系好得～呢！（这里“几”读轻声）  
 1. 【[加基](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ji.md#加基)】`jia1 ji1` <sup>[如皋]</sup> 制作加工加料，一丝不苟。见“实剌”。  
 1. 【[加基货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ji_hu.md#加基货)】`jia1 ji1 hu5` <sup>[如皋]</sup> 加工加料质量好的货物。  
 1. 【[加力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_lieh.md#加力)】`jia1 lieh8` <sup>[如皋]</sup> 西乡镇名。地处扬泰冈地南缘交通线上的高沙土地区。秦时九江郡移民和西汉东粤国移民开发了这块土地，供旅人暂歇、饮食，故名加力。  
 1. 【[加明](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_mien.md#加明)】`jia1 mien` 更加  
 1. 【[加苗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_mio.md#加苗)】`jia1 mio2` <sup>[兴化]</sup> 旧俗：如遇水稻苗情欠佳，农户即在田头焚香敬神，以求苗全苗壮，俗谓～。  
-1. 【[加楔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_saeh.md#加楔)】`jia1 saeh7` <sup>[兴化]</sup> ① 木工在榫缝里加楔，可使接榫处紧密、不活动。 ② （喻）挤进拥挤的人群或队伍中：在队伍里～。 ③ 在艰难处境中出现新问题：你这吖一来又给我～。  
-1. 【[加𣜂/楔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_saeh.md#加𣜂/楔)】`jia1 saeh7` <sup>[如东]</sup> 在榫眼里插入木楔。比喻加码：这件事不能再～。  
+1. 【[加𣜂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_saeh.md#加𣜂)】`jia1 saeh7` <sup>[如东]</sup> 在榫眼里插入木楔。比喻加码：这件事不能再～。  
+1. 【[加𣜂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_saeh.md#加𣜂)】`jia1 saeh7` <sup>[兴化]</sup> ① 木工在榫缝里加楔，可使接榫处紧密、不活动。 ② （喻）挤进拥挤的人群或队伍中：在队伍里～。 ③ 在艰难处境中出现新问题：你这吖一来又给我～。  
+1. 【[加𣜂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_saeh.md#加𣜂)】`jia1 saeh7` <small>/t͡ɕiɑ1 ɕiæʔ7/<sup>泰兴</sup></small> 在木榫部位加一小木塞以使榫头更牢固坚实。<sup>\[泰兴\]</sup>  
 1. 【[加思](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_sz.md#加思)】`jia1 sz1` <sup>[泰州]</sup> 副词，很，非常，常跟在形容词后，表示程度极深：福利好得～。｜力气大得～。｜房子贵得～。｜个子矮得～。  
 1. 【[加托](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_tah.md#加托)】`jia1 tah7` <sup>[泰县]</sup> 加重别人的责任：这些话全是～人时。  
 1. 【[嘉奖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_jian.md#嘉奖)】`jia1 jian3` <sup>[如东]</sup> 称赞和奖励。  

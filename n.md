@@ -341,7 +341,7 @@
 1. 【[牙棱子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_len_zz.md#牙棱子)】`nga2 len6 zz` 牙龈，牙床<sup>\[如东\]</sup>  
 1. 【[牙楞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_len_zz.md#牙楞子)】`nga2 len6 zz` <sup>[如皋]</sup> 牙龈。  
 1. 【[牙签](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_qin.md#牙签)】`nga2 qin1` 剔除牙缝中残留食物的细签。<sup>\[泰州\]</sup>  
-1. 【[牙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#牙子)】`nga2 zz` <small>/a2 t͡sɿ/<sup>兴化</sup>, /ŋa2 t͡sɿ/<sup>如皋</sup>, /ŋɑ2 t͡sɿ/<sup>泰兴</sup></small> ① 牙齿。<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：拿～/拔牙<sup>\[泰兴\]</sup>｜装～/装牙<sup>\[泰兴\]</sup> ② 像牙一样的东西<sup>\[兴化\]</sup>：路～。<sup>\[兴化\]</sup> ③ 旧称买卖、租赁的中介人。<sup>\[兴化\]</sup>：房～<sup>\[兴化\]</sup>｜鱼～。<sup>\[兴化\]</sup>  
+1. 【[牙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#牙子)】`nga2 zz` <small>/a2 t͡sɿ/<sup>兴化</sup>, /ŋa2 t͡sɿ/<sup>如皋</sup>, /ŋɑ2 t͡sɿ/<sup>泰兴</sup></small> ① 牙齿。<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：拿～/拔牙<sup>\[泰兴\]</sup>｜装～/装牙<sup>\[泰兴\]</sup> ② 像牙一样的东西<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：路～。<sup>\[兴化\]</sup>｜芋头～/芋头上的小朵<sup>\[泰兴\]</sup> ③ 旧称买卖、租赁的中介人。<sup>\[兴化\]</sup>：房～<sup>\[兴化\]</sup>｜鱼～。<sup>\[兴化\]</sup>  
 1. 【[牙子打下来有半升](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz_da_ha.md#牙子打下来有半升)】`nga2 zz da3 ha lae ieu3 bun5 shen1` <small>/ŋɑ2 t͡sɿ tɑ3 xɑ lɛ iɤɯ3 pʊ̃5 səŋ1/<sup>泰兴</sup></small> 谓吃饭的人多，家庭人口多。<sup>\[泰兴\]</sup>  
 1. 【[牙子浮啊嘴里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz_fv_a.md#牙子浮啊嘴里)】`nga2 zz fv2 a zuei3 lii` <small>/ŋɑ2 t͡sɿ fʋ2 a t͡suəɪ3 ləɪ/<sup>泰兴</sup></small> 喻说话不负责任，信口开河。<sup>\[泰兴\]</sup>  
 1. 【[牙子咬起来撑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz_ngo_qi_lae_chen.md#牙子咬起来撑)】`nga2 zz ngo3 qi lae chen1` <sup>[如皋]</sup> 硬撑。  
@@ -362,7 +362,7 @@
 1. 【[哑噎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_ih.md#哑噎)】`nga3 ih7` <sup>[东台]</sup> 无话可说的样子。  
 1. 【[哑谜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_mi.md#哑谜)】`nga3 mi2` <sup>[如东]</sup> ① 隐晦的话。 ② 比喻难以猜测的问题：他在下跟你打～。  
 1. 【[哑蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_taen.md#哑蛋)】`nga3 taen6` <sup>[兴化]</sup> 壳上有璺的蛋：三斤～全卖把你，少收你一块钱。  
-1. 【[哑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#哑子)】`nga3 zz` <small>/a3 t͡sɿ/<sup>兴化</sup>, /ŋa3 t͡sɿ/<sup>如皋</sup></small> ① 哑巴。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[如东\]</sup> ② 雌蝉，不鸣，尾部有刀状生殖器。<sup>\[如皋\]</sup> ③ 雌性昆虫不会鸣叫，称哑子。<sup>\[如东\]</sup> ④ 未炸响的爆竹。<sup>\[东台\]</sup> ⑤ 哑蛋。<sup>\[兴化\]</sup>  
+1. 【[哑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#哑子)】`nga3 zz` <small>/a3 t͡sɿ/<sup>兴化</sup>, /ŋa3 t͡sɿ/<sup>如皋</sup>, /ŋɑ3 t͡sɿ/<sup>泰兴</sup></small> ① 哑巴。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[如东\]</sup><sup>\[泰兴\]</sup> ② 雌蝉，不鸣，尾部有刀状生殖器。<sup>\[如皋\]</sup> ③ 雌性昆虫不会鸣叫，称哑子。<sup>\[如东\]</sup> ④ 未炸响的爆竹。<sup>\[东台\]</sup> ⑤ 哑蛋。<sup>\[兴化\]</sup>  
 1. 【[哑子好说话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz_ho_shuh_hua.md#哑子好说话)】`nga3 zz ho5 shuh7 hua6` <sup>[如皋]</sup> 聋哑人急欲表达心愿，却说不出话来，只好巴巴乱叫，不断比划，而别人又不能领会，他更为着急。谓之～。  
 1. 【[哑子讨老婆——喜不可言](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz_to_lo_pu_xi_beh_ku_in.md#哑子讨老婆——喜不可言)】`nga3 zz to3 lo3 pu xi3 beh7 ku3 in2` <sup>[东台]</sup>   
 1. 【[哑子砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz_zhun.md#哑子砖)】`nga3 zz zhun1` <sup>[如皋]</sup> 为火侯不足而“不开声”且有烟迹（喜鹊斑）的砖头。  

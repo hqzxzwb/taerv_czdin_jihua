@@ -173,6 +173,7 @@
 1. 【[咖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_zz.md#咖子)】`ga zz` <small>/kəʔ t͡sɿ/<sup>兴化</sup>, /ka t͡sɿ/<sup>如皋</sup>, /ka t͡sɿ/<sup>泰兴</sup>, /kəʔ t͡se/<sup>泰县</sup></small> 同“下子”，跟在入声韵之后<sup>\[泰州\]</sup>：踢～。｜歇～。｜弄点鱼吃～。<sup>\[泰州\]</sup>｜同他说～。<sup>\[泰州\]</sup>  
 1. 【[……家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga.md#……家)】`ga` <sup>[东台]</sup> ① 这里“家”轻读。接在姓氏后，加上地方特点命名地名：王～舍；孔～堡。 ② 接在某姓后面，相当于姓……的：张～；李～；王～佬。 ③ 亲昵地呼唤小孩：来啊～；到我家多住几天，可好？～。  
 1. 【[加大帽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_da_mo_zz.md#加大帽子)】`ga1 da6 mo6 zz` <sup>[如东]</sup> ① 给人随便地添加某种罪名：请你不要匄我～。 ② 说好话：你不要匄我～。  
+1. 【[加褂子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_gua_zz.md#加褂子)】`ga1 gua zz` <small>/kɑ1 kuɑ t͡sɿ/<sup>泰兴</sup></small> 外套，罩衣。旧时也称“大褂子”。<sup>\[泰兴\]</sup>  
 1. 【[加褂<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_gua_r.md#加褂<sub>儿</sub>)】`ga1 gua5 r` <sup>[如皋]</sup> 穿在外面的衣裳。  
 1. 【[加褂子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_gua_zz.md#加褂子)】`ga1 gua5 zz` <sup>[兴化]</sup> 罩衫，穿在棉袄外面的单衣。  
 1. 【[加衣裳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_i_shan.md#加衣裳)】`ga1 i1 shan` <sup>[如皋]</sup> 添加衣裳。  

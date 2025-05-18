@@ -641,7 +641,7 @@
 1. 【[偷姑老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_gv_lo.md#偷姑老)】`teu1 gv1 lo3` <sup>[泰县]</sup> 私通淫夫。  
 1. 【[偷汉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_hun.md#偷汉)】`teu1 hun5` <sup>[兴化]</sup> 见“偷人”。  
 1. 【[偷鸡摸狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_ji_mah_geu.md#偷鸡摸狗)】`teu1 ji1 mah8 geu3` <sup>[东台]</sup> 指小偷小摸。  
-1. 【[偷鸡眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_ji_ngaen.md#偷鸡眼)】`teu1 ji1 ngaen3` <small>/tʰɤɯ1 t͡sɿ1 ɛ̃3/<sup>泰县</sup></small> ① 也叫偷针眼，即“麦粒肿”。<sup>\[东台\]</sup> ② 麦粒肿。<sup>\[泰县\]</sup>  
+1. 【[偷鸡眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_ji_ngaen.md#偷鸡眼)】`teu1 ji1 ngaen3` <small>/tʰɤɯ1 t͡sɿ1 ɛ̃3/<sup>泰县</sup></small> 麦粒肿。<sup>\[泰县\]</sup>\[东台：也叫偷针眼\]  
 1. 【[偷嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_jy.md#偷嘴)】`teu1 jy3` <sup>[东台]</sup> ［喻］指少男少女偷偷发生性行为，也就是“偷尝禁果”。  
 1. 【[偷嘴猫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_jy_mo_r.md#偷嘴猫<sub>儿</sub>)】`teu1 jy3 mo2 r` <sup>[如东]</sup> 猫乘主人不在的时候，偷偷地吃东西，称偷嘴猫儿。比喻偷偷地跟非婚男人发生性关系。  
 1. 【[偷空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_kon.md#偷空)】`teu1 kon5` <small>/tʰei1 kʰɔŋ5/<sup>如皋</sup></small> 抽出一点时间来。<sup>\[如东\]</sup><sup>\[如皋\]</sup>  
@@ -679,7 +679,9 @@
 1. 【[头钉吖下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_dien_nga_ha.md#头钉吖下)】`teu2 dien5 nga ha` <sup>[如皋]</sup> 硬挺着的样子。  
 1. 【[头店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_din.md#头店)】`teu2 din5` <small>/tʰei2 tĩ5/<sup>如皋</sup></small> ① 理发店。<sup>\[如皋\]</sup> ② 理发店，旧称剃头店。<sup>\[如皋\]</sup>  
 1. 【[头倒绿咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_do_loh_ga.md#头倒绿咖)】`teu2 do5 loh8 ga` <sup>[泰州]</sup> 詈词，骂人快要死亡，意谓人的行为肆无忌惮、胆大妄为：你怕的～唻，这些妨法的事你就能做啊？  
-1. 【[头二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_er.md#头二)】`teu2 er` <small>/tʰəɪ2 ɚ/<sup>泰兴</sup>, /tʰɤɯ2 ɚ/<sup>泰县</sup></small> 一至二。后可接数量词或其他量词，或十、百、千等。常表示约数。<sup>\[泰兴\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup>：～百块钱。<sup>\[泰兴\]</sup>｜～十个人。<sup>\[泰兴\]</sup>｜有～十<sup>\[如东\]</sup>｜圈里有～十只羊。<sup>\[东台\]</sup>｜他才～十岁/他才一二十岁<sup>\[泰县\]</sup>  
+1. 【[头短角长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_dun_gah_chan.md#头短角长)】`teu2 dun3 gah7 chan2` <small>/tʰəɪ2 tʊ̃3 kɑʔ7 t͡sʰɑŋ2/<sup>泰兴</sup></small> 指调皮捣蛋且蛮不讲理，无端顶撞。<sup>\[泰兴\]</sup>  
+1. 【[头二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_er.md#头二)】`teu2 er` <small>/tʰəɪ2 ɚ/<sup>泰兴</sup>, /tʰɤɯ2 ɚ/<sup>泰县</sup></small> 一至二。后可接数量词或其他量词，或十、百、千等。常表示约数。<sup>\[泰兴\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup>：～百块钱。<sup>\[泰兴\]</sup>｜～十个人。<sup>\[泰兴\]</sup>｜～十斤<sup>\[泰兴\]</sup>｜有～十<sup>\[如东\]</sup>｜圈里有～十只羊。<sup>\[东台\]</sup>｜他才～十岁/他才一二十岁<sup>\[泰县\]</sup>  
+1. 【[头发桩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_faeh_zhuan_zz.md#头发桩子)】`teu2 faeh zhuan1 zz` <small>/tʰəɪ2 fæʔ t͡suɑŋ1 t͡sɿ/<sup>泰兴</sup></small> 发根。<sup>\[泰兴\]</sup>  
 1. 【[头发边子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_faeh_bin_zz.md#头发边子)】`teu2 faeh7 bin1 zz` <sup>[如皋]</sup> 发际。  
 1. 【[头发脚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_faeh_jiah_zz.md#头发脚子)】`teu2 faeh7 jiah7 zz` <sup>[如皋]</sup> 发际。  
 1. 【[头发窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_faeh_ku.md#头发窠)】`teu2 faeh7 ku1` <sup>[兴化]</sup> 头发丛中：今年夏天，他～里生吖个小疖子。  
@@ -691,6 +693,7 @@
 1. 【[头发丝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_faeh_sz_r.md#头发丝<sub>儿</sub>)】`teu2 faeh7 sz1 r` <sup>[如东]</sup> 人的一根一根的头发。  
 1. 【[头发网<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_faeh_van_r.md#头发网<sub>儿</sub>)】`teu2 faeh7 van3 r` <sup>[如皋]</sup> 罩发网。又称“大网儿”。  
 1. 【[头伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_foh.md#头伏)】`teu2 foh8` <sup>[如皋]</sup> 见“初伏”。  
+1. 【[头伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_foh.md#头伏)】`teu2 foh8` <small>/tʰəɪ2 fɔʔ8/<sup>泰兴</sup></small> 伏天分大伏、中伏、小伏“三伏”，大伏即头伏。<sup>\[泰兴\]</sup>  
 1. 【[头风头水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_fon_teu_shuei.md#头风头水)】`teu2 fon1 teu2 shuei3` <sup>[兴化]</sup> 第一回：新年～的第一笔生意，不能失手。  
 1. 【[头风头水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_fon_teu_shuei.md#头风头水)】`teu2 fon1 teu2 shuei3` <small>/tʰəɪ2 fɔŋ1 tʰəɪ2 suəɪ3/<sup>泰兴</sup></small> 第一次，首次。<sup>\[泰兴\]</sup>：你～的来，要多耍子几天。<sup>\[泰兴\]</sup>  
 1. 【[头麸面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_fv_min.md#头麸面)】`teu2 fv min6` <sup>[兴化]</sup> 磨面粉时筛下的第一交（go5）成品，相当于精面。  
@@ -710,18 +713,20 @@
 1. 【[头一上来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_ieh_shan_lae.md#头一上来)】`teu2 ieh7 shan6 lae` <small>/tʰɤ2 iəʔ7 saŋ6 lɛ/<sup>兴化</sup></small> ① 刚开始。见“头上来”。<sup>\[兴化\]</sup> ② 刚开始。<sup>\[兴化\]</sup>  
 1. 【[头一代](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_ieh_tae.md#头一代)】`teu2 ieh7 tae6` <sup>[泰州]</sup> 第一代祖宗，多用作讥讽：你家厂长望见你就怕，你真了不起！你是他家的～？  
 1. 【[头应里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_ien_lii.md#头应里)】`teu2 ien5 lii` <sup>[东台]</sup> 人死后第一个祭祀活动日，通常在“伴夜”那一天：老人家死后，～来吊唁的亲友蛮多的。  
+1. 【[头鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_ji.md#头鸡)】`teu2 ji1` <small>/tʰəɪ2 t͡ɕʝ1/<sup>泰兴</sup></small> 黎明时分最先啼叫的公鸡。<sup>\[泰兴\]</sup>：鸡子啼～时他就起身了。<sup>\[泰兴\]</sup>  
 1. 【[头鸡叫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_ji_jio.md#头鸡叫)】`teu2 ji1 jio5` <sup>[兴化]</sup> 鸡叫头遍，天快破晓的时候。  
 1. 【[头脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_jiah.md#头脚)】`teu2 jiah7` <sup>[东台]</sup> 从上到下，全部：把库存的大麦翻一下子～。  
 1. 【[头开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_kae.md#头开)】`teu2 kae1` <sup>[如皋]</sup> 茶叶第一次用开水冲泡出的茶。  
 1. 【[头柜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_kuei.md#头柜)】`teu2 kuei6` <sup>[兴化]</sup> 商店里的高级职员：（他的两个儿子）都是学布店的，都出了师了……谁都认为老大将来是会升为～，并且会当管事的。（汪曾祺《鉴赏家》）  
 1. 【[头睏扁，腰睏闪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_kuen_bin_io.md#头睏扁，腰睏闪)】`teu2 kuen5 bin3 io1 kuen5 shin3` <sup>[泰兴]</sup> 睡眠质量差，身体疼痛  
-1. 【[头两](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_laen.md#头两)】`teu2 laen3` <small>/tʰəɪ2 lɛ̃3/<sup>泰兴</sup></small> 一至二，常表示约数<sup>\[泰兴\]</sup>：～个/一两个<sup>\[泰兴\]</sup>  
+1. 【[头两](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_laen.md#头两)】`teu2 laen3` <small>/tʰəɪ2 lɛ̃3/<sup>泰兴</sup></small> 一至二，常表示约数<sup>\[泰兴\]</sup>：～个/一两个<sup>\[泰兴\]</sup>｜～块钱/一两块钱<sup>\[泰兴\]</sup>  
 1. 【[头两个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_laen_gu.md#头两个)】`teu2 laen3 gu` <sup>[如皋]</sup> 一两个。  
 1. 【[头里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_lii.md#头里)】`teu2 lii` <small>/tʰɤ2 ləi/<sup>兴化</sup>, /tʰəɪ2 ləɪ/<sup>泰兴</sup></small> ① 原先，预先<sup>\[东台\]</sup>：他～有啊口，现在不饿。<sup>\[东台\]</sup> ② 用在某些名词之后，表示方位<sup>\[东台\]</sup>：西北风～太冷。<sup>\[东台\]</sup> ③ 先前<sup>\[兴化\]</sup>：他～到我家来过。<sup>\[兴化\]</sup> ④ 前头、前面<sup>\[兴化\]</sup>：“拉着这马，只管前走，～等我，我随后就来”（《施公案》一四六）<sup>\[兴化\]</sup> ⑤ 附在某些语素后面，表示方位或时间。<sup>\[泰兴\]</sup>：新近～<sup>\[泰兴\]</sup>｜八月～<sup>\[泰兴\]</sup>  
 1. 【[头里发大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_lii_faeh_da.md#头里发大)】`teu2 lii faeh7 da6` <small>/tʰəɪ2 ləɪ fæʔ7 tɑ1/<sup>泰兴</sup></small> 头发胀。形容厌恶或十分为难。<sup>\[泰兴\]</sup>  
 1. 【[头里梦冲的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_lii_mon_chon_dii.md#头里梦冲的)】`teu2 lii mon6 chon5 dii` <sup>[如皋]</sup> 责备语。指太莽撞容易犯错误：你才到的生地方不要～乱说乱做。  
 1. 【[头路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_lv.md#头路)】`teu2 lv6` <small>/tʰɤ2 lu6/<sup>兴化</sup></small> ① 头绪<sup>\[兴化\]</sup>：“……怕你不知～，特地再教奶公谢都管……和你一同去。”（《水浒传》十六）<sup>\[兴化\]</sup> ② 出路<sup>\[兴化\]</sup>：“正是，趁早散了，各寻～，多少是好……”（《西游记》四十）<sup>\[兴化\]</sup> ③ 可达到个人目标的途径，门路<sup>\[泰州\]</sup>：你又没得个～，这生意怎吖做得下去。<sup>\[泰州\]</sup>  
 1. 【[头门头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_men_teu.md#头门头)】`teu2 men2 teu2` <sup>[泰县]</sup> 以前、开始：这是～儿的事情。  
+1. 【[头面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_min.md#头面)】`teu2 min` <small>/tʰəɪ2 mĩ/<sup>泰兴</sup></small> 首饰；身份。<sup>\[泰兴\]</sup>  
 1. 【[头锚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_mo.md#头锚)】`teu2 mo2` <sup>[如东]</sup> 大锚。  
 1. 【[头目](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_moh.md#头目)】`teu2 moh8` <sup>[如东]</sup> 头领。领导。  
 1. 【[头难](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_naen.md#头难)】`teu2 naen2` <small>/tʰɤ2 lɛ̃2/<sup>兴化</sup>, /tʰei2 nẽ2/<sup>如皋</sup></small> ① 开始时困难大。<sup>\[如皋\]</sup> ② 凡做一件事，起头的时候都感到困难<sup>\[兴化\]</sup>：俗语说～～。<sup>\[兴化\]</sup> ③ 凡是开头困难<sup>\[泰州\]</sup>：不要说～，你真正开啊头就不难唻。<sup>\[泰州\]</sup>  
@@ -751,9 +756,9 @@
 1. 【[头上苍蝇叮不住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_shan_can_ien_dien_beh_chv.md#头上苍蝇叮不住)】`teu2 shan can1 ien dien1 beh7 chv6` <sup>[东台]</sup> 形容人的头发用油梳理得特光滑。  
 1. 【[头上长瘤——额外负担](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_shan_zhan_lieu_ngeh_vae_fv_daen.md#头上长瘤——额外负担)】`teu2 shan zhan3 lieu2 ngeh8 vae6 fv6 daen` <sup>[东台]</sup>   
 1. 【[头上来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_shan_lae.md#头上来)】`teu2 shan6 lae` <small>/tʰɤ2 saŋ6 lɛ/<sup>兴化</sup>, /tʰɤɯ2 sɑŋ1 ne/<sup>泰县</sup></small> ① 刚开始<sup>\[兴化\]</sup>：他～倒不丑，日子一长就不中吖。也说“头一上来”。<sup>\[兴化\]</sup> ② 以前<sup>\[泰县\]</sup>：我～就要走，你硬是不肯。<sup>\[泰县\]</sup>  
-1. 【[头上来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_shan_lae.md#头上来)】`teu2 shan6 lae2` ① 指刚开始，也称“一了啊”<sup>\[东台\]</sup>：市政府～在老街上。<sup>\[东台\]</sup> ② 先前某个时间<sup>\[泰州\]</sup>：这件事～说咖好的，哪晓得他之后变吖卦。<sup>\[泰州\]</sup>｜～在这块排队的只有七个人，现在有二十几个唻。<sup>\[泰州\]</sup>  
+1. 【[头上来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_shan_lae.md#头上来)】`teu2 shan6 lae2` <small>/tʰəɪ2 sɑŋ1 lɛ2/<sup>泰兴</sup></small> ① 指刚开始，也称“一了啊”<sup>\[东台\]</sup>：市政府～在老街上。<sup>\[东台\]</sup> ② 先前某个时间<sup>\[泰州\]</sup>：这件事～说咖好的，哪晓得他之后变吖卦。<sup>\[泰州\]</sup>｜～在这块排队的只有七个人，现在有二十几个唻。<sup>\[泰州\]</sup> ③ 开始，刚开始的时候。<sup>\[泰兴\]</sup>  
 1. 【[头生子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_shen_zz.md#头生子)】`teu2 shen1 zz3` <sup>[泰州]</sup> 妇女第一次生育的小孩：他是～，身体底子好，掌得住来去。  
-1. 【[头绳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_shen.md#头绳)】`teu2 shen2` <small>/tʰɤ2 sən2/<sup>兴化</sup></small> ① 毛线<sup>\[东台\]</sup>：我有一件～衣。<sup>\[东台\]</sup> ② l旧时用于扎头发的有色粗棉线。<sup>\[兴化\]</sup> ③ 毛线。旧谓“洋～儿”。<sup>\[兴化\]</sup> ④ 旧时用棉或毛织成的染色细绳，用于头上束发，故名。<sup>\[泰州\]</sup> ⑤ 指毛线，羊毛纺的粗线或者羊毛与人造毛混纺的粗线，用来编织毛线衣。<sup>\[泰州\]</sup>  
+1. 【[头绳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_shen.md#头绳)】`teu2 shen2` <small>/tʰɤ2 sən2/<sup>兴化</sup>, /tʰəɪ2 səŋ2/<sup>泰兴</sup></small> ① 毛线<sup>\[东台\]</sup><sup>\[泰兴\]</sup>：我有一件～衣。<sup>\[东台\]</sup>｜～衣<sup>\[泰兴\]</sup>｜～裤<sup>\[泰兴\]</sup>｜～背心<sup>\[泰兴\]</sup> ② 旧时用于扎头发的有色粗棉线。<sup>\[兴化\]</sup> ③ 毛线。旧谓“洋～儿”。<sup>\[兴化\]</sup> ④ 旧时用棉或毛织成的染色细绳，用于头上束发，故名。<sup>\[泰州\]</sup> ⑤ 指毛线，羊毛纺的粗线或者羊毛与人造毛混纺的粗线，用来编织毛线衣。<sup>\[泰州\]</sup>  
 1. 【[头绳衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_shen_i.md#头绳衣)】`teu2 shen2 i1` <small>/tʰɤ2 sən2 i1/<sup>兴化</sup>, /tʰɤɯ2 səŋ2 ɿ1/<sup>泰县</sup></small> ① 毛线衣的旧称。分头绳褂子、头绳裤子等。<sup>\[兴化\]</sup> ② 绒线衣<sup>\[泰县\]</sup>：你这件～打啊太漂亮啊啦。<sup>\[泰县\]</sup> ③ 用头绳（毛线）编织的上衣。<sup>\[泰州\]</sup>  
 1. 【[头绳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_shen_r.md#头绳<sub>儿</sub>)】`teu2 shen2 r` 毛线  
 1. 【[头绳<sub>儿</sub>褂子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_shen_r_gua_zz.md#头绳<sub>儿</sub>褂子)】`teu2 shen2 r gua5 zz` 毛线衣，毛衣  
@@ -773,15 +778,18 @@
 1. 【[头动尾巴摇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_ton_vei_ba_io.md#头动尾巴摇)】`teu2 ton6 vei3 ba1 io2` <sup>[东台]</sup> 形容洋洋得意的样子。  
 1. 【[头碗菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_un_cae.md#头碗菜)】`teu2 un3 cae5` <sup>[泰州]</sup> 第一道菜，比喻最重要的人：这个厂在技术上全靠老孙个人拿魂，他是厂里的～，领导有甚的好事首先想到的就是他。  
 1. 【[头尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_vei.md#头尾)】`teu2 vei3` <sup>[兴化]</sup> 来龙去脉：你先把事情的～弄清爽再发表意见。  
+1. 【[头香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_xian.md#头香)】`teu2 xian1` <small>/tʰəɪ2 ɕiɑŋ1/<sup>泰兴</sup></small> 凌晨在神佛像前敬的第一柱香，称为“头香”。<sup>\[泰兴\]</sup>  
 1. 【[头想吖尖吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_xian_nga_jin_nga.md#头想吖尖吖)】`teu2 xian3 nga jin1 nga` <sup>[东台]</sup> 形容一心想往某方面钻。  
-1. 【[头想吖尖吖戴箸笼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_xian_nga_jin_nga_dae_chv_lon.md#头想吖尖吖戴箸笼)】`teu2 xian3 nga jin1 nga dae5 chv6 lon2` <sup>[东台]</sup> 形容为某个目标想尽心思。箸笼，即筷筒。  
+1. 【[头想吖尖吖戴箸笼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_xian_nga_jin_nga_dae_chv_lon.md#头想吖尖吖戴箸笼)】`teu2 xian3 nga jin1 nga dae5 chv6 lon2` <small>/tʰəɪ2 ɕiɑŋ3 ŋa t͡ɕĩ1 ŋa tɛ5 t͡sʰu1 lɔŋ2/<sup>泰兴</sup></small> ① 形容为某个目标想尽心思。<sup>\[东台\]</sup> ② 谓削尖脑袋想某种物品或干某件事。<sup>\[泰兴\]</sup>  
 1. 【[头屑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_xih_zz.md#头屑子)】`teu2 xih7 zz` <sup>[如东]</sup> 头皮屑。  
 1. 【[头屑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_xiuh_zz.md#头屑子)】`teu2 xiuh7 zz` <sup>[泰县]</sup> 头皮屑。  
-1. 【[头绪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_xy.md#头绪)】`teu2 xy` <small>/tʰɤɯ2 ɕy/<sup>泰县</sup></small> ① 条理<sup>\[东台\]</sup>：理出个～。<sup>\[东台\]</sup> ② ［引］门路，本领，势力<sup>\[东台\]</sup>：这个人有～呢<sup>\[东台\]</sup>｜他像个～是的。<sup>\[东台\]</sup> ③ ［引］关系暧昧的人。<sup>\[东台\]</sup> ④ 吸引人。<sup>\[泰县\]</sup> ⑤ 门路、办法等事物的内容不便直说的代词：今天小杨家请的客～不小啊，吃的菜蛮大的。<sup>\[泰县\]</sup>  
+1. 【[头绪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_xy.md#头绪)】`teu2 xy` <small>/tʰəɪ2 ɕy/<sup>泰兴</sup>, /tʰɤɯ2 ɕy/<sup>泰县</sup></small> ① 条理<sup>\[东台\]</sup>：理出个～。<sup>\[东台\]</sup> ② ［引］门路，本领，势力<sup>\[东台\]</sup>：这个人有～呢<sup>\[东台\]</sup>｜他像个～是的。<sup>\[东台\]</sup> ③ ［引］关系暧昧的人。<sup>\[东台\]</sup> ④ 吸引人。<sup>\[泰县\]</sup> ⑤ 门路、办法等事物的内容不便直说的代词<sup>\[泰县\]</sup>：今天小杨家请的客～不小啊，吃的菜蛮大的。<sup>\[泰县\]</sup> ⑥ 复杂纷乱事情中的条理。<sup>\[泰兴\]</sup>：没～<sup>\[泰兴\]</sup>  
 1. 【[头晕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_yen.md#头晕)】`teu2 yen6` <sup>[如东]</sup> 由于大脑供血不足等原因而产生的头昏、眼花、身体乏力等症状。  
 1. 【[头照蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_zho_taen.md#头照蛋)】`teu2 zho5 taen6` <sup>[如皋]</sup> 炕坊孵蛋，第一次照光检查剔出的蛋。  
+1. 【[头肿三年，脚肿眼前](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_zhon_saen_nin.md#头肿三年，脚肿眼前)】`teu2 zhon3 saen1 nin2 jiah7 zhon3 gen1 qin` <small>/tʰəɪ2 t͡sɔŋ3 ɕiɛ̃1 nĩ2 t͡ɕiɑʔ7 t͡sɔŋ3 kəŋ1 t͡ɕʰĩ/<sup>泰兴</sup></small> 谓生大病后脚肿就很危险了。<sup>\[泰兴\]</sup>  
 1. 【[头炷香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_zhv_xian.md#头炷香)】`teu2 zhv5 xian1` <sup>[如东]</sup> 春节凌晨零时第一个在庙中给菩萨敬香，称头炷香。表示对神的虔诚，并祈求神的保佑。  
 1. 【[头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_zz.md#头子)】`teu2 zz` <small>/tʰei2 t͡sɿ/<sup>如皋</sup>, /tʰəɪ2 t͡sɿ/<sup>泰兴</sup></small> ① 种子、根子<sup>\[如皋\]</sup>：爷娘家侄子命根～。<sup>\[如皋\]</sup> ② 起作用的核心<sup>\[如皋\]</sup>：酵～。<sup>\[如皋\]</sup> ③ 加工条形物体留下的边头部分<sup>\[泰州\]</sup>：米～<sup>\[泰州\]</sup>｜面～<sup>\[泰州\]</sup>｜铅笔～。<sup>\[泰州\]</sup> ④ 头目，为首的人<sup>\[泰兴\]</sup>：人物～<sup>\[泰兴\]</sup> ⑤ 某些物品的残余部分<sup>\[泰兴\]</sup>：猪糠～<sup>\[泰兴\]</sup>  
+1. 【[头子牙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_zz_nga_zz.md#头子牙子)】`teu2 zz nga2 zz` <small>/tʰəɪ2 t͡sɿ ŋɑ2 t͡sɿ/<sup>泰兴</sup></small> 事情的头绪、脉络<sup>\[泰兴\]</sup>：你不晓得～，就不要扯<sup>\[泰兴\]</sup>  
 1. 【[投](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu.md#投)】`teu2` <small>/tʰɤ2/<sup>兴化</sup></small> ① 相符、中的<sup>\[兴化\]</sup>：把他俫两个人分开问话，看说的话哿～。<sup>\[兴化\]</sup>｜“药袋上写的明白，如今就吃。吃了且看～不～，再好加减。”（《醒世烟缘传》二）<sup>\[兴化\]</sup> ② 两相契合<sup>\[泰州\]</sup>：这两个脾家不～，蹾住块儿弄不好。<sup>\[泰州\]</sup> ③ 与自己掌握的情况吻合<sup>\[泰州\]</sup>：他俫两个人说的不～，不晓得哪个说的是真的。<sup>\[泰州\]</sup> ④ 凸物与凹物吻合<sup>\[泰州\]</sup>：钥匙同锁不～。<sup>\[泰州\]</sup>｜这两个齿轮不～，用不起来。<sup>\[泰州\]</sup>  
 1. 【[投倒扣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_do_keu.md#投倒扣)】`teu2 do5 keu5` <sup>[泰县]</sup> 吻合：他俫两个人说的话～。  
 1. 【[投碱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_gaen.md#投碱)】`teu2 gaen3` <sup>[兴化]</sup> 在和好的面团之中，加入老酵（酵母），以加快发酵。  
