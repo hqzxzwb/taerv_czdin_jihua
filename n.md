@@ -90,6 +90,7 @@
 1. 【[奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae.md#奶)】`nae3` <small>/nɛ3/<sup>泰兴</sup></small> 乳<sup>\[泰兴\]</sup>\[如东：也说nae1。\]  
 1. 【[奶膊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_bah_zz.md#奶膊子)】`nae3 bah7 zz` <sup>[兴化]</sup> 从乳房到腋窝部分：这件衫子太露，～撂出来一大半。  
 1. 【[奶膀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_ban.md#奶膀)】`nae3 ban` 乳房，因部位靠膀，故名<sup>\[泰州\]</sup>：他一撉儿打啊这小伙～上。<sup>\[泰州\]</sup>  
+1. 【[奶膀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_ban.md#奶膀)】`nae3 ban` <small>/nɛ3 pɑŋ/<sup>泰兴</sup></small> 乳房的别称。乳房部位。<sup>\[泰兴\]</sup>  
 1. 【[奶帮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_ban_zz.md#奶帮子)】`nae3 ban1 zz` <sup>[如皋]</sup> 乳房基部。  
 1. 【[奶膘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_bio.md#奶膘)】`nae3 bio1` <small>/lɛ3 piɔ1/<sup>兴化</sup></small> ① 谓吃奶的孩子长得胖<sup>\[兴化\]</sup>：～好。<sup>\[兴化\]</sup> ② 婴儿喝奶期间产生的体重<sup>\[泰州\]</sup>：这个细小伙的～多好啊，才个把星期不见，现在抱啊手上就这吖重。<sup>\[泰州\]</sup>  
 1. 【[奶齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_chr.md#奶齿)】`nae3 chr3` <sup>[如皋]</sup> 乳齿。  

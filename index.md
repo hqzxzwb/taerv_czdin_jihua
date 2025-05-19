@@ -143,7 +143,7 @@
 [更多...](./e.md)
 ## F
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh.md#□)】`faeh7` <sup>[泰县]</sup> 腐朽变质：饭～咖。  
-1. 【[发](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh.md#发)】`faeh7` <small>/fæʔ7/<sup>兴化</sup></small> ① 给。<sup>\[如东\]</sup>：～东西。<sup>\[如东\]</sup> ② 次。<sup>\[如东\]</sup>：跑了几～。<sup>\[如东\]</sup> ③ 颗，粒。<sup>\[如东\]</sup>：已经打了10～子弹。<sup>\[如东\]</sup> ④ 次、趟<sup>\[东台\]</sup>：到上海去一～；再弄一～；来啊几～人。<sup>\[东台\]</sup> ⑤ 批、番<sup>\[兴化\]</sup>：今吖一早，来啊几～人找你。<sup>\[兴化\]</sup>｜早上喊他几～，到这晚还不曾起床。<sup>\[兴化\]</sup> ⑥ 交付、发送<sup>\[兴化\]</sup>：～货<sup>\[兴化\]</sup>｜“吩咐长班把行李一来……”（《梼杌闲评》七）<sup>\[兴化\]</sup> ⑦ 起程、上路<sup>\[兴化\]</sup>：～车<sup>\[兴化\]</sup>｜“路远，不到响午就～轿……”（汪曾祺《小学校的钟声》）<sup>\[兴化\]</sup> ⑧ 戏谓吝啬的人偶尔大方起来<sup>\[兴化\]</sup>：老王今吖～起来，买几笼包子请客。<sup>\[兴化\]</sup> ⑨ 量词，次，回<sup>\[泰州\]</sup>：上南京去啊三～。<sup>\[泰州\]</sup>  
+1. 【[发](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh.md#发)】`faeh7` <small>/fæʔ7/<sup>兴化</sup>, /fæʔ7/<sup>泰兴</sup></small> ① 给。<sup>\[如东\]</sup>：～东西。<sup>\[如东\]</sup> ② 颗，粒。<sup>\[如东\]</sup>：已经打了10～子弹。<sup>\[如东\]</sup> ③ 次、趟<sup>\[东台\]</sup><sup>\[如东\]</sup><sup>\[泰州\]</sup>：到上海去一～；再弄一～；来啊几～人。<sup>\[东台\]</sup>｜跑了几～。<sup>\[如东\]</sup>｜上南京去啊三～。<sup>\[泰州\]</sup> ④ 批、番<sup>\[兴化\]</sup>：今吖一早，来啊几～人找你。<sup>\[兴化\]</sup>｜早上喊他几～，到这晚还不曾起床。<sup>\[兴化\]</sup> ⑤ 交付、发送<sup>\[兴化\]</sup>：～货<sup>\[兴化\]</sup>｜“吩咐长班把行李一来……”（《梼杌闲评》七）<sup>\[兴化\]</sup> ⑥ 起程、上路<sup>\[兴化\]</sup>：～车<sup>\[兴化\]</sup>｜“路远，不到响午就～轿……”（汪曾祺《小学校的钟声》）<sup>\[兴化\]</sup> ⑦ 戏谓吝啬的人偶尔大方起来<sup>\[兴化\]</sup>：老王今吖～起来，买几笼包子请客。<sup>\[兴化\]</sup> ⑧ 发酵；膨胀。<sup>\[泰兴\]</sup>：把蹄筋发下子<sup>\[泰兴\]</sup>｜今天天凉，酵面发得不好<sup>\[泰兴\]</sup>  
 1. 【[发板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_baen.md#发板)】`faeh7 baen3` <sup>[如皋]</sup> ① 板结：浇水多啊地～。 ② 不灵活：人老啊，身骨～，行动不顺便。  
 1. 【[发闭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_bi.md#发闭)】`faeh7 bi5` <sup>[如皋]</sup> ① 气色不好：脸色～。 ② （毛孔）收缩：才淌吖汗的，冷风一吹，毛孔～就要伤风。  
 1. 【[发波](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_bu.md#发波)】`faeh7 bu1` <sup>[泰州]</sup> ① 故意显现波俏。做妩媚妆撒娇：你这个丫头噢，这吖大的人唻，发甚的波唦。｜她还在处长跟前～，人家处长相都不曾相她一眼。 ② 做殷勤状示好：人家又不曾请他，他偏要～出人情。｜领导又不曾教你去，你发甚的波唦，自己弄出麻烦来啊。  
@@ -160,13 +160,14 @@
 1. 【[发抖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_deu.md#发抖)】`faeh7 deu3` <sup>[如东]</sup> ① 身体受凉而颤抖：王明衣服穿得少，冻得～。 ② 精神受到强烈刺激而颤抖：她吓得～。  
 1. 【[发嗲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_dia.md#发嗲)】`faeh7 dia3` <small>/feʔ7 tia3/<sup>如皋</sup></small> ① 故意装着疼爱的样子。<sup>\[如东\]</sup> ② 撒娇。<sup>\[如皋\]</sup><sup>\[泰州\]</sup>：这个马马儿只要领导来啊，就在领导跟前～。<sup>\[泰州\]</sup>  
 1. 【[发发饿狠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_faeh_ngu_hen.md#发发饿狠)】`faeh7 faeh7 ngu6 hen3` <sup>[如皋]</sup> 见“杀杀水气”。  
-1. 【[发福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_foh.md#发福)】`faeh7 foh7` 称人发胖的客套话<sup>\[如东\]</sup><sup>\[泰州\]</sup>：几年不见，你老人家～咖唻。<sup>\[泰州\]</sup>  
+1. 【[发福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_foh.md#发福)】`faeh7 foh7` <small>/fæʔ7 fɔʔ7/<sup>泰兴</sup></small> 称人发胖的客套话<sup>\[如东\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：几年不见，你老人家～咖唻。<sup>\[泰州\]</sup>  
 1. 【[发浮<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_fv_r.md#发浮<sub>儿</sub>)】`faeh7 fv2 r` <sup>[兴化]</sup> 扬言：他在外头～，一定叫张老三吃不了兜啊走。  
 1. 【[发胕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_fv.md#发胕)】`faeh7 fv2` <sup>[如皋]</sup> ① 因水肿显得胖了，但是气色不好。 ② 麻木感：他吃大椒嘴捱麻啊发咖胕。  
 1. 【[发咖拘（跔）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_ga_jy.md#发咖拘（跔）)】`faeh7 ga jy1` <sup>[泰州]</sup> 遭受意外精神打击后一时不知所措的样子：听说纪委要找他谈话，他暂时人就～。｜你不要望他现在这吖神气，他家女将一来他就～唻。  
 1. 【[发酵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_go.md#发酵)】`faeh7 go5` <sup>[如东]</sup> 酵母菌在淀粉中发育而使面团变得松软。  
 1. 【[发谷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_goh.md#发谷)】`faeh7 goh7` <sup>[东台]</sup> 五谷丰登的年景。  
 1. 【[发鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_guei.md#发鬼)】`faeh7 guei3` <sup>[如东]</sup> 说假话。  
+1. 【[发夯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_han.md#发夯)】`faeh7 han1` <small>/fæʔ7 xɑŋ1/<sup>泰兴</sup></small> 不动脑筋，蛮干；固执，一意孤行；发呆。<sup>\[泰兴\]</sup>  
 [更多...](./f.md)
 ## G
 1. 【[咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga.md#咖)】`ga` <small>/kəʔ/<sup>兴化</sup>, /ka/<sup>如皋</sup>, /ka/<sup>泰兴</sup>, /kəʔ/<sup>泰县</sup></small> ① 助词，“啊”在前字收塞尾时的变体。<sup>\[兴化\]</sup>：吃～、跌～、活～。｜吃～你家的，省吖他家的<sup>\[兴化\]</sup>｜喝～二两酒<sup>\[兴化\]</sup>｜吓～一跳<sup>\[兴化\]</sup> ② 表疑问语气\[兴化：ga6\]：这块布几尺～？；电脑哿难学～？<sup>\[兴化\]</sup> ③ 表感叹语气\[兴化：ga6\]：这种闷酒不能喝～。<sup>\[兴化\]</sup>  

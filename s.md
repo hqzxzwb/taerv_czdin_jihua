@@ -3166,17 +3166,20 @@
 1. 【[丝瓜筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_gua_jien.md#丝瓜筋)】`sz1 gua1 jien1` <sup>[如东]</sup> 丝瓜络。  
 1. 【[丝瓜络](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_gua_lah.md#丝瓜络)】`sz1 gua1 lah8` <small>/sɿ1 kua1 laʔ8/<sup>兴化</sup></small> ① 葫芦科植物丝瓜老熟果实的纤维，也叫天骷髅。<sup>\[如东\]</sup> ② 见“丝瓜瓤子”。<sup>\[兴化\]</sup> ③ 丝瓜果实老透以后，去皮去种留下完整筋络，常用于洗涤餐具或者沐浴时擦身。<sup>\[泰州\]</sup>  
 1. 【[丝瓜瓤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_gua_ran_zz.md#丝瓜瓤子)】`sz1 gua1 ran2 zz` <sup>[兴化]</sup> 丝瓜成熟并晒干后呈网状，可入药。日常用于洗涤餐具，沐浴时用来擦身。也称“丝瓜络”。  
-1. 【[丝瓜子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_gua_zz.md#丝瓜子)】`sz1 gua1 zz` <small>/sɿ1 kua1 t͡sɿ/<sup>如皋</sup></small> 丝瓜。<sup>\[如皋\]</sup>\[泰州：一年生的草本植物，果实细长，略如黄瓜，嫩时可供蔬食，成熟以后内有强韧网状纤维，用作擦拭或者入药。\]  
+1. 【[丝瓜子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_gua_zz.md#丝瓜子)】`sz1 gua1 zz` <small>/sɿ1 kua1 t͡sɿ/<sup>如皋</sup>, /sɿ1 kuɑ1 t͡sɿ/<sup>泰兴</sup></small> 丝瓜。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>\[泰州：一年生的草本植物，果实细长，略如黄瓜，嫩时可供蔬食，成熟以后内有强韧网状纤维，用作擦拭或者入药。\]  
 1. 【[丝瓜子筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_gua_zz_jien.md#丝瓜子筋)】`sz1 gua1 zz jien1` <sup>[如皋]</sup> 丝瓜络。供药用，或作助浴、清洗用具。  
+1. 【[丝瓜子筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_gua_zz_jien.md#丝瓜子筋)】`sz1 gua1 zz jien1` <small>/sɿ1 kuɑ1 t͡sɿ t͡ɕiŋ1/<sup>泰兴</sup></small> 丝瓜成熟后内在的经络，可作洗涤用品。<sup>\[泰兴\]</sup>  
+1. 【[丝瓜子刨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_gua_zz_po.md#丝瓜子刨子)】`sz1 gua1 zz po6 zz` <small>/sɿ1 kuɑ1 t͡sɿ pʰɔ1 t͡sɿ/<sup>泰兴</sup></small> 刨丝瓜皮的小用具。<sup>\[泰兴\]</sup>  
 1. 【[丝行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_han.md#丝行)】`sz1 han2` <sup>[如皋]</sup> 旧时经营蚕茧、蚕丝、丝线等的商行。  
 1. 【[丝绞帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_jio_ban.md#丝绞帮)】`sz1 jio3 ban1` <sup>[如皋]</sup> 绞丝旁。  
 1. 【[丝绞绞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_jio_jio.md#丝绞绞)】`sz1 jio3 jio3` <sup>[兴化]</sup> 汉字偏旁，形状是“纟”“糹”。又称“纹丝旁”。  
 1. 【[丝绞绞<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_jio_jio_r.md#丝绞绞<sub>儿</sub>)】`sz1 jio3 jio3 r` <sup>[如皋]</sup> 绞丝旁。  
+1. 【[丝绞旁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_jio_pan.md#丝绞旁)】`sz1 jio3 pan2` <small>/sɿ1 t͡ɕiɔ3 pʰɑŋ2/<sup>泰兴</sup></small> 也作“绞丝旁”、“丝绞绞”。汉字偏旁的一种。<sup>\[泰兴\]</sup>  
 1. 【[丝绵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_min.md#丝绵)】`sz1 min2` <sup>[如东]</sup> 蚕茧下脚经精炼、扯松的制成品。  
 1. 【[丝嗡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_on_zz.md#丝嗡子)】`sz1 on5 zz` <sup>[泰县]</sup> 二胡。  
 1. 【[丝头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_teu.md#丝头)】`sz1 teu` <sup>[如皋]</sup> 纤维：好棉花的～长，差棉花的～短。  
 1. 【[丝头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_teu.md#丝头)】`sz1 teu2` <sup>[如皋]</sup> ① 丝的脚料。 ② 丝的端绪。 ③ 现又指螺丝的螺纹。 ④ 木纹路。  
-1. 【[丝网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_van.md#丝网)】`sz1 van3` <small>/sɿ1 ʋã3/<sup>如皋</sup></small> ① 一种大眼浮网。本地渔夫用丝鱼桶儿在河中嚄浪，大鱼惊窜入网，鲣部被网眼扣住后就捕。<sup>\[如皋\]</sup> ② 一种网具。用丝线结成，十分柔软。长条形，下部装着锡铊，上部装着浮子。作业时，将网下在水中，敲击船板，迫使鱼群游动撞在网上，从而把鱼缠住。<sup>\[如东\]</sup>  
+1. 【[丝网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_van.md#丝网)】`sz1 van3` <small>/sɿ1 ʋã3/<sup>如皋</sup>, /sɿ1 uɑŋ3/<sup>泰兴</sup></small> ① 一种大眼浮网。本地渔夫用丝鱼桶儿在河中嚄浪，大鱼惊窜入网，鲣部被网眼扣住后就捕。<sup>\[如皋\]</sup> ② 一种网具。用丝线结成，十分柔软。长条形，下部装着锡铊，上部装着浮子。作业时，将网下在水中，敲击船板，迫使鱼群游动撞在网上，从而把鱼缠住。<sup>\[如东\]</sup> ③ 鱼网的一种，网线细若丝。<sup>\[泰兴\]</sup>  
 1. 【[丝线店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_xin_din.md#丝线店)】`sz1 xin5 din5` <sup>[如皋]</sup> 旧时专卖丝线、绒线、绣花用品的商店。  
 1. 【[丝线架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_xin_ga_zz.md#丝线架子)】`sz1 xin5 ga5 zz` <sup>[如皋]</sup> 手工打丝线的主要工作架。下为三脚马儿，上有横担，左右各有9个“架泡儿”。  
 1. 【[丝线作坊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_xin_zah_fan.md#丝线作坊)】`sz1 xin5 zah7 fan1` <sup>[如皋]</sup> 旧时手工加工丝线的作坊。  
