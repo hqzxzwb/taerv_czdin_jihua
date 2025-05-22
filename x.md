@@ -35,6 +35,7 @@
 1. 【[西北风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_boh_fon.md#西北风)】`xi1 boh7 fon1` <sup>[东台]</sup> ［喻］没有起码的生存条件：把块田你，你不好好种，明吖去喝～！  
 1. 【[西北风头里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_boh_fon_teu_lii.md#西北风头里)】`xi1 boh7 fon1 teu2 lii` <sup>[东台]</sup> ［喻］孤苦凄凉的生活环境：你就是哭咖一去，有哪个儿女问你的讯？  
 1. 【[西场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_chan.md#西场)】`xi1 chan2` 西面邻居  
+1. 【[西风夜歇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_fon_ia_xih.md#西风夜歇)】`xi1 fon1 ia6 xih7` <small>/ɕʝ1 fɔŋ1 iɑ1 ɕiʔ7/<sup>泰兴</sup></small> 秋冬季节，刮西北风或偏西风，晚上一般会明显减小或停止，故云。<sup>\[泰兴\]</sup>  
 1. 【[西风一浪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_fon_ieh_lan.md#西风一浪)】`xi1 fon1 ieh7 lan6` <sup>[兴化]</sup> （喻）所受的冲击：“……便是那枚金表能值得多少……若说拿去嫖姑娘，也不够～……”（《广陵潮》四三）。也作“西湖一浪”。  
 1. 【[西瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_gua.md#西瓜)】`xi1 gua1` <sup>[如东]</sup> 葫芦科植物西瓜，一年生蔓性草本。茎细长，匍匐，略具三棱，卷须2分叉。叶互生，叶片三角状卵形深裂。花单性，同株，黄色。瓠果近圆形或长椭园形表面绿色浅绿色，多具深浅相间的条纹。种子多数。田间种植。  
 1. 【[西瓜岔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_gua_cha.md#西瓜岔)】`xi1 gua1 cha5` <sup>[兴化]</sup> ① 西瓜藤上的岔头。 ② （借）岔子：我俫谈正事，你覅打～。事情本来蛮顺的，哪晓得一个～，完吖。  
@@ -52,7 +53,9 @@
 1. 【[西路人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_lv_ren.md#西路人)】`xi1 lv6 ren2` <sup>[如东]</sup> 本县境内西部地区的人。  
 1. 【[西溪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_qi.md#西溪)】`xi1 qi1` <sup>[东台]</sup> 位于东台城西、泰东河北岸的古镇。  
 1. 【[西山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_shaen.md#西山)】`xi1 shaen1` <sup>[兴化]</sup> 朝南房屋的右侧：屋～；～头。  
-1. 【[西山太阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_shaen_tae_ian.md#西山太阳)】`xi1 shaen1 tae5 ian` <small>/ɕi1 sɛ̃1 tʰɛ5 iaŋ/<sup>兴化</sup></small> ① 午后从西边照射过来的阳光<sup>\[兴化\]</sup>：朝西的房子夏天～一照热煞人。<sup>\[兴化\]</sup> ② 下午三点左右太阳偏西后由西向东斜射过来的阳光，以其照于西侧山墙，故名<sup>\[泰州\]</sup>：这房子旁的都好，就是夏天～吃不消。<sup>\[泰州\]</sup>  
+1. 【[西山太阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_shaen_tae_ian.md#西山太阳)】`xi1 shaen1 tae5 ian` <small>/ɕi1 sɛ̃1 tʰɛ5 iaŋ/<sup>兴化</sup>, /ɕʝ1 ɕiɛ̃1 tʰɛ5 iɑŋ/<sup>泰兴</sup></small> ① 午后从西边照射过来的阳光<sup>\[兴化\]</sup>：朝西的房子夏天～一照热煞人。<sup>\[兴化\]</sup> ② 下午三点左右太阳偏西后由西向东斜射过来的阳光，以其照于西侧山墙，故名<sup>\[泰州\]</sup>：这房子旁的都好，就是夏天～吃不消。<sup>\[泰州\]</sup> ③ 中午以后偏西的太阳，为一天中温度最高的时候。<sup>\[泰兴\]</sup>  
+1. 【[西山头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_shaen_teu.md#西山头)】`xi1 shaen1 teu2` <small>/ɕʝ1 ɕiɛ̃1 tʰəɪ2/<sup>泰兴</sup></small> 房屋的西山墻外。<sup>\[泰兴\]</sup>  
+1. 【[西乡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xian.md#西乡)】`xi1 xian1` <small>/ɕʝ1 ɕiɑŋ1/<sup>泰兴</sup></small> 乡人习称县域西部及沿江地区。<sup>\[泰兴\]</sup>：～人<sup>\[泰兴\]</sup>  
 1. 【[西装头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_zhuan_teu.md#西装头)】`xi1 zhuan1 teu2` <sup>[如东]</sup> 一种发型，头发向两边分开。也称分头。  
 1. 【[豨莶草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xin_co.md#豨莶草)】`xi1 xin1 co3` <sup>[如东]</sup> 菊科植物腺梗豨莶，一年生草本。高约100厘米。茎直立，常带紫色，枝上部密被短柔毛。叶对生，阔卵状三角形，边缘具粗锯齿。头状花序顶生或腋生。花黄色。瘦果倒卵形，微弯，黑色。生长在路边  
 1. 【[豨莶果](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xin_gu.md#豨莶果)】`xi1 xin1 gu3` <sup>[如东]</sup> 菊科植物腺梗豨莶果实。  
@@ -1461,7 +1464,7 @@
 1. 【[小伙头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_hu_teu_zz.md#小伙头子)】`xio3 hu3 teu2 zz` <sup>[泰州]</sup> 十五六岁男性青年，青年男子是指十五六岁至三十岁左右男性：这几个～正是长身体的时候，个个能吃。  
 1. 【[小火炖蹄髈——慢慢来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_hu_den_ti_pan_maen_maen_lae.md#小火炖蹄髈——慢慢来)】`xio3 hu3 den5 ti2 pan3 maen6 maen6 lae2` <sup>[东台]</sup>   
 1. 【[小货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_hu.md#小货)】`xio3 hu5` <small>/ɕiɔ3 xo5/<sup>兴化</sup>, /ɕiɔ3 xʊ5/<sup>如皋</sup></small> ① 为店里做生意时，自己也买卖的那部分货物称小货，但要店主批准。如布店学徒在店内卖绣品。<sup>\[如皋\]</sup> ② 詈语，与“老货”相对。<sup>\[如皋\]</sup> ③ 旧称长途小额贩运的商品<sup>\[兴化\]</sup>：跑～。<sup>\[兴化\]</sup> ④ 少量堆积商品，待价而沽<sup>\[兴化\]</sup>：他前几年堆～，赚吖一笔钱。<sup>\[兴化\]</sup>  
-1. 【[小华](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_hua.md#小华)】`xio3 hua2` <sup>[泰兴]</sup> 对子女、晚辈的昵称。为“小伙哇”的切音连读。  
+1. 【[小华](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_hua.md#小华)】`xio3 hua2` <small>/ɕiɔ3 xuɑ2/<sup>泰兴</sup></small> 对子女、晚辈的昵称。为“小伙啊”的切音连读。<sup>\[泰兴\]</sup>  
 1. 【[小滑头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_huaeh_teu.md#小滑头)】`xio3 huaeh8 teu2` <sup>[泰州]</sup> 虽然耍点小聪明，但因社会阅历有限，易为人识破的年轻人。  
 1. 【[小黄鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_huan_y.md#小黄鱼)】`xio3 huan2 y2` <sup>[如东]</sup> 石首科动物小黄鱼，又名春鱼、黄花鱼。体长约20厘米。身体偏扁，形状与大黄鱼相近而小，体背侧灰褐色，两侧及腹侧为黄色，背鳍边缘灰褐色。臀鳍第二鳍棘长小于眼径。头较大。头颅具发达粘液腔。鳞较大，在背鳍与侧线间具鳞5-6行。栖息在软泥或泥沙底质海区中下层。有明显的垂直移动现象，黄昏时上升，黎明时下降，白天在底层或近底层活动。为重要的经济鱼类，是如东县常见鱼种。  
 1. 【[小茴香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_huei_xian.md#小茴香)】`xio3 huei2 xian1` <sup>[如皋]</sup> 茴香。  

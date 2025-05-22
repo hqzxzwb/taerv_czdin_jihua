@@ -886,10 +886,13 @@
 1. 【[围网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_van.md#围网)】`vei2 van3` <sup>[兴化]</sup> ① 在河湖中，用网围起的一片水域：～养鱼。 ② 一种捕鱼方法，也称“拉大网”。  
 1. 【[围子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_zz.md#围子)】`vei2 zz` <sup>[泰县]</sup> 敌人的据点。  
 1. 【[圩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei.md#圩)】`vei2` <sup>[东台]</sup> 范公堤堤西阻挡洪水的堤坝：太平～｜三角～。  
+1. 【[圩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei.md#圩)】`vei2` <small>/ʋəɪ2/<sup>泰兴</sup></small> 沙滩筑堤，围成田者曰圩。泰兴人读音若“围”，亦音如“于”。如圩岸、云头圩等；又，老岸田今仍名圩（于音），如蛤蟆圩（今曲霞镇）、太平圩等。<sup>\[泰兴\]</sup>  
 1. 【[圩里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_li.md#圩里)】`vei2 li3` <sup>[兴化]</sup> ① 在圩堤围护的范围以内。 ② 特指兴化东北乡，老圩、中圩、永丰、合塔等圩的～：～地区。  
 1. 【[圩南](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_nun.md#圩南)】`vei2 nun2` <sup>[兴化]</sup> 指兴化蚌蜓圩（大象圩）以南地区。  
 1. 【[圩岸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_un.md#圩岸)】`vei2 un6` <sup>[兴化]</sup> ① 指圩堤的顶部和两侧的青坎。 ② 地名，为兴化西郊的一个村庄。  
+1. 【[圩岸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_un.md#圩岸)】`vei2 un6` <small>/ʋəɪ2 ʊ̃1/<sup>泰兴</sup></small> 低洼地区防水护田的堤岸。<sup>\[泰兴\]</sup>  
 1. 【[圩外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_vae.md#圩外)】`vei2 vae6` <sup>[兴化]</sup> ① 圩堤范围以外。 ② 特指兴化中西部低洼地区。  
+1. 【[圩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_zz.md#圩子)】`vei2 zz` <small>/ʋəɪ2 t͡sɿ/<sup>泰兴</sup></small> 防水的堤埂。岸田为田地，称圩田，据史料记载，由汉以前即发展而来，至唐已相当发达。泰兴西乡地区遍有圩子。<sup>\[泰兴\]</sup>  
 1. 【[帷屏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_pien.md#帷屏)】`vei2 pien2` <sup>[兴化]</sup> 用绸缎或布匹蒙在框架上作成的屏风。  
 1. 【[微雕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_dio.md#微雕)】`vei2 dio1` <sup>[东台]</sup> 在象牙、果核、头发上进行的象牙～蛮有名气。  
 1. 【[微微之便](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_vei_zhr_pin.md#微微之便)】`vei2 vei2 zhr1 pin6` <sup>[兴化]</sup> 指很小的出入：一斤少个钱把钱，～，就不谈吖。  

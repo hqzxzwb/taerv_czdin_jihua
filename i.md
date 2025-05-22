@@ -222,6 +222,7 @@
 1. 【[野獐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_zhan.md#野獐)】`ia3 zhan1` <sup>[如东]</sup> ① 黄獐。20世纪50年代以前，如东沿海有许多黄獐。50年代后，由于围垦，大片海滩草地变成农田，黄獐失去生存条件，因此消失。 ② 黄獐善于奔跑。比喻跑得很快：这个人跑起来像～样的。 ③ 比喻不驯服：这个人像～样的，一点儿也不贴身。  
 1. 【[野种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_zhon.md#野种)】`ia3 zhon3` <sup>[如东]</sup> ① 野生植物的种子。 ② 比喻不是亲生的子女。  
 1. 【[雅兴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_xien.md#雅兴)】`ia3 xien5` <sup>[如东]</sup> 高雅的兴趣。  
+1. 【[亚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia.md#亚)】`ia5` <small>/iɑ5/<sup>泰兴</sup></small> 次、劣<sup>\[泰兴\]</sup>：在箇个方面的水平，我也不～于他。<sup>\[泰兴\]</sup>  
 1. 【[亚亚五](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_ia_v.md#亚亚五)】`ia5 ia5 v3` <sup>[如东]</sup> 糊里糊涂：不能～。  
 1. 【[亚麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_ma.md#亚麻)】`ia5 ma2` <sup>[如东]</sup> 亚麻科植物亚麻，又名胡麻，一年生草本。高约90厘米。茎直立，基部稍木质化，分枝少。叶互生，无柄，叶片线形，全缘。花多数，蓝白或白色，生于分枝顶端及上部叶腋内。蒴果球形。种子卵形，棕色。栽培。  
 1. 【[讶口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_keu.md#讶口)】`ia5 keu3` <sup>[兴化]</sup> 口吻：这种～真叫人受不了。  

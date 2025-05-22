@@ -917,7 +917,7 @@
 1. 【[替头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_teu.md#替头)】`ti5 teu` <sup>[东台]</sup> 婚娶寿庆中蒸作的花馒寿桃。（这里“头”字轻读）  
 1. 【[替针洗屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_zhen_xi_pi_gu.md#替针洗屁股)】`ti5 zhen1 xi3 pi5 gu` <sup>[如皋]</sup> 指因原材料质差而无缝纫价值。  
 1. 【[地鳖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_bih.md#地鳖)】`ti6 bih7` <sup>[如东]</sup> 鳖蠊科昆虫地鳖，雌雄异体，雄虫有翅，雌虫无翅。  
-1. 【[地鳖蛇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_bih_sha.md#地鳖蛇)】`ti6 bih7 sha2` <small>/tʰʝ1 piʔ7 sa2/<sup>如皋</sup></small> ① 蝮蛇，色灰暗，体小，有剧毒。<sup>\[如皋\]</sup> ② 一种不能碰，一碰就咬人的蛇，［喻］不好对付的凶狠人。<sup>\[东台\]</sup> ③ 俗称短尾蝮蛇，毒性较强，主要棲息在坟堆、草丛中，夏季昼夜活动于稻田、耕地、沟渠、路边及村庄等处，捕吃鼠类、蜥蜴、蛙类，都见外出活动。<sup>\[泰州\]</sup>  
+1. 【[地鳖蛇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_bih_sha.md#地鳖蛇)】`ti6 bih7 sha2` <small>/tʰʝ1 piʔ7 sa2/<sup>如皋</sup>, /t͡ɕʰʝ1 piʔ7 sɑ2/<sup>泰兴</sup></small> ① 蝮蛇，色灰暗，体小，有剧毒。<sup>\[如皋\]</sup> ② 一种不能碰，一碰就咬人的蛇，［喻］不好对付的凶狠人。<sup>\[东台\]</sup> ③ 俗称短尾蝮蛇，毒性较强，主要棲息在坟堆、草丛中，夏季昼夜活动于稻田、耕地、沟渠、路边及村庄等处，捕吃鼠类、蜥蜴、蛙类，都见外出活动。<sup>\[泰州\]</sup> ④ 一种毒性极强的小蛇。乡谚：“地鳖蛇咬凳脚，掼掉口毒。”谓白白浪费也，喻恶语伤人，人不理踩，白费口舌。<sup>\[泰兴\]</sup>  
 1. 【[地鳖蛇咬凳脚，掼掉口毒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_bih_sha_ngo_den_jiah_kuaen_tio_keu_toh.md#地鳖蛇咬凳脚，掼掉口毒)】`ti6 bih7 sha2 ngo3 den5 jiah7，kuaen6 tio6 keu3 toh8` <sup>[如皋]</sup> 俗语。比喻劲使错了地方，变成白费劲。  
 1. 【[地扁蛇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_bin_sha.md#地扁蛇)】`ti6 bin3 sha2` <sup>[如东]</sup> 蝮蛇科动物蝮蛇，俗称五步蛇、七步倒。  
 1. 【[地包天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_bo_tin.md#地包天)】`ti6 bo1 tin1` <sup>[如皋]</sup> 即季□（ko）牙。  
@@ -940,11 +940,15 @@
 1. 【[地理先生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_li_xin_shen.md#地理先生)】`ti6 li3 xin1 shen1` <small>/tʰʝ1 lʝ3 ɕĩ1 səŋ1/<sup>如皋</sup></small> ① 堪舆术士。<sup>\[如皋\]</sup> ② 施教地理课程的教师。看风水的人。也叫阴阳先生。<sup>\[如东\]</sup>  
 1. 【[地里鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_lii_guei.md#地里鬼)】`ti6 lii guei3` <sup>[兴化]</sup> （戏）熟悉当地情况的人：“兄弟，不好了！那猴子真是个～！那里请得个主人公来也！”（《西游记》七七）也称“地头鬼”。  
 1. 【[地龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_lon.md#地龙)】`ti6 lon2` <sup>[如东]</sup> 蛇。蚯蚓。  
+1. 【[地龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_lon.md#地龙)】`ti6 lon2` <small>/t͡ɕʰʝ1 lɔŋ2/<sup>泰兴</sup></small> 乡人谓蚯蚓为地龙，亦有称蛇者。<sup>\[泰兴\]</sup>  
 1. 【[地龙<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_lon_r.md#地龙<sub>儿</sub>)】`ti6 lon2 r` <sup>[如东]</sup> 一只圆形竹筒制成，有哨口，中间以竹竿相穿，用绳索搓动，高速旋转后，能够发出响声。  
 1. 【[地坪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_pien.md#地坪)】`ti6 pien2` <sup>[兴化]</sup> 室内外地面：混凝土～｜屋里～比天井高三十公分。  
+1. 【[地坪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_pien.md#地坪)】`ti6 pien2` <small>/t͡ɕʰʝ1 pʰiŋ2/<sup>泰兴</sup></small> 室内装修时铺于地面的物品，如地面砖、罗底砖、地板等。<sup>\[泰兴\]</sup>  
 1. 【[地判](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_pun.md#地判)】`ti6 pun5` <sup>[兴化]</sup> 迎神赛会中在地上行走的判宫：判有两种，一种是～，一文一武，手执朝笏，边走边跳。（汪曾祺《故里三陈》）‖也称“走判”。  
 1. 【[地铺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_pv.md#地铺)】`ti6 pv5` <sup>[泰州]</sup> 把铺盖铺在地上做成临时的铺：人来啊多啊，只好打～。  
-1. 【[地身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_shen.md#地身)】`ti6 shen1` <small>/tʰəi6 sən1/<sup>兴化</sup>, /tʰʝ1 səŋ1/<sup>如皋</sup></small> ① 地方、地势、高程。<sup>\[如皋\]</sup> ② 地平面<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：这许～高，那许～低。<sup>\[兴化\]</sup>｜这块地的～高，雨一停水就干。<sup>\[泰州\]</sup> ③ 地基。<sup>\[泰州\]</sup>\[兴化：也说“地脚”。\]：这个房子～低，一到落雨天，家里地下就发潮。<sup>\[泰州\]</sup>  
+1. 【[地铺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_pv.md#地铺)】`ti6 pv5` <small>/t͡ɕʰʝ1 pʰu5/<sup>泰兴</sup></small> 把铺盖铺在地上做成的临时铺位。<sup>\[泰兴\]</sup>：当年上河工民工总是打～<sup>\[泰兴\]</sup>  
+1. 【[地上出汗，雨后才旱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_shan_chueh_hun.md#地上出汗，雨后才旱)】`ti6 shan6 chueh7 hun6 y3 heu6 cae2 hun6` <small>/t͡ɕʰʝ1 sɑŋ1 t͡sʰuəʔ7 xʊ̃1 y3 xəɪ1 t͡ɕʰiɛ2 xʊ̃1/<sup>泰兴</sup></small> 气象谚语。谓地面、墙壁转潮，甚至浮挂水滴，预示天将要下雨。<sup>\[泰兴\]</sup>  
+1. 【[地身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_shen.md#地身)】`ti6 shen1` <small>/tʰəi6 sən1/<sup>兴化</sup>, /tʰʝ1 səŋ1/<sup>如皋</sup>, /t͡ɕʰʝ1 səŋ1/<sup>泰兴</sup></small> ① 地方、地势、高程。<sup>\[如皋\]</sup> ② 地平面<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：这许～高，那许～低。<sup>\[兴化\]</sup>｜这块地的～高，雨一停水就干。<sup>\[泰州\]</sup> ③ 地基。<sup>\[泰州\]</sup>\[兴化：也说“地脚”。\]：这个房子～低，一到落雨天，家里地下就发潮。<sup>\[泰州\]</sup> ④ 地面，土壤。<sup>\[泰兴\]</sup>：～潮和<sup>\[泰兴\]</sup>  
 1. 【[地塘屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_tan_oh.md#地塘屋)】`ti6 tan2 oh7` <small>/tʰəi6 tʰaŋ2 ɔʔ7/<sup>兴化</sup>, /tʰʝ1 tʰã2 ɔʔ7/<sup>如皋</sup></small> ① 室内地平低于室外地平的房屋。<sup>\[如皋\]</sup> ② 室内地坪低于室外的房屋。<sup>\[兴化\]</sup>  
 1. 【[地塘灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_tan_zo.md#地塘灶)】`ti6 tan2 zo5` <sup>[如皋]</sup> 灶脚深入地下，并挖有地塘供烧火者操作的矮而大的砖灶。槽坊、油坊、大伙房多用之。  
 1. 【[地𠫓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_teh.md#地𠫓)】`ti6 teh7` <sup>[兴化]</sup> 地陷。  
@@ -1841,14 +1845,15 @@
 1. 【[动都不能动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_du_beh_nen_ton.md#动都不能动)】`ton6 du1 beh7 nen2 ton6` <sup>[东台]</sup> 指某件事绝对不能做：高利贷？这个交易风险大，～。  
 1. 【[动火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_hu.md#动火)】`ton6 hu3` <sup>[兴化]</sup> 被财色所惑而心动：（徐能）看见搬上许多箱笼囊箧，心中早有七分～。（《警世通言》十一）｜“却也怪你们不得，这样一对娇滴滴的人儿，怎叫他们不～……”（《梼杌闲评》三）。  
 1. 【[动荤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_huen.md#动荤)】`ton6 huen1` ① 吃荤<sup>\[泰州\]</sup>：医生教他忌嘴，两个月不～。<sup>\[泰州\]</sup> ② 指语言低级、粗俗，涉及性的内容<sup>\[泰州\]</sup>：这个家伙是个甚的人？一张嘴就～。<sup>\[泰州\]</sup>  
+1. 【[动脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_jiah.md#动脚)】`ton6 jiah7` <small>/tʰɔŋ1 t͡ɕiɑʔ7/<sup>泰兴</sup></small> 启程，上路<sup>\[泰兴\]</sup>  
 1. 【[动吖他仓里的廒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_nga_ta_can_lii_dii_ngo.md#动吖他仓里的廒)】`ton6 nga ta1 can1 lii dii ngo2` <sup>[如皋]</sup> 见“动吖他的板脂油”。  
 1. 【[动吖他的板脂油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_nga_ta_dii.md#动吖他的板脂油)】`ton6 nga ta1 dii baen3 zhr ieu2` <sup>[如皋]</sup> 耗用了他的内囊资财。  
 1. 【[动气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_qi.md#动气)】`ton6 qi5` <small>/tʰoŋ1 t͡sʰɿ5/<sup>泰县</sup></small> ① 生气。<sup>\[如东\]</sup>：你再说我要～啦。<sup>\[如东\]</sup> ② 生气。<sup>\[泰县\]</sup>  
 1. 【[动抢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_qian.md#动抢)】`ton6 qian3` <sup>[如皋]</sup> 出现抢劫行为。  
 1. 【[动静](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_qien.md#动静)】`ton6 qien6` <sup>[如东]</sup> 动作或说话的声音：你去听听～。  
-1. 【[动身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_shen.md#动身)】`ton6 shen1` ① 起程。<sup>\[如东\]</sup>：何时～？<sup>\[如东\]</sup> ② 启程；出发。<sup>\[东台\]</sup>  
+1. 【[动身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_shen.md#动身)】`ton6 shen1` <small>/tʰɔŋ1 səŋ1/<sup>泰兴</sup></small> 启程，出发<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>：何时～？<sup>\[如东\]</sup>｜你什的时候～上新疆吖？<sup>\[泰兴\]</sup>  
 1. 【[动手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_sheu.md#动手)】`ton6 sheu3` ① 打架。<sup>\[如东\]</sup> ② 开始做；用手行动<sup>\[东台\]</sup>  
-1. 【[动手动脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_sheu_ton_jiah.md#动手动脚)】`ton6 sheu3 ton6 jiah7` <small>/tʰoŋ6 sɤ3 tʰoŋ6 t͡ɕiaʔ7/<sup>兴化</sup></small> ① 拳打脚踢<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：你是执行公务，不应该对老百姓～的。<sup>\[兴化\]</sup>｜人家还是姑娘家，你不好同人家～的。<sup>\[泰州\]</sup> ② 对女性的轻浮举动<sup>\[兴化\]</sup>：二姐儿低了头，只含笑不理。贾琏又不敢造次～的……（《红楼梦》六四）<sup>\[兴化\]</sup>  
+1. 【[动手动脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_sheu_ton_jiah.md#动手动脚)】`ton6 sheu3 ton6 jiah7` <small>/tʰoŋ6 sɤ3 tʰoŋ6 t͡ɕiaʔ7/<sup>兴化</sup>, /tʰɔŋ1 ɕiɤɯ3 tʰɔŋ1 t͡ɕiɑʔ7/<sup>泰兴</sup></small> ① 拳打脚踢<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：你是执行公务，不应该对老百姓～的。<sup>\[兴化\]</sup>｜人家还是姑娘家，你不好同人家～的。<sup>\[泰州\]</sup> ② 对女性的轻浮举动<sup>\[兴化\]</sup>：二姐儿低了头，只含笑不理。贾琏又不敢造次～的……（《红楼梦》六四）<sup>\[兴化\]</sup> ③ 谓男女间挑逗、戏弄一类的举动；打人、打架<sup>\[泰兴\]</sup>  
 1. 【[动动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_ton.md#动动)】`ton6 ton` <sup>[如东]</sup> 活动活动：不要尽坐啊下，要～。  
 1. 【[动众](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_zhon.md#动众)】`ton6 zhon5` <small>/tʰɔŋ1 t͡sɔŋ5/<sup>如皋</sup></small> ① 说话狂妄，得罪大家。<sup>\[如皋\]</sup> ② 技艺、本领超过一般人。<sup>\[如皋\]</sup> ③ 引起公愤。<sup>\[如皋\]</sup> ④ 犯众怒：你说话不要～！<sup>\[如皋\]</sup>  
 1. 【[洞里人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_li_ren.md#洞里人)】`ton6 li3 ren2` <sup>[如东]</sup> 指老鼠。  
