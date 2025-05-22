@@ -665,7 +665,7 @@
 1. 【[迂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y.md#迂)】`y1` <small>/y1/<sup>兴化</sup>, /y1/<sup>泰兴</sup></small> ① 性格迁腐、固执<sup>\[兴化\]</sup>：“表兄此论甚～。当今之世，讲甚天理……”（《梼杌闲评》三六）<sup>\[兴化\]</sup> ② 由于受强烈刺激而神经紊乱<sup>\[兴化\]</sup>：一个人愁狠了，神就乱了<sup>\[兴化\]</sup>｜神一乱，就～了，就糊了。（扬说《闯昭关》）也说“迂痰”。<sup>\[兴化\]</sup> ③ 迂腐，拘泥陈腐的规则，不切合实际<sup>\[泰州\]</sup>：你就不要～吧，现在带啊身上结婚的人太多啊。<sup>\[泰州\]</sup>｜这个人是个～夫子。<sup>\[泰州\]</sup> ④ 指人坚持原则，不受利诱<sup>\[泰州\]</sup>：他这个人～得狠，管你是甚的人，找他开后门是不可能的事。<sup>\[泰州\]</sup> ⑤ 迂腐，不合事理<sup>\[泰兴\]</sup>：箇个人太～啊了，不好处<sup>\[泰兴\]</sup>  
 1. 【[迂而且赘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_er_qia_zhuei.md#迂而且赘)】`y1 er2 qia3 zhuei5` <sup>[兴化]</sup> 迂腐而又啰唆：“笑话了，也不是买货，还要定准。好，你这个人～哎……”（《武松》六）  
 1. 【[迂而赘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_er_zhuei.md#迂而赘)】`y1 er2 zhuei5` <small>/y1 ɚ2 t͡suei5/<sup>如皋</sup>, /y2 ɚ2 t͡suəɪ5/<sup>泰兴</sup></small> ① 古板执拗的脾气。<sup>\[如皋\]</sup> ② 不仅迂腐，而且说话啰唆，贬义。<sup>\[泰州\]</sup> ③ 迁腐而又固执，思维定向。<sup>\[泰兴\]</sup>  
-1. 【[迂夫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_fv_zz.md#迂夫子)】`y1 fv1 zz` <sup>[泰州]</sup> ① 言行拘泥于旧准则，不能适应时代潮流的读书人，贬义。 ② 言行坚持原则，不肯媚俗或者同流合污的人。  
+1. 【[迂夫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_fv_zz.md#迂夫子)】`y1 fv1 zz3` <sup>[泰州]</sup> ① 言行拘泥于旧准则，不能适应时代潮流的读书人，贬义。 ② 言行坚持原则，不肯媚俗或者同流合污的人。  
 1. 【[迂夫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_fv_zz.md#迂夫子)】`y1 fv1 zz3` <small>/y1 fʋ1 t͡sɿ3/<sup>泰兴</sup></small> 迂腐的读书人<sup>\[泰兴\]</sup>  
 1. 【[迂瘕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_ha.md#迂瘕)】`y1 ha2` <sup>[兴化]</sup> 迂腐、守旧，作事过于顶真。也称“瘕魔”。  
 1. 【[迂痰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_taen.md#迂痰)】`y1 taen2` <sup>[兴化]</sup> 见“迂”。  
