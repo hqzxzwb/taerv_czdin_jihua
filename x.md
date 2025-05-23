@@ -771,7 +771,7 @@
 1. 【[兴灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_den.md#兴灯)】`xien1 den1` <sup>[如皋]</sup> 举行灯会。  
 1. 【[兴时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_shr.md#兴时)】`xien1 shr2` <small>/ɕin1 sɿ2/<sup>兴化</sup>, /ɕiəŋ1 sɿ2/<sup>如皋</sup></small> 时尚，时兴，流行<sup>\[如皋\]</sup><sup>\[兴化\]</sup>：今年春节，市面上～唐装。也作“习时”。<sup>\[兴化\]</sup>  
 1. 【[兴头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_teu.md#兴头)】`xien1 teu2` <sup>[如皋]</sup> 带头发起，最先。  
-1. 【[心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien.md#心)】`xien1` <small>/ɕiəŋ1/<sup>如皋</sup></small> ① 期间：水～里（发大水期间）。<sup>\[如皋\]</sup> ② 日光下、月光下：太阳～里；凉月子～里。<sup>\[如皋\]</sup> ③ 泛指物体中央<sup>\[泰州\]</sup>：船停吖江～里。<sup>\[泰州\]</sup>  
+1. 【[心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien.md#心)】`xien1` <small>/ɕiəŋ1/<sup>如皋</sup>, /ɕiŋ1/<sup>泰兴</sup></small> ① 期间<sup>\[如皋\]</sup>：水～里（发大水期间）。<sup>\[如皋\]</sup> ② 日光下、月光下<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：太阳～里<sup>\[如皋\]</sup>｜凉月子～里<sup>\[如皋\]</sup> ③ 泛指物体中央<sup>\[泰州\]</sup>：船停吖江～里。<sup>\[泰州\]</sup>  
 1. 【[心肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_chan.md#心肠)】`xien1 chan2` <small>/ɕiŋ1 t͡sʰɑŋ2/<sup>泰县</sup></small> ① 良心。<sup>\[如东\]</sup>：她的～好。<sup>\[如东\]</sup> ② 用心；存心<sup>\[东台\]</sup>：～好。<sup>\[东台\]</sup> ③ 心术、品德<sup>\[东台\]</sup>：菩萨～。<sup>\[东台\]</sup> ④ 心思：这时候没～打扑克。<sup>\[泰县\]</sup>  
 1. 【[心重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_chon.md#心重)】`xien1 chon6` <sup>[如东]</sup> 欲望大，要求高：不能～，要适可而止。  
 1. 【[心慈怜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_cz_lin.md#心慈怜)】`xien1 cz2 lin2` <sup>[如皋]</sup> 心肠好，心肠软，富有同情心。  
@@ -970,6 +970,7 @@
 1. 【[醒神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_shen.md#醒神)】`xien3 shen2` <sup>[兴化]</sup> 使清醒：你酒喝多啊，先同我出去～。｜你少信口瞎说，醒醒神好多少哩！  
 1. 【[醒睡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_shuei.md#醒睡)】`xien3 shuei-xy` <sup>[东台]</sup> 能够有意及时醒来：今吖夜里～点儿，要赶火车呢。  
 1. 【[醒睡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_shuei.md#醒睡)】`xien3 shuei5` <small>/ɕiəŋ3 suei5/<sup>如皋</sup></small> ① 睡眠中能听到外界响活。与“睡得死”相对。<sup>\[如皋\]</sup> ② 睡眠不深，能够听到外面的声响。<sup>\[如东\]</sup> ③ 半醒半睡状态，人睡得不是很死，一有动静，可以及时警醒<sup>\[泰州\]</sup>：你一个人在家里，夜里睡觉要～点儿。<sup>\[泰州\]</sup>  
+1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien.md#□)】`xien5` <small>/ɕiəŋ5/<sup>如皋</sup>, /ɕiŋ5/<sup>泰县</sup></small> ① 共振<sup>\[如皋\]</sup>：黄海里地震，我家橱门搭子～得只摇<sup>\[如皋\]</sup> ② 震动、影响<sup>\[泰县\]</sup>：你脚一𨁽，我这许都～动吖。<sup>\[泰县\]</sup> ③ 微微震动<sup>\[泰州\]</sup>：东头放吖个大炮仗，觉像西头的房间都～动哎。<sup>\[泰州\]</sup>  
 1. 【[信风斜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_fon_qia.md#信风斜)】`xien5 fon1 qia2` <small>/ɕin5 foŋ1 t͡ɕʰia2/<sup>兴化</sup></small> ① 盲目地跟着别人走。<sup>\[如东\]</sup>：不能～。<sup>\[如东\]</sup> ② 听信传言，跟着起哄<sup>\[兴化\]</sup>：这个人真是～，听说酱油调价，一下子买家来百十斤。<sup>\[兴化\]</sup>  
 1. 【[信风邪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_fon_qia.md#信风邪)】`xien5 fon1 qia2` <sup>[如皋]</sup> 偏信宣传：听说某先生脉信不丑，几个人总～，去把他看，结果白跑一趟；你不要～，超市也卖假货？  
 1. 【[信号](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_ho.md#信号)】`xien5 ho6` <sup>[如东]</sup> 传递信息的一种标记，如灯光、红旗、毛巾等。  
@@ -997,7 +998,7 @@
 1. 【[信手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_sheu.md#信手)】`xien5 sheu3` <sup>[如东]</sup> 随手：～拿啊一只馒头。  
 1. 【[信㐁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_tin_zz.md#信㐁子)】`xien5 tin5 zz` <sup>[如皋]</sup> 蛇舌。  
 1. 【[信子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_zz.md#信子)】`xien5 zz` <sup>[兴化]</sup> 㐁子：蛇吐～。  
-1. 【[兴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien.md#兴)】`xien5` <small>/ɕin5/<sup>兴化</sup>, /ɕiəŋ5/<sup>如皋</sup></small> ① 正在：这刻儿外头～落大雨，你过刻儿走。<sup>\[如皋\]</sup> ② 指赌博时手气好，也指经营有财运。‖与“霉”“背”相对。<sup>\[兴化\]</sup>  
+1. 【[兴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien.md#兴)】`xien5` <small>/ɕin5/<sup>兴化</sup>, /ɕiəŋ5/<sup>如皋</sup></small> ① 正在<sup>\[如皋\]</sup>：这刻儿外头～落大雨，你过刻儿走。<sup>\[如皋\]</sup> ② 指赌博时手气好，也指经营有财运。与“霉”“背”相对。<sup>\[兴化\]</sup>  
 1. 【[兴在下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_cae_ha.md#兴在下)】`xien5 cae6 ha` <sup>[如皋]</sup> 正处于高潮中：他俫～谈恋爱。  
 1. 【[兴在力头上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_cae_lieh_teu_shan.md#兴在力头上)】`xien5 cae6 lieh8 teu2 shan` <sup>[如皋]</sup> 正处于年轻力壮的时期。  
 1. 【[兴抖抖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_deu_deu.md#兴抖抖)】`xien5 deu3 deu3` <sup>[兴化]</sup> 形容兴致很高：听说芦洲迎会，几个老太婆～的搭车去看热闹。  
@@ -1028,9 +1029,8 @@
 1. 【[性水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_shuei.md#性水)】`xien5 shuei3` <sup>[如东]</sup> ① 特点，个性：你要摸清她的～。 ② 食物的品性：冬瓜的～好，病人也可以吃。 ③ 事物发展的规律。  
 1. 【[性子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_zz.md#性子)】`xien5 zz` <sup>[如东]</sup> 性格，脾气：～要放淡点儿。  
 1. 【[性子躁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_zz_zo.md#性子躁)】`xien5 zz zo5` <sup>[如东]</sup> 脾气急躁：不能～。  
-1. 【[臖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien.md#臖)】`xien5` <small>/ɕin5/<sup>兴化</sup>, /ɕiəŋ5/<sup>如皋</sup></small> ① 由病灶波及：牙子疼～吖骨头里去啊；手爪儿疼，夹肢窝里～起𣝗子来啊。<sup>\[如皋\]</sup> ② 肿痛波及他处<sup>\[兴化\]</sup>：大腿丫巴疼得～起𣝗子来。<sup>\[兴化\]</sup>｜牙疼把半脸～吖肿起来。<sup>\[兴化\]</sup> ③ 生出恶性脓疮后的疼痛感觉，即由脓疮部位放射至其他部位的疼痛感<sup>\[泰州\]</sup>：屁股上生吖个疖子，大腿根子都～吖疼。<sup>\[泰州\]</sup> ④ 微微震动<sup>\[泰州\]</sup>：东头放吖个大炮仗，觉像西头的房间都～动哎。<sup>\[泰州\]</sup>  
+1. 【[臖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien.md#臖)】`xien5` <small>/ɕin5/<sup>兴化</sup>, /ɕiəŋ5/<sup>如皋</sup></small> 病痛波及他处\[泰州：生出恶性脓疮后的疼痛感觉，即由脓疮部位放射至其他部位的疼痛感\]\[如皋：由病灶波及\]\[兴化：肿痛波及他处\]：牙子疼～吖骨头里去啊<sup>\[如皋\]</sup>｜手爪儿疼，夹肢窝里～起𣝗子来啊<sup>\[如皋\]</sup>｜大腿丫巴疼得～起𣝗子来。<sup>\[兴化\]</sup>｜牙疼把半脸～吖肿起来。<sup>\[兴化\]</sup>｜屁股上生吖个疖子，大腿根子都～吖疼。<sup>\[泰州\]</sup>  
 1. 【[臖𣝗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_veh.md#臖𣝗)】`xien5 veh8` <sup>[东台]</sup> （腹股沟）淋巴发炎而成的肿块。（臖，《广韵》“许应切，肿起。”）  
-1. 【[舋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien.md#舋)】`xien5` <small>/ɕiəŋ5/<sup>如皋</sup>, /ɕiŋ5/<sup>泰县</sup></small> ① 共振：黄海里地震，我家橱门搭子～得只摇。如皋词典写“扟”。<sup>\[如皋\]</sup> ② 震动、影响：你脚一𨁽，我这许都～动吖。<sup>\[泰县\]</sup>  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien.md#□)】`xien6` <sup>[如东]</sup> 动：不～。  
 1. 【[□动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_ton.md#□动)】`xien6 ton` <sup>[如东]</sup> 轻微地震动：载重卡车在公路上行驶，楼房都～。  
 1. 【[幸灾乐祸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_zae_lah_hu.md#幸灾乐祸)】`xien6 zae1 lah8 hu6` <sup>[如东]</sup> 别人遭到灾难时自己心里高兴。  

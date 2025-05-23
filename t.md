@@ -778,6 +778,7 @@
 1. 【[头香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_xian.md#头香)】`teu2 xian1` <small>/tʰəɪ2 ɕiɑŋ1/<sup>泰兴</sup></small> 凌晨在神佛像前敬的第一柱香，称为“头香”。<sup>\[泰兴\]</sup>  
 1. 【[头想吖尖吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_xian_nga_jin_nga.md#头想吖尖吖)】`teu2 xian3 nga jin1 nga` <sup>[东台]</sup> 形容一心想往某方面钻。  
 1. 【[头想吖尖吖戴箸笼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_xian_nga_jin_nga_dae_chv_lon.md#头想吖尖吖戴箸笼)】`teu2 xian3 nga jin1 nga dae5 chv6 lon2` <small>/tʰəɪ2 ɕiɑŋ3 ŋa t͡ɕĩ1 ŋa tɛ5 t͡sʰu1 lɔŋ2/<sup>泰兴</sup></small> ① 形容为某个目标想尽心思。<sup>\[东台\]</sup> ② 谓削尖脑袋想某种物品或干某件事。<sup>\[泰兴\]</sup>  
+1. 【[头□尾巴摇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_xien_vei_ba_io.md#头□尾巴摇)】`teu2 xien6 vei3 ba io2` <small>/tʰəɪ2 ɕiŋ1 ʋəɪ3 pɑ iɔ2/<sup>泰兴</sup></small> 即“头动尾巴摇”。<sup>\[泰兴\]</sup>  
 1. 【[头屑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_xih_zz.md#头屑子)】`teu2 xih7 zz` <sup>[如东]</sup> 头皮屑。  
 1. 【[头屑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_xiuh_zz.md#头屑子)】`teu2 xiuh7 zz` <sup>[泰县]</sup> 头皮屑。  
 1. 【[头绪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_xy.md#头绪)】`teu2 xy` <small>/tʰəɪ2 ɕy/<sup>泰兴</sup>, /tʰɤɯ2 ɕy/<sup>泰县</sup></small> ① 条理<sup>\[东台\]</sup>：理出个～。<sup>\[东台\]</sup> ② ［引］门路，本领，势力<sup>\[东台\]</sup>：这个人有～呢<sup>\[东台\]</sup>｜他像个～是的。<sup>\[东台\]</sup> ③ ［引］关系暧昧的人。<sup>\[东台\]</sup> ④ 吸引人。<sup>\[泰县\]</sup> ⑤ 门路、办法等事物的内容不便直说的代词<sup>\[泰县\]</sup>：今天小杨家请的客～不小啊，吃的菜蛮大的。<sup>\[泰县\]</sup> ⑥ 复杂纷乱事情中的条理。<sup>\[泰兴\]</sup>：没～<sup>\[泰兴\]</sup>  
