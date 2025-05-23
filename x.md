@@ -730,7 +730,7 @@
 1. 【[㽺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieh.md#㽺)】`xieh7` <sup>[兴化]</sup> 反应慢，不灵敏：这个伢儿有点儿～，你跟他说话，他眼直翻。兴化词典作“㤸”，《广韵·锡韵》许激切｜“㤸，心不安也。”义不全合。  
 1. 【[㽺㽺的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieh_xieh_dii.md#㽺㽺的)】`xieh7 xieh7 dii` <sup>[兴化]</sup> 稀里糊涂的：他成天～的，外头的大事一点也不晓得。  
 1. 【[吸沰黐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieh_dah_chr.md#吸沰黐)】`xieh7 dah chr1` <sup>[兴化]</sup> ① 形容物体无弹力：这个东西～，落地不蹦。 ② （借）不成功：这次应聘又是～。  
-1. 【[吸铁石](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieh_tih_sheh.md#吸铁石)】`xieh7 tih7 sheh8` ① 磁铁 ② 磁铁。<sup>\[东台\]</sup><sup>\[泰州\]</sup>  
+1. 【[吸铁石](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieh_tih_sheh.md#吸铁石)】`xieh7 tih7 sheh8` 磁铁  
 1. 【[媳妇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieh_fv.md#媳妇)】`xieh7 fv` <sup>[东台]</sup> 儿子的妻，又称“新妇”。（北方所说的“媳妇儿”指老婆）。  
 1. 【[息肉/瘜肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieh_roh.md#息肉/瘜肉)】`xieh7 roh8` 鼻腔或肠道内黏膜发育异常而形成的像肉质突起部分<sup>\[泰州\]</sup>：鼻子里头长吖块～。<sup>\[泰州\]</sup>  
 1. 【[息事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieh_shr.md#息事)】`xieh7 shr6` <sup>[兴化]</sup> 平息事态：她男人酒后肇事，她还不～，反而跟吖起哄。｜“……兄弟的脾气，宁可～，花两钱算什么……”（《官场现形记》十七）  
@@ -749,7 +749,7 @@
 1. 【[膝头拐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieh_teu_guae_r.md#膝头拐<sub>儿</sub>)】`xieh7 teu guae3 r` <sup>[泰县]</sup> 膝盖。  
 1. 【[膝头盘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieh_teu_pun_r.md#膝头盘<sub>儿</sub>)】`xieh7-qih7 teu pun2 r` <sup>[泰县]</sup> 膝盖。  
 1. 【[膝头盘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieh_teu_pun_r.md#膝头盘<sub>儿</sub>)】`xieh7 teu pun2 r` <small>/ɕiəʔ7 tʰɤ pʰũ2 ɚ/<sup>兴化</sup>, /ɕiəʔ7 tʰei pʰʊ˞2/<sup>如皋</sup></small> ① 膝盖 ② 膝盖。<sup>\[如皋\]</sup> ③ 髌骨，也叫膝盖骨，膝关节。俗称磨筋骨儿、腿拐儿。<sup>\[东台\]</sup> ④ 膝盖骨。<sup>\[兴化\]</sup>  
-1. 【[膝头盘<sub>儿</sub>长吖朝后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieh_teu_pun_r_zhan_nga_cho_heu.md#膝头盘<sub>儿</sub>长吖朝后)】`xieh7 teu pun2 r zhan3 nga cho2 heu6` <sup>[东台]</sup> ［喻］到处奔波，路跑得太多：为了招商引资，他不晓得跑啊多少路，简直是～。  
+1. 【[膝头盘<sub>儿</sub>长吖朝后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieh_teu_pun_r.md#膝头盘<sub>儿</sub>长吖朝后)】`xieh7 teu pun2 r zhan3 nga cho2 heu6` <sup>[东台]</sup> ［喻］到处奔波，路跑得太多：为了招商引资，他不晓得跑啊多少路，简直是～。  
 1. 【[膝弯<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieh_vaen_r.md#膝弯<sub>儿</sub>)】`xieh7 vaen1 r` <small>/ɕiəʔ7 ʋe˞1/<sup>如皋</sup></small> ① 膝后弯处。<sup>\[如皋\]</sup> ② 膝盖后部。也叫膝头弯儿。<sup>\[如东\]</sup>  
 1. 【[蜥蜴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieh_ieh.md#蜥蜴)】`xieh7 ieh8` <sup>[如东]</sup> 蜥蜴科动物丽斑麻蜥，体长约13厘米。背面棕绿色，由前至后共有明显的6排浅色圆形眼斑，成方格状排列；腹面色浅，无斑。头部三角形，鼻孔1对，周围有鳞3片。背部鳞较小，胳面鳞光滑。尾长，鳞片排列成环状。生活在岸坡及麦田附近。  
 1. 【[蟋蟀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieh_shueh.md#蟋蟀)】`xieh7 shueh7` <sup>[如东]</sup> 蟋蟀科昆虫蟋蟀，体长圆形，长16毫米。全身黑色，有光泽。头棕褐色。复眼1对，甚大，如半球形，黑褐色。触角细长。翅2对。雄虫翅长过腹部基部有比较坚硬透明的发音器。足3对，淡黄色。后足胫节背面有刺10个，胫节膨大。尾毛褐色。隐居在田埂、屋角及砖堆缝隙和杂草中。  
@@ -892,7 +892,7 @@
 1. 【[星<sub>儿</sub>撒<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_r_saeh_r.md#星<sub>儿</sub>撒<sub>儿</sub>)】`xien1 r saeh7 r` <sup>[兴化]</sup> 时断时续的零星小雨雪：天上～的，像没得大雨落。也说“星星撒撒”。  
 1. 【[星星撒撒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_xien_saeh_saeh.md#星星撒撒)】`xien1 xien saeh7 saeh7` <sup>[兴化]</sup> 时断时续的零星小雨雪。  
 1. 【[星星点点](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_xien_din_din.md#星星点点)】`xien1 xien1 din3 din3` <sup>[如皋]</sup> 雨滴很稀。  
-1. 【[星星点点的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_xien_din_din_dii.md#星星点点的)】`xien1 xien1 din3 din3 dii` <sup>[如皋]</sup> 散乱而稀疏地：开始落雨的刻儿是～。  
+1. 【[星星点点的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_xien_din_din_dii.md#星星点点的)】`xien1 xien1 din3 din3 dii` <sup>[如皋]</sup> 散乱而稀疏的：开始落雨的刻儿是～。  
 1. 【[腥□气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_ngaen_qi.md#腥□气)】`xien1 ngaen qi5` <sup>[东台]</sup> ① 东西虽少腥臭味不小。 ② ［喻］事情不大，却有废话：收一点儿东西，也是收，～！  
 1. 【[腥眼搭眵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_ngaen_daeh_chr.md#腥眼搭眵)】`xien1 ngaen3 daeh7 chr1` <sup>[如东]</sup> 一种又肮脏又腥气的样子和气味。  
 1. 【[腥眼气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_ngaen_qi.md#腥眼气)】`xien1 ngaen3 qi5` <sup>[如东]</sup> 一种腥气味：从渔船上回来，衣裳上有一种～。  
@@ -919,10 +919,9 @@
 1. 【[形势货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_shr_hu.md#形势货)】`xien2 shr hu5` <sup>[兴化]</sup> 指表面好看，但不耐用的商品：有些塑料制品花花绿绿的，其实是～。  
 1. 【[形势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_shr.md#形势)】`xien2 shr5` <sup>[泰县]</sup> 排场：他一点儿不装～，穿得破破栏烂的。  
 1. 【[形相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_xian.md#形相)】`xien2 xian` <sup>[兴化]</sup> 指人的外表、样子：他这种稀脏邋遢的～真叫人恶嫌。｜（他）气喘吁吁的在地下挣命。其时云麟瞧他这种～，很不过意……（《广陵减》七五）  
-1. 【[形相/形象](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_xian.md#形相/形象)】`xien2 xian` ① 人的容貌<sup>\[泰州\]</sup>：怪不到你俫两个人～长得差不多，原来是亲兄弟啊。<sup>\[泰州\]</sup> ② 人物行为状态<sup>\[泰州\]</sup>：你把他骂得这～，他也不敢哼一声。<sup>\[泰州\]</sup> ③ 事件发展状态<sup>\[泰州\]</sup>：多好的一个厂吖，捱他弄得这～，不亏损才怪唻。<sup>\[泰州\]</sup>  
+1. 【[形相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_xian.md#形相)】`xien2 xian` ① 人的容貌<sup>\[泰州\]</sup>：怪不到你俫两个人～长得差不多，原来是亲兄弟啊。<sup>\[泰州\]</sup> ② 人物行为状态<sup>\[泰州\]</sup>：你把他骂得这～，他也不敢哼一声。<sup>\[泰州\]</sup> ③ 事件发展状态<sup>\[泰州\]</sup>：多好的一个厂吖，捱他弄得这～，不亏损才怪唻。<sup>\[泰州\]</sup>  
 1. 【[形语](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_y.md#形语)】`xien2 y` <sup>[兴化]</sup> 背后揭人之短：他老在外头～别人，人家非常生气。  
-1. 【[桁条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_tio.md#桁条)】`xien2 tio` 檩子，架在屋架或山墙上用以支承椽子或屋面板的横木。<sup>\[泰州\]</sup>  
-1. 【[桁条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_tio.md#桁条)】`xien2 tio2` <small>/ɕiəŋ2 tʰiɔ2/<sup>如皋</sup></small> ① 檩，架于梁上的横木。如皋又分别称“正梁、二槽、三槽……边檐”。<sup>\[如皋\]</sup> ② 房屋中负载椽子及屋面的横木，称桁条，包括大梁、二架、三架等。<sup>\[如东\]</sup>  
+1. 【[桁条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_tio.md#桁条)】`xien2 tio2` <small>/ɕiəŋ2 tʰiɔ2/<sup>如皋</sup></small> ① 檩，架于梁上的横木。如皋又分别称“正梁、二槽、三槽……边檐”。<sup>\[如皋\]</sup> ② 房屋中负载椽子及屋面的横木，称桁条，包括大梁、二架、三架等。<sup>\[如东\]</sup> ③ 檩子，架在屋架或山墙上用以支承椽子或屋面板的横木。<sup>\[泰州\]</sup>  
 1. 【[行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien.md#行)】`xien2` <sup>[如皋]</sup> ① 货物质差：～货、货色～。 ② 蚕讳“爬”的改称：蚕儿在下～。  
 1. 【[行船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_chun.md#行船)】`xien2 chun2` <sup>[如东]</sup> 操船航行：我在下～。  
 1. 【[行船架车的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_chun_ga_cha_dii.md#行船架车的)】`xien2 chun2 ga5 cha1 dii` <sup>[东台]</sup> 指为了出行而忙忙碌碌地准备交通、行李等事务。  
@@ -947,8 +946,7 @@
 1. 【[行绝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_qiuh.md#行绝)】`xien2 qiuh8` <sup>[东台]</sup> 使坏，做伤天害理的事。  
 1. 【[行头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_teu.md#行头)】`xien2 teu` 泛指服装，相关装束<sup>\[泰州\]</sup>：他出国穿的这身～要得几万块钱。<sup>\[泰州\]</sup>  
 1. 【[行瘟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_ven.md#行瘟)】`xien2 ven1` <sup>[兴化]</sup> ① 瘟疫流行：（鸭子）摇头～，甚至全趟死光。（马春阳《要唱拿手好戏》） ② 骂畜禽的话，有时也用来骂人：“我早上拿了钱来，你那该死～的兄弟还不肯……”（《儒林外史》三）  
-1. 【[……行行的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_xien_dii.md#……行行的)】`xien2 xien2 dii` <sup>[东台]</sup> 指某种动作正在进行：手术做得～，突然停吖电。  
-1. 【[行行的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_xien_dii.md#行行的)】`xien2 xien2 dii` <small>/ɕin2 ɕin2 təi/<sup>兴化</sup>, /ɕiəŋ2 ɕiəŋ2 tei/<sup>如皋</sup></small> ① 持续状态<sup>\[如皋\]</sup>：这伢儿啋，才哭得～，又笑起来啊！<sup>\[如皋\]</sup> ② 指正在进行中的<sup>\[兴化\]</sup>：他跑得～的，忽然听见后头有人喊他。<sup>\[兴化\]</sup>｜汽车开得～的突然急刹车。<sup>\[兴化\]</sup> ③ 跟在动词后，表示正在进行<sup>\[泰州\]</sup>：他走得～，突然听到有人喊他。<sup>\[泰州\]</sup>｜他车子开得～，突然旁边有人冲出来啊。<sup>\[泰州\]</sup>｜他正吃得～，来啊个电话，碗一丢人就走啊。<sup>\[泰州\]</sup>｜他在机关里处长当得～，突然的就辞职下海办公司去啊。<sup>\[泰州\]</sup>  
+1. 【[行行的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_xien_dii.md#行行的)】`xien2 xien2 dii` <small>/ɕin2 ɕin2 təi/<sup>兴化</sup>, /ɕiəŋ2 ɕiəŋ2 tei/<sup>如皋</sup></small> 动词+得+～，指正在进行中，持续状态<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[东台\]</sup><sup>\[泰州\]</sup>：这伢儿啋，才哭得～，又笑起来啊！<sup>\[如皋\]</sup>｜他跑得～，忽然听见后头有人喊他。<sup>\[兴化\]</sup>｜汽车开得～突然急刹车。<sup>\[兴化\]</sup>｜手术做得～，突然停吖电。<sup>\[东台\]</sup>｜他走得～，突然听到有人喊他。<sup>\[泰州\]</sup>｜他车子开得～，突然旁边有人冲出来啊。<sup>\[泰州\]</sup>｜他正吃得～，来啊个电话，碗一丢人就走啊。<sup>\[泰州\]</sup>｜他在机关里处长当得～，突然的就辞职下海办公司去啊。<sup>\[泰州\]</sup>  
 1. 【[行行好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_xien_ho.md#行行好)】`xien2 xien2 ho3` <sup>[东台]</sup> 求人发善心，做善事。  
 1. 【[行消](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_xio.md#行消)】`xien2 xio1` <sup>[如皋]</sup> 认可：我劝吖你半大天，哿曾～？不～的话再请大哥来劝你。  
 1. 【[行运](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_yen.md#行运)】`xien2 yen6` <sup>[兴化]</sup> （迷信）踏入人生之路：你一岁～，七岁上学，二十岁以后要走三十年好运。  
@@ -1032,7 +1030,7 @@
 1. 【[臖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien.md#臖)】`xien5` <small>/ɕin5/<sup>兴化</sup>, /ɕiəŋ5/<sup>如皋</sup></small> 病痛波及他处\[泰州：生出恶性脓疮后的疼痛感觉，即由脓疮部位放射至其他部位的疼痛感\]\[如皋：由病灶波及\]\[兴化：肿痛波及他处\]：牙子疼～吖骨头里去啊<sup>\[如皋\]</sup>｜手爪儿疼，夹肢窝里～起𣝗子来啊<sup>\[如皋\]</sup>｜大腿丫巴疼得～起𣝗子来。<sup>\[兴化\]</sup>｜牙疼把半脸～吖肿起来。<sup>\[兴化\]</sup>｜屁股上生吖个疖子，大腿根子都～吖疼。<sup>\[泰州\]</sup>  
 1. 【[臖𣝗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_veh.md#臖𣝗)】`xien5 veh8` <sup>[东台]</sup> （腹股沟）淋巴发炎而成的肿块。（臖，《广韵》“许应切，肿起。”）  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien.md#□)】`xien6` <sup>[如东]</sup> 动：不～。  
-1. 【[□动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_ton.md#□动)】`xien6 ton` <sup>[如东]</sup> 轻微地震动：载重卡车在公路上行驶，楼房都～。  
+1. 【[□动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_ton.md#□动)】`xien6 ton` <small>/ɕiŋ1 tʰɔŋ/<sup>泰兴</sup></small> 轻微地震动。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>：载重卡车在公路上行驶，楼房都～。<sup>\[如东\]</sup>  
 1. 【[幸灾乐祸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_zae_lah_hu.md#幸灾乐祸)】`xien6 zae1 lah8 hu6` <sup>[如东]</sup> 别人遭到灾难时自己心里高兴。  
 1. 【[杏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien.md#杏)】`xien6` <sup>[如东]</sup> 蔷薇科植物杏，落叶乔木。高约9米。树皮暗红棕色，幼叶光滑，有纵裂。叶互生，卵圆形，边缘有细锯齿。叶柄长，带红色。花先叶开放，单生于小枝端白色或粉红色。核果黄红色，心脏形。野生或栽培。  
 1. 【[杏花雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_hua_y.md#杏花雨)】`xien6 hua1 y3` <sup>[如皋]</sup> 农历二月间的雨。  
