@@ -506,7 +506,9 @@
 1. 【[硭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_zz.md#硭子)】`man2 zz` <sup>[兴化]</sup> 用表芯纸搓成的火枚子。硭，《广韵·阳韵》武方切：硭硝。  
 1. 【[硭子卷<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_zz_jiun_r.md#硭子卷<sub>儿</sub>)】`man2 zz jiun3 r` <sup>[如皋]</sup> 卷子过程中，先将一迭瘦长的纸打成卷儿即是。  
 1. 【[硭子纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_zz_zhr.md#硭子纸)】`man2 zz zhr3` <sup>[如皋]</sup> 稻草制的含硭硝的纸，搓成细长纸卷，可以引燃，吸水烟的必须品。  
+1. 【[硭子纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_zz_zhr.md#硭子纸)】`man2 zz zhr3` <small>/mɑŋ2 t͡sɿ t͡sɿ3/<sup>泰兴</sup></small> 旧时吸水烟所用的燃火小纸卷，油灯灯芯的纸，质地极轻而易燃，吸油后则耐燃。<sup>\[泰兴\]</sup>  
 1. 【[芒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man.md#芒)】`man2` ① 针状物：麦～｜钟～ ② 动物的触须：虾～  
+1. 【[芒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man.md#芒)】`man2` <small>/mɑŋ2/<sup>泰兴</sup></small> ① 稻麦子实外壳上长的细刺<sup>\[泰兴\]</sup> ② 鱼类的细骨刺<sup>\[泰兴\]</sup>  
 1. 【[芒棵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_ku.md#芒棵)】`man2 ku1` <sup>[如皋]</sup> 一种岸草。心叶可搓绳，茎叶可扼帘子。  
 1. 【[芒头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_teu.md#芒头)】`man2 teu` <small>/mã2 tʰei/<sup>如皋</sup></small> ① 烟酒的刺激力度：洋河大曲润和，不像烧酒的～大。<sup>\[如皋\]</sup> ② 锋芒<sup>\[东台\]</sup>：这把薄刀虽然用的时间不短，还蛮有～的。<sup>\[东台\]</sup>  
 1. 【[芒头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_teu.md#芒头)】`man2 teu2` <sup>[兴化]</sup> ① 锋芒、锋头：锥子太细，～容易碰断。 ② 稻麦等子实外壳上长的针状物。  

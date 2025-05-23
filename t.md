@@ -362,11 +362,14 @@
 1. 【[托不住砣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_beh_chv_tu.md#托不住砣)】`tah7 beh7 chv6 tu2` <sup>[如皋]</sup> 指秤尾偏下。见“袒”。  
 1. 【[托兆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_cho.md#托兆)】`tah7 cho6` <small>/tʰɑʔ7 t͡sʰɔ1/<sup>泰县</sup></small> ① 一种迷信说法。鬼神在梦中传来阴间的信息或指点迷津，叫做托兆。<sup>\[如东\]</sup> ② 迷信中把梦幻说成是鬼神在暗中作崇。<sup>\[泰县\]</sup>  
 1. 【[托大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_da.md#托大)】`tah7 da6` <sup>[兴化]</sup> ① 粗心大意：出门在外各方小心，不可～。 ② 妄自尊大，傲慢少礼：谁想满生是个轻薄后生……安然～，忘其所以。（《二刻》十一）  
+1. 【[托大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_da.md#托大)】`tah7 da6` <small>/tʰɑʔ7 tɑ1/<sup>泰兴</sup></small> 倨傲自尊，拿架子。犹言大二小三<sup>\[泰兴\]</sup>：不要以为做啊官就～，在老百姓面前摆架子。<sup>\[泰兴\]</sup>  
 1. 【[托胆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_daen.md#托胆)】`tah7 daen3` <sup>[兴化]</sup> 跟可信的人一起而放开心怀：“见丈人引来，是内亲了，故此～……”（《水浒后传》三六）  
 1. 【[托底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_di.md#托底)】`tah7 di3` <sup>[兴化]</sup> 知道底细，心中有数：凭一张广告就往广州跑，心里不～。  
+1. 【[托福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_foh.md#托福)】`tah7 foh7` <small>/tʰɑʔ7 fɔʔ7/<sup>泰兴</sup></small> 客套语。谓依赖别人的福气使自己幸运。<sup>\[泰兴\]</sup>：箇桩事得咖成，是托的他的福<sup>\[泰兴\]</sup>  
 1. 【[托鹰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_ien.md#托鹰)】`tah7 ien1` <sup>[如东]</sup> 训鹰的一种方法。把野鹰托在手臂上，到人多嘈杂的地方去走动，训练野鹰的胆量。比喻把小儿抱在手上，到人多热闹的地方去玩耍。  
 1. 【[托老实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_lo_sheh.md#托老实)】`tah7 lo3 sheh` <small>/tʰaʔ7 lɔ3 səʔ/<sup>兴化</sup></small> ① 老实不客气、不拘礼的意思<sup>\[东台\]</sup>：老朋友，你就～，时间不早啊，就在我家吃顺便饭。<sup>\[东台\]</sup> ② 别客气、不客气<sup>\[兴化\]</sup>：你今吖～在这块吃饭。<sup>\[兴化\]</sup>｜好的，我今朝～就扰你一顿中饭。<sup>\[兴化\]</sup>  
 1. 【[托盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_pun.md#托盘)】`tah7 pun2` <sup>[如皋]</sup> 端送碗、盘的长方形木盘。可为礼盘。  
+1. 【[托人情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_ren_qien.md#托人情)】`tah7 ren2 qien2` <small>/tʰɑʔ7 ɻəŋ2 t͡ɕʰiŋ2/<sup>泰兴</sup></small> 请别人代为说情。<sup>\[泰兴\]</sup>：你去托个人情，说不定事情能办成<sup>\[泰兴\]</sup>  
 1. 【[托熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_shoh.md#托熟)】`tah7 shoh8` <sup>[东台]</sup> 因为彼此熟悉，言行比较随便：我依亲～到你家吃饭。  
 1. 【[托戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_xi.md#托戏)】`tah7 xi5` <sup>[泰县]</sup> 木偶戏。  
 1. 【[拓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah.md#拓)】`tah7` <sup>[如皋]</sup> 复描：～花样、～片。  

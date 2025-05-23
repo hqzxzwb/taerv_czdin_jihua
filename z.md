@@ -1307,11 +1307,13 @@
 1. 【[芝麻饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ma_bien.md#芝麻饼)】`zhr1 ma bien3` <sup>[如东]</sup> 糕点的一种。饼的表面粘着芝麻，叫做芝麻饼。  
 1. 【[芝麻茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ma_cha.md#芝麻茶)】`zhr1 ma cha2` <sup>[如皋]</sup> 旧时待客的饮料，用炒芝麻加糖，开水冲泡而成。  
 1. 【[芝麻钉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ma_dien.md#芝麻钉)】`zhr1 ma dien1` <sup>[泰州]</sup> 一种长约1厘米的细小铁钉。  
+1. 【[芝麻钉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ma_dien.md#芝麻钉)】`zhr1 ma dien1` <small>/t͡sɿ1 mɑ tiŋ1/<sup>泰兴</sup></small> 一种很小的铁钉。<sup>\[泰兴\]</sup>  
 1. 【[芝麻稭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ma_gae.md#芝麻稭)】`zhr1 ma gae1` <sup>[如东]</sup> 胡麻科植物芝麻茎。  
 1. 【[芝麻瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ma_gua.md#芝麻瓜)】`zhr1 ma gua1` <sup>[如东]</sup> 香瓜的一个品种，圆柿形，皮淡青白色。味香，汁甜。  
 1. 【[芝麻花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ma_hua.md#芝麻花)】`zhr1 ma hua1` <sup>[如东]</sup> 胡科植物芝麻花。  
 1. 【[芝麻油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ma_ieu.md#芝麻油)】`zhr1 ma ieu2` <sup>[如东]</sup> 芝麻炒熟，磨碎，放在缸中，用铜球轻轻晃动，使油脂浮上来。这种油，具特殊香味。也叫香油、麻油。  
 1. 【[芝麻酱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ma_jian.md#芝麻酱)】`zhr1 ma jian5` <sup>[如东]</sup> 以芝麻为主要原料制成的酱，叫做芝麻酱。味香。可作调料。  
+1. 【[芝麻开花节节高](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ma_kae_hua_jih_jih_go.md#芝麻开花节节高)】`zhr1 ma kae1 hua1 jih7 jih7 go1` <small>/t͡sɿ1 mɑ kʰɛ1 xuɑ1 t͡ɕiʔ7 t͡ɕiʔ7 kɔ1/<sup>泰兴</sup></small> 吉利语。谓步步登高。<sup>\[泰兴\]</sup>  
 1. 【[芝麻壳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ma_kah.md#芝麻壳)】`zhr1 ma kah7` <sup>[如东]</sup> 胡麻科植物芝麻果壳。  
 1. 【[芝麻梨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ma_li.md#芝麻梨)】`zhr1 ma li2` <sup>[如皋]</sup> 一种梨形甜瓜。  
 1. 【[芝麻酥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ma_sv.md#芝麻酥)】`zhr1 ma sv1` <sup>[如东]</sup> 糕点的一种。在原料中放入芝麻粉做成的糕，叫做芝麻酥。  

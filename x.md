@@ -1057,6 +1057,7 @@
 1. 【[𢭆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu.md#𢭆)】`xieu1` <sup>[如东]</sup> 扭动：我抓啊一条鱼，捱它～啊𠫓掉啊。  
 1. 【[𢫩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu.md#𢫩)】`xieu2` <small>/ɕyʊ2/<sup>如皋</sup></small> ① 偷<sup>\[如皋\]</sup>：把钱～啊走啊。<sup>\[如皋\]</sup> ② 口吸<sup>\[如皋\]</sup>：吃鱼脑子，用嘴一～就出来啊。<sup>\[如皋\]</sup> ③ 短、缩<sup>\[如皋\]</sup>：衣袖～上去啊。<sup>\[如皋\]</sup> ④ （形声借字）  
 1. 【[朽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu.md#朽)】`xieu3` <sup>[泰州]</sup> 不可救药：他现在是吃喝嫖赌全花色，～掉啊唻。  
+1. 【[朽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu.md#朽)】`xieu3` <small>/ɕiɤɯ3/<sup>泰兴</sup></small> 腐烂，腐朽。<sup>\[泰兴\]</sup>：台子脚～掉了<sup>\[泰兴\]</sup>  
 1. 【[𢩨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu.md#𢩨)】`xieu3` <sup>[如皋]</sup> ① 身体轻轻地动：细伢儿～啊～的，把手伸出来啊。 ② 喻恢复力量、创业：你借点儿本钱我。让我～～再还你。  
 1. 【[嗅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu.md#嗅)】`xieu5` <sup>[如东]</sup> 用嘴唇抽吸食物：吃骨髓要用嘴唇～。  
 1. 【[嗅鼻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_pieh_r.md#嗅鼻<sub>儿</sub>)】`xieu5 pieh8 r` <sup>[如皋]</sup> ① 鼻子不断嗅气的动作。 ② 鼻子收缩的样子。  

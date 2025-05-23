@@ -142,6 +142,7 @@
 1. 【[纬管<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_gun_r.md#纬管<sub>儿</sub>)】`y6 gun3 r` <sup>[如皋]</sup> 纬纱绽子。  
 1. 【[纬纱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_sha.md#纬纱)】`y6 sha1` <sup>[如皋]</sup> 纬纱。  
 1. 【[芋草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_co.md#芋草)】`y6 co3` <small>/y1 t͡sʰɔ3/<sup>如皋</sup></small> ① 榨油时称狼尾草。<sup>\[如皋\]</sup> ② 草本植物，叶细长，呈丛生状态，也称芋科桩儿，农村常用作土地分界物，叶枯黄后用于搓绳，扎粽子。<sup>\[东台\]</sup>  
+1. 【[芋荷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_hu.md#芋荷)】`y6 hu` <small>/y1 xɤɯ/<sup>泰兴</sup></small> 芋头叶子，其状若荷叶，故称。煮熟可作猪饲料。<sup>\[泰兴\]</sup>  
 1. 【[芋苗籽<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_mio_zz_r.md#芋苗籽<sub>儿</sub>)】`y6 mio2 zz3 r` <sup>[东台]</sup> 芋头籽粒，比龙头芋（大芋头）嫩、软，可口，富含淀粉，炒菜、烧汤皆可。  
 1. 【[芋头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_teu.md#芋头)】`y6 teu` 芋的地下球形块茎。<sup>\[泰州\]</sup>  
 1. 【[芋头浮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_teu_fv_zz.md#芋头浮子)】`y6 teu fv2 zz` <sup>[如皋]</sup> 芋的叶和叶柄。水浮于叶面，不沾水，战名。  

@@ -235,6 +235,7 @@
 1. 【[差起来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_qi_lae_a.md#差起来啊)】`cha1 qi lae a` <sup>[如皋]</sup> 因预计不足而临场供应不够：菜吃咖～，要赶紧加菜。  
 1. 【[差<sub>儿</sub>不多的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_r_beh_du_dii.md#差<sub>儿</sub>不多的)】`cha1 r beh7 du1 dii` 一般的，普通的，通常的：～人哪个懂㗁？/一般人谁懂啊？  
 1. 【[差掉啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_tio_a.md#差掉啊)】`cha1 tio a` <sup>[如皋]</sup> 因被多占而致短缺：第一批来的人多，把第二批人的份～。  
+1. 【[扠鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ji.md#扠鸡)】`cha1 ji1` <small>/t͡sʰɑ1 t͡ɕʝ1/<sup>泰兴</sup></small> 骂人语。谓作贼盗窃。或谓扠鸡贼。<sup>\[泰兴\]</sup>  
 1. 【[扠鸡贼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ji_ceh.md#扠鸡贼)】`cha1 ji1 ceh8` <small>/t͡sʰa1 t͡ɕi1 t͡sʰəʔ8/<sup>兴化</sup>, /t͡sʰa1 t͡ɕʝ1 t͡sʰəʔ8/<sup>如皋</sup></small> ① 从路边偷鸡的贼。<sup>\[如皋\]</sup> ② 专门偷鸡的人。<sup>\[兴化\]</sup> ③ 泛指有偷摸行为的人。<sup>\[兴化\]</sup>  
 1. 【[扠交易](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_jio_i.md#扠交易)】`cha1 jio1 i` <sup>[如皋]</sup> 把同行的顾客拉过来。这是经商的大忌。  
 1. 【[扠口袋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_keu_tae.md#扠口袋)】`cha1 keu3 tae6` <sup>[如皋]</sup> 一种特大的布袋，袋口分衩，方底。  

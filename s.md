@@ -2905,7 +2905,8 @@
 1. 【[扫帚眉毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_zheu_mi_mo.md#扫帚眉毛)】`so5 zheu3 mi2 mo2` <sup>[如东]</sup> 粗眉：吴强有一副漂亮的～。  
 1. 【[扫帚星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_zheu_xien.md#扫帚星)】`so5 zheu3 xien1` <sup>[如东]</sup> 慧星。迷信者认为此星是凶相。比喻良心不好的人。  
 1. 【[扫竹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_zhoh.md#扫竹)】`so5 zhoh7` <sup>[兴化]</sup> 小竹枝条扎成的长柄扫帚，用于清扫街道、庭院或农村的打谷场。  
-1. 【[扫竹星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_zhoh_xien.md#扫竹星)】`so5 zhoh7 xien1` <small>/sɔ5 t͡sɔʔ7 ɕin1/<sup>兴化</sup></small> ① 彗星。<sup>\[兴化\]</sup> ② （喻）指败家或制造不和者（多指女性）<sup>\[兴化\]</sup>：这个～，把家里搅得六畜不安！<sup>\[兴化\]</sup> ③ 詈骂败家或引起家庭不和的妇女的词。《封神演义》中姜子牙的妻子马氏生前不贤，死后被封为“扫帚星”。旧时迷信遂认为扫帚星一旦出现，则有战祸、天灾，如果女子命犯扫竹星，会给家族带来灾难或者厄运。<sup>\[泰州\]</sup>  
+1. 【[扫竹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_zhoh.md#扫竹)】`so5 zhoh7` <small>/sɔ5 t͡sɔʔ7/<sup>泰兴</sup></small> 大扫帚。<sup>\[泰兴\]</sup>  
+1. 【[扫竹星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_zhoh_xien.md#扫竹星)】`so5 zhoh7 xien1` <small>/sɔ5 t͡sɔʔ7 ɕin1/<sup>兴化</sup>, /sɔ5 t͡sɔʔ7 ɕiŋ1/<sup>泰兴</sup></small> ① 彗星。<sup>\[兴化\]</sup> ② （喻）指败家或制造不和者（多指女性）<sup>\[兴化\]</sup>：这个～，把家里搅得六畜不安！<sup>\[兴化\]</sup> ③ 詈骂败家或引起家庭不和的妇女的词。《封神演义》中姜子牙的妻子马氏生前不贤，死后被封为“扫帚星”。旧时迷信遂认为扫帚星一旦出现，则有战祸、天灾，如果女子命犯扫竹星，会给家族带来灾难或者厄运。<sup>\[泰州\]</sup> ④ 彗星的俗称。前人迷信出现彗星为不祥之兆。《黄桥烧饼歌》：“天上有个～，地下有个韩德勤⋯”<sup>\[泰兴\]</sup>  
 1. 【[燥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so.md#燥)】`so5` <sup>[如皋]</sup> 干燥：天～、风～天。  
 1. 【[燥市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_shr.md#燥市)】`so5 shr6` <sup>[如皋]</sup> 特别畅销的行情。  
 1. 【[臊气娘娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_qi_nian_nian.md#臊气娘娘)】`so5 qi nian2 nian` <sup>[兴化]</sup> 即“马陆”，一种小型节肢动物，暗红色，触角和步足极细，生活在阴湿的地方，有臭腺孔，能放出像胺那样的气味。  

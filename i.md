@@ -331,13 +331,15 @@
 1. 【[佯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian.md#佯)】`ian2` <sup>[如东]</sup> 人在要死亡而尚未死亡时的迷糊状态，叫做佯：王二～吖在家里。  
 1. 【[佯咳嗽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_keh_seu.md#佯咳嗽)】`ian2 keh7 seu5` <sup>[如皋]</sup> 假装咳嗽，以示告知、警告、提醒：老爹醒睡，夜的里他家门口经过，停吖刻儿，他就～。  
 1. 【[佯心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_xien.md#佯心)】`ian2 xien1` <sup>[东台]</sup> 装模作样给人看，自以为别人不懂。  
+1. 【[扬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian.md#扬)】`ian2` <small>/iɑŋ2/<sup>泰兴</sup></small> 乘风去秕。<sup>\[泰兴\]</sup>  
 1. 【[扬䜺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_chae_r.md#扬䜺<sub>儿</sub>)】`ian2 chae3 r` <small>/iã2 t͡sʰɛ˞3/<sup>如皋</sup>, /iɑŋ2 t͡sʰe3 ɚ/<sup>泰县</sup></small> ① 煮䜺儿粥时，待锅中水沸，将䜺儿飘入汤中，并不断搅动。<sup>\[如皋\]</sup> ② 将元麦或大麦䜺儿倒进锅里煮成粥或饭。<sup>\[如东\]</sup> ③ 用麦粉煮稀饭的一种方法。<sup>\[泰县\]</sup>  
 1. 【[扬䜺子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_chae_zz.md#扬䜺子)】`ian2 chae3 zz` <sup>[兴化]</sup> 煮䜺子粥时，将䜺子均匀地撒在温水锅中煮熟，以免生团、夹生。  
-1. 【[扬场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_chan.md#扬场)】`ian2 chan2` 用机器、板锨等，扬起谷物，借风除去其中杂物（壳、叶、尘土等）<sup>\[东台\]</sup><sup>\[泰州\]</sup>  
+1. 【[扬场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_chan.md#扬场)】`ian2 chan2` <small>/iɑŋ2 t͡sʰɑŋ2/<sup>泰兴</sup></small> 用机器、板锨等，扬起谷物，借风除去其中杂物（壳、叶、尘土等）<sup>\[东台\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>  
 1. 【[扬而㗘之](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_er_pah_zhr.md#扬而㗘之)】`ian2 er2 pah7 zhr1` <sup>[泰州]</sup> 人说话随意轻浮：这小伙是个头号甩子，说话～的，没得点儿数，你不要睬他。  
 1. 【[扬风车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_fon_cha.md#扬风车)】`ian2 fon1 cha1` <sup>[泰县]</sup> 用风力提水的水车。  
 1. 【[扬𠵹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_gan.md#扬𠵹)】`ian2 gan1` <small>/iaŋ2 kaŋ1/<sup>兴化</sup>, /iã2 kã1/<sup>如皋</sup>, /iɑŋ2 kɑŋ1/<sup>泰县</sup></small> ① 造舆论、造气氛，扬言<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：他～要告你，这是讹诈，你不要买账。<sup>\[如皋\]</sup>｜那家伙不服管理，～还要闹事。<sup>\[东台\]</sup>｜老田～，这次不分房子把他，就找头头的麻烦。<sup>\[兴化\]</sup>｜他在～要打你啦。<sup>\[泰县\]</sup>｜他在外头～，哪个敢拆他房子他就同哪个拼命。<sup>\[泰州\]</sup>｜老头子～吖几回唻，哪个代他把二十万的债坏掉，就把姑娘把哪个。<sup>\[泰州\]</sup> ② 事前造的舆论。<sup>\[东台\]</sup>  
 1. 【[扬花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_hua.md#扬花)】`ian2 hua1` <sup>[如东]</sup> ① 植物放花受精。 ② 女人在外面的轻佻行为：她经常在外头～。  
+1. 【[扬花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_hua.md#扬花)】`ian2 hua1` <small>/iɑŋ2 xuɑ1/<sup>泰兴</sup></small> 水稻、小麦、高粱等作物开花时，柱头伸出，花粉飞散，称扬花。<sup>\[泰兴\]</sup>  
 1. 【[扬一㧟二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ieh_kuae_er.md#扬一㧟二)】`ian2 ieh7 kuae3 er6` <sup>[泰州]</sup> 人在得意之极时的举止轻浮样子：你哿能好好的走路啊，这吖大的人唻，～的，人家望吖像个甚的样子。  
 1. 【[扬口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_keu.md#扬口)】`ian2 keu3` <sup>[东台]</sup> 贝类动物出水后开口，即外壳微微张开。  
 1. 【[扬麦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_moh.md#扬麦)】`ian2 moh8` <sup>[如东]</sup> 麦子打下来后，用畚箕畚着放在风中向下撒，把麦壳麦芒吹掉，这种劳动叫扬麦。  

@@ -36,6 +36,7 @@
 1. 【[机面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_min.md#机面)】`ji1 min6` <sup>[如东]</sup> 用轧面机生产出来的面条，称机面。有细条的，有粗条的，有方形的，有扁形的。  
 1. 【[机器脚踏车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_qi_jiah_taeh_cha.md#机器脚踏车)】`ji1 qi5 jiah7 taeh cha1` <sup>[兴化]</sup> ① 带发动机的自行车。 ② 摩托车。  
 1. 【[机器快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_qi_kuae.md#机器快)】`ji1 qi5 kuae5` <small>/t͡ɕʝ1 t͡ɕʰʝ5 kʰuɛ5/<sup>如皋</sup></small> ① 一种老式的内河机动船，吨位小，载客，也载物。<sup>\[如东\]</sup> ② 内河用机器推动的客船。<sup>\[如皋\]</sup>  
+1. 【[机匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_qian.md#机匠)】`ji1 qian6` <small>/t͡ɕʝ1 t͡ɕʰiɑŋ1/<sup>泰兴</sup></small> 旧时从事丝、棉织业工匠的通称。<sup>\[泰兴\]</sup>  
 1. 【[稽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#稽)】`ji1` <sup>[如皋]</sup> 虘，耍赖皮：他来啊输掉啊就赌～（玩～）。  
 1. 【[稽宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_bo_r.md#稽宝<sub>儿</sub>)】`ji1 bo3 r` <sup>[如皋]</sup> 惯耍赖皮的人。  
 1. 【[稽家宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ga_bo_r.md#稽家宝<sub>儿</sub>)】`ji1 ga1 bo3 r` <sup>[如皋]</sup> 惯耍赖皮的人。  
@@ -618,11 +619,12 @@
 1. 【[吃愣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_len.md#吃愣)】`jieh7 len6` <sup>[如皋]</sup> 结巴，口吃。  
 1. 【[吃砟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_zha.md#吃砟)】`jieh7 zha3` <sup>[泰州]</sup> ① （泰州词典作吃𧬅） ② 比喻能力低下的人：你不要望他人模狗样的，实骨子就是个～，这件事就不要指望他唻。  
 1. 【[吉房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_fan.md#吉房)】`jieh7 fan2` <sup>[兴化]</sup> 空房，召租时的招徕用语：～召租。  
+1. 【[吉言](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_in.md#吉言)】`jieh7 in2` <small>/t͡ɕiʔ7 ĩ2/<sup>泰兴</sup></small> 好话，善言。吉祥之言。<sup>\[泰兴\]</sup>：借你的～，今朝赚吖笔钱<sup>\[泰兴\]</sup>  
 1. 【[吉鹂<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_li_r.md#吉鹂<sub>儿</sub>)】`jieh7 li2 r` <sup>[如东]</sup> 云雀．又名钻天。羽毛赤褐色，有黑色斑纹，嘴小而尖，翅膀大，飞得高，常在空中鸣叫，声音婉转好听。  
-1. 【[吉利](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_li.md#吉利)】`jieh7 li6` <sup>[如东]</sup> 吉祥顺利：图个～。  
+1. 【[吉利](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_li.md#吉利)】`jieh7 li6` <small>/t͡ɕiʔ7 lʝ1/<sup>泰兴</sup></small> 吉祥顺利。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>：图个～。<sup>\[如东\]</sup>  
 1. 【[吉祥草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_qian_co.md#吉祥草)】`jieh7 qian2 co3` ① 多年生草本常绿植物。叶细长，丛生茎上。和如意草、万年青均为办喜事用的花草。<sup>\[东台\]</sup> ② 草名，多年生草本植物，茎贴地面，叶片细长，从生茎上，佛经上说释迦牟尼成道之日持吉祥草。民俗，搬家之时，万年青、吉祥草首先入门，取其万年吉祥之义。<sup>\[泰州\]</sup>  
 1. 【[吉人自有天相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_ren_cz_ieu_tin_xian.md#吉人自有天相)】`jieh7 ren2 cz6 ieu3 tin1 xian5` <sup>[东台]</sup> 旧俗说好人有上天保佑。  
-1. 【[吉日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_rih.md#吉日)】`jieh7 rih8` <sup>[东台]</sup> 吉利的日子，好日子。  
+1. 【[吉日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_rih.md#吉日)】`jieh7 rih8` <small>/t͡ɕiʔ7 iʔ8/<sup>泰兴</sup></small> 吉利的日子，好日子。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[吉数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_shv.md#吉数)】`jieh7 shv5` <sup>[如皋]</sup> 吉利的数字。如六、八、九等。  
 1. 【[吉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_zz.md#吉子)】`jieh7 zz` <sup>[东台]</sup> 红包喜：打个～给宝宝。  
 1. 【[墼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh.md#墼)】`jieh7` <sup>[泰州]</sup> 不经砖窑烧的大土砖，体积约为烧纸砖的数倍：过去下河农村全是土～起的草房。  

@@ -434,6 +434,7 @@
 1. 【[扣宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_bo_r.md#扣宝<sub>儿</sub>)】`keu5 bo3 r` <sup>[如东]</sup> 第一个孩子夭折了，第二个孩子叫扣宝儿，谓扣住之意。  
 1. 【[扣虾<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_ha_r.md#扣虾<sub>儿</sub>)】`keu5 ha1 r` <sup>[如皋]</sup> 用一根芦柴芯头扣螺肉作饵，另一根芦芯叶尖作活扣伸入水中，从沼虾尾部套入腹部，快提，可捉住。  
 1. 【[扣脚陷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_jiah_haen.md#扣脚陷)】`keu5 jiah7 haen6` <sup>[东台]</sup> 因琐事缠身走不开：退啊休本来想外去走走，但两三岁的孙子是个～｜门卫职位虽不高，但责任大，离不开，是个～。  
+1. 【[扣媒人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_mei_ren.md#扣媒人)】`keu5 mei2 ren2` <small>/kʰəɪ5 məɪ2 ɻəŋ2/<sup>泰兴</sup></small> 民俗。女方出嫁之日，红媒领男方来娶亲，女方则要派人与媒人“计较”，扣其腿而作其乐，称为“扣媒人”，以增加喜庆热闹气氛。<sup>\[泰兴\]</sup>  
 1. 【[扣青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_qien.md#扣青)】`keu5 qien1` <sup>[如皋]</sup> 把青草等埋入土中作基肥。又作埋青。  
 1. 【[扣锹<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_qio_r.md#扣锹<sub>儿</sub>)】`keu5 qio1 r` <sup>[如东]</sup> 农具。锹身较长，半圆形，有长柄。用于田间拉槽播种或拉沟排水。  
 1. 【[扣圈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_qiun.md#扣圈)】`keu5 qiun6` <small>/kʰɤ5 t͡ɕʰyũ6/<sup>兴化</sup>, /kʰɤɯ5 t͡ɕʰyõ1/<sup>泰县</sup></small> ① 养猪无圈舍，而是用绳扣着猪的前腿，固定在一处饲养。区别于“散养”。<sup>\[兴化\]</sup> ② 扣养的猪。<sup>\[泰县\]</sup>  
