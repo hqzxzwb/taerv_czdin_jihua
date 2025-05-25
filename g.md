@@ -1020,10 +1020,12 @@
 1. 【[过半](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_bun.md#过半)】`gu1 bun5` <small>/kɤɯ1 pʊ̃5/<sup>泰兴</sup></small> 超过一半。<sup>\[泰兴\]</sup>  
 1. 【[过分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_fen.md#过分)】`gu1 fen` <sup>[如皋]</sup> 过分。  
 1. 【[过火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_hu.md#过火)】`gu1 hu3` <sup>[如皋]</sup> ① 超过了火候：肉煮啊～咾，开始融吖。 ② 喻过分，超过了限度：批评得当，不～。  
+1. 【[过门风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_men_fon.md#过门风)】`gu1 men fon1` <small>/kɤɯ1 məŋ fɔŋ1/<sup>泰兴</sup></small> 穿堂风。<sup>\[泰兴\]</sup>  
 1. 【[过嘌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_pio.md#过嘌)】`gu1 pio3` <sup>[如皋]</sup> 过分：说话不能～，格占吖人迟早要吃亏的。  
 1. 【[过时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_shr.md#过时)】`gu1 shr2` <sup>[如皋]</sup> 过时。  
 1. 【[过时不候](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_shr_beh_heu.md#过时不候)】`gu1 shr2 beh7 heu6` <sup>[如皋]</sup> 预先声明用语，意为：超过了时间，就不等候了。  
 1. 【[过市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_shr.md#过市)】`gu1 shr6` <sup>[如皋]</sup> ① 过了经营时间。 ② 超过了时间，失去了时机：他去的刻儿人家倒散吖，老早～啊。  
+1. 【[过堂风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_tan_fon.md#过堂风)】`gu1 tan fon1` <small>/kɤɯ1 tʰɑŋ fɔŋ1/<sup>泰兴</sup></small> 通过穿堂、过道或相对门窗的风。<sup>\[泰兴\]</sup>  
 1. 【[过头话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_teu_hua.md#过头话)】`gu1 teu hua6` <small>/kɤɯ1 tʰəɪ xuɑ1/<sup>泰兴</sup></small> 超越了实际可能的话。乡人云：“宁吃过头饭，不说过头话。”<sup>\[泰兴\]</sup>  
 1. 【[过头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_teu.md#过头)】`gu1 teu2` ① 超过。<sup>\[如东\]</sup> ② 超出某个整十年龄点<sup>\[泰州\]</sup>：老李已经四十～唻。<sup>\[泰州\]</sup> ③ 超出事务正常的度<sup>\[泰州\]</sup>：这小伙有点儿聪明～，把人家都当呆子，就不好唻。<sup>\[泰州\]</sup>  
 1. 【[过头饭能吃，过头话不能说](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_teu_faen_nen_qieh_gu_teu_hua_beh_nen_shuh.md#过头饭能吃，过头话不能说)】`gu1 teu2 faen6 nen2 qieh7 gu1 teu2 hua6 beh7 nen2 shuh7` <sup>[东台]</sup> 说话要留有余地，不能说得太满太绝对。  

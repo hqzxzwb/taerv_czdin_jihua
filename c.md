@@ -92,7 +92,7 @@
 1. 【[在家千日好，出门一时难](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_ga_qin_rih_ho_chueh_men_ieh_shr_naen.md#在家千日好，出门一时难)】`cae6 ga1 qin1 rih8 ho3 chueh7 men2 ieh7 shr2 naen2` <sup>[东台]</sup> 从有亲人照料，日常用物熟悉，处处方便、环境适应等角度看，在家比外出好。  
 1. 【[在公在谱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_gon_cae_pv.md#在公在谱)】`cae6 gon1 cae6 pv3` <sup>[兴化]</sup> 说话、处事合理合法，使各方面都能接受：厂里对下岗工人的处理～，大家满意。  
 1. 【[在下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_ha.md#在下)】`cae6 ha6` <sup>[兴化]</sup> ① 存在、生存：钢笔哿～啊？一～哩！父母全～。 ② 在那儿，正在：小毛～算账哎。｜他～瞎说。  
-1. 【[在行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_han.md#在行)】`cae6 han2` <small>/t͡sʰɛ1 xã2/<sup>如皋</sup>, /t͡sʰe1 xɑŋ2/<sup>泰县</sup></small> 内行，熟谙某一行。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：生意上的事你没得她～。<sup>\[泰州\]</sup>  
+1. 【[在行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_han.md#在行)】`cae6 han2` <small>/t͡sʰɛ1 xã2/<sup>如皋</sup>, /t͡ɕʰiɛ1 xɑŋ2/<sup>泰兴</sup>, /t͡sʰe1 xɑŋ2/<sup>泰县</sup></small> 内行，熟谙某一行。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：生意上的事你没得她～。<sup>\[泰州\]</sup>  
 1. 【[在会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_huei.md#在会)】`cae6 huei6` <sup>[如皋]</sup> 参加了道会门。  
 1. 【[在乎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_hv.md#在乎)】`cae6 hv` <sup>[东台]</sup> 在意，介意：打人不～一掐｜他这个人交关大方，花这两个钱根本不～。  
 1. 【[在意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_i.md#在意)】`cae6 i5` <sup>[如东]</sup> ① 注意：不～，小明就跑出去啊。 ② 留意：我不曾～。  
@@ -1698,7 +1698,7 @@
 1. 【[穿腮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_sae.md#穿腮)】`chun1 sae1` <sup>[如东]</sup> 吃进粗而硬的食物，有刺腮的感觉：玉米䜺儿粗，吃起来～。  
 1. 【[穿梭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_su.md#穿梭)】`chun1 su1` <sup>[如东]</sup> 织布的梭子来回活动很快，比喻来往人员很快很多：操场上的人像～样的。  
 1. 【[穿蓑衣打火——惹火上身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_su_i_da_hu_ra_hu_shan_shen.md#穿蓑衣打火——惹火上身)】`chun1 su1 i1 da3 hu3 ra3 hu3 shan6 shen1` <sup>[东台]</sup>   
-1. 【[穿堂风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_tan_fon.md#穿堂风)】`chun1 tan2 fon1` ① 在两屋之间、大门与后窗之间穿过的风，称穿堂风。<sup>\[如东\]</sup> ② 穿堂而过的自然通风。<sup>\[东台\]</sup>  
+1. 【[穿堂风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_tan_fon.md#穿堂风)】`chun1 tan2 fon1` <small>/t͡sʰʊ̃1 tʰɑŋ2 fɔŋ1/<sup>泰兴</sup></small> ① 在两屋之间、大门与后窗之间穿过的风，称穿堂风。<sup>\[如东\]</sup> ② 穿堂而过的自然通风。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[穿堂屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_tan_oh.md#穿堂屋)】`chun1 tan2 oh7` <sup>[如皋]</sup> 作过道的房屋。  
 1. 【[穿头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_teu.md#穿头)】`chun1 teu2` <sup>[兴化]</sup> ① 见“超头”。 ② 抢在前头：工会组织老教师去扬州旅游，由主席～去安排食宿。也作“穿前”。  
 1. 【[穿西装戴瓜皮帽——土洋并举](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_xi_zhuan_dae_gua_pi_mo_tv_ian_pien_jy.md#穿西装戴瓜皮帽——土洋并举)】`chun1 xi1 zhuan1 dae5 gua1 pi2 mo6 tv3 ian2 pien6 jy3` <sup>[东台]</sup>   
@@ -2153,6 +2153,7 @@
 1. 【[存神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_shen.md#存神)】`cuen2 shen2` <small>/t͡sʰuən2 sən2/<sup>兴化</sup>, /t͡sʰuəŋ2 səŋ2/<sup>如皋</sup>, /t͡ɕʰyəŋ2 səŋ2/<sup>泰县</sup></small> 留神、当心、注意<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：出门要～。<sup>\[如东\]</sup>｜他平常说话非常～，惟恐得罪啊人。<sup>\[兴化\]</sup>｜这件事你～。<sup>\[泰县\]</sup>｜你同这种心术不正的人共事要～。<sup>\[泰州\]</sup>  
 1. 【[存细](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_xi.md#存细)】`cuen2 xi5` <small>/t͡sʰuəŋ2 ɕʝ5/<sup>如皋</sup></small> ① 留神，小心谨慎。<sup>\[如皋\]</sup> ② 细心；小心；当心<sup>\[东台\]</sup>：你同这个人打交道，要～啊！<sup>\[东台\]</sup>  
 1. 【[存心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_xien.md#存心)】`cuen2 xien1` <sup>[东台]</sup> 有意识地做某事（多含贬义）：你是～挖我的墙脚！  
+1. 【[存心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_xien.md#存心)】`cuen2 xien1` <small>/t͡sʰuəŋ2 ɕiŋ1/<sup>泰兴</sup></small> 居心；心中早有预谋、计划。<sup>\[泰兴\]</sup>  
 1. 【[存账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_zhan.md#存账)】`cuen2 zhan5` <sup>[如东]</sup> 把资金存人账户。  
 1. 【[寸骨寸伤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_gueh_cuen_shan.md#寸骨寸伤)】`cuen5 gueh7 cuen5 shan1` <small>/t͡sʰuən5 kuəʔ7 t͡sʰuən5 saŋ1/<sup>兴化</sup></small> ① 伤筋断骨。<sup>\[如东\]</sup>：何必动手，打得～的。<sup>\[如东\]</sup> ② 形容遍体鳞伤<sup>\[兴化\]</sup>：那两旁边妇人一齐答应，一齐乱打，打得二人～。（《八窍珠》九）<sup>\[兴化\]</sup>  
 1. 【[寸金糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_jien_tan.md#寸金糖)】`cuen5 jien1 tan2` <small>/t͡sʰuən5 t͡ɕin1 tʰaŋ2/<sup>兴化</sup>, /t͡sʰuəŋ5 t͡ɕiəŋ1 tʰã2/<sup>如皋</sup></small> ① 用糖稀做成的糖棍。其内包桂花糖、芝麻屑儿，外裹芝麻，色泽金黄，长约寸许。<sup>\[如皋\]</sup> ② 一种糖果，寸把长，外滚芝麻。<sup>\[东台\]</sup> ③ 由饴糖做成的小棍，内包砂糖、芝麻屑等，外沾艺麻，长寸许，酥甜可口。<sup>\[兴化\]</sup>  
