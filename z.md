@@ -1373,6 +1373,7 @@
 1. 【[置备](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_pei.md#置备)】`zhr5 pei6` <sup>[如皋]</sup> 添置物件。  
 1. 【[翅膀拐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ban_guae_zz.md#翅膀拐子)】`zhr5 ban guae3 zz` <sup>[兴化]</sup> 翅膀。（喻）自立能力：“～嘿，现在出落得像个人了，～硬了，瞧不起妈了……”（《马春阳作品选·月郎和她的娘舅们》）  
 1. 【[至诚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_chen.md#至诚)】`zhr5 chen2` <sup>[如皋]</sup> 人品高尚，诚笃。  
+1. 【[至诚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_chen.md#至诚)】`zhr5 chen2` <sup>[如东]</sup> 老实，真心：老人家～。  
 1. 【[至得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_deh.md#至得)】`zhr5 deh7` 顶多，最多  
 1. 【[至多](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_du.md#至多)】`zhr5 du1` <sup>[如皋]</sup> 最多，顶多。  
 1. 【[至恭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_gon.md#至恭)】`zhr5 gon1` <sup>[如皋]</sup> 人品高尚，诚笃。  
@@ -1380,7 +1381,6 @@
 1. 【[至日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_rih.md#至日)】`zhr5 rih8` <sup>[如皋]</sup> 夏至、冬至的当天。  
 1. 【[至早](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_zo.md#至早)】`zhr5 zo3` <sup>[兴化]</sup> 最早：“……便是你姨妹妹他们出来，～也须得到午饭时候～”（《广陵潮》六八）  
 1. 【[致](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr.md#致)】`zhr5` <sup>[如皋]</sup> 得（后遗症）：坐月子～下来的讲究（病）难得好。  
-1. 【[致诚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_chen.md#致诚)】`zhr5 chen2` <sup>[如东]</sup> 老实，真心：老人家～。  
 1. 【[𢴠<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_r.md#𢴠<sub>儿</sub>)】`zhr5 r` <small>/t͡sɿ5 ɚ/<sup>兴化</sup>, /t͡sɿ˞5/<sup>如皋</sup></small> ① 等长标识物<sup>\[如皋\]</sup>：拿篾子掐个～去买锅子。<sup>\[如皋\]</sup> ② 表示长短的标志物<sup>\[兴化\]</sup>：草～。<sup>\[兴化\]</sup> ③ 在墙壁、河岸等处刻画表示高度、长度的记号或在器物上表示分量的符号。𢴠，《集韵·至韵》直利切，持物使相当也。通常写作“志儿”。<sup>\[兴化\]</sup>  
 1. 【[𤈜熬熬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ngo_ngo.md#𤈜熬熬)】`zhr5 ngo2 ngo2` <small>/t͡sɿ5 ɔ2 ɔ2/<sup>兴化</sup></small> ① 形容炎热<sup>\[兴化\]</sup>：太阳晒得～的。<sup>\[兴化\]</sup> ② 夏天烈日暴晒带给人的炙烤油煎的感觉<sup>\[泰州\]</sup>：太阳太毒，外头晒得～的，人吃不消。<sup>\[泰州\]</sup>  
 1. 【[𤈜熬熬的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ngo_ngo_dii.md#𤈜熬熬的)】`zhr5 ngo2 ngo2 dii` <sup>[东台]</sup> （词典作炙，反切不合）形容像受烘烤、熬煎一样热得难受，通常在句末作补语：大家捱太阳晒得～。  

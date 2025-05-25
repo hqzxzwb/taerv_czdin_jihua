@@ -218,6 +218,7 @@
 1. 【[达当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_dan.md#达当)】`taeh8 dan` <sup>[如皋]</sup> 商定。  
 1. 【[达咖月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_ga_iuh.md#达咖月)】`taeh8 ga iuh8` <sup>[东台]</sup> 孕妇进入产前一个月内。  
 1. 【[达月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_iuh.md#达月)】`taeh8 iuh8` <small>/tʰeʔ8 yʊʔ8/<sup>如皋</sup></small> ① 临产的月份。<sup>\[如皋\]</sup> ② 孕妇进入临产月份，叫做达月。<sup>\[如东\]</sup>  
+1. 【[达子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_zz.md#达子)】`taeh8 zz` <small>/tʰæʔ8 t͡sɿ/<sup>泰兴</sup></small> 旧时汉人对金元北方民族的称呼。达，通“鞑”。乡人亦如此称。例：“骚达子。”<sup>\[泰兴\]</sup>  
 1. 【[闼子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_zz.md#闼子)】`taeh8 zz` <small>/tʰæʔ8 t͡sɿ/<sup>兴化</sup>, /tʰeʔ8 t͡sɿ/<sup>如皋</sup></small> ① 用木板制成的活动式的组合门。<sup>\[如皋\]</sup> ② 上在门坎槽里的长板门<sup>\[兴化\]</sup>：当三年学徒，每天早上起来下～，打扫……（兴文《刘熙载传说》）<sup>\[兴化\]</sup>｜第三年，陶家炮仗店的铺～门下了一把牛鼻子铁锁，再也打不开了。（汪曾祺《岁寒三友》）<sup>\[兴化\]</sup> ③ 一种由多块可移动的长方形门板组合而成的商铺面街大门，门板两端嵌在商店门面上下槽（上槽固定，下槽可以移动）内，商店开门之时一块一块卸走，关门之时一块一块装上，组成板壁，板壁中间由二块有轴的门板构成可开关的小门，以其“多个小门组合而成”，故名<sup>\[泰州\]</sup>：店里打烊唻，～都上吖好唻。<sup>\[泰州\]</sup>  
 1. 【[闼子门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_zz_men.md#闼子门)】`taeh8 zz men2` <small>/tʰeʔ8 t͡sɿ məŋ2/<sup>如皋</sup></small> ① 见“闼子”。<sup>\[如皋\]</sup> ② 旧时街道迎面的木板门。<sup>\[东台\]</sup>  
 1. 【[坍铳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_chon.md#坍铳)】`taen1 chon5` ① 丢脸，丢人 ② 丢面子。<sup>\[如东\]</sup>  
