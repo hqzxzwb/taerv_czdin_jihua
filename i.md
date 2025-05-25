@@ -1518,6 +1518,7 @@
 1. 【[有顿没顿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_den_meh_den.md#有顿没顿)】`ieu3 den5 meh8 den5` <sup>[东台]</sup> 吃了上顿，没有下顿：旧社会我家常常～。  
 1. 【[有底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_di.md#有底)】`ieu3 di3` <sup>[如东]</sup> 有限度：他说的数儿～。  
 1. 【[有底不为亏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_di_beh_vei_kuei.md#有底不为亏)】`ieu3 di3 beh7 vei2 kuei1` <sup>[兴化]</sup> 有一定的物质保证，才不会吃亏：他拿货物抵押向你借款，不怕他不还，这个叫～。  
+1. 【[有底码](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_di_ma.md#有底码)】`ieu3 di3 ma3` <small>/iɤɯ3 t͡ɕʝ3 mɑ3/<sup>泰兴</sup></small> 心中有底。<sup>\[泰兴\]</sup>  
 1. 【[有抵不为亏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_di_beh_vei_kuei.md#有抵不为亏)】`ieu3 di3 beh7 vei2 kuei1` <sup>[如皋]</sup> 经济往来的一种方式。有物抵算，即便收不到现钱也不为亏损。  
 1. 【[有的时候](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_dii_shr_heu.md#有的时候)】`ieu3 dii shr2 heu` <sup>[如皋]</sup> ① 有时，不经常。 ② 有了钱的时侯。  
 1. 【[有堆头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_duei_teu.md#有堆头)】`ieu3 duei1 teu` <sup>[如东]</sup> 数量很多：这批货～！  
@@ -1537,6 +1538,7 @@
 1. 【[有一顿，没一顿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_ieh_den_meh_ieh_den.md#有一顿，没一顿)】`ieu3 ieh7 den5 meh8 ieh7 den5` <sup>[兴化]</sup> 生活窘迫，三餐不周：这种～的苦日子何时到头啊？  
 1. 【[有一节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_ieh_jih.md#有一节)】`ieu3 ieh7 jih7` <sup>[泰县]</sup> 有过隔阂：他俫关系不好，因为以前～。  
 1. 【[有一手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_ieh_sheu.md#有一手)】`ieu3 ieh7 sheu3` <sup>[如皋]</sup> 有专长。  
+1. 【[有一手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_ieh_sheu.md#有一手)】`ieu3 ieh7 sheu3` <small>/iɤɯ3 iʔ7 ɕiɤɯ3/<sup>泰兴</sup></small> 在某一方面本领很高，有丰富的经验。<sup>\[泰兴\]</sup>  
 1. 【[有荣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_ion.md#有荣)】`ieu3 ion2` <small>/iɤ3 ioŋ2/<sup>兴化</sup></small> ① 自己觉得光彩<sup>\[兴化\]</sup>：你考试不及格还～吖？<sup>\[兴化\]</sup>｜“你当他们害羞？他们还当作～呢……”（《八窍珠》九）<sup>\[兴化\]</sup> ② 反语，没有光荣，讥讽那些做错事、做坏事还感觉光荣的人<sup>\[泰州\]</sup>：几门功课不及格，告诵人家做甚的，怕的还～㖸？<sup>\[泰州\]</sup>｜上吖桌就同人家女的说荤话，自家还觉像～得很。<sup>\[泰州\]</sup>  
 1. 【[有借有还，再借不难](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_jia_ieu_huaen_zae_jia_beh_naen.md#有借有还，再借不难)】`ieu3 jia5 ieu3 huaen2 zae5 jia5 beh7 naen2` <sup>[东台]</sup> 诚信才能持续发展。  
 1. 【[有津味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_jien_vei.md#有津味)】`ieu3 jien1 vei6` <sup>[如皋]</sup> ① 有香味，令人爱吃。 ② 有兴致：听得～。  
@@ -1604,6 +1606,7 @@
 1. 【[有说头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_shuh_teu.md#有说头)】`ieu3 shuh7 teu` <sup>[如皋]</sup> 值得说，有所据。  
 1. 【[有数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_shv.md#有数)】`ieu3 shv5` ① 心里清楚明白 ② 知道数目，心里清楚。<sup>\[如东\]</sup>：他是来要账的，我心里～。<sup>\[如东\]</sup> ③ 数目不多。<sup>\[如东\]</sup>：花这几个钱，～。<sup>\[如东\]</sup> ④ 了解，清楚，明白:账上还有钱，只有你会计个人～。丨到时候话该怎吖说，他心里～，你就不要担心唻。丨哪个真关心她，哪个是虚情假意，她心里～得很。<sup>\[泰州\]</sup>  
 1. 【[有数的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_shv_dii.md#有数的)】`ieu3 shv5 dii` <sup>[如皋]</sup> 尖端的、上乘的、出名的：如皋出的博士是～；真正的名牌产品是～。  
+1. 【[有数□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_shv_mah.md#有数□)】`ieu3 shv5 mah` <small>/iɤɯ3 su5 mɑʔ/<sup>泰兴</sup></small> 心中有数。<sup>\[泰兴\]</sup>  
 1. 【[有头发的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_teu_faeh_dii.md#有头发的)】`ieu3 teu2 faeh7 dii` <sup>[兴化]</sup> 指有身家、有责任能力的：他俫几个人撞的祸，人家只拣～的抓。  
 1. 【[有头有脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_teu_ieu_lin.md#有头有脸)】`ieu3 teu2 ieu3 lin3` <sup>[泰州]</sup> 具有脸面，多指具有一定地位、名誉的人：他家老的过世，局里几个～的人全部送吖花圈。｜今朝下午的会，基层单位～的人来得不多。  
 1. 【[有头无下梢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_teu_v_xia_sho.md#有头无下梢)】`ieu3 teu2 v2 xia6 sho1` <sup>[东台]</sup> 有头无尾，不了了之。  
@@ -1827,7 +1830,7 @@
 1. 【[魇魇<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_in_r.md#魇魇<sub>儿</sub>)】`in3 in3 r` <sup>[兴化]</sup> 梦中惊叫或自言自语。又谓“做响梦”。魇，《广韵·琰韵》於琰切：睡中魇也。  
 1. 【[䞁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in.md#䞁)】`in5` <small>/iɪ̃5/<sup>兴化</sup>, /ĩ5/<sup>如皋</sup>, /ĩ5/<sup>泰兴</sup>, /iɪ̃5/<sup>泰县</sup></small> ① 比较长短：来～～裤子哿嫌长。/来比一下看看裤子是不是太长。 ② 比较：两人～个子、两棒～长短。<sup>\[如皋\]</sup> ③ 比较长短高低<sup>\[东台\]</sup>：你俫两个来～下子，看哪个高些。《通俗编》“以两物较其长短曰䞁。”<sup>\[东台\]</sup> ④ 比量长短<sup>\[兴化\]</sup>：～～看，哪个高？《广韵》於建切“～，物相当也。”《通俗篇》“今以两物较其长短曰～。”<sup>\[兴化\]</sup> ⑤ 比较大小、长短、高低、远近<sup>\[泰州\]</sup>：你弄跟绳子～下子，望望这根木头长度够不够。<sup>\[泰州\]</sup> ⑥ 持械击打劈砍之前，先在想要击打劈砍的地方轻轻试一下<sup>\[泰州\]</sup>：你剁骨头～都不要～，剁下来的大小都差不多。<sup>\[泰州\]</sup>  
 1. 【[䞁当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_dan.md#䞁当)】`in5 dan` <sup>[如东]</sup> 以一物为标准，进行比较：你～下子，哿是一样长？  
-1. 【[厌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in.md#厌)】`in5` <small>/iɪ̃5/<sup>兴化</sup>, /ĩ5/<sup>如皋</sup></small> ① 贪玩，玩闹，顽皮，调皮。本字或为“宴”。 ② 小孩玩耍，顽皮。<sup>\[如皋\]</sup> ③ 玩耍、嬉闹、玩恶作剧：作～、伢儿欢喜～。<sup>\[如皋\]</sup> ④ （此处为动词）指小孩好动，玩弄不停<sup>\[东台\]</sup>：这宝宝作～，～得没魂，拿宝小把球～坏啊。<sup>\[东台\]</sup> ⑤ 顽皮<sup>\[兴化\]</sup>：“……我嘛，弄上五个讨债鬼，又皮又～，我就烦死了……”（《武松》六）<sup>\[兴化\]</sup> ⑥ 儿童调皮<sup>\[泰州\]</sup>：你家这细小伙～吖不得命，把金鱼缸里的鱼摝出来撂啊一地。<sup>\[泰州\]</sup>  
+1. 【[厌/宴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in.md#厌/宴)】`in5` <small>/iɪ̃5/<sup>兴化</sup>, /ĩ5/<sup>如皋</sup>, /ĩ5/<sup>泰兴</sup></small> ① 贪玩，玩闹，顽皮，调皮 ② 小孩玩耍，顽皮。<sup>\[如皋\]</sup> ③ 玩耍、嬉闹、玩恶作剧<sup>\[如皋\]</sup>：作～、伢儿欢喜～。<sup>\[如皋\]</sup> ④ 指小孩好动，玩弄不停<sup>\[东台\]</sup>：这宝宝作～，～得没魂，拿宝小把球～坏啊。<sup>\[东台\]</sup> ⑤ 顽皮<sup>\[兴化\]</sup>：“……我嘛，弄上五个讨债鬼，又皮又～，我就烦死了……”（《武松》六）<sup>\[兴化\]</sup> ⑥ 儿童调皮<sup>\[泰州\]</sup>：你家这细小伙～吖不得命，把金鱼缸里的鱼摝出来撂啊一地。<sup>\[泰州\]</sup> ⑦ 小孩调皮、惹嫌。<sup>\[泰兴\]</sup>  
 1. 【[厌不够](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_beh_geu.md#厌不够)】`in5 beh7 geu5` <sup>[如东]</sup> 经常的不停的调皮：这个伢儿～。  
 1. 【[厌话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_hua.md#厌话)】`in5 hua6` <sup>[兴化]</sup> 俏皮的、尖刻的话：你行就行，不行就不行，少说～。  
 1. 【[厌脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_jiah.md#厌脚)】`in5 jiah7` 特别调皮的小孩，皮大王  

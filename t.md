@@ -2180,7 +2180,7 @@
 1. 【[渡船口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_chun_keu.md#渡船口)】`tv6 chun2 keu3` <sup>[东台]</sup> 渡船停靠点，也叫渡口。  
 1. 【[渡槽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_co.md#渡槽)】`tv6 co2` <small>/tʰu1 t͡sʰɔ2/<sup>如皋</sup></small> ① 悬于河上的过水桥。槽中流水，槽面作路。<sup>\[如皋\]</sup> ② 悬于河上用于过水的木制或竹制槽沟。<sup>\[如东\]</sup>  
 1. 【[渡口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_keu.md#渡口)】`tv6 keu3` <sup>[如东]</sup> 渡船停靠的码头。用船渡人过河的地方。  
-1. 【[肚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv.md#肚)】`tv6` <sup>[东台]</sup> “肚”的又音：脸皮老老，～里饱饱/耳不听～不恼。  
+1. 【[肚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv.md#肚)】`tv6` <sup>[东台]</sup> “肚”的又音：脸皮老老，～里饱饱｜耳不听～不恼。  
 1. 【[肚才](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_cae.md#肚才)】`tv6 cae2` <sup>[兴化]</sup> 谓人内在的知识和智慧：覅看他说话不多，～不坏！  
 1. 【[肚里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_li.md#肚里)】`tv6 li` ① 心里<sup>\[泰州\]</sup>：你对他的好，他～都明白。<sup>\[泰州\]</sup> ② 物体中间空旷部分<sup>\[泰州\]</sup>：铫子～水透啊唻。<sup>\[泰州\]</sup> ③ 泛指物体里面<sup>\[泰州\]</sup>：不晓得他脑～想甚的。<sup>\[泰州\]</sup> ④ 事情内里<sup>\[泰州\]</sup>：三月份的奖金到现在都不发，这～有问题。<sup>\[泰州\]</sup>  
 1. 【[肚量](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_lian.md#肚量)】`tv6 lian6` <sup>[如皋]</sup> 气量。另读dv3 lian。  
