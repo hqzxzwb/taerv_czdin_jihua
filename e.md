@@ -22,24 +22,32 @@
 1. 【[儿孙自有儿孙福，莫为儿孙当牛马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_suen_cz_ieu.md#儿孙自有儿孙福，莫为儿孙当牛马)】`er2 suen1 cz6 ieu3 er2 suen1 foh7 mah8 vei6 er2 suen1 dan1 ngeu2 ma3` <sup>[东台]</sup> 要教育后代自强不息。  
 1. 【[儿孙满堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_suen_mun_tan.md#儿孙满堂)】`er2 suen1 mun3 tan2` <sup>[如东]</sup> 形容家庭人丁兴旺。  
 1. 【[儿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_zz.md#儿子)】`er2 zz` <sup>[如东]</sup> 自己的下一代男孩称儿子。亲生的，称生子；收养的，称养子；过继的，称嗣子。  
-1. 【[耳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er.md#耳)】`er3` <small>/ɚ3/<sup>泰兴</sup></small> 理睬<sup>\[泰兴\]</sup><sup>\[泰州\]</sup>：没工夫～他<sup>\[泰兴\]</sup>｜他说他的，你不要～他，他有甚的办法到你。<sup>\[泰州\]</sup>  
+1. 【[耳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er.md#耳)】`er3` <small>/ɚ3/<sup>泰兴</sup></small> 理睬<sup>\[泰兴\]</sup><sup>\[泰州\]</sup>：他不是个杲子，不要～他<sup>\[泰兴\]</sup>｜他说他的，你不要～他，他有甚的办法到你。<sup>\[泰州\]</sup>  
 1. 【[耳板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_baen.md#耳板)】`er3 baen3` <sup>[如皋]</sup> 独轮车的轴承架。  
-1. 【[耳边风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_bin_fon.md#耳边风)】`er3 bin1 fon1` ① 听人说话以后，就像风刮过去一样，并不放在心上。也称耳旁风。<sup>\[如东\]</sup> ② 听到以后并不重视的话<sup>\[泰州\]</sup>：大人说的话，这个伢儿全当～。<sup>\[泰州\]</sup>  
-1. 【[耳报神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_bo_shen.md#耳报神)】`er3 bo5 shen2` <small>/ɚ3 pɔ5 sən2/<sup>兴化</sup></small> ① （喻）暗中通风报信的人<sup>\[兴化\]</sup>：我家里有～，有点事马上传外去啊。<sup>\[兴化\]</sup> ② 暗中通风报信的人<sup>\[泰州\]</sup>：上午会上研究的事，下午外头就全晓得咖唻，不晓得是哪个～说的。<sup>\[泰州\]</sup>  
+1. 【[耳背](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_bei.md#耳背)】`er3 bei5` <small>/ɚ3 pəɪ5/<sup>泰兴</sup></small> 听觉不灵敏。<sup>\[泰兴\]</sup>  
+1. 【[耳边风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_bin_fon.md#耳边风)】`er3 bin1 fon1` <small>/ɚ3 pĩ1 fɔŋ1/<sup>泰兴</sup></small> ① 听人说话以后，就像风刮过去一样，并不放在心上。也称耳旁风。<sup>\[如东\]</sup> ② 听到以后并不重视的话<sup>\[泰州\]</sup>：大人说的话，这个伢儿全当～。<sup>\[泰州\]</sup> ③ 比喻过耳即逝，不放在心上的话。<sup>\[泰兴\]</sup>  
+1. 【[耳报神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_bo_shen.md#耳报神)】`er3 bo5 shen2` <small>/ɚ3 pɔ5 sən2/<sup>兴化</sup>, /ɚ3 pɔ5 səŋ2/<sup>泰兴</sup></small> ① （喻）暗中通风报信的人<sup>\[兴化\]</sup>：我家里有～，有点事马上传外去啊。<sup>\[兴化\]</sup> ② 暗中通风报信的人<sup>\[泰州\]</sup>：上午会上研究的事，下午外头就全晓得咖唻，不晓得是哪个～说的。<sup>\[泰州\]</sup> ③ 喻暗中报告消息的人。<sup>\[泰兴\]</sup>：遍地是他的～，他岂有不知之理？<sup>\[泰兴\]</sup>  
 1. 【[耳搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_daeh.md#耳搭)】`er3 daeh7` <sup>[兴化]</sup> 汉字偏旁。形状是卩（巳）一一硬～；阝（在左）、⻏（在右）一一 软～。  
 1. 【[耳搭帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_daeh_ban.md#耳搭帮)】`er3 daeh7 ban1` <sup>[如皋]</sup> ① 单耳搭：印即卸。 ② 双耳搭：邵郎郸；阶附陶。  
 1. 【[耳刀根](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_do_gen.md#耳刀根)】`er3 do gen1` <sup>[泰州]</sup> 耳朵根部：脸红到～。  
 1. 【[耳刀毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_do_mo.md#耳刀毛)】`er3 do mo2` <sup>[泰州]</sup> 建国初期流行女子发型之一，发短，一般头发剪与耳垂平齐。  
 1. 【[耳刀软](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_do_run.md#耳刀软)】`er3 do run3` <sup>[泰州]</sup> 容易被他人说动而改变原来想法：你家这位领导～，掌不住他俫惑。  
+1. 【[耳东陈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_don_chen.md#耳东陈)】`er3 don1 chen2` <small>/ɚ3 tɔŋ1 t͡sʰəŋ2/<sup>泰兴</sup></small> 陈字的别称。乡人读“陈”、“程”、“成”为一个音，为有所区别，故有“禾旁程”、“跷脚成”、“耳东陈”一说。<sup>\[泰兴\]</sup>  
 1. 【[耳朵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_du.md#耳朵)】`er3 du` <sup>[东台]</sup> 耳朵。口语中念“r3 do”。  
 1. 【[耳朵端子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_du_dun_zz.md#耳朵端子)】`er3 du dun1 zz` <sup>[东台]</sup> 耳垂儿。  
+1. 【[耳朵端子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_du_dun_zz.md#耳朵端子)】`er3 du-do dun1 zz` <small>/ɚ3 tɤɯ tʊ̃1 t͡sɿ/<sup>泰兴</sup></small> 耳垂。<sup>\[泰兴\]</sup>  
 1. 【[耳朵发热](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_du_faeh_rih.md#耳朵发热)】`er3 du faeh7 rih8` <sup>[东台]</sup> 形容被人议论得很多。  
-1. 【[耳朵根子软](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_du_gen_zz_run.md#耳朵根子软)】`er3 du gen1 zz run3` <sup>[东台]</sup> 形容没有主见，容易轻信他人的话。  
+1. 【[耳朵发热](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_du_faeh_rih.md#耳朵发热)】`er3 du-do faeh7 rih8` <small>/ɚ3 tɤɯ fæʔ7 iʔ8/<sup>泰兴</sup></small> 谓背后遭人指摘、议论。实为无依据之说。<sup>\[泰兴\]</sup>  
+1. 【[耳朵根子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_du_gen_zz.md#耳朵根子)】`er3 du-do gen1 zz` <small>/ɚ3 tɤɯ kəŋ1 t͡sɿ/<sup>泰兴</sup></small> 耳朵的根部。喻指本人的主见或听话的辨别能力。<sup>\[泰兴\]</sup>  
+1. 【[耳朵根子软](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_du_gen_zz.md#耳朵根子软)】`er3 du gen1 zz run3` <sup>[东台]</sup> 形容没有主见，容易轻信他人的话。  
+1. 【[耳朵旁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_du_pan.md#耳朵旁)】`er3 du-do pan2` <small>/ɚ3 tɤɯ pʰɑŋ2/<sup>泰兴</sup></small> 汉字偏旁“阝”的别称。“阝”为软耳朵，“卩”为硬耳朵。<sup>\[泰兴\]</sup>  
 1. 【[耳风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_fon.md#耳风)】`er3 fon1` <sup>[兴化]</sup> 道听途说的消息：你的～长，听到甚的话覅乱传。  
+1. 【[耳风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_fon.md#耳风)】`er3 fon1` <small>/ɚ3 fɔŋ1/<sup>泰兴</sup></small> 隐约听到的未必可靠的消息。<sup>\[泰兴\]</sup>：我听嗳～刮刮，恐怕有箇桩事。<sup>\[泰兴\]</sup>  
 1. 【[耳付](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_fv.md#耳付)】`er3 fv5` <sup>[如皋]</sup> 答理、应付。有冷淡义：他这种人不受欢迎，我总不高兴～他。  
 1. 【[耳根子软](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_gen_zz_run.md#耳根子软)】`er3 gen1 zz run3` <sup>[如东]</sup> 对于别人的言语，轻易相信。比喻没有主见：他～，别人一说就相信。  
 1. 【[耳锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_gu.md#耳锅)】`er3 gu1` <sup>[如皋]</sup> 有双耳的铁锅。  
 1. 【[耳刮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_guaeh_zz.md#耳刮子)】`er3 guaeh7 zz` <sup>[泰州]</sup> 耳光，以手掌猛击人的面颊：这小伙嘴里瞎说，同我弄他两个～。  
+1. 【[耳刮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_guaeh_zz.md#耳刮子)】`er3 guaeh7 zz` <small>/ɚ3 kuæʔ7 t͡sɿ/<sup>泰兴</sup></small> 耳光。<sup>\[泰兴\]</sup>  
 1. 【[耳聋缠八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_lon_chin_baeh.md#耳聋缠八)】`er3 lon2 chin6 baeh7` <small>/ɚ3 loŋ2 t͡sʰiɪ̃6 pæʔ7/<sup>兴化</sup>, /ɚ3 noŋ2 t͡ɕʰiɪ̃1 pæʔ7/<sup>泰县</sup></small> ① 耳朵听不清楚。<sup>\[如东\]</sup> ② 答非所问，缠七缠八的。<sup>\[如东\]</sup>：～的，问吖半天也朆说清楚。<sup>\[如东\]</sup> ③ 形容听觉不灵，常闹笑话<sup>\[东台\]</sup>：他～的，不要同他啰唆。<sup>\[东台\]</sup> ④ 由于耳朵失聪，常听不清或理解错别人的话<sup>\[兴化\]</sup>：“……爷爷～的，能管什么？”（马春阳《陈大年一家人》）<sup>\[兴化\]</sup> ⑤ 耳聋听不清<sup>\[泰县\]</sup>：这个人～的。<sup>\[泰县\]</sup> ⑥ 指责人答非所问<sup>\[泰县\]</sup>：你这人～的。<sup>\[泰县\]</sup> ⑦ 因为听力下降而误会别人说的话<sup>\[泰州\]</sup>：他年纪大啊耳朵不好，～的，你带谅点儿。<sup>\[泰州\]</sup>｜他说的不是这个意思，你岁数不大，倒～的唻。<sup>\[泰州\]</sup>  
 1. 【[耳聋缠八的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_lon_chin_baeh_dii.md#耳聋缠八的)】`er3 lon2 chin6 baeh7 dii` <sup>[如皋]</sup> 因耳聋而误会别人意思。  
 1. 【[耳门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_men.md#耳门)】`er3 men2` <sup>[如东]</sup> 堂屋（主屋）或厢房大门外侧两边的小门。  
@@ -47,6 +55,7 @@
 1. 【[耳毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_mo.md#耳毛)】`er3 mo2` <sup>[如皋]</sup> 耳道中的绒毛或老年时的长毫。  
 1. 【[耳筢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_pa.md#耳筢)】`er3 pa2` <small>/ɚ3 pʰa2/<sup>兴化</sup></small> 掏耳垢用的小勺。<sup>\[兴化\]</sup><sup>\[泰州\]</sup>  
 1. 【[耳筢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_pa_r.md#耳筢<sub>儿</sub>)】`er3 pa2 r` <small>/ɚ3 pʰa˞2/<sup>如皋</sup>, /ɚ3 pʰa2 ɚ/<sup>泰县</sup></small> ① 耳挖子。<sup>\[如皋\]</sup> ② 耳勺。<sup>\[泰县\]</sup>  
+1. 【[耳筢子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_pa_zz.md#耳筢子)】`er3 pa2 zz` <small>/ɚ3 pʰɑ2 t͡sɿ/<sup>泰兴</sup></small> 耳挖。掏耳垢的小用具。<sup>\[泰兴\]</sup>  
 1. 【[耳痞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_pi.md#耳痞)】`er3 pi3` <sup>[东台]</sup> 耳朵不灵或不太听话了。  
 1. 【[耳屏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_pien.md#耳屏)】`er3 pien2` <sup>[如皋]</sup> 耳门前的小凸起。  
 1. 【[耳虱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_sheh_r.md#耳虱<sub>儿</sub>)】`er3 sheh7 r, er3 sha5 r` 耳屎，耵聍  
@@ -62,6 +71,7 @@
 1. 【[耳头发热](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_teu_faeh_rih.md#耳头发热)】`er3 teu faeh7 rih8` <small>/ɚ3 tʰɤ fæʔ7 liɪʔ8/<sup>兴化</sup>, /ɚ3 tʰei feʔ7 ɻiʔ8/<sup>如皋</sup></small> ① 俗称背后遭别人议论会使～。<sup>\[如皋\]</sup> ② 家畜有病。<sup>\[如皋\]</sup> ③ （戏）谓背后有人提及或遭人议论<sup>\[兴化\]</sup>：怪不得这几天我～，原来是你在背后说我嗲！<sup>\[兴化\]</sup>  
 1. 【[耳头根子软](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_teu_gen_zz_run.md#耳头根子软)】`er3 teu gen1 zz run3` <sup>[如皋]</sup> 指缺主见，易受别人左右的个性。  
 1. 【[耳头眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_teu_ngaen_r.md#耳头眼<sub>儿</sub>)】`er3 teu ngaen3 r` <sup>[如皋]</sup> ① 耳道口。 ② 耳垂上人工穿出的小孔。  
+1. 【[耳屑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_xih_zz.md#耳屑子)】`er3 xih zz` <small>/ɚ3 ɕiʔ t͡sɿ/<sup>泰兴</sup></small> 耳垢。<sup>\[泰兴\]</sup>  
 1. 【[耳罩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_zho_zz.md#耳罩子)】`er3 zho5 zz` <sup>[兴化]</sup> 皮毛制品，用于冬天罩在耳朵上防寒。  
 1. 【[耳子搨<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_zz_taeh_r.md#耳子搨<sub>儿</sub>)】`er3 zz taeh7 r` <sup>[如皋]</sup> 水作工人用以涂抹的工具。菠菜叶形铁板背心有L形柄。  
 1. 【[二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er.md#二)】`er6` <sup>[东台]</sup> ① 排行居次：老～；一咖～的来（按顺序来）；他家～丫头在下读书。 ② 除表示数量、排序外，还有“像”“又一个”的意思：他是～张飞，太鲁莽。  

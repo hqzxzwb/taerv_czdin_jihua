@@ -38,6 +38,7 @@
 1. 【[再留<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_lieu_r.md#再留<sub>儿</sub>)】`zae5 lieu2 r` <sup>[兴化]</sup> 水稻收割后在根茬上长出的植株。‖也叫“再生稻”。  
 1. 【[再迈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_mae.md#再迈)】`zae5 mae` <sup>[东台]</sup> 或者的意思，也有人说成“dae5 mae”。=“再们zae5 men、dae5 men”：到菜市场买点萝下，～买点山芋，都可以。  
 1. 【[再三再四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_saen_zae_sz.md#再三再四)】`zae5 saen1 zae5 sz5` <sup>[泰州]</sup> 连续反复多次：～同他讲不能弄，他就是不听！  
+1. 【[再三再四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_saen_zae_sz.md#再三再四)】`zae5 saen1 zae5 sz5` <small>/t͡ɕiɛ5 ɕiɛ̃1 t͡ɕiɛ5 sɿ5/<sup>泰兴</sup></small> 连续多次。<sup>\[泰兴\]</sup>  
 1. 【[再生稻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_shen_to.md#再生稻)】`zae5 shen1 to6` <small>/t͡sɛ5 sən1 tʰɔ6/<sup>兴化</sup></small> ① 禾本科植物稻秸收割后的再生苗。<sup>\[如东\]</sup> ② 水稻收割后在根茬上长出的植株。<sup>\[兴化\]</sup>  
 1. 【[再堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_tan.md#再堂)】`zae5 tan2` <sup>[如皋]</sup> 同曾祖的同族亲缘关系称。  
 1. 【[再再](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_zae.md#再再)】`zae5 zae5` <sup>[兴化]</sup> 一而再，再而三：说之～，他才答应明吖来。｜……谦之～，分宾主礼入座。（《火烧赤壁》七）  

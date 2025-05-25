@@ -588,6 +588,7 @@
 1. 【[肠子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_zz.md#肠子)】`chan2 zz` <sup>[如东]</sup> 大肠和小肠的总称。  
 1. 【[长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan.md#长)】`chan2` ① 长，和“短”相对 ② 挣钱，有盈余，获利：今年子～吖多少钱？  
 1. 【[长豝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_ba.md#长豝)】`chan2 ba1` <sup>[如东]</sup> 未交配的母猪。  
+1. 【[长豝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_ba.md#长豝)】`chan2 ba1-ma1` <small>/t͡sʰɑŋ2 pɑ1/<sup>泰兴</sup></small> 未曾下过小猪的小母猪<sup>\[泰兴\]</sup>  
 1. 【[长把<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_ba_r.md#长把<sub>儿</sub>)】`chan2 ba3 r` <sup>[泰县]</sup> 未下小猪的母猪。  
 1. 【[长膀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_ban_r.md#长膀<sub>儿</sub>)】`chan2 ban3 r` ① 长袖衬衫。<sup>\[东台\]</sup> ② 长袖单衣<sup>\[泰州\]</sup>：天凉吖唻，要穿～。<sup>\[泰州\]</sup>  
 1. 【[长短](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_dun.md#长短)】`chan2 dun3` <small>/t͡sʰɑŋ2 tʊ̃3/<sup>泰兴</sup></small> ① 长度 ② 指死亡等意外事故。<sup>\[泰兴\]</sup>  

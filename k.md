@@ -464,6 +464,7 @@
 1. 【[烤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko.md#烤)】`ko3` 靠近火使干或使熟\[如东：一种烹调方法。把饼、肉等食物放在锅、炉中或火头上，用文火烘烤。\]\[东台：靠近烈火烧烤食物或取暖。也指太阳暴晒。\]  
 1. 【[烤太阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_tae_ian.md#烤太阳)】`ko3 tae5 ian` <sup>[如皋]</sup> 被暴晒。  
 1. 【[考点子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_din_zz.md#考点子)】`ko3 din3 zz` <sup>[东台]</sup> 夏天考试挥汗如雨的样子。  
+1. 【[考骨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_gueh_zz.md#考骨子)】`ko3 gueh7 zz` <small>/kʰɔ3 kuəʔ7 t͡sɿ/<sup>泰兴</sup></small> 追究到底，考证真实的情况。<sup>\[泰兴\]</sup>：考下骨子来，你是不如他的。<sup>\[泰兴\]</sup>  
 1. 【[考究](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_jieu.md#考究)】`ko3 jieu` <sup>[东台]</sup> 做事认真、讲究。也称“考较”。  
 1. 【[考究](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_jieu.md#考究)】`ko3 jieu5` <sup>[如东]</sup> 讲究。  
 1. 【[考较](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_jio.md#考较)】`ko3 jio5` <small>/kʰɔ3 t͡ɕiɔ5/<sup>兴化</sup>, /kʰɔ3 t͡ɕiɔ/<sup>泰县</sup></small> ① 考究、讲究。<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：他穿衣服是蛮～的。<sup>\[如东\]</sup>｜～吃<sup>\[兴化\]</sup>｜～穿。<sup>\[兴化\]</sup>｜这间小屋摆设蛮～的。<sup>\[兴化\]</sup>｜他穿的吃的都蛮～的。<sup>\[泰县\]</sup>｜他穿衣裳特别～，穿的衣裳都是烫过的。<sup>\[泰州\]</sup> ② 查考、比试<sup>\[兴化\]</sup>：你俫～～，看哪个肚子里墨水多。<sup>\[兴化\]</sup> ③ 副词，义近“竟然”<sup>\[兴化\]</sup>：你覅看他年纪轻，～能诗能画，象棋还是全市冠军。<sup>\[兴化\]</sup> ④ 计较他人做得好坏<sup>\[泰州\]</sup>：他俫少年人不晓得这些老礼信，你就不要～他俫唻。<sup>\[泰州\]</sup>  
@@ -588,14 +589,14 @@
 1. 【[空田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_tin.md#空田)】`kon5 tin2` <sup>[如皋]</sup> ① 未长庄稼的田块。 ② 地名通名：谢～，在如皋加力乡。  
 1. 【[空屑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_xiuh.md#空屑)】`kon5 xiuh7` <sup>[兴化]</sup> 头皮屑：他头上～太多，梳一回头落得一片。  
 1. 【[空债](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_zhae.md#空债)】`kon5 zhae5` <sup>[如东]</sup> 欠单位或私人的钱，叫做空债。  
-1. 【[共](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon.md#共)】`kon6` <small>/kʰoŋ6/<sup>兴化</sup>, /kʰɔŋ1/<sup>如皋</sup></small> ① 人际信用关系。<sup>\[如皋\]</sup> ② 计算、暗中使坏<sup>\[如皋\]</sup>：放吖肚子肚里～。<sup>\[如皋\]</sup> ③ 与人相处<sup>\[兴化\]</sup>：他信誉不好，不能～。<sup>\[兴化\]</sup>｜……朋友们见他是个扶不起来的梯子，也就与他不～了。（《皮五辣子》一）<sup>\[兴化\]</sup> ④ 指互通吊庆和经济往来<sup>\[兴化\]</sup>：他俫虽说是亲眷，已经有好些年不～吖。<sup>\[兴化\]</sup>  
+1. 【[共](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon.md#共)】`kon6` <small>/kʰoŋ6/<sup>兴化</sup>, /kʰɔŋ1/<sup>如皋</sup>, /kʰɔŋ1/<sup>泰兴</sup></small> ① 人际信用关系。<sup>\[如皋\]</sup> ② 计算、暗中使坏<sup>\[如皋\]</sup>：放吖肚子肚里～。<sup>\[如皋\]</sup> ③ 与人相处<sup>\[兴化\]</sup>：他信誉不好，不能～。<sup>\[兴化\]</sup>｜……朋友们见他是个扶不起来的梯子，也就与他不～了。（《皮五辣子》一）<sup>\[兴化\]</sup> ④ 指互通吊庆和经济往来<sup>\[兴化\]</sup>：他俫虽说是亲眷，已经有好些年不～吖。<sup>\[兴化\]</sup> ⑤ 交往，共事。<sup>\[泰兴\]</sup>  
 1. 【[共共](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_kon.md#共共)】`kon6 kon6` <sup>[如皋]</sup> 人际间试行往来。  
 1. 【[共来去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_lae_qy.md#共来去)】`kon6 lae2 qy5` <sup>[如皋]</sup> 经济往来，账目往来。  
 1. 【[共来往](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_lae_van.md#共来往)】`kon6 lae2 van3` <sup>[如皋]</sup> 见“共来去”。  
 1. 【[共拢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_lon.md#共拢)】`kon6 lon3` <sup>[泰县]</sup> 共计：我～就剩吖这几个钱。  
 1. 【[共信用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_xien_ion.md#共信用)】`kon6 xien5 ion6` <sup>[如皋]</sup> 交往中取信于人。  
 1. 【[共账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_zhan.md#共账)】`kon6 zhan5` <small>/kʰoŋ6 t͡saŋ5/<sup>兴化</sup>, /kʰɔŋ1 t͡sã5/<sup>如皋</sup></small> ① 交易双方互相记账结算。<sup>\[如皋\]</sup> ② 互有账目往来<sup>\[兴化\]</sup>：我俫～七八年，不曾有过差错。<sup>\[兴化\]</sup>  
-1. 【[共总](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_zon.md#共总)】`kon6 zon3` <small>/kɔŋ5 t͡sɔŋ3/<sup>如皋</sup></small> 一共；合计；总共。<sup>\[如皋\]</sup><sup>\[东台\]</sup>  
+1. 【[共总](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_zon.md#共总)】`kon6 zon3` <small>/kɔŋ5 t͡sɔŋ3/<sup>如皋</sup>, /kʰɔŋ1 t͡sɔŋ3/<sup>泰兴</sup></small> 一共；合计；总共。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[棵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku.md#棵)】`ku1` <sup>[东台]</sup> 除作为量词外，还指移植后成活的植株：醒～。  
 1. 【[棵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku_zz.md#棵子)】`ku1 zz` <small>/kʰo1 t͡sɿ/<sup>兴化</sup>, /kʰʊ1 t͡sɿ/<sup>如皋</sup></small> ① 农作物、蔬菜等单株的大小<sup>\[如皋\]</sup><sup>\[泰州\]</sup>：黄英菜的～大，大～有二十几斤。<sup>\[如皋\]</sup>｜他卖的这个青菜的～不小。<sup>\[泰州\]</sup> ② 指植物的茎和叶<sup>\[兴化\]</sup>：这田里黄芽菜（大白菜）～不小。<sup>\[兴化\]</sup>｜这个树苗～不小。<sup>\[兴化\]</sup>  
 1. 【[疴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ku.md#疴)】`ku1` <sup>[东台]</sup> 病：沉～｜养～。  

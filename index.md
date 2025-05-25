@@ -133,10 +133,11 @@
 1. 【[儿孙自有儿孙福，莫为儿孙当牛马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_suen_cz_ieu.md#儿孙自有儿孙福，莫为儿孙当牛马)】`er2 suen1 cz6 ieu3 er2 suen1 foh7 mah8 vei6 er2 suen1 dan1 ngeu2 ma3` <sup>[东台]</sup> 要教育后代自强不息。  
 1. 【[儿孙满堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_suen_mun_tan.md#儿孙满堂)】`er2 suen1 mun3 tan2` <sup>[如东]</sup> 形容家庭人丁兴旺。  
 1. 【[儿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_zz.md#儿子)】`er2 zz` <sup>[如东]</sup> 自己的下一代男孩称儿子。亲生的，称生子；收养的，称养子；过继的，称嗣子。  
-1. 【[耳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er.md#耳)】`er3` <small>/ɚ3/<sup>泰兴</sup></small> 理睬<sup>\[泰兴\]</sup><sup>\[泰州\]</sup>：没工夫～他<sup>\[泰兴\]</sup>｜他说他的，你不要～他，他有甚的办法到你。<sup>\[泰州\]</sup>  
+1. 【[耳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er.md#耳)】`er3` <small>/ɚ3/<sup>泰兴</sup></small> 理睬<sup>\[泰兴\]</sup><sup>\[泰州\]</sup>：他不是个杲子，不要～他<sup>\[泰兴\]</sup>｜他说他的，你不要～他，他有甚的办法到你。<sup>\[泰州\]</sup>  
 1. 【[耳板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_baen.md#耳板)】`er3 baen3` <sup>[如皋]</sup> 独轮车的轴承架。  
-1. 【[耳边风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_bin_fon.md#耳边风)】`er3 bin1 fon1` ① 听人说话以后，就像风刮过去一样，并不放在心上。也称耳旁风。<sup>\[如东\]</sup> ② 听到以后并不重视的话<sup>\[泰州\]</sup>：大人说的话，这个伢儿全当～。<sup>\[泰州\]</sup>  
-1. 【[耳报神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_bo_shen.md#耳报神)】`er3 bo5 shen2` <small>/ɚ3 pɔ5 sən2/<sup>兴化</sup></small> ① （喻）暗中通风报信的人<sup>\[兴化\]</sup>：我家里有～，有点事马上传外去啊。<sup>\[兴化\]</sup> ② 暗中通风报信的人<sup>\[泰州\]</sup>：上午会上研究的事，下午外头就全晓得咖唻，不晓得是哪个～说的。<sup>\[泰州\]</sup>  
+1. 【[耳背](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_bei.md#耳背)】`er3 bei5` <small>/ɚ3 pəɪ5/<sup>泰兴</sup></small> 听觉不灵敏。<sup>\[泰兴\]</sup>  
+1. 【[耳边风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_bin_fon.md#耳边风)】`er3 bin1 fon1` <small>/ɚ3 pĩ1 fɔŋ1/<sup>泰兴</sup></small> ① 听人说话以后，就像风刮过去一样，并不放在心上。也称耳旁风。<sup>\[如东\]</sup> ② 听到以后并不重视的话<sup>\[泰州\]</sup>：大人说的话，这个伢儿全当～。<sup>\[泰州\]</sup> ③ 比喻过耳即逝，不放在心上的话。<sup>\[泰兴\]</sup>  
+1. 【[耳报神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_bo_shen.md#耳报神)】`er3 bo5 shen2` <small>/ɚ3 pɔ5 sən2/<sup>兴化</sup>, /ɚ3 pɔ5 səŋ2/<sup>泰兴</sup></small> ① （喻）暗中通风报信的人<sup>\[兴化\]</sup>：我家里有～，有点事马上传外去啊。<sup>\[兴化\]</sup> ② 暗中通风报信的人<sup>\[泰州\]</sup>：上午会上研究的事，下午外头就全晓得咖唻，不晓得是哪个～说的。<sup>\[泰州\]</sup> ③ 喻暗中报告消息的人。<sup>\[泰兴\]</sup>：遍地是他的～，他岂有不知之理？<sup>\[泰兴\]</sup>  
 1. 【[耳搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_daeh.md#耳搭)】`er3 daeh7` <sup>[兴化]</sup> 汉字偏旁。形状是卩（巳）一一硬～；阝（在左）、⻏（在右）一一 软～。  
 1. 【[耳搭帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_daeh_ban.md#耳搭帮)】`er3 daeh7 ban1` <sup>[如皋]</sup> ① 单耳搭：印即卸。 ② 双耳搭：邵郎郸；阶附陶。  
 1. 【[耳刀根](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_do_gen.md#耳刀根)】`er3 do gen1` <sup>[泰州]</sup> 耳朵根部：脸红到～。  

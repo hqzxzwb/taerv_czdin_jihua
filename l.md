@@ -1614,6 +1614,7 @@
 1. 【[老坝头桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ba_teu_qio.md#老坝头桥)】`lo3 ba5 teu2 qio2` <sup>[如皋]</sup> 在如城东门外，古名“立发坝”，始建于汉初，一说原址附近有古郧城。  
 1. 【[老把师](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ba_shr.md#老把师)】`lo3 ba5 shr1` <sup>[东台]</sup> 指某种行业里实践经验丰富的老把式。  
 1. 【[老八十](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_baeh_sheh.md#老八十)】`lo3 baeh7 sheh8` <sup>[如皋]</sup> 贬指的老年女性。有蛮缠的含义。  
+1. 【[老八十](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_baeh_sheh.md#老八十)】`lo3 baeh7 sheh8` <small>/lɔ3 pæʔ7 səʔ8/<sup>泰兴</sup></small> 泛指年龄大的女人。<sup>\[泰兴\]</sup>  
 1. 【[老八太](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_baeh_tae.md#老八太)】`lo3 baeh7 tae5` <sup>[东台]</sup> 老年女子。  
 1. 【[老班](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_baen.md#老班)】`lo3 baen1` <small>/lɔ3 pẽ1/<sup>如皋</sup></small> ① 长辈。<sup>\[如东\]</sup> ② 前辈。<sup>\[如东\]</sup> ③ 长辈、前辈。<sup>\[如皋\]</sup>  
 1. 【[老班的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_baen_dii.md#老班的)】`lo3 baen1 dii` 长辈们  
@@ -1682,6 +1683,7 @@
 1. 【[老爹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_dia.md#老爹)】`lo3 dia1` <small>/lɔ3 tia1/<sup>兴化</sup>, /lɔ3 tia1/<sup>如皋</sup>, /lɔ3 tiɑ1/<sup>泰兴</sup></small> ① 对中老年男性的尊称；对中老年男性长辈的尊称。<sup>\[如皋\]</sup> ② 曾祖父。<sup>\[如皋\]</sup> ③ 对老鼠的避讳称。<sup>\[如皋\]</sup> ④ 曾祖父，即父亲的爷爷。也可作为对老年男子的尊称。<sup>\[东台\]</sup> ⑤ 父亲<sup>\[兴化\]</sup>：（武松）将了十二三两银子，与了郓哥的～。（《水浒传》二七）<sup>\[兴化\]</sup> ⑥ 对年长男子的称谓<sup>\[兴化\]</sup>：大～；二～<sup>\[兴化\]</sup>｜侉奶奶想必本是一个侉子的家属，他应当有过一个丈夫，一个侉～。（汪曾祺《故里杂记》）<sup>\[兴化\]</sup> ⑦ 对父亲的称谓。<sup>\[如东\]</sup> ⑧ 年老的妇女对丈夫的称呼。<sup>\[如东\]</sup> ⑨ 对老年男子的尊称。<sup>\[如东\]</sup> ⑩ 俗称祖父<sup>\[泰州\]</sup>：～后年子八十岁。<sup>\[泰州\]</sup> ⑪ 爷爷，祖父。<sup>\[泰兴\]</sup> ⑫ 对年龄较大男子的尊称。<sup>\[泰兴\]</sup>  
 1. 【[老爹爹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_dia_dia.md#老爹爹)】`lo3 dia1 dia1` <small>/lɔ3 tia1 tia1/<sup>如皋</sup></small> ① 曾祖父。<sup>\[如东\]</sup> ② 见“太公”。<sup>\[如皋\]</sup> ③ 曾祖父。<sup>\[如皋\]</sup>  
 1. 【[老的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_dii.md#老的)】`lo3 dii` 家中的长辈，特指父母<sup>\[泰州\]</sup>：他家～八十多岁，家里不能离人。<sup>\[泰州\]</sup>  
+1. 【[老的八十三，小的要人搀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_dii_baeh_sheh.md#老的八十三，小的要人搀)】`lo3 dii baeh7 sheh saen1 xio3 dii io5 ren chaen1` <small>/lɔ3 təɪ pæʔ7 səʔ ɕiɛ̃1 ɕiɔ3 təɪ iɔ5 ɻəŋ t͡ɕʰiɛ̃1/<sup>泰兴</sup></small> 谓家庭老的老，小的小，劳动力少。<sup>\[泰兴\]</sup>  
 1. 【[老电厂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_din_chan.md#老电厂)】`lo3 din5 chan3` <sup>[东台]</sup> 原为二十世纪初张謇创办的东明电气股份有限公司，现为江苏省文物保护单位。  
 1. 【[老到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_do.md#老到)】`lo3 do5` <small>/lɔ3 tɔ5/<sup>泰兴</sup></small> ① 做事老练周到<sup>\[泰州\]</sup>：他说话做事～得很，像是大机关的人。<sup>\[泰州\]</sup> ② 做人本分稳重<sup>\[泰州\]</sup>：人家老李多～啊，从来不上这些乱七八糟的地方去。<sup>\[泰州\]</sup> ③ 行文合乎章法<sup>\[泰州\]</sup>：这篇文章的文笔～得很，不像是中学生写的。<sup>\[泰州\]</sup> ④ 老实，规矩；老练稳妥；办事热情。<sup>\[泰兴\]</sup>  
 1. 【[老东西](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_don_xi.md#老东西)】`lo3 don1 xi` <sup>[如皋]</sup> 詈语，骂老人。  
@@ -1784,7 +1786,7 @@
 1. 【[老酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_jieu.md#老酒)】`lo3 jieu3` <small>/lɔ3 t͡ɕiɤɯ3/<sup>泰兴</sup></small> 泛指各种酒类。<sup>\[泰兴\]</sup>  
 1. 【[老茧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_jin.md#老茧)】`lo3 jin3` <small>/lɔ3 t͡ɕĩ3/<sup>泰兴</sup></small> 趼子。手脚上因摩擦而生成的硬皮。<sup>\[泰兴\]</sup>  
 1. 【[老趼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_jin.md#老趼)】`lo3 jin3` <sup>[如皋]</sup> 着力处生成的角质厚皮。  
-1. 【[老交](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_jio.md#老交)】`lo3 jio1` <small>/lɔ3 t͡ɕiɔ1/<sup>兴化</sup></small> ① 深交，老朋友，老交情。<sup>\[东台\]</sup> ② 老朋友、老相交<sup>\[兴化\]</sup>：那合家欢照片上的蓝珍，就是关新仁的～一一他俩相识已四十六个春秋。（马春阳《昏迷再婚谜》）<sup>\[兴化\]</sup>  
+1. 【[老交](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_jio.md#老交)】`lo3 jio1` <small>/lɔ3 t͡ɕiɔ1/<sup>兴化</sup>, /lɔ3 t͡ɕiɔ1/<sup>泰兴</sup></small> ① 深交，老朋友，老交情。<sup>\[东台\]</sup> ② 老朋友、老相交<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：那合家欢照片上的蓝珍，就是关新仁的～一一他俩相识已四十六个春秋。（马春阳《昏迷再婚谜》）<sup>\[兴化\]</sup>  
 1. 【[老交情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_jio_qien.md#老交情)】`lo3 jio1 qien` <sup>[泰州]</sup> 经过较长时间交往而建立的感情。  
 1. 【[老交情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_jio_qien.md#老交情)】`lo3 jio1 qien` <small>/lɔ3 t͡ɕiɔ1 t͡ɕʰiŋ/<sup>泰兴</sup></small> 交情深厚日久者。<sup>\[泰兴\]</sup>  
 1. 【[老居](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_jy.md#老居)】`lo3 jy` <small>/lɔ3 t͡ɕy/<sup>泰兴</sup></small> 精明、有丰富阅历、能办事的人。<sup>\[泰兴\]</sup>  
@@ -1795,7 +1797,7 @@
 1. 【[老君须](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_jyen_xy.md#老君须)】`lo3 jyen1 xy1` <sup>[如东]</sup> 萝藦科植物雪里蟠桃，又名婆婆针线包，多年生草本。  
 1. 【[老掐掐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_kaeh_kaeh.md#老掐掐)】`lo3 kaeh7 kaeh7` <small>/lɔ3 kʰæʔ7 kʰæʔ7/<sup>兴化</sup></small> ① 形容早熟，与“嫩”相对<sup>\[兴化\]</sup>：这个韭菜～的，不好吃。<sup>\[兴化\]</sup> ② 指年轻人老气横秋的样子<sup>\[兴化\]</sup>：这个小伙～的，不讨喜。<sup>\[兴化\]</sup> ③ 叶类蔬菜老得掐不下或者截不断<sup>\[泰州\]</sup>：这个青菜薹儿～的，怕的不能吃唻。<sup>\[泰州\]</sup> ④ 比喻青少年人老气横秋的样子<sup>\[泰州\]</sup>：这小伙岁数不大，说话～的。<sup>\[泰州\]</sup>  
 1. 【[老壳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_kah_zz.md#老壳子)】`lo3 kah7 zz` <sup>[如东]</sup> ① 陈旧的外壳：只剩下一个～。 ② 比喻老年妇女：她是一个～。  
-1. 【[老硍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ken.md#老硍)】`lo3 ken5` <small>/lɔ3 kʰən5/<sup>兴化</sup>, /nɔ3 kʰəŋ5/<sup>泰县</sup></small> ① 身上的汗腺分泌物，污垢。<sup>\[泰县\]</sup> ② 长时间积聚的污垢。<sup>\[兴化\]</sup> ③ 久积的污渍<sup>\[兴化\]</sup>：身上的～难洗哩！也称“古硍”。<sup>\[兴化\]</sup>  
+1. 【[老硍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ken.md#老硍)】`lo3 ken5` <small>/lɔ3 kʰən5/<sup>兴化</sup>, /lɔ3 kʰəŋ5/<sup>泰兴</sup>, /nɔ3 kʰəŋ5/<sup>泰县</sup></small> ① 身上的汗腺分泌物，污垢。<sup>\[泰县\]</sup> ② 长时间积聚的污垢。<sup>\[兴化\]</sup> ③ 久积的污渍<sup>\[兴化\]</sup>：身上的～难洗哩！也称“古硍”。<sup>\[兴化\]</sup> ④ 积久成块的污渍物。<sup>\[泰兴\]</sup>  
 1. 【[老扣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_keu.md#老扣)】`lo3 keu1` <sup>[如皋]</sup> ① 严密：他做事～。 ② 坚决缜密：你同他说话要下～，一点不能带游扣。  
 1. 【[老抠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_keu.md#老抠)】`lo3 keu1` <sup>[如东]</sup> 小气：王二是个～。  
 1. 【[老口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_keu.md#老口)】`lo3 keu3` <small>/lɔ3 kʰɤ3/<sup>兴化</sup>, /lɔ3 kʰei3/<sup>如皋</sup></small> ① 经验丰富而不谦让的人。<sup>\[如皋\]</sup> ② 年老的牛马。<sup>\[如皋\]</sup> ③ 形容擅于辞令的人<sup>\[兴化\]</sup>：他是个～，不大好说话。<sup>\[兴化\]</sup>  
@@ -1806,21 +1808,24 @@
 1. 【[老来福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lae_foh.md#老来福)】`lo3 lae2 foh7` <sup>[如皋]</sup> 年纪大了后子女孝顺，经济宽裕，生活幸福。  
 1. 【[老来坏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lae_huae.md#老来坏)】`lo3 lae2 huae6` <sup>[如皋]</sup> 玉米、蚕豆、黄豆的籽粒在老熟时干瘪的现象。  
 1. 【[老来青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lae_qien.md#老来青)】`lo3 lae2 qien1` <sup>[兴化]</sup> ① 水稻的一个品种。 ② （借）形容人越活越年轻：她姐年交五十八……不仅貌似“老来俏”，里内确似～。（马春阳《昏迷再婚迷》）  
+1. 【[老来件件不如人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lae_qin_qin.md#老来件件不如人)】`lo3 lae2 qin6 qin6 beh7 rv2 ren2` <small>/lɔ3 lɛ2 t͡ɕʰĩ1 t͡ɕʰĩ1 pəʔ7 ɻu2 ɻəŋ2/<sup>泰兴</sup></small> 谓年龄大了，许多方面不如年轻人能干了。<sup>\[泰兴\]</sup>  
 1. 【[老来俏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lae_qio.md#老来俏)】`lo3 lae2 qio5` <small>/lɔ3 lɛ2 t͡ɕʰiɔ5/<sup>兴化</sup>, /lɔ3 lɛ2 t͡ɕʰiɔ5/<sup>如皋</sup>, /lɔ3 lɛ2 t͡ɕʰiɔ5/<sup>泰兴</sup></small> ① 年纪老了，但却更加注意打扮自己。<sup>\[如东\]</sup>：王奶奶已经六十三岁啊还穿花裙子，真是～。<sup>\[如东\]</sup> ② 年老而变得（打扮）俊俏。<sup>\[如皋\]</sup> ③ 形容人越活越年轻，越扮越花哨<sup>\[兴化\]</sup>：她是～，五十大几还烫发、搽口红。<sup>\[兴化\]</sup> ④ 讥讽老年人的衣着打扮像年轻人一样，传统文化认为老年人应该庄重，贬义。今日社会进步，提倡老年人的服装要年轻化，已成为褒义词。<sup>\[泰州\]</sup> ⑤ 指年老而爱打扮的人。<sup>\[泰兴\]</sup>  
 1. 【[老来说当先](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lae_shuh_dan_xin.md#老来说当先)】`lo3 lae2 shuh7 dan1 xin1` <sup>[如东]</sup> 年纪老了，喜欢诉说过去经历的事情。  
 1. 【[老来子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lae_zz.md#老来子)】`lo3 lae2 zz` <small>/nɔ3 ne2 t͡se/<sup>泰县</sup></small> 老年所生的幼子。<sup>\[泰县\]</sup><sup>\[泰州\]</sup>  
 1. 【[老来子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lae_zz.md#老来子)】`lo3 lae2 zz3` <small>/lɔ3 lɛ2 t͡sɿ3/<sup>兴化</sup>, /lɔ3 lɛ2 t͡sɿ3/<sup>如皋</sup></small> ① 进入衰老期所生的孩子。<sup>\[如皋\]</sup> ② 老年得子<sup>\[兴化\]</sup>：他是个～，身体单薄。<sup>\[兴化\]</sup>  
 1. 【[老菱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lien.md#老菱)】`lo3 lien2` <small>/lɔ3 liɪ̃2/<sup>兴化</sup>, /lɔ3 liəŋ2/<sup>如皋</sup></small> ① 乌菱。<sup>\[如皋\]</sup> ② 即菱角。也称“角老菱”。<sup>\[兴化\]</sup> ③ 有四个刺角的菱，叶片类三角形，叶柄中有气囊，夏开白花，果壳坚硬，下有四个锥形长刺，幼嫩果实可以生食，多为果实长老以后煮食，故名。<sup>\[泰州\]</sup>  
 1. 【[老里八早](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lii_baeh_zo.md#老里八早)】`lo3 lii baeh7 zo3` <sup>[东台]</sup> 非常早，很久以前。  
+1. 【[老里不相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lii_beh_xian.md#老里不相)】`lo3 lii beh7 xian5` <small>/lɔ3 ləɪ pəʔ7 ɕiɑŋ5/<sup>泰兴</sup></small> 老相。拿架子，充能。老气横秋，令人生厌。<sup>\[泰兴\]</sup>  
 1. 【[老里老气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lii_lo_qi.md#老里老气)】`lo3 lii lo3 qi5` <sup>[泰州]</sup> 老练气概：这家伙不晓得是甚的来头，朝办公室一坐，～的称局长是小王，说是有事找小王，叫我同他去把局长喊过来。  
 1. 【[老里老实的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lii_lo_sheh_dii.md#老里老实的)】`lo3 lii lo3 sheh dii` <sup>[如皋]</sup> 老老实实的。  
 1. 【[老里老相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lii_lo_xian.md#老里老相)】`lo3 lii lo3 xian5` <sup>[东台]</sup> ① 对人不尊重，摆架子。 ② 倚老卖老，冒充内行。 ③ 随意取用别人的东西。  
+1. 【[老里老相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lii_lo_xian.md#老里老相)】`lo3 lii lo3 xian5` <small>/lɔ3 ləɪ lɔ3 ɕiɑŋ5/<sup>泰兴</sup></small> “老相”的生动形式<sup>\[泰兴\]</sup>  
 1. 【[老脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lin.md#老脸)】`lo3 lin3` <sup>[如东]</sup> 谦辞。老年人指自己的面子：还是凭我这张～。  
 1. 【[老脸饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lin_faen.md#老脸饭)】`lo3 lin3 faen6` <sup>[泰县]</sup> 厚着脸皮吃别人的饭。  
 1. 【[老脸皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lin_pi.md#老脸皮)】`lo3 lin3 pi2` <small>/lɔ3 liɪ̃3 pʰi2/<sup>兴化</sup></small> ① 不害怕，不害羞。<sup>\[如东\]</sup>：这们多人脸都不红，真是一张～。<sup>\[如东\]</sup> ② 脸皮厚，没有羞耻感<sup>\[兴化\]</sup>：他这个～不怕人黄他。<sup>\[兴化\]</sup> ③ 形容人厚颜无耻<sup>\[泰州\]</sup>：不要再说吤，有几个像你这吖～的！<sup>\[泰州\]</sup>  
 1. 【[老脸皮厚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lin_pi_heu.md#老脸皮厚)】`lo3 lin3 pi2 heu6` <small>/lɔ3 liɪ̃3 pʰi2 xɤ6/<sup>兴化</sup>, /lɔ3 lĩ3 pʰʝ2 xəɪ1/<sup>泰兴</sup></small> ① 形容人的脸皮厚，不害羞<sup>\[兴化\]</sup>：“并没有新鲜招笑儿的，少不得～的说一个罢。”（《红楼梦》五四）<sup>\[兴化\]</sup> ② 老人脸上皮厚，指面对他人冷眼相待而泰然地我行我素<sup>\[泰州\]</sup>：这小伙你这格局凶吖他，亏他还老脸皮厚的笑得出来！<sup>\[泰州\]</sup>｜人家同他又不啰唆，他还竟然还～的去找人家！<sup>\[泰州\]</sup> ③ 谓脸皮厚，不知羞耻。<sup>\[泰兴\]</sup>  
 1. 【[老脸菩萨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lin_pv_saeh.md#老脸菩萨)】`lo3 lin3 pv2 saeh7` <sup>[泰县]</sup> 不顾羞耻：你是个～。  
-1. 【[老脸色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lin_seh.md#老脸色)】`lo3 lin3 seh7` <small>/lɔ3 liɪ̃3 səʔ7/<sup>兴化</sup>, /nɔ3 niɪ̃3 səʔ7/<sup>泰县</sup></small> ① 老样子。<sup>\[如东\]</sup>：还是一个～o<sup>\[如东\]</sup> ② 经常出现的面孔，老面孔<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：……从庄里跑出了一通人马，打前排的是两个……（马春阳《姐妹烟缘船迷传》）<sup>\[兴化\]</sup>｜今吖子来开会的，还是这几个～。<sup>\[泰州\]</sup>  
+1. 【[老脸色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lin_seh.md#老脸色)】`lo3 lin3 seh7` <small>/lɔ3 liɪ̃3 səʔ7/<sup>兴化</sup>, /lɔ3 lĩ3 səʔ7/<sup>泰兴</sup>, /nɔ3 niɪ̃3 səʔ7/<sup>泰县</sup></small> ① 老样子。<sup>\[如东\]</sup>：还是一个～o<sup>\[如东\]</sup> ② 经常出现的面孔，老面孔<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：……从庄里跑出了一通人马，打前排的是两个……（马春阳《姐妹烟缘船迷传》）<sup>\[兴化\]</sup>｜今吖子来开会的，还是这几个～。<sup>\[泰州\]</sup>  
 1. 【[老老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lo.md#老老)】`lo3 lo` <small>/lɔ3 lɔ/<sup>泰兴</sup>, /nɔ3 nɔ/<sup>泰县</sup></small> ① 祖父<sup>\[泰兴\]</sup>\[如东：如东东路\]\[泰县：泰县南部\] ② 对老年男子的尊称<sup>\[泰县\]</sup>：他家～还在。<sup>\[泰县\]</sup>｜原来这～姓蒋，叫蒋三。（评话《济公传·割瘤移瘤》）<sup>\[泰县\]</sup>  
 1. 【[老老爹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lo_dia.md#老老爹)】`lo3 lo3 dia1` <sup>[东台]</sup> 高祖父，即爷爷的爷爷。  
 1. 【[老老太](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lo_tae.md#老老太)】`lo3 lo3 tae5` <sup>[东台]</sup> 高祖母，即爷爷的祖母。  
@@ -1845,9 +1850,10 @@
 1. 【[老面孔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_min_kon.md#老面孔)】`lo3 min6 kon3` <small>/lɔ3 miɪ̃6 kʰoŋ3/<sup>兴化</sup></small> ① 还是原来的那些人。比喻没有什么变化。<sup>\[如东\]</sup>：这次参加会议的全是～。<sup>\[如东\]</sup> ② 指还是原来的那些人<sup>\[兴化\]</sup>：这次上台的大多是～。<sup>\[兴化\]</sup> ③ （喻）陈旧的样式<sup>\[兴化\]</sup>：展出的产品还是一副～。<sup>\[兴化\]</sup>  
 1. 【[老毛病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_mo_pien.md#老毛病)】`lo3 mo2 pien` <small>/lɔ3 mɔ2 pʰiŋ/<sup>泰兴</sup></small> 以前曾有过的疾病，或以前曾犯过的错误。<sup>\[泰兴\]</sup>  
 1. 【[老□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_mu.md#老□)】`lo3 mu` <sup>[如皋]</sup> 非常，相当地：他摸咖条鱼～大。  
+1. 【[老母猪上考场，哪一家的人马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_mu_zhv_shan.md#老母猪上考场，哪一家的人马)】`lo3 mu zhv1 shan6 ko3 chan la3 ieh ga1 dii ren2 ma3` <small>/lɔ3 mɤɯ t͡su1 sɑŋ1 kʰɔ3 t͡sʰɑŋ lɑ3 iʔ kɑ1 təɪ ɻəŋ2 mɑ3/<sup>泰兴</sup></small> 谓故意讲排场，显威风。含讽刺意。<sup>\[泰兴\]</sup>  
 1. 【[老母鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_mu_ji.md#老母鸡)】`lo3 mu3 ji1` <sup>[兴化]</sup> 小隔年的母鸡。  
 1. 【[老母鸡打颬呵——鸡（讥）笑人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_mu_ji_da_ha_hu_ji_xio_ren.md#老母鸡打颬呵——鸡（讥）笑人)】`lo3 mu3 ji1 da3 ha1 hu1 ji1 xio5 ren2` <sup>[东台]</sup>   
-1. 【[老母猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_mu_zhv.md#老母猪)】`lo3 mu3 zhv1` <small>/lɔ3 mo3 t͡su1/<sup>兴化</sup>, /lɔ3 mʊ3 t͡su1/<sup>如皋</sup></small> ① 产崽母猪。<sup>\[如东\]</sup> ② 已孕，已生小猪的母猪。<sup>\[如皋\]</sup> ③ 下过猪崽的母猪。<sup>\[兴化\]</sup>  
+1. 【[老母猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_mu_zhv.md#老母猪)】`lo3 mu3 zhv1` <small>/lɔ3 mo3 t͡su1/<sup>兴化</sup>, /lɔ3 mʊ3 t͡su1/<sup>如皋</sup>, /lɔ3 mɤɯ3 t͡su1/<sup>泰兴</sup></small> ① 产崽母猪。<sup>\[如东\]</sup> ② 已孕，已生小猪的母猪。<sup>\[如皋\]</sup> ③ 下过猪崽的母猪。<sup>\[兴化\]</sup>\[泰兴：未曾下过小猪的小母猪称为“长豝”。\]  
 1. 【[老母猪受窠——安逸咖啦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_mu_zhv_sheu_ku_un_ieh_ga_la.md#老母猪受窠——安逸咖啦)】`lo3 mu3 zhv1 sheu6 ku1 un1 ieh ga la` <sup>[东台]</sup>   
 1. 【[老奶奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_nae_nae.md#老奶奶)】`lo3 nae3 nae3` <sup>[如东]</sup> ① 对祖母的称谓。 ② 年老的丈夫对妻子的称呼。 ③ 年龄大的女人。  
 1. 【[老奶奶吃海蜇——不响（想）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_nae_nae_qieh_hae_zheh_beh_xian.md#老奶奶吃海蜇——不响（想）)】`lo3 nae3 nae3 qieh7 hae3 zheh7 beh7 xian3` <sup>[东台]</sup>   
@@ -1877,6 +1883,7 @@
 1. 【[老皮耷相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_pi_dah_xian.md#老皮耷相)】`lo3 pi2 dah7 xian5` <sup>[兴化]</sup> 形容人老气横秋，令人生厌的样子：他再～的覅怪我冲他。  
 1. 【[老皮入相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_pi_reh_xian.md#老皮入相)】`lo3 pi2 reh8 xian5` <sup>[东台]</sup> 亦有写成“老屄肏相”，喻意脸老皮厚，摆臭架子。  
 1. 【[老皮条子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_pi_tio_zz.md#老皮条子)】`lo3 pi2 tio2 zz` <small>/lɔ3 pʰi2 tʰiɔ2 t͡sɿ/<sup>兴化</sup>, /nɔ3 pʰɿ2 tʰiɔ2 t͡se/<sup>泰县</sup></small> ① （戏）称年老而油滑的人<sup>\[兴化\]</sup>：这个～滑得很，你弄不过他。<sup>\[兴化\]</sup> ② 玩世不恭的人。<sup>\[泰县\]</sup> ③ 使用时间很长的皮条子，比喻经历事多、大错没有、小错不断的人<sup>\[泰州\]</sup>：上班迟到对他来说不是头一回，说咖多少回也没得用，你就是扣啊他的工资他也不会改，对这种～，你拿他还真没有办法。<sup>\[泰州\]</sup>  
+1. 【[老貔貅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_pi_xieu.md#老貔貅)】`lo3 pi2 xieu1` <small>/lɔ3 pʰʝ2 ɕiɤɯ1/<sup>泰兴</sup></small> 乡人又俗呼“老屁眼”。乡间多用于责骂老年人。<sup>\[泰兴\]</sup>  
 1. 【[老屁眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_pi_ngaen.md#老屁眼)】`lo3 pi5 ngaen3` ① 比喻卖老资格而使人感到讨厌的人。<sup>\[如东\]</sup>：他是一个～。<sup>\[如东\]</sup> ② （詈语）老相，卖老资格，一般人的话不买账。与“大象屁股推不动”近义。<sup>\[东台\]</sup>  
 1. 【[老婆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_pu.md#老婆)】`lo3 pu` <sup>[如东]</sup> 丈夫对妻子的俗称。  
 1. 【[老气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_qi.md#老气)】`lo3 qi` <sup>[如皋]</sup> 看上去比实际年龄显得老。  
@@ -1920,6 +1927,7 @@
 1. 【[老熟人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_shoh_ren.md#老熟人)】`lo3 shoh8 ren2` <sup>[如皋]</sup> ① 十分相熟的人。 ② 有的刚认识就说是老熟人，是外交辞令，拉关系。  
 1. 【[老熟套](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_shoh_to.md#老熟套)】`lo3 shoh8 to5` <sup>[如皋]</sup> 见“熟套”。  
 1. 【[老是](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_shr.md#老是)】`lo3 shr` <sup>[如皋]</sup> 经常地，有贬义。  
+1. 【[老是](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_shr.md#老是)】`lo3 shr` <small>/lɔ3 sɿ/<sup>泰兴</sup></small> 经常，总是。<sup>\[泰兴\]</sup>  
 1. 【[老师](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_shr.md#老师)】`lo3 shr1` <sup>[如东]</sup> ① 从事教育事业的人：他是～。 ② 在文化、政治、业务等方面值得自己学习的人：他是我的～。  
 1. 【[老师傅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_shr_fv.md#老师傅)】`lo3 shr1 fv` <sup>[如东]</sup> ① 掌握某种技术专长的人。 ② 对人的尊称。  
 1. 【[老水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_shuei.md#老水)】`lo3 shuei3` <sup>[如皋]</sup> 见“死水”。  
@@ -1934,6 +1942,7 @@
 1. 【[老头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_teu.md#老头)】`lo3 teu2` <sup>[如东]</sup> ① 年纪大的男子。 ② 对老年男子的称呼。 ③ 妻子对丈夫的称呼：他是我的～。  
 1. 【[老头汗衫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_teu_hun_shaen.md#老头汗衫)】`lo3 teu2 hun6 shaen1` <sup>[兴化]</sup> 短袖圆领汗衫。  
 1. 【[老头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_teu_r.md#老头<sub>儿</sub>)】`lo3 teu2 r` <small>/lɔ3 tʰɤ2 ɚ/<sup>兴化</sup>, /lɔ3 tʰei˞2/<sup>如皋</sup>, /lɔ3 tʰəɪ˞2/<sup>泰兴</sup></small> ① 称象棋中的将、帅。<sup>\[如皋\]</sup> ② 见“老头子”。<sup>\[兴化\]</sup> ③ 对老年男子的不客气的称呼。<sup>\[泰州\]</sup> ④ 老年妇女对丈夫的昵称<sup>\[泰州\]</sup>：我家～早上要吃早茶。<sup>\[泰州\]</sup> ⑤ 年老的男子。<sup>\[泰兴\]</sup>  
+1. 【[老头<sub>儿</sub>卖糖，各管各行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_teu_r_mae.md#老头<sub>儿</sub>卖糖，各管各行)】`lo3 teu2 r mae6 tan2 gah7 gun3 gah7 han2` <small>/lɔ3 tʰəɪ˞2 mɛ1 tʰɑŋ2 kɑʔ7 kʊ̃3 kɑʔ7 xɑŋ2/<sup>泰兴</sup></small> 歇后语。指各人做各人应该做的事。<sup>\[泰兴\]</sup>  
 1. 【[老头<sub>儿</sub>帽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_teu_r_mo_zz.md#老头<sub>儿</sub>帽子)】`lo3 teu2 r mo6 zz` <small>/lɔ3 tʰei˞2 mɔ1 t͡sɿ/<sup>如皋</sup></small> ① 老式锅箱儿帽子。<sup>\[如皋\]</sup> ② 见“锅箱儿帽子”。<sup>\[如皋\]</sup>  
 1. 【[老头鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_teu_y.md#老头鱼)】`lo3 teu2 y2` <sup>[如东]</sup> 鮟鱇科动物黄鮟鱇，也叫蛤蟆鱼。身体柔软，无鳞，头和体的边缘有许多皮质突起。头大，扁平，呈圆盘状。口宽大，口底前部黄色，下颌有可倒伏尖牙1-2行。第一背鳍6鳍棘，第二棘位于吻背部，顶端有皮质穗。臀鳍具8-11鳍条。脸鳍臂状。冷暖性底层鱼类，常栖伏在海底捕食。能发出像老人咳嗽的声音。所以也称老头鱼。  
 1. 【[老头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_teu_zz.md#老头子)】`lo3 teu2 zz` <sup>[兴化]</sup> ① 年老的男子。 ② 背称父亲。 ③ 老妇背称丈夫。 ④ 旧时帮会的头头：水火帮～。也称“老头儿”。  
