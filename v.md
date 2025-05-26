@@ -342,6 +342,7 @@
 1. 【[划饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_faen.md#划饭)】`va2 faen6` <small>/ʋa2 fẽ1/<sup>如皋</sup></small> ① 见“扒饭”。<sup>\[如皋\]</sup> ② 嘴唇贴碗边，用筷子把饭拨进嘴吃。见“扒饭”。<sup>\[如皋\]</sup>  
 1. 【[划风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_fon.md#划风)】`va2 fon1` <sup>[如东]</sup> 顶着风向前走。  
 1. 【[划水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_shuei.md#划水)】`va2 shuei3` <small>/ʋa2 suei3/<sup>如皋</sup></small> ① 鱼的胸、腹鳍。<sup>\[如皋\]</sup> ② 在水中用手划动，使自己的身体前进。<sup>\[如东\]</sup>  
+1. 【[划子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_zz.md#划子)】`va2 zz` <small>/uɑ2 t͡sɿ/<sup>泰兴</sup></small> 用桨拨水前行的小船。<sup>\[泰兴\]</sup>  
 1. 【[划子船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_zz_chun.md#划子船)】`va2 zz chun2` <sup>[泰州]</sup> 两只桨划水行驶的小船。  
 1. 【[娃娃脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_va_lin.md#娃娃脸)】`va2 va2 lin3` <sup>[兴化]</sup> 形容成年人长得像孩子似的脸型：老吴是个～。  
 1. 【[㧚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va.md#㧚)】`va3` <small>/ʋa3/<sup>如皋</sup></small> ① 划（劃）<sup>\[如皋\]</sup>：～破。<sup>\[如皋\]</sup> ② 弯着手指爪取。<sup>\[如东\]</sup>  

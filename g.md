@@ -202,13 +202,16 @@
 1. 【[夹夹屄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaeh_gaeh_bi.md#夹夹屄)】`gaeh7 gaeh7 bi1` <sup>[如东]</sup> 受到欺负而不敢说话：王二捱张三骂啊，只好～。  
 1. 【[夹沟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaeh_geu.md#夹沟)】`gaeh7 geu1` <small>/kæʔ7 kɤ1/<sup>兴化</sup>, /keʔ7 kei1/<sup>如皋</sup></small> ① 夹路两侧的小河。<sup>\[如皋\]</sup> ② 乡间河床陡峭而深但水面很狭的小河。<sup>\[如皋\]</sup> ③ 比较浅窄的小河沟<sup>\[兴化\]</sup>：他俫两家住得近，中间只隔一条～。<sup>\[兴化\]</sup>  
 1. 【[夹攻气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaeh_gon_qi.md#夹攻气)】`gaeh7 gon1 qi5` <sup>[泰州]</sup> 同时受到对立双方的指责：正、副两位领导犯对，把我这个小办事员弄吖在他俫中间受～。  
+1. 【[夹攻气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaeh_gon_qi.md#夹攻气)】`gaeh7 gon1 qi5` <small>/kæʔ7 kɔŋ1 t͡ɕʰʝ5/<sup>泰兴</sup></small> 两头受气，两面不讨好，称为“受～”。<sup>\[泰兴\]</sup>  
 1. 【[夹棍气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaeh_guen_qi.md#夹棍气)】`gaeh7 guen qi5` <sup>[兴化]</sup> 来自对立双方的责难‖也说“夹板气”：我受的～，两头不讨好。  
-1. 【[夹巷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaeh_han.md#夹巷)】`gaeh7 han6` <small>/kæʔ7 xaŋ6/<sup>兴化</sup></small> ① 窄小的巷道<sup>\[兴化\]</sup>：（林冲）带了刀又去沧州城里城外，小街～，团团寻了一日。（《水浒传》十）<sup>\[兴化\]</sup>｜前头的～太狭，不能行人。<sup>\[兴化\]</sup> ② 两侧房屋高墙所夹成的狭窄小巷<sup>\[泰州\]</sup>：走前头的～里头穿过去就到啊唻。<sup>\[泰州\]</sup>  
+1. 【[夹巷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaeh_han.md#夹巷)】`gaeh7 han6` <small>/kæʔ7 xaŋ6/<sup>兴化</sup>, /kæʔ7 xɑŋ1/<sup>泰兴</sup></small> ① 窄小的巷道<sup>\[兴化\]</sup>：（林冲）带了刀又去沧州城里城外，小街～，团团寻了一日。（《水浒传》十）<sup>\[兴化\]</sup>｜前头的～太狭，不能行人。<sup>\[兴化\]</sup> ② 两侧房屋高墙所夹成的狭窄小巷<sup>\[泰州\]</sup>：走前头的～里头穿过去就到啊唻。<sup>\[泰州\]</sup> ③ 夹在墻体间的小巷。<sup>\[泰兴\]</sup>  
 1. 【[夹巷<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaeh_han_r.md#夹巷<sub>儿</sub>)】`gaeh7 han6 r` <sup>[如皋]</sup> 两道墙间很狭的巷道，一般不作道路。  
+1. 【[夹衣裳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaeh_i_shan.md#夹衣裳)】`gaeh7 i1 shan` <small>/kæʔ7 ʝ1 sɑŋ/<sup>泰兴</sup></small> 夹衣。有里有面的双层衣服。<sup>\[泰兴\]</sup>  
 1. 【[夹痈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaeh_ion.md#夹痈)】`gaeh7 ion6` <sup>[兴化]</sup> 在腋窝及其附近组织生的痈：害～。  
 1. 【[夹脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaeh_jiah.md#夹脚)】`gaeh7 jiah7` <small>/kæʔ7 t͡ɕiaʔ7/<sup>兴化</sup>, /keʔ7 t͡ɕiaʔ7/<sup>如皋</sup></small> ① 水车槽筒上的竖档对数，又称“夹”，上与槽桄相接。从12～到36～，逢双不逢单。除槽筒特别短的外，常用为18～、20～、24～、26～等。<sup>\[如皋\]</sup> ② 挤脚<sup>\[兴化\]</sup>：尖头皮鞋嫌～。<sup>\[兴化\]</sup>  
 1. 【[夹脚淋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaeh_jiah_lien.md#夹脚淋)】`gaeh7 jiah7 lien2` <sup>[如东]</sup> 液体顺着两腿往下淌。多指小孩遗尿。  
 1. 【[夹江](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaeh_jian.md#夹江)】`gaeh7 jian1` <sup>[兴化]</sup> 距江中流较远的比较狭窄的江面：不一个时辰，那马早已过了～，跳上崖来。（《说岳全传》二十）  
+1. 【[夹□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaeh_jieu.md#夹□)】`gaeh7 jieu` <small>/kæʔ7 t͡ɕiɤɯ/<sup>泰兴</sup></small> 夹肢窝。也说～窝儿。（疑“夹肢窝”合音）<sup>\[泰兴\]</sup>  
 1. 【[夹剪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaeh_jin.md#夹剪)】`gaeh7 jin3` <sup>[如皋]</sup> 推子。  
 1. 【[夹口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaeh_keu.md#夹口)】`gaeh7 keu3` <small>/keʔ7 kʰei3/<sup>如皋</sup></small> ① 食物中掺杂泥砂，吃起来碜牙。<sup>\[如东\]</sup>：大米饭中有沙子，吃起来～。<sup>\[如东\]</sup> ② 闹纠纷，吵嘴。<sup>\[如东\]</sup>：他俫两个又～，你去做做思想工作。<sup>\[如东\]</sup> ③ 家中小争执。<sup>\[如皋\]</sup>  
 1. 【[夹裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaeh_kv.md#夹裤)】`gaeh7 kv5` <small>/keʔ7 kʰu5/<sup>如皋</sup></small> ① 双层布的裤子。<sup>\[如皋\]</sup> ② 有里有面，当中没有棉絮的双层布裤子<sup>\[泰州\]</sup>：到啊秋天就要穿～唻。<sup>\[泰州\]</sup>  
@@ -219,7 +222,7 @@
 1. 【[夹屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaeh_pi_gu.md#夹屁股)】`gaeh7 pi5 gu` <sup>[兴化]</sup> ① 擦肛门：这吖大的伢儿屙屎还要人～。 ② （喻）留下未了事宜让别人处理：工作队下来轰吖一阵，留下大堆问题，让乡里替他俫～。  
 1. 【[夹被](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaeh_pi.md#夹被)】`gaeh7 pi6` <sup>[如皋]</sup> 双层布的被子。  
 1. 【[夹袍子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaeh_po_zz.md#夹袍子)】`gaeh7 po2 zz` <sup>[如皋]</sup> 双层的旗袍。  
-1. 【[夹墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaeh_qian.md#夹墙)】`gaeh7 qian2` <small>/keʔ7 t͡ɕʰiã2/<sup>如皋</sup></small> ① 双层墙。<sup>\[如东\]</sup> ② 两道墙相邻，只有一道缝隙。<sup>\[如皋\]</sup>  
+1. 【[夹墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaeh_qian.md#夹墙)】`gaeh7 qian2` <small>/keʔ7 t͡ɕʰiã2/<sup>如皋</sup>, /kæʔ7 t͡ɕʰiɑŋ2/<sup>泰兴</sup></small> ① 双层墙。<sup>\[如东\]</sup> ② 两道墙相邻，只有一道缝隙。<sup>\[如皋\]</sup> ③ 两座距离很近、中间有狭窄道路的墻壁。<sup>\[泰兴\]</sup>  
 1. 【[夹墙塴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaeh_qian_bon_r.md#夹墙塴<sub>儿</sub>)】`gaeh7 qian2 bon5 r` <sup>[如皋]</sup> 双墙间的缝隙处。  
 1. 【[夹墙风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaeh_qian_fon.md#夹墙风)】`gaeh7 qian2 fon1` <sup>[如皋]</sup> 从夹墙间吹过的风，一般较阴冷而有力道，久吹易致病。  
 1. 【[夹沙土](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaeh_sha_tv.md#夹沙土)】`gaeh7 sha1 tv3` <sup>[如东]</sup> 沙土与黄土掺杂的土壤：掘东地区多数田是～。  
@@ -231,6 +234,7 @@
 1. 【[夹竹桃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaeh_zhoh_to.md#夹竹桃)】`gaeh7 zhoh7 to2` <sup>[如东]</sup> 夹竹桃科植物夹竹桃，常绿灌木。  
 1. 【[夹肢窝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaeh_zhr_u.md#夹肢窝)】`gaeh7 zhr1 u1` <small>/keʔ7 t͡sɿ1 ʊ1/<sup>如皋</sup>, /kæʔ7 t͡sɿ o1/<sup>泰县</sup></small> 腋窝。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰州\]</sup><sup>\[泰县\]</sup>  
 1. 【[夹肢窝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaeh_zhr_u_r.md#夹肢窝<sub>儿</sub>)】`gaeh7 zhr1 u1 r` 腋窝  
+1. 【[夹子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaeh_zz.md#夹子)】`gaeh7 zz` <small>/kæʔ7 t͡sɿ/<sup>泰兴</sup></small> 夹物的器具。<sup>\[泰兴\]</sup>：老鼠～<sup>\[泰兴\]</sup>  
 1. 【[荚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaeh.md#荚)】`gaeh7` <sup>[如皋]</sup> 量词：一～玉米、一～棉花。  
 1. 【[尴尬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_ga.md#尴尬)】`gaen1 ga5` <small>/kɛ̃1 ka5/<sup>兴化</sup></small> ① 此词源于吴语，现在转为普通话。意为困窘、难堪。<sup>\[东台\]</sup> ② 左右为难<sup>\[兴化\]</sup>：你家夫妻吵架，倒让来客～！<sup>\[兴化\]</sup> ③ 神色不自然<sup>\[兴化\]</sup>：他一言，你一语，把小胡说得蛮～的。<sup>\[兴化\]</sup> ④ 可疑、蹊跷<sup>\[兴化\]</sup>：这个人来得～。<sup>\[兴化\]</sup>  
 1. 【[间半](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_bun.md#间半)】`gaen1 bun5` <sup>[兴化]</sup> 独眼的隐语。  
@@ -1479,7 +1483,7 @@
 1. 【[郭雀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guah_jiah_r.md#郭雀<sub>儿</sub>)】`guah7 jiah7 r` <sup>[兴化]</sup> 后周太祖郭威发迹前的浑名。由于他在位的时间仅三四年，故有“～登基——快活一时是一时”之说。  
 1. 【[郭雀<sub>儿</sub>登基——不得长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guah_jiah_r_den_ji_beh_deh_chan.md#郭雀<sub>儿</sub>登基——不得长)】`guah7 jiah7 r den1 ji1 beh7 deh7 chan2` <sup>[东台]</sup> 典故出自郭威的人生经历。后周太祖郭威，本姓常，幼时随母适郭氏，因脖子上刺了一只飞雀，所以人称“郭雀儿”。郭威在五代初期的乱世中，由普通士卒逐渐成长为将领，最后当上皇帝，清廉勤政。但郭威无子，只活了五十一岁，当了三年皇帝，死后便由内侄柴荣接位，故江淮民间有“～”的说法。  
 1. 【[光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan.md#光)】`guan1-3` <sup>[如皋]</sup> 副词，同“光”：他～吃不做。  
-1. 【[光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan.md#光)】`guan1` <small>/kuaŋ1/<sup>兴化</sup>, /kuã1/<sup>如皋</sup></small> ① 光线。<sup>\[如东\]</sup> ② 无，没有。<sup>\[如东\]</sup> ③ 副词。同“经常、一直、只、单、仅”<sup>\[如皋\]</sup>：他～做事，不要钱；你不要～上他家去。有时也说成guan3。<sup>\[如皋\]</sup> ④ 打磨加工件，使光滑<sup>\[兴化\]</sup>：～木板<sup>\[兴化\]</sup>｜～地坪。<sup>\[兴化\]</sup>  
+1. 【[光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan.md#光)】`guan1` <small>/kuaŋ1/<sup>兴化</sup>, /kuã1/<sup>如皋</sup>, /kuɑŋ1/<sup>泰兴</sup></small> ① 光线。<sup>\[如东\]</sup> ② 无，没有。<sup>\[如东\]</sup> ③ 副词。同“经常、一直、只、单、仅”<sup>\[如皋\]</sup>：他～做事，不要钱；你不要～上他家去。有时也说成guan3。<sup>\[如皋\]</sup> ④ 打磨加工件，使光滑<sup>\[兴化\]</sup>：～木板<sup>\[兴化\]</sup>｜～地坪。<sup>\[兴化\]</sup> ⑤ 净尽<sup>\[泰兴\]</sup>：麦收啊～吖咾<sup>\[泰兴\]</sup> ⑥ 裸露<sup>\[泰兴\]</sup>：～膀子<sup>\[泰兴\]</sup>  
 1. 【[光膀子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_ban_zz.md#光膀子)】`guan1 ban3 zz` <sup>[如东]</sup> 上身不穿衣服：这是公共场所，请不要～。  
 1. 【[光彩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_cae.md#光彩)】`guan1 cae3` <sup>[如东]</sup> ① 色彩闪烁。 ② 比喻有面子：不～。  
 1. 【[光打光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_da_guan.md#光打光)】`guan1 da3 guan1` <sup>[如皋]</sup> 见“光光的”。  
@@ -1488,6 +1492,7 @@
 1. 【[光光的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_guan_dii.md#光光的)】`guan1 guan1 dii` <sup>[如皋]</sup> 精光，完全没有了。又作“精打光”，“光打光”“光吖”。  
 1. 【[光光滑条子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_guan_huaeh_tio_zz.md#光光滑条子)】`guan1 guan1 huaeh8 tio2 zz` <sup>[泰县]</sup> 无牵挂的人。  
 1. 【[光光堂<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_guan_tan_r.md#光光堂<sub>儿</sub>)】`guan1 guan1 tan2 r` <sup>[东台]</sup> 光棍，指没有娶妻的男子。  
+1. 【[光光堂<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_guan_tan_r.md#光光堂<sub>儿</sub>)】`guan1 guan1 tan2 r` <small>/kuɑŋ1 kuɑŋ1 tʰɑ˞2/<sup>泰兴</sup></small> 没有妻子的单身汉<sup>\[泰兴\]</sup>：～油炒饭，一吃门一关。<sup>\[泰兴\]</sup>  
 1. 【[光光堂堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_guan_tan_tan.md#光光堂堂)】`guan1 guan1 tan2 tan2` <sup>[如皋]</sup> 见“光堂”。  
 1. 【[光棍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_guen.md#光棍)】`guan1 guen5` <small>/kuaŋ1 kuən5/<sup>兴化</sup></small> ① 没有娶妻的男子。<sup>\[如东\]</sup> ② 地痞、流氓<sup>\[兴化\]</sup>：三等打手都是～青皮一流人物。（《四杰传》三四）<sup>\[兴化\]</sup> ③ 所谓识时务的人<sup>\[兴化\]</sup>：～不吃眼前亏。<sup>\[兴化\]</sup>｜～打九九，不打加一。<sup>\[兴化\]</sup>  
 1. 【[光棍打九九，不能打加一](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_guen_da_jieu_jieu_beh_nen_da_jia_ieh.md#光棍打九九，不能打加一)】`guan1 guen5 da3 jieu3 jieu3 beh7 nen2 da3 jia1 ieh7` <sup>[东台]</sup> （俗语）做事要掌握分寸，不能超过限度。  
@@ -1505,13 +1510,15 @@
 1. 【[光葫芦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_hv_lv.md#光葫芦)】`guan1 hv2 lv2` <sup>[泰州]</sup> 比喻剃光、掉光头发的脑袋：他化疗药吃咖多啊，一头乌发成啊～。  
 1. 【[光脚丫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_jiah_nga_r.md#光脚丫<sub>儿</sub>)】`guan1 jiah7 nga1 r` <sup>[如东]</sup> 赤脚。  
 1. 【[光景](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_jien.md#光景)】`guan1 jien3` <sup>[如东]</sup> 事物的样子或状态。  
+1. 【[光景](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_jien.md#光景)】`guan1 jien3` <small>/kuɑŋ1 t͡ɕiŋ3/<sup>泰兴</sup></small> 情况，景况。<sup>\[泰兴\]</sup>  
 1. 【[光拉巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_la_ba.md#光拉巴)】`guan1 la ba1` <sup>[兴化]</sup> 裸露着上身：他连汗衫也不穿，～的就往街上跑。‖也说“光巴巴”。  
 1. 【[光拉巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_la_ba.md#光拉巴)】`guan1 la1 ba1` <sup>[东台]</sup> 浑身裸露，一丝不挂。喻指一无所有无牵挂，不在乎。也作“光裸巴”。  
 1. 【[光榔头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_lan_teu.md#光榔头)】`guan1 lan2 teu2` 秃头，光头。  
 1. 【[光临](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_lien.md#光临)】`guan1 lien2` <sup>[东台]</sup> （敬词）称宾客的到来。  
 1. 【[光溜溜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_lieu_lieu.md#光溜溜)】`guan1 lieu1 lieu1` <sup>[如东]</sup> ① 身上不穿任何衣服。 ② 形容光滑。  
+1. 【[光六秃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_loh_toh.md#光六秃)】`guan1 loh toh` <small>/kuɑŋ1 lɔʔ tʰɔʔ/<sup>泰兴</sup></small> 空荡无物貌；裸露貌。<sup>\[泰兴\]</sup>  
 1. 【[光六秃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_loh_toh.md#光六秃)】`guan1 loh8 toh` <sup>[兴化]</sup> 形容一点也不剩：这个庄子一棵大树没得，远处一望～的。｜赔了夫人又打臀，手中依旧～。（《醒世恒言》三六）  
-1. 【[光陆秃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_loh_toh.md#光陆秃)】`guan1 loh8 toh7` <sup>[泰州]</sup> 比喻荡然无物的样子：不谈唻，本钱全输掉啊，我这一刻儿身上～。｜望过啊唻，东西都捱他弄吖走啊，楼上～。  
+1. 【[光六秃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_loh_toh.md#光六秃)】`guan1 loh8 toh7` <sup>[泰州]</sup> 比喻荡然无物的样子：不谈唻，本钱全输掉啊，我这一刻儿身上～。｜望过啊唻，东西都捱他弄吖走啊，楼上～。  
 1. 【[光面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_min.md#光面)】`guan1 min6` <sup>[如东]</sup> 不加拌料的面条。  
 1. 【[光妙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_mio.md#光妙)】`guan1 mio6` <sup>[如皋]</sup> 完美、巧妙，无遗留问题。也说“光堂”：他做事～。  
 1. 【[光吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_nga.md#光吖)】`guan1 nga` <sup>[如皋]</sup> 见“光光的”。  

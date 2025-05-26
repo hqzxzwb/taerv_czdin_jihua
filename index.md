@@ -133,6 +133,7 @@
 1. 【[儿孙自有儿孙福，莫为儿孙当牛马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_suen_cz_ieu.md#儿孙自有儿孙福，莫为儿孙当牛马)】`er2 suen1 cz6 ieu3 er2 suen1 foh7 mah8 vei6 er2 suen1 dan1 ngeu2 ma3` <sup>[东台]</sup> 要教育后代自强不息。  
 1. 【[儿孙满堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_suen_mun_tan.md#儿孙满堂)】`er2 suen1 mun3 tan2` <sup>[如东]</sup> 形容家庭人丁兴旺。  
 1. 【[儿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_zz.md#儿子)】`er2 zz` <sup>[如东]</sup> 自己的下一代男孩称儿子。亲生的，称生子；收养的，称养子；过继的，称嗣子。  
+1. 【[而后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_heu.md#而后)】`er2 heu6` <small>/ɚ2 xəɪ1/<sup>泰兴</sup></small> 以后，后来<sup>\[泰兴\]</sup>：～我就不曾过问<sup>\[泰兴\]</sup>  
 1. 【[耳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er.md#耳)】`er3` <small>/ɚ3/<sup>泰兴</sup></small> 理睬<sup>\[泰兴\]</sup><sup>\[泰州\]</sup>：他不是个杲子，不要～他<sup>\[泰兴\]</sup>｜他说他的，你不要～他，他有甚的办法到你。<sup>\[泰州\]</sup>  
 1. 【[耳板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_baen.md#耳板)】`er3 baen3` <sup>[如皋]</sup> 独轮车的轴承架。  
 1. 【[耳不听，肚不恼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_beh_tien_tv.md#耳不听，肚不恼)】`er3 beh7 tien5 tv6 beh7 no3` <small>/ɚ3 pəʔ7 tʰiŋ5 tʰu1 pəʔ7 nɔ3/<sup>泰兴</sup></small> 谓听不到不好的话，内心就不着急烦恼。<sup>\[泰兴\]</sup>  

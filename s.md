@@ -215,7 +215,6 @@
 1. 【[三十六行，行行出状元](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheh_loh_han.md#三十六行，行行出状元)】`saen1 sheh loh8 han2 han2 han2 chueh7 chuan6 iun` <sup>[泰兴]</sup> 泛指各行各业，都能表现自己的才华，成就惊人的事业。三十六行，亦称“七十二行”、“三百六十行”，其义同。  
 1. 【[三十年河东三十年河西](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheh_nin_hu.md#三十年河东三十年河西)】`saen1 sheh nin2 hu2 don1 saen1 sheh nin2 hu2 xi1` <small>/ɕiɛ̃1 səʔ nĩ2 xɤɯ2 tɔŋ1 ɕiɛ̃1 səʔ nĩ2 xɤɯ2 ɕʝ1/<sup>泰兴</sup></small> 好的差的在一定条件下相互转化，变化很快。世道沧桑，盛衰不常。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[三十晚上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheh_vaen_shan.md#三十晚上)】`saen1 sheh vaen3 shan` <sup>[泰州]</sup> 俗称除夕：他每年都要一直忙到～才归家。  
-1. 【[三十而立](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheh_er_lieh.md#三十而立)】`saen1 sheh8 er2 lieh8` <sup>[泰兴]</sup> 《论语•为政》：“吾十有五而志于学，三十而立。”后以“三十而立”谓人在三十岁前后有所成就。  
 1. 【[三十夜的红货——买不到的急，卖不掉的也着急](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheh_ia_dii.md#三十夜的红货——买不到的急，卖不掉的也着急)】`saen1 sheh8 ia6 dii hon2 hu5 mae3 beh7 do5 dii jieh7 mae6 beh7 tio6 dii ia3 zhah7 jieh7` <sup>[东台]</sup>   
 1. 【[三十夜看皇历——没得日子啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheh_ia_kun.md#三十夜看皇历——没得日子啊)】`saen1 sheh8 ia6 kun5 huan2 lieh meh8 deh7 rih8 zz a` <sup>[东台]</sup>   
 1. 【[三十夜吃掉，初一寡寡的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheh_ia_qieh_tio_chv_ieh_gua_gua_dii.md#三十夜吃掉，初一寡寡的)】`saen1 sheh8 ia6 qieh7 tio chv1 ieh7 gua3 gua3 dii` <sup>[东台]</sup> 意同上句，教人过日子细水长流。  
@@ -3242,6 +3241,7 @@
 1. 【[死啊走](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_a_zeu.md#死啊走)】`sz3 a zeu3` <sup>[东台]</sup> 同“死开去”。  
 1. 【[死把调<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ba_dio_r.md#死把调<sub>儿</sub>)】`sz3 ba5 dio5 r` <sup>[东台]</sup> 同“死形样子”。  
 1. 【[死板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_baen.md#死板)】`sz3 baen3` <sup>[如东]</sup> ① 不灵活：这个人做事非常～。 ② 不生动，不活泼：这个节目太～吖。  
+1. 【[死不瘟㾭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_beh_ven_jieu.md#死不瘟㾭)】`sz3 beh ven1 jieu5` <small>/sɿ3 pəʔ ʋəŋ1 t͡ɕiɤɯ5/<sup>泰兴</sup></small> 板着面孔，不苟言笑的样子。贬义。<sup>\[泰兴\]</sup>  
 1. 【[死不闭眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_beh_bi_ngaen.md#死不闭眼)】`sz3 beh7 bi5 ngaen3` <sup>[如皋]</sup> 心愿未了，不服气。  
 1. 【[死不服输](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_beh_foh_shv.md#死不服输)】`sz3 beh7 foh8 shv1` <sup>[如东]</sup> 坚决不承认失败：他的脾气犟，就是～。  
 1. 【[死不改](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_beh_gae.md#死不改)】`sz3 beh7 gae3` <sup>[如东]</sup> 坚决不改正：你再开导，他也～。  
@@ -3263,6 +3263,7 @@
 1. 【[死𠵹遭映](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_gan_zo_ian.md#死𠵹遭映)】`sz3 gan zo1 ian1` <sup>[兴化]</sup> 形容因吵闹而乱哄哄的：她闹得～的，太不像话！  
 1. 【[死杠杠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_gan_gan.md#死杠杠)】`sz3 gan5 gan5` <sup>[兴化]</sup> 硬性规定：卞金山把林大头、韦广发和万登明找来，划～说……（马春阳《夜袭叹气庙》）。  
 1. 【[死酵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_go.md#死酵)】`sz3 go5` <sup>[兴化]</sup> 面粉和水成团后不经发酵即成。  
+1. 【[死鸽子说得活鸽子扇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_guh_zz_shuh.md#死鸽子说得活鸽子扇)】`sz3 gu7 zz shuh7 deh uh8 guh7 zz shin1` <small>/sɿ3 kɤɯ7 t͡sɿ sʊʔ7 təʔ ʊʔ8 kʊʔ7 t͡sɿ ɕĩ1/<sup>泰兴</sup></small> 把本来很差的事情、物品等说得天花乱坠，变品质、质量极好的。<sup>\[泰兴\]</sup>  
 1. 【[死鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_guei.md#死鬼)】`sz3 guei3` <small>/sɿ3 kuei3/<sup>如皋</sup>, /sɿ3 kuəɪ3/<sup>泰兴</sup></small> ① 作名词，贬指已死的人；詈语。<sup>\[如皋\]</sup> ② 作形容词，形容过分精明，特别小气、吝啬。<sup>\[如皋\]</sup> ③ 昵语<sup>\[如皋\]</sup>：你个～，早点来。<sup>\[如皋\]</sup> ④ 已死的人。丈夫或妻子对已死的妻子或丈夫的称谓。<sup>\[如东\]</sup>：～在世的时侯就喜欢吃西瓜。<sup>\[如东\]</sup> ⑤ 指已去世的人。也用于表示亲昵或开玩笑。<sup>\[泰兴\]</sup>  
 1. 【[死下来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ha_lae.md#死下来)】`sz3 ha lae2` <sup>[兴化]</sup> 死亡以后：“……你悄悄的每人豌里替我拈一撮砒霜放着。等他们～，我自有理会……”（《广陵潮》三六）。“……自己辛苦了一辈子，挣了这分大家私，～又没有个传宗接代的人……”（《官场现形记》四九）  
 1. 【[死下来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ha_lae.md#死下来)】`sz3 ha6 lae` <sup>[泰州]</sup> 骂人从高处下到低处来：你还不～啊，哿是当真要跌煞咖啊。  
@@ -3271,7 +3272,7 @@
 1. 【[死货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_hu.md#死货)】`sz3 hu5` <sup>[如皋]</sup> 詈语、昵语。多骂年轻女性。  
 1. 【[死话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_hua.md#死话)】`sz3 hua6` <small>/sɿ3 xua1/<sup>如皋</sup></small> ① 态度死板、内容刻板的话，断绝性的话，有顶撞义。<sup>\[如皋\]</sup> ② 坏话。<sup>\[如东\]</sup>：这个人就会说～。<sup>\[如东\]</sup> ③ 比“獃话”程度强些，有贬义。<sup>\[如皋\]</sup>  
 1. 【[死也闭眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ia_bi_ngaen.md#死也闭眼)】`sz3 ia3 bi5 ngaen3` <sup>[如皋]</sup> 心愿已了，服气了。  
-1. 【[死要脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_io_lin.md#死要脸)】`sz3 io5 lin3` <small>/sɿ3 iɔ5 liɪ̃3/<sup>兴化</sup></small> ① 为顾全脸面，千方百计掩饰自己的窘境和丑行。<sup>\[兴化\]</sup>：谚曰：上吊搽粉一一～。<sup>\[兴化\]</sup> ② 非常要面子，爱虚荣<sup>\[泰州\]</sup>：你家里这种情况，办个五六桌就不错唻，你就不要～吧。<sup>\[泰州\]</sup>  
+1. 【[死要脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_io_lin.md#死要脸)】`sz3 io5 lin3` <small>/sɿ3 iɔ5 liɪ̃3/<sup>兴化</sup>, /sɿ3 iɔ5 lĩ3/<sup>泰兴</sup></small> ① 为顾全脸面，千方百计掩饰自己的窘境和丑行。<sup>\[兴化\]</sup>：谚曰：上吊搽粉一一～。<sup>\[兴化\]</sup> ② 非常要面子，爱虚荣<sup>\[泰州\]</sup>：你家里这种情况，办个五六桌就不错唻，你就不要～吧。<sup>\[泰州\]</sup> ③ 死要面子<sup>\[泰兴\]</sup>：吊杀鬼搽粉，～<sup>\[泰兴\]</sup>  
 1. 【[死犟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_jian.md#死犟)】`sz3 jian5` <small>/sɿ3 t͡ɕiaŋ5/<sup>兴化</sup></small> ① 太倔强、固执，不服软。<sup>\[东台\]</sup> ② 认死理，不听人劝导<sup>\[兴化\]</sup> ③ 极其倔强，固执己见，不听人劝<sup>\[泰州\]</sup>：他这个人～。<sup>\[泰州\]</sup>  
 1. 【[死开去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_kae_qy.md#死开去)】`sz3 kae1 qy` ① （詈语）怒斥人走开，滚蛋。<sup>\[东台\]</sup> ② 要人离开说话人所在的地方，詈词<sup>\[泰州\]</sup>：你～，不要在这块碍手𢴬脚的。<sup>\[泰州\]</sup>  
 1. 【[死苦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_kv.md#死苦)】`sz3 kv3` 极大的苦楚或磨难<sup>\[泰州\]</sup>：吃咖笔～。<sup>\[泰州\]</sup>  
@@ -3321,6 +3322,7 @@
 1. 【[死无滥用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_v_laen_ion.md#死无滥用)】`sz3 v2 laen6 ion6` <sup>[泰州]</sup> ① 哪怕是虚妄不实的能力或本领也不具备，意谓处理事务的能力或本领差到极点的人：你这个人怎吖就这吖～的，这点儿小事情都弄不好。 ② 意谓性格极其懦弱的人：你这吖大的岁数的人唻，捱个才出来的小年轻欺得这形象，还不承认自己是～。  
 1. 【[死无烂用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_v_laen_ion.md#死无烂用)】`sz3 v2 laen6 ion6` <small>/sɿ3 u2 nɛ̃1 ioŋ1/<sup>泰县</sup></small> ① 形容一点作用都没有。<sup>\[东台\]</sup> ② 无用、没本领。<sup>\[泰县\]</sup>  
 1. 【[死亡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_van.md#死亡)】`sz3 van2` <sup>[如东]</sup> 生命丧失。  
+1. 【[死网皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_van_pi.md#死网皮)】`sz3 van3 pi2` <small>/sɿ3 uɑŋ3 pʰʝ2/<sup>泰兴</sup></small> 小鱼。也称“菜角丁儿”。<sup>\[泰兴\]</sup>  
 1. 【[死相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_xian.md#死相)】`sz3 xian5` <small>/sɿ3 ɕiaŋ5/<sup>兴化</sup>, /sɿ3 ɕiɑŋ5/<sup>泰兴</sup></small> ① 比喻形象难看。<sup>\[如东\]</sup> ② 形容非常难看的样子<sup>\[兴化\]</sup>：“嗯！你看你这个～！快弄镜子照照看！”（《皮五辣子》五）。也作“死色”。<sup>\[兴化\]</sup> ③ 詈词，骂人极猥琐的或者极狼狈的样子<sup>\[泰州\]</sup>：你望你个～，花斑乌龟似的，还不去洗啊子。<sup>\[泰州\]</sup> ④ 詈词，骂人煞有介事的样子<sup>\[泰州\]</sup>：这小伙不晓得怎吖变得这吖～的，一开口就官腔𠫓𠫓的。<sup>\[泰州\]</sup> ⑤ 要死的样子。多用于骂人样子十分难看。<sup>\[泰兴\]</sup>  
 1. 【[死心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_xien.md#死心)】`sz3 xien1` <sup>[如东]</sup> 没有任何希望了。  
 1. 【[死心塌地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_xien_taeh_ti.md#死心塌地)】`sz3 xien1 taeh7 ti6` <sup>[如东]</sup> 拿定主意，决不改变：他要～的做下去。  
@@ -3331,7 +3333,7 @@
 1. 【[死信](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_xien.md#死信)】`sz3 xien5` <small>/sɿ3 ɕiŋ5/<sup>泰兴</sup></small> 人死亡的消息<sup>\[泰兴\]</sup>：哑巴送～，仰下来搔<sup>\[泰兴\]</sup>  
 1. 【[死小人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_xio_ren.md#死小人)】`sz3 xio3 ren2` <sup>[兴化]</sup> 形容人势利，见钱眼开：乔老头子～，一开口就暗搭机风……（《扬州评话选（二）甘露寺相婿》）  
 1. 【[死猪脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_zhv_lin.md#死猪脸)】`sz3 zhv1 lin3` <sup>[兴化]</sup> （讽）形容人摆架子，成天拉长着脸的样子：他官不大，这副～难看哎。  
-1. 【[死做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_zu.md#死做)】`sz3 zu5` <small>/sɿ3 t͡so5/<sup>兴化</sup></small> ① 指不懂得巧干<sup>\[兴化\]</sup>：他这吖～，一世也不得发。<sup>\[兴化\]</sup> ② 也指苦干。<sup>\[兴化\]</sup>：谚曰：八败命怕个～。<sup>\[兴化\]</sup> ③ 做工作或活动时全力去做<sup>\[泰州\]</sup>：他这个人实在，不问到啊哪块，他都是～。<sup>\[泰州\]</sup>  
+1. 【[死做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_zu.md#死做)】`sz3 zu5` <small>/sɿ3 t͡so5/<sup>兴化</sup>, /sɿ3 t͡sɤɯ5/<sup>泰兴</sup></small> ① 指不懂得巧干<sup>\[兴化\]</sup>：他这吖～，一世也不得发。<sup>\[兴化\]</sup> ② 也指苦干。<sup>\[兴化\]</sup>：谚曰：八败命怕个～。<sup>\[兴化\]</sup> ③ 做工作或活动时全力去做<sup>\[泰州\]</sup>：他这个人实在，不问到啊哪块，他都是～。<sup>\[泰州\]</sup> ④ 只晓得蛮干，不懂得巧干或变通办法来改变处境或环境。<sup>\[泰兴\]</sup>  
 1. 【[水门汀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_men_tien.md#水门汀)】`sz3 men tien1` <sup>[兴化]</sup> ① 水泥。 ② 混凝土：上池斋药店是～的地坪。～词早年由洋泾浜英语转化面来。  
 1. 【[四……八……](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_baeh.md#四……八……)】`sz5 baeh7` <small>/sɿ5 pæʔ7/<sup>泰兴</sup></small> 分別用在两个意义相近的词或词素前面，表示全方位或各个方面。如“四面八方”、“四通八达”、“四碗八盘”等等。<sup>\[泰兴\]</sup>  
 1. 【[四不拗六](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_beh_ngo_loh.md#四不拗六)】`sz5 beh7 ngo3 loh8` <small>/sɿ5 pəʔ7 ŋɔ3 lɔʔ8/<sup>如皋</sup>, /sɿ5 pəʔ7 ŋɔ3 lɔʔ8/<sup>泰兴</sup></small> ① 下不犯上；下斗不过上。<sup>\[如皋\]</sup> ② 少数拗不过多数。<sup>\[泰兴\]</sup>  

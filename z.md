@@ -702,9 +702,11 @@
 1. 【[只止](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_zhr.md#只止)】`zheh7 zhr` <small>/t͡səʔ7 t͡sɿ/<sup>泰兴</sup></small> （数量上、好坏程度上等）仅仅\[泰兴：他就考啊～箇点儿分数\]  
 1. 【[只准](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_zhuen.md#只准)】`zheh7 zhuen3` <sup>[东台]</sup> 只多不少；完全对得起。  
 1. 【[执铲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_chaen_zz.md#执铲子)】`zheh7 chaen3 zz` <sup>[兴化]</sup> 当锅炒菜：今吖中午由大嫂～，弄几样菜让大家尝尝。  
+1. 【[执铲子的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_chaen_zz_dii.md#执铲子的)】`zheh7 chaen3 zz dii` <small>/t͡səʔ7 t͡ɕʰiɛ̃3 t͡sɿ təɪ/<sup>泰兴</sup></small> 谓灶上作菜的。<sup>\[泰兴\]</sup>  
 1. 【[执钉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_dien.md#执钉)】`zheh7 dien1` <sup>[兴化]</sup> 旧葬俗：父母遗体入验，分别由父系或母系亲属中人扶一下斧柄，再由匠人将棺盖钉上。‖也作“挽钉”。  
 1. 【[执斧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_fv.md#执斧)】`zheh7 fv3` <small>/t͡səʔ7 fu3/<sup>如皋</sup></small> ① 丧仪之一。母死，大殓给棺材钉钉子，由舅父～递给木匠。表示母家人无异议。<sup>\[如皋\]</sup> ② 死人盖棺时敲第一斧的人，通常为死者的兄弟或侄子（死者是女人，则为爷娘侄子）中年龄最长者。<sup>\[东台\]</sup>  
 1. 【[执意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_i.md#执意)】`zheh7 i5` <sup>[如皋]</sup> 坚决，坚持。  
+1. 【[执跷分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_qio_fen.md#执跷分)】`zheh7 qio1 fen` <small>/t͡səʔ7 t͡ɕʰiɔ1 fəŋ/<sup>泰兴</sup></small> 谓闹矛盾，双方或几方意见不统一。<sup>\[泰兴\]</sup>  
 1. 【[执五执六](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_v_zheh_loh.md#执五执六)】`zheh7 v3 zheh7 loh8` <sup>[东台]</sup> 拿不定主张，一会儿要这样，一会儿要那样。  
 1. 【[指掐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_kaeh.md#指掐)】`zheh7 kaeh` <small>/t͡səʔ7 kʰeʔ/<sup>如皋</sup></small> ① 指甲或趾甲<sup>\[如皋\]</sup> ② 指尖上面的角质物，有保护指尖的作用。<sup>\[如东\]</sup>  
 1. 【[指掐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_kaeh.md#指掐)】`zheh7 kaeh7` <sup>[东台]</sup> ［读若执掐］手指或脚趾端背面扁平的甲状结构，属于结缔组织。  
@@ -1374,11 +1376,15 @@
 1. 【[翅膀拐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ban_guae_zz.md#翅膀拐子)】`zhr5 ban guae3 zz` <sup>[兴化]</sup> 翅膀。（喻）自立能力：“～嘿，现在出落得像个人了，～硬了，瞧不起妈了……”（《马春阳作品选·月郎和她的娘舅们》）  
 1. 【[至诚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_chen.md#至诚)】`zhr5 chen2` <sup>[如皋]</sup> 人品高尚，诚笃。  
 1. 【[至诚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_chen.md#至诚)】`zhr5 chen2` <sup>[如东]</sup> 老实，真心：老人家～。  
+1. 【[至诚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_chen.md#至诚)】`zhr5 chen2` <small>/t͡sɿ5 t͡sʰəŋ2/<sup>泰兴</sup></small> 特别诚实、忠诚。<sup>\[泰兴\]</sup>：他是个～人，不会犯嫌。<sup>\[泰兴\]</sup>  
 1. 【[至得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_deh.md#至得)】`zhr5 deh7` 顶多，最多  
 1. 【[至多](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_du.md#至多)】`zhr5 du1` <sup>[如皋]</sup> 最多，顶多。  
+1. 【[至多](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_du.md#至多)】`zhr5 du1` <small>/t͡sɿ5 tɤɯ1/<sup>泰兴</sup></small> 顶多、最多。表示极大限度。<sup>\[泰兴\]</sup>：从泰兴到黄桥，～50里路。<sup>\[泰兴\]</sup>  
 1. 【[至恭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_gon.md#至恭)】`zhr5 gon1` <sup>[如皋]</sup> 人品高尚，诚笃。  
 1. 【[至厚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_heu.md#至厚)】`zhr5 heu6` <small>/t͡sɿ5 xɤ6/<sup>兴化</sup></small> ① 相交很深的朋友，也称至交、至好<sup>\[东台\]</sup>：他俫是～，无话不谈。<sup>\[东台\]</sup> ② 形容感情非常深厚<sup>\[兴化\]</sup>：“……泰安州我有个同年，姓白……与我～……”（《梼杌闲评》五）<sup>\[兴化\]</sup>  
+1. 【[至亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_qien.md#至亲)】`zhr5 qien1` <small>/t͡sɿ5 t͡ɕʰiŋ1/<sup>泰兴</sup></small> 嫡亲。指血缘关系婚姻关系最近的亲属。如父母与子女，以及兄弟姐妹之间、甥舅之间，均可称为“至亲骨肉”。<sup>\[泰兴\]</sup>  
 1. 【[至日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_rih.md#至日)】`zhr5 rih8` <sup>[如皋]</sup> 夏至、冬至的当天。  
+1. 【[至少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_sho.md#至少)】`zhr5 sho3` <small>/t͡sɿ5 sɔ3/<sup>泰兴</sup></small> 最少、最小的限度。<sup>\[泰兴\]</sup>  
 1. 【[至早](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_zo.md#至早)】`zhr5 zo3` <sup>[兴化]</sup> 最早：“……便是你姨妹妹他们出来，～也须得到午饭时候～”（《广陵潮》六八）  
 1. 【[致](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr.md#致)】`zhr5` <sup>[如皋]</sup> 得（后遗症）：坐月子～下来的讲究（病）难得好。  
 1. 【[𢴠<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_r.md#𢴠<sub>儿</sub>)】`zhr5 r` <small>/t͡sɿ5 ɚ/<sup>兴化</sup>, /t͡sɿ˞5/<sup>如皋</sup></small> ① 等长标识物<sup>\[如皋\]</sup>：拿篾子掐个～去买锅子。<sup>\[如皋\]</sup> ② 表示长短的标志物<sup>\[兴化\]</sup>：草～。<sup>\[兴化\]</sup> ③ 在墙壁、河岸等处刻画表示高度、长度的记号或在器物上表示分量的符号。𢴠，《集韵·至韵》直利切，持物使相当也。通常写作“志儿”。<sup>\[兴化\]</sup>  

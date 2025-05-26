@@ -1459,12 +1459,14 @@
 1. 【[柏油马路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_ieu_ma_lv.md#柏油马路)】`boh7 ieu2 ma3 lv6` <sup>[东台]</sup> 沥青路面的通称。  
 1. 【[百虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_chon.md#百虫)】`boh7 chon2` <sup>[兴化]</sup> 各种害虫：春雪调～，冬雪杀～。  
 1. 【[百草霜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_co_shuan.md#百草霜)】`boh7 co3 shuan1` <sup>[如东]</sup> 杂草燃烧后附于锅底、灶膛或烟囱内的烟灰，入中药。  
-1. 【[百搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_daeh.md#百搭)】`boh7 daeh7` <small>/pɔʔ7 tæʔ7/<sup>兴化</sup></small> ① 与任何人都能搭讪上的人（贬）<sup>\[东台\]</sup>：同“逢人搭”。<sup>\[东台\]</sup> ② 能和所有的牌搭配的扑克牌。<sup>\[兴化\]</sup> ③ （喻）与什么人都能搭上关系的人<sup>\[兴化\]</sup>：只要学鸟择木而栖，别做～逢人配就是了。（马春阳《月朗和她的娘舅们》）<sup>\[兴化\]</sup> ④ 麻将、扑克牌中按规则可与其他牌相配对的牌<sup>\[泰州\]</sup>：二筒是～，跟三条配头子，和唻。<sup>\[泰州\]</sup> ⑤ 詈词，辱骂生活作风不正派的女性<sup>\[泰州\]</sup>：这个女将是个～，不晓得到底有多少相好的。<sup>\[泰州\]</sup>  
+1. 【[百搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_daeh.md#百搭)】`boh7 daeh7` <small>/pɔʔ7 tæʔ7/<sup>兴化</sup>, /pɔʔ7 tæʔ7/<sup>泰兴</sup></small> ① 与任何人都能搭讪上的人（贬）\[东台：同“逢人搭”。\] ② 能和所有的牌搭配的扑克牌。<sup>\[兴化\]</sup> ③ （喻）与什么人都能搭上关系的人<sup>\[兴化\]</sup>：只要学鸟择木而栖，别做～逢人配就是了。（马春阳《月朗和她的娘舅们》）<sup>\[兴化\]</sup> ④ 麻将、扑克牌中按规则可与其他牌相配对的牌<sup>\[泰州\]</sup>：二筒是～，跟三条配头子，和唻。<sup>\[泰州\]</sup> ⑤ 詈词，辱骂生活作风不正派的女性<sup>\[泰州\]</sup>：这个女将是个～，不晓得到底有多少相好的。<sup>\[泰州\]</sup> ⑥ 麻将、纸牌里与其它牌都能搭配的牌。<sup>\[泰兴\]</sup>  
 1. 【[百二百三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_er_boh_saen.md#百二百三)】`boh7 er6 boh7 saen1` <sup>[如皋]</sup> 合为二百五。  
 1. 【[百翻百调](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_faen_boh_dio.md#百翻百调)】`boh7 faen1 boh7 dio5` <sup>[东台]</sup> 与“十翻十调”近义，程度上更夸张。  
 1. 【[百分之百](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_fen_zhr_boh.md#百分之百)】`boh7 fen1 zhr1 boh7` <sup>[如东]</sup> 全部，肯定：只要王二出面，那是～的成功。  
+1. 【[百家饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_ga_faen.md#百家饭)】`boh7 ga faen6` <small>/pɔʔ7 kɑ fɛ̃1/<sup>泰兴</sup></small> 吃许多人家的饭。乡人称各种工艺匠人为“吃百家饭的”。<sup>\[泰兴\]</sup>  
 1. 【[百家哥哥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_ga_gu_gu.md#百家哥哥)】`boh7 ga gu1 gu` <sup>[兴化]</sup> 斑鸠的俗称，以其叫声得名。  
 1. 【[百家衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_ga_i.md#百家衣)】`boh7 ga i1` <sup>[兴化]</sup> 为新生儿报喜送红蛋时，各家回赠小额钱钞，用来购布制成的衣服。  
+1. 【[百家衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_ga_i.md#百家衣)】`boh7 ga i1` <small>/pɔʔ7 kɑ ʝ1/<sup>泰兴</sup></small> 旧俗为使婴儿长寿，向各家求乞零碎布帛缝成的衣服。<sup>\[泰兴\]</sup>  
 1. 【[百个呆子不一样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_gu_dae_zz_beh_ieh_ian.md#百个呆子不一样)】`boh7 gu dae1 zz beh7 ieh7 ian6` <sup>[东台]</sup> 有智力障碍的人表现形态各不相同。  
 1. 【[百个麻雀做碗菜——多嘴多舌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_gu_ma_jiah_zu_un_cae_du_jy_du_shih.md#百个麻雀做碗菜——多嘴多舌)】`boh7 gu ma2 jiah7 zu5 un3 cae5 du1 jy3 du1 shih8` <sup>[东台]</sup>   
 1. 【[百花生日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_hua_shen_rih.md#百花生日)】`boh7 hua1 shen1 rih8` <sup>[如东]</sup> 阴历三月初三日，是如东的百花生日，也称桃花生日。有的地方把二月初二日、二月十二日定为百花生日。民间用红布给果树挂红，祝愿多结果子。  
@@ -1476,7 +1478,7 @@
 1. 【[百页](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_ih.md#百页)】`boh7 ih8` ① 用豆浆压制而成的薄片儿。也说buh7 ih8。<sup>\[如东\]</sup> ② 豆制品之一，薄片状，又叫“千张”。（也作“百叶”）<sup>\[东台\]</sup>  
 1. 【[百页底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_ih_di.md#百页底)】`boh7 ih8 di3` <sup>[泰县]</sup> 用浆糊、布条做成的鞋底。  
 1. 【[百页结](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_ih_jih.md#百页结)】`boh7 ih8 jih7` <sup>[东台]</sup> 百页切成条，打成绳结状的食物，一般和肉食一起烹煮。  
-1. 【[百脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_jiah.md#百脚)】`boh7 jiah7` <small>/pɔʔ7 t͡ɕiaʔ7/<sup>兴化</sup>, /pɔʔ7 t͡ɕiaʔ7/<sup>如皋</sup></small> 蜈蚣。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：砖头堆子里头有～。<sup>\[泰州\]</sup>  
+1. 【[百脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_jiah.md#百脚)】`boh7 jiah7` <small>/pɔʔ7 t͡ɕiaʔ7/<sup>兴化</sup>, /pɔʔ7 t͡ɕiaʔ7/<sup>如皋</sup>, /pɔʔ7 t͡ɕiɑʔ7/<sup>泰兴</sup></small> 蜈蚣。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：砖头堆子里头有～。<sup>\[泰州\]</sup>｜蛇虫～<sup>\[泰兴\]</sup>  
 1. 【[百脚绳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_jiah_shen.md#百脚绳)】`boh7 jiah7 shen2` <sup>[泰县]</sup> 端午节，小孩手腕脚上扣的各色花线。  
 1. 【[百路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_lv.md#百路)】`boh7 lv6` 婴儿出生100天<sup>\[泰州\]</sup><sup>\[东台\]</sup>：他家孙子今朝过～。<sup>\[泰州\]</sup>  
 1. 【[百路<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_lv_r.md#百路<sub>儿</sub>)】`boh7 lv6 r` <sup>[如皋]</sup> 婴儿出身一百天庆贺式。见“过百路儿”。  
@@ -1497,6 +1499,7 @@
 1. 【[百褶裙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_zhih_qyen.md#百褶裙)】`boh7 zhih7 qyen2` <sup>[如东]</sup> 腰间打一百个裥的裙子，称百褶裙。青布或黑布制成，用于保暖和护脏。  
 1. 【[百子鞭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_zz_bin.md#百子鞭)】`boh7 zz3 bin1` <sup>[如东]</sup> 由一百个爆竹编成的串儿，有的全部为小爆竹，有的中间夹几个比较大的爆竹，点燃后能发出连续不断的响声。  
 1. 【[百子花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_zz_hua.md#百子花)】`boh7 zz3 hua1` <sup>[东台]</sup> 旧时台城妇女喜欢戴的一种花，以红色为基调，剪彩绒，有寿星、招财进宝、和合二仙、麒麟送子等品种。  
+1. 【[百双眼睛盯住啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_shuan_ngaen_jien.md#百双眼睛盯住啊)】`boh9 shuan1 ngaen3 jien dien1 chv6 a` <small>/pɔʔ9 suɑŋ1 ŋɛ̃3 t͡ɕiŋ tiŋ1 t͡sʰu1 a/<sup>泰兴</sup></small> 谓大家都在看着。<sup>\[泰兴\]</sup>  
 1. 【[崩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon.md#崩)】`bon1` ① ［引］破裂<sup>\[东台\]</sup>：两人谈～吖。<sup>\[东台\]</sup> ② 裂开<sup>\[泰州\]</sup>：袋子里头已经着不下唻，不能再㪕，再㪕袋子就～掉唻。<sup>\[泰州\]</sup>  
 1. 【[崩滩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_taen.md#崩滩)】`bon1 taen1` <sup>[兴化]</sup> 河湖岸边由坍塌的泥土形成的缓坡。  
 1. 【[绷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon.md#绷)】`bon1` <small>/poŋ1/<sup>兴化</sup></small> ① 撑<sup>\[兴化\]</sup>：把口袋～开来灌米。<sup>\[兴化\]</sup> ② 用双手把成股的线撑开<sup>\[兴化\]</sup>：你～线，我绕线。<sup>\[兴化\]</sup> ③ 张紧，用力将柔韧之物由里向外（两边或者四周）撑开拉紧，以成平直坚挺的状态。缠束之力是由外向里的收缩，绷是反之，其力是由里向外伸张<sup>\[泰州\]</sup>：你帮她把被单里子～吖床上，让她絾被单！<sup>\[泰州\]</sup>  

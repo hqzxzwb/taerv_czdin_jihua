@@ -506,6 +506,7 @@
 1. 【[像泥牛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_ni_ngeu_r.md#像泥牛<sub>儿</sub>)】`qian6 ni2 ngeu2 r` <sup>[如皋]</sup> 浑身泥水的样子。  
 1. 【[像如](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_rv.md#像如)】`qian6 rv2` <sup>[如东]</sup> 好像：～见过的一样。也作“强如”。  
 1. 【[匠人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_ren.md#匠人)】`qian6 ren` <sup>[如东]</sup> 具有一定专业技能的小手工业者，如木匠、瓦匠等。通称手艺人。  
+1. 【[匠人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_ren.md#匠人)】`qian6 ren` <small>/t͡ɕʰiɑŋ1 ɻəŋ/<sup>泰兴</sup></small> 木工，工匠。泛称各种手艺人。如机匠、瓦匠、木匠、篾匠等等。<sup>\[泰兴\]</sup>  
 1. 【[唴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian.md#唴)】`qian6` <sup>[如东]</sup> 小儿哭闹不止。  
 1. 【[戗场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_chan.md#戗场)】`qian6 chan2` <sup>[如东]</sup> 将场地翻松洒水整平。将稻秸或麦秸撒乱在场地上。  
 1. 【[戗枕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_zhen.md#戗枕)】`qian6 zhen3` ① （泰州词典戗作阴平，和如东的阳去一致，故改阳去）<sup>\[泰州\]</sup> ② 水面之中由于头着枕头姿势不妥，致使颈项转动困难并且伴有痛感<sup>\[泰州\]</sup>：夜里睡觉戗吖枕。<sup>\[泰州\]</sup>  
