@@ -2099,7 +2099,7 @@
 1. 【[吐口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_keu.md#吐口)】`tv3 keu3` <sup>[如东]</sup> 把话说出来：他终于吐啊口。  
 1. 【[吐穗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_qy.md#吐穗)】`tv3 qy6` <sup>[如东]</sup> 植物抽穗。  
 1. 【[吐涎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_saen.md#吐涎)】`tv3 saen2` <sup>[如皋]</sup> 吐口水、吐口中黏液。  
-1. 【[吐舌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_shih_zz.md#吐舌子)】`tv3 shih8 zz` <small>/tʰu3 siʔ8 t͡sɿ/<sup>如皋</sup></small> ① 说行业暗语。<sup>\[如皋\]</sup> ② 用某种字眼暗示。<sup>\[如皋\]</sup> ③ 指商业交往中不宜明说的口头语言（多为双方默契的暗话，参见第“市语”），如以旦底代表一，以抽工代表二，以卧川代表三，……以未丸代表九，以田心代表十。<sup>\[东台\]</sup>  
+1. 【[吐舌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_shih_zz.md#吐舌子)】`tv3 shih8 zz` <small>/tʰu3 siʔ8 t͡sɿ/<sup>如皋</sup>, /tʰu3 ɕiʔ8 t͡sɿ/<sup>泰兴</sup></small> ① 说行业暗语。<sup>\[如皋\]</sup> ② 用某种字眼暗示。<sup>\[如皋\]</sup> ③ 指商业交往中不宜明说的口头语言（多为双方默契的暗话，参见第“市语”），如以旦底代表一，以抽工代表二，以卧川代表三，……以未丸代表九，以田心代表十。<sup>\[东台\]</sup> ④ 暗示；以暗语提醒。<sup>\[泰兴\]</sup>  
 1. 【[吐吐沰沰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_tv_dah_dah.md#吐吐沰沰)】`tv3 tv3 dah7 dah7` <sup>[东台]</sup> 形容经常随地吐痰，或年老多病咳嗽吐痰的状况：要讲究文明卫生，不能随便～。  
 1. 【[土包子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_bo_zz.md#土包子)】`tv3 bo1 zz` <sup>[泰兴]</sup> 指土生土长、没有见过世面的人，含讥讽意。  
 1. 【[土布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_bv.md#土布)】`tv3 bv5` <small>/tʰu3 pu5/<sup>如皋</sup></small> ① 见“大布”。<sup>\[如皋\]</sup> ② 手机织成的布，比较粗糙，称土布。<sup>\[如东\]</sup>  

@@ -551,7 +551,7 @@
 1. 【[筛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae.md#筛)】`shae1` <small>/sɛ1/<sup>如皋</sup></small> ① 用筛子筛，筛选。<sup>\[如皋\]</sup> ② 筛子经过来回摔动，把碎米或细谷筛落下去，保留大的米粒或大的谷子，这个过程称筛。比喻从混杂的东西中挑选好的。<sup>\[如东\]</sup>：～选。<sup>\[如东\]</sup>  
 1. 【[筛草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_co.md#筛草)】`shae1 co3` <sup>[如东]</sup> 莎草科植物筛草，多年生草本。匍匐根茎长。秆三棱，高20厘米。叶广线形，边缘具锐锯齿质强韧，有光泽。头状花序。小坚果。生长在沿海沙滩上。  
 1. 【[筛糠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_kan.md#筛糠)】`shae1 kan1` <sup>[东台]</sup> ［喻］形容浑身发抖的样子。  
-1. 【[筛青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_qien.md#筛青)】`shae1 qien1` <small>/sɛ1 t͡ɕʰiəŋ1/<sup>如皋</sup></small> ① 筛去“烟土”的水烟丝。<sup>\[如皋\]</sup> ② 用烟筛筛去烟土的水烟。<sup>\[如皋\]</sup>  
+1. 【[筛青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_qien.md#筛青)】`shae1 qien1` <small>/sɛ1 t͡ɕʰiəŋ1/<sup>如皋</sup></small> 用烟筛筛去烟土的水烟。<sup>\[如皋\]</sup>  
 1. 【[筛筛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_shae_r.md#筛筛<sub>儿</sub>)】`shae1 shae1 r` <sup>[泰县]</sup> 咸小菜。  
 1. 【[筛动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_ton.md#筛动)】`shae1 ton` <sup>[如皋]</sup> ① 形容身体颤动。或为冷，或为受惊吓。 ② 形容地震时圈转颤抖的动态。  
 1. 【[筛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_zz.md#筛子)】`shae1 zz` <small>/sɛ1 t͡sɿ/<sup>如皋</sup></small> ① 筛选用具。农用为竹篾编制。依网眼从大到小分为<sup>\[如皋\]</sup>：隔～、漏～、黄豆儿筛～、米～、𪎉～、䜺儿～等6种。另有罗～、水烟～。<sup>\[如皋\]</sup> ② 小孩的寄名。儿初生，置筛内筛之，意为筛而不漏，不会早天。<sup>\[如皋\]</sup> ③ 法器。旧俗新娘送房，以筛子罩窗户。可辟鬼车（传说中的九头八尾鸟儿）偷看；棺材离家入土，丧户用以在家中“镇地”。<sup>\[如皋\]</sup> ④ 工具。圆形，有帮，底用竹篾编织网状，小孔方形，能够把小颗粒抖漏下去，粗颗粒保留在上面。有𪎉筛、米筛等多种。<sup>\[如东\]</sup>  
@@ -3272,6 +3272,7 @@
 1. 【[死货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_hu.md#死货)】`sz3 hu5` <sup>[如皋]</sup> 詈语、昵语。多骂年轻女性。  
 1. 【[死话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_hua.md#死话)】`sz3 hua6` <small>/sɿ3 xua1/<sup>如皋</sup></small> ① 态度死板、内容刻板的话，断绝性的话，有顶撞义。<sup>\[如皋\]</sup> ② 坏话。<sup>\[如东\]</sup>：这个人就会说～。<sup>\[如东\]</sup> ③ 比“獃话”程度强些，有贬义。<sup>\[如皋\]</sup>  
 1. 【[死也闭眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ia_bi_ngaen.md#死也闭眼)】`sz3 ia3 bi5 ngaen3` <sup>[如皋]</sup> 心愿已了，服气了。  
+1. 【[死要面子活受罪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_io_min_zz.md#死要面子活受罪)】`sz3 io min6 zz uh8 sheu6 cuei6` <small>/sɿ3 iɔ mĩ1 t͡sɿ ʊʔ8 ɕiɤɯ1 t͡sʰuəɪ1/<sup>泰兴</sup></small> 为了顾及名誉、脸面而受折磨。<sup>\[泰兴\]</sup>  
 1. 【[死要脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_io_lin.md#死要脸)】`sz3 io5 lin3` <small>/sɿ3 iɔ5 liɪ̃3/<sup>兴化</sup>, /sɿ3 iɔ5 lĩ3/<sup>泰兴</sup></small> ① 为顾全脸面，千方百计掩饰自己的窘境和丑行。<sup>\[兴化\]</sup>：谚曰：上吊搽粉一一～。<sup>\[兴化\]</sup> ② 非常要面子，爱虚荣<sup>\[泰州\]</sup>：你家里这种情况，办个五六桌就不错唻，你就不要～吧。<sup>\[泰州\]</sup> ③ 死要面子<sup>\[泰兴\]</sup>：吊杀鬼搽粉，～<sup>\[泰兴\]</sup>  
 1. 【[死犟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_jian.md#死犟)】`sz3 jian5` <small>/sɿ3 t͡ɕiaŋ5/<sup>兴化</sup></small> ① 太倔强、固执，不服软。<sup>\[东台\]</sup> ② 认死理，不听人劝导<sup>\[兴化\]</sup> ③ 极其倔强，固执己见，不听人劝<sup>\[泰州\]</sup>：他这个人～。<sup>\[泰州\]</sup>  
 1. 【[死开去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_kae_qy.md#死开去)】`sz3 kae1 qy` ① （詈语）怒斥人走开，滚蛋。<sup>\[东台\]</sup> ② 要人离开说话人所在的地方，詈词<sup>\[泰州\]</sup>：你～，不要在这块碍手𢴬脚的。<sup>\[泰州\]</sup>  

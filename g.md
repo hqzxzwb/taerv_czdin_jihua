@@ -1489,6 +1489,7 @@
 1. 【[光打光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_da_guan.md#光打光)】`guan1 da3 guan1` <sup>[如皋]</sup> 见“光光的”。  
 1. 【[光打雷，不下雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_da_ly_beh_xia_y.md#光打雷，不下雨)】`guan1 da3 ly2 beh7 xia6 y3` <sup>[东台]</sup> ［喻］指那些唱高调打官腔而不落实在行动上的人。  
 1. 【[光复](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_foh.md#光复)】`guan1 foh7` <sup>[东台]</sup> 恢复；收复。  
+1. 【[光光打滑身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_guan_da_vaeh.md#光光打滑身)】`guan1 guan1 da3 vaeh8 shen1` <small>/kuɑŋ1 kuɑŋ1 tɑ3 ʋæʔ8 səŋ1/<sup>泰兴</sup></small> 只有一个人，没有任何牵挂。<sup>\[泰兴\]</sup>：他反正～，什的总不愁。<sup>\[泰兴\]</sup>  
 1. 【[光光的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_guan_dii.md#光光的)】`guan1 guan1 dii` <sup>[如皋]</sup> 精光，完全没有了。又作“精打光”，“光打光”“光吖”。  
 1. 【[光光滑条子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_guan_huaeh_tio_zz.md#光光滑条子)】`guan1 guan1 huaeh8 tio2 zz` <sup>[泰县]</sup> 无牵挂的人。  
 1. 【[光光堂<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_guan_tan_r.md#光光堂<sub>儿</sub>)】`guan1 guan1 tan2 r` <sup>[东台]</sup> 光棍，指没有娶妻的男子。  
@@ -1530,6 +1531,7 @@
 1. 【[光蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_taen.md#光蛋)】`guan1 taen6` <sup>[泰州]</sup> 一无所有的流氓无赖之徒：他是这条街上出咖名的～。  
 1. 【[光堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_tan.md#光堂)】`guan1 tan2` <small>/kuã1 tʰã2/<sup>如皋</sup></small> ① 清爽。<sup>\[如东\]</sup>：屋子里收拾咖～。<sup>\[如东\]</sup> ② 漂亮。<sup>\[如东\]</sup>：这吖打扮，看上去～。<sup>\[如东\]</sup> ③ 光滑<sup>\[如皋\]</sup>：红木桌子，手摸上去，块块～。<sup>\[如皋\]</sup> ④ 明亮<sup>\[如皋\]</sup>：他家客堂间里多～吖！<sup>\[如皋\]</sup> ⑤ 同“光妙”。（完美、巧妙，无遗留问题。）<sup>\[如皋\]</sup>  
 1. 【[光头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_teu.md#光头)】`guan1 teu2` <sup>[东台]</sup> ① 一丝毛发也不留。 ② ［喻］什么成绩都没有。  
+1. 【[光头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_teu.md#光头)】`guan1 teu2` <small>/kuɑŋ1 tʰəɪ2/<sup>泰兴</sup></small> 谓人头上无发。<sup>\[泰兴\]</sup>  
 1. 【[光秃秃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_toh_toh.md#光秃秃)】`guan1 toh7 toh7` <sup>[东台]</sup> 什么也没有：这块盐碱地～的，甚的都长不起来。  
 1. 【[光秃子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_toh_zz.md#光秃子)】`guan1 toh7 zz` <sup>[东台]</sup> 头发很少的人（病态）。  
 1. 【[广字头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_cz_teu_r.md#广字头<sub>儿</sub>)】`guan3 cz6 teu2 r` <sup>[如皋]</sup> （广）：庄店度。  
@@ -1550,8 +1552,8 @@
 1. 【[𠈑火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_hu.md#𠈑火)】`guan5 hu3` <small>/kuaŋ5 xo3/<sup>兴化</sup>, /kuã5 xʊ3/<sup>如皋</sup>, /kuɑŋ5 xo3/<sup>泰县</sup></small> ① 发火。<sup>\[如东\]</sup> ② 生气、发火、发气。<sup>\[如皋\]</sup> ③ 发火，显出愤怒的情绪。<sup>\[东台\]</sup> ④ 发怒<sup>\[兴化\]</sup>：看到他窝囊样子，老头子忍不住又要～。<sup>\[兴化\]</sup> ⑤ 发火<sup>\[泰县\]</sup>：这些天他经常～。<sup>\[泰县\]</sup>  
 1. 【[𠈑胡刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_hv_do.md#𠈑胡刀)】`guan5 hv2 do1` <sup>[东台]</sup> 剃须刀。  
 1. 【[𠈑胡刀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_hv_do_r.md#𠈑胡刀<sub>儿</sub>)】`guan5 hv2 do1 r` <sup>[泰县]</sup> 胡须刀。  
-1. 【[𠈑胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_hv_zz.md#𠈑胡子)】`guan5 hv2 zz` ① 做动词，刮胡子 ② 用剃须刀将胡子剃去。<sup>\[东台\]</sup> ③ ［借］对某人责难或提出批评，称之为～。<sup>\[东台\]</sup>  
-1. 【[𠈑脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_lin.md#𠈑脸)】`guan5 lin3` <small>/kuaŋ5 liɪ̃3/<sup>兴化</sup>, /kuɑŋ5 niɪ̃3/<sup>泰县</sup></small> 刮脸。刮去脸上须毛，使面容光洁。<sup>\[如东\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>\[兴化：同“修面”。\]\[东台：旧时还包括扒耳朵、捶背、肩等局部按摩。\]：今天不理发，单～。<sup>\[如东\]</sup>｜现在剃头～要另外加钱。<sup>\[泰县\]</sup>  
+1. 【[𠈑胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_hv_zz.md#𠈑胡子)】`guan5 hv2 zz` ① 做动词，刮胡子 ② ［借］对某人责难或提出批评，称之为～。<sup>\[东台\]</sup>  
+1. 【[𠈑脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_lin.md#𠈑脸)】`guan5 lin3` <small>/kuaŋ5 liɪ̃3/<sup>兴化</sup>, /kuɑŋ5 lĩ3/<sup>泰兴</sup>, /kuɑŋ5 niɪ̃3/<sup>泰县</sup></small> 刮脸。刮去脸上须毛，使面容光洁。<sup>\[如东\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>\[兴化：同“修面”。\]\[东台：旧时还包括扒耳朵、捶背、肩等局部按摩。\]：今天不理发，单～。<sup>\[如东\]</sup>｜现在剃头～要另外加钱。<sup>\[泰县\]</sup>  
 1. 【[𠈑刨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_po.md#𠈑刨)】`guan5 po6` <sup>[如东]</sup> 工具。刨身长，刨舔宽，用以刨平刨光木料的表面。  
 1. 【[𠈑蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_taen.md#𠈑蛋)】`guan5 taen6` <sup>[兴化]</sup> 流氓无赖：这一班～，专想敲乡下人的竹杠。  
 1. 【[𠈑头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_teu.md#𠈑头)】`guan5 teu` <sup>[如皋]</sup> 见“𠈑子”。  

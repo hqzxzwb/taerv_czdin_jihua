@@ -457,7 +457,7 @@
 1. 【[巷子里扛木头——直来直去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_zz_lii_kan_moh_teu_cheh_lae_cheh_qy.md#巷子里扛木头——直来直去)】`han6 zz lii kan2 moh8 teu cheh8 lae2 cheh8 qy5` <sup>[东台]</sup>   
 1. 【[桁凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_den.md#桁凳)】`han6 den5` <sup>[如东]</sup> 搁置棱条的凳子。  
 1. 【[项门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_men.md#项门)】`han6 men2` <sup>[如东]</sup> 踏步床的踏板上到马桶处去的通道。  
-1. 【[吓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh.md#吓)】`heh7` <sup>[如东]</sup> 惊吓或受惊吓。  
+1. 【[吓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh.md#吓)】`heh7` <small>/xəʔ7/<sup>泰兴</sup></small> ① 吓，使害怕 ② 受惊吓<sup>\[如东\]</sup><sup>\[泰兴\]</sup>：～得扎实/受到严重惊吓<sup>\[泰兴\]</sup>  
 1. 【[吓不煞人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_beh_shaeh_ren.md#吓不煞人)】`heh7 beh7 shaeh7 ren2` <sup>[东台]</sup> 情况不严重，吓不到别人。  
 1. 【[吓咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_ga.md#吓咖)】`heh7 ga` <sup>[如皋]</sup> 受惊吓而致病。  
 1. 【[吓咖胆小的，肥啊胆大的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_ga_daen_xio_dii_fei_a_daen_da_dii.md#吓咖胆小的，肥啊胆大的)】`heh7 ga daen3 xio3 dii fei2 a daen3 da6 dii` <sup>[如皋]</sup>   
