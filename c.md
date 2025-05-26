@@ -88,8 +88,8 @@
 1. 【[在](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae.md#在)】`cae6` <sup>[东台]</sup> 在某处；在世。  
 1. 【[在帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_ban.md#在帮)】`cae6 ban1` <sup>[如皋]</sup> 参加了帮会。  
 1. 【[在处](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_chv.md#在处)】`cae6 chv` <sup>[兴化]</sup> 地方、方面：若有不到的～，请你多多原谅。‖也说“处在”。  
-1. 【[在家靠父母，出外靠朋友](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_ga_ko_fv_mu_chueh_men_ko_pon_ieu.md#在家靠父母，出外靠朋友)】`cae6 ga1 ko5 fv6 mu3 chueh7 men2 ko5 pon2 ieu3` <small>/t͡ɕʰiɛ1 kɑ1 kʰɔ5 fʋ1 mɤɯ3 t͡sʰuəʔ7 məŋ2 kʰɔ5 pʰɔŋ2 iɤɯ3/<sup>泰兴</sup></small> 谓广交朋友会给自己带来方便与快乐。<sup>\[泰兴\]</sup>  
-1. 【[在家靠父母，出门靠朋友](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_ga_ko_fv_mu_chueh_men_ko_pon_ieu.md#在家靠父母，出门靠朋友)】`cae6 ga1 ko5 fv6 mu3 chueh7 men2 ko5 pon2 ieu3` <sup>[东台]</sup> 人离不开亲情友情。  
+1. 【[在家靠父母，出门靠朋友](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_ga_ko_fv.md#在家靠父母，出门靠朋友)】`cae6 ga1 ko5 fv6 mu3 chueh7 men2 ko5 pon2 ieu3` <sup>[东台]</sup> 人离不开亲情友情。  
+1. 【[在家靠父母，出外靠朋友](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_ga_ko_fv.md#在家靠父母，出外靠朋友)】`cae6 ga1 ko5 fv6 mu3 chueh7 vae6 ko5 pon2 ieu3` <small>/t͡ɕʰiɛ1 kɑ1 kʰɔ5 fʋ1 mɤɯ3 t͡sʰuəʔ7 ʋɛ1 kʰɔ5 pʰɔŋ2 iɤɯ3/<sup>泰兴</sup></small> 谓广交朋友会给自己带来方便与快乐。<sup>\[泰兴\]</sup>  
 1. 【[在家饿得哭，出门不吃粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_ga_ngu_deh.md#在家饿得哭，出门不吃粥)】`cae6 ga1 ngu6 deh7 koh7 chueh7 men2 beh7 qieh7 zhoh7` <small>/t͡ɕʰiɛ1 kɑ1 ŋɤɯ1 təʔ7 kʰɔʔ7 t͡sʰuəʔ7 məŋ2 pəʔ7 t͡ɕʰiəʔ7 t͡sɔʔ7/<sup>泰兴</sup></small> 作客时要求要高一些。有打肿脸皮充胖子之嫌，含贬义。<sup>\[泰兴\]</sup>  
 1. 【[在家千日好，出门一时难](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_ga_qin_rih_ho_chueh_men_ieh_shr_naen.md#在家千日好，出门一时难)】`cae6 ga1 qin1 rih8 ho3 chueh7 men2 ieh7 shr2 naen2` <sup>[东台]</sup> 从有亲人照料，日常用物熟悉，处处方便、环境适应等角度看，在家比外出好。  
 1. 【[在家千日好，出门一时难](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_ga_qin_rih_ho_chueh_men_ieh_shr_naen.md#在家千日好，出门一时难)】`cae6 ga1 qin1 rih8 ho3 chueh7 men2 ieh7 shr2 naen2` <small>/t͡ɕʰiɛ1 kɑ1 t͡ɕʰĩ1 iʔ8 xɔ3 t͡sʰuəʔ7 məŋ2 iʔ7 sɿ2 nɛ̃2/<sup>泰兴</sup></small> 谓到了人生地疏的地方，办什么事都会遇到困难。<sup>\[泰兴\]</sup>  
@@ -2113,6 +2113,7 @@
 1. 【[坐相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_xian.md#坐相)】`cu6 xian5` <sup>[兴化]</sup> 指坐姿：她们像男人一样的挣钱，走相、～也像男人。（汪曾祺《大淖记事》）  
 1. 【[坐性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_xien.md#坐性)】`cu6 xien5` <sup>[兴化]</sup> 有耐心，能长时间坐着不动身，或在住处不外出：“师父，我知你没甚～，我与你个安身法儿”。（《西游记》五十）｜“这先生最好，只是～差些……”（《儒林外史》四六）也说“坐功”。  
 1. 【[坐小月子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_xio_iuh_zz.md#坐小月子)】`cu6 xio3 iuh8 zz` <sup>[兴化]</sup> 见“小养”。  
+1. 【[坐小月子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_xio_iuh_zz.md#坐小月子)】`cu6 xio3 iuh8 zz` <sup>[泰州]</sup> 妇女流产以后在家休息，调养身体。  
 1. 【[坐庄客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_zhuan_keh.md#坐庄客)】`cu6 zhuan1 keh7` <sup>[如皋]</sup> 常驻于产供方采购的客商。  
 1. 【[坐主](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_zhv.md#坐主)】`cu6 zhv3` <small>/t͡sʰʊ1 t͡su3/<sup>如皋</sup></small> ① 幕后出谋划策的人。<sup>\[如东\]</sup>：这个人是本地的～。<sup>\[如东\]</sup> ② 幕后人物，操纵者。<sup>\[如皋\]</sup> ③ 作秘密活动的本地住户。<sup>\[如皋\]</sup>  
 1. 【[坐租](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_zv.md#坐租)】`cu6 zv1` <sup>[如皋]</sup> 租赁时向主家预缴的保证金，期满时才可退还。与“行租”相对。  
@@ -2277,7 +2278,6 @@
 1. 【[醋坛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cv_tun_zz.md#醋坛子)】`cv5 tun2 zz` <small>/t͡sʰu5 tʰõ2 t͡se/<sup>泰县</sup></small> ① 装醋的坛子，里面有一种酸味。<sup>\[如东\]</sup> ② 对自己的丈夫或妻子接触异性而产生一种妒忌心理。也叫吃醋。<sup>\[如东\]</sup> ③ 对胜过自己的人产生一种不服气的心理。<sup>\[如东\]</sup> ④ ［喻］指在男女关系上嫉妒心强的人<sup>\[东台\]</sup>：她是个～，你少跟她开玩笑。<sup>\[东台\]</sup> ⑤ 因爱人跟异性接近而生气。<sup>\[泰县\]</sup> ⑥ 比喻因为男女关系嫉妒情绪特别重的人<sup>\[泰州\]</sup>：这女将是个～，她家男将同哪个女的多说两句话都不行。<sup>\[泰州\]</sup>  
 1. 【[醋心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cv_xien.md#醋心)】`cv5 xien1` <small>/t͡sʰu5 ɕin1/<sup>兴化</sup>, /t͡sʰu5 ɕiŋ1/<sup>泰县</sup></small> ① 吃了某种食物，胃子反酸难受。<sup>\[东台\]</sup> ② 听到某种言语，特别是犯忌的话，心里很不舒服<sup>\[东台\]</sup>：他说人家宅基地闹鬼，弄得人家～。<sup>\[东台\]</sup> ③ 因胃酸分泌过多，胃被腌得难受<sup>\[兴化\]</sup>：我吃山芋就～。<sup>\[兴化\]</sup> ④ 恶心<sup>\[兴化\]</sup>：这些话叫人听起来～。<sup>\[兴化\]</sup> ⑤ 胃不舒服。<sup>\[泰县\]</sup> ⑥ 爱人接近异性，心里不舒服，又不好说。<sup>\[泰县\]</sup> ⑦ 胃里泛酸水而产生的欲吐的感觉<sup>\[泰州\]</sup>：刚才吃咖一个生萝卜，这一刻儿有点儿～。<sup>\[泰州\]</sup> ⑧ 与爱情相关的嫉妒心理<sup>\[泰州\]</sup>：这个女将～太大，男将在外头同哪个女的多说句话都不行。<sup>\[泰州\]</sup> ⑨ 泛指嫉妒心理<sup>\[泰州\]</sup>：这种人～重，你只能混得比他差，不能比他混得好。<sup>\[泰州\]</sup>  
 1. 【[醋糟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cv_zo.md#醋糟)】`cv5 zo1` <sup>[如东]</sup> 用米、麦、高粱等酿醋后所剩的残渣。  
-1. 【[坐小月子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cv_xio_iuh_zz.md#坐小月子)】`cv6 xio3 iuh8 zz` <sup>[泰州]</sup> 妇女流产以后在家休息，调养身体。  
 1. 【[呲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz.md#呲)】`cz1` <small>/t͡sʰɿ1/<sup>兴化</sup>, /t͡sʰɿ1/<sup>如皋</sup></small> ① 象声词。<sup>\[如皋\]</sup> ② 鹅、鸭等扁嘴禽类啄食谓～<sup>\[兴化\]</sup>：鹅会～人；鸭子～食。<sup>\[兴化\]</sup>  
 1. 【[呲𠺟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_kv.md#呲𠺟)】`cz1 kv` <sup>[如皋]</sup> 象声词。如笑声、连鞋涉水声。  
 1. 【[呲𠺟呲𠺟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_kv_cz_kv.md#呲𠺟呲𠺟)】`cz1 kv cz1 kv` <sup>[如皋]</sup> 见“呲𠺟”。  
