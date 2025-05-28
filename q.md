@@ -1506,7 +1506,6 @@
 1. 【[撬弓彆弦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_gon_bih_xin.md#撬弓彆弦)】`qio1 gon1 bih7 xin2` <sup>[泰州]</sup> 撬住弓身彆住弓弦，喻指故意找碴与人唱反调、闹别扭，别人这样做了，他不满意，别人那样做了，他也不满意，令人感到不知如何处理才好：我望她最近这些时像是～的，怕的是要闹啊分家。｜你俫吃肉嫌肥，吃鱼又嫌卡多，像这格局～的，饭真没法弄。  
 1. 【[撬口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_keu.md#撬口)】`qio1 keu3` <sup>[如东]</sup> 不顺口，不顺趟：这句话说起来很～  
 1. 【[撬门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_men.md#撬门)】`qio1 men2` <sup>[如东]</sup> 用棍子的一头插进门板下部，把门撬开。  
-1. 【[撬事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_shr.md#撬事)】`qio1 shr6` <sup>[东台]</sup> 有意制造矛盾，使事情很难开展。也叫“撬扬”。  
 1. 【[楸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#楸)】`qio1` <sup>[如东]</sup> 帆船上挂在船体两侧的长方形木板，像蒲锹一样。航行时能起稳定船体的作用。  
 1. 【[楸门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_men.md#楸门)】`qio1 men2` <sup>[如东]</sup> 帆船两侧收放船楸的门。  
 1. 【[缲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#缲)】`qio1` <sup>[如东]</sup> 一种缝纫方法。做衣服或鞋子时，把布边儿往里卷，藏着针脚缝。  
@@ -1528,10 +1527,12 @@
 1. 【[跷轧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_kaeh.md#跷轧)】`qio1 kaeh` <sup>[如皋]</sup> 讽刺挖苦：他专会说～话，老是～你。  
 1. 【[跷轧话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_kaeh_hua.md#跷轧话)】`qio1 kaeh hua6` <sup>[如皋]</sup> 讽刺挖苦的话。  
 1. 【[跷手㫰脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_sheu_lan_jiah.md#跷手㫰脚)】`qio1 sheu3 lan6 jiah7` <sup>[兴化]</sup> 坐着的时候，把肢体张开或撑起：站没站相，坐没坐相，～的像个甚的样子！  
+1. 【[跷事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_shr.md#跷事)】`qio1 shr6` <sup>[东台]</sup> 有意制造矛盾，使事情很难开展。也叫“跷扬”。  
 1. 【[锹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#锹)】`qio1` <sup>[如东]</sup> 工具。铁制，长条形，口扁平，一头有柄。种类、规格很多。用于挖泥、铲地等。  
 1. 【[锹锹<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_qio_r.md#锹锹<sub>儿</sub>)】`qio1 qio1 r` <sup>[泰县]</sup> 小锹。  
 1. 【[锹<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_r.md#锹<sub>儿</sub>)】`qio1 r` <sup>[泰县]</sup> 锹。  
 1. 【[□妹妹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_mei_mei.md#□妹妹)】`qio2 mei6 mei6` <sup>[泰县]</sup> 蔷薇。  
+1. 【[乔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#乔)】`qio2` <sup>[如皋]</sup> 卖方不让价，还价不卖：拿～｜～啊上吖天。  
 1. 【[乔看](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_kun.md#乔看)】`qio2 kun5` <sup>[如东]</sup> 小看：你不要～人。  
 1. 【[乔拿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_na.md#乔拿)】`qio2 na2` <sup>[泰县]</sup> 办事讲条件：你不要～，就帮小王这次忙。  
 1. 【[乔极](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_qieh.md#乔极)】`qio2 qieh8` <sup>[如皋]</sup> 其实，又作“实骨子”。  
@@ -1570,7 +1571,6 @@
 1. 【[荞荞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_qio.md#荞荞)】`qio2 qio2` 野豌豆，长作猪草，人亦食其嫩叶。《本草纲目》作“翘摇”。<sup>\[泰州\]</sup>  
 1. 【[荞荞<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_qio_r.md#荞荞<sub>儿</sub>)】`qio2 qio2 r` <sup>[兴化]</sup> 一种野草，生长在麦田、岸边，可挑作猪食。  
 1. 【[轿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#轿)】`qio2` 小：～车/小的车  
-1. 【[𡰑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#𡰑)】`qio2` <sup>[如皋]</sup> 卖方不让价，还价不卖：拿～；～啊上吖天。  
 1. 【[𡰑啊埲起来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_a_pon_qi_lae_a.md#𡰑啊埲起来啊)】`qio2 a pon6 qi lae2 a` <sup>[如皋]</sup> 见“𡰑qio2”。  
 1. 【[𡰑啊上吖天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_a_shan_nga_tin.md#𡰑啊上吖天)】`qio2 a shan6 nga tin1` <sup>[如皋]</sup> 见“𡰑qio2”。  
 1. 【[𡰑架架](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_ga_ga.md#𡰑架架)】`qio2 ga5 ga5` <sup>[泰州]</sup> 装腔作势找借口拒绝别人求助的样子：我就是讨饭也不会去求他，一望见她那种～的样子就来气。  
