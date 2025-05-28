@@ -1085,7 +1085,7 @@
 1. 【[定为](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_vei.md#定为)】`tien6 vei` <sup>[如皋]</sup> 专为、专门、特地见“特为”。  
 1. 【[定心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_xien.md#定心)】`tien6 xien1` <sup>[如东]</sup> 稳定而又放心。  
 1. 【[定心根](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_xien_gen.md#定心根)】`tien6 xien1 gen1` <sup>[如皋]</sup> 主椎根。  
-1. 【[定心丸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_xien_un.md#定心丸)】`tien6 xien1 un2` ① 比喻能使思想、情绪安定下来的言论或行动。<sup>\[如东\]</sup>：县长这吖表态，我俫就吃咖～吖啦。<sup>\[如东\]</sup> ② 可以安定人的思想情绪的话或者情况<sup>\[泰州\]</sup>：校长同他这格局一说，老陈才吃咖～。<sup>\[泰州\]</sup>  
+1. 【[定心丸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_xien_un.md#定心丸)】`tien6 xien1 un2` <small>/tʰiŋ1 ɕiŋ1 ʊ̃2/<sup>泰兴</sup></small> 比喻能使思想、情绪安定下来的言论或行动。<sup>\[如东\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：县长这吖表态，我俫就吃咖～吖啦。<sup>\[如东\]</sup>｜校长同他这格局一说，老陈才吃咖～。<sup>\[泰州\]</sup>  
 1. 【[定找<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_zho_r.md#定找<sub>儿</sub>)】`tien6 zho3 r` <small>/tʰiəŋ1 t͡sɔ˞3/<sup>如皋</sup></small> ① 故意，有意。也说“定倒儿”。<sup>\[如皋\]</sup> ② 故意：他是～打的，不是不详意。<sup>\[如皋\]</sup>  
 1. 【[定珠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_zhv.md#定珠)】`tien6 zhv1` <sup>[兴化]</sup> 以指人死前眼球呆滞无光：眼睛～啊。  
 1. 【[定做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_zu.md#定做)】`tien6 zu5` <small>/tʰiɪ̃6 t͡so5/<sup>兴化</sup></small> ① 为特定的顾客或预订者制作的产品<sup>\[兴化\]</sup>：这套西装是为老陈～的。<sup>\[兴化\]</sup> ② 商家按照客户要求专门制作商品<sup>\[泰州\]</sup>：他家装修的木门都是在木器厂～的。<sup>\[泰州\]</sup>  

@@ -1982,6 +1982,7 @@
 1. 【[屌塴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_bon_r.md#屌塴<sub>儿</sub>)】`dio3 bon5 r` 腹股沟。  
 1. 【[屌咚屌咚的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_don_dio_don_dii.md#屌咚屌咚的)】`dio3 don3 dio3 don3 dii` <sup>[东台]</sup> 形容不知趣，或没精打采地走路的样子。  
 1. 【[屌儿郎当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_er_lan_dan.md#屌儿郎当)】`dio3 er2 lan2 dan1` <sup>[东台]</sup> 形容仪容不整，作风散漫。  
+1. 【[屌儿郎当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_er_lan_dan.md#屌儿郎当)】`dio3 er2 lan2 dan1` <small>/tiɔ3 ɚ2 lɑŋ2 tɑŋ1/<sup>泰兴</sup></small> 形容作风散漫、态度不严肃、仪容不整等。<sup>\[泰兴\]</sup>  
 1. 【[屌话饰卵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_hua_sheh_lun.md#屌话饰卵)】`dio3 hua sheh7 lun3` <sup>[如东]</sup> 比喻胡说八道，满口谎言：这个人～的，不要相信。  
 1. 【[屌郎当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_lan_dan.md#屌郎当)】`dio3 lan2 dan1` <sup>[东台]</sup> 男人（多指男孩）一丝不挂的样子。  
 1. 【[屌毛灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_mo_huei.md#屌毛灰)】`dio3 mo2 huei1` <small>/tiɔ3 mɔ2 xuei1/<sup>如皋</sup></small> ① 比喻没有用的人。<sup>\[如东\]</sup>：他是个～。<sup>\[如东\]</sup> ② 轻微得不值提、不屑一说或指什么都没有。<sup>\[如皋\]</sup> ③ 见“卵毛灰”。<sup>\[如皋\]</sup> ④ 粗话，表示极度轻蔑<sup>\[泰州\]</sup>：（甲）你嘴里不要瞎说八道的，当心他收拾你！（乙）～，他就是人在这块，也没得哪个怕他。<sup>\[泰州\]</sup>  
@@ -2015,18 +2016,21 @@
 1. 【[吊桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_qio.md#吊桥)】`dio5 qio2` <sup>[如东]</sup> 一端能移吊起来的桥。旧时在护城河上多建此种桥。  
 1. 【[吊丧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_san.md#吊丧)】`dio5 san1` <sup>[如东]</sup> 到丧家去祭奠死者。  
 1. 【[吊杀鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_shaeh_guei.md#吊杀鬼)】`dio5 shaeh7 guei3` <sup>[如皋]</sup> ① 吊死者，或指其魂魄。 ② 詈语。或指瘦长体型者。  
+1. 【[吊杀鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_shaeh_guei.md#吊杀鬼)】`dio5 shaeh7 guei3` <small>/tiɔ5 ɕiæʔ7 kuəɪ3/<sup>泰兴</sup></small> 上吊而死者。<sup>\[泰兴\]</sup>  
+1. 【[吊杀鬼搽粉，死要脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_shaeh_guei_cha.md#吊杀鬼搽粉，死要脸)】`dio5 shaeh7 guei3 cha2 fen3 sz3 io5 lin3` <small>/tiɔ5 ɕiæʔ7 kuəɪ3 t͡sʰɑ2 fəŋ3 sɿ3 iɔ5 lĩ3/<sup>泰兴</sup></small> 骂人语。谓死要面子。<sup>\[泰兴\]</sup>  
 1. 【[吊梢眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_sho_ngaen.md#吊梢眼)】`dio5 sho1 ngaen3` <sup>[泰州]</sup> 亦作“吊眼梢”，特指靠近两鬓处的眼角上扬的丹凤眼。  
 1. 【[吊死鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_sz_guei.md#吊死鬼)】`dio5 sz guei3` <sup>[兴化]</sup> （喻）槐尺蠖的幼虫，因能吐丝挂在树上，故名。  
 1. 【[吊死鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_sz_guei.md#吊死鬼)】`dio5 sz3 guei3` <sup>[如东]</sup> 上吊而死的人，称吊死鬼：他像个～。  
 1. 【[吊死鬼搽粉——死要脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_sz_guei_cha_fen_sz_io_lin.md#吊死鬼搽粉——死要脸)】`dio5 sz3 guei3 cha2 fen3 sz3 io5 lin3` <sup>[东台]</sup>   
 1. 【[吊田鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_tin_ji.md#吊田鸡)】`dio5 tin2 ji1` <small>/tiɔ5 tʰiɪ̃2 t͡ɕi1/<sup>兴化</sup>, /tiɔ5 tʰĩ2 t͡ɕʝ1/<sup>如皋</sup></small> ① 快速车水时，不熟练者跟不上，生怕拐儿打脚，双手扒住伏桁，两脚悬挂起来，似青蛙，称吊田鸡。<sup>\[如东\]</sup> ② 本指钓捕青蛙。喻指踏车戽水之不熟练者被飞转的拐子打脚面，只能双手紧握扶手而双脚悬空，酷似被吊挂的青蛙。也指人被绑悬空吊起来。<sup>\[如皋\]</sup> ③ 旧时车水时脚步跟不上车轴转，只好吊住车梁棒，把脚缩起来，像被吊住的田鸡一样。<sup>\[东台\]</sup> ④ （戏）踏车戽水时，不熟练者恐被飞转的车拐打脚，只得伏于车担棒而将双足悬空。<sup>\[兴化\]</sup>  
-1. 【[吊桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_ton.md#吊桶)】`dio5 ton3` ① 一种提水工具，圆形，直径8寸，口部横一木干，系绳，用于提井水。<sup>\[如东\]</sup> ② 专门用来从井中打井水的桶，以其梁上拴着长绳，故名。<sup>\[泰州\]</sup>  
+1. 【[吊桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_ton.md#吊桶)】`dio5 ton3` <small>/tiɔ5 tʰɔŋ3/<sup>泰兴</sup></small> ① 一种提水工具，圆形，直径8寸，口部横一木干，系绳，用于提井水。<sup>\[如东\]</sup> ② 专门用来从井中打井水的桶，以其梁上拴着长绳，故名。<sup>\[泰州\]</sup> ③ 桶梁上拴着绳子或长竹杆（打水竹子）的桶，用于从井中汲水。<sup>\[泰兴\]</sup>  
 1. 【[吊坨粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_tu_fen.md#吊坨粉)】`dio5 tu2 fen3` <sup>[兴化]</sup> ① 淀粉的浆汁放在布兜里吊起，滗掉水份，使成坨状块子。 ② （喻）一种将人反绑悬空吊起的肉刑。 ③ 又说“吊粉坨子”。  
 1. 【[吊嗀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_vah.md#吊嗀)】`dio5 vah7` <small>/tiɔ5 ʋaʔ7/<sup>如皋</sup>, /tiɔ5 uɑʔ7/<sup>泰县</sup></small> ① 恶心，作呕。<sup>\[如皋\]</sup> ② 令人呕吐<sup>\[泰县\]</sup>：今朝肚子有点儿不舒服，整天～。<sup>\[泰县\]</sup>  
 1. 【[吊胃口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_vei_keu.md#吊胃口)】`dio5 vei5 keu3` <small>/tiɔ5 uəi5 kʰɤ3/<sup>兴化</sup>, /tiɔ5 ʋei5 kʰei3/<sup>如皋</sup></small> ① 引起欲望。<sup>\[如皋\]</sup> ② 用好吃的东西引起人食欲。<sup>\[兴化\]</sup> ③ （喻）投放诱饵，令人产生兴趣或欲望<sup>\[兴化\]</sup>：你不必来～，你说的事我不感兴趣。<sup>\[兴化\]</sup> ④ 通过某些吸引人的东西激发人的兴趣或欲望<sup>\[泰州\]</sup>：有甚的话你就赶快说，不要同大家玩～哿好。<sup>\[泰州\]</sup>  
 1. 【[吊线](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_xin.md#吊线)】`dio5 xin5` <sup>[如东]</sup> 工匠测量垂直线的一种方法。将线的一头固定在物体上，垂下，便可测得建筑物的垂直线。  
 1. 【[吊孝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_xio.md#吊孝)】`dio5 xio5` <sup>[如东]</sup> 吊丧。  
 1. 【[吊纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_zhr.md#吊纸)】`dio5 zhr3` <sup>[兴化]</sup> 吊丧：他叔丈人死啊，他要去～。  
+1. 【[吊纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_zhr.md#吊纸)】`dio5 zhr3` <small>/tiɔ5 t͡sɿ3/<sup>泰兴</sup></small> 吊丧。旧时吊丧时要自带纸钱，故有此称。今此俗尚存。<sup>\[泰兴\]</sup>  
 1. 【[掉膘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_bio.md#掉膘)】`dio5 bio1` <small>/tiɔ5 piɔ1/<sup>兴化</sup></small> ① 畜禽因少进食而消瘦。<sup>\[兴化\]</sup> ② 牲畜膘情下降。<sup>\[如东\]</sup>  
 1. 【[掉暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_bo.md#掉暴)】`dio5 bo5` <small>/tiɔ5 pɔ5/<sup>如皋</sup></small> ① 天气转冷或刮风。<sup>\[如东\]</sup> ② 寒潮侵袭。<sup>\[如皋\]</sup>  
 1. 【[掉秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_chen.md#掉秤)】`dio5 chen5` <small>/tiɔ5 t͡sʰən5/<sup>兴化</sup></small> ① 折秤，物品因故减少了斤两。<sup>\[兴化\]</sup> ② 使秤掉下，复秤之时，将秤杆上的秤砣移到应有重量秤花处，秤杆下落，意为所称之物重量未达应有重量<sup>\[泰州\]</sup>：你这个人的秤肯定有问题，刚才你称吖是五斤，我拿家里的秤一称就～。<sup>\[泰州\]</sup>  
@@ -2627,6 +2631,6 @@
 1. 【[碓扶手<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dy_fv_sheu_r.md#碓扶手<sub>儿</sub>)】`dy5 fv2 sheu3 r` <sup>[如皋]</sup> 悬于粱间的两根绳的下端系着的扁木，供踏碓人扶手用。  
 1. 【[碓架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dy_ga_zz.md#碓架子)】`dy5 ga5 zz` <sup>[如皋]</sup> 用桑木制，一对前脚矮，上端支撑碓身的轴；一对后脚高起，下方挖有碓塘，以便踏下碓尾。若为“走马碓”，其前后脚间的木料长而宽，供踏者双脚轮番踏动。  
 1. 【[碓嘴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dy_jy_r.md#碓嘴<sub>儿</sub>)】`dy5 jy3 r` <sup>[如皋]</sup> 碓身头部的短杵。  
-1. 【[碓臼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dy_qieu.md#碓臼)】`dy5 qieu6` <small>/ty5 t͡ɕʰyʊ1/<sup>如皋</sup></small> ① 一块花冈岩上凿出漏斗状深塘，埋于碓嘴儿正下方，臼口略低于地面。周围砖铺地呈正方形。<sup>\[如皋\]</sup> ② 见“臼”。<sup>\[如皋\]</sup> ③ 舂稻谷和米粉的石具。<sup>\[东台\]</sup>  
+1. 【[碓臼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dy_qieu.md#碓臼)】`dy5 qieu6` <small>/ty5 t͡ɕʰyʊ1/<sup>如皋</sup></small> ① 一块花岗岩上凿出漏斗状深塘，埋于碓嘴儿正下方，臼口略低于地面。周围砖铺地呈正方形。<sup>\[如皋\]</sup> ② 舂稻谷和米粉的石具。<sup>\[东台\]</sup>  
 1. 【[碓身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dy_shen.md#碓身)】`dy5 shen1` <sup>[如皋]</sup> 用一段杂树干制成，头大尾小。碓头向下槙杵，称碓嘴儿，其下端装有铸铁件，称碓齿。碓尾向上的一面削成平面，供脚踏。支点为贯通腰部两侧的短木，近碓尾，支在碓架子的一对前脚上端的槽中。  
 **[▲](#音序检索)**  

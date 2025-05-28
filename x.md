@@ -1473,7 +1473,7 @@
 1. 【[小衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_i.md#小衣)】`xio3 i1` <small>/ɕiɔ3 i1/<sup>兴化</sup>, /ɕiɔ3 ʝ1/<sup>如皋</sup></small> ① 内衣裤。<sup>\[如皋\]</sup> ② 衬衣。<sup>\[如东\]</sup> ③ 衬裤<sup>\[兴化\]</sup>：半夜里听到火警，她吓得只穿件膜衫和～就跑啊出来。<sup>\[兴化\]</sup>｜打了一回，穿上～，放起他来，吩咐在旁打扇。（《金瓶梅词话》八）<sup>\[兴化\]</sup>  
 1. 【[小姨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_i_zz.md#小姨子)】`xio3 i2 zz` 妻子的妹妹。<sup>\[如东\]</sup><sup>\[泰州\]</sup>  
 1. 【[小意思](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_i_sz.md#小意思)】`xio3 i5 sz` ① 微薄的心意。<sup>\[如东\]</sup>：一点儿～，请收下。<sup>\[如东\]</sup> ② 数量很少。<sup>\[如东\]</sup>：～，没有大不了。<sup>\[如东\]</sup> ③ 客套话，指微薄的心意。<sup>\[东台\]</sup>  
-1. 【[小夜饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ia_faen.md#小夜饭)】`xio3 ia faen` <sup>[泰兴]</sup> 夜间小食。  
+1. 【[小夜饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ia_faen.md#小夜饭)】`xio3 ia faen` <small>/ɕiɔ3 iɑ fɛ̃/<sup>泰兴</sup></small> 夜宵，夜间小食。<sup>\[泰兴\]</sup>：吃～<sup>\[泰兴\]</sup>  
 1. 【[小野鸭<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ia_ngaeh_r.md#小野鸭<sub>儿</sub>)】`xio3 ia3 ngaeh7 r` <sup>[如皋]</sup> 䴙䴘。  
 1. 【[小雅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ia.md#小雅)】`xio3 ia3` <sup>[兴化]</sup> ① 《诗经》组成形分之一。（借）二三知己聚饮：餐桌摆开，主宾落坐，酒杯注满，客套两句，便～起来，（钱国怀《社会新闻》） ② 小的享受：今天下午到澡堂子～去。  
 1. 【[小夜班](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ia_baen.md#小夜班)】`xio3 ia6 baen1` <small>/ɕiɔ3 ia6 pɛ̃1/<sup>兴化</sup></small> ① 上班制度的一种。晚上十二点钟之前的班次。<sup>\[如东\]</sup> ② 下午三四点钟连接上半夜的班次<sup>\[兴化\]</sup>：上～。<sup>\[兴化\]</sup>  

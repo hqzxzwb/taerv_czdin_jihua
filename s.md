@@ -3241,7 +3241,7 @@
 1. 【[死啊走](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_a_zeu.md#死啊走)】`sz3 a zeu3` <sup>[东台]</sup> 同“死开去”。  
 1. 【[死把调<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ba_dio_r.md#死把调<sub>儿</sub>)】`sz3 ba5 dio5 r` <sup>[东台]</sup> 同“死形样子”。  
 1. 【[死板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_baen.md#死板)】`sz3 baen3` <sup>[如东]</sup> ① 不灵活：这个人做事非常～。 ② 不生动，不活泼：这个节目太～吖。  
-1. 【[死不瘟㾭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_beh_ven_jieu.md#死不瘟㾭)】`sz3 beh ven1 jieu5` <small>/sɿ3 pəʔ ʋəŋ1 t͡ɕiɤɯ5/<sup>泰兴</sup></small> 板着面孔，不苟言笑的样子。贬义。<sup>\[泰兴\]</sup>  
+1. 【[死不瘟㾭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_beh_ven_jieu.md#死不瘟㾭)】`sz3 beh ven1 jieu5` <small>/sɿ3 pəʔ ʋəŋ1 t͡ɕiɤɯ5/<sup>泰兴</sup></small> 板着面孔，不苟言笑的样子。贬义。或说sz3 beh ven1 qieu2。<sup>\[泰兴\]</sup>  
 1. 【[死不闭眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_beh_bi_ngaen.md#死不闭眼)】`sz3 beh7 bi5 ngaen3` <sup>[如皋]</sup> 心愿未了，不服气。  
 1. 【[死不服输](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_beh_foh_shv.md#死不服输)】`sz3 beh7 foh8 shv1` <sup>[如东]</sup> 坚决不承认失败：他的脾气犟，就是～。  
 1. 【[死不改](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_beh_gae.md#死不改)】`sz3 beh7 gae3` <sup>[如东]</sup> 坚决不改正：你再开导，他也～。  
@@ -3263,8 +3263,8 @@
 1. 【[死𠵹遭映](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_gan_zo_ian.md#死𠵹遭映)】`sz3 gan zo1 ian1` <sup>[兴化]</sup> 形容因吵闹而乱哄哄的：她闹得～的，太不像话！  
 1. 【[死杠杠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_gan_gan.md#死杠杠)】`sz3 gan5 gan5` <sup>[兴化]</sup> 硬性规定：卞金山把林大头、韦广发和万登明找来，划～说……（马春阳《夜袭叹气庙》）。  
 1. 【[死酵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_go.md#死酵)】`sz3 go5` <sup>[兴化]</sup> 面粉和水成团后不经发酵即成。  
-1. 【[死鸽子说得活鸽子扇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_guh_zz_shuh.md#死鸽子说得活鸽子扇)】`sz3 gu7 zz shuh7 deh uh8 guh7 zz shin1` <small>/sɿ3 kɤɯ7 t͡sɿ sʊʔ7 təʔ ʊʔ8 kʊʔ7 t͡sɿ ɕĩ1/<sup>泰兴</sup></small> 把本来很差的事情、物品等说得天花乱坠，变品质、质量极好的。<sup>\[泰兴\]</sup>  
 1. 【[死鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_guei.md#死鬼)】`sz3 guei3` <small>/sɿ3 kuei3/<sup>如皋</sup>, /sɿ3 kuəɪ3/<sup>泰兴</sup></small> ① 作名词，贬指已死的人；詈语。<sup>\[如皋\]</sup> ② 作形容词，形容过分精明，特别小气、吝啬。<sup>\[如皋\]</sup> ③ 昵语<sup>\[如皋\]</sup>：你个～，早点来。<sup>\[如皋\]</sup> ④ 已死的人。丈夫或妻子对已死的妻子或丈夫的称谓。<sup>\[如东\]</sup>：～在世的时侯就喜欢吃西瓜。<sup>\[如东\]</sup> ⑤ 指已去世的人。也用于表示亲昵或开玩笑。<sup>\[泰兴\]</sup>  
+1. 【[死鸽子说得活鸽子扇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_guh_zz_shuh.md#死鸽子说得活鸽子扇)】`sz3 guh7 zz shuh7 deh uh8 guh7 zz shin1` <small>/sɿ3 kʊʔ7 t͡sɿ sʊʔ7 təʔ ʊʔ8 kʊʔ7 t͡sɿ ɕĩ1/<sup>泰兴</sup></small> 把本来很差的事情、物品等说得天花乱坠，变品质、质量极好的。<sup>\[泰兴\]</sup>  
 1. 【[死下来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ha_lae.md#死下来)】`sz3 ha lae2` <sup>[兴化]</sup> 死亡以后：“……你悄悄的每人豌里替我拈一撮砒霜放着。等他们～，我自有理会……”（《广陵潮》三六）。“……自己辛苦了一辈子，挣了这分大家私，～又没有个传宗接代的人……”（《官场现形记》四九）  
 1. 【[死下来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ha_lae.md#死下来)】`sz3 ha6 lae` <sup>[泰州]</sup> 骂人从高处下到低处来：你还不～啊，哿是当真要跌煞咖啊。  
 1. 【[死咸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_haen.md#死咸)】`sz3 haen2` <sup>[东台]</sup> 堤东人称“死䴛”。食物非常咸，难以下口。  
