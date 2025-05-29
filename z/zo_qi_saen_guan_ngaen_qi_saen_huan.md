@@ -7,3 +7,8 @@ zo3 qi3 saen1 guan1 ngaen5 qi3 saen1 huan1
 zo3 qi3 saen1 guan1 ngaen5 qi3 saen1 huan1
 > 东台方言词典
 - 起得早许多事都可忙完，反之会慌慌张张。
+
+# 早起三光，晏起三慌
+zo3 qi3 saen1 guan1 ngaen5 qi3 saen1 huan1
++ 谓早点起床，勤扫勤洗，到处光亮，起晏了则显得急迫。
+  * 泰兴方言辞典
