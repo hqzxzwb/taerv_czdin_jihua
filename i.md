@@ -1872,12 +1872,14 @@
 1. 【[验墒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_shan.md#验墒)】`in6 shan1` <sup>[东台]</sup> 检查或测定土壤的湿度。  
 1. 【[验细](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_xi.md#验细)】`in6 xi5` <sup>[如皋]</sup> 仔细、细致。  
 1. 【[喓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io.md#喓)】`io` <sup>[如皋]</sup> 叹词、语助词，多用于词中、词尾。  
-1. 【[吆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io.md#吆)】`io1` <small>/iɔ1/<sup>兴化</sup>, /iɔ1/<sup>泰县</sup></small> ① 驱赶，驱逐 ② 赶。<sup>\[如东\]</sup>：把鸭子～上岸来。<sup>\[如东\]</sup> ③ 驱赶<sup>\[东台\]</sup>：～鸡打狗。<sup>\[东台\]</sup> ④ 驱赶<sup>\[兴化\]</sup>：“……我把鸭子～下来，你就赶……”（汪曾祺《鸡鸭名家》）<sup>\[兴化\]</sup> ⑤ 驱赶：快把苍蝇～掉。<sup>\[泰县\]</sup>  
+1. 【[吆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io.md#吆)】`io1` <sup>[泰州]</sup> ① 驱赶家禽家畜：你把鸡子都～进窠。 ② 将停留某处的人赶走：你把族咖门口看热闹的人～啊走。 ③ 将分散的人催至指定地点：你把人～啊操场上去。  
+1. 【[吆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io.md#吆)】`io1` <small>/iɔ1/<sup>兴化</sup>, /iɔ1/<sup>泰兴</sup>, /iɔ1/<sup>泰县</sup></small> ① 驱赶，驱逐 ② 驱赶，驱逐<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>：把鸭子～上岸来。<sup>\[如东\]</sup>｜～鸡打狗。<sup>\[东台\]</sup>｜“……我把鸭子～下来，你就赶……”（汪曾祺《鸡鸭名家》）<sup>\[兴化\]</sup>｜快把苍蝇～掉。<sup>\[泰县\]</sup>｜～猪子<sup>\[泰兴\]</sup>｜～鸡子<sup>\[泰兴\]</sup>  
 1. 【[吆而没音](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_er_meh_ien.md#吆而没音)】`io1 er meh8 ien1` <sup>[东台]</sup> 办事不认真，心不在焉的样子。把事交给他，他～的，叫人不放心。也说“吆卖佯醒”。  
 1. 【[吆更](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_gen.md#吆更)】`io1 gen1` <sup>[如皋]</sup> 更夫一边打更一边叫喊有关注意安全、防火、防盗的话。  
 1. 【[吆样看](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_ian_kun.md#吆样看)】`io1 ian6 kun5` <sup>[东台]</sup> 不具体落实，只是做做样子给人看。  
 1. 【[吆窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_ku.md#吆窠)】`io1 ku1` <small>/iɔ1 kʰʊ1/<sup>如皋</sup></small> ① 给发情的牲畜配种。<sup>\[如皋\]</sup> ② 驱赶牲畜出去交配。<sup>\[如东\]</sup>  
 1. 【[吆来喝去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_lae_huh_qy.md#吆来喝去)】`io1 lae2 huh7 qy5` <sup>[如皋]</sup> 粗暴叫喊使唤的样子。  
+1. 【[吆露水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_lv_shuei.md#吆露水)】`io1 lv6 shuei` <small>/iɔ1 lu1 suəɪ/<sup>泰兴</sup></small> 喻帮别人清除障碍，替别人減少麻烦。<sup>\[泰兴\]</sup>  
 1. 【[吆三喝四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_saen_huh_sz.md#吆三喝四)】`io1 saen1 huh7 sz5` <sup>[如东]</sup> 借机耍威风。  
 1. 【[吆水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_shuei.md#吆水)】`io1 shuei3` <sup>[如皋]</sup> 驱牛拉辋子戽水。  
 1. 【[吆五喝六](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_v_huh_loh.md#吆五喝六)】`io1 v3 huh7 loh8` <small>/iɔ1 u3 xuʔ7 lɔʔ8/<sup>兴化</sup>, /iɔ1 ʋu3 xʊʔ7 lɔʔ8/<sup>如皋</sup></small> ① 粗暴叫喊使唤的样子。<sup>\[如皋\]</sup> ② 不断地叫喊。<sup>\[如东\]</sup> ③ 大声吆喝别人<sup>\[东台\]</sup>：一天到夜～的，你怎吖能这吖对待工人？<sup>\[东台\]</sup> ④ 大喊大叫，虚张声势<sup>\[兴化\]</sup>：（老爷和两个公差）一路～，斥责乱伦之事。（马春阳《扬州水乡风俗散记》）<sup>\[兴化\]</sup> ⑤ 赌徒掷骰子时或酒徒划拳时的喊声。<sup>\[泰州\]</sup> ⑥ 大声喝令叱责他人之时呈现出的盛气凌人、不可一世的样子<sup>\[泰州\]</sup>：他一到家不是要这样，就是要哪样，～的，就像个个吃的他的饭似的。<sup>\[泰州\]</sup>｜这个老东西到哪块都倚老卖老，～的，威武煞咖。<sup>\[泰州\]</sup>  
@@ -1912,7 +1914,6 @@
 1. 【[腰心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_xien.md#腰心)】`io1 xien1` <sup>[泰县]</sup> 羊的睾丸。  
 1. 【[腰子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_zz.md#腰子)】`io1 zz` 肾脏。<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰州\]</sup>  
 1. 【[腰子桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_zz_ton.md#腰子桶)】`io1 zz ton3` <sup>[如皋]</sup> 大的腰形木桶。推车用。  
-1. 【[邀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io.md#邀)】`io1` <sup>[泰州]</sup> ① 驱赶家禽家畜：你把鸡子都～进窠。 ② 将停留某处的人赶走：你把族咖门口看热闹的人～啊走。 ③ 将分散的人催至指定地点：你把人～啊操场上去。  
 1. 【[邀而不欲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_er_beh_ioh.md#邀而不欲)】`io1 er beh7 ioh8` <sup>[泰县]</sup> 不爽快、不诚心：这个人做事有点儿～的。  
 1. 【[邀罾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_zen_zz.md#邀罾子)】`io1 zen1 zz` <sup>[泰县]</sup> 取鱼的网。  
 1. 【[闄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io.md#闄)】`io1` <small>/iɔ1/<sup>兴化</sup>, /iɔ1/<sup>如皋</sup>, /iɔ1/<sup>泰县</sup></small> ① 从中间断开<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[兴化\]</sup>：把长蒲芹～成两段。<sup>\[如皋\]</sup>｜把鱼身子～几段。<sup>\[如东\]</sup>｜这条大鱼要～下来才好在锅里烧熟。<sup>\[泰县\]</sup>｜把绳子齐中间～成两段。<sup>\[泰州\]</sup>｜～榫头/截去榫头上多出的一段<sup>\[兴化\]</sup> ② 分隔<sup>\[泰州\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup>：你把这间房间弄板子齐中间～啊子，不就成吖两间。<sup>\[泰州\]</sup>｜一间房子～成两间。<sup>\[如皋\]</sup>｜房间一～两。<sup>\[东台\]</sup>｜把一间大房子一～两。<sup>\[兴化\]</sup>  

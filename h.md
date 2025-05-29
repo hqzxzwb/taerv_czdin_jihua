@@ -1845,7 +1845,7 @@
 1. 【[灰藋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_tio.md#灰藋)】`huei1 tio6` <sup>[如东]</sup> 藜科植物小藜，又名灰条头，一年生草本。  
 1. 【[灰桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_ton.md#灰桶)】`huei1 ton3` <sup>[兴化]</sup> 瓦工盛放泥灰的桶子，有提梁。  
 1. 【[灰星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_xien.md#灰星)】`huei1 xien1` <sup>[兴化]</sup> 极小的尘粒：～子眯啊眼睛。｜跟先生做事，连……～大的破绽也不能有一点。（《火烧赤壁》五）  
-1. 【[回](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei.md#回)】`huei2` 回绝，拒绝  
+1. 【[回](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei.md#回)】`huei2` <small>/xuəɪ2/<sup>泰兴</sup></small> ① 回绝，拒绝 ② 一方对另一方的行为举措给以相同形式的回报，均谓之回。如“回礼”、“回嘴”等。<sup>\[泰兴\]</sup> ③ 回复<sup>\[泰兴\]</sup>：不问去啊不去，要～我下子。<sup>\[泰兴\]</sup>  
 1. 【[回潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_cho.md#回潮)】`huei2 cho2` <sup>[如皋]</sup> 见“转潮”。  
 1. 【[回船转舵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_chun_zhun_tu.md#回船转舵)】`huei2 chun2 zhun3 tu6` <sup>[兴化]</sup> （喻）改变态度：他看到对方不高兴的样子，连忙～，尽说好话。  
 1. 【[回个抹子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_gu_maeh_zz.md#回个抹子)】`huei2 gu maeh8 zz` <small>/xuəɪ2 ko mæʔ8 t͡se/<sup>泰县</sup></small> 回答“不知道”<sup>\[泰县\]</sup><sup>\[泰州\]</sup>：他再来找你，你就～。<sup>\[泰县\]</sup>｜你问这小伙的话，他～，你又有甚的办法？<sup>\[泰州\]</sup>｜他要问到你，你就～。<sup>\[泰州\]</sup>  

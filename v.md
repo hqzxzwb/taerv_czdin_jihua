@@ -764,6 +764,7 @@
 1. 【[网眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ngaen.md#网眼)】`van3 ngaen3` <sup>[如东]</sup> 用线绳编结的组成网体的小孔。  
 1. 【[网<sub>儿</sub>油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_r_ieu.md#网<sub>儿</sub>油)】`van3 r ieu2` <sup>[如皋]</sup> 猪等的内脏外部的网状油层，一只猪的～称作“一挂油”。  
 1. 【[网袋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_tae.md#网袋)】`van3 tae6` <small>/uaŋ3 tʰɛ6/<sup>兴化</sup></small> ① 用草绳、麻绳、棉绳或塑料线等编结成的口袋，叫做网袋。<sup>\[如东\]</sup> ② 用来装东西的网兜。‖也称“网篮”。<sup>\[兴化\]</sup>  
+1. 【[网袋子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_tae_zz.md#网袋子)】`van3 tae6 zz` <small>/uɑŋ3 tʰɛ1 t͡sɿ/<sup>泰兴</sup></small> 用线编织的网袋，用以装物。<sup>\[泰兴\]</sup>  
 1. 【[网子抬猪——露蹄（题）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_zz_tae_zhv_lv_ti.md#网子抬猪——露蹄（题）)】`van3 zz tae2 zhv1 lv6 ti2` <sup>[东台]</sup>   
 1. 【[辋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van.md#辋)】`van3` <sup>[如皋]</sup> ① 轮周。 ② 车軬中的伞形齿轮：～子。  
 1. 【[辋子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_zz.md#辋子)】`van3 zz` <sup>[如皋]</sup> 竖立在车軬中央的木制巨型伞形齿轮。中轴的上端称天轴，下端称地轴。轮盘有8辐8斜牚，称八卦。齿数有97、103、107三种。  

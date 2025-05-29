@@ -511,9 +511,7 @@
 1. 【[将后去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_heu_qy.md#将后去)】`jian1 heu6 qy5` <sup>[如皋]</sup> 将来，以后。  
 1. 【[将好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_ho.md#将好)】`jian1 ho3` <small>/t͡ɕiaŋ1 xɔ3/<sup>兴化</sup></small> ① 正好，恰好。<sup>\[兴化\]</sup> ② 恰好<sup>\[泰州\]</sup>：这块布料～同你做一身西装。<sup>\[泰州\]</sup>  
 1. 【[将养](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_ian.md#将养)】`jian1 ian3` <sup>[如皋]</sup> 调理休养。  
-1. 【[将将](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_jian.md#将将)】`jian1 jian` <sup>[泰县]</sup> 正好：他～在这许，你俫好好谈谈。  
-1. 【[将将](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_jian.md#将将)】`jian1 jian1, jian1 jian2` <sup>[如皋]</sup> 正好：我到家的刻儿，她～把饭煮啊好啊。  
-1. 【[将将](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_jian.md#将将)】`jian1 jian1` ① 刚刚；正好。 ② 正好。<sup>\[如东\]</sup>：～合适。<sup>\[如东\]</sup>  
+1. 【[将将](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_jian.md#将将)】`jian1 jian1` <small>/t͡ɕiã1 t͡ɕiã1/<sup>如皋</sup>, /t͡ɕiɑŋ1 t͡ɕiɑŋ/<sup>泰县</sup></small> ① 刚刚，适才 ② 正好 ③ 正好<sup>\[如东\]</sup><sup>\[泰县\]</sup>\[如皋：又音 jian1 jian2\]：～合适<sup>\[如东\]</sup>｜他～在这许，你俫好好谈谈。<sup>\[泰县\]</sup>｜我到家的刻儿，她～把饭煮啊好啊。<sup>\[如皋\]</sup>  
 1. 【[将将好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_jian_ho.md#将将好)】`jian1 jian1 ho3` <sup>[东台]</sup> 正巧，刚好。  
 1. 【[将军](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_jyen.md#将军)】`jian1 jyen1` <sup>[东台]</sup> 这里不是指军衔。是指下象棋时要吃对方的将、帅。比喻给人出难题：质检员叫他当场调试产品，将吖他一军。  
 1. 【[将军柱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_jyen_chv.md#将军柱)】`jian1 jyen1 chv6` <sup>[兴化]</sup> ① 堂前两侧的大柱。 ② （喻）颈椎骨：他捱人一拳打啊～上，当下就瘫下来啊。  

@@ -2000,7 +2000,7 @@
 1. 【[吊灯<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_den_r.md#吊灯<sub>儿</sub>)】`dio5 den1 r` <sup>[兴化]</sup> 自缢者悬挂着的尸体。  
 1. 【[吊吊岗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_dio_gan_r.md#吊吊岗<sub>儿</sub>)】`dio5 dio5 gan3 r` <sup>[兴化]</sup> ① 一种蜻蜓。 ② （喻）自缢者的尸体。  
 1. 【[吊吊杠<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_dio_gan_r.md#吊吊杠<sub>儿</sub>)】`dio5 dio5 gan3 r` <sup>[泰州]</sup> 一种蜻蜓，经常垂直吊在植物叶子下面就像吊着小杠一样。  
-1. 【[吊吊灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_dio_huei.md#吊吊灰)】`dio5 dio5 huei1` <small>/tiɔ5 tiɔ5 xuəi1/<sup>兴化</sup></small> ① 悬挂着的灰尘。<sup>\[东台\]</sup> ② 悬吊在室内附着在蛛丝上的灰尘<sup>\[兴化\]</sup>：这个里头脏死了，咦喂！～直碰脸。（《火烧赤壁》七）<sup>\[兴化\]</sup>  
+1. 【[吊吊灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_dio_huei.md#吊吊灰)】`dio5 dio5 huei1` <small>/tiɔ5 tiɔ5 xuəi1/<sup>兴化</sup>, /tiɔ5 tiɔ5 xuəɪ1/<sup>泰兴</sup></small> ① 悬挂着的灰尘。<sup>\[东台\]</sup> ② 悬吊在室内附着在蛛丝上的灰尘<sup>\[兴化\]</sup>：这个里头脏死了，咦喂！～直碰脸。（《火烧赤壁》七）<sup>\[兴化\]</sup> ③ 悬吊着的灰尘。<sup>\[泰兴\]</sup>：家里脏煞咖，块块是～<sup>\[泰兴\]</sup>  
 1. 【[吊吊灰<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_dio_huei_r.md#吊吊灰<sub>儿</sub>)】`dio5 dio5 huei1 r` <small>/tiɔ5 tiɔ5 xuəɪ1 ɚ/<sup>泰县</sup></small> ① 粘在蜘蛛网上的灰尘。<sup>\[泰县\]</sup> ② 悬挂着的网状条形灰尘<sup>\[泰州\]</sup>：房子三年不曾蹾人，椽子高头挂啊满吖～。<sup>\[泰州\]</sup>  
 1. 【[吊吊<sub>儿</sub>灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_dio_r_huei.md#吊吊<sub>儿</sub>灰)】`dio5 dio5 r huei1` <sup>[如东]</sup> 挂在梁上的灰串儿：房子里挂了许多～。  
 1. 【[吊㽹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_faen.md#吊㽹)】`dio5 faen5` <small>/tiɔ5 fẽ5/<sup>如皋</sup>, /tiɔ5 fɛ̃5/<sup>泰县</sup></small> ① 胃里泛酸水，难受，要呕吐。<sup>\[如东\]</sup>：我喝了一碗冷水，胃里～。<sup>\[如东\]</sup> ② 恶心、作呕。见“作哕”。<sup>\[如皋\]</sup> ③ 令人作呕。<sup>\[泰县\]</sup>  
@@ -2010,14 +2010,17 @@
 1. 【[吊花狗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_hua_geu_r.md#吊花狗<sub>儿</sub>)】`dio5 hua1 geu3 r` <sup>[泰县]</sup> （儿童游戏）老鹰捉小鸡。  
 1. 【[吊谎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_huan.md#吊谎)】`dio5 huan3` <sup>[泰县]</sup> 说谎。  
 1. 【[吊酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_jieu.md#吊酒)】`dio5 jieu3` <sup>[泰县]</sup> 量酒。  
-1. 【[吊眼梢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_ngaen_sho.md#吊眼梢)】`dio5 ngaen3 sho1` <small>/tiɔ5 ɛ̃3 sɔ1/<sup>兴化</sup>, /tiɔ5 ŋẽ3 sɔ1/<sup>如皋</sup></small> ① 眼梢向上挑起。<sup>\[如东\]</sup> ② 外眼角上扬的眼型。<sup>\[如皋\]</sup> ③ 两角上翘的丹凤眼<sup>\[兴化\]</sup>：勾郎鼻子～。<sup>\[兴化\]</sup>  
+1. 【[吊奶子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_nae_zz.md#吊奶子)】`dio5 nae3 zz` <small>/tiɔ5 nɛ3 t͡sɿ/<sup>泰兴</sup></small> 讽丈夫个子比妻子矮。<sup>\[泰兴\]</sup>  
+1. 【[吊眼梢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_ngaen_sho.md#吊眼梢)】`dio5 ngaen3 sho1` <small>/tiɔ5 ɛ̃3 sɔ1/<sup>兴化</sup>, /tiɔ5 ŋẽ3 sɔ1/<sup>如皋</sup>, /tiɔ5 ŋɛ̃3 sɔ1/<sup>泰兴</sup></small> ① 眼梢向上挑起。<sup>\[如东\]</sup> ② 外眼角上扬的眼型。<sup>\[如皋\]</sup> ③ 两角上翘的丹凤眼<sup>\[兴化\]</sup>：勾郎鼻子～。<sup>\[兴化\]</sup> ④ 喻眼红。<sup>\[泰兴\]</sup>：他箇个人见到别人比他好，就容易～<sup>\[泰兴\]</sup>  
 1. 【[吊炮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_po.md#吊炮)】`dio5 po5` <sup>[如皋]</sup> 向远方炮击，炮弹呈下弦线准确落下。  
 1. 【[吊铺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_pv.md#吊铺)】`dio5 pv5` <small>/tiɔ5 pʰu5/<sup>如皋</sup></small> ① 床铺的四角用绳索吊在屋梁上，下面可以行人，节省空间。这种铺叫吊铺。<sup>\[如东\]</sup> ② 用绳索吊着的床铺。<sup>\[如皋\]</sup>  
 1. 【[吊桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_qio.md#吊桥)】`dio5 qio2` <sup>[如东]</sup> 一端能移吊起来的桥。旧时在护城河上多建此种桥。  
 1. 【[吊丧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_san.md#吊丧)】`dio5 san1` <sup>[如东]</sup> 到丧家去祭奠死者。  
+1. 【[吊嗓子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_san_zz.md#吊嗓子)】`dio5 san3 zz` <small>/tiɔ5 sɑŋ3 t͡sɿ/<sup>泰兴</sup></small> 戏曲或歌唱演员锻炼嗓音。<sup>\[泰兴\]</sup>  
 1. 【[吊杀鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_shaeh_guei.md#吊杀鬼)】`dio5 shaeh7 guei3` <sup>[如皋]</sup> ① 吊死者，或指其魂魄。 ② 詈语。或指瘦长体型者。  
 1. 【[吊杀鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_shaeh_guei.md#吊杀鬼)】`dio5 shaeh7 guei3` <small>/tiɔ5 ɕiæʔ7 kuəɪ3/<sup>泰兴</sup></small> 上吊而死者。<sup>\[泰兴\]</sup>  
 1. 【[吊杀鬼搽粉，死要脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_shaeh_guei_cha.md#吊杀鬼搽粉，死要脸)】`dio5 shaeh7 guei3 cha2 fen3 sz3 io5 lin3` <small>/tiɔ5 ɕiæʔ7 kuəɪ3 t͡sʰɑ2 fəŋ3 sɿ3 iɔ5 lĩ3/<sup>泰兴</sup></small> 骂人语。谓死要面子。<sup>\[泰兴\]</sup>  
+1. 【[吊杀鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_shaeh_ji.md#吊杀鸡)】`dio5 shaeh7 ji1` <small>/tiɔ5 ɕiæʔ7 t͡ɕʝ1/<sup>泰兴</sup></small> 状若玉米、高粱的一年生植物，其杆似甘蔗，甜而酥。俗名“吊杀鸡”。今少见。<sup>\[泰兴\]</sup>  
 1. 【[吊梢眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_sho_ngaen.md#吊梢眼)】`dio5 sho1 ngaen3` <sup>[泰州]</sup> 亦作“吊眼梢”，特指靠近两鬓处的眼角上扬的丹凤眼。  
 1. 【[吊死鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_sz_guei.md#吊死鬼)】`dio5 sz guei3` <sup>[兴化]</sup> （喻）槐尺蠖的幼虫，因能吐丝挂在树上，故名。  
 1. 【[吊死鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_sz_guei.md#吊死鬼)】`dio5 sz3 guei3` <sup>[如东]</sup> 上吊而死的人，称吊死鬼：他像个～。  
@@ -2026,7 +2029,7 @@
 1. 【[吊桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_ton.md#吊桶)】`dio5 ton3` <small>/tiɔ5 tʰɔŋ3/<sup>泰兴</sup></small> ① 一种提水工具，圆形，直径8寸，口部横一木干，系绳，用于提井水。<sup>\[如东\]</sup> ② 专门用来从井中打井水的桶，以其梁上拴着长绳，故名。<sup>\[泰州\]</sup> ③ 桶梁上拴着绳子或长竹杆（打水竹子）的桶，用于从井中汲水。<sup>\[泰兴\]</sup>  
 1. 【[吊坨粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_tu_fen.md#吊坨粉)】`dio5 tu2 fen3` <sup>[兴化]</sup> ① 淀粉的浆汁放在布兜里吊起，滗掉水份，使成坨状块子。 ② （喻）一种将人反绑悬空吊起的肉刑。 ③ 又说“吊粉坨子”。  
 1. 【[吊嗀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_vah.md#吊嗀)】`dio5 vah7` <small>/tiɔ5 ʋaʔ7/<sup>如皋</sup>, /tiɔ5 uɑʔ7/<sup>泰县</sup></small> ① 恶心，作呕。<sup>\[如皋\]</sup> ② 令人呕吐<sup>\[泰县\]</sup>：今朝肚子有点儿不舒服，整天～。<sup>\[泰县\]</sup>  
-1. 【[吊胃口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_vei_keu.md#吊胃口)】`dio5 vei5 keu3` <small>/tiɔ5 uəi5 kʰɤ3/<sup>兴化</sup>, /tiɔ5 ʋei5 kʰei3/<sup>如皋</sup></small> ① 引起欲望。<sup>\[如皋\]</sup> ② 用好吃的东西引起人食欲。<sup>\[兴化\]</sup> ③ （喻）投放诱饵，令人产生兴趣或欲望<sup>\[兴化\]</sup>：你不必来～，你说的事我不感兴趣。<sup>\[兴化\]</sup> ④ 通过某些吸引人的东西激发人的兴趣或欲望<sup>\[泰州\]</sup>：有甚的话你就赶快说，不要同大家玩～哿好。<sup>\[泰州\]</sup>  
+1. 【[吊胃口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_vei_keu.md#吊胃口)】`dio5 vei5 keu3` <small>/tiɔ5 uəi5 kʰɤ3/<sup>兴化</sup>, /tiɔ5 ʋei5 kʰei3/<sup>如皋</sup>, /tiɔ5 ʋəɪ5 kʰəɪ3/<sup>泰兴</sup></small> ① 引起欲望。<sup>\[如皋\]</sup> ② 用好吃的东西引起人食欲。<sup>\[兴化\]</sup> ③ （喻）投放诱饵，令人产生兴趣或欲望<sup>\[兴化\]</sup>：你不必来～，你说的事我不感兴趣。<sup>\[兴化\]</sup> ④ 通过某些吸引人的东西激发人的兴趣或欲望<sup>\[泰州\]</sup>：有甚的话你就赶快说，不要同大家玩～哿好。<sup>\[泰州\]</sup> ⑤ 诱发人的兴趣、欲望；引起人的食欲。<sup>\[泰兴\]</sup>  
 1. 【[吊线](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_xin.md#吊线)】`dio5 xin5` <sup>[如东]</sup> 工匠测量垂直线的一种方法。将线的一头固定在物体上，垂下，便可测得建筑物的垂直线。  
 1. 【[吊孝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_xio.md#吊孝)】`dio5 xio5` <sup>[如东]</sup> 吊丧。  
 1. 【[吊纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_zhr.md#吊纸)】`dio5 zhr3` <sup>[兴化]</sup> 吊丧：他叔丈人死啊，他要去～。  

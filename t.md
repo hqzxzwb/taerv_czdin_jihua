@@ -1754,6 +1754,7 @@
 1. 【[同](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton.md#同)】`ton2` <small>/tʰoŋ2/<sup>兴化</sup>, /tʰɔŋ2/<sup>如皋</sup>, /tʰoŋ2/<sup>泰县</sup></small> ① 和，跟 ② 叠起来，摞起来 ③ 相同，一样 ④ 量词<sup>\[如皋\]</sup>：一～糕（年糕，两块相迭）。<sup>\[如皋\]</sup> ⑤ 投、叠<sup>\[兴化\]</sup>：棉𧘸子外头拿件加褂子～起来。<sup>\[兴化\]</sup> ⑥ 为，给：～他做件衣裳。<sup>\[泰县\]</sup> ⑦ 团结，友好：我不～你。<sup>\[泰县\]</sup> ⑧ 连词，表示并列，与，和<sup>\[泰州\]</sup>：你～他一起ㄦ去南京。<sup>\[泰州\]</sup> ⑨ 介词，引入动作对象，替，为<sup>\[泰州\]</sup>：你去～我买包烟家来。<sup>\[泰州\]</sup> ⑩ 介词，向<sup>\[泰州\]</sup>：这件事最好你亲自～他去说。<sup>\[泰州\]</sup>  
 1. 【[同辈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_bei.md#同辈)】`ton2 bei5` <sup>[如东]</sup> 在血缘或宗族关系上属于同一辈分的人，称同辈。也称平辈。  
 1. 【[同房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_fan.md#同房)】`ton2 fan2` <sup>[如东]</sup> 男女过性生活。  
+1. 【[同房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_fan.md#同房)】`ton2 fan2` <small>/tʰɔŋ2 fɑŋ2/<sup>泰兴</sup></small> 婉词，谓夫妻间的性生活。<sup>\[泰兴\]</sup>  
 1. 【[同行不同利](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_han_beh_ton_li.md#同行不同利)】`ton2 han2 beh7 ton2 li6` <sup>[如东]</sup> 行业虽然相同，利益各有差别。  
 1. 【[同垳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_hen.md#同垳)】`ton2 hen5` <sup>[如东]</sup> 比喻两人同到一个地方去。比喻两人走向同一个方向。  
 1. 【[同脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_jiah.md#同脚)】`ton2 jiah7` <sup>[东台]</sup> 抵足而眠。  
@@ -1769,6 +1770,7 @@
 1. 【[同学](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_xiah.md#同学)】`ton2 xiah8` <sup>[如东]</sup> 对学生的称呼。在同一个学校里学习。在同一个学校里学习的人。  
 1. 【[同志](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_zhr.md#同志)】`ton2 zhr5` <sup>[如东]</sup> 为共同的理想、事业而奋斗的人。同一个政党的成员。  
 1. 【[同宗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_zon.md#同宗)】`ton2 zon1` <sup>[东台]</sup> 同一家族。  
+1. 【[同宗佮谱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_zon_guh_pv.md#同宗佮谱)】`ton2 zon1 guh7 pv3` <small>/tʰɔŋ2 t͡sɔŋ1 kʊʔ7 pʰu3/<sup>泰兴</sup></small> 同一个祖宗，同一部家谱。谓祖上是一家人。<sup>\[泰兴\]</sup>  
 1. 【[桐柱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_chv.md#桐柱)】`ton2 chv6` <sup>[如东]</sup> 房屋里支撑过梁与横梁的一根立柱，较矮。也叫童柱。  
 1. 【[桐油石膏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_ieu_sheh_go.md#桐油石膏)】`ton2 ieu2 sheh8 go1` <sup>[如皋]</sup> 𧂐缝料。  
 1. 【[桐油瓦灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_ieu_va_huei.md#桐油瓦灰)】`ton2 ieu2 va3 huei1` <sup>[如皋]</sup> 𧂐缝料。  
