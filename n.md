@@ -1422,7 +1422,7 @@
 1. 【[年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin.md#年)】`nin2` <sup>[如东]</sup> 地球围绕太阳旋转一周的时间，为一年。现行历法规定平年为365日，每4年有一个闰年，增加1日，即366日。相传有一种动物，叫年。每逢腊月30日夜，就出来吃人。所以人们在这天夜里，举行各种祭祀活动，防御年吃人。  
 1. 【[年饱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_bo_r.md#年饱<sub>儿</sub>)】`nin2 bo3 r` <small>/nĩ2 pɔ˞3/<sup>如皋</sup></small> ① 春节间因进食过多而食欲减退的现象：平常想吃没得吃，过年侭吃不想吃，做～，真倒楣！<sup>\[如皋\]</sup> ② 过年时，因为饮食过量而造成食欲不振。<sup>\[如东\]</sup>  
 1. 【[年残岁底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_caen_suei_di.md#年残岁底)】`nin2 caen2 suei5 di3` <sup>[兴化]</sup> 接近阴历年关的时候：～的要出远门，心里真不是滋味。  
-1. 【[年成](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_chen.md#年成)】`nin2 chen2` ① 农业生产的年景。丰收称好年成；歉收，称荒年成。<sup>\[如东\]</sup> ② 一年的收成<sup>\[东台\]</sup>：今年是个好～。<sup>\[东台\]</sup> ③ 当年庄稼的收成情况<sup>\[泰州\]</sup>：今年的～不好，一亩田打啊三四百斤。<sup>\[泰州\]</sup>  
+1. 【[年成](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_chen.md#年成)】`nin2 chen2` <small>/nĩ2 t͡sʰəŋ2/<sup>泰兴</sup></small> ① 农业生产的年景。丰收称好年成；歉收，称荒年成。<sup>\[如东\]</sup> ② 一年的收成<sup>\[东台\]</sup>：今年是个好～。<sup>\[东台\]</sup> ③ 当年庄稼的收成情况<sup>\[泰州\]</sup>：今年的～不好，一亩田打啊三四百斤。<sup>\[泰州\]</sup> ④ 指一年中农作物的收获情况。<sup>\[泰兴\]</sup>：今年的～不丑，五谷丰登。<sup>\[泰兴\]</sup>  
 1. 【[年程](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_chen.md#年程)】`nin2 chen2` <small>/liɪ̃2 t͡sʰən2/<sup>兴化</sup></small> ① 时势<sup>\[兴化\]</sup>：“如今～，论的甚么使的使不的……”（《金瓶梅词话》十八）‖也说“年成”。<sup>\[兴化\]</sup> ② 时代社会风气状况<sup>\[泰州\]</sup>：现在这个～，只要能赚钱，甚的事都敢做。<sup>\[泰州\]</sup>  
 1. 【[年初一](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_chv_ieh.md#年初一)】`nin2 chv1 ieh7` <sup>[兴化]</sup> 阴历正月初一。‖也说“大年初一”。  
 1. 【[年底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_di.md#年底)】`nin2 di3` <sup>[如东]</sup> 年尾：～完成。  
@@ -1430,21 +1430,27 @@
 1. 【[年根岁底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_gen_suei_di.md#年根岁底)】`nin2 gen1 suei5 di3` <sup>[如东]</sup> 年底：～的，还到哪许去？  
 1. 【[年根岁底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_gen_xy_di.md#年根岁底)】`nin2 gen1 xy5 di3` <sup>[如皋]</sup> 指夏历年的年末。常有劝和之意。  
 1. 【[年糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_go.md#年糕)】`nin2 go1` ① 春节前加工的糕，称年糕。品种很多，有糯米糕高粱糕、米糕、玉米糕等。<sup>\[如东\]</sup> ② 农历春节应时节的食品，用黏性大的糯米粉蒸成。<sup>\[东台\]</sup>  
-1. 【[年关](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_guaen.md#年关)】`nin2 guaen1` ① 旧例年底结账，欠租负债的人觉得好像过关一样，所以称年关。<sup>\[如东\]</sup> ② 年底。旧时习惯于年底结账，欠债的人觉得过年好比过关，故称为～。<sup>\[东台\]</sup>  
+1. 【[年关](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_guaen.md#年关)】`nin2 guaen1` <small>/nĩ2 kuɛ̃1/<sup>泰兴</sup></small> ① 旧例年底结账，欠租负债的人觉得好像过关一样，所以称年关。<sup>\[如东\]</sup> ② 年底。旧时习惯于年底结账，欠债的人觉得过年好比过关，故称为～。<sup>\[东台\]</sup> ③ 指阴历年底。旧例年底必须与人结清各种账目，欠债欠租的人过年，犹如过关，故称。<sup>\[泰兴\]</sup>  
+1. 【[年下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_ha.md#年下)】`nin2 ha6` <small>/nĩ2 xɑ1/<sup>泰兴</sup></small> 谓将过旧历新年的时候。<sup>\[泰兴\]</sup>：到啊～，家家总要打年货了。<sup>\[泰兴\]</sup>  
 1. 【[年货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_hu.md#年货)】`nin2 hu5` <sup>[东台]</sup> 过春节应景应时物品：明吖上街去办～。  
+1. 【[年货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_hu.md#年货)】`nin2 hu5` <small>/nĩ2 xɤɯ5/<sup>泰兴</sup></small> 指过阴历年时应用的物品。<sup>\[泰兴\]</sup>  
 1. 【[年夜饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_ia_faen.md#年夜饭)】`nin2 ia6 faen6` <sup>[如东]</sup> 阴历十二月三十日晚，全家人在一起吃饭，称年夜饭。也称团圆饭。准备丰盛的菜肴，庆祝一年的成功与快乐。  
 1. 【[年纪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_ji.md#年纪)】`nin2 ji` <sup>[如东]</sup> 年龄：多大～？  
 1. 【[年纪大的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_ji_da_dii.md#年纪大的)】`nin2 ji da6 dii` <small>/liɪ̃2 t͡ɕi ta6 təi/<sup>兴化</sup></small> 老年人<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：～的身体要保重。<sup>\[兴化\]</sup>｜“太爷！对不起你们～。”（《武松》三）<sup>\[兴化\]</sup>｜他在街上把人家～撞吖伤吖。<sup>\[泰州\]</sup>  
 1. 【[年朞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_ji.md#年朞)】`nin2 ji1` <sup>[东台]</sup> 同“过周”。  
 1. 【[年假](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_jia.md#年假)】`nin2 jia3` <sup>[如东]</sup> 寒假。  
+1. 【[年假](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_jia.md#年假)】`nin2 jia3` <small>/nĩ2 t͡ɕiɑ3/<sup>泰兴</sup></small> 过年期间放的假；寒假。<sup>\[泰兴\]</sup>  
+1. 【[年脚下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_jiah_ha.md#年脚下)】`nin2 jiah7 ha-ga` <small>/nĩ2 t͡ɕiɑʔ7 xɑ/<sup>泰兴</sup></small> 年尾；年底。脚下，紧邻、紧靠之意。<sup>\[泰兴\]</sup>  
 1. 【[年脚下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_jiah_xia.md#年脚下)】`nin2 jiah7 xia` <sup>[兴化]</sup> 接近年关的时候：～家家忙吖掸尘、打年货。｜小木匠因为火车票紧张，耽搁了几天时间，～才到家。（钱国怀《船帆》）  
 1. 【[年久失修](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_jieu_sheh_xieu.md#年久失修)】`nin2 jieu3 sheh7 xieu1` <sup>[如皋]</sup> 指房屋等多年未整修，以致损坏。  
-1. 【[年酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_jieu.md#年酒)】`nin2 jieu3` <small>/nĩ2 t͡ɕyʊ3/<sup>如皋</sup></small> ① 雇主例行在春节期间宴请雇员。<sup>\[如皋\]</sup> ② 报复义，俗：你请我吃冬酒，我请你吃～！<sup>\[如皋\]</sup> ③ 春节过后，亲朋好友之间举行的筵席称年酒。<sup>\[如东\]</sup>  
+1. 【[年酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_jieu.md#年酒)】`nin2 jieu3` <small>/nĩ2 t͡ɕyʊ3/<sup>如皋</sup>, /nĩ2 t͡ɕiɤɯ3/<sup>泰兴</sup></small> ① 雇主例行在春节期间宴请雇员。<sup>\[如皋\]</sup> ② 春节过后，亲朋好友之间举行的筵席称年酒。<sup>\[如东\]</sup> ③ 指为祝贺新年邀请亲友吃的酒席。<sup>\[泰兴\]</sup>：你请我吃冬酒，我请你吃～<sup>\[泰兴\]</sup>  
 1. 【[年礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_li.md#年礼)】`nin2 li3` <sup>[如东]</sup> 春节期间送的礼物。  
+1. 【[年礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_li.md#年礼)】`nin2 li3` <small>/nĩ2 lʝ3/<sup>泰兴</sup></small> 为庆贺年节而馈赠的礼物。乡人于春节前给当年出嫁的女儿送礼曰“年礼”。<sup>\[泰兴\]</sup>  
 1. 【[年里、年外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_li_nin_vae.md#年里、年外)】`nin2 li3 nin2 vae6` <sup>[如皋]</sup> 指春节前后。  
 1. 【[年怕中秋月怕半](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_pa_zhon_qieu_iuh_pa_bun.md#年怕中秋月怕半)】`nin2 pa5 zhon1 qieu1 iuh8 pa5 bun5` <sup>[东台]</sup> 凡事尽早从紧，“怕”即体现了紧迫感。  
 1. 【[年三十](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_saen_sheh.md#年三十)】`nin2 saen1 sheh8` <small>/liɪ̃2 sɛ̃1 səʔ8/<sup>兴化</sup></small> ① 农历除夕。<sup>\[东台\]</sup> ② 除夕<sup>\[兴化\]</sup>：过去当大伙计，从年初一忙到～，没得一天空闲。<sup>\[兴化\]</sup>  
 1. 【[年梢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_sho.md#年梢)】`nin2 sho1` <sup>[如东]</sup> 年尾：～收事。  
+1. 【[年岁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_suei.md#年岁)】`nin2 suei` <small>/nĩ2 suəɪ/<sup>泰兴</sup></small> 岁月。岁，年。<sup>\[泰兴\]</sup>  
 1. 【[年头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_teu.md#年头)】`nin2 teu` <sup>[如东]</sup> 一些年：这种现象已经有～啊。  
 1. 【[年头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_teu.md#年头)】`nin2 teu2` <small>/liɪ̃2 tʰɤ2/<sup>兴化</sup></small> ① 一年的开始。<sup>\[如东\]</sup>：～就要抓好。<sup>\[如东\]</sup> ② 年初<sup>\[兴化\]</sup>：我～上到南京，到目下快半年吖。<sup>\[兴化\]</sup>  
 1. 【[年套年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_to_nin.md#年套年)】`nin2 to5 nin2` <sup>[如皋]</sup> 年与年衔接不断。  

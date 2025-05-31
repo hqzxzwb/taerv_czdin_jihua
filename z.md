@@ -1109,7 +1109,7 @@
 1. 【[竹床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_chuan.md#竹床)】`zhoh7 chuan2` 以竹管、竹片为材料制成的床或者床板，多作夏天乘凉时用。<sup>\[泰州\]</sup>  
 1. 【[竹床<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_chuan_r.md#竹床<sub>儿</sub>)】`zhoh7 chuan2 r` <small>/t͡sɔʔ7 t͡sʰuaŋ2 ɚ/<sup>兴化</sup>, /t͡sɔʔ7 t͡sʰua˞2/<sup>如皋</sup></small> ① 毛竹骨架装毛竹片做成的床。<sup>\[如皋\]</sup> ② 用竹篾编织外有竹筐的床，夏天特别凉快。<sup>\[东台\]</sup> ③ 竹制的床，由床面和竹凳组成。<sup>\[兴化\]</sup>  
 1. 【[竹橱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_chv_r.md#竹橱<sub>儿</sub>)】`zhoh7 chv2 r` <sup>[如皋]</sup> 旧时厨房常用的碗橱儿，透气防鼠、防蝇、价廉。  
-1. 【[竹字头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_cz_teu.md#竹字头)】`zhoh7 cz6 teu2` <sup>[兴化]</sup> 汉字部首，形状是“竹”  
+1. 【[竹字头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_cz_teu.md#竹字头)】`zhoh7 cz6 teu2` 汉字部首，⺮  
 1. 【[竹凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_den.md#竹凳)】`zhoh7 den5` <small>/t͡sɔʔ7 təŋ5/<sup>如皋</sup></small> 竹凳\[泰州：以竹管做骨架，以竹片扎成的有腿没有靠背的小凳。\]\[如皋：毛竹凳，旧时常见搁铺用。\]  
 1. 【[竹篙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_go.md#竹篙)】`zhoh7 go1` <sup>[兴化]</sup> ① 削去枝叶的毛竹，扳直后用来撑船或作建筑器材等，也称“毛篙”。 ② 晾晒衣服用的竹竿（较细者）。  
 1. 【[竹行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_han.md#竹行)】`zhoh7 han2` <small>/t͡sɔʔ7 xã2/<sup>如皋</sup></small> ① 卖毛竹、竹器的商铺兼作坊。<sup>\[如皋\]</sup> ② 经营毛竹的商行。<sup>\[如东\]</sup>  
@@ -1121,6 +1121,7 @@
 1. 【[竹叶青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_ih_qien.md#竹叶青)】`zhoh7 ih8 qien1` <sup>[如东]</sup> 蝮蛇科动物青竹蛇。生活在树上。有剧毒。  
 1. 【[竹院<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_iun_r.md#竹院<sub>儿</sub>)】`zhoh7 iun6 r` <sup>[如皋]</sup> 院落里的竹园。  
 1. 【[竹茎秆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_jien_gun.md#竹茎秆)】`zhoh7 jien1 gun3` <sup>[如东]</sup> 禾本科植物淡竹枯死的幼嫩茎秆，也名仙人杖。  
+1. 【[竹节巴猫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_jih_ba_mo.md#竹节巴猫<sub>儿</sub>)】`zhoh7 jih7 ba mo2 r` <small>/t͡sɔʔ7 t͡ɕiʔ7 pɑ mɔ˞2/<sup>泰兴</sup></small> 形似竹节巴，毛色黄白相间的猫。<sup>\[泰兴\]</sup>  
 1. 【[竹节虾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_jih_xia.md#竹节虾)】`zhoh7 jih7 xia1` <sup>[如东]</sup> 对虾科动物日本对虾，体长约12-20厘米。体被蓝褐色横斑花纹，尾尖为鲜艳的蓝色。额角微呈正弯弓形，上缘8-10齿，下缘1-2齿。第触角鞭甚短，短于头胸甲的1/2。第一对步足无座节刺雄虾交接器中叶顶端的非常粗大的突起，雌虾交接器呈长圆柱形。成熟虾，雌虾大于雄虾。生活在泥沙底的浅海中。肉质鲜美营养丰富。为重要经济虾类。是如东特色海鲜。  
 1. 【[竹卷心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_jiun_xien.md#竹卷心)】`zhoh7 jiun3 xien1` <sup>[如东]</sup> 禾本科植物淡竹的卷而未放的幼叶。  
 1. 【[竹壳<sub>儿</sub>枕头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_kah_r_zhen_teu.md#竹壳<sub>儿</sub>枕头)】`zhoh7 kah7 r zhen3 teu` <sup>[如皋]</sup> 用毛竹片做成的中空式的枕头。  
@@ -1128,16 +1129,19 @@
 1. 【[竹篮子打水——一场空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_laen_zz_da_shuei_ieh_chan_kon.md#竹篮子打水——一场空)】`zhoh7 laen2 zz da3 shuei3 ieh7 chan2 kon1` <sup>[东台]</sup>   
 1. 【[竹沥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_lieh.md#竹沥)】`zhoh7 lieh8` <sup>[如东]</sup> 禾本科植物淡竹的茎用火烧灼而流出的液汁。  
 1. 【[竹膜子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_mah_zz.md#竹膜子)】`zhoh7 mah8 zz` <sup>[如皋]</sup> 竹管内薄膜，可用来贴在竹笛上吹奏。  
+1. 【[竹膜子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_mah_zz.md#竹膜子)】`zhoh7 mah8 zz` <small>/t͡sɔʔ7 mɑʔ8 t͡sɿ/<sup>泰兴</sup></small> 竹管内侧薄膜。优质者可作笛膜。<sup>\[泰兴\]</sup>  
 1. 【[竹𤖭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_paen.md#竹𤖭)】`zhoh7 paen2` <sup>[兴化]</sup> 由毛竹劈成的片子。  
 1. 【[竹箔子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_pah_zz.md#竹箔子)】`zhoh7 pah8 zz` <sup>[如皋]</sup> 睡具或晒具，用绳儿将竹子扼成排。  
 1. 【[竹箅子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_peh_zz.md#竹箅子)】`zhoh7 peh8 zz` <sup>[如东]</sup> 厨具。圆形，竹条编成，有孔隙搁在锅中，放上馒头或菜加热。  
 1. 【[竹匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_qian.md#竹匠)】`zhoh7 qian` <small>/t͡sɔʔ7 t͡ɕʰiã/<sup>如皋</sup></small> ① 加工竹器（非篾器）的工匠。<sup>\[如皋\]</sup> ② 从事竹器制作的小手工业者。<sup>\[如东\]</sup>  
 1. 【[竹戗笆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_qian_ba.md#竹戗笆)】`zhoh7 qian5 ba1` <sup>[兴化]</sup> 用细竹或竹爿编成的笆，可用来隔房间，也可用来作栅栏。也称“竹笆”。  
+1. 【[竹箬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_rah.md#竹箬)】`zhoh7 rah8` <small>/t͡sɔʔ7 ɻɑʔ8/<sup>泰兴</sup></small> 竹根出土时裹着的箬子，可作纺棉桯子内芯。<sup>\[泰兴\]</sup>  
 1. 【[竹如意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_rv_i.md#竹如意)】`zhoh7 rv2 i5` <sup>[如皋]</sup> 自己给背部抓痒的竹制工具。痒痒挠。  
 1. 【[竹茹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_rv.md#竹茹)】`zhoh7 rv2` <sup>[如东]</sup> 禾本科植物淡竹基秆除去外皮后刮下中间层。  
 1. 【[竹实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_sheh.md#竹实)】`zhoh7 sheh8` <sup>[如东]</sup> 禾本科竹类植物的颖果。  
 1. 【[竹扫帚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_so_zheu.md#竹扫帚)】`zhoh7 so5 zheu3` <sup>[如东]</sup> 以竹枝为原料制成的扫帚。  
-1. 【[竹筒倒豆子——毫无保留](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_ton_do_teu_zz_ho_v_bo_lieu.md#竹筒倒豆子——毫无保留)】`zhoh7 ton3 do5 teu6 zz ho2 v2 bo3 lieu2` <sup>[东台]</sup>   
+1. 【[竹筒倒豆子——毫无保留](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_ton_do_teu.md#竹筒倒豆子——毫无保留)】`zhoh7 ton3 do5 teu6 zz ho2 v2 bo3 lieu2` <sup>[东台]</sup>   
+1. 【[竹筒倒豆子，一个不留](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_ton_do_teu.md#竹筒倒豆子，一个不留)】`zhoh7 ton3 do5 teu6 zz ieh7 gu beh7 lieu2` <small>/t͡sɔʔ7 tʰɔŋ3 tɔ5 tʰəɪ1 t͡sɿ iʔ7 kɤɯ pəʔ7 ləɪ2/<sup>泰兴</sup></small> 歇后语。喻坦诚，无保留。<sup>\[泰兴\]</sup>  
 1. 【[竹笋科箬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_xyen_kuh_rah.md#竹笋科箬)】`zhoh7 xyen3 kuh7 rah8` <sup>[如皋]</sup> 竹笋的外包箬。  
 1. 【[竹桌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_zhuah_r.md#竹桌<sub>儿</sub>)】`zhoh7 zhuah7 r` <sup>[如皋]</sup> 旧时厨房常用，价廉。毛竹为架，竹片串扼成板状物，装配成高脚碗厨儿，上为木板面。  
 1. 【[筑仇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_cheu.md#筑仇)】`zhoh7 cheu2` <small>/t͡sɔʔ7 t͡sʰei2/<sup>如皋</sup></small> ① 结成仇恨<sup>\[如皋\]</sup>：你不能得罪他，他要同你～！<sup>\[如皋\]</sup> ② 制造仇恨。<sup>\[如东\]</sup>：不能～。<sup>\[如东\]</sup> ③ 记仇。<sup>\[如东\]</sup>：不要～。<sup>\[如东\]</sup>  
@@ -1660,6 +1664,7 @@
 1. 【[转子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_zz.md#转子)】`zhun5 zz` <small>/t͡sũ5 t͡sɿ/<sup>兴化</sup>, /t͡sʊ̃5 t͡sɿ/<sup>如皋</sup>, /t͡sõ5 t͡se/<sup>泰县</sup></small> ① 主意：他的～多。<sup>\[如皋\]</sup> ② 主意，点子<sup>\[东台\]</sup>：他～不少。<sup>\[东台\]</sup> ③ 办法、应变能力：这个小伙～大唻，眼睛一翻就是个门儿。<sup>\[兴化\]</sup> ④ 随机应变的本领：这个人有～，情况有点儿变化也不要紧。<sup>\[泰县\]</sup>  
 1. 【[朱沆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_han.md#朱沆)】`zhv1 han6` <sup>[东台]</sup> 十九世纪早期人，道光年间曾两任淮南盐运司东台分司厅通判。其诗书画印皆精，尤擅画马，故宫博物院有其旧藏。姜焘、朱进贤、朱雨秋等画家都曾得到他的培养。  
 1. 【[朱洪武扫地——各登原位](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_hon_v_so_ti_gah_den_iun_vei.md#朱洪武扫地——各登原位)】`zhv1 hon2 v3 so3 ti6 gah7 den1 iun2 vei6` <sup>[东台]</sup>   
+1. 【[朱洪武扫地，各登原位](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_hon_v_so_ti_gah_den_iun_vei.md#朱洪武扫地，各登原位)】`zhv1 hon2 v3 so3 ti6 gah7 den1 iun2 vei6` <small>/t͡su1 xɔŋ2 ʋ3 sɔ3 t͡ɕʰʝ1 kɑʔ7 təŋ1 yʊ̃2 ʋəɪ1/<sup>泰兴</sup></small> 歇后语。传朱元璋登基前在庙上做小和尚，一日将所有菩萨搬离原位扫地，庙内乱极，得知出门的老和尚将归，急呼菩萨各登原位，果然如愿，免受了一顿责备。后以此谓各人回座到自己的位置上。<sup>\[泰兴\]</sup>  
 1. 【[朱华](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_hua.md#朱华)】`zhv1 hua2` <sup>[东台]</sup> （1893-1954）东台富安人。1916年参加讨袁战争；1931年出任正太铁路局副局长，维护民族利益，整顿路局秩序，深受职工爱戴。抗日战争期间，参加台儿庄大战。为中共和民主党派做了大量工作。解放后任华东水利部参事，华东军政委员会参事。  
 1. 【[朱进贤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_jien_xin.md#朱进贤)】`zhv1 jien5 xin2` <sup>[东台]</sup> 十九世纪早中期人，家住台城的菜农。喜爱绘画，擅画芦雁，成为农民画家。  
 1. 【[朱雨秋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_y_qieu.md#朱雨秋)】`zhv1 y3 qieu1` <sup>[东台]</sup> （1834-1918）东台城人，同治六年武举，擅画青绿山水，驰名大江南北。  
