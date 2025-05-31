@@ -1745,6 +1745,7 @@
 1. 【[严严实实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_in_sheh_sheh.md#严严实实)】`in2 in2 sheh8 sheh8` <sup>[兴化]</sup> “严实”的生动形式。  
 1. 【[严实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_sheh.md#严实)】`in2 sheh8` <small>/iɪ̃2 səʔ8/<sup>兴化</sup></small> ① 严密<sup>\[东台\]</sup>：门关得蛮～的。<sup>\[东台\]</sup> ② 严密、紧密<sup>\[兴化\]</sup>：大门关得蛮～的。<sup>\[兴化\]</sup> ③ 藏得好，别人不易找到<sup>\[兴化\]</sup>：把首饰、存折藏～咖。<sup>\[兴化\]</sup>  
 1. 【[严丝合缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_sz_huh_fon.md#严丝合缝)】`in2 sz1 huh8 fon6` <sup>[东台]</sup> 与“斗缝合榫”近义，指缝隙密合。  
+1. 【[延](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in.md#延)】`in2` <small>/ĩ2/<sup>泰兴</sup></small> 水慢慢向外渗透<sup>\[泰兴\]</sup>：缸底有条缝，朝外～水<sup>\[泰兴\]</sup>  
 1. 【[延摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_mah.md#延摸)】`in2 mah8` <small>/iɪ̃2 maʔ8/<sup>兴化</sup>, /ĩ2 maʔ8/<sup>如皋</sup></small> ① 慢噋噋地，漫不经心的、不住的动作。<sup>\[如皋\]</sup> ② 形容做事慢条斯理<sup>\[兴化\]</sup>：他做事不得快，有得～吤。<sup>\[兴化\]</sup>  
 1. 【[延小<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_xio_r.md#延小<sub>儿</sub>)】`in2 xio3 r` <sup>[如东]</sup> 从小：他～就有这个习惯。  
 1. 【[檐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in.md#檐)】`in2` <sup>[东台]</sup> ① 屋面向下伸出的边缘部分：走马廊～。 ② 某些器物上形状像屋檐的部分：帽～儿。  
@@ -1832,7 +1833,7 @@
 1. 【[偃柏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_boh.md#偃柏)】`in3 boh7` <sup>[如东]</sup> 灌木，匍匐，小枝上伸成密丛状，剌叶通常交叉对生，排列较紧密，略斜展。球果，带蓝色。耐寒性强，能耐瘠土。可作盆景观赏。  
 1. 【[偃气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_qi.md#偃气)】`in3 qi5` <sup>[如皋]</sup> 停止呼吸，死了。  
 1. 【[偃子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_zz.md#偃子)】`in3 zz` <small>/ĩ3 t͡sɿ/<sup>如皋</sup></small> ① 指不善应变一味强硬，而吃亏的人：～硬似铁，光棍软似棉；打～，吓相富。<sup>\[如皋\]</sup> ② 见“硬头”。<sup>\[如皋\]</sup>  
-1. 【[匽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in.md#匽)】`in3` <small>/iɪ̃3/<sup>兴化</sup>, /ĩ3/<sup>如皋</sup>, /iɪ̃3/<sup>泰县</sup></small> ① 隐藏、隐蔽：他～吖门后头。<sup>\[如皋\]</sup> ② 躲藏<sup>\[东台\]</sup>：往门后头一～。<sup>\[东台\]</sup> ③ 隐藏<sup>\[兴化\]</sup>：他朝巷子里一～。<sup>\[兴化\]</sup>｜民警敲门，赌场上的人急忙朝房间里～。<sup>\[兴化\]</sup> ④ 《广韵·阮韵》於幰切“～，隐也。”今俗作“掩”。<sup>\[兴化\]</sup> ⑤ 藏匿：～吖在墙背后。<sup>\[泰县\]</sup>  
+1. 【[匽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in.md#匽)】`in3` <small>/iɪ̃3/<sup>兴化</sup>, /ĩ3/<sup>如皋</sup>, /iɪ̃3/<sup>泰县</sup></small> 躲藏、隐蔽<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup>：他～吖门后头。<sup>\[如皋\]</sup>｜往门后头一～。<sup>\[东台\]</sup>｜他朝巷子里一～。<sup>\[兴化\]</sup>｜民警敲门，赌场上的人急忙朝房间里～。<sup>\[兴化\]</sup>｜～吖在墙背后。<sup>\[泰县\]</sup>  
 1. 【[匽面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_min.md#匽面)】`in3 min6` <sup>[如皋]</sup> 隐蔽，不引人注目，不张扬。  
 1. 【[厣脐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_qi_r.md#厣脐<sub>儿</sub>)】`in3 qi2 r` <sup>[如东]</sup> 蟹腹下面呈三角形的薄壳，也称厣。这是退化了的尾巴。  
 1. 【[厣钱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_qin_r.md#厣钱<sub>儿</sub>)】`in3 qin2 r` <small>/iɪ̃3 t͡ɕʰiɪ̃2 ɚ/<sup>兴化</sup></small> ① 螺蛳口圆片状的盖。<sup>\[东台\]</sup> ② 螺蛳头上的盖。<sup>\[兴化\]</sup> ③ 螃蟹腹下的薄壳。厣<sup>\[兴化\]</sup>：《广韵·琰韵》於琰切<sup>\[兴化\]</sup>｜蟹腹下厣。<sup>\[兴化\]</sup>  

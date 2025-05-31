@@ -304,7 +304,8 @@
 1. 【[鸦鹊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_qiah.md#鸦鹊)】`nga1 qiah7` 喜鹊  
 1. 【[鸦子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#鸦子)】`nga1 zz` <sup>[泰兴]</sup> 鸬鹚。经驯养后会捕鱼的禽类动物。  
 1. 【[□求](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_qieu.md#□求)】`nga2 qieu2` <sup>[泰州]</sup> 在他人明确表示否定的情况下，乞求他人满足自己愿望：他已经回啊你，你还再去～他，何苦自讨没趣㖸？  
-1. 【[伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_r.md#伢<sub>儿</sub>)】`nga2 r` <small>/ŋa˞2/<sup>如皋</sup>, /ŋɑ˞2/<sup>泰兴</sup>, /a2 ɚ/<sup>泰县</sup></small> ① 小孩<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：他家～今年小学毕业。<sup>\[泰州\]</sup> ② 对小孩的称呼。<sup>\[如东\]</sup> ③ 指未结婚的青年男女，多作长者对晚辈的昵称。<sup>\[泰州\]</sup>  
+1. 【[伢花<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_hua_r.md#伢花<sub>儿</sub>)】`nga2 hua1 r` <small>/ŋɑ2 xuɑ˞1/<sup>泰兴</sup></small> 幼小的孩子。<sup>\[泰兴\]</sup>  
+1. 【[伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_r.md#伢<sub>儿</sub>)】`nga2 r` <small>/ŋa˞2/<sup>如皋</sup>, /ŋɑ˞2/<sup>泰兴</sup>, /a2 ɚ/<sup>泰县</sup></small> ① 小孩<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：他家～今年小学毕业。<sup>\[泰州\]</sup>｜惯～<sup>\[泰兴\]</sup> ② 对小孩的称呼。<sup>\[如东\]</sup> ③ 指未结婚的青年男女，多作长者对晚辈的昵称。<sup>\[泰州\]</sup>  
 1. 【[伢<sub>儿</sub>自家的蘣，婆娘人家的蘣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_r_cz_ga_dii_ton_pu_nian_ren_ga_dii_ton.md#伢<sub>儿</sub>自家的蘣，婆娘人家的蘣)】`nga2 r cz6 ga dii ton5 pu2 nian ren2 ga dii ton5` <sup>[东台]</sup> 一种普遍存在的偏见及偏爱心理。  
 1. 【[伢<sub>儿</sub>父](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_r_fv.md#伢<sub>儿</sub>父)】`nga2 r fv6` <sup>[如东]</sup> ① 小孩的父亲。 ② 妻子对丈夫的称呼。  
 1. 【[伢<sub>儿</sub>家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_r_ga.md#伢<sub>儿</sub>家)】`nga2 r ga` <sup>[如皋]</sup> 小孩子一类的人，要谦逊礼让：～到哪许总要少说、多听。  
@@ -1214,7 +1215,7 @@
 1. 【[饿煞鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_shaeh_guei.md#饿煞鬼)】`ngu6 shaeh7 guei3` <sup>[东台]</sup> ［喻］指食量大的人。又称“饿死鬼”：你是～投的胎呀，一顿等不到一顿。  
 1. 【[饿煞鬼投的胎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_shaeh_guei_teu_dii_tae.md#饿煞鬼投的胎)】`ngu6 shaeh7 guei3 teu2 dii tae1` <sup>[如皋]</sup> 贬指容易饿、食量大的人。  
 1. 【[饿食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_sheh.md#饿食)】`ngu6 sheh8` <sup>[如皋]</sup> 指禽畜中无食时：猪子～称120斤，饱食就不止。  
-1. 【[佤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngua.md#佤)】`ngua3` <small>/ŋua3/<sup>如皋</sup></small> ① 我家 ② 我，我家（合音字）。<sup>\[如皋\]</sup>  
+1. 【[佤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngua.md#佤)】`ngua3` <small>/ŋua3/<sup>如皋</sup>, /uɑ3/<sup>泰兴</sup></small> ① 我家 ② 我，我家（合音字）。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：箇块落头是～承包的<sup>\[泰兴\]</sup>｜～哥哥去当兵ngo<sup>\[泰兴\]</sup>  
 1. 【[尼姑㫰尿布——阴干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_gv_lan_xy_bv_ien_gun.md#尼姑㫰尿布——阴干)】`ni2 gv1 lan6 xy1 bv5 ien1 gun1` <sup>[东台]</sup>   
 1. 【[泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni.md#泥)】`ni2` <small>/ləi2/<sup>兴化</sup>, /nʝ2/<sup>如皋</sup></small> ① 土 ② 对付、餬口<sup>\[如皋\]</sup>：苦日子望前～着咖。<sup>\[如皋\]</sup> ③ 涂抹<sup>\[兴化\]</sup>：脏东西～啊一地。<sup>\[兴化\]</sup>｜～墙（用泥巴和糠秕、草屑等涂抹土墼墙壁，使平整、不漏风）。～锅腔。<sup>\[兴化\]</sup> ④ （引）挪移<sup>\[兴化\]</sup>：他以前空的债慢慢～掉啊。<sup>\[兴化\]</sup> ⑤ 以糊状泥涂抹<sup>\[泰州\]</sup>：你去弄点烂泥把牛棚的墙上～啊平吖。<sup>\[泰州\]</sup>  
 1. 【[泥巴巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_ba_ba.md#泥巴巴)】`ni2 ba1 ba` <sup>[兴化]</sup> 半干的泥：沰～。也说“烂泥巴巴”。  
@@ -1332,10 +1333,13 @@
 1. 【[仰八岔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_baeh_cha.md#仰八岔)】`nian3 baeh7 cha5` <sup>[如皋]</sup> 见“仰八弯”。  
 1. 【[仰八弯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_baeh_vaen.md#仰八弯)】`nian3 baeh7 vaen1` <sup>[如皋]</sup> 贬指随意躺着。颈、背、腰、膝、股、踝、肘、腕等大关节弯曲的样子。另见“仰相”。  
 1. 【[仰倒巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_do_ba.md#仰倒巴)】`nian3 do5 ba1` <sup>[东台]</sup> 仰面朝天跌下去：脚下一跐，摔啊个～。也作“仰拉巴”。  
-1. 【[仰下来骚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_ha_lae_so.md#仰下来骚)】`nian3 ha lae2 so1` <sup>[兴化]</sup> ① 睡下蹬腿。 ② （喻）耍赖：他自知理亏就～。  
+1. 【[仰下来搔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_ha_lae_so.md#仰下来搔)】`nian3 ha lae2 so1` <sup>[兴化]</sup> ① 睡下蹬腿。 ② （喻）耍赖：他自知理亏就～。  
+1. 【[仰下来搔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_ha_lae_so.md#仰下来搔)】`nian3 ha lae2 so1` <small>/niɑŋ3 xɑ lɛ2 sɔ1/<sup>泰兴</sup></small> 耍无赖，躺在地上双脚乱蹬。<sup>\[泰兴\]</sup>  
 1. 【[仰下来搔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_ha_lae_so.md#仰下来搔)】`nian3 ha6 lae2 so1` <sup>[泰州]</sup> 仰面朝天躺在地上双脚乱蹬，喻指根本不顾个人尊严体面的耍无赖的行为：他现在就这回事，～，你也没得办法。  
 1. 【[仰颈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_jien.md#仰颈)】`nian3 jien3` <sup>[如皋]</sup> 笼鸟之劣品着。  
 1. 【[仰老巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_lo_ba.md#仰老巴)】`nian3 lo3 ba1` <sup>[如皋]</sup> 仰面跌倒。  
+1. 【[仰老巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_lo_ba.md#仰老巴)】`nian3 lo3 ba1` <small>/niɑŋ3 lɔ3 pɑ1/<sup>泰兴</sup></small> 仰面倒在地上，四肢叉开的样子。<sup>\[泰兴\]</sup>  
+1. 【[仰面看人，低头砟肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_min_kun_ren.md#仰面看人，低头砟肉)】`nian3 min6 kun5 ren2 di1 teu2 zhah7 roh8` <small>/niɑŋ3 mĩ1 kʰʊ̃5 ɻəŋ2 t͡ɕʝ1 tʰəɪ2 t͡sɑʔ7 ɻɔʔ8/<sup>泰兴</sup></small> 谓见人行事，有失公允。贬语。<sup>\[泰兴\]</sup>  
 1. 【[仰吖下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_nga_ha.md#仰吖下)】`nian3 nga ha` <sup>[如皋]</sup> 仰躺着。  
 1. 【[仰吖脚来骚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_nga_jiah_lae_so.md#仰吖脚来骚)】`nian3 nga jiah7 lae so1` <sup>[东台]</sup> ［喻］野蛮撒泼，不讲道理。  
 1. 【[仰墒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_shan.md#仰墒)】`nian3 shan1` <sup>[如东]</sup> 耕牛躺在墒沟里不起来。比喻人躺着睡，起不来：甚的时候啊，还在下～？  
@@ -1450,9 +1454,11 @@
 1. 【[年怕中秋月怕半](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_pa_zhon_qieu_iuh_pa_bun.md#年怕中秋月怕半)】`nin2 pa5 zhon1 qieu1 iuh8 pa5 bun5` <sup>[东台]</sup> 凡事尽早从紧，“怕”即体现了紧迫感。  
 1. 【[年三十](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_saen_sheh.md#年三十)】`nin2 saen1 sheh8` <small>/liɪ̃2 sɛ̃1 səʔ8/<sup>兴化</sup></small> ① 农历除夕。<sup>\[东台\]</sup> ② 除夕<sup>\[兴化\]</sup>：过去当大伙计，从年初一忙到～，没得一天空闲。<sup>\[兴化\]</sup>  
 1. 【[年梢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_sho.md#年梢)】`nin2 sho1` <sup>[如东]</sup> 年尾：～收事。  
+1. 【[年梢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_sho.md#年梢)】`nin2 sho1` <small>/nĩ2 sɔ1/<sup>泰兴</sup></small> 年尾，年底。<sup>\[泰兴\]</sup>：～里<sup>\[泰兴\]</sup>  
 1. 【[年岁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_suei.md#年岁)】`nin2 suei` <small>/nĩ2 suəɪ/<sup>泰兴</sup></small> 岁月。岁，年。<sup>\[泰兴\]</sup>  
 1. 【[年头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_teu.md#年头)】`nin2 teu` <sup>[如东]</sup> 一些年：这种现象已经有～啊。  
 1. 【[年头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_teu.md#年头)】`nin2 teu2` <small>/liɪ̃2 tʰɤ2/<sup>兴化</sup></small> ① 一年的开始。<sup>\[如东\]</sup>：～就要抓好。<sup>\[如东\]</sup> ② 年初<sup>\[兴化\]</sup>：我～上到南京，到目下快半年吖。<sup>\[兴化\]</sup>  
+1. 【[年豆腐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_teu_fv.md#年豆腐)】`nin2 teu6 fv` <small>/nĩ2 tʰəɪ1 fʋ/<sup>泰兴</sup></small> 民俗。春节前家家做豆腐，曰“年豆腐”。据说为企盼“富裕幸福”之意。<sup>\[泰兴\]</sup>  
 1. 【[年套年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_to_nin.md#年套年)】`nin2 to5 nin2` <sup>[如皋]</sup> 年与年衔接不断。  
 1. 【[年尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_vei.md#年尾)】`nin2 vei3` <sup>[如东]</sup> 一年的收尾：～结账。  
 1. 【[年作子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_zah_zz.md#年作子)】`nin2 zah7 zz` <sup>[如东]</sup> 过年期间所需要花费的钱：箇趟生意把～赚家来啊。  

@@ -704,6 +704,7 @@
 1. 【[份头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_teu.md#份头)】`fen6 teu2` <sup>[如东]</sup> 比例，成数：你的～是多少？  
 1. 【[份外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_vae.md#份外)】`fen6 vae6` <sup>[如东]</sup> 规定之外。  
 1. 【[份子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_zz.md#份子)】`fen6 zz` <sup>[东台]</sup> 指大家共同凑资金给某人出“人情”，亦称“凑～”。  
+1. 【[份子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_zz.md#份子)】`fen6 zz` <small>/fəŋ1 t͡sɿ/<sup>泰兴</sup></small> 集体送礼时各人分摊的钱。一人一份的物品等。<sup>\[泰兴\]</sup>：一人一个份子，不好得两份。<sup>\[泰兴\]</sup>  
 1. 【[浮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/feu.md#浮)】`feu2` <sup>[如皋]</sup> 作风轻浮。也说fv2。  
 1. 【[复报](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_bo.md#复报)】`foh7 bo5` <sup>[泰县]</sup> 报复：要～他下子。  
 1. 【[复东](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_don.md#复东)】`foh7 don1` <small>/fɔʔ7 toŋ1/<sup>兴化</sup>, /fɔʔ7 tɔŋ1/<sup>如皋</sup></small> ① 对人家惠东的回请。<sup>\[如皋\]</sup> ② 对别人的邀约回请，自己做东道主<sup>\[东台\]</sup>：这几次接二连三地捱请吃，明吖我～请一下他俫。<sup>\[东台\]</sup> ③ 为答谢而请客<sup>\[兴化\]</sup>：“……也罢，今日扰你，明日我再罢！”（《梼杌闲评》十三）<sup>\[兴化\]</sup> ④ 本人接受别人宴请以后，自己花钱回请别人<sup>\[泰州\]</sup>：今朝晚上老李～请大家。<sup>\[泰州\]</sup>  

@@ -1033,6 +1033,7 @@
 1. 【[横祸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_hu.md#横祸)】`hon6 hu6` <sup>[兴化]</sup> 意外的祸患。  
 1. 【[横事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_shr.md#横事)】`hon6 shr6` <small>/xoŋ6 sɿ6/<sup>兴化</sup>, /xɔŋ1 sɿ1/<sup>如皋</sup></small> ① 凶事、横祸。谚：家有贤妻夫不遭～。<sup>\[如皋\]</sup> ② 意外的祸患<sup>\[兴化\]</sup>：毛二胡子酒醉打杀人，家里避啊～。也作“横祸”。<sup>\[兴化\]</sup>  
 1. 【[横死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_sz.md#横死)】`hon6 sz3` <sup>[兴化]</sup> 指各种非正常死亡：“……小二、小五俱遭～，剩得你一个……又闯出这场奇祸来……”（《水浒后传》一）  
+1. 【[伙家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_jia.md#伙家)】`hu1 jia` <small>/xɤɯ1 t͡ɕiɑ/<sup>泰兴</sup></small> 对同辈人或同伴的称呼，表示亲热、亲近。一般不用于对长辈或同伴中的年长者。<sup>\[泰兴\]</sup>  
 1. 【[吙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu.md#吙)】`hu1` <small>/xo1/<sup>兴化</sup>, /xʊ1/<sup>如皋</sup>, /xo1/<sup>泰县</sup></small> ① 一种烹饪方法，放在水上蒸。吙，同音借字。 ② 一种烹调方法。把食物放在锅里或吙络儿上，用文火焖熟。<sup>\[如东\]</sup> ③ 蒸：～馒头、汽～水。<sup>\[如皋\]</sup> ④ 薰：热汽～手、～。澡<sup>\[如皋\]</sup> ⑤ 灼痛：手洗啊大椒的，～人子。<sup>\[如皋\]</sup> ⑥ 用少量水，盖紧锅盖，将食物半蒸半煮。来客蒸糕点，馒头叫“～茶”。<sup>\[东台\]</sup> ⑦ 热气冒出<sup>\[兴化\]</sup>：热气把手～疼吖。兴化词典作“煆”，《集韵·麻韵》虚加切“～，火气。”<sup>\[兴化\]</sup> ⑧ 用锅把冷的东西蒸热：把馒头～啊子。<sup>\[泰县\]</sup> ⑨ 用蒸气加热蒸熟食物<sup>\[泰州\]</sup>：～馒头<sup>\[泰州\]</sup>｜～螃蟹<sup>\[泰州\]</sup> ⑩ 毛巾在热水中浸泡后，拧至半干，用于热敷<sup>\[泰州\]</sup>：他要闪吖唻，弄个手巾把子同他～啊子。<sup>\[泰州\]</sup>  
 1. 【[吙茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_cha.md#吙茶)】`hu1 cha2` <sup>[如皋]</sup> 旧时乡村中的待客之礼。在一只大锅中烧开水兼吙馒头、糕之类，请客人饮用。即便近中午，也是先～，后煮饭。  
 1. 【[吙蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_hae.md#吙蟹)】`hu1 hae3` <sup>[如皋]</sup> 将活蟹洗净置锅内蒸熟。  
@@ -1143,6 +1144,7 @@
 1. 【[𤖱头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_teu.md#𤖱头)】`hu2 teu2` <sup>[如皋]</sup> 棺材头。  
 1. 【[伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu.md#伙)】`hu3` <sup>[如皋]</sup> 鼓动、怂惠：他～住咖别人做，自家不做。  
 1. 【[伙仓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_can.md#伙仓)】`hu3 can1` <sup>[如皋]</sup> 炊事：开～（煮饭菜）。  
+1. 【[伙计](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_ji.md#伙计)】`hu3 ji5` <small>/xɤɯ3 t͡ɕʝ5/<sup>泰兴</sup></small> 旧指店员或其他被雇佣劳动者。<sup>\[泰兴\]</sup>  
 1. 【[伙家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_jia.md#伙家)】`hu3 jia` <sup>[兴化]</sup> ① 伙计、佣人。 ② 对朋友，熟人等比较随意的面称：“～，好力气，好膀条子！”（《武松》五）｜“～，今天夜里要防备大风大雨哩！”（马春阳《双灯照》）  
 1. 【[伙（夥）家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_jia.md#伙（夥）家)】`hu3 jia1` <sup>[如皋]</sup> 指在一起的人。昵称。詈指。  
 1. 【[伙家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_jia.md#伙家)】`hu3 jia1, hu1 jia1` <sup>[东台]</sup> 伙伴之间最常用的昵称，一般用于对同辈、晚辈或下级，而不是相反。在这里，“家”为“计啊”合音，“伙”习惯也读阴平。  
@@ -2064,9 +2066,10 @@
 1. 【[合家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_ga.md#合家)】`huh8 ga1` <sup>[如东]</sup> 全家：～老小都好。  
 1. 【[合家老小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_ga_lo_xio.md#合家老小)】`huh8 ga1 lo3 xio3` 家庭全部成员，全家老少。<sup>\[如东\]</sup><sup>\[东台\]</sup>  
 1. 【[合光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_guan.md#合光)】`huh8 guan1` <small>/xuʔ8 kuaŋ1/<sup>兴化</sup>, /xʊʔ8 kuã1/<sup>如皋</sup>, /xʊʔ8 kuɑŋ1/<sup>泰县</sup></small> ① 眼镜度数与视力度数相匹配。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[泰县\]</sup>\[兴化：也称“投光”。\] ② 中意，合于自己的眼光。<sup>\[如皋\]</sup> ③ 交换看法，集思广益。<sup>\[东台\]</sup>  
-1. 【[合婚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_huen.md#合婚)】`huh8 huen1` <small>/xuʔ8 xuən1/<sup>兴化</sup>, /xʊʔ8 xuəŋ1/<sup>如皋</sup>, /xʊʔ7 xuəŋ1/<sup>泰县</sup></small> 旧俗，男女定婚前，将双方的生辰八字合在一起算命，预测是否般配，这种程序称合婚。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[泰县\]</sup>\[兴化：也称“合八字”。\]  
+1. 【[合婚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_huen.md#合婚)】`huh8 huen1` <small>/xuʔ8 xuən1/<sup>兴化</sup>, /xʊʔ8 xuəŋ1/<sup>如皋</sup>, /xʊʔ8 xuəŋ1/<sup>泰兴</sup>, /xʊʔ7 xuəŋ1/<sup>泰县</sup></small> 旧俗，男女定婚前，将双方的生辰八字合在一起算命，预测是否般配，这种程序称合婚。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>\[兴化：也称“合八字”。\]  
 1. 【[合欢树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_hun_shv.md#合欢树)】`huh8 hun1 shv6` <sup>[如东]</sup> 豆科植物合欢，也叫马樱花，落叶乔木，高约10米。  
 1. 【[合口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_keu.md#合口)】`huh8 keu3` <sup>[东台]</sup> 符合自己的口味。  
+1. 【[合口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_keu.md#合口)】`huh8 keu3` <small>/xʊʔ8 kʰəɪ3/<sup>泰兴</sup></small> 适口，可口。<sup>\[泰兴\]</sup>：茶饭～<sup>\[泰兴\]</sup>  
 1. 【[合脾家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_pi_jia.md#合脾家)】`huh8 pi2 jia1` <sup>[如皋]</sup> 相处和谐。又作“佮得来”。  
 1. 【[合篷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_pon.md#合篷)】`huh8 pon2` <sup>[泰县]</sup> 连接前后两间房子的遮盖物。  
 1. 【[合伴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_pun.md#合伴)】`huh8 pun6` <sup>[如皋]</sup> 与同伴关系融洽。  
@@ -2075,7 +2078,7 @@
 1. 【[合手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_sheu.md#合手)】`huh8 sheu3` <small>/xuʔ8 sɤ3/<sup>兴化</sup>, /xʊʔ8 sei3/<sup>如皋</sup></small> 称手，掌握使用很舒适<sup>\[如皋\]</sup><sup>\[兴化\]</sup>：才买的这把剪子用起来不大～。<sup>\[兴化\]</sup>  
 1. 【[合扇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_shin.md#合扇)】`huh8 shin5` <small>/xuʔ8 siɪ̃5/<sup>兴化</sup></small> 由两片金属构成的铰链，大多装在门、窗、箱、柜上。<sup>\[兴化\]</sup>\[东台：又作“合页”“合叶”。\]  
 1. 【[合同工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_ton_gon.md#合同工)】`huh8 ton2 gon1` <sup>[如东]</sup> 用工制度的一种。劳动者与企业单位按照一定条件（权利与义务）签订劳动合同，这种用工制度称劳动合同制，简称劳合制；这种制度下的工人称劳动合同制工人，简称合同工。  
-1. 【[合胃口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_vei_keu.md#合胃口)】`huh8 vei6 keu3` <small>/xʊʔ8 ʋei1 kʰei3/<sup>如皋</sup></small> ① 菜肴的风味符合自己的口味。比喻符合要求。<sup>\[如东\]</sup>：这种菜，～。<sup>\[如东\]</sup> ② 适合需要。<sup>\[如皋\]</sup>  
+1. 【[合胃口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_vei_keu.md#合胃口)】`huh8 vei5 keu3` <small>/xʊʔ8 ʋei5 kʰei3/<sup>如皋</sup>, /xʊʔ8 ʋəɪ5 kʰəɪ3/<sup>泰兴</sup></small> ① 菜肴的风味符合自己的口味。比喻符合要求。<sup>\[如东\]</sup>：这种菜，～。<sup>\[如东\]</sup> ② 适合需要。<sup>\[如皋\]</sup> ③ 适合个人饮食的喜好。比喻某事某人某物与个人的心意、志趣相合。<sup>\[泰兴\]</sup>  
 1. 【[合葬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_zan.md#合葬)】`huh8 zan5` <sup>[如东]</sup> 夫妇两人死了，埋葬在一个坟墓里，称合葬。  
 1. 【[合汁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_zheh.md#合汁)】`huh8 zheh7` <sup>[东台]</sup> 两种以上溶液完全融合，或者凝固成一个整体。  
 1. 【[合子蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_zz_hae.md#合子蟹)】`huh8 zz hae3` <sup>[如东]</sup> 两只蟹，一公一母，称合子蟹。  
@@ -2091,7 +2094,7 @@
 1. 【[活抽签](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_cheu_qin.md#活抽签)】`huh8 cheu1 qin1` <sup>[泰县]</sup> （禁忌语）非常艰难：你叫他去做这件事，真是～。  
 1. 【[活德行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_deh_xien.md#活德行)】`huh8 deh7 xien` <sup>[泰州]</sup> 生动而逼真的，令人产生厌恶感的仪态或举止，贬义：你望他这个～的样子噢，他家祖宗的形都捱他伤吖清吖唻。  
 1. 【[活泛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_faen.md#活泛)】`huh8 faen` <small>/xuʔ8 fɛ̃/<sup>兴化</sup>, /xʊʔ8 fɛ̃/<sup>泰县</sup></small> ① （思维、动作、为人等）灵活<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：心眼儿～。<sup>\[如东\]</sup>｜一根三节棍在他手上舞得～。<sup>\[兴化\]</sup>｜这个人蛮～的。<sup>\[泰县\]</sup>｜他做事～，寻他作兴有用。<sup>\[泰州\]</sup> ② 柔软。<sup>\[如东\]</sup>：这些面～。<sup>\[如东\]</sup>  
-1. 【[活该](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_gae.md#活该)】`huh8 gae1` <small>/xʊʔ8 kɛ1/<sup>如皋</sup></small> 活该。<sup>\[如东\]</sup>\[如皋：又说“该应”。\]  
+1. 【[活该](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_gae.md#活该)】`huh8 gae1` <small>/xʊʔ8 kɛ1/<sup>如皋</sup>, /xʊʔ8 kɛ1/<sup>泰兴</sup></small> 活该。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>\[如皋：又说“该应”。\]  
 1. 【[活鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_guei.md#活鬼)】`huh8 guei3` <small>/xuʔ8 kuəi3/<sup>兴化</sup>, /xʊʔ8 kuəɪ3/<sup>泰县</sup></small> ① 因病而脱失了人形<sup>\[兴化\]</sup>：（牛浦）一到船上，就害起痢疾来……屙到三四天，就像个～。（《儒林外史》二三）<sup>\[兴化\]</sup> ② 詈语，表示蔑视。<sup>\[兴化\]</sup>\[泰县：人格低下的人。\]\[泰州：蔑称自以为是而才能低的人\]：～！你来做甚的？<sup>\[兴化\]</sup>｜你把事情交把他这个～弄，不出问题才怪唻。<sup>\[泰州\]</sup>  
 1. 【[活鬼烧清汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_guei_sho_qien_tan.md#活鬼烧清汤)】`huh8 guei3 sho1 qien1 tan1` <sup>[东台]</sup> （詈语）指某人吝啬到了极点：以前那个厂的食堂烧菜都舍不得放油，简直是～！  
 1. 【[活猴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_heu.md#活猴)】`huh8 heu2` <sup>[兴化]</sup> （喻）女儿和外孙。农历二月二，已嫁闺女挈夫将雏回到娘家：谚曰：二月二，龙拾头，家家带～。  

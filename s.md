@@ -723,21 +723,23 @@
 1. 【[伤巴皱脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_ba_zheu_lin.md#伤巴皱脸)】`shan1 ba zheu5 lin3` <sup>[泰县]</sup> 哭丧着脸。  
 1. 【[伤触](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_choh.md#伤触)】`shan1 choh7` <small>/saŋ1 t͡sʰɔʔ7/<sup>兴化</sup></small> ① 言语冒犯<sup>\[兴化\]</sup>：人家又不曾得罪你，你无故～人太不应该。<sup>\[兴化\]</sup>｜“便是小贱人有些言高情低，～了押司，也看得老身薄面……”（《水浒传》二一）<sup>\[兴化\]</sup> ② 冒犯，冲撞<sup>\[泰州\]</sup>：你要是这样子说，就～人唻。<sup>\[泰州\]</sup>  
 1. 【[伤冲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_chon.md#伤冲)】`shan1 chon1` <small>/sã1 t͡sʰɔŋ1/<sup>如皋</sup></small> ① 得罪、冲撞：他一开口就～人。<sup>\[如皋\]</sup> ② 就是得罪<sup>\[东台\]</sup>：说话不注意分寸，就能～人。<sup>\[东台\]</sup>  
-1. 【[伤德](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_deh.md#伤德)】`shan1 deh7` <small>/saŋ1 təʔ7/<sup>兴化</sup>, /sã1 təʔ7/<sup>如皋</sup></small> ① 责语。指严重侵犯权益、有损公德，私德的行为。<sup>\[如皋\]</sup> ② 损德<sup>\[兴化\]</sup>：啊呀，你做这种谎媒，不怕～咖？<sup>\[兴化\]</sup>  
+1. 【[伤德](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_deh.md#伤德)】`shan1 deh7` <small>/saŋ1 təʔ7/<sup>兴化</sup>, /sã1 təʔ7/<sup>如皋</sup>, /sɑŋ1 təʔ7/<sup>泰兴</sup></small> ① 责语。指严重侵犯权益、有损公德，私德的行为。<sup>\[如皋\]</sup> ② 损德<sup>\[兴化\]</sup>：啊呀，你做这种谎媒，不怕～咖？<sup>\[兴化\]</sup> ③ 也作“伤阴德”、“丧德”。缺德，失去起码的道德良心，做味心事。<sup>\[泰兴\]</sup>：你做箇种事又不怕～<sup>\[泰兴\]</sup>  
 1. 【[伤风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_fon.md#伤风)】`shan1 fon1` <sup>[东台]</sup> 感冒。  
 1. 【[伤膏气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_go_qi.md#伤膏气)】`shan1 go1 qi5` <sup>[东台]</sup> 吃得过饱、消化不良嗳出的难闻气味。  
 1. 【[伤膏失肌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_go_sheh_ji.md#伤膏失肌)】`shan1 go1 sheh7 ji1` <sup>[东台]</sup> 指暴饮暴食，伤了身体（膏，心尖脂肪；肌，肌肉）：出去应酬，不要吃得～的。  
 1. 【[伤割人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_guh_ren.md#伤割人)】`shan1 guh7 ren2` <sup>[如东]</sup> 用言语讽刺挖苦人：不能～吖！  
 1. 【[伤阴德](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_ien_deh.md#伤阴德)】`shan1 ien1 deh7` <sup>[如东]</sup> 不做好事，损伤祖宗的德性：你在背后捣鬼，～咖！  
 1. 【[伤良心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_lian_xien.md#伤良心)】`shan1 lian2 xien1` <sup>[东台]</sup> 害人害得可怜，也伤害自己的良心（带同情弱者口气）。  
-1. 【[伤力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_lieh.md#伤力)】`shan1 lieh8` <small>/saŋ1 liɪʔ8/<sup>兴化</sup>, /sã1 liəʔ8/<sup>如皋</sup></small> ① 用力过度而受内伤。<sup>\[如皋\]</sup> ② 农村指常干重活伤了胃。<sup>\[东台\]</sup> ③ 因过劳而使身体受内伤<sup>\[兴化\]</sup>：郑老三气得发～，又是呕血，又是气喘。<sup>\[兴化\]</sup>  
+1. 【[伤力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_lieh.md#伤力)】`shan1 lieh8` <small>/saŋ1 liɪʔ8/<sup>兴化</sup>, /sã1 liəʔ8/<sup>如皋</sup>, /sɑŋ1 liʔ8/<sup>泰兴</sup></small> ① 用力过度而受内伤。<sup>\[如皋\]</sup> ② 农村指常干重活伤了胃。<sup>\[东台\]</sup> ③ 因过劳而使身体受内伤<sup>\[兴化\]</sup>：郑老三气得发～，又是呕血，又是气喘。<sup>\[兴化\]</sup> ④ 过分劳累而致成的疾病。<sup>\[泰兴\]</sup>：箇期伤吖力，人没劲。<sup>\[泰兴\]</sup>  
 1. 【[伤廉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_lin.md#伤廉)】`shan1 lin2` <sup>[兴化]</sup> （借）超过一定承受能力：这一下子打得太重，他不～不哭。｜叫他拿五百块钱请客不算～，他还请得起。语出《孟子，离娄（下）》｜“可以取，可以无取，取～。”此处为套用。  
 1. 【[伤廉惠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_lin_huei.md#伤廉惠)】`shan1 lin2 huei` <sup>[泰州]</sup> 超过本人承受能力：老刘他工资低，教人家花三千多请客，伤吖廉惠唻。｜王老板家家里有的是钱，不要说花这万把块钱，就是用个十万、八万也不～。  
 1. 【[伤连](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_lin.md#伤连)】`shan1 lin2` <sup>[如皋]</sup> 伤害较重、较深：他不过剪吖你的鞋带子，不～，算吖吧。  
 1. 【[伤吖灵慧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_nga_lien_huei.md#伤吖灵慧)】`shan1 nga lien2 huei6` <sup>[东台]</sup> ［喻］伤神至本（慧乃智根）：几个骨干调啊走啊，我俫单位真的～。  
 1. 【[伤吖年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_nga_nin.md#伤吖年)】`shan1 nga nin2` <sup>[泰县]</sup> 动真格的。  
 1. 【[伤脑筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_no_jien.md#伤脑筋)】`shan1 no3 jien1` <sup>[东台]</sup> 形容事情难办。  
+1. 【[伤脑筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_no_jien.md#伤脑筋)】`shan1 no3 jien1` <small>/sɑŋ1 nɔ3 t͡ɕiŋ1/<sup>泰兴</sup></small> 形容事情难办，费心思。<sup>\[泰兴\]</sup>  
 1. 【[伤皮不伤骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_pi_beh_shan_gueh.md#伤皮不伤骨)】`shan1 pi2 beh7 shan1 gueh7` <sup>[兴化]</sup> ① 外表伤：老向的头撞破啊，～，搽一点药水也就好多啊。 ② 小的损失，没动到根本：这次出去进货，捱小偷摸去几百块钱，算得～。  
+1. 【[伤脾胃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_pi_vei.md#伤脾胃)】`shan1 pi2 vei` <small>/sɑŋ1 pʰʝ2 ʋəɪ/<sup>泰兴</sup></small> 谓有所损害。<sup>\[泰兴\]</sup>：我就说咖箇句话，也不～<sup>\[泰兴\]</sup>  
 1. 【[伤人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_ren.md#伤人)】`shan1 ren2` <sup>[如东]</sup> ① 致人受伤：加强保护，不能～。 ② 致人死亡的委婉说法：事故伤吖人。  
 1. 【[伤人汉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_ren_hun.md#伤人汉)】`shan1 ren2 hun5` <sup>[如东]</sup> 害人：这个问题～的。  
 1. 【[伤食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_sheh.md#伤食)】`shan1 sheh8` <small>/sã1 səʔ8/<sup>如皋</sup>, /sɑŋ1 səʔ8/<sup>泰县</sup></small> ① 见“𩞉食”。<sup>\[如皋\]</sup> ② 吃得太多，使食欲减退。<sup>\[如东\]</sup>：毛毛吃得太多，伤吖食。<sup>\[如东\]</sup> ③ 吃得太多<sup>\[泰县\]</sup>：～宝儿不要医，一直饿到日斜西。<sup>\[泰县\]</sup>  
@@ -745,6 +747,7 @@
 1. 【[伤食瘠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_sheh_jieh.md#伤食瘠)】`shan1 sheh8 jieh7` <sup>[如东]</sup> 因饮食过多而使食欲减退，中医称这种疾病为伤食瘠。  
 1. 【[伤声棒气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_shen_pan_qi.md#伤声棒气)】`shan1 shen1 pan6 qi5` <sup>[兴化]</sup> 由于心情不快而说话语气不好：这几天闹情绪，说话总是～的。  
 1. 【[伤神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_shen.md#伤神)】`shan1 shen2` <sup>[东台]</sup> 过度耗费精神。  
+1. 【[伤神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_shen.md#伤神)】`shan1 shen2` <small>/sɑŋ1 səŋ2/<sup>泰兴</sup></small> 耗损精神。<sup>\[泰兴\]</sup>  
 1. 【[伤天害理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_tin_hae_li.md#伤天害理)】`shan1 tin1 hae6 li3` <small>/sã1 tʰĩ1 xɛ1 lʝ3/<sup>如皋</sup></small> ① 见“伤德”。<sup>\[如皋\]</sup> ② 违法乱纪，不近人情。<sup>\[如东\]</sup>：不能做～的事。<sup>\[如东\]</sup>  
 1. 【[伤心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_xien.md#伤心)】`shan1 xien1` <sup>[如东]</sup> 感情受到剌激而产生悲痛：她非常～。  
 1. 【[伤中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_zhon.md#伤中)】`shan1 zhon1` <sup>[泰县]</sup> 中伤。  
