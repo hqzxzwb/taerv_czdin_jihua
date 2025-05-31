@@ -1222,7 +1222,8 @@
 1. 【[尖灵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_lien.md#尖灵)】`jin1 lien` <sup>[如皋]</sup> 聪明而专注：伢儿蛮～的，学起来快。或作“精灵”。  
 1. 【[尖里把西的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_lii_ba_xi_dii.md#尖里把西的)】`jin1 lii ba3 xi1 dii` <sup>[如皋]</sup> 小气、吝啬的样子。  
 1. 【[尖老王子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_lo_van_zz.md#尖老王子)】`jin1 lo van2 zz` <sup>[如皋]</sup> 小气、吝啬的人：～瘦似鬼，吃得好养得丑。  
-1. 【[尖屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_pi_gu.md#尖屁股)】`jin1 pi5 gu` <small>/t͡ɕiɪ̃1 pʰi5 ko/<sup>兴化</sup>, /t͡ɕĩ1 pʰʝ5 kʊ/<sup>如皋</sup>, /t͡ɕiɪ̃1 pʰɿ5 ko/<sup>泰县</sup></small> ① 坐不稳。<sup>\[如东\]</sup> ② 坐不稳的人。<sup>\[如东\]</sup>：他是一个～。<sup>\[如东\]</sup> ③ ［喻］心神不定、坐不住的人<sup>\[东台\]</sup>：做学问不能选～。也作“尖头屁股”。<sup>\[东台\]</sup> ④ 坐不住，好动的习性。<sup>\[如皋\]</sup> ⑤ 坐不住的人<sup>\[兴化\]</sup>：他是～，在家里坐不住。<sup>\[兴化\]</sup> ⑥ 也指没有福分的人。<sup>\[兴化\]</sup>：谚曰：～坐不了九龙墩。<sup>\[兴化\]</sup> ⑦ 坐不住的人。<sup>\[泰县\]</sup>  
+1. 【[尖老王子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_lo_van_zz.md#尖老王子)】`jin1 lo van2 zz` <small>/t͡ɕĩ1 lɔ uɑŋ2 t͡sɿ/<sup>泰兴</sup></small> 贪食、挑食、喜欢沾光于别人的人<sup>\[泰兴\]</sup>：～瘦似鬼<sup>\[泰兴\]</sup>  
+1. 【[尖屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_pi_gu.md#尖屁股)】`jin1 pi5 gu` <small>/t͡ɕiɪ̃1 pʰi5 ko/<sup>兴化</sup>, /t͡ɕĩ1 pʰʝ5 kʊ/<sup>如皋</sup>, /t͡ɕĩ1 pʰʝ5 kɤɯ/<sup>泰兴</sup>, /t͡ɕiɪ̃1 pʰɿ5 ko/<sup>泰县</sup></small> ① 坐不稳。<sup>\[如东\]</sup> ② 坐不稳的人。<sup>\[如东\]</sup>：他是一个～。<sup>\[如东\]</sup> ③ ［喻］心神不定、坐不住的人<sup>\[东台\]</sup>：做学问不能选～。也作“尖头屁股”。<sup>\[东台\]</sup> ④ 坐不住，好动的习性。<sup>\[如皋\]</sup> ⑤ 坐不住的人<sup>\[兴化\]</sup><sup>\[泰县\]</sup>\[泰兴：多指不热心于本职工作的人\]：他是～，在家里坐不住。<sup>\[兴化\]</sup> ⑥ 也指没有福分的人。<sup>\[兴化\]</sup>：谚曰：～坐不了九龙墩。<sup>\[兴化\]</sup>  
 1. 【[尖声怪气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_shen_guae_qi.md#尖声怪气)】`jin1 shen1 guae5 qi5` <sup>[如东]</sup> 尖着嗓子怪叫：这个婆娘～的叫甚的？  
 1. 【[尖声挖气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_shen_vaeh_qi.md#尖声挖气)】`jin1 shen1 vaeh7 qi5` <sup>[泰县]</sup> 尖着嗓子叫：你～的召甚的？  
 1. 【[尖声嗀气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_shen_vah_qi.md#尖声嗀气)】`jin1 shen1 vah7 qi5` <sup>[泰州]</sup> 说话声音尖锐刺耳带有怒气，多指女性或者声音类似女性的男人：老远的就听吖她～的，不晓得是为的甚的事。｜在主任门口说话～的男的，是哪块的人吖？  
@@ -1234,6 +1235,7 @@
 1. 【[尖头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_teu.md#尖头)】`jin1 teu2` <sup>[兴化]</sup> 爱占便宜的人：他是个～，哪许有好处望哪许拱。  
 1. 【[尖头巴兮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_teu_ba_xi.md#尖头巴兮)】`jin1 teu2 ba3 xi1` <sup>[东台]</sup> ① 爱出风头，时时刻刻想出头露面。 ② 过于精明，对人刻薄。  
 1. 【[尖头把细](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_teu_ba_xi.md#尖头把细)】`jin1 teu2 ba3 xi5` <sup>[如东]</sup> 小气，吝啬，刻薄：不要～。  
+1. 【[尖头把细](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_teu_ba_xi.md#尖头把细)】`jin1 teu2 ba3 xi5` <small>/t͡ɕĩ1 tʰəɪ2 pɑ3 ɕʝ5/<sup>泰兴</sup></small> 谓物的顶部尖细，与整体不相称。<sup>\[泰兴\]</sup>  
 1. 【[尖头虴蛨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_teu_deh_moh.md#尖头虴蛨)】`jin1 teu2 deh7 moh` <sup>[如皋]</sup> 中华蚱蜢。  
 1. 【[尖头𧒘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_teu_vae_r.md#尖头𧒘<sub>儿</sub>)】`jin1 teu2 vae1 r` <sup>[泰县]</sup> ① 河蚌的一种。 ② 两头搬弄。  
 1. 【[尖心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_xien.md#尖心)】`jin1 xien1` <sup>[如皋]</sup> 专心。  

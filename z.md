@@ -216,10 +216,9 @@
 1. 【[脏死人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zan_sz_ren.md#脏死人)】`zan1 sz3 ren2` <sup>[如东]</sup> 非常肮脏：这个地方～。  
 1. 【[脏兮兮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zan_xi_xi.md#脏兮兮)】`zan1 xi1 xi1` <sup>[东台]</sup> 很脏的样子。  
 1. 【[仄逼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeh_bieh.md#仄逼)】`zeh7 bieh7` <sup>[兴化]</sup> 狭窄：房子很旧了……倒是不～，也很干净，夏天很凉快。（汪曾祺《异秉》）  
-1. 【[仄声](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeh_shen.md#仄声)】`zeh7 shen1` <sup>[东台]</sup> 汉字上、去、入声的总称。  
 1. 【[仄手人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeh_sheu_ren.md#仄手人)】`zeh7 sheu3 ren2` <sup>[兴化]</sup> 人手少：～忙不过来。  
 1. 【[仄庄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeh_zhuan.md#仄庄)】`zeh7 zhuan1` <sup>[如东]</sup> 在耷子和游戏中，起手抓完第22张或23张牌即定成了，称仄庄。  
-1. 【[则声](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeh_shen.md#则声)】`zeh7 shen1` <small>/t͡səʔ7 səŋ1/<sup>如皋</sup></small> ① 吱声。<sup>\[如皋\]</sup> ② 作声。或写“啧声”。<sup>\[东台\]</sup>  
+1. 【[则声](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeh_shen.md#则声)】`zeh7 shen1` <small>/t͡səʔ7 səŋ1/<sup>如皋</sup>, /t͡səʔ7 səŋ1/<sup>泰兴</sup></small> 作声，吱声。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[啧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeh.md#啧)】`zeh7` <sup>[如东]</sup> 一边咀嚼，一边品尝滋味。  
 1. 【[啧啧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeh_zeh.md#啧啧)】`zeh7 zeh7` <sup>[如东]</sup> 赶牛向前走的叫唤声。  
 1. 【[责最](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeh_zuei.md#责最)】`zeh7 zuei5` <sup>[如东]</sup> 客气；谦虚；谦让：陶明明交关～，不愿拿东西。  

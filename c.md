@@ -1250,7 +1250,7 @@
 1. 【[舂粉面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_fen_min.md#舂粉面)】`chon1 fen3 min6` <sup>[泰州]</sup> 一种粮食加工方法，将浸泡过的糯米晾干后，放在石臼中用杵捣成粉。  
 1. 【[崇光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_guan.md#崇光)】`chon2 guan` <sup>[如皋]</sup> 指某一段时间：饭～、上灯～。  
 1. 【[揰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon.md#揰)】`chon2` <sup>[如东]</sup> 推，击：在墙上～个洞。  
-1. 【[虫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_zz.md#虫子)】`chon2 zz` <sup>[泰县]</sup> 虫。  
+1. 【[虫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_zz.md#虫子)】`chon2 zz` 虫  
 1. 【[褈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon.md#褈)】`chon2` <sup>[如皋]</sup> 制衣、帽、鞋时的铺垫：～棉花、～破布儿底。  
 1. 【[褈火药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_hu_iah.md#褈火药)】`chon2 hu3 iah8` <sup>[如皋]</sup> 给鸟枪、火铳等添加火药，待放。  
 1. 【[褈磨肚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_mu_tv.md#褈磨肚)】`chon2 mu6 tv6` <sup>[如皋]</sup> 在石磨中铺垫一层原粮，准备开磨。  
