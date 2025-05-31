@@ -1237,9 +1237,12 @@
 1. 【[尖头把细](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_teu_ba_xi.md#尖头把细)】`jin1 teu2 ba3 xi5` <sup>[如东]</sup> 小气，吝啬，刻薄：不要～。  
 1. 【[尖头把细](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_teu_ba_xi.md#尖头把细)】`jin1 teu2 ba3 xi5` <small>/t͡ɕĩ1 tʰəɪ2 pɑ3 ɕʝ5/<sup>泰兴</sup></small> 谓物的顶部尖细，与整体不相称。<sup>\[泰兴\]</sup>  
 1. 【[尖头虴蛨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_teu_deh_moh.md#尖头虴蛨)】`jin1 teu2 deh7 moh` <sup>[如皋]</sup> 中华蚱蜢。  
+1. 【[尖头拐棒两边倒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_teu_guae_pan.md#尖头拐棒两边倒)】`jin1 teu2 guae3 pan laen3 bin do3` <small>/t͡ɕĩ1 tʰəɪ2 kuɛ3 pʰɑŋ lɛ̃3 pĩ tɔ3/<sup>泰兴</sup></small> 歇后语。谓两面派。《泰兴方言辞典》作“尖头拐杖两边倒”。<sup>\[泰兴\]</sup>  
 1. 【[尖头𧒘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_teu_vae_r.md#尖头𧒘<sub>儿</sub>)】`jin1 teu2 vae1 r` <sup>[泰县]</sup> ① 河蚌的一种。 ② 两头搬弄。  
+1. 【[尖头细眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_teu_xi_ngaen.md#尖头细眼)】`jin1 teu2 xi5 ngaen3` <small>/t͡ɕĩ1 tʰəɪ2 ɕʝ5 ŋɛ̃3/<sup>泰兴</sup></small> 谓眯着眼睛仔细查看。<sup>\[泰兴\]</sup>  
 1. 【[尖心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_xien.md#尖心)】`jin1 xien1` <sup>[如皋]</sup> 专心。  
 1. 【[尖嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_zuei.md#尖嘴)】`jin1 zuei3` <sup>[兴化]</sup> ① 语言尖刻的人。 ② 爱议论他人长短的人。  
+1. 【[尖嘴钳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_zuei_qin_zz.md#尖嘴钳子)】`jin1 zuei3 qin2 zz` <small>/t͡ɕĩ1 t͡suəɪ3 t͡ɕʰĩ2 t͡sɿ/<sup>泰兴</sup></small> 头部尖细的钳子。<sup>\[泰兴\]</sup>  
 1. 【[尖钻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_zun.md#尖钻)】`jin1 zun1` <small>/t͡ɕiɪ̃1 t͡sũ1/<sup>兴化</sup>, /t͡ɕĩ1 t͡sʊ̃1/<sup>如皋</sup></small> ① 用心钻研。<sup>\[如皋\]</sup> ② 把握时机钻营。<sup>\[如皋\]</sup> ③ 形容人聪明、精明，特指小孩聪明、伶俐。<sup>\[兴化\]</sup>  
 1. 【[尖钻宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_zun_bo_r.md#尖钻宝<sub>儿</sub>)】`jin1 zun1 bo3 r` <sup>[兴化]</sup> 聪明而有心机的人：他是～，吃苦的事轮不到他。  
 1. 【[尖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_zz.md#尖子)】`jin1 zz` <small>/t͡ɕĩ1 t͡sɿ/<sup>如皋</sup></small> ① 拔尖人物：他是我俫班级里的～。<sup>\[如皋\]</sup> ② 冒尖的、顶尖的、拔尖的人<sup>\[东台\]</sup>：在单位里头，她是个业务～，样样拿得出手。<sup>\[东台\]</sup>  

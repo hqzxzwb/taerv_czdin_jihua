@@ -475,8 +475,10 @@
 1. 【[肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh.md#肉)】`roh8` <small>/lɔʔ8/<sup>兴化</sup>, /ɻɔʔ8/<sup>如皋</sup></small> ① 贬指傻而韧。<sup>\[如皋\]</sup> ② 认死理，不知进退<sup>\[兴化\]</sup>：人家让你，就覅～吧！<sup>\[兴化\]</sup>｜与你无关的事，你说甚的戗话？～吤！<sup>\[兴化\]</sup>  
 1. 【[肉板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_baen.md#肉板)】`roh8 baen3` <sup>[如东]</sup> 帆船眼板下边的一块很宽的木板，叫肉板。  
 1. 【[肉剥剥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_bah_bah.md#肉剥剥)】`roh8 bah7 bah7` <sup>[泰州]</sup> 全身或者半身赤裸的样子：进吖澡堂子，哪个人不是～的？｜你～的就出去，当心着咖凉，加件褂子身上。  
+1. 【[肉膊皮条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_bah_pi_tio.md#肉膊皮条)】`roh8 bah7 pi2 tio2` <small>/ɻɔʔ8 pɑʔ7 pʰʝ2 tʰiɔ2/<sup>泰兴</sup></small> 光身子，一丝不挂。<sup>\[泰兴\]</sup>  
 1. 【[肉膊<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_bah_r.md#肉膊<sub>儿</sub>)】`roh8 bah7 r` <sup>[如皋]</sup> 光着上身。  
 1. 【[肉膊<sub>儿</sub>雄鸡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_bah_r_ion_ji_r.md#肉膊<sub>儿</sub>雄鸡<sub>儿</sub>)】`roh8 bah7 r ion2 ji1 r` <sup>[如皋]</sup> 刚长大羽而体羽不全的小公鸡。  
+1. 【[肉膊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_bah_zz.md#肉膊子)】`roh8 bah7 zz` <small>/ɻɔʔ8 pɑʔ7 t͡sɿ/<sup>泰兴</sup></small> 光身。<sup>\[泰兴\]</sup>  
 1. 【[肉包<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_bo_r.md#肉包<sub>儿</sub>)】`roh8 bo1 r` <small>/ɻɔʔ8 pɔ˞1/<sup>如皋</sup></small> ① 肉包子 ② 指两腮、嘴巴儿：他是个～脸。<sup>\[如皋\]</sup>  
 1. 【[肉包子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_bo_zz.md#肉包子)】`roh8 bo1 zz` <sup>[泰州]</sup> 用猪肉做馅儿的包子。  
 1. 【[肉包子打狗，有去无回](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_bo_zz_da_geu_ieu_qy_v_huei.md#肉包子打狗，有去无回)】`roh8 bo1 zz da3 geu3 ieu3 qy5 v2 huei2` <small>/ɻɔʔ8 pɔ1 t͡sɿ tɑ3 kəɪ3 iɤɯ3 t͡ɕʰy5 ʋ2 xuəɪ2/<sup>泰兴</sup></small> 有去无回<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
@@ -499,15 +501,19 @@
 1. 【[肉拱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_gon.md#肉拱)】`roh8 gon3` <small>/lɔʔ8 koŋ3/<sup>兴化</sup>, /ɻɔʔ8 koŋ3/<sup>泰县</sup></small> ① 心中不服。<sup>\[如东\]</sup>：给二娘买啊一只戒戒儿，大娘在下～。<sup>\[如东\]</sup> ② 心有所欲，跃跃欲试<sup>\[兴化\]</sup>：他看到别人打麻将，～～的也想去摸几牌。<sup>\[兴化\]</sup> ③ 心急：～的就要吃。<sup>\[泰县\]</sup> ④ 动心，内心涌动不满<sup>\[泰州\]</sup>：你有意见就说，不要嘴上不啧声，心里在这块～吖不歇。<sup>\[泰州\]</sup> ⑤ 内心跃跃欲试<sup>\[泰州\]</sup>：望见人家在下打牌，他～～的要去弄两把。<sup>\[泰州\]</sup>  
 1. 【[肉拱肉拱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_gon_roh_gon.md#肉拱肉拱)】`roh8 gon3 roh8 gon3` <sup>[泰县]</sup> 暗中寻衅。  
 1. 【[肉拱肉拱的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_gon_roh_gon_dii.md#肉拱肉拱的)】`roh8 gon3 roh8 gon3 dii` <small>/ɻɔʔ8 kɔŋ3 ɻɔʔ8 kɔŋ3 tei/<sup>如皋</sup></small> ① 强忍怒气，内心拱动不停。<sup>\[如皋\]</sup> ② 形容牢骚满腹，心中怨气很多的样子。<sup>\[东台\]</sup> ③ 形容跃跃欲试的样子。<sup>\[东台\]</sup>  
+1. 【[肉挂啊臭啊，猫<sub>儿</sub>召啊瘦啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_gua_a_cheu.md#肉挂啊臭啊，猫<sub>儿</sub>召啊瘦啊)】`roh8 gua5 a cheu5 a mo2 r cho6 a sheu5 a` <small>/ɻɔʔ8 kuɑ5 a t͡ɕʰiɤɯ5 a mɔ˞2 t͡sʰɔ1 a sɤɯ5 a/<sup>泰兴</sup></small> 谓现成的极端希望得到的东西却因诸多因素不能得到，显得极为烦躁、焦恼。<sup>\[泰兴\]</sup>  
 1. 【[肉乖乖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_guae_guae.md#肉乖乖)】`roh8 guae1 guae1` <sup>[如皋]</sup> 对小儿女的昵称。  
 1. 【[肉刮刮的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_guaeh_guaeh_dii.md#肉刮刮的)】`roh8 guaeh7 guaeh7 dii` <sup>[如皋]</sup> 光着身子：把细伢脱得～下盆洗澡。  
 1. 【[肉磙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_guen_zz.md#肉磙子)】`roh8 guen3 zz` <sup>[如皋]</sup> 状体肉厚实：黑鱼是～；伢儿养得像～。  
 1. 【[肉豁豁的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_huaeh_huaeh_dii.md#肉豁豁的)】`roh8 huaeh7 huaeh7 dii` <sup>[如皋]</sup> 见“肉刮刮的”。  
 1. 【[肉油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_ieu.md#肉油)】`roh8 ieu2` <sup>[如皋]</sup> 用猪肥肉熬制的油。品质次于猪板油：色略黄，夏日易融。  
+1. 【[肉圆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_iun.md#肉圆)】`roh8 iun2` <small>/ɻɔʔ8 yʊ̃2/<sup>泰兴</sup></small> 把肉剁成碎末，加上作料做成球形的食品。乡人亦称为“狮子头”。<sup>\[泰兴\]</sup>  
 1. 【[肉脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_jiah_r.md#肉脚<sub>儿</sub>)】`roh8 jiah7 r` <small>/ɻɔʔ8 t͡ɕia˞7/<sup>如皋</sup></small> ① 赤脚。<sup>\[如皋\]</sup> ② 笨拙，笨拙者：他是个～，光是做～事。<sup>\[如皋\]</sup> ③ 赤裸的脚。<sup>\[东台\]</sup>  
 1. 【[肉酱子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_jian_zz.md#肉酱子)】`roh8 jian5 zz` <sup>[如东]</sup> ① 指大小便：随便拉～，不卫生。 ② 比喻没有能力的人：这个～能做甚的事！  
 1. 【[肉举动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_jy_ton.md#肉举动)】`roh8 jy3 ton` <sup>[如皋]</sup> 肌肉不随意地跳动，面神经痉挛者的脸部常见到。  
 1. 【[肉蹫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_jyeh.md#肉蹫)】`roh8 jyeh7` <small>/ɻɔʔ8 t͡ɕyəʔ7/<sup>泰兴</sup></small> 肉乎乎貌。<sup>\[泰兴\]</sup>  
+1. 【[肉蹫蹫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_jyeh_jyeh.md#肉蹫蹫)】`roh8 jyeh7 jyeh7` <sup>[泰县]</sup> 肥壮，有弹性。  
+1. 【[肉蹫蹫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_jyeh_jyeh.md#肉蹫蹫)】`roh8 jyeh7 jyeh7` <small>/ɻɔʔ8 t͡ɕyəʔ7 t͡ɕyəʔ7/<sup>泰兴</sup></small> 长得肥厚、肉乎乎的样子。<sup>\[泰兴\]</sup>  
 1. 【[肉块<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_kuae_r.md#肉块<sub>儿</sub>)】`roh8 kuae5 r` <sup>[如东]</sup> 剁成的小肉块儿。比喻小孩子。对小孩的呢称：我的～，你过来。  
 1. 【[肉里肉巴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_lii_roh_ba_dii.md#肉里肉巴的)】`roh8 lii roh8 ba1 dii` <sup>[如皋]</sup> 贬指傻而韧。  
 1. 【[肉里肉气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_lii_roh_qi.md#肉里肉气)】`roh8 lii roh8 qi5` <sup>[如东]</sup> 比喻物体肥笨：这套家具～的，不好看。  
@@ -518,6 +524,7 @@
 1. 【[肉泪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_ly.md#肉泪)】`roh8 ly6` <sup>[如皋]</sup> 可怜得让人心疼。  
 1. 【[肉麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_ma.md#肉麻)】`roh8 ma2` <small>/ɻɔʔ8 ma2/<sup>如皋</sup></small> ① 同情而感到痛苦<sup>\[如皋\]</sup>：看吖他打伢儿真～！<sup>\[如皋\]</sup> ② 可怜而又心痛。<sup>\[如东\]</sup>：这吖小的伢儿就出来要饭，～唻。<sup>\[如东\]</sup> ③ 由轻佻或虚伪的言行而引起的不舒服感觉。<sup>\[如东\]</sup>：那个样子让人～。<sup>\[如东\]</sup>  
 1. 【[肉麻当有趣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_ma_dan_ieu_qy.md#肉麻当有趣)】`roh8 ma2 dan5 ieu3 qy5` <sup>[兴化]</sup> 把别人的揶揄当着奉承：别人一捧，他说得更加起劲，真把～。｜他哩，～，总要喊住人谈谈……（《武松》三）  
+1. 【[肉麻兮兮的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_ma_xi_xi.md#肉麻兮兮的)】`roh8 ma2 xi1 xi1 dii` <small>/ɻɔʔ8 mɑ2 ɕʝ1 ɕʝ1 təɪ/<sup>泰兴</sup></small> 因轻佻的或虚伪的语言、举动所引起人的不舒服的感觉。<sup>\[泰兴\]</sup>  
 1. 【[肉糜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_mi.md#肉糜)】`roh8 mi2` <sup>[兴化]</sup> 细碎的肉末儿：轧点儿～包饺儿。  
 1. 【[肉馒馒的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_mun_mun_dii.md#肉馒馒的)】`roh8 mun mun5 dii` <sup>[如皋]</sup> 皮肉丰满隆起的样子。  
 1. 【[肉馒头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_mun_teu.md#肉馒头)】`roh8 mun2 teu` <sup>[兴化]</sup> 即肉包：～打狗——有去无回。｜还要买些～中上当点心。（《儒林外史》十八）  
@@ -528,6 +535,7 @@
 1. 【[肉㬓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_pio.md#肉㬓)】`roh8 pio5` <sup>[兴化]</sup> 干猪皮油炸膨化而成，用作菜肴。㬓，《广韵·笑韵》匹妙切：置风日中令干。  
 1. 【[肉泡子眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_po_zz_ngaen.md#肉泡子眼)】`roh8 po1 zz ngaen3` <sup>[如皋]</sup> 眼睑肥厚。  
 1. 【[肉泡子眼睛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_po_zz_ngaen.md#肉泡子眼睛)】`roh8 po1 zz ngaen3 jien` <small>/ɻɔʔ8 pʰɔ1 t͡sɿ ŋɛ̃3 t͡ɕiŋ/<sup>泰兴</sup></small> 谓眼皮隆起像肿胀似的眼胞。也作“肉泡眼”。<sup>\[泰兴\]</sup>  
+1. 【[肉脯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_pv.md#肉脯)】`roh8 pv3` <small>/ɻɔʔ8 pʰu3/<sup>泰兴</sup></small> 以优质精肉加工而成的干片，易储存食用，味奇美。<sup>\[泰兴\]</sup>  
 1. 【[肉气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_qi.md#肉气)】`roh8 qi` <small>/ɻɔʔ8 t͡ɕʰʝ/<sup>如皋</sup>, /ɻɔʔ8 t͡sʰɿ/<sup>泰县</sup></small> ① 厚道：他待人～；说～话。<sup>\[如皋\]</sup> ② 粗笨。<sup>\[如东\]</sup>：这套家具太～。<sup>\[如东\]</sup> ③ 厚道。<sup>\[泰县\]</sup>  
 1. 【[肉气形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_qi_xien.md#肉气形)】`roh8 qi xien2` <sup>[如皋]</sup> 很厚道、很富大的样子。  
 1. 【[肉气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_qi.md#肉气)】`roh8 qi5` <sup>[东台]</sup> ① 丰满、厚实。 ② ［引］厚道、大度：这老板蛮～的，从不收黑心钱。  
@@ -536,6 +544,7 @@
 1. 【[肉上生的肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_shan_shen_dii_roh.md#肉上生的肉)】`roh8 shan6 shen1 dii roh8` <sup>[如皋]</sup> 称亲生儿女的后辈。  
 1. 【[肉神不安](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_shen_beh_un.md#肉神不安)】`roh8 shen beh7 un` 身体和精神都无法安宁  
 1. 【[肉身不安](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_shen_beh_un.md#肉身不安)】`roh8 shen beh7 un1` <sup>[如皋]</sup> 不定神、不专心的样子。  
+1. 【[肉身菩萨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_shen_pv_saeh.md#肉身菩萨)】`roh8 shen1 pv2 saeh` <small>/ɻɔʔ8 səŋ1 pʰu2 ɕiæʔ/<sup>泰兴</sup></small> 佛教语。喻人一丝不挂的样子。<sup>\[泰兴\]</sup>：他光身𨀛吖那许，就像个～<sup>\[泰兴\]</sup>  
 1. 【[肉神不安](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_shen_beh_un.md#肉神不安)】`roh8 shen2 beh7 un1` ① 不安神。<sup>\[如东\]</sup>：一天到晚～。<sup>\[如东\]</sup> ② 坐不住，好动；<sup>\[东台\]</sup> ③ 形容恐慌、难受。<sup>\[东台\]</sup>  
 1. 【[肉甩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_shuae.md#肉甩)】`roh8 shuae3` <sup>[兴化]</sup> ① 不知变通、不讲情面。 ② 喜欢逞能，显示高明。也称“甩子”。  
 1. 【[肉松店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_son_din.md#肉松店)】`roh8 son1 din5` <sup>[如皋]</sup> 旧时生产和出售肉松、香肠、火腿的商店兼作坊。  
@@ -565,6 +574,7 @@
 1. 【[肉坨坨的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_tu_tu_dii.md#肉坨坨的)】`roh8 tu2 tu2 dii` <sup>[如皋]</sup> 见“肉坨儿”。  
 1. 【[肉坨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_tu_zz.md#肉坨子)】`roh8 tu2 zz` <sup>[兴化]</sup> 肉丸子。也称“点刀”“劗肉”。  
 1. 【[肉案子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_un_zz.md#肉案子)】`roh8 un5 zz` <small>/lɔʔ8 ũ5 t͡sɿ/<sup>兴化</sup>, /ɻɔʔ8 ʊ̃5 t͡sɿ/<sup>如皋</sup>, /ɻɔʔ8 ʊ̃5 t͡sɿ/<sup>泰兴</sup>, /ɻɔʔ8 õ5 t͡se/<sup>泰县</sup></small> 卖猪肉的粗大木台子，在上斫肉。又代指卖猪肉的商店、摊点。<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>\[如皋：他家开～。\]：这地方不兴叫屠户。也不叫杀猪的……大都叫“开～的。”（汪曾祺《故里杂记》）<sup>\[兴化\]</sup>  
+1. 【[肉屑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_xih_zz.md#肉屑子)】`roh8 xih zz` <small>/ɻɔʔ8 ɕiʔ t͡sɿ/<sup>泰兴</sup></small> 认为极为宝贵的东西。<sup>\[泰兴\]</sup>  
 1. 【[肉屑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_xiuh_zz.md#肉屑子)】`roh8 xiuh7 zz` <sup>[如皋]</sup> ① 很细碎的肉。 ② 喻细小的但很珍贵的东西。  
 1. 【[肉迂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_y.md#肉迂)】`roh8 y1` <sup>[东台]</sup> 说话笨拙、迂腐：他问人家哿请他吃饭，真～！  
 1. 【[肉渣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_zha_r.md#肉渣<sub>儿</sub>)】`roh8 zha1 r` <sup>[如皋]</sup> 猪肉、猪板油、脏油熬油后的痂状物。家中熬的可食，工业产的作饲料。  
