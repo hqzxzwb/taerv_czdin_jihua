@@ -349,8 +349,7 @@
 1. 【[疲塌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_taeh.md#疲塌)】`pi2 taeh` <sup>[如东]</sup> 松懈拖沓：他做事太～咖。  
 1. 【[皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#皮)】`pi2` <small>/pʰʝ2/<sup>如皋</sup>, /pʰʝ2/<sup>泰兴</sup></small> ① 一刻闲不住，调皮 ② 人的尊严、禀性。<sup>\[如皋\]</sup> ③ 调皮、顽皮。<sup>\[如皋\]</sup><sup>\[泰州\]</sup>\[泰兴：乡人有时称无赖或赖账不还者为“皮”。\]：～啊没得命。<sup>\[泰州\]</sup>  
 1. 【[皮啊荡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_a_tan.md#皮啊荡)】`pi2 a tan6` <sup>[东台]</sup> 不落实，一推再推。  
-1. 【[皮包骨头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_bo_gueh_teu.md#皮包骨头)】`pi2 bo1 gueh7 teu` <sup>[东台]</sup> 形容人非常瘦。  
-1. 【[皮包骨头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_bo_gueh_teu.md#皮包骨头)】`pi2 bo1 gueh7 teu` <small>/pʰʝ2 pɔ1 kuəʔ7 tʰəɪ/<sup>泰兴</sup></small> 形容躯体极度瘦弱。<sup>\[泰兴\]</sup>：瘦得～<sup>\[泰兴\]</sup>  
+1. 【[皮包骨头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_bo_gueh_teu.md#皮包骨头)】`pi2 bo1 gueh7 teu` <small>/pʰʝ2 pɔ1 kuəʔ7 tʰəɪ/<sup>泰兴</sup></small> ① 形容人非常瘦。<sup>\[东台\]</sup> ② 形容躯体极度瘦弱。<sup>\[泰兴\]</sup>：瘦得～<sup>\[泰兴\]</sup>  
 1. 【[皮包骨头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_bo_gueh_teu.md#皮包骨头)】`pi2 bo1 gueh7 teu2` <sup>[如东]</sup> 形容身体非常瘦弱：张老太身体不好，已经～啊。  
 1. 【[皮包水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_bo_shuei.md#皮包水)】`pi2 bo1 shuei3` <small>/pʰi2 pɔ1 suəi3/<sup>兴化</sup>, /pʰʝ2 pɔ1 suəɪ3/<sup>泰兴</sup></small> ① 即早晨上茶馆（或在家）饮茶、吃早点。<sup>\[兴化\]</sup>：谚曰：早上～，晚上水包皮（洗澡）。<sup>\[兴化\]</sup> ② 谑指在饭店吃早茶。泰州有“吃早茶”习俗，早晨在卖早茶的饭店里泡一壶茶，点一盘烫干丝、二只点心（泰州点心品种很多，常见的有加蟹包、三丁包、糖包、菜包、烧卖、蒸饺等等）、一碗鱼汤面（饺），一边喝茶，一边吃干丝和点心，边吃边聊，其乐融融，因为腹中喝入茶水较多，故语<sup>\[泰州\]</sup>：他退啊休以后，天天早上～，晚上水包皮，快活煞咖唻。<sup>\[泰州\]</sup> ③ 吃草茶、早点<sup>\[泰兴\]</sup>：早上～，晚上水包皮（洗浴）。<sup>\[泰兴\]</sup>  
 1. 【[皮虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_chon.md#皮虫)】`pi2 chon2` <small>/pʰi2 t͡sʰoŋ2/<sup>兴化</sup>, /pʰʝ2 t͡sʰɔŋ2/<sup>如皋</sup></small> ① 螳螂卵块。<sup>\[如皋\]</sup> ② 贪便宜者<sup>\[兴化\]</sup>：人是～，不讨便宜不笑。<sup>\[兴化\]</sup>  
@@ -368,8 +367,7 @@
 1. 【[皮家把倪家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_ga_ba_ni_ga.md#皮家把倪家)】`pi2 ga ba3 ni2 ga` <sup>[兴化]</sup> （借）一回事，没有区别。源自扬州评话《皮五辣子》，主人公和倪四两家一破笆之隔，实为一家。  
 1. 【[皮家把啊倪家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_ga_ba_a.md#皮家把啊倪家)】`pi2 ga1 ba3 a ni2 ga1` <small>/pʰʝ2 kɑ1 pɑ3 a nʝ2 kɑ1/<sup>泰兴</sup></small> 皮五、倪四为扬州评话《清风闸》中两个相类似的人物，两家只隔一破篱笆，可通。借喻实际上是一回事，相互等同。<sup>\[泰兴\]</sup>  
 1. 【[皮家入咖倪家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_ga_reh_ga_ni_ga.md#皮家入咖倪家)】`pi2 ga1 reh8 ga ni2 ga1` <sup>[如皋]</sup> 反正一样。贬指。源自《清风闸》主角皮风山住进倪四家，一齐受苦的典故。  
-1. 【[皮夹子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_gaeh_zz.md#皮夹子)】`pi2 gaeh7 zz` 钱包  
-1. 【[皮夹子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_gaeh_zz.md#皮夹子)】`pi2 gaeh7 zz` <small>/pʰʝ2 kæʔ7 t͡sɿ/<sup>泰兴</sup></small> 皮革制成的钱包。<sup>\[泰兴\]</sup>  
+1. 【[皮夹子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_gaeh_zz.md#皮夹子)】`pi2 gaeh7 zz` <small>/pʰʝ2 kæʔ7 t͡sɿ/<sup>泰兴</sup></small> ① 钱包 ② 皮革制成的钱包。<sup>\[泰兴\]</sup>  
 1. 【[皮棍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_guen.md#皮棍)】`pi2 guen5` 俗称腐竹，卷紧成条状的干浆皮。<sup>\[泰州\]</sup>  
 1. 【[皮棍<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_guen_r.md#皮棍<sub>儿</sub>)】`pi2 guen5 r` <sup>[泰县]</sup> 腐竹：这个～好吃。  
 1. 【[皮猴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_heu_r.md#皮猴<sub>儿</sub>)】`pi2 heu2 r` <sup>[如东]</sup> 比喻非常顽皮的孩子：小毛像个～。  
@@ -398,8 +396,7 @@
 1. 【[皮球穿孔——泄咖气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_qieu_chun_kon_xih_ga_qi.md#皮球穿孔——泄咖气)】`pi2 qieu2 chun1 kon3 xih7 ga qi5` <sup>[东台]</sup>   
 1. 【[皮圈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_qiun_r.md#皮圈<sub>儿</sub>)】`pi2 qiun1 r` <small>/pʰi2 t͡ɕʰyũ1 ɚ/<sup>兴化</sup>, /pʰɿ2 t͡ɕʰyõ1 ɚ/<sup>泰县</sup></small> ① 橡皮筋。<sup>\[兴化\]</sup> ② 橡皮筋：给他一个～。<sup>\[泰县\]</sup>  
 1. 【[皮<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_r.md#皮<sub>儿</sub>)】`pi2 r` <sup>[如皋]</sup> ① 从煮浓豆浆表面挑起的膜。食材。 ② 用淀粉做的薄层，凉拌食品。  
-1. 【[皮<sub>儿</sub>沓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_r_taeh_r.md#皮<sub>儿</sub>沓<sub>儿</sub>)】`pi2 r taeh7 r` <sup>[泰州]</sup> ① 因厌倦而行动缓慢样子：上头催啊好几次唻，你俫怎吖还是这吖～的，这样子不行！ ② 因不重视而呈漫不经心样子：你不要同我～的，现在是同你谈正事，你放吖认真点儿！  
-1. 【[皮<sub>儿</sub>沓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_r_taeh_r.md#皮<sub>儿</sub>沓<sub>儿</sub>)】`pi2 r taeh7 r` <small>/pʰʝ˞2 tʰæ˞7/<sup>泰兴</sup></small> 赖账不还；皮脸，不严肃。<sup>\[泰兴\]</sup>：这个人与人相处总是～的。<sup>\[泰兴\]</sup>  
+1. 【[皮<sub>儿</sub>沓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_r_taeh_r.md#皮<sub>儿</sub>沓<sub>儿</sub>)】`pi2 r taeh7 r` <small>/pʰʝ˞2 tʰæ˞7/<sup>泰兴</sup></small> ① 因厌倦而行动缓慢样子<sup>\[泰州\]</sup>：上头催啊好几次唻，你俫怎吖还是这吖～的，这样子不行！<sup>\[泰州\]</sup> ② 因不重视而呈漫不经心样子<sup>\[泰州\]</sup>：你不要同我～的，现在是同你谈正事，你放吖认真点儿！<sup>\[泰州\]</sup> ③ 赖账不还；皮脸，不严肃。<sup>\[泰兴\]</sup>：这个人与人相处总是～的。<sup>\[泰兴\]</sup>  
 1. 【[皮少送糠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_sho_son_kan.md#皮少送糠)】`pi2 sho3 son5 kan1` <sup>[兴化]</sup> ① 碾米时，皮糠混进粗糠之中。 ② （喻）省了这一头，却费了那一头：为省一张车票，请司机吃一顿，真是～。  
 1. 【[皮丝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_sz.md#皮丝)】`pi2 sz1` <sup>[如皋]</sup> 旱烟的一种，烟丝细长。  
 1. 【[皮蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_taen.md#皮蛋)】`pi2 taen6` <sup>[泰县]</sup> 调皮的人：他是个小～。  

@@ -14,7 +14,7 @@
 1. 【[栽猛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_mon_zz.md#栽猛子)】`zae1 mon3 zz` <sup>[兴化]</sup> 游泳时头朝下钻入水中的动作：这年秋场……先干后淹，～在水里捞上米几把稻子。（兴文《地主逼出新发周》）  
 1. 【[栽拿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_na.md#栽拿)】`zae1 na2` <sup>[兴化]</sup> 谓心中有数：你只要说一声，我就～唈。  
 1. 【[栽培](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_pei.md#栽培)】`zae1 pei2` <sup>[如东]</sup> ① 种植。 ② 比喻培养。  
-1. 【[栽培](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_pi.md#栽培)】`zae1 pi` <sup>[东台]</sup> ① 培养：～孩子要几十万。 ② 舍得投入：小伙出国深造，我准备～他十万块。  
+1. 【[栽培](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_pei.md#栽培)】`zae1 pei2-pi` <sup>[东台]</sup> ① 培养：～孩子要几十万。 ② 舍得投入：小伙出国深造，我准备～他十万块。  
 1. 【[栽头行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_teu_han.md#栽头行)】`zae1 teu2 han2` <sup>[如皋]</sup> 见“站头趟”。  
 1. 【[栽头行秧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_teu_han_ian.md#栽头行秧)】`zae1 teu2 han2 ian1` <sup>[如皋]</sup> 领头栽秧。  
 1. 【[栽头趟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_teu_tan.md#栽头趟)】`zae1 teu2 tan5` <sup>[如皋]</sup> 见“站头趟”。  
@@ -37,8 +37,7 @@
 1. 【[再会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_huei.md#再会)】`zae5 huei6` ① 再见，分别时说的客套话。<sup>\[如东\]</sup><sup>\[泰州\]</sup> ② 某件事情已经结束的委婉说法<sup>\[泰州\]</sup>：他家伢儿上重点高中估计是～唻。<sup>\[泰州\]</sup>｜他同这个丫头早就～唻，现在谈吖个纱厂的女的。<sup>\[泰州\]</sup>  
 1. 【[再留<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_lieu_r.md#再留<sub>儿</sub>)】`zae5 lieu2 r` <sup>[兴化]</sup> 水稻收割后在根茬上长出的植株。‖也叫“再生稻”。  
 1. 【[再迈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_mae.md#再迈)】`zae5 mae` <sup>[东台]</sup> 或者的意思，也有人说成“dae5 mae”。=“再们zae5 men、dae5 men”：到菜市场买点萝下，～买点山芋，都可以。  
-1. 【[再三再四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_saen_zae_sz.md#再三再四)】`zae5 saen1 zae5 sz5` <sup>[泰州]</sup> 连续反复多次：～同他讲不能弄，他就是不听！  
-1. 【[再三再四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_saen_zae_sz.md#再三再四)】`zae5 saen1 zae5 sz5` <small>/t͡ɕiɛ5 ɕiɛ̃1 t͡ɕiɛ5 sɿ5/<sup>泰兴</sup></small> 连续多次。<sup>\[泰兴\]</sup>  
+1. 【[再三再四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_saen_zae_sz.md#再三再四)】`zae5 saen1 zae5 sz5` <small>/t͡ɕiɛ5 ɕiɛ̃1 t͡ɕiɛ5 sɿ5/<sup>泰兴</sup></small> ① 连续反复多次<sup>\[泰州\]</sup>：～同他讲不能弄，他就是不听！<sup>\[泰州\]</sup> ② 连续多次。<sup>\[泰兴\]</sup>  
 1. 【[再生稻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_shen_to.md#再生稻)】`zae5 shen1 to6` <small>/t͡sɛ5 sən1 tʰɔ6/<sup>兴化</sup></small> ① 禾本科植物稻秸收割后的再生苗。<sup>\[如东\]</sup> ② 水稻收割后在根茬上长出的植株。<sup>\[兴化\]</sup>  
 1. 【[再堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_tan.md#再堂)】`zae5 tan2` <sup>[如皋]</sup> 同曾祖的同族亲缘关系称。  
 1. 【[再再](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_zae.md#再再)】`zae5 zae5` <sup>[兴化]</sup> 一而再，再而三：说之～，他才答应明吖来。｜……谦之～，分宾主礼入座。（《火烧赤壁》七）  
@@ -1128,8 +1127,7 @@
 1. 【[竹窠<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_ku_r.md#竹窠<sub>儿</sub>)】`zhoh7 ku1 r` <small>/t͡sɔʔ7 kʰʊ˞1/<sup>如皋</sup></small> ① 到处是竹林的荒僻地方。<sup>\[如皋\]</sup> ② 旧地名：吴家～，在如皋北门外肉联厂西侧。<sup>\[如皋\]</sup> ③ 竹篾编的摇篮。<sup>\[如皋\]</sup> ④ 密集的竹林。<sup>\[如东\]</sup>  
 1. 【[竹篮子打水——一场空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_laen_zz_da_shuei_ieh_chan_kon.md#竹篮子打水——一场空)】`zhoh7 laen2 zz da3 shuei3 ieh7 chan2 kon1` <sup>[东台]</sup>   
 1. 【[竹沥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_lieh.md#竹沥)】`zhoh7 lieh8` <sup>[如东]</sup> 禾本科植物淡竹的茎用火烧灼而流出的液汁。  
-1. 【[竹膜子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_mah_zz.md#竹膜子)】`zhoh7 mah8 zz` <sup>[如皋]</sup> 竹管内薄膜，可用来贴在竹笛上吹奏。  
-1. 【[竹膜子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_mah_zz.md#竹膜子)】`zhoh7 mah8 zz` <small>/t͡sɔʔ7 mɑʔ8 t͡sɿ/<sup>泰兴</sup></small> 竹管内侧薄膜。优质者可作笛膜。<sup>\[泰兴\]</sup>  
+1. 【[竹膜子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_mah_zz.md#竹膜子)】`zhoh7 mah8 zz` <small>/t͡sɔʔ7 maʔ8 t͡sɿ/<sup>如皋</sup>, /t͡sɔʔ7 mɑʔ8 t͡sɿ/<sup>泰兴</sup></small> 竹管内薄膜，可用来贴在竹笛上吹奏。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
 1. 【[竹𤖭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_paen.md#竹𤖭)】`zhoh7 paen2` <sup>[兴化]</sup> 由毛竹劈成的片子。  
 1. 【[竹箔子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_pah_zz.md#竹箔子)】`zhoh7 pah8 zz` <sup>[如皋]</sup> 睡具或晒具，用绳儿将竹子扼成排。  
 1. 【[竹箅子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_peh_zz.md#竹箅子)】`zhoh7 peh8 zz` <sup>[如东]</sup> 厨具。圆形，竹条编成，有孔隙搁在锅中，放上馒头或菜加热。  
@@ -1312,8 +1310,7 @@
 1. 【[芝麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ma.md#芝麻)】`zhr1 ma` <sup>[如东]</sup> 胡麻科植物芝麻，一年生草本。高约1米。茎直立，四棱形，全株被毛单叶对生，卵形或披针形，全缘。花白色或杂有淡紫色、黄色。蒴果四棱。种子淡黄或黑色。田间栽培。种子名白脂麻。  
 1. 【[芝麻饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ma_bien.md#芝麻饼)】`zhr1 ma bien3` <sup>[如东]</sup> 糕点的一种。饼的表面粘着芝麻，叫做芝麻饼。  
 1. 【[芝麻茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ma_cha.md#芝麻茶)】`zhr1 ma cha2` <sup>[如皋]</sup> 旧时待客的饮料，用炒芝麻加糖，开水冲泡而成。  
-1. 【[芝麻钉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ma_dien.md#芝麻钉)】`zhr1 ma dien1` <sup>[泰州]</sup> 一种长约1厘米的细小铁钉。  
-1. 【[芝麻钉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ma_dien.md#芝麻钉)】`zhr1 ma dien1` <small>/t͡sɿ1 mɑ tiŋ1/<sup>泰兴</sup></small> 一种很小的铁钉。<sup>\[泰兴\]</sup>  
+1. 【[芝麻钉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ma_dien.md#芝麻钉)】`zhr1 ma dien1` <small>/t͡sɿ1 mɑ tiŋ1/<sup>泰兴</sup></small> ① 一种长约1厘米的细小铁钉。<sup>\[泰州\]</sup> ② 一种很小的铁钉。<sup>\[泰兴\]</sup>  
 1. 【[芝麻稭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ma_gae.md#芝麻稭)】`zhr1 ma gae1` <sup>[如东]</sup> 胡麻科植物芝麻茎。  
 1. 【[芝麻瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ma_gua.md#芝麻瓜)】`zhr1 ma gua1` <sup>[如东]</sup> 香瓜的一个品种，圆柿形，皮淡青白色。味香，汁甜。  
 1. 【[芝麻花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ma_hua.md#芝麻花)】`zhr1 ma hua1` <sup>[如东]</sup> 胡科植物芝麻花。  
@@ -1377,12 +1374,9 @@
 1. 【[置酒容易请客难](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_jieu_ion_i_qien_keh_naen.md#置酒容易请客难)】`zhr5 jieu3 ion2 i6 qien3 keh7 naen2` <sup>[东台]</sup> 办酒席只是花钱，而请客涉及请谁、怎么请，谁陪同、客人是否赏光、能否按时到等主人难以掌控的难题。  
 1. 【[置备](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_pei.md#置备)】`zhr5 pei6` <sup>[如皋]</sup> 添置物件。  
 1. 【[翅膀拐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ban_guae_zz.md#翅膀拐子)】`zhr5 ban guae3 zz` <sup>[兴化]</sup> 翅膀。（喻）自立能力：“～嘿，现在出落得像个人了，～硬了，瞧不起妈了……”（《马春阳作品选·月郎和她的娘舅们》）  
-1. 【[至诚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_chen.md#至诚)】`zhr5 chen2` <sup>[如皋]</sup> 人品高尚，诚笃。  
-1. 【[至诚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_chen.md#至诚)】`zhr5 chen2` <sup>[如东]</sup> 老实，真心：老人家～。  
-1. 【[至诚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_chen.md#至诚)】`zhr5 chen2` <small>/t͡sɿ5 t͡sʰəŋ2/<sup>泰兴</sup></small> 特别诚实、忠诚。<sup>\[泰兴\]</sup>：他是个～人，不会犯嫌。<sup>\[泰兴\]</sup>  
+1. 【[至诚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_chen.md#至诚)】`zhr5 chen2` <small>/t͡sɿ5 t͡sʰəŋ2/<sup>如皋</sup>, /t͡sɿ5 t͡sʰəŋ2/<sup>泰兴</sup></small> ① 人品高尚，诚笃。<sup>\[如皋\]</sup> ② 老实，真心。<sup>\[如东\]</sup>：老人家～。<sup>\[如东\]</sup> ③ 特别诚实、忠诚。<sup>\[泰兴\]</sup>：他是个～人，不会犯嫌。<sup>\[泰兴\]</sup>  
 1. 【[至得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_deh.md#至得)】`zhr5 deh7` 顶多，最多  
-1. 【[至多](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_du.md#至多)】`zhr5 du1` <sup>[如皋]</sup> 最多，顶多。  
-1. 【[至多](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_du.md#至多)】`zhr5 du1` <small>/t͡sɿ5 tɤɯ1/<sup>泰兴</sup></small> 顶多、最多。表示极大限度。<sup>\[泰兴\]</sup>：从泰兴到黄桥，～50里路。<sup>\[泰兴\]</sup>  
+1. 【[至多](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_du.md#至多)】`zhr5 du1` <small>/t͡sɿ5 tʊ1/<sup>如皋</sup>, /t͡sɿ5 tɤɯ1/<sup>泰兴</sup></small> 最多，顶多。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：从泰兴到黄桥，～50里路。<sup>\[泰兴\]</sup>  
 1. 【[至恭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_gon.md#至恭)】`zhr5 gon1` <sup>[如皋]</sup> 人品高尚，诚笃。  
 1. 【[至厚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_heu.md#至厚)】`zhr5 heu6` <small>/t͡sɿ5 xɤ6/<sup>兴化</sup></small> ① 相交很深的朋友，也称至交、至好<sup>\[东台\]</sup>：他俫是～，无话不谈。<sup>\[东台\]</sup> ② 形容感情非常深厚<sup>\[兴化\]</sup>：“……泰安州我有个同年，姓白……与我～……”（《梼杌闲评》五）<sup>\[兴化\]</sup>  
 1. 【[至亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_qien.md#至亲)】`zhr5 qien1` <small>/t͡sɿ5 t͡ɕʰiŋ1/<sup>泰兴</sup></small> 嫡亲。指血缘关系婚姻关系最近的亲属。如父母与子女，以及兄弟姐妹之间、甥舅之间，均可称为“至亲骨肉”。<sup>\[泰兴\]</sup>  
@@ -1798,12 +1792,10 @@
 1. 【[早办前程](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_baen_qin_chen.md#早办前程)】`zo3 baen5 qin2 chen2` <sup>[兴化]</sup> （戏）意为早作准备：谚曰：黄花女儿绗衲子（厚尿布）——～。｜窠儿桶里（摇篮）打寿纸——～。  
 1. 【[早不见晚见](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_beh_jin_vaen.md#早不见晚见)】`zo3 beh7 jin5 vaen3 jin5` <small>/t͡sɔ3 pəʔ7 t͡ɕĩ5 ʋɛ̃3 t͡ɕĩ5/<sup>泰兴</sup></small> 早上见不到晚上总会见到，谓天天相见。劝世语。期望大家和谐相处。<sup>\[泰兴\]</sup>  
 1. 【[早半晌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_bun_shan.md#早半晌)】`zo3 bun5 shan` <sup>[如皋]</sup> 黎明及清晨。  
-1. 【[早半天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_bun_tin.md#早半天)】`zo3 bun5 tin1` <sup>[兴化]</sup> 上午：这天下午，几乎闲了～的土地庙，接特了四个来求神的人……（兴文《好吃菩陈》）  
-1. 【[早半天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_bun_tin.md#早半天)】`zo3 bun5 tin1` <small>/t͡sɔ3 pʊ̃5 tʰĩ1/<sup>泰兴</sup></small> 早上，上午。<sup>\[泰兴\]</sup>  
+1. 【[早半天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_bun_tin.md#早半天)】`zo3 bun5 tin1` <small>/t͡sɔ3 pũ5 tʰiɪ̃1/<sup>兴化</sup>, /t͡sɔ3 pʊ̃5 tʰĩ1/<sup>泰兴</sup></small> 上午<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：这天下午，几乎闲了～的土地庙，接特了四个来求神的人……（兴文《好吃菩陈》）<sup>\[兴化\]</sup>  
 1. 【[早茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_cha.md#早茶)】`zo3 cha2` <small>/t͡sɔ3 t͡sʰɑ2/<sup>泰兴</sup>, /t͡sɔ3 t͡sʰa2/<sup>泰县</sup></small> ① 早晨喝茶。<sup>\[如东\]</sup> ② 早晨吃点心。<sup>\[如东\]</sup> ③ 早点。<sup>\[泰县\]</sup> ④ 在饭店、茶馆食用的干丝、肉包、鱼汤面之类较高档的早餐。<sup>\[泰州\]</sup> ⑤ 乡间多指早晨的茶点。<sup>\[泰兴\]</sup>  
 1. 【[早茶时候](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_cha_shr_heu.md#早茶时候)】`zo3 cha2 shr2 heu` <sup>[如皋]</sup> 约早晨7时左右。  
-1. 【[早出晚归](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_chueh_vaen_guei.md#早出晚归)】`zo3 chueh7 vaen3 guei1` <sup>[兴化]</sup> 早晨外出上班或经营，晚间回家休息：父亲开机帆船，往来运货，～。也说“早出晚回”。  
-1. 【[早出晚归](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_chueh_vaen_guei.md#早出晚归)】`zo3 chueh7 vaen3 guei1` <small>/t͡sɔ3 t͡sʰuəʔ7 ʋɛ̃3 kuəɪ1/<sup>泰兴</sup></small> 早上出去，晚上归来。谓整日在外。<sup>\[泰兴\]</sup>：他是个木匠，天天～<sup>\[泰兴\]</sup>  
+1. 【[早出晚归](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_chueh_vaen_guei.md#早出晚归)】`zo3 chueh7 vaen3 guei1` <small>/t͡sɔ3 t͡sʰuəʔ7 uɛ̃3 kuəi1/<sup>兴化</sup>, /t͡sɔ3 t͡sʰuəʔ7 ʋɛ̃3 kuəɪ1/<sup>泰兴</sup></small> ① 早晨外出上班或经营，晚间回家休息<sup>\[兴化\]</sup>：父亲开机帆船，往来运货，～。也说“早出晚回”。<sup>\[兴化\]</sup> ② 早上出去，晚上归来。谓整日在外。<sup>\[泰兴\]</sup>：他是个木匠，天天～<sup>\[泰兴\]</sup>  
 1. 【[早饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_faen.md#早饭)】`zo3 faen6` <sup>[如东]</sup> 早晨吃饭。也称早餐。  
 1. 【[早饭时候](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_faen_shr_heu.md#早饭时候)】`zo3 faen6 shr2 heu` <sup>[如皋]</sup> 约早晨7时左右。  
 1. 【[早更头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_gen_teu.md#早更头)】`zo3 gen1 teu` <small>/t͡sɔ3 kən1 tʰɤ/<sup>兴化</sup>, /t͡sɔ3 kəŋ1 tʰei/<sup>如皋</sup>, /t͡sɔ3 kəŋ1 tʰəɪ/<sup>泰兴</sup></small> ① 早上，黎明时分 ② 寅末卯初黎明前后。<sup>\[如皋\]</sup> ③ 五更天（4时至5时间）。<sup>\[如东\]</sup>：我俫～动身。<sup>\[如东\]</sup> ④ 清晨<sup>\[东台\]</sup>：～就上街打扫。<sup>\[东台\]</sup> ⑤ 凌晨<sup>\[兴化\]</sup>：他～就到青货行进货去啊。<sup>\[兴化\]</sup> ⑥ 五更之末，日出之前。犹凌晨。<sup>\[泰兴\]</sup>：～家(ga)<sup>\[泰兴\]</sup>  
@@ -1819,9 +1811,8 @@
 1. 【[早气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_qi.md#早气)】`zo3 qi` <sup>[泰县]</sup> 早晨。  
 1. 【[早起](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_qi.md#早起)】`zo3 qi` <small>/t͡sɔ3 t͡ɕʰi/<sup>兴化</sup>, /t͡sɔ3 t͡ɕʰʝ/<sup>如皋</sup>, /t͡sɔ3 t͡ɕʰʝ/<sup>泰兴</sup></small> 早晨。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[兴化\]</sup>\[泰兴：或指上午。\]：睏～，～起来。<sup>\[如皋\]</sup>｜我俫明朝～动身。<sup>\[如东\]</sup>｜“～敲门，是七主子犯了赌博坐在总铺里……”（《梼杌闲评》十四）<sup>\[兴化\]</sup>｜他～来啊下子。<sup>\[泰兴\]</sup>  
 1. 【[早起](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_qi.md#早起)】`zo3 qi3` ① 早上 ② 早点儿起床。<sup>\[如东\]</sup>：明朝要～赶路。<sup>\[如东\]</sup>  
-1. 【[早起三光，晏起三慌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_qi_saen_guan_ngaen_qi_saen_huan.md#早起三光，晏起三慌)】`zo3 qi3 saen1 guan1 ngaen5 qi3 saen1 huan1` <sup>[如皋]</sup> 早起床，把事情都做了，到处光妙。晏起床，时间紧迫，什么事情都来不及做，内心慌张  
-1. 【[早起三光晏起三慌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_qi_saen_guan_ngaen_qi_saen_huan.md#早起三光晏起三慌)】`zo3 qi3 saen1 guan1 ngaen5 qi3 saen1 huan1` <sup>[东台]</sup> 起得早许多事都可忙完，反之会慌慌张张。  
-1. 【[早起三光，晏起三慌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_qi_saen_guan_ngaen_qi_saen_huan.md#早起三光，晏起三慌)】`zo3 qi3 saen1 guan1 ngaen5 qi3 saen1 huan1` <small>/t͡sɔ3 t͡ɕʰʝ3 ɕiɛ̃1 kuɑŋ1 ŋɛ̃5 t͡ɕʰʝ3 ɕiɛ̃1 xuɑŋ1/<sup>泰兴</sup></small> 谓早点起床，勤扫勤洗，到处光亮，起晏了则显得急迫。<sup>\[泰兴\]</sup>  
+1. 【[早起三光，晏起三慌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_qi_saen_guan_ngaen_qi_saen_huan.md#早起三光，晏起三慌)】`zo3 qi3 saen1 guan1 ngaen5 qi3 saen1 huan1` <sup>[东台]</sup> 起得早许多事都可忙完，反之会慌慌张张。  
+1. 【[早起三光，晏起三慌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_qi_saen_guan_ngaen_qi_saen_huan.md#早起三光，晏起三慌)】`zo3 qi3 saen1 guan1 ngaen5 qi3 saen1 huan1` <small>/t͡sɔ3 t͡ɕʰʝ3 sẽ1 kuã1 ŋẽ5 t͡ɕʰʝ3 sẽ1 xuã1/<sup>如皋</sup>, /t͡sɔ3 t͡ɕʰʝ3 ɕiɛ̃1 kuɑŋ1 ŋɛ̃5 t͡ɕʰʝ3 ɕiɛ̃1 xuɑŋ1/<sup>泰兴</sup></small> ① 早起床，把事情都做了，到处光妙。晏起床，时间紧迫，什么事情都来不及做，内心慌张<sup>\[如皋\]</sup> ② 谓早点起床，勤扫勤洗，到处光亮，起晏了则显得急迫。<sup>\[泰兴\]</sup>  
 1. 【[早就](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_qieu.md#早就)】`zo3 qieu6` <sup>[如皋]</sup> 老早。  
 1. 【[早前](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_qin.md#早前)】`zo3 qin2` <sup>[如东]</sup> 从前。  
 1. 【[早上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_shan.md#早上)】`zo3 shan` <small>/t͡sɔ3 saŋ/<sup>兴化</sup>, /t͡sɔ3 sã/<sup>如皋</sup>, /t͡sɔ3 sɑŋ/<sup>泰兴</sup>, /t͡sɔ3 sɑŋ/<sup>泰县</sup></small> 早晨，上午<sup>\[如东\]</sup><sup>\[泰州\]</sup>：～在家｜～吃粥。<sup>\[如东\]</sup>｜他～不在家吃早饭。<sup>\[泰州\]</sup>｜他买的是～十点钟的火车票。<sup>\[泰州\]</sup>  
@@ -1830,8 +1821,7 @@
 1. 【[早上烧霞等水烧茶，晚上烧霞热得直㗇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_shan_sho_xia_den_shuei_sho_cha_vaen_shan_sho_xia_rih_deh_cheh_ha.md#早上烧霞等水烧茶，晚上烧霞热得直㗇)】`zo3 shan6 sho1 xia2 den3 shuei3 sho1 cha2 vaen3 shan6 sho1 xia2 rih8 deh7 cheh8 ha2` <sup>[东台]</sup> 早上烧霞天将下雨，晚上烧霞天气将热。  
 1. 【[早上下大雾照样晒衣裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_shan_xia_da_v_zho_ian_shae_i_kv.md#早上下大雾照样晒衣裤)】`zo3 shan6 xia6 da6 v5 zho5 ian6 shae5 i1 kv5` <sup>[东台]</sup> 早上有雾一般当天是晴好天气。  
 1. 【[早市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_shr.md#早市)】`zo3 shr6` 早晨做买卖的市场<sup>\[泰州\]</sup>：你来啊晏吖唻，～已经过啊唻。<sup>\[泰州\]</sup>  
-1. 【[早死早升天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_sz_zo_shen_tin.md#早死早升天)】`zo3 sz3 zo3 shen1 tin1` <sup>[兴化]</sup> ① 自怨自艾的话，谓早点死了好。 ② 骂人早死早好：“这些神却也没理，只该教你们～……”（《西游记》四四）  
-1. 【[早死早升天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_sz_zo_shen_tin.md#早死早升天)】`zo3 sz3 zo3 shen1 tin1` <small>/t͡sɔ3 sɿ3 t͡sɔ3 səŋ1 tʰĩ1/<sup>泰兴</sup></small> 谓早死早好。<sup>\[泰兴\]</sup>  
+1. 【[早死早升天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_sz_zo_shen_tin.md#早死早升天)】`zo3 sz3 zo3 shen1 tin1` <small>/t͡sɔ3 sɿ3 t͡sɔ3 sən1 tʰiɪ̃1/<sup>兴化</sup>, /t͡sɔ3 sɿ3 t͡sɔ3 səŋ1 tʰĩ1/<sup>泰兴</sup></small> ① 自怨自艾的话，谓早点死了好。<sup>\[兴化\]</sup> ② 骂人早死早好<sup>\[兴化\]</sup>：“这些神却也没理，只该教你们～……”（《西游记》四四）<sup>\[兴化\]</sup> ③ 谓早死早好。<sup>\[泰兴\]</sup>  
 1. 【[早稻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_to.md#早稻)】`zo3 to6` 稻的品种\[泰州：具有插秧期早、成熟早的特点。\]\[如东：生长在旱地里，根系比较发达，叶子宽大，抗旱能力强。米较软，光泽少。也叫陆稻。\]  
 1. 【[早五更](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_v_gen.md#早五更)】`zo3 v3 gen1` <sup>[如东]</sup> 4时左右：～动身。  
 1. 【[早晚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_vaen.md#早晚)】`zo3 vaen3` <small>/t͡sɔ3 uɛ̃3/<sup>兴化</sup>, /t͡sɔ3 ʋẽ3/<sup>如皋</sup></small> ① 作代词后缀，表时候、时间<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup>：这～、那～、哪～、多～。<sup>\[如皋\]</sup>｜多～来啊？<sup>\[如东\]</sup>｜这～（这时候）学校该放学了<sup>\[东台\]</sup>｜多～（什么时候）<sup>\[东台\]</sup>｜好～（好长时间）<sup>\[东台\]</sup> ② 早晨和晚上。<sup>\[如东\]</sup>：立秋以后，～就凉吖。<sup>\[如东\]</sup> ③ 迟早、或迟或早<sup>\[东台\]</sup><sup>\[泰州\]</sup>：他这吖的假公肥私，～要出事。<sup>\[东台\]</sup>｜像他这格局瞎搝，～要出事。<sup>\[泰州\]</sup> ④ 多指随时、日日。舒亶《虞美人》<sup>\[东台\]</sup>：“故人～上高台，寄我江南一枝梅。”<sup>\[东台\]</sup> ⑤ 不久<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：～我要请诸位来聚聚。<sup>\[兴化\]</sup>｜～得在军师临走的时候，跟他商议下子……（扬说《长坂坡张飞用计》）<sup>\[兴化\]</sup>｜这笔钱不能动，伢儿今年子高考，～上大学就要用钱。<sup>\[泰州\]</sup> ⑥ 时时<sup>\[兴化\]</sup>：“母亲，您孩儿有些不成器，～要你照明。”（《隔江斗智》剧二）<sup>\[兴化\]</sup>  

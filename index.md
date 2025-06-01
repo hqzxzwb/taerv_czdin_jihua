@@ -265,8 +265,7 @@
 1. 【[叽叽喳喳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ji_zha_zha.md#叽叽喳喳)】`ji1 ji1 zha1 zha1` <sup>[东台]</sup> 形容鸟叫声或许多人发出的嘈杂声。  
 1. 【[叽苦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_kv.md#叽苦)】`ji1 kv3` <sup>[如皋]</sup> 味很苦：黄连～。  
 1. 【[叽哩抹喳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_li_maeh_zha.md#叽哩抹喳)】`ji1 li1 maeh8 zha1` <sup>[东台]</sup> 尖声讲话，使人感到刺耳：几个小丫头七嘴八舌，～的。  
-1. 【[叽里咕噜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_lii_gv_lv.md#叽里咕噜)】`ji1 lii gv1 lv1` <sup>[东台]</sup> 低声说话，别人听不清楚。  
-1. 【[叽里咕噜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_lii_gv_lv.md#叽里咕噜)】`ji1 lii gv1 lv1` <small>/t͡ɕʝ1 ləɪ ku1 lu1/<sup>泰兴</sup></small> 小声讲一些别人听不清的话；唠叨不停。<sup>\[泰兴\]</sup>  
+1. 【[叽里咕噜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_lii_gv_lv.md#叽里咕噜)】`ji1 lii gv1 lv1` <small>/t͡ɕʝ1 ləɪ ku1 lu1/<sup>泰兴</sup></small> ① 低声说话，别人听不清楚。<sup>\[东台\]</sup> ② 小声讲一些别人听不清的话；唠叨不停。<sup>\[泰兴\]</sup>  
 1. 【[叽里木促](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_lii_moh_coh.md#叽里木促)】`ji1 lii moh8 coh7` <sup>[兴化]</sup> 啰里啰唆，令人生厌：这个老太婆，成天～的。  
 1. 【[叽里入咕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_lii_reh_gv.md#叽里入咕)】`ji1 lii reh8 gv` <sup>[兴化]</sup> 口中唠唠叨叨，念念有词：你嘴里～的说甚的啊？也作“叽咕”“叽咕祷咂”。  
 1. 【[叽里哇啦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_lii_va_la.md#叽里哇啦)】`ji1 lii va1 la1` <sup>[如皋]</sup> ① 形容语音尖厉刺耳。 ② 说话过快或声音嘈杂而听不清楚。  
@@ -276,6 +275,7 @@
 1. 【[叽酸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_sun.md#叽酸)】`ji1 sun1` <sup>[如皋]</sup> 味很酸：生杏子，～。  
 1. 【[叽哇烦叫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_va_faen_jio.md#叽哇烦叫)】`ji1 va1 faen2 jio5` <sup>[如东]</sup> 大声吵闹：这些伢儿～的，不得安神。  
 1. 【[叽哇十召](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_va_sheh_cho.md#叽哇十召)】`ji1 va1 sheh8 cho6` <sup>[泰县]</sup> 大声吵闹。  
+1. 【[叽嗗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_vaeh.md#叽嗗)】`ji1 vaeh` <sup>[如皋]</sup> 象声词。  
 [更多...](./j.md)
 ## K
 1. 【[抲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka.md#抲)】`ka1` <small>/kʰa1/<sup>兴化</sup>, /kʰa1/<sup>如皋</sup>, /kʰa1/<sup>泰县</sup></small> ① 把东西往里塞。<sup>\[如东\]</sup>：把馒头朝嘴里～。<sup>\[如东\]</sup> ② 揣、塞<sup>\[如皋\]</sup>：把钱～啊袋儿里。<sup>\[如皋\]</sup> ③ 放进<sup>\[东台\]</sup>：把钱～啊袋里。<sup>\[东台\]</sup> ④ 做事偷偷摸摸的<sup>\[东台\]</sup>：鬼～鬼～的。<sup>\[东台\]</sup> ⑤ 嵌<sup>\[兴化\]</sup>：桌子缝里～灰。<sup>\[兴化\]</sup> ⑥ 硬塞<sup>\[兴化\]</sup>：吃不下去硬～。<sup>\[兴化\]</sup> ⑦ 抓（《集韵》平声麻韵丘加切：“扼也，或作揢㧎”。）<sup>\[泰县\]</sup>：把药～住阿。<sup>\[泰县\]</sup> ⑧ 放、塞<sup>\[泰县\]</sup>：街上卖的鸡子食都～得满满的。<sup>\[泰县\]</sup> ⑨ 强行塞进<sup>\[泰州\]</sup>：他吃不下去就不要硬～他唻。<sup>\[泰州\]</sup>｜你多～点ㄦ馅心，包子才好吃。<sup>\[泰州\]</sup> ⑩ 把钱物强行塞给别人<sup>\[泰州\]</sup>：临走的时候，老李又～啊两包烟把他。<sup>\[泰州\]</sup> ⑪ 强行安插人员<sup>\[泰州\]</sup>：编制已经满吖，上头又～啊两个人进来啊。<sup>\[泰州\]</sup>  
@@ -668,8 +668,7 @@
 1. 【[迂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y.md#迂)】`y1` <small>/y1/<sup>兴化</sup>, /y1/<sup>泰兴</sup></small> ① 性格迁腐、固执<sup>\[兴化\]</sup>：“表兄此论甚～。当今之世，讲甚天理……”（《梼杌闲评》三六）<sup>\[兴化\]</sup> ② 由于受强烈刺激而神经紊乱<sup>\[兴化\]</sup>：一个人愁狠了，神就乱了<sup>\[兴化\]</sup>｜神一乱，就～了，就糊了。（扬说《闯昭关》）也说“迂痰”。<sup>\[兴化\]</sup> ③ 迂腐，拘泥陈腐的规则，不切合实际<sup>\[泰州\]</sup>：你就不要～吧，现在带啊身上结婚的人太多啊。<sup>\[泰州\]</sup>｜这个人是个～夫子。<sup>\[泰州\]</sup> ④ 指人坚持原则，不受利诱<sup>\[泰州\]</sup>：他这个人～得狠，管你是甚的人，找他开后门是不可能的事。<sup>\[泰州\]</sup> ⑤ 迂腐，不合事理<sup>\[泰兴\]</sup>：箇个人太～啊了，不好处<sup>\[泰兴\]</sup>  
 1. 【[迂而且赘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_er_qia_zhuei.md#迂而且赘)】`y1 er2 qia3 zhuei5` <sup>[兴化]</sup> 迂腐而又啰唆：“笑话了，也不是买货，还要定准。好，你这个人～哎……”（《武松》六）  
 1. 【[迂而赘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_er_zhuei.md#迂而赘)】`y1 er2 zhuei5` <small>/y1 ɚ2 t͡suei5/<sup>如皋</sup>, /y2 ɚ2 t͡suəɪ5/<sup>泰兴</sup></small> ① 古板执拗的脾气。<sup>\[如皋\]</sup> ② 不仅迂腐，而且说话啰唆，贬义。<sup>\[泰州\]</sup> ③ 迁腐而又固执，思维定向。<sup>\[泰兴\]</sup>  
-1. 【[迂夫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_fv_zz.md#迂夫子)】`y1 fv1 zz3` <sup>[泰州]</sup> ① 言行拘泥于旧准则，不能适应时代潮流的读书人，贬义。 ② 言行坚持原则，不肯媚俗或者同流合污的人。  
-1. 【[迂夫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_fv_zz.md#迂夫子)】`y1 fv1 zz3` <small>/y1 fʋ1 t͡sɿ3/<sup>泰兴</sup></small> 迂腐的读书人<sup>\[泰兴\]</sup>  
+1. 【[迂夫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_fv_zz.md#迂夫子)】`y1 fv1 zz3` <small>/y1 fʋ1 t͡sɿ3/<sup>泰兴</sup></small> ① 言行拘泥于旧准则，不能适应时代潮流的读书人，贬义。<sup>\[泰州\]</sup> ② 言行坚持原则，不肯媚俗或者同流合污的人。<sup>\[泰州\]</sup> ③ 迂腐的读书人<sup>\[泰兴\]</sup>  
 1. 【[迂瘕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_ha.md#迂瘕)】`y1 ha2` <sup>[兴化]</sup> 迂腐、守旧，作事过于顶真。也称“瘕魔”。  
 1. 【[迂痰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_taen.md#迂痰)】`y1 taen2` <sup>[兴化]</sup> 见“迂”。  
 1. 【[迂拙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_zhuh.md#迂拙)】`y1 zhuh7` <small>/y1 t͡sʊʔ7/<sup>泰兴</sup></small> 迂呆笨拙。<sup>\[泰兴\]</sup>：你怎么箇吖～？连箇个理总定不过来？<sup>\[泰兴\]</sup>  
@@ -689,6 +688,7 @@
 1. 【[榆树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_shv.md#榆树)】`y2 shv6` <sup>[如东]</sup> 榆科植物榆树，落叶乔木，高约20米。树皮暗灰褐色，粗糙，有纵沟裂。单叶互生，椭圆状倒卵形或披针形，边缘单锯齿，上面暗绿色。花先叶开放簇生，紫色。翅果倒卵形，先端有缺口。生长在河堤、田埂和路边。  
 1. 【[榆树叶<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_shv_ih_r.md#榆树叶<sub>儿</sub>)】`y2 shv6 ih8 r` <sup>[如皋]</sup> 学名榆钱，荒年可充饥。  
 1. 【[榆树酱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_shv_jian.md#榆树酱)】`y2 shv6 jian5` <sup>[如东]</sup> 榆科植物榆树的荚仁和面粉等制成，也称榆仁酱。  
+1. 【[榆树桩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_shv_zhuan.md#榆树桩)】`y2 shv6 zhuan1` <sup>[如皋]</sup> 树桩盆景材料。  
 [更多...](./y.md)
 ## Z
 1. 【[咋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/za.md#咋)】`za3` <small>/t͡sa3/<sup>兴化</sup></small> “怎吖”的合音。怎么。<sup>\[东台\]</sup><sup>\[兴化\]</sup>：这个事你～说？<sup>\[东台\]</sup>｜他～还不到？<sup>\[东台\]</sup>｜～办？<sup>\[兴化\]</sup>｜你～不去的？<sup>\[兴化\]</sup>  
@@ -704,7 +704,7 @@
 1. 【[栽猛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_mon_zz.md#栽猛子)】`zae1 mon3 zz` <sup>[兴化]</sup> 游泳时头朝下钻入水中的动作：这年秋场……先干后淹，～在水里捞上米几把稻子。（兴文《地主逼出新发周》）  
 1. 【[栽拿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_na.md#栽拿)】`zae1 na2` <sup>[兴化]</sup> 谓心中有数：你只要说一声，我就～唈。  
 1. 【[栽培](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_pei.md#栽培)】`zae1 pei2` <sup>[如东]</sup> ① 种植。 ② 比喻培养。  
-1. 【[栽培](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_pi.md#栽培)】`zae1 pi` <sup>[东台]</sup> ① 培养：～孩子要几十万。 ② 舍得投入：小伙出国深造，我准备～他十万块。  
+1. 【[栽培](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_pei.md#栽培)】`zae1 pei2-pi` <sup>[东台]</sup> ① 培养：～孩子要几十万。 ② 舍得投入：小伙出国深造，我准备～他十万块。  
 1. 【[栽头行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_teu_han.md#栽头行)】`zae1 teu2 han2` <sup>[如皋]</sup> 见“站头趟”。  
 1. 【[栽头行秧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_teu_han_ian.md#栽头行秧)】`zae1 teu2 han2 ian1` <sup>[如皋]</sup> 领头栽秧。  
 1. 【[栽头趟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_teu_tan.md#栽头趟)】`zae1 teu2 tan5` <sup>[如皋]</sup> 见“站头趟”。  

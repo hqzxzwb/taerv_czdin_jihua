@@ -201,8 +201,7 @@
 1. 【[夹概<sub>儿</sub>的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaeh_gae_r_dii.md#夹概<sub>儿</sub>的)】`gaeh7 gae5-1 r dii` <sup>[东台]</sup> 由一点点受影响，发展到整体变化：他不会料理花草，开始叶子黄吖，后来花谢啊，最后～把花草折腾死啊。  
 1. 【[夹夹屄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaeh_gaeh_bi.md#夹夹屄)】`gaeh7 gaeh7 bi1` <sup>[如东]</sup> 受到欺负而不敢说话：王二捱张三骂啊，只好～。  
 1. 【[夹沟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaeh_geu.md#夹沟)】`gaeh7 geu1` <small>/kæʔ7 kɤ1/<sup>兴化</sup>, /keʔ7 kei1/<sup>如皋</sup></small> ① 夹路两侧的小河。<sup>\[如皋\]</sup> ② 乡间河床陡峭而深但水面很狭的小河。<sup>\[如皋\]</sup> ③ 比较浅窄的小河沟<sup>\[兴化\]</sup>：他俫两家住得近，中间只隔一条～。<sup>\[兴化\]</sup>  
-1. 【[夹攻气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaeh_gon_qi.md#夹攻气)】`gaeh7 gon1 qi5` <sup>[泰州]</sup> 同时受到对立双方的指责：正、副两位领导犯对，把我这个小办事员弄吖在他俫中间受～。  
-1. 【[夹攻气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaeh_gon_qi.md#夹攻气)】`gaeh7 gon1 qi5` <small>/kæʔ7 kɔŋ1 t͡ɕʰʝ5/<sup>泰兴</sup></small> 两头受气，两面不讨好，称为“受～”。<sup>\[泰兴\]</sup>  
+1. 【[夹攻气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaeh_gon_qi.md#夹攻气)】`gaeh7 gon1 qi5` <small>/kæʔ7 kɔŋ1 t͡ɕʰʝ5/<sup>泰兴</sup></small> ① 同时受到对立双方的指责<sup>\[泰州\]</sup>：正、副两位领导犯对，把我这个小办事员弄吖在他俫中间受～。<sup>\[泰州\]</sup> ② 两头受气，两面不讨好，称为“受～”。<sup>\[泰兴\]</sup>  
 1. 【[夹棍气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaeh_guen_qi.md#夹棍气)】`gaeh7 guen qi5` <sup>[兴化]</sup> 来自对立双方的责难‖也说“夹板气”：我受的～，两头不讨好。  
 1. 【[夹巷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaeh_han.md#夹巷)】`gaeh7 han6` <small>/kæʔ7 xaŋ6/<sup>兴化</sup>, /kæʔ7 xɑŋ1/<sup>泰兴</sup></small> ① 窄小的巷道<sup>\[兴化\]</sup>：（林冲）带了刀又去沧州城里城外，小街～，团团寻了一日。（《水浒传》十）<sup>\[兴化\]</sup>｜前头的～太狭，不能行人。<sup>\[兴化\]</sup> ② 两侧房屋高墙所夹成的狭窄小巷<sup>\[泰州\]</sup>：走前头的～里头穿过去就到啊唻。<sup>\[泰州\]</sup> ③ 夹在墻体间的小巷。<sup>\[泰兴\]</sup>  
 1. 【[夹巷<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaeh_han_r.md#夹巷<sub>儿</sub>)】`gaeh7 han6 r` <sup>[如皋]</sup> 两道墙间很狭的巷道，一般不作道路。  
@@ -1132,8 +1131,7 @@
 1. 【[过百路<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_boh_lv_r.md#过百路<sub>儿</sub>)】`gu5 boh7 lv r` <sup>[如皋]</sup> 婴儿出生满一百天的庆祝式。旧时由祖辈抱行，从迎驾巷经百岁巷、雁桥、长巷、文德桥、武定桥、集贤桥，经集贤里回家。后多留影纪念。  
 1. 【[过百日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_boh_rih.md#过百日)】`gu5 boh7 rih` <sup>[如皋]</sup> 人死第一百天的祭祀活动。  
 1. 【[过百日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_boh_rih.md#过百日)】`gu5 boh7 rih8` <sup>[如东]</sup> 人死后第一百天的纪念日。  
-1. 【[过秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_chen.md#过秤)】`gu5 chen5` <sup>[如东]</sup> 用秤来称。  
-1. 【[过秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_chen.md#过秤)】`gu5 chen5` <small>/kɤɯ5 t͡sʰəŋ5/<sup>泰兴</sup></small> 用秤称量。<sup>\[泰兴\]</sup>：过下子秤，看看到底有多重。<sup>\[泰兴\]</sup>  
+1. 【[过秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_chen.md#过秤)】`gu5 chen5` <small>/kɤɯ5 t͡sʰəŋ5/<sup>泰兴</sup></small> 用秤称量。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>：过下子秤，看看到底有多重。<sup>\[泰兴\]</sup>  
 1. 【[过错](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_cu.md#过错)】`gu5 cu5` <sup>[如东]</sup> 过失：这是我的～。  
 1. 【[过大差](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_da_chae.md#过大差)】`gu5 da6 chae1` <sup>[如皋]</sup> 解犯人去执行死刑的队伍经过。  
 1. 【[过得去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_deh_qy.md#过得去)】`gu5 deh7 qy5` <sup>[如东]</sup> 马马虎虎混得下去：日子还算～。  
@@ -1150,8 +1148,7 @@
 1. 【[过街](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_gae.md#过街)】`gu5 gae1` <small>/ko5 kɛ1/<sup>兴化</sup></small> ① 民俗，孕妇在产前回娘家过一天，祈早日平安生产<sup>\[兴化\]</sup>：何氏先本打算双双接他姐妹二人回来一趟，行个～的仪节。（《广陵潮》六）<sup>\[兴化\]</sup> ② 泰州风俗，女儿出嫁以后初次怀孕，产期到来之前数日娘家“催生”（参见“催生”条）后，即带女儿回娘家生活一天，当晚仍回夫家。主要是让孕妇活动一下，有利顺产，也可满足女儿眷恋娘家之情。取其“由街之边到街那边一次”之义。<sup>\[泰州\]</sup>  
 1. 【[过够](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_geu.md#过够)】`gu5 geu5` <sup>[兴化]</sup> 指活得太累，有厌世情绪：这种苦日子～啊。  
 1. 【[过关](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_guaen.md#过关)】`gu5 guaen1` <sup>[兴化]</sup> 旧时为患儿谢神的迷信活动。  
-1. 【[过后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_heu.md#过后)】`gu5 heu6` <sup>[如皋]</sup> 以后。  
-1. 【[过后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_heu.md#过后)】`gu5 heu6` <small>/kɤɯ5 xəɪ1/<sup>泰兴</sup></small> 以后；后来。<sup>\[泰兴\]</sup>  
+1. 【[过后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_heu.md#过后)】`gu5 heu6` <small>/kʊ5 xei1/<sup>如皋</sup>, /kɤɯ5 xəɪ1/<sup>泰兴</sup></small> 以后；后来。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
 1. 【[过河撤桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_hu_chih_qio.md#过河撤桥)】`gu5 hu2 chih7 qio2` <sup>[兴化]</sup> 过河拆桥。  
 1. 【[过河撤跳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_hu_chih_tio.md#过河撤跳)】`gu5 hu2 chih7 tio5` <sup>[兴化]</sup> （喻）达到目的后，就甩开合作者或帮助过自己的人。‖又谓“过河撤桥”。  
 1. 【[过河摸屌子——小心过分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_hu_mah_dio_zz_xio_xien_gu_fen.md#过河摸屌子——小心过分)】`gu5 hu2 mah8 dio3 zz xio3 xien1 gu5 fen6` <sup>[东台]</sup>   
@@ -1164,19 +1161,16 @@
 1. 【[过意不去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_i_beh_qy.md#过意不去)】`gu5 i5 beh7 qy5` <sup>[东台]</sup> 感到抱歉、惭愧、不好意思。  
 1. 【[过夜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_ia.md#过夜)】`gu5 ia6` <small>/kɤɯ5 iɑ1/<sup>泰兴</sup></small> 过宿。多指在外住宿。<sup>\[泰兴\]</sup>  
 1. 【[过阴婆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_ien_pu_r.md#过阴婆<sub>儿</sub>)】`gu5 ien1 pu2 r` <sup>[如东]</sup> 以迷信手法传递死亡者与家属之间信息的巫婆。  
-1. 【[过瘾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_ien.md#过瘾)】`gu5 ien3` <sup>[如东]</sup> 满足某种欲望：喝杯酒，让你～。  
-1. 【[过瘾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_ien.md#过瘾)】`gu5 ien3` <small>/kɤɯ5 iŋ3/<sup>泰兴</sup></small> 满足某种特别深的癖好。<sup>\[泰兴\]</sup>  
+1. 【[过瘾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_ien.md#过瘾)】`gu5 ien3` <small>/kɤɯ5 iŋ3/<sup>泰兴</sup></small> 满足嗜好<sup>\[如东\]</sup><sup>\[泰兴\]</sup>：喝杯酒，让你～。<sup>\[如东\]</sup>  
 1. 【[过言](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_in.md#过言)】`gu5 in2` <small>/kʊ5 ĩ2/<sup>如皋</sup></small> ① 传话。<sup>\[如东\]</sup>：请不要～。<sup>\[如东\]</sup> ② 传话、传扬开来<sup>\[如皋\]</sup>：我哪许说哪许消，大家总不～。<sup>\[如皋\]</sup>  
-1. 【[过继](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_ji.md#过继)】`gu5 ji5` <sup>[如东]</sup> 宗法制度下，自己的儿子送给亲兄弟、堂兄弟做儿子，或者把亲兄弟、堂兄弟的儿子收养为自己的儿子，称过继。  
-1. 【[过继](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_ji.md#过继)】`gu5 ji5` <small>/kɤɯ5 t͡ɕʝ5/<sup>泰兴</sup></small> 承嗣。<sup>\[泰兴\]</sup>  
+1. 【[过继](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_ji.md#过继)】`gu5 ji5` <small>/kɤɯ5 t͡ɕʝ5/<sup>泰兴</sup></small> ① 宗法制度下，自己的儿子送给亲兄弟、堂兄弟做儿子，或者把亲兄弟、堂兄弟的儿子收养为自己的儿子，称过继。<sup>\[如东\]</sup> ② 承嗣。<sup>\[泰兴\]</sup>  
 1. 【[过酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_jieu.md#过酒)】`gu5 jieu3` <small>/kʊ5 t͡ɕyʊ3/<sup>如皋</sup></small> ① 用菜喝酒。<sup>\[如东\]</sup>：烧点儿菜～。<sup>\[如东\]</sup> ② 吃菜肴以下酒。<sup>\[如皋\]</sup>  
 1. 【[过节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_jih.md#过节)】`gu5 jih` <sup>[兴化]</sup> ① 待人接物应有的礼数和手续：这位局长最讲究下属这些小的～。 ② 嫌隙：他俫过去有点儿～。  
 1. 【[过节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_jih.md#过节)】`gu5 jih7` <small>/kɤɯ5 t͡ɕiʔ7/<sup>泰兴</sup></small> ① 嫌隙<sup>\[泰兴\]</sup> ② 称度过一年中的四时八节<sup>\[泰兴\]</sup>  
 1. 【[过槛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_kaen.md#过槛)】`gu5 kaen3` <sup>[如皋]</sup> ① 合格通过。 ② 上人死在外，遗体进家时，孝子伏槛，使从背上过。据说死者可免过槛之苦。  
 1. 【[过刻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_keh_r.md#过刻<sub>儿</sub>)】`gu5 keh9 r` <small>/kʊ5 kʰə˞9/<sup>如皋</sup></small> ① 过一会儿。<sup>\[如东\]</sup>：～就来。<sup>\[如东\]</sup> ② 过一会儿。<sup>\[如皋\]</sup>  
 1. 【[过口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_keu.md#过口)】`gu5 keu3` <small>/ko5 kʰɤ3/<sup>兴化</sup>, /kʊ5 kʰei3/<sup>如皋</sup>, /kɤɯ5 kʰəɪ3/<sup>泰兴</sup></small> ① 用以润口或冲淡因吃食物等口中留下的异味<sup>\[如皋\]</sup>：吃丸药用黄酒～；吃点心用茶～。<sup>\[如皋\]</sup> ② 吃过药喝一点开水冲淡口中苦味。<sup>\[兴化\]</sup> ③ 以食物下酒<sup>\[兴化\]</sup>：“大娘子，我从来吃不得寡酒，你再切些肉来与我～。”（《水浒传》二七）<sup>\[兴化\]</sup> ④ 食物经过口中，即进食。<sup>\[泰州\]</sup> ⑤ 通过进食清淡食物弱化口中因喝酒或吃辛辣食物所产生的麻人感觉<sup>\[泰州\]</sup>：他不曾喝过白酒，快点儿搛块肥肉把他～。<sup>\[泰州\]</sup> ⑥ 通过吃咸小菜弱化口中因进食白饭白粥所产生的无味感觉<sup>\[泰州\]</sup>：他这两天发热，嘴里没味，光吃白粥不行，你弄点儿榨菜把他～。<sup>\[泰州\]</sup> ⑦ 通过吃糖或者甜食弱化口中因吃药产生的苦涩感觉<sup>\[泰州\]</sup>：这个中药太苦啊唻，难喝煞咖唻，你弄点儿白糖把他～。<sup>\[泰州\]</sup> ⑧ 饭后饮茶汤曰过口。泛指食用。<sup>\[泰兴\]</sup>  
-1. 【[过来人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_lae_ren.md#过来人)】`gu5 lae ren2` <sup>[泰州]</sup> ① 对某事有亲身经历和体验的人：我在这个厂里蹾啊十来年，听我～一句话不会错的。 ② 特指有过性经历的人。  
-1. 【[过来人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_lae_ren.md#过来人)】`gu5 lae ren2` <small>/kɤɯ5 lɛ ɻəŋ2/<sup>泰兴</sup></small> 对某事曾经有过亲身经历和体验的人。古云：“要知山下事，请问过来人。”<sup>\[泰兴\]</sup>  
+1. 【[过来人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_lae_ren.md#过来人)】`gu5 lae ren2` <small>/kɤɯ5 lɛ ɻəŋ2/<sup>泰兴</sup></small> ① 对某事有亲身经历和体验的人<sup>\[泰州\]</sup>：我在这个厂里蹾啊十来年，听我～一句话不会错的。<sup>\[泰州\]</sup> ② 特指有过性经历的人。<sup>\[泰州\]</sup> ③ 对某事曾经有过亲身经历和体验的人。古云：“要知山下事，请问过来人。”<sup>\[泰兴\]</sup>  
 1. 【[过来人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_lae_ren.md#过来人)】`gu5 lae2 ren2` <sup>[如东]</sup> 已经历过某些事情的人。  
 1. 【[过两天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_laen_tin.md#过两天)】`gu5 laen3 tin1` <sup>[如东]</sup> ① 第三天：～我把钱还给你。 ② 几天以后。  
 1. 【[过漏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_leu.md#过漏)】`gu5 leu6` <sup>[兴化]</sup> 房檐下集雨的槽，由铁皮或木板制成，一头连着管子，将水接到地上，流入下水道。  
@@ -1185,15 +1179,13 @@
 1. 【[过霤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_lieu.md#过霤)】`gu5 lieu` <small>/kʊ5 lyʊ/<sup>如皋</sup></small> ① 吊在屋檐下面接水的一种装置，长条形，中间有槽，竹制、木制或铁制。<sup>\[如东\]</sup> ② 檐下承水槽。<sup>\[如皋\]</sup>  
 1. 【[过了这个村，就没得那个店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_lio_zha_gu_cuen_qieu_meh_deh_lu_gu_din.md#过了这个村，就没得那个店)】`gu5 lio3 zha5 gu cuen1 qieu6 meh8 deh7 lu5 gu din5` <sup>[东台]</sup> 某种机遇失去了就不再来。  
 1. 【[过龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_lon.md#过龙)】`gu5 lon2` <sup>[兴化]</sup> ① 暗中转移财物：账上的钱已经捱他～走啊。 ② 暗中经手钱财往来：张康生世事熟透，便寻个巡道梯己～之人，与他暗中打个关节……（《二刻》四）  
-1. 【[过路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_lv.md#过路)】`gu5 lv6` <sup>[如东]</sup> 通过道路。  
-1. 【[过路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_lv.md#过路)】`gu5 lv6` <small>/kɤɯ5 lu1/<sup>泰兴</sup></small> 行程中经过某地。<sup>\[泰兴\]</sup>  
+1. 【[过路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_lv.md#过路)】`gu5 lv6` <small>/kɤɯ5 lu1/<sup>泰兴</sup></small> ① 通过道路。<sup>\[如东\]</sup> ② 行程中经过某地。<sup>\[泰兴\]</sup>  
 1. 【[过路的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_lv_dii.md#过路的)】`gu5 lv6 dii` <sup>[如东]</sup> 由此经过的行人：他是～。  
 1. 【[过忙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_man.md#过忙)】`gu5 man2` <sup>[如东]</sup> ① 十分忙碌。 ② 经过忙碌的时候，主要指农业收种季节。  
 1. 【[过门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_men.md#过门)】`gu5 men2` <small>/ko5 mən2/<sup>兴化</sup>, /kɤɯ5 məŋ2/<sup>泰兴</sup></small> ① 新媳妇进门。<sup>\[东台\]</sup> ② ［喻］摆脱干系。<sup>\[东台\]</sup> ③ ［喻］以歌曲非歌唱部分喻指过渡性行为<sup>\[东台\]</sup>：不要急，让人家寻个～。<sup>\[东台\]</sup> ④ 用言语、表情或动作掩饰窘态，渡过难关<sup>\[兴化\]</sup>：打～<sup>\[兴化\]</sup>｜“如今紧急，柏爷要救也来不及了，而且沈府作对，不得～……”（《粉妆楼》六三）<sup>\[兴化\]</sup> ⑤ 女子嫁到男家，或者男子入赘女家<sup>\[泰州\]</sup>：他家姑娘有啊人家，就是还不曾～。<sup>\[泰州\]</sup> ⑥ 通过关口，指达到一定标准或者要求以后获得通过或者认可<sup>\[泰州\]</sup>：这件事你不请他弄一顿，怕的不得～。<sup>\[泰州\]</sup> ⑦ 唱歌之前或者上段歌词唱完之后、下段歌词演唱之前，乐队演奏的一段曲子<sup>\[泰州\]</sup>：等她拉过一段～以后，你就开始唱。<sup>\[泰州\]</sup> ⑧ 指事件发展过程当中，采取一个与目标关系不大的举措来缓冲、过度，由此达到转移视线的目的<sup>\[泰州\]</sup>：A同B说C家里的事，C走过来啊，A不晓得，还继续说。B望见吖C，连忙同C打个～大声说：“C，你来啊啦，刚才处长找你的。”A这个时候才晓得咖，刹住话头。<sup>\[泰州\]</sup> ⑨ 对话过程中插一段与主题关系不大的话进行铺垫、过度，逐渐进入谈话主题<sup>\[泰州\]</sup>：弄到临了你是来跟我来局里借人的啊，你要借人就直接说唻，弄这些～做甚的㖸。<sup>\[泰州\]</sup> ⑩ 女孩出嫁。<sup>\[泰兴\]</sup> ⑪ 歌曲中起承前启后作用的只用器乐演奏的一段曲子。<sup>\[泰兴\]</sup>  
 1. 【[过冥寿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_mien_sheu.md#过冥寿)】`gu5 mien2 sheu6` <sup>[如皋]</sup> 为死者计龄并祝寿：他父亲是58岁死的，今年子过80冥寿。  
 1. 【[过年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_nin.md#过年)】`gu5 nin2` <sup>[如东]</sup> ① 阴历十二月二十九日或三十日，旧年结束，新年开始，称过年。全家人团聚，举办宴请活动，表示喜庆。 ② 明年：～再去。  
-1. 【[过七](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_qieh.md#过七)】`gu5 qieh7` <sup>[如皋]</sup> 人初丧，每七日为一个“七”，祭祀。凡七七四十九日，祭七次。称头七、二七、六七、终七。  
-1. 【[过七](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_qieh.md#过七)】`gu5 qieh7` <small>/kɤɯ5 t͡ɕʰiəʔ7/<sup>泰兴</sup></small> 旧俗人死后每七天举行一次吊祭仪式，曰“过七”。<sup>\[泰兴\]</sup>  
+1. 【[过七](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_qieh.md#过七)】`gu5 qieh7` <small>/kʊ5 t͡ɕʰiəʔ7/<sup>如皋</sup>, /kɤɯ5 t͡ɕʰiəʔ7/<sup>泰兴</sup></small> ① 人初丧，每七日为一个“七”，祭祀。凡七七四十九日，祭七次。称头七、二七、六七、终七。<sup>\[如皋\]</sup> ② 旧俗人死后每七天举行一次吊祭仪式，曰“过七”。<sup>\[泰兴\]</sup>  
 1. 【[过桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_qio.md#过桥)】`gu5 qio2` <small>/ko5 t͡ɕʰiɔ2/<sup>兴化</sup>, /kʊ5 t͡ɕʰiɔ2/<sup>如皋</sup>, /kɤɯ5 t͡ɕʰiɔ2/<sup>泰兴</sup></small> ① 煮熟的面条，一经捞起即浸入冷水中，中止后熟过程。吃时再下沸水烫。这一过程称为～。同“盘水”。<sup>\[如皋\]</sup> ② 一种烹饪方法<sup>\[兴化\]</sup>：将在清水中煮熟的食物捞起后放入另配的汤料<sup>\[兴化\]</sup>｜～面。<sup>\[兴化\]</sup> ③ 在饮酒的间隙吃菜。<sup>\[兴化\]</sup> ④ 通过桥梁。<sup>\[泰州\]</sup> ⑤ 指通过吃菜减轻酒精对口腔内壁和舌头的辛辣刺激<sup>\[泰州\]</sup>：你这格局喝酒，不～不行，弄筷儿菜吧。<sup>\[泰州\]</sup> ⑥ 饮酒时吃菜曰过桥。<sup>\[泰兴\]</sup>  
 1. 【[过去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_qy.md#过去)】`gu5 qy5` <sup>[如东]</sup> ① 从前：～就存在。 ② 死亡：他已经～啊。  
 1. 【[过去啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_qy_a.md#过去啊)】`gu5 qy5 a` <sup>[如皋]</sup> 讳指死了。  
@@ -1208,18 +1200,15 @@
 1. 【[过手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_sheu.md#过手)】`gu5 sheu3` <sup>[如东]</sup> 经手：这些布料都经她～。  
 1. 【[过手快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_sheu_kuae.md#过手快)】`gu5 sheu3 kuae5` <sup>[兴化]</sup> 从商品的快进快销中获利：前儿从山东进的二百吨水泥，捱一个建筑工地整卸，～弄吖五千多。  
 1. 【[过时节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_shr_jih.md#过时节)】`gu5 shr2 jih` <sup>[兴化]</sup> ① 交节令：他这个老痰瘾，～就要发作。 ② 过节日。  
-1. 【[过世](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_shr.md#过世)】`gu5 shr5` <sup>[如东]</sup> 死亡。  
-1. 【[过世](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_shr.md#过世)】`gu5 shr5` <small>/kɤɯ5 sɿ5/<sup>泰兴</sup></small> 去世。死的别称。<sup>\[泰兴\]</sup>  
+1. 【[过世](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_shr.md#过世)】`gu5 shr5` <small>/kɤɯ5 sɿ5/<sup>泰兴</sup></small> 死亡，去世<sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
 1. 【[过水槽<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_shuei_co_r.md#过水槽<sub>儿</sub>)】`gu5 shuei3 co2 r` <sup>[如皋]</sup> 旧时用水车戽水灌溉常见的经其它田边的引水槽。  
 1. 【[过数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_shv.md#过数)】`gu5 shv5` 点数（钱物等的）数目<sup>\[泰州\]</sup>：钱我过过数唻，不错。<sup>\[泰州\]</sup>  
 1. 【[过宿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_soh.md#过宿)】`gu5 soh7` <small>/ko5 sɔʔ7/<sup>兴化</sup>, /kʊ5 sɔʔ7/<sup>如皋</sup></small> 过夜，住宿，睡。<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：月朗让卧房与李甲杜嫩二人～。（《警世通言》三二）<sup>\[兴化\]</sup>｜从此以后，她才注意到金家福是个“有钱不～，有米不煮粥”的户头。（马春阳《访亲》）<sup>\[兴化\]</sup>｜明吖早上省里开会，晚上我俫上南京～。<sup>\[泰州\]</sup>  
 1. 【[过汤面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_tan_min.md#过汤面)】`gu5 tan1 min6` <sup>[如皋]</sup> 碗中加汤的面条儿。  
-1. 【[过堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_tan.md#过堂)】`gu5 tan2` <sup>[东台]</sup> 旧时诉讼当事人到公堂上受审，现在喻指上级机关审查通过有关计划或文稿。  
-1. 【[过堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_tan.md#过堂)】`gu5 tan2` <small>/kɤɯ5 tʰɑŋ2/<sup>泰兴</sup></small> 谓对被检查的对象或资料逐一审视、检验。<sup>\[泰兴\]</sup>  
+1. 【[过堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_tan.md#过堂)】`gu5 tan2` <small>/kɤɯ5 tʰɑŋ2/<sup>泰兴</sup></small> ① 旧时诉讼当事人到公堂上受审，现在喻指上级机关审查通过有关计划或文稿。<sup>\[东台\]</sup> ② 谓对被检查的对象或资料逐一审视、检验。<sup>\[泰兴\]</sup>  
 1. 【[过头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_teu.md#过头)】`gu5 teu2` <sup>[泰州]</sup> 生活的价值意义：天天受你的气，这种日子没得～。  
 1. 【[过天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_tin.md#过天)】`gu5 tin1` <small>/ko5 tʰiɪ̃1/<sup>兴化</sup>, /kʊ5 tʰĩ1/<sup>如皋</sup>, /kɤɯ5 tʰĩ1/<sup>泰兴</sup></small> ① 改日。<sup>\[如皋\]</sup> ② 做一天客<sup>\[兴化\]</sup>：请你到我家～。<sup>\[兴化\]</sup> ③ 改一天<sup>\[兴化\]</sup>：“今天要拜客，～再扰罢。”（《官场现形记》二四）<sup>\[兴化\]</sup> ④ 让几天，隔天。<sup>\[泰兴\]</sup>：箇桩事～再说吧。<sup>\[泰兴\]</sup>  
-1. 【[过道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_to.md#过道)】`gu5 to` <sup>[如皋]</sup> 有通道的房屋：旧时乡村中虽则是住草屋，也有前～后堂屋，前后两进，一个小院子。  
-1. 【[过道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_to.md#过道)】`gu5 to` <small>/kɤɯ5 tʰɔ/<sup>泰兴</sup></small> 可以通行的房或墻内的狭路。用以连通多个院子的一间屋子。<sup>\[泰兴\]</sup>  
+1. 【[过道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_to.md#过道)】`gu5 to` <small>/kʊ5 tʰɔ/<sup>如皋</sup>, /kɤɯ5 tʰɔ/<sup>泰兴</sup></small> ① 有通道的房屋<sup>\[如皋\]</sup>：旧时乡村中虽则是住草屋，也有前～后堂屋，前后两进，一个小院子。<sup>\[如皋\]</sup> ② 可以通行的房或墻内的狭路。用以连通多个院子的一间屋子。<sup>\[泰兴\]</sup>  
 1. 【[过道家里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_to_ga_lii.md#过道家里)】`gu5 to ga1 lii` <sup>[如皋]</sup> 有通道的房屋。  
 1. 【[过道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_to.md#过道)】`gu5 to6` <sup>[如东]</sup> 两屋之间上面有顶的通道，称过道。  
 1. 【[过问](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_ven.md#过问)】`gu5 ven` <small>/kɤɯ5 ʋəŋ/<sup>泰兴</sup></small> 查问，查询。对某事表示关注并参加意见。<sup>\[泰兴\]</sup>：他的事我从来不～<sup>\[泰兴\]</sup>  
@@ -1492,8 +1481,7 @@
 1. 【[光光打滑身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_guan_da_vaeh.md#光光打滑身)】`guan1 guan1 da3 vaeh8 shen1` <small>/kuɑŋ1 kuɑŋ1 tɑ3 ʋæʔ8 səŋ1/<sup>泰兴</sup></small> 只有一个人，没有任何牵挂。<sup>\[泰兴\]</sup>：他反正～，什的总不愁。<sup>\[泰兴\]</sup>  
 1. 【[光光的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_guan_dii.md#光光的)】`guan1 guan1 dii` <sup>[如皋]</sup> 精光，完全没有了。又作“精打光”，“光打光”“光吖”。  
 1. 【[光光滑条子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_guan_huaeh_tio_zz.md#光光滑条子)】`guan1 guan1 huaeh8 tio2 zz` <sup>[泰县]</sup> 无牵挂的人。  
-1. 【[光光堂<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_guan_tan_r.md#光光堂<sub>儿</sub>)】`guan1 guan1 tan2 r` <sup>[东台]</sup> 光棍，指没有娶妻的男子。  
-1. 【[光光堂<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_guan_tan_r.md#光光堂<sub>儿</sub>)】`guan1 guan1 tan2 r` <small>/kuɑŋ1 kuɑŋ1 tʰɑ˞2/<sup>泰兴</sup></small> 没有妻子的单身汉<sup>\[泰兴\]</sup>：～油炒饭，一吃门一关。<sup>\[泰兴\]</sup>  
+1. 【[光光堂<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_guan_tan_r.md#光光堂<sub>儿</sub>)】`guan1 guan1 tan2 r` <small>/kuɑŋ1 kuɑŋ1 tʰɑ˞2/<sup>泰兴</sup></small> ① 光棍，指没有娶妻的男子。<sup>\[东台\]</sup> ② 没有妻子的单身汉<sup>\[泰兴\]</sup>：～油炒饭，一吃门一关。<sup>\[泰兴\]</sup>  
 1. 【[光光堂堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_guan_tan_tan.md#光光堂堂)】`guan1 guan1 tan2 tan2` <sup>[如皋]</sup> 见“光堂”。  
 1. 【[光棍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_guen.md#光棍)】`guan1 guen5` <small>/kuaŋ1 kuən5/<sup>兴化</sup></small> ① 没有娶妻的男子。<sup>\[如东\]</sup> ② 地痞、流氓<sup>\[兴化\]</sup>：三等打手都是～青皮一流人物。（《四杰传》三四）<sup>\[兴化\]</sup> ③ 所谓识时务的人<sup>\[兴化\]</sup>：～不吃眼前亏。<sup>\[兴化\]</sup>｜～打九九，不打加一。<sup>\[兴化\]</sup>  
 1. 【[光棍打九九，不能打加一](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_guen_da_jieu_jieu_beh_nen_da_jia_ieh.md#光棍打九九，不能打加一)】`guan1 guen5 da3 jieu3 jieu3 beh7 nen2 da3 jia1 ieh7` <sup>[东台]</sup> （俗语）做事要掌握分寸，不能超过限度。  
@@ -1510,8 +1498,7 @@
 1. 【[光𣝗髅<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_hueh_leu_r.md#光𣝗髅<sub>儿</sub>)】`guan1 hueh8 leu2 r` <sup>[如东]</sup> ① 头上没有头发。 ② 不戴帽子：太阳箇们大，你还～！  
 1. 【[光葫芦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_hv_lv.md#光葫芦)】`guan1 hv2 lv2` <sup>[泰州]</sup> 比喻剃光、掉光头发的脑袋：他化疗药吃咖多啊，一头乌发成啊～。  
 1. 【[光脚丫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_jiah_nga_r.md#光脚丫<sub>儿</sub>)】`guan1 jiah7 nga1 r` <sup>[如东]</sup> 赤脚。  
-1. 【[光景](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_jien.md#光景)】`guan1 jien3` <sup>[如东]</sup> 事物的样子或状态。  
-1. 【[光景](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_jien.md#光景)】`guan1 jien3` <small>/kuɑŋ1 t͡ɕiŋ3/<sup>泰兴</sup></small> 情况，景况。<sup>\[泰兴\]</sup>  
+1. 【[光景](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_jien.md#光景)】`guan1 jien3` <small>/kuɑŋ1 t͡ɕiŋ3/<sup>泰兴</sup></small> ① 事物的样子或状态。<sup>\[如东\]</sup> ② 情况，景况。<sup>\[泰兴\]</sup>  
 1. 【[光拉巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_la_ba.md#光拉巴)】`guan1 la ba1` <sup>[兴化]</sup> 裸露着上身：他连汗衫也不穿，～的就往街上跑。‖也说“光巴巴”。  
 1. 【[光拉巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_la_ba.md#光拉巴)】`guan1 la1 ba1` <sup>[东台]</sup> 浑身裸露，一丝不挂。喻指一无所有无牵挂，不在乎。也作“光裸巴”。  
 1. 【[光榔头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_lan_teu.md#光榔头)】`guan1 lan2 teu2` 秃头，光头。  
@@ -1530,8 +1517,7 @@
 1. 【[光身子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_shen_zz.md#光身子)】`guan1 shen1 zz` <small>/kuaŋ1 sən1 t͡sɿ/<sup>兴化</sup></small> ① 裸露着身体。<sup>\[东台\]</sup> ② 赤膊。<sup>\[兴化\]</sup> ③ 也指单身一人<sup>\[兴化\]</sup>：“我在任上，金兵杀来，只走得一个～，家里并无积蓄……”（《水浒后传》二九）<sup>\[兴化\]</sup> ④ 除了身上衣服，什么钱物也没有带的人<sup>\[泰州\]</sup>：多有个多，少有个少，哪有嫁姑娘一样都不陪的，你不好让你家姑娘～到人家去。<sup>\[泰州\]</sup> ⑤ 全身或者上身未穿衣服的人<sup>\[泰州\]</sup>：身上套件衣裳再出去，就这格局～出去，太不像话唻。<sup>\[泰州\]</sup>｜他天天脱咖光吖～睡觉，连个裤头儿都不穿。<sup>\[泰州\]</sup>  
 1. 【[光蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_taen.md#光蛋)】`guan1 taen6` <sup>[泰州]</sup> 一无所有的流氓无赖之徒：他是这条街上出咖名的～。  
 1. 【[光堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_tan.md#光堂)】`guan1 tan2` <small>/kuã1 tʰã2/<sup>如皋</sup></small> ① 清爽。<sup>\[如东\]</sup>：屋子里收拾咖～。<sup>\[如东\]</sup> ② 漂亮。<sup>\[如东\]</sup>：这吖打扮，看上去～。<sup>\[如东\]</sup> ③ 光滑<sup>\[如皋\]</sup>：红木桌子，手摸上去，块块～。<sup>\[如皋\]</sup> ④ 明亮<sup>\[如皋\]</sup>：他家客堂间里多～吖！<sup>\[如皋\]</sup> ⑤ 同“光妙”。（完美、巧妙，无遗留问题。）<sup>\[如皋\]</sup>  
-1. 【[光头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_teu.md#光头)】`guan1 teu2` <sup>[东台]</sup> ① 一丝毛发也不留。 ② ［喻］什么成绩都没有。  
-1. 【[光头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_teu.md#光头)】`guan1 teu2` <small>/kuɑŋ1 tʰəɪ2/<sup>泰兴</sup></small> 谓人头上无发。<sup>\[泰兴\]</sup>  
+1. 【[光头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_teu.md#光头)】`guan1 teu2` <small>/kuɑŋ1 tʰəɪ2/<sup>泰兴</sup></small> ① 一丝毛发也不留。<sup>\[东台\]</sup> ② ［喻］什么成绩都没有。<sup>\[东台\]</sup> ③ 谓人头上无发。<sup>\[泰兴\]</sup>  
 1. 【[光秃秃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_toh_toh.md#光秃秃)】`guan1 toh7 toh7` <sup>[东台]</sup> 什么也没有：这块盐碱地～的，甚的都长不起来。  
 1. 【[光秃子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_toh_zz.md#光秃子)】`guan1 toh7 zz` <sup>[东台]</sup> 头发很少的人（病态）。  
 1. 【[广字头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_cz_teu_r.md#广字头<sub>儿</sub>)】`guan3 cz6 teu2 r` <sup>[如皋]</sup> （广）：庄店度。  
@@ -1768,6 +1754,7 @@
 1. 【[佮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh.md#佮)】`guh7` <small>/kuʔ7/<sup>兴化</sup>, /kʊʔ7/<sup>如皋</sup>, /kʊʔ7/<sup>泰兴</sup>, /kʊʔ7/<sup>泰县</sup></small> ① 共享；共用；共奉<sup>\[如皋\]</sup><sup>\[泰兴\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：～用、～吃、～养上人。<sup>\[如皋\]</sup>｜你俫两个人～用一本书。<sup>\[泰县\]</sup>｜两个人～睏一张床。<sup>\[泰州\]</sup>｜车子大家～用。<sup>\[泰州\]</sup> ② 缝合<sup>\[如皋\]</sup>：～缝。<sup>\[如皋\]</sup> ③ 结交，如皋词典作“搿”<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：两家～得好。<sup>\[如皋\]</sup> ④ 合伙、合资、合作<sup>\[兴化\]</sup>：～做生意；～赌钱；～养性命。<sup>\[兴化\]</sup>｜～起来养鱼。<sup>\[兴化\]</sup> ⑤ 把多股纱线捻合成较粗的线<sup>\[兴化\]</sup>：～线。<sup>\[兴化\]</sup> ⑥ 按配方将多味中草药一起碾碎，制成药丸<sup>\[兴化\]</sup>：～一副丸药。<sup>\[兴化\]</sup> ⑦ 按方配合化学药剂<sup>\[兴化\]</sup>：“我家铎头平生最好弄火药，他也会～……”（《梼杌闲评》十四）<sup>\[兴化\]</sup> ⑧ 一升的十分之一<sup>\[泰兴\]</sup>：七～头的升子八～头的命，有了九～就生病。<sup>\[泰兴\]</sup> ⑨ 制作<sup>\[泰兴\]</sup>：～釜冠<sup>\[泰兴\]</sup>｜～箱子<sup>\[泰兴\]</sup>  
 1. 【[佮把子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_ba_zz.md#佮把子)】`guh7 ba3 zz` <sup>[泰州]</sup> 本指武打演员兵器道具对打之时，动作配合协调，比喻共事的人脾气、性格、志趣相近，相处融洽：他俫两个都是厚道人，在一起儿工作倒是蛮～的。｜这两个人不～，蹾住块儿弄不好。  
 1. 【[佮穿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_chun.md#佮穿)】`guh7 chun1` <sup>[泰州]</sup> 多个人轮流穿一件衣服或者一双鞋子、袜子：小时候家里穷，我俫弟兄～一双球鞋，我同你家叔叔一递一个星期穿。  
+1. 【[佮穿条裤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_chun_tio_kv.md#佮穿条裤子)】`guh7 chun1 tio9 kv5 zz` <small>/kʊʔ7 t͡sʰʊ̃1 tʰiɔ9 kʰu5 t͡sɿ/<sup>泰兴</sup></small> 谓两人关系极为亲密。<sup>\[泰兴\]</sup>  
 1. 【[佮得来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_deh_lae.md#佮得来)】`guh7 deh7 lae2` <sup>[如皋]</sup> 协作得好：双方的脾气～。  
 1. 【[佮兜宝<sub>儿</sub>用钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_deu_bo_r_ion_qin.md#佮兜宝<sub>儿</sub>用钱)】`guh7 deu1 bo3 r ion6 qin2` <sup>[如皋]</sup> 共在一个兜包儿里用钱。状关系极融洽。  
 1. 【[佮的一副脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_dii_ieh_fv_lin.md#佮的一副脸)】`guh7 dii ieh7 fv5 lin3` <sup>[东台]</sup> 同一副面子，荣辱与共。  
@@ -1793,8 +1780,7 @@
 1. 【[佮山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_shaen.md#佮山)】`guh7 shaen1` <sup>[东台]</sup> 相邻的两户山墙贴在一起砌成，合用屋山尖，称之为～。  
 1. 【[佮少凑多](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_sho_ceu_du.md#佮少凑多)】`guh7 sho3 ceu5 du1` <sup>[兴化]</sup> 积少成多：你一点，我一点，～呀！  
 1. 【[佮睡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_shuei.md#佮睡)】`guh7 shuei5` <sup>[泰州]</sup> 两个人在一张铺上睡。  
-1. 【[佮算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_sun.md#佮算)】`guh7 sun5` <sup>[东台]</sup> 划得来，划算，也说合点。  
-1. 【[佮算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_sun.md#佮算)】`guh7 sun5` <small>/kʊʔ7 sʊ̃5/<sup>泰兴</sup></small> 划算，划得来。<sup>\[泰兴\]</sup>  
+1. 【[佮算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_sun.md#佮算)】`guh7 sun5` <small>/kʊʔ7 sʊ̃5/<sup>泰兴</sup></small> 划算，划得来。<sup>\[泰兴\]</sup>\[东台：也说合点。\]  
 1. 【[佮袋子用钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_tae_zz_ion_qin.md#佮袋子用钱)】`guh7 tae6 zz ion6 qin2` <sup>[兴化]</sup> 形容二人感情好，在钱财上不分你我。也作“佮兜子用钱”。  
 1. 【[佮趟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_tan.md#佮趟)】`guh7 tan5` <sup>[兴化]</sup> 合群：新买来的鸭子不～。｜他生性孤傲，跟大家不～。  
 1. 【[佮头之交](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_teu_zhr_jio.md#佮头之交)】`guh7 teu2 zhr1 jio1` <sup>[东台]</sup> 形容像合一个脑袋般的亲密无间。  

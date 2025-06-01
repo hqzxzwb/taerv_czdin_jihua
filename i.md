@@ -164,7 +164,7 @@
 1. 【[爷儿两个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_er_laen_gu.md#爷儿两个)】`ia2 er laen3 gu` <sup>[东台]</sup> 爷儿俩，即父子或父亲和女儿两人。（这里爷不是指祖父）  
 1. 【[爷儿门里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_er_men_lii.md#爷儿门里)】`ia2 er2 men2 lii` <sup>[如皋]</sup> 父亲与子女的关系称。  
 1. 【[爷狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_geu.md#爷狗)】`ia2 geu3` <sup>[如东]</sup> 公狗。  
-1. 【[爷爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_ia.md#爷爷)】`ia2 ia` <small>/ia2 ia/<sup>兴化</sup>, /ia2 ia/<sup>泰县</sup></small> ① 叔叔，父亲的弟弟 ② 叔叔，父亲的弟弟<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup>：二～<sup>\[东台\]</sup>｜小～。<sup>\[东台\]</sup> ③ 姑母（父之妹）。<sup>\[兴化\]</sup>  
+1. 【[爷爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_ia.md#爷爷)】`ia2 ia` <small>/ia2 ia/<sup>兴化</sup>, /iɑ2 iɑ/<sup>泰兴</sup>, /ia2 ia/<sup>泰县</sup></small> ① 叔叔，父亲的弟弟 ② 叔叔，父亲的弟弟<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>：二～<sup>\[东台\]</sup>｜小～。<sup>\[东台\]</sup> ③ 姑母（父之妹）。<sup>\[兴化\]</sup>  
 1. 【[爷老子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_lo_zz.md#爷老子)】`ia2 lo3 zz` <sup>[如东]</sup> ① 指父亲：他是你的～。 ② 对小儿的称呼，含有批评和疼爱的意思：你这个～，我真拿你没有办法。  
 1. 【[爷娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_nian.md#爷娘)】`ia2 nian` 父母  
 1. 【[爷娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_nian.md#爷娘)】`ia2 nian2` <small>/ia2 liaŋ2/<sup>兴化</sup></small> ① 父母。<sup>\[如东\]</sup><sup>\[兴化\]</sup> ② 娘家<sup>\[兴化\]</sup>：侄子是～家人。<sup>\[兴化\]</sup>｜谚曰：爷有娘有，不如已有。<sup>\[兴化\]</sup>  
@@ -172,6 +172,8 @@
 1. 【[爷娘家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_nian_ga.md#爷娘家)】`ia2 nian2 ga` <small>/ia2 niã2 ka/<sup>如皋</sup>, /iɑ2 niɑŋ2 kɑ/<sup>泰兴</sup>, /ia2 niɑŋ2 ka/<sup>泰县</sup></small> 出室女称生父母家。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup><sup>\[泰县\]</sup>  
 1. 【[爷<sub>儿</sub>两个吃咖升半䜺<sub>儿</sub>——有账算账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_r_laen_gu.md#爷<sub>儿</sub>两个吃咖升半䜺<sub>儿</sub>——有账算账)】`ia2 r laen3 gu qieh7 ga shen1 bun5 chae3 r ieu3 zhan5 sun5 zhan5` <sup>[东台]</sup>   
 1. 【[爷猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_zhv.md#爷猪)】`ia2 zhv1` <sup>[如东]</sup> 未骟的公猪。  
+1. 【[爷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_zz.md#爷子)】`ia2 zz` <small>/iɑ2 t͡sɿ/<sup>泰兴</sup></small> 丈夫；男人<sup>\[泰兴\]</sup>  
+1. 【[爷子有用嫲嫲能](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_zz_ieu_ion.md#爷子有用嫲嫲能)】`ia2 zz ieu3 ion6 ma3 ma nen2` <small>/iɑ2 t͡sɿ iɤɯ3 iɔŋ1 mɑ3 mɑ nəŋ2/<sup>泰兴</sup></small> 谓丈夫出人头地，老婆也就充能，显示威风。贬语。<sup>\[泰兴\]</sup>  
 1. 【[衙门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_men.md#衙门)】`ia2 men` <sup>[如东]</sup> 旧时官员办公的机关。  
 1. 【[雅趣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_qy.md#雅趣)】`ia2 qy` <sup>[兴化]</sup> 娇气：你真～，一点儿苦不能吃。  
 1. 【[雅序](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_xy.md#雅序)】`ia2 xy` <sup>[东台]</sup> ① （褒）清爽、整洁、高雅。 ② （贬）过分讲究衣着、起居，难伺候。（这里“雅”读阳平）  
@@ -338,8 +340,7 @@
 1. 【[扬而㗘之](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_er_pah_zhr.md#扬而㗘之)】`ian2 er2 pah7 zhr1` <sup>[泰州]</sup> 人说话随意轻浮：这小伙是个头号甩子，说话～的，没得点儿数，你不要睬他。  
 1. 【[扬风车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_fon_cha.md#扬风车)】`ian2 fon1 cha1` <sup>[泰县]</sup> 用风力提水的水车。  
 1. 【[扬𠵹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_gan.md#扬𠵹)】`ian2 gan1` <small>/iaŋ2 kaŋ1/<sup>兴化</sup>, /iã2 kã1/<sup>如皋</sup>, /iɑŋ2 kɑŋ1/<sup>泰县</sup></small> ① 造舆论、造气氛，扬言<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：他～要告你，这是讹诈，你不要买账。<sup>\[如皋\]</sup>｜那家伙不服管理，～还要闹事。<sup>\[东台\]</sup>｜老田～，这次不分房子把他，就找头头的麻烦。<sup>\[兴化\]</sup>｜他在～要打你啦。<sup>\[泰县\]</sup>｜他在外头～，哪个敢拆他房子他就同哪个拼命。<sup>\[泰州\]</sup>｜老头子～吖几回唻，哪个代他把二十万的债坏掉，就把姑娘把哪个。<sup>\[泰州\]</sup> ② 事前造的舆论。<sup>\[东台\]</sup>  
-1. 【[扬花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_hua.md#扬花)】`ian2 hua1` <sup>[如东]</sup> ① 植物放花受精。 ② 女人在外面的轻佻行为：她经常在外头～。  
-1. 【[扬花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_hua.md#扬花)】`ian2 hua1` <small>/iɑŋ2 xuɑ1/<sup>泰兴</sup></small> 水稻、小麦、高粱等作物开花时，柱头伸出，花粉飞散，称扬花。<sup>\[泰兴\]</sup>  
+1. 【[扬花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_hua.md#扬花)】`ian2 hua1` <small>/iɑŋ2 xuɑ1/<sup>泰兴</sup></small> ① 植物放花受精。<sup>\[如东\]</sup> ② 女人在外面的轻佻行为。<sup>\[如东\]</sup>：她经常在外头～。<sup>\[如东\]</sup> ③ 水稻、小麦、高粱等作物开花时，柱头伸出，花粉飞散，称扬花。<sup>\[泰兴\]</sup>  
 1. 【[扬一㧟二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ieh_kuae_er.md#扬一㧟二)】`ian2 ieh7 kuae3 er6` <sup>[泰州]</sup> 人在得意之极时的举止轻浮样子：你哿能好好的走路啊，这吖大的人唻，～的，人家望吖像个甚的样子。  
 1. 【[扬口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_keu.md#扬口)】`ian2 keu3` <sup>[东台]</sup> 贝类动物出水后开口，即外壳微微张开。  
 1. 【[扬麦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_moh.md#扬麦)】`ian2 moh8` <sup>[如东]</sup> 麦子打下来后，用畚箕畚着放在风中向下撒，把麦壳麦芒吹掉，这种劳动叫扬麦。  
@@ -1507,8 +1508,7 @@
 1. 【[有把酵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_ba_go.md#有把酵)】`ieu3 ba3 go5` <sup>[泰县]</sup> 钱多：他家里～唻。  
 1. 【[有把<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_ba_r.md#有把<sub>儿</sub>)】`ieu3 ba3 r` <sup>[如东]</sup> ① 比较多：这批货～哩。 ② 比较大：这个人的力气～哩。  
 1. 【[有把握](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_ba_vah.md#有把握)】`ieu3 ba3 vah7` <sup>[如皋]</sup> 有节制，不乱来：她过日子～，会过。  
-1. 【[有板有眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_baen_ieu_ngaen.md#有板有眼)】`ieu3 baen3 ieu3 ngaen3` <sup>[如皋]</sup> 状清楚有序，丝毫不乱。板、眼，打击乐奏出的节拍。  
-1. 【[有板有眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_baen_ieu_ngaen.md#有板有眼)】`ieu3 baen3 ieu3 ngaen3` <small>/iɤɯ3 pɛ̃3 iɤɯ3 ŋɛ̃3/<sup>泰兴</sup></small> 唱腔合乎节拍。言语行事有节奏，有条理。<sup>\[泰兴\]</sup>  
+1. 【[有板有眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_baen_ieu_ngaen.md#有板有眼)】`ieu3 baen3 ieu3 ngaen3` <small>/yʊ3 pẽ3 yʊ3 ŋẽ3/<sup>如皋</sup>, /iɤɯ3 pɛ̃3 iɤɯ3 ŋɛ̃3/<sup>泰兴</sup></small> ① 状清楚有序，丝毫不乱。板、眼，打击乐奏出的节拍。<sup>\[如皋\]</sup> ② 唱腔合乎节拍。言语行事有节奏，有条理。<sup>\[泰兴\]</sup>  
 1. 【[有贼心没贼胆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_ceh_xien_meh_ceh_daen.md#有贼心没贼胆)】`ieu3 ceh8 xien1 meh8 ceh8 daen3` <sup>[东台]</sup> 心里想做坏事，但又不敢。  
 1. 【[有处](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_chv.md#有处)】`ieu3 chv` 可以，能够：箇支笔～写的。｜哿～弄㗁？  
 1. 【[有草饿不煞牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_co_ngu_beh.md#有草饿不煞牛)】`ieu3 co3 ngu6 beh shaeh7 ngeu2` <small>/iɤɯ3 t͡sʰɔ3 ŋɤɯ1 pəʔ ɕiæʔ7 ŋəɪ2/<sup>泰兴</sup></small> 谓反正有充分的准备，不怕出问题。<sup>\[泰兴\]</sup>  
@@ -1542,11 +1542,9 @@
 1. 【[有约无请，混账透顶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_iah_v_qien_huen_zhan_teu_dien.md#有约无请，混账透顶)】`ieu3 iah7 v2 qien3 huen5 zhan5 teu5 dien3` <sup>[东台]</sup> 请客要先预约后再请，切不可约了不请。  
 1. 【[有一顿，没一顿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_ieh_den_meh_ieh_den.md#有一顿，没一顿)】`ieu3 ieh7 den5 meh8 ieh7 den5` <sup>[兴化]</sup> 生活窘迫，三餐不周：这种～的苦日子何时到头啊？  
 1. 【[有一节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_ieh_jih.md#有一节)】`ieu3 ieh7 jih7` <sup>[泰县]</sup> 有过隔阂：他俫关系不好，因为以前～。  
-1. 【[有一手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_ieh_sheu.md#有一手)】`ieu3 ieh7 sheu3` <sup>[如皋]</sup> 有专长。  
-1. 【[有一手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_ieh_sheu.md#有一手)】`ieu3 ieh7 sheu3` <small>/iɤɯ3 iʔ7 ɕiɤɯ3/<sup>泰兴</sup></small> 在某一方面本领很高，有丰富的经验。<sup>\[泰兴\]</sup>  
+1. 【[有一手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_ieh_sheu.md#有一手)】`ieu3 ieh7 sheu3` <small>/yʊ3 iəʔ7 sei3/<sup>如皋</sup>, /iɤɯ3 iʔ7 ɕiɤɯ3/<sup>泰兴</sup></small> ① 有专长。<sup>\[如皋\]</sup> ② 在某一方面本领很高，有丰富的经验。<sup>\[泰兴\]</sup>  
 1. 【[有荣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_ion.md#有荣)】`ieu3 ion2` <small>/iɤ3 ioŋ2/<sup>兴化</sup></small> ① 自己觉得光彩<sup>\[兴化\]</sup>：你考试不及格还～吖？<sup>\[兴化\]</sup>｜“你当他们害羞？他们还当作～呢……”（《八窍珠》九）<sup>\[兴化\]</sup> ② 反语，没有光荣，讥讽那些做错事、做坏事还感觉光荣的人<sup>\[泰州\]</sup>：几门功课不及格，告诵人家做甚的，怕的还～㖸？<sup>\[泰州\]</sup>｜上吖桌就同人家女的说荤话，自家还觉像～得很。<sup>\[泰州\]</sup>  
-1. 【[有借有还，再借不难](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_jia_ieu_huaen_zae_jia_beh_naen.md#有借有还，再借不难)】`ieu3 jia5 ieu3 huaen2 zae5 jia5 beh7 naen2` <sup>[东台]</sup> 诚信才能持续发展。  
-1. 【[有借有还，再借不难](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_jia_ieu_huaen_zae_jia_beh_naen.md#有借有还，再借不难)】`ieu3 jia5 ieu3 huaen2 zae5 jia5 beh7 naen2` <small>/iɤɯ3 t͡ɕiɑ5 iɤɯ3 xuɛ̃2 t͡ɕiɛ5 t͡ɕiɑ5 pəʔ7 nɛ̃2/<sup>泰兴</sup></small> 谓与人相处要守信用。<sup>\[泰兴\]</sup>  
+1. 【[有借有还，再借不难](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_jia_ieu_huaen_zae_jia_beh_naen.md#有借有还，再借不难)】`ieu3 jia5 ieu3 huaen2 zae5 jia5 beh7 naen2` <small>/iɤɯ3 t͡ɕiɑ5 iɤɯ3 xuɛ̃2 t͡ɕiɛ5 t͡ɕiɑ5 pəʔ7 nɛ̃2/<sup>泰兴</sup></small> ① 诚信才能持续发展。<sup>\[东台\]</sup> ② 谓与人相处要守信用。<sup>\[泰兴\]</sup>  
 1. 【[有津味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_jien_vei.md#有津味)】`ieu3 jien1 vei6` <sup>[如皋]</sup> ① 有香味，令人爱吃。 ② 有兴致：听得～。  
 1. 【[有筋韧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_jien_ren.md#有筋韧)】`ieu3 jien1 ren6` <sup>[如皋]</sup> 米食品耐嚼而不粘牙，口感好。另见“饪纠”。  
 1. 【[有教门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_jio_men.md#有教门)】`ieu3 jio5 men` <sup>[如皋]</sup> 有教养。教门，某种教会、门派，都有规矩、约束力。  
@@ -1554,8 +1552,7 @@
 1. 【[有口无心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_keu_v_xien.md#有口无心)】`ieu3 keu3 v2 xien1` <small>/iɤ3 kʰɤ3 u2 ɕin1/<sup>兴化</sup></small> ① 嘴上说的和心里想的并非一回事<sup>\[兴化\]</sup>：他就用那种飘满佛家香烟的调子唱男女苟且事。无精打采，～顺舌尖的意。（毕飞宇《慌乱的指头》）<sup>\[兴化\]</sup>｜“二哥，又怕你～哩！”（《金瓶梅词话》五七）<sup>\[兴化\]</sup> ② 嘴上虽然这样说了，心里并没有这样想<sup>\[泰州\]</sup>：他就是随便说说，～，你不要当做真的！<sup>\[泰州\]</sup>｜你不要望他嘴上说得凶，其实～，说出来吓吓你的！<sup>\[泰州\]</sup>  
 1. 【[有空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_kon.md#有空)】`ieu3 kon5` ① 有时间。<sup>\[如东\]</sup>：今朝～。<sup>\[如东\]</sup> ② 有了空闲时间<sup>\[泰州\]</sup>：你要是～就到泰州来玩两天。<sup>\[泰州\]</sup>  
 1. 【[有捆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_kuen_r.md#有捆<sub>儿</sub>)】`ieu3 kuen3 r` <sup>[如东]</sup> 很多：这批货有～。  
-1. 【[有来头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_lae_teu.md#有来头)】`ieu3 lae2 teu` <sup>[如东]</sup> 有势力，有靠山：这个人～。  
-1. 【[有来头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_lae_teu.md#有来头)】`ieu3 lae2 teu` <small>/iɤɯ3 lɛ2 tʰəɪ/<sup>泰兴</sup></small> 谓背后有大人物支撑或某件事的背景复杂、性质严重。<sup>\[泰兴\]</sup>  
+1. 【[有来头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_lae_teu.md#有来头)】`ieu3 lae2 teu` <small>/iɤɯ3 lɛ2 tʰəɪ/<sup>泰兴</sup></small> ① 有势力，有靠山。<sup>\[如东\]</sup>：这个人～。<sup>\[如东\]</sup> ② 谓背后有大人物支撑或某件事的背景复杂、性质严重。<sup>\[泰兴\]</sup>  
 1. 【[有两天吖啦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_laen_tin_nga_la.md#有两天吖啦)】`ieu3 laen3 tin1 nga la` <sup>[如皋]</sup> 已经过去一些时日了。  
 1. 【[有两天哎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_laen_tin_ngae.md#有两天哎)】`ieu3 laen3 tin1 ngae` <sup>[如皋]</sup> 预计需一些时日。  
 1. 【[有理不在高声](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_li_beh_cae_go_shen.md#有理不在高声)】`ieu3 li3 beh7 cae6 go1 shen1` <sup>[兴化]</sup> 占理的事不妨好好说：～，你这吖大嘘大吵的，人家还以为你心虚唻！  
@@ -1582,8 +1579,7 @@
 1. 【[有咬嚼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_ngo_qiah.md#有咬嚼)】`ieu3 ngo3 qiah` <sup>[如皋]</sup> ① 经咀嚼，有滋味：他家做的老酵馒头有～。 ② 喻深层含义：他的话有～，要仔细品味。  
 1. 【[有咬嚼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_ngo_qiah.md#有咬嚼)】`ieu3 ngo3 qiah8` <small>/iɤɯ3 ŋɔ3 t͡ɕʰiɑʔ8/<sup>泰兴</sup></small> ① 食物柔软而有韧性。<sup>\[如东\]</sup>：糯米糕～。<sup>\[如东\]</sup> ② 比喻问题比较复杂，比较难处理。<sup>\[如东\]</sup>：这个问题有～，要重视。<sup>\[如东\]</sup> ③ 见“咬嚼”。<sup>\[东台\]</sup> ④ 有滋味；含有较深的意思、内涵。<sup>\[泰兴\]</sup>  
 1. 【[有年头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_nin_teu.md#有年头)】`ieu3 nin2 teu` <sup>[兴化]</sup> 已经有了好多年：这座房子盖啊～啊啦。  
-1. 【[有盼头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_paen_teu.md#有盼头)】`ieu3 paen5 teu` <sup>[兴化]</sup> 有了指望：女儿大学快毕业，总算有啊盼头。  
-1. 【[有盼头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_paen_teu.md#有盼头)】`ieu3 paen5 teu` <small>/iɤɯ3 pʰɛ̃5 tʰəɪ/<sup>泰兴</sup></small> 有希望，有了指望。<sup>\[泰兴\]</sup>  
+1. 【[有盼头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_paen_teu.md#有盼头)】`ieu3 paen5 teu` <small>/iɤ3 pʰɛ̃5 tʰɤ/<sup>兴化</sup>, /iɤɯ3 pʰɛ̃5 tʰəɪ/<sup>泰兴</sup></small> ① 有了指望<sup>\[兴化\]</sup>：女儿大学快毕业，总算有啊盼头。<sup>\[兴化\]</sup> ② 有希望，有了指望。<sup>\[泰兴\]</sup>  
 1. 【[有皮血](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_pi_xiuh.md#有皮血)】`ieu3 pi2 xiuh7` <small>/yʊ3 pʰʝ2 ɕyʊʔ7/<sup>如皋</sup></small> ① 有自尊心。<sup>\[如皋\]</sup> ② 有自尊心。<sup>\[如东\]</sup>：人应该～。<sup>\[如东\]</sup>  
 1. 【[有鼻子有眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_pieh_zz_ieu.md#有鼻子有眼)】`ieu3 pieh8 zz ieu3 ngaen3` <small>/iɤɯ3 pʰiʔ8 t͡sɿ iɤɯ3 ŋɛ̃3/<sup>泰兴</sup></small> 形容明了而有条理；谓十分真切，被说得活灵活现的。<sup>\[泰兴\]</sup>  
 1. 【[有病有痛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_pien_ieu_ton.md#有病有痛)】`ieu3 pien6 ieu3 ton5` <sup>[泰州]</sup> 泛指生病以后身体疼痛：你现在才五十多岁不要紧，将来岁数再大一点，～的，没得个人照应不行。  
@@ -1633,8 +1629,7 @@
 1. 【[有味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_vei.md#有味)】`ieu3 vei6` <sup>[如皋]</sup> ① 有香味，令人爱吃。 ② 有兴致：听得～。 ③ 异味：昨天剩的饭，已经～啊，不能吃咖。  
 1. 【[有喜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_xi.md#有喜)】`ieu3 xi3` <small>/iɤ3 ɕi3/<sup>兴化</sup>, /iɤɯ3 ɕʝ3/<sup>泰兴</sup></small> ① 怀孕了<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup> ② 指妇女怀孕，尤指新婚女子或婚久未育者。<sup>\[兴化\]</sup> ③ 特指妇女怀孕，尤其指新婚或久婚女性首次怀孕。<sup>\[泰州\]</sup>  
 1. 【[有戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_xi.md#有戏)】`ieu3 xi5` <small>/iɤ3 ɕi5/<sup>兴化</sup></small> ① 有希望<sup>\[兴化\]</sup>：大学录取工作还不曾结束，伢儿上学的事还～！<sup>\[兴化\]</sup> ② 比喻事情尚有成功希望<sup>\[泰州\]</sup>：这件事还不曾最后定下来，应该还～。<sup>\[泰州\]</sup>  
-1. 【[有想头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_xian_teu.md#有想头)】`ieu3 xian3 teu` <sup>[如皋]</sup> 值得想念、回忆。  
-1. 【[有想头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_xian_teu.md#有想头)】`ieu3 xian3 teu` <small>/iɤɯ3 ɕiɑŋ3 tʰəɪ/<sup>泰兴</sup></small> 有好办法，好主意。指有头脑、能办事。<sup>\[泰兴\]</sup>  
+1. 【[有想头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_xian_teu.md#有想头)】`ieu3 xian3 teu` <small>/yʊ3 ɕiã3 tʰei/<sup>如皋</sup>, /iɤɯ3 ɕiɑŋ3 tʰəɪ/<sup>泰兴</sup></small> ① 值得想念、回忆。<sup>\[如皋\]</sup> ② 有好办法，好主意。指有头脑、能办事。<sup>\[泰兴\]</sup>  
 1. 【[有心肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_xien_chan.md#有心肠)】`ieu3 xien1 chan2` <sup>[泰州]</sup> 有兴致、有心思做某件事：家里出咖事，你还～打牌？  
 1. 【[有心计](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_xien_ji.md#有心计)】`ieu3 xien1 ji5` <sup>[如东]</sup> 有谋略，有主见：王二～，这件事可以跟他商议。  
 1. 【[有心没大肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_xien_meh_da_chan.md#有心没大肠)】`ieu3 xien1 meh8 da6 chan2` <sup>[兴化]</sup> 半心半意，犹豫不决：他对这桩亲事一开始就～的。  
@@ -1873,8 +1868,7 @@
 1. 【[验墒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_shan.md#验墒)】`in6 shan1` <sup>[东台]</sup> 检查或测定土壤的湿度。  
 1. 【[验细](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_xi.md#验细)】`in6 xi5` <sup>[如皋]</sup> 仔细、细致。  
 1. 【[喓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io.md#喓)】`io` <sup>[如皋]</sup> 叹词、语助词，多用于词中、词尾。  
-1. 【[吆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io.md#吆)】`io1` <sup>[泰州]</sup> ① 驱赶家禽家畜：你把鸡子都～进窠。 ② 将停留某处的人赶走：你把族咖门口看热闹的人～啊走。 ③ 将分散的人催至指定地点：你把人～啊操场上去。  
-1. 【[吆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io.md#吆)】`io1` <small>/iɔ1/<sup>兴化</sup>, /iɔ1/<sup>泰兴</sup>, /iɔ1/<sup>泰县</sup></small> ① 驱赶，驱逐 ② 驱赶，驱逐<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>：把鸭子～上岸来。<sup>\[如东\]</sup>｜～鸡打狗。<sup>\[东台\]</sup>｜“……我把鸭子～下来，你就赶……”（汪曾祺《鸡鸭名家》）<sup>\[兴化\]</sup>｜快把苍蝇～掉。<sup>\[泰县\]</sup>｜～猪子<sup>\[泰兴\]</sup>｜～鸡子<sup>\[泰兴\]</sup>  
+1. 【[吆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io.md#吆)】`io1` <small>/iɔ1/<sup>兴化</sup>, /iɔ1/<sup>泰兴</sup>, /iɔ1/<sup>泰县</sup></small> 驱赶，驱逐<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup><sup>\[泰州\]</sup>：把鸭子～上岸来。<sup>\[如东\]</sup>｜～鸡打狗。<sup>\[东台\]</sup>｜“……我把鸭子～下来，你就赶……”（汪曾祺《鸡鸭名家》）<sup>\[兴化\]</sup>｜快把苍蝇～掉。<sup>\[泰县\]</sup>｜～猪子<sup>\[泰兴\]</sup>｜～鸡子<sup>\[泰兴\]</sup>｜你把鸡子都～进窠。<sup>\[泰州\]</sup>｜你把族咖门口看热闹的人～啊走。<sup>\[泰州\]</sup>｜你把人～啊操场上去。<sup>\[泰州\]</sup>  
 1. 【[吆而没音](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_er_meh_ien.md#吆而没音)】`io1 er meh8 ien1` <sup>[东台]</sup> 办事不认真，心不在焉的样子。把事交给他，他～的，叫人不放心。也说“吆卖佯醒”。  
 1. 【[吆更](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_gen.md#吆更)】`io1 gen1` <sup>[如皋]</sup> 更夫一边打更一边叫喊有关注意安全、防火、防盗的话。  
 1. 【[吆样看](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_ian_kun.md#吆样看)】`io1 ian6 kun5` <sup>[东台]</sup> 不具体落实，只是做做样子给人看。  

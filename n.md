@@ -56,8 +56,7 @@
 1. 【[拿别人穿蜡烛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_pih_ren_chun_laeh_zhoh.md#拿别人穿蜡烛)】`na2 pih8 ren2 chun1 laeh8 zhoh7` <sup>[东台]</sup> 为了照亮自己而牺牲他人，一种极端个人主义。  
 1. 【[拿袢子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_pun_zz.md#拿袢子)】`na2 pun5 zz` <sup>[如东]</sup> 卖关子，不肯帮忙：他在下～。  
 1. 【[拿钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_qin.md#拿钱)】`na2 qin2` <sup>[如东]</sup> ① 取钱。 ② 有偿劳动：我帮他做活技是～的。  
-1. 【[拿乔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_qio.md#拿乔)】`na2 qio2` <sup>[如皋]</sup> 坚持高要价：谈判中，一方越是急需，另一方越是～。  
-1. 【[拿乔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_qio.md#拿乔)】`na2 qio2` <small>/na2 t͡ɕʰiɔ2/<sup>泰县</sup></small> ① 以某种借口，故意不肯为人做事。<sup>\[如东\]</sup>：你不要～。<sup>\[如东\]</sup> ② 留一手，摆架子<sup>\[东台\]</sup>：能帮忙而不帮忙，是故意～。<sup>\[东台\]</sup> ③ 能干不肯干：你不要～。<sup>\[泰县\]</sup> ④ 故意摆出作难样子或者找出借口拒绝别人的求助<sup>\[泰州\]</sup>：人家也是没得办法才来找你的，你要是能办的话就同他俫办啊子，不要再～唻。<sup>\[泰州\]</sup>  
+1. 【[拿乔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_qio.md#拿乔)】`na2 qio2` <small>/na2 t͡ɕʰiɔ2/<sup>如皋</sup>, /na2 t͡ɕʰiɔ2/<sup>泰县</sup></small> ① 坚持高要价<sup>\[如皋\]</sup>：谈判中，一方越是急需，另一方越是～。<sup>\[如皋\]</sup> ② 以某种借口，故意不肯为人做事。<sup>\[如东\]</sup>：你不要～。<sup>\[如东\]</sup> ③ 留一手，摆架子<sup>\[东台\]</sup>：能帮忙而不帮忙，是故意～。<sup>\[东台\]</sup> ④ 能干不肯干：你不要～。<sup>\[泰县\]</sup> ⑤ 故意摆出作难样子或者找出借口拒绝别人的求助<sup>\[泰州\]</sup>：人家也是没得办法才来找你的，你要是能办的话就同他俫办啊子，不要再～唻。<sup>\[泰州\]</sup>  
 1. 【[拿人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_ren.md#拿人)】`na2 ren2` <small>/la2 lən2/<sup>兴化</sup>, /na2 ɻəŋ2/<sup>如皋</sup>, /na2 ɻəŋ2/<sup>泰县</sup></small> ① 使……过度……<sup>\[如皋\]</sup>：这场病真～，看吖瘦下去啊；服侍老爹真～，没日没夜的不歇劲。<sup>\[如皋\]</sup> ② 有吸引力，引人注意<sup>\[兴化\]</sup>：王少堂的“武十回”～。也说“拿得住人”。<sup>\[兴化\]</sup> ③ 不容易，难做到：这事有点儿～。<sup>\[泰县\]</sup>  
 1. 【[拿人开心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_ren_kae_xien.md#拿人开心)】`na2 ren2 kae1 xien1` <sup>[泰州]</sup> 戏弄、取笑别人以使自己快乐：钱捱你俫赢吖走啊，就不要再拿人开心唻！  
 1. 【[拿三做四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_saen_zu_sz.md#拿三做四)】`na2 saen1 zu5 sz5` <sup>[兴化]</sup> 指用各种借口推托：谁请他一点事情，他有得～唻！  
@@ -89,8 +88,7 @@
 1. 【[褦襶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_dae.md#褦襶)】`nae1 dae` <sup>[兴化]</sup> ① 粗笨、不利索：出门旅游，他带上多少吃的、穿的、用的，路都走不动，真～。 ② 不晓事、不合时宜：几个人当中就数他～，开口就捱人家叉住。｜晋，程晓《嘲热客》｜“闭门避署卧，出入不相过，只今～子，触热到人家。”《吴下方言考》｜“～，不解事而笨也，吴谚呼笨人为～。”  
 1. 【[奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae.md#奶)】`nae3` <small>/nɛ3/<sup>泰兴</sup></small> 乳<sup>\[泰兴\]</sup>\[如东：也说nae1。\]  
 1. 【[奶膊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_bah_zz.md#奶膊子)】`nae3 bah7 zz` <sup>[兴化]</sup> 从乳房到腋窝部分：这件衫子太露，～撂出来一大半。  
-1. 【[奶膀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_ban.md#奶膀)】`nae3 ban` 乳房，因部位靠膀，故名<sup>\[泰州\]</sup>：他一撉儿打啊这小伙～上。<sup>\[泰州\]</sup>  
-1. 【[奶膀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_ban.md#奶膀)】`nae3 ban` <small>/nɛ3 pɑŋ/<sup>泰兴</sup></small> 乳房的别称。乳房部位。<sup>\[泰兴\]</sup>  
+1. 【[奶膀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_ban.md#奶膀)】`nae3 ban` <small>/nɛ3 pɑŋ/<sup>泰兴</sup></small> ① 乳房，因部位靠膀，故名<sup>\[泰州\]</sup>：他一撉儿打啊这小伙～上。<sup>\[泰州\]</sup> ② 乳房的别称。乳房部位。<sup>\[泰兴\]</sup>  
 1. 【[奶帮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_ban_zz.md#奶帮子)】`nae3 ban1 zz` <sup>[如皋]</sup> 乳房基部。  
 1. 【[奶膘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_bio.md#奶膘)】`nae3 bio1` <small>/lɛ3 piɔ1/<sup>兴化</sup></small> ① 谓吃奶的孩子长得胖<sup>\[兴化\]</sup>：～好。<sup>\[兴化\]</sup> ② 婴儿喝奶期间产生的体重<sup>\[泰州\]</sup>：这个细小伙的～多好啊，才个把星期不见，现在抱啊手上就这吖重。<sup>\[泰州\]</sup>  
 1. 【[奶齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_chr.md#奶齿)】`nae3 chr3` <sup>[如皋]</sup> 乳齿。  
@@ -104,8 +102,7 @@
 1. 【[奶花香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_hua_xian.md#奶花香)】`nae3 hua1 xian1` <sup>[兴化]</sup> 吃奶的孩子身上发出的香甜带腥的气味。  
 1. 【[奶黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_huan.md#奶黄)】`nae3 huan2` 出生不足月的婴儿<sup>\[泰州\]</sup>：她家里有个细～，不能离人。<sup>\[泰州\]</sup>  
 1. 【[奶黄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_huan_zz.md#奶黄子)】`nae3 huan2 zz` <sup>[兴化]</sup> 见“奶含子”。  
-1. 【[奶含子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_hun_zz.md#奶含子)】`nae3 hun2 zz` <sup>[兴化]</sup> 尚在吃奶的孩子：又上班，又带～，真不容易。也说“奶黄子”。  
-1. 【[奶含子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_hun_zz.md#奶含子)】`nae3 hun2 zz` <small>/nɛ3 xʊ̃2 t͡sɿ/<sup>泰兴</sup></small> 婴儿，吃奶的孩子。<sup>\[泰兴\]</sup>  
+1. 【[奶含子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_hun_zz.md#奶含子)】`nae3 hun2 zz` <small>/lɛ3 xũ2 t͡sɿ/<sup>兴化</sup>, /nɛ3 xʊ̃2 t͡sɿ/<sup>泰兴</sup></small> ① 尚在吃奶的孩子<sup>\[兴化\]</sup>：又上班，又带～，真不容易。也说“奶黄子”。<sup>\[兴化\]</sup> ② 婴儿，吃奶的孩子。<sup>\[泰兴\]</sup>  
 1. 【[奶唤伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_hun_nga_r.md#奶唤伢<sub>儿</sub>)】`nae3 hun5 nga2 r` <sup>[泰县]</sup> 吃奶的幼儿。  
 1. 【[奶虎<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_hv_r.md#奶虎<sub>儿</sub>)】`nae3 hv3 r` <sup>[如东]</sup> 比喻长得健壮的婴儿。  
 1. 【[奶虎<sub>儿</sub>气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_hv_r_qi.md#奶虎<sub>儿</sub>气)】`nae3 hv3 r qi5` <sup>[如东]</sup> 婴儿吸食母乳，因而身上散发着一种奶香味儿，称奶虎儿气。  
@@ -209,7 +206,7 @@
 1. 【[抐猪食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/neh_zhv_sheh.md#抐猪食)】`neh8 zhv1 sheh8` <sup>[如皋]</sup> ① 调和猪食的同时把其中的团块捏碎。 ② 状手部若调猪食的动作。  
 1. 【[浓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen.md#浓)】`nen2` <sup>[如皋]</sup> 汁浓：鱼汤～。  
 1. 【[浓水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen_shuei.md#浓水)】`nen2 shuei3` <sup>[如皋]</sup> 含洗涤剂量足的水，去污力强。  
-1. 【[能](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen.md#能)】`nen2` <sup>[泰州]</sup> 超出自己的职责范围，主动积极地做某事是为了炫耀显示自己才能：他又不是厂长，就像～煞咖，厂里的事样样都要问。｜她嫌太～，块块多管闲事，没得一个人喜欢她。  
+1. 【[能](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen.md#能)】`nen2` <small>/nəŋ2/<sup>泰兴</sup></small> ① 超出自己的职责范围，主动积极地做某事是为了炫耀显示自己才能<sup>\[泰州\]</sup>：他又不是厂长，就像～煞咖，厂里的事样样都要问。<sup>\[泰州\]</sup>｜她嫌太～，块块多管闲事，没得一个人喜欢她。<sup>\[泰州\]</sup> ② 炫耀本事；喜好炫耀本事<sup>\[泰兴\]</sup>  
 1. 【[能巴巴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen_ba_ba_dii.md#能巴巴的)】`nen2 ba1 ba1 dii` <sup>[如皋]</sup> 贬指能幹的样子。  
 1. 【[能巴能巴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen_ba_nen_ba_dii.md#能巴能巴的)】`nen2 ba1 nen2 ba1 dii` <sup>[如皋]</sup> 见“能巴巴的”。  
 1. 【[能夹夹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen_gaeh_gaeh.md#能夹夹)】`nen2 gaeh7 gaeh7` <sup>[泰州]</sup> 非常得意地显示自己能干的样子，多用来讥讽女性逞能：就是这马马儿～的抢吖说，弄吖坏啊事的。｜你望她噢，在领导跟前～的，就像车间里的事情都是她个人做的。  
@@ -1333,12 +1330,10 @@
 1. 【[仰八岔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_baeh_cha.md#仰八岔)】`nian3 baeh7 cha5` <sup>[如皋]</sup> 见“仰八弯”。  
 1. 【[仰八弯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_baeh_vaen.md#仰八弯)】`nian3 baeh7 vaen1` <sup>[如皋]</sup> 贬指随意躺着。颈、背、腰、膝、股、踝、肘、腕等大关节弯曲的样子。另见“仰相”。  
 1. 【[仰倒巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_do_ba.md#仰倒巴)】`nian3 do5 ba1` <sup>[东台]</sup> 仰面朝天跌下去：脚下一跐，摔啊个～。也作“仰拉巴”。  
-1. 【[仰下来搔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_ha_lae_so.md#仰下来搔)】`nian3 ha lae2 so1` <sup>[兴化]</sup> ① 睡下蹬腿。 ② （喻）耍赖：他自知理亏就～。  
-1. 【[仰下来搔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_ha_lae_so.md#仰下来搔)】`nian3 ha lae2 so1` <small>/niɑŋ3 xɑ lɛ2 sɔ1/<sup>泰兴</sup></small> 耍无赖，躺在地上双脚乱蹬。<sup>\[泰兴\]</sup>  
+1. 【[仰下来搔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_ha_lae_so.md#仰下来搔)】`nian3 ha lae2 so1` <small>/liaŋ3 xa lɛ2 sɔ1/<sup>兴化</sup>, /niɑŋ3 xɑ lɛ2 sɔ1/<sup>泰兴</sup></small> ① 睡下蹬腿。<sup>\[兴化\]</sup> ② （喻）耍赖<sup>\[兴化\]</sup>：他自知理亏就～。<sup>\[兴化\]</sup> ③ 耍无赖，躺在地上双脚乱蹬。<sup>\[泰兴\]</sup>  
 1. 【[仰下来搔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_ha_lae_so.md#仰下来搔)】`nian3 ha6 lae2 so1` <sup>[泰州]</sup> 仰面朝天躺在地上双脚乱蹬，喻指根本不顾个人尊严体面的耍无赖的行为：他现在就这回事，～，你也没得办法。  
 1. 【[仰颈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_jien.md#仰颈)】`nian3 jien3` <sup>[如皋]</sup> 笼鸟之劣品着。  
-1. 【[仰老巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_lo_ba.md#仰老巴)】`nian3 lo3 ba1` <sup>[如皋]</sup> 仰面跌倒。  
-1. 【[仰老巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_lo_ba.md#仰老巴)】`nian3 lo3 ba1` <small>/niɑŋ3 lɔ3 pɑ1/<sup>泰兴</sup></small> 仰面倒在地上，四肢叉开的样子。<sup>\[泰兴\]</sup>  
+1. 【[仰老巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_lo_ba.md#仰老巴)】`nian3 lo3 ba1` <small>/niã3 lɔ3 pa1/<sup>如皋</sup>, /niɑŋ3 lɔ3 pɑ1/<sup>泰兴</sup></small> ① 仰面跌倒。<sup>\[如皋\]</sup> ② 仰面倒在地上，四肢叉开的样子。<sup>\[泰兴\]</sup>  
 1. 【[仰面看人，低头砟肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_min_kun_ren.md#仰面看人，低头砟肉)】`nian3 min6 kun5 ren2 di1 teu2 zhah7 roh8` <small>/niɑŋ3 mĩ1 kʰʊ̃5 ɻəŋ2 t͡ɕʝ1 tʰəɪ2 t͡sɑʔ7 ɻɔʔ8/<sup>泰兴</sup></small> 谓见人行事，有失公允。贬语。<sup>\[泰兴\]</sup>  
 1. 【[仰吖下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_nga_ha.md#仰吖下)】`nian3 nga ha` <sup>[如皋]</sup> 仰躺着。  
 1. 【[仰吖脚来骚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_nga_jiah_lae_so.md#仰吖脚来骚)】`nian3 nga jiah7 lae so1` <sup>[东台]</sup> ［喻］野蛮撒泼，不讲道理。  
@@ -1436,25 +1431,21 @@
 1. 【[年糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_go.md#年糕)】`nin2 go1` ① 春节前加工的糕，称年糕。品种很多，有糯米糕高粱糕、米糕、玉米糕等。<sup>\[如东\]</sup> ② 农历春节应时节的食品，用黏性大的糯米粉蒸成。<sup>\[东台\]</sup>  
 1. 【[年关](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_guaen.md#年关)】`nin2 guaen1` <small>/nĩ2 kuɛ̃1/<sup>泰兴</sup></small> ① 旧例年底结账，欠租负债的人觉得好像过关一样，所以称年关。<sup>\[如东\]</sup> ② 年底。旧时习惯于年底结账，欠债的人觉得过年好比过关，故称为～。<sup>\[东台\]</sup> ③ 指阴历年底。旧例年底必须与人结清各种账目，欠债欠租的人过年，犹如过关，故称。<sup>\[泰兴\]</sup>  
 1. 【[年下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_ha.md#年下)】`nin2 ha6` <small>/nĩ2 xɑ1/<sup>泰兴</sup></small> 谓将过旧历新年的时候。<sup>\[泰兴\]</sup>：到啊～，家家总要打年货了。<sup>\[泰兴\]</sup>  
-1. 【[年货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_hu.md#年货)】`nin2 hu5` <sup>[东台]</sup> 过春节应景应时物品：明吖上街去办～。  
-1. 【[年货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_hu.md#年货)】`nin2 hu5` <small>/nĩ2 xɤɯ5/<sup>泰兴</sup></small> 指过阴历年时应用的物品。<sup>\[泰兴\]</sup>  
+1. 【[年货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_hu.md#年货)】`nin2 hu5` <small>/nĩ2 xɤɯ5/<sup>泰兴</sup></small> ① 过春节应景应时物品<sup>\[东台\]</sup>：明吖上街去办～。<sup>\[东台\]</sup> ② 指过阴历年时应用的物品。<sup>\[泰兴\]</sup>  
 1. 【[年夜饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_ia_faen.md#年夜饭)】`nin2 ia6 faen6` <sup>[如东]</sup> 阴历十二月三十日晚，全家人在一起吃饭，称年夜饭。也称团圆饭。准备丰盛的菜肴，庆祝一年的成功与快乐。  
 1. 【[年纪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_ji.md#年纪)】`nin2 ji` <sup>[如东]</sup> 年龄：多大～？  
 1. 【[年纪大的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_ji_da_dii.md#年纪大的)】`nin2 ji da6 dii` <small>/liɪ̃2 t͡ɕi ta6 təi/<sup>兴化</sup></small> 老年人<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：～的身体要保重。<sup>\[兴化\]</sup>｜“太爷！对不起你们～。”（《武松》三）<sup>\[兴化\]</sup>｜他在街上把人家～撞吖伤吖。<sup>\[泰州\]</sup>  
 1. 【[年朞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_ji.md#年朞)】`nin2 ji1` <sup>[东台]</sup> 同“过周”。  
-1. 【[年假](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_jia.md#年假)】`nin2 jia3` <sup>[如东]</sup> 寒假。  
-1. 【[年假](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_jia.md#年假)】`nin2 jia3` <small>/nĩ2 t͡ɕiɑ3/<sup>泰兴</sup></small> 过年期间放的假；寒假。<sup>\[泰兴\]</sup>  
+1. 【[年假](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_jia.md#年假)】`nin2 jia3` <small>/nĩ2 t͡ɕiɑ3/<sup>泰兴</sup></small> ① 寒假。<sup>\[如东\]</sup> ② 过年期间放的假；寒假。<sup>\[泰兴\]</sup>  
 1. 【[年脚下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_jiah_ha.md#年脚下)】`nin2 jiah7 ha-ga` <small>/nĩ2 t͡ɕiɑʔ7 xɑ/<sup>泰兴</sup></small> 年尾；年底。脚下，紧邻、紧靠之意。<sup>\[泰兴\]</sup>  
 1. 【[年脚下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_jiah_xia.md#年脚下)】`nin2 jiah7 xia` <sup>[兴化]</sup> 接近年关的时候：～家家忙吖掸尘、打年货。｜小木匠因为火车票紧张，耽搁了几天时间，～才到家。（钱国怀《船帆》）  
 1. 【[年久失修](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_jieu_sheh_xieu.md#年久失修)】`nin2 jieu3 sheh7 xieu1` <sup>[如皋]</sup> 指房屋等多年未整修，以致损坏。  
 1. 【[年酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_jieu.md#年酒)】`nin2 jieu3` <small>/nĩ2 t͡ɕyʊ3/<sup>如皋</sup>, /nĩ2 t͡ɕiɤɯ3/<sup>泰兴</sup></small> ① 雇主例行在春节期间宴请雇员。<sup>\[如皋\]</sup> ② 春节过后，亲朋好友之间举行的筵席称年酒。<sup>\[如东\]</sup> ③ 指为祝贺新年邀请亲友吃的酒席。<sup>\[泰兴\]</sup>：你请我吃冬酒，我请你吃～<sup>\[泰兴\]</sup>  
-1. 【[年礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_li.md#年礼)】`nin2 li3` <sup>[如东]</sup> 春节期间送的礼物。  
-1. 【[年礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_li.md#年礼)】`nin2 li3` <small>/nĩ2 lʝ3/<sup>泰兴</sup></small> 为庆贺年节而馈赠的礼物。乡人于春节前给当年出嫁的女儿送礼曰“年礼”。<sup>\[泰兴\]</sup>  
+1. 【[年礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_li.md#年礼)】`nin2 li3` <small>/nĩ2 lʝ3/<sup>泰兴</sup></small> ① 春节期间送的礼物。<sup>\[如东\]</sup> ② 为庆贺年节而馈赠的礼物。乡人于春节前给当年出嫁的女儿送礼曰“年礼”。<sup>\[泰兴\]</sup>  
 1. 【[年里、年外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_li_nin_vae.md#年里、年外)】`nin2 li3 nin2 vae6` <sup>[如皋]</sup> 指春节前后。  
 1. 【[年怕中秋月怕半](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_pa_zhon_qieu_iuh_pa_bun.md#年怕中秋月怕半)】`nin2 pa5 zhon1 qieu1 iuh8 pa5 bun5` <sup>[东台]</sup> 凡事尽早从紧，“怕”即体现了紧迫感。  
 1. 【[年三十](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_saen_sheh.md#年三十)】`nin2 saen1 sheh8` <small>/liɪ̃2 sɛ̃1 səʔ8/<sup>兴化</sup></small> ① 农历除夕。<sup>\[东台\]</sup> ② 除夕<sup>\[兴化\]</sup>：过去当大伙计，从年初一忙到～，没得一天空闲。<sup>\[兴化\]</sup>  
-1. 【[年梢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_sho.md#年梢)】`nin2 sho1` <sup>[如东]</sup> 年尾：～收事。  
-1. 【[年梢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_sho.md#年梢)】`nin2 sho1` <small>/nĩ2 sɔ1/<sup>泰兴</sup></small> 年尾，年底。<sup>\[泰兴\]</sup>：～里<sup>\[泰兴\]</sup>  
+1. 【[年梢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_sho.md#年梢)】`nin2 sho1` <small>/nĩ2 sɔ1/<sup>泰兴</sup></small> 年尾，年底。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>：～收事。<sup>\[如东\]</sup>｜～里<sup>\[泰兴\]</sup>  
 1. 【[年岁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_suei.md#年岁)】`nin2 suei` <small>/nĩ2 suəɪ/<sup>泰兴</sup></small> 岁月。岁，年。<sup>\[泰兴\]</sup>  
 1. 【[年头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_teu.md#年头)】`nin2 teu` <sup>[如东]</sup> 一些年：这种现象已经有～啊。  
 1. 【[年头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_teu.md#年头)】`nin2 teu2` <small>/liɪ̃2 tʰɤ2/<sup>兴化</sup></small> ① 一年的开始。<sup>\[如东\]</sup>：～就要抓好。<sup>\[如东\]</sup> ② 年初<sup>\[兴化\]</sup>：我～上到南京，到目下快半年吖。<sup>\[兴化\]</sup>  

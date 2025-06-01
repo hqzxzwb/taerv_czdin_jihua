@@ -1250,8 +1250,7 @@
 1. 【[当家三年狗也嫌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_jia_saen_nin_geu_ia_xin.md#当家三年狗也嫌)】`dan1 jia1 saen1 nin2 geu3 ia3 xin2` <sup>[兴化]</sup> 当家人管事多，招人冤：“我的儿，常言道：～。”（《金瓶梅词话》七五）  
 1. 【[当家师](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_jia_shr.md#当家师)】`dan1 jia1 shr1` <small>/taŋ1 t͡ɕia1 sɿ1/<sup>兴化</sup>, /tɑŋ1 t͡ɕiɑ1 sɿ1/<sup>泰兴</sup></small> ① 掌管寺庙、道观、庵堂事务的和尚、道士、尼姑。<sup>\[如东\]</sup> ② 寺庙的主持<sup>\[兴化\]</sup>：（小沙弥）让祝林进屋，见了～，说明来历。（《八窍珠》五十）<sup>\[兴化\]</sup> ③ 庙里的当家人，负责人；借喻某项技术工艺或单位的领头人。<sup>\[泰兴\]</sup>  
 1. 【[当紧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_jien.md#当紧)】`dan1 jien3` <sup>[兴化]</sup> 要紧：其他事先不谈，老母看病的事～。  
-1. 【[当口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_keu.md#当口)】`dan1 keu3, dan1 keu0` <sup>[如皋]</sup> 关键时刻：就在攻城难下的～，突然城头火起，内应到啊！  
-1. 【[当口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_keu.md#当口)】`dan1 keu3, dan1 keu0` <small>/tɑŋ1 kʰəɪ3/<sup>泰兴</sup></small> 也称“当儿”、“当子”。事情正在进行的时候或指关键时刻。<sup>\[泰兴\]</sup>：就在箇个～，又发生吖一件大事。<sup>\[泰兴\]</sup>  
+1. 【[当口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_keu.md#当口)】`dan1 keu3, dan1 keu0` <small>/tã1 kʰei3/<sup>如皋</sup>, /tɑŋ1 kʰəɪ3/<sup>泰兴</sup></small> ① 关键时刻<sup>\[如皋\]</sup>：就在攻城难下的～，突然城头火起，内应到啊！<sup>\[如皋\]</sup> ② 也称“当儿”、“当子”。事情正在进行的时候或指关键时刻。<sup>\[泰兴\]</sup>：就在箇个～，又发生吖一件大事。<sup>\[泰兴\]</sup>  
 1. 【[当面黄人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_min_huan_ren.md#当面黄人)】`dan1 min6 huan2 ren2` <sup>[如东]</sup> 立即给对方造成损失，也使自己感到难堪：耷子和变化莫测，我教你出牌会～的。  
 1. 【[当面锣对面鼓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_min_lu_duei.md#当面锣对面鼓)】`dan1 min6 lu2 duei5 min6 gv3` <small>/tɑŋ1 mĩ1 lɤɯ2 təɪ5 mĩ1 ku3/<sup>泰兴</sup></small> 谓面对面对质。<sup>\[泰兴\]</sup>  
 1. 【[当面锣对面鼓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_min_lu_dy_min_gv.md#当面锣对面鼓)】`dan1 min6 lu2 dy5 min6 gv3` <sup>[东台]</sup> ［喻］面对面地商谈或争论：有甚的问题要～，摆到桌面上来，不要背后搞小动作。  
@@ -1534,9 +1533,7 @@
 1. 【[斗（鬥）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu.md#斗（鬥）)】`deu5` <small>/tei5/<sup>如皋</sup></small> ① 主动找<sup>\[如皋\]</sup>：雄鸡～母鸡，～交易。<sup>\[如皋\]</sup> ② 挑动、挑起争端<sup>\[如皋\]</sup>：是他～我，我才还手的。<sup>\[如皋\]</sup> ③ 争斗<sup>\[如皋\]</sup>：坐山观虎～；好～的鸡儿不长毛。<sup>\[如皋\]</sup> ④ 凑合<sup>\[如皋\]</sup>：～股子、～份子。<sup>\[如皋\]</sup> ⑤ 相合，拼合<sup>\[如皋\]</sup><sup>\[泰州\]</sup>：～缝合榫。<sup>\[如皋\]</sup>｜这几块小板子～啊子就是一块大板子。<sup>\[泰州\]</sup> ⑥ （泰州词典作𨁋）<sup>\[泰州\]</sup> ⑦ 前进之时足尖碰到硬物受阻，惯性导致前倾<sup>\[泰州\]</sup>：刚才不曾注意，捱脚底下的石子ㄦ～啊下子，还好不曾跌跟头。<sup>\[泰州\]</sup> ⑧ 用刨子刨物体，用锯子锯物时，刀口、锯口碰到硬块后被弹起<sup>\[泰州\]</sup>：这个木头里头有钉子，锯的时候要当心，不要把家伙～啊坏啊。<sup>\[泰州\]</sup>  
 1. 【[斗草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_co.md#斗草)】`deu5 co3` <sup>[泰州]</sup> 一种儿童游戏，两人各执一根带茎的青草，将双方的草茎相互交结，各持一端猛烈向后拉扯，谁的草茎断了谁就为输。  
 1. 【[斗份子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_fen_zz.md#斗份子)】`deu5 fen6 zz` <small>/tɤ5 fən6 t͡sɿ/<sup>兴化</sup>, /təɪ5 fəŋ1 t͡sɿ/<sup>泰兴</sup></small> 凑钱合做一件事<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>\[泰州：每人出一分钱拼凑起来送礼\]：我俫～为老陈送行。<sup>\[兴化\]</sup>｜……共有五个宫员，都斗了分子，穿孝服来上纸帛吊问。（《金瓶梅词话》六五）<sup>\[兴化\]</sup>｜老李家儿子下个星期六结婚，处长说的，处里八个人～出人情，个人100块钱。<sup>\[泰州\]</sup>  
-1. 【[斗缝合榫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_fon_huh_xyen.md#斗缝合榫)】`deu5 fon6 huh8 xyen3` <sup>[东台]</sup> ① 本指木器榫头和卯眼接合，喻指几方面反映的情况完全吻合，严丝合缝。 ② 几方面环节衔接紧凑。  
-1. 【[斗缝合榫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_fon_huh_xyen.md#斗缝合榫)】`deu5 fon6 huh8 xyen3` <sup>[泰州]</sup> ① 构件两个部分咬合极其准确：这个木匠的手艺没得话说，打的家具块块～。 ② 比喻账务上所记收支与实际的收支完全吻合：他是老会计，弄的账～，领导对他非常放心。  
-1. 【[斗缝合榫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_fon_huh_xyen.md#斗缝合榫)】`deu5 fon6 huh8 xyen3` <small>/təɪ5 fɔŋ1 xʊʔ8 ɕyəŋ3/<sup>泰兴</sup></small> 即“斗榫”。<sup>\[泰兴\]</sup>  
+1. 【[斗缝合榫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_fon_huh_xyen.md#斗缝合榫)】`deu5 fon6 huh8 xyen3` <small>/təɪ5 fɔŋ1 xʊʔ8 ɕyəŋ3/<sup>泰兴</sup></small> ① 本指木器榫头和卯眼接合，喻指几方面反映的情况完全吻合，严丝合缝。<sup>\[东台\]</sup> ② 几方面环节衔接紧凑。<sup>\[东台\]</sup> ③ 构件两个部分咬合极其准确<sup>\[泰州\]</sup>：这个木匠的手艺没得话说，打的家具块块～。<sup>\[泰州\]</sup> ④ 比喻账务上所记收支与实际的收支完全吻合<sup>\[泰州\]</sup>：他是老会计，弄的账～，领导对他非常放心。<sup>\[泰州\]</sup> ⑤ 即“斗榫”。<sup>\[泰兴\]</sup>  
 1. 【[斗富](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_fv.md#斗富)】`deu5 fv5` <sup>[兴化]</sup> 比较富有：“徒弟，莫要与人～。你我是单身在外，恐有错。”（《西游记》十六）  
 1. 【[斗搞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_go.md#斗搞)】`deu5 go3` <small>/tɤ5 kɔ3/<sup>兴化</sup>, /tei5 kɔ3/<sup>如皋</sup></small> ① 打闹争斗。<sup>\[如皋\]</sup> ② 与人嬉闹。<sup>\[如皋\]</sup> ③ 对小争斗的淡化性称法。<sup>\[如皋\]</sup> ④ 小孩互相争执、斗殴。<sup>\[兴化\]</sup> ⑤ 儿童、少年相互争吵，直至动手打斗<sup>\[泰州\]</sup>：他家大人不在家，几个小的在家里～。<sup>\[泰州\]</sup>  
 1. 【[斗鹄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_goh_zz.md#斗鹄子)】`deu5 goh7 zz` <sup>[东台]</sup> ［喻］对路，找到解决问题的办法了（“鹄”读若“谷”，指箭靶子的中心）：这件事交给他俫去办，就～啊。  
@@ -1546,8 +1543,7 @@
 1. 【[斗鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_ji.md#斗鸡)】`deu5 ji1` <small>/təɪ5 t͡ɕʝ1/<sup>泰兴</sup></small> ① 一只脚站立，另一条腿弯曲，用手捧住脚，彼此用膝盖互相冲撞的一种游戏。<sup>\[东台\]</sup> ② 一种男孩游戏，一腿直立，一腿抬起弯曲、膝盖朝前成锐角形，一手抓住弯曲腿的脚部上捧，一手抓住弯曲腿的大腿部位裤子上提，双方各以直立单腿跳行向前冲击，并用弯曲腿的膝盖猛顶对方，被顶倒在地的为输。<sup>\[泰州\]</sup> ③ 儿童游戏。以两人相戏，各曲一腿以手相帮，以膝相斗。<sup>\[泰兴\]</sup>  
 1. 【[斗鸡眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_ji_ngaen.md#斗鸡眼)】`deu5 ji1 ngaen3` <small>/tɤ5 t͡ɕi1 ɛ̃3/<sup>兴化</sup>, /tei5 t͡ɕʝ1 ŋẽ3/<sup>如皋</sup>, /təɪ5 t͡ɕʝ1 ŋɛ̃3/<sup>泰兴</sup></small> 眼球内斜，内斜视<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>\[泰兴：也称“假眼儿”、“斗鸡子眼”。\]\[东台：见“对对眼”。\]  
 1. 【[斗交易](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_jio_i.md#斗交易)】`deu5 jio1 i` <sup>[东台]</sup> 主动找人谈生意。  
-1. 【[斗嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_jy.md#斗嘴)】`deu5 jy3` <sup>[如皋]</sup> 家庭小争执。旧时限平辈间。与长辈争则为“回嘴”“顶嘴”。  
-1. 【[斗嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_jy.md#斗嘴)】`deu5 jy3` <sup>[泰县]</sup> 争吵。  
+1. 【[斗嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_jy.md#斗嘴)】`deu5 jy3` <small>/tei5 t͡ɕy3/<sup>如皋</sup>, /tɤɯ5 t͡ɕy3/<sup>泰县</sup></small> ① 家庭小争执。旧时限平辈间。与长辈争则为“回嘴”“顶嘴”。<sup>\[如皋\]</sup> ② 争吵。<sup>\[泰县\]</sup>  
 1. 【[斗卯眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_mo_ngaen.md#斗卯眼)】`deu5 mo3 ngaen3` <sup>[兴化]</sup> ① 把榫头和眼相接起来。 ② （喻）说的话与事实相符：他说得～，没错。  
 1. 【[斗朋<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_pon_r.md#斗朋<sub>儿</sub>)】`deu5 pon2 r` <sup>[东台]</sup> 朋友小聚，费用平摊。  
 1. 【[斗起来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_qi_lae.md#斗起来)】`deu5 qi3 lae` <sup>[东台]</sup> 拼凑起来：几块零布～一块桌围｜这套班子是临时～的。  
@@ -1770,9 +1766,7 @@
 1. 【[丢点<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_din_r.md#丢点<sub>儿</sub>)】`dieu1 din3 r` <small>/tiɤɯ1 tiɪ̃3 ɚ/<sup>泰县</sup></small> ① 雨点儿从天上一点一点的落下来，表示开始下雨了。<sup>\[如东\]</sup>：外面丢起点儿来啊。<sup>\[如东\]</sup> ② 开始下雨<sup>\[泰县\]</sup>：天又～啊啦。<sup>\[泰县\]</sup>  
 1. 【[丢点子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_din_zz.md#丢点子)】`dieu1 din3 zz` <sup>[东台]</sup> 大雨前落下的稀疏的雨点。即开始下雨。  
 1. 【[丢功](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_gon.md#丢功)】`dieu1 gon1` <small>/tiɤ1 koŋ1/<sup>兴化</sup></small> ① 原有功夫由于长时间不接触而荒疏<sup>\[兴化\]</sup>：几年不上舞台，嗓子、身段全～吖。<sup>\[兴化\]</sup> ② 某种技能犹豫长时间不操练而显得荒疏<sup>\[泰州\]</sup>：他十几年不上台唱戏，早已经～唻。<sup>\[泰州\]</sup>｜现在一分钟还能打一百多个字，看来不曾～。<sup>\[泰州\]</sup>  
-1. 【[丢下翻耙拿扫竹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_ha_faen_pa_na_so_zhoh.md#丢下翻耙拿扫竹)】`dieu1 ha faen1 pa2 na2 so5 zhoh7` <sup>[兴化]</sup> 形容人勤劳把家，搁下这样，又做那样：你家弟新妇勤力吤，～，一天到晚手不闲。  
-1. 【[丢下翻耙拿扫竹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_ha_faen_pa_na_so_zhoh.md#丢下翻耙拿扫竹)】`dieu1 ha faen1 pa2 na2 so5 zhoh7` <small>/təɪ1 xɑ fɛ̃1 pʰɑ2 nɑ2 sɔ5 t͡sɔʔ7/<sup>泰兴</sup></small> 谓放下这样又干那样。形容勤劳，不肯休息。<sup>\[泰兴\]</sup>  
-1. 【[丢下翻耙拿扫竹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_ha_faen_pa_na_so_zhoh.md#丢下翻耙拿扫竹)】`dieu1 ha faen1 pa2 na2 so5 zhoh7` <sup>[东台]</sup> 不停地主动找活干。  
+1. 【[丢下翻耙拿扫竹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_ha_faen_pa_na_so_zhoh.md#丢下翻耙拿扫竹)】`dieu1 ha faen1 pa2 na2 so5 zhoh7` <small>/tiɤ1 xa fɛ̃1 pʰa2 la2 sɔ5 t͡sɔʔ7/<sup>兴化</sup>, /təɪ1 xɑ fɛ̃1 pʰɑ2 nɑ2 sɔ5 t͡sɔʔ7/<sup>泰兴</sup></small> ① 形容人勤劳把家，搁下这样，又做那样<sup>\[兴化\]</sup>：你家弟新妇勤力吤，～，一天到晚手不闲。<sup>\[兴化\]</sup> ② 谓放下这样又干那样。形容勤劳，不肯休息。<sup>\[泰兴\]</sup> ③ 不停地主动找活干。<sup>\[东台\]</sup>  
 1. 【[丢黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_huan.md#丢黄)】`dieu1 huan2` <small>/tyʊ1 xuã2/<sup>如皋</sup></small> ① 丢面子。<sup>\[如东\]</sup> ② 失体、丢面子。自觉惭愧。<sup>\[如皋\]</sup> ③ 见“黄孔儿”。<sup>\[如皋\]</sup>  
 1. 【[丢忆头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_ieh_teu.md#丢忆头)】`dieu1 ieh7 teu` <sup>[如皋]</sup> 人将去，留下值回忆、纪念的东西、话语、事件。  
 1. 【[丢架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_jia_zz.md#丢架子)】`dieu1 jia5 zz` <sup>[泰州]</sup> ① 失去派头，排场：他说起来有钱，这一回小伙结婚，桌上连包中华烟都没得，怎吖就不怕～的？ ② 丢脸，出丑：他这个拿过全市象棋冠军的人输啊把个才出道的小年轻，真～。  
@@ -1786,8 +1780,7 @@
 1. 【[丢人现眼的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_ren_xin_ngaen_dii.md#丢人现眼的)】`dieu1 ren2 xin6 ngaen3 dii` <sup>[如皋]</sup> 丢人。  
 1. 【[丢三落四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_saen_lah_sz.md#丢三落四)】`dieu1 saen1 lah8 sz5` ① 记性不好而顾此失彼。<sup>\[如东\]</sup>：王奶奶年纪大啊，做事～的。<sup>\[如东\]</sup> ② 马虎。<sup>\[如东\]</sup>：王二做事～的，箇种工作不能让他负责。<sup>\[如东\]</sup> ③ 形容做事马虎或记忆力不行。<sup>\[东台\]</sup>  
 1. 【[丢手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_sheu.md#丢手)】`dieu1 sheu3` <small>/tiɤ1 sɤ3/<sup>兴化</sup>, /tyʊ1 sei3/<sup>如皋</sup>, /təɪ1 ɕiɤɯ3/<sup>泰兴</sup></small> ① 松手，放手，撒手<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup><sup>\[如皋\]</sup>：抓不住，我只好～。<sup>\[如东\]</sup>｜箇件事太难，你还是～吧。<sup>\[如东\]</sup>｜你家老二已成家，你俫～让他自己闯闯。<sup>\[东台\]</sup>｜谚曰：四十九，养个不～。<sup>\[兴化\]</sup>｜他不肯～+ 比喻死<sup>\[泰兴\]</sup>｜父亲～咾，不管我俫咾！<sup>\[如皋\]</sup> ② 罢手<sup>\[兴化\]</sup>：二王大怒，欲害文静，无奈兵权在他手内，害他不得，只得～。（《说唐》五九）<sup>\[兴化\]</sup> ③ 幼儿学步，不用人搀扶<sup>\[兴化\]</sup>：他刚过周就能～啊。<sup>\[兴化\]</sup> ④ 停止做某事<sup>\[泰州\]</sup>：这件事你能～的话，就交把下面的人去做。<sup>\[泰州\]</sup>  
-1. 【[丢手穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_sheu_qion.md#丢手穷)】`dieu1 sheu3 qion2` <sup>[东台]</sup> ① 稍有节余就花光。 ② 形容记忆力差，经常遗失物件。  
-1. 【[丢手穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_sheu_qion.md#丢手穷)】`dieu1 sheu3 qion2` <small>/təɪ1 ɕiɤɯ3 t͡ɕʰiɔŋ2/<sup>泰兴</sup></small> 谓一放开手东西就损失掉。<sup>\[泰兴\]</sup>：花上千的钱买烟花炮仗，真是～吖！<sup>\[泰兴\]</sup>  
+1. 【[丢手穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_sheu_qion.md#丢手穷)】`dieu1 sheu3 qion2` <small>/təɪ1 ɕiɤɯ3 t͡ɕʰiɔŋ2/<sup>泰兴</sup></small> ① 稍有节余就花光。<sup>\[东台\]</sup> ② 形容记忆力差，经常遗失物件。<sup>\[东台\]</sup> ③ 谓一放开手东西就损失掉。<sup>\[泰兴\]</sup>：花上千的钱买烟花炮仗，真是～吖！<sup>\[泰兴\]</sup>  
 1. 【[丢头落尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_teu_lah_vei.md#丢头落尾)】`dieu1 teu2 lah8 vei3` <sup>[如东]</sup> 丢了这样，忘了那样：他做事总是～的。  
 1. 【[丢头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_teu_r.md#丢头<sub>儿</sub>)】`dieu1 teu2 r` <sup>[如东]</sup> 赌博时，主家提成的钱，叫做丢头儿。  
 1. 【[丢头损尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_teu_suen_vei.md#丢头损尾)】`dieu1 teu2 suen3 vei3` <sup>[兴化]</sup> ① 做事不细心，丢三落四的。 ② 也指人顾前不顾后：他有点～的，说咖前头，忘吖后头。  
@@ -1799,8 +1792,7 @@
 1. 【[丢掉耙<sub>儿</sub>拿扫帚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_tio_pa_r_na_so_zheu.md#丢掉耙<sub>儿</sub>拿扫帚)】`dieu1 tio pa2 r na2 so3 zheu3` <sup>[如皋]</sup> ① 喻见眼生情，做个不停。 ② 见“见眼生情”。  
 1. 【[丢掉西瓜拾个芝麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_tio_xi_gua_sheh_gu_zhr_ma.md#丢掉西瓜拾个芝麻)】`dieu1 tio xi1 gua1 sheh8 gu zhr1 ma2` <sup>[东台]</sup> （俗语）因小失大。  
 1. 【[丢相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_xian.md#丢相)】`dieu1 xian5` <small>/tiɤ1 ɕiaŋ5/<sup>兴化</sup>, /tyʊ1 ɕiã5/<sup>如皋</sup></small> ① 失体。<sup>\[如皋\]</sup> ② 丢脸挂相。<sup>\[东台\]</sup> ③ 出丑，丢人。<sup>\[兴化\]</sup>  
-1. 【[丢形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_xien.md#丢形)】`dieu1 xien2` <sup>[如皋]</sup> 失体面。  
-1. 【[丢形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_xien.md#丢形)】`dieu1 xien2` <small>/təɪ1 ɕiŋ2/<sup>泰兴</sup></small> 丢脸，丢架子。<sup>\[泰兴\]</sup>  
+1. 【[丢形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_xien.md#丢形)】`dieu1 xien2` <small>/tyʊ1 ɕiəŋ2/<sup>如皋</sup>, /təɪ1 ɕiŋ2/<sup>泰兴</sup></small> ① 失体面。<sup>\[如皋\]</sup> ② 丢脸，丢架子。<sup>\[泰兴\]</sup>  
 1. 【[丢种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_zhon.md#丢种)】`dieu1 zhon3` <sup>[如皋]</sup> 点播时下种子。  
 1. 【[奀奀奀奀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dih_dih_dih_dih_r.md#奀奀奀奀<sub>儿</sub>)】`dih dih dih dih r` <sup>[如皋]</sup> 见“奀奀儿”。  
 1. 【[奀奀奀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dih_dih_dih_r.md#奀奀奀<sub>儿</sub>)】`dih dih dih r` <sup>[如皋]</sup> 见“奀奀儿”。  
@@ -1985,8 +1977,7 @@
 1. 【[屌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio.md#屌)】`dio3` <sup>[如皋]</sup> ① 粗鄙语，也说“屌子”。 ② 指“没有”：你哿有钱吖——～！ ③ 事情不济：事情～啊啦，没法想吖啦！  
 1. 【[屌塴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_bon_r.md#屌塴<sub>儿</sub>)】`dio3 bon5 r` 腹股沟。  
 1. 【[屌咚屌咚的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_don_dio_don_dii.md#屌咚屌咚的)】`dio3 don3 dio3 don3 dii` <sup>[东台]</sup> 形容不知趣，或没精打采地走路的样子。  
-1. 【[屌儿郎当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_er_lan_dan.md#屌儿郎当)】`dio3 er2 lan2 dan1` <sup>[东台]</sup> 形容仪容不整，作风散漫。  
-1. 【[屌儿郎当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_er_lan_dan.md#屌儿郎当)】`dio3 er2 lan2 dan1` <small>/tiɔ3 ɚ2 lɑŋ2 tɑŋ1/<sup>泰兴</sup></small> 形容作风散漫、态度不严肃、仪容不整等。<sup>\[泰兴\]</sup>  
+1. 【[屌儿郎当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_er_lan_dan.md#屌儿郎当)】`dio3 er2 lan2 dan1` <small>/tiɔ3 ɚ2 lɑŋ2 tɑŋ1/<sup>泰兴</sup></small> ① 形容仪容不整，作风散漫。<sup>\[东台\]</sup> ② 形容作风散漫、态度不严肃、仪容不整等。<sup>\[泰兴\]</sup>  
 1. 【[屌话饰卵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_hua_sheh_lun.md#屌话饰卵)】`dio3 hua sheh7 lun3` <sup>[如东]</sup> 比喻胡说八道，满口谎言：这个人～的，不要相信。  
 1. 【[屌郎当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_lan_dan.md#屌郎当)】`dio3 lan2 dan1` <sup>[东台]</sup> 男人（多指男孩）一丝不挂的样子。  
 1. 【[屌毛灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_mo_huei.md#屌毛灰)】`dio3 mo2 huei1` <small>/tiɔ3 mɔ2 xuei1/<sup>如皋</sup></small> ① 比喻没有用的人。<sup>\[如东\]</sup>：他是个～。<sup>\[如东\]</sup> ② 轻微得不值提、不屑一说或指什么都没有。<sup>\[如皋\]</sup> ③ 见“卵毛灰”。<sup>\[如皋\]</sup> ④ 粗话，表示极度轻蔑<sup>\[泰州\]</sup>：（甲）你嘴里不要瞎说八道的，当心他收拾你！（乙）～，他就是人在这块，也没得哪个怕他。<sup>\[泰州\]</sup>  
@@ -2021,8 +2012,7 @@
 1. 【[吊桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_qio.md#吊桥)】`dio5 qio2` <sup>[如东]</sup> 一端能移吊起来的桥。旧时在护城河上多建此种桥。  
 1. 【[吊丧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_san.md#吊丧)】`dio5 san1` <sup>[如东]</sup> 到丧家去祭奠死者。  
 1. 【[吊嗓子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_san_zz.md#吊嗓子)】`dio5 san3 zz` <small>/tiɔ5 sɑŋ3 t͡sɿ/<sup>泰兴</sup></small> 戏曲或歌唱演员锻炼嗓音。<sup>\[泰兴\]</sup>  
-1. 【[吊杀鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_shaeh_guei.md#吊杀鬼)】`dio5 shaeh7 guei3` <sup>[如皋]</sup> ① 吊死者，或指其魂魄。 ② 詈语。或指瘦长体型者。  
-1. 【[吊杀鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_shaeh_guei.md#吊杀鬼)】`dio5 shaeh7 guei3` <small>/tiɔ5 ɕiæʔ7 kuəɪ3/<sup>泰兴</sup></small> 上吊而死者。<sup>\[泰兴\]</sup>  
+1. 【[吊杀鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_shaeh_guei.md#吊杀鬼)】`dio5 shaeh7 guei3` <small>/tiɔ5 seʔ7 kuei3/<sup>如皋</sup>, /tiɔ5 ɕiæʔ7 kuəɪ3/<sup>泰兴</sup></small> ① 吊死者，或指其魂魄。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup> ② 詈语。或指瘦长体型者。<sup>\[如皋\]</sup>  
 1. 【[吊杀鬼搽粉，死要脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_shaeh_guei_cha.md#吊杀鬼搽粉，死要脸)】`dio5 shaeh7 guei3 cha2 fen3 sz3 io5 lin3` <small>/tiɔ5 ɕiæʔ7 kuəɪ3 t͡sʰɑ2 fəŋ3 sɿ3 iɔ5 lĩ3/<sup>泰兴</sup></small> 骂人语。谓死要面子。<sup>\[泰兴\]</sup>  
 1. 【[吊杀鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_shaeh_ji.md#吊杀鸡)】`dio5 shaeh7 ji1` <small>/tiɔ5 ɕiæʔ7 t͡ɕʝ1/<sup>泰兴</sup></small> 状若玉米、高粱的一年生植物，其杆似甘蔗，甜而酥。俗名“吊杀鸡”。今少见。<sup>\[泰兴\]</sup>  
 1. 【[吊梢眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_sho_ngaen.md#吊梢眼)】`dio5 sho1 ngaen3` <sup>[泰州]</sup> 亦作“吊眼梢”，特指靠近两鬓处的眼角上扬的丹凤眼。  
@@ -2036,8 +2026,7 @@
 1. 【[吊胃口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_vei_keu.md#吊胃口)】`dio5 vei5 keu3` <small>/tiɔ5 uəi5 kʰɤ3/<sup>兴化</sup>, /tiɔ5 ʋei5 kʰei3/<sup>如皋</sup>, /tiɔ5 ʋəɪ5 kʰəɪ3/<sup>泰兴</sup></small> ① 引起欲望。<sup>\[如皋\]</sup> ② 用好吃的东西引起人食欲。<sup>\[兴化\]</sup> ③ （喻）投放诱饵，令人产生兴趣或欲望<sup>\[兴化\]</sup>：你不必来～，你说的事我不感兴趣。<sup>\[兴化\]</sup> ④ 通过某些吸引人的东西激发人的兴趣或欲望<sup>\[泰州\]</sup>：有甚的话你就赶快说，不要同大家玩～哿好。<sup>\[泰州\]</sup> ⑤ 诱发人的兴趣、欲望；引起人的食欲。<sup>\[泰兴\]</sup>  
 1. 【[吊线](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_xin.md#吊线)】`dio5 xin5` <sup>[如东]</sup> 工匠测量垂直线的一种方法。将线的一头固定在物体上，垂下，便可测得建筑物的垂直线。  
 1. 【[吊孝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_xio.md#吊孝)】`dio5 xio5` <sup>[如东]</sup> 吊丧。  
-1. 【[吊纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_zhr.md#吊纸)】`dio5 zhr3` <sup>[兴化]</sup> 吊丧：他叔丈人死啊，他要去～。  
-1. 【[吊纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_zhr.md#吊纸)】`dio5 zhr3` <small>/tiɔ5 t͡sɿ3/<sup>泰兴</sup></small> 吊丧。旧时吊丧时要自带纸钱，故有此称。今此俗尚存。<sup>\[泰兴\]</sup>  
+1. 【[吊纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_zhr.md#吊纸)】`dio5 zhr3` <small>/tiɔ5 t͡sɿ3/<sup>兴化</sup>, /tiɔ5 t͡sɿ3/<sup>泰兴</sup></small> 吊丧<sup>\[兴化\]</sup>\[泰兴：旧时吊丧时要自带纸钱，故有此称。今此俗尚存。\]：他叔丈人死啊，他要去～。<sup>\[兴化\]</sup>  
 1. 【[掉膘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_bio.md#掉膘)】`dio5 bio1` <small>/tiɔ5 piɔ1/<sup>兴化</sup></small> ① 畜禽因少进食而消瘦。<sup>\[兴化\]</sup> ② 牲畜膘情下降。<sup>\[如东\]</sup>  
 1. 【[掉暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_bo.md#掉暴)】`dio5 bo5` <small>/tiɔ5 pɔ5/<sup>如皋</sup></small> ① 天气转冷或刮风。<sup>\[如东\]</sup> ② 寒潮侵袭。<sup>\[如皋\]</sup>  
 1. 【[掉秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_chen.md#掉秤)】`dio5 chen5` <small>/tiɔ5 t͡sʰən5/<sup>兴化</sup></small> ① 折秤，物品因故减少了斤两。<sup>\[兴化\]</sup> ② 使秤掉下，复秤之时，将秤杆上的秤砣移到应有重量秤花处，秤杆下落，意为所称之物重量未达应有重量<sup>\[泰州\]</sup>：你这个人的秤肯定有问题，刚才你称吖是五斤，我拿家里的秤一称就～。<sup>\[泰州\]</sup>  

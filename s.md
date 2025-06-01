@@ -736,8 +736,7 @@
 1. 【[伤连](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_lin.md#伤连)】`shan1 lin2` <sup>[如皋]</sup> 伤害较重、较深：他不过剪吖你的鞋带子，不～，算吖吧。  
 1. 【[伤吖灵慧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_nga_lien_huei.md#伤吖灵慧)】`shan1 nga lien2 huei6` <sup>[东台]</sup> ［喻］伤神至本（慧乃智根）：几个骨干调啊走啊，我俫单位真的～。  
 1. 【[伤吖年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_nga_nin.md#伤吖年)】`shan1 nga nin2` <sup>[泰县]</sup> 动真格的。  
-1. 【[伤脑筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_no_jien.md#伤脑筋)】`shan1 no3 jien1` <sup>[东台]</sup> 形容事情难办。  
-1. 【[伤脑筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_no_jien.md#伤脑筋)】`shan1 no3 jien1` <small>/sɑŋ1 nɔ3 t͡ɕiŋ1/<sup>泰兴</sup></small> 形容事情难办，费心思。<sup>\[泰兴\]</sup>  
+1. 【[伤脑筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_no_jien.md#伤脑筋)】`shan1 no3 jien1` <small>/sɑŋ1 nɔ3 t͡ɕiŋ1/<sup>泰兴</sup></small> ① 形容事情难办。<sup>\[东台\]</sup> ② 形容事情难办，费心思。<sup>\[泰兴\]</sup>  
 1. 【[伤皮不伤骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_pi_beh_shan_gueh.md#伤皮不伤骨)】`shan1 pi2 beh7 shan1 gueh7` <sup>[兴化]</sup> ① 外表伤：老向的头撞破啊，～，搽一点药水也就好多啊。 ② 小的损失，没动到根本：这次出去进货，捱小偷摸去几百块钱，算得～。  
 1. 【[伤脾胃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_pi_vei.md#伤脾胃)】`shan1 pi2 vei` <small>/sɑŋ1 pʰʝ2 ʋəɪ/<sup>泰兴</sup></small> 谓有所损害。<sup>\[泰兴\]</sup>：我就说咖箇句话，也不～<sup>\[泰兴\]</sup>  
 1. 【[伤人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_ren.md#伤人)】`shan1 ren2` <sup>[如东]</sup> ① 致人受伤：加强保护，不能～。 ② 致人死亡的委婉说法：事故伤吖人。  
@@ -746,8 +745,7 @@
 1. 【[伤食宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_sheh_bo_r.md#伤食宝<sub>儿</sub>)】`shan1 sheh8 bo3 r` <small>/sã1 səʔ8 pɔ˞3/<sup>如皋</sup></small> ① 吃伤脾胃的小孩。谚：～不要医，饿到太阳大歪西。<sup>\[如皋\]</sup> ② 因贪吃而肠胃消化不良的孩子。<sup>\[如东\]</sup>  
 1. 【[伤食瘠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_sheh_jieh.md#伤食瘠)】`shan1 sheh8 jieh7` <sup>[如东]</sup> 因饮食过多而使食欲减退，中医称这种疾病为伤食瘠。  
 1. 【[伤声棒气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_shen_pan_qi.md#伤声棒气)】`shan1 shen1 pan6 qi5` <sup>[兴化]</sup> 由于心情不快而说话语气不好：这几天闹情绪，说话总是～的。  
-1. 【[伤神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_shen.md#伤神)】`shan1 shen2` <sup>[东台]</sup> 过度耗费精神。  
-1. 【[伤神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_shen.md#伤神)】`shan1 shen2` <small>/sɑŋ1 səŋ2/<sup>泰兴</sup></small> 耗损精神。<sup>\[泰兴\]</sup>  
+1. 【[伤神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_shen.md#伤神)】`shan1 shen2` <small>/sɑŋ1 səŋ2/<sup>泰兴</sup></small> 耗损精神。<sup>\[泰兴\]</sup>\[东台：过度耗费精神。\]  
 1. 【[伤天害理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_tin_hae_li.md#伤天害理)】`shan1 tin1 hae6 li3` <small>/sã1 tʰĩ1 xɛ1 lʝ3/<sup>如皋</sup></small> ① 见“伤德”。<sup>\[如皋\]</sup> ② 违法乱纪，不近人情。<sup>\[如东\]</sup>：不能做～的事。<sup>\[如东\]</sup>  
 1. 【[伤心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_xien.md#伤心)】`shan1 xien1` <sup>[如东]</sup> 感情受到剌激而产生悲痛：她非常～。  
 1. 【[伤中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_zhon.md#伤中)】`shan1 zhon1` <sup>[泰县]</sup> 中伤。  
@@ -2909,8 +2907,7 @@
 1. 【[扫帚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_zheu.md#扫帚)】`so5 zheu3` <sup>[如东]</sup> 用高梁苗子扎成，前端扁形，后边有柄。用于扫地。  
 1. 【[扫帚眉毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_zheu_mi_mo.md#扫帚眉毛)】`so5 zheu3 mi2 mo2` <sup>[如东]</sup> 粗眉：吴强有一副漂亮的～。  
 1. 【[扫帚星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_zheu_xien.md#扫帚星)】`so5 zheu3 xien1` <sup>[如东]</sup> 慧星。迷信者认为此星是凶相。比喻良心不好的人。  
-1. 【[扫竹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_zhoh.md#扫竹)】`so5 zhoh7` <sup>[兴化]</sup> 小竹枝条扎成的长柄扫帚，用于清扫街道、庭院或农村的打谷场。  
-1. 【[扫竹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_zhoh.md#扫竹)】`so5 zhoh7` <small>/sɔ5 t͡sɔʔ7/<sup>泰兴</sup></small> 大扫帚。<sup>\[泰兴\]</sup>  
+1. 【[扫竹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_zhoh.md#扫竹)】`so5 zhoh7` <small>/sɔ5 t͡sɔʔ7/<sup>兴化</sup>, /sɔ5 t͡sɔʔ7/<sup>泰兴</sup></small> ① 小竹枝条扎成的长柄扫帚，用于清扫街道、庭院或农村的打谷场。<sup>\[兴化\]</sup> ② 大扫帚。<sup>\[泰兴\]</sup>  
 1. 【[扫竹星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_zhoh_xien.md#扫竹星)】`so5 zhoh7 xien1` <small>/sɔ5 t͡sɔʔ7 ɕin1/<sup>兴化</sup>, /sɔ5 t͡sɔʔ7 ɕiŋ1/<sup>泰兴</sup></small> ① 彗星。<sup>\[兴化\]</sup> ② （喻）指败家或制造不和者（多指女性）<sup>\[兴化\]</sup>：这个～，把家里搅得六畜不安！<sup>\[兴化\]</sup> ③ 詈骂败家或引起家庭不和的妇女的词。《封神演义》中姜子牙的妻子马氏生前不贤，死后被封为“扫帚星”。旧时迷信遂认为扫帚星一旦出现，则有战祸、天灾，如果女子命犯扫竹星，会给家族带来灾难或者厄运。<sup>\[泰州\]</sup> ④ 彗星的俗称。前人迷信出现彗星为不祥之兆。《黄桥烧饼歌》：“天上有个～，地下有个韩德勤⋯”<sup>\[泰兴\]</sup>  
 1. 【[燥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so.md#燥)】`so5` <sup>[如皋]</sup> 干燥：天～、风～天。  
 1. 【[燥市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_shr.md#燥市)】`so5 shr6` <sup>[如皋]</sup> 特别畅销的行情。  
@@ -3173,8 +3170,7 @@
 1. 【[丝瓜络](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_gua_lah.md#丝瓜络)】`sz1 gua1 lah8` <small>/sɿ1 kua1 laʔ8/<sup>兴化</sup></small> ① 葫芦科植物丝瓜老熟果实的纤维，也叫天骷髅。<sup>\[如东\]</sup> ② 见“丝瓜瓤子”。<sup>\[兴化\]</sup> ③ 丝瓜果实老透以后，去皮去种留下完整筋络，常用于洗涤餐具或者沐浴时擦身。<sup>\[泰州\]</sup>  
 1. 【[丝瓜瓤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_gua_ran_zz.md#丝瓜瓤子)】`sz1 gua1 ran2 zz` <sup>[兴化]</sup> 丝瓜成熟并晒干后呈网状，可入药。日常用于洗涤餐具，沐浴时用来擦身。也称“丝瓜络”。  
 1. 【[丝瓜子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_gua_zz.md#丝瓜子)】`sz1 gua1 zz` <small>/sɿ1 kua1 t͡sɿ/<sup>如皋</sup>, /sɿ1 kuɑ1 t͡sɿ/<sup>泰兴</sup></small> 丝瓜。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>\[泰州：一年生的草本植物，果实细长，略如黄瓜，嫩时可供蔬食，成熟以后内有强韧网状纤维，用作擦拭或者入药。\]  
-1. 【[丝瓜子筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_gua_zz_jien.md#丝瓜子筋)】`sz1 gua1 zz jien1` <sup>[如皋]</sup> 丝瓜络。供药用，或作助浴、清洗用具。  
-1. 【[丝瓜子筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_gua_zz_jien.md#丝瓜子筋)】`sz1 gua1 zz jien1` <small>/sɿ1 kuɑ1 t͡sɿ t͡ɕiŋ1/<sup>泰兴</sup></small> 丝瓜成熟后内在的经络，可作洗涤用品。<sup>\[泰兴\]</sup>  
+1. 【[丝瓜子筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_gua_zz_jien.md#丝瓜子筋)】`sz1 gua1 zz jien1` <small>/sɿ1 kua1 t͡sɿ t͡ɕiəŋ1/<sup>如皋</sup>, /sɿ1 kuɑ1 t͡sɿ t͡ɕiŋ1/<sup>泰兴</sup></small> ① 丝瓜络。供药用，或作助浴、清洗用具。<sup>\[如皋\]</sup> ② 丝瓜成熟后内在的经络，可作洗涤用品。<sup>\[泰兴\]</sup>  
 1. 【[丝瓜子刨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_gua_zz_po.md#丝瓜子刨子)】`sz1 gua1 zz po6 zz` <small>/sɿ1 kuɑ1 t͡sɿ pʰɔ1 t͡sɿ/<sup>泰兴</sup></small> 刨丝瓜皮的小用具。<sup>\[泰兴\]</sup>  
 1. 【[丝行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_han.md#丝行)】`sz1 han2` <sup>[如皋]</sup> 旧时经营蚕茧、蚕丝、丝线等的商行。  
 1. 【[丝绞帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_jio_ban.md#丝绞帮)】`sz1 jio3 ban1` <sup>[如皋]</sup> 绞丝旁。  
@@ -3216,7 +3212,6 @@
 1. 【[私下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ha.md#私下)】`sz1 ha6` <sup>[兴化]</sup> 见“私底下”。  
 1. 【[私下里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ha_lii.md#私下里)】`sz1 ha6 lii` <sup>[泰州]</sup> 背地里：我～跟他打过招呼唻。  
 1. 【[私有](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ieu.md#私有)】`sz1 ieu3` <sup>[如东]</sup> 所有权属于私人的东西：这笔存款属于我的～资金。  
-1. 【[私有私顺便](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ieu_sz_shuen_pin.md#私有私顺便)】`sz1 ieu3 sz1 shuen6 pin` <sup>[东台]</sup> 自己有的东西使用更方便。  
 1. 【[私交](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_jio.md#私交)】`sz1 jio1` <sup>[如东]</sup> 私人之间的交情：他俫的～好。  
 1. 【[私窠子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ku_zz.md#私窠子)】`sz1 ku1 zz` <sup>[泰县]</sup> 搞不正当关系的人  
 1. 【[私了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_lio.md#私了)】`sz1 lio3` ① 不经过司法程序而私下了结。<sup>\[如东\]</sup>：这个问题还是～吧。<sup>\[如东\]</sup> ② 不经过司法或行政程序，私下里了结。<sup>\[东台\]</sup> ③ 民间涉讼案件或者纠纷不经过行政或者司法部门处理了结，而是私下通过中人协商解决，相对“公了”<sup>\[泰州\]</sup>：你这种事情不上台盘，还是～好。<sup>\[泰州\]</sup>  
@@ -3418,8 +3413,8 @@
 1. 【[肆误](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_v.md#肆误)】`sz5 v` <small>/sɿ5 ʋu/<sup>如皋</sup></small> ① 因判断错误或操作不当造成坏的结果。与耽误、贻误近义。东台词典写“失误”<sup>\[东台\]</sup>：他的病太重，不能怪医生～。<sup>\[东台\]</sup> ② 意外差错或事故。如皋词典作“失误”<sup>\[如皋\]</sup>：出～。<sup>\[如皋\]</sup> ③ 延误<sup>\[如皋\]</sup>：病捱～下来啊。<sup>\[如皋\]</sup> ④ 由于没有抓紧办理而导致事情未能做好或者未能完成<sup>\[泰州\]</sup>：还以为他这件事早就弄吖好啊的，哪晓得捱他～下来啊，你说哿教人着躁。<sup>\[泰州\]</sup>  
 1. 【[似](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz.md#似)】`sz6` <sup>[泰州]</sup> 介词，用于形容词之后，表示比较：一声高～一声｜肚子一天大～一天｜他的成绩远远好～你。｜他的个子高～你。  
 1. 【[自在](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_cae.md#自在)】`sz6 cae6` <sup>[东台]</sup> 自由；快活：你坐啊河边钓钓鱼，看看书，多～啊！  
-1. 【[自家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ga.md#自家)】`sz6 ga1, sz6 ga3` <sup>[东台]</sup> 自己。  
-1. 【[自家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ga.md#自家)】`sz6 ga1` <small>/sɿ1 ka1/<sup>如皋</sup>, /sɿ1 ka1/<sup>泰县</sup></small> 自己。<sup>\[如皋\]</sup><sup>\[泰县\]</sup>  
+1. 【[自家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ga.md#自家)】`sz6 ga1` <small>/sɿ1 ka1/<sup>如皋</sup>, /sɿ1 kɑ1/<sup>泰兴</sup>, /sɿ1 ka1/<sup>泰县</sup></small> 自己。<sup>\[如皋\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>\[东台：又 sz6 ga3\]  
 1. 【[自家家里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ga_ga_lii.md#自家家里)】`sz6 ga1 ga1 lii` <sup>[如皋]</sup> 自己家里。  
 1. 【[自有自便](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ieu_sz_pin.md#自有自便)】`sz6 ieu3 sz6 pin6` 自己拥有（相对于仰仗别人），自己方便。  
+1. 【[自有自顺便](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ieu_sz_shuen_pin.md#自有自顺便)】`sz6 ieu3 sz6 shuen6 pin` <sup>[东台]</sup> 自己有的东西使用更方便。  
 **[▲](#音序检索)**  

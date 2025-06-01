@@ -91,8 +91,7 @@
 1. 【[在家靠父母，出门靠朋友](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_ga_ko_fv.md#在家靠父母，出门靠朋友)】`cae6 ga1 ko5 fv6 mu3 chueh7 men2 ko5 pon2 ieu3` <sup>[东台]</sup> 人离不开亲情友情。  
 1. 【[在家靠父母，出外靠朋友](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_ga_ko_fv.md#在家靠父母，出外靠朋友)】`cae6 ga1 ko5 fv6 mu3 chueh7 vae6 ko5 pon2 ieu3` <small>/t͡ɕʰiɛ1 kɑ1 kʰɔ5 fʋ1 mɤɯ3 t͡sʰuəʔ7 ʋɛ1 kʰɔ5 pʰɔŋ2 iɤɯ3/<sup>泰兴</sup></small> 谓广交朋友会给自己带来方便与快乐。<sup>\[泰兴\]</sup>  
 1. 【[在家饿得哭，出门不吃粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_ga_ngu_deh.md#在家饿得哭，出门不吃粥)】`cae6 ga1 ngu6 deh7 koh7 chueh7 men2 beh7 qieh7 zhoh7` <small>/t͡ɕʰiɛ1 kɑ1 ŋɤɯ1 təʔ7 kʰɔʔ7 t͡sʰuəʔ7 məŋ2 pəʔ7 t͡ɕʰiəʔ7 t͡sɔʔ7/<sup>泰兴</sup></small> 作客时要求要高一些。有打肿脸皮充胖子之嫌，含贬义。<sup>\[泰兴\]</sup>  
-1. 【[在家千日好，出门一时难](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_ga_qin_rih_ho_chueh_men_ieh_shr_naen.md#在家千日好，出门一时难)】`cae6 ga1 qin1 rih8 ho3 chueh7 men2 ieh7 shr2 naen2` <sup>[东台]</sup> 从有亲人照料，日常用物熟悉，处处方便、环境适应等角度看，在家比外出好。  
-1. 【[在家千日好，出门一时难](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_ga_qin_rih_ho_chueh_men_ieh_shr_naen.md#在家千日好，出门一时难)】`cae6 ga1 qin1 rih8 ho3 chueh7 men2 ieh7 shr2 naen2` <small>/t͡ɕʰiɛ1 kɑ1 t͡ɕʰĩ1 iʔ8 xɔ3 t͡sʰuəʔ7 məŋ2 iʔ7 sɿ2 nɛ̃2/<sup>泰兴</sup></small> 谓到了人生地疏的地方，办什么事都会遇到困难。<sup>\[泰兴\]</sup>  
+1. 【[在家千日好，出门一时难](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_ga_qin_rih_ho_chueh_men_ieh_shr_naen.md#在家千日好，出门一时难)】`cae6 ga1 qin1 rih8 ho3 chueh7 men2 ieh7 shr2 naen2` <small>/t͡ɕʰiɛ1 kɑ1 t͡ɕʰĩ1 iʔ8 xɔ3 t͡sʰuəʔ7 məŋ2 iʔ7 sɿ2 nɛ̃2/<sup>泰兴</sup></small> ① 从有亲人照料，日常用物熟悉，处处方便、环境适应等角度看，在家比外出好。<sup>\[东台\]</sup> ② 谓到了人生地疏的地方，办什么事都会遇到困难。<sup>\[泰兴\]</sup>  
 1. 【[在公在谱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_gon_cae_pv.md#在公在谱)】`cae6 gon1 cae6 pv3` <sup>[兴化]</sup> 说话、处事合理合法，使各方面都能接受：厂里对下岗工人的处理～，大家满意。  
 1. 【[在下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_ha.md#在下)】`cae6 ha6` <sup>[兴化]</sup> ① 存在、生存：钢笔哿～啊？一～哩！父母全～。 ② 在那儿，正在：小毛～算账哎。｜他～瞎说。  
 1. 【[在行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_han.md#在行)】`cae6 han2` <small>/t͡sʰɛ1 xã2/<sup>如皋</sup>, /t͡ɕʰiɛ1 xɑŋ2/<sup>泰兴</sup>, /t͡sʰe1 xɑŋ2/<sup>泰县</sup></small> 内行，熟谙某一行。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：生意上的事你没得她～。<sup>\[泰州\]</sup>  
@@ -1529,8 +1528,7 @@
 1. 【[出脆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chueh_cuei.md#出脆)】`chueh7 cuei5` <sup>[兴化]</sup> ① 语言有新意：他说出话来，叫人越听越有意思。 ② 工艺品制作精巧，与众不同：这老两口香嘴的泥塑蛮～的。  
 1. 【[出粪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chueh_fen.md#出粪)】`chueh7 fen5` <sup>[如皋]</sup> 从厕坑或毛缸中运出粪便。  
 1. 【[出分子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chueh_fen_zz.md#出分子)】`chueh7 fen6 zz` <small>/t͡sʰuəʔ7 fəŋ1 t͡sɿ/<sup>泰兴</sup></small> 为庆吊、招待客人等送礼物或现金，众人各分摊一分。<sup>\[泰兴\]</sup>  
-1. 【[出伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chueh_foh.md#出伏)】`chueh7 foh8` <sup>[如东]</sup> 伏天结束。  
-1. 【[出伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chueh_foh.md#出伏)】`chueh7 foh8` <small>/t͡sʰuəʔ7 fɔʔ8/<sup>泰兴</sup></small> 出了伏天，伏天结束。<sup>\[泰兴\]</sup>  
+1. 【[出伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chueh_foh.md#出伏)】`chueh7 foh8` <small>/t͡sʰuəʔ7 fɔʔ8/<sup>泰兴</sup></small> ① 伏天结束。<sup>\[如东\]</sup> ② 出了伏天，伏天结束。<sup>\[泰兴\]</sup>  
 1. 【[出服](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chueh_foh.md#出服)】`chueh7 foh8` <sup>[如东]</sup> 五服以后，称出服。出服了，宗族关系（血缘关系）开始疏远。  
 1. 【[出风头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chueh_fon_teu.md#出风头)】`chueh7 fon1 teu` ① 出头露面，显示自己。<sup>\[如东\]</sup> ② 主动出头露面显示自己了不得<sup>\[泰州\]</sup>：他好～又不是今吖一天的事。<sup>\[泰州\]</sup>  
 1. 【[出芥<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chueh_gae_r.md#出芥<sub>儿</sub>)】`chueh7 gae5 r` <sup>[如皋]</sup> 长小叶片。喻从小儿、有生以来：我～不曾吃过这种苦过。  
@@ -2112,8 +2110,7 @@
 1. 【[坐定](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_tien.md#坐定)】`cu6 tien6` <sup>[如皋]</sup> 料定、断定：他今朝去，～不得家来。  
 1. 【[坐相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_xian.md#坐相)】`cu6 xian5` <sup>[兴化]</sup> 指坐姿：她们像男人一样的挣钱，走相、～也像男人。（汪曾祺《大淖记事》）  
 1. 【[坐性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_xien.md#坐性)】`cu6 xien5` <sup>[兴化]</sup> 有耐心，能长时间坐着不动身，或在住处不外出：“师父，我知你没甚～，我与你个安身法儿”。（《西游记》五十）｜“这先生最好，只是～差些……”（《儒林外史》四六）也说“坐功”。  
-1. 【[坐小月子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_xio_iuh_zz.md#坐小月子)】`cu6 xio3 iuh8 zz` <sup>[兴化]</sup> 见“小养”。  
-1. 【[坐小月子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_xio_iuh_zz.md#坐小月子)】`cu6 xio3 iuh8 zz` <sup>[泰州]</sup> 妇女流产以后在家休息，调养身体。  
+1. 【[坐小月子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_xio_iuh_zz.md#坐小月子)】`cu6 xio3 iuh8 zz` <small>/t͡sʰo6 ɕiɔ3 yuʔ8 t͡sɿ/<sup>兴化</sup></small> ① 见“小养”。<sup>\[兴化\]</sup> ② 妇女流产以后在家休息，调养身体。<sup>\[泰州\]</sup>  
 1. 【[坐庄客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_zhuan_keh.md#坐庄客)】`cu6 zhuan1 keh7` <sup>[如皋]</sup> 常驻于产供方采购的客商。  
 1. 【[坐主](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_zhv.md#坐主)】`cu6 zhv3` <small>/t͡sʰʊ1 t͡su3/<sup>如皋</sup></small> ① 幕后出谋划策的人。<sup>\[如东\]</sup>：这个人是本地的～。<sup>\[如东\]</sup> ② 幕后人物，操纵者。<sup>\[如皋\]</sup> ③ 作秘密活动的本地住户。<sup>\[如皋\]</sup>  
 1. 【[坐租](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_zv.md#坐租)】`cu6 zv1` <sup>[如皋]</sup> 租赁时向主家预缴的保证金，期满时才可退还。与“行租”相对。  
@@ -2167,8 +2164,7 @@
 1. 【[存吖个心眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_nga_gu_xien_ngaen_r.md#存吖个心眼<sub>儿</sub>)】`cuen2 nga gu xien1 ngaen3 r` <sup>[东台]</sup> 指暗暗做好应急准备：为啊防止对方死不认账，我～，把谈判过程录咖相。  
 1. 【[存神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_shen.md#存神)】`cuen2 shen2` <small>/t͡sʰuən2 sən2/<sup>兴化</sup>, /t͡sʰuəŋ2 səŋ2/<sup>如皋</sup>, /t͡ɕʰyəŋ2 səŋ2/<sup>泰县</sup></small> 留神、当心、注意<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：出门要～。<sup>\[如东\]</sup>｜他平常说话非常～，惟恐得罪啊人。<sup>\[兴化\]</sup>｜这件事你～。<sup>\[泰县\]</sup>｜你同这种心术不正的人共事要～。<sup>\[泰州\]</sup>  
 1. 【[存细](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_xi.md#存细)】`cuen2 xi5` <small>/t͡sʰuəŋ2 ɕʝ5/<sup>如皋</sup></small> ① 留神，小心谨慎。<sup>\[如皋\]</sup> ② 细心；小心；当心<sup>\[东台\]</sup>：你同这个人打交道，要～啊！<sup>\[东台\]</sup>  
-1. 【[存心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_xien.md#存心)】`cuen2 xien1` <sup>[东台]</sup> 有意识地做某事（多含贬义）：你是～挖我的墙脚！  
-1. 【[存心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_xien.md#存心)】`cuen2 xien1` <small>/t͡sʰuəŋ2 ɕiŋ1/<sup>泰兴</sup></small> 居心；心中早有预谋、计划。<sup>\[泰兴\]</sup>  
+1. 【[存心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_xien.md#存心)】`cuen2 xien1` <small>/t͡sʰuəŋ2 ɕiŋ1/<sup>泰兴</sup></small> ① 有意识地做某事（多含贬义）<sup>\[东台\]</sup>：你是～挖我的墙脚！<sup>\[东台\]</sup> ② 居心；心中早有预谋、计划。<sup>\[泰兴\]</sup>  
 1. 【[存账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_zhan.md#存账)】`cuen2 zhan5` <sup>[如东]</sup> 把资金存人账户。  
 1. 【[寸骨寸伤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_gueh_cuen_shan.md#寸骨寸伤)】`cuen5 gueh7 cuen5 shan1` <small>/t͡sʰuən5 kuəʔ7 t͡sʰuən5 saŋ1/<sup>兴化</sup></small> ① 伤筋断骨。<sup>\[如东\]</sup>：何必动手，打得～的。<sup>\[如东\]</sup> ② 形容遍体鳞伤<sup>\[兴化\]</sup>：那两旁边妇人一齐答应，一齐乱打，打得二人～。（《八窍珠》九）<sup>\[兴化\]</sup>  
 1. 【[寸金糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_jien_tan.md#寸金糖)】`cuen5 jien1 tan2` <small>/t͡sʰuən5 t͡ɕin1 tʰaŋ2/<sup>兴化</sup>, /t͡sʰuəŋ5 t͡ɕiəŋ1 tʰã2/<sup>如皋</sup></small> ① 用糖稀做成的糖棍。其内包桂花糖、芝麻屑儿，外裹芝麻，色泽金黄，长约寸许。<sup>\[如皋\]</sup> ② 一种糖果，寸把长，外滚芝麻。<sup>\[东台\]</sup> ③ 由饴糖做成的小棍，内包砂糖、芝麻屑等，外沾艺麻，长寸许，酥甜可口。<sup>\[兴化\]</sup>  
@@ -2349,24 +2345,26 @@
 1. 【[牸牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_ngeu.md#牸牛)】`cz6 ngeu2` <small>/t͡sʰɿ6 ɤ2/<sup>兴化</sup>, /t͡sʰɿ1 ŋei2/<sup>如皋</sup></small> ① 壮年的母牛。<sup>\[如东\]</sup> ② 母水牛。<sup>\[如皋\]</sup> ③ 母牛。<sup>\[如皋\]</sup> ④ 雌牛。《广韵·志韵》疾置切，“牸，牝牛”。<sup>\[兴化\]</sup> ⑤ 阉割过的母水牛。<sup>\[泰州\]</sup>  
 1. 【[牸与牡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_y_mu.md#牸与牡)】`cz6 y3 mu3` <sup>[东台]</sup> 牸为母畜，牡为公畜。［喻］指事情的正反、输赢、好坏等不同情况。民间猜～通常是用一个物件的正面与反面随机定输赢。形容某人对某事说不出道道来也叫说不出个～。  
 1. 【[自不小心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_beh_xio_xien.md#自不小心)】`cz6 beh7 xio3 xien1` <sup>[兴化]</sup> 指自己不谨慎，没注意：“万家的家人，原是～，失去的盐斤，也还有限……”（《儒林外史》四三）｜谚曰～，挈带四邻。  
+1. 【[自搬砖头自打脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_bun_zhun_teu.md#自搬砖头自打脚)】`cz6 bun1 zhun1 teu cz6 da3 jiah7` <small>/t͡sʰɿ1 pʊ̃1 t͡sʊ̃1 tʰəɪ t͡sʰɿ1 tɑ3 t͡ɕiɑʔ7/<sup>泰兴</sup></small> 谓自己给自己造成麻烦或带来了损失。<sup>\[泰兴\]</sup>  
 1. 【[自裁自做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_cae_cz_zu.md#自裁自做)】`cz6 cae2 cz6 zu5` <sup>[兴化]</sup> 制农时，自己裁剪，自己缝纫。  
 1. 【[自充其能](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_chon_qi_nen.md#自充其能)】`cz6 chon1 qi2 nen2` <sup>[兴化]</sup> 不懂装懂，不行说行：他～的去弄电视机，结果弄坏啊！  
 1. 【[自打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_da.md#自打)】`cz6 da3` <small>/t͡sʰɿ6 ta3/<sup>兴化</sup></small> 自从<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：外甥～三年前出去打工，至今不曾家来过。<sup>\[兴化\]</sup>｜老李～这场病害过以后，就把烟戒掉唻。<sup>\[泰州\]</sup>  
-1. 【[自家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_ga.md#自家)】`cz6 ga, sz6 ga` <sup>[如东]</sup> 自己：～的事自家做。  
-1. 【[自家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_ga.md#自家)】`cz6 ga` <sup>[如东]</sup> 本人：请你管好～的事情。  
+1. 【[自家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_ga.md#自家)】`cz6 ga, sz6 ga` <sup>[如东]</sup> 自己，本人：～的事自家做。｜请你管好～的事情。  
 1. 【[自家屁股红吖半张，还替别人医痔疮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_ga_pi_gu_hon_nga_bun_zhan_hae_ti_pih_ren_i_chr_chuan.md#自家屁股红吖半张，还替别人医痔疮)】`cz6 ga pi5 gu hon2 nga bun5 zhan1 hae2 ti5 pih8 ren2 i1 chr6 chuan1` <sup>[东台]</sup> 喻指自己问题比别人大，还不知趣地指责别人。  
-1. 【[自家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_ga.md#自家)】`cz6 ga1` <small>/t͡sʰɿ6 ka1/<sup>兴化</sup>, /t͡sʰɿ1 ka3/<sup>泰县</sup></small> 自己<sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰县\]</sup>：（那呆子）口里劳劳叨叨的，～念诵道：“罢了！罢了……”（《西游记》三一）<sup>\[兴化\]</sup>｜“……你不去我～去。”（《梼杌闲评》十二）也说“cz6 gaen3 ”。<sup>\[兴化\]</sup>｜你把你～管管好就行唻。<sup>\[泰州\]</sup>  
+1. 【[自家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_ga.md#自家)】`cz6 ga1-3` <small>/t͡sʰɿ6 ka1/<sup>兴化</sup></small> 自己<sup>\[泰州\]</sup>\[兴化：也说“cz6 gaen3”。\]：（那呆子）口里劳劳叨叨的，～念诵道：“罢了！罢了……”（《西游记》三一）<sup>\[兴化\]</sup>｜“……你不去我～去。”（《梼杌闲评》十二）<sup>\[兴化\]</sup>｜你把你～管管好就行唻。<sup>\[泰州\]</sup>  
 1. 【[自家胳肢自家笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_ga_keh_zeh_cz_ga_xio.md#自家胳肢自家笑)】`cz6 ga1 keh8 zeh cz6 ga1 xio5` <sup>[东台]</sup> 形容自我陶醉，自欺欺人：他谎报成绩，～，没有意思。  
 1. 【[自家抓肉望脸上沰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_ga_zhua_roh_van_lin_shan_dah.md#自家抓肉望脸上沰)】`cz6 ga1 zhua1 roh8 van6 lin3 shan dah7` <sup>[东台]</sup> 形容自我抬高身价。  
 1. 【[自解自叹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_gae_cz_taen.md#自解自叹)】`cz6 gae3 cz6 taen5` <small>/t͡sʰɿ6 kɛ3 t͡sʰɿ6 tʰɛ̃5/<sup>兴化</sup></small> ① 自我解嘲，自我安慰<sup>\[兴化\]</sup>：“娘，少哭了……你须～，休要只顾烦恼了。”（《金瓶梅词话》五九）<sup>\[兴化\]</sup> ② 自己寻找理由为自己辩解而安慰自己<sup>\[泰州\]</sup>：比你好的千千万，不如你的万万千，遇到这种情况，你不～，气出病来，最后倒霉的还是你自己！<sup>\[泰州\]</sup>  
 1. 【[自关门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_guaen_men.md#自关门)】`cz6 guaen1 men2` <sup>[兴化]</sup> ① 安装弹簧铰链的门扇，开启后能自动关闭。 ② 门框变形或因安装不善，门扇不垂直，开启后往往自动关闭或开启。  
 1. 【[自惯自](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_guaen_cz.md#自惯自)】`cz6 guaen5 cz6` <sup>[如皋]</sup> 自个儿撒娇、卖蘣，自己疼自己，别人并不理会。  
-1. 【[自顾自](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_gv_cz.md#自顾自)】`cz6 gv5 cz6` <sup>[如皋]</sup> ① 自己照顾自己：他那吖点儿工资只够～。 ② 自私，不顾别人：他是～，老婆伢儿受害。  
+1. 【[自顾自](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_gv_cz.md#自顾自)】`cz6 gv5 cz6` <small>/t͡sʰɿ1 ku5 t͡sʰɿ1/<sup>如皋</sup>, /t͡sʰɿ1 ku5 t͡sʰɿ1/<sup>泰兴</sup></small> ① 自己照顾自己<sup>\[如皋\]</sup>：他那吖点儿工资只够～。<sup>\[如皋\]</sup> ② 自私，不顾别人<sup>\[如皋\]</sup>：他是～，老婆伢儿受害。<sup>\[如皋\]</sup> ③ 自己只管自己的事。<sup>\[泰兴\]</sup>：乡谚：“江西人锔碗，嗤咕嗤（自顾自）。”<sup>\[泰兴\]</sup>  
 1. 【[自坏教门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_huae_jio_men.md#自坏教门)】`cz6 huae6 jio5 men2` <sup>[泰州]</sup> ① 信教的人自已违反教律。 ② 比喻自己破坏自己所制定的制度：他教大家不要迟到，他自已到十点钟才来，做领导的～，向后怎吖好说人吖？ ③ 比喻来自内部人的破坏：这些事外栋的人怎吖晓得的？肯定是家里人～。  
 1. 【[自剿自灭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_jio_cz_mih.md#自剿自灭)】`cz6 jio3 cz6 mih8` <sup>[东台]</sup> 自我毁灭的意思。  
-1. 【[自拉自唱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_la_cz_chan.md#自拉自唱)】`cz6 la1 cz6 chan5` <sup>[兴化]</sup> ① 自己操琴为自己演唱伴奏。 ② （喻）自吹自擂：他望望没得人答理，只好～的胡吹啊一通。  
-1. 【[自来火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_lae_hu.md#自来火)】`cz6 lae2 hu3` <sup>[兴化]</sup> ① 旧谓火柴。 ② 今称打火机。  
+1. 【[自拉自唱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_la_cz_chan.md#自拉自唱)】`cz6 la1 cz6 chan5` <small>/t͡sʰɿ6 la1 t͡sʰɿ6 t͡sʰaŋ5/<sup>兴化</sup>, /t͡sʰɿ1 lɑ1 t͡sʰɿ1 t͡sʰɑŋ5/<sup>泰兴</sup></small> ① 自己操琴为自己演唱伴奏。<sup>\[兴化\]</sup> ② （喻）自吹自擂<sup>\[兴化\]</sup>：他望望没得人答理，只好～的胡吹啊一通。<sup>\[兴化\]</sup> ③ 亦说“私拉私唱”。谓自己操琴自己唱歌。喻自己负责全盘事务，不要帮手。<sup>\[泰兴\]</sup>  
+1. 【[自来火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_lae_hu.md#自来火)】`cz6 lae hu3` <small>/t͡sʰɿ6 lɛ xo3/<sup>兴化</sup>, /t͡sʰɿ1 lɛ xɤɯ3/<sup>泰兴</sup></small> ① 火柴\[泰兴：亦称“洋火”、“私来火”\]\[兴化：旧称\] ② 今称打火机。<sup>\[兴化\]</sup>  
 1. 【[自留地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_lieu_ti.md#自留地)】`cz6 lieu2 ti6` <sup>[东台]</sup> 本指实行农业集体化后留给农民家庭经营的少量土地。［喻］指本职工作或干私活。  
+1. 【[自摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_mah.md#自摸)】`cz6 mah8` <small>/t͡sʰɿ1 mɑʔ8/<sup>泰兴</sup></small> 牌艺中以自己所扒的牌取胜曰“自摸”。<sup>\[泰兴\]</sup>  
+1. 【[自鸣钟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_mien_zhon.md#自鸣钟)】`cz6 mien2 zhon1` <small>/t͡sʰɿ1 miŋ2 t͡sɔŋ1/<sup>泰兴</sup></small> 也说“私鸣钟”。按时自己报告时间的钟。<sup>\[泰兴\]</sup>  
 1. 【[自然](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_rin.md#自然)】`cz6 rin2` <sup>[如皋]</sup> ① 效果、作用：你到医院看看，不～就开刀。 ② 当然，表强调：你想去啊？——～！必要的话。我～会去！ ③ 不加装饰，原生状态。  
 1. 【[自绕自](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_ro_cz.md#自绕自)】`cz6 ro6 cz6` <sup>[兴化]</sup> 说话或者和人打交道时，自己使自己吃亏，即“绕进去”：乌龟吃馓子——～。  
 1. 【[自肉自蘣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_roh_cz_ton.md#自肉自蘣)】`cz6 roh8 cz6 ton5` <sup>[兴化]</sup> 自己的子女和晚辈看着顺眼、可喜。也说“自养自蘣”。  

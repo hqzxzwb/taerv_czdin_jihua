@@ -505,8 +505,7 @@
 1. 【[像吖神吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_nga_shen_nga.md#像吖神吖)】`qian6 nga shen2 nga` <small>/t͡ɕʰiã1 ŋa səŋ2 ŋa/<sup>如皋</sup></small> ① 十分相像。又称：“神像”。<sup>\[如皋\]</sup> ② 非常像。<sup>\[如皋\]</sup>  
 1. 【[像泥牛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_ni_ngeu_r.md#像泥牛<sub>儿</sub>)】`qian6 ni2 ngeu2 r` <sup>[如皋]</sup> 浑身泥水的样子。  
 1. 【[像如](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_rv.md#像如)】`qian6 rv2` <sup>[如东]</sup> 好像：～见过的一样。也作“强如”。  
-1. 【[匠人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_ren.md#匠人)】`qian6 ren` <sup>[如东]</sup> 具有一定专业技能的小手工业者，如木匠、瓦匠等。通称手艺人。  
-1. 【[匠人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_ren.md#匠人)】`qian6 ren` <small>/t͡ɕʰiɑŋ1 ɻəŋ/<sup>泰兴</sup></small> 木工，工匠。泛称各种手艺人。如机匠、瓦匠、木匠、篾匠等等。<sup>\[泰兴\]</sup>  
+1. 【[匠人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_ren.md#匠人)】`qian6 ren` <small>/t͡ɕʰiɑŋ1 ɻəŋ/<sup>泰兴</sup></small> ① 具有一定专业技能的小手工业者，如木匠、瓦匠等。通称手艺人。<sup>\[如东\]</sup> ② 木工，工匠。泛称各种手艺人。如机匠、瓦匠、木匠、篾匠等等。<sup>\[泰兴\]</sup>  
 1. 【[唴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian.md#唴)】`qian6` <sup>[如东]</sup> 小儿哭闹不止。  
 1. 【[戗场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_chan.md#戗场)】`qian6 chan2` <sup>[如东]</sup> 将场地翻松洒水整平。将稻秸或麦秸撒乱在场地上。  
 1. 【[戗枕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_zhen.md#戗枕)】`qian6 zhen3` ① （泰州词典戗作阴平，和如东的阳去一致，故改阳去）<sup>\[泰州\]</sup> ② 水面之中由于头着枕头姿势不妥，致使颈项转动困难并且伴有痛感<sup>\[泰州\]</sup>：夜里睡觉戗吖枕。<sup>\[泰州\]</sup>  
@@ -630,19 +629,17 @@
 1. 【[吃𪙍头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_bah_teu_zz.md#吃𪙍头子)】`qieh7 bah7 teu2 zz` <sup>[如皋]</sup> 比喻被责骂。  
 1. 【[吃不穷，穿不穷，算计不到一世穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_beh_qion_chun.md#吃不穷，穿不穷，算计不到一世穷)】`qieh7 beh qion2 chun1 beh qion2 sun5 ji5 beh7 do5 ieh7 shr5 qion2` <small>/t͡ɕʰiəʔ7 pəʔ t͡ɕʰiɔŋ2 t͡sʰʊ̃1 pəʔ t͡ɕʰiɔŋ2 sʊ̃5 t͡ɕʝ5 pəʔ7 tɔ5 iʔ7 sɿ5 t͡ɕʰiɔŋ2/<sup>泰兴</sup></small> 谓要善于算计筹划，周密考虑，才能衣食无忧。<sup>\[泰兴\]</sup>  
 1. 【[吃不开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_beh_kae.md#吃不开)】`qieh7 beh7 kae1` <small>/t͡ɕʰiəʔ7 pəʔ7 kʰɛ1/<sup>泰兴</sup></small> ① 自己的才能或人品不受重视。<sup>\[如东\]</sup>：他在这许～。<sup>\[如东\]</sup> ② 指行不通；不受欢迎。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
-1. 【[吃不来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_beh_lae.md#吃不来)】`qieh7 beh7 lae2` <sup>[如东]</sup> 不合口味：这种菜我～。不喜欢吃。  
-1. 【[吃不来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_beh_lae.md#吃不来)】`qieh7 beh7 lae2` <small>/t͡ɕʰiəʔ7 pəʔ7 lɛ2/<sup>泰兴</sup></small> 不喜欢；吃不惯。<sup>\[泰兴\]</sup>  
+1. 【[吃不来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_beh_lae.md#吃不来)】`qieh7 beh7 lae2` <small>/t͡ɕʰiəʔ7 pəʔ7 lɛ2/<sup>泰兴</sup></small> 不喜欢，吃不惯。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>：这种菜我～。不喜欢吃。<sup>\[如东\]</sup>  
 1. 【[吃不穷穿不穷，不会打算一世穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_beh_qion_chun_beh_qion_beh_huei_da_sun_ieh_shr_qion.md#吃不穷穿不穷，不会打算一世穷)】`qieh7 beh7 qion2 chun1 beh7 qion2 beh7 huei6 da3 sun5 ieh7 shr5 qion2` <sup>[东台]</sup> 精于核算最重要。  
 1. 【[吃不透](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_beh_teu.md#吃不透)】`qieh7 beh7 teu5` <small>/t͡ɕʰiəʔ7 pəʔ7 tʰəɪ5/<sup>泰兴</sup></small> 弄不清楚；揣摩不出。<sup>\[泰兴\]</sup>  
-1. 【[吃不消](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_beh_xio.md#吃不消)】`qieh7 beh7 xio1` <small>/t͡ɕʰiəʔ7 pəʔ7 ɕiɔ1/<sup>泰兴</sup></small> ① 承受不了。<sup>\[如东\]</sup> ② 承受不了；支持不住。<sup>\[东台\]</sup> ③ 经受不住或者承受不了<sup>\[泰州\]</sup>：你连续几夜不睡觉，人～，去睡个盹儿。<sup>\[泰州\]</sup>｜这些违纪的事不能弄，万一上头晓得咖追查到责任，你～。<sup>\[泰州\]</sup> ④ 不能支撑；承受不了。<sup>\[泰兴\]</sup>  
+1. 【[吃不消](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_beh_xio.md#吃不消)】`qieh7 beh7 xio1` <small>/t͡ɕʰiəʔ7 pəʔ7 ɕiɔ1/<sup>泰兴</sup></small> 承受不了，经受不住<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：你连续几夜不睡觉，人～，去睡个盹儿。<sup>\[泰州\]</sup>｜这些违纪的事不能弄，万一上头晓得咖追查到责任，你～。<sup>\[泰州\]</sup>  
 1. 【[吃不准](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_beh_zhuen.md#吃不准)】`qieh7 beh7 zhuen3` <small>/t͡ɕʰiəʔ7 pəʔ7 t͡suəŋ3/<sup>泰兴</sup></small> 把握不定；确定不了；不能肯定。<sup>\[泰兴\]</sup>  
 1. 【[吃背头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_bei_teu.md#吃背头)】`qieh7 bei5 teu` <sup>[如东]</sup> 跟着受牵连：我俫不能～。  
 1. 【[吃憋子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_bih_zz.md#吃憋子)】`qieh7 bih7 zz` <sup>[如皋]</sup> 吃亏了，碰钉子了。  
 1. 【[吃瘪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_bih.md#吃瘪)】`qieh7 bih7` <sup>[兴化]</sup> ① 被迫认输：这次王老五遇到对手，在人家手～咖。 ② 吃亏：这趟生意明显～。 ③ 受窘：“……若不把他～，足见得我们杭州无人……”（《四杰传》四四）  
 1. 【[吃瘪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_bih_zz.md#吃瘪子)】`qieh7 bih7 zz` <small>/t͡ɕʰiəʔ7 piʔ7 t͡sɿ/<sup>泰兴</sup></small> ① 吃小亏。受批评。<sup>\[如东\]</sup> ② ［引］挨批评；碰壁；吃亏。<sup>\[东台\]</sup> ③ 遭到上司严厉斥责而又无法辩解<sup>\[泰州\]</sup>：他到这一刻儿才去向局长汇报，不～才怪唻。<sup>\[泰州\]</sup>｜老张脸上气色不对，怕的是在处长那块吃咖瘪子。<sup>\[泰州\]</sup> ④ 受人责备、责难而难以回辩，只得屈服、认输。<sup>\[泰兴\]</sup>  
 1. 【[吃包<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_bo_r.md#吃包<sub>儿</sub>)】`qieh7 bo1 r` <small>/t͡ɕʰiəʔ7 pɔ˞1/<sup>如皋</sup></small> ① 承担亏损、赔偿责任。<sup>\[如皋\]</sup> ② 比喻因为自己的过错而由一人赔偿损失，叫做吃包儿。<sup>\[如东\]</sup>  
-1. 【[吃百家饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_boh_ga_faen.md#吃百家饭)】`qieh7 boh7 ga1 faen6` <sup>[泰州]</sup> 比喻依靠手艺养活自己以及家庭：你做木匠的～，寻两个钱也不容易。  
-1. 【[吃百家饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_boh_ga_faen.md#吃百家饭)】`qieh7 boh7 ga1 faen6` <small>/t͡ɕʰiəʔ7 pɔʔ7 kɑ1 fɛ̃1/<sup>泰兴</sup></small> 多指许多人家服务的手艺人。<sup>\[泰兴\]</sup>  
+1. 【[吃百家饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_boh_ga_faen.md#吃百家饭)】`qieh7 boh7 ga1 faen6` <small>/t͡ɕʰiəʔ7 pɔʔ7 kɑ1 fɛ̃1/<sup>泰兴</sup></small> ① 比喻依靠手艺养活自己以及家庭<sup>\[泰州\]</sup>：你做木匠的～，寻两个钱也不容易。<sup>\[泰州\]</sup> ② 多指许多人家服务的手艺人。<sup>\[泰兴\]</sup>  
 1. 【[吃百家饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_boh_jia_faen.md#吃百家饭)】`qieh7 boh7 jia1 faen6` <sup>[如皋]</sup> 上门服务、交易，或以此挣钱过日子的手艺人。  
 1. 【[吃苍蝇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_can_ien.md#吃苍蝇)】`qieh7 can1 ien` <sup>[东台]</sup> 中了别人圈套。（参见“放苍蝇”）。  
 1. 【[吃茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_cha.md#吃茶)】`qieh7 cha2` <small>/t͡ɕʰiəʔ7 t͡sʰa2/<sup>兴化</sup>, /t͡ɕʰiəʔ7 t͡sʰa2/<sup>如皋</sup></small> ① 喝茶，也包括喝白开水 ② 坐馆子，谈生意。<sup>\[如皋\]</sup> ③ 上茶馆用早点<sup>\[兴化\]</sup>：明朝我请你～。<sup>\[兴化\]</sup>  
@@ -718,8 +715,7 @@
 1. 【[吃咖笑宝<sub>儿</sub>尿的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_ga_xio_bo_r_xy_dii.md#吃咖笑宝<sub>儿</sub>尿的)】`qieh7 ga xio5 bo3 r xy1 dii` <sup>[如皋]</sup> 见“笑宝儿”。  
 1. 【[吃咖中秋饼，就把寒衣请](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_ga_zhon_qieu_bien_qieu_ba_hun_i_qien.md#吃咖中秋饼，就把寒衣请)】`qieh7 ga zhon1 qieu1 bien3 qieu6 ba3 hun2 i1 qien3` <sup>[东台]</sup> 农历八月后天气渐冷，要及早准备寒衣。  
 1. 【[吃咖拄到嗓囊管<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_ga_zhv_do_san_nan_gun_r.md#吃咖拄到嗓囊管<sub>儿</sub>)】`qieh7 ga zhv3 do5 san3 nan gun3 r` <sup>[如皋]</sup> 形容吃得过饱。  
-1. 【[吃家饭屙野屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_ga_faen_u_ia_shr.md#吃家饭屙野屎)】`qieh7 ga1 faen6 u1 ia3 shr3` <sup>[东台]</sup> ［喻］接受一方的好处，暗地里却在为其它方面出力。  
-1. 【[吃家饭屙野屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_ga_faen_u_ia_shr.md#吃家饭屙野屎)】`qieh7 ga1 faen6 u1 ia3 shr3` <small>/t͡ɕʰiəʔ7 kɑ1 fɛ̃1 ɤɯ1 iɑ3 sɿ3/<sup>泰兴</sup></small> 谓吃自家的饭，帮别人做事。<sup>\[泰兴\]</sup>  
+1. 【[吃家饭屙野屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_ga_faen_u_ia_shr.md#吃家饭屙野屎)】`qieh7 ga1 faen6 u1 ia3 shr3` <small>/t͡ɕʰiəʔ7 kɑ1 fɛ̃1 ɤɯ1 iɑ3 sɿ3/<sup>泰兴</sup></small> ① ［喻］接受一方的好处，暗地里却在为其它方面出力。<sup>\[东台\]</sup> ② 谓吃自家的饭，帮别人做事。<sup>\[泰兴\]</sup>  
 1. 【[吃家碌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_ga_loh.md#吃家碌)】`qieh7 ga1 loh` <sup>[泰县]</sup> 上刑罚：他今吖～吃得不轻。  
 1. 【[吃个把个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_gu_ma_gu.md#吃个把个)】`qieh7 gu ma3 gu` <sup>[东台]</sup> （高利贷术语）借一还二。  
 1. 【[吃果子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_gu_zz.md#吃果子)】`qieh7 gu3 zz` <sup>[兴化]</sup> 吃枪子挨枪毙的隐语。  
@@ -731,8 +727,7 @@
 1. 【[吃黑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_heh.md#吃黑)】`qieh7 heh7` <small>/t͡ɕʰiəʔ7 xəʔ7/<sup>如皋</sup></small> ① 中饱、贪污。<sup>\[如皋\]</sup> ② 中饱，贪污。<sup>\[如东\]</sup>：这些人～。<sup>\[如东\]</sup>  
 1. 【[吃好食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_ho_sheh.md#吃好食)】`qieh7 ho3 sheh8` <sup>[如东]</sup> 乘机占便宜想好处：这个人爱～，你要注意。  
 1. 【[吃火不怕烫人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_hu_beh_pa.md#吃火不怕烫人)】`qieh7 hu3 beh7 pa5 tan5 ren` <small>/t͡ɕʰiəʔ7 xɤɯ3 pəʔ7 pʰɑ5 tʰɑŋ5 ɻəŋ/<sup>泰兴</sup></small> 谓明明知道不是好事，却硬要去办。<sup>\[泰兴\]</sup>  
-1. 【[吃花生米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_hua_shen_mi.md#吃花生米)】`qieh7 hua1 shen1 mi3` <sup>[兴化]</sup> 挨枪毙的隐语。  
-1. 【[吃花生米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_hua_shen_mi.md#吃花生米)】`qieh7 hua1 shen1 mi3` <small>/t͡ɕʰiəʔ7 xuɑ1 səŋ1 mʝ3/<sup>泰兴</sup></small> 喻挨枪弹。因子弹头形似花生米，故云。<sup>\[泰兴\]</sup>  
+1. 【[吃花生米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_hua_shen_mi.md#吃花生米)】`qieh7 hua1 shen1 mi3` <small>/t͡ɕʰiəʔ7 xua1 sən1 mi3/<sup>兴化</sup>, /t͡ɕʰiəʔ7 xuɑ1 səŋ1 mʝ3/<sup>泰兴</sup></small> ① 挨枪毙的隐语。<sup>\[兴化\]</sup> ② 喻挨枪弹。因子弹头形似花生米，故云。<sup>\[泰兴\]</sup>  
 1. 【[吃花生米<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_hua_shen_mi_r.md#吃花生米<sub>儿</sub>)】`qieh7 hua1 shen1 mi3 r` <sup>[如皋]</sup> 喻吃枪子儿，即被枪打死。  
 1. 【[吃花生米子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_hua_shen_mi_zz.md#吃花生米子)】`qieh7 hua1 shen1 mi3 zz` <sup>[东台]</sup> 除本意外，暗指被枪毙。  
 1. 【[吃花斋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_hua_zhae.md#吃花斋)】`qieh7 hua1 zhae1` <sup>[泰州]</sup> 佛教信徒不是终年吃素食，而是只在规定的日子里吃素。  
@@ -755,8 +750,7 @@
 1. 【[吃酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_jieu.md#吃酒)】`qieh7 jieu3` <small>/t͡ɕʰiəʔ7 t͡ɕyʊ3/<sup>如皋</sup></small> ① 饮酒 ② 指坐宴席。<sup>\[如皋\]</sup>  
 1. 【[吃教](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_jio.md#吃教)】`qieh7 jio5` <sup>[如皋]</sup> 本地早期天主教徒由教堂供饭，故称信教为～。  
 1. 【[吃惧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_jy.md#吃惧)】`qieh7 jy5` <sup>[泰州]</sup> 感到害怕：你喊老王来也没得用，他又不～老王。  
-1. 【[吃隑饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_kae_faen.md#吃隑饭)】`qieh7 kae5 faen6` <sup>[兴化]</sup> 生活无着，投靠亲友吃碗闲饭。  
-1. 【[吃隑饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_kae_faen.md#吃隑饭)】`qieh7 kae5 faen6` <small>/t͡ɕʰiəʔ7 kʰɛ5 fɛ̃1/<sup>泰兴</sup></small> 生活无着者，投靠亲友，因不干活，白吃人家饭，谓之“吃隑饭”。<sup>\[泰兴\]</sup>  
+1. 【[吃隑饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_kae_faen.md#吃隑饭)】`qieh7 kae5 faen6` <small>/t͡ɕʰiəʔ7 kʰɛ5 fɛ̃6/<sup>兴化</sup>, /t͡ɕʰiəʔ7 kʰɛ5 fɛ̃1/<sup>泰兴</sup></small> ① 生活无着，投靠亲友吃碗闲饭。<sup>\[兴化\]</sup> ② 生活无着者，投靠亲友，因不干活，白吃人家饭，谓之“吃隑饭”。<sup>\[泰兴\]</sup>  
 1. 【[吃客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_keh.md#吃客)】`qieh7 keh7` <sup>[兴化]</sup> ① 对吃有讲究的人：他对吃喝非常精，是有名的～。 ② 经常下馆子的人：每到下晚儿，那帮～就忙起来啊。  
 1. 【[吃口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_keu.md#吃口)】`qieh7 keu3` <small>/t͡ɕʰiəʔ7 kʰei3/<sup>如皋</sup>, /t͡ɕʰiəʔ7 kʰəɪ3/<sup>泰兴</sup></small> ① 吃饭的人数<sup>\[如皋\]</sup>：他家～多，负担重。<sup>\[如皋\]</sup> ② 口味、适口度<sup>\[如皋\]</sup><sup>\[如东\]</sup>\[东台：食物进嘴的感觉\]：他烧的菜～好。<sup>\[如皋\]</sup>｜这碗菜～好。<sup>\[如东\]</sup>｜这种猕猴桃～不丑。<sup>\[东台\]</sup> ③ 食量<sup>\[如皋\]</sup><sup>\[泰州\]</sup>：他的～不大，一个烧饼足够咯。<sup>\[如皋\]</sup>｜他家几个伢儿都是姑娘，～小，买二斤肉有得吃吤。<sup>\[泰州\]</sup>｜他俫几个都是翻砂工，活技重，～大，不多买点儿不够吃。<sup>\[泰州\]</sup> ④ 指找茬、语言攻击的对象<sup>\[东台\]</sup>：我不是你的～！<sup>\[东台\]</sup> ⑤ 指吃的口味，味道。引申为过日子是否精打细算。<sup>\[泰兴\]</sup>：箇个人家吃口大，不会过日子<sup>\[泰兴\]</sup>  
 1. 【[吃口紧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_keu_jien.md#吃口紧)】`qieh7 keu3 jien3` <sup>[如东]</sup> 不爱吃食物：这个伢儿～。  
@@ -769,8 +763,7 @@
 1. 【[吃辣糊酱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_laeh_hv_jian.md#吃辣糊酱)】`qieh7 laeh8 hv jian5` <sup>[如东]</sup> 比喻吃苦头：这趟交易要～。  
 1. 【[吃落地桃子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_lah_ti_to_zz.md#吃落地桃子)】`qieh7 lah8 ti6 to2 zz` <small>/t͡ɕʰiəʔ7 laʔ8 tʰʝ1 tʰɔ2 t͡sɿ/<sup>如皋</sup>, /t͡ɕʰiəʔ7 lɑʔ8 t͡ɕʰʝ1 tʰɔ2 t͡sɿ/<sup>泰兴</sup></small> 坐享其成。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup><sup>\[东台\]</sup>  
 1. 【[吃冷粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_len_zhoh.md#吃冷粥)】`qieh7 len3 zhoh7` <sup>[如东]</sup> 比喻不受欢迎：他过来，～。  
-1. 【[吃里扒外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_li_pa_vae.md#吃里扒外)】`qieh7 li3 pa2 vae6` <sup>[如东]</sup> 受着这一方的好处，暗地里却为另一方尽力。  
-1. 【[吃里扒外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_li_pa_vae.md#吃里扒外)】`qieh7 li3 pa2 vae6` <small>/t͡ɕʰiəʔ7 lʝ3 pʰɑ2 ʋɛ1/<sup>泰兴</sup></small> 喻受这一方的好处，暗中却为另一方效劳。<sup>\[泰兴\]</sup>  
+1. 【[吃里扒外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_li_pa_vae.md#吃里扒外)】`qieh7 li3 pa2 vae6` <small>/t͡ɕʰiəʔ7 lʝ3 pʰɑ2 ʋɛ1/<sup>泰兴</sup></small> 喻受这一方的好处，暗中却为另一方效劳。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
 1. 【[吃力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_lieh.md#吃力)】`qieh7 lieh` <small>/t͡ɕʰiəʔ7 liəʔ/<sup>如皋</sup></small> ① 疲乏<sup>\[如皋\]</sup>：才跑啊点儿路就觉察～。<sup>\[如皋\]</sup> ② 勉力做某事而感到体力不足<sup>\[泰州\]</sup>：四十多岁的人唻，教他挑一百斤的担子嫌～。<sup>\[泰州\]</sup> ③ 勉力做某事而感到财力不足<sup>\[泰州\]</sup>：他是工薪阶层的人，就是买个十万块钱的车子也～。<sup>\[泰州\]</sup>  
 1. 【[吃力巴㗋的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_lieh_ba_heu_dii.md#吃力巴㗋的)】`qieh7 lieh ba1 heu dii` <sup>[如皋]</sup> 劳累的样子。  
 1. 【[吃力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_lieh.md#吃力)】`qieh7 lieh8` <small>/t͡ɕʰiəʔ7 liɪʔ8/<sup>兴化</sup></small> ① 吃劲。<sup>\[如东\]</sup>：这根柱子～，一定要牢靠。疲劳。<sup>\[如东\]</sup> ② 费力（这里也可把“吃”读若“气”）<sup>\[东台\]</sup>：跑了几天，太～！<sup>\[东台\]</sup> ③ 疲劳<sup>\[兴化\]</sup>：种吖一天树，蛮～的。<sup>\[兴化\]</sup>  
@@ -782,14 +775,11 @@
 1. 【[吃萝卜干<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_lu_poh_gun_r.md#吃萝卜干<sub>儿</sub>)】`qieh7 lu2 poh gun1 r` <sup>[如皋]</sup> 手指关节扭伤：打篮球没注意，吃～啊。  
 1. 【[吃萝卜干<sub>儿</sub>饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_lu_poh_gun_r_faen.md#吃萝卜干<sub>儿</sub>饭)】`qieh7 lu2 poh gun1 r faen6` <sup>[如皋]</sup> 喻当学徒，受艰苦磨炼；受正规专业教育。又作“吃三年萝卜干儿饭”。  
 1. 【[吃萝卜干子饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_lu_poh_gun_zz_faen.md#吃萝卜干子饭)】`qieh7 lu2 poh gun1 zz faen6` <sup>[兴化]</sup> ① （借）吃苦、受磨难。 ② 旧指学徒生涯：以前学徒，要吃三年萝卜干子饭！  
-1. 【[吃麻雀<sub>儿</sub>会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_ma_jiah_r_huei.md#吃麻雀<sub>儿</sub>会)】`qieh7 ma2 jiah7 r huei6` <sup>[如皋]</sup> 旧时荒年，穷人群起到富家吃饭的社会行为。  
-1. 【[吃麻雀<sub>儿</sub>会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_ma_jiah_r_huei.md#吃麻雀<sub>儿</sub>会)】`qieh7 ma2 jiah7 r huei6` <small>/t͡ɕʰiəʔ7 mɑ2 t͡ɕiɑ˞7 xuəɪ1/<sup>泰兴</sup></small> 犹吃大户。源于反映泰兴农民造反吃大户的民间说唱本《荒年歌》。<sup>\[泰兴\]</sup>  
+1. 【[吃麻雀<sub>儿</sub>会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_ma_jiah_r_huei.md#吃麻雀<sub>儿</sub>会)】`qieh7 ma2 jiah7 r huei6` <small>/t͡ɕʰiəʔ7 ma2 t͡ɕia˞7 xuei1/<sup>如皋</sup>, /t͡ɕʰiəʔ7 mɑ2 t͡ɕiɑ˞7 xuəɪ1/<sup>泰兴</sup></small> ① 旧时荒年，穷人群起到富家吃饭的社会行为。<sup>\[如皋\]</sup> ② 犹吃大户。源于反映泰兴农民造反吃大户的民间说唱本《荒年歌》。<sup>\[泰兴\]</sup>  
 1. 【[吃麻辣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_ma_laeh.md#吃麻辣)】`qieh7 ma2 laeh8` <sup>[如东]</sup> 比喻吃苦头：这些日子吃咖不少麻辣。  
 1. 【[吃莽奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_man_nae.md#吃莽奶)】`qieh7 man3 nae3` <sup>[如皋]</sup> 婴儿爱大口地吃奶。  
 1. 【[吃媚脸饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_mei_lin_faen.md#吃媚脸饭)】`qieh7 mei6 lin3 faen6` <sup>[如皋]</sup> 见“吃老脸饭”。  
-1. 【[吃闷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_men.md#吃闷)】`qieh7 men6` <sup>[兴化]</sup> 吃了亏、受了羞辱而不便发作：老祁在外头混世，从来不曾像今朝这样～。  
-1. 【[吃闷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_men.md#吃闷)】`qieh7 men6` <sup>[泰州]</sup> 吃了别人暗苦而又不便发作：心里晓得有人在背后告啊他的状，不然不会在领导跟前～，暂时自己只好捏住鼻子不则声。  
-1. 【[吃闷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_men.md#吃闷)】`qieh7 men6` <small>/t͡ɕʰiəʔ7 məŋ1/<sup>泰兴</sup></small> 忍受苦闷。<sup>\[泰兴\]</sup>  
+1. 【[吃闷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_men.md#吃闷)】`qieh7 men6` <small>/t͡ɕʰiəʔ7 mən6/<sup>兴化</sup>, /t͡ɕʰiəʔ7 məŋ1/<sup>泰兴</sup></small> ① 吃了亏、受了羞辱而不便发作<sup>\[兴化\]</sup>：老祁在外头混世，从来不曾像今朝这样～。<sup>\[兴化\]</sup> ② 吃了别人暗苦而又不便发作<sup>\[泰州\]</sup>：心里晓得有人在背后告啊他的状，不然不会在领导跟前～，暂时自己只好捏住鼻子不则声。<sup>\[泰州\]</sup> ③ 忍受苦闷。<sup>\[泰兴\]</sup>  
 1. 【[吃闷憋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_men_bih.md#吃闷憋)】`qieh7 men6 bih7` <sup>[如皋]</sup> 吃了亏，还不能有所反应。  
 1. 【[吃闷溷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_men_huen.md#吃闷溷)】`qieh7 men6 huen` <sup>[如皋]</sup> 见“吃闷憋”。  
 1. 【[吃闷屁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_men_pi.md#吃闷屁)】`qieh7 men6 pi5` <sup>[如东]</sup> 自己吃了亏而又说不出来。  
@@ -799,14 +789,12 @@
 1. 【[吃奶的劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_nae_dii_jien.md#吃奶的劲)】`qieh7 nae3 dii jien5` <small>/t͡ɕʰiəʔ7 nɛ3 təɪ t͡ɕiŋ5/<sup>泰兴</sup></small> 谓一个人所能有的最大的力气。或作“吃奶的力气”。<sup>\[泰兴\]</sup>  
 1. 【[吃嫩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_nen.md#吃嫩)】`qieh7 nen6` <small>/t͡ɕʰiəʔ7 lən6/<sup>兴化</sup>, /t͡ɕʰiəʔ7 nəŋ1/<sup>如皋</sup>, /t͡ɕʰiəʔ7 nəŋ1/<sup>泰县</sup></small> 不老练<sup>\[如皋\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>\[兴化：害羞、紧张，神情不自然\]：她第一次上讲台，难免有点儿～。<sup>\[兴化\]</sup>｜他办事有点儿～。<sup>\[泰县\]</sup>｜这个细丫头望见生人一点儿都不～。<sup>\[泰州\]</sup>  
 1. 【[吃嫩伢<sub>儿</sub>肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_nen_nga_r_roh.md#吃嫩伢<sub>儿</sub>肉)】`qieh7 nen6 nga2 r roh8` <sup>[如皋]</sup> 詈语，意为对寡妇、遗孤用威逼手段。  
-1. 【[吃哑巴亏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_nga_ba_kuei.md#吃哑巴亏)】`qieh7 nga3 ba kuei1` <sup>[泰州]</sup> 遭受暗算或者受损以后因为某种原因不敢声张或者申诉：你请行家把合同望吖子再签，防止～。  
-1. 【[吃哑巴亏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_nga_ba_kuei.md#吃哑巴亏)】`qieh7 nga3 ba kuei1` <small>/t͡ɕʰiəʔ7 ŋɑ3 pɑ kʰuəɪ1/<sup>泰兴</sup></small> 谓虽然吃了亏，但又不能讲出来，只能放在内心。<sup>\[泰兴\]</sup>  
+1. 【[吃哑巴亏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_nga_ba_kuei.md#吃哑巴亏)】`qieh7 nga3 ba kuei1` <small>/t͡ɕʰiəʔ7 ŋɑ3 pɑ kʰuəɪ1/<sup>泰兴</sup></small> ① 遭受暗算或者受损以后因为某种原因不敢声张或者申诉<sup>\[泰州\]</sup>：你请行家把合同望吖子再签，防止～。<sup>\[泰州\]</sup> ② 谓虽然吃了亏，但又不能讲出来，只能放在内心。<sup>\[泰兴\]</sup>  
 1. 【[吃哑巴苦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_nga_ba_kv.md#吃哑巴苦)】`qieh7 nga3 ba kv3` <sup>[如皋]</sup> 吃药，服药。  
 1. 【[吃哑巴亏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_nga_ba_kuei.md#吃哑巴亏)】`qieh7 nga3 ba1 kuei1` <sup>[东台]</sup> 吃了亏而不敢说或不能说；自认倒霉。  
 1. 【[吃哑憋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_nga_bih.md#吃哑憋)】`qieh7 nga3 bih7` <sup>[如皋]</sup> 见“吃闷憋”。  
 1. 【[吃獃饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_ngae_faen.md#吃獃饭)】`qieh7 ngae2 faen6` <sup>[泰州]</sup> 比喻从事灵活性、技术性要求均不高的工作岗位：你就在传达室里头做吧，帮吖看看大门，吃个獃饭吧。  
-1. 【[吃眼睛珠子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_ngaen_jien_zhv_zz.md#吃眼睛珠子)】`qieh7 ngaen3 jien zhv1 zz` <sup>[兴化]</sup> 被人瞪眼：他喜欢多嘴多舌，捱人恶嫌，经常～。  
-1. 【[吃眼睛珠子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_ngaen_jien_zhv_zz.md#吃眼睛珠子)】`qieh7 ngaen3 jien zhv1 zz` <small>/t͡ɕʰiəʔ7 ŋɛ̃3 t͡ɕiŋ t͡su1 t͡sɿ/<sup>泰兴</sup></small> 被人瞪眼相看，受人贬斥。<sup>\[泰兴\]</sup>  
+1. 【[吃眼睛珠子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_ngaen_jien_zhv_zz.md#吃眼睛珠子)】`qieh7 ngaen3 jien zhv1 zz` <small>/t͡ɕʰiəʔ7 ɛ̃3 t͡ɕin t͡su1 t͡sɿ/<sup>兴化</sup>, /t͡ɕʰiəʔ7 ŋɛ̃3 t͡ɕiŋ t͡su1 t͡sɿ/<sup>泰兴</sup></small> ① 被人瞪眼<sup>\[兴化\]</sup>：他喜欢多嘴多舌，捱人恶嫌，经常～。<sup>\[兴化\]</sup> ② 被人瞪眼相看，受人贬斥。<sup>\[泰兴\]</sup>  
 1. 【[吃牛肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_ngeu_roh.md#吃牛肉)】`qieh7 ngeu2 roh8` <small>/t͡ɕʰiəʔ7 ŋəɪ2 ɻɔʔ8/<sup>泰兴</sup></small> 谓受人责难、责备；受人难看的脸色。<sup>\[泰兴\]</sup>  
 1. 【[吃年酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_nin_jieu.md#吃年酒)】`qieh7 nin2 jieu3` <sup>[如东]</sup> 春节期间，亲戚朋友之间互相邀请喝酒的习俗，称吃年酒。  
 1. 【[吃砚墨水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_nin_moh_shuei.md#吃砚墨水)】`qieh7 nin6 moh8 shuei3` <small>/t͡ɕʰiəʔ7 nĩ1 mɔʔ8 suəɪ3/<sup>泰兴</sup></small> 指读书写字，学习文化。<sup>\[泰兴\]</sup>  
@@ -827,14 +815,12 @@
 1. 【[吃碰头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_pon_teu.md#吃碰头)】`qieh7 pon5 teu2` <small>/t͡ɕʰiəʔ7 pʰoŋ5 tʰɤ2/<sup>兴化</sup>, /t͡ɕʰiəʔ7 pʰoŋ5 tʰɤɯ2/<sup>泰县</sup></small> ① 大家出钱，凑份子吃一顿。<sup>\[东台\]</sup> ② 多人醵资吃喝<sup>\[兴化\]</sup>：今朝子晚饭大家～。<sup>\[兴化\]</sup> ③ 几个人聚餐<sup>\[泰县\]</sup>：这帮小青年，周末又去～。<sup>\[泰县\]</sup> ④ 大家临时凑钱聚在一起吃喝<sup>\[泰州\]</sup>：今吖晚上大家一起到排挡街上～去。<sup>\[泰州\]</sup>  
 1. 【[吃枪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_qian_zz.md#吃枪子)】`qieh7 qian1 zz3` <sup>[东台]</sup> 指被枪毙。  
 1. 【[吃枪子<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_qian_zz_r.md#吃枪子<sub>儿</sub>)】`qieh7 qian1 zz3 r` <sup>[如皋]</sup> 被枪毙。  
-1. 【[吃青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_qien.md#吃青)】`qieh7 qien1` <sup>[如皋]</sup> 青黄不接时，吃未老熟的谷物、豆类。又称“采青”。  
-1. 【[吃青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_qien.md#吃青)】`qieh7 qien1` <small>/t͡ɕʰiəʔ7 t͡ɕʰiŋ1/<sup>泰兴</sup></small> 吃尚未完全成熟的谷物。<sup>\[泰兴\]</sup>  
+1. 【[吃青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_qien.md#吃青)】`qieh7 qien1` <small>/t͡ɕʰiəʔ7 t͡ɕʰiəŋ1/<sup>如皋</sup>, /t͡ɕʰiəʔ7 t͡ɕʰiŋ1/<sup>泰兴</sup></small> ① 青黄不接时，吃未老熟的谷物、豆类。又称“采青”。<sup>\[如皋\]</sup> ② 吃尚未完全成熟的谷物。<sup>\[泰兴\]</sup>  
 1. 【[吃请](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_qien.md#吃请)】`qieh7 qien3` <small>/t͡ɕʰiəʔ7 t͡ɕʰiŋ3/<sup>泰兴</sup></small> 接受宴请。<sup>\[泰兴\]</sup>  
 1. 【[吃人家的嘴软，拿人家的手短](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_ren_ga_dii.md#吃人家的嘴软，拿人家的手短)】`qieh7 ren2 ga dii jy3 run3 na2 ren2 ga1 dii sheu3 dun3` <sup>[东台]</sup> 得了别人好处就不硬铮，无欲则刚。  
 1. 【[吃肉的多心，放屁的脸红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_roh_dii_du.md#吃肉的多心，放屁的脸红)】`qieh7 roh8 dii du1 xien1 fan5 pi5 dii lin3 hon2` <small>/t͡ɕʰiəʔ7 ɻɔʔ8 təɪ tɤɯ1 ɕiŋ1 fɑŋ5 pʰʝ5 təɪ lĩ3 xɔŋ2/<sup>泰兴</sup></small> 骂人语。谓与你无关的事你就不要干预。<sup>\[泰兴\]</sup>  
 1. 【[吃肉饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_roh_faen.md#吃肉饭)】`qieh7 roh8 faen6` <small>/t͡ɕʰiəʔ7 lɔʔ8 fɛ̃6/<sup>兴化</sup></small> ① （借）形容过好日子<sup>\[兴化\]</sup>：你这次到城里开会，要～吖！<sup>\[兴化\]</sup> ② 有大荤菜的饭食<sup>\[泰州\]</sup>：你下星期到区里开会，又要吃好几天肉饭唻。<sup>\[泰州\]</sup> ③ 比喻质量高的生活<sup>\[泰州\]</sup>：你才吃咖几天的～，就抖起来啊，忘掉当初你跟我借钱买米的时候唻。<sup>\[泰州\]</sup>  
-1. 【[吃软不吃硬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_run_beh_qieh_ngen.md#吃软不吃硬)】`qieh7 run3 beh7 qieh7 ngen6` <sup>[东台]</sup> 对态度强硬者绝不屈服；对态度温和者反而听从。  
-1. 【[吃软不吃硬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_run_beh_qieh_ngen.md#吃软不吃硬)】`qieh7 run3 beh7 qieh7 ngen6` <small>/t͡ɕʰiəʔ7 ɻʊ̃3 pəʔ7 t͡ɕʰiəʔ7 ŋəŋ1/<sup>泰兴</sup></small> 谓接受以温和的手段提出的要求，拒绝以强硬的手段表示的胁迫。<sup>\[泰兴\]</sup>  
+1. 【[吃软不吃硬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_run_beh_qieh_ngen.md#吃软不吃硬)】`qieh7 run3 beh7 qieh7 ngen6` <small>/t͡ɕʰiəʔ7 ɻʊ̃3 pəʔ7 t͡ɕʰiəʔ7 ŋəŋ1/<sup>泰兴</sup></small> ① 对态度强硬者绝不屈服；对态度温和者反而听从。<sup>\[东台\]</sup> ② 谓接受以温和的手段提出的要求，拒绝以强硬的手段表示的胁迫。<sup>\[泰兴\]</sup>  
 1. 【[吃软憋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_run_bih.md#吃软憋)】`qieh7 run3 bih7` <sup>[如皋]</sup> 吃亏隐蔽、委婉而不很重。  
 1. 【[吃软饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_run_faen.md#吃软饭)】`qieh7 run3 faen6` <small>/t͡ɕʰiəʔ7 lũ3 fɛ̃6/<sup>兴化</sup></small> ① ［引］指男人依靠女人混生活。<sup>\[东台\]</sup> ② 靠某种关系或靠妻女非正当收入混生活。<sup>\[兴化\]</sup> ③ 依靠做有钱女性的情人或者妻女的不光彩收入生活<sup>\[泰州\]</sup>：这小伙现在傍吖个富婆，跟吖人家后头～。<sup>\[泰州\]</sup>｜听说前边这个人家的女将不大一当，她家男将晓得咖也不问，是个～的。<sup>\[泰州\]</sup>  
 1. 【[吃沙货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_sha_hu.md#吃沙货)】`qieh7 sha1 hu5` <sup>[东台]</sup> ［喻］指被狠狠揍了一顿。  
@@ -855,8 +841,7 @@
 1. 【[吃是真功，穿是威风，赌是两碰，嫖是两空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_shr_zhen_gon_chun_shr_vei_fon_dv_shr_laen_pon_pio_shr_laen_kon.md#吃是真功，穿是威风，赌是两碰，嫖是两空)】`qieh7 shr6 zhen1 gon1 chun1 shr6 vei1 fon1 dv3 shr6 laen3 pon5 pio2 shr6 laen3 kon1` 前两句要掌握度，后两句是劝诫。<sup>\[东台\]</sup>  
 1. 【[吃柿子拣软的捏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_shr_zz_gaen_run_dii_nih.md#吃柿子拣软的捏)】`qieh7 shr6 zz gaen3 run3 dii nih8` <sup>[东台]</sup> 本指柿子熟了变软才能吃，喻指欺软怕硬。  
 1. 【[吃水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_shuei.md#吃水)】`qieh7 shuei3` <small>/t͡ɕʰiəʔ7 suəi3/<sup>兴化</sup>, /t͡ɕʰiəʔ7 suei3/<sup>如皋</sup></small> ① 喝水，喝生水 ② 吃亏、上当。<sup>\[如皋\]</sup> ③ 供食用的水<sup>\[兴化\]</sup>\[泰州：相对“用水”\]：兴化城居民过去到河里挑～，打井水做洗涤用水。<sup>\[兴化\]</sup>｜这个缸里是～，你脏手不能在里头作。<sup>\[泰州\]</sup> ④ 指船身入水深度，借指船的载重量大小<sup>\[泰州\]</sup>：这条船的～有限得狠，差不多唻，不能再望船上上货唻。<sup>\[泰州\]</sup>  
-1. 【[吃素](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_sv.md#吃素)】`qieh7 sv5` <sup>[如东]</sup> 不食鱼、肉等荤菜。  
-1. 【[吃素](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_sv.md#吃素)】`qieh7 sv5` <small>/t͡ɕʰiəʔ7 su5/<sup>泰兴</sup></small> 吃素菜，不吃鱼肉等荤腥食物。<sup>\[泰兴\]</sup>  
+1. 【[吃素](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_sv.md#吃素)】`qieh7 sv5` <small>/t͡ɕʰiəʔ7 su5/<sup>泰兴</sup></small> ① 不食鱼、肉等荤菜。<sup>\[如东\]</sup> ② 吃素菜，不吃鱼肉等荤腥食物。<sup>\[泰兴\]</sup>  
 1. 【[吃他不消](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_ta_beh_xio.md#吃他不消)】`qieh7 ta1 beh7 xio1` <sup>[如东]</sup> 没有办法应付对方的要求：他箇种作风，我俫～。  
 1. 【[吃托子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_tah_zz.md#吃托子)】`qieh7 tah7 zz` <sup>[兴化]</sup> 受抱怨、讨无趣：你少多事，免得～！  
 1. 【[吃糖糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_tan_go.md#吃糖糕)】`qieh7 tan2 go1` <sup>[如东]</sup> 一种民间风俗。亲戚朋友送葬回来，在丧家门口喝一杯糖茶、吃两片桂片糕，能够避邪。  
@@ -870,15 +855,13 @@
 1. 【[吃断头饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_tun_teu_faen.md#吃断头饭)】`qieh7 tun6 teu2 faen6` <sup>[如皋]</sup> 临死前的进餐，人生最后一顿吃饭。  
 1. 【[吃暗苦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_un_kv.md#吃暗苦)】`qieh7 un5 kv3` <sup>[如皋]</sup> 暗中遭损失、损害。  
 1. 【[吃乌龟尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_v_guei_xy.md#吃乌龟尿)】`qieh7 v1 guei1 xy1` <sup>[如东]</sup> 比喻特别能够忍耐，吃了亏也不愿说出来：他这吖对待你俫，你俫还做，真的是～。  
-1. 【[吃物](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_veh.md#吃物)】`qieh7 veh8` <sup>[兴化]</sup> 泛指可食用的东西：有好的～他总省把老人吃。也说“吃物东西”。  
-1. 【[吃物](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_veh.md#吃物)】`qieh7 veh8` <small>/t͡ɕʰiəʔ7 ʋəʔ8/<sup>泰兴</sup></small> 各种食品。<sup>\[泰兴\]</sup>  
+1. 【[吃物](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_veh.md#吃物)】`qieh7 veh8` <small>/t͡ɕʰiəʔ7 uəʔ8/<sup>兴化</sup>, /t͡ɕʰiəʔ7 ʋəʔ8/<sup>泰兴</sup></small> ① 泛指可食用的东西<sup>\[兴化\]</sup>：有好的～他总省把老人吃。也说“吃物东西”。<sup>\[兴化\]</sup> ② 各种食品。<sup>\[泰兴\]</sup>  
 1. 【[吃物东西](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_veh_don_xi.md#吃物东西)】`qieh7 veh8 don1 xi` <sup>[兴化]</sup> 泛指食品。  
 1. 【[吃西北风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_xi_boh_fon.md#吃西北风)】`qieh7 xi1 boh7 fon1` <small>/t͡ɕʰiəʔ7 ɕʝ1 pɔʔ7 fɔŋ1/<sup>泰兴</sup></small> 又作“喝西北风”。谓什么东西都没得吃，只能饿肚子。<sup>\[泰兴\]</sup>  
 1. 【[吃下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_xia.md#吃下)】`qieh7 xia6` <sup>[兴化]</sup> ① 受窘、难堪：他从来不～，今朝捱人家抢白咖一顿。 ② 甘拜下风，同“认下”：他一个人不怕，就在表哥面前～。  
 1. 【[吃下午](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_xia_v.md#吃下午)】`qieh7 xia6 v` <sup>[兴化]</sup> 午饭和晚饭之间的副餐，一般为糕点或剩饭剩菜等。也说“吃晚茶”。  
 1. 【[吃下午](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_xia_v.md#吃下午)】`qieh7 xia6 v3` <sup>[泰县]</sup> 午饭之后晚饭之前的副餐。  
-1. 【[吃闲饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_xiaen_faen.md#吃闲饭)】`qieh7 xiaen2 faen6` <sup>[如东]</sup> 不做事，不挣钱，混日子：这许没有人～。  
-1. 【[吃闲饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_xiaen_faen.md#吃闲饭)】`qieh7 xiaen2 faen6` <small>/t͡ɕʰiəʔ7 ɕiɛ̃2 fɛ̃1/<sup>泰兴</sup></small> 喻无所事事或无收入<sup>\[泰兴\]</sup>：你家五个人三个人拿工资，只有两个人～。<sup>\[泰兴\]</sup>  
+1. 【[吃闲饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_xiaen_faen.md#吃闲饭)】`qieh7 xiaen2 faen6` <small>/t͡ɕʰiəʔ7 ɕiɛ̃2 fɛ̃1/<sup>泰兴</sup></small> ① 不做事，不挣钱，混日子。<sup>\[如东\]</sup>：这许没有人～。<sup>\[如东\]</sup> ② 喻无所事事或无收入<sup>\[泰兴\]</sup>：你家五个人三个人拿工资，只有两个人～。<sup>\[泰兴\]</sup>  
 1. 【[吃香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_xian.md#吃香)】`qieh7 xian1` <small>/t͡ɕʰiəʔ7 ɕiɑŋ1/<sup>泰兴</sup></small> 比喻受欢迎、受重视<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：他在这里很～。<sup>\[如东\]</sup>｜过去在农村里，当电工的～得狠。<sup>\[泰州\]</sup>｜现在学外语的大学生只叫个～<sup>\[泰兴\]</sup>  
 1. 【[吃相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_xian.md#吃相)】`qieh7 xian5` <small>/t͡ɕʰiəʔ7 ɕiã5/<sup>如皋</sup>, /t͡ɕʰiəʔ7 ɕiɑŋ5/<sup>泰兴</sup>, /t͡ɕʰiəʔ7 ɕiɑŋ5/<sup>泰县</sup></small> ① 吃的方式。可借指烹饪方式。见“语法与词法”。 ② 吃东西时的模样、神情、举止<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰州\]</sup><sup>\[泰县\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>：你看他那个～<sup>\[如东\]</sup>｜你望他这个～嗷，就像饿死鬼投的胎。<sup>\[泰州\]</sup>｜这人的～不好。<sup>\[泰县\]</sup>  
 1. 【[吃心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_xien.md#吃心)】`qieh7 xien` <small>/t͡ɕʰiəʔ7 ɕin/<sup>兴化</sup>, /t͡ɕʰiəʔ7 ɕiəŋ/<sup>如皋</sup>, /t͡ɕʰiəʔ7 ɕiŋ/<sup>泰兴</sup></small> ① 欲望<sup>\[如皋\]</sup>：你才学咖挑担的，～不能大，一次少挑点儿。<sup>\[如皋\]</sup> ② 特指占有欲、贪欲<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：～重。<sup>\[如东\]</sup>｜他的～不大，跟人家修电器只收工本费。<sup>\[兴化\]</sup>｜他的～大，这点儿钱怕打不动他。<sup>\[兴化\]</sup>｜你不要～太重，这笔账能赚十万算不错唻。<sup>\[泰州\]</sup>｜箇个𪨊～太大，一下子贪污啊上百万。<sup>\[泰兴\]</sup>  

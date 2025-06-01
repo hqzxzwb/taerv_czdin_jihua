@@ -44,13 +44,11 @@
 1. 【[耳朵根子软](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_du_gen_zz.md#耳朵根子软)】`er3 du gen1 zz run3` <sup>[东台]</sup> 形容没有主见，容易轻信他人的话。  
 1. 【[耳朵根子软](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_du_gen_zz.md#耳朵根子软)】`er3 du-do gen1 zz run3` <small>/ɚ3 tɤɯ kəŋ1 t͡sɿ ɻʊ̃3/<sup>泰兴</sup></small> 容易听信并采纳别人的话。<sup>\[泰兴\]</sup>  
 1. 【[耳朵旁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_du_pan.md#耳朵旁)】`er3 du-do pan2` <small>/ɚ3 tɤɯ pʰɑŋ2/<sup>泰兴</sup></small> 汉字偏旁“阝”的别称。“阝”为软耳朵，“卩”为硬耳朵。<sup>\[泰兴\]</sup>  
-1. 【[耳风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_fon.md#耳风)】`er3 fon1` <sup>[兴化]</sup> 道听途说的消息：你的～长，听到甚的话覅乱传。  
-1. 【[耳风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_fon.md#耳风)】`er3 fon1` <small>/ɚ3 fɔŋ1/<sup>泰兴</sup></small> 隐约听到的未必可靠的消息。<sup>\[泰兴\]</sup>：我听嗳～刮刮，恐怕有箇桩事。<sup>\[泰兴\]</sup>  
+1. 【[耳风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_fon.md#耳风)】`er3 fon1` <small>/ɚ3 foŋ1/<sup>兴化</sup>, /ɚ3 fɔŋ1/<sup>泰兴</sup></small> ① 道听途说的消息<sup>\[兴化\]</sup>：你的～长，听到甚的话覅乱传。<sup>\[兴化\]</sup> ② 隐约听到的未必可靠的消息。<sup>\[泰兴\]</sup>：我听嗳～刮刮，恐怕有箇桩事。<sup>\[泰兴\]</sup>  
 1. 【[耳付](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_fv.md#耳付)】`er3 fv5` <sup>[如皋]</sup> 答理、应付。有冷淡义：他这种人不受欢迎，我总不高兴～他。  
 1. 【[耳根子软](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_gen_zz_run.md#耳根子软)】`er3 gen1 zz run3` <sup>[如东]</sup> 对于别人的言语，轻易相信。比喻没有主见：他～，别人一说就相信。  
 1. 【[耳锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_gu.md#耳锅)】`er3 gu1` <sup>[如皋]</sup> 有双耳的铁锅。  
-1. 【[耳刮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_guaeh_zz.md#耳刮子)】`er3 guaeh7 zz` <sup>[泰州]</sup> 耳光，以手掌猛击人的面颊：这小伙嘴里瞎说，同我弄他两个～。  
-1. 【[耳刮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_guaeh_zz.md#耳刮子)】`er3 guaeh7 zz` <small>/ɚ3 kuæʔ7 t͡sɿ/<sup>泰兴</sup></small> 耳光。<sup>\[泰兴\]</sup>  
+1. 【[耳刮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_guaeh_zz.md#耳刮子)】`er3 guaeh7 zz` <small>/ɚ3 kuæʔ7 t͡sɿ/<sup>泰兴</sup></small> 耳光<sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：这小伙嘴里瞎说，同我弄他两个～。<sup>\[泰州\]</sup>  
 1. 【[耳聋缠八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_lon_chin_baeh.md#耳聋缠八)】`er3 lon2 chin6 baeh7` <small>/ɚ3 loŋ2 t͡sʰiɪ̃6 pæʔ7/<sup>兴化</sup>, /ɚ3 lɔŋ2 t͡ɕʰĩ1 pæʔ7/<sup>泰兴</sup>, /ɚ3 noŋ2 t͡ɕʰiɪ̃1 pæʔ7/<sup>泰县</sup></small> ① 耳朵听不清楚。<sup>\[如东\]</sup> ② 答非所问，缠七缠八的。<sup>\[如东\]</sup>：～的，问吖半天也朆说清楚。<sup>\[如东\]</sup> ③ 形容听觉不灵，常闹笑话<sup>\[东台\]</sup>：他～的，不要同他啰唆。<sup>\[东台\]</sup> ④ 由于耳朵失聪，常听不清或理解错别人的话<sup>\[兴化\]</sup>：“……爷爷～的，能管什么？”（马春阳《陈大年一家人》）<sup>\[兴化\]</sup> ⑤ 耳聋听不清<sup>\[泰县\]</sup>：这个人～的。<sup>\[泰县\]</sup> ⑥ 指责人答非所问<sup>\[泰县\]</sup>：你这人～的。<sup>\[泰县\]</sup> ⑦ 因为听力下降而误会别人说的话<sup>\[泰州\]</sup>：他年纪大啊耳朵不好，～的，你带谅点儿。<sup>\[泰州\]</sup>｜他说的不是这个意思，你岁数不大，倒～的唻。<sup>\[泰州\]</sup> ⑧ 谓因耳背或没有听清楚，回答的内容与主题不相符。<sup>\[泰兴\]</sup>  
 1. 【[耳聋缠八的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_lon_chin_baeh_dii.md#耳聋缠八的)】`er3 lon2 chin6 baeh7 dii` <sup>[如皋]</sup> 因耳聋而误会别人意思。  
 1. 【[耳门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_men.md#耳门)】`er3 men2` <sup>[如东]</sup> 堂屋（主屋）或厢房大门外侧两边的小门。  

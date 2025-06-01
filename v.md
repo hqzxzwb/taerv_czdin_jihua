@@ -888,12 +888,10 @@
 1. 【[围裙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_qyen.md#围裙)】`vei2 qyen2` ① 围在腰间的一种裙子。裙带一般比腰围大一半左右。<sup>\[如东\]</sup> ② 阔幅裙，交叉用带子围在身上。旧时女性穿戴居多。<sup>\[东台\]</sup> ③ 做脏活时系在腰上以遮蔽衣服或者身体的布片。<sup>\[泰州\]</sup>  
 1. 【[围网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_van.md#围网)】`vei2 van3` <sup>[兴化]</sup> ① 在河湖中，用网围起的一片水域：～养鱼。 ② 一种捕鱼方法，也称“拉大网”。  
 1. 【[围子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_zz.md#围子)】`vei2 zz` <sup>[泰县]</sup> 敌人的据点。  
-1. 【[圩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei.md#圩)】`vei2` <sup>[东台]</sup> 范公堤堤西阻挡洪水的堤坝：太平～｜三角～。  
-1. 【[圩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei.md#圩)】`vei2` <small>/ʋəɪ2/<sup>泰兴</sup></small> 沙滩筑堤，围成田者曰圩。泰兴人读音若“围”，亦音如“于”。如圩岸、云头圩等；又，老岸田今仍名圩（于音），如蛤蟆圩（今曲霞镇）、太平圩等。<sup>\[泰兴\]</sup>  
+1. 【[圩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei.md#圩)】`vei2` <small>/ʋəɪ2/<sup>泰兴</sup></small> ① 范公堤堤西阻挡洪水的堤坝<sup>\[东台\]</sup>：太平～<sup>\[东台\]</sup>｜三角～。<sup>\[东台\]</sup> ② 沙滩筑堤，围成田者曰圩。泰兴人读音若“围”，亦音如“于”。如圩岸、云头圩等；又，老岸田今仍名圩（于音），如蛤蟆圩（今曲霞镇）、太平圩等。<sup>\[泰兴\]</sup>  
 1. 【[圩里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_li.md#圩里)】`vei2 li3` <sup>[兴化]</sup> ① 在圩堤围护的范围以内。 ② 特指兴化东北乡，老圩、中圩、永丰、合塔等圩的～：～地区。  
 1. 【[圩南](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_nun.md#圩南)】`vei2 nun2` <sup>[兴化]</sup> 指兴化蚌蜓圩（大象圩）以南地区。  
-1. 【[圩岸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_un.md#圩岸)】`vei2 un6` <sup>[兴化]</sup> ① 指圩堤的顶部和两侧的青坎。 ② 地名，为兴化西郊的一个村庄。  
-1. 【[圩岸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_un.md#圩岸)】`vei2 un6` <small>/ʋəɪ2 ʊ̃1/<sup>泰兴</sup></small> 低洼地区防水护田的堤岸。<sup>\[泰兴\]</sup>  
+1. 【[圩岸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_un.md#圩岸)】`vei2 un6` <small>/uəi2 ũ6/<sup>兴化</sup>, /ʋəɪ2 ʊ̃1/<sup>泰兴</sup></small> ① 指圩堤的顶部和两侧的青坎。<sup>\[兴化\]</sup> ② 地名，为兴化西郊的一个村庄。<sup>\[兴化\]</sup> ③ 低洼地区防水护田的堤岸。<sup>\[泰兴\]</sup>  
 1. 【[圩外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_vae.md#圩外)】`vei2 vae6` <sup>[兴化]</sup> ① 圩堤范围以外。 ② 特指兴化中西部低洼地区。  
 1. 【[圩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_zz.md#圩子)】`vei2 zz` <small>/ʋəɪ2 t͡sɿ/<sup>泰兴</sup></small> 防水的堤埂。岸田为田地，称圩田，据史料记载，由汉以前即发展而来，至唐已相当发达。泰兴西乡地区遍有圩子。<sup>\[泰兴\]</sup>  
 1. 【[帷屏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_pien.md#帷屏)】`vei2 pien2` <sup>[兴化]</sup> 用绸缎或布匹蒙在框架上作成的屏风。  

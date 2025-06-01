@@ -435,6 +435,7 @@
 1. 【[行车工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_cha_gon.md#行车工)】`han2 cha1 gon1` <sup>[如东]</sup> 工种的一种。以操纵行车为职业的工人。  
 1. 【[行草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_co.md#行草)】`han2 co3` <sup>[如皋]</sup> 草行卖的草。其种类是江海滩出产的红草、芦柴、茅草。别于普通柴禾。  
 1. 【[行大欺客，客大欺行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_da_qi_keh_keh_da_qi_han.md#行大欺客，客大欺行)】`han2 da6 qi1 keh7 keh7 da6 qi1 han2` <sup>[东台]</sup> 一种以单位规格或人的身份之势压人的现象。  
+1. 【[行当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_dan.md#行当)】`han2 dan` <small>/xɑŋ2 tɑŋ/<sup>泰兴</sup></small> 行业；职业<sup>\[泰兴\]</sup>：你目前弄什的～？<sup>\[泰兴\]</sup>  
 1. 【[行货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_hu.md#行货)】`han2 hu5` <sup>[如东]</sup> 质量一般的货物，叫行货。  
 1. 【[行话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_hua.md#行话)】`han2 hua6` <sup>[东台]</sup> 某个行业的专门用语及内行掌握的业务要领。  
 1. 【[行佣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_ion.md#行佣)】`han2 ion6` <sup>[兴化]</sup> ① 行栈向客户收取的佣金。 ② （借）中介人收取的佣金。  
@@ -712,28 +713,33 @@
 1. 【[后啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_a.md#后啊)】`heu6 a` 后天。  
 1. 【[后啊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_a_zz.md#后啊子)】`heu6 a zz` <small>/xɤ6 əʔ t͡sɿ/<sup>兴化</sup>, /xɤɯ1 əʔ t͡se/<sup>泰县</sup></small> ① 后天，明天的明天。<sup>\[东台\]</sup> ② 后天。<sup>\[兴化\]</sup> ③ 后天<sup>\[泰县\]</sup>：你～走。<sup>\[泰县\]</sup>  
 1. 【[后背](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_bei.md#后背)】`heu6 bei5` <sup>[如皋]</sup> 背部。  
-1. 【[后壁头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_bieh_teu.md#后壁头)】`heu6 bieh7 teu2` <sup>[兴化]</sup> 后墙的外侧：他家～就是菜市场。  
+1. 【[后壁头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_bieh_teu.md#后壁头)】`heu6 bieh7 teu2` <small>/xɤ6 piɪʔ7 tʰɤ2/<sup>兴化</sup>, /xəɪ1 piʔ7 tʰəɪ2/<sup>泰兴</sup></small> ① 后墙的外侧<sup>\[兴化\]</sup>：他家～就是菜市场。<sup>\[兴化\]</sup> ② 后墙里外的墙根处。<sup>\[泰兴\]</sup>  
 1. 【[后补](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_bv.md#后补)】`heu6 bv3` <small>/xɤ6 pu3/<sup>兴化</sup></small> ① 当时没有办到，以后再补上<sup>\[兴化\]</sup>：有情～。<sup>\[兴化\]</sup>｜“府上何人完姻？俺贺礼也不曾备来，只好～了。”（《说岳全传》三二）<sup>\[兴化\]</sup> ② 由于某种原因，当时没法表达情意，以后再想办法弥补<sup>\[泰州\]</sup>：把你忙吖半大天，真的不好意思，有情～。<sup>\[泰州\]</sup>  
 1. 【[后栈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_chaen.md#后栈)】`heu6 chaen6` <sup>[如东]</sup> 棺材的后板。  
 1. 【[后成](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_chen.md#后成)】`heu6 chen2` <sup>[如皋]</sup> 磨损折旧的成数：大织布有～。  
 1. 【[后程](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_chen.md#后程)】`heu6 chen2` <sup>[如皋]</sup> 经久的程度：红木家具有～。  
 1. 【[后坐臀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_cu_den.md#后坐臀)】`heu6 cu6 den1` <sup>[如东]</sup> 猪的臀部。  
-1. 【[后座](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_cu.md#后座)】`heu6 cu6` <small>/xɤ6 t͡sʰo6/<sup>兴化</sup></small> ① 猪的后腿和臀部的肉。<sup>\[兴化\]</sup> ② 动物后腿连接屁股处的部分<sup>\[泰州\]</sup>：姑妈家里杀猪子，送吖个～来啊。<sup>\[泰州\]</sup>  
+1. 【[后座](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_cu.md#后座)】`heu6 cu6` <small>/xɤ6 t͡sʰo6/<sup>兴化</sup>, /xəɪ1 t͡sʰɤɯ1/<sup>泰兴</sup></small> ① 猪的后腿和臀部的肉。<sup>\[兴化\]</sup> ② 动物后腿连接屁股处的部分<sup>\[泰州\]</sup>：姑妈家里杀猪子，送吖个～来啊。<sup>\[泰州\]</sup> ③ 猪大腿连着臀部的部分。<sup>\[泰兴\]</sup>  
 1. 【[后座子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_cu_zz.md#后座子)】`heu6 cu6 zz` <sup>[泰县]</sup> 猪的臂部。  
 1. 【[后朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_do.md#后朝)】`heu6 do` <small>/xei1 tɔ/<sup>如皋</sup></small> ① 后天。<sup>\[如皋\]</sup> ② 后天，明天后的一天<sup>\[泰州\]</sup>：～是礼拜六。<sup>\[泰州\]</sup>  
 1. 【[后栋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_don.md#后栋)】`heu6 don` <sup>[泰州]</sup> ① 相对“前栋”，前面，空间或者位置靠后的部分：他家房子～长吖不少菜。 ② 次序靠后的部分：请～的人望前坐。 ③ 文章后面的部分。  
 1. 【[后耳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_er.md#后耳)】`heu6 er3` <sup>[如东]</sup> 牛车部件。装在车脊后下方，长方形，起固定后轮轴承的作用。  
 1. 【[后福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_foh.md#后福)】`heu6 foh7` <sup>[东台]</sup> 未来的幸福：大难不死，必有～。  
 1. 【[后街](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_gae.md#后街)】`heu6 gae1` <small>/xɤ6 kɛ1/<sup>兴化</sup>, /xei1 kɛ1/<sup>如皋</sup></small> ① 相对次要的、不繁荣的街道。<sup>\[如皋\]</sup> ② 与大街平行而比较偏僻、狭窄的街道<sup>\[兴化\]</sup>：他家住啊东门～上。<sup>\[兴化\]</sup>  
+1. 【[后跟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_gen.md#后跟)】`heu6 gen` <small>/xəɪ1 kəŋ/<sup>泰兴</sup></small> 脚跟。亦指鞋袜近脚跟的部分。<sup>\[泰兴\]</sup>：脚～<sup>\[泰兴\]</sup>｜鞋子～<sup>\[泰兴\]</sup>  
+1. 【[后跟头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_gen_teu.md#后跟头)】`heu6 gen1 teu2` <small>/xəɪ1 kəŋ1 tʰəɪ2/<sup>泰兴</sup></small> 脚的后部。<sup>\[泰兴\]</sup>  
 1. 【[后×月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_iuh.md#后×月)】`heu6 iuh8` <sup>[如皋]</sup> 阴历闰×月，就有后×月之说。  
 1. 【[后园](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_iun.md#后园)】`heu6 iun2` <small>/xei1 yʊ̃2/<sup>如皋</sup></small> ① 房后的园地。<sup>\[如东\]</sup> ② 屋后的园地。同“园后”。<sup>\[如皋\]</sup>  
+1. 【[后劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_jien.md#后劲)】`heu6 jien` <small>/xəɪ1 t͡ɕiŋ/<sup>泰兴</sup></small> 显露较慢的作用和力量。有时作后继有人讲。<sup>\[泰兴\]</sup>：箇个酒的～大<sup>\[泰兴\]</sup>  
 1. 【[后具脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_jy_jiah.md#后具脚)】`heu6 jy5 jiah7` <sup>[如东]</sup> 棺材的后脚。  
 1. 【[后力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_lieh.md#后力)】`heu6 lieh` <sup>[如皋]</sup> 耐久力、持久力。  
+1. 【[后路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_lv.md#后路)】`heu6 lv` <small>/xəɪ1 lu/<sup>泰兴</sup></small> 退路。以后的人生道路。<sup>\[泰兴\]</sup>：同自家留点～<sup>\[泰兴\]</sup>  
 1. 【[后门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_men.md#后门)】`heu6 men2` <small>/xɤ6 mən2/<sup>兴化</sup></small> ① 房屋后墙上的门。<sup>\[如东\]</sup> ② 比喻办事走不光明的通道。<sup>\[如东\]</sup>：走～。<sup>\[如东\]</sup> ③ 比喻通融、舞弊的途径<sup>\[东台\]</sup>：要公开竞争，不要开～。<sup>\[东台\]</sup> ④ 导致坏结果的缘由<sup>\[兴化\]</sup>：不听专家的劝告是吃苦的～。<sup>\[兴化\]</sup>｜轻信广告是上当的～。<sup>\[兴化\]</sup>  
 1. 【[后门口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_men_keu.md#后门口)】`heu6 men2 keu3` <sup>[泰州]</sup> 后门进出之处及附近地方。  
 1. 【[后年子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_nin_zz.md#后年子)】`heu6 nin zz` <small>/xɤ6 liɪ̃ t͡sɿ/<sup>兴化</sup>, /xei1 nĩ t͡sɿ/<sup>如皋</sup></small> ① 后年，明年的明年。<sup>\[如皋\]</sup> ② 后年，明年的后一年。<sup>\[兴化\]</sup>  
 1. 【[后年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_nin.md#后年)】`heu6 nin2` ① 往后第三年，称后年。<sup>\[如东\]</sup> ② 明年的明年。<sup>\[东台\]</sup>  
 1. 【[后脑勺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_no_shah.md#后脑勺)】`heu6 no3 shah8` <sup>[兴化]</sup> 脑袋后面突出的部分。  
+1. 【[后脑勺子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_no_shah_zz.md#后脑勺子)】`heu6 no3 shah8 zz` <small>/xəɪ1 nɔ3 sɑʔ8 t͡sɿ/<sup>泰兴</sup></small> 脑袋后面突出的部分。<sup>\[泰兴\]</sup>  
 1. 【[后横板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_on_baen.md#后横板)】`heu6 on2 baen3` <sup>[如东]</sup> 帆船船尾上的横木板。  
 1. 【[后期](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_qi.md#后期)】`heu6 qi1` <sup>[如东]</sup> ① 某一时期的后一阶段。 ② 延至以后：这个问题～处理。  
 1. 【[后生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_shen.md#后生)】`heu6 shen` <sup>[兴化]</sup> 青年男子：庄上有几个刚从部队退伍的～，人人都交关上进。  
@@ -741,17 +747,20 @@
 1. 【[后首](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_sheu.md#后首)】`heu6 sheu3` <small>/xɤ6 sɤ3/<sup>兴化</sup>, /xei1 sei3/<sup>如皋</sup></small> ① 以后。<sup>\[如皋\]</sup> ② 后一步、后路。<sup>\[如皋\]</sup> ③ 后来<sup>\[兴化\]</sup>：～被他探得这个风声，就去求见首府，托为斡旋。（《官场现形记》十九）<sup>\[兴化\]</sup> ④ 后来，表示时间顺序居后<sup>\[泰州\]</sup>：我是三点多钟走的，～的事情就不晓得吤。<sup>\[泰州\]</sup>  
 1. 【[后首翘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_sheu_qio.md#后首翘)】`heu6 sheu3 qio5` <small>/xɤ6 sɤ3 t͡ɕʰiɔ5/<sup>兴化</sup>, /xei1 sei3 t͡ɕʰiɔ5/<sup>如皋</sup></small> ① 后来越来越好<sup>\[如皋\]</sup>：这次打球是～，下半场才赢吖。<sup>\[如皋\]</sup> ② 后来情况比前期好。<sup>\[东台\]</sup> ③ 谓起初虽差，但以后却好起来<sup>\[兴化\]</sup>：前三季度不景气，四季度来个～，全年超额完成了任务。<sup>\[兴化\]</sup> ④ 比喻最初情况较差，最后变得很好<sup>\[泰州\]</sup>：他高一的时候成绩还不怎吖好，到了高三下学期～，各科成绩全上去啊。<sup>\[泰州\]</sup>｜还以为今年子年终奖没说相的，不详意是～，七七八八的加起来有五六千唻。<sup>\[泰州\]</sup>  
 1. 【[后梢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_sho.md#后梢)】`heu6 sho1` <small>/xɤ6 sɔ1/<sup>兴化</sup></small> ① 后代。<sup>\[东台\]</sup> ② 后路。<sup>\[东台\]</sup> ③ 树木的末端。<sup>\[兴化\]</sup> ④ （喻）结局<sup>\[兴化\]</sup>：覅看他目下神气，就怕没得好的～。<sup>\[兴化\]</sup>  
+1. 【[后梢翘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_sho_qio.md#后梢翘)】`heu6 sho1 qio5` <small>/xəɪ1 sɔ1 t͡ɕʰiɔ5/<sup>泰兴</sup></small> 俗以最后取得令人满意的成果、成效者为“后梢翘”。<sup>\[泰兴\]</sup>  
 1. 【[后事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_shr.md#后事)】`heu6 shr6` <sup>[东台]</sup> 丧事及死者的遗留问题。  
 1. 【[后头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_teu.md#后头)】`heu6 teu` <small>/xɤ6 tʰɤ/<sup>兴化</sup>, /xei1 tʰei/<sup>如皋</sup></small> ① 之后，以后，后面 ② 后面。与前相对。<sup>\[如皋\]</sup> ③ 与“朝南”“向阳”相对。<sup>\[如皋\]</sup> ④ 后来<sup>\[兴化\]</sup>：“妈妈，正为～日子短了，因此烦恼……”（《醒世恒言》二十）<sup>\[兴化\]</sup> ⑤ 后面<sup>\[泰州\]</sup>：你稍微慢点儿开，等啊子～的车子。<sup>\[泰州\]</sup>  
+1. 【[后头家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_teu_ga.md#后头家)】`heu6 teu ga1` <small>/xəɪ1 tʰəɪ kɑ1/<sup>泰兴</sup></small> 正房后面的房子，或前后两进的后一进房子。<sup>\[泰兴\]</sup>  
 1. 【[后头家里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_teu_ga_lii.md#后头家里)】`heu6 teu ga1 lii` <sup>[如皋]</sup> ① 后面的房屋里。 ② 后面住的那一家。  
 1. 【[后天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_tin.md#后天)】`heu6 tin1` <sup>[如东]</sup> 往后第三天。后朝。  
 1. 【[后添汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_tin_tan.md#后添汤)】`heu6 tin1 tan1` <small>/xɤ6 tʰiɪ̃1 tʰaŋ1/<sup>兴化</sup></small> ① 后续援助（主要指来自家庭的）。<sup>\[东台\]</sup> ② 做菜、煮汤圆或面条时，后加的汤（热水）。<sup>\[兴化\]</sup> ③ （借）后加的或外加的<sup>\[兴化\]</sup>：这次到黄山旅游，原计划十个人，～又来啊两个。<sup>\[兴化\]</sup>  
 1. 【[后通](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_ton.md#后通)】`heu6 ton` <sup>[东台]</sup> 后头。  
+1. 【[后限场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_xiaen_chan.md#后限场)】`heu6 xiaen6 chan2` <small>/xəɪ1 ɕiɛ̃1 t͡sʰɑŋ2/<sup>泰兴</sup></small> 以后的难以预测的情况。多指人年龄大了的状况。<sup>\[泰兴\]</sup>  
+1. 【[后限部](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_xiaen_pv.md#后限部)】`heu6 xiaen6 pv6` <small>/xəɪ1 ɕiɛ̃1 pʰu1/<sup>泰兴</sup></small> 最后的阶段。尤其指生命的最后阶段。<sup>\[泰兴\]</sup>：到啊～，精神一天差似一天<sup>\[泰兴\]</sup>  
 1. 【[后相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_xian.md#后相)】`heu6 xian5` <small>/xɤ6 ɕiaŋ5/<sup>兴化</sup>, /xei1 ɕiã5/<sup>如皋</sup></small> ① 从背后看及看到的样子。<sup>\[如皋\]</sup> ② 人背后的样子<sup>\[兴化\]</sup>：……小吴不光正面漂亮，～也不丑。<sup>\[兴化\]</sup> ③ 背朝人的整体形象<sup>\[泰州\]</sup>：这丫头的脸长得不算好看，不过身材没话说，长发披肩，～望上去还真不丑。<sup>\[泰州\]</sup>  
 1. 【[后作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_zah.md#后作)】`heu6 zah7` <sup>[兴化]</sup> 商店自备的作坊：九如斋茶食店自己有～生产糕点。  
-1. 【[后朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_zho.md#后朝)】`heu6 zho` <sup>[泰县]</sup> 后天：我～去。  
 1. 【[后朝子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_zho_zz.md#后朝子)】`heu6 zho zz` <sup>[兴化]</sup> 后天，即明天的明天。也作“后啊子”。  
-1. 【[后朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_zho.md#后朝)】`heu6 zho1` <sup>[东台]</sup> 后天。  
+1. 【[后朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_zho.md#后朝)】`heu6 zho1` <small>/xəɪ1 t͡sɔ1/<sup>泰兴</sup>, /xɤɯ1 t͡sɔ/<sup>泰县</sup></small> 后天<sup>\[泰兴\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup>  
 1. 【[嚆噢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_o.md#嚆噢)】`ho1 o3` <sup>[如皋]</sup> 见“嚆嘘”。  
 1. 【[嚆嘘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_xy.md#嚆嘘)】`ho1 xy1` <sup>[如皋]</sup> 驱鸡、鸟的吆喝声。  
 1. 【[蒿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho.md#蒿)】`ho1` <sup>[东台]</sup> 菊科蒿类植物统称，叶子为羽状，花小，带有某种特殊气味：茼～；青～；艾～。  
@@ -1803,8 +1812,7 @@
 1. 【[𣝗髅<sub>儿</sub>搬家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_leu_r_bun_jia.md#𣝗髅<sub>儿</sub>搬家)】`hueh8 leu2 r bun1 jia1` <sup>[如东]</sup> 头被砍了。  
 1. 【[𣝗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_zz.md#𣝗子)】`hueh8 zz, veh8 zz` <sup>[如东]</sup> ① 果实中坚硬并包含种仁的部分。 ② 肌肤里的瘤块。  
 1. 【[𣝗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_zz.md#𣝗子)】`hueh8 zz` <small>/xuəʔ7 t͡sɿ/<sup>兴化</sup>, /xuəʔ8 t͡sɿ/<sup>如皋</sup>, /xuəʔ8 t͡se/<sup>泰县</sup></small> ① 果核<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup>：桃～、杏～。<sup>\[如皋\]</sup>｜桃～<sup>\[东台\]</sup>｜枣～；梨～<sup>\[兴化\]</sup> ② 皮下的硬块。<sup>\[如皋\]</sup> ③ 身上淋巴结肿大。<sup>\[如皋\]</sup> ④ 疙瘩<sup>\[泰县\]</sup>：心里有个～。<sup>\[泰县\]</sup>  
-1. 【[灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei.md#灰)】`huei1` <sup>[泰州]</sup> ① 尘土：把身上的～掸吖子再家来。 ② 垃圾：把畚斗里的～倒啊外头灰堆上去。  
-1. 【[灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei.md#灰)】`huei1` <small>/xuəɪ1/<sup>泰兴</sup></small> 垃圾；粉尘。<sup>\[泰兴\]</sup>  
+1. 【[灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei.md#灰)】`huei1` <small>/xuəɪ1/<sup>泰兴</sup></small> ① 尘土<sup>\[泰州\]</sup>：把身上的～掸吖子再家来。<sup>\[泰州\]</sup> ② 垃圾<sup>\[泰州\]</sup>：把畚斗里的～倒啊外头灰堆上去。<sup>\[泰州\]</sup> ③ 垃圾；粉尘。<sup>\[泰兴\]</sup>  
 1. 【[灰巴绿簇的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_ba_loh_coh_dii.md#灰巴绿簇的)】`huei1 ba loh8 coh7 dii` <sup>[如皋]</sup> 灰绿而暗滞的颜色。  
 1. 【[灰巴绿色的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_ba_loh_seh_dii.md#灰巴绿色的)】`huei1 ba loh8 seh7 dii` <sup>[如皋]</sup> 灰绿而暗滞的颜色。  
 1. 【[灰巴拉哈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_ba_la_ha.md#灰巴拉哈)】`huei1 ba1 la ha1` <sup>[如东]</sup> 暗灰色：这种布料～，不显彩。  
@@ -1933,11 +1941,12 @@
 1. 【[会利](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_li.md#会利)】`huei6 li6` <small>/xuei1 lʝ1/<sup>如皋</sup></small> “请会”中先“得会”者于尔后“打会”时加付的利金，由后“得会”者加收。<sup>\[如东\]</sup><sup>\[如皋\]</sup>  
 1. 【[会期](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qi.md#会期)】`huei6 qi1` <small>/xuei1 t͡ɕʰʝ1/<sup>如皋</sup></small> 每月定期打会的时间以及地点。<sup>\[如东\]</sup><sup>\[如皋\]</sup>  
 1. 【[会吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qieh.md#会吃)】`huei6 qieh7` <sup>[如皋]</sup> ① 指婴儿、小动物要吃、吃得多。 ② 指吃得技巧、吃得精巧吃得有“名堂”。懂得使用各种食料，做出各种可口的美味享用。  
-1. 【[会亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qien.md#会亲)】`huei6 qien1` <small>/xuəi6 t͡ɕʰin1/<sup>兴化</sup>, /xuei1 t͡ɕʰiəŋ1/<sup>如皋</sup>, /xuəɪ1 t͡ɕʰiŋ1/<sup>泰兴</sup></small> 婚俗，男女双方亲族聚会认亲<sup>\[泰兴\]</sup>\[如东：姑娘结婚后第三天，娘家人到婆家去认识亲戚，叫做会亲；第四天，婆家人到娘家去认识亲戚，叫做反会亲。也称双会亲。参加会亲的人，在新娘生小孩时都要送产妇礼。\]\[泰州：旧时传统婚礼喜日婚宴均由男方举办，女方父母、兄弟、姐妹以及相关亲戚都会回避。男方乃在婚后数日设下酒筵，宴请女方父母、兄弟、姐妹以及相关亲戚，双方互相“认亲”，称为会亲。《民国泰县志稿》卷之23:“会亲，婚后数日，女之伯叔兄弟临男宅视女曰看亲。男宅择日请岳家眷属及做朝之亲族，曰会亲。”\]\[兴化：男女婚姻关系确立后，男方邀集双方主要亲戚聚会认亲\]\[如皋：结婚后，男家邀女家亲族赴宴，与男家亲族互相承认亲戚关系。赴宴者“不空手”须带礼物去，又“回半礼”带回。\]\[东台：结婚时男女双方各自置办宴席，请对方亲友见面。\]：新人上轿，冯老孺人也上轿，送到金家，……次日，杨家哥嫂多来～……（《二刻》九）<sup>\[兴化\]</sup>  
+1. 【[会亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qien.md#会亲)】`huei6 qien1` <small>/xuəi6 t͡ɕʰin1/<sup>兴化</sup>, /xuei1 t͡ɕʰiəŋ1/<sup>如皋</sup>, /xuəɪ1 t͡ɕʰiŋ1/<sup>泰兴</sup></small> 婚俗，男女双方亲族聚会认亲\[如东：姑娘结婚后第三天，娘家人到婆家去认识亲戚，叫做会亲；第四天，婆家人到娘家去认识亲戚，叫做反会亲。也称双会亲。参加会亲的人，在新娘生小孩时都要送产妇礼。\]\[泰州：旧时传统婚礼喜日婚宴均由男方举办，女方父母、兄弟、姐妹以及相关亲戚都会回避。男方乃在婚后数日设下酒筵，宴请女方父母、兄弟、姐妹以及相关亲戚，双方互相“认亲”，称为会亲。《民国泰县志稿》卷之23:“会亲，婚后数日，女之伯叔兄弟临男宅视女曰看亲。男宅择日请岳家眷属及做朝之亲族，曰会亲。”\]\[泰兴：民俗。子女婚后双方亲友相聚相会，今后作为亲戚往来，谓之“会亲”。\]\[兴化：男女婚姻关系确立后，男方邀集双方主要亲戚聚会认亲\]\[如皋：结婚后，男家邀女家亲族赴宴，与男家亲族互相承认亲戚关系。赴宴者“不空手”须带礼物去，又“回半礼”带回。\]\[东台：结婚时男女双方各自置办宴席，请对方亲友见面。\]：新人上轿，冯老孺人也上轿，送到金家，……次日，杨家哥嫂多来～……（《二刻》九）<sup>\[兴化\]</sup>  
 1. 【[会亲酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qien_jieu.md#会亲酒)】`huei6 qien1 jieu3` <sup>[如东]</sup> 姑娘结婚后，亲戚相聚而举办的酒筵，称会亲酒。  
 1. 【[会钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qin.md#会钱)】`huei6 qin2` <small>/xuei1 t͡ɕʰĩ2/<sup>如皋</sup></small> ① “请会”时收取的及以后定期“打会”的钱。<sup>\[如皋\]</sup><sup>\[如东\]</sup> ② “做会（如青苗会、土地会、龙王会、城隍会）”的份额钱。<sup>\[如皋\]</sup> ③ 结社（如工会、农会）成员交的“会费”。<sup>\[如皋\]</sup>  
 1. 【[会杀猪，还要会翻肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_shaeh_zhv_hae_io_huei_faen_chan.md#会杀猪，还要会翻肠)】`huei6 shaeh7 zhv1 hae2 io5 huei6 faen1 chan2` <sup>[东台]</sup> 做了某件事就要处理好相关环节，不留后患。  
 1. 【[会悟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_v.md#会悟)】`huei6 v6` <sup>[泰州]</sup> 领会，领悟：你说的这层意思他还不曾～得过来。  
+1. 【[会账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_zhan.md#会账)】`huei6 zhan5` <small>/xuəɪ1 t͡sɑŋ5/<sup>泰兴</sup></small> 在饭店茶馆等处付账。多指一人为大家付账。<sup>\[泰兴\]</sup>：明朝大家到仁和楼聚下子，我来～<sup>\[泰兴\]</sup>  
 1. 【[会做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_zu.md#会做)】`huei6 zu5` 能干，勤劳  
 1. 【[会做新妇两头瞒，不会做新妇两头搬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_zu_xien_fv.md#会做新妇两头瞒，不会做新妇两头搬)】`huei6 zu5 xien1 fv laen3 teu2 mun2 beh7 huei6 zu5 xien1 fv laen3 teu2 bun1` <sup>[东台]</sup> 小事要化了，不能搬话增加矛盾。  
 1. 【[惠钞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_cho.md#惠钞)】`huei6 cho1` <sup>[如皋]</sup> 见“惠账”。  
@@ -2068,14 +2077,13 @@
 1. 【[合光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_guan.md#合光)】`huh8 guan1` <small>/xuʔ8 kuaŋ1/<sup>兴化</sup>, /xʊʔ8 kuã1/<sup>如皋</sup>, /xʊʔ8 kuɑŋ1/<sup>泰县</sup></small> ① 眼镜度数与视力度数相匹配。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[泰县\]</sup>\[兴化：也称“投光”。\] ② 中意，合于自己的眼光。<sup>\[如皋\]</sup> ③ 交换看法，集思广益。<sup>\[东台\]</sup>  
 1. 【[合婚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_huen.md#合婚)】`huh8 huen1` <small>/xuʔ8 xuən1/<sup>兴化</sup>, /xʊʔ8 xuəŋ1/<sup>如皋</sup>, /xʊʔ8 xuəŋ1/<sup>泰兴</sup>, /xʊʔ7 xuəŋ1/<sup>泰县</sup></small> 旧俗，男女定婚前，将双方的生辰八字合在一起算命，预测是否般配，这种程序称合婚。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>\[兴化：也称“合八字”。\]  
 1. 【[合欢树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_hun_shv.md#合欢树)】`huh8 hun1 shv6` <sup>[如东]</sup> 豆科植物合欢，也叫马樱花，落叶乔木，高约10米。  
-1. 【[合口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_keu.md#合口)】`huh8 keu3` <sup>[东台]</sup> 符合自己的口味。  
-1. 【[合口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_keu.md#合口)】`huh8 keu3` <small>/xʊʔ8 kʰəɪ3/<sup>泰兴</sup></small> 适口，可口。<sup>\[泰兴\]</sup>：茶饭～<sup>\[泰兴\]</sup>  
+1. 【[合口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_keu.md#合口)】`huh8 keu3` <small>/xʊʔ8 kʰəɪ3/<sup>泰兴</sup></small> ① 符合自己的口味。<sup>\[东台\]</sup> ② 适口，可口。<sup>\[泰兴\]</sup>：茶饭～<sup>\[泰兴\]</sup>  
 1. 【[合脾家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_pi_jia.md#合脾家)】`huh8 pi2 jia1` <sup>[如皋]</sup> 相处和谐。又作“佮得来”。  
 1. 【[合篷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_pon.md#合篷)】`huh8 pon2` <sup>[泰县]</sup> 连接前后两间房子的遮盖物。  
 1. 【[合伴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_pun.md#合伴)】`huh8 pun6` <sup>[如皋]</sup> 与同伴关系融洽。  
 1. 【[合巧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_qio.md#合巧)】`huh8 qio3` <sup>[兴化]</sup> 正好、凑巧：钱己经筹好，有～的人就带去。｜想办一个阅览室，就是找不到～的地方。  
 1. 【[合适](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_sheh.md#合适)】`huh8 sheh7` <small>/xuʔ8 səʔ7/<sup>兴化</sup>, /xʊʔ8 səʔ7/<sup>如皋</sup></small> ① 适当。<sup>\[如东\]</sup><sup>\[泰州\]</sup>：这块料～。<sup>\[如东\]</sup>｜你把他安排到这个部门好像不太～。<sup>\[泰州\]</sup> ② 性格相投。<sup>\[如东\]</sup>\[兴化：兴化词典作“合式”\]：你俫两个非常～。<sup>\[如东\]</sup>｜他俫二人蛮～的。<sup>\[兴化\]</sup>｜二位老者谈得～，便结了一个儿女姻亲……（《广酸潮》五一）<sup>\[兴化\]</sup> ③ 爱慕、关系和谐。<sup>\[如皋\]</sup> ④ 满意、中意<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：到商场看看，有～的服装买上几件。<sup>\[兴化\]</sup>  
-1. 【[合手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_sheu.md#合手)】`huh8 sheu3` <small>/xuʔ8 sɤ3/<sup>兴化</sup>, /xʊʔ8 sei3/<sup>如皋</sup></small> 称手，掌握使用很舒适<sup>\[如皋\]</sup><sup>\[兴化\]</sup>：才买的这把剪子用起来不大～。<sup>\[兴化\]</sup>  
+1. 【[合手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_sheu.md#合手)】`huh8 sheu3` <small>/xuʔ8 sɤ3/<sup>兴化</sup>, /xʊʔ8 sei3/<sup>如皋</sup>, /xʊʔ8 ɕiɤɯ3/<sup>泰兴</sup></small> 称手，掌握使用很舒适<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：才买的这把剪子用起来不大～。<sup>\[兴化\]</sup>｜箇根拐杖正好～<sup>\[泰兴\]</sup>  
 1. 【[合扇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_shin.md#合扇)】`huh8 shin5` <small>/xuʔ8 siɪ̃5/<sup>兴化</sup></small> 由两片金属构成的铰链，大多装在门、窗、箱、柜上。<sup>\[兴化\]</sup>\[东台：又作“合页”“合叶”。\]  
 1. 【[合同工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_ton_gon.md#合同工)】`huh8 ton2 gon1` <sup>[如东]</sup> 用工制度的一种。劳动者与企业单位按照一定条件（权利与义务）签订劳动合同，这种用工制度称劳动合同制，简称劳合制；这种制度下的工人称劳动合同制工人，简称合同工。  
 1. 【[合胃口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_vei_keu.md#合胃口)】`huh8 vei5 keu3` <small>/xʊʔ8 ʋei5 kʰei3/<sup>如皋</sup>, /xʊʔ8 ʋəɪ5 kʰəɪ3/<sup>泰兴</sup></small> ① 菜肴的风味符合自己的口味。比喻符合要求。<sup>\[如东\]</sup>：这种菜，～。<sup>\[如东\]</sup> ② 适合需要。<sup>\[如皋\]</sup> ③ 适合个人饮食的喜好。比喻某事某人某物与个人的心意、志趣相合。<sup>\[泰兴\]</sup>  

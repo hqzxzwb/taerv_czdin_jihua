@@ -38,8 +38,7 @@
 1. 【[台盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_pun.md#台盘)】`tae2 pun2` <small>/tʰɛ2 pʰũ2/<sup>兴化</sup>, /tʰɛ2 pʰʊ̃2/<sup>如皋</sup></small> ① 比喻正式场合<sup>\[如皋\]</sup><sup>\[东台\]</sup>：他说的话句句搬得上～。<sup>\[如皋\]</sup>｜捧不上～。<sup>\[东台\]</sup> ② 应酬交际的场合<sup>\[兴化\]</sup>：妻兄上不得～，就在房里吃吧！<sup>\[兴化\]</sup>｜“……况且既没有好衣服穿，自然上不了～……”（《老残游记》二四）<sup>\[兴化\]</sup>  
 1. 【[台球](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_qieu.md#台球)】`tae2 qieu2` <sup>[如皋]</sup> 乒乓球的老派称法。  
 1. 【[台箱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_xian.md#台箱)】`tae2 xian1` <sup>[如东]</sup> 木制，长方形，体积大，搁置在箱框上，称台箱。  
-1. 【[台子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_zz.md#台子)】`tae2 zz` <sup>[兴化]</sup> ① 桌子。 ② 檐下台阶：廊檐～。  
-1. 【[台子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_zz.md#台子)】`tae2 zz` <small>/tʰɛ2 t͡sɿ/<sup>泰兴</sup></small> 桌子。<sup>\[泰兴\]</sup>：来啊客，细伢儿不要上～。<sup>\[泰兴\]</sup>  
+1. 【[台子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_zz.md#台子)】`tae2 zz` <small>/tʰɛ2 t͡sɿ/<sup>兴化</sup>, /tʰɛ2 t͡sɿ/<sup>泰兴</sup></small> ① 檐下台阶<sup>\[兴化\]</sup>：廊檐～。<sup>\[兴化\]</sup> ② 桌子。<sup>\[泰兴\]</sup><sup>\[兴化\]</sup>：来啊客，细伢儿不要上～。<sup>\[泰兴\]</sup>  
 1. 【[抬财神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_cae_shen.md#抬财神)】`tae2 cae2 shen` <small>/tʰɛ2 t͡sʰɛ2 sən/<sup>兴化</sup></small> ① 旧谓土匪绑票。<sup>\[兴化\]</sup> ② 旧指土匪绑票。见“请财神”。<sup>\[兴化\]</sup>  
 1. 【[抬大轿的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_da_qio_dii.md#抬大轿的)】`tae2 da6 qio6 dii` <sup>[兴化]</sup> ① 旧称抬轿子的人。 ② （讽）指经常散着上衣前襟的人：他散衣露怀，像个～。  
 1. 【[抬杠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_gan.md#抬杠)】`tae2 gan5` <sup>[如东]</sup> 争辩。  
@@ -362,8 +361,7 @@
 1. 【[托不住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_beh_chv.md#托不住)】`tah7 beh7 chv6` <sup>[如皋]</sup> 见“袒”。  
 1. 【[托不住砣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_beh_chv_tu.md#托不住砣)】`tah7 beh7 chv6 tu2` <sup>[如皋]</sup> 指秤尾偏下。见“袒”。  
 1. 【[托兆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_cho.md#托兆)】`tah7 cho6` <small>/tʰɑʔ7 t͡sʰɔ1/<sup>泰县</sup></small> ① 一种迷信说法。鬼神在梦中传来阴间的信息或指点迷津，叫做托兆。<sup>\[如东\]</sup> ② 迷信中把梦幻说成是鬼神在暗中作崇。<sup>\[泰县\]</sup>  
-1. 【[托大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_da.md#托大)】`tah7 da6` <sup>[兴化]</sup> ① 粗心大意：出门在外各方小心，不可～。 ② 妄自尊大，傲慢少礼：谁想满生是个轻薄后生……安然～，忘其所以。（《二刻》十一）  
-1. 【[托大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_da.md#托大)】`tah7 da6` <small>/tʰɑʔ7 tɑ1/<sup>泰兴</sup></small> 倨傲自尊，拿架子。犹言大二小三<sup>\[泰兴\]</sup>：不要以为做啊官就～，在老百姓面前摆架子。<sup>\[泰兴\]</sup>  
+1. 【[托大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_da.md#托大)】`tah7 da6` <small>/tʰaʔ7 ta6/<sup>兴化</sup>, /tʰɑʔ7 tɑ1/<sup>泰兴</sup></small> ① 粗心大意<sup>\[兴化\]</sup>：出门在外各方小心，不可～。<sup>\[兴化\]</sup> ② 妄自尊大，傲慢少礼<sup>\[兴化\]</sup>：谁想满生是个轻薄后生……安然～，忘其所以。（《二刻》十一）<sup>\[兴化\]</sup> ③ 倨傲自尊，拿架子。犹言大二小三<sup>\[泰兴\]</sup>：不要以为做啊官就～，在老百姓面前摆架子。<sup>\[泰兴\]</sup>  
 1. 【[托胆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_daen.md#托胆)】`tah7 daen3` <sup>[兴化]</sup> 跟可信的人一起而放开心怀：“见丈人引来，是内亲了，故此～……”（《水浒后传》三六）  
 1. 【[托底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_di.md#托底)】`tah7 di3` <sup>[兴化]</sup> 知道底细，心中有数：凭一张广告就往广州跑，心里不～。  
 1. 【[托福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_foh.md#托福)】`tah7 foh7` <small>/tʰɑʔ7 fɔʔ7/<sup>泰兴</sup></small> 客套语。谓依赖别人的福气使自己幸运。<sup>\[泰兴\]</sup>：箇桩事得咖成，是托的他的福<sup>\[泰兴\]</sup>  
@@ -944,14 +942,11 @@
 1. 【[地落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_lah.md#地落)】`ti6 lah8` <small>/tʰʝ1 laʔ8/<sup>如皋</sup></small> ① 具体的地方，又称做落地、落场。<sup>\[如皋\]</sup> ② 地方。<sup>\[如皋\]</sup>  
 1. 【[地理先生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_li_xin_shen.md#地理先生)】`ti6 li3 xin1 shen1` <small>/tʰʝ1 lʝ3 ɕĩ1 səŋ1/<sup>如皋</sup></small> ① 堪舆术士。<sup>\[如皋\]</sup> ② 施教地理课程的教师。看风水的人。也叫阴阳先生。<sup>\[如东\]</sup>  
 1. 【[地里鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_lii_guei.md#地里鬼)】`ti6 lii guei3` <sup>[兴化]</sup> （戏）熟悉当地情况的人：“兄弟，不好了！那猴子真是个～！那里请得个主人公来也！”（《西游记》七七）也称“地头鬼”。  
-1. 【[地龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_lon.md#地龙)】`ti6 lon2` <sup>[如东]</sup> 蛇。蚯蚓。  
-1. 【[地龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_lon.md#地龙)】`ti6 lon2` <small>/t͡ɕʰʝ1 lɔŋ2/<sup>泰兴</sup></small> 乡人谓蚯蚓为地龙，亦有称蛇者。<sup>\[泰兴\]</sup>  
+1. 【[地龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_lon.md#地龙)】`ti6 lon2` <small>/t͡ɕʰʝ1 lɔŋ2/<sup>泰兴</sup></small> 指蛇或蚯蚓<sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
 1. 【[地龙<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_lon_r.md#地龙<sub>儿</sub>)】`ti6 lon2 r` <sup>[如东]</sup> 一只圆形竹筒制成，有哨口，中间以竹竿相穿，用绳索搓动，高速旋转后，能够发出响声。  
-1. 【[地坪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_pien.md#地坪)】`ti6 pien2` <sup>[兴化]</sup> 室内外地面：混凝土～｜屋里～比天井高三十公分。  
-1. 【[地坪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_pien.md#地坪)】`ti6 pien2` <small>/t͡ɕʰʝ1 pʰiŋ2/<sup>泰兴</sup></small> 室内装修时铺于地面的物品，如地面砖、罗底砖、地板等。<sup>\[泰兴\]</sup>  
+1. 【[地坪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_pien.md#地坪)】`ti6 pien2` <small>/tʰəi6 pʰiɪ̃2/<sup>兴化</sup>, /t͡ɕʰʝ1 pʰiŋ2/<sup>泰兴</sup></small> ① 室内外地面<sup>\[兴化\]</sup>：混凝土～<sup>\[兴化\]</sup>｜屋里～比天井高三十公分。<sup>\[兴化\]</sup> ② 室内装修时铺于地面的物品，如地面砖、罗底砖、地板等。<sup>\[泰兴\]</sup>  
 1. 【[地判](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_pun.md#地判)】`ti6 pun5` <sup>[兴化]</sup> 迎神赛会中在地上行走的判宫：判有两种，一种是～，一文一武，手执朝笏，边走边跳。（汪曾祺《故里三陈》）‖也称“走判”。  
-1. 【[地铺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_pv.md#地铺)】`ti6 pv5` <sup>[泰州]</sup> 把铺盖铺在地上做成临时的铺：人来啊多啊，只好打～。  
-1. 【[地铺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_pv.md#地铺)】`ti6 pv5` <small>/t͡ɕʰʝ1 pʰu5/<sup>泰兴</sup></small> 把铺盖铺在地上做成的临时铺位。<sup>\[泰兴\]</sup>：当年上河工民工总是打～<sup>\[泰兴\]</sup>  
+1. 【[地铺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_pv.md#地铺)】`ti6 pv5` <small>/t͡ɕʰʝ1 pʰu5/<sup>泰兴</sup></small> 把铺盖铺在地上做成的临时铺位。<sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：人来啊多啊，只好打～。<sup>\[泰州\]</sup>｜当年上河工民工总是打～<sup>\[泰兴\]</sup>  
 1. 【[地上出汗，雨后才旱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_shan_chueh_hun.md#地上出汗，雨后才旱)】`ti6 shan6 chueh7 hun6 y3 heu6 cae2 hun6` <small>/t͡ɕʰʝ1 sɑŋ1 t͡sʰuəʔ7 xʊ̃1 y3 xəɪ1 t͡ɕʰiɛ2 xʊ̃1/<sup>泰兴</sup></small> 气象谚语。谓地面、墙壁转潮，甚至浮挂水滴，预示天将要下雨。<sup>\[泰兴\]</sup>  
 1. 【[地身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_shen.md#地身)】`ti6 shen1` <small>/tʰəi6 sən1/<sup>兴化</sup>, /tʰʝ1 səŋ1/<sup>如皋</sup>, /t͡ɕʰʝ1 səŋ1/<sup>泰兴</sup></small> ① 地方、地势、高程。<sup>\[如皋\]</sup> ② 地平面<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：这许～高，那许～低。<sup>\[兴化\]</sup>｜这块地的～高，雨一停水就干。<sup>\[泰州\]</sup> ③ 地基。<sup>\[泰州\]</sup>\[兴化：也说“地脚”。\]：这个房子～低，一到落雨天，家里地下就发潮。<sup>\[泰州\]</sup> ④ 地面，土壤。<sup>\[泰兴\]</sup>：～潮和<sup>\[泰兴\]</sup>  
 1. 【[地塘屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_tan_oh.md#地塘屋)】`ti6 tan2 oh7` <small>/tʰəi6 tʰaŋ2 ɔʔ7/<sup>兴化</sup>, /tʰʝ1 tʰã2 ɔʔ7/<sup>如皋</sup></small> ① 室内地平低于室外地平的房屋。<sup>\[如皋\]</sup> ② 室内地坪低于室外的房屋。<sup>\[兴化\]</sup>  
@@ -1753,8 +1748,7 @@
 1. 【[僮子戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_zz_xi.md#僮子戏)】`ton2 zz3 xi5` <sup>[如皋]</sup> 夏巫戏。  
 1. 【[同](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton.md#同)】`ton2` <small>/tʰoŋ2/<sup>兴化</sup>, /tʰɔŋ2/<sup>如皋</sup>, /tʰoŋ2/<sup>泰县</sup></small> ① 和，跟 ② 叠起来，摞起来 ③ 相同，一样 ④ 量词<sup>\[如皋\]</sup>：一～糕（年糕，两块相迭）。<sup>\[如皋\]</sup> ⑤ 投、叠<sup>\[兴化\]</sup>：棉𧘸子外头拿件加褂子～起来。<sup>\[兴化\]</sup> ⑥ 为，给：～他做件衣裳。<sup>\[泰县\]</sup> ⑦ 团结，友好：我不～你。<sup>\[泰县\]</sup> ⑧ 连词，表示并列，与，和<sup>\[泰州\]</sup>：你～他一起ㄦ去南京。<sup>\[泰州\]</sup> ⑨ 介词，引入动作对象，替，为<sup>\[泰州\]</sup>：你去～我买包烟家来。<sup>\[泰州\]</sup> ⑩ 介词，向<sup>\[泰州\]</sup>：这件事最好你亲自～他去说。<sup>\[泰州\]</sup>  
 1. 【[同辈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_bei.md#同辈)】`ton2 bei5` <sup>[如东]</sup> 在血缘或宗族关系上属于同一辈分的人，称同辈。也称平辈。  
-1. 【[同房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_fan.md#同房)】`ton2 fan2` <sup>[如东]</sup> 男女过性生活。  
-1. 【[同房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_fan.md#同房)】`ton2 fan2` <small>/tʰɔŋ2 fɑŋ2/<sup>泰兴</sup></small> 婉词，谓夫妻间的性生活。<sup>\[泰兴\]</sup>  
+1. 【[同房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_fan.md#同房)】`ton2 fan2` <small>/tʰɔŋ2 fɑŋ2/<sup>泰兴</sup></small> 婉词，谓夫妻间的性生活。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
 1. 【[同行不同利](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_han_beh_ton_li.md#同行不同利)】`ton2 han2 beh7 ton2 li6` <sup>[如东]</sup> 行业虽然相同，利益各有差别。  
 1. 【[同垳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_hen.md#同垳)】`ton2 hen5` <sup>[如东]</sup> 比喻两人同到一个地方去。比喻两人走向同一个方向。  
 1. 【[同脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_jiah.md#同脚)】`ton2 jiah7` <sup>[东台]</sup> 抵足而眠。  

@@ -486,8 +486,7 @@
 1. 【[肉墩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_den_zz.md#肉墩子)】`roh8 den1 zz` <small>/ɻɔʔ8 təŋ1 t͡sɿ/<sup>如皋</sup></small> ① 状长得壮实。<sup>\[如皋\]</sup> ② 切肉的树墩。<sup>\[如东\]</sup> ③ 比喻身体矮而胖的人。<sup>\[如东\]</sup>  
 1. 【[肉丁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_dien.md#肉丁)】`roh8 dien1` 切成粒状的肉。<sup>\[泰州\]</sup>  
 1. 【[肉丁<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_dien_r.md#肉丁<sub>儿</sub>)】`roh8 dien1 r` <sup>[如皋]</sup> ① 小肉粒子，有别于肉泥。 ② 疣：她耳朵上有个～。  
-1. 【[肉丁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_dien_zz.md#肉丁子)】`roh8 dien1 zz` <sup>[兴化]</sup> ① 皮肤上长出的小肉块：他耳朵上有个～。 ② 猪肉、鸡肉等切成的小块：猪～｜鸡～。  
-1. 【[肉丁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_dien_zz.md#肉丁子)】`roh8 dien1 zz` <small>/ɻɔʔ8 tiŋ1 t͡sɿ/<sup>泰兴</sup></small> 肉类切成很小的块子。<sup>\[泰兴\]</sup>：鸡丁、～菜饭。<sup>\[泰兴\]</sup>  
+1. 【[肉丁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_dien_zz.md#肉丁子)】`roh8 dien1 zz` <small>/lɔʔ8 tiɪ̃1 t͡sɿ/<sup>兴化</sup>, /ɻɔʔ8 tiŋ1 t͡sɿ/<sup>泰兴</sup></small> ① 皮肤上长出的小肉块<sup>\[兴化\]</sup>：他耳朵上有个～。<sup>\[兴化\]</sup> ② 猪肉、鸡肉等切成的小块<sup>\[兴化\]</sup>：猪～<sup>\[兴化\]</sup>｜鸡～。<sup>\[兴化\]</sup> ③ 肉类切成很小的块子。<sup>\[泰兴\]</sup>：鸡丁、～菜饭。<sup>\[泰兴\]</sup>  
 1. 【[肉钉<sub>儿</sub>饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_dien_r_faen.md#肉钉<sub>儿</sub>饭)】`roh8 dien1 r faen6` <sup>[如东]</sup> 大米饭煮熟后，加肉钉、菜丝、姜末等，色绿，口肥，味香。  
 1. 【[肉电话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_din_hua.md#肉电话)】`roh8 din5 hua` <sup>[泰县]</sup> 向敌人告密的奸细。  
 1. 【[肉多拣肥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_du_gaen_fei.md#肉多拣肥)】`roh8 du1 gaen3 fei2` <small>/lɔʔ8 to1 kɛ̃3 fəi2/<sup>兴化</sup></small> ① ［喻］挑三拣四。（短缺经济年代，肥肉比瘦肉受人青睐）<sup>\[东台\]</sup> ② 东西多了就选好的<sup>\[兴化\]</sup>：过去计划经济，供应甚的买甚的；现在物资丰富，人都～。<sup>\[兴化\]</sup>  
@@ -512,8 +511,7 @@
 1. 【[肉酱子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_jian_zz.md#肉酱子)】`roh8 jian5 zz` <sup>[如东]</sup> ① 指大小便：随便拉～，不卫生。 ② 比喻没有能力的人：这个～能做甚的事！  
 1. 【[肉举动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_jy_ton.md#肉举动)】`roh8 jy3 ton` <sup>[如皋]</sup> 肌肉不随意地跳动，面神经痉挛者的脸部常见到。  
 1. 【[肉蹫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_jyeh.md#肉蹫)】`roh8 jyeh7` <small>/ɻɔʔ8 t͡ɕyəʔ7/<sup>泰兴</sup></small> 肉乎乎貌。<sup>\[泰兴\]</sup>  
-1. 【[肉蹫蹫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_jyeh_jyeh.md#肉蹫蹫)】`roh8 jyeh7 jyeh7` <sup>[泰县]</sup> 肥壮，有弹性。  
-1. 【[肉蹫蹫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_jyeh_jyeh.md#肉蹫蹫)】`roh8 jyeh7 jyeh7` <small>/ɻɔʔ8 t͡ɕyəʔ7 t͡ɕyəʔ7/<sup>泰兴</sup></small> 长得肥厚、肉乎乎的样子。<sup>\[泰兴\]</sup>  
+1. 【[肉蹫蹫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_jyeh_jyeh.md#肉蹫蹫)】`roh8 jyeh7 jyeh7` <small>/ɻɔʔ8 t͡ɕyəʔ7 t͡ɕyəʔ7/<sup>泰兴</sup>, /ɻɔʔ8 t͡ɕyəʔ7 t͡ɕyəʔ7/<sup>泰县</sup></small> ① 肥壮，有弹性。<sup>\[泰县\]</sup> ② 长得肥厚、肉乎乎的样子。<sup>\[泰兴\]</sup>  
 1. 【[肉块<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_kuae_r.md#肉块<sub>儿</sub>)】`roh8 kuae5 r` <sup>[如东]</sup> 剁成的小肉块儿。比喻小孩子。对小孩的呢称：我的～，你过来。  
 1. 【[肉里肉巴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_lii_roh_ba_dii.md#肉里肉巴的)】`roh8 lii roh8 ba1 dii` <sup>[如皋]</sup> 贬指傻而韧。  
 1. 【[肉里肉气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_lii_roh_qi.md#肉里肉气)】`roh8 lii roh8 qi5` <sup>[如东]</sup> 比喻物体肥笨：这套家具～的，不好看。  
@@ -527,8 +525,7 @@
 1. 【[肉麻兮兮的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_ma_xi_xi.md#肉麻兮兮的)】`roh8 ma2 xi1 xi1 dii` <small>/ɻɔʔ8 mɑ2 ɕʝ1 ɕʝ1 təɪ/<sup>泰兴</sup></small> 因轻佻的或虚伪的语言、举动所引起人的不舒服的感觉。<sup>\[泰兴\]</sup>  
 1. 【[肉糜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_mi.md#肉糜)】`roh8 mi2` <sup>[兴化]</sup> 细碎的肉末儿：轧点儿～包饺儿。  
 1. 【[肉馒馒的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_mun_mun_dii.md#肉馒馒的)】`roh8 mun mun5 dii` <sup>[如皋]</sup> 皮肉丰满隆起的样子。  
-1. 【[肉馒头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_mun_teu.md#肉馒头)】`roh8 mun2 teu` <sup>[兴化]</sup> 即肉包：～打狗——有去无回。｜还要买些～中上当点心。（《儒林外史》十八）  
-1. 【[肉馒头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_mun_teu.md#肉馒头)】`roh8 mun2 teu` <small>/ɻɔʔ8 mʊ̃2 tʰəɪ/<sup>泰兴</sup></small> 肉馅包的馒头。<sup>\[泰兴\]</sup>：鲢子头，～<sup>\[泰兴\]</sup>  
+1. 【[肉馒头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_mun_teu.md#肉馒头)】`roh8 mun2 teu` <small>/lɔʔ8 mũ2 tʰɤ/<sup>兴化</sup>, /ɻɔʔ8 mʊ̃2 tʰəɪ/<sup>泰兴</sup></small> ① 即肉包<sup>\[兴化\]</sup>：～打狗——有去无回。<sup>\[兴化\]</sup>｜还要买些～中上当点心。（《儒林外史》十八）<sup>\[兴化\]</sup> ② 肉馅包的馒头。<sup>\[泰兴\]</sup>：鲢子头，～<sup>\[泰兴\]</sup>  
 1. 【[肉满满的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_mun_mun_dii.md#肉满满的)】`roh8 mun3-5 mun3-5 dii` <sup>[东台]</sup> 丰满、厚实的感觉。  
 1. 【[肉奶奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_nae_nae.md#肉奶奶)】`roh8 nae3 nae` <sup>[如东]</sup> 人体肥胖柔软：这个姑娘长得～的。  
 1. 【[肉皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_pi.md#肉皮)】`roh8 pi2` <sup>[如皋]</sup> 油炸过的海棉状的猪肉皮。  
@@ -564,8 +561,6 @@
 1. 【[肉头富农](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_teu_fv_non.md#肉头富农)】`roh8 teu2 fv5 non2` <sup>[如东]</sup> 尽做吃亏的买卖：不要做～。  
 1. 【[肉头话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_teu_hua.md#肉头话)】`roh8 teu2 hua6` <sup>[如皋]</sup> 愚笨而又不得体的话。  
 1. 【[肉头户<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_teu_hv_r.md#肉头户<sub>儿</sub>)】`roh8 teu2 hv6 r` <sup>[如皋]</sup> 请人帮忙而又待人刻薄，使帮忙者不好好做、怠工暗中吃亏的主家。  
-1. 【[肉头肉脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_teu_roh_lin.md#肉头肉脸)】`roh8 teu2 roh8 lin3` <sup>[泰州]</sup> 喻指不留一点面子：他早上捱处长～的凶啊一顿。  
-1. 【[肉头肉脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_teu_roh_lin.md#肉头肉脸)】`roh8 teu2 roh8 lin3` <small>/ɻɔʔ8 tʰəɪ2 ɻɔʔ8 lĩ3/<sup>泰兴</sup></small> 摆脸色；很凶狠的样子。<sup>\[泰兴\]</sup>  
 1. 【[肉头肉脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_teu_roh_no.md#肉头肉脑)】`roh8 teu2 roh8 no3` <sup>[东台]</sup> ① 形容长得肥胖。 ② 同“肉头”。  
 1. 【[肉电话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_tin_hua.md#肉电话)】`roh8 tin6 hua6` <sup>[兴化]</sup> ① （喻）喜欢搬弄是非的人。 ② 特指抗日战争、解放战争时期潜伏在根据地和解放区内的敌方坐探。  
 1. 【[肉条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_tio.md#肉条)】`roh8 tio2` 切成细条状的肉丝。<sup>\[泰州\]</sup>  
@@ -594,10 +589,11 @@
 1. 【[褥子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_zz.md#褥子)】`roh8 zz` <small>/ɻɔʔ8 t͡sɿ/<sup>如皋</sup></small> ① 身下的被子。<sup>\[如皋\]</sup> ② 垫在床铺上的棉胎。<sup>\[如东\]</sup> ③ 坐卧的垫具，一般用棉花胎制成。<sup>\[东台\]</sup>  
 1. 【[辱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh.md#辱)】`roh8` <small>/lɔʔ8/<sup>兴化</sup>, /ɻɔʔ8/<sup>如皋</sup></small> ① 说反话、阴话以讽刺、挖苦<sup>\[如皋\]</sup>：我是～他的，不晓得他哿懂？<sup>\[如皋\]</sup> ② 假惺惺地说奉承话。<sup>\[如东\]</sup>：他这个是～我。<sup>\[如东\]</sup> ③ 讽刺、挖苦，使难堪<sup>\[兴化\]</sup>：我称他学者是～他的，他倒当吖真！<sup>\[兴化\]</sup>  
 1. 【[辱句](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_jy.md#辱句)】`roh8 jy` <sup>[如皋]</sup> 说反话讽刺。  
-1. 【[辱谲/辱绝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_jyeh.md#辱谲/辱绝)】`roh8 jyeh7` 看似褒奖实为讥嘲（音不合）<sup>\[泰州\]</sup>：他不晓得人家喊他“大师”是～他的。<sup>\[泰州\]</sup>  
+1. 【[辱谲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_jyeh.md#辱谲)】`roh8 jyeh7` 看似褒奖实为讥嘲（音不合）<sup>\[泰州\]</sup>：他不晓得人家喊他“大师”是～他的。<sup>\[泰州\]</sup>  
 1. 【[辱没](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_meh.md#辱没)】`roh8 meh8` <sup>[东台]</sup> 侮辱埋没，有损声誉。  
 1. 【[辱绝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_qiuh.md#辱绝)】`roh8 qiuh8` <sup>[兴化]</sup> 羞辱、挖苦：你这个不是夸奖，直接就是～人。  
 1. 【[辱头辱脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_teu_roh_lin.md#辱头辱脸)】`roh8 teu2 roh8 lin3` <sup>[兴化]</sup> 狠狠地、不顾情面地。也说“没头没脸”：王二捱他老子～的骂啊一顿。  
+1. 【[辱头辱脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_teu_roh_lin.md#辱头辱脸)】`roh8 teu2 roh8 lin3` <small>/ɻɔʔ8 tʰəɪ2 ɻɔʔ8 lĩ3/<sup>泰兴</sup></small> ① 喻指不留一点面子<sup>\[泰州\]</sup>：他早上捱处长～的凶啊一顿。<sup>\[泰州\]</sup> ② 摆脸色；很凶狠的样子。<sup>\[泰兴\]</sup>  
 1. 【[绒/氄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ron.md#绒/氄)】`ron2` <small>/loŋ2/<sup>兴化</sup>, /ɻɔŋ2/<sup>如皋</sup>, /ɻoŋ2/<sup>泰县</sup></small> ① （《集韵·肿韵》乳勇切，《说文》毛盛也。） ② 极细碎<sup>\[如皋\]</sup><sup>\[泰县\]</sup>：纸都撕啊～吖。<sup>\[泰县\]</sup> ③ 鸟兽身上的细毛。<sup>\[兴化\]</sup> ④ （借）松软<sup>\[兴化\]</sup>：新棉花胎又～又暖和。<sup>\[兴化\]</sup>  
 1. 【[绒柏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ron_boh.md#绒柏)】`ron2 boh7` <sup>[如东]</sup> 灌木或小乔木。叶线状，刺形，先端尖。  
 1. 【[绒抖抖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ron_deu_deu.md#绒抖抖)】`ron2 deu deu3` <sup>[兴化]</sup> 形容鸟兽细毛长而且密：小儿羔的皮～的。  

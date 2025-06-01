@@ -1465,8 +1465,7 @@
 1. 【[百分之百](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_fen_zhr_boh.md#百分之百)】`boh7 fen1 zhr1 boh7` <sup>[如东]</sup> 全部，肯定：只要王二出面，那是～的成功。  
 1. 【[百家饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_ga_faen.md#百家饭)】`boh7 ga faen6` <small>/pɔʔ7 kɑ fɛ̃1/<sup>泰兴</sup></small> 吃许多人家的饭。乡人称各种工艺匠人为“吃百家饭的”。<sup>\[泰兴\]</sup>  
 1. 【[百家哥哥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_ga_gu_gu.md#百家哥哥)】`boh7 ga gu1 gu` <sup>[兴化]</sup> 斑鸠的俗称，以其叫声得名。  
-1. 【[百家衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_ga_i.md#百家衣)】`boh7 ga i1` <sup>[兴化]</sup> 为新生儿报喜送红蛋时，各家回赠小额钱钞，用来购布制成的衣服。  
-1. 【[百家衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_ga_i.md#百家衣)】`boh7 ga i1` <small>/pɔʔ7 kɑ ʝ1/<sup>泰兴</sup></small> 旧俗为使婴儿长寿，向各家求乞零碎布帛缝成的衣服。<sup>\[泰兴\]</sup>  
+1. 【[百家衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_ga_i.md#百家衣)】`boh7 ga i1` <small>/pɔʔ7 ka i1/<sup>兴化</sup>, /pɔʔ7 kɑ ʝ1/<sup>泰兴</sup></small> ① 为新生儿报喜送红蛋时，各家回赠小额钱钞，用来购布制成的衣服。<sup>\[兴化\]</sup> ② 旧俗为使婴儿长寿，向各家求乞零碎布帛缝成的衣服。<sup>\[泰兴\]</sup>  
 1. 【[百个呆子不一样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_gu_dae_zz_beh_ieh_ian.md#百个呆子不一样)】`boh7 gu dae1 zz beh7 ieh7 ian6` <sup>[东台]</sup> 有智力障碍的人表现形态各不相同。  
 1. 【[百个麻雀做碗菜——多嘴多舌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_gu_ma_jiah_zu_un_cae_du_jy_du_shih.md#百个麻雀做碗菜——多嘴多舌)】`boh7 gu ma2 jiah7 zu5 un3 cae5 du1 jy3 du1 shih8` <sup>[东台]</sup>   
 1. 【[百花生日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_hua_shen_rih.md#百花生日)】`boh7 hua1 shen1 rih8` <sup>[如东]</sup> 阴历三月初三日，是如东的百花生日，也称桃花生日。有的地方把二月初二日、二月十二日定为百花生日。民间用红布给果树挂红，祝愿多结果子。  

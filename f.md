@@ -41,8 +41,7 @@
 1. 【[发嫁妆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_jia_zhuan.md#发嫁妆)】`faeh7 jia5 zhuan` <sup>[兴化]</sup> 把新嫁娘的陪嫁送至婿家。  
 1. 【[发脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_jiah.md#发脚)】`faeh7 jiah7` <small>/fæʔ7 t͡ɕiaʔ7/<sup>兴化</sup></small> ① 从此处出发。也称发热脚。<sup>\[东台\]</sup> ② 迈步、动身<sup>\[兴化\]</sup>：他一听到口令～就跑。<sup>\[兴化\]</sup>｜早上～，下午到达目的地。<sup>\[兴化\]</sup>  
 1. 【[发劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_jien.md#发劲)】`faeh7 jien5` <small>/fæʔ7 t͡ɕin5/<sup>兴化</sup>, /fæʔ7 t͡ɕiŋ5/<sup>泰县</sup></small> ① 发力，使劲。<sup>\[东台\]</sup> ② 使劲、抓紧<sup>\[兴化\]</sup>：～做，等收工请大家洗澡、吃晚饭。<sup>\[兴化\]</sup>｜～吃，后头还有好的！<sup>\[兴化\]</sup> ③ 出劲，使劲。<sup>\[泰县\]</sup> ④ 发出力气，义近“加油”，多作鼓励用语<sup>\[泰州\]</sup>：总共就只剩吖这点儿活技，大家～把它弄掉，晚上老板请大家喝酒。<sup>\[泰州\]</sup>  
-1. 【[发酒疯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_jieu_fon.md#发酒疯)】`faeh7 jieu3 fon1` <sup>[泰州]</sup> 喝酒过量以后，人的言行失去理智，任性胡闹。  
-1. 【[发酒疯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_jieu_fon.md#发酒疯)】`faeh7 jieu3 fon1` <small>/fæʔ7 t͡ɕiɤɯ3 fɔŋ1/<sup>泰兴</sup></small> 喝酒过量后，借酒劲任意胡闹。<sup>\[泰兴\]</sup>  
+1. 【[发酒疯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_jieu_fon.md#发酒疯)】`faeh7 jieu3 fon1` <small>/fæʔ7 t͡ɕiɤɯ3 fɔŋ1/<sup>泰兴</sup></small> ① 喝酒过量以后，人的言行失去理智，任性胡闹。<sup>\[泰州\]</sup> ② 喝酒过量后，借酒劲任意胡闹。<sup>\[泰兴\]</sup>  
 1. 【[发蹶子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_jiuh_zz.md#发蹶子)】`faeh7 jiuh7 zz` <sup>[如东]</sup> 马因受刺激而尥蹄子。比喻发脾气：他一听那件事就～。  
 1. 【[发拘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_jy.md#发拘)】`faeh7 jy1` <sup>[兴化]</sup> 不安分：他好日子不过，养吖～啊！  
 1. 【[发蹫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_jyeh_zz.md#发蹫子)】`faeh7 jyeh7 zz` <sup>[如皋]</sup> 发怒，发牢骚，打闹、要抛开、离开。  
@@ -58,10 +57,8 @@
 1. 【[发禄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_loh.md#发禄)】`faeh7 loh8` <small>/feʔ7 lɔʔ8/<sup>如皋</sup>, /fæʔ7 lɔʔ/<sup>泰兴</sup>, /fæʔ7 nɔʔ/<sup>泰县</sup></small> ① 兴旺。<sup>\[如东\]</sup><sup>\[如皋\]</sup>：这家公司要～。<sup>\[如东\]</sup> ② 发迹，腾达<sup>\[泰兴\]</sup> ③ 发旺，茂盛<sup>\[泰兴\]</sup>\[泰县：长得快。\]：看稻子的长势，想是越过越～<sup>\[泰兴\]</sup>  
 1. 【[发乱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_lun.md#发乱)】`faeh7 lun6` <sup>[如东]</sup> 慌张：她听见哭叫声，心里～。  
 1. 【[发蕊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_lv.md#发蕊)】`faeh7 lv3` <sup>[如东]</sup> 植物发出新芽。（原文作“发卵”，音不合）  
-1. 【[发麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_ma.md#发麻)】`faeh7 ma2` <sup>[如皋]</sup> 忘乎所以，癫狂。  
-1. 【[发麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_ma.md#发麻)】`faeh7 ma2` <small>/fæʔ7 mɑ2/<sup>泰兴</sup></small> 感到麻木。<sup>\[泰兴\]</sup>：天冷吖，脚冻得～<sup>\[泰兴\]</sup>  
-1. 【[发霉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_mei.md#发霉)】`faeh7 mei2` <sup>[如东]</sup> 物体上孳生霉菌：衣服～。  
-1. 【[发霉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_mei.md#发霉)】`faeh7 mei2` <small>/fæʔ7 məɪ2/<sup>泰兴</sup></small> 物体因变质而生霉菌。<sup>\[泰兴\]</sup>：面包总发咖霉<sup>\[泰兴\]</sup>  
+1. 【[发麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_ma.md#发麻)】`faeh7 ma2` <small>/feʔ7 ma2/<sup>如皋</sup>, /fæʔ7 mɑ2/<sup>泰兴</sup></small> ① 忘乎所以，癫狂。<sup>\[如皋\]</sup> ② 感到麻木。<sup>\[泰兴\]</sup>：天冷吖，脚冻得～<sup>\[泰兴\]</sup>  
+1. 【[发霉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_mei.md#发霉)】`faeh7 mei2` <small>/fæʔ7 məɪ2/<sup>泰兴</sup></small> ① 物体上孳生霉菌。<sup>\[如东\]</sup>：衣服～。<sup>\[如东\]</sup> ② 物体因变质而生霉菌。<sup>\[泰兴\]</sup>：面包总发咖霉<sup>\[泰兴\]</sup>  
 1. 【[发闷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_men.md#发闷)】`faeh7 men6` <sup>[如东]</sup> 透气不顺畅：胸口～。  
 1. 【[发闷六宫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_men_loh_gon.md#发闷六宫)】`faeh7 men6 loh8 gon1` <sup>[如东]</sup> 因为不顺心而一个人关在屋子里生气：他在房里～。  
 1. 【[发毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_mo.md#发毛)】`faeh7 mo2` <small>/fæʔ7 mɔ2/<sup>兴化</sup>, /feʔ7 mɔ2/<sup>如皋</sup></small> ① 见“起毛”。<sup>\[如皋\]</sup> ② 生气而挑起事端<sup>\[如皋\]</sup>：他是出名的“毛爹”，你惹他～你是自讨苦吃。<sup>\[如皋\]</sup> ③ 发急，光火。<sup>\[兴化\]</sup> ④ 发脾气<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：他最近一不高兴就～。<sup>\[兴化\]</sup>｜不晓得在哪块得罪啊他，动不动就同人～。<sup>\[泰州\]</sup> ⑤ 发慌<sup>\[泰州\]</sup>：望吖老板的脸色不好，他心里就～。<sup>\[泰州\]</sup>  
@@ -119,8 +116,7 @@
 1. 【[发楦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_xiun.md#发楦)】`faeh7 xiun` <sup>[兴化]</sup> ① 数落：他动不动就～人。 ② 发付、支配：在他手里～，日子难过𪠸！  
 1. 【[发虚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_xy.md#发虚)】`faeh7 xy1` <small>/feʔ7 ɕy1/<sup>如皋</sup>, /fæʔ7 ɕy1/<sup>泰兴</sup></small> ① 心中慌乱。<sup>\[如东\]</sup>：心里～。<sup>\[如东\]</sup> ② 心虚胆怯<sup>\[如皋\]</sup>：做贼的人心里～。<sup>\[如皋\]</sup> ③ 感到胆怯，不自在；感到身体虚弱，不舒服。<sup>\[泰兴\]</sup>  
 1. 【[发迂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_y.md#发迂)】`faeh7 y1` <sup>[东台]</sup> 迂腐，耍书呆子脾气。  
-1. 【[发作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_zah.md#发作)】`faeh7 zah7` <sup>[泰州]</sup> ① 突然发怒痛斥他人：今天他是实在忍不下去才～的。 ② 药、酒之类物质在人体内发生作用：酒性～。 ③ 潜伏在体内的疾病或者某些不良嗜好爆发：老毛病～。  
-1. 【[发作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_zah.md#发作)】`faeh7 zah7` <small>/fæʔ7 t͡sɑʔ7/<sup>泰兴</sup></small> 隐伏的事情爆发起来；贵备，训斥；发脾气。<sup>\[泰兴\]</sup>  
+1. 【[发作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_zah.md#发作)】`faeh7 zah7` <small>/fæʔ7 t͡sɑʔ7/<sup>泰兴</sup></small> ① 突然发怒痛斥他人<sup>\[泰州\]</sup>：今天他是实在忍不下去才～的。<sup>\[泰州\]</sup> ② 药、酒之类物质在人体内发生作用<sup>\[泰州\]</sup>：酒性～。<sup>\[泰州\]</sup> ③ 潜伏在体内的疾病或者某些不良嗜好爆发<sup>\[泰州\]</sup>：老毛病～。<sup>\[泰州\]</sup> ④ 隐伏的事情爆发起来；贵备，训斥；发脾气。<sup>\[泰兴\]</sup>  
 1. 【[发奘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_zhuan.md#发奘)】`faeh7 zhuan3` <small>/fæʔ7 t͡suaŋ3/<sup>兴化</sup>, /feʔ7 t͡suã3/<sup>如皋</sup></small> ① 变得粗大。喻发迹。<sup>\[如皋\]</sup> ② 发粗，借指偶尔大方<sup>\[兴化\]</sup>：老杨今朝～请人上馆子。<sup>\[兴化\]</sup>  
 1. 【[发奘脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_zhuan_jiah.md#发奘脚)】`faeh7 zhuan3 jiah7` <small>/fæʔ7 t͡suɑŋ3 t͡ɕiɑʔ7/<sup>泰兴</sup></small> 粗腿病发作。<sup>\[泰兴\]</sup>  
 1. 【[发躁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_zo.md#发躁)】`faeh7 zo5` <sup>[如东]</sup> ① 发急。 ② 发脾气：要冷静，不要～。  
@@ -703,8 +699,7 @@
 1. 【[份上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_shan.md#份上)】`fen6 shan6` <sup>[泰州]</sup> ① 某人情面之上：老板看吖老战友的～，才把他招进来的。 ② 程度，事物发展变化所达到的情况：事情已经到啊这个～，哪个去说都没得用唻。  
 1. 【[份头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_teu.md#份头)】`fen6 teu2` <sup>[如东]</sup> 比例，成数：你的～是多少？  
 1. 【[份外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_vae.md#份外)】`fen6 vae6` <sup>[如东]</sup> 规定之外。  
-1. 【[份子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_zz.md#份子)】`fen6 zz` <sup>[东台]</sup> 指大家共同凑资金给某人出“人情”，亦称“凑～”。  
-1. 【[份子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_zz.md#份子)】`fen6 zz` <small>/fəŋ1 t͡sɿ/<sup>泰兴</sup></small> 集体送礼时各人分摊的钱。一人一份的物品等。<sup>\[泰兴\]</sup>：一人一个份子，不好得两份。<sup>\[泰兴\]</sup>  
+1. 【[份子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_zz.md#份子)】`fen6 zz` <small>/fəŋ1 t͡sɿ/<sup>泰兴</sup></small> ① 指大家共同凑资金给某人出“人情”，亦称“凑～”。<sup>\[东台\]</sup> ② 集体送礼时各人分摊的钱。一人一份的物品等。<sup>\[泰兴\]</sup>：一人一个份子，不好得两份。<sup>\[泰兴\]</sup>  
 1. 【[浮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/feu.md#浮)】`feu2` <sup>[如皋]</sup> 作风轻浮。也说fv2。  
 1. 【[复报](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_bo.md#复报)】`foh7 bo5` <sup>[泰县]</sup> 报复：要～他下子。  
 1. 【[复东](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_don.md#复东)】`foh7 don1` <small>/fɔʔ7 toŋ1/<sup>兴化</sup>, /fɔʔ7 tɔŋ1/<sup>如皋</sup></small> ① 对人家惠东的回请。<sup>\[如皋\]</sup> ② 对别人的邀约回请，自己做东道主<sup>\[东台\]</sup>：这几次接二连三地捱请吃，明吖我～请一下他俫。<sup>\[东台\]</sup> ③ 为答谢而请客<sup>\[兴化\]</sup>：“……也罢，今日扰你，明日我再罢！”（《梼杌闲评》十三）<sup>\[兴化\]</sup> ④ 本人接受别人宴请以后，自己花钱回请别人<sup>\[泰州\]</sup>：今朝晚上老李～请大家。<sup>\[泰州\]</sup>  
@@ -736,12 +731,13 @@
 1. 【[覆篷上的老鼠屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_pon_shan_dii_lo_chv_shr.md#覆篷上的老鼠屎)】`foh7 pon2 shan dii lo3 chv3 shr3` <sup>[东台]</sup> 詈语，喻指什么好处都没有。  
 1. 【[覆水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_shuei.md#覆水)】`foh7 shuei3` <sup>[兴化]</sup> 冬干时，给麦田上水。  
 1. 【[馥颜神鲜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_ngaen_shen_xin.md#馥颜神鲜)】`foh7 ngaen2 shen2 xin1` <sup>[东台]</sup> 形容蔬菜十分新鲜。也作“馥也如鲜”。  
+1. 【[伏伏如降](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_foh_rv_xian.md#伏伏如降)】`foh8 foh8 rv2 xian2` <small>/fɔʔ8 fɔʔ8 ɻu2 ɕiɑŋ2/<sup>泰兴</sup></small> 甘心情愿地服从。<sup>\[泰兴\]</sup>  
 1. 【[伏咖下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_ga_ha.md#伏咖下)】`foh8 ga ha` <sup>[如皋]</sup> 伏着。  
 1. 【[伏窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_ku.md#伏窠)】`foh8 ku1` <small>/fɔʔ8 kʰʊ1/<sup>如皋</sup></small> ① 身体有病，躺在床上不能起来，叫伏窠。<sup>\[如东\]</sup> ② 禽兽伏在地上爬不起来了，叫伏窠。<sup>\[如东\]</sup> ③ 禽畜伏于中。<sup>\[如皋\]</sup> ④ 喻老人卧床不起。<sup>\[如皋\]</sup>  
 1. 【[伏里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_lii.md#伏里)】`foh8 lii` <sup>[兴化]</sup> 指三伏天。  
 1. 【[伏龙肝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_lon_gun.md#伏龙肝)】`foh8 lon2 gun1` <small>/fɔʔ8 lɔŋ2 kʊ̃1/<sup>如皋</sup></small> ① 久经柴草熏烧的灶底中心的土块，入中药。<sup>\[如东\]</sup> ② 老的草灶的灶膛泥，入药，煎水服下可以止呕吐。<sup>\[如皋\]</sup>  
 1. 【[伏死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_sz.md#伏死)】`foh8 sz3` <sup>[兴化]</sup> 服气：他跑遍全城都不曾买到这种药，这才～。‖也作“服死”。  
-1. 【[伏天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_tin.md#伏天)】`foh8 tin1` ① 入伏以后的时间，包括初伏（头伏）、中伏（二伏）、末伏（三伏）。这是一年中天气最热的时期。<sup>\[如东\]</sup> ② 全年最热的一段时间，大致在七月中旬到八月中旬。先后经历初伏、中伏、末伏。<sup>\[东台\]</sup>  
+1. 【[伏天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_tin.md#伏天)】`foh8 tin1` <small>/fɔʔ8 tʰĩ1/<sup>泰兴</sup></small> ① 入伏以后的时间，包括初伏（头伏）、中伏（二伏）、末伏（三伏）。这是一年中天气最热的时期。<sup>\[如东\]</sup> ② 全年最热的一段时间，大致在七月中旬到八月中旬。先后经历初伏、中伏、末伏。<sup>\[东台\]</sup> ③ 三伏（小伏、中伏、大伏）的总称。一年中最热的时候。<sup>\[泰兴\]</sup>  
 1. 【[伏雄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_xion.md#伏雄)】`foh8 xion2` <sup>[如皋]</sup> 母鸡伏地躴翅。表示：⑴让雄鸡交尾。⑵被追而伏的习性。  
 1. 【[服低](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_di.md#服低)】`foh8 di1` <sup>[东台]</sup> 心悦诚服以晚辈或下级的身份出现：做小～。  
 1. 【[服赌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_dv.md#服赌)】`foh8 dv3` <small>/fɔʔ8 tu3/<sup>兴化</sup>, /fɔʔ8 tu3/<sup>泰县</sup></small> ① 认赌服输、认输、服气。<sup>\[东台\]</sup> ② 服气<sup>\[兴化\]</sup>：有理的官司打不赢，我不～。<sup>\[兴化\]</sup>｜他凭本事吃饭，我～。<sup>\[兴化\]</sup> ③ 认输<sup>\[泰县\]</sup>：这下子他服咖赌。<sup>\[泰县\]</sup> ④ 承认并且接受赌的结果，服气，无不平之感。<sup>\[泰州\]</sup>  
