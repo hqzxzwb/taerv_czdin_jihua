@@ -1,4 +1,4 @@
 # 行船的
-xien2 chun2 did
+xien2 chun2 dii
 + 船家；以水上航运为业者。
   * 泰兴方言辞典
