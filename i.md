@@ -232,6 +232,7 @@
 1. 【[亚亚五](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_ia_v.md#亚亚五)】`ia5 ia5 v3` <sup>[如东]</sup> 糊里糊涂：不能～。  
 1. 【[亚麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_ma.md#亚麻)】`ia5 ma2` <sup>[如东]</sup> 亚麻科植物亚麻，又名胡麻，一年生草本。高约90厘米。茎直立，基部稍木质化，分枝少。叶互生，无柄，叶片线形，全缘。花多数，蓝白或白色，生于分枝顶端及上部叶腋内。蒴果球形。种子卵形，棕色。栽培。  
 1. 【[讶口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_keu.md#讶口)】`ia5 keu3` <sup>[兴化]</sup> 口吻：这种～真叫人受不了。  
+1. 【[讶口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_keu.md#讶口)】`ia5 keu3` <small>/iɑ5 kʰəɪ3/<sup>泰兴</sup></small> 口气，口吻。<sup>\[泰兴\]</sup>：听他的～，恐怕不是箇回事。<sup>\[泰兴\]</sup>  
 1. 【[呀子乌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_zz_v_r.md#呀子乌<sub>儿</sub>)】`ia6 zz v1 r` <sup>[东台]</sup> （詈语）含有随便、马虎、质量差、素质差等义。也作“耶耶乎”，见鲁迅语“做个公民实在弗容易，大家切莫耶耶乎！”  
 1. 【[呀子唔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_zz_v.md#呀子唔)】`ia6 zz v3` <sup>[兴化]</sup> 形容随随便便，不负责任：他是一头～，说的话当不得真。也说“呀呀唔。”  
 1. 【[夜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia.md#夜)】`ia6` <small>/ia1/<sup>如皋</sup>, /iɑ1/<sup>泰兴</sup></small> ① 入夜<sup>\[泰兴\]</sup><sup>\[如皋\]</sup>：外头～啊。<sup>\[如皋\]</sup>｜外头～得早。<sup>\[如皋\]</sup> ② 春节之前十天，每一天都称为“夜”，如腊月二十称“二十夜”<sup>\[泰兴\]</sup><sup>\[泰州\]</sup>：我俫工地上二十七～就放假唻。<sup>\[泰州\]</sup>  
@@ -493,6 +494,7 @@
 1. 【[羊角锤<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_gah_chuei_r.md#羊角锤<sub>儿</sub>)】`ian2 gah7 chuei2 r` <sup>[如东]</sup> 一种小型铁榔头，顶端有两根叉，似羊角。  
 1. 【[羊角风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_gah_fon.md#羊角风)】`ian2 gah7 fon1` <sup>[东台]</sup> ① 癲痫病的俗称。 ② 也称“羊儿疯”，喻指神经失常，或杂耍的本领：～学三分，过河不要把渡船钱。  
 1. 【[羊角椒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_gah_jio.md#羊角椒)】`ian2 gah7 jio1` <sup>[泰州]</sup> 辣椒品种之一，果实细长，上部椒尖微弯，形似山羊角。  
+1. 【[羊角榔头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_gah_lan_teu.md#羊角榔头)】`ian2 gah7 lan2 teu2` <small>/iɑŋ2 kɑʔ7 lɑŋ2 tʰəɪ2/<sup>泰兴</sup></small> 形似羊角的小铁椰头。<sup>\[泰兴\]</sup>  
 1. 【[羊角棋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_gah_qi.md#羊角棋)】`ian2 gah7 qi2` <sup>[如皋]</sup> 棋盘为长三角形，内有很多之字格。若甲执二子居下角，乙执一子居上角，各依线每走一步，被拦则后退。以达到对方角为胜，无路可走为败。  
 1. 【[羊肝蚂蜞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_gun_ma_ji.md#羊肝蚂蜞)】`ian2 gun1 ma3 ji1` <sup>[如皋]</sup> 肝蛭。一种小蚂蝗。  
 1. 【[羊□子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_hae_zz.md#羊□子)】`ian2 hae3 zz` <sup>[如东]</sup> 牛科动物山羊或绵羊胃中的草结。  
@@ -505,11 +507,12 @@
 1. 【[羊窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ku.md#羊窠)】`ian2 ku1` <small>/iã2 kʰʊ1/<sup>如皋</sup></small> 羊圈。<sup>\[如皋\]</sup><sup>\[如东\]</sup>：一般是小草棚。<sup>\[如东\]</sup>  
 1. 【[羊窠灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ku_huei.md#羊窠灰)】`ian2 ku1 huei1` <sup>[如皋]</sup> 羊厩肥  
 1. 【[羊卵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_lun_zz.md#羊卵子)】`ian2 lun3 zz` <sup>[如皋]</sup> 羊的阴囊和睾丸。  
+1. 【[羊卵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_lun_zz.md#羊卵子)】`ian2 lun3 zz` <small>/iɑŋ2 lʊ̃3 t͡sɿ/<sup>泰兴</sup></small> 公羊睾丸<sup>\[泰兴\]</sup>：吃咖～说泡话（说大话）。<sup>\[泰兴\]</sup>  
 1. 【[羊膜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_mah.md#羊膜)】`ian2 mah8` <sup>[东台]</sup> 人或哺乳动物包裹胎儿的膜。  
 1. 【[羊奶草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_nae_co.md#羊奶草)】`ian2 nae3 co3` <sup>[如皋]</sup> 泽漆。  
 1. 【[羊眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ngaen.md#羊眼)】`ian2 ngaen3` <sup>[如皋]</sup> 一种带圆圈的木螺钉。  
 1. 【[羊脬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_po.md#羊脬)】`ian2 po1` <sup>[如东]</sup> 羊的膀胱。  
-1. 【[羊<sub>儿</sub>疯/风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_r_fon.md#羊<sub>儿</sub>疯/风)】`ian2 r fon1` <small>/iaŋ2 ɚ foŋ1/<sup>兴化</sup>, /ia˞2 fɔŋ1/<sup>如皋</sup>, /iɑŋ2 ɚ foŋ1/<sup>泰县</sup></small> ① 癫痫。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：“老儿，你转怎的？好道是～发了！”（《西游记》七二）<sup>\[兴化\]</sup> ② 比喻疯疯癫癫，或装疯卖傻<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup>：他像个～一样。<sup>\[如东\]</sup>｜谚曰：～学三分，不要过河钱。<sup>\[兴化\]</sup>｜～学三分，过河不要钱。<sup>\[泰县\]</sup>  
+1. 【[羊<sub>儿</sub>疯/风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_r_fon.md#羊<sub>儿</sub>疯/风)】`ian2 r fon1` <small>/iaŋ2 ɚ foŋ1/<sup>兴化</sup>, /ia˞2 fɔŋ1/<sup>如皋</sup>, /iɑ˞2 fɔŋ1/<sup>泰兴</sup>, /iɑŋ2 ɚ foŋ1/<sup>泰县</sup></small> ① 癫痫。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：“老儿，你转怎的？好道是～发了！”（《西游记》七二）<sup>\[兴化\]</sup> ② 比喻疯疯癫癫，或装疯卖傻<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>：他像个～一样。<sup>\[如东\]</sup>｜谚曰：～学三分，不要过河钱。<sup>\[兴化\]</sup>｜～学三分，过河不要钱。<sup>\[泰县\]</sup>  
 1. 【[羊<sub>儿</sub>疯学三分，不要过河钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_r_fon_hah.md#羊<sub>儿</sub>疯学三分，不要过河钱)】`ian2 r fon1 hah8 saen1 fen1 beh7 io5 gu5 hu2 qin2` <sup>[东台]</sup> 喻指有一技之长，到哪里都方便。  
 1. 【[羊肉棚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_roh_pon_r.md#羊肉棚<sub>儿</sub>)】`ian2 roh8 pon2 r` <sup>[如东]</sup> 旧时，乡间每到冬天，临时在路边用芦苇搭建一座茅屋，作为买卖羊肉的店铺，这种店铺称羊肉棚儿。  
 1. 【[羊汤馓子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_tan_caen_zz.md#羊汤馓子)】`ian2 tan1 caen3 zz` <sup>[如东]</sup> 旧时，乡间冬季用羊汤泡馓子，作为一种温暖健身美食。这种食品称羊汤馓子。  

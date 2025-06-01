@@ -2218,6 +2218,7 @@
 1. 【[寒天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_tin.md#寒天)】`hun2 tin1` <small>/xʊ̃2 tʰĩ1/<sup>如皋</sup>, /xʊ̃2 tʰĩ1/<sup>泰兴</sup>, /xõ2 tʰiɪ̃1/<sup>泰县</sup></small> 冷天，冬天。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>  
 1. 【[寒天时候](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_tin_shr_heu.md#寒天时候)】`hun2 tin1 shr2 heu` <sup>[如皋]</sup> 冬天。  
 1. 【[寒心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_xien.md#寒心)】`hun2 xien1` <sup>[东台]</sup> 令人失望而痛心。  
+1. 【[汗毛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_mo_zz.md#汗毛子)】`hun2 mo2 zz` <small>/xʊ̃2 mɔ2 t͡sɿ/<sup>泰兴</sup></small> 又作“寒毛子”。人体表皮上的细毛。<sup>\[泰兴\]</sup>：吓得浑身～总竖起来啊。<sup>\[泰兴\]</sup>  
 1. 【[涵筒桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_ton_qio.md#涵筒桥)】`hun2 ton3 qio2` <sup>[如皋]</sup> 桥式的高架涵筒。  
 1. 【[涵洞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_ton.md#涵洞)】`hun2 ton6` <sup>[如东]</sup> 公路与沟渠相接的通道，使水从公路下边流过去。一般孔径较小。作用与桥相似。  
 1. 【[涵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_zz.md#涵子)】`hun2 zz` <small>/xõ2 t͡se/<sup>泰县</sup></small> 涵洞，道路与沟渠相交的设施，使水从路下流过的通道。<sup>\[东台\]</sup><sup>\[泰县\]</sup>  
@@ -2269,7 +2270,7 @@
 1. 【[旱田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_tin.md#旱田)】`hun6 tin2` <sup>[如东]</sup> 干旱的土地，适合于种植旱属作物。  
 1. 【[旱道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_to.md#旱道)】`hun6 to6` <sup>[兴化]</sup> 旱路：这次上徐州走～。  
 1. 【[旱桩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_zhuan.md#旱桩)】`hun6 zhuan1` <sup>[如东]</sup> 水车部件。木条，竖在水车两侧，上面搁置伏桁。  
-1. 【[汗巴雨淋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_ba_y_lien.md#汗巴雨淋)】`hun6 ba1 y3 lien2` <small>/xũ6 pa1 y3 liɪ̃2/<sup>兴化</sup>, /xʊ̃1 pa1 y3 liəŋ2/<sup>如皋</sup></small> 大汗淋漓的样子。<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[如皋\]</sup>：两个人顺着大花缸跑了，弟弟怎么也赶不上姐姐，累得～的。（兴文：《人的由来》）<sup>\[兴化\]</sup>  
+1. 【[汗巴雨淋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_ba_y_lien.md#汗巴雨淋)】`hun6 ba1 y3 lien2` <small>/xũ6 pa1 y3 liɪ̃2/<sup>兴化</sup>, /xʊ̃1 pa1 y3 liəŋ2/<sup>如皋</sup>, /xʊ̃1 pɑ1 y3 liŋ2/<sup>泰兴</sup></small> 大汗淋漓的样子。<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：两个人顺着大花缸跑了，弟弟怎么也赶不上姐姐，累得～的。（兴文：《人的由来》）<sup>\[兴化\]</sup>  
 1. 【[汗𪞚𪞚的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_cheh_cheh_dii.md#汗𪞚𪞚的)】`hun6 cheh cheh7 dii` <sup>[如皋]</sup> 微汗。  
 1. 【[汗𪞚𪞚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_cheh_cheh.md#汗𪞚𪞚)】`hun6 cheh7 cheh7` <sup>[东台]</sup> 皮肤略微有汗。  
 1. 【[汗直𨂸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_cheh_heu.md#汗直𨂸)】`hun6 cheh8 heu2` <sup>[东台]</sup> 形容人紧张得淌汗。  

@@ -359,7 +359,6 @@
 1. 【[桑枝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_zhr.md#桑枝)】`san1 zhr1` <sup>[如东]</sup> 桑科植物桑树嫩枝。  
 1. 【[桑枣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_zo_r.md#桑枣<sub>儿</sub>)】`san1 zo3 r` <small>/sã1 t͡sɔ˞3/<sup>如皋</sup></small> ① 桑椹 ② 桑葚。<sup>\[如皋\]</sup> ③ 桑科植物桑树的果穗，也称桑椹。<sup>\[如东\]</sup>  
 1. 【[嗓朗管<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_lan_gun_r.md#嗓朗管<sub>儿</sub>)】`san3 lan3 gun3 r` <sup>[如东]</sup> 喉咙。  
-1. 【[嗓门<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_men_r.md#嗓门<sub>儿</sub>)】`san3 men2 r` <sup>[如东]</sup> 喉咙。  
 1. 【[嗓囊管<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_nan_gun_r.md#嗓囊管<sub>儿</sub>)】`san3 nan2 gun3 r` <sup>[如皋]</sup> 见“嗓子眼儿”。  
 1. 【[嗓子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_zz.md#嗓子)】`san3 zz` <sup>[如东]</sup> 喉咙。  
 1. 【[嗓子眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_zz_ngaen_r.md#嗓子眼<sub>儿</sub>)】`san3 zz ngaen3 r` <sup>[如皋]</sup> 咽喉区的气管和食管：千不怕，万不怕，就怕～𧰵坝！  

@@ -1365,6 +1365,7 @@
 1. 【[敦实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_sheh.md#敦实)】`den1 sheh8` <sup>[如东]</sup> ① 朴实。 ② 身体比较结实：这个伢儿长得～。  
 1. 【[灯着火不着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_chah_hu_beh_chah.md#灯着火不着)】`den1 chah8 hu3 beh7 chah8` <sup>[东台]</sup> 形容请客或组织活动时，场面冷清，人们兴致不高。  
 1. 【[灯草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_co.md#灯草)】`den1 co3` <sup>[东台]</sup> 旧时用于小油灯作灯芯的多年生的草本植物。  
+1. 【[灯草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_co.md#灯草)】`den1 co3` <small>/təŋ1 t͡sʰɔ3/<sup>泰兴</sup></small> 多年生草本植物。茎的中心部分用做油灯的灯芯。白色多孔，质轻，浸油后耐燃。<sup>\[泰兴\]</sup>  
 1. 【[灯草打鼓——不响（想）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_co_da_gv_beh_xian.md#灯草打鼓——不响（想）)】`den1 co3 da3 gv3 beh7 xian3` <sup>[东台]</sup>   
 1. 【[灯草拐杖——做不得主（拄）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_co_guae_chan_zu_beh_deh_zhv.md#灯草拐杖——做不得主（拄）)】`den1 co3 guae3 chan6 zu5 beh7 deh7 zhv3` <sup>[东台]</sup>   
 1. 【[灯草绒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_co_ron.md#灯草绒)】`den1 co3 ron2` <small>/tən1 t͡sʰɔ3 loŋ2/<sup>兴化</sup>, /təŋ1 t͡sʰɔ3 ɻɔŋ2/<sup>如皋</sup></small> ① 有条状绒纹的布。即灯芯绒。<sup>\[如皋\]</sup> ② 表面条状纹路的棉织品。也称“灯芯绒”“条绒”。<sup>\[兴化\]</sup>  
@@ -1373,24 +1374,30 @@
 1. 【[灯花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_hua.md#灯花)】`den1 hua1` <sup>[东台]</sup> 灯烛在燃烧过程后的余烬结成的花状物。  
 1. 【[灯花节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_hua_jih.md#灯花节)】`den1 hua1 jih7` <sup>[兴化]</sup> 农历正月十五日元宵节。  
 1. 【[灯花雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_hua_y.md#灯花雨)】`den1 hua1 y3` <sup>[东台]</sup> 元宵节前后下的雨，因其适逢上灯时节，故名为～。  
+1. 【[灯机子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_ji_zz.md#灯机子)】`den1 ji1 zz` <small>/təŋ1 t͡ɕʝ1 t͡sɿ/<sup>泰兴</sup></small> 附于油灯上面的用于装灯芯的小部件。多以铁皮作成。<sup>\[泰兴\]</sup>  
 1. 【[灯脚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_jiah_zz.md#灯脚子)】`den1 jiah7 zz` <sup>[如皋]</sup> ① 灯台的基部。 ② 罩儿灯的𣥼油壶兼基部。  
 1. 【[灯节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_jih.md#灯节)】`den1 jih7` <sup>[如皋]</sup> 正月十三上灯至十八落灯，称为～。  
 1. 【[灯柜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_kuei.md#灯柜)】`den1 kuei6` <small>/tən1 kʰuəi6/<sup>兴化</sup></small> ① 旧式家具，置于床前放灯或杂物。雕花的灯柜又称“花柜子”。<sup>\[兴化\]</sup> ② 一种低柜，旧时百姓家庭卧室主要家具之一，柜顶用同桌面，柜身用同橱柜，高度约为碗橱一半，以其柜顶放置照明油灯，故名。<sup>\[泰州\]</sup>  
 1. 【[灯柜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_kuei_r.md#灯柜<sub>儿</sub>)】`den1 kuei6 r` <sup>[如皋]</sup> ① 放灯台的专用柜子。有用箱柜儿代替的。一般放在床头边。 ② 见“箱柜儿”。  
 1. 【[灯笼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_lon.md#灯笼)】`den1 lon` <sup>[东台]</sup> 一种笼状的灯具，有圆、长、扁之分，其外层有竹篾或铁丝骨架，蒙以油纸或纱类的透明物，内燃灯烛，供照明，装饰、玩赏或作为商铺、旧时有身份人家的标志。  
+1. 【[灯笼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_lon.md#灯笼)】`den1 lon` <small>/təŋ1 lɔŋ/<sup>泰兴</sup></small> 一种笼状灯具。其外层多以细篾或铁丝制骨架，而蒙纸或纱类等半透明物，内燃灯烛，供照明、装饰、玩赏等用。<sup>\[泰兴\]</sup>：打～都找不到（谓找不到的好人）。<sup>\[泰兴\]</sup>｜泰州的～，没得影子<sup>\[泰兴\]</sup>  
 1. 【[灯笼草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_lon_co.md#灯笼草)】`den1 lon co3` <sup>[如皋]</sup> ① 苦蘵。 ② 夏枯草。  
-1. 【[灯笼椒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_lon_jio.md#灯笼椒)】`den1 lon jio1` <small>/tən1 loŋ t͡ɕiɔ1/<sup>兴化</sup></small> ① 一种外形像灯笼、不太辣的青椒。<sup>\[东台\]</sup> ② 辣椒的一个品种，又称“甜椒”“菜椒”，果实形似灯笼，肉质较厚。<sup>\[兴化\]</sup> ③ 辣椒别称，肉质厚而脆嫩，果形较大，辣味较轻，形似灯笼。<sup>\[泰州\]</sup>  
+1. 【[灯笼椒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_lon_jio.md#灯笼椒)】`den1 lon jio1` <small>/tən1 loŋ t͡ɕiɔ1/<sup>兴化</sup>, /təŋ1 lɔŋ t͡ɕiɔ1/<sup>泰兴</sup></small> ① 一种外形像灯笼、不太辣的青椒。<sup>\[东台\]</sup> ② 辣椒的一个品种，又称“甜椒”“菜椒”，果实形似灯笼，肉质较厚。<sup>\[兴化\]</sup> ③ 辣椒别称，肉质厚而脆嫩，果形较大，辣味较轻，形似灯笼。<sup>\[泰州\]</sup> ④ 形似灯笼的一种辣椒，皮厚，不太辣。又称“菜椒”。<sup>\[泰兴\]</sup>  
 1. 【[灯笼裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_lon_kv.md#灯笼裤)】`den1 lon kv5` <sup>[东台]</sup> 一种裤腿肥大，下端收束的裤子。通常用于体育活动。  
 1. 【[灯笼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_lon.md#灯笼)】`den1 lon2` <sup>[如东]</sup> 以竹丝做底架，外面糊上透明纸，里面点蜡烛，叫灯笼。  
 1. 【[灯笼点蜡烛——肚里明](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_lon_din_laeh_zhoh_tv_lii_mien.md#灯笼点蜡烛——肚里明)】`den1 lon2 din3 laeh8 zhoh7 tv6 lii mien2` <sup>[东台]</sup>   
 1. 【[灯蛾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_ngu_zz.md#灯蛾子)】`den1 ngu2 zz` <sup>[兴化]</sup> 一种昆虫，腹部粗短，有四个带鳞片的翅膀，夜晚趋光：～扑火。  
+1. 【[灯泡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_po_r.md#灯泡<sub>儿</sub>)】`den1 po1 r` <small>/təŋ1 pʰɔ˞1/<sup>泰兴</sup></small> 灯泡<sup>\[泰兴\]</sup>  
 1. 【[灯拍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_poh.md#灯拍)】`den1 poh7` <sup>[泰州]</sup> 安在煤油灯的玻璃灯罩上的用来聚光的圆锥形的物品。  
 1. 【[灯拍子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_poh_zz.md#灯拍子)】`den1 poh7 zz` <sup>[兴化]</sup> 罩在灯上用来聚光的东西，形似倒扣的镲钹或盘子：电灯～。  
 1. 【[灯台<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_tae_r.md#灯台<sub>儿</sub>)】`den1 tae2 r` <sup>[如皋]</sup> 油盘，放在灯台的上盘上，𣥼油点灯用：一个晚上点吖四～的油。  
 1. 【[灯掭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_tin_zz.md#灯掭子)】`den1 tin5 zz` <small>/təŋ1 tʰĩ5 t͡sɿ/<sup>如皋</sup></small> ① 拨动灯草的小棍子。<sup>\[如东\]</sup> ② 储油点灯或掭灯芯的器具。<sup>\[如皋\]</sup>  
 1. 【[灯下黑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_xia_heh.md#灯下黑)】`den1 xia6 heh7` <sup>[东台]</sup> ［喻］身边的人和事反而看不清、管不好。  
 1. 【[灯芯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_xien.md#灯芯)】`den1 xien1` <sup>[东台]</sup> 油灯上用来点火照明的灯草、棉纱、线以及纱线编织物。  
+1. 【[灯芯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_xien.md#灯芯)】`den1 xien1` <small>/təŋ1 ɕiŋ1/<sup>泰兴</sup></small> 灯盏中用以点火的灯草或纸、纱、棉捻成的细长物。<sup>\[泰兴\]</sup>  
+1. 【[灯芯绒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_xien_ron.md#灯芯绒)】`den1 xien1 ron2` <small>/təŋ1 ɕiŋ1 ɻɔŋ2/<sup>泰兴</sup></small> 面上有凸凹线条的棉织品，绒条像灯芯。故名。<sup>\[泰兴\]</sup>  
 1. 【[灯消火灭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_xio_hu_mih.md#灯消火灭)】`den1 xio1 hu3 mih8` <sup>[兴化]</sup> （喻）消失、灭亡：本街一户十分兴旺的人家，十年不到就捱一个败子弄得～咖。｜“……我眼见多少肥产厚业比谭家强几倍，霎时～，水尽鹅飞……。”（《岐路灯》三二）  
+1. 【[灯盏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_zhaen.md#灯盏)】`den1 zhaen3` <small>/təŋ1 t͡ɕiɛ̃3/<sup>泰兴</sup></small> 灯。旧时多指油灯。一张灯为一盏灯。<sup>\[泰兴\]</sup>  
 1. 【[灯盏浅<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_zhaen_qin_r.md#灯盏浅<sub>儿</sub>)】`den1 zhaen3 qin3 r` <sup>[泰县]</sup> 灯盏。  
 1. 【[登称](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_chen.md#登称)】`den1 chen5` <sup>[兴化]</sup> 物体各部分比例适当，看来顺眼：他穿件衣服蛮～的。｜这间门楼与正屋不～。  
 1. 【[登字头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_cz_teu_r.md#登字头<sub>儿</sub>)】`den1 cz6 teu2 r` <sup>[如皋]</sup> （癶）：登、癸、發。  

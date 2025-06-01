@@ -1026,36 +1026,42 @@
 1. 【[米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#米)】`mi3` <sup>[如东]</sup> ① 稻的种子：大～。 ② 公制长度单位，一米分为一百厘米，合三市尺。旧称公尺。  
 1. 【[米帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ban.md#米帮)】`mi3 ban1` <sup>[如皋]</sup> 米字旁。  
 1. 【[米饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_bien.md#米饼)】`mi3 bien3` <sup>[东台]</sup> 用米䜺做的饼，一种是发酵后用蒸笼蒸熟，还有一种用平底锅烤熟。  
+1. 【[米葱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_con.md#米葱)】`mi3 con1` <small>/mʝ3 t͡sʰɔŋ1/<sup>泰兴</sup></small> 一种形体较小的葱。<sup>\[泰兴\]</sup>  
 1. 【[米打底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_da_di.md#米打底)】`mi3 da3 di3` <sup>[东台]</sup> 先用少量米煮到八成熟，再汆些䜺儿搅匀烧透：～的玉蜀蜡儿粥，那才叫爽口！  
 1. 【[米饭饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_faen_bien.md#米饭饼)】`mi3 faen6 bien3` <sup>[兴化]</sup> 米粉糊发酵后烙成的饼，一面焦黄，一面白色，有淡淡的甜酸味：～包油条。也称“米饼”“水酵饼”。汪曾祺小说《鸡鸭名家》中称之“糜饭饼”。  
 1. 【[米饭猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_faen_zhv.md#米饭猪)】`mi3 faen6 zhv1` <sup>[如东]</sup> 形容生猪膘肥肉满。  
 1. 【[米泔水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_gun_shuei.md#米泔水)】`mi3 gun1 shuei3` <sup>[泰州]</sup> 在里面淘过米的水。旧时泰州城郊养猪人家会在河边码头边上设一盛水的大水缸，下河淘米的人，先在水缸水中粗淘以后，再到河里淘清，缸中沉淀的米泔水用于喂猪。  
+1. 【[米行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_han.md#米行)】`mi3 han2` <small>/mʝ3 xɑŋ2/<sup>泰兴</sup></small> 出售大米的商行。<sup>\[泰兴\]</sup>  
 1. 【[米饮汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ien_tan.md#米饮汤)】`mi3 ien3 tan1` <sup>[东台]</sup> 米粥上面渗出的黏稠的液体，也叫米油：喂他半碗～。  
 1. 【[米油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ieu.md#米油)】`mi3 ieu2` <small>/mʝ3 yʊ2/<sup>如皋</sup></small> ① 煮米粥时浮在表面上的浓稠流体。<sup>\[如东\]</sup> ② 米粥汁表面的油层。<sup>\[如皋\]</sup>  
 1. 【[米酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_jieu.md#米酒)】`mi3 jieu3` <small>/mʝ3 t͡ɕyʊ3/<sup>如皋</sup></small> ① 酒的一种。以大米为原料酿制的酒。<sup>\[如东\]</sup> ② 用糯米饭加酒曲、烧酒、开水浸制的低度酒。与浆酒不同。<sup>\[如皋\]</sup>  
 1. 【[米糠油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_kan_ieu.md#米糠油)】`mi3 kan1 ieu2` <sup>[如皋]</sup> ① 用大米皮、胚提取的高级食用油。 ② 用稻壳蒸馏提取的油，医用。  
 1. 【[米柜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_kuei.md#米柜)】`mi3 kuei6` <small>/mʝ3 kʰuei1/<sup>如皋</sup></small> ① 容器。长方体，木制，也有水泥制的，一般三格。用于贮藏粮食。<sup>\[如东\]</sup> ② 农家贮粮兼敬神的大柜。<sup>\[如皋\]</sup>  
+1. 【[米里头还有两粒稻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_li_teu_hae.md#米里头还有两粒稻)】`mi3 li3 teu2 hae2 ieu3 laen3 lieh8 to6` <small>/mʝ3 lʝ3 tʰəɪ2 xɛ2 iɤɯ3 lɛ̃3 liʔ8 tʰɔ1/<sup>泰兴</sup></small> 喻人无完人，金无足赤，好的东西中难免有极少差的掺杂。<sup>\[泰兴\]</sup>  
 1. 【[米箩里跳到糠箩里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_lu_lii_tio_do_kan_lu_lii.md#米箩里跳到糠箩里)】`mi3 lu2 lii tio5 do5 kan1 lu2 lii` <sup>[东台]</sup> 喻指从条件好的地方到困难多的地方。  
+1. 【[米箩里跳到糠箩里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_lu_lii_tio_do_kan_lu_lii.md#米箩里跳到糠箩里)】`mi3 lu2 lii tio5 do5 kan1 lu2 lii` <small>/mʝ3 lɤɯ2 ləɪ tʰiɔ5 tɔ5 kʰɑŋ1 lɤɯ2 ləɪ/<sup>泰兴</sup></small> 谓好日子变成苦日了。《泰兴方言辞典》作“米箩箩跳到糠箩箩里”。<sup>\[泰兴\]</sup>  
 1. 【[米米<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_mi_r.md#米米<sub>儿</sub>)】`mi3 mi3 r` <sup>[如东]</sup> 一点点儿：还有～。  
-1. 【[米猫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_mo.md#米猫)】`mi3 mo2` <small>/mi3 mɔ2/<sup>兴化</sup>, /mɿ3 mɔ2/<sup>泰县</sup></small> ① 母猫。<sup>\[兴化\]</sup> ② 母猫。<sup>\[泰县\]</sup>  
+1. 【[米猫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_mo.md#米猫)】`mi3 mo2` <small>/mi3 mɔ2/<sup>兴化</sup>, /mʝ3 mɔ2/<sup>泰兴</sup>, /mɿ3 mɔ2/<sup>泰县</sup></small> 母猫。<sup>\[兴化\]</sup><sup>\[泰兴\]</sup><sup>\[泰县\]</sup>  
+1. 【[米麦黄豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_moh_van_teu.md#米麦黄豆)】`mi3 moh8 van2 teu6` <small>/mʝ3 mɔʔ8 uɑŋ2 tʰəɪ1/<sup>泰兴</sup></small> 泛指各种粮食谷物。<sup>\[泰兴\]</sup>  
 1. 【[米皮糠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_pi_kan.md#米皮糠)】`mi3 pi2 kan1` <sup>[如东]</sup> 禾本科植物稻谷的种皮。  
 1. 【[米脆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_qy.md#米脆)】`mi3 qy5` <sup>[如皋]</sup> 黏糕片水发后油煠成泡沫状的茶食，色白，松脆香甜。  
 1. 【[米<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_r.md#米<sub>儿</sub>)】`mi3 r` <sup>[如皋]</sup> ① 某些去壳的仁子：花生～、黄豆～、小～、高粱～、荞麦～。 ② 小粒：生姜～。  
 1. 【[米<sub>儿</sub>豇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_r_gan.md#米<sub>儿</sub>豇)】`mi3 r gan1` <sup>[如皋]</sup> 豇豆的一种，以老熟豆粒供食用。豆科。  
 1. 【[米筛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_shae.md#米筛)】`mi3 shae1` <sup>[如东]</sup> 筛的一种。方孔比较大，米粒能够抖漏下去。  
 1. 【[米渗笿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_shen_lah_r.md#米渗笿<sub>儿</sub>)】`mi3 shen lah8 r` <sup>[如皋]</sup> 方底圆口浅帮有竹系的小篮。用精制薄竹篾十字交叉翘二编成。稀网眼，可渗米粒。  
-1. 【[米糁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_sun.md#米糁)】`mi3 sun` <small>/mi3 sũ/<sup>兴化</sup></small> ① 饭、粥中的米粒<sup>\[东台\]</sup>：一个～七斤四两水，劳动成果要珍惜咖！<sup>\[东台\]</sup> ② 米饭粒儿。糁<sup>\[兴化\]</sup>：《说文·米部》桑感切<sup>\[兴化\]</sup>｜“糝，以米和羹也，一曰粒也。”也称“饭米糁。”<sup>\[兴化\]</sup>  
+1. 【[米糁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_sun.md#米糁)】`mi3 sun` <small>/mi3 sũ/<sup>兴化</sup>, /mʝ3 sʊ̃/<sup>泰兴</sup></small> ① 饭、粥中的米粒<sup>\[东台\]</sup>：一个～七斤四两水，劳动成果要珍惜咖！<sup>\[东台\]</sup> ② 米饭粒儿\[兴化：也称“饭米糁。”\] ③ 熟饭粒。<sup>\[泰兴\]</sup>  
 1. 【[米糁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_sun.md#米糁)】`mi3 sun3` <sup>[如皋]</sup> 熟米粒、饭粒。  
 1. 【[米糁<sub>儿</sub>/米糂儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_sun_r.md#米糁<sub>儿</sub>/米糂儿)】`mi3 sun3 r` <sup>[泰州]</sup> 饭粒。  
 1. 【[米汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_tan.md#米汤)】`mi3 tan1` <sup>[兴化]</sup> （喻）甜言蜜语、用好话取悦于人：灌～。  
 1. 【[米汤盆里洗澡——糊里糊涂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_tan_pen_lii_xi_zo_hv_lii_hv_tv.md#米汤盆里洗澡——糊里糊涂)】`mi3 tan1 pen2 lii xi3 zo3 hv2 lii hv2 tv2` <sup>[东台]</sup>   
 1. 【[米头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_teu_zz.md#米头子)】`mi3 teu2 zz` <small>/mi3 tʰɤ2 t͡sɿ/<sup>兴化</sup></small> ① 稻谷碾、舂后尚未脱壳的一部分谷粒。<sup>\[如东\]</sup> ② 碾米或舂米时筛下的不完整的米粒。<sup>\[兴化\]</sup>  
 1. 【[米土](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_tv.md#米土)】`mi3 tv3` <sup>[如皋]</sup> 米粒上的附着物，淘米可洗去。也指粗米加工成精米的粉状脚料。  
+1. 【[米屑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_xih.md#米屑)】`mi3 xih` <small>/mʝ3 ɕiʔ/<sup>泰兴</sup></small> 米粉。<sup>\[泰兴\]</sup>  
 1. 【[米屑<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_xih_r.md#米屑<sub>儿</sub>)】`mi3 xih7 r` <sup>[如东]</sup> 碎米粒儿。  
 1. 【[米糏饼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_xih_bien_r.md#米糏饼<sub>儿</sub>)】`mi3 xih7 bien3 r` <sup>[如皋]</sup> 米粉糊发酵烙成的饼。西场所产尤佳。  
 1. 【[米猪<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_zhv_r.md#米猪<sub>儿</sub>)】`mi3 zhv1 r` <small>/mɿ3 t͡su1 ɚ/<sup>泰县</sup></small> ① 膘肥的猪。<sup>\[如东\]</sup> ② 膘肥的猪子。<sup>\[泰县\]</sup> ③ 殷实富户。<sup>\[泰县\]</sup>  
 1. 【[米蛀虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_zhv_chon.md#米蛀虫)】`mi3 zhv5 chon2` <small>/mʝ3 t͡su5 t͡sʰɔŋ2/<sup>如皋</sup></small> ① 麦蛾的幼虫。<sup>\[如东\]</sup> ② 大谷盗的幼虫。<sup>\[如皋\]</sup>  
-1. 【[米子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_zz.md#米子)】`mi3 zz` <small>/mi3 t͡sɿ/<sup>兴化</sup>, /mʝ3 t͡sɿ/<sup>如皋</sup>, /mʝ3 t͡sɿ/<sup>泰兴</sup></small> ① 钓铒。<sup>\[如东\]</sup>：钓鲫鱼要用河仙做～。<sup>\[如东\]</sup> ② 常指肿块中，小而硬的芯子。<sup>\[如皋\]</sup> ③ 荚或硬壳里的子实<sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：菱～；薏仁～；花生～。<sup>\[兴化\]</sup>｜花生～<sup>\[泰州\]</sup>｜蚕豆～<sup>\[泰州\]</sup>｜黄豆～<sup>\[泰州\]</sup>｜老菱～<sup>\[泰州\]</sup>  
+1. 【[米子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_zz.md#米子)】`mi3 zz` <small>/mi3 t͡sɿ/<sup>兴化</sup>, /mʝ3 t͡sɿ/<sup>如皋</sup>, /mʝ3 t͡sɿ/<sup>泰兴</sup></small> ① 钓铒。<sup>\[如东\]</sup>：钓鲫鱼要用河仙做～。<sup>\[如东\]</sup> ② 常指肿块中，小而硬的芯子。<sup>\[如皋\]</sup> ③ 荚或硬壳里的子实<sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：菱～；薏仁～；花生～。<sup>\[兴化\]</sup>｜花生～<sup>\[泰州\]</sup>｜蚕豆～<sup>\[泰州\]</sup>｜黄豆～<sup>\[泰州\]</sup>｜老菱～<sup>\[泰州\]</sup>｜花生～<sup>\[泰兴\]</sup>｜黄豆～<sup>\[泰兴\]</sup>  
 1. 【[美儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_er.md#美儿)】`mi3 er2` <sup>[如皋]</sup> ① 古瓷、古画上的美女：～碗。 ② 贬指以貌取胜而无实才的女人。  
 1. 【[美美香甜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_mi_xian_tin.md#美美香甜)】`mi3 mi3 xian1 tin2` <sup>[泰县]</sup> 又香又甜。  
 1. 【[美猫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_mo.md#美猫)】`mi3 mo2` <sup>[如皋]</sup> 雌猫。  

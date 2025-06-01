@@ -79,7 +79,7 @@
 1. 【[漓黄龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_van_lon.md#漓黄龙)】`la2 van2 lon2` <sup>[如皋]</sup> 流鼻涕。  
 1. 【[漓尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_xy.md#漓尿)】`la2 xy1` <small>/la2 ɕy1/<sup>如皋</sup></small> ① 尿床。<sup>\[如东\]</sup> ② 尿床，排尿失禁。<sup>\[如皋\]</sup>  
 1. 【[漓尿宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_xy_bo_r.md#漓尿宝<sub>儿</sub>)】`la2 xy1 bo3 r` <small>/la2 ɕy1 pɔ˞3/<sup>如皋</sup></small> ① 尿床的小孩。<sup>\[如东\]</sup> ② 嘲笑用语。指经常尿床的人，主要指小孩。<sup>\[如皋\]</sup> ③ 大蓑蛾的幼虫，藏在用叶、柄裹成的长椎形茧中，挂在树枝上。<sup>\[如皋\]</sup>  
-1. 【[哪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la.md#哪)】`la3` <small>/na3/<sup>泰县</sup></small> ① 疑问代词。<sup>\[如东\]</sup> ② 难道，哪里：这事～是我做的？<sup>\[泰县\]</sup>  
+1. 【[哪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la.md#哪)】`la3` <small>/na3/<sup>泰县</sup></small> ① 疑问代词。<sup>\[如东\]</sup> ② 难道，哪里<sup>\[泰县\]</sup>：这事～是我做的？<sup>\[泰县\]</sup>  
 1. 【[哪啊咑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_a_da.md#哪啊咑)】`la3 a da3` <sup>[兴化]</sup> （兴化东部乡镇口语）问哪儿去了：冯二家小伙～？  
 1. 【[哪把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ba.md#哪把)】`la3 ba3` <sup>[兴化]</sup> 费力、费时：这吖多的菜～一吃吤！｜这吖多的东西～一搬㖸！  
 1. 【[哪百年的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_boh_nin_dii.md#哪百年的)】`la3 boh7 nin2 dii` <sup>[泰州]</sup> ① 意谓过时：先结婚，后养伢儿，你说的这是～话，现在带啊身上去领结婚证的吓煞人唻！ ② 意谓“无可查考”：我也不晓得同他是～亲，我家老的都不曾听说过。  

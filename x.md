@@ -1776,6 +1776,7 @@
 1. 【[血口喷人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_keu_pen_ren.md#血口喷人)】`xiuh7 keu3 pen1 ren2` <sup>[泰州]</sup> 指捏造事实污蔑、陷害他人：我根本不晓得这事，你不要听他～！  
 1. 【[血喖瓤腥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_kv_nan_xien.md#血喖瓤腥)】`xiuh7 kv nan2 xien1` <small>/ɕyʊʔ7 kʰu nɑŋ2 ɕiŋ1/<sup>泰兴</sup></small> ① 血肉模糊的样子<sup>\[东台\]</sup>：那起车祸啊，～的样子实在让人害怕。<sup>\[东台\]</sup> ② 血淋淋的，目不忍啫。<sup>\[泰兴\]</sup>  
 1. 【[血喖瓤腥的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_kv_nan_xien.md#血喖瓤腥的)】`xiuh7 kv nan2 xien1 dii` <sup>[如皋]</sup> 状血肉模糊的样子。  
+1. 【[血漓漓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_la_la.md#血漓漓)】`xiuh7 la2 la2` <small>/ɕyʊʔ7 lɑ2 lɑ2/<sup>泰兴</sup></small> 血淋淋，又音xiuh7 la1 la1<sup>\[泰兴\]</sup>：他切菜的时候剆到啊手节头，～的<sup>\[泰兴\]</sup>  
 1. 【[血里口淌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_li_keu_tan.md#血里口淌)】`xiuh7 li3 keu3 tan3` <sup>[东台]</sup> ［喻］斗争激烈，伤势惨重：有矛盾要化解，不要弄得～的。  
 1. 【[血流口淌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_lieu_keu_tan.md#血流口淌)】`xiuh7 lieu2 keu3 tan3` <sup>[如皋]</sup> 鲜血淋漓状。  
 1. 【[血流泼淌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_lieu_puh_tan.md#血流泼淌)】`xiuh7 lieu2 puh7 tan3` <sup>[如东]</sup> 鲜血很多，四处流淌：打斗激烈，伤吖许多人，地上～的。  
