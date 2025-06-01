@@ -8,3 +8,8 @@ xien1 nian zz
 xien5 nian zz
 > 如皋方言词典
 - 前囟门。
+
+# 囟娘子
+xien5 nian zz
++ 婴儿头顶骨未长合的地方，在头顶的前部中央。
+  * 泰兴方言辞典
