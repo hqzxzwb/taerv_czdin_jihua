@@ -757,7 +757,8 @@
 1. 【[肋身骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_shen_gueh.md#肋身骨)】`leh8 shen1 gueh7` 肋骨  
 1. 【[肋身爽爽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_shen_shuan_shuan.md#肋身爽爽)】`leh8 shen1 shuan3 shuan3` <sup>[如东]</sup> 肋骨突出来，形容身体瘦弱：～的，人交关消瘦。  
 1. 【[肋脦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_teh.md#肋脦)】`leh8 teh7` <sup>[如皋]</sup> 笨拙的样子。  
-1. 【[肋条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_tio.md#肋条)】`leh8 tio2` <small>/ləʔ8 tʰiɔ2/<sup>兴化</sup></small> ① 带肋骨的肉。<sup>\[东台\]</sup> ② 肋骨。<sup>\[兴化\]</sup> ③ 作为食品的带肉的猪肋骨。<sup>\[兴化\]</sup>  
+1. 【[肋条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_tio.md#肋条)】`leh8 tio2` <small>/ləʔ8 tʰiɔ2/<sup>兴化</sup>, /ləʔ8 tʰiɔ2/<sup>泰兴</sup></small> ① 带肋骨的肉。<sup>\[东台\]</sup> ② 肋骨。<sup>\[兴化\]</sup> ③ 作为食品的带肉的猪肋骨。<sup>\[兴化\]</sup> ④ 食用的猪肋部分的肉。<sup>\[泰兴\]</sup>  
+1. 【[肋心骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_xien_gueh.md#肋心骨)】`leh8 xien gueh7` <small>/ləʔ8 ɕiŋ kuəʔ7/<sup>泰兴</sup></small> 肋骨。人或高等动物胸壁两侧的长条形骨头。<sup>\[泰兴\]</sup>  
 1. 【[鳓鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_y.md#鳓鱼)】`leh8 y2` <sup>[如东]</sup> 鲱鱼科动物鳓鱼。  
 1. 【[𦟯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh.md#𦟯)】`leh8` <sup>[如皋]</sup> 鱼的精巢，白色如油，味鲜美：公鱼有～，母鱼有籽。如皋词典写“肋”。  
 1. 【[连棚车<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lei_pon_cha_r.md#连棚车<sub>儿</sub>)】`lei2 pon2 cha1 r` <sup>[如皋]</sup> 见“连篷车子”。  

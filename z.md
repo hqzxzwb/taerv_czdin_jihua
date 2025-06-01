@@ -58,17 +58,21 @@
 1. 【[杂烩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh_huei.md#杂烩)】`zaeh7 huei6` 菜肴，许多种食材搭配制成\[如东：多种荤菜和素菜混和在一起的熟菜，称杂烩。\]\[泰州：将肉圆、鱼圆、鹌鹑蛋、虾、蹄筋、肉皮、海参、笋干等混在一起与鸡汤合煮。\]：大～。<sup>\[如东\]</sup>  
 1. 【[杂粮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh_lian.md#杂粮)】`zaeh7 lian2` <sup>[如皋]</sup> 见“荒粮”。  
 1. 【[杂笼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh_lon.md#杂笼)】`zaeh7 lon2` <sup>[兴化]</sup> 每笼内有几种不同馅心的包子，也说“杂色”。  
+1. 【[杂牌军](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh_pae_jyen.md#杂牌军)】`zaeh7 pae2 jyen1` <small>/t͡ɕiæʔ7 pʰɛ2 t͡ɕyəŋ1/<sup>泰兴</sup></small> 犹杂七杂八，各式各样的。<sup>\[泰兴\]</sup>  
 1. 【[杂配](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh_pei.md#杂配)】`zaeh7 pei5` <sup>[兴化]</sup> 器物中某些零部件是杂凑的：自行车的大杠是～的。  
 1. 【[杂配](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh_pi.md#杂配)】`zaeh7 pi5` <sup>[如皋]</sup> 不是原配，后来配上的，再好也不原样。  
+1. 【[杂破𧜛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh_pu_lan.md#杂破𧜛)】`zaeh7 pu5 lan3` <small>/t͡ɕiæʔ7 pʰɤɯ5 lɑŋ3/<sup>泰兴</sup></small> 各种杂七杂八的作用不大的东西。<sup>\[泰兴\]</sup>  
 1. 【[杂七杂八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh_qieh_zaeh_baeh.md#杂七杂八)】`zaeh7 qieh7 zaeh7 baeh7` <sup>[东台]</sup> 品种不纯，或头绪很多。  
 1. 【[杂七杂八的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh_qieh_zaeh_baeh_dii.md#杂七杂八的)】`zaeh7 qieh7 zaeh7 baeh7 dii` <sup>[如皋]</sup> 见“杂八斗”。  
 1. 【[杂色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh_seh.md#杂色)】`zaeh7 seh7` <small>/t͡sæʔ7 səʔ7/<sup>兴化</sup></small> ① 各种花色掺和。<sup>\[如东\]</sup>：这种料子是～。<sup>\[如东\]</sup> ② 形容很多。<sup>\[如东\]</sup>：今朝的海货～咖。<sup>\[如东\]</sup> ③ 大宗颜色以外的色彩<sup>\[兴化\]</sup>：体育场上除了红旗、白旗而外，还有各种～旗子。<sup>\[兴化\]</sup> ④ 每笼内有几种不同馅心的包子，也说“杂笼”。<sup>\[兴化\]</sup>  
 1. 【[杂色点心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh_seh_din_xien.md#杂色点心)】`zaeh7 seh7 din3 xien1` <sup>[泰州]</sup> 指装在同一笼内同一品种不同馅心点心或者不同品种的点心：在富春吃早茶，三个人弄吖两笼～，不曾吃得掉。  
 1. 【[杂上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh_shan.md#杂上)】`zaeh7 shan` <sup>[泰县]</sup> 打杂的人。  
 1. 【[杂耍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh_shua.md#杂耍)】`zaeh7 shua3` <sup>[兴化]</sup> 各式各样的玩具和小摆设。  
+1. 【[杂碎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh_suei.md#杂碎)】`zaeh7 suei5` <small>/t͡ɕiæʔ7 suəɪ5/<sup>泰兴</sup></small> 指煮熟切碎的猪牛羊等的内脏。<sup>\[泰兴\]</sup>  
 1. 【[杂素](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh_sv.md#杂素)】`zaeh7 sv5` <sup>[兴化]</sup> 用多种素菜合在一起做成的菜肴：炒～。  
 1. 【[杂戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh_xi.md#杂戏)】`zaeh7 xi5` <sup>[如皋]</sup> 街头巷尾拉场子，小规模演出的戏，如木偶戏等。  
 1. 【[杂学](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh_xiah.md#杂学)】`zaeh7 xiah8` <sup>[兴化]</sup> 旧指儒学经典以外的其他学问：戎先生书读得多，～不丑。  
+1. 【[杂姓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh_xien.md#杂姓)】`zaeh7 xien5` <small>/t͡ɕiæʔ7 ɕiŋ5/<sup>泰兴</sup></small> 大姓之外的各姓。各种姓氏。<sup>\[泰兴\]</sup>  
 1. 【[杂杂拌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh_zaeh_pun.md#杂杂拌)】`zaeh7 zaeh7 pun6` <sup>[兴化]</sup> ① 掺杂在一起的多种菜蔬：这个菜荤的、素的，甜的、咸的全有，是～。 ② （喻）杂凑的事物：这个晚会是～，有唱歌、跳舞，还有相声、戏曲。  
 1. 【[砸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh.md#砸)】`zaeh7` <sup>[兴化]</sup> 用力扔、掷：～砖头子儿。｜把头～破啊。  
 1. 【[砸锅卖铁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh_gu_mae_tih.md#砸锅卖铁)】`zaeh7 gu1 mae6 tih7` <sup>[东台]</sup> ［喻］尽其所有：我哪怕～，也要把你这个病治好。  
@@ -739,14 +743,16 @@
 1. 【[争多较少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_du_jio_sho.md#争多较少)】`zhen1 du1 jio5 sho3` <sup>[泰州]</sup> 计较数量多少而不相让：你俫为这点儿钱～，真没得意思。  
 1. 【[争多略少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_du_liah_sho.md#争多略少)】`zhen1 du1 liah8 sho3` <sup>[如东]</sup> 要求多：不要～的。  
 1. 【[争多撂少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_du_lio_sho.md#争多撂少)】`zhen1 du1 lio6 sho3` <sup>[如皋]</sup> 计较，争论不下。  
-1. 【[争较](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_jio.md#争较)】`zhen1 jio` <small>/t͡sən1 t͡ɕiɔ/<sup>兴化</sup>, /t͡səŋ1 t͡ɕiɔ/<sup>如皋</sup></small> ① 挑剔、计较<sup>\[如皋\]</sup>：他家嫁女儿，～起来凶哎。<sup>\[如皋\]</sup> ② 争理计较<sup>\[东台\]</sup>：家里只剩这吖多，你俫～我也没得办法！<sup>\[东台\]</sup> ③ 计较礼数、金钱<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：有到事情他总喜欢～人。<sup>\[兴化\]</sup>｜（有个老声老气的人）说是～赏金太多了，要将他送到捕厅老爷那里打板子。（《广陵潮》七）<sup>\[兴化\]</sup>｜总共就这两个钱，你是当老板的，就没得必要同他～唻。<sup>\[泰州\]</sup>｜他俫这两天忙吖不曾有工夫上门来请你，家里人就不要～这些礼信唻。<sup>\[泰州\]</sup> ④ 争强好胜<sup>\[兴化\]</sup>：“夫妻夫妻，合伙儿养性命的……你～什么，难道打江山不成？”（钱国怀《潘家女》）<sup>\[兴化\]</sup>  
+1. 【[争较](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_jio.md#争较)】`zhen1 jio` <small>/t͡sən1 t͡ɕiɔ/<sup>兴化</sup>, /t͡səŋ1 t͡ɕiɔ/<sup>如皋</sup>, /t͡səŋ1 t͡ɕiɔ/<sup>泰兴</sup></small> ① 挑剔、计较<sup>\[如皋\]</sup>：他家嫁女儿，～起来凶哎。<sup>\[如皋\]</sup> ② 争理计较<sup>\[东台\]</sup>：家里只剩这吖多，你俫～我也没得办法！<sup>\[东台\]</sup> ③ 计较礼数、金钱<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：有到事情他总喜欢～人。<sup>\[兴化\]</sup>｜（有个老声老气的人）说是～赏金太多了，要将他送到捕厅老爷那里打板子。（《广陵潮》七）<sup>\[兴化\]</sup>｜总共就这两个钱，你是当老板的，就没得必要同他～唻。<sup>\[泰州\]</sup>｜他俫这两天忙吖不曾有工夫上门来请你，家里人就不要～这些礼信唻。<sup>\[泰州\]</sup> ④ 争强好胜<sup>\[兴化\]</sup>：“夫妻夫妻，合伙儿养性命的……你～什么，难道打江山不成？”（钱国怀《潘家女》）<sup>\[兴化\]</sup> ⑤ 计较。<sup>\[泰兴\]</sup>  
 1. 【[争嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_jy.md#争嘴)】`zhen1 jy3` <sup>[东台]</sup> 除一般释义外，还指差一点点材料：衣服还有两针就好，呀！没线吖，还～！  
 1. 【[争嘴头食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_jy_teu_sheh.md#争嘴头食)】`zhen1 jy3 teu sheh8` <sup>[东台]</sup> 原意为弟兄争夺碗中食，现喻意为蝇头小利而争吵。  
 1. 【[争礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_li.md#争礼)】`zhen1 li3` <sup>[兴化]</sup> 计较别人的态度和礼数：我倒不是跟他～，他家这吖怠慢人太不应该。｜俺还说他｜“你这么争嘴，不害羞么？”他说｜“君子～，小人争嘴。情上恼人呢！”（《醒世姻缘传》七八）  
+1. 【[争礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_li.md#争礼)】`zhen1 li3` <small>/t͡səŋ1 lʝ3/<sup>泰兴</sup></small> 计较他人的礼节、态度。<sup>\[泰兴\]</sup>  
 1. 【[争气拗气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_qi_ngo_qi.md#争气拗气)】`zhen1 qi5 ngo5 qi5` <sup>[兴化]</sup> 发愤上进，不甘示弱：小周～，发愤用功，终于考上吖名牌大学。  
 1. 【[争气损财](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_qi_suen_cae.md#争气损财)】`zhen1 qi5 suen3 cae2` <small>/t͡sən1 t͡ɕʰi5 suən3 t͡sʰɛ2/<sup>兴化</sup></small> ① 为了在众人面前争高下，不得不破费钱财，耗费精力。<sup>\[东台\]</sup> ② 因闹别扭而付出代价<sup>\[兴化\]</sup>：为婆婆句把话，连给她金戒指也不要啊，真是～。<sup>\[兴化\]</sup>  
 1. 【[争秋脱伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_qieu_tuh_foh.md#争秋脱伏)】`zhen1 qieu1 tuh7 foh8` <sup>[如皋]</sup> 三伏天已过去，天气开始转凉。  
 1. 【[争嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zuei.md#争嘴)】`zhen1 zuei3` <sup>[兴化]</sup> 在吃东西或分东西的时候争多论少：“不是我们～，堪恨你这厮们无道理……！”（《水浒传》八三）  
+1. 【[争嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zuei.md#争嘴)】`zhen1 zuei3` <small>/t͡səŋ1 t͡suəɪ3/<sup>泰兴</sup></small> 争着吃；贪吃。争论饭菜的数量质量多少、好差。<sup>\[泰兴\]</sup>  
 1. 【[揁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen.md#揁)】`zhen1` <small>/t͡sən1/<sup>兴化</sup>, /t͡səŋ1/<sup>如皋</sup>, /t͡səŋ1/<sup>泰兴</sup>, /t͡səŋ1/<sup>泰县</sup></small> 张开、撑开<sup>\[兴化\]</sup>：～帐子｜～袋儿｜～帐子（挂蚊帐）。<sup>\[兴化\]</sup>  
 1. 【[揁床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_chuan.md#揁床)】`zhen1 chuan2` <sup>[东台]</sup> 把床的部件整合成完整的床。  
 1. 【[揁帐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zhan_zz.md#揁帐子)】`zhen1 zhan5 zz` ① 把蚊帐架起来、挂起来。<sup>\[东台\]</sup> ② 将两根帐竹子伸进帐子前后两边帐管之中，架好或吊好帐管竹，挂上帐子，使之张开。<sup>\[泰州\]</sup>  

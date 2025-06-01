@@ -278,17 +278,21 @@
 1. 【[𢵧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen.md#𢵧)】`gaen5` <sup>[泰州]</sup> 擦屁股：～屁股。  
 1. 【[𢵧屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_pi_gu.md#𢵧屁股)】`gaen5 pi5 gu` <small>/kẽ5 pʰʝ5 kʊ/<sup>如皋</sup></small> ① 用纸或布擦拭屁股。<sup>\[如东\]</sup> ② 比喻处理或解决遗留的问题。<sup>\[如东\]</sup> ③ 擦净肛门。<sup>\[如皋\]</sup> ④ 喻代他人收拾烂摊子。<sup>\[如皋\]</sup> ⑤ 大便以后擦掉秽物，引申指收拾残局或者处理别人留下的难办的事<sup>\[泰州\]</sup>：新领导来啊个把月，天天都有人来上访，全是做的些～的事。<sup>\[泰州\]</sup>｜你要做就做啊好啊，不得哪个同你～。<sup>\[泰州\]</sup>  
 1. 【[𢵧屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_pi_gu.md#𢵧屁股)】`gaen5 pi5 gu3` <sup>[东台]</sup> ① 擦屁股。 ② ［喻］收拾处理前人遗留的问题。  
+1. 【[各管各](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_gun_gah.md#各管各)】`gah7 gun3 gah7` <small>/kɑʔ7 kʊ̃3 kɑʔ7/<sup>泰兴</sup></small> 各人管各人，各行管各行。<sup>\[泰兴\]</sup>：黄牛角，水牛角，角（各）管角（各）<sup>\[泰兴\]</sup>  
 1. 【[各顾各](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_gv_gah.md#各顾各)】`gah7 gv5 gah7` <small>/kaʔ7 ku5 kaʔ7/<sup>兴化</sup></small> ① 各人自己只顾自己。<sup>\[如东\]</sup>：不要～。<sup>\[如东\]</sup> ② 只管自己，不及旁人<sup>\[兴化\]</sup>：（忙时）这地方兴换工……其余的时候，～，不显得紧张。（汪曾祺《受戒》）<sup>\[兴化\]</sup>｜谚曰：黄牛角，水牛角，～。<sup>\[兴化\]</sup>  
 1. 【[各家的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_jia_dii.md#各家的)】`gah7 jia1 dii` <sup>[如东]</sup> 古怪，孤僻：这个人～。  
 1. 【[各理各事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_li_gah_shr.md#各理各事)】`gah7 li3 gah7 shr6` <sup>[如东]</sup> 各人处理各人的事情：你俫～，互相不要搅和。  
 1. 【[各人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_ren.md#各人)】`gah7 ren2` <sup>[兴化]</sup> 各别的人：谚曰：师父领进门，修行靠～。｜有人活泼，有人内向，这是～。  
-1. 【[各散](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_saen.md#各散)】`gah7 saen5` <small>/kaʔ7 sɛ̃5/<sup>兴化</sup>, /kaʔ7 sẽ5/<sup>如皋</sup></small> ① 解散，各回各家。<sup>\[如皋\]</sup> ② 由聚集处分散<sup>\[兴化\]</sup>：会议结束，～。<sup>\[兴化\]</sup>｜“我等欲往太行山一行，你等愿去者随去，不愿去者～。”（《八窍珠》三四）<sup>\[兴化\]</sup>  
+1. 【[各人家伢<sub>儿</sub>各人家抱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_ren_ga_nga.md#各人家伢<sub>儿</sub>各人家抱)】`gah7 ren2 ga1 nga2 r gah7 ren2 ga1 po6` <small>/kɑʔ7 ɻəŋ2 kɑ1 ŋɑ˞2 kɑʔ7 ɻəŋ2 kɑ1 pʰɔ1/<sup>泰兴</sup></small> 谓各人的事各人自己办，别人不要来帮忙。<sup>\[泰兴\]</sup>  
+1. 【[各散](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_saen.md#各散)】`gah7 saen5` <small>/kaʔ7 sɛ̃5/<sup>兴化</sup>, /kaʔ7 sẽ5/<sup>如皋</sup>, /kɑʔ7 ɕiɛ̃5/<sup>泰兴</sup></small> 解散，散去<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：会议结束，～。<sup>\[兴化\]</sup>｜“我等欲往太行山一行，你等愿去者随去，不愿去者～。”（《八窍珠》三四）<sup>\[兴化\]</sup>｜鸡毛炒鸭蛋，～<sup>\[泰兴\]</sup>  
 1. 【[各散各散，芝麻两担](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_saen_gah_saen_zhr_ma_laen_daen.md#各散各散，芝麻两担)】`gah7 saen5 gah7 saen5 zhr1 ma2 laen3 daen5` <sup>[东台]</sup> 不同意见先别争，各自回去再说。  
 1. 【[各事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_shr.md#各事)】`gah7 shr` <sup>[如皋]</sup> 其他：你家～哿有这种货啦？  
+1. 【[各事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_shr.md#各事)】`gah7 shr` <small>/kɑʔ7 sɿ/<sup>泰兴</sup></small> 其它。<sup>\[泰兴\]</sup>：除掉箇许的，～可有唻？<sup>\[泰兴\]</sup>  
 1. 【[各事个……](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_shr_gu.md#各事个……)】`gah7 shr gu` <sup>[东台]</sup> 后面接“人”“人家”或事，分别指某人某个人家某件事，一般在不便明说时使用。  
 1. 【[各事个人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_shr_gu_ren.md#各事个人)】`gah7 shr gu ren2` <sup>[如皋]</sup> 暗指某人。  
 1. 【[各事条号](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_shr_tio_ho.md#各事条号)】`gah7 shr tio2 ho6` <sup>[如皋]</sup> 暗指双方都知道的某事。  
 1. 【[各是一家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_shr_ieh_ga.md#各是一家)】`gah7 shr ieh7 ga1` <sup>[如皋]</sup> 脾气、想法与众不同：他的想法～；他的脾气～。  
+1. 【[各支锅子各开门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_zhr_gu_zz.md#各支锅子各开门)】`gah7 zhr1 gu1 zz gah7 kae1 men2` <small>/kɑʔ7 t͡sɿ1 kɤɯ1 t͡sɿ kɑʔ7 kʰɛ1 məŋ2/<sup>泰兴</sup></small> 分家。谓儿子分居，各自成家。<sup>\[泰兴\]</sup>  
 1. 【[搁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah.md#搁)】`gah7` <small>/kaʔ7/<sup>兴化</sup></small> ① 支、架<sup>\[兴化\]</sup>：～铺；～案子。<sup>\[兴化\]</sup> ② 将一物两端架于两物之上并使中间悬空<sup>\[泰州\]</sup>：把两根木头～咖墙头上去。<sup>\[泰州\]</sup> ③ 特指架设床铺<sup>\[泰州\]</sup>：家里来啊人，在堂屋里～咖两张铺。<sup>\[泰州\]</sup>  
 1. 【[搁板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_baen.md#搁板)】`gah7 baen3` <sup>[兴化]</sup> 两端担在固定物上的木板、铁板或水泥板等：只因他店内所有盘碟碗盏沙锅等件，都堆在～上面……（《八窍珠》二五）  
 1. 【[搁咖啦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_ga_la.md#搁咖啦)】`gah7 ga la` <sup>[东台]</sup> 孕妇临产或瓜类坐果了。  
@@ -312,8 +316,7 @@
 1. 【[角柱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_chv.md#角柱)】`gah7 chv6` <sup>[如皋]</sup> 墙角处的柱子。  
 1. 【[角鬏<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_jieu_r.md#角鬏<sub>儿</sub>)】`gah7 jieu1 r` <sup>[如皋]</sup> 少女头顶两侧所梳的髻。  
 1. 【[角口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_keu.md#角口)】`gah7 keu3` <sup>[如东]</sup> 吵架。  
-1. 【[角落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_lah.md#角落)】`gah7 lah` ① 角落。<sup>\[如东\]</sup><sup>\[泰州\]</sup>：墙～。<sup>\[如东\]</sup>｜墙～。<sup>\[泰州\]</sup> ② 偏僻的地方。<sup>\[如东\]</sup><sup>\[泰州\]</sup>：把东西囥吖～里。<sup>\[如东\]</sup>｜你老先生蹾吖哪个～里头的，块块寻你人寻不到。<sup>\[泰州\]</sup>  
-1. 【[角落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_lah.md#角落)】`gah7 lah8-3` <sup>[泰县]</sup> 角落。  
+1. 【[角落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_lah.md#角落)】`gah7 lah` <small>/kaʔ7 laʔ/<sup>兴化</sup>, /kaʔ7 laʔ/<sup>如皋</sup>, /kɑʔ7 lɑʔ/<sup>泰兴</sup>, /kɑʔ7 nɑʔ/<sup>泰县</sup></small> ① 角落：墙～。 ② 偏僻的地方。<sup>\[如东\]</sup><sup>\[泰州\]</sup>：把东西囥吖～里。<sup>\[如东\]</sup>｜你老先生蹾吖哪个～里头的，块块寻你人寻不到。<sup>\[泰州\]</sup>  
 1. 【[角螺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_lu_r.md#角螺<sub>儿</sub>)】`gah7 lu1 r` <sup>[如皋]</sup> 蜗牛。腹足纲。  
 1. 【[角票](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_pio.md#角票)】`gah7 pio5` ① 指壹角、贰角、伍角的纸币 ② 票面以角为单位的纸币。<sup>\[东台\]</sup>  
 1. 【[角钱能买十一个——分钱不值](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_qin_nen_mae_sheh_ieh_gu_fen_qin_beh_cheh.md#角钱能买十一个——分钱不值)】`gah7 qin2 nen2 mae3 sheh8 ieh7 gu fen1 qin2 beh7 cheh8` <sup>[东台]</sup>   

@@ -1363,6 +1363,7 @@
 1. 【[签署](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_chv.md#签署)】`qin1 chv2` <sup>[东台]</sup> 在文件上写下阅办或批办意见。（这里“署”读若“除”）  
 1. 【[谦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin.md#谦)】`qin1` <small>/t͡ɕʰiɪ̃1/<sup>兴化</sup></small> ① 客气、谦让<sup>\[兴化\]</sup>：这一说我就托老实上坐，不～吖。<sup>\[兴化\]</sup> ② 相互谦让<sup>\[泰州\]</sup>：你就不要再～唻，你岁数最大，你不坐，大家都不好坐。<sup>\[泰州\]</sup>｜他俫两个人为个会东～吖半天。<sup>\[泰州\]</sup>  
 1. 【[谦恭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_gon.md#谦恭)】`qin1 gon1` 谦让，特指酒席上礼让他人首先品尝菜肴<sup>\[泰州\]</sup>：这个桌上你老人家最大，你就不要再同我俫小辈～唻。<sup>\[泰州\]</sup>  
+1. 【[迁字<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_cz_r.md#迁字<sub>儿</sub>)】`qin1 cz6 r` <small>/t͡ɕʰĩ1 t͡sʰɿ˞1/<sup>泰兴</sup></small> 汉字笔划之一，形若“辶”。又称“走字底”。<sup>\[泰兴\]</sup>  
 1. 【[迁坟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_fen.md#迁坟)】`qin1 fen2` <sup>[如东]</sup> 将坟墓地点由这一处迁移到另一处。  
 1. 【[□<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_r.md#□<sub>儿</sub>)】`qin2 r` ① （泰州词典作厣儿）<sup>\[泰州\]</sup> ② 螺蛳介壳口上圆片状的深色薄盖。<sup>\[泰州\]</sup>  
 1. 【[乾客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_keh.md#乾客)】`qin2 keh7` <sup>[兴化]</sup> 旧称男客：大舅和妹夫两位～一到，连他林从阳老小共七人。（马春阳《昏迷再婚迷》）  
@@ -1732,7 +1733,8 @@
 1. 【[全册](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_ceh.md#全册)】`qiun2 ceh7` <sup>[东台]</sup> 从头到尾全都清楚：你要问这个厂是怎吖兴旺起来的，找王爹吧，他～！  
 1. 【[全房务](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_fan_v.md#全房务)】`qiun2 fan2 v` <sup>[兴化]</sup> 女方的陪嫁除床以外，新房内全套家具：女家陪的～。  
 1. 【[全福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_foh.md#全福)】`qiun2 foh7` <small>/t͡ɕʰyũ2 fɔʔ7/<sup>兴化</sup></small> ① 在婚礼中，应邀做主宾的长者，条件是夫妇齐眉，有儿有孙<sup>\[兴化\]</sup>：～爹爹<sup>\[兴化\]</sup>｜～奶奶<sup>\[兴化\]</sup>｜这里请～夫人，开了状元门，请出新娘……（《八窍珠》四十）<sup>\[兴化\]</sup> ② 坊间指老年妇女福气福运完全，多指本人夫妇健在且儿孙满堂的老年妇女，最全者为儿子、女儿、孙子、孙女、外孙子、外孙女齐全，民间嫁娶之时，常请“全福”老年妇女帮助操办婚事<sup>\[泰州\]</sup>：老太是高寿～之人，丧事要当喜事办。<sup>\[泰州\]</sup>  
-1. 【[全福太太](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_foh_tae_tae.md#全福太太)】`qiun2 foh7 tae5 tae` <sup>[泰州]</sup> 指本人夫妇健在且儿孙满堂的老年妇女，最全者为儿子、女儿、孙子、孙女、外孙子、外孙女齐全。简称“福太太”。民俗，新婚夫妇结婚前夕，须请全福太太用红线缝结婚用被、铺房、帮助新娘穿戴、护送新人进入洞房等等，希望能将“福太太”的好运过给新人：你家祖母在世的时候就是这条街上的全福太太，家边邻居管他哪家办喜事，都要请她去缝被单、布置新娘房。  
+1. 【[全福奶奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_foh_nae_nae.md#全福奶奶)】`qiun2 foh7 nae3 nae` <small>/t͡ɕʰyʊ̃2 fɔʔ7 nɛ3 nɛ/<sup>泰兴</sup></small> 子孙满堂的奶奶辈。乡间多请其“搀新娘子”。<sup>\[泰兴\]</sup>  
+1. 【[全福太太](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_foh_tae_tae.md#全福太太)】`qiun2 foh7 tae5 tae` <sup>[泰州]</sup> 指本人夫妇健在且儿孙满堂的老年妇女，最全者为儿子、女儿、孙子、孙女、外孙子、外孙女齐全。简称“福太太”。民俗，新婚夫妇结婚前夕，须请全福太太用红线缝结婚用被、铺房、帮助新娘穿戴、护送新人进入洞房等等，希望能将“福太太”的好运过给新人：你家祖母在世的时候就是这条街上的～，家边邻居管他哪家办喜事，都要请她去缝被单、布置新娘房。  
 1. 【[全福之人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_foh_zhr_ren.md#全福之人)】`qiun2 foh7 zhr1 ren2` <sup>[东台]</sup> 指儿孙满堂、家庭幸福的长者。  
 1. 【[全花色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_hua_seh.md#全花色)】`qiun2 hua1 seh7` <small>/t͡ɕʰyũ2 xua1 səʔ7/<sup>兴化</sup></small> ① 花样齐全<sup>\[兴化\]</sup>：今早上茶馆，十个人花一百块，吃咖个～。<sup>\[兴化\]</sup>｜……却不晓得孙孝继在其泗州老家中，是个赌吃嫖遥～的玩角。（《皮五辣子》一）》<sup>\[兴化\]</sup> ② 种类齐全，多用于形容各种恶习俱全的人<sup>\[泰州\]</sup>：他现在是吃喝嫖赌～，你望吧，早晚有一天要出事。<sup>\[泰州\]</sup>  
 1. 【[全荤、全素](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_huen_qiun_sv.md#全荤、全素)】`qiun2 huen1 qiun2 sv5` <sup>[如皋]</sup> 纸牌、麻将术语。  
