@@ -983,6 +983,7 @@
 1. 【[利巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_ba.md#利巴)】`li6 ba1` <sup>[如皋]</sup> 笨、笨蛋：“见钱不抓，是个大～。”  
 1. 【[利巴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_ba_zz.md#利巴子)】`li6 ba1 zz` <small>/ləi6 pa1 t͡sɿ/<sup>兴化</sup>, /lʝ1 pa1 t͡sɿ/<sup>如皋</sup></small> ① 手指不能伸直的人。<sup>\[如东\]</sup> ② 比喻做事不利索，不内行。<sup>\[如东\]</sup> ③ 指上当受骗的人<sup>\[如皋\]</sup>：“不做～不学乖。”<sup>\[如皋\]</sup> ④ 外行、不谙行情的人<sup>\[兴化\]</sup>：这家公司派个～出去采购，弄些不对路的货家来。<sup>\[兴化\]</sup> ⑤ 次等水平的人<sup>\[东台\]</sup>：～起灴牌<sup>\[东台\]</sup>｜（歇后语）～喝薄酒——厚的在底下。<sup>\[东台\]</sup>  
 1. 【[利巴子喝薄酒——厚的在底下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_ba_zz_huh.md#利巴子喝薄酒——厚的在底下)】`li6 ba1 zz huh7 pah8 jieu3 heu6 dii cae6 di3 ha6` <sup>[东台]</sup>   
+1. 【[利巴子事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_ba_zz_shr.md#利巴子事)】`li6 ba1 zz shr6` <small>/lʝ1 pɑ1 t͡sɿ sɿ1/<sup>泰兴</sup></small> 不好的事；拖拖拉拉不爽手的事。<sup>\[泰兴\]</sup>  
 1. 【[利口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_keu.md#利口)】`li6 keu3` <sup>[兴化]</sup> 爽口：这道凉菜吃起来～。  
 1. 【[利落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_lah.md#利落)】`li6 lah8` <small>/lʝ1 laʔ8/<sup>如皋</sup></small> ① 动作灵敏迅速。<sup>\[如东\]</sup>：毛毛下手十分～。<sup>\[如东\]</sup> ② 整齐而有条理。<sup>\[如东\]</sup>：王师傅粉墙十分～。<sup>\[如东\]</sup> ③ 完全、彻底<sup>\[如皋\]</sup>：病好啊～咖。<sup>\[如皋\]</sup> ④ 无牵挂<sup>\[如皋\]</sup>：退休以后觉察行动～咖。<sup>\[如皋\]</sup>  
 1. 【[利索](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_sah.md#利索)】`li6 sah7` <sup>[如东]</sup> 快捷利落：手脚～。  

@@ -57,7 +57,7 @@
 1. 【[齐邦邦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_ban_ban.md#齐邦邦)】`qi2 ban1 ban1` <small>/t͡sʰɿ2 pɑŋ1 pɑŋ1/<sup>泰县</sup></small> ① 整齐。<sup>\[如东\]</sup>：这些草～的堆啊下<sup>\[如东\]</sup> ② 一起。<sup>\[如东\]</sup>：他俫～的跑掉啊。<sup>\[如东\]</sup> ③ 一起：她俫都～外去。<sup>\[泰县\]</sup>  
 1. 【[齐笔笔的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_bieh_bieh_dii.md#齐笔笔的)】`qi2 bieh7 bieh7 dii` <sup>[如皋]</sup> 见“笔齐的”。  
 1. 【[齐边齐岸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_bin_qi_un.md#齐边齐岸)】`qi2 bin1 qi2 un6` <sup>[如东]</sup> 整整齐齐，正好到位：这块田种的棉花，～的。  
-1. 【[齐草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_co.md#齐草)】`qi2 co3` <small>/t͡ɕʰʝ2 t͡sʰɔ3/<sup>如皋</sup>, /t͡sʰɿ2 t͡sʰɔ3/<sup>泰县</sup></small> ① 删选过的整齐的小麦秸，可盖屋、编织、做专用燃料。灰可为建筑用作调色剂<sup>\[如皋\]</sup>：丧葬拌三合土。<sup>\[如皋\]</sup> ② 见“秆子草”。<sup>\[如皋\]</sup> ③ 大麦秸。<sup>\[泰县\]</sup>  
+1. 【[齐草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_co.md#齐草)】`qi2 co3` <small>/t͡ɕʰʝ2 t͡sʰɔ3/<sup>如皋</sup>, /t͡ɕʰʝ2 t͡sʰɔ3/<sup>泰兴</sup>, /t͡sʰɿ2 t͡sʰɔ3/<sup>泰县</sup></small> ① 删选过的整齐的小麦秸，可盖屋、编织、做专用燃料。灰可为建筑用作调色剂。参见“秆子草”。<sup>\[如皋\]</sup>：丧葬拌三合土。<sup>\[如皋\]</sup> ② 大麦秸。<sup>\[泰县\]</sup> ③ 特指已脱粒的小麦草。<sup>\[泰兴\]</sup>  
 1. 【[齐草扇子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_co_shin_zz.md#齐草扇子)】`qi2 co3 shin5 zz` <sup>[如皋]</sup> 用小麦秸编成的圆扇。  
 1. 【[齐大伙<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_da_hu_r.md#齐大伙<sub>儿</sub>)】`qi2 da hu3 r` <sup>[兴化]</sup> 大家伙儿：孙大一笑，便把鞭炮挂上。只见一群学生，～都把耳朵掩起来。（《广陵潮》十三）  
 1. 【[齐肚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_dv.md#齐肚)】`qi2 dv3` <sup>[如皋]</sup> 一种善斗的蟀蟋名。  
@@ -74,11 +74,12 @@
 1. 【[齐斩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_zhaen.md#齐斩)】`qi2 zhaen` <sup>[如皋]</sup> 见“齐整”。  
 1. 【[齐崭崭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_zhaen_zhaen.md#齐崭崭)】`qi2 zhaen3 zhaen3` <small>/t͡ɕʰi2 t͡sɛ̃3 t͡sɛ̃3/<sup>兴化</sup>, /t͡sʰɿ2 t͡sɛ̃3 t͡sɛ̃3/<sup>泰县</sup></small> ① 齐整。<sup>\[如东\]</sup>：这根木头～的断吖。<sup>\[如东\]</sup> ② 见“齐齐整整”。<sup>\[兴化\]</sup> ③ 齐整。<sup>\[泰县\]</sup>  
 1. 【[齐斩斩的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_zhaen_zhaen_dii.md#齐斩斩的)】`qi2 zhaen3 zhaen3 dii` <sup>[如皋]</sup> 形容特别整齐。  
-1. 【[齐整](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_zhen.md#齐整)】`qi2 zhen` <small>/t͡ɕʰʝ2 t͡səŋ/<sup>如皋</sup></small> ① 漂亮，形容人或者事物的样子 ② 整齐、美、俏、漂亮。<sup>\[如皋\]</sup>  
+1. 【[齐整](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_zhen.md#齐整)】`qi2 zhen` <small>/t͡ɕʰʝ2 t͡səŋ/<sup>如皋</sup>, /t͡ɕʰʝ2 t͡səŋ/<sup>泰兴</sup></small> ① 漂亮，形容人或者事物的样子 ② 整齐、美、俏、漂亮。<sup>\[如皋\]</sup> ③ 整齐美观；人或物均为上乘的，端正，漂亮。<sup>\[泰兴\]</sup>  
 1. 【[齐臻臻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_zhen_zhen.md#齐臻臻)】`qi2 zhen1 zhen1` <sup>[兴化]</sup> 整整齐齐：左右两边～地排着两行官员……（《水浒传》十二）  
 1. 【[齐整](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_zhen.md#齐整)】`qi2 zhen3` <sup>[如东]</sup> ① 整齐，符合规格：一定要～ ② 很好：这副牌～。  
 1. 【[齐整整](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_zhen_zhen.md#齐整整)】`qi2 zhen3 zhen3` <sup>[兴化]</sup> 见“齐齐整整”。  
 1. 【[齐卓卓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_zhuah_zhuah.md#齐卓卓)】`qi2 zhuah7 zhuah7` <sup>[兴化]</sup> 形容整齐竖立：场上～的摆啊一捆捆的小麦稭子。  
+1. 【[齐卓卓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_zhuah_zhuah.md#齐卓卓)】`qi2 zhuah7 zhuah7` <small>/t͡ɕʰʝ2 t͡suɑʔ7 t͡suɑʔ7/<sup>泰兴</sup></small> 整齐。<sup>\[泰兴\]</sup>  
 1. 【[齐捉捉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_zhuah_zhuah.md#齐捉捉)】`qi2 zhuah7 zhuah7` <sup>[泰县]</sup> 整整齐齐：这卡片放吖～的。  
 1. 【[齐捉捉的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_zhuah_zhuah_dii.md#齐捉捉的)】`qi2 zhuah7 zhuah7 dii` <sup>[东台]</sup> 整齐，无短缺：阖家老小～站吖跟前。  
 1. 【[启口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_keu.md#启口)】`qi3 keu3` <sup>[兴化]</sup> 开口：只见阁罗天子～问道……（《老残游记》二七）。“别的东西不来干渎，只这件，是宅上有余的，故此敢来～。”（《警世通言》二二）  

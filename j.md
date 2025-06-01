@@ -1362,9 +1362,11 @@
 1. 【[键子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_zz.md#键子)】`jin5 zz` <sup>[兴化]</sup> 阉过的公牛。  
 1. 【[交大伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_da_foh.md#交大伏)】`jio1 da6 foh8` <sup>[东台]</sup> 指进入大暑的那一天。  
 1. 【[交冬数九](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_don_shv_jieu.md#交冬数九)】`jio1 don1 shv3 jieu3` <sup>[兴化]</sup> 从冬至日起，每九天为一“九”，共九个“九”。此间为一年中最寒冷的时期。  
+1. 【[交伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_foh.md#交伏)】`jio1 foh8` <small>/t͡ɕiɔ1 fɔʔ8/<sup>泰兴</sup></small> 进入伏天。<sup>\[泰兴\]</sup>  
 1. 【[交关](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_guaen.md#交关)】`jio1 guaen1` <small>/t͡ɕiɔ1 kuẽ1/<sup>如皋</sup></small> ① 形容很多。<sup>\[如东\]</sup>：今朝的海货～吖。<sup>\[如东\]</sup> ② 很、历害。程度副词，多作补语：疼得～。<sup>\[如皋\]</sup>  
 1. 【[交关过渡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_guaen_gu_tv.md#交关过渡)】`jio1 guaen1 gu5 tv6` <sup>[兴化]</sup> （喻）关键时刻：说玩话哩，～，成数就在这一刻。（杨说《闯昭关》）  
 1. 【[交关山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_guaen_shaen.md#交关山)】`jio1 guaen1 shaen1` <sup>[如东]</sup> 形容很多很多：市场上的西瓜～。  
+1. 【[交关山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_guaen_shaen.md#交关山)】`jio1 guaen1 shaen1` <small>/t͡ɕiɔ1 kuɛ̃1 ɕiɛ̃1/<sup>泰兴</sup></small> 所担负的责任。<sup>\[泰兴\]</sup>：就是格大的～，我担量得起。<sup>\[泰兴\]</sup>  
 1. 【[交搿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_guh.md#交搿)】`jio1 guh7` <sup>[如皋]</sup> 结交：这份礼～他。  
 1. 【[交好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_ho.md#交好)】`jio1 ho3` <sup>[如东]</sup> 男女之间有私情。  
 1. 【[交换](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_hun.md#交换)】`jio1 hun6` <sup>[如东]</sup> 相互对斢。  
@@ -1383,7 +1385,7 @@
 1. 【[交秋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_qieu.md#交秋)】`jio1 qieu1` <sup>[兴化]</sup> 立秋。  
 1. 【[交圈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_qiun.md#交圈)】`jio1 qiun1` <small>/t͡ɕiɔ1 t͡ɕʰyũ1/<sup>兴化</sup></small> ① 木工制作器具，构件相互投榫后，垂直、见方。<sup>\[兴化\]</sup> ② 建筑房屋时，屋面封顶。<sup>\[兴化\]</sup> ③ 圆环两端开始连接，制作家具进入构建斗缝合榫工序或者建屋进入屋面封顶阶段<sup>\[泰州\]</sup>：这张橱子式样复杂，～的时候木匠费啊点儿事。<sup>\[泰州\]</sup>｜丨顶多再有两天，他家房子就要～，瓦匠速度还是蛮快的。<sup>\[泰州\]</sup>  
 1. 【[交生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_shen.md#交生)】`jio1 shen1` <small>/t͡ɕiɔ1 səŋ1/<sup>如皋</sup></small> ① 母家给出室女送第一个生日礼，表祝福，也提醒婆家此女过生日的时间。<sup>\[如皋\]</sup> ② 新妇过门之后，在婆家过第一个生日时，娘家购买鞭炮、鱼肉等物上门庆贺，以此活动告诉婆家“此日是我女儿生日”，提醒婆家以后到了此日，要为新妇庆贺生日，称为“交生”。《民国泰县志稿》卷之23<sup>\[泰州\]</sup>：“交生，女归婿家届第一生日，女家必有馈赠曰交生。意即生庚并无隐误，作一交代也。”例：他家嫂子的娘家人今朝子来～，家里中上摆啊三桌。<sup>\[泰州\]</sup>  
-1. 【[交生日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_shen_rih.md#交生日)】`jio1 shen1 rih` <small>/t͡ɕiɔ1 səŋ1 iɪʔ/<sup>泰县</sup></small> ① 女子出嫁以后的第一个生日，父母以祝寿仪式将其生日告知男方。<sup>\[东台\]</sup> ② 婚后第一年女方向男方交代生日。<sup>\[泰县\]</sup>  
+1. 【[交生日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_shen_rih.md#交生日)】`jio1 shen1 rih` <small>/t͡ɕiɔ1 səŋ1 iʔ/<sup>泰兴</sup>, /t͡ɕiɔ1 səŋ1 iɪʔ/<sup>泰县</sup></small> ① 女子出嫁以后的第一个生日，父母以祝寿仪式将其生日告知男方。<sup>\[东台\]</sup> ② 婚后第一年女方向男方交代生日。<sup>\[泰县\]</sup> ③ 民俗。娘家在女儿出嫁后的第一年到亲家为女儿贺生日谓之“交生日”。<sup>\[泰兴\]</sup>  
 1. 【[交时节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_shr_jih.md#交时节)】`jio1 shr2 jih7` <sup>[兴化]</sup> 指逢农历的某个节气：每逢～，他的病情就要发作。也称“交节刻”。  
 1. 【[交莳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_shr.md#交莳)】`jio1 shr2` <sup>[兴化]</sup> 俗称夏至为～。  
 1. 【[交待](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_tae.md#交待)】`jio1 tae6` <sup>[泰州]</sup> 警告：你～他，再不过来上班，就不要来唻。  
@@ -1405,7 +1407,7 @@
 1. 【[浇切糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_qih_tan.md#浇切糖)】`jio1 qih7 tan2` <small>/t͡ɕiɔ1 t͡ɕʰiɪʔ7 tʰaŋ2/<sup>兴化</sup>, /t͡ɕiɔ1 t͡ɕʰiʔ7 tʰã2/<sup>如皋</sup></small> ① 用芝麻和麦芽糖做成的薄片糖。<sup>\[如皋\]</sup> ② 由芝麻、砂糖和糖稀熬制成的薄片，切成长方形小块，有香、甜、跪的特点。也叫“浇切片”。<sup>\[兴化\]</sup> ③ 炒熟的芝麻与糖浆搅合均匀以后，倒入模中，冷却以后切成长方形的薄片。（如东称芝麻糖）<sup>\[泰州\]</sup>  
 1. 【[浇水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_shuei.md#浇水)】`jio1 shuei3` <small>/t͡ɕiɔ1 suəi3/<sup>兴化</sup>, /t͡ɕiɔ1 ɕyəɪ3/<sup>泰县</sup></small> ① 到茶水炉打开水。<sup>\[兴化\]</sup> ② 到水炉上去打水：他去～啊。<sup>\[泰县\]</sup>  
 1. 【[浇头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_teu.md#浇头)】`jio1 teu` <small>/t͡ɕiɔ1 tʰɤ/<sup>兴化</sup></small> ① 给菜肴添加的作料。<sup>\[如东\]</sup>：今天菜的～不错。<sup>\[如东\]</sup> ② 放在盛好的面条或者米饭上面的炒菜，也叫盖浇。<sup>\[东台\]</sup> ③ 加在面条或米饭上面的菜肴<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：～面<sup>\[兴化\]</sup>｜（王氏）就把后边西蓬壶馆中面卤汤，用小盆盛来做～。（《岐路灯》九九）<sup>\[兴化\]</sup>｜中上下面吃，弄点儿韭菜炒鸡蛋做～。<sup>\[泰州\]</sup>  
-1. 【[浇桩水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_zhuan_shuei.md#浇桩水)】`jio1 zhuan1 shuei3` <small>/t͡ɕiɔ1 t͡suã1 suei3/<sup>如皋</sup></small> ① 见“彩水”。<sup>\[如皋\]</sup> ② 旧时人力踏水车戽水时的有奖竞赛。此时戽的水多而急，且冲力大。多在抗旱抢水时采用。<sup>\[如皋\]</sup>  
+1. 【[浇桩水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_zhuan_shuei.md#浇桩水)】`jio1 zhuan1 shuei3` <small>/t͡ɕiɔ1 t͡suã1 suei3/<sup>如皋</sup></small> 旧时人力踏水车戽水时的有奖竞赛。此时戽的水多而急，且冲力大。多在抗旱抢水时采用。参见“彩水”。<sup>\[如皋\]</sup>  
 1. 【[焦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio.md#焦)】`jio1` <small>/t͡ɕiɔ1/<sup>兴化</sup></small> ① 烦闷无聊<sup>\[兴化\]</sup>：着～；～人子。<sup>\[兴化\]</sup> ② 表示瞧不起人的话<sup>\[兴化\]</sup>：～啊<sup>\[兴化\]</sup>｜～煞咖。<sup>\[兴化\]</sup> ③ 物体烧焦<sup>\[泰州\]</sup>：饭有～味。<sup>\[泰州\]</sup> ④ 烦躁，着急<sup>\[泰州\]</sup>：车子还不曾来，人等吖焦心煞咖。<sup>\[泰州\]</sup> ⑤ 面部消瘦灰黑的样子（*䩌）<sup>\[泰州\]</sup>：你脸上都发咖～，最好上医院望吖子。<sup>\[泰州\]</sup>  
 1. 【[焦疤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_ba_zz.md#焦疤子)】`jio1 ba1 zz` <sup>[泰州]</sup> 伤口痊愈后留下的黑红色痂皮。  
 1. 【[焦干逼卜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_gun_bieh_boh.md#焦干逼卜)】`jio1 gun1 bieh7 boh` <sup>[如东]</sup> 河里没有水，非常干燥。  

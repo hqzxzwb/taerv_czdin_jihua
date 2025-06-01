@@ -235,9 +235,11 @@
 1. 【[医家先生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_jia_xin_shen.md#医家先生)】`i1 jia1 xin1 shen` <sup>[兴化]</sup> 医生，尤指中医：……请～看病啊，买药啊，都要用钱。（扬二《吹箫过市》）  
 1. 【[医家先生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_jia_xin_shen.md#医家先生)】`i1 jia1 xin1 shen1` <sup>[泰州]</sup> 对医生的敬称：她这刀要请南京的～来开。  
 1. 【[衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#衣)】`i1` <sup>[如皋]</sup> ① 指胎盘：～胞、伢儿～。中药名“紫河车”。 ② 小麦粒上的壳、芦柴的叶柄：～裹儿。 ③ 服装：～裳、老～。  
+1. 【[衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#衣)】`i1` <small>/ʝ1/<sup>泰兴</sup></small> 指胎盘。<sup>\[泰兴\]</sup>  
 1. 【[衣胞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_bo.md#衣胞)】`i1 bo1` <small>/ʝ1 pɔ1/<sup>如皋</sup></small> ① 胎盘。<sup>\[如皋\]</sup><sup>\[如东\]</sup> ② 胞衣，包在胎儿体表上的一层胞膜。<sup>\[泰州\]</sup>  
 1. 【[衣胞地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_bo_ti.md#衣胞地)】`i1 bo1 ti6` <sup>[东台]</sup> ［借］人的出生地。人的胎盘和胎膜统称衣胞，也叫胎衣、胞衣。  
-1. 【[衣胞之地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_bo_zhr_ti.md#衣胞之地)】`i1 bo1 zhr1 ti6` <small>/i1 pɔ1 t͡sɿ1 tʰəi6/<sup>兴化</sup>, /ʝ1 pɔ1 t͡sɿ1 tʰʝ1/<sup>如皋</sup></small> 出生之地，埋衣胞的地方。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[兴化\]</sup>：如东是我的～。<sup>\[如东\]</sup>｜新娘的真哭，是因为突然离开～……（马春阳《扬州水乡婚俗散记》）<sup>\[兴化\]</sup>  
+1. 【[衣胞之地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_bo_zhr_ti.md#衣胞之地)】`i1 bo1 zhr1 ti6` <small>/i1 pɔ1 t͡sɿ1 tʰəi6/<sup>兴化</sup>, /ʝ1 pɔ1 t͡sɿ1 tʰʝ1/<sup>如皋</sup>, /ʝ1 pɔ1 t͡sɿ1 t͡ɕʰʝ1/<sup>泰兴</sup></small> 出生之地，埋衣胞的地方。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：如东是我的～。<sup>\[如东\]</sup>｜新娘的真哭，是因为突然离开～……（马春阳《扬州水乡婚俗散记》）<sup>\[兴化\]</sup>  
+1. 【[衣字旁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_cz_pan.md#衣字旁)】`i1 cz6 pan2` <small>/ʝ1 t͡sʰɿ1 pʰɑŋ2/<sup>泰兴</sup></small> 汉字偏旁之一，衤。<sup>\[泰兴\]</sup>  
 1. 【[衣兜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_deu.md#衣兜)】`i1 deu1` <sup>[兴化]</sup> 将长衫下摆的两角拎起，形成兜状，可临时放一点东西：儿歌：过年过年，果子搅钱，不要不要，～里一倒。  
 1. 【[衣店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_din.md#衣店)】`i1 din5` <small>/i1 tiɪ̃5/<sup>兴化</sup>, /ʝ1 tĩ5/<sup>如皋</sup></small> ① 卖旧衣的商店。旧时常与典当业配套。现已不见。<sup>\[如皋\]</sup> ② 旧时出售估衣或普通衣着的商店。<sup>\[兴化\]</sup>  
 1. 【[衣服新的好，人是旧的好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_foh_xien_dii.md#衣服新的好，人是旧的好)】`i1 foh xien1 dii ho3 ren2 shr6 qieu6 dii ho3` <sup>[东台]</sup> 熟人好谈事办事。  

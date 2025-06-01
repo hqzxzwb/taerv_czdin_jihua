@@ -1227,10 +1227,12 @@
 1. 【[充大头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_da_teu.md#充大头)】`chon1 da6 teu2` <sup>[如皋]</sup> 见“充能”。  
 1. 【[充儿灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_er_den.md#充儿灯)】`chon1 er2 den1` <small>/t͡sʰɔŋ1 ɚ2 təŋ1/<sup>如皋</sup></small> ① 充好汉。<sup>\[如皋\]</sup> ② 勉力装场面，摆阔气。<sup>\[如皋\]</sup>  
 1. 【[充公](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_gon.md#充公)】`chon1 gon1` <sup>[如东]</sup> 把违法者或犯罪者以及与案情有关者的财物没收归公。  
+1. 【[充贡呢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_gon_ni.md#充贡呢)】`chon1 gon5 ni2` <small>/t͡sʰɔŋ1 kɔŋ5 nʝ2/<sup>泰兴</sup></small> 布料的一种。乡间多用作鞋面布。<sup>\[泰兴\]</sup>  
 1. 【[充好汉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_ho_hun.md#充好汉)】`chon1 ho3 hun5` <sup>[如皋]</sup> 勉力装场面，摆阔气。  
 1. 【[充好佬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_ho_lo.md#充好佬)】`chon1 ho3 lo3` <sup>[如皋]</sup> 充好汉。  
 1. 【[充饥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_ji.md#充饥)】`chon1 ji1` <sup>[如东]</sup> 不加选择的吃一点儿食物对付饥饿。  
-1. 【[充军](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_jyen.md#充军)】`chon1 jyen1` <small>/t͡sʰoŋ1 t͡ɕyn1/<sup>兴化</sup></small> ① 本为一种流刑。东台话中用作詈语，指在外面盲目乱走。<sup>\[东台\]</sup> ② （借）骂人的话，谓跑远路或跑错了路<sup>\[兴化\]</sup>：为找个秘方，今朝～到荡朱荒草田里转吖半天。<sup>\[兴化\]</sup> ③ 骂人到处乱走，詈语<sup>\[泰州\]</sup>：这两天望不见他人，不晓得在哪块～。<sup>\[泰州\]</sup>  
+1. 【[充军](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_jyen.md#充军)】`chon1 jyen1` <small>/t͡sʰoŋ1 t͡ɕyn1/<sup>兴化</sup>, /t͡sʰɔŋ1 t͡ɕyəŋ1/<sup>泰兴</sup></small> ① （借）骂人的话，谓跑远路或跑错了路<sup>\[兴化\]</sup>：为找个秘方，今朝～到荡朱荒草田里转吖半天。<sup>\[兴化\]</sup> ② 骂人到处乱走，詈语<sup>\[泰州\]</sup><sup>\[泰兴\]</sup><sup>\[东台\]</sup>：这两天望不见他人，不晓得在哪块～。<sup>\[泰州\]</sup>  
+1. 【[充量](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_lian.md#充量)】`chon1 lian6` <small>/t͡sʰɔŋ1 liɑŋ1/<sup>泰兴</sup></small> 犹言过量。谓超出实际的限度。<sup>\[泰兴\]</sup>：今朝喝酒喝咖充吖量<sup>\[泰兴\]</sup>  
 1. 【[充老相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_lo_xian.md#充老相)】`chon1 lo3 xian5` <sup>[如皋]</sup> 见“充能”。  
 1. 【[充能](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_nen.md#充能)】`chon1 nen2` <sup>[如皋]</sup> 责备出头做某种难事者的用语：你去～有甚的好处哇？  
 1. 【[充水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_shuei.md#充水)】`chon1 shuei3` <small>/t͡sʰɔŋ1 suei3/<sup>如皋</sup></small> ① 到老虎灶去买热水。<sup>\[如东\]</sup> ② 去老虎灶买沸水或热水充入容器。<sup>\[如皋\]</sup>  
@@ -1239,11 +1241,11 @@
 1. 【[冲茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_cha.md#冲茶)】`chon1 cha2` <sup>[如东]</sup> 用茶壶或热水瓶向茶杯中倒开水，叫冲茶。  
 1. 【[冲场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_chan.md#冲场)】`chon1 chan2` <sup>[兴化]</sup> 外表：小王的～不丑，人还走得出去。  
 1. 【[冲场/充场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_chan.md#冲场/充场)】`chon1 chan2` <sup>[泰州]</sup> ① 指人的外貌、仪表：这小伙天天西装笔挺的，望起来～还像不丑。 ② 形式上，表面上：他家姑娘出门，迎亲的小汽车就几十挂，～蛮大的。  
-1. 【[冲家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_jia.md#冲家)】`chon1 jia1` <small>/t͡sʰoŋ1 t͡ɕia1/<sup>兴化</sup></small> ① 破产。<sup>\[如东\]</sup>：这趟生意朆做好，我俫冲吖家。<sup>\[如东\]</sup> ② 破产，资产都亏掉了。<sup>\[东台\]</sup> ③ 因遭横祸而荡尽家产<sup>\[兴化\]</sup>：小毛开车撞死人，这下子冲吖家。<sup>\[兴化\]</sup> ④ 古代江淮水患，洪水所到之处，房屋冲毁，家产殆尽，谓之“冲家”。比喻家庭因遭受变故致使财产损失殆尽<sup>\[泰州\]</sup>：他开车子把人家撞成植物人，这下子怕的要～。<sup>\[泰州\]</sup>  
+1. 【[冲家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_jia.md#冲家)】`chon1 jia1` <small>/t͡sʰoŋ1 t͡ɕia1/<sup>兴化</sup>, /t͡sʰɔŋ1 t͡ɕiɑ1/<sup>泰兴</sup></small> ① 破产。<sup>\[如东\]</sup>：这趟生意朆做好，我俫冲吖家。<sup>\[如东\]</sup> ② 破产，资产都亏掉了。<sup>\[东台\]</sup> ③ 因遭横祸而荡尽家产<sup>\[兴化\]</sup>：小毛开车撞死人，这下子冲吖家。<sup>\[兴化\]</sup> ④ 古代江淮水患，洪水所到之处，房屋冲毁，家产殆尽，谓之“冲家”。比喻家庭因遭受变故致使财产损失殆尽<sup>\[泰州\]</sup>：他开车子把人家撞成植物人，这下子怕的要～。<sup>\[泰州\]</sup> ⑤ 也作“充家”。整个家庭的资产全部损失殆尽。<sup>\[泰兴\]</sup>  
 1. 【[冲家货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_jia_hu.md#冲家货)】`chon1 jia1 hu5` <sup>[如东]</sup> 挥霍浪费、胡作非为的人：郑小明是个～。  
 1. 【[冲藕粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_ngeu_fen.md#冲藕粉)】`chon1 ngeu3 fen3` <sup>[如皋]</sup> 将藕粉先用冷水调好，再用沸水搅拌成熟后食用。  
 1. 【[冲水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_shuei.md#冲水)】`chon1 shuei3` <sup>[泰州]</sup> 灌注开水：他～去啊。  
-1. 【[冲喜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_xi.md#冲喜)】`chon1 xi3` ① 为生病的老人做寿（棺）材，叫做冲喜。<sup>\[如东\]</sup> ② 结婚消灾。<sup>\[如东\]</sup> ③ 旧时迷信风俗，用办喜事的喜气冲去不祥之气。<sup>\[东台\]</sup> ④ 旧时迷信，家中有人病重时，通过办喜事迎娶新娘来去除邪祟，以达到病人转危为安的目的。<sup>\[泰州\]</sup>  
+1. 【[冲喜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_xi.md#冲喜)】`chon1 xi3` <small>/t͡sʰɔŋ1 ɕʝ3/<sup>泰兴</sup></small> ① 为生病的老人做寿（棺）材，叫做冲喜。<sup>\[如东\]</sup> ② 结婚消灾。<sup>\[如东\]</sup> ③ 旧时迷信风俗，用办喜事的喜气冲去不祥之气。<sup>\[东台\]</sup> ④ 旧时迷信，家中有人病重时，通过办喜事迎娶新娘来去除邪祟，以达到病人转危为安的目的。<sup>\[泰州\]</sup> ⑤ 旧时迷信家中有不幸时，用办喜事的手段来驱除邪祟，以求转危为安，称为“冲喜”。<sup>\[泰兴\]</sup>  
 1. 【[冲账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_zhan.md#冲账)】`chon1 zhan5` <sup>[东台]</sup> 收支账目或往来两户应支付的款项互相抵消。  
 1. 【[冲澡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_zo.md#冲澡)】`chon1 zo3` <sup>[如东]</sup> 用水冲洗身体。  
 1. 【[舂粉面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_fen_min.md#舂粉面)】`chon1 fen3 min6` <sup>[泰州]</sup> 一种粮食加工方法，将浸泡过的糯米晾干后，放在石臼中用杵捣成粉。  

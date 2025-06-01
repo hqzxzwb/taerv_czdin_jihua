@@ -1485,10 +1485,11 @@
 1. 【[妆妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuan_ma.md#妆妈)】`zhuan1 ma1` <small>/t͡suã1 ma1/<sup>如皋</sup></small> ① 见“扯脸的”。<sup>\[如皋\]</sup> ② 为新娘梳洗打扮的女人，称妆妈。<sup>\[如东\]</sup>  
 1. 【[妆新](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuan_xien.md#妆新)】`zhuan1 xien1` <sup>[东台]</sup> 为新郎新娘结婚准备衣物。  
 1. 【[庄家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuan_ga.md#庄家)】`zhuan1 ga` ① 在打牌游戏中，负责洗牌的人为庄家。也称头家。<sup>\[如东\]</sup> ② 赌博中每一局的主持人。其输赢均比其他牌友翻番。也称“坐庄”。<sup>\[东台\]</sup> ③ 赌博或者某些牌戏中每一局的主持人。<sup>\[泰州\]</sup>  
-1. 【[庄户人家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuan_hv_ren_ga.md#庄户人家)】`zhuan1 hv6 ren2 ga` <small>/t͡suã1 fu1 ɻəŋ2 ka/<sup>如皋</sup></small> ① 农家。<sup>\[如皋\]</sup> ② 旧时农村人群的自称。<sup>\[东台\]</sup>  
+1. 【[庄户人家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuan_hv_ren_ga.md#庄户人家)】`zhuan1 hv6 ren2 ga` <small>/t͡suã1 fu1 ɻəŋ2 ka/<sup>如皋</sup>, /t͡suɑŋ1 fʋ1 ɻəŋ2 kɑ/<sup>泰兴</sup></small> 农家。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>\[东台：旧时农村人群的自称。\]  
 1. 【[庄户人家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuan_hv_ren_jia.md#庄户人家)】`zhuan1 hv6 ren2 jia1` <sup>[如东]</sup> 以种庄稼为主要职业的农户，称庄户人家。  
 1. 【[庄基](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuan_ji.md#庄基)】`zhuan1 ji1` <sup>[兴化]</sup> 高于周围田地，用来建设村庄的地方：施家桥～｜（兵马）就札住在晁盖的～上，埋锅造饭。（《水浒后传》二九）  
 1. 【[庄客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuan_keh.md#庄客)】`zhuan1 keh7` <sup>[东台]</sup> ① 旧时商家外派从事经营活动的职员，彼此互称“××宝号～”。 ② 本庄邻居做客：请～。  
+1. 【[庄头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuan_teu.md#庄头)】`zhuan1 teu2` <small>/t͡suɑŋ1 tʰəɪ2/<sup>泰兴</sup></small> 旧时乡村小吏，相当于村长。<sup>\[泰兴\]</sup>  
 1. 【[庄主](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuan_zhv.md#庄主)】`zhuan1 zhv3` <small>/t͡suaŋ1 t͡su3/<sup>兴化</sup>, /t͡suã1 t͡su3/<sup>如皋</sup></small> ① 农庄主人。<sup>\[如皋\]</sup> ② 主张<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：把～拿啊一当吖，不要乱神<sup>\[如皋\]</sup>｜你一个男子汉，遇事连一个～也没得。<sup>\[兴化\]</sup>｜“……因此留你在家看守。自有别人管账，只教你做个～。”（《水浒传》六一）<sup>\[兴化\]</sup>｜你是一把手，你要拿个～，别人才好弄。<sup>\[泰州\]</sup>  
 1. 【[庄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuan_zz.md#庄子)】`zhuan1 zz` <sup>[东台]</sup> 堤西农村对村庄的称呼。  
 1. 【[桩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuan.md#桩)】`zhuan1` <sup>[如皋]</sup> 见“㹕”。  
@@ -1540,13 +1541,15 @@
 1. 【[𢪾𢪾齐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuan_zhuan_qi.md#𢪾𢪾齐)】`zhuan3 zhuan qi2` <sup>[如皋]</sup> 整理整齐。  
 1. 【[𢪾𢪾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuan_zhuan.md#𢪾𢪾)】`zhuan3 zhuan3` <sup>[如东]</sup> 整理整理：把草～，准备上屋。  
 1. 【[𢪾𢪾齐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuan_zhuan_qi.md#𢪾𢪾齐)】`zhuan3 zhuan3 qi2` <sup>[如皋]</sup> 使整齐。  
-1. 【[壮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuan.md#壮)】`zhuan5` <small>/t͡suã5/<sup>如皋</sup></small> ① 肥胖：～猪。<sup>\[如皋\]</sup> ② 健壮有力：年轻力～、～小伙。<sup>\[如皋\]</sup> ③ 肥力：田里～。<sup>\[如皋\]</sup> ④ 肥料：垩～气。<sup>\[如皋\]</sup> ⑤ 长势旺：玉米长得～。<sup>\[如皋\]</sup> ⑥ 使增强：～胆。<sup>\[如皋\]</sup> ⑦ 胖。<sup>\[如东\]</sup>：这人交关～。<sup>\[如东\]</sup> ⑧ 肥。<sup>\[如东\]</sup>：用豆饼做肥料交关～。<sup>\[如东\]</sup> ⑨ 牲畜膘情好。<sup>\[如东\]</sup>：牛交关～。<sup>\[如东\]</sup> ⑩ 鱼、虾、蟹肉肥。<sup>\[如东\]</sup>：螃蟹交关～。<sup>\[如东\]</sup> ⑪ 禾苗长势好。<sup>\[如东\]</sup>：玉米苗～。<sup>\[如东\]</sup>  
+1. 【[壮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuan.md#壮)】`zhuan5` <small>/t͡suã5/<sup>如皋</sup>, /t͡suɑŋ5/<sup>泰兴</sup></small> ① 肥胖<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：～猪。<sup>\[如皋\]</sup>｜把猪子养养～再杀。<sup>\[泰兴\]</sup> ② 健壮有力<sup>\[如皋\]</sup>：年轻力～、～小伙。<sup>\[如皋\]</sup> ③ 肥力<sup>\[如皋\]</sup>：田里～。<sup>\[如皋\]</sup>｜垩～气。<sup>\[如皋\]</sup> ④ 长势旺<sup>\[如皋\]</sup><sup>\[如东\]</sup>：玉米长得～。<sup>\[如皋\]</sup>｜玉米苗～。<sup>\[如东\]</sup> ⑤ 使增强<sup>\[如皋\]</sup>：～胆。<sup>\[如皋\]</sup> ⑥ 胖。<sup>\[如东\]</sup>：这人交关～。<sup>\[如东\]</sup> ⑦ 肥。<sup>\[如东\]</sup>：用豆饼做肥料交关～。<sup>\[如东\]</sup> ⑧ 牲畜膘情好。<sup>\[如东\]</sup>：牛交关～。<sup>\[如东\]</sup> ⑨ 鱼、虾、蟹肉肥。<sup>\[如东\]</sup>：螃蟹交关～。<sup>\[如东\]</sup>  
 1. 【[壮胆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuan_daen.md#壮胆)】`zhuan5 daen3` <sup>[如东]</sup> 因为有人或物的支撑而变得胆大：夜里走路，有这根手电筒给我～。  
 1. 【[壮酵馒头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuan_go_mun_teu.md#壮酵馒头)】`zhuan5 go5 mun2 teu` <sup>[东台]</sup> 面粉拌和发酵时加水较少蒸成的馒头。  
 1. 【[壮气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuan_qi.md#壮气)】`zhuan5 qi5` <sup>[如东]</sup> 肥料：给玉米上～。  
+1. 【[壮气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuan_qi.md#壮气)】`zhuan5 qi5` <small>/t͡suɑŋ5 t͡ɕʰʝ5/<sup>泰兴</sup></small> 肥料的质量效果。<sup>\[泰兴\]</sup>：（肥料）～足<sup>\[泰兴\]</sup>  
 1. 【[壮实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuan_sheh.md#壮实)】`zhuan5 sheh` <sup>[东台]</sup> 胖且肌肉结实，与肥胖有区别：你家小伙长得蛮～的。  
 1. 【[壮势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuan_shr.md#壮势)】`zhuan5 shr5` <sup>[兴化]</sup> 撑场面：明朝儿子结婚，把城里的舅舅、姨丈带下来壮壮势。｜“这是你表叔的替身呀……人家哪个不巴望他去～……”（钱国怀《礼帽》）也说“壮台面”。  
 1. 【[壮台面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuan_tae_min.md#壮台面)】`zhuan5 tae2 min6` <sup>[兴化]</sup> 撑场面。  
+1. 【[壮猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuan_zhv.md#壮猪)】`zhuan5 zhv` <small>/t͡suɑŋ5 t͡su/<sup>泰兴</sup></small> 肥猪，即将出栏的猪。<sup>\[泰兴\]</sup>  
 1. 【[壮猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuan_zhv.md#壮猪)】`zhuan5 zhv1` <sup>[如东]</sup> 骟过的猪称壮猪。也称肉猪。  
 1. 【[䂐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhueh.md#䂐)】`zhueh7` <small>/t͡suəʔ7/<sup>兴化</sup></small> ① 短；矮<sup>\[东台\]</sup>：短～～。<sup>\[东台\]</sup> ② 短<sup>\[兴化\]</sup>：褂子～咖身上。《广韵·术韵》竹律切<sup>\[兴化\]</sup>｜“～，短貌。”<sup>\[兴化\]</sup>  
 1. 【[追](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuei.md#追)】`zhuei1` <sup>[如东]</sup> ① 快跑，追赶：他跑啊啦，你快点儿去～。 ② 催：他办事，你不要～。 ③ 逼：这件事，你要～他。  
