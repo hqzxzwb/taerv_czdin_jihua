@@ -8,3 +8,8 @@ qi2 zhuah7 zhuah7
 qi2 zhuah7 zhuah7
 > 泰县方言志
 - 整整齐齐：这卡片放吖～的。
+
+# 齐卓卓
+qi2 zhuah7 zhuah7
++ 整齐。
+  * 泰兴方言辞典
