@@ -8,3 +8,10 @@ sheh7 er daeh7 er
 sheh8 er6 daeh7 er6
 > 泰县方言志
 - 老是说些不好听的话。
+
+
+# 湿二溚二的
+sheh7 er daeh7 er dii
+> 如皋方言词典
+- 说话不干不净，带草字
+  - 他说话～，我不高兴睬他。

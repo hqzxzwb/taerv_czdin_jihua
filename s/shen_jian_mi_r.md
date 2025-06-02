@@ -6,3 +6,8 @@ shen1 jian1 mi3 r
   * 泰县方言志
 + 处处配得上：～的干部。
   * 泰县方言志
+
+
+# 生姜米儿——块块搭
+shen1 jian1 mi3 r kuae5 kuae5 daeh7
+> 东台方言词典
