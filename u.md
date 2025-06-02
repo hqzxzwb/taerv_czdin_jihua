@@ -58,6 +58,7 @@
 1. 【[阿弥陀佛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_mi_tu_feh.md#阿弥陀佛)】`u1 mi tu2 feh8` <small>/ʊ1 mʝ tʰʊ2 fəʔ8/<sup>如皋</sup></small> ① 幸灾乐祸。<sup>\[如皋\]</sup><sup>\[泰州\]</sup>：～，这种坏人，公家早就该把他捉起来！<sup>\[泰州\]</sup> ② 表示庆幸<sup>\[泰州\]</sup>：～，三小终于考上泰中唻，他家老子也有啊命唻！<sup>\[泰州\]</sup> ③ 谓人善良、与世无争<sup>\[泰州\]</sup>：你说的话我不相信，她是个～的人，怎吖可能做这些事！<sup>\[泰州\]</sup>  
 1. 【[阿弥陀佛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_mi_tu_feh.md#阿弥陀佛)】`u1 mi2 tu2 feh8` <sup>[如东]</sup> ① 大乘佛教的教名。是“西方极乐世界”的教主，为净士宗主要信仰对象。也译作无量寿佛或无量光佛。后世所谓念佛，多指念阿弥陀佛名号。信佛的人口头诵念佛号，表示祈祷或感谢神灵的意思。 ② 比喻善良忠厚的人。泛指老好人：他是一个～。 ③ 表示兴灾乐祸：～！到底出咖事。  
 1. 【[唩啰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_lu.md#唩啰)】`u2 lu2` <sup>[如皋]</sup> 唤犬声。  
+1. 【[讹错](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_cu.md#讹错)】`u2 cu` <small>/ɤɯ2 t͡sʰɤɯ/<sup>泰兴</sup></small> 差错；相差<sup>\[泰兴\]</sup>：一点儿～也没得<sup>\[泰兴\]</sup>｜说的五个，只看见三个，～两个<sup>\[泰兴\]</sup>  
 1. 【[涴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u.md#涴)】`u5` <small>/o5/<sup>兴化</sup></small> ① 污渍<sup>\[兴化\]</sup>：衣裳上有两片～斑，洗来洗去也洗不干净。<sup>\[兴化\]</sup> ② 被污损的东西<sup>\[兴化\]</sup>：～卷。<sup>\[兴化\]</sup> ③ 洇渗<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：墨水～开来啊。<sup>\[兴化\]</sup>｜毛笔上墨汁太多，把宣纸都弄吖～啊来。<sup>\[泰州\]</sup>｜他肩膀上的皮捱磨掉啊，白衬衫上都～啊血。<sup>\[泰州\]</sup>  
 1. 【[涴不清](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_beh_qien.md#涴不清)】`u5 beh qien1` <sup>[泰县]</sup> 搞不清楚不清：他～，你把事情的经过由头至尾说一下。  
 1. 【[涴鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_ji.md#涴鸡)】`u5 ji1` <sup>[泰县]</sup> 不守信誉：这个人打牌会～。  
@@ -146,7 +147,7 @@
 1. 【[安家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_ga.md#安家)】`un1 ga1` <sup>[如东]</sup> 安置家庭。  
 1. 【[安根](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_gen.md#安根)】`un1 gen1` <sup>[兴化]</sup> 事先准备，打点关节：他为儿子上好学校，三年前就～，把户口转到有关的施教区。  
 1. 【[安逸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_ieh.md#安逸)】`un1-u1 ieh` <sup>[泰县]</sup> 舒适：现在日子蛮～的。  
-1. 【[安逸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_ieh.md#安逸)】`un1 ieh` <small>/ũ1 iəʔ/<sup>兴化</sup></small> ① 安闲舒适。安排好了。<sup>\[如东\]</sup>：忙吖这吖多天，现在总算～咖。<sup>\[如东\]</sup> ② 安稳，逸当，舒适。<sup>\[东台\]</sup> ③ 心安：你这吖客气，我反而不～。<sup>\[兴化\]</sup> ④ 安闲舒适<sup>\[泰州\]</sup>：老两口儿退休工资用不完，小日子过得蛮～的。<sup>\[泰州\]</sup> ⑤ 安稳，太平无事<sup>\[泰州\]</sup>：他这两天不闹唻，家里稍微～些唻。<sup>\[泰州\]</sup>  
+1. 【[安逸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_ieh.md#安逸)】`un1 ieh` <small>/ũ1 iəʔ/<sup>兴化</sup>, /ʊ̃1 iʔ/<sup>泰兴</sup></small> ① 安闲舒适。安排好了。<sup>\[如东\]</sup>：忙吖这吖多天，现在总算～咖。<sup>\[如东\]</sup> ② 安稳，逸当，舒适。<sup>\[东台\]</sup> ③ 心安：你这吖客气，我反而不～。<sup>\[兴化\]</sup> ④ 安闲舒适<sup>\[泰州\]</sup>：老两口儿退休工资用不完，小日子过得蛮～的。<sup>\[泰州\]</sup> ⑤ 安稳，太平无事<sup>\[泰州\]</sup>：他这两天不闹唻，家里稍微～些唻。<sup>\[泰州\]</sup> ⑥ 安闲舒适。舒服。\[泰兴：又音 u1 ieh\]  
 1. 【[安逸饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_ieh_faen.md#安逸饭)】`un1 ieh faen6` <sup>[泰州]</sup> 比喻稳定而无风险的生活：人家有本事的都辞啊职下海办公司，我们没得本事的人就老老实实在厂里上班，吃个～吧。  
 1. 【[安乐菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_lah_cae.md#安乐菜)】`un1 lah8 cae5` <sup>[泰县]</sup> 豌豆苗。  
 1. 【[安落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_lah.md#安落)】`un1 lah8` <sup>[如东]</sup> 安排妥当。安定下来  

@@ -769,7 +769,8 @@
 1. 【[兴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien.md#兴)】`xien1` <sup>[如皋]</sup> 时尚：现在不～穿中式服装吖。  
 1. 【[兴秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_chen.md#兴秤)】`xien1 chen5` <sup>[如皋]</sup> 购秤兴，购秤专用吉语。  
 1. 【[兴灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_den.md#兴灯)】`xien1 den1` <sup>[如皋]</sup> 举行灯会。  
-1. 【[兴时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_shr.md#兴时)】`xien1 shr2` <small>/ɕin1 sɿ2/<sup>兴化</sup>, /ɕiəŋ1 sɿ2/<sup>如皋</sup></small> 时尚，时兴，流行<sup>\[如皋\]</sup><sup>\[兴化\]</sup>：今年春节，市面上～唐装。也作“习时”。<sup>\[兴化\]</sup>  
+1. 【[兴灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_den.md#兴灯)】`xien1 den1` <small>/ɕiŋ1 təŋ1/<sup>泰兴</sup></small> 规模较大的灯会。<sup>\[泰兴\]</sup>：今朝街上～，大家去望望<sup>\[泰兴\]</sup>  
+1. 【[兴时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_shr.md#兴时)】`xien1 shr2` <small>/ɕin1 sɿ2/<sup>兴化</sup>, /ɕiəŋ1 sɿ2/<sup>如皋</sup>, /ɕiŋ1 sɿ2/<sup>泰兴</sup></small> 时尚，时兴，流行<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：今年春节，市面上～唐装。也作“习时”。<sup>\[兴化\]</sup>｜眼下唐装只叫个～<sup>\[泰兴\]</sup>  
 1. 【[兴头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_teu.md#兴头)】`xien1 teu2` <sup>[如皋]</sup> 带头发起，最先。  
 1. 【[心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien.md#心)】`xien1` <small>/ɕiəŋ1/<sup>如皋</sup>, /ɕiŋ1/<sup>泰兴</sup></small> ① 期间<sup>\[如皋\]</sup>：水～里（发大水期间）。<sup>\[如皋\]</sup> ② 日光下、月光下<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：太阳～里<sup>\[如皋\]</sup>｜凉月子～里<sup>\[如皋\]</sup> ③ 泛指物体中央<sup>\[泰州\]</sup>：船停吖江～里。<sup>\[泰州\]</sup>  
 1. 【[心肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_chan.md#心肠)】`xien1 chan2` <small>/ɕiŋ1 t͡sʰɑŋ2/<sup>泰县</sup></small> ① 良心。<sup>\[如东\]</sup>：她的～好。<sup>\[如东\]</sup> ② 用心；存心<sup>\[东台\]</sup>：～好。<sup>\[东台\]</sup> ③ 心术、品德<sup>\[东台\]</sup>：菩萨～。<sup>\[东台\]</sup> ④ 心思：这时候没～打扑克。<sup>\[泰县\]</sup>  
@@ -1008,10 +1009,12 @@
 1. 【[兴头忙忙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_teu_man_man.md#兴头忙忙)】`xien5 teu man2 man2` <sup>[兴化]</sup> ① 兴冲冲地：他～的去看戏，不巧停演，只得扫兴而归。 ② 兴头正足的时候：他说得～的，你覅打岔。  
 1. 【[兴头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_teu.md#兴头)】`xien5 teu2` <sup>[兴化]</sup> ① 乐趣：他听人一说，上网的～大发起来。 ② 正在兴致很高的时候：他正玩在～上，喊也喊不走。  
 1. 【[兴头上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_teu_shan.md#兴头上)】`xien5 teu2 shan` <sup>[泰州]</sup> 正在兴致很高的时候：她唱歌正在～，等她唱过啊再喊她。  
+1. 【[兴头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_teu_zz.md#兴头子)】`xien5 teu2 zz` <small>/ɕiŋ5 tʰəɪ2 t͡sɿ/<sup>泰兴</sup></small> 兴头<sup>\[泰兴\]</sup>  
 1. 【[兴兴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_xien_dii.md#兴兴的)】`xien5 xien5 dii` <sup>[如皋]</sup> 见“行行的”。  
 1. 【[兴兴乓乓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_xien_pan_pan.md#兴兴乓乓)】`xien5 xien5 pan1 pan1` <sup>[如皋]</sup> 十分高兴地：他～的来，哭哭啼啼的走，真叫人难为情！  
 1. 【[兴兴头上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_xien_teu_shan.md#兴兴头上)】`xien5 xien5 teu2 shan` <sup>[东台]</sup> 兴趣正液、兴头正足时；人家正在～，你不要泼冷水！  
 1. 【[兴长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_zhan.md#兴长)】`xien5 zhan3` <sup>[如皋]</sup> 正处于生长旺盛期。  
+1. 【[兴长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_zhan.md#兴长)】`xien5 zhan3` <small>/ɕiŋ5 t͡sɑŋ3/<sup>泰兴</sup></small> 正是兴旺生长的时候。<sup>\[泰兴\]</sup>  
 1. 【[囟囊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_nan_zz.md#囟囊子)】`xien5 nan2 zz` <sup>[如东]</sup> 婴儿头顶骨未合缝的地方，在头顶的前部中央。也叫囟（顖）门、脑门儿。  
 1. 【[囟娘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_nian_zz.md#囟娘子)】`xien5 nian zz` <small>/ɕiəŋ5 niã t͡sɿ/<sup>如皋</sup>, /ɕiŋ5 niɑŋ t͡sɿ/<sup>泰兴</sup></small> 前囟门。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
 1. 【[姓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien.md#姓)】`xien5` <sup>[如皋]</sup> 将要，必定：这只鸡～杀；这只碗～打；这幅画～卖。  

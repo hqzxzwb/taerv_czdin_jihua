@@ -405,7 +405,7 @@
 1. 【[纺车<sub>儿</sub>篷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_cha_r_pon.md#纺车<sub>儿</sub>篷子)】`fan3 cha1 r pon2 zz` <sup>[如皋]</sup> 用竹竿和绳绷成的圆盘，径约100cm，厚约20cm，轴上连带摇柄，是手摇纺纱机械的主动轮。  
 1. 【[纺纱婆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_sha_pu.md#纺纱婆)】`fan3 sha1 pu2` <sup>[如东]</sup> 螽斯科昆虫纺织娘。绿色或褐色。  
 1. 【[纺织工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_zheh_gon.md#纺织工)】`fan3 zheh7 gon1` <sup>[如东]</sup> 工种的一种。以操纵纺织机械织布为职业的工人。  
-1. 【[访亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_qien.md#访亲)】`fan3 qien1` <small>/faŋ3 t͡ɕʰin1/<sup>兴化</sup>, /fã3 t͡ɕʰiəŋ1/<sup>如皋</sup></small> ① 通过私访，了解准备结亲的对方的人品、家庭等情况。<sup>\[如皋\]</sup> ② 男女谈对象时，父母及家人以多种方式了解对方情况。<sup>\[东台\]</sup> ③ 民俗：在缔结婚约之前，男女双方的父母、亲友互访对方情况。<sup>\[兴化\]</sup> ④ 男女双方确定婚姻关系之前，双方家长各自请人向第三方了解对方情况<sup>\[泰州\]</sup>：这两天他家家里可能要着人来～。<sup>\[泰州\]</sup>  
+1. 【[访亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_qien.md#访亲)】`fan3 qien1` <small>/faŋ3 t͡ɕʰin1/<sup>兴化</sup>, /fã3 t͡ɕʰiəŋ1/<sup>如皋</sup>, /fɑŋ3 t͡ɕʰiŋ1/<sup>泰兴</sup></small> ① 通过私访，了解准备结亲的对方的人品、家庭等情况。<sup>\[如皋\]</sup> ② 男女谈对象时，父母及家人以多种方式了解对方情况。<sup>\[东台\]</sup> ③ 民俗：在缔结婚约之前，男女双方的父母、亲友互访对方情况。<sup>\[兴化\]</sup> ④ 男女双方确定婚姻关系之前，双方家长各自请人向第三方了解对方情况<sup>\[泰州\]</sup>：这两天他家家里可能要着人来～。<sup>\[泰州\]</sup> ⑤ 旧俗谓向准备做亲的对方了解情况，为作出决断提供依据的过程。<sup>\[泰兴\]</sup>  
 1. 【[放坝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_ba.md#放坝)】`fan5 ba5` <sup>[兴化]</sup> 开坝放水：民国二十年～，里下河地区成吖一片汪洋。  
 1. 【[放苍蝇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_can_ien.md#放苍蝇)】`fan5 can1 ien` <sup>[东台]</sup> 提供假信息，让人上当。  
 1. 【[放场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_chan.md#放场)】`fan5 chan2` <sup>[如东]</sup> 供牛羊自由放牧的大片草场，叫放场。  

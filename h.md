@@ -1474,6 +1474,7 @@
 1. 【[㩓掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_tio.md#㩓掉)】`huae3 tio` <sup>[东台]</sup> 甩掉：把手上的泥～！  
 1. 【[坏兆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_cho.md#坏兆)】`huae6 cho6` <sup>[兴化]</sup> 不好的兆头：“……二柱是黄鼠狼养在鸡窝里，～！”（马春阳《两个小社员》）  
 1. 【[坏讼子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_con_zz.md#坏讼子)】`huae6 con5 zz` <sup>[如皋]</sup> 出坏主意的人。讼，邪母字，同从母。  
+1. 【[坏讼师](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_con_shr.md#坏讼师)】`huae6 con6 shr1` <small>/xuɛ1 t͡sʰɔŋ1 sɿ1/<sup>泰兴</sup></small> 躲在背后出歪点子的人<sup>\[泰兴\]</sup>  
 1. 【[坏瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_gua.md#坏瓜)】`huae6 gua1` <sup>[兴化]</sup> （借）专出坏主意，专门对人施暗算的人：～主意。  
 1. 【[坏瓜秀才](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_gua_xieu_cae.md#坏瓜秀才)】`huae6 gua1 xieu5 cae` <sup>[兴化]</sup> 旧谓品格低下的文人：他是有名的～，专门把持官府，写黑信，告习状。  
 1. 【[坏规矩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_guei_jy.md#坏规矩)】`huae6 guei1 jy` <sup>[如皋]</sup> 破坏原有的规矩：我在你家就听你的，不～。  
@@ -2219,6 +2220,7 @@
 1. 【[寒天时候](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_tin_shr_heu.md#寒天时候)】`hun2 tin1 shr2 heu` <sup>[如皋]</sup> 冬天。  
 1. 【[寒心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_xien.md#寒心)】`hun2 xien1` <sup>[东台]</sup> 令人失望而痛心。  
 1. 【[汗毛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_mo_zz.md#汗毛子)】`hun2 mo2 zz` <small>/xʊ̃2 mɔ2 t͡sɿ/<sup>泰兴</sup></small> 又作“寒毛子”。人体表皮上的细毛。<sup>\[泰兴\]</sup>：吓得浑身～总竖起来啊。<sup>\[泰兴\]</sup>  
+1. 【[汗毛子竖竖的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_mo_zz_shv.md#汗毛子竖竖的)】`hun2 mo2 zz shv6 shv6 dii` <small>/xʊ̃2 mɔ2 t͡sɿ su1 su1 təɪ/<sup>泰兴</sup></small> 因恐惧而汗毛竖立，浑身起鸡皮疙瘩。形容害怕的样子。<sup>\[泰兴\]</sup>  
 1. 【[涵筒桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_ton_qio.md#涵筒桥)】`hun2 ton3 qio2` <sup>[如皋]</sup> 桥式的高架涵筒。  
 1. 【[涵洞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_ton.md#涵洞)】`hun2 ton6` <sup>[如东]</sup> 公路与沟渠相接的通道，使水从公路下边流过去。一般孔径较小。作用与桥相似。  
 1. 【[涵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_zz.md#涵子)】`hun2 zz` <small>/xõ2 t͡se/<sup>泰县</sup></small> 涵洞，道路与沟渠相交的设施，使水从路下流过的通道。<sup>\[东台\]</sup><sup>\[泰县\]</sup>  
@@ -2271,6 +2273,7 @@
 1. 【[旱道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_to.md#旱道)】`hun6 to6` <sup>[兴化]</sup> 旱路：这次上徐州走～。  
 1. 【[旱桩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_zhuan.md#旱桩)】`hun6 zhuan1` <sup>[如东]</sup> 水车部件。木条，竖在水车两侧，上面搁置伏桁。  
 1. 【[汗巴雨淋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_ba_y_lien.md#汗巴雨淋)】`hun6 ba1 y3 lien2` <small>/xũ6 pa1 y3 liɪ̃2/<sup>兴化</sup>, /xʊ̃1 pa1 y3 liəŋ2/<sup>如皋</sup>, /xʊ̃1 pɑ1 y3 liŋ2/<sup>泰兴</sup></small> 大汗淋漓的样子。<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：两个人顺着大花缸跑了，弟弟怎么也赶不上姐姐，累得～的。（兴文：《人的由来》）<sup>\[兴化\]</sup>  
+1. 【[汗斑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_baen.md#汗斑)】`hun6 baen1` <small>/xʊ̃1 pɛ̃1/<sup>泰兴</sup></small> 体表的一种浅色的斑点。<sup>\[泰兴\]</sup>  
 1. 【[汗𪞚𪞚的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_cheh_cheh_dii.md#汗𪞚𪞚的)】`hun6 cheh cheh7 dii` <sup>[如皋]</sup> 微汗。  
 1. 【[汗𪞚𪞚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_cheh_cheh.md#汗𪞚𪞚)】`hun6 cheh7 cheh7` <sup>[东台]</sup> 皮肤略微有汗。  
 1. 【[汗直𨂸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_cheh_heu.md#汗直𨂸)】`hun6 cheh8 heu2` <sup>[东台]</sup> 形容人紧张得淌汗。  
@@ -2284,6 +2287,7 @@
 1. 【[汗喷气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_pen_qi.md#汗喷气)】`hun6 pen1 qi` <sup>[如皋]</sup> 汗味。  
 1. 【[汗衫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_shaen.md#汗衫)】`hun6 shaen1` T恤  
 1. 【[汗衫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_shaen_r.md#汗衫<sub>儿</sub>)】`hun6 shaen1 r` <sup>[如东]</sup> 一种细纱针织衬衣。  
+1. 【[汗酸味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_sun_vei.md#汗酸味)】`hun6 sun1 vei6` <small>/xʊ̃1 sʊ̃1 ʋəɪ1/<sup>泰兴</sup></small> 汗臭气味。<sup>\[泰兴\]</sup>  
 1. 【[汗似雨淋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_sz_y_lien.md#汗似雨淋)】`hun6 sz6 y3 lien2` <sup>[泰州]</sup> 汗流浃背的样子：才打过球，身上～的。  
 1. 【[汗淌淌的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_tan_tan_dii.md#汗淌淌的)】`hun6 tan3 tan3 dii` <sup>[泰州]</sup> 汗流不停的样子：忙得～的，快歇咖子。  
 1. 【[汗体](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_ti.md#汗体)】`hun6 ti3` <sup>[如皋]</sup> 容易出汗的体质。  
@@ -2291,6 +2295,7 @@
 1. 【[汗腥气味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_xien_qi_vei.md#汗腥气味)】`hun6 xien1 qi vei6` <sup>[如皋]</sup> 汗臭味。  
 1. 【[汗腥气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_xien_qi.md#汗腥气)】`hun6 xien1 qi5` <sup>[如东]</sup> 人体出汗未作清洗而散发着一种汗臭气味，称汗腥气。  
 1. 【[汗腥味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_xien_vei.md#汗腥味)】`hun6 xien1 vei6` ① 出汗后发出的酸味。<sup>\[东台\]</sup> ② 汗渍发出的腥臭气味<sup>\[泰州\]</sup>：这件衣裳有啊～，不能穿唻。<sup>\[泰州\]</sup>  
+1. 【[汗渍渍的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_zz_zz_dii.md#汗渍渍的)】`hun6 zz5 zz5 dii` <small>/xʊ̃1 t͡sɿ5 t͡sɿ5 təɪ/<sup>泰兴</sup></small> 身上出汗的样子。<sup>\[泰兴\]</sup>  
 1. 【[蔊菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_cae.md#蔊菜)】`hun6 cae5` <sup>[如东]</sup> 十字花科植物蔊菜，又名野麻菜，多年生草本。  
 1. 【[𤽂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun.md#𤽂)】`hun6` <small>/xũ6/<sup>兴化</sup></small> ① 生醭，咸菜及其卤汁中白色的霉点。《集韵·翰韵》侯旰切：“～，《博雅》白也。”<sup>\[兴化\]</sup>：咸菜～吖<sup>\[兴化\]</sup> ② 咸菜等生出白色霉点<sup>\[泰州\]</sup>：这个咸菜～掉唻。<sup>\[泰州\]</sup>  
 1. 【[𤽂吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_nga.md#𤽂吖)】`hun6 nga` <sup>[如皋]</sup> 酱、腌、卤制的蔬菜表面轻度变质，但未上毛霉烂。  

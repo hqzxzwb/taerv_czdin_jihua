@@ -479,6 +479,7 @@
 1. 【[□<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_r.md#□<sub>儿</sub>)】`man2 r` <sup>[如东]</sup> 容器。用线绳结成体积很大的网袋，两头都可以收紧，用以装鱼虾等海货。  
 1. 【[忙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man.md#忙)】`man2` <small>/maŋ2/<sup>兴化</sup></small> ① 弄、操办<sup>\[兴化\]</sup>：～饭<sup>\[兴化\]</sup>｜～菜。<sup>\[兴化\]</sup> ② 做，抓紧做某事<sup>\[泰州\]</sup>：饭～吖好啊，还要～菜。<sup>\[泰州\]</sup>｜你～你的正事，不要管我。<sup>\[泰州\]</sup>  
 1. 【[忙不过来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_beh_gu_lae.md#忙不过来)】`man2 beh gu5 lae2` <sup>[泰州]</sup> 事情繁杂而顾此失彼：事情太多，～。  
+1. 【[忙不洎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_beh_qi.md#忙不洎)】`man2 beh7 qi6` <small>/mɑŋ2 pəʔ7 t͡ɕʰʝ1/<sup>泰兴</sup></small> 非常匆忙的样子。<sup>\[泰兴\]</sup>：他忙不及的把门关吖<sup>\[泰兴\]</sup>  
 1. 【[忙厨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_chv.md#忙厨)】`man2 chv2` <sup>[兴化]</sup> 为宴客的人家当锅做菜：老刘家儿子结婚，请王二来～。  
 1. 【[忙当<sub>儿</sub>里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_dan_r_lii.md#忙当<sub>儿</sub>里)】`man2 dan5 r lii` <sup>[如皋]</sup> 最繁忙的时段。  
 1. 【[忙抖抖的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_deu_deu_dii.md#忙抖抖的)】`man2 deu3 deu3 dii` <sup>[东台]</sup> 忙忙碌碌的样子。  
@@ -488,11 +489,12 @@
 1. 【[忙嫁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_ga.md#忙嫁)】`man2 ga5` <sup>[如皋]</sup> 料理出嫁事宜。  
 1. 【[忙月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_iuh.md#忙月)】`man2 iuh8` <sup>[兴化]</sup> 短工的一种形式：他家女将在城里做～。  
 1. 【[忙月子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_iuh_zz.md#忙月子)】`man2 iuh8 zz` <sup>[如皋]</sup> 料理生孩子、照顾产妇的事务。  
-1. 【[忙假](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_jia.md#忙假)】`man2 jia3` <small>/maŋ2 t͡ɕia3/<sup>兴化</sup></small> ① 二十世纪九十年代前，农村中小学夏秋大忙时停课，让学生回去帮助劳动。<sup>\[兴化\]</sup> ② 因为农忙而放的假。20世纪六七十年代，农村学校在四夏大忙季节放假，让学生回家帮助家庭收割、栽种。<sup>\[泰州\]</sup>  
+1. 【[忙假](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_jia.md#忙假)】`man2 jia3` <small>/maŋ2 t͡ɕia3/<sup>兴化</sup>, /mɑŋ2 t͡ɕiɑ3/<sup>泰兴</sup></small> ① 二十世纪九十年代前，农村中小学夏秋大忙时停课，让学生回去帮助劳动。<sup>\[兴化\]</sup> ② 因为农忙而放的假。20世纪六七十年代，农村学校在四夏大忙季节放假，让学生回家帮助家庭收割、栽种。<sup>\[泰州\]</sup> ③ 农忙期间学校所放的假期。<sup>\[泰兴\]</sup>  
 1. 【[忙忙叨叨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_man_do_do.md#忙忙叨叨)】`man2 man2 do1 do1` <sup>[兴化]</sup> 形容忙碌、匆促：两个伢儿家来过暑假，弄得妈妈一天到晚～的。  
 1. 【[忙吖去投胎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_nga_qy_teu.md#忙吖去投胎)】`man2 nga qy5 teu2 tae1` <sup>[东台]</sup> （詈语）讽刺人走得太匆忙，不顾一切。与此近义的说法还有“忙吖去杀”“忙吖去打枪毙”等。  
 1. 【[忙吖摵咖飞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_nga_seh_ga.md#忙吖摵咖飞)】`man2 nga seh7 ga fei1` <sup>[泰兴]</sup> 极忙  
-1. 【[忙人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_ren.md#忙人)】`man2 ren2` <small>/maŋ2 lən2/<sup>兴化</sup>, /mã2 ɻəŋ2/<sup>如皋</sup></small> ① 令人忙碌、忙烦<sup>\[如皋\]</sup>\[泰州：事情繁琐使人感到忙碌\]\[兴化：时间紧，事情多，使人着忙\]：这件事太复杂，够～的！<sup>\[如皋\]</sup>｜伢儿办喜事，在家里待客～！<sup>\[兴化\]</sup>｜在家里弄是省钱，就是太～，还是上饭店吧。<sup>\[泰州\]</sup> ② 事务繁多，没有空闲的人<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：“咱哥是个～……没事不得进城。”（《岐路灯》四十）<sup>\[兴化\]</sup>｜你这个大～，今朝子怎吖有空到我俫这块来的？<sup>\[泰州\]</sup>  
+1. 【[忙人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_ren.md#忙人)】`man2 ren2` <small>/maŋ2 lən2/<sup>兴化</sup>, /mã2 ɻəŋ2/<sup>如皋</sup>, /mɑŋ2 ɻəŋ2/<sup>泰兴</sup></small> ① 令人忙碌、忙烦<sup>\[如皋\]</sup>\[泰州：事情繁琐使人感到忙碌\]\[兴化：时间紧，事情多，使人着忙\]：这件事太复杂，够～的！<sup>\[如皋\]</sup>｜伢儿办喜事，在家里待客～！<sup>\[兴化\]</sup>｜在家里弄是省钱，就是太～，还是上饭店吧。<sup>\[泰州\]</sup> ② 事务繁多，没有空闲的人<sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：“咱哥是个～……没事不得进城。”（《岐路灯》四十）<sup>\[兴化\]</sup>｜你这个大～，今朝子怎吖有空到我俫这块来的？<sup>\[泰州\]</sup>｜他是个大～<sup>\[泰兴\]</sup>  
+1. 【[忙丧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_san.md#忙丧)】`man2 san1` <small>/mɑŋ2 sɑŋ1/<sup>泰兴</sup></small> 骂人语。谓像办丧事一样乱忙。<sup>\[泰兴\]</sup>  
 1. 【[忙上人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_shan_ren.md#忙上人)】`man2 shan6 ren` <sup>[如皋]</sup> ① 照料长辈。 ② 料理长辈后事。  
 1. 【[忙甚的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_shen_nii.md#忙甚的)】`man2 shen2 nii` <sup>[如皋]</sup> ① 何必作急！ ② 在做什么呢？  
 1. 【[忙时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_shr.md#忙时)】`man2 shr2` <sup>[兴化]</sup> 农村大忙期间：“过了～，秋后再说。”（马春阳《城里来的年轻人》）  

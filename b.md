@@ -1487,6 +1487,7 @@
 1. 【[百索<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_sah_r.md#百索<sub>儿</sub>)】`boh7 sah7 r` <sup>[兴化]</sup> 彩色丝绒编成的环状带子，幼儿于端午佩在腕上避邪。梁·宗懔《荆楚岁时记》中谓之“辟兵”。‖东南部分村镇又称“百脚绳儿”。  
 1. 【[百十](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_sheh.md#百十)】`boh7 sheh` 一百左右的概数。<sup>\[如东\]</sup><sup>\[东台\]</sup>：有～个吧。<sup>\[如东\]</sup>  
 1. 【[百岁方](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_suei_fan.md#百岁方)】`boh7 suei5 fan1` <sup>[如东]</sup> 棺材。  
+1. 【[百岁钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_suei_qin.md#百岁钱)】`boh7 suei5 qin2` <small>/pɔʔ7 suəɪ5 t͡ɕʰĩ2/<sup>泰兴</sup></small> 压岁钱<sup>\[泰兴\]</sup>  
 1. 【[百姓不搭𠵹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_xien_beh_daeh.md#百姓不搭𠵹)】`boh7 xien5 beh7 daeh7 gan1` <sup>[东台]</sup> 不理睬，不交往，封闭社会之现象。  
 1. 【[百晓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_xio.md#百晓)】`boh7 xio3` <sup>[东台]</sup> 讥讽人什么都知道，同“万事通”“万宝全”。  
 1. 【[百岁狗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_xy_geu_r.md#百岁狗<sub>儿</sub>)】`boh7 xy5 geu3 r` <sup>[如皋]</sup> 昵语，指婴幼儿：乖，你个～。  

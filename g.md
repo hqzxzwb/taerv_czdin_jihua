@@ -334,6 +334,7 @@
 1. 【[㧏肩膊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_jin_bah.md#㧏肩膊)】`gan1 jin1 bah` <sup>[如皋]</sup> ① 肩头抬起。 ② 高肩（缩头）畸型。  
 1. 【[刚刚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_gan.md#刚刚)】`gan1 gan1` <small>/kaŋ1 kaŋ1/<sup>兴化</sup></small> ① 正巧，恰好<sup>\[东台\]</sup>：酒瓶里剩的酒不多不少，～一杯。<sup>\[东台\]</sup> ② 不久以前<sup>\[东台\]</sup>：他～调来。<sup>\[东台\]</sup> ③ 刚才<sup>\[兴化\]</sup>：他～起来，还不曾吃早饭哎！<sup>\[兴化\]</sup>  
 1. 【[刚巧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_qio.md#刚巧)】`gan1 qio3` <sup>[如皋]</sup> 正好。  
+1. 【[江北骡子学马叫，学不起来惹人笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_boh_lu_zz.md#江北骡子学马叫，学不起来惹人笑)】`gan1 boh7 lu2 zz hah8 ma3 jio5 hah8 beh qi3 lae2 ra3 ren2 xio5` <small>/kɑŋ1 pɔʔ7 lɤɯ2 t͡sɿ xɑʔ8 mɑ3 t͡ɕiɔ5 xɑʔ8 pəʔ t͡ɕʰʝ3 lɛ2 ɻɑ3 ɻəŋ2 ɕiɔ5/<sup>泰兴</sup></small> 乡谚。谓不懂的不要装懂，以免出现笑话。<sup>\[泰兴\]</sup>  
 1. 【[江芦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_lv.md#江芦)】`gan1 lv2, gan1 lv3` <sup>[如皋]</sup> 芦苇的一种，传统用其篾编制粪箕，即“江芦粪箕”，耐用。  
 1. 【[江芦柴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_lv_shae.md#江芦柴)】`gan1 lv2 shae2` <sup>[兴化]</sup> 又称芦竹。一种株型较大的芦苇。  
 1. 【[纲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_zz.md#纲子)】`gan1 zz` <sup>[如东]</sup> 网口上的一根粗绳，叫纲子。简称纲。  
@@ -377,11 +378,14 @@
 1. 【[讲嚎号<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_ho_ho_r.md#讲嚎号<sub>儿</sub>)】`gan3 ho2 ho6 r` <sup>[如东]</sup> 跟着叫喊，不做实事：他就欢喜～。  
 1. 【[讲好好<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_ho_ho_r.md#讲好好<sub>儿</sub>)】`gan3 ho3 ho3 r` <sup>[如东]</sup> 凑热闹，说好话。  
 1. 【[讲谣言](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_io_in.md#讲谣言)】`gan3 io2 in2` <small>/kaŋ3 iɔ2 iɪ̃2/<sup>兴化</sup></small> ① 造谣、散布不真实的信息，迷惑人们。<sup>\[东台\]</sup> ② 造谣、传谣<sup>\[兴化\]</sup>：你覅～，根本没得这回事。<sup>\[兴化\]</sup>｜外头～，说这片地方又要拆迁吖。<sup>\[兴化\]</sup>  
-1. 【[讲经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_jien.md#讲经)】`gan3 jien1` <small>/kã3 t͡ɕiəŋ1/<sup>如皋</sup></small> ① 进行闲聊 ② 指发生口头争执 ③ 说法。<sup>\[如东\]</sup>：总要有个～。<sup>\[如东\]</sup> ④ 聊天。<sup>\[如皋\]</sup> ⑤ 谈论、争论。<sup>\[如皋\]</sup> ⑥ 褒贬、评说、评论别人。<sup>\[如皋\]</sup>  
+1. 【[讲价钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_jia_qin.md#讲价钱)】`gan3 jia5 qin` <small>/kɑŋ3 t͡ɕiɑ5 t͡ɕʰĩ/<sup>泰兴</sup></small> 讨价还价。<sup>\[泰兴\]</sup>  
+1. 【[讲经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_jien.md#讲经)】`gan3 jien1` <small>/kã3 t͡ɕiəŋ1/<sup>如皋</sup>, /kɑŋ3 t͡ɕiŋ1/<sup>泰兴</sup></small> ① 进行闲聊 ② 指发生口头争执 ③ 说法。<sup>\[如东\]</sup>：总要有个～。<sup>\[如东\]</sup> ④ 聊天。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup> ⑤ 谈论、争论。<sup>\[如皋\]</sup> ⑥ 褒贬、评说、评论别人。<sup>\[如皋\]</sup> ⑦ 斗嘴<sup>\[泰兴\]</sup>  
 1. 【[讲经说法](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_jien_shuh_faeh.md#讲经说法)】`gan3 jien1 shuh7 faeh7` <sup>[如皋]</sup> 原为佛教用语，衍为引经据典，摆事实、讲道理，品评事非。  
+1. 【[讲经说法](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_jien_shuh_faeh.md#讲经说法)】`gan3 jien1 shuh7 faeh7` <small>/kɑŋ3 t͡ɕiŋ1 sʊʔ7 fæʔ7/<sup>泰兴</sup></small> 本指讲论宗教经典，宣传教义，乡人则转义相互辩解，甚至争论、斗嘴。<sup>\[泰兴\]</sup>  
 1. 【[讲老洋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_lo_ian.md#讲老洋)】`gan3 lo3 ian2` <sup>[如皋]</sup> 见“讲闲话”。  
 1. 【[讲㗘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_pah.md#讲㗘)】`gan3 pah7` <small>/kã3 pʰaʔ7/<sup>如皋</sup></small> ① 说故事。<sup>\[如东\]</sup>：王老侯会～，我俫去听听。<sup>\[如东\]</sup> ② 闲聊。<sup>\[如东\]</sup>：他俫在下～。<sup>\[如东\]</sup> ③ 评说时弊。<sup>\[如东\]</sup>：他俫在～，说的都是一些没根没据的事。<sup>\[如东\]</sup> ④ 闲谈空幻、虚无缥缈话题。又作谈㗘、说㗘话。<sup>\[如皋\]</sup>  
 1. 【[讲盘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_pun_zz.md#讲盘子)】`gan3 pun2 zz` <sup>[如皋]</sup> 谈交易，讨价还价。见“谈盘子”。  
+1. 【[讲盘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_pun_zz.md#讲盘子)】`gan3 pun2 zz` <small>/kɑŋ3 pʰʊ̃2 t͡sɿ/<sup>泰兴</sup></small> 商谈价钱或条件。<sup>\[泰兴\]</sup>  
 1. 【[讲淡话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_taen_hua.md#讲淡话)】`gan3 taen6 hua` 侃大山，闲聊，聊天。  
 1. 【[讲淡话<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_taen_hua_r.md#讲淡话<sub>儿</sub>)】`gan3 taen6 hua6 r` <sup>[如皋]</sup> 见“讲闲话”。  
 1. 【[讲头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_teu.md#讲头)】`gan3 teu` <small>/kã3 tʰei/<sup>如皋</sup></small> ① 说法，道理。<sup>\[如东\]</sup>：没甚的～。<sup>\[如东\]</sup> ② 谈话投机。我同他没得～。<sup>\[如皋\]</sup>  

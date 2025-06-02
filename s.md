@@ -1556,14 +1556,16 @@
 1. 【[紬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu.md#紬)】`sheu2` <sup>[泰州]</sup> 用嘴吸：拿跟吸管来，把罐子里头的饮料～掉。这个是沙壳ㄦ螺蛳，好～。  
 1. 【[守](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu.md#守)】`sheu3` <sup>[泰州]</sup> 等候，等待：这件事要～局长家来再说。｜你顶多再～十分钟，车子就开过来啊。｜你先洗澡吧，～你洗过啊我再洗。  
 1. 【[守寡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_gua.md#守寡)】`sheu3 gua3` <sup>[如东]</sup> 妇女丈夫死亡后不再嫁人，称守寡。  
-1. 【[守活寡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_huh_gua.md#守活寡)】`sheu3 huh8 gua3` <small>/sei3 xʊʔ8 kua3/<sup>如皋</sup></small> ① 旧时未婚死了丈夫。<sup>\[如皋\]</sup> ② 因病或其他原因与丈夫无限期分居。<sup>\[如皋\]</sup> ③ 有夫之妇就像寡妇一样过着无性生活。<sup>\[泰州\]</sup>  
+1. 【[守活寡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_huh_gua.md#守活寡)】`sheu3 huh8 gua3` <small>/sei3 xʊʔ8 kua3/<sup>如皋</sup>, /ɕiɤɯ3 xʊʔ8 kuɑ3/<sup>泰兴</sup></small> ① 旧时未婚死了丈夫。<sup>\[如皋\]</sup> ② 因病或其他原因与丈夫无限期分居。<sup>\[如皋\]</sup> ③ 有夫之妇就像寡妇一样过着无性生活。<sup>\[泰州\]</sup> ④ 谓妇女空有夫妻的名份，却无实际的夫妻生活。<sup>\[泰兴\]</sup>  
 1. 【[守夜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_ia.md#守夜)】`sheu3 ia6` <small>/sei3 ia1/<sup>如皋</sup></small> ① 见“坐夜”。<sup>\[如皋\]</sup> ② 见“看夜”。<sup>\[如皋\]</sup> ③ 小殓前，派人守护死尸，以防猫鼠毁容。<sup>\[如东\]</sup>  
 1. 【[守阳凡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_ian_faen.md#守阳凡)】`sheu3 ian2 faen2` <sup>[如皋]</sup> ① 爱惜身体，不胡乱作践。 ② 遵守道德规范。  
 1. 【[守困](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_kuen.md#守困)】`sheu3 kuen5` <sup>[兴化]</sup> 忍受艰难困苦的煎熬：他下岗在家～二年多，目下才出去做生意。也作“瘦困”。谚曰：肥吃不如瘦困。  
 1. 【[守灵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_lien.md#守灵)】`sheu3 lien2` <sup>[东台]</sup> 守在死者的遗体、灵柩或灵位旁边。  
 1. 【[守神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_shen.md#守神)】`sheu3 shen2` <small>/sei3 səŋ2/<sup>如皋</sup></small> ① 见“收神”。<sup>\[如皋\]</sup> ② 专心。<sup>\[如东\]</sup>：上课时要～。<sup>\[如东\]</sup>  
 1. 【[守尸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_shr.md#守尸)】`sheu3 shr1` <sup>[如东]</sup> 看管人的尸体：请王二～。  
-1. 【[守岁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_xy.md#守岁)】`sheu3 xy5` ① 除夕，通宵点烛烧香，家主终夜不眠，称守岁。此俗魏晋时期就已出现。《风土记》：“至除夕，达旦不眠，谓之守岁。”<sup>\[如东\]</sup> ② 农历除夕之夜直到子时以后才睡觉。<sup>\[东台\]</sup>  
+1. 【[守岁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_suei.md#守岁)】`sheu3-sheu1 suei5` <small>/ɕiɤɯ3 suəɪ5/<sup>泰兴</sup></small> 民俗。大年三十晚上举家团圆取乐，以迎侯新年的到来，曰守岁。<sup>\[泰兴\]</sup>  
+1. 【[守岁钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_suei_qin.md#守岁钱)】`sheu3-1 suei5 qin2` <small>/ɕiɤɯ3 suəɪ5 t͡ɕʰĩ2/<sup>泰兴</sup></small> 大年三十长辈给晚辈的小额钱钞。也称“压岁钱”。<sup>\[泰兴\]</sup>  
+1. 【[守岁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_xy.md#守岁)】`sheu3 xy5` ① 除夕，通宵点烛烧香，家主终夜不眠，称守岁。<sup>\[如东\]</sup> ② 农历除夕之夜直到子时以后才睡觉。<sup>\[东台\]</sup>  
 1. 【[手巴掌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_ba_zhan.md#手巴掌)】`sheu3 ba1 zhan` <sup>[如东]</sup> 手掌。  
 1. 【[手膀子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_ban_zz.md#手膀子)】`sheu3 ban3 zz` <small>/sei3 pã3 t͡sɿ/<sup>如皋</sup>, /ɕiɤɯ3 pɑŋ3 t͡sɿ/<sup>泰兴</sup></small> 手臂，胳膊<sup>\[如东\]</sup><sup>\[泰兴\]</sup>\[如皋：与脚髈子相对。\]  
 1. 【[手不停脚不住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_beh_tien_jiah.md#手不停脚不住)】`sheu3 beh7 tien2 jiah7 beh7 chv6` <sup>[东台]</sup> 形容不停地忙碌。  
