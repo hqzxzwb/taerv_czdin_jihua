@@ -10,8 +10,7 @@
 1. 【[依妥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_tu.md#依妥)】`i1 tu3` <sup>[如皋]</sup> 了结，罢休。  
 1. 【[医家先生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_jia_xin_shen.md#医家先生)】`i1 jia1 xin1 shen` <sup>[兴化]</sup> 医生，尤指中医：……请～看病啊，买药啊，都要用钱。（扬二《吹箫过市》）  
 1. 【[医家先生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_jia_xin_shen.md#医家先生)】`i1 jia1 xin1 shen1` <sup>[泰州]</sup> 对医生的敬称：她这刀要请南京的～来开。  
-1. 【[衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#衣)】`i1` <sup>[如皋]</sup> ① 指胎盘：～胞、伢儿～。中药名“紫河车”。 ② 小麦粒上的壳、芦柴的叶柄：～裹儿。 ③ 服装：～裳、老～。  
-1. 【[衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#衣)】`i1` <small>/ʝ1/<sup>泰兴</sup></small> 指胎盘。<sup>\[泰兴\]</sup>  
+1. 【[衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#衣)】`i1` <small>/ʝ1/<sup>如皋</sup>, /ʝ1/<sup>泰兴</sup></small> ① 指胎盘<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：～胞、伢儿～。中药名“紫河车”。<sup>\[如皋\]</sup> ② 小麦粒上的壳、芦柴的叶柄<sup>\[如皋\]</sup>：～裹儿。<sup>\[如皋\]</sup> ③ 服装<sup>\[如皋\]</sup>：～裳、老～。<sup>\[如皋\]</sup>  
 1. 【[衣胞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_bo.md#衣胞)】`i1 bo1` <small>/ʝ1 pɔ1/<sup>如皋</sup></small> ① 胎盘。<sup>\[如皋\]</sup><sup>\[如东\]</sup> ② 胞衣，包在胎儿体表上的一层胞膜。<sup>\[泰州\]</sup>  
 1. 【[衣胞地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_bo_ti.md#衣胞地)】`i1 bo1 ti6` <sup>[东台]</sup> ［借］人的出生地。人的胎盘和胎膜统称衣胞，也叫胎衣、胞衣。  
 1. 【[衣胞之地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_bo_zhr_ti.md#衣胞之地)】`i1 bo1 zhr1 ti6` <small>/i1 pɔ1 t͡sɿ1 tʰəi6/<sup>兴化</sup>, /ʝ1 pɔ1 t͡sɿ1 tʰʝ1/<sup>如皋</sup>, /ʝ1 pɔ1 t͡sɿ1 t͡ɕʰʝ1/<sup>泰兴</sup></small> 出生之地，埋衣胞的地方。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：如东是我的～。<sup>\[如东\]</sup>｜新娘的真哭，是因为突然离开～……（马春阳《扬州水乡婚俗散记》）<sup>\[兴化\]</sup>  
@@ -29,8 +28,7 @@
 1. 【[衣裳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_shan.md#衣裳)】`i1 shan` 衣服  
 1. 【[衣裳架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_shan_ga_zz.md#衣裳架子)】`i1 shan ga5 zz` <sup>[如皋]</sup> 比喻身材高大，制衣用料多。  
 1. 【[衣裳是新的好，人是旧的好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_shan_shr_xien.md#衣裳是新的好，人是旧的好)】`i1 shan shr6 xien1 dii ho3 ren2 shr6 qieu6 dii ho3` <small>/ʝ1 sɑŋ sɿ1 ɕiŋ1 təɪ xɔ3 ɻəŋ2 sɿ1 t͡ɕʰiɤɯ1 təɪ xɔ3/<sup>泰兴</sup></small> 谓相交的人时间越长，相互了解越透彻，感情也就越深；而衣服是新的漂亮。此乃处世之道。<sup>\[泰兴\]</sup>  
-1. 【[衣食饭碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_sheh_faen_un.md#衣食饭碗)】`i1 sheh8 faen6 un3` <sup>[兴化]</sup> 衣服和食物。（喻）作为主要生活来源的工作：“……他爱拿那个缺给谁，也不管我事，何必这时候来抢我的～呢……”（《官场现形记》四）。“我就是一副担子……对不起，不借。～，不能当玩意。”（《皮五辣子》二）  
-1. 【[衣食饭碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_sheh_faen_un.md#衣食饭碗)】`i1 sheh8 faen6 un3` <small>/ʝ1 səʔ8 fɛ̃1 ʊ̃3/<sup>泰兴</sup></small> 比喻赖以为生的职业或技能等。<sup>\[泰兴\]</sup>  
+1. 【[衣食饭碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_sheh_faen_un.md#衣食饭碗)】`i1 sheh8 faen6 un3` <small>/i1 səʔ8 fɛ̃6 ũ3/<sup>兴化</sup>, /ʝ1 səʔ8 fɛ̃1 ʊ̃3/<sup>泰兴</sup></small> ① 衣服和食物。（喻）作为主要生活来源的工作<sup>\[兴化\]</sup>：“……他爱拿那个缺给谁，也不管我事，何必这时候来抢我的～呢……”（《官场现形记》四）。“我就是一副担子……对不起，不借。～，不能当玩意。”（《皮五辣子》二）<sup>\[兴化\]</sup> ② 比喻赖以为生的职业或技能等。<sup>\[泰兴\]</sup>  
 1. 【[衣食父母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_sheh_fv_mu.md#衣食父母)】`i1 sheh8 fv6 mu3` <small>/i1 səʔ8 fu6 mo3/<sup>兴化</sup></small> ① （喻）提供主要生活来源的人<sup>\[兴化\]</sup>：顾客是店家的～。<sup>\[兴化\]</sup> ② 供给自己衣食的人，比喻自己赖以生活的人<sup>\[泰州\]</sup>：客户就是我俫生意人的衣食父母！<sup>\[泰州\]</sup>  
 1. 【[衣箱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_xian.md#衣箱)】`i1 xian1` <sup>[如皋]</sup> 纸扎的烧化给死者的箱子。家常所用则称“箱子、皮箱、木箱、藤箱等”。  
 1. 【[衣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_zz.md#衣子)】`i1 zz` <small>/i1 t͡sɿ/<sup>兴化</sup>, /ʝ1 t͡sɿ/<sup>如皋</sup></small> ① 轻而小的纤维飞尘或纤维，床下、衣袋内常见到。如纱～。<sup>\[如皋\]</sup> ② 芦苇、竹子内壁的薄膜。<sup>\[兴化\]</sup> ③ 豆浆、米粥等表面凝结成的薄膜。<sup>\[兴化\]</sup> ④ 从絮棉或棉布上飘落的纤维<sup>\[兴化\]</sup>：棉花～；布～。<sup>\[兴化\]</sup>  
@@ -231,8 +229,7 @@
 1. 【[亚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia.md#亚)】`ia5` <small>/iɑ5/<sup>泰兴</sup></small> 次、劣<sup>\[泰兴\]</sup>：在箇个方面的水平，我也不～于他。<sup>\[泰兴\]</sup>  
 1. 【[亚亚五](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_ia_v.md#亚亚五)】`ia5 ia5 v3` <sup>[如东]</sup> 糊里糊涂：不能～。  
 1. 【[亚麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_ma.md#亚麻)】`ia5 ma2` <sup>[如东]</sup> 亚麻科植物亚麻，又名胡麻，一年生草本。高约90厘米。茎直立，基部稍木质化，分枝少。叶互生，无柄，叶片线形，全缘。花多数，蓝白或白色，生于分枝顶端及上部叶腋内。蒴果球形。种子卵形，棕色。栽培。  
-1. 【[讶口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_keu.md#讶口)】`ia5 keu3` <sup>[兴化]</sup> 口吻：这种～真叫人受不了。  
-1. 【[讶口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_keu.md#讶口)】`ia5 keu3` <small>/iɑ5 kʰəɪ3/<sup>泰兴</sup></small> 口气，口吻。<sup>\[泰兴\]</sup>：听他的～，恐怕不是箇回事。<sup>\[泰兴\]</sup>  
+1. 【[讶口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_keu.md#讶口)】`ia5 keu3` <small>/ia5 kʰɤ3/<sup>兴化</sup>, /iɑ5 kʰəɪ3/<sup>泰兴</sup></small> ① 口吻<sup>\[兴化\]</sup>：这种～真叫人受不了。<sup>\[兴化\]</sup> ② 口气，口吻。<sup>\[泰兴\]</sup>：听他的～，恐怕不是箇回事。<sup>\[泰兴\]</sup>  
 1. 【[呀子乌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_zz_v_r.md#呀子乌<sub>儿</sub>)】`ia6 zz v1 r` <sup>[东台]</sup> （詈语）含有随便、马虎、质量差、素质差等义。也作“耶耶乎”，见鲁迅语“做个公民实在弗容易，大家切莫耶耶乎！”  
 1. 【[呀子唔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_zz_v.md#呀子唔)】`ia6 zz v3` <sup>[兴化]</sup> 形容随随便便，不负责任：他是一头～，说的话当不得真。也说“呀呀唔。”  
 1. 【[夜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia.md#夜)】`ia6` <small>/ia1/<sup>如皋</sup>, /iɑ1/<sup>泰兴</sup></small> ① 入夜<sup>\[泰兴\]</sup><sup>\[如皋\]</sup>：外头～啊。<sup>\[如皋\]</sup>｜外头～得早。<sup>\[如皋\]</sup> ② 春节之前十天，每一天都称为“夜”，如腊月二十称“二十夜”<sup>\[泰兴\]</sup><sup>\[泰州\]</sup>：我俫工地上二十七～就放假唻。<sup>\[泰州\]</sup>  
@@ -506,8 +503,7 @@
 1. 【[羊靥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ih.md#羊靥)】`ian2 ih7` <sup>[如东]</sup> 牛科动物山羊或绵羊的甲状腺体。  
 1. 【[羊窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ku.md#羊窠)】`ian2 ku1` <small>/iã2 kʰʊ1/<sup>如皋</sup></small> 羊圈。<sup>\[如皋\]</sup><sup>\[如东\]</sup>：一般是小草棚。<sup>\[如东\]</sup>  
 1. 【[羊窠灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ku_huei.md#羊窠灰)】`ian2 ku1 huei1` <sup>[如皋]</sup> 羊厩肥  
-1. 【[羊卵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_lun_zz.md#羊卵子)】`ian2 lun3 zz` <sup>[如皋]</sup> 羊的阴囊和睾丸。  
-1. 【[羊卵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_lun_zz.md#羊卵子)】`ian2 lun3 zz` <small>/iɑŋ2 lʊ̃3 t͡sɿ/<sup>泰兴</sup></small> 公羊睾丸<sup>\[泰兴\]</sup>：吃咖～说泡话（说大话）。<sup>\[泰兴\]</sup>  
+1. 【[羊卵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_lun_zz.md#羊卵子)】`ian2 lun3 zz` <small>/iã2 lʊ̃3 t͡sɿ/<sup>如皋</sup>, /iɑŋ2 lʊ̃3 t͡sɿ/<sup>泰兴</sup></small> ① 羊的阴囊和睾丸。<sup>\[如皋\]</sup> ② 公羊睾丸<sup>\[泰兴\]</sup>：吃咖～说泡话（说大话）。<sup>\[泰兴\]</sup>  
 1. 【[羊膜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_mah.md#羊膜)】`ian2 mah8` <sup>[东台]</sup> 人或哺乳动物包裹胎儿的膜。  
 1. 【[羊奶草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_nae_co.md#羊奶草)】`ian2 nae3 co3` <sup>[如皋]</sup> 泽漆。  
 1. 【[羊眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ngaen.md#羊眼)】`ian2 ngaen3` <sup>[如皋]</sup> 一种带圆圈的木螺钉。  
@@ -1040,7 +1036,7 @@
 1. 【[一庹长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_tah_chan.md#一庹长)】`ieh7 tah7 chan2` <sup>[东台]</sup> 成人两臂左右平伸时两手之间的距离，约合五尺。  
 1. 【[一头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_teu.md#一头)】`ieh7 teu` <small>/iəʔ7 tʰɤ/<sup>兴化</sup>, /iʔ7 tʰəɪ/<sup>泰兴</sup></small> ① 正在<sup>\[兴化\]</sup>：我～说，他马上就来，你覅急。<sup>\[兴化\]</sup>｜他～开门，外边就等不洎啊。<sup>\[兴化\]</sup> ② 表示一个动作和另一个动作同时进行。<sup>\[泰兴\]</sup>：这小猴子打那虔婆不过，～哭，～走，～街上捡梨儿。（《金瓶梅词话》第5回）<sup>\[泰兴\]</sup>｜我佼～走～谈吧<sup>\[泰兴\]</sup> ③ 正在<sup>\[泰兴\]</sup> ④ 一边，表示两个动作同时进行<sup>\[泰州\]</sup>：～吃饭，～看电视。<sup>\[泰州\]</sup> ⑤ 正在，表示动作正在进行<sup>\[泰州\]</sup>：他～说到你家里去，你老先生就来啊。<sup>\[泰州\]</sup> ⑥ 一下，表示动作突然<sup>\[泰州\]</sup>：他俫两个人正在谈老王的事，哪晓得老王～闯进吖办公室。<sup>\[泰州\]</sup>  
 1. 【[一头个的来（上/去）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_teu_gu_dii.md#一头个的来（上/去）)】`ieh7 teu gu9 dii lae2` <sup>[如皋]</sup> 一个一个的依次序的来，不乱。  
-1. 【[一头嘴的来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_teu_jy_dii.md#一头嘴的来)】`ieh7 teu jy3 dii lae2` <small>/iəʔ7 tʰei t͡ɕy3 tei lɛ2/<sup>如皋</sup></small> ① 见“犟嘴”。<sup>\[如皋\]</sup> ② 争执，互相针锋相对，毫不相让。<sup>\[如皋\]</sup>  
+1. 【[一头嘴的来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_teu_jy_dii.md#一头嘴的来)】`ieh7 teu jy3 dii lae2` <small>/iəʔ7 tʰei t͡ɕy3 tei lɛ2/<sup>如皋</sup></small> 争执，互相针锋相对，毫不相让。见“犟嘴”。<sup>\[如皋\]</sup>  
 1. 【[一头嘴的骂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_teu_jy_dii.md#一头嘴的骂)】`ieh7 teu jy3 dii ma6` <sup>[如皋]</sup> 见“一头嘴的来”。  
 1. 【[一头嘴的说](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_teu_jy_dii.md#一头嘴的说)】`ieh7 teu jy3 dii shuh7` <sup>[如皋]</sup> 见“一头嘴的来”。  
 1. 【[一头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_teu.md#一头)】`ieh7 teu2` <sup>[兴化]</sup> 一边、一面：……～是妈，～是老婆，他夹咖中间左右为难。  

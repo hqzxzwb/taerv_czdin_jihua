@@ -76,7 +76,7 @@
 1. 【[下巴壳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ba_kah_zz.md#下巴壳子)】`ha6 ba kah7 zz` <sup>[泰州]</sup> 下巴。  
 1. 【[下巴箍子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ba_gv_zz.md#下巴箍子)】`ha6 ba1 gv1 zz` <sup>[东台]</sup> 同“下巴颏子”。  
 1. 【[下巴颏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ba_kah_zz.md#下巴颏子)】`ha6 ba1 kah7 zz` <sup>[东台]</sup> ① 下巴：别把～笑啊𠫓下来。 ② ［喻］指有求于别人的地方：项目要经他审批，只好扳住他～摇，听他摆布。  
-1. 【[下巴𫖡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ba_kah_r.md#下巴𫖡<sub>儿</sub>)】`ha6 ba1 kah7 r` <small>/xa1 pa1 kʰa˞7/<sup>如皋</sup></small> ① 下颔。<sup>\[如东\]</sup> ② 下颌骨。<sup>\[如皋\]</sup>  
+1. 【[下巴𫖡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ba_kah_r.md#下巴𫖡<sub>儿</sub>)】`ha6 ba1 kah7 r` <small>/xa1 pa1 kʰa˞7/<sup>如皋</sup></small> 下颌骨。<sup>\[如东\]</sup><sup>\[如皋\]</sup>  
 1. 【[下巴𫖡<sub>儿</sub>只兜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ba_kah_r.md#下巴𫖡<sub>儿</sub>只兜)】`ha6 ba1 kah7 r zheh7 deu1` <sup>[如皋]</sup> 见“牙巴骨儿只兜”。  
 1. 【[下八监](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_baeh_jiaen.md#下八监)】`ha6 baeh7 jiaen1` <sup>[东台]</sup> 原意是指被投入大牢，（詈语）去了不该去的地方。  
 1. 【[下半<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_bun_r.md#下半<sub>儿</sub>)】`ha6 bun5 r` <sup>[兴化]</sup> 下午：他～上班老打瞌睡。  

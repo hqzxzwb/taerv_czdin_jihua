@@ -592,8 +592,7 @@
 1. 【[辱谲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_jyeh.md#辱谲)】`roh8 jyeh7` 看似褒奖实为讥嘲（音不合）<sup>\[泰州\]</sup>：他不晓得人家喊他“大师”是～他的。<sup>\[泰州\]</sup>  
 1. 【[辱没](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_meh.md#辱没)】`roh8 meh8` <sup>[东台]</sup> 侮辱埋没，有损声誉。  
 1. 【[辱绝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_qiuh.md#辱绝)】`roh8 qiuh8` <sup>[兴化]</sup> 羞辱、挖苦：你这个不是夸奖，直接就是～人。  
-1. 【[辱头辱脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_teu_roh_lin.md#辱头辱脸)】`roh8 teu2 roh8 lin3` <sup>[兴化]</sup> 狠狠地、不顾情面地。也说“没头没脸”：王二捱他老子～的骂啊一顿。  
-1. 【[辱头辱脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_teu_roh_lin.md#辱头辱脸)】`roh8 teu2 roh8 lin3` <small>/ɻɔʔ8 tʰəɪ2 ɻɔʔ8 lĩ3/<sup>泰兴</sup></small> ① 喻指不留一点面子<sup>\[泰州\]</sup>：他早上捱处长～的凶啊一顿。<sup>\[泰州\]</sup> ② 摆脸色；很凶狠的样子。<sup>\[泰兴\]</sup>  
+1. 【[辱头辱脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_teu_roh_lin.md#辱头辱脸)】`roh8 teu2 roh8 lin3` <small>/lɔʔ8 tʰɤ2 lɔʔ8 liɪ̃3/<sup>兴化</sup>, /ɻɔʔ8 tʰəɪ2 ɻɔʔ8 lĩ3/<sup>泰兴</sup></small> ① 狠狠地、不顾情面地。也说“没头没脸”。<sup>\[兴化\]</sup>：王二捱他老子～的骂啊一顿。<sup>\[兴化\]</sup> ② 喻指不留一点面子<sup>\[泰州\]</sup>：他早上捱处长～的凶啊一顿。<sup>\[泰州\]</sup> ③ 摆脸色；很凶狠的样子。<sup>\[泰兴\]</sup>  
 1. 【[绒/氄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ron.md#绒/氄)】`ron2` <small>/loŋ2/<sup>兴化</sup>, /ɻɔŋ2/<sup>如皋</sup>, /ɻoŋ2/<sup>泰县</sup></small> ① （《集韵·肿韵》乳勇切，《说文》毛盛也。） ② 极细碎<sup>\[如皋\]</sup><sup>\[泰县\]</sup>：纸都撕啊～吖。<sup>\[泰县\]</sup> ③ 鸟兽身上的细毛。<sup>\[兴化\]</sup> ④ （借）松软<sup>\[兴化\]</sup>：新棉花胎又～又暖和。<sup>\[兴化\]</sup>  
 1. 【[绒柏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ron_boh.md#绒柏)】`ron2 boh7` <sup>[如东]</sup> 灌木或小乔木。叶线状，刺形，先端尖。  
 1. 【[绒抖抖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ron_deu_deu.md#绒抖抖)】`ron2 deu deu3` <sup>[兴化]</sup> 形容鸟兽细毛长而且密：小儿羔的皮～的。  

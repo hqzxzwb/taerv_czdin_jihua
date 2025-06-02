@@ -1364,8 +1364,7 @@
 1. 【[敦实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_sheh.md#敦实)】`den1 sheh` <sup>[兴化]</sup> 形容人诚朴、不浮躁：这个小伙～，不油腔滑调的。  
 1. 【[敦实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_sheh.md#敦实)】`den1 sheh8` <sup>[如东]</sup> ① 朴实。 ② 身体比较结实：这个伢儿长得～。  
 1. 【[灯着火不着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_chah_hu_beh.md#灯着火不着)】`den1 chah8 hu3 beh7 chah8` <sup>[东台]</sup> 形容请客或组织活动时，场面冷清，人们兴致不高。  
-1. 【[灯草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_co.md#灯草)】`den1 co3` <sup>[东台]</sup> 旧时用于小油灯作灯芯的多年生的草本植物。  
-1. 【[灯草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_co.md#灯草)】`den1 co3` <small>/təŋ1 t͡sʰɔ3/<sup>泰兴</sup></small> 多年生草本植物。茎的中心部分用做油灯的灯芯。白色多孔，质轻，浸油后耐燃。<sup>\[泰兴\]</sup>  
+1. 【[灯草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_co.md#灯草)】`den1 co3` <small>/təŋ1 t͡sʰɔ3/<sup>泰兴</sup></small> ① 旧时用于小油灯作灯芯的多年生的草本植物。<sup>\[东台\]</sup> ② 多年生草本植物。茎的中心部分用做油灯的灯芯。白色多孔，质轻，浸油后耐燃。<sup>\[泰兴\]</sup>  
 1. 【[灯草打鼓——不响（想）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_co_da_gv.md#灯草打鼓——不响（想）)】`den1 co3 da3 gv3 beh7 xian3` <sup>[东台]</sup>   
 1. 【[灯草拐杖——做不得主（拄）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_co_guae_chan.md#灯草拐杖——做不得主（拄）)】`den1 co3 guae3 chan6 zu5 beh7 deh7 zhv3` <sup>[东台]</sup>   
 1. 【[灯草绒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_co_ron.md#灯草绒)】`den1 co3 ron2` <small>/tən1 t͡sʰɔ3 loŋ2/<sup>兴化</sup>, /təŋ1 t͡sʰɔ3 ɻɔŋ2/<sup>如皋</sup></small> ① 有条状绒纹的布。即灯芯绒。<sup>\[如皋\]</sup> ② 表面条状纹路的棉织品。也称“灯芯绒”“条绒”。<sup>\[兴化\]</sup>  
@@ -1379,8 +1378,7 @@
 1. 【[灯节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_jih.md#灯节)】`den1 jih7` <sup>[如皋]</sup> 正月十三上灯至十八落灯，称为～。  
 1. 【[灯柜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_kuei.md#灯柜)】`den1 kuei6` <small>/tən1 kʰuəi6/<sup>兴化</sup></small> ① 旧式家具，置于床前放灯或杂物。雕花的灯柜又称“花柜子”。<sup>\[兴化\]</sup> ② 一种低柜，旧时百姓家庭卧室主要家具之一，柜顶用同桌面，柜身用同橱柜，高度约为碗橱一半，以其柜顶放置照明油灯，故名。<sup>\[泰州\]</sup>  
 1. 【[灯柜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_kuei_r.md#灯柜<sub>儿</sub>)】`den1 kuei6 r` <sup>[如皋]</sup> ① 放灯台的专用柜子。有用箱柜儿代替的。一般放在床头边。 ② 见“箱柜儿”。  
-1. 【[灯笼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_lon.md#灯笼)】`den1 lon` <sup>[东台]</sup> 一种笼状的灯具，有圆、长、扁之分，其外层有竹篾或铁丝骨架，蒙以油纸或纱类的透明物，内燃灯烛，供照明，装饰、玩赏或作为商铺、旧时有身份人家的标志。  
-1. 【[灯笼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_lon.md#灯笼)】`den1 lon` <small>/təŋ1 lɔŋ/<sup>泰兴</sup></small> 一种笼状灯具。其外层多以细篾或铁丝制骨架，而蒙纸或纱类等半透明物，内燃灯烛，供照明、装饰、玩赏等用。<sup>\[泰兴\]</sup>：打～都找不到（谓找不到的好人）。<sup>\[泰兴\]</sup>｜泰州的～，没得影子<sup>\[泰兴\]</sup>  
+1. 【[灯笼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_lon.md#灯笼)】`den1 lon` <small>/təŋ1 lɔŋ/<sup>泰兴</sup></small> ① 一种笼状的灯具，有圆、长、扁之分，其外层有竹篾或铁丝骨架，蒙以油纸或纱类的透明物，内燃灯烛，供照明，装饰、玩赏或作为商铺、旧时有身份人家的标志。<sup>\[东台\]</sup> ② 一种笼状灯具。其外层多以细篾或铁丝制骨架，而蒙纸或纱类等半透明物，内燃灯烛，供照明、装饰、玩赏等用。<sup>\[泰兴\]</sup>：打～都找不到（谓找不到的好人）。<sup>\[泰兴\]</sup>｜泰州的～，没得影子<sup>\[泰兴\]</sup>  
 1. 【[灯笼草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_lon_co.md#灯笼草)】`den1 lon co3` <sup>[如皋]</sup> ① 苦蘵。 ② 夏枯草。  
 1. 【[灯笼椒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_lon_jio.md#灯笼椒)】`den1 lon jio1` <small>/tən1 loŋ t͡ɕiɔ1/<sup>兴化</sup>, /təŋ1 lɔŋ t͡ɕiɔ1/<sup>泰兴</sup></small> ① 一种外形像灯笼、不太辣的青椒。<sup>\[东台\]</sup> ② 辣椒的一个品种，又称“甜椒”“菜椒”，果实形似灯笼，肉质较厚。<sup>\[兴化\]</sup> ③ 辣椒别称，肉质厚而脆嫩，果形较大，辣味较轻，形似灯笼。<sup>\[泰州\]</sup> ④ 形似灯笼的一种辣椒，皮厚，不太辣。又称“菜椒”。<sup>\[泰兴\]</sup>  
 1. 【[灯笼裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_lon_kv.md#灯笼裤)】`den1 lon kv5` <sup>[东台]</sup> 一种裤腿肥大，下端收束的裤子。通常用于体育活动。  
@@ -1393,8 +1391,7 @@
 1. 【[灯台<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_tae_r.md#灯台<sub>儿</sub>)】`den1 tae2 r` <sup>[如皋]</sup> 油盘，放在灯台的上盘上，𣥼油点灯用：一个晚上点吖四～的油。  
 1. 【[灯掭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_tin_zz.md#灯掭子)】`den1 tin5 zz` <small>/təŋ1 tʰĩ5 t͡sɿ/<sup>如皋</sup></small> ① 拨动灯草的小棍子。<sup>\[如东\]</sup> ② 储油点灯或掭灯芯的器具。<sup>\[如皋\]</sup>  
 1. 【[灯下黑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_xia_heh.md#灯下黑)】`den1 xia6 heh7` <sup>[东台]</sup> ［喻］身边的人和事反而看不清、管不好。  
-1. 【[灯芯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_xien.md#灯芯)】`den1 xien1` <sup>[东台]</sup> 油灯上用来点火照明的灯草、棉纱、线以及纱线编织物。  
-1. 【[灯芯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_xien.md#灯芯)】`den1 xien1` <small>/təŋ1 ɕiŋ1/<sup>泰兴</sup></small> 灯盏中用以点火的灯草或纸、纱、棉捻成的细长物。<sup>\[泰兴\]</sup>  
+1. 【[灯芯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_xien.md#灯芯)】`den1 xien1` <small>/təŋ1 ɕiŋ1/<sup>泰兴</sup></small> ① 油灯上用来点火照明的灯草、棉纱、线以及纱线编织物。<sup>\[东台\]</sup> ② 灯盏中用以点火的灯草或纸、纱、棉捻成的细长物。<sup>\[泰兴\]</sup>  
 1. 【[灯芯绒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_xien_ron.md#灯芯绒)】`den1 xien1 ron2` <small>/təŋ1 ɕiŋ1 ɻɔŋ2/<sup>泰兴</sup></small> 面上有凸凹线条的棉织品，绒条像灯芯。故名。<sup>\[泰兴\]</sup>  
 1. 【[灯消火灭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_xio_hu_mih.md#灯消火灭)】`den1 xio1 hu3 mih8` <sup>[兴化]</sup> （喻）消失、灭亡：本街一户十分兴旺的人家，十年不到就捱一个败子弄得～咖。｜“……我眼见多少肥产厚业比谭家强几倍，霎时～，水尽鹅飞……。”（《岐路灯》三二）  
 1. 【[灯盏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_zhaen.md#灯盏)】`den1 zhaen3` <small>/təŋ1 t͡ɕiɛ̃3/<sup>泰兴</sup></small> 灯。旧时多指油灯。一张灯为一盏灯。<sup>\[泰兴\]</sup>  
@@ -2325,8 +2322,7 @@
 1. 【[多的是](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_dii_shr.md#多的是)】`du1 dii shr6` <sup>[如皋]</sup> 很多。有的是、足足的。  
 1. 【[多点<sub>儿</sub>捞摸咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_din_r_lo.md#多点<sub>儿</sub>捞摸咖)】`du1 din3 r lo2 mah8 ga` <sup>[如皋]</sup> 盈利少。  
 1. 【[多多余剩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_du_y_chen.md#多多余剩)】`du1 du1 y2 chen5` <sup>[兴化]</sup> 超过所需要的数量：到苏州玩三天，带两千块～。  
-1. 【[多个朋友多条路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_gu_pon_ieu.md#多个朋友多条路)】`du1 gu pon2 ieu3 du1 tio2 lv6` <sup>[东台]</sup> 结交好朋友越多越好。  
-1. 【[多个朋友多条路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_gu_pon_ieu.md#多个朋友多条路)】`du1 gu pon2 ieu3 du1 tio2 lv6` <small>/tɤɯ1 kɤɯ pʰɔŋ2 iɤɯ3 tɤɯ1 tʰiɔ2 lu1/<sup>泰兴</sup></small> 谓朋友多了，办事的路子就宽了。<sup>\[泰兴\]</sup>  
+1. 【[多个朋友多条路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_gu_pon_ieu.md#多个朋友多条路)】`du1 gu pon2 ieu3 du1 tio2 lv6` <small>/tɤɯ1 kɤɯ pʰɔŋ2 iɤɯ3 tɤɯ1 tʰiɔ2 lu1/<sup>泰兴</sup></small> ① 结交好朋友越多越好。<sup>\[东台\]</sup> ② 谓朋友多了，办事的路子就宽了。<sup>\[泰兴\]</sup>  
 1. 【[多个青虫吃口菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_gu_qien_chon.md#多个青虫吃口菜)】`du1 gu qien1 chon2 qieh7 keu3 cae5` <sup>[东台]</sup> ［喻］指多一个人就多一个参与分配的份，多一个竞争对手。也作“多个青虫少棵菜”。  
 1. 【[多个青虫吃棵菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_gu_qien_chon.md#多个青虫吃棵菜)】`du1 gu qien1 chon2 qieh7 ku9 cae5` <small>/tɤɯ1 kɤɯ t͡ɕʰiŋ1 t͡sʰɔŋ2 t͡ɕʰiəʔ7 kʰɤɯ9 t͡ɕʰiɛ5/<sup>泰兴</sup></small> 喻人多了会分享有限的既得利益。<sup>\[泰兴\]</sup>  
 1. 【[多果](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_gu.md#多果)】`du1 gu3` <sup>[东台]</sup> 什么时候。也说“多一果”。“果”是“刻儿”快读转音：～到我家去喝几杯？  
@@ -2336,8 +2332,7 @@
 1. 【[多嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_jy.md#多嘴)】`du1 jy3` <sup>[东台]</sup> 不该说而说：～多舌。  
 1. 【[多嘴多舌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_jy_du_shih.md#多嘴多舌)】`du1 jy3 du1 shih8` <sup>[如皋]</sup> 贬指说了不该说的话。  
 1. 【[多刻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_keh_r.md#多刻<sub>儿</sub>)】`du1 keh9 r` <small>/tʊ1 kʰə˞9/<sup>如皋</sup></small> ① 什么时候。<sup>\[如东\]</sup>：～过来？<sup>\[如东\]</sup> ② 什么时候。<sup>\[如皋\]</sup>  
-1. 【[多里捞摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_lii_lo_mah.md#多里捞摸)】`du1 lii lo2 mah8` <sup>[兴化]</sup> 从薄利多销快销中取得收益：我俫做小本生意的只能～。  
-1. 【[多里捞摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_lii_lo_mah.md#多里捞摸)】`du1 lii lo2 mah8` <small>/tɤɯ1 ləɪ lɔ2 mɑʔ8/<sup>泰兴</sup></small> 在数量较大的物品中搜寻对自己有用的部分。<sup>\[泰兴\]</sup>  
+1. 【[多里捞摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_lii_lo_mah.md#多里捞摸)】`du1 lii lo2 mah8` <small>/to1 ləi lɔ2 maʔ8/<sup>兴化</sup>, /tɤɯ1 ləɪ lɔ2 mɑʔ8/<sup>泰兴</sup></small> ① 从薄利多销快销中取得收益<sup>\[兴化\]</sup>：我俫做小本生意的只能～。<sup>\[兴化\]</sup> ② 在数量较大的物品中搜寻对自己有用的部分。<sup>\[泰兴\]</sup>  
 1. 【[多年媳妇熬成婆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_nin_xieh_fv.md#多年媳妇熬成婆)】`du1 nin2 xieh7 fv ngo2 chen2 pu2` <sup>[东台]</sup> ［喻］（俗语）指随着资历的增长，渐渐由听人使唤变为使唤别人。  
 1. 【[多跑三个店，豆腐大一片](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_po_saen_gu.md#多跑三个店，豆腐大一片)】`du1 po2 saen1 gu din5 teu6 fv da6 ieh7 pin5` <sup>[如皋]</sup> 货比三家。  
 1. 【[多吃点<sub>儿</sub>，少做点<sub>儿</sub>，心里好过点<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_qieh_din_r.md#多吃点<sub>儿</sub>，少做点<sub>儿</sub>，心里好过点<sub>儿</sub>)】`du1 qieh7 din3 r sho3 zu5 din3 r xien1 lii ho3 gu5 din3 r` <sup>[如皋]</sup> 某些人的生活态度。  
@@ -2346,16 +2341,14 @@
 1. 【[多肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_roh.md#多肉)】`du1 roh` <small>/tɤɯ1 ɻɔʔ/<sup>泰兴</sup></small> 谓伤口长出的多余的肉。有时戏称多余的人。<sup>\[泰兴\]</sup>  
 1. 【[多肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_roh.md#多肉)】`du1 roh8` <sup>[兴化]</sup> （喻）多余的人：她觉得自己在这儿好像雪白的脸颊上长了一块紫球——～。（马春阳《小夫小妻解疙瘩》）  
 1. 【[多手多脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_sheu_du_jiah.md#多手多脚)】`du1 sheu3 du1 jiah7` <small>/tɤɯ1 ɕiɤɯ3 tɤɯ1 t͡ɕiɑʔ7/<sup>泰兴</sup></small> 谓不该插手而乱插手。<sup>\[泰兴\]</sup>：你不要在箇许～的<sup>\[泰兴\]</sup>  
-1. 【[多少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_sho.md#多少)】`du1 sho3` <sup>[如东]</sup> ① 询问数量：今天生产～？ ② 表示不定的数量  
-1. 【[多少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_sho.md#多少)】`du1 sho3` <small>/tɤɯ1 sɔ3/<sup>泰兴</sup></small> ① 多或少<sup>\[泰兴\]</sup>：不拘～总可以。<sup>\[泰兴\]</sup>｜～给点那叫花子吧<sup>\[泰兴\]</sup> ② 谓数量的大小<sup>\[泰兴\]</sup>：有～？有十个。<sup>\[泰兴\]</sup> ③ 多，许多<sup>\[泰兴\]</sup>：街上看灯的～人噢<sup>\[泰兴\]</sup>  
+1. 【[多少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_sho.md#多少)】`du1 sho3` <small>/tɤɯ1 sɔ3/<sup>泰兴</sup></small> ① 询问数量<sup>\[如东\]</sup>：今天生产～？<sup>\[如东\]</sup> ② 表示不定的数量<sup>\[如东\]</sup> ③ 多或少<sup>\[泰兴\]</sup>：不拘～总可以。<sup>\[泰兴\]</sup>｜～给点那叫花子吧<sup>\[泰兴\]</sup> ④ 谓数量的大小<sup>\[泰兴\]</sup>：有～？有十个。<sup>\[泰兴\]</sup> ⑤ 多，许多<sup>\[泰兴\]</sup>：街上看灯的～人噢<sup>\[泰兴\]</sup>  
 1. 【[多少不等](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_sho_beh_den.md#多少不等)】`du1 sho3 beh7 den3` <small>/to1 sɔ3 pəʔ7 tən3/<sup>兴化</sup></small> ① 或多或少<sup>\[兴化\]</sup>：“……我的意思，是打我起个头儿，我出给三哥五百文，其余～，听各位弟兄们情愿……”（《广陵潮》六九）<sup>\[兴化\]</sup> ② 多少不一<sup>\[泰州\]</sup>：他这个人平常不肯求人，今吖他既然开啊口，一点儿不把也不好，你～借两个把他，表示个意思。<sup>\[泰州\]</sup>  
 1. 【[多事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_shr.md#多事)】`du1 shr6` <small>/tɤɯ1 sɿ1/<sup>泰兴</sup></small> 做多余的事，做不应该的事。<sup>\[泰兴\]</sup>：我不要你～<sup>\[泰兴\]</sup>｜狗子捉老鼠，～<sup>\[泰兴\]</sup>｜扯裤子放屁，～<sup>\[泰兴\]</sup>  
 1. 【[多事好勤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_shr_ho_qien.md#多事好勤)】`du1 shr6 ho3 qien2` <sup>[泰州]</sup> 为了献殷勤做了本来可以不做的事：这桩事情又不曾有哪个领导布置你弄，你～的弄吖做甚的唦。  
 1. 【[多事好勤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_shr_ho_qien.md#多事好勤)】`du1 shr6 ho5 qien2` <sup>[兴化]</sup> 为了讨好，把不该做的事揽过来做：他～惹啊这个麻烦。  
 1. 【[多事有事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_shr_ieu_shr.md#多事有事)】`du1 shr6 ieu3 shr6` <small>/to1 sɿ6 iɤ3 sɿ6/<sup>兴化</sup>, /tɤɯ1 sɿ1 iɤɯ3 sɿ1/<sup>泰兴</sup></small> ① 自找麻烦，麻烦就来了<sup>\[东台\]</sup>：你偏要去过问人家的家务事，真是～，这下子矛盾缠身吖吧？<sup>\[东台\]</sup> ② 由于多事，惹下是非<sup>\[兴化\]</sup>：“老和尚，没事不要找事做，俗说：省事无事，～……”（扬一《通天河》）<sup>\[兴化\]</sup> ③ 由于做了不该做的事而惹下了是非<sup>\[泰州\]</sup>：本来这桩事就不派你问，你一问，他就死命吊住你不放，你哿解决得了，真是～。<sup>\[泰州\]</sup> ④ 多手多脚地做了事就会有很多事要做。谓自找麻烦。<sup>\[泰兴\]</sup>  
 1. 【[多晚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_vaen.md#多晚)】`du1 vaen3` <small>/to1 uɛ̃3/<sup>兴化</sup></small> ① “多早晚”的简称。<sup>\[东台\]</sup> ② 什么时候<sup>\[兴化\]</sup>：我～说这话的唦？<sup>\[兴化\]</sup>｜“……要问我们大爷～家来，早呢……”（《武松》二）<sup>\[兴化\]</sup>  
-1. 【[多心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_xien.md#多心)】`du1 xien1` <sup>[泰州]</sup> 产生猜忌：他先头不是说的你，你不要～。  
-1. 【[多心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_xien.md#多心)】`du1 xien1` <small>/tɤɯ1 ɕiŋ1/<sup>泰兴</sup></small> 猜疑心重。<sup>\[泰兴\]</sup>  
+1. 【[多心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_xien.md#多心)】`du1 xien1` <small>/tɤɯ1 ɕiŋ1/<sup>泰兴</sup></small> ① 产生猜忌<sup>\[泰州\]</sup>：他先头不是说的你，你不要～。<sup>\[泰州\]</sup> ② 猜疑心重。<sup>\[泰兴\]</sup>  
 1. 【[多心菩萨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_xien_pv_saeh.md#多心菩萨)】`du1 xien1 pv2 saeh7` <small>/to1 ɕin1 pʰu2 sæʔ7/<sup>兴化</sup>, /to1 ɕiŋ1 pʰu2 sæʔ7/<sup>泰县</sup></small> ① 容易起疑心的人<sup>\[东台\]</sup>：他是个～，你不能随便同他开玩笑。<sup>\[东台\]</sup> ② （借）谓多心好疑之人<sup>\[兴化\]</sup>：他是～，跟他说话最好直来直去。<sup>\[兴化\]</sup> ③ 多心的人<sup>\[泰县\]</sup>：这人是个～。<sup>\[泰县\]</sup>  
 1. 【[多歇个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_xih_gu.md#多歇个)】`du1 xih gu` <sup>[如皋]</sup> 什么时候。  
 1. 【[多歇刻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_xih_keh_r.md#多歇刻<sub>儿</sub>)】`du1 xih keh9 r` <sup>[如皋]</sup> 什么时候。  

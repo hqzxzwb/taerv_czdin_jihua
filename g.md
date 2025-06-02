@@ -286,8 +286,7 @@
 1. 【[各人家伢<sub>儿</sub>各人家抱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_ren_ga_nga.md#各人家伢<sub>儿</sub>各人家抱)】`gah7 ren2 ga1 nga2 r gah7 ren2 ga1 po6` <small>/kɑʔ7 ɻəŋ2 kɑ1 ŋɑ˞2 kɑʔ7 ɻəŋ2 kɑ1 pʰɔ1/<sup>泰兴</sup></small> 谓各人的事各人自己办，别人不要来帮忙。<sup>\[泰兴\]</sup>  
 1. 【[各散](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_saen.md#各散)】`gah7 saen5` <small>/kaʔ7 sɛ̃5/<sup>兴化</sup>, /kaʔ7 sẽ5/<sup>如皋</sup>, /kɑʔ7 ɕiɛ̃5/<sup>泰兴</sup></small> 解散，散去<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：会议结束，～。<sup>\[兴化\]</sup>｜“我等欲往太行山一行，你等愿去者随去，不愿去者～。”（《八窍珠》三四）<sup>\[兴化\]</sup>｜鸡毛炒鸭蛋，～<sup>\[泰兴\]</sup>  
 1. 【[各散各散，芝麻两担](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_saen_gah_saen.md#各散各散，芝麻两担)】`gah7 saen5 gah7 saen5 zhr1 ma2 laen3 daen5` <sup>[东台]</sup> 不同意见先别争，各自回去再说。  
-1. 【[各事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_shr.md#各事)】`gah7 shr` <sup>[如皋]</sup> 其他：你家～哿有这种货啦？  
-1. 【[各事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_shr.md#各事)】`gah7 shr` <small>/kɑʔ7 sɿ/<sup>泰兴</sup></small> 其它。<sup>\[泰兴\]</sup>：除掉箇许的，～可有唻？<sup>\[泰兴\]</sup>  
+1. 【[各事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_shr.md#各事)】`gah7 shr` <small>/kaʔ7 sɿ/<sup>如皋</sup>, /kɑʔ7 sɿ/<sup>泰兴</sup></small> 其他<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：你家～哿有这种货啦？<sup>\[如皋\]</sup>｜除掉箇许的，～可有唻？<sup>\[泰兴\]</sup>  
 1. 【[各事个……](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_shr_gu.md#各事个……)】`gah7 shr gu` <sup>[东台]</sup> 后面接“人”“人家”或事，分别指某人某个人家某件事，一般在不便明说时使用。  
 1. 【[各事个人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_shr_gu_ren.md#各事个人)】`gah7 shr gu ren2` <sup>[如皋]</sup> 暗指某人。  
 1. 【[各事条号](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_shr_tio_ho.md#各事条号)】`gah7 shr tio2 ho6` <sup>[如皋]</sup> 暗指双方都知道的某事。  
@@ -856,6 +855,8 @@
 1. 【[藁本](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_ben.md#藁本)】`go3 ben3` <sup>[如东]</sup> 伞科植物藁本，多年生草本。  
 1. 【[藁荐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_jin.md#藁荐)】`go3 jin` <sup>[东台]</sup> 旧时用稻草、麦秸等编成的垫子，铺在床上保温。  
 1. 【[交](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go.md#交)】`go5` <small>/kɔ5/<sup>兴化</sup>, /kɔ5/<sup>如皋</sup></small> ① 量词<sup>\[如皋\]</sup>：头～糏、二～糏。<sup>\[如皋\]</sup> ② 量词，次、遍<sup>\[兴化\]</sup>：浇一～水；薅二～草。<sup>\[兴化\]</sup> ③ 量词，遍，次<sup>\[泰州\]</sup>：这本书的样稿已经校对啊两～唻。<sup>\[泰州\]</sup>｜这块田你下午再打一～药。<sup>\[泰州\]</sup>  
+1. 【[叫花子唱歌——穷开心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_hua_zz_chan.md#叫花子唱歌——穷开心)】`go5 hua1 zz chan5 gu1 qion2 kae1 xien1` <sup>[东台]</sup>   
+1. 【[叫花子唱戏——假快活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_hua_zz_chan.md#叫花子唱戏——假快活)】`go5 hua1 zz chan5 xi5 jia3 kuae5 huh` <sup>[东台]</sup>   
 1. 【[告状](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_chuan.md#告状)】`go5 chuan6` <sup>[如东]</sup> ① 当事人请求司法机关审理某一案件。 ② 向某人的上级、长辈诉说被其欺负或受到不公正的待遇。  
 1. 【[告花子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_hua_zz.md#告花子)】`go5 hua1 zz` <small>/kɔ5 xua1 t͡sɿ/<sup>兴化</sup>, /kɔ5 xua t͡sɿ/<sup>如皋</sup>, /kɔ5 xuɑ t͡sɿ/<sup>泰兴</sup>, /kɔ5 xua1 t͡se/<sup>泰县</sup></small> 乞丐<sup>\[如皋\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>\[兴化：也作“告化子”“叫化子”。\]\[东台：也作叫花子。\]\[如东：也称讨饭子、讨饭花子。\]：～又来啊啦。<sup>\[泰县\]</sup>｜穷快活，富洒落，叫花子打个莲花落<sup>\[泰兴\]</sup>  
 1. 【[告阴状](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_ien_chuan.md#告阴状)】`go5 ien1 chuan6` <small>/kɔ5 in1 t͡sʰuaŋ6/<sup>兴化</sup></small> ① 背后说人坏话。<sup>\[如东\]</sup>：此人爱～，没人欢喜。<sup>\[如东\]</sup> ② 迷信<sup>\[兴化\]</sup>：在阳世斗不过有权势的恶人，死后到阴曹地府去告状。<sup>\[兴化\]</sup> ③ （借）打小报告或写匿名信诬告。<sup>\[兴化\]</sup>  
@@ -1409,8 +1410,7 @@
 1. 【[关公蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_gon_hae.md#关公蟹)】`guaen1 gon1 hae3` <sup>[如东]</sup> 蝤蛑科动物关公蟹，也叫关老爷蟹。  
 1. 【[关公卖豆腐——人硬货不硬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_gon_mae_teu.md#关公卖豆腐——人硬货不硬)】`guaen1 gon1 mae6 teu6 fv ren2 ngen6 hu5 beh7 ngen6` <sup>[东台]</sup>   
 1. 【[关公面前耍大刀——不自量力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_gon_min_qin.md#关公面前耍大刀——不自量力)】`guaen1 gon1 min6 qin2 shua3 da6 do1 beh7 cz6 lian6 lieh8` <sup>[东台]</sup>   
-1. 【[关顾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_gv.md#关顾)】`guaen1 gv5` <sup>[兴化]</sup> 关心、照顾：伢儿在你班上读书，请你～点儿。  
-1. 【[关顾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_gv.md#关顾)】`guaen1 gv5` <small>/kuɛ̃1 ku5/<sup>泰兴</sup></small> 关心照顾。<sup>\[泰兴\]</sup>  
+1. 【[关顾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_gv.md#关顾)】`guaen1 gv5` <small>/kuɛ̃1 ku5/<sup>兴化</sup>, /kuɛ̃1 ku5/<sup>泰兴</sup></small> ① 关心、照顾<sup>\[兴化\]</sup>：伢儿在你班上读书，请你～点儿。<sup>\[兴化\]</sup> ② 关心照顾。<sup>\[泰兴\]</sup>  
 1. 【[关会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_huei.md#关会)】`guaen1 huei` <small>/kuɛ̃1 xuəi/<sup>兴化</sup></small> ① 嘱咐，关照<sup>\[东台\]</sup>：我～你，出门在外要处处小心。<sup>\[东台\]</sup> ② 嘱咐<sup>\[兴化\]</sup>：他临出门，我一再～他注意饮食、冷暖。<sup>\[兴化\]</sup>｜“……不日也要差人去贺他，那时再～他也可。”（《梼杌闲评》九）<sup>\[兴化\]</sup>  
 1. 【[关会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_huei.md#关会)】`guaen1 huei6` <small>/kuẽ1 xuei1/<sup>如皋</sup>, /kuɛ̃1 xuəɪ1/<sup>泰兴</sup>, /kuɛ̃1 xuəɪ1/<sup>泰县</sup></small> ① 交代、吩咐、叫、关照<sup>\[如皋\]</sup>：注意点我总～啊到啊<sup>\[如皋\]</sup>｜你安心蹾吖这许，所有的事我总～过啊，你不要担心。<sup>\[如皋\]</sup> ② 嘱咐<sup>\[泰县\]</sup>：伢儿出门要～他在路上不能卖呆。<sup>\[泰县\]</sup> ③ 泛指口头通知<sup>\[泰州\]</sup>：你～他一句，晚上在人家要少吃点儿酒。<sup>\[泰州\]</sup> ④ 照会；嘱咐。<sup>\[泰兴\]</sup>  
 1. 【[关秧门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_ian_men.md#关秧门)】`guaen1 ian1 men2` <sup>[兴化]</sup> 指水稻栽秧结束。是时主家以面条招待参与栽秧的人。（见《兴化市志·民俗》）  
@@ -1452,8 +1452,7 @@
 1. 【[关头过节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_teu_gu_jih.md#关头过节)】`guaen1 teu2 gu5 jih7` <sup>[泰县]</sup> 来龙去脉。  
 1. 【[关桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_ton.md#关桶)】`guaen1 ton3` <sup>[东台]</sup> 圆形或椭圆形的放衣服的木桶，上盖半面固定，半面活动。  
 1. 【[关亡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_van.md#关亡)】`guaen1 van2` <small>/kuɛ̃1 uaŋ2/<sup>兴化</sup>, /kuɛ̃1 uɑŋ2/<sup>泰兴</sup></small> ① 巫婆假借神鬼附体，前往“阴曹地府”会见亡魂。<sup>\[兴化\]</sup> ② 一种巫术性质的迷信活动，巫者声称死者魂灵附体，与家人进行对话交流<sup>\[泰州\]</sup>：我才不相信你俫说这些～的鬼话。<sup>\[泰州\]</sup> ③ 一种迷信活动。巫婆作法，据说可与已故亲人会面、对话。<sup>\[泰兴\]</sup>  
-1. 【[关饷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_xian.md#关饷)】`guaen1 xian3` <sup>[泰州]</sup> 发放薪金或者工资：外后朝是五号，你家单位上要～唻。  
-1. 【[关饷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_xian.md#关饷)】`guaen1 xian3` <small>/kuɛ̃1 ɕiɑŋ3/<sup>泰兴</sup></small> 旧时称发放或领取薪金。<sup>\[泰兴\]</sup>  
+1. 【[关饷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_xian.md#关饷)】`guaen1 xian3` <small>/kuɛ̃1 ɕiɑŋ3/<sup>泰兴</sup></small> ① 发放薪金或者工资<sup>\[泰州\]</sup>：外后朝是五号，你家单位上要～唻。<sup>\[泰州\]</sup> ② 旧时称发放或领取薪金。<sup>\[泰兴\]</sup>  
 1. 【[关账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_zhan.md#关账)】`guaen1 zhan5` <sup>[兴化]</sup> 暂停账务活动：有单据在年终～前来财务科结报。  
 1. 【[关照](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_zho.md#关照)】`guaen1 zho5` ① 嘱咐 ② 口头通知<sup>\[泰州\]</sup>：你～他医生，就说主任说的，下午的会不开唻。<sup>\[泰州\]</sup> ③ 关心照顾<sup>\[泰州\]</sup>：小李还年轻，工作上还麻烦你老同志多～。<sup>\[泰州\]</sup>  
 1. 【[关子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_zz.md#关子)】`guaen1 zz` <sup>[如东]</sup> ① 一年生草本植物。茎丛生。叶三棱形。头状花序。花色白淡。结蒴果。也叫关草。可以加工蒲包、蒲鞋、蒲垫等。 ② 小说、戏剧情节中最紧要、最吸引入的地方。也叫关节。 ③ 比喻事情的关键。  

@@ -89,8 +89,7 @@
 1. 【[三分钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_fen_qin.md#三分钱)】`saen1 fen qin2` <sup>[兴化]</sup> 指借贷时月息三分：汤瞎子放债，～的利，借一千块，每月利息三十块钱。  
 1. 【[三分帮人真帮人，七分帮人帮煞人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_fen_ban_ren.md#三分帮人真帮人，七分帮人帮煞人)】`saen1 fen1 ban1 ren2 zhen1 ban1 ren2 qieh7 fen1 ban1 ren2 ban1 shaeh7 ren2` <sup>[东台]</sup> 过分向某人倾斜帮助反而有害。  
 1. 【[三分像人，七分像鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_fen_qian_ren.md#三分像人，七分像鬼)】`saen1 fen1 qian6 ren2 qieh7 fen1 qian6 guei3` <sup>[泰兴]</sup> 骂人长相难看。  
-1. 【[三分吃药，七分调理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_fen_qieh_iah.md#三分吃药，七分调理)】`saen1 fen1 qieh7 iah8 qieh7 fen1 tio2 li3` <sup>[泰兴]</sup> 谓人有病，药物治疗只占三分，主要是靠保养、调理。  
-1. 【[三分吃药，七分调理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_fen_qieh_iah.md#三分吃药，七分调理)】`saen1 fen1 qieh7 iah8 qieh7 fen1 tio2 li3` <sup>[东台]</sup> 心理平衡比吃药更利于健康。  
+1. 【[三分吃药，七分调理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_fen_qieh_iah.md#三分吃药，七分调理)】`saen1 fen1 qieh7 iah8 qieh7 fen1 tio2 li3` <small>/ɕiɛ̃1 fəŋ1 t͡ɕʰiəʔ7 iɑʔ8 t͡ɕʰiəʔ7 fəŋ1 tʰiɔ2 lʝ3/<sup>泰兴</sup></small> ① 谓人有病，药物治疗只占三分，主要是靠保养、调理。<sup>\[泰兴\]</sup> ② 心理平衡比吃药更利于健康。<sup>\[东台\]</sup>  
 1. 【[三分三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_fen_saen.md#三分三)】`saen1 fen1 saen1` <small>/sẽ1 fəŋ1 sẽ1/<sup>如皋</sup>, /ɕiɛ̃1 fəŋ1 ɕiɛ̃1/<sup>泰兴</sup></small> ① 比喻相当的把握<sup>\[如皋\]</sup><sup>\[如东\]</sup>：没得～，不吃这碗饭。<sup>\[如皋\]</sup>｜没得～，不吃这碗饭。<sup>\[如东\]</sup> ② 平均分成三个等分。<sup>\[泰兴\]</sup>  
 1. 【[三伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_foh.md#三伏)】`saen1 foh8` <small>/ɕiɛ̃1 fɔʔ8/<sup>泰兴</sup></small> ① 三伏的日期是按照节气的日期并配合干支记日来决定的。按夏历规定，夏至后第三个庚日为初伏，第四个庚日为中伏，立秋后第一个庚日为末伏，共三十天，是一年中最热的时期。<sup>\[如东\]</sup> ② 初伏、中伏、秋伏的统称。是一年当中天气最热的时期<sup>\[东台\]</sup>：冬练三九，夏练～。<sup>\[东台\]</sup> ③ 即初伏、中伏、末伏。农历夏至后至立秋后这一段期间，是一年中最热的时候。<sup>\[泰兴\]</sup>  
 1. 【[三伏天穿皮袍——不看天时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_foh_tin_chun.md#三伏天穿皮袍——不看天时)】`saen1 foh8 tin1 chun1 pi2 po2 beh7 kun5 tin1 shr2` <sup>[东台]</sup>   
@@ -607,8 +606,7 @@
 1. 【[杀渴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_kuh.md#杀渴)】`shaeh7 kuh7` <small>/seʔ7 kʰʊʔ7/<sup>如皋</sup></small> ① 过瘾<sup>\[如皋\]</sup>：吃水烟比吃香烟～<sup>\[如皋\]</sup> ② 解渴<sup>\[泰州\]</sup><sup>\[如皋\]</sup>：小杯儿里头这点儿茶不～，拿大碗倒。<sup>\[泰州\]</sup>｜重色茶～<sup>\[如皋\]</sup>  
 1. 【[杀猫喂猫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_mo_vei_mo.md#杀猫喂猫)】`shaeh7 mo2 vei5 mo2` <sup>[兴化]</sup> （喻）用某项收入去投资办同类的事：我打算～，卖掉旧房，再添点儿钱买一套新房。  
 1. 【[杀坯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_pi.md#杀坯)】`shaeh7 pi1` <sup>[如皋]</sup> 詈语，指天生的要捱杀头的坯料。  
-1. 【[杀千刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_qin_do.md#杀千刀)】`shaeh7 qin1 do1` <sup>[兴化]</sup> 骂人的恶语：这～的，犯甚的凶？｜春香，冬香开口便骂～。（《四杰传》二）  
-1. 【[杀千刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_qin_do.md#杀千刀)】`shaeh7 qin1 do1` <small>/ɕiæʔ7 t͡ɕʰĩ1 tɔ1/<sup>泰兴</sup></small> 骂人语。谓不得好死。<sup>\[泰兴\]</sup>  
+1. 【[杀千刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_qin_do.md#杀千刀)】`shaeh7 qin1 do1` <small>/sæʔ7 t͡ɕʰiɪ̃1 tɔ1/<sup>兴化</sup>, /ɕiæʔ7 t͡ɕʰĩ1 tɔ1/<sup>泰兴</sup></small> ① 骂人的恶语<sup>\[兴化\]</sup>：这～的，犯甚的凶？<sup>\[兴化\]</sup>｜春香，冬香开口便骂～。（《四杰传》二）<sup>\[兴化\]</sup> ② 骂人语。谓不得好死。<sup>\[泰兴\]</sup>  
 1. 【[杀千刀的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_qin_do_dii.md#杀千刀的)】`shaeh7 qin1 do1 dii` <small>/seʔ7 t͡ɕʰĩ1 tɔ1 tei/<sup>如皋</sup></small> ① 詈、昵语<sup>\[如皋\]</sup>：这个～上他家奔的个甚的丧！<sup>\[如皋\]</sup> ② （詈语）骂人该千刀万剐。<sup>\[东台\]</sup>  
 1. 【[杀杀水气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_shaeh_shuei_qi.md#杀杀水气)】`shaeh7 shaeh7 shuei3 qi5` <sup>[如皋]</sup> 发发狠，出掉心中郁闷之气。  
 1. 【[杀馋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_shaen.md#杀馋)】`shaeh7 shaen2` <small>/seʔ7 sẽ2/<sup>如皋</sup></small> ① 解馋。<sup>\[如皋\]</sup> ② 尝一下，初步止馋。<sup>\[东台\]</sup> ③ 充分满足饮食欲望。<sup>\[如东\]</sup>：今朝我吃咖两碗圆子，真～吖！<sup>\[如东\]</sup> ④ 减轻馋的欲望<sup>\[泰州\]</sup>：你烧啊这点儿肉，嫌少，根本不～。<sup>\[泰州\]</sup>  
@@ -2304,8 +2302,7 @@
 1. 【[双钩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_geu_r.md#双钩<sub>儿</sub>)】`shuan1 geu1 r` <sup>[如皋]</sup> 钓具，一根钓鱼线装有上、下两只钩子。  
 1. 【[双箍眼睛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_gv_ngaen_jien.md#双箍眼睛)】`shuan1 gv1 ngaen3 jien` <sup>[泰县]</sup> 双眼皮。  
 1. 【[双箍子眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_gv_zz_ngaen.md#双箍子眼)】`shuan1 gv1 zz ngaen3` 双眼皮<sup>\[如东\]</sup><sup>\[东台\]</sup>：苹苹是～。<sup>\[如东\]</sup>  
-1. 【[双箍子眼睛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_gv_zz_ngaen.md#双箍子眼睛)】`shuan1 gv1 zz ngaen3 jien` <small>/suɑŋ1 ku1 t͡sɿ ŋɛ̃3 t͡ɕiŋ/<sup>泰兴</sup></small> 双眼皮<sup>\[泰兴\]</sup>  
-1. 【[双箍子眼睛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_gv_zz_ngaen.md#双箍子眼睛)】`shuan1 gv1 zz ngaen3 jien` <sup>[兴化]</sup> 双眼皮：我爱哥哥人品好，～乌眉毛。（兴文《盼郎会》）  
+1. 【[双箍子眼睛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_gv_zz_ngaen.md#双箍子眼睛)】`shuan1 gv1 zz ngaen3 jien` <small>/suaŋ1 ku1 t͡sɿ ɛ̃3 t͡ɕin/<sup>兴化</sup>, /suɑŋ1 ku1 t͡sɿ ŋɛ̃3 t͡ɕiŋ/<sup>泰兴</sup></small> 双眼皮<sup>\[泰兴\]</sup><sup>\[兴化\]</sup>：我爱哥哥人品好，～乌眉毛。（兴文《盼郎会》）<sup>\[兴化\]</sup>  
 1. 【[双鞋庄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_hae_zhuan.md#双鞋庄)】`shuan1 hae2 zhuan1` <sup>[东台]</sup> 原广山镇的一个村庄，现为五烈镇双超村。传说七仙女被天兵天将抓上天时，扔下一双鞋给董永做纪念，一只落在河东，一只落在河西，落鞋处分别得名东鞋庄、西鞋庄，合称～。  
 1. 【[双脚踏在棉花堆上——不踏实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_jiah_taeh_cae.md#双脚踏在棉花堆上——不踏实)】`shuan1 jiah7 taeh8 cae6 min2 hua1 dy1 shan6 beh7 taeh8 sheh` <sup>[东台]</sup>   
 1. 【[双吖身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_nga_shen.md#双吖身)】`shuan1 nga shen1` <sup>[东台]</sup> 指妇女怀孕。  

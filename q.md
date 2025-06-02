@@ -78,8 +78,7 @@
 1. 【[齐臻臻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_zhen_zhen.md#齐臻臻)】`qi2 zhen1 zhen1` <sup>[兴化]</sup> 整整齐齐：左右两边～地排着两行官员……（《水浒传》十二）  
 1. 【[齐整](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_zhen.md#齐整)】`qi2 zhen3` <sup>[如东]</sup> ① 整齐，符合规格：一定要～ ② 很好：这副牌～。  
 1. 【[齐整整](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_zhen_zhen.md#齐整整)】`qi2 zhen3 zhen3` <sup>[兴化]</sup> 见“齐齐整整”。  
-1. 【[齐卓卓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_zhuah_zhuah.md#齐卓卓)】`qi2 zhuah7 zhuah7` <sup>[兴化]</sup> 形容整齐竖立：场上～的摆啊一捆捆的小麦稭子。  
-1. 【[齐卓卓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_zhuah_zhuah.md#齐卓卓)】`qi2 zhuah7 zhuah7` <small>/t͡ɕʰʝ2 t͡suɑʔ7 t͡suɑʔ7/<sup>泰兴</sup></small> 整齐。<sup>\[泰兴\]</sup>  
+1. 【[齐卓卓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_zhuah_zhuah.md#齐卓卓)】`qi2 zhuah7 zhuah7` <small>/t͡ɕʰi2 t͡suaʔ7 t͡suaʔ7/<sup>兴化</sup>, /t͡ɕʰʝ2 t͡suɑʔ7 t͡suɑʔ7/<sup>泰兴</sup></small> ① 形容整齐竖立<sup>\[兴化\]</sup>：场上～的摆啊一捆捆的小麦稭子。<sup>\[兴化\]</sup> ② 整齐。<sup>\[泰兴\]</sup>  
 1. 【[齐捉捉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_zhuah_zhuah.md#齐捉捉)】`qi2 zhuah7 zhuah7` <sup>[泰县]</sup> 整整齐齐：这卡片放吖～的。  
 1. 【[齐捉捉的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_zhuah_zhuah_dii.md#齐捉捉的)】`qi2 zhuah7 zhuah7 dii` <sup>[东台]</sup> 整齐，无短缺：阖家老小～站吖跟前。  
 1. 【[启口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_keu.md#启口)】`qi3 keu3` <sup>[兴化]</sup> 开口：只见阁罗天子～问道……（《老残游记》二七）。“别的东西不来干渎，只这件，是宅上有余的，故此敢来～。”（《警世通言》二二）  
@@ -424,8 +423,7 @@
 1. 【[墙板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_baen.md#墙板)】`qian2 baen3` <sup>[如东]</sup> 房间两边的板。棺材两边的板。  
 1. 【[墙塴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_bon_r.md#墙塴<sub>儿</sub>)】`qian2 bon5 r` <sup>[如皋]</sup> 墙角内、夹墙间。两墙相夹的暗处。  
 1. 【[墙倒壁塌的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_do_bieh_taeh.md#墙倒壁塌的)】`qian2 do3 bieh7 taeh7 dii` <sup>[如皋]</sup> 房屋严重毁坏的样子。  
-1. 【[墙倒众人推](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_do_zhon_ren.md#墙倒众人推)】`qian2 do3 zhon5 ren2 ty1` <sup>[如皋]</sup> 大家跟着对失势者落井下石。  
-1. 【[墙倒众人推](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_do_zhon_ren.md#墙倒众人推)】`qian2 do5 zhon5 ren2 ty1` <sup>[东台]</sup> ［喻］在失势或倒霉时备受欺负：这个局长被“双规”以后，他老婆都捱人骂，真是～！  
+1. 【[墙倒众人推](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_do_zhon_ren.md#墙倒众人推)】`qian2 do3 zhon5 ren2 ty1` <small>/t͡ɕʰiã2 tɔ3 t͡sɔŋ5 ɻəŋ2 tʰy1/<sup>如皋</sup></small> ① 大家跟着对失势者落井下石。<sup>\[如皋\]</sup> ② ［喻］在失势或倒霉时备受欺负<sup>\[东台\]</sup>：这个局长被“双规”以后，他老婆都捱人骂，真是～！<sup>\[东台\]</sup>  
 1. 【[墙垛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_du_zz.md#墙垛子)】`qian2 du3 zz` <sup>[如皋]</sup> 墙体上起稳定加固作用的方柱状凸出结构。  
 1. 【[墙角落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_gah_lah.md#墙角落)】`qian2 gah7 lah` <sup>[兴化]</sup> ① 墙角。 ② 墙壁附近的地方。  
 1. 【[墙拐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_guae_zz.md#墙拐子)】`qian2 guae3 zz` <sup>[兴化]</sup> 两堵墙相接而形成的墙角：他躲啊这边，偷偷看对过那家大门。  

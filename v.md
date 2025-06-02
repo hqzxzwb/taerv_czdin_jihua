@@ -1060,6 +1060,5 @@
 1. 【[问头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_teu.md#问头)】`ven6 teu` <sup>[兴化]</sup> 问的必要：这件事与己无关，没得～。｜“……反正不是人家的，没得～。”（马春阳《访亲》）  
 1. 【[问题](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_ti.md#问题)】`ven6 ti2` <sup>[如东]</sup> 需要研究的矛盾。要求解答的题目。  
 1. 【[问心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_xien.md#问心)】`ven6 xien1` <sup>[如皋]</sup> ① 有良心：这个人好，～。 ② 反省、反思：这件事我～无愧！  
-1. 【[问信](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_xien.md#问信)】`ven6 xien5` <sup>[兴化]</sup> ① 探听回音：先叫伢儿去～，看他明朝哿来。 ② 过问：他今乃是失势之人，那里还有人来～。（《官场现形记》二八）｜童谚｜不提名，不提姓，哪个狗子来～！  
-1. 【[问信](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_xien.md#问信)】`ven6 xien5` <small>/ʋəŋ1 ɕiəŋ5/<sup>如皋</sup>, /ʋəŋ1 ɕiŋ5/<sup>泰兴</sup></small> ① 关心、照顾<sup>\[如皋\]</sup>：你家老子个人瘫吖家里，你哿～吖？<sup>\[如皋\]</sup> ② 过问<sup>\[泰州\]</sup>：他把家里作得这个样子，你俫也不～。<sup>\[泰州\]</sup> ③ 过问。查询。<sup>\[泰兴\]</sup>：箇桩事到今朝不曾有人～<sup>\[泰兴\]</sup>  
+1. 【[问信](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_xien.md#问信)】`ven6 xien5` <small>/uən6 ɕin5/<sup>兴化</sup>, /ʋəŋ1 ɕiəŋ5/<sup>如皋</sup>, /ʋəŋ1 ɕiŋ5/<sup>泰兴</sup></small> ① 探听回音<sup>\[兴化\]</sup>：先叫伢儿去～，看他明朝哿来。<sup>\[兴化\]</sup> ② 过问<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：他今乃是失势之人，那里还有人来～。（《官场现形记》二八）<sup>\[兴化\]</sup>｜童谚<sup>\[兴化\]</sup>｜不提名，不提姓，哪个狗子来～！<sup>\[兴化\]</sup>｜他把家里作得这个样子，你俫也不～。<sup>\[泰州\]</sup> ③ 关心、照顾<sup>\[如皋\]</sup>：你家老子个人瘫吖家里，你哿～吖？<sup>\[如皋\]</sup> ④ 过问。查询。<sup>\[泰兴\]</sup>：箇桩事到今朝不曾有人～<sup>\[泰兴\]</sup>  
 **[▲](#音序检索)**  

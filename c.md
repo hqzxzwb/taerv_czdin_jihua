@@ -1144,7 +1144,7 @@
 1. 【[潮乎乎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_hv_hv.md#潮乎乎)】`cho2 hv1 hv1` <small>/t͡sʰɔ2 fu1 fu1/<sup>如皋</sup></small> ① 湿润。<sup>\[如东\]</sup>：衣服～的。<sup>\[如东\]</sup> ② 湿润的样子。<sup>\[如皋\]</sup>  
 1. 【[潮洇洇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_ien_ien.md#潮洇洇)】`cho2 ien5 ien5` <sup>[如皋]</sup> 湿润的样子。  
 1. 【[潮叽叽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_ji_ji.md#潮叽叽)】`cho2 ji ji` <sup>[如东]</sup> 潮湿：地上～的。  
-1. 【[潮叽卤湿的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_ji_lv_sheh.md#潮叽卤湿的)】`cho2 ji lv3 sheh7 dii` <small>/t͡sʰɔ2 t͡ɕʝ lu3 səʔ7 tei/<sup>如皋</sup></small> ① 潮湿的样子<sup>\[如皋\]</sup> ② 含水欲滴的样子<sup>\[如皋\]</sup>  
+1. 【[潮叽卤湿的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_ji_lv_sheh.md#潮叽卤湿的)】`cho2 ji lv3 sheh7 dii` <small>/t͡sʰɔ2 t͡ɕʝ lu3 səʔ7 tei/<sup>如皋</sup></small> 潮湿的样子，或含水欲滴的样子<sup>\[如皋\]</sup>  
 1. 【[潮叽露湿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_ji_lv_sheh.md#潮叽露湿)】`cho2 ji lv6 sheh` <sup>[如东]</sup> 非常潮湿：霉雨季节，家里～的。  
 1. 【[潮叽露刷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_ji_lv_shuaeh.md#潮叽露刷)】`cho2 ji lv6 shuaeh7` <sup>[如东]</sup> 又潮又滑：路上～。  
 1. 【[潮叽叽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_ji_ji.md#潮叽叽)】`cho2 ji1 ji1` <small>/t͡sʰɔ2 t͡ɕʝ1 t͡ɕʝ1/<sup>如皋</sup></small> ① 湿润的样子。<sup>\[如皋\]</sup> ② 形容湿漉漉的，含水较多的样子。<sup>\[东台\]</sup>  
@@ -1702,7 +1702,7 @@
 1. 【[穿开裆裤的兄弟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_kae_dan_kv.md#穿开裆裤的兄弟)】`chun1 kae1 dan1 kv5 dii xion1 ti` <sup>[如皋]</sup> 从小一块长大的兄弟。  
 1. 【[穿口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_keu.md#穿口)】`chun1 keu3` <sup>[如东]</sup> 帆船上从船头到船尾的两根封口的长木条，位于舱口两边。  
 1. 【[穿孔的车胎——泄咖气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_kon_dii_cha.md#穿孔的车胎——泄咖气)】`chun1 kon3 dii cha1 tae1 xih7 ga qi5` <sup>[东台]</sup>   
-1. 【[穿连裆裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_lin_dan_kv.md#穿连裆裤)】`chun1 lin2 dan1 kv5` <small>/t͡sʰũ1 liɪ̃2 taŋ1 kʰu5/<sup>兴化</sup></small> ① （喻）互相勾结干坏事：他俫穿的～，查到这个，就跑不了那个。<sup>\[兴化\]</sup> ② 比喻双方因为利益相关而勾结在一起<sup>\[泰州\]</sup>：他俫两个是～的。<sup>\[泰州\]</sup>  
+1. 【[穿连裆裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_lin_dan_kv.md#穿连裆裤)】`chun1 lin2 dan1 kv5` <small>/t͡sʰũ1 liɪ̃2 taŋ1 kʰu5/<sup>兴化</sup></small> ① （喻）互相勾结干坏事<sup>\[兴化\]</sup>：他俫穿的～，查到这个，就跑不了那个。<sup>\[兴化\]</sup> ② 比喻双方因为利益相关而勾结在一起<sup>\[泰州\]</sup>：他俫两个是～的。<sup>\[泰州\]</sup>  
 1. 【[穿连裆裤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_lin_dan_kv.md#穿连裆裤子)】`chun1 lin2 dan1 kv5 zz` <sup>[如皋]</sup> 喻串通一气。  
 1. 【[穿鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_pieh_zz.md#穿鼻子)】`chun1 pieh8 zz` <sup>[如皋]</sup> 给青年牛刺穿鼻中膈，装上“鼻桊儿”，开始教习劳作。  
 1. 【[穿斜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_qia.md#穿斜)】`chun1 qia2` <sup>[如东]</sup> 前后或左右错开：这些东西你要～啊摆。  

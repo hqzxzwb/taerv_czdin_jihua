@@ -1365,8 +1365,7 @@
 1. 【[交伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_foh.md#交伏)】`jio1 foh8` <small>/t͡ɕiɔ1 fɔʔ8/<sup>泰兴</sup></small> 进入伏天。<sup>\[泰兴\]</sup>  
 1. 【[交关](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_guaen.md#交关)】`jio1 guaen1` <small>/t͡ɕiɔ1 kuẽ1/<sup>如皋</sup></small> ① 形容很多。<sup>\[如东\]</sup>：今朝的海货～吖。<sup>\[如东\]</sup> ② 很、历害。程度副词，多作补语：疼得～。<sup>\[如皋\]</sup>  
 1. 【[交关过渡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_guaen_gu_tv.md#交关过渡)】`jio1 guaen1 gu5 tv6` <sup>[兴化]</sup> （喻）关键时刻：说玩话哩，～，成数就在这一刻。（杨说《闯昭关》）  
-1. 【[交关山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_guaen_shaen.md#交关山)】`jio1 guaen1 shaen1` <sup>[如东]</sup> 形容很多很多：市场上的西瓜～。  
-1. 【[交关山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_guaen_shaen.md#交关山)】`jio1 guaen1 shaen1` <small>/t͡ɕiɔ1 kuɛ̃1 ɕiɛ̃1/<sup>泰兴</sup></small> 所担负的责任。<sup>\[泰兴\]</sup>：就是格大的～，我担量得起。<sup>\[泰兴\]</sup>  
+1. 【[交关山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_guaen_shaen.md#交关山)】`jio1 guaen1 shaen1` <small>/t͡ɕiɔ1 kuɛ̃1 ɕiɛ̃1/<sup>泰兴</sup></small> ① 形容很多很多。<sup>\[如东\]</sup>：市场上的西瓜～。<sup>\[如东\]</sup> ② 所担负的责任。<sup>\[泰兴\]</sup>：就是格大的～，我担量得起。<sup>\[泰兴\]</sup>  
 1. 【[交搿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_guh.md#交搿)】`jio1 guh7` <sup>[如皋]</sup> 结交：这份礼～他。  
 1. 【[交好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_ho.md#交好)】`jio1 ho3` <sup>[如东]</sup> 男女之间有私情。  
 1. 【[交换](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_hun.md#交换)】`jio1 hun6` <sup>[如东]</sup> 相互对斢。  
@@ -1469,8 +1468,6 @@
 1. 【[叫个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_gu.md#叫个)】`jio5 gu` 发语词，用在开启话头之前，或者支支吾吾的时候，相当于普通话的“这个，呃”。  
 1. 【[叫花子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_hua_zz.md#叫花子)】`jio5 hua1 zz` <sup>[东台]</sup> 乞丐，也叫告花子。  
 1. 【[叫花子拨算盘——穷打算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_hua_zz_buh.md#叫花子拨算盘——穷打算)】`jio5 hua1 zz buh7 sun5 pun2 qion2 da3 sun5` <sup>[东台]</sup>   
-1. 【[叫花子唱歌——穷开心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_hua_zz_chan.md#叫花子唱歌——穷开心)】`jio5 hua1 zz chan5 gu1 qion2 kae1 xien1` <sup>[东台]</sup>   
-1. 【[叫花子唱戏——假快活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_hua_zz_chan.md#叫花子唱戏——假快活)】`jio5 hua1 zz chan5 xi5 jia3 kuae5 huh` <sup>[东台]</sup>   
 1. 【[叫花子打掉讨饭碗——冲吖家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_hua_zz_da.md#叫花子打掉讨饭碗——冲吖家)】`jio5 hua1 zz da3 tio to3 faen6 un3 chon1 nga ga1` <sup>[东台]</sup>   
 1. 【[叫花子吃剩饭——自讨的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_hua_zz_qieh.md#叫花子吃剩饭——自讨的)】`jio5 hua1 zz qieh7 chen5 faen6 cz6 to3 dii` <sup>[东台]</sup>   
 1. 【[叫花子晒太阳——享天福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_hua_zz_shae.md#叫花子晒太阳——享天福)】`jio5 hua1 zz shae5 tae5 ian2 xian3 tin1 foh7` <sup>[东台]</sup>   
