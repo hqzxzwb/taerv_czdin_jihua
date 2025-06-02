@@ -10,7 +10,7 @@
 1. 【[屋后头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_heu_teu.md#屋后头)】`oh7 heu6 teu` <sup>[兴化]</sup> 住房的后头：我家～是个大巷。也称“家后头”。  
 1. 【[屋檐头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_in_teu.md#屋檐头)】`oh7 in2 teu` <sup>[东台]</sup> 屋面伸出墙外的部分。  
 1. 【[屋脊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_jieh.md#屋脊)】`oh7 jieh7` <sup>[如东]</sup> 屋顶中间高起的部分。  
-1. 【[屋脊上的冬瓜——两边滚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_jieh_shan_dii_don_gua_laen_bin_guen.md#屋脊上的冬瓜——两边滚)】`oh7 jieh7 shan6 dii don1 gua1 laen3 bin1 guen3` <sup>[东台]</sup>   
+1. 【[屋脊上的冬瓜——两边滚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_jieh_shan_dii.md#屋脊上的冬瓜——两边滚)】`oh7 jieh7 shan6 dii don1 gua1 laen3 bin1 guen3` <sup>[东台]</sup>   
 1. 【[屋脊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_jieh_zz.md#屋脊子)】`oh7 jieh7 zz` <sup>[东台]</sup> 房顶中间高起的部分。  
 1. 【[屋尖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_jin.md#屋尖)】`oh7 jin1` <sup>[如东]</sup> 屋顶两边高出屋脊的建筑物，有尖形、方形、圆形等多种式样。  
 1. 【[屋梁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_lian.md#屋梁)】`oh7 lian2` <sup>[兴化]</sup> 檩。架在屋架或山墙上面用来支持椽子盖屋面的长条形构件。也称“桁条”。  
@@ -33,17 +33,17 @@
 1. 【[横间](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_gaen.md#横间)】`on2 gaen1` <sup>[如皋]</sup> ① 房子左右的长度。 ② 见“开间”。  
 1. 【[横路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_lv.md#横路)】`on2 lv6` <sup>[如东]</sup> 东西向的道路。  
 1. 【[横眉竖眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_mi_shv_ngaen.md#横眉竖眼)】`on2 mi2 shv6 ngaen3` <sup>[如东]</sup> 形容很不高兴：他看见你，～的，不高兴。  
-1. 【[横吖膀子㨟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_nga_ban_zz_gae.md#横吖膀子㨟)】`on2 nga ban3 zz gae1` <sup>[泰县]</sup> 随心所欲：这个人在单位上～。  
+1. 【[横吖膀子㨟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_nga_ban_zz.md#横吖膀子㨟)】`on2 nga ban3 zz gae1` <sup>[泰县]</sup> 随心所欲：这个人在单位上～。  
 1. 【[横吖心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_nga_xien.md#横吖心)】`on2 nga xien1` <sup>[如东]</sup> 下了狠心：他～，一定要这吖做。  
 1. 【[横横毌毌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_on_kuaeh_kuaeh.md#横横毌毌)】`on2 on2 kuaeh8 kuaeh8` <sup>[如皋]</sup> 勾连阻碍：扛毛竹走路～的。  
 1. 【[横七竖八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_qieh_shv_baeh.md#横七竖八)】`on2 qieh7 shv6 baeh7` ① 次序混乱。<sup>\[如东\]</sup>：竹竿～的摆啊下，不好看。<sup>\[如东\]</sup> ② 杂乱无章。<sup>\[东台\]</sup><sup>\[泰州\]</sup>：他家天井里满地都是～的竹子。<sup>\[泰州\]</sup> ③ ［引］态度蛮横，不上规矩<sup>\[东台\]</sup>：那人再～的，哪个睬他？<sup>\[东台\]</sup>  
-1. 【[横吃萝卜竖吃姜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_qieh_lu_poh_shv_qieh_jian.md#横吃萝卜竖吃姜)】`on2 qieh7 lu2 poh shv6 qieh7 jian1` <sup>[东台]</sup> 形容依疯作邪，不上规矩。  
+1. 【[横吃萝卜竖吃姜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_qieh_lu_poh.md#横吃萝卜竖吃姜)】`on2 qieh7 lu2 poh shv6 qieh7 jian1` <sup>[东台]</sup> 形容依疯作邪，不上规矩。  
 1. 【[横肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_roh.md#横肉)】`on2 roh8` <sup>[东台]</sup> 脸上的给人感觉十分凶恶的肌肉：胡传魁一脸～。  
 1. 【[横生倒养](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_shen_do_ian.md#横生倒养)】`on2 shen1 do5 ian3` <sup>[泰县]</sup> （禁忌语）不能生育：这个人家～，是个绝后代。  
-1. 【[横说横答，武说武答](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_shuh_on_daeh_v_shuh_v_daeh.md#横说横答，武说武答)】`on2 shuh7 on2 daeh7 v3 shuh7 v3 daeh7` <sup>[东台]</sup> 形容某人厉害，敢于较量，从不让步示弱。  
+1. 【[横说横答，武说武答](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_shuh_on_daeh.md#横说横答，武说武答)】`on2 shuh7 on2 daeh7 v3 shuh7 v3 daeh7` <sup>[东台]</sup> 形容某人厉害，敢于较量，从不让步示弱。  
 1. 【[横竖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_shv.md#横竖)】`on2 shv6` <small>/ɔŋ2 su1/<sup>如皋</sup></small> 反正，无论如何都<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰州\]</sup>：～不行。<sup>\[如东\]</sup>｜这个项目一二名都是中国人，金牌～是中国的。<sup>\[东台\]</sup>｜你去不去都行，～是这回事。<sup>\[泰州\]</sup>  
 1. 【[横竖横](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_shv_on.md#横竖横)】`on2 shv6 on2` <small>/oŋ2 su6 oŋ2/<sup>兴化</sup></small> ① 无论如何。<sup>\[如东\]</sup>：～，我要拼到底。<sup>\[如东\]</sup> ② 反正如此，索性横下心来<sup>\[兴化\]</sup>：他把心一横，来个～，看大家怎吖对付自己。<sup>\[兴化\]</sup>  
-1. 【[横挑鼻子竖挑眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_tio_pieh_zz_shv_tio_ngaen.md#横挑鼻子竖挑眼)】`on2 tio1 pieh8 zz shv6 tio1 ngaen3` <sup>[东台]</sup> 比喻多方挑剔。  
+1. 【[横挑鼻子竖挑眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_tio_pieh_zz.md#横挑鼻子竖挑眼)】`on2 tio1 pieh8 zz shv6 tio1 ngaen3` <sup>[东台]</sup> 比喻多方挑剔。  
 1. 【[横五六犟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_v_loh_qian.md#横五六犟)】`on2 v3 loh8 qian6` <sup>[兴化]</sup> 固执、顶牛，不服管教：这个小伙～的，一点不听话。  
 1. 【[横砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_zhun.md#横砖)】`on2 zhun1` <sup>[如皋]</sup> 砌墙时，砖阔面向上以长顺墙而砌。与“丁”砖相对。  
 1. 【[横子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_zz.md#横子)】`on2 zz` <sup>[如皋]</sup> 指杆秤。  
@@ -55,7 +55,7 @@
 1. 【[齆鼻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_pieh_r.md#齆鼻<sub>儿</sub>)】`on5 pieh8 r` <sup>[东台]</sup> 因鼻孔堵塞而发音不清。  
 1. 【[齆鼻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_pieh_r.md#齆鼻<sub>儿</sub>)】`on5 pieh8 r, ngon5 pieh8 r` <sup>[如皋]</sup> 软腭缺损者。  
 1. 【[齆鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_pieh_zz.md#齆鼻子)】`on5 pieh8 zz` <sup>[如东]</sup> 因鼻腔阻塞而发音不清。因鼻腔阻塞而嗅觉不灵敏。  
-1. 【[齆鼻子菩萨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_pieh_zz_pv_saeh.md#齆鼻子菩萨)】`on5 pieh8 zz pv2 saeh7` <sup>[如东]</sup> 鼻腔阻塞嗅觉不灵敏，香臭不分。比喻分不清好坏：～进茅坑，香臭不分。  
+1. 【[齆鼻子菩萨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_pieh_zz_pv.md#齆鼻子菩萨)】`on5 pieh8 zz pv2 saeh7` <sup>[如东]</sup> 鼻腔阻塞嗅觉不灵敏，香臭不分。比喻分不清好坏：～进茅坑，香臭不分。  
 1. 【[齆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_zz.md#齆子)】`on5 zz, ngon5 zz` <sup>[如皋]</sup> 软腭缺损者。  
 1. 【[𨞑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on.md#𨞑)】`on5, ngon5` <sup>[如皋]</sup> 一种腐臭味：～味、～臭，发～。  
 1. 【[𨞑胨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_don.md#𨞑胨)】`on5 don5` <sup>[泰县]</sup> 臭味难闻：这间房子有～臭。  
