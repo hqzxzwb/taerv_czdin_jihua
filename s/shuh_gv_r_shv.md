@@ -5,7 +5,6 @@ shuh7 gv3 r shv1
 - 耐心劝说
   - 他教育人有耐心，如～。
 
-
 # 说鼓儿书的
 shuh7 gv3 r shv1 dii
 > 东台方言词典

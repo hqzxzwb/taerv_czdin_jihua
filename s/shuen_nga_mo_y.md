@@ -6,7 +6,6 @@ shuen6 nga mo2 y3
 - 顺着脾气。
   - 你要～说，他才听得进去。
 
-
 # 顺吖毛羽抹
 shuen6 nga mo2 y3 maeh8
 > 如皋方言词典

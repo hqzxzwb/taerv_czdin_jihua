@@ -4,7 +4,6 @@ ieu3 nae3 nae meh8 dia1 dia
 - 形容不紧不慢的样子
   - 你忙自己先走，等他～的，早唻！
 
-
 # 有耐耐，没耐耐
 ieu3 nae6 nae6 meh8 nae6 nae6
 > 东台方言词典

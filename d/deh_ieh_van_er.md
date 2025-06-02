@@ -4,7 +4,6 @@ deh7 ieh7 van6 er6
 - 有了一还想得到二，表示贪心。
   - 不能～。
 
-
 # 得一望二，鼻子拉丈二
 deh7 ieh7 van6 er6 pieh8 zz la1 chan6 er6
 > 东台方言词典

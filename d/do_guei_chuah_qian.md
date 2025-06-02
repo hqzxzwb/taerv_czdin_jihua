@@ -7,7 +7,6 @@ do3 guei3 chuah7 qian1
   * 东台方言词典
     - 有话公开说，不要～的。
 
-
 # 捣鬼戳枪的
 do3 guei3 chuah7 qian1 dii
 > 如皋方言词典

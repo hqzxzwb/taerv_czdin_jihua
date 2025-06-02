@@ -3,7 +3,6 @@ shuh7 da6 hua6 ion6 xio3 qin2
 > 东台方言词典
 - （俗语）形容人口头慷慨，实际上非常吝啬。
 
-
 # 说大话用小钱儿
 shuh7 da6 hua6 ion6 xio3 qin2 r
 > 如皋方言词典

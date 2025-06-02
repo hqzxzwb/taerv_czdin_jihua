@@ -4,7 +4,6 @@ iuh8 qion2 iuh8 huh7 lv3
 - 厄运总是落在不幸者头上
   - 他正为学费发愁，自行车又捱偷啊，真是～。
 
-
 # 越穷越喝卤，越冷越降风
 iuh8 qion2 iuh8 huh7 lv3 iuh8 len3 iuh8 gan5 fon1
 > 东台方言词典

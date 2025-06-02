@@ -7,7 +7,6 @@ gueh7 teu gueh7 xyen3
   * 泰州方言词典4
   - 你做儿子的，身上连～都是你家老子把你的。
 
-
 # 骨头骨髓儿
 gueh7 teu2 gueh7 xyen3 r
 > 东台方言词典
@@ -22,7 +21,6 @@ gueh7 teu gueh7 xyen3 r
 - 身体的所有部分。
 - 泛指人的一切情况
   - 你～都是我的。
-
 
 # 骨头骨髓儿里
 gueh7 teu gueh7 xyen3 r lii

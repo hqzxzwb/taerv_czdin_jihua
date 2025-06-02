@@ -19,7 +19,6 @@ dieh7 gah7 zhaen3 fan1
 - 四角方方的样子
   - 他家的豆腐大小一样，～，没得话说。
 
-
 # 的角斩方的
 dieh7 gah7 zhaen3 fan1 dii
 > 如皋方言词典

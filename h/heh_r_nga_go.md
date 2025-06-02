@@ -3,7 +3,6 @@ heh7 r nga2 go1
 > 如皋方言词典
 - 指肤色较黑的人。
 
-
 # 黑儿牙膏，不挤不冒
 heh7 r nga2 go1 beh7 ji3 beh7 mo6
 > 如皋方言词典

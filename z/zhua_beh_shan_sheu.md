@@ -4,7 +4,6 @@ zhua1 beh7 shan6 sheu3
 - 不值得抓。
 - 难抓。
 
-
 # 抓不上手，沰不上墙
 zhua1 beh7 shan6 sheu3 dah7 beh7 shan6 qian2
 + 形容无用，实在扶不起来。

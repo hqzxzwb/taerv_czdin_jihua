@@ -3,7 +3,6 @@ geh7 lii geh7 daeh7
 > 东台方言词典
 - 不平滑，不顺手。
 
-
 # 疙里疙瘩的
 geh7 lii geh7 daeh7 dii
 > 如皋方言词典

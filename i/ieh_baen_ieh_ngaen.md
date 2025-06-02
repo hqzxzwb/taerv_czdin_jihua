@@ -4,7 +4,6 @@ ieh7 baen3 ieh7 ngaen3
 - 举止正统刻板。
   - 他做事总是～的，快不起来。
 
-
 # 一板一眼的
 ieh7 baen3 ieh7 ngaen3 dii
 > 如皋方言词典

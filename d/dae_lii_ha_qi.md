@@ -8,7 +8,6 @@ dae1 lii ha2 qi5
 + 形容人缺乏灵气。
   * 兴化方言词典
 
-
 # 呆里瘕气的
 dae1 lii ha2 qi5 dii
 > 如皋方言词典

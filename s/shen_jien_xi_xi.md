@@ -8,7 +8,6 @@ shen2 jien1 xi1 xi1
 + 精神不正常：你～的做甚的？
   * 泰县方言志
 
-
 # 神经兮兮的
 shen2 jien1 xi1 xi1 dii
 > 如皋方言词典

@@ -4,7 +4,6 @@ mi2 ngaen3 beh7 kae1
 - 昏昏欲睡的样子。
   - 做作业做到十二点钟，已经～啊。
 
-
 # 眉眼不开阔
 mi2 ngaen3 beh7 kae1 kuh7
 > 如皋方言词典

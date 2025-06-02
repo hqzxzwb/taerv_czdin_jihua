@@ -5,7 +5,6 @@ qieh7 er6 baeh7 pon5
   - 他在外地～的寻个老婆家来。
   - 他～的中吖个大奖。
 
-
 # 七而八碰的
 qieh7 er baeh7 pon5 dii
 > 如皋方言词典

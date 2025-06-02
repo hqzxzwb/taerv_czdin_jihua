@@ -9,7 +9,6 @@ loh8 un3 baeh7 dih7
   * 泰州方言词典4
   - 过去乡里有事请客有个～就蛮好的唻！
 
-
 # 六碗八碟四水果
 loh8 un3 baeh7 dih7 sz5 shuei3 gu3
 > 东台方言词典

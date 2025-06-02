@@ -13,7 +13,6 @@ lian6 teu2 lian6 ngaen3
   * 泰州方言词典4
   - 天还不曾黑，趁现在～的，早点把外栋晒的些东西收家去。
 
-
 # 亮头亮眼的
 lian6 teu2 lian6 ngaen3 dii
 > 如皋方言词典

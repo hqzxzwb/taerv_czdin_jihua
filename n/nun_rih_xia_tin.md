@@ -4,7 +4,6 @@ nun3 rih8 xia6 tin1
 - 天气比较炎热。
   - ～的，这吖多人挤啊一起做甚的？
 
-
 # 暖日夏天的
 nun3 rih8 xia6 tin1 dii
 > 如皋方言词典

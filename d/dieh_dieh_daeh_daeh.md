@@ -5,7 +5,6 @@ dieh7 dieh7 daeh7 daeh7
 - ［喻］零零碎碎不成系统或不完整
   - 你不要～地送，成趸吖拿啊来也不迟。
 
-
 # 滴滴答答的
 dieh7 dieh7 daeh7 daeh7 dii
 > 如皋方言词典

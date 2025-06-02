@@ -4,7 +4,6 @@ ieh7 pi5 gu laen3 leh8 sheh8
 - 极言满身的（债务）
   - 他这趟生意亏得精光，还空吖～的债。
 
-
 # 一屁股两肋心
 ieh7 pi5 gu laen3 leh8 xien
 > 泰兴方言辞典

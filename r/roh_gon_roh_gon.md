@@ -3,7 +3,6 @@ roh8 gon3 roh8 gon3
 > 泰县方言志
 - 暗中寻衅。
 
-
 # 肉拱肉拱的
 roh8 gon3 roh8 gon3 dii
 + 强忍怒气，内心拱动不停。

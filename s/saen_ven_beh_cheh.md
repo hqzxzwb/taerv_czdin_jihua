@@ -6,7 +6,6 @@ saen1 ven2 beh7 cheh8 er6 ven2
   * 泰兴方言辞典
     - 箇些过啊时的家具～，卖不到多少钱。
 
-
 # 三文不值三文
 saen1 ven2 beh7 cheh8 saen1 ven2
 > 兴化方言词典

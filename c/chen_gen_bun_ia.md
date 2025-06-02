@@ -10,7 +10,6 @@ chen2 gen1 bun5 ia6
   * 泰兴方言辞典
     - 他耍心重，常时～的不归家。
 
-
 # 成更半夜的
 chen2 gen1 bun5 ia6 dii
 + 状夜深了还……

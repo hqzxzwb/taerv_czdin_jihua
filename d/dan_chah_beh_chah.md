@@ -15,7 +15,6 @@ dan1 chah8 beh7 chah8
 + 谓该做的事不做，不该做的事却做了。
   * 泰兴方言辞典
 
-
 # 当着不着的
 dan1 chah8 beh7 chah8 dii
 > 如皋方言词典

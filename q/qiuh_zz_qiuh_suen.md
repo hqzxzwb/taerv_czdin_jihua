@@ -6,7 +6,6 @@ qiuh8 zz3 qiuh8 suen1
   * 泰州方言词典4
   - 这是哪个～的人做的缺德事啊！
 
-
 # 绝子绝孙绝房门
 qiuh8 zz3 qiuh8 suen1 qiuh8 fan2 men2
 > 如皋方言词典

@@ -4,7 +4,6 @@ pon2 teu2 saeh7 xi1
 - 头发蓬乱，脏兮兮的样子
   - 有的人～的，客人就看不惯。
 
-
 # 蓬头撒稀的
 pon2 teu2 saeh7 xi1 dii
 > 如皋方言词典

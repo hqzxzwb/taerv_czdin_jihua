@@ -10,7 +10,6 @@ dio1 bi1 dah7 shih8
 + 讽说话故意拿腔拿调
   * 泰兴方言辞典
 
-
 # 叼屄耷舌的
 dio1 bi1 dah7 shih8 dii
 > 如皋方言词典

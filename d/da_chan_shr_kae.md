@@ -8,7 +8,6 @@ da6 chan shr6 kae1
 > 泰兴方言辞典
 - 谓门洞大开。
 
-
 # 大敞市开的
 da6 chan3 shr6 kae1 dii
 > 如皋方言词典

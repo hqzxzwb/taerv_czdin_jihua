@@ -8,7 +8,6 @@ fon1 fon1 shah8 shah8
 + 指女性尽情嬉闹而不稳重的样子。
   * 泰州方言词典4
 
-
 # 疯疯𧺕𧺕的
 fon1 fon1 shah8 shah8 dii
 > 如皋方言词典

@@ -18,7 +18,6 @@ da3 laen2 teu2 baen3
   * 泰兴方言辞典
     - 我认为这个意见是正确的，你打什的拦头板？
 
-
 # 打拦头板子
 da3 laen2 teu2 baen3 zz
 > 东台方言词典

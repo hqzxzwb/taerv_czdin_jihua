@@ -12,7 +12,6 @@ huei1 teu2 tv3 lin3
 + 谓面容污秽。
   * 泰兴方言辞典
 
-
 # 灰头土脸的
 huei1 teu2 tv3 lin3 dii
 > 如皋方言词典

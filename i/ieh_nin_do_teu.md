@@ -8,7 +8,6 @@ ieh7 nin2 do5 teu2
   * 泰州方言词典4
   - 他～忙下来就弄吖这两个钱。
 
-
 # 一年到头，二年到梢
 ieh7 nin2 do5 teu2 er6 nin2 do5 sho1
 > 如皋方言词典

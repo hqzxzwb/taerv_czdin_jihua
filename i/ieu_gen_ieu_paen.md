@@ -9,7 +9,6 @@ ieu3 gen1 ieu3 paen5
 + 事情的来龙去脉非常清楚，证据确凿。
   * 泰兴方言辞典
 
-
 # 有根有襻的
 ieu3 gen1 ieu3 paen5 dii
 > 如皋方言词典

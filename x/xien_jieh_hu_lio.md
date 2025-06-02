@@ -4,7 +4,6 @@ xien1 jieh7 hu3 lio2
 - 非常焦急。
   - 大家都～的等，他还是慢吞吞的不过来。
 
-
 # 心急火燎的
 xien1 jieh7 hu3 lio2-3 dii
 > 如皋方言词典

@@ -3,7 +3,6 @@ maen2 ia3 v3 tin1
 > 如皋方言词典
 - 言行粗野，毫无规矩。
 
-
 # 蛮野舞天的
 maen2 ia3 v3 tin1 dii
 > 东台方言词典

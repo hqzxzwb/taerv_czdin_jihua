@@ -8,9 +8,5 @@ beh7 pa5 beh7 sheh7 hu5 qieu6 pa5 hu5 bi3 hu5
 beh7 pa5 beh7 sheh7 cz6 qieu6 pa5 beh7 sheh7 shr6
 + 识事：懂得道理。强调明事理的重要性。
   * 泰兴方言辞典
-
-
-# 不怕不识字，就怕不识事
-beh7 pa5 beh7 sheh7 cz6 qieu6 pa5 beh7 sheh7 shr6
-> 东台方言词典
-- 看清实际事物比书本知识更重要。
++ 看清实际事物比书本知识更重要。
+  * 东台方言词典

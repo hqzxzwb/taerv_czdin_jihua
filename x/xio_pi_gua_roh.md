@@ -4,7 +4,6 @@ xio1 pi2 gua3 roh8
 - 形容人体格瘦削。
 - ［喻］人刻薄、不厚道。
 
-
 # 𣻏皮寡肉的
 xio1 pi2 gua3 roh8 dii
 > 如皋方言词典

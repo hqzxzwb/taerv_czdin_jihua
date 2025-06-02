@@ -3,7 +3,6 @@ shr3 jieh7 pi5 lae2 qy1
 > 东台方言词典
 - ［喻］形容事情紧急，弄得手忙脚乱，难以招架。
 
-
 # 屎急屁来追
 shr3 jieh7 pi5 lae2 zhuei1
 > 如皋方言词典

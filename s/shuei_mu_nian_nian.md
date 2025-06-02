@@ -6,7 +6,6 @@ shuei3 mu3 nian2 nian
   * 泰州方言词典4
   - 听吖老人家说，水母娘娘蹾的井就在泰州北头桥赵公桥南边的省抗排站里栋，她有三个儿子，九头鸟是她的二儿子。
 
-
 # 水母娘娘哭兽头，蘣模蘣样亲乖乖
 shuei3 mu3 nian2 nian2 koh7 sheu5 teu2 ton5 mu2 ton5 ian6 qien1 guae1 guae1
 > 东台方言词典

@@ -9,10 +9,5 @@ shuan1 gv1 zz ngaen3
 shuan1 gv1 zz ngaen3 jien
 + 双眼皮
   * 泰兴方言辞典
-
-
-# 双箍子眼睛
-shuan1 gv1 zz ngaen3 jien
-> 兴化方言词典
-- 双眼皮
+  * 兴化方言词典
   - 我爱哥哥人品好，～乌眉毛。（兴文《盼郎会》）

@@ -20,7 +20,6 @@ sun5 pun2 zhv1 r
 + 脊椎骨：这个伢儿瘦得连～都看得一清二楚。
   * 泰县方言志
 
-
 # 算盘珠儿打啊𧽻掉啊
 sun5 pun zhv1 r da3 a jyeh7 tio a
 > 如皋方言词典

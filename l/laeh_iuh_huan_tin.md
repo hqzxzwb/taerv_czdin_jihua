@@ -12,7 +12,6 @@ laeh8 iuh8 huan2 tin1
 - 特指冬季严寒阴沉天气
   - 你现在～的到人家去不好，等天好啊再说吧！
 
-
 # 腊月皇天的
 laeh8 iuh8 huan2 tin1 dii
 > 东台方言词典

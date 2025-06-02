@@ -4,7 +4,6 @@ shuei3 mu2 dii gon1 chen2
 - 喻长期艰苦磨炼：育人是～。
 - 十分精工细作：微雕艺术真是～。
 
-
 # 水磨的功夫
 shuei3 mu2 dii gon1 fv1
 > 东台方言词典

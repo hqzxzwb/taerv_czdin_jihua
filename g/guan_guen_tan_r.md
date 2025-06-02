@@ -11,7 +11,6 @@ guan1 guen5 tan2 r
   * 泰州方言词典4
   - 他到现在～一个，有相巧的姑娘帮他谈一个，也是做件好事。
 
-
 # 光棍堂儿烧木柴——当着不着
 guan1 guen5 tan2 r sho1 moh8 shae2 dan1 chah8 beh7 chah8
 > 如皋方言词典

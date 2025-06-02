@@ -4,7 +4,6 @@ lo3 a qiah8 beh7 ton6
 - ［引］形容非常老相的人
   - 来啊人，他头都不抬，真是～。
 
-
 # 老啊嚼不动吖
 lo3 a qiah8 beh7 ton6 nga
 > 如皋方言词典

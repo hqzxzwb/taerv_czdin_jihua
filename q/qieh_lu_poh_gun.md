@@ -3,12 +3,10 @@ qieh7 lu2 poh gun1 r
 > 如皋方言词典
 - 手指关节扭伤：打篮球没注意，吃～啊。
 
-
 # 吃萝卜干儿饭
 qieh7 lu2 poh gun1 r faen6
 > 如皋方言词典
 - 喻当学徒，受艰苦磨炼；受正规专业教育。又作“吃三年萝卜干儿饭”。
-
 
 # 吃萝卜干子饭
 qieh7 lu2 poh gun1 zz faen6

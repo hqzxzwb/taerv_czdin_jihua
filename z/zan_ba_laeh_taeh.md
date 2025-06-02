@@ -8,7 +8,6 @@ zan1 ba laeh8 taeh
 泰兴方言辞典例句出现
 -->
 
-
 # 脏巴邋遢的
 zan1 ba laeh8 taeh7 dii
 > 东台方言词典

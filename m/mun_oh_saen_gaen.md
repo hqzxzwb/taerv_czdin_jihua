@@ -12,7 +12,6 @@ mun3 oh7 saen1 gaen1
   * 泰州方言词典4
   - 你在家里着炭炉子，弄得满屋三间都是烟！
 
-
 # 满屋三间的
 mun3 oh7 saen1 gaen1 dii
 > 如皋方言词典

@@ -4,7 +4,6 @@ faen1 teu2 loh8 ngaen3
 - 眼神特别，不安分的样子。
   - 这个人～的，要注意。
 
-
 # 翻头碌眼的
 faen1 teu loh8 ngaen3 dii
 > 如皋方言词典

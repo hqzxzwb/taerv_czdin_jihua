@@ -2,7 +2,6 @@
 fan5 pi5 ton6 sheu3 kaeh7 v2 ji5 y2 shr6
 > 东台方言词典
 
-
 # 放屁动手揞
 fan5 pi5 ton6 sheu3 un3
 + 喻无济于事。

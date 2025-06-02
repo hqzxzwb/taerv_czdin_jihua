@@ -22,7 +22,6 @@ heu2 lii geh7 daeh7
 + 泛指物体表面凹凸不平。
   * 泰州方言词典4
 
-
 # 瘊里疙瘩的
 heu2 lii geh7 daeh7 dii
 > 如皋方言词典

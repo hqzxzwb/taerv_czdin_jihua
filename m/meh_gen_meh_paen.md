@@ -12,7 +12,6 @@ meh8 gen1 meh8 paen5
   * 泰州方言词典4
   - 这些～的话不要信他。
 
-
 # 没根没襻的
 meh8 gen1 meh8 paen5 dii
 > 如皋方言词典

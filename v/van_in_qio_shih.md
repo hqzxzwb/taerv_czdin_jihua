@@ -6,7 +6,6 @@ van6 in2 qio3 shih8
   * 兴化方言词典
     - 这个人惯会～的，听他的话要打折。
 
-
 # 妄言巧舌的
 van6 in2 qio3 shih8 dii
 > 如皋方言词典

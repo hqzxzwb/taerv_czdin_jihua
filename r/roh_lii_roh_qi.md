@@ -4,7 +4,6 @@ roh8 lii roh8 qi5
 - 比喻物体肥笨。
   - 这套家具～的，不好看。
 
-
 # 肉里肉气的
 roh8 lii roh8 qi5 dii
 > 如皋方言词典

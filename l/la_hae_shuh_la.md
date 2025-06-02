@@ -4,7 +4,6 @@ la3 hae shuh7 la3 hae lio3
 - 要求对谈话内容不外传，也不必深究
   - 这件事我俫两个人晓得就好啊，～。
 
-
 # 哪许说哪许消
 la3 hae shuh7 la3 hae xio1
 > 如皋方言词典

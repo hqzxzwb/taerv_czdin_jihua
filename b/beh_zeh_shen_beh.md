@@ -10,7 +10,6 @@ beh7 zeh7 shen1 beh7 zeh7 qi5
   - 他手拿钓竿，～的站吖河边，单等鱼儿上钩。
   - 他家来晏吖，～的上床睡觉。
 
-
 # 不则声不则气的
 beh7 zeh7 shen1 beh7 zeh7 qi5 dii
 > 如皋方言词典

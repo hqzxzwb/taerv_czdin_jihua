@@ -5,7 +5,6 @@ dan5 fan1 tv3 ti6
 - （喻）当地大小官员。
   - 谚曰：～当坊灵。
 
-
 # 当坊土地当坊灵
 dan1 fan1 tv3 ti6 dan1 fan1 lien2
 > 东台方言词典

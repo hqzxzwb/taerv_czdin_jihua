@@ -4,7 +4,6 @@ dae1 lii dae1 qi5
 - 愚蠢糊涂的样子
   - 人家玩吖他，他还～的跟吖后头笑。
 
-
 # 呆里呆气的
 dae1 lii dae1 qi5 dii
 > 如皋方言词典

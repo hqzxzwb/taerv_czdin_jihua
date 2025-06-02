@@ -8,7 +8,6 @@ xien1 keu3 tan2 r
 + 心口，胸口
   * 泰兴方言辞典
 
-
 # 心口塘儿不得满
 xien1 keu3 tan2 r beh7 deh7 mun3
 > 东台方言词典

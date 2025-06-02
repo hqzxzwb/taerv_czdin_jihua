@@ -3,7 +3,6 @@ mo2 r u1 shr3 cz6 ji3 gae5
 > 东台方言词典
 - 自己对自己的行为后果负责。
 
-
 # 猫儿屙屎盖脚印
 mo2 r u1 shr3 gae5 jiah7 ien5
 > 东台方言词典

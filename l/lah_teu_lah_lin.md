@@ -9,7 +9,6 @@ lah8 teu2 lah8 lin3
 + 不顾情面：小龙捱父亲～骂啊一顿。
   * 泰县方言志
 
-
 # 落头落脸的
 lah8 teu2 lah8 lin3 dii
 > 如皋方言词典

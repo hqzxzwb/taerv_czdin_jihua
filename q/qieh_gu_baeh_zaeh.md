@@ -4,7 +4,6 @@ qieh7 gu baeh7 zaeh7
 - 许多东西，乱七八糟。
   - ～的一大堆。
 
-
 # 七个八杂的
 qieh7 gu baeh7 zaeh dii
 > 如皋方言词典

@@ -14,7 +14,6 @@ loh8 gah7 zhen1 zhen1
 > 泰县方言志
 - 有棱有角的：三个钱买个金刚脐～的。
 
-
 # 六角真真的
 loh8 gah7 zhen1 zhen1 dii
 > 如皋方言词典

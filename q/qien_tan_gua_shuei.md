@@ -15,7 +15,6 @@ qien1 tan1 gua3 shuei3
   * 泰州方言词典4
   - 这种～的萝卜汤有甚的吃头！
 
-
 # 清汤寡水的
 qien1 tan1 gua3 shuei3 dii
 > 如皋方言词典

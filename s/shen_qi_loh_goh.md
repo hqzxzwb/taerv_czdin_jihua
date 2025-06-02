@@ -13,7 +13,6 @@ shen2 qi5 loh8 goh7
   * 泰州方言词典4
   - 老周家孙子穿吖个校服～的去上学。
 
-
 # 神气六国的
 shen2 qi5 loh8 goh7 dii
 > 如皋方言词典

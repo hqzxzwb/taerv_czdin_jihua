@@ -3,7 +3,6 @@ chan5 saen1 hua1 lin3
 > 泰县方言志
 - 做和事佬。
 
-
 # 唱三花脸儿
 chan5 saen1 hua1 lin3 r
 > 如东方言词典

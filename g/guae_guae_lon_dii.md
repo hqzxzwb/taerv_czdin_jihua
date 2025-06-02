@@ -15,7 +15,6 @@ guae1 guae1 lon2 dii don1
   * 泰县方言志
     - ～，这西瓜这吖大啊。
 
-
 # 乖乖咙的山
 guae1 guae1 lon2 dii shaen1
 > 如皋方言词典
