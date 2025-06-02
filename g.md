@@ -133,7 +133,7 @@
 1. 【[改账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_zhan.md#改账)】`gae3 zhan5` <sup>[如东]</sup> 修改账目。  
 1. 【[解](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae.md#解)】`gae3` <small>/kɛ3/<sup>兴化</sup>, /kɛ3/<sup>如皋</sup></small> ① 排泄大小便<sup>\[如皋\]</sup>：～手。<sup>\[如皋\]</sup> ② 化解<sup>\[如皋\]</sup>：说～故儿。<sup>\[如皋\]</sup> ③ 消除、改变<sup>\[如皋\]</sup>：点支卫生香～～秽气。<sup>\[如皋\]</sup> ④ 分解<sup>\[如皋\]</sup>：把木材～成板。<sup>\[如皋\]</sup> ⑤ 用锯子将木头锯成板或较小的木料。<sup>\[兴化\]</sup>  
 1. 【[解绷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_bon_zz.md#解绷子)】`gae3 bon1 zz` <sup>[泰州]</sup> 一种二人游戏，一人双手指头撑开环形的线，交叉结成网状图案，另外一人将线解于自已双手指上同时变成新的网状图案，双方不停交替变换图案。翻花绳。  
-1. 【[解放鞋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_fan_hae.md#解放鞋)】`gae3 fan4 hae2` <sup>[泰州]</sup> 一种胶底布面鞋子，黑色橡胶鞋底，黄色鞋帮，绿色帆布鞋面，分为高帮、矮帮两种，以其为中国人民解放军的军鞋而名。  
+1. 【[解放鞋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_fan_hae.md#解放鞋)】`gae3 fan5 hae2` <sup>[泰州]</sup> 一种胶底布面鞋子，黑色橡胶鞋底，黄色鞋帮，绿色帆布鞋面，分为高帮、矮帮两种，以其为中国人民解放军的军鞋而名。  
 1. 【[解和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_hu.md#解和)】`gae3 hu2` <sup>[兴化]</sup> 消除隔阂，重归于好：他俫闹啊几年的矛盾，近来终于～啊。  
 1. 【[解怀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_huae.md#解怀)】`gae3 huae2` <small>/kɛ3 xuɛ2/<sup>兴化</sup>, /ke3 xue2/<sup>泰县</sup></small> ① 妇女婚后第一次怀孕，称解怀。<sup>\[如东\]</sup>：翠兰已经解啊怀。<sup>\[如东\]</sup> ② 谓妇女第一次生孩子‖也说“开怀”。<sup>\[兴化\]</sup>：……而新娘呢，四十岁不～，仍有人叫他新娘子……（马春阳《扬州水乡婚俗散记》）<sup>\[兴化\]</sup> ③ 妇女婚后第一次生孩子。<sup>\[泰县\]</sup> ④ 妇女生育第一胎，以其第一次解开胸前衣扣给小儿喂奶，故云<sup>\[泰州\]</sup>：他家新妇结婚好几年唻，一直不曾～，把两个老的急煞咖。<sup>\[泰州\]</sup>  
 1. 【[解结](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_jih.md#解结)】`gae3 jih7` <sup>[兴化]</sup> 化解长期难以解决的问题：“……不想撞着这官，闹了一场，亏你解了这结……”（《儒林外史》十二）｜不想你一来，帮他俫解啊结。  
@@ -855,8 +855,6 @@
 1. 【[藁本](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_ben.md#藁本)】`go3 ben3` <sup>[如东]</sup> 伞科植物藁本，多年生草本。  
 1. 【[藁荐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_jin.md#藁荐)】`go3 jin` <sup>[东台]</sup> 旧时用稻草、麦秸等编成的垫子，铺在床上保温。  
 1. 【[交](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go.md#交)】`go5` <small>/kɔ5/<sup>兴化</sup>, /kɔ5/<sup>如皋</sup></small> ① 量词<sup>\[如皋\]</sup>：头～糏、二～糏。<sup>\[如皋\]</sup> ② 量词，次、遍<sup>\[兴化\]</sup>：浇一～水；薅二～草。<sup>\[兴化\]</sup> ③ 量词，遍，次<sup>\[泰州\]</sup>：这本书的样稿已经校对啊两～唻。<sup>\[泰州\]</sup>｜这块田你下午再打一～药。<sup>\[泰州\]</sup>  
-1. 【[叫花子唱歌——穷开心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_hua_zz_chan.md#叫花子唱歌——穷开心)】`go5 hua1 zz chan5 gu1 qion2 kae1 xien1` <sup>[东台]</sup>   
-1. 【[叫花子唱戏——假快活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_hua_zz_chan.md#叫花子唱戏——假快活)】`go5 hua1 zz chan5 xi5 jia3 kuae5 huh` <sup>[东台]</sup>   
 1. 【[告状](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_chuan.md#告状)】`go5 chuan6` <sup>[如东]</sup> ① 当事人请求司法机关审理某一案件。 ② 向某人的上级、长辈诉说被其欺负或受到不公正的待遇。  
 1. 【[告花子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_hua_zz.md#告花子)】`go5 hua1 zz` <small>/kɔ5 xua1 t͡sɿ/<sup>兴化</sup>, /kɔ5 xua t͡sɿ/<sup>如皋</sup>, /kɔ5 xuɑ t͡sɿ/<sup>泰兴</sup>, /kɔ5 xua1 t͡se/<sup>泰县</sup></small> 乞丐<sup>\[如皋\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>\[兴化：也作“告化子”“叫化子”。\]\[东台：也作叫花子。\]\[如东：也称讨饭子、讨饭花子。\]：～又来啊啦。<sup>\[泰县\]</sup>｜穷快活，富洒落，叫花子打个莲花落<sup>\[泰兴\]</sup>  
 1. 【[告阴状](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_ien_chuan.md#告阴状)】`go5 ien1 chuan6` <small>/kɔ5 in1 t͡sʰuaŋ6/<sup>兴化</sup></small> ① 背后说人坏话。<sup>\[如东\]</sup>：此人爱～，没人欢喜。<sup>\[如东\]</sup> ② 迷信<sup>\[兴化\]</sup>：在阳世斗不过有权势的恶人，死后到阴曹地府去告状。<sup>\[兴化\]</sup> ③ （借）打小报告或写匿名信诬告。<sup>\[兴化\]</sup>  
@@ -1363,7 +1361,7 @@
 1. 【[怪潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guae_cho.md#怪潮)】`guae5 cho2` <small>/kuɛ5 t͡sʰɔ2/<sup>如皋</sup></small> ① 无规则的潮水。<sup>\[如东\]</sup> ② 无规律的潮水。<sup>\[如皋\]</sup>  
 1. 【[怪罪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guae_cuei.md#怪罪)】`guae5 cuei6` <sup>[东台]</sup> 责怪的意思。  
 1. 【[怪到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guae_do.md#怪到)】`guae5 do` <small>/kuɛ5 tɔ/<sup>兴化</sup>, /kue5 tɔ/<sup>泰县</sup></small> ① 怪不得、难怪<sup>\[兴化\]</sup>：他～不肯来，原来在家里生病。<sup>\[兴化\]</sup>｜“原来这老乞婆恁般欺心，将男作女哄我！～三朝便要接回……”（《醒世恒言》八）<sup>\[兴化\]</sup> ② 怪不得<sup>\[泰县\]</sup>：～你不着急。<sup>\[泰县\]</sup>  
-1. 【[怪道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guae_do.md#怪道)】`guae5 do` <sup>[泰州]</sup> 难怪，怪不得，表示醒悟：原来你上吖上海，～这两天望不见你。  
+1. 【[怪到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guae_do.md#怪到)】`guae5 do` <sup>[泰州]</sup> 难怪，怪不得，表示醒悟：原来你上吖上海，～这两天望不见你。  
 1. 【[怪到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guae_do.md#怪到)】`guae5 do5` <small>/kuɛ5 tɔ5/<sup>如皋</sup></small> ① 见“怪不到”。<sup>\[如皋\]</sup> ② 难怪、怪不得<sup>\[东台\]</sup>：～这许效益不好，技术装备太落后。<sup>\[东台\]</sup>  
 1. 【[怪风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guae_fon.md#怪风)】`guae5 fon1` <sup>[如皋]</sup> 突发的凶猛的阵风。  
 1. 【[怪拐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guae_guae_r.md#怪拐<sub>儿</sub>)】`guae5 guae3 r` <sup>[东台]</sup> 穿着出奇，打扮出众的风流女性。（参见“怪”）  

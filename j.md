@@ -1468,6 +1468,8 @@
 1. 【[叫个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_gu.md#叫个)】`jio5 gu` 发语词，用在开启话头之前，或者支支吾吾的时候，相当于普通话的“这个，呃”。  
 1. 【[叫花子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_hua_zz.md#叫花子)】`jio5 hua1 zz` <sup>[东台]</sup> 乞丐，也叫告花子。  
 1. 【[叫花子拨算盘——穷打算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_hua_zz_buh.md#叫花子拨算盘——穷打算)】`jio5 hua1 zz buh7 sun5 pun2 qion2 da3 sun5` <sup>[东台]</sup>   
+1. 【[叫花子唱歌——穷开心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_hua_zz_chan.md#叫花子唱歌——穷开心)】`jio5 hua1 zz chan5 gu1 qion2 kae1 xien1` <sup>[东台]</sup>   
+1. 【[叫花子唱戏——假快活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_hua_zz_chan.md#叫花子唱戏——假快活)】`jio5 hua1 zz chan5 xi5 jia3 kuae5 huh` <sup>[东台]</sup>   
 1. 【[叫花子打掉讨饭碗——冲吖家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_hua_zz_da.md#叫花子打掉讨饭碗——冲吖家)】`jio5 hua1 zz da3 tio to3 faen6 un3 chon1 nga ga1` <sup>[东台]</sup>   
 1. 【[叫花子吃剩饭——自讨的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_hua_zz_qieh.md#叫花子吃剩饭——自讨的)】`jio5 hua1 zz qieh7 chen5 faen6 cz6 to3 dii` <sup>[东台]</sup>   
 1. 【[叫花子晒太阳——享天福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_hua_zz_shae.md#叫花子晒太阳——享天福)】`jio5 hua1 zz shae5 tae5 ian2 xian3 tin1 foh7` <sup>[东台]</sup>   

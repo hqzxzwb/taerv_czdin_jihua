@@ -1334,7 +1334,7 @@
 1. 【[仰下来搔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_ha_lae_so.md#仰下来搔)】`nian3 ha6 lae2 so1` <sup>[泰州]</sup> 仰面朝天躺在地上双脚乱蹬，喻指根本不顾个人尊严体面的耍无赖的行为：他现在就这回事，～，你也没得办法。  
 1. 【[仰颈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_jien.md#仰颈)】`nian3 jien3` <sup>[如皋]</sup> 笼鸟之劣品着。  
 1. 【[仰老巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_lo_ba.md#仰老巴)】`nian3 lo3 ba1` <small>/niã3 lɔ3 pa1/<sup>如皋</sup>, /niɑŋ3 lɔ3 pɑ1/<sup>泰兴</sup></small> ① 仰面跌倒。<sup>\[如皋\]</sup> ② 仰面倒在地上，四肢叉开的样子。<sup>\[泰兴\]</sup>  
-1. 【[仰面看人，低头砟肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_min_kun_ren.md#仰面看人，低头砟肉)】`nian3 min6 kun5 ren2 di1 teu2 zhah7 roh8` <small>/niɑŋ3 mĩ1 kʰʊ̃5 ɻəŋ2 t͡ɕʝ1 tʰəɪ2 t͡sɑʔ7 ɻɔʔ8/<sup>泰兴</sup></small> 谓见人行事，有失公允。贬语。<sup>\[泰兴\]</sup>  
+1. 【[仰面看人，低头斫肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_min_kun_ren.md#仰面看人，低头斫肉)】`nian3 min6 kun5 ren2 di1 teu2 zhah7 roh8` <small>/niɑŋ3 mĩ1 kʰʊ̃5 ɻəŋ2 t͡ɕʝ1 tʰəɪ2 t͡sɑʔ7 ɻɔʔ8/<sup>泰兴</sup></small> 谓见人行事，有失公允。贬语。<sup>\[泰兴\]</sup>  
 1. 【[仰吖下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_nga_ha.md#仰吖下)】`nian3 nga ha` <sup>[如皋]</sup> 仰躺着。  
 1. 【[仰吖脚来骚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_nga_jiah_lae.md#仰吖脚来骚)】`nian3 nga jiah7 lae so1` <sup>[东台]</sup> ［喻］野蛮撒泼，不讲道理。  
 1. 【[仰墒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_shan.md#仰墒)】`nian3 shan1` <sup>[如东]</sup> 耕牛躺在墒沟里不起来。比喻人躺着睡，起不来：甚的时候啊，还在下～？  
