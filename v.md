@@ -926,7 +926,7 @@
 1. 【[荱草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_co.md#荱草)】`vei3 co3` <sup>[如东]</sup> 多年生草本植物。叶条形，互生。花兰白色。结朔果。生长在淡水中。俗称金鱼草。  
 1. 【[喂不饱的鹰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_beh_bo_dii.md#喂不饱的鹰)】`vei5 beh7 bo3 dii ien1` <sup>[东台]</sup> ［喻］十分贪婪，贪得无厌：那些贪官真是～，可恨！  
 1. 【[胃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei.md#胃)】`vei5` <sup>[如东]</sup> 消化器官的一部分，形状像口袋，上端跟食道相连，下端跟十二指肠相连。能分泌胃液，消化食物。也称胃子。  
-1. 【[胃虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_chon.md#胃虫)】`vei5 chon2` <sup>[如东]</sup> 蛔虫。寄生在人的胃中，称胃虫。成虫长约8寸。雌的较大，形状象蚯蚓，白色或米黄色，前端有口，能附着在人的肠壁上，也能寄生在猫、狗、猪等家畜体内。卵随粪便排出体外，进入土壤，附在蔬菜上或混入饮水中，如被人吞下，在肠子里变成幼虫，然后发育成成虫。蛔虫在人体内不但吸取养料，还分泌毒素，使寄主营养不良，精神不振，面色灰白，腹痛，并且能引起肠埂阻、阑尾炎、肠穿孔或进人肝脏、胆道等造成其他疾病。  
+1. 【[胃虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_chon.md#胃虫)】`vei5 chon2` <sup>[如东]</sup> 蛔虫。  
 1. 【[胃口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_keu.md#胃口)】`vei5 keu` <sup>[东台]</sup> 即食欲。也喻指欲望：这个企业～太大，想兼并我俫。  
 1. 【[胃口大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_keu_da.md#胃口大)】`vei5 keu3 da6` <sup>[如皋]</sup> 贪多，贪心。  
 1. 【[胃气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_qi.md#胃气)】`vei5 qi5` <sup>[兴化]</sup> 胃部因受寒而疼痛难忍：他正在下发～，肚子里疼得要命。  

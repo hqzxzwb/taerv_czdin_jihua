@@ -357,8 +357,7 @@
 1. 【[桑天牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_tin_ngeu.md#桑天牛)】`san1 tin1 ngeu2` <sup>[如东]</sup> 天牛科昆虫桑天牛，体形长，黑色，密被黄褐色短毛，深淡不一。触角长。前胸背板前后横沟之间有不规则的横皱，中央后方两侧，侧剌突基部有黑色光亮的隆起刻点。鞘翅基部密布黑色光亮的瘤状颗粒。幼虫乳白色，前胸硬皮板后半部密生赤褐色颗粒状小点。翌年7月羽化。对橘梨、桑、柳、白杨、枇杷、无花果等树危害甚烈。  
 1. 【[桑枝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_zhr.md#桑枝)】`san1 zhr1` <sup>[如东]</sup> 桑科植物桑树嫩枝。  
 1. 【[桑枣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_zo_r.md#桑枣<sub>儿</sub>)】`san1 zo3 r` <small>/sã1 t͡sɔ˞3/<sup>如皋</sup></small> ① 桑椹 ② 桑葚。<sup>\[如皋\]</sup> ③ 桑科植物桑树的果穗，也称桑椹。<sup>\[如东\]</sup>  
-1. 【[嗓朗管<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_lan_gun_r.md#嗓朗管<sub>儿</sub>)】`san3 lan3 gun3 r` <sup>[如东]</sup> 喉咙。  
-1. 【[嗓囊管<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_nan_gun_r.md#嗓囊管<sub>儿</sub>)】`san3 nan2 gun3 r` <sup>[如皋]</sup> 见“嗓子眼儿”。  
+1. 【[嗓囊管<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_nan_gun_r.md#嗓囊管<sub>儿</sub>)】`san3 nan2 gun3 r` <small>/sã3 nã2 kʊ˞3/<sup>如皋</sup></small> 喉咙，嗓子眼儿<sup>\[如皋\]</sup>\[如东：《如东方言词典》作“嗓朗（lan2）管儿”。\]  
 1. 【[嗓子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_zz.md#嗓子)】`san3 zz` <sup>[如东]</sup> 喉咙。  
 1. 【[嗓子眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_zz_ngaen_r.md#嗓子眼<sub>儿</sub>)】`san3 zz ngaen3 r` <sup>[如皋]</sup> 咽喉区的气管和食管：千不怕，万不怕，就怕～𧰵坝！  
 1. 【[搡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san.md#搡)】`san3` <small>/saŋ3/<sup>兴化</sup>, /sã3/<sup>如皋</sup></small> ① 猛力推拉。<sup>\[如皋\]</sup> ② 强推或强拉。<sup>\[如东\]</sup>：你不要～他。<sup>\[如东\]</sup> ③ 来回推拉<sup>\[东台\]</sup>：用力一～。<sup>\[东台\]</sup> ④ 猛推<sup>\[兴化\]</sup>：推推～～<sup>\[兴化\]</sup>｜老和尚大怒……提着郭孝子的领子，一路推～出门……（《儒林外史》三八）<sup>\[兴化\]</sup> ⑤ 猛推<sup>\[泰州\]</sup>：老王上去抓住他的领子一～，他脸都吓咖白咖。<sup>\[泰州\]</sup>｜你个女将同男的推推～～的，像个甚的样子。<sup>\[泰州\]</sup>  
