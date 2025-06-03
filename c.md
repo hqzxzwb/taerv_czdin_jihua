@@ -946,6 +946,7 @@
 1. 【[㵾牙齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_ia_chr.md#㵾牙齿)】`chen6 ia2 chr3` <sup>[东台]</sup> 食物偏冷，牙齿咀嚼时有冷的感觉。  
 1. 【[㵾人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_ren_zz.md#㵾人子)】`chen6 ren zz` <sup>[如皋]</sup> 接触冷物的感觉：冷天，手摸咖石头上觉察～。  
 1. 【[㵾人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_ren.md#㵾人)】`chen6 ren2` <small>/t͡sʰəŋ1 ɻəŋ/<sup>泰县</sup></small> 物体温度低，使人触及后有冷刺激的感觉<sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：你手太冷，～吖。<sup>\[东台\]</sup>｜晚上睡觉的时候，被单里头～的话，你就加个汤焐子。<sup>\[泰州\]</sup>｜这吖冷的天，水再冷～也要洗。<sup>\[泰州\]</sup>  
+1. 【[阵场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_chan.md#阵场)】`chen6 chan` <small>/t͡sʰəŋ1 t͡sʰɑŋ/<sup>泰兴</sup></small> 雷雨前乌云密布的情景<sup>\[泰兴\]</sup>：东头来啊～<sup>\[泰兴\]</sup>  
 1. 【[阵场雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_chan_y.md#阵场雨)】`chen6 chan y3` <sup>[如皋]</sup> 见“阵头雨”。  
 1. 【[阵场雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_chan_y.md#阵场雨)】`chen6 chan2 y3` ① 雷阵雨。<sup>\[如东\]</sup> ② 夏秋季节短暂的骤雨。<sup>\[东台\]</sup>  
 1. 【[阵阵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_chen.md#阵阵)】`chen6 chen6` <sup>[如皋]</sup> 见“阵头”。  
@@ -953,7 +954,8 @@
 1. 【[阵<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_r.md#阵<sub>儿</sub>)】`chen6 r` 一会儿，时候  
 1. 【[阵场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_shan.md#阵场)】`chen6 shan` <sup>[泰县]</sup> 阵雨。（另见chen6 chan）  
 1. 【[阵上雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_shan_y.md#阵上雨)】`chen6 shan6 y3` <sup>[泰州]</sup> 下雨时间短促，开始终止都很突然，降水强度变化很大的雨，下雨时伴有电闪雷鸣，夏季多发：出去玩不曾带把伞，偏偏遇到～，几个人身上都沰咖湿咖唻。  
-1. 【[阵头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_teu.md#阵头)】`chen6 teu` <small>/t͡sʰən6 tʰɤ/<sup>兴化</sup>, /t͡sʰəŋ1 tʰei/<sup>如皋</sup></small> ① 夏季来去快速的雨云。<sup>\[如皋\]</sup> ② 天空厚云层伴随雷电，似要下雨的样子，也称“天色”<sup>\[兴化\]</sup>：～来啊。<sup>\[兴化\]</sup>｜果然～过，雨小了……（《初刻》九）<sup>\[兴化\]</sup> ③ 雷阵雨<sup>\[兴化\]</sup>：～雨。<sup>\[兴化\]</sup>  
+1. 【[阵势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_shr.md#阵势)】`chen6 shr5` <small>/t͡sʰəŋ1 sɿ5/<sup>泰兴</sup></small> 情势，架势。<sup>\[泰兴\]</sup>：天上起啊～，要落雨了。<sup>\[泰兴\]</sup>  
+1. 【[阵头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_teu.md#阵头)】`chen6 teu` <small>/t͡sʰən6 tʰɤ/<sup>兴化</sup>, /t͡sʰəŋ1 tʰei/<sup>如皋</sup>, /t͡sʰəŋ1 tʰəɪ/<sup>泰兴</sup></small> ① 夏季来去快速的雨云。<sup>\[如皋\]</sup> ② 天空厚云层伴随雷电，似要下雨的样子，也称“天色”<sup>\[兴化\]</sup>：～来啊。<sup>\[兴化\]</sup>｜果然～过，雨小了……（《初刻》九）<sup>\[兴化\]</sup> ③ 雷阵雨<sup>\[兴化\]</sup>：～雨。<sup>\[兴化\]</sup> ④ 雷阵雨来临乌云翻滚，电闪雷鸣的景象。<sup>\[泰兴\]</sup>  
 1. 【[阵头雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_teu_y.md#阵头雨)】`chen6 teu y3` <small>/t͡sʰəŋ1 tʰei y3/<sup>如皋</sup></small> ① 雷暴雨。<sup>\[如东\]</sup> ② 夏季的阵雨，雨点大，雨势猛，不久即止。<sup>\[如皋\]</sup>  
 1. 【[阵头子风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_teu_zz_fon.md#阵头子风)】`chen6 teu zz fon1` <sup>[如皋]</sup> 风力大的阵风。  
 1. 【[阵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_zz.md#阵子)】`chen6 zz` <small>/t͡sʰəŋ1 t͡sɿ/<sup>如皋</sup></small> ① 分娩的阵痛。<sup>\[如皋\]</sup><sup>\[东台\]</sup> ② 一段时间<sup>\[东台\]</sup>：这一～她在家里忙甚的？<sup>\[东台\]</sup> ③ 一段不太长的时间<sup>\[泰州\]</sup>：他等啊～，望他人还不来，就不等吖。<sup>\[泰州\]</sup>  

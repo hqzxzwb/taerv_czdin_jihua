@@ -526,13 +526,14 @@
 1. 【[羊子嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_zz_jy.md#羊子嘴)】`ian2 zz jy3` <sup>[泰县]</sup> 爱吃零食的人：这个人是个～。  
 1. 【[羊子眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_zz_ngaen.md#羊子眼)】`ian2 zz ngaen3` <small>/iã2 t͡sɿ ŋẽ3/<sup>如皋</sup>, /iɑŋ2 t͡se ɛ̃3/<sup>泰县</sup></small> ① 状人的眼球向外倾斜。<sup>\[如皋\]</sup> ② 黄豆的一种。<sup>\[泰县\]</sup>  
 1. 【[蛘虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_chon.md#蛘虫)】`ian2 chon2` <sup>[如皋]</sup> 中药饮片中的象虫。  
-1. 【[阳春面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_chuen_min.md#阳春面)】`ian2 chuen1 min6` <small>/iaŋ2 t͡sʰuən1 miɪ̃6/<sup>兴化</sup></small> ① 不加浇头的汤面。也称“光面”。<sup>\[兴化\]</sup> ② 光面，除了酱油、荤油、葱花等最基本的调料以外，不加其他浇头。旧时此面每碗十文，沪上隐语“十”为“阳春”，故名。<sup>\[泰州\]</sup>  
+1. 【[阳春面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_chuen_min.md#阳春面)】`ian2 chuen1 min6` <small>/iaŋ2 t͡sʰuən1 miɪ̃6/<sup>兴化</sup>, /iɑŋ2 t͡sʰuəŋ1 mĩ1/<sup>泰兴</sup></small> ① 不加浇头的汤面。也称“光面”。<sup>\[兴化\]</sup> ② 光面，除了酱油、荤油、葱花等最基本的调料以外，不加其他浇头。旧时此面每碗十文，沪上隐语“十”为“阳春”，故名。<sup>\[泰州\]</sup> ③ 不加菜肴的汤面。<sup>\[泰兴\]</sup>  
 1. 【[阳间](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_jiaen.md#阳间)】`ian2 jiaen1` <sup>[东台]</sup> 人世间：阴间里不收，～里不要（形容多余的人）。  
 1. 【[阳口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_keu.md#阳口)】`ian2 keu3` <sup>[东台]</sup> 心直口快，不玩阴谋的人：他有甚的说甚的，是个～。  
 1. 【[阳历头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_lieh_teu.md#阳历头)】`ian2 lieh teu2` <sup>[泰县]</sup> 日历。  
-1. 【[阳历](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_lieh.md#阳历)】`ian2 lieh8` 通常指公历<sup>\[如东\]</sup><sup>\[东台\]</sup>  
-1. 【[阳伞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_saen.md#阳伞)】`ian2 saen3` ① 遮太阳的伞。用铁、竹做伞骨，蒙上布绸或油纸做成。<sup>\[如东\]</sup> ② 遮阳光用的伞。也称洋伞。<sup>\[东台\]</sup>  
-1. 【[阳寿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_sheu.md#阳寿)】`ian2 sheu6` <small>/iɑŋ2 ɕiɤɯ/<sup>泰兴</sup></small> 寿数<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>：赵洪发～长，快九十五岁啊，身体还蛮硬朗的。<sup>\[如东\]</sup>｜说这种缺德话，折～呢！！<sup>\[东台\]</sup>  
+1. 【[阳历](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_lieh.md#阳历)】`ian2 lieh8` <small>/iɑŋ2 liʔ8/<sup>泰兴</sup></small> 通常指公历<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
+1. 【[阳气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_qi.md#阳气)】`ian2 qi` <small>/iɑŋ2 t͡ɕʰʝ/<sup>泰兴</sup></small> 暖气，生长之气。<sup>\[泰兴\]</sup>：到啊春天，～向上<sup>\[泰兴\]</sup>  
+1. 【[阳伞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_saen.md#阳伞)】`ian2 saen3` <small>/iɑŋ2 ɕiɛ̃3/<sup>泰兴</sup></small> ① 遮太阳的伞。用铁、竹做伞骨，蒙上布绸或油纸做成。<sup>\[如东\]</sup> ② 遮阳光用的伞。也称洋伞。<sup>\[东台\]</sup> ③ 遮太阳的伞。<sup>\[泰兴\]</sup>  
+1. 【[阳寿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_sheu.md#阳寿)】`ian2 sheu6` <small>/iɑŋ2 ɕiɤɯ/<sup>泰兴</sup></small> 寿数<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>：赵洪发～长，快九十五岁啊，身体还蛮硬朗的。<sup>\[如东\]</sup>｜说这种缺德话，折～呢！！<sup>\[东台\]</sup>｜做箇种事要短～唻<sup>\[泰兴\]</sup>  
 1. 【[阳水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_shuei.md#阳水)】`ian2 shuei3` <sup>[如皋]</sup> 阳光下流动的水，如江水、河水、雨水。  
 1. 【[阳台](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_tae.md#阳台)】`ian2 tae2` <sup>[如东]</sup> 楼房上面朝太阳的晒台。  
 1. 【[阳瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_va.md#阳瓦)】`ian2 va3` <sup>[如东]</sup> 瓦面朝上的瓦。  
@@ -1155,7 +1156,6 @@
 1. 【[樱桃𣝗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_to_hueh.md#樱桃𣝗)】`ien1 to2 hueh8` <sup>[如东]</sup> 蔷薇科植物樱桃树果核。  
 1. 【[樱桃水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_to_shuei.md#樱桃水)】`ien1 to2 shuei3` <sup>[如东]</sup> 蔷薇科植物樱桃树的新鲜果实，经加工取得的液汁。  
 1. 【[樱桃树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_to_shv.md#樱桃树)】`ien1 to2 shv6` <sup>[如东]</sup> 蔷薇科植物樱桃，落叶乔木，高约3米。树皮灰棕色，有明显的皮孔。叶互生，长卵圆形，2-4裂，边缘具重锯齿。花先叶开放。总状花序。花白色或粉红色，略有芳香。核果球形，成熟时鲜红色，内含种子一枚，味甜。庭园栽培。木材坚硬致密，可制家具。  
-1. 【[殷历](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_lieh.md#殷历)】`ien1 lieh8` <sup>[如皋]</sup> 商代的历法。殷正建丑，以腊月初一为正月初一。今存腊月黄天之俗。  
 1. 【[洇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien.md#洇)】`ien1` <sup>[东台]</sup> 液体落在纸上或土上向四周渗透：这种纸写毛笔字容易～｜一场小雨把泥土～湿咖。  
 1. 【[瀴人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_ren.md#瀴人)】`ien1 ren2` <sup>[如东]</sup> 感觉很凉：太阳才下山，我就觉察～。  
 1. 【[璎珞柏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_lah_boh.md#璎珞柏)】`ien1 lah8 boh7` <sup>[如东]</sup> 乔木树皮褐色，纵裂成长条薄片脱落。大枝平展，小叶下垂，三棱形。三叶轮生，披针形，顶端尖锐，表面有一条较宽的白粉带，不成深槽。球果，熟时蓝黑色。森材坚硬，可供建筑、桥梁等用。为观赏树。  
@@ -1175,7 +1175,9 @@
 1. 【[阴不阳鲜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_beh_ian_xin.md#阴不阳鲜)】`ien1 beh7 ian2 xin1` <sup>[泰县]</sup> 阴阳怪气：你说话怎吖～的。  
 1. 【[阴不郎僵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_beh_lan_jian.md#阴不郎僵)】`ien1 beh7 lan2 jian1` <sup>[东台]</sup> 阴险奸诈。  
 1. 【[阴宅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_cheh.md#阴宅)】`ien1 cheh8` <sup>[如皋]</sup> ① 坟墓。 ② 纸扎的供烧化给死者的房屋，又称“库”。  
+1. 【[阴宅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_cheh.md#阴宅)】`ien1 cheh8` <small>/iŋ1 t͡sʰəʔ8/<sup>泰兴</sup></small> 坟墓；墓穴。<sup>\[泰兴\]</sup>  
 1. 【[阴疮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_chuan.md#阴疮)】`ien1 chuan1` <sup>[如皋]</sup> ① 阴部的疮。 ② 指久治不愈的恶疮，有因果报应的意思。  
+1. 【[阴德](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_deh.md#阴德)】`ien1 deh7` <small>/iŋ1 təʔ7/<sup>泰兴</sup></small> 暗中做的有德于人的事。<sup>\[泰兴\]</sup>  
 1. 【[阴灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_den.md#阴灯)】`ien1 den1` 说话、行事阴险的人<sup>\[泰州\]</sup>：他是个～，教你找处长提意见去，骨子里是在看你笑话，你还把他当好人吖。<sup>\[泰州\]</sup>  
 1. 【[阴刁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_dio.md#阴刁)】`ien1 dio1` <sup>[兴化]</sup> 表面和气，暗中使坏：你覅看他客客气的，骨子里～。  
 1. 【[阴而不魆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_er_beh_xyeh.md#阴而不魆)】`ien1 er beh7 xyeh7` <sup>[泰县]</sup> 态度不明朗：他有点儿～的。  
@@ -1183,12 +1185,17 @@
 1. 【[阴沟洞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_geu_ton.md#阴沟洞)】`ien1 geu ton6` <sup>[兴化]</sup> 地下排水沟的出入口：从～里跳出一只蝦蟆。  
 1. 【[阴沟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_geu.md#阴沟)】`ien1 geu1` ① 设在地下的水沟。<sup>\[如东\]</sup> ② 地面下的排水沟。<sup>\[东台\]</sup> ③ 建在住宅天井中用来容纳生活污水的深洞，多在天井偏僻角落处，上有石板遮盖，污水从石板缝隙中倒入。<sup>\[泰州\]</sup>  
 1. 【[阴沟头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_geu_teu.md#阴沟头)】`ien1 geu1 teu2` <sup>[泰州]</sup> 阴沟顶部，即倒污水之处。  
+1. 【[阴国票子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_goh_pio_zz.md#阴国票子)】`ien1 goh pio5 zz` <small>/iŋ1 kɔʔ pʰiɔ5 t͡sɿ/<sup>泰兴</sup></small> 冥币，冥钞。纸钱。（当是戏语，谐音“英国票子”）<sup>\[泰兴\]</sup>  
 1. 【[阴干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_gun.md#阴干)】`ien1 gun1` <sup>[东台]</sup> 把东西放在通风而不见太阳的地方慢慢地干。  
+1. 【[阴干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_gun.md#阴干)】`ien1 gun1` <small>/iŋ1 kʊ̃1/<sup>泰兴</sup></small> 不以阳光或其它烘干手段使物去水的方法谓之阴干。<sup>\[泰兴\]</sup>  
 1. 【[阴火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_hu.md#阴火)】`ien1 hu3` <sup>[如皋]</sup> ① 无焰或无光之火。 ② 缓慢燃烧之火。  
+1. 【[阴火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_hu.md#阴火)】`ien1 hu3` <small>/iŋ1 xɤɯ3/<sup>泰兴</sup></small> 暗中播扬诽谤他人的消息谓之放“阴火”。<sup>\[泰兴\]</sup>  
 1. 【[阴话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_hua.md#阴话)】`ien1 hua6` <small>/iəŋ1 xua1/<sup>如皋</sup></small> ① 尖刻、讥讽、挖苦、影射的话。<sup>\[如皋\]</sup> ② 反话。看似赞扬，实为嘲讽<sup>\[东台\]</sup>：你这个水泥不丑，砌的墙好拆，拆屋者会感谢你。<sup>\[东台\]</sup> ③ 看似褒奖实则挖苦损人的话<sup>\[泰州\]</sup>：不同意就明说，不要蹾吖旁边说～。<sup>\[泰州\]</sup>｜他不晓得老赵说的是～，还当老赵支持他唻。<sup>\[泰州\]</sup>  
+1. 【[阴坏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_huae.md#阴坏)】`ien1 huae6` <small>/iŋ1 xuɛ1/<sup>泰兴</sup></small> 暗中使坏，表面还要装做好人。<sup>\[泰兴\]</sup>  
 1. 【[阴魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_huen.md#阴魂)】`ien1 huen2` <sup>[东台]</sup> 迷信指人死后的灵魂：～不散。  
 1. 【[阴户](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_hv.md#阴户)】`ien1 hv6` <sup>[如东]</sup> 女性生殖器官。  
 1. 【[阴阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_ian.md#阴阳)】`ien1 ian2` <sup>[如皋]</sup> 堪舆术士。  
+1. 【[阴阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_ian.md#阴阳)】`ien1 ian2` <small>/iŋ1 iɑŋ2/<sup>泰兴</sup></small> 算命打卦看风水者。也称“阴阳先生”。<sup>\[泰兴\]</sup>  
 1. 【[阴阳怪气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_ian_guae_qi.md#阴阳怪气)】`ien1 ian2 guae5 qi5` <sup>[如东]</sup> 说话嗲腔嗲调的：她说话总是～的。  
 1. 【[阴阳人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_ian_ren.md#阴阳人)】`ien1 ian2 ren2` <sup>[如皋]</sup> 两性人，俗公母人。  
 1. 【[阴阳先生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_ian_xin_shen.md#阴阳先生)】`ien1 ian2 xin1 shen` <sup>[兴化]</sup> （借）阴阳怪气的人：他是～，说的话半真半假，不作数。  
@@ -1197,10 +1204,9 @@
 1. 【[阴脚拐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_jiah_guae_r.md#阴脚拐<sub>儿</sub>)】`ien1 jiah7 guae3 r` <sup>[东台]</sup> 见“阴杀鬼投胎”。  
 1. 【[阴壳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_kah.md#阴壳)】`ien1 kah7` <sup>[如皋]</sup> 花生荚内籽不足浆，干瘪状或无籽、或空壳、或泥土。  
 1. 【[阴冷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_len.md#阴冷)】`ien1 len3` <sup>[如东]</sup> 比较寒冷：没有太阳，比较～。  
-1. 【[阴凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_lian.md#阴凉)】`ien1 lian2` <small>/iəŋ1 liã2/<sup>如皋</sup></small> ① 遮住阳光而凉爽。<sup>\[如皋\]</sup> ② 凉快。<sup>\[如东\]</sup>：树荫下头～。<sup>\[如东\]</sup>  
+1. 【[阴凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_lian.md#阴凉)】`ien1 lian2` <small>/iəŋ1 liã2/<sup>如皋</sup>, /iŋ1 liɑŋ2/<sup>泰兴</sup></small> ① 遮住阳光而凉爽。<sup>\[如皋\]</sup> ② 凉快。<sup>\[如东\]</sup>：树荫下头～。<sup>\[如东\]</sup> ③ 阳光照不到的使人感到凉爽的地方。<sup>\[泰兴\]</sup>：乘～<sup>\[泰兴\]</sup>  
 1. 【[阴凉搭搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_lian_daeh_daeh.md#阴凉搭搭)】`ien1 lian2 daeh7 daeh7` <sup>[如东]</sup> 凉爽宜人：现在～的舒服吤。  
-1. 【[阴历](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_lieh.md#阴历)】`ien1 lieh` <sup>[东台]</sup> 农历的通称。  
-1. 【[阴历](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_lieh.md#阴历)】`ien1 lieh8` <sup>[如东]</sup> 历法的一类，是根据月球围绕地球运动的周期而制定的。也叫太阴历。平年12个月，大月30天，小月29天，全年354天或355天（一年中哪一个月大，哪一个月小，年年不同）。由于平均每年的天数比太阳年约差11天，所以在19年里设置7个闰月，有闰月的年份全年383天或384天。根据太阳的位置，把一个太阳年分成24个节气，便于农事。所以阴历又称农历，是中国通用的历法。纪年用天干地支搭配，六十年周而复始。这种历法相传创始于夏代，所以又称夏历。  
+1. 【[阴历](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_lieh.md#阴历)】`ien1 lieh` 一般指农历  
 1. 【[阴历年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_lieh_nin.md#阴历年)】`ien1 lieh8 nin2` <sup>[如皋]</sup> 春节。  
 1. 【[阴里不魆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_lii_beh_xyeh.md#阴里不魆)】`ien1 lii beh7 xyeh7` <sup>[兴化]</sup> 形容人阴阳怪气的：他说话～的，能把你弄得不知所措。  
 1. 【[阴镣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_lio.md#阴镣)】`ien1 lio2` <sup>[如皋]</sup> 看不见的镣：他像戴啊～，一步捅不到三寸。常作詈语。实是腿肌衰萎或神经失控所致。  
@@ -1210,15 +1216,20 @@
 1. 【[阴棚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_pon.md#阴棚)】`ien1 pon2` <sup>[如皋]</sup> 遮强阳光的棚。  
 1. 【[阴部](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_pv.md#阴部)】`ien1 pv6` <sup>[如东]</sup> ① 生殖器官。 ② 生长生殖器官的地方。  
 1. 【[阴气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_qi.md#阴气)】`ien1 qi5` <sup>[如皋]</sup> ① 与“阳气”相对，所谓的鬼气、妖气、女气、幽暗阴冷荒凉之气等的总称。 ② 秋冬阴冷之气。  
+1. 【[阴气重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_qi_chon.md#阴气重)】`ien1 qi5 chon6` <small>/iŋ1 t͡ɕʰʝ5 t͡sʰɔŋ1/<sup>泰兴</sup></small> 寒气，肃杀之气很浓。多指人迹罕至、过于清冷安静之处的氛围。<sup>\[泰兴\]</sup>  
 1. 【[阴绝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_qiuh.md#阴绝)】`ien1 qiuh8` <sup>[兴化]</sup> 不动声色地使坏：你不晓得，这个家伙～，老有人上他当。  
 1. 【[阴杀鬼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_shaeh_guei_r.md#阴杀鬼<sub>儿</sub>)】`ien1 shaeh7 guei3 r` <sup>[如皋]</sup> 见“阴杀鬼”。  
 1. 【[阴杀鬼投胎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_shaeh_guei_teu.md#阴杀鬼投胎)】`ien1 shaeh7 guei3 teu2 tae1` <sup>[东台]</sup> 做事说话促狭的人：你这个～，害人不浅！  
 1. 【[阴杀头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_shaeh_teu.md#阴杀头)】`ien1 shaeh7 teu2` <small>/iəŋ1 seʔ7 tʰei2/<sup>如皋</sup></small> ① 詈语，骂性格内向或暗中耍手腕的人。<sup>\[如皋\]</sup> ② 说阴话、使阴招的人；也是对幽默、辛辣语言的叫绝。<sup>\[东台\]</sup>  
-1. 【[阴山背后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_shaen_bei_heu.md#阴山背后)】`ien1 shaen1 bei5 heu6` ① 太阳晒不到的地方。<sup>\[东台\]</sup> ② 在阴山的后面，旧时迷信说法，此处为十八层地狱所在之处，鬼魂打入这个地方以后，魂灵永远不得超升为人<sup>\[泰州\]</sup> ③ 比喻偏僻且受冷落的地方。<sup>\[泰州\]</sup> ④ 比喻终年不见或者少见阳光的居处<sup>\[泰州\]</sup>：家里的阳光全捱前栋的大楼挡掉啊，这鬼地方是～，只有中上才有一刻儿太阳。<sup>\[泰州\]</sup>  
+1. 【[阴山背后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_shaen_bei_heu.md#阴山背后)】`ien1 shaen1 bei5 heu6` <small>/iŋ1 ɕiɛ̃1 pəɪ5 xəɪ1/<sup>泰兴</sup></small> ① 太阳晒不到的地方。<sup>\[东台\]</sup><sup>\[泰兴\]</sup> ② 在阴山的后面，旧时迷信说法，此处为十八层地狱所在之处，鬼魂打入这个地方以后，魂灵永远不得超升为人<sup>\[泰州\]</sup> ③ 比喻偏僻且受冷落的地方。<sup>\[泰州\]</sup> ④ 比喻终年不见或者少见阳光的居处<sup>\[泰州\]</sup>：家里的阳光全捱前栋的大楼挡掉啊，这鬼地方是～，只有中上才有一刻儿太阳。<sup>\[泰州\]</sup>  
 1. 【[阴身子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_shen_zz.md#阴身子)】`ien1 shen1 zz` <small>/in1 sən1 t͡sɿ/<sup>兴化</sup>, /iəŋ1 səŋ1 t͡sɿ/<sup>如皋</sup></small> ① 一种质优的，半透明状的大米。<sup>\[如皋\]</sup> ② 一种晚粳米，呈半透明状，煮熟的饭绵软适口。<sup>\[兴化\]</sup>  
 1. 【[阴扇子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_shin_zz.md#阴扇子)】`ien1 shin5 zz` <sup>[兴化]</sup> 背后煽风点火的人：两个人说得好好的，捱他～一刮，又闹起来啊。  
+1. 【[阴世不剌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_shr_beh_laeh.md#阴世不剌)】`ien1 shr beh laeh` <small>/iŋ1 sɿ pəʔ læʔ/<sup>泰兴</sup></small> 说话狡谲拐弯，暗中伤人。<sup>\[泰兴\]</sup>  
+1. 【[阴世鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_shr_guei.md#阴世鬼)】`ien1 shr guei3` <small>/iŋ1 sɿ kuəɪ3/<sup>泰兴</sup></small> 平时言语不多，暗中出坏主意捉弄别人的人。<sup>\[泰兴\]</sup>  
+1. 【[阴世冷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_shr_len.md#阴世冷)】`ien1 shr len3` <small>/iŋ1 sɿ ləŋ3/<sup>泰兴</sup></small> 悠悠地冷，感到很冷。<sup>\[泰兴\]</sup>  
 1. 【[阴水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_shuei.md#阴水)】`ien1 shuei3` <sup>[如皋]</sup> 井水。  
 1. 【[阴梭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_su_zz.md#阴梭子)】`ien1 su1 zz` <sup>[泰县]</sup> 阴险的人：他是个～，你不要和他来往。  
+1. 【[阴酸疼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_sun_ten.md#阴酸疼)】`ien1 sun ten2` <small>/iŋ1 sʊ̃ tʰəŋ2/<sup>泰兴</sup></small> 过于劳累或因疾病而引起的身体酸痛不适，阴雨天感觉尤为明显。<sup>\[泰兴\]</sup>  
 1. 【[阴痠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_sun.md#阴痠)】`ien1 sun1` <sup>[兴化]</sup> 因疲劳或疾病引起微痛乏力的感觉：梅雨天，浑身～。｜捱他一拳头把腰眼打得～。  
 1. 【[阴丝<sub>儿</sub>冷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_sz_r_len.md#阴丝<sub>儿</sub>冷)】`ien1 sz1 r len3` <sup>[如东]</sup> 因光线不足而感觉寒冷。  
 1. 【[阴丝<sub>儿</sub>天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_sz_r_tin.md#阴丝<sub>儿</sub>天)】`ien1 sz1 r tin1` <sup>[如东]</sup> 阴冷的天气。  
@@ -1228,6 +1239,7 @@
 1. 【[阴天不经夜，麻子不经老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_tin_beh_jien.md#阴天不经夜，麻子不经老)】`ien1 tin1 beh7 jien1 ia6 ma2 zz beh7 jien1 lo3` <sup>[东台]</sup> 阴天天黑得早，麻子容易显老。  
 1. 【[阴天落雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_tin_lah_y.md#阴天落雨)】`ien1 tin1 lah8 y3` <sup>[兴化]</sup> 阴雨天气：“……以后～，起早带晚，抢空请你帮我多识几个字吧。”（马春阳《老孙收徒》）  
 1. 【[阴天驮穰草——越驮越重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_tin_tu_ran.md#阴天驮穰草——越驮越重)】`ien1 tin1 tu2 ran2 co3 iuh8 tu2 iuh8 chon6` <sup>[东台]</sup>   
+1. 【[阴天驮穰草，越驮越重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_tin_tu_ran.md#阴天驮穰草，越驮越重)】`ien1 tin1 tu2 ran2 co3 iuh8 tu2 iuh8 chon6` <small>/iŋ1 tʰĩ1 tʰɤɯ2 ɻɑŋ2 t͡sʰɔ3 yʊʔ8 tʰɤɯ2 yʊʔ8 t͡sʰɔŋ1/<sup>泰兴</sup></small> 歇后语。谓条件不具备的时候办事会越办越糟。<sup>\[泰兴\]</sup>  
 1. 【[阴毒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_toh.md#阴毒)】`ien1 toh8` <small>/iəŋ1 tʰɔʔ8/<sup>如皋</sup></small> ① 不易显露的凶狠恶毒的品质。<sup>\[如皋\]</sup> ② 体内不易发现的有害毒素。<sup>\[如皋\]</sup> ③ 表面和善，暗地里出坏主意。<sup>\[如东\]</sup>：这个人真是～。<sup>\[如东\]</sup> ④ 阴险恶毒<sup>\[泰州\]</sup>：这家伙做得太～。<sup>\[泰州\]</sup>  
 1. 【[阴瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_va.md#阴瓦)】`ien1 va3` <sup>[如东]</sup> 瓦面朝下的瓦。也叫仰瓦。  
 1. 【[阴虾<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_xia_r.md#阴虾<sub>儿</sub>)】`ien1 xia1 r` <sup>[兴化]</sup> 爱说风凉话惹人着急的人。  
@@ -1240,6 +1252,7 @@
 1. 【[阴魆魆的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_xyeh_xyeh_dii.md#阴魆魆的)】`ien1 xyeh7 xyeh7 dii` <sup>[如皋]</sup> ① 状冷清、阴暗、荒僻、静谧的环境，这地方～的，不能蹾人。 ② 状人的奸诈诡秘。  
 1. 【[阴魆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_xyeh_zz.md#阴魆子)】`ien1 xyeh7 zz` <sup>[兴化]</sup> 爱说风凉话惹人着急的人：他是个～，几句话能把你说咖跳起来。‖也称“阴虾儿”。  
 1. 【[阴雨雪落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_y_xiuh_lah.md#阴雨雪落)】`ien1 y3 xiuh7 lah8` <sup>[兴化]</sup> 泛指阴雨及风雪等坏天气：逢～的外头路滑难走，一定要小心。  
+1. 【[阴锥子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_zhuei_zz.md#阴锥子)】`ien1 zhuei1 zz` <small>/iŋ1 t͡suəɪ1 t͡sɿ/<sup>泰兴</sup></small> 暗中使坏的手段。<sup>\[泰兴\]</sup>  
 1. 【[音头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_teu.md#音头)】`ien1 teu` <sup>[兴化]</sup> 话里边微露的意思：听他～，这桩婚事十有八九不同意。  
 1. 【[音信](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_xien.md#音信)】`ien1 xien5` ① 消息。<sup>\[如东\]</sup> ② 书信。<sup>\[如东\]</sup>：出去几个月没有～。<sup>\[如东\]</sup> ③ 往来的信件和消息。<sup>\[东台\]</sup>  
 1. 【[鹦鹉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_v.md#鹦鹉)】`ien1 v3` <sup>[如东]</sup> 鹦鹉科动物绯胸鹦鹉，体长约30厘米。嘴强大，钩曲，上嘴与头骨连接处能随意动作；上嘴珊瑚红色，下嘴黑褐色。虹膜淡黄色。头圆；眼周围绿色；额基有一黑纹；头的其他部分蓝灰色。颈、背、肩草绿色。两翅内侧覆羽金黄色带绿，其余部分为绿色。颏白色。喉和胸红而带灰蓝色。尾下覆羽绿而缀黄。脚和趾暗黄绿灰色。爪锐利，善攀登。雌鸟头部较蓝，喉和胸橙黄，无灰蓝色光。生活在山林中，喜集群活动。易饲养。  

@@ -1075,7 +1075,7 @@
 1. 【[苦人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_ren.md#苦人)】`kv3 ren2` <sup>[东台]</sup> 多灾多难的人。  
 1. 【[苦䴛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_so.md#苦䴛)】`kv3 so5` <sup>[如皋]</sup> 又咸、又苦的味道。  
 1. 【[苦桃子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_to_zz.md#苦桃子)】`kv3 to2 zz` <small>/kʰu3 tʰɔ2 t͡sɿ/<sup>兴化</sup>, /kʰu3 tʰɔ2 t͡sɿ/<sup>如皋</sup></small> ① 自幼在艰苦环境中长大，经受磨炼，不娇惯的人。<sup>\[如皋\]</sup> ② 出生很苦或从小就受苦<sup>\[东台\]</sup>：他是个～，应该得到关爱。<sup>\[东台\]</sup> ③ （喻）处境很苦的人<sup>\[兴化\]</sup>：“㗒，菩萨也不长眼睛，扔下这娘儿两个～……”（陈登科《淮河边上的儿女》一）<sup>\[兴化\]</sup> ④ 比喻遭受重大家庭变故，在艰苦环境中生活的人<sup>\[泰州\]</sup>：她三岁就成吖孤儿，是个～出身。<sup>\[泰州\]</sup>  
-1. 【[苦鹱鸟<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_vah_nio_r.md#苦鹱鸟<sub>儿</sub>)】`kv3 vah7 nio3 r` <sup>[如皋]</sup> 白胸秩鸡，又称姑恶鸟。民间传说是受迫害投河死的小媳妇儿变成的，故鸣声之一是：“苦哇！”  
+1. 【[苦鹱鸟<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_vah_nio_r.md#苦鹱鸟<sub>儿</sub>)】`kv3 vah7 nio3 r` <sup>[如皋]</sup> 白胸秩鸡，又称姑恶鸟。民间传说是受迫害投河死的小媳妇儿变成的，故鸣声之一是“苦哇！”  
 1. 【[苦兮兮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_xi_xi.md#苦兮兮)】`kv3 xi1 xi1` <sup>[如皋]</sup> 有一点苦味。  
 1. 【[苦相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_xian.md#苦相)】`kv3 xian5` <sup>[东台]</sup> 痛苦可怜的表情长相。  
 1. 【[苦辛辛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_xien_xien.md#苦辛辛)】`kv3 xien1 xien1` <sup>[兴化]</sup> 轻微的苦味：药芹吃咖嘴里～的。兴化词典作“苦茵茵”。  

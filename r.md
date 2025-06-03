@@ -673,16 +673,19 @@
 1. 【[如皋城](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rv_go_chen.md#如皋城)】`rv2 go1 chen2` <sup>[如皋]</sup> 地名。晋代、元代以来县衙或县府驻地。明·嘉靖三十三年筑城。抗倭才有如皋城，延用至今。  
 1. 【[如皋县](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rv_go_xin.md#如皋县)】`rv2 go1 xin6` <sup>[如东]</sup> 今如皋市。  
 1. 【[如意大调](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rv_i_da_dio.md#如意大调)】`rv2 i da6 dio5` <sup>[兴化]</sup> 漫不经心，随随便便：他说话～的，也不晓得轻重。  
+1. 【[如意大调](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rv_i_da_dio.md#如意大调)】`rv2 i da6 dio5` <small>/ɻu2 ʝ tɑ1 tiɔ5/<sup>泰兴</sup></small> 随心所欲，自由散漫。<sup>\[泰兴\]</sup>  
+1. 【[如意算盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rv_i_sun_pun.md#如意算盘)】`rv2 i sun5 pun` <small>/ɻu2 ʝ sʊ̃5 pʰʊ̃/<sup>泰兴</sup></small> 比喻考虑问题时，只从好的方面着想，含有一厢情愿的意思。<sup>\[泰兴\]</sup>  
 1. 【[如意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rv_i.md#如意)】`rv2 i5` <sup>[如皋]</sup> 如愿、满意。  
 1. 【[如意大调](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rv_i_da_dio.md#如意大调)】`rv2 i5 da6 dio5` <sup>[东台]</sup> 大大咧咧，随意散漫，不按规矩办事：工作要专心，不能～，不负责任。  
 1. 【[如意蛇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rv_i_sha.md#如意蛇)】`rv2 i5 sha2` <sup>[如皋]</sup> 黄色，有黑纵线纹。如意头。体无骨无节，扁圆，约5mm宽，长可400mm，伸缩则变。体表有黏涎。蠕行。生活于潮湿土壤中，阴雨天出洞。常见啮蚯蚓吸血。据说有毒。人见之，则以豆油、盐腌杀。不知学名，不明类属。  
 1. 【[如意算盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rv_i_sun_pun.md#如意算盘)】`rv2 i5 sun5 pun` <sup>[泰州]</sup> 指符合本人心意或者谋划，只从好的或者有利本人角度思考问题：他的～是分钱不花就把货拿家来。  
 1. 【[如来涅槃节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rv_lae_nih_pun.md#如来涅槃节)】`rv2 lae2 nih8 pun2 jih7` <sup>[如皋]</sup> 在农历二月十五。佛寺香期。  
+1. 【[如其不然](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rv_qi_beh_rin.md#如其不然)】`rv2 qi2 beh7 rin2` <small>/ɻu2 t͡ɕʰʝ2 pəʔ7 ĩ2/<sup>泰兴</sup></small> 如果不这样。<sup>\[泰兴\]</sup>  
 1. 【[如色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rv_seh.md#如色)】`rv2 seh7` <sup>[如皋]</sup> 如愿、满意的样子。见“称心”。  
 1. 【[如适](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rv_sheh.md#如适)】`rv2 sheh7` <sup>[兴化]</sup> 满意、舒服：“她这个病啊，都是心里不快乐，不～，郁闷出来的……”（《武松》五）  
 1. 【[如兄若弟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rv_xion_rah_ti.md#如兄若弟)】`rv2 xion1 rah8 ti6` <sup>[兴化]</sup> 关系密切，就像兄弟一样：数月之中……我请你，你请我，日日欢饮，真个～，形迹俱忘。（《一刻》四）  
 1. 【[如者](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rv_zhae.md#如者)】`rv2 zhae3` <sup>[如皋]</sup> 如果：～他不去你就去。  
-1. 【[襦衣大吊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rv_i_da_dio.md#襦衣大吊)】`rv2 i1 da6 dio5` <sup>[如皋]</sup> 自由散漫，毫无拘束。襦，短衣。～则肉体裸露。  
+1. 【[襦衣大吊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rv_i_da_dio.md#襦衣大吊)】`rv2 i da6 dio5` <sup>[如皋]</sup> 自由散漫，毫无拘束。襦，短衣。～则肉体裸露。  
 1. 【[乳猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rv_zhv.md#乳猪)】`rv3 zhv1` <sup>[东台]</sup> 刚刚断奶的小猪：四灶烤～远销东南亚。  
 1. 【[擩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rv.md#擩)】`rv3` <sup>[如皋]</sup> 捣击使破碎：把花椒～下子。《集韵》尼主切，上麌娘｜“～，拄也。”  
 1. 【[擩钵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rv_buh.md#擩钵)】`rv3 buh7` <sup>[如皋]</sup> 专供捣击药物等的工具，实为手用小杵、臼，用黄铜、石制造。  
