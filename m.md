@@ -280,8 +280,7 @@
 1. 【[埋青锹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_qien_qio.md#埋青锹)】`mae2 qien1 qio1` <sup>[东台]</sup> 埋秸秆、绿肥的大铁锹。  
 1. 【[埋汰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_tae.md#埋汰)】`mae2 tae5` <sup>[如东]</sup> 笨重：这套工具～。  
 1. 【[买](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae.md#买)】`mae3` <small>/mɛ3/<sup>如皋</sup>, /mɛ3/<sup>泰兴</sup></small> ① 买 ② 购进货物。<sup>\[如东\]</sup> ③ 毒打<sup>\[如皋\]</sup>：～命！～你的脚踝儿！<sup>\[如皋\]</sup> ④ ［引］当宾语为“你”或“他”时，买有揍、收拾、惩罚的意思<sup>\[东台\]</sup>：你还不老实？当心我～你！<sup>\[东台\]</sup> ⑤ 殴打<sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：你嘴里放吖干净点ㄦ，你要是再瞎说，老子就～你。<sup>\[泰州\]</sup>｜这种活小人，你同他没得理讲，～他的皮。<sup>\[泰州\]</sup>｜再调皮～他两下子<sup>\[泰兴\]</sup>  
-1. 【[买啊便宜草，烧啊夹底锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_a_pin_i.md#买啊便宜草，烧啊夹底锅)】`mae3 a pin2 i2 co3 sho1 a gaeh7 di3 gu1` <sup>[如皋]</sup> 已经讨了便宜，可还是损失了。  
-1. 【[买啊便宜草，烧啊夹底锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_a_pin_i.md#买啊便宜草，烧啊夹底锅)】`mae3 a pin2 i2 co3 sho1 a gaeh7 di3 gu1` <small>/mɛ3 a pʰĩ2 ʝ2 t͡sʰɔ3 sɔ1 a kæʔ7 t͡ɕʝ3 kɤɯ1/<sup>泰兴</sup></small> 谓看上去好像占了便宜，实质上吃了亏。<sup>\[泰兴\]</sup>  
+1. 【[买啊便宜草，烧啊夹底锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_a_pin_i.md#买啊便宜草，烧啊夹底锅)】`mae3 a pin2 i2 co3 sho1 a gaeh7 di3 gu1` <small>/mɛ3 a pʰĩ2 ʝ2 t͡sʰɔ3 sɔ1 a keʔ7 tʝ3 kʊ1/<sup>如皋</sup>, /mɛ3 a pʰĩ2 ʝ2 t͡sʰɔ3 sɔ1 a kæʔ7 t͡ɕʝ3 kɤɯ1/<sup>泰兴</sup></small> ① 已经讨了便宜，可还是损失了。<sup>\[如皋\]</sup> ② 谓看上去好像占了便宜，实质上吃了亏。<sup>\[泰兴\]</sup>  
 1. 【[买的没得饶的多](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_dii_meh_deh.md#买的没得饶的多)】`mae3 dii meh8 deh7 ro2 dii du1` <sup>[东台]</sup> 指交易结束时，索要的或无偿赠送的部分超过购买的。  
 1. 【[买多饶少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_du_ro_sho.md#买多饶少)】`mae3 du1 ro2 sho3` <small>/mɛ3 tɤɯ1 ɻɔ2 sɔ3/<sup>泰兴</sup></small> 买了多的，另赠送一点，乡人谓之再“饶”一点。<sup>\[泰兴\]</sup>  
 1. 【[买粪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_fen.md#买粪)】`mae3 fen5` <sup>[如皋]</sup> 旧时如城住户家家有毛缸储粪，由农人挑粪桶上门收购。叫买声：噢——嗳咉（o1——ae5 an1）。  
@@ -289,8 +288,7 @@
 1. 【[买个猪头饶个胆——自找苦吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_gu_zhv_teu.md#买个猪头饶个胆——自找苦吃)】`mae3 gu zhv1 teu2 ro2 gu daen3 cz6 zho3 kv3 qieh7` <sup>[东台]</sup>   
 1. 【[买灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_huei.md#买灰)】`mae3 huei1` <sup>[如皋]</sup> 旧时如城住户家家有灰堆集灰，灰场派人上门收购，堆积于四门外城脚下，由农民或里下河的人到灰场购买，用船运走。  
 1. 【[买鸡寻不到个卖鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_ji_qien_beh.md#买鸡寻不到个卖鸡)】`mae3 ji1 qien2 beh7 do5 gu mae6 ji1` <sup>[东台]</sup> 为供求双方缺乏信息沟通而可惜。  
-1. 【[买路钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_lv_qin.md#买路钱)】`mae3 lv6 qin2` <sup>[泰州]</sup> 死者出殡之时，灵柩经过沿路十字路口以及过桥时撒的铜钱状纸钱，曰买路钱。  
-1. 【[买路钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_lv_qin.md#买路钱)】`mae3 lv6 qin2` <small>/mɛ3 lu1 t͡ɕʰĩ2/<sup>泰兴</sup></small> 旧时出丧沿路抛撒的纸钱。喻过路费。<sup>\[泰兴\]</sup>  
+1. 【[买路钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_lv_qin.md#买路钱)】`mae3 lv6 qin2` <small>/mɛ3 lu1 t͡ɕʰĩ2/<sup>泰兴</sup></small> ① 死者出殡之时，灵柩经过沿路十字路口以及过桥时撒的铜钱状纸钱，曰买路钱。<sup>\[泰州\]</sup> ② 旧时出丧沿路抛撒的纸钱。喻过路费。<sup>\[泰兴\]</sup>  
 1. 【[买卖三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_mae_saen.md#买卖三)】`mae3 mae saen1` <sup>[东台]</sup> ［引］花招、噱头。与“关目三”“魆头精”“搞拉儿三”近义：你那点儿～，我还不懂？  
 1. 【[买买<sub>儿</sub>三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_mae_r_saen.md#买买<sub>儿</sub>三)】`mae3 mae3 r saen1` <sup>[如皋]</sup> 伎俩。有鄙视义。  
 1. 【[买卖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_mae.md#买卖)】`mae3 mae6` <sup>[如东]</sup> 进行交易：做～。  
@@ -304,8 +302,7 @@
 1. 【[买炮仗把人放](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_po_chan_ba.md#买炮仗把人放)】`mae3 po5 chan ba3 ren2 fan5` <small>/mɛ3 pʰɔ5 t͡sʰɑŋ pɑ3 ɻəŋ2 fɑŋ5/<sup>泰兴</sup></small> 谓自己花钱，别人享受。犹，“出了灯油钱，坐在暗地里”。<sup>\[泰兴\]</sup>  
 1. 【[买静求安](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_qien_qieu_un.md#买静求安)】`mae3 qien6 qieu2 un1` <small>/mɛ3 t͡ɕʰin6 t͡ɕʰiɤ2 ũ1/<sup>兴化</sup></small> ① 花钱图个安静稳定。<sup>\[东台\]</sup> ② 为了安宁而屈从对方<sup>\[兴化\]</sup>：……可小事情也犯不着和他顶真，最好跟他来个～。（扬二《程咬金卖筢子》）<sup>\[兴化\]</sup> ③ 为了求得安宁而花钱去买，意谓不惜做出妥协以图息事宁人<sup>\[泰州\]</sup>：总共就这两个物业费，～，你就把他俫吧。<sup>\[泰州\]</sup>  
 1. 【[买千买万，不如买米做饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_qin_mae_vaen.md#买千买万，不如买米做饭)】`mae3 qin1 mae3 vaen6 beh7 rv mae3 mi3 zu5 faen6` <small>/mɛ3 t͡ɕʰĩ1 mɛ3 ʋɛ̃1 pəʔ7 ɻu mɛ3 mʝ3 t͡sɤɯ5 fɛ̃1/<sup>泰兴</sup></small> 谓自己买米做饭最划算，不受别人盘剥。<sup>\[泰兴\]</sup>  
-1. 【[买账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_zhan.md#买账)】`mae3 zhan5` <sup>[泰州]</sup> 承认或者屈从某人权威：你同他说的这些话，他根本不买账。  
-1. 【[买账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_zhan.md#买账)】`mae3 zhan5` <small>/mɛ3 t͡sɑŋ5/<sup>泰兴</sup></small> 承认对方的长处或力量而表示敬佩或服从。多与否定副词“不”连用。<sup>\[泰兴\]</sup>  
+1. 【[买账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_zhan.md#买账)】`mae3 zhan5` <small>/mɛ3 t͡sɑŋ5/<sup>泰兴</sup></small> ① 承认或者屈从某人权威<sup>\[泰州\]</sup>：你同他说的这些话，他根本不买账。<sup>\[泰州\]</sup> ② 承认对方的长处或力量而表示敬佩或服从。多与否定副词“不”连用。<sup>\[泰兴\]</sup>  
 1. 【[买嘱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_zhoh.md#买嘱)】`mae3 zhoh7` <small>/mɛ3 t͡sɔʔ/<sup>兴化</sup>, /mɛ3 t͡sɔʔ7/<sup>如皋</sup>, /mɛ3 t͡sɔʔ7/<sup>泰兴</sup>, /me3 t͡sɔʔ/<sup>泰县</sup></small> 用钱财收买人<sup>\[兴化\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：他～人做假证。<sup>\[兴化\]</sup>｜“……他～知县，将我父亲断输了……”（《儒林外史》四一）<sup>\[兴化\]</sup>｜拆迁部门的上上下下他都～过啊唻。<sup>\[泰州\]</sup>  
 1. 【[买桩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_zhuan.md#买桩)】`mae3 zhuan1` <sup>[如东]</sup> 在博戏活动中，以一定的筹码作抵押，增加效益，计算方法是约定金额翻番。  
 1. 【[买猪不买圈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_zhv_beh_mae.md#买猪不买圈)】`mae3 zhv1 beh7 mae3 qiun6` <sup>[东台]</sup> ［喻］婚姻选对象主要看本人，并非看家庭条件。  

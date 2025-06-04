@@ -1174,8 +1174,7 @@
 1. 【[阴八间](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_baeh_jiaen.md#阴八间)】`ien1 baeh7 jiaen1` <sup>[泰县]</sup> 看着人做错事不劝说：这家伙是个～。  
 1. 【[阴不阳鲜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_beh_ian_xin.md#阴不阳鲜)】`ien1 beh7 ian2 xin1` <sup>[泰县]</sup> 阴阳怪气：你说话怎吖～的。  
 1. 【[阴不郎僵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_beh_lan_jian.md#阴不郎僵)】`ien1 beh7 lan2 jian1` <sup>[东台]</sup> 阴险奸诈。  
-1. 【[阴宅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_cheh.md#阴宅)】`ien1 cheh8` <sup>[如皋]</sup> ① 坟墓。 ② 纸扎的供烧化给死者的房屋，又称“库”。  
-1. 【[阴宅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_cheh.md#阴宅)】`ien1 cheh8` <small>/iŋ1 t͡sʰəʔ8/<sup>泰兴</sup></small> 坟墓；墓穴。<sup>\[泰兴\]</sup>  
+1. 【[阴宅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_cheh.md#阴宅)】`ien1 cheh8` <small>/iəŋ1 t͡sʰəʔ8/<sup>如皋</sup>, /iŋ1 t͡sʰəʔ8/<sup>泰兴</sup></small> ① 坟墓。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup> ② 纸扎的供烧化给死者的房屋，又称“库”。<sup>\[如皋\]</sup>  
 1. 【[阴疮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_chuan.md#阴疮)】`ien1 chuan1` <sup>[如皋]</sup> ① 阴部的疮。 ② 指久治不愈的恶疮，有因果报应的意思。  
 1. 【[阴德](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_deh.md#阴德)】`ien1 deh7` <small>/iŋ1 təʔ7/<sup>泰兴</sup></small> 暗中做的有德于人的事。<sup>\[泰兴\]</sup>  
 1. 【[阴灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_den.md#阴灯)】`ien1 den1` 说话、行事阴险的人<sup>\[泰州\]</sup>：他是个～，教你找处长提意见去，骨子里是在看你笑话，你还把他当好人吖。<sup>\[泰州\]</sup>  
@@ -1186,16 +1185,13 @@
 1. 【[阴沟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_geu.md#阴沟)】`ien1 geu1` ① 设在地下的水沟。<sup>\[如东\]</sup> ② 地面下的排水沟。<sup>\[东台\]</sup> ③ 建在住宅天井中用来容纳生活污水的深洞，多在天井偏僻角落处，上有石板遮盖，污水从石板缝隙中倒入。<sup>\[泰州\]</sup>  
 1. 【[阴沟头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_geu_teu.md#阴沟头)】`ien1 geu1 teu2` <sup>[泰州]</sup> 阴沟顶部，即倒污水之处。  
 1. 【[阴国票子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_goh_pio_zz.md#阴国票子)】`ien1 goh pio5 zz` <small>/iŋ1 kɔʔ pʰiɔ5 t͡sɿ/<sup>泰兴</sup></small> 冥币，冥钞。纸钱。（当是戏语，谐音“英国票子”）<sup>\[泰兴\]</sup>  
-1. 【[阴干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_gun.md#阴干)】`ien1 gun1` <sup>[东台]</sup> 把东西放在通风而不见太阳的地方慢慢地干。  
-1. 【[阴干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_gun.md#阴干)】`ien1 gun1` <small>/iŋ1 kʊ̃1/<sup>泰兴</sup></small> 不以阳光或其它烘干手段使物去水的方法谓之阴干。<sup>\[泰兴\]</sup>  
-1. 【[阴火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_hu.md#阴火)】`ien1 hu3` <sup>[如皋]</sup> ① 无焰或无光之火。 ② 缓慢燃烧之火。  
-1. 【[阴火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_hu.md#阴火)】`ien1 hu3` <small>/iŋ1 xɤɯ3/<sup>泰兴</sup></small> 暗中播扬诽谤他人的消息谓之放“阴火”。<sup>\[泰兴\]</sup>  
+1. 【[阴干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_gun.md#阴干)】`ien1 gun1` <small>/iŋ1 kʊ̃1/<sup>泰兴</sup></small> ① 把东西放在通风而不见太阳的地方慢慢地干。<sup>\[东台\]</sup> ② 不以阳光或其它烘干手段使物去水的方法谓之阴干。<sup>\[泰兴\]</sup>  
+1. 【[阴火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_hu.md#阴火)】`ien1 hu3` <small>/iəŋ1 xʊ3/<sup>如皋</sup>, /iŋ1 xɤɯ3/<sup>泰兴</sup></small> ① 无焰或无光之火。<sup>\[如皋\]</sup> ② 缓慢燃烧之火。<sup>\[如皋\]</sup> ③ 暗中播扬诽谤他人的消息谓之放“阴火”。<sup>\[泰兴\]</sup>  
 1. 【[阴话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_hua.md#阴话)】`ien1 hua6` <small>/iəŋ1 xua1/<sup>如皋</sup></small> ① 尖刻、讥讽、挖苦、影射的话。<sup>\[如皋\]</sup> ② 反话。看似赞扬，实为嘲讽<sup>\[东台\]</sup>：你这个水泥不丑，砌的墙好拆，拆屋者会感谢你。<sup>\[东台\]</sup> ③ 看似褒奖实则挖苦损人的话<sup>\[泰州\]</sup>：不同意就明说，不要蹾吖旁边说～。<sup>\[泰州\]</sup>｜他不晓得老赵说的是～，还当老赵支持他唻。<sup>\[泰州\]</sup>  
 1. 【[阴坏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_huae.md#阴坏)】`ien1 huae6` <small>/iŋ1 xuɛ1/<sup>泰兴</sup></small> 暗中使坏，表面还要装做好人。<sup>\[泰兴\]</sup>  
 1. 【[阴魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_huen.md#阴魂)】`ien1 huen2` <sup>[东台]</sup> 迷信指人死后的灵魂：～不散。  
 1. 【[阴户](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_hv.md#阴户)】`ien1 hv6` <sup>[如东]</sup> 女性生殖器官。  
-1. 【[阴阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_ian.md#阴阳)】`ien1 ian2` <sup>[如皋]</sup> 堪舆术士。  
-1. 【[阴阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_ian.md#阴阳)】`ien1 ian2` <small>/iŋ1 iɑŋ2/<sup>泰兴</sup></small> 算命打卦看风水者。也称“阴阳先生”。<sup>\[泰兴\]</sup>  
+1. 【[阴阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_ian.md#阴阳)】`ien1 ian2` <small>/iəŋ1 iã2/<sup>如皋</sup>, /iŋ1 iɑŋ2/<sup>泰兴</sup></small> 堪舆术士。算命打卦看风水者。<sup>\[如皋\]</sup>\[泰兴：也称“阴阳先生”。\]  
 1. 【[阴阳怪气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_ian_guae_qi.md#阴阳怪气)】`ien1 ian2 guae5 qi5` <sup>[如东]</sup> 说话嗲腔嗲调的：她说话总是～的。  
 1. 【[阴阳人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_ian_ren.md#阴阳人)】`ien1 ian2 ren2` <sup>[如皋]</sup> 两性人，俗公母人。  
 1. 【[阴阳先生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_ian_xin_shen.md#阴阳先生)】`ien1 ian2 xin1 shen` <sup>[兴化]</sup> （借）阴阳怪气的人：他是～，说的话半真半假，不作数。  

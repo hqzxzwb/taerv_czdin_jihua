@@ -672,8 +672,7 @@
 1. 【[如皋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rv_go.md#如皋)】`rv2 go1` <sup>[如皋]</sup> 县名（现为如皋市）。建于东晋义熙七年（411）。东晋朝廷据潘岳《射雉赋》“昔贾氏之如皋，始解颜于一箭”，及李善注引春秋左传贾大夫射雉“御以如皋”的典故命名。  
 1. 【[如皋城](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rv_go_chen.md#如皋城)】`rv2 go1 chen2` <sup>[如皋]</sup> 地名。晋代、元代以来县衙或县府驻地。明·嘉靖三十三年筑城。抗倭才有如皋城，延用至今。  
 1. 【[如皋县](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rv_go_xin.md#如皋县)】`rv2 go1 xin6` <sup>[如东]</sup> 今如皋市。  
-1. 【[如意大调](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rv_i_da_dio.md#如意大调)】`rv2 i da6 dio5` <sup>[兴化]</sup> 漫不经心，随随便便：他说话～的，也不晓得轻重。  
-1. 【[如意大调](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rv_i_da_dio.md#如意大调)】`rv2 i da6 dio5` <small>/ɻu2 ʝ tɑ1 tiɔ5/<sup>泰兴</sup></small> 随心所欲，自由散漫。<sup>\[泰兴\]</sup>  
+1. 【[如意大调](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rv_i_da_dio.md#如意大调)】`rv2 i da6 dio5` <small>/lu2 i ta6 tiɔ5/<sup>兴化</sup>, /ɻu2 ʝ tɑ1 tiɔ5/<sup>泰兴</sup></small> ① 漫不经心，随随便便<sup>\[兴化\]</sup>：他说话～的，也不晓得轻重。<sup>\[兴化\]</sup> ② 随心所欲，自由散漫。<sup>\[泰兴\]</sup>  
 1. 【[如意算盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rv_i_sun_pun.md#如意算盘)】`rv2 i sun5 pun` <small>/ɻu2 ʝ sʊ̃5 pʰʊ̃/<sup>泰兴</sup></small> 比喻考虑问题时，只从好的方面着想，含有一厢情愿的意思。<sup>\[泰兴\]</sup>  
 1. 【[如意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rv_i.md#如意)】`rv2 i5` <sup>[如皋]</sup> 如愿、满意。  
 1. 【[如意大调](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rv_i_da_dio.md#如意大调)】`rv2 i5 da6 dio5` <sup>[东台]</sup> 大大咧咧，随意散漫，不按规矩办事：工作要专心，不能～，不负责任。  

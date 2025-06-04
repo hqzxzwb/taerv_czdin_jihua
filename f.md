@@ -982,8 +982,7 @@
 1. 【[附](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv.md#附)】`fv5` <sup>[兴化]</sup> 迷信所说的鬼神附着身体：“……卢伯的魂～在你身上啦！”（马春阳《翁婿同还乡》）｜他听见就象神～着的发了疯，从此不应考了，要做个高人。（《儒林外史》十二）  
 1. 【[附<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_r.md#附<sub>儿</sub>)】`fv5 r` <sup>[如东]</sup> ① 板嶂外面的把扶，叫做附儿。 ② 加在木板外面的木条，叫做附儿。  
 1. 【[妇男小女](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_nun_xio_ny.md#妇男小女)】`fv6 nun2 xio3 ny3` <sup>[兴化]</sup> 泛指男女老幼：全庄～加起来一共五百多人。  
-1. 【[妇道人家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_to_ren_ga.md#妇道人家)】`fv6 to6 ren2 ga` <sup>[如东]</sup> 中年女妇。  
-1. 【[妇道人家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_to_ren_ga.md#妇道人家)】`fv6 to6 ren2 ga` <small>/fʋ1 tʰɔ1 ɻəŋ2 kɑ/<sup>泰兴</sup></small> 泛指已婚妇女。含重男轻女之意。<sup>\[泰兴\]</sup>  
+1. 【[妇道人家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_to_ren_ga.md#妇道人家)】`fv6 to6 ren2 ga` <small>/fʋ1 tʰɔ1 ɻəŋ2 kɑ/<sup>泰兴</sup></small> ① 中年女妇。<sup>\[如东\]</sup> ② 泛指已婚妇女。含重男轻女之意。<sup>\[泰兴\]</sup>  
 1. 【[父](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv.md#父)】`fv6` <small>/fu1/<sup>如皋</sup></small> ① 爸爸（指称，面称） ② 父亲。老派口称。<sup>\[如皋\]</sup> ③ 有子女的男子；子女称生育自己的男子<sup>\[东台\]</sup>：～子；～女；同～异母。<sup>\[东台\]</sup> ④ 对男性长辈通称<sup>\[东台\]</sup>：伯～；姨～；岳～；～老。<sup>\[东台\]</sup>  
 1. 【[父不慈，子不孝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_beh_cz_zz.md#父不慈，子不孝)】`fv6 beh7 cz2 zz3 beh7 xio5` <sup>[东台]</sup> （俗语）意思是说父亲对儿子怀有慈爱之心，儿子才会对父亲尽孝道，和谐的父子关系要靠双方努力。下句还有“锅不热，饼不靠”。  
 1. 【[父辈之人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_bei_zhr_ren.md#父辈之人)】`fv6 bei5 zhr1 ren2` <sup>[如皋]</sup> 敬称。称与父亲同辈的人。  

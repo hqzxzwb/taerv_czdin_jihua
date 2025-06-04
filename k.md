@@ -982,8 +982,7 @@
 1. 【[看郎中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_lan_zhon.md#看郎中)】`kun5 lan2 zhon1` <sup>[东台]</sup> 看医生。  
 1. 【[看冷破](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_len_pu.md#看冷破)】`kun5 len3 pu5` <sup>[如皋]</sup> 冷眼相看，看出问题也不指出，让他吃苦头。  
 1. 【[看吖扁吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_nga_bin_nga.md#看吖扁吖)】`kun5 nga bin3 nga` <sup>[如皋]</sup> 看透真相后表示瞧不起。  
-1. 【[看吖𡰑啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_nga_qio_a.md#看吖𡰑啊)】`kun5 nga qio2 a` <sup>[如皋]</sup> 看透真相后表示瞧不起。  
-1. 【[看吖𡰑啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_nga_qio_a.md#看吖𡰑啊)】`kun5 nga qio2 a` <small>/kʰʊ̃5 ŋa t͡ɕʰiɔ2 a/<sup>泰兴</sup></small> 看透，不再重视，瞧不起<sup>\[泰兴\]</sup>  
+1. 【[看吖𡰑啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_nga_qio_a.md#看吖𡰑啊)】`kun5 nga qio2 a` <small>/kʰʊ̃5 ŋa t͡ɕʰiɔ2 a/<sup>如皋</sup>, /kʰʊ̃5 ŋa t͡ɕʰiɔ2 a/<sup>泰兴</sup></small> ① 看透真相后表示瞧不起。<sup>\[如皋\]</sup> ② 看透，不再重视，瞧不起<sup>\[泰兴\]</sup>  
 1. 【[看吖下啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_nga_xia_a.md#看吖下啊)】`kun5 nga xia6 a` <sup>[如皋]</sup> 不愿、不能再看下去了。  
 1. 【[看病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_pien.md#看病)】`kun5 pien6` <small>/kʰʊ̃5 pʰiŋ1/<sup>泰兴</sup></small> 看病，寻求诊治。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
 1. 【[看白大戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_poh_da_xi.md#看白大戏)】`kun5 poh8 da6 xi5` <sup>[如皋]</sup> 看戏不给钱。  

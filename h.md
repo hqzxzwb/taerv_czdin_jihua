@@ -857,8 +857,7 @@
 1. 【[好耍子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_shua_zz.md#好耍子)】`ho3 shua3 zz` <small>/xɔ3 sua3 t͡sɿ/<sup>如皋</sup>, /xɔ3 suɑ3 t͡sɿ/<sup>泰兴</sup></small> 好玩，有趣。有时作叹语、责语。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：这个皮球～唻。<sup>\[如东\]</sup>｜这个耍货真～。<sup>\[如皋\]</sup>｜你这个人～唻，又不碍我的事，同我闹做甚的呀？<sup>\[如皋\]</sup>  
 1. 【[好说](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_shuh.md#好说)】`ho3 shuh7` <sup>[如东]</sup> ① 可以商量：关于这个问题，～。 ② 可以办到：这件事～。  
 1. 【[好说丑说](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_shuh_cheu_shuh.md#好说丑说)】`ho3 shuh7 cheu3 shuh7` <sup>[泰州]</sup> 无论怎么说：他这个人真难玩，你同他～都不行。  
-1. 【[好说话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_shuh_hua.md#好说话)】`ho3 shuh7 hua6` <sup>[泰州]</sup> 比较容易沟通，能理解人乃至迁就人的性格：他这个人厚道，～，这件事最好先同他说咖子。  
-1. 【[好说话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_shuh_hua.md#好说话)】`ho3 shuh7 hua6` <small>/xɔ3 sʊʔ7 xuɑ1/<sup>泰兴</sup></small> 指脾气好，容易商量、通融。<sup>\[泰兴\]</sup>：他只叫个～。<sup>\[泰兴\]</sup>  
+1. 【[好说话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_shuh_hua.md#好说话)】`ho3 shuh7 hua6` <small>/xɔ3 sʊʔ7 xuɑ1/<sup>泰兴</sup></small> ① 比较容易沟通，能理解人乃至迁就人的性格<sup>\[泰州\]</sup>：他这个人厚道，～，这件事最好先同他说咖子。<sup>\[泰州\]</sup> ② 指脾气好，容易商量、通融。<sup>\[泰兴\]</sup>：他只叫个～。<sup>\[泰兴\]</sup>  
 1. 【[好太阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_tae_ian.md#好太阳)】`ho3 tae5 ian` <sup>[如皋]</sup> 强烈的阳光。  
 1. 【[好天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_tin.md#好天)】`ho3 tin1` <small>/xɔ3 tʰĩ1/<sup>泰兴</sup></small> 晴天。<sup>\[如东\]</sup><sup>\[东台\]</sup>\[泰州：相对“阴天”\]\[泰兴：相对于“落天”\]：趁～晒被。<sup>\[东台\]</sup>｜明朝是～，带你俫上光孝寺玩去。<sup>\[泰州\]</sup>  
 1. 【[好玩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_vaen.md#好玩)】`ho3 vaen2` <sup>[东台]</sup> ① 指某项游戏有趣。 ② 指某处景点耐看，可看。  
@@ -866,14 +865,12 @@
 1. 【[好心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_xien.md#好心)】`ho3 xien1` <sup>[如东]</sup> 善良的心肠：真是一片～。  
 1. 【[好心变吖驴肝肺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_xien_bin_nga.md#好心变吖驴肝肺)】`ho3 xien1 bin5 nga ly2 gun1 fei5` <sup>[如皋]</sup> 叹息语：本来是好心帮助，反招致抱怨。  
 1. 【[好歇个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_xih_gu.md#好歇个)】`ho3 xih7 gu` <sup>[如皋]</sup> 好久。很多小时或好多分钟。  
-1. 【[好雨落咖荒田里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_y_lah_ga.md#好雨落咖荒田里)】`ho3 y3 lah8 ga huan1 tin2 lii` <sup>[东台]</sup> ［喻］好资源没有投到好地方。也指给了人家好东西，人家不识货。  
-1. 【[好雨落咖荒田里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_y_lah_ga.md#好雨落咖荒田里)】`ho3 y3 lah8 ga huan1 tin2 lii` <small>/xɔ3 y3 lɑʔ8 ka xuɑŋ1 tʰĩ2 ləɪ/<sup>泰兴</sup></small> 喻浪费了最好的有价值的东西，未能使之发挥应有的作用。<sup>\[泰兴\]</sup>  
+1. 【[好雨落咖荒田里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_y_lah_ga.md#好雨落咖荒田里)】`ho3 y3 lah8 ga huan1 tin2 lii` <small>/xɔ3 y3 lɑʔ8 ka xuɑŋ1 tʰĩ2 ləɪ/<sup>泰兴</sup></small> ① ［喻］好资源没有投到好地方。也指给了人家好东西，人家不识货。<sup>\[东台\]</sup> ② 喻浪费了最好的有价值的东西，未能使之发挥应有的作用。<sup>\[泰兴\]</sup>  
 1. 【[好账算不折](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_zhan_sun_beh.md#好账算不折)】`ho3 zhan5 sun5 beh7 shih8` <sup>[东台]</sup> 没有问题的账，是经得起推敲、核算、稽查的。  
 1. 【[好种出好苗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_zhon_chueh_ho.md#好种出好苗)】`ho3 zhon3 chueh7 ho3 mio2` <small>/xɔ3 t͡sɔŋ3 t͡sʰuəʔ7 xɔ3 miɔ2/<sup>泰兴</sup></small> 喻只要先天基础好，各种条件具备，后天必然会茁壮成长。<sup>\[泰兴\]</sup>  
 1. 【[好早晚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_zo_vaen.md#好早晚)】`ho3 zo3 vaen3` <small>/xɔ3 t͡sɔ3 uɛ̃3/<sup>兴化</sup></small> ① 好长一段时间。<sup>\[东台\]</sup> ② 好长时间<sup>\[兴化\]</sup>：他隔～才来。<sup>\[兴化\]</sup> ③ 时间迟了<sup>\[兴化\]</sup>：“天～了，我们也去罢，别出不去城……”（《红楼梦》三九）<sup>\[兴化\]</sup>  
 1. 【[好早晚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_zo_vaen_zz.md#好早晚子)】`ho3 zo3 vaen3 zz` <sup>[泰州]</sup> 已经过去很长时间：已经等吖～唻，他再不来，你俫就先吃吧。  
-1. 【[好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho.md#好)】`ho5` <sup>[东台]</sup> 喜爱，喜欢，易于发生：～客；～吃；～流眼泪。  
-1. 【[好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho.md#好)】`ho5` <small>/xɔ5/<sup>兴化</sup>, /xɔ5/<sup>如皋</sup>, /xɔ5/<sup>泰兴</sup>, /xɔ5/<sup>泰县</sup></small> 喜好：～吃｜～耍子  
+1. 【[好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho.md#好)】`ho5` <small>/xɔ5/<sup>兴化</sup>, /xɔ5/<sup>如皋</sup>, /xɔ5/<sup>泰兴</sup>, /xɔ5/<sup>泰县</sup></small> ① 喜好：～吃｜～耍子 ② 易于发生<sup>\[东台\]</sup>：～流眼泪。<sup>\[东台\]</sup>  
 1. 【[好风的好风，好雨的好雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_fon_dii_ho.md#好风的好风，好雨的好雨)】`ho5 fon1 dii ho5 fon1 ho5 y3 dii ho5 y3` <small>/xɔ5 fɔŋ1 təɪ xɔ5 fɔŋ1 xɔ5 y3 təɪ xɔ5 y3/<sup>泰兴</sup></small> 谓各人的爱好不尽相同，根据各人的兴趣而定。<sup>\[泰兴\]</sup>  
 1. 【[好意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_i.md#好意)】`ho5 i5` <sup>[兴化]</sup> 心甘情愿地：我不是～要出家的，皆因弟兄多，父母养不起，才舍断了出家。｜“人家的病，谁是～的……”（《红楼梦》五八）  
 1. 【[好义](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_i.md#好义)】`ho5 i6` <sup>[兴化]</sup> 热心公益，见义勇为：当时城外百姓有～的，私下将大公子的尸首掩埋了。（《说岳全传》三三）  
