@@ -393,7 +393,7 @@
 1. 【[诈机](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_ji.md#诈机)】`zha5 ji1` <sup>[东台]</sup> 使用讹诈的伎俩。  
 1. 【[诈尸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_shr.md#诈尸)】`zha5 shr1` <sup>[兴化]</sup> ① 迷信指停放的尸体突然活动起来。 ② 骂人的话，指突然叫嚷或做出发狂动作：你冒冒失失的，倒像～啊！  
 1. 【[诈死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_sz.md#诈死)】`zha5 sz3` <sup>[如东]</sup> ① 假装死亡。 ② 玩弄欺骗手段。  
-1. 【[这](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha.md#这)】`zha5` ① 指示代词。指示近的人、事物、时间、处所、性质、状态等。<sup>\[如东\]</sup> ② 指示代词，近指<sup>\[东台\]</sup>：～样<sup>\[东台\]</sup>｜～个。<sup>\[东台\]</sup>  
+1. 【[这](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha.md#这)】`zha5` <small>/t͡sa5/<sup>兴化</sup>, /t͡sa5/<sup>如皋</sup>, /t͡sɑ5/<sup>泰兴</sup>, /t͡sa5/<sup>泰县</sup></small> 这，此，近指代词。一些地区习惯说“这”，另一些地区更习惯说“箇(geh7)”：～个  
 1. 【[这把调<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_ba_dio_r.md#这把调<sub>儿</sub>)】`zha5 ba dio5 r` <sup>[东台]</sup> 这个样子。  
 1. 【[这把粮食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_ba_lian_sheh.md#这把粮食)】`zha5 ba lian2 sheh8` <sup>[兴化]</sup> （借）人或人品的贬义说法：你家～你清爽，有甚的脸护短？  
 1. 【[这把调](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_ba_dio.md#这把调)】`zha5 ba3 dio5` <small>/t͡sa5 pa3 tiɔ5/<sup>如皋</sup></small> ① 贬指某人的特殊举止<sup>\[如皋\]</sup>：他就是～，到啊哪许，总望下一蹲，有凳也不坐。<sup>\[如皋\]</sup> ② 这种强调，意谓人的言行不妥<sup>\[泰州\]</sup>：你看他～，哪块像个好人？<sup>\[泰州\]</sup>  

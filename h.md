@@ -828,16 +828,19 @@
 1. 【[好脚色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_jiah_seh.md#好脚色)】`ho3 jiah7 seh7` <small>/xɔ3 t͡ɕiaʔ7 səʔ7/<sup>如皋</sup></small> ① 比喻能人，好汉。<sup>\[如东\]</sup>：他是一个～。<sup>\[如东\]</sup> ② 有本领、能干且顽强的人。<sup>\[如皋\]</sup> ③ 反语，指有坏才的人或看似无用实有潜能的人。<sup>\[如皋\]</sup>  
 1. 【[好较](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_jio.md#好较)】`ho3 jio5` <sup>[泰县]</sup> 幸亏：～不曾去。  
 1. 【[好看](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_kun.md#好看)】`ho3 kun5` ① 质量优，款式好，漂亮。<sup>\[如东\]</sup>：这套服装～。<sup>\[如东\]</sup> ② 美观，漂亮，看着舒服<sup>\[泰州\]</sup>：这个姑娘长得～。<sup>\[泰州\]</sup> ③ 光彩，体面<sup>\[泰州\]</sup>：你这吖处理，大家面上都～。<sup>\[泰州\]</sup>  
-1. 【[好来好散](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_lae_ho_saen.md#好来好散)】`ho3 lae2 ho3 saen5` <small>/xɔ3 lɛ2 xɔ3 sɛ̃5/<sup>兴化</sup></small> ① 指聚首时亲亲热热，分手时也不伤和气<sup>\[兴化\]</sup>：合伙办厂五六年，现在分手，我俫～，不要伤和气。<sup>\[兴化\]</sup> ② 从友好开始到友好分手<sup>\[泰州\]</sup>：大家夫妻一场，就是分手也要～。<sup>\[泰州\]</sup>  
+1. 【[好来好散](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_lae_ho_saen.md#好来好散)】`ho3 lae2 ho3 saen5` <small>/xɔ3 lɛ2 xɔ3 sɛ̃5/<sup>兴化</sup>, /xɔ3 lɛ2 xɔ3 ɕiɛ̃5/<sup>泰兴</sup></small> ① 指聚首时亲亲热热，分手时也不伤和气<sup>\[兴化\]</sup>：合伙办厂五六年，现在分手，我俫～，不要伤和气。<sup>\[兴化\]</sup> ② 从友好开始到友好分手<sup>\[泰州\]</sup>：大家夫妻一场，就是分手也要～。<sup>\[泰州\]</sup> ③ 友好地相聚，也友好地分手。多用作劝人语，期望以后仍友好相处。<sup>\[泰兴\]</sup>  
 1. 【[好两<sub>个</sub>钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_laeh_qin.md#好两<sub>个</sub>钱)】`ho3 laeh qin2` <sup>[东台]</sup> 钱很多、很贵重：这东西值～啊｜上大学要准备～嗷。  
 1. 【[好落地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_lah_ti.md#好落地)】`ho3 lah8 ti6` <sup>[如皋]</sup> 好地方、好地点、好方位。  
 1. 【[好佬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_lo.md#好佬)】`ho3 lo3` <small>/xɔ3 lɔ3/<sup>兴化</sup></small> ① （形容词）家庭富裕<sup>\[东台\]</sup>：他家～，我家可比不上。<sup>\[东台\]</sup> ② 用反话嘲讽品行不好的人<sup>\[东台\]</sup>：他是个大～，相处要当心。<sup>\[东台\]</sup> ③ 好汉<sup>\[兴化\]</sup>：他不足三十岁，手艺精，人缘好，在全车间要算个～。<sup>\[兴化\]</sup> ④ 谓大大咧咧，或喜欢开玩笑的人。<sup>\[兴化\]</sup>  
 1. 【[好马折脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_ma_shih_jiah.md#好马折脚)】`ho3 ma3 shih8 jiah7` <sup>[如皋]</sup> 叹喻出了失误。  
+1. 【[好名不出庄，恶名扬天下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_mien_beh_chueh.md#好名不出庄，恶名扬天下)】`ho3 mien2 beh7 chueh7 zhuan1 ngah7 mien2 ian2 tin1 xia6` <small>/xɔ3 miŋ2 pəʔ7 t͡sʰuəʔ7 t͡suɑŋ1 ŋɑʔ7 miŋ2 iɑŋ2 tʰĩ1 ɕiɑ1/<sup>泰兴</sup></small> 谓做了坏事是瞒不住人的，很快会传遍四方。<sup>\[泰兴\]</sup>  
 1. 【[好眼睛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_ngaen_jien.md#好眼睛)】`ho3 ngaen3 jien` <sup>[如皋]</sup> ① 眼睛健康、正常。 ② 视力好。 ③ 有识别力，能鉴别真伪。  
 1. 【[好眼力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_ngaen_lieh.md#好眼力)】`ho3 ngaen3 lieh8` <sup>[如皋]</sup> 见“好眼睛”。  
 1. 【[好年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_nin.md#好年)】`ho3 nin2` <sup>[如皋]</sup> 风调雨顺、五谷丰登、安乐富裕、太平无事的年景。与灾年、丑年相对。  
 1. 【[好聚好散](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_qy_ho_saen.md#好聚好散)】`ho3 qy6 ho3 saen5` <sup>[兴化]</sup> 见“好来好散”。  
+1. 【[好人不长久](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_ren_beh_chan.md#好人不长久)】`ho3 ren2 beh7 chan2 jieu3` <small>/xɔ3 ɻəŋ2 pəʔ7 t͡sʰɑŋ2 t͡ɕiɤɯ3/<sup>泰兴</sup></small> 对品德高尚的人离去表示怀念之意。<sup>\[泰兴\]</sup>：～，祸害一千年<sup>\[泰兴\]</sup>  
 1. 【[好人不长寿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_ren_beh_chan.md#好人不长寿)】`ho3 ren2 beh7 chan2 sheu6` <sup>[兴化]</sup> 喟叹品性好的人往往寿不永：“谭家小娘子，极其贤慧。可惜～……”（《岐路灯》六三）。｜谚曰：～，祸害一千年。  
+1. 【[好人多相会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_ren_du_xian.md#好人多相会)】`ho3 ren2 du1 xian1 huei6` <small>/xɔ3 ɻəŋ2 tɤɯ1 ɕiɑŋ1 xuəɪ1/<sup>泰兴</sup></small> 见面时的客套话，谓情意相投者见面机会多。<sup>\[泰兴\]</sup>  
 1. 【[好人多相遇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_ren_du_xian.md#好人多相遇)】`ho3 ren2 du1 xian1 y6` <sup>[兴化]</sup> 客套话，谓感情好的人见面的机会多：“啊呀，舅太太也来了！真是～，……”（《广陵潮》二六）  
 1. 【[好人家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_ren_ga.md#好人家)】`ho3 ren2 ga` <small>/xɔ3 lən2 ka/<sup>兴化</sup>, /xɔ3 ɻəŋ2 kɑ/<sup>泰兴</sup></small> ① 正派清白的人家。<sup>\[兴化\]</sup> ② 有家有业，从事正当职业的人家<sup>\[兴化\]</sup>：这个青年人是～出来的。<sup>\[兴化\]</sup> ③ 从事体面职业的人家<sup>\[泰州\]</sup>：他家里四代都做老师，的的刮刮的书香门第，是个～。<sup>\[泰州\]</sup> ④ 清白人家<sup>\[泰州\]</sup>：听说这个姑娘的妈妈作风就不正派，不像是个～。<sup>\[泰州\]</sup> ⑤ 具有一定社会地位的人家<sup>\[泰州\]</sup>：这家人家爹爹当过县长，爸爸是退休的局长，是个～。<sup>\[泰州\]</sup> ⑥ 家道殷实的人家<sup>\[泰州\]</sup>：他家有三套别墅，老子开公司一年赚大几百万，你家姑娘这种～不肯把，还想要把个甚的人家？<sup>\[泰州\]</sup> ⑦ 正经人象，清白人家；大户人家。<sup>\[泰兴\]</sup>：他是～子孙。<sup>\[泰兴\]</sup>  
 1. 【[好人没长寿，祸害一千年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_ren_meh_chan.md#好人没长寿，祸害一千年)】`ho3 ren2 meh8 chan2 sheu6 u6 hae6 ieh7 qin1 nin2` <sup>[东台]</sup> 好人寿命嫌短，坏人、窝囊人活得嫌长。  
@@ -849,11 +852,13 @@
 1. 【[好日子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_rih_zz.md#好日子)】`ho3 rih8 zz` <sup>[泰州]</sup> ① 吉日，适宜成婚、迁居、建房等喜事的日子：今吖阴历是十八，是个～，结婚的人多。 ② 经济条件优裕而安定的生活，人际关系宽松而平安的生活。  
 1. 【[好时辰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_shr_chen.md#好时辰)】`ho3 shr2 chen2` <sup>[如皋]</sup> 使人交上好运的喜庆、吉庆的时辰。  
 1. 【[好事不出门，坏事传千里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_shr_beh_chueh.md#好事不出门，坏事传千里)】`ho3 shr6 beh7 chueh7 men2 huae6 shr6 chun2 qin1 li3` <sup>[东台]</sup> 名声修好很难，败坏很容易。  
+1. 【[好事不瞒人，瞒人没好事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_shr_beh_mun.md#好事不瞒人，瞒人没好事)】`ho3 shr6 beh7 mun2 ren2 mun2 ren2 meh8 ho3 shr6` <small>/xɔ3 sɿ1 pəʔ7 mʊ̃2 ɻəŋ2 mʊ̃2 ɻəŋ2 məʔ8 xɔ3 sɿ1/<sup>泰兴</sup></small> 谓光明正大做的都是好事，鬼鬼祟祟干的则是坏事。<sup>\[泰兴\]</sup>  
 1. 【[好事成双](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_shr_chen_shuan.md#好事成双)】`ho3 shr6 chen2 shuan1` <sup>[东台]</sup> 吉利语。两件好事都成功。  
-1. 【[好耍子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_shua_zz.md#好耍子)】`ho3 shua3 zz` <small>/xɔ3 sua3 t͡sɿ/<sup>如皋</sup></small> ① 好玩。<sup>\[如东\]</sup>：这个皮球～唻。<sup>\[如东\]</sup> ② 好玩，有趣<sup>\[如皋\]</sup>：这个耍货真～。<sup>\[如皋\]</sup> ③ 叹语，责语<sup>\[如皋\]</sup>：你这个人～唻，又不碍我的事，同我闹做甚的呀？<sup>\[如皋\]</sup>  
+1. 【[好耍子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_shua_zz.md#好耍子)】`ho3 shua3 zz` <small>/xɔ3 sua3 t͡sɿ/<sup>如皋</sup>, /xɔ3 suɑ3 t͡sɿ/<sup>泰兴</sup></small> 好玩，有趣。有时作叹语、责语。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：这个皮球～唻。<sup>\[如东\]</sup>｜这个耍货真～。<sup>\[如皋\]</sup>｜你这个人～唻，又不碍我的事，同我闹做甚的呀？<sup>\[如皋\]</sup>  
 1. 【[好说](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_shuh.md#好说)】`ho3 shuh7` <sup>[如东]</sup> ① 可以商量：关于这个问题，～。 ② 可以办到：这件事～。  
 1. 【[好说丑说](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_shuh_cheu_shuh.md#好说丑说)】`ho3 shuh7 cheu3 shuh7` <sup>[泰州]</sup> 无论怎么说：他这个人真难玩，你同他～都不行。  
 1. 【[好说话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_shuh_hua.md#好说话)】`ho3 shuh7 hua6` <sup>[泰州]</sup> 比较容易沟通，能理解人乃至迁就人的性格：他这个人厚道，～，这件事最好先同他说咖子。  
+1. 【[好说话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_shuh_hua.md#好说话)】`ho3 shuh7 hua6` <small>/xɔ3 sʊʔ7 xuɑ1/<sup>泰兴</sup></small> 指脾气好，容易商量、通融。<sup>\[泰兴\]</sup>：他只叫个～。<sup>\[泰兴\]</sup>  
 1. 【[好太阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_tae_ian.md#好太阳)】`ho3 tae5 ian` <sup>[如皋]</sup> 强烈的阳光。  
 1. 【[好天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_tin.md#好天)】`ho3 tin1` <small>/xɔ3 tʰĩ1/<sup>泰兴</sup></small> 晴天。<sup>\[如东\]</sup><sup>\[东台\]</sup>\[泰州：相对“阴天”\]\[泰兴：相对于“落天”\]：趁～晒被。<sup>\[东台\]</sup>｜明朝是～，带你俫上光孝寺玩去。<sup>\[泰州\]</sup>  
 1. 【[好玩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_vaen.md#好玩)】`ho3 vaen2` <sup>[东台]</sup> ① 指某项游戏有趣。 ② 指某处景点耐看，可看。  
@@ -862,17 +867,23 @@
 1. 【[好心变吖驴肝肺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_xien_bin_nga.md#好心变吖驴肝肺)】`ho3 xien1 bin5 nga ly2 gun1 fei5` <sup>[如皋]</sup> 叹息语：本来是好心帮助，反招致抱怨。  
 1. 【[好歇个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_xih_gu.md#好歇个)】`ho3 xih7 gu` <sup>[如皋]</sup> 好久。很多小时或好多分钟。  
 1. 【[好雨落咖荒田里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_y_lah_ga.md#好雨落咖荒田里)】`ho3 y3 lah8 ga huan1 tin2 lii` <sup>[东台]</sup> ［喻］好资源没有投到好地方。也指给了人家好东西，人家不识货。  
+1. 【[好雨落咖荒田里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_y_lah_ga.md#好雨落咖荒田里)】`ho3 y3 lah8 ga huan1 tin2 lii` <small>/xɔ3 y3 lɑʔ8 ka xuɑŋ1 tʰĩ2 ləɪ/<sup>泰兴</sup></small> 喻浪费了最好的有价值的东西，未能使之发挥应有的作用。<sup>\[泰兴\]</sup>  
 1. 【[好账算不折](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_zhan_sun_beh.md#好账算不折)】`ho3 zhan5 sun5 beh7 shih8` <sup>[东台]</sup> 没有问题的账，是经得起推敲、核算、稽查的。  
+1. 【[好种出好苗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_zhon_chueh_ho.md#好种出好苗)】`ho3 zhon3 chueh7 ho3 mio2` <small>/xɔ3 t͡sɔŋ3 t͡sʰuəʔ7 xɔ3 miɔ2/<sup>泰兴</sup></small> 喻只要先天基础好，各种条件具备，后天必然会茁壮成长。<sup>\[泰兴\]</sup>  
 1. 【[好早晚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_zo_vaen.md#好早晚)】`ho3 zo3 vaen3` <small>/xɔ3 t͡sɔ3 uɛ̃3/<sup>兴化</sup></small> ① 好长一段时间。<sup>\[东台\]</sup> ② 好长时间<sup>\[兴化\]</sup>：他隔～才来。<sup>\[兴化\]</sup> ③ 时间迟了<sup>\[兴化\]</sup>：“天～了，我们也去罢，别出不去城……”（《红楼梦》三九）<sup>\[兴化\]</sup>  
 1. 【[好早晚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_zo_vaen_zz.md#好早晚子)】`ho3 zo3 vaen3 zz` <sup>[泰州]</sup> 已经过去很长时间：已经等吖～唻，他再不来，你俫就先吃吧。  
 1. 【[好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho.md#好)】`ho5` <sup>[东台]</sup> 喜爱，喜欢，易于发生：～客；～吃；～流眼泪。  
+1. 【[好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho.md#好)】`ho5` <small>/xɔ5/<sup>兴化</sup>, /xɔ5/<sup>如皋</sup>, /xɔ5/<sup>泰兴</sup>, /xɔ5/<sup>泰县</sup></small> 喜好：～吃｜～耍子  
+1. 【[好风的好风，好雨的好雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_fon_dii_ho.md#好风的好风，好雨的好雨)】`ho5 fon1 dii ho5 fon1 ho5 y3 dii ho5 y3` <small>/xɔ5 fɔŋ1 təɪ xɔ5 fɔŋ1 xɔ5 y3 təɪ xɔ5 y3/<sup>泰兴</sup></small> 谓各人的爱好不尽相同，根据各人的兴趣而定。<sup>\[泰兴\]</sup>  
 1. 【[好意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_i.md#好意)】`ho5 i5` <sup>[兴化]</sup> 心甘情愿地：我不是～要出家的，皆因弟兄多，父母养不起，才舍断了出家。｜“人家的病，谁是～的……”（《红楼梦》五八）  
 1. 【[好义](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_i.md#好义)】`ho5 i6` <sup>[兴化]</sup> 热心公益，见义勇为：当时城外百姓有～的，私下将大公子的尸首掩埋了。（《说岳全传》三三）  
 1. 【[好家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_jia.md#好家)】`ho5 jia1` <sup>[兴化]</sup> 指有某种特殊爱好的人，爱好者：他对象棋、扑克是个～。  
 1. 【[好吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_qieh.md#好吃)】`ho5 qieh7` <small>/xɔ5 t͡ɕʰiəʔ7/<sup>泰兴</sup></small> 馋嘴，贪吃<sup>\[泰兴\]</sup>  
+1. 【[好吃宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_qieh_bo.md#好吃宝)】`ho5 qieh7 bo3` <small>/xɔ5 t͡ɕʰiəʔ7 pɔ3/<sup>泰兴</sup></small> 好吃的宝宝。多作亲昵地戏称小孩。<sup>\[泰兴\]</sup>  
 1. 【[好吃精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_qieh_jien.md#好吃精)】`ho5 qieh7 jien1` <sup>[兴化]</sup> （讽）谓馋嘴的人：细伢儿，～，偷钱买花生。（兴文《好吃箱》）  
 1. 【[好吃怕做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_qieh_pa_zu.md#好吃怕做)】`ho5 qieh7 pa5 zu5` <small>/xɔ5 t͡ɕʰiəʔ7 pʰɑ5 t͡sɤɯ5/<sup>泰兴</sup></small> 谓又馋又懒。<sup>\[泰兴\]</sup>  
 1. 【[好吃做媒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_qieh_zu_mi.md#好吃做媒)】`ho5 qieh7 zu5 mi2` <sup>[泰州]</sup> 谑语，嘴馋的人喜欢帮人做媒，用以嘲笑媒人，民俗，男女双方从会亲到成亲，相关仪式办酒时都会请媒人参加。  
+1. 【[好耍子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_shua_zz.md#好耍子)】`ho5 shua3 zz` <small>/xɔ5 suɑ3 t͡sɿ/<sup>泰兴</sup></small> 喜欢玩耍。<sup>\[泰兴\]</sup>  
 1. 【[好啖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_taen.md#好啖)】`ho5 taen3` <sup>[东台]</sup> 嘴馋，好吃的含蓄说法。  
 1. 【[好淌汗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_tan_hun.md#好淌汗)】`ho5 tan3 hun6` <sup>[如皋]</sup> 见“汗体”。  
 1. 【[好头上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_teu_shan.md#好头上)】`ho5 teu2 shan6` <sup>[兴化]</sup> 指兴致正浓的时候：他才学咖上网，正在～，一连十几小时泡啊网吧里。  
@@ -989,7 +1000,7 @@
 1. 【[红白小褂裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_poh_xio_gua.md#红白小褂裤)】`hon2 poh8 xio3 gua5 kv5` <sup>[如皋]</sup> 死者必穿的两套衬衣。  
 1. 【[红白脂淌的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_poh_zhr_tan.md#红白脂淌的)】`hon2 poh8 zhr1 tan dii` <sup>[如皋]</sup> 脸色白净且丰满红润。  
 1. 【[红白滋颡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_poh_zz_san.md#红白滋颡)】`hon2 poh8 zz1 san` <sup>[泰州]</sup> 面色红润的样子：她这些时在家里坐月子，人养得～的。  
-1. 【[红人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_ren.md#红人)】`hon2 ren2` <small>/xoŋ2 ɻəŋ2/<sup>泰县</sup></small> ① 分娩后一个月内的女人，或结婚后一个月内的女人。<sup>\[如东\]</sup><sup>\[泰县\]</sup>\[泰州：旧俗，妇女生产须满月后才可以进入他人家中，妇女婚后一个月以后才可以进入他人家中。\]：你才养吖的，是～，不作兴到人家家里去。<sup>\[泰州\]</sup> ② 正在兴时的人物。<sup>\[如东\]</sup>：他是一个大～。<sup>\[如东\]</sup> ③ 受到特别宠信、重用的人。<sup>\[东台\]</sup><sup>\[泰州\]</sup>：他是领导跟前的大～。<sup>\[泰州\]</sup>  
+1. 【[红人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_ren.md#红人)】`hon2 ren2` <small>/xɔŋ2 ɻəŋ2/<sup>泰兴</sup>, /xoŋ2 ɻəŋ2/<sup>泰县</sup></small> ① 分娩后一个月内的女人，或结婚后一个月内的女人。<sup>\[如东\]</sup><sup>\[泰县\]</sup>\[泰州：旧俗，妇女生产须满月后才可以进入他人家中，妇女婚后一个月以后才可以进入他人家中。\]：你才养吖的，是～，不作兴到人家家里去。<sup>\[泰州\]</sup> ② 正在兴时的人物。<sup>\[如东\]</sup>：他是一个大～。<sup>\[如东\]</sup> ③ 受到特别宠信、重用的人。<sup>\[东台\]</sup><sup>\[泰州\]</sup>：他是领导跟前的大～。<sup>\[泰州\]</sup> ④ 受上司宠信或走运得意的人。亦指媒人。<sup>\[泰兴\]</sup>  
 1. 【[红人<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_ren_r.md#红人<sub>儿</sub>)】`hon2 ren2 r` <sup>[兴化]</sup> ① 受权势者宠信的人。 ② 产妇。  
 1. 【[红肉兮兮的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_roh_xi_xi.md#红肉兮兮的)】`hon2 roh8 xi2 xi2 dii` <sup>[如皋]</sup> 创口张开，里肉外露的样子。  
 1. 【[红肉现现](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_roh_xin_xin.md#红肉现现)】`hon2 roh8 xin6 xin6` <small>/xoŋ2 lɔʔ8 ɕiɪ̃6 ɕiɪ̃6/<sup>兴化</sup></small> ① 形容创口张开，血肉模糊的样子。<sup>\[兴化\]</sup> ② 新的伤口张开显露出带血肌肉的样子，意谓伤口很深，伤害程度重。<sup>\[泰州\]</sup>  
@@ -1024,7 +1035,7 @@
 1. 【[哄肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_dv_zz.md#哄肚子)】`hon3 dv3 zz` <sup>[如皋]</sup> 吃的食物质量差，好似吃饱了，其实容易饿。  
 1. 【[哄吓诈骗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_heh_zha_pin.md#哄吓诈骗)】`hon3 heh7 zha5 pin5` <small>/xoŋ3 xəʔ7 t͡sa5 pʰiɪ̃5/<sup>兴化</sup></small> ① 指各种欺诈或威胁手段<sup>\[兴化\]</sup>：更有那使促狭的，通同了几个人，～，逼得别人大醉，以为笑乐。（《广陵潮》三三）<sup>\[兴化\]</sup> ② 泛指各种威胁欺诈手段<sup>\[泰州\]</sup>：这小伙走江湖的，你同他玩～不得用。<sup>\[泰州\]</sup>  
 1. 【[哄伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_nga_r.md#哄伢<sub>儿</sub>)】`hon3 nga2 r` <sup>[如皋]</sup> 带小孩。  
-1. 【[哄人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_ren.md#哄人)】`hon3 ren2` <small>/xɔŋ3 ɻəŋ2/<sup>如皋</sup></small> ① 骗人。<sup>\[如东\]</sup> ② 说假话骗人。<sup>\[如皋\]</sup>  
+1. 【[哄人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_ren.md#哄人)】`hon3 ren2` <small>/xɔŋ3 ɻəŋ2/<sup>如皋</sup>, /xɔŋ3 ɻəŋ2/<sup>泰兴</sup></small> 骗人。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
 1. 【[哄煞婆做煞婆，𠵹煞婆歇煞婆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_shaeh_pu_zu.md#哄煞婆做煞婆，𠵹煞婆歇煞婆)】`hon3 shaeh7 pu2 zu5 shaeh7 pu2 gan1 shaeh7 pu2 xih7 shaeh7 pu2` <sup>[东台]</sup> 儿媳妇尊重婆婆，婆婆就有积极性。  
 1. 【[哄煞人不伤性命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_shaeh_ren_beh.md#哄煞人不伤性命)】`hon3 shaeh7 ren2 beh7 shan1 xien5 mien6` <sup>[东台]</sup> 说话要尊重人讲艺术。  
 1. 【[哄中哄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_zhon_hon.md#哄中哄)】`hon3 zhon hon3` <sup>[兴化]</sup> 你哄我，我哄他，互相欺骗：而今有些事情本就是～，何必当真！  

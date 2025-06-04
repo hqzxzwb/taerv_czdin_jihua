@@ -1905,6 +1905,7 @@
 1. 【[驮不动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_beh_ton.md#驮不动)】`tu2 beh7 ton6` <sup>[东台]</sup> 吃不下。渔民避讳语。也是避讳吃的谐音七。  
 1. 【[驮龟<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_guei_r.md#驮龟<sub>儿</sub>)】`tu2 guei1 r` <sup>[如皋]</sup> ① 用背驮人。 ② 蛙交配。  
 1. 【[驮盐巴过河——越背越轻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_in_ba_gu.md#驮盐巴过河——越背越轻)】`tu2 in2 ba1 gu5 hu2 iuh8 bei1 iuh8 qien1` <sup>[东台]</sup>   
+1. 【[驮腰搭背](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_io_daeh_bei.md#驮腰搭背)】`tu2 io1 daeh7 bei5` <small>/tʰɤɯ2 iɔ1 tæʔ7 pəɪ5/<sup>泰兴</sup></small> 谓弯腰驼背的样子。仪表不美。<sup>\[泰兴\]</sup>  
 1. 【[驮肩搭背](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_jin_daeh_bei.md#驮肩搭背)】`tu2 jin1 daeh7 bei5` <small>/tʰo2 t͡ɕiɪ̃1 tæʔ7 pəi5/<sup>兴化</sup>, /tʰʊ2 t͡ɕĩ1 teʔ7 pei5/<sup>如皋</sup></small> ① 贬指以肢、体相互勾结的样子<sup>\[如皋\]</sup>：两个伢儿一头跑一头～的，没得个走相。<sup>\[如皋\]</sup> ② 见“勾肩搭背”。<sup>\[兴化\]</sup> ③ 行路时，一人搂着另一人的肩<sup>\[兴化\]</sup>：（两个人）拿了个纸捻子点着，～下楼。（《武松》二）<sup>\[兴化\]</sup> ④ 手臂贴着他人背部搭于他人肩上<sup>\[泰州\]</sup>：前栋有人，你把手拿啊来吧，～的，被人家望见吖，像个甚的样子。<sup>\[泰州\]</sup>  
 1. 【[驮肩搁背](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_jin_gah_bei.md#驮肩搁背)】`tu2 jin1 gah7 bei5` <sup>[东台]</sup> 勾肩搭背，很亲昵的样子。  
 1. 【[驮老虎害人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_lo_hv_hae.md#驮老虎害人)】`tu2 lo3 hv3 hae6 ren2` <sup>[兴化]</sup> （喻）引进坏人招来灾祸：这个张大妈，把个痞子惹来，简直～。  
@@ -1912,6 +1913,7 @@
 1. 【[驮女上轿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_ny_shan_qio.md#驮女上轿)】`tu2 ny3 shan6 qio6` <sup>[如东]</sup> 一种民俗。姑娘出嫁时，脚不能着地，要由父亲或哥哥驮着或抱着送上花轿，表示不把娘家的地皮带到婆家去。  
 1. 【[驮钱虫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_qin_chon_r.md#驮钱虫<sub>儿</sub>)】`tu2 qin2 chon2 r` <sup>[兴化]</sup> 灶马。  
 1. 【[驮驮卖卖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_tu_mae_mae.md#驮驮卖卖)】`tu2 tu2 mae6 mae6` <sup>[兴化]</sup> 儿童语，大人背着孩子，边走边唱：～，卖把哪家做小乖乖。  
+1. 【[驮债借务](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_zhae_jia_v.md#驮债借务)】`tu2 zhae5 jia5 v6` <small>/tʰɤɯ2 t͡ɕiɛ5 t͡ɕiɑ5 ʋ1/<sup>泰兴</sup></small> 借债，差人债务。<sup>\[泰兴\]</sup>  
 1. 【[驼背](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_bei.md#驼背)】`tu2 bei5` <sup>[如东]</sup> 脊柱骨向外弯曲。  
 1. 【[驼粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_fen.md#驼粉)】`tu2 fen3` <sup>[兴化]</sup> 豆制的芡粉。  
 1. 【[驼梁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_lian.md#驼梁)】`tu2 lian2` <sup>[如皋]</sup> 车軬正檩。中部略上弓。  

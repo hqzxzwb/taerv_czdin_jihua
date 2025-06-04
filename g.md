@@ -434,7 +434,6 @@
 1. 【[圪垛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_tu.md#圪垛)】`geh7 tu6` <sup>[兴化]</sup> 见“垛圪”。  
 1. 【[圪枕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_zhen.md#圪枕)】`geh7 zhen3` <sup>[东台]</sup> 木质化的瓜果蒂的俗称。  
 1. 【[塥岸/隔岸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_un.md#塥岸/隔岸)】`geh7 un6` <sup>[泰州]</sup> 泰州城北部港口地区如棋格般排列与水中的小块陆地，每个大小高低不一，形状各异，有如小岛四面皆水，相互之间隔水相望，由纵横交错河道链接，四通八达，农民划船于此种植蔬菜。  
-1. 【[格](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh.md#格)】`geh7` 表示疑问的“哿gu3”在部分地区的发音：～是你的（是不是你的）？  
 1. 【[格曝亮净](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_bo_lian_qien.md#格曝亮净)】`geh7 bo5 lian6 qien` <sup>[东台]</sup> 形容整洁靓丽。  
 1. 【[格迸亮净](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_bon_lian_qien.md#格迸亮净)】`geh7 bon1 lian6 qien` <sup>[泰县]</sup> 干净明亮：小李把玻璃擦咖～的。  
 1. 【[格端](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_dun.md#格端)】`geh7 dun` <sup>[如皋]</sup> 见“苦鹱鸟儿”。（原文作“格锻”）  
@@ -471,6 +470,7 @@
 1. 【[疙丁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_dien_zz.md#疙丁子)】`geh7 dien1 zz` <sup>[兴化]</sup> ① 疣，也称“瘊子”。 ② 器物上小的突起：摇控器上有一排排的～。  
 1. 【[疙里疙瘩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_lii_geh_daeh.md#疙里疙瘩)】`geh7 lii geh7 daeh7` <sup>[东台]</sup> 不平滑，不顺手。  
 1. 【[疙里疙瘩的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_lii_geh_daeh.md#疙里疙瘩的)】`geh7 lii geh7 daeh7 dii` <sup>[如皋]</sup> ① 状有小凸起，不平：桌面子不曾打磨，手摸上去～。 ② 喻有小矛盾：两个人现在有点儿～。  
+1. 【[箇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh.md#箇)】`geh7` <small>/kəʔ7/<sup>泰兴</sup></small> ① 这，此。一些地区习惯说“箇”，另一些地区更习惯说“这(zha5)”。 ② 这么，如此，为“箇们”之省。<sup>\[泰兴\]</sup>：～大/这么大<sup>\[泰兴\]</sup>  
 1. 【[箇阵<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_chen_r.md#箇阵<sub>儿</sub>)】`geh7 chen6 r` 现在，这时候  
 1. 【[箇朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_do.md#箇朝)】`geh7 do` <sup>[如皋]</sup> 见“这朝”。  
 1. 【[箇朝子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_do_zz.md#箇朝子)】`geh7 do zz` <sup>[如皋]</sup> 见“这朝”。  
@@ -478,7 +478,7 @@
 1. 【[箇一刻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_ieh_keh.md#箇一刻)】`geh7 ieh7 keh` 现在  
 1. 【[箇境](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_jien.md#箇境)】`geh7 jien` 这边，这面，这里  
 1. 【[箇刻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_keh_r.md#箇刻<sub>儿</sub>)】`geh7 keh9 r` 现在  
-1. 【[箇们](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_men.md#箇们)】`geh7 men` <sup>[如皋]</sup> ① 这样，这么，那么。 ② 连词。反诘用语，有强调义，表“这么、这么说的话……、那么”：你说没得钱哎，～你哪许来钱买皮大衣嗲？你不该打他！～他先打我的呗！  
+1. 【[箇们](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_men.md#箇们)】`geh7 men` <small>/kəʔ7 məŋ/<sup>如皋</sup>, /kəʔ7 məŋ/<sup>泰兴</sup></small> ① 这么，如此<sup>\[如皋\]</sup><sup>\[泰兴\]</sup> ② 连词。反诘用语，有强调义，表“这么、这么说的话……、那么”<sup>\[如皋\]</sup>：你说没得钱哎，～你哪许来钱买皮大衣嗲？你不该打他！～他先打我的呗！<sup>\[如皋\]</sup>  
 1. 【[箇歇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_xih.md#箇歇)】`geh7 xih7` 现在：～几点钟？/现在几点钟？  
 1. 【[箇早晚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_zo_vaen.md#箇早晚)】`geh7 zo3 vaen` 现在<sup>\[如东\]</sup>  
 1. 【[胳膊扭不过大腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_bah_nieu_beh.md#胳膊扭不过大腿)】`geh7 bah7 nieu3 beh7 gu5 da6 ty3` <sup>[东台]</sup> 弱小的敌不过强大的。  
