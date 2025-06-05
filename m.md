@@ -894,7 +894,7 @@
 1. 【[门荡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_tan_zz.md#门荡子)】`men2 tan6 zz` <sup>[如东]</sup> 安装大门的位置，包括高与宽。  
 1. 【[门头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_teu_zz.md#门头子)】`men2 teu2 zz` <sup>[兴化]</sup> 大门里的通道，又称“门楼子”。（借）门第、身份：人家是走大～里出来的。  
 1. 【[门第](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_ti.md#门第)】`men2 ti` <sup>[泰兴]</sup> 旧指社会上的家庭地位等级、文化层次等方面。乡人也称有狐臭者家庭为“门第不好”。  
-1. 【[门莛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_tien.md#门莛)】`men2 tien2` <sup>[如东]</sup> 门帮两头的延伸部分，支撑门旋转。上端叫上门莛，下端叫下门莛。也称户枢、门轴、转莛、转肘。  
+1. 【[门筳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_tien.md#门筳)】`men2 tien2` <sup>[如东]</sup> 门帮两头的延伸部分，支撑门旋转。上端叫上门筳，下端叫下门筳。也称户枢、门轴、转筳、转肘。  
 1. 【[门条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_tio.md#门条)】`men2 tio2` <sup>[如皋]</sup> 缝纫术语之一：前襟钉钮处的底衬。  
 1. 【[门道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_to.md#门道)】`men2 to6` <sup>[如东]</sup> ① 门的通道。 ② 比喻办法：他有～，可以成功。  
 1. 【[门度子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_tv_zz.md#门度子)】`men2 tv6 zz` <sup>[如东]</sup> 门板的宽度。  

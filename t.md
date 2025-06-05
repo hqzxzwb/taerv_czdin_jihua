@@ -1014,8 +1014,10 @@
 1. 【[停生意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_shen_i.md#停生意)】`tien2 shen1 i` <sup>[兴化]</sup> 旧称被商店解雇：我不肯卖假货，反而捱老板～。  
 1. 【[停汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_tan.md#停汤)】`tien2 tan1` <small>/tʰiɪ̃2 tʰaŋ1/<sup>兴化</sup>, /tʰiŋ2 tʰɑŋ1/<sup>泰县</sup></small> ① 浴室停止营业，叫做停汤。<sup>\[如东\]</sup> ② 开水温度下降。<sup>\[兴化\]</sup> ③ 浴室停止营业：今朝停汤。<sup>\[泰县\]</sup>  
 1. 【[渟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien.md#渟)】`tien2` <sup>[泰州]</sup> ① 汤汁变质以后渣滓沉淀的样子：天气太热，早上煮的粥，中上就～吖汤唻。 ② 开水温度大幅下降直至变凉：这个茶瓶里的水还是前朝中上烧的，～吖汤，不能喝。  
-1. 【[莛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_r.md#莛<sub>儿</sub>)】`tien2 r` <small>/tʰiə˞2/<sup>如皋</sup></small> ① 杆子。<sup>\[如东\]</sup>：火柴～。<sup>\[如东\]</sup> ② 草本植物嫩的花茎：韭菜～。<sup>\[如皋\]</sup>  
-1. 【[莛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_zz.md#莛子)】`tien2 zz` <small>/tʰiɪ̃2 t͡sɿ/<sup>兴化</sup>, /tʰiəŋ2 t͡sɿ/<sup>如皋</sup></small> ① 纺棉花用的铁轴子。<sup>\[如皋\]</sup> ② 做本蜡烛烛心的红草茎。<sup>\[如皋\]</sup> ③ 蔬菜等的花轴。<sup>\[东台\]</sup> ④ 玉米去粒后的棒棒。<sup>\[东台\]</sup> ⑤ 某些草本植物的茎（多指未成熟时）<sup>\[兴化\]</sup>：荷叶～；芦秫～。莛，《广韵，青韵》特丁切<sup>\[兴化\]</sup>｜草茎。<sup>\[兴化\]</sup>  
+1. 【[筳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_r.md#筳<sub>儿</sub>)】`tien2 r` 杆子。<sup>\[如东\]</sup>：火柴～。<sup>\[如东\]</sup>  
+1. 【[筳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_zz.md#筳子)】`tien2 zz` <small>/tʰiəŋ2 t͡sɿ/<sup>如皋</sup></small> 纺棉花用的铁轴子。<sup>\[如皋\]</sup>  
+1. 【[莛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_r.md#莛<sub>儿</sub>)】`tien2 r` <small>/tʰiə˞2/<sup>如皋</sup></small> 草本植物嫩的花茎<sup>\[如皋\]</sup>：韭菜～。<sup>\[如皋\]</sup>  
+1. 【[莛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_zz.md#莛子)】`tien2 zz` <small>/tʰiɪ̃2 t͡sɿ/<sup>兴化</sup>, /tʰiəŋ2 t͡sɿ/<sup>如皋</sup></small> ① 做本蜡烛烛心的红草茎。<sup>\[如皋\]</sup> ② 蔬菜等的花轴。<sup>\[东台\]</sup> ③ 玉米去粒后的棒棒。<sup>\[东台\]</sup> ④ 某些草本植物的茎（多指未成熟时）<sup>\[兴化\]</sup>：荷叶～；芦秫～。<sup>\[兴化\]</sup>  
 1. 【[葶苈子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_lieh_zz.md#葶苈子)】`tien2 lieh8 zz` <sup>[如东]</sup> 十字花科植物独行菜，一年生或二年生草本。高约30厘米。茎直立。叶互生，上部叶线形，较小，全缘。长总状花序，顶生。花小。短角果，卵状椭圆形，扁平。种子倒卵状椭圆形，淡红棕色。生长在田野、荒地、路旁。  
 1. 【[听装](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_zhuan.md#听装)】`tien3 zhuan1` <sup>[兴化]</sup> 用听子包装的商品：～香烟；～奶粉。  
 1. 【[听子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_zz.md#听子)】`tien3 zz` <sup>[兴化]</sup> 装食品、香烟等物的马口铁罐或筒：一～饼干｜一～中华香烟。  

@@ -148,7 +148,7 @@
 1. 【[起水日子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_shuei_rih_zz.md#起水日子)】`qi3 shuei3 rih8 zz` <sup>[如东]</sup> 阴历每月初十日、二十五日，海潮水位开始升高，称起水日子。也叫起水潮。大汛开始。  
 1. 【[起水鲜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_shuei_xin.md#起水鲜)】`qi3 shuei3 xin1` <sup>[兴化]</sup> 见“出水鲜”。  
 1. 【[起头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_teu.md#起头)】`qi3 teu2` <sup>[如东]</sup> 开始：才～。  
-1. 【[起莛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_tien_r.md#起莛<sub>儿</sub>)】`qi3 tien2 r` <small>/t͡ɕʰʝ3 tʰiə˞2/<sup>如皋</sup></small> ① 见“起蕻子”。l<sup>\[如皋\]</sup> ② 抽薹。<sup>\[如皋\]</sup>  
+1. 【[起莛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_tien_r.md#起莛<sub>儿</sub>)】`qi3 tien2 r` <small>/t͡ɕʰʝ3 tʰiə˞2/<sup>如皋</sup></small> 抽薹。参见“起蕻子”。<sup>\[如皋\]</sup>  
 1. 【[起天色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_tin_seh.md#起天色)】`qi3 tin1 seh` <sup>[兴化]</sup> 天空阴云四合，预示风雨将至：东边～咖，快点儿把场上稻子苫起来。  
 1. 【[起天色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_tin_seh.md#起天色)】`qi3 tin1 seh7` <sup>[如皋]</sup> 夏天，阵头云来了，要起风下雨。  
 1. 【[起跳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_tio.md#起跳)】`qi3 tio5` <sup>[如东]</sup> 运动员从起跳线开始跳。比喻某种事情从这里开始：他是从这许～的。  
