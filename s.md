@@ -1732,13 +1732,15 @@
 1. 【[寿糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_go.md#寿糕)】`sheu6 go1` <sup>[如皋]</sup> 祝寿礼品之一，即有寿字的米粉糕。  
 1. 【[寿鞋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_hae.md#寿鞋)】`sheu6 hae2` <small>/sei1 xɛ2/<sup>如皋</sup></small> ① 给死人穿的鞋子。对用料、款式和制作人有特殊要求。例如，外孙女未嫁时应给外祖父母做～。交与保存。<sup>\[如皋\]</sup> ② 为死人制作的鞋，称寿鞋。<sup>\[如东\]</sup>  
 1. 【[寿衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_i.md#寿衣)】`sheu6 i1` <sup>[如东]</sup> 为老年人制作的服装，称寿衣。为死人制作的衣服。  
+1. 【[寿衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_i.md#寿衣)】`sheu6 i1` <small>/ɕiɤɯ1 ʝ1/<sup>泰兴</sup></small> 老年人生前做好的备用的殓衣。<sup>\[泰兴\]</sup>  
 1. 【[寿衣店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_i_din.md#寿衣店)】`sheu6 i1 din5` <sup>[如东]</sup> 销售死人服装的专业商店。  
 1. 【[寿筵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_in.md#寿筵)】`sheu6 in2` <sup>[如东]</sup> 为庆祝寿诞而举办的酒筵。寿筵的菜肴一般为：长寿面大寿桃，长生果（花生米）；散席时，要给宾客送小寿桃（干面做成）。菜肴的数量一定要双数（四冷四热，八碗八碟）。  
 1. 【[寿镜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_jien.md#寿镜)】`sheu6 jien5` <sup>[如皋]</sup> 祝寿的镜匾。  
 1. 【[寿酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_jieu.md#寿酒)】`sheu6 jieu3` <small>/sei1 t͡ɕyʊ3/<sup>如皋</sup></small> ① 祝寿酒宴。<sup>\[如皋\]</sup> ② 为庆祝寿辰而举办的酒筵。<sup>\[如东\]</sup>  
 1. 【[寿眉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_mi.md#寿眉)】`sheu6 mi2` <sup>[如东]</sup> 人的眉毛又粗又长，表示寿命可能很长，称寿眉。  
-1. 【[寿面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_min.md#寿面)】`sheu6 min6` 也称作“长寿面”，祝寿时吃的面条<sup>\[东台\]</sup>\[泰州：民俗，百岁老人做生日，未被邀请之人会向主家讨要面条，以图吉祥长寿，即使素不相识的路人，主人也不会拒绝。\]  
+1. 【[寿面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_min.md#寿面)】`sheu6 min6` <small>/ɕiɤɯ1 mĩ1/<sup>泰兴</sup></small> 也称作“长寿面”，祝寿时吃的面条<sup>\[东台\]</sup><sup>\[泰兴\]</sup>\[泰州：民俗，百岁老人做生日，未被邀请之人会向主家讨要面条，以图吉祥长寿，即使素不相识的路人，主人也不会拒绝。\]  
 1. 【[寿帽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_mo.md#寿帽)】`sheu6 mo6` <small>/sei1 mɔ1/<sup>如皋</sup></small> ① 给死人戴的帽子。随时代、身份、性别而不同。<sup>\[如皋\]</sup> ② 为死人制作的帽子。<sup>\[如东\]</sup>  
+1. 【[寿器](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_qi.md#寿器)】`sheu6 qi` <small>/ɕiɤɯ1 t͡ɕʰʝ/<sup>泰兴</sup></small> 老年人生前备下的棺材，亦泛指一般的棺材。<sup>\[泰兴\]</sup>  
 1. 【[寿器](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_qi.md#寿器)】`sheu6 qi5` <sup>[如东]</sup> 棺材。  
 1. 【[寿头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_teu.md#寿头)】`sheu6 teu` <small>/sɤ6 tʰɤ/<sup>兴化</sup></small> ① 傻瓜、不通人情世故的人<sup>\[兴化\]</sup>：这种～，不弄他两个弄哪个？<sup>\[兴化\]</sup> ② 隐语，土也，也就是“土佬”，指不懂人情世故，容易受愚弄欺骗的人<sup>\[泰州\]</sup>：再好的衣裳穿吖他身上也是个～。<sup>\[泰州\]</sup> ③ 谐音“瘦头”，指极小气的人<sup>\[泰州\]</sup>：他是个～，你想他拿钱请客，不可能的事。<sup>\[泰州\]</sup>  
 1. 【[寿头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_teu.md#寿头)】`sheu6 teu2` <sup>[如皋]</sup> 不懂人情世故的人。  
@@ -1746,17 +1748,18 @@
 1. 【[寿桃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_to.md#寿桃)】`sheu6 to2` <sup>[东台]</sup> 祝寿所用的桃，一般用面粉制成，也有用鲜桃的。  
 1. 【[寿团](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_tun.md#寿团)】`sheu6 tun2` <sup>[如皋]</sup> 祝寿礼品之一，有红标记的米团。  
 1. 【[寿碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_un.md#寿碗)】`sheu6 un3` 为庆贺长寿老人生日所用的碗。民俗，八十、九十以上老人做大生日，寿宴结束时要向每位来宾赠送一只寿碗，如同婚宴上发喜糖一样，客人带回家中一般都给儿童使用，沾润寿星长寿之喜，以保佑小孩健康成长。旧时高龄老人做大生日，家中碗、盘、碟、匙等，客人均可“偷”走，主人不仅不会生气，还会十分高兴，因为这样说明寿星得到大家爱戴，主人愿与亲朋好友共同分享寿星福气。<sup>\[泰州\]</sup>  
-1. 【[寿限](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_xiaen.md#寿限)】`sheu6 xiaen6` <small>/sɤ6 ɕiɛ̃6/<sup>兴化</sup></small> ① 迷信指人命中注定的岁数<sup>\[兴化\]</sup>：～到啊，神仙也治不了。<sup>\[兴化\]</sup>｜“……你撞着太岁爷，也是阁王注定你的～了……”（《说岳全传》七五）<sup>\[兴化\]</sup> ② 个人所能活到的岁数<sup>\[泰州\]</sup>：各人的～不一样，你也不要再难过唻。<sup>\[泰州\]</sup>  
+1. 【[寿限](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_xiaen.md#寿限)】`sheu6 xiaen6` <small>/sɤ6 ɕiɛ̃6/<sup>兴化</sup>, /ɕiɤɯ1 ɕiɛ̃1/<sup>泰兴</sup></small> ① 迷信指人命中注定的岁数<sup>\[兴化\]</sup>：～到啊，神仙也治不了。<sup>\[兴化\]</sup>｜“……你撞着太岁爷，也是阁王注定你的～了……”（《说岳全传》七五）<sup>\[兴化\]</sup> ② 个人所能活到的岁数<sup>\[泰州\]</sup>：各人的～不一样，你也不要再难过唻。<sup>\[泰州\]</sup> ③ 年寿，寿数，人的年龄的上限。有时作物事的使用期限。<sup>\[泰兴\]</sup>  
 1. 【[寿星佬吃砒霜——活得不耐烦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_xien_lo_qieh.md#寿星佬吃砒霜——活得不耐烦)】`sheu6 xien1 lo3 qieh7 pi1 shuan1 huh8 deh7 beh7 nae6 faen2` <sup>[东台]</sup>   
 1. 【[寿星佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_xien_lo_r.md#寿星佬<sub>儿</sub>)】`sheu6 xien1 lo3 r` <small>/sei1 ɕiəŋ1 lɔ˞3/<sup>如皋</sup></small> ① 指过生日者。<sup>\[如皋\]</sup> ② 神仙福禄寿三星之一。对老人的敬称。<sup>\[如东\]</sup><sup>\[如皋\]</sup>  
 1. 【[寿星佬<sub>儿</sub>拜财神——有钱大三级](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_xien_lo_r.md#寿星佬<sub>儿</sub>拜财神——有钱大三级)】`sheu6 xien1 lo3 r bae5 cae2 shen2 ieu3 qin2 da6 saen1 jieh7` <sup>[东台]</sup>   
 1. 【[寿星佬<sub>儿</sub>跌跟头——肉头道啊地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_xien_lo_r.md#寿星佬<sub>儿</sub>跌跟头——肉头道啊地)】`sheu6 xien1 lo3 r dih7 gen1 teu roh8 teu to6 a ti6` <sup>[如皋]</sup>   
 1. 【[寿星佬<sub>儿</sub>跨户槛——肉头到啊家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_xien_lo_r.md#寿星佬<sub>儿</sub>跨户槛——肉头到啊家)】`sheu6 xien1 lo3 r kua5 v6 kaen3 roh8 teu do5 a ga1` <sup>[如皋]</sup>   
 1. 【[寿星佬<sub>儿</sub>睏箔子——受足（竹）伤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_xien_lo_r.md#寿星佬<sub>儿</sub>睏箔子——受足（竹）伤)】`sheu6 xien1 lo3 r kuen5 pah8 zz sheu6 zoh7 shan1` <sup>[如皋]</sup>   
-1. 【[寿星佬<sub>儿</sub>卖妈妈——倚老卖老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_xien_lo_r.md#寿星佬<sub>儿</sub>卖妈妈——倚老卖老)】`sheu6 xien1 lo3 r mae6 ma1 ma i3 lo3 mae6 lo3` <sup>[如皋]</sup>   
-1. 【[寿星佬<sub>儿</sub>卖妈妈——倚老卖老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_xien_lo_r.md#寿星佬<sub>儿</sub>卖妈妈——倚老卖老)】`sheu6 xien1 lo3 r mae6 ma1 ma1 i3 lo3 mae6 lo3` <sup>[东台]</sup>   
+1. 【[寿星佬<sub>儿</sub>卖妈妈——倚老卖老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_xien_lo_r.md#寿星佬<sub>儿</sub>卖妈妈——倚老卖老)】`sheu6 xien1 lo3 r mae6 ma1 ma i3 lo3 mae6 lo3` <small>/sei1 ɕiəŋ1 lɔ˞3 mɛ1 ma1 ma ʝ3 lɔ3 mɛ1 lɔ3/<sup>如皋</sup>, /ɕiɤɯ1 ɕiŋ1 lɔ˞3 mɛ1 mɑ1 mɑ ʝ3 lɔ3 mɛ1 lɔ3/<sup>泰兴</sup></small> 倚老卖老<sup>\[如皋\]</sup><sup>\[泰兴\]</sup><sup>\[东台\]</sup>  
 1. 【[寿星佬<sub>儿</sub>吃砒霜——活得不耐烦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_xien_lo_r.md#寿星佬<sub>儿</sub>吃砒霜——活得不耐烦)】`sheu6 xien1 lo3 r qieh7 pi1 shuan1 huh8 deh beh7 nae6 faen2` <sup>[如皋]</sup>   
 1. 【[寿星佬<sub>儿</sub>抓朞——过啊倒缩过来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_xien_lo_r.md#寿星佬<sub>儿</sub>抓朞——过啊倒缩过来啊)】`sheu6 xien1 lo3 r zhua1 ji1 gu5 a do5 soh7 gu5 lae a` <sup>[如皋]</sup>   
+1. 【[寿星老<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_xien_lo_r.md#寿星老<sub>儿</sub>)】`sheu6 xien1 lo3 r` <small>/ɕiɤɯ1 ɕiŋ1 lɔ˞3/<sup>泰兴</sup></small> 寿星的俗称。<sup>\[泰兴\]</sup>  
+1. 【[寿星老<sub>儿</sub>睏箔子——捱足（竹）搞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_xien_lo_r.md#寿星老<sub>儿</sub>睏箔子——捱足（竹）搞)】`sheu6 xien1 lo3 r kuen5 pah8 zz ngae2 zoh7 go3` <small>/ɕiɤɯ1 ɕiŋ1 lɔ˞3 kʰuəŋ5 pʰɑʔ8 t͡sɿ ŋɛ2 t͡sɔʔ7 kɔ3/<sup>泰兴</sup></small> 箔子，竹杆编成的床上垫物。<sup>\[泰兴\]</sup>  
 1. 【[寿鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_y.md#寿鱼)】`sheu6 y2` <sup>[如皋]</sup> ① 黄鳝，寿宴用，习称“长鱼”。 ② 泥鳅，随葬用，习称“地龙”。  
 1. 【[寿幛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_zhan.md#寿幛)】`sheu6 zhan1` <sup>[如皋]</sup> 祝寿礼品之一，即专指祝寿的字画条幅。  
 1. 【[寿枕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_zhen.md#寿枕)】`sheu6 zhen3` <small>/sei1 t͡səŋ3/<sup>如皋</sup></small> ① 死人用枕，多为“山”字形布枕，内衬碎纸条。<sup>\[如皋\]</sup> ② 为死人制作的枕头。<sup>\[如东\]</sup>  

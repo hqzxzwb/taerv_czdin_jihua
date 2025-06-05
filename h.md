@@ -2476,5 +2476,5 @@
 1. 【[糊糊<sub>儿</sub>面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_hv_r_min.md#糊糊<sub>儿</sub>面)】`hv6 hv6 r min6` <sup>[如皋]</sup> 糊状的面条。  
 1. 【[糊弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_lon.md#糊弄)】`hv6 lon6` <sup>[如东]</sup> ① 欺骗：他在下～人。 ② 蛮干。  
 1. 【[糊汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_tan.md#糊汤)】`hv6 tan1` <small>/xu5 tʰaŋ1/<sup>兴化</sup></small> 面条、汤圆等，因久煮或反复用汤，汤变稠了<sup>\[如东\]</sup>\[兴化：又谓“淴汤”。\]  
-1. 【[约而摸酌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/iah_r_mah_chah.md#约而摸酌)】`ia7 er mah zhah7` <small>/iɑ7 ɚ mɑʔ t͡sɑʔ7/<sup>泰兴</sup></small> 约莫，大约莫。<sup>\[泰兴\]</sup>  
+1. 【[约而摸酌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/iah_r_mah_zhah.md#约而摸酌)】`iah7 er mah zhah7` <small>/iɑʔ7 ɚ mɑʔ t͡sɑʔ7/<sup>泰兴</sup></small> 约莫，大约莫。<sup>\[泰兴\]</sup>  
 **[▲](#音序检索)**  
