@@ -6,6 +6,11 @@ sheu6 xien1 lo3 r
   * 如东方言词典
   * 如皋方言词典
 
+# 寿星老儿
+sheu6 xien1 lo3 r
++ 寿星的俗称。
+  * 泰兴方言辞典
+
 # 寿星佬儿抓朞——过啊倒缩过来啊
 sheu6 xien1 lo3 r zhua1 ji1 gu5 a do5 soh7 gu5 lae a
 > 如皋方言词典
@@ -22,17 +27,21 @@ sheu6 xien1 lo3 r dih7 gen1 teu roh8 teu to6 a ti6
 sheu6 xien1 lo3 r kua5 v6 kaen3 roh8 teu do5 a ga1
 > 如皋方言词典
 
+# 寿星老儿睏箔子——捱足（竹）搞
+sheu6 xien1 lo3 r kuen5 pah8 zz ngae2 zoh7 go3
++ 箔子，竹杆编成的床上垫物。
+  * 泰兴方言辞典
+
 # 寿星佬儿睏箔子——受足（竹）伤
 sheu6 xien1 lo3 r kuen5 pah8 zz sheu6 zoh7 shan1
 > 如皋方言词典
 
 # 寿星佬儿卖妈妈——倚老卖老
 sheu6 xien1 lo3 r mae6 ma1 ma i3 lo3 mae6 lo3
-> 如皋方言词典
-
-# 寿星佬儿卖妈妈——倚老卖老
-sheu6 xien1 lo3 r mae6 ma1 ma1 i3 lo3 mae6 lo3
-> 东台方言词典
++ 倚老卖老
+  * 如皋方言词典
+  * 泰兴方言辞典
+  * 东台方言词典
 
 # 寿星佬儿吃砒霜——活得不耐烦
 sheu6 xien1 lo3 r qieh7 pi1 shuan1 huh8 deh beh7 nae6 faen2
