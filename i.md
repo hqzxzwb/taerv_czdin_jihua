@@ -288,12 +288,13 @@
 1. 【[约住他](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_chv_ta.md#约住他)】`iah7 chv ta1` <sup>[如皋]</sup> （也说ya5）用方法，暗中稳住，拖住，限住，使之不能离开这个地方。  
 1. 【[约约匡匡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_iah_kuan_kuan.md#约约匡匡)】`iah7 iah7 kuan1 kuan1` <sup>[泰县]</sup> 大体上估算：你这回砌房子～要花多少钱？  
 1. 【[约约数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_iah_shv.md#约约数)】`iah7 iah7 shv5` <sup>[东台]</sup> 同“马马意”、“匡匡酌酌”。  
+1. 【[约约数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_iah_shv.md#约约数)】`iah7 iah7 shv5` <small>/iɑʔ7 iɑʔ7 su5/<sup>泰兴</sup></small> 大体估计，不求精确。<sup>\[泰兴\]</sup>  
 1. 【[约匡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_kuan.md#约匡)】`iah7 kuan1` <sup>[兴化]</sup> 大致匡估：这块稻田亩产～千斤挂零。  
+1. 【[约摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_mah.md#约摸)】`iah7 mah` <sup>[如皋]</sup> 估计，大体，大约。  
 1. 【[约摸数<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_mah_shv_r.md#约摸数<sub>儿</sub>)】`iah7 mah shv5 r` <small>/iaʔ7 maʔ su˞5/<sup>如皋</sup></small> 大概的估计，大约。<sup>\[如皋\]</sup><sup>\[如东\]</sup>：～有多少？<sup>\[如东\]</sup>  
 1. 【[约摸着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_mah_zhah.md#约摸着)】`iah7 mah zhah` <sup>[泰州]</sup> 大约，大概：会场上～来啊百十个人。  
-1. 【[约摸酌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_mah_zhah_r.md#约摸酌<sub>儿</sub>)】`iah7 mah zhah7 r` <small>/iaʔ7 maʔ t͡saʔ7 ɚ/<sup>兴化</sup>, /iɑʔ7 mɑʔ t͡sɑʔ7 ɚ/<sup>泰县</sup></small> 大概、匡估<sup>\[泰县\]</sup><sup>\[东台\]</sup>\[兴化：也称“约酌”。\]：砌一套别墅，～三十几万。<sup>\[兴化\]</sup>｜你～考啊多少分？<sup>\[泰县\]</sup>｜前儿晚上，村里搞文艺晚会，观众～有两千人。<sup>\[东台\]</sup>  
-1. 【[约摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_mah.md#约摸)】`iah7 mah8` <sup>[如皋]</sup> 估计，大体，大约。  
-1. 【[约摸账<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_mah_zhan_r.md#约摸账<sub>儿</sub>)】`iah7 mah8 zhan5 r` <sup>[如东]</sup> 大体上：～估估。  
+1. 【[约摸酌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_mah_zhah_r.md#约摸酌<sub>儿</sub>)】`iah7 mah zhah7 r` <small>/iaʔ7 maʔ t͡saʔ7 ɚ/<sup>兴化</sup>, /iɑʔ7 mɑʔ t͡sɑʔ7 ɚ/<sup>泰县</sup></small> 大概、匡估<sup>\[泰县\]</sup><sup>\[东台\]</sup><sup>\[如东\]</sup>\[兴化：也称“约酌”。\]：砌一套别墅，～三十几万。<sup>\[兴化\]</sup>｜你～考啊多少分？<sup>\[泰县\]</sup>｜前儿晚上，村里搞文艺晚会，观众～有两千人。<sup>\[东台\]</sup>｜～估估<sup>\[如东\]</sup>  
+1. 【[约莫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_mah.md#约莫)】`iah7 mah` <small>/iɑʔ7 mɑʔ/<sup>泰兴</sup></small> 估计；大概。<sup>\[泰兴\]</sup>  
 1. 【[岳父](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_fv.md#岳父)】`iah8 fv6` <sup>[如东]</sup> 妻子的父亲。也称岳丈、丈人。  
 1. 【[岳母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_mu.md#岳母)】`iah8 mu3` <sup>[如东]</sup> 妻子的母亲。  
 1. 【[药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah.md#药)】`iah8` <small>/iɑʔ8/<sup>泰县</sup></small> ① 毒杀 ② 毒杀<sup>\[泰县\]</sup>：～老鼠。<sup>\[泰县\]</sup> ③ 设下全套诱人上当<sup>\[泰州\]</sup>：他说的话你不能听，他是～你的。<sup>\[泰州\]</sup>｜这小伙太老卵，你～他啊子。<sup>\[泰州\]</sup>  

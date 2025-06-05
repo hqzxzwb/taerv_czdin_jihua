@@ -2026,7 +2026,7 @@
 1. 【[估估堆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_gv_dy_r.md#估估堆<sub>儿</sub>)】`gv3 gv dy1 r` <sup>[东台]</sup> 估计，推测（也作“毛估估”）：你的眼光好，～，这袋棉花值几钱？  
 1. 【[估估堆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_gv_dy_r.md#估估堆<sub>儿</sub>)】`gv3 gv3 dy1 r` <sup>[如皋]</sup> 对一堆物品的大略匡估。  
 1. 【[估估酌酌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_gv_zhah_zhah.md#估估酌酌)】`gv3 gv3 zhah7 zhah7` <small>/ku3 ku3 t͡sɑʔ7 t͡sɑʔ7/<sup>泰县</sup></small> ① 大体上、不精确地估算。<sup>\[东台\]</sup> ② 大约<sup>\[泰县\]</sup>：他说的数都是～，不怎吖准确。<sup>\[泰县\]</sup> ③ 大致估算一下<sup>\[泰州\]</sup>：东西最好还是弄秤来称下子，～的不准。<sup>\[泰州\]</sup>  
-1. 【[估摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_mah.md#估摸)】`gv3 mah8` <sup>[如皋]</sup> 估计，大体，大约。  
+1. 【[估摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_mah.md#估摸)】`gv3 mah` <sup>[如皋]</sup> 估计，大体，大约。  
 1. 【[估酌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_zhah.md#估酌)】`gv3 zhah7` <sup>[兴化]</sup> 估计、大概：这头猪～二百斤出头。  
 1. 【[古当先](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_dan_xin.md#古当先)】`gv3 dan xin1` <sup>[兴化]</sup> 从前：～这块是水荡子。  
 1. 【[古当先](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_dan_xin.md#古当先)】`gv3 dan1 xin1` <small>/ku3 tã1 ɕĩ1/<sup>如皋</sup>, /ku3 tɑŋ1 ɕiɪ̃1/<sup>泰县</sup></small> ① 古时候。<sup>\[如皋\]</sup> ② 从前，很久以前<sup>\[东台\]</sup>：～这个地方是一片汪洋。<sup>\[东台\]</sup> ③ 过去<sup>\[泰县\]</sup>：吃饭敲碗是～的人最忌避的。<sup>\[泰县\]</sup>  

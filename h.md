@@ -952,6 +952,7 @@
 1. 【[横吹老牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_chuei_lo_ngeu.md#横吹老牛)】`hon2 chuei1 lo3 ngeu2` <sup>[兴化]</sup> 形容大吹牛皮：他一说自己是某某大佬的亲侄儿，其实他俫八杆子也打不到。  
 1. 【[横生倒养](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_shen_do_ian.md#横生倒养)】`hon2 shen1 do5 ian3` <sup>[兴化]</sup> 因胎位不正而难产。  
 1. 【[洪潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_cho.md#洪潮)】`hon2 cho2` <sup>[如东]</sup> ① 大水：今吖是～。 ② 比喻旺盛：棉花已经开～啊。  
+1. 【[红巴赤鲜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_ba_cheh_xin.md#红巴赤鲜)】`hon2 ba cheh7 xin1` <small>/xɔŋ2 pɑ t͡sʰəʔ7 ɕĩ1/<sup>泰兴</sup></small> 谓颜色红得令人厌烦。<sup>\[泰兴\]</sup>  
 1. 【[红巴拉西的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_ba_la_xi.md#红巴拉西的)】`hon2 ba la1 xi1 dii, hon2 ba la2 xi1 dii` <sup>[如皋]</sup> 红得难看的颜色。  
 1. 【[红扁豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_bin_teu.md#红扁豆)】`hon2 bin3 teu6` <sup>[如东]</sup> 豆科植物扁豆红褐色的种子。  
 1. 【[红布帽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_bv_mo_zz.md#红布帽子)】`hon2 bv5 mo6 zz` <sup>[如皋]</sup> 婴幼儿出痧子时戴的红布连成的帽子。  
@@ -965,9 +966,12 @@
 1. 【[红虾<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_ha_r.md#红虾<sub>儿</sub>)】`hon2 ha1 r` <sup>[兴化]</sup> （喻）形容人酒后面部呈现的酡颜：他两杯酒下肚，脸就像个～。  
 1. 【[红虾<sub>儿</sub>、白虾<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_ha_r_poh.md#红虾<sub>儿</sub>、白虾<sub>儿</sub>)】`hon2 ha1 r poh8 ha1 r` <sup>[如皋]</sup> 两种海虾，多在春节前后上市，冷拌食用，味鲜美。  
 1. 【[红苋菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_haen_cae.md#红苋菜)】`hon2 haen6 cae5` <sup>[如东]</sup> 苋科植物老枪谷，一年生草本。  
+1. 【[红苋菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_haen_cae.md#红苋菜)】`hon2 haen6 cae5` <small>/xɔŋ2 xɛ̃1 t͡ɕʰiɛ5/<sup>泰兴</sup></small> 红色的苋菜。区别于白色、青色的苋菜。<sup>\[泰兴\]</sup>  
 1. 【[红黑变脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_heh_bin_lin.md#红黑变脸)】`hon2 heh7 bin5 lin3` <sup>[兴化]</sup> 形容人两副脸，随机应变：他这种人开始不丑，你不满足他要求马上翻脸，是个～的人。  
+1. 【[红黑变脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_heh_bin_lin.md#红黑变脸)】`hon2 heh7 bin5 lin3` <small>/xɔŋ2 xəʔ7 pĩ5 lĩ3/<sup>泰兴</sup></small> 谓人喜怒哀乐变化无常，一会儿笑嘻嘻的，和颜悦色；一会儿又板着面孔，暴怒异常。<sup>\[泰兴\]</sup>  
 1. 【[红花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_hua.md#红花)】`hon2 hua1` <sup>[如东]</sup> 菊科植物红花，一年生草本。  
 1. 【[红花芝草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_hua_zhr_co.md#红花芝草)】`hon2 hua1 zhr1 co3` <sup>[兴化]</sup> （喻）希望：你家丫头马上大学毕业，你好看到～啊。  
+1. 【[红花芝草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_hua_zhr_co.md#红花芝草)】`hon2 hua1 zhr1 co3` <small>/xɔŋ2 xuɑ1 t͡sɿ1 t͡sʰɔ3/<sup>泰兴</sup></small> 喻极好的东西。<sup>\[泰兴\]</sup>  
 1. 【[红𧑚䘆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_hun_xin.md#红𧑚䘆)】`hon2 hun2 xin1` <sup>[如皋]</sup> 即“香𧑚䘆”。  
 1. 【[红胰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_i.md#红胰)】`hon2 i2` <sup>[如皋]</sup> 脾。  
 1. 【[红油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_ieu.md#红油)】`hon2 ieu2` <sup>[如皋]</sup> 轻型润滑油。  
@@ -994,6 +998,7 @@
 1. 【[红扑滋汤的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_poh_zz_tan.md#红扑滋汤的)】`hon2 poh7 zz1 tan1 dii` <sup>[东台]</sup> 形容人红光满面，红扑扑的，面色红润，身体很好。  
 1. 【[红白堂紫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_poh_tan_zz.md#红白堂紫)】`hon2 poh8 tan2 zz3` <sup>[如东]</sup> 面色白嫩红润，身体健康：老人家身体好啊，脸上～的。  
 1. 【[红白喜事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_poh_xi_shr.md#红白喜事)】`hon2 poh8 xi3 shr6` <sup>[东台]</sup> 泛指婚丧大事（结婚是红喜事，高寿的人死了，魂归西去极乐世界，故叫“喜丧”）。  
+1. 【[红白喜事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_poh_xi_shr.md#红白喜事)】`hon2 poh8 xi3 shr6` <small>/xɔŋ2 pʰɔʔ8 ɕʝ3 sɿ1/<sup>泰兴</sup></small> 指婚嫁丧葬之事。<sup>\[泰兴\]</sup>  
 1. 【[红白小褂裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_poh_xio_gua.md#红白小褂裤)】`hon2 poh8 xio3 gua5 kv5` <sup>[如皋]</sup> 死者必穿的两套衬衣。  
 1. 【[红白脂淌的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_poh_zhr_tan.md#红白脂淌的)】`hon2 poh8 zhr1 tan dii` <sup>[如皋]</sup> 脸色白净且丰满红润。  
 1. 【[红白滋颡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_poh_zz_san.md#红白滋颡)】`hon2 poh8 zz1 san` <sup>[泰州]</sup> 面色红润的样子：她这些时在家里坐月子，人养得～的。  
@@ -1003,9 +1008,12 @@
 1. 【[红肉现现](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_roh_xin_xin.md#红肉现现)】`hon2 roh8 xin6 xin6` <small>/xoŋ2 lɔʔ8 ɕiɪ̃6 ɕiɪ̃6/<sup>兴化</sup></small> ① 形容创口张开，血肉模糊的样子。<sup>\[兴化\]</sup> ② 新的伤口张开显露出带血肌肉的样子，意谓伤口很深，伤害程度重。<sup>\[泰州\]</sup>  
 1. 【[红柴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_shae_r.md#红柴<sub>儿</sub>)】`hon2 shae2 r` <sup>[如皋]</sup> 见“红草”。  
 1. 【[红烧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_sho.md#红烧)】`hon2 sho1` ① 一种烹调方法。把油、糖、酱等作料放在锅里加热，再把鱼、肉等放人，略炒，焖熟，成黑红色。色、香、味具佳。<sup>\[如东\]</sup> ② 以酱油、红糖等作料烧菜，烧好的菜呈酱红色，故云。<sup>\[泰州\]</sup>  
+1. 【[红事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_shr.md#红事)】`hon2 shr` <small>/xɔŋ2 sɿ/<sup>泰兴</sup></small> 指喜事。与“白事”相对。<sup>\[泰兴\]</sup>  
 1. 【[红事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_shr.md#红事)】`hon2 shr6` <sup>[如东]</sup> 喜事。如结婚、贺寿等。  
 1. 【[红丝疔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_sz_dien.md#红丝疔)】`hon2 sz1 dien1` <sup>[如皋]</sup> 疔疮的一种，疮毒呈红丝状向心脏方向发展，很险恶。  
 1. 【[红蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_taen.md#红蛋)】`hon2 taen6` <sup>[如东]</sup> 妇女生小孩后，将鸡蛋煮熟染成红色赠送给亲友，表示报喜，这种蛋叫做红蛋。也叫喜蛋。  
+1. 【[红蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_taen.md#红蛋)】`hon2 taen6` <small>/xɔŋ2 tʰɛ̃1/<sup>泰兴</sup></small> 染红的鸡蛋。生孩子的人家送给亲友，表示喜庆。<sup>\[泰兴\]</sup>  
+1. 【[红堂堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_tan_tan.md#红堂堂)】`hon2 tan2 tan2` <small>/xɔŋ2 tʰɑŋ2 tʰɑŋ2/<sup>泰兴</sup></small> 红彤彤。形容很红。<sup>\[泰兴\]</sup>  
 1. 【[红糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_tan.md#红糖)】`hon2 tan2` <sup>[如东]</sup> 糖的一种。甘蔗糖浆熬成，含有砂糖和糖蜜，黄褐色、赤红色或黑色。也称砂糖。  
 1. 【[红糖茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_tan_cha.md#红糖茶)】`hon2 tan2 cha2` <sup>[如皋]</sup> 红糖冲泡的茶。  
 1. 【[红糖京枣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_tan_jien_zo.md#红糖京枣)】`hon2 tan2 jien1 zo3` <sup>[如皋]</sup> 一种像红枣的甜脆茶食。  
@@ -1013,6 +1021,7 @@
 1. 【[红膛膛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_tan_tan.md#红膛膛)】`hon2 tan2 tan2` <sup>[如东]</sup> 脸色红润而有光泽：吴老爹的脸上～的，身体好啊！  
 1. 【[红膛膛的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_tan_tan_dii.md#红膛膛的)】`hon2 tan2 tan2 dii` <sup>[如皋]</sup> 喻紫红而又有光泽的颜色：桌子漆得～｜脸上养得～  
 1. 【[红藤草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_ten_co.md#红藤草)】`hon2 ten2 co3` <sup>[如皋]</sup> 马鞭草。  
+1. 【[红头赤脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_teu_cheh_lin.md#红头赤脸)】`hon2 teu2 cheh7 lin3` <small>/xɔŋ2 tʰəɪ2 t͡sʰəʔ7 lĩ3/<sup>泰兴</sup></small> 喻面色通红。多指被严厉责备后的窘态。有时指发怒者本人。<sup>\[泰兴\]</sup>  
 1. 【[红头发野人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_teu_faeh_ia.md#红头发野人)】`hon2 teu2 faeh7 ia3 ren2` <sup>[兴化]</sup> （喻）野蛮无理，不受法律道德约束的人：哪块来的～？敢在公共场所撒野。  
 1. 【[红头虾<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_teu_ha_r.md#红头虾<sub>儿</sub>)】`hon2 teu2 ha1 r` <sup>[东台]</sup> 戏称醉酒后面红耳赤。  
 1. 【[红头推鲨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_teu_tuei_sha.md#红头推鲨)】`hon2 teu2 tuei1 sha1` <sup>[如东]</sup> 鰕虎鱼科动物鰕虎鱼，头部及背部呈淡红色。  
@@ -1022,11 +1031,13 @@
 1. 【[红尾伯劳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_vei_boh_lo.md#红尾伯劳)】`hon2 vei3 boh7 lo` <sup>[如东]</sup> 候鸟。体长约19厘米。嘴粗有钩，似鹰嘴。夏季在北方繁殖，冬季迁至华南一带，几遍全国。性凶猛。叫声粗犷，激昂多变。栖息在灌木丛中。喜吃昆虫和其他小动物。  
 1. 【[红蚊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_ven_zz.md#红蚊子)】`hon2 ven2 zz` <sup>[如皋]</sup> 库蚊。  
 1. 【[红虾<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_xia_r.md#红虾<sub>儿</sub>)】`hon2 xia1 r` <sup>[如东]</sup> 对虾科动物鹰爪虾，体长约6厘米。体较粗短，甲壳很厚，表面粗糙不平。额角上缘有锯齿。头胸甲的触角刺具较短的纵缝。腹部背面有节。尾节末端尖细，两侧有活动刺。体红黄色，腹部各节前缘白色，后背为红黄色，弯曲时颜色的浓淡与鸟爪相似。生活在泥沙底的浅海中。  
+1. 【[红小豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_xio_teu.md#红小豆)】`hon2 xio3 teu6` <small>/xɔŋ2 ɕiɔ3 tʰəɪ1/<sup>泰兴</sup></small> 红豆。色泽红色的豆。<sup>\[泰兴\]</sup>  
 1. 【[红纸封<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_zhr_fon_r.md#红纸封<sub>儿</sub>)】`hon2 zhr3 fon1 r` <sup>[兴化]</sup> 包了礼金的红纸包。  
 1. 【[红纸角落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_zhr_gah_lah.md#红纸角落)】`hon2 zhr3 gah7 lah` <sup>[东台]</sup> 送红包者的客套话，意思是出手不大，小意思。  
 1. 【[红砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_zhun.md#红砖)】`hon2 zhun1` <small>/xɔŋ2 t͡sʊ̃1/<sup>如皋</sup></small> ① 砖坯烧熟后，不加水，让其慢慢冷却，砖的颜色即呈淡红色，称红砖。<sup>\[如东\]</sup> ② 红色标准砖，烧制中未洇水。<sup>\[如皋\]</sup>  
 1. 【[红煮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_zhv.md#红煮)】`hon2 zhv3` <sup>[兴化]</sup> 煮鱼时，用酱油、蔗糖等调味：“借小林口福，多买几斤鯽鱼，一半～，一半烧白汤。”（马春阳《昏迷再婚谜》）也说“仄煮”。  
 1. 【[红枣<sub>儿</sub>茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_zo_r_cha.md#红枣<sub>儿</sub>茶)】`hon2 zo3 r cha2` <sup>[如皋]</sup> 煮红枣儿放红糖，待客作茶用。  
+1. 【[红枣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_zo_zz.md#红枣子)】`hon2 zo3 zz` <small>/xɔŋ2 t͡sɔ3 t͡sɿ/<sup>泰兴</sup></small> 红枣。<sup>\[泰兴\]</sup>  
 1. 【[红嘴鸥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_zuei_ngeu.md#红嘴鸥)】`hon2 zuei3 ngeu1` <sup>[如东]</sup> 鸥科动物红嘴鸥，也称海鸥。  
 1. 【[哄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon.md#哄)】`hon3` <sup>[东台]</sup> ① 说谎；欺骗。 ② 哄逗：～伢儿。  
 1. 【[哄肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_dv_zz.md#哄肚子)】`hon3 dv3 zz` <sup>[如皋]</sup> 吃的食物质量差，好似吃饱了，其实容易饿。  
@@ -2465,4 +2476,5 @@
 1. 【[糊糊<sub>儿</sub>面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_hv_r_min.md#糊糊<sub>儿</sub>面)】`hv6 hv6 r min6` <sup>[如皋]</sup> 糊状的面条。  
 1. 【[糊弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_lon.md#糊弄)】`hv6 lon6` <sup>[如东]</sup> ① 欺骗：他在下～人。 ② 蛮干。  
 1. 【[糊汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_tan.md#糊汤)】`hv6 tan1` <small>/xu5 tʰaŋ1/<sup>兴化</sup></small> 面条、汤圆等，因久煮或反复用汤，汤变稠了<sup>\[如东\]</sup>\[兴化：又谓“淴汤”。\]  
+1. 【[约而摸酌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/iah_r_mah_chah.md#约而摸酌)】`ia7 er mah zhah7` <small>/iɑ7 ɚ mɑʔ t͡sɑʔ7/<sup>泰兴</sup></small> 约莫，大约莫。<sup>\[泰兴\]</sup>  
 **[▲](#音序检索)**  
