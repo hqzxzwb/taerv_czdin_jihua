@@ -140,6 +140,7 @@
 1. 【[坝头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_teu_zz.md#坝头子)】`ba5 teu2 zz` <sup>[如皋]</sup> 坝墩。  
 1. 【[坝堍子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_tv_zz.md#坝堍子)】`ba5 tv5 zz` <small>/pa5 tʰu5 t͡sɿ/<sup>如皋</sup></small> ① 坝身两端与岸边相接的一段。<sup>\[如东\]</sup> ② 坝身两端与岸边、路道相连的一段。<sup>\[如皋\]</sup>  
 1. 【[坝爪<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_zhua_r.md#坝爪<sub>儿</sub>)】`ba5 zhua3 r` <small>/pa5 t͡sua3 ɚ/<sup>兴化</sup>, /pa5 t͡ɕya3 ɚ/<sup>泰县</sup></small> ① 指小的土坝。<sup>\[兴化\]</sup> ② 小土坝。<sup>\[泰县\]</sup>  
+1. 【[坝桩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_zhuan.md#坝桩)】`ba5 zhuan` <small>/pɑ5 t͡suɑŋ/<sup>泰兴</sup></small> 也说“坝爪”。小的土坝。<sup>\[泰兴\]</sup>  
 1. 【[把杯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_bei.md#把杯)】`ba5 bei1` <small>/pa5 pəi1/<sup>兴化</sup>, /pa5 pəɪ1/<sup>泰县</sup></small> ① 有把子的茶杯。‖也说“把缸子”。<sup>\[兴化\]</sup> ② 水杯。<sup>\[泰县\]</sup>  
 1. 【[把杯/欛杯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_bei.md#把杯/欛杯)】`ba5 bei1` <sup>[泰州]</sup> 有柄的水杯。  
 1. 【[把缸/欛缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_gan.md#把缸/欛缸)】`ba5 gan1` <sup>[泰州]</sup> 有把的圆筒状水杯，多指搪瓷制的较大水杯。  

@@ -356,8 +356,12 @@
 1. 【[抠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu.md#抠)】`keu1` <small>/kʰɤ1/<sup>兴化</sup>, /kʰei1/<sup>如皋</sup></small> ① 从狭小的地方把东西挖出来。<sup>\[如东\]</sup>：把蟛蜞从洞里～出来。<sup>\[如东\]</sup> ② 小气，吝啬。<sup>\[如东\]</sup>：这人～。<sup>\[如东\]</sup> ③ 也念keu2。掏：在袋里～钱。<sup>\[如皋\]</sup> ④ 努力赚取：～钱。<sup>\[如皋\]</sup> ⑤ 进取：他上学唸书～得凶。<sup>\[如皋\]</sup> ⑥ 用指甲划<sup>\[兴化\]</sup>：把身上～得血淌淌的。<sup>\[兴化\]</sup> ⑦ 用手指头挖<sup>\[泰州\]</sup>：你把冬瓜里头的瓤子～掉。<sup>\[泰州\]</sup> ⑧ 吝惜<sup>\[泰州\]</sup>：～啊没得命。<sup>\[泰州\]</sup>  
 1. 【[抠长鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_chan_y.md#抠长鱼)】`keu1 chan2 y2` <sup>[兴化]</sup> 把手伸进小洞中捉黄鳝：乡下伢儿多会～、张鳅鱼。  
 1. 【[抠字眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_cz_ngaen_r.md#抠字眼<sub>儿</sub>)】`keu1 cz6 ngaen3 r` <sup>[东台]</sup> 在字句上找岔子：说话一不留神，就捱人家抠啊字眼儿。  
+1. 【[抠底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_di.md#抠底)】`keu1 di3` <small>/kʰəɪ1 t͡ɕʝ3/<sup>泰兴</sup></small> 玩扑克时抠对方所闷的底牌，得分双算。<sup>\[泰兴\]</sup>  
 1. 【[抠腰包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_io_bo.md#抠腰包)】`keu1 io1 bo1` <sup>[如东]</sup> 比喻拿钱：请你～啦。  
+1. 【[抠捞塞划](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_lo_seh_va.md#抠捞塞划)】`keu1 lo2 seh7 va2` <small>/kʰəɪ1 lɔ2 səʔ7 uɑ2/<sup>泰兴</sup></small> 极端自私，想捞取不属于自己的东西。<sup>\[泰兴\]</sup>  
+1. 【[抠眼睛，划鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_ngaen_jien_va.md#抠眼睛，划鼻子)】`keu1 ngaen3 jien1 va2 pieh8 zz` <small>/kʰəɪ1 ŋɛ̃3 t͡ɕiŋ1 uɑ2 pʰiʔ8 t͡sɿ/<sup>泰兴</sup></small> 谓遇事弯弯绕，做一些不相干的小事故意拖延时间，想办法回避。做鬼脸。<sup>\[泰兴\]</sup>  
 1. 【[抠屁眼十八嗍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_pi_ngaen_sheh.md#抠屁眼十八嗍)】`keu1 pi5 ngaen3 sheh8 baeh7 shuah7` <sup>[东台]</sup> 也说抠屁眼嗍指头。形容人过于小气、吝啬：他～，你还想找他捐款？  
+1. 【[抠屁眼嗍节头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_pi_ngaen_shuah.md#抠屁眼嗍节头)】`keu1 pi5 ngaen3 shuah7 jih7 teu` <small>/kʰəɪ1 pʰʝ5 ŋɛ̃3 suɑʔ7 t͡ɕiʔ7 tʰəɪ/<sup>泰兴</sup></small> 谓人极吝惜。节头，手指头。<sup>\[泰兴\]</sup>  
 1. 【[抠屁眼嗍指头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_pi_ngaen_shuah.md#抠屁眼嗍指头)】`keu1 pi5 ngaen3 shuah7 zheh7 teu` <sup>[如东]</sup> 比喻小气。  
 1. 【[抠头脑子扒心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_teu_no_zz.md#抠头脑子扒心)】`keu1 teu2 no3 zz ba1 xien1` <sup>[东台]</sup> 绞尽脑汁的意思：人家～写出来的作品，我俫要认真阅读修改。  
 1. 【[抠肚肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_tv_chan.md#抠肚肠)】`keu1 tv6 chan2` <sup>[如东]</sup> 掏出腹中的肠子。比喻掏取别人最重要的东西：不能～。  
@@ -366,6 +370,7 @@
 1. 【[抠心挖毌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_xien_vaeh_kuaeh.md#抠心挖毌)】`keu1 xien1 vaeh7 kuaeh8` <sup>[兴化]</sup> 用尽心机：为啊得到这座房子，他～钻眼子、找门路。  
 1. 【[抠心挖肚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_xien_vaeh_tv.md#抠心挖肚)】`keu1 xien1 vaeh7 tv6` <sup>[如东]</sup> 用尽心计，盘算别人：～的想好处。  
 1. 【[眍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu.md#眍)】`keu1` ① 眼睛凹陷。<sup>\[东台\]</sup> ② 眼睛凹在眼眶里<sup>\[泰州\]</sup>：他两个眼睛～得蛮深的。<sup>\[泰州\]</sup>  
+1. 【[眍眍<sub>儿</sub>眼睛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_keu_r_ngaen.md#眍眍<sub>儿</sub>眼睛)】`keu1 keu1 r ngaen3 jien` <small>/kʰəɪ1 kʰəɪ˞1 ŋɛ̃3 t͡ɕiŋ/<sup>泰兴</sup></small> 谓眼眶深陷，眼睛落塘。<sup>\[泰兴\]</sup>  
 1. 【[眍眼睛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_ngaen_jien.md#眍眼睛)】`keu1 ngaen3 jien1` <small>/kʰei1 ŋẽ3 t͡ɕiəŋ1/<sup>如皋</sup></small> ① 眼球深陷在眼眶里。<sup>\[如东\]</sup> ② 眼球深陷下去的人。<sup>\[如东\]</sup> ③ 目凹，眼球位深。白种人尽是如此。<sup>\[如皋\]</sup>  
 1. 【[眍眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_ngaen_r.md#眍眼<sub>儿</sub>)】`keu1 ngaen3 r` <sup>[兴化]</sup> 眼球深陷在眼眶里边：前边来了一位～、高鼻子的外国人。  
 1. 【[剾巴剾巴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_ba_keu_ba.md#剾巴剾巴的)】`keu2 ba1 keu2 ba1 dii` <sup>[东台]</sup> 指做某件事的能力或实力不足而勉强去做。态度很认真，但效果不明显。  
@@ -672,9 +677,9 @@
 1. 【[瘣瘤<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_lieu_r.md#瘣瘤<sub>儿</sub>)】`kuae3 lieu r` <sup>[如皋]</sup> ① 长在体表一侧的瘤子。 ② 比喻多余的、沉重的负担。  
 1. 【[会计](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_ji.md#会计)】`kuae5 ji5` ① 监督和管理财务工作，主要内容有填制各种记账凭证，处理账务，编制各种有关报表等。<sup>\[如东\]</sup> ② 担任会计工作的人员。<sup>\[如东\]</sup> ③ 记账、算账、核算的财务人员，有总账、出纳之分。<sup>\[东台\]</sup>  
 1. 【[块块](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_kuae.md#块块)】`kuae5 kuae` <sup>[兴化]</sup> 每一处：……（秧苗）茬含苞了，中茬分蘖了，晚茬醒棵了，～田里都需水。（马春阳《大队长和他的妻子》）｜就这样，倪四不是怪桌子摆歪了，就是怪坐的凳子太矮，……～碍事。（《皮五辣子》一）  
-1. 【[块块](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_kuae.md#块块)】`kuae5 kuae5` <small>/kʰuɛ5 kʰuɛ5/<sup>如皋</sup></small> ① 到处 ② 到处，处处<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup>：～都是白花。<sup>\[如东\]</sup>｜生姜米～搭。<sup>\[东台\]</sup> ③ 每一块。<sup>\[如皋\]</sup> ④ 指地方，相对于条条（行业、部门）<sup>\[东台\]</sup>：条条～要统筹兼顾。<sup>\[东台\]</sup>  
+1. 【[块块](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_kuae.md#块块)】`kuae5 kuae5` <small>/kʰuɛ5 kʰuɛ5/<sup>如皋</sup>, /kʰuɛ5 kʰuɛ5/<sup>泰兴</sup></small> ① 到处 ② 到处，处处<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>：～都是白花。<sup>\[如东\]</sup>｜生姜米～搭。<sup>\[东台\]</sup>｜春节期间，块块热嘈煞咖。<sup>\[泰兴\]</sup> ③ 每一块。<sup>\[如皋\]</sup> ④ 指地方，相对于条条（行业、部门）<sup>\[东台\]</sup>：条条～要统筹兼顾。<sup>\[东台\]</sup>  
 1. 【[块块赸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_kuae_shuaen.md#块块赸)】`kuae5 kuae5 shuaen1` <sup>[如皋]</sup> 到处追、找。  
-1. 【[块头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_teu.md#块头)】`kuae5 teu` <small>/kʰuɛ5 tʰei/<sup>如皋</sup></small> 人的体型。<sup>\[如东\]</sup><sup>\[泰州\]</sup>\[如皋：人的身材；身高和胖瘦。同“身块”。\]：来啊一个大～。<sup>\[如东\]</sup>｜这个小伙的～大，挑个百十斤没得问题。<sup>\[泰州\]</sup>  
+1. 【[块头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_teu.md#块头)】`kuae5 teu` <small>/kʰuɛ5 tʰei/<sup>如皋</sup>, /kʰuɛ5 tʰəɪ/<sup>泰兴</sup></small> 人的体型。<sup>\[如东\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>\[如皋：人的身材；身高和胖瘦。同“身块”。\]：来啊一个大～。<sup>\[如东\]</sup>｜这个小伙的～大，挑个百十斤没得问题。<sup>\[泰州\]</sup>  
 1. 【[块子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_zz.md#块子)】`kuae5 zz` <sup>[兴化]</sup> 成疙瘩或成团的东西：豆腐～；肥肉～；糖～。  
 1. 【[快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae.md#快)】`kuae5` <sup>[如东]</sup> ① 速度：他跑啊～。 ② 锋利：这把刀～。  
 1. 【[快边<sub>儿</sub>门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_bin_r_men.md#快边<sub>儿</sub>门)】`kuae5 bin1 r men2` <sup>[如东]</sup> 门的一种。全门为一扇。也叫独个儿门。  
@@ -936,14 +941,15 @@
 1. 【[看青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_qien.md#看青)】`kun1 qien1` <small>/kʰʊ̃1 t͡ɕʰiŋ1/<sup>泰兴</sup></small> 看守即将收获的农作物。<sup>\[泰兴\]</sup>  
 1. 【[看尸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_shr.md#看尸)】`kun1 shr1` <sup>[如东]</sup> ① 看守死尸。 ② 死守住不走：你在家里不出门，～啊！  
 1. 【[龛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_zz.md#龛子)】`kun1 zz` <sup>[如皋]</sup> 敬祖宗、神佛用的殿堂式木龛。  
-1. 【[冚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun.md#冚)】`kun3` <small>/kʰũ3/<sup>兴化</sup>, /kʰʊ̃3/<sup>如皋</sup>, /kʰõ3/<sup>泰县</sup></small> ① 倒盖 ② 盖<sup>\[如皋\]</sup><sup>\[泰县\]</sup>：拿罩儿把碗～起来。<sup>\[如皋\]</sup>｜把菜～起来。<sup>\[泰县\]</sup> ③ 口朝下，遮盖东西，扣住。<sup>\[东台\]</sup>：把菜～起来，防止苍蝇叮。<sup>\[东台\]</sup> ④ 将器皿倒置<sup>\[兴化\]</sup>：把碗～过来。<sup>\[兴化\]</sup>｜用缸～吖上头。<sup>\[兴化\]</sup> ⑤ 戴上<sup>\[兴化\]</sup>：“女婿大喜回家，你不知女儿正～上愁帽哩！”（《醒世烟缘传》九一）<sup>\[兴化\]</sup> ⑥ 将帽子套在脑袋上<sup>\[泰州\]</sup>：把帽子望头上一～就出去啊唻。<sup>\[泰州\]</sup> ⑦ 容器口朝下放置<sup>\[泰州\]</sup>：他把酒杯ㄦ～吖桌上不把你倒酒。<sup>\[泰州\]</sup> ⑧ 容器口朝下覆盖食品<sup>\[泰州\]</sup>：你弄盘子把中上滞的两碗菜～吖好啊，留啊晚上吃。<sup>\[泰州\]</sup>  
+1. 【[冚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun.md#冚)】`kun3` <small>/kʰũ3/<sup>兴化</sup>, /kʰʊ̃3/<sup>如皋</sup>, /kʰʊ̃3/<sup>泰兴</sup>, /kʰõ3/<sup>泰县</sup></small> 口朝下倒置，盖，扣。或指戴帽。<sup>\[如皋\]</sup><sup>\[泰县\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：拿罩儿把碗～起来。<sup>\[如皋\]</sup>｜把菜～起来。<sup>\[泰县\]</sup>｜把菜～起来，防止苍蝇叮。<sup>\[东台\]</sup>｜把碗～过来。<sup>\[兴化\]</sup>｜用缸～吖上头。<sup>\[兴化\]</sup>｜“女婿大喜回家，你不知女儿正～上愁帽哩！”（《醒世烟缘传》九一）<sup>\[兴化\]</sup>｜把帽子望头上一～就出去啊唻。<sup>\[泰州\]</sup>｜他把酒杯ㄦ～吖桌上不把你倒酒。<sup>\[泰州\]</sup>｜你弄盘子把中上滞的两碗菜～吖好啊，留啊晚上吃。<sup>\[泰州\]</sup>  
 1. 【[冚盖<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_gae_r.md#冚盖<sub>儿</sub>)】`kun3 gae5 r` <sup>[如皋]</sup> 有帮子的盖子。  
 1. 【[冚锅<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_gu_r.md#冚锅<sub>儿</sub>)】`kun3 gu1 r` <sup>[如皋]</sup> 高帮子的锅盖。  
+1. 【[冚下来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_ha_lae.md#冚下来)】`kun3 ha lae2` <small>/kʰʊ̃3 xɑ lɛ2/<sup>泰兴</sup></small> 将碗碟等器物口向下摆放。<sup>\[泰兴\]</sup>：你把盆子～<sup>\[泰兴\]</sup>  
 1. 【[冚吖下摇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_nga_ha_io.md#冚吖下摇)】`kun3 nga ha io2` <sup>[泰县]</sup> 难以捉摸：这件事还在～，不晓得结果。  
 1. 【[冚罩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_zho_r.md#冚罩<sub>儿</sub>)】`kun3 zho5 r` <sup>[如皋]</sup> 将桌上的饭菜碗罩住以防苍蝇的网状罩儿。  
 1. 【[坎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun.md#坎)】`kun3` <sup>[如东]</sup> ① 田野里自然形成或人工筑成的坡状土堆的一侧。 ② 海滩上形成的土墩，叫做坎。  
 1. 【[坎塄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_len.md#坎塄)】`kun3 len6` <sup>[如东]</sup> 河沿上的陡坡。  
-1. 【[坎子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_zz.md#坎子)】`kun3 zz` <small>/kʰʊ̃3 t͡sɿ/<sup>如皋</sup></small> ① 河床的斜坡。<sup>\[如皋\]</sup> ② 河岸、土堆的斜坡。<sup>\[如皋\]</sup> ③ 见“沟坎儿”。<sup>\[如皋\]</sup>  
+1. 【[坎子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_zz.md#坎子)】`kun3 zz` <small>/kʰʊ̃3 t͡sɿ/<sup>如皋</sup>, /kʰʊ̃3 t͡sɿ/<sup>泰兴</sup></small> ① 河岸、土堆的斜坡。参见“沟坎儿”。<sup>\[如皋\]</sup> ② 沟边坡状废地。<sup>\[泰兴\]</sup>：十边～<sup>\[泰兴\]</sup>  
 1. 【[款式](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_sheh.md#款式)】`kun3 sheh7` <sup>[东台]</sup> 规格、样式：这套服装，～不坏，蛮时髦的。  
 1. 【[款待](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_tae.md#款待)】`kun3 tae6` <sup>[东台]</sup> 亲切优厚地招待（东台方音kun3 dae5）：这次受到你俫热情～，非常感谢。  
 1. 【[款子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_zz.md#款子)】`kun3 zz` <sup>[如东]</sup> 资金。  

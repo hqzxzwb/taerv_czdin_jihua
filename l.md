@@ -2169,7 +2169,7 @@
 1. 【[弄水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_shuei.md#弄水)】`lon6 shuei3` <small>/lɔŋ1 suəɪ3/<sup>泰兴</sup></small> 游泳。<sup>\[泰兴\]</sup>：他不会～<sup>\[泰兴\]</sup>  
 1. 【[弄松](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_son.md#弄松)】`lon6 son` <small>/lɔŋ1 sɔŋ/<sup>泰兴</sup></small> 捉弄，玩弄。<sup>\[如东\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：她就喜欢～人。<sup>\[如东\]</sup>｜不作兴～人。<sup>\[泰州\]</sup>｜不问几时不作兴～人。<sup>\[泰兴\]</sup>  
 1. 【[弄他不凶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_ta_beh_xion.md#弄他不凶)】`lon6 ta1 beh7 xion1` <sup>[如东]</sup> 比他不过：王相如厉害，我～。  
-1. 【[弄堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_tan.md#弄堂)】`lon6 tan2` <sup>[如东]</sup> 巷。  
+1. 【[弄堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_tan.md#弄堂)】`lon6 tan` <sup>[如东]</sup> 巷。  
 1. 【[弄相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_xian.md#弄相)】`lon6 xian5` <sup>[如东]</sup> 做法：这种活技怎吖～？  
 1. 【[弄虚作假](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_xy_zah_jia.md#弄虚作假)】`lon6 xy1 zah7 jia3` <sup>[如东]</sup> 耍花招欺骗人：不要～。  
 1. 【[砻坊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_fan.md#砻坊)】`lon6 fan1` <sup>[兴化]</sup> 用砻子加工稻米的作坊。主要设备有砻子、碓、风箱、大筛等。碾米机出现后又称“小砻子”。  
@@ -2374,11 +2374,12 @@
 1. 【[芦䉬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_fei.md#芦䉬)】`lv2 fei5` <small>/lu2 fəi5/<sup>兴化</sup>, /lu2 fei5/<sup>如皋</sup></small> ① 芦席，用芦苇篾或高粱秆篾编织而成，方形或长方形，用来铺垫或苫盖物资。<sup>\[如东\]</sup> ② 芦席。用芦柴篾编成。<sup>\[如皋\]</sup> ③ 用芦篾编成的席子。䉬，《广韵·废韵》方肺切<sup>\[兴化\]</sup>：芦䉬。<sup>\[兴化\]</sup> ④ 用芦苇编成的方形席子。<sup>\[泰州\]</sup>  
 1. 【[芦根](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_gen.md#芦根)】`lv2 gen1` <sup>[如东]</sup> 禾本科植物芦苇根茎。  
 1. 【[芦花鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_hua_ji.md#芦花鸡)】`lv2 hua ji1` <sup>[兴化]</sup> 毛色以深黄为基调，间有白、黑色的鸡。  
+1. 【[芦花鸡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_hua_ji_zz.md#芦花鸡子)】`lv2 hua ji1 zz` <small>/lu2 xuɑ t͡ɕʝ1 t͡sɿ/<sup>泰兴</sup></small> 一种良种鸡，毛色若芦花，故名。<sup>\[泰兴\]</sup>  
 1. 【[芦花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_hua.md#芦花)】`lv2 hua1` <sup>[如东]</sup> 禾本科植物芦苇花。  
 1. 【[芦花暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_hua_bo.md#芦花暴)】`lv2 hua1 bo5` <sup>[兴化]</sup> 中秋前后，因受寒流影响，出现大风、降温天气。因其时正当芦花发白，故有此称。  
 1. 【[芦花汛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_hua_xien.md#芦花汛)】`lv2 hua1 xien5` <sup>[兴化]</sup> 秋汛。  
 1. 【[芦荟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_huei.md#芦荟)】`lv2 huei6` <sup>[如东]</sup> 百合科植物芦荟。  
-1. 【[芦穄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_ji.md#芦穄)】`lv2 ji1` <small>/lu2 t͡ɕʝ1/<sup>如皋</sup></small> ① 禾本科植物芦稷。学名糖高粱，又称甜芦粟、芦黍、芦稷，甜秫秸、甜秆、甜高粱和高粱甘蔗，是高粱的别种。<sup>\[如东\]</sup> ② 一种高粱，圆椎花序稷型。脱粒的穗秸供做帚用。<sup>\[如皋\]</sup> ③ 高粱的一种，籽粒紫黑色，可直接食用或酿酒、制糖，其秸秆可做扫帚。<sup>\[东台\]</sup>  
+1. 【[芦穄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_ji.md#芦穄)】`lv2 ji1` <small>/lu2 t͡ɕʝ1/<sup>如皋</sup>, /lu2 t͡ɕʝ1/<sup>泰兴</sup></small> ① 禾本科植物芦稷。学名糖高粱，又称甜芦粟、芦黍、芦稷，甜秫秸、甜秆、甜高粱和高粱甘蔗，是高粱的别种。<sup>\[如东\]</sup> ② 一种高粱，圆椎花序稷型。脱粒的穗秸供做帚用。<sup>\[如皋\]</sup> ③ 高粱的一种，籽粒紫黑色，可直接食用或酿酒、制糖，其秸秆可做扫帚。<sup>\[东台\]</sup> ④ 形似高粱，果粒深紫色，黏性，产量低。今少见。<sup>\[泰兴\]</sup>  
 1. 【[芦穄酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_ji_jieu.md#芦穄酒)】`lv2 ji1 jieu3` <sup>[如皋]</sup> 用芦襟酿的酒。  
 1. 【[芦穄苗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_ji_mio_zz.md#芦穄苗子)】`lv2 ji1 mio2 zz` <sup>[如皋]</sup> 芦穄的一种穗状花絮，从茎的顶节割下谓之。可扎条帚。  
 1. 【[芦芦网<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_lv_van_r.md#芦芦网<sub>儿</sub>)】`lv2 lv2 van3 r` <sup>[如皋]</sup> 蛛网。  

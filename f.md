@@ -628,8 +628,10 @@
 1. 【[坟园帽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_iun_mo_zz.md#坟园帽子)】`fen2 iun2 mo6 zz` <sup>[如皋]</sup> 给坟顶加放的圆台式土块且压币（纸钱，古名帛），每逢上坟祭扫，必行此仪，单人墓用单，双人墓用双。  
 1. 【[坟园帽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_iun_mo_zz.md#坟园帽子)】`fen2 iun2-3 mo6 zz` <sup>[东台]</sup> 坟头上一正一反放着的两块圆台锥形土块。  
 1. 【[坟园桌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_iun_zhuah_zz.md#坟园桌子)】`fen2 iun2 zhuah7 zz` <sup>[如皋]</sup> 坟前石台或土台，放供品用。  
+1. 【[坟帽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_mo_zz.md#坟帽子)】`fen2 mo6 zz` <small>/fəŋ2 mɔ1 t͡sɿ/<sup>泰兴</sup></small> 墓顶圆形土块。民俗，一般新坟或清明上坟均必立坟帽。墓中葬一人立一块，夫妇合葬则立双帽。<sup>\[泰兴\]</sup>  
 1. 【[坟上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_shan.md#坟上)】`fen2 shan` <sup>[如皋]</sup> ① 坟地。 ② 住在附近，受聘照料坟地的农家。  
 1. 【[坟滩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_taen.md#坟滩)】`fen2 taen1-3` <sup>[泰州]</sup> 坟墓，墓穴上的圆锥体土台。  
+1. 【[坟滩脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_taen_jiah.md#坟滩脚)】`fen2 taen1 jiah7` <small>/fəŋ2 tʰɛ̃1 t͡ɕiɑʔ7/<sup>泰兴</sup></small> 坟墓周围。<sup>\[泰兴\]</sup>  
 1. 【[坟头上打拳——吓鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_teu_shan_da.md#坟头上打拳——吓鬼)】`fen2 teu2 shan da3 qiun2 heh7 guei3` <sup>[东台]</sup>   
 1. 【[粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen.md#粉)】`fen3` <small>/fən3/<sup>兴化</sup>, /fəŋ3/<sup>如皋</sup>, /fəŋ3/<sup>泰县</sup></small> ① 粉丝 ② 疏松<sup>\[如皋\]</sup>：这种砖头太差，手一拈就变～。<sup>\[如皋\]</sup> ③ （此处为形容词）含淀粉较高<sup>\[东台\]</sup>：你的这个番瓜哿～？<sup>\[东台\]</sup> ④ 山芋、南瓜等因纤维少而柔软<sup>\[兴化\]</sup>：小白藤的山芋最～。<sup>\[兴化\]</sup>｜拉瓜（长筒形）比斜瓜～。<sup>\[兴化\]</sup> ⑤ 形容淀粉多<sup>\[泰县\]</sup>：这山芋～。<sup>\[泰县\]</sup> ⑥ 食物因淀粉含量高，吃在嘴中的绵软而略带噎人的感觉<sup>\[泰州\]</sup>：这个山芋～得加思唻。<sup>\[泰州\]</sup>｜这个番瓜吃咖嘴里一点ㄦ也不～。<sup>\[泰州\]</sup>  
 1. 【[粉巴<sub>儿</sub>汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_ba_r_tan.md#粉巴<sub>儿</sub>汤)】`fen3 ba1 r tan1` <sup>[泰县]</sup> 淀粉制成的汤。  

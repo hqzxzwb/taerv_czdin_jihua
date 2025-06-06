@@ -1498,13 +1498,15 @@
 1. 【[㩓掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_tio.md#㩓掉)】`huae3 tio` <sup>[东台]</sup> 甩掉：把手上的泥～！  
 1. 【[坏兆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_cho.md#坏兆)】`huae6 cho6` <sup>[兴化]</sup> 不好的兆头：“……二柱是黄鼠狼养在鸡窝里，～！”（马春阳《两个小社员》）  
 1. 【[坏讼子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_con_zz.md#坏讼子)】`huae6 con5 zz` <sup>[如皋]</sup> 出坏主意的人。讼，邪母字，同从母。  
-1. 【[坏讼师](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_con_shr.md#坏讼师)】`huae6 con6 shr1` <small>/xuɛ1 t͡sʰɔŋ1 sɿ1/<sup>泰兴</sup></small> 躲在背后出歪点子的人<sup>\[泰兴\]</sup>  
+1. 【[坏讼师](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_con_shr.md#坏讼师)】`huae6 con6 shr1` <small>/xuɛ1 t͡sʰɔŋ1 sɿ1/<sup>泰兴</sup></small> 专门出坏点子暗算别人的人。<sup>\[泰兴\]</sup>  
 1. 【[坏瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_gua.md#坏瓜)】`huae6 gua1` <sup>[兴化]</sup> （借）专出坏主意，专门对人施暗算的人：～主意。  
+1. 【[坏瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_gua.md#坏瓜)】`huae6 gua1` <small>/xuɛ1 kuɑ1/<sup>泰兴</sup></small> 谓事情出了问题，暴露了目标。<sup>\[泰兴\]</sup>：箇桩事～啊，恐怕弄不成。<sup>\[泰兴\]</sup>  
 1. 【[坏瓜秀才](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_gua_xieu_cae.md#坏瓜秀才)】`huae6 gua1 xieu5 cae` <sup>[兴化]</sup> 旧谓品格低下的文人：他是有名的～，专门把持官府，写黑信，告习状。  
 1. 【[坏规矩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_guei_jy.md#坏规矩)】`huae6 guei1 jy` <sup>[如皋]</sup> 破坏原有的规矩：我在你家就听你的，不～。  
 1. 【[坏鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_guei.md#坏鬼)】`huae6 guei3` <sup>[泰州]</sup> 极其狡诈之徒：这件事肯定有～在后头同他出主意。  
 1. 【[坏讲究](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_jian_jieu.md#坏讲究)】`huae6 jian3 jieu` <small>/xuɛ6 t͡ɕiaŋ3 t͡ɕiɤ/<sup>兴化</sup>, /xue1 t͡ɕiɑŋ3 t͡ɕiɤɯ/<sup>泰县</sup></small> ① 指目前很难治愈的疾病<sup>\[兴化\]</sup>：他得的～，连上海的大医院都回下来啊。<sup>\[兴化\]</sup> ② 疟疾：他有～。<sup>\[泰县\]</sup>  
 1. 【[坏嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_jy.md#坏嘴)】`huae6 jy3` <sup>[泰州]</sup> 指常以言语伤人：他就是张～不好，人其实不坏。  
+1. 【[坏壳壳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_kah_kah_r.md#坏壳壳<sub>儿</sub>)】`huae6 kah7 kah7 r` <small>/xuɛ1 kʰɑʔ7 kʰɑ˞7/<sup>泰兴</sup></small> 谓使用的工具、物品等破损，不可再用。<sup>\[泰兴\]</sup>  
 1. 【[坏名](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_mien.md#坏名)】`huae6 mien2` <small>/xuɛ1 miəŋ2/<sup>如皋</sup></small> ① 绰号。<sup>\[如皋\]</sup> ② 坏的名声。<sup>\[如皋\]</sup> ③ 别人给起的诨名、绰号（多含贬义）。<sup>\[东台\]</sup>  
 1. 【[坏毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_mo.md#坏毛)】`huae6 mo2` <sup>[如东]</sup> ① 出坏主意的人。 ② 不好的家伙：她是一个大～。  
 1. 【[坏毛病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_mo_pien.md#坏毛病)】`huae6 mo2 pien6` <small>/xue1 mɔ2 pʰiŋ1/<sup>泰县</sup></small> ① 不好的习惯。<sup>\[如东\]</sup>：他有随地吐痰的～，一定要改掉。<sup>\[如东\]</sup> ② 疟疾。<sup>\[泰县\]</sup>  

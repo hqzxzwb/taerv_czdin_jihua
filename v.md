@@ -904,7 +904,7 @@
 1. 【[桅门舱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_men_can.md#桅门舱)】`vei2 men2 can1` <sup>[如东]</sup> 帆船的第5舱，是安置大樯的舱室。  
 1. 【[维奇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_qi.md#维奇)】`vei2 qi2` <sup>[东台]</sup> 当作稀奇珍贵的东西维护。与“宝贝”“疼爱”近义：这老头子～孙子。  
 1. 【[违拗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_ngo.md#违拗)】`vei2 ngo5` <sup>[东台]</sup> 违背或不执行别人的意见：他有权威，说的话其他人不敢～。  
-1. 【[违拗/违詏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_ngo.md#违拗/违詏)】`vei2 ngo5` 违背，多指有意不依从长辈、上司的意见<sup>\[泰州\]</sup>：你家老的说的话，你不能有半点儿～。<sup>\[泰州\]</sup>  
+1. 【[违拗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_ngo.md#违拗)】`vei2 ngo5` <small>/ʋəɪ2 ŋɔ5/<sup>泰兴</sup></small> ① 违背，多指有意不依从长辈、上司的意见<sup>\[泰州\]</sup>：你家老的说的话，你不能有半点儿～。<sup>\[泰州\]</sup> ② 不依从；违背。<sup>\[泰兴\]</sup>  
 1. 【[委来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_lae.md#委来)】`vei3 lae2` <sup>[如东]</sup> 本来：～就是这吖的。  
 1. 【[委屈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_qyeh.md#委屈)】`vei3 qyeh7` <sup>[如东]</sup> 受到不应有的待遇而心里难过：不要～她。  
 1. 【[尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei.md#尾)】`vei3` <small>/uəi3/<sup>兴化</sup>, /ʋei3/<sup>如皋</sup></small> ① 暗中尾随：我～啊他后头，看吖他一路儿小跑上吖公园。<sup>\[如皋\]</sup> ② 跟、随<sup>\[兴化\]</sup>：“……我的意思暂时不用声张，只须追上前去，～着大船而行……”（《四杰传》四）<sup>\[兴化\]</sup> ③ 跟在人、车、船后面行走<sup>\[泰州\]</sup>：你悄悄～啊他后头走，单看他到哪块去。<sup>\[泰州\]</sup>｜他的车子在前头带路，你俫的车子就～住他的车子开。<sup>\[泰州\]</sup>  

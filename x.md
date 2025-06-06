@@ -904,6 +904,7 @@
 1. 【[腥气勃剌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_qi_peh_laeh.md#腥气勃剌)】`xien1 qi5 peh8 laeh` <sup>[东台]</sup> 腥臭味很浓：在菜场治啊半天鱼，身上～的。  
 1. 【[腥气味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_qi_vei.md#腥气味)】`xien1 qi5 vei6` <sup>[泰州]</sup> ① 动物的肉、血发出的难闻气味：才吃过螃蟹，手上全是～。 ② 物品燃烧发出的难闻气味：家里哪块来的～，哪个在家里烧纸的啊？  
 1. 【[腥<sub>儿</sub>瞎气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_r_haeh_qi.md#腥<sub>儿</sub>瞎气)】`xien1 r haeh7 qi5` <sup>[兴化]</sup> ① 腥气。 ② 形容少得可怜：父母双贺六十岁，当老总的儿子～的拿出一百块，亏他大出手。  
+1. 【[芯大的蜡烛不经点](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_da_dii_laeh.md#芯大的蜡烛不经点)】`xien1 da6 dii laeh8 zhoh beh7 jien1 din3` <small>/ɕiŋ1 tɑ1 təɪ læʔ8 t͡sɔʔ pəʔ7 t͡ɕiŋ1 tĩ3/<sup>泰兴</sup></small> 喻人贪心大了，往往连本钱都捞不回来，或谓当道的时间不会太长。<sup>\[泰兴\]</sup>  
 1. 【[芯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_zz.md#芯子)】`xien1 zz` <sup>[如皋]</sup> 馅儿、包馅。  
 1. 【[蛵蛉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_lien_r.md#蛵蛉<sub>儿</sub>)】`xien1 lien r` <sup>[如皋]</sup> 蜻蜓。  
 1. 【[蛵蛉<sub>儿</sub>吃尾巴——自吃自](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_lien_r_qieh.md#蛵蛉<sub>儿</sub>吃尾巴——自吃自)】`xien1 lien r qieh7 vei3 ba cz6 qieh7 cz6` <sup>[如皋]</sup>   

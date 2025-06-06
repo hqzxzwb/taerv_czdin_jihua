@@ -245,7 +245,7 @@
 1. 【[瘫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_zz.md#瘫子)】`taen1 zz` <sup>[如东]</sup> 双脚瘫痪的人。  
 1. 【[瘫子带亲——坐啊家里等](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_zz_dae_qien.md#瘫子带亲——坐啊家里等)】`taen1 zz dae5 qien1 cu6 a ga1 lii den3` <sup>[东台]</sup>   
 1. 【[瘫子𠫓咖井里——捞起来也是坐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_zz_teh_ga.md#瘫子𠫓咖井里——捞起来也是坐)】`taen1 zz teh7 ga jien3 lii lo2 qi3 lae2 ia3 shr6 cu6` <sup>[东台]</sup>   
-1. 【[坛场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_chan.md#坛场)】`taen2 chan2` <small>/tʰɛ̃2 t͡sʰaŋ2/<sup>兴化</sup></small> ① 旧时道士打醮设的神坛。借指因事占用的地方和摆设的东西：砌房子～大唻！｜在家里办菜请客要好大的～哎！<sup>\[兴化\]</sup> ② 举办重大家庭活动所用的地方<sup>\[泰州\]</sup>：他俫吃过啊都走啊，我俫老两口儿收拾～。<sup>\[泰州\]</sup>  
+1. 【[坛场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_chan.md#坛场)】`taen2 chan2` <small>/tʰɛ̃2 t͡sʰaŋ2/<sup>兴化</sup>, /tʰɛ̃2 t͡sʰɑŋ2/<sup>泰兴</sup></small> ① 旧时道士打醮设的神坛。借指因事占用的地方和摆设的东西<sup>\[兴化\]</sup>：砌房子～大唻！<sup>\[兴化\]</sup>｜在家里办菜请客要好大的～哎！<sup>\[兴化\]</sup> ② 举办重大家庭活动所用的地方<sup>\[泰州\]</sup>：他俫吃过啊都走啊，我俫老两口儿收拾～。<sup>\[泰州\]</sup> ③ 场地，办事的场面。<sup>\[泰兴\]</sup>：今朝他家娶亲，摆的～大唻。<sup>\[泰兴\]</sup>  
 1. 【[弹球](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_qieu.md#弹球)】`taen2 qieu2` <sup>[如皋]</sup> ① 一种供游戏用的玻璃球。 ② 游戏名，用玻璃球在地面上弹击，击中为赢。  
 1. 【[弹线](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_xin.md#弹线)】`taen2 xin5` <small>/tʰɛ̃2 ɕiɪ̃5/<sup>兴化</sup>, /tʰẽ2 ɕĩ5/<sup>如皋</sup></small> ① 木匠用木斗弹线迹。<sup>\[如皋\]</sup> ② 裁缝用粉线袋弹线迹。<sup>\[如皋\]</sup> ③ 用墨线或粉线在木料或布料上打线条。<sup>\[如东\]</sup> ④ 将墨线或粉线拉直绷紧，拈起一弹，在平面上留下直线。<sup>\[兴化\]</sup>  
 1. 【[痰火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_hu.md#痰火)】`taen2 hu3` <sup>[兴化]</sup> 肺气肿、支气管哮喘之类的疾病：那位老人是有～的，一交跌去，半天喘不过气来。  
@@ -644,7 +644,7 @@
 1. 【[偷姑老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_gv_lo.md#偷姑老)】`teu1 gv1 lo3` <sup>[泰县]</sup> 私通淫夫。  
 1. 【[偷汉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_hun.md#偷汉)】`teu1 hun5` <sup>[兴化]</sup> 见“偷人”。  
 1. 【[偷鸡摸狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_ji_mah_geu.md#偷鸡摸狗)】`teu1 ji1 mah8 geu3` <sup>[东台]</sup> 指小偷小摸。  
-1. 【[偷鸡眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_ji_ngaen.md#偷鸡眼)】`teu1 ji1 ngaen3` <small>/tʰɤɯ1 t͡sɿ1 ɛ̃3/<sup>泰县</sup></small> 麦粒肿。<sup>\[泰县\]</sup>\[东台：也叫偷针眼\]  
+1. 【[偷鸡眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_ji_ngaen.md#偷鸡眼)】`teu1 ji1 ngaen3` <small>/tʰəɪ1 t͡ɕʝ1 ŋɛ̃3/<sup>泰兴</sup>, /tʰɤɯ1 t͡sɿ1 ɛ̃3/<sup>泰县</sup></small> 麦粒肿。<sup>\[泰县\]</sup>\[东台：也叫“偷针眼”\]\[泰兴：也称“偷针眼”\]  
 1. 【[偷嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_jy.md#偷嘴)】`teu1 jy3` <sup>[东台]</sup> ［喻］指少男少女偷偷发生性行为，也就是“偷尝禁果”。  
 1. 【[偷嘴猫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_jy_mo_r.md#偷嘴猫<sub>儿</sub>)】`teu1 jy3 mo2 r` <sup>[如东]</sup> 猫乘主人不在的时候，偷偷地吃东西，称偷嘴猫儿。比喻偷偷地跟非婚男人发生性关系。  
 1. 【[偷空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_kon.md#偷空)】`teu1 kon5` <small>/tʰei1 kʰɔŋ5/<sup>如皋</sup></small> 抽出一点时间来。<sup>\[如东\]</sup><sup>\[如皋\]</sup>  
@@ -820,6 +820,7 @@
 1. 【[透酥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_sv.md#透酥)】`teu5 sv1` <small>/tʰɤ5 su1/<sup>兴化</sup></small> ① 形容非常酥松可口。<sup>\[东台\]</sup> ② 形容食物非常酥脆<sup>\[兴化\]</sup>：水瓜～的。<sup>\[兴化\]</sup>  
 1. 【[透鲜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_xin.md#透鲜)】`teu5 xin1` <small>/tʰɤ5 ɕiɪ̃1/<sup>兴化</sup></small> ① 形容味道非常鲜美。<sup>\[东台\]</sup> ② 形容食物非常鲜美<sup>\[兴化\]</sup>：那菱角，剥出米子来，～。（刘仁前《楚水风物·菱》）<sup>\[兴化\]</sup> ③ 味道极其鲜美<sup>\[泰州\]</sup>：才烧好的乌鱼汤～的。<sup>\[泰州\]</sup>  
 1. 【[豆瓣酱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_baen_jian.md#豆瓣酱)】`teu6 baen5 jian5` <sup>[兴化]</sup> 用黄豆或蚕豆和面粉发酵生黄以后制成的酱。  
+1. 【[豆瓣酱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_baen_jian.md#豆瓣酱)】`teu6 baen5 jian5` <small>/tʰəɪ1 pɛ̃5 t͡ɕiɑŋ5/<sup>泰兴</sup></small> 以黄豆为原料作成的酱。豆酱，多指黄豆酱。<sup>\[泰兴\]</sup>  
 1. 【[豆饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_bien.md#豆饼)】`teu6 bien3` <sup>[如东]</sup> 豆科植物大豆种子榨油后的渣滓。  
 1. 【[豆腐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_fv.md#豆腐)】`teu6 fv` <sup>[如东]</sup> 豆科植物大豆的种子碾磨成浆，煮熟后，加入石膏或盐卤，使之凝结，装入特制的豆箱，压掉水分而成方块状，表面淡黄色，内面淡白色。据说是西汉淮南王刘安发明。  
 1. 【[豆腐大一片，多跑三个店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_fv_da_ieh.md#豆腐大一片，多跑三个店)】`teu6 fv da6 ieh7 pin5 du1 po2 saen1 gu din5` <sup>[东台]</sup> 顾客的心理喜欢比较，为实惠宁可多走路。  
@@ -829,16 +830,18 @@
 1. 【[豆腐干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_fv_gun.md#豆腐干)】`teu6 fv gun1` <sup>[如东]</sup> 食品，豆腐用布包起来加压成块，加香料，人锅煎制而成。  
 1. 【[豆腐泔水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_fv_gun_shuei.md#豆腐泔水)】`teu6 fv gun1 shuei3` <sup>[如东]</sup> 压豆腐时沥下的乳白色水液。  
 1. 【[豆腐浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_fv_jian.md#豆腐浆)】`teu6 fv jian1` <sup>[如东]</sup> 大豆磨成浆汁。  
+1. 【[豆腐浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_fv_jian.md#豆腐浆)】`teu6 fv jian1` <small>/tʰəɪ1 fʋ t͡ɕiɑŋ1/<sup>泰兴</sup></small> 豆浆。<sup>\[泰兴\]</sup>  
 1. 【[豆腐酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_fv_jieu.md#豆腐酒)】`teu6 fv jieu3` <sup>[兴化]</sup> ① 素酒。 ② 指不太丰盛的酒宴。民谚谓贫家结亲：有就～，没得就手搀手。  
 1. 【[豆腐笿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_fv_lah_r.md#豆腐笿<sub>儿</sub>)】`teu6 fv lah8 r` <sup>[如皋]</sup> ① 旧时卖豆腐专用的胡椒眼儿元宝式篮子。 ② 喻任人调遣，毫无自主权：我是个～随你拎。  
 1. 【[豆腐乳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_fv_lv.md#豆腐乳)】`teu6 fv lv3` ① 副食品，用小块的豆腐做坯，经过发藕、腌制而成。也叫酱豆腐。<sup>\[如东\]</sup> ② 腐乳，豆腐切成小块做坯，经过发酵、以盐腌制而成。<sup>\[泰州\]</sup>  
 1. 【[豆腐脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_fv_no.md#豆腐脑)】`teu6 fv no3` ① 豆浆煮熟后经点卤凝结而成的一种传统小吃。<sup>\[东台\]</sup> ② 一种食品，豆浆煮滚，加入石膏或者盐卤而凝结成的半固体食物，吃的时候配上辣油、虾米、榨菜等佐料。<sup>\[泰州\]</sup>  
 1. 【[豆腐脑<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_fv_no_r.md#豆腐脑<sub>儿</sub>)】`teu6 fv no3 r` <sup>[如东]</sup> 豆浆煮开后加入石膏而凝结成的半固体。  
 1. 【[豆腐皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_fv_pi.md#豆腐皮)】`teu6 fv pi2` <sup>[如东]</sup> 豆腐浆煮沸后，浆面所凝结之薄膜。  
+1. 【[豆腐烧肉，各人碰局](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_fv_sho_roh.md#豆腐烧肉，各人碰局)】`teu6 fv sho1 roh8 gah7 ren2 bon5 qioh8` <small>/tʰəɪ1 fʋ sɔ1 ɻɔʔ8 kɑʔ7 ɻəŋ2 pɔŋ5 t͡ɕʰiɔʔ8/<sup>泰兴</sup></small> 谓碰运气，碰巧。<sup>\[泰兴\]</sup>  
 1. 【[豆腐辋子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_fv_van_zz.md#豆腐辋子)】`teu6 fv van3 zz` <sup>[如东]</sup> 豆腐店标志。做一只圆圈，下挂三绺稻草，系在竹竿上，高高挂起来，远近住户都能看见。  
 1. 【[豆腐渣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_fv_zha.md#豆腐渣)】`teu6 fv zha1` <sup>[如东]</sup> 制作豆腐时滤去浆汁后剩下的渣滓。  
 1. 【[豆腐渣贴对子——黏不上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_fv_zha_tih.md#豆腐渣贴对子——黏不上)】`teu6 fv zha1 tih7 dy5 zz nin2 beh7 shan6` <sup>[东台]</sup>   
-1. 【[豆稭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_gae.md#豆稭)】`teu6 gae1` <small>/tʰei1 kɛ1/<sup>如皋</sup></small> ① 豆秸。<sup>\[如皋\]</sup> ② 豆类作物的干燥茎秆。<sup>\[泰州\]</sup>  
+1. 【[豆稭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_gae.md#豆稭)】`teu6 gae1` <small>/tʰei1 kɛ1/<sup>如皋</sup>, /tʰəɪ1 kɛ1/<sup>泰兴</sup></small> 豆秸。<sup>\[如皋\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>  
 1. 【[豆荚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_gaeh.md#豆荚)】`teu6 gaeh7` <sup>[如东]</sup> 豆类的果实。  
 1. 【[豆角<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_gah_r.md#豆角<sub>儿</sub>)】`teu6 gah7 r` <sup>[如皋]</sup> 一种油煠茶食，形似黄豆荚，中空。  
 1. 【[豆角子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_gah_zz.md#豆角子)】`teu6 gah7 zz` <sup>[兴化]</sup> 豆类的果实，即豆荚：豌～；蚕～；黄～；刀～。  
@@ -846,6 +849,7 @@
 1. 【[豆油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_ieu.md#豆油)】`teu6 ieu2` <sup>[如东]</sup> 豆科植物大豆种子榨取的脂肪。  
 1. 【[豆油灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_ieu_den.md#豆油灯)】`teu6 ieu2 den1` <sup>[如皋]</sup> 见“香油灯”。  
 1. 【[豆酱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_jian.md#豆酱)】`teu6 jian5` <small>/tʰei1 t͡ɕiã5/<sup>如皋</sup></small> ① 豆子酿的酱。<sup>\[如皋\]</sup> ② 黄豆或蚕豆蒸熟后拌和面粉发酶，（也称上黄子），再加盐、水，日晒成熟，深黄色或赫黄色，味香。可作蔬菜或调料。也称豆瓣酱。<sup>\[如东\]</sup>  
+1. 【[豆面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_min.md#豆面)】`teu6 min6` <small>/tʰəɪ1 mĩ1/<sup>泰兴</sup></small> 以黄豆、小麦混合磨成的面粉。以此擀成的面条也称豆面。<sup>\[泰兴\]</sup>  
 1. 【[豆芽菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_nga_cae.md#豆芽菜)】`teu6 nga2 cae5` <sup>[兴化]</sup> ① 用黄豆、绿豆浸水发芽而成的蔬菜，长二三寸。 ② （喻）形容人身体瘦弱：他瘦得像个～。  
 1. 【[豆芽<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_nga_r.md#豆芽<sub>儿</sub>)】`teu6 nga2 r` <sup>[如东]</sup> 豆类浸泡发芽而成，营养丰富。主要有黄豆芽儿和绿豆芽儿两种，是普通蔬菜。  
 1. 【[豆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_r.md#豆<sub>儿</sub>)】`teu6 r` <small>/tʰɤ6 ɚ/<sup>兴化</sup>, /tʰei˞1/<sup>如皋</sup></small> ① 小不点儿：细𪨊～。<sup>\[如皋\]</sup> ② 骂小孩的话。也说“豆儿板”。<sup>\[兴化\]</sup>  
@@ -2051,7 +2055,9 @@
 1. 【[坛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_zz.md#坛子)】`tun2 zz` ① 容器。陶制，圆桶形，口小，底小，肚子较大。有各种规格。用于盛物。<sup>\[如东\]</sup> ② 一种肚大口小的陶器。<sup>\[东台\]</sup>  
 1. 【[坛子𬙙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_zz_fan.md#坛子𬙙)】`tun2 zz fan1` <sup>[如东]</sup> 一种捕鱼网具。圆锥形，宽36米，长36米。作业时，网放入海水中用纲缆固定在绳扣上（叫做生根），用坛子作浮体将网口拉开，故叫坛子。  
 1. 【[坛子口封得住，人口封不住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_zz_keu_fon.md#坛子口封得住，人口封不住)】`tun2 zz keu3 fon1 deh7 chv6 ren2 keu3 fon1 beh7 chv6` <sup>[东台]</sup> 主要说人的言语不能堵塞。  
+1. 【[坛子口好灭，人口难灭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_zz_keu_ho.md#坛子口好灭，人口难灭)】`tun2 zz keu3 ho3 mih8 ren2 keu3 naen2 mih8` <small>/tʰʊ̃2 t͡sɿ kʰəɪ3 xɔ3 miʔ8 ɻəŋ2 kʰəɪ3 nɛ̃2 miʔ8/<sup>泰兴</sup></small> 谓要想封住别人的嘴不讲是极为困难的事。<sup>\[泰兴\]</sup>  
 1. 【[坛子里头失火——闷烧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_zz_li_teu.md#坛子里头失火——闷烧)】`tun2 zz li teu2 sheh7 hu3 men6 sho1` <sup>[东台]</sup>   
+1. 【[坛子里失火，闷烧（骚）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_zz_lii_sheh.md#坛子里失火，闷烧（骚）)】`tun2 zz lii sheh7 hu3 men6 sho1` <small>/tʰʊ̃2 t͡sɿ ləɪ səʔ7 xɤɯ3 məŋ1 sɔ1/<sup>泰兴</sup></small> 歇后语。多谓成年女人内心有性要求而不表现出来。<sup>\[泰兴\]</sup>  
 1. 【[抟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun.md#抟)】`tun2` <small>/tʰʊ̃2/<sup>如皋</sup>, /tʰʊ̃2/<sup>泰兴</sup>, /tʰõ2/<sup>泰县</sup></small> ① （以捏、揉等方法）使（物）成团状<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：～纸团儿、～饭团儿、他把衣裳一～望包里一塞就了啊事！<sup>\[如皋\]</sup>｜～圆子。<sup>\[如东\]</sup>｜～个纸团儿。<sup>\[泰县\]</sup>｜把纸一～撂啊字纸篓里去啊。<sup>\[泰州\]</sup> ② 草拟<sup>\[泰县\]</sup>：～个材料<sup>\[泰县\]</sup>  
 1. 【[昙花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_hua.md#昙花)】`tun2 hua1` <sup>[如东]</sup> 仙人掌科植物昙花，直立灌木，长约1米。主枝圆柱形，分枝扁平，绿色，叶状，边缘波状，中肋坚硬，无叶片。花大型，晚间开放开放期短，仅数小时；花被白色，干时黄色。果实长圆形红色，有汁。种子多数，黑色。庭园栽培。  
 1. 【[潭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun.md#潭)】`tun2` <small>/tʰʊ̃2/<sup>如皋</sup></small> ① 口径小而深的水域<sup>\[如皋\]</sup>：大河底下捱流水漩吖个深～，人𠫓下去交关危险！<sup>\[如皋\]</sup> ② 地名通名<sup>\[如皋\]</sup>：薛家～儿（在如城东北城脚一带）。<sup>\[如皋\]</sup> ③ 自然形成或人工挖掘的水塘，称潭。<sup>\[如东\]</sup>  
