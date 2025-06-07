@@ -937,7 +937,7 @@
 1. 【[䇽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_zz.md#䇽子)】`zhih7 zz` <small>/t͡siɪʔ7 t͡sɿ/<sup>兴化</sup>, /t͡siʔ7 t͡sɿ/<sup>如皋</sup></small> 长条苇席\[如皋：一种囤粮用的长条形芦席，可盘成饼状。\]\[泰州：将芦柴压扁剥开成片状，编织成宽50公分左右的长条席\]\[如东：芦苇编成，一尺宽，三丈长左右。围圈起来，可以囤放粮食。也叫折圈儿。\]\[兴化：苇篾编成的长席，用来圈囤谷物\]：稻～<sup>\[兴化\]</sup>｜麦～。《广雅·释器》<sup>\[兴化\]</sup>｜～，席也。俗写“折子”。<sup>\[兴化\]</sup>｜今年子的稻丰收，家里的～都不够用唻。<sup>\[泰州\]</sup>  
 1. 【[慑惧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_qy.md#慑惧)】`zhih7 qy6` <sup>[如东]</sup> 警畏，害怕。  
 1. 【[折](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih.md#折)】`zhih7` <small>/t͡siɪʔ7/<sup>兴化</sup>, /t͡ɕiɪʔ7/<sup>泰县</sup></small> ① （迷信）人享用过度或有亏心事，冥冥之中会减去福分、寿数<sup>\[兴化\]</sup>：他寻这种黑心钱，早晚总有一～。<sup>\[兴化\]</sup> ② 折叠。<sup>\[泰县\]</sup>  
-1. 【[折福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_foh.md#折福)】`zhih7 foh7` ① 因过分享受或不合情理地铺张浪费而减少福分。<sup>\[东台\]</sup> ② 指责人不知足，生在福中不知福<sup>\[东台\]</sup>：那些端起碗来吃肉放下筷子骂娘的人真要～。<sup>\[东台\]</sup> ③ 因过分享受或者妄受尊崇而减损福分<sup>\[泰州\]</sup>：我俫是老百姓，吃这吖贵的东西，要～的。<sup>\[泰州\]</sup>  
+1. 【[折福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_foh.md#折福)】`zhih7 foh7` <small>/t͡ɕiʔ7 fɔʔ7/<sup>泰兴</sup></small> ① 因过分享受或不合情理地铺张浪费而减少福分。<sup>\[东台\]</sup> ② 指责人不知足，生在福中不知福<sup>\[东台\]</sup>：那些端起碗来吃肉放下筷子骂娘的人真要～。<sup>\[东台\]</sup> ③ 因过分享受或者妄受尊崇而减损福分<sup>\[泰州\]</sup>：我俫是老百姓，吃这吖贵的东西，要～的。<sup>\[泰州\]</sup> ④ 折损福分。<sup>\[泰兴\]</sup>：对茶饭不要嫌好识丑的，要～gae<sup>\[泰兴\]</sup>  
 1. 【[折咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_ga.md#折咖)】`zhih7 ga` <sup>[如皋]</sup> ① 折损福气：你叫伢儿是“少爷”哿～伢儿啊？ ② 自谦之辞：绕你老人家的，真正～！  
 1. 【[折阳寿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_ian_sheu.md#折阳寿)】`zhih7 ian2 sheu6` <sup>[如皋]</sup> 使寿命缩短。  
 1. 【[折印子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_ien_zz.md#折印子)】`zhih7 ien5 zz` <sup>[如皋]</sup> 折痕。  
@@ -947,10 +947,11 @@
 1. 【[折前板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_qin_baen.md#折前板)】`zhih7 qin2 baen3` <sup>[如东]</sup> 帆船盖口与穿口之间的一块木板。  
 1. 【[折人情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_ren_qien.md#折人情)】`zhih7 ren2 qien2` <sup>[如皋]</sup> 社交应酬中将礼品折成礼金送去。如红封上写：花仪、寿仪；白封上写｜代箔、代点。  
 1. 【[折杀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_shaeh.md#折杀)】`zhih7 shaeh7` <sup>[泰州]</sup> 因精神或物质享受过分而导致减损福寿：你让他自己来，你老人家同他添饭，～他唻。｜这吖好的东西你还嫌不好吃，你就不怕～咖的。  
+1. 【[折杀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_shaeh.md#折杀)】`zhih7 shaeh7` <small>/t͡ɕiʔ7 ɕiæʔ7/<sup>泰兴</sup></small> 客套语。表示承受不起。<sup>\[泰兴\]</sup>  
 1. 【[折煞咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_shaeh_ga.md#折煞咖)】`zhih7 shaeh7 ga` <small>/t͡siʔ7 seʔ7 ka/<sup>如皋</sup></small> ① 见“折咖”<sup>\[如皋\]</sup> ② （客套话）受当不起的意思<sup>\[东台\]</sup>：您老人家是我的长辈，还大老远赶来看我，真把我～！<sup>\[东台\]</sup>  
 1. 【[折寿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_sheu.md#折寿)】`zhih7 sheu6` ① 寿命缩短。<sup>\[如东\]</sup>：你做缺德事，要～的。<sup>\[如东\]</sup> ② 因过分享受或做坏事而减少寿命。多用于骂人或自责。<sup>\[东台\]</sup>  
 1. 【[折世](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_shr.md#折世)】`zhih7 shr5` <sup>[如皋]</sup> 指责浪费。  
-1. 【[折头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_teu.md#折头)】`zhih7 teu` <small>/t͡siɪʔ7 tʰɤ/<sup>兴化</sup></small> 折扣<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：处理商品打～卖<sup>\[东台\]</sup>｜他说的话要打～，不能全信。<sup>\[东台\]</sup>｜这批次货打个～卖把我。<sup>\[兴化\]</sup>｜他说话喜欢掺水，听他的话要打～。<sup>\[兴化\]</sup>｜这件衣裳你打个～，我就把它买下来。<sup>\[泰州\]</sup>  
+1. 【[折头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_teu.md#折头)】`zhih7 teu` <small>/t͡siɪʔ7 tʰɤ/<sup>兴化</sup>, /t͡ɕiʔ7 tʰəɪ/<sup>泰兴</sup></small> 折扣<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>\[泰兴：多与“打”连用\]：处理商品打～卖<sup>\[东台\]</sup>｜他说的话要打～，不能全信。<sup>\[东台\]</sup>｜这批次货打个～卖把我。<sup>\[兴化\]</sup>｜他说话喜欢掺水，听他的话要打～。<sup>\[兴化\]</sup>｜这件衣裳你打个～，我就把它买下来。<sup>\[泰州\]</sup>｜打～<sup>\[泰兴\]</sup>  
 1. 【[折周](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_zheu.md#折周)】`zhih7 zheu` <sup>[泰州]</sup> ① （泰州作𨐃𨰵，兴化泰县作结皱。另有“周折”同义，字序颠倒） ② 事情进程曲折不顺利：你家孙子上学的事怎吖就这吖～的？｜贷款的事做～啊，忙吖个把月都不曾好。  
 1. 【[折折笼笼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_zhih_lon_lon.md#折折笼笼)】`zhih7 zhih7 lon2 lon2` <sup>[东台]</sup> 受拘束，不洒脱的样子：到外面潇洒些，不要～的。也称“窄窄笼笼”。  
 1. 【[折纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_zhr.md#折纸)】`zhih7 zhr3` <sup>[如皋]</sup> ① 纸折成各种形状的技艺。 ② 儿童手工练习法之一。  
@@ -1039,10 +1040,12 @@
 1. 【[找明](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_mien.md#找明)】`zho3 mien2` <sup>[兴化]</sup> 回过头来把事情说清楚：这回书先～王中央众绅衿进署递呈，恳恩免解……（《岐路灯》五五）  
 1. 【[找牙行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_nga_han.md#找牙行)】`zho3 nga2 han2` <sup>[东台]</sup> 请私人职业介绍所介绍工作。  
 1. 【[找眼子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_ngaen_zz.md#找眼子)】`zho3 ngaen3 zz` ① 故意挑毛病，找茬。<sup>\[东台\]</sup> ② 指故意寻找他人的小毛病<sup>\[泰州\]</sup>：这家伙报复心强，你在他手下注意点儿，要提防他～。<sup>\[泰州\]</sup>  
-1. 【[找榷头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_qiah_teu.md#找榷头)】`zho3 qiah7 teu` <sup>[泰县]</sup> 找麻烦：你不要老是在我身上～。  
+1. 【[找皵头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_qiah_teu.md#找皵头)】`zho3 qiah7 teu` <sup>[泰县]</sup> 找麻烦：你不要老是在我身上～。  
+1. 【[找皵头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_qiah_teu.md#找皵头)】`zho3 qiah7 teu` <small>/t͡sɔ3 t͡ɕʰiɑʔ7 tʰəɪ/<sup>泰兴</sup></small> 找麻烦，找理由。多指鸡蛋里头找骨头，寻事生非。贬义。<sup>\[泰兴\]</sup>  
 1. 【[找寻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_qien.md#找寻)】`zho3 qien` <sup>[东台]</sup> 很气愤地对人指责：那家伙不诚信，我要～他。  
 1. 【[找寻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_qien.md#找寻)】`zho3 qien2` <sup>[兴化]</sup> ① 寻找：伢儿放学不归家，只得到处去～。 ② 有意找岔子：他无事就来～人。 ③ 也说“找抹人”。  
 1. 【[找袖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_qieu.md#找袖)】`zho3 qieu6` <small>/t͡sɔ3 t͡ɕʰiɤ6/<sup>兴化</sup>, /t͡sɔ3 t͡ɕʰyʊ1/<sup>如皋</sup></small> ① 裁衣时，袖管的加接部分。<sup>\[如皋\]</sup> ② 中装衣袖下半截拼接的部分。<sup>\[兴化\]</sup>：谚曰：嫡亲娘舅，赚副～（讽刺裁缝）。<sup>\[兴化\]</sup>  
+1. 【[找前不揞后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_qin_beh_un.md#找前不揞后)】`zho3 qin2 beh7 un3 heu6` <small>/t͡sɔ3 t͡ɕʰĩ2 pəʔ7 ʊ̃3 xəɪ1/<sup>泰兴</sup></small> 只顾前头，不考虑后面。谓考虑、办理事情缺乏周密的思考，顾此失彼。<sup>\[泰兴\]</sup>  
 1. 【[找钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_qin.md#找钱)】`zho3 qin2` ① 退还超过应付金额的钱<sup>\[如东\]</sup><sup>\[泰州\]</sup>：你还要～给我。<sup>\[如东\]</sup> ② 补足应支付的、尚未付足的货币<sup>\[泰州\]</sup>：木匠的工钱是5000，预支啊2000，前朝子又把啊3000，不要～唻。<sup>\[泰州\]</sup>  
 1. 【[找人做中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_ren_zu_zhon.md#找人做中)】`zho3 ren2 zu5 zhon1` <sup>[东台]</sup> 找人担保，中为中介。  
 1. 【[找事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_shr.md#找事)】`zho3 shr6` 寻找借口制造事端<sup>\[泰州\]</sup>：他今朝是来～的，你不要睬他。<sup>\[泰州\]</sup>  
@@ -1395,9 +1398,10 @@
 1. 【[抓不上手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_beh_shan_sheu.md#抓不上手)】`zhua1 beh7 shan6 sheu3` <sup>[如皋]</sup> ① 不值得抓。 ② 难抓。  
 1. 【[抓不上手，沰不上墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_beh_shan_sheu.md#抓不上手，沰不上墙)】`zhua1 beh7 shan6 sheu3 dah7 beh7 shan6 qian2` <small>/t͡sua1 pəʔ7 sã1 sei3 taʔ7 pəʔ7 sã1 t͡ɕʰiã2/<sup>如皋</sup></small> ① 形容无用，实在扶不起来。<sup>\[东台\]</sup> ② 形容品质太差，不堪理会。<sup>\[如皋\]</sup>  
 1. 【[抓痒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_ian.md#抓痒)】`zhua1 ian3` <sup>[如东]</sup> 挠痒：用手～。  
-1. 【[抓朞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_ji.md#抓朞)】`zhua1 ji1` <small>/t͡sua1 t͡ɕʝ1/<sup>如皋</sup></small> ① 婴儿一周岁时设诸物任抓取，以观志向的古俗。<sup>\[如皋\]</sup> ② 婴儿满一周岁的庆祝活动。参见“满朞”。<sup>\[如皋\]</sup> ③ 新生儿满一周岁时举行的庆祝活动。堂屋中间放置一张八仙桌，上面摆着笔、钱、米、算盘等物，让小儿坐在桌上，任其随意抓取。他（她）抓什么东西，表示今后将向什么方向发展。<sup>\[如东\]</sup>  
+1. 【[抓朞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_ji.md#抓朞)】`zhua1 ji1` <small>/t͡sua1 t͡ɕʝ1/<sup>如皋</sup>, /t͡suɑ1 t͡ɕʝ1/<sup>泰兴</sup></small> ① 婴儿一周岁时设诸物任抓取，以观志向的古俗。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup> ② 婴儿满一周岁的庆祝活动。参见“满朞”。<sup>\[如皋\]</sup> ③ 新生儿满一周岁时举行的庆祝活动。堂屋中间放置一张八仙桌，上面摆着笔、钱、米、算盘等物，让小儿坐在桌上，任其随意抓取。他（她）抓什么东西，表示今后将向什么方向发展。<sup>\[如东\]</sup>  
 1. 【[抓朞面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_ji_min.md#抓朞面)】`zhua1 ji1 min6` <sup>[如东]</sup> 新生儿满周岁，家中宴请贺礼亲友，中面晚酒。  
 1. 【[抓阄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_jieu.md#抓阄)】`zhua1 jieu1` <sup>[东台]</sup> 在分配物资或任务时，为避免不公的嫌疑，当众把要分配的内容遮掩或做成看不出差别的物件，由参与分配者随机选取，抓到什么就是什么。  
+1. 【[抓螺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_lu.md#抓螺)】`zhua1 lu1` <small>/t͡suɑ1 lɤɯ1/<sup>泰兴</sup></small> 小儿游戏之一。抛抓果核、螺壳、小石子等比赛分胜负。<sup>\[泰兴\]</sup>  
 1. 【[抓么<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_mu_r.md#抓么<sub>儿</sub>)】`zhua1 mu3 r` <sup>[如皋]</sup> 用七枚杏核或其他物品，以各种方式抓、抛、接，并计数，以比胜负的游戏。  
 1. 【[抓姆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_mu_r.md#抓姆<sub>儿</sub>)】`zhua1 mu3 r` <sup>[兴化]</sup> 一种游戏，见“拿磨儿”。  
 1. 【[抓拿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_na.md#抓拿)】`zhua1 na2` <sup>[兴化]</sup> ① 可凭借或依靠的人或物：参考书捱人借走啊，轮到自己要用倒没～啊。｜每个单位有专人负责，我俫下去才有～。 ② 有据可查：“嘿，卧龙先生，你的话都是空的，叫人没处～……”（《火烧赤壁》二）  
@@ -1406,13 +1410,13 @@
 1. 【[抓肉望脸上沰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_roh_van_lin.md#抓肉望脸上沰)】`zhua1 roh8 van6 lin3 shan6 dah7` <sup>[东台]</sup> ［喻］指装门面、充好汉。  
 1. 【[抓色<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_sheh_r.md#抓色<sub>儿</sub>)】`zhua1 sheh7 r` <sup>[如东]</sup> 掷色儿。也叫掷骰子。  
 1. 【[抓手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_sheu.md#抓手)】`zhua1 sheu` <sup>[兴化]</sup> 凭借、依靠、头绪：有专人负责，工作才有～。｜事情没得～，真难弄。  
-1. 【[抓手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_sheu.md#抓手)】`zhua1 sheu3` ① 器物可以抓拿的部位。喻指开展某项工作的着手处。<sup>\[东台\]</sup> ② 固定在门窗或者橱柜门屉上的，方便用手开关的部件，多用木头或者金属制成。<sup>\[泰州\]</sup>  
+1. 【[抓手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_sheu.md#抓手)】`zhua1 sheu3` <small>/t͡suɑ1 ɕiɤɯ/<sup>泰兴</sup></small> ① 器物可以抓拿的部位。喻指开展某项工作的着手处。<sup>\[东台\]</sup> ② 固定在门窗或者橱柜门屉上的，方便用手开关的部件，多用木头或者金属制成。<sup>\[泰州\]</sup> ③ 器物供手抓拿的地方。借喻处理事情的着手之处。<sup>\[泰兴\]</sup>：处理箇桩事真正没～<sup>\[泰兴\]</sup>  
 1. 【[抓头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_teu.md#抓头)】`zhua1 teu2` <sup>[如皋]</sup> 挠头，表示遇到麻烦。  
 1. 【[抓铜勺柄的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_ton_shah_bien.md#抓铜勺柄的)】`zhua1 ton2 shah8 bien5 dii` <sup>[东台]</sup> 本指食堂里打饭菜的人，［喻］有实权的具体操作者，看人行事，玩点小权。  
 1. 【[抓尿抓㞎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_xy_zhua_ba.md#抓尿抓㞎)】`zhua1 xy1 zhua1 ba3` <sup>[如皋]</sup> 比喻照料小孩的劳碌、艰辛。  
-1. 【[抓周](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_zheu.md#抓周)】`zhua1 zheu1` 民俗，婴儿周岁时，摆放各种物品让婴儿任意抓取，以此预测小孩将来志向、爱好。<sup>\[泰州\]</sup>  
+1. 【[抓周](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_zheu.md#抓周)】`zhua1 zheu1` <small>/t͡suɑ1 t͡ɕiɤɯ1/<sup>泰兴</sup></small> ① 民俗，婴儿周岁时，摆放各种物品让婴儿任意抓取，以此预测小孩将来志向、爱好。<sup>\[泰州\]</sup> ② 旧俗婴儿周岁，父母陈列各种小件器物，听任抓取，以测试未来的志趣和成就。<sup>\[泰兴\]</sup>  
 1. 【[抓抓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_zhua_r.md#抓抓<sub>儿</sub>)】`zhua1 zhua1 r` <sup>[如东]</sup> 一种点心。面粉发酵制成，圆柿形，中间包馅儿，上面露口，口边有摺纹似由手指抓起来一样，故名。（烧麦，烧卖）  
-1. 【[抓总](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_zon.md#抓总)】`zhua1 zon3` <small>/t͡sua1 t͡soŋ3/<sup>兴化</sup>, /t͡sua1 t͡sɔŋ3/<sup>如皋</sup>, /t͡ɕya1 t͡soŋ3/<sup>泰县</sup></small> ① 总计，汇总；买啊八样，～要把多少钱？<sup>\[如皋\]</sup> ② 共计。<sup>\[如东\]</sup>：～多少？<sup>\[如东\]</sup> ③ 主要负责。<sup>\[如东\]</sup>：由你～。<sup>\[如东\]</sup> ④ 见“拿总”。<sup>\[兴化\]</sup> ⑤ 共计：你～算下子。<sup>\[泰县\]</sup>  
+1. 【[抓总](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_zon.md#抓总)】`zhua1 zon3` <small>/t͡sua1 t͡soŋ3/<sup>兴化</sup>, /t͡sua1 t͡sɔŋ3/<sup>如皋</sup>, /t͡suɑ1 t͡sɔŋ3/<sup>泰兴</sup>, /t͡ɕya1 t͡soŋ3/<sup>泰县</sup></small> ① 总计，汇总<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>：买啊八样，～要把多少钱？<sup>\[如皋\]</sup>｜～多少？<sup>\[如东\]</sup>｜你～算下子。<sup>\[泰县\]</sup> ② 主要负责。<sup>\[如东\]</sup>\[兴化：参见“拿总”。\]\[泰兴：戏称负责全面工作。\]：由你～。<sup>\[如东\]</sup>  
 1. 【[爪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua.md#爪)】`zhua3` <small>/t͡sua3/<sup>兴化</sup></small> ① 某些器材的脚<sup>\[东台\]</sup>：三～锅<sup>\[东台\]</sup>｜炒菜锅碰掉一个～儿。<sup>\[东台\]</sup> ② 五指并拢或环起<sup>\[兴化\]</sup>：手～起来。<sup>\[兴化\]</sup> ③ 手指痉挛<sup>\[兴化\]</sup>：天太冷，手倒冻吖～起来啊。<sup>\[兴化\]</sup>  
 1. 【[爪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_zz.md#爪子)】`zhua3 zz` <small>/t͡suɑ3 t͡sɿ/<sup>泰兴</sup></small> ① 詈词，骂人的手<sup>\[泰州\]</sup>：把你～拿开去，不要把人身上弄吖脏吖。<sup>\[泰州\]</sup> ② 党羽，帮凶，寻衅滋事者。<sup>\[泰兴\]</sup> ③ 手足的辱称。<sup>\[泰兴\]</sup>  
 1. 【[㧳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuae.md#㧳)】`zhuae3` <sup>[兴化]</sup> 拄着。《集韵·蟹韵》柱买切“～，搀物也”：谚曰：穿钉鞋，～拐棍，稳而且准。  

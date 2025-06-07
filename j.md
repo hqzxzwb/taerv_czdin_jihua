@@ -780,7 +780,7 @@
 1. 【[精狗肏的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_geu_reh_dii.md#精狗肏的)】`jien1 geu3 reh8 dii` <sup>[如皋]</sup> 詈语，专指非常精明的人。  
 1. 【[精高啊有劲的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_go_a_ieu.md#精高啊有劲的)】`jien1 go1 a ieu3 jien5 dii` <sup>[东台]</sup> 兴致很高，劲头十足的样子。  
 1. 【[精高有劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_go_ieu_jien.md#精高有劲)】`jien1 go1 ieu3 jien5` <sup>[泰州]</sup> 做自己有兴趣的事非常起劲的样子：他俫几个人打牌打得～的，哪块有心肠陪你上街买东西。｜老吴家大小伙后朝结婚，老两口儿这两天忙得～的。  
-1. 【[精高劲的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_go_jien_dii.md#精高劲的)】`jien1 go1 jien5 dii` <sup>[如皋]</sup> 精神饱满、兴致正浓、兴趣十足：他一直～；他听得～。  
+1. 【[精高劲的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_go_jien_dii.md#精高劲的)】`jien1 go1 jien5 dii` <small>/t͡ɕiəŋ1 kɔ1 t͡ɕiəŋ5 tei/<sup>如皋</sup>, /t͡ɕiŋ1 kɔ1 t͡ɕiŋ5 təɪ/<sup>泰兴</sup></small> 精神饱满、兴致正浓、兴趣十足<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：他一直～<sup>\[如皋\]</sup>｜他听得～<sup>\[如皋\]</sup>  
 1. 【[精光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_guan.md#精光)】`jien1 guan1` <sup>[东台]</sup> 一点也不剩。也叫“精大光”：他把袋儿里的钱输得～。  
 1. 【[精胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_hv_zz.md#精胡子)】`jien1 hv2 zz` <sup>[兴化]</sup> （戏）“京胡子”的谐音，指平时神经兮兮，但从来不吃亏的人：他是个～，没得错账算！  
 1. 【[精样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_ian.md#精样)】`jien1 ian6` <sup>[如皋]</sup> 精巧细緻。  
@@ -953,7 +953,7 @@
 1. 【[劲抖抖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_deu_deu.md#劲抖抖)】`jien5 deu3 deu3` <sup>[兴化]</sup> 情绪饱满，精力充沛有劲头的样子：有老人……背着包，提着袋，～地向县委跑来。（马春阳《“化肥主任”下乡来》）  
 1. 【[劲抖抖的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_deu_deu_dii.md#劲抖抖的)】`jien5 deu3 deu3 dii` <sup>[东台]</sup> 劲头十足的样子。  
 1. 【[劲咚劲咚的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_don_jien_don.md#劲咚劲咚的)】`jien5 don3 jien5 don3 dii` <sup>[东台]</sup> 同“劲抖抖的”，带诙谐味：开大会时他～上去表态。  
-1. 【[劲搅劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_go_jien.md#劲搅劲)】`jien5 go3 jien5` <small>/t͡ɕin5 kɔ3 t͡ɕin5/<sup>兴化</sup>, /t͡ɕiŋ5 kɔ3 t͡ɕiŋ5/<sup>泰兴</sup></small> 劲头足的样子<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：他说到踢球一头～。<sup>\[兴化\]</sup>  
+1. 【[劲搅劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_go_jien.md#劲搅劲)】`jien5 go3 jien5` <small>/t͡ɕin5 kɔ3 t͡ɕin5/<sup>兴化</sup></small> 劲头足的样子<sup>\[兴化\]</sup>：他说到踢球一头～。<sup>\[兴化\]</sup>  
 1. 【[劲酵头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_go_teu_r.md#劲酵头<sub>儿</sub>)】`jien5 go5 teu2 r` <sup>[东台]</sup> ［喻］喜欢出头露面的人，也称劲头子，多含贬义。  
 1. 【[劲鲁鲁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_lv_lv.md#劲鲁鲁)】`jien5 lv3 lv3` <sup>[泰州]</sup> 跃跃欲试、劲头十足的样子：望吖他上场这～的样子，就晓得他二百斤肯定举得上去。  
 1. 【[劲头上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_teu_shan.md#劲头上)】`jien5 teu2 shan` <sup>[泰州]</sup> 正在热衷于某事之时：他这一刻热炒股正在～，你现在跑过去同他说泼冷水的话，他怎吖可能听得进去。  

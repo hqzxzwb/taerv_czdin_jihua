@@ -1454,7 +1454,7 @@
 1. 【[趸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den.md#趸)】`den3` <sup>[东台]</sup> 整批的：成～｜～交。  
 1. 【[凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den.md#凳)】`den5` <sup>[东台]</sup> 有腿没有靠背的坐具：搬个～子来｜板～｜小圆～儿。  
 1. 【[凳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_r.md#凳<sub>儿</sub>)】`den5 r` <small>/təŋ5 ɚ/<sup>泰县</sup></small> ① 供人坐的家具，没有身靠背，长条形，四只脚。<sup>\[如东\]</sup> ② 凳子。<sup>\[泰县\]</sup>  
-1. 【[扽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den.md#扽)】`den5` <small>/tən5/<sup>兴化</sup>, /təŋ5/<sup>如皋</sup>, /təŋ5/<sup>泰县</sup></small> ① 拉。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup>\[泰州：迅速有力拉动物体使之伸直或者平整、拉断、拉脱等等\]：把绳儿～～长。<sup>\[如东\]</sup>｜他轻轻儿～她衣角。<sup>\[如皋\]</sup>｜把线～紧！<sup>\[东台\]</sup>｜把绳子～紧<sup>\[兴化\]</sup>｜把衬衣朝下～～。<sup>\[兴化\]</sup>｜把开关～断吖。<sup>\[泰县\]</sup>｜绳子不结实，一～就断吖唻。<sup>\[泰州\]</sup> ② 贪吃<sup>\[泰县\]</sup>  
+1. 【[扽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den.md#扽)】`den5` <small>/tən5/<sup>兴化</sup>, /təŋ5/<sup>如皋</sup>, /təŋ5/<sup>泰兴</sup>, /təŋ5/<sup>泰县</sup></small> ① 拉。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup>\[泰兴：用力猛地拉。猛劲拉\]\[泰州：迅速有力拉动物体使之伸直或者平整、拉断、拉脱等等\]：把绳儿～～长。<sup>\[如东\]</sup>｜他轻轻儿～她衣角。<sup>\[如皋\]</sup>｜把线～紧！<sup>\[东台\]</sup>｜把绳子～紧<sup>\[兴化\]</sup>｜把衬衣朝下～～。<sup>\[兴化\]</sup>｜把开关～断吖。<sup>\[泰县\]</sup>｜绳子不结实，一～就断吖唻。<sup>\[泰州\]</sup> ② 贪吃<sup>\[泰县\]</sup>  
 1. 【[扽吖鼓的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_nga_gv_dii.md#扽吖鼓的)】`den5 nga gv3 dii` <sup>[东台]</sup> 故意撩拨、挑逗：人家休息了，他还～把电视机开得交关响，真不应该｜小孩不宜多吃糖，你还～吃糖引他闹，何必唃？  
 1. 【[扽吖故斜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_nga_gv_qia.md#扽吖故斜)】`den5 nga gv5 qia2` <sup>[兴化]</sup> 有意地‖也称“扽啊故吱”：你跟他好好商量，他～的跟你顶牛。  
 1. 【[扽奅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_po.md#扽奅)】`den5 po5` <small>/tən5 pʰɔ5/<sup>兴化</sup></small> ① 吹牛，说大话。<sup>\[东台\]</sup> ② 夸大其词<sup>\[兴化\]</sup>：扯鸡～<sup>\[兴化\]</sup>｜他最喜欢～，说一件衬衫卖上千块唻！<sup>\[兴化\]</sup>  
@@ -1503,6 +1503,7 @@
 1. 【[抖弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_lon.md#抖弄)】`deu3 lon` <small>/tɤ3 loŋ/<sup>兴化</sup>, /tɤɯ3 noŋ/<sup>泰县</sup></small> ① 炫耀<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：他有两个钱就～起来。<sup>\[兴化\]</sup>｜这两个钱掌不住他这格局～。<sup>\[泰州\]</sup>｜不要望他现在～，他哭的日子还在后头唻。<sup>\[泰州\]</sup> ② 轻狂<sup>\[兴化\]</sup>：这以后，他到处仗干爸爸的势，～起来了……（兴文《傅年的故事》）<sup>\[兴化\]</sup> ③ 神气。<sup>\[泰县\]</sup>  
 1. 【[抖笼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_lon.md#抖笼)】`deu3 lon` 空竹  
 1. 【[抖罗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_lu.md#抖罗)】`deu3 lu` <sup>[泰县]</sup> 不稳重：你～狠吖就要惹祸。  
+1. 【[抖乱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_lun.md#抖乱)】`deu3 lun6` <small>/təɪ3 lʊ̃1/<sup>泰兴</sup></small> 过于活泼，不稳重。<sup>\[泰兴\]</sup>  
 1. 【[抖动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_ton.md#抖动)】`deu3 ton6` <sup>[如东]</sup> 物体颤动：大车经过，路面～。  
 1. 【[抖魆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_xyeh.md#抖魆)】`deu3 xyeh7` <sup>[如东]</sup> 小气而奸诈：这个人非常～。  
 1. 【[斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu.md#斗)】`deu3` <small>/təɪ3/<sup>泰兴</sup></small> ① 衡器。木制，圆桶形或方形，无盖。通称为市斗，相当于十分之一石。<sup>\[如东\]</sup> ② 量具。<sup>\[泰兴\]</sup>  
