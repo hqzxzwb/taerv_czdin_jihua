@@ -1316,6 +1316,7 @@
 1. 【[花搭的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_daeh_dii.md#花搭的)】`hua1 daeh7 dii` <sup>[如东]</sup> 在种植的花中还有不少其他花种。比喻不少：～人家种芝麻。  
 1. 【[花担](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_daen.md#花担)】`hua1 daen5` <sup>[东台]</sup> 群众文艺演唱形式，用彩布蒙在竹篾扎成的担子上，上面布满各色鲜花，由两位女演员各挑一副花担对唱表演。  
 1. 【[花担子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_daen_zz.md#花担子)】`hua1 daen5 zz` <sup>[兴化]</sup> 迎神赛会中的一个行当，由盛装少女用极软的扁担，挑着鲜花装饰的担子，一步一颤，三进一退，按节拍做出各种动作。  
+1. 【[花担子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_daen_zz.md#花担子)】`hua1 daen5 zz` <small>/xuɑ1 tɛ̃5 t͡sɿ/<sup>泰兴</sup></small> 文娱表演的一种形式。一漂亮的少女挑着装满花束的担子边唱边走，宣传时新内容。<sup>\[泰兴\]</sup>  
 1. 【[花虴蛨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_deh_moh.md#花虴蛨)】`hua1 deh7 moh` <sup>[如皋]</sup> 花胫绿纹蝗。直翅目。  
 1. 【[花钩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_geu.md#花钩)】`hua1 geu1` <sup>[如东]</sup> 农具。铁制，前端呈弓形，后边有横把手，用来拔棉花秸。  
 1. 【[花鼓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_gv_r.md#花鼓<sub>儿</sub>)】`hua1 gv3 r` <sup>[兴化]</sup> ① 一种鼓形的瓷质容器，有盖。 ② 一种结构简单的风筝，长六角形，上下两边略短，中间突出。  
@@ -1335,6 +1336,7 @@
 1. 【[花户](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_hv.md#花户)】`hua1 hv6` <sup>[兴化]</sup> ① 旧称册籍上登载的户口，部分村庄至今沿用此称：跟～起钱修桥。 ② 对人的鄙称：这个～专门吃白大。  
 1. 【[花洋布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_ian_bv.md#花洋布)】`hua1 ian2 bv5` <sup>[泰县]</sup> 机器织成的印花布。  
 1. 【[花样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_ian.md#花样)】`hua1 ian6` <sup>[如东]</sup> ① 绣花的底样：这副～好看。 ② 玩弄不同的手法：玩～。  
+1. 【[花油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_ieu.md#花油)】`hua1 ieu` <small>/xuɑ1 iɤɯ/<sup>泰兴</sup></small> 猪内脏（肚、肠、肝等）上附着的油脂，区别于“板油”。<sup>\[泰兴\]</sup>  
 1. 【[花油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_ieu.md#花油)】`hua1 ieu2` <sup>[如东]</sup> 棉籽油。也叫棉油。  
 1. 【[花鸡眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_ji_ngaen.md#花鸡眼)】`hua1 ji1 ngaen3` <sup>[如东]</sup> 比喻眼睛发花，把东西看错了：我输就输在～上。  
 1. 【[花家疯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_jia_fon.md#花家疯)】`hua1 jia1 fon1` <sup>[东台]</sup> 因感情不遂，神经失常，轻者到处乱说乱唱，重者甚至裸奔，女性占多。也作“花嫁疯”。  
@@ -1346,6 +1348,7 @@
 1. 【[花椒卷<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_jio_jiun_r.md#花椒卷<sub>儿</sub>)】`hua1 jio1 jiun3 r` <small>/xua1 t͡ɕiɔ1 t͡ɕyũ3 ɚ/<sup>兴化</sup>, /xua1 t͡ɕiɔ1 t͡ɕyʊ˞3/<sup>如皋</sup></small> ① 擦花椒盐和素袖卷成团、笼蒸的发面点心。<sup>\[如皋\]</sup> ② 一种面食，多卷成螺旋状，其中酒有糖或葱花、焦盐等。<sup>\[兴化\]</sup> ③ 泰州点心之一，沾有加工过的花椒细末的花卷。<sup>\[泰州\]</sup>  
 1. 【[花焦糊焦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_jio_hv_jio.md#花焦糊焦)】`hua1 jio1 hv2 jio1` <sup>[泰县]</sup> 不整洁：你把本子弄吖～的。  
 1. 【[花卷/花𩜇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_jiun.md#花卷/花𩜇)】`hua1 jiun3` <sup>[泰州]</sup> 一种面食，将面制成厚片，放上椒盐、麻酱、葱油之类，卷成馒头形状，蒸熟即可食用，以其卷起似花，故名。  
+1. 【[花卷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_jiun.md#花卷)】`hua1 jiun3` <small>/xuɑ1 t͡ɕyʊ̃3/<sup>泰兴</sup></small> 一种蒸熟即吃的面食，多卷成螺旋状。<sup>\[泰兴\]</sup>  
 1. 【[花卷<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_jiun_r.md#花卷<sub>儿</sub>)】`hua1 jiun3 r` <sup>[如东]</sup> 面食的一种。将面粉发酵后擀成皮，放上肉末、菜、葱等，卷起来蒸熟。  
 1. 【[花壳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_kah_zz.md#花壳子)】`hua1 kah7 zz` <sup>[泰县]</sup> 小麦皮子。  
 1. 【[花靠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_ko.md#花靠)】`hua1 ko` <sup>[东台]</sup> 即花招，花样。古语词，《金瓶梅》中常用此词。  
@@ -1368,6 +1371,7 @@
 1. 【[花巧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_qio.md#花巧)】`hua1 qio3` <sup>[兴化]</sup> 形容式样美观，做工精致：这种瓷盘倒蛮～的。  
 1. 【[花轿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_qio.md#花轿)】`hua1 qio6` <sup>[如东]</sup> 迎娶新娘的轿子，称花轿。  
 1. 【[花轿上场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_qio_shan_chan.md#花轿上场)】`hua1 qio6 shan6 chan2` <sup>[如东]</sup> 迎娶新娘的花轿进入娘家场院。这顶花轿要停放在一块铺着红毯或草席的地面上，不沾泥土。  
+1. 【[花轿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_qio_zz.md#花轿子)】`hua1 qio6 zz` <small>/xuɑ1 t͡ɕʰiɔ1 t͡sɿ/<sup>泰兴</sup></small> 旧时特指结婚时新娘所坐的装饰华丽的轿子。<sup>\[泰兴\]</sup>  
 1. 【[花生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_shen.md#花生)】`hua1 shen` 花生  
 1. 【[花生酥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_shen_sv.md#花生酥)】`hua1 shen sv1` <sup>[兴化]</sup> 以花生的碎屑和莲糖为主要原料制成的酥糖。  
 1. 【[花生糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_shen_tan.md#花生糖)】`hua1 shen tan2` <sup>[兴化]</sup> 由炒熟的花生米、砂糖和糖稀一起熬成，冷却后切成小方块。  
@@ -1377,8 +1381,8 @@
 1. 【[花太阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_tae_ian.md#花太阳)】`hua1 tae5 ian` <sup>[如皋]</sup> 与阴影相间的阳光，光线不强。常见为：云缝中透射出一束束阳光。或竹园、树荫下的一块块光圈、光斑。  
 1. 【[花头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_teu.md#花头)】`hua1 teu` <sup>[如东]</sup> 技俩：他在下耍甚的～？  
 1. 【[花头精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_teu_jien.md#花头精)】`hua1 teu jien1` <sup>[东台]</sup> 名堂，花招，把戏，本领。（一般为贬义）  
-1. 【[花头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_teu.md#花头)】`hua1 teu2` <small>/xua1 tʰɤ2/<sup>兴化</sup></small> ① 花样或办法<sup>\[兴化\]</sup>：小王～着实不少，看他这回怎吖弄？<sup>\[兴化\]</sup> ② 花招<sup>\[兴化\]</sup>：他的～多，我俫玩不过他。<sup>\[兴化\]</sup> ③ 花色<sup>\[兴化\]</sup>：这块布～不丑。<sup>\[兴化\]</sup> ④ 花招，欺骗人的狡猾手段或者计策<sup>\[泰州\]</sup>：你少在他跟前玩～。<sup>\[泰州\]</sup>  
-1. 【[花头经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_teu_jien.md#花头经)】`hua1 teu2 jien1` <small>/xua1 tʰɤ2 t͡ɕin1/<sup>兴化</sup></small> ① 花招<sup>\[兴化\]</sup>：张老三虽不懂买驴人玩的～，但他明白……（兴文《羊肉烧藻菜》）<sup>\[兴化\]</sup> ② 谑称“花招”，欺骗人的手段、计策<sup>\[泰州\]</sup>：老李多精吖，你玩的这些～骗不了他。<sup>\[泰州\]</sup>  
+1. 【[花头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_teu.md#花头)】`hua1 teu2` <small>/xua1 tʰɤ2/<sup>兴化</sup>, /xuɑ1 tʰəɪ2/<sup>泰兴</sup></small> ① 花样或办法<sup>\[兴化\]</sup>：小王～着实不少，看他这回怎吖弄？<sup>\[兴化\]</sup> ② 花招<sup>\[兴化\]</sup>：他的～多，我俫玩不过他。<sup>\[兴化\]</sup> ③ 花色<sup>\[兴化\]</sup>：这块布～不丑。<sup>\[兴化\]</sup> ④ 花招，欺骗人的狡猾手段或者计策<sup>\[泰州\]</sup>：你少在他跟前玩～。<sup>\[泰州\]</sup> ⑤ 花招，手段<sup>\[泰兴\]</sup>：不要玩～<sup>\[泰兴\]</sup>  
+1. 【[花头经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_teu_jien.md#花头经)】`hua1 teu2 jien1` <small>/xua1 tʰɤ2 t͡ɕin1/<sup>兴化</sup>, /xuɑ1 tʰəɪ2 t͡ɕiŋ1/<sup>泰兴</sup></small> ① 花招<sup>\[兴化\]</sup>：张老三虽不懂买驴人玩的～，但他明白……（兴文《羊肉烧藻菜》）<sup>\[兴化\]</sup> ② 谑称“花招”，欺骗人的手段、计策<sup>\[泰州\]</sup>：老李多精吖，你玩的这些～骗不了他。<sup>\[泰州\]</sup> ③ 花样，花招。<sup>\[泰兴\]</sup>：他的～多唻<sup>\[泰兴\]</sup>  
 1. 【[花田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_tin.md#花田)】`hua1 tin2` <sup>[如东]</sup> 种植棉花的农田。  
 1. 【[花喜鹊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_xi_qiah.md#花喜鹊)】`hua1 xi3 qiah7` <sup>[兴化]</sup> 喜鹊。这个词常在儿歌中出现：～，尾巴长，娶啊老婆不要娘。  
 1. 【[花心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_xien.md#花心)】`hua1 xien1` <small>/xua1 ɕin1/<sup>兴化</sup>, /xua1 ɕiŋ1/<sup>泰县</sup></small> ① 追求异性的心态。<sup>\[如东\]</sup> ② 萝卜空心。<sup>\[兴化\]</sup> ③ 少男少女春心萌动。<sup>\[兴化\]</sup> ④ 被外界的光景吸引住了<sup>\[泰县\]</sup>：他玩吖～，这几天都不曾看书。<sup>\[泰县\]</sup> ⑤ 不专一，有配偶者移情其他人。<sup>\[泰州\]</sup>  
@@ -1386,12 +1390,14 @@
 1. 【[花形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_xien.md#花形)】`hua1 xien2` <small>/xua1 ɕin2/<sup>兴化</sup>, /xua1 ɕiŋ2/<sup>泰县</sup></small> ① 形容衣衫蓝缕，蓬首垢面，像乞丐的样子<sup>\[兴化\]</sup>：你看他这个～，一点儿不要好。也说“花子形”。<sup>\[兴化\]</sup> ② 穿得破烂，不讲仪表：你望你这个～，快家去打扮啊子。<sup>\[泰县\]</sup>  
 1. 【[花线槽<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_xin_co_r.md#花线槽<sub>儿</sub>)】`hua1 xin5 co2 r` <sup>[如皋]</sup> 装饰线槽，由花线刨儿刨出。  
 1. 【[花销](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_xio.md#花销)】`hua1 xio1` <sup>[如东]</sup> 开支：今年～不少。  
-1. 【[花鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_y.md#花鱼)】`hua1 y2` <small>/xua1 y2/<sup>兴化</sup>, /xua1 y2/<sup>如皋</sup></small> 鲤鱼<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup>\[泰州：俗称鲤鱼，鳞上有小黑点如花，故名。\]  
+1. 【[花销](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_xio.md#花销)】`hua1 xio1` <small>/xuɑ1 ɕiɔ1/<sup>泰兴</sup></small> 开支，花费。<sup>\[泰兴\]</sup>  
+1. 【[花鱼斑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_y_baen.md#花鱼斑)】`hua1 y baen1` <small>/xuɑ1 y pɛ̃1/<sup>泰兴</sup></small> 空中形似鱼鳞的云彩<sup>\[泰兴\]</sup>：天上起啊～，明朝晒粮不要翻<sup>\[泰兴\]</sup>  
+1. 【[花鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_y.md#花鱼)】`hua1 y2` <small>/xua1 y2/<sup>兴化</sup>, /xua1 y2/<sup>如皋</sup>, /xuɑ1 y/<sup>泰兴</sup></small> 鲤鱼<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>\[泰州：俗称鲤鱼，鳞上有小黑点如花，故名。\]  
 1. 【[花鱼尾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_y_vei_zz.md#花鱼尾子)】`hua1 y2 vei3 zz` <sup>[如东]</sup> 门楣上套住门梃的横木，形状像花鱼尾子。  
 1. 【[花斋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_zhae.md#花斋)】`hua1 zhae1` <small>/xua1 t͡sɛ1/<sup>兴化</sup>, /xua1 t͡se1/<sup>泰县</sup></small> ① 信仰佛教的人间断吃斋，如眼光斋、准提斋等。相对于“长斋”<sup>\[兴化\]</sup>：……我还有一句话问问女菩萨：“你一年到头可还吃吃～？”（《广陵潮》六六）<sup>\[兴化\]</sup> ② 吃素的人间断吃荤。<sup>\[泰县\]</sup>  
 1. 【[花枝招展](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_zhr_zho_zhin.md#花枝招展)】`hua1 zhr1 zho1 zhin3` <sup>[泰州]</sup> 女子打扮得十分艳丽：这个马马儿天天打扮得～的去上班。  
-1. 【[花子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_zz.md#花子)】`hua1 zz` <small>/xua1 t͡sɿ/<sup>兴化</sup>, /xua1 t͡sɿ/<sup>如皋</sup>, /xua1 t͡se/<sup>泰县</sup></small> ① 脚料<sup>\[如皋\]</sup>：小麦～。<sup>\[如皋\]</sup> ② 乞丐。<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：那边来啊个～。<sup>\[泰县\]</sup>｜讨饭～。<sup>\[泰州\]</sup> ③ 倾倒油酒时产生的气泡。<sup>\[兴化\]</sup> ④ 水面上的油渍<sup>\[兴化\]</sup>：油～滂滂的。<sup>\[兴化\]</sup> ⑤ 木工敲铁钉的节奏；工人数物（如数蛋）时的节奏。<sup>\[兴化\]</sup>  
-1. 【[花子打架](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_zz_da_jia.md#花子打架)】`hua1 zz da3 jia5` <small>/xua1 t͡sɿ ta3 t͡ɕia5/<sup>兴化</sup></small> ① ［喻］形容某项活动档次低或安排、操作得乱糟糟的。<sup>\[东台\]</sup> ② 旧谓穷戏班行头破旧，演技极差<sup>\[兴化\]</sup>：这个本地杂凑班子如同～，有甚的看头？<sup>\[兴化\]</sup> ③ 比喻戏曲演出中的演员行头、演技太差给人乱糟糟的感觉<sup>\[泰州\]</sup>：今朝晚上这几个节目没得意思，～。<sup>\[泰州\]</sup>  
+1. 【[花子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_zz.md#花子)】`hua1 zz` <small>/xua1 t͡sɿ/<sup>兴化</sup>, /xua1 t͡sɿ/<sup>如皋</sup>, /xuɑ1 t͡sɿ/<sup>泰兴</sup>, /xua1 t͡se/<sup>泰县</sup></small> ① 脚料<sup>\[如皋\]</sup>：小麦～。<sup>\[如皋\]</sup> ② 乞丐。<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：那边来啊个～。<sup>\[泰县\]</sup>｜讨饭～。<sup>\[泰州\]</sup> ③ 倾倒油酒时产生的气泡。<sup>\[兴化\]</sup> ④ 水面上的油渍<sup>\[兴化\]</sup>：油～滂滂的。<sup>\[兴化\]</sup> ⑤ 木工敲铁钉的节奏；工人数物（如数蛋）时的节奏。<sup>\[兴化\]</sup>  
+1. 【[花子打架](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_zz_da_jia.md#花子打架)】`hua1 zz da3 jia5` <small>/xua1 t͡sɿ ta3 t͡ɕia5/<sup>兴化</sup>, /xuɑ1 t͡sɿ tɑ3 t͡ɕiɑ5/<sup>泰兴</sup></small> ① ［喻］形容某项活动档次低或安排、操作得乱糟糟的。<sup>\[东台\]</sup> ② 旧谓穷戏班行头破旧，演技极差<sup>\[兴化\]</sup>：这个本地杂凑班子如同～，有甚的看头？<sup>\[兴化\]</sup> ③ 比喻戏曲演出中的演员行头、演技太差给人乱糟糟的感觉<sup>\[泰州\]</sup>：今朝晚上这几个节目没得意思，～。<sup>\[泰州\]</sup> ④ 喻不懂行的硬拼凑在一起搞内行的东西。<sup>\[泰兴\]</sup>：他佼几个搞什的电子技术，不过是～。<sup>\[泰兴\]</sup>  
 1. 【[花子交易](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_zz_jio_i.md#花子交易)】`hua1 zz jio1 i` <sup>[泰州]</sup> ① 比喻收入少的职业：一个月就拿啊这两个钱，还要受气，这种～老子不想做啊。 ② 比喻脏苦累的职业：你不要望收荒货这个～，脏是脏点儿，还是能弄两个钱的。  
 1. 【[花子形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_zz_xien.md#花子形)】`hua1 zz xien2` <small>/xua1 t͡sɿ ɕin2/<sup>兴化</sup></small> ① 形容衣衫蓝缕，蓬首垢面，像乞丐的样子。<sup>\[兴化\]</sup> ② 就像叫花子的样子，指人衣衫不整、邋遢的样子<sup>\[泰州\]</sup>：就这副～上人家去啊？<sup>\[泰州\]</sup>  
 1. 【[𠝐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua.md#𠝐)】`hua1` <small>/xua1/<sup>如皋</sup></small> ① 剖开 ② 化整为零<sup>\[如皋\]</sup>：把大钱～开。<sup>\[如皋\]</sup>  

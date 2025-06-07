@@ -2165,9 +2165,10 @@
 1. 【[罪恶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuei_ngah.md#罪恶)】`cuei6 ngah7` <sup>[如东]</sup> 严重损害人民利益的行为。  
 1. 【[罪恶滔天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuei_ngah_to_tin.md#罪恶滔天)】`cuei6 ngah7 to1 tin1` <sup>[如东]</sup> 非常严重的罪恶：这个人～。  
 1. 【[村](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen.md#村)】`cuen1` <sup>[泰州]</sup> ① 粗俗：这个马马儿～得加思唻，你是文化人，同她谈不起心来。 ② 冒犯，意谓话语伤人：这小伙说话太老卵，捱老钱～吖两句。  
+1. 【[村](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen.md#村)】`cuen1` <small>/t͡sʰuəŋ1/<sup>泰兴</sup></small> 粗俗。土气。讥诮，奚落<sup>\[泰兴\]</sup>：～话<sup>\[泰兴\]</sup>  
 1. 【[村的辣的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_dii_laeh_dii.md#村的辣的)】`cuen1 dii laeh8 dii` <small>/t͡sʰuəŋ1 tei leʔ8 tei/<sup>如皋</sup></small> ① 脏话、下流话太多的意思<sup>\[东台\]</sup>：说话要文明，不能～。<sup>\[东台\]</sup> ② 说与性有关的粗话。<sup>\[如皋\]</sup> ③ 泛指与性相关的内容。<sup>\[泰州\]</sup>  
 1. 【[村学馆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_hah_gun.md#村学馆)】`cuen1 hah8 gun3` <sup>[兴化]</sup> 旧称农村的私塾。  
-1. 【[村话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_hua.md#村话)】`cuen1 hua6` 粗俗下流的话。<sup>\[东台\]</sup>\[泰州：特指带有色情意味的粗话脏话\]：人家大姑娘在旁边，他嘴里～说咖不歇，一点儿也不忌避。<sup>\[泰州\]</sup>  
+1. 【[村话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_hua.md#村话)】`cuen1 hua6` <small>/t͡sʰuəŋ1 xuɑ1/<sup>泰兴</sup></small> 粗俗下流的话。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>\[泰州：特指带有色情意味的粗话脏话\]：人家大姑娘在旁边，他嘴里～说咖不歇，一点儿也不忌避。<sup>\[泰州\]</sup>  
 1. 【[村天辣地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_tin_laeh_ti.md#村天辣地)】`cuen1 tin1 laeh8 ti6` <sup>[泰州]</sup> 肆无忌惮地说下流粗野的话。  
 1. 【[村学堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_xiah_tan.md#村学堂)】`cuen1 xiah8 tan2` <sup>[泰州]</sup> 乡村学堂，旧时多指乡村私塾。  
 1. 【[村长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_zhan.md#村长)】`cuen1 zhan3` <sup>[东台]</sup> 本指一村之长，也戏称或特指喜欢说村话的人：你这个老～，就是欢喜开玩笑！  

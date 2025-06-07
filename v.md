@@ -840,7 +840,7 @@
 1. 【[𩑦杀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/veh_shaeh.md#𩑦杀)】`veh7 shaeh7` 淹死<sup>\[泰州\]</sup>：年年夏天，这条河里都要～个把人。<sup>\[泰州\]</sup>  
 1. 【[𩑦水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/veh_shuei.md#𩑦水)】`veh7 shuei3` <small>/ʋəʔ7 suei3/<sup>如皋</sup></small> ① 将桶具等没入水中装水，或纳头于水中。<sup>\[如皋\]</sup> ② 用手抓住头发往水里揿叫做𩑦水。<sup>\[如东\]</sup>  
 1. 【[䀛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/veh.md#䀛)】`veh8` <sup>[东台]</sup> 翻眼珠：眼睛～咖～的。  
-1. 【[杌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/veh_zz.md#杌子)】`veh8 zz` <small>/ʋəʔ8 t͡sɿ/<sup>如皋</sup>, /ʋəʔ8 t͡se/<sup>泰县</sup></small> ① 无靠背的阔面单人坐具。分方面、长方面、圆面（有大、小之分）。<sup>\[如皋\]</sup> ② 四方凳。<sup>\[东台\]</sup> ③ 小方凳。<sup>\[泰县\]</sup> ④ 一种有腿无靠背的正方形或者圆形的单人坐具，有大小之分。<sup>\[泰州\]</sup>  
+1. 【[杌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/veh_zz.md#杌子)】`veh8 zz` <small>/ʋəʔ8 t͡sɿ/<sup>如皋</sup>, /ʋəʔ8 t͡sɿ/<sup>泰兴</sup>, /ʋəʔ8 t͡se/<sup>泰县</sup></small> ① 无靠背的阔面单人坐具。分方面、长方面、圆面（有大、小之分）。<sup>\[如皋\]</sup> ② 四方凳。<sup>\[东台\]</sup> ③ 小方凳。<sup>\[泰县\]</sup> ④ 一种有腿无靠背的正方形或者圆形的单人坐具，有大小之分。<sup>\[泰州\]</sup> ⑤ 面子呈长方形、正方形的凳子。<sup>\[泰兴\]</sup>  
 1. 【[𣝗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/veh_zz.md#𣝗子)】`veh8 zz` <small>/ʋəʔ8 t͡sɿ/<sup>如皋</sup></small> ① 水果的核\[如皋：也说hueh8 zz。\]：杏～、桃～。<sup>\[如皋\]</sup> ② 淋巴结肿\[如皋：耳头底下起啊个大～。\] ③ 郁结在心中不平的原因<sup>\[泰州\]</sup>：连续两回都不曾调到工资，是他心里的一块～。<sup>\[泰州\]</sup> ④ 双方产生矛盾的原因<sup>\[泰州\]</sup>：老王同他结下来的～还不曾消掉，他俫两个人就是碰吖面都不说话。<sup>\[泰州\]</sup>  
 1. 【[威风扫地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_fon_so_ti.md#威风扫地)】`vei1 fon1 so3 ti6` <sup>[东台]</sup> 声势气派完全丧失。  
 1. 【[威吓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_heh.md#威吓)】`vei1 heh7` <sup>[东台]</sup> 以威势恐吓。  

@@ -75,6 +75,7 @@
 1. 【[粑粑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ba.md#粑粑)】`ba1 ba1` ① 幼童称饼为～，称十五的圆月为“天～”。<sup>\[东台\]</sup> ② 圆形块状面饼。<sup>\[泰州\]</sup>  
 1. 【[粑<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_r.md#粑<sub>儿</sub>)】`ba1 r` <sup>[如皋]</sup> 饼的称谓：买～、做～、吃～。  
 1. 【[芭蕉扇子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_jio_shin_zz.md#芭蕉扇子)】`ba1 jio1 shin5 zz` <sup>[泰州]</sup> 用蒲葵（常绿乔木，叶大而呈掌状分裂）制成的扇子。  
+1. 【[芭蕉扇子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_jio_shin_zz.md#芭蕉扇子)】`ba1 jio1 shin5 zz` <small>/pɑ1 t͡ɕiɔ1 ɕĩ5 t͡sɿ/<sup>泰兴</sup></small> 以芭蕉叶作成的扇子。<sup>\[泰兴\]</sup>  
 1. 【[钯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba.md#钯)】`ba1` <sup>[如皋]</sup> 勾夹、加固陶、瓷、墙等的铜、铁件或动程。（见锔）  
 1. 【[钯<sub>儿</sub>钉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_r_dien.md#钯<sub>儿</sub>钉)】`ba1 r dien1` <sup>[如东]</sup> 铁钉的一种。钉的头部有一爪儿，主要用来钉帆船。  
 1. 【[钯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_zz.md#钯子)】`ba1 zz` <sup>[如皋]</sup> 夹碗、夹缸、夹墙的铜铁件。（见铜）  
@@ -1425,12 +1426,14 @@
 1. 【[堡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#堡)】`bo5` 地名用字。声调阴去。泰兴境内地名“堡”一般读此音：宣～，泰兴一镇，民间称宣家～。宣堡辖张家～、杨家～、石家～｜根思辖小杨家～、许家～  
 1. 【[报应](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_ien.md#报应)】`bo5 ien` <sup>[东台]</sup> 因果报应观念，意思是某人做坏事肯定没有好下场：这家伙作恶多端，早晚要遭～。  
 1. 【[报应](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_ien.md#报应)】`bo5 ien5` <sup>[如皋]</sup> 詈语或昵语，指人：我怎吖养吖你这个～的噁！这个～真难服侍！  
+1. 【[报应](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_ien.md#报应)】`bo5 ien5` <small>/pɔ5 iŋ5/<sup>泰兴</sup></small> 佛家有因果报应之说。指人生在世，行善作恶，都会得到相应回报，善有善报，恶有恶报。后多指作恶就有恶报。<sup>\[泰兴\]</sup>  
 1. 【[报应杲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_ien_go_zz.md#报应杲子)】`bo5 ien5 go3 zz` <sup>[如东]</sup> 不争气的人。  
 1. 【[报怨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_iun.md#报怨)】`bo5 iun5` <sup>[泰州]</sup> 埋怨，因事情不如意而责怪他人：这件事你要想吖清爽吖，到时候不要～人不曾提醒你。｜你自己没本事寻到工作，怎吖好～家里人？  
 1. 【[报怨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_iun.md#报怨)】`bo5 iun5` <small>/pɔ5 yʊ̃5/<sup>泰兴</sup></small> 抱怨，埋怨<sup>\[泰兴\]</sup>  
 1. 【[报恩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_ngen.md#报恩)】`bo5 ngen1` <sup>[如东]</sup> 由于受到恩惠而予以报答。  
 1. 【[报丧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_san.md#报丧)】`bo5 san1` <small>/pɔ5 sã1/<sup>如皋</sup></small> ① 詈语或昵语，指人，同“报应”<sup>\[如皋\]</sup>：你这个～。<sup>\[如皋\]</sup> ② 登门通报亲人去世消息。<sup>\[泰州\]</sup>\[东台：亦称“跑报”。\]  
 1. 【[报水荒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_shuei_huan.md#报水荒)】`bo5 shuei3 huan1` <sup>[东台]</sup> 原意是扩大实际灾情，妄图获得高额补偿，喻意扩大事态，试图引起重视，欺骗领导。  
+1. 【[报信](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_xien.md#报信)】`bo5 xien5` <small>/pɔ5 ɕiŋ5/<sup>泰兴</sup></small> 通报信息。有时指报丧。<sup>\[泰兴\]</sup>  
 1. 【[报晓鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_xio_ji.md#报晓鸡)】`bo5 xio3 ji1` <small>/pɔ5 ɕiɔ3 t͡ɕi1/<sup>兴化</sup></small> ① ［喻］把所知道的相关内情传递给对方，搬弄是非。<sup>\[东台\]</sup> ② 司晨的雄鸡<sup>\[兴化\]</sup>：“（这闹钟）比家里～灵……”（马春阳《三九姑娘》）<sup>\[兴化\]</sup> ③ （喻）喜欢传播小道新闻的人。<sup>\[兴化\]</sup> ④ 背后告状的人，贬义<sup>\[泰州\]</sup>：这个人是个～，你俫早上说的话，领导不到晚上就晓得咖唻。<sup>\[泰州\]</sup>  
 1. 【[报晓鸡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_xio_ji_r.md#报晓鸡<sub>儿</sub>)】`bo5 xio3 ji1 r` <small>/pɔ5 ɕiɔ3 t͡ɕʝ˞1/<sup>如皋</sup></small> ① 雄鸡在天亮时啼鸣，称报晓。<sup>\[如东\]</sup> ② 母鸡下蛋后叫唤，称报晓。<sup>\[如东\]</sup> ③ 比喻一些人知道了一点情况就马上告诉别人。<sup>\[如东\]</sup>：陈志明是个～，听到一点风声就告诉人。<sup>\[如东\]</sup> ④ 詈语，指专打小报告的人（晓，知）。<sup>\[如皋\]</sup>  
 1. 【[报嘘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_xy.md#报嘘)】`bo5 xy1` <sup>[泰州]</sup> 夸大目前所处事态的危急程度，不断催促他人立即采取行动：你不要听他～，时间还不曾到。  
@@ -1447,7 +1450,7 @@
 1. 【[爆蕊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_lv.md#爆蕊)】`bo5 lv3` <small>/pɔ5 lu3/<sup>如皋</sup></small> ① 树木嫩芽初绽<sup>\[如皋\]</sup>：清明前，杨柳儿～。<sup>\[如皋\]</sup> ② 长出新芽<sup>\[东台\]</sup>：春天树木普遍～。<sup>\[东台\]</sup> ③ 植物发出新芽。（原文作“报卵”，音不合。）<sup>\[如东\]</sup>  
 1. 【[爆芽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_nga.md#爆芽)】`bo5 nga2` <small>/pɔ5 ŋa2/<sup>如皋</sup></small> ① 植物发芽。<sup>\[如东\]</sup> ② 发芽。见“出”。<sup>\[如皋\]</sup> ③ 草本植物种子从土中长出了幼芽<sup>\[泰州\]</sup>：你种的番瓜～唻。<sup>\[泰州\]</sup>  
 1. 【[爆眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_ngaen.md#爆眼)】`bo5 ngaen3` <sup>[兴化]</sup> 眼珠突出：勒头～｜其人黑面～，相貌凶恶。（《绿牡丹》一）  
-1. 【[爆青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_qien.md#爆青)】`bo5 qien1` <small>/pɔ5 t͡ɕʰiəŋ1/<sup>如皋</sup></small> ① 春季，草木返青。<sup>\[如皋\]</sup> ② 春天木本植物上长出枝芽<sup>\[泰州\]</sup>：公园里的树～唻。<sup>\[泰州\]</sup>  
+1. 【[爆青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_qien.md#爆青)】`bo5 qien1` <small>/pɔ5 t͡ɕʰiəŋ1/<sup>如皋</sup>, /pɔ5 t͡ɕʰiŋ1/<sup>泰兴</sup></small> ① 春季，草木返青。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup> ② 春天木本植物上长出枝芽<sup>\[泰州\]</sup>：公园里的树～唻。<sup>\[泰州\]</sup>  
 1. 【[爆乳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_rv_r.md#爆乳<sub>儿</sub>)】`bo5 rv3 r` <sup>[泰县]</sup> 花蕊。  
 1. 【[豹脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_jiah.md#豹脚)】`bo5 jiah7` <sup>[东台]</sup> ① 使死者遗体双脚并拢的垫脚物。 ② 棺材的小头下搁（大头下搁为虎足）。现常作为詈语：看你那双～，才买的鞋子又穿破啊。  
 1. 【[豹猫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_mo_r.md#豹猫<sub>儿</sub>)】`bo5 mo2 r` <sup>[如皋]</sup> 狸。哺乳纲，食肉目。  
