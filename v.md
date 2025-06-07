@@ -320,6 +320,7 @@
 1. 【[护啊家里爬肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_a_ga_lii.md#护啊家里爬肚子)】`v6 a ga1 lii pa2 dv3 zz` <sup>[如皋]</sup> ① 詈语。意为过于溺爱，甚至纵容儿子非礼妈妈。 ② 见“爬肚子”。  
 1. 【[护短](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_dun.md#护短)】`v6 dun3` ① 包庇缺点。<sup>\[如东\]</sup>：自己的伢儿犯吖毛病大人不要～。<sup>\[如东\]</sup> ② 对孩子过分娇惯，有缺点也不肯批评教育。<sup>\[东台\]</sup>  
 1. 【[护食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_sheh.md#护食)】`v6 sheh8` <small>/ʋu1 səʔ8/<sup>如皋</sup></small> ① 不让碰到自己已有的食物<sup>\[如皋\]</sup>：伢儿～、狗子～。<sup>\[如皋\]</sup> ② 企图把所有食物占为己有，不许别人食用。<sup>\[如东\]</sup>：这个伢儿～。<sup>\[如东\]</sup>  
+1. 【[护疼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_ten.md#护疼)】`v6 ten2` <small>/ʋ1 tʰəŋ2/<sup>泰兴</sup></small> 保护疼痛处，怕疼。<sup>\[泰兴\]</sup>  
 1. 【[护脏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_zan.md#护脏)】`v6 zan1` <sup>[如皋]</sup> ① 挡住脏：定被单头～。 ② 掩盖污斑：白衣裳不～。  
 1. 【[瓠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v.md#瓠)】`v6` <sup>[兴化]</sup> 一年生草本植物，果实细长圆筒形，表皮淡青色，俗称“一条”。也称“～子”。“瓠”一读hv6（户）。  
 1. 【[瓠子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_zz.md#瓠子)】`v6 zz` <small>/u6 t͡sɿ/<sup>兴化</sup>, /ʋu1 t͡sɿ/<sup>如皋</sup>, /u1 t͡se/<sup>泰县</sup></small> ① 葫芦的一种，果实像雅梨，大可十多斤，老熟后剖开做瓢儿。<sup>\[如皋\]</sup> ② 一年生草本植物，茎蔓生，花白色，果实细长，圆筒形，表皮淡绿色，一种蔬菜。<sup>\[东台\]</sup> ③ （借）未成熟而采摘的西瓜，瓤及子种呈暗白色，肉板而无味。<sup>\[兴化\]</sup> ④ 葫芦。<sup>\[泰县\]</sup> ⑤ 不熟的西瓜。<sup>\[泰县\]</sup> ⑥ 头脑不清、糊里糊涂的人。<sup>\[泰县\]</sup>  

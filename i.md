@@ -286,7 +286,7 @@
 1. 【[约住点<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_chv_din_r.md#约住点<sub>儿</sub>)】`iah7 chv din3 r` <small>/iaʔ7 t͡sʰu ti˞3/<sup>如皋</sup></small> ① （也说ya5）注意，保持平稳，不要陡急。<sup>\[如皋\]</sup> ② 控制一点急躁情绪，暂停或者放缓事情进程<sup>\[泰州\]</sup>：这事你先～，最好请示下子领导再大弄也不迟。<sup>\[泰州\]</sup> ③ 控制一点言语以防说得太满，意谓说话留有余地<sup>\[泰州\]</sup>：你能保证你将来就养小伙，你同我～，等你以后养吖小伙再吹。<sup>\[泰州\]</sup> ④ 控制一点工作时间或者工作量，以防造成不良后果<sup>\[泰州\]</sup>：你天天忙到夜里三点才睡，这格局不行，要～！<sup>\[泰州\]</sup>｜挑三百斤的担子？你的岁数还小，～好，不要挑啊伤吖。<sup>\[泰州\]</sup>  
 1. 【[约住<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_chv_r.md#约住<sub>儿</sub>)】`iah7 chv r` <sup>[泰县]</sup> 控制：你要～，不要太过分。  
 1. 【[约住他](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_chv_ta.md#约住他)】`iah7 chv ta1` <sup>[如皋]</sup> （也说ya5）用方法，暗中稳住，拖住，限住，使之不能离开这个地方。  
-1. 【[约而摸酌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_r_mah_zhah.md#约而摸酌)】`iah7 er mah zhah7` <small>/iɑʔ7 ɚ mɑʔ t͡sɑʔ7/<sup>泰兴</sup></small> 约莫，大约莫。<sup>\[泰兴\]</sup>  
+1. 【[约而摸酌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_er_mah_zhah.md#约而摸酌)】`iah7 er mah zhah7` <small>/iɑʔ7 ɚ mɑʔ t͡sɑʔ7/<sup>泰兴</sup></small> 约莫，大约莫。<sup>\[泰兴\]</sup>  
 1. 【[约约匡匡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_iah_kuan_kuan.md#约约匡匡)】`iah7 iah7 kuan1 kuan1` <sup>[泰县]</sup> 大体上估算：你这回砌房子～要花多少钱？  
 1. 【[约约数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_iah_shv.md#约约数)】`iah7 iah7 shv5` <sup>[东台]</sup> 同“马马意”、“匡匡酌酌”。  
 1. 【[约约数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_iah_shv.md#约约数)】`iah7 iah7 shv5` <small>/iɑʔ7 iɑʔ7 su5/<sup>泰兴</sup></small> 大体估计，不求精确。<sup>\[泰兴\]</sup>  

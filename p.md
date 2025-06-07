@@ -737,7 +737,11 @@
 1. 【[奅<sub>儿</sub>拉沙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_r_la_sha.md#奅<sub>儿</sub>拉沙)】`po1 r la sha` <sup>[如东]</sup> 说大话，说空话：王二～的，没有人喜欢。  
 1. 【[奅<sub>儿</sub>头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_r_teu.md#奅<sub>儿</sub>头)】`po1 r teu2` <sup>[如东]</sup> 说大话、吹牛皮的人：他是一个～。  
 1. 【[抛荒田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_huan_tin.md#抛荒田)】`po1 huan1 tin2` <sup>[如皋]</sup> 弃耕的田。  
-1. 【[抛锚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_mo.md#抛锚)】`po1 mo2` <small>/pʰɔ1 mɔ2/<sup>兴化</sup></small> ① 将船上的铁锚抛入水中，固定船位，叫做抛锚。<sup>\[如东\]</sup> ② （喻）事情中途停止<sup>\[兴化\]</sup>：迁校的事～啊。<sup>\[兴化\]</sup>  
+1. 【[抛秧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_ian.md#抛秧)】`po1 ian1` <small>/pʰɔ1 iɑŋ1/<sup>泰兴</sup></small> 抛掷秧苗于水田中。<sup>\[泰兴\]</sup>  
+1. 【[抛梁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_lian.md#抛梁)】`po1 lian2` <small>/pʰɔ1 liɑŋ2/<sup>泰兴</sup></small> 民俗。营造房屋上梁时，木瓦匠从正梁上向四面上下抛掷馒头说鸽子曰抛梁。<sup>\[泰兴\]</sup>  
+1. 【[抛粮𢮎种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_lian_hv_zhon.md#抛粮𢮎种)】`po1 lian2 hv3 zhon3` <small>/pʰɔ1 liɑŋ2 fʋ3 t͡sɔŋ3/<sup>泰兴</sup></small> 播种。指种田，从事农业劳动。义同“耕田耙地”。<sup>\[泰兴\]</sup>  
+1. 【[抛锚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_mo.md#抛锚)】`po1 mo2` <small>/pʰɔ1 mɔ2/<sup>兴化</sup>, /pʰɔ1 mɔ2/<sup>泰兴</sup></small> ① 将船上的铁锚抛入水中，以固定船位<sup>\[如东\]</sup><sup>\[泰兴\]</sup> ② （喻）事情中途停止<sup>\[兴化\]</sup>：迁校的事～啊。<sup>\[兴化\]</sup> ③ 汽车因故障停在半路<sup>\[泰兴\]</sup> ④ 喻因故停止正在办的事务、工作<sup>\[泰兴\]</sup>  
+1. 【[抛抛滚滚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_po_guen_guen.md#抛抛滚滚)】`po1 po1 guen3 guen3` <small>/pʰɔ1 pʰɔ1 kuəŋ3 kuəŋ3/<sup>泰兴</sup></small> 谓球状物到处滚动<sup>\[泰兴\]</sup>：把豌豆泼咖一地，块块～的<sup>\[泰兴\]</sup>  
 1. 【[抛籰子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_vah_zz.md#抛籰子)】`po1 vah7 zz` <sup>[如皋]</sup> 络丝工人的一种操作。人坐着，右手掌心向上半握装了籰子的挑鞭，肘贴于腰间，使挑鞭置于臂下，将前段连续抛接，籰子右上旋，不断绕丝。  
 1. 【[泡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po.md#泡)】`po1` <sup>[泰县]</sup> 量词：一～屎。  
 1. 【[泡灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_huei.md#泡灰)】`po1 huei1` <small>/pʰɔ1 xuei1/<sup>如皋</sup></small> ① 柴薪灰烬 ② 灶下出的草木灰<sup>\[如皋\]</sup> ③ 灶膛里的草灰。<sup>\[如东\]</sup> ④ 锅膛里柴草的灰烬。<sup>\[东台\]</sup>  

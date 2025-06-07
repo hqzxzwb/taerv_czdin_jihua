@@ -2463,7 +2463,7 @@
 1. 【[护月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_iuh.md#护月)】`hv6 iuh8` <sup>[兴化]</sup> 月蚀。  
 1. 【[护被](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_pi.md#护被)】`hv6 pi6` <sup>[如皋]</sup> 加盖在上面的被子。  
 1. 【[护被单头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_pi_daen_teu.md#护被单头)】`hv6 pi6 daen1 teu2` <sup>[如皋]</sup> 被头易脏，用一块布护上，经常拆洗以保持清洁。  
-1. 【[护袖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_qieu.md#护袖)】`hv6 qieu6` <small>/xu6 t͡ɕʰiɤ6/<sup>兴化</sup></small> 袖套。套在袖子外，挡脏或防破损。<sup>\[兴化\]</sup><sup>\[泰州\]</sup>  
+1. 【[护袖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_qieu.md#护袖)】`hv6 qieu6` <small>/xu6 t͡ɕʰiɤ6/<sup>兴化</sup>, /fʋ1 t͡ɕʰiɤɯ1/<sup>泰兴</sup></small> 袖套。套在袖子外，挡脏或防破损。<sup>\[兴化\]</sup><sup>\[泰州\]</sup>\[泰兴：护肩、护膝等均为保护肩、膝的用品。\]  
 1. 【[护日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_rih.md#护日)】`hv6 rih8` <sup>[兴化]</sup> 日蚀。  
 1. 【[护食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_sheh.md#护食)】`hv6 sheh8` <small>/xu6 səʔ8/<sup>兴化</sup></small> 不让靠近或拿走自己的食物<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：猫儿～；小孩子～。<sup>\[兴化\]</sup>  
 1. 【[护身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_shen.md#护身)】`hv6 shen1` <sup>[兴化]</sup> 保护自己，避免受到伤害和打击：他万没料到她这么～，出口伤人。（马春阳《月朗和她的娘舅们》）  

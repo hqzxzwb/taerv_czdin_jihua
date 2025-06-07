@@ -170,6 +170,8 @@
 1. 【[苍黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/can_huan.md#苍黄)】`can1 huan2` <sup>[如东]</sup> 非常黄。  
 1. 【[苍蝇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/can_ien.md#苍蝇)】`can1 ien` ① 昆虫。种类很多，常见的有饭苍蝇（舍蝇）、红头苍蝇（绿蝇）、麻苍蝇（麻蝇）、金苍蝇（金蝇）．头部有一对复眼。幼虫叫蛆。成虫能传染霍乱、伤寒等疾病。<sup>\[如东\]</sup> ② 昆虫，幼虫叫蛆，成虫能传染霍乱、伤寒等多种疾病。<sup>\[东台\]</sup> ③ ［喻］打扑克中迷惑对方的伎俩，现也喻指提供假信息，让别人上当。<sup>\[东台\]</sup>  
 1. 【[苍蝇不叮无缝的蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/can_ien_beh_dien.md#苍蝇不叮无缝的蛋)】`can1 ien beh7 dien1 v2 fon6 dii taen6` <sup>[东台]</sup> 外因总是看中某些内因，并且通过内因起作用。  
+1. 【[苍蝇跟吖卖炭的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/can_ien_gen_nga.md#苍蝇跟吖卖炭的)】`can1 ien gen1 nga mae6 taen5 dii` <small>/t͡sʰɑŋ1 iŋ kəŋ1 ŋa mɛ1 tʰɛ̃5 təɪ/<sup>泰兴</sup></small> 倒霉的跟着差劲的，谓难有出头之日。<sup>\[泰兴\]</sup>  
+1. 【[苍蝇害搭背，小灾晦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/can_ien_hae_daeh.md#苍蝇害搭背，小灾晦)】`can1 ien hae6 daeh7 bei5 xio3 zae1 huei5` <small>/t͡sʰɑŋ1 iŋ xɛ1 tæʔ7 pəɪ5 ɕiɔ3 t͡ɕiɛ1 xuəɪ5/<sup>泰兴</sup></small> 戏语。搭背，背后生的一种痈疽。<sup>\[泰兴\]</sup>  
 1. 【[苍蝇虎<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/can_ien_hv_r.md#苍蝇虎<sub>儿</sub>)】`can1 ien hv3 r` <sup>[如东]</sup> 跳蛛科动物短螯蝇虎．俗称蚂蚁虎儿。  
 1. 【[苍狼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/can_lan.md#苍狼)】`can1 lan2` <sup>[兴化]</sup> 民间故事中出现的毛色青灰的老狼。  
 1. 【[苍鹭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/can_lv.md#苍鹭)】`can1 lv6` <sup>[如东]</sup> 鹭的一种。体长约1米。背部苍灰色，头上有两条美丽的黑色冠羽。腿长。吃小鱼、昆虫、蛙等。也叫青桩。  

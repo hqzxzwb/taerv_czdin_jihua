@@ -1310,7 +1310,7 @@
 1. 【[苗条/媌䠷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio_tio.md#苗条/媌䠷)】`mio2 tio2` <sup>[泰州]</sup> 女性身材细长，婀娜多姿。  
 1. 【[苗鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio_y.md#苗鱼)】`mio2 y2` <sup>[如东]</sup> 乌贼科动物乌贼鱼，又名墨鱼、苗鱼龟儿。  
 1. 【[苗猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio_zhv.md#苗猪)】`mio2 zhv1` <sup>[如东]</sup> 小仔猪。  
-1. 【[苗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio_zz.md#苗子)】`mio2 zz` <small>/miɔ2 t͡sɿ/<sup>兴化</sup>, /miɔ2 t͡sɿ/<sup>如皋</sup></small> ① 指高粱、芦穄结穗的秆子。<sup>\[如东\]</sup>：芦穄～。<sup>\[如东\]</sup> ② 培养的对象。<sup>\[如东\]</sup> ③ 专指高粱、芦穄的最上段，脱粒后用作扎条帚、把儿及劈篾做工艺品。<sup>\[如皋\]</sup> ④ （喻）继承某种事业的年轻人<sup>\[兴化\]</sup>：他是个好～。<sup>\[兴化\]</sup> ⑤ 扎扫帚用的高梁秆<sup>\[兴化\]</sup>：芦秫～。<sup>\[兴化\]</sup>  
+1. 【[苗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio_zz.md#苗子)】`mio2 zz` <small>/miɔ2 t͡sɿ/<sup>兴化</sup>, /miɔ2 t͡sɿ/<sup>如皋</sup>, /miɔ2 t͡sɿ/<sup>泰兴</sup></small> ① 指高粱、芦穄结穗的秆子。<sup>\[如东\]</sup>：芦穄～。<sup>\[如东\]</sup> ② 培养的对象。<sup>\[如东\]</sup> ③ 专指高粱、芦穄的最上段，脱粒后用作扎条帚、把儿及劈篾做工艺品。<sup>\[如皋\]</sup> ④ （喻）继承某种事业的年轻人<sup>\[兴化\]</sup>：他是个好～。<sup>\[兴化\]</sup> ⑤ 扎扫帚用的高梁秆<sup>\[兴化\]</sup>：芦秫～。<sup>\[兴化\]</sup> ⑥ （高粱）已脱粒的穗子<sup>\[泰兴\]</sup>  
 1. 【[秒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio.md#秒)】`mio3` <sup>[如东]</sup> 计算时间的单位，等于一分种的六十分之一。  
 1. 【[妙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio.md#妙)】`mio6` <sup>[如东]</sup> ① 巧：这件事做得～。 ② 形容好。  
 1. 【[庙上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio_shan.md#庙上)】`mio6 shan6` <sup>[如皋]</sup> 庙里，庙里的人或物。  
