@@ -1,6 +1,7 @@
 # 杏子
 hen6/xien6 zz
 - 杏
+  - ～树
 
 # 恨子
 hen6 zz

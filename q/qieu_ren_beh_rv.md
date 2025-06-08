@@ -2,3 +2,8 @@
 qieu2 ren2 beh7 rv2 qieu2 ji3
 > 如皋方言词典
 - 凡事自己办好。
+
+# 求人不如求己
+qieu2 ren2 beh7 rv2 qieu2 ji3
++ 谓央求别人帮助不如自己努力进取。
+  * 泰兴方言辞典
