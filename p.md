@@ -1269,7 +1269,7 @@
 1. 【[盘香路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_xian_lv.md#盘香路)】`pun2 xian1 lv6` <sup>[如皋]</sup> ① 回旋式的路。 ② 喻在家中操劳不息所走的路，不觉远，只觉累。  
 1. 【[盘驯吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_xyen_nga.md#盘驯吖)】`pun2 xyen2 nga` <sup>[如东]</sup> 给弄疲沓了：孩子天天这吖紧张，捱～。  
 1. 【[盘账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_zhan.md#盘账)】`pun2 zhan5` <sup>[东台]</sup> 汇总收支情况，核查账目。  
-1. 【[盘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_zz.md#盘子)】`pun2 zz` <small>/pʰũ2 t͡sɿ/<sup>兴化</sup></small> ① 容器。瓷制，圆形或椭圆形，底浅。有多种规格。一般饰有花纹，比较精致。主要用于盛菜。<sup>\[如东\]</sup> ② 价钱：开～｜“……他一定把环妹妹藏到乡下去，再讲～……”（《老残游记》十四）<sup>\[兴化\]</sup>  
+1. 【[盘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_zz.md#盘子)】`pun2 zz` <small>/pʰũ2 t͡sɿ/<sup>兴化</sup></small> ① 容器。瓷制，圆形或椭圆形，底浅。有多种规格。一般饰有花纹，比较精致。主要用于盛菜。<sup>\[如东\]</sup> ② 价钱<sup>\[兴化\]</sup>：开～<sup>\[兴化\]</sup>｜“……他一定把环妹妹藏到乡下去，再讲～……”（《老残游记》十四）<sup>\[兴化\]</sup>  
 1. 【[盘子里的豆芽——不扎根](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_zz_lii_dii.md#盘子里的豆芽——不扎根)】`pun2 zz lii dii teu6 nga2 beh7 zhaeh7 gen1` <sup>[东台]</sup>   
 1. 【[蟠髻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_jieh.md#蟠髻)】`pun2 jieh7` <sup>[如皋]</sup> 妇女将长发在脑后蟠成发髻。  
 1. 【[蟠龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_lon.md#蟠龙)】`pun2 lon2` <sup>[如皋]</sup> 跨轴上的木齿轮轮盘，用天然弯曲的桑木接成。  

@@ -374,8 +374,10 @@
 1. 【[两半个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_bun_gu.md#两半个)】`laen3 bun gu5` <sup>[兴化]</sup> 完整的东西一分为二，各为～：蛮好的大碗，一跌～。  
 1. 【[两般三样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_bun_saen_ian.md#两般三样)】`laen3 bun saen1 ian6` <sup>[兴化]</sup> 花样繁多：你要吃稀，他要吃干，～的烦死人。  
 1. 【[两半个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_bun_gu.md#两半个)】`laen3 bun5 gu5` <sup>[泰州]</sup> 将一个完整的物体分成两个半个：剩吖一个苹果，切～，我俫个人半个。  
+1. 【[两半个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_bun_gu.md#两半个)】`laen3 bun5 gu5` <small>/lɛ̃3 pʊ̃5 kɤɯ5/<sup>泰兴</sup></small> 一个整体分成的各占二分之一的两个部分。<sup>\[泰兴\]</sup>  
 1. 【[两踩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_cae.md#两踩)】`laen3 cae3` <sup>[东台]</sup> 在两个方案比较中举棋不定：去不去工厂，我还在下～。  
 1. 【[两岔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_cha.md#两岔)】`laen3 cha5` <sup>[兴化]</sup> ① 二人走到不同的路上去：一个向东，一个向南，走到～上去啊。 ② 理解发生差误：老王说的“升”是让他走，他以为要“上升”，玩到～里去啊。  
+1. 【[两场大麦一场打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_chan_da_moh.md#两场大麦一场打)】`laen3 chan2 da6 moh ieh7 chan2 da3` <small>/lɛ̃3 t͡sʰɑŋ2 tɑ1 mɔʔ iʔ7 t͡sʰɑŋ2 tɑ3/<sup>泰兴</sup></small> 喻把大体相同的两件或两件以上的事一起来做。<sup>\[泰兴\]</sup>  
 1. 【[两场小麦一场打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_chan_xio_moh.md#两场小麦一场打)】`laen3 chan2 xio3 moh8 ieh7 chan2 da3` <small>/lɛ̃3 t͡sʰaŋ2 ɕiɔ3 mɔʔ8 iəʔ7 t͡sʰaŋ2 ta3/<sup>兴化</sup></small> ① ［喻］两件事情一起操办，省得重复筹划重复劳烦<sup>\[东台\]</sup>：这次推介产品放吖在厂庆那天，是～，效率高。<sup>\[东台\]</sup> ② （喻）内容相同或性质相同的事一起来做：“明年中秋节，～，订婚带结婚……”（马春阳：《重婚记》）<sup>\[兴化\]</sup>  
 1. 【[两冲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_chon.md#两冲)】`laen3 chon5` <sup>[兴化]</sup> 互相抵销：你打他一拳，他踢你一脚，哪个也不欠哪个，～吧。  
 1. 【[两齿锹<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_chr_qio_r.md#两齿锹<sub>儿</sub>)】`laen3 chr3 qio1 r` <sup>[如东]</sup> 采掘蛼螯的一种工具。铁制，两个齿，长条形，弯曲，有柄。作业时，根据蛼螯气，从泥沙中挖掘出蛼螯来。  
@@ -388,10 +390,13 @@
 1. 【[两点水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_din_shuei.md#两点水)】`laen3 din3 shuei3` <sup>[如皋]</sup> 见“两滴水”。  
 1. 【[两间灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_gaen_zo.md#两间灶)】`laen3 gaen zo5` <sup>[如皋]</sup> 二口锅的灶。  
 1. 【[两个琵琶一个调——弹（谈）到一块啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_gu_pi_pa.md#两个琵琶一个调——弹（谈）到一块啊)】`laen3 gu pi2 pa2 ieh7 gu dio5 taen2 do5 ieh7 kuae5 a` <sup>[东台]</sup>   
+1. 【[两个肩膀㧏张嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_gu_jin_ban.md#两个肩膀㧏张嘴)】`laen3 gu5 jin1 ban gan1 zhan1 zuei3` <small>/lɛ̃3 kɤɯ5 t͡ɕĩ1 pɑŋ kɑŋ1 t͡sɑŋ1 t͡suəɪ3/<sup>泰兴</sup></small> 比喻没有谋生的本领；或谓手中空空如也，只吃饭不干活。贬义。<sup>\[泰兴\]</sup>  
 1. 【[两挂蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_gua_hae.md#两挂蟹)】`laen3 gua5 hae3` <small>/lɛ̃3 kua5 xɛ3/<sup>兴化</sup></small> ① 两手空空<sup>\[东台\]</sup>：他家毛脚女婿上门送的甚的礼呀？哈，～！（什么都没带）<sup>\[东台\]</sup> ② （戏）一双空手<sup>\[兴化\]</sup>：他这次看望丈母娘就带啊～。<sup>\[兴化\]</sup> ③ 比喻两手空空走亲访友<sup>\[泰州\]</sup>：这小伙头一回到丈人家里去，玩吖个～。人家当然要说他不懂规矩啊。<sup>\[泰州\]</sup>  
+1. 【[两下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ha.md#两下)】`laen3 ha6` <small>/lɛ̃3 xɑ1/<sup>泰兴</sup></small> 双方，两方面<sup>\[泰兴\]</sup>：～总不要讲经噢，都散吧<sup>\[泰兴\]</sup>  
 1. 【[两划](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_hua.md#两划)】`laen3 hua2` <sup>[兴化]</sup> 两不吃亏：你拿几斤旧书报换我这吖多的再生纸，～下来总合算。  
 1. 【[两疑两错](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_i_laen_cah.md#两疑两错)】`laen3 i2 laen3 cah7` <sup>[东台]</sup> 在疑惑、犹豫不决中一再错过机遇。  
 1. 【[两样心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ian_xien.md#两样心)】`laen3 ian6 xien1` <small>/lɛ̃3 iaŋ6 ɕin1/<sup>兴化</sup></small> ① 偏心。谚曰<sup>\[兴化\]</sup>：人无～，狗倒不吃屎啊。<sup>\[兴化\]</sup> ② 对人不能做到一视同仁<sup>\[泰州\]</sup>：当领导的做事要公，不能有～。<sup>\[泰州\]</sup>  
+1. 【[两用衫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ion_shaen.md#两用衫)】`laen3 ion6 shaen1` <small>/lɛ̃3 iɔŋ1 ɕiɛ̃1/<sup>泰兴</sup></small> 春秋皆宜、正反都可穿的便服。<sup>\[泰兴\]</sup>  
 1. 【[两境覒覒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_jien_mo_mo.md#两境覒覒)】`laen3 jien mo6 mo6` <sup>[如东]</sup> 两边跑跑，看看。覒，窥视，斜视：你要～。  
 1. 【[两境走走](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_jien_zeu_zeu.md#两境走走)】`laen3 jien zeu3 zeu3` <sup>[如东]</sup> 两边跑跑，看看。  
 1. 【[两节桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_jih_qio.md#两节桥)】`laen3 jih7 qio2` <sup>[如皋]</sup> 见“两搭桥”。  
@@ -399,6 +404,7 @@
 1. 【[两刳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_kua.md#两刳)】`laen3 kua2` <sup>[泰县]</sup> 双方都有竞争力。  
 1. 【[两块皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_kuae_pi.md#两块皮)】`laen3 kuae5 pi2` <sup>[兴化]</sup> （借）上下嘴唇：人嘴上～，说好说丑由人。  
 1. 【[两攎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_lv.md#两攎)】`laen3 lv2` ① 双方以前的事情都不提，互不追究对方的责任。<sup>\[东台\]</sup> ② 双方对以往各自所做的对不起对方的事，互不追究责任<sup>\[泰州\]</sup>：过去的恩恩怨怨都不许再提，从今朝起就～唻，大家还是好朋友。<sup>\[泰州\]</sup>  
+1. 【[两面人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_min_ren.md#两面人)】`laen3 min ren2` <small>/lɛ̃3 mĩ ɻəŋ2/<sup>泰兴</sup></small> 双性人。也称“公母人”。<sup>\[泰兴\]</sup>  
 1. 【[两免](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_min.md#两免)】`laen3 min3` <small>/lɛ̃3 miɪ̃3/<sup>兴化</sup></small> ① 双方都不要客气<sup>\[兴化\]</sup>：“别客气。你没准备‘风凰’，我也没带‘味精’，两免免吧。”（马春阳：《化肥主任下乡来》）<sup>\[兴化\]</sup> ② 双方相互免去客套<sup>\[泰州\]</sup>：你不要过来，我也不过去，大家就～吧。<sup>\[泰州\]</sup>  
 1. 【[两面派](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_min_pae.md#两面派)】`laen3 min6 pae5` <sup>[如东]</sup> 耍两面手法的人：不要做～。  
 1. 【[两眼一抹黑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ngaen_ieh_maeh.md#两眼一抹黑)】`laen3 ngaen3 ieh7 maeh8 heh7` <sup>[东台]</sup> ［喻］初来乍到，什么都不熟悉。  
@@ -406,6 +412,7 @@
 1. 【[两眼漆黑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ngaen_qieh_heh.md#两眼漆黑)】`laen3 ngaen3 qieh7 heh7` <sup>[兴化]</sup> 形容对周围的人和事不了解：“……我是个异乡人，走此路过，～，举目无亲……。”（《火烧赤壁》六）  
 1. 【[两片瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_pin_va.md#两片瓦)】`laen3 pin5 va3` <sup>[兴化]</sup> 旧式棉鞋，面子由两片从中缝合：这双老式～棉鞋放在一张橱子的底部，被一块布挡着。（毕飞宇：《上海往事》）  
 1. 【[两便](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_pin.md#两便)】`laen3 pin6` <sup>[如东]</sup> 双方都方便。  
+1. 【[两便](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_pin.md#两便)】`laen3 pin6` <small>/lɛ̃3 pʰĩ1/<sup>泰兴</sup></small> 分手，再不往来；有时作客套话，彼此方便之意。<sup>\[泰兴\]</sup>  
 1. 【[两碰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_pon.md#两碰)】`laen3 pon5` <small>/lɛ̃3 pʰoŋ5/<sup>兴化</sup></small> ① 成败未知，难以料定。<sup>\[东台\]</sup> ② 两可之间，结果难料：他的考试成绩不理想，能不能录取～。｜……赌钱是～，能赢又能输。（《皮五辣子》四）<sup>\[兴化\]</sup> ③ 两可，可能这样，可能那样，结果难以预测<sup>\[泰州\]</sup>：这件事我同你说说看看，他是否答应～。<sup>\[泰州\]</sup>  
 1. 【[两碰两𢱉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_pon_laen_vae.md#两碰两𢱉)】`laen3 pon5 laen3 vae3` <sup>[如东]</sup> 物体受碰后摇摇摆摆。比喻不稳定：他俫两个人的关系还是～的。  
 1. 【[两碰两响](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_pon_laen_xian.md#两碰两响)】`laen3 pon5 laen3 xian3` <sup>[如东]</sup> 比喻十分可靠：这次拿货，～，准的。  

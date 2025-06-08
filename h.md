@@ -604,7 +604,7 @@
 1. 【[恨命穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_mien_qion.md#恨命穷)】`hen6 mien6 qion2` <small>/xən6 miɪ̃6 t͡ɕʰioŋ2/<sup>兴化</sup></small> ① 贪食的代名词。引申为贪心太大。<sup>\[东台\]</sup> ② 贪大、贪多<sup>\[兴化\]</sup>：他一个人买上两笼包子当早饭，真是～。<sup>\[兴化\]</sup> ③ 抱怨自己命运注定贫穷，所以碰到一次机会就疯狂攫取<sup>\[泰州\]</sup>：这小伙～，上吖桌一气就吃咖二十个包子，怎吖不吃咖伤吖。<sup>\[泰州\]</sup> ④ 冀图一次就完成极大工作量<sup>\[泰州\]</sup>：这些砖头一担是挑不走的，你不要～，分个几担挑的好。<sup>\[泰州\]</sup>  
 1. 【[恨虱子烧棉袄——不值得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_sheh_zz_sho.md#恨虱子烧棉袄——不值得)】`hen6 sheh7 zz sho1 min2 ngo3 beh7 cheh8 deh7` <sup>[东台]</sup>   
 1. 【[恨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_zz.md#恨子)】`hen6 zz` <sup>[如东]</sup> ① 小气，吝啬。 ② 小气吝啬的人。  
-1. 【[杏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_zz.md#杏子)】`hen6 zz, xien6 zz` 杏  
+1. 【[杏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_zz.md#杏子)】`hen6 zz, xien6 zz` 杏：～树  
 1. 【[胻梁骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_lian_gueh.md#胻梁骨)】`hen6 lian gueh7` <sup>[兴化]</sup> 胫骨。胻，《集韵·梗韵》下梗切：胫也。  
 1. 【[侯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu.md#侯)】`heu` 跟在数字后面，表示男孩子在家中的排行，经常用于小名或者指称：二～/老二，次子｜六～/老六，第六个儿子  
 1. 【[齁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu.md#齁)】`heu1` <small>/xɤ1/<sup>兴化</sup></small> ① 因过甜或过咸刺人<sup>\[兴化\]</sup>：蜂蜜甜得～人。<sup>\[兴化\]</sup>｜菜烧得～咸。<sup>\[兴化\]</sup> ② 心病<sup>\[兴化\]</sup>：不能提他～，一提就难过。<sup>\[兴化\]</sup> ③ 菜太咸，吃坏嗓子。 ④ 哮喘<sup>\[兴化\]</sup>：天气一冷他的～病就发作。<sup>\[兴化\]</sup>  
@@ -886,6 +886,7 @@
 1. 【[好头上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_teu_shan.md#好头上)】`ho5 teu2 shan6` <sup>[兴化]</sup> 指兴致正浓的时候：他才学咖上网，正在～，一连十几小时泡啊网吧里。  
 1. 【[孝帽<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_mo_r.md#孝帽<sub>儿</sub>)】`ho5 mo6 r` <sup>[如东]</sup> 老人死了，晚辈头上戴一种白布帽子，表示哀悼和孝敬，这种帽子称孝帽儿。  
 1. 【[孝帽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_mo_zz.md#孝帽子)】`ho5 mo6 zz` <sup>[兴化]</sup> 旧俗为尊亲治丧或送葬时戴的帽子，子孙辈的为白色，曾孙辈的为黄色、玄孙辈的为红色。  
+1. 【[孝竹棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_zhoh_pan.md#孝竹棒)】`ho5 zhoh7 pan6` <small>/xɔ5 t͡sɔʔ7 pʰɑŋ1/<sup>泰兴</sup></small> 孝杖。由七节小竹作成，乡俗出丧时死者子女人执一支，插于墓前。传供死者在阴间打狗护身之用。<sup>\[泰兴\]</sup>  
 1. 【[耗料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_lio.md#耗料)】`ho5 lio6` <sup>[如皋]</sup> 必须用或损耗的材料：做木模～多。  
 1. 【[耗人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_ren.md#耗人)】`ho5 ren2` <sup>[如东]</sup> 口渴：天气炎热，流啊许多汗，嘴里～。  
 1. 【[耗头大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_teu_da.md#耗头大)】`ho5 teu da6` <sup>[如皋]</sup> 损耗多。  
@@ -1318,6 +1319,7 @@
 1. 【[花担子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_daen_zz.md#花担子)】`hua1 daen5 zz` <sup>[兴化]</sup> 迎神赛会中的一个行当，由盛装少女用极软的扁担，挑着鲜花装饰的担子，一步一颤，三进一退，按节拍做出各种动作。  
 1. 【[花担子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_daen_zz.md#花担子)】`hua1 daen5 zz` <small>/xuɑ1 tɛ̃5 t͡sɿ/<sup>泰兴</sup></small> 文娱表演的一种形式。一漂亮的少女挑着装满花束的担子边唱边走，宣传时新内容。<sup>\[泰兴\]</sup>  
 1. 【[花虴蛨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_deh_moh.md#花虴蛨)】`hua1 deh7 moh` <sup>[如皋]</sup> 花胫绿纹蝗。直翅目。  
+1. 【[花费](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_fei.md#花费)】`hua1 fei5` <small>/xuɑ1 fəɪ5/<sup>泰兴</sup></small> 消耗，支用。<sup>\[泰兴\]</sup>  
 1. 【[花钩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_geu.md#花钩)】`hua1 geu1` <sup>[如东]</sup> 农具。铁制，前端呈弓形，后边有横把手，用来拔棉花秸。  
 1. 【[花鼓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_gv_r.md#花鼓<sub>儿</sub>)】`hua1 gv3 r` <sup>[兴化]</sup> ① 一种鼓形的瓷质容器，有盖。 ② 一种结构简单的风筝，长六角形，上下两边略短，中间突出。  
 1. 【[花蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_hae.md#花蟹)】`hua1 hae3` 花蟹，一种小海蟹。  
@@ -1372,9 +1374,12 @@
 1. 【[花轿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_qio.md#花轿)】`hua1 qio6` <sup>[如东]</sup> 迎娶新娘的轿子，称花轿。  
 1. 【[花轿上场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_qio_shan_chan.md#花轿上场)】`hua1 qio6 shan6 chan2` <sup>[如东]</sup> 迎娶新娘的花轿进入娘家场院。这顶花轿要停放在一块铺着红毯或草席的地面上，不沾泥土。  
 1. 【[花轿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_qio_zz.md#花轿子)】`hua1 qio6 zz` <small>/xuɑ1 t͡ɕʰiɔ1 t͡sɿ/<sup>泰兴</sup></small> 旧时特指结婚时新娘所坐的装饰华丽的轿子。<sup>\[泰兴\]</sup>  
+1. 【[花色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_seh.md#花色)】`hua1 seh` <small>/xuɑ1 səʔ/<sup>泰兴</sup></small> 品种，颜色<sup>\[泰兴\]</sup>：那个超市～多<sup>\[泰兴\]</sup>  
 1. 【[花生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_shen.md#花生)】`hua1 shen` 花生  
+1. 【[花生米子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_shen_mi_zz.md#花生米子)】`hua1 shen mi3 zz` <small>/xuɑ1 səŋ mʝ3 t͡sɿ/<sup>泰兴</sup></small> 花生仁。<sup>\[泰兴\]</sup>  
 1. 【[花生酥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_shen_sv.md#花生酥)】`hua1 shen sv1` <sup>[兴化]</sup> 以花生的碎屑和莲糖为主要原料制成的酥糖。  
 1. 【[花生糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_shen_tan.md#花生糖)】`hua1 shen tan2` <sup>[兴化]</sup> 由炒熟的花生米、砂糖和糖稀一起熬成，冷却后切成小方块。  
+1. 【[花生糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_shen_tan.md#花生糖)】`hua1 shen tan2` <small>/xuɑ1 səŋ tʰɑŋ2/<sup>泰兴</sup></small> 以花生仁为主要原料做成的糖，香脆可口。<sup>\[泰兴\]</sup>  
 1. 【[花生衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_shen_i.md#花生衣)】`hua1 shen1 i1` <sup>[如东]</sup> 包裹花生米的皮，红色或淡红色，人中药，有止血作用。  
 1. 【[花生耙<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_shen_pa_r.md#花生耙<sub>儿</sub>)】`hua1 shen1 pa2 r` <sup>[如东]</sup> 农具。铁制，四齿，较短，有柄。用以锄花生。  
 1. 【[花生筛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_shen_shae_zz.md#花生筛子)】`hua1 shen1 shae1 zz` <sup>[如皋]</sup> 专用于收花生的筛子。  

@@ -1703,6 +1703,7 @@
 1. 【[孝帽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_mo_zz.md#孝帽子)】`xio5 mo6 zz` <sup>[泰州]</sup> 亲人过世，亡者子孙从治丧至出殡期间所戴特制帽子，称为“孝帽子”，孝帽子的颜色根据辈份不同而加区别，长孝子或孝子戴麻纱帽，子辈戴白色帽，孙辈戴红色帽，曾孙辈戴黄色帽。  
 1. 【[孝牌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_pae.md#孝牌)】`xio5 pae2` <small>/ɕiɔ5 pʰɛ2/<sup>如皋</sup></small> 居丧者依辈分排列的名牌。参见“丧表”。<sup>\[如皋\]</sup>  
 1. 【[孝色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_seh.md#孝色)】`xio5 seh7` <sup>[如皋]</sup> 素色。如白色、黑色、灰色。  
+1. 【[孝顺豆腐忤逆粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_shuen_teu_fv.md#孝顺豆腐忤逆粉)】`xio5 shuen teu6 fv v3 nieh fen3` <small>/ɕiɔ5 suəŋ tʰəɪ1 fʋ ʋ3 niʔ fəŋ3/<sup>泰兴</sup></small> 谓食用时，挟取豆腐比较方便，挟食粉丝、粉皮时则很麻烦。<sup>\[泰兴\]</sup>  
 1. 【[孝顺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_shuen.md#孝顺)】`xio5 shuen6` <sup>[如东]</sup> 尽心奉养父母，顺从父母的意志，这是中国礼教着重提倡的一种道德：儿女非常～。  
 1. 【[孝堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_tan.md#孝堂)】`xio5 tan2` <small>/ɕiɔ5 tʰaŋ2/<sup>兴化</sup>, /ɕiɔ5 tʰã2/<sup>如皋</sup></small> ① 灵堂。<sup>\[如皋\]</sup> ② 灵堂。<sup>\[兴化\]</sup>  
 1. 【[孝信](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xien.md#孝信)】`xio5 xien5` <sup>[东台]</sup> 对长辈孝顺、尊敬、守信。  

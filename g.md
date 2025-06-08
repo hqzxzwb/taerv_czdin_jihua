@@ -179,6 +179,7 @@
 1. 【[盖瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_va.md#盖瓦)】`gae5 va3` <small>/kɛ5 ua3/<sup>兴化</sup>, /kɛ5 ʋa3/<sup>如皋</sup></small> ① 瓦屋上瓦背朝上的瓦，称盖瓦。<sup>\[如东\]</sup> ② 牡瓦，即瓦背向上盖在上层的瓦。<sup>\[如皋\]</sup> ③ 给屋面覆瓦。<sup>\[如皋\]</sup> ④ 在屋面上铺瓦。<sup>\[兴化\]</sup> ⑤ （喻）初秋天空中云斑一块接着一块<sup>\[兴化\]</sup>：天上～，马上要起风吖。<sup>\[兴化\]</sup>  
 1. 【[盖种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_zhon.md#盖种)】`gae5 zhon3` <small>/kɛ5 t͡soŋ3/<sup>兴化</sup>, /kɛ5 t͡sɔŋ3/<sup>如皋</sup></small> ① 播种后覆土。<sup>\[如皋\]</sup> ② 一种农活，即用土把点播的作物种子盖起来。<sup>\[兴化\]</sup>  
 1. 【[盖众](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_zhon.md#盖众)】`gae5 zhon5` <sup>[如皋]</sup> ① 说话狂妄，得罪大家。 ② 技艺、本领超过一般人。 ③ 见“压众”。  
+1. 【[芥菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_cae.md#芥菜)】`gae5 cae5` <small>/kɛ5 t͡ɕʰiɛ5/<sup>泰兴</sup></small> 蔬菜的一种，茎有软刺，多腌制后食用。<sup>\[泰兴\]</sup>  
 1. 【[唊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaeh.md#唊)】`gaeh7` <sup>[泰州]</sup> 妄语，多言：你不要听她嘴里瞎～。  
 1. 【[夹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaeh.md#夹)】`gaeh7` <sup>[如东]</sup> 从两个相对的方面施加压力，使物体固定不动：～毛竹。  
 1. 【[夹板气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaeh_baen_qi.md#夹板气)】`gaeh7 baen3 qi5` <small>/kæʔ7 pɛ̃3 t͡ɕʰi5/<sup>兴化</sup></small> ① 指来自对立双方的责难。<sup>\[东台\]</sup> ② 来自对立双方的责难。<sup>\[兴化\]</sup>  
@@ -1801,6 +1802,7 @@
 1. 【[割人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_ren_zz.md#割人子)】`guh7 ren zz` <sup>[如皋]</sup> 见“割酸”。  
 1. 【[割杀鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_shaeh_guei.md#割杀鬼)】`guh7 shaeh7 guei3` <sup>[泰县]</sup> 互相吵闹的人（原文作“各杀鬼”，音不合）：你望这些～，没得一分钟的闲时。  
 1. 【[割酸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_sun.md#割酸)】`guh7 sun1` <sup>[如皋]</sup> 胃中㽱酸水，难受。  
+1. 【[合一条裤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_ieh_tio_kv.md#合一条裤子)】`guh7 ieh7 tio2 kv5 zz` <small>/kʊʔ7 iʔ7 tʰiɔ2 kʰu5 t͡sɿ/<sup>泰兴</sup></small> 比喻两人看法相同，行动一致。喻气味相投。多含贬义。<sup>\[泰兴\]</sup>  
 1. 【[蛤蝼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_leu.md#蛤蝼)】`guh7 leu2-3` <sup>[东台]</sup> 青蛤的俗称。蛤蜊的一种。  
 1. 【[颌腮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_sae.md#颌腮)】`guh7 sae1` <small>/kʊʔ7 sɛ1/<sup>如皋</sup></small> ① 腮，腮帮子 ② 頤旁，即耳下、上下颔相合处。<sup>\[如皋\]</sup>  
 1. 【[颌腮墩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_sae_den_r.md#颌腮墩<sub>儿</sub>)】`guh7 sae1 den1 r` <sup>[如皋]</sup> 见“颌腮”。  

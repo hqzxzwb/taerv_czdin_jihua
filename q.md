@@ -1115,7 +1115,7 @@
 1. 【[桯凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_den.md#桯凳)】`qien2 den5` <small>/t͡ɕʰin2 tən5/<sup>兴化</sup>, /t͡ɕʰiŋ2 təŋ5/<sup>泰县</sup></small> ① 大凳。<sup>\[泰县\]</sup> ② 一种特殊加工的长凳，凳面四周用实木，中间用板，比板凳厚重，且长而宽。<sup>\[东台\]</sup> ③ 一种质地较好并嵌有花板的长凳。<sup>\[兴化\]</sup> ④ 一种条形大凳，整体坚实富足，两头凳面下有蝶形饰板。<sup>\[泰州\]</sup>  
 1. 【[秦泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ni.md#秦泥)】`qien2 ni2` <sup>[如东]</sup> 黏性土质：这许都是～土。  
 1. 【[秦泥路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ni_lv.md#秦泥路)】`qien2 ni2 lv6` <sup>[如东]</sup> 路面由粘质土壤铺成的路，称秦泥路。透水性差，雨后泥泞难行。  
-1. 【[芹菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_cae.md#芹菜)】`qien2 cae5` ① 伞科植物旱芹，又名蒲芹，一年或二年生草本。<sup>\[如东\]</sup> ② 一种蔬菜，叶羽状，叶柄肥大，茎叶均可食用，对预防高血压、动脉硬化等十分有益，又叫“药芹”“秋壅菜”。<sup>\[东台\]</sup> ③ 又名“水芹菜”，多年水生宿根草本植物，茎干似竹有节中空，茎为冬季蔬菜。泰州民俗，农历腊月二十四送灶晚上煮糯米饭，吃芹菜豆腐汤，取其谐音“勤劳兜富”。<sup>\[泰州\]</sup>  
+1. 【[芹菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_cae.md#芹菜)】`qien2 cae5` <small>/t͡ɕʰiŋ2 t͡ɕʰiɛ5/<sup>泰兴</sup></small> ① 伞科植物旱芹，又名蒲芹，一年或二年生草本。<sup>\[如东\]</sup> ② 一种蔬菜，叶羽状，叶柄肥大，茎叶均可食用，对预防高血压、动脉硬化等十分有益，又叫“药芹”“秋壅菜”。<sup>\[东台\]</sup> ③ 又名“水芹菜”，多年水生宿根草本植物，茎干似竹有节中空，茎为冬季蔬菜。泰州民俗，农历腊月二十四送灶晚上煮糯米饭，吃芹菜豆腐汤，取其谐音“勤劳兜富”。<sup>\[泰州\]</sup> ④ 蔬菜的一种，有药用价值。<sup>\[泰兴\]</sup>  
 1. 【[苘麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ma.md#苘麻)】`qien3 ma2` <sup>[如东]</sup> 锦葵科植物苘麻，一年生草本。  
 1. 【[请](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien.md#请)】`qien3` <sup>[东台]</sup> 除一般释义外，指对神圣物品的购买，说“买”便是大不敬，只能说“请”：～香。  
 1. 【[请不得先生告不得娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_beh_deh_xin.md#请不得先生告不得娘)】`qien3 beh7 deh7 xin1 shen1 go5 beh7 deh7 nian2` <sup>[东台]</sup> 由于某种原因，有苦说不出，不好请别人帮忙，只能由自己顶着。（先生可指医生）  
@@ -1200,12 +1200,14 @@
 1. 【[揂獭皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_taeh_pi.md#揂獭皮)】`qieu2 taeh7 pi2` <sup>[泰州]</sup> 比喻皮肉受伤后伤口自愈能力极强的人：这小伙是个～，碰掉这点儿油皮，他根本不会买账的。  
 1. 【[毬蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_taen.md#毬蛋)】`qieu2 taen6` <sup>[如东]</sup> 睾丸。  
 1. 【[求爹爹拜奶奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_dia_dia_bae.md#求爹爹拜奶奶)】`qieu2 dia1 dia1 bae5 nae3 nae` <sup>[东台]</sup> 形容为某事到处奔走、哀告、祈求。  
+1. 【[求哥哥拜姐姐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_gu_gu_bae.md#求哥哥拜姐姐)】`qieu2 gu1 gu bae5 jia3 jia` <small>/t͡ɕʰiɤɯ2 kɤɯ1 kɤɯ pɛ5 t͡ɕiɑ3 t͡ɕiɑ/<sup>泰兴</sup></small> 到处拜求别人（帮忙）。<sup>\[泰兴\]</sup>  
 1. 【[求医](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_i.md#求医)】`qieu2 i1` <sup>[如东]</sup> 请求医生治病。  
 1. 【[求央](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_ian.md#求央)】`qieu2 ian` <sup>[兴化]</sup> “央求”的逆序词，悬求：再三～他也不中用。  
 1. 【[求嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_jy.md#求嘴)】`qieu2 jy3` <sup>[东台]</sup> 受到批评，还在回嘴，顶嘴，强词夺理。也作“求嘴求舌”：你识点儿相，不要再～啊啦！  
 1. 【[求情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_qien.md#求情)】`qieu2 qien2` <sup>[如东]</sup> 请求对方宽恕：由王二出面～。  
 1. 【[求签](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_qin.md#求签)】`qieu2 qin1` <sup>[东台]</sup> 在神佛面前抽签占卜吉凶。  
 1. 【[求人不如求己](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_ren_beh_rv.md#求人不如求己)】`qieu2 ren2 beh7 rv2 qieu2 ji3` <sup>[如皋]</sup> 凡事自己办好。  
+1. 【[求人不如求己](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_ren_beh_rv.md#求人不如求己)】`qieu2 ren2 beh7 rv2 qieu2 ji3` <small>/t͡ɕʰiɤɯ2 ɻəŋ2 pəʔ7 ɻu2 t͡ɕʰiɤɯ2 t͡ɕʝ3/<sup>泰兴</sup></small> 谓央求别人帮助不如自己努力进取。<sup>\[泰兴\]</sup>  
 1. 【[求仙方](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_xin_fan.md#求仙方)】`qieu2 xin1 fan1` <small>/t͡ɕʰyʊ2 ɕĩ1 fã1/<sup>如皋</sup></small> ① 见“讨仙方”。<sup>\[如皋\]</sup> ② 迷信者向某一神仙求药或药方。<sup>\[如皋\]</sup> ③ 在神佛面前问病求药方。<sup>\[东台\]</sup>  
 1. 【[求雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_y.md#求雨)】`qieu2 y3` <sup>[东台]</sup> ① 旧时乞求降雨的仪式。 ② 戏称晴天带雨具为～。  
 1. 【[球肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_roh.md#球肉)】`qieu2 roh8` <small>/t͡ɕʰiɤ2 lɔʔ8/<sup>兴化</sup></small> ① 团肉。肌肉一块一块的很结实的样子<sup>\[东台\]</sup>：他长吖一身的～。<sup>\[东台\]</sup> ② 因肥胖而肌肉堆叠<sup>\[兴化\]</sup>：卞金山抖动着满脸～……（马春阳《夜袭叹气庙》）‖也作“囚肉”。<sup>\[兴化\]</sup>  
