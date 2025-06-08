@@ -873,7 +873,7 @@
 1. 【[诚心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_xien.md#诚心)】`chen2 xien1` <sup>[如东]</sup> 真心。  
 1. 【[诚心话的本心话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_xien_hua_dii.md#诚心话的本心话)】`chen2 xien1 hua6 dii ben3 xien1 hua6` 真心话  
 1. 【[辰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen.md#辰)】`chen2` <sup>[东台]</sup> 地支第五位。  
-1. 【[辰光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_guan.md#辰光)】`chen2 guan` <small>/t͡sʰən2 kuaŋ/<sup>兴化</sup>, /t͡sʰəŋ2 kuã/<sup>如皋</sup></small> ① 时间，时候。<sup>\[如东\]</sup>：甚的～来？<sup>\[如东\]</sup> ② 时间。<sup>\[如皋\]</sup> ③ 大约的时间、时候：甚的～、有啊～。<sup>\[如皋\]</sup> ④ 时候<sup>\[兴化\]</sup>：在他吃酒～，过来两个小和尚……（《施耐庵的传说·酒菜活了》）<sup>\[兴化\]</sup>  
+1. 【[辰光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_guan.md#辰光)】`chen2 guan` <small>/t͡sʰən2 kuaŋ/<sup>兴化</sup>, /t͡sʰəŋ2 kuã/<sup>如皋</sup>, /t͡sʰəŋ2 kuɑŋ/<sup>泰兴</sup></small> ① 时间，时候。<sup>\[如东\]</sup>：甚的～来？<sup>\[如东\]</sup> ② 时间。<sup>\[如皋\]</sup> ③ 大约的时间、时候<sup>\[如皋\]</sup>：甚的～、有啊～。<sup>\[如皋\]</sup> ④ 时候<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：在他吃酒～，过来两个小和尚……（《施耐庵的传说·酒菜活了》）<sup>\[兴化\]</sup>  
 1. 【[辰光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_guan.md#辰光)】`chen2 guan1` <sup>[东台]</sup> ① 时候，时辰：甚的～走？ ② 程度：企业亏到这个～，要赶快采取改革措施。  
 1. 【[鈂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen.md#鈂)】`chen2` <sup>[如皋]</sup> 点播（播种）种子：～麦、～玉米、～黄豆。如皋词典写“𣜣”。  
 1. 【[鈂麦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_moh.md#鈂麦)】`chen2 moh8` <sup>[如东]</sup> 在田地里用铁锹摇开口子将麦种撒下去。  

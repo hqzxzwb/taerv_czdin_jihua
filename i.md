@@ -9,6 +9,7 @@
 1. 【[依旧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_qieu.md#依旧)】`i1 qieu6` <sup>[如东]</sup> 照旧：还是～。  
 1. 【[依妥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_tu.md#依妥)】`i1 tu3` <sup>[如皋]</sup> 了结，罢休。  
 1. 【[医家先生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_jia_xin_shen.md#医家先生)】`i1 jia1 xin1 shen` <sup>[兴化]</sup> 医生，尤指中医：……请～看病啊，买药啊，都要用钱。（扬二《吹箫过市》）  
+1. 【[医家先生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_jia_xin_shen.md#医家先生)】`i1 jia1 xin1 shen` <small>/ʝ1 t͡ɕiɑ1 ɕĩ1 səŋ/<sup>泰兴</sup></small> 医生。乡人对医生的尊称。<sup>\[泰兴\]</sup>  
 1. 【[医家先生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_jia_xin_shen.md#医家先生)】`i1 jia1 xin1 shen1` <sup>[泰州]</sup> 对医生的敬称：她这刀要请南京的～来开。  
 1. 【[衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#衣)】`i1` <small>/ʝ1/<sup>如皋</sup>, /ʝ1/<sup>泰兴</sup></small> ① 指胎盘<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：～胞、伢儿～。中药名“紫河车”。<sup>\[如皋\]</sup> ② 小麦粒上的壳、芦柴的叶柄<sup>\[如皋\]</sup>：～裹儿。<sup>\[如皋\]</sup> ③ 服装<sup>\[如皋\]</sup>：～裳、老～。<sup>\[如皋\]</sup>  
 1. 【[衣胞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_bo.md#衣胞)】`i1 bo1` <small>/ʝ1 pɔ1/<sup>如皋</sup></small> ① 胎盘。<sup>\[如皋\]</sup><sup>\[如东\]</sup> ② 胞衣，包在胎儿体表上的一层胞膜。<sup>\[泰州\]</sup>  

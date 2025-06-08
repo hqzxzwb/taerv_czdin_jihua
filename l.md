@@ -145,12 +145,13 @@
 1. 【[来啊天色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_a_tin_seh.md#来啊天色)】`lae2 a tin1 seh7` <sup>[如皋]</sup> 夏天，雨云来了，将下大雨。  
 1. 【[来㞎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_ba.md#来㞎)】`lae2 ba3` <sup>[东台]</sup> 将大便拉在身上。  
 1. 【[来不办](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_beh_paen.md#来不办)】`lae2 beh7 paen6` <sup>[东台]</sup> 来不及，也称“来不洎”：“四夏五抢”时，～忙别的。  
-1. 【[来不洎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_beh_qi.md#来不洎)】`lae2 beh7 qi6` <small>/lɛ2 pəʔ7 t͡ɕʰʝ1/<sup>如皋</sup></small> ① 来不及 ② 来不及。<sup>\[如皋\]</sup><sup>\[泰州\]</sup>：还有20分钟电影就要开演唻，再不去就～唻。<sup>\[泰州\]</sup>  
+1. 【[来不洎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_beh_qi.md#来不洎)】`lae2 beh7 qi6` <small>/lɛ2 pəʔ7 t͡ɕʰʝ1/<sup>如皋</sup>, /lɛ2 pəʔ7 t͡ɕʰʝ1/<sup>泰兴</sup></small> ① 来不及 ② 来不及。<sup>\[如皋\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：还有20分钟电影就要开演唻，再不去就～唻。<sup>\[泰州\]</sup>  
 1. 【[来膘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_bio.md#来膘)】`lae2 bio1` <sup>[如皋]</sup> 本指畜牲养壮了，趣指人养胖了。  
 1. 【[来宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_bo_r.md#来宝<sub>儿</sub>)】`lae2 bo3 r` <sup>[如东]</sup> 盼来了一个男孩。  
 1. 【[来阵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_chen_zz.md#来阵子)】`lae2 chen6 zz` <sup>[如皋]</sup> 孕妇临产的阵痛发生。  
 1. 【[来潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_cho.md#来潮)】`lae2 cho2` <sup>[如东]</sup> 妇女来月经。  
 1. 【[来得快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_deh_kuae.md#来得快)】`lae2 deh kuae5` <sup>[兴化]</sup> ① 速度高，行路所需时问短：（李三）言下之意也很清楚：水龙～，是因为他没命的飞跑。（汪曾祺《故里杂记》） ② 谓时光易逝：……忽然又听见改了日期，更比七月里～……（《广陵潮》二） ③ 比预期的迅速：天暖面酵～（发酵快）。｜温室里酱黄子（曲霉）～。 ④ 也作“来快”。  
+1. 【[来得洎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_deh_qi.md#来得洎)】`lae2 deh qi6` <small>/lɛ2 təʔ t͡ɕʰʝ1/<sup>泰兴</sup></small> 能够赶上或顾及到。<sup>\[泰兴\]</sup>  
 1. 【[来得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_deh.md#来得)】`lae2 deh7` ① 显示具有某个方面的才干活能力<sup>\[泰州\]</sup>：他笔头儿～，在报纸上发表啊不少文章。<sup>\[泰州\]</sup> ② 显示某个方面情况<sup>\[泰州\]</sup>：他的口气～太大，你快点儿去把老板叫过来。<sup>\[泰州\]</sup>  
 1. 【[来家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_ga.md#来家)】`lae2 ga1` <sup>[兴化]</sup> （西部和北部少数乡村语）回家：姑娘～。  
 1. 【[来隔得<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_geh_deh_r.md#来隔得<sub>儿</sub>)】`lae2 geh7 deh r` <sup>[泰县]</sup> 等一会儿：我～就去。  
@@ -166,31 +167,37 @@
 1. 【[来快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_kuae.md#来快)】`lae2 kuae5` <small>/lɛ2 kʰuɛ5/<sup>兴化</sup>, /lɛ2 kʰuɛ5/<sup>如皋</sup></small> ① 来了机会。<sup>\[如皋\]</sup> ② 乘机得好处。<sup>\[如皋\]</sup> ③ 生长快<sup>\[兴化\]</sup>：温室育秧～。<sup>\[兴化\]</sup> ④ 收效快。<sup>\[兴化\]</sup>  
 1. 【[来来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_lae.md#来来)】`lae2 lae` <sup>[兴化]</sup> 渐渐地，或经过一段时间：才下乡生活不习惯，～也就好啊。  
 1. 【[来历](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_lieh.md#来历)】`lae2 lieh8` <sup>[如东]</sup> 原来的历史，来源。  
+1. 【[来路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_lv.md#来路)】`lae2 lv` <small>/lɛ2 lu/<sup>泰兴</sup></small> 来源；来历。多指经济、人力的出处。<sup>\[泰兴\]</sup>  
 1. 【[来路货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_lv_hu.md#来路货)】`lae2 lv hu5` <sup>[兴化]</sup> ① 进口货。 ② 来自产地或集散地的货。  
 1. 【[来路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_lv.md#来路)】`lae2 lv6` <sup>[如东]</sup> 来历：这个人～不清。  
 1. 【[来路货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_lv_hu.md#来路货)】`lae2 lv6 hu5` <sup>[如皋]</sup> 进口货。  
 1. 【[来年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_nin.md#来年)】`lae2 nin2` <sup>[如东]</sup> 明年。  
 1. 【[来牌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_pae_r.md#来牌<sub>儿</sub>)】`lae2 pae2 r` 打牌  
+1. 【[来派](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_pae.md#来派)】`lae2 pae5` <small>/lɛ2 pʰɛ5/<sup>泰兴</sup></small> 来去，缘由。<sup>\[泰兴\]</sup>  
 1. 【[来脾家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_pi_jia.md#来脾家)】`lae2 pi2 jia1` <sup>[如皋]</sup> 发脾气。  
 1. 【[来气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_qi.md#来气)】`lae2 qi5` <small>/lɛ2 t͡ɕʰi5/<sup>兴化</sup>, /lɛ2 t͡ɕʰʝ5/<sup>如皋</sup>, /ne2 t͡sʰɿ5/<sup>泰县</sup></small> 生气。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：孙权从骨头眼里～<sup>\[兴化\]</sup>｜大耳贼！你嘴里说什么？（扬二《甘露寺相婿》）<sup>\[兴化\]</sup>｜小张最会～。<sup>\[泰县\]</sup>｜犯不着为这种活小人～。<sup>\[泰州\]</sup>  
 1. 【[来腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_qian.md#来腔)】`lae2 qian1` <sup>[如东]</sup> 开始说话。  
 1. 【[来钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_qin.md#来钱)】`lae2 qin2` <small>/lɛ2 t͡ɕʰiɪ̃2/<sup>兴化</sup></small> ① 打牌时要付钞票。<sup>\[如东\]</sup> ② 赚钱<sup>\[兴化\]</sup>：早几年开饭店最～。<sup>\[兴化\]</sup> ③ 赌钱<sup>\[兴化\]</sup>：打扑克～。<sup>\[兴化\]</sup> ④ 某项商品利润很高活某项职业赚钱容易<sup>\[泰州\]</sup>：你不要看不起他这个收荒货的花子交易，骨子里头～。<sup>\[泰州\]</sup> ⑤ 赌钱，打扑克、打麻将时输家按照约定支付现炒<sup>\[泰州\]</sup>：你俫打啊玩玩不要紧，不能～。<sup>\[泰州\]</sup>  
-1. 【[来去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_qy.md#来去)】`lae2 qy5` <small>/lɛ2 t͡ɕʰy5/<sup>兴化</sup>, /lɛ2 t͡ɕʰy5/<sup>如皋</sup></small> ① 过来过去。比喻差错。<sup>\[如东\]</sup>：他说的跟你说的有～。<sup>\[如东\]</sup> ② 差别<sup>\[如皋\]</sup>：彼此的条件～不大。<sup>\[如皋\]</sup> ③ 交往<sup>\[如皋\]</sup>：共～、～大（交往的数目大）。<sup>\[如皋\]</sup> ④ 重大变故、折磨<sup>\[如皋\]</sup>：他身子太玄，禁不起～。<sup>\[如皋\]</sup> ⑤ 指差距、出入<sup>\[东台\]</sup>：粮价月头月尾～不大。<sup>\[东台\]</sup> ⑥ 出入<sup>\[兴化\]</sup>：账目轧下来有一。<sup>\[兴化\]</sup> ⑦ 往来<sup>\[兴化\]</sup>：姓张的，我跟你没得这吖大的～啊！<sup>\[兴化\]</sup> ⑧ 价格浮动的上限和下限<sup>\[泰州\]</sup>：这桌菜要是放吖家里弄，有头二百块钱的～，就是人要忙吖点儿。<sup>\[泰州\]</sup>  
+1. 【[来去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_qy.md#来去)】`lae2 qy5` <small>/lɛ2 t͡ɕʰy5/<sup>兴化</sup>, /lɛ2 t͡ɕʰy5/<sup>如皋</sup>, /lɛ2 t͡ɕʰy/<sup>泰兴</sup></small> ① 过来过去。比喻差错。<sup>\[如东\]</sup>：他说的跟你说的有～。<sup>\[如东\]</sup> ② 差别<sup>\[如皋\]</sup>：彼此的条件～不大。<sup>\[如皋\]</sup> ③ 交往，往来<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：共～、～大（交往的数目大）。<sup>\[如皋\]</sup>｜姓张的，我跟你没得这吖大的～啊！<sup>\[兴化\]</sup>｜我同他没得个～<sup>\[泰兴\]</sup> ④ 重大变故、折磨<sup>\[如皋\]</sup>：他身子太玄，禁不起～。<sup>\[如皋\]</sup> ⑤ 指差距、出入<sup>\[东台\]</sup><sup>\[泰兴\]</sup><sup>\[兴化\]</sup>：粮价月头月尾～不大。<sup>\[东台\]</sup>｜我离他家只有里把的～<sup>\[泰兴\]</sup>｜账目轧下来有～。<sup>\[兴化\]</sup> ⑥ 价格浮动的上限和下限<sup>\[泰州\]</sup>：这桌菜要是放吖家里弄，有头二百块钱的～，就是人要忙吖点儿。<sup>\[泰州\]</sup> ⑦ 来由、道理<sup>\[泰兴\]</sup>  
 1. 【[来人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_ren.md#来人)】`lae2 ren2` <sup>[兴化]</sup> ① 在场的或曾经到过现场的人：谚曰，船舱不漏针，失物数～。 ② 旧称中介人。 ③ 也称“来手人”。  
 1. 【[来人到客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_ren_do_keh.md#来人到客)】`lae2 ren2 do5 keh7` <sup>[兴化]</sup> 来了亲朋好友或其他客人：～的不无要招待一番。也说“人来客到”。  
 1. 【[来人吃来物](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_ren_qieh_lae.md#来人吃来物)】`lae2 ren2 qieh7 lae2 veh8` <sup>[兴化]</sup> 用客人带来的东西招特客人。  
+1. 【[来人吃来物](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_ren_qieh_lae.md#来人吃来物)】`lae2 ren2 qieh7 lae2 veh8` <small>/lɛ2 ɻəŋ2 t͡ɕʰiəʔ7 lɛ2 ʋəʔ8/<sup>泰兴</sup></small> 谓招待客人时的餐品是客人带来的。客套话。<sup>\[泰兴\]</sup>  
 1. 【[来神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_shen.md#来神)】`lae2 shen2` <small>/lɛ2 sən2/<sup>兴化</sup></small> ① 因受某种刺激而兴奋<sup>\[兴化\]</sup>：正在为难，对过有人喊卖鸡。皮五辣子～了<sup>\[兴化\]</sup>｜我去买鸡。（《皮五辣子》三）<sup>\[兴化\]</sup> ② 因对某事感到兴趣而呈精神振奋状态<sup>\[泰州\]</sup>：他听到赌钱就～，哪有心肠陪你吃饭吖。<sup>\[泰州\]</sup>  
 1. 【[来手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_sheu.md#来手)】`lae2 sheu3` <sup>[兴化]</sup> ① 来人：东西交～带回。 ② 经手：“……北边一间空着，现在有人来租了，张媒婆的～”（《皮五辣子》一）  
+1. 【[来手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_sheu.md#来手)】`lae2 sheu3` <small>/lɛ2 ɕiɤɯ3/<sup>泰兴</sup></small> 犹来去、交往，或事情的背景、原由。<sup>\[泰兴\]</sup>：他到箇许投资办厂是什的～？<sup>\[泰兴\]</sup>  
 1. 【[来手人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_sheu_ren.md#来手人)】`lae2 sheu3 ren2` <sup>[兴化]</sup> 旧称“中介人”。  
 1. 【[来时光拉巴，去时赤条条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_shr_guan_la.md#来时光拉巴，去时赤条条)】`lae2 shr2 guan1 la1 ba1 qy5 shr2 cheh7 tio2 tio2` <sup>[东台]</sup> 劝人不要把名利地位等身外之物看得太重。  
 1. 【[来屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_shr.md#来屎)】`lae2 shr3` <small>/lɛ2 sɿ3/<sup>兴化</sup></small> ① 不自觉地将粪便拉在床上或衣服上。小孩又称“来㞎㞎”。<sup>\[兴化\]</sup> ② 大便失禁落在床上或裤子上。<sup>\[泰州\]</sup>  
 1. 【[来事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_shr.md#来事)】`lae2 shr6-1` <sup>[如东]</sup> 好，棒。  
-1. 【[来事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_shr.md#来事)】`lae2 shr6` <small>/lɛ2 sɿ6/<sup>兴化</sup>, /lɛ2 sɿ1/<sup>如皋</sup>, /ne2 sɿ1/<sup>泰县</sup></small> ① 满足<sup>\[如皋\]</sup>：这顿饭～。<sup>\[如皋\]</sup> ② 可羡<sup>\[如皋\]</sup>：真～！<sup>\[如皋\]</sup> ③ 另见“分门儿”。<sup>\[如皋\]</sup> ④ 好，能干，灵光。<sup>\[东台\]</sup> ⑤ 形容好、行<sup>\[兴化\]</sup>：春兰空调真～。<sup>\[兴化\]</sup> ⑥ 有本事<sup>\[泰县\]</sup>：这人家～。<sup>\[泰县\]</sup> ⑦ 很好<sup>\[泰州\]</sup>：这种事你都弄不好，不～。<sup>\[泰州\]</sup>｜这小伙～，这回考试又是全校第一。<sup>\[泰州\]</sup>  
+1. 【[来事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_shr.md#来事)】`lae2 shr6` <small>/lɛ2 sɿ6/<sup>兴化</sup>, /lɛ2 sɿ1/<sup>如皋</sup>, /lɛ2 sɿ1/<sup>泰兴</sup>, /ne2 sɿ1/<sup>泰县</sup></small> ① 满足<sup>\[如皋\]</sup>：这顿饭～。<sup>\[如皋\]</sup> ② 可羡<sup>\[如皋\]</sup>：真～！<sup>\[如皋\]</sup> ③ 另见“分门儿”。<sup>\[如皋\]</sup> ④ 好，能干，灵光。<sup>\[东台\]</sup> ⑤ 形容好、行<sup>\[兴化\]</sup>：春兰空调真～。<sup>\[兴化\]</sup> ⑥ 有本事<sup>\[泰县\]</sup>：这人家～。<sup>\[泰县\]</sup> ⑦ 很好<sup>\[泰州\]</sup>：这种事你都弄不好，不～。<sup>\[泰州\]</sup>｜这小伙～，这回考试又是全校第一。<sup>\[泰州\]</sup> ⑧ 行，好。<sup>\[泰兴\]</sup>：箇把刀用起来只叫个～<sup>\[泰兴\]</sup>  
 1. 【[来耍子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_shua_zz.md#来耍子)】`lae2 shua3 zz` <sup>[如皋]</sup> 礼貌语。临别约邀再来玩。  
 1. 【[来尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_suei.md#来尿)】`lae2 suei1` <sup>[兴化]</sup> 遗尿、尿床。  
+1. 【[来尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_suei.md#来尿)】`lae2 suei1` <small>/lɛ2 suəɪ1/<sup>泰兴</sup></small> 遗尿。多指小孩梦中尿床。故有“来尿宝，急急拱；格头打，那（罗）头拱”之童谣。<sup>\[泰兴\]</sup>  
 1. 【[来尿精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_suei_jien.md#来尿精)】`lae2 suei1 jien1` <sup>[兴化]</sup> （讽）经常尿床的孩子。也说“来尿龙”。  
 1. 【[来尿龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_suei_lon.md#来尿龙)】`lae2 suei1 lon2` <sup>[兴化]</sup> 见“来尿精”。  
 1. 【[来头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_teu.md#来头)】`lae2 teu` <sup>[如东]</sup> 来历。  
+1. 【[来头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_teu.md#来头)】`lae2 teu` <small>/lɛ2 tʰəɪ/<sup>泰兴</sup></small> 指人的身份、资历或背景；来由、原因。<sup>\[泰兴\]</sup>  
 1. 【[来头丑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_teu_cheu.md#来头丑)】`lae2 teu cheu3` ① 形容人举止不好，作风不好 ② 出生根子不好，泛指行为不端。<sup>\[如东\]</sup>：这个人～。<sup>\[如东\]</sup>  
 1. 【[来头失魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_teu_sheh_huen.md#来头失魂)】`lae2 teu2 sheh7 huen2` <sup>[东台]</sup> 匆匆忙忙走来，像失去灵魂样的丢三落四。  
 1. 【[来动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_ton.md#来动)】`lae2 ton` 开始出现某种萌芽状态<sup>\[泰州\]</sup>：他才来的几个月表现还说得过去，最近像是有点儿～吖唻，你要注意点儿。<sup>\[泰州\]</sup>｜这个人贪小便宜的老毛病就改不掉，这两天又～吖唻。<sup>\[泰州\]</sup>  
@@ -373,6 +380,7 @@
 1. 【[两不找](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_beh_zho.md#两不找)】`laen3 beh7 zho3` ① 钱货两清，谁也不差谁的。<sup>\[东台\]</sup> ② 双方达成交易以后，相互不要找钱<sup>\[泰州\]</sup>：苹果四块六一斤，四斤苹果十八块四，你把啊20块钱，你再拿两个苹果走，～，我吃点小亏，不谈唻。<sup>\[泰州\]</sup>  
 1. 【[两半个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_bun_gu.md#两半个)】`laen3 bun gu5` <sup>[兴化]</sup> 完整的东西一分为二，各为～：蛮好的大碗，一跌～。  
 1. 【[两般三样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_bun_saen_ian.md#两般三样)】`laen3 bun saen1 ian6` <sup>[兴化]</sup> 花样繁多：你要吃稀，他要吃干，～的烦死人。  
+1. 【[两般三样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_bun_saen_ian.md#两般三样)】`laen3 bun saen1 ian6` <small>/lɛ̃3 pʊ̃ ɕiɛ̃1 iɑŋ1/<sup>泰兴</sup></small> 不一样，不一致。<sup>\[泰兴\]</sup>：今天大家的服装要统一，不要～的<sup>\[泰兴\]</sup>  
 1. 【[两半个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_bun_gu.md#两半个)】`laen3 bun5 gu5` <sup>[泰州]</sup> 将一个完整的物体分成两个半个：剩吖一个苹果，切～，我俫个人半个。  
 1. 【[两半个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_bun_gu.md#两半个)】`laen3 bun5 gu5` <small>/lɛ̃3 pʊ̃5 kɤɯ5/<sup>泰兴</sup></small> 一个整体分成的各占二分之一的两个部分。<sup>\[泰兴\]</sup>  
 1. 【[两踩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_cae.md#两踩)】`laen3 cae3` <sup>[东台]</sup> 在两个方案比较中举棋不定：去不去工厂，我还在下～。  
@@ -387,13 +395,14 @@
 1. 【[两搭桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_daeh_qio.md#两搭桥)】`laen3 daeh7 qio2` <sup>[如皋]</sup> 有两段桥面的木桥或石桥，河心有一架桥桩。旧时农村常见。  
 1. 【[两顿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_den.md#两顿)】`laen3 den5` <sup>[如皋]</sup> 多指一日两餐。  
 1. 【[两滴水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_dieh_shuei.md#两滴水)】`laen3 dieh7 shuei3` <small>/lɛ̃3 tiɪʔ7 suəi3/<sup>兴化</sup>, /lẽ3 tiəʔ7 suei3/<sup>如皋</sup></small> ① （冫）：冰冷冲。<sup>\[如皋\]</sup> ② 汉字偏旁，形状是“冫”。<sup>\[兴化\]</sup>  
-1. 【[两点水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_din_shuei.md#两点水)】`laen3 din3 shuei3` <sup>[如皋]</sup> 见“两滴水”。  
+1. 【[两点水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_din_shuei.md#两点水)】`laen3 din3 shuei3` 汉字偏旁“冫”  
 1. 【[两间灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_gaen_zo.md#两间灶)】`laen3 gaen zo5` <sup>[如皋]</sup> 二口锅的灶。  
 1. 【[两个琵琶一个调——弹（谈）到一块啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_gu_pi_pa.md#两个琵琶一个调——弹（谈）到一块啊)】`laen3 gu pi2 pa2 ieh7 gu dio5 taen2 do5 ieh7 kuae5 a` <sup>[东台]</sup>   
 1. 【[两个肩膀㧏张嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_gu_jin_ban.md#两个肩膀㧏张嘴)】`laen3 gu5 jin1 ban gan1 zhan1 zuei3` <small>/lɛ̃3 kɤɯ5 t͡ɕĩ1 pɑŋ kɑŋ1 t͡sɑŋ1 t͡suəɪ3/<sup>泰兴</sup></small> 比喻没有谋生的本领；或谓手中空空如也，只吃饭不干活。贬义。<sup>\[泰兴\]</sup>  
 1. 【[两挂蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_gua_hae.md#两挂蟹)】`laen3 gua5 hae3` <small>/lɛ̃3 kua5 xɛ3/<sup>兴化</sup></small> ① 两手空空<sup>\[东台\]</sup>：他家毛脚女婿上门送的甚的礼呀？哈，～！（什么都没带）<sup>\[东台\]</sup> ② （戏）一双空手<sup>\[兴化\]</sup>：他这次看望丈母娘就带啊～。<sup>\[兴化\]</sup> ③ 比喻两手空空走亲访友<sup>\[泰州\]</sup>：这小伙头一回到丈人家里去，玩吖个～。人家当然要说他不懂规矩啊。<sup>\[泰州\]</sup>  
 1. 【[两下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ha.md#两下)】`laen3 ha6` <small>/lɛ̃3 xɑ1/<sup>泰兴</sup></small> 双方，两方面<sup>\[泰兴\]</sup>：～总不要讲经噢，都散吧<sup>\[泰兴\]</sup>  
 1. 【[两划](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_hua.md#两划)】`laen3 hua2` <sup>[兴化]</sup> 两不吃亏：你拿几斤旧书报换我这吖多的再生纸，～下来总合算。  
+1. 【[两划](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_hua.md#两划)】`laen3 hua2` <small>/lɛ̃3 xuɑ2/<sup>泰兴</sup></small> 彼此势均力敌，大致不相上下。<sup>\[泰兴\]</sup>：他们两人比拼，有个～唻。<sup>\[泰兴\]</sup>  
 1. 【[两疑两错](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_i_laen_cah.md#两疑两错)】`laen3 i2 laen3 cah7` <sup>[东台]</sup> 在疑惑、犹豫不决中一再错过机遇。  
 1. 【[两样心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ian_xien.md#两样心)】`laen3 ian6 xien1` <small>/lɛ̃3 iaŋ6 ɕin1/<sup>兴化</sup></small> ① 偏心。谚曰<sup>\[兴化\]</sup>：人无～，狗倒不吃屎啊。<sup>\[兴化\]</sup> ② 对人不能做到一视同仁<sup>\[泰州\]</sup>：当领导的做事要公，不能有～。<sup>\[泰州\]</sup>  
 1. 【[两用衫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ion_shaen.md#两用衫)】`laen3 ion6 shaen1` <small>/lɛ̃3 iɔŋ1 ɕiɛ̃1/<sup>泰兴</sup></small> 春秋皆宜、正反都可穿的便服。<sup>\[泰兴\]</sup>  
@@ -411,6 +420,7 @@
 1. 【[两眼抹黑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ngaen_maeh_heh.md#两眼抹黑)】`laen3 ngaen3 maeh8 heh7` <sup>[泰州]</sup> 两眼一扫而过，前方一片黑暗，指新来之人对所有情况都不了解：刚调过来的时候，～，一个人都认不得，想买包香烟，都不晓得要到哪块买。  
 1. 【[两眼漆黑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ngaen_qieh_heh.md#两眼漆黑)】`laen3 ngaen3 qieh7 heh7` <sup>[兴化]</sup> 形容对周围的人和事不了解：“……我是个异乡人，走此路过，～，举目无亲……。”（《火烧赤壁》六）  
 1. 【[两片瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_pin_va.md#两片瓦)】`laen3 pin5 va3` <sup>[兴化]</sup> 旧式棉鞋，面子由两片从中缝合：这双老式～棉鞋放在一张橱子的底部，被一块布挡着。（毕飞宇：《上海往事》）  
+1. 【[两片瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_pin_va.md#两片瓦)】`laen3 pin5 va3` <small>/lɛ̃3 pʰĩ5 uɑ3/<sup>泰兴</sup></small> 鞋面（上帮）由两大片鞋面缝合的老式棉鞋的俗称。<sup>\[泰兴\]</sup>  
 1. 【[两便](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_pin.md#两便)】`laen3 pin6` <sup>[如东]</sup> 双方都方便。  
 1. 【[两便](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_pin.md#两便)】`laen3 pin6` <small>/lɛ̃3 pʰĩ1/<sup>泰兴</sup></small> 分手，再不往来；有时作客套话，彼此方便之意。<sup>\[泰兴\]</sup>  
 1. 【[两碰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_pon.md#两碰)】`laen3 pon5` <small>/lɛ̃3 pʰoŋ5/<sup>兴化</sup></small> ① 成败未知，难以料定。<sup>\[东台\]</sup> ② 两可之间，结果难料：他的考试成绩不理想，能不能录取～。｜……赌钱是～，能赢又能输。（《皮五辣子》四）<sup>\[兴化\]</sup> ③ 两可，可能这样，可能那样，结果难以预测<sup>\[泰州\]</sup>：这件事我同你说说看看，他是否答应～。<sup>\[泰州\]</sup>  
@@ -422,6 +432,7 @@
 1. 【[两手打时——没章程](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_sheu_da_shr.md#两手打时——没章程)】`laen3 sheu3 da3 shr2 meh8 zhan1 chen` <sup>[东台]</sup>   
 1. 【[两双半](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_shuan_bun.md#两双半)】`laen3 shuan1 bun5` <sup>[兴化]</sup> 手的隐语：他见到热气腾腾的包子，筷子也不用，直接玩～。  
 1. 【[两头不着实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_teu_beh_chah.md#两头不着实)】`laen3 teu2 beh7 chah8 sheh8` <sup>[兴化]</sup> 即两头落空：他辞啊原来的工作，新的工作又不曾找到，弄个～。  
+1. 【[两头不着实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_teu_beh_chah.md#两头不着实)】`laen3 teu2 beh7 chah8 sheh8` <small>/lɛ̃3 tʰəɪ2 pəʔ7 t͡sʰɑʔ8 səʔ8/<sup>泰兴</sup></small> 两边都不落实，都悬而未决。<sup>\[泰兴\]</sup>：驼子跌跟头，～<sup>\[泰兴\]</sup>  
 1. 【[两头春](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_teu_chuen.md#两头春)】`laen3 teu2 chuen1` <sup>[东台]</sup> 即农历一年中有两个立春。当年春节在立春前，来年春节在下一个立春后，即～。民谚“两春夹一冬，麻布好遮风”（一般气候较暖和）。  
 1. 【[两头大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_teu_da.md#两头大)】`laen3 teu2 da6` <sup>[兴化]</sup> 旧称妇女做人外室，表面上和正妻不分大小：新嫂嫂还一心要嫁他，说明做～。（《官场现形记》八）也说“两头做大”。  
 1. 【[两头见星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_teu_jin_xien.md#两头见星)】`laen3 teu2 jin5 xien1` <sup>[如皋]</sup> 起早摸黑很辛苦。  
@@ -1346,8 +1357,10 @@
 1. 【[连裆码子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_dan_ma_zz.md#连裆码子)】`lin2 dan ma3 zz` <sup>[兴化]</sup> 贬称同伙的人：他俫两个人是～，一个唱红脸，一个唱白脸。  
 1. 【[连裆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_dan.md#连裆)】`lin2 dan1` <sup>[如东]</sup> 互相勾结、包庇，叫做连裆：他俫是～的。  
 1. 【[连裆裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_dan_kv.md#连裆裤)】`lin2 dan1 kv5` <sup>[如东]</sup> 裤裆不开口的裤子。  
+1. 【[连裆裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_dan_kv.md#连裆裤)】`lin2 dan1 kv5` <small>/lĩ2 tɑŋ1 kʰu5/<sup>泰兴</sup></small> 裆里不开口的裤子，与开裆裤相对。<sup>\[泰兴\]</sup>  
 1. 【[连凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_den.md#连凳)】`lin2 den5` <sup>[如皋]</sup> 一种精制高凳，面料厚，镶牙板。  
 1. 【[连二三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_er_saen.md#连二三)】`lin2 er saen1` <sup>[兴化]</sup> 紧接着：他遇见熟人～的打招呼。｜一个人举手，其他人～的跟吖把手举起来。也说“连忙三”。  
+1. 【[连二顿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_er_den.md#连二顿)】`lin2 er6 den5` <small>/lĩ2 ɚ1 təŋ5/<sup>泰兴</sup></small> 谓相隔时间不长连续吃了两顿。<sup>\[泰兴\]</sup>  
 1. 【[连二三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_er_saen.md#连二三)】`lin2 er6 saen1` <sup>[泰州]</sup> 连续不停地重复同一个动作：老丈人问他家里哿有酒，他～的说“有有有”。｜他来啊火，上去～的攉咖这家伙几个大嘴巴子。  
 1. 【[连二三的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_er_saen_dii.md#连二三的)】`lin2 er6 saen1 dii` <sup>[泰县]</sup> 连续：～来啊好几个人。  
 1. 【[连範水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_faen_shuei.md#连範水)】`lin2 faen shuei3` <sup>[如皋]</sup> 一範水踏完，接着再踏。  
@@ -1357,21 +1370,23 @@
 1. 【[连沷钉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_feh_dien_r.md#连沷钉<sub>儿</sub>)】`lin2 feh8 dien1 r` <sup>[如皋]</sup> 两头尖的竹钉或铁钉，又叫鼻。  
 1. 【[连麸倒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_fv_do.md#连麸倒)】`lin2 fv do3` <sup>[兴化]</sup> ① 小麦带水磨成糊状，用来制作面食。 ② 加工麦粉不去除麸皮，而是混在一起成“统面”。‖ ③ 也称“一条龙”。  
 1. 【[连家店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_ga_din.md#连家店)】`lin2 ga din5` <sup>[兴化]</sup> 住家和营业间连在一起的小型店铺。  
-1. 【[连枷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_gae.md#连枷)】`lin2 gae1` ① 农具。由连枷柄和连枷爪儿组成。连枷柄为一根竹竿。连枷爪儿，也叫连枷子儿，由三根或四根长条形竹片拼在一起，似一块板，安装在连枷柄上。操作人员上下挥动连枷柄，使连枷爪儿旋转，拍打麦子、黄豆等，能把秸上的籽粒打下来。<sup>\[如东\]</sup> ② 农具，由一个长柄和一组竹条组成，用来拍打谷物，达到脱粒目的。<sup>\[东台\]</sup> ③ 脱粒用的农具，长柄一侧安装一个可以转动的长方形平竹条排，手持长柄转动竹排拍打铺在地上的谷物，使籽粒掉下来。<sup>\[泰州\]</sup>  
+1. 【[连枷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_gae.md#连枷)】`lin2 gae1` <small>/lĩ2 kɛ1/<sup>泰兴</sup></small> ① 农具。由连枷柄和连枷爪儿组成。连枷柄为一根竹竿。连枷爪儿，也叫连枷子儿，由三根或四根长条形竹片拼在一起，似一块板，安装在连枷柄上。操作人员上下挥动连枷柄，使连枷爪儿旋转，拍打麦子、黄豆等，能把秸上的籽粒打下来。<sup>\[如东\]</sup> ② 农具，由一个长柄和一组竹条组成，用来拍打谷物，达到脱粒目的。<sup>\[东台\]</sup> ③ 脱粒用的农具，长柄一侧安装一个可以转动的长方形平竹条排，手持长柄转动竹排拍打铺在地上的谷物，使籽粒掉下来。<sup>\[泰州\]</sup> ④ 由一个长柄和一组平排的竹条构成的农具，用来拍打谷物使脱粒。<sup>\[泰兴\]</sup>  
 1. 【[连根菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_gen_cae.md#连根菜)】`lin2 gen1 cae5` <sup>[兴化]</sup> 连根出售的小青菜。也称“漫青菜”。  
 1. 【[连根拔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_gen_paeh.md#连根拔)】`lin2 gen1 paeh8` <sup>[如东]</sup> 把植物的根从泥土中拔起来。比喻从根本上解决问题。  
 1. 【[连锅端](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_gu_dun.md#连锅端)】`lin2 gu1 dun1` <sup>[如东]</sup> 把锅中的饭吃光。比喻全部。  
+1. 【[连锅端](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_gu_dun.md#连锅端)】`lin2 gu1 dun1` <small>/lĩ2 kɤɯ1 tʊ̃1/<sup>泰兴</sup></small> 谓全部清除掉，彻底解决。<sup>\[泰兴\]</sup>  
 1. 【[连衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_i.md#连衣)】`lin2 i1` 在需要脱掉衣服时不脱掉衣服<sup>\[泰州\]</sup>：他萎啊没得命，下班家来～就上吖铺。<sup>\[泰州\]</sup>  
 1. 【[连衣裳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_i_shan.md#连衣裳)】`lin2 i1 shan` <sup>[如东]</sup> 缝衣服。  
 1. 【[连夜雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_ia_y.md#连夜雨)】`lin2 ia6 y3` <sup>[如皋]</sup> 见“接夜雨”。  
 1. 【[连月阴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_iuh_ien.md#连月阴)】`lin2 iuh8 ien1` <sup>[如皋]</sup> 整月的阴雨天。  
-1. 【[连家店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_jia_din.md#连家店)】`lin2 jia1 din5` <small>/lĩ2 t͡ɕia1 tĩ5/<sup>如皋</sup></small> ① 店与家连在一起的小商店。<sup>\[如皋\]</sup> ② 前店后住家，或前店后作坊。<sup>\[东台\]</sup>  
+1. 【[连家店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_jia_din.md#连家店)】`lin2 jia1 din5` <small>/lĩ2 t͡ɕia1 tĩ5/<sup>如皋</sup>, /lĩ2 t͡ɕiɑ1 tĩ5/<sup>泰兴</sup></small> ① 店与家连在一起的小商店。<sup>\[如皋\]</sup> ② 前店后住家，或前店后作坊。<sup>\[东台\]</sup> ③ 前面开店，后面住家，家店相连的店铺。<sup>\[泰兴\]</sup>  
 1. 【[连襟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_jien.md#连襟)】`lin2 jien` 姊妹丈夫之互称或合称。<sup>\[泰州\]</sup>  
 1. 【[连襟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_jien.md#连襟)】`lin2 jien1` ① 姐姐的丈夫和妹妹的丈夫之间的亲戚关系。<sup>\[如东\]</sup> ② 姐妹丈夫之间的相互称谓，也叫“姨夫”<sup>\[东台\]</sup>：他是我的～。<sup>\[东台\]</sup>  
 1. 【[连扣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_keu.md#连扣)】`lin2 keu1` <sup>[如东]</sup> 连裆：他俫是～的。  
 1. 【[连窠长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_ku_zhan.md#连窠长)】`lin2 ku1 zhan3` <sup>[兴化]</sup> 指初次受孕的母畜随着胎儿一齐生长。  
 1. 【[连码](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_ma.md#连码)】`lin2 ma3` <sup>[如东]</sup> 连裆。  
 1. 【[连忙三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_man_saen.md#连忙三)】`lin2 man saen1` <sup>[兴化]</sup> 见“连二三”。  
+1. 【[连毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_mo.md#连毛)】`lin2 mo2` <small>/lĩ2 mɔ2/<sup>泰兴</sup></small> 肉上有毛。<sup>\[泰兴\]</sup>：死lei杀猪匠，也不吃连毛猪子肉<sup>\[泰兴\]</sup>  
 1. 【[连毛吞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_mo_ten.md#连毛吞)】`lin2 mo2 ten1` <sup>[东台]</sup> 囫囵吞枣的意思。包括小鱼连刺、水果连皮吃下去。  
 1. 【[连牵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_qin.md#连牵)】`lin2 qin1` <sup>[如东]</sup> 连续地进行下去：事情安排啊不～。  
 1. 【[连翘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_qio.md#连翘)】`lin2 qio5` <sup>[如东]</sup> 术犀科植物连翘。  
@@ -1384,6 +1399,7 @@
 1. 【[连汤带水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_tan_dae_shuei.md#连汤带水)】`lin2 tan1 dae5 shuei3` <sup>[如皋]</sup> 见“连汤夹水”。  
 1. 【[连汤夹水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_tan_gaeh_shuei.md#连汤夹水)】`lin2 tan1 gaeh7 shuei3` <sup>[如皋]</sup> 全部汤水食物。  
 1. 【[连汤面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_tan_min.md#连汤面)】`lin2 tan1 min6` <sup>[如东]</sup> 煮面的一种方法。面条煮熟以后，不起锅，即加作料，称连汤面。这种面，汤腻，面软，有一种独特的口味。  
+1. 【[连头带尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_teu_dae_vei.md#连头带尾)】`lin2 teu2 dae5 vei3` <small>/lĩ2 tʰəɪ2 tɛ5 ʋəɪ3/<sup>泰兴</sup></small> 合计，总共；整个，全部。<sup>\[泰兴\]</sup>  
 1. 【[连头夹尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_teu_gaeh_vei.md#连头夹尾)】`lin2 teu2 gaeh7 vei3` <sup>[如皋]</sup> 包括一切，统算在内：他工作18整年，～算20年。  
 1. 【[连杌虎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_veh_hv.md#连杌虎)】`lin2 veh8 hv3` <sup>[兴化]</sup> 长方形小柜，外形像连在一起的两只方杌子。  
 1. 【[连珠炮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_zhv_po.md#连珠炮)】`lin2 zhv1 po5` <sup>[泰州]</sup> 说话一句接着一句，没有停顿：你慢吖点儿说，～样的，人家听不过来。  

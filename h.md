@@ -59,6 +59,7 @@
 1. 【[蝦蟆乌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ma_v_r.md#蝦蟆乌<sub>儿</sub>)】`ha2 ma2 v1 r` <small>/xa2 ma2 u1 ɚ/<sup>兴化</sup>, /xa2 ma2 ʋu˞1/<sup>如皋</sup></small> ① 蝌蚪。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup> ② 腮腺炎<sup>\[东台\]</sup>  
 1. 【[蝦蟆乌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ma_v_r.md#蝦蟆乌<sub>儿</sub>)】`ha2 ma2 v1 r, xia2 ma2 v1 r, ha1 ma2 v1 r` 蝌蚪  
 1. 【[还](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha.md#还)】`ha2` <sup>[东台]</sup> ① “还hae2”的口语音。 ② 勉强过得去：菜～可以。 ③ 居然：他～真的来了。  
+1. 【[还不曾会跑就想吖溜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_beh_cen_huei.md#还不曾会跑就想吖溜)】`ha2 beh cen2 huei6 po2 qieu6 xian3 nga lieu1` <small>/xɑ2 pəʔ t͡sʰəŋ2 xuəɪ1 pʰɔ2 t͡ɕʰiɤɯ1 ɕiɑŋ3 ŋa ləɪ1/<sup>泰兴</sup></small> 喻毫无基础、本领，就想办大事。溜，大步快走。<sup>\[泰兴\]</sup>  
 1. 【[哈巴郎当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ba_lan_dan.md#哈巴郎当)】`ha3 ba lan2 dan1` <sup>[泰县]</sup> 总共：我～就这几角钱。  
 1. 【[哈喇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_la.md#哈喇)】`ha3 la` <sup>[泰州]</sup> 蒙古语音译，指事情搞大了：他家小伙结婚本来只打算请四五桌人，哪晓得把人一排，～啊唻，没得20桌弄不下来。｜我俫厂里发年终奖，就是个人发1000块，3000多个人发咖子，也～啊唻。  
 1. 【[𤹉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha.md#𤹉)】`ha3` <sup>[如皋]</sup> （借字）胡涂，不精明。  
@@ -1609,12 +1610,15 @@
 1. 【[还](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen.md#还)】`huaen2` <sup>[东台]</sup> ① ［此处为动词］ ② 返回：～乡｜～原。 ③ 归还：～债｜偿～。 ④ 回报别人对自己的行动：～琴（把刚刚学习的琴法在老师面前演练一遍）。  
 1. 【[还本](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_ben.md#还本)】`huaen2 ben3` <sup>[东台]</sup> 归还借款的本金：借钱要按期～付息。  
 1. 【[还潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_cho.md#还潮)】`huaen2 cho2` <sup>[如皋]</sup> 见“转潮”。  
+1. 【[还复](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_foh.md#还复)】`huaen2 foh` <small>/xuɛ̃2 fɔʔ/<sup>泰兴</sup></small> 回复，回答。<sup>\[泰兴\]</sup>  
 1. 【[还魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_huen.md#还魂)】`huaen2 huen2` 死而复生。<sup>\[如东\]</sup><sup>\[东台\]</sup>：借尸～。<sup>\[东台\]</sup>  
 1. 【[还魂饱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_huen_bo.md#还魂饱)】`huaen2 huen2 bo3` <sup>[如皋]</sup> 先是觉得饿。后来反觉得饱了。  
 1. 【[还魂疼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_huen_ten.md#还魂疼)】`huaen2 huen2 ten2` <sup>[如皋]</sup> 受伤的当时不觉疼，过后疼。  
 1. 【[还魂胀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_huen_zhan.md#还魂胀)】`huaen2 huen2 zhan5` <sup>[如皋]</sup> 吃时不胀，过后腹胀难受。  
-1. 【[还阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_ian.md#还阳)】`huaen2 ian2` <small>/xuẽ2 iã2/<sup>如皋</sup></small> ① 气温升高。<sup>\[如东\]</sup> ② 见“和暴”（寒潮过去，天气转好、转暖。）<sup>\[如皋\]</sup> ③ 转暖<sup>\[如皋\]</sup>：焐啊半大天，手才～吖。<sup>\[如皋\]</sup> ④ 本指冻僵的人身上有了暖气，或阳气不旺的人精神开始振奋。也喻指从糊涂转为清醒。<sup>\[东台\]</sup>  
+1. 【[还阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_ian.md#还阳)】`huaen2 ian2` <small>/xuẽ2 iã2/<sup>如皋</sup>, /xuɛ̃2 iɑŋ2/<sup>泰兴</sup></small> ① 气温升高。<sup>\[如东\]</sup> ② 见“和暴”（寒潮过去，天气转好、转暖。）<sup>\[如皋\]</sup> ③ 转暖<sup>\[如皋\]</sup>：焐啊半大天，手才～吖。<sup>\[如皋\]</sup> ④ 本指冻僵的人身上有了暖气，或阳气不旺的人精神开始振奋。也喻指从糊涂转为清醒。<sup>\[东台\]</sup> ⑤ 迷信说人死而复活。犹还魂。<sup>\[泰兴\]</sup>  
 1. 【[还愿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_iun.md#还愿)】`huaen2 iun6` <sup>[东台]</sup> 求神保佑的人实践对神许下的心愿。  
+1. 【[还愿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_iun.md#还愿)】`huaen2 iun6` <small>/xuɛ̃2 yʊ̃1/<sup>泰兴</sup></small> 了还心愿。求神保佑的人落实对神许下的心愿。<sup>\[泰兴\]</sup>  
+1. 【[还家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_jia.md#还家)】`huaen2 jia1` <small>/xuɛ̃2 t͡ɕiɑ1/<sup>泰兴</sup></small> 迷信说人死了之后不久灵魂回家看望，死者家属则虔诚祭祀。<sup>\[泰兴\]</sup>  
 1. 【[还价](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_jia.md#还价)】`huaen2 jia5` <sup>[东台]</sup> 买方因嫌货价高而说出自己能够接受的价格。  
 1. 【[还口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_keu.md#还口)】`huaen2 keu3` <sup>[东台]</sup> 也叫还嘴，就是回嘴：面对不明真相的群众，执勤人员坚持骂不～，打不还手。  
 1. 【[还门亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_men_qien.md#还门亲)】`huaen2 men2 qien1` <sup>[兴化]</sup> 旧时姑表兄妹结亲：宜华却暗打主意，很想做这个～—姑方女儿嫁给舅为媳。（马春阳：《月朗和她的如舅们》）  

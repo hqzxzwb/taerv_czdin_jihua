@@ -1807,9 +1807,8 @@
 1. 【[瞒眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_ngaen.md#瞒眼)】`mun2 ngaen3` <sup>[如东]</sup> 工具。椭圆形或长方形，龟壳或竹板制，用以遮挡牛眼睛。也叫牛眼罩子。  
 1. 【[瞒骗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_pin.md#瞒骗)】`mun2 pin5` <sup>[东台]</sup> 对人说假话进行欺骗。  
 1. 【[絻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun.md#絻)】`mun2` <sup>[如皋]</sup> 相连无隙。～裆裤子：裆下不开放的裤子。与“开裆裤子”相对。  
-1. 【[絻裆裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_dan_kv.md#絻裆裤)】`mun2 dan1 kv5` <sup>[东台]</sup> 裤裆不开的裤子。  
+1. 【[絻裆裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_dan_kv.md#絻裆裤)】`mun2 dan1 kv5` <small>/mʊ̃2 tɑŋ1 kʰu5/<sup>泰兴</sup></small> 裤裆不开的裤子。<sup>\[东台\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>  
 1. 【[鞔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun.md#鞔)】`mun2` <small>/mũ2/<sup>兴化</sup>, /mʊ̃2/<sup>如皋</sup></small> ① 遮蔽覆着<sup>\[如皋\]</sup>：～二胡、～鼓、～眼睛。<sup>\[如皋\]</sup> ② 蒙上<sup>\[兴化\]</sup>：拿块皮把鞋头～起来。<sup>\[兴化\]</sup>｜～档裤——跟“开档裤”相对。<sup>\[兴化\]</sup>  
-1. 【[鞔裆裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_dan_kv.md#鞔裆裤)】`mun2 dan1 kv5` <sup>[泰州]</sup> 裤裆缝起的裤子。  
 1. 【[鞔鞔网<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_mun_van_r.md#鞔鞔网<sub>儿</sub>)】`mun2 mun2 van3 r` <sup>[如皋]</sup> 蛛网。见“罗罗网儿”。  
 1. 【[鞔眼睛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_ngaen_jien.md#鞔眼睛)】`mun2 ngaen3 jien` <sup>[如皋]</sup> ① 蒙住眼睛。 ② 见“揞眼睛”。与“遮眼睛”有所不同，是贴近眼睛遮。  
 1. 【[鞔头网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mun_teu_van.md#鞔头网)】`mun2 teu2 van3` <sup>[东台]</sup> 蜘蛛网：老房子结咖许多～。又名“罗罗网”。  
