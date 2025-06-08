@@ -841,6 +841,8 @@
 1. 【[恩实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_sheh.md#恩实)】`ngen1 sheh8` <sup>[如东]</sup> 家中比较富裕  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen.md#□)】`ngen2` <small>/ŋəŋ2/<sup>如皋</sup></small> ① 推 ② 蛮横顶撞：这个伢儿就会玩～，其实没得用。<sup>\[如皋\]</sup> ③ 违逆，不听从<sup>\[泰州\]</sup>：这小伙～吖没得命。<sup>\[泰州\]</sup>  
 1. 【[□大筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_da_jien.md#□大筋)】`ngen2 da6 jien1` <sup>[如皋]</sup> 蛮横顶撞的脾性，或指人。  
+1. 【[□二邪三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_er_qia_saen.md#□二邪三)】`ngen2 er qia3 saen1` <small>/ŋəŋ2 ɚ t͡ɕʰiɑ3 ɕiɛ̃1/<sup>泰兴</sup></small> 谓语气中含有反抗、不服的言词。<sup>\[泰兴\]</sup>  
+1. 【[□儿骨咚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_er_gueh_don.md#□儿骨咚)】`ngen2 er gueh7 don1` <small>/ŋəŋ2 ɚ kuəʔ7 tɔŋ1/<sup>泰兴</sup></small> 谓语气中含有表示反对、辩驳的言词。<sup>\[泰兴\]</sup>：他不但不听劝说，嘴里还～的。<sup>\[泰兴\]</sup>  
 1. 【[□话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_hua.md#□话)】`ngen2 hua6` <sup>[如皋]</sup> 蛮横顶撞的话话。  
 1. 【[□头刍脑的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_teu_chv_no.md#□头刍脑的)】`ngen2 teu2 chv2 no3 dii` <sup>[如皋]</sup> 蛮横顶撞的脾性。  
 1. 【[𢞴大筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_da_jien.md#𢞴大筋)】`ngen2 da6 jien1` <sup>[东台]</sup> 形容人执拗，不可理喻。  

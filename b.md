@@ -448,6 +448,7 @@
 1. 【[𪙍𪙍的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_bah_dii.md#𪙍𪙍的)】`bah7 bah7 dii` <sup>[如皋]</sup> 无可奈何地，只好：他没处抵赖啊，～承认事实。  
 1. 【[𪙍𪙍嘴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_bah_zuei_r.md#𪙍𪙍嘴<sub>儿</sub>)】`bah7 bah7 zuei3 r` <sup>[如东]</sup> 帆船上的一种大滑车。滑车的一侧有一块活动铁板，可以打开和关闭，像嘴一样。这种工具叫做𪙍𪙍嘴儿。  
 1. 【[𪙍咖嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_ga_jy.md#𪙍咖嘴)】`bah7 ga jy3` <sup>[泰县]</sup> 无话可说。  
+1. 【[𪙍烟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_in.md#𪙍烟)】`bah7 in1` <small>/pɑʔ7 ĩ1/<sup>泰兴</sup></small> 抽烟。尤其仅以口衔而不吸入烟雾的抽烟方式。有时是客套话。<sup>\[泰兴\]</sup>：你坐下来，先𪙍上袋烟再说<sup>\[泰兴\]</sup>｜弄支烟𪙍咖子<sup>\[泰兴\]</sup>  
 1. 【[𪙍嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_jy.md#𪙍嘴)】`bah7 jy3` <sup>[如皋]</sup> ① 舌位低声带不振动，双唇猛张的动作及发出的声音。 ② 借指捣鬼。附耳细语。 ③ 表示无可奈何。  
 1. 【[𪙍嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_zuei.md#𪙍嘴)】`bah7 zuei3` <sup>[如东]</sup> 嘴唇一张一合的样子：鲫鱼～。  
 1. 【[傍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ban.md#傍)】`ban1` <small>/pã1/<sup>如皋</sup></small> ① 字的偏旁<sup>\[如皋\]</sup>：单人～、火～、祁～、跃土～等。<sup>\[如皋\]</sup> ② 将近<sup>\[如皋\]</sup>：～天亮、～暗儿。<sup>\[如皋\]</sup>  

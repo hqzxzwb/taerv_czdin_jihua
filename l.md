@@ -944,6 +944,7 @@
 1. 【[篱笆匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_ba_qian.md#篱笆匠)】`li2 ba1 qian6` <sup>[如东]</sup> 建造和修理茅屋的小手工业者。  
 1. 【[篱笆嶂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_ba_zhan.md#篱笆嶂)】`li2 ba1 zhan5` <sup>[如东]</sup> 芦苇编成的建筑材料，长方形，覆盖在茅屋的顶面上或竖立在房屋周围做墙壁。  
 1. 【[娌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li.md#娌)】`li3` <sup>[东台]</sup> 弟之妻谓之～：妯～（兄弟之妻的合称）。  
+1. 【[李长江看报，一塌糊涂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_chan_jian_kun.md#李长江看报，一塌糊涂)】`li3 chan2 jian1 kun5 bo5 ieh7 taeh7 hv2 tv2` <small>/lʝ3 t͡sʰɑŋ2 t͡ɕiɑŋ1 kʰʊ̃5 pɔ5 iʔ7 tʰæʔ7 fʋ2 tʰu2/<sup>泰兴</sup></small> 李长江，民国时国民党驻守泰州的军官，据传识字极少，看报纸是装门面，还斥责报纸印得一塌糊涂，故有此说。喻杂乱无章，乱七八糟。<sup>\[泰兴\]</sup>  
 1. 【[李树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_shv.md#李树)】`li3 shv6` <sup>[如东]</sup> 蔷薇科植物李树，落叶乔木。  
 1. 【[李铁拐的葫芦——不晓得卖的甚的药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_tih_guae_dii.md#李铁拐的葫芦——不晓得卖的甚的药)】`li3 tih7 guae3 dii hv2 lv beh7 xio3 deh7 mae6 dii shen nii iah8` <sup>[东台]</sup>   
 1. 【[理不到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_beh_do.md#理不到)】`li3 beh7 do5` <sup>[东台]</sup> 记不得，顾不上：医生关照我锻炼，可我病一好就～啊。  
@@ -1357,7 +1358,7 @@
 1. 【[连裆码子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_dan_ma_zz.md#连裆码子)】`lin2 dan ma3 zz` <sup>[兴化]</sup> 贬称同伙的人：他俫两个人是～，一个唱红脸，一个唱白脸。  
 1. 【[连裆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_dan.md#连裆)】`lin2 dan1` <sup>[如东]</sup> 互相勾结、包庇，叫做连裆：他俫是～的。  
 1. 【[连裆裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_dan_kv.md#连裆裤)】`lin2 dan1 kv5` <sup>[如东]</sup> 裤裆不开口的裤子。  
-1. 【[连裆裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_dan_kv.md#连裆裤)】`lin2 dan1 kv5` <small>/lĩ2 tɑŋ1 kʰu5/<sup>泰兴</sup></small> 裆里不开口的裤子，与开裆裤相对。<sup>\[泰兴\]</sup>  
+1. 【[连裆裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_dan_kv.md#连裆裤)】`lin2 dan1 kv5` <small>/lĩ2 tɑŋ1 kʰu5/<sup>泰兴</sup></small> 裆里不开口的裤子，与开裆裤相对。比喻互相勾结、包庇叫穿～。<sup>\[泰兴\]</sup>  
 1. 【[连凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_den.md#连凳)】`lin2 den5` <sup>[如皋]</sup> 一种精制高凳，面料厚，镶牙板。  
 1. 【[连二三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_er_saen.md#连二三)】`lin2 er saen1` <sup>[兴化]</sup> 紧接着：他遇见熟人～的打招呼。｜一个人举手，其他人～的跟吖把手举起来。也说“连忙三”。  
 1. 【[连二顿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_er_den.md#连二顿)】`lin2 er6 den5` <small>/lĩ2 ɚ1 təŋ5/<sup>泰兴</sup></small> 谓相隔时间不长连续吃了两顿。<sup>\[泰兴\]</sup>  
@@ -1368,7 +1369,8 @@
 1. 【[连房屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_fan_oh.md#连房屋)】`lin2 fan2 oh7` <sup>[如东]</sup> 房屋的一种结构形式。住房与厨房相连通，叫连房屋。  
 1. 【[连房灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_fan_zo.md#连房灶)】`lin2 fan2 zo5` <sup>[东台]</sup> 设在堂屋内某一角的灶台。  
 1. 【[连沷钉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_feh_dien_r.md#连沷钉<sub>儿</sub>)】`lin2 feh8 dien1 r` <sup>[如皋]</sup> 两头尖的竹钉或铁钉，又叫鼻。  
-1. 【[连麸倒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_fv_do.md#连麸倒)】`lin2 fv do3` <sup>[兴化]</sup> ① 小麦带水磨成糊状，用来制作面食。 ② 加工麦粉不去除麸皮，而是混在一起成“统面”。‖ ③ 也称“一条龙”。  
+1. 【[连麸倒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_fv_do.md#连麸倒)】`lin2 fv do3` <sup>[兴化]</sup> ① 小麦带水磨成糊状，用来制作面食。 ② 加工麦粉不去除麸皮，而是混在一起成“统面”。也称“一条龙”。  
+1. 【[连麸倒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_fv_do.md#连麸倒)】`lin2 fv do3` <small>/lĩ2 fʋ tɔ3/<sup>泰兴</sup></small> 谓粉碎小麦时连麸皮轧在一起的麦粉。<sup>\[泰兴\]</sup>  
 1. 【[连家店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_ga_din.md#连家店)】`lin2 ga din5` <sup>[兴化]</sup> 住家和营业间连在一起的小型店铺。  
 1. 【[连枷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_gae.md#连枷)】`lin2 gae1` <small>/lĩ2 kɛ1/<sup>泰兴</sup></small> ① 农具。由连枷柄和连枷爪儿组成。连枷柄为一根竹竿。连枷爪儿，也叫连枷子儿，由三根或四根长条形竹片拼在一起，似一块板，安装在连枷柄上。操作人员上下挥动连枷柄，使连枷爪儿旋转，拍打麦子、黄豆等，能把秸上的籽粒打下来。<sup>\[如东\]</sup> ② 农具，由一个长柄和一组竹条组成，用来拍打谷物，达到脱粒目的。<sup>\[东台\]</sup> ③ 脱粒用的农具，长柄一侧安装一个可以转动的长方形平竹条排，手持长柄转动竹排拍打铺在地上的谷物，使籽粒掉下来。<sup>\[泰州\]</sup> ④ 由一个长柄和一组平排的竹条构成的农具，用来拍打谷物使脱粒。<sup>\[泰兴\]</sup>  
 1. 【[连根菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_gen_cae.md#连根菜)】`lin2 gen1 cae5` <sup>[兴化]</sup> 连根出售的小青菜。也称“漫青菜”。  
@@ -1379,6 +1381,7 @@
 1. 【[连衣裳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_i_shan.md#连衣裳)】`lin2 i1 shan` <sup>[如东]</sup> 缝衣服。  
 1. 【[连夜雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_ia_y.md#连夜雨)】`lin2 ia6 y3` <sup>[如皋]</sup> 见“接夜雨”。  
 1. 【[连月阴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_iuh_ien.md#连月阴)】`lin2 iuh8 ien1` <sup>[如皋]</sup> 整月的阴雨天。  
+1. 【[连几](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_ji.md#连几)】`lin2 ji1` <small>/lĩ2 t͡ɕʝ1/<sup>泰兴</sup></small> 一种长而宽的凳子。旧时常置橱柜前。<sup>\[泰兴\]</sup>  
 1. 【[连家店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_jia_din.md#连家店)】`lin2 jia1 din5` <small>/lĩ2 t͡ɕia1 tĩ5/<sup>如皋</sup>, /lĩ2 t͡ɕiɑ1 tĩ5/<sup>泰兴</sup></small> ① 店与家连在一起的小商店。<sup>\[如皋\]</sup> ② 前店后住家，或前店后作坊。<sup>\[东台\]</sup> ③ 前面开店，后面住家，家店相连的店铺。<sup>\[泰兴\]</sup>  
 1. 【[连襟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_jien.md#连襟)】`lin2 jien` 姊妹丈夫之互称或合称。<sup>\[泰州\]</sup>  
 1. 【[连襟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_jien.md#连襟)】`lin2 jien1` ① 姐姐的丈夫和妹妹的丈夫之间的亲戚关系。<sup>\[如东\]</sup> ② 姐妹丈夫之间的相互称谓，也叫“姨夫”<sup>\[东台\]</sup>：他是我的～。<sup>\[东台\]</sup>  
@@ -1388,6 +1391,7 @@
 1. 【[连忙三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_man_saen.md#连忙三)】`lin2 man saen1` <sup>[兴化]</sup> 见“连二三”。  
 1. 【[连毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_mo.md#连毛)】`lin2 mo2` <small>/lĩ2 mɔ2/<sup>泰兴</sup></small> 肉上有毛。<sup>\[泰兴\]</sup>：死lei杀猪匠，也不吃连毛猪子肉<sup>\[泰兴\]</sup>  
 1. 【[连毛吞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_mo_ten.md#连毛吞)】`lin2 mo2 ten1` <sup>[东台]</sup> 囫囵吞枣的意思。包括小鱼连刺、水果连皮吃下去。  
+1. 【[连跑带溜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_po_dae_lieu.md#连跑带溜)】`lin2 po2 dae5 lieu1` <small>/lĩ2 pʰɔ2 tɛ5 ləɪ1/<sup>泰兴</sup></small> 谓速度很快地赶路。<sup>\[泰兴\]</sup>  
 1. 【[连牵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_qin.md#连牵)】`lin2 qin1` <sup>[如东]</sup> 连续地进行下去：事情安排啊不～。  
 1. 【[连翘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_qio.md#连翘)】`lin2 qio5` <sup>[如东]</sup> 术犀科植物连翘。  
 1. 【[连深](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_shen.md#连深)】`lin2 shen1` <sup>[如皋]</sup> 伤及深部：指甲皵咖连吖深。  
@@ -1397,6 +1401,7 @@
 1. 【[连……是……的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_shr_dii.md#连……是……的)】`lin2 shr dii` <sup>[东台]</sup> 表示动作连续不断：～跑～跑～｜～划～划～。  
 1. 【[连……是……](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_shr.md#连……是……)】`lin2 shr6` <sup>[泰州]</sup> 常见短语结构类型之一，表示动词所表动作一个紧接一个：超市的苹果跌价卖，大家拣都不拣就往袋肚里放，我连拿是拿的抢吖十斤。｜她连骂是骂的才把她骂啊走啊。  
 1. 【[连汤带水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_tan_dae_shuei.md#连汤带水)】`lin2 tan1 dae5 shuei3` <sup>[如皋]</sup> 见“连汤夹水”。  
+1. 【[连汤带水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_tan_dae_shuei.md#连汤带水)】`lin2 tan1 dae5 shuei3` <small>/lĩ2 tʰɑŋ1 tɛ5 suəɪ3/<sup>泰兴</sup></small> 谓菜肴和汤水。全部。<sup>\[泰兴\]</sup>：他～一扫而光<sup>\[泰兴\]</sup>  
 1. 【[连汤夹水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_tan_gaeh_shuei.md#连汤夹水)】`lin2 tan1 gaeh7 shuei3` <sup>[如皋]</sup> 全部汤水食物。  
 1. 【[连汤面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_tan_min.md#连汤面)】`lin2 tan1 min6` <sup>[如东]</sup> 煮面的一种方法。面条煮熟以后，不起锅，即加作料，称连汤面。这种面，汤腻，面软，有一种独特的口味。  
 1. 【[连头带尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_teu_dae_vei.md#连头带尾)】`lin2 teu2 dae5 vei3` <small>/lĩ2 tʰəɪ2 tɛ5 ʋəɪ3/<sup>泰兴</sup></small> 合计，总共；整个，全部。<sup>\[泰兴\]</sup>  

@@ -1167,6 +1167,7 @@
 1. 【[潮头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_teu.md#潮头)】`cho2 teu2` <sup>[如东]</sup> ① 潮水到达的位置。 ② 涨潮的时间。  
 1. 【[潮头边<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_teu_bin_r.md#潮头边<sub>儿</sub>)】`cho2 teu2 bin1 r` <sup>[如东]</sup> 潮水到达的位置：在～上捉鱼。  
 1. 【[潮扎扎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_zhaeh_zhaeh.md#潮扎扎)】`cho2 zhaeh7 zhaeh7` <sup>[如皋]</sup> 湿润的样子。  
+1. 【[吵吵𠵹𠵹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_cho_gan_gan.md#吵吵𠵹𠵹)】`cho3 cho3 gan1 gan1` <small>/t͡sʰɔ3 t͡sʰɔ3 kɑŋ1 kɑŋ1/<sup>泰兴</sup></small> 吵嘴，大声吵嚷。<sup>\[泰兴\]</sup>：～就拉倒<sup>\[泰兴\]</sup>  
 1. 【[吵翻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_faen.md#吵翻)】`cho3 faen1` <sup>[泰州]</sup> 因为争吵彼此之间关系变坏、感情破裂：你俫两个人为这些小事～就没得意思唻。  
 1. 【[吵嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_jy.md#吵嘴)】`cho3 jy3` <sup>[东台]</sup> 争吵。  
 1. 【[吵嚷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_ran.md#吵嚷)】`cho3 ran3` <sup>[兴化]</sup> ① 乱喊乱叫：覅把伢儿～醒吖。 ② 许多人大声地说话或叫喊：此事一～，谁人不知，哪个不晓。（《三侠五义》六六）  
@@ -1617,12 +1618,11 @@
 1. 【[吹火棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuei_hu_pan.md#吹火棒)】`chuei1 hu3 pan6` <sup>[如皋]</sup> 中空的长竹竿，可向炉膛中吹气，使火旺。  
 1. 【[吹火筒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuei_hu_ton.md#吹火筒)】`chuei1 hu3 ton3` <sup>[如皋]</sup> 旧时银焊者以嘴吹气用的“L”形铜管。  
 1. 【[吹洋碱泡泡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuei_ian_gaen_po.md#吹洋碱泡泡<sub>儿</sub>)】`chuei1 ian2 gaen3 po1 po1 r` <sup>[如皋]</sup> 调肥皂水，用中空麦草蘸水吹出一个个五颜六色的泡泡儿。  
-1. 【[吹牛屄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuei_ngeu_bi.md#吹牛屄)】`chuei1 ngeu2 bi1` <small>/t͡sʰuei1 ŋei2 pʝ1/<sup>如皋</sup></small> ① 说大话，说空话。<sup>\[如东\]</sup>：不要～。<sup>\[如东\]</sup> ② 说大话，夸口。<sup>\[如皋\]</sup>  
-1. 【[吹牛屄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuei_nieu_bi.md#吹牛屄)】`chuei1 nieu2 bi1` <sup>[泰州]</sup> 粗话，指人说大话：上个世纪90年代，坊间有戏言称“要挂BB机，到处～，手拿大哥大，到处说大话”。  
+1. 【[吹牛屄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuei_ngeu_bi.md#吹牛屄)】`chuei1 ngeu2 bi1` <small>/t͡sʰuei1 ŋei2 pʝ1/<sup>如皋</sup>, /t͡sʰuəɪ1 nəɪ2 pʝ1/<sup>泰兴</sup></small> 说大话，夸口。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[泰兴\]</sup><sup>\[泰州\]</sup>：不要～。<sup>\[如东\]</sup>｜上个世纪90年代，坊间有戏言称“要挂BB机，到处～，手拿大哥大，到处说大话”。<sup>\[泰州\]</sup>  
 1. 【[吹牛㖪㗘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuei_nieu_hoh_pah.md#吹牛㖪㗘)】`chuei1 nieu2 hoh7 pah7` <sup>[东台]</sup> 吹嘘，说不靠谱的大话：招商引资要讲诚信，～终究不行。  
 1. 【[吹牛皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuei_nieu_pi.md#吹牛皮)】`chuei1 nieu2 pi2` <sup>[泰州]</sup> “吹牛屄”的文雅说法，比喻人说大话：他这些～的话，你也当真吖？  
 1. 【[吹人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuei_ren_zz.md#吹人子)】`chuei1 ren zz` <sup>[如皋]</sup> 风吹，使人不适。  
-1. 【[吹手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuei_sheu.md#吹手)】`chuei1 sheu3` <small>/t͡sʰuəi1 sɤ3/<sup>兴化</sup>, /t͡sʰuei1 sei3/<sup>如皋</sup></small> ① 在婚礼或丧礼中吹奏乐器的人。<sup>\[如东\]</sup> ② 吹鼓手，民间乐工。<sup>\[如皋\]</sup> ③ 吹鼓手<sup>\[兴化\]</sup>：十番锣鼓音乐篷子……里面是～，一律是笙箫细乐，边走边吹奏，（汪曾祺《故里三陈》）<sup>\[兴化\]</sup> ④ 以吹奏管乐为职业的人<sup>\[泰州\]</sup>：他家老的出殡，喊的是南门的～。<sup>\[泰州\]</sup>  
+1. 【[吹手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuei_sheu.md#吹手)】`chuei1 sheu3` <small>/t͡sʰuəi1 sɤ3/<sup>兴化</sup>, /t͡sʰuei1 sei3/<sup>如皋</sup>, /t͡sʰuəɪ1 ɕiɤɯ3/<sup>泰兴</sup></small> ① 在婚礼或丧礼中吹奏乐器的人。<sup>\[如东\]</sup> ② 吹鼓手，民间乐工。<sup>\[如皋\]</sup> ③ 吹鼓手<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：十番锣鼓音乐篷子……里面是～，一律是笙箫细乐，边走边吹奏，（汪曾祺《故里三陈》）<sup>\[兴化\]</sup>｜八十岁学～（罪受）<sup>\[泰兴\]</sup> ④ 以吹奏管乐为职业的人<sup>\[泰州\]</sup>：他家老的出殡，喊的是南门的～。<sup>\[泰州\]</sup>  
 1. 【[吹塘灰寻裂麻缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuei_tan_huei_qien.md#吹塘灰寻裂麻缝)】`chuei1 tan2 huei1 qien2 lih8 ma2 fon6` <sup>[兴化]</sup> 千方百计找岔子：这次互查因为接待不周，来的人到处～。  
 1. 【[吹嘘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuei_xy.md#吹嘘)】`chuei1 xy1` <sup>[泰州]</sup> 夸大其词，吹牛：他的工资没得他～的这吖高。｜他在外头块块～他是处长。  
 1. 【[炊事员行军——替人背黑锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuei_shr_iun_xien.md#炊事员行军——替人背黑锅)】`chuei1 shr6 iun2 xien2 jyen1 ti5 ren2 bei1 heh7 gu1` <sup>[东台]</sup>   

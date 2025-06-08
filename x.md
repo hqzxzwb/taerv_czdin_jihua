@@ -974,7 +974,7 @@
 1. 【[信风斜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_fon_qia.md#信风斜)】`xien5 fon1 qia2` <small>/ɕin5 foŋ1 t͡ɕʰia2/<sup>兴化</sup></small> ① 盲目地跟着别人走。<sup>\[如东\]</sup>：不能～。<sup>\[如东\]</sup> ② 听信传言，跟着起哄<sup>\[兴化\]</sup>：这个人真是～，听说酱油调价，一下子买家来百十斤。<sup>\[兴化\]</sup>  
 1. 【[信风邪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_fon_qia.md#信风邪)】`xien5 fon1 qia2` <sup>[如皋]</sup> 偏信宣传：听说某先生脉信不丑，几个人总～，去把他看，结果白跑一趟；你不要～，超市也卖假货？  
 1. 【[信号](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_ho.md#信号)】`xien5 ho6` <sup>[如东]</sup> 传递信息的一种标记，如灯光、红旗、毛巾等。  
-1. 【[信哄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_hon.md#信哄)】`xien5 hon3` <sup>[兴化]</sup> 见“听哄”。  
+1. 【[信哄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_hon.md#信哄)】`xien5 hon3` <small>/ɕin5 xoŋ3/<sup>兴化</sup>, /ɕiŋ5 xɔŋ3/<sup>泰兴</sup></small> 同“听哄”。<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>  
 1. 【[信话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_hua.md#信话)】`xien5 hua6` <sup>[兴化]</sup> 指听从长辈的话：他是个～的伢儿。‖也说“听话”。  
 1. 【[信唤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_hun.md#信唤)】`xien5 hun5` <sup>[如皋]</sup> 指禽畜听从人的叫唤。  
 1. 【[信用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_ion.md#信用)】`xien5 ion6` <sup>[如东]</sup> 遵守诺言所取得的信誉：这个企业的～好。  
@@ -1422,7 +1422,7 @@
 1. 【[小儿呵唏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_er_hu_xi.md#小儿呵唏)】`xio3 er2 hu1 xi1` <sup>[兴化]</sup> 形容人吝啬，把小气形于表面：你～的怎吖好意思嗲？  
 1. 【[小儿寒气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_er_hun_qi.md#小儿寒气)】`xio3 er2 hun2 qi5` <sup>[东台]</sup> 形容人的举止、行为不够大方，也叫小家子气。  
 1. 【[小儿科](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_er_ku.md#小儿科)】`xio3 er2 ku1` <small>/ɕiɔ3 ɚ2 kʰo1/<sup>兴化</sup>, /ɕiɔ3 ɚ2 kʰʊ1/<sup>如皋</sup>, /ɕiɔ3 ɚ2 kʰɤɯ1/<sup>泰兴</sup></small> ① 专治儿童疾病的学科、机构。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup> ② 喻干不了大事情，而干些小打小闹的玩意儿。<sup>\[如皋\]</sup> ③ ［喻］无足轻重的小事。<sup>\[东台\]</sup> ④ 小气巴巴，档次不高。<sup>\[东台\]</sup> ⑤ （借）形容人吝啬、举止不大方。<sup>\[兴化\]</sup><sup>\[泰兴\]</sup><sup>\[如皋\]</sup> ⑥ 比喻人花钱出手很小<sup>\[泰州\]</sup>：亲外甥结婚，只出咖一百块人情，也太～唻。<sup>\[泰州\]</sup>  
-1. 【[小耳朵话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_er_do_hua.md#小耳朵话)】`xio3 er3 do hua6` <sup>[泰兴]</sup> 带有挑拨性的用或背后听来的来路不正的语言：做领导的千万不要听～。  
+1. 【[小耳朵话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_er_do_hua.md#小耳朵话)】`xio3 er3 do hua6` <small>/ɕiɔ3 ɚ3 tɔ xuɑ1/<sup>泰兴</sup></small> 带有挑拨性的用或背后听来的来路不正的语言。<sup>\[泰兴\]</sup>：听～/背后听不实的话，没有依据的话<sup>\[泰兴\]</sup>｜做领导的千万不要听～。<sup>\[泰兴\]</sup>  
 1. 【[小耳朵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_er_du.md#小耳朵)】`xio3 er3 du` <sup>[兴化]</sup> 经常打小报告的人：他是头头的～，在他面前说话要当心。  
 1. 【[小耳头话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_er_teu_hua.md#小耳头话)】`xio3 er3 teu hua6` <sup>[如皋]</sup> 密告、挑唆、偏颇及枕头风之类的话。  
 1. 【[小二子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_er_zz.md#小二子)】`xio3 er6 zz` <small>/ɕiɔ3 ɚ6 t͡sɿ/<sup>兴化</sup></small> ① 兄弟中排行第二，叫小二子。<sup>\[如东\]</sup> ② 比喻次一等。<sup>\[如东\]</sup>：那是～。<sup>\[如东\]</sup> ③ 俗称行二者。<sup>\[兴化\]</sup> ④ 跑腿做杂事的人<sup>\[兴化\]</sup>：你不要把我当成～，甚的事总少不了我。<sup>\[兴化\]</sup> ⑤ 伺候他人的人<sup>\[泰州\]</sup>：你要吃香烟自己去买，没得哪个当你的～。<sup>\[泰州\]</sup>  

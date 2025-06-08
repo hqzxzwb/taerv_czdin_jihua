@@ -655,8 +655,10 @@
 1. 【[仗胆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_daen.md#仗胆)】`zhan5 daen3` <sup>[如皋]</sup> 得到支持或给予支持而胆壮。  
 1. 【[仗势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_shr.md#仗势)】`zhan5 shr5` <small>/t͡sã5 sɿ5/<sup>如皋</sup></small> ① 依仗势力，为非作歹欺压别人。<sup>\[如皋\]</sup> ② 倚仗某种权势（做坏事）<sup>\[东台\]</sup>：不许～欺人！<sup>\[东台\]</sup>  
 1. 【[帐笆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_ba.md#帐笆)】`zhan5 ba1` <sup>[东台]</sup> 篱笆，多用芦柴做成：过去我家是～做墙。  
+1. 【[帐顶子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_dien_zz.md#帐顶子)】`zhan5 dien3 zz` <small>/t͡sɑŋ5 tiŋ3 t͡sɿ/<sup>泰兴</sup></small> 蚊帐之顶。<sup>\[泰兴\]</sup>  
 1. 【[帐格子床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_geh_zz_chuan.md#帐格子床)】`zhan5 geh7 zz chuan2` <sup>[如东]</sup> 床的一种。床帮上部有简单的框架，可以挂蚊帐。故称帐格子床。  
 1. 【[帐钩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_geu_zz.md#帐钩子)】`zhan5 geu1 zz` <sup>[如皋]</sup> 挂帐门的钩子。  
+1. 【[帐钩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_geu_zz.md#帐钩子)】`zhan5 geu1 zz` <small>/t͡sɑŋ5 kəɪ1 t͡sɿ/<sup>泰兴</sup></small> 挂蚊帐的大钩。<sup>\[泰兴\]</sup>  
 1. 【[帐管套<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_gun_to_r.md#帐管套<sub>儿</sub>)】`zhan5 gun3 to5 r` <sup>[如皋]</sup> 方顶蚊帐张挂时在帐顶前后用作插竹竿的套儿。  
 1. 【[帐管竹子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_gun_zhoh_zz.md#帐管竹子)】`zhan5 gun3 zhoh7 zz` <small>/t͡saŋ5 kũ3 t͡sɔʔ7 t͡sɿ/<sup>兴化</sup></small> ① 撑挂蚊帐用的细竹竿。<sup>\[兴化\]</sup> ② 穿帐管的细圆光滑竹杆<sup>\[泰州\]</sup>：天热咖唻，晚上睡觉要揁帐子唻，你把～洗啊干净吖，放吖在阴凉处吹啊干吖。<sup>\[泰州\]</sup>  
 1. 【[帐檐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_in.md#帐檐)】`zhan5 in2` <sup>[兴化]</sup> 挂在蚊帐前上的横幅：（她们）有求画～的有求画鞋头花的。（汪曾祺《慢戒》）也说“帐颜”。  
@@ -665,6 +667,7 @@
 1. 【[帐颜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_ngaen.md#帐颜)】`zhan5 ngaen2` <small>/t͡saŋ5 ɛ̃2/<sup>兴化</sup></small> 挂在蚊帐前上的横幅，装饰用<sup>\[兴化\]</sup><sup>\[泰州\]</sup>  
 1. 【[帐索<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_sah_r.md#帐索<sub>儿</sub>)】`zhan5 sah7 r` <sup>[如皋]</sup> 蚊帐用的连接一对帐钩子的索子，多为银质。  
 1. 【[帐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_zz.md#帐子)】`zhan5 zz` <sup>[如东]</sup> 防蚊的透气的方形或圆形织物。  
+1. 【[帐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_zz.md#帐子)】`zhan5 zz` <small>/t͡sɑŋ5 t͡sɿ/<sup>泰兴</sup></small> 蚊帐。<sup>\[泰兴\]</sup>  
 1. 【[帐子窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_zz_ku.md#帐子窠)】`zhan5 zz ku1` <sup>[如东]</sup> 蚊帐里面，叫做帐子窠。  
 1. 【[帐子里放风筝——不得远去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_zz_lii_fan.md#帐子里放风筝——不得远去)】`zhan5 zz lii fan5 fon1 zhen1 beh7 deh7 iun3 qy5` <sup>[东台]</sup>   
 1. 【[杖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan.md#杖)】`zhan5` <small>/t͡sã5/<sup>如皋</sup></small> ① 水车槽上的许多等距立柱上与槽桄相接。除槽筒特别短的外，一般有18～、20～、24～、26～等。又称夹脚、夹。<sup>\[如皋\]</sup> ② 见“夹脚”。<sup>\[如皋\]</sup>  
@@ -1913,8 +1916,10 @@
 1. 【[足尺加三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zoh_cheh_jia_saen.md#足尺加三)】`zoh7 cheh7 jia1 saen1` <sup>[东台]</sup> 旧时布店里的一种促销手段，不仅不短少尺寸，而且买一尺布送三寸。  
 1. 【[足赤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zoh_cheh.md#足赤)】`zoh7 cheh7` <sup>[东台]</sup> 黄金成色十足。  
 1. 【[足秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zoh_chen.md#足秤)】`zoh7 chen5` <sup>[东台]</sup> 所称货物分量足，不短斤少两。  
+1. 【[足秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zoh_chen.md#足秤)】`zoh7 chen5` <small>/t͡sɔʔ7 t͡sʰəŋ5/<sup>泰兴</sup></small> 分量足；足够已定的斤两。<sup>\[泰兴\]</sup>  
 1. 【[足的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zoh_dii.md#足的)】`zoh7 dii` <sup>[如东]</sup> 形容很多：这两天海货～。  
 1. 【[足月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zoh_iuh.md#足月)】`zoh7 iuh8` <sup>[东台]</sup> 一般指胎儿在母体中成长月份足。  
+1. 【[足月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zoh_iuh.md#足月)】`zoh7 iuh8` <small>/t͡sɔʔ7 yʊʔ8/<sup>泰兴</sup></small> 胎儿在母体内孕育的时间已满。<sup>\[泰兴\]</sup>  
 1. 【[足浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zoh_jian.md#足浆)】`zoh7 jian1` <small>/t͡sɔʔ7 t͡ɕiaŋ1/<sup>兴化</sup>, /t͡sɔʔ7 t͡ɕiã1/<sup>如皋</sup></small> ① 庄稼籽实的浆水已灌足，等待成熟。<sup>\[如皋\]</sup> ② 十分厉害，达到很高程度<sup>\[兴化\]</sup>：他这次把那个家伙玩～吖。<sup>\[兴化\]</sup>｜不把他搝啊～，他还认不得人哎！<sup>\[兴化\]</sup>  
 1. 【[足见](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zoh_jin.md#足见)】`zoh7 jin5` <small>/t͡sɔʔ7 t͡ɕĩ5/<sup>如皋</sup></small> ① 推测，同“可见”<sup>\[如皋\]</sup>：这种大热天来看望你，～心诚。<sup>\[如皋\]</sup> ② 平庸，不过如此<sup>\[如皋\]</sup>：他的才华也～<sup>\[如皋\]</sup> ③ 完全可以看出。<sup>\[东台\]</sup> ④ 很有限<sup>\[东台\]</sup>：这点货赚钱～。<sup>\[东台\]</sup>  
 1. 【[足倨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zoh_jy.md#足倨)】`zoh7 jy5` <sup>[兴化]</sup> 厉害：他家姨妈～，不好相处。  

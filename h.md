@@ -579,6 +579,7 @@
 1. 【[狠命的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_mien_dii.md#狠命的)】`hen3 mien6 dii` <sup>[如皋]</sup> 拼命的：～做活技；～搝钱。  
 1. 【[狠人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_ren.md#狠人)】`hen3 ren2` <sup>[兴化]</sup> ① 手段厉害的人：这是个～，不好对付。 ② 心肠狠毒，态度蛮横的人：你覅看他像个真的，遇到～也只好拉倒！  
 1. 【[狠声𪙍气的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_shen_bah_qi.md#狠声𪙍气的)】`hen3 shen bah7 qi5 dii` <sup>[如皋]</sup> 状说话的态度凶狠。  
+1. 【[狠声噁气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_shen_vah_qi.md#狠声噁气)】`hen3 shen vah7 qi5` <small>/xəŋ3 səŋ uɑʔ7 t͡ɕʰʝ5/<sup>泰兴</sup></small> 大声叫骂，态度恶劣。<sup>\[泰兴\]</sup>  
 1. 【[狠声恶气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_shen_ngah_qi.md#狠声恶气)】`hen3 shen1 ngah7 qi5` <sup>[东台]</sup> 口声不好，出言吐语气汹汹的样子。又叫“狠声𪙍气”：有话好好说，不要～的。  
 1. 【[狠心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_xien.md#狠心)】`hen3 xien1` <sup>[如东]</sup> 决心：他箇吖～，让人想不到。  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen.md#□)】`hen5` <small>/xən5/<sup>兴化</sup>, /xəŋ5/<sup>如皋</sup>, /xəŋ5/<sup>泰兴</sup>, /xəŋ5/<sup>泰县</sup></small> 紧紧黏附：他跌咖个跟头，烂泥～吖在衣裳上䢢不掉，污糟煞咖  
@@ -612,7 +613,8 @@
 1. 【[齁齁<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_heu_r.md#齁齁<sub>儿</sub>)】`heu1 heu1 r` <sup>[如皋]</sup> 哮喘病患者。另见“𣣡𣣡儿”。  
 1. 【[齁齁<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_heu_r.md#齁齁<sub>儿</sub>)】`heu1 heu5 r` <sup>[兴化]</sup> 患有气管炎的人：他是个～，一到冬天就发病。也作“喉喉儿”。马春阳小说《风里雨里》有此写法。  
 1. 【[齁人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_ren.md#齁人)】`heu1 ren` <sup>[如东]</sup> 吃太甜或太咸的食物使喉咙不舒服。  
-1. 【[齁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_zz.md#齁子)】`heu1 zz` <small>/xei1 t͡sɿ/<sup>如皋</sup></small> ① 说话声音沙哑。<sup>\[如东\]</sup> ② 说话声音沙哑的人。<sup>\[如东\]</sup> ③ 因过敏而哮喘的人<sup>\[如皋\]</sup>：糖～、盐～。<sup>\[如皋\]</sup>  
+1. 【[齁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_zz.md#齁子)】`heu1 zz` <small>/xei1 t͡sɿ/<sup>如皋</sup>, /xəɪ1 t͡sɿ/<sup>泰兴</sup></small> ① 说话声音沙哑。<sup>\[如东\]</sup> ② 说话声音沙哑的人。<sup>\[如东\]</sup> ③ 哮喘的人<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：糖～、盐～/对糖、盐过敏而哮喘的人<sup>\[如皋\]</sup>  
+1. 【[齁子病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_zz_pien.md#齁子病)】`heu1 zz pien6` <small>/xəɪ1 t͡sɿ pʰiŋ1/<sup>泰兴</sup></small> 哮喘病。<sup>\[泰兴\]</sup>  
 1. 【[□堑草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_qin_co.md#□堑草)】`heu2 qin5 co3` <sup>[泰县]</sup> 把水田里杂草堑入土中。  
 1. 【[䗔子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_zz.md#䗔子)】`heu2 zz` <sup>[泰州]</sup> 俗称米象，米中的小黑甲虫，成虫啮食谷粒，幼虫蛀食谷粒内部：米放的时间长吖，生吖～唻。  
 1. 【[喉风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_fon.md#喉风)】`heu2 fon1` <sup>[如皋]</sup> 咽喉炎。  
@@ -664,8 +666,9 @@
 1. 【[𣣡气𣣡气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_qi_heu_qi.md#𣣡气𣣡气)】`heu2 qi5 heu2 qi5` <sup>[泰州]</sup> 人气喘吁吁，上气不接下气的样子：岁数大啊，爬到五楼人就～的唻。  
 1. 【[𣣡痰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_taen.md#𣣡痰)】`heu2 taen2` <sup>[如东]</sup> ① 滞留在病人气管中的痰，随着呼吸运动而发出一种哮声。 ② 小孩痴哭。 ③ 反复地叫喊：我家来啊啦，不要～吖。  
 1. 【[𦞈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu.md#𦞈)】`heu2` <small>/xɤ2/<sup>兴化</sup>, /xei2/<sup>如皋</sup></small> ① 肿<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：半边脸疼吖～起来。<sup>\[兴化\]</sup>｜大腿上～起老大一块来。<sup>\[兴化\]</sup>｜他捱人家这一撉ㄦ打得不轻，脸上都～起来啊。<sup>\[泰州\]</sup>｜他左眼害啊偷针眼，眼睛～啊望不清人。<sup>\[泰州\]</sup> ② 作动词，表皮上肿起<sup>\[如皋\]</sup>：～疙瘩儿、～啊一块红斑。<sup>\[如皋\]</sup> ③ （皮肤）生出成片疹子<sup>\[泰州\]</sup>：掼吖一天麦把，麦芒吃不消，身上都～起来啊，全是饼子。<sup>\[泰州\]</sup>｜他皮肤过敏，只要一吃烟囱身上就～啊不得命。<sup>\[泰州\]</sup>  
-1. 【[𨂸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu.md#𨂸)】`heu2` <small>/xɤ2/<sup>兴化</sup>, /xei2/<sup>如皋</sup></small> ① 大声地叫喊。<sup>\[如东\]</sup>：你～甚的？<sup>\[如东\]</sup> ② 液体、气体涌动翻腾 ③ 腹中蠕动、泛动的声音<sup>\[如皋\]</sup>：肚里～动。<sup>\[如皋\]</sup> ④ 体中排出大量液体<sup>\[兴化\]</sup>：～汗；～血（大出血）。<sup>\[兴化\]</sup> ⑤ 液体移动<sup>\[东台\]</sup>：水～得快；汗只～。<sup>\[东台\]</sup> ⑥ 喧嚣，喧哗，骚动（动词、形容词）<sup>\[东台\]</sup><sup>\[泰州\]</sup>：［形］会场～得很，不晓得为甚的事。<sup>\[东台\]</sup>｜里头～啊没得命，我跑出来抽支香烟。<sup>\[泰州\]</sup>｜你俫大家不要～唻，先让老李把话说掉吧。<sup>\[泰州\]</sup>  
+1. 【[𨂸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu.md#𨂸)】`heu2` <small>/xɤ2/<sup>兴化</sup>, /xei2/<sup>如皋</sup>, /xəɪ2/<sup>泰兴</sup></small> ① 液体、气体涌动翻腾 ② 腹中蠕动、泛动的声音<sup>\[如皋\]</sup>：肚里～动。<sup>\[如皋\]</sup> ③ 体中排出大量液体<sup>\[兴化\]</sup>：～汗；～血（大出血）。<sup>\[兴化\]</sup> ④ 液体移动<sup>\[东台\]</sup>：水～得快；汗只～。<sup>\[东台\]</sup> ⑤ 喧嚣，喧哗，骚动；大叫<sup>\[东台\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup><sup>\[如东\]</sup>：［形］会场～得很，不晓得为甚的事。<sup>\[东台\]</sup>｜里头～啊没得命，我跑出来抽支香烟。<sup>\[泰州\]</sup>｜你俫大家不要～唻，先让老李把话说掉吧。<sup>\[泰州\]</sup>｜你～甚的？<sup>\[如东\]</sup>  
 1. 【[𨂸啊湱掉啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_a_hoh_tio.md#𨂸啊湱掉啊)】`heu2 a hoh7 tio a` <sup>[东台]</sup> ［形］人声鼎沸，非常嘈杂。  
+1. 【[𨂸啊湱动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_a_hoh_ton.md#𨂸啊湱动)】`heu2 a hoh7 ton` <small>/xəɪ2 a xɔʔ7 tʰɔŋ/<sup>泰兴</sup></small> 许多人大声吵嚷、起哄。<sup>\[泰兴\]</sup>  
 1. 【[𨂸啊没得命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_a_meh_deh.md#𨂸啊没得命)】`heu2 a meh8 deh7 mien6` <sup>[东台]</sup> ［形］嘈杂得叫人受不了。  
 1. 【[𨂸暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_bo.md#𨂸暴)】`heu2 bo5` <sup>[如东]</sup> ① 天气发生变化，将要出现风暴了，叫做𨂸暴。 ② 冬季刮大风的天气。  
 1. 【[𨂸肠疯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_chan_fon.md#𨂸肠疯)】`heu2 chan2 fon1` <sup>[如东]</sup> 因为消化不良肠内产生气体而发出响声。  

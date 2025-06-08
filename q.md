@@ -394,7 +394,7 @@
 1. 【[呛鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_pieh_zz.md#呛鼻子)】`qian1 pieh8 zz` <sup>[如东]</sup> 一种异味刺激鼻孔黏膜。  
 1. 【[呛白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_poh.md#呛白)】`qian1 poh8` <sup>[如东]</sup> 当面责怪或讽刺：不要～。  
 1. 【[呛人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_ren_zz.md#呛人子)】`qian1 ren zz` <small>/t͡ɕʰiã1 ɻəŋ t͡sɿ/<sup>如皋</sup></small> ① 见“昂口”。<sup>\[如皋\]</sup> ② 烟尘异味使气管受到刺激而不适。<sup>\[如皋\]</sup>  
-1. 【[呛人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_ren.md#呛人)】`qian1 ren2` ① 一种异味刺激人的喉咙黏膜。<sup>\[如东\]</sup> ② 刺激性的气体进入人的鼻腔、气管、眼睛而使人感觉难受<sup>\[泰州\]</sup>：不要在家里吃烟，嫌～。<sup>\[泰州\]</sup>  
+1. 【[呛人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_ren.md#呛人)】`qian1 ren2` <small>/t͡ɕʰiɑŋ1 ɻəŋ2/<sup>泰兴</sup></small> ① 一种异味刺激人的喉咙黏膜。<sup>\[如东\]</sup> ② 刺激性的气体进入人的鼻腔、气管、眼睛而使人感觉难受<sup>\[泰州\]</sup>：不要在家里吃烟，嫌～。<sup>\[泰州\]</sup> ③ （气体）使喉鼻难受。<sup>\[泰兴\]</sup>  
 1. 【[呛嗓子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_san_zz.md#呛嗓子)】`qian1 san3 zz` <sup>[如东]</sup> 一种异味刺激人的咽喉黏膜。  
 1. 【[呛水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_shuei.md#呛水)】`qian1 shuei3` <sup>[如东]</sup> 水进入喉咙而发生刺激：我今朝游泳呛吖水。  
 1. 【[呛唾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_tu.md#呛唾)】`qian1 tu5` <sup>[如东]</sup> 口水刺激喉咙黏膜而发生咳嗽。  
