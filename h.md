@@ -2303,8 +2303,9 @@
 1. 【[旱船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_chun.md#旱船)】`hun6 chun2` <sup>[泰州]</sup> 陆地上的船。春节期间民间表演艺术之一，在船形架子周围缀上绘有水纹的綵布，饰以红绸、纸花之类，表演乘船的女子手握船帮碎步来回奔走，另有扮作艄公的人持桨作划船状。  
 1. 【[旱狗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_geu_r.md#旱狗<sub>儿</sub>)】`hun6 geu3 r` <sup>[如东]</sup> 青蛙的一种，体型较小，淡灰色。（泽蛙）  
 1. 【[旱鸽<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_guh_r.md#旱鸽<sub>儿</sub>)】`hun6 guh7 r` <small>/xʊ̃1 kʊ˞/<sup>如皋</sup></small> 泽蛙。两栖纲，无尾目。色灰，善鸣。<sup>\[如皋\]</sup><sup>\[东台\]</sup>  
-1. 【[旱烟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_in.md#旱烟)】`hun6 in1` 一种烟丝，以其装进旱烟袋点燃后直接吸食，相对“水烟”，故名。<sup>\[如东\]</sup><sup>\[泰州\]</sup>  
+1. 【[旱烟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_in.md#旱烟)】`hun6 in1` <small>/xʊ̃1 ĩ1/<sup>泰兴</sup></small> 一种烟丝，以其装进旱烟袋点燃后直接吸食，相对“水烟”，故名。<sup>\[如东\]</sup><sup>\[泰州\]</sup>\[泰兴：一种用旱烟袋、水烟袋抽吸的烟丝。黄桥老宝成旱烟丝颇为有名。\]  
 1. 【[旱烟台<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_in_tae_r.md#旱烟台<sub>儿</sub>)】`hun6 in1 tae2 r` <sup>[如东]</sup> 抽烟工具。烟管一般竹制，一头装烟嘴儿，铜制或玉制，一头装烟锅头儿，铜制，下挂一只烟袋儿，装烟末。吸烟时，把烟末装在烟锅里，点燃，即可吸烟。  
+1. 【[旱烟袋子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_in_tae_zz.md#旱烟袋子)】`hun6 in1 tae6 zz` <small>/xʊ̃1 ĩ1 tʰɛ1 t͡sɿ/<sup>泰兴</sup></small> 乡人俗称“猴子头”。吸旱烟的用具。一般在细管的一端安上烟锅，可以装烟；另一端安着金属或玉石嘴子，可以放在嘴里吸，通称烟袋子。<sup>\[泰兴\]</sup>  
 1. 【[旱季](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_ji.md#旱季)】`hun6 ji5` <sup>[东台]</sup> 不下雨或雨水少的季节。  
 1. 【[旱粮田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_lian_tin.md#旱粮田)】`hun6 lian2 tin2` <sup>[东台]</sup> 种植旱谷（通常指玉米）的田块。玉米长高的田里叫旱粮窠：夏天在～里薅草交关辛苦。  
 1. 【[旱涝保收](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_lo_bo_sheu.md#旱涝保收)】`hun6 lo6 bo3 sheu1` <sup>[东台]</sup> 不管遇到旱灾还是涝灾，都能保证收成。喻指收入稳定，没有风险。  
@@ -2312,10 +2313,12 @@
 1. 【[旱码头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_ma_teu.md#旱码头)】`hun6 ma3 teu` <sup>[如皋]</sup> 河岸上部的码头。  
 1. 【[旱鸭<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_ngaeh_r.md#旱鸭<sub>儿</sub>)】`hun6 ngaeh7 r` <small>/xʊ̃1 ŋe˞7/<sup>如皋</sup></small> 生活在陆地上的鸭子。比喻不会游泳的人。<sup>\[如东\]</sup><sup>\[如皋\]</sup>  
 1. 【[旱鸭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_ngaeh_zz.md#旱鸭子)】`hun6 ngaeh7 zz` <sup>[如皋]</sup> 讽喻不会游泳的人。  
+1. 【[旱鸭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_ngaeh_zz.md#旱鸭子)】`hun6 ngaeh7 zz` <small>/xʊ̃1 ŋæʔ7 t͡sɿ/<sup>泰兴</sup></small> 不下水的鸭子。戏语。喻不善饮水、吃面不喝汤者，或称不会游泳的人。<sup>\[泰兴\]</sup>  
 1. 【[旱泡眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_po_ngaen.md#旱泡眼)】`hun6 po1 ngaen3` <sup>[东台]</sup> 眼泡大。  
 1. 【[旱蒲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_pv.md#旱蒲)】`hun6 pv2` <sup>[如东]</sup> 鸢尾科植物马蔺，多年生草本。  
 1. 【[旱田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_tin.md#旱田)】`hun6 tin2` <sup>[如东]</sup> 干旱的土地，适合于种植旱属作物。  
 1. 【[旱道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_to.md#旱道)】`hun6 to6` <sup>[兴化]</sup> 旱路：这次上徐州走～。  
+1. 【[旱芝麻，水绿豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_zhr_ma_shuei.md#旱芝麻，水绿豆)】`hun6 zhr1 ma shuei3 loh8 teu6` <small>/xʊ̃1 t͡sɿ1 mɑ suəɪ3 lɔʔ8 tʰəɪ1/<sup>泰兴</sup></small> 谓芝麻喜旱不喜水，绿豆喜潮不喜旱。<sup>\[泰兴\]</sup>  
 1. 【[旱桩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_zhuan.md#旱桩)】`hun6 zhuan1` <sup>[如东]</sup> 水车部件。木条，竖在水车两侧，上面搁置伏桁。  
 1. 【[汗巴雨淋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_ba_y_lien.md#汗巴雨淋)】`hun6 ba1 y3 lien2` <small>/xũ6 pa1 y3 liɪ̃2/<sup>兴化</sup>, /xʊ̃1 pa1 y3 liəŋ2/<sup>如皋</sup>, /xʊ̃1 pɑ1 y3 liŋ2/<sup>泰兴</sup></small> 大汗淋漓的样子。<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：两个人顺着大花缸跑了，弟弟怎么也赶不上姐姐，累得～的。（兴文：《人的由来》）<sup>\[兴化\]</sup>  
 1. 【[汗斑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_baen.md#汗斑)】`hun6 baen1` <small>/xʊ̃1 pɛ̃1/<sup>泰兴</sup></small> 体表的一种浅色的斑点。<sup>\[泰兴\]</sup>  

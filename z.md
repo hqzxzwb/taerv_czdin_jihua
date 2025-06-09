@@ -660,7 +660,7 @@
 1. 【[帐钩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_geu_zz.md#帐钩子)】`zhan5 geu1 zz` <sup>[如皋]</sup> 挂帐门的钩子。  
 1. 【[帐钩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_geu_zz.md#帐钩子)】`zhan5 geu1 zz` <small>/t͡sɑŋ5 kəɪ1 t͡sɿ/<sup>泰兴</sup></small> 挂蚊帐的大钩。<sup>\[泰兴\]</sup>  
 1. 【[帐管套<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_gun_to_r.md#帐管套<sub>儿</sub>)】`zhan5 gun3 to5 r` <sup>[如皋]</sup> 方顶蚊帐张挂时在帐顶前后用作插竹竿的套儿。  
-1. 【[帐管竹子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_gun_zhoh_zz.md#帐管竹子)】`zhan5 gun3 zhoh7 zz` <small>/t͡saŋ5 kũ3 t͡sɔʔ7 t͡sɿ/<sup>兴化</sup></small> ① 撑挂蚊帐用的细竹竿。<sup>\[兴化\]</sup> ② 穿帐管的细圆光滑竹杆<sup>\[泰州\]</sup>：天热咖唻，晚上睡觉要揁帐子唻，你把～洗啊干净吖，放吖在阴凉处吹啊干吖。<sup>\[泰州\]</sup>  
+1. 【[帐管竹子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_gun_zhoh_zz.md#帐管竹子)】`zhan5 gun3 zhoh7 zz` <small>/t͡saŋ5 kũ3 t͡sɔʔ7 t͡sɿ/<sup>兴化</sup>, /t͡sɑŋ5 kʊ̃3 t͡sɔʔ7 t͡sɿ/<sup>泰兴</sup></small> ① 撑挂蚊帐用的细竹竿。<sup>\[兴化\]</sup> ② 穿帐管的细圆光滑竹杆<sup>\[泰州\]</sup>：天热咖唻，晚上睡觉要揁帐子唻，你把～洗啊干净吖，放吖在阴凉处吹啊干吖。<sup>\[泰州\]</sup> ③ 将帐子架于床上的竹管。<sup>\[泰兴\]</sup>  
 1. 【[帐檐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_in.md#帐檐)】`zhan5 in2` <sup>[兴化]</sup> 挂在蚊帐前上的横幅：（她们）有求画～的有求画鞋头花的。（汪曾祺《慢戒》）也说“帐颜”。  
 1. 【[帐沿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_in.md#帐沿)】`zhan5 in2` <sup>[东台]</sup> 罩在蚊帐前面上边沿的橫幅装饰品。  
 1. 【[帐帘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_lin_zz.md#帐帘子)】`zhan5 lin2 zz` <sup>[如皋]</sup> 蚊帐帐门上方的横幅绣花布饰。  

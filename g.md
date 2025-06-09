@@ -1840,6 +1840,7 @@
 1. 【[干糙皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_co_pi.md#干糙皮)】`gun1 co pi2` <sup>[兴化]</sup> （喻）请人帮忙不付报酬：替他忙吖几天，结果弄个～。  
 1. 【[干草皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_co_pi.md#干草皮)】`gun1 co3 pi2` <sup>[泰兴]</sup> 用以垫牛、羊、猪圈的干泥。  
 1. 【[干冬湿年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_don_sheh_nin.md#干冬湿年)】`gun1 don1 sheh7 nin2` <sup>[东台]</sup> （农谚）冬至这一天不下雨，过春节时往往要下雨。  
+1. 【[干冬湿年，快活种田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_don_sheh_nin.md#干冬湿年，快活种田)】`gun1 don1 sheh7 nin2 kuae5 vah zhon5 tin2` <small>/kʊ̃1 tɔŋ1 səʔ7 nĩ2 kʰuɛ5 uɑʔ t͡sɔŋ5 tʰĩ2/<sup>泰兴</sup></small> 农谚。谓冬至少雨，则春节雨雪多，预示来年庄稼丰收。<sup>\[泰兴\]</sup>  
 1. 【[干儿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_er_zz.md#干儿子)】`gun1 er2 zz` <small>/kʊ̃1 ɚ2 t͡sɿ/<sup>泰兴</sup></small> 非亲生、拜自己为干父母的儿子。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[干搁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_gah.md#干搁)】`gun1 gah7` <sup>[兴化]</sup> 被撇在一边不闻不问：他上任一个多月也不分配工作，硬是～咖那许。｜“子畏，你居然也会下楼的么？我只道你把我～在这里了。”（《四杰传》九八）  
 1. 【[干隔涝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_geh_lo.md#干隔涝)】`gun1 geh lo2` <sup>[兴化]</sup> ① 指能吃不能做的懒黄病。 ② 闲汉、懒汉，不三不四的人：他平生专好惜客养闲人，招纳四方～汉子。（《水浒传》二）“涝”也作“痨”。  
@@ -1847,6 +1848,7 @@
 1. 【[干咸菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_haen_cae.md#干咸菜)】`gun1 haen2 cae5` <small>/kʊ̃1 xɛ̃2 t͡ɕʰiɛ5/<sup>泰兴</sup></small> ① 盐渍干菜，又叫梅干菜、霉干菜、蒸咸菜。<sup>\[东台\]</sup> ② 晒干了的咸菜。<sup>\[泰兴\]</sup> ③ 晒干的水咸菜。制法<sup>\[泰州\]</sup>：将水咸菜晒至半干，将卤烧开，烫之；再晒，再烫；直至卤汁烫完，最后晒干，切碎，装坛封口，存放时间越长，颜色越红，味道越香。可以蒸于饭锅，出锅加以香油，直接食用；亦可与猪肉在一起红烧，菜名曰“干咸菜烧肉”，此菜乃是泰州人传统菜肴之一。<sup>\[泰州\]</sup>  
 1. 【[干涸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_hah.md#干涸)】`gun1 hah` <sup>[泰兴]</sup> 本意干旱厉害，没有水分。借喻穷酸贫苦。《玉如意》第6回：“郝家果然穷干涸，钱家实是有钱人。”  
 1. 【[干藃气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_hah_qi.md#干藃气)】`gun1 hah7 qi5` <sup>[如皋]</sup> 某些物体乾燥后的异味。  
+1. 【[干熯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_han.md#干熯)】`gun1 han5` <small>/kʊ̃1 xɑŋ5/<sup>泰兴</sup></small> 谓不雨干热的天气；以火使干、使熟。亦比喻冷落客人、使之尴尬的场面。<sup>\[泰兴\]</sup>  
 1. 【[干齑菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_ji_cae.md#干齑菜)】`gun1 ji1 cae5` <sup>[东台]</sup> 晒干的酸齑菜。  
 1. 【[干姜瘪枣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_jian_bih_zo.md#干姜瘪枣)】`gun1 jian1 bih7 zo3` <sup>[东台]</sup> 形容人营养不良，干瘦的样子。  
 1. 【[干姜瘪枣的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_jian_bih_zo.md#干姜瘪枣的)】`gun1 jian1 bih7 zo3 dii` <sup>[如皋]</sup> 干瘪，无生机的样子。  
@@ -1856,6 +1858,7 @@
 1. 【[干卡卡的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_ka_ka_dii.md#干卡卡的)】`gun1 ka3 ka3 dii` <sup>[如皋]</sup> 干巴巴的。  
 1. 【[干熇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_ko.md#干熇)】`gun1 ko5` <sup>[兴化]</sup> ① 不加水，只放少许的油，把食物放在锅里烤。 ② （喻）商店或摊贩晚上因等待顾客而迟打样：不要～，关门睡觉吧！  
 1. 【[干烂泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_laen_ni.md#干烂泥)】`gun1 laen6 ni2` <sup>[如皋]</sup> 干土。  
+1. 【[干痨黄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_lo_van_zz.md#干痨黄子)】`gun1 lo van2 zz` <small>/kʊ̃1 lɔ uɑŋ2 t͡sɿ/<sup>泰兴</sup></small> 谓不喜食汤水之类者。<sup>\[泰兴\]</sup>  
 1. 【[干老王子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_lo_van_zz.md#干老王子)】`gun1 lo3 van2 zz` <sup>[如皋]</sup> 好吃干性食品，少喝汤水的人或习惯。  
 1. 【[干面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_min.md#干面)】`gun1 min6` <small>/kũ1 miɪ̃6/<sup>兴化</sup>, /kʊ̃1 mĩ1/<sup>如皋</sup></small> 小麦面粉。<sup>\[如皋\]</sup><sup>\[兴化\]</sup>\[泰州：干燥的小麦面粉。\]  
 1. 【[干吖蠚起来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_nga_hah_qi.md#干吖蠚起来啊)】`gun1 nga hah7 qi lae2 a` <sup>[如皋]</sup> ① 干瘪貌，前胸贴到后背。 ② 口舌干燥。  

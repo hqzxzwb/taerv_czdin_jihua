@@ -449,7 +449,7 @@
 1. 【[懒婆娘花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_pu_nian_hua.md#懒婆娘花)】`laen3 pu2 nian2 hua1` <sup>[如皋]</sup> 紫茉莉。  
 1. 【[懒惰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_tu.md#懒惰)】`laen3 tu6` <sup>[如东]</sup> 不爱劳动或工作：这个伢儿～。  
 1. 【[懒黄病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_van_pien.md#懒黄病)】`laen3 van pien6` <sup>[如皋]</sup> 黄病（黄疸肝炎、钩虫病等），肤黄无力。  
-1. 【[懒王](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_van.md#懒王)】`laen3 van2` <small>/lɛ̃3 uaŋ2/<sup>兴化</sup></small> ① 比喻懒惰的人。<sup>\[如东\]</sup> ② 偷懒：这个人～得了不得，周身怕动。<sup>\[兴化\]</sup> ③ 指偷懒的人：他是有名的大～。<sup>\[兴化\]</sup> ④ 也说“～精”。<sup>\[兴化\]</sup>  
+1. 【[懒王](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_van.md#懒王)】`laen3 van2` <small>/lɛ̃3 uaŋ2/<sup>兴化</sup></small> ① 比喻懒惰的人。<sup>\[如东\]</sup> ② 偷懒<sup>\[兴化\]</sup>：这个人～得了不得，周身怕动。<sup>\[兴化\]</sup> ③ 指偷懒的人。也说“～精”。<sup>\[兴化\]</sup>：他是有名的大～。<sup>\[兴化\]</sup>  
 1. 【[懒王精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_van_jien.md#懒王精)】`laen3 van2 jien1` <small>/lɛ̃3 uaŋ2 t͡ɕin1/<sup>兴化</sup>, /lẽ3 ʋã2 t͡ɕiəŋ1/<sup>如皋</sup></small> ① 极懒，懒惰成性的人。<sup>\[如皋\]</sup> ② 极端懒惰的人。<sup>\[东台\]</sup> ③ 偷懒的人。<sup>\[兴化\]</sup>  
 1. 【[揽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen.md#揽)】`laen3` <sup>[东台]</sup> 把持，往自己身上拉：～活｜独～大权｜好吃的～媒做。  
 1. 【[揽载](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_cae.md#揽载)】`laen3 cae6` <sup>[如皋]</sup> 增加负载量：破船多～。  

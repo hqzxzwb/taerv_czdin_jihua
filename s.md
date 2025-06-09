@@ -2049,19 +2049,22 @@
 1. 【[弛腰落㧟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_io_lah_kuae.md#弛腰落㧟)】`shr2 io1 lah8 kuae3` <sup>[泰县]</sup> ① 衣服不合身。 ② 指人言行不规范：他就是这吖一个～的人。  
 1. 【[弛腰落擓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_io_lah_kuae.md#弛腰落擓)】`shr2 io1 lah8 kuae3` <sup>[泰州]</sup> 衣服肥大导致腰部凹进就像下垂旗帜一样：你家爸爸多胖吖唻，他的衣裳你就能穿吖？你穿吖身上～的，还不快点脱咖来。  
 1. 【[时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr.md#时)】`shr2` <small>/sɿ2/<sup>兴化</sup></small> ① 计时单位，等于一个平均太阳日的二十四分之一。<sup>\[如东\]</sup> ② 时运。<sup>\[兴化\]</sup>：谚曰：有～猫儿凶似虎，失时凤凰不如鸡。<sup>\[兴化\]</sup>  
-1. 【[时不时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_beh_shr.md#时不时)】`shr2 beh7 shr2` <small>/sɿ2 pəʔ7 sɿ2/<sup>兴化</sup></small> ① 时常<sup>\[东台\]</sup>：他～来逛逛。<sup>\[东台\]</sup> ② 经常、时常<sup>\[兴化\]</sup>：他～的光顾娱乐场所。<sup>\[兴化\]</sup> ③ 时间不固定的，不止一次的<sup>\[泰州\]</sup>：这几个老同学～的聚一次。<sup>\[泰州\]</sup>  
+1. 【[时不时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_beh_shr.md#时不时)】`shr2 beh7 shr2` <small>/sɿ2 pəʔ7 sɿ2/<sup>兴化</sup>, /sɿ2 pəʔ7 sɿ2/<sup>泰兴</sup></small> ① 时常<sup>\[东台\]</sup>：他～来逛逛。<sup>\[东台\]</sup> ② 经常、时常<sup>\[兴化\]</sup>：他～的光顾娱乐场所。<sup>\[兴化\]</sup> ③ 时间不固定的，不止一次的<sup>\[泰州\]</sup>：这几个老同学～的聚一次。<sup>\[泰州\]</sup> ④ 时时，经常。<sup>\[泰兴\]</sup>：他～的到我箇许耍耍<sup>\[泰兴\]</sup>  
 1. 【[时不时的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_beh_shr_dii.md#时不时的)】`shr2 beh7 shr2 dii` <sup>[如皋]</sup> 经常地，不定期的。  
 1. 【[时常](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_chan.md#时常)】`shr2 chan2` <sup>[如皋]</sup> 经常。  
 1. 【[时值](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_cheh.md#时值)】`shr2 cheh8` <sup>[兴化]</sup> 某种商品时下的价格：“……那知他有钱的人只想便宜，岂但不背多出钱，照～估价，还要少几两……”（《儒林外史》十六）  
 1. 【[时辰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_chen.md#时辰)】`shr2 chen, shr2 shen` ① 时刻：甚的～/什么时候 ② 一段时间：多大～/多长时间  
-1. 【[时辰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_chen.md#时辰)】`shr2 chen2` <small>/sɿ2 səŋ2/<sup>泰兴</sup>, /sɿ2 t͡sʰəŋ2/<sup>泰县</sup></small> ① 计时单位。一昼夜分为十二个时辰，即子、丑、寅、卯、辰、已、午、未、申、酉戌亥。每一个时辰合2小时。如“子”时，为半夜十一时至一时；“午”时，为中午十一时至一时；依此类推。<sup>\[如东\]</sup> ② 时间。<sup>\[泰兴\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup> ③ 计时单位，一昼夜平分为十二段，每段叫作一个时辰，合现在两个小时。十二个时辰分别以地支命名，从半夜起算，半夜十一点到一点是子时，中午十一点到一点是午时。<sup>\[泰州\]</sup>  
+1. 【[时辰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_chen.md#时辰)】`shr2 chen2` <small>/sɿ2 səŋ2/<sup>泰兴</sup>, /sɿ2 t͡sʰəŋ2/<sup>泰县</sup></small> ① 计时单位。<sup>\[如东\]</sup><sup>\[泰州\]</sup> ② 时间。<sup>\[泰县\]</sup><sup>\[泰州\]</sup>\[泰兴：泛指时刻或时间\]  
+1. 【[时辰八字](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_chen_baeh_cz.md#时辰八字)】`shr2 chen2 baeh7 cz` <small>/sɿ2 səŋ2 pæʔ7 t͡sʰɿ/<sup>泰兴</sup></small> 指人出生的年、月、日、时。星命家称之四柱，各配以天干地支而成八个字，故称“八字”，据以推算人的命运。<sup>\[泰兴\]</sup>  
 1. 【[时辰日脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_chen_rih_jiah.md#时辰日脚)】`shr2 chen2 rih8 jiah7` <sup>[东台]</sup> ① 为操办大事选定吉日良辰的具体日子。 ② 某人生或死的具体时间。  
 1. 【[时到运转](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_do_yen_zhun.md#时到运转)】`shr2 do5 yen6 zhun3` <sup>[兴化]</sup> 迷信认为的人厄运终结，好的时运到来：说来～。他被抽调到区里参加侦破偷船案，立了功……（马春阳《父女双婚事》）。也说“时来运转”。  
 1. 【[时丰头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_fon_teu.md#时丰头)】`shr2 fon1 teu2` <sup>[兴化]</sup> 农民固定一位理发员，平时理发不付酬金，夏、秋两季收获后以根食总付：剃～。  
 1. 【[时洋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_ian.md#时洋)】`shr2 ian2` <sup>[如皋]</sup> 见“时式”。  
 1. 【[时价](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_jia.md#时价)】`shr2 jia5` <sup>[如皋]</sup> 当时的市价。  
+1. 【[时节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_jih.md#时节)】`shr2 jih7` <small>/sɿ2 t͡ɕiʔ7/<sup>泰兴</sup></small> 四时的节日；节令，季节。<sup>\[泰兴\]</sup>  
 1. 【[时梅天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_mei_tin.md#时梅天)】`shr2 mei2 tin1` <sup>[东台]</sup> 指梅雨季节。民间称六月上旬芒种后进入梅天，夏至到小暑之间为时天，因这个时节空气湿度大，容易发霉，所以又叫“时霉天”“黄梅天”。  
 1. 【[时梅天/时霉天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_mei_tin.md#时梅天/时霉天)】`shr2 mei2 tin1` <sup>[泰州]</sup> 时雨、梅雨天气合称，泰州地区入梅稍迟，一般在芒种以后，夏至之前。  
+1. 【[时霉天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_mei_tin.md#时霉天)】`shr2 mei2 tin1` <small>/sɿ2 məɪ2 tʰĩ1/<sup>泰兴</sup></small> 芒种后初夏时的多雨阶段。<sup>\[泰兴\]</sup>：～，蓑衣斗篷不离肩<sup>\[泰兴\]</sup>  
 1. 【[时霉天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_mi_tin.md#时霉天)】`shr2 mi2 tin1` <sup>[如皋]</sup> 一般指芒种到小暑的一个月（芒种-夏至-小暑，前半个月为霉天，后半个月为时天）。多雨潮湿，易生霉变，故名。  
 1. 【[时髦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_mo.md#时髦)】`shr2 mo2` ① 服装款式奇特，时兴，漂亮。比喻人的着装整齐挺括。<sup>\[如东\]</sup> ② 形容人的发型、着装或其他饰物入时。<sup>\[东台\]</sup>  
 1. 【[时<sub>儿</sub>风时<sub>儿</sub>雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_r_fon_shr.md#时<sub>儿</sub>风时<sub>儿</sub>雨)】`shr2 r fon1 shr2 r y3` <sup>[如皋]</sup> 天气变化不定。比喻人的情绪、态度变化不定。见“辰儿风辰儿雨”。  
@@ -2069,7 +2072,8 @@
 1. 【[时人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_ren.md#时人)】`shr2 ren2` 发迹并在社会受到追捧的人<sup>\[泰州\]</sup>：他现在是～，难得在家吃夜饭。<sup>\[泰州\]</sup>  
 1. 【[时人<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_ren_r.md#时人<sub>儿</sub>)】`shr2 ren2 r` <sup>[兴化]</sup> （戏）指发迹受到宠信的人：他是全单位的～，忙得狠。  
 1. 【[时尚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_shan.md#时尚)】`shr2 shan6` <sup>[如东]</sup> 当时的风尚：现在这种打扮最～。  
-1. 【[时式](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_sheh.md#时式)】`shr2 sheh7` <small>/sɿ2 səʔ7/<sup>兴化</sup>, /sɿ2 səʔ7/<sup>如皋</sup></small> ① 流行的款式。<sup>\[如皋\]</sup> ② 正在流行的时新样式<sup>\[兴化\]</sup>：至于衣装，十分讲究，纱罗绸缎尽管选那上等一的……（《广陵潮》二）<sup>\[兴化\]</sup> ③ 时髦而新颖的样式<sup>\[泰州\]</sup>：这件衣裳不～咖，现在没得人穿。<sup>\[泰州\]</sup>  
+1. 【[时式](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_sheh.md#时式)】`shr2 sheh7` <small>/sɿ2 səʔ7/<sup>兴化</sup>, /sɿ2 səʔ7/<sup>如皋</sup>, /sɿ2 səʔ7/<sup>泰兴</sup></small> ① 流行的款式。<sup>\[如皋\]</sup> ② 正在流行的时新样式<sup>\[兴化\]</sup>：至于衣装，十分讲究，纱罗绸缎尽管选那上等一的……（《广陵潮》二）<sup>\[兴化\]</sup> ③ 时髦而新颖的样式<sup>\[泰州\]</sup>：这件衣裳不～咖，现在没得人穿。<sup>\[泰州\]</sup> ④ 新式的并十分流行的。<sup>\[泰兴\]</sup>：箇件衣裳～咖<sup>\[泰兴\]</sup>  
+1. 【[时熟场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_shoh_chan.md#时熟场)】`shr2 shoh8 chan2` <small>/sɿ2 sɔʔ8 t͡sʰɑŋ2/<sup>泰兴</sup></small> 庄稼成熟期间大面积收获的季节。<sup>\[泰兴\]</sup>：谚：麻雀儿还巴个～<sup>\[泰兴\]</sup>  
 1. 【[时水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_shuei.md#时水)】`shr2 shuei3` <sup>[如皋]</sup> 时天的雨水，是烹茶的上等水，稍次于霉水。  
 1. 【[时头上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_teu_shan.md#时头上)】`shr2 teu2 shan` <small>/sɿ2 tʰɤ2 saŋ/<sup>兴化</sup></small> ① 正在兴旺时期。<sup>\[如东\]</sup> ② 正在走时运的当口<sup>\[兴化\]</sup>：他正在～，得意得凶哩！<sup>\[兴化\]</sup>  
 1. 【[时头上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_teu_shan.md#时头上)】`shr2 teu2 shan6` <sup>[如皋]</sup> 运气好的阶段中。  
@@ -2078,6 +2082,7 @@
 1. 【[时桃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_to.md#时桃)】`shr2 to2` <sup>[如皋]</sup> 水蜜桃。  
 1. 【[时下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_xia.md#时下)】`shr2 xia6` <sup>[如皋]</sup> 即眼下。  
 1. 【[时兴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_xien.md#时兴)】`shr2 xien1` <small>/sɿ2 ɕiəŋ1/<sup>如皋</sup></small> ① 当时流行。<sup>\[如皋\]</sup> ② 兴时。<sup>\[如东\]</sup>：目前～这种款式。<sup>\[如东\]</sup> ③ 流行<sup>\[东台\]</sup>：现在办婚事都～请专业礼仪班子。<sup>\[东台\]</sup>  
+1. 【[时新](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_xien.md#时新)】`shr2 xien1` <small>/sɿ2 ɕiŋ1/<sup>泰兴</sup></small> 应时而鲜美的东西。<sup>\[泰兴\]</sup>  
 1. 【[时行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_xien.md#时行)】`shr2 xien2` <sup>[如皋]</sup> 当时流行。  
 1. 【[时鲜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_xin.md#时鲜)】`shr2 xin1` 带有季节特点的新上市的美味<sup>\[泰州\]</sup>：三月里吃刀鱼，真正是～吖。<sup>\[泰州\]</sup>  
 1. 【[时鲜货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_xin_hu.md#时鲜货)】`shr2 xin1 hu5` <small>/sɿ2 ɕiɪ̃1 xo5/<sup>兴化</sup>, /sɿ2 ɕĩ1 xʊ5/<sup>如皋</sup></small> ① 应时新鲜食品。<sup>\[如皋\]</sup> ② 见“上市货”。<sup>\[如皋\]</sup> ③ 当令的时常新鲜食品<sup>\[东台\]</sup>：在农村吃的蔬菜都是～。<sup>\[东台\]</sup> ④ 刚上市的应时鲜活商品<sup>\[兴化\]</sup>：五月的黄鱼，八月的螃蟹都是～。<sup>\[兴化\]</sup>  
