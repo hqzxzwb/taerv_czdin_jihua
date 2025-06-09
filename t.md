@@ -1173,7 +1173,7 @@
 1. 【[胅胅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_tih.md#胅胅)】`tih8 tih8` <sup>[泰县]</sup> 突出：她的肚子～的，恐怕要生小伢儿啦。  
 1. 【[胅胅的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_tih_dii.md#胅胅的)】`tih8 tih8 dii` <sup>[泰州]</sup> 凸起的样子：他家三姑娘肚子～，怕的要养唻。｜你望你吃得肚子～，就不能少吃一碗吖。  
 1. 【[胅胸走](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_xion_zeu.md#胅胸走)】`tih8 xion1 zeu3` <sup>[如皋]</sup> 鸡胸畸型者走路时的体态。  
-1. 【[天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin.md#天)】`tin1` <small>/tʰĩ1/<sup>泰兴</sup>, /tʰiɪ̃1/<sup>泰县</sup></small> 天气<sup>\[泰县\]</sup><sup>\[泰兴\]</sup>：今朝～怎吖说？今朝～不丑。<sup>\[泰兴\]</sup>  
+1. 【[天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin.md#天)】`tin1` <small>/tʰiɪ̃1/<sup>兴化</sup>, /tʰĩ1/<sup>如皋</sup>, /tʰĩ1/<sup>泰兴</sup>, /tʰiɪ̃1/<sup>泰县</sup></small> ① 天气<sup>\[泰县\]</sup><sup>\[泰兴\]</sup>：今朝～怎吖说？今朝～不丑。<sup>\[泰兴\]</sup> ② 一昼夜，或专指昼间：一～，两～  
 1. 【[天把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_ba.md#天把)】`tin1 ba` <sup>[如东]</sup> 约一天：来去～时间。  
 1. 【[天把天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_ba_tin.md#天把天)】`tin1 ba tin1` <sup>[泰兴]</sup> 一两天。谓时间不长。  
 1. 【[天粑粑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_ba_ba.md#天粑粑)】`tin1 ba1 ba1` <small>/tʰĩ1 pa1 pa1/<sup>如皋</sup></small> ① 见“亮粑粑”。<sup>\[如皋\]</sup> ② 月亮，儿语，视为天上的饼。<sup>\[如皋\]</sup> ③ 月亮。<sup>\[如东\]</sup>  
@@ -1278,7 +1278,6 @@
 1. 【[天头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_teu.md#天头)】`tin1 teu` <sup>[东台]</sup> 多指老年人的智力：老父亲神志清醒，～真好。  
 1. 【[天地良心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_ti_lian_xien.md#天地良心)】`tin1 ti6 lian2 xien1` <sup>[兴化]</sup> 指人生天地之间应有的良知：做人不讲～，总是要遣到报应的。  
 1. 【[天地炮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_ti_po.md#天地炮)】`tin1 ti6 po5` <small>/tʰĩ1 tʰʝ1 pʰɔ5/<sup>如皋</sup></small> ① 炮仗的一种，又叫“双响”。<sup>\[如皋\]</sup> ② 大的炮仗（爆竹）。<sup>\[东台\]</sup>  
-1. 【[天天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_tin.md#天天)】`tin1 tin1` <sup>[泰兴]</sup> 每一天。  
 1. 【[天天个天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_tin_gu_tin.md#天天个天)】`tin1 tin1 gu tin1` <sup>[东台]</sup> 每一天：十多年吖，～都要为老人按摩，了不起！  
 1. 【[天天个天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_tin_gu_tin.md#天天个天)】`tin1 tin1 gu5 tin1` <sup>[泰州]</sup> 每天都一天，亦即每一天均如此：请假服侍他，哪怕请一个月假都不要紧，～，你不能不上班啊。｜一天、两天不吃早饭没事，天天个天不吃早饭，你怎吖不得胃病吖。  
 1. 【[天天有个天天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_tin_ieu_gu.md#天天有个天天)】`tin1 tin1 ieu3 gu tin1 tin1` <sup>[如皋]</sup> 长此下去：老爹作，～，子女又要上班，一定要找个人服侍。  

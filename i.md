@@ -1055,7 +1055,6 @@
 1. 【[一递一……](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_ti_ieh.md#一递一……)】`ieh7 ti6 ieh7` <sup>[泰州]</sup> 常见短语结构类型之一，表示两个或者两个以上的人相互交替做同样的动作：你俫两个人一递一个星期值班。｜他俫两家一递一回请客。｜我俫两个人一递一段的读。  
 1. 【[一递一半](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_ti_ieh_bun.md#一递一半)】`ieh7 ti6 ieh7 bun5` <sup>[泰州]</sup> 双方瓜分东西之时各得一半：剩吖一个馒头，我俫～分吖吃掉吧。  
 1. 【[一定二规](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_tien_er_guei.md#一定二规)】`ieh7 tien6 er6 guei1` <sup>[兴化]</sup> 坚决的、确定不移的：你听人劝不要闹，你要是～的要如何我俫就不管吖。  
-1. 【[一天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_tin.md#一天)】`ieh7 tin1` <sup>[如东]</sup> 从天明至天黑，称一天。  
 1. 【[一天不多，十天许多](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_tin_beh_du.md#一天不多，十天许多)】`ieh7 tin1 beh7 du1 sheh8 tin1 xy3 du1` <sup>[泰兴]</sup> 指每天积累，时间一长，就会积累许多。  
 1. 【[一天到夜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_tin_do_ia.md#一天到夜)】`ieh7 tin1 do5 ia6` <sup>[泰兴]</sup> 指从早到晚，整天的：箇个伢儿～的耍子，不想吖做作业。  
 1. 【[一天到夜的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_tin_do_ia.md#一天到夜的)】`ieh7 tin1 do5 ia6 dii` <sup>[如皋]</sup> 见“一天夜的”。  
