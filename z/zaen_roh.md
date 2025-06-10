@@ -10,7 +10,7 @@ zaen1 roh8(txe,rg:0;xh:leu5)
   * 泰兴方言辞典
 
 # 劗肉
-zaen1 roh8
+zaen1 roh8(xh:leu5)
 + 将肉剁碎。
   * 如东方言词典
   * 兴化方言词典
