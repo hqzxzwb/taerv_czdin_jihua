@@ -1612,8 +1612,7 @@
 1. 【[脉信](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_xien.md#脉信)】`moh8 xien5` <sup>[如皋]</sup> 脉诊的本领，医家的医术。  
 1. 【[脉性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_xien.md#脉性)】`moh8 xien5` <small>/mɔʔ8 ɕin5/<sup>兴化</sup></small> ① 脉膊博动的状况与规律，中医称脉性。<sup>\[如东\]</sup> ② 中医切脉的本领，泛指医床。<sup>\[东台\]</sup> ③ 指中医的医术<sup>\[兴化\]</sup>：老王先生～不丑。<sup>\[兴化\]</sup> ④ 脉象<sup>\[兴化\]</sup>：按照她的～，八成是有啊喜！<sup>\[兴化\]</sup>  
 1. 【[麦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh.md#麦)】`moh8` ① 麦 ② 一年生或二年生草本植物，子实用来磨面粉，也可用来做饭、制糖、酿酒。是重要的粮食作物，有小麦、大麦、元麦等品种。<sup>\[如东\]</sup>  
-1. 【[麦场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_chan.md#麦场)】`moh8 chan2` <sup>[如皋]</sup> 夏收夏种时节。  
-1. 【[麦场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_chan.md#麦场)】`moh8 chan2` <small>/mɔʔ8 t͡sʰɑŋ2/<sup>泰兴</sup></small> 收获麦子的季节。<sup>\[泰兴\]</sup>  
+1. 【[麦场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_chan.md#麦场)】`moh8 chan2` <small>/mɔʔ8 t͡sʰã2/<sup>如皋</sup>, /mɔʔ8 t͡sʰɑŋ2/<sup>泰兴</sup></small> 夏收夏种时节，收获麦子的时节。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
 1. 【[麦场时候](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_chan_shr_heu.md#麦场时候)】`moh8 chan2 shr2 heu` <sup>[如皋]</sup> 见“麦场”。  
 1. 【[麦铳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_chon_zz.md#麦铳子)】`moh8 chon5 zz` <sup>[兴化]</sup> 大麦酿制的烧酒：“替我买四两烧酒来吃，要顶好～……”（《广陵潮》七十）  
 1. 【[麦草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_co.md#麦草)】`moh8 co3` <sup>[兴化]</sup> 经碌碡碾压过的乱麦秸。  
@@ -1636,20 +1635,16 @@
 1. 【[麦冷蒸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_len_zhen.md#麦冷蒸)】`moh8 len3 zhen1` <sup>[东台]</sup> 同“麦嫩冷”。  
 1. 【[麦冷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_len_zz.md#麦冷子)】`moh8 len3 zz` <sup>[兴化]</sup> 没有干透的麦粒。  
 1. 【[麦老要抢，稻老要养](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_lo_io_qian.md#麦老要抢，稻老要养)】`moh8 lo3 io5 qian3 to6 lo3 io5 ian3` <small>/mɔʔ8 lɔ3 iɔ5 t͡ɕʰiɑŋ3 tʰɔ1 lɔ3 iɔ5 iɑŋ3/<sup>泰兴</sup></small> 农谚。谓收麦子要抢时间，稻子则宜老熟。<sup>\[泰兴\]</sup>  
-1. 【[麦芒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_man.md#麦芒)】`moh8 man2` <sup>[如东]</sup> 麦穗上的针状物。  
-1. 【[麦芒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_man.md#麦芒)】`moh8 man2` <small>/mɔʔ8 mɑŋ2/<sup>泰兴</sup></small> 麦穗之芒。<sup>\[泰兴\]</sup>  
+1. 【[麦芒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_man.md#麦芒)】`moh8 man2` <small>/mɔʔ8 mɑŋ2/<sup>泰兴</sup></small> 麦穗芒刺<sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
 1. 【[麦芒钻进针眼里——凑巧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_man_zun_jien.md#麦芒钻进针眼里——凑巧)】`moh8 man2 zun1 jien5 zhen1 ngaen3 lii ceu5 qio3` <sup>[东台]</sup>   
 1. 【[麦门冬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_men_don.md#麦门冬)】`moh8 men2 don1` <sup>[如东]</sup> 百合科植物沿阶草。  
 1. 【[麦嫩冷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_nen_len.md#麦嫩冷)】`moh8 nen6 len3` <sup>[东台]</sup> 将八成熟的麦子炒熟磨成条状物，供食用。又叫麦嫩仁。  
 1. 【[麦芽糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_nga_tan.md#麦芽糖)】`moh8 nga2 tan2` <sup>[如东]</sup> 糖的一种，白色针状结构，甜味不如蔗糖。也称饴糖。  
 1. 【[麦奴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_nv.md#麦奴)】`moh8 nv2` <sup>[如东]</sup> 禾本科植物小麦果穗感染了黑粉科真菌麦散粉索产生的菌瘿。  
 1. 【[麦穰草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_ran_co.md#麦穰草)】`moh8 ran co3` <sup>[如皋]</sup> 碾场脱粒后的大、元麦秸。见“穰草”。  
-1. 【[麦穰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_ran.md#麦穰)】`moh8 ran2` <sup>[如东]</sup> 碾压以后的麦秸，比较柔软。  
-1. 【[麦穰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_ran.md#麦穰)】`moh8 ran2` <small>/mɔʔ8 ɻɑŋ2/<sup>泰兴</sup></small> 脱粒后的杂乱麦草。<sup>\[泰兴\]</sup>  
-1. 【[麦穰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_ran.md#麦穰)】`moh8 ran2-3` <sup>[泰县]</sup> 碾压以后的麦草。  
+1. 【[麦穰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_ran.md#麦穰)】`moh8 ran2` <small>/mɔʔ8 ɻɑŋ2/<sup>泰兴</sup>, /mɔʔ8 ɻɑŋ3/<sup>泰县</sup></small> ① 碾压以后的麦秸<sup>\[泰县\]</sup>\[如东：比较柔软\] ② 脱粒后的杂乱麦草。<sup>\[泰兴\]</sup>  
 1. 【[麦穰草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_ran_co.md#麦穰草)】`moh8 ran2 co3` <small>/mɔʔ8 ɻã2 t͡sʰɔ3/<sup>如皋</sup></small> ① 碾过的麦秆。又称穰草。<sup>\[如皋\]</sup> ② 见“穰草”。<sup>\[如皋\]</sup>  
-1. 【[麦仁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_ren.md#麦仁)】`moh8 ren2` <sup>[如皋]</sup> 青麦粒。  
-1. 【[麦仁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_ren.md#麦仁)】`moh8 ren2` <small>/mɔʔ8 ɻəŋ2/<sup>泰兴</sup></small> 脱壳去皮后的麦粒，可作饭。<sup>\[泰兴\]</sup>  
+1. 【[麦仁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_ren.md#麦仁)】`moh8 ren2` <small>/mɔʔ8 ɻəŋ2/<sup>如皋</sup>, /mɔʔ8 ɻəŋ2/<sup>泰兴</sup></small> ① 青麦粒。<sup>\[如皋\]</sup> ② 脱壳去皮后的麦粒，可作饭。<sup>\[泰兴\]</sup>  
 1. 【[麦田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_tin.md#麦田)】`moh8 tin2` <sup>[如东]</sup> 种植小麦、大麦、元麦等麦类作物的田。  
 1. 【[麦田里扯到菜田里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_tin_lii_cha.md#麦田里扯到菜田里)】`moh8 tin2 lii cha3 do5 cae5 tin2 lii` <small>/mɔʔ8 tʰĩ2 ləɪ t͡sʰɑ3 tɔ5 t͡ɕʰiɛ5 tʰĩ2 ləɪ/<sup>泰兴</sup></small> 喻语言表达层次不清，中心不明，东扯西拉。<sup>\[泰兴\]</sup>  
 1. 【[麦田里捉龟——稳取](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_tin_lii_zhuah.md#麦田里捉龟——稳取)】`moh8 tin2 lii zhuah7 guei1 ven3 qy3` <sup>[东台]</sup>   

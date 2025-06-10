@@ -232,8 +232,7 @@
 1. 【[依赖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_lae.md#依赖)】`i1 lae6` <sup>[如东]</sup> 依靠别人或其他事物而存在，不能自主：～别人生活。  
 1. 【[依旧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_qieu.md#依旧)】`i1 qieu6` <sup>[如东]</sup> 照旧：还是～。  
 1. 【[依妥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_tu.md#依妥)】`i1 tu3` <sup>[如皋]</sup> 了结，罢休。  
-1. 【[医家先生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_jia_xin_shen.md#医家先生)】`i1 jia1 xin1 shen` <sup>[兴化]</sup> 医生，尤指中医：……请～看病啊，买药啊，都要用钱。（扬二《吹箫过市》）  
-1. 【[医家先生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_jia_xin_shen.md#医家先生)】`i1 jia1 xin1 shen` <small>/ʝ1 t͡ɕiɑ1 ɕĩ1 səŋ/<sup>泰兴</sup></small> 医生。乡人对医生的尊称。<sup>\[泰兴\]</sup>  
+1. 【[医家先生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_jia_xin_shen.md#医家先生)】`i1 jia1 xin1 shen` <small>/i1 t͡ɕia1 ɕiɪ̃1 sən/<sup>兴化</sup>, /ʝ1 t͡ɕiɑ1 ɕĩ1 səŋ/<sup>泰兴</sup></small> ① 医生，尤指中医<sup>\[兴化\]</sup>：……请～看病啊，买药啊，都要用钱。（扬二《吹箫过市》）<sup>\[兴化\]</sup> ② 医生。乡人对医生的尊称。<sup>\[泰兴\]</sup>  
 1. 【[医家先生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_jia_xin_shen.md#医家先生)】`i1 jia1 xin1 shen1` <sup>[泰州]</sup> 对医生的敬称：她这刀要请南京的～来开。  
 1. 【[衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#衣)】`i1` <small>/ʝ1/<sup>如皋</sup>, /ʝ1/<sup>泰兴</sup></small> ① 指胎盘<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：～胞、伢儿～。中药名“紫河车”。<sup>\[如皋\]</sup> ② 小麦粒上的壳、芦柴的叶柄<sup>\[如皋\]</sup>：～裹儿。<sup>\[如皋\]</sup> ③ 服装<sup>\[如皋\]</sup>：～裳、老～。<sup>\[如皋\]</sup>  
 1. 【[衣胞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_bo.md#衣胞)】`i1 bo1` <small>/ʝ1 pɔ1/<sup>如皋</sup></small> ① 胎盘。<sup>\[如皋\]</sup><sup>\[如东\]</sup> ② 胞衣，包在胎儿体表上的一层胞膜。<sup>\[泰州\]</sup>  
@@ -255,6 +254,8 @@
 1. 【[衣裳是新的好，人是旧的好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_shan_shr_xien.md#衣裳是新的好，人是旧的好)】`i1 shan shr6 xien1 dii ho3 ren2 shr6 qieu6 dii ho3` <small>/ʝ1 sɑŋ sɿ1 ɕiŋ1 təɪ xɔ3 ɻəŋ2 sɿ1 t͡ɕʰiɤɯ1 təɪ xɔ3/<sup>泰兴</sup></small> 谓相交的人时间越长，相互了解越透彻，感情也就越深；而衣服是新的漂亮。此乃处世之道。<sup>\[泰兴\]</sup>  
 1. 【[衣食饭碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_sheh_faen_un.md#衣食饭碗)】`i1 sheh8 faen6 un3` <small>/i1 səʔ8 fɛ̃6 ũ3/<sup>兴化</sup>, /ʝ1 səʔ8 fɛ̃1 ʊ̃3/<sup>泰兴</sup></small> ① 衣服和食物。（喻）作为主要生活来源的工作<sup>\[兴化\]</sup>：“……他爱拿那个缺给谁，也不管我事，何必这时候来抢我的～呢……”（《官场现形记》四）。“我就是一副担子……对不起，不借。～，不能当玩意。”（《皮五辣子》二）<sup>\[兴化\]</sup> ② 比喻赖以为生的职业或技能等。<sup>\[泰兴\]</sup>  
 1. 【[衣食父母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_sheh_fv_mu.md#衣食父母)】`i1 sheh8 fv6 mu3` <small>/i1 səʔ8 fu6 mo3/<sup>兴化</sup></small> ① （喻）提供主要生活来源的人<sup>\[兴化\]</sup>：顾客是店家的～。<sup>\[兴化\]</sup> ② 供给自己衣食的人，比喻自己赖以生活的人<sup>\[泰州\]</sup>：客户就是我俫生意人的衣食父母！<sup>\[泰州\]</sup>  
+1. 【[衣箱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_xian.md#衣箱)】`i1 xian1` <sup>[如皋]</sup> 纸扎的烧化给死者的箱子。家常所用则称“箱子、皮箱、木箱、藤箱等”。  
+1. 【[衣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_zz.md#衣子)】`i1 zz` <small>/i1 t͡sɿ/<sup>兴化</sup>, /ʝ1 t͡sɿ/<sup>如皋</sup></small> ① 轻而小的纤维飞尘或纤维，床下、衣袋内常见到。如纱～。<sup>\[如皋\]</sup> ② 芦苇、竹子内壁的薄膜。<sup>\[兴化\]</sup> ③ 豆浆、米粥等表面凝结成的薄膜。<sup>\[兴化\]</sup> ④ 从絮棉或棉布上飘落的纤维<sup>\[兴化\]</sup>：棉花～；布～。<sup>\[兴化\]</sup>  
 [更多...](./i.md)
 ## J
 1. 【[䤒花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_hua.md#䤒花)】`ji1 hua` 在盐卤、酱油之类盐分多的液体表面生长出的白色霉块。<sup>\[泰州\]</sup>  

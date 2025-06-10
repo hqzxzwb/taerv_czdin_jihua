@@ -8,8 +8,7 @@
 1. 【[依赖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_lae.md#依赖)】`i1 lae6` <sup>[如东]</sup> 依靠别人或其他事物而存在，不能自主：～别人生活。  
 1. 【[依旧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_qieu.md#依旧)】`i1 qieu6` <sup>[如东]</sup> 照旧：还是～。  
 1. 【[依妥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_tu.md#依妥)】`i1 tu3` <sup>[如皋]</sup> 了结，罢休。  
-1. 【[医家先生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_jia_xin_shen.md#医家先生)】`i1 jia1 xin1 shen` <sup>[兴化]</sup> 医生，尤指中医：……请～看病啊，买药啊，都要用钱。（扬二《吹箫过市》）  
-1. 【[医家先生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_jia_xin_shen.md#医家先生)】`i1 jia1 xin1 shen` <small>/ʝ1 t͡ɕiɑ1 ɕĩ1 səŋ/<sup>泰兴</sup></small> 医生。乡人对医生的尊称。<sup>\[泰兴\]</sup>  
+1. 【[医家先生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_jia_xin_shen.md#医家先生)】`i1 jia1 xin1 shen` <small>/i1 t͡ɕia1 ɕiɪ̃1 sən/<sup>兴化</sup>, /ʝ1 t͡ɕiɑ1 ɕĩ1 səŋ/<sup>泰兴</sup></small> ① 医生，尤指中医<sup>\[兴化\]</sup>：……请～看病啊，买药啊，都要用钱。（扬二《吹箫过市》）<sup>\[兴化\]</sup> ② 医生。乡人对医生的尊称。<sup>\[泰兴\]</sup>  
 1. 【[医家先生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_jia_xin_shen.md#医家先生)】`i1 jia1 xin1 shen1` <sup>[泰州]</sup> 对医生的敬称：她这刀要请南京的～来开。  
 1. 【[衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#衣)】`i1` <small>/ʝ1/<sup>如皋</sup>, /ʝ1/<sup>泰兴</sup></small> ① 指胎盘<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：～胞、伢儿～。中药名“紫河车”。<sup>\[如皋\]</sup> ② 小麦粒上的壳、芦柴的叶柄<sup>\[如皋\]</sup>：～裹儿。<sup>\[如皋\]</sup> ③ 服装<sup>\[如皋\]</sup>：～裳、老～。<sup>\[如皋\]</sup>  
 1. 【[衣胞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_bo.md#衣胞)】`i1 bo1` <small>/ʝ1 pɔ1/<sup>如皋</sup></small> ① 胎盘。<sup>\[如皋\]</sup><sup>\[如东\]</sup> ② 胞衣，包在胎儿体表上的一层胞膜。<sup>\[泰州\]</sup>  
@@ -289,8 +288,7 @@
 1. 【[约住他](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_chv_ta.md#约住他)】`iah7 chv ta1` <sup>[如皋]</sup> （也说ya5）用方法，暗中稳住，拖住，限住，使之不能离开这个地方。  
 1. 【[约而摸酌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_er_mah_zhah.md#约而摸酌)】`iah7 er mah zhah7` <small>/iɑʔ7 ɚ mɑʔ t͡sɑʔ7/<sup>泰兴</sup></small> 约莫，大约莫。<sup>\[泰兴\]</sup>  
 1. 【[约约匡匡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_iah_kuan_kuan.md#约约匡匡)】`iah7 iah7 kuan1 kuan1` <sup>[泰县]</sup> 大体上估算：你这回砌房子～要花多少钱？  
-1. 【[约约数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_iah_shv.md#约约数)】`iah7 iah7 shv5` <sup>[东台]</sup> 同“马马意”、“匡匡酌酌”。  
-1. 【[约约数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_iah_shv.md#约约数)】`iah7 iah7 shv5` <small>/iɑʔ7 iɑʔ7 su5/<sup>泰兴</sup></small> 大体估计，不求精确。<sup>\[泰兴\]</sup>  
+1. 【[约约数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_iah_shv.md#约约数)】`iah7 iah7 shv5` <small>/iɑʔ7 iɑʔ7 su5/<sup>泰兴</sup></small> ① 同“马马意”、“匡匡酌酌”。<sup>\[东台\]</sup> ② 大体估计，不求精确。<sup>\[泰兴\]</sup>  
 1. 【[约匡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_kuan.md#约匡)】`iah7 kuan1` <sup>[兴化]</sup> 大致匡估：这块稻田亩产～千斤挂零。  
 1. 【[约摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_mah.md#约摸)】`iah7 mah` <sup>[如皋]</sup> 估计，大体，大约。  
 1. 【[约摸数<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_mah_shv_r.md#约摸数<sub>儿</sub>)】`iah7 mah shv5 r` <small>/iaʔ7 maʔ su˞5/<sup>如皋</sup></small> 大概的估计，大约。<sup>\[如皋\]</sup><sup>\[如东\]</sup>：～有多少？<sup>\[如东\]</sup>  
@@ -2248,18 +2246,15 @@
 1. 【[袁丛韩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_con_hun.md#袁丛韩)】`iun2 con2 hun2` <sup>[如皋]</sup> 地名，如皋江防乡三洞口村的一个组。因三姓同时迁来而得名。  
 1. 【[袁大头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_da_teu.md#袁大头)】`iun2 da6 teu2` <sup>[东台]</sup> 指民国初年发行的铸有袁世凯头像的银元。  
 1. 【[辕绳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_shen.md#辕绳)】`iun2 shen2` <sup>[如皋]</sup> 将“牛辕”中段与“犁辕”端部系联起来的短绳。又名“七寸扣儿”。  
-1. 【[远房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_fan.md#远房)】`iun3 fan2` <sup>[东台]</sup> 血统较远的宗族成员：～兄弟。  
-1. 【[远房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_fan.md#远房)】`iun3 fan2` <small>/yʊ̃3 fɑŋ2/<sup>泰兴</sup></small> 指血统疏远的宗族。<sup>\[泰兴\]</sup>  
-1. 【[远约近还](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_iah_qien_huaen.md#远约近还)】`iun3 iah7 qien6 huaen2` <sup>[兴化]</sup> 提前兑现承诺：只要资金到位，保证让你俫按时搬进新居，争取～，越早越好。  
-1. 【[远约近还](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_iah_qien_huaen.md#远约近还)】`iun3 iah7 qien6 huaen2` <small>/yʊ̃3 iɑʔ7 t͡ɕʰiŋ1 xuɛ̃2/<sup>泰兴</sup></small> 谓讲求诚信，提前实施以前答应的话。<sup>\[泰兴\]</sup>  
+1. 【[远房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_fan.md#远房)】`iun3 fan2` <small>/yʊ̃3 fɑŋ2/<sup>泰兴</sup></small> 血统较远的宗族<sup>\[东台\]</sup><sup>\[泰兴\]</sup>：～兄弟。<sup>\[东台\]</sup>  
+1. 【[远约近还](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_iah_qien_huaen.md#远约近还)】`iun3 iah7 qien6 huaen2` <small>/yũ3 iaʔ7 t͡ɕʰin6 xuɛ̃2/<sup>兴化</sup>, /yʊ̃3 iɑʔ7 t͡ɕʰiŋ1 xuɛ̃2/<sup>泰兴</sup></small> ① 提前兑现承诺<sup>\[兴化\]</sup>：只要资金到位，保证让你俫按时搬进新居，争取～，越早越好。<sup>\[兴化\]</sup> ② 谓讲求诚信，提前实施以前答应的话。<sup>\[泰兴\]</sup>  
 1. 【[远来香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_lae_xian.md#远来香)】`iun3 lae2 xian1` <sup>[兴化]</sup> 指亲友间居住地距离远，平常接触少，见面时更有亲切感。俗语：亲戚家～。  
 1. 【[远离啊亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_li_a_qien.md#远离啊亲)】`iun3 li2 a qien1` <sup>[东台]</sup> 两者保持一定距离反而亲热、融洽。也作“远离啊香”。  
 1. 【[远离他乡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_li_ta_xian.md#远离他乡)】`iun3 li2 ta1 xian1` <sup>[兴化]</sup> 离开家乡到很远的地方去：你依我，拿点儿本钱～出去做生意。  
 1. 【[远路没轻担](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_lv_meh_qien.md#远路没轻担)】`iun3 lv6 meh8 qien1 daen5` <small>/yũ3 lu6 məʔ8 t͡ɕʰin1 tɛ̃5/<sup>兴化</sup>, /yʊ̃3 lu1 məʔ8 t͡ɕʰiŋ1 tɛ̃5/<sup>泰兴</sup></small> 路途远，担子再轻也觉重。<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>  
 1. 【[远怕水，近怕鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_pa_shuei_qien.md#远怕水，近怕鬼)】`iun3 pa5 shuei3 qien6 pa5 guei3` <small>/yʊ̃3 pʰɑ5 suəɪ3 t͡ɕʰiŋ1 pʰɑ5 kuəɪ3/<sup>泰兴</sup></small> 谓在不熟悉的地方不敢贸然涉水，而在近处听传有鬼作圣，心里害怕。<sup>\[泰兴\]</sup>  
 1. 【[远亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_qien.md#远亲)】`iun3 qien1` <sup>[东台]</sup> 血统关系或婚姻关系较远的亲戚。  
-1. 【[远亲不如近邻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_qien_beh_rv.md#远亲不如近邻)】`iun3 qien1 beh7 rv2 qien6 lien2` <sup>[如皋]</sup> 有急事近邻可以帮上忙。  
-1. 【[远亲不如近邻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_qien_beh_rv.md#远亲不如近邻)】`iun3 qien1 beh7 rv2 qien6 lien2` <small>/yʊ̃3 t͡ɕʰiŋ1 pəʔ7 ɻu2 t͡ɕʰiŋ1 liŋ2/<sup>泰兴</sup></small> 谓好邻居比远方亲戚更能互相帮助。<sup>\[泰兴\]</sup>  
+1. 【[远亲不如近邻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_qien_beh_rv.md#远亲不如近邻)】`iun3 qien1 beh7 rv2 qien6 lien2` <small>/yʊ̃3 t͡ɕʰiəŋ1 pəʔ7 ɻu2 t͡ɕʰiəŋ1 liəŋ2/<sup>如皋</sup>, /yʊ̃3 t͡ɕʰiŋ1 pəʔ7 ɻu2 t͡ɕʰiŋ1 liŋ2/<sup>泰兴</sup></small> ① 有急事近邻可以帮上忙。<sup>\[如皋\]</sup> ② 谓好邻居比远方亲戚更能互相帮助。<sup>\[泰兴\]</sup>  
 1. 【[远水救不了近火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_shuei_jieu_beh.md#远水救不了近火)】`iun3 shuei3 jieu5 beh7 lio3 qien6 hu3` <sup>[东台]</sup> 远路援助和长久办法虽好，但不能解决燃眉之急。  
 1. 【[远乡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_xian.md#远乡)】`iun3 xian1` <sup>[如皋]</sup> 离城市很远的农村。  
 1. 【[远乡下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_xian_ha.md#远乡下)】`iun3 xian1 ha6` <small>/yʊ̃3 ɕiɑŋ1 xɑ1/<sup>泰兴</sup></small> 远方，偏僻的农村。<sup>\[泰兴\]</sup>  

@@ -896,9 +896,7 @@
 1. 【[呆啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_a.md#呆啊)】`dae1 a` <sup>[如皋]</sup> 患了精神病。  
 1. 【[呆啊肫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_a_den.md#呆啊肫)】`dae1 a den1` <sup>[东台]</sup> ① 家禽吃得过多，胃子装不下。 ② ［喻］人吃得过饱，行动不便：现在要科学养生，不能吃咖～。  
 1. 【[呆巴若猴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_ba_rah_heu.md#呆巴若猴)】`dae1 ba rah8 heu2` <sup>[泰州]</sup> 愚蠢，呆傻：会上大家都不表态，只有这小伙～的说咖一气。  
-1. 【[呆巴入猴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_ba_reh_heu.md#呆巴入猴)】`dae1 ba reh8 heu2` <sup>[兴化]</sup> 形容傻气：～的。  
-1. 【[呆巴入猴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_ba_reh_heu.md#呆巴入猴)】`dae1 ba reh8 heu2` <small>/tɛ1 pɑ ɻəʔ8 xəɪ2/<sup>泰兴</sup></small> 呆瓜，傻瓜之态。<sup>\[泰兴\]</sup>  
-1. 【[呆巴入猴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_ba_reh_heu.md#呆巴入猴)】`dae1 ba reh8 heu2` <sup>[如皋]</sup> 傻乎乎的。  
+1. 【[呆巴入猴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_ba_reh_heu.md#呆巴入猴)】`dae1 ba reh8 heu2` <small>/tɛ1 pa ləʔ8 xɤ2/<sup>兴化</sup>, /tɛ1 pa ɻəʔ8 xei2/<sup>如皋</sup>, /tɛ1 pɑ ɻəʔ8 xəɪ2/<sup>泰兴</sup></small> 形容呆傻<sup>\[兴化\]</sup><sup>\[泰兴\]</sup><sup>\[如皋\]</sup>：～的。<sup>\[兴化\]</sup>  
 1. 【[呆巴拉哈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_ba_la_ha.md#呆巴拉哈)】`dae1 ba1 la ha` <sup>[如东]</sup> 不聪明，不灵活：王五儿是个～的人。  
 1. 【[呆巴入冲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_ba_reh_chon.md#呆巴入冲)】`dae1 ba1 reh8 chon5` <sup>[东台]</sup> 形容头脑简单，贸然行事。  
 1. 【[呆巴入猴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_ba_reh_heu.md#呆巴入猴)】`dae1 ba1 reh8 heu2` <sup>[东台]</sup> 形容做事没有分寸。  
@@ -926,8 +924,7 @@
 1. 【[呆里呆气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_lii_dae_qi.md#呆里呆气)】`dae1 lii dae1 qi5` <sup>[泰州]</sup> 愚蠢糊涂的样子：人家玩吖他，他还～的跟吖后头笑。  
 1. 【[呆里呆气的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_lii_dae_qi.md#呆里呆气的)】`dae1 lii dae1 qi5 dii` <sup>[如皋]</sup> 傻乎乎的。  
 1. 【[呆里瘕巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_lii_ha_ba.md#呆里瘕巴)】`dae1 lii ha2 ba1` <sup>[泰县]</sup> 愣头愣脑。  
-1. 【[呆里瘕气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_lii_ha_qi.md#呆里瘕气)】`dae1 lii ha2 qi5` <small>/tɛ1 ləi xa2 t͡ɕʰi5/<sup>兴化</sup>, /tɛ1 ləɪ xɑ2 t͡ɕʰʝ5/<sup>泰兴</sup></small> ① 呆头呆脑，低三下四。<sup>\[如东\]</sup>：不要～的。<sup>\[如东\]</sup> ② 痴呆、疯癫。说话办事不靠谱。<sup>\[东台\]</sup> ③ 形容人缺乏灵气。<sup>\[兴化\]</sup> ④ 像呆子一样地蛮干、乱说。<sup>\[泰兴\]</sup>  
-1. 【[呆里瘕气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_lii_ha_qi.md#呆里瘕气)】`dae1 lii ha2 qi5` <sup>[如皋]</sup> 傻乎乎的。  
+1. 【[呆里瘕气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_lii_ha_qi.md#呆里瘕气)】`dae1 lii ha2 qi5` <small>/tɛ1 ləi xa2 t͡ɕʰi5/<sup>兴化</sup>, /tɛ1 tei xa2 t͡ɕʰʝ5/<sup>如皋</sup>, /tɛ1 ləɪ xɑ2 t͡ɕʰʝ5/<sup>泰兴</sup></small> ① 呆头呆脑，低三下四。<sup>\[如东\]</sup>：不要～的。<sup>\[如东\]</sup> ② 痴呆、疯癫。说话办事不靠谱。<sup>\[东台\]</sup> ③ 形容人缺乏灵气。<sup>\[兴化\]</sup> ④ 像呆子一样地蛮干、乱说。<sup>\[泰兴\]</sup> ⑤ 傻乎乎的。<sup>\[如皋\]</sup>  
 1. 【[呆里木足](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_lii_moh_zoh.md#呆里木足)】`dae1 lii moh8 zoh7` <sup>[东台]</sup> 做事不灵活。  
 1. 【[呆里入瘕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_lii_reh_ha.md#呆里入瘕)】`dae1 lii reh8 ha2` <sup>[兴化]</sup> 形容人缺乏灵气。  
 1. 【[呆木冲<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_moh_chon_r.md#呆木冲<sub>儿</sub>)】`dae1 moh8 chon5 r` <sup>[东台]</sup> 同“呆巴入冲”和“木冲子”。  

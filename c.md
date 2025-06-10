@@ -41,8 +41,7 @@
 1. 【[财神日子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_shen_rih_zz.md#财神日子)】`cae2 shen2 rih8 zz` <small>/t͡sʰɛ2 sən2 liɪʔ8 t͡sɿ/<sup>兴化</sup>, /t͡ɕʰiɛ2 səŋ iʔ8 t͡sɿ/<sup>泰兴</sup></small> ① 旧俗正月初五为～，家家黎明即起，忙于接财神，取一年中“财源茂盛”的吉兆。<sup>\[兴化\]</sup> ② 正月初五，民间以为财神赵公元帅一年之中仅在此日下凡来到人间，家家黎明即起，燃放爆竹，迎接财神，故名。<sup>\[泰州\]</sup> ③ 民俗。传正月初五为财神日，家家祭供，燃放鞭炮，迎接财神光临，商店开张。<sup>\[泰兴\]</sup>  
 1. 【[财神团<sub>儿</sub>、财神糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_shen_tun_r.md#财神团<sub>儿</sub>、财神糕)】`cae2 shen2 tun2 r cae2 shen2 go1` <sup>[如皋]</sup> 敬财神专做的米团和长方形米粉糕，上有财神像或图戳。  
 1. 【[财爻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_xio.md#财爻)】`cae2 xio` <sup>[兴化]</sup> 财气，“爻”为卦象。多作否定句式：这许不是～，你最好远处发财。  
-1. 【[彩礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_li.md#彩礼)】`cae3 li3` <sup>[东台]</sup> 订婚时男家送给女家的财物。  
-1. 【[彩礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_li.md#彩礼)】`cae3 li3` <small>/t͡ɕʰiɛ3 lʝ3/<sup>泰兴</sup></small> 娶妇的聘金。<sup>\[泰兴\]</sup>  
+1. 【[彩礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_li.md#彩礼)】`cae3 li3` <small>/t͡ɕʰiɛ3 lʝ3/<sup>泰兴</sup></small> 彩礼，聘礼<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[彩刨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_po.md#彩刨)】`cae3 po6` <sup>[兴化]</sup> 木工用来刨花边的刨子。  
 1. 【[彩水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_shuei.md#彩水)】`cae3 shuei3` <sup>[如皋]</sup> 踏水有奖比赛。彩，奖。  
 1. 【[彩水号子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_shuei_ho_zz.md#彩水号子)】`cae3 shuei3 ho6 zz` <sup>[如皋]</sup> 踏水比赛时喊唱的山歌。从柴湾采录的歌词如下：（领）先生不来我就来吆，不把个号子冷吖台吆。（和）呼！吆！嗨！——起脚快踏。  
@@ -1118,10 +1117,8 @@
 1. 【[抄灰板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_huei_baen.md#抄灰板)】`cho1 huei1 baen3` <sup>[兴化]</sup> 泥瓦匠工具，形似乒乓球拍而略大，用于等砂浆、灰浆粉刷墙壁。  
 1. 【[抄瓢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_pio_r.md#抄瓢<sub>儿</sub>)】`cho1 pio2 r` <sup>[如东]</sup> ① 工具。木制，前方后圆，三边有榜，前边有口，中间凹。有柄。 ② 比喻上嘴唇短、下嘴唇长，嘴形似瓢儿的人。  
 1. 【[抄瓢<sub>儿</sub>嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_pio_r_jy.md#抄瓢<sub>儿</sub>嘴)】`cho1 pio2 r jy3` <sup>[如皋]</sup> 下颚比上颚朝前的脸型。见“地包天”、“济㩭牙”。  
-1. 【[抄斜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_qia.md#抄斜)】`cho1 qia2` <sup>[如皋]</sup> 不走直角路或圆弧路而走斜边，以求快捷。  
-1. 【[抄斜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_qia.md#抄斜)】`cho1 qia2` <small>/t͡sʰɔ1 t͡ɕʰiɑ2/<sup>泰兴</sup></small> 抄近路，走斜角<sup>\[泰兴\]</sup>  
-1. 【[抄近](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_qien.md#抄近)】`cho1 qien6` <sup>[如东]</sup> 选择近路：你好～跑，不要绕弯子。  
-1. 【[抄近](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_qien.md#抄近)】`cho1 qien6` <small>/t͡sʰɔ1 t͡ɕʰiŋ1/<sup>泰兴</sup></small> 走近路。<sup>\[泰兴\]</sup>  
+1. 【[抄斜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_qia.md#抄斜)】`cho1 qia2` <small>/t͡sʰɔ1 t͡ɕʰia2/<sup>如皋</sup>, /t͡sʰɔ1 t͡ɕʰiɑ2/<sup>泰兴</sup></small> 不走直角路或圆弧路而走斜边，以求快捷。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
+1. 【[抄近](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_qien.md#抄近)】`cho1 qien6` <small>/t͡sʰɔ1 t͡ɕʰiŋ1/<sup>泰兴</sup></small> 选择走近路<sup>\[如东\]</sup><sup>\[泰兴\]</sup>：你好～跑，不要绕弯子。<sup>\[如东\]</sup>  
 1. 【[抄近路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_qien_lv.md#抄近路)】`cho1 qien6 lv6` <sup>[东台]</sup> 从侧面走捷径。  
 1. 【[抄𧺕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_shah.md#抄𧺕)】`cho1 shah8` <small>/t͡sʰɔ1 sɑʔ8/<sup>泰兴</sup></small> 同“抄斜”。<sup>\[泰兴\]</sup>  
 1. 【[抄手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_sheu.md#抄手)】`cho1 sheu3` <sup>[东台]</sup> 正屋（堂屋）前左右厢房。  
@@ -1779,8 +1776,7 @@
 1. 【[川头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_teu.md#川头)】`chun5 teu` <sup>[泰县]</sup> ① 故事结构：这出戏～不丑。 ② 转借。  
 1. 【[舛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun.md#舛)】`chun5` <sup>[泰州]</sup> ① （布料、木头之类）腐朽：这块木料时间长吖，～动吖唻，做梁怕的不行吖。 ② 堆积物体中间部分松动：东头老赵家西边的围墙～动吖，夜里大风刮咖倒掉啊，还好不曾伤到人。 ③ 喻指胃中食物消化，取其“腹中松动”之义：我早上喝咖两碗𣻏粥就上吖班，肚子里头先头子就～动唻。  
 1. 【[舛动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_ton.md#舛动)】`chun5 ton` <sup>[泰州]</sup> ① 摆放整齐的物体中的部分物体发生移动错位：这些木头摆啊西山墙的巷肚里，捱他俫抽啊几回，～吖唻。 ② 房屋的梁或者墙体发生偏离原位现象：这几间房子多年不修，梁已经～吖。 ③ 布料、木料开始腐朽：这些衣裳又不穿，时间长吖受啊潮又不晒，老早～吖  
-1. 【[𤶱痰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_taen.md#𤶱痰)】`chun5 taen2` <sup>[如皋]</sup> 一种恶疮。全身多处化脓溃烂，此处刚收口，彼处又烂开。俗说头顶上害疮，脚底下流浓，即指此症。  
-1. 【[𤶱痰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_taen.md#𤶱痰)】`chun5 taen2` <small>/t͡sʰʊ̃5 tʰɛ̃2/<sup>泰兴</sup></small> 疮疖。害在一处相互影响的几个疮疖。<sup>\[泰兴\]</sup>  
+1. 【[𤶱痰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_taen.md#𤶱痰)】`chun5 taen2` <small>/t͡sʰʊ̃5 tʰẽ2/<sup>如皋</sup>, /t͡sʰʊ̃5 tʰɛ̃2/<sup>泰兴</sup></small> ① 一种恶疮。全身多处化脓溃烂，此处刚收口，彼处又烂开。俗说头顶上害疮，脚底下流浓，即指此症。<sup>\[如皋\]</sup> ② 疮疖。害在一处相互影响的几个疮疖。<sup>\[泰兴\]</sup>  
 1. 【[篆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun.md#篆)】`chun6` <sup>[东台]</sup> ① 篆字书体名：晚清东台鲍赓培的～书自成一体。 ② 用篆字体铭刻：这枚印章～刻水平非常高。  
 1. 【[初二初三一线斜，初七初八半夜月，十五十六两头红，二十九，亮月子出来扭三扭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_er_chv_saen.md#初二初三一线斜，初七初八半夜月，十五十六两头红，二十九，亮月子出来扭三扭)】`chv1 er6 chv1 saen1 ieh7 xin5 qia2 chv1 qieh7 chv1 baeh7 bun5 ia6 iuh8 sheh8 v3 sheh8 loh8 laen3 teu2 hon2 er6 sheh8 jieu3 lian6 iuh8 zz chueh7 lae2 nieu3 saen1 nieu3` <sup>[东台]</sup> 月亮在一个月中的圆缺变化规律。  
 1. 【[初伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_foh.md#初伏)】`chv1 foh8` <sup>[如皋]</sup> 夏至后第三个庚日起，计十天。  
@@ -2168,8 +2164,7 @@
 1. 【[罪魁祸首](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuei_kuei_hu_sheu.md#罪魁祸首)】`cuei6 kuei2 hu6 sheu3` <sup>[如东]</sup> 罪恶行为的首要分子。  
 1. 【[罪恶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuei_ngah.md#罪恶)】`cuei6 ngah7` <sup>[如东]</sup> 严重损害人民利益的行为。  
 1. 【[罪恶滔天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuei_ngah_to_tin.md#罪恶滔天)】`cuei6 ngah7 to1 tin1` <sup>[如东]</sup> 非常严重的罪恶：这个人～。  
-1. 【[村](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen.md#村)】`cuen1` <sup>[泰州]</sup> ① 粗俗：这个马马儿～得加思唻，你是文化人，同她谈不起心来。 ② 冒犯，意谓话语伤人：这小伙说话太老卵，捱老钱～吖两句。  
-1. 【[村](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen.md#村)】`cuen1` <small>/t͡sʰuəŋ1/<sup>泰兴</sup></small> 粗俗。土气。讥诮，奚落<sup>\[泰兴\]</sup>：～话<sup>\[泰兴\]</sup>  
+1. 【[村](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen.md#村)】`cuen1` <small>/t͡sʰuəŋ1/<sup>泰兴</sup></small> ① 粗俗<sup>\[泰州\]</sup>：这个马马儿～得加思唻，你是文化人，同她谈不起心来。<sup>\[泰州\]</sup> ② 冒犯，意谓话语伤人<sup>\[泰州\]</sup>：这小伙说话太老卵，捱老钱～吖两句。<sup>\[泰州\]</sup> ③ 粗俗。土气。讥诮，奚落<sup>\[泰兴\]</sup>：～话<sup>\[泰兴\]</sup>  
 1. 【[村的辣的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_dii_laeh_dii.md#村的辣的)】`cuen1 dii laeh8 dii` <small>/t͡sʰuəŋ1 tei leʔ8 tei/<sup>如皋</sup></small> ① 脏话、下流话太多的意思<sup>\[东台\]</sup>：说话要文明，不能～。<sup>\[东台\]</sup> ② 说与性有关的粗话。<sup>\[如皋\]</sup> ③ 泛指与性相关的内容。<sup>\[泰州\]</sup>  
 1. 【[村学馆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_hah_gun.md#村学馆)】`cuen1 hah8 gun3` <sup>[兴化]</sup> 旧称农村的私塾。  
 1. 【[村话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_hua.md#村话)】`cuen1 hua6` <small>/t͡sʰuəŋ1 xuɑ1/<sup>泰兴</sup></small> 粗俗下流的话。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>\[泰州：特指带有色情意味的粗话脏话\]：人家大姑娘在旁边，他嘴里～说咖不歇，一点儿也不忌避。<sup>\[泰州\]</sup>  

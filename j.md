@@ -959,8 +959,7 @@
 1. 【[劲头上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_teu_shan.md#劲头上)】`jien5 teu2 shan` <sup>[泰州]</sup> 正在热衷于某事之时：他这一刻热炒股正在～，你现在跑过去同他说泼冷水的话，他怎吖可能听得进去。  
 1. 【[敬月光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_iuh_guan.md#敬月光)】`jien5 iuh8 guan1` <small>/t͡ɕin5 yuʔ8 kuaŋ1/<sup>兴化</sup></small> ① （民俗）在中秋节晚上，以月饼、菱、藕等供品～。<sup>\[东台\]</sup> ② 中秋节晚上，人们在月下摆设月饼、菱、藕、鸡头（芡实）、黏饼、兔子月光糕等，点香烛，放鞭炮，～。<sup>\[兴化\]</sup>  
 1. 【[敬酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_jieu.md#敬酒)】`jien5 jieu3` <sup>[如东]</sup> ① 在宴席过程申，主动站起来，端起酒杯向客人敬酒，自己先喝，表示对客人的敬意。 ② 在宴席过程中，主人站起来给客人斟一杯酒，也称敬酒。  
-1. 【[敬香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_xian.md#敬香)】`jien5 xian1` <sup>[如东]</sup> 给菩萨烧香。为了表示虔诚，故称敬香。也叫上香。  
-1. 【[敬香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_xian.md#敬香)】`jien5 xian1` <small>/t͡ɕiŋ5 ɕiɑŋ1/<sup>泰兴</sup></small> 谓善男信女到圣地名山的庙宇去烧香拜佛。<sup>\[泰兴\]</sup>  
+1. 【[敬香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_xian.md#敬香)】`jien5 xian1` <small>/t͡ɕiŋ5 ɕiɑŋ1/<sup>泰兴</sup></small> ① 给菩萨烧香。为了表示虔诚，故称敬香。也叫上香。<sup>\[如东\]</sup> ② 谓善男信女到圣地名山的庙宇去烧香拜佛。<sup>\[泰兴\]</sup>  
 1. 【[敬先](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_xin.md#敬先)】`jien5 xin1` <small>/t͡ɕin5 ɕiɪ̃1/<sup>兴化</sup></small> ① 逢清明、中元及小冬焚化纸钱，祭奠先人。<sup>\[兴化\]</sup> ② 设馔祭祀已故长辈亲人<sup>\[泰州\]</sup>：七月半中上要家来～。<sup>\[泰州\]</sup>  
 1. 【[桱木](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_moh.md#桱木)】`jien5 moh8` <small>/t͡ɕin5 mɔʔ8/<sup>兴化</sup>, /t͡ɕiəŋ5 mɔʔ8/<sup>如皋</sup>, /t͡ɕiŋ5 mɔʔ8/<sup>泰兴</sup>, /t͡ɕiŋ5 mɔʔ8/<sup>泰县</sup></small> ① 一种杉木。<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>\[东台：刺杉木，一种优质木材，可供建筑和制作器具用。\]：桯也，一曰坚杉……<sup>\[兴化\]</sup>｜俗作“吉木”。<sup>\[兴化\]</sup> ② 桱树木料<sup>\[泰州\]</sup>：他家家里的墙板用的全部是～。<sup>\[泰州\]</sup>  
 1. 【[桱木炭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_moh_taen.md#桱木炭)】`jien5 moh8 taen5` <sup>[如皋]</sup> 杉木炭，可配黑色火药。  
@@ -981,8 +980,7 @@
 1. 【[进深](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_shen.md#进深)】`jien5 shen1` <small>/t͡ɕiŋ5 səŋ1/<sup>泰兴</sup></small> ① 平房前墙内壁与后墙内壁之间的距离。以丈为计算单位，主要有丈二六、丈四六等。<sup>\[如东\]</sup> ② 房子的纵向长度。<sup>\[东台\]</sup>\[泰州：房屋内部纵向长度，从门至对面墙壁之间的垂直距离\]：他家房子的进深不小，至少要有五米。<sup>\[泰州\]</sup> ③ 院子或房间等前后的深度。<sup>\[泰兴\]</sup>  
 1. 【[进坞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_v.md#进坞)】`jien5 v5` <sup>[如东]</sup> 船只进坞维修。也叫上坞。  
 1. 【[进项](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_xian.md#进项)】`jien5 xian6` <sup>[东台]</sup> 收入的钱：每月～近万元。  
-1. 【[进账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zhan.md#进账)】`jien5 zhan5` <sup>[如东]</sup> ① 进入账户：这批资金应该～。 ② 收入：今朝～多少？  
-1. 【[进账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zhan.md#进账)】`jien5 zhan5` <small>/t͡ɕiŋ5 t͡sɑŋ5/<sup>泰兴</sup></small> 收入，收益。<sup>\[泰兴\]</sup>  
+1. 【[进账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zhan.md#进账)】`jien5 zhan5` <small>/t͡ɕiŋ5 t͡sɑŋ5/<sup>泰兴</sup></small> ① 进入账户。<sup>\[如东\]</sup>：这批资金应该～。<sup>\[如东\]</sup> ② 收入，收益。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>：今朝～多少？<sup>\[如东\]</sup>  
 1. 【[进宅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zheh.md#进宅)】`jien5 zheh7` <sup>[东台]</sup> 乔迁新居并举行仪式。避讳“贼ceh8”。  
 1. 【[进嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zuei.md#进嘴)】`jien5 zuei3` <sup>[兴化]</sup> 指吃东西或吃的东西：他烧的菜咸得不能～。｜“臭了生蛆的鸭子，还能～吗？”（马春阳《两个小社员》）  
 1. 【[𠢱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien.md#𠢱)】`jien5` <small>/t͡ɕin5/<sup>兴化</sup>, /t͡ɕiəŋ5/<sup>如皋</sup></small> ① 用力时肌肉紧张：他把手膀子一～。<sup>\[如皋\]</sup> ② 屏住气，憋足劲<sup>\[兴化\]</sup>：小家伙要拉屎，浑身全～起来啊。<sup>\[兴化\]</sup> ③ 屏气发力聚起身上肌肉<sup>\[泰州\]</sup>：他只要把膀子一～，上头就肌肉凸凸的。<sup>\[泰州\]</sup>｜你把身子～起来。<sup>\[泰州\]</sup>  

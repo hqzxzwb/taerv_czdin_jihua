@@ -74,8 +74,7 @@
 1. 【[粑粑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ba.md#粑粑)】`ba1 ba` <small>/pa1 pa/<sup>兴化</sup>, /pa1 pa/<sup>泰县</sup></small> ① 饼儿。<sup>\[如东\]</sup> ② 面饼之类的食品。<sup>\[兴化\]</sup>：谚曰：吃煞咖～不当饱。<sup>\[兴化\]</sup> ③ （引）成团、成饼的东西<sup>\[兴化\]</sup>：沰烂泥～。<sup>\[兴化\]</sup> ④ （儿语）饼<sup>\[泰县\]</sup>：我要吃～。<sup>\[泰县\]</sup>  
 1. 【[粑粑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ba.md#粑粑)】`ba1 ba1` ① 幼童称饼为～，称十五的圆月为“天～”。<sup>\[东台\]</sup> ② 圆形块状面饼。<sup>\[泰州\]</sup>  
 1. 【[粑<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_r.md#粑<sub>儿</sub>)】`ba1 r` <sup>[如皋]</sup> 饼的称谓：买～、做～、吃～。  
-1. 【[芭蕉扇子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_jio_shin_zz.md#芭蕉扇子)】`ba1 jio1 shin5 zz` <sup>[泰州]</sup> 用蒲葵（常绿乔木，叶大而呈掌状分裂）制成的扇子。  
-1. 【[芭蕉扇子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_jio_shin_zz.md#芭蕉扇子)】`ba1 jio1 shin5 zz` <small>/pɑ1 t͡ɕiɔ1 ɕĩ5 t͡sɿ/<sup>泰兴</sup></small> 以芭蕉叶作成的扇子。<sup>\[泰兴\]</sup>  
+1. 【[芭蕉扇子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_jio_shin_zz.md#芭蕉扇子)】`ba1 jio1 shin5 zz` <small>/pɑ1 t͡ɕiɔ1 ɕĩ5 t͡sɿ/<sup>泰兴</sup></small> ① 用蒲葵（常绿乔木，叶大而呈掌状分裂）制成的扇子。<sup>\[泰州\]</sup> ② 以芭蕉叶作成的扇子。<sup>\[泰兴\]</sup>  
 1. 【[钯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba.md#钯)】`ba1` <sup>[如皋]</sup> 勾夹、加固陶、瓷、墙等的铜、铁件或动程。（见锔）  
 1. 【[钯<sub>儿</sub>钉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_r_dien.md#钯<sub>儿</sub>钉)】`ba1 r dien1` <sup>[如东]</sup> 铁钉的一种。钉的头部有一爪儿，主要用来钉帆船。  
 1. 【[钯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_zz.md#钯子)】`ba1 zz` <sup>[如皋]</sup> 夹碗、夹缸、夹墙的铜铁件。（见铜）  
@@ -104,14 +103,12 @@
 1. 【[把规矩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_guei_jy.md#把规矩)】`ba3 guei1 jy` <sup>[如皋]</sup> 教育后生晚辈懂规矩、守章程。  
 1. 【[把话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_hua.md#把话)】`ba3 hua6` <small>/pɑ3 xuɑ1/<sup>泰兴</sup></small> 犹回话<sup>\[泰兴\]</sup>：到今朝还不曾～<sup>\[泰兴\]</sup>  
 1. 【[把滑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_huaeh.md#把滑)】`ba3 huaeh8` <small>/pa3 xuæʔ8/<sup>兴化</sup>, /pa3 xuæʔ8/<sup>泰县</sup></small> ① 鞋底或车轮外胎和地面摩擦力大，可防止䟳滑，也作“巴滑”<sup>\[兴化\]</sup>：原来，她穿的已不～的旧凉鞋……（马春阳《月朗和她的娘舅们》）<sup>\[兴化\]</sup> ② 防滑。<sup>\[泰县\]</sup> ③ 控制使不滑倒<sup>\[泰州\]</sup>：套鞋底磨啊平吖唻，不～吤。<sup>\[泰州\]</sup>  
-1. 【[把回头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_huei_teu.md#把回头)】`ba3 huei2 teu2` <sup>[如皋]</sup> 给以回复。  
-1. 【[把回头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_huei_teu.md#把回头)】`ba3 huei2 teu2` <small>/pɑ3 xuəɪ2 tʰəɪ2/<sup>泰兴</sup></small> 回话；回答的话。<sup>\[泰兴\]</sup>  
+1. 【[把回头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_huei_teu.md#把回头)】`ba3 huei2 teu2` <small>/pa3 xuei2 tʰei2/<sup>如皋</sup>, /pɑ3 xuəɪ2 tʰəɪ2/<sup>泰兴</sup></small> 给以回复。<sup>\[如皋\]</sup>\[泰兴：或回答的话。（？）\]  
 1. 【[把剌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_laeh.md#把剌)】`ba3 laeh` <sup>[如皋]</sup> ① 牢固：这张桌子蛮～的。 ② 强烈：这个巴掌～，摵咖五个手爪儿印。  
 1. 【[把剌阵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_laeh_chen_zz.md#把剌阵子)】`ba3 laeh8 chen6 zz` <sup>[如皋]</sup> 孕妇临产时腹部有力收缩引起的剧烈阵痛。  
 1. 【[把脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_lin.md#把脸)】`ba3 lin3` <small>/pa3 lĩ3/<sup>如皋</sup>, /pɑ3 lĩ3/<sup>泰兴</sup></small> ① 给面子。<sup>\[如东\]</sup><sup>\[泰兴\]</sup> ② 指给面子、给脸面<sup>\[如皋\]</sup>：不要～你，你不识！<sup>\[如皋\]</sup> ③ 给面子。这是不客气的说法<sup>\[东台\]</sup>：～你，你要识相！<sup>\[东台\]</sup> ④ 给人面子，给予礼遇<sup>\[泰州\]</sup>：领导～把你，你不要不识抬举。<sup>\[泰州\]</sup>  
 1. 【[把牢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_lo.md#把牢)】`ba3 lo2` <sup>[如东]</sup> ① 抓紧：～栏杆。 ② 守住：你把洞口～。  
-1. 【[把面子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_min_zz.md#把面子)】`ba3 min6 zz` <sup>[兴化]</sup> 即给面子，照顾情面：承大和尚的情，～……（《武松》八）。也作“把脸”。  
-1. 【[把面子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_min_zz.md#把面子)】`ba3 min6 zz` <small>/pɑ3 mĩ1 t͡sɿ/<sup>泰兴</sup></small> 给人面子，答应他人的请求、要求。<sup>\[泰兴\]</sup>  
+1. 【[把面子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_min_zz.md#把面子)】`ba3 min6 zz` <small>/pa3 miɪ̃6 t͡sɿ/<sup>兴化</sup>, /pɑ3 mĩ1 t͡sɿ/<sup>泰兴</sup></small> 即给面子，照顾情面<sup>\[兴化\]</sup>\[泰兴：也指答应他人的请求、要求。\]：承大和尚的情，～……（《武松》八）。也作“把脸”。<sup>\[兴化\]</sup>  
 1. 【[把脉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_moh.md#把脉)】`ba3 moh8` <small>/pɑ3 mɔʔ8/<sup>泰兴</sup>, /pa3 mɔʔ8/<sup>泰县</sup></small> 切脉，诊脉。<sup>\[如东\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：请先生～。<sup>\[如东\]</sup>｜这个先生～有一套本领。<sup>\[泰县\]</sup>｜同她～的医生说的是有喜唻。<sup>\[泰州\]</sup>  
 1. 【[把颜色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ngaen_seh.md#把颜色)】`ba3 ngaen2 seh7` <sup>[如皋]</sup> 给点厉害。  
 1. 【[把你吓咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_nii_heh_ga.md#把你吓咖)】`ba3 nii3 heh7 ga` <sup>[东台]</sup> 形容某人或某事有惊人之处。也作“吓咖你”。  
@@ -131,16 +128,13 @@
 1. 【[把午槛踏咖勚掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_v_kaen_taeh.md#把午槛踏咖勚掉)】`ba3 v3 kaen3 taeh8 ga i6 tio` <sup>[东台]</sup> 形容登某一家门次数很多。  
 1. 【[把握](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_vah.md#把握)】`ba3 vah7` <sup>[如东]</sup> ① 抓住：～舵杆。 ② 成功的可能性：这次投资你有多大～？  
 1. 【[把稳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ven.md#把稳)】`ba3 ven3` <small>/pa3 uən3/<sup>兴化</sup>, /pɑ3 ʋəŋ3/<sup>泰兴</sup></small> ① 放稳。<sup>\[如东\]</sup>：你把坛子～。<sup>\[如东\]</sup> ② 牢靠<sup>\[兴化\]</sup>：他做事～，不会出岔子。<sup>\[兴化\]</sup> ③ 物体放得平实。<sup>\[兴化\]</sup> ④ 做事稳当可靠<sup>\[泰州\]</sup>：他这个人做事～，你就放心好唻。<sup>\[泰州\]</sup> ⑤ 把持稳妥，稳当可靠。<sup>\[泰兴\]</sup>：小张办事只叫个～，让人放心。<sup>\[泰兴\]</sup>  
-1. 【[把戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_xi.md#把戏)】`ba3 xi` <sup>[如东]</sup> ① 杂技：做～。 ② 比喻耍手段。  
-1. 【[把戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_xi.md#把戏)】`ba3 xi` <small>/pɑ3 ɕʝ/<sup>泰兴</sup></small> 魔术、杂技；喻能耐、花招、手腕；丑事。<sup>\[泰兴\]</sup>：～人人会做，各有巧妙不同。<sup>\[泰兴\]</sup>  
-1. 【[把戏人人会做，各有巧妙不同](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_xi_ren_ren.md#把戏人人会做，各有巧妙不同)】`ba3 xi5 ren2 ren2 huei6 zu5 gah7 ieu3 qio3 mio6 beh7 ton2` <sup>[东台]</sup> 同样做一件事，技巧千差万别。  
-1. 【[把戏人人会做，各有巧妙不同](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_xi_ren_ren.md#把戏人人会做，各有巧妙不同)】`ba3 xi5 ren2 ren2 huei6 zu5 gah7 ieu3 qio3 mio6 beh7 ton2` <small>/pɑ3 ɕʝ5 ɻəŋ2 ɻəŋ2 xuəɪ1 t͡sɤɯ5 kɑʔ7 iɤɯ3 t͡ɕʰiɔ3 miɔ1 pəʔ7 tʰɔŋ2/<sup>泰兴</sup></small> 谓处理事情虽然大家都会，但方法、窍门不尽相同。<sup>\[泰兴\]</sup>  
+1. 【[把戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_xi.md#把戏)】`ba3 xi` <small>/pɑ3 ɕʝ/<sup>泰兴</sup></small> ① 魔术、杂技<sup>\[泰兴\]</sup><sup>\[如东\]</sup>：～人人会做，各有巧妙不同。<sup>\[泰兴\]</sup>｜做～。<sup>\[如东\]</sup> ② 喻能耐、花招、手腕<sup>\[如东\]</sup>\[泰兴：又比喻丑事\]  
+1. 【[把戏人人会做，各有巧妙不同](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_xi_ren_ren.md#把戏人人会做，各有巧妙不同)】`ba3 xi5 ren2 ren2 huei6 zu5 gah7 ieu3 qio3 mio6 beh7 ton2` <small>/pɑ3 ɕʝ5 ɻəŋ2 ɻəŋ2 xuəɪ1 t͡sɤɯ5 kɑʔ7 iɤɯ3 t͡ɕʰiɔ3 miɔ1 pəʔ7 tʰɔŋ2/<sup>泰兴</sup></small> 同样做一件事，技巧千差万别。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[把细](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_xi.md#把细)】`ba3 xi5` <small>/pa3 ɕi5/<sup>兴化</sup></small> ① 仔细。<sup>\[如东\]</sup>：做这种事要～。<sup>\[如东\]</sup> ② 小心、仔细<sup>\[兴化\]</sup>：他做事～，我放心。<sup>\[兴化\]</sup>｜还是～点儿好，不要大意。<sup>\[兴化\]</sup> ③ 小心谨慎<sup>\[泰州\]</sup>：你一个人在外头工作，遇事要～点儿。<sup>\[泰州\]</sup>  
 1. 【[把信](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_xien.md#把信)】`ba3 xien5` <small>/pa3 ɕin5/<sup>兴化</sup>, /pa3 ɕiəŋ5/<sup>如皋</sup>, /pɑ3 ɕiŋ5/<sup>泰兴</sup></small> ① 送信。<sup>\[如东\]</sup> ② 告诉对方信息。<sup>\[如东\]</sup> ③ 孝子给亲戚送死信。<sup>\[如东\]</sup> ④ 告知。一般作为一种礼节。<sup>\[如皋\]</sup> ⑤ 传递信息、通知<sup>\[兴化\]</sup>：我老早～他，说上头要下来查账。<sup>\[兴化\]</sup>｜他家儿子结婚，不曾～我家。<sup>\[兴化\]</sup> ⑥ 传递信息，告知信息<sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：你家小伙结婚，到时候要把个信舅舅。<sup>\[泰州\]</sup>  
 1. 【[把小心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_xio_xien.md#把小心)】`ba3 xio3 xien1` <sup>[兴化]</sup> 提醒对方，使其提高警觉性：（张昭）第二个用意就是～给诸葛亮……我张老先生来啦！（《火烧赤壁》一）  
 1. 【[把兄弟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_xion_ti.md#把兄弟)】`ba3 xion1 ti` 干兄弟  
-1. 【[把子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_zz.md#把子)】`ba3 zz` <sup>[泰县]</sup> 草把。  
-1. 【[把子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_zz.md#把子)】`ba3 zz` <small>/pɑ3 t͡sɿ/<sup>泰兴</sup></small> 捆扎成束的东西。<sup>\[泰兴\]</sup>：麦～<sup>\[泰兴\]</sup>  
+1. 【[把子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_zz.md#把子)】`ba3 zz` <small>/pɑ3 t͡sɿ/<sup>泰兴</sup>, /pa3 t͡se/<sup>泰县</sup></small> ① 草把。<sup>\[泰县\]</sup> ② 捆扎成束的东西。<sup>\[泰兴\]</sup>：麦～<sup>\[泰兴\]</sup>  
 1. 【[坝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba.md#坝)】`ba5` <small>/pa5/<sup>如皋</sup></small> ① 河道中拦水的泥墙。<sup>\[如东\]</sup>：在河里打～。<sup>\[如东\]</sup> ② 堵塞<sup>\[如皋\]</sup>：～口子/堵流水口<sup>\[如皋\]</sup>  
 1. 【[坝瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_gua.md#坝瓜)】`ba5 gua1` <sup>[泰州]</sup> 泰州城东鲍家坝出产的一种香瓜。  
 1. 【[坝口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_keu.md#坝口)】`ba5 keu3` <sup>[如皋]</sup> 坝上的出入口。  
@@ -151,8 +145,7 @@
 1. 【[坝堍子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_tv_zz.md#坝堍子)】`ba5 tv5 zz` <small>/pa5 tʰu5 t͡sɿ/<sup>如皋</sup></small> ① 坝身两端与岸边相接的一段。<sup>\[如东\]</sup> ② 坝身两端与岸边、路道相连的一段。<sup>\[如皋\]</sup>  
 1. 【[坝爪<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_zhua_r.md#坝爪<sub>儿</sub>)】`ba5 zhua3 r` <small>/pa5 t͡sua3 ɚ/<sup>兴化</sup>, /pa5 t͡ɕya3 ɚ/<sup>泰县</sup></small> ① 指小的土坝。<sup>\[兴化\]</sup> ② 小土坝。<sup>\[泰县\]</sup>  
 1. 【[坝桩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_zhuan.md#坝桩)】`ba5 zhuan` <small>/pɑ5 t͡suɑŋ/<sup>泰兴</sup></small> 也说“坝爪”。小的土坝。<sup>\[泰兴\]</sup>  
-1. 【[把杯/欛杯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_bei.md#把杯/欛杯)】`ba5 bei1` <small>/pa5 pəi1/<sup>兴化</sup>, /pɑ5 pəɪ1/<sup>泰兴</sup>, /pa5 pəɪ1/<sup>泰县</sup></small> ① 有把子的茶杯。‖也说“把缸子”。<sup>\[兴化\]</sup> ② 水杯。<sup>\[泰县\]</sup> ③ 有把手的杯子。<sup>\[泰兴\]</sup>  
-1. 【[把杯/欛杯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_bei.md#把杯/欛杯)】`ba5 bei1` <sup>[泰州]</sup> 有柄的水杯。  
+1. 【[把杯/欛杯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_bei.md#把杯/欛杯)】`ba5 bei1` <small>/pa5 pəi1/<sup>兴化</sup>, /pɑ5 pəɪ1/<sup>泰兴</sup>, /pa5 pəɪ1/<sup>泰县</sup></small> ① 有把手的杯子<sup>\[泰兴\]</sup><sup>\[泰州\]</sup>\[兴化：也说“把缸子”。\] ② 水杯。<sup>\[泰县\]</sup>  
 1. 【[把缸/欛缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_gan.md#把缸/欛缸)】`ba5 gan1` <sup>[泰州]</sup> 有把的圆筒状水杯，多指搪瓷制的较大水杯。  
 1. 【[把缸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_gan_r.md#把缸<sub>儿</sub>)】`ba5 gan1 r` <small>/pa5 kɑŋ1 ɚ/<sup>泰县</sup></small> ① 带把子的茶杯。<sup>\[东台\]</sup> ② 搪瓷茶缸。<sup>\[泰县\]</sup>  
 1. 【[把缸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_gan_zz.md#把缸子)】`ba5 gan1 zz` <sup>[兴化]</sup> 有把子的茶杯。  
@@ -344,8 +337,7 @@
 1. 【[扳斜头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_qia_teu.md#扳斜头)】`baen1 qia2 teu2` <sup>[东台]</sup> 制服顽固捣乱的人。也作“扳邪头”：治理社会，既要善待群众，也要狠～。  
 1. 【[扳邪<sub>儿</sub>头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_qia_r_teu.md#扳邪<sub>儿</sub>头)】`baen1 qia2 r teu2` <sup>[如皋]</sup> 整治、打击顽强的不服从的人。  
 1. 【[扳皵丝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_qiah_sz.md#扳皵丝)】`baen1 qiah7 sz1` <sup>[兴化]</sup> 找岔子、挑毛病：他俫这次互查，专门来～。  
-1. 【[扳手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_sheu.md#扳手)】`baen1 sheu` <sup>[如东]</sup> 拧紧或松开螺母的工具。  
-1. 【[扳手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_sheu.md#扳手)】`baen1 sheu` <small>/pɛ̃1 ɕiɤɯ/<sup>泰兴</sup></small> ① 器具上以手可扳动的装置。<sup>\[泰兴\]</sup>：门～<sup>\[泰兴\]</sup> ② 喻事情成功的希望所在<sup>\[泰兴\]</sup>：他的病太重ngo，恐怕没～了<sup>\[泰兴\]</sup>  
+1. 【[扳手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_sheu.md#扳手)】`baen1 sheu` <small>/pɛ̃1 ɕiɤɯ/<sup>泰兴</sup></small> ① 拧紧或松开螺母的工具。<sup>\[如东\]</sup> ② 器具上以手可扳动的装置。<sup>\[泰兴\]</sup>：门～<sup>\[泰兴\]</sup> ③ 喻事情成功的希望所在<sup>\[泰兴\]</sup>：他的病太重ngo，恐怕没～了<sup>\[泰兴\]</sup>  
 1. 【[扳手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_sheu.md#扳手)】`baen1 sheu3` <sup>[如皋]</sup> 比手劲的体育活动。  
 1. 【[扳手腕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_sheu_un.md#扳手腕)】`baen1 sheu3 un` <sup>[如皋]</sup> 比手劲的体育活动。  
 1. 【[扳头不拢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_teu_beh_lon.md#扳头不拢)】`baen1 teu2 beh7 lon3` <small>/pɛ̃1 tʰɤ2 pəʔ7 loŋ3/<sup>兴化</sup></small> ① 别人不管怎么说，他都不理不睬<sup>\[东台\]</sup>：这小伙整天玩游戏机，大人批评他，他也～。<sup>\[东台\]</sup> ② （喻）强项，不听劝告<sup>\[兴化\]</sup>：他一声驴起来，任怎吖劝说，就是～。<sup>\[兴化\]</sup>  
@@ -1427,11 +1419,9 @@
 1. 【[□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_iun.md#□□)】`bo5 iun` <small>/pɔ5 yʊ̃/<sup>如皋</sup>, /pɔ5 yʊ̃/<sup>泰兴</sup></small> （詈）傻子，傻瓜，犹“丢架子的东西”<sup>\[泰兴\]</sup><sup>\[如皋\]</sup>  
 1. 【[堡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#堡)】`bo5` 地名用字。声调阴去。泰兴境内地名“堡”一般读此音：宣～，泰兴一镇，民间称宣家～。宣堡辖张家～、杨家～、石家～｜根思辖小杨家～、许家～  
 1. 【[报应](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_ien.md#报应)】`bo5 ien` <sup>[东台]</sup> 因果报应观念，意思是某人做坏事肯定没有好下场：这家伙作恶多端，早晚要遭～。  
-1. 【[报应](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_ien.md#报应)】`bo5 ien5` <sup>[如皋]</sup> 詈语或昵语，指人：我怎吖养吖你这个～的噁！这个～真难服侍！  
-1. 【[报应](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_ien.md#报应)】`bo5 ien5` <small>/pɔ5 iŋ5/<sup>泰兴</sup></small> 佛家有因果报应之说。指人生在世，行善作恶，都会得到相应回报，善有善报，恶有恶报。后多指作恶就有恶报。<sup>\[泰兴\]</sup>  
+1. 【[报应](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_ien.md#报应)】`bo5 ien5` <small>/pɔ5 iəŋ5/<sup>如皋</sup>, /pɔ5 iŋ5/<sup>泰兴</sup></small> ① 詈语或昵语，指人<sup>\[如皋\]</sup>：我怎吖养吖你这个～的噁！这个～真难服侍！<sup>\[如皋\]</sup> ② 佛家有因果报应之说。指人生在世，行善作恶，都会得到相应回报，善有善报，恶有恶报。后多指作恶就有恶报。<sup>\[泰兴\]</sup>  
 1. 【[报应杲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_ien_go_zz.md#报应杲子)】`bo5 ien5 go3 zz` <sup>[如东]</sup> 不争气的人。  
-1. 【[报怨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_iun.md#报怨)】`bo5 iun5` <sup>[泰州]</sup> 埋怨，因事情不如意而责怪他人：这件事你要想吖清爽吖，到时候不要～人不曾提醒你。｜你自己没本事寻到工作，怎吖好～家里人？  
-1. 【[报怨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_iun.md#报怨)】`bo5 iun5` <small>/pɔ5 yʊ̃5/<sup>泰兴</sup></small> 抱怨，埋怨<sup>\[泰兴\]</sup>  
+1. 【[报怨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_iun.md#报怨)】`bo5 iun5` <small>/pɔ5 yʊ̃5/<sup>泰兴</sup></small> ① 埋怨，因事情不如意而责怪他人<sup>\[泰州\]</sup>：这件事你要想吖清爽吖，到时候不要～人不曾提醒你。<sup>\[泰州\]</sup>｜你自己没本事寻到工作，怎吖好～家里人？<sup>\[泰州\]</sup> ② 抱怨，埋怨<sup>\[泰兴\]</sup>  
 1. 【[报恩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_ngen.md#报恩)】`bo5 ngen1` <sup>[如东]</sup> 由于受到恩惠而予以报答。  
 1. 【[报丧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_san.md#报丧)】`bo5 san1` <small>/pɔ5 sã1/<sup>如皋</sup></small> ① 詈语或昵语，指人，同“报应”<sup>\[如皋\]</sup>：你这个～。<sup>\[如皋\]</sup> ② 登门通报亲人去世消息。<sup>\[泰州\]</sup>\[东台：亦称“跑报”。\]  
 1. 【[报水荒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_shuei_huan.md#报水荒)】`bo5 shuei3 huan1` <sup>[东台]</sup> 原意是扩大实际灾情，妄图获得高额补偿，喻意扩大事态，试图引起重视，欺骗领导。  

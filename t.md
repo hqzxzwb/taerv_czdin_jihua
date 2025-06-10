@@ -800,8 +800,7 @@
 1. 【[投口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_keu.md#投口)】`teu2 keu3` <small>/tʰɤ2 kʰɤ3/<sup>兴化</sup>, /tʰəɪ2 kʰəɪ3/<sup>泰兴</sup></small> ① 食物合口味、下饭<sup>\[兴化\]</sup>：有时图省事，饭一煮，萝卜干子一抓……清清爽爽倒也～。（钱国怀《儿子中专毕业》）<sup>\[兴化\]</sup>｜“再问诸葛军师，就说我送过去的那个厨子，弄的菜～不～？”（《火烧赤壁》二）<sup>\[兴化\]</sup> ② 菜肴味道与人口味相合，合口味<sup>\[泰州\]</sup>：不懂筷子，哿是菜的味道不～啊？<sup>\[泰州\]</sup> ③ 正合口味。<sup>\[泰兴\]</sup>：他做的茶饭只叫个～<sup>\[泰兴\]</sup>  
 1. 【[投门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_men.md#投门)】`teu2 men2` <small>/tʰɤ2 mən2/<sup>兴化</sup></small> ① 合适。<sup>\[如东\]</sup>：这种方法～。<sup>\[如东\]</sup> ② 中医谓药对症<sup>\[兴化\]</sup>：这剂药～，他吃下去病势就减轻吖许多。<sup>\[兴化\]</sup>  
 1. 【[投亲靠友](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_qien_ko_ieu.md#投亲靠友)】`teu2 qien1 ko5 ieu3` <sup>[如东]</sup> 因为某种原故而到亲戚家居住、生活。  
-1. 【[投生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_shen.md#投生)】`teu2 shen1` <sup>[兴化]</sup> ① 迷信谓投胎。 ② （引）寻找生路：她千里迢迢出来～，不能再推她下火炕。  
-1. 【[投生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_shen.md#投生)】`teu2 shen1` <small>/tʰəɪ2 səŋ1/<sup>泰兴</sup></small> 投胎。迷信所说人或动物的生死轮回。即死后去投生重新来到世上。<sup>\[泰兴\]</sup>  
+1. 【[投生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_shen.md#投生)】`teu2 shen1` <small>/tʰɤ2 sən1/<sup>兴化</sup>, /tʰəɪ2 səŋ1/<sup>泰兴</sup></small> ① 迷信谓投胎。<sup>\[兴化\]</sup> ② （引）寻找生路<sup>\[兴化\]</sup>：她千里迢迢出来～，不能再推她下火炕。<sup>\[兴化\]</sup> ③ 投胎。迷信所说人或动物的生死轮回。即死后去投生重新来到世上。<sup>\[泰兴\]</sup>  
 1. 【[投宿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_soh.md#投宿)】`teu2 soh7` <small>/tʰəɪ2 sɔʔ7/<sup>泰兴</sup></small> 临时住宿。犹借宿、住宿。<sup>\[泰兴\]</sup>  
 1. 【[投锁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_su.md#投锁)】`teu2 su3` <sup>[兴化]</sup> ① 钥匙与锁簧相投，可以开启。 ② （喻）对象和方法得当：老两口的思想不通，要他大女婿去谈才～。 ③ （喻）中药对症：这剂药～，他吃下去病势就减轻吖。  
 1. 【[投胎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_tae.md#投胎)】`teu2 tae1` ① 人的灵魂转世了。比喻人或物被弄死（垮）了。<sup>\[如东\]</sup>：你这吖蛮揪，车子就要～啦。<sup>\[如东\]</sup> ② 迷信说法，死后灵魂投入母胎，转生世间。喻指投奔的方向<sup>\[东台\]</sup>：不要埋怨～投错啊。<sup>\[东台\]</sup>  
@@ -823,8 +822,7 @@
 1. 【[透水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_shuei.md#透水)】`teu5 shuei3` <small>/tʰei5 suei3/<sup>如皋</sup></small> ① 开水，沸腾的水 ② 沸水。<sup>\[如皋\]</sup> ③ 水渗过。<sup>\[如皋\]</sup> ④ 容器里往外渗水。<sup>\[如东\]</sup>：砂缸有亹，往外～。冷水加热到沸点，叫做透水。<sup>\[如东\]</sup>｜茶壶里有～。<sup>\[如东\]</sup> ⑤ 烧开的水。<sup>\[东台\]</sup> ⑥ 开水，煮沸的水。<sup>\[泰州\]</sup>  
 1. 【[透酥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_sv.md#透酥)】`teu5 sv1` <small>/tʰɤ5 su1/<sup>兴化</sup></small> ① 形容非常酥松可口。<sup>\[东台\]</sup> ② 形容食物非常酥脆<sup>\[兴化\]</sup>：水瓜～的。<sup>\[兴化\]</sup>  
 1. 【[透鲜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_xin.md#透鲜)】`teu5 xin1` <small>/tʰɤ5 ɕiɪ̃1/<sup>兴化</sup></small> ① 形容味道非常鲜美。<sup>\[东台\]</sup> ② 形容食物非常鲜美<sup>\[兴化\]</sup>：那菱角，剥出米子来，～。（刘仁前《楚水风物·菱》）<sup>\[兴化\]</sup> ③ 味道极其鲜美<sup>\[泰州\]</sup>：才烧好的乌鱼汤～的。<sup>\[泰州\]</sup>  
-1. 【[豆瓣酱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_baen_jian.md#豆瓣酱)】`teu6 baen5 jian5` <sup>[兴化]</sup> 用黄豆或蚕豆和面粉发酵生黄以后制成的酱。  
-1. 【[豆瓣酱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_baen_jian.md#豆瓣酱)】`teu6 baen5 jian5` <small>/tʰəɪ1 pɛ̃5 t͡ɕiɑŋ5/<sup>泰兴</sup></small> 以黄豆为原料作成的酱。豆酱，多指黄豆酱。<sup>\[泰兴\]</sup>  
+1. 【[豆瓣酱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_baen_jian.md#豆瓣酱)】`teu6 baen5 jian5` <small>/tʰɤ6 pɛ̃5 t͡ɕiaŋ5/<sup>兴化</sup>, /tʰəɪ1 pɛ̃5 t͡ɕiɑŋ5/<sup>泰兴</sup></small> ① 用黄豆或蚕豆和面粉发酵生黄以后制成的酱。<sup>\[兴化\]</sup> ② 以黄豆为原料作成的酱。豆酱，多指黄豆酱。<sup>\[泰兴\]</sup>  
 1. 【[豆饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_bien.md#豆饼)】`teu6 bien3` <sup>[如东]</sup> 豆科植物大豆种子榨油后的渣滓。  
 1. 【[豆腐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_fv.md#豆腐)】`teu6 fv` <sup>[如东]</sup> 豆科植物大豆的种子碾磨成浆，煮熟后，加入石膏或盐卤，使之凝结，装入特制的豆箱，压掉水分而成方块状，表面淡黄色，内面淡白色。据说是西汉淮南王刘安发明。  
 1. 【[豆腐大一片，多跑三个店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_fv_da_ieh.md#豆腐大一片，多跑三个店)】`teu6 fv da6 ieh7 pin5 du1 po2 saen1 gu din5` <sup>[东台]</sup> 顾客的心理喜欢比较，为实惠宁可多走路。  
@@ -833,8 +831,7 @@
 1. 【[豆腐果子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_fv_gu_zz.md#豆腐果子)】`teu6 fv gu3 zz` <sup>[兴化]</sup> 油炸豆腐丸子。  
 1. 【[豆腐干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_fv_gun.md#豆腐干)】`teu6 fv gun1` <sup>[如东]</sup> 食品，豆腐用布包起来加压成块，加香料，人锅煎制而成。  
 1. 【[豆腐泔水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_fv_gun_shuei.md#豆腐泔水)】`teu6 fv gun1 shuei3` <sup>[如东]</sup> 压豆腐时沥下的乳白色水液。  
-1. 【[豆腐浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_fv_jian.md#豆腐浆)】`teu6 fv jian1` <sup>[如东]</sup> 大豆磨成浆汁。  
-1. 【[豆腐浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_fv_jian.md#豆腐浆)】`teu6 fv jian1` <small>/tʰəɪ1 fʋ t͡ɕiɑŋ1/<sup>泰兴</sup></small> 豆浆。<sup>\[泰兴\]</sup>  
+1. 【[豆腐浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_fv_jian.md#豆腐浆)】`teu6 fv jian1` <small>/tʰəɪ1 fʋ t͡ɕiɑŋ1/<sup>泰兴</sup></small> 豆浆。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
 1. 【[豆腐酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_fv_jieu.md#豆腐酒)】`teu6 fv jieu3` <sup>[兴化]</sup> ① 素酒。 ② 指不太丰盛的酒宴。民谚谓贫家结亲：有就～，没得就手搀手。  
 1. 【[豆腐笿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_fv_lah_r.md#豆腐笿<sub>儿</sub>)】`teu6 fv lah8 r` <sup>[如皋]</sup> ① 旧时卖豆腐专用的胡椒眼儿元宝式篮子。 ② 喻任人调遣，毫无自主权：我是个～随你拎。  
 1. 【[豆腐乳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_fv_lv.md#豆腐乳)】`teu6 fv lv3` ① 副食品，用小块的豆腐做坯，经过发藕、腌制而成。也叫酱豆腐。<sup>\[如东\]</sup> ② 腐乳，豆腐切成小块做坯，经过发酵、以盐腌制而成。<sup>\[泰州\]</sup>  
@@ -1049,8 +1046,7 @@
 1. 【[听拨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_buh.md#听拨)】`tien5 buh7` <sup>[如皋]</sup> 听任调遣。  
 1. 【[听出语](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_chueh_y.md#听出语)】`tien5 chueh7 y` <sup>[兴化]</sup> 旧俗正月十六夜，出门偷听别人说话，从面推测自己当年运气如何。  
 1. 【[听随](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_cuei.md#听随)】`tien5 cuei2` <sup>[兴化]</sup> 依从他人意见：我无所谓，一切～你。  
-1. 【[听到风就是雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_do_fon_qieu.md#听到风就是雨)】`tien5 do5 fon1 qieu6 shr6 y3` <sup>[东台]</sup> 刚知道意向或得到一点风声就信以为真。  
-1. 【[听到风就是雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_do_fon_qieu.md#听到风就是雨)】`tien5 do5 fon1 qieu6 shr6 y3` <small>/tʰiŋ5 tɔ5 fɔŋ1 t͡ɕʰiɤɯ1 sɿ1 y3/<sup>泰兴</sup></small> 比喻一听说某事，即信以为真，或更进一层，妄加推断。<sup>\[泰兴\]</sup>  
+1. 【[听到风就是雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_do_fon_qieu.md#听到风就是雨)】`tien5 do5 fon1 qieu6 shr6 y3` <small>/tʰiŋ5 tɔ5 fɔŋ1 t͡ɕʰiɤɯ1 sɿ1 y3/<sup>泰兴</sup></small> ① 刚知道意向或得到一点风声就信以为真。<sup>\[东台\]</sup> ② 比喻一听说某事，即信以为真，或更进一层，妄加推断。<sup>\[泰兴\]</sup>  
 1. 【[听蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_hae.md#听蟹)】`tien5 hae3` <small>/tʰiəŋ5 xɛ3/<sup>如皋</sup>, /tʰiŋ5 xɛ3/<sup>泰兴</sup></small> ① 深秋夜，捕蟹人在蟹簖两端挂灯，并注意听蟹行和吐泡的声音而捕之。<sup>\[如皋\]</sup> ② 深秋，芦苇放花的时候，螃蟹夜间爬上岸来，口中吐沫，发出一种声音，农人听见了，就去捕捉。这种捕捉螃蟹的方法，叫做听蟹。<sup>\[如东\]</sup> ③ 秋天西北风起，螃蟹上岸爬行，发出吱吱声。有经验的人则听声音捉蟹，谓之听蟹。<sup>\[泰兴\]</sup>  
 1. 【[听哄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_hon.md#听哄)】`tien5 hon3` <small>/tʰiɪ̃5 xoŋ3/<sup>兴化</sup>, /tʰiŋ5 xɔŋ3/<sup>泰兴</sup></small> ① 容易上当受骗<sup>\[兴化\]</sup>：这些妇女最～，几句好话一说，纷纷拿出钱来。<sup>\[兴化\]</sup> ② 指要幼儿容易逗哄<sup>\[兴化\]</sup>：小宝～，一哄就睡着咖。也作“信哄”。<sup>\[兴化\]</sup> ③ 相信别人哄骗自己的话<sup>\[泰州\]</sup>：年纪大的～，你不要同他犟。<sup>\[泰州\]</sup> ④ 信人哄骗。<sup>\[泰兴\]</sup>：箇个伢儿～<sup>\[泰兴\]</sup>  
 1. 【[听话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_hua.md#听话)】`tien5 hua6` ① 听别人说话。<sup>\[如东\]</sup>：她在外边～。<sup>\[如东\]</sup> ② 顺从别人的意见。<sup>\[如东\]</sup>：这个伢儿～。<sup>\[如东\]</sup> ③ 听从、服从上级或者长辈的话<sup>\[泰州\]</sup>：伢儿不～。<sup>\[泰州\]</sup>  

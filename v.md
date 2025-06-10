@@ -889,8 +889,7 @@
 1. 【[围棋盘里下象棋——不对路子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_qi_pun_lii.md#围棋盘里下象棋——不对路子)】`vei2 qi2 pun2 lii xia6 xian5 qi2 beh7 dy5 lv6 zz` <sup>[东台]</sup>   
 1. 【[围裙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_qyen.md#围裙)】`vei2 qyen2` ① 围在腰间的一种裙子。裙带一般比腰围大一半左右。<sup>\[如东\]</sup> ② 阔幅裙，交叉用带子围在身上。旧时女性穿戴居多。<sup>\[东台\]</sup> ③ 做脏活时系在腰上以遮蔽衣服或者身体的布片。<sup>\[泰州\]</sup>  
 1. 【[围网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_van.md#围网)】`vei2 van3` <sup>[兴化]</sup> ① 在河湖中，用网围起的一片水域：～养鱼。 ② 一种捕鱼方法，也称“拉大网”。  
-1. 【[围子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_zz.md#围子)】`vei2 zz` <sup>[泰县]</sup> 敌人的据点。  
-1. 【[围子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_zz.md#围子)】`vei2 zz` <small>/ʋəɪ2 t͡sɿ/<sup>泰兴</sup></small> 围在身前用以遮蔽衣服或挡脏的裙状物，也称“围腰儿”。<sup>\[泰兴\]</sup>  
+1. 【[围子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_zz.md#围子)】`vei2 zz` <small>/ʋəɪ2 t͡sɿ/<sup>泰兴</sup>, /ʋəɪ2 t͡se/<sup>泰县</sup></small> ① 敌人的据点。<sup>\[泰县\]</sup> ② 围在身前用以遮蔽衣服或挡脏的裙状物，也称“围腰儿”。<sup>\[泰兴\]</sup>  
 1. 【[圩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei.md#圩)】`vei2` <small>/ʋəɪ2/<sup>泰兴</sup></small> ① 范公堤堤西阻挡洪水的堤坝<sup>\[东台\]</sup>：太平～<sup>\[东台\]</sup>｜三角～。<sup>\[东台\]</sup> ② 沙滩筑堤，围成田者曰圩。泰兴人读音若“围”，亦音如“于”。如圩岸、云头圩等；又，老岸田今仍名圩（于音），如蛤蟆圩（今曲霞镇）、太平圩等。<sup>\[泰兴\]</sup>  
 1. 【[圩里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_li.md#圩里)】`vei2 li3` <sup>[兴化]</sup> ① 在圩堤围护的范围以内。 ② 特指兴化东北乡，老圩、中圩、永丰、合塔等圩的～：～地区。  
 1. 【[圩南](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_nun.md#圩南)】`vei2 nun2` <sup>[兴化]</sup> 指兴化蚌蜓圩（大象圩）以南地区。  
@@ -906,8 +905,7 @@
 1. 【[桅杆上的剪刀——高裁（才）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_gun_shan_dii.md#桅杆上的剪刀——高裁（才）)】`vei2 gun3 shan dii jin3 do1 go1 cae2` <sup>[东台]</sup>   
 1. 【[桅门舱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_men_can.md#桅门舱)】`vei2 men2 can1` <sup>[如东]</sup> 帆船的第5舱，是安置大樯的舱室。  
 1. 【[维奇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_qi.md#维奇)】`vei2 qi2` <sup>[东台]</sup> 当作稀奇珍贵的东西维护。与“宝贝”“疼爱”近义：这老头子～孙子。  
-1. 【[违拗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_ngo.md#违拗)】`vei2 ngo5` <sup>[东台]</sup> 违背或不执行别人的意见：他有权威，说的话其他人不敢～。  
-1. 【[违拗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_ngo.md#违拗)】`vei2 ngo5` <small>/ʋəɪ2 ŋɔ5/<sup>泰兴</sup></small> ① 违背，多指有意不依从长辈、上司的意见<sup>\[泰州\]</sup>：你家老的说的话，你不能有半点儿～。<sup>\[泰州\]</sup> ② 不依从；违背。<sup>\[泰兴\]</sup>  
+1. 【[违拗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_ngo.md#违拗)】`vei2 ngo5` <small>/ʋəɪ2 ŋɔ5/<sup>泰兴</sup></small> ① 违背或不执行别人的意见<sup>\[东台\]</sup>：他有权威，说的话其他人不敢～。<sup>\[东台\]</sup> ② 违背，多指有意不依从长辈、上司的意见<sup>\[泰州\]</sup>：你家老的说的话，你不能有半点儿～。<sup>\[泰州\]</sup> ③ 不依从；违背。<sup>\[泰兴\]</sup>  
 1. 【[委来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_lae.md#委来)】`vei3 lae2` <sup>[如东]</sup> 本来：～就是这吖的。  
 1. 【[委屈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_qyeh.md#委屈)】`vei3 qyeh7` <sup>[如东]</sup> 受到不应有的待遇而心里难过：不要～她。  
 1. 【[尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei.md#尾)】`vei3` <small>/uəi3/<sup>兴化</sup>, /ʋei3/<sup>如皋</sup></small> ① 暗中尾随：我～啊他后头，看吖他一路儿小跑上吖公园。<sup>\[如皋\]</sup> ② 跟、随<sup>\[兴化\]</sup>：“……我的意思暂时不用声张，只须追上前去，～着大船而行……”（《四杰传》四）<sup>\[兴化\]</sup> ③ 跟在人、车、船后面行走<sup>\[泰州\]</sup>：你悄悄～啊他后头走，单看他到哪块去。<sup>\[泰州\]</sup>｜他的车子在前头带路，你俫的车子就～住他的车子开。<sup>\[泰州\]</sup>  

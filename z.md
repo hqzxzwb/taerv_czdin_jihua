@@ -274,14 +274,12 @@
 1. 【[走脚僧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeu_jiah_sen.md#走脚僧)】`zeu3 jiah7 sen1` <small>/t͡sɤɯ3 t͡ɕiɑʔ7 səŋ1/<sup>泰兴</sup></small> 云游四方的僧人。比喻人走动不歇，不安心定神。<sup>\[泰兴\]</sup>  
 1. 【[走脚牲氏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeu_jiah_shen_shr.md#走脚牲氏)】`zeu3 jiah7 shen1 shr6` <sup>[东台]</sup> 本指不停地走动的动物，戏称坐不住、常在外走动的人。  
 1. 【[走江湖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeu_jian_hv.md#走江湖)】`zeu3 jian1 hv2` <sup>[泰州]</sup> ① 奔走四方各地经商：他从小就跟他家老子后头～，做空调生意。 ② 闯荡四方各地依靠卖艺、医卜星相谋生：他就凭一张嘴～，靠同人家算命混两个钱。  
-1. 【[走廊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeu_lan.md#走廊)】`zeu3 lan2` <sup>[如东]</sup> 房屋前墙与前檐之间的通道。也称廊檐、走马榔檐。  
-1. 【[走廊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeu_lan.md#走廊)】`zeu3 lan2` <small>/t͡sɤɯ3 lɑŋ2/<sup>泰兴</sup></small> 有遮阳避雨设施的走道。<sup>\[泰兴\]</sup>：游手～<sup>\[泰兴\]</sup>  
+1. 【[走廊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeu_lan.md#走廊)】`zeu3 lan2` <small>/t͡sɤɯ3 lɑŋ2/<sup>泰兴</sup></small> ① 房屋前墙与前檐之间的通道。也称廊檐、走马榔檐。<sup>\[如东\]</sup> ② 有遮阳避雨设施的走道。<sup>\[泰兴\]</sup>：游手～<sup>\[泰兴\]</sup>  
 1. 【[走漏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeu_leu_zz.md#走漏子)】`zeu3 leu6 zz` <small>/t͡sei3 lei1 t͡sɿ/<sup>如皋</sup></small> ① 出了纰漏。<sup>\[如皋\]</sup> ② 比喻漓尿，尿失禁。<sup>\[如皋\]</sup> ③ 出纰漏。<sup>\[如东\]</sup>：不能～。<sup>\[如东\]</sup>  
 1. 【[走路的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeu_lv_dii.md#走路的)】`zeu3 lv6 dii` <sup>[如东]</sup> 行人：他俫都是～。  
 1. 【[走路拾到个膏药——小贴贴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeu_lv_sheh_do.md#走路拾到个膏药——小贴贴)】`zeu3 lv6 sheh8 do5 gu go1 iah8 xio3 tih7 tih7` <sup>[东台]</sup>   
 1. 【[走路甩鞋子——玩脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeu_lv_shuae_hae.md#走路甩鞋子——玩脚)】`zeu3 lv6 shuae3 hae2 zz vaen2 jiah7` <sup>[东台]</sup>   
-1. 【[走码头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeu_ma_teu.md#走码头)】`zeu3 ma3 teu` <sup>[兴化]</sup> 指在各个城市之间往来做买卖：我有些瞧不起地看了他一眼，脸上挂上了走过码头的世故老到。（毕飞宇《上海往事》六）  
-1. 【[走码头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeu_ma_teu.md#走码头)】`zeu3 ma3 teu` <small>/t͡sɤɯ3 mɑ3 tʰəɪ/<sup>泰兴</sup></small> 犹走江湖。谓往返于沿江沿海的城市做生意。<sup>\[泰兴\]</sup>  
+1. 【[走码头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeu_ma_teu.md#走码头)】`zeu3 ma3 teu` <small>/t͡sɤ3 ma3 tʰɤ/<sup>兴化</sup>, /t͡sɤɯ3 mɑ3 tʰəɪ/<sup>泰兴</sup></small> ① 指在各个城市之间往来做买卖<sup>\[兴化\]</sup>：我有些瞧不起地看了他一眼，脸上挂上了走过码头的世故老到。（毕飞宇《上海往事》六）<sup>\[兴化\]</sup> ② 犹走江湖。谓往返于沿江沿海的城市做生意。<sup>\[泰兴\]</sup>  
 1. 【[走马灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeu_ma_den.md#走马灯)】`zeu3 ma3 den1` <small>/t͡sɤɯ3 mɑ3 təŋ1/<sup>泰兴</sup></small> ① 种灯景。在灯的下部点燃蜡烛，使空气受热上升，推动灯内景物旋转，似走马一样。<sup>\[如东\]</sup> ② 比喻人员来往不停<sup>\[泰州\]</sup>：一到星期天，坡子街上就人来人往，～似的，热嘈煞咖。<sup>\[泰州\]</sup> ③ 比喻人员交替不停<sup>\[泰州\]</sup>：领导～的换，你说这个单位哿得好？<sup>\[泰州\]</sup> ④ 一种供玩赏的花灯。中置一轮，轮周围置纸人纸马等像。轮下燃烛，热气上腾，引起空气对流，使轮转动，纸像随之转动，阅之犹无数人马接踵而来。故有接二连三的现象称为“走马灯似的”一说。<sup>\[泰兴\]</sup>  
 1. 【[走马碓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeu_ma_dy.md#走马碓)】`zeu3 ma3 dy5` <sup>[如皋]</sup> 大型脚踏碓。每踏动一次都需用双脚，靠全身的重量压下尾，故双脚不住走动。  
 1. 【[走马檐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeu_ma_in.md#走马檐)】`zeu3 ma3 in2` <sup>[如东]</sup> 帆船舱面穿口里边的木条，叫做走马檐。  
@@ -306,8 +304,7 @@
 1. 【[走朔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeu_shuah.md#走朔)】`zeu3 shuah7` <sup>[兴化]</sup> 早春晴天的凌晨突遭冷空气袭击，气温骤降：～对越冬作物危害甚大。  
 1. 【[走水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeu_shuei.md#走水)】`zeu3 shuei3` <small>/t͡sei3 suei3/<sup>如皋</sup></small> ① 讳指失火。见“回陆”“避陆”。<sup>\[如皋\]</sup> ② 失火。讳称。<sup>\[如皋\]</sup> ③ 失火。<sup>\[如东\]</sup> ④ 水车部件。竹条，固定在水车槽筒横档上面，供水车练向下滑行。<sup>\[如东\]</sup> ⑤ 遗尿。<sup>\[如东\]</sup>：明明夜里又～啊啦！<sup>\[如东\]</sup> ⑥ 失火的意思。<sup>\[东台\]</sup>  
 1. 【[走四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeu_sz.md#走四)】`zeu3 sz5` <sup>[如东]</sup> 滑车的一种。上下两层，有三只葫芦。  
-1. 【[走堂的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeu_tan_dii.md#走堂的)】`zeu3 tan2 dii` <sup>[兴化]</sup> 旧谓茶馆酒楼的跑堂：岂知他这店里～，挑水的，烧火的，素与强盗一伙。（《西游记》八四）  
-1. 【[走堂的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeu_tan_dii.md#走堂的)】`zeu3 tan2 dii` <small>/t͡sɤɯ3 tʰɑŋ2 təɪ/<sup>泰兴</sup></small> 旧时称茶馆饭店的服务员<sup>\[泰兴\]</sup>  
+1. 【[走堂的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeu_tan_dii.md#走堂的)】`zeu3 tan2 dii` <small>/t͡sɤ3 tʰaŋ2 təi/<sup>兴化</sup>, /t͡sɤɯ3 tʰɑŋ2 təɪ/<sup>泰兴</sup></small> ① 旧谓茶馆酒楼的跑堂<sup>\[兴化\]</sup>：岂知他这店里～，挑水的，烧火的，素与强盗一伙。（《西游记》八四）<sup>\[兴化\]</sup> ② 旧时称茶馆饭店的服务员<sup>\[泰兴\]</sup>  
 1. 【[走投无路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeu_teu_v_lv.md#走投无路)】`zeu3 teu2 v2 lv6` <sup>[如东]</sup> 无路可走。比喻处境非常困难。  
 1. 【[走题](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeu_ti.md#走题)】`zeu3 ti2` <small>/t͡sɤɯ3 t͡ɕʰʝ2/<sup>泰兴</sup></small> 离开主题，越出应有的范围。<sup>\[泰兴\]</sup>  
 1. 【[走天上𠫓下来的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeu_tin_shan_teh.md#走天上𠫓下来的)】`zeu3 tin1 shan teh7 ha lae2 dii` <sup>[东台]</sup> 从天上掉下来的，喻指凭空，无根据。  
@@ -658,8 +655,7 @@
 1. 【[帐笆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_ba.md#帐笆)】`zhan5 ba1` <sup>[东台]</sup> 篱笆，多用芦柴做成：过去我家是～做墙。  
 1. 【[帐顶子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_dien_zz.md#帐顶子)】`zhan5 dien3 zz` <small>/t͡sɑŋ5 tiŋ3 t͡sɿ/<sup>泰兴</sup></small> 蚊帐之顶。<sup>\[泰兴\]</sup>  
 1. 【[帐格子床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_geh_zz_chuan.md#帐格子床)】`zhan5 geh7 zz chuan2` <sup>[如东]</sup> 床的一种。床帮上部有简单的框架，可以挂蚊帐。故称帐格子床。  
-1. 【[帐钩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_geu_zz.md#帐钩子)】`zhan5 geu1 zz` <sup>[如皋]</sup> 挂帐门的钩子。  
-1. 【[帐钩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_geu_zz.md#帐钩子)】`zhan5 geu1 zz` <small>/t͡sɑŋ5 kəɪ1 t͡sɿ/<sup>泰兴</sup></small> 挂蚊帐的大钩。<sup>\[泰兴\]</sup>  
+1. 【[帐钩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_geu_zz.md#帐钩子)】`zhan5 geu1 zz` <small>/t͡sã5 kei1 t͡sɿ/<sup>如皋</sup>, /t͡sɑŋ5 kəɪ1 t͡sɿ/<sup>泰兴</sup></small> 挂帐门的钩子。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
 1. 【[帐管套<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_gun_to_r.md#帐管套<sub>儿</sub>)】`zhan5 gun3 to5 r` <sup>[如皋]</sup> 方顶蚊帐张挂时在帐顶前后用作插竹竿的套儿。  
 1. 【[帐管竹子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_gun_zhoh_zz.md#帐管竹子)】`zhan5 gun3 zhoh7 zz` <small>/t͡saŋ5 kũ3 t͡sɔʔ7 t͡sɿ/<sup>兴化</sup>, /t͡sɑŋ5 kʊ̃3 t͡sɔʔ7 t͡sɿ/<sup>泰兴</sup></small> ① 撑挂蚊帐用的细竹竿。<sup>\[兴化\]</sup> ② 穿帐管的细圆光滑竹杆<sup>\[泰州\]</sup>：天热咖唻，晚上睡觉要揁帐子唻，你把～洗啊干净吖，放吖在阴凉处吹啊干吖。<sup>\[泰州\]</sup> ③ 将帐子架于床上的竹管。<sup>\[泰兴\]</sup>  
 1. 【[帐檐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_in.md#帐檐)】`zhan5 in2` <sup>[兴化]</sup> 挂在蚊帐前上的横幅：（她们）有求画～的有求画鞋头花的。（汪曾祺《慢戒》）也说“帐颜”。  
@@ -667,8 +663,7 @@
 1. 【[帐帘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_lin_zz.md#帐帘子)】`zhan5 lin2 zz` <sup>[如皋]</sup> 蚊帐帐门上方的横幅绣花布饰。  
 1. 【[帐颜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_ngaen.md#帐颜)】`zhan5 ngaen2` <small>/t͡saŋ5 ɛ̃2/<sup>兴化</sup></small> 挂在蚊帐前上的横幅，装饰用<sup>\[兴化\]</sup><sup>\[泰州\]</sup>  
 1. 【[帐索<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_sah_r.md#帐索<sub>儿</sub>)】`zhan5 sah7 r` <sup>[如皋]</sup> 蚊帐用的连接一对帐钩子的索子，多为银质。  
-1. 【[帐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_zz.md#帐子)】`zhan5 zz` <sup>[如东]</sup> 防蚊的透气的方形或圆形织物。  
-1. 【[帐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_zz.md#帐子)】`zhan5 zz` <small>/t͡sɑŋ5 t͡sɿ/<sup>泰兴</sup></small> 蚊帐。<sup>\[泰兴\]</sup>  
+1. 【[帐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_zz.md#帐子)】`zhan5 zz` <small>/t͡sɑŋ5 t͡sɿ/<sup>泰兴</sup></small> 蚊帐。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
 1. 【[帐子窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_zz_ku.md#帐子窠)】`zhan5 zz ku1` <sup>[如东]</sup> 蚊帐里面，叫做帐子窠。  
 1. 【[帐子里放风筝——不得远去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_zz_lii_fan.md#帐子里放风筝——不得远去)】`zhan5 zz lii fan5 fon1 zhen1 beh7 deh7 iun3 qy5` <sup>[东台]</sup>   
 1. 【[杖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan.md#杖)】`zhan5` <small>/t͡sã5/<sup>如皋</sup></small> ① 水车槽上的许多等距立柱上与槽桄相接。除槽筒特别短的外，一般有18～、20～、24～、26～等。又称夹脚、夹。<sup>\[如皋\]</sup> ② 见“夹脚”。<sup>\[如皋\]</sup>  
@@ -820,8 +815,7 @@
 1. 【[针箍子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_gv_zz.md#针箍子)】`zhen1 gv1 zz` <small>/t͡sən1 ku3 t͡sɿ/<sup>兴化</sup>, /t͡səŋ1 ku1 t͡sɿ/<sup>泰兴</sup></small> 顶针<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>\[东台：一种铜的圆箍状的用具，上面有很多小窝，套在中指上，顶住针屁股，使针容易扎进，手指不致顶伤。\]  
 1. 【[针脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_jiah.md#针脚)】`zhen1 jiah7` <small>/t͡səŋ1 t͡ɕiɑʔ7/<sup>泰兴</sup></small> ① 缝纫的线迹。<sup>\[如东\]</sup>：～稀。<sup>\[如东\]</sup> ② 缝纫衣裳时前后两针的距离<sup>\[东台\]</sup>：你做衣裳～要幪（mon3）吖点儿。<sup>\[东台\]</sup> ③ 衣物上针线的痕迹或缝纫时前后两针之间的距离。<sup>\[泰兴\]</sup>：格件衣裳的～不丑<sup>\[泰兴\]</sup>  
 1. 【[针尖大的洞，三斗三升风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_jin_da_dii.md#针尖大的洞，三斗三升风)】`zhen1 jin1 da6 dii ton6 saen1 deu3 saen1 shen1 fon1` <sup>[东台]</sup> 墙壁上哪怕一个小洞，也会漏很大的风。  
-1. 【[针尖对麦芒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_jin_duei_moh.md#针尖对麦芒)】`zhen1 jin1 duei5 moh8 man2` <sup>[东台]</sup> （俗语）喻意互不相让：她俫两个～，一个比一个凶。  
-1. 【[针尖对麦芒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_jin_duei_moh.md#针尖对麦芒)】`zhen1 jin1 duei5 moh8 man2` <small>/t͡səŋ1 t͡ɕĩ1 təɪ5 mɔʔ8 mɑŋ2/<sup>泰兴</sup></small> 犹言针锋相对。比喻双方策略、论点等尖锐地对立。<sup>\[泰兴\]</sup>  
+1. 【[针尖对麦芒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_jin_duei_moh.md#针尖对麦芒)】`zhen1 jin1 duei5 moh8 man2` <small>/t͡səŋ1 t͡ɕĩ1 təɪ5 mɔʔ8 mɑŋ2/<sup>泰兴</sup></small> ① （俗语）喻意互不相让<sup>\[东台\]</sup>：她俫两个～，一个比一个凶。<sup>\[东台\]</sup> ② 犹言针锋相对。比喻双方策略、论点等尖锐地对立。<sup>\[泰兴\]</sup>  
 1. 【[针尖对麦芒——尖对尖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_jin_dy_moh.md#针尖对麦芒——尖对尖)】`zhen1 jin1 dy5 moh8 man2 jin1 dy5 jin1` <sup>[东台]</sup>   
 1. 【[针尖<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_jin_r.md#针尖<sub>儿</sub>)】`zhen1 jin1 r` <sup>[如皋]</sup> 针的尖部，很尖锐。  
 1. 【[针拔子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_paeh_zz.md#针拔子)】`zhen1 paeh8 zz` ① 用铁、竹、木等材料做成的夹针用具。旧时钉布鞋底和纳厚衣服时常用。<sup>\[东台\]</sup> ② 一种小型缝纫工具，旧时妇女绽鞋底时专门用于拔针。<sup>\[泰州\]</sup>  
@@ -959,8 +953,7 @@
 1. 【[折旧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_qieu.md#折旧)】`zhih7 qieu6` <sup>[如东]</sup> 补偿固定资产所损耗的价值。  
 1. 【[折前板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_qin_baen.md#折前板)】`zhih7 qin2 baen3` <sup>[如东]</sup> 帆船盖口与穿口之间的一块木板。  
 1. 【[折人情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_ren_qien.md#折人情)】`zhih7 ren2 qien2` <sup>[如皋]</sup> 社交应酬中将礼品折成礼金送去。如红封上写：花仪、寿仪；白封上写｜代箔、代点。  
-1. 【[折杀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_shaeh.md#折杀)】`zhih7 shaeh7` <sup>[泰州]</sup> 因精神或物质享受过分而导致减损福寿：你让他自己来，你老人家同他添饭，～他唻。｜这吖好的东西你还嫌不好吃，你就不怕～咖的。  
-1. 【[折杀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_shaeh.md#折杀)】`zhih7 shaeh7` <small>/t͡ɕiʔ7 ɕiæʔ7/<sup>泰兴</sup></small> 客套语。表示承受不起。<sup>\[泰兴\]</sup>  
+1. 【[折杀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_shaeh.md#折杀)】`zhih7 shaeh7` <small>/t͡ɕiʔ7 ɕiæʔ7/<sup>泰兴</sup></small> ① 因精神或物质享受过分而导致减损福寿<sup>\[泰州\]</sup>：你让他自己来，你老人家同他添饭，～他唻。<sup>\[泰州\]</sup>｜这吖好的东西你还嫌不好吃，你就不怕～咖的。<sup>\[泰州\]</sup> ② 客套语。表示承受不起。<sup>\[泰兴\]</sup>  
 1. 【[折煞咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_shaeh_ga.md#折煞咖)】`zhih7 shaeh7 ga` <small>/t͡siʔ7 seʔ7 ka/<sup>如皋</sup></small> ① 见“折咖”<sup>\[如皋\]</sup> ② （客套话）受当不起的意思<sup>\[东台\]</sup>：您老人家是我的长辈，还大老远赶来看我，真把我～！<sup>\[东台\]</sup>  
 1. 【[折寿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_sheu.md#折寿)】`zhih7 sheu6` ① 寿命缩短。<sup>\[如东\]</sup>：你做缺德事，要～的。<sup>\[如东\]</sup> ② 因过分享受或做坏事而减少寿命。多用于骂人或自责。<sup>\[东台\]</sup>  
 1. 【[折世](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhih_shr.md#折世)】`zhih7 shr5` <sup>[如皋]</sup> 指责浪费。  
@@ -1053,8 +1046,7 @@
 1. 【[找明](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_mien.md#找明)】`zho3 mien2` <sup>[兴化]</sup> 回过头来把事情说清楚：这回书先～王中央众绅衿进署递呈，恳恩免解……（《岐路灯》五五）  
 1. 【[找牙行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_nga_han.md#找牙行)】`zho3 nga2 han2` <sup>[东台]</sup> 请私人职业介绍所介绍工作。  
 1. 【[找眼子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_ngaen_zz.md#找眼子)】`zho3 ngaen3 zz` ① 故意挑毛病，找茬。<sup>\[东台\]</sup> ② 指故意寻找他人的小毛病<sup>\[泰州\]</sup>：这家伙报复心强，你在他手下注意点儿，要提防他～。<sup>\[泰州\]</sup>  
-1. 【[找皵头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_qiah_teu.md#找皵头)】`zho3 qiah7 teu` <sup>[泰县]</sup> 找麻烦：你不要老是在我身上～。  
-1. 【[找皵头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_qiah_teu.md#找皵头)】`zho3 qiah7 teu` <small>/t͡sɔ3 t͡ɕʰiɑʔ7 tʰəɪ/<sup>泰兴</sup></small> 找麻烦，找理由。多指鸡蛋里头找骨头，寻事生非。贬义。<sup>\[泰兴\]</sup>  
+1. 【[找皵头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_qiah_teu.md#找皵头)】`zho3 qiah7 teu` <small>/t͡sɔ3 t͡ɕʰiɑʔ7 tʰəɪ/<sup>泰兴</sup>, /t͡sɔ3 t͡ɕʰiɑʔ7 tʰɤɯ/<sup>泰县</sup></small> ① 找麻烦<sup>\[泰县\]</sup>：你不要老是在我身上～。<sup>\[泰县\]</sup> ② 找麻烦，找理由。多指鸡蛋里头找骨头，寻事生非。贬义。<sup>\[泰兴\]</sup>  
 1. 【[找寻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_qien.md#找寻)】`zho3 qien` <sup>[东台]</sup> 很气愤地对人指责：那家伙不诚信，我要～他。  
 1. 【[找寻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_qien.md#找寻)】`zho3 qien2` <sup>[兴化]</sup> ① 寻找：伢儿放学不归家，只得到处去～。 ② 有意找岔子：他无事就来～人。 ③ 也说“找抹人”。  
 1. 【[找袖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_qieu.md#找袖)】`zho3 qieu6` <small>/t͡sɔ3 t͡ɕʰiɤ6/<sup>兴化</sup>, /t͡sɔ3 t͡ɕʰyʊ1/<sup>如皋</sup></small> ① 裁衣时，袖管的加接部分。<sup>\[如皋\]</sup> ② 中装衣袖下半截拼接的部分。<sup>\[兴化\]</sup>：谚曰：嫡亲娘舅，赚副～（讽刺裁缝）。<sup>\[兴化\]</sup>  
@@ -1917,11 +1909,9 @@
 1. 【[足帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zoh_ban.md#足帮)】`zoh7 ban1` <sup>[如皋]</sup> 足字旁儿（足）：跑距蹄。  
 1. 【[足尺加三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zoh_cheh_jia_saen.md#足尺加三)】`zoh7 cheh7 jia1 saen1` <sup>[东台]</sup> 旧时布店里的一种促销手段，不仅不短少尺寸，而且买一尺布送三寸。  
 1. 【[足赤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zoh_cheh.md#足赤)】`zoh7 cheh7` <sup>[东台]</sup> 黄金成色十足。  
-1. 【[足秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zoh_chen.md#足秤)】`zoh7 chen5` <sup>[东台]</sup> 所称货物分量足，不短斤少两。  
-1. 【[足秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zoh_chen.md#足秤)】`zoh7 chen5` <small>/t͡sɔʔ7 t͡sʰəŋ5/<sup>泰兴</sup></small> 分量足；足够已定的斤两。<sup>\[泰兴\]</sup>  
+1. 【[足秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zoh_chen.md#足秤)】`zoh7 chen5` <small>/t͡sɔʔ7 t͡sʰəŋ5/<sup>泰兴</sup></small> ① 所称货物分量足，不短斤少两。<sup>\[东台\]</sup> ② 分量足；足够已定的斤两。<sup>\[泰兴\]</sup>  
 1. 【[足的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zoh_dii.md#足的)】`zoh7 dii` <sup>[如东]</sup> 形容很多：这两天海货～。  
-1. 【[足月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zoh_iuh.md#足月)】`zoh7 iuh8` <sup>[东台]</sup> 一般指胎儿在母体中成长月份足。  
-1. 【[足月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zoh_iuh.md#足月)】`zoh7 iuh8` <small>/t͡sɔʔ7 yʊʔ8/<sup>泰兴</sup></small> 胎儿在母体内孕育的时间已满。<sup>\[泰兴\]</sup>  
+1. 【[足月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zoh_iuh.md#足月)】`zoh7 iuh8` <small>/t͡sɔʔ7 yʊʔ8/<sup>泰兴</sup></small> 胎儿在母体中成长月份足。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[足浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zoh_jian.md#足浆)】`zoh7 jian1` <small>/t͡sɔʔ7 t͡ɕiaŋ1/<sup>兴化</sup>, /t͡sɔʔ7 t͡ɕiã1/<sup>如皋</sup></small> ① 庄稼籽实的浆水已灌足，等待成熟。<sup>\[如皋\]</sup> ② 十分厉害，达到很高程度<sup>\[兴化\]</sup>：他这次把那个家伙玩～吖。<sup>\[兴化\]</sup>｜不把他搝啊～，他还认不得人哎！<sup>\[兴化\]</sup>  
 1. 【[足见](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zoh_jin.md#足见)】`zoh7 jin5` <small>/t͡sɔʔ7 t͡ɕĩ5/<sup>如皋</sup></small> ① 推测，同“可见”<sup>\[如皋\]</sup>：这种大热天来看望你，～心诚。<sup>\[如皋\]</sup> ② 平庸，不过如此<sup>\[如皋\]</sup>：他的才华也～<sup>\[如皋\]</sup> ③ 完全可以看出。<sup>\[东台\]</sup> ④ 很有限<sup>\[东台\]</sup>：这点货赚钱～。<sup>\[东台\]</sup>  
 1. 【[足倨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zoh_jy.md#足倨)】`zoh7 jy5` <sup>[兴化]</sup> 厉害：他家姨妈～，不好相处。  

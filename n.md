@@ -1133,8 +1133,7 @@
 1. 【[扷膀劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_ban_jien.md#扷膀劲)】`ngo5 ban3 jien5` <sup>[泰州]</sup> 掰手腕，双方面对面地将肘搁在桌上，各以左手或者右手互握，同时发力，先将对方手背按至桌面为胜。  
 1. 【[扷膀子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_ban_zz.md#扷膀子)】`ngo5 ban3 zz` <sup>[东台]</sup> 比试臂力的游戏。两人相对而坐，伸手相握上举，肘支桌面，扳倒对方为胜。  
 1. 【[扷口气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_keu_qi.md#扷口气)】`ngo5 keu3 qi5` <sup>[泰州]</sup> 通过较量显示一下志气，意为立志向上，不甘落后或者示弱：人家说你学习不行，你要～，下回子考把他看。  
-1. 【[扷磨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_mu.md#扷磨)】`ngo5 mu6` <sup>[兴化]</sup> 一手握磨拐的前端，牵动磨子旋转，一手将米、麦等投入磨眼研磨。  
-1. 【[扷磨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_mu.md#扷磨)】`ngo5 mu6` <small>/ŋɔ5 mɤɯ1/<sup>泰兴</sup></small> 旧时以石磨磨粮食以粉碎食用，往石磨磨眼中续粮为扷磨。<sup>\[泰兴\]</sup>  
+1. 【[扷磨/擙磨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_mu.md#扷磨/擙磨)】`ngo5 mu6` <small>/ɔ5 mo6/<sup>兴化</sup>, /ŋɔ5 mʊ1/<sup>如皋</sup>, /ŋɔ5 mɤɯ1/<sup>泰兴</sup></small> ① 一手握磨拐的前端，牵动磨子旋转，一手将米、麦等投入磨眼研磨。<sup>\[兴化\]</sup> ② 旧时以石磨磨粮食以粉碎食用，往石磨磨眼中续粮为扷磨。<sup>\[泰兴\]</sup> ③ 旧时用石磨磨粮，中等石磨，由1-2人用“磨担”推拉，称“拉磨”或“牵磨”。另1人一手掌握“磨担”的头部，另一手望磨眼里添料，称～。<sup>\[如皋\]</sup> ④ 石磨磨粮时有一人左手抓住磨担，右手抓粮食往磨眼里注入的动作。<sup>\[东台\]</sup>  
 1. 【[拗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo.md#拗)】`ngo5` <small>/ɔ5/<sup>兴化</sup>, /ŋɔ5/<sup>如皋</sup></small> ① 头身抬起<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：他躺吖地下，一～就坐起来啊<sup>\[如皋\]</sup>｜他游闷闷儿水已经能把头～起来啊。<sup>\[如皋\]</sup>｜黄盖说着，身子就往起～了。（《火烧赤壁》六）<sup>\[兴化\]</sup>｜月香连忙在床上～起身来道……（《风月梦》）<sup>\[泰州\]</sup>｜你不把身子～起来，医生就没得办法同你换药。<sup>\[泰州\]</sup> ② 以锅边或者缸口为支点，将桶架于其上，将桶中之物导入锅或缸中<sup>\[泰州\]</sup>：把清油～上一锅，烧得浓了，将孙行者下油锅扎他一扎，与我人参树报仇。（《西游记》）<sup>\[泰州\]</sup>｜你下午先把缸里的水～啊满吖再出去打牌。<sup>\[泰州\]</sup>  
 1. 【[拗方](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_fan.md#拗方)】`ngo5 fan1` <sup>[如东]</sup> 使物体四角成方：这块田要～才好开蟹池。  
 1. 【[拗犟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_jian.md#拗犟)】`ngo5 jian5` <sup>[兴化]</sup> 固执、不听劝导：他不敢～，只好顺从的坐下来。‖也作“傲强”｜《梼杌闲评》第二十回有“你且不要傲强，且收监”句。  
@@ -1144,7 +1143,6 @@
 1. 【[拗别](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_pih.md#拗别)】`ngo5 pih8` <sup>[如东]</sup> 违抗：你不要跟他～。  
 1. 【[拗气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_qi.md#拗气)】`ngo5 qi5` <sup>[兴化]</sup> 闹别扭：争气～｜“哥哥你何苦……这叫～损财呀。”（《武松》六）  
 1. 【[拗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_zz.md#拗子)】`ngo5 zz` <sup>[兴化]</sup> ① 驴骡的俗称。 ② （喻）骂性情执物、倔强的人：他是个～，说话，做事总要跟人犯顶。  
-1. 【[擙磨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_mu.md#擙磨)】`ngo5 mu6` <small>/ŋɔ5 mʊ1/<sup>如皋</sup></small> ① 旧时用石磨磨粮，中等石磨，由1-2人用“磨担”推拉，称“拉磨”或“牵磨”。另1人一手掌握“磨担”的头部，另一手望磨眼里添料，称～。<sup>\[如皋\]</sup> ② 石磨磨粮时有一人左手抓住磨担，右手抓粮食往磨眼里注入的动作。<sup>\[东台\]</sup>  
 1. 【[擙水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_shuei.md#擙水)】`ngo5 shuei3` <sup>[如皋]</sup> 用人力或畜力推动辋子戽水。  
 1. 【[隩壁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_bieh.md#隩壁)】`ngo5 bieh7` <sup>[如皋]</sup> 偏僻。  
 1. 【[隩廦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_bieh.md#隩廦)】`ngo5 bieh7` <sup>[如皋]</sup> 幽深隐蔽。  
@@ -1673,8 +1671,7 @@
 1. 【[男将家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nun_jian_ga.md#男将家)】`nun2 jian ga` <sup>[如皋]</sup> 意为男人要有男子汉的样子。  
 1. 【[男将气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nun_jian_qi.md#男将气)】`nun2 jian qi5` <sup>[如皋]</sup> 男子汉气概。  
 1. 【[男将](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nun_jian.md#男将)】`nun2 jian5` ① 俗称丈夫<sup>\[泰州\]</sup>：你家～要下班唻，你快点儿家去弄饭。<sup>\[泰州\]</sup> ② 泛指已婚男人。<sup>\[泰州\]</sup>  
-1. 【[男客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nun_keh.md#男客)】`nun2 keh7` <sup>[兴化]</sup> 举宴时应邀的男宾：今朝王奶奶贺七十大寿，来啊五桌～，四桌女客。  
-1. 【[男客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nun_keh.md#男客)】`nun2 keh7` <small>/nʊ̃2 kʰəʔ7/<sup>泰兴</sup></small> 男人。多谓成年人。<sup>\[泰兴\]</sup>  
+1. 【[男客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nun_keh.md#男客)】`nun2 keh7` <small>/lũ2 kʰəʔ7/<sup>兴化</sup>, /nʊ̃2 kʰəʔ7/<sup>泰兴</sup></small> ① 举宴时应邀的男宾<sup>\[兴化\]</sup>：今朝王奶奶贺七十大寿，来啊五桌～，四桌女客。<sup>\[兴化\]</sup> ② 男人。多谓成年人。<sup>\[泰兴\]</sup>  
 1. 【[男伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nun_nga_r.md#男伢<sub>儿</sub>)】`nun2 nga2 r` <small>/nʊ̃2 ŋa˞2/<sup>如皋</sup></small> ① 男孩。 ② 男孩子。<sup>\[如皋\]</sup> ③ 男小孩。<sup>\[如东\]</sup>  
 1. 【[男人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nun_ren.md#男人)】`nun2 ren` ① 丈夫，老公 ② 男子。妻子对丈夫的称谓。<sup>\[如东\]</sup>：他是我家～。<sup>\[如东\]</sup>  
 1. 【[男人家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nun_ren_ga.md#男人家)】`nun2 ren2 ga` <sup>[兴化]</sup> 男人：～要勇于挑重担。｜“你家店中～哪里去了？”（《二刻》二一）  

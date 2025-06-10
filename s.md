@@ -1731,8 +1731,7 @@
 1. 【[寿缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_gan.md#寿缸)】`sheu6 gan1` <sup>[如皋]</sup> 专用于烧化人的缸。  
 1. 【[寿糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_go.md#寿糕)】`sheu6 go1` <sup>[如皋]</sup> 祝寿礼品之一，即有寿字的米粉糕。  
 1. 【[寿鞋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_hae.md#寿鞋)】`sheu6 hae2` <small>/sei1 xɛ2/<sup>如皋</sup></small> ① 给死人穿的鞋子。对用料、款式和制作人有特殊要求。例如，外孙女未嫁时应给外祖父母做～。交与保存。<sup>\[如皋\]</sup> ② 为死人制作的鞋，称寿鞋。<sup>\[如东\]</sup>  
-1. 【[寿衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_i.md#寿衣)】`sheu6 i1` <sup>[如东]</sup> 为老年人制作的服装，称寿衣。为死人制作的衣服。  
-1. 【[寿衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_i.md#寿衣)】`sheu6 i1` <small>/ɕiɤɯ1 ʝ1/<sup>泰兴</sup></small> 老年人生前做好的备用的殓衣。<sup>\[泰兴\]</sup>  
+1. 【[寿衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_i.md#寿衣)】`sheu6 i1` <small>/ɕiɤɯ1 ʝ1/<sup>泰兴</sup></small> ① 为老年人制作的服装，称寿衣。为死人制作的衣服。<sup>\[如东\]</sup> ② 老年人生前做好的备用的殓衣。<sup>\[泰兴\]</sup>  
 1. 【[寿衣店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_i_din.md#寿衣店)】`sheu6 i1 din5` <sup>[如东]</sup> 销售死人服装的专业商店。  
 1. 【[寿筵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_in.md#寿筵)】`sheu6 in2` <sup>[如东]</sup> 为庆祝寿诞而举办的酒筵。寿筵的菜肴一般为：长寿面大寿桃，长生果（花生米）；散席时，要给宾客送小寿桃（干面做成）。菜肴的数量一定要双数（四冷四热，八碗八碟）。  
 1. 【[寿镜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_jien.md#寿镜)】`sheu6 jien5` <sup>[如皋]</sup> 祝寿的镜匾。  
@@ -1774,8 +1773,7 @@
 1. 【[折本话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shih_ben_hua.md#折本话)】`shih8 ben3 hua6` <sup>[如皋]</sup> 有失体面的话。  
 1. 【[折膘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shih_bio.md#折膘)】`shih8 bio1` <small>/siɪʔ8 piɔ1/<sup>兴化</sup></small> ① 畜禽变瘦<sup>\[兴化\]</sup>：猪子两天不吃食，～啊。<sup>\[兴化\]</sup> ② （贬）指人消瘦<sup>\[兴化\]</sup>：叹气～。<sup>\[兴化\]</sup> ③ 家畜身上肥肉减少，体型变瘦<sup>\[泰州\]</sup>：这条老牛耕吖一个春天的田，怎吖得不～啊，要弄点儿黄豆喂它。<sup>\[泰州\]</sup> ④ 泛指人的体型变瘦<sup>\[泰州\]</sup>：他的体质好，说起来害啊场大病，望起来也不曾怎吖～。<sup>\[泰州\]</sup>  
 1. 【[折秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shih_chen.md#折秤)】`shih8 chen5` <small>/ɕiʔ8 t͡sʰəŋ5/<sup>泰兴</sup></small> 货物重新过秤时因为耗损而分量减少，或大宗称进零星称出分量减少曰折秤。<sup>\[泰兴\]</sup>  
-1. 【[折耗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shih_ho.md#折耗)】`shih8 ho5` <sup>[东台]</sup> 损耗：做蔬菜生意要把～算进去｜天气干，水果～大。  
-1. 【[折耗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shih_ho.md#折耗)】`shih8 ho5` <small>/ɕiʔ8 xɔ5/<sup>泰兴</sup></small> 物品或商品在运输或保管过程中数量、重量的损耗。<sup>\[泰兴\]</sup>：瓜果类的水汽货～太大。<sup>\[泰兴\]</sup>  
+1. 【[折耗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shih_ho.md#折耗)】`shih8 ho5` <small>/ɕiʔ8 xɔ5/<sup>泰兴</sup></small> 损耗<sup>\[东台\]</sup>\[泰兴：物品或商品在运输或保管过程中数量、重量的损耗。\]：做蔬菜生意要把～算进去<sup>\[东台\]</sup>｜天气干，水果～大。<sup>\[东台\]</sup>｜瓜果类的水汽货～太大。<sup>\[泰兴\]</sup>  
 1. 【[折色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shih_seh.md#折色)】`shih8 seh7` <sup>[兴化]</sup> ① 数量明显减少：这几天缸里的米老好的～吤！ ② 面部失去血色：他这吖一病，脸大大的～咖。  
 1. 【[折手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shih_sheu.md#折手)】`shih8 sheu3` <sup>[东台]</sup> 少了得力人手。（原文也写“蚀手”，音不合）  
 1. 【[折头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shih_teu.md#折头)】`shih8 teu` 已购的蔬菜产生的损耗<sup>\[泰州\]</sup>：你这些菜上头全是烂泥，黄叶子也不能揎掉，～太大啊唻，你哿能便宜点儿卖？<sup>\[泰州\]</sup>  

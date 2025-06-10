@@ -970,13 +970,10 @@
 1. 【[红罐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_gun_r.md#红罐<sub>儿</sub>)】`hon2 gun5 r` <sup>[如皋]</sup> 趣指肚腹：苹果啷？——到啊～里。  
 1. 【[红虾<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_ha_r.md#红虾<sub>儿</sub>)】`hon2 ha1 r` <sup>[兴化]</sup> （喻）形容人酒后面部呈现的酡颜：他两杯酒下肚，脸就像个～。  
 1. 【[红虾<sub>儿</sub>、白虾<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_ha_r_poh.md#红虾<sub>儿</sub>、白虾<sub>儿</sub>)】`hon2 ha1 r poh8 ha1 r` <sup>[如皋]</sup> 两种海虾，多在春节前后上市，冷拌食用，味鲜美。  
-1. 【[红苋菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_haen_cae.md#红苋菜)】`hon2 haen6 cae5` <sup>[如东]</sup> 苋科植物老枪谷，一年生草本。  
-1. 【[红苋菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_haen_cae.md#红苋菜)】`hon2 haen6 cae5` <small>/xɔŋ2 xɛ̃1 t͡ɕʰiɛ5/<sup>泰兴</sup></small> 红色的苋菜。区别于白色、青色的苋菜。<sup>\[泰兴\]</sup>  
-1. 【[红黑变脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_heh_bin_lin.md#红黑变脸)】`hon2 heh7 bin5 lin3` <sup>[兴化]</sup> 形容人两副脸，随机应变：他这种人开始不丑，你不满足他要求马上翻脸，是个～的人。  
-1. 【[红黑变脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_heh_bin_lin.md#红黑变脸)】`hon2 heh7 bin5 lin3` <small>/xɔŋ2 xəʔ7 pĩ5 lĩ3/<sup>泰兴</sup></small> 谓人喜怒哀乐变化无常，一会儿笑嘻嘻的，和颜悦色；一会儿又板着面孔，暴怒异常。<sup>\[泰兴\]</sup>  
+1. 【[红苋菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_haen_cae.md#红苋菜)】`hon2 haen6 cae5` <small>/xɔŋ2 xɛ̃1 t͡ɕʰiɛ5/<sup>泰兴</sup></small> ① 苋科植物老枪谷，一年生草本。<sup>\[如东\]</sup> ② 红色的苋菜。区别于白色、青色的苋菜。<sup>\[泰兴\]</sup>  
+1. 【[红黑变脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_heh_bin_lin.md#红黑变脸)】`hon2 heh7 bin5 lin3` <small>/xoŋ2 xəʔ7 piɪ̃5 liɪ̃3/<sup>兴化</sup>, /xɔŋ2 xəʔ7 pĩ5 lĩ3/<sup>泰兴</sup></small> ① 形容人两副脸，随机应变<sup>\[兴化\]</sup>：他这种人开始不丑，你不满足他要求马上翻脸，是个～的人。<sup>\[兴化\]</sup> ② 谓人喜怒哀乐变化无常，一会儿笑嘻嘻的，和颜悦色；一会儿又板着面孔，暴怒异常。<sup>\[泰兴\]</sup>  
 1. 【[红花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_hua.md#红花)】`hon2 hua1` <sup>[如东]</sup> 菊科植物红花，一年生草本。  
-1. 【[红花芝草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_hua_zhr_co.md#红花芝草)】`hon2 hua1 zhr1 co3` <sup>[兴化]</sup> （喻）希望：你家丫头马上大学毕业，你好看到～啊。  
-1. 【[红花芝草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_hua_zhr_co.md#红花芝草)】`hon2 hua1 zhr1 co3` <small>/xɔŋ2 xuɑ1 t͡sɿ1 t͡sʰɔ3/<sup>泰兴</sup></small> 喻极好的东西。<sup>\[泰兴\]</sup>  
+1. 【[红花芝草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_hua_zhr_co.md#红花芝草)】`hon2 hua1 zhr1 co3` <small>/xoŋ2 xua1 t͡sɿ1 t͡sʰɔ3/<sup>兴化</sup>, /xɔŋ2 xuɑ1 t͡sɿ1 t͡sʰɔ3/<sup>泰兴</sup></small> ① （喻）希望<sup>\[兴化\]</sup>：你家丫头马上大学毕业，你好看到～啊。<sup>\[兴化\]</sup> ② 喻极好的东西。<sup>\[泰兴\]</sup>  
 1. 【[红𧑚䘆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_hun_xin.md#红𧑚䘆)】`hon2 hun2 xin1` <sup>[如皋]</sup> 即“香𧑚䘆”。  
 1. 【[红胰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_i.md#红胰)】`hon2 i2` <sup>[如皋]</sup> 脾。  
 1. 【[红油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_ieu.md#红油)】`hon2 ieu2` <sup>[如皋]</sup> 轻型润滑油。  
@@ -1002,8 +999,7 @@
 1. 【[红扑扑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_poh_poh.md#红扑扑)】`hon2 poh7 poh7` <sup>[如东]</sup> 脸色红润。  
 1. 【[红扑滋汤的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_poh_zz_tan.md#红扑滋汤的)】`hon2 poh7 zz1 tan1 dii` <sup>[东台]</sup> 形容人红光满面，红扑扑的，面色红润，身体很好。  
 1. 【[红白堂紫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_poh_tan_zz.md#红白堂紫)】`hon2 poh8 tan2 zz3` <sup>[如东]</sup> 面色白嫩红润，身体健康：老人家身体好啊，脸上～的。  
-1. 【[红白喜事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_poh_xi_shr.md#红白喜事)】`hon2 poh8 xi3 shr6` <sup>[东台]</sup> 泛指婚丧大事（结婚是红喜事，高寿的人死了，魂归西去极乐世界，故叫“喜丧”）。  
-1. 【[红白喜事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_poh_xi_shr.md#红白喜事)】`hon2 poh8 xi3 shr6` <small>/xɔŋ2 pʰɔʔ8 ɕʝ3 sɿ1/<sup>泰兴</sup></small> 指婚嫁丧葬之事。<sup>\[泰兴\]</sup>  
+1. 【[红白喜事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_poh_xi_shr.md#红白喜事)】`hon2 poh8 xi3 shr6` <small>/xɔŋ2 pʰɔʔ8 ɕʝ3 sɿ1/<sup>泰兴</sup></small> 泛指婚丧大事<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[红白小褂裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_poh_xio_gua.md#红白小褂裤)】`hon2 poh8 xio3 gua5 kv5` <sup>[如皋]</sup> 死者必穿的两套衬衣。  
 1. 【[红白脂淌的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_poh_zhr_tan.md#红白脂淌的)】`hon2 poh8 zhr1 tan dii` <sup>[如皋]</sup> 脸色白净且丰满红润。  
 1. 【[红白滋颡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_poh_zz_san.md#红白滋颡)】`hon2 poh8 zz1 san` <sup>[泰州]</sup> 面色红润的样子：她这些时在家里坐月子，人养得～的。  
@@ -1016,8 +1012,7 @@
 1. 【[红事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_shr.md#红事)】`hon2 shr` <small>/xɔŋ2 sɿ/<sup>泰兴</sup></small> 指喜事。与“白事”相对。<sup>\[泰兴\]</sup>  
 1. 【[红事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_shr.md#红事)】`hon2 shr6` <sup>[如东]</sup> 喜事。如结婚、贺寿等。  
 1. 【[红丝疔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_sz_dien.md#红丝疔)】`hon2 sz1 dien1` <sup>[如皋]</sup> 疔疮的一种，疮毒呈红丝状向心脏方向发展，很险恶。  
-1. 【[红蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_taen.md#红蛋)】`hon2 taen6` <sup>[如东]</sup> 妇女生小孩后，将鸡蛋煮熟染成红色赠送给亲友，表示报喜，这种蛋叫做红蛋。也叫喜蛋。  
-1. 【[红蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_taen.md#红蛋)】`hon2 taen6` <small>/xɔŋ2 tʰɛ̃1/<sup>泰兴</sup></small> 染红的鸡蛋。生孩子的人家送给亲友，表示喜庆。<sup>\[泰兴\]</sup>  
+1. 【[红蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_taen.md#红蛋)】`hon2 taen6` <small>/xɔŋ2 tʰɛ̃1/<sup>泰兴</sup></small> ① 妇女生小孩后，将鸡蛋煮熟染成红色赠送给亲友，表示报喜，这种蛋叫做红蛋。也叫喜蛋。<sup>\[如东\]</sup> ② 染红的鸡蛋。生孩子的人家送给亲友，表示喜庆。<sup>\[泰兴\]</sup>  
 1. 【[红堂堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_tan_tan.md#红堂堂)】`hon2 tan2 tan2` <small>/xɔŋ2 tʰɑŋ2 tʰɑŋ2/<sup>泰兴</sup></small> 红彤彤。形容很红。<sup>\[泰兴\]</sup>  
 1. 【[红糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_tan.md#红糖)】`hon2 tan2` <sup>[如东]</sup> 糖的一种。甘蔗糖浆熬成，含有砂糖和糖蜜，黄褐色、赤红色或黑色。也称砂糖。  
 1. 【[红糖茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_tan_cha.md#红糖茶)】`hon2 tan2 cha2` <sup>[如皋]</sup> 红糖冲泡的茶。  
@@ -1320,8 +1315,7 @@
 1. 【[花呆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_dae.md#花呆)】`hua1 dae1` <sup>[如皋]</sup> 见“花雀儿疯”。  
 1. 【[花搭的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_daeh_dii.md#花搭的)】`hua1 daeh7 dii` <sup>[如东]</sup> 在种植的花中还有不少其他花种。比喻不少：～人家种芝麻。  
 1. 【[花担](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_daen.md#花担)】`hua1 daen5` <sup>[东台]</sup> 群众文艺演唱形式，用彩布蒙在竹篾扎成的担子上，上面布满各色鲜花，由两位女演员各挑一副花担对唱表演。  
-1. 【[花担子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_daen_zz.md#花担子)】`hua1 daen5 zz` <sup>[兴化]</sup> 迎神赛会中的一个行当，由盛装少女用极软的扁担，挑着鲜花装饰的担子，一步一颤，三进一退，按节拍做出各种动作。  
-1. 【[花担子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_daen_zz.md#花担子)】`hua1 daen5 zz` <small>/xuɑ1 tɛ̃5 t͡sɿ/<sup>泰兴</sup></small> 文娱表演的一种形式。一漂亮的少女挑着装满花束的担子边唱边走，宣传时新内容。<sup>\[泰兴\]</sup>  
+1. 【[花担子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_daen_zz.md#花担子)】`hua1 daen5 zz` <small>/xua1 tɛ̃5 t͡sɿ/<sup>兴化</sup>, /xuɑ1 tɛ̃5 t͡sɿ/<sup>泰兴</sup></small> ① 迎神赛会中的一个行当，由盛装少女用极软的扁担，挑着鲜花装饰的担子，一步一颤，三进一退，按节拍做出各种动作。<sup>\[兴化\]</sup> ② 文娱表演的一种形式。一漂亮的少女挑着装满花束的担子边唱边走，宣传时新内容。<sup>\[泰兴\]</sup>  
 1. 【[花虴蛨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_deh_moh.md#花虴蛨)】`hua1 deh7 moh` <sup>[如皋]</sup> 花胫绿纹蝗。直翅目。  
 1. 【[花费](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_fei.md#花费)】`hua1 fei5` <small>/xuɑ1 fəɪ5/<sup>泰兴</sup></small> 消耗，支用。<sup>\[泰兴\]</sup>  
 1. 【[花钩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_geu.md#花钩)】`hua1 geu1` <sup>[如东]</sup> 农具。铁制，前端呈弓形，后边有横把手，用来拔棉花秸。  
@@ -1382,8 +1376,7 @@
 1. 【[花生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_shen.md#花生)】`hua1 shen` 花生  
 1. 【[花生米子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_shen_mi_zz.md#花生米子)】`hua1 shen mi3 zz` <small>/xuɑ1 səŋ mʝ3 t͡sɿ/<sup>泰兴</sup></small> 花生仁。<sup>\[泰兴\]</sup>  
 1. 【[花生酥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_shen_sv.md#花生酥)】`hua1 shen sv1` <sup>[兴化]</sup> 以花生的碎屑和莲糖为主要原料制成的酥糖。  
-1. 【[花生糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_shen_tan.md#花生糖)】`hua1 shen tan2` <sup>[兴化]</sup> 由炒熟的花生米、砂糖和糖稀一起熬成，冷却后切成小方块。  
-1. 【[花生糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_shen_tan.md#花生糖)】`hua1 shen tan2` <small>/xuɑ1 səŋ tʰɑŋ2/<sup>泰兴</sup></small> 以花生仁为主要原料做成的糖，香脆可口。<sup>\[泰兴\]</sup>  
+1. 【[花生糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_shen_tan.md#花生糖)】`hua1 shen tan2` <small>/xua1 sən tʰaŋ2/<sup>兴化</sup>, /xuɑ1 səŋ tʰɑŋ2/<sup>泰兴</sup></small> ① 由炒熟的花生米、砂糖和糖稀一起熬成，冷却后切成小方块。<sup>\[兴化\]</sup> ② 以花生仁为主要原料做成的糖，香脆可口。<sup>\[泰兴\]</sup>  
 1. 【[花生衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_shen_i.md#花生衣)】`hua1 shen1 i1` <sup>[如东]</sup> 包裹花生米的皮，红色或淡红色，人中药，有止血作用。  
 1. 【[花生耙<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_shen_pa_r.md#花生耙<sub>儿</sub>)】`hua1 shen1 pa2 r` <sup>[如东]</sup> 农具。铁制，四齿，较短，有柄。用以锄花生。  
 1. 【[花生筛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_shen_shae_zz.md#花生筛子)】`hua1 shen1 shae1 zz` <sup>[如皋]</sup> 专用于收花生的筛子。  
@@ -1398,8 +1391,7 @@
 1. 【[花心<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_xien_r.md#花心<sub>儿</sub>)】`hua1 xien1 r` <sup>[兴化]</sup> 花蕊。  
 1. 【[花形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_xien.md#花形)】`hua1 xien2` <small>/xua1 ɕin2/<sup>兴化</sup>, /xua1 ɕiŋ2/<sup>泰县</sup></small> ① 形容衣衫蓝缕，蓬首垢面，像乞丐的样子<sup>\[兴化\]</sup>：你看他这个～，一点儿不要好。也说“花子形”。<sup>\[兴化\]</sup> ② 穿得破烂，不讲仪表：你望你这个～，快家去打扮啊子。<sup>\[泰县\]</sup>  
 1. 【[花线槽<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_xin_co_r.md#花线槽<sub>儿</sub>)】`hua1 xin5 co2 r` <sup>[如皋]</sup> 装饰线槽，由花线刨儿刨出。  
-1. 【[花销](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_xio.md#花销)】`hua1 xio1` <sup>[如东]</sup> 开支：今年～不少。  
-1. 【[花销](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_xio.md#花销)】`hua1 xio1` <small>/xuɑ1 ɕiɔ1/<sup>泰兴</sup></small> 开支，花费。<sup>\[泰兴\]</sup>  
+1. 【[花销](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_xio.md#花销)】`hua1 xio1` <small>/xuɑ1 ɕiɔ1/<sup>泰兴</sup></small> 开支，花费。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>：今年～不少。<sup>\[如东\]</sup>  
 1. 【[花鱼斑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_y_baen.md#花鱼斑)】`hua1 y baen1` <small>/xuɑ1 y pɛ̃1/<sup>泰兴</sup></small> 空中形似鱼鳞的云彩<sup>\[泰兴\]</sup>：天上起啊～，明朝晒粮不要翻<sup>\[泰兴\]</sup>  
 1. 【[花鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_y.md#花鱼)】`hua1 y2` <small>/xua1 y2/<sup>兴化</sup>, /xua1 y2/<sup>如皋</sup>, /xuɑ1 y/<sup>泰兴</sup></small> 鲤鱼<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>\[泰州：俗称鲤鱼，鳞上有小黑点如花，故名。\]  
 1. 【[花鱼尾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_y_vei_zz.md#花鱼尾子)】`hua1 y2 vei3 zz` <sup>[如东]</sup> 门楣上套住门梃的横木，形状像花鱼尾子。  
@@ -1514,8 +1506,7 @@
 1. 【[坏兆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_cho.md#坏兆)】`huae6 cho6` <sup>[兴化]</sup> 不好的兆头：“……二柱是黄鼠狼养在鸡窝里，～！”（马春阳《两个小社员》）  
 1. 【[坏讼子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_con_zz.md#坏讼子)】`huae6 con5 zz` <sup>[如皋]</sup> 出坏主意的人。讼，邪母字，同从母。  
 1. 【[坏讼师](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_con_shr.md#坏讼师)】`huae6 con6 shr1` <small>/xuɛ1 t͡sʰɔŋ1 sɿ1/<sup>泰兴</sup></small> 专门出坏点子暗算别人的人。<sup>\[泰兴\]</sup>  
-1. 【[坏瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_gua.md#坏瓜)】`huae6 gua1` <sup>[兴化]</sup> （借）专出坏主意，专门对人施暗算的人：～主意。  
-1. 【[坏瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_gua.md#坏瓜)】`huae6 gua1` <small>/xuɛ1 kuɑ1/<sup>泰兴</sup></small> 谓事情出了问题，暴露了目标。<sup>\[泰兴\]</sup>：箇桩事～啊，恐怕弄不成。<sup>\[泰兴\]</sup>  
+1. 【[坏瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_gua.md#坏瓜)】`huae6 gua1` <small>/xuɛ6 kua1/<sup>兴化</sup>, /xuɛ1 kuɑ1/<sup>泰兴</sup></small> ① （借）专出坏主意，专门对人施暗算的人<sup>\[兴化\]</sup>：～主意。<sup>\[兴化\]</sup> ② 谓事情出了问题，暴露了目标。<sup>\[泰兴\]</sup>：箇桩事～啊，恐怕弄不成。<sup>\[泰兴\]</sup>  
 1. 【[坏瓜秀才](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_gua_xieu_cae.md#坏瓜秀才)】`huae6 gua1 xieu5 cae` <sup>[兴化]</sup> 旧谓品格低下的文人：他是有名的～，专门把持官府，写黑信，告习状。  
 1. 【[坏规矩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_guei_jy.md#坏规矩)】`huae6 guei1 jy` <sup>[如皋]</sup> 破坏原有的规矩：我在你家就听你的，不～。  
 1. 【[坏鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_guei.md#坏鬼)】`huae6 guei3` <sup>[泰州]</sup> 极其狡诈之徒：这件事肯定有～在后头同他出主意。  
@@ -1619,8 +1610,7 @@
 1. 【[还魂疼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_huen_ten.md#还魂疼)】`huaen2 huen2 ten2` <sup>[如皋]</sup> 受伤的当时不觉疼，过后疼。  
 1. 【[还魂胀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_huen_zhan.md#还魂胀)】`huaen2 huen2 zhan5` <sup>[如皋]</sup> 吃时不胀，过后腹胀难受。  
 1. 【[还阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_ian.md#还阳)】`huaen2 ian2` <small>/xuẽ2 iã2/<sup>如皋</sup>, /xuɛ̃2 iɑŋ2/<sup>泰兴</sup></small> ① 气温升高。<sup>\[如东\]</sup> ② 见“和暴”（寒潮过去，天气转好、转暖。）<sup>\[如皋\]</sup> ③ 转暖<sup>\[如皋\]</sup>：焐啊半大天，手才～吖。<sup>\[如皋\]</sup> ④ 本指冻僵的人身上有了暖气，或阳气不旺的人精神开始振奋。也喻指从糊涂转为清醒。<sup>\[东台\]</sup> ⑤ 迷信说人死而复活。犹还魂。<sup>\[泰兴\]</sup>  
-1. 【[还愿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_iun.md#还愿)】`huaen2 iun6` <sup>[东台]</sup> 求神保佑的人实践对神许下的心愿。  
-1. 【[还愿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_iun.md#还愿)】`huaen2 iun6` <small>/xuɛ̃2 yʊ̃1/<sup>泰兴</sup></small> 了还心愿。求神保佑的人落实对神许下的心愿。<sup>\[泰兴\]</sup>  
+1. 【[还愿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_iun.md#还愿)】`huaen2 iun6` <small>/xuɛ̃2 yʊ̃1/<sup>泰兴</sup></small> ① 求神保佑的人实践对神许下的心愿。<sup>\[东台\]</sup> ② 了还心愿。求神保佑的人落实对神许下的心愿。<sup>\[泰兴\]</sup>  
 1. 【[还家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_jia.md#还家)】`huaen2 jia1` <small>/xuɛ̃2 t͡ɕiɑ1/<sup>泰兴</sup></small> 迷信说人死了之后不久灵魂回家看望，死者家属则虔诚祭祀。<sup>\[泰兴\]</sup>  
 1. 【[还价](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_jia.md#还价)】`huaen2 jia5` <sup>[东台]</sup> 买方因嫌货价高而说出自己能够接受的价格。  
 1. 【[还口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_keu.md#还口)】`huaen2 keu3` <sup>[东台]</sup> 也叫还嘴，就是回嘴：面对不明真相的群众，执勤人员坚持骂不～，打不还手。  
@@ -2312,8 +2302,7 @@
 1. 【[旱路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_lv.md#旱路)】`hun6 lv6` <sup>[如东]</sup> 陆路。  
 1. 【[旱码头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_ma_teu.md#旱码头)】`hun6 ma3 teu` <sup>[如皋]</sup> 河岸上部的码头。  
 1. 【[旱鸭<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_ngaeh_r.md#旱鸭<sub>儿</sub>)】`hun6 ngaeh7 r` <small>/xʊ̃1 ŋe˞7/<sup>如皋</sup></small> 生活在陆地上的鸭子。比喻不会游泳的人。<sup>\[如东\]</sup><sup>\[如皋\]</sup>  
-1. 【[旱鸭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_ngaeh_zz.md#旱鸭子)】`hun6 ngaeh7 zz` <sup>[如皋]</sup> 讽喻不会游泳的人。  
-1. 【[旱鸭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_ngaeh_zz.md#旱鸭子)】`hun6 ngaeh7 zz` <small>/xʊ̃1 ŋæʔ7 t͡sɿ/<sup>泰兴</sup></small> 不下水的鸭子。戏语。喻不善饮水、吃面不喝汤者，或称不会游泳的人。<sup>\[泰兴\]</sup>  
+1. 【[旱鸭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_ngaeh_zz.md#旱鸭子)】`hun6 ngaeh7 zz` <small>/xʊ̃1 ŋeʔ7 t͡sɿ/<sup>如皋</sup>, /xʊ̃1 ŋæʔ7 t͡sɿ/<sup>泰兴</sup></small> ① 讽喻不会游泳的人。<sup>\[如皋\]</sup> ② 不下水的鸭子。戏语。喻不善饮水、吃面不喝汤者，或称不会游泳的人。<sup>\[泰兴\]</sup>  
 1. 【[旱泡眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_po_ngaen.md#旱泡眼)】`hun6 po1 ngaen3` <sup>[东台]</sup> 眼泡大。  
 1. 【[旱蒲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_pv.md#旱蒲)】`hun6 pv2` <sup>[如东]</sup> 鸢尾科植物马蔺，多年生草本。  
 1. 【[旱田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_tin.md#旱田)】`hun6 tin2` <sup>[如东]</sup> 干旱的土地，适合于种植旱属作物。  
