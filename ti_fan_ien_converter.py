@@ -85,6 +85,8 @@ def tae_xien_pien_ien(cz, ien, for_qio_shih = False):
     yen = 'ou'
   elif cz == '茄' and shen + gae + yen == 'qia': # “茄”撮口
     gae = 'y'
+  elif cz == '碰' and shen + gae + yen == 'pon': # “碰”bon
+    shen = 'b'
   elif cz == '雪' and shen + gae + yen == 'xiuh':
     gae = ''
     yen = 'ih'
