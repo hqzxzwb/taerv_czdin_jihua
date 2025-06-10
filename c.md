@@ -1773,12 +1773,14 @@
 1. 【[串](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun.md#串)】`chun5` <small>/t͡sʰũ5/<sup>兴化</sup></small> ① 多个同类东西连贯在一起<sup>\[东台\]</sup>：一～钥匙。<sup>\[东台\]</sup> ② 旧时缴纳田赋的收据<sup>\[兴化\]</sup>：造～<sup>\[兴化\]</sup>｜粮～<sup>\[兴化\]</sup>  
 1. 【[串场河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_chan_hu.md#串场河)】`chun5 chan2 hu2` <sup>[东台]</sup> 为海安、东台、盐城、阜宁一条线干河，是取土堆筑范公堤而成的河道。南起海安徐家坝，上接通扬运河之水，北至阜宁（庙湾）与射阳河沟通，全长420里。在东台境内86里，流经富安、安丰、梁垛、东台，从丁溪（草堰）入大丰境。因串连各盐场及周边河流颇多，故名～。  
 1. 【[串楼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_leu.md#串楼)】`chun5 leu2` <sup>[泰县]</sup> 砌楼房。  
-1. 【[串子绳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_zz_shen.md#串子绳)】`chun5 zz shen2` <sup>[泰兴]</sup> 很细的草绳。  
+1. 【[串通](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_ton.md#串通)】`chun5 ton1` <small>/t͡sʰʊ̃5 tʰɔŋ1/<sup>泰兴</sup></small> 勾结；串连。<sup>\[泰兴\]</sup>  
+1. 【[串子绳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_zz_shen.md#串子绳)】`chun5 zz shen2` <small>/t͡sʰʊ̃5 t͡sɿ səŋ2/<sup>泰兴</sup></small> 用于编结草苫草帘的细小的草绳。<sup>\[泰兴\]</sup>：乡谚：“刁啊刁，～束裤腰。（谓刁猾的人最后总是没有好下场的）。”<sup>\[泰兴\]</sup>  
 1. 【[串子绳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_zz_shen_r.md#串子绳<sub>儿</sub>)】`chun5 zz shen2 r` <sup>[如皋]</sup> 用茅草搓的绳，旧时用以串铜钱，故名。以后用来作小商品包扎。  
 1. 【[川头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_teu.md#川头)】`chun5 teu` <sup>[泰县]</sup> ① 故事结构：这出戏～不丑。 ② 转借。  
 1. 【[舛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun.md#舛)】`chun5` <sup>[泰州]</sup> ① （布料、木头之类）腐朽：这块木料时间长吖，～动吖唻，做梁怕的不行吖。 ② 堆积物体中间部分松动：东头老赵家西边的围墙～动吖，夜里大风刮咖倒掉啊，还好不曾伤到人。 ③ 喻指胃中食物消化，取其“腹中松动”之义：我早上喝咖两碗𣻏粥就上吖班，肚子里头先头子就～动唻。  
 1. 【[舛动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_ton.md#舛动)】`chun5 ton` <sup>[泰州]</sup> ① 摆放整齐的物体中的部分物体发生移动错位：这些木头摆啊西山墙的巷肚里，捱他俫抽啊几回，～吖唻。 ② 房屋的梁或者墙体发生偏离原位现象：这几间房子多年不修，梁已经～吖。 ③ 布料、木料开始腐朽：这些衣裳又不穿，时间长吖受啊潮又不晒，老早～吖  
 1. 【[𤶱痰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_taen.md#𤶱痰)】`chun5 taen2` <sup>[如皋]</sup> 一种恶疮。全身多处化脓溃烂，此处刚收口，彼处又烂开。俗说头顶上害疮，脚底下流浓，即指此症。  
+1. 【[𤶱痰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_taen.md#𤶱痰)】`chun5 taen2` <small>/t͡sʰʊ̃5 tʰɛ̃2/<sup>泰兴</sup></small> 疮疖。害在一处相互影响的几个疮疖。<sup>\[泰兴\]</sup>  
 1. 【[篆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun.md#篆)】`chun6` <sup>[东台]</sup> ① 篆字书体名：晚清东台鲍赓培的～书自成一体。 ② 用篆字体铭刻：这枚印章～刻水平非常高。  
 1. 【[初二初三一线斜，初七初八半夜月，十五十六两头红，二十九，亮月子出来扭三扭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_er_chv_saen.md#初二初三一线斜，初七初八半夜月，十五十六两头红，二十九，亮月子出来扭三扭)】`chv1 er6 chv1 saen1 ieh7 xin5 qia2 chv1 qieh7 chv1 baeh7 bun5 ia6 iuh8 sheh8 v3 sheh8 loh8 laen3 teu2 hon2 er6 sheh8 jieu3 lian6 iuh8 zz chueh7 lae2 nieu3 saen1 nieu3` <sup>[东台]</sup> 月亮在一个月中的圆缺变化规律。  
 1. 【[初伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_foh.md#初伏)】`chv1 foh8` <sup>[如皋]</sup> 夏至后第三个庚日起，计十天。  

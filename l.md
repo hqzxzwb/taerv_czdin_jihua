@@ -889,7 +889,8 @@
 1. 【[露筋露骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_jien_leu_gueh.md#露筋露骨)】`leu6 jien1 leu6 gueh7` <small>/lei1 t͡ɕiəŋ1 lei1 kuəʔ7/<sup>如皋</sup></small> ① 见“露筋露骨（lv6 jien1 lv6 gueh7）”。<sup>\[如皋\]</sup> ② 赤裸裸的、毫不掩饰的。<sup>\[如皋\]</sup>  
 1. 【[露面穿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_min_chun.md#露面穿)】`leu6 min6 chun1` <sup>[如皋]</sup> 衣服外面不加护脏的褂裤等：棉袍子不能～，弄吖脏吖难洗。  
 1. 【[鳓鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_y.md#鳓鱼)】`leu6 y2` <sup>[东台]</sup> 一种海鱼（东台人将鳓读若漏）。体呈椭圆形，侧扁，鱼肉鲜美，鱼骨细而密。  
-1. 【[哩哩拉拉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_li_la_la.md#哩哩拉拉)】`li1 li1 la1 la` <sup>[如皋]</sup> 天阴雨湿，～的半个月不曾好天：这本书～拖啊八九年才出版的。  
+1. 【[哩哩拉拉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_li_la_la.md#哩哩拉拉)】`li1 li1 la1 la` <sup>[如皋]</sup> ① 天阴雨湿：～的半个月不曾好天 ② 拖拖拉拉：这本书～拖啊八九年才出版的。  
+1. 【[哩哩拉拉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_li_la_la.md#哩哩拉拉)】`li1 li1 la1 la` <small>/lʝ1 lʝ1 lɑ1 lɑ/<sup>泰兴</sup></small> ① 形容零零落落，分散不集中的样子。<sup>\[泰兴\]</sup> ② 拖拖拉拉。<sup>\[泰兴\]</sup>  
 1. 【[剺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li.md#剺)】`li2` <sup>[泰州]</sup> 割，用刀划开：他的手上捱刀～啊个大口子。  
 1. 【[厘秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_chen.md#厘秤)】`li2 chen5` <sup>[如皋]</sup> 称中药、金银的小戥子。  
 1. 【[厘头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_teu.md#厘头)】`li2 teu` <sup>[泰县]</sup> 船行经纪人介绍买卖双方所得费用。  
@@ -969,10 +970,13 @@
 1. 【[礼信](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_xien.md#礼信)】`li3 xien5` ① 礼仪，礼节<sup>\[泰州\]</sup>：这些老～，现在的伢儿都不懂。<sup>\[泰州\]</sup> ② 表示庆贺或者友好或者诚意儿给的馈赠<sup>\[泰州\]</sup>：老李的～太大，每回来看他，都要带点儿东西过来。<sup>\[泰州\]</sup>  
 1. 【[里八字](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_baeh_cz.md#里八字)】`li3 baeh7 cz6` <small>/lʝ3 peʔ7 t͡sʰɿ1/<sup>如皋</sup></small> ① 双脚并立，双足尖较靠近的畸型。<sup>\[如皋\]</sup> ② 见“八脚儿”。<sup>\[如皋\]</sup>  
 1. 【[里八折外加二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_baeh_zhih_vae.md#里八折外加二)】`li3 baeh7 zhih7 vae6 jia1 er6` <sup>[东台]</sup> 形容克扣厉害。除本金打八折，另外还加二分利息。  
+1. 【[里八折外加二五](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_baeh_zhih_vae.md#里八折外加二五)】`li3 baeh7 zhih7 vae6 jia1 er6 v3` <small>/lʝ3 pæʔ7 t͡ɕiʔ7 ʋɛ1 t͡ɕiɑ1 ɚ1 ʋ3/<sup>泰兴</sup></small> 谓做生意里外、进出都极力挣钱。进货打八折，售出加三五折。<sup>\[泰兴\]</sup>  
 1. 【[……里不……](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_beh.md#……里不……)】`li3 beh7` <sup>[东台]</sup> 中缀。表示程度加深：啰～唆/胡～涂/呆～傻/认～真/神～经/绍～绍叨/嫌～嫌相。  
 1. 【[里边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_bin.md#里边)】`li3 bin1` <sup>[如东]</sup> 内侧。  
 1. 【[里城门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_chen_men.md#里城门)】`li3 chen2 men2` <sup>[如皋]</sup> 有月城的城门分内外两道，此为内门。  
+1. 【[里床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_chuan.md#里床)】`li3 chuan2` <small>/lʝ3 t͡sʰuɑŋ2/<sup>泰兴</sup></small> 床的里边。<sup>\[泰兴\]</sup>  
 1. 【[里打外敲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_da_vae_ko.md#里打外敲)】`li3 da3 vae6 ko1` <sup>[兴化]</sup> 多方刁难：他惯会～，弄得儿女无所适从。  
+1. 【[里打外敲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_da_vae_ko.md#里打外敲)】`li3 da3 vae6 ko1` <small>/lʝ3 tɑ3 ʋɛ1 kʰɔ1/<sup>泰兴</sup></small> 里外挣钱；讲蛮理。<sup>\[泰兴\]</sup>  
 1. 【[里栋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_don.md#里栋)】`li3 don, li3 ton` <sup>[东台]</sup> 里面，里头。（也有人口音若“里通”，通、栋皆轻读）  
 1. 【[里栋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_don.md#里栋)】`li3 don` 相对“外栋”，里面，里头。<sup>\[泰州\]</sup>  
 1. 【[里街](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_gae.md#里街)】`li3 gae1` <sup>[如皋]</sup> 见“后街”。  
@@ -988,11 +992,12 @@
 1. 【[里肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_roh.md#里肉)】`li3 roh8` <small>/ləi3 lɔʔ8/<sup>兴化</sup>, /lʝ3 ɻɔʔ8/<sup>如皋</sup></small> ① 猪的横膈肌。<sup>\[如皋\]</sup> ② 比喻内囊、私存款、私人积蓄<sup>\[如皋\]</sup>：这场官司输掉啊他的～。<sup>\[如皋\]</sup> ③ 猪胸腔和腹腔之间的肌膜，即膈膜。<sup>\[兴化\]</sup> ④ （喻）老本<sup>\[兴化\]</sup>：这笔交易非但赚不到钱，还要剜去～。<sup>\[兴化\]</sup>  
 1. 【[里身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_shen.md#里身)】`li3 shen1` <sup>[如皋]</sup> 里边、内部、深处。  
 1. 【[里胆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_taen.md#里胆)】`li3 taen3` <sup>[如皋]</sup> 车轮的内胎。  
-1. 【[里头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_teu.md#里头)】`li3 teu` 里面。<sup>\[如东\]</sup><sup>\[泰州\]</sup>  
+1. 【[里头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_teu.md#里头)】`li3 teu` <small>/lʝ3 tʰəɪ/<sup>泰兴</sup></small> 里面。<sup>\[如东\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>  
 1. 【[里通](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_ton.md#里通)】`li3 ton` <sup>[泰县]</sup> 里面：这个盒子～有饼干。  
 1. 【[里外里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_vae_li.md#里外里)】`li3 vae li3` <sup>[东台]</sup> 反正；更加：随你怎吖说，～我不去丢这个相｜你是老师，又是长辈，我敬你～应该。  
 1. 【[里外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_vae.md#里外)】`li3 vae6` <small>/ləi3 uɛ6/<sup>兴化</sup></small> ① 里面和外面<sup>\[兴化\]</sup>：～不讨好。<sup>\[兴化\]</sup> ② 反正<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：～没事做，不如外去闯闯。<sup>\[兴化\]</sup>｜～是一回事，你不同意也没得用。<sup>\[泰州\]</sup>  
 1. 【[里外里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_vae_li.md#里外里)】`li3 vae6 li3` <small>/lʝ3 ʋɛ1 lʝ3/<sup>如皋</sup>, /nɿ3 ʋe1 nɿ3/<sup>泰县</sup></small> ① 内外比较。<sup>\[如东\]</sup>：～推扳三千多元。<sup>\[如东\]</sup> ② 反正已定局了，不可变了。有怨恨色彩<sup>\[如皋\]</sup>：我～落不到个好。<sup>\[如皋\]</sup> ③ 反正<sup>\[泰县\]</sup><sup>\[泰州\]</sup>：这见事～就这吖。<sup>\[泰县\]</sup>｜这一大桌子菜～吃不掉，你就把他喊过来吧。<sup>\[泰州\]</sup>｜你俫就不要再谦唻，你把钱，他把钱，～一回事。<sup>\[泰州\]</sup>  
+1. 【[里走廊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_zeu_lan.md#里走廊)】`li3 zeu3 lan2` <small>/lʝ3 t͡sɤɯ3 lɑŋ2/<sup>泰兴</sup></small> 有屋面的走廊。<sup>\[泰兴\]</sup>  
 1. 【[里子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_zz.md#里子)】`li3 zz` <small>/lʝ3 t͡sɿ/<sup>如皋</sup></small> ① 面子里边的布料。<sup>\[如东\]</sup> ② 表衣物的里料。<sup>\[如皋\]</sup> ③ 表事物的内里、内部、内囊。<sup>\[如皋\]</sup>  
 1. 【[鲤鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_y.md#鲤鱼)】`li3 y2` <sup>[如东]</sup> 鲤科动物鲤鱼，也称花鱼。  
 1. 【[鲤鱼拐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_y_guae_zz.md#鲤鱼拐子)】`li3 y2 guae3 zz` <sup>[兴化]</sup> ① 不上斤的小鲤鱼：这种打鱼的，每天打不了多少……大都是不到半斤的～、鲫瓜子、鲶鱼。（汪曾祺《故乡人》） ② 鲤鱼的卵块。  

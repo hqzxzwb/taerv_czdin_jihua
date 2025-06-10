@@ -628,7 +628,7 @@
 1. 【[囤工夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_gon_fv.md#囤工夫)】`ten6 gon1 fv1` <sup>[东台]</sup> 专门安排时间：老人有病不能等有机会顺带去医院，要～送去看。  
 1. 【[囤盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_pun.md#囤盘)】`ten6 pun2` <sup>[如皋]</sup> 圆的木盘，做囤子的底脚。  
 1. 【[囤尸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_shr.md#囤尸)】`ten6 shr1` <sup>[如东]</sup> 表示倒霉：麻雀屎拉啊头，～！上嫌物品少，表示不愿接受的口语。｜拿你这些东西，～啊！  
-1. 【[囤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_zz.md#囤子)】`ten6 zz` <small>/tʰəŋ1 t͡sɿ/<sup>如皋</sup></small> ① 用䇽圈儿围积粮棉豆等，逐层加高，呈圆柱，在室外时，上边加锥形顶，防雨。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup>：粮～<sup>\[东台\]</sup>｜黄豆～。<sup>\[东台\]</sup> ② 过春节时，于三十夜的晚间在地上用蒲包儿打的整齐的一片石灰印，叫元宝～。<sup>\[如皋\]</sup>  
+1. 【[囤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_zz.md#囤子)】`ten6 zz` <small>/tʰəŋ1 t͡sɿ/<sup>如皋</sup>, /tʰəŋ1 t͡sɿ/<sup>泰兴</sup></small> ① 用䇽圈儿围积粮棉豆等，逐层加高，呈圆柱，在室外时，上边加锥形顶，防雨。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>：粮～<sup>\[东台\]</sup>｜黄豆～。<sup>\[东台\]</sup>｜乡人云：“划皮打塘，～阻到屋梁；细描细描，打点儿粮食不够送灶。”<sup>\[泰兴\]</sup> ② 过春节时，于三十夜的晚间在地上用蒲包儿打的整齐的一片石灰印，叫元宝～。<sup>\[如皋\]</sup>  
 1. 【[囤子屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_zz_oh.md#囤子屋)】`ten6 zz oh7` <sup>[如皋]</sup> 泥墙竹顶，似室外粮囤的陋屋。  
 1. 【[忳事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_shr.md#忳事)】`ten6 shr` <sup>[如皋]</sup> ① 嫌少：送这点儿杲子，倒～！ ② 不吉利：看见吖两头蛇就～；见屁股不打就～。 ③ 嘲笑、挖苦、作弄：你不要弄这些话去～他。  
 1. 【[忳事话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_shr_hua.md#忳事话)】`ten6 shr hua6` <sup>[如皋]</sup> 小气话，显得失体、丢面子或不吉利的话：他会说～话，好像八世里不曾吃过。  

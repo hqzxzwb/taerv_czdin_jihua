@@ -878,7 +878,7 @@
 1. 【[围兜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_deu_r.md#围兜<sub>儿</sub>)】`vei2 deu1 r` <sup>[如东]</sup> 围在肚脐上的一块方布，以红色为多，常绣各种花纹。起保暖作用。  
 1. 【[围加](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_ga.md#围加)】`vei2 ga1` <sup>[泰县]</sup> 兜儿。  
 1. 【[围袈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_ga.md#围袈)】`vei2 ga1` <sup>[东台]</sup> 理发师或厨师用的罩在衣服上的布。  
-1. 【[围袈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_ga_r.md#围袈<sub>儿</sub>)】`vei2 ga1 r` <small>/ʋei2 ka˞1/<sup>如皋</sup>, /ʋəɪ2 ka1 ɚ/<sup>泰县</sup></small> ① 围裙。<sup>\[如皋\]</sup> ② 围在胸前的一块长方形的布，主要用来护脏。<sup>\[如东\]</sup> ③ 布兜，围裙，围腰。<sup>\[泰县\]</sup>  
+1. 【[围袈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_ga_r.md#围袈<sub>儿</sub>)】`vei2 ga1 r` <small>/ʋei2 ka˞1/<sup>如皋</sup>, /ʋəɪ2 kɑ˞1/<sup>泰兴</sup>, /ʋəɪ2 ka1 ɚ/<sup>泰县</sup></small> ① 围裙。<sup>\[如皋\]</sup> ② 围在胸前的一块长方形的布，主要用来护脏。<sup>\[如东\]</sup> ③ 布兜，围裙，围腰。<sup>\[泰县\]</sup> ④ 围于小孩颈脖以挡脏的小加子。乡人也有称为“加子”的。<sup>\[泰兴\]</sup>  
 1. 【[围袈子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_ga_zz.md#围袈子)】`vei2 ga1 zz` <sup>[兴化]</sup> 围在小孩胸前使衣服保持清洁的东西。‖又称“袈口子”。  
 1. 【[围腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_io.md#围腰)】`vei2 io1` <small>/ʋəɪ2 iɔ1/<sup>泰县</sup></small> ① 即围裙。<sup>\[东台\]</sup> ② 妇女系在衣服外面的布兜。<sup>\[泰县\]</sup>  
 1. 【[围腰布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_io_bv.md#围腰布)】`vei2 io1 bv5` <sup>[兴化]</sup> 围在腰部以下保持清洁的布片。又称“围腰子”。  
@@ -890,9 +890,11 @@
 1. 【[围裙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_qyen.md#围裙)】`vei2 qyen2` ① 围在腰间的一种裙子。裙带一般比腰围大一半左右。<sup>\[如东\]</sup> ② 阔幅裙，交叉用带子围在身上。旧时女性穿戴居多。<sup>\[东台\]</sup> ③ 做脏活时系在腰上以遮蔽衣服或者身体的布片。<sup>\[泰州\]</sup>  
 1. 【[围网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_van.md#围网)】`vei2 van3` <sup>[兴化]</sup> ① 在河湖中，用网围起的一片水域：～养鱼。 ② 一种捕鱼方法，也称“拉大网”。  
 1. 【[围子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_zz.md#围子)】`vei2 zz` <sup>[泰县]</sup> 敌人的据点。  
+1. 【[围子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_zz.md#围子)】`vei2 zz` <small>/ʋəɪ2 t͡sɿ/<sup>泰兴</sup></small> 围在身前用以遮蔽衣服或挡脏的裙状物，也称“围腰儿”。<sup>\[泰兴\]</sup>  
 1. 【[圩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei.md#圩)】`vei2` <small>/ʋəɪ2/<sup>泰兴</sup></small> ① 范公堤堤西阻挡洪水的堤坝<sup>\[东台\]</sup>：太平～<sup>\[东台\]</sup>｜三角～。<sup>\[东台\]</sup> ② 沙滩筑堤，围成田者曰圩。泰兴人读音若“围”，亦音如“于”。如圩岸、云头圩等；又，老岸田今仍名圩（于音），如蛤蟆圩（今曲霞镇）、太平圩等。<sup>\[泰兴\]</sup>  
 1. 【[圩里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_li.md#圩里)】`vei2 li3` <sup>[兴化]</sup> ① 在圩堤围护的范围以内。 ② 特指兴化东北乡，老圩、中圩、永丰、合塔等圩的～：～地区。  
 1. 【[圩南](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_nun.md#圩南)】`vei2 nun2` <sup>[兴化]</sup> 指兴化蚌蜓圩（大象圩）以南地区。  
+1. 【[圩田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_tin.md#圩田)】`vei2 tin2` <small>/ʋəɪ2 tʰĩ2/<sup>泰兴</sup></small> 以土围占江滩为田。<sup>\[泰兴\]</sup>  
 1. 【[圩岸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_un.md#圩岸)】`vei2 un6` <small>/uəi2 ũ6/<sup>兴化</sup>, /ʋəɪ2 ʊ̃1/<sup>泰兴</sup></small> ① 指圩堤的顶部和两侧的青坎。<sup>\[兴化\]</sup> ② 地名，为兴化西郊的一个村庄。<sup>\[兴化\]</sup> ③ 低洼地区防水护田的堤岸。<sup>\[泰兴\]</sup>  
 1. 【[圩外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_vae.md#圩外)】`vei2 vae6` <sup>[兴化]</sup> ① 圩堤范围以外。 ② 特指兴化中西部低洼地区。  
 1. 【[圩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_zz.md#圩子)】`vei2 zz` <small>/ʋəɪ2 t͡sɿ/<sup>泰兴</sup></small> 防水的堤埂。岸田为田地，称圩田，据史料记载，由汉以前即发展而来，至唐已相当发达。泰兴西乡地区遍有圩子。<sup>\[泰兴\]</sup>  
