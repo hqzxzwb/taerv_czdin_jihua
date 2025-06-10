@@ -70,8 +70,6 @@
 1. 【[让身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ran_shen.md#让身)】`ran6 shen1` <small>/ɻã1 səŋ1/<sup>如皋</sup></small> ① 让开、避开：他捱人家缠住啊不得～。<sup>\[如皋\]</sup> ② 身体在原来的地方让开留出后退的去路。<sup>\[如东\]</sup>：要有～。<sup>\[如东\]</sup>  
 1. 【[让他遇别人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ran_ta_y_pih.md#让他遇别人)】`ran6 ta1 y6 pih8 ren` <sup>[如皋]</sup> 冷眼相看。  
 1. 【[让疼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ran_ten.md#让疼)】`ran6 ten2` <sup>[如皋]</sup> ① 因疼而下意识地让动或取保护性姿势，动作。 ② 喻忍辱屈服。  
-1. 【[入碰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_bon.md#入碰)】`reh8 bon5` <small>/ɻəʔ8 pɔŋ5/<sup>泰兴</sup></small> 办事毫无头绪，胡乱行动碰运气。<sup>\[泰兴\]</sup>  
-1. 【[入碰𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_bon_son.md#入碰𪨊)】`reh8 bon5 son2` <small>/ɻəʔ8 pɔŋ5 sɔŋ2/<sup>泰兴</sup></small> 同“入碰”。<sup>\[泰兴\]</sup>：箇桩事叫他去办肯定是～，办不好的。<sup>\[泰兴\]</sup>  
 1. 【[入大糊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_da_hv.md#入大糊)】`reh8 da6 hv6` <sup>[如东]</sup> ① 马马虎虎，糊糊涂涂：不要～ ② 比喻办事糊涂的人：他是个～。  
 1. 【[入耳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_er.md#入耳)】`reh8 er3` <sup>[泰兴]</sup> 悦耳，中听：他的箇些话，我是越听越不～。  
 1. 【[入伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_foh.md#入伏)】`reh8 foh8` <sup>[东台]</sup> 进入伏天（暑热夏天）。  
@@ -88,6 +86,8 @@
 1. 【[入梅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_mei.md#入梅)】`reh8 mei2` 进入梅雨季节。  
 1. 【[入泊头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_pah_teu.md#入泊头)】`reh8 pah7 teu2` <sup>[泰兴]</sup> 骂人。  
 1. 【[入碰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_pon.md#入碰)】`reh8 pon5` <sup>[如东]</sup> 闲谈。  
+1. 【[入碰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_pon.md#入碰)】`reh8 pon5` <small>/ɻəʔ8 pɔŋ5/<sup>泰兴</sup></small> 办事毫无头绪，胡乱行动碰运气。<sup>\[泰兴\]</sup>  
+1. 【[入碰𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_pon_son.md#入碰𪨊)】`reh8 pon5 son2` <small>/ɻəʔ8 pɔŋ5 sɔŋ2/<sup>泰兴</sup></small> 同“入碰”。<sup>\[泰兴\]</sup>：箇桩事叫他去办肯定是～，办不好的。<sup>\[泰兴\]</sup>  
 1. 【[入且](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_qia.md#入且)】`reh8 qia` 无实际含义，多为口头禅，多含贬义。相当于普通话的“哇噻，他妈的”之类。  
 1. 【[入席](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_qieh.md#入席)】`reh8 qieh8` <sup>[如东]</sup> 开始坐酒席。  
 1. 【[入秋的高粱——老来红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_qieu_dii_go.md#入秋的高粱——老来红)】`reh8 qieu1 dii go1 lian2 lo3 lae2 hon2` <sup>[东台]</sup>   

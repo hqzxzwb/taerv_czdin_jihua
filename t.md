@@ -838,7 +838,7 @@
 1. 【[豆腐脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_fv_no.md#豆腐脑)】`teu6 fv no3` ① 豆浆煮熟后经点卤凝结而成的一种传统小吃。<sup>\[东台\]</sup> ② 一种食品，豆浆煮滚，加入石膏或者盐卤而凝结成的半固体食物，吃的时候配上辣油、虾米、榨菜等佐料。<sup>\[泰州\]</sup>  
 1. 【[豆腐脑<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_fv_no_r.md#豆腐脑<sub>儿</sub>)】`teu6 fv no3 r` <sup>[如东]</sup> 豆浆煮开后加入石膏而凝结成的半固体。  
 1. 【[豆腐皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_fv_pi.md#豆腐皮)】`teu6 fv pi2` <sup>[如东]</sup> 豆腐浆煮沸后，浆面所凝结之薄膜。  
-1. 【[豆腐烧肉，各人碰局](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_fv_sho_roh.md#豆腐烧肉，各人碰局)】`teu6 fv sho1 roh8 gah7 ren2 bon5 qioh8` <small>/tʰəɪ1 fʋ sɔ1 ɻɔʔ8 kɑʔ7 ɻəŋ2 pɔŋ5 t͡ɕʰiɔʔ8/<sup>泰兴</sup></small> 谓碰运气，碰巧。<sup>\[泰兴\]</sup>  
+1. 【[豆腐烧肉，各人碰局](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_fv_sho_roh.md#豆腐烧肉，各人碰局)】`teu6 fv sho1 roh8 gah7 ren2 pon5 qioh8` <small>/tʰəɪ1 fʋ sɔ1 ɻɔʔ8 kɑʔ7 ɻəŋ2 pɔŋ5 t͡ɕʰiɔʔ8/<sup>泰兴</sup></small> 谓碰运气，碰巧。<sup>\[泰兴\]</sup>  
 1. 【[豆腐辋子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_fv_van_zz.md#豆腐辋子)】`teu6 fv van3 zz` <sup>[如东]</sup> 豆腐店标志。做一只圆圈，下挂三绺稻草，系在竹竿上，高高挂起来，远近住户都能看见。  
 1. 【[豆腐渣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_fv_zha.md#豆腐渣)】`teu6 fv zha1` <sup>[如东]</sup> 制作豆腐时滤去浆汁后剩下的渣滓。  
 1. 【[豆腐渣贴对子——黏不上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_fv_zha_tih.md#豆腐渣贴对子——黏不上)】`teu6 fv zha1 tih7 dy5 zz nin2 beh7 shan6` <sup>[东台]</sup>   
