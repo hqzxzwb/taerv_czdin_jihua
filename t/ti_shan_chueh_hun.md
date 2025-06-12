@@ -1,4 +1,4 @@
-# 地上出汗，雨后才旱
-ti6 shan6 chueh7 hun6 y3 heu6 cae2 hun6
+# 地上出汗，雨后才干
+ti6 shan6 chueh7 hun6 y3 heu6 cae2 gun1
 + 气象谚语。谓地面、墙壁转潮，甚至浮挂水滴，预示天将要下雨。
   * 泰兴方言辞典
