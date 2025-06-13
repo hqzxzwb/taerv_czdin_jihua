@@ -1100,7 +1100,7 @@
 1. 【[䗙䘆路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xin_lv.md#䗙䘆路)】`hu2 xin1 lv6` <sup>[如皋]</sup> 羊肠小道。  
 1. 【[何必](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_bieh.md#何必)】`hu2 bieh7` <sup>[如皋]</sup> 叹息语，表示做了不愿、无价值、无必要的事。  
 1. 【[何的个甚的苦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_dii_gu_shen.md#何的个甚的苦)】`hu2 dii gu shen2 nii kv3` <sup>[如皋]</sup> 叹息语，表示做了不愿、无价值、无必要的事。  
-1. 【[何犯着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_faen_chah.md#何犯着)】`hu2 faen6 chah8` <small>/xo2 fɛ̃6 t͡sʰaʔ8/<sup>兴化</sup>, /xʊ2 fẽ1 t͡sʰaʔ8/<sup>如皋</sup></small> ① 何必：你没好处，～起早带晚的忙。<sup>\[如皋\]</sup> ② 何必费这么大功夫<sup>\[东台\]</sup>：你有房子住，～还烦神砌新屋呢？<sup>\[东台\]</sup> ③ 犯不着<sup>\[兴化\]</sup>：～为这种人生气𪠸？<sup>\[兴化\]</sup>｜“……有了夏十，不愁没有证见，但是我～同他对质呢？”（《官场现形记》二八）<sup>\[兴化\]</sup>  
+1. 【[何犯着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_faen_chah.md#何犯着)】`hu2 faen6 chah8` <small>/xo2 fɛ̃6 t͡sʰaʔ8/<sup>兴化</sup>, /xʊ2 fẽ1 t͡sʰaʔ8/<sup>如皋</sup>, /xɤɯ2 fɛ̃ t͡sʰɑʔ8/<sup>泰兴</sup></small> 何必，常作反问<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：你没好处，～起早带晚的忙。<sup>\[如皋\]</sup>｜你有房子住，～还烦神砌新屋呢？<sup>\[东台\]</sup>｜～为这种人生气𪠸？<sup>\[兴化\]</sup>｜“……有了夏十，不愁没有证见，但是我～同他对质呢？”（《官场现形记》二八）<sup>\[兴化\]</sup>  
 1. 【[何首乌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_sheu_v.md#何首乌)】`hu2 sheu3 v1` <sup>[如东]</sup> 蓼科植物何首乌，多年生缠绕草本。  
 1. 【[何仙姑去娘家——云里来雾里去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xin_gv_qy.md#何仙姑去娘家——云里来雾里去)】`hu2 xin1 gv1 qy5 nian2 ga1 yen2 li3 lae2 v5 li3 qy5` <sup>[东台]</sup>   
 1. 【[何止](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_zhr.md#何止)】`hu2 zhr3` <sup>[泰州]</sup> 岂止，不止，实际超出某个数目、范围：他在公司当科长，～拿这两个钱。  

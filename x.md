@@ -1062,17 +1062,19 @@
 1. 【[嗅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu.md#嗅)】`xieu5` <sup>[如东]</sup> 用嘴唇抽吸食物：吃骨髓要用嘴唇～。  
 1. 【[嗅鼻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_pieh_r.md#嗅鼻<sub>儿</sub>)】`xieu5 pieh8 r` <sup>[如皋]</sup> ① 鼻子不断嗅气的动作。 ② 鼻子收缩的样子。  
 1. 【[秀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu.md#秀)】`xieu5` <sup>[如东]</sup> 植物抽穗开花。  
+1. 【[秀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu.md#秀)】`xieu5` <small>/ɕiɤɯ5/<sup>泰兴</sup></small> 禾类植物开花抽穗。<sup>\[泰兴\]</sup>：乡谚：“稻秀螺螺麦秀蚬。”/“麦秀砖盖地（旱），稻秀濛淞雨（雨）。”<sup>\[泰兴\]</sup>  
 1. 【[秀才](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_cae.md#秀才)】`xieu5 cae` <sup>[如东]</sup> ① 明、清时代生员的通称。 ② 泛指读书人。 ③ 有知识的人。  
+1. 【[秀才](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_cae.md#秀才)】`xieu5 cae` <small>/ɕiɤɯ5 t͡ɕʰiɛ/<sup>泰兴</sup></small> 旧时举士的科名。后泛称书生、读书人。<sup>\[泰兴\]</sup>：～遇到兵，有理说不清<sup>\[泰兴\]</sup>｜～不出门，能知天下事<sup>\[泰兴\]</sup>  
 1. 【[秀才的手巾——包书（输）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_cae_dii_sheu.md#秀才的手巾——包书（输）)】`xieu5 cae dii sheu3 jien1 bo1 shv1` <sup>[东台]</sup>   
 1. 【[秀才遇到兵，有理说不清](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_cae_y_do.md#秀才遇到兵，有理说不清)】`xieu5 cae2 y6 do5 bien1 ieu3 li3 shuh7 beh7 qien1` <sup>[东台]</sup> 没有共同语言，难以沟通。  
-1. 【[秀顶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_dien.md#秀顶)】`xieu5 dien3` ① 秃头，光头，秃顶。 ② 头顶头发脱光，称秀顶。<sup>\[如东\]</sup>  
+1. 【[秀顶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_dien.md#秀顶)】`xieu5 dien3` <small>/ɕiɤɯ5 tiŋ3/<sup>泰兴</sup></small> ① 秃头，光头，秃顶。 ② 头顶头发脱光，称秀顶。<sup>\[如东\]</sup> ③ 年老秃顶。<sup>\[泰兴\]</sup>  
 1. 【[秀顶光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_dien_guan.md#秀顶光)】`xieu5 dien3 guan1` <small>/ɕiɤ5 tiɪ̃3 kuaŋ1/<sup>兴化</sup>, /ɕyʊ5 tiəŋ3 kuã1/<sup>如皋</sup></small> ① 秃顶。<sup>\[如皋\]</sup> ② 谢顶，秃顶<sup>\[东台\]</sup>：他才三十出头，就～啊，显得老颜。<sup>\[东台\]</sup> ③ 头顶的毛发全部或大部脱落。<sup>\[兴化\]</sup> ④ 秃顶的人<sup>\[兴化\]</sup>：刚才来啊个～。<sup>\[兴化\]</sup> ⑤ 秃顶，头顶不长头发或者头顶前部不长头发的人。<sup>\[泰州\]</sup>  
 1. 【[秀口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_keu.md#秀口)】`xieu5 keu3` <sup>[如皋]</sup> ① 怕见生人。 ② 在外人面前、在正式的场合不敢讲话。  
 1. 【[秀亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_lian.md#秀亮)】`xieu5 lian6` <sup>[泰县]</sup> 害羞、怕见人：她刚刚到这许，还有点儿～。  
 1. 【[秀马叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_ma_cha.md#秀马叉)】`xieu5 ma3 cha1` <sup>[如东]</sup> 指玉米吐雄蕊。  
 1. 【[秀苗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_mio.md#秀苗)】`xieu5 mio2` <sup>[如东]</sup> ① 植物抽穗。 ② 年轻公畜性成熟，开始发情，称秀苗。  
 1. 【[秀气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_qi.md#秀气)】`xieu5 qi` <sup>[兴化]</sup> ① 形容人生得清秀：别看香妹子才十七八岁，可水灵～……（刘仁前《香河风情·香河渡》） ② 形容人正气、不苟且：“是哪家婆娘不～？替老公装幌子……”（《醒世恒言》三四） ③ 指人聪明、有主意：你覅把～放吖在肚里。  
-1. 【[秀气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_qi.md#秀气)】`xieu5 qi5` <small>/ɕyʊ5 t͡ɕʰʝ5/<sup>如皋</sup></small> ① 娇弱：她太～，许多杲子不吃，一弄就病，真难侍侯。<sup>\[如皋\]</sup> ② 俊秀。<sup>\[如东\]</sup>：这件浮雕十分～。<sup>\[如东\]</sup> ③ 娇弱。<sup>\[如东\]</sup>：这位姑娘天生～。<sup>\[如东\]</sup>  
+1. 【[秀气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_qi.md#秀气)】`xieu5 qi5` <small>/ɕyʊ5 t͡ɕʰʝ5/<sup>如皋</sup>, /ɕiɤɯ5 t͡ɕʰʝ5/<sup>泰兴</sup></small> ① 娇弱<sup>\[如皋\]</sup>：她太～，许多杲子不吃，一弄就病，真难侍侯。<sup>\[如皋\]</sup> ② 俊秀。<sup>\[如东\]</sup>：这件浮雕十分～。<sup>\[如东\]</sup> ③ 娇弱。<sup>\[如东\]</sup>：这位姑娘天生～。<sup>\[如东\]</sup> ④ 精美雅致，体面光彩；清秀美丽。<sup>\[泰兴\]</sup>：生得～<sup>\[泰兴\]</sup>  
 1. 【[秀吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_qieh.md#秀吃)】`xieu5 qieh7` <sup>[东台]</sup> 吃得太慢太少，且挑食：这个猪子～难长膘。  
 1. 【[绣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu.md#绣)】`xieu5` <sup>[如东]</sup> 一种缝纫方法。用彩线在绸、缎、布等织物上里穿外透，绣制花纹，称绣。也称参。  
 1. 【[绣花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_hua.md#绣花)】`xieu5 hua1` <sup>[如东]</sup> 用彩线在绸缎、布等织物上绣制花纹。也称参花。  

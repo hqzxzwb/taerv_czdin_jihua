@@ -1683,9 +1683,11 @@
 1. 【[钉搭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_daeh_zz.md#钉搭子)】`dien1 daeh7 zz` <sup>[兴化]</sup> ① 铁打的钩搭，是紧扣在一起的东西。 ② （喻）形容紧钉不放：他像个～。  
 1. 【[钉钉挂挂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_dien_gua_gua.md#钉钉挂挂)】`dien1 dien1 gua5 gua5` <sup>[泰州]</sup> 黏稠东西欲滴不滴的样子：你手上全是漆，～的，不要夯吖衣裳上。  
 1. 【[钉钉入木](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_dien_reh_moh.md#钉钉入木)】`dien1 dien1 reh8 moh8` <small>/tiɪ̃1 tiɪ̃1 ləʔ8 mɔʔ8/<sup>兴化</sup>, /tiəŋ1 tiəŋ1 ɻəʔ8 mɔʔ8/<sup>如皋</sup></small> ① 喻事事认真，毫不放松，或句句话打中要害。<sup>\[如皋\]</sup> ② 步步紧逼，一着不让<sup>\[兴化\]</sup>：他跟你～的，不办成功不放过。<sup>\[兴化\]</sup> ③ 形容唠唠叨叨<sup>\[兴化\]</sup>：她成天～的，不让人安身。<sup>\[兴化\]</sup>  
-1. 【[钉鞋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_hae.md#钉鞋)】`dien1 hae2` ① 雨鞋底部钉上圆头钉，起扒滑作用。这种鞋称钉鞋。<sup>\[如东\]</sup> ② 旧时雨鞋，鞋底钉上大帽子钉。<sup>\[东台\]</sup> ③ 运动员所穿跑鞋、跳鞋的统称。<sup>\[东台\]</sup> ④ 旧时雨鞋，鞋帮刷桐油防水浸透，以其鞋底上有圆头防滑铁钉，故名。<sup>\[泰州\]</sup>  
+1. 【[钉鞋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_hae.md#钉鞋)】`dien1 hae2` <small>/tiŋ1 xɛ2/<sup>泰兴</sup></small> ① 雨鞋底部钉上圆头钉，起扒滑作用。这种鞋称钉鞋。<sup>\[如东\]</sup> ② 旧时雨鞋，鞋底钉上大帽子钉。<sup>\[东台\]</sup> ③ 运动员所穿跑鞋、跳鞋的统称。<sup>\[东台\]</sup> ④ 旧时雨鞋，鞋帮刷桐油防水浸透，以其鞋底上有圆头防滑铁钉，故名。<sup>\[泰州\]</sup> ⑤ 旧式雨鞋。用布做成，并以桐油油过，鞋底下加有圆头铁钉以防滑。<sup>\[泰兴\]</sup>  
 1. 【[钉鞋底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_hae_di.md#钉鞋底)】`dien1 hae2 di3` <sup>[东台]</sup> 纳鞋底。  
+1. 【[钉鞋底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_hae_di.md#钉鞋底)】`dien1 hae2 di3` <small>/tiŋ1 xɛ2 t͡ɕʝ3/<sup>泰兴</sup></small> 扎鞋底。<sup>\[泰兴\]</sup>：乡人云：“郭家奶奶～，千针（真）万实。”喻非常真实。<sup>\[泰兴\]</sup>  
 1. 【[钉螺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_lu.md#钉螺)】`dien1 lu2` <sup>[如东]</sup> 锥螺科动物钉螺，壳小，尖塔形，有螺层七个左右。  
+1. 【[钉耙锄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_pa_chv_zz.md#钉耙锄子)】`dien1 pa chv2 zz` <small>/tiŋ1 pʰɑ sɤɯ2 t͡sɿ/<sup>泰兴</sup></small> 泛指各种小型农具。<sup>\[泰兴\]</sup>  
 1. 【[钉耙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_pa.md#钉耙)】`dien1 pa2` ① 农具。铁制，有四只齿。用以翻地。<sup>\[如东\]</sup> ② 一种齿形如钉的农具。<sup>\[东台\]</sup>  
 1. 【[钉耙柄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_pa_bien.md#钉耙柄)】`dien1 pa2 bien5` <sup>[如东]</sup> 固定钉耙的竹竿或木杆。  
 1. 【[钉耙齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_pa_chr.md#钉耙齿)】`dien1 pa2 chr3` <sup>[如东]</sup> 由钉耙头延伸下来的长条，铁制，扁形或方形、圆形，尖端锋利。  
@@ -1752,12 +1754,14 @@
 1. 【[钉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien.md#钉)】`dien5` ① 将钉状物扎入其他物之中<sup>\[泰州\]</sup>：在墙上～个钢钉挂镜框子。<sup>\[泰州\]</sup> ② 装订图书成册<sup>\[泰州\]</sup>：你帮他～几本作业本子。<sup>\[泰州\]</sup> ③ 缝补<sup>\[泰州\]</sup>：这件衣裳上～吖两个大补丁。<sup>\[泰州\]</sup> ④ 用线缝缀两片以上织物<sup>\[泰州\]</sup>：你帮他把衣裳上的纽子～下子。<sup>\[泰州\]</sup>  
 1. 【[钉船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_chun.md#钉船)】`dien5 chun2` <sup>[如东]</sup> 建造新船。  
 1. 【[钉钉如木](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_dien_rv_moh.md#钉钉如木)】`dien5 dien1 rv2 moh8` <sup>[如东]</sup> 像在木头上钉钉一样。比喻非常认真：处理家务事情不要～的。  
+1. 【[钉刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_do.md#钉刀)】`dien5 do1` <small>/tiŋ5 tɔ1/<sup>泰兴</sup></small> 板着面孔，态度坚决，不达目的不罢休的样子。<sup>\[泰兴\]</sup>：地主老财来讨债，总是～啊似的，一点也不能少。<sup>\[泰兴\]</sup>  
 1. 【[钉刀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_do_r.md#钉刀<sub>儿</sub>)】`dien5 do1 r` <sup>[如皋]</sup> 见“硬头”。  
 1. 【[钉斠<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_go_r.md#钉斠<sub>儿</sub>)】`dien5 go5 r` <sup>[如皋]</sup> 剪子的轴和凹型垫片：剪子最怕跌，一跌，～就松。  
 1. 【[钉吖剥的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_nga_bah_dii.md#钉吖剥的)】`dien5 nga bah7 dii` <sup>[东台]</sup> ［喻］对某件事追得很紧：儿子～，多次催老子买新房。  
 1. 【[钉吖纸捻子里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_nga_zhr_nin.md#钉吖纸捻子里)】`dien5 nga zhr3 nin3 zz lii` <sup>[东台]</sup> ［喻］已经内定，不易改变。  
 1. 【[钉掌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_zhan_zz.md#钉掌子)】`dien5 zhan3 zz` <sup>[如皋]</sup> 给鞋底的前掌和后跟加皮或其他物品并用鞋钉钉上。  
-1. 【[钉桩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_zhuan.md#钉桩)】`dien5 zhuan1` <sup>[兴化]</sup> ① 船靠岸后，为系缆绳在岸边打上铁纤或小木桩。 ② 打桩：把木桩、水泥桩打在河边保护堤岸，或打进地里加固地基。  
+1. 【[钉桩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_zhuan.md#钉桩)】`dien5 zhuan1` <sup>[兴化]</sup> ① 船靠岸后，为系缆绳在岸边打上铁纤或小木桩。 ② 打桩，把木桩、水泥桩打在河边保护堤岸，或打进地里加固地基。  
+1. 【[钉桩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_zhuan.md#钉桩)】`dien5 zhuan1` <small>/tiŋ5 t͡suɑŋ1/<sup>泰兴</sup></small> 下桩，在地上固定柱桩。<sup>\[泰兴\]</sup>  
 1. 【[丢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu.md#丢)】`dieu1` <sup>[泰州]</sup> ① 人死以后遗留：老的走掉以后，～啊三套房子把他。 ② 摆放，安放：你出门办事要把身上钱～～好，当心弄吖少掉啊。｜你把碗洗啊好啊就～啊碗橱里去。  
 1. 【[丢场面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_chan_min.md#丢场面)】`dieu1 chan2 min6` <small>/tyʊ1 t͡sʰã2 mĩ1/<sup>如皋</sup></small> ① 丢面子。<sup>\[如东\]</sup>：这件事不曾做成，～。<sup>\[如东\]</sup> ② 失体面。<sup>\[如皋\]</sup>  
 1. 【[丢筹<sub>儿</sub>钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_chr_r_qin.md#丢筹<sub>儿</sub>钱)】`dieu1 chr2 r qin2` <sup>[如皋]</sup> 见“筹钱”。  
@@ -1936,6 +1940,7 @@
 1. 【[电网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_van.md#电网)】`din5 van3` <sup>[如东]</sup> ① 电力部门建立的供电网络。 ② 一种捕鱼网具。袋形。网口有一金属丝，通电后，用电触击鱼虾，捕取。  
 1. 【[电线杆绑鸡毛——好大的胆（掸）子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_xin_gun_ban.md#电线杆绑鸡毛——好大的胆（掸）子)】`din5 xin5 gun ban3 ji1 mo2 ho3 da6 dii daen3 zz` <sup>[东台]</sup>   
 1. 【[电线杆子剔牙子，大来大去的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_xin_gun_zz.md#电线杆子剔牙子，大来大去的)】`din5 xin5 gun3 zz tieh7 nga2 zz da6 lae2 da6 qy5 dii` <small>/tĩ5 ɕĩ5 kʊ̃3 t͡sɿ tʰiʔ7 ŋɑ2 t͡sɿ tɑ1 lɛ2 tɑ1 t͡ɕʰy5 təɪ/<sup>泰兴</sup></small> 歇后语。表示出手大方。<sup>\[泰兴\]</sup>  
+1. 【[甸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din.md#甸)】`din5` <small>/tiɪ̃5/<sup>兴化</sup>, /tĩ5/<sup>如皋</sup>, /tĩ5/<sup>泰兴</sup>, /tiɪ̃5/<sup>泰县</sup></small> 地名用字。本字多为“店”：泰兴马甸，旧名马店｜泰兴十里甸，旧名十里店  
 1. 【[踮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din.md#踮)】`din5` <small>/tiɪ̃5/<sup>兴化</sup></small> ① 脚尖着地，脚跟抬起。<sup>\[东台\]</sup> ② 提起脚跟<sup>\[兴化\]</sup>：～起脚来香嘴。<sup>\[兴化\]</sup> ③ 足用力点地<sup>\[兴化\]</sup>：他将上身一闪……脚一～，早已上屋去了。（《八窍珠》二二）<sup>\[兴化\]</sup> ④ 提起脚跟，脚尖着地立着<sup>\[泰州\]</sup>：你把脚～起来站吖他旁边，才同他一样高。<sup>\[泰州\]</sup> ⑤ 腿部受伤或者跛足人脚尖点地走路<sup>\[泰州\]</sup>：他脚上有个刺，走起路来就像个瘸子，一～一～的。<sup>\[泰州\]</sup>  
 1. 【[踮脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_jiah.md#踮脚)】`din5 jiah7` <small>/tiɪ̃5 t͡ɕiaʔ7/<sup>兴化</sup></small> ① 脚跟离地，用脚尖儿站着。<sup>\[如东\]</sup> ② 跛足人走路时足尖点地的样子<sup>\[兴化\]</sup>：一个老母亲，是个～，走起路来一踮一踮的。（江曾祺《三姐妹出嫁》）‖“踮”也作“掂”<sup>\[兴化\]</sup>｜《水浒后传》第二十二回有“道人掂手掂脚”句。<sup>\[兴化\]</sup>  
 1. 【[踮脚奅<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_jiah_po_r.md#踮脚奅<sub>儿</sub>)】`din5 jiah7 po1 r` <sup>[如东]</sup> ① 比喻办事脱离实际：不能做～。 ② 办事脱离实际的人。  

@@ -1199,6 +1199,7 @@
 1. 【[我的娘吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_dii_nian_nga.md#我的娘吖)】`ngu3 dii nian2 nga` <sup>[如东]</sup> 惊叹词：好险，～！  
 1. 【[我家他（她）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_ga_ta.md#我家他（她）)】`ngu3 ga ta1` <sup>[如皋]</sup> 夫妻间指丈夫（妻子）。  
 1. 【[我家女的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_ga_ny_dii.md#我家女的)】`ngu3 ga1 ny3 dii` <sup>[如东]</sup> 自己的妻子：她是～。  
+1. 【[我佼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_jio.md#我佼)】`ngu3 jio` <small>/ŋɤɯ3 t͡ɕiɔ/<sup>泰兴</sup></small> 我们<sup>\[泰兴\]</sup>  
 1. 【[我俫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_lae.md#我俫)】`ngu3 lae` <small>/ŋʊ3 lɛ/<sup>如皋</sup></small> 我们，第一人称复数<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup>  
 1. 【[我噢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_o.md#我噢)】`ngu3 o3` <sup>[如皋]</sup> 应答声。表示不愿意。如：你去下子——～（我不高兴去）。  
 1. 【[我同你没板打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_ton_nii_meh.md#我同你没板打)】`ngu3 ton2 nii3 meh8 baen3 da3` <sup>[东台]</sup> 意思是我绝不帮你办这件事。通常是在生气时拒绝对方请求。（参见“没监牢板子打”）  

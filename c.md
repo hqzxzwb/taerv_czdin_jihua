@@ -2376,7 +2376,7 @@
 1. 【[自来火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_lae_hu.md#自来火)】`cz6 lae hu3` <small>/t͡sʰɿ6 lɛ xo3/<sup>兴化</sup>, /t͡sʰɿ1 lɛ xɤɯ3/<sup>泰兴</sup></small> ① 火柴\[泰兴：亦称“洋火”、“私来火”\]\[兴化：旧称\] ② 今称打火机。<sup>\[兴化\]</sup>  
 1. 【[自留地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_lieu_ti.md#自留地)】`cz6 lieu2 ti6` <sup>[东台]</sup> 本指实行农业集体化后留给农民家庭经营的少量土地。［喻］指本职工作或干私活。  
 1. 【[自摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_mah.md#自摸)】`cz6 mah8` <small>/t͡sʰɿ1 mɑʔ8/<sup>泰兴</sup></small> 牌艺中以自己所扒的牌取胜曰“自摸”。<sup>\[泰兴\]</sup>  
-1. 【[自鸣钟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_mien_zhon.md#自鸣钟)】`cz6 mien2 zhon1` <small>/t͡sʰɿ1 miŋ2 t͡sɔŋ1/<sup>泰兴</sup></small> 也说“私鸣钟”。按时自己报告时间的钟。<sup>\[泰兴\]</sup>  
+1. 【[自鸣钟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_mien_zhon.md#自鸣钟)】`cz6 mien2 zhon1, sz6 mien2 zhon1` <small>/t͡sʰɿ1 miŋ2 t͡sɔŋ1/<sup>泰兴</sup></small> 按时自己报告时间的钟。<sup>\[泰兴\]</sup>  
 1. 【[自然](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_rin.md#自然)】`cz6 rin2` <sup>[如皋]</sup> ① 效果、作用：你到医院看看，不～就开刀。 ② 当然，表强调：你想去啊？——～！必要的话。我～会去！ ③ 不加装饰，原生状态。  
 1. 【[自绕自](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_ro_cz.md#自绕自)】`cz6 ro6 cz6` <sup>[兴化]</sup> 说话或者和人打交道时，自己使自己吃亏，即“绕进去”：乌龟吃馓子——～。  
 1. 【[自肉自蘣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_roh_cz_ton.md#自肉自蘣)】`cz6 roh8 cz6 ton5` <sup>[兴化]</sup> 自己的子女和晚辈看着顺眼、可喜。也说“自养自蘣”。  

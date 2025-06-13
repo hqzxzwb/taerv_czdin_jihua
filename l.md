@@ -2355,12 +2355,14 @@
 1. 【[乱掇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_duh.md#乱掇)】`lun6 duh7` <sup>[如东]</sup> 混乱：非常～。  
 1. 【[乱坟场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_fen_chan.md#乱坟场)】`lun6 fen2-men chan` <sup>[如皋]</sup> 荒冢地。  
 1. 【[乱坟场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_fen_chan.md#乱坟场)】`lun6 fen2 chan2` <sup>[如东]</sup> 旧时贫民丧葬的场所。  
+1. 【[乱坟场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_fen_chan.md#乱坟场)】`lun6 fen2 chan2` <small>/lʊ̃1 fəŋ2 t͡sʰɑŋ2/<sup>泰兴</sup></small> 什么人都可以埋葬的地方。<sup>\[泰兴\]</sup>  
 1. 【[乱坟葬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_fen_zan.md#乱坟葬)】`lun6 fen2 zan5` <small>/lũ6 fən2 t͡saŋ5/<sup>兴化</sup></small> ① 无主的乱葬坟地<sup>\[兴化\]</sup>：（他）实在跑不动了，就在一个～上停了下来。（兴文：《中堡庄》）<sup>\[兴化\]</sup> ② 用来埋葬死者的无主荒地。旧时荒滩野地，常被用来埋葬无家可归的死者或者没有资格进入祖坟的死者，穷人因为无地，也在这里埋葬死者。属于无人管的荒地，随地埋葬，坟墓散乱。<sup>\[泰州\]</sup>  
 1. 【[乱营](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_ien.md#乱营)】`lun6 ien2` <small>/lũ6 in2/<sup>兴化</sup>, /nõ1 iŋ2/<sup>泰县</sup></small> ① 内部发生混乱。<sup>\[如东\]</sup>：操场上～吖。<sup>\[如东\]</sup> ② （喻）秩序混乱：迎会队伍一过，街上就像乱吖营。<sup>\[兴化\]</sup> ③ 秩序紊乱：这会场～。<sup>\[泰县\]</sup> ④ 泛指秩序混乱<sup>\[泰州\]</sup>：他家老的过八十岁，各地的亲戚都来啊，家里客厅里人都坐啊满吖，整个乱吖营。<sup>\[泰州\]</sup>  
 1. 【[乱里把西的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_lii_ba_xi.md#乱里把西的)】`lun6 lii ba3 xi1 dii` <sup>[如皋]</sup> 乱糟糟的。  
 1. 【[乱吖营](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_nga_ien.md#乱吖营)】`lun6 nga ien2` <small>/lʊ̃1 ŋa iəŋ2/<sup>如皋</sup></small> ① 指一定范围内，顿时大乱。<sup>\[如皋\]</sup> ② 形容场面一片混乱。<sup>\[东台\]</sup>  
 1. 【[乱悂星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_pi_xien.md#乱悂星)】`lun6 pi1 xien1` <sup>[泰州]</sup> 做事丢三落四的人：你就是个～，自己放的东西，都不晓得在甚的地方。  
 1. 【[乱蓬蓬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_pon_pon.md#乱蓬蓬)】`lun6 pon1 pon1` <sup>[如皋]</sup> 状毛发纷乱、蓬乱状。  
+1. 【[乱蓬蓬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_pon_pon.md#乱蓬蓬)】`lun6 pon1 pon1` <small>/lʊ̃1 pʰɔŋ1 pʰɔŋ1/<sup>泰兴</sup></small> 蓬松，散乱。<sup>\[泰兴\]</sup>  
 1. 【[乱埲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_pon.md#乱埲)】`lun6 pon6` <small>/lʊ̃1 pʰɔŋ1/<sup>如皋</sup></small> ① 状人们乱走乱撞。<sup>\[如皋\]</sup> ② 状灰尘、纤维等乱飞乱扬。<sup>\[如皋\]</sup> ③ 状虫子等乱飞乱舞。<sup>\[如皋\]</sup> ④ 状禽鸟等乱飞乱跳。<sup>\[如皋\]</sup>  
 1. 【[乱七八糟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_qieh_baeh_zo.md#乱七八糟)】`lun6 qieh7 baeh7 zo1` <sup>[如东]</sup> 形容非常混乱：家里的东西摆啊～的。  
 1. 【[乱神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_shen.md#乱神)】`lun6 shen2` <small>/lʊ̃1 səŋ2/<sup>如皋</sup></small> ① 慌乱，拿不定主意。与“定神”相对。<sup>\[如皋\]</sup> ② 思路乱没主见<sup>\[东台\]</sup>：不管情况怎吖样，都要沉着应对，不能～。<sup>\[东台\]</sup>  
@@ -2370,6 +2372,7 @@
 1. 【[乱稻草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_to_co.md#乱稻草)】`lun6 to6 co3` <sup>[如皋]</sup> 脱粒碾过的稻草。与“管草”相对。  
 1. 【[乱性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_xien.md#乱性)】`lun6 xien5` <sup>[兴化]</sup> 形容人举止反常，迷失了本性：酒能～，还是少饮为佳。  
 1. 【[乱杂嘈兵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_zaeh_co_bien.md#乱杂嘈兵)】`lun6 zaeh7 co2 bien1` <sup>[东台]</sup> 形容秩序紊乱，声音嘈杂。  
+1. 【[乱杂嘈嘈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_zaeh_co_co.md#乱杂嘈嘈)】`lun6 zaeh7 co2 co2` <small>/lʊ̃1 t͡ɕiæʔ7 t͡sʰɔ2 t͡sʰɔ2/<sup>泰兴</sup></small> 杂乱，混乱；乱七八糟。<sup>\[泰兴\]</sup>  
 1. 【[乱砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_zhun.md#乱砖)】`lun6 zhun1` <sup>[兴化]</sup> 不能整齐码放的碎砖：～堆子。  
 1. 【[乱砖<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_zhun_r.md#乱砖<sub>儿</sub>)】`lun6 zhun1 r` <sup>[如皋]</sup> 不成型断砖，但不碎。  
 1. 【[乱砖<sub>儿</sub>墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_zhun_r_qian.md#乱砖<sub>儿</sub>墙)】`lun6 zhun1 r qian2` <sup>[如皋]</sup> 用乱砖砌的墙。  

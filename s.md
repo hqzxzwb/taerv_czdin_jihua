@@ -1240,12 +1240,14 @@
 1. 【[伸懒腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_laen_io.md#伸懒腰)】`shen1 laen3 io1` ① 人疲乏时，两手上举，疏松腰肌，使人感觉松快。<sup>\[如东\]</sup> ② 因困乏或干活累，过分疲倦时，举起双臂伸直腰，深呼吸，以期提起精神，舒缓疲劳。<sup>\[东台\]</sup>  
 1. 【[伸吖一口气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_nga_ieh_keu.md#伸吖一口气)】`shen1 nga ieh7 keu3 qi5` <sup>[如皋]</sup> 喻出了怨气，心情舒展了。  
 1. 【[伸气活气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_qi_huh_qi.md#伸气活气)】`shen1 qi5 huh8 qi5` <sup>[兴化]</sup> 呼吸：颈项里钮子太紧，～有困难。｜肋骨里头～的觉察疼。  
+1. 【[伸手不见五指](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_sheu_beh_jin.md#伸手不见五指)】`shen1 sheu3 beh7 jin5 v3 zhr3` <small>/səŋ1 ɕiɤɯ3 pəʔ7 t͡ɕĩ5 ʋ3 t͡sɿ3/<sup>泰兴</sup></small> 谓天黑，看不见任何东西。<sup>\[泰兴\]</sup>  
 1. 【[伸手不见五指，张口不见牙齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_sheu_beh_jin.md#伸手不见五指，张口不见牙齿)】`shen1 sheu3 beh7 jin5 v3 zhr3 zhan1 keu3 beh7 jin5 nga2 chr3` <sup>[如皋]</sup> 漆黑一片。  
 1. 【[伸舌头他嘴里说话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_shih_teu_ta.md#伸舌头他嘴里说话)】`shen1 shih8 teu ta1 jy3 lii shuh7 hua6` <sup>[如皋]</sup> 说话暗示、暗中导向，而不明说。  
 1. 【[伸舒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_shv.md#伸舒)】`shen1 shv1` <sup>[兴化]</sup> 舒服、偷快的感觉：他今朝身上不～。｜听他一说，我心里不～！  
 1. 【[伸缩气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_soh_qi.md#伸缩气)】`shen1 soh7 qi5` <sup>[如皋]</sup> 呼吸气。  
 1. 【[伸头霍颈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_teu_huah_jien.md#伸头霍颈)】`shen1 teu2 huah7 jien3` <sup>[兴化]</sup> 伸长脖子四处张望：你～的望甚的啊？  
 1. 【[伸头勒颈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_teu_leh_jien.md#伸头勒颈)】`shen1 teu2 leh8 jien3` <sup>[如东]</sup> 头颈乱动，很不稳重的样子：这个伢儿站吖门口～的，像个甚的样子？  
+1. 【[伸头领棍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_teu_lien_guen.md#伸头领棍)】`shen1 teu2 lien3 guen5` <small>/səŋ1 tʰəɪ2 liŋ3 kuəŋ5/<sup>泰兴</sup></small> 谓下决心接受艰巨的任务。<sup>\[泰兴\]</sup>  
 1. 【[伸头缩颈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_teu_soh_jien.md#伸头缩颈)】`shen1 teu2 soh7 jien3` <sup>[兴化]</sup> 因害怕或畏寒而缩起脖子。  
 1. 【[伸头洼颈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_teu_va_jien.md#伸头洼颈)】`shen1 teu2 va5 jien3` <sup>[如东]</sup> 头颈一伸一缩，很不大方的样子：这个伢儿～的，像个甚的样子？  
 1. 【[伸头鹱颈的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_teu_vah_jien.md#伸头鹱颈的)】`shen1 teu2 vah7 jien3 dii` <small>/səŋ1 tʰei2 ʋaʔ7 t͡ɕiəŋ3 tei/<sup>如皋</sup></small> ① 贬指伸头探脑的样子。<sup>\[如皋\]</sup> ② 贬指探头颈四处乱看。<sup>\[如皋\]</sup>  
@@ -3216,7 +3218,8 @@
 1. 【[私儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_er.md#私儿)】`sz1 er2` <small>/sɿ1 ɚ2/<sup>兴化</sup></small> ① 非婚生子女，即私生子。<sup>\[东台\]</sup> ② 私生子。<sup>\[兴化\]</sup>  
 1. 【[私房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_fan.md#私房)】`sz1 fan2` <sup>[如东]</sup> 产权属于私人的房屋。  
 1. 【[私房话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_fan_hua.md#私房话)】`sz1 fan2 hua6` <sup>[泰州]</sup> 在私房里说的话，即夫妻之间说的隐私话：这房间只隔咖层板子，连～都不好说。  
-1. 【[私房钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_fan_qin.md#私房钱)】`sz1 fan2 qin2` ① 家庭成员个人私下积蓄的财产。不愿让外人知道的钱。多指女人的积蓄。<sup>\[如东\]</sup> ② 夫妻双方各自个人拥有的不为对方知晓的钱。<sup>\[泰州\]</sup>  
+1. 【[私房话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_fan_hua.md#私房话)】`sz1 fan2 hua6` <small>/sɿ1 fɑŋ2 xuɑ1/<sup>泰兴</sup></small> 不让别人知道的秘密话、体己话。<sup>\[泰兴\]</sup>  
+1. 【[私房钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_fan_qin.md#私房钱)】`sz1 fan2 qin2` <small>/sɿ1 fɑŋ2 t͡ɕʰĩ2/<sup>泰兴</sup></small> ① 家庭成员个人私下积蓄的财产。不愿让外人知道的钱。多指女人的积蓄。<sup>\[如东\]</sup> ② 夫妻双方各自个人拥有的不为对方知晓的钱。<sup>\[泰州\]</sup> ③ 指个人私下的积蓄。<sup>\[泰兴\]</sup>  
 1. 【[私风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_fon.md#私风)】`sz1 fon1` <sup>[如皋]</sup> 泄密。见“走露风声”。  
 1. 【[私果子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_gu_zz.md#私果子)】`sz1 gu3 zz` <sup>[兴化]</sup> 出生不久的私生婴儿。  
 1. 【[私下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ha.md#私下)】`sz1 ha6` <sup>[兴化]</sup> 见“私底下”。  
@@ -3224,13 +3227,14 @@
 1. 【[私有](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ieu.md#私有)】`sz1 ieu3` <sup>[如东]</sup> 所有权属于私人的东西：这笔存款属于我的～资金。  
 1. 【[私交](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_jio.md#私交)】`sz1 jio1` <sup>[如东]</sup> 私人之间的交情：他俫的～好。  
 1. 【[私窠子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ku_zz.md#私窠子)】`sz1 ku1 zz` <sup>[泰县]</sup> 搞不正当关系的人  
-1. 【[私了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_lio.md#私了)】`sz1 lio3` ① 不经过司法程序而私下了结。<sup>\[如东\]</sup>：这个问题还是～吧。<sup>\[如东\]</sup> ② 不经过司法或行政程序，私下里了结。<sup>\[东台\]</sup> ③ 民间涉讼案件或者纠纷不经过行政或者司法部门处理了结，而是私下通过中人协商解决，相对“公了”<sup>\[泰州\]</sup>：你这种事情不上台盘，还是～好。<sup>\[泰州\]</sup>  
+1. 【[私了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_lio.md#私了)】`sz1 lio3` <small>/sɿ1 liɔ3/<sup>泰兴</sup></small> ① 不经过司法程序而私下了结。<sup>\[如东\]</sup>：这个问题还是～吧。<sup>\[如东\]</sup> ② 不经过司法或行政程序，私下里了结。<sup>\[东台\]</sup> ③ 民间涉讼案件或者纠纷不经过行政或者司法部门处理了结，而是私下通过中人协商解决，相对“公了”<sup>\[泰州\]</sup>：你这种事情不上台盘，还是～好。<sup>\[泰州\]</sup> ④ 谓产生了纠纷，不经过司法、行政等部门而私下了结。<sup>\[泰兴\]</sup>  
 1. 【[私门子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_men_zz.md#私门子)】`sz1 men2 zz` <sup>[兴化]</sup> 暗娼：推开一看……除得几个雏尼，还有城里私门中的娼妓。（《广陵潮》十）也说“私窝子”。  
-1. 【[私伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_nga_r.md#私伢<sub>儿</sub>)】`sz1 nga2 r` <small>/sɿ1 ŋa˞2/<sup>如皋</sup></small> ① 私生子 ② 私生子。<sup>\[如皋\]</sup> ③ 私生子女。<sup>\[如东\]</sup>  
+1. 【[私伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_nga_r.md#私伢<sub>儿</sub>)】`sz1 nga2 r` <small>/sɿ1 ŋa˞2/<sup>如皋</sup>, /sɿ1 ŋɑ˞2/<sup>泰兴</sup></small> ① 私生子 ② 私生子。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup> ③ 私生子女。<sup>\[如东\]</sup>  
 1. 【[私人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ren.md#私人)】`sz1 ren2` <sup>[如东]</sup> 在法律上属自然人。以个人身分所进行的事业：这家工厂是～企业。个人与个人之间的关系。｜～感情。  
 1. 【[私食<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_sheh_r.md#私食<sub>儿</sub>)】`sz1 sheh8 r` <sup>[如皋]</sup> 零食。  
 1. 【[私生子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_shen_zz.md#私生子)】`sz1 shen1 zz` <sup>[如东]</sup> 非夫妻关系的男女所生的子女，叫私生子。  
 1. 【[私收<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_sheu_r.md#私收<sub>儿</sub>)】`sz1 sheu1 r` <sup>[东台]</sup> 悄悄收藏的点心、小吃。  
+1. 【[私塾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_shoh.md#私塾)】`sz1 shoh` <small>/sɿ1 sɔʔ/<sup>泰兴</sup></small> 旧时家庭、宗族或教师自己设立的教学机构，为私学之一种。<sup>\[泰兴\]</sup>  
 1. 【[私塾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_shoh.md#私塾)】`sz1 shoh8` <sup>[如东]</sup> 旧时由家庭、家族或教师自己所办的学校，一般规模较小，教师只有一名，采用单个教学的方法没有学习年限，也没有毕业文凭：他过去是读～的，没得毕业文凭。  
 1. 【[私事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_shr.md#私事)】`sz1 shr6` <sup>[如东]</sup> 个人的事情：买鞋子，这个是～。  
 1. 【[私写私告，不如栽秧割稻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_xia_sz_go.md#私写私告，不如栽秧割稻)】`sz1 xia3 sz1 go5 beh7 rv2 zae1 ian1 guh7 to6` <sup>[东台]</sup> 一般事与人计较打官司，不如埋头干实事。  
@@ -3422,6 +3426,7 @@
 1. 【[四转转<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_zhun_zhun_r.md#四转转<sub>儿</sub>)】`sz5 zhun5 zhun5 r` <small>/sɿ5 t͡sʊ̃5 t͡sʊ˞5/<sup>泰兴</sup></small> 四周围，周边，到处。<sup>\[泰兴\]</sup>：一到年底，街上～，块块是打年货的。<sup>\[泰兴\]</sup>  
 1. 【[肆误](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_v.md#肆误)】`sz5 v` <small>/sɿ5 ʋu/<sup>如皋</sup></small> ① 因判断错误或操作不当造成坏的结果。与耽误、贻误近义。东台词典写“失误”<sup>\[东台\]</sup>：他的病太重，不能怪医生～。<sup>\[东台\]</sup> ② 意外差错或事故。如皋词典作“失误”<sup>\[如皋\]</sup>：出～。<sup>\[如皋\]</sup> ③ 延误<sup>\[如皋\]</sup>：病捱～下来啊。<sup>\[如皋\]</sup> ④ 由于没有抓紧办理而导致事情未能做好或者未能完成<sup>\[泰州\]</sup>：还以为他这件事早就弄吖好啊的，哪晓得捱他～下来啊，你说哿教人着躁。<sup>\[泰州\]</sup>  
 1. 【[似](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz.md#似)】`sz6` <sup>[泰州]</sup> 介词，用于形容词之后，表示比较：一声高～一声｜肚子一天大～一天｜他的成绩远远好～你。｜他的个子高～你。  
+1. 【[私家的菩萨没香烧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ga_dii_pv.md#私家的菩萨没香烧)】`sz6 ga1 dii pv2 saeh meh8 xian1 sho1` <small>/sɿ1 kɑ1 təɪ pʰu2 ɕiæʔ məʔ8 ɕiɑŋ1 sɔ1/<sup>泰兴</sup></small> 喻自己的事尚不能办好，不可能帮人办事。<sup>\[泰兴\]</sup>  
 1. 【[自在](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_cae.md#自在)】`sz6 cae6` <sup>[东台]</sup> 自由；快活：你坐啊河边钓钓鱼，看看书，多～啊！  
 1. 【[自家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ga.md#自家)】`sz6 ga1` <small>/sɿ1 ka1/<sup>如皋</sup>, /sɿ1 kɑ1/<sup>泰兴</sup>, /sɿ1 ka1/<sup>泰县</sup></small> 自己。<sup>\[如皋\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>\[东台：又 sz6 ga3\]  
 1. 【[自家家里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ga_ga_lii.md#自家家里)】`sz6 ga1 ga1 lii` <sup>[如皋]</sup> 自己家里。  
