@@ -137,7 +137,7 @@
 1. 【[待匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_qian.md#待匠)】`tae6 qian6` <sup>[东台]</sup> 指工程竣工，招待工匠：房子明吖～。  
 1. 【[怠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#怠)】`tae6` <sup>[兴化]</sup> （借）松懈：这件事就是他～下来的。  
 1. 【[怠啊怠的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_a_tae_dii.md#怠啊怠的)】`tae6 a tae6 dii` <sup>[东台]</sup> 动作拖沓、慢吞吞：行动快点儿，不要～的。  
-1. 【[汏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#汏)】`tae6` <small>/tʰɛ6/<sup>兴化</sup>, /tʰɛ1/<sup>如皋</sup></small> 漂洗。<sup>\[如皋\]</sup><sup>\[泰州\]</sup>\[兴化：洗后漂清\]\[东台：洗过的衣被，再放到清水里漂洗。\]：金如松一面把洗的衣裳～～清，一面……（马春阳《姐妹姻缘船迷传》）<sup>\[兴化\]</sup>｜到河边～衣裳<sup>\[泰州\]</sup>｜青菜我洗过啊，你要～下子再下锅。<sup>\[泰州\]</sup>  
+1. 【[汏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#汏)】`tae6` <small>/tʰɛ6/<sup>兴化</sup>, /tʰɛ1/<sup>如皋</sup>, /tʰɛ1/<sup>泰兴</sup></small> 漂洗。<sup>\[如皋\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>\[兴化：洗后漂清\]\[东台：洗过的衣被，再放到清水里漂洗。\]：金如松一面把洗的衣裳～～清，一面……（马春阳《姐妹姻缘船迷传》）<sup>\[兴化\]</sup>｜到河边～衣裳<sup>\[泰州\]</sup>｜青菜我洗过啊，你要～下子再下锅。<sup>\[泰州\]</sup>  
 1. 【[绐弯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_vaen.md#绐弯)】`tae6 vaen1` <sup>[东台]</sup> 变形，中间下垂：我家的旧沙发用吖几年，里面弹簧～。  
 1. 【[袋<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_r.md#袋<sub>儿</sub>)】`tae6 r` <sup>[如东]</sup> 口袋。有布口袋麻口袋、草口袋、塑料口袋诸种。  
 1. 【[袋<sub>儿</sub>口朝下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_r_keu_cho.md#袋<sub>儿</sub>口朝下)】`tae6 r keu3 cho2 ha6` <sup>[东台]</sup> ［喻］大方，舍得掏钱用。  
@@ -973,7 +973,7 @@
 1. 【[弟弟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_ti.md#弟弟)】`ti6 ti6` <sup>[如东]</sup> 同胞和亲戚中同辈而年龄比自己小的男子，称弟弟。根据血缘和亲属关系，分嫡亲弟弟叔伯弟弟、堂弟弟、表弟弟。  
 1. 【[弟媳妇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_xieh_fv.md#弟媳妇)】`ti6 xieh fv6` <sup>[兴化]</sup> 弟弟的妻。  
 1. 【[弟新妇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_xien_fv.md#弟新妇)】`ti6 xien fv6` <sup>[如东]</sup> 弟弟的妻子。  
-1. 【[弟新妇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_xien_fv.md#弟新妇)】`ti6 xien1 fv6` <small>/tʰʝ1 ɕiəŋ1 fu1/<sup>如皋</sup></small> ① 指称弟之妻。<sup>\[如皋\]</sup> ② 弟弟的妻子。<sup>\[泰州\]</sup>  
+1. 【[弟新妇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_xien_fv.md#弟新妇)】`ti6 xien1 fv6` <small>/tʰʝ1 ɕiəŋ1 fu1/<sup>如皋</sup>, /t͡ɕʰʝ1 ɕiŋ1 fʋ1/<sup>泰兴</sup></small> ① 指称弟之妻。<sup>\[如皋\]</sup> ② 弟弟的妻子。<sup>\[泰州\]</sup>\[泰兴：部分乡镇称为“弟娘子”。\]  
 1. 【[弟兄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_xion.md#弟兄)】`ti6 xion` ① 统称哥哥和弟弟 ② 弟弟和哥哥。关系非常亲密的朋友，称弟兄。<sup>\[如东\]</sup> ③ 弟弟和哥哥<sup>\[泰州\]</sup>：老王就养吖他俫～两个。<sup>\[泰州\]</sup>  
 1. 【[弟兄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_xion.md#弟兄)】`ti6 xion1` <sup>[如皋]</sup> 即兄弟。  
 1. 【[弟兄趟<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_xion_tan_r.md#弟兄趟<sub>儿</sub>)】`ti6 xion1 tan5 r` <sup>[东台]</sup> 弟兄几个（通常三个以上）；前吖子我徕～聚会，蛮快活的。  

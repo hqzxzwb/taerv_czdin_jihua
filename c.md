@@ -132,7 +132,7 @@
 1. 【[馓子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/caen_zz.md#馓子)】`caen3 zz` <small>/t͡sʰẽ3 t͡sɿ/<sup>如皋</sup></small> ① 一种油炸的面食，形如栅状，细如面条。<sup>\[如东\]</sup> ② 古称环饼。面索，经油炸，呈册字形，主要供泡食。旧时产妇必用。<sup>\[如皋\]</sup>  
 1. 【[馓子把<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/caen_zz_ba_r.md#馓子把<sub>儿</sub>)】`caen3 zz ba3 r` <sup>[如皋]</sup> 呈长“X”形的环饼，主要供嚼食。  
 1. 【[刬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/caen.md#刬)】`caen5` <sup>[兴化]</sup> 全、都：这批货～是次品。｜“哥啊，我们连日造化低了。这两日～日里见鬼……”（《西游记》二一）  
-1. 【[刬是](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/caen_shr.md#刬是)】`caen5 shr6` <small>/t͡sʰẽ5 sɿ1/<sup>如皋</sup></small> ① 都是。<sup>\[如东\]</sup>：～熟人。<sup>\[如东\]</sup> ② 全是、都是：星期日，街上～人。<sup>\[如皋\]</sup>  
+1. 【[刬是](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/caen_shr.md#刬是)】`caen5 shr6` <small>/t͡sʰẽ5 sɿ1/<sup>如皋</sup>, /t͡ɕʰiɛ̃5 sɿ1/<sup>泰兴</sup></small> 全是、都是<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：～熟人。<sup>\[如东\]</sup>｜星期日，街上～人。<sup>\[如皋\]</sup>｜地下～些豆子<sup>\[泰兴\]</sup>  
 1. 【[孱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/caen.md#孱)】`caen5` <sup>[如皋]</sup> 爱多事而又不讨好，或指人：又不关他的事，去做的个甚的～！  
 1. 【[孱头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/caen_teu.md#孱头)】`caen5 teu` <small>/t͡sʰɛ̃5 tʰɤ/<sup>兴化</sup>, /t͡sʰẽ5 tʰei/<sup>如皋</sup></small> ① 强出头而又讨不到好的人。<sup>\[如皋\]</sup> ② 喜欢强出头的人。羼，《说文·羴部》，一曰相出前也。初限切。<sup>\[兴化\]</sup>：～大把戏。<sup>\[兴化\]</sup> ③ 出头与强势者作对、论理的人<sup>\[泰州\]</sup>：又不是你一个人不得过，你何必做这个～。<sup>\[泰州\]</sup>  
 1. 【[孱头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/caen_teu.md#孱头)】`caen5 teu2` <sup>[东台]</sup> 软弱无能的人。  
@@ -2101,6 +2101,7 @@
 1. 【[坐圆桌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_iun_zhuah.md#坐圆桌)】`cu6 iun2 zhuah7` <sup>[如皋]</sup> 趣指坐马桶。  
 1. 【[坐家三品](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_jia_saen_pien.md#坐家三品)】`cu6 jia1 saen1 pien3` <sup>[兴化]</sup> 坐在家里摆架子，得罪人：这个老封建～的，架子大得很。  
 1. 【[坐监](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_jiaen.md#坐监)】`cu6 jiaen1` <small>/t͡sʰo6 t͡ɕiɛ̃1/<sup>兴化</sup></small> 坐牢<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：他因为交通肇事捱抓起来啊～。<sup>\[兴化\]</sup>｜同人家动刀要～的。<sup>\[泰州\]</sup>  
+1. 【[坐劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_jien.md#坐劲)】`cu6 jien` <small>/t͡sʰɤɯ1 t͡ɕiŋ/<sup>泰兴</sup></small> 静坐专注的能力<sup>\[泰兴\]</sup>：没～<sup>\[泰兴\]</sup>｜～大<sup>\[泰兴\]</sup>  
 1. 【[坐经堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_jien_tan.md#坐经堂)】`cu6 jien1 tan2` <sup>[如东]</sup> 和尚念经的地方称经堂。在斋主请和尚念经做祀的地方打牌，叫做坐经堂，表示牌艺水平十分出色。  
 1. 【[坐九](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_jieu.md#坐九)】`cu6 jieu3` <sup>[兴化]</sup> 冬至起逢“九”日做会敬神的迷信活动。  
 1. 【[坐柜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_kuei_r.md#坐柜<sub>儿</sub>)】`cu6 kuei6 r` <sup>[如皋]</sup> 兼作坐具的钱柜儿。  

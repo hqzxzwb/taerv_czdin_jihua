@@ -488,7 +488,9 @@
 1. 【[闲饿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_ngu.md#闲饿)】`xiaen2 ngu6` <sup>[兴化]</sup> 指人闲着的时候容易产生饥饿感：～～，没事的时候老想吖吃。  
 1. 【[闲篇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_pin.md#闲篇)】`xiaen2 pin1` <sup>[兴化]</sup> 与正事无关的话：大家手上都忙，没工夫跟你扯～。  
 1. 【[闲气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_qi.md#闲气)】`xiaen2 qi5` <sup>[东台]</sup> 为了无关紧要的事而生的气：我没工夫同你着～。  
+1. 【[闲气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_qi.md#闲气)】`xiaen2 qi5` <small>/ɕiɛ̃2 t͡ɕʰʝ5/<sup>泰兴</sup></small> 因无关紧要的事惹起的气恼。<sup>\[泰兴\]</sup>：不要惹～<sup>\[泰兴\]</sup>  
 1. 【[闲钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_qin.md#闲钱)】`xiaen2 qin2` <sup>[东台]</sup> 暂时不需要用的钱：我是一个月等不到一个月，哪许有～啊！  
+1. 【[闲钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_qin.md#闲钱)】`xiaen2 qin2` <small>/ɕiɛ̃2 t͡ɕʰĩ2/<sup>泰兴</sup></small> 生活必需费用以外的多余的钱。<sup>\[泰兴\]</sup>  
 1. 【[闲生日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_shen_rih.md#闲生日)】`xiaen2 shen1 rih8` <small>/ɕiɛ̃2 sən1 liɪʔ8/<sup>兴化</sup>, /ɕiẽ2 səŋ1 ɻiʔ8/<sup>如皋</sup></small> ① “整生日”以外的生日。<sup>\[如皋\]</sup> ② 虚岁逢十以外的生日。不祝寿，一般举行家宴。<sup>\[如东\]</sup> ③ 与“整生日”相对，指年岁逢十以外的平常生日：今年是～，不热嘈（即不请客祝寿）。‖也称“散生日”。<sup>\[兴化\]</sup>  
 1. 【[闲时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_shr.md#闲时)】`xiaen2 shr2` <sup>[兴化]</sup> 空闲时间，特指农闲：等～陪你出去走走。｜忙时吃干，～吃稀。  
 1. 【[闲时候](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_shr_heu.md#闲时候)】`xiaen2 shr2 heu` <sup>[如皋]</sup> 空闲的时段里。不紧张的日子里。  

@@ -240,7 +240,7 @@
 1. 【[间半](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_bun.md#间半)】`gaen1 bun5` <sup>[兴化]</sup> 独眼的隐语。  
 1. 【[间栈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_chaen.md#间栈)】`gaen1 chaen6` <sup>[兴化]</sup> 把房间隔开的简易墙壁：一个大房间用三合板做～，隔成里外两间。  
 1. 【[间脚<sub>儿</sub>跑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_jiah_r_po.md#间脚<sub>儿</sub>跑)】`gaen1 jiah7 r po2` <sup>[东台]</sup> ① 本指走路有意绕过某些物体。 ② ［喻］叙述事情有意回避或隐瞒某些环节。  
-1. 【[间口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_keu.md#间口)】`gaen1 keu3` <small>/kẽ1 kʰei3/<sup>如皋</sup></small> ① 房屋的左右跨度<sup>\[如皋\]</sup> ② 一间房的面积<sup>\[东台\]</sup>：新房～不小。<sup>\[东台\]</sup>  
+1. 【[间口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_keu.md#间口)】`gaen1 keu3` <small>/kẽ1 kʰei3/<sup>如皋</sup>, /kɛ̃1 kʰəɪ3/<sup>泰兴</sup></small> ① 房屋的左右跨度<sup>\[如皋\]</sup><sup>\[泰兴\]</sup> ② 一间房的面积<sup>\[东台\]</sup>：新房～不小。<sup>\[东台\]</sup>  
 1. 【[间巧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_qio.md#间巧)】`gaen1 qio3` <sup>[兴化]</sup> 凑巧、顺便：你～替我上扬州古籍书店买一部《说文解字》。｜你今吖来得不～，我实在没空子陪你。  
 1. 【[间头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_teu.md#间头)】`gaen1 teu` <sup>[兴化]</sup> 指每间房子面积的大小：商品房的房间虽多，但是～都不大。  
 1. 【[减](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen.md#减)】`gaen3` <sup>[如皋]</sup> ① 㨟，使少，见“减饭”：把饭～掉点儿。 ② 蔑匠用减刀拉定篾丝的宽度：～篾子。  
@@ -264,9 +264,10 @@
 1. 【[干办](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_baen.md#干办)】`gaen5 baen5` <small>/kɛ̃5 pɛ̃5/<sup>兴化</sup>, /kɛ̃5 pɛ̃5/<sup>泰县</sup></small> ① 生得精干，打粉素雅<sup>\[兴化\]</sup>：刘大妈四十多岁还蛮～的。<sup>\[兴化\]</sup> ② 机敏、能干<sup>\[兴化\]</sup>：“我妈是个～人……见眼生情，手脚又勤快……”（马春阳：《昏迷再婚迷》）<sup>\[兴化\]</sup> ③ 整洁，行动利索<sup>\[泰县\]</sup>：他虽然六十多岁啊，但是蛮～的。<sup>\[泰县\]</sup>  
 1. 【[干部娘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_pv_nian_zz.md#干部娘子)】`gaen5 pv6 nian2 zz` <sup>[兴化]</sup> 泛指公务人员或农村基层干部的眷属：当～，人家总以为吃香的，穿花的，福份大。可我呢，命败！（钱国怀：《家怨》）  
 1. 【[锏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_zz.md#锏子)】`gaen5 zz` <small>/kẽ5 t͡sɿ/<sup>如皋</sup></small> ① 嵌在小车儿耳板轴孔上方的檀木块，是车轴着力处。耐磨，可更换。<sup>\[如皋\]</sup> ② 戒指儿、手指饰物。<sup>\[如皋\]</sup> ③ 套在手指上用作纪念或装饰用的指环<sup>\[东台\]</sup>：一对新人在交换结婚～。<sup>\[东台\]</sup>  
-1. 【[间壁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_bieh.md#间壁)】`gaen5 bieh7` ① 隔壁。<sup>\[如东\]</sup><sup>\[东台\]</sup>：王妈妈住啊～。<sup>\[如东\]</sup> ② 隔着墙壁的邻居<sup>\[泰州\]</sup>：你家～的老李同我是小学同学。<sup>\[泰州\]</sup>  
+1. 【[间壁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_bieh.md#间壁)】`gaen5 bieh7` <small>/kɛ̃5 piʔ7/<sup>泰兴</sup></small> 隔壁。<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup><sup>\[泰州\]</sup>：王妈妈住啊～。<sup>\[如东\]</sup>｜你家～的老李同我是小学同学。<sup>\[泰州\]</sup>  
 1. 【[间阵<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_chen_r.md#间阵<sub>儿</sub>)】`gaen5 chen9 r` <small>/kẽ5 t͡sʰə˞9/<sup>如皋</sup></small> ① 隔一会儿。<sup>\[如东\]</sup>：～我就来。<sup>\[如东\]</sup> ② 等一会儿。<sup>\[如皋\]</sup>  
 1. 【[间间口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_gaen_keu.md#间间口)】`gaen5 gaen5 keu3` <sup>[东台]</sup> 调换食品，换换口味。  
+1. 【[间间口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_gaen_keu.md#间间口)】`gaen5 gaen5 keu3` <small>/kɛ̃5 kɛ̃5 kʰəɪ3/<sup>泰兴</sup></small> 换换口味。<sup>\[泰兴\]</sup>  
 1. 【[间花样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_hua_ian.md#间花样)】`gaen5 hua1 ian6` <sup>[兴化]</sup> 变换花色：今朝吃鱼，明朝吃肉，他要～儿。  
 1. 【[间花<sub>儿</sub>扬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_hua_r_ian.md#间花<sub>儿</sub>扬)】`gaen5 hua1 r ian2` <sup>[如皋]</sup> 不规则相间。  
 1. 【[间脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_jiah.md#间脚)】`gaen5 jiah7` <sup>[兴化]</sup> 雨后行路绕过积水处：你在路上～儿跑，别把鞋子弄湿了。  
@@ -1783,6 +1784,7 @@
 1. 【[佮伙养性命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_hu_ian_xien.md#佮伙养性命)】`guh7 hu3 ian3 xien5 mien6` <sup>[东台]</sup> 相互帮助，共渡难关。  
 1. 【[佮药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_iah.md#佮药)】`guh7 iah8` <sup>[东台]</sup> 旧时中药铺代为加工粉、散、膏剂，将各味药材分别粉碎，和在一起，称之为～。  
 1. 【[佮养的猪子不得大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_ian_dii_zhv.md#佮养的猪子不得大)】`guh7 ian3 dii zhv1 zz beh7 deh7 da6` <sup>[东台]</sup> 如果责任不明相互扯皮，合作就没有好效果。  
+1. 【[佮一条裤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_ieh_tio_kv.md#佮一条裤子)】`guh7 ieh7 tio2 kv5 zz` <small>/kʊʔ7 iʔ7 tʰiɔ2 kʰu5 t͡sɿ/<sup>泰兴</sup></small> 比喻两人看法相同，行动一致。喻气味相投。多含贬义。<sup>\[泰兴\]</sup>  
 1. 【[佮用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_ion.md#佮用)】`guh7 ion6` <sup>[泰州]</sup> 多人轮流使用同一物品：手巾、脚布不能～，要各用各的。  
 1. 【[佮口袋用钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_keu_tae_ion.md#佮口袋用钱)】`guh7 keu3 tae6 ion6 qin2` <sup>[东台]</sup> 形容经济上不分彼此，十分亲密：他俩～，关系不一般。  
 1. 【[佮墓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_mu.md#佮墓)】`guh7 mu6` <sup>[兴化]</sup> 合葬：父母先后走啊，拣个日子为他俫～。  
@@ -1804,7 +1806,6 @@
 1. 【[割人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_ren_zz.md#割人子)】`guh7 ren zz` <sup>[如皋]</sup> 见“割酸”。  
 1. 【[割杀鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_shaeh_guei.md#割杀鬼)】`guh7 shaeh7 guei3` <sup>[泰县]</sup> 互相吵闹的人（原文作“各杀鬼”，音不合）：你望这些～，没得一分钟的闲时。  
 1. 【[割酸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_sun.md#割酸)】`guh7 sun1` <sup>[如皋]</sup> 胃中㽱酸水，难受。  
-1. 【[合一条裤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_ieh_tio_kv.md#合一条裤子)】`guh7 ieh7 tio2 kv5 zz` <small>/kʊʔ7 iʔ7 tʰiɔ2 kʰu5 t͡sɿ/<sup>泰兴</sup></small> 比喻两人看法相同，行动一致。喻气味相投。多含贬义。<sup>\[泰兴\]</sup>  
 1. 【[蛤蝼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_leu.md#蛤蝼)】`guh7 leu2-3` <sup>[东台]</sup> 青蛤的俗称。蛤蜊的一种。  
 1. 【[颌腮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_sae.md#颌腮)】`guh7 sae1` <small>/kʊʔ7 sɛ1/<sup>如皋</sup></small> ① 腮，腮帮子 ② 頤旁，即耳下、上下颔相合处。<sup>\[如皋\]</sup>  
 1. 【[颌腮墩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_sae_den_r.md#颌腮墩<sub>儿</sub>)】`guh7 sae1 den1 r` <sup>[如皋]</sup> 见“颌腮”。  

@@ -49,7 +49,6 @@
 1. 【[扒戽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_hv_zz.md#扒戽子)】`ba1 hv5 zz` <sup>[兴化]</sup> 戽泥工具。（喻）贪得无厌地攫取：他见甚的拿甚的，倒像个～啊！  
 1. 【[扒嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_jy.md#扒嘴)】`ba1 jy3` <sup>[如皋]</sup> 剔牙。  
 1. 【[扒开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_kae.md#扒开)】`ba1 kae1` <sup>[泰州]</sup> 用手使合在一起的物体分开。  
-1. 【[扒闷符](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_men_fv.md#扒闷符)】`ba1 men6 fv2` <small>/pɑ1 məŋ1 fʋ2/<sup>泰兴</sup></small> 小纸牌的一种游戏方法。<sup>\[泰兴\]</sup>  
 1. 【[扒牙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_nga_zz.md#扒牙子)】`ba1 nga2 zz` <sup>[如皋]</sup> 剔牙。  
 1. 【[扒眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_ngaen_r.md#扒眼<sub>儿</sub>)】`ba1 ngaen3 r` <sup>[如东]</sup> 追根究底：这个人就喜欢～。  
 1. 【[扒墙上壁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_qian_shan_bieh.md#扒墙上壁)】`ba1 qian2 shan6 bieh7` <sup>[如皋]</sup> 形容贪玩、调皮。  

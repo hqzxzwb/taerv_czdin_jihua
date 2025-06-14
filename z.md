@@ -1867,8 +1867,10 @@
 1. 【[灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo.md#灶)】`zo5` <small>/t͡sɔ5/<sup>如皋</sup></small> ① 民间传统的灶，大都是砖砌的，放上铁锅，用柴草生火。<sup>\[如皋\]</sup> ② 用砖头或泥块等砌成的供生火做饭炒菜的设施。<sup>\[如东\]</sup>  
 1. 【[灶墩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_den_r.md#灶墩<sub>儿</sub>)】`zo5 den1 r` <sup>[如东]</sup> 盐墩儿。盐民居住的地方。  
 1. 【[灶饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_faen.md#灶饭)】`zo5 faen6` <sup>[如皋]</sup> 腊月二十四夜送灶时献给灶神的赤豆儿饭。  
+1. 【[灶家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_ga.md#灶家)】`zo5 ga` <small>/t͡sɔ5 kɑ/<sup>泰兴</sup></small> 厨房。<sup>\[泰兴\]</sup>  
 1. 【[灶家老爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_ga_lo_i.md#灶家老爷)】`zo5 ga lo3 i` <sup>[兴化]</sup> 灶神爷。也称“灶家菩萨”。  
 1. 【[灶家菩萨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_ga_pv_saeh.md#灶家菩萨)】`zo5 ga pv2 saeh` <sup>[兴化]</sup> 灶神爷。  
+1. 【[灶家菩萨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_ga_pv_saeh.md#灶家菩萨)】`zo5 ga pv2 saeh` <small>/t͡sɔ5 kɑ pʰu2 ɕiæʔ/<sup>泰兴</sup></small> 灶神的俗称。也称“灶家老爷”。<sup>\[泰兴\]</sup>：乡人云：“～上天，有句说句。”<sup>\[泰兴\]</sup>  
 1. 【[灶搁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_gah.md#灶搁)】`zo5 gah7` <sup>[兴化]</sup> 见“灶面”。  
 1. 【[灶阁老爷上天——有句说句](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_gah_lo_i.md#灶阁老爷上天——有句说句)】`zo5 gah7 lo3 i shan6 tin1 ieu3 jy5 shuh7 jy5` <sup>[东台]</sup>   
 1. 【[灶格佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_geh_lo_r.md#灶格佬<sub>儿</sub>)】`zo5 geh7 lo3 r` <sup>[如东]</sup> 灶格菩萨。  
@@ -1876,6 +1878,7 @@
 1. 【[灶格洞<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_geh_ton_r.md#灶格洞<sub>儿</sub>)】`zo5 geh7 ton6 r` <sup>[如东]</sup> ① 炉灶外边的一个长方形小洞，用于烘干东西。 ② 灶岿下部的一个方形小洞，用于放置汤罐儿。  
 1. 【[灶下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_ha.md#灶下)】`zo5 ha6` <sup>[如皋]</sup> ① 锅门口。 ② 烧火之事。  
 1. 【[灶户](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_hv.md#灶户)】`zo5 hv6` <small>/t͡sɔ5 xu6/<sup>兴化</sup></small> ① 盐丁。吴嘉纪《绝句》<sup>\[东台\]</sup>：“白头～低草房，六月煎盐烈火旁。走出门前炎日里，偷闲一刻是乘凉。”就是反映灶户的艰难生活。<sup>\[东台\]</sup> ② 旧时兴化东部海滨烧盐的业户<sup>\[兴化\]</sup>：～陈（今东鲍镇境内）。<sup>\[兴化\]</sup>  
+1. 【[灶鸡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_ji_zz.md#灶鸡子)】`zo5 ji zz` <small>/t͡sɔ5 t͡ɕʝ t͡sɿ/<sup>泰兴</sup></small> 灶马。多于晚间活动于灶上的小昆虫，头小，触角细长，背部隆起，后肢长大，善于跳跃。<sup>\[泰兴\]</sup>  
 1. 【[灶鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_ji.md#灶鸡)】`zo5 ji1` <small>/t͡sɔ5 t͡ɕi1/<sup>兴化</sup></small> 虫名\[泰州：灶马。昆虫名称，体色红褐色或者黑褐色，小头，触须细长，背部隆起，后肢长大，摩擦鸣叫，善于跳跃，喜欢生活在厨房、灶间砖瓦缝隙间，以其鸣叫似鸡，故名。\]\[兴化：蟋蟀的一种，个体小于普通蟋蟀，翅发达善飞。雄虫鸣声“叽、叽”，不斗。为屋角、灶间常见的昆虫。\]  
 1. 【[灶鸡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_ji_r.md#灶鸡<sub>儿</sub>)】`zo5 ji1 r` <small>/t͡sɔ5 t͡ɕʝ˞1/<sup>如皋</sup></small> ① 灶间的一种小蟋蟀。直翅目，蟋蟀科。<sup>\[如皋\]</sup> ② 蟋蟀的一种，体型较小，生活在锅灶后的碎草中。<sup>\[如东\]</sup>  
 1. 【[灶脚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_jiah_zz.md#灶脚子)】`zo5 jiah7 zz` <sup>[如皋]</sup> 灶脚，指灶的底部。  
@@ -1900,7 +1903,7 @@
 1. 【[灶糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_tan.md#灶糖)】`zo5 tan2` <small>/t͡sɔ5 tʰaŋ2/<sup>兴化</sup>, /t͡sɔ5 tʰã2/<sup>如皋</sup></small> ① 腊月二十四夜送灶，供～，即麦芽糖块，俗称斫糖。<sup>\[如皋\]</sup> ② 见“斫糖”。<sup>\[如皋\]</sup> ③ 送灶用的麦芽糖饼。也称“灶家糖”。<sup>\[兴化\]</sup>  
 1. 【[灶膛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_tan.md#灶膛)】`zo5 tan2` <small>/t͡sɔ5 tʰã2/<sup>如皋</sup></small> ① 灶内锅下烧火处。<sup>\[如皋\]</sup> ② 炉灶里面生火的地方。<sup>\[如东\]</sup>  
 1. 【[灶膛泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_tan_ni.md#灶膛泥)】`zo5 tan2 ni2` <sup>[如皋]</sup> 烧柴禾的灶膛中的泥巴。入药，称“伏龙肝”，煎水服止呕。  
-1. 【[灶头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_teu.md#灶头)】`zo5 teu2` <small>/t͡sɔ5 tʰɤ2/<sup>兴化</sup>, /t͡sɔ5 tʰei2/<sup>如皋</sup></small> ① 砖灶灶柜子向上的面<sup>\[如皋\]</sup> ② 灶。<sup>\[兴化\]</sup> ③ 现指煤气灶放锅燃烧的那一部分。<sup>\[兴化\]</sup>  
+1. 【[灶头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_teu.md#灶头)】`zo5 teu2` <small>/t͡sɔ5 tʰɤ2/<sup>兴化</sup>, /t͡sɔ5 tʰei2/<sup>如皋</sup>, /t͡sɔ5 tʰəɪ2/<sup>泰兴</sup></small> ① 砖灶灶柜子向上的面<sup>\[如皋\]</sup> ② 灶。<sup>\[兴化\]</sup> ③ 现指煤气灶放锅燃烧的那一部分。<sup>\[兴化\]</sup> ④ 锅灶的上部。<sup>\[泰兴\]</sup>  
 1. 【[灶田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_tin.md#灶田)】`zo5 tin2` <small>/t͡sɔ5 tʰĩ2/<sup>如皋</sup></small> ① 旧指范公堤外围垦的盐碱地。<sup>\[如皋\]</sup> ② 领属权归盐务机关管辖的土地，叫做灶田。<sup>\[如东\]</sup>  
 1. 【[灶洞<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_ton_r.md#灶洞<sub>儿</sub>)】`zo5 ton6 r` <sup>[如皋]</sup> 灶墙、灶柜间的空格存放零碎东西。  
 1. 【[躁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo.md#躁)】`zo5` <sup>[泰州]</sup> 性情急躁，遇到不顺的事情而情绪激动：这个人性子太～。  
