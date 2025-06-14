@@ -1361,7 +1361,7 @@
 1. 【[申](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen.md#申)】`shen1` <sup>[东台]</sup> 地支第九位。  
 1. 【[申报纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_bo_zhr.md#申报纸)】`shen1 bo5 zhr3` <small>/sən1 pɔ5 t͡sɿ3/<sup>兴化</sup>, /səŋ1 pɔ5 t͡sɿ3/<sup>如皋</sup>, /səŋ1 pɔ5 t͡sɿ3/<sup>泰兴</sup>, /səŋ1 pɔ5 t͡sɿ3/<sup>泰县</sup></small> ① 旧时上海的报纸。<sup>\[如皋\]</sup> ② 旧时泛指报纸<sup>\[兴化\]</sup>：墙上糊的～。<sup>\[兴化\]</sup> ③ 废报纸。<sup>\[泰县\]</sup> ④ 报纸。旧时上海办有《申报》，时称申报纸。后乡人习称阅读的报纸。<sup>\[泰兴\]</sup>  
 1. 【[身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen.md#身)】`shen1` <sup>[如皋]</sup> 指女性的人格、节操。  
-1. 【[身大力不亏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_da_lieh_beh.md#身大力不亏)】`shen1 da6 lieh8 beh7 kuei1` <small>/sən1 ta6 liɪʔ8 pəʔ7 kʰuəi1/<sup>兴化</sup>, /səŋ1 ta1 liəʔ8 pəʔ7 kʰuei1/<sup>如皋</sup></small> ① 身块大，本力不会小。<sup>\[如皋\]</sup> ② 一般来说身体高大的人，力气比较大。<sup>\[东台\]</sup> ③ 形容人身高力大<sup>\[兴化\]</sup>：他姓金，块头倒是很大，～。（汪曾祺《故乡人》）<sup>\[兴化\]</sup>  
+1. 【[身大力不亏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_da_lieh_beh.md#身大力不亏)】`shen1 da6 lieh8 beh7 kuei1` <small>/sən1 ta6 liɪʔ8 pəʔ7 kʰuəi1/<sup>兴化</sup>, /səŋ1 ta1 liəʔ8 pəʔ7 kʰuei1/<sup>如皋</sup>, /səŋ1 tɑ1 liʔ8 pəʔ7 kʰuəɪ1/<sup>泰兴</sup></small> ① 身块大，本力不会小。<sup>\[如皋\]</sup> ② 一般来说身体高大的人，力气比较大。<sup>\[东台\]</sup> ③ 形容人身高力大<sup>\[兴化\]</sup>：他姓金，块头倒是很大，～。（汪曾祺《故乡人》）<sup>\[兴化\]</sup> ④ 谓身材高大，有的是力气。<sup>\[泰兴\]</sup>  
 1. 【[身底下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_di_ha.md#身底下)】`shen1 di ha6` <sup>[兴化]</sup> ① 站着的地方：我～原来是一座粮库。 ② 建筑物所处位置：板桥中学～老底子是文庙。  
 1. 【[身的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_dii.md#身的)】`shen1 dii` <sup>[东台]</sup> 指某物体（多指建筑物）坐落处：老房子在那～｜开发大厦～底下原来是盐碱地。  
 1. 【[身份](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_fen.md#身份)】`shen1 fen6` <small>/sən1 fən6/<sup>兴化</sup>, /səŋ1 fəŋ1/<sup>如皋</sup></small> ① 内在质量：这种布～好。<sup>\[如皋\]</sup> ② 物品的内在质量<sup>\[兴化\]</sup>：这块衣料～不丑。<sup>\[兴化\]</sup>  
@@ -1374,8 +1374,9 @@
 1. 【[身腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_io.md#身腰)】`shen1 io` <sup>[兴化]</sup> ① 指人体腰部以上的粗细：～大｜～细。 ② 上衣或长衣等腰围的尺寸。  
 1. 【[身腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_io.md#身腰)】`shen1 io1` <small>/səŋ1 iɔ1/<sup>如皋</sup></small> ① 腰围。<sup>\[如皋\]</sup> ② 裁缝术语，上衣腰围部分尺寸<sup>\[泰州\]</sup>：这件夹克衫，旁的都好，就是～太大啊唻。<sup>\[泰州\]</sup>  
 1. 【[身块](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_kuae.md#身块)】`shen1 kuae5` <sup>[如皋]</sup> 人的身材；身高和身量的综合。  
-1. 【[身量](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_lian.md#身量)】`shen1 lian6` <small>/səŋ1 liã1/<sup>如皋</sup></small> ① 体重：～重。<sup>\[如皋\]</sup> ② 腰围：～大。<sup>\[如皋\]</sup> ③ 怀孕的月份。<sup>\[如皋\]</sup> ④ 腰围。<sup>\[如东\]</sup>：～大。<sup>\[如东\]</sup>  
+1. 【[身量](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_lian.md#身量)】`shen1 lian6` <small>/səŋ1 liã1/<sup>如皋</sup>, /səŋ1 liɑŋ1/<sup>泰兴</sup></small> ① 体重：～重。<sup>\[如皋\]</sup> ② 腰围：～大。<sup>\[如皋\]</sup> ③ 怀孕的月份。<sup>\[如皋\]</sup> ④ 腰围。<sup>\[如东\]</sup>：～大。<sup>\[如东\]</sup> ⑤ 身体的高矮胖瘦。亦指身材。<sup>\[泰兴\]</sup>  
 1. 【[身去口去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_qy_keu_qy.md#身去口去)】`shen1 qy5 keu3 qy5` <sup>[兴化]</sup> 外出工作解决生计问题：你出去打工，～的，比在家里吃闲饭好。  
+1. 【[身去嘴去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_qy_zuei_qy.md#身去嘴去)】`shen1 qy5 zuei3 qy5` <small>/səŋ1 t͡ɕʰy5 t͡suəɪ3 t͡ɕʰy5/<sup>泰兴</sup></small> 也作“嘴去身去”。谓食宿均已安排好。<sup>\[泰兴\]</sup>  
 1. 【[身上不厚实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_shan_beh_heu.md#身上不厚实)】`shen1 shan beh7 heu6 sheh8` <sup>[如东]</sup> 人体瘦弱。穿的衣服比较少。比喻口袋里钱少。  
 1. 【[身上来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_shan_lae.md#身上来)】`shen1 shan lae2` <sup>[泰州]</sup> 隐语，来月经了：她～啊，今朝请假在家里休息。  
 1. 【[身上人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_shan_ren.md#身上人)】`shen1 shan ren2` <sup>[如皋]</sup> 指现环境以外的亲属：她远嫁海外，身边没得一个～（丈夫、儿女不算，只指母家亲人）。  
@@ -3426,9 +3427,9 @@
 1. 【[四转转<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_zhun_zhun_r.md#四转转<sub>儿</sub>)】`sz5 zhun5 zhun5 r` <small>/sɿ5 t͡sʊ̃5 t͡sʊ˞5/<sup>泰兴</sup></small> 四周围，周边，到处。<sup>\[泰兴\]</sup>：一到年底，街上～，块块是打年货的。<sup>\[泰兴\]</sup>  
 1. 【[肆误](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_v.md#肆误)】`sz5 v` <small>/sɿ5 ʋu/<sup>如皋</sup></small> ① 因判断错误或操作不当造成坏的结果。与耽误、贻误近义。东台词典写“失误”<sup>\[东台\]</sup>：他的病太重，不能怪医生～。<sup>\[东台\]</sup> ② 意外差错或事故。如皋词典作“失误”<sup>\[如皋\]</sup>：出～。<sup>\[如皋\]</sup> ③ 延误<sup>\[如皋\]</sup>：病捱～下来啊。<sup>\[如皋\]</sup> ④ 由于没有抓紧办理而导致事情未能做好或者未能完成<sup>\[泰州\]</sup>：还以为他这件事早就弄吖好啊的，哪晓得捱他～下来啊，你说哿教人着躁。<sup>\[泰州\]</sup>  
 1. 【[似](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz.md#似)】`sz6` <sup>[泰州]</sup> 介词，用于形容词之后，表示比较：一声高～一声｜肚子一天大～一天｜他的成绩远远好～你。｜他的个子高～你。  
-1. 【[私家的菩萨没香烧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ga_dii_pv.md#私家的菩萨没香烧)】`sz6 ga1 dii pv2 saeh meh8 xian1 sho1` <small>/sɿ1 kɑ1 təɪ pʰu2 ɕiæʔ məʔ8 ɕiɑŋ1 sɔ1/<sup>泰兴</sup></small> 喻自己的事尚不能办好，不可能帮人办事。<sup>\[泰兴\]</sup>  
 1. 【[自在](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_cae.md#自在)】`sz6 cae6` <sup>[东台]</sup> 自由；快活：你坐啊河边钓钓鱼，看看书，多～啊！  
 1. 【[自家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ga.md#自家)】`sz6 ga1` <small>/sɿ1 ka1/<sup>如皋</sup>, /sɿ1 kɑ1/<sup>泰兴</sup>, /sɿ1 ka1/<sup>泰县</sup></small> 自己。<sup>\[如皋\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>\[东台：又 sz6 ga3\]  
+1. 【[自家的菩萨没香烧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ga_dii_pv.md#自家的菩萨没香烧)】`sz6 ga1 dii pv2 saeh meh8 xian1 sho1` <small>/sɿ1 kɑ1 təɪ pʰu2 ɕiæʔ məʔ8 ɕiɑŋ1 sɔ1/<sup>泰兴</sup></small> 喻自己的事尚不能办好，不可能帮人办事。<sup>\[泰兴\]</sup>  
 1. 【[自家家里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ga_ga_lii.md#自家家里)】`sz6 ga1 ga1 lii` <sup>[如皋]</sup> 自己家里。  
 1. 【[自有自便](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ieu_sz_pin.md#自有自便)】`sz6 ieu3 sz6 pin6` 自己拥有（相对于仰仗别人），自己方便。  
 1. 【[自有自顺便](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ieu_sz_shuen.md#自有自顺便)】`sz6 ieu3 sz6 shuen6 pin` <sup>[东台]</sup> 自己有的东西使用更方便。  

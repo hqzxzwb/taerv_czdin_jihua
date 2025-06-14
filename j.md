@@ -1362,6 +1362,7 @@
 1. 【[踺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin.md#踺)】`jin5` <small>/t͡ɕĩ5/<sup>如皋</sup></small> ① 蹬挺：端尿的刻儿，小家伙的腿子只～；他睡觉会望上～。<sup>\[如皋\]</sup> ② 脉冲式射动：他游起来朝前只～。<sup>\[如皋\]</sup>  
 1. 【[踺鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_ji.md#踺鸡)】`jin5 ji1` <sup>[如皋]</sup> 水赤链蛇，游动很快，头常竖起。  
 1. 【[键子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_zz.md#键子)】`jin5 zz` <sup>[兴化]</sup> 阉过的公牛。  
+1. 【[佼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio.md#佼)】`jio` <small>/t͡ɕiɔ/<sup>泰兴</sup></small> 们。泰兴多数地区通用。其余地方则习惯用lae。<sup>\[泰兴\]</sup>：我～<sup>\[泰兴\]</sup>｜你～（泰兴多数音nen3 jio）<sup>\[泰兴\]</sup>｜他～<sup>\[泰兴\]</sup>  
 1. 【[交大伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_da_foh.md#交大伏)】`jio1 da6 foh8` <sup>[东台]</sup> 指进入大暑的那一天。  
 1. 【[交冬数九](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_don_shv_jieu.md#交冬数九)】`jio1 don1 shv3 jieu3` <sup>[兴化]</sup> 从冬至日起，每九天为一“九”，共九个“九”。此间为一年中最寒冷的时期。  
 1. 【[交伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_foh.md#交伏)】`jio1 foh8` <small>/t͡ɕiɔ1 fɔʔ8/<sup>泰兴</sup></small> 进入伏天。<sup>\[泰兴\]</sup>  

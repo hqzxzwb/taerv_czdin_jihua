@@ -1278,6 +1278,7 @@
 1. 【[判判](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_pun.md#判判)】`pun5 pun` <sup>[东台]</sup> ① 又称判官。 ② 古代地方长官的僚属。 ③ 传说阎王属下掌管生死簿的官。民间将～视为钟馗，有端午节挂其像袪邪的习俗。  
 1. 【[伴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun.md#伴)】`pun6` <sup>[东台]</sup> ① （名词）同在一起生活、工作或活动的人：做～｜舞～。 ② （动词）随同、配合：陪～｜～随｜～奏｜～舞。  
 1. 【[伴材](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_cae.md#伴材)】`pun6 cae2` <sup>[如皋]</sup> 守灵，大殓后由家人在棺侧睡。  
+1. 【[伴当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_dan.md#伴当)】`pun6 dan` <small>/pʰʊ̃1 tɑŋ/<sup>泰兴</sup></small> 伙伴，同伴。<sup>\[泰兴\]</sup>  
 1. 【[伴工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_gon.md#伴工)】`pun6 gon1` <sup>[如皋]</sup> 互助合作，轮流到各家干活。  
 1. 【[伴夜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_ia.md#伴夜)】`pun6 ia6` <small>/pʰũ6 ia6/<sup>兴化</sup>, /pʰʊ̃1 ia1/<sup>如皋</sup></small> ① 夜间相伴。<sup>\[如皋\]</sup> ② 人死后收殓或出殡的前夜，亲友守灵不睡。<sup>\[东台\]</sup> ③ 守灵。<sup>\[兴化\]</sup>  
 1. 【[伴君如伴虎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_jyen_rv_pun.md#伴君如伴虎)】`pun6 jyen1 rv2 pun6 hv3` <sup>[东台]</sup> （俗语）君王脾性没法揣度，高深莫测，难以侍候。  

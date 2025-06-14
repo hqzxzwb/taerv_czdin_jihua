@@ -1572,9 +1572,10 @@
 1. 【[鬥巧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_qio.md#鬥巧)】`deu5 qio3` <sup>[如皋]</sup> 巧合。见“无巧不巧”。  
 1. 【[鬥石碱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_sheh_gaen.md#鬥石碱)】`deu5 sheh8 gaen3` <sup>[如皋]</sup> 面团发酵后，调入石碱水，中止发酵、中和酸性。  
 1. 【[低眉顺眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/di_mei_shuen_ngaen.md#低眉顺眼)】`di1 mei2 shuen6 ngaen3` <sup>[东台]</sup> 低着头，很温顺的样子。  
-1. 【[低人头相人面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/di_ren_teu_xian.md#低人头相人面)】`di1 ren2 teu2 xian5 ren2 min6` <sup>[如皋]</sup> 形容受制于人的不满心态。  
+1. 【[低人头相人面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/di_ren_teu_xian.md#低人头相人面)】`di1 ren teu2 xian5 ren min6` <sup>[如皋]</sup> 形容受制于人的不满心态。  
+1. 【[低人头，下人面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/di_ren_teu_xia.md#低人头，下人面)】`di1 ren2 teu2 xia6 ren2 min6` <small>/t͡ɕʝ1 ɻəŋ2 tʰəɪ2 ɕiɑ1 ɻəŋ2 mĩ1/<sup>泰兴</sup></small> 谓请求别人；在别人面前表现得卑屈。<sup>\[泰兴\]</sup>  
 1. 【[低三下四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/di_saen_xia_sz.md#低三下四)】`di1 saen1 xia6 sz5` ① 卑微小心。<sup>\[如东\]</sup> ② 降低身份，讨好巴结别人<sup>\[东台\]</sup>：不要见到个老板就～的，有失自己尊严。<sup>\[东台\]</sup> ③ 人卑躬屈膝、小心翼翼的样子<sup>\[泰州\]</sup>：你根本没得必要～的去求他。<sup>\[泰州\]</sup>  
-1. 【[低声下气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/di_shen_xia_qi.md#低声下气)】`di1 shen1 xia6 qi5` ① 恭顺谨慎。<sup>\[如东\]</sup> ② 卑微恭顺，哀求别人<sup>\[东台\]</sup>：你越是～，他越不把你当人。<sup>\[东台\]</sup>  
+1. 【[低声下气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/di_shen_xia_qi.md#低声下气)】`di1 shen1 xia6 qi5` <small>/t͡ɕʝ1 səŋ1 ɕiɑ1 t͡ɕʰʝ5/<sup>泰兴</sup></small> ① 恭顺谨慎。<sup>\[如东\]</sup> ② 卑微恭顺，哀求别人<sup>\[东台\]</sup>：你越是～，他越不把你当人。<sup>\[东台\]</sup> ③ 形容恭顺小心的样子。<sup>\[泰兴\]</sup>  
 1. 【[低头不见抬头见](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/di_teu_beh_jin.md#低头不见抬头见)】`di1 teu2 beh7 jin5 tae2 teu2 jin5` <sup>[东台]</sup> 经常打交道的人之间要和睦相处，不要伤了和气。  
 1. 【[低形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/di_xien.md#低形)】`di1 xien2` <small>/təi1 ɕin2/<sup>兴化</sup>, /t͡sɿ1 ɕiŋ2/<sup>泰县</sup></small> ① 低三下四的样子<sup>\[兴化\]</sup>：他在领导面前那个～难看煞咖。<sup>\[兴化\]</sup> ② 不自重的样子<sup>\[兴化\]</sup>：女伢儿放稳重点儿，不要一副～。<sup>\[兴化\]</sup> ③ 下流的样子。<sup>\[泰县\]</sup>  
 1. 【[呧咑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/di_da.md#呧咑)】`di1 da` ① 双方不停一问一答，谓人说话啰唆<sup>\[泰州\]</sup>：车子马上要开唻，你不要再同他～唻，让他上车吧。<sup>\[泰州\]</sup> ② 双方私下藕断丝连保持联系或交往<sup>\[泰州\]</sup>：大家都不同他～唻，只有你还在同他～。<sup>\[泰州\]</sup>  
@@ -1685,7 +1686,6 @@
 1. 【[钉钉入木](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_dien_reh_moh.md#钉钉入木)】`dien1 dien1 reh8 moh8` <small>/tiɪ̃1 tiɪ̃1 ləʔ8 mɔʔ8/<sup>兴化</sup>, /tiəŋ1 tiəŋ1 ɻəʔ8 mɔʔ8/<sup>如皋</sup></small> ① 喻事事认真，毫不放松，或句句话打中要害。<sup>\[如皋\]</sup> ② 步步紧逼，一着不让<sup>\[兴化\]</sup>：他跟你～的，不办成功不放过。<sup>\[兴化\]</sup> ③ 形容唠唠叨叨<sup>\[兴化\]</sup>：她成天～的，不让人安身。<sup>\[兴化\]</sup>  
 1. 【[钉鞋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_hae.md#钉鞋)】`dien1 hae2` <small>/tiŋ1 xɛ2/<sup>泰兴</sup></small> ① 雨鞋底部钉上圆头钉，起扒滑作用。这种鞋称钉鞋。<sup>\[如东\]</sup> ② 旧时雨鞋，鞋底钉上大帽子钉。<sup>\[东台\]</sup> ③ 运动员所穿跑鞋、跳鞋的统称。<sup>\[东台\]</sup> ④ 旧时雨鞋，鞋帮刷桐油防水浸透，以其鞋底上有圆头防滑铁钉，故名。<sup>\[泰州\]</sup> ⑤ 旧式雨鞋。用布做成，并以桐油油过，鞋底下加有圆头铁钉以防滑。<sup>\[泰兴\]</sup>  
 1. 【[钉鞋底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_hae_di.md#钉鞋底)】`dien1 hae2 di3` <sup>[东台]</sup> 纳鞋底。  
-1. 【[钉鞋底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_hae_di.md#钉鞋底)】`dien1 hae2 di3` <small>/tiŋ1 xɛ2 t͡ɕʝ3/<sup>泰兴</sup></small> 扎鞋底。<sup>\[泰兴\]</sup>：乡人云：“郭家奶奶～，千针（真）万实。”喻非常真实。<sup>\[泰兴\]</sup>  
 1. 【[钉螺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_lu.md#钉螺)】`dien1 lu2` <sup>[如东]</sup> 锥螺科动物钉螺，壳小，尖塔形，有螺层七个左右。  
 1. 【[钉耙锄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_pa_chv_zz.md#钉耙锄子)】`dien1 pa chv2 zz` <small>/tiŋ1 pʰɑ sɤɯ2 t͡sɿ/<sup>泰兴</sup></small> 泛指各种小型农具。<sup>\[泰兴\]</sup>  
 1. 【[钉耙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_pa.md#钉耙)】`dien1 pa2` ① 农具。铁制，有四只齿。用以翻地。<sup>\[如东\]</sup> ② 一种齿形如钉的农具。<sup>\[东台\]</sup>  
@@ -1757,6 +1757,7 @@
 1. 【[钉刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_do.md#钉刀)】`dien5 do1` <small>/tiŋ5 tɔ1/<sup>泰兴</sup></small> 板着面孔，态度坚决，不达目的不罢休的样子。<sup>\[泰兴\]</sup>：地主老财来讨债，总是～啊似的，一点也不能少。<sup>\[泰兴\]</sup>  
 1. 【[钉刀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_do_r.md#钉刀<sub>儿</sub>)】`dien5 do1 r` <sup>[如皋]</sup> 见“硬头”。  
 1. 【[钉斠<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_go_r.md#钉斠<sub>儿</sub>)】`dien5 go5 r` <sup>[如皋]</sup> 剪子的轴和凹型垫片：剪子最怕跌，一跌，～就松。  
+1. 【[钉鞋底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_hae_di.md#钉鞋底)】`dien5 hae2 di3` <small>/tiŋ5 xɛ2 t͡ɕʝ3/<sup>泰兴</sup></small> 扎鞋底。<sup>\[泰兴\]</sup>：乡人云：“郭家奶奶～，千针（真）万实。”喻非常真实。<sup>\[泰兴\]</sup>  
 1. 【[钉吖剥的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_nga_bah_dii.md#钉吖剥的)】`dien5 nga bah7 dii` <sup>[东台]</sup> ［喻］对某件事追得很紧：儿子～，多次催老子买新房。  
 1. 【[钉吖纸捻子里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_nga_zhr_nin.md#钉吖纸捻子里)】`dien5 nga zhr3 nin3 zz lii` <sup>[东台]</sup> ［喻］已经内定，不易改变。  
 1. 【[钉掌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_zhan_zz.md#钉掌子)】`dien5 zhan3 zz` <sup>[如皋]</sup> 给鞋底的前掌和后跟加皮或其他物品并用鞋钉钉上。  

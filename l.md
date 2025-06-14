@@ -136,7 +136,7 @@
 1. 【[喇叭头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ba_teu_zz.md#喇叭头子)】`la3 ba teu2 zz` <small>/la3 pa tʰɤ2 t͡sɿ/<sup>兴化</sup>, /na3 pa tʰɤɯ2 t͡se/<sup>泰县</sup></small> ① 扬声器的俗称。<sup>\[兴化\]</sup> ② 广播喇叭。<sup>\[泰县\]</sup>  
 1. 【[藞挂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_gua.md#藞挂)】`la3 gua` <sup>[如皋]</sup> 见“拉瓜”。  
 1. 【[藞䕢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_zha.md#藞䕢)】`la3 zha3` <sup>[如皋]</sup> 见“拉瓜”。  
-1. 【[俫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae.md#俫)】`lae` <small>/lɛ/<sup>兴化</sup>, /lɛ/<sup>如皋</sup>, /lɛ/<sup>泰兴</sup>, /ne/<sup>泰县</sup></small> 人称复数，相当于“们”。泰兴用“jio“：我～｜你～｜他～。  
+1. 【[俫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae.md#俫)】`lae` <small>/lɛ/<sup>兴化</sup>, /lɛ/<sup>如皋</sup>, /lɛ/<sup>泰兴</sup>, /ne/<sup>泰县</sup></small> 人称复数，相当于“们”。泰兴一般用“jio“：我～｜你～｜他～。  
 1. 【[唻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae.md#唻)】`lae` <sup>[泰州]</sup> ① 助词，相当于“了”。 ② 表示动作行为终结：你就不要讲～，领导心里有数的。｜退啊休，就不要再做～。 ③ 用于句末，表示肯定：事情老早就办好啊唻。  
 1. 【[来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae.md#来)】`lae2` <sup>[泰州]</sup> 特指赌博：小的没得意思，要～就～大的。  
 1. 【[来啊阵仗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_a_chen_chan.md#来啊阵仗)】`lae2 a chen6 chan6` <sup>[如皋]</sup> 见“来啊天色”。  

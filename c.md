@@ -1851,7 +1851,7 @@
 1. 【[住场地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_chan_ti.md#住场地)】`chv6 chan2 ti6` <sup>[东台]</sup> 住宅的地理位置所在：他家新打的～在中心村社区。  
 1. 【[住宅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_cheh.md#住宅)】`chv6 cheh8` <sup>[如东]</sup> ① 居住的房子。 ② 宅基地。  
 1. 【[住宅墩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_cheh_den_r.md#住宅墩<sub>儿</sub>)】`chv6 cheh8 den1 r` <sup>[如皋]</sup> 住房或住房的占地。  
-1. 【[住点](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_din.md#住点)】`chv6 din3` <small>/t͡sʰu6 tiɪ̃3/<sup>兴化</sup></small> 雨停<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：……早已雷声殷殷，阴风飒飒，雨儿渐渐大了，不～下起来。（《岐路灯》五七）<sup>\[兴化\]</sup>｜这个雨先头子就下唻，到现在也不曾～。<sup>\[泰州\]</sup>  
+1. 【[住点](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_din.md#住点)】`chv6 din3` <small>/t͡sʰu6 tiɪ̃3/<sup>兴化</sup>, /t͡sʰu1 tĩ3/<sup>泰兴</sup></small> 雨停<sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：……早已雷声殷殷，阴风飒飒，雨儿渐渐大了，不～下起来。（《岐路灯》五七）<sup>\[兴化\]</sup>｜这个雨先头子就下唻，到现在也不曾～。<sup>\[泰州\]</sup>  
 1. 【[住风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_fon.md#住风)】`chv6 fon1` <sup>[如东]</sup> 风停止了：刚刚～。  
 1. 【[住家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_ga.md#住家)】`chv6 ga1` <sup>[东台]</sup> 定居的家庭。  
 1. 【[住户人家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_hv_ren_ga.md#住户人家)】`chv6 hv6 ren2 ga` <sup>[兴化]</sup> ① 定居在某处的人家：“这可好了，有了～可就好打听了。”（《小五义》三二） ② 区别于店家：这块全是～，没得店面。  
@@ -2004,7 +2004,7 @@
 1. 【[皂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co.md#皂)】`co6` <sup>[如皋]</sup> 旧式手工缫丝缫下的丝絖上固定的一处硬块，为丝头集中处。络丝工人蓬丝絖时则须“擘～”，使之松散。  
 1. 【[皂荚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_gaeh.md#皂荚)】`co6 gaeh7` <sup>[如东]</sup> 豆科植物皂荚，也叫皂角。  
 1. 【[皂荚树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_gaeh_shv.md#皂荚树)】`co6 gaeh7 shv6` <sup>[东台]</sup> 高大乔木，所结树种皂荚可以洗衣去污。旧时烧盐需要用皂荚促使盐卤起凝，故～种植很多。  
-1. 【[皂角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_gah.md#皂角)】`co6 gah7` <small>/t͡sʰɔ6 kaʔ7/<sup>兴化</sup></small> 皂英树所结的皂荚，可用于洗衣物、洗澡去污。<sup>\[兴化\]</sup><sup>\[泰州\]</sup>  
+1. 【[皂角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_gah.md#皂角)】`co6 gah7` <small>/t͡sʰɔ6 kaʔ7/<sup>兴化</sup>, /t͡sʰɔ1 kɑʔ7/<sup>泰兴</sup></small> ① 皂角树所结的皂荚，可用于洗衣物、洗澡去污。<sup>\[兴化\]</sup><sup>\[泰州\]</sup> ② 即皂葵。落叶乔木，枝干上有刺，乡人俗谓之针柴。结荚。荚果可去污垢。荚果、树皮、刺均可人药，有祛痰功能。<sup>\[泰兴\]</sup>  
 1. 【[皂壳盐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_kah_in.md#皂壳盐)】`co6 kah in2` <sup>[如皋]</sup> 旧时老法烧盐，用皂荚汁收卤。所以盐中常见皂荚籽粒及碎渣。《如皋方言词典》中写“皂荚”。  
 1. 【[皂壳树巷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_kah_shv_han.md#皂壳树巷)】`co6 kah shv6 han6` <sup>[如皋]</sup> 原在如城西门外大街中部偏西处，为南北巷。因有胸径达1米的老皂荚树而得名。1995年开始旧城改造后，此巷已废。《如皋方言词典》中写“皂荚”。  
 1. 【[皂壳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_kah.md#皂壳)】`co6 kah7` <sup>[兴化]</sup> 皂英树所结的皂荚，可用于洗衣物、洗澡去污。也称“皂角”。  
