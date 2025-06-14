@@ -129,7 +129,7 @@
 1. 【[玉米稭<sub>儿</sub>棚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_mi_gae_r.md#玉米稭<sub>儿</sub>棚)】`y6 mi3 gae1 r pon2` <sup>[如皋]</sup> 数棵玉米秸扎成一捆，数捆竖立于田头，成人字形或伞字形的棚，以便干燥作燃料谓之。  
 1. 【[玉米骨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_mi_gueh_zz.md#玉米骨子)】`y6 mi3 gueh7 zz` <sup>[如皋]</sup> 玉米棒头去籽后的莛儿。  
 1. 【[玉米胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_mi_hv_zz.md#玉米胡子)】`y6 mi3 hv2 zz` <small>/y1 mʝ3 fu2 t͡sɿ/<sup>如皋</sup></small> ① 玉米棒子上的雌花蕊。<sup>\[如皋\]</sup> ② 禾本科植物玉蜀黍花柱。<sup>\[如东\]</sup>  
-1. 【[玉米库箬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_mi_kv_rah.md#玉米库箬)】`y6 mi3 kv5 rah8` <sup>[如皋]</sup> 玉米棒子外裹的箬片。  
+1. 【[玉米库箬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_mi_kv_rah.md#玉米库箬)】`y6 mi3 kv5 rah8` <small>/y1 mʝ3 kʰu5 ɻaʔ8/<sup>如皋</sup>, /y1 mʝ3 kʰu5 ɻɑʔ/<sup>泰兴</sup></small> 玉米棒子外裹的箬片。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
 1. 【[玉米头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_mi_teu_r.md#玉米头<sub>儿</sub>)】`y6 mi3 teu2 r` <sup>[如皋]</sup> 玉米棒头去籽后的莛儿。  
 1. 【[玉米莛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_mi_tien_r.md#玉米莛<sub>儿</sub>)】`y6 mi3 tien2 r` <sup>[如皋]</sup> 玉米棒头去籽后的莛儿。  
 1. 【[玉米莛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_mi_tien_zz.md#玉米莛子)】`y6 mi3 tien2 zz` <sup>[如东]</sup> 禾本科植物玉蜀黍穗轴。  

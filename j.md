@@ -161,7 +161,8 @@
 1. 【[祭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#祭)】`ji5` <sup>[如皋]</sup> 旧时造桥、打井等易出人命事故，谓之祭。如～桥、～井、～塔、～路等。以此警戒闲人莫到。  
 1. 【[祭桌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zhuah.md#祭桌)】`ji5 zhuah7` <sup>[如东]</sup> 人死后，由其娘家亲属赠送的供品。  
 1. 【[穄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zz.md#穄子)】`ji5 zz` <sup>[如皋]</sup> 黍。分黏、䵘（shua3）两种。黏性的一种，红稃。  
-1. 【[系](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#系)】`ji5` ① 打结，系上<sup>\[东台\]</sup>：～鞋带。<sup>\[东台\]</sup> ② 拴束绳、带<sup>\[泰州\]</sup>：你把鞋带子～啊好啊。<sup>\[泰州\]</sup>｜你在腰里～跟绳子再下去。<sup>\[泰州\]</sup>  
+1. 【[系](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#系)】`ji5` <small>/t͡ɕʝ5/<sup>泰兴</sup></small> ① 打结，系上<sup>\[东台\]</sup>：～鞋带。<sup>\[东台\]</sup> ② 拴束绳、带<sup>\[泰州\]</sup>：你把鞋带子～啊好啊。<sup>\[泰州\]</sup>｜你在腰里～跟绳子再下去。<sup>\[泰州\]</sup> ③ 拴缚；打结，扣上。<sup>\[泰兴\]</sup>：把鞋带子～起来<sup>\[泰兴\]</sup>｜～带子/将带子打结扣紧<sup>\[泰兴\]</sup>  
+1. 【[系马桩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ma_zhuan_zz.md#系马桩子)】`ji5 ma3 zhuan1 zz` <small>/t͡ɕʝ5 mɑ3 t͡suɑŋ1 t͡sɿ/<sup>泰兴</sup></small> 一种一年生杂草，根须很深，手不能拔起，嫩时可以作猪饲。（牛筋草）<sup>\[泰兴\]</sup>  
 1. 【[继父](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_fv.md#继父)】`ji5 fv6` <sup>[如东]</sup> 母亲后嫁的父亲。  
 1. 【[继父老子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_fv_lo_zz.md#继父老子)】`ji5 fv6 lo3 zz` <sup>[如皋]</sup> 继父。  
 1. 【[继母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_mu.md#继母)】`ji5 mu3` <sup>[如东]</sup> 父亲后娶的母亲。也称晚娘。  
@@ -1149,7 +1150,7 @@
 1. 【[洁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih.md#洁)】`jih7` <sup>[如皋]</sup> 清洗：吃咖好啊随即把锅、碗、瓢、盆～掉。  
 1. 【[洁福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_foh.md#洁福)】`jih7 foh7` <sup>[泰县]</sup> 福享尽了：在这人家家里，你还不好好过日子，真的是～。  
 1. 【[洁锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_gu.md#洁锅)】`jih7 gu1` <small>/t͡ɕiɪʔ7 ko1/<sup>兴化</sup>, /t͡ɕiʔ7 kʊ1/<sup>如皋</sup>, /t͡ɕiɪʔ7 ko1/<sup>泰县</sup></small> ① 把灶、厨具清洗乾浄，表示这一顿饭的炊事完毕。<sup>\[如皋\]</sup> ② 每餐结束，清洗锅灶。<sup>\[兴化\]</sup> ③ 特指餐馆早、中、晚市结束，暂停接待食客<sup>\[兴化\]</sup>：对不起，已经～，请到另一家吧！<sup>\[兴化\]</sup> ④ 饭后把饭碗洗净。<sup>\[泰县\]</sup>  
-1. 【[疖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_zz.md#疖子)】`jih7 zz` 皮肤病，症状为局部充血硬块，化脓、红肿、疼痛。<sup>\[东台\]</sup><sup>\[泰州\]</sup>\[如东：由葡萄球菌或链状茁侵入毛囊内引起。\]  
+1. 【[疖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_zz.md#疖子)】`jih7 zz` <small>/t͡ɕiʔ7 t͡sɿ/<sup>泰兴</sup></small> 皮肤病，症状为局部充血硬块，化脓、红肿、疼痛。<sup>\[东台\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>\[如东：由葡萄球菌或链状茁侵入毛囊内引起。\]  
 1. 【[结](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih.md#结)】`jih7` <sup>[如东]</sup> ① 在条状物上打疙瘩，称结：绳～。 ② 一种编织方法。把绒线编织成服装，称结：～毛线。  
 1. 【[结巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_ba.md#结巴)】`jih7 ba` <sup>[泰州]</sup> 用绳索、皮带等条状物打成的疙瘩：绳子上的～打啊紧吖。  
 1. 【[结疤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_ba.md#结疤)】`jih7 ba1` <sup>[东台]</sup> 伤口或疮口结痂。  

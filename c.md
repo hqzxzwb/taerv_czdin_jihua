@@ -1481,11 +1481,12 @@
 1. 【[噇囚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_qieu.md#噇囚)】`chuan2 qieu2` <sup>[如皋]</sup> 本指犯人吃饭。借作詈语、昵语。  
 1. 【[噇屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_shr.md#噇屎)】`chuan2 shr3` <small>/t͡sʰuaŋ2 sɿ3/<sup>兴化</sup></small> 骂人不讲道理<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：这个人太～，人家救他家老的上医院，他反而讹人家。<sup>\[兴化\]</sup>｜你说这种丧良心的话，你哿是～长吖大的啊？<sup>\[泰州\]</sup>  
 1. 【[床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan.md#床)】`chuan2` ① 供人睡觉的家具。主要包括三部分，床体、床格和踏板。有各种规格和样式。<sup>\[如东\]</sup> ② 供人休息的家具。<sup>\[东台\]</sup> ③ 某种类似床的工具或基地<sup>\[东台\]</sup>：车～；苗～。<sup>\[东台\]</sup> ④ （量词）一～被褥。<sup>\[东台\]</sup>  
-1. 【[床帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_ban.md#床帮)】`chuan2 ban1` <small>/t͡sʰuã2 pã1/<sup>如皋</sup></small> ① 连接床脚的长方形横木。<sup>\[如东\]</sup> ② 床沿。<sup>\[如皋\]</sup>  
+1. 【[床帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_ban.md#床帮)】`chuan2 ban1` <small>/t͡sʰuã2 pã1/<sup>如皋</sup>, /t͡sʰuɑŋ2 pɑŋ1/<sup>泰兴</sup></small> ① 连接床脚的长方形横木。<sup>\[如东\]</sup> ② 床沿。<sup>\[如皋\]</sup> ③ 谓床前边缘的横木。为床的主要部件之一。<sup>\[泰兴\]</sup>  
 1. 【[床帮债](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_ban_zhae.md#床帮债)】`chuan2 ban1 zhae5` <sup>[如皋]</sup> 久病，卧床不起。认为是前世欠了床的债，今世来还。  
 1. 【[床柱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_chv.md#床柱)】`chuan2 chv6` <sup>[如东]</sup> 连接床帮的竖木条。  
 1. 【[床底下养鹤——饭好吃头难抬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_di_ha_ian.md#床底下养鹤——饭好吃头难抬)】`chuan2 di3 ha ian3 hah8 faen6 ho3 qieh7 teu2 naen2 tae2` <sup>[东台]</sup>   
 1. 【[床顶板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_dien_baen.md#床顶板)】`chuan2 dien3 baen3` <sup>[东台]</sup> 旧时木床床顶护脏的板。  
+1. 【[床顶板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_dien_baen.md#床顶板)】`chuan2 dien3 baen3` <small>/t͡sʰuɑŋ2 tiŋ3 pɛ̃3/<sup>泰兴</sup></small> 床顶部避尘的木板。<sup>\[泰兴\]</sup>  
 1. 【[床顶头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_dien_teu.md#床顶头)】`chuan2 dien3 teu2` <sup>[东台]</sup> 也称铺头前。  
 1. 【[床桄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_guan.md#床桄)】`chuan2 guan5` <small>/t͡sʰuaŋ2 kuaŋ5/<sup>兴化</sup></small> ① 床沿横木，可以坐人的地方（旧时写“床𤗶”）<sup>\[东台\]</sup>：夜饭吃咖这吖多，哿是要压～？<sup>\[东台\]</sup> ② 床板下用来支床牚的前后横木。<sup>\[兴化\]</sup>  
 1. 【[床箍头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_gv_teu.md#床箍头)】`chuan2 gv1 teu` <sup>[如东]</sup> 床头上部连接床柱的横木条。  
@@ -1493,7 +1494,7 @@
 1. 【[床脚𣑁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_jiah_chon.md#床脚𣑁)】`chuan2 jiah7 chon5` <sup>[如东]</sup> 连接床脚的方木条。  
 1. 【[床隑背<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_kae_bei_r.md#床隑背<sub>儿</sub>)】`chuan2 kae5 bei5 r` <sup>[如皋]</sup> 床头的靠背。  
 1. 【[床栏杆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_laen_gun.md#床栏杆)】`chuan2 laen2 gun1` <sup>[如皋]</sup> 旧式床三边的围栏。  
-1. 【[床棱子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_len_zz.md#床棱子)】`chuan2 len6 zz` <small>/t͡sʰuã2 ləŋ1 t͡sɿ/<sup>如皋</sup></small> ① 连接床帮的方木条。<sup>\[如东\]</sup> ② 床架上的承重横木。<sup>\[如皋\]</sup>  
+1. 【[床棱子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_len_zz.md#床棱子)】`chuan2 len6 zz` <small>/t͡sʰuã2 ləŋ1 t͡sɿ/<sup>如皋</sup>, /t͡sʰuɑŋ2 ləŋ1 t͡sɿ/<sup>泰兴</sup></small> ① 连接床帮的方木条。<sup>\[如东\]</sup> ② 床架上的承重横木。<sup>\[如皋\]</sup> ③ 床下用于负重的较粗的横木。<sup>\[泰兴\]</sup>  
 1. 【[床码头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_ma_teu.md#床码头)】`chuan2 ma3 teu` <sup>[如东]</sup> 床箍头上的木奶子。  
 1. 【[床头几](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_teu_ji.md#床头几)】`chuan2 teu2 ji3` <sup>[兴化]</sup> 放在床头边的小桌，用来放灯或其他与睡眠有关的杂物。  
 1. 【[床肚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_tv.md#床肚)】`chuan2 tv6` <small>/t͡sʰuaŋ2 tʰu6/<sup>兴化</sup></small> ① 床铺底下。<sup>\[如东\]</sup>：东西放在～里。<sup>\[如东\]</sup> ② 床下。<sup>\[兴化\]</sup>  

@@ -317,14 +317,15 @@
 1. 【[角鬏<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_jieu_r.md#角鬏<sub>儿</sub>)】`gah7 jieu1 r` <sup>[如皋]</sup> 少女头顶两侧所梳的髻。  
 1. 【[角口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_keu.md#角口)】`gah7 keu3` <sup>[如东]</sup> 吵架。  
 1. 【[角落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_lah.md#角落)】`gah7 lah` <small>/kaʔ7 laʔ/<sup>兴化</sup>, /kaʔ7 laʔ/<sup>如皋</sup>, /kɑʔ7 lɑʔ/<sup>泰兴</sup>, /kɑʔ7 nɑʔ/<sup>泰县</sup></small> ① 角落：墙～。 ② 偏僻的地方。<sup>\[如东\]</sup><sup>\[泰州\]</sup>：把东西囥吖～里。<sup>\[如东\]</sup>｜你老先生蹾吖哪个～里头的，块块寻你人寻不到。<sup>\[泰州\]</sup>  
+1. 【[角落头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_lah_teu.md#角落头)】`gah7 lah teu2` <small>/kɑʔ7 lɑʔ tʰəɪ2/<sup>泰兴</sup></small> 指房屋等两墙交接处之一隅。亦泛指类似墙的东西相接处凹角或方形物件的一角。<sup>\[泰兴\]</sup>  
 1. 【[角螺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_lu_r.md#角螺<sub>儿</sub>)】`gah7 lu1 r` <sup>[如皋]</sup> 蜗牛。腹足纲。  
-1. 【[角票](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_pio.md#角票)】`gah7 pio5` ① 指壹角、贰角、伍角的纸币 ② 票面以角为单位的纸币。<sup>\[东台\]</sup>  
+1. 【[角票](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_pio.md#角票)】`gah7 pio5` <small>/kɑʔ7 pʰiɔ5/<sup>泰兴</sup></small> ① 指壹角、贰角、伍角的纸币 ② 票面以角为单位的纸币。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[角钱能买十一个——分钱不值](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_qin_nen_mae.md#角钱能买十一个——分钱不值)】`gah7 qin2 nen2 mae3 sheh8 ieh7 gu fen1 qin2 beh7 cheh8` <sup>[东台]</sup>   
 1. 【[角升](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_shen.md#角升)】`gah7 shen1` <sup>[如东]</sup> 一种量器。四方形，木制。容量一升或半升。  
 1. 【[角艄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_sho.md#角艄)】`gah7 sho1` <sup>[如东]</sup> 帆船尾部的装置，长方形，由尾部伸出去，像鸟尾巴，可以摆放物资。  
 1. 【[角艄灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_sho_den.md#角艄灯)】`gah7 sho1 den1` <sup>[如东]</sup> 帆船尾部航行灯，安装在左舷的艄角柱上，四方形，四面镶玻璃，里面点蜡烛。  
 1. 【[角艄杆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_sho_gun_zz.md#角艄杆子)】`gah7 sho1 gun3 zz` <sup>[如东]</sup> 帆船船尾两边伸出去的两根木梁。  
-1. 【[角子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_zz.md#角子)】`gah7 zz` <small>/kaʔ7 t͡sɿ/<sup>兴化</sup>, /kɑʔ7 t͡se/<sup>泰县</sup></small> ① 面值为一角钱的人民币。<sup>\[如东\]</sup>：我口袋里还有三个～。<sup>\[如东\]</sup> ② 泛指硬币。<sup>\[东台\]</sup> ③ 铜元<sup>\[兴化\]</sup>：铜～。<sup>\[兴化\]</sup> ④ 旧时通行的小银币。<sup>\[兴化\]</sup> ⑤ 金属辅币<sup>\[兴化\]</sup>：铅～。<sup>\[兴化\]</sup> ⑥ 分币。<sup>\[泰县\]</sup>  
+1. 【[角子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_zz.md#角子)】`gah7 zz` <small>/kaʔ7 t͡sɿ/<sup>兴化</sup>, /kɑʔ7 t͡sɿ/<sup>泰兴</sup>, /kɑʔ7 t͡se/<sup>泰县</sup></small> ① 面值为一角钱的人民币。<sup>\[如东\]</sup>：我口袋里还有三个～。<sup>\[如东\]</sup> ② 泛指硬币。<sup>\[东台\]</sup> ③ 铜元<sup>\[兴化\]</sup>：铜～。<sup>\[兴化\]</sup> ④ 旧时通行的小银币。<sup>\[兴化\]</sup> ⑤ 金属辅币<sup>\[兴化\]</sup>：铅～。<sup>\[兴化\]</sup> ⑥ 分币。<sup>\[泰县\]</sup> ⑦ 小硬币。<sup>\[泰兴\]</sup>  
 1. 【[阁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gah_zz.md#阁子)】`gah7 zz` <sup>[兴化]</sup> ① 阁楼。 ② 用板搭的平台：水～。  
 1. 【[㧏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan.md#㧏)】`gan1` <small>/kã1/<sup>如皋</sup>, /kɑŋ1/<sup>泰兴</sup></small> ① 两人共抬一物。<sup>\[如东\]</sup>：～木头。<sup>\[如东\]</sup> ② 皮肤上出现<sup>\[如皋\]</sup>：脸上～火、身上～疹子、～鸡皮子。<sup>\[如皋\]</sup> ③ 增劲提神<sup>\[如皋\]</sup>：喝点儿酒～精神。<sup>\[如皋\]</sup> ④ 两人或多人共抬一物<sup>\[泰州\]</sup>：～石头<sup>\[泰州\]</sup>｜～黄沙<sup>\[泰州\]</sup> ⑤ 硬物由下往上顶住<sup>\[泰州\]</sup>：一锹挖不下去，不晓得是甚的东西～住啊。<sup>\[泰州\]</sup> ⑥ 以肩荷物，担负之意<sup>\[泰兴\]</sup>：百斤的重担他照～<sup>\[泰兴\]</sup>  
 1. 【[㧏暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_bo.md#㧏暴)】`gan1 bo5` <sup>[如东]</sup> 寒潮袭击：天气不好，要～。  
@@ -1611,6 +1612,7 @@
 1. 【[龟背驮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_bei_tu.md#龟背驮)】`guei1 bei5 tu2` <sup>[如皋]</sup> 中部高四周低的地形。  
 1. 【[龟耷头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_dah_teu.md#龟耷头)】`guei1 dah7 teu2` <sup>[东台]</sup> 与“龟斀头”同义。又比喻胆小怕事，不敢出头。  
 1. 【[龟斀头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_doh_teu.md#龟斀头)】`guei1 doh7 teu2` <sup>[东台]</sup> 原意指割去男性生殖器。后指妻子偷人，丈夫不敢过问。  
+1. 【[龟斀头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_doh_teu.md#龟斀头)】`guei1 doh7 teu2` <small>/kuəɪ1 tɔʔ7 tʰəɪ2/<sup>泰兴</sup></small> 谓妻有外遇者。<sup>\[泰兴\]</sup>  
 1. 【[龟瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_gua.md#龟瓜)】`guei1 gua1` <sup>[如皋]</sup> 本地产的哈密瓜变种。  
 1. 【[龟壳船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_kah_chun.md#龟壳船)】`guei1 kah7 chun2` <small>/kuəi1 kʰaʔ7 t͡sʰũ2/<sup>兴化</sup></small> ① 旧时一种小木船，棚子低矮成弧形，似龟壳，故名。见“乌龟壳”。<sup>\[兴化\]</sup> ② 旧时的一种矮棚木船，外形似龟壳。<sup>\[兴化\]</sup>  
 1. 【[龟壳<sub>儿</sub>车子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_kah_r_cha.md#龟壳<sub>儿</sub>车子)】`guei1 kah7 r cha1 zz` <sup>[如皋]</sup> 轿车的旧称。  

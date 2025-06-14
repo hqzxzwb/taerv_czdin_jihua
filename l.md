@@ -791,10 +791,11 @@
 1. 【[冷暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_bo.md#冷暴)】`len3 bo5` <sup>[如皋]</sup> 寒流袭击。见“掉暴”。  
 1. 【[冷菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_cae.md#冷菜)】`len3 cae5` <small>/ləŋ3 t͡sʰɛ5/<sup>如皋</sup></small> ① 已凉了的菜。<sup>\[如东\]</sup> ② 做成后供冷食的菜。<sup>\[如东\]</sup> ③ 已凉了的菜。<sup>\[如皋\]</sup> ④ 供冷食的菜。<sup>\[如皋\]</sup>  
 1. 【[冷床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_chuan.md#冷床)】`len3 chuan2` <small>/ləŋ3 t͡sʰuã2/<sup>如皋</sup></small> ① 停尸床，称冷床。亦称停床。<sup>\[如东\]</sup> ② 新丧移尸堂右换衣、化妆所用的停尸床。<sup>\[如皋\]</sup>  
-1. 【[冷凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_den.md#冷凳)】`len3 den5` <small>/lən3 tən5/<sup>兴化</sup>, /ləŋ3 təŋ5/<sup>如皋</sup></small> ① 搁置棺材的板凳。<sup>\[如东\]</sup> ② 搁棺材的特大高凳。<sup>\[如皋\]</sup> ③ 支灵床的凳子。<sup>\[兴化\]</sup>  
+1. 【[冷凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_den.md#冷凳)】`len3 den5` <small>/lən3 tən5/<sup>兴化</sup>, /ləŋ3 təŋ5/<sup>如皋</sup>, /ləŋ3 təŋ5/<sup>泰兴</sup></small> ① 搁置棺材的板凳。<sup>\[如东\]</sup> ② 搁棺材的特大高凳。<sup>\[如皋\]</sup> ③ 支灵床的凳子。<sup>\[兴化\]</sup> ④ 架灵柩的凳子。<sup>\[泰兴\]</sup>  
 1. 【[冷碟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_dih.md#冷碟)】`len3 dih7` <small>/lən3 tiɪʔ7/<sup>兴化</sup>, /ləŋ3 tiʔ7/<sup>如皋</sup></small> ① 供冷食的菜。<sup>\[如皋\]</sup> ② 盛凉菜的盘子。<sup>\[兴化\]</sup> ③ 各式加工过的冷却后的菜肴，或拼装于大盘，或分装于小盘，为筵席的第一道菜，旧时多以碟装。<sup>\[泰州\]</sup>  
 1. 【[冷冻车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_don_cha.md#冷冻车)】`len3 don5 cha1` <sup>[如东]</sup> 装有制冷设备的运输车。也叫冷藏车。  
 1. 【[冷饭冷菜好吃，冷言冷语难受](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_faen_len_cae.md#冷饭冷菜好吃，冷言冷语难受)】`len3 faen6 len3 cae5 ho3 qieh7 len3 in2 len3 y3 naen2 sheu6` <sup>[东台]</sup> 精神刺激往往比物质刺激更伤人。  
+1. 【[冷饭冷菜好吃，冷言冷语难受](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_faen_len_cae.md#冷饭冷菜好吃，冷言冷语难受)】`len3 faen6 len3 cae5 ho3 qieh7 len3 in2 len3 y3 naen2 sheu6` <small>/ləŋ3 fɛ̃1 ləŋ3 t͡ɕʰiɛ5 xɔ3 t͡ɕʰiəʔ7 ləŋ3 ĩ2 ləŋ3 y3 nɛ̃2 ɕiɤɯ1/<sup>泰兴</sup></small> 谓受人冷脸是极不舒服的。<sup>\[泰兴\]</sup>  
 1. 【[冷锅冰灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_gu_bien_zo.md#冷锅冰灶)】`len3 gu1 bien1 zo5` <sup>[兴化]</sup> 形容冷落的样子：兴冲冲赶到家，一看～的心就凉吖。  
 1. 【[冷锅饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_gu_bien.md#冷锅饼)】`len3 gu1 bien3` <sup>[东台]</sup> 面粉发酵后，在锅里加油煎烤而成的大圆饼，中间厚边子薄，以蹲门大饼最有名，中秋节前后食用最普遍。因其它烙饼须放入热锅烘烤，否则锅不热饼不靠，而此饼可以先放入冷锅再加热煎成，故称～。  
 1. 【[冷锅冷灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_gu_len_zo.md#冷锅冷灶)】`len3 gu1 len3 zo5` <sup>[如东]</sup> 比喻待人冷淡：走到陈玉苹家，～的，不是个滋味儿。  
@@ -811,15 +812,19 @@
 1. 【[冷路货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_lv_hu.md#冷路货)】`len3 lv6 hu5` <sup>[如东]</sup> 销路不好的商品：这是一批～。  
 1. 【[冷露](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_lv.md#冷露)】`len3 lv6` <sup>[如东]</sup> 地面物体上已见明显的露水，表示气温已经很低，但还没有形成霜：今朝有～啊。  
 1. 【[冷面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_min.md#冷面)】`len3 min6` <sup>[如皋]</sup> 凉拌面。夏季多食之。即面条煮熟后下冷水，捞出甩去水份，拌食。  
+1. 【[冷面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_min.md#冷面)】`len3 min6` <small>/ləŋ3 mĩ1/<sup>泰兴</sup></small> 煮熟的面条用冷开水浸一下，以浇头拌之而食。夏令食品。乡人农历五月十三、六月十九有食冷面之俗。<sup>\[泰兴\]</sup>  
+1. 【[冷屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_pi_gu.md#冷屁股)】`len3 pi5 gu` <small>/ləŋ3 pʰʝ5 kɤɯ/<sup>泰兴</sup></small> 骂人语。犹冷脸。<sup>\[泰兴\]</sup>：热脸相他的～<sup>\[泰兴\]</sup>  
 1. 【[冷被](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_pi.md#冷被)】`len3 pi6` <sup>[如皋]</sup> 停灵，收殓所用的盖被。  
 1. 【[冷盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_pun.md#冷盘)】`len3 pun2` <sup>[如皋]</sup> 供冷食的菜。  
 1. 【[冷席](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_qieh.md#冷席)】`len3 qieh8` <small>/lən3 t͡ɕʰiəʔ8/<sup>兴化</sup>, /ləŋ3 t͡ɕʰiəʔ8/<sup>如皋</sup></small> ① 停灵，收殓所用的草席。<sup>\[如皋\]</sup> ② 铺在灵床上的草席。<sup>\[兴化\]</sup>  
 1. 【[冷清](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_qien.md#冷清)】`len3 qien1` <sup>[如东]</sup> 冷落寂寞：一个人在家里非常～。  
+1. 【[冷水要人挑，热水要人烧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_shuei_io_ren.md#冷水要人挑，热水要人烧)】`len3 shuei io5 ren tio1 rih8 shuei io5 ren sho1` <small>/ləŋ3 suəɪ iɔ5 ɻəŋ tʰiɔ1 iʔ8 suəɪ iɔ5 ɻəŋ sɔ1/<sup>泰兴</sup></small> 谓什么事都必须要人做，不做事则连吃水都困难。多用作劝人要勤劳实干，不能靠别人劳动自己享受。<sup>\[泰兴\]</sup>  
 1. 【[冷水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_shuei.md#冷水)】`len3 shuei3` <sup>[如东]</sup> ① 凉水。 ② 生水。  
 1. 【[冷咝咝的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_sz_sz_dii.md#冷咝咝的)】`len3 sz1 sz1 dii` <sup>[如皋]</sup> 寒冷或怕冷的样子。  
 1. 【[冷淡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_taen.md#冷淡)】`len3 taen6` <sup>[如东]</sup> ① 不热情。 ② 不热闹。  
 1. 【[冷天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_tin.md#冷天)】`len3 tin1` <sup>[兴化]</sup> 冬天：他是个大胖子，怕热，到～才舒服。  
 1. 【[冷天时候](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_tin_shr_heu.md#冷天时候)】`len3 tin1 shr2 heu` <sup>[如皋]</sup> 冬天。  
+1. 【[冷兮兮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_xi_xi.md#冷兮兮)】`len3 xi1 xi1` <small>/ləŋ3 ɕʝ1 ɕʝ1/<sup>泰兴</sup></small> 很冷的样子。<sup>\[泰兴\]</sup>  
 1. 【[冷兮兮的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_xi_xi_dii.md#冷兮兮的)】`len3 xi1 xi1 dii` <sup>[如皋]</sup> 寒冷或怕冷的样子。  
 1. 【[冷心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_xien.md#冷心)】`len3 xien1` <small>/lən3 ɕin1/<sup>兴化</sup>, /ləŋ3 ɕiəŋ1/<sup>如皋</sup></small> ① 灰心、失去希望。<sup>\[如皋\]</sup> ② 因失望、委屈而灰心<sup>\[兴化\]</sup>：有好心，没好报，叫人～。<sup>\[兴化\]</sup>  
 1. 【[冷𩚫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_zhen.md#冷𩚫)】`len3 zhen1` <sup>[如皋]</sup> 将炒青元麦仁用石磨磨成ㄠ状的食品。旧时清明时节腾田“做秧母”，于此田块专长“三月黄”的早熟元麦，以便适时磨～上市。  
@@ -2340,7 +2345,6 @@
 1. 【[卵子皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_zz_pi.md#卵子皮)】`lun3 zz pi2` <sup>[如皋]</sup> 阴囊。  
 1. 【[卵子子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_zz_zz.md#卵子子)】`lun3 zz zz3` <small>/lʊ̃3 t͡sɿ t͡sɿ3/<sup>泰兴</sup></small> 睾丸。<sup>\[泰兴\]</sup>  
 1. 【[卵子籽<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_zz_zz_r.md#卵子籽<sub>儿</sub>)】`lun3 zz zz3 r` <sup>[如皋]</sup> 睾丸。  
-1. 【[卵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_zz.md#卵子)】`lun3 zz3` <sup>[东台]</sup> 女性的生殖细胞。  
 1. 【[漤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun.md#漤)】`lun3` <small>/lũ3/<sup>兴化</sup>, /lʊ̃3/<sup>如皋</sup></small> ① 使之吸附<sup>\[如皋\]</sup>：拿馒头把碗里的鱼汤～掉；倒点儿泡灰～伢儿尿。<sup>\[如皋\]</sup> ② “用布吸水”之义<sup>\[东台\]</sup>：茶杯倒啊，快点儿用搌布把办公桌～下子。<sup>\[东台\]</sup> ③ 揩去少量积水<sup>\[兴化\]</sup>：拿干布～水。<sup>\[兴化\]</sup> ④ 沾上、挨上<sup>\[兴化\]</sup>：身上～吖潮；衣装～脏吖；～堂灰。<sup>\[兴化\]</sup> ⑤ 用布吸取液体<sup>\[泰州\]</sup>：桌上的汤都捱你的衣袖～掉啊唻。<sup>\[泰州\]</sup>｜拿搌布把地板上的油～掉。<sup>\[泰州\]</sup>  
 1. 【[漤菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_cae.md#漤菜)】`lun3 cae5` 吃饭的时候贪吃菜肴<sup>\[泰州\]</sup>：你俫不要只顾啊～，总共就弄吖这吖点儿菜，漤吖没得咖，最后伺候啊吃白饭吧。<sup>\[泰州\]</sup>  
 1. 【[漤塘灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_tan_huei.md#漤塘灰)】`lun3 tan2 huei1` <sup>[东台]</sup> ① 用潮抹布抹灰尘。 ② 形容水分太少、太浅：落咖这吖点儿雨，还不够～。  

@@ -477,9 +477,11 @@
 1. 【[闲扯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_cha.md#闲扯)】`xiaen2 cha3` <sup>[东台]</sup> 漫无边际地随便聊天。  
 1. 【[闲端午](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_dun_v.md#闲端午)】`xiaen2 dun1 v` <sup>[如皋]</sup> 端午节不在农忙时段。  
 1. 【[闲话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_hua.md#闲话)】`xiaen2 hua6` <sup>[东台]</sup> ① 与正题无关的话。 ② 引人猜疑的、背地里议论的是非话：男同志一般不要单独找女士谈心，免得人家说～。  
-1. 【[闲空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_kon.md#闲空)】`xiaen2 kon1` <sup>[如东]</sup> 有空闲：这些日子～。  
+1. 【[闲空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_kon.md#闲空)】`xiaen2 kon5` <sup>[如东]</sup> 有空闲：这些日子～。  
+1. 【[闲空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_kon.md#闲空)】`xiaen2 kon5` <small>/ɕiɛ̃2 kʰɔŋ5/<sup>泰兴</sup></small> 空闲；闲暇无事的时候。<sup>\[泰兴\]</sup>  
 1. 【[闲来常思自己过，背后莫论他人非](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_lae_chan_sz.md#闲来常思自己过，背后莫论他人非)】`xiaen2 lae2 chan2 sz1 cz6 ji3 gu5 bei5 heu6 mah8 len6 ta1 ren2 fei1` <sup>[东台]</sup> 多找自己缺点，莫背后议别人之短。  
 1. 【[闲乐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_lah.md#闲乐)】`xiaen2 lah` <sup>[兴化]</sup> 空闲：这几天太忙，等～下来陪你上苏州玩玩。  
+1. 【[闲落头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_lah_teu.md#闲落头)】`xiaen2 lah8 teu` <small>/ɕiɛ̃2 lɑʔ8 tʰəɪ/<sup>泰兴</sup></small> 空闲的田地、空间。<sup>\[泰兴\]</sup>  
 1. 【[闲冷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_len.md#闲冷)】`xiaen2 len3` <sup>[兴化]</sup> 冬天，闲暇无事更觉得冷：俗说～，你手上做啊事反面不觉冷。  
 1. 【[闲老倌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_lo_gun.md#闲老倌)】`xiaen2 lo gun1` <sup>[兴化]</sup> 成天无所事事的人：他反正是个～，有事找他一喊就到。  
 1. 【[闲佬官](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_lo_gun.md#闲佬官)】`xiaen2 lo3 gun1` <sup>[东台]</sup> 闲着没事做的人：我退啊休，是个～，不像你那吖忙。（语带调侃口气。）  

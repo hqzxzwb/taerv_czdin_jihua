@@ -1279,7 +1279,7 @@
 1. 【[扁砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_zhun.md#扁砖)】`bin3 zhun1` <sup>[如东]</sup> 砖块平放，称扁砖。  
 1. 【[扁砖墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_zhun_qian.md#扁砖墙)】`bin3 zhun1 qian2` <sup>[如皋]</sup> 见“平砖墙”。  
 1. 【[扁嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_zuei.md#扁嘴)】`bin3 zuei3` <sup>[兴化]</sup> ① 撅嘴：她气啊把嘴一扁。 ② 鸭子。  
-1. 【[变](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin.md#变)】`bin5` <sup>[泰兴]</sup> ① 变的常用义（变化、变成等） ② 玄学说法，转世成为：算命的说他是猴子～的｜他死掉好几年了（ngo），怕的已经重～吖人  
+1. 【[变](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin.md#变)】`bin5` <sup>[泰兴]</sup> ① 变的常用义（变化、变成等） ② 玄学说法，转世成为：算命的说他是猴子～的｜他死掉好几年ngo，怕的已经重～吖人  
 1. 【[变不全](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_beh_qiun.md#变不全)】`bin5 beh7 qiun2` ① 身体有残疾。<sup>\[如东\]</sup> ② 比喻智力发育不健全的人。<sup>\[如东\]</sup>：连话都说不清楚，真是一个～。<sup>\[如东\]</sup> ③ （詈语）本指冤蛋，喻指笨蛋<sup>\[东台\]</sup>：他说话没数，是个～。<sup>\[东台\]</sup>  
 1. 【[变变<sub>儿</sub>天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_bin_r_tin.md#变变<sub>儿</sub>天)】`bin5 bin5 r tin1` <small>/pĩ5 pi˞5 tʰĩ1/<sup>如皋</sup></small> ① 多云的天气。<sup>\[如东\]</sup>：今朝是～，怕的要落雨。<sup>\[如东\]</sup> ② 指多云转阴的天气。<sup>\[如皋\]</sup>  
 1. 【[变狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_geu.md#变狗)】`bin5 geu3` <sup>[兴化]</sup> 斥人不讲信用：欠人的钱想天法总要还，不做～。  

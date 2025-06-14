@@ -2302,11 +2302,12 @@
 1. 【[董<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_r.md#董<sub>儿</sub>)】`don3 r` <sup>[如东]</sup> 钞票：他袋儿里的～不多啊。  
 1. 【[董糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_tan.md#董糖)】`don3 tan2` <small>/tɔŋ3 tʰã2/<sup>如皋</sup></small> ① 董小宛所制。曾自秦淮河邮给如皋冒辟疆，故又称秦邮董糖。与苏州酥糖同品系。<sup>\[如皋\]</sup> ② 旧时台城稻香村生产的一种酥糖。因其酥松容易散，故喻指不能碰的人为～。<sup>\[东台\]</sup>  
 1. 【[冻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don.md#冻)】`don5` <small>/tɔŋ5/<sup>如皋</sup></small> ① （液体或含水分的东西）遇冷凝结。<sup>\[如东\]</sup>：鱼～。<sup>\[如东\]</sup> ② 冰块。<sup>\[如东\]</sup>：水上浮啊～。<sup>\[如东\]</sup> ③ 冷。<sup>\[如东\]</sup>：～手。<sup>\[如东\]</sup> ④ 冰。<sup>\[如皋\]</sup>  
+1. 【[冻疮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_chuan.md#冻疮)】`don5 chuan` <small>/tɔŋ5 t͡sʰuɑŋ/<sup>泰兴</sup></small> 皮肤局部因受冻而成的疾病。<sup>\[泰兴\]</sup>  
 1. 【[冻疮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_chuan.md#冻疮)】`don5 chuan1` <sup>[如东]</sup> 因为寒冷，皮肤局部组织血液循环障碍而发生溃烂，称冻疮。  
 1. 【[冻疮子<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_chuan_zz_r.md#冻疮子<sub>儿</sub>)】`don5 chuan1 zz3 r` <sup>[如东]</sup> 因为寒冷，皮肤局部组织血液循环障碍而出现红肿，尚未溃烂，称冻疮子儿。  
 1. 【[冻疮籽<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_chuan_zz_r.md#冻疮籽<sub>儿</sub>)】`don5 chuan1 zz3 r` <sup>[如皋]</sup> 冻伤处有小硬块，尤以身体回暖时痛、痒难受。  
 1. 【[冻冻钉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_don_dien_r.md#冻冻钉<sub>儿</sub>)】`don5 don5 dien1 r` <small>/toŋ5 toŋ5 tiɪ̃1 ɚ/<sup>兴化</sup>, /tɔŋ5 tɔŋ5 tiə˞1/<sup>如皋</sup>, /toŋ5 toŋ5 tiŋ1 ɚ/<sup>泰县</sup></small> ① 向下挂的冰柱\[如皋：见“凌凙”。\]：老爹的胡子上挂～；檐头上挂～。<sup>\[如皋\]</sup> ② 冬天雨、雪水沿屋檐下滴凝结成椎状冰柱，也称冰凌。<sup>\[东台\]</sup> ③ 融雪时屋檐滴水结成的冰凌<sup>\[兴化\]</sup>：腊月二十九日，雪后初晴，银光耀眼，屋檐下的～，促使……（兴文《误走盐城》）》<sup>\[兴化\]</sup> ④ 冰锥儿。<sup>\[泰县\]</sup> ⑤ 冬季屋檐下凝结成的冰凌。<sup>\[泰州\]</sup>  
-1. 【[冻冻青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_don_qien.md#冻冻青)】`don5 don5 qien1` <sup>[兴化]</sup> 冬青树。  
+1. 【[冻冻青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_don_qien.md#冻冻青)】`don5 don5 qien1` <small>/toŋ5 toŋ5 t͡ɕʰin1/<sup>兴化</sup>, /tɔŋ5 tɔŋ5 t͡ɕʰiŋ1/<sup>泰兴</sup></small> 冬青树。<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>  
 1. 【[冻冻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_don_zz.md#冻冻子)】`don5 don5 zz` <sup>[兴化]</sup> 一种黏稠的液体：屙红白～（痢疾）。  
 1. 【[冻耳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_er.md#冻耳)】`don5 er3` <sup>[如皋]</sup> 熟猪耳冷冻成型，切块装盘冷食。  
 1. 【[冻缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_gan.md#冻缸)】`don5 gan1` <sup>[如东]</sup> 冬季调酵蒸馒头，存放在一只大缸里，外边用稻草或棉被包裹着，保持一定的温度，以使酵母发酵。如果温度偏低，酵母就不会发酵。这种现象称为冻缸。  
@@ -2316,7 +2317,9 @@
 1. 【[冻吖河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_nga_hu.md#冻吖河)】`don5 nga hu2` <sup>[如皋]</sup> ① 见“封冻”。 ② 即封河。  
 1. 【[冻吖起啊瘤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_nga_qi_a.md#冻吖起啊瘤)】`don5 nga qi3 a lieu2` <sup>[如皋]</sup> 冰面有许多凸起，表示气温极低。  
 1. 【[冻𤖭<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_paen_r.md#冻𤖭<sub>儿</sub>)】`don5 paen2 r` <sup>[如皋]</sup> 薄冰。小冰块。  
+1. 【[冻煞鬼变的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_shaeh_guei_bin.md#冻煞鬼变的)】`don5 shaeh guei3 bin5 dii` <small>/tɔŋ5 ɕiæʔ kuəɪ3 pĩ5 təɪ/<sup>泰兴</sup></small> 喻十分怕冷的人。<sup>\[泰兴\]</sup>  
 1. 【[冻水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_shuei.md#冻水)】`don5 shuei3` <sup>[如东]</sup> 水结冰：夜里冻吖水。  
+1. 【[冻豆腐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_teu_fv.md#冻豆腐)】`don5 teu fv` <small>/tɔŋ5 tʰəɪ fʋ/<sup>泰兴</sup></small> 冻过的豆腐，别有风味。<sup>\[泰兴\]</sup>  
 1. 【[冻蹄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_ti.md#冻蹄)】`don5 ti2` <sup>[如皋]</sup> 猪前上腿去骨，盐水煮烂起锅，连汤装盘，冷冻，色乳白透明，切块装盘冷食。  
 1. 【[冻鱼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_y_r.md#冻鱼<sub>儿</sub>)】`don5 y2 r` <sup>[泰县]</sup> 煮熟后冷冻的小鱼。  
 1. 【[多](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du.md#多)】`du1` 多，不少  

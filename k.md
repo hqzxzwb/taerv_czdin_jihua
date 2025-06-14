@@ -1094,6 +1094,7 @@
 1. 【[苦做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_zu.md#苦做)】`kv3 zu5` <sup>[兴化]</sup> 辛勤劳动，不怕吃苦：小吴家底子穷，一家一当全是两口子～挣起来的。  
 1. 【[库](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv.md#库)】`kv5` <sup>[如皋]</sup> 供烧化给死者的，用芦柴作架、纸糊的房屋、家具、衣物等的总称：化～、扎～。  
 1. 【[库匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_qian.md#库匠)】`kv5 qian6` <sup>[如东]</sup> 为死人制作纸屋、纸箱、纸衣的小手工业者。  
+1. 【[库箬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_rah.md#库箬)】`kv5 rah` <small>/kʰu5 ɻɑʔ/<sup>泰兴</sup></small> 包裹果实的植物叶片<sup>\[泰兴\]</sup>：玉米～<sup>\[泰兴\]</sup>  
 1. 【[裤衩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_cha.md#裤衩)】`kv5 cha3` <sup>[东台]</sup> 同“裤头”。  
 1. 【[裤带子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_dae_zz.md#裤带子)】`kv5 dae5 zz` <sup>[兴化]</sup> ① 裤腰带。 ② （借）指女人作风：这个婆娘～不紧。  
 1. 【[裤裆巷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_dan_han.md#裤裆巷)】`kv5 dan1 han6` <sup>[东台]</sup> 原何垛场西一条形似裤衩的巷子，东台城名医姜子维私人医院（后为东台镇医院）住址也在此巷内。  

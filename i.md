@@ -372,6 +372,7 @@
 1. 【[洋瓷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_cz.md#洋瓷)】`ian2 cz2` 俗称搪瓷，以石英、长石、硝石、碳酸钠等高温熔制成珐琅，涂于低碳薄钢板冲压成的各式器皿胚胎上，待干燥后送入炉内焙烧而成。<sup>\[泰州\]</sup>  
 1. 【[洋大头菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_da_teu_cae.md#洋大头菜)】`ian2 da6 teu2 cae5` <sup>[如皋]</sup> 芜菁甘兰。十字花科。  
 1. 【[洋灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_den.md#洋灯)】`ian2 den1` <sup>[如皋]</sup> 点洋油（煤油）的灯。  
+1. 【[洋灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_den.md#洋灯)】`ian2 den1` <small>/iɑŋ2 təŋ1/<sup>泰兴</sup></small> 即孔明灯。民俗，元宵节期间晚上施放～，县域内以曲霞地方此风最盛。<sup>\[泰兴\]</sup>  
 1. 【[洋灯罩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_den_zho_r.md#洋灯罩<sub>儿</sub>)】`ian2 den1 zho5 r` <sup>[如皋]</sup> 葫芦形玻璃罩儿，原称“美孚罩”。  
 1. 【[洋钉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_dien.md#洋钉)】`ian2 dien1` 铁钉。<sup>\[东台\]</sup>\[泰州：机器轧的圆钉，顶圆片形，钉身呈圆柱形，旧时从国外引进，故名。\]  
 1. 【[洋钉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_dien_r.md#洋钉<sub>儿</sub>)】`ian2 dien1 r` 铁钉  
@@ -1374,7 +1375,7 @@
 1. 【[应急](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_jieh.md#应急)】`ien5 jieh7` <sup>[东台]</sup> 应付迫切的需要：要随时准备～的措施。  
 1. 【[应景](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_jien.md#应景)】`ien5 jien3` <sup>[东台]</sup> 为了适应当前情况而勉强做某事。  
 1. 【[应卯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_mo.md#应卯)】`ien5 mo3` <sup>[如东]</sup> 旧时官府每天卯时点名，到班人员答应一声，表示已到：天天都要去～。  
-1. 【[应派](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_pae.md#应派)】`ien5 pae5` <small>/in5 pʰɛ5/<sup>兴化</sup>, /iəŋ5 pʰɛ5/<sup>如皋</sup></small> ① 应该，有强调义：孝顺上人是～的。<sup>\[如皋\]</sup> ② 理应、应该<sup>\[兴化\]</sup>：老太太过八十岁，我晚辈～替她祝寿。<sup>\[兴化\]</sup>｜他应卯是喜事，你们～出份金恭贺他……（《武松》一）<sup>\[兴化\]</sup>  
+1. 【[应派](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_pae.md#应派)】`ien5 pae5` <small>/in5 pʰɛ5/<sup>兴化</sup>, /iəŋ5 pʰɛ5/<sup>如皋</sup>, /iŋ5 pʰɛ5/<sup>泰兴</sup></small> 理应，应该<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>\[如皋：有强调义\]：孝顺上人是～的。<sup>\[如皋\]</sup>｜老太太过八十岁，我晚辈～替她祝寿。<sup>\[兴化\]</sup>｜他应卯是喜事，你们～出份金恭贺他……（《武松》一）<sup>\[兴化\]</sup>  
 1. 【[应聘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_pien.md#应聘)】`ien5 pien5` <sup>[东台]</sup> 接受聘请。  
 1. 【[应七](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_qieh.md#应七)】`ien5 qieh7` <sup>[东台]</sup> 民间办丧事烧七，答应从“头七”到“断七”一次不少地参加祭祀活动的，叫做～。  
 1. 【[应声](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_shen.md#应声)】`ien5 shen1` <sup>[如皋]</sup> ① 应答。 ② 回声。  

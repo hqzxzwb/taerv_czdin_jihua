@@ -1439,7 +1439,7 @@
 1. 【[挑鲜的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_xin_dii.md#挑鲜的)】`tio1 xin1 dii` <sup>[如东]</sup> 挑海鲜到市场上去出卖的小贩。  
 1. 【[挑针](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_zhen.md#挑针)】`tio1 zhen1` <sup>[如皋]</sup> ① 梳头髮时分缝用的骨针或篾针。 ② 一种针法。  
 1. 【[挑猪草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_zhv_co.md#挑猪草)】`tio1 zhv1 co3` <sup>[如皋]</sup> 打猪草。  
-1. 【[条凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_den.md#条凳)】`tio2 den5` <small>/tʰiɔ2 tən5/<sup>兴化</sup>, /tʰiɔ2 təŋ5/<sup>如皋</sup>, /tʰiɔ2 təŋ5/<sup>泰县</sup></small> ① 即“高凳”。<sup>\[如皋\]</sup> ② 凳的一种。木制，长100厘米，宽12厘米高48厘米。坐两个人。也叫板凳、高凳。<sup>\[如东\]</sup> ③ 狭长的木凳。<sup>\[兴化\]</sup> ④ 长凳。<sup>\[泰县\]</sup> ⑤ 狭长条形有腿没有靠背的坐具，高度约同膝盖到地高度，可坐四至六人。<sup>\[泰州\]</sup>  
+1. 【[条凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_den.md#条凳)】`tio2 den5` <small>/tʰiɔ2 tən5/<sup>兴化</sup>, /tʰiɔ2 təŋ5/<sup>如皋</sup>, /tʰiɔ2 təŋ5/<sup>泰兴</sup>, /tʰiɔ2 təŋ5/<sup>泰县</sup></small> ① 即“高凳”。<sup>\[如皋\]</sup> ② 凳的一种。木制，长100厘米，宽12厘米高48厘米。坐两个人。也叫板凳、高凳。<sup>\[如东\]</sup> ③ 狭长的凳子。<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup> ④ 狭长条形有腿没有靠背的坐具，高度约同膝盖到地高度，可坐四至六人。<sup>\[泰州\]</sup>  
 1. 【[条规](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_guei.md#条规)】`tio2 guei1` <sup>[如东]</sup> 规矩：做事要上～。  
 1. 【[条虾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_ha.md#条虾)】`tio2 ha1` <sup>[如东]</sup> 对虾科动物中国对虾，体长18-24厘米。身体长而侧扁。甲壳薄，光滑透明，雌体青蓝色，雄体棕黄色。通常雌体大于雄体。全体由20节组成，头部5节，胸部8节，腹部7节。除尾节外，各节均有附肢1对。步足5对，前3对呈钳状，后2对呈爪状。头胸前缘中央突出形成额角。额角上下缘均有锯齿。生活在泥沙底的浅海中。肉质鲜美。是如东特色海鲜。  
 1. 【[条理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_li.md#条理)】`tio2 li3` <sup>[如东]</sup> 次序，规矩：他做事有～。  
