@@ -2336,8 +2336,9 @@
 1. 【[卵脬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_po.md#卵脬)】`lun3 po1` <small>/lʊ̃3 pʰɔ1/<sup>如皋</sup></small> ① 睾丸。俗称卵子。<sup>\[如东\]</sup> ② 阴囊。<sup>\[如皋\]</sup>  
 1. 【[卵<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_r.md#卵<sub>儿</sub>)】`lun3 r` <small>/lʊ˞3/<sup>如皋</sup></small> ① 小型的球状体。<sup>\[如东\]</sup>：羊毛与晴纶混纺的毛线编织的毛线衣容易产生～。<sup>\[如东\]</sup> ② 阴囊。<sup>\[如皋\]</sup>  
 1. 【[卵蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_taen.md#卵蛋)】`lun3 taen6` <sup>[兴化]</sup> 睾丸。也说“卵子儿”。  
-1. 【[卵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_zz.md#卵子)】`lun3 zz` ① 睾丸 ② （注意“子”轻读）雄性阴囊及睾丸。<sup>\[东台\]</sup> ③ 男性睾丸。<sup>\[泰州\]</sup> ④ 男性外生殖器。<sup>\[泰州\]</sup>  
+1. 【[卵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_zz.md#卵子)】`lun3 zz` ① 睾丸 ② 又指男性外生殖器。<sup>\[泰州\]</sup><sup>\[东台\]</sup>  
 1. 【[卵子皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_zz_pi.md#卵子皮)】`lun3 zz pi2` <sup>[如皋]</sup> 阴囊。  
+1. 【[卵子子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_zz_zz.md#卵子子)】`lun3 zz zz3` <small>/lʊ̃3 t͡sɿ t͡sɿ3/<sup>泰兴</sup></small> 睾丸。<sup>\[泰兴\]</sup>  
 1. 【[卵子籽<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_zz_zz_r.md#卵子籽<sub>儿</sub>)】`lun3 zz zz3 r` <sup>[如皋]</sup> 睾丸。  
 1. 【[卵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_zz.md#卵子)】`lun3 zz3` <sup>[东台]</sup> 女性的生殖细胞。  
 1. 【[漤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun.md#漤)】`lun3` <small>/lũ3/<sup>兴化</sup>, /lʊ̃3/<sup>如皋</sup></small> ① 使之吸附<sup>\[如皋\]</sup>：拿馒头把碗里的鱼汤～掉；倒点儿泡灰～伢儿尿。<sup>\[如皋\]</sup> ② “用布吸水”之义<sup>\[东台\]</sup>：茶杯倒啊，快点儿用搌布把办公桌～下子。<sup>\[东台\]</sup> ③ 揩去少量积水<sup>\[兴化\]</sup>：拿干布～水。<sup>\[兴化\]</sup> ④ 沾上、挨上<sup>\[兴化\]</sup>：身上～吖潮；衣装～脏吖；～堂灰。<sup>\[兴化\]</sup> ⑤ 用布吸取液体<sup>\[泰州\]</sup>：桌上的汤都捱你的衣袖～掉啊唻。<sup>\[泰州\]</sup>｜拿搌布把地板上的油～掉。<sup>\[泰州\]</sup>  

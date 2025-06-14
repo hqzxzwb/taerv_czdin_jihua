@@ -1345,7 +1345,7 @@
 1. 【[饮料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_lio.md#饮料)】`ien3 lio6` <sup>[如东]</sup> 经过加工而供饮用的液体，如酒、茶、汽水、橘子水等。  
 1. 【[饮食店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_sheh_din.md#饮食店)】`ien3 sheh din5` <sup>[如皋]</sup> 制作并出售酒、饭、菜肴、面点的店家。  
 1. 【[饮食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_sheh.md#饮食)】`ien3 sheh8` <sup>[如东]</sup> 食物：～哿好？  
-1. 【[饮汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_tan.md#饮汤)】`ien3 tan1` <small>/in3 tʰaŋ1/<sup>兴化</sup>, /iəŋ3 tʰã1/<sup>如皋</sup></small> ① 粥汤 ② 粥汁。<sup>\[如皋\]</sup> ③ 用大米或其他粮食熬的流汁。<sup>\[如东\]</sup> ④ 米汤。<sup>\[兴化\]</sup> ⑤ 煮饭煮粥时产生的米汤，坊间以为饮汤极富营养。<sup>\[泰州\]</sup>  
+1. 【[饮汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_tan.md#饮汤)】`ien3 tan1` <small>/in3 tʰaŋ1/<sup>兴化</sup>, /iəŋ3 tʰã1/<sup>如皋</sup>, /iŋ3 tʰɑŋ1/<sup>泰兴</sup></small> ① 粥汤 ② 粥汁。<sup>\[如皋\]</sup> ③ 用大米或其他粮食熬的流汁。<sup>\[如东\]</sup> ④ 米汤。<sup>\[兴化\]</sup> ⑤ 煮饭煮粥时产生的米汤，坊间以为饮汤极富营养。<sup>\[泰州\]</sup> ⑥ 没有米粒的米汤。<sup>\[泰兴\]</sup>：米～<sup>\[泰兴\]</sup>  
 1. 【[饮汤粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_tan_zhoh.md#饮汤粥)】`ien3 tan1 zhoh7` <sup>[东台]</sup> 与“米饮汤”近义。东台词典此处用“影”字，出自扬州评话中“施恩派衙役送影汤粥饲喂武松”，大概是因粥太稀薄，可照见人影。  
 1. 【[印](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien.md#印)】`ien5` <small>/iəŋ5/<sup>如皋</sup></small> ① 印痕、痕迹：咬啊个牙子～。创口缝合后有百脚～、脚～、手～、折～。<sup>\[如皋\]</sup> ② 印刷：～书、油～。<sup>\[如皋\]</sup> ③ ［引］透，穿透<sup>\[东台\]</sup>：群众骂恬不知耻的人是“脸厚，三薄刀斫不～”。<sup>\[东台\]</sup>  
 1. 【[印版](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_baen.md#印版)】`ien5 baen3` <sup>[兴化]</sup> 印刷用的木板：他俫两个人一个腔调，赛如一副～印出来的。  

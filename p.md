@@ -828,16 +828,17 @@
 1. 【[炮仗捻子——一点就着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_zhan_nin_zz.md#炮仗捻子——一点就着)】`po5 zhan5 nin3 zz ieh7 din3 qieu6 chah8` <sup>[东台]</sup>   
 1. 【[炮子<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_zz_r.md#炮子<sub>儿</sub>)】`po5 zz3 r` <sup>[兴化]</sup> ① 老式火炮的弹丸，如碎石、碎铁等。 ② 骂人遭炮轰：这个～，不得好死！  
 1. 【[刨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po.md#刨)】`po6` <small>/pʰɔ6/<sup>兴化</sup></small> 刨削水果或冬瓜等的皮<sup>\[兴化\]</sup>：～梨子。<sup>\[兴化\]</sup>  
+1. 【[刨不动冬瓜刨瓠子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_beh_ton_don.md#刨不动冬瓜刨瓠子)】`po6 beh ton6 don1 gua po6 v6 zz` <small>/pʰɔ1 pəʔ tʰɔŋ1 tɔŋ1 kuɑ pʰɔ1 ʋ1 t͡sɿ/<sup>泰兴</sup></small> 喻没有本领压服这个，就去压服那个。<sup>\[泰兴\]</sup>：～，打不过嫲嫲打猪子<sup>\[泰兴\]</sup>  
 1. 【[刨床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_chuan.md#刨床)】`po6 chuan2` <sup>[如东]</sup> 车床的一种。有各种规格。用于加工金属材料的平面和直线。  
 1. 【[刨刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_do.md#刨刀)】`po6 do1` <sup>[如东]</sup> 创床上用来加工金属材料的刀具。  
 1. 【[刨工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_gon.md#刨工)】`po6 gon1` <sup>[如东]</sup> 工种的一种。以操纵刨床为职业的工人。  
-1. 【[刨花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_hua.md#刨花)】`po6 hua1` <small>/pʰɔ6 xua1/<sup>兴化</sup></small> ① 加工木料时刨下来的薄片，呈卷状。<sup>\[如东\]</sup> ② 木工刨削材料刨下来的卷圈状的碎片。<sup>\[东台\]</sup> ③ 旧时妇女梳头整理发型的化妆用品。<sup>\[东台\]</sup> ④ 特指桐木刨出的薄长片，泡出的水稍带黏性，过去女人用来梳头掠发<sup>\[兴化\]</sup>：店面的招牌上虽写着“京广洋货，零趸批发”，所卖的却只是……～，抿子……（汪曾祺《岁寒三友》）<sup>\[兴化\]</sup> ⑤ 木匠刨平木料时刨出的薄木片<sup>\[泰州\]</sup>：这些～不要撂，留啊家里着炉子用。<sup>\[泰州\]</sup>  
+1. 【[刨花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_hua.md#刨花)】`po6 hua1` <small>/pʰɔ6 xua1/<sup>兴化</sup>, /pʰɔ1 xuɑ1/<sup>泰兴</sup></small> ① 加工木料时刨下来的薄片，呈卷状。<sup>\[如东\]</sup> ② 木工刨削材料刨下来的卷圈状的碎片。<sup>\[东台\]</sup> ③ 旧时妇女梳头整理发型的化妆用品。<sup>\[东台\]</sup> ④ 特指桐木刨出的薄长片，泡出的水稍带黏性，过去女人用来梳头掠发<sup>\[兴化\]</sup>：店面的招牌上虽写着“京广洋货，零趸批发”，所卖的却只是……～，抿子……（汪曾祺《岁寒三友》）<sup>\[兴化\]</sup> ⑤ 木匠刨平木料时刨出的薄木片<sup>\[泰州\]</sup>：这些～不要撂，留啊家里着炉子用。<sup>\[泰州\]</sup> ⑥ 木工刨作时产生的木花。<sup>\[泰兴\]</sup>  
 1. 【[刨花缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_hua_gan.md#刨花缸)】`po6 hua1 gan1` <sup>[东台]</sup> 用来浸泡妇女梳头整理发型刨花的瓷器。  
 1. 【[刨花铁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_hua_tih.md#刨花铁)】`po6 hua1 tih7` <sup>[兴化]</sup> 从机床上切削下来铁丝和铁屑。  
 1. 【[刨㐁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_tin_zz.md#刨㐁子)】`po6 tin5 zz` <sup>[如东]</sup> 刀具。铁制，长方形，口锋利。插在刨子中间，用以刨平、刨光木料。  
 1. 【[刨瓠子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_v_zz.md#刨瓠子)】`po6 v6 zz` <sup>[兴化]</sup> （喻）瓠子的皮易刨，喻指拣较软弱的人欺侮：谚曰：欺不过冬瓜～。｜他呐，黄瓜刨不过来～……他不敢跟康文琐碎，就拿知州出出气了。（《武松》六）  
 1. 【[刨削](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_xiah.md#刨削)】`po6 xiah7` <sup>[东台]</sup> ［引］批评、指责、驳斥。  
-1. 【[刨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_zz.md#刨子)】`po6 zz` <small>/pʰɔ1 t͡se/<sup>泰县</sup></small> 木工的工具。可以刨平、刨光木料。<sup>\[泰县\]</sup>\[如东：木制，长条形，底平，腰间有捏手。\]  
+1. 【[刨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_zz.md#刨子)】`po6 zz` <small>/pʰɔ1 t͡sɿ/<sup>泰兴</sup>, /pʰɔ1 t͡se/<sup>泰县</sup></small> ① 木工的工具。可以刨平、刨光木料。<sup>\[泰县\]</sup><sup>\[泰兴\]</sup>\[如东：木制，长条形，底平，腰间有捏手。\] ② 去除瓜果皮壳之类的小器具。<sup>\[泰兴\]</sup>  
 1. 【[抱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po.md#抱)】`po6` <small>/pʰɔ6/<sup>兴化</sup></small> ① 结合在一起<sup>\[兴化\]</sup>：他俫～成一团，有事情互相照应。<sup>\[兴化\]</sup> ② （借）俘虏<sup>\[兴化\]</sup>：一个班伪军捱新四军～走啊。<sup>\[兴化\]</sup> ③ 收养（小孩）<sup>\[泰州\]</sup>：他家伢儿是～的。<sup>\[泰州\]</sup>  
 1. 【[抱/菢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po.md#抱/菢)】`po6` （鸟）孵蛋<sup>\[泰州\]</sup>：～窠<sup>\[泰州\]</sup>｜这几个小鸡都是家里老母鸡～的。<sup>\[泰州\]</sup>  
 1. 【[抱啊木炭亲嘴——碰一鼻子灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_a_moh_taen.md#抱啊木炭亲嘴——碰一鼻子灰)】`po6 a moh8 taen5 qien1 jy3 pon5 ieh7 pieh8 zz huei1` <sup>[东台]</sup>   

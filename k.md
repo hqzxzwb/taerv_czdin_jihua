@@ -788,6 +788,7 @@
 1. 【[絖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan.md#絖)】`kuan1` <sup>[如皋]</sup> ① 动词：～丝线、～头绳。 ② 名词：丝～子、线～子。 ③ 量词：一～棉线。  
 1. 【[诓骗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan_pin.md#诓骗)】`kuan1 pin5` <sup>[东台]</sup> 瞒哄、欺骗。  
 1. 【[狂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan.md#狂)】`kuan2` <sup>[如皋]</sup> 见“疯”。指小孩贪玩无节制。  
+1. 【[狂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan.md#狂)】`kuan2` <small>/kʰuɑŋ2/<sup>泰兴</sup></small> 纵情；恣意。凶猛；猛烈。妄自尊大。<sup>\[泰兴\]</sup>：他现在～ngae<sup>\[泰兴\]</sup>  
 1. 【[狂风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan_fon.md#狂风)】`kuan2 fon1` <sup>[东台]</sup> 猛烈的风。  
 1. 【[狂话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan_hua.md#狂话)】`kuan2 hua6` <small>/kʰuaŋ2 xua6/<sup>兴化</sup></small> ① 狂妄、不知轻重的话<sup>\[兴化\]</sup>：“……不是说句～，我们做出来的事，他敢道一个‘不’字……”（《官场现形记》五二）<sup>\[兴化\]</sup> ② 狂妄、不知深浅的话<sup>\[泰州\]</sup>：说句～，他这两个工资根本不在乎。<sup>\[泰州\]</sup>  
 1. 【[狂言](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan_in.md#狂言)】`kuan2 in2` <sup>[东台]</sup> ① 狂妄的话：口出～。 ② 胡说。  

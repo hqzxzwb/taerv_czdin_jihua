@@ -112,7 +112,7 @@
 1. 【[雨心里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_xien_lii.md#雨心里)】`y3 xien1 lii` <sup>[如皋]</sup> 正下雨的地方。  
 1. 【[雨星子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_xien_zz.md#雨星子)】`y3 xien1 zz` <sup>[如皋]</sup> 飘动的稀疏的小雨滴。  
 1. 【[雨涍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_xio.md#雨涍)】`y3 xio5` <sup>[如皋]</sup> 阵雨急停，又下。见“涍雨”。  
-1. 【[喂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y.md#喂)】`y5` <small>/y5/<sup>如皋</sup></small> 喂食<sup>\[如皋\]</sup><sup>\[东台\]</sup>：～料、～饭。<sup>\[如皋\]</sup>｜给伢儿～奶/给病人～点儿汤。<sup>\[东台\]</sup>  
+1. 【[喂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y.md#喂)】`y5` <small>/y5/<sup>如皋</sup>, /y5/<sup>泰兴</sup></small> 喂食<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>：～料、～饭。<sup>\[如皋\]</sup>｜给伢儿～奶<sup>\[东台\]</sup>｜给病人～点儿汤。<sup>\[东台\]</sup>｜～宝宝<sup>\[泰兴\]</sup>｜～点饭把他<sup>\[泰兴\]</sup>｜～他点饭<sup>\[泰兴\]</sup>｜～奶、～饭<sup>\[泰兴\]</sup>  
 1. 【[喂不饱的鹰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_beh_bo_dii.md#喂不饱的鹰)】`y5 beh7 bo3 dii ien1` <sup>[如皋]</sup> 比喻欲壑难填。  
 1. 【[𢲴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y.md#𢲴)】`y5` <sup>[如皋]</sup> 添加材料：打草包时～草要均匀。  
 1. 【[𣢒𣢒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_y.md#𣢒𣢒)】`y5 y5` <sup>[如皋]</sup> 唤猪声。  

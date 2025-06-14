@@ -250,6 +250,7 @@
 1. 【[反汛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_xien.md#反汛)】`faen3 xien5` <sup>[如东]</sup> 天气突然变化，出现暴风或大潮等现象，叫做反汛。  
 1. 【[反正](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_zhen.md#反正)】`faen3 zhen5` <sup>[如皋]</sup> 见“里外里”。  
 1. 【[返重工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_chon_gon.md#返重工)】`faen3 chon2 gon1` <sup>[如东]</sup> 翻工。  
+1. 【[返青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_qien.md#返青)】`faen3 qien1` <small>/fɛ̃3 t͡ɕʰiŋ1/<sup>泰兴</sup></small> 指某些植物的幼苗移栽或越冬后，由黄变绿恢复生长的状态。<sup>\[泰兴\]</sup>  
 1. 【[㽹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen.md#㽹)】`faen5` <small>/fɛ̃5/<sup>兴化</sup></small> ① 恶心，想呕吐<sup>\[东台\]</sup>：作～。（《玉篇》“㽹，吐㽹也。”）<sup>\[东台\]</sup> ② 胃子不舒服，恶心欲吐。《广韵·愿韵》芳万切：“～，吐㽹。”<sup>\[兴化\]</sup>：油腻东西吃多啊，心里作～。<sup>\[兴化\]</sup>｜心里～～的要吐。<sup>\[兴化\]</sup> ③ 反胃，恶心欲吐，见“作㽹”<sup>\[泰州\]</sup>：心里～～的，难过煞咖。<sup>\[泰州\]</sup>  
 1. 【[㽹㽹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_faen.md#㽹㽹)】`faen5 faen5` <sup>[泰县]</sup> 身体不适，要呕吐的样子：昨朝受啊凉，心里头～。  
 1. 【[㽹㽹的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_faen_dii.md#㽹㽹的)】`faen5 faen5 dii` <sup>[泰州]</sup> 恶心欲吐的感觉：先头子心里～，这一刻儿好啊唻。  
@@ -325,6 +326,7 @@
 1. 【[饭苍蝇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_can_ien.md#饭苍蝇)】`faen6 can1 ien` <sup>[如皋]</sup> 舍蝇。双翅目。  
 1. 【[饭辰光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_chen_guan.md#饭辰光)】`faen6 chen2 guan` <sup>[如皋]</sup> 中午。  
 1. 【[饭匣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_gaeh_zz.md#饭匣子)】`faen6 gaeh7 zz` <sup>[泰州]</sup> 铝制的有盖饭盒，一般为长方体，也有两头稍带弧度的。  
+1. 【[饭锅巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_gu_ba.md#饭锅巴)】`faen6 gu1 ba` <small>/fɛ̃1 kɤɯ1 pɑ/<sup>泰兴</sup></small> 锅巴。靠锅底的一层发黄微焦的硬饭。<sup>\[泰兴\]</sup>  
 1. 【[饭瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_gua.md#饭瓜)】`faen6 gua1` <small>/fɛ̃6 kua1/<sup>兴化</sup>, /fɛ̃1 kua1/<sup>泰县</sup></small> 南瓜。<sup>\[兴化\]</sup><sup>\[泰县\]</sup>  
 1. 【[饭后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_heu.md#饭后)】`faen6 heu6` ① 下午。<sup>\[如东\]</sup>：～再说。<sup>\[如东\]</sup> ② 正午12点至下午3点这段时间。<sup>\[泰州\]</sup>  
 1. 【[饭后百步走，活到九十九](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_heu_boh_pv.md#饭后百步走，活到九十九)】`faen6 heu6 boh7 pv6 zeu3 huh8 do5 jieu3 sheh8 jieu3` <sup>[东台]</sup> 饭后适当运动有助于消化，有利于健康。  
@@ -333,13 +335,14 @@
 1. 【[饭缘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_iun.md#饭缘)】`faen6 iun2` <sup>[兴化]</sup> 性命的隐语，谓人与饭食的缘份：他这一病，～怕的要满吖。  
 1. 【[饭客人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_keh_ren.md#饭客人)】`faen6 keh7 ren` <sup>[如皋]</sup> ① 饭店的顾客。 ② 谑指回家吃饭的人。  
 1. 【[饭口里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_keu_lii.md#饭口里)】`faen6 keu3 lii` <sup>[东台]</sup> 到吃饭时间了。  
+1. 【[饭量](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_lian.md#饭量)】`faen6 lian6` <small>/fɛ̃1 liɑŋ1/<sup>泰兴</sup></small> 一个人一顿饭能吃的食物的量。<sup>\[泰兴\]</sup>  
 1. 【[饭力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_lieh.md#饭力)】`faen6 lieh8` <sup>[东台]</sup> 就是饭量，指一顿饭能吃多少。  
 1. 【[饭米糁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_mi_sun.md#饭米糁)】`faen6 mi3 sun` <small>/fɛ̃6 mi3 sũ/<sup>兴化</sup>, /fẽ1 mʝ3 sʊ̃/<sup>如皋</sup></small> ① 熟米粒。<sup>\[如皋\]</sup> ② 米饭粒。<sup>\[兴化\]</sup>  
 1. 【[饭面子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_min_zz.md#饭面子)】`faen6 min6 zz` <sup>[如皋]</sup> 饭的上表层。  
 1. 【[饭牙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_nga.md#饭牙)】`faen6 nga2` <sup>[兴化]</sup> 恒齿。  
 1. 【[饭前](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_qin.md#饭前)】`faen6 qin2` ① 上午。<sup>\[如东\]</sup>：～出发。<sup>\[如东\]</sup> ② 上午9点至中午12点这段时间。<sup>\[泰州\]</sup>  
 1. 【[饭局](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_qioh.md#饭局)】`faen6 qioh8` <sup>[泰州]</sup> 预先约定好的宴请：天天晚上有～。  
-1. 【[饭食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_sheh.md#饭食)】`faen6 sheh8` <small>/fẽ1 səʔ8/<sup>如皋</sup></small> ① 伙食的总称。<sup>\[如东\]</sup>：他家的～不错。<sup>\[如东\]</sup> ② 家中伙食总体称<sup>\[如皋\]</sup>：他家～不丑。<sup>\[如皋\]</sup>  
+1. 【[饭食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_sheh.md#饭食)】`faen6 sheh8` <small>/fẽ1 səʔ8/<sup>如皋</sup>, /fɛ̃1 səʔ8/<sup>泰兴</sup></small> ① 伙食的总称。<sup>\[如东\]</sup>：他家的～不错。<sup>\[如东\]</sup> ② 家中伙食总体称<sup>\[如皋\]</sup>：他家～不丑。<sup>\[如皋\]</sup> ③ 食品，食物。<sup>\[泰兴\]</sup>  
 1. 【[饭食钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_sheh_qin.md#饭食钱)】`faen6 sheh8 qin2` <small>/fɛ̃6 səʔ8 t͡ɕʰiɪ̃2/<sup>兴化</sup></small> 伙食费。<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：谚曰：养女儿算～，一世嫁不出。<sup>\[兴化\]</sup>｜他家家里五个人，每个月的～在四千块左右。<sup>\[泰州\]</sup>  
 1. 【[饭熟咖凑把火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_shoh_ga_ceu.md#饭熟咖凑把火)】`faen6 shoh8 ga ceu5 ba hu3` <sup>[如皋]</sup> 喻别人行将完成之时，他乘机混进来捞资本。  
 1. 【[饭熟咖凑把火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_shoh_ga_ceu.md#饭熟咖凑把火)】`faen6 shoh8 ga ceu5 ba3 hu3` <sup>[东台]</sup> ［喻］对某事没有真出力，事已办好才来做做样子。  
@@ -349,7 +352,7 @@
 1. 【[饭桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_ton.md#饭桶)】`faen6 ton3` 盛饭的桶。比喻光会吃饭不会做事的人。<sup>\[如东\]</sup><sup>\[泰州\]</sup>  
 1. 【[饭团](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_tun.md#饭团)】`faen6 tun2` <sup>[泰州]</sup> 小团状米饭块。  
 1. 【[饭团子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_tun_zz.md#饭团子)】`faen6 tun2 zz` <sup>[兴化]</sup> 成块的米饭。  
-1. 【[饭碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_un.md#饭碗)】`faen6 un3` ① 碗的一种，主要用于盛饭。比喻职业。<sup>\[如东\]</sup>：不能把～丢掉。<sup>\[如东\]</sup> ② ［喻］维持生计的职业<sup>\[东台\]</sup>：铁～；毕业后总先要寻个～。<sup>\[东台\]</sup> ③ 比喻赖以为生的职业<sup>\[泰州\]</sup>：你天天上班迟到噢，不要把～弄吖丢掉。<sup>\[泰州\]</sup>  
+1. 【[饭碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_un.md#饭碗)】`faen6 un3` <small>/fɛ̃1 ʊ̃/<sup>泰兴</sup></small> 比喻生计、职业<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：不能把～丢掉。<sup>\[如东\]</sup>｜铁～；毕业后总先要寻个～。<sup>\[东台\]</sup>｜你天天上班迟到噢，不要把～弄吖丢掉。<sup>\[泰州\]</sup>｜把～弄吖𠫓掉/弄丢工作<sup>\[泰兴\]</sup>  
 1. 【[饭焐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_v_zz.md#饭焐子)】`faen6 v5 zz` <small>/fɛ̃6 u5 t͡sɿ/<sup>兴化</sup>, /fẽ1 ʋu5 t͡sɿ/<sup>如皋</sup></small> ① 给贮饭器加的保温层。<sup>\[如皋\]</sup> ② 草编或塑料制品，为熟饭保温的用具。<sup>\[兴化\]</sup> ③ 一种有盖的保温器物，体积稍稍大于容器，用草编制或者用布包上棉花缝制而成，上面有盖，将刚烧熟的粥饭，连饭锅带锅盖放入里面，在用草盖（棉盖）将其捂好，主要用于冬季对粥饭的保温。<sup>\[泰州\]</sup>  
 1. 【[饭桩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_zhuan_zz.md#饭桩子)】`faen6 zhuan1 zz` <sup>[泰县]</sup> 发育期饭量大的人。  
 1. 【[方世](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_shr.md#方世)】`fan shr5` <sup>[如皋]</sup> 待人处世不讲人情、友谊，得罪于人：处～。  
