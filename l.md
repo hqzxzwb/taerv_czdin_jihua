@@ -822,6 +822,7 @@
 1. 【[冷水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_shuei.md#冷水)】`len3 shuei3` <sup>[如东]</sup> ① 凉水。 ② 生水。  
 1. 【[冷咝咝的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_sz_sz_dii.md#冷咝咝的)】`len3 sz1 sz1 dii` <sup>[如皋]</sup> 寒冷或怕冷的样子。  
 1. 【[冷淡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_taen.md#冷淡)】`len3 taen6` <sup>[如东]</sup> ① 不热情。 ② 不热闹。  
+1. 【[冷腾干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_ten_gun.md#冷腾干)】`len3 ten gun1` <small>/ləŋ3 tʰəŋ kʊ̃1/<sup>泰兴</sup></small> 已干而未干好。<sup>\[泰兴\]</sup>  
 1. 【[冷天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_tin.md#冷天)】`len3 tin1` <sup>[兴化]</sup> 冬天：他是个大胖子，怕热，到～才舒服。  
 1. 【[冷天时候](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_tin_shr_heu.md#冷天时候)】`len3 tin1 shr2 heu` <sup>[如皋]</sup> 冬天。  
 1. 【[冷兮兮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_xi_xi.md#冷兮兮)】`len3 xi1 xi1` <small>/ləŋ3 ɕʝ1 ɕʝ1/<sup>泰兴</sup></small> 很冷的样子。<sup>\[泰兴\]</sup>  
