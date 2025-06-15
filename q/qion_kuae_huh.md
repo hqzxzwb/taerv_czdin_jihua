@@ -8,3 +8,9 @@ qion2 kuae5 huh8
 qion2 kuae5 huh
 > 泰州方言词典4
 - 在处境困难时仍然自得其乐。
+
+# 穷快活
+qion2 kuae5 huh
++ 穷困中寻找欢乐。
+  * 泰兴方言辞典
+    + “快活”又音 kuae5 uah
