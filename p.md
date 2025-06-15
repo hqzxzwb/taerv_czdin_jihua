@@ -602,6 +602,7 @@
 1. 【[苹果](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_gu.md#苹果)】`pien2 gu3` <sup>[如东]</sup> 蔷薇科植物苹果，落叶乔木。  
 1. 【[苹果菊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_gu_jioh.md#苹果菊)】`pien2 gu3 jioh7` <sup>[如皋]</sup> 茶菊。  
 1. 【[苹果皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_gu_pi.md#苹果皮)】`pien2 gu3 pi2` <sup>[如东]</sup> 蔷薇科植物苹果皮，人中药。治反胃吐痰。  
+1. 【[评工记分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_gon_ji_fen.md#评工记分)】`pien2 gon1 ji5 fen1` <small>/pʰiŋ2 kɔŋ1 t͡ɕʝ5 fəŋ1/<sup>泰兴</sup></small> 大呼隆时期（主要是人民公社时期）评定社员劳动成绩、计算工分的一种方法。<sup>\[泰兴\]</sup>  
 1. 【[品](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien.md#品)】`pien3` <small>/pʰiɪ̃3/<sup>兴化</sup>, /pʰiəŋ3/<sup>如皋</sup></small> ① 物品。<sup>\[如皋\]</sup> ② 体察好坏。<sup>\[如皋\]</sup> ③ 性格<sup>\[兴化\]</sup>：他就是这个～，说打就上屋。<sup>\[兴化\]</sup> ④ 品质<sup>\[兴化\]</sup>：……我也不晓得他们这班文人的～这个丑法子·（《火烧赤壁》一）<sup>\[兴化\]</sup>  
 1. 【[品理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_li.md#品理)】`pien3 li3` <sup>[如东]</sup> 评理：对于这个问题，我来要～。  
 1. 【[品貌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_mo_r.md#品貌<sub>儿</sub>)】`pien3 mo6 r` <sup>[如皋]</sup> 品行相貌：姑娘的～是上等的。  

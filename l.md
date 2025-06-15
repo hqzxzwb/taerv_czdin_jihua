@@ -1606,7 +1606,9 @@
 1. 【[牢手板子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_sheu_baen_zz.md#牢手板子)】`lo2 sheu3 baen3 zz` <sup>[泰州]</sup> 牢，“牢子”省称，狱卒。牢子的手，比喻喜欢乱翻家中东西的人，贬义。犯人关进牢前，狱卒仔细翻找犯人全身，检查有无违禁之物，故有此语：家里东西摆得好好的，不要你～动它，翻吖乱吖，到啊用的时候找不到。｜他这个～怎吖就不得闲的，家里的书捱他翻得块块是的。  
 1. 【[牢事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_shr.md#牢事)】`lo2 shr6` 詈词，指无聊的举动<sup>\[泰州\]</sup>：你在家里没得～做，写写字也是好的。<sup>\[泰州\]</sup>｜你说他哿有～做，家里捱他翻得一塌糊涂。<sup>\[泰州\]</sup>  
 1. 【[牢骚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_so.md#牢骚)】`lo2 so1` <sup>[如东]</sup> 发泄不满情绪，说抱怨话：不要发～。  
+1. 【[牢头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_teu.md#牢头)】`lo2 teu2` <small>/lɔ2 tʰəɪ2/<sup>泰兴</sup></small> 谓不顾他人，只顾自己狂吃滥喝。<sup>\[泰兴\]</sup>  
 1. 【[牢头禁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_teu_jien_zz.md#牢头禁子)】`lo2 teu2 jien5 zz` <sup>[如东]</sup> ① 旧时看管牢狱的兵士。 ② 比喻紧紧盯着自己的人：他像～一样的盯吖我。  
+1. 【[牢头禁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_teu_jien_zz.md#牢头禁子)】`lo2 teu2 jien5 zz` <small>/lɔ2 tʰəɪ2 t͡ɕiŋ5 t͡sɿ/<sup>泰兴</sup></small> 旧称看管囚犯的狱卒。<sup>\[泰兴\]</sup>  
 1. 【[牢头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_teu_zz.md#牢头子)】`lo2 teu2 zz` <sup>[东台]</sup> （詈语）怨指不好的东西：他不该炒这个～股，亏得厉害！  
 1. 【[牢洞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ton.md#牢洞)】`lo2 ton6` <sup>[兴化]</sup> 旧时监狱墙壁上开的小洞，瘐死者的尸体从洞口送出：这个小伙不学好，拖～的日子在后头！｜（吕祥）禁不得三四日，断了茶水，把一条绝歪的狗命顷刻呜呼。报了州官，将尸体从～里拖将出去……（《醒世姻缘传》八八）  
 1. 【[牢瘟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ven.md#牢瘟)】`lo2 ven1` <sup>[兴化]</sup> ① 旧称监狱中的传染病。 ② 作副词，表对某事物的厌恶情绪：这个～伞，风一刮就翻过去啊。  

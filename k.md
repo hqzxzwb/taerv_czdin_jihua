@@ -692,6 +692,7 @@
 1. 【[快刀切豆腐——两面光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_do_qih_teu.md#快刀切豆腐——两面光)】`kuae5 do1 qih7 teu6 fv laen3 min6 guan1` <sup>[东台]</sup>   
 1. 【[快东快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_don_kuae.md#快东快)】`kuae5 don kuae5` <sup>[如皋]</sup> 迅速。  
 1. 【[快活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_huh.md#快活)】`kuae5 huh` <sup>[兴化]</sup> （借）信任、有好感：由于他喜欢自作主张，老板不大～他。  
+1. 【[快活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_huh.md#快活)】`kuae5 huh` <small>/kʰuɛ5 xʊʔ/<sup>泰兴</sup></small> 快乐；愉快。\[泰兴：（又音kuae5 uah）\]：日子过得真～<sup>\[泰兴\]</sup>｜穷～，富洒乐，叫花子打个莲花落。<sup>\[泰兴\]</sup>  
 1. 【[快活话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_huh_hua.md#快活话)】`kuae5 huh hua6` <sup>[兴化]</sup> 调侃的话：……赵一剑回敬道：“贫下中农不敢高攀啊！”旁边有人插话：“你小子别说～了。”（刘春农《无意插柳》）  
 1. 【[快活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_huh.md#快活)】`kuae5 huh8` <sup>[如东]</sup> 高兴。  
 1. 【[快活得没手抓痒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_huh_deh_meh.md#快活得没手抓痒)】`kuae5 huh8 deh7 meh8 sheu3 zhua1 ian3` <sup>[东台]</sup> 形容极端快乐时手舞足蹈，不知所措。  
@@ -708,9 +709,10 @@
 1. 【[快马没好步，慢工出细活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_ma_meh_ho.md#快马没好步，慢工出细活)】`kuae5 ma3 meh8 ho3 pv6 maen6 gon1 chueh7 xi5 huh8` <sup>[东台]</sup> 强调的后句，要以质量为主要目标。  
 1. 【[快水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_shuei.md#快水)】`kuae5 shuei3` <sup>[如皋]</sup> 洗涤剂含量高、去污力强的水液。  
 1. 【[快𢜶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_so.md#快𢜶)】`kuae5 so` <sup>[兴化]</sup> 速度快，行动敏捷：他老人家腿脚不灵便，每逢外出，总～不起来。  
-1. 【[快𢜶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_so.md#快𢜶)】`kuae5 so5` <small>/kʰuɛ5 sɔ5/<sup>如皋</sup></small> ① 迅速。<sup>\[如皋\]</sup> ② 快，迅速。<sup>\[如皋\]</sup>  
+1. 【[快𢜶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_so.md#快𢜶)】`kuae5 so5` <small>/kʰuɛ5 sɔ5/<sup>如皋</sup>, /kʰuɛ5 sɔ5/<sup>泰兴</sup></small> 快，迅速。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
 1. 【[快中快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_zhon_kuae.md#快中快)】`kuae5 zhon kuae5` <sup>[兴化]</sup> 形容快了还要快：贩卖鲜货靠的就是～。  
 1. 【[快中快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_zhon_kuae.md#快中快)】`kuae5 zhon1 kuae5` <sup>[泰州]</sup> 更快：这桩事不能拖，要～。  
+1. 【[快中快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_zhon_kuae.md#快中快)】`kuae5 zhon1 kuae5` <small>/kʰuɛ5 t͡sɔŋ1 kʰuɛ5/<sup>泰兴</sup></small> 放快一些，要快一些。<sup>\[泰兴\]</sup>  
 1. 【[快嘴三娘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_zuei_saen_nian.md#快嘴三娘子)】`kuae5 zuei3 saen1 nian2 zz` <sup>[兴化]</sup> （讽）形容抢嘴抢舌，爱传播闲话的人。并非专指妇女。  
 1. 【[筷<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_r.md#筷<sub>儿</sub>)】`kuae5 r` <small>/kʰue5 ɚ/<sup>泰县</sup></small> ① 夹取食物的工具。长条形，一头圆，一头方。有银制、铜制、竹制、木制、塑料制等多种。<sup>\[如东\]</sup> ② 筷子。<sup>\[泰县\]</sup>  
 1. 【[筷头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_teu_r.md#筷头<sub>儿</sub>)】`kuae5 teu2 r` <sup>[泰县]</sup> 筷尖儿。  

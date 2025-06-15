@@ -1049,7 +1049,7 @@
 1. 【[怄扣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_keu.md#怄扣)】`ngeu5 keu` <sup>[泰县]</sup> 怨愤难言。  
 1. 【[怄抠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_keu.md#怄抠)】`ngeu5 keu` <sup>[兴化]</sup> 懊恼：有理的官司打不赢，～煞咖。  
 1. 【[怄气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_qi.md#怄气)】`ngeu5 qi5` ① 生闷气，闹别扭。<sup>\[如东\]</sup>：他在<sup>\[如东\]</sup> ② 闹别扭，生闷气；这点儿小事，不值得同他～。<sup>\[东台\]</sup>  
-1. 【[怄人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_ren.md#怄人)】`ngeu5 ren2` <small>/ɤɯ5 ɻəŋ2/<sup>泰县</sup></small> ① 受到冤枉气，很难过。<sup>\[东台\]</sup> ② 气人：这件事有点～。<sup>\[泰县\]</sup> ③ 以言语或者行动刺激他人，是他人恼怒着急生气<sup>\[泰州\]</sup>：这个女将说话也太～唻。<sup>\[泰州\]</sup>  
+1. 【[怄人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_ren.md#怄人)】`ngeu5 ren2` <small>/ŋəɪ5 ɻəŋ2/<sup>泰兴</sup>, /ɤɯ5 ɻəŋ2/<sup>泰县</sup></small> ① 受到冤枉气，很难过。<sup>\[东台\]</sup> ② 气人<sup>\[泰县\]</sup>：这件事有点～。<sup>\[泰县\]</sup> ③ 以言语或者行动刺激他人，是他人恼怒着急生气<sup>\[泰州\]</sup>：这个女将说话也太～唻。<sup>\[泰州\]</sup> ④ 使人生气，不愉快。<sup>\[泰兴\]</sup>  
 1. 【[怄煞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_shaeh.md#怄煞)】`ngeu5 shaeh7` 怄气到极点<sup>\[泰州\]</sup>：哪个教你不用功的，～咖都没得用。<sup>\[泰州\]</sup>  
 1. 【[怄受](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_sheu.md#怄受)】`ngeu5 sheu` <sup>[如皋]</sup> 气恼  
 1. 【[沤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu.md#沤)】`ngeu5` <small>/ɤɯ5/<sup>泰县</sup></small> 长时间浸泡。往往伴有发酵。<sup>\[如东\]</sup><sup>\[泰县\]</sup>：～青草。<sup>\[如东\]</sup>  

@@ -178,15 +178,19 @@
 1. 【[丸药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_iah.md#丸药)】`un2 iah8` <small>/ʊ̃2 iɑʔ8/<sup>泰兴</sup></small> ① 药丸<sup>\[如东\]</sup>\[泰兴：泛指各种颗粒状药物\] ② 圆粒形中成药。<sup>\[泰州\]</sup>  
 1. 【[丸药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_iah.md#丸药)】`un2-uh8 iah8` <sup>[泰县]</sup> 药品里的丸剂：先生，这个～怎吖吃？  
 1. 【[丸眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_ngaen_r.md#丸眼<sub>儿</sub>)】`un2 ngaen3 r` <sup>[东台]</sup> 极言其小或少。同“细点滴儿”。又称“眼丸儿”、“眼丸子”。  
+1. 【[完不洎，放火烧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_beh_qi_fan.md#完不洎，放火烧)】`un2 beh7 qi6 fan5 hu3 sho1` <small>/ʊ̃2 pəʔ7 t͡ɕʰʝ1 fɑŋ5 xɤɯ3 sɔ1/<sup>泰兴</sup></small> 谓故意、蓄意糟蹋、浪费。<sup>\[泰兴\]</sup>  
 1. 【[完风不透气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_fon_beh_teu.md#完风不透气)】`un2 fon1 beh7 teu5 qi5` <sup>[兴化]</sup> 房屋严密封闭，使空气不能流通：他把屋里门窗关得～的。  
 1. 【[完好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_ho.md#完好)】`un2 ho3` <sup>[东台]</sup> 完整，没有残缺、破坏。  
 1. 【[完口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_keu.md#完口)】`un2 keu3` <small>/ũ2 kʰɤ3/<sup>兴化</sup></small> ① 伤口已经愈合。<sup>\[东台\]</sup> ② 创口愈合<sup>\[兴化\]</sup>：他害个疖子个把月才～。<sup>\[兴化\]</sup> ③ 伤口、疮口愈合<sup>\[泰州\]</sup>：医生说你的刀口还不曾～，要再歇个把星期才行。<sup>\[泰州\]</sup>  
 1. 【[完满](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_mun.md#完满)】`un2 mun3` <sup>[东台]</sup> 圆满，没有欠缺。  
 1. 【[完蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_taen.md#完蛋)】`un2 taen6` <sup>[东台]</sup> 垮台、毁灭。  
+1. 【[完掉啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_tio_a.md#完掉啊)】`un2 tio a` <small>/ʊ̃2 tʰiɔ a/<sup>泰兴</sup></small> 犹完蛋。\[泰兴：泰兴口语又“完掉lei”\]  
 1. 【[完戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_xi.md#完戏)】`un2 xi5` <sup>[兴化]</sup> ① 了结：上次的事情～啊。 ② （贬）完蛋：杨狗儿中风，抽啊个把月，今早～啊。  
 1. 【[完小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_xio.md#完小)】`un2 xio3` <sup>[东台]</sup> 与初级小学相对，有1-6年级的完全小学。  
+1. 【[完小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_xio.md#完小)】`un2 xio3` <small>/ʊ̃2 ɕiɔ3/<sup>泰兴</sup></small> 初小、高小合成的小学。<sup>\[泰兴\]</sup>：襟江小学是～<sup>\[泰兴\]</sup>  
 1. 【[完税](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_xy.md#完税)】`un2 xy5` <sup>[东台]</sup> 交足税款。  
 1. 【[完账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_zhan.md#完账)】`un2 zhan5` <sup>[东台]</sup> 表示完蛋了：上当受骗就～。  
+1. 【[完账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_zhan.md#完账)】`un2 zhan5` <small>/ʊ̃2 t͡sɑŋ5/<sup>泰兴</sup></small> 完蛋，彻底失败。死；完结。<sup>\[泰兴\]</sup>  
 1. 【[䝹𧶲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_dun.md#䝹𧶲)】`un3 dun3` <sup>[兴化]</sup> 形容小有家财而不外露者。䝹，《广韵·缓韵》乌管切：～，小有财：他是庄上的～户儿，表面寒酸，骨里厚实。  
 1. 【[唵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un.md#唵)】`un3` <small>/ũ3/<sup>兴化</sup>, /ʊ̃3/<sup>如皋</sup>, /õ3/<sup>泰县</sup></small> ① 用手掌托送进口中：他抓起一把饭就朝嘴里～。<sup>\[如皋\]</sup> ② 用手掌将食物送进嘴里，叫做唵。<sup>\[如东\]</sup>：把糖～进嘴里。<sup>\[如东\]</sup> ③ 用手掌把食物送到嘴里<sup>\[东台\]</sup>：他把董糖～吖嘴里去啊。（《广韵》乌感切。手进食也）。<sup>\[东台\]</sup> ④ 以手掌送食物入口：往嘴里～一把炒米。《广韵·感韵》乌感切：“，手进食也。”<sup>\[兴化\]</sup> ⑤ 用掌心将东西塞在嘴里：把药～吖嘴里。/月娘……先将服药一把～在口内。（金瓶梅·53回）<sup>\[泰县\]</sup> ⑥ 塞：把东西～吖嘴里。<sup>\[泰县\]</sup> ⑦ 用手将食物塞进嘴里<sup>\[泰州\]</sup>：把桌上的烧饼屑子攎起来～吖嘴里去。<sup>\[泰州\]</sup>  
 1. 【[揞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un.md#揞)】`un3` <small>/ũ3/<sup>兴化</sup></small> ① 以手掩盖 ② 把药末敷在伤口上，叫做揞。<sup>\[如东\]</sup> ③ 遮盖；掩盖<sup>\[东台\]</sup>：放屁动手～，有甚的用？<sup>\[东台\]</sup> ④ 遮盖：～住伤口｜坛子口～得住，人口不住。《广雅·释诂》卷四上：“～，藏也。”王念孙疏证：“……今俗语犹谓手覆物为～矣”。<sup>\[兴化\]</sup> ⑤ 隐藏<sup>\[泰州\]</sup>：出咖这种事情，～是～不住的。<sup>\[泰州\]</sup> ⑥ 以手覆盖<sup>\[泰州\]</sup>：弄手～住眼睛。<sup>\[泰州\]</sup>  

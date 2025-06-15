@@ -1693,8 +1693,9 @@
 1. 【[补疤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bv_ba.md#补疤)】`bv3 ba1` <sup>[如皋]</sup> 用锔疤或烫疤法修锅、缸、碗等。  
 1. 【[补补连连](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bv_bv_lin_lin.md#补补连连)】`bv3 bv3 lin2 lin2` <sup>[兴化]</sup> 缝补衣裳：老太婆下午没事，把旧衣裳寻出来～。  
 1. 【[补补纳纳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bv_bv_naeh_naeh.md#补补纳纳)】`bv3 bv3 naeh8 naeh8` <sup>[兴化]</sup> 形容衣服破旧，打了许多补丁：“……我怕人闲言闲语，说我有吃有穿的，就穿上件～的千佛衣……”（马春阳《告状》）。也说“补天纳地”。  
+1. 【[补补纳纳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bv_bv_naeh_naeh.md#补补纳纳)】`bv3 bv3 naeh8 naeh8` <small>/pu3 pu3 næʔ8 næʔ8/<sup>泰兴</sup></small> 谓做一些针线活计。也说“补补连连”。<sup>\[泰兴\]</sup>  
 1. 【[补丁/帄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bv_dien.md#补丁/帄)】`bv3 dien` <sup>[泰州]</sup> 补丁，补在破损衣服上的小块布片。  
-1. 【[补丁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bv_dien.md#补丁)】`bv3 dien1` ① 衣服破后缝上的一块布，称补丁。<sup>\[如东\]</sup> ② 补在破损的衣服上的零头布料。<sup>\[东台\]</sup>  
+1. 【[补丁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bv_dien.md#补丁)】`bv3 dien1` <small>/pu3 tiŋ1/<sup>泰兴</sup></small> ① 衣服破后缝上的一块布，称补丁。<sup>\[如东\]</sup> ② 补在破损的衣服上的零头布料。<sup>\[东台\]</sup> ③ 补在破损的衣服或物件上的同类物。<sup>\[泰兴\]</sup>  
 1. 【[补房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bv_fan.md#补房)】`bv3 fan2` <sup>[兴化]</sup> 续娶的妻：“……只说是个过路官员要娶他做～……”（《梼杌闲评》四二）  
 1. 【[补复](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bv_foh.md#补复)】`bv3 foh7` <sup>[东台]</sup> 受到批评指责不服气，找机会反唇相讥以报复：老婆常说他做事不细，这次老婆有点儿差错，他也～咖几句。  
 1. 【[补缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bv_gan.md#补缸)】`bv3 gan1` <sup>[如皋]</sup> 修补缸上的裂璺，有窒、锔、箍法。  

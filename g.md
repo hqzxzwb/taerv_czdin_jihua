@@ -632,8 +632,10 @@
 1. 【[沟泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_ni.md#沟泥)】`geu1 ni2` <sup>[如皋]</sup> 河底淤泥，可作肥料。  
 1. 【[沟南](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_nun.md#沟南)】`geu1 nun2` 河南面  
 1. 【[沟墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_qian.md#沟墙)】`geu1 qian2` <sup>[兴化]</sup> 桶及𪳄子上底及木器框架上插入木板的沟槽。  
+1. 【[沟头沟脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_teu_geu_no.md#沟头沟脑)】`geu1 teu2 geu1 no3` <small>/kəɪ1 tʰəɪ2 kəɪ1 nɔ3/<sup>泰兴</sup></small> 河边杂地，坎子。<sup>\[泰兴\]</sup>  
 1. 【[沟头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_teu_r.md#沟头<sub>儿</sub>)】`geu1 teu2 r` <sup>[如皋]</sup> 小河的端部或河汊。  
 1. 【[沟头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_teu_zz.md#沟头子)】`geu1 teu2 zz` <sup>[兴化]</sup> 较短而窄的河沟：他在～北边钩鱼。  
+1. 【[沟头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_teu_zz.md#沟头子)】`geu1 teu2 zz` <small>/kəɪ1 tʰəɪ2 t͡sɿ/<sup>泰兴</sup></small> 小沟岸；沟坎。<sup>\[泰兴\]</sup>  
 1. 【[沟潭<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_tun_r.md#沟潭<sub>儿</sub>)】`geu1 tun2 r` 小水沟  
 1. 【[沟岸草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_un_co.md#沟岸草)】`geu1 un6 co3` <sup>[如皋]</sup> 固岸的草。常见有苮棵、芒棵、乌蓲、芦柴、红草、江芦、芦竹、茅草、狼尾草等。  
 1. 【[沟岸树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_un_shv.md#沟岸树)】`geu1 un6 shv6` <sup>[如皋]</sup> 固岸的树。常栽树种有杨、柳、楝、桃、夜合等  
