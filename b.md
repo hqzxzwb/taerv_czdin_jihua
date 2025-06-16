@@ -1313,11 +1313,13 @@
 1. 【[膘水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_shuei.md#膘水)】`bio1 shuei3` <small>/piɔ1 suəi3/<sup>兴化</sup>, /piɔ1 suei3/<sup>如皋</sup></small> ① 指家禽、家畜的肥壮度<sup>\[如皋\]</sup>：有～<sup>\[如皋\]</sup>｜～足。<sup>\[如皋\]</sup> ② 多指牲畜膘情<sup>\[兴化\]</sup>：～足<sup>\[兴化\]</sup>｜～好。<sup>\[兴化\]</sup>  
 1. 【[婊蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_taen.md#婊蛋)】`bio3 taen6` <sup>[兴化]</sup> 骂人的话：“……喊到他一声大和尚，把这个小～折死了呀！”（扬一《通天河》）  
 1. 【[婊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_zz.md#婊子)】`bio3 zz` <sup>[泰州]</sup> ① 妓女。 ② 詈词，作风不正派的女性。  
+1. 【[婊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_zz.md#婊子)】`bio3 zz` <small>/piɔ3 t͡sɿ/<sup>泰兴</sup></small> 旧时称妓女；情妇。<sup>\[泰兴\]</sup>  
 1. 【[婊子儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_zz_er.md#婊子儿)】`bio3 zz er2` <small>/piɔ3 t͡sɿ ɚ2/<sup>兴化</sup>, /piɔ3 t͡sɿ ɚ2/<sup>如皋</sup></small> ① 詈语，婊子生的小孩。<sup>\[如皋\]</sup> ② 骂人的话<sup>\[兴化\]</sup>：“这个老～，替我家娶了个公的，嫁来几年了，屁也不放一个啊！”（《皮五辣子》一）<sup>\[兴化\]</sup>  
 1. 【[婊子货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_zz_hu.md#婊子货)】`bio3 zz hu5` <small>/piɔ3 t͡sɿ xo5/<sup>兴化</sup>, /piɔ3 t͡sɿ xʊ5/<sup>如皋</sup></small> ① 指表面好看而质地差的货物。<sup>\[如皋\]</sup> ② ［引］中看不中用的货物。（婊子指妓女，多用于辱骂女性）<sup>\[东台\]</sup> ③ 指外表花哨，但不经用的商品<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：这种～再便宜也不能买。<sup>\[兴化\]</sup>｜这东西望起来还不丑，实骨子是个～，一点儿不见用的。<sup>\[泰州\]</sup>｜这双鞋子穿吖不到两天就𠫓咖帮，真是人家说的～。<sup>\[泰州\]</sup>  
 1. 【[婊子话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_zz_hua.md#婊子话)】`bio3 zz hua6` <small>/piɔ3 t͡sɿ xua6/<sup>兴化</sup></small> 没有真情实感的甜言蜜语<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：那晚倒说得好……屁，全是～！（钱国怀《桃子》）<sup>\[兴化\]</sup>｜他说的这些～，你不要当真。<sup>\[泰州\]</sup>  
 1. 【[婊子嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_zz_jy.md#婊子嘴)】`bio3 zz jy3` <sup>[东台]</sup> ［引］用甜言蜜语欺骗人。  
-1. 【[表家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_ga.md#表家)】`bio3 ga` <small>/piɔ3 ka/<sup>兴化</sup>, /piɔ3 ka/<sup>如皋</sup></small> ① 姑、舅表亲关系，或指人。<sup>\[如皋\]</sup> ② 表兄弟之间互称<sup>\[兴化\]</sup>：席间已有七品官，扬州府官，苏州府有个一也在此。（兴文《高阁老到镇江》）<sup>\[兴化\]</sup>｜他跟我是两～。<sup>\[兴化\]</sup>  
+1. 【[表侄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_chih.md#表侄)】`bio3 chih8` <small>/piɔ3 t͡ɕʰiʔ8/<sup>泰兴</sup></small> 表兄弟的儿子。<sup>\[泰兴\]</sup>  
+1. 【[表家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_ga.md#表家)】`bio3 ga` <small>/piɔ3 ka/<sup>兴化</sup>, /piɔ3 ka/<sup>如皋</sup>, /piɔ3 kɑ/<sup>泰兴</sup></small> ① 姑、舅表亲关系，或指人。<sup>\[如皋\]</sup> ② 表兄弟之间互称<sup>\[兴化\]</sup>：席间已有七品官，扬州府官，苏州府有个一也在此。（兴文《高阁老到镇江》）<sup>\[兴化\]</sup>｜他跟我是两～。<sup>\[兴化\]</sup> ③ 中表亲戚。<sup>\[泰兴\]</sup>  
 1. 【[表家佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_ga_lo_r.md#表家佬<sub>儿</sub>)】`bio3 ga lo3 r` <sup>[东台]</sup> 姑舅表弟兄之间的互称：他是我的“～”。  
 1. 【[表家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_ga.md#表家)】`bio3 ga1` <sup>[泰州]</sup> 表兄弟间互称：他家～在机关里当处长。  
 1. 【[表哥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_gu.md#表哥)】`bio3 gu1` <sup>[如东]</sup> 舅舅生的年龄比自己大的男子，称表哥。  
@@ -1326,9 +1328,12 @@
 1. 【[表面账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_min_zhan.md#表面账)】`bio3 min6 zhan5` <small>/piɔ3 mĩ1 t͡sã5/<sup>如皋</sup></small> ① 敷衍、象征性的表示，并无深交。<sup>\[如皋\]</sup> ② 见“意思账”。<sup>\[如皋\]</sup> ③ 表面上做某事，其实是敷衍、蒙混，也作“表面文章”。<sup>\[东台\]</sup>  
 1. 【[表亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_qien.md#表亲)】`bio3 qien1` ① 母亲系统的亲属关系，称表亲。<sup>\[如东\]</sup> ② 与祖父、父亲的姐妹的子女，或跟祖母、母亲的兄弟姐妹的子女的亲戚关系。<sup>\[东台\]</sup>  
 1. 【[表情话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_qien_hua.md#表情话)】`bio3 qien2 hua6` <sup>[泰州]</sup> 看似表达情意而无实际行动的虚伪话：他这一刻儿说～唻，刚才他怎吖不则声的？｜这马马儿说的全是些～，你不要相信她。  
+1. 【[表叔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_shoh.md#表叔)】`bio3 shoh7` <small>/piɔ3 sɔʔ7/<sup>泰兴</sup></small> 父之表兄弟。<sup>\[泰兴\]</sup>  
 1. 【[表袋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_tae.md#表袋)】`bio3 tae6` <sup>[如东]</sup> 上衣胸部两侧的口袋。  
 1. 【[表弟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_ti.md#表弟)】`bio3 ti6` <sup>[如东]</sup> 舅舅生的年龄比自己小的男子，称表弟。  
 1. 【[表芯纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_xien_zhr.md#表芯纸)】`bio3 xien1 zhr3` <sup>[兴化]</sup> 一种草或竹浆纸，本色，表面涂过硝水，多用于搓硭子（火枚）。  
+1. 【[表芯纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_xien_zhr.md#表芯纸)】`bio3 xien1 zhr3` <small>/piɔ3 ɕiŋ1 t͡sɿ3/<sup>泰兴</sup></small> 一种质地比较疏松的纸，卷成小支条可作引火之物。又称“表青纸”。<sup>\[泰兴\]</sup>  
+1. 【[表兄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_xion.md#表兄)】`bio3 xion` <small>/piɔ3 ɕiɔŋ/<sup>泰兴</sup></small> 姑妈、舅舅之子，年长于己者称表见，亦称表哥；小于己者称表弟。女子则称表姐妹。<sup>\[泰兴\]</sup>  
 1. 【[裱画匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_hua_qian.md#裱画匠)】`bio3 hua6 qian6` <sup>[如皋]</sup> ① 从事裱画业的工匠。 ② 置语。指说骗者。  
 1. 【[裱糊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_hv.md#裱糊)】`bio3 hv2` <sup>[如东]</sup> ① 装裱字画。 ② 用纸糊贴墙壁。  
 1. 【[裱匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_qian.md#裱匠)】`bio3 qian6` <sup>[如东]</sup> ① 装裱字画的小手工业者。 ② 比喻只会做表面文章的人：他是个～。  

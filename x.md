@@ -1260,14 +1260,20 @@
 1. 【[线装书](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_zhuan_shv.md#线装书)】`xin5 zhuan1 shv1` <sup>[如东]</sup> 书籍装订法的一种，装订的线露在书的外面，是我国传统的装订法。  
 1. 【[现报](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_bo.md#现报)】`xin6 bo5` <small>/ɕiɪ̃6 pɔ5/<sup>兴化</sup></small> ① 丢人现眼 ② 当场出丑。<sup>\[如东\]</sup>：你个～，还有脸见人吖。<sup>\[如东\]</sup> ③ 同“现世报”。<sup>\[东台\]</sup> ④ 骂人的话，指上代或自身做坏事、种恶果，得到的报应。<sup>\[兴化\]</sup>  
 1. 【[现在](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_cae.md#现在)】`xin6 cae6` <sup>[兴化]</sup> 刚刚、正在发生的：我～心里烦，你不要再来闹啊。｜～没钱用，你还在外头大吃大喝。  
+1. 【[现成饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_chen_faen.md#现成饭)】`xin6 chen faen6` <small>/ɕĩ1 t͡sʰəŋ fɛ̃1/<sup>泰兴</sup></small> 比喻不劳动而获得到的好处。<sup>\[泰兴\]</sup>：吃～过现成日子<sup>\[泰兴\]</sup>  
+1. 【[现成话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_chen_hua.md#现成话)】`xin6 chen hua6` <small>/ɕĩ1 t͡sʰəŋ xuɑ1/<sup>泰兴</sup></small> 不参与其事而在旁说的一些冠冕堂皇的空话。<sup>\[泰兴\]</sup>  
+1. 【[现成媒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_chen_mei.md#现成媒)】`xin6 chen mei2` <small>/ɕĩ1 t͡sʰəŋ məɪ2/<sup>泰兴</sup></small> 男女双方实际上已定亲，只象征性地出面作媒的人。<sup>\[泰兴\]</sup>  
 1. 【[现成](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_chen.md#现成)】`xin6 chen2` <sup>[如东]</sup> 已经做好：样样都是～的。  
+1. 【[现成的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_chen_dii.md#现成的)】`xin6 chen2 dii` <small>/ɕĩ1 t͡sʰəŋ2 təɪ/<sup>泰兴</sup></small> 本来已有的，已准备好的<sup>\[泰兴\]</sup>  
 1. 【[现成饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_chen_faen.md#现成饭)】`xin6 chen2 faen6` <sup>[如东]</sup> 已经做好的饭。比喻不劳而获的利益：吃～。  
 1. 【[现成话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_chen_hua.md#现成话)】`xin6 chen2 hua6` <sup>[泰州]</sup> 不在当中参与，而是在一旁说的冠冕堂皇的空话：他做事的本事没得，说～的本事头等。  
 1. 【[现成媒人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_chen_mei_ren.md#现成媒人)】`xin6 chen2 mei2 ren` <sup>[兴化]</sup> 男女双方婚约已定，应聘参与各种礼仪活动的媒人。  
 1. 【[现搭现](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_daeh_xin.md#现搭现)】`xin6 daeh7 xin6` <sup>[如东]</sup> 在交易时，货款当场兑现：今朝买鱼要～。  
 1. 【[现沰现](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_dah_xin.md#现沰现)】`xin6 dah7 xin6` <sup>[泰县]</sup> 立即兑现。泰县方言志写“鲜耷鲜”。  
+1. 【[现贩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_faen.md#现贩)】`xin6 faen5` <small>/ɕĩ1 fɛ̃5/<sup>泰兴</sup></small> 骂人语。谓过于炫耀自己的才能、衣着等。<sup>\[泰兴\]</sup>  
 1. 【[现刮现](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_guaeh_xin.md#现刮现)】`xin6 guaeh7 xin6` <small>/ɕiɪ̃6 kuæʔ7 ɕiɪ̃6/<sup>兴化</sup></small> ① 就是当场兑现，不欠账<sup>\[东台\]</sup>：他收到货，立即给钱，～！<sup>\[东台\]</sup> ② 赌现钱，不共赌账。<sup>\[兴化\]</sup> ③ （借）现金交易，不赊欠<sup>\[兴化\]</sup>：我俫～，概不悬欠。也说“现沰现”。<sup>\[兴化\]</sup> ④ 按照约定，钱货两清，当场兑现，不赊不欠<sup>\[泰州\]</sup>：现场促销，买二赠一，～。<sup>\[泰州\]</sup>｜晚上打牌来钱，输掉当场就把钱，～，没得钱的不要来。<sup>\[泰州\]</sup>  
 1. 【[现搳现](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_huaeh_xin.md#现搳现)】`xin6 huaeh7 xin6` <sup>[如皋]</sup> 兑现，不欠账。  
+1. 【[现搳现](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_huaeh_xin.md#现搳现)】`xin6 huaeh7 xin6` <small>/ɕĩ1 xuæʔ7 ɕĩ1/<sup>泰兴</sup></small> 谓当场兑现，不欠账；现金交易。<sup>\[泰兴\]</sup>  
 1. 【[现魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_huen.md#现魂)】`xin6 huen2` <sup>[如皋]</sup> 责备稍一显现就消失了：来就来过几天，不要来～！  
 1. 【[现枯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_kv.md#现枯)】`xin6 kv1` <sup>[兴化]</sup> 事情败露：他挪用公款，月终结账的时候～啊。  
 1. 【[现瘌相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_laeh_xian.md#现瘌相)】`xin6 laeh8 xian5` <sup>[泰州]</sup> 比喻隐藏的坏人或造假的坏事暴露：平常望吖他还算老实，直到现在纪委找啊他，他才现吖瘌相。  
@@ -1276,13 +1282,14 @@
 1. 【[现眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_ngaen.md#现眼)】`xin6 ngaen3` <sup>[如东]</sup> 出丑，丢脸：不要再～吖啦。  
 1. 【[现眼目](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_ngaen_moh.md#现眼目)】`xin6 ngaen3 moh8` <small>/ɕĩ1 ŋẽ3 mɔʔ8/<sup>如皋</sup></small> ① 表示瞧不起所做的事，做了会丢相：他送吖这点儿礼上丈母家去，真真～。<sup>\[如皋\]</sup> ② 出洋相。<sup>\[如东\]</sup>：家去吧，不要在这许～。<sup>\[如东\]</sup> ③ 当场出丑，出洋相<sup>\[东台\]</sup>：他平时不好好练，现在上台～！<sup>\[东台\]</sup>  
 1. 【[现人眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_ren_ngaen.md#现人眼)】`xin6 ren2 ngaen3` <sup>[如东]</sup> 当场丢脸，出洋相：不要在这许～。  
+1. 【[现人眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_ren_ngaen.md#现人眼)】`xin6 ren2 ngaen3` <small>/ɕĩ1 ɻəŋ2 ŋɛ̃3/<sup>泰兴</sup></small> 犹现形，丢架子。<sup>\[泰兴\]</sup>  
 1. 【[现身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_shen.md#现身)】`xin6 shen1` <sup>[兴化]</sup> 指人在一定场合露面：你在一旁䁃䁃，先覅～。｜“你们明早走去看看，不要～。”（《梼杌闲评》四）  
-1. 【[现世](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_shr.md#现世)】`xin6 shr5` <small>/ɕiɪ̃5 sɿ5/<sup>泰县</sup></small> ① 出丑，丢脸。<sup>\[如东\]</sup>：你不要在外头～。<sup>\[如东\]</sup> ② 也叫“现世宝”，即出丑，丢脸的意思<sup>\[东台\]</sup>：活～。有时也是昵称<sup>\[东台\]</sup>｜你个～，还带啊礼物。<sup>\[东台\]</sup> ③ 丢人<sup>\[泰县\]</sup>：你不要～，快回家去。<sup>\[泰县\]</sup> ④ 出丑，丢脸<sup>\[泰州\]</sup>：你滚吖走吧，不要弄吖在这块～。<sup>\[泰州\]</sup>  
-1. 【[现世宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_shr_bo.md#现世宝)】`xin6 shr5 bo3` <small>/ɕiɪ̃6 sɿ5 pɔ3/<sup>兴化</sup>, /ɕĩ1 sɿ5 pɔ3/<sup>如皋</sup></small> ① 贬指出丑、丢脸的人。<sup>\[如皋\]</sup> ② （贬）不肖子弟<sup>\[兴化\]</sup>：“你这～！你老子是个好汉，怎么生出你这个脓包来，这样怕死……”（《说岳全传》六四）<sup>\[兴化\]</sup>  
+1. 【[现世](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_shr.md#现世)】`xin6 shr5` <small>/ɕĩ1 sɿ5/<sup>泰兴</sup>, /ɕiɪ̃5 sɿ5/<sup>泰县</sup></small> ① 出丑，丢脸。<sup>\[如东\]</sup><sup>\[泰兴\]</sup><sup>\[泰州\]</sup>：你不要在外头～。<sup>\[如东\]</sup>｜你滚吖走吧，不要弄吖在这块～。<sup>\[泰州\]</sup> ② 也叫“现世宝”，即出丑，丢脸的意思<sup>\[东台\]</sup>：活～。有时也是昵称<sup>\[东台\]</sup>｜你个～，还带啊礼物。<sup>\[东台\]</sup> ③ 丢人<sup>\[泰县\]</sup>：你不要～，快回家去。<sup>\[泰县\]</sup>  
+1. 【[现世宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_shr_bo.md#现世宝)】`xin6 shr5 bo3` <small>/ɕiɪ̃6 sɿ5 pɔ3/<sup>兴化</sup>, /ɕĩ1 sɿ5 pɔ3/<sup>如皋</sup>, /ɕĩ1 sɿ5 pɔ3/<sup>泰兴</sup></small> ① 贬指出丑、丢脸的人。<sup>\[如皋\]</sup> ② （贬）不肖子弟<sup>\[兴化\]</sup>：“你这～！你老子是个好汉，怎么生出你这个脓包来，这样怕死……”（《说岳全传》六四）<sup>\[兴化\]</sup> ③ 谓不成器的人。<sup>\[泰兴\]</sup>  
 1. 【[现世报](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_shr_bo.md#现世报)】`xin6 shr5 bo5` <sup>[东台]</sup> 佛教认为：做了坏事会得到报应｜这家伙交通肇事多次，这回是～，醉驾栽啊下河啊。  
 1. 【[现像](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_xian.md#现像)】`xin6 xian5` <sup>[如皋]</sup> 露出原形，现出真像。  
 1. 【[现相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_xian.md#现相)】`xin6 xian5` <sup>[兴化]</sup> （借）露出本来面目：你弄的假账，审计部门一查就要～。｜人家要说，广东人何能不会说广东话？岂不就要～。（《皮五辣子》四）  
-1. 【[现形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_xien.md#现形)】`xin6 xien2` <small>/ɕĩ1 ɕiəŋ2/<sup>如皋</sup></small> ① 卖弄、出风头：你有啊新耍货儿就在家里耍耍吧，又要去～，捱人家弄吖坏啊又要淘气！<sup>\[如皋\]</sup> ② 显露原形。<sup>\[东台\]</sup>  
+1. 【[现形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_xien.md#现形)】`xin6 xien2` <small>/ɕĩ1 ɕiəŋ2/<sup>如皋</sup>, /ɕĩ1 ɕiŋ2/<sup>泰兴</sup></small> ① 卖弄、出风头<sup>\[如皋\]</sup>：你有啊新耍货儿就在家里耍耍吧，又要去～，捱人家弄吖坏啊又要淘气！<sup>\[如皋\]</sup> ② 显露原形。<sup>\[东台\]</sup> ③ 犹现世，现报。<sup>\[泰兴\]</sup>  
 1. 【[现折子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_zhih_zz.md#现折子)】`xin6 zhih7 zz` <sup>[如皋]</sup> 初见时给的见面礼金。  
 1. 【[枵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio.md#枵)】`xio1` <sup>[东台]</sup> 空虚：～腹｜～肠。  
 1. 【[消愁解闷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cheu_gae_men.md#消愁解闷)】`xio1 cheu2 gae3 men6` <sup>[兴化]</sup> 通过游玩或做一些事情来消解忧愁和烦恼：他刚退休，非常无聊，每天看看报纸，下下棋～。  

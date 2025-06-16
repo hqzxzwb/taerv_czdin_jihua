@@ -2820,8 +2820,8 @@
 1. 【[树秧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_ian.md#树秧)】`shv6 ian1` 树苗。<sup>\[泰州\]</sup>  
 1. 【[树秧子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_ian_zz.md#树秧子)】`shv6 ian1 zz` <sup>[兴化]</sup> 用于移植的树苗。  
 1. 【[树叶子𠫓下来怕打头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_ih_zz_teh.md#树叶子𠫓下来怕打头)】`shv6 ih8 zz teh7 ha6 lae pa5 da3 teu2` <sup>[东台]</sup> 𠫓下来即掉下来，形容有的人过分胆小怕事；这人谨小慎微，简直是～。  
-1. 【[树棵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_ku.md#树棵)】`shv6 ku1` <sup>[如皋]</sup> 柱子。  
-1. 【[树窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_ku.md#树窠)】`shv6 ku1` 灌木丛<sup>\[泰州\]</sup>：猫儿𠞖吖～里去啊。<sup>\[泰州\]</sup>  
+1. 【[树棵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_ku.md#树棵)】`shv6 ku1` <small>/su1 kʰʊ1/<sup>如皋</sup>, /su1 kʰɤɯ1/<sup>泰兴</sup></small> 柱子<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
+1. 【[树窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_ku.md#树窠)】`shv6 ku1` <small>/su1 kʰɤɯ1/<sup>泰兴</sup></small> 灌木丛<sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：猫儿𠞖吖～里去啊。<sup>\[泰州\]</sup>  
 1. 【[树兰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_laen.md#树兰)】`shv6 laen2` <sup>[如皋]</sup> 米仔兰。  
 1. 【[树老根多，人老话多](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_lo_gen_du.md#树老根多，人老话多)】`shv6 lo3 gen1 du1 ren2 lo3 hua6 du1` <sup>[东台]</sup> 人的经历丰富了感慨就多，但也容易啰啰唆。  
 1. 【[树丫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_nga.md#树丫)】`shv6 nga1` <sup>[兴化]</sup> 见“树杈”。或作“树桠”。  

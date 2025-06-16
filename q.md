@@ -1033,6 +1033,7 @@
 1. 【[青春年少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_chuen_nin_sho.md#青春年少)】`qien1 chuen1 nin2 sho5` <sup>[兴化]</sup> 人的年青时期：你要趁～多读点儿书。｜“你这样～，愁没有好女儿匹配……”（《梼杌闲评》五）  
 1. 【[青春市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_chuen_shr.md#青春市)】`qien1 chuen1 shr6` <sup>[如东]</sup> 青年时代，一般指16岁至24岁之间的一段时期：渡过～。  
 1. 【[青滴滴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_dieh_dieh.md#青滴滴)】`qien1 dieh7 dieh7` <sup>[兴化]</sup> 色泽鲜绿：粽箬看上去水淋淋的，～的。（刘仁前《香河风情·香河人家》）  
+1. 【[青滴滴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_dieh_dieh.md#青滴滴)】`qien1 dieh7 dieh7` <small>/t͡ɕʰiŋ1 tiʔ7 tiʔ7/<sup>泰兴</sup></small> 碧青碧绿<sup>\[泰兴\]</sup>  
 1. 【[青的间紫的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_dii_gaen_zz.md#青的间紫的)】`qien1 dii gaen5 zz3 dii` <sup>[如皋]</sup> 青中有紫的样子。常状皮肤伤势。  
 1. 【[青拂拂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_feh_feh.md#青拂拂)】`qien1 feh7 feh7` <sup>[兴化]</sup> 形容青翠鲜嫩的样子：田里的秧苗～的。  
 1. 【[青亘亘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_gen_gen.md#青亘亘)】`qien1 gen gen5` <sup>[兴化]</sup> 形容葱绿茂盛：田岸上的桃树红了，柳树绿了，那一望无际的麦苗～地长高了。（马春阳《四十块钱》）  
@@ -1045,28 +1046,31 @@
 1. 【[青鲩/青鯶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_huen.md#青鲩/青鯶)】`qien1 huen6` <small>/t͡ɕʰin1 xuən6/<sup>兴化</sup></small> 青鱼\[兴化：也称“黑鲩”。\]\[如东：也称乌鲩。\]  
 1. 【[青鲩（鯶）枕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_huen_zhen.md#青鲩（鯶）枕)】`qien1 huen6 zhen3` <sup>[如东]</sup> 鲤科动物青鱼头中的枕骨。  
 1. 【[青隐隐的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ien_ien_dii.md#青隐隐的)】`qien1 ien3 ien3 dii` <sup>[如皋]</sup> 稍稍含有青色成份。  
+1. 【[青椒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_jio.md#青椒)】`qien1 jio1` <small>/t͡ɕʰiŋ1 t͡ɕiɔ1/<sup>泰兴</sup></small> 辣椒的一种，辣味较淡。<sup>\[泰兴\]</sup>  
 1. 【[青鯶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_kuen.md#青鯶)】`qien1 kuen6` <small>/t͡ɕʰiəŋ1 kʰuəŋ1/<sup>如皋</sup></small> ① 青鱼。<sup>\[如皋\]</sup> ② 一种淡水鱼。硬骨鱼纲，鲤科。也称说“青鱼”。<sup>\[东台\]</sup>  
 1. 【[青楼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_leu.md#青楼)】`qien1 leu2` <sup>[如东]</sup> 妓院。  
 1. 【[青篱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_li.md#青篱)】`qien1 li2` <sup>[如皋]</sup> 大叶黄杨。  
 1. 【[青麻头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ma_teu.md#青麻头)】`qien1 ma2 teu2` <sup>[如皋]</sup> 蟀蟋名。  
 1. 【[青篾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_mih.md#青篾)】`qien1 mih8` <sup>[如皋]</sup> 竹篾的面层，与黄篾相对。  
 1. 【[青苗会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_mio_huei.md#青苗会)】`qien1 mio2 huei6` <sup>[如皋]</sup> 旧时乡间请夏巫主持的祭社神会。  
+1. 【[青苗会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_mio_huei.md#青苗会)】`qien1 mio2 huei6` <small>/t͡ɕʰiŋ1 miɔ2 xuəɪ1/<sup>泰兴</sup></small> 旧时祭祀土地神的一种迷信活动。常演小戏、说书等，企望五谷丰登。时间一般在三麦登场前。<sup>\[泰兴\]</sup>  
 1. 【[青薄味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_pah_vei.md#青薄味)】`qien1 pah vei6` <sup>[兴化]</sup> 像没有煮熟的菜或没有成熟的瓜果那种口感：一股～。  
 1. 【[青肨气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_pan_qi.md#青肨气)】`qien1 pan1 qi5` <sup>[东台]</sup> ① 生食未成熟的水果、蔬菜苦涩的口感。 ② 绿色植物摆久了，发出的一种难闻的气味。（《广韵》“肨，匹绛切，胀臭貌。”）  
 1. 【[青皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_pi.md#青皮)】`qien1 pi2` <small>/t͡ɕʰin1 pʰi2/<sup>兴化</sup></small> ① 无赖之辈<sup>\[兴化\]</sup>：他虽是好人家子弟，交的却是一帮～光蛋。<sup>\[兴化\]</sup>｜……三等打手都是光棍～一流人物。（《四杰传》三四）<sup>\[兴化\]</sup> ② 俗称无赖流氓，旧时此辈多刺青者，故名<sup>\[泰州\]</sup>：这个老家伙少年时候是东街上的～。<sup>\[泰州\]</sup>  
 1. 【[青蒲簖蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_pv_dun_hae.md#青蒲簖蟹)】`qien1 pv2 dun5 hae3` <sup>[东台]</sup> 溱东青蒲一带用竹枝或苇杆立于水中捕捞的螃蟹。  
 1. 【[青气味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_qi_vei.md#青气味)】`qien1 qi5 vei6` <sup>[泰州]</sup> 没有烧熟的绿色蔬菜的青涩气味或者没有成熟的瓜果的生涩口感：你青菜不曾烧得烂，吃咖嘴里还有点儿～唻。  
 1. 【[青丝气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_sz_qi.md#青丝气)】`qien1 sz1 qi5` <sup>[如皋]</sup> 象田青等绿色植物弄破后的气味。  
+1. 【[青丝味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_sz_vei.md#青丝味)】`qien1 sz1 vei6` <small>/t͡ɕʰiŋ1 sɿ1 ʋəɪ1/<sup>泰兴</sup></small> 未煮熟的、生的植物、蔬菜的味道。<sup>\[泰兴\]</sup>  
 1. 【[青黛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_tae.md#青黛)】`qien1 tae6` <sup>[如东]</sup> 十字花科植物菘蓝叶的干燥色素。  
 1. 【[青堂白日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_tan_poh_rih.md#青堂白日)】`qien1 tan2 poh8 rih8` <sup>[兴化]</sup> 大白天：你覅～说梦话，这件事万万办不到。也说“青天白日”。  
 1. 【[青天白日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_tin_poh_rih.md#青天白日)】`qien1 tin1 poh8 rih8` <sup>[兴化]</sup> 大白天。  
-1. 【[青条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_tio.md#青条)】`qien1 tio2` <small>/t͡ɕʰiəŋ1 tʰiɔ2/<sup>如皋</sup></small> 水烟丝。参见“筛青”。<sup>\[如皋\]</sup>  
+1. 【[青条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_tio.md#青条)】`qien1 tio2` <small>/t͡ɕʰiəŋ1 tʰiɔ2/<sup>如皋</sup>, /t͡ɕʰiŋ1 tʰiɔ2/<sup>泰兴</sup></small> ① 水烟丝。参见“筛青”。<sup>\[如皋\]</sup> ② 水烟的一种。<sup>\[泰兴\]</sup>  
 1. 【[青蛙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_va.md#青蛙)】`qien1 va1` <sup>[如东]</sup> 蛙科动物黑斑蛙、金线蛙等蛙类动物的总称。俗称田鸡。  
 1. 【[青虾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_xia.md#青虾)】`qien1 xia1` <sup>[如东]</sup> 长臂虾科动物青虾，体形粗短。  
-1. 【[青鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_y.md#青鱼)】`qien1 y2` 主要淡水养殖鱼类，体型较草鱼细而圆，背青黑色，腹银白色。<sup>\[泰州\]</sup>  
+1. 【[青鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_y.md#青鱼)】`qien1 y2` <small>/t͡ɕʰiŋ1 y2/<sup>泰兴</sup></small> ① 主要淡水养殖鱼类，体型较草鱼细而圆，背青黑色，腹银白色。<sup>\[泰州\]</sup> ② 颜色青黑的鱼。也称黑鲩。乡人俗称青鱼、背鲲。<sup>\[泰兴\]</sup>  
 1. 【[青竹蛇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_zhoh_sha.md#青竹蛇)】`qien1 zhoh7 sha2` <sup>[如东]</sup> 蝮蛇科动物竹叶青蛇，也称青草蛇。  
 1. 【[青桩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_zhuan.md#青桩)】`qien1 zhuan1` <sup>[兴化]</sup> 鹭鹚：惊起一只～（一种水鸟）擦着芦穗，扑鲁鲁鲁的飞远了。（汪曾祺《受戒》）‖也称“老等”。  
-1. 【[青砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_zhun.md#青砖)】`qien1 zhun1` <small>/t͡ɕʰin1 t͡sũ1/<sup>兴化</sup>, /t͡ɕʰiəŋ1 t͡sʊ̃1/<sup>如皋</sup></small> ① 烧制中洇过水的青色砖。<sup>\[如皋\]</sup> ② 砖丕烧熟后，用水慢慢洇透，即呈青灰色，称青砖。<sup>\[如东\]</sup> ③ 青灰色砖块，因烧制工艺不同，质地优于红砖。<sup>\[兴化\]</sup> ④ 砖头品种之一，烧制过程中加水冷却，使黏土中的铁不完全氧化而呈青色，故名<sup>\[泰州\]</sup>：他家天井里全部铺的～。<sup>\[泰州\]</sup>  
+1. 【[青砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_zhun.md#青砖)】`qien1 zhun1` <small>/t͡ɕʰin1 t͡sũ1/<sup>兴化</sup>, /t͡ɕʰiəŋ1 t͡sʊ̃1/<sup>如皋</sup>, /t͡ɕʰiŋ1 t͡sʊ̃1/<sup>泰兴</sup></small> ① 烧制中洇过水的青色砖。<sup>\[如皋\]</sup> ② 砖丕烧熟后，用水慢慢洇透，即呈青灰色，称青砖。<sup>\[如东\]</sup> ③ 青灰色砖块，因烧制工艺不同，质地优于红砖。<sup>\[兴化\]</sup> ④ 砖头品种之一，烧制过程中加水冷却，使黏土中的铁不完全氧化而呈青色，故名<sup>\[泰州\]</sup>：他家天井里全部铺的～。<sup>\[泰州\]</sup> ⑤ 颜色青黑的小条砖。<sup>\[泰兴\]</sup>  
 1. 【[青枣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_zo_r.md#青枣<sub>儿</sub>)】`qien1 zo3 r` <sup>[如皋]</sup> 本地产的枣子，作水果吃。  
 1. 【[青紫贡吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_zz_gon_nga.md#青紫贡吖)】`qien1 zz3 gon5 nga` <sup>[如皋]</sup> 皮肤内现出淤血痕并肿起。贡，借指肿胀发炎。  
 1. 【[顉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien.md#顉)】`qien1` <small>/t͡ɕʰiəŋ1/<sup>如皋</sup></small> ① （【廣韻】去金切【集韻】【韻會】祛音切【正韻】驅音切，音欽。【廣韻】曲頤之貌。【前漢·揚雄傳】顉頤折頞。） ② 微微抖动<sup>\[如皋\]</sup>：头～吖～的。<sup>\[如皋\]</sup>  
