@@ -912,12 +912,13 @@
 1. 【[尾巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_ba.md#尾巴)】`vei3 ba` <sup>[如东]</sup> 鸟、兽、虫、鱼等动物的身体末端突出的部分，主要作用是辅助运动，保持身体平衡等。  
 1. 【[尾巴桩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_ba_zhuan.md#尾巴桩)】`vei3 ba zhuan1` <sup>[兴化]</sup> ① 尾骨：一天坐到晚，～也坐疼吖。 ② （引）根梢：这种恶人，老天爷让他绝到～儿。  
 1. 【[尾巴桩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_ba_zhuan_r.md#尾巴桩<sub>儿</sub>)】`vei3 ba zhuan1 r` <small>/ʋei3 pa t͡sua˞1/<sup>如皋</sup>, /ʋəɪ3 pa t͡ɕyɑŋ1 ɚ/<sup>泰县</sup></small> ① 尾椎骨 ② 尾椎。<sup>\[如皋\]</sup> ③ 尾骨。<sup>\[泰县\]</sup>  
+1. 【[尾巴桩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_ba_zhuan_zz.md#尾巴桩子)】`vei3 ba zhuan1 zz` <small>/ʋəɪ3 pɑ t͡suɑŋ1 t͡sɿ/<sup>泰兴</sup></small> 尾椎骨。<sup>\[泰兴\]</sup>  
 1. 【[尾巴桩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_ba_zhuan_r.md#尾巴桩<sub>儿</sub>)】`vei3 ba1 zhuan1 r` <sup>[如东]</sup> 尾骨。  
 1. 【[尾刀韭菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_do_jieu_cae.md#尾刀韭菜)】`vei3 do1 jieu3 cae5` <sup>[如皋]</sup> 深秋，最后一次割的韭菜与春天的头、二刀一样好吃。  
 1. 【[尾会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_huei.md#尾会)】`vei3 huei6` <sup>[如皋]</sup> 民间小型集资称“请会”，然后摇“色子”按大小决定各人得会的次序，最后得的会称～。  
 1. 【[尾面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_min.md#尾面)】`vei3 min6` <sup>[如皋]</sup> 最后一次出的面粉。  
 1. 【[尾欠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_qin.md#尾欠)】`vei3 qin5` <sup>[东台]</sup> ［喻］指剩下尚未交纳或偿还的一部分财物。  
-1. 【[尾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_zz.md#尾子)】`vei3 zz` <small>/uəi3 t͡sɿ/<sup>兴化</sup></small> ① ［喻］结账大数目之外剩下的小数目。<sup>\[东台\]</sup> ② 尾巴<sup>\[兴化\]</sup>：老鼠～；狗～。<sup>\[兴化\]</sup> ③ （借）事物的最后部分<sup>\[兴化\]</sup>：还有点儿～处理下子。<sup>\[兴化\]</sup> ④ （借）零头或尾数<sup>\[兴化\]</sup>：换点零钱找～。<sup>\[兴化\]</sup>  
+1. 【[尾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_zz.md#尾子)】`vei3 zz` <small>/uəi3 t͡sɿ/<sup>兴化</sup>, /ʋəɪ3 t͡sɿ/<sup>泰兴</sup></small> ① 尾巴<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：老鼠～；狗～。<sup>\[兴化\]</sup> ② 借指末尾部分<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：还有点儿～处理下子。<sup>\[兴化\]</sup> ③ 借指零头或尾数<sup>\[兴化\]</sup><sup>\[泰兴\]</sup><sup>\[东台\]</sup>：换点零钱找～。<sup>\[兴化\]</sup>  
 1. 【[尾子汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_zz_tan.md#尾子汤)】`vei3 zz tan1` <sup>[兴化]</sup> 饭店里煮肉的汤，洒一点蒜花和盐之类，免费供顾客下饭。  
 1. 【[尾子账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_zz_zhan.md#尾子账)】`vei3 zz zhan5` <sup>[兴化]</sup> ① 剩下的数额不多的往来账目：抽空去把几笔～收下子。 ② （喻）未了情：啊呀，不好！我跟曹操还有这么一件～没有勾掉呢！（《火烧赤壁》九）  
 1. 【[痿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei.md#痿)】`vei3` ① 没有精神。<sup>\[如东\]</sup>：他现在～啊。<sup>\[如东\]</sup> ② 疲劳。<sup>\[如东\]</sup>：忙吖一天，现在～啊。<sup>\[如东\]</sup> ③ 身体某部分机能萎缩或失去机能<sup>\[东台\]</sup>：阳～<sup>\[东台\]</sup>  

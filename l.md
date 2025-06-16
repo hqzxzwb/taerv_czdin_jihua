@@ -1190,6 +1190,7 @@
 1. 【[棂子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_zz.md#棂子)】`lien2 zz` <sup>[如东]</sup> 窗户中间安装的木槅子。  
 1. 【[淋灰水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_huei_shuei.md#淋灰水)】`lien2 huei1 shuei3` <sup>[如皋]</sup> 见“𤃀灰水”。  
 1. 【[灵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien.md#灵)】`lien2` <sup>[如皋]</sup> 蟋蟀精子：过～  
+1. 【[灵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien.md#灵)】`lien2` <small>/liŋ2/<sup>泰兴</sup></small> 准确，有效验。也是玄学说法，指神祇会显灵起效。<sup>\[泰兴\]</sup>：上个月拜的那个菩萨，些人总说的～ngae<sup>\[泰兴\]</sup>  
 1. 【[灵床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_chuan.md#灵床)】`lien2 chuan2` <sup>[东台]</sup> 停放尸体的床铺。  
 1. 【[灵泛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_faen.md#灵泛)】`lien2 faen` <small>/liəŋ2 fẽ/<sup>如皋</sup></small> ① 聪明 ② 聪明灵慧。<sup>\[如皋\]</sup> ③ 如皋白蒲义为干净。<sup>\[如皋\]</sup>  
 1. 【[灵泛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_faen.md#灵泛)】`lien2 faen5` <sup>[如东]</sup> 聪明，能干。  

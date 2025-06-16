@@ -425,6 +425,7 @@
 1. 【[痞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#痞)】`pi3` <sup>[如皋]</sup> 奇怪癖好：烟～（吞烟丝、烟灰）、土～（吞吃泥土）、纸～（吃纸团儿）、瓦～（嚼食瓦块）。  
 1. 【[痞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_zz.md#痞子)】`pi3 zz` 闲荡在社会底层的流氓无赖。<sup>\[泰州\]</sup>  
 1. 【[𤿎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#𤿎)】`pi3` <sup>[兴化]</sup> 破裂，《集韵·旨韵》普鄙切“《方言》南楚谓器破而未离曰～。”：凳腿子～掉啊。｜树枝～开啊。  
+1. 【[屁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#屁)】`pi5` <small>/pʰʝ5/<sup>泰兴</sup></small> 没有。粗俗语。<sup>\[泰兴\]</sup>  
 1. 【[屁巴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_ba_zz.md#屁巴子)】`pi5 ba1 zz` <small>/pʰi5 pa1 t͡sɿ/<sup>兴化</sup>, /pʰʝ5 pa1 t͡sɿ/<sup>如皋</sup></small> ① 比喻什么都没有，什么都不是 ② 没有，没有了。<sup>\[如皋\]</sup> ③ 屁是从肛门喷出的一种臭气，不可能形成巴子。比喻什么都没有。<sup>\[如东\]</sup> ④ 什么也没有；不可能。<sup>\[东台\]</sup> ⑤ 屁，形容什么也没有。<sup>\[兴化\]</sup>  
 1. 【[屁大的辰光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_da_dii_chen.md#屁大的辰光)】`pi5 da6 dii chen2 guan1` <sup>[如皋]</sup> 短暂、一刻儿。  
 1. 【[屁颠屁颠的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_din_pi_din.md#屁颠屁颠的)】`pi5 din1 pi5 din1 dii` <sup>[东台]</sup> 因激动或着急走路不稳的样子：他受到表扬，～来报告。  
@@ -440,22 +441,24 @@
 1. 【[屁股里夹大斧——斫屎（作死）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_gu_lii_gaeh.md#屁股里夹大斧——斫屎（作死）)】`pi5 gu lii gaeh7 tae6 fv3 zhah7 shr3 （zah7 sz3）` <sup>[东台]</sup>   
 1. 【[屁股丫巴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_gu_nga_ba.md#屁股丫巴<sub>儿</sub>)】`pi5 gu nga1 ba1 r` <sup>[如东]</sup> 两条大腿的连接处，称屁股丫巴儿。  
 1. 【[屁股眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_gu_ngaen_r.md#屁股眼<sub>儿</sub>)】`pi5 gu ngaen3 r` <sup>[如东]</sup> 肛门。  
-1. 【[屁股头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_gu_teu_zz.md#屁股头子)】`pi5 gu teu2 zz` <small>/pʰi5 ko tʰɤ2 t͡sɿ/<sup>兴化</sup></small> ① 指大腿根部以上，臀部以下部分。<sup>\[兴化\]</sup> ② 臀部凸出之处<sup>\[泰州\]</sup>：他晚上七多钟到家，～还不曾挨到板凳，夜饭都不曾吃，就又捱人喊吖走啊唻。<sup>\[泰州\]</sup>  
+1. 【[屁股头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_gu_teu_zz.md#屁股头子)】`pi5 gu teu2 zz` <small>/pʰi5 ko tʰɤ2 t͡sɿ/<sup>兴化</sup>, /pʰʝ5 kɤɯ tʰəɪ2 t͡sɿ/<sup>泰兴</sup></small> ① 指大腿根部以上，臀部以下部分。<sup>\[兴化\]</sup> ② 臀部凸出之处<sup>\[泰州\]</sup>：他晚上七多钟到家，～还不曾挨到板凳，夜饭都不曾吃，就又捱人喊吖走啊唻。<sup>\[泰州\]</sup> ③ 屁股。<sup>\[泰兴\]</sup>  
 1. 【[屁股作痒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_gu_zah_ian.md#屁股作痒)】`pi5 gu zah7 ian3` <sup>[泰州]</sup> 屁股产生痒的感觉，意谓讨打，旧时官府审讯人犯时的肉刑之一就是用板抽打人犯屁股，故有此语：二小，你哿是～，要讨打啊！  
 1. 【[屁股嘴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_gu_jy_r.md#屁股嘴<sub>儿</sub>)】`pi5 gu3 jy3 r` <sup>[东台]</sup> ① （詈语）指某人不负责任乱说，或者重三倒四瞎说。 ② 言而无信，说话不算数。  
 1. 【[屁股赖下来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_gu_lae_ha.md#屁股赖下来)】`pi5 gu3 lae6 ha6 lae` <sup>[东台]</sup> ［喻］执着地拼命争取：人家本来不带他去旅行，他～说好说丑，才挤上这趟车。  
-1. 【[屁话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_hua.md#屁话)】`pi5 hua6` ① 没有作用的言语。<sup>\[如东\]</sup>：那是～。<sup>\[如东\]</sup> ② 废话，不负责任的话。<sup>\[东台\]</sup> ③ 毫无价值、令人讨厌的话<sup>\[泰州\]</sup>：你说的全是～。<sup>\[泰州\]</sup>  
+1. 【[屁话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_hua.md#屁话)】`pi5 hua6` <small>/pʰʝ5 xuɑ1/<sup>泰兴</sup></small> ① 没有作用的言语。<sup>\[如东\]</sup>：那是～。<sup>\[如东\]</sup> ② 废话，不负责任的话。<sup>\[东台\]</sup> ③ 毫无价值、令人讨厌的话<sup>\[泰州\]</sup>：你说的全是～。<sup>\[泰州\]</sup> ④ 骂人语。指毫无价值或荒谬绝伦的话。<sup>\[泰兴\]</sup>  
 1. 【[屁用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_ion.md#屁用)】`pi5 ion6` 没有作用。<sup>\[如东\]</sup><sup>\[泰州\]</sup>：这种绳子～。<sup>\[如东\]</sup>｜他手上又没得个芝麻大的权，你同他说咖有个～。<sup>\[泰州\]</sup>  
 1. 【[屁精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_jien.md#屁精)】`pi5 jien` <sup>[兴化]</sup> ① 指男同性恋者。 ② 形容油头粉面，扭扭捏捏的男子。  
-1. 【[屁精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_jien.md#屁精)】`pi5 jien1` <small>/pʰʝ5 t͡ɕiəŋ1/<sup>如皋</sup></small> ① 娈童。<sup>\[如皋\]</sup> ② 两性人。又称二姑娘。<sup>\[如皋\]</sup> ③ 詈语。指妖艳、女人腔的男人。<sup>\[如皋\]</sup> ④ 女性化的男人。<sup>\[如东\]</sup> ⑤ 性别特征不确定的畸性人<sup>\[东台\]</sup>：他娘娘腔腔的，十足的～。<sup>\[东台\]</sup>  
+1. 【[屁精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_jien.md#屁精)】`pi5 jien1` <small>/pʰʝ5 t͡ɕiəŋ1/<sup>如皋</sup>, /pʰʝ5 t͡ɕiŋ1/<sup>泰兴</sup></small> ① 娈童。<sup>\[如皋\]</sup> ② 两性人。又称二姑娘。<sup>\[如皋\]</sup> ③ 詈语。指妖艳、女人腔的男人。<sup>\[如皋\]</sup> ④ 女性化的男人。<sup>\[如东\]</sup> ⑤ 性别特征不确定的畸性人<sup>\[东台\]</sup>：他娘娘腔腔的，十足的～。<sup>\[东台\]</sup> ⑥ 骂人语。专注打扮、油头粉面的男人。<sup>\[泰兴\]</sup>  
 1. 【[屁漏筒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_leu_ton_zz.md#屁漏筒子)】`pi5 leu ton3 zz` <sup>[泰州]</sup> 肛瘘病的瘘管，比喻常出纰漏引发事故之人：这小伙是个～，最好不要派他，当心他给你弄出点事来。  
 1. 【[屁瘘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_leu.md#屁瘘)】`pi5 leu6` <sup>[兴化]</sup> ① 肛瘘。 ② 纰漏事故或漏洞：～，大门钥匙落去啊。  
 1. 【[屁瘘筒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_leu_ton_zz.md#屁瘘筒子)】`pi5 leu6 ton3 zz` <sup>[兴化]</sup> 指言行无定准，常出岔子，捅漏子的人。  
 1. 【[屁丫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_nga_r.md#屁丫<sub>儿</sub>)】`pi5 nga1 r` 屁股，肛门附近。  
 1. 【[屁眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_ngaen.md#屁眼)】`pi5 ngaen3` <sup>[东台]</sup> 肛门的俗称。  
+1. 【[屁眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_ngaen.md#屁眼)】`pi5 ngaen3-1` <small>/pʰʝ5 ŋɛ̃3/<sup>泰兴</sup></small> 肛门。<sup>\[泰兴\]</sup>  
 1. 【[屁眼沟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_ngaen_geu.md#屁眼沟)】`pi5 ngaen3 geu1` <small>/pʰi5 ɛ̃3 kɤ1/<sup>兴化</sup></small> ① 肛门两侧<sup>\[兴化\]</sup>：～全是湿疹。<sup>\[兴化\]</sup> ② 屁股沟，屁股凹处。<sup>\[泰州\]</sup>  
 1. 【[屁眼门子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_ngaen_men_zz.md#屁眼门子)】`pi5 ngaen3 men2 zz` <sup>[兴化]</sup> 肛门：屎不到～不着忙（比喻办事拖拉，不到临时不去办）。  
 1. 【[屁屁拉拉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_pi_la_la.md#屁屁拉拉)】`pi5 pi5 la1 la1` <sup>[如东]</sup> 说话随便，不分场合。把不该说的话随便地向外叙说：他～的，到处乱说。  
+1. 【[屁屁赖赖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_pi_lae_lae.md#屁屁赖赖)】`pi5 pi5 lae6 lae6` <small>/pʰʝ5 pʰʝ5 lɛ1 lɛ1/<sup>泰兴</sup></small> 躲闪赖账；语言粗俗不雅。<sup>\[泰兴\]</sup>  
 1. 【[屁屁赖赖的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_pi_lae_lae.md#屁屁赖赖的)】`pi5 pi5 lae6 lae6 dii` <small>/pʰʝ5 pʰʝ5 lɛ1 lɛ1 tei/<sup>如皋</sup></small> ① 胡闹、耍赖、不守信。<sup>\[如皋\]</sup> ② 形容说话不算数，赖皮。<sup>\[东台\]</sup>  
 1. 【[屁屁连连](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_pi_lin_lin.md#屁屁连连)】`pi5 pi5 lin2 lin2` <sup>[泰县]</sup> 不断说些不干净的话：你不要～的，不然我要打你啦。  
 1. 【[屁屁腔腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_pi_qian_qian.md#屁屁腔腔)】`pi5 pi5 qian1 qian1` <sup>[兴化]</sup> 形容油头粉面，扮相不男不女或说话时头动肢摇，尖声尖气的男人。  

@@ -884,10 +884,12 @@
 1. 【[陈草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_co.md#陈草)】`chen2 co3` <sup>[如皋]</sup> 往年积存的草。  
 1. 【[陈饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_faen.md#陈饭)】`chen2 faen6` <small>/t͡sʰəŋ2 fẽ1/<sup>如皋</sup></small> ① 去年的饭。除夕煮一锅饭，连锅巴完整地盛起来，搁置在圣柜上，插一枝侧柏，上挂铜钱、花生、莲子、白果、桂圆等，象征福禄寿喜财，多子团圆。正月间，每日煮饭取用一点，称吃陈饭，祝福富裕安康。<sup>\[如东\]</sup> ② 去年的饭。民俗于除夕煮一锅饭，连锅巴完整盛起，置圣柜上，上插一大枝侧柏，柏上挂许多铜钱、染红的长生果、莲子、白果儿、桂圆等。正月间每日煮饭取用一点。“吃陈饭，烧陈草”祝颂富裕。<sup>\[如皋\]</sup> ③ 农历除夕盛起来，过了正月初五才倒下来吃的饭。寓意为过着吃陈粮的好日子。～装满盆，盘成馒头状，上嵌桂圆、红枣等干果和几种糕点，上插纸制～旗和四季常青的柏树枝，寓意长久富足。<sup>\[东台\]</sup>  
 1. 【[陈酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_jieu.md#陈酒)】`chen2 jieu3` <sup>[如东]</sup> 以夏枯草、茵陈草浸泡的一种低度酒。  
+1. 【[陈酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_jieu.md#陈酒)】`chen2 jieu3` <small>/t͡sʰəŋ2 t͡ɕiɤɯ3/<sup>泰兴</sup></small> 一种饮后起暖的酒。存放时间较长的酒。<sup>\[泰兴\]</sup>  
 1. 【[陈粮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_lian.md#陈粮)】`chen2 lian2` <sup>[泰州]</sup> 隔年粮食：去年的～。  
-1. 【[陈米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_mi.md#陈米)】`chen2 mi3` <small>/t͡sʰən2 mi3/<sup>兴化</sup></small> ① 存放多年的大米。<sup>\[如东\]</sup>：～煮饭味道不香。<sup>\[如东\]</sup> ② 不是当年出产的稻米。<sup>\[东台\]</sup> ③ 上年积存的米。<sup>\[兴化\]</sup> ④ 上年或多年存放的稻谷碾成的米。<sup>\[兴化\]</sup> ⑤ 久存的稻米或隔年的稻米<sup>\[泰州\]</sup>：～煮饭不好吃。<sup>\[泰州\]</sup>  
+1. 【[陈米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_mi.md#陈米)】`chen2 mi3` <small>/t͡sʰən2 mi3/<sup>兴化</sup>, /t͡sʰəŋ2 mʝ3/<sup>泰兴</sup></small> ① 存放多年的大米。<sup>\[如东\]</sup>：～煮饭味道不香。<sup>\[如东\]</sup> ② 不是当年出产的稻米。<sup>\[东台\]</sup> ③ 上年积存的米。<sup>\[兴化\]</sup> ④ 上年或多年存放的稻谷碾成的米。<sup>\[兴化\]</sup> ⑤ 久存的稻米或隔年的稻米<sup>\[泰州\]</sup>：～煮饭不好吃。<sup>\[泰州\]</sup> ⑥ 隔年的米。<sup>\[泰兴\]</sup>  
 1. 【[陈猫古老鼠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_mo_gv_lo.md#陈猫古老鼠)】`chen2 mo2 gv3 lo3 chv3` <sup>[兴化]</sup> ① 陈旧的话题：他说的全是些～的往事。 ② （借）在角角落落乱翻乱拣：他没事做，就～的寻东西吃。  
 1. 【[陈年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_nin.md#陈年)】`chen2 nin2` <sup>[如东]</sup> 去年：～朆有空去，只好今年去。  
+1. 【[陈年家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_nin_ga.md#陈年家)】`chen2 nin2 ga` <small>/t͡sʰəŋ2 nĩ2 kɑ/<sup>泰兴</sup></small> 去年，往年，年代久远的。<sup>\[泰兴\]</sup>：～的话不要扒出来说<sup>\[泰兴\]</sup>  
 1. 【[陈年子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_nin_zz.md#陈年子)】`chen2 nin2 zz` <sup>[如皋]</sup> 去年、往年。  
 1. 【[陈皮酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_pi_jieu.md#陈皮酒)】`chen2 pi2 jieu3` <sup>[东台]</sup> 东台名特产品。始酿于清乾隆年间，选用上等精白糯米，陈皮等名贵中草药精酿而成，具有理气开胃、舒筋活血、妇女产后保健等功效。  
 1. 【[陈稻新做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_to_xien_zu.md#陈稻新做)】`chen2 to6 xien1 zu5` <small>/t͡sʰən2 tʰɔ6 ɕin1 t͡so5/<sup>兴化</sup></small> ① 往年的稻谷刚碾的米。<sup>\[东台\]</sup> ② ［喻］重干老行当。<sup>\[东台\]</sup> ③ 用上年或以前收获的陈稻碾出的米<sup>\[兴化\]</sup>：这虽不是新米，倒也是～的。<sup>\[兴化\]</sup>  
@@ -1332,6 +1334,7 @@
 1. 【[重孝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_xio.md#重孝)】`chon6 xio5` <sup>[如东]</sup> 头扎白带、披麻、身穿白衣、腰扎草绳、腿缠白裹脚、脚着白布鞋为重孝：～在身。  
 1. 【[重张](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_zhan.md#重张)】`chon6 zhan1` <sup>[如东]</sup> ① 在耷子和游戏中，经过测算，对方成和可能性很大的一张牌，称重张。 ② 比喻十分重要的问题：这个问题是～，处理时要谨慎。  
 1. 【[䟳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr.md#䟳)】`chr1` <small>/t͡sʰɿ1/<sup>兴化</sup>, /t͡sʰɿ1/<sup>如皋</sup></small> ① 脚下滑动。<sup>\[如东\]</sup>：路上泥泞，～啊一跤。<sup>\[如东\]</sup> ② 滑动<sup>\[如皋\]</sup>：～滑板；脚头一～差点儿跌下来；路上融冻，一～一滑的。<sup>\[如皋\]</sup> ③ 热锅快炒，使热即盛起<sup>\[如皋\]</sup>：把冷菜放吖锅里～下子再吃。<sup>\[如皋\]</sup> ④ （烹调法）大火快速加热<sup>\[东台\]</sup>：粥冷吖，放到锅里～下子。<sup>\[东台\]</sup> ⑤ 滑动。<sup>\[东台\]</sup> ⑥ 将少量冷粥、冷汤或冷水放在锅中稍稍加热<sup>\[兴化\]</sup>：把粥～下子；～点儿水洗脸。<sup>\[兴化\]</sup> ⑦ 足滑<sup>\[泰州\]</sup>：地下结咖冰～人，你走路要当心！<sup>\[泰州\]</sup>｜这个楼道不曾安灯，晚上他下楼的时候，差点儿～啊跌咖唻。<sup>\[泰州\]</sup> ⑧ 烹饪方法，将食物在烧热的锅壁上稍稍翻动一下去其凉气，取其“在热锅内滑过”之义<sup>\[泰州\]</sup>：冷粥不能吃，你在锅里～一下再吃。<sup>\[泰州\]</sup>｜菜里油都凉吖唻，你在锅里～啊子再吃。<sup>\[泰州\]</sup> ⑨ 特指快速行走<sup>\[泰州\]</sup>：从这块到坡子街就这点儿路，你脚一～就到啊唻。<sup>\[泰州\]</sup> ⑩ 从斜面上滑降或从平面上滑过<sup>\[泰州\]</sup>：你从滑梯上一～，人就下来啊。<sup>\[泰州\]</sup>｜他在滑板上走你跟前一～，人就过去啊。<sup>\[泰州\]</sup>  
+1. 【[䟳䟳沰沰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_chr_dah_dah.md#䟳䟳沰沰)】`chr1 chr1 dah7 dah7` <small>/t͡sʰɿ1 t͡sʰɿ1 tɑʔ7 tɑʔ7/<sup>泰兴</sup></small> 拖拖拉拉，迟疑不决；曲意回避。<sup>\[泰兴\]</sup>  
 1. 【[䟳䟳□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_chr_kuaeh_kuaeh.md#䟳䟳□□)】`chr1 chr1 kuaeh7 kuaeh7` <sup>[如东]</sup> 只凭热情从事某项活动：他～的想经商，实际上他没得这方面的经验。  
 1. 【[䟳裆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_dan.md#䟳裆)】`chr1 dan1` <sup>[泰州]</sup> 劈叉：他从小就练武，筋抻（shen5）得好，60多岁的人还能～。  
 1. 【[䟳古𧺕东](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_gv_shah_don.md#䟳古𧺕东)】`chr1 gv1 shah8 don1` <sup>[如皋]</sup> 撒娇、任性、轻佻不羁、恣意妄为的样子。  
@@ -1394,6 +1397,7 @@
 1. 【[漦而喖而的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_r_kv_r.md#漦而喖而的)】`chr2 r kv2 r dii` <sup>[如皋]</sup> ① 形容语音含糊不清。 ② 形容腹中不爽。 ③ 形容理事不清。  
 1. 【[漦污搨污的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_v_taeh_v.md#漦污搨污的)】`chr2 v taeh7 v dii` <sup>[如皋]</sup> 黏稠物流涂，令人生厌状。  
 1. 【[迟早](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_zo.md#迟早)】`chr2 zo3` <sup>[如东]</sup> 早晚：～要办。  
+1. 【[□摇𧺕拐的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_io_shah_guae.md#□摇𧺕拐的)】`chr3 io2 shah8 guae3 dii` <small>/t͡sʰɿ3 iɔ2 sɑʔ8 kuɛ3 təɪ/<sup>泰兴</sup></small> 谓人衣着不整、仪表极差的样子。<sup>\[泰兴\]</sup>  
 1. 【[齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr.md#齿)】`chr3` <sup>[兴化]</sup> 物体上齿形部分：锯～；梳～；糙～。  
 1. 【[齿陡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_deu.md#齿陡)】`chr3 deu3` <sup>[如皋]</sup> 石磨、钉钯、锯子等的齿的迎面与根部的夹角小于90°，工作时吃力而快。  
 1. 【[齿眠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_min.md#齿眠)】`chr3 min2` <sup>[如皋]</sup> 石磨、钉钯、锯子等的齿的迎面与根部的夹角大于90°，工作时省力而慢。  
@@ -1780,12 +1784,15 @@
 1. 【[舛动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_ton.md#舛动)】`chun5 ton` <sup>[泰州]</sup> ① 摆放整齐的物体中的部分物体发生移动错位：这些木头摆啊西山墙的巷肚里，捱他俫抽啊几回，～吖唻。 ② 房屋的梁或者墙体发生偏离原位现象：这几间房子多年不修，梁已经～吖。 ③ 布料、木料开始腐朽：这些衣裳又不穿，时间长吖受啊潮又不晒，老早～吖  
 1. 【[𤶱痰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_taen.md#𤶱痰)】`chun5 taen2` <small>/t͡sʰʊ̃5 tʰẽ2/<sup>如皋</sup>, /t͡sʰʊ̃5 tʰɛ̃2/<sup>泰兴</sup></small> ① 一种恶疮。全身多处化脓溃烂，此处刚收口，彼处又烂开。俗说头顶上害疮，脚底下流浓，即指此症。<sup>\[如皋\]</sup> ② 疮疖。害在一处相互影响的几个疮疖。<sup>\[泰兴\]</sup>  
 1. 【[篆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun.md#篆)】`chun6` <sup>[东台]</sup> ① 篆字书体名：晚清东台鲍赓培的～书自成一体。 ② 用篆字体铭刻：这枚印章～刻水平非常高。  
+1. 【[初八廿三半夜月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_baeh_nin_saen.md#初八廿三半夜月)】`chv1 baeh7 nin6 saen1 bun5 ia iuh8` <small>/t͡sʰu1 pæʔ7 nĩ1 ɕiɛ̃1 pʊ̃5 iɑ yʊʔ8/<sup>泰兴</sup></small> 谓农历每月初八半夜月亮隐去，二十三半夜升起。<sup>\[泰兴\]</sup>  
+1. 【[初八廿三，潮不上滩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_baeh_nin_saen.md#初八廿三，潮不上滩)】`chv1 baeh7 nin6 saen1 cho2 beh7 shan6 taen1` <small>/t͡sʰu1 pæʔ7 nĩ1 ɕiɛ̃1 t͡sʰɔ2 pəʔ7 sɑŋ1 tʰɛ̃1/<sup>泰兴</sup></small> 谓逢农历每月初八、二十三，下潮而不涨潮。<sup>\[泰兴\]</sup>  
 1. 【[初二初三一线斜，初七初八半夜月，十五十六两头红，二十九，亮月子出来扭三扭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_er_chv_saen.md#初二初三一线斜，初七初八半夜月，十五十六两头红，二十九，亮月子出来扭三扭)】`chv1 er6 chv1 saen1 ieh7 xin5 qia2 chv1 qieh7 chv1 baeh7 bun5 ia6 iuh8 sheh8 v3 sheh8 loh8 laen3 teu2 hon2 er6 sheh8 jieu3 lian6 iuh8 zz chueh7 lae2 nieu3 saen1 nieu3` <sup>[东台]</sup> 月亮在一个月中的圆缺变化规律。  
 1. 【[初伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_foh.md#初伏)】`chv1 foh8` <sup>[如皋]</sup> 夏至后第三个庚日起，计十天。  
 1. 【[初一吃掉，月半寡寡的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_ieh_qieh_tio.md#初一吃掉，月半寡寡的)】`chv1 ieh7 qieh7 tio iuh8 bun5 gua3 gua3 dii` <sup>[东台]</sup> 形容人过日子办事不会统筹兼顾，寅吃卯粮。  
 1. 【[初一日子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_ieh_rih_zz.md#初一日子)】`chv1 ieh7 rih8 zz` <sup>[如皋]</sup> 比“初一”多了神圣色彩。每逢这一天，信佛者都去敬香。往往形成集市。  
 1. 【[初十脚下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_sheh_jiah_ha.md#初十脚下)】`chv1 sheh8 jiah7 ha` <small>/t͡sʰu1 səʔ8 t͡ɕiaʔ7 xa/<sup>如皋</sup></small> ① 农历初十左右。<sup>\[如皋\]</sup> ② 农历初十前后。<sup>\[如皋\]</sup>  
 1. 【[初头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_teu.md#初头)】`chv1 teu2` <small>/t͡sʰu1 tʰɤ2/<sup>兴化</sup>, /t͡sʰu1 tʰei2/<sup>如皋</sup></small> ① 农历的年初、月初。<sup>\[如皋\]</sup> ② 一年或一月刚开始的日子<sup>\[兴化\]</sup>：到了一九四九年～，他请来双喜爷爷商量钉新船的事。（马春阳《姐妹姻缘船迷传》）<sup>\[兴化\]</sup>｜“且住。他生辰是六月十五日，如今却是五月～，尚有四五十日……”（《水浒传》十五）<sup>\[兴化\]</sup>  
+1. 【[初头家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_teu_ga.md#初头家)】`chv1 teu2 ga1` <small>/t͡sʰu1 tʰəɪ2 kɑ1/<sup>泰兴</sup></small> 农历每月开头的几日。<sup>\[泰兴\]</sup>：八月～张媒人来说亲<sup>\[泰兴\]</sup>  
 1. 【[初遇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_y.md#初遇)】`chv1 y6` <sup>[兴化]</sup> 第一次见面：我俫是～，面生得很。  
 1. 【[刍话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_hua.md#刍话)】`chv2 hua6` <sup>[如皋]</sup> 蛮横顶撞的话。  
 1. 【[厨刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chv_do.md#厨刀)】`chv2 do1` <sup>[泰州]</sup> 切菜刀。  

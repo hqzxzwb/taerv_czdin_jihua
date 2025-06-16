@@ -560,7 +560,7 @@
 1. 【[遮嘴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhah_jy_r.md#遮嘴<sub>儿</sub>)】`zhah7 jy3 r` <sup>[如东]</sup> 方蟹科动物红螯相手蟹，也叫红螯蟛蜞。体长约2厘米。头胸甲呈长方形，淡紫色。螯足无毛。右螯足特大，色红，能把嘴遮住，故名；左螯足小。穴居海边泥涂中。可食。  
 1. 【[遮舌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhah_shih_r.md#遮舌<sub>儿</sub>)】`zhah7 shih8 r` <sup>[如皋]</sup> 鞋口上方的舌状鞋面。  
 1. 【[酌量](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhah_lian.md#酌量)】`zhah7 lian` 斟酌，估量<sup>\[东台\]</sup><sup>\[泰州\]</sup>：这件事你～吖办吧。<sup>\[东台\]</sup>｜这件事你要好好儿～啊子，再做决定。<sup>\[泰州\]</sup>  
-1. 【[张](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan.md#张)】`zhan1` <small>/t͡saŋ1/<sup>兴化</sup>, /t͡sã1/<sup>如皋</sup></small> ① 看。<sup>\[如皋\]</sup> ② 拉开来。<sup>\[如东\]</sup>：～开。<sup>\[如东\]</sup> ③ 看。<sup>\[如东\]</sup>：～望。<sup>\[如东\]</sup> ④ 看、望<sup>\[兴化\]</sup>：他跑来一～就走。<sup>\[兴化\]</sup>｜不想石秀却在板壁后假睡，正～得着……（《水浒传》四五）<sup>\[兴化\]</sup> ⑤ 支放捕猎工具<sup>\[兴化\]</sup>：～网<sup>\[兴化\]</sup>｜～丫子（捕鱼工具）<sup>\[兴化\]</sup>｜～长鱼｜～雀儿。<sup>\[兴化\]</sup> ⑥ 看，望<sup>\[泰州\]</sup>：他朝外～吖一眼。<sup>\[泰州\]</sup>  
+1. 【[张](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan.md#张)】`zhan1` <small>/t͡saŋ1/<sup>兴化</sup>, /t͡sã1/<sup>如皋</sup>, /t͡sɑŋ1/<sup>泰兴</sup></small> ① 看。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup><sup>\[如东\]</sup>：让我去～～<sup>\[泰兴\]</sup>｜～望。<sup>\[如东\]</sup> ② 拉开来。<sup>\[如东\]</sup>：～开。<sup>\[如东\]</sup> ③ 看、望<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：他跑来一～就走。<sup>\[兴化\]</sup>｜不想石秀却在板壁后假睡，正～得着……（《水浒传》四五）<sup>\[兴化\]</sup>｜他朝外～吖一眼。<sup>\[泰州\]</sup> ④ 支放捕猎工具<sup>\[兴化\]</sup>：～网<sup>\[兴化\]</sup>｜～丫子（捕鱼工具）<sup>\[兴化\]</sup>｜～长鱼｜～雀儿。<sup>\[兴化\]</sup> ⑤ 请，央请<sup>\[泰兴\]</sup>：～媒人<sup>\[泰兴\]</sup>｜～人来帮吖卖猪子<sup>\[泰兴\]</sup>  
 1. 【[张宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_bo.md#张宝)】`zhan1 bo3` <sup>[如东]</sup> 偷偷地察看：他躲啊那许～。  
 1. 【[张半嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_bun_jy.md#张半嘴)】`zhan1 bun5 jy3` <sup>[如皋]</sup> ① 状嘴大，比常人大一半。 ② 状好说，抢着说，比别人说得厉害。  
 1. 【[张耳头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_er_teu.md#张耳头)】`zhan1 er3 teu` <sup>[如东]</sup> 耳朵向外张开的人。  
@@ -574,12 +574,15 @@
 1. 【[张邋遢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_laeh_taeh.md#张邋遢)】`zhan1 laeh8 taeh` <sup>[兴化]</sup> 明代道士张三丰，以其不修边幅号称～。兴化俗称不讲卫生或衣履不整者为～。又作“脏邋遢”。  
 1. 【[张郎寻李郎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_lan_qien_li.md#张郎寻李郎)】`zhan1 lan2 qien2 li3 lan2` <sup>[兴化]</sup> 二人互相寻找：他才来寻你，你又来寻他，真是～，忙到大天亮。  
 1. 【[张郎送李郎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_lan_son_li.md#张郎送李郎)】`zhan1 lan2 son5 li3 lan2` <sup>[东台]</sup> 两个人互相送行，依依不舍：～，送到大天亮。  
+1. 【[张郎送李郎，送到大天亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_lan_son_li.md#张郎送李郎，送到大天亮)】`zhan1 lan2 son5 li3 lan2 son5 do5 da6 tin1 lian6` <small>/t͡sɑŋ1 lɑŋ2 sɔŋ5 lʝ3 lɑŋ2 sɔŋ5 tɔ5 tɑ1 tʰĩ1 liɑŋ1/<sup>泰兴</sup></small> 你送他，他送你，相依不离。<sup>\[泰兴\]</sup>  
 1. 【[张簏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_loh_zz.md#张簏子)】`zhan1 loh8 zz` <sup>[如东]</sup> 一种海洋捕捞方式。将簏子固定在垳场上，利用潮水涨落捕捉鱼虾。  
 1. 【[张罗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_lu.md#张罗)】`zhan1 lu` 料理，安排<sup>\[泰州\]</sup>：我家儿子结婚，多亏他帮吖～。<sup>\[泰州\]</sup>  
+1. 【[张媒人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_mei_ren.md#张媒人)】`zhan1 mei2 ren2` <small>/t͡sɑŋ1 məɪ2 ɻəŋ2/<sup>泰兴</sup></small> 请媒人。乡俗农历八月初二请媒人议定儿女婚事。<sup>\[泰兴\]</sup>  
 1. 【[张牙舞爪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_nga_v_zhua.md#张牙舞爪)】`zhan1 nga2 v3 zhua3` <sup>[如东]</sup> 狷狂凶狠的样子。  
 1. 【[张眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_ngaen.md#张眼)】`zhan1 ngaen3` <sup>[兴化]</sup> 关照、注意：姑娘大啊，请你帮助～，寻个好婆家。  
 1. 【[张三有钱不会数，李四会数没得钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_saen_ieu_qin.md#张三有钱不会数，李四会数没得钱)】`zhan1 saen1 ieu3 qin2 beh7 huei6 shv3 li3 sz5 huei6 shv3 meh8 deh7 qin2` <sup>[东台]</sup> 叹息人才和资源配置不当。  
 1. 【[张挑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_tio.md#张挑)】`zhan1 tio1` <sup>[如东]</sup> 一种海洋捕捞方式。渔船的两舷各支一张挑（一种渔网）放入海洋里，利用潮水涨落捕捉鱼虾，叫做张挑。  
+1. 【[张王暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_van_bo.md#张王暴)】`zhan1 van2 bo5` <small>/t͡sɑŋ1 uɑŋ2 pɔ5/<sup>泰兴</sup></small> 农历二月初八左右的暴风雨。届时天气奇冷，称之为张王暴。俗传有老和尚腾风驾云过江，要吃冻狗肉去，故乡间有“二月初八吃冻狗肉”一说。<sup>\[泰兴\]</sup>  
 1. 【[张网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_van.md#张网)】`zhan1 van3` <sup>[如东]</sup> 把鱼网放入水中捕鱼，叫做张网。  
 1. 【[张鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_y.md#张鱼)】`zhan1 y2` <sup>[如东]</sup> 把鱼网放在垳场上或河沟里捕鱼，叫做张鱼。  
 1. 【[张主](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_zhv.md#张主)】`zhan1 zhv3` <sup>[兴化]</sup> “主张”的逆序词：不管别人怎么说，你要拿定～。｜“……外人说的闲是闲非都不要听他，押司自做个～……”（《水浒传》二一）  
@@ -2221,7 +2224,7 @@
 1. 【[姊妹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_mei.md#姊妹)】`zz3 mei6` ① 亲生姐妹。<sup>\[如东\]</sup> ② 同辈的女子。<sup>\[如东\]</sup> ③ 亲姐妹<sup>\[东台\]</sup>：她俫是～两个。<sup>\[东台\]</sup>  
 1. 【[姊妹对](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_mei_duei.md#姊妹对)】`zz3 mei6 duei5` 扑克中连续的几个对子，一般大于等于三个，几个就叫几姊妹  
 1. 【[姊妹趟<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_mei_tan_r.md#姊妹趟<sub>儿</sub>)】`zz3 mei6 tan5 r` <sup>[东台]</sup> 姐妹几个（通常三个以上）：老母的生日晚宴是～合办的。  
-1. 【[姊妹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_mi.md#姊妹)】`zz3 mi` 姐姐和妹妹。<sup>\[泰州\]</sup>  
+1. 【[姊妹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_mi.md#姊妹)】`zz3 mi` <small>/t͡sɿ3 mʝ/<sup>泰兴</sup></small> ① 姐姐和妹妹。<sup>\[泰州\]</sup> ② 兄弟姐妹间关系（不局限于姐妹）<sup>\[泰兴\]</sup>：～三个/兄弟姐妹三个<sup>\[泰兴\]</sup>  
 1. 【[姊妹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_mi.md#姊妹)】`zz3 mi6` <sup>[如皋]</sup> ① 兄弟姐妹间关系称：这个是哥哥，那个是妹妹，他俫是～两个。 ② 姐妹间的关系也称姊妹：她俫是～两个。  
 1. 【[姊舅两个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_qieu_laen_gu.md#姊舅两个)】`zz3 qieu6 laen3 gu` <sup>[东台]</sup> 已婚男子与内兄或内弟（妻子的哥哥或弟弟）的关系。  
 1. 【[子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz.md#子)】`zz3` <sup>[东台]</sup> ① “地支”第一位。 ② 某些词的后缀（“子”轻读）：桌～/攮～/铅角～（硬币）/小胖～。  

@@ -15,6 +15,7 @@
 1. 【[叽叽喳喳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ji_zha_zha.md#叽叽喳喳)】`ji1 ji1 zha1 zha1` <sup>[东台]</sup> 形容鸟叫声或许多人发出的嘈杂声。  
 1. 【[叽苦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_kv.md#叽苦)】`ji1 kv3` <sup>[如皋]</sup> 味很苦：黄连～。  
 1. 【[叽哩抹喳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_li_maeh_zha.md#叽哩抹喳)】`ji1 li1 maeh8 zha1` <sup>[东台]</sup> 尖声讲话，使人感到刺耳：几个小丫头七嘴八舌，～的。  
+1. 【[叽里啯㖨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_lii_goh_loh.md#叽里啯㖨)】`ji1 lii goh7 loh` <small>/t͡ɕʝ1 ləɪ kɔʔ7 lɔʔ/<sup>泰兴</sup></small> 说话声，叽里咕噜。<sup>\[泰兴\]</sup>  
 1. 【[叽里咕噜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_lii_gv_lv.md#叽里咕噜)】`ji1 lii gv1 lv1` <small>/t͡ɕʝ1 ləɪ ku1 lu1/<sup>泰兴</sup></small> ① 低声说话，别人听不清楚。<sup>\[东台\]</sup> ② 小声讲一些别人听不清的话；唠叨不停。<sup>\[泰兴\]</sup>  
 1. 【[叽里木促](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_lii_moh_coh.md#叽里木促)】`ji1 lii moh8 coh7` <sup>[兴化]</sup> 啰里啰唆，令人生厌：这个老太婆，成天～的。  
 1. 【[叽里入咕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_lii_reh_gv.md#叽里入咕)】`ji1 lii reh8 gv` <sup>[兴化]</sup> 口中唠唠叨叨，念念有词：你嘴里～的说甚的啊？也作“叽咕”“叽咕祷咂”。  
@@ -36,9 +37,10 @@
 1. 【[机器脚踏车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_qi_jiah_taeh.md#机器脚踏车)】`ji1 qi5 jiah7 taeh cha1` <sup>[兴化]</sup> ① 带发动机的自行车。 ② 摩托车。  
 1. 【[机器快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_qi_kuae.md#机器快)】`ji1 qi5 kuae5` <small>/t͡ɕʝ1 t͡ɕʰʝ5 kʰuɛ5/<sup>如皋</sup></small> ① 一种老式的内河机动船，吨位小，载客，也载物。<sup>\[如东\]</sup> ② 内河用机器推动的客船。<sup>\[如皋\]</sup>  
 1. 【[机匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_qian.md#机匠)】`ji1 qian6` <small>/t͡ɕʝ1 t͡ɕʰiɑŋ1/<sup>泰兴</sup></small> 旧时从事丝、棉织业工匠的通称。<sup>\[泰兴\]</sup>  
-1. 【[稽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#稽)】`ji1` <sup>[如皋]</sup> 虘，耍赖皮：他来啊输掉啊就赌～（玩～）。  
+1. 【[稽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#稽)】`ji1` <small>/t͡ɕʝ1/<sup>如皋</sup>, /t͡ɕʝ1/<sup>泰兴</sup></small> 耍赖皮<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：他来啊输掉啊就赌～（玩～）。<sup>\[如皋\]</sup>  
 1. 【[稽宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_bo_r.md#稽宝<sub>儿</sub>)】`ji1 bo3 r` <sup>[如皋]</sup> 惯耍赖皮的人。  
 1. 【[稽家宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ga_bo_r.md#稽家宝<sub>儿</sub>)】`ji1 ga1 bo3 r` <sup>[如皋]</sup> 惯耍赖皮的人。  
+1. 【[稽皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_pi.md#稽皮)】`ji1 pi2` <small>/t͡ɕʝ1 pʰʝ2/<sup>泰兴</sup></small> 谓在玩牌、经济交往过程中不择手段面取胜。亦简称“稽”。<sup>\[泰兴\]</sup>  
 1. 【[稽品](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_pien.md#稽品)】`ji1 pien3` <sup>[如皋]</sup> 耍赖皮的品性。  
 1. 【[荠菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_cae.md#荠菜)】`ji1 cae5` <sup>[东台]</sup> 十字花科，野生于田野。嫩株做蔬菜，全草可入药：～豆腐汤，环保又清爽。  
 1. 【[虮䗜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_lieu_r.md#虮䗜<sub>儿</sub>)】`ji1 lieu r` <small>/t͡ɕi1 liɤ ɚ/<sup>兴化</sup>, /t͡ɕʝ1 lyʊ˞/<sup>如皋</sup></small> ① 体小色灰的一种蚱蟟。<sup>\[如皋\]</sup> ② 蝉的一种，浅黑色或深橙色，间有白色斑纹，对触角，夏秋间翅羽磨擦发出吱吱声。<sup>\[兴化\]</sup>  
@@ -46,7 +48,8 @@
 1. 【[虮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zz.md#虮子)】`ji1 zz` <small>/t͡ɕʝ1 t͡sɿ/<sup>如皋</sup></small> 虱子的卵。<sup>\[如东\]</sup><sup>\[如皋\]</sup>  
 1. 【[讥人富贵笑人贫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ren_fv_guei.md#讥人富贵笑人贫)】`ji1 ren2 fv5 guei5 xio5 ren2 pien2` <sup>[东台]</sup> （俗语）一种小市民心理。别人无论富贵还是贫穷，他都讥笑，既仇富，又嫌贫。  
 1. 【[饥饥瑟瑟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ji_seh_seh.md#饥饥瑟瑟)】`ji1 ji1 seh7 seh7` <sup>[如皋]</sup> 困窘态，寒酸样。  
-1. 【[鸡巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ba.md#鸡巴)】`ji1 ba` ① 男性阴茎。<sup>\[泰州\]</sup> ② 詈语，表示极度轻蔑，用以发泄内心不满情绪<sup>\[泰州\]</sup>：他迟到不迟到关你～的是啊，要你嘴作淡来说咖？<sup>\[泰州\]</sup>  
+1. 【[鸡巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ba.md#鸡巴)】`ji1 ba` <small>/t͡ɕʝ1 pɑ/<sup>泰兴</sup></small> ① 男性阴茎。<sup>\[泰州\]</sup><sup>\[泰兴\]</sup> ② 詈语，表示极度轻蔑，用以发泄内心不满情绪<sup>\[泰州\]</sup>：他迟到不迟到关你～的是啊，要你嘴作淡来说咖？<sup>\[泰州\]</sup>  
+1. 【[鸡巴啰嗦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ba_lu_su.md#鸡巴啰嗦)】`ji1 ba lu1 su1` <small>/t͡ɕʝ1 pɑ lɤɯ1 sɤɯ1/<sup>泰兴</sup></small> 穷嘴啰嗦。<sup>\[泰兴\]</sup>  
 1. 【[鸡巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ba.md#鸡巴)】`ji1 ba1` <sup>[东台]</sup> 又作“𣬠𣬶”“屌子”，男性阴茎的俗称。  
 1. 【[鸡肫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_den_zz.md#鸡肫子)】`ji1 den1 zz` <sup>[如东]</sup> 鸡胃。  
 1. 【[鸡膯蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_den_taen.md#鸡膯蛋)】`ji1 den1 taen6` <sup>[如皋]</sup> 鸡的嗉囊，即食袋。  
@@ -57,6 +60,7 @@
 1. 【[鸡骨糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_gueh_tan.md#鸡骨糖)】`ji1 gueh7 tan2` <small>/t͡ɕʝ1 kuəʔ7 tʰã2/<sup>如皋</sup></small> ① 即“衬金糖”。<sup>\[如皋\]</sup> ② 见“寸金糖”。<sup>\[如皋\]</sup>  
 1. 【[鸡冠花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_gun_hua.md#鸡冠花)】`ji1 gun1 hua1` <sup>[如东]</sup> 苋科植物鸡冠花，一年生草本。  
 1. 【[鸡冠头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_gun_teu.md#鸡冠头)】`ji1 gun1 teu2` <sup>[如皋]</sup> 见“鸡头菱”。  
+1. 【[鸡冠子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_gun_zz.md#鸡冠子)】`ji1 gun1 zz` <small>/t͡ɕʝ1 kʊ̃1 t͡sɿ/<sup>泰兴</sup></small> 鸡冠。<sup>\[泰兴\]</sup>  
 1. 【[鸡一嘴鸭一嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ieh_jy_ngaeh.md#鸡一嘴鸭一嘴)】`ji1 ieh7 jy3 ngaeh7 ieh7 jy3` <sup>[东台]</sup> ［喻］你说几句他说几句，不知道该听谁的好。  
 1. 【[鸡鸡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ji_r.md#鸡鸡<sub>儿</sub>)】`ji1 ji1 r` <sup>[泰县]</sup> 一点点：这个蛋～大。  
 1. 【[鸡奸/㚻奸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_jiaen.md#鸡奸/㚻奸)】`ji1 jiaen1` 男子之间发生性行为。<sup>\[泰州\]</sup>  
@@ -64,11 +68,17 @@
 1. 【[鸡脚糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_jiah_tan.md#鸡脚糖)】`ji1 jiah7 tan2` <sup>[如皋]</sup> 衬金糖。  
 1. 【[鸡脚藤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_jiah_ten.md#鸡脚藤)】`ji1 jiah7 ten2` <sup>[东台]</sup> 野生攀援草本植物，因叶像鸡脚故名，学名海金沙草。可作药草、猪草。  
 1. 【[鸡脚爪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_jiah_zhua_zz.md#鸡脚爪子)】`ji1 jiah7 zhua3 zz` <sup>[兴化]</sup> ① 枳椇，成熟时肉呈红棕色，形似鸡瓜，味甜可食用，也可酿酒。 ② （喻）新生儿用的绷带，因其形似故名。  
+1. 【[鸡浇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_jio.md#鸡浇)】`ji1 jio1` <small>/t͡ɕʝ1 t͡ɕiɔ1/<sup>泰兴</sup></small> 以鸡汤、鱼汤调和，加入干贝、虾米、长鱼骨等作成的食品，口感极佳，乡间特色食品。<sup>\[泰兴\]</sup>  
 1. 【[鸡嘴说到鸭嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_jy_shuh_do.md#鸡嘴说到鸭嘴)】`ji1 jy3 shuh7 do5 ngaeh7 jy3` <sup>[东台]</sup> 说了很多，但没有效果。  
 1. 【[鸡窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ku.md#鸡窠)】`ji1 ku1` <sup>[如东]</sup> 用砖头在大屋旁边垒起来的小屋，一般三四尺高，两三个平方，供鸡住。  
+1. 【[鸡窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ku.md#鸡窠)】`ji1 ku1` <small>/t͡ɕʝ1 kʰɤɯ1/<sup>泰兴</sup></small> 鸡窝。<sup>\[泰兴\]</sup>  
 1. 【[鸡窠灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ku_huei.md#鸡窠灰)】`ji1 ku1 huei1` <sup>[如皋]</sup> 鸡窝中粪便、饲料残渣等混合的灰士，是上等肥料。  
+1. 【[鸡冷上窠，鸭冷下河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_len_shan_ku.md#鸡冷上窠，鸭冷下河)】`ji1 len3 shan6 ku1 ngaeh7 len3 ha6 hu2` <small>/t͡ɕʝ1 ləŋ3 sɑŋ1 kʰɤɯ1 ŋæʔ7 ləŋ3 xɑ1 xɤɯ2/<sup>泰兴</sup></small> 鸡鸭御冷的习性。<sup>\[泰兴\]</sup>  
 1. 【[鸡笼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_lon_r.md#鸡笼<sub>儿</sub>)】`ji1 lon2 r` <sup>[如皋]</sup> 指篾制六角笼，养小鸡用。现己不见。  
+1. 【[鸡笼子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_lon_zz.md#鸡笼子)】`ji1 lon2 zz` <small>/t͡ɕʝ1 lɔŋ2 t͡sɿ/<sup>泰兴</sup></small> 鸡笼。<sup>\[泰兴\]</sup>  
 1. 【[鸡毛菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_mo_cae.md#鸡毛菜)】`ji1 mo2 cae5` <sup>[如皋]</sup> 菜茼，小青菜。  
+1. 【[鸡毛菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_mo_cae.md#鸡毛菜)】`ji1 mo2 cae5` <small>/t͡ɕʝ1 mɔ2 t͡ɕʰiɛ5/<sup>泰兴</sup></small> 一种小青菜。<sup>\[泰兴\]</sup>  
+1. 【[鸡毛掸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_mo_daen_zz.md#鸡毛掸子)】`ji1 mo2 daen3 zz` <small>/t͡ɕʝ1 mɔ2 tɛ̃3 t͡sɿ/<sup>泰兴</sup></small> 用以掸去器物上灰尘的掸子。用许多鸡毛粘扎于小竹杆上而成，故名。<sup>\[泰兴\]</sup>  
 1. 【[鸡毛毽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_mo_jin_zz.md#鸡毛毽子)】`ji1 mo2 jin5 zz` <sup>[如皋]</sup> 用小铜钱一枚包布缝合，中心处装大羽根部的一段空管，插3-5根雄鸡的尾羽做成。见“毽子、踢毽子”。  
 1. 【[鸡毛六足](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_mo_loh_zoh.md#鸡毛六足)】`ji1 mo2 loh8 zoh7` <sup>[泰县]</sup> 坐立不安：你不要～的。  
 1. 【[鸡毛蒜皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_mo_sun_pi.md#鸡毛蒜皮)】`ji1 mo2 sun5 pi2` <sup>[东台]</sup> 琐碎细小的事情。  
@@ -96,12 +106,13 @@
 1. 【[鸡头<sub>儿</sub>晕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_teu_r_yen.md#鸡头<sub>儿</sub>晕)】`ji1 teu2 r yen6` <sup>[如东]</sup> 因脑部瞬间缺血而产生的昏晕现象。  
 1. 【[鸡血子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_xiuh_zz.md#鸡血子)】`ji1 xiuh7 zz` <sup>[如皋]</sup> 用鸡血煮成的块状食品。  
 1. 【[鸡杂碎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zaeh_xy.md#鸡杂碎)】`ji1 zaeh7 xy5` <sup>[如皋]</sup> 鸡的内脏、头、脚等次等食品的总称。  
-1. 【[鸡争鸭斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zhen_ngaeh_deu.md#鸡争鸭斗)】`ji1 zhen1 ngaeh7 deu5` <small>/t͡ɕi1 t͡sən1 æʔ7 tɤ5/<sup>兴化</sup>, /t͡ɕʝ1 t͡səŋ1 ŋeʔ7 tei5/<sup>如皋</sup></small> 表示经常的小争执。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup>：（他）从此一心一意做生意……不再跟人～的了。（《皮五辣子》一）<sup>\[兴化\]</sup>  
+1. 【[鸡争鸭斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zhen_ngaeh_deu.md#鸡争鸭斗)】`ji1 zhen1 ngaeh7 deu5` <small>/t͡ɕi1 t͡sən1 æʔ7 tɤ5/<sup>兴化</sup>, /t͡ɕʝ1 t͡səŋ1 ŋeʔ7 tei5/<sup>如皋</sup>, /t͡ɕʝ1 t͡səŋ1 ŋæʔ7 təɪ5/<sup>泰兴</sup></small> 表示经常的小争执。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup>\[泰兴：比喻双方争吵不休。\]：（他）从此一心一意做生意……不再跟人～的了。（《皮五辣子》一）<sup>\[兴化\]</sup>  
 1. 【[鸡爪<sub>儿</sub>风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zho_r_fon.md#鸡爪<sub>儿</sub>风)】`ji1 zho r fon1` <sup>[如皋]</sup> 指（趾）肌肉痉挛。  
 1. 【[鸡爪疯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zhua_fon.md#鸡爪疯)】`ji1 zhua3 fon1` <sup>[兴化]</sup> 由于手足痉挛，指头不能伸屈的一种疾病：（这个小伙）手朝起环，筋朝起皱，又疼又痠……活象得了～。（扬一《扬香武一盗九龙杯》）  
 1. 【[鸡肫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zhuen_zz.md#鸡肫子)】`ji1 zhuen1 zz` <sup>[如皋]</sup> 鸡的沙囊，即胃。  
 1. 【[鸡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zz.md#鸡子)】`ji1 zz` <small>/t͡ɕi1 t͡sɿ/<sup>兴化</sup>, /t͡ɕʝ1 t͡sɿ/<sup>泰兴</sup>, /t͡sɿ1 t͡se/<sup>泰县</sup></small> 鸡。<sup>\[泰县\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>  
 1. 【[鸡子不尿尿——各有各的去处](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zz_beh_nio.md#鸡子不尿尿——各有各的去处)】`ji1 zz beh7 nio6 xy1 gah7 ieu3 gah7 dii qy5 chv5` <sup>[东台]</sup>   
+1. 【[鸡子不屙尿，各有各的去处](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zz_beh_u.md#鸡子不屙尿，各有各的去处)】`ji1 zz beh7 u1 suei1 gah7 ieu3 gah7 dii qy5 chv5` <small>/t͡ɕʝ1 t͡sɿ pəʔ7 ɤɯ1 suəɪ1 kɑʔ7 iɤɯ3 kɑʔ7 təɪ t͡ɕʰy5 t͡sʰu5/<sup>泰兴</sup></small> 谓办事处理问题各人有各人的办法、路数。<sup>\[泰兴\]</sup>  
 1. 【[鸡子叫赶路——越走越亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zz_jio_gun.md#鸡子叫赶路——越走越亮)】`ji1 zz jio5 gun3 lv6 iuh8 zeu3 iuh8 lian6` <sup>[东台]</sup>   
 1. 【[鸡子鹐石头——难嘚（得）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zz_kaen_sheh.md#鸡子鹐石头——难嘚（得）)】`ji1 zz kaen1 sheh8 teu naen2 deh7` <sup>[东台]</sup>   
 1. 【[鸡子只㗇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zz_zheh_ha.md#鸡子只㗇)】`ji1 zz zheh7 ha2` <sup>[如皋]</sup> 鸡张口喘气状。表天气炎热。  

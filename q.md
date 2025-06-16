@@ -243,19 +243,23 @@
 1. 【[汽𠖫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_gun.md#汽𠖫)】`qi5 gun3` <sup>[如皋]</sup> 蒸笼下方的集汽板，方形，中有洞，置锅上，下垫笼圈。  
 1. 【[汽吙水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_hu_shuei.md#汽吙水)】`qi5 hu shuei3` <small>/t͡ɕʰʝ5 xʊ suei3/<sup>如皋</sup></small> ① 水汽凝在盖子、玻璃等上面形成的水珠。<sup>\[如皋\]</sup> ② 同“汽涴水”<sup>\[东台\]</sup>  
 1. 【[汽吙头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_hu_teu.md#汽吙头)】`qi5 hu teu2` <sup>[如皋]</sup> 头部易出汗，冒热气。  
+1. 【[汽汗水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_hun_shuei.md#汽汗水)】`qi5 hun shuei3` <small>/t͡ɕʰʝ5 xʊ̃ suəɪ3/<sup>泰兴</sup></small> 水蒸汽凝成的水珠。<sup>\[泰兴\]</sup>  
 1. 【[汽汗水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_hun_shuei.md#汽汗水)】`qi5 hun6 shuei3` <sup>[兴化]</sup> 水蒸汽凝成的水滴：（他）把脸靠在笼上熏，熏得满脸的～……（《皮五辣子》四）。  
 1. 【[汽油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_ieu.md#汽油)】`qi5 ieu2` <sup>[如东]</sup> 碳氢化合物的混合液体，是分馏石油时，沸点范围大约在40°-200°之间所取得的馏分，易挥发燃点很低供做内燃机燃料、溶剂等。  
-1. 【[汽油灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_ieu_den.md#汽油灯)】`qi5 ieu2 den1` <small>/t͡ɕʰi5 iɤ2 tən1/<sup>兴化</sup>, /t͡ɕʰʝ5 yʊ2 təŋ1/<sup>如皋</sup></small> ① 通过装置将煤油汽化喷燃的灯，亮度极高，旧时广场、戏园多采用。<sup>\[如皋\]</sup> ② 汽灯，白热照明灯具的一种。也作“气油灯”。<sup>\[兴化\]</sup>  
+1. 【[汽油灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_ieu_den.md#汽油灯)】`qi5 ieu2 den1` <small>/t͡ɕʰi5 iɤ2 tən1/<sup>兴化</sup>, /t͡ɕʰʝ5 yʊ2 təŋ1/<sup>如皋</sup>, /t͡ɕʰʝ5 iɤɯ2 təŋ1/<sup>泰兴</sup></small> ① 通过装置将煤油汽化喷燃的灯，亮度极高，旧时广场、戏园多采用。<sup>\[如皋\]</sup> ② 汽灯，白热照明灯具的一种。也作“气油灯”。<sup>\[兴化\]</sup> ③ 昔时以汽油、煤油燃料的灯，光亮耀眼。<sup>\[泰兴\]</sup>  
 1. 【[汽涴水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_un_shuei.md#汽涴水)】`qi5 un shuei3` <sup>[东台]</sup> 也叫汽炣水。热的水蒸气遇到冷的物品，在其表面凝结而成的水。  
 1. 【[砌造](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_co.md#砌造)】`qi5 co6` <sup>[如东]</sup> 盖房子：下半年～。  
 1. 【[剂子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_zz.md#剂子)】`qi6 zz` <sup>[兴化]</sup> （喻）出手：他就是这吖大的～，大发不起来。  
 1. 【[妓院](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_iun.md#妓院)】`qi6 iun6` <sup>[如东]</sup> 妓女卖淫的住所。  
 1. 【[妓女](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_ny.md#妓女)】`qi6 ny3` <sup>[如东]</sup> 被迫卖淫的女人。  
+1. 【[忌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi.md#忌)】`qi6` <small>/t͡ɕʰʝ1/<sup>泰兴</sup></small> 禁忌；忌讳。<sup>\[泰兴\]</sup>  
 1. 【[忌嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_jy.md#忌嘴)】`qi6 jy3` ① 患有某些疾病禁食某些食品<sup>\[东台\]</sup>：我尿酸高，医生关照要～，不能喝啤酒。<sup>\[东台\]</sup> ② 因为疾病或者其他原因禁吃某些食物<sup>\[泰州\]</sup>：他这两天身上出疹子～，不能吃虾儿。<sup>\[泰州\]</sup>  
 1. 【[忌口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_keu.md#忌口)】`qi6 keu3` <sup>[如东]</sup> 医学上指某些药物不能同时吃，叫做忌口：你吃补药要注意～。比喻某些话不能随便说。  
 1. 【[忌避](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_pi.md#忌避)】`qi6 pi6` <small>/t͡sʰɿ1 pʰɿ1/<sup>泰县</sup></small> ① 忌讳：他～这种事。<sup>\[泰县\]</sup> ② 言行因为顾忌、有意回避而有所收敛<sup>\[泰州\]</sup>：说话要晓得～。<sup>\[泰州\]</sup>  
 1. 【[忌偏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_pin.md#忌偏)】`qi6 pin1` <small>/t͡ɕʰʝ1 pʰĩ1/<sup>如皋</sup></small> ① 忌讳、忌言。<sup>\[如皋\]</sup> ② 避讳、顾忌。由于风俗习惯或迷信，避免某些不吉利的话和事<sup>\[东台\]</sup>：腊月皇天的～多，要留神，免得老人不愉快。<sup>\[东台\]</sup>  
+1. 【[忌若](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_rah.md#忌若)】`qi6 rah` <small>/t͡ɕʰʝ1 ɻɑʔ/<sup>泰兴</sup></small> 犹忌讳。<sup>\[泰兴\]</sup>  
 1. 【[忌生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_shen.md#忌生)】`qi6 shen1` <sup>[如皋]</sup> 怕见生人。  
+1. 【[忌嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_zuei.md#忌嘴)】`qi6 zuei3` <small>/t͡ɕʰʝ1 t͡suəɪ3/<sup>泰兴</sup></small> 谓因疾病、服药而忌食某些食物。<sup>\[泰兴\]</sup>  
 1. 【[荠菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_cae.md#荠菜)】`qi6 cae5` ① 十字花科植物荠菜，一年生或二年生草本。<sup>\[如东\]</sup> ② 荠菜，一年或二年生草本植物，花小，白色，嫩菜味道鲜美，用来制作春卷、饺子、烧饼、圆子馅心。<sup>\[泰州\]</sup>  
 1. 【[鲚鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_y.md#鲚鱼)】`qi6 y2` <sup>[如东]</sup> 鳀科动物鲚鱼，又名刀鱼、凤尾鱼。  
 1. 【[𢭄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi.md#𢭄)】`qi6` <sup>[兴化]</sup> 身体和其他物体（如墙壁）挨得过近，不便伸直：～住身子，不便操作。兴化词典写“𢼨”，《广韵·支韵》去奇切｜“～，不正也”。（声调不合）  
@@ -1616,7 +1620,7 @@
 1. 【[局促](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qioh_coh.md#局促)】`qioh8 coh7` <small>/t͡ɕʰyɔʔ8 t͡sʰɔʔ7/<sup>兴化</sup></small> ① 拘谨不自然。<sup>\[东台\]</sup> ② 短促、急促<sup>\[兴化\]</sup>：明吖集中时间太～，怕来不洎。<sup>\[兴化\]</sup>  
 1. 【[局大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qioh_da.md#局大)】`qioh8 da6` <small>/t͡ɕʰiɔʔ8 ta1/<sup>如皋</sup></small> ① 运气好，幸好。<sup>\[如皋\]</sup> ② 机遇或者机会非常好<sup>\[泰州\]</sup>：你今朝子～，晚来一步报名就结束咖唻。<sup>\[泰州\]</sup>｜这小伙～，20分问答题正好是他头天晚上复习到的。<sup>\[泰州\]</sup>  
 1. 【[局好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qioh_ho.md#局好)】`qioh8 ho3` <small>/t͡ɕʰiɔʔ8 xɔ3/<sup>如皋</sup></small> ① 运气好，幸好。<sup>\[如皋\]</sup> ② 遇上好机会。<sup>\[如东\]</sup>  
-1. 【[局气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qioh_qi.md#局气)】`qioh8 qi` <small>/t͡ɕʰyɔʔ8 t͡ɕʰi/<sup>兴化</sup>, /t͡ɕʰiɔʔ8 t͡ɕʰʝ/<sup>如皋</sup></small> ① 运气：今朝～好，遇啊好人。<sup>\[如皋\]</sup> ② 运气<sup>\[兴化\]</sup>：今吖～大唻！没多晚就钓到一条大花鱼。<sup>\[兴化\]</sup>  
+1. 【[局气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qioh_qi.md#局气)】`qioh8 qi` <small>/t͡ɕʰyɔʔ8 t͡ɕʰi/<sup>兴化</sup>, /t͡ɕʰiɔʔ8 t͡ɕʰʝ/<sup>如皋</sup>, /t͡ɕʰiɔʔ8 t͡ɕʰʝ/<sup>泰兴</sup></small> 运气<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：今朝～好，遇啊好人。<sup>\[如皋\]</sup>｜今吖～大唻！没多晚就钓到一条大花鱼。<sup>\[兴化\]</sup>｜豆腐烧肉，各人碰局<sup>\[泰兴\]</sup>  
 1. 【[局气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qioh_qi.md#局气)】`qioh8 qi5` <small>/t͡ɕʰiɔʔ8 t͡sʰɿ5/<sup>泰县</sup></small> ① 运气<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰州\]</sup>：～好。<sup>\[如东\]</sup>｜今吖～真好，花两块钱就摸到一个大奖。<sup>\[东台\]</sup>｜今朝打牌的～好，回回抓到大王。<sup>\[泰州\]</sup>｜还是老王的～好，今朝晚会的特等奖捱他摸咖去啊。<sup>\[泰州\]</sup> ② 好运气<sup>\[泰县\]</sup>：你这次真～，买啊一张奖券就中吖。<sup>\[泰县\]</sup>  
 1. 【[局运](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qioh_yen.md#局运)】`qioh8 yen6` <small>/t͡ɕʰyɔʔ8 yn6/<sup>兴化</sup></small> ① 碰上的运气。<sup>\[如东\]</sup>：你的～不错。<sup>\[如东\]</sup> ② 运气。<sup>\[兴化\]</sup>  
 1. 【[焗油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qioh_ieu.md#焗油)】`qioh8 ieu2` <sup>[东台]</sup> 一种染发护发方法。  
@@ -1646,7 +1650,8 @@
 1. 【[穷欢妗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_hun_xin.md#穷欢妗)】`qion2 hun1 xin1` <sup>[兴化]</sup> 在困境中仍然寻欢作乐。  
 1. 【[穷急负过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_jieh_fv_gu.md#穷急负过)】`qion2 jieh7 fv6 gu1` <sup>[泰州]</sup> 因为贫穷而对某些可以获取利益的事表现出的迫不急待、不顾一切态度：你慢吖点儿吃，不得人同你抢，～的样子，怎吖好啊。｜听说单位分东西，这小伙～的，一大老早就来啊。  
 1. 【[穷急负过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_jieh_fv_gu.md#穷急负过)】`qion2 jieh7 fv6 gu1-fv1` <sup>[东台]</sup> 穷困潦倒，急于吃喝或捞钱。泛指过急，以至行为莽撞的样子。也作“穷急吼吼”。  
-1. 【[穷急吼吼的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_jieh_heu_heu.md#穷急吼吼的)】`qion2 jieh7 heu3 heu3 dii` <sup>[如皋]</sup> 吃相粗鄙。  
+1. 【[穷急吼吼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_jieh_heu_heu.md#穷急吼吼)】`qion2 jieh7 heu3 heu3` <sup>[如皋]</sup> 吃相粗鄙：～的  
+1. 【[穷急吼吼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_jieh_heu_heu.md#穷急吼吼)】`qion2 jieh7 heu3 heu3` <small>/t͡ɕʰiɔŋ2 t͡ɕiʔ7 xəɪ3 xəɪ3/<sup>泰兴</sup></small> 急着要去办不一定要急办的事。<sup>\[泰兴\]</sup>  
 1. 【[穷嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_jy.md#穷嘴)】`qion2 jy3` <small>/t͡ɕʰiɔŋ2 t͡ɕy3/<sup>如皋</sup>, /t͡ɕʰioŋ2 t͡ɕy3/<sup>泰县</sup></small> ① 唠叨不停。<sup>\[如皋\]</sup> ② 啰唆嘴。<sup>\[如皋\]</sup> ③ 嘴巴啰唆，唠叨。<sup>\[如皋\]</sup> ④ 啰唆：不要一天到晚～说个不停。<sup>\[泰县\]</sup> ⑤ 不停地说<sup>\[泰州\]</sup>：他到哪块都是～，听吖他一个人说。<sup>\[泰州\]</sup>  
 1. 【[穷嘴擸𢶍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_jy_laeh_saeh.md#穷嘴擸𢶍)】`qion2 jy3 laeh8 saeh` <sup>[泰州]</sup> 骂人放肆地絮絮叨叨说个不停：你这马马儿也是的，他倒已经不开口唻，你说两句就拉倒唻，侭吖在这块～的，烦煞咖。  
 1. 【[穷开心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_kae_xien.md#穷开心)】`qion2 kae1 xien1` <small>/t͡ɕʰioŋ2 kʰɛ1 ɕin1/<sup>兴化</sup>, /t͡ɕʰiɔŋ2 kʰɛ1 ɕiŋ1/<sup>泰兴</sup></small> ① 苦中作乐<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：那年头，肚子吃不饱，还要唱歌跳舞，真是～。<sup>\[兴化\]</sup> ② 拿穷人开心<sup>\[兴化\]</sup>：“小姐可不要拿我们这样的人～”。（毕飞宇《上海往事》）<sup>\[兴化\]</sup> ③ 身处困境仍然苦中取乐<sup>\[泰州\]</sup>：下个月工资都拿不到唻，你还有心肠～。<sup>\[泰州\]</sup>  

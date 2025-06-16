@@ -1892,6 +1892,7 @@
 1. 【[吆水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_shuei.md#吆水)】`io1 shuei3` <sup>[如皋]</sup> 驱牛拉辋子戽水。  
 1. 【[吆五喝六](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_v_huh_loh.md#吆五喝六)】`io1 v3 huh7 loh8` <small>/iɔ1 u3 xuʔ7 lɔʔ8/<sup>兴化</sup>, /iɔ1 ʋu3 xʊʔ7 lɔʔ8/<sup>如皋</sup></small> ① 粗暴叫喊使唤的样子。<sup>\[如皋\]</sup> ② 不断地叫喊。<sup>\[如东\]</sup> ③ 大声吆喝别人<sup>\[东台\]</sup>：一天到夜～的，你怎吖能这吖对待工人？<sup>\[东台\]</sup> ④ 大喊大叫，虚张声势<sup>\[兴化\]</sup>：（老爷和两个公差）一路～，斥责乱伦之事。（马春阳《扬州水乡风俗散记》）<sup>\[兴化\]</sup> ⑤ 赌徒掷骰子时或酒徒划拳时的喊声。<sup>\[泰州\]</sup> ⑥ 大声喝令叱责他人之时呈现出的盛气凌人、不可一世的样子<sup>\[泰州\]</sup>：他一到家不是要这样，就是要哪样，～的，就像个个吃的他的饭似的。<sup>\[泰州\]</sup>｜这个老东西到哪块都倚老卖老，～的，威武煞咖。<sup>\[泰州\]</sup>  
 1. 【[妖怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_guae.md#妖怪)】`io1 guae` <sup>[如皋]</sup> 对妖艳、风骚的女人的贱称。  
+1. 【[妖怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_guae.md#妖怪)】`io1 guae` <small>/iɔ1 kuɛ/<sup>泰兴</sup></small> 骂人语，多用于贬责女人。<sup>\[泰兴\]</sup>  
 1. 【[妖言惑众](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_in_hoh_zhon.md#妖言惑众)】`io1 in2 hoh8 zhon5` <sup>[泰州]</sup> ① 以妖异不经之言欺诳、煽惑众人。 ② 大肆张扬：这些情况，你晓得就行吖，不要外去～。｜这事还不晓得怎吖说吤，怎吖外栋到～吖翻掉啊唻。  
 1. 【[妖里妖气的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_lii_io_qi.md#妖里妖气的)】`io1 lii io1 qi5 dii` <sup>[如皋]</sup> 见“妖气”。  
 1. 【[妖气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_qi.md#妖气)】`io1 qi5` <sup>[如皋]</sup> 妖艳、风骚的样子。  

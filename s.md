@@ -531,7 +531,8 @@
 1. 【[厦子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_zz.md#厦子)】`sha5 zz` 镶于正屋旁的厢屋<sup>\[泰州\]</sup>：他在旁边的空地上搭咖间～放东西。<sup>\[泰州\]</sup>  
 1. 【[嗄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha.md#嗄)】`sha5` <small>/sa5/<sup>兴化</sup>, /sa5/<sup>如皋</sup>, /sa5/<sup>泰县</sup></small> （喉咙、嗓子）音嘶哑<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰县\]</sup>：～喉咙<sup>\[如皋\]</sup>｜喉咙～啊，话说不出来<sup>\[如东\]</sup>｜喉咙冻～啊。<sup>\[兴化\]</sup>｜喉咙喊～啊。<sup>\[兴化\]</sup>｜她是天生的～喉咙。<sup>\[泰州\]</sup>｜连续上吖一个星期的课，嗓子都说咖～啊。<sup>\[泰州\]</sup>｜他今吖喉咙～啊。<sup>\[泰县\]</sup>  
 1. 【[嗄巴喉咙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_ba_heu_lon.md#嗄巴喉咙)】`sha5 ba heu2 lon2-3` <sup>[东台]</sup> 嗓子沙了，嗓音嘶哑不清脆：我是～喇叭声，唱歌难听。  
-1. 【[嗄喉咙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_heu_lon.md#嗄喉咙)】`sha5 heu2 lon` <small>/sa5 xɤ2 loŋ/<sup>兴化</sup></small> 形容嗓音沙哑的人<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：来人是个～。<sup>\[兴化\]</sup>｜他是～，说话就这样子。<sup>\[泰州\]</sup>  
+1. 【[嗄巴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_ba_zz.md#嗄巴子)】`sha5 ba1 zz` <small>/sɑ5 pɑ1 t͡sɿ/<sup>泰兴</sup></small> 若沙喉咙。<sup>\[泰兴\]</sup>  
+1. 【[嗄喉咙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_heu_lon.md#嗄喉咙)】`sha5 heu2 lon` <small>/sa5 xɤ2 loŋ/<sup>兴化</sup>, /sɑ5 xəɪ2 lɔŋ/<sup>泰兴</sup></small> 形容嗓音沙哑的人<sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：来人是个～。<sup>\[兴化\]</sup>｜他是～，说话就这样子。<sup>\[泰州\]</sup>  
 1. 【[嗄翅<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_zhr_r.md#嗄翅<sub>儿</sub>)】`sha5 zhr5 r` <sup>[如皋]</sup> 原指昆虫振翅发声嘶哑。后即发声嘶哑、嗄喉咙。  
 1. 【[沙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha.md#沙)】`sha5` <small>/sa5/<sup>如皋</sup>, /sɑ5/<sup>泰兴</sup>, /sa5/<sup>泰县</sup></small> （菜）受虫咬而多孔<sup>\[如皋\]</sup><sup>\[泰县\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>：青菜～啊<sup>\[如皋\]</sup>｜这个菜～啊，买家去不好吃<sup>\[泰县\]</sup>｜菜～啊<sup>\[东台\]</sup>  
 1. 【[舍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha.md#舍)】`sha5` <sup>[东台]</sup> 原指田头小草房，后用作地名：六里～｜王家～｜西～。  
@@ -1464,7 +1465,8 @@
 1. 【[婶妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_ma.md#婶妈)】`shen3 ma` <sup>[兴化]</sup> 婶母。背称“婶娘”。  
 1. 【[婶娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_nian.md#婶娘)】`shen3 nian2` 叔母，对叔父之妻的称呼。<sup>\[泰州\]</sup>  
 1. 【[沈万三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_vaen_saen.md#沈万三)】`shen3 vaen6 saen1` <small>/səŋ3 ʋẽ1 sẽ1/<sup>如皋</sup></small> ① 富翁的代名词。<sup>\[如皋\]</sup> ② 元末明初苏州周庄的一个富商，后成为财主、富豪的代名词<sup>\[东台\]</sup>：～打死人——钱妨法。<sup>\[东台\]</sup> ③ 沈富，表字仲荣，俗称万三，元末明初江南第一富豪。<sup>\[泰州\]</sup>  
-1. 【[沈万山打死人——钱妨法](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_vaen_shaen_da.md#沈万山打死人——钱妨法)】`shen3 vaen6 shaen1 da3 sz3 ren2 qin2 fan1 faeh7` <sup>[东台]</sup>   
+1. 【[沈万三打煞人，钱偿命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_vaen_saen_da.md#沈万三打煞人，钱偿命)】`shen3 vaen6 saen1 da3 shaeh7 ren2 qin2 shan2 mien6` <small>/səŋ3 ʋɛ̃1 ɕiɛ̃1 tɑ3 ɕiæʔ7 ɻəŋ2 t͡ɕʰĩ2 sɑŋ2 miŋ1/<sup>泰兴</sup></small> 沈万三，传为明时江南富翁，富可敌国。谓天大的事儿只要有了钱就可以摆平。<sup>\[泰兴\]</sup>  
+1. 【[沈万三打死人——钱妨法](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_vaen_saen_da.md#沈万三打死人——钱妨法)】`shen3 vaen6 saen1 da3 sz3 ren2 qin2 fan1 faeh7` <sup>[东台]</sup>   
 1. 【[省住啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_chv_a.md#省住啊)】`shen3 chv a` <sup>[如皋]</sup> 避免、免得。前有叙述语（可隐含不明说），后为理由：我同他分开来住，～作闲气；他家去的好，～我一天夜里为他耽心思。  
 1. 【[省住句](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_chv_qy.md#省住句)】`shen3 chv qy9` <sup>[如皋]</sup> 劝人停止争论。句，一句，相争的话。  
 1. 【[省得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_deh.md#省得)】`shen3 deh7` 免得。<sup>\[东台\]</sup><sup>\[泰州\]</sup>：你先问问他，去还是不去，～他以后说废话。<sup>\[泰州\]</sup>｜你先把东西准备啊好啊，～到时候手忙脚乱的。<sup>\[泰州\]</sup>  
@@ -3061,9 +3063,11 @@
 1. 【[锁口子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_keu_zz.md#锁口子)】`su3 keu3 zz` <sup>[如皋]</sup> 见“脐带儿风”。  
 1. 【[𢱡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su.md#𢱡)】`su3` <sup>[泰县]</sup> 洒：你替他把伤口上～些药。  
 1. 【[谇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suae.md#谇)】`suae5` <sup>[如皋]</sup> 怒嗔、唾面：你再不说我就～你！把你的脸～啊蓝吖！  
+1. 【[尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suei.md#尿)】`suei1` <small>/suəɪ1/<sup>泰兴</sup></small> 尿，名词<sup>\[泰兴\]</sup>  
 1. 【[尿鳖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suei_bih.md#尿鳖)】`suei1 bih7` <sup>[兴化]</sup> 即尿壶。男子接尿用的壶一样的器物，大口，有柄，形状象鳖。  
 1. 【[尿布衲索](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suei_bv_nuh_sah.md#尿布衲索)】`suei1 bv5 nuh8 sah7` <sup>[兴化]</sup> 为婴儿接大小便的布片和小褥等物。  
 1. 【[尿硍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suei_ken.md#尿硍)】`suei1 ken5` <sup>[兴化]</sup> 经常接触尿液的便池、便桶及尿壶等，留下的像结石一样的痕迹。  
+1. 【[尿脬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suei_po.md#尿脬)】`suei1 po1` <small>/suəɪ1 pʰɔ1/<sup>泰兴</sup></small> 膀胱的俗称。<sup>\[泰兴\]</sup>：～打头，不疼也昏闷。<sup>\[泰兴\]</sup>  
 1. 【[尿头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suei_teu.md#尿头)】`suei1 teu` <sup>[兴化]</sup> 指两次小便相隔时间：～长；～短。  
 1. 【[岁月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suei_iuh.md#岁月)】`suei5 iuh8` <sup>[东台]</sup> 年月：～不饶人。  
 1. 【[岁交春](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suei_jio_chuen.md#岁交春)】`suei5 jio1 chuen1` <sup>[兴化]</sup> 正月初一子时（指0时至1时前那段）正逢立春。20世纪仅有1943年一次：谚曰：百年难遇～。  
