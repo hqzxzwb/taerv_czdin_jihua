@@ -1773,6 +1773,7 @@
 1. 【[老虎爪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_hv_zhua_zz.md#老虎爪子)】`lo3 hv zhua3 zz` <sup>[兴化]</sup> ① 京江䭣的别称。 ② （喻）手段厉害：他是有名的～，经他的手起码剥去层皮。  
 1. 【[老虎灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_hv_zo.md#老虎灶)】`lo3 hv zo5` <sup>[兴化]</sup> 一种烧开水的大灶，通称“茶水炉子”。为砖砌的长方形台子，四角安有四个很深很大的铁罐，当中有一个火口，用于投放燃料下炉膛燃烧。  
 1. 【[老狐狸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_hv_li.md#老狐狸)】`lo3 hv2 li` <small>/lɔ3 fʋ2 lʝ/<sup>泰兴</sup></small> ① 比喻非常狡猾的人。<sup>\[如东\]</sup>：他是一个～。<sup>\[如东\]</sup> ② 喻指诡计多端极为狡猾的人。<sup>\[泰兴\]</sup>  
+1. 【[老虎不吃人，𪨊形难看](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_hv_beh_qieh.md#老虎不吃人，𪨊形难看)】`lo3 hv3 beh7 qieh7 ren2 son2 xien2 naen2 kun5` <small>/lɔ3 fʋ3 pəʔ7 t͡ɕʰiəʔ7 ɻəŋ2 sɔŋ2 ɕiŋ2 nɛ̃2 kʰʊ̃5/<sup>泰兴</sup></small> 乡谚。谓人态度恶劣，令人生畏。<sup>\[泰兴\]</sup>  
 1. 【[老虎窗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_hv_chuan.md#老虎窗)】`lo3 hv3 chuan1` <sup>[如皋]</sup> 屋面气窗。  
 1. 【[老虎借猪——有借无还](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_hv_jia_zhv.md#老虎借猪——有借无还)】`lo3 hv3 jia5 zhv1 ieu3 jia5 v2 huaen2` <sup>[东台]</sup>   
 1. 【[老虎嘴里拔牙——胆大包天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_hv_jy_lii.md#老虎嘴里拔牙——胆大包天)】`lo3 hv3 jy3 lii paeh8 nga2 daen3 da6 bo1 tin1` <sup>[东台]</sup>   
@@ -2528,7 +2529,7 @@
 1. 【[驴球](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_qieu.md#驴球)】`ly2 qieu2` <sup>[东台]</sup> （詈语）也作愚球，指笨蛋。  
 1. 【[驴前马后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_qin_ma_heu.md#驴前马后)】`ly2 qin2 ma3 heu6` <sup>[泰州]</sup> 形容为人效力忙碌不停的样子：他也跟啊你厂长后栋驴前马后的有十几年，你马上就要调啊走唻，你最后也要对他有个交待，这才说得过去。  
 1. 【[驴四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_sz.md#驴四)】`ly2 sz5` <sup>[兴化]</sup> 骂人的话：“～！你认不得城里程抚台大人……”（《广陵潮》四七）  
-1. 【[驴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_zz.md#驴子)】`ly2 zz` <small>/ly2 t͡sɿ/<sup>兴化</sup>, /ly2 t͡sɿ/<sup>如皋</sup></small> ① 驴。哺乳纲，奇蹄目。<sup>\[如皋\]</sup> ② （讽）俗谓脾气执拗的人<sup>\[兴化\]</sup>：他这种脾气好说丑说听不进，活像个～。<sup>\[兴化\]</sup>  
+1. 【[驴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_zz.md#驴子)】`ly2 zz` <small>/ly2 t͡sɿ/<sup>兴化</sup>, /ly2 t͡sɿ/<sup>如皋</sup>, /ləɪ2 t͡sɿ/<sup>泰兴</sup></small> ① 驴。哺乳纲，奇蹄目。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup> ② （讽）俗谓脾气执拗的人<sup>\[兴化\]</sup>：他这种脾气好说丑说听不进，活像个～。<sup>\[兴化\]</sup>  
 1. 【[驴子的𬥐𬥐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_zz_dii_bae.md#驴子的𬥐𬥐)】`ly2 zz dii bae1 bae1` <sup>[如皋]</sup> 北方人称为“驴爹”。“爹”一音di1，dy1相近。故谐音“累堆”。  
 1. 【[驴子卖不过骡子的钱——贱在嘴上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_zz_mae_beh.md#驴子卖不过骡子的钱——贱在嘴上)】`ly2 zz mae6 beh7 gu5 lu2 zz dii qin2 qin6 cae6 jy3 shan6` <sup>[东台]</sup>   
 1. 【[驴子吃草自己驮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/ly_zz_qieh_co.md#驴子吃草自己驮)】`ly2 zz qieh7 co3 cz6 ji3 tu2` <sup>[东台]</sup> 能自力更生的不依赖别人。  

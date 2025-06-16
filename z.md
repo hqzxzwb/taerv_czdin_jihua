@@ -1370,14 +1370,17 @@
 1. 【[纸烟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_in.md#纸烟)】`zhr3 in1` <sup>[东台]</sup> 香烟。旧时相对于水烟和烟末子（旱烟）而言：我敬你根～。  
 1. 【[纸鹞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_io.md#纸鹞)】`zhr3 io6` <sup>[兴化]</sup> 风第。  
 1. 【[纸脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_jiah.md#纸脚)】`zhr3 jiah7` <small>/t͡sɿ3 t͡ɕiaʔ7/<sup>如皋</sup></small> ① 造纸的脚料可用于建筑调泥灰。<sup>\[如皋\]</sup> ② 用打碎了的稻草与扯碎了的粗纸做成的一种建筑材料，通常和泥或与石灰搅拌，用来粉刷墙壁，增强墙壁耐力。<sup>\[东台\]</sup>  
+1. 【[纸脚灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_jiah_huei.md#纸脚灰)】`zhr3 jiah7 huei1` <small>/t͡sɿ3 t͡ɕiɑʔ7 xuəɪ1/<sup>泰兴</sup></small> 以粗纸、石灰混和的一种建筑材料，粘附于建筑物体上以使平滑坚实。<sup>\[泰兴\]</sup>  
 1. 【[纸筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_jien.md#纸筋)】`zhr3 jien1` <sup>[兴化]</sup> 用稻草制成的粗纸，撕碎、浸泡后成粗丝状，掺入石灰中粉墙壁，可增强附着力。  
 1. 【[纸筋灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_jien_huei.md#纸筋灰)】`zhr3 jien1 huei1` <sup>[兴化]</sup> 掺了纸筋的熟石灰。  
 1. 【[纸据](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_jy.md#纸据)】`zhr3 jy5` <sup>[如东]</sup> ① 契约。 ② 凭据。  
 1. 【[纸锞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ku.md#纸锞)】`zhr3 ku5` <sup>[如皋]</sup> 丧葬祭祀烧化用的，用锡箔、草纸等折的锞儿。  
 1. 【[纸马店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ma_din.md#纸马店)】`zhr3 ma3 din5` <small>/t͡sɿ3 ma3 tĩ5/<sup>如皋</sup></small> ① 卖丧葬祭祀用品的店家。<sup>\[如皋\]</sup> ② 经营香烛、黄元、冥币等祭祀物品的商店。<sup>\[如东\]</sup>  
+1. 【[纸牌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_pae.md#纸牌)】`zhr3 pae2` <small>/t͡sɿ3 pʰɛ2/<sup>泰兴</sup></small> 以硬纸片制作的博弈之具。长条形，印有各种点子、图案或文字，形式多样，用法各异。为乡人所爱。<sup>\[泰兴\]</sup>  
 1. 【[纸币](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_pi.md#纸币)】`zhr3 pi6` <sup>[如东]</sup> 纸制的货币。一般由国家银行或政府授权的银行发行。  
 1. 【[纸票子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_pio_zz.md#纸票子)】`zhr3 pio5 zz` <sup>[如皋]</sup> 纸币，钞票。别于硬币。  
 1. 【[纸钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_qin.md#纸钱)】`zhr3 qin2` <sup>[东台]</sup> 祭祀祖先的纸锭，上面涂了一层薄锡。  
+1. 【[纸钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_qin.md#纸钱)】`zhr3 qin2` <small>/t͡sɿ3 t͡ɕʰĩ2/<sup>泰兴</sup></small> 迷信者在祭祀时焚化给死人或鬼神当钱用的纸。旧时纸上形状有圆形方孔如铜钱者。<sup>\[泰兴\]</sup>  
 1. 【[纸伞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_saen.md#纸伞)】`zhr3 saen3` <sup>[如皋]</sup> 旧时用的浙江生产的竹骨油纸面雨伞。有别于洋伞、布伞。  
 1. 【[纸头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_teu.md#纸头)】`zhr3 teu` <sup>[兴化]</sup> 纸。  
 1. 【[纸头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_teu_zz.md#纸头子)】`zhr3 teu2 zz` <sup>[兴化]</sup> 大张纸切小后产生的边角。  

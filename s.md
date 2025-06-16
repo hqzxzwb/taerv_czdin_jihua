@@ -499,6 +499,7 @@
 1. 【[纱绽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_tien_zz.md#纱绽子)】`sha1 tien6 zz` <sup>[如皋]</sup> 见“纱𦃒子”。  
 1. 【[纱袜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_vaeh.md#纱袜)】`sha1 vaeh8` <sup>[如皋]</sup> 纱织的袜子。质稍差，有别于线袜。  
 1. 【[纱𦃒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_xy_zz.md#纱𦃒子)】`sha1 xy5 zz` <sup>[如皋]</sup> 纺纱时绕纱的管状物及绕满纱的筒状物。  
+1. 【[纱罩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_zho.md#纱罩)】`sha1 zho5` <small>/sɑ1 t͡sɔ5/<sup>泰兴</sup></small> 旧时婚礼中新娘罩面的纱制头巾，乡人称为“揞头纱罩”；汽油灯用的灯芯。<sup>\[泰兴\]</sup>  
 1. 【[赊账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_zhan.md#赊账)】`sha1 zhan5` <sup>[如东]</sup> 欠账：我今朝～，过两天还。  
 1. 【[髿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha.md#髿)】`sha1` <sup>[东台]</sup> 垂挂：上身穿吖件短夹克，衬衣都～到屁股头子上吖｜吓得舌头直～。  
 1. 【[髿剥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_bah.md#髿剥)】`sha1 bah7` <sup>[东台]</sup> （詈语）对生养小孩的粗俗说法：你怎吖～下来的？  
@@ -2608,6 +2609,7 @@
 1. 【[睡早觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_zo_go.md#睡早觉)】`shuei5 zo3 go5` <sup>[兴化]</sup> 贪睡，起身迟：他喜欢～，八点多钟还躺吖在床上！  
 1. 【[睡早曦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_zo_xi.md#睡早曦)】`shuei5 zo3 xi` <sup>[东台]</sup> 早上睡懒觉，迟迟不起床：最近事情多，不能～。  
 1. 【[纯和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_hu.md#纯和)】`shuen2 hu` <sup>[兴化]</sup> 柔软、纯熟：新稻草戳人，要捶捶铺床才～。｜“咦喂，这个新稻草不～啊，戳人呀……”（《武松》六）  
+1. 【[纯和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_hu.md#纯和)】`shuen2 hu` <small>/suəŋ2 xɤɯ/<sup>泰兴</sup></small> 纯朴和顺。多指性格或气质。<sup>\[泰兴\]</sup>  
 1. 【[醇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen.md#醇)】`shuen2` <sup>[泰州]</sup> 酒质醇厚：这两瓶梅兰春酒～，口感蛮好。  
 1. 【[醇和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_hu.md#醇和)】`shuen2 hu` <sup>[兴化]</sup> 形容人淳朴、和善：这个人性子蛮～的。｜……马琼琼见朱廷之生性～……几次央浼姐姐与杨谦说，要与朱廷之相处。（《西湖二集》十一）  
 1. 【[瘆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen.md#瘆)】`shuen5` <sup>[如皋]</sup> 程度深：街上人多得～哎。桃子甜得～！  
@@ -2983,7 +2985,7 @@
 1. 【[松子<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_zz_r.md#松子<sub>儿</sub>)】`son1 zz3 r` <sup>[兴化]</sup> 松仁：～糖。  
 1. 【[菘蓝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_laen.md#菘蓝)】`son1 laen2` <sup>[如东]</sup> 十字花科植物菘蓝，二年生草本。高约90厘米。主根深长，外皮灰黄色。茎直立。叶互生，基生叶较大，叶片长圆状椭圆形；茎生叶长圆形至长圆状倒披针形，全缘。阔总状花序。花小，黄色。长角果长圆形，扁平翅状，具中肋。栽培。  
 1. 【[𪀚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_r.md#𪀚<sub>儿</sub>)】`son1 r` <small>/sɔ˞1/<sup>如皋</sup></small> ① 见“鸦虎”。<sup>\[如皋\]</sup> ② 行猎的鹰。即“鸦虎”。<sup>\[如皋\]</sup>  
-1. 【[𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son.md#𪨊)】`son2` <small>/soŋ2/<sup>兴化</sup>, /sɔŋ2/<sup>如皋</sup></small> ① ［𪨊］精液；对人的贬称 ② 状无能、无用、无价值<sup>\[如皋\]</sup>：这个～变吖个～形，做～事，说～话，实在太～！<sup>\[如皋\]</sup> ③ 詈语，或指人<sup>\[如皋\]</sup><sup>\[泰州\]</sup>：把这个～打啊跑！<sup>\[如皋\]</sup>｜这薄～一竟说话赖话，同他打过交道的都晓得。<sup>\[泰州\]</sup>｜你这～中上到哪块去的，喊你喝酒，电话打不通。<sup>\[泰州\]</sup> ④ ［引］发泄鄙视、讨厌、抱怨等情绪的口头禅<sup>\[东台\]</sup>：没得～本事<sup>\[东台\]</sup>｜～牌老输<sup>\[东台\]</sup>｜贪污犯是坏～！<sup>\[东台\]</sup> ⑤ 对小孩的昵称<sup>\[东台\]</sup>：这个～多神气！那个～不听话。<sup>\[东台\]</sup> ⑥ 懦弱无能<sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[如东\]</sup>：这个小伙真～，捱人指住鼻子骂也不敢回嘴。<sup>\[兴化\]</sup>｜他骨子里～吖不得命。<sup>\[泰州\]</sup>｜你望他这个～相噢。<sup>\[泰州\]</sup>｜你这人是个～蛋！<sup>\[如东\]</sup> ⑦ 精液。<sup>\[如东\]</sup><sup>\[泰州\]</sup><sup>\[东台\]</sup> ⑧ 名词后缀，詈指某种不良男性<sup>\[泰州\]</sup>：呆～<sup>\[泰州\]</sup>｜细～<sup>\[泰州\]</sup>｜坏～<sup>\[泰州\]</sup>｜夯～<sup>\[泰州\]</sup>  
+1. 【[𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son.md#𪨊)】`son2` <small>/soŋ2/<sup>兴化</sup>, /sɔŋ2/<sup>如皋</sup>, /sɔŋ2/<sup>泰兴</sup></small> ① ［𪨊］精液；对人的贬称 ② 状无能、无用、无价值<sup>\[如皋\]</sup>：这个～变吖个～形，做～事，说～话，实在太～！<sup>\[如皋\]</sup> ③ 詈语，或指人<sup>\[如皋\]</sup><sup>\[泰州\]</sup>：把这个～打啊跑！<sup>\[如皋\]</sup>｜这薄～一竟说话赖话，同他打过交道的都晓得。<sup>\[泰州\]</sup>｜你这～中上到哪块去的，喊你喝酒，电话打不通。<sup>\[泰州\]</sup> ④ ［引］发泄鄙视、讨厌、抱怨等情绪的口头禅<sup>\[东台\]</sup>：没得～本事<sup>\[东台\]</sup>｜～牌老输<sup>\[东台\]</sup>｜贪污犯是坏～！<sup>\[东台\]</sup> ⑤ 对小孩的昵称<sup>\[东台\]</sup>：这个～多神气！那个～不听话。<sup>\[东台\]</sup> ⑥ 懦弱无能<sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[如东\]</sup>：这个小伙真～，捱人指住鼻子骂也不敢回嘴。<sup>\[兴化\]</sup>｜他骨子里～吖不得命。<sup>\[泰州\]</sup>｜你望他这个～相噢。<sup>\[泰州\]</sup>｜你这人是个～蛋！<sup>\[如东\]</sup> ⑦ 精液。<sup>\[如东\]</sup><sup>\[泰州\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup> ⑧ 名词后缀，詈指某种不良男性<sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：呆～<sup>\[泰州\]</sup>｜细～<sup>\[泰州\]</sup>｜坏～<sup>\[泰州\]</sup>｜夯～<sup>\[泰州\]</sup>｜箇bah～<sup>\[泰兴\]</sup>  
 1. 【[𪨊话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_hua.md#𪨊话)】`son2 hua6` <small>/sɔŋ2 xua1/<sup>如皋</sup></small> ① 无力的、无骨气的话。<sup>\[如皋\]</sup> ② 软弱无力的言语。<sup>\[如东\]</sup>：你不要说～。<sup>\[如东\]</sup>  
 1. 【[𪨊样<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_ian_r.md#𪨊样<sub>儿</sub>)】`son2 ian6 r` <sup>[如东]</sup> 比喻形样难看。  
 1. 【[𪨊容](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_ion.md#𪨊容)】`son2 ion` <sup>[东台]</sup> 指本事、门路（贬）：他儿子有～吖，赚吖大钱！  
@@ -2992,7 +2994,7 @@
 1. 【[𪨊袋<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_tae_r.md#𪨊袋<sub>儿</sub>)】`son2 tae6 r` <sup>[如皋]</sup> 见“𪨊垫儿”。  
 1. 【[𪨊豆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_teu_r.md#𪨊豆<sub>儿</sub>)】`son2 teu6 r` <sup>[如皋]</sup> 贬或昵指青、少、幼年人。  
 1. 【[𪨊垫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_tin_r.md#𪨊垫<sub>儿</sub>)】`son2 tin6 r` <sup>[如皋]</sup> ① 又名子孙袋儿。旧时新嫁娘必备，新婚夜垫用，次晨给公婆验看是否处女。 ② 詈语，骂小孩。  
-1. 【[𪨊形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_xien.md#𪨊形)】`son2 xien2` <small>/soŋ2 ɕin2/<sup>兴化</sup>, /sɔŋ2 ɕiəŋ2/<sup>如皋</sup></small> ① 落魄、萎琐的样子。<sup>\[如皋\]</sup> ② 比喻形样难看。<sup>\[如东\]</sup>：看你箇～，还走得出去吧。<sup>\[如东\]</sup> ③ （贬）能力<sup>\[兴化\]</sup>：这个人一点～没得，连儿子也管不住。<sup>\[兴化\]</sup>｜你拿点儿～出来，领住老婆伢儿好好过日子。<sup>\[兴化\]</sup>  
+1. 【[𪨊形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_xien.md#𪨊形)】`son2 xien2` <small>/soŋ2 ɕin2/<sup>兴化</sup>, /sɔŋ2 ɕiəŋ2/<sup>如皋</sup>, /sɔŋ2 ɕiŋ2/<sup>泰兴</sup></small> ① 落魄、萎琐的样子。<sup>\[如皋\]</sup> ② 比喻形样难看。<sup>\[如东\]</sup>：看你箇～，还走得出去吧。<sup>\[如东\]</sup> ③ （贬）能力<sup>\[兴化\]</sup>：这个人一点～没得，连儿子也管不住。<sup>\[兴化\]</sup>｜你拿点儿～出来，领住老婆伢儿好好过日子。<sup>\[兴化\]</sup> ④ 十分难看的样子<sup>\[泰兴\]</sup>：老虎不吃人，～难看<sup>\[泰兴\]</sup>  
 1. 【[竦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son.md#竦)】`son3` <sup>[如东]</sup> 恭敬地站着。  
 1. 【[竦腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_io.md#竦腰)】`son3 io1` <sup>[如东]</sup> 上体向前弯下。  
 1. 【[宋六门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_loh_men.md#宋六门)】`son5 loh8 men2` <sup>[如皋]</sup> 宋时，如皋县衙四周所设的六个门：先春门（东门）、集贤门（东南门）、宣化门（南门）、丰乐门（西门）、北极门（西北门）、拱辰门（东北门）。各门都有门官看守。  

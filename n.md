@@ -152,7 +152,7 @@
 1. 【[捺鱼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_y_r.md#捺鱼<sub>儿</sub>)】`naeh8 y2 r` <sup>[东台]</sup> 见“面鱼儿”。  
 1. 【[捺拃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_zha.md#捺拃)】`naeh8 zha1` <sup>[如皋]</sup> 张开姆指和中指的距离。  
 1. 【[纳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh.md#纳)】`naeh8` <sup>[兴化]</sup> 缝补：补补～～｜他穿吖一件补天～地的破褂子。  
-1. 【[纳棺材](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_gun_cae.md#纳棺材)】`naeh8 gun1 cae` <sup>[泰兴]</sup> 同“下棺材”。  
+1. 【[纳棺材](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_gun_cae.md#纳棺材)】`naeh8 gun1 cae` <sup>[泰兴]</sup> 骂人语。谓进棺材。多用于骂小孩。  
 1. 【[纳匣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_haeh_zz.md#纳匣子)】`naeh8 haeh8 zz` <sup>[兴化]</sup> 市井语，骂小孩夭亡，装进简易木匣。  
 1. 【[纳函子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_kaen_zz.md#纳函子)】`naeh8 kaen2 zz` <small>/neʔ8 kʰẽ2 t͡sɿ/<sup>如皋</sup></small> ① 詈语，咒小孩早死。<sup>\[如皋\]</sup> ② 小孩死了，装进一种小型盒子里埋入土中，叫做纳函子。比喻顽皮的小孩。这是骂小孩子的话。<sup>\[如东\]</sup>：你这个～。<sup>\[如东\]</sup>  
 1. 【[难板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naen_baen.md#难板)】`naen2 baen` <sup>[泰县]</sup> 难得：你～来。  
@@ -1379,8 +1379,9 @@
 1. 【[纽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu.md#纽)】`nieu3` <small>/liɤ3/<sup>兴化</sup></small> ① 各种瓜果刚结的果实<sup>\[兴化\]</sup>：斜瓜～。<sup>\[兴化\]</sup> ② 把纽扣套入纽襻中，系扣子<sup>\[泰州\]</sup>：衣裳上的纽子不曾～得好就出去啊唻。<sup>\[泰州\]</sup>  
 1. 【[纽扣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu_keu_r.md#纽扣<sub>儿</sub>)】`nieu3 keu1 r` <sup>[如东]</sup> 布条儿做的纽襻，与桃儿成对。  
 1. 【[纽襻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu_paen.md#纽襻)】`nieu3 paen5` <sup>[兴化]</sup> 扣住纽扣的套儿：他穿了一身铁机纺绸褂裤……盘花钮扣，～拖出一截银表链。（汪曾祺《落魄》）  
+1. 【[纽襻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu_paen_zz.md#纽襻子)】`nieu3 paen5 zz` <small>/nəɪ3 pʰɛ̃5 t͡sɿ/<sup>泰兴</sup></small> 套住纽扣的布孔<sup>\[泰兴\]</sup>  
 1. 【[纽<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu_r.md#纽<sub>儿</sub>)】`nieu3 r` <sup>[如皋]</sup> 瓜果的雌花和嫩胚。  
-1. 【[纽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu_zz.md#纽子)】`nieu3 zz` 纽扣，套入纽襻扣合衣服的球状物或片状物。<sup>\[泰州\]</sup>  
+1. 【[纽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu_zz.md#纽子)】`nieu3 zz` <small>/nəɪ3 t͡sɿ/<sup>泰兴</sup></small> 纽扣<sup>\[泰州\]</sup><sup>\[泰兴\]</sup>  
 1. 【[拗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu.md#拗)】`nieu5` <sup>[东台]</sup> 固执。  
 1. 【[拗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu.md#拗)】`nieu6` <sup>[如皋]</sup> 固执、不驯顺：执～、～脾气。  
 1. 【[嗫鬼噊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nih_guei_jyeh_zz.md#嗫鬼噊子)】`nih8 guei3 jyeh7 zz` <sup>[如皋]</sup> 独自轻声叽咕或二人低声叽咕。  

@@ -350,6 +350,7 @@
 1. 【[蛋撇子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_pih_zz.md#蛋撇子)】`taen6 pih7 zz` <sup>[兴化]</sup> 把蛋打在水中，煮熟后盛在放有调料的碗中，是农村招待来客的食品之一。也叫“打蛋茶”。  
 1. 【[蛋白子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_poh_zz.md#蛋白子)】`taen6 poh8 zz` <sup>[泰州]</sup> 蛋白，蛋清，包在蛋黄周围，由蛋白质组成的透明胶状物质。  
 1. 【[蛋清](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_qien.md#蛋清)】`taen6 qien1` <sup>[东台]</sup> 蛋黄周围的胶状物质。  
+1. 【[蛋清子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_qien_zz.md#蛋清子)】`taen6 qien1 zz` <small>/tʰɛ̃1 t͡ɕʰiŋ1 t͡sɿ/<sup>泰兴</sup></small> 蛋白<sup>\[泰兴\]</sup>  
 1. 【[蛋青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_qien.md#蛋青)】`taen6 qien1` <sup>[东台]</sup> 像青鸭蛋壳的颜色。  
 1. 【[蛋松](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_son.md#蛋松)】`taen6 son1` <sup>[如皋]</sup> 蛋液下入沸水做成的的线状食品。  
 1. 【[蛋黄<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_van_r.md#蛋黄<sub>儿</sub>)】`taen6 van2 r` <sup>[如皋]</sup> 喻刚出生的婴儿。  

@@ -86,6 +86,7 @@
 1. 【[鸡猫六畜的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_mo_loh_choh.md#鸡猫六畜的)】`ji1 mo2 loh8 choh7 dii` <sup>[如皋]</sup> 形容轻微的意见不投，气氛不和谐。  
 1. 【[鸡目眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_moh_ngaen.md#鸡目眼)】`ji1 moh8 ngaen3` <small>/t͡ɕʝ1 mɔʔ8 ŋẽ3/<sup>如皋</sup></small> ① 夜盲症。<sup>\[如东\]</sup> ② 即“雀目眼”，白蒲话说。<sup>\[如皋\]</sup>  
 1. 【[鸡眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ngaen.md#鸡眼)】`ji1 ngaen3` <sup>[如东]</sup> 皮肤病，脚掌或脚趾上角质层增深而形成的小圆硬块，样子像鸡的眼睛，局部有压痛。  
+1. 【[鸡眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ngaen.md#鸡眼)】`ji1 ngaen3` <small>/t͡ɕʝ1 ŋɛ̃3/<sup>泰兴</sup></small> 局部表皮久受压迫或摩擦，脚掌或脚趾上生的小圆形硬结，有压痛感。<sup>\[泰兴\]</sup>  
 1. 【[鸡内金](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_nuei_jien.md#鸡内金)】`ji1 nuei6 jien1` <sup>[如东]</sup> 雉科动物家鸡的干燥砂囊内膜。  
 1. 【[鸡皮疙瘩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_pi_geh_daeh.md#鸡皮疙瘩)】`ji1 pi2 geh7 daeh7` ① 因受到某种刺激而寒毛直立，皮肤表面好像鸡皮一样。<sup>\[东台\]</sup> ② 去掉毛的鸡皮上的颗粒状的肉点，喻指人在受寒冷、惊恐、厌恶等刺激时，皮肤毛孔突然收缩成颗粒状情形<sup>\[泰州\]</sup>：你望他这个大麻疯的样子，把人～都瘆出来啊。<sup>\[泰州\]</sup>  
 1. 【[鸡皮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_pi_zz.md#鸡皮子)】`ji1 pi2 zz` <sup>[如皋]</sup> 人的皮肤因寒冷或紧张而收缩，像鸡皮似的有许多小凸起：他颈项里抻起～来啊。  
@@ -969,6 +970,7 @@
 1. 【[劲酵头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_go_teu_r.md#劲酵头<sub>儿</sub>)】`jien5 go5 teu2 r` <sup>[东台]</sup> ［喻］喜欢出头露面的人，也称劲头子，多含贬义。  
 1. 【[劲鲁鲁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_lv_lv.md#劲鲁鲁)】`jien5 lv3 lv3` <sup>[泰州]</sup> 跃跃欲试、劲头十足的样子：望吖他上场这～的样子，就晓得他二百斤肯定举得上去。  
 1. 【[劲头上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_teu_shan.md#劲头上)】`jien5 teu2 shan` <sup>[泰州]</sup> 正在热衷于某事之时：他这一刻热炒股正在～，你现在跑过去同他说泼冷水的话，他怎吖可能听得进去。  
+1. 【[劲头子勃勃的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_teu_zz_peh.md#劲头子勃勃的)】`jien5 teu2 zz peh8 peh8 dii` <small>/t͡ɕiŋ5 tʰəɪ2 t͡sɿ pʰəʔ8 pʰəʔ8 təɪ/<sup>泰兴</sup></small> 劲头很足的样子。<sup>\[泰兴\]</sup>  
 1. 【[敬月光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_iuh_guan.md#敬月光)】`jien5 iuh8 guan1` <small>/t͡ɕin5 yuʔ8 kuaŋ1/<sup>兴化</sup></small> ① （民俗）在中秋节晚上，以月饼、菱、藕等供品～。<sup>\[东台\]</sup> ② 中秋节晚上，人们在月下摆设月饼、菱、藕、鸡头（芡实）、黏饼、兔子月光糕等，点香烛，放鞭炮，～。<sup>\[兴化\]</sup>  
 1. 【[敬酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_jieu.md#敬酒)】`jien5 jieu3` <sup>[如东]</sup> ① 在宴席过程申，主动站起来，端起酒杯向客人敬酒，自己先喝，表示对客人的敬意。 ② 在宴席过程中，主人站起来给客人斟一杯酒，也称敬酒。  
 1. 【[敬香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_xian.md#敬香)】`jien5 xian1` <small>/t͡ɕiŋ5 ɕiɑŋ1/<sup>泰兴</sup></small> ① 给菩萨烧香。为了表示虔诚，故称敬香。也叫上香。<sup>\[如东\]</sup> ② 谓善男信女到圣地名山的庙宇去烧香拜佛。<sup>\[泰兴\]</sup>  

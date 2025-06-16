@@ -432,6 +432,7 @@
 1. 【[驳墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_qian.md#驳墙)】`bah7 qian2` <sup>[如东]</sup> 倚墙砌墙，叫做驳墙。  
 1. 【[驳岸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_un.md#驳岸)】`bah7 un6` <sup>[如东]</sup> 以砖石加固堤岸，叫做驳岸。  
 1. 【[驳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_zz.md#驳子)】`bah7 zz` <sup>[兴化]</sup> ① 运货的船：铁～；水泥～。 ② 短途货运的小型敞口船。  
+1. 【[驳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_zz.md#驳子)】`bah7 zz` <small>/pɑʔ7 t͡sɿ/<sup>泰兴</sup></small> 能载人货的小船。可从不能近岸的大船上驳货转运至岸边，故称。<sup>\[泰兴\]</sup>  
 1. 【[𠺣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah.md#𠺣)】`bah7` <sup>[如皋]</sup> 指关节响声。  
 1. 【[𠺣鼓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_gv_r.md#𠺣鼓<sub>儿</sub>)】`bah7 gv3 r` <sup>[如皋]</sup> 见“𠺣子”。  
 1. 【[𠺣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_zz.md#𠺣子)】`bah7 zz` <sup>[如皋]</sup> 一种硬面扁鼓，其声清越，是京剧乐队的指挥鼓。  

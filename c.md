@@ -1384,6 +1384,7 @@
 1. 【[黐底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_di.md#黐底)】`chr1 di3` <sup>[兴化]</sup> 有黏性的糊状物沉淀在容器底部：糯米粥煮稠啊会～。  
 1. 【[黐竿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_gun.md#黐竿)】`chr1 gun1` <sup>[如皋]</sup> 本指端部蘸有黐胶的竹竿，喻粘上后不能解脱，喻吃大亏：叮吖～上吖。  
 1. 【[㓾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr.md#㓾)】`chr2` <small>/t͡sʰɿ2/<sup>兴化</sup>, /t͡sʰɿ2/<sup>如皋</sup></small> ① 用刀轻轻地切开。<sup>\[如东\]</sup>：～鱼。<sup>\[如东\]</sup> ② 以刀刃锯割<sup>\[如皋\]</sup>：～鱼。<sup>\[如皋\]</sup> ③ 划开<sup>\[如皋\]</sup>：手捱瓦瓷～啊个口子。<sup>\[如皋\]</sup> ④ 剖鱼，刮去鱼鳞、内脏。<sup>\[东台\]</sup> ⑤ 刮鱼鳞、剖鱼腹、出鱼肠等<sup>\[兴化\]</sup>：～鱼；（酒保）只得替他～鱼，落锅煮熟了……（《三遂平妖传》八）<sup>\[兴化\]</sup> ⑥ 顺势划开<sup>\[兴化\]</sup>：～鸭肠子；在竹篾上～口子；不小心把手～破。清·樊腾风《五方元音》下卷<sup>\[兴化\]</sup>｜“～，部洗鱼也，剥也。”<sup>\[兴化\]</sup> ⑦ 以刀剖鱼<sup>\[泰州\]</sup>：你去帮他把鱼～啊子。<sup>\[泰州\]</sup>  
+1. 【[㓾掉肚肠刮掉鳞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_tio_tv_chan.md#㓾掉肚肠刮掉鳞)】`chr2 tio tv6 chan guaeh7 tio lien2` <small>/t͡sʰɿ2 tʰiɔ tʰu1 t͡sʰɑŋ kuæʔ7 tʰiɔ liŋ2/<sup>泰兴</sup></small> 谓一了百净；了断，绝交。<sup>\[泰兴\]</sup>  
 1. 【[㓾鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_y.md#㓾鱼)】`chr2 y2` 剖鱼  
 1. 【[池](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr.md#池)】`chr2` <sup>[如皋]</sup> ① 池塘。为田间蓄水池，不外通。又称园沟。 ② 地名通名，由池塘引伸而来：三角～、杨～、蛵蛉儿～。 ③ 粪池的省称：下～沤。 ④ 公共浴室的浴池：下～洗澡、头～、二池、三～。  
 1. 【[池杉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_shaen.md#池杉)】`chr2 shaen1` <sup>[如东]</sup> 落叶乔木，树干基部膨大，常有屈膝状的吸盘根。材质似水杉，韧性则过之，是建筑、电杆、家具的用材，尤其是水桶、蒸笼的最好用材。  
@@ -1509,7 +1510,6 @@
 1. 【[闯祸精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_hu_jien.md#闯祸精)】`chuan3 hu6 jien1` <sup>[泰州]</sup> 经常惹祸引来麻烦的人：这小伙在学堂里是出咖名的～，老师三天两头就要打电话向他老子告状。  
 1. 【[闯马路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_ma_lv.md#闯马路)】`chuan3 ma3 lv6` <sup>[如东]</sup> 横穿马路：不要～。  
 1. 【[闯气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_qi.md#闯气)】`chuan3 qi5` <sup>[泰县]</sup> 寻衅：小王请你不要～。  
-1. 【[闯日罩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_rih_zho.md#闯日罩)】`chuan3 rih8 zho5` <sup>[东台]</sup> 白天行窃之人。  
 1. 【[闯胎生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_tae_shen.md#闯胎生)】`chuan3 tae1 shen1` <sup>[如东]</sup> 鲁莽投胎。比喻办事非常莽闯：怎吖不当心点儿，你个～！  
 1. 【[创](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan.md#创)】`chuan5` <sup>[如东]</sup> 捕捉蟛蜞的工具。一根木棍，前端尖，后端砧横柄，也叫纳手儿。作业时，将创插入蟛蜞洞口，使其扩大，变直，然后下钩钩取蟛蜞。  
 1. 【[创创](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_chuan.md#创创)】`chuan5 chuan5` <sup>[东台]</sup> 大胆离开原有的生活环境去开辟新的天地，有闯天下的意思。  
@@ -1524,6 +1524,7 @@
 1. 【[撞气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_qi.md#撞气)】`chuan6 qi5` <small>/t͡sʰuaŋ6 t͡ɕʰi5/<sup>兴化</sup></small> ① 呕气、斗气<sup>\[兴化\]</sup>：她在外头赌输啊钱，家来跟男人～。<sup>\[兴化\]</sup> ② 因对别人不满，有意挑衅使人生气愤怒<sup>\[泰州\]</sup>：大家有话好好说，都不要～，一～就说不下去唻。<sup>\[泰州\]</sup>  
 1. 【[撞日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_rih.md#撞日)】`chuan6 rih8` <sup>[兴化]</sup> 未经挑选的任意的日子：拣日不如～好，今晚就让卢伯同妈团圆。（马春阳《翁婿同还乡》）  
 1. 【[撞日朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_rih_zho.md#撞日朝)】`chuan6 rih8 zho1` <sup>[兴化]</sup> 小偷白天潜入人家行窃：进忠便往外走，撞见一人进来，喝道“做甚么，～哩！”（《梼杌闲评》七）  
+1. 【[撞日罩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_rih_zho.md#撞日罩)】`chuan6-3 rih8 zho5` <sup>[东台]</sup> 白天行窃之人。  
 1. 【[撞辱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_roh.md#撞辱)】`chuan6 roh8` <sup>[东台]</sup> 顶撞、侮辱：你没魂没胆，他是你的长辈，你怎能～他！？  
 1. 【[撞数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_shv.md#撞数)】`chuan6 shv5` <small>/t͡sʰuaŋ6 su5/<sup>兴化</sup></small> 充数，凑数<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：他俫打麻将三缺一，拿我～。<sup>\[兴化\]</sup>｜人要是还不够，你就把他报上去～。<sup>\[泰州\]</sup>｜这两样菜没得甚的名堂，弄出来放吖桌上就是～的。<sup>\[泰州\]</sup>  
 1. 【[撞头拳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_teu_qiun.md#撞头拳)】`chuan6 teu2 qiun2` <sup>[如东]</sup> 用头撞人或撞墙。  
@@ -1946,7 +1947,7 @@
 1. 【[草鸡毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_ji_mo.md#草鸡毛)】`co3 ji1 mo2` <small>/t͡sʰɔ3 t͡ɕi1 mɔ2/<sup>兴化</sup>, /t͡sʰɔ3 t͡ɕʝ1 mɔ2/<sup>如皋</sup>, /t͡sʰɔ3 t͡sɿ1 mɔ2/<sup>泰县</sup></small> ① 鸡毛非常轻，比喻做事轻率，不稳重。<sup>\[如东\]</sup>：他像～样的，不能负责重要的工作。<sup>\[如东\]</sup> ② 比喻品格低下，言行随便，毫无信誉。<sup>\[如皋\]</sup> ③ ［喻］毛糙草率的行为。<sup>\[东台\]</sup> ④ 档次低、不入流的事物。<sup>\[东台\]</sup> ⑤ 形容人性情急躁，缺乏修养<sup>\[兴化\]</sup>：他是个～，吵一阵就过去啊。<sup>\[兴化\]</sup> ⑥ 草率从事<sup>\[泰县\]</sup>：这个办事有点儿～。<sup>\[泰县\]</sup> ⑦ 好说大话而无真实本领的人<sup>\[泰州\]</sup>：这种连标点符号都点不全的～，还在外头大话𠫓𠫓的充文化人。<sup>\[泰州\]</sup> ⑧ 耍赖无耻的人<sup>\[泰州\]</sup>：他是个～，你少同他啰唆为好。<sup>\[泰州\]</sup> ⑨ 非正规的，不按规矩的<sup>\[泰州\]</sup>：这是家～公司，老板小学都不曾毕业，发不发加班工资全凭他高兴不高兴，他才不管你甚的《劳动法》吤。<sup>\[泰州\]</sup>  
 1. 【[草鸡蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_ji_taen.md#草鸡蛋)】`co3 ji1 taen6` <sup>[东台]</sup> 本地放养的鸡生的蛋。  
 1. 【[草口乱谈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_keu_lun_taen.md#草口乱谈)】`co3 keu3 lun6 taen2` <sup>[如东]</sup> 言语不文雅，污言秽语多。  
-1. 【[草窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_ku.md#草窠)】`co3 ku1` <small>/t͡sʰɔ3 kʰo1/<sup>兴化</sup>, /t͡sʰɔ3 kʰo1/<sup>泰县</sup></small> ① 草丛 ② 草丛<sup>\[兴化\]</sup>：斗不数合，小龙委实难搪，将身一幌，变作小蛇儿，钻入草科中去了。（《西游记》十五）<sup>\[兴化\]</sup> ③ 草丛<sup>\[泰县\]</sup>：我在～里发现一只野鸭蛋。<sup>\[泰县\]</sup> ④ 杂草丛生或者乱草堆积之处<sup>\[泰州\]</sup>：～里窜吖一直野兔子出来，把我吓咖一跳。<sup>\[泰州\]</sup>  
+1. 【[草窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_ku.md#草窠)】`co3 ku1` <small>/t͡sʰɔ3 kʰo1/<sup>兴化</sup>, /t͡sʰɔ3 kʰo1/<sup>泰县</sup></small> ① 草丛 ② 草丛<sup>\[兴化\]</sup><sup>\[泰县\]</sup>\[泰州：杂草丛生或者乱草堆积之处\]：斗不数合，小龙委实难搪，将身一幌，变作小蛇儿，钻入草科中去了。（《西游记》十五）<sup>\[兴化\]</sup>｜我在～里发现一只野鸭蛋。<sup>\[泰县\]</sup>｜～里窜吖一直野兔子出来，把我吓咖一跳。<sup>\[泰州\]</sup>  
 1. 【[草帘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_lin_zz.md#草帘子)】`co3 lin2 zz` <sup>[如皋]</sup> 用芒棵的茎、叶扼成的帘子。一般用于遮盖或垫晒作物。  
 1. 【[草鲢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_lin.md#草鲢)】`co3 lin2` <small>/t͡sʰɔ3 lĩ2/<sup>如皋</sup></small> ① 鲤科鳙鱼，也称大头鲢。<sup>\[如东\]</sup> ② 鳙鱼。<sup>\[如皋\]</sup>  
 1. 【[草龙<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_lon_r.md#草龙<sub>儿</sub>)】`co3 lon2 r` <small>/t͡sʰɔ3 lɔ˞2/<sup>如皋</sup></small> ① 鬣蜥科动物草绿龙蜥，俗称四脚蛇。<sup>\[如东\]</sup> ② 用牛拉的，在水田中压草的大型木制农具。形似旧式蚕簇。<sup>\[如皋\]</sup> ③ 麻蜥。<sup>\[如皋\]</sup>  
