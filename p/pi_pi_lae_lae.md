@@ -6,6 +6,6 @@ pi5 pi5 lae6 lae6 dii
   * 东台方言词典
 
 # 屁屁赖赖
-pi5 pi5 lae6 lae6 dii
+pi5 pi5 lae6 lae6
 + 躲闪赖账；语言粗俗不雅。
   * 泰兴方言辞典
