@@ -110,6 +110,7 @@
 1. 【[拔插帮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paeh_chaeh_ban_zz.md#拔插帮子)】`paeh8 chaeh7 ban1 zz` <sup>[如东]</sup> 房门外侧的一根横梁，叫拔插帮子。  
 1. 【[拔长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paeh_chan.md#拔长)】`paeh8 chan2` <sup>[如皋]</sup> 个子长高快  
 1. 【[拔屌无情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paeh_dio_v_qien.md#拔屌无情)】`paeh8 dio3 v2 qien2` <sup>[东台]</sup> ［喻］事过即丢，冷酷无情。  
+1. 【[拔屌子无情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paeh_dio_zz_v.md#拔屌子无情)】`paeh8 dio3 zz v2 qien2` <small>/pʰæʔ8 tiɔ3 t͡sɿ ʋ2 t͡ɕʰiŋ2/<sup>泰兴</sup></small> 村话。谓人极不讲情义。<sup>\[泰兴\]</sup>  
 1. 【[拔风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paeh_fon.md#拔风)】`paeh8 fon1` <sup>[如皋]</sup> 自然吸风。  
 1. 【[拔风灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paeh_fon_zo.md#拔风灶)】`paeh8 fon1 zo5` <sup>[如皋]</sup> 自然吸风不用鼓风的灶。其上有高烟囱，下有炉和风巷。  
 1. 【[拔缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paeh_fon.md#拔缝)】`paeh8 fon6` <sup>[如东]</sup> 木板拼合地方裂缝，称拔缝。  
@@ -269,6 +270,7 @@
 1. 【[𨁝𨁝跳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/peh_peh_tio.md#𨁝𨁝跳)】`peh8 peh8 tio5` <sup>[如皋]</sup> 状心跳明显。  
 1. 【[𨁝跳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/peh_tio.md#𨁝跳)】`peh8 tio5` <sup>[兴化]</sup> 形容被针刺、虫咬或烫灼时的疼痛感（一般连用）：烫得～～的｜戳得～～的。  
 1. 【[呸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pei.md#呸)】`pei1` <sup>[泰州]</sup> 表示鄙视、斥责或者唾弃。  
+1. 【[坯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pei_zz.md#坯子)】`pei1 zz` <small>/pʰəɪ1 t͡sɿ/<sup>泰兴</sup></small> 指未烧制加工的砖瓦、陶瓷器以及其它待加工的半成品。<sup>\[泰兴\]</sup>  
 1. 【[培土](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pei_tv.md#培土)】`pei2 tv3` <sup>[如东]</sup> 给植物壅土。  
 1. 【[陪绑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pei_ban.md#陪绑)】`pei2 ban3` <small>/pʰəi2 paŋ3/<sup>兴化</sup></small> ① 社会处决犯人时，为了逼出口供或迫使投阵，把不够死刑的犯人、暂缓执行死刑的犯人和即将处决的犯人一起绑赴刑场称陪绑。<sup>\[如东\]</sup> ② 做某件事的陪衬。<sup>\[如东\]</sup>：这次王桂兰参加选举，是做～的。<sup>\[如东\]</sup> ③ 旧指和被处决人犯一起绑赴刑场，以示警戒或恫吓。<sup>\[兴化\]</sup> ④ （喻）被强拉去做本不愿做的事<sup>\[兴化\]</sup>：这次捱训我是～的。<sup>\[兴化\]</sup>  
 1. 【[陪值](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pei_cheh.md#陪值)】`pei2 cheh8` <sup>[兴化]</sup> 陪伴：没事～你谈谈。  
@@ -314,7 +316,7 @@
 1. 【[笨头笨脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pen_teu_pen_no.md#笨头笨脑)】`pen6 teu2 pen6 no3` <sup>[东台]</sup> （詈语）形容人愚笨。  
 1. 【[坯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#坯)】`pi1` <sup>[东台]</sup> ① 已做成形、未烧的砖瓦、陶器等：砖～。 ② 特指土坯：脱～。 ③ 泛指半制成品：～布。  
 1. 【[坯缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_gan.md#坯缸)】`pi1 gan1` <sup>[如皋]</sup> 一种有釉的广白缸，按大小分为头～、二～、三～。  
-1. 【[坯料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_lio.md#坯料)】`pi1 lio6` <small>/pʰi1 liɔ6/<sup>兴化</sup>, /pʰʝ1 liɔ1/<sup>如皋</sup></small> ① 毛坯。<sup>\[兴化\]</sup> ② （引）人的本质、品格<sup>\[兴化\]</sup>：这个小子～太坏，赌输啊就偷。<sup>\[兴化\]</sup> ③ 贬指某人的品质<sup>\[如皋\]</sup>：～不好、下流～。<sup>\[如皋\]</sup> ④ （贬）人的基本素质、习性<sup>\[东台\]</sup>：要改掉惚～。<sup>\[东台\]</sup> ⑤ 有待进一步加工处理的材料。<sup>\[泰州\]</sup> ⑥ 人自幼生成的品行、习惯<sup>\[泰州\]</sup><sup>\[泰州\]</sup>：这小伙～不好，怕学习，教他念书像要他的命。<sup>\[泰州\]</sup>｜哪个像你这样子吃饭不扶住碗，这些～不好。<sup>\[泰州\]</sup>  
+1. 【[坯料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_lio.md#坯料)】`pi1 lio6` <small>/pʰi1 liɔ6/<sup>兴化</sup>, /pʰʝ1 liɔ1/<sup>如皋</sup>, /pʰəɪ1 liɔ1/<sup>泰兴</sup></small> ① 毛坯。<sup>\[兴化\]</sup> ② （引）人的本质、品格<sup>\[兴化\]</sup>：这个小子～太坏，赌输啊就偷。<sup>\[兴化\]</sup> ③ 贬指某人的品质<sup>\[如皋\]</sup>：～不好、下流～。<sup>\[如皋\]</sup> ④ （贬）人的基本素质、习性<sup>\[东台\]</sup>：要改掉惚～。<sup>\[东台\]</sup> ⑤ 有待进一步加工处理的材料。<sup>\[泰州\]</sup> ⑥ 人自幼生成的品行、习惯<sup>\[泰州\]</sup><sup>\[泰州\]</sup>：这小伙～不好，怕学习，教他念书像要他的命。<sup>\[泰州\]</sup>｜哪个像你这样子吃饭不扶住碗，这些～不好。<sup>\[泰州\]</sup> ⑦ 有待加工的半成品\[泰兴：有时作骂人语\]：箇个～<sup>\[泰兴\]</sup>  
 1. 【[批](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#批)】`pi1` <sup>[东台]</sup> 量词，用于大宗的货物或多数的人：一～灶种苗猪/一～大学生村官。  
 1. 【[批削](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_xiah.md#批削)】`pi1 xiah7` <sup>[兴化]</sup> 反驳：不是我要～你，你这个话确实不对。  
 1. 【[披啊股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_a_gv.md#披啊股)】`pi1 a gv3` <sup>[如皋]</sup> 线股敞开。  
@@ -1114,6 +1116,7 @@
 1. 【[埲塘灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_tan_huei.md#埲塘灰)】`pon6 tan2 huei1` <small>/pʰɔŋ1 tʰã2 xuei1/<sup>如皋</sup></small> ① 扬尘，灰尘飞扬 ② 灰尘扬起。<sup>\[如皋\]</sup>  
 1. 【[埲动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_ton.md#埲动)】`pon6 ton` <sup>[如东]</sup> 尘土飞扬：灰尘～。  
 1. 【[甏<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_r.md#甏<sub>儿</sub>)】`pon6 r` <sup>[如皋]</sup> 坛儿。  
+1. 【[坡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_zz.md#坡子)】`pu1 zz` <small>/pʰɤɯ1 t͡sɿ/<sup>泰兴</sup></small> 斜坡，倾斜的土坡。<sup>\[泰兴\]</sup>  
 1. 【[婆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu.md#婆)】`pu2` <sup>[如皋]</sup> 指称丈夫的母亲。  
 1. 【[婆爹爹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_dia_dia.md#婆爹爹)】`pu2 dia1 dia` <small>/pʰo2 tia1 tia/<sup>兴化</sup>, /pʰo2 tia1 tia/<sup>泰县</sup></small> 外祖父。<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>  
 1. 【[婆爹爹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_dia_dia.md#婆爹爹)】`pu2 dia1 dia1` <small>/pʰʊ2 tia1 tia1/<sup>如皋</sup></small> ① 称母亲的父亲，外祖父。<sup>\[如皋\]</sup> ② 外祖父，也叫外公。<sup>\[东台\]</sup>  

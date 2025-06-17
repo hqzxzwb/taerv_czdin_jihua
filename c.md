@@ -976,13 +976,15 @@
 1. 【[抽长眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_chan_ngaen.md#抽长眼)】`cheu1 chan2 ngaen3` <sup>[如东]</sup> 儿童身体长高，由胖变瘦，叫做抽长眼：这个伢儿要～吖。  
 1. 【[抽抽<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_cheu_r.md#抽抽<sub>儿</sub>)】`cheu1 cheu1 r` <sup>[如皋]</sup> 抽屉。  
 1. 【[抽抽<sub>儿</sub>囥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_cheu_r_kan.md#抽抽<sub>儿</sub>囥)】`cheu1 cheu1 r kan5` <sup>[如皋]</sup> 抽屉窝。  
+1. 【[抽穗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_cuei.md#抽穗)】`cheu1 cuei6` <small>/t͡ɕʰiɤɯ1 t͡sʰuəɪ1/<sup>泰兴</sup></small> 禾谷类作物开始从秆尖叶片中长出穗子。<sup>\[泰兴\]</sup>  
 1. 【[抽吊筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_dio_jien.md#抽吊筋)】`cheu1 dio5 jien1` <sup>[如东]</sup> 人的神筋是不能抽掉的。比喻要完成不能做或非常艰难的事情。  
 1. 【[抽行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_han.md#抽行)】`cheu1 han2` <sup>[如东]</sup> 隔一行拿东西：你抓牌不要～。  
 1. 【[抽油水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_ieu_shuei.md#抽油水)】`cheu1 ieu2 shuei3` <sup>[如皋]</sup> 从中抽取好处。  
 1. 【[抽筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_jien.md#抽筋)】`cheu1 jien1` ① 肌肉痉挛。<sup>\[如东\]</sup>\[泰州：民间以为是有静脉抽搐引起，故名\]：下水游泳就怕～。<sup>\[如东\]</sup>｜他在河里游得行行的，小腿陡然的～，差点儿淹杀咖。<sup>\[泰州\]</sup> ② 找麻烦。<sup>\[如东\]</sup>：你就会～，没完没了的。<sup>\[如东\]</sup>  
+1. 【[抽筋抽骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_jien_cheu_gueh.md#抽筋抽骨)】`cheu1 jien1 cheu1 gueh7` <small>/t͡ɕʰiɤɯ1 t͡ɕiŋ1 t͡ɕʰiɤɯ1 kuəʔ7/<sup>泰兴</sup></small> 筋肉痉挛、抽搐<sup>\[泰兴\]</sup>：箇两天没劲，浑身～的疼。<sup>\[泰兴\]</sup>  
 1. 【[抽空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_kon.md#抽空)】`cheu1 kon5` <small>/t͡sʰei1 kʰɔŋ5/<sup>如皋</sup></small> 挤出时间。<sup>\[如东\]</sup><sup>\[如皋\]</sup>：请你～来下子。<sup>\[如东\]</sup>  
 1. 【[抽牌九](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_pae_jieu.md#抽牌九)】`cheu1 pae2 jieu3` <sup>[兴化]</sup> 卖糖果小贩在竹筒中放置刻有牌九点子的小竹筹一副，和顾客各抽几张，比点子决输赢。  
-1. 【[抽牵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_qin.md#抽牵)】`cheu1 qin1` <small>/t͡ɕʰiɤɯ1 t͡ɕʰĩ1/<sup>泰兴</sup></small> 穷折腾<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
+1. 【[抽牵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_qin.md#抽牵)】`cheu1 qin1` <small>/t͡ɕʰiɤɯ1 t͡ɕʰĩ1/<sup>泰兴</sup></small> ① 穷折腾<sup>\[东台\]</sup><sup>\[泰兴\]</sup> ② 紊乱；办事条件不够，勉强应付。<sup>\[泰兴\]</sup>：过点日子真是～，又没草又没粮的。<sup>\[泰兴\]</sup>  
 1. 【[抽签](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_qin.md#抽签)】`cheu1 qin1` <sup>[泰州]</sup> ① 指人遇到事情犹豫不决，难下决策：你到底是去，还是不去，不要～。 ② 事物发展过程变化无常，始终没有结果：他本来答应帮忙的，后来说没得工夫，只好请老王，老王又说家里有事，你说哿～吖。  
 1. 【[抽穗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_qy.md#抽穗)】`cheu1 qy6` <sup>[如东]</sup> 麦子、玉米、高粱等农作物由叶鞘中长出穗头来。  
 1. 【[抽<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_r.md#抽<sub>儿</sub>)】`cheu1 r` 抽屉  
@@ -990,6 +992,7 @@
 1. 【[抽人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_ren_zz.md#抽人子)】`cheu1 ren zz` <sup>[如皋]</sup> 见“抽人”。  
 1. 【[抽人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_ren.md#抽人)】`cheu1 ren2` <sup>[如东]</sup> ① 打：他用鞭子～。 ② 特别的刺激：这股烟～哎。  
 1. 【[抽身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_shen.md#抽身)】`cheu1 shen1` <small>/t͡sʰei1 səŋ1/<sup>如皋</sup></small> ① 腾出空来。<sup>\[如东\]</sup>：再忙我也要～过来一趟。<sup>\[如东\]</sup> ② 死者人棺前，抽出胯下护葬布。也称抽布。<sup>\[如东\]</sup> ③ 殡验程序之一。下棺材前，抽出死者挎下护脏布（抽身布）。<sup>\[如皋\]</sup>  
+1. 【[抽头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_teu.md#抽头)】`cheu1 teu2` <small>/t͡ɕʰiɤɯ1 tʰəɪ2/<sup>泰兴</sup></small> 设局邀人聚赌，抽取头钱；商品交易或办事中的回扣。<sup>\[泰兴\]</sup>  
 1. 【[抽头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_teu_r.md#抽头<sub>儿</sub>)】`cheu1 teu2 r` <sup>[如皋]</sup> 打丝线的绕线工具，为木制四棱框架，串铁轴兼摇柄，安在“轴桩儿”上。  
 1. 【[抽跳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_tio.md#抽跳)】`cheu1 tio5` <sup>[如皋]</sup> 中途单方毁约而使另一方落空遭殃。  
 1. 【[抽瘟千](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_ven_qin.md#抽瘟千)】`cheu1 ven1 qin1` <sup>[泰县]</sup> （禁忌语）该死：这个人～。  

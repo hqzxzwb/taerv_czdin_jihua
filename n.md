@@ -548,6 +548,7 @@
 1. 【[压头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh_teu.md#压头)】`ngaeh7 teu2` <sup>[如皋]</sup> 子女难成活，抱人家一个回家～，以利再养的子女成活。  
 1. 【[压岁钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh_xy_qin.md#压岁钱)】`ngaeh7 xy5 qin2` ① 阴历十二月三十日晚，旧年结束新年开始，小孩增长一岁，祖父祖母和父亲、母亲赠给小孩一些喜钱，表示祝贺。这钱称压岁钱。<sup>\[如东\]</sup> ② 春节期间长辈给儿童的钱。<sup>\[泰州\]</sup>  
 1. 【[压众](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh_zhon.md#压众)】`ngaeh7 zhon5` <small>/ŋeʔ7 t͡sɔŋ5/<sup>如皋</sup></small> ① 见“盖众”。<sup>\[如皋\]</sup> ② 超过大家。<sup>\[如皋\]</sup> ③ 使大家敬服、慑服。<sup>\[如皋\]</sup> ④ 得罪了大家。<sup>\[如皋\]</sup>  
+1. 【[押](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh.md#押)】`ngaeh7` <small>/ŋæʔ7/<sup>泰兴</sup></small> 抵押，典当；押送，拘禁<sup>\[泰兴\]</sup>  
 1. 【[押板金](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh_baen_jien.md#押板金)】`ngaeh7 baen3 jien1` <small>/ŋeʔ7 pẽ3 t͡ɕiəŋ1/<sup>如皋</sup></small> ① 押金。<sup>\[如皋\]</sup> ② 押金或抵押物。<sup>\[东台\]</sup>  
 1. 【[押宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh_bo.md#押宝)】`ngaeh7 bo3` <sup>[如东]</sup> 赌徒根据猜测骰子点录而下赌注，叫押宝。  
 1. 【[押宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh_bo_r.md#押宝<sub>儿</sub>)】`ngaeh7 bo3 r` <sup>[如东]</sup> 前边的一个孩子天折了，接下来生的男孩，就叫押宝儿。  
@@ -586,7 +587,7 @@
 1. 【[鸭子上粮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh_zz_shan_lian.md#鸭子上粮)】`ngaeh7 zz shan6 lian2` <sup>[如皋]</sup> 状鸭子抢着吃，吃得香。  
 1. 【[鸭子淘沙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh_zz_to_sha.md#鸭子淘沙)】`ngaeh7 zz to2 sha1` <sup>[如皋]</sup> 鸭子将头伸进水底觅食而屁股朝上，双脚划动的样子。  
 1. 【[鸭子再打扮，也卖不到鹅价钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh_zz_zae_da.md#鸭子再打扮，也卖不到鹅价钱)】`ngaeh7 zz zae5 da3 baen5 ia3 mae6 beh7 do5 ngu2 jia5 qin` <sup>[东台]</sup> 本质上的差距再装饰也弥补不了。  
-1. 【[轧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh.md#轧)】`ngaeh8` <small>/æʔ8/<sup>兴化</sup></small> ① 两边向中间挤压（此处“轧”读若“压”的阳入）<sup>\[东台\]</sup>：关门时不小心捱门～咖下子。<sup>\[东台\]</sup> ② 被碾压<sup>\[兴化\]</sup>：一个过路的捱汽车～死啊。<sup>\[兴化\]</sup>｜面盆捱水泥板～扁吖。<sup>\[兴化\]</sup>｜《广韵·黠韵》乌黠切“～，车辗”。<sup>\[兴化\]</sup>  
+1. 【[轧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh.md#轧)】`ngaeh8` <small>/æʔ8/<sup>兴化</sup></small> 挤压，碾压<sup>\[兴化\]</sup>\[东台：两边向中间挤压\]：关门时不小心捱门～咖下子。<sup>\[东台\]</sup>｜一个过路的捱汽车～死啊。<sup>\[兴化\]</sup>｜面盆捱水泥板～扁吖。<sup>\[兴化\]</sup>  
 1. 【[轧屄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh_bi.md#轧屄)】`ngaeh8 bi1` <small>/ŋeʔ8 pʝ1/<sup>如皋</sup></small> ① 女阴的阵缩动作。<sup>\[如皋\]</sup> ② 詈语，责说了不妥当或不负责任的话。<sup>\[如皋\]</sup> ③ 谈论没有价值的事情。<sup>\[如东\]</sup>  
 1. 【[轧屄蟹<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh_bi_hae_r.md#轧屄蟹<sub>儿</sub>)】`ngaeh8 bi1 hae3 r` <sup>[如东]</sup> 喜欢谈论闲话的人。  
 1. 【[轧秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh_chen.md#轧秤)】`ngaeh8 chen5` <sup>[如皋]</sup> 见“少秤”。  
@@ -598,7 +599,7 @@
 1. 【[轧淡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh_taen.md#轧淡)】`ngaeh8 taen6` <small>/æʔ8 tʰɛ̃6/<sup>兴化</sup>, /æʔ8 tʰɛ̃1/<sup>泰县</sup></small> ① 搬淡话，搬弄是非<sup>\[东台\]</sup>：有空就多看点书，不要寻人～。<sup>\[东台\]</sup> ② 没话寻出话来说<sup>\[兴化\]</sup>：你无理寡故的～做甚的？<sup>\[兴化\]</sup> ③ 搬弄是非<sup>\[兴化\]</sup>：这个婆娘喜欢～。<sup>\[兴化\]</sup> ④ 说闲话<sup>\[泰县\]</sup>：你覅～。<sup>\[泰县\]</sup>  
 1. 【[轧尾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh_vei_zz.md#轧尾子)】`ngaeh8 vei3 zz` <sup>[如皋]</sup> ① 买货给钱时不给尾数款。 ② 詈语。冬天，人走后不随手关门，给别人以冷风，使别人受冷。因畜牲才有尾子，不关门是怕～。  
 1. 【[轧闲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh_xiaen.md#轧闲)】`ngaeh8 xiaen2` <sup>[如皋]</sup> 詈语，责说了不妥当或不负责任的话。  
-1. 【[齾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh.md#齾)】`ngaeh8` <small>/æʔ8/<sup>兴化</sup></small> ① 器物上的缺口<sup>\[兴化\]</sup>：碗上碰个～子。<sup>\[兴化\]</sup>｜缸边上有～口子。<sup>\[兴化\]</sup>｜刀上有～子。<sup>\[兴化\]</sup>｜《广韵·辖韵》五辖切～，器缺也。<sup>\[兴化\]</sup> ② 牙上的小缺口。<sup>\[泰州\]</sup> ③ 器物上的齿形缺口。<sup>\[泰州\]</sup> ④ 陶瓷器口边上的缺口。<sup>\[泰州\]</sup>  
+1. 【[齾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh.md#齾)】`ngaeh8` <small>/æʔ8/<sup>兴化</sup></small> ① 器物上的缺口<sup>\[兴化\]</sup>：碗上碰个～子。<sup>\[兴化\]</sup>｜缸边上有～口子。<sup>\[兴化\]</sup>｜刀上有～子。<sup>\[兴化\]</sup> ② 牙上的小缺口。<sup>\[泰州\]</sup> ③ 器物上的齿形缺口。<sup>\[泰州\]</sup> ④ 陶瓷器口边上的缺口。<sup>\[泰州\]</sup>  
 1. 【[齾当<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh_dan_r.md#齾当<sub>儿</sub>)】`ngaeh8 dan1 r` <sup>[东台]</sup> 形容很小的空隙：车厢里交关挤，我寻到个～坐下来。  
 1. 【[齾咚齾咚的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh_don_ngaeh_don.md#齾咚齾咚的)】`ngaeh8 don3 ngaeh8 don3 dii` <sup>[东台]</sup> 不停地走路的样子，多用于嗔词：你歇歇神，哿好，不要老是～，走啊不歇。  
 1. 【[齾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh_zz.md#齾子)】`ngaeh8 zz` <small>/ŋeʔ8 t͡sɿ/<sup>如皋</sup>, /æʔ8 t͡se/<sup>泰县</sup></small> ① 器皿口部的小缺子<sup>\[如皋\]</sup>：剪子口有啊～；碗边子碰吖个～。<sup>\[如皋\]</sup> ② 器皿上的缺损。<sup>\[如东\]</sup>：大碗上有个～。<sup>\[如东\]</sup> ③ 陶器，瓷器边缘磨损后出现的小缺口<sup>\[东台\]</sup>：青花瓷碗上有个～。（《说文》“齾，从齿献声，五辖切。缺齿也。”）<sup>\[东台\]</sup> ④ 缺口，裂缝：这个锅盖有个～。<sup>\[泰县\]</sup>  
@@ -1421,7 +1422,7 @@
 1. 【[拈骨殖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_gueh_sheh.md#拈骨殖)】`nin1 gueh7 sheh` <sup>[如东]</sup> 把死人腐朽的骨骼从棺材里拈出来装进坛子。拈骨殖礼仪：在打开棺盖时，上部用红布遮盖，不直接见天日；拈骨骼时，要从脚开始，循序进行，不能混乱；骨骼装进红布袋里，放进坛子，以后安葬。也称拾骨殖。  
 1. 【[拈花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_hua.md#拈花)】`nin1 hua1` <sup>[如东]</sup> 拾棉花。  
 1. 【[拈朞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_ji.md#拈朞)】`nin1 ji1` <sup>[如皋]</sup> 见“抓朞”“满朞”。  
-1. 【[拈阄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_jieu.md#拈阄)】`nin1 jieu1` <small>/liɪ̃1 t͡ɕiɤ1/<sup>兴化</sup></small> ① 即“抓阄”。<sup>\[兴化\]</sup> ② 抓阄。在纸片上写上数字或者画上记号，团成一团，相关之人各取其一，决定权利或者义务归属于谁<sup>\[泰州\]</sup>：哪个先拣房子～决定，大家不欺公道。<sup>\[泰州\]</sup>  
+1. 【[拈阄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_jieu.md#拈阄)】`nin1 jieu1` <small>/liɪ̃1 t͡ɕiɤ1/<sup>兴化</sup></small> 抓阄<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：哪个先拣房子～决定，大家不欺公道。<sup>\[泰州\]</sup>  
 1. 【[拈阄<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_jieu_r.md#拈阄<sub>儿</sub>)】`nin1 jieu1 r` <sup>[如东]</sup> 从预先做好记号的纸卷或纸团中每人取一个，以决定谁该得什么东西或谁该做什么事。也称抓阄儿。  
 1. 【[年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin.md#年)】`nin2` <sup>[如东]</sup> 地球围绕太阳旋转一周的时间，为一年。现行历法规定平年为365日，每4年有一个闰年，增加1日，即366日。相传有一种动物，叫年。每逢腊月30日夜，就出来吃人。所以人们在这天夜里，举行各种祭祀活动，防御年吃人。  
 1. 【[年饱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_bo_r.md#年饱<sub>儿</sub>)】`nin2 bo3 r` <small>/nĩ2 pɔ˞3/<sup>如皋</sup></small> ① 春节间因进食过多而食欲减退的现象：平常想吃没得吃，过年侭吃不想吃，做～，真倒楣！<sup>\[如皋\]</sup> ② 过年时，因为饮食过量而造成食欲不振。<sup>\[如东\]</sup>  
@@ -1460,6 +1461,9 @@
 1. 【[年作子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_zah_zz.md#年作子)】`nin2 zah7 zz` <sup>[如东]</sup> 过年期间所需要花费的钱：箇趟生意把～赚家来啊。  
 1. 【[年租](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_zv.md#年租)】`nin2 zv1` <small>/nĩ2 t͡su1/<sup>如皋</sup></small> ① 租赁一年的租金。<sup>\[如皋\]</sup> ② 一年的租金。<sup>\[如东\]</sup>：～一万。<sup>\[如东\]</sup>  
 1. 【[拈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin.md#拈)】`nin2` <small>/nĩ2/<sup>泰兴</sup></small> ① 捏取或夹取食物<sup>\[泰州\]</sup>：手都不洗就～吖望嘴里送，也不卫生吖。<sup>\[泰州\]</sup> ② 以指捏取。或指拾取。<sup>\[泰兴\]</sup>  
+1. 【[拈草掐蔬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_co_kaeh_shv.md#拈草掐蔬)】`nin2 co3 kaeh7 shv1` <small>/nĩ2 t͡sʰɔ3 kʰæʔ7 su1/<sup>泰兴</sup></small> 喻占小便宜。<sup>\[泰兴\]</sup>  
+1. 【[拈斤掐两](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_jien_kaeh_lian.md#拈斤掐两)】`nin2 jien1 kaeh7 lian3` <small>/nĩ2 t͡ɕiŋ1 kʰæʔ7 liɑŋ3/<sup>泰兴</sup></small> 犹言斤斤计较。<sup>\[泰兴\]</sup>  
+1. 【[拈阄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_jieu.md#拈阄)】`nin2 jieu1` <small>/nĩ2 t͡ɕiɤɯ1/<sup>泰兴</sup></small> 抓阄<sup>\[泰兴\]</sup>  
 1. 【[鲇滑<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_huaeh_r.md#鲇滑<sub>儿</sub>)】`nin2 huaeh8 r` <sup>[如东]</sup> 胡子鲇科动物胡子鲇，长约14厘米。  
 1. 【[鲶滑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_vaeh_zz.md#鲶滑子)】`nin2 vaeh zz` <sup>[泰州]</sup> “鲶鱼”俗称，本地产淡水鱼，周身无鳞，身体表面布满黏液，头扁口阔，上下颌有四根胡须，味道鲜美。  
 1. 【[黏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin.md#黏)】`nin2` <sup>[如皋]</sup> 亲热、怜爱、笼络：你这吖～他，他的心更加忆咖你这许。  
@@ -1493,7 +1497,7 @@
 1. 【[黏涎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_xiun.md#黏涎)】`nin2 xiun2` <small>/nĩ2 ɕyʊ̃2/<sup>如皋</sup></small> ① 鱼、螺、蚰蜓等体表的黏液。<sup>\[如皋\]</sup> ② 鱼体外表的黏液。<sup>\[如东\]</sup>  
 1. 【[黏䐈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_zhr.md#黏䐈)】`nin2 zhr3` <sup>[如东]</sup> 黏性很强的汁液：这种玉米好，煮熟咖，～交关长。  
 1. 【[黏滋滋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_zz_zz.md#黏滋滋)】`nin2 zz1 zz1` <small>/liɪ̃2 t͡sɿ1 t͡sɿ1/<sup>兴化</sup></small> ① 形容很黏、很稠<sup>\[兴化\]</sup>：煮烂的芋头子儿～的。<sup>\[兴化\]</sup> ② 黏而滑的感觉<sup>\[泰州\]</sup>：才打过球的，身上～的，要先冲个澡。<sup>\[泰州\]</sup>  
-1. 【[捻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin.md#捻)】`nin3` ① 搓。<sup>\[如东\]</sup>：～鞋绳儿。<sup>\[如东\]</sup> ② 用拇指和食指、中指夹住物体转动<sup>\[泰州\]</sup>：你把线头～啊子，线就穿进去唻。<sup>\[泰州\]</sup>  
+1. 【[捻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin.md#捻)】`nin3` <small>/nĩ3/<sup>泰兴</sup></small> ① 搓。<sup>\[如东\]</sup>：～鞋绳儿。<sup>\[如东\]</sup> ② 用拇指和食指、中指夹住物体转动<sup>\[泰州\]</sup>：你把线头～啊子，线就穿进去唻。<sup>\[泰州\]</sup> ③ 用手指搓转<sup>\[泰兴\]</sup>：～麻纺棉<sup>\[泰兴\]</sup>  
 1. 【[捻纱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_sha.md#捻纱)】`nin3 sha1` <sup>[如皋]</sup> 用手工把棉花捻成棉纱。  
 1. 【[捻头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_teu.md#捻头)】`nin3 teu2, nin3 teu` <sup>[如皋]</sup> 旧式水车车轴两端的铸铁轴头。  
 1. 【[捻线砣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_xin_tu_zz.md#捻线砣子)】`nin3 xin5 tu2 zz` <sup>[如皋]</sup> 猪或牛髈骨中段横穿铁钩做成的捻线工具。  

@@ -1131,10 +1131,12 @@
 1. 【[担干系](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_gun_xi.md#担干系)】`daen1 gun1 xi` <sup>[兴化]</sup> 指事关重大，要担贵任：你替他转移这批脏款，要～！｜“贤弟此去，须～。”（《水浒传》八一）  
 1. 【[担价](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_jia.md#担价)】`daen1 jia5` <sup>[兴化]</sup> 指商品价格较高：这批货～，不好销。  
 1. 【[担惊受怕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_jien_sheu_pa.md#担惊受怕)】`daen1 jien1 sheu6 pa5` <sup>[兴化]</sup> 提心吊胆，害怕遭到不测：贩卖假货的人～的，生怕有人举报。｜“……娘在宫里起早睡晚，～的。他在外边狐假虎威……”（《梼杌闲评》三十）  
+1. 【[担惊受怕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_jien_sheu_pa.md#担惊受怕)】`daen1 jien1 sheu6 pa5` <small>/tɛ̃1 t͡ɕiŋ1 ɕiɤɯ1 pʰɑ5/<sup>泰兴</sup></small> 担心、害怕。谓处在惊吓、恐惧之中。<sup>\[泰兴\]</sup>  
 1. 【[担吖纲上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_nga_gan_shan.md#担吖纲上)】`daen1 nga gan1 shan6` <sup>[东台]</sup> 勉强达标，不上不下，处于尴尬的地位：他考试刚刚好达分数线，～，还不能肯定考中。  
 1. 【[担绳结](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_shen_jih.md#担绳结)】`daen1 shen2 jih7` <sup>[如皋]</sup> 用担绳捆紧后，将绳在绳钩尖部打成剪形结，不松动，一拉就解下。  
 1. 【[担绳扣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_shen_keu_r.md#担绳扣<sub>儿</sub>)】`daen1 shen2 keu1 r` <sup>[如皋]</sup> 见“担绳结”。  
-1. 【[担待](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_tae.md#担待)】`daen1 tae6` 原谅，谅解<sup>\[东台\]</sup><sup>\[泰州\]</sup>：伢子不懂事，请你多～。<sup>\[东台\]</sup>｜少年人不懂事，有不到的地方，你多～。<sup>\[泰州\]</sup>  
+1. 【[担待](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_tae.md#担待)】`daen1 tae6` <small>/tɛ̃1 tʰɛ1/<sup>泰兴</sup></small> 原谅，谅解，包涵<sup>\[东台\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：伢子不懂事，请你多～。<sup>\[东台\]</sup>｜少年人不懂事，有不到的地方，你多～。<sup>\[泰州\]</sup>｜他是个伢儿，不懂事，你就～点儿。<sup>\[泰兴\]</sup>  
+1. 【[担心事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_xien_shr.md#担心事)】`daen1 xien1 shr` <small>/tɛ̃1 ɕiŋ1 sɿ/<sup>泰兴</sup></small> 担心；心神不安。放心不下。<sup>\[泰兴\]</sup>  
 1. 【[耽搁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_gah.md#耽搁)】`daen1 gah` <sup>[如东]</sup> 耽误。  
 1. 【[䋎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen.md#䋎)】`daen3` <sup>[东台]</sup> 补缝：这裤子有个小洞，让我～一下。  
 1. 【[掸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen.md#掸)】`daen3` <small>/tɛ̃3/<sup>兴化</sup>, /tɛ̃3/<sup>泰县</sup></small> ① 接触<sup>\[兴化\]</sup>：他这几天太忙，屁股不曾～到板凳又捱人叫走啊。<sup>\[兴化\]</sup>｜河水太深，～不到底（不知深浅）。<sup>\[兴化\]</sup> ② 拂拭<sup>\[兴化\]</sup>：～被<sup>\[兴化\]</sup>｜～帐子<sup>\[兴化\]</sup>｜～灰尘<sup>\[兴化\]</sup> ③ 眼睛看到<sup>\[泰县\]</sup>：不能让他～到眼。<sup>\[泰县\]</sup> ④ 触、碰<sup>\[泰州\]</sup>：他人晚上下班才到家，屁股还不曾～到板凳，就捱老周喊外去喝酒去啊唻。<sup>\[泰州\]</sup> ⑤ 以手或者以手持物拂拭<sup>\[泰州\]</sup>：你身上块块都是灰，你在外头把灰掸吖干净吖再进来。<sup>\[泰州\]</sup> ⑥ （泰州词典作燂，疑为“掸”接触义引申）<sup>\[泰州\]</sup> ⑦ 使物体接触到火<sup>\[泰州\]</sup>：这个仓库里的棉花一～就着，你俫吃烟的人注意。<sup>\[泰州\]</sup>｜这个穰草下午才晒过啊的，～火就着，好烧得狠。<sup>\[泰州\]</sup>  
@@ -1697,13 +1699,14 @@
 1. 【[钉子槐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_zz_huae.md#钉子槐)】`dien1 zz huae2` <sup>[泰兴]</sup> 长刺的槐树。  
 1. 【[钉子霜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_zz_shuan.md#钉子霜)】`dien1 zz shuan1` <sup>[如皋]</sup> 霜晶可接连很长，若钉子，表示霜大。  
 1. 【[靪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien.md#靪)】`dien1` <sup>[东台]</sup> 补鞋底：～前掌。  
-1. 【[顶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien.md#顶)】`dien3` <small>/tiɪ̃3/<sup>兴化</sup>, /tiəŋ3/<sup>如皋</sup></small> ① 最 ② 髮旋、旋状物的中心处<sup>\[如皋\]</sup>：单～、双～、草帽～儿。<sup>\[如皋\]</sup> ③ 发旋<sup>\[兴化\]</sup>：小二子头上是双～。<sup>\[兴化\]</sup> ④ 到达<sup>\[兴化\]</sup>：船～码头，乘客纷纷上岸。<sup>\[兴化\]</sup> ⑤ 逼着<sup>\[兴化\]</sup>：那大汉起初不肯说，后来冒得官～住问他，才说得一百五十块。（《官场现形记》三十）<sup>\[兴化\]</sup> ⑥ 发旋，头发呈旋涡状排列而在头顶形成的中心<sup>\[泰州\]</sup>：你俫几个人都是单～，只有他是双～。<sup>\[泰州\]</sup>  
+1. 【[顶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien.md#顶)】`dien3` <small>/tiɪ̃3/<sup>兴化</sup>, /tiəŋ3/<sup>如皋</sup>, /tiŋ3/<sup>泰兴</sup></small> ① 最 ② 髮旋、旋状物的中心处<sup>\[如皋\]</sup>：单～、双～、草帽～儿。<sup>\[如皋\]</sup> ③ 发旋<sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：小二子头上是双～。<sup>\[兴化\]</sup>｜你俫几个人都是单～，只有他是双～。<sup>\[泰州\]</sup> ④ 到达<sup>\[兴化\]</sup>：船～码头，乘客纷纷上岸。<sup>\[兴化\]</sup> ⑤ 逼着<sup>\[兴化\]</sup>：那大汉起初不肯说，后来冒得官～住问他，才说得一百五十块。（《官场现形记》三十）<sup>\[兴化\]</sup>  
 1. 【[顶板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_baen.md#顶板)】`dien3 baen3` <small>/tiŋ3 pɛ̃3/<sup>泰兴</sup></small> 天花板；床顶遮掩灰尘的木板、设施。<sup>\[泰兴\]</sup>  
 1. 【[顶搭<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_daeh_r.md#顶搭<sub>儿</sub>)】`dien3 daeh7 r` <sup>[如东]</sup> ① 孩童剃发时，头顶上留着的一撮头发或辫子：揪～。 ② 比喻脑袋。  
+1. 【[顶搭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_daeh_zz.md#顶搭子)】`dien3 daeh7 zz` <small>/tiŋ3 tæʔ7 t͡sɿ/<sup>泰兴</sup></small> 旧时孩童留在头顶的一小撮头发，多编成小长辫。后戏称为官帽。<sup>\[泰兴\]</sup>  
 1. 【[顶调](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_dio.md#顶调)】`dien3 dio5` <sup>[兴化]</sup> 争辩，提出相反意见：宦书记“一言堂”弄惯的，不想今吖的会议上有人打～。  
 1. 【[顶多](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_du.md#顶多)】`dien3 du1` <sup>[泰州]</sup> 最多，留有足够余量的评估，在说话人看来，实际数不会高于估计的数：他望起来～是四十岁的人。  
 1. 【[顶贩头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_faen_teu.md#顶贩头)】`dien3 faen5 teu` <sup>[兴化]</sup> 当面揭穿挑拨者的言行：这句话是二胖子告诉我的，不信找他来～。  
-1. 【[顶风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_fon.md#顶风)】`dien3 fon1` ① 逆风。<sup>\[如东\]</sup>：～骑车。<sup>\[如东\]</sup> ② 迎面而来的风；逆风。<sup>\[东台\]</sup> ③ ［喻］逆潮流而动。<sup>\[东台\]</sup>  
+1. 【[顶风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_fon.md#顶风)】`dien3 fon1` <small>/tiŋ3 fɔŋ1/<sup>泰兴</sup></small> ① 逆风。<sup>\[如东\]</sup><sup>\[泰兴\]</sup><sup>\[东台\]</sup>：～骑车。<sup>\[如东\]</sup> ② 迎面而来的风<sup>\[东台\]</sup><sup>\[泰兴\]</sup> ③ ［喻］逆潮流而动。<sup>\[东台\]</sup>  
 1. 【[顶岗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_gan.md#顶岗)】`dien3 gan3` <sup>[兴化]</sup> 顶班：～劳动。  
 1. 【[顶高帽<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_go_mo_r.md#顶高帽<sub>儿</sub>)】`dien3 go1 mo6 r` <sup>[如皋]</sup> 说奉承话或表扬话。  
 1. 【[顶瓜皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_gua_pi.md#顶瓜皮)】`dien3 gua1 pi2` <sup>[泰州]</sup> 脑勺即附近较厚的皮肤：一把揪住他的～。  
@@ -1724,6 +1727,7 @@
 1. 【[顶吖脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_nga_no.md#顶吖脑)】`dien3 nga no3` <sup>[东台]</sup> 到了顶，没有余地了：后头的人不要往前挤，前头已经～｜这件事寻到一把手，算是～。  
 1. 【[顶吖天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_nga_tin.md#顶吖天)】`dien3 nga tin1` <small>/tiəŋ3 ŋa tʰĩ1/<sup>如皋</sup></small> ① 最多，顶多；至多<sup>\[如皋\]</sup>：如皋到海安～20公里。<sup>\[如皋\]</sup> ② 形容不能再高了。<sup>\[东台\]</sup>  
 1. 【[顶牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_nieu.md#顶牛)】`dien3 nieu2` <sup>[东台]</sup> ［喻］争执不下。  
+1. 【[顶棚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_pon.md#顶棚)】`dien3 pon2` <small>/tiŋ3 pʰɔŋ2/<sup>泰兴</sup></small> 天花板。<sup>\[泰兴\]</sup>  
 1. 【[顶像](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_qian.md#顶像)】`dien3 qian6` <sup>[如东]</sup> 十分相像：这吖画～。  
 1. 【[顶人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_ren_zz.md#顶人子)】`dien3 ren zz` <sup>[如皋]</sup> ① 迎风前进时，风的阻力大。 ② 端部压迫：鞋子小，脚尖儿～。  
 1. 【[顶上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_shan.md#顶上)】`dien3 shan6` 上方  
@@ -1732,6 +1736,7 @@
 1. 【[顶手活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_sheu_huh.md#顶手活)】`dien3 sheu3 huh8` <sup>[东台]</sup> 不好干，不容易干好的活计：这是件～，要集中力量做好。  
 1. 【[顶膛火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_tan_hu.md#顶膛火)】`dien3 tan2 hu3` <sup>[兴化]</sup> 上了枪膛的子弹：他怕手枪走火，连忙把～退出来。  
 1. 【[顶头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_teu.md#顶头)】`dien3 teu2` <sup>[如皋]</sup> 端部。  
+1. 【[顶头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_teu.md#顶头)】`dien3 teu2` <small>/tiŋ3 tʰəɪ2/<sup>泰兴</sup></small> 物体的最高处；尽头。<sup>\[泰兴\]</sup>：路～就是布厂<sup>\[泰兴\]</sup>  
 1. 【[顶头大撞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_teu_da_chuan.md#顶头大撞)】`dien3 teu2 da6 chuan6` <sup>[泰州]</sup> 无意中迎面碰见某人：早上在坡子街同老李～，让都让不掉。  
 1. 【[顶头上司](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_teu_shan_sz.md#顶头上司)】`dien3 teu2 shan6 sz1` ① 直接领导。<sup>\[东台\]</sup> ② 本人的直接领导人或者直接领导部门。<sup>\[泰州\]</sup>  
 1. 【[顶天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_tin.md#顶天)】`dien3 tin1` <small>/tiɪ̃3 tʰiɪ̃1/<sup>兴化</sup></small> 形容极高或到了极限<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：官司打到高级法院，算是～吖。<sup>\[兴化\]</sup>｜他能当到副局长，职务算～吖。<sup>\[兴化\]</sup>｜你在泰州当干部，做到正厅就～唻。<sup>\[泰州\]</sup>  
