@@ -1579,6 +1579,7 @@
 1. 【[居先](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_xin.md#居先)】`jy1 xin1` <sup>[如皋]</sup> 时空位置相对在前。  
 1. 【[拘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy.md#拘)】`jy1` <small>/t͡ɕy1/<sup>兴化</sup>, /t͡ɕy1/<sup>如皋</sup></small> ① 恭谨，转为敬请和礼让<sup>\[如皋\]</sup>：～座、～行、～酒、～菜。<sup>\[如皋\]</sup> ② 穿在牛鼻中膈下的小木棒或铁环，用来套牛绳。<sup>\[兴化\]</sup> ③ 旧俗，在小孩鼻中带的金属小环。意为拘住孩子不让“走”（死）了。又称“鼻～”。<sup>\[兴化\]</sup> ④ 人一时迷糊发怔的样子（*跔）<sup>\[泰州\]</sup>：他捱领导凶吖发咖～，差点儿捱门槛𢴬个大跟头。<sup>\[泰州\]</sup>｜他这阵子怕的是～啊唻，一盘稳赢的棋竟然弄吖输掉啊。<sup>\[泰州\]</sup>  
 1. 【[拘礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_li.md#拘礼)】`jy1 li3` <sup>[东台]</sup> 客气、谦让；拘泥于礼节：都是家里人，你不要～！  
+1. 【[拘礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_li.md#拘礼)】`jy1 li3` <small>/t͡ɕy1 lʝ3/<sup>泰兴</sup></small> 拘泥于礼法、礼节。<sup>\[泰兴\]</sup>  
 1. 【[拘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_r.md#拘<sub>儿</sub>)】`jy1 r` <sup>[泰州]</sup> ① 牛拘：小牛大啊唻，要同它戴～唻。 ② 旧时男孩鼻饰，黄金细环，别在鼻中，挂于上唇，旧时家长担心小孩早夭，给小孩戴拘儿，取其“拘住不走”之义：他家这个小伙五房佮咖一个，打小就戴～，一直戴到16岁才除掉。  
 1. 【[椐木](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_moh.md#椐木)】`jy1 moh8` <sup>[泰州]</sup> 椐树木料：这张～大橱还是老爹当年结婚打的。  
 1. 【[车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy.md#车)】`jy1` <sup>[东台]</sup> 象棋中的棋子：丢卒保～。  

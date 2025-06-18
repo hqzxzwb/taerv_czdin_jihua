@@ -446,7 +446,7 @@
 1. 【[摸咖个门搭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_ga_gu_men.md#摸咖个门搭子)】`mah8 ga gu men2 daeh7 zz` <sup>[东台]</sup> 指要访问的人家门关了。  
 1. 【[摸根](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_gen.md#摸根)】`mah8 gen1` <sup>[兴化]</sup> 了解底细：这封检举信反映的情况非常重要，我俫赶紧去～。  
 1. 【[摸功](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_gon.md#摸功)】`mah8 gon1` <small>/maʔ8 koŋ1/<sup>兴化</sup>, /maʔ8 kɔŋ1/<sup>如皋</sup></small> ① 细致的功夫：他修头～大，要得个把钟头。<sup>\[如皋\]</sup> ② 磨洋工<sup>\[兴化\]</sup>：他～不小，做功不行。<sup>\[兴化\]</sup>  
-1. 【[摸鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_guei.md#摸鬼)】`mah8 guei3` <small>/maʔ8 kuəi3/<sup>兴化</sup>, /mɑʔ8 kuəɪ3/<sup>泰县</sup></small> ① 做无聊的事。<sup>\[如东\]</sup> ② 做事拖拉。<sup>\[如东\]</sup> ③ 指动作缓慢的人。<sup>\[兴化\]</sup> ④ 做事拖拉。<sup>\[泰县\]</sup>  
+1. 【[摸鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_guei.md#摸鬼)】`mah8 guei3` <small>/maʔ8 kuəi3/<sup>兴化</sup>, /mɑʔ8 kuəɪ3/<sup>泰兴</sup>, /mɑʔ8 kuəɪ3/<sup>泰县</sup></small> ① 做无聊的事。<sup>\[如东\]</sup> ② 做事拖拉。<sup>\[如东\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup> ③ 指动作缓慢的人。<sup>\[兴化\]</sup>  
 1. 【[摸瞎子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_haeh_zz.md#摸瞎子)】`mah8 haeh7 zz` <small>/maʔ8 xæʔ7 t͡sɿ/<sup>兴化</sup>, /maʔ8 xeʔ7 t͡sɿ/<sup>如皋</sup></small> ① 在很暗时摸索着走路，或喻无先例做事。<sup>\[如皋\]</sup> ② 摸黑儿<sup>\[兴化\]</sup>：屋里黑洞洞的，坐啊～。<sup>\[兴化\]</sup>｜晚上不曾开灯，到家～。<sup>\[兴化\]</sup>  
 1. 【[摸黑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_heh.md#摸黑)】`mah8 heh7` <sup>[如皋]</sup> 见“摸瞎子”。  
 1. 【[摸和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_hv.md#摸和)】`mah8 hv2` ① 打长牌 ② 打牌，也称摸牌。多指玩耷子和。<sup>\[如东\]</sup>  

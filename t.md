@@ -1874,17 +1874,19 @@
 1. 【[胴宫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_gon.md#胴宫)】`ton6 gon1` <sup>[如东]</sup> 肛门：～出血。  
 1. 【[胴疘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_gon.md#胴疘)】`ton6 gon1` <sup>[如皋]</sup> 肛门上方的括约肌管道，有病时会坠出。  
 1. 【[胴疘头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_gon_teu_zz.md#胴疘头子)】`ton6 gon1 teu2 zz` <sup>[东台]</sup> 指肛门：～𠫓下来了，淌呃好些血。《文字集略》云｜“脱疘，下部病也。”  
-1. 【[拖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#拖)】`tu1` <small>/tʰo1/<sup>泰县</sup></small> 吃。<sup>\[泰县\]</sup><sup>\[泰州\]</sup>：总共就买啊二斤肉，哪块掌得住着几个小伙～。<sup>\[泰州\]</sup>｜今吖晚上老酒侭喝，肥肉侭～。<sup>\[泰州\]</sup>  
+1. 【[拖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#拖)】`tu1` <small>/tʰɤɯ1/<sup>泰兴</sup>, /tʰo1/<sup>泰县</sup></small> ① 吃。<sup>\[泰县\]</sup><sup>\[泰州\]</sup>：总共就买啊二斤肉，哪块掌得住着几个小伙～。<sup>\[泰州\]</sup>｜今吖晚上老酒侭喝，肥肉侭～。<sup>\[泰州\]</sup> ② 耷拉着<sup>\[泰兴\]</sup>：箇件衣裳太长，～啊～的不好看<sup>\[泰兴\]</sup>  
 1. 【[拖板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_baen.md#拖板)】`tu1 baen3` <sup>[如东]</sup> 农具。木制，长方形，用以压碎压平土块。  
 1. 【[拖板<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_baen_r.md#拖板<sub>儿</sub>)】`tu1 baen3 r` <sup>[如东]</sup> 鞋的一种。木制，长方形，前部有搭扣，穿着可在平地或草地上行走。  
 1. 【[拖船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_chun.md#拖船)】`tu1 chun2` <small>/tʰo1 t͡sʰũ2/<sup>兴化</sup></small> ① 拖轮。<sup>\[兴化\]</sup> ② 拖轮所牵引的驳船。<sup>\[兴化\]</sup> ③ 挂在机动船后被牵引的船。<sup>\[泰州\]</sup>  
 1. 【[拖带](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_dae.md#拖带)】`tu1 dae5` <sup>[兴化]</sup> 牵引、牵连、牵累：他一人犯法，家属子女受到～。  
+1. 【[拖搭鞋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_daeh_hae.md#拖搭鞋)】`tu1 daeh7 hae2` <small>/tʰɤɯ1 tæʔ7 xɛ2/<sup>泰兴</sup></small> 拖鞋<sup>\[泰兴\]</sup>  
 1. 【[拖的抱的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_dii_po_dii.md#拖的抱的)】`tu1 dii po6 dii` <sup>[兴化]</sup> 并非亲生的子女：这个伢儿既不像爷，又不像娘，哪个晓得他是～。  
 1. 【[拖刀计](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_do_ji.md#拖刀计)】`tu1 do1 ji5` <sup>[如东]</sup> 三国名将关羽在战场上诈败，引诱对方追赶，回过头来宰杀，使对方措手不及。比喻做假引诱对方上当：你不曾防备，中吖他的～。  
 1. 【[拖风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_fon.md#拖风)】`tu1 fon1` <sup>[兴化]</sup> ① 拖船。 ② （喻）随行家属。  
 1. 【[拖家带口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_ga_dae_keu.md#拖家带口)】`tu1 ga1 dae5 keu3` <sup>[泰州]</sup> 外出之时携带家中老小：你俫两口儿上北京去打工，离家这吖远，要是～的去，肯定是不方便。  
 1. 【[拖篙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_go_zz.md#拖篙子)】`tu1 go1 zz` <sup>[兴化]</sup> 渔家禁忌，拖着篙子走路，被认为是空手而回的象征。（见《兴化市志·民俗》）  
 1. 【[拖鞋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_hae.md#拖鞋)】`tu1 hae2` <sup>[如东]</sup> 有鞋头、没有后帮的一种鞋。也称凉鞋。  
+1. 【[拖鞋搭脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_hae_daeh_jiah.md#拖鞋搭脚)】`tu1 hae2 daeh7 jiah7` <small>/tʰɤɯ1 xɛ2 tæʔ7 t͡ɕiɑʔ7/<sup>泰兴</sup></small> 衣履不整之貌。<sup>\[泰兴\]</sup>  
 1. 【[拖鞋趿袜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_hae_saeh_vaeh.md#拖鞋趿袜)】`tu1 hae2 saeh7 vaeh8` <sup>[兴化]</sup> 形容衣履不整的样子。  
 1. 【[拖后腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_heu_tuei.md#拖后腿)】`tu1 heu6 tuei3` <sup>[如东]</sup> 拖住后腿不让向前走动。比喻不让前进，尤其是政治上的进步。  
 1. 【[拖油瓶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_ieu_pien.md#拖油瓶)】`tu1 ieu2 pien2` ① 寡妇改嫁时带来的子女。<sup>\[如东\]</sup> ② 再婚女子带来的与前夫所生的孩子。<sup>\[东台\]</sup> ③ 妇女带着与前夫所生的孩子再嫁<sup>\[泰州\]</sup>：这细小伙是这马马儿～带过来的。<sup>\[泰州\]</sup> ④ 再嫁妇女带到新夫家的儿女<sup>\[泰州\]</sup>：这个大小伙是～，两个小丫头是她同老郑结婚以后养的。<sup>\[泰州\]</sup>  
@@ -1898,11 +1900,14 @@
 1. 【[拖片挂片](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_pin_gua_pin.md#拖片挂片)】`tu1 pin5 gua5 pin5` <sup>[如东]</sup> ① 形容衣服非常破烂，布片飘挂：平儿身上的衣服～的，像个甚的样子。 ② 形容衣服很不整齐：身上的衣服～的，怎吖好走出门吖！  
 1. 【[拖步](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_pv.md#拖步)】`tu1 pv6` <sup>[东台]</sup> ① 别人要离开时，请人家稍等片刻。 ② 劳驾。《西游记》第十四回：多有～，感谢不胜。  
 1. 【[拖腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_qian.md#拖腔)】`tu1 qian1` <sup>[兴化]</sup> ① 戏曲演唱时拖得很长的字音。 ② （借）说话时尾音拖长：“门翁哎——”倪四心里有话，咳嗯！还有～哩。（《皮五辣子》五）  
+1. 【[拖声带气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_shen_dae_qi.md#拖声带气)】`tu1 shen1 dae5 qi5` <small>/tʰɤɯ1 səŋ1 tɛ5 t͡ɕʰʝ5/<sup>泰兴</sup></small> 谓说话中气不足，有病态或故意拖腔走调。有时指大月份孕妇之态。<sup>\[泰兴\]</sup>  
 1. 【[拖死狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_sz_geu.md#拖死狗)】`tu1 sz3 geu3` <sup>[兴化]</sup> 旧谓智商较低或不用功的学生，成绩跟不上进度，仿佛～。  
+1. 【[拖沓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_taeh.md#拖沓)】`tu1 taeh` <small>/tʰɤɯ1 tʰæʔ/<sup>泰兴</sup></small> 拖拉<sup>\[泰兴\]</sup>：做事～<sup>\[泰兴\]</sup>  
 1. 【[拖繵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_taen_zz.md#拖繵子)】`tu1 taen2 zz` <sup>[兴化]</sup> （借）拖延时光：他这个病好是难好啊，不过～罢咾。  
 1. 【[拖汤滴水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_tan_dieh_shuei.md#拖汤滴水)】`tu1 tan1 dieh7 shuei3` <small>/tʰo1 tʰaŋ1 tiɪʔ7 suəi3/<sup>兴化</sup></small> ① 形容做事不干净利落，多指老年人<sup>\[东台\]</sup>：他已八十岁，还很干漫，不是那种～的人。<sup>\[东台\]</sup> ② （喻）处事不干脆<sup>\[兴化\]</sup>：你上次借的一万块钱，～的三次才还吖五千，下余的请干脆吧！<sup>\[兴化\]</sup>  
 1. 【[拖堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_tan.md#拖堂)】`tu1 tan2` <sup>[兴化]</sup> ① 教师不按时下课。 ② （借）拖延时间。  
 1. 【[拖拖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_tu.md#拖拖)】`tu1 tu1` <small>/tʰo1 tʰo1/<sup>泰县</sup></small> ① 拉动物体。<sup>\[如东\]</sup>：把木头往西～。<sup>\[如东\]</sup> ② 推迟一下。<sup>\[如东\]</sup>：这件事再～吧。<sup>\[如东\]</sup> ③ 推迟。<sup>\[泰县\]</sup>  
+1. 【[拖拖沰沰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_tu_dah_dah.md#拖拖沰沰)】`tu1 tu1 dah7 dah7` <small>/tʰɤɯ1 tʰɤɯ1 tɑʔ7 tɑʔ7/<sup>泰兴</sup></small> 拖拖拉拉，拖泥带水<sup>\[泰兴\]</sup>  
 1. 【[拖网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_van.md#拖网)】`tu1 van3` <sup>[如东]</sup> 一种网具。麻绳或尼龙绳结成，口大，尾小。作业时，用渔船拖着前进，从而捕鱼。  
 1. 【[拖尾巴蛆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_vei_ba_qy.md#拖尾巴蛆子)】`tu1 vei3 ba qy1 zz` <sup>[如皋]</sup> 喻拖累着的儿女：她的男将死得早，又有这些～，日子真的苦！  
 1. 【[拖鲜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_xin.md#拖鲜)】`tu1 xin1` <sup>[如东]</sup> 用车辆贩运海鲜。  

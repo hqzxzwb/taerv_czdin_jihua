@@ -1360,7 +1360,8 @@
 1. 【[拐脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guae_jiah_r.md#拐脚<sub>儿</sub>)】`guae3 jiah7 r` <sup>[如皋]</sup> 脚内弯畸型，走路时脚边着地。或指人。  
 1. 【[拐缰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guae_jian.md#拐缰)】`guae3 jian1` <sup>[如皋]</sup> ① 本指马脱缰逃走。比喻经办人挟带款物逃走。 ② 经办而没有完成，不明结果。  
 1. 【[拐里拐搭的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guae_lii_guae_daeh.md#拐里拐搭的)】`guae3 lii guae3 daeh7 dii` <sup>[东台]</sup> 同“拐搭”：这婆娘～，没得搭煞头。  
-1. 【[拐棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guae_pan.md#拐棒)】`guae3 pan6` <small>/kuɛ3 pʰã1/<sup>如皋</sup></small> ① 拐杖<sup>\[如皋\]</sup> ② 又叫拐杖。走路拄着的棍子，手抓的一头多为弯曲。<sup>\[东台\]</sup>  
+1. 【[拐磨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guae_mu.md#拐磨)】`guae3 mu6` <small>/kuɛ3 mɤɯ1/<sup>泰兴</sup></small> 以手摇使转的小石磨，多用以粉碎芝麻、辣椒等。<sup>\[泰兴\]</sup>  
+1. 【[拐棒/柺棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guae_pan.md#拐棒/柺棒)】`guae3 pan6` <small>/kuɛ3 pʰã1/<sup>如皋</sup>, /kuɛ3 pʰɑŋ1/<sup>泰兴</sup></small> ① 拐杖<sup>\[如皋\]</sup> ② 又叫拐杖。走路拄着的棍子，手抓的一头多为弯曲。<sup>\[东台\]</sup> ③ 拐杖。<sup>\[泰兴\]</sup>  
 1. 【[拐棒/柺棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guae_pan.md#拐棒/柺棒)】`guae3 pan6` <sup>[泰州]</sup> 走路时支撑身体的木棒或者竹棒：老爹爹在公园里拄啊根～散步。  
 1. 【[拐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guae_r.md#拐<sub>儿</sub>)】`guae3 r` <sup>[如皋]</sup> 骨关节一样凸起的东西：生姜～、手～、脚～。  
 1. 【[拐<sub>儿</sub>桌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guae_r_zhuah.md#拐<sub>儿</sub>桌)】`guae3 r zhuah7` <sup>[如东]</sup> 八仙桌的一种。每边的桌用𣑁弯形木条连接而成。每根木条算一拐，也叫一料。最少为五拐，最多为十九拐。  

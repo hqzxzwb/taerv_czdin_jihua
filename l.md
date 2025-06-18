@@ -13,10 +13,10 @@
 1. 【[拉长麻线](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_chan_ma_xin.md#拉长麻线)】`la1 chan2 ma2 xin5` <sup>[如皋]</sup> 说话不能紧扣话题，扯得过远过长。  
 1. 【[拉大锯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_da_jy.md#拉大锯)】`la1 da6 jy5` <sup>[兴化]</sup> 两人一来一往地推拉着大锯解木头。  
 1. 【[拉大网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_da_van.md#拉大网)】`la1 da6 van3` <sup>[兴化]</sup> 一种捕鱼方法。  
-1. 【[拉倒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_do.md#拉倒)】`la1 do3` ① 算了。作罢。<sup>\[如东\]</sup><sup>\[东台\]</sup>：不来～。<sup>\[东台\]</sup> ② 罢了，表示“不再说了”<sup>\[泰州\]</sup>：你～把，不要在这块再吹唻，家去吃倒头饭去吧。<sup>\[泰州\]</sup> ③ 算了，表示“不再计较”<sup>\[泰州\]</sup>：给我个面子，这件事就～唻。<sup>\[泰州\]</sup> ④ 完蛋，表示“不再存在”<sup>\[泰州\]</sup>：照你这吖说，他读研究生的事情是～唻。<sup>\[泰州\]</sup>  
-1. 【[拉肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_dv_zz.md#拉肚子)】`la1 dv3 zz` <sup>[东台]</sup> 腹泻  
-1. 【[拉寡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_gua.md#拉寡)】`la1 gua` <small>/la1 kua/<sup>兴化</sup></small> ① 拉家常话。<sup>\[东台\]</sup> ② 谈家常<sup>\[兴化\]</sup>：……她乘空跑出来，想再去同左邻右舍～。（马春阳《访亲》）<sup>\[兴化\]</sup>  
-1. 【[拉瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_gua.md#拉瓜)】`la1 gua` <small>/la1 kua/<sup>兴化</sup>, /la1 kua/<sup>如皋</sup></small> ① 不整齐。（原文作“拉刮”，音不合）<sup>\[如东\]</sup>：身上的衣裳～啊，多难相吖。<sup>\[如东\]</sup> ② 不利索、不整饰<sup>\[如皋\]</sup>：张家嫲嫲儿～死啊，整天蓬头撒兮、拖鞋𨃚脚的，还到处跑。<sup>\[如皋\]</sup> ③ （形容词）不干净，凌乱，他不会收拾，蛮～的。<sup>\[东台\]</sup> ④ 不洁<sup>\[兴化\]</sup>：～邋遢。<sup>\[兴化\]</sup>  
+1. 【[拉倒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_do.md#拉倒)】`la1 do3` <small>/lɑ1 tɔ3/<sup>泰兴</sup></small> ① 算了。作罢。<sup>\[如东\]</sup><sup>\[东台\]</sup>\[泰兴：又音 lah8 do3\]：不来～。<sup>\[东台\]</sup> ② 罢了，表示“不再说了”<sup>\[泰州\]</sup>：你～把，不要在这块再吹唻，家去吃倒头饭去吧。<sup>\[泰州\]</sup> ③ 算了，表示“不再计较”<sup>\[泰州\]</sup>：给我个面子，这件事就～唻。<sup>\[泰州\]</sup> ④ 完蛋，表示“不再存在”<sup>\[泰州\]</sup>：照你这吖说，他读研究生的事情是～唻。<sup>\[泰州\]</sup>  
+1. 【[拉肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_dv_zz.md#拉肚子)】`la1 dv3 zz` 腹泻  
+1. 【[拉寡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_gua.md#拉寡)】`la1 gua` <small>/la1 kua/<sup>兴化</sup></small> 谈家常<sup>\[东台\]</sup><sup>\[兴化\]</sup>：……她乘空跑出来，想再去同左邻右舍～。（马春阳《访亲》）<sup>\[兴化\]</sup>  
+1. 【[拉瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_gua.md#拉瓜)】`la1 gua` <small>/la1 kua/<sup>兴化</sup>, /la1 kua/<sup>如皋</sup>, /lɑ1 kuɑ/<sup>泰兴</sup></small> ① 不整齐。（原文作“拉刮”，音不合）<sup>\[如东\]</sup>：身上的衣裳～啊，多难相吖。<sup>\[如东\]</sup> ② 不利索、不整饰<sup>\[如皋\]</sup>：张家嫲嫲儿～死啊，整天蓬头撒兮、拖鞋𨃚脚的，还到处跑。<sup>\[如皋\]</sup> ③ （形容词）不干净，凌乱，他不会收拾，蛮～的。<sup>\[东台\]</sup> ④ 不洁<sup>\[兴化\]</sup>：～邋遢。<sup>\[兴化\]</sup> ⑤ 不整洁；不整齐美观。<sup>\[泰兴\]</sup>  
 1. 【[拉瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_gua.md#拉瓜)】`la1 gua1` <sup>[兴化]</sup> 南瓜的种，果实圆筒形，结头稍晚，淀粉含量亦较高。  
 1. 【[拉寡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_gua.md#拉寡)】`la1 gua3` <small>/la1 kua3/<sup>如皋</sup></small> ① 闲谈。<sup>\[如东\]</sup> ② 闲扯，漫无目标地聊天，即便不相识也没关系。<sup>\[如皋\]</sup>  
 1. 【[拉和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_hu.md#拉和)】`la1 hu2` <sup>[泰州]</sup> 与因积怨而不相往来的交恶双方都很友好，并有一定影响的第三方出面，通过宴请之类形式，化解交恶双方积怨，恢复正常交往：这两个人原来话都不说，后来支书出来～，现在关系还算说得过去。  
@@ -34,7 +34,7 @@
 1. 【[拉磨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_mu.md#拉磨)】`la1 mu6` <small>/la1 mʊ1/<sup>如皋</sup></small> ① 拉动磨盘转动。<sup>\[如皋\]</sup> ② 见“牵磨”。<sup>\[如皋\]</sup>  
 1. 【[拉伢<sub>儿</sub>㞎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_nga_r_ba.md#拉伢<sub>儿</sub>㞎)】`la1 nga2 r ba3` <sup>[如皋]</sup> 见“拉㞎”。  
 1. 【[拉伢<sub>儿</sub>尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_nga_r_xy.md#拉伢<sub>儿</sub>尿)】`la1 nga2 r xy1` <sup>[如皋]</sup> 见“拉尿”。  
-1. 【[拉硬劝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ngen_qiun.md#拉硬劝)】`la1 ngen6 qiun5` <small>/la1 ən6 t͡ɕʰyũ5/<sup>兴化</sup>, /la1 ŋəŋ1 t͡ɕʰyʊ̃5/<sup>如皋</sup></small> ① 以调解为名，实为帮一方打压另一方。<sup>\[如皋\]</sup> ② 表面劝阻双方打架，实际上控制一方，好让另一方动手。<sup>\[东台\]</sup> ③ 明为劝和，暗中却偏护一方，拉偏架<sup>\[兴化\]</sup>：他说你是～的，动不动拉架的和打架的打起来就是这个原因。（扬一《李逵劫法场》）<sup>\[兴化\]</sup> ④ 拉架时有意偏袒一方<sup>\[泰州\]</sup>：望得出来，这家伙明显的是～。<sup>\[泰州\]</sup>  
+1. 【[拉硬劝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ngen_qiun.md#拉硬劝)】`la1 ngen6 qiun5` <small>/la1 ən6 t͡ɕʰyũ5/<sup>兴化</sup>, /la1 ŋəŋ1 t͡ɕʰyʊ̃5/<sup>如皋</sup>, /lɑ1 ŋəŋ1 t͡ɕʰyʊ̃5/<sup>泰兴</sup></small> ① 以调解为名，实为帮一方打压另一方。<sup>\[如皋\]</sup> ② 表面劝阻双方打架，实际上控制一方，好让另一方动手。<sup>\[东台\]</sup> ③ 明为劝和，暗中却偏护一方，拉偏架<sup>\[兴化\]</sup>：他说你是～的，动不动拉架的和打架的打起来就是这个原因。（扬一《李逵劫法场》）<sup>\[兴化\]</sup> ④ 拉架时有意偏袒一方<sup>\[泰州\]</sup>：望得出来，这家伙明显的是～。<sup>\[泰州\]</sup> ⑤ 劝架时暗中偏袒一方，或故意挡住一方让另一方出气。<sup>\[泰兴\]</sup>  
 1. 【[拉皮条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_pi_tio.md#拉皮条)】`la1 pi2 tio2` <sup>[泰州]</sup> 比喻撮合男女双方不正当的性关系。  
 1. 【[拉纤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_qin.md#拉纤)】`la1 qin5` <sup>[兴化]</sup> 把纤绳放在背上拉。  
 1. 【[拉桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_qio.md#拉桥)】`la1 qio2` <sup>[如皋]</sup> 为船过闸桥而拆卸桥面并收取管理费的过程。  
@@ -67,15 +67,16 @@
 1. 【[漓鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_pieh_zz.md#漓鼻子)】`la2 pieh8 zz` <sup>[如皋]</sup> 流鼻涕。  
 1. 【[漓清水鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_qien_shuei_pieh.md#漓清水鼻子)】`la2 qien1 shuei3 pieh8 zz` <sup>[如皋]</sup> 滴水样鼻涕。  
 1. 【[漓肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_roh.md#漓肉)】`la2 roh8` <sup>[如东]</sup> 说人排出来的大便是肉，这是咒骂人的话。  
-1. 【[漓涎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_saen.md#漓涎)】`la2 saen2` <small>/la2 sẽ2/<sup>如皋</sup></small> ① 流口水。<sup>\[如东\]</sup> ② 不自觉地流出口水。<sup>\[如皋\]</sup>  
+1. 【[漓涎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_saen.md#漓涎)】`la2 saen2` <small>/la2 sẽ2/<sup>如皋</sup>, /lɑ2 ɕiɛ̃2/<sup>泰兴</sup></small> ① 流口水。<sup>\[如东\]</sup><sup>\[泰兴\]</sup> ② 不自觉地流出口水。<sup>\[如皋\]</sup>  
 1. 【[漓涎宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_saen_bo_r.md#漓涎宝<sub>儿</sub>)】`la2 saen2 bo3 r` <small>/la2 sẽ2 pɔ˞3/<sup>如皋</sup></small> ① 经常拉口水的小儿。<sup>\[如东\]</sup> ② 嘲笑用语。指经常不自觉地流出口水的人。<sup>\[如皋\]</sup>  
+1. 【[漓舌头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_shih_teu.md#漓舌头)】`la2 shih8 teu2` <small>/lɑ2 ɕiʔ8 tʰəɪ2/<sup>泰兴</sup></small> 吐舌头<sup>\[泰兴\]</sup>  
 1. 【[漓屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_shr.md#漓屎)】`la2 shr3` <small>/la2 sɿ3/<sup>如皋</sup></small> ① 排泄大便。比喻办事拖拉，不彻底。<sup>\[如东\]</sup> ② 大便。<sup>\[如皋\]</sup>  
 1. 【[漓屎宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_shr_bo_r.md#漓屎宝<sub>儿</sub>)】`la2 shr3 bo3 r` <sup>[如皋]</sup> 见“漓㞎佬儿”。  
 1. 【[漓屎蹦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_shr_bon.md#漓屎蹦)】`la2 shr3 bon5` <sup>[如东]</sup> 走路时两脚向外张开的姿势。  
 1. 【[漓屎猫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_shr_mo_r.md#漓屎猫<sub>儿</sub>)】`la2 shr3 mo2 r` <small>/la2 sɿ3 mɔ˞2/<sup>如皋</sup></small> ① 比喻邋遢。<sup>\[如东\]</sup> ② 做事不干净，不利索。<sup>\[如东\]</sup> ③ 大便多而稀的病猫儿。<sup>\[如皋\]</sup> ④ 指不整洁、形象猥琐的人。<sup>\[如皋\]</sup>  
 1. 【[漓屎猫<sub>儿</sub>形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_shr_mo_r.md#漓屎猫<sub>儿</sub>形)】`la2 shr3 mo2 r xien2` <sup>[如皋]</sup> 指不整洁、形象猥琐的样子。  
 1. 【[漓屎搨酱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_shr_taeh_jian.md#漓屎搨酱)】`la2 shr3 taeh7 jian5` <small>/la2 sɿ3 tʰeʔ7 t͡ɕiã5/<sup>如皋</sup></small> ① 形容事情做得不清爽，不整齐。<sup>\[如东\]</sup>：他俫弄的一块地，～的。<sup>\[如东\]</sup> ② 大便失禁，并且涂搨开来。<sup>\[如皋\]</sup>  
-1. 【[漓屎星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_shr_xien.md#漓屎星)】`la2 shr3 xien1` <small>/la2 sɿ3 ɕiəŋ1/<sup>如皋</sup></small> ① 流星。<sup>\[如东\]</sup> ② 流星。<sup>\[如皋\]</sup>  
+1. 【[漓屎星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_shr_xien.md#漓屎星)】`la2 shr3 xien1` <small>/la2 sɿ3 ɕiəŋ1/<sup>如皋</sup>, /lɑ2 sɿ3 ɕiŋ1/<sup>泰兴</sup></small> 流星。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
 1. 【[漓黄龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_van_lon.md#漓黄龙)】`la2 van2 lon2` <sup>[如皋]</sup> 流鼻涕。  
 1. 【[漓尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_xy.md#漓尿)】`la2 xy1` <small>/la2 ɕy1/<sup>如皋</sup></small> ① 尿床。<sup>\[如东\]</sup> ② 尿床，排尿失禁。<sup>\[如皋\]</sup>  
 1. 【[漓尿宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_xy_bo_r.md#漓尿宝<sub>儿</sub>)】`la2 xy1 bo3 r` <small>/la2 ɕy1 pɔ˞3/<sup>如皋</sup></small> ① 尿床的小孩。<sup>\[如东\]</sup> ② 嘲笑用语。指经常尿床的人，主要指小孩。<sup>\[如皋\]</sup> ③ 大蓑蛾的幼虫，藏在用叶、柄裹成的长椎形茧中，挂在树枝上。<sup>\[如皋\]</sup>  
@@ -87,9 +88,8 @@
 1. 【[哪百年子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_boh_nin_zz.md#哪百年子)】`la3 boh7 nin2 zz` <sup>[东台]</sup> 对时间太久的夸张说法：那是～的事，哪个记得？  
 1. 【[哪对过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_duei_gu.md#哪对过)】`la3 duei5 gu5` <sup>[如东]</sup> ① 什么地方：东西放吖～？ ② 什么地方的对面。  
 1. 【[哪家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ga.md#哪家)】`la3 ga` <sup>[兴化]</sup> 问谁人、谁家：这是～的规矩？｜这是～的小大爷？  
-1. 【[哪个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_gu.md#哪个)】`la3 gu` <sup>[泰县]</sup> 谁：他是～？  
 1. 【[哪个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_gu.md#哪个)】`la3 gu5, la3 gu5-3` 谁  
-1. 【[哪个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_gu.md#哪个)】`la3 gu5` <small>/la3 ko5/<sup>兴化</sup>, /la3 kʊ5/<sup>如皋</sup></small> ① 哪一个、谁。<sup>\[如皋\]</sup> ② 哪一个。<sup>\[如东\]</sup>：你说的是～？<sup>\[如东\]</sup> ③ 谁。<sup>\[如东\]</sup> ④ 问谁<sup>\[兴化\]</sup>：这是～说的？<sup>\[兴化\]</sup> ⑤ 虚指或任指<sup>\[兴化\]</sup>：到啊庄上，认不得～？<sup>\[兴化\]</sup>  
+1. 【[哪个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_gu.md#哪个)】`la3 gu5` <small>/la3 ko5/<sup>兴化</sup>, /la3 kʊ5/<sup>如皋</sup>, /lɑ3 kɤɯ/<sup>泰兴</sup>, /na3 ko/<sup>泰县</sup></small> 哪一个；谁<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup><sup>\[泰县\]</sup>：你说的是～？<sup>\[如东\]</sup>｜这是～说的？<sup>\[兴化\]</sup>｜到啊庄上，认不得～？<sup>\[兴化\]</sup>｜他是～？<sup>\[泰县\]</sup>  
 1. 【[哪个晓得啋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_gu_xio_deh.md#哪个晓得啋)】`la3 gu5 xio3 deh7 cae` <sup>[如皋]</sup> 叹息语，哪个知道会这样呢：他才在这许好好儿的，家去就死啊，～！  
 1. 【[哪下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ha.md#哪下)】`la3 ha5` <sup>[兴化]</sup> 疑问，相当于哪儿、哪里：这位先生是～的？他上～去啊？  
 1. 【[哪许](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_hae.md#哪许)】`la3 hae` <small>/na3 xe/<sup>泰县</sup></small> ① 什么地方，哪里。<sup>\[如东\]</sup> ② 哪里。<sup>\[如东\]</sup>：～有水？<sup>\[如东\]</sup> ③ 哪里、哪儿。也叫“哪块”。口语懒音la3 ae。<sup>\[东台\]</sup> ④ 哪里<sup>\[泰县\]</sup>：泰州在～？<sup>\[泰县\]</sup>  
@@ -111,7 +111,7 @@
 1. 【[哪境](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_jien.md#哪境)】`la3 jien` 哪边  
 1. 【[哪刻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_keh_r.md#哪刻<sub>儿</sub>)】`la3 keh9 r` <small>/la3 kʰə˞9/<sup>如皋</sup></small> ① 什么时候。<sup>\[如皋\]</sup> ② 什么时候。<sup>\[如东\]</sup>：我俫～动身？<sup>\[如东\]</sup>  
 1. 【[哪块](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_kuae.md#哪块)】`la3 kuae` <sup>[泰县]</sup> ① 哪里。 ② 不是：我～上他家去。  
-1. 【[哪块](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_kuae.md#哪块)】`la3 kuae5` <small>/la3 kʰuɛ5/<sup>兴化</sup></small> ① 什么地方，哪里。<sup>\[如东\]</sup> ② 哪里<sup>\[兴化\]</sup>：你家住啊～？<sup>\[兴化\]</sup>  
+1. 【[哪块](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_kuae.md#哪块)】`la3 kuae5` <small>/la3 kʰuɛ5/<sup>兴化</sup>, /lɑ3 kʰuɛ5/<sup>泰兴</sup></small> 什么地方，哪里。<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：你家住啊～？<sup>\[兴化\]</sup>  
 1. 【[哪块料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_kuae_lio.md#哪块料)】`la3 kuae5 lio6` <sup>[如东]</sup> 什么东西：不是～。  
 1. 【[哪麻亮<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ma_lian_r.md#哪麻亮<sub>儿</sub>)】`la3 ma2 lian6 r` <sup>[兴化]</sup> （南乡语）哪儿：你住啊～？  
 1. 【[哪码](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ma.md#哪码)】`la3 ma3` <sup>[泰县]</sup> 哪里：这事～通～。  
@@ -349,6 +349,7 @@
 1. 【[拦拦水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_laen_shuei.md#拦拦水)】`laen2 laen2 shuei3` <sup>[泰县]</sup> 初入学的小孩。  
 1. 【[拦水脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_shuei_jiah.md#拦水脚)】`laen2 shuei3 jiah7` <sup>[兴化]</sup> 送幼儿入园，防止他们在河湖边玩水：送他上学倒不是为识字，～罢啊。｜也说“关水脚”。  
 1. 【[拦头板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_teu_baen.md#拦头板)】`laen2 teu2 baen3` <sup>[兴化]</sup> （喻）阻拦、泼冷水：他想辞职下海经商，捱我一个～。  
+1. 【[拦头板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_teu_baen.md#拦头板)】`laen2 teu2 baen3` <small>/lɛ̃2 tʰəɪ2 pɛ̃3/<sup>泰兴</sup></small> 障碍。常跟“打”连用。如“打拦头板”，表示不同意。<sup>\[泰兴\]</sup>  
 1. 【[拦头板子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_teu_baen_zz.md#拦头板子)】`laen2 teu2 baen3 zz` <sup>[东台]</sup> 刚开始做某事就遭到反对：不要怪我打你的～，凭一冲之兴就能办这吖大的事啊？  
 1. 【[拦停](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_tien.md#拦停)】`laen2 tien2` <sup>[兴化]</sup> 别人发生争执，出面调解：他家邻里关系不好，夫妻吵架连个做～的人都没得。  
 1. 【[栏车<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_cha_r.md#栏车<sub>儿</sub>)】`laen2 cha1 r` <sup>[如皋]</sup> 毛竹制的育婴摇床。可睡、可坐、可装帐子，呈长方形。  
@@ -851,13 +852,14 @@
 1. 【[楼房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_fan.md#楼房)】`leu2 fan2` <sup>[如东]</sup> 两层以上的房屋。  
 1. 【[楼扶梯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_fv_ti_zz.md#楼扶梯子)】`leu2 fv2 ti1 zz` <sup>[兴化]</sup> 楼梯。  
 1. 【[蝼鸭<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_ngaeh_r.md#蝼鸭<sub>儿</sub>)】`leu2 ngaeh7 r` <sup>[如东]</sup> 蝼蛄科昆虫蝼蛄，也叫土狗儿。  
-1. 【[搂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu.md#搂)】`leu3` <small>/lɤ3/<sup>兴化</sup>, /lei3/<sup>如皋</sup>, /nɤɯ3/<sup>泰县</sup></small> ① 搅动<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[如皋\]</sup>：～浆糊<sup>\[兴化\]</sup>｜～焦糏。<sup>\[兴化\]</sup>｜䜺儿下啊锅，你弄筷ㄦ在锅里～啊子。<sup>\[泰州\]</sup>｜～糊粉。～浆糊。<sup>\[如皋\]</sup> ② 玩耍、顽皮、嬉闹<sup>\[如皋\]</sup><sup>\[如东\]</sup>：这伢儿～得汗冒冒的<sup>\[如皋\]</sup>｜这伢儿死～！<sup>\[如皋\]</sup> ③ 炒<sup>\[兴化\]</sup>：～豆子；～花生。<sup>\[兴化\]</sup> ④ 揭露、捅出<sup>\[兴化\]</sup>：吵啊吵的，把家里的丑事全～出去啊。<sup>\[兴化\]</sup> ⑤ 闹腾，使人不安宁<sup>\[如皋\]</sup><sup>\[泰州\]</sup><sup>\[泰州\]</sup>：这个丫头不讲理，～得公婆家鸡飞狗跳的。<sup>\[如皋\]</sup>｜在家里～啊不曾歇。<sup>\[泰州\]</sup>｜你不借钱把他，他有得同你～唻。<sup>\[泰州\]</sup>｜这个伢儿～啊一夜，大家都不曾睡得好。<sup>\[泰州\]</sup>  
+1. 【[搂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu.md#搂)】`leu3` <small>/lɤ3/<sup>兴化</sup>, /lei3/<sup>如皋</sup>, /ləɪ3/<sup>泰兴</sup>, /nɤɯ3/<sup>泰县</sup></small> ① 搅动<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：～浆糊<sup>\[兴化\]</sup>｜～焦糏。<sup>\[兴化\]</sup>｜䜺儿下啊锅，你弄筷ㄦ在锅里～啊子。<sup>\[泰州\]</sup>｜～糊粉。～浆糊。<sup>\[如皋\]</sup> ② 玩耍、顽皮、嬉闹<sup>\[如皋\]</sup><sup>\[如东\]</sup>：这伢儿～得汗冒冒的<sup>\[如皋\]</sup>｜这伢儿死～！<sup>\[如皋\]</sup> ③ 炒<sup>\[兴化\]</sup>：～豆子；～花生。<sup>\[兴化\]</sup> ④ 揭露、捅出<sup>\[兴化\]</sup>：吵啊吵的，把家里的丑事全～出去啊。<sup>\[兴化\]</sup> ⑤ 闹腾，使人不安宁<sup>\[如皋\]</sup><sup>\[泰州\]</sup><sup>\[泰州\]</sup>：这个丫头不讲理，～得公婆家鸡飞狗跳的。<sup>\[如皋\]</sup>｜在家里～啊不曾歇。<sup>\[泰州\]</sup>｜你不借钱把他，他有得同你～唻。<sup>\[泰州\]</sup>｜这个伢儿～啊一夜，大家都不曾睡得好。<sup>\[泰州\]</sup>  
 1. 【[搂啊浑吖汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_a_huen_nga.md#搂啊浑吖汤)】`leu3 a huen2 nga tan1` <sup>[东台]</sup> 形容被搅乱得一塌糊涂。  
 1. 【[搂陈屎缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_chen_shr_gan.md#搂陈屎缸)】`leu3 chen2 shr3 gan1` <small>/lɤ3 t͡sʰən2 sɿ3 kaŋ1/<sup>兴化</sup>, /lei3 t͡sʰəŋ2 sɿ3 kã1/<sup>如皋</sup></small> ① 揭短、揭事、揭老底。<sup>\[如皋\]</sup> ② （喻）互相揭短<sup>\[兴化\]</sup>：他俫两个人～把丑事全抖出来啊。<sup>\[兴化\]</sup>  
 1. 【[搂家窝子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_ga_u_zz.md#搂家窝子)】`leu3 ga1 u1 zz` <sup>[兴化]</sup> 内部的人互相争斗。  
 1. 【[搂鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_guei.md#搂鬼)】`leu3 guei3` <sup>[如东]</sup> 调皮捣蛋：你不要～。  
 1. 【[搂糊粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_hv_fen.md#搂糊粉)】`leu3 hv2 fen3` <sup>[东台]</sup> ［喻］搞得一塌糊涂。  
 1. 【[搂碌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_loh.md#搂碌)】`leu3 loh` <sup>[泰县]</sup> 儿童调皮。  
+1. 【[搂马棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_ma_pan.md#搂马棒)】`leu3 ma pan6` <small>/ləɪ3 mɑ pʰɑŋ1/<sup>泰兴</sup></small> 骂人语。谓人极不稳重。<sup>\[泰兴\]</sup>  
 1. 【[搂麻花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_ma_hua.md#搂麻花)】`leu3 ma2 hua1` <sup>[兴化]</sup> ① 炒玉米花。 ② （喻）形容人声嘈杂：覅吵覅吵！倒像～！  
 1. 【[搂莽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_man.md#搂莽)】`leu3 man3` 稍微，不仔细的  
 1. 【[搂莽一相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_man_ieh_xian.md#搂莽一相)】`leu3 man3 ieh7 xian5` 乍一看  

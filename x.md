@@ -719,6 +719,7 @@
 1. 【[相吖他（我）懒眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_nga_ta_laen.md#相吖他（我）懒眼)】`xian5 nga ta1 laen3 ngaen3` <sup>[如皋]</sup> 干瞪眼。此语有叹息的意思。  
 1. 【[相㗘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_pah.md#相㗘)】`xian5 pah7` <sup>[如皋]</sup> 眼看他人得益而自己无望，无可奈何。  
 1. 【[相嗙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_pan.md#相嗙)】`xian5 pan5` <sup>[如东]</sup> 看着别人说话，自己不能发言。比喻无权参与：现在只好～。  
+1. 【[相片](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_pin.md#相片)】`xian5 pin5` <small>/ɕiɑŋ5 pʰĩ5/<sup>泰兴</sup></small> 照片<sup>\[泰兴\]</sup>：拍～<sup>\[泰兴\]</sup>  
 1. 【[相奊头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_qia_teu_r.md#相奊头<sub>儿</sub>)】`xian5 qia1 teu2 r` <sup>[如皋]</sup> 头歪着看别人玩棋、牌。  
 1. 【[相笡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_qia.md#相笡)】`xian5 qia1` <sup>[东台]</sup> ① 同“相呆”。 ② ［引］白相，不作为。  
 1. 【[相笡头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_qia_teu_r.md#相笡头<sub>儿</sub>)】`xian5 qia1 teu2 r` <sup>[东台]</sup> 同“相笡”。  

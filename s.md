@@ -1550,7 +1550,8 @@
 1. 【[收水头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_shuei_teu.md#收水头)】`sheu1 shuei3 teu2` <sup>[兴化]</sup> 潮湿的东西经风吹日晒渐干：化纤衣裳一～就不要再晒啊。  
 1. 【[收摊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_taen_zz.md#收摊子)】`sheu1 taen1 zz` <sup>[东台]</sup> 指做结束工作。  
 1. 【[收汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_tan.md#收汤)】`sheu1 tan1` <sup>[如东]</sup> 煮饭时，经加温，锅里水分蒸发，大米饭变干，即将成熟，叫做收汤。比喻收场，结束：早点儿～。  
-1. 【[收头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_teu.md#收头)】`sheu1 teu2` <small>/sɤ1 tʰɤ2/<sup>兴化</sup>, /sei1 tʰei2/<sup>如皋</sup></small> ① 编织的最后工序。<sup>\[如皋\]</sup> ② 完结，完成。<sup>\[如东\]</sup>：这支网收啊头，你拿去吧。<sup>\[如东\]</sup> ③ 疮口愈合。<sup>\[如东\]</sup>：我大腿上的疮口已经收啊头。<sup>\[如东\]</sup> ④ 结毛线衣最后缝边。<sup>\[兴化\]</sup> ⑤ 创口愈合<sup>\[兴化\]</sup>：“你这疮怎么至今还没～？”（兴文《孙郎中吃鲫鱼》）<sup>\[兴化\]</sup>  
+1. 【[收头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_teu.md#收头)】`sheu1 teu` <small>/ɕiɤɯ1 tʰəɪ/<sup>泰兴</sup></small> ① 收纳、保管的能力、意愿、习惯<sup>\[泰兴\]</sup>：他没得～，杲子块块放<sup>\[泰兴\]</sup> ② （物品）收纳的必要性<sup>\[泰兴\]</sup>：箇些稿子有个甚的好～的啊<sup>\[泰兴\]</sup>  
+1. 【[收头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_teu.md#收头)】`sheu1 teu2` <small>/sɤ1 tʰɤ2/<sup>兴化</sup>, /sei1 tʰei2/<sup>如皋</sup></small> ① 编织的最后工序。<sup>\[如皋\]</sup> ② 完结，完成。<sup>\[如东\]</sup>：这支网收啊头，你拿去吧。<sup>\[如东\]</sup> ③ 结毛线衣最后缝边。<sup>\[兴化\]</sup> ④ 创口愈合<sup>\[兴化\]</sup><sup>\[如东\]</sup>：“你这疮怎么至今还没～？”（兴文《孙郎中吃鲫鱼》）<sup>\[兴化\]</sup>｜我大腿上的疮口已经收啊头。<sup>\[如东\]</sup>  
 1. 【[收头结大瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_teu_jih_da.md#收头结大瓜)】`sheu1 teu2 jih7 da6 gua1` <sup>[兴化]</sup> 结局：你现在做坏事，日后～看你怎吖弄相？  
 1. 【[收稻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_to.md#收稻)】`sheu1 to6` <sup>[如东]</sup> 稻子长熟了，开镰收割。  
 1. 【[收舵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_tu.md#收舵)】`sheu1 tu6` <sup>[如皋]</sup> 结束。  

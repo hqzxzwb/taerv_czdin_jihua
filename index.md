@@ -333,10 +333,10 @@
 1. 【[拉长麻线](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_chan_ma_xin.md#拉长麻线)】`la1 chan2 ma2 xin5` <sup>[如皋]</sup> 说话不能紧扣话题，扯得过远过长。  
 1. 【[拉大锯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_da_jy.md#拉大锯)】`la1 da6 jy5` <sup>[兴化]</sup> 两人一来一往地推拉着大锯解木头。  
 1. 【[拉大网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_da_van.md#拉大网)】`la1 da6 van3` <sup>[兴化]</sup> 一种捕鱼方法。  
-1. 【[拉倒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_do.md#拉倒)】`la1 do3` ① 算了。作罢。<sup>\[如东\]</sup><sup>\[东台\]</sup>：不来～。<sup>\[东台\]</sup> ② 罢了，表示“不再说了”<sup>\[泰州\]</sup>：你～把，不要在这块再吹唻，家去吃倒头饭去吧。<sup>\[泰州\]</sup> ③ 算了，表示“不再计较”<sup>\[泰州\]</sup>：给我个面子，这件事就～唻。<sup>\[泰州\]</sup> ④ 完蛋，表示“不再存在”<sup>\[泰州\]</sup>：照你这吖说，他读研究生的事情是～唻。<sup>\[泰州\]</sup>  
-1. 【[拉肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_dv_zz.md#拉肚子)】`la1 dv3 zz` <sup>[东台]</sup> 腹泻  
-1. 【[拉寡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_gua.md#拉寡)】`la1 gua` <small>/la1 kua/<sup>兴化</sup></small> ① 拉家常话。<sup>\[东台\]</sup> ② 谈家常<sup>\[兴化\]</sup>：……她乘空跑出来，想再去同左邻右舍～。（马春阳《访亲》）<sup>\[兴化\]</sup>  
-1. 【[拉瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_gua.md#拉瓜)】`la1 gua` <small>/la1 kua/<sup>兴化</sup>, /la1 kua/<sup>如皋</sup></small> ① 不整齐。（原文作“拉刮”，音不合）<sup>\[如东\]</sup>：身上的衣裳～啊，多难相吖。<sup>\[如东\]</sup> ② 不利索、不整饰<sup>\[如皋\]</sup>：张家嫲嫲儿～死啊，整天蓬头撒兮、拖鞋𨃚脚的，还到处跑。<sup>\[如皋\]</sup> ③ （形容词）不干净，凌乱，他不会收拾，蛮～的。<sup>\[东台\]</sup> ④ 不洁<sup>\[兴化\]</sup>：～邋遢。<sup>\[兴化\]</sup>  
+1. 【[拉倒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_do.md#拉倒)】`la1 do3` <small>/lɑ1 tɔ3/<sup>泰兴</sup></small> ① 算了。作罢。<sup>\[如东\]</sup><sup>\[东台\]</sup>\[泰兴：又音 lah8 do3\]：不来～。<sup>\[东台\]</sup> ② 罢了，表示“不再说了”<sup>\[泰州\]</sup>：你～把，不要在这块再吹唻，家去吃倒头饭去吧。<sup>\[泰州\]</sup> ③ 算了，表示“不再计较”<sup>\[泰州\]</sup>：给我个面子，这件事就～唻。<sup>\[泰州\]</sup> ④ 完蛋，表示“不再存在”<sup>\[泰州\]</sup>：照你这吖说，他读研究生的事情是～唻。<sup>\[泰州\]</sup>  
+1. 【[拉肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_dv_zz.md#拉肚子)】`la1 dv3 zz` 腹泻  
+1. 【[拉寡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_gua.md#拉寡)】`la1 gua` <small>/la1 kua/<sup>兴化</sup></small> 谈家常<sup>\[东台\]</sup><sup>\[兴化\]</sup>：……她乘空跑出来，想再去同左邻右舍～。（马春阳《访亲》）<sup>\[兴化\]</sup>  
+1. 【[拉瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_gua.md#拉瓜)】`la1 gua` <small>/la1 kua/<sup>兴化</sup>, /la1 kua/<sup>如皋</sup>, /lɑ1 kuɑ/<sup>泰兴</sup></small> ① 不整齐。（原文作“拉刮”，音不合）<sup>\[如东\]</sup>：身上的衣裳～啊，多难相吖。<sup>\[如东\]</sup> ② 不利索、不整饰<sup>\[如皋\]</sup>：张家嫲嫲儿～死啊，整天蓬头撒兮、拖鞋𨃚脚的，还到处跑。<sup>\[如皋\]</sup> ③ （形容词）不干净，凌乱，他不会收拾，蛮～的。<sup>\[东台\]</sup> ④ 不洁<sup>\[兴化\]</sup>：～邋遢。<sup>\[兴化\]</sup> ⑤ 不整洁；不整齐美观。<sup>\[泰兴\]</sup>  
 1. 【[拉瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_gua.md#拉瓜)】`la1 gua1` <sup>[兴化]</sup> 南瓜的种，果实圆筒形，结头稍晚，淀粉含量亦较高。  
 1. 【[拉寡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_gua.md#拉寡)】`la1 gua3` <small>/la1 kua3/<sup>如皋</sup></small> ① 闲谈。<sup>\[如东\]</sup> ② 闲扯，漫无目标地聊天，即便不相识也没关系。<sup>\[如皋\]</sup>  
 1. 【[拉和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_hu.md#拉和)】`la1 hu2` <sup>[泰州]</sup> 与因积怨而不相往来的交恶双方都很友好，并有一定影响的第三方出面，通过宴请之类形式，化解交恶双方积怨，恢复正常交往：这两个人原来话都不说，后来支书出来～，现在关系还算说得过去。  
@@ -346,6 +346,8 @@
 1. 【[拉拉<sub>儿</sub>亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_la_r_qien.md#拉拉<sub>儿</sub>亲)】`la1 la1 r qien1` <sup>[如东]</sup> 很远的亲戚，拉扯起来的亲属关系：说起来我俫还是～哎。  
 1. 【[拉拉<sub>儿</sub>搡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_la_r_san.md#拉拉<sub>儿</sub>搡)】`la1 la1 r san3` <sup>[如东]</sup> 办事马马虎虎，拖拖拉拉：他是个～，不能让他去做这件事。  
 1. 【[拉郎配](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_lan_pei.md#拉郎配)】`la1 lan2 pei5` <sup>[如东]</sup> 随便拉一个人来搭配。  
+1. 【[拉痢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_li.md#拉痢)】`la1 li6` <sup>[兴化]</sup> 屙痢疾，一种传染病。  
+1. 【[拉里拉瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_lii_la_gua.md#拉里拉瓜)】`la1 lii la1 gua1` <small>/na1 nɿ na1 kua1/<sup>泰县</sup></small> ① 同“拉瓜”。<sup>\[东台\]</sup> ② 穿着不整洁<sup>\[泰县\]</sup>：这个人穿衣裳有点儿～。<sup>\[泰县\]</sup>  
 [更多...](./l.md)
 ## M
 1. 【[呣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/m.md#呣)】`m` <small>/m/<sup>兴化</sup></small> ① （叹词）<sup>\[东台\]</sup> ② 表示应答、肯定<sup>\[东台\]</sup>：～，晓得咖，就这吖。<sup>\[东台\]</sup> ③ 表示疑问<sup>\[东台\]</sup>：～？甚的？<sup>\[东台\]</sup> ④ 表示警告<sup>\[东台\]</sup>：～！你敢！<sup>\[东台\]</sup> ⑤ 叹词，表答应。<sup>\[兴化\]</sup>  

@@ -854,6 +854,7 @@
 1. 【[抱草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_co.md#抱草)】`po6 co3` <sup>[东台]</sup> 搬运炊草（手工）至厨房，准备煮饭，亦称“捧草”。旧时茅草为生活的主要燃料。由于茅草不熬火，留下这样的民谣：烧锅如烧窑，～如跑报。  
 1. 【[抱粗腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_cv_ty.md#抱粗腿)】`po6 cv1 ty3` <sup>[泰州]</sup> 比喻巴结、攀附有钱有势的人：他正经本事没得，～的本事还是有的。  
 1. 【[抱佛脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_feh_jiah.md#抱佛脚)】`po6 feh8 jiah7` <sup>[如东]</sup> 抱住佛脚，祈求菩萨保佑：平时不复习，临时～。  
+1. 【[抱佛脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_feh_jiah.md#抱佛脚)】`po6 feh8 jiah7` <small>/pʰɔ1 fəʔ8 t͡ɕiɑʔ7/<sup>泰兴</sup></small> 称事先无准备而临时慌忙应付为抱佛脚。<sup>\[泰兴\]</sup>：平时不烧香，临时～<sup>\[泰兴\]</sup>  
 1. 【[抱角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_gah.md#抱角)】`po6 gah7` <sup>[兴化]</sup> 沿拐角的地方：沿着西墙向南，～左拐，便是胡家大院前门。（马春阳《翁婿同还乡》）  
 1. 【[抱腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_io.md#抱腰)】`po6 io1` <small>/pʰɔ6 iɔ1/<sup>兴化</sup>, /pʰɔ1 iɔ1/<sup>泰县</sup></small> ① 旧法接生，产妇坐者生产，身后有人搂着腰<sup>\[兴化\]</sup>：老娘也熟知各家的情况，哪个年长的女佣人可以当她的助手，当“～的”，不须临时现找。（汪曾祺《故里三陈》）<sup>\[兴化\]</sup> ② 做后盾<sup>\[兴化\]</sup>：有他～，你还怕甚的？<sup>\[兴化\]</sup> ③ 给产妇抱腰以助产：你老三老四做甚的，你还是我去～的唻！/老身为头是做媒，又会做牙婆，也会～，也会柜小的，也会说风情，也会做马泊六。（《水浒·24回》）<sup>\[泰县\]</sup> ④ 抱住产妇的腰以助产：你出生的时候，还是我去～的唻。<sup>\[泰县\]</sup>  
 1. 【[抱腰丹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_io_daen.md#抱腰丹)】`po6 io1 daen1` <sup>[如东]</sup> 一种恶性皮肤病，由丹毒链球菌侵入皮肤的小淋巴管引起腰部周围出现颗粒性红色斑点，奇痒难受。  
@@ -866,7 +867,7 @@
 1. 【[抱樯灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_qian_den.md#抱樯灯)】`po6 qian2 den1` <sup>[如东]</sup> 帆船挂在桅杆上的灯，叫做抱樯灯  
 1. 【[抱歉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_qin.md#抱歉)】`po6 qin5` <sup>[如东]</sup> 心中不安，觉得对不起别人。  
 1. 【[抱轿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_qio.md#抱轿)】`po6 qio6` 旧时女子出嫁，由其父亲或者弟兄抱上花轿并送上门，称为抱轿。坊间以为女儿出嫁之日，必须双足不沾家中的土离家，以免带走家中财气。<sup>\[泰州\]</sup>  
-1. 【[抱身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_shen.md#抱身)】`po6 shen1` <small>/pʰɔ6 sən1/<sup>兴化</sup>, /pʰɔ1 səŋ1/<sup>如皋</sup></small> （衣服）合身<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：这件毛线衣蛮～的。<sup>\[兴化\]</sup>｜衣裳～不～，你不试下子怎吖晓得吤？<sup>\[泰州\]</sup>  
+1. 【[抱身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_shen.md#抱身)】`po6 shen1` <small>/pʰɔ6 sən1/<sup>兴化</sup>, /pʰɔ1 səŋ1/<sup>如皋</sup>, /pʰɔ1 səŋ1/<sup>泰兴</sup></small> （衣服）合身<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：这件毛线衣蛮～的。<sup>\[兴化\]</sup>｜衣裳～不～，你不试下子怎吖晓得吤？<sup>\[泰州\]</sup>｜箇件衣裳只叫个～<sup>\[泰兴\]</sup>  
 1. 【[抱死理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_sz_li.md#抱死理)】`po6 sz3 li3` <sup>[兴化]</sup> 固执己见，认死理。  
 1. 【[抱弯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_vaen.md#抱弯)】`po6 vaen1` 沿着弯处前行<sup>\[泰州\]</sup>：从这块向南～转，十分钟就到。<sup>\[泰州\]</sup>  
 1. 【[抱小腰<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_xio_io_r.md#抱小腰<sub>儿</sub>)】`po6 xio3 io1 r` <sup>[如皋]</sup> 从背后抱住下腰部。比喻支持者、拥护者、保护者。  
@@ -884,14 +885,17 @@
 1. 【[扑匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_qian.md#扑匠)】`poh7 qian` <sup>[如东]</sup> 建造和修理扑屋的小手工业者。  
 1. 【[拍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh.md#拍)】`poh7` <sup>[泰州]</sup> 拍打：烧黄鱼，～两个蒜头放进去烧。  
 1. 【[拍巴掌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_ba_zhan.md#拍巴掌)】`poh7 ba1 zhan` <sup>[东台]</sup> 拍手。  
+1. 【[拍巴掌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_ba_zhan.md#拍巴掌)】`poh7 ba1 zhan` <small>/pʰɔʔ7 pɑ1 t͡sɑŋ/<sup>泰兴</sup></small> 鼓掌，拍手。<sup>\[泰兴\]</sup>  
 1. 【[拍镲<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_cha_r.md#拍镲<sub>儿</sub>)】`poh7 cha3 r` <sup>[东台]</sup> 钹，像铙，一种打击乐器，是两个形同凉帽的圆铜片，顶上穿绸条相对拍打发声。  
+1. 【[拍碌秃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_loh_toh.md#拍碌秃)】`poh7 loh toh` <small>/pʰɔʔ7 lɔʔ tʰɔʔ/<sup>泰兴</sup></small> 象声词。形容物体落地的声音。<sup>\[泰兴\]</sup>  
 1. 【[拍马屁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_ma_pi.md#拍马屁)】`poh7 ma3 pi` <sup>[泰州]</sup> 谄媚奉承、讨好别人：这家伙人品不好，成天跟吖领导后头～，当领导的没得哪个不喜欢他。  
 1. 【[拍马屁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_ma_pi.md#拍马屁)】`poh7 ma3 pi5` <sup>[东台]</sup> 谄媚奉承（多指对上级）。  
 1. 【[拍马三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_ma_saen.md#拍马三)】`poh7 ma3 saen1` <sup>[泰州]</sup> “拍马屁”的文雅说法。  
-1. 【[拍马山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_ma_shaen.md#拍马山)】`poh7 ma3 shaen1` <small>/pʰɔʔ7 ma3 sɛ̃1/<sup>兴化</sup></small> ① 同“拍马屁”。<sup>\[东台\]</sup> ② 即拍马屁。<sup>\[兴化\]</sup>  
+1. 【[拍马山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_ma_shaen.md#拍马山)】`poh7 ma3 shaen1` <small>/pʰɔʔ7 ma3 sɛ̃1/<sup>兴化</sup>, /pʰɔʔ7 mɑ3 ɕiɛ̃1/<sup>泰兴</sup></small> 拍马屁<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>  
 1. 【[拍屁股走路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_pi_gu_zeu.md#拍屁股走路)】`poh7 pi5 gu zeu3 lv6` <sup>[东台]</sup> 一走了之，什么责任都不负，或什么好处也不想要。  
+1. 【[拍手打脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_sheu_da_jiah.md#拍手打脚)】`poh7 sheu3 da3 jiah7` <small>/pʰɔʔ7 ɕiɤɯ3 tɑ3 t͡ɕiɑʔ7/<sup>泰兴</sup></small> 谓极为气愤、发怒泄愤的样子。<sup>\[泰兴\]</sup>  
 1. 【[拍手打掌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_sheu_da_zhan.md#拍手打掌)】`poh7 sheu3 da3 zhan3` <sup>[兴化]</sup> 形容激动的样子：他气得～的一顿骂。｜那厮闻言，走出草堂，～笑道“兄弟们，造化……”（《西游记》五六）  
-1. 【[拍双](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_shuan.md#拍双)】`poh7 shuan1` <small>/pʰɔʔ7 suaŋ1/<sup>兴化</sup>, /pʰɔʔ7 suã1/<sup>如皋</sup></small> ① 变成双倍<sup>\[如皋\]</sup>：原价5元，～就是10元。<sup>\[如皋\]</sup> ② 翻番、加倍。<sup>\[东台\]</sup> ③ 双倍<sup>\[兴化\]</sup>：这种小商品从义务进家来，按本钱～卖出去没问题。<sup>\[兴化\]</sup> ④ 两手相拍，指一倍<sup>\[泰州\]</sup>：他今年的收入，同三年前比，～都不止。<sup>\[泰州\]</sup>  
+1. 【[拍双](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_shuan.md#拍双)】`poh7 shuan1` <small>/pʰɔʔ7 suaŋ1/<sup>兴化</sup>, /pʰɔʔ7 suã1/<sup>如皋</sup>, /pʰɔʔ7 suɑŋ1/<sup>泰兴</sup></small> ① 变成双倍<sup>\[如皋\]</sup>：原价5元，～就是10元。<sup>\[如皋\]</sup> ② 翻番、加倍。<sup>\[东台\]</sup> ③ 双倍<sup>\[兴化\]</sup>：这种小商品从义务进家来，按本钱～卖出去没问题。<sup>\[兴化\]</sup> ④ 两手相拍，指一倍<sup>\[泰州\]</sup>：他今年的收入，同三年前比，～都不止。<sup>\[泰州\]</sup> ⑤ 双倍，两倍。<sup>\[泰兴\]</sup>：～转弯/比双倍还要多<sup>\[泰兴\]</sup>  
 1. 【[拍双转弯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_shuan_zhun_vaen.md#拍双转弯)】`poh7 shuan1 zhun3 vaen1` <small>/pʰɔʔ7 suaŋ1 t͡sũ3 uɛ̃1/<sup>兴化</sup></small> ① 双倍过头<sup>\[兴化\]</sup>：这东西进四个钱，卖十个钱，～。<sup>\[兴化\]</sup> ② 实际所走路程是原来计划路程一倍还拐了弯，指比原定计划数的一倍还要多<sup>\[泰州\]</sup>：你就不要再心黑吤，人家把你的工钱早已～，不好再跟人家要唻。<sup>\[泰州\]</sup>｜原来同你说咖好的，只弄三部车子把你，现在弄咖七部车子把你，已经～唻，你还不满足，就没得意思唻。<sup>\[泰州\]</sup>  
 1. 【[拍小照](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_xio_zho.md#拍小照)】`poh7 xio3 zho5` <sup>[东台]</sup> 照相，多指人的肖像。  
 1. 【[拍桌子打板凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_zhuah_zz_da.md#拍桌子打板凳)】`poh7 zhuah7 zz da3 baen3 den5` <small>/pʰɔʔ7 t͡suaʔ7 t͡sɿ ta3 pɛ̃3 tən5/<sup>兴化</sup>, /pʰɔʔ7 t͡suaʔ7 t͡sɿ ta3 pẽ3 təŋ5/<sup>如皋</sup></small> ① 情绪冲动时的情态<sup>\[兴化\]</sup>：（符老爷）说到那里，～的大骂……（《二十年目睹之怪现状》七四）<sup>\[兴化\]</sup>｜邓九公听了，乐得～的，连说“有理！”（《儿女英雄传》二十）<sup>\[兴化\]</sup> ② 盛怒时举止粗野的样子。<sup>\[如皋\]</sup>  
@@ -936,7 +940,7 @@
 1. 【[白鸪<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_gv_r.md#白鸪<sub>儿</sub>)】`poh8 gv1 r` <sup>[如东]</sup> 鸠鸽科动物斑鸠，体长约34厘米。  
 1. 【[白花败酱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_hua_pae_jian.md#白花败酱)】`poh8 hua1 pae6 jian5` <sup>[如东]</sup> 败酱科植物白花败酱，又名败酱，多年生草本。  
 1. 【[白话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_hua.md#白话)】`poh8 hua6` <sup>[如皋]</sup> ① 闲谈，聊天：说～。 ② 无作用的话。  
-1. 【[白谎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_huan.md#白谎)】`poh8 huan3` <small>/pʰɔʔ8 xuã3/<sup>如皋</sup></small> ① 当面对质，揭穿谎言。<sup>\[如皋\]</sup> ② 拆穿谎言。<sup>\[如东\]</sup>：我要当面～。也叫白是非。<sup>\[如东\]</sup>  
+1. 【[白谎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_huan.md#白谎)】`poh8 huan3` <small>/pʰɔʔ8 xuã3/<sup>如皋</sup>, /pʰɔʔ8 xuɑŋ3/<sup>泰兴</sup></small> ① 当面对质，揭穿谎言。<sup>\[如皋\]</sup> ② 拆穿谎言。<sup>\[如东\]</sup>：我要当面～。也叫白是非。<sup>\[如东\]</sup> ③ 揭开谎言。<sup>\[泰兴\]</sup>  
 1. 【[白虎星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_hv_xien.md#白虎星)】`poh8 hv3 xien1` <small>/pʰɔʔ8 fʋ3 ɕiŋ1/<sup>泰兴</sup></small> 特指迷信传说中的凶神，据说逢之不吉。<sup>\[泰兴\]</sup>：这个家伙真是白虎星下啊凡，什的坏事总做。<sup>\[泰兴\]</sup>  
 1. 【[白衣人士](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_i_ren_shr.md#白衣人士)】`poh8 i1 ren2 shr` <small>/pʰɔʔ8 ʝ1 ɻəŋ2 sɿ/<sup>泰兴</sup></small> 指平民百姓，亦指无功名无官职的士人。白衣，古代的平民服。<sup>\[泰兴\]</sup>：我是个～，不是干部。<sup>\[泰兴\]</sup>  
 1. 【[白胰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_i.md#白胰)】`poh8 i2` <sup>[如皋]</sup> 胰脏。  

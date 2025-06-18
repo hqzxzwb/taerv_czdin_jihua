@@ -2071,6 +2071,7 @@
 1. 【[壅窠<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_ku_r.md#壅窠<sub>儿</sub>)】`ion5 ku1 r` <sup>[如皋]</sup> 将婴儿放在摇篮中用被子包裹好。  
 1. 【[壅疄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_lien_zz.md#壅疄子)】`ion5 lien2 zz` <sup>[如皋]</sup> 给疄子壅土。  
 1. 【[壅吖被单肚里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_nga_pi_daen.md#壅吖被单肚里)】`ion5 nga pi6 daen1 tv6 lii` <sup>[如皋]</sup> 用被子把人包裹起来坐倚着。  
+1. 【[壅被子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_pi_zz.md#壅被子)】`ion5 pi6 zz` <small>/iɔŋ5 pʰʝ1 t͡sɿ/<sup>泰兴</sup></small> 用被子将身子围拥好以保暖。<sup>\[泰兴\]</sup>  
 1. 【[壅土](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_tv.md#壅土)】`ion5 tv3` <sup>[如东]</sup> 一种耕作方法，把泥土壅在植物根部，可以防止倒伏，促进生长。也叫培土。  
 1. 【[佣人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_ren.md#佣人)】`ion6 ren2` <sup>[如东]</sup> 保姆，旧时叫佣人。  
 1. 【[佣小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_xio.md#佣小)】`ion6 xio3` <sup>[如皋]</sup> ① 男佣之童工。 ② 讽刺话、自嘲话。  
