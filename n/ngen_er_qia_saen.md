@@ -1,5 +1,5 @@
 # □二邪三
-ngen2 er qia3 saen1
+ngen2 er qia2 saen1
 + 谓语气中含有反抗、不服的言词。
   * 泰兴方言辞典
 <!--
