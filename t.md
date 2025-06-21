@@ -44,6 +44,7 @@
 1. 【[抬杠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_gan.md#抬杠)】`tae2 gan5` <sup>[如东]</sup> 争辩。  
 1. 【[抬杠棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_gan_pan.md#抬杠棒)】`tae2 gan5 pan6` <sup>[如皋]</sup> 用杠棒搬运。  
 1. 【[抬杠子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_gan_zz.md#抬杠子)】`tae2 gan5 zz` <sup>[东台]</sup> ［喻］争执，争高低。  
+1. 【[抬棺材拾到钱，哭的哭笑的笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_gun_cae_sheh.md#抬棺材拾到钱，哭的哭笑的笑)】`tae2 gun1 cae sheh8 do qin2 koh7 dii koh7 xio5 dii xio5` <small>/tʰɛ2 kʊ̃1 t͡ɕʰiɛ səʔ8 tɔ t͡ɕʰĩ2 kʰɔʔ7 təɪ kʰɔʔ7 ɕiɔ5 təɪ ɕiɔ5/<sup>泰兴</sup></small> 乡谚。谓人群中有人欢乐有人愁苦。<sup>\[泰兴\]</sup>  
 1. 【[抬棺材拾银子——哭的哭、笑的笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_gun_cae_sheh.md#抬棺材拾银子——哭的哭、笑的笑)】`tae2 gun1 cae sheh8 ien2 zz koh7 dii koh7 xio5 dii xio5` <sup>[东台]</sup>   
 1. 【[抬颏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_hae.md#抬颏)】`tae2 hae6` <sup>[兴化]</sup> ① （借）好、有出息：这个小伙～，个钱总舍不得瞎用。 ② 称产品质量好，结实耐用：这种货价码虽大，可东西～㖸！ ③ 指女子作风正，不苟且：他家姑娘～，一点不瞎来。 ④ 抬颏一词源于金、元以来杂剧。《董西厢》二“穿一领绸杉……畅好台孩，举止无俗志。”《谢天香》一折“你觑他交椅上～样儿……”  
 1. 【[抬价](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_jia.md#抬价)】`tae2 jia5` <sup>[如东]</sup> 互相提高物价。  
@@ -53,7 +54,7 @@
 1. 【[抬眉皱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_mi_zheu.md#抬眉皱)】`tae2 mi2 zheu5` <sup>[兴化]</sup> 由于睁眼、拾眉，额上所起的皱纹：（王婆）毛六十岁的人了，脸上有了皱折子，有了～了。（《武松》二）也说“抬眉㾭”。  
 1. 【[抬判](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_pun.md#抬判)】`tae2 pun5` <sup>[兴化]</sup> 迎神赛会时的一种判官：……一种是～，两根杉篙，上面绑着一个特制的圈椅，由四个人抬着。圈椅上蹲着一个判官……做出各种带舞蹈性的动作……（汪曾祺《故里三陈》）  
 1. 【[抬起来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_qi_lae.md#抬起来)】`tae2 qi3 lae` <sup>[东台]</sup> 形容声音嘈杂：只听见外头～啊，不省（xien3）得出咖甚的事。  
-1. 【[抬石头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_sheh_teu.md#抬石头)】`tae2 sheh8 teu` ① ［喻］指公吃公摊或若干人一起请客<sup>\[东台\]</sup>：晚上我俫做块去～。<sup>\[东台\]</sup> ② 一种请客方式，众人凑钱共请一人吃饭，除了被请之人以外，众人分摊请客费用；改革开放之前，大家收入普遍不高，独自一人请客，负担不起，称“抬石头”取其“众人合力承担重物”之义。<sup>\[泰州\]</sup>  
+1. 【[抬石头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_sheh_teu.md#抬石头)】`tae2 sheh8 teu` <small>/tʰɛ2 səʔ8 tʰəɪ/<sup>泰兴</sup></small> ① ［喻］指公吃公摊或若干人一起请客<sup>\[东台\]</sup>：晚上我俫做块去～。<sup>\[东台\]</sup> ② 一种请客方式，众人凑钱共请一人吃饭，除了被请之人以外，众人分摊请客费用；改革开放之前，大家收入普遍不高，独自一人请客，负担不起，称“抬石头”取其“众人合力承担重物”之义。<sup>\[泰州\]</sup> ③ 原指两个以上的人一起分担重量。乡人喻大家凑份子招待客人（多用于应酬迎来送往）。<sup>\[泰兴\]</sup>  
 1. 【[抬手动脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_sheu_ton_jiah.md#抬手动脚)】`tae2 sheu3 ton6 jiah7` <sup>[兴化]</sup> 指人的一举一动：他这种人～都讨人嫌。｜“……你今日怕招没趣，久后弄到穷时，～，都是没趣里。”（《岐路灯》六十）  
 1. 【[抬头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_teu.md#抬头)】`tae2 teu2` <small>/tʰɛ2 tʰɤ2/<sup>兴化</sup></small> ① 这里指函件的上款或发票的客户名称<sup>\[东台\]</sup>：发票的～开哪许？<sup>\[东台\]</sup> ② 信件的上款。<sup>\[兴化\]</sup> ③ 开头，书信、公文等的上款。<sup>\[泰州\]</sup> ④ 发票上写购物人的地方。<sup>\[泰州\]</sup>  
 1. 【[抬头看人低头斫肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_teu_kun_ren.md#抬头看人低头斫肉)】`tae2 teu2 kun5 ren2 di1 teu2 zhah7 roh8` <sup>[东台]</sup> 以看人卖肉讽喻势利、不公平现象。  

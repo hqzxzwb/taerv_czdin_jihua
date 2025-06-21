@@ -997,16 +997,15 @@
 1. 【[占强](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_qian.md#占强)】`zhin5 qian2` <small>/t͡siɪ̃5 t͡ɕʰiaŋ2/<sup>兴化</sup>, /t͡sĩ5 t͡ɕʰiã2/<sup>如皋</sup>, /t͡ɕĩ5 t͡ɕʰiɑŋ2/<sup>泰兴</sup>, /t͡ɕiɪ̃5 t͡ɕʰiɑŋ2/<sup>泰县</sup></small> 好胜，好争上风，事事要多占好处<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[如东\]</sup><sup>\[泰州\]</sup>\[泰兴：在物质、情理等方面占取本不该拥有的部分。\]\[：她太占强吖lo，明打明的多啊二尺。\]：这个小伙～，比别人多吃多拿，还不让人说他。<sup>\[如皋\]</sup>｜这马马儿太～，没得人欢喜她。<sup>\[泰州\]</sup>  
 1. 【[占人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_ren.md#占人)】`zhin5 ren2` <small>/t͡ɕĩ5 ɻəŋ2/<sup>泰兴</sup></small> 喜欢占别人的小便宜，占取他人利益。<sup>\[泰兴\]</sup>：不问几时我不欢喜～。<sup>\[泰兴\]</sup>  
 1. 【[占身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhin_shen.md#占身)】`zhin5 shen1` <sup>[兴化]</sup> 靠近身体：他和人打架时不让人～。｜智深不等他～，右脚早起，腾的把李四先踢下粪窖里去。（《水浒传》七）  
-1. 【[招](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho.md#招)】`zho1` <small>/t͡sɔ1/<sup>兴化</sup>, /t͡sɔ1/<sup>如皋</sup></small> ① 招认、供认。<sup>\[如皋\]</sup> ② 掖，把被子或衣服的下部往里折叠<sup>\[兴化\]</sup>：把脚头被子～好。<sup>\[兴化\]</sup>｜把裤脚子～起一边来。<sup>\[兴化\]</sup> ③ 将被子边侧掖进身体下面<sup>\[泰州\]</sup>：晚上睏觉前，同伢儿把被单～～好。<sup>\[泰州\]</sup> ④ 将上衣下摆掖进裤子里<sup>\[泰州\]</sup>：你穿衣裳怎吖这吖马虎，连个衬衫都不曾～得好。<sup>\[泰州\]</sup>  
+1. 【[招](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho.md#招)】`zho1` <small>/t͡sɔ1/<sup>兴化</sup>, /t͡sɔ1/<sup>如皋</sup>, /t͡sɔ1/<sup>泰兴</sup></small> ① 招认、供认。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup> ② 掖，把被子或衣服的下部往里折叠<sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：把脚头被子～好。<sup>\[兴化\]</sup>｜把裤脚子～起一边来。<sup>\[兴化\]</sup>｜晚上睏觉前，同伢儿把被单～～好。<sup>\[泰州\]</sup>｜你穿衣裳怎吖这吖马虎，连个衬衫都不曾～得好。<sup>\[泰州\]</sup>  
 1. 【[招啊家里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_a_ga_lii.md#招啊家里)】`zho1 a ga1 lii` <sup>[如皋]</sup> 见“招女婿”。  
 1. 【[招边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_bin.md#招边)】`zho1 bin1` <sup>[兴化]</sup> 缝纫方法，把衣物的毛边折叠并缝起来。  
-1. 【[招报](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_bo.md#招报)】`zho1 bo` <sup>[东台]</sup> 混账话、不得体的话，得罪人的昏话、废话，或作嚼～：他嚼～的话你也听？  
-1. 【[招报](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_bo.md#招报)】`zho1 bo5` <small>/t͡sɔ1 pɔ5/<sup>兴化</sup>, /t͡sɔ1 pɔ5/<sup>如皋</sup>, /t͡sɔ1 pɔ5/<sup>泰县</sup></small> ① 指说无根据的话<sup>\[如皋\]</sup>：活～。<sup>\[如皋\]</sup> ② 对说话的贬义说法<sup>\[兴化\]</sup>：活～<sup>\[兴化\]</sup>｜别听他瞎～。<sup>\[兴化\]</sup> ③ 坦白、说出真情。<sup>\[泰县\]</sup> ④ 报应。<sup>\[泰县\]</sup>  
+1. 【[招报](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_bo.md#招报)】`zho1 bo5` <small>/t͡sɔ1 pɔ5/<sup>兴化</sup>, /t͡sɔ1 pɔ5/<sup>如皋</sup>, /t͡sɔ1 pɔ/<sup>泰兴</sup>, /t͡sɔ1 pɔ5/<sup>泰县</sup></small> ① 指说无根据的话<sup>\[如皋\]</sup>：活～。<sup>\[如皋\]</sup> ② 对说话的贬义说法<sup>\[兴化\]</sup>：活～<sup>\[兴化\]</sup>｜别听他瞎～。<sup>\[兴化\]</sup> ③ 坦白、说出真情。<sup>\[泰县\]</sup> ④ 报应。<sup>\[泰县\]</sup> ⑤ 胡说，瞎说。<sup>\[泰兴\]</sup>：他是活～的<sup>\[泰兴\]</sup> ⑥ 混账话、不得体的话，得罪人的昏话、废话，或作嚼～<sup>\[东台\]</sup>：他嚼～的话你也听？<sup>\[东台\]</sup>  
 1. 【[招财](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_cae.md#招财)】`zho1 cae` 舌头  
 1. 【[招财](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_cae.md#招财)】`zho1 cae2` <small>/t͡sɔ1 t͡sʰɛ2/<sup>如皋</sup></small> ① 猪舌。避折（与“舌”谐音）讳，改为吉语。<sup>\[如皋\]</sup> ② 舌头。<sup>\[如东\]</sup> ③ 用猪舌或牛舌加工的食物，也叫“口条”<sup>\[东台\]</sup>：上街去买点～，作为下酒菜。<sup>\[东台\]</sup>  
 1. 【[招财进宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_cae_jien_bo.md#招财进宝)】`zho1 cae2 jien5 bo3` <sup>[东台]</sup> 一种祈求发财的仪式。  
 1. 【[招耳刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_er_do.md#招耳刀)】`zho1 er3 do1` <sup>[泰县]</sup> 猪。  
-1. 【[招风耳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_fon_er.md#招风耳)】`zho1 fon1 er3` <small>/t͡sɔ1 foŋ1 ɚ3/<sup>兴化</sup></small> ① 耳朵外张的角度大，叫做招风耳。<sup>\[如东\]</sup> ② 指耳廓朝前的那种耳型。<sup>\[兴化\]</sup>  
+1. 【[招风耳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_fon_er.md#招风耳)】`zho1 fon1 er3` <small>/t͡sɔ1 foŋ1 ɚ3/<sup>兴化</sup>, /t͡sɔ1 fɔŋ1 ɚ3/<sup>泰兴</sup></small> ① 耳朵外张的角度大，叫做招风耳。<sup>\[如东\]</sup> ② 指耳廓朝前的那种耳型。<sup>\[兴化\]</sup> ③ 两耳张开略向前貌。<sup>\[泰兴\]</sup>  
 1. 【[招夫养子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_fv_ian_zz.md#招夫养子)】`zho1 fv1 ian3 zz` <sup>[兴化]</sup> 旧指妇女因夫死子幼，招后夫入门，共同持家抚孤。  
 1. 【[招夫养子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_fv_ian_zz.md#招夫养子)】`zho1 fv1 ian3 zz3` <sup>[如皋]</sup> 寡妇娶男人至家，帮助抚养孤子女。  
 1. 【[招魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_huen.md#招魂)】`zho1 huen2` <sup>[如东]</sup> 招回死者的灵魂，称招魂。渔民淹死海洋里后，家属举行招魂仪式。备一只雄鸡，一方豆腐，一只畚箕，一只铜锣，涨潮时，到海边敲锣，呼喊死者的小名，发现任何一物，即视为死者的灵魂，捞起来，放进畚箕中带回家，举行安葬。也称喊魂。  
@@ -1021,6 +1020,7 @@
 1. 【[招人命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_ren_mien.md#招人命)】`zho1 ren2 mien6` <sup>[兴化]</sup> ① 惹上了人命案。 ② （喻）因打闹争吵，引来多人围观：不好，倒像～吖，这就多少人啊！  
 1. 【[招数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_shv.md#招数)】`zho1 shv` <sup>[东台]</sup> 武术上的动作和计策。  
 1. 【[招待所](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_tae_su.md#招待所)】`zho1 tae6 su3` <sup>[如东]</sup> 机关、厂矿等所设接待宾客或所属单位来往人员住宿的处所。  
+1. 【[招灾惹祸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_zae_ra_hu.md#招灾惹祸)】`zho1 zae1 ra3 hu6` <small>/t͡sɔ1 t͡ɕiɛ1 ɻɑ3 xɤɯ1/<sup>泰兴</sup></small> 招引灾祸。<sup>\[泰兴\]</sup>  
 1. 【[招招<sub>儿</sub>帽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_zho_r_mo.md#招招<sub>儿</sub>帽)】`zho1 zho1 r mo6` <sup>[如东]</sup> 种有前沿的帽子。也叫鸭嘴帽。  
 1. 【[招子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_zz.md#招子)】`zho1 zz` <sup>[兴化]</sup> ① 挂在商店门前，写有招牌的舰子。 ② 插在死刑犯背后，写有犯由和姓名的狭长牌子。 ③ 脸的贬义说法：我看到他这副～就心烦。 ④ 眼睛：～不亮。  
 1. 【[朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho.md#朝)】`zho1` <sup>[兴化]</sup> ① 以往：～日家；～年家。 ② 量词，指以日计算的：一～；两～；三～。  
@@ -1300,6 +1300,7 @@
 1. 【[枝棒<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_pan_r.md#枝棒<sub>儿</sub>)】`zhr1 pan6 r` <sup>[如皋]</sup> 大而直的侧枝。  
 1. 【[枝盘汊港的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_pun_cha_gan.md#枝盘汊港的)】`zhr1 pun2 cha5 gan3 dii` <sup>[如皋]</sup> 水渍及斑迹的样子。  
 1. 【[枝窝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_u_r.md#枝窝<sub>儿</sub>)】`zhr1 u1 r` <sup>[如皋]</sup> 侧枝的根部。  
+1. 【[枝枝丫丫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_zhr_nga_nga.md#枝枝丫丫)】`zhr1 zhr1 nga1 nga1` <small>/t͡sɿ1 t͡sɿ1 ŋɑ1 ŋɑ1/<sup>泰兴</sup></small> 谓乱七八糟、凸凹不平的样子。<sup>\[泰兴\]</sup>  
 1. 【[栀子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_zz.md#栀子)】`zhr1 zz` <sup>[如东]</sup> 茜草科植物山栀，常绿灌木，高约2米。叶对生或三叶轮生，革质，长圆状披针形。花单生于枝端淡白色。果倒卵形，黄色。生长在路边或栽培。  
 1. 【[栀子花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_zz_hua.md#栀子花)】`zhr1 zz hua1` ① 茜草科植物山栀花。<sup>\[如东\]</sup> ② 为茜草目茜草科常绿灌木（多年生也成小乔木），夏季开白花，有浓香。<sup>\[东台\]</sup>  
 1. 【[知尔码尔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_er_ma_er.md#知尔码尔)】`zhr1 er ma3 er` <sup>[如东]</sup> 说话吞吞吐吐，办事拖拖拉拉：～的，甚的时侯能完成？  
@@ -1600,7 +1601,7 @@
 1. 【[准定](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuen_tien.md#准定)】`zhuen3 tien6` <sup>[如皋]</sup> 判定：他到这刻儿不家来，～又上人家耍子去啊。  
 1. 【[准信](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuen_xien.md#准信)】`zhuen3 xien5` <sup>[东台]</sup> 准确可靠的消息：下次同学聚会，请你提前把个～。  
 1. 【[准准的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuen_zhuen_dii.md#准准的)】`zhuen3 zhuen3 dii` <sup>[如皋]</sup> 比标准值略多。  
-1. 【[拙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuh.md#拙)】`zhuh7` <small>/t͡sʊʔ7/<sup>如皋</sup></small> ① 狭窄<sup>\[如皋\]</sup>：家里落地～，放不开手脚来。<sup>\[如皋\]</sup> ② 不聪明，不灵巧。<sup>\[如东\]</sup>：这点技术都学不会，真～。<sup>\[如东\]</sup>  
+1. 【[拙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuh.md#拙)】`zhuh7` <small>/t͡sʊʔ7/<sup>如皋</sup>, /t͡sʊʔ7/<sup>泰兴</sup></small> ① 狭窄<sup>\[如皋\]</sup>：家里落地～，放不开手脚来。<sup>\[如皋\]</sup> ② 不聪明，不灵巧。<sup>\[如东\]</sup>：这点技术都学不会，真～。<sup>\[如东\]</sup> ③ 笨拙、迟钝<sup>\[泰兴\]</sup>  
 1. 【[拙住啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuh_chv_a.md#拙住啊)】`zhuh7 chv6 a` <sup>[如皋]</sup> 不顺畅、受阻：几件事交叉在一起，互相～，一时难理顺。  
 1. 【[拙脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuh_jiah.md#拙脚)】`zhuh7 jiah7` <sup>[如东]</sup> 笨拙的方法：他俫的这种措施，交关～。  
 1. 【[拙嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuh_jy.md#拙嘴)】`zhuh7 jy3` <sup>[东台]</sup> 形容说的话无法实现：他常常教人讲卫生，这次自己在检查中却未过关，终于～了。  
@@ -1613,6 +1614,7 @@
 1. 【[拙丫头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuh_nga_teu.md#拙丫头)】`zhuh7 nga1 teu` <sup>[如东]</sup> ① 不聪明的女孩子。 ② 鲸鱼。  
 1. 【[拙婆娘张帐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuh_pu_nian_zhan.md#拙婆娘张帐子)】`zhuh7 pu2 nian2 zhan1 zhan5 zz` <sup>[如皋]</sup> ① 海豚座瓠瓜五星。 ② 喻不规则、不整齐，做事不道地。  
 1. 【[拙窍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuh_qio.md#拙窍)】`zhuh7 qio5` <sup>[如皋]</sup> 窍门：她下的面条就是好吃，不晓得甚的～！  
+1. 【[拙手拙脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuh_sheu_zhuh_jiah.md#拙手拙脚)】`zhuh7 sheu3 zhuh7 jiah7` <small>/t͡sʊʔ7 ɕiɤɯ3 t͡sʊʔ7 t͡ɕiɑʔ7/<sup>泰兴</sup></small> 犹言笨手笨脚。手脚极不灵便。<sup>\[泰兴\]</sup>  
 1. 【[专门<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_men_r.md#专门<sub>儿</sub>)】`zhun1 men2 r` <sup>[如东]</sup> 一心一意，专心致意：他是～做这些事情的。  
 1. 【[砖儿何厚，瓦儿何𣻏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_er_hu_heu.md#砖儿何厚，瓦儿何𣻏)】`zhun1 er hu2 heu6 va3 er hu2 xio1` <sup>[东台]</sup> ［喻］人情冷暖世态炎凉：他冷眼旁观周围一切，感慨地说｜“～，哪个还会帮哪个的忙？”  
 1. 【[砖盖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_gae.md#砖盖)】`zhun1 gae5` <sup>[如东]</sup> 场院用砖铺地，称砖盖。  

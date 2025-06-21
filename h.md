@@ -426,6 +426,7 @@
 1. 【[𩠾人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_ren_zz.md#𩠾人子)】`han1 ren zz` <sup>[如皋]</sup> 见“𩠾人”。  
 1. 【[吭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han.md#吭)】`han2` <sup>[如皋]</sup> 喘息：他跑啊急咖，热得只～气。  
 1. 【[吭气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_qi.md#吭气)】`han2 qi5` <small>/xã2 t͡ɕʰʝ5/<sup>如皋</sup></small> ① 见“吭”。<sup>\[如皋\]</sup> ② 喘气<sup>\[东台\]</sup>：他跑啊100米就～。<sup>\[东台\]</sup>  
+1. 【[杭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han.md#杭)】`han2` <small>/xɑŋ2/<sup>泰兴</sup></small> 承受、支撑\[泰兴：（泰兴方言辞典释“顶得住，能顶住”，不通。）\]：不要紧，箇个活计我～得住<sup>\[泰兴\]</sup>  
 1. 【[杭棉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_min.md#杭棉)】`han2 min2` <sup>[如皋]</sup> 原产于杭州的薄薄的棉絮：秋凉起来啊，伢儿要穿～衣裳｜～被单，2斤一条。  
 1. 【[绗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han.md#绗)】`han2` <small>/xã2/<sup>如皋</sup>, /xɑŋ2/<sup>泰县</sup></small> ① 大针脚连（针连针）<sup>\[如皋\]</sup>：～棉𧘸子、～被单。<sup>\[如皋\]</sup> ② 用针线连接面子、里子和里面棉花等<sup>\[东台\]</sup>：～被子；～棉袄。<sup>\[东台\]</sup> ③ 缝衣服的一种方法<sup>\[泰县\]</sup>：～棉𧘸子。<sup>\[泰县\]</sup> ④ 用线粗缝棉衣棉被之类，保持夹层棉絮稳定<sup>\[泰州\]</sup>：～被单。<sup>\[泰州\]</sup>  
 1. 【[绗被子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_pi_zz.md#绗被子)】`han2 pi6 zz` <sup>[如东]</sup> 用针线固定被面子和被里子。缝合时，针脚疏密相间，棉线大部分藏在夹层中间。  

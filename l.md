@@ -352,6 +352,7 @@
 1. 【[拦头板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_teu_baen.md#拦头板)】`laen2 teu2 baen3` <small>/lɛ̃2 tʰəɪ2 pɛ̃3/<sup>泰兴</sup></small> 障碍。常跟“打”连用。如“打拦头板”，表示不同意。<sup>\[泰兴\]</sup>  
 1. 【[拦头板子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_teu_baen_zz.md#拦头板子)】`laen2 teu2 baen3 zz` <sup>[东台]</sup> 刚开始做某事就遭到反对：不要怪我打你的～，凭一冲之兴就能办这吖大的事啊？  
 1. 【[拦停](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_tien.md#拦停)】`laen2 tien2` <sup>[兴化]</sup> 别人发生争执，出面调解：他家邻里关系不好，夫妻吵架连个做～的人都没得。  
+1. 【[栏车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_cha.md#栏车)】`laen2 cha1` <small>/lɛ̃2 t͡sʰɑ1/<sup>泰兴</sup></small> 昔时小孩坐的小木车，可推行。<sup>\[泰兴\]</sup>  
 1. 【[栏车<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_cha_r.md#栏车<sub>儿</sub>)】`laen2 cha1 r` <sup>[如皋]</sup> 毛竹制的育婴摇床。可睡、可坐、可装帐子，呈长方形。  
 1. 【[栏槽板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_co_baen.md#栏槽板)】`laen2 co2 baen3` <sup>[如东]</sup> 床头的横板，在围板下面。  
 1. 【[栏栊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_lon.md#栏栊)】`laen2 lon` <sup>[如东]</sup> 帆船船栏上部的木板。  

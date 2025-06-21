@@ -317,14 +317,17 @@
 1. 【[坯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#坯)】`pi1` <sup>[东台]</sup> ① 已做成形、未烧的砖瓦、陶器等：砖～。 ② 特指土坯：脱～。 ③ 泛指半制成品：～布。  
 1. 【[坯缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_gan.md#坯缸)】`pi1 gan1` <sup>[如皋]</sup> 一种有釉的广白缸，按大小分为头～、二～、三～。  
 1. 【[坯料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_lio.md#坯料)】`pi1 lio6` <small>/pʰi1 liɔ6/<sup>兴化</sup>, /pʰʝ1 liɔ1/<sup>如皋</sup>, /pʰəɪ1 liɔ1/<sup>泰兴</sup></small> ① 毛坯。<sup>\[兴化\]</sup> ② （引）人的本质、品格<sup>\[兴化\]</sup>：这个小子～太坏，赌输啊就偷。<sup>\[兴化\]</sup> ③ 贬指某人的品质<sup>\[如皋\]</sup>：～不好、下流～。<sup>\[如皋\]</sup> ④ （贬）人的基本素质、习性<sup>\[东台\]</sup>：要改掉惚～。<sup>\[东台\]</sup> ⑤ 有待进一步加工处理的材料。<sup>\[泰州\]</sup> ⑥ 人自幼生成的品行、习惯<sup>\[泰州\]</sup><sup>\[泰州\]</sup>：这小伙～不好，怕学习，教他念书像要他的命。<sup>\[泰州\]</sup>｜哪个像你这样子吃饭不扶住碗，这些～不好。<sup>\[泰州\]</sup> ⑦ 有待加工的半成品\[泰兴：有时作骂人语\]：箇个～<sup>\[泰兴\]</sup>  
-1. 【[批](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#批)】`pi1` <sup>[东台]</sup> 量词，用于大宗的货物或多数的人：一～灶种苗猪/一～大学生村官。  
+1. 【[批](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#批)】`pi1` <sup>[东台]</sup> 量词，用于大宗的货物或多数的人：一～灶种苗猪｜一～大学生村官。  
 1. 【[批削](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_xiah.md#批削)】`pi1 xiah7` <sup>[兴化]</sup> 反驳：不是我要～你，你这个话确实不对。  
+1. 【[披](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#披)】`pi1` <small>/pʰʝ1/<sup>泰兴</sup></small> 正房侧的简易小屋，又叫“揭披”。<sup>\[泰兴\]</sup>  
 1. 【[披啊股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_a_gv.md#披啊股)】`pi1 a gv3` <sup>[如皋]</sup> 线股敞开。  
 1. 【[披叶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_ih.md#披叶)】`pi1 ih` <sup>[东台]</sup> 覆在蔬菜最外面的叶子。  
 1. 【[披叶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_ih.md#披叶)】`pi1 ih8` <small>/pʰʝ1 iʔ8/<sup>如皋</sup></small> ① 本指蔬菜胚芽长成的叶片。现也指包在蔬菜外层的老叶，在剥除之列。<sup>\[如皋\]</sup> ② 青菜、芹菜之类蔬菜最先长出的位于外围的带柄叶片。<sup>\[泰州\]</sup>  
 1. 【[披肩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_jin.md#披肩)】`pi1 jin1` <sup>[东台]</sup> 妇女披在肩上的服饰。  
+1. 【[披肩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_jin.md#披肩)】`pi1 jin1` <small>/pʰʝ1 t͡ɕĩ1/<sup>泰兴</sup></small> 披在肩上的服饰。<sup>\[泰兴\]</sup>  
 1. 【[披麻戴孝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_ma_dae_xio.md#披麻戴孝)】`pi1 ma2 dae5 xio5` <sup>[如东]</sup> 父母死后，子女头戴白帽，帽后披着麻片，身穿白衣，腰扎稻草绳，脚穿白鞋，表示哀悼和敬爱，称披麻戴孝。  
 1. 【[披屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_oh.md#披屋)】`pi1 oh7` <sup>[兴化]</sup> 挨着正屋斜搭的小屋：“……如今我们又增造许多，装折许多材料，值得多了……”（《初刻》十五）。也说“披儿”。  
+1. 【[披屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_oh.md#披屋)】`pi1 oh7` <small>/pʰʝ1 ɔʔ7/<sup>泰兴</sup></small> 正屋旁依山墙所搭的小屋。<sup>\[泰兴\]</sup>  
 1. 【[披<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_r.md#披<sub>儿</sub>)】`pi1 r` <small>/pʰʝ˞1/<sup>如皋</sup>, /pʰɿ1 ɚ/<sup>泰县</sup></small> ① 简陋的小房子 ② 傍正屋搭建的、屋顶向一面斜的便房<sup>\[如皋\]</sup>：厨房～、元宝屋儿两搭～。<sup>\[如皋\]</sup> ③ 大屋外边搭建的小屋。<sup>\[如东\]</sup> ④ 在正规屋子边子搭建的简陋小屋。<sup>\[泰县\]</sup>  
 1. 【[披纱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_sha.md#披纱)】`pi1 sha1` <sup>[兴化]</sup> 汉字笔划，形状是“广”。也称“广字头”。  
 1. 【[披头散发](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_teu_saen_faeh.md#披头散发)】`pi1 teu2 saen5 faeh7` <sup>[如东]</sup> 头发散乱的样子。  
@@ -1224,12 +1227,13 @@
 1. 【[钹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh.md#钹)】`puh8` <sup>[兴化]</sup> 把多出部分去掉：这块木头凸咖在外头，拿锯子～掉。  
 1. 【[拚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun.md#拚)】`pun1` <sup>[泰州]</sup> “拌”（普官切 pun1）的俗字。舍弃（时间精力金钱甚至生命等去争斗）：～死｜他敢拆我的房子，我就同他～命。  
 1. 【[拚不得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_beh_deh.md#拚不得)】`pun1 beh deh7` <sup>[如皋]</sup> 舍不得：购物时嫌价高，不愿多花钱。  
+1. 【[拚不得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_beh_deh.md#拚不得)】`pun1 beh deh7` <small>/pʰʊ̃1 pəʔ təʔ7/<sup>泰兴</sup></small> 舍不得，吝啬。<sup>\[泰兴\]</sup>  
 1. 【[拚不起](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_beh_qi.md#拚不起)】`pun1 beh qi3` <sup>[如皋]</sup> 力量的能耐不能与人並比。  
 1. 【[拚不得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_beh_deh.md#拚不得)】`pun1 beh7 deh7` 舍不得  
 1. 【[拚得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_deh.md#拚得)】`pun1-paen6 deh` <sup>[兴化]</sup> 不惜一切地去做：～倾家荡产，跟他把这场官司打到底。｜你～死，我～埋！  
-1. 【[拚得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_deh.md#拚得)】`pun1 deh` <small>/pʰʊ̃1 təʔ/<sup>如皋</sup></small> ① 豁出去<sup>\[如皋\]</sup>：你～，我舍得。<sup>\[如皋\]</sup> ② 另见“确备”。<sup>\[如皋\]</sup> ③ 舍得。<sup>\[如东\]</sup>：花这吖多钱，他～。<sup>\[如东\]</sup>  
+1. 【[拚得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_deh.md#拚得)】`pun1 deh` <small>/pʰʊ̃1 təʔ/<sup>如皋</sup>, /pʰʊ̃1 təʔ/<sup>泰兴</sup></small> ① 豁出去<sup>\[如皋\]</sup>：你～，我舍得。<sup>\[如皋\]</sup> ② 另见“确备”。<sup>\[如皋\]</sup> ③ 舍得。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>：花这吖多钱，他～。<sup>\[如东\]</sup>  
 1. 【[拚得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_deh.md#拚得)】`pun1 deh7` <sup>[东台]</sup> 舍得：你舍得我～｜这小伙～做/这小伙干活肯卖力  
-1. 【[拚命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_mien.md#拚命)】`pun1 mien6` ① 不顾一切，哪怕搭上性命<sup>\[东台\]</sup>：今吖你不把东西交出来，我同你～。<sup>\[东台\]</sup> ② 豁出性命，不惜舍弃生命<sup>\[泰州\]</sup>：你只要碰吖她家孙子，她就同你～。<sup>\[泰州\]</sup> ③ 不顾生命。<sup>\[如东\]</sup>  
+1. 【[拚命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_mien.md#拚命)】`pun1 mien6` <small>/pʰʊ̃1 miŋ1/<sup>泰兴</sup></small> ① 不顾一切，哪怕搭上性命<sup>\[东台\]</sup>：今吖你不把东西交出来，我同你～。<sup>\[东台\]</sup> ② 豁出性命，不惜舍弃生命<sup>\[泰州\]</sup>：你只要碰吖她家孙子，她就同你～。<sup>\[泰州\]</sup> ③ 不顾生命。<sup>\[如东\]</sup> ④ 豁出性命，拼命。<sup>\[泰兴\]</sup>  
 1. 【[拚死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_sz.md#拚死)】`pun1 sz3` <small>/pʰɛ̃1 sɿ3/<sup>泰县</sup></small> 哪怕死也不顾。<sup>\[东台\]</sup><sup>\[泰县\]</sup>：～吃河豚。河豚营养价值高，但内脏与血液含毒素，如洗不干净，食后可危及生命。<sup>\[东台\]</sup>｜～吃河豚。<sup>\[泰县\]</sup>  
 1. 【[拚死吃河豚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_sz_qieh_hu.md#拚死吃河豚)】`pun1 sz3 qieh7 hu2 ten2` <small>/pʰɛ̃6 sɿ3 t͡ɕʰiəʔ7 xo2 tʰən2/<sup>兴化</sup>, /pʰʊ̃1 sɿ3 t͡ɕʰiəʔ7 xʊ2 təŋ1/<sup>如皋</sup>, /pʰõ1 sɿ3 t͡ɕʰiəʔ7 xo2 tʰəŋ2/<sup>泰县</sup></small> 为获得收益，甘冒风险<sup>\[泰县\]</sup>\[东台：冒着风险追求享受。\]\[如皋：决心强，不惜代价\]\[兴化：（喻）受利益驱动去冒险\]：他明知走私犯法，为啊赚大钱，～。<sup>\[兴化\]</sup>｜这次大家～，一定把厂办起来。<sup>\[如皋\]</sup>  
 1. 【[潘泾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_jien.md#潘泾)】`pun1 jien1` <sup>[如皋]</sup> 古水名，注入牟尼湖。久湮。时水侧有市，名～。后衍为搬经，今镇名。然读音仍为～。  

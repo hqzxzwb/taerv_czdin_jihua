@@ -352,8 +352,9 @@
 1. 【[班母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_mu.md#班母)】`baen1 mu3` <sup>[如皋]</sup> 木匠用木斗中墨线顶端的钩子。  
 1. 【[般配](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_pei.md#般配)】`baen1 pei5` <sup>[泰州]</sup> 品类对称，结亲双方各种条件相称：他俫这两个人谈对象，望望也不～啊。  
 1. 【[板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen.md#板)】`baen3` <small>/pɛ̃3/<sup>兴化</sup>, /pẽ3/<sup>如皋</sup></small> ① 古板、呆板：他的脾气～。<sup>\[如皋\]</sup> ② 硬、直：年纪大啊，腰发～；这种毯子蛮～气的。<sup>\[如皋\]</sup> ③ 僵持：互相～住啊，事情不好办。<sup>\[如皋\]</sup> ④ 作副词，意为一定：我估计他今朝～家来。<sup>\[兴化\]</sup>  
-1. 【[板板页页](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_baen_ih_ih.md#板板页页)】`baen3 baen3 ih8 ih8` <sup>[兴化]</sup> “板页”的生动形式。  
-1. 【[板板六十四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_baen_loh_sheh.md#板板六十四)】`baen3 baen3 loh8 sheh8 sz5` <small>/pɛ̃3 pɛ̃3 lɔʔ8 səʔ8 sɿ5/<sup>兴化</sup>, /pẽ3 pẽ3 lɔʔ8 səʔ8 sɿ5/<sup>如皋</sup></small> ① 不变通，不通融。<sup>\[如皋\]</sup> ② ［喻］刻板，不知变通<sup>\[东台\]</sup>：你这吖～的，哪个敢跟你来往？<sup>\[东台\]</sup> ③ 宋时铸钱每版六十四文，不得私增。借指做事不变通或不肯通融：他开口闭口讲“规定”，～的，一点也不体恤下情。‖也作“版版六十四”。<sup>\[兴化\]</sup> ④ 一个样，没有变化。如东词典讹作“板板六十三”<sup>\[如东\]</sup>：不要～。<sup>\[如东\]</sup>  
+1. 【[板板□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_baen_ih_ih.md#板板□□)】`baen3 baen3 ih7 ih7` <sup>[兴化]</sup> “板□”的生动形式。  
+1. 【[板板□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_baen_ih_ih.md#板板□□)】`baen3 baen3 ih7 ih7` <small>/pɛ̃3 pɛ̃3 iʔ7 iʔ7/<sup>泰兴</sup></small> 平平整整。<sup>\[泰兴\]</sup>  
+1. 【[板板六十四/版版六十四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_baen_loh_sheh.md#板板六十四/版版六十四)】`baen3 baen3 loh8 sheh8 sz5` <small>/pɛ̃3 pɛ̃3 lɔʔ8 səʔ8 sɿ5/<sup>兴化</sup>, /pẽ3 pẽ3 lɔʔ8 səʔ8 sɿ5/<sup>如皋</sup>, /pɛ̃3 pɛ̃3 lɔʔ8 səʔ8 sɿ5/<sup>泰兴</sup></small> ① 不变通，不通融。<sup>\[如皋\]</sup> ② ［喻］刻板，不知变通<sup>\[东台\]</sup>：你这吖～的，哪个敢跟你来往？<sup>\[东台\]</sup> ③ 宋时铸钱每版六十四文，不得私增。借指做事不变通或不肯通融<sup>\[兴化\]</sup>：他开口闭口讲“规定”，～的，一点也不体恤下情。<sup>\[兴化\]</sup> ④ 一个样，没有变化。如东词典讹作“板板六十三”<sup>\[如东\]</sup>：不要～。<sup>\[如东\]</sup> ⑤ 宋时官铸铜钱，每板六十四文，不得增减。后因此比喻人遇事刻板，不知变通。<sup>\[泰兴\]</sup>：箇个人一天到夜～的，不通人情。<sup>\[泰兴\]</sup>  
 1. 【[板不二价](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_beh_er_jia.md#板不二价)】`baen3 beh7 er6 jia5` <sup>[兴化]</sup> 商业用语，谓核定的价格，不能浮动：他家是金字招牌，～。  
 1. 【[板车<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_cha_r.md#板车<sub>儿</sub>)】`baen3 cha1 r` <sup>[如皋]</sup> 橡胶胎二轮平板车。  
 1. 【[板厂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_chan.md#板厂)】`baen3 chan3` <sup>[如东]</sup> ① 用木板或油布搭起来的临时帐篷。 ② 民间操办宴席时搭的酒宴棚。  
@@ -365,8 +366,8 @@
 1. 【[板㔶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_gun.md#板㔶)】`baen3 gun5` <sup>[如皋]</sup> 甑盖。两爿配对。  
 1. 【[板滑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_huaeh.md#板滑)】`baen3 huaeh8` <sup>[如皋]</sup> 平滑，无刺毛。  
 1. 【[板逸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_ieh.md#板逸)】`baen3 ieh` <sup>[东台]</sup> 平整，熨帖：这套衣裳穿吖在他身上蛮～的。  
-1. 【[板油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_ieu.md#板油)】`baen3 ieu2` <small>/pɛ̃3 iɤɯ2/<sup>泰县</sup></small> ① 生猪体腔内壁上呈板块状的脂肪。<sup>\[如东\]</sup> ② 猪的体腔内壁上呈板状的脂肪。也称板脂油。<sup>\[东台\]</sup> ③ ［喻］某人有学问，功底厚<sup>\[东台\]</sup>：李教授的～厚实！<sup>\[东台\]</sup> ④ 脂油。<sup>\[泰县\]</sup> ⑤ 猪体内的整块脂肪，板状，故名，是熬猪油的主要原料。<sup>\[泰州\]</sup> ⑥ 戏称人腹内的脂肪<sup>\[泰州\]</sup>：你肚肚里～厚，伙食差点儿没得事，掌得住熬。<sup>\[泰州\]</sup>｜你这吖胖，要经常喝点儿浓茶，打打～。<sup>\[泰州\]</sup>  
-1. 【[板页](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_ih.md#板页)】`baen3 ih8` <sup>[兴化]</sup> 平整而实在：书面子包得蛮～的。‖生动形式：“板板页页”。  
+1. 【[板油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_ieu.md#板油)】`baen3 ieu2` <small>/pɛ̃3 iɤɯ2/<sup>泰兴</sup>, /pɛ̃3 iɤɯ2/<sup>泰县</sup></small> ① 生猪体腔内壁上呈板块状的脂肪。<sup>\[如东\]</sup> ② 猪的体腔内壁上呈板状的脂肪。也称板脂油。<sup>\[东台\]</sup> ③ ［喻］某人有学问，功底厚<sup>\[东台\]</sup>：李教授的～厚实！<sup>\[东台\]</sup> ④ 脂油。<sup>\[泰县\]</sup> ⑤ 猪体内的整块脂肪，板状，故名，是熬猪油的主要原料。<sup>\[泰州\]</sup> ⑥ 戏称人腹内的脂肪<sup>\[泰州\]</sup>：你肚肚里～厚，伙食差点儿没得事，掌得住熬。<sup>\[泰州\]</sup>｜你这吖胖，要经常喝点儿浓茶，打打～。<sup>\[泰州\]</sup> ⑦ 猪体腔内壁上成片状的脂肪。<sup>\[泰兴\]</sup>  
+1. 【[板□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_ih.md#板□)】`baen3 ih7` <sup>[兴化]</sup> 平整而实在：书面子包得蛮～的。  
 1. 【[板摇不动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_io_beh_ton.md#板摇不动)】`baen3 io2 beh7 ton6` <sup>[如皋]</sup> 形容牢固。  
 1. 【[板结](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_jih.md#板结)】`baen3 jih7` <sup>[如东]</sup> 土壤中有机质少，下雨后，地面变硬，这种现象称板结。  
 1. 【[板笿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_lah.md#板笿)】`baen3 lah8` <sup>[东台]</sup> 用竹篾做的大菜篮子。  
@@ -381,7 +382,7 @@
 1. 【[板<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_r.md#板<sub>儿</sub>)】`baen3 r` <small>/pɛ̃3 ɚ/<sup>兴化</sup></small> ① ［引］意同“姘头”和“搭头”。<sup>\[东台\]</sup> ② 骂人的话：这个～太不听话！<sup>\[兴化\]</sup>  
 1. 【[板<sub>儿</sub>床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_r_chuan.md#板<sub>儿</sub>床)】`baen3 r chuan2` <sup>[兴化]</sup> 由长凳和木板搭成的床铺。  
 1. 【[板<sub>儿</sub>烟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_r_in.md#板<sub>儿</sub>烟)】`baen3 r in1` <sup>[如东]</sup> 压成块状的烟丝，一般放在水烟台儿上吸。也叫水烟。  
-1. 【[板<sub>儿</sub>门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_r_men.md#板<sub>儿</sub>门)】`baen3 r men2` <small>/pɛ̃3 ɚ mən2/<sup>兴化</sup>, /pe˞3 məŋ2/<sup>如皋</sup></small> ① 用木板钉鼻做成的简易门。<sup>\[如皋\]</sup> ② 用木板拼成的比较简陋的门：他家过去住的茅草屋，安的～。<sup>\[兴化\]</sup>  
+1. 【[板<sub>儿</sub>门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_r_men.md#板<sub>儿</sub>门)】`baen3 r men2` <small>/pɛ̃3 ɚ mən2/<sup>兴化</sup>, /pe˞3 məŋ2/<sup>如皋</sup>, /pɛ˞3 məŋ2/<sup>泰兴</sup></small> ① 用木板钉鼻做成的简易门。<sup>\[如皋\]</sup> ② 用木板拼成的比较简陋的门<sup>\[兴化\]</sup>：他家过去住的茅草屋，安的～<sup>\[兴化\]</sup> ③ 薄板做的门。<sup>\[泰兴\]</sup>  
 1. 【[板<sub>儿</sub>沙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_r_sha.md#板<sub>儿</sub>沙)】`baen3 r sha1` <sup>[如东]</sup> 硬结的沙滩。  
 1. 【[板<sub>儿</sub>土](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_r_tv.md#板<sub>儿</sub>土)】`baen3 r tv3` <sup>[如东]</sup> 土壤板结。  
 1. 【[板<sub>儿</sub>桌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_r_zhuah.md#板<sub>儿</sub>桌)】`baen3 r zhuah7` <sup>[兴化]</sup> 桌面没有边桄，而是由木板拼成的一种简陋的桌子。  
