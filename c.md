@@ -988,9 +988,8 @@
 1. 【[抽签](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_qin.md#抽签)】`cheu1 qin1` <sup>[泰州]</sup> ① 指人遇到事情犹豫不决，难下决策：你到底是去，还是不去，不要～。 ② 事物发展过程变化无常，始终没有结果：他本来答应帮忙的，后来说没得工夫，只好请老王，老王又说家里有事，你说哿～吖。  
 1. 【[抽穗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_qy.md#抽穗)】`cheu1 qy6` <sup>[如东]</sup> 麦子、玉米、高粱等农作物由叶鞘中长出穗头来。  
 1. 【[抽<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_r.md#抽<sub>儿</sub>)】`cheu1 r` 抽屉  
-1. 【[抽人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_ren.md#抽人)】`cheu1 ren` <sup>[如皋]</sup> 烟、气味薰人难受。  
+1. 【[抽人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_ren.md#抽人)】`cheu1 ren` <small>/t͡sʰei1 ɻəŋ/<sup>如皋</sup></small> 烟、气味熏人难受。<sup>\[如皋\]</sup><sup>\[如东\]</sup>：这股烟～哎。<sup>\[如东\]</sup>  
 1. 【[抽人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_ren_zz.md#抽人子)】`cheu1 ren zz` <sup>[如皋]</sup> 见“抽人”。  
-1. 【[抽人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_ren.md#抽人)】`cheu1 ren2` <sup>[如东]</sup> ① 打：他用鞭子～。 ② 特别的刺激：这股烟～哎。  
 1. 【[抽身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_shen.md#抽身)】`cheu1 shen1` <small>/t͡sʰei1 səŋ1/<sup>如皋</sup></small> ① 腾出空来。<sup>\[如东\]</sup>：再忙我也要～过来一趟。<sup>\[如东\]</sup> ② 死者人棺前，抽出胯下护葬布。也称抽布。<sup>\[如东\]</sup> ③ 殡验程序之一。下棺材前，抽出死者挎下护脏布（抽身布）。<sup>\[如皋\]</sup>  
 1. 【[抽头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_teu.md#抽头)】`cheu1 teu2` <small>/t͡ɕʰiɤɯ1 tʰəɪ2/<sup>泰兴</sup></small> 设局邀人聚赌，抽取头钱；商品交易或办事中的回扣。<sup>\[泰兴\]</sup>  
 1. 【[抽头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_teu_r.md#抽头<sub>儿</sub>)】`cheu1 teu2 r` <sup>[如皋]</sup> 打丝线的绕线工具，为木制四棱框架，串铁轴兼摇柄，安在“轴桩儿”上。  

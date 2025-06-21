@@ -41,8 +41,10 @@
 1. 【[撒野](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_ia.md#撒野)】`saeh7 ia3` <sup>[东台]</sup> 粗野；放肆；蛮不讲理。  
 1. 【[撒气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_qi.md#撒气)】`saeh7 qi5` 出气，发泄怒气<sup>\[如东\]</sup><sup>\[泰州\]</sup>：你不要拿伢儿～。<sup>\[如东\]</sup>｜你在单位上受啊气，家来就拿女将～。<sup>\[泰州\]</sup>  
 1. 【[撒撒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_saeh.md#撒撒)】`saeh7 saeh7` <sup>[泰县]</sup> ① 小雨很密：毛雨～。 ② 碎屑直往下掉：他吃脆饼儿～的。  
+1. 【[撒韶叨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_sho_do.md#撒韶叨)】`saeh7 sho2 do1` <sup>[泰州]</sup> 嘴里不停地啰唆，说些自以为是的话（泰州方言词典作“喢”）：你不要侭吖在这块～，捱他听见吖，你又不得了。｜这件事本来就怪你不好，领导只批评吖你两句，就算是客气的唻，你还喢甚的韶叨？  
 1. 【[撒乌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_v.md#撒乌)】`saeh7 v1` <sup>[如皋]</sup> 黄昏后天色渐暗。  
 1. 【[撒屑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_xiuh_zz.md#撒屑子)】`saeh7 xiuh7 zz` <sup>[泰县]</sup> 不直接说出自己的牢骚话。  
+1. 【[撒屑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_xiuh_zz.md#撒屑子)】`saeh7 xiuh7 zz` <sup>[泰州]</sup> 嘴里絮絮叨叨，不停地低声说不满的话。（泰州方言词典作“喢”）：你想说就声音大点儿，不要～哿好？｜你要是惹啊他，他有泡的在这块～唻。｜你有甚的意见当面提，不要弄吖在背后～。  
 1. 【[趿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh.md#趿)】`saeh7` <sup>[兴化]</sup> 把鞋帮的后部踩在脚跟下：鞋子～咖下。  
 1. 【[靸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_zz.md#靸子)】`saeh7 zz` <sup>[兴化]</sup> ① 木屐。 ② 拖鞋。  
 1. 【[𢶍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh.md#𢶍)】`saeh7` <small>/sæʔ7/<sup>兴化</sup></small> ① 把东西藏在身上。（东台词典写“扱”，《说文·手部》“扱，收也，从手，及声，楚洽切。”）<sup>\[东台\]</sup>：他把东西～咖腰里。<sup>\[东台\]</sup> ② 掖<sup>\[兴化\]</sup>：～裤子<sup>\[兴化\]</sup>｜～袍子角<sup>\[兴化\]</sup>｜～被头。<sup>\[兴化\]</sup>  
@@ -588,8 +590,6 @@
 1. 【[晒太阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_tae_ian.md#晒太阳)】`shae5 tae5 ian` <sup>[如东]</sup> 接受阳光曝晒。比喻互相把隐藏的丑话搬出来曝光。  
 1. 【[晒簟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_tin.md#晒簟)】`shae5 tin6` <sup>[如皋]</sup> 作晒具的巨型篾席，似凉席而大，长可数丈。旧时如皋西南乡多见。  
 1. 【[𩴇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae.md#𩴇)】`shae5` <sup>[如皋]</sup> 人的灵魂。  
-1. 【[喢韶叨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_sho_do.md#喢韶叨)】`shaeh7 sho2 do1` <sup>[泰州]</sup> 嘴里不停地啰唆，说些自以为是的话：你不要侭吖在这块～，捱他听见吖，你又不得了。｜这件事本来就怪你不好，领导只批评吖你两句，就算是客气的唻，你还喢甚的韶叨？  
-1. 【[喢屑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_xiuh_zz.md#喢屑子)】`shaeh7 xiuh7 zz` <sup>[泰州]</sup> 嘴里絮絮叨叨，不停地低声说不满的话：你想说就声音大点儿，不要～哿好？｜你要是惹啊他，他有泡的在这块～唻。｜你有甚的意见当面提，不要弄吖在背后～。  
 1. 【[杀剥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_bah.md#杀剥)】`shaeh7 bah7` <sup>[兴化]</sup> 农民耕作时斥牛的话：～的，快跑！  
 1. 【[杀场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_chan.md#杀场)】`shaeh7 chan2` <sup>[兴化]</sup> 旧时处决人犯的场所：王梁一见，开放城门，押着众犯出城，来至～。（《施公案》五四）  
 1. 【[杀得来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_deh_lae.md#杀得来)】`shaeh7 deh lae2` <small>/sæʔ7 təʔ lɛ2/<sup>兴化</sup>, /sæʔ7 təʔ ne2/<sup>泰县</sup></small> ① 旧指兵匪烧杀<sup>\[兴化\]</sup>：“由他去罢！等～再说……”（《广陵潮》二）<sup>\[兴化\]</sup> ② 斥责匆忙或不顾一切的人<sup>\[兴化\]</sup>：你乱冲乱闯的，～噁？<sup>\[兴化\]</sup>｜一斤虾儿几十块，～啊。<sup>\[兴化\]</sup> ③ 急匆匆、急促<sup>\[泰县\]</sup>：你像～的，撞到我身上吖。<sup>\[泰县\]</sup>  
@@ -1914,7 +1914,7 @@
 1. 【[绍兴戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_xien_xi.md#绍兴戏)】`sho2 xien1 xi5` <sup>[如皋]</sup> 越剧。  
 1. 【[绍语](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_y.md#绍语)】`sho2 y3` <small>/sɔ2 y3/<sup>兴化</sup>, /sɔ2 y3/<sup>如皋</sup></small> ① 哑语、肢体语言，表情语言。<sup>\[如皋\]</sup> ② 暗语。<sup>\[如东\]</sup>：他在下打～。<sup>\[如东\]</sup> ③ 暗语<sup>\[兴化\]</sup>：“……我向他竖了两个指头……他见我跟他打～，以为我出二两银子……”（《皮五辣子》一）<sup>\[兴化\]</sup>  
 1. 【[韶叨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_do.md#韶叨)】`sho2 do` <sup>[如东]</sup> 说话语无伦次：这个人有些～。  
-1. 【[韶叨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_do.md#韶叨)】`sho2 do1` <small>/sɔ2 tɔ1/<sup>兴化</sup>, /sɔ2 tɔ1/<sup>如皋</sup>, /sɔ2 tɔ1/<sup>泰县</sup></small> ① 杂事、麻烦事。<sup>\[如皋\]</sup> ② 麻烦<sup>\[兴化\]</sup>：他又在下惹～。<sup>\[兴化\]</sup> ③ 啰唆<sup>\[兴化\]</sup>：（陈木南）因怕董老太～，便说道<sup>\[兴化\]</sup>｜“……还是我自己去”。（《儒林外史》五四）<sup>\[兴化\]</sup> ④ 啰唆。<sup>\[泰县\]</sup>  
+1. 【[韶叨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_do.md#韶叨)】`sho2 do1` <small>/sɔ2 tɔ1/<sup>兴化</sup>, /sɔ2 tɔ1/<sup>如皋</sup>, /sɔ2 tɔ1/<sup>泰县</sup></small> ① 杂事、麻烦事。<sup>\[如皋\]</sup> ② 麻烦<sup>\[兴化\]</sup>：他又在下惹～。<sup>\[兴化\]</sup> ③ 啰唆<sup>\[兴化\]</sup>：（陈木南）因怕董老太～，便说道：“……还是我自己去”。（《儒林外史》五四）<sup>\[兴化\]</sup> ④ 啰唆。<sup>\[泰县\]</sup>  
 1. 【[韶里不叨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_lii_beh_do.md#韶里不叨)】`sho2 lii beh7 do1` <sup>[泰县]</sup> 啰唆。  
 1. 【[韶里韶叨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_lii_sho_do.md#韶里韶叨)】`sho2 lii sho2 do1` <sup>[泰县]</sup> 啰唆：她一天到晚～的。  
 1. 【[少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho.md#少)】`sho3` <small>/sɔ3/<sup>兴化</sup>, /sɔ3/<sup>泰兴</sup></small> ① 少，不多 ② 欠<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：～债<sup>\[兴化\]</sup>｜他～我五百块钱。<sup>\[兴化\]</sup>｜还～50块<sup>\[泰兴\]</sup> ③ 谓智力障碍者<sup>\[兴化\]</sup>：别看她大眼睛翻翻的，骨里有点～㖸！<sup>\[兴化\]</sup> ④ 不、别<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：～要动手，听一言……（《粉妆楼》二二）<sup>\[兴化\]</sup>｜～来箇一套<sup>\[泰兴\]</sup> ⑤ 遗失，丢失<sup>\[泰州\]</sup>：你摆啊家里的东西怎吖可能～，你再寻寻。<sup>\[泰州\]</sup>｜这个大门是夜里捱人撬开来的，你查啊看，～的是甚的东西？<sup>\[泰州\]</sup>  
