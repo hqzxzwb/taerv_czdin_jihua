@@ -453,7 +453,7 @@
 1. 【[摸摸影<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_mah_ien_r.md#摸摸影<sub>儿</sub>)】`mah8 mah8 ien3 r` <sup>[如东]</sup> 先去看一看，找一找：我去～。  
 1. 【[摸摸坛子肚里的把米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_mah_tun_zz.md#摸摸坛子肚里的把米)】`mah8 mah8 tun2 zz tv6 lii dii ba3 mi3` <sup>[如皋]</sup> 摸摸家底有多少。  
 1. 【[摸门搭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_men_daeh_zz.md#摸门搭子)】`mah8 men2 daeh7 zz` <small>/maʔ8 mən2 tæʔ7 t͡sɿ/<sup>兴化</sup>, /maʔ8 məŋ2 teʔ7 t͡sɿ/<sup>如皋</sup></small> ① 喻人不在家，门关着，造访未遇。<sup>\[如皋\]</sup> ② （借）室内无人或寻人不遇<sup>\[兴化\]</sup>：昨天去找老刘，结果是～。<sup>\[兴化\]</sup>  
-1. 【[摸门鎉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_men_daeh_zz.md#摸门鎉子)】`mah8 men2 daeh7 zz` <sup>[泰州]</sup> 敲门是摸到门鎉子，比喻登门拜访他人不遇：昨天下午我到你家去找你，弄吖个～，你上哪块去的啊？  
+1. 【[摸门搭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_men_daeh_zz.md#摸门搭子)】`mah8 men2 daeh7 zz` <sup>[泰州]</sup> 敲门是摸到门鎉子，比喻登门拜访他人不遇：昨天下午我到你家去找你，弄吖个～，你上哪块去的啊？  
 1. 【[摸门结子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_men_jih_zz.md#摸门结子)】`mah8 men2 jih7 zz` <sup>[如东]</sup> 大门关着，用绳结扣住，说明主人不在家：他～去啊。  
 1. 【[摸皮<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_pi_r.md#摸皮<sub>儿</sub>)】`mah8 pi2 r` <sup>[如皋]</sup> 薄利：这笔生意只能～。  
 1. 【[摸屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_pi_gu.md#摸屁股)】`mah8 pi5 gu` <sup>[兴化]</sup> 事后行为：人老早走啊，覅去～吧！｜肇事的老早逃走啊，这刻儿到现场～吧！  
@@ -858,7 +858,7 @@
 1. 【[门族](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_coh.md#门族)】`men2 coh8` <sup>[泰兴]</sup> 宗族，家族。  
 1. 【[门搭扣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_daeh_keu_r.md#门搭扣<sub>儿</sub>)】`men2 daeh7 keu1 r` <sup>[如皋]</sup> 见“门搭子”。  
 1. 【[门搭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_daeh_zz.md#门搭子)】`men2 daeh7 zz` <small>/məŋ2 teʔ7 t͡sɿ/<sup>如皋</sup></small> ① 钌铞儿。<sup>\[如皋\]</sup> ② 联结两扇木门的铁扣搭。<sup>\[东台\]</sup>  
-1. 【[门搭子/门鎉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_daeh_zz.md#门搭子/门鎉子)】`men2 daeh7 zz` <sup>[泰州]</sup> 门上供上锁的搭扣，旧时两扇房门上的铁制搭扣，面朝屋里一侧门上安装横向圆环，一侧门上安装一块顶部有长孔的条形扁铁和一块顶部有下弯钩的条形扁铁，屋里关门以后，有长孔的条形扁铁套入圆环之中，有下弯钩的条形扁铁钩入有长孔的条形扁铁外侧，这样外人就推不开门；面朝屋外一侧门上安装横向圆环，一侧门上安装一块顶部有长孔的条形扁铁，外出关门以后，有长孔的条形扁铁套入圆环之中，再挂上锁，门就无法打开。  
+1. 【[门搭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_daeh_zz.md#门搭子)】`men2 daeh7 zz` <sup>[泰州]</sup> 门上供上锁的搭扣，旧时两扇房门上的铁制搭扣，面朝屋里一侧门上安装横向圆环，一侧门上安装一块顶部有长孔的条形扁铁和一块顶部有下弯钩的条形扁铁，屋里关门以后，有长孔的条形扁铁套入圆环之中，有下弯钩的条形扁铁钩入有长孔的条形扁铁外侧，这样外人就推不开门；面朝屋外一侧门上安装横向圆环，一侧门上安装一块顶部有长孔的条形扁铁，外出关门以后，有长孔的条形扁铁套入圆环之中，再挂上锁，门就无法打开。  
 1. 【[门挡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_dan.md#门挡)】`men2 dan3` <sup>[兴化]</sup> 横插在门框两边铁环中的木棒：拿～挡门。  
 1. 【[门档头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_dan_teu.md#门档头)】`men2 dan5 teu` <sup>[如东]</sup> 门帮上下两头的横木条。  
 1. 【[门墩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_den.md#门墩)】`men2 den1` <sup>[如东]</sup> 门臼。  
