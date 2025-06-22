@@ -1054,7 +1054,7 @@
 1. 【[𦙶气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_qi.md#𦙶气)】`kv2 qi5` <sup>[东台]</sup> ① 气喘吁吁，呼吸急促，大口喘气的样子。 ② ［喻］指发泄不满情绪：他肚量大，受了委屈也不～。  
 1. 【[苦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv.md#苦)】`kv3` <small>/kʰu3/<sup>兴化</sup></small> ① 磨损太过<sup>\[兴化\]</sup>：他这双鞋子穿得太～啊。<sup>\[兴化\]</sup> ② 劳动强度大<sup>\[泰州\]</sup>：在厂里活技～，中上要吃八两米饭才够。<sup>\[泰州\]</sup> ③ 生活待遇差<sup>\[泰州\]</sup>：生活～，一个月也吃不到一回肉。<sup>\[泰州\]</sup> ④ 职业收入少<sup>\[泰州\]</sup>：这个单位～啊没得命，年底没得一分钱年终奖。<sup>\[泰州\]</sup>  
 1. 【[苦啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_a.md#苦啊)】`kv3 a` <sup>[如皋]</sup> 同“苦叨（幸好、幸亏、多亏、所幸）”  
-1. 【[苦巴㾭脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_ba_jieu_lin.md#苦巴㾭脸)】`kv3 ba jieu5 lin3` <small>/kʰu3 pa t͡ɕiɤ5 liɪ̃3/<sup>兴化</sup></small> ① 心里不痛快，脸上流露出苦恼的样子<sup>\[兴化\]</sup>：他成天～的，就像日子难过得凶哩！<sup>\[兴化\]</sup> ② 苦着脸，多指生活艰辛或者内心苦恼而无快乐表情的人<sup>\[泰州\]</sup>：不要成天～的，教人望吖心里不晓得说甚的好。<sup>\[泰州\]</sup>  
+1. 【[苦巴㾭脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_ba_jieu_lin.md#苦巴㾭脸)】`kv3 ba jieu5 lin3` <small>/kʰu3 pa t͡ɕiɤ5 liɪ̃3/<sup>兴化</sup>, /kʰu3 pɑ t͡ɕiɤɯ5 lĩ3/<sup>泰兴</sup></small> ① 心里不痛快，脸上流露出苦恼的样子<sup>\[兴化\]</sup>：他成天～的，就像日子难过得凶哩！<sup>\[兴化\]</sup> ② 苦着脸，多指生活艰辛或者内心苦恼而无快乐表情的人<sup>\[泰州\]</sup>：不要成天～的，教人望吖心里不晓得说甚的好。<sup>\[泰州\]</sup> ③ 显得十分痛苦的样子。<sup>\[泰兴\]</sup>  
 1. 【[苦巴㾭脸的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_ba_jieu_lin.md#苦巴㾭脸的)】`kv3 ba jieu5 lin3 dii` <sup>[如皋]</sup> ① 痛苦的表情。 ② 苦的脸型。  
 1. 【[苦菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_cae.md#苦菜)】`kv3 cae5` <sup>[如东]</sup> 菊科植物苦苣菜，一年至二年生草本。  
 1. 【[苦差事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_chae_shr.md#苦差事)】`kv3 chae1 shr6` <sup>[如东]</sup> 所领受的任务十分艰苦：这是一份～。  
@@ -1063,12 +1063,13 @@
 1. 【[苦害](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_hae.md#苦害)】`kv3 hae6` <sup>[兴化]</sup> 给别人带来痛苦和损害的人：三十几岁的人游手好闲，真是娘老子的～。  
 1. 【[苦咸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_haen.md#苦咸)】`kv3 haen2` <sup>[兴化]</sup> 过咸：这菜烧得～。｜“……叫你做口子汤，不是精淡，就是～……”（《金瓶梅词话》九四）  
 1. 【[苦话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_hua.md#苦话)】`kv3 hua6` <sup>[如皋]</sup> 陈说苦情的话。  
-1. 【[苦洇洇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_ien_ien.md#苦洇洇)】`kv3 ien1 ien1` ① 微苦。东台词典写“苦酓酓”。<sup>\[东台\]</sup> ② 淡淡苦味<sup>\[泰州\]</sup>：茶叶放吖多啊，喝咖嘴里～的。<sup>\[泰州\]</sup>  
+1. 【[苦洇洇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_ien_ien.md#苦洇洇)】`kv3 ien1 ien1` <small>/kʰu3 iŋ1 iŋ1/<sup>泰兴</sup></small> ① 微苦。东台词典写“苦酓酓”。<sup>\[东台\]</sup> ② 淡淡苦味<sup>\[泰州\]</sup>：茶叶放吖多啊，喝咖嘴里～的。<sup>\[泰州\]</sup> ③ 有苦味，苦涩之味。<sup>\[泰兴\]</sup>  
 1. 【[苦洇洇的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_ien_ien_dii.md#苦洇洇的)】`kv3 ien1 ien1 dii` <sup>[如皋]</sup> 有一点苦味。  
 1. 【[苦洇洇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_ien_ien.md#苦洇洇)】`kv3 ien5 ien` <sup>[泰县]</sup> 苦味较浓：这个药～的。  
 1. 【[苦叽叽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_ji_ji.md#苦叽叽)】`kv3 ji1 ji1` <small>/kʰu3 t͡ɕi1 t͡ɕi1/<sup>兴化</sup>, /kʰu3 t͡ɕʝ1 t͡ɕʝ1/<sup>如皋</sup></small> ① 有一点苦味。<sup>\[如皋\]</sup> ② 形容味苦<sup>\[兴化\]</sup>：黄花草吃咖在嘴里～的。<sup>\[兴化\]</sup> ③ 很苦<sup>\[泰州\]</sup>：你想病好，就不要嫌这个药～的。<sup>\[泰州\]</sup>  
 1. 【[苦蘻蘻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_ji_ji.md#苦蘻蘻)】`kv3 ji5 ji` <sup>[东台]</sup> 味道很苦。（《说文：艸部》“蘻，狗毒也。从艸，繫声。古诣切。”註：樊光云俗語苦如蘻。）  
 1. 【[苦酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_jieu.md#苦酒)】`kv3 jieu3` <sup>[如东]</sup> ① 酒的味道苦涩。 ② 比喻上人情：你又要吃～啦。 ③ 比喻无可奈何地吃亏：只好喝下这杯～。  
+1. 【[苦酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_jieu.md#苦酒)】`kv3 jieu3` <small>/kʰu3 t͡ɕiɤɯ3/<sup>泰兴</sup></small> 无菜而饮酒曰苦酒。<sup>\[泰兴\]</sup>  
 1. 【[苦娇𠆧<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_jio_nian_r.md#苦娇𠆧<sub>儿</sub>)】`kv3 jio nian2 r` <sup>[如皋]</sup> 日夜操劳十分辛苦的人。  
 1. 【[苦交易](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_jio_i.md#苦交易)】`kv3 jio1 i` <sup>[如皋]</sup> ① 商业交易，辛劳多赢利少。 ② 即“苦差事、苦缺”。  
 1. 【[苦苦哝哝的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_kv_non_non.md#苦苦哝哝的)】`kv3 kv non2 non2 dii` <sup>[如皋]</sup> 痛苦可怜的样子。  
@@ -1097,6 +1098,7 @@
 1. 【[苦形样子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_xien_ian_zz.md#苦形样子)】`kv3 xien2 ian6 zz` <sup>[东台]</sup> 愁苦的心情表现在脸上。  
 1. 【[苦主](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_zhv.md#苦主)】`kv3 zhv3` <sup>[如东]</sup> 被害人的家属。  
 1. 【[苦做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_zu.md#苦做)】`kv3 zu5` <sup>[兴化]</sup> 辛勤劳动，不怕吃苦：小吴家底子穷，一家一当全是两口子～挣起来的。  
+1. 【[苦做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_zu.md#苦做)】`kv3 zu5` <small>/kʰu3 t͡sɤɯ5/<sup>泰兴</sup></small> 辛苦劳作。<sup>\[泰兴\]</sup>  
 1. 【[库](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv.md#库)】`kv5` <sup>[如皋]</sup> 供烧化给死者的，用芦柴作架、纸糊的房屋、家具、衣物等的总称：化～、扎～。  
 1. 【[库匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_qian.md#库匠)】`kv5 qian6` <sup>[如东]</sup> 为死人制作纸屋、纸箱、纸衣的小手工业者。  
 1. 【[库箬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_rah.md#库箬)】`kv5 rah` <small>/kʰu5 ɻɑʔ/<sup>泰兴</sup></small> 包裹果实的植物叶片<sup>\[泰兴\]</sup>：玉米～<sup>\[泰兴\]</sup>  

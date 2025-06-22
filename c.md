@@ -732,9 +732,9 @@
 1. 【[掷骺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_heu_r.md#掷骺<sub>儿</sub>)】`cheh8 heu2 r` <sup>[泰州]</sup> 扔色子，掷骰子。  
 1. 【[掷六个六](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_loh_gu_loh.md#掷六个六)】`cheh8 loh8 gu loh8` <sup>[东台]</sup> 以打麻将掷散儿喻指争强好胜、总想占最大份额的心态。  
 1. 【[掷色<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_shr_r.md#掷色<sub>儿</sub>)】`cheh8 shr5 r` <sup>[如皋]</sup> 博戏之一。可为赌。又称抓色儿、摇色儿。  
-1. 【[直壁壁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_bieh_bieh.md#直壁壁)】`cheh8 bieh7 bieh7` <sup>[泰州]</sup> 站立非常直的样子：这些学生一个个～的站吖操场上。  
-1. 【[直笔笔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_bieh_bieh.md#直笔笔)】`cheh8 bieh7 bieh7` <small>/t͡sʰəʔ8 piɪʔ7 piɪʔ7/<sup>兴化</sup>, /t͡sʰəʔ8 piɪʔ7 piɪʔ7/<sup>泰县</sup></small> ① 即笔直<sup>\[东台\]</sup>：一个个站得～的。<sup>\[东台\]</sup> ② 形容很直<sup>\[兴化\]</sup>：老师一声“立正”，大家站得～的。<sup>\[兴化\]</sup>｜每块垅子上，两行蚕豆七行麦，～地……（马春阳《当家郎》）<sup>\[兴化\]</sup> ③ 笔直<sup>\[泰县\]</sup>：他～的站吖那块。<sup>\[泰县\]</sup>  
+1. 【[直笔笔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_bieh_bieh.md#直笔笔)】`cheh8 bieh7 bieh7` <small>/t͡sʰəʔ8 piɪʔ7 piɪʔ7/<sup>兴化</sup>, /t͡sʰəʔ8 piʔ7 piʔ7/<sup>泰兴</sup>, /t͡sʰəʔ8 piɪʔ7 piɪʔ7/<sup>泰县</sup></small> 笔直<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup><sup>\[泰州\]</sup>：一个个站得～的。<sup>\[东台\]</sup>｜老师一声“立正”，大家站得～的。<sup>\[兴化\]</sup>｜每块垅子上，两行蚕豆七行麦，～地……（马春阳《当家郎》）<sup>\[兴化\]</sup>｜他～的站吖那块。<sup>\[泰县\]</sup>｜桑树从小抈，到老～<sup>\[泰兴\]</sup>｜这些学生一个个～的站吖操场上。<sup>\[泰州\]</sup>  
 1. 【[直边子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_bin_zz.md#直边子)】`cheh8 bin1 zz` <sup>[如皋]</sup> 见“直沿子”。  
+1. 【[直北](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_boh.md#直北)】`cheh8 boh7` <small>/t͡sʰəʔ8 pɔʔ7/<sup>泰兴</sup></small> 正北。<sup>\[泰兴\]</sup>  
 1. 【[直肠子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_chan_zz.md#直肠子)】`cheh8 chan2 zz` <sup>[如东]</sup> 肠子直的，排泄大便快。比喻心直口快，肚子里存不住话。  
 1. 【[直戳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_chuah.md#直戳)】`cheh8 chuah7` <sup>[兴化]</sup> ① （引）直接：这些话你俫最好～，覅通过旁人去谈。 ② 直达：～地头，中途不停。  
 1. 【[直蹿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_cun.md#直蹿)】`cheh8 cun1` <sup>[泰州]</sup> 血泪之类体液从体内向外不停快速流淌：眼泪～｜自来水管子冻吖裂咖来啊，里头的水望外～。  
@@ -746,6 +746,7 @@
 1. 【[直大吼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_da_heu.md#直大吼)】`cheh8 da6 heu3` <sup>[泰州]</sup> 心中只要有所不满就直率大声说出而不顾及别人感受的人：这小伙是个～，他说过啊也就算吖，你不要放吖心上。  
 1. 【[直大口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_da_keu.md#直大口)】`cheh8 da6 keu3` <sup>[东台]</sup> 心直口快。又作直大吼：他是～，话说重吖大家别计较。  
 1. 【[直呆吼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_dae_heu.md#直呆吼)】`cheh8 dae1 heu3` <sup>[如皋]</sup> 过于爽直容易得罪人的人。  
+1. 【[直呆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_dae_zz.md#直呆子)】`cheh8 dae1 zz` <small>/t͡sʰəʔ8 tɛ1 t͡sɿ/<sup>泰兴</sup></small> 脾气爽直的人。<sup>\[泰兴\]</sup>  
 1. 【[直道其详](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_do_qi_qian.md#直道其详)】`cheh8 do3 qi2 qian2` <sup>[泰州]</sup> 直率照实说出其中详情：同你又不是外人，我就同你～的说。  
 1. 【[直勾勾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_geu_geu.md#直勾勾)】`cheh8 geu1 geu1` <sup>[兴化]</sup> 目光呆滞的样子：他两眼～的望吖大家，半天说不出话来。  
 1. 【[直吼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_heu.md#直吼)】`cheh8 heu3` <sup>[如东]</sup> 大声吼叫。  
@@ -769,7 +770,9 @@
 1. 【[直丝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_sz.md#直丝)】`cheh8 sz1` <sup>[如东]</sup> 树木的纵纹呈直条状，称直丝。  
 1. 【[直趟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_tan.md#直趟)】`cheh8 tan5` <sup>[如东]</sup> 很直：这根木料～哎。  
 1. 【[直头活计](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_teu_uh_ji.md#直头活计)】`cheh8 teu2 uh8 ji` <sup>[东台]</sup> 简单的、少动脑筋的活儿。  
-1. 【[直道其详](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_to_qi_qian.md#直道其详)】`cheh8 to6 qi2 qian2` <small>/t͡sʰəʔ8 tʰɔ6 t͡ɕʰi2 t͡ɕʰiaŋ2/<sup>兴化</sup></small> ① 直截了当地说明情况，表达意见。<sup>\[东台\]</sup> ② 有话直接说<sup>\[兴化\]</sup>：你有话～，不要拐弯抹角的。<sup>\[兴化\]</sup>  
+1. 【[直道其详](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_to_qi_qian.md#直道其详)】`cheh8 to6 qi2 qian2` <small>/t͡sʰəʔ8 tʰɔ6 t͡ɕʰi2 t͡ɕʰiaŋ2/<sup>兴化</sup>, /t͡sʰəʔ8 tʰɔ1 t͡ɕʰʝ2 t͡ɕʰiɑŋ2/<sup>泰兴</sup></small> ① 直截了当地说明情况，表达意见。<sup>\[东台\]</sup> ② 有话直接说<sup>\[兴化\]</sup>：你有话～，不要拐弯抹角的。<sup>\[兴化\]</sup> ③ 直接地讲述详细情况。不拐弯抹角，直接说出来。<sup>\[泰兴\]</sup>  
+1. 【[直筒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_ton_zz.md#直筒子)】`cheh8 ton3 zz` <small>/t͡sʰəʔ8 tʰɔŋ3 t͡sɿ/<sup>泰兴</sup></small> 谓脾气直爽。<sup>\[泰兴\]</sup>  
+1. 【[直肚肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_tv_chan.md#直肚肠)】`cheh8 tv6 chan` <small>/t͡sʰəʔ8 tʰu1 t͡sʰɑŋ/<sup>泰兴</sup></small> 形容人正直爽利。<sup>\[泰兴\]</sup>：他说话直爽，是个～<sup>\[泰兴\]</sup>  
 1. 【[嗔气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_qi.md#嗔气)】`chen1 qi5` <sup>[如皋]</sup> 生气、负气、赌气。  
 1. 【[撑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen.md#撑)】`chen1` <small>/t͡sʰən1/<sup>兴化</sup>, /t͡sʰəŋ1/<sup>泰县</sup></small> ① 站立。<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup>：没事朝门口一～，碍手碍脚的。<sup>\[兴化\]</sup>｜他～吖在那块。<sup>\[泰县\]</sup> ② 张开<sup>\[泰县\]</sup>：～伞。<sup>\[泰县\]</sup> ③ 填充过度饱满<sup>\[泰州\]</sup>：新皮鞋才穿都有点儿勒人，你穿个把星期～吖大啊就没事唻。<sup>\[泰州\]</sup> ④ 勉强坚持做某件事或者维持某种状态<sup>\[泰州\]</sup>：他这两天人发烧，还要～住啊去上班。<sup>\[泰州\]</sup>｜公司生意不好，顶多再撑半年估计就要关唻。<sup>\[泰州\]</sup>  
 1. 【[撑/𩠏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen.md#撑/𩠏)】`chen1` <small>/t͡sʰəŋ1/<sup>如皋</sup></small> ① 贪吃使胃胀起<sup>\[如皋\]</sup>：死～死胀、硬～。<sup>\[如皋\]</sup> ② 吃得过多<sup>\[泰州\]</sup>：他中上一顿～吖三大碗下去啊。<sup>\[泰州\]</sup> ③ 在已吃饱的情况下继续吃<sup>\[泰州\]</sup>：还剩啊这点儿饭，你把它～下去吧。<sup>\[泰州\]</sup>  
@@ -2343,16 +2346,17 @@
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz.md#□)】`cz5` <sup>[泰县]</sup> 透：你把菜炒～啊再盛起来。  
 1. 【[伺候](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_heu.md#伺候)】`cz5 heu` <small>/t͡sʰɿ5 xɤɯ/<sup>泰县</sup></small> ① 等待、准备。<sup>\[泰县\]</sup> ② 等待<sup>\[泰州\]</sup>：他现在小小年纪就小偷小摸的，你还在容他，将来你就～他坐牢吧。<sup>\[泰州\]</sup>｜你扣啊他的奖金，你就～他同你闹吧。<sup>\[泰州\]</sup> ③ 服侍，照料<sup>\[泰州\]</sup>：这种～人的交易我才不弄。<sup>\[泰州\]</sup>  
 1. 【[刺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz.md#刺)】`cz5` <sup>[如东]</sup> ① 用刀尖戳。 ② 扎在皮肤里的竹、木小棍或鱼骨，称刺。  
+1. 【[刺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz.md#刺)】`cz5` <small>/t͡sʰɿ5/<sup>泰兴</sup></small> 泛指尖利如针之物。<sup>\[泰兴\]</sup>  
 1. 【[刺戳戳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_chuah_chuah.md#刺戳戳)】`cz5 chuah7 chuah7` <sup>[东台]</sup> 一种受到刺激，又疼又痒、十分难受的感觉。  
 1. 【[刺刺戳戳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_cz_chuah_chuah.md#刺刺戳戳)】`cz5 cz5 chuah7 chuah7` <sup>[如皋]</sup> ① 一种似刺非刺、似疼非疼的不适感：刚理完发，有头发戗子，身上～的。 ② 人际间小矛盾不断：他俫之间～的。  
-1. 【[刺稭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_gae.md#刺稭)】`cz5 gae1` <small>/t͡sʰɿ5 kɛ1/<sup>如皋</sup></small> ① 一年生草本植物。有大蓟、小蓟两种。<sup>\[如东\]</sup> ② 小蓟。<sup>\[如皋\]</sup>  
+1. 【[刺稭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_gae.md#刺稭)】`cz5 gae1` <small>/t͡sʰɿ5 kɛ1/<sup>如皋</sup>, /t͡sʰɿ5 kɛ/<sup>泰兴</sup></small> ① 一年生草本植物。有大蓟、小蓟两种。<sup>\[如东\]</sup> ② 小蓟。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
 1. 【[刺窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_ku.md#刺窠)】`cz5 ku1` <sup>[东台]</sup> 一种皮肤病，脚掌或脚趾上的角质层增生而形成的圆硬块，样子像鸡的眼睛，所以又叫鸡眼。  
 1. 【[刺艾<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_ngae_r.md#刺艾<sub>儿</sub>)】`cz5 ngae6 r` <sup>[东台]</sup> 一种野草，学名小蓟，别名刺儿菜，叶边长刺，成熟后顶端开紫红色小花。野生于荒地、路旁、田间、河坡，常作猪草。  
 1. 【[刺挠/刺闹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_no.md#刺挠/刺闹)】`cz5 no` <sup>[泰州]</sup> 皮肤受汗水、麦芒、动物细毛刺激吙这蚊子跳蚤叮咬后产生的痛痒不舒服的感觉：忙吖一个下午，衣裳都湿咖透啊，我身上～煞咖。  
 1. 【[刺挠挠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_no_no.md#刺挠挠)】`cz5 no no1` <sup>[兴化]</sup> 因汗液或污垢刺激而产生的不适感：几天不洗澡，身上～的。  
 1. 【[刺<sub>儿</sub>菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_r_cae.md#刺<sub>儿</sub>菜)】`cz5 r cae5` <sup>[如皋]</sup> 小蓟。菊科。  
 1. 【[刺人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_ren.md#刺人)】`cz5 ren2` <sup>[如东]</sup> ① 物体刺激皮肤：玻璃片～的，要当心。 ② 受刺的感觉：浑身～。  
-1. 【[刺鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_y.md#刺鱼)】`cz5 y2` <small>/t͡sʰɿ5 y2/<sup>如皋</sup></small> 刺猬，哺乳纲，食虫目。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[泰州\]</sup>\[东台：也喻指某些喜欢挑事的好斗之人。\]  
+1. 【[刺鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_y.md#刺鱼)】`cz5 y2` <small>/t͡sʰɿ5 y2/<sup>如皋</sup>, /t͡sʰɿ5 y2/<sup>泰兴</sup></small> 刺猬，哺乳纲，食虫目。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>\[东台：也喻指某些喜欢挑事的好斗之人。\]  
 1. 【[次](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz.md#次)】`cz5` <sup>[如皋]</sup> 次序：不要乱，挨～儿的来。  
 1. 【[次把次](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_ba_cz.md#次把次)】`cz5 ba cz5` <sup>[兴化]</sup> 一两次或谓次数不多：（他）冬寒天也不过来照顾～，所以也不想要他的钱。（《皮五辣子》二）  
 1. 【[次<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_r.md#次<sub>儿</sub>)】`cz5 r` <sup>[如皋]</sup> 次序。  
@@ -2373,7 +2377,7 @@
 1. 【[字纸篓子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_zhr_leu_zz.md#字纸篓子)】`cz6 zhr3 leu3 zz` <sup>[泰州]</sup> 专门用来装字纸的篓子。  
 1. 【[寺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz.md#寺)】`cz6` <sup>[东台]</sup> ① 古代官署名：大理～。 ② 佛教庙宇：三昧～。  
 1. 【[寺院起火——庙灾（妙哉）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_iun_qi_hu.md#寺院起火——庙灾（妙哉）)】`cz6 iun6 qi3 hu3 mio6 zae1` <sup>[东台]</sup>   
-1. 【[巳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz.md#巳)】`cz6-sz6` <sup>[东台]</sup> 地支第六位。  
+1. 【[巳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz.md#巳)】`cz6` 地支第六位。  
 1. 【[牸牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_ngeu.md#牸牛)】`cz6 ngeu2` <small>/t͡sʰɿ6 ɤ2/<sup>兴化</sup>, /t͡sʰɿ1 ŋei2/<sup>如皋</sup></small> ① 壮年的母牛。<sup>\[如东\]</sup> ② 母水牛。<sup>\[如皋\]</sup> ③ 母牛。<sup>\[如皋\]</sup> ④ 雌牛。《广韵·志韵》疾置切，“牸，牝牛”。<sup>\[兴化\]</sup> ⑤ 阉割过的母水牛。<sup>\[泰州\]</sup>  
 1. 【[牸与牡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_y_mu.md#牸与牡)】`cz6 y3 mu3` <sup>[东台]</sup> 牸为母畜，牡为公畜。［喻］指事情的正反、输赢、好坏等不同情况。民间猜～通常是用一个物件的正面与反面随机定输赢。形容某人对某事说不出道道来也叫说不出个～。  
 1. 【[自不小心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_beh_xio_xien.md#自不小心)】`cz6 beh7 xio3 xien1` <sup>[兴化]</sup> 指自己不谨慎，没注意：“万家的家人，原是～，失去的盐斤，也还有限……”（《儒林外史》四三）｜谚曰～，挈带四邻。  

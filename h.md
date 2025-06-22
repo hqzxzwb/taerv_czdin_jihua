@@ -432,7 +432,7 @@
 1. 【[绗被子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_pi_zz.md#绗被子)】`han2 pi6 zz` <sup>[如东]</sup> 用针线固定被面子和被里子。缝合时，针脚疏密相间，棉线大部分藏在夹层中间。  
 1. 【[绗线](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_xin.md#绗线)】`han2 xin5` <sup>[如皋]</sup> 专用于缝的线，因被绗物不同而有别，常为稍粗的棉线或丝线。  
 1. 【[绗针](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_zhen.md#绗针)】`han2 zhen1` <sup>[如皋]</sup> 专用细长棉线针，专用于绗缝。  
-1. 【[行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han.md#行)】`han2` <small>/xaŋ2/<sup>兴化</sup></small> ① 指内行、谙行<sup>\[兴化\]</sup>：你对京剧倒蛮～的。<sup>\[兴化\]</sup> ② 量词，样<sup>\[兴化\]</sup>：你要的东西本店～～没得。<sup>\[兴化\]</sup> ③ 量词，种，样<sup>\[泰州\]</sup>：月饼、茶叶、绿豆糕、麻油这四～东西是送把太太的节礼。<sup>\[泰州\]</sup>｜家里就这几～东西，要是合适你就拿啊走。<sup>\[泰州\]</sup> ④ 流行，时尚<sup>\[泰州\]</sup>：你请人办事怎吖好不送礼，现在就～这一套。<sup>\[泰州\]</sup>｜听说现在又～甚的露脐装。<sup>\[泰州\]</sup>  
+1. 【[行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han.md#行)】`han2` <small>/xaŋ2/<sup>兴化</sup></small> ① 指内行、谙行<sup>\[兴化\]</sup>：你对京剧倒蛮～的。<sup>\[兴化\]</sup> ② 量词，种，样<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：你要的东西本店～～没得。<sup>\[兴化\]</sup>｜月饼、茶叶、绿豆糕、麻油这四～东西是送把太太的节礼。<sup>\[泰州\]</sup>｜家里就这几～东西，要是合适你就拿啊走。<sup>\[泰州\]</sup> ③ 流行，时尚<sup>\[泰州\]</sup>：你请人办事怎吖好不送礼，现在就～这一套。<sup>\[泰州\]</sup>｜听说现在又～甚的露脐装。<sup>\[泰州\]</sup>  
 1. 【[行车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_cha.md#行车)】`han2 cha1` <sup>[如东]</sup> 安装在厂房内或工场上，在规道上来回移动的起重机械。  
 1. 【[行车工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_cha_gon.md#行车工)】`han2 cha1 gon1` <sup>[如东]</sup> 工种的一种。以操纵行车为职业的工人。  
 1. 【[行草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_co.md#行草)】`han2 co3` <sup>[如皋]</sup> 草行卖的草。其种类是江海滩出产的红草、芦柴、茅草。别于普通柴禾。  
@@ -1459,6 +1459,7 @@
 1. 【[画押](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_ngaeh.md#画押)】`hua6 ngaeh7` <sup>[东台]</sup> ① 旧时官府要求当事人在供状上画“十字”。 ② 买卖双方在契约凭证上画“十字”，表示买卖成功。  
 1. 【[画匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_qian.md#画匠)】`hua6 qian6` <sup>[如东]</sup> 绘画的小手工业者。  
 1. 【[画签<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_qin_r.md#画签<sub>儿</sub>)】`hua6 qin1 r` <sup>[如皋]</sup> 木工画线用的竹笔。相传有三寸三分长，三分三厘宽，分三十三根齿。  
+1. 【[画<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_r.md#画<sub>儿</sub>)】`hua6 r` <small>/xuɑ˞1/<sup>泰兴</sup></small> 年画。乡人过年买图片挂于家中谓买画儿。<sup>\[泰兴\]</sup>  
 1. 【[画<sub>儿</sub>店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_r_din.md#画<sub>儿</sub>店)】`hua6 r din5` <sup>[如皋]</sup> 特指旧时手工刻版刷色印画儿的作坊兼店家；兼指裱画店、风筝店。  
 1. 【[画<sub>儿</sub>书](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_r_shv.md#画<sub>儿</sub>书)】`hua6 r shv1` <small>/xua6 ɚ su1/<sup>兴化</sup>, /xua˞1 su1/<sup>如皋</sup>, /xua1 ɚ su1/<sup>泰县</sup></small> ① 通常指连环画书，也指其他图画书。<sup>\[如皋\]</sup> ② 画报、连环画之类以图画为主的书。<sup>\[兴化\]</sup> ③ 连环画：这～有意思。<sup>\[泰县\]</sup>  
 1. 【[画蛇添足——多此一举](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_sha_tin_zoh.md#画蛇添足——多此一举)】`hua6 sha2 tin1 zoh7 du1 cz3 ieh7 jy3` <sup>[东台]</sup>   

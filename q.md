@@ -312,11 +312,13 @@
 1. 【[斜五斜六](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_v_qia_loh.md#斜五斜六)】`qia2 v3 qia2 loh8` <sup>[兴化]</sup> 指不三不四，痞子一样的人：谚曰：～，吃鱼吃肉｜皈皈真真，饿得狗哼。  
 1. 【[斜榫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_xyen.md#斜榫)】`qia2 xyen3` <sup>[如皋]</sup> 与“正榫”相对。如高凳脚用斜榫。  
 1. 【[斜砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_zhun.md#斜砖)】`qia2 zhun1` <sup>[如皋]</sup> 内山墙收顶时，斜着砌的砖，有紧固作用。  
+1. 【[茄饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_bien.md#茄饼)】`qia2 bien3` <small>/t͡ɕʰyɑ2 piŋ3/<sup>泰兴</sup></small> 以茄片夹馅作成的饼子。乡人常食之物。<sup>\[泰兴\]</sup>  
 1. 【[茄蒂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_di.md#茄蒂)】`qia2 di5` <sup>[如东]</sup> 茄科植物茄的蓿根。  
 1. 【[茄花色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_hua_seh.md#茄花色)】`qia2 hua1 seh7` <sup>[东台]</sup> 形容人的脸色发青发紫。  
 1. 【[茄<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_r.md#茄<sub>儿</sub>)】`qia2 r` 茄子  
 1. 【[茄<sub>儿</sub>饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_r_bien.md#茄<sub>儿</sub>饼)】`qia2 r bien3` <sup>[如皋]</sup> 茄子片夹馅蘸面浆，用少许油焵成的饼。  
 1. 【[茄<sub>儿</sub>瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_r_gua.md#茄<sub>儿</sub>瓜)】`qia2 r gua1` <sup>[如皋]</sup> 一种含水多的味淡的甜瓜。瓜体大，椭圆形，淡苹果绿色，有棱线。  
+1. 【[茄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_zz.md#茄子)】`qia2 zz` <small>/t͡ɕʰyɑ2 t͡sɿ/<sup>泰兴</sup></small> 茄子<sup>\[泰兴\]</sup>  
 1. 【[邪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia.md#邪)】`qia2` <small>/t͡ɕʰia2/<sup>兴化</sup>, /t͡ɕʰia2/<sup>如皋</sup>, /t͡ɕʰiɑ2/<sup>泰兴</sup>, /t͡ɕʰia2/<sup>泰县</sup></small> ① 形容人蛮不讲理：你覅（bae5）跟我～。/你别跟我不讲道理。｜那个人～唻。/那个人真不讲理。 ② 不讲理<sup>\[如皋\]</sup>：～儿头、你同他行～不行。<sup>\[如皋\]</sup> ③ 顽强；这伢儿～，受啊伤不哭。<sup>\[如皋\]</sup> ④ 鬼怪迷人<sup>\[如皋\]</sup>：中吖～。<sup>\[如皋\]</sup> ⑤ 横蛮不讲道理。<sup>\[如东\]</sup>：他非常～。<sup>\[如东\]</sup> ⑥ 蛮横不讲理：这个人太～，不上道子。<sup>\[泰县\]</sup> ⑦ 蛮横，霸道<sup>\[泰州\]</sup>：你～甚的东西，你后来的，就派排啊人家后头。<sup>\[泰州\]</sup>  
 1. 【[邪巴刳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_ba_kua.md#邪巴刳)】`qia2 ba kua2` <sup>[如皋]</sup> 强行索取、强制行动，或指这种人。  
 1. 【[邪八古东的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_baeh_gv_don.md#邪八古东的)】`qia2 baeh7 gv3 don1 dii` <sup>[如皋]</sup> 胡搞蛮缠地。  
@@ -1808,6 +1810,7 @@
 1. 【[取钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_qin.md#取钱)】`qy3 qin2` <sup>[如东]</sup> 拿钱。例如到银行去～。挣钱：下海～。  
 1. 【[取巧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_qio.md#取巧)】`qy3 qio3` <sup>[如东]</sup> ① 用巧妙的方法获得成功：做这件事要～ ② 用巧妙的手段谋取不正当的利益：投机～。  
 1. 【[取笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_xio.md#取笑)】`qy3 xio5` <sup>[如东]</sup> 开玩笑：不要～。嘲笑。  
+1. 【[取笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_xio.md#取笑)】`qy3 xio5` <small>/t͡sʰuəɪ3 ɕiɔ5/<sup>泰兴</sup></small> 耍笑；开玩笑。<sup>\[泰兴\]</sup>  
 1. 【[取鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_y.md#取鱼)】`qy3 y2` <small>/t͡ɕʰy3 y2/<sup>兴化</sup>, /t͡ɕʰy3 y2/<sup>如皋</sup></small> ① 捕鱼。谚语<sup>\[如皋\]</sup>：～不在早市；吃鱼没得～乐。<sup>\[如皋\]</sup> ② 捕鱼<sup>\[兴化\]</sup>：一天，有四个身材结实的渔夫，正在手持钢叉～。（兴文《康王报恩“四义阁”》）‖<sup>\[兴化\]</sup>｜谚曰：吃鱼不如～乐。<sup>\[兴化\]</sup>  
 1. 【[娶嫲嫲<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_ma_ma_r.md#娶嫲嫲<sub>儿</sub>)】`qy3 ma3 ma3 r` <sup>[如皋]</sup> 娶妻。  
 1. 【[娶马马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_ma_ma.md#娶马马)】`qy3 ma3 ma` <small>/t͡ɕʰy3 ma3 ma/<sup>兴化</sup></small> 娶妻<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：“我不能……叫土地老爷土地奶奶搬家，让房子给我～吧？”（《皮五辣子》一）<sup>\[兴化\]</sup>  

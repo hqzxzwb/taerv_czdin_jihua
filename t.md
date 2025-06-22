@@ -1461,6 +1461,7 @@
 1. 【[笤竹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_zhoh.md#笤竹)】`tio2 zhoh7` <sup>[兴化]</sup> 又称“扫竹”，用细竹枝扎成，有长柄，用于清扫场院或街道等。  
 1. 【[笤竹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_zhoh.md#笤竹)】`tio2 zhoh7-3` <sup>[泰县]</sup> 扫帚：要～扫地。  
 1. 【[苕苕<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_tio_r.md#苕苕<sub>儿</sub>)】`tio2 tio2 r` <sup>[如皋]</sup> 一种高杆的豆科作物，耐碱。种子可食，多作饲料。  
+1. 【[苕子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_zz.md#苕子)】`tio2 zz` <small>/tʰiɔ2 t͡sɿ/<sup>泰兴</sup></small> 豆科植物，指红花草、苜蓿。多用于沤制绿肥。<sup>\[泰兴\]</sup>  
 1. 【[调羹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_gen.md#调羹)】`tio2 gen1` <small>/tʰiɔ2 kəŋ1/<sup>泰兴</sup></small> 小的勺子<sup>\[泰兴\]</sup>  
 1. 【[调酵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_go.md#调酵)】`tio2 go5` <sup>[如东]</sup> 把酵母放人面粉加水调和，使之发酵，这种劳动过程叫做调酵。  
 1. 【[调教](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_jio.md#调教)】`tio2 jio5` <sup>[如东]</sup> 调理教导（儿童）。照料训练（牲畜）。  
@@ -1524,7 +1525,7 @@
 1. 【[铞<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_r.md#铞<sub>儿</sub>)】`tio6 r` <sup>[泰县]</sup> 水壶。  
 1. 【[铫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio.md#铫)】`tio6` <sup>[东台]</sup> 烧水或煎药用的器具：茶～｜药～｜水～。  
 1. 【[铫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_r.md#铫<sub>儿</sub>)】`tio6 r` <sup>[如皋]</sup> 烧茶水、煎中药等的器具，如“茶～”、“太平～”。  
-1. 【[铫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_zz.md#铫子)】`tio6 zz` <small>/tʰiɔ1 t͡se/<sup>泰县</sup></small> ① 烧水用的水壶：用～烧水。<sup>\[泰县\]</sup> ② 带提梁的茶壶状的煮水容器<sup>\[泰州\]</sup>：你把～的水传吖茶瓶里头去。<sup>\[泰州\]</sup>  
+1. 【[铫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_zz.md#铫子)】`tio6 zz` <small>/tʰiɔ1 t͡se/<sup>泰县</sup></small> 烧水器<sup>\[泰县\]</sup>\[泰州：带提梁的茶壶状的煮水容器\]：用～烧水。<sup>\[泰县\]</sup>｜你把～的水传吖茶瓶里头去。<sup>\[泰州\]</sup>  
 1. 【[叨光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_guan.md#叨光)】`to1 guan1` <sup>[东台]</sup> 见“叨扰”。  
 1. 【[叨教](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_jio.md#叨教)】`to1 jio` <sup>[如皋]</sup> 即“请教”。  
 1. 【[叨扰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_ro.md#叨扰)】`to1 ro3` <small>/tʰɔ1 ɻɔ3/<sup>如皋</sup></small> ① 谦词。对于款待表示歉意。<sup>\[如皋\]</sup> ② 客套话，承受别人的好处，表示感谢。有时说“叨光”。<sup>\[东台\]</sup>  

@@ -310,8 +310,10 @@
 1. 【[卖啊把你打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_a_ba_nii.md#卖啊把你打)】`mae6 a ba3 nii3 da3` <sup>[如皋]</sup> 耍无赖，凑上去挑衅。  
 1. 【[卖才](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_cae.md#卖才)】`mae6 cae2` <sup>[兴化]</sup> 炫耀自己的才华：你这少年人只不过是自作聪明，有意～。（《火烧赤壁》一）  
 1. 【[卖痴眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_chr_ngaen_r.md#卖痴眼<sub>儿</sub>)】`mae6 chr1 ngaen3 r` <small>/mɛ6 t͡sʰɿ1 ɛ̃3 ɚ/<sup>兴化</sup>, /me1 t͡sʰɿ1 ɛ̃3 ɚ/<sup>泰县</sup></small> ① 同“卖呆”。<sup>\[东台\]</sup> ② 漫无目的地东张西望。<sup>\[兴化\]</sup> ③ 无目的地看。<sup>\[泰县\]</sup>  
-1. 【[卖呆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_dae.md#卖呆)】`mae6 dae1` <small>/mɛ6 tɛ1/<sup>兴化</sup>, /mɛ1 tɛ1/<sup>如皋</sup>, /me1 te1/<sup>泰县</sup></small> ① 在街上闲逛。<sup>\[如东\]</sup> ② 无目的地东张西望。<sup>\[如东\]</sup>：他站吖在路上～。<sup>\[如东\]</sup> ③ 滞留观望。<sup>\[如皋\]</sup> ④ 痴迷地呆呆地观看。<sup>\[东台\]</sup> ⑤ 闲看，漫无目的地东张西望<sup>\[兴化\]</sup>：教你上街打油，你在外头～。<sup>\[兴化\]</sup> ⑥ 发愣<sup>\[兴化\]</sup>：“……卖什么呆，还不替我死过去！”（马春阳《帆布袋与皮包》）<sup>\[兴化\]</sup> ⑦ 无目的地东张西望<sup>\[泰县\]</sup>：在街上走路时不能～。<sup>\[泰县\]</sup> ⑧ 傻乎乎地东张西望<sup>\[泰州\]</sup>：不要～唻，快点儿走吧。<sup>\[泰州\]</sup>  
-1. 【[卖狗皮膏药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_geu_pi_go.md#卖狗皮膏药)】`mae6 geu3 pi2 go1 iah7` <sup>[东台]</sup> ［引］夸夸其谈，兜售自己的货色或鼓吹自己的谬论：你别在这块～，不信你那一套！  
+1. 【[卖呆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_dae.md#卖呆)】`mae6 dae1` <small>/mɛ6 tɛ1/<sup>兴化</sup>, /mɛ1 tɛ1/<sup>如皋</sup>, /mɛ1 tɛ1/<sup>泰兴</sup>, /me1 te1/<sup>泰县</sup></small> ① 在街上闲逛。<sup>\[如东\]</sup> ② 无目的地东张西望。<sup>\[如东\]</sup>：他站吖在路上～。<sup>\[如东\]</sup> ③ 滞留观望。<sup>\[如皋\]</sup> ④ 痴迷地呆呆地观看。<sup>\[东台\]</sup> ⑤ 闲看，漫无目的地东张西望<sup>\[兴化\]</sup>：教你上街打油，你在外头～。<sup>\[兴化\]</sup> ⑥ 发愣<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：“……卖什么呆，还不替我死过去！”（马春阳《帆布袋与皮包》）<sup>\[兴化\]</sup> ⑦ 无目的地东张西望<sup>\[泰县\]</sup>：在街上走路时不能～。<sup>\[泰县\]</sup> ⑧ 傻乎乎地东张西望<sup>\[泰州\]</sup>：不要～唻，快点儿走吧。<sup>\[泰州\]</sup> ⑨ 装傻<sup>\[泰兴\]</sup>  
+1. 【[卖狗皮膏药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_geu_pi_go.md#卖狗皮膏药)】`mae6 geu3 pi2 go1 iah` <sup>[东台]</sup> ［引］夸夸其谈，兜售自己的货色或鼓吹自己的谬论：你别在这块～，不信你那一套！  
+1. 【[卖狗皮膏药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_geu_pi_go.md#卖狗皮膏药)】`mae6 geu3 pi2 go1 iah` <small>/mɛ1 kəɪ3 pʰʝ2 kɔ1 iɑʔ/<sup>泰兴</sup></small> 旧指江湖郎中推销名不副实的膏药。后比喻说得好听，实际上吹牛，无实用价值的话语。<sup>\[泰兴\]</sup>  
+1. 【[卖过圈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_gu_qiun.md#卖过圈)】`mae6 gu1 qiun6` <small>/mɛ1 kɤɯ1 t͡ɕʰyʊ̃1/<sup>泰兴</sup></small> 卖掉已养成几十斤以上百斤以内的猪。<sup>\[泰兴\]</sup>  
 1. 【[卖瓜的不喊瓜苦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_gua_dii_beh.md#卖瓜的不喊瓜苦)】`mae6 gua1 dii beh7 haen5 gua1 kv3` <small>/mɛ1 kua1 tei pəʔ7 xẽ5 kua1 kʰu3/<sup>如皋</sup></small> ① 没有人说自己的东西不好。<sup>\[如皋\]</sup> ② 泛喻介绍自己的产品通常多说优点。<sup>\[东台\]</sup>  
 1. 【[卖乖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_guae.md#卖乖)】`mae6 guae1` ① 故意说好话，讨人喜欢。<sup>\[如东\]</sup>：小明在妈妈面前～。<sup>\[如东\]</sup> ② 装扮成非常聪明的样子。<sup>\[如东\]</sup> ③ 显示聪明乖觉<sup>\[泰州\]</sup>：他在领导跟前～的本事是头一等，不管哪个领导都喜欢他。<sup>\[泰州\]</sup>  
 1. 【[卖怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_guae.md#卖怪)】`mae6 guae5` <sup>[东台]</sup> 撒娇；假谦虚。  
@@ -326,6 +328,7 @@
 1. 【[卖老贤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_lo_xin.md#卖老贤)】`mae6 lo3 xin2` <small>/mɛ6 lɔ3 ɕiɪ̃2/<sup>兴化</sup>, /me1 nɔ3 ɕiɪ̃2/<sup>泰县</sup></small> ① 摆老资格<sup>\[兴化\]</sup>：他最喜欢在年轻人面前～。<sup>\[兴化\]</sup> ② 摆老资格。<sup>\[泰县\]</sup>  
 1. 【[卖弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_lon.md#卖弄)】`mae6 lon6` <sup>[东台]</sup> 有意炫耀：～小聪明。  
 1. 【[卖米不带升子——存心不量（良）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_mi_beh_dae.md#卖米不带升子——存心不量（良）)】`mae6 mi3 beh7 dae5 shen1 zz cuen2 xien1 beh7 lian2` <sup>[东台]</sup>   
+1. 【[卖米不带升子，存心不量（良）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_mi_beh_dae.md#卖米不带升子，存心不量（良）)】`mae6 mi3 beh7 dae5 shen1 zz cuen2 xien1 beh7 lian2` <small>/mɛ1 mʝ3 pəʔ7 tɛ5 səŋ1 t͡sɿ t͡sʰuəŋ2 ɕiŋ1 pəʔ7 liɑŋ2/<sup>泰兴</sup></small> 歇后语。谓人心肠坏，品质差。<sup>\[泰兴\]</sup>  
 1. 【[卖面子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_min_zz.md#卖面子)】`mae6 min6 zz` <small>/mɛ6 miɪ̃6 t͡sɿ/<sup>兴化</sup></small> ① 照顾情面而通融<sup>\[东台\]</sup>：这回他肯大驾光临是～啊。<sup>\[东台\]</sup> ② 照顾情面<sup>\[兴化\]</sup>：今朝他～，不曾过分为难。<sup>\[兴化\]</sup>  
 1. 【[卖牛肉的形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_ngeu_roh_dii.md#卖牛肉的形)】`mae6 ngeu2 roh8 dii xien2` <sup>[如皋]</sup> 见“牛肉脸”。  
 1. 【[卖讹<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_ngu_r.md#卖讹<sub>儿</sub>)】`mae6 ngu2 r` <sup>[如东]</sup> 进行诈骗：当心他～。  
@@ -333,6 +336,7 @@
 1. 【[卖瓢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_pio_r.md#卖瓢<sub>儿</sub>)】`mae6 pio2 r` <sup>[如东]</sup> 小孩将要啼哭的样子。  
 1. 【[卖情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_qien.md#卖情)】`mae6 qien2` <small>/mɛ6 t͡ɕʰin2/<sup>兴化</sup></small> ① 显示给人的好处，使人感激自己<sup>\[兴化\]</sup>：请他帮点儿忙，有得～哎！<sup>\[兴化\]</sup>｜新嫂嫂一边，魏翩仞还不时要去～……好叫新嫂嫂见好。<sup>\[兴化\]</sup> ② 显示自己对人有所帮助而使别人对自己心存感激<sup>\[泰州\]</sup>：你望他才帮吖点儿小忙，就过来同你～。<sup>\[泰州\]</sup>  
 1. 【[卖俏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_qio.md#卖俏)】`mae6 qio5` <sup>[东台]</sup> 装出妩媚姿态诱惑人。  
+1. 【[卖俏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_qio.md#卖俏)】`mae6 qio5` <small>/mɛ1 t͡ɕʰiɔ5/<sup>泰兴</sup></small> 装出娇媚姿态诱惑人。<sup>\[泰兴\]</sup>  
 1. 【[卖人情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_ren_qien.md#卖人情)】`mae6 ren2 qien2` <sup>[东台]</sup> 故意给人好处以讨好人。  
 1. 【[卖身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_shen.md#卖身)】`mae6 shen1` <sup>[东台]</sup> ① 出卖自己或亲人朋友。 ② 指卖淫。  
 1. 【[卖水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_shuei.md#卖水)】`mae6 shuei3` <sup>[兴化]</sup> 用假话糊弄人：你不要～，实际情形我全晓得。  
@@ -1344,7 +1348,7 @@
 1. 【[苗条/媌䠷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio_tio.md#苗条/媌䠷)】`mio2 tio2` <sup>[泰州]</sup> 女性身材细长，婀娜多姿。  
 1. 【[苗鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio_y.md#苗鱼)】`mio2 y2` <sup>[如东]</sup> 乌贼科动物乌贼鱼，又名墨鱼、苗鱼龟儿。  
 1. 【[苗猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio_zhv.md#苗猪)】`mio2 zhv1` <sup>[如东]</sup> 小仔猪。  
-1. 【[苗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio_zz.md#苗子)】`mio2 zz` <small>/miɔ2 t͡sɿ/<sup>兴化</sup>, /miɔ2 t͡sɿ/<sup>如皋</sup>, /miɔ2 t͡sɿ/<sup>泰兴</sup></small> ① 指高粱、芦穄结穗的秆子。<sup>\[如东\]</sup>：芦穄～。<sup>\[如东\]</sup> ② 培养的对象。<sup>\[如东\]</sup> ③ 专指高粱、芦穄的最上段，脱粒后用作扎条帚、把儿及劈篾做工艺品。<sup>\[如皋\]</sup> ④ （喻）继承某种事业的年轻人<sup>\[兴化\]</sup>：他是个好～。<sup>\[兴化\]</sup> ⑤ 扎扫帚用的高梁秆<sup>\[兴化\]</sup>：芦秫～。<sup>\[兴化\]</sup> ⑥ （高粱）已脱粒的穗子<sup>\[泰兴\]</sup>  
+1. 【[苗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio_zz.md#苗子)】`mio2 zz` <small>/miɔ2 t͡sɿ/<sup>兴化</sup>, /miɔ2 t͡sɿ/<sup>如皋</sup>, /miɔ2 t͡sɿ/<sup>泰兴</sup></small> ① 指高粱、芦穄结穗的秆子。<sup>\[如东\]</sup>：芦穄～。<sup>\[如东\]</sup> ② 培养的对象。<sup>\[如东\]</sup> ③ 专指高粱、芦穄的最上段，脱粒后用作扎条帚、把儿及劈篾做工艺品。<sup>\[如皋\]</sup> ④ （喻）继承某种事业的年轻人<sup>\[兴化\]</sup>：他是个好～。<sup>\[兴化\]</sup> ⑤ 扎扫帚用的高梁秆<sup>\[兴化\]</sup>：芦秫～。<sup>\[兴化\]</sup> ⑥ （高粱/芦穄）已脱粒的穗子，多用于扎苕帚<sup>\[泰兴\]</sup>  
 1. 【[秒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio.md#秒)】`mio3` <sup>[如东]</sup> 计算时间的单位，等于一分种的六十分之一。  
 1. 【[妙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio.md#妙)】`mio6` <sup>[如东]</sup> ① 巧：这件事做得～。 ② 形容好。  
 1. 【[庙上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio_shan.md#庙上)】`mio6 shan6` <sup>[如皋]</sup> 庙里，庙里的人或物。  
@@ -1461,20 +1465,22 @@
 1. 【[茅草棚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_co_pon.md#茅草棚)】`mo2 co3 pon2` <sup>[泰州]</sup> 茅草盖的简陋住房。  
 1. 【[茅草棚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_co_pon_r.md#茅草棚<sub>儿</sub>)】`mo2 co3 pon2 r` <sup>[东台]</sup> 用茅苫草盖的屋子。  
 1. 【[茅房里跌跟头——离屎（死）不远](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_fan_lii_dih.md#茅房里跌跟头——离屎（死）不远)】`mo2 fan2 lii dih7 gen1 teu li6 shr3 （sz3） beh7 iun3` <sup>[东台]</sup>   
-1. 【[茅缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_gan.md#茅缸)】`mo2 gan1` <small>/mɔ2 kaŋ1/<sup>兴化</sup>, /mɔ2 kɑŋ1/<sup>泰县</sup></small> ① 茅房，厕所 ② 储存粪便的设施，圆形，一般用砖砌成，较大，也有用砂缸的。通称厕所。<sup>\[如东\]</sup> ③ 露天或茅草房的厕所。<sup>\[东台\]</sup> ④ 供人大便的缸<sup>\[兴化\]</sup>：谚曰：～也有三日新。也称“坑缸”。<sup>\[兴化\]</sup> ⑤ 粪缸。<sup>\[泰县\]</sup> ⑥ 农村厕所中装粪便的大缸。农村家庭多在此缸下半部分埋入土中，人蹲在缸边或者缸边架的木板上出恭。<sup>\[泰州\]</sup>  
+1. 【[茅缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_gan.md#茅缸)】`mo2 gan1` <small>/mɔ2 kaŋ1/<sup>兴化</sup>, /mɔ2 kɑŋ1/<sup>泰兴</sup>, /mɔ2 kɑŋ1/<sup>泰县</sup></small> ① 茅房，厕所 ② 储存粪便的设施，圆形，一般用砖砌成，较大，也有用砂缸的。通称厕所。<sup>\[如东\]</sup> ③ 露天或茅草房的厕所。<sup>\[东台\]</sup> ④ 供人大便的缸<sup>\[兴化\]</sup>：谚曰：～也有三日新。也称“坑缸”。<sup>\[兴化\]</sup> ⑤ 粪缸。<sup>\[泰县\]</sup> ⑥ 农村厕所中装粪便的大缸。农村家庭多在此缸下半部分埋入土中，人蹲在缸边或者缸边架的木板上出恭。<sup>\[泰州\]</sup> ⑦ 茅厕，简易厕所。也说成茅池。<sup>\[泰兴\]</sup>  
 1. 【[茅缸座<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_gan_cu_r.md#茅缸座<sub>儿</sub>)】`mo2 gan1 cu6 r` <sup>[如东]</sup> 搁在茅缸上面的装置，供人坐着排泄大便，有坐椅形的，也有条凳形的。  
 1. 【[茅缸巷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_gan_han_zz.md#茅缸巷子)】`mo2 gan1 han6 zz` <sup>[东台]</sup> 旧时台城大户人家住宅下首或后门旁，运送粪便、垃圾和炊草杂物的专用通道。  
-1. 【[茅缸里的石头——又臭又硬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_gan_lii_dii.md#茅缸里的石头——又臭又硬)】`mo2 gan1 lii dii sheh8 teu ieu6 cheu5 ieu6 ngen6` <sup>[东台]</sup>   
+1. 【[茅缸里的石头——又臭又硬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_gan_lii_dii.md#茅缸里的石头——又臭又硬)】`mo2 gan1 lii dii sheh8 teu ieu6 cheu5 ieu6 ngen6` <small>/mɔ2 kɑŋ1 ləɪ təɪ səʔ8 tʰəɪ iɤɯ1 t͡ɕʰiɤɯ5 iɤɯ1 ŋəŋ1/<sup>泰兴</sup></small> 歇后语，顽固不通<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[茅缸里敲鼓——臭（凑）热闹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_gan_lii_ko.md#茅缸里敲鼓——臭（凑）热闹)】`mo2 gan1 lii ko1 gv3 cheu5 （ceu5） rih8 no6` <sup>[东台]</sup>   
 1. 【[茅缸棚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_gan_pon_r.md#茅缸棚<sub>儿</sub>)】`mo2 gan1 pon2 r` <sup>[如东]</sup> 遮盖茅缸的小屋。  
 1. 【[茅篙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_go.md#茅篙)】`mo2 go1` <sup>[东台]</sup> 茅竹篙子，撑船工具。  
 1. 【[茅坑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_ken.md#茅坑)】`mo2 ken1` <sup>[兴化]</sup> 简陋的厕所。‖也称“茅厕”：谚曰：占住～不拉屎。  
 1. 【[茅棚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_pon_r.md#茅棚<sub>儿</sub>)】`mo2 pon2 r` <sup>[泰县]</sup> 小草屋。  
 1. 【[茅棚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_pon_zz.md#茅棚子)】`mo2 pon2 zz` <sup>[兴化]</sup> ① 茅草搭的散棚。 ② 茅屋。  
+1. 【[茅棚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_pon_zz.md#茅棚子)】`mo2 pon2 zz` <small>/mɔ2 pʰɔŋ2 t͡sɿ/<sup>泰兴</sup></small> 用茅草作上盖的简易房子。对房屋的贬称。<sup>\[泰兴\]</sup>：把他的～扒掉<sup>\[泰兴\]</sup>  
 1. 【[茅屎缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_shr_gan.md#茅屎缸)】`mo2 shr3 gan1` <sup>[泰县]</sup> 厕所。  
 1. 【[茅窝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_u_r.md#茅窝<sub>儿</sub>)】`mo2 u1 r` <small>/mɔ2 ʊ˞1/<sup>如皋</sup></small> ① 原指用茅草、芦花、鸡毛等打成的保暖鞋，后泛指绒、毛、絮等材料做成的保暖鞋。<sup>\[如皋\]</sup> ② 指用茅花、芦苇花加稻草、棉花编织而成的保暖草鞋。<sup>\[东台\]</sup>  
 1. 【[茅靴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_xya_r.md#茅靴<sub>儿</sub>)】`mo2 xya1 r` <sup>[如东]</sup> 棉鞋的一种。用芦苇花编成，帮高，底厚，保温性能好。也叫毛窝儿。  
 1. 【[茅针](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_zhen.md#茅针)】`mo2 zhen1` ① 茅草的花苞，圆锥形，像针，嫩时可食。<sup>\[如东\]</sup> ② 春天白茅草刚露头的嫩芽，有清热解毒功能<sup>\[东台\]</sup>：～～两头尖，不吃～害大病（童谣）。<sup>\[东台\]</sup>  
+1. 【[茅竹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_zhoh.md#茅竹)】`mo2 zhoh` <small>/mɔ2 t͡sɔʔ/<sup>泰兴</sup></small> 毛竹的别称。<sup>\[泰兴\]</sup>  
 1. 【[锚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo.md#锚)】`mo2` <sup>[如东]</sup> 船舶上装备的器具。铁制，两齿或四齿，用于固定船位：抛～。  
 1. 【[□一冲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_ieh_chon.md#□一冲)】`mo3 ieh7 chon5` <sup>[如皋]</sup> 陡然、突然：我～遇到他，真的认不出来呀。  
 1. 【[㴘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo.md#㴘)】`mo3` <sup>[东台]</sup> 泡渍：你把这块肉下锅用水～下子。  

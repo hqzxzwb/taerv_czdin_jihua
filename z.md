@@ -854,14 +854,15 @@
 1. 【[整㧻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zhuah.md#整㧻)】`zhen3 zhuah7` <sup>[如皋]</sup> 整理、清点。  
 1. 【[整捉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zhuah.md#整捉)】`zhen3 zhuah7` <sup>[如东]</sup> 整齐饱满：这筐菜蛮～的。  
 1. 【[整捉数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zhuah_shv.md#整捉数)】`zhen3 zhuah7 shv5` <sup>[如东]</sup> 整数：正好是～。  
-1. 【[枕头状](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_teu_chuan.md#枕头状)】`zhen3 teu chuan6` <small>/t͡səŋ3 tʰei t͡sʰuã1/<sup>如皋</sup>, /t͡səŋ3 tʰɤɯ t͡ɕʰyɑŋ1/<sup>泰县</sup></small> ① 喻妻子挑唆丈夫的话。<sup>\[如皋\]</sup> ② 见“告枕头状”。<sup>\[东台\]</sup> ③ 妻子向丈夫说的片面之词。<sup>\[泰县\]</sup> ④ 妻子或情妇在枕头边上向丈夫或情妇控诉自己受到的欺侮。<sup>\[泰州\]</sup>  
-1. 【[枕头风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_teu_fon.md#枕头风)】`zhen3 teu fon1` <small>/t͡sən3 tʰɤ foŋ1/<sup>兴化</sup></small> ① 女人在床上跟男人诉说别人的坏话，叫做枕头风。<sup>\[如东\]</sup> ② （戏）夫妻间的私房话<sup>\[兴化\]</sup>：这位年轻人捱～吹得晕头转向。‖也作“枕头状”“枕头课”。<sup>\[兴化\]</sup>  
+1. 【[枕头状](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_teu_chuan.md#枕头状)】`zhen3 teu chuan6` <small>/t͡səŋ3 tʰei t͡sʰuã1/<sup>如皋</sup>, /t͡səŋ3 tʰəɪ t͡sʰuɑŋ1/<sup>泰兴</sup>, /t͡səŋ3 tʰɤɯ t͡ɕʰyɑŋ1/<sup>泰县</sup></small> ① 喻妻子挑唆丈夫的话。<sup>\[如皋\]</sup> ② 见“告枕头状”。<sup>\[东台\]</sup> ③ 妻子向丈夫说的片面之词。<sup>\[泰县\]</sup> ④ 妻子或情妇在枕头边上向丈夫或情妇控诉自己受到的欺侮。<sup>\[泰州\]</sup> ⑤ 夫妻间议论他人存在的问题。多指妻子向有地位的丈夫告别人的状。含贬义。<sup>\[泰兴\]</sup>  
+1. 【[枕头风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_teu_fon.md#枕头风)】`zhen3 teu fon1` <small>/t͡sən3 tʰɤ foŋ1/<sup>兴化</sup>, /t͡səŋ3 tʰəɪ fɔŋ1/<sup>泰兴</sup></small> ① 女人在床上跟男人诉说别人的坏话，叫做枕头风。<sup>\[如东\]</sup> ② （戏）夫妻间的私房话<sup>\[兴化\]</sup>：这位年轻人捱～吹得晕头转向。‖也作“枕头状”“枕头课”。<sup>\[兴化\]</sup> ③ 夫妻间相互交流的秘事。多指议论他人的短处，怂恿一方干坏事。<sup>\[泰兴\]</sup>  
 1. 【[枕头壳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_teu_kah_r.md#枕头壳<sub>儿</sub>)】`zhen3 teu kah7 r` <sup>[如皋]</sup> 枕头体的外层，像个布袋。  
 1. 【[枕头瓤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_teu_nan_zz.md#枕头瓤子)】`zhen3 teu nan2 zz` <small>/t͡səŋ3 tʰei nã2 t͡sɿ/<sup>如皋</sup></small> ① 见“枕头芯子”。<sup>\[如皋\]</sup> ② 枕头内芯。<sup>\[东台\]</sup>  
 1. 【[枕头席<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_teu_qieh_r.md#枕头席<sub>儿</sub>)】`zhen3 teu qieh8 r` <sup>[如皋]</sup> 夏日给枕头加的席子。  
 1. 【[枕头芯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_teu_xien_zz.md#枕头芯子)】`zhen3 teu xien1 zz` <sup>[如皋]</sup> 枕内衬物。  
 1. 【[枕头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_teu.md#枕头)】`zhen3 teu2` <sup>[如东]</sup> 人睡觉时垫在头颈下面的一只长条形的物体，多数是布料做成的，也有籐条、木板、陶瓷制作的。  
 1. 【[枕头套子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_teu_to_zz.md#枕头套子)】`zhen3 teu2 to5 zz` <sup>[东台]</sup> 罩在枕头外面的布套。  
+1. 【[枕头套子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_teu_to_zz.md#枕头套子)】`zhen3 teu2 to5 zz` <small>/t͡səŋ3 tʰəɪ2 tʰɔ5 t͡sɿ/<sup>泰兴</sup></small> 枕套。<sup>\[泰兴\]</sup>  
 1. 【[疹子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zz.md#疹子)】`zhen3 zz` <sup>[东台]</sup> 皮肤病变，由外感刺激所致，有风～，湿～之分。  
 1. 【[紾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen.md#紾)】`zhen3` <sup>[泰州]</sup> 两手紧握织品，分别向相反方向用力，使织物收紧，挤出其中的水：你去～个手巾把子上来给爷爷揩脸。｜衣裳汏啊好啊唻，你把衣裳～吖干吖㫰起来。  
 1. 【[紾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zz.md#紾子)】`zhen3 zz` <sup>[东台]</sup> 线条状物体缠绞、扭拧形成的螺旋式纹路：搓绳就要上～，拆绳就要放～。  

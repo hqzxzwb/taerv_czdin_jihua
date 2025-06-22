@@ -395,6 +395,7 @@
 1. 【[画焦芜鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_jio_v_guei.md#画焦芜鬼)】`va6 jio1 v2 guei3` <sup>[东台]</sup> 形容一塌糊涂，不可收拾。  
 1. 【[画龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_lon.md#画龙)】`va6 lon2` <small>/ʋa1 lɔŋ2/<sup>如皋</sup></small> ① 趣指尿床。<sup>\[如皋\]</sup> ② 尿床。<sup>\[如皋\]</sup>  
 1. 【[画十字](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_sheh_cz.md#画十字)】`va6 sheh8 cz6` <sup>[如皋]</sup> ① 承认、保证。 ② 形容走路不稳：脚下～。  
+1. 【[画十字](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_sheh_cz.md#画十字)】`va6 sheh8 cz6` <small>/uɑ1 səʔ8 t͡sʰɿ1/<sup>泰兴</sup></small> 也称画字。旧时不识字的人在契约或文书上画个“十”字代替签字。<sup>\[泰兴\]</sup>  
 1. 【[画污搭浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_v_daeh_jian.md#画污搭浆)】`va6 v daeh7 jian1` <sup>[东台]</sup> ① 邋里邋遢的样子。 ② ［喻］办事不清爽，拖泥带水，后遗症多。  
 1. 【[画污搨杀的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_v_taeh_shaeh.md#画污搨杀的)】`va6 v1 taeh7 shaeh7 dii` <sup>[如皋]</sup> 见“画二涂二”。  
 1. 【[画污搨污的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_v_taeh_v.md#画污搨污的)】`va6 v1 taeh7 v1 dii` <sup>[如皋]</sup> 见“画二涂二”。  
