@@ -1130,8 +1130,7 @@
 1. 【[担个名](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_gu_mien.md#担个名)】`daen1 gu mien2` <sup>[泰州]</sup> 只是承担了一个名声，并未获得相应好处：他俫交的钱还不够伙食费唻，拿他俫的钱是～。｜她这个局长夫人说起来好听，只是～，她还是个小工人，不曾沾他局长一点光。  
 1. 【[担干系](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_gun_xi.md#担干系)】`daen1 gun1 xi` <sup>[兴化]</sup> 指事关重大，要担贵任：你替他转移这批脏款，要～！｜“贤弟此去，须～。”（《水浒传》八一）  
 1. 【[担价](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_jia.md#担价)】`daen1 jia5` <sup>[兴化]</sup> 指商品价格较高：这批货～，不好销。  
-1. 【[担惊受怕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_jien_sheu_pa.md#担惊受怕)】`daen1 jien1 sheu6 pa5` <sup>[兴化]</sup> 提心吊胆，害怕遭到不测：贩卖假货的人～的，生怕有人举报。｜“……娘在宫里起早睡晚，～的。他在外边狐假虎威……”（《梼杌闲评》三十）  
-1. 【[担惊受怕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_jien_sheu_pa.md#担惊受怕)】`daen1 jien1 sheu6 pa5` <small>/tɛ̃1 t͡ɕiŋ1 ɕiɤɯ1 pʰɑ5/<sup>泰兴</sup></small> 担心、害怕。谓处在惊吓、恐惧之中。<sup>\[泰兴\]</sup>  
+1. 【[担惊受怕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_jien_sheu_pa.md#担惊受怕)】`daen1 jien1 sheu6 pa5` <small>/tɛ̃1 t͡ɕin1 sɤ6 pʰa5/<sup>兴化</sup>, /tɛ̃1 t͡ɕiŋ1 ɕiɤɯ1 pʰɑ5/<sup>泰兴</sup></small> ① 提心吊胆，害怕遭到不测<sup>\[兴化\]</sup>：贩卖假货的人～的，生怕有人举报。<sup>\[兴化\]</sup>｜“……娘在宫里起早睡晚，～的。他在外边狐假虎威……”（《梼杌闲评》三十）<sup>\[兴化\]</sup> ② 担心、害怕。谓处在惊吓、恐惧之中。<sup>\[泰兴\]</sup>  
 1. 【[担吖纲上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_nga_gan_shan.md#担吖纲上)】`daen1 nga gan1 shan6` <sup>[东台]</sup> 勉强达标，不上不下，处于尴尬的地位：他考试刚刚好达分数线，～，还不能肯定考中。  
 1. 【[担绳结](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_shen_jih.md#担绳结)】`daen1 shen2 jih7` <sup>[如皋]</sup> 用担绳捆紧后，将绳在绳钩尖部打成剪形结，不松动，一拉就解下。  
 1. 【[担绳扣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_shen_keu_r.md#担绳扣<sub>儿</sub>)】`daen1 shen2 keu1 r` <sup>[如皋]</sup> 见“担绳结”。  
@@ -1735,8 +1734,7 @@
 1. 【[顶手货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_sheu_hu.md#顶手货)】`dien3 sheu3 hu5` <sup>[东台]</sup> 指难以对付的人或事。  
 1. 【[顶手活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_sheu_huh.md#顶手活)】`dien3 sheu3 huh8` <sup>[东台]</sup> 不好干，不容易干好的活计：这是件～，要集中力量做好。  
 1. 【[顶膛火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_tan_hu.md#顶膛火)】`dien3 tan2 hu3` <sup>[兴化]</sup> 上了枪膛的子弹：他怕手枪走火，连忙把～退出来。  
-1. 【[顶头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_teu.md#顶头)】`dien3 teu2` <sup>[如皋]</sup> 端部。  
-1. 【[顶头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_teu.md#顶头)】`dien3 teu2` <small>/tiŋ3 tʰəɪ2/<sup>泰兴</sup></small> 物体的最高处；尽头。<sup>\[泰兴\]</sup>：路～就是布厂<sup>\[泰兴\]</sup>  
+1. 【[顶头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_teu.md#顶头)】`dien3 teu2` <small>/tiəŋ3 tʰei2/<sup>如皋</sup>, /tiŋ3 tʰəɪ2/<sup>泰兴</sup></small> ① 端部。<sup>\[如皋\]</sup> ② 物体的最高处；尽头。<sup>\[泰兴\]</sup>：路～就是布厂<sup>\[泰兴\]</sup>  
 1. 【[顶头大撞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_teu_da_chuan.md#顶头大撞)】`dien3 teu2 da6 chuan6` <sup>[泰州]</sup> 无意中迎面碰见某人：早上在坡子街同老李～，让都让不掉。  
 1. 【[顶头上司](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_teu_shan_sz.md#顶头上司)】`dien3 teu2 shan6 sz1` ① 直接领导。<sup>\[东台\]</sup> ② 本人的直接领导人或者直接领导部门。<sup>\[泰州\]</sup>  
 1. 【[顶天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_tin.md#顶天)】`dien3 tin1` <small>/tiɪ̃3 tʰiɪ̃1/<sup>兴化</sup></small> 形容极高或到了极限<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：官司打到高级法院，算是～吖。<sup>\[兴化\]</sup>｜他能当到副局长，职务算～吖。<sup>\[兴化\]</sup>｜你在泰州当干部，做到正厅就～唻。<sup>\[泰州\]</sup>  
@@ -1767,8 +1765,7 @@
 1. 【[钉吖剥的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_nga_bah_dii.md#钉吖剥的)】`dien5 nga bah7 dii` <sup>[东台]</sup> ［喻］对某件事追得很紧：儿子～，多次催老子买新房。  
 1. 【[钉吖纸捻子里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_nga_zhr_nin.md#钉吖纸捻子里)】`dien5 nga zhr3 nin3 zz lii` <sup>[东台]</sup> ［喻］已经内定，不易改变。  
 1. 【[钉掌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_zhan_zz.md#钉掌子)】`dien5 zhan3 zz` <sup>[如皋]</sup> 给鞋底的前掌和后跟加皮或其他物品并用鞋钉钉上。  
-1. 【[钉桩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_zhuan.md#钉桩)】`dien5 zhuan1` <sup>[兴化]</sup> ① 船靠岸后，为系缆绳在岸边打上铁纤或小木桩。 ② 打桩，把木桩、水泥桩打在河边保护堤岸，或打进地里加固地基。  
-1. 【[钉桩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_zhuan.md#钉桩)】`dien5 zhuan1` <small>/tiŋ5 t͡suɑŋ1/<sup>泰兴</sup></small> 下桩，在地上固定柱桩。<sup>\[泰兴\]</sup>  
+1. 【[钉桩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_zhuan.md#钉桩)】`dien5 zhuan1` <small>/tiɪ̃5 t͡suaŋ1/<sup>兴化</sup>, /tiŋ5 t͡suɑŋ1/<sup>泰兴</sup></small> ① 船靠岸后，为系缆绳在岸边打上铁纤或小木桩。<sup>\[兴化\]</sup> ② 打桩，把木桩、水泥桩打在河边保护堤岸，或打进地里加固地基。<sup>\[兴化\]</sup> ③ 下桩，在地上固定柱桩。<sup>\[泰兴\]</sup>  
 1. 【[丢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu.md#丢)】`dieu1` <sup>[泰州]</sup> ① 人死以后遗留：老的走掉以后，～啊三套房子把他。 ② 摆放，安放：你出门办事要把身上钱～～好，当心弄吖少掉啊。｜你把碗洗啊好啊就～啊碗橱里去。  
 1. 【[丢场面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_chan_min.md#丢场面)】`dieu1 chan2 min6` <small>/tyʊ1 t͡sʰã2 mĩ1/<sup>如皋</sup></small> ① 丢面子。<sup>\[如东\]</sup>：这件事不曾做成，～。<sup>\[如东\]</sup> ② 失体面。<sup>\[如皋\]</sup>  
 1. 【[丢筹<sub>儿</sub>钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_chr_r_qin.md#丢筹<sub>儿</sub>钱)】`dieu1 chr2 r qin2` <sup>[如皋]</sup> 见“筹钱”。  

@@ -668,8 +668,7 @@
 1. 【[㧟东摵西](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_don_seh_xi.md#㧟东摵西)】`kuae3 don1 seh7 xi1` <sup>[东台]</sup> 带着某人或某物到处奔走：他带啊那们多东西～的，多累啊！  
 1. 【[㧟劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_jien.md#㧟劲)】`kuae3 jien5` <sup>[泰州]</sup> 物体晃动倾斜后产生的力量：你这个车子上东西堆得太高啊唻，要慢点儿开，高头～一大，倒下来要出事的。  
 1. 【[㧟来㧟去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_lae_kuae_qy.md#㧟来㧟去)】`kuae3 lae2 kuae3 qy5` <sup>[东台]</sup> 物体的重心不断移动，难以掌控。  
-1. 【[㧟篮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_laen.md#㧟篮)】`kuae3 laen2` <sup>[如皋]</sup> 粗篾大篮，有竹系，用臂肘㧟着走。  
-1. 【[㧟篮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_laen.md#㧟篮)】`kuae3 laen2` <small>/kʰuɛ3 lɛ̃2/<sup>泰兴</sup></small> 竹编的篮子，可以手抓。<sup>\[泰兴\]</sup>  
+1. 【[㧟篮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_laen.md#㧟篮)】`kuae3 laen2` <small>/kʰuɛ3 lẽ2/<sup>如皋</sup>, /kʰuɛ3 lɛ̃2/<sup>泰兴</sup></small> ① 粗篾大篮，有竹系，用臂肘㧟着走。<sup>\[如皋\]</sup> ② 竹编的篮子，可以手抓。<sup>\[泰兴\]</sup>  
 1. 【[㧟笿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_lah.md#㧟笿)】`kuae3 lah` <small>/kʰuɛ3 lɑʔ/<sup>泰兴</sup></small> 㧟篮<sup>\[泰兴\]</sup>  
 1. 【[㧟笿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_lah_r.md#㧟笿<sub>儿</sub>)】`kuae3 lah8 r` <sup>[东台]</sup> 小竹篮子。  
 1. 【[㧟笿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_lah_zz.md#㧟笿子)】`kuae3 lah8 zz` <sup>[泰县]</sup> 大竹篮子。  
@@ -694,8 +693,7 @@
 1. 【[快刀切萝卜——干脆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_do_qih_lu.md#快刀切萝卜——干脆)】`kuae5 do1 qih7 lu2 poh gun1 qy5` <sup>[东台]</sup>   
 1. 【[快刀切豆腐——两面光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_do_qih_teu.md#快刀切豆腐——两面光)】`kuae5 do1 qih7 teu6 fv laen3 min6 guan1` <sup>[东台]</sup>   
 1. 【[快东快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_don_kuae.md#快东快)】`kuae5 don kuae5` <sup>[如皋]</sup> 迅速。  
-1. 【[快活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_huh.md#快活)】`kuae5 huh` <sup>[兴化]</sup> （借）信任、有好感：由于他喜欢自作主张，老板不大～他。  
-1. 【[快活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_huh.md#快活)】`kuae5 huh` <small>/kʰuɛ5 xʊʔ/<sup>泰兴</sup></small> 快乐；愉快。\[泰兴：（又音kuae5 uah）\]：日子过得真～<sup>\[泰兴\]</sup>｜穷～，富洒乐，叫花子打个莲花落。<sup>\[泰兴\]</sup>  
+1. 【[快活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_huh.md#快活)】`kuae5 huh` <small>/kʰuɛ5 xuʔ/<sup>兴化</sup>, /kʰuɛ5 xʊʔ/<sup>泰兴</sup></small> ① （借）信任、有好感<sup>\[兴化\]</sup>：由于他喜欢自作主张，老板不大～他。<sup>\[兴化\]</sup> ② 快乐；愉快。\[泰兴：（又音kuae5 uah）\]：日子过得真～<sup>\[泰兴\]</sup>｜穷～，富洒乐，叫花子打个莲花落。<sup>\[泰兴\]</sup>  
 1. 【[快活话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_huh_hua.md#快活话)】`kuae5 huh hua6` <sup>[兴化]</sup> 调侃的话：……赵一剑回敬道：“贫下中农不敢高攀啊！”旁边有人插话：“你小子别说～了。”（刘春农《无意插柳》）  
 1. 【[快活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_huh.md#快活)】`kuae5 huh8` <sup>[如东]</sup> 高兴。  
 1. 【[快活得没手抓痒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_huh_deh_meh.md#快活得没手抓痒)】`kuae5 huh8 deh7 meh8 sheu3 zhua1 ian3` <sup>[东台]</sup> 形容极端快乐时手舞足蹈，不知所措。  
@@ -714,8 +712,7 @@
 1. 【[快𢜶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_so.md#快𢜶)】`kuae5 so` <sup>[兴化]</sup> 速度快，行动敏捷：他老人家腿脚不灵便，每逢外出，总～不起来。  
 1. 【[快𢜶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_so.md#快𢜶)】`kuae5 so5` <small>/kʰuɛ5 sɔ5/<sup>如皋</sup>, /kʰuɛ5 sɔ5/<sup>泰兴</sup></small> 快，迅速。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
 1. 【[快中快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_zhon_kuae.md#快中快)】`kuae5 zhon kuae5` <sup>[兴化]</sup> 形容快了还要快：贩卖鲜货靠的就是～。  
-1. 【[快中快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_zhon_kuae.md#快中快)】`kuae5 zhon1 kuae5` <sup>[泰州]</sup> 更快：这桩事不能拖，要～。  
-1. 【[快中快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_zhon_kuae.md#快中快)】`kuae5 zhon1 kuae5` <small>/kʰuɛ5 t͡sɔŋ1 kʰuɛ5/<sup>泰兴</sup></small> 放快一些，要快一些。<sup>\[泰兴\]</sup>  
+1. 【[快中快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_zhon_kuae.md#快中快)】`kuae5 zhon1 kuae5` <small>/kʰuɛ5 t͡sɔŋ1 kʰuɛ5/<sup>泰兴</sup></small> ① 更快<sup>\[泰州\]</sup>：这桩事不能拖，要～。<sup>\[泰州\]</sup> ② 放快一些，要快一些。<sup>\[泰兴\]</sup>  
 1. 【[快嘴三娘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_zuei_saen_nian.md#快嘴三娘子)】`kuae5 zuei3 saen1 nian2 zz` <sup>[兴化]</sup> （讽）形容抢嘴抢舌，爱传播闲话的人。并非专指妇女。  
 1. 【[筷<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_r.md#筷<sub>儿</sub>)】`kuae5 r` <small>/kʰue5 ɚ/<sup>泰县</sup></small> ① 夹取食物的工具。长条形，一头圆，一头方。有银制、铜制、竹制、木制、塑料制等多种。<sup>\[如东\]</sup> ② 筷子。<sup>\[泰县\]</sup>  
 1. 【[筷头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuae_teu_r.md#筷头<sub>儿</sub>)】`kuae5 teu2 r` <sup>[泰县]</sup> 筷尖儿。  
@@ -792,8 +789,7 @@
 1. 【[筐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan.md#筐)】`kuan1` ① 容器。竹篾或荆条编成，圆柱形，有底，无环。较大。用以盛物。<sup>\[如东\]</sup> ② 用竹篾、柳条等编织成的盛物的器具<sup>\[东台\]</sup>：编个柳藤～<sup>\[东台\]</sup>｜两～菜<sup>\[东台\]</sup>  
 1. 【[絖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan.md#絖)】`kuan1` <sup>[如皋]</sup> ① 动词：～丝线、～头绳。 ② 名词：丝～子、线～子。 ③ 量词：一～棉线。  
 1. 【[诓骗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan_pin.md#诓骗)】`kuan1 pin5` <sup>[东台]</sup> 瞒哄、欺骗。  
-1. 【[狂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan.md#狂)】`kuan2` <sup>[如皋]</sup> 见“疯”。指小孩贪玩无节制。  
-1. 【[狂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan.md#狂)】`kuan2` <small>/kʰuɑŋ2/<sup>泰兴</sup></small> 纵情；恣意。凶猛；猛烈。妄自尊大。<sup>\[泰兴\]</sup>：他现在～ngae<sup>\[泰兴\]</sup>  
+1. 【[狂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan.md#狂)】`kuan2` <small>/kʰuã2/<sup>如皋</sup>, /kʰuɑŋ2/<sup>泰兴</sup></small> ① 见“疯”。指小孩贪玩无节制。<sup>\[如皋\]</sup> ② 纵情；恣意。凶猛；猛烈。妄自尊大。<sup>\[泰兴\]</sup>：他现在～ngae<sup>\[泰兴\]</sup>  
 1. 【[狂风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan_fon.md#狂风)】`kuan2 fon1` <sup>[东台]</sup> 猛烈的风。  
 1. 【[狂话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan_hua.md#狂话)】`kuan2 hua6` <small>/kʰuaŋ2 xua6/<sup>兴化</sup></small> ① 狂妄、不知轻重的话<sup>\[兴化\]</sup>：“……不是说句～，我们做出来的事，他敢道一个‘不’字……”（《官场现形记》五二）<sup>\[兴化\]</sup> ② 狂妄、不知深浅的话<sup>\[泰州\]</sup>：说句～，他这两个工资根本不在乎。<sup>\[泰州\]</sup>  
 1. 【[狂言](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan_in.md#狂言)】`kuan2 in2` <sup>[东台]</sup> ① 狂妄的话：口出～。 ② 胡说。  
@@ -1068,8 +1064,7 @@
 1. 【[苦洇洇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_ien_ien.md#苦洇洇)】`kv3 ien5 ien` <sup>[泰县]</sup> 苦味较浓：这个药～的。  
 1. 【[苦叽叽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_ji_ji.md#苦叽叽)】`kv3 ji1 ji1` <small>/kʰu3 t͡ɕi1 t͡ɕi1/<sup>兴化</sup>, /kʰu3 t͡ɕʝ1 t͡ɕʝ1/<sup>如皋</sup></small> ① 有一点苦味。<sup>\[如皋\]</sup> ② 形容味苦<sup>\[兴化\]</sup>：黄花草吃咖在嘴里～的。<sup>\[兴化\]</sup> ③ 很苦<sup>\[泰州\]</sup>：你想病好，就不要嫌这个药～的。<sup>\[泰州\]</sup>  
 1. 【[苦蘻蘻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_ji_ji.md#苦蘻蘻)】`kv3 ji5 ji` <sup>[东台]</sup> 味道很苦。（《说文：艸部》“蘻，狗毒也。从艸，繫声。古诣切。”註：樊光云俗語苦如蘻。）  
-1. 【[苦酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_jieu.md#苦酒)】`kv3 jieu3` <sup>[如东]</sup> ① 酒的味道苦涩。 ② 比喻上人情：你又要吃～啦。 ③ 比喻无可奈何地吃亏：只好喝下这杯～。  
-1. 【[苦酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_jieu.md#苦酒)】`kv3 jieu3` <small>/kʰu3 t͡ɕiɤɯ3/<sup>泰兴</sup></small> 无菜而饮酒曰苦酒。<sup>\[泰兴\]</sup>  
+1. 【[苦酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_jieu.md#苦酒)】`kv3 jieu3` <small>/kʰu3 t͡ɕiɤɯ3/<sup>泰兴</sup></small> ① 酒的味道苦涩。<sup>\[如东\]</sup> ② 比喻上人情。<sup>\[如东\]</sup>：你又要吃～啦。<sup>\[如东\]</sup> ③ 比喻无可奈何地吃亏。<sup>\[如东\]</sup>：只好喝下这杯～。<sup>\[如东\]</sup> ④ 无菜而饮酒曰苦酒。<sup>\[泰兴\]</sup>  
 1. 【[苦娇𠆧<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_jio_nian_r.md#苦娇𠆧<sub>儿</sub>)】`kv3 jio nian2 r` <sup>[如皋]</sup> 日夜操劳十分辛苦的人。  
 1. 【[苦交易](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_jio_i.md#苦交易)】`kv3 jio1 i` <sup>[如皋]</sup> ① 商业交易，辛劳多赢利少。 ② 即“苦差事、苦缺”。  
 1. 【[苦苦哝哝的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_kv_non_non.md#苦苦哝哝的)】`kv3 kv non2 non2 dii` <sup>[如皋]</sup> 痛苦可怜的样子。  
@@ -1097,8 +1092,7 @@
 1. 【[苦形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_xien.md#苦形)】`kv3 xien2` <sup>[如皋]</sup> 苦的样子。  
 1. 【[苦形样子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_xien_ian_zz.md#苦形样子)】`kv3 xien2 ian6 zz` <sup>[东台]</sup> 愁苦的心情表现在脸上。  
 1. 【[苦主](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_zhv.md#苦主)】`kv3 zhv3` <sup>[如东]</sup> 被害人的家属。  
-1. 【[苦做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_zu.md#苦做)】`kv3 zu5` <sup>[兴化]</sup> 辛勤劳动，不怕吃苦：小吴家底子穷，一家一当全是两口子～挣起来的。  
-1. 【[苦做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_zu.md#苦做)】`kv3 zu5` <small>/kʰu3 t͡sɤɯ5/<sup>泰兴</sup></small> 辛苦劳作。<sup>\[泰兴\]</sup>  
+1. 【[苦做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_zu.md#苦做)】`kv3 zu5` <small>/kʰu3 t͡so5/<sup>兴化</sup>, /kʰu3 t͡sɤɯ5/<sup>泰兴</sup></small> ① 辛勤劳动，不怕吃苦<sup>\[兴化\]</sup>：小吴家底子穷，一家一当全是两口子～挣起来的。<sup>\[兴化\]</sup> ② 辛苦劳作。<sup>\[泰兴\]</sup>  
 1. 【[库](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv.md#库)】`kv5` <sup>[如皋]</sup> 供烧化给死者的，用芦柴作架、纸糊的房屋、家具、衣物等的总称：化～、扎～。  
 1. 【[库匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_qian.md#库匠)】`kv5 qian6` <sup>[如东]</sup> 为死人制作纸屋、纸箱、纸衣的小手工业者。  
 1. 【[库箬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_rah.md#库箬)】`kv5 rah` <small>/kʰu5 ɻɑʔ/<sup>泰兴</sup></small> 包裹果实的植物叶片<sup>\[泰兴\]</sup>：玉米～<sup>\[泰兴\]</sup>  

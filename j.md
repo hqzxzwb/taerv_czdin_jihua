@@ -70,14 +70,12 @@
 1. 【[鸡脚爪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_jiah_zhua_zz.md#鸡脚爪子)】`ji1 jiah7 zhua3 zz` <sup>[兴化]</sup> ① 枳椇，成熟时肉呈红棕色，形似鸡瓜，味甜可食用，也可酿酒。 ② （喻）新生儿用的绷带，因其形似故名。  
 1. 【[鸡浇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_jio.md#鸡浇)】`ji1 jio1` <small>/t͡ɕʝ1 t͡ɕiɔ1/<sup>泰兴</sup></small> 以鸡汤、鱼汤调和，加入干贝、虾米、长鱼骨等作成的食品，口感极佳，乡间特色食品。<sup>\[泰兴\]</sup>  
 1. 【[鸡嘴说到鸭嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_jy_shuh_do.md#鸡嘴说到鸭嘴)】`ji1 jy3 shuh7 do5 ngaeh7 jy3` <sup>[东台]</sup> 说了很多，但没有效果。  
-1. 【[鸡窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ku.md#鸡窠)】`ji1 ku1` <sup>[如东]</sup> 用砖头在大屋旁边垒起来的小屋，一般三四尺高，两三个平方，供鸡住。  
-1. 【[鸡窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ku.md#鸡窠)】`ji1 ku1` <small>/t͡ɕʝ1 kʰɤɯ1/<sup>泰兴</sup></small> 鸡窝。<sup>\[泰兴\]</sup>  
+1. 【[鸡窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ku.md#鸡窠)】`ji1 ku1` <small>/t͡ɕʝ1 kʰɤɯ1/<sup>泰兴</sup></small> ① 用砖头在大屋旁边垒起来的小屋，一般三四尺高，两三个平方，供鸡住。<sup>\[如东\]</sup> ② 鸡窝。<sup>\[泰兴\]</sup>  
 1. 【[鸡窠灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ku_huei.md#鸡窠灰)】`ji1 ku1 huei1` <sup>[如皋]</sup> 鸡窝中粪便、饲料残渣等混合的灰士，是上等肥料。  
 1. 【[鸡冷上窠，鸭冷下河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_len_shan_ku.md#鸡冷上窠，鸭冷下河)】`ji1 len3 shan6 ku1 ngaeh7 len3 ha6 hu2` <small>/t͡ɕʝ1 ləŋ3 sɑŋ1 kʰɤɯ1 ŋæʔ7 ləŋ3 xɑ1 xɤɯ2/<sup>泰兴</sup></small> 鸡鸭御冷的习性。<sup>\[泰兴\]</sup>  
 1. 【[鸡笼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_lon_r.md#鸡笼<sub>儿</sub>)】`ji1 lon2 r` <sup>[如皋]</sup> 指篾制六角笼，养小鸡用。现己不见。  
 1. 【[鸡笼子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_lon_zz.md#鸡笼子)】`ji1 lon2 zz` <small>/t͡ɕʝ1 lɔŋ2 t͡sɿ/<sup>泰兴</sup></small> 鸡笼。<sup>\[泰兴\]</sup>  
-1. 【[鸡毛菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_mo_cae.md#鸡毛菜)】`ji1 mo2 cae5` <sup>[如皋]</sup> 菜茼，小青菜。  
-1. 【[鸡毛菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_mo_cae.md#鸡毛菜)】`ji1 mo2 cae5` <small>/t͡ɕʝ1 mɔ2 t͡ɕʰiɛ5/<sup>泰兴</sup></small> 一种小青菜。<sup>\[泰兴\]</sup>  
+1. 【[鸡毛菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_mo_cae.md#鸡毛菜)】`ji1 mo2 cae5` <small>/t͡ɕʝ1 mɔ2 t͡sʰɛ5/<sup>如皋</sup>, /t͡ɕʝ1 mɔ2 t͡ɕʰiɛ5/<sup>泰兴</sup></small> ① 菜茼，小青菜。<sup>\[如皋\]</sup> ② 一种小青菜。<sup>\[泰兴\]</sup>  
 1. 【[鸡毛掸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_mo_daen_zz.md#鸡毛掸子)】`ji1 mo2 daen3 zz` <small>/t͡ɕʝ1 mɔ2 tɛ̃3 t͡sɿ/<sup>泰兴</sup></small> 用以掸去器物上灰尘的掸子。用许多鸡毛粘扎于小竹杆上而成，故名。<sup>\[泰兴\]</sup>  
 1. 【[鸡毛毽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_mo_jin_zz.md#鸡毛毽子)】`ji1 mo2 jin5 zz` <sup>[如皋]</sup> 用小铜钱一枚包布缝合，中心处装大羽根部的一段空管，插3-5根雄鸡的尾羽做成。见“毽子、踢毽子”。  
 1. 【[鸡毛六足](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_mo_loh_zoh.md#鸡毛六足)】`ji1 mo2 loh8 zoh7` <sup>[泰县]</sup> 坐立不安：你不要～的。  
@@ -85,8 +83,7 @@
 1. 【[鸡毛帚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_mo_zheu_zz.md#鸡毛帚子)】`ji1 mo2 zheu3 zz` <sup>[兴化]</sup> 鸡毛掸子。  
 1. 【[鸡猫六畜的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_mo_loh_choh.md#鸡猫六畜的)】`ji1 mo2 loh8 choh7 dii` <sup>[如皋]</sup> 形容轻微的意见不投，气氛不和谐。  
 1. 【[鸡目眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_moh_ngaen.md#鸡目眼)】`ji1 moh8 ngaen3` <small>/t͡ɕʝ1 mɔʔ8 ŋẽ3/<sup>如皋</sup></small> ① 夜盲症。<sup>\[如东\]</sup> ② 即“雀目眼”，白蒲话说。<sup>\[如皋\]</sup>  
-1. 【[鸡眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ngaen.md#鸡眼)】`ji1 ngaen3` <sup>[如东]</sup> 皮肤病，脚掌或脚趾上角质层增深而形成的小圆硬块，样子像鸡的眼睛，局部有压痛。  
-1. 【[鸡眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ngaen.md#鸡眼)】`ji1 ngaen3` <small>/t͡ɕʝ1 ŋɛ̃3/<sup>泰兴</sup></small> 局部表皮久受压迫或摩擦，脚掌或脚趾上生的小圆形硬结，有压痛感。<sup>\[泰兴\]</sup>  
+1. 【[鸡眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ngaen.md#鸡眼)】`ji1 ngaen3` <small>/t͡ɕʝ1 ŋɛ̃3/<sup>泰兴</sup></small> ① 皮肤病，脚掌或脚趾上角质层增深而形成的小圆硬块，样子像鸡的眼睛，局部有压痛。<sup>\[如东\]</sup> ② 局部表皮久受压迫或摩擦，脚掌或脚趾上生的小圆形硬结，有压痛感。<sup>\[泰兴\]</sup>  
 1. 【[鸡内金](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_nuei_jien.md#鸡内金)】`ji1 nuei6 jien1` <sup>[如东]</sup> 雉科动物家鸡的干燥砂囊内膜。  
 1. 【[鸡皮疙瘩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_pi_geh_daeh.md#鸡皮疙瘩)】`ji1 pi2 geh7 daeh7` ① 因受到某种刺激而寒毛直立，皮肤表面好像鸡皮一样。<sup>\[东台\]</sup> ② 去掉毛的鸡皮上的颗粒状的肉点，喻指人在受寒冷、惊恐、厌恶等刺激时，皮肤毛孔突然收缩成颗粒状情形<sup>\[泰州\]</sup>：你望他这个大麻疯的样子，把人～都瘆出来啊。<sup>\[泰州\]</sup>  
 1. 【[鸡皮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_pi_zz.md#鸡皮子)】`ji1 pi2 zz` <sup>[如皋]</sup> 人的皮肤因寒冷或紧张而收缩，像鸡皮似的有许多小凸起：他颈项里抻起～来啊。  
@@ -1578,8 +1575,7 @@
 1. 【[居心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_xien.md#居心)】`jy1 xien1` <sup>[如皋]</sup> 打算、想：他家有事，我～去帮忙的，又捱岔掉啊。  
 1. 【[居先](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_xin.md#居先)】`jy1 xin1` <sup>[如皋]</sup> 时空位置相对在前。  
 1. 【[拘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy.md#拘)】`jy1` <small>/t͡ɕy1/<sup>兴化</sup>, /t͡ɕy1/<sup>如皋</sup></small> ① 恭谨，转为敬请和礼让<sup>\[如皋\]</sup>：～座、～行、～酒、～菜。<sup>\[如皋\]</sup> ② 穿在牛鼻中膈下的小木棒或铁环，用来套牛绳。<sup>\[兴化\]</sup> ③ 旧俗，在小孩鼻中带的金属小环。意为拘住孩子不让“走”（死）了。又称“鼻～”。<sup>\[兴化\]</sup> ④ 人一时迷糊发怔的样子（*跔）<sup>\[泰州\]</sup>：他捱领导凶吖发咖～，差点儿捱门槛𢴬个大跟头。<sup>\[泰州\]</sup>｜他这阵子怕的是～啊唻，一盘稳赢的棋竟然弄吖输掉啊。<sup>\[泰州\]</sup>  
-1. 【[拘礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_li.md#拘礼)】`jy1 li3` <sup>[东台]</sup> 客气、谦让；拘泥于礼节：都是家里人，你不要～！  
-1. 【[拘礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_li.md#拘礼)】`jy1 li3` <small>/t͡ɕy1 lʝ3/<sup>泰兴</sup></small> 拘泥于礼法、礼节。<sup>\[泰兴\]</sup>  
+1. 【[拘礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_li.md#拘礼)】`jy1 li3` <small>/t͡ɕy1 lʝ3/<sup>泰兴</sup></small> ① 客气、谦让；拘泥于礼节<sup>\[东台\]</sup>：都是家里人，你不要～！<sup>\[东台\]</sup> ② 拘泥于礼法、礼节。<sup>\[泰兴\]</sup>  
 1. 【[拘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_r.md#拘<sub>儿</sub>)】`jy1 r` <sup>[泰州]</sup> ① 牛拘：小牛大啊唻，要同它戴～唻。 ② 旧时男孩鼻饰，黄金细环，别在鼻中，挂于上唇，旧时家长担心小孩早夭，给小孩戴拘儿，取其“拘住不走”之义：他家这个小伙五房佮咖一个，打小就戴～，一直戴到16岁才除掉。  
 1. 【[椐木](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_moh.md#椐木)】`jy1 moh8` <sup>[泰州]</sup> 椐树木料：这张～大橱还是老爹当年结婚打的。  
 1. 【[车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy.md#车)】`jy1` <sup>[东台]</sup> 象棋中的棋子：丢卒保～。  

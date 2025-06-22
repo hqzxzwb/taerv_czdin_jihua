@@ -245,8 +245,7 @@
 1. 【[间头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_teu.md#间头)】`gaen1 teu` <sup>[兴化]</sup> 指每间房子面积的大小：商品房的房间虽多，但是～都不大。  
 1. 【[减](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen.md#减)】`gaen3` <sup>[如皋]</sup> ① 㨟，使少，见“减饭”：把饭～掉点儿。 ② 蔑匠用减刀拉定篾丝的宽度：～篾子。  
 1. 【[减刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_do.md#减刀)】`gaen3 do1` <sup>[如皋]</sup> 篾匠工具，木座上呈八字形竖两只刀口向内的小刀，刀口间距可调，用以从刀口间拉随篾定宽度。  
-1. 【[拣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen.md#拣)】`gaen3` <sup>[如东]</sup> 选择：～海货。  
-1. 【[拣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen.md#拣)】`gaen3` <small>/kɛ̃3/<sup>泰兴</sup></small> 选择<sup>\[泰兴\]</sup>  
+1. 【[拣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen.md#拣)】`gaen3` <small>/kɛ̃3/<sup>泰兴</sup></small> 选择<sup>\[如东\]</sup><sup>\[泰兴\]</sup>：～海货。<sup>\[如东\]</sup>  
 1. 【[拣到篮里就是菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_do_laen_lii.md#拣到篮里就是菜)】`gaen3 do5 laen2 lii qieu6 shr6 cae5` <sup>[东台]</sup> 不管质量如何、有用没用，什么都要：这次招聘人才不能～，要严格坚持标准。  
 1. 【[拣拣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_gaen.md#拣拣)】`gaen3 gaen3` <sup>[如东]</sup> 惟独：这种事～让他碰上吖。  
 1. 【[拣个好日子没好天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_gu_ho_rih.md#拣个好日子没好天)】`gaen3 gu ho3 rih8 zz meh8 ho3 tin1` <sup>[东台]</sup> （俗语）预定日期办某事，但偏偏遇到了恶劣天气，这很扫兴，也是对没好天的解嘲。  
@@ -272,8 +271,7 @@
 1. 【[锏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_zz.md#锏子)】`gaen5 zz` <small>/kẽ5 t͡sɿ/<sup>如皋</sup></small> ① 嵌在小车儿耳板轴孔上方的檀木块，是车轴着力处。耐磨，可更换。<sup>\[如皋\]</sup> ② 戒指儿、手指饰物。<sup>\[如皋\]</sup> ③ 套在手指上用作纪念或装饰用的指环<sup>\[东台\]</sup>：一对新人在交换结婚～。<sup>\[东台\]</sup>  
 1. 【[间壁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_bieh.md#间壁)】`gaen5 bieh7` <small>/kɛ̃5 piʔ7/<sup>泰兴</sup></small> 隔壁。<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup><sup>\[泰州\]</sup>：王妈妈住啊～。<sup>\[如东\]</sup>｜你家～的老李同我是小学同学。<sup>\[泰州\]</sup>  
 1. 【[间阵<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_chen_r.md#间阵<sub>儿</sub>)】`gaen5 chen9 r` <small>/kẽ5 t͡sʰə˞9/<sup>如皋</sup></small> ① 隔一会儿。<sup>\[如东\]</sup>：～我就来。<sup>\[如东\]</sup> ② 等一会儿。<sup>\[如皋\]</sup>  
-1. 【[间间口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_gaen_keu.md#间间口)】`gaen5 gaen5 keu3` <sup>[东台]</sup> 调换食品，换换口味。  
-1. 【[间间口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_gaen_keu.md#间间口)】`gaen5 gaen5 keu3` <small>/kɛ̃5 kɛ̃5 kʰəɪ3/<sup>泰兴</sup></small> 换换口味。<sup>\[泰兴\]</sup>  
+1. 【[间间口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_gaen_keu.md#间间口)】`gaen5 gaen5 keu3` <small>/kɛ̃5 kɛ̃5 kʰəɪ3/<sup>泰兴</sup></small> 换换口味。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[间花样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_hua_ian.md#间花样)】`gaen5 hua1 ian6` <sup>[兴化]</sup> 变换花色：今朝吃鱼，明朝吃肉，他要～儿。  
 1. 【[间花<sub>儿</sub>扬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_hua_r_ian.md#间花<sub>儿</sub>扬)】`gaen5 hua1 r ian2` <sup>[如皋]</sup> 不规则相间。  
 1. 【[间脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_jiah.md#间脚)】`gaen5 jiah7` <sup>[兴化]</sup> 雨后行路绕过积水处：你在路上～儿跑，别把鞋子弄湿了。  
@@ -640,8 +638,7 @@
 1. 【[沟墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_qian.md#沟墙)】`geu1 qian2` <sup>[兴化]</sup> 桶及𪳄子上底及木器框架上插入木板的沟槽。  
 1. 【[沟头沟脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_teu_geu_no.md#沟头沟脑)】`geu1 teu2 geu1 no3` <small>/kəɪ1 tʰəɪ2 kəɪ1 nɔ3/<sup>泰兴</sup></small> 河边杂地，坎子。<sup>\[泰兴\]</sup>  
 1. 【[沟头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_teu_r.md#沟头<sub>儿</sub>)】`geu1 teu2 r` <sup>[如皋]</sup> 小河的端部或河汊。  
-1. 【[沟头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_teu_zz.md#沟头子)】`geu1 teu2 zz` <sup>[兴化]</sup> 较短而窄的河沟：他在～北边钩鱼。  
-1. 【[沟头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_teu_zz.md#沟头子)】`geu1 teu2 zz` <small>/kəɪ1 tʰəɪ2 t͡sɿ/<sup>泰兴</sup></small> 小沟岸；沟坎。<sup>\[泰兴\]</sup>  
+1. 【[沟头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_teu_zz.md#沟头子)】`geu1 teu2 zz` <small>/kɤ1 tʰɤ2 t͡sɿ/<sup>兴化</sup>, /kəɪ1 tʰəɪ2 t͡sɿ/<sup>泰兴</sup></small> ① 较短而窄的河沟<sup>\[兴化\]</sup>：他在～北边钩鱼。<sup>\[兴化\]</sup> ② 小沟岸；沟坎。<sup>\[泰兴\]</sup>  
 1. 【[沟潭<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_tun_r.md#沟潭<sub>儿</sub>)】`geu1 tun2 r` 小水沟  
 1. 【[沟岸草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_un_co.md#沟岸草)】`geu1 un6 co3` <sup>[如皋]</sup> 固岸的草。常见有苮棵、芒棵、乌蓲、芦柴、红草、江芦、芦竹、茅草、狼尾草等。  
 1. 【[沟岸树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_un_shv.md#沟岸树)】`geu1 un6 shv6` <sup>[如皋]</sup> 固岸的树。常栽树种有杨、柳、楝、桃、夜合等  
@@ -1361,8 +1358,7 @@
 1. 【[拐缰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guae_jian.md#拐缰)】`guae3 jian1` <sup>[如皋]</sup> ① 本指马脱缰逃走。比喻经办人挟带款物逃走。 ② 经办而没有完成，不明结果。  
 1. 【[拐里拐搭的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guae_lii_guae_daeh.md#拐里拐搭的)】`guae3 lii guae3 daeh7 dii` <sup>[东台]</sup> 同“拐搭”：这婆娘～，没得搭煞头。  
 1. 【[拐磨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guae_mu.md#拐磨)】`guae3 mu6` <small>/kuɛ3 mɤɯ1/<sup>泰兴</sup></small> 以手摇使转的小石磨，多用以粉碎芝麻、辣椒等。<sup>\[泰兴\]</sup>  
-1. 【[拐棒/柺棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guae_pan.md#拐棒/柺棒)】`guae3 pan6` <small>/kuɛ3 pʰã1/<sup>如皋</sup>, /kuɛ3 pʰɑŋ1/<sup>泰兴</sup></small> ① 拐杖<sup>\[如皋\]</sup> ② 又叫拐杖。走路拄着的棍子，手抓的一头多为弯曲。<sup>\[东台\]</sup> ③ 拐杖。<sup>\[泰兴\]</sup>  
-1. 【[拐棒/柺棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guae_pan.md#拐棒/柺棒)】`guae3 pan6` <sup>[泰州]</sup> 走路时支撑身体的木棒或者竹棒：老爹爹在公园里拄啊根～散步。  
+1. 【[拐棒/柺棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guae_pan.md#拐棒/柺棒)】`guae3 pan6` <small>/kuɛ3 pʰã1/<sup>如皋</sup>, /kuɛ3 pʰɑŋ1/<sup>泰兴</sup></small> ① 拐杖<sup>\[如皋\]</sup> ② 又叫拐杖。走路拄着的棍子，手抓的一头多为弯曲。<sup>\[东台\]</sup> ③ 拐杖。<sup>\[泰兴\]</sup> ④ 走路时支撑身体的木棒或者竹棒<sup>\[泰州\]</sup>：老爹爹在公园里拄啊根～散步。<sup>\[泰州\]</sup>  
 1. 【[拐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guae_r.md#拐<sub>儿</sub>)】`guae3 r` <sup>[如皋]</sup> 骨关节一样凸起的东西：生姜～、手～、脚～。  
 1. 【[拐<sub>儿</sub>桌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guae_r_zhuah.md#拐<sub>儿</sub>桌)】`guae3 r zhuah7` <sup>[如东]</sup> 八仙桌的一种。每边的桌用𣑁弯形木条连接而成。每根木条算一拐，也叫一料。最少为五拐，最多为十九拐。  
 1. 【[拐弯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guae_vaen.md#拐弯)】`guae3 vaen1` <sup>[东台]</sup> 行走转方向：向前过一条巷子，一～就到。  
@@ -1622,8 +1618,7 @@
 1. 【[龟板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_baen.md#龟板)】`guei1 baen3` <sup>[如东]</sup> 龟科动物乌龟的甲壳。  
 1. 【[龟背驮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_bei_tu.md#龟背驮)】`guei1 bei5 tu2` <sup>[如皋]</sup> 中部高四周低的地形。  
 1. 【[龟耷头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_dah_teu.md#龟耷头)】`guei1 dah7 teu2` <sup>[东台]</sup> 与“龟斀头”同义。又比喻胆小怕事，不敢出头。  
-1. 【[龟斀头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_doh_teu.md#龟斀头)】`guei1 doh7 teu2` <sup>[东台]</sup> 原意指割去男性生殖器。后指妻子偷人，丈夫不敢过问。  
-1. 【[龟斀头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_doh_teu.md#龟斀头)】`guei1 doh7 teu2` <small>/kuəɪ1 tɔʔ7 tʰəɪ2/<sup>泰兴</sup></small> 谓妻有外遇者。<sup>\[泰兴\]</sup>  
+1. 【[龟斀头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_doh_teu.md#龟斀头)】`guei1 doh7 teu2` <small>/kuəɪ1 tɔʔ7 tʰəɪ2/<sup>泰兴</sup></small> ① 原意指割去男性生殖器。后指妻子偷人，丈夫不敢过问。<sup>\[东台\]</sup> ② 谓妻有外遇者。<sup>\[泰兴\]</sup>  
 1. 【[龟瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_gua.md#龟瓜)】`guei1 gua1` <sup>[如皋]</sup> 本地产的哈密瓜变种。  
 1. 【[龟壳船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_kah_chun.md#龟壳船)】`guei1 kah7 chun2` <small>/kuəi1 kʰaʔ7 t͡sʰũ2/<sup>兴化</sup></small> ① 旧时一种小木船，棚子低矮成弧形，似龟壳，故名。见“乌龟壳”。<sup>\[兴化\]</sup> ② 旧时的一种矮棚木船，外形似龟壳。<sup>\[兴化\]</sup>  
 1. 【[龟壳<sub>儿</sub>车子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_kah_r_cha.md#龟壳<sub>儿</sub>车子)】`guei1 kah7 r cha1 zz` <sup>[如皋]</sup> 轿车的旧称。  

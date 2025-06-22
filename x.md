@@ -477,8 +477,7 @@
 1. 【[闲扯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_cha.md#闲扯)】`xiaen2 cha3` <sup>[东台]</sup> 漫无边际地随便聊天。  
 1. 【[闲端午](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_dun_v.md#闲端午)】`xiaen2 dun1 v` <sup>[如皋]</sup> 端午节不在农忙时段。  
 1. 【[闲话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_hua.md#闲话)】`xiaen2 hua6` <sup>[东台]</sup> ① 与正题无关的话。 ② 引人猜疑的、背地里议论的是非话：男同志一般不要单独找女士谈心，免得人家说～。  
-1. 【[闲空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_kon.md#闲空)】`xiaen2 kon5` <sup>[如东]</sup> 有空闲：这些日子～。  
-1. 【[闲空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_kon.md#闲空)】`xiaen2 kon5` <small>/ɕiɛ̃2 kʰɔŋ5/<sup>泰兴</sup></small> 空闲；闲暇无事的时候。<sup>\[泰兴\]</sup>  
+1. 【[闲空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_kon.md#闲空)】`xiaen2 kon5` <small>/ɕiɛ̃2 kʰɔŋ5/<sup>泰兴</sup></small> ① 有空闲。<sup>\[如东\]</sup>：这些日子～。<sup>\[如东\]</sup> ② 空闲；闲暇无事的时候。<sup>\[泰兴\]</sup>  
 1. 【[闲来常思自己过，背后莫论他人非](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_lae_chan_sz.md#闲来常思自己过，背后莫论他人非)】`xiaen2 lae2 chan2 sz1 cz6 ji3 gu5 bei5 heu6 mah8 len6 ta1 ren2 fei1` <sup>[东台]</sup> 多找自己缺点，莫背后议别人之短。  
 1. 【[闲乐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_lah.md#闲乐)】`xiaen2 lah` <sup>[兴化]</sup> 空闲：这几天太忙，等～下来陪你上苏州玩玩。  
 1. 【[闲落头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_lah_teu.md#闲落头)】`xiaen2 lah8 teu` <small>/ɕiɛ̃2 lɑʔ8 tʰəɪ/<sup>泰兴</sup></small> 空闲的田地、空间。<sup>\[泰兴\]</sup>  
@@ -487,10 +486,8 @@
 1. 【[闲佬官](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_lo_gun.md#闲佬官)】`xiaen2 lo3 gun1` <sup>[东台]</sup> 闲着没事做的人：我退啊休，是个～，不像你那吖忙。（语带调侃口气。）  
 1. 【[闲饿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_ngu.md#闲饿)】`xiaen2 ngu6` <sup>[兴化]</sup> 指人闲着的时候容易产生饥饿感：～～，没事的时候老想吖吃。  
 1. 【[闲篇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_pin.md#闲篇)】`xiaen2 pin1` <sup>[兴化]</sup> 与正事无关的话：大家手上都忙，没工夫跟你扯～。  
-1. 【[闲气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_qi.md#闲气)】`xiaen2 qi5` <sup>[东台]</sup> 为了无关紧要的事而生的气：我没工夫同你着～。  
-1. 【[闲气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_qi.md#闲气)】`xiaen2 qi5` <small>/ɕiɛ̃2 t͡ɕʰʝ5/<sup>泰兴</sup></small> 因无关紧要的事惹起的气恼。<sup>\[泰兴\]</sup>：不要惹～<sup>\[泰兴\]</sup>  
-1. 【[闲钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_qin.md#闲钱)】`xiaen2 qin2` <sup>[东台]</sup> 暂时不需要用的钱：我是一个月等不到一个月，哪许有～啊！  
-1. 【[闲钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_qin.md#闲钱)】`xiaen2 qin2` <small>/ɕiɛ̃2 t͡ɕʰĩ2/<sup>泰兴</sup></small> 生活必需费用以外的多余的钱。<sup>\[泰兴\]</sup>  
+1. 【[闲气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_qi.md#闲气)】`xiaen2 qi5` <small>/ɕiɛ̃2 t͡ɕʰʝ5/<sup>泰兴</sup></small> ① 为了无关紧要的事而生的气<sup>\[东台\]</sup>：我没工夫同你着～。<sup>\[东台\]</sup> ② 因无关紧要的事惹起的气恼。<sup>\[泰兴\]</sup>：不要惹～<sup>\[泰兴\]</sup>  
+1. 【[闲钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_qin.md#闲钱)】`xiaen2 qin2` <small>/ɕiɛ̃2 t͡ɕʰĩ2/<sup>泰兴</sup></small> ① 暂时不需要用的钱<sup>\[东台\]</sup>：我是一个月等不到一个月，哪许有～啊！<sup>\[东台\]</sup> ② 生活必需费用以外的多余的钱。<sup>\[泰兴\]</sup>  
 1. 【[闲生日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_shen_rih.md#闲生日)】`xiaen2 shen1 rih8` <small>/ɕiɛ̃2 sən1 liɪʔ8/<sup>兴化</sup>, /ɕiẽ2 səŋ1 ɻiʔ8/<sup>如皋</sup></small> ① “整生日”以外的生日。<sup>\[如皋\]</sup> ② 虚岁逢十以外的生日。不祝寿，一般举行家宴。<sup>\[如东\]</sup> ③ 与“整生日”相对，指年岁逢十以外的平常生日：今年是～，不热嘈（即不请客祝寿）。‖也称“散生日”。<sup>\[兴化\]</sup>  
 1. 【[闲时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_shr.md#闲时)】`xiaen2 shr2` <sup>[兴化]</sup> 空闲时间，特指农闲：等～陪你出去走走。｜忙时吃干，～吃稀。  
 1. 【[闲时候](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_shr_heu.md#闲时候)】`xiaen2 shr2 heu` <sup>[如皋]</sup> 空闲的时段里。不紧张的日子里。  
@@ -1066,10 +1063,8 @@
 1. 【[𢩨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu.md#𢩨)】`xieu3` <sup>[如皋]</sup> ① 身体轻轻地动：细伢儿～啊～的，把手伸出来啊。 ② 喻恢复力量、创业：你借点儿本钱我。让我～～再还你。  
 1. 【[嗅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu.md#嗅)】`xieu5` <sup>[如东]</sup> 用嘴唇抽吸食物：吃骨髓要用嘴唇～。  
 1. 【[嗅鼻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_pieh_r.md#嗅鼻<sub>儿</sub>)】`xieu5 pieh8 r` <sup>[如皋]</sup> ① 鼻子不断嗅气的动作。 ② 鼻子收缩的样子。  
-1. 【[秀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu.md#秀)】`xieu5` <sup>[如东]</sup> 植物抽穗开花。  
-1. 【[秀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu.md#秀)】`xieu5` <small>/ɕiɤɯ5/<sup>泰兴</sup></small> 禾类植物开花抽穗。<sup>\[泰兴\]</sup>：乡谚：“稻秀螺螺麦秀蚬。”/“麦秀砖盖地（旱），稻秀濛淞雨（雨）。”<sup>\[泰兴\]</sup>  
-1. 【[秀才](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_cae.md#秀才)】`xieu5 cae` <sup>[如东]</sup> ① 明、清时代生员的通称。 ② 泛指读书人。 ③ 有知识的人。  
-1. 【[秀才](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_cae.md#秀才)】`xieu5 cae` <small>/ɕiɤɯ5 t͡ɕʰiɛ/<sup>泰兴</sup></small> 旧时举士的科名。后泛称书生、读书人。<sup>\[泰兴\]</sup>：～遇到兵，有理说不清<sup>\[泰兴\]</sup>｜～不出门，能知天下事<sup>\[泰兴\]</sup>  
+1. 【[秀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu.md#秀)】`xieu5` <small>/ɕiɤɯ5/<sup>泰兴</sup></small> ① 植物抽穗开花。<sup>\[如东\]</sup> ② 禾类植物开花抽穗。<sup>\[泰兴\]</sup>：乡谚：“稻秀螺螺麦秀蚬。”/“麦秀砖盖地（旱），稻秀濛淞雨（雨）。”<sup>\[泰兴\]</sup>  
+1. 【[秀才](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_cae.md#秀才)】`xieu5 cae` <small>/ɕiɤɯ5 t͡ɕʰiɛ/<sup>泰兴</sup></small> ① 明、清时代生员的通称。<sup>\[如东\]</sup> ② 泛指读书人。<sup>\[如东\]</sup> ③ 有知识的人。<sup>\[如东\]</sup> ④ 旧时举士的科名。后泛称书生、读书人。<sup>\[泰兴\]</sup>：～遇到兵，有理说不清<sup>\[泰兴\]</sup>｜～不出门，能知天下事<sup>\[泰兴\]</sup>  
 1. 【[秀才的手巾——包书（输）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_cae_dii_sheu.md#秀才的手巾——包书（输）)】`xieu5 cae dii sheu3 jien1 bo1 shv1` <sup>[东台]</sup>   
 1. 【[秀才遇到兵，有理说不清](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_cae_y_do.md#秀才遇到兵，有理说不清)】`xieu5 cae2 y6 do5 bien1 ieu3 li3 shuh7 beh7 qien1` <sup>[东台]</sup> 没有共同语言，难以沟通。  
 1. 【[秀顶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_dien.md#秀顶)】`xieu5 dien3` <small>/ɕiɤɯ5 tiŋ3/<sup>泰兴</sup></small> ① 秃头，光头，秃顶。 ② 头顶头发脱光，称秀顶。<sup>\[如东\]</sup> ③ 年老秃顶。<sup>\[泰兴\]</sup>  
@@ -1273,8 +1268,7 @@
 1. 【[现沰现](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_dah_xin.md#现沰现)】`xin6 dah7 xin6` <sup>[泰县]</sup> 立即兑现。泰县方言志写“鲜耷鲜”。  
 1. 【[现贩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_faen.md#现贩)】`xin6 faen5` <small>/ɕĩ1 fɛ̃5/<sup>泰兴</sup></small> 骂人语。谓过于炫耀自己的才能、衣着等。<sup>\[泰兴\]</sup>  
 1. 【[现刮现](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_guaeh_xin.md#现刮现)】`xin6 guaeh7 xin6` <small>/ɕiɪ̃6 kuæʔ7 ɕiɪ̃6/<sup>兴化</sup></small> ① 就是当场兑现，不欠账<sup>\[东台\]</sup>：他收到货，立即给钱，～！<sup>\[东台\]</sup> ② 赌现钱，不共赌账。<sup>\[兴化\]</sup> ③ （借）现金交易，不赊欠<sup>\[兴化\]</sup>：我俫～，概不悬欠。也说“现沰现”。<sup>\[兴化\]</sup> ④ 按照约定，钱货两清，当场兑现，不赊不欠<sup>\[泰州\]</sup>：现场促销，买二赠一，～。<sup>\[泰州\]</sup>｜晚上打牌来钱，输掉当场就把钱，～，没得钱的不要来。<sup>\[泰州\]</sup>  
-1. 【[现搳现](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_huaeh_xin.md#现搳现)】`xin6 huaeh7 xin6` <sup>[如皋]</sup> 兑现，不欠账。  
-1. 【[现搳现](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_huaeh_xin.md#现搳现)】`xin6 huaeh7 xin6` <small>/ɕĩ1 xuæʔ7 ɕĩ1/<sup>泰兴</sup></small> 谓当场兑现，不欠账；现金交易。<sup>\[泰兴\]</sup>  
+1. 【[现搳现](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_huaeh_xin.md#现搳现)】`xin6 huaeh7 xin6` <small>/ɕĩ1 xueʔ7 ɕĩ1/<sup>如皋</sup>, /ɕĩ1 xuæʔ7 ɕĩ1/<sup>泰兴</sup></small> ① 兑现，不欠账。<sup>\[如皋\]</sup> ② 谓当场兑现，不欠账；现金交易。<sup>\[泰兴\]</sup>  
 1. 【[现魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_huen.md#现魂)】`xin6 huen2` <sup>[如皋]</sup> 责备稍一显现就消失了：来就来过几天，不要来～！  
 1. 【[现枯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_kv.md#现枯)】`xin6 kv1` <sup>[兴化]</sup> 事情败露：他挪用公款，月终结账的时候～啊。  
 1. 【[现瘌相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_laeh_xian.md#现瘌相)】`xin6 laeh8 xian5` <sup>[泰州]</sup> 比喻隐藏的坏人或造假的坏事暴露：平常望吖他还算老实，直到现在纪委找啊他，他才现吖瘌相。  
@@ -1282,8 +1276,7 @@
 1. 【[现吖现的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_nga_xin_dii.md#现吖现的)】`xin6 nga xin6 dii` <sup>[如皋]</sup> 忽明忽暗忽隐忽现的样子。  
 1. 【[现眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_ngaen.md#现眼)】`xin6 ngaen3` <sup>[如东]</sup> 出丑，丢脸：不要再～吖啦。  
 1. 【[现眼目](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_ngaen_moh.md#现眼目)】`xin6 ngaen3 moh8` <small>/ɕĩ1 ŋẽ3 mɔʔ8/<sup>如皋</sup></small> ① 表示瞧不起所做的事，做了会丢相：他送吖这点儿礼上丈母家去，真真～。<sup>\[如皋\]</sup> ② 出洋相。<sup>\[如东\]</sup>：家去吧，不要在这许～。<sup>\[如东\]</sup> ③ 当场出丑，出洋相<sup>\[东台\]</sup>：他平时不好好练，现在上台～！<sup>\[东台\]</sup>  
-1. 【[现人眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_ren_ngaen.md#现人眼)】`xin6 ren2 ngaen3` <sup>[如东]</sup> 当场丢脸，出洋相：不要在这许～。  
-1. 【[现人眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_ren_ngaen.md#现人眼)】`xin6 ren2 ngaen3` <small>/ɕĩ1 ɻəŋ2 ŋɛ̃3/<sup>泰兴</sup></small> 犹现形，丢架子。<sup>\[泰兴\]</sup>  
+1. 【[现人眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_ren_ngaen.md#现人眼)】`xin6 ren2 ngaen3` <small>/ɕĩ1 ɻəŋ2 ŋɛ̃3/<sup>泰兴</sup></small> ① 当场丢脸，出洋相。<sup>\[如东\]</sup>：不要在这许～。<sup>\[如东\]</sup> ② 犹现形，丢架子。<sup>\[泰兴\]</sup>  
 1. 【[现身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_shen.md#现身)】`xin6 shen1` <sup>[兴化]</sup> 指人在一定场合露面：你在一旁䁃䁃，先覅～。｜“你们明早走去看看，不要～。”（《梼杌闲评》四）  
 1. 【[现世](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_shr.md#现世)】`xin6 shr5` <small>/ɕĩ1 sɿ5/<sup>泰兴</sup>, /ɕiɪ̃5 sɿ5/<sup>泰县</sup></small> ① 出丑，丢脸。<sup>\[如东\]</sup><sup>\[泰兴\]</sup><sup>\[泰州\]</sup>：你不要在外头～。<sup>\[如东\]</sup>｜你滚吖走吧，不要弄吖在这块～。<sup>\[泰州\]</sup> ② 也叫“现世宝”，即出丑，丢脸的意思<sup>\[东台\]</sup>：活～。有时也是昵称<sup>\[东台\]</sup>｜你个～，还带啊礼物。<sup>\[东台\]</sup> ③ 丢人<sup>\[泰县\]</sup>：你不要～，快回家去。<sup>\[泰县\]</sup>  
 1. 【[现世宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_shr_bo.md#现世宝)】`xin6 shr5 bo3` <small>/ɕiɪ̃6 sɿ5 pɔ3/<sup>兴化</sup>, /ɕĩ1 sɿ5 pɔ3/<sup>如皋</sup>, /ɕĩ1 sɿ5 pɔ3/<sup>泰兴</sup></small> ① 贬指出丑、丢脸的人。<sup>\[如皋\]</sup> ② （贬）不肖子弟<sup>\[兴化\]</sup>：“你这～！你老子是个好汉，怎么生出你这个脓包来，这样怕死……”（《说岳全传》六四）<sup>\[兴化\]</sup> ③ 谓不成器的人。<sup>\[泰兴\]</sup>  

@@ -172,8 +172,7 @@
 1. 【[作三四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_saen_sz.md#作三四)】`zah7 saen1 sz5` <sup>[如东]</sup> 一个人发脾气：他又在下～。  
 1. 【[作勺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_shah.md#作勺)】`zah7 shah8` <sup>[泰县]</sup> 大勺子。  
 1. 【[作瘆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_shen.md#作瘆)】`zah7 shen5` <sup>[兴化]</sup> ① 惨状令人惊恐。 ② （引）嫌别人所赠菲薄：舍不得就不要送，覅～！  
-1. 【[作时节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_shr_jih.md#作时节)】`zah7 shr2 jih7` <sup>[兴化]</sup> ① 指交节令时天气变化。 ② 逢时过节家庭成员间发生摩擦：他一到节下就要～，你俫别理他。  
-1. 【[作时节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_shr_jih.md#作时节)】`zah7 shr2 jih7` <small>/t͡sɑʔ7 sɿ2 t͡ɕiʔ7/<sup>泰兴</sup></small> 逢到时节就产生矛盾。<sup>\[泰兴\]</sup>  
+1. 【[作时节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_shr_jih.md#作时节)】`zah7 shr2 jih7` <small>/t͡saʔ7 sɿ2 t͡ɕiɪʔ7/<sup>兴化</sup>, /t͡sɑʔ7 sɿ2 t͡ɕiʔ7/<sup>泰兴</sup></small> ① 指交节令时天气变化。<sup>\[兴化\]</sup> ② 逢时过节家庭成员间发生摩擦<sup>\[兴化\]</sup>：他一到节下就要～，你俫别理他。<sup>\[兴化\]</sup> ③ 逢到时节就产生矛盾。<sup>\[泰兴\]</sup>  
 1. 【[作世](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_shr.md#作世)】`zah7 shr5` <small>/t͡saʔ7 sɿ5/<sup>如皋</sup>, /t͡sɑʔ7 sɿ5/<sup>泰兴</sup>, /t͡sɑʔ7 sɿ5/<sup>泰县</sup></small> ① 责语，指槽蹋、浪费<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：他一买多少，吃不了就倒掉，真～啊！<sup>\[如皋\]</sup>｜才买家来，就被他～作掉啊<sup>\[泰兴\]</sup> ② 令人作呕<sup>\[泰县\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>：烂污糟糟真～。<sup>\[泰县\]</sup>  
 1. 【[作世界](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_shr_gae.md#作世界)】`zah7 shr5 gae` <sup>[兴化]</sup> 把环境弄得一团糟：这些邋遢事你到外边去弄，覅在家里～！  
 1. 【[作耍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_shua.md#作耍)】`zah7 shua3` <small>/t͡saʔ7 sua3/<sup>兴化</sup></small> 戏弄、捉弄、开玩笑<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：大家相他调皮，老拿他～。<sup>\[兴化\]</sup>｜“……这却是海老爷故意与你～，你怎么却认真了……？”（《海公大红袍》二一）<sup>\[兴化\]</sup>｜你不要再拿人家老实人～唻。<sup>\[泰州\]</sup>  
@@ -193,8 +192,7 @@
 1. 【[作天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_tin.md#作天)】`zah7 tin1` <small>/t͡sɑʔ7 tʰiɪ̃1/<sup>泰县</sup></small> ① 天气变坏。<sup>\[泰县\]</sup> ② 小孩哭闹。<sup>\[泰县\]</sup> ③ 胡乱折腾<sup>\[泰州\]</sup>：你指望他这个大少爷烧饭，不要～吧。<sup>\[泰州\]</sup>｜这个东西不喊木匠就弄得起来啊，你就歇歇神吧，不要～哿好？<sup>\[泰州\]</sup> ④ 已经痊愈的伤口以及风湿性关节炎之类患者因阴雨天气而疼痛<sup>\[泰州\]</sup>：他身上的刀口子～，一落雨就疼。<sup>\[泰州\]</sup>｜天不好，这条老寒腿～，有疼起来啊唻。<sup>\[泰州\]</sup>  
 1. 【[作天色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_tin_seh.md#作天色)】`zah7 tin1 seh7` <sup>[如东]</sup> ① 天气变坏：这些日子～。 ② 小孩哭闹：这个伢儿～，老是哭。  
 1. 【[作掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_tio.md#作掉)】`zah7 tio` 因胡乱折腾而浪费<sup>\[泰州\]</sup>：你弄到最后连个二本都不曾有得上，家里人把钱都用吖～啊唻。<sup>\[泰州\]</sup>  
-1. 【[作掉啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_tio_a.md#作掉啊)】`zah7 tio a` <sup>[如皋]</sup> 失去了，浪费了：他把个好机会～。  
-1. 【[作掉啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_tio_a.md#作掉啊)】`zah7 tio a` <small>/t͡sɑʔ7 tʰiɔ a/<sup>泰兴</sup></small> 浪费，糟蹋。\[泰兴：（泰兴口语又“作掉lei”）\]：箇们好的饭把狗子吃，不是～啦？<sup>\[泰兴\]</sup>  
+1. 【[作掉啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_tio_a.md#作掉啊)】`zah7 tio a` <small>/t͡saʔ7 tʰiɔ a/<sup>如皋</sup>, /t͡sɑʔ7 tʰiɔ a/<sup>泰兴</sup></small> ① 失去了，浪费了<sup>\[如皋\]</sup>：他把个好机会～。<sup>\[如皋\]</sup> ② 浪费，糟蹋。\[泰兴：（泰兴口语又“作掉lei”）\]：箇们好的饭把狗子吃，不是～啦？<sup>\[泰兴\]</sup>  
 1. 【[作跳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_tio.md#作跳)】`zah7 tio5` <sup>[如皋]</sup> 警告：你不要疯，竹棒儿在～！（表示要用它打你。）  
 1. 【[作涴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_u.md#作涴)】`zah7 u5` <sup>[如皋]</sup> 大小便失禁。  
 1. 【[作涴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_un.md#作涴)】`zah7 un5` <sup>[东台]</sup> 污染、肮脏，令人恶心。  
@@ -861,8 +859,7 @@
 1. 【[枕头席<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_teu_qieh_r.md#枕头席<sub>儿</sub>)】`zhen3 teu qieh8 r` <sup>[如皋]</sup> 夏日给枕头加的席子。  
 1. 【[枕头芯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_teu_xien_zz.md#枕头芯子)】`zhen3 teu xien1 zz` <sup>[如皋]</sup> 枕内衬物。  
 1. 【[枕头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_teu.md#枕头)】`zhen3 teu2` <sup>[如东]</sup> 人睡觉时垫在头颈下面的一只长条形的物体，多数是布料做成的，也有籐条、木板、陶瓷制作的。  
-1. 【[枕头套子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_teu_to_zz.md#枕头套子)】`zhen3 teu2 to5 zz` <sup>[东台]</sup> 罩在枕头外面的布套。  
-1. 【[枕头套子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_teu_to_zz.md#枕头套子)】`zhen3 teu2 to5 zz` <small>/t͡səŋ3 tʰəɪ2 tʰɔ5 t͡sɿ/<sup>泰兴</sup></small> 枕套。<sup>\[泰兴\]</sup>  
+1. 【[枕头套子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_teu_to_zz.md#枕头套子)】`zhen3 teu2 to5 zz` <small>/t͡səŋ3 tʰəɪ2 tʰɔ5 t͡sɿ/<sup>泰兴</sup></small> ① 罩在枕头外面的布套。<sup>\[东台\]</sup> ② 枕套。<sup>\[泰兴\]</sup>  
 1. 【[疹子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zz.md#疹子)】`zhen3 zz` <sup>[东台]</sup> 皮肤病变，由外感刺激所致，有风～，湿～之分。  
 1. 【[紾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen.md#紾)】`zhen3` <sup>[泰州]</sup> 两手紧握织品，分别向相反方向用力，使织物收紧，挤出其中的水：你去～个手巾把子上来给爷爷揩脸。｜衣裳汏啊好啊唻，你把衣裳～吖干吖㫰起来。  
 1. 【[紾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zz.md#紾子)】`zhen3 zz` <sup>[东台]</sup> 线条状物体缠绞、扭拧形成的螺旋式纹路：搓绳就要上～，拆绳就要放～。  
@@ -1381,8 +1378,7 @@
 1. 【[纸牌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_pae.md#纸牌)】`zhr3 pae2` <small>/t͡sɿ3 pʰɛ2/<sup>泰兴</sup></small> 以硬纸片制作的博弈之具。长条形，印有各种点子、图案或文字，形式多样，用法各异。为乡人所爱。<sup>\[泰兴\]</sup>  
 1. 【[纸币](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_pi.md#纸币)】`zhr3 pi6` <sup>[如东]</sup> 纸制的货币。一般由国家银行或政府授权的银行发行。  
 1. 【[纸票子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_pio_zz.md#纸票子)】`zhr3 pio5 zz` <sup>[如皋]</sup> 纸币，钞票。别于硬币。  
-1. 【[纸钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_qin.md#纸钱)】`zhr3 qin2` <sup>[东台]</sup> 祭祀祖先的纸锭，上面涂了一层薄锡。  
-1. 【[纸钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_qin.md#纸钱)】`zhr3 qin2` <small>/t͡sɿ3 t͡ɕʰĩ2/<sup>泰兴</sup></small> 迷信者在祭祀时焚化给死人或鬼神当钱用的纸。旧时纸上形状有圆形方孔如铜钱者。<sup>\[泰兴\]</sup>  
+1. 【[纸钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_qin.md#纸钱)】`zhr3 qin2` <small>/t͡sɿ3 t͡ɕʰĩ2/<sup>泰兴</sup></small> ① 祭祀祖先的纸锭，上面涂了一层薄锡。<sup>\[东台\]</sup> ② 迷信者在祭祀时焚化给死人或鬼神当钱用的纸。旧时纸上形状有圆形方孔如铜钱者。<sup>\[泰兴\]</sup>  
 1. 【[纸伞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_saen.md#纸伞)】`zhr3 saen3` <sup>[如皋]</sup> 旧时用的浙江生产的竹骨油纸面雨伞。有别于洋伞、布伞。  
 1. 【[纸头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_teu.md#纸头)】`zhr3 teu` <sup>[兴化]</sup> 纸。  
 1. 【[纸头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_teu_zz.md#纸头子)】`zhr3 teu2 zz` <sup>[兴化]</sup> 大张纸切小后产生的边角。  
@@ -1423,8 +1419,7 @@
 1. 【[抓拿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_na.md#抓拿)】`zhua1 na2` <sup>[兴化]</sup> ① 可凭借或依靠的人或物：参考书捱人借走啊，轮到自己要用倒没～啊。｜每个单位有专人负责，我俫下去才有～。 ② 有据可查：“嘿，卧龙先生，你的话都是空的，叫人没处～……”（《火烧赤壁》二）  
 1. 【[抓泥螺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_ni_lu.md#抓泥螺)】`zhua1 ni2 lu1` <sup>[如东]</sup> 退潮后，泥螺在沙面上蠕行。捕捉者用泥螺耙儿由前向后一拉，即把泥螺扒进网兜然后倒人入海子。这种捕捉方法称抓泥螺。  
 1. 【[抓寻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_qien.md#抓寻)】`zhua1 qien2` <sup>[兴化]</sup> ① 寻找：这吖大的县城，囥个把人到哪许～。 ② 抓挠、对付事情的办法：宝玉急的手脚正没～处，只见贾政的小厮走来，逼着他出去了。（《红楼梦》三三）  
-1. 【[抓肉望脸上沰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_roh_van_lin.md#抓肉望脸上沰)】`zhua1 roh8 van6 lin3 shan6 dah7` <sup>[东台]</sup> ［喻］指装门面、充好汉。  
-1. 【[抓肉望脸上沰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_roh_van_lin.md#抓肉望脸上沰)】`zhua1 roh8 van6 lin3 shan6 dah7` <small>/t͡suɑ1 ɻɔʔ8 uɑŋ1 lĩ3 sɑŋ1 tɑʔ7/<sup>泰兴</sup></small> 喻自我标榜，美化自己。<sup>\[泰兴\]</sup>  
+1. 【[抓肉望脸上沰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_roh_van_lin.md#抓肉望脸上沰)】`zhua1 roh8 van6 lin3 shan6 dah7` <small>/t͡suɑ1 ɻɔʔ8 uɑŋ1 lĩ3 sɑŋ1 tɑʔ7/<sup>泰兴</sup></small> ① ［喻］指装门面、充好汉。<sup>\[东台\]</sup> ② 喻自我标榜，美化自己。<sup>\[泰兴\]</sup>  
 1. 【[抓色<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_sheh_r.md#抓色<sub>儿</sub>)】`zhua1 sheh7 r` <sup>[如东]</sup> 掷色儿。也叫掷骰子。  
 1. 【[抓手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_sheu.md#抓手)】`zhua1 sheu` <sup>[兴化]</sup> 凭借、依靠、头绪：有专人负责，工作才有～。｜事情没得～，真难弄。  
 1. 【[抓手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_sheu.md#抓手)】`zhua1 sheu3` <small>/t͡suɑ1 ɕiɤɯ/<sup>泰兴</sup></small> ① 器物可以抓拿的部位。喻指开展某项工作的着手处。<sup>\[东台\]</sup> ② 固定在门窗或者橱柜门屉上的，方便用手开关的部件，多用木头或者金属制成。<sup>\[泰州\]</sup> ③ 器物供手抓拿的地方。借喻处理事情的着手之处。<sup>\[泰兴\]</sup>：处理箇桩事真正没～<sup>\[泰兴\]</sup>  
@@ -1655,8 +1650,7 @@
 1. 【[转头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_teu.md#转头)】`zhun3 teu` <sup>[如皋]</sup> 见“转来”。  
 1. 【[转头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_teu.md#转头)】`zhun3 teu2` <small>/t͡sũ3 tʰɤ2/<sup>兴化</sup>, /t͡sʊ̃3 tʰei2/<sup>如皋</sup></small> ① 往回走。<sup>\[如皋\]</sup> ② 下次。<sup>\[如皋\]</sup> ③ 过一会儿：你的事情～再说。<sup>\[兴化\]</sup> ④ 旧指借债到期不还，即本利相加，重新立券计息：“……况且利钱又重，三个月不还就要～……”（《梼杌闲评》十三）<sup>\[兴化\]</sup>  
 1. 【[转舵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_tu.md#转舵)】`zhun3 tu6` <sup>[兴化]</sup> （喻）改变立场或意向：他看势头不对，赶忙～。｜“再不～，船就要翻啦！”（马春阳：《春风吹又生》）  
-1. 【[转弯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_vaen.md#转弯)】`zhun3 vaen1` <sup>[东台]</sup> 指改变原先的主意。  
-1. 【[转弯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_vaen.md#转弯)】`zhun3 vaen1` <small>/t͡sʊ̃3 ʋɛ̃1/<sup>泰兴</sup></small> ① 改变方向 ② （倍数之外还）有余<sup>\[泰兴\]</sup>：那天子我做得多，抵到他两个还～<sup>\[泰兴\]</sup>  
+1. 【[转弯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_vaen.md#转弯)】`zhun3 vaen1` <small>/t͡sʊ̃3 ʋɛ̃1/<sup>泰兴</sup></small> ① 指改变原先的主意。<sup>\[东台\]</sup> ② 改变方向 ③ （倍数之外还）有余<sup>\[泰兴\]</sup>：那天子我做得多，抵到他两个还～<sup>\[泰兴\]</sup>  
 1. 【[转性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_xien.md#转性)】`zhun3 xien5` <small>/t͡sũ3 ɕin5/<sup>兴化</sup>, /t͡sʊ̃3 ɕiəŋ5/<sup>如皋</sup></small> ① 天气将变坏。<sup>\[如皋\]</sup> ② 早春天气由晴渐暖而突变为阴冷：天又～吖。<sup>\[兴化\]</sup>  
 1. 【[转爪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_zho.md#转爪)】`zhun3 zho3` <sup>[如皋]</sup> 变化、转移、回旋：饭才吃的，肚里还不曾～，再吃是吃不下去；他正在胡说，我不放他～，当面白谎。  
 1. 【[转中转](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_zhon_zhun.md#转中转)】`zhun3 zhon1 zhun3` <small>/t͡sũ3 t͡soŋ1 t͡sũ3/<sup>兴化</sup></small> ① 经过几次转手<sup>\[兴化\]</sup>：这封台北来信，经过～隔头两个月才收到。<sup>\[兴化\]</sup> ② 甲转交或专卖给乙，乙转交或专卖给丙，丙转交或者专门给丁<sup>\[泰州\]</sup>：这封信～，过啊一个多月才到小王手上。<sup>\[泰州\]</sup>｜两块钱一颗的药出咖厂，几个～，能卖到几十块。<sup>\[泰州\]</sup>  
@@ -1879,8 +1873,7 @@
 1. 【[灶饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_faen.md#灶饭)】`zo5 faen6` <sup>[如皋]</sup> 腊月二十四夜送灶时献给灶神的赤豆儿饭。  
 1. 【[灶家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_ga.md#灶家)】`zo5 ga` <small>/t͡sɔ5 kɑ/<sup>泰兴</sup></small> 厨房。<sup>\[泰兴\]</sup>  
 1. 【[灶家老爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_ga_lo_i.md#灶家老爷)】`zo5 ga lo3 i` <sup>[兴化]</sup> 灶神爷。也称“灶家菩萨”。  
-1. 【[灶家菩萨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_ga_pv_saeh.md#灶家菩萨)】`zo5 ga pv2 saeh` <sup>[兴化]</sup> 灶神爷。  
-1. 【[灶家菩萨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_ga_pv_saeh.md#灶家菩萨)】`zo5 ga pv2 saeh` <small>/t͡sɔ5 kɑ pʰu2 ɕiæʔ/<sup>泰兴</sup></small> 灶神的俗称。也称“灶家老爷”。<sup>\[泰兴\]</sup>：乡人云：“～上天，有句说句。”<sup>\[泰兴\]</sup>  
+1. 【[灶家菩萨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_ga_pv_saeh.md#灶家菩萨)】`zo5 ga pv2 saeh` <small>/t͡sɔ5 ka pʰu2 sæʔ/<sup>兴化</sup>, /t͡sɔ5 kɑ pʰu2 ɕiæʔ/<sup>泰兴</sup></small> ① 灶神爷。<sup>\[兴化\]</sup> ② 灶神的俗称。也称“灶家老爷”。<sup>\[泰兴\]</sup>：乡人云：“～上天，有句说句。”<sup>\[泰兴\]</sup>  
 1. 【[灶搁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_gah.md#灶搁)】`zo5 gah7` <sup>[兴化]</sup> 见“灶面”。  
 1. 【[灶阁老爷上天——有句说句](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_gah_lo_i.md#灶阁老爷上天——有句说句)】`zo5 gah7 lo3 i shan6 tin1 ieu3 jy5 shuh7 jy5` <sup>[东台]</sup>   
 1. 【[灶格佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_geh_lo_r.md#灶格佬<sub>儿</sub>)】`zo5 geh7 lo3 r` <sup>[如东]</sup> 灶格菩萨。  

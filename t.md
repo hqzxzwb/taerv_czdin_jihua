@@ -1687,8 +1687,7 @@
 1. 【[秃头秃脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_teu_toh_no.md#秃头秃脑)】`toh7 teu2 toh7 no3` <sup>[兴化]</sup> 说话、写文章没有头尾，使人不明所以：你的信～的，我也不晓得甚的意思。  
 1. 【[秃头秃脑的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_teu_toh_no.md#秃头秃脑的)】`toh7 teu2 toh7 no3 dii` <sup>[如皋]</sup> ① 状写作文、说话直截了当，无上下文连贯。 ② 讲不清楚头尾：他跑到这许，一头喘，一头～说咖几句话就昏过去啊。  
 1. 【[秃爪龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_zho_lon.md#秃爪龙)】`toh7 zho3 lon2` <sup>[兴化]</sup> （喻）对截去或失去手指的人一种贬义说法。  
-1. 【[秃子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_zz.md#秃子)】`toh7 zz` <sup>[如东]</sup> ① 没有头发。 ② 没有头发的人。  
-1. 【[秃子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_zz.md#秃子)】`toh7 zz` <small>/tʰɔʔ7 t͡sɿ/<sup>泰兴</sup></small> 头发脱落的人。<sup>\[泰兴\]</sup>  
+1. 【[秃子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_zz.md#秃子)】`toh7 zz` <small>/tʰɔʔ7 t͡sɿ/<sup>泰兴</sup></small> ① 没有头发。<sup>\[如东\]</sup> ② 没有头发的人。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
 1. 【[毒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh.md#毒)】`toh8` <small>/tʰɔʔ8/<sup>兴化</sup>, /tʰɔʔ8/<sup>如皋</sup></small> ① 仇恨：两下的结咖～。<sup>\[如皋\]</sup> ② 目光敏锐：他的眼睛～吭，一眼就捱他认出来啊！<sup>\[如皋\]</sup> ③ 极：我把他恨吖～咖！<sup>\[如皋\]</sup> ④ 恨。<sup>\[如东\]</sup>：她对他～死啊。<sup>\[如东\]</sup> ⑤ 狠。<sup>\[如东\]</sup>：这一手真～。<sup>\[如东\]</sup> ⑥ 作为形容词使用。目光敏锐<sup>\[东台\]</sup>：他眼睛多～，一眼就看出来了。<sup>\[东台\]</sup> ⑦ 残忍、凶狠、厉害。<sup>\[东台\]</sup> ⑧ （借）形容人目光锐利<sup>\[兴化\]</sup>：人眼睛有～。<sup>\[兴化\]</sup>｜老张眼睛真～，一眼就看出他俫关系不正常。<sup>\[兴化\]</sup> ⑨ 辨别事物的能力又强又快<sup>\[泰州\]</sup>：这小伙眼睛～，一眼就看出是假货。<sup>\[泰州\]</sup>  
 1. 【[毒滑油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_huaeh_ieu.md#毒滑油)】`toh8 huaeh8 ieu2` <sup>[兴化]</sup> （戏）唾液：捱小虫子咬啊，～一搽就没事啊。  
 1. 【[毒日头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_rih_teu.md#毒日头)】`toh8 rih8 teu` <sup>[兴化]</sup> 盛夏强烈的阳光：“大～地下，出什么神呢？”（《红楼梦》三二）‖也说“毒太阳”。  
@@ -1942,8 +1941,7 @@
 1. 【[驼子跌跟头——两头不落实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_zz_dih_gen.md#驼子跌跟头——两头不落实)】`tu2 zz dih7 gen1 teu laen3 teu2 beh7 lah8 sheh` <sup>[东台]</sup>   
 1. 【[驼子害搭背——一背（倍）抵几背（倍）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_zz_hae_daeh.md#驼子害搭背——一背（倍）抵几背（倍）)】`tu2 zz hae6 daeh7 bei5 ieh7 bei5 di3 ji3 bei5` <sup>[东台]</sup>   
 1. 【[驼子游水——中间冒尖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_zz_ieu_shuei.md#驼子游水——中间冒尖)】`tu2 zz ieu2 shuei3 zhon1 gaen1 mo6 jin1` <sup>[东台]</sup>   
-1. 【[妥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#妥)】`tu3` <sup>[兴化]</sup> ① 行、好了：～啊，不要再弄吖！ ② 死亡的隐语：王老九昨儿晚上～下来啊。  
-1. 【[妥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#妥)】`tu3` <small>/tʰɤɯ3/<sup>泰兴</sup></small> 结束，完毕。<sup>\[泰兴\]</sup>  
+1. 【[妥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#妥)】`tu3` <small>/tʰo3/<sup>兴化</sup>, /tʰɤɯ3/<sup>泰兴</sup></small> ① 行、好了<sup>\[兴化\]</sup>：～啊，不要再弄吖！<sup>\[兴化\]</sup> ② 死亡的隐语<sup>\[兴化\]</sup>：王老九昨儿晚上～下来啊。<sup>\[兴化\]</sup> ③ 结束，完毕。<sup>\[泰兴\]</sup>  
 1. 【[妥啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_a.md#妥啊)】`tu3 a` <sup>[东台]</sup> 事情已经办妥，相当于“好了！”：～，水开啊，不要再烧！  
 1. 【[椭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#椭)】`tu3` <sup>[如东]</sup> 弧圆凸起：他𨀛在那里，屁股～吖下。  
 1. 【[椭屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_pi_gu.md#椭屁股)】`tu3 pi5 gu` <sup>[如皋]</sup> 臀部后凸偏下的体型。  

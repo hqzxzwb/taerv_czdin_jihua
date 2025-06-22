@@ -1034,8 +1034,7 @@
 1. 【[青菜子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_cae_zz.md#青菜子)】`qien1 cae5 zz3` <sup>[如东]</sup> 十字花科植物青菜子。  
 1. 【[青春年少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_chuen_nin_sho.md#青春年少)】`qien1 chuen1 nin2 sho5` <sup>[兴化]</sup> 人的年青时期：你要趁～多读点儿书。｜“你这样～，愁没有好女儿匹配……”（《梼杌闲评》五）  
 1. 【[青春市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_chuen_shr.md#青春市)】`qien1 chuen1 shr6` <sup>[如东]</sup> 青年时代，一般指16岁至24岁之间的一段时期：渡过～。  
-1. 【[青滴滴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_dieh_dieh.md#青滴滴)】`qien1 dieh7 dieh7` <sup>[兴化]</sup> 色泽鲜绿：粽箬看上去水淋淋的，～的。（刘仁前《香河风情·香河人家》）  
-1. 【[青滴滴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_dieh_dieh.md#青滴滴)】`qien1 dieh7 dieh7` <small>/t͡ɕʰiŋ1 tiʔ7 tiʔ7/<sup>泰兴</sup></small> 碧青碧绿<sup>\[泰兴\]</sup>  
+1. 【[青滴滴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_dieh_dieh.md#青滴滴)】`qien1 dieh7 dieh7` <small>/t͡ɕʰin1 tiɪʔ7 tiɪʔ7/<sup>兴化</sup>, /t͡ɕʰiŋ1 tiʔ7 tiʔ7/<sup>泰兴</sup></small> ① 色泽鲜绿<sup>\[兴化\]</sup>：粽箬看上去水淋淋的，～的。（刘仁前《香河风情·香河人家》）<sup>\[兴化\]</sup> ② 碧青碧绿<sup>\[泰兴\]</sup>  
 1. 【[青的间紫的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_dii_gaen_zz.md#青的间紫的)】`qien1 dii gaen5 zz3 dii` <sup>[如皋]</sup> 青中有紫的样子。常状皮肤伤势。  
 1. 【[青拂拂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_feh_feh.md#青拂拂)】`qien1 feh7 feh7` <sup>[兴化]</sup> 形容青翠鲜嫩的样子：田里的秧苗～的。  
 1. 【[青亘亘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_gen_gen.md#青亘亘)】`qien1 gen gen5` <sup>[兴化]</sup> 形容葱绿茂盛：田岸上的桃树红了，柳树绿了，那一望无际的麦苗～地长高了。（马春阳《四十块钱》）  
@@ -1054,8 +1053,7 @@
 1. 【[青篱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_li.md#青篱)】`qien1 li2` <sup>[如皋]</sup> 大叶黄杨。  
 1. 【[青麻头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ma_teu.md#青麻头)】`qien1 ma2 teu2` <sup>[如皋]</sup> 蟀蟋名。  
 1. 【[青篾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_mih.md#青篾)】`qien1 mih8` <sup>[如皋]</sup> 竹篾的面层，与黄篾相对。  
-1. 【[青苗会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_mio_huei.md#青苗会)】`qien1 mio2 huei6` <sup>[如皋]</sup> 旧时乡间请夏巫主持的祭社神会。  
-1. 【[青苗会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_mio_huei.md#青苗会)】`qien1 mio2 huei6` <small>/t͡ɕʰiŋ1 miɔ2 xuəɪ1/<sup>泰兴</sup></small> 旧时祭祀土地神的一种迷信活动。常演小戏、说书等，企望五谷丰登。时间一般在三麦登场前。<sup>\[泰兴\]</sup>  
+1. 【[青苗会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_mio_huei.md#青苗会)】`qien1 mio2 huei6` <small>/t͡ɕʰiəŋ1 miɔ2 xuei1/<sup>如皋</sup>, /t͡ɕʰiŋ1 miɔ2 xuəɪ1/<sup>泰兴</sup></small> ① 旧时乡间请夏巫主持的祭社神会。<sup>\[如皋\]</sup> ② 旧时祭祀土地神的一种迷信活动。常演小戏、说书等，企望五谷丰登。时间一般在三麦登场前。<sup>\[泰兴\]</sup>  
 1. 【[青薄味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_pah_vei.md#青薄味)】`qien1 pah vei6` <sup>[兴化]</sup> 像没有煮熟的菜或没有成熟的瓜果那种口感：一股～。  
 1. 【[青肨气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_pan_qi.md#青肨气)】`qien1 pan1 qi5` <sup>[东台]</sup> ① 生食未成熟的水果、蔬菜苦涩的口感。 ② 绿色植物摆久了，发出的一种难闻的气味。（《广韵》“肨，匹绛切，胀臭貌。”）  
 1. 【[青皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_pi.md#青皮)】`qien1 pi2` <small>/t͡ɕʰin1 pʰi2/<sup>兴化</sup></small> ① 无赖之辈<sup>\[兴化\]</sup>：他虽是好人家子弟，交的却是一帮～光蛋。<sup>\[兴化\]</sup>｜……三等打手都是光棍～一流人物。（《四杰传》三四）<sup>\[兴化\]</sup> ② 俗称无赖流氓，旧时此辈多刺青者，故名<sup>\[泰州\]</sup>：这个老家伙少年时候是东街上的～。<sup>\[泰州\]</sup>  
@@ -1642,8 +1640,7 @@
 1. 【[穷𠵹丧，富烧香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_gan_san_fv.md#穷𠵹丧，富烧香)】`qion2 gan1 san1 fv5 sho1 xian1` （俗语）因为穷困而争吵不休，因为富有而祈求更富。<sup>\[东台\]</sup>  
 1. 【[穷锅门，富水缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_gu_men_fv.md#穷锅门，富水缸)】`qion2 gu1 men fv5 shuei3 gan` <small>/t͡ɕʰiɔŋ2 kɤɯ1 məŋ fʋ5 suəɪ3 kɑŋ/<sup>泰兴</sup></small> 乡人防火谚语。谓锅门要清爽，水缸要满，以防火灾。<sup>\[泰兴\]</sup>  
 1. 【[穷锅堂富水缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_gu_tan_fv.md#穷锅堂富水缸)】`qion2 gu1 tan2 fv5 shuei3 gan1` <sup>[东台]</sup> 厨房里草要少水要足。  
-1. 【[穷光蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_guan_taen.md#穷光蛋)】`qion2 guan1 taen6` <sup>[泰州]</sup> 穷得一无所有的人。  
-1. 【[穷光蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_guan_taen.md#穷光蛋)】`qion2 guan1 taen6` <small>/t͡ɕʰiɔŋ2 kuɑŋ1 tʰɛ̃1/<sup>泰兴</sup></small> 谓一无所有的人家或个人。<sup>\[泰兴\]</sup>  
+1. 【[穷光蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_guan_taen.md#穷光蛋)】`qion2 guan1 taen6` <small>/t͡ɕʰiɔŋ2 kuɑŋ1 tʰɛ̃1/<sup>泰兴</sup></small> ① 穷得一无所有的人。<sup>\[泰州\]</sup> ② 谓一无所有的人家或个人。<sup>\[泰兴\]</sup>  
 1. 【[穷骨头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_gueh_teu.md#穷骨头)】`qion2 gueh7 teu` <small>/t͡ɕʰiɔŋ2 kuəʔ7 tʰəɪ/<sup>泰兴</sup></small> 穷人，穷光蛋。多作责人语。<sup>\[泰兴\]</sup>  
 1. 【[穷鬼杀叫鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_guei_shaeh_jio.md#穷鬼杀叫鬼)】`qion2 guei3 shaeh7 jio5 guei3` <sup>[东台]</sup> 穷到极点的鬼杀害不断叫苦的鬼。［喻］身处困境的人们为了各自利益相互争斗。  
 1. 【[穷鬼杀醮鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_guei_shaeh_jio.md#穷鬼杀醮鬼)】`qion2 guei3 shaeh7 jio5 guei3` <sup>[如皋]</sup> 极贫者之间的欺压争斗。  
@@ -1656,13 +1653,11 @@
 1. 【[穷欢妗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_hun_xin.md#穷欢妗)】`qion2 hun1 xin1` <sup>[兴化]</sup> 在困境中仍然寻欢作乐。  
 1. 【[穷急负过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_jieh_fv_gu.md#穷急负过)】`qion2 jieh7 fv6 gu1` <sup>[泰州]</sup> 因为贫穷而对某些可以获取利益的事表现出的迫不急待、不顾一切态度：你慢吖点儿吃，不得人同你抢，～的样子，怎吖好啊。｜听说单位分东西，这小伙～的，一大老早就来啊。  
 1. 【[穷急负过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_jieh_fv_gu.md#穷急负过)】`qion2 jieh7 fv6 gu1-fv1` <sup>[东台]</sup> 穷困潦倒，急于吃喝或捞钱。泛指过急，以至行为莽撞的样子。也作“穷急吼吼”。  
-1. 【[穷急吼吼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_jieh_heu_heu.md#穷急吼吼)】`qion2 jieh7 heu3 heu3` <sup>[如皋]</sup> 吃相粗鄙：～的  
-1. 【[穷急吼吼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_jieh_heu_heu.md#穷急吼吼)】`qion2 jieh7 heu3 heu3` <small>/t͡ɕʰiɔŋ2 t͡ɕiʔ7 xəɪ3 xəɪ3/<sup>泰兴</sup></small> 急着要去办不一定要急办的事。<sup>\[泰兴\]</sup>  
+1. 【[穷急吼吼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_jieh_heu_heu.md#穷急吼吼)】`qion2 jieh7 heu3 heu3` <small>/t͡ɕʰiɔŋ2 t͡ɕiəʔ7 xei3 xei3/<sup>如皋</sup>, /t͡ɕʰiɔŋ2 t͡ɕiʔ7 xəɪ3 xəɪ3/<sup>泰兴</sup></small> ① 吃相粗鄙。<sup>\[如皋\]</sup>：～的<sup>\[如皋\]</sup> ② 急着要去办不一定要急办的事。<sup>\[泰兴\]</sup>  
 1. 【[穷嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_jy.md#穷嘴)】`qion2 jy3` <small>/t͡ɕʰiɔŋ2 t͡ɕy3/<sup>如皋</sup>, /t͡ɕʰioŋ2 t͡ɕy3/<sup>泰县</sup></small> ① 唠叨不停。<sup>\[如皋\]</sup> ② 啰唆嘴。<sup>\[如皋\]</sup> ③ 嘴巴啰唆，唠叨。<sup>\[如皋\]</sup> ④ 啰唆：不要一天到晚～说个不停。<sup>\[泰县\]</sup> ⑤ 不停地说<sup>\[泰州\]</sup>：他到哪块都是～，听吖他一个人说。<sup>\[泰州\]</sup>  
 1. 【[穷嘴擸𢶍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_jy_laeh_saeh.md#穷嘴擸𢶍)】`qion2 jy3 laeh8 saeh` <sup>[泰州]</sup> 骂人放肆地絮絮叨叨说个不停：你这马马儿也是的，他倒已经不开口唻，你说两句就拉倒唻，侭吖在这块～的，烦煞咖。  
 1. 【[穷开心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_kae_xien.md#穷开心)】`qion2 kae1 xien1` <small>/t͡ɕʰioŋ2 kʰɛ1 ɕin1/<sup>兴化</sup>, /t͡ɕʰiɔŋ2 kʰɛ1 ɕiŋ1/<sup>泰兴</sup></small> ① 苦中作乐<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：那年头，肚子吃不饱，还要唱歌跳舞，真是～。<sup>\[兴化\]</sup> ② 拿穷人开心<sup>\[兴化\]</sup>：“小姐可不要拿我们这样的人～”。（毕飞宇《上海往事》）<sup>\[兴化\]</sup> ③ 身处困境仍然苦中取乐<sup>\[泰州\]</sup>：下个月工资都拿不到唻，你还有心肠～。<sup>\[泰州\]</sup>  
-1. 【[穷快活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_kuae_huh.md#穷快活)】`qion2 kuae5 huh` <sup>[泰州]</sup> 在处境困难时仍然自得其乐。  
-1. 【[穷快活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_kuae_huh.md#穷快活)】`qion2 kuae5 huh` <small>/t͡ɕʰiɔŋ2 kʰuɛ5 xʊʔ/<sup>泰兴</sup></small> 穷困中寻找欢乐。\[泰兴：“快活”又音 kuae5 uah\]  
+1. 【[穷快活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_kuae_huh.md#穷快活)】`qion2 kuae5 huh` <small>/t͡ɕʰiɔŋ2 kʰuɛ5 xʊʔ/<sup>泰兴</sup></small> ① 在处境困难时仍然自得其乐。<sup>\[泰州\]</sup> ② 穷困中寻找欢乐。\[泰兴：“快活”又音 kuae5 uah\]  
 1. 【[穷快活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_kuae_huh.md#穷快活)】`qion2 kuae5 huh8` <sup>[兴化]</sup> 在困境中仍然寻欢作乐：你覅～吧，先把儿子的学费愁愁！‖也作“穷欢妗”。  
 1. 【[穷忙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_man.md#穷忙)】`qion2 man2` <small>/t͡ɕʰiɔŋ2 mɑŋ2/<sup>泰兴</sup></small> ① 事情繁杂，忙忙碌碌<sup>\[东台\]</sup>：我一天到晚～，还忙不出个头绪来。<sup>\[东台\]</sup> ② 无意义地极其忙碌，多作自嘲之语<sup>\[泰州\]</sup>：这些时店里～，一直不曾有时间来看你。<sup>\[泰州\]</sup> ③ 为了生计而奔忙劳碌；自谦、客套语。<sup>\[泰兴\]</sup>：近日～，无暇拜望。<sup>\[泰兴\]</sup>  
 1. 【[穷木匠没得两把锉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_moh_qian_meh.md#穷木匠没得两把锉)】`qion2 moh8 qian6 meh8 deh7 laen3 ba3 cu5` <sup>[东台]</sup> 喻指穷人或能力弱的人没有其它资本和办法。  
@@ -1684,8 +1679,7 @@
 1. 【[穷天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_tin.md#穷天)】`qion2 tin1` <small>/t͡ɕʰioŋ2 tʰiɪ̃1/<sup>泰县</sup></small> ① 久旱不雨或久雨不晴。<sup>\[泰县\]</sup> ② 极端天气，久旱不雨或久雨不晴<sup>\[泰州\]</sup>：～有啊三个月不落雨，干煞咖唻。<sup>\[泰州\]</sup>｜倒头～弄吖天天落雨。<sup>\[泰州\]</sup>  
 1. 【[穷相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_xian.md#穷相)】`qion2 xian5` <small>/t͡ɕʰiɔŋ2 ɕiã5/<sup>如皋</sup>, /t͡ɕʰiɔŋ2 ɕiɑŋ5/<sup>泰兴</sup></small> ① 穷酸而萎琐的样子<sup>\[如皋\]</sup>：宁生个穷命，不生个～。<sup>\[如皋\]</sup> ② 人吃饭时迫不及待、狼吞虎咽的样子，意为穷人平时极难迟到好饭而有此态<sup>\[泰州\]</sup>：你慢吖点儿吃哿好，你望你这个～样子噢。<sup>\[泰州\]</sup> ③ 贫贱的相貌；小家子气。<sup>\[泰兴\]</sup>  
 1. 【[穷嫌富不爱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_xin_fv_beh.md#穷嫌富不爱)】`qion2 xin2 fv5 beh7 ngae5` <sup>[兴化]</sup> 指某些华而不实，又价高质次的物品：这种蹩脚西装～的，卖把哪个？  
-1. 【[穷嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_zuei.md#穷嘴)】`qion2 zuei3` <sup>[兴化]</sup> 喜欢唠叨的人：他是个～，大米饭也塞不住。  
-1. 【[穷嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_zuei.md#穷嘴)】`qion2 zuei3` <small>/t͡ɕʰiɔŋ2 t͡suəɪ3/<sup>泰兴</sup></small> 罗嗦，唠叨不停。<sup>\[泰兴\]</sup>  
+1. 【[穷嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion_zuei.md#穷嘴)】`qion2 zuei3` <small>/t͡ɕʰioŋ2 t͡suəi3/<sup>兴化</sup>, /t͡ɕʰiɔŋ2 t͡suəɪ3/<sup>泰兴</sup></small> ① 喜欢唠叨的人<sup>\[兴化\]</sup>：他是个～，大米饭也塞不住。<sup>\[兴化\]</sup> ② 罗嗦，唠叨不停。<sup>\[泰兴\]</sup>  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qion.md#□)】`qion5` <sup>[泰州]</sup> 骂人死亡：像他这种坏人怎吖不早点ㄦ～掉的？  
 1. 【[缺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh.md#缺)】`qiuh7` <small>/t͡ɕʰyuʔ7/<sup>兴化</sup>, /t͡ɕʰyʊʔ7/<sup>如皋</sup></small> ① 从干河底横穿的一段路道。<sup>\[如皋\]</sup> ② 地名通名<sup>\[如皋\]</sup>：七里～，在如皋城北。<sup>\[如皋\]</sup> ③ 残缺，身体缺陷<sup>\[兴化\]</sup>：他身上有个～，就是右眼不通光。<sup>\[兴化\]</sup>  
 1. 【[缺德](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_deh.md#缺德)】`qiuh7 deh7` <sup>[东台]</sup> 做坏事；恶作剧；缺乏好的品德：不晓得哪个～鬼，在我凉帽里头放吖些麦芒。  
@@ -1809,8 +1803,7 @@
 1. 【[取用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_ion.md#取用)】`qy3 ion` <sup>[东台]</sup> 也作“取容”，有效的容量和实际作用：这厨房不小，蛮有～的/这包太小，没得～。  
 1. 【[取钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_qin.md#取钱)】`qy3 qin2` <sup>[如东]</sup> 拿钱。例如到银行去～。挣钱：下海～。  
 1. 【[取巧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_qio.md#取巧)】`qy3 qio3` <sup>[如东]</sup> ① 用巧妙的方法获得成功：做这件事要～ ② 用巧妙的手段谋取不正当的利益：投机～。  
-1. 【[取笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_xio.md#取笑)】`qy3 xio5` <sup>[如东]</sup> 开玩笑：不要～。嘲笑。  
-1. 【[取笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_xio.md#取笑)】`qy3 xio5` <small>/t͡sʰuəɪ3 ɕiɔ5/<sup>泰兴</sup></small> 耍笑；开玩笑。<sup>\[泰兴\]</sup>  
+1. 【[取笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_xio.md#取笑)】`qy3 xio5` <small>/t͡sʰuəɪ3 ɕiɔ5/<sup>泰兴</sup></small> ① 开玩笑。<sup>\[如东\]</sup>：不要～。嘲笑。<sup>\[如东\]</sup> ② 耍笑；开玩笑。<sup>\[泰兴\]</sup>  
 1. 【[取鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_y.md#取鱼)】`qy3 y2` <small>/t͡ɕʰy3 y2/<sup>兴化</sup>, /t͡ɕʰy3 y2/<sup>如皋</sup></small> ① 捕鱼。谚语<sup>\[如皋\]</sup>：～不在早市；吃鱼没得～乐。<sup>\[如皋\]</sup> ② 捕鱼<sup>\[兴化\]</sup>：一天，有四个身材结实的渔夫，正在手持钢叉～。（兴文《康王报恩“四义阁”》）‖<sup>\[兴化\]</sup>｜谚曰：吃鱼不如～乐。<sup>\[兴化\]</sup>  
 1. 【[娶嫲嫲<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_ma_ma_r.md#娶嫲嫲<sub>儿</sub>)】`qy3 ma3 ma3 r` <sup>[如皋]</sup> 娶妻。  
 1. 【[娶马马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_ma_ma.md#娶马马)】`qy3 ma3 ma` <small>/t͡ɕʰy3 ma3 ma/<sup>兴化</sup></small> 娶妻<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：“我不能……叫土地老爷土地奶奶搬家，让房子给我～吧？”（《皮五辣子》一）<sup>\[兴化\]</sup>  

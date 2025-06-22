@@ -43,8 +43,7 @@
 1. 【[撒撒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_saeh.md#撒撒)】`saeh7 saeh7` <sup>[泰县]</sup> ① 小雨很密：毛雨～。 ② 碎屑直往下掉：他吃脆饼儿～的。  
 1. 【[撒韶叨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_sho_do.md#撒韶叨)】`saeh7 sho2 do1` <sup>[泰州]</sup> 嘴里不停地啰唆，说些自以为是的话（泰州方言词典作“喢”）：你不要侭吖在这块～，捱他听见吖，你又不得了。｜这件事本来就怪你不好，领导只批评吖你两句，就算是客气的唻，你还喢甚的韶叨？  
 1. 【[撒乌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_v.md#撒乌)】`saeh7 v1` <sup>[如皋]</sup> 黄昏后天色渐暗。  
-1. 【[撒屑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_xiuh_zz.md#撒屑子)】`saeh7 xiuh7 zz` <sup>[泰县]</sup> 不直接说出自己的牢骚话。  
-1. 【[撒屑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_xiuh_zz.md#撒屑子)】`saeh7 xiuh7 zz` <sup>[泰州]</sup> 嘴里絮絮叨叨，不停地低声说不满的话。（泰州方言词典作“喢”）：你想说就声音大点儿，不要～哿好？｜你要是惹啊他，他有泡的在这块～唻。｜你有甚的意见当面提，不要弄吖在背后～。  
+1. 【[撒屑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_xiuh_zz.md#撒屑子)】`saeh7 xiuh7 zz` <small>/sæʔ7 ɕyʊʔ7 t͡se/<sup>泰县</sup></small> ① 不直接说出自己的牢骚话。<sup>\[泰县\]</sup> ② 嘴里絮絮叨叨，不停地低声说不满的话。（泰州方言词典作“喢”）<sup>\[泰州\]</sup>：你想说就声音大点儿，不要～哿好？<sup>\[泰州\]</sup>｜你要是惹啊他，他有泡的在这块～唻。<sup>\[泰州\]</sup>｜你有甚的意见当面提，不要弄吖在背后～。<sup>\[泰州\]</sup>  
 1. 【[趿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh.md#趿)】`saeh7` <sup>[兴化]</sup> 把鞋帮的后部踩在脚跟下：鞋子～咖下。  
 1. 【[靸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_zz.md#靸子)】`saeh7 zz` <sup>[兴化]</sup> ① 木屐。 ② 拖鞋。  
 1. 【[𢶍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh.md#𢶍)】`saeh7` <small>/sæʔ7/<sup>兴化</sup></small> ① 把东西藏在身上。（东台词典写“扱”，《说文·手部》“扱，收也，从手，及声，楚洽切。”）<sup>\[东台\]</sup>：他把东西～咖腰里。<sup>\[东台\]</sup> ② 掖<sup>\[兴化\]</sup>：～裤子<sup>\[兴化\]</sup>｜～袍子角<sup>\[兴化\]</sup>｜～被头。<sup>\[兴化\]</sup>  
@@ -1051,14 +1050,12 @@
 1. 【[识狗脚板<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_geu_jiah_baen.md#识狗脚板<sub>儿</sub>)】`sheh7 geu3 jiah7 baen3 r` <sup>[如皋]</sup> 詈语，指识字。  
 1. 【[识惯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_guaen.md#识惯)】`sheh7 guaen5` <small>/səʔ7 kuɛ̃5/<sup>兴化</sup>, /səʔ7 kuẽ5/<sup>如皋</sup>, /səʔ7 kuɛ̃5/<sup>泰兴</sup></small> ① 懂得别人的关怀，并珍惜它。<sup>\[如皋\]</sup> ② 珍惜长辈的爱<sup>\[兴化\]</sup>：孙女儿蛮～的，学习、生活一点儿不要人烦神。<sup>\[兴化\]</sup> ③ 懂得珍惜长辈给予的关爱，要以更好的表现来回报<sup>\[泰州\]</sup>：你要～，好好学习，考个好学堂。<sup>\[泰州\]</sup> ④ 懂得长辈的关爱。<sup>\[泰兴\]</sup>  
 1. 【[识好歹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_ho_dae.md#识好歹)】`sheh7 ho3 dae3` <sup>[如皋]</sup> 懂得好与丑，懂得别人的关怀与器重。  
-1. 【[识霉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_mei.md#识霉)】`sheh7 mei2` <sup>[兴化]</sup> 知趣，免遭白眼：倒霉的人要～，不必去凑热嘈。  
-1. 【[识霉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_mei.md#识霉)】`sheh7 mei2` <small>/səʔ7 məɪ2/<sup>泰兴</sup></small> 知趣。常与“不”连用。<sup>\[泰兴\]</sup>：不～的麻苍蝇<sup>\[泰兴\]</sup>  
+1. 【[识霉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_mei.md#识霉)】`sheh7 mei2` <small>/səʔ7 məi2/<sup>兴化</sup>, /səʔ7 məɪ2/<sup>泰兴</sup></small> ① 知趣，免遭白眼<sup>\[兴化\]</sup>：倒霉的人要～，不必去凑热嘈。<sup>\[兴化\]</sup> ② 知趣。常与“不”连用。<sup>\[泰兴\]</sup>：不～的麻苍蝇<sup>\[泰兴\]</sup>  
 1. 【[识霉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_mi.md#识霉)】`sheh7 mi2` <sup>[泰县]</sup> 自认倒露。  
 1. 【[识毛不识胆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_mo_beh_sheh.md#识毛不识胆)】`sheh7 mo2 beh7 sheh7 daen3` <sup>[兴化]</sup> 因不明底细而忐忑不安：听说前庄发现传染病人，心里～的，不敢望前跑。  
 1. 【[识人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_ren.md#识人)】`sheh7 ren2` <sup>[如皋]</sup> 能判断出某人的品格、才华、才能等。  
 1. 【[识事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_shr.md#识事)】`sheh7 shr6` <small>/səʔ7 sɿ1/<sup>泰兴</sup></small> 明事理<sup>\[泰兴\]</sup>：不怕不识字，就怕不～<sup>\[泰兴\]</sup>  
-1. 【[识数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_shv.md#识数)】`sheh7 shv5` <sup>[兴化]</sup> 知道好歹、进退：他非常～，从来不向父母提过高要求。  
-1. 【[识数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_shv.md#识数)】`sheh7 shv5` <small>/səʔ7 su5/<sup>泰兴</sup></small> 开始认识数字或会数数。<sup>\[泰兴\]</sup>  
+1. 【[识数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_shv.md#识数)】`sheh7 shv5` <small>/səʔ7 su5/<sup>兴化</sup>, /səʔ7 su5/<sup>泰兴</sup></small> ① 知道好歹、进退<sup>\[兴化\]</sup>：他非常～，从来不向父母提过高要求。<sup>\[兴化\]</sup> ② 开始认识数字或会数数。<sup>\[泰兴\]</sup>  
 1. 【[识玩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_vaen.md#识玩)】`sheh7 vaen2` <small>/səʔ7 uɛ̃2/<sup>兴化</sup></small> ① 对善意的玩笑不当真<sup>\[兴化\]</sup>：这个人～，不会为句把玩话跟人翻脸。<sup>\[兴化\]</sup> ② 理解他人对自己的言行只是开玩笑，并无恶意而予以宽容<sup>\[泰州\]</sup>：你这个人怎吖这吖不～的，说咖玩的也当真，就没得意思唻。<sup>\[泰州\]</sup>  
 1. 【[识相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_xian.md#识相)】`sheh7 xian5` <small>/səʔ7 ɕiaŋ5/<sup>兴化</sup>, /səʔ7 ɕiã5/<sup>如皋</sup>, /səʔ7 ɕiɑŋ5/<sup>泰兴</sup></small> ① 明白自己的地位和权力而采取合适的态度。会看别人的脸色行事。<sup>\[如东\]</sup>：他～，不曾硬顶。<sup>\[如东\]</sup> ② 权衡利弊后乖觉，不硬性顶撞。<sup>\[如皋\]</sup> ③ 自觉、不强求<sup>\[如皋\]</sup>：年纪大了，自己～，不走雨路，不走夜路。<sup>\[如皋\]</sup> ④ 知趣，有点自知之明。<sup>\[东台\]</sup> ⑤ 知趣<sup>\[兴化\]</sup>：可不行，有些家伙不～，又讨油又讨酱……（马春阳《无心插柳》）<sup>\[兴化\]</sup>｜小木匠是个灵巧人，说话办事都很～……。（钱国怀《船帆》）。<sup>\[兴化\]</sup> ⑥ 清楚当前形势，发现情况不妙，及时收敛言行<sup>\[泰州\]</sup>：你放吖～点儿，闹到临了没得好果子吃。<sup>\[泰州\]</sup> ⑦ 知趣；会看气色行事。<sup>\[泰兴\]</sup>  
 1. 【[识性同居](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_xien_ton_jy.md#识性同居)】`sheh7 xien5 ton2 jy1` <sup>[兴化]</sup> 相互了解才能很好相处、共事：～，他就这吖一个人，覅计较他。  
@@ -2609,8 +2606,7 @@
 1. 【[睡中觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_zhon_go.md#睡中觉)】`shuei5 zhon1 go5` <sup>[东台]</sup> 中午睡觉。  
 1. 【[睡早觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_zo_go.md#睡早觉)】`shuei5 zo3 go5` <sup>[兴化]</sup> 贪睡，起身迟：他喜欢～，八点多钟还躺吖在床上！  
 1. 【[睡早曦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_zo_xi.md#睡早曦)】`shuei5 zo3 xi` <sup>[东台]</sup> 早上睡懒觉，迟迟不起床：最近事情多，不能～。  
-1. 【[纯和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_hu.md#纯和)】`shuen2 hu` <sup>[兴化]</sup> 柔软、纯熟：新稻草戳人，要捶捶铺床才～。｜“咦喂，这个新稻草不～啊，戳人呀……”（《武松》六）  
-1. 【[纯和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_hu.md#纯和)】`shuen2 hu` <small>/suəŋ2 xɤɯ/<sup>泰兴</sup></small> 纯朴和顺。多指性格或气质。<sup>\[泰兴\]</sup>  
+1. 【[纯和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_hu.md#纯和)】`shuen2 hu` <small>/suən2 xo/<sup>兴化</sup>, /suəŋ2 xɤɯ/<sup>泰兴</sup></small> ① 柔软、纯熟<sup>\[兴化\]</sup>：新稻草戳人，要捶捶铺床才～。<sup>\[兴化\]</sup>｜“咦喂，这个新稻草不～啊，戳人呀……”（《武松》六）<sup>\[兴化\]</sup> ② 纯朴和顺。多指性格或气质。<sup>\[泰兴\]</sup>  
 1. 【[醇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen.md#醇)】`shuen2` <sup>[泰州]</sup> 酒质醇厚：这两瓶梅兰春酒～，口感蛮好。  
 1. 【[醇和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_hu.md#醇和)】`shuen2 hu` <sup>[兴化]</sup> 形容人淳朴、和善：这个人性子蛮～的。｜……马琼琼见朱廷之生性～……几次央浼姐姐与杨谦说，要与朱廷之相处。（《西湖二集》十一）  
 1. 【[瘆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen.md#瘆)】`shuen5` <sup>[如皋]</sup> 程度深：街上人多得～哎。桃子甜得～！  
@@ -2968,8 +2964,7 @@
 1. 【[缩头乌龟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_teu_v_guei.md#缩头乌龟)】`soh7 teu2 v1 guei1` ① 讥讽遇事逃避，不肯出头的人。<sup>\[东台\]</sup> ② 头缩进壳中的乌龟，喻指因为害怕不敢向前或者因为胆小不敢出头的人<sup>\[泰州\]</sup>：你不要望他俫这一刻儿在背后说得凶，等到上头真的派人下来调查，这些～就一个都不说咖。<sup>\[泰州\]</sup>  
 1. 【[俗气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_qi.md#俗气)】`soh8 qi5` <sup>[东台]</sup> 不高雅，与“文雅”相对。  
 1. 【[松巴落壳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_ba_lah_kah.md#松巴落壳)】`son1 ba1 lah8 kah7` <sup>[如东]</sup> 松松散散的样子：这些草捆子～的，怎吖好运输咯？  
-1. 【[松包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_bo.md#松包)】`son1 bo1` <sup>[兴化]</sup> 掏腰包：孙子孙女开学，老两口又要～啦。  
-1. 【[松包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_bo.md#松包)】`son1 bo1` <small>/sɔŋ1 pɔ1/<sup>泰兴</sup></small> 打开钱包。花钱。<sup>\[泰兴\]</sup>：今朝姑妈家上梁，老头儿又要～lo<sup>\[泰兴\]</sup>  
+1. 【[松包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_bo.md#松包)】`son1 bo1` <small>/soŋ1 pɔ1/<sup>兴化</sup>, /sɔŋ1 pɔ1/<sup>泰兴</sup></small> ① 掏腰包<sup>\[兴化\]</sup>：孙子孙女开学，老两口又要～啦。<sup>\[兴化\]</sup> ② 打开钱包。花钱。<sup>\[泰兴\]</sup>：今朝姑妈家上梁，老头儿又要～lo<sup>\[泰兴\]</sup>  
 1. 【[松泛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_faen.md#松泛)】`son1 faen` <small>/sɔŋ1 fɛ̃/<sup>泰兴</sup></small> ① 酥松。<sup>\[如东\]</sup>：这种馒头～。<sup>\[如东\]</sup> ② 宽松；舒适<sup>\[东台\]</sup>：洗啊桑拿，又䢢吖背，身上～多啊。<sup>\[东台\]</sup> ③ 个人经济上相对宽松。<sup>\[东台\]</sup> ④ 因精神压力去除而感到轻松舒适<sup>\[泰州\]</sup>：把检查团送吖走啊，大家才～点儿。<sup>\[泰州\]</sup> ⑤ 因病痛去除或者减弱而感到轻松舒适<sup>\[泰州\]</sup>：药吃咖睡啊一觉，这一刻儿身上～得多唻。<sup>\[泰州\]</sup> ⑥ 放松；缓解。<sup>\[泰兴\]</sup>  
 1. 【[松范](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_faen.md#松范)】`son1 faen` <sup>[泰县]</sup> 轻松。  
 1. 【[松腰包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_io_bo.md#松腰包)】`son1 io1 bo1` <small>/sɔŋ1 iɔ1 pɔ1/<sup>如皋</sup>, /soŋ1 iɔ1 pɔ1/<sup>泰县</sup></small> ① 指花钱多<sup>\[如皋\]</sup>：侄子结婚，他要～咯。<sup>\[如皋\]</sup> ② 从口袋里掏出钱来。<sup>\[如东\]</sup>：明天朋朋生日，你要～啦。<sup>\[如东\]</sup> ③ ［引］出钱、掏钞票。<sup>\[东台\]</sup> ④ 出钱<sup>\[泰县\]</sup>：外孙要过生日，你又要～啦。<sup>\[泰县\]</sup>  
@@ -3228,8 +3223,7 @@
 1. 【[私底下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_di_ha.md#私底下)】`sz1 di3 ha6` <sup>[兴化]</sup> ① 背地里：这是我俫～说的话。 ② 不经公家，自己解决纠纷：～劝和。也说“私下”。  
 1. 【[私儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_er.md#私儿)】`sz1 er2` <small>/sɿ1 ɚ2/<sup>兴化</sup></small> ① 非婚生子女，即私生子。<sup>\[东台\]</sup> ② 私生子。<sup>\[兴化\]</sup>  
 1. 【[私房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_fan.md#私房)】`sz1 fan2` <sup>[如东]</sup> 产权属于私人的房屋。  
-1. 【[私房话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_fan_hua.md#私房话)】`sz1 fan2 hua6` <sup>[泰州]</sup> 在私房里说的话，即夫妻之间说的隐私话：这房间只隔咖层板子，连～都不好说。  
-1. 【[私房话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_fan_hua.md#私房话)】`sz1 fan2 hua6` <small>/sɿ1 fɑŋ2 xuɑ1/<sup>泰兴</sup></small> 不让别人知道的秘密话、体己话。<sup>\[泰兴\]</sup>  
+1. 【[私房话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_fan_hua.md#私房话)】`sz1 fan2 hua6` <small>/sɿ1 fɑŋ2 xuɑ1/<sup>泰兴</sup></small> ① 在私房里说的话，即夫妻之间说的隐私话<sup>\[泰州\]</sup>：这房间只隔咖层板子，连～都不好说。<sup>\[泰州\]</sup> ② 不让别人知道的秘密话、体己话。<sup>\[泰兴\]</sup>  
 1. 【[私房钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_fan_qin.md#私房钱)】`sz1 fan2 qin2` <small>/sɿ1 fɑŋ2 t͡ɕʰĩ2/<sup>泰兴</sup></small> ① 家庭成员个人私下积蓄的财产。不愿让外人知道的钱。多指女人的积蓄。<sup>\[如东\]</sup> ② 夫妻双方各自个人拥有的不为对方知晓的钱。<sup>\[泰州\]</sup> ③ 指个人私下的积蓄。<sup>\[泰兴\]</sup>  
 1. 【[私风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_fon.md#私风)】`sz1 fon1` <sup>[如皋]</sup> 泄密。见“走露风声”。  
 1. 【[私果子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_gu_zz.md#私果子)】`sz1 gu3 zz` <sup>[兴化]</sup> 出生不久的私生婴儿。  

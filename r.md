@@ -85,8 +85,7 @@
 1. 【[入马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_ma.md#入马)】`reh8 ma3` <sup>[兴化]</sup> ① 男女勾搭成奸：（那妇人）将那时放帘子因打着西门庆起，并做衣裳～通好，一一地说。（《水浒传》二六） ② 性交。  
 1. 【[入梅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_mei.md#入梅)】`reh8 mei2` 进入梅雨季节。  
 1. 【[入泊头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_pah_teu.md#入泊头)】`reh8 pah7 teu2` <sup>[泰兴]</sup> 骂人。  
-1. 【[入碰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_pon.md#入碰)】`reh8 pon5` <sup>[如东]</sup> 闲谈。  
-1. 【[入碰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_pon.md#入碰)】`reh8 pon5` <small>/ɻəʔ8 pɔŋ5/<sup>泰兴</sup></small> 办事毫无头绪，胡乱行动碰运气。<sup>\[泰兴\]</sup>  
+1. 【[入碰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_pon.md#入碰)】`reh8 pon5` <small>/ɻəʔ8 pɔŋ5/<sup>泰兴</sup></small> ① 闲谈。<sup>\[如东\]</sup> ② 办事毫无头绪，胡乱行动碰运气。<sup>\[泰兴\]</sup>  
 1. 【[入碰𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_pon_son.md#入碰𪨊)】`reh8 pon5 son2` <small>/ɻəʔ8 pɔŋ5 sɔŋ2/<sup>泰兴</sup></small> 同“入碰”。<sup>\[泰兴\]</sup>：箇桩事叫他去办肯定是～，办不好的。<sup>\[泰兴\]</sup>  
 1. 【[入且](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_qia.md#入且)】`reh8 qia` 无实际含义，多为口头禅，多含贬义。相当于普通话的“哇噻，他妈的”之类。  
 1. 【[入席](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_qieh.md#入席)】`reh8 qieh8` <sup>[如东]</sup> 开始坐酒席。  

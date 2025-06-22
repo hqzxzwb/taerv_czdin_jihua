@@ -352,8 +352,7 @@
 1. 【[班母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_mu.md#班母)】`baen1 mu3` <sup>[如皋]</sup> 木匠用木斗中墨线顶端的钩子。  
 1. 【[般配](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_pei.md#般配)】`baen1 pei5` <sup>[泰州]</sup> 品类对称，结亲双方各种条件相称：他俫这两个人谈对象，望望也不～啊。  
 1. 【[板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen.md#板)】`baen3` <small>/pɛ̃3/<sup>兴化</sup>, /pẽ3/<sup>如皋</sup></small> ① 古板、呆板：他的脾气～。<sup>\[如皋\]</sup> ② 硬、直：年纪大啊，腰发～；这种毯子蛮～气的。<sup>\[如皋\]</sup> ③ 僵持：互相～住啊，事情不好办。<sup>\[如皋\]</sup> ④ 作副词，意为一定：我估计他今朝～家来。<sup>\[兴化\]</sup>  
-1. 【[板板□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_baen_ih_ih.md#板板□□)】`baen3 baen3 ih7 ih7` <sup>[兴化]</sup> “板□”的生动形式。  
-1. 【[板板□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_baen_ih_ih.md#板板□□)】`baen3 baen3 ih7 ih7` <small>/pɛ̃3 pɛ̃3 iʔ7 iʔ7/<sup>泰兴</sup></small> 平平整整。<sup>\[泰兴\]</sup>  
+1. 【[板板□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_baen_ih_ih.md#板板□□)】`baen3 baen3 ih7 ih7` <small>/pɛ̃3 pɛ̃3 iɪʔ7 iɪʔ7/<sup>兴化</sup>, /pɛ̃3 pɛ̃3 iʔ7 iʔ7/<sup>泰兴</sup></small> ① “板□”的生动形式。<sup>\[兴化\]</sup> ② 平平整整。<sup>\[泰兴\]</sup>  
 1. 【[板板六十四/版版六十四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_baen_loh_sheh.md#板板六十四/版版六十四)】`baen3 baen3 loh8 sheh8 sz5` <small>/pɛ̃3 pɛ̃3 lɔʔ8 səʔ8 sɿ5/<sup>兴化</sup>, /pẽ3 pẽ3 lɔʔ8 səʔ8 sɿ5/<sup>如皋</sup>, /pɛ̃3 pɛ̃3 lɔʔ8 səʔ8 sɿ5/<sup>泰兴</sup></small> ① 不变通，不通融。<sup>\[如皋\]</sup> ② ［喻］刻板，不知变通<sup>\[东台\]</sup>：你这吖～的，哪个敢跟你来往？<sup>\[东台\]</sup> ③ 宋时铸钱每版六十四文，不得私增。借指做事不变通或不肯通融<sup>\[兴化\]</sup>：他开口闭口讲“规定”，～的，一点也不体恤下情。<sup>\[兴化\]</sup> ④ 一个样，没有变化。如东词典讹作“板板六十三”<sup>\[如东\]</sup>：不要～。<sup>\[如东\]</sup> ⑤ 宋时官铸铜钱，每板六十四文，不得增减。后因此比喻人遇事刻板，不知变通。<sup>\[泰兴\]</sup>：箇个人一天到夜～的，不通人情。<sup>\[泰兴\]</sup>  
 1. 【[板不二价](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_beh_er_jia.md#板不二价)】`baen3 beh7 er6 jia5` <sup>[兴化]</sup> 商业用语，谓核定的价格，不能浮动：他家是金字招牌，～。  
 1. 【[板车<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_cha_r.md#板车<sub>儿</sub>)】`baen3 cha1 r` <sup>[如皋]</sup> 橡胶胎二轮平板车。  
@@ -432,8 +431,7 @@
 1. 【[驳虎子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_hv_zz.md#驳虎子)】`bah7 hv3 zz` <sup>[东台]</sup> ［喻］衣衫褴褛，色彩斑驳的样子：你看那家伙一副～形。  
 1. 【[驳墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_qian.md#驳墙)】`bah7 qian2` <sup>[如东]</sup> 倚墙砌墙，叫做驳墙。  
 1. 【[驳岸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_un.md#驳岸)】`bah7 un6` <sup>[如东]</sup> 以砖石加固堤岸，叫做驳岸。  
-1. 【[驳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_zz.md#驳子)】`bah7 zz` <sup>[兴化]</sup> ① 运货的船：铁～；水泥～。 ② 短途货运的小型敞口船。  
-1. 【[驳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_zz.md#驳子)】`bah7 zz` <small>/pɑʔ7 t͡sɿ/<sup>泰兴</sup></small> 能载人货的小船。可从不能近岸的大船上驳货转运至岸边，故称。<sup>\[泰兴\]</sup>  
+1. 【[驳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_zz.md#驳子)】`bah7 zz` <small>/paʔ7 t͡sɿ/<sup>兴化</sup>, /pɑʔ7 t͡sɿ/<sup>泰兴</sup></small> ① 运货的船<sup>\[兴化\]</sup>：铁～；水泥～。<sup>\[兴化\]</sup> ② 短途货运的小型敞口船。<sup>\[兴化\]</sup> ③ 能载人货的小船。可从不能近岸的大船上驳货转运至岸边，故称。<sup>\[泰兴\]</sup>  
 1. 【[𠺣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah.md#𠺣)】`bah7` <sup>[如皋]</sup> 指关节响声。  
 1. 【[𠺣鼓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_gv_r.md#𠺣鼓<sub>儿</sub>)】`bah7 gv3 r` <sup>[如皋]</sup> 见“𠺣子”。  
 1. 【[𠺣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_zz.md#𠺣子)】`bah7 zz` <sup>[如皋]</sup> 一种硬面扁鼓，其声清越，是京剧乐队的指挥鼓。  
@@ -1313,8 +1311,7 @@
 1. 【[膘分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_fen.md#膘分)】`bio1 fen` <sup>[东台]</sup> 牲畜生长的肥壮情况：这窠猪的～不丑。  
 1. 【[膘水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_shuei.md#膘水)】`bio1 shuei3` <small>/piɔ1 suəi3/<sup>兴化</sup>, /piɔ1 suei3/<sup>如皋</sup></small> ① 指家禽、家畜的肥壮度<sup>\[如皋\]</sup>：有～<sup>\[如皋\]</sup>｜～足。<sup>\[如皋\]</sup> ② 多指牲畜膘情<sup>\[兴化\]</sup>：～足<sup>\[兴化\]</sup>｜～好。<sup>\[兴化\]</sup>  
 1. 【[婊蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_taen.md#婊蛋)】`bio3 taen6` <sup>[兴化]</sup> 骂人的话：“……喊到他一声大和尚，把这个小～折死了呀！”（扬一《通天河》）  
-1. 【[婊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_zz.md#婊子)】`bio3 zz` <sup>[泰州]</sup> ① 妓女。 ② 詈词，作风不正派的女性。  
-1. 【[婊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_zz.md#婊子)】`bio3 zz` <small>/piɔ3 t͡sɿ/<sup>泰兴</sup></small> 旧时称妓女；情妇。<sup>\[泰兴\]</sup>  
+1. 【[婊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_zz.md#婊子)】`bio3 zz` <small>/piɔ3 t͡sɿ/<sup>泰兴</sup></small> ① 妓女。<sup>\[泰州\]</sup><sup>\[泰兴\]</sup> ② 詈词，作风不正派的女性。<sup>\[泰州\]</sup> ③ 情妇<sup>\[泰兴\]</sup>  
 1. 【[婊子儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_zz_er.md#婊子儿)】`bio3 zz er2` <small>/piɔ3 t͡sɿ ɚ2/<sup>兴化</sup>, /piɔ3 t͡sɿ ɚ2/<sup>如皋</sup></small> ① 詈语，婊子生的小孩。<sup>\[如皋\]</sup> ② 骂人的话<sup>\[兴化\]</sup>：“这个老～，替我家娶了个公的，嫁来几年了，屁也不放一个啊！”（《皮五辣子》一）<sup>\[兴化\]</sup>  
 1. 【[婊子货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_zz_hu.md#婊子货)】`bio3 zz hu5` <small>/piɔ3 t͡sɿ xo5/<sup>兴化</sup>, /piɔ3 t͡sɿ xʊ5/<sup>如皋</sup></small> ① 指表面好看而质地差的货物。<sup>\[如皋\]</sup> ② ［引］中看不中用的货物。（婊子指妓女，多用于辱骂女性）<sup>\[东台\]</sup> ③ 指外表花哨，但不经用的商品<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：这种～再便宜也不能买。<sup>\[兴化\]</sup>｜这东西望起来还不丑，实骨子是个～，一点儿不见用的。<sup>\[泰州\]</sup>｜这双鞋子穿吖不到两天就𠫓咖帮，真是人家说的～。<sup>\[泰州\]</sup>  
 1. 【[婊子话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_zz_hua.md#婊子话)】`bio3 zz hua6` <small>/piɔ3 t͡sɿ xua6/<sup>兴化</sup></small> 没有真情实感的甜言蜜语<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：那晚倒说得好……屁，全是～！（钱国怀《桃子》）<sup>\[兴化\]</sup>｜他说的这些～，你不要当真。<sup>\[泰州\]</sup>  
@@ -1332,8 +1329,7 @@
 1. 【[表叔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_shoh.md#表叔)】`bio3 shoh7` <small>/piɔ3 sɔʔ7/<sup>泰兴</sup></small> 父之表兄弟。<sup>\[泰兴\]</sup>  
 1. 【[表袋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_tae.md#表袋)】`bio3 tae6` <sup>[如东]</sup> 上衣胸部两侧的口袋。  
 1. 【[表弟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_ti.md#表弟)】`bio3 ti6` <sup>[如东]</sup> 舅舅生的年龄比自己小的男子，称表弟。  
-1. 【[表芯纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_xien_zhr.md#表芯纸)】`bio3 xien1 zhr3` <sup>[兴化]</sup> 一种草或竹浆纸，本色，表面涂过硝水，多用于搓硭子（火枚）。  
-1. 【[表芯纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_xien_zhr.md#表芯纸)】`bio3 xien1 zhr3` <small>/piɔ3 ɕiŋ1 t͡sɿ3/<sup>泰兴</sup></small> 一种质地比较疏松的纸，卷成小支条可作引火之物。又称“表青纸”。<sup>\[泰兴\]</sup>  
+1. 【[表芯纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_xien_zhr.md#表芯纸)】`bio3 xien1 zhr3` <small>/piɔ3 ɕin1 t͡sɿ3/<sup>兴化</sup>, /piɔ3 ɕiŋ1 t͡sɿ3/<sup>泰兴</sup></small> ① 一种草或竹浆纸，本色，表面涂过硝水，多用于搓硭子（火枚）。<sup>\[兴化\]</sup> ② 一种质地比较疏松的纸，卷成小支条可作引火之物。又称“表青纸”。<sup>\[泰兴\]</sup>  
 1. 【[表兄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_xion.md#表兄)】`bio3 xion` <small>/piɔ3 ɕiɔŋ/<sup>泰兴</sup></small> 姑妈、舅舅之子，年长于己者称表见，亦称表哥；小于己者称表弟。女子则称表姐妹。<sup>\[泰兴\]</sup>  
 1. 【[裱画匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_hua_qian.md#裱画匠)】`bio3 hua6 qian6` <sup>[如皋]</sup> ① 从事裱画业的工匠。 ② 置语。指说骗者。  
 1. 【[裱糊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_hv.md#裱糊)】`bio3 hv2` <sup>[如东]</sup> ① 装裱字画。 ② 用纸糊贴墙壁。  
@@ -1699,8 +1695,7 @@
 1. 【[补](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bv.md#补)】`bv3` <small>/pu3/<sup>兴化</sup>, /pu3/<sup>如皋</sup></small> ① 插言揭短<sup>\[如皋\]</sup>：他说得太不像话，我～啊他两句，他就不好开口啊。<sup>\[如皋\]</sup> ② 反唇相讥<sup>\[兴化\]</sup>：“我说了一句玩话，你还要来～我……”（《广陵潮》八四）<sup>\[兴化\]</sup> ③ 反唇相讥，某人前后说话意思相反，将其人的前面所说用来“补充”其人的后面所说，以达到讽刺目的<sup>\[泰州\]</sup>：（《广陵潮》）我说了一句玩话，你还要来～我，我始终说你是放屁。<sup>\[泰州\]</sup>｜甲：你刚才不是说你认不得她的嘛？怎吖这一刻儿又说你俫是同学的㖸！乙：先头子不曾望吖清，这一刻儿才望吖清吖，你这小伙没得意思，你也不作兴当吖女同学面～我啊！<sup>\[泰州\]</sup>  
 1. 【[补疤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bv_ba.md#补疤)】`bv3 ba1` <sup>[如皋]</sup> 用锔疤或烫疤法修锅、缸、碗等。  
 1. 【[补补连连](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bv_bv_lin_lin.md#补补连连)】`bv3 bv3 lin2 lin2` <sup>[兴化]</sup> 缝补衣裳：老太婆下午没事，把旧衣裳寻出来～。  
-1. 【[补补纳纳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bv_bv_naeh_naeh.md#补补纳纳)】`bv3 bv3 naeh8 naeh8` <sup>[兴化]</sup> 形容衣服破旧，打了许多补丁：“……我怕人闲言闲语，说我有吃有穿的，就穿上件～的千佛衣……”（马春阳《告状》）。也说“补天纳地”。  
-1. 【[补补纳纳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bv_bv_naeh_naeh.md#补补纳纳)】`bv3 bv3 naeh8 naeh8` <small>/pu3 pu3 næʔ8 næʔ8/<sup>泰兴</sup></small> 谓做一些针线活计。也说“补补连连”。<sup>\[泰兴\]</sup>  
+1. 【[补补纳纳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bv_bv_naeh_naeh.md#补补纳纳)】`bv3 bv3 naeh8 naeh8` <small>/pu3 pu3 læʔ8 læʔ8/<sup>兴化</sup>, /pu3 pu3 næʔ8 næʔ8/<sup>泰兴</sup></small> ① 形容衣服破旧，打了许多补丁<sup>\[兴化\]</sup>：“……我怕人闲言闲语，说我有吃有穿的，就穿上件～的千佛衣……”（马春阳《告状》）。也说“补天纳地”。<sup>\[兴化\]</sup> ② 谓做一些针线活计。也说“补补连连”。<sup>\[泰兴\]</sup>  
 1. 【[补丁/帄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bv_dien.md#补丁/帄)】`bv3 dien` <sup>[泰州]</sup> 补丁，补在破损衣服上的小块布片。  
 1. 【[补丁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bv_dien.md#补丁)】`bv3 dien1` <small>/pu3 tiŋ1/<sup>泰兴</sup></small> ① 衣服破后缝上的一块布，称补丁。<sup>\[如东\]</sup> ② 补在破损的衣服上的零头布料。<sup>\[东台\]</sup> ③ 补在破损的衣服或物件上的同类物。<sup>\[泰兴\]</sup>  
 1. 【[补房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bv_fan.md#补房)】`bv3 fan2` <sup>[兴化]</sup> 续娶的妻：“……只说是个过路官员要娶他做～……”（《梼杌闲评》四二）  
@@ -1713,8 +1708,7 @@
 1. 【[补苗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bv_mio.md#补苗)】`bv3 mio2` <sup>[如东]</sup> 棉花或其他植物缺棵，进行补种或移栽，这种方法叫做补苗。  
 1. 【[补穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bv_qion.md#补穷)】`bv3 qion2` <small>/pu3 t͡ɕʰioŋ2/<sup>兴化</sup>, /pu3 t͡ɕʰiɔŋ2/<sup>如皋</sup></small> ① 旧称织补业。<sup>\[如皋\]</sup> ② 旧指贫苦妇女以代人缝补衣装维持生计。也称“缝穷”。<sup>\[兴化\]</sup>  
 1. 【[补寿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bv_sheu.md#补寿)】`bv3 sheu6` <small>/pu3 sɤ6/<sup>兴化</sup>, /pu3 sei1/<sup>如皋</sup></small> ① 补行祝寿。<sup>\[如皋\]</sup> ② 过了寿诞之期，补行祝寿<sup>\[兴化\]</sup>：孙子出差回来，为奶奶～。<sup>\[兴化\]</sup> ③ 补办生日宴会<sup>\[泰州\]</sup>：他过生日那天子出差，今朝家里人同他～。<sup>\[泰州\]</sup>  
-1. 【[补数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bv_shv.md#补数)】`bv3 shv5` <sup>[兴化]</sup> 把所欠或不足部分补上：“……只你大太爷一句话，多不敢想，把大人库里的元宝赏咱两个，补补上回的数……”（《官场现形记》四）  
-1. 【[补数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bv_shv.md#补数)】`bv3 shv5` <small>/pu3 su5/<sup>泰兴</sup></small> 补足不足数额的部分。多作劝慰语。<sup>\[泰兴\]</sup>：下次～<sup>\[泰兴\]</sup>  
+1. 【[补数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bv_shv.md#补数)】`bv3 shv5` <small>/pu3 su5/<sup>兴化</sup>, /pu3 su5/<sup>泰兴</sup></small> ① 把所欠或不足部分补上<sup>\[兴化\]</sup>：“……只你大太爷一句话，多不敢想，把大人库里的元宝赏咱两个，补补上回的数……”（《官场现形记》四）<sup>\[兴化\]</sup> ② 补足不足数额的部分。多作劝慰语。<sup>\[泰兴\]</sup>：下次～<sup>\[泰兴\]</sup>  
 1. 【[补天纳地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bv_tin_naeh_ti.md#补天纳地)】`bv3 tin1 naeh8 ti6` <sup>[兴化]</sup> 见“补补纳纳”。  
 1. 【[布宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bv_bo_r.md#布宝<sub>儿</sub>)】`bv5 bo3 r` <sup>[东台]</sup> 棉袄：把～穿起来。  
 1. 【[布布底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bv_bv_di.md#布布底)】`bv5 bv5 di3` <sup>[泰县]</sup> 毛边的布鞋底。  

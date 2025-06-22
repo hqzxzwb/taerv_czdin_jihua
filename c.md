@@ -538,10 +538,9 @@
 1. 【[栈板尖<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaen_baen_jin_r.md#栈板尖<sub>儿</sub>)】`chaen6 baen3 jin1 r` <sup>[如东]</sup> 房屋大帮子上边的隔板。  
 1. 【[栈房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaen_fan.md#栈房)】`chaen6 fan2` <sup>[兴化]</sup> 客栈：才到泰州没找着熟人，只得在南门外找了一家～住下。  
 1. 【[㪕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chah.md#㪕)】`chah7` <small>/t͡sʰaʔ7/<sup>兴化</sup></small> ① 用瓢或勺把东西从容器里舀出来。<sup>\[如东\]</sup>：你到坛子里～点儿米煮饭。<sup>\[如东\]</sup> ② 本指从水中捞物，泛指“搲”东西<sup>\[东台\]</sup> ③ 用手很快地打<sup>\[东台\]</sup>：～他一个耳刮子。<sup>\[东台\]</sup> ④ 由别人托着腋下走动或站立。<sup>\[兴化\]</sup> ⑤ 当人将跌倒时，从下托住<sup>\[兴化\]</sup>：一把～住。兴化词典写“拺”，《广韵·麦韵》楚革切“～，扶～也”。<sup>\[兴化\]</sup> ⑥ 用网、笊篱之类工具在液体中捞物<sup>\[兴化\]</sup>：～鱼<sup>\[兴化\]</sup>｜～馄饨。<sup>\[兴化\]</sup> ⑦ （泰州词典作绰）<sup>\[泰州\]</sup> ⑧ 以手揽住或用手托住、扶住<sup>\[泰州\]</sup>：路上滑，你～住老太慢慢走，防止她跌咖唻。<sup>\[泰州\]</sup> ⑨ 特指眼睛上翻<sup>\[泰州\]</sup>：他羊儿疯发起来，嘴里吐沫，眼睛望上～，把人吓煞咖。<sup>\[泰州\]</sup> ⑩ （泰州词典作簎，音不合）<sup>\[泰州\]</sup> ⑪ 用网兜、笊篱之类从水中捞取东西，滗水留物<sup>\[泰州\]</sup>：你把锅肚里的饺儿～咖干净再下。<sup>\[泰州\]</sup> ⑫ 运用手段从中获暴利<sup>\[泰州\]</sup>：不要望吖他一年做不到几笔生意，他～到一把是一把，也能弄不少钱唻。<sup>\[泰州\]</sup>  
-1. 【[㪕烂污](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chah_laen_v.md#㪕烂污)】`chah7 laen6 v` <sup>[如皋]</sup> 不负责任、敷衍、糖塞、胡混。  
+1. 【[㪕烂污](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chah_laen_v.md#㪕烂污)】`chah7 laen6 v` <small>/t͡sʰaʔ7 lẽ1 ʋu/<sup>如皋</sup></small> ① 不负责任、敷衍、糖塞、胡混。<sup>\[如皋\]</sup> ② 给人惹下麻烦而又逃之夭夭<sup>\[泰州\]</sup>：是你惹啊事，你弄吖一当吖再走，不作兴～。<sup>\[泰州\]</sup>｜人家找上门唻，你现在～唻，先前你不会不动手的。<sup>\[泰州\]</sup>  
 1. 【[㪕米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chah_mi.md#㪕米)】`chah7 mi3` <small>/t͡sʰaʔ7 mʝ3/<sup>如皋</sup></small> ① 用盛器插入堆中取米。<sup>\[如皋\]</sup> ② 量米。渔民避讳语。因量与凉谐音，故避讳。<sup>\[东台\]</sup>  
 1. 【[㪕鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chah_y.md#㪕鱼)】`chah7 y2` <sup>[如皋]</sup> 用料㨟（hae3）从网中兜鱼。  
-1. 【[拆烂污](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chah_laen_v.md#拆烂污)】`chah7 laen6 v1` <sup>[泰州]</sup> ① （拆音chah7） ② 给人惹下麻烦而又逃之夭夭：是你惹啊事，你弄吖一当吖再走，不作兴～。｜人家找上门唻，你现在～唻，先前你不会不动手的。  
 1. 【[焯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chah.md#焯)】`chah7` <small>/t͡sʰaʔ7/<sup>如皋</sup></small> ① 一种烹调方法。把食物或莱放在锅中边煮边拌，半生半熟时即捞出来。<sup>\[如东\]</sup> ② 沸水浸烫蔬菜<sup>\[如皋\]</sup>：～黄菜、～菠菜、～萝卜。<sup>\[如皋\]</sup> ③ 把蔬菜放在开水中烫一下就取出来<sup>\[东台\]</sup>：把菠菜先～一下。<sup>\[东台\]</sup> ④ 一种烹调方法，特指将食物置滚水中稍稍浸烫后即取出，生肉焯之去腥，生蔬菜焯之烫熟且保持绿色<sup>\[泰州\]</sup>：你把青菜～咖子。<sup>\[泰州\]</sup>  
 1. 【[绰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chah.md#绰)】`chah7` <sup>[泰州]</sup> （泰州词典作珿）以梳梳头，使发整齐：你把个头～咖子去吃喜酒。  
 1. 【[绰绰有余](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chah_chah_ieu_y.md#绰绰有余)】`chah7 chah7 ieu3 y2` ① 很充足、宽裕，富余。<sup>\[东台\]</sup> ② 具有的实力完成某事显得非常宽裕<sup>\[泰州\]</sup>：二百万在泰州买个三室一厅，肯定～。<sup>\[泰州\]</sup>  
@@ -886,8 +885,7 @@
 1. 【[鈂豆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_teu_zz.md#鈂豆子)】`chen2 teu6 zz` <sup>[东台]</sup> 破土下豆种：我们这里霜降前后～，主要指蚕豆。  
 1. 【[陈草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_co.md#陈草)】`chen2 co3` <sup>[如皋]</sup> 往年积存的草。  
 1. 【[陈饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_faen.md#陈饭)】`chen2 faen6` <small>/t͡sʰəŋ2 fẽ1/<sup>如皋</sup></small> ① 去年的饭。除夕煮一锅饭，连锅巴完整地盛起来，搁置在圣柜上，插一枝侧柏，上挂铜钱、花生、莲子、白果、桂圆等，象征福禄寿喜财，多子团圆。正月间，每日煮饭取用一点，称吃陈饭，祝福富裕安康。<sup>\[如东\]</sup> ② 去年的饭。民俗于除夕煮一锅饭，连锅巴完整盛起，置圣柜上，上插一大枝侧柏，柏上挂许多铜钱、染红的长生果、莲子、白果儿、桂圆等。正月间每日煮饭取用一点。“吃陈饭，烧陈草”祝颂富裕。<sup>\[如皋\]</sup> ③ 农历除夕盛起来，过了正月初五才倒下来吃的饭。寓意为过着吃陈粮的好日子。～装满盆，盘成馒头状，上嵌桂圆、红枣等干果和几种糕点，上插纸制～旗和四季常青的柏树枝，寓意长久富足。<sup>\[东台\]</sup>  
-1. 【[陈酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_jieu.md#陈酒)】`chen2 jieu3` <sup>[如东]</sup> 以夏枯草、茵陈草浸泡的一种低度酒。  
-1. 【[陈酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_jieu.md#陈酒)】`chen2 jieu3` <small>/t͡sʰəŋ2 t͡ɕiɤɯ3/<sup>泰兴</sup></small> 一种饮后起暖的酒。存放时间较长的酒。<sup>\[泰兴\]</sup>  
+1. 【[陈酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_jieu.md#陈酒)】`chen2 jieu3` <small>/t͡sʰəŋ2 t͡ɕiɤɯ3/<sup>泰兴</sup></small> ① 以夏枯草、茵陈草浸泡的一种低度酒。<sup>\[如东\]</sup> ② 一种饮后起暖的酒。存放时间较长的酒。<sup>\[泰兴\]</sup>  
 1. 【[陈粮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_lian.md#陈粮)】`chen2 lian2` <sup>[泰州]</sup> 隔年粮食：去年的～。  
 1. 【[陈米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_mi.md#陈米)】`chen2 mi3` <small>/t͡sʰən2 mi3/<sup>兴化</sup>, /t͡sʰəŋ2 mʝ3/<sup>泰兴</sup></small> ① 存放多年的大米。<sup>\[如东\]</sup>：～煮饭味道不香。<sup>\[如东\]</sup> ② 不是当年出产的稻米。<sup>\[东台\]</sup> ③ 上年积存的米。<sup>\[兴化\]</sup> ④ 上年或多年存放的稻谷碾成的米。<sup>\[兴化\]</sup> ⑤ 久存的稻米或隔年的稻米<sup>\[泰州\]</sup>：～煮饭不好吃。<sup>\[泰州\]</sup> ⑥ 隔年的米。<sup>\[泰兴\]</sup>  
 1. 【[陈猫古老鼠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_mo_gv_lo.md#陈猫古老鼠)】`chen2 mo2 gv3 lo3 chv3` <sup>[兴化]</sup> ① 陈旧的话题：他说的全是些～的往事。 ② （借）在角角落落乱翻乱拣：他没事做，就～的寻东西吃。  
@@ -1495,8 +1493,7 @@
 1. 【[床帮债](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_ban_zhae.md#床帮债)】`chuan2 ban1 zhae5` <sup>[如皋]</sup> 久病，卧床不起。认为是前世欠了床的债，今世来还。  
 1. 【[床柱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_chv.md#床柱)】`chuan2 chv6` <sup>[如东]</sup> 连接床帮的竖木条。  
 1. 【[床底下养鹤——饭好吃头难抬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_di_ha_ian.md#床底下养鹤——饭好吃头难抬)】`chuan2 di3 ha ian3 hah8 faen6 ho3 qieh7 teu2 naen2 tae2` <sup>[东台]</sup>   
-1. 【[床顶板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_dien_baen.md#床顶板)】`chuan2 dien3 baen3` <sup>[东台]</sup> 旧时木床床顶护脏的板。  
-1. 【[床顶板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_dien_baen.md#床顶板)】`chuan2 dien3 baen3` <small>/t͡sʰuɑŋ2 tiŋ3 pɛ̃3/<sup>泰兴</sup></small> 床顶部避尘的木板。<sup>\[泰兴\]</sup>  
+1. 【[床顶板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_dien_baen.md#床顶板)】`chuan2 dien3 baen3` <small>/t͡sʰuɑŋ2 tiŋ3 pɛ̃3/<sup>泰兴</sup></small> 床顶部避尘的木板。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[床顶头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_dien_teu.md#床顶头)】`chuan2 dien3 teu2` <sup>[东台]</sup> 也称铺头前。  
 1. 【[床桄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_guan.md#床桄)】`chuan2 guan5` <small>/t͡sʰuaŋ2 kuaŋ5/<sup>兴化</sup></small> ① 床沿横木，可以坐人的地方（旧时写“床𤗶”）<sup>\[东台\]</sup>：夜饭吃咖这吖多，哿是要压～？<sup>\[东台\]</sup> ② 床板下用来支床牚的前后横木。<sup>\[兴化\]</sup>  
 1. 【[床箍头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_gv_teu.md#床箍头)】`chuan2 gv1 teu` <sup>[如东]</sup> 床头上部连接床柱的横木条。  
@@ -2099,8 +2096,7 @@
 1. 【[坐家㹕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_ga_huaen.md#坐家㹕)】`cu6 ga1 huaen1` <sup>[如东]</sup> 坐在自己家里很凶狠，到了外面却很懦弱：不要～。  
 1. 【[坐监](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_gaen.md#坐监)】`cu6 gaen1` ① 坐牢，蹲监狱 ② 喻指经受让人受限制或不舒服的事情  
 1. 【[坐功](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_gon.md#坐功)】`cu6 gon1` <small>/t͡sʰo6 koŋ1/<sup>兴化</sup>, /t͡sʰʊ1 kɔŋ1/<sup>如皋</sup></small> ① 能坐的功夫。<sup>\[如皋\]</sup> ② 见“坐性”。<sup>\[兴化\]</sup>  
-1. 【[坐馆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_gun.md#坐馆)】`cu6 gun3` <sup>[兴化]</sup> 旧谓设塾授徒：喧笑中间又来了一位朱秀才，他一向在城内～……（《四杰传》四五）‖也称“教馆”。  
-1. 【[坐馆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_gun.md#坐馆)】`cu6 gun3` <small>/t͡sʰɤɯ1 kʊ̃3/<sup>泰兴</sup></small> 在私塾任教。<sup>\[泰兴\]</sup>  
+1. 【[坐馆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_gun.md#坐馆)】`cu6 gun3` <small>/t͡sʰo6 kũ3/<sup>兴化</sup>, /t͡sʰɤɯ1 kʊ̃3/<sup>泰兴</sup></small> ① 旧谓设塾授徒<sup>\[兴化\]</sup>：喧笑中间又来了一位朱秀才，他一向在城内～……（《四杰传》四五）‖也称“教馆”。<sup>\[兴化\]</sup> ② 在私塾任教。<sup>\[泰兴\]</sup>  
 1. 【[坐馆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_gun_zz.md#坐馆子)】`cu6 gun3 zz` <sup>[如皋]</sup> 上茶馆吃饭。有恭维、铺张、图享受等义。  
 1. 【[坐花园](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_hua_iun.md#坐花园)】`cu6 hua1 iun2` <small>/t͡sʰɤɯ1 xuɑ1 yʊ̃2/<sup>泰兴</sup></small> 赌家一起商定某个数额本场的最高限额，在该数额中输赢曰“坐花园”。<sup>\[泰兴\]</sup>  
 1. 【[坐花轿子翻跟头——不识抬举](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_hua_qio_zz.md#坐花轿子翻跟头——不识抬举)】`cu6 hua1 qio6 zz faen1 gen1 teu beh7 sheh7 tae2 jy3` <sup>[东台]</sup>   
@@ -2120,8 +2116,7 @@
 1. 【[坐柜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_kuei_r.md#坐柜<sub>儿</sub>)】`cu6 kuei6 r` <sup>[如皋]</sup> 兼作坐具的钱柜儿。  
 1. 【[坐蜡烛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_laeh_zhoh.md#坐蜡烛)】`cu6 laeh8 zhoh7` <small>/t͡sʰo6 læʔ8 t͡sɔʔ7/<sup>兴化</sup>, /t͡sʰʊ1 leʔ8 t͡sɔʔ7/<sup>如皋</sup></small> ① 旧时以车船中途停驶，用烛光照明之事喻进退两难、处境尴尬。<sup>\[如皋\]</sup> ② 上别人当，陷入为难境地<sup>\[兴化\]</sup>：他明明晓得事情复杂，还拿我去～。<sup>\[兴化\]</sup>  
 1. 【[坐两脚车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_laen_jiah_cha.md#坐两脚车)】`cu6 laen3 jiah7 cha1` <sup>[如皋]</sup> 步行。与“11号汽车”同义。  
-1. 【[坐落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_lah.md#坐落)】`cu6 lah8` <sup>[如东]</sup> 建筑物（住基、住宅等）的位置：我家～在河南边。  
-1. 【[坐落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_lah.md#坐落)】`cu6 lah8` <small>/t͡sʰɤɯ1 lɑʔ8/<sup>泰兴</sup></small> 田地、建筑物的位置（在某处）。<sup>\[泰兴\]</sup>  
+1. 【[坐落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_lah.md#坐落)】`cu6 lah8` <small>/t͡sʰɤɯ1 lɑʔ8/<sup>泰兴</sup></small> ① 建筑物（住基、住宅等）的位置。<sup>\[如东\]</sup>：我家～在河南边。<sup>\[如东\]</sup> ② 田地、建筑物的位置（在某处）。<sup>\[泰兴\]</sup>  
 1. 【[坐冷板凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_len_baen_den.md#坐冷板凳)】`cu6 len3 baen3 den5` <small>/t͡sʰɤɯ1 ləŋ3 pɛ̃3 təŋ5/<sup>泰兴</sup></small> ① 指受冷遇，不被人注意和重视<sup>\[东台\]</sup>：做学问要有甘～的精神。<sup>\[东台\]</sup> ② 比喻清闲冷落的职务<sup>\[泰州\]</sup>：他得罪啊总经理，厂里把他调到工作上当个副主席，去～唻。<sup>\[泰州\]</sup> ③ 比喻不被重视或受到冷遇。<sup>\[泰兴\]</sup>  
 1. 【[坐力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_lieh.md#坐力)】`cu6 lieh8` <sup>[如皋]</sup> 内蕴的持久的力量，不同于暴发力、莽力：老爹～大，做啊一天的重活技也不觉察吃力。  
 1. 【[坐吃山空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_qieh_shaen_kon.md#坐吃山空)】`cu6 qieh7 shaen1 kon1` ① 坐在家里不劳动，一座山也吃空了。比喻人不勤劳，就会变穷。<sup>\[如东\]</sup> ② 坐享其成，有再多的财富也会消耗尽。<sup>\[东台\]</sup>  
@@ -2141,8 +2136,7 @@
 1. 【[坐地探](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_ti_tun.md#坐地探)】`cu6 ti6 tun5` <sup>[泰县]</sup> 隐藏在身边的敌探。  
 1. 【[坐地探子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_ti_tun_zz.md#坐地探子)】`cu6 ti6 tun5 zz` <sup>[如东]</sup> ① 混入组织内部刺探情报的敌人。也称坐探、特务分子。 ② 比喻自己家里的反对派。  
 1. 【[坐定](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_tien.md#坐定)】`cu6 tien6` <sup>[如皋]</sup> 料定、断定：他今朝去，～不得家来。  
-1. 【[坐相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_xian.md#坐相)】`cu6 xian5` <sup>[兴化]</sup> 指坐姿：她们像男人一样的挣钱，走相、～也像男人。（汪曾祺《大淖记事》）  
-1. 【[坐相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_xian.md#坐相)】`cu6 xian5` <small>/t͡sʰɤɯ1 ɕiɑŋ5/<sup>泰兴</sup></small> 坐的姿态、姿势。<sup>\[泰兴\]</sup>：站要有站相，坐要有～<sup>\[泰兴\]</sup>  
+1. 【[坐相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_xian.md#坐相)】`cu6 xian5` <small>/t͡sʰo6 ɕiaŋ5/<sup>兴化</sup>, /t͡sʰɤɯ1 ɕiɑŋ5/<sup>泰兴</sup></small> 坐姿<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：她们像男人一样的挣钱，走相、～也像男人。（汪曾祺《大淖记事》）<sup>\[兴化\]</sup>｜站要有站相，坐要有～<sup>\[泰兴\]</sup>  
 1. 【[坐性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_xien.md#坐性)】`cu6 xien5` <sup>[兴化]</sup> 有耐心，能长时间坐着不动身，或在住处不外出：“师父，我知你没甚～，我与你个安身法儿”。（《西游记》五十）｜“这先生最好，只是～差些……”（《儒林外史》四六）也说“坐功”。  
 1. 【[坐小月子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_xio_iuh_zz.md#坐小月子)】`cu6 xio3 iuh8 zz` <small>/t͡sʰo6 ɕiɔ3 yuʔ8 t͡sɿ/<sup>兴化</sup></small> ① 见“小养”。<sup>\[兴化\]</sup> ② 妇女流产以后在家休息，调养身体。<sup>\[泰州\]</sup>  
 1. 【[坐庄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_zhuan.md#坐庄)】`cu6 zhuan1` <small>/t͡sʰɤɯ1 t͡suɑŋ1/<sup>泰兴</sup></small> 在牌戏或赌博中做庄家。<sup>\[泰兴\]</sup>：箇一盘轮到他～<sup>\[泰兴\]</sup>  
@@ -2345,8 +2339,7 @@
 1. 【[此地无银三百两——不打自招](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_ti_v_ien.md#此地无银三百两——不打自招)】`cz3 ti6 v2 ien2 saen1 boh7 lian3 beh7 da3 cz6 zho1` <sup>[东台]</sup>   
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz.md#□)】`cz5` <sup>[泰县]</sup> 透：你把菜炒～啊再盛起来。  
 1. 【[伺候](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_heu.md#伺候)】`cz5 heu` <small>/t͡sʰɿ5 xɤɯ/<sup>泰县</sup></small> ① 等待、准备。<sup>\[泰县\]</sup> ② 等待<sup>\[泰州\]</sup>：他现在小小年纪就小偷小摸的，你还在容他，将来你就～他坐牢吧。<sup>\[泰州\]</sup>｜你扣啊他的奖金，你就～他同你闹吧。<sup>\[泰州\]</sup> ③ 服侍，照料<sup>\[泰州\]</sup>：这种～人的交易我才不弄。<sup>\[泰州\]</sup>  
-1. 【[刺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz.md#刺)】`cz5` <sup>[如东]</sup> ① 用刀尖戳。 ② 扎在皮肤里的竹、木小棍或鱼骨，称刺。  
-1. 【[刺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz.md#刺)】`cz5` <small>/t͡sʰɿ5/<sup>泰兴</sup></small> 泛指尖利如针之物。<sup>\[泰兴\]</sup>  
+1. 【[刺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz.md#刺)】`cz5` <small>/t͡sʰɿ5/<sup>泰兴</sup></small> ① 用刀尖戳。<sup>\[如东\]</sup> ② 扎在皮肤里的竹、木小棍或鱼骨，称刺。<sup>\[如东\]</sup> ③ 泛指尖利如针之物。<sup>\[泰兴\]</sup>  
 1. 【[刺戳戳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_chuah_chuah.md#刺戳戳)】`cz5 chuah7 chuah7` <sup>[东台]</sup> 一种受到刺激，又疼又痒、十分难受的感觉。  
 1. 【[刺刺戳戳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_cz_chuah_chuah.md#刺刺戳戳)】`cz5 cz5 chuah7 chuah7` <sup>[如皋]</sup> ① 一种似刺非刺、似疼非疼的不适感：刚理完发，有头发戗子，身上～的。 ② 人际间小矛盾不断：他俫之间～的。  
 1. 【[刺稭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_gae.md#刺稭)】`cz5 gae1` <small>/t͡sʰɿ5 kɛ1/<sup>如皋</sup>, /t͡sʰɿ5 kɛ/<sup>泰兴</sup></small> ① 一年生草本植物。有大蓟、小蓟两种。<sup>\[如东\]</sup> ② 小蓟。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  

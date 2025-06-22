@@ -348,8 +348,7 @@
 1. 【[拦河网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_hu_van.md#拦河网)】`laen2 hu2 van3` <sup>[如皋]</sup> 连接河两岸的大渔网。  
 1. 【[拦拦水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_laen_shuei.md#拦拦水)】`laen2 laen2 shuei3` <sup>[泰县]</sup> 初入学的小孩。  
 1. 【[拦水脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_shuei_jiah.md#拦水脚)】`laen2 shuei3 jiah7` <sup>[兴化]</sup> 送幼儿入园，防止他们在河湖边玩水：送他上学倒不是为识字，～罢啊。｜也说“关水脚”。  
-1. 【[拦头板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_teu_baen.md#拦头板)】`laen2 teu2 baen3` <sup>[兴化]</sup> （喻）阻拦、泼冷水：他想辞职下海经商，捱我一个～。  
-1. 【[拦头板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_teu_baen.md#拦头板)】`laen2 teu2 baen3` <small>/lɛ̃2 tʰəɪ2 pɛ̃3/<sup>泰兴</sup></small> 障碍。常跟“打”连用。如“打拦头板”，表示不同意。<sup>\[泰兴\]</sup>  
+1. 【[拦头板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_teu_baen.md#拦头板)】`laen2 teu2 baen3` <small>/lɛ̃2 tʰɤ2 pɛ̃3/<sup>兴化</sup>, /lɛ̃2 tʰəɪ2 pɛ̃3/<sup>泰兴</sup></small> ① （喻）阻拦、泼冷水<sup>\[兴化\]</sup>：他想辞职下海经商，捱我一个～。<sup>\[兴化\]</sup> ② 障碍。常跟“打”连用。如“打拦头板”，表示不同意。<sup>\[泰兴\]</sup>  
 1. 【[拦头板子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_teu_baen_zz.md#拦头板子)】`laen2 teu2 baen3 zz` <sup>[东台]</sup> 刚开始做某事就遭到反对：不要怪我打你的～，凭一冲之兴就能办这吖大的事啊？  
 1. 【[拦停](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_tien.md#拦停)】`laen2 tien2` <sup>[兴化]</sup> 别人发生争执，出面调解：他家邻里关系不好，夫妻吵架连个做～的人都没得。  
 1. 【[栏车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_cha.md#栏车)】`laen2 cha1` <small>/lɛ̃2 t͡sʰɑ1/<sup>泰兴</sup></small> 昔时小孩坐的小木车，可推行。<sup>\[泰兴\]</sup>  
@@ -796,8 +795,7 @@
 1. 【[冷凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_den.md#冷凳)】`len3 den5` <small>/lən3 tən5/<sup>兴化</sup>, /ləŋ3 təŋ5/<sup>如皋</sup>, /ləŋ3 təŋ5/<sup>泰兴</sup></small> ① 搁置棺材的板凳。<sup>\[如东\]</sup> ② 搁棺材的特大高凳。<sup>\[如皋\]</sup> ③ 支灵床的凳子。<sup>\[兴化\]</sup> ④ 架灵柩的凳子。<sup>\[泰兴\]</sup>  
 1. 【[冷碟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_dih.md#冷碟)】`len3 dih7` <small>/lən3 tiɪʔ7/<sup>兴化</sup>, /ləŋ3 tiʔ7/<sup>如皋</sup></small> ① 供冷食的菜。<sup>\[如皋\]</sup> ② 盛凉菜的盘子。<sup>\[兴化\]</sup> ③ 各式加工过的冷却后的菜肴，或拼装于大盘，或分装于小盘，为筵席的第一道菜，旧时多以碟装。<sup>\[泰州\]</sup>  
 1. 【[冷冻车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_don_cha.md#冷冻车)】`len3 don5 cha1` <sup>[如东]</sup> 装有制冷设备的运输车。也叫冷藏车。  
-1. 【[冷饭冷菜好吃，冷言冷语难受](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_faen_len_cae.md#冷饭冷菜好吃，冷言冷语难受)】`len3 faen6 len3 cae5 ho3 qieh7 len3 in2 len3 y3 naen2 sheu6` <sup>[东台]</sup> 精神刺激往往比物质刺激更伤人。  
-1. 【[冷饭冷菜好吃，冷言冷语难受](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_faen_len_cae.md#冷饭冷菜好吃，冷言冷语难受)】`len3 faen6 len3 cae5 ho3 qieh7 len3 in2 len3 y3 naen2 sheu6` <small>/ləŋ3 fɛ̃1 ləŋ3 t͡ɕʰiɛ5 xɔ3 t͡ɕʰiəʔ7 ləŋ3 ĩ2 ləŋ3 y3 nɛ̃2 ɕiɤɯ1/<sup>泰兴</sup></small> 谓受人冷脸是极不舒服的。<sup>\[泰兴\]</sup>  
+1. 【[冷饭冷菜好吃，冷言冷语难受](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_faen_len_cae.md#冷饭冷菜好吃，冷言冷语难受)】`len3 faen6 len3 cae5 ho3 qieh7 len3 in2 len3 y3 naen2 sheu6` <small>/ləŋ3 fɛ̃1 ləŋ3 t͡ɕʰiɛ5 xɔ3 t͡ɕʰiəʔ7 ləŋ3 ĩ2 ləŋ3 y3 nɛ̃2 ɕiɤɯ1/<sup>泰兴</sup></small> ① 精神刺激往往比物质刺激更伤人。<sup>\[东台\]</sup> ② 谓受人冷脸是极不舒服的。<sup>\[泰兴\]</sup>  
 1. 【[冷锅冰灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_gu_bien_zo.md#冷锅冰灶)】`len3 gu1 bien1 zo5` <sup>[兴化]</sup> 形容冷落的样子：兴冲冲赶到家，一看～的心就凉吖。  
 1. 【[冷锅饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_gu_bien.md#冷锅饼)】`len3 gu1 bien3` <sup>[东台]</sup> 面粉发酵后，在锅里加油煎烤而成的大圆饼，中间厚边子薄，以蹲门大饼最有名，中秋节前后食用最普遍。因其它烙饼须放入热锅烘烤，否则锅不热饼不靠，而此饼可以先放入冷锅再加热煎成，故称～。  
 1. 【[冷锅冷灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_gu_len_zo.md#冷锅冷灶)】`len3 gu1 len3 zo5` <sup>[如东]</sup> 比喻待人冷淡：走到陈玉苹家，～的，不是个滋味儿。  
@@ -813,8 +811,7 @@
 1. 【[冷脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_lin.md#冷脸)】`len3 lin3` <sup>[如皋]</sup> 喻对人板着面孔，不见笑容。  
 1. 【[冷路货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_lv_hu.md#冷路货)】`len3 lv6 hu5` <sup>[如东]</sup> 销路不好的商品：这是一批～。  
 1. 【[冷露](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_lv.md#冷露)】`len3 lv6` <sup>[如东]</sup> 地面物体上已见明显的露水，表示气温已经很低，但还没有形成霜：今朝有～啊。  
-1. 【[冷面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_min.md#冷面)】`len3 min6` <sup>[如皋]</sup> 凉拌面。夏季多食之。即面条煮熟后下冷水，捞出甩去水份，拌食。  
-1. 【[冷面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_min.md#冷面)】`len3 min6` <small>/ləŋ3 mĩ1/<sup>泰兴</sup></small> 煮熟的面条用冷开水浸一下，以浇头拌之而食。夏令食品。乡人农历五月十三、六月十九有食冷面之俗。<sup>\[泰兴\]</sup>  
+1. 【[冷面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_min.md#冷面)】`len3 min6` <small>/ləŋ3 mĩ1/<sup>如皋</sup>, /ləŋ3 mĩ1/<sup>泰兴</sup></small> ① 凉拌面。夏季多食之。即面条煮熟后下冷水，捞出甩去水份，拌食。<sup>\[如皋\]</sup> ② 煮熟的面条用冷开水浸一下，以浇头拌之而食。夏令食品。乡人农历五月十三、六月十九有食冷面之俗。<sup>\[泰兴\]</sup>  
 1. 【[冷屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_pi_gu.md#冷屁股)】`len3 pi5 gu` <small>/ləŋ3 pʰʝ5 kɤɯ/<sup>泰兴</sup></small> 骂人语。犹冷脸。<sup>\[泰兴\]</sup>：热脸相他的～<sup>\[泰兴\]</sup>  
 1. 【[冷被](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_pi.md#冷被)】`len3 pi6` <sup>[如皋]</sup> 停灵，收殓所用的盖被。  
 1. 【[冷盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_pun.md#冷盘)】`len3 pun2` <sup>[如皋]</sup> 供冷食的菜。  
@@ -1192,8 +1189,7 @@
 1. 【[拎草鞋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_co_hae.md#拎草鞋)】`lien2 co3 hae2` <sup>[东台]</sup> 形容做不了大事，只能听人支派或协助别人做小事。  
 1. 【[棂子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_zz.md#棂子)】`lien2 zz` <sup>[如东]</sup> 窗户中间安装的木槅子。  
 1. 【[淋灰水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_huei_shuei.md#淋灰水)】`lien2 huei1 shuei3` <sup>[如皋]</sup> 见“𤃀灰水”。  
-1. 【[灵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien.md#灵)】`lien2` <sup>[如皋]</sup> 蟋蟀精子：过～  
-1. 【[灵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien.md#灵)】`lien2` <small>/liŋ2/<sup>泰兴</sup></small> 准确，有效验。也是玄学说法，指神祇会显灵起效。<sup>\[泰兴\]</sup>：上个月拜的那个菩萨，些人总说的～ngae<sup>\[泰兴\]</sup>  
+1. 【[灵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien.md#灵)】`lien2` <small>/liəŋ2/<sup>如皋</sup>, /liŋ2/<sup>泰兴</sup></small> ① 蟋蟀精子<sup>\[如皋\]</sup>：过～<sup>\[如皋\]</sup> ② 准确，有效验。也是玄学说法，指神祇会显灵起效。<sup>\[泰兴\]</sup>：上个月拜的那个菩萨，些人总说的～ngae<sup>\[泰兴\]</sup>  
 1. 【[灵床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_chuan.md#灵床)】`lien2 chuan2` <sup>[东台]</sup> 停放尸体的床铺。  
 1. 【[灵泛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_faen.md#灵泛)】`lien2 faen` <small>/liəŋ2 fẽ/<sup>如皋</sup></small> ① 聪明 ② 聪明灵慧。<sup>\[如皋\]</sup> ③ 如皋白蒲义为干净。<sup>\[如皋\]</sup>  
 1. 【[灵泛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_faen.md#灵泛)】`lien2 faen5` <sup>[如东]</sup> 聪明，能干。  
@@ -1611,8 +1607,7 @@
 1. 【[牢事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_shr.md#牢事)】`lo2 shr6` 詈词，指无聊的举动<sup>\[泰州\]</sup>：你在家里没得～做，写写字也是好的。<sup>\[泰州\]</sup>｜你说他哿有～做，家里捱他翻得一塌糊涂。<sup>\[泰州\]</sup>  
 1. 【[牢骚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_so.md#牢骚)】`lo2 so1` <sup>[如东]</sup> 发泄不满情绪，说抱怨话：不要发～。  
 1. 【[牢头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_teu.md#牢头)】`lo2 teu2` <small>/lɔ2 tʰəɪ2/<sup>泰兴</sup></small> 谓不顾他人，只顾自己狂吃滥喝。<sup>\[泰兴\]</sup>  
-1. 【[牢头禁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_teu_jien_zz.md#牢头禁子)】`lo2 teu2 jien5 zz` <sup>[如东]</sup> ① 旧时看管牢狱的兵士。 ② 比喻紧紧盯着自己的人：他像～一样的盯吖我。  
-1. 【[牢头禁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_teu_jien_zz.md#牢头禁子)】`lo2 teu2 jien5 zz` <small>/lɔ2 tʰəɪ2 t͡ɕiŋ5 t͡sɿ/<sup>泰兴</sup></small> 旧称看管囚犯的狱卒。<sup>\[泰兴\]</sup>  
+1. 【[牢头禁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_teu_jien_zz.md#牢头禁子)】`lo2 teu2 jien5 zz` <small>/lɔ2 tʰəɪ2 t͡ɕiŋ5 t͡sɿ/<sup>泰兴</sup></small> ① 旧时看管牢狱的兵士。<sup>\[如东\]</sup> ② 比喻紧紧盯着自己的人。<sup>\[如东\]</sup>：他像～一样的盯吖我。<sup>\[如东\]</sup> ③ 旧称看管囚犯的狱卒。<sup>\[泰兴\]</sup>  
 1. 【[牢头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_teu_zz.md#牢头子)】`lo2 teu2 zz` <sup>[东台]</sup> （詈语）怨指不好的东西：他不该炒这个～股，亏得厉害！  
 1. 【[牢洞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ton.md#牢洞)】`lo2 ton6` <sup>[兴化]</sup> 旧时监狱墙壁上开的小洞，瘐死者的尸体从洞口送出：这个小伙不学好，拖～的日子在后头！｜（吕祥）禁不得三四日，断了茶水，把一条绝歪的狗命顷刻呜呼。报了州官，将尸体从～里拖将出去……（《醒世姻缘传》八八）  
 1. 【[牢瘟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ven.md#牢瘟)】`lo2 ven1` <sup>[兴化]</sup> ① 旧称监狱中的传染病。 ② 作副词，表对某事物的厌恶情绪：这个～伞，风一刮就翻过去啊。  
@@ -2367,15 +2362,13 @@
 1. 【[乱捣酱缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_do_jian_gan.md#乱捣酱缸)】`lun6 do3 jian5 gan1` <sup>[东台]</sup> ［喻］指那些不守规矩无事生非的行为。  
 1. 【[乱掇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_duh.md#乱掇)】`lun6 duh7` <sup>[如东]</sup> 混乱：非常～。  
 1. 【[乱坟场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_fen_chan.md#乱坟场)】`lun6 fen2-men chan` <sup>[如皋]</sup> 荒冢地。  
-1. 【[乱坟场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_fen_chan.md#乱坟场)】`lun6 fen2 chan2` <sup>[如东]</sup> 旧时贫民丧葬的场所。  
-1. 【[乱坟场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_fen_chan.md#乱坟场)】`lun6 fen2 chan2` <small>/lʊ̃1 fəŋ2 t͡sʰɑŋ2/<sup>泰兴</sup></small> 什么人都可以埋葬的地方。<sup>\[泰兴\]</sup>  
+1. 【[乱坟场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_fen_chan.md#乱坟场)】`lun6 fen2 chan2` <small>/lʊ̃1 fəŋ2 t͡sʰɑŋ2/<sup>泰兴</sup></small> ① 旧时贫民丧葬的场所。<sup>\[如东\]</sup> ② 什么人都可以埋葬的地方。<sup>\[泰兴\]</sup>  
 1. 【[乱坟葬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_fen_zan.md#乱坟葬)】`lun6 fen2 zan5` <small>/lũ6 fən2 t͡saŋ5/<sup>兴化</sup></small> ① 无主的乱葬坟地<sup>\[兴化\]</sup>：（他）实在跑不动了，就在一个～上停了下来。（兴文：《中堡庄》）<sup>\[兴化\]</sup> ② 用来埋葬死者的无主荒地。旧时荒滩野地，常被用来埋葬无家可归的死者或者没有资格进入祖坟的死者，穷人因为无地，也在这里埋葬死者。属于无人管的荒地，随地埋葬，坟墓散乱。<sup>\[泰州\]</sup>  
 1. 【[乱营](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_ien.md#乱营)】`lun6 ien2` <small>/lũ6 in2/<sup>兴化</sup>, /nõ1 iŋ2/<sup>泰县</sup></small> ① 内部发生混乱。<sup>\[如东\]</sup>：操场上～吖。<sup>\[如东\]</sup> ② （喻）秩序混乱：迎会队伍一过，街上就像乱吖营。<sup>\[兴化\]</sup> ③ 秩序紊乱：这会场～。<sup>\[泰县\]</sup> ④ 泛指秩序混乱<sup>\[泰州\]</sup>：他家老的过八十岁，各地的亲戚都来啊，家里客厅里人都坐啊满吖，整个乱吖营。<sup>\[泰州\]</sup>  
 1. 【[乱里把西的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_lii_ba_xi.md#乱里把西的)】`lun6 lii ba3 xi1 dii` <sup>[如皋]</sup> 乱糟糟的。  
 1. 【[乱吖营](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_nga_ien.md#乱吖营)】`lun6 nga ien2` <small>/lʊ̃1 ŋa iəŋ2/<sup>如皋</sup></small> ① 指一定范围内，顿时大乱。<sup>\[如皋\]</sup> ② 形容场面一片混乱。<sup>\[东台\]</sup>  
 1. 【[乱悂星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_pi_xien.md#乱悂星)】`lun6 pi1 xien1` <sup>[泰州]</sup> 做事丢三落四的人：你就是个～，自己放的东西，都不晓得在甚的地方。  
-1. 【[乱蓬蓬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_pon_pon.md#乱蓬蓬)】`lun6 pon1 pon1` <sup>[如皋]</sup> 状毛发纷乱、蓬乱状。  
-1. 【[乱蓬蓬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_pon_pon.md#乱蓬蓬)】`lun6 pon1 pon1` <small>/lʊ̃1 pʰɔŋ1 pʰɔŋ1/<sup>泰兴</sup></small> 蓬松，散乱。<sup>\[泰兴\]</sup>  
+1. 【[乱蓬蓬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_pon_pon.md#乱蓬蓬)】`lun6 pon1 pon1` <small>/lʊ̃1 pʰɔŋ1 pʰɔŋ1/<sup>如皋</sup>, /lʊ̃1 pʰɔŋ1 pʰɔŋ1/<sup>泰兴</sup></small> ① 状毛发纷乱、蓬乱状。<sup>\[如皋\]</sup> ② 蓬松，散乱。<sup>\[泰兴\]</sup>  
 1. 【[乱埲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_pon.md#乱埲)】`lun6 pon6` <small>/lʊ̃1 pʰɔŋ1/<sup>如皋</sup></small> ① 状人们乱走乱撞。<sup>\[如皋\]</sup> ② 状灰尘、纤维等乱飞乱扬。<sup>\[如皋\]</sup> ③ 状虫子等乱飞乱舞。<sup>\[如皋\]</sup> ④ 状禽鸟等乱飞乱跳。<sup>\[如皋\]</sup>  
 1. 【[乱七八糟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_qieh_baeh_zo.md#乱七八糟)】`lun6 qieh7 baeh7 zo1` <sup>[如东]</sup> 形容非常混乱：家里的东西摆啊～的。  
 1. 【[乱神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lun_shen.md#乱神)】`lun6 shen2` <small>/lʊ̃1 səŋ2/<sup>如皋</sup></small> ① 慌乱，拿不定主意。与“定神”相对。<sup>\[如皋\]</sup> ② 思路乱没主见<sup>\[东台\]</sup>：不管情况怎吖样，都要沉着应对，不能～。<sup>\[东台\]</sup>  

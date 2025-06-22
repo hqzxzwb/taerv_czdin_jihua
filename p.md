@@ -323,11 +323,9 @@
 1. 【[披啊股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_a_gv.md#披啊股)】`pi1 a gv3` <sup>[如皋]</sup> 线股敞开。  
 1. 【[披叶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_ih.md#披叶)】`pi1 ih` <sup>[东台]</sup> 覆在蔬菜最外面的叶子。  
 1. 【[披叶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_ih.md#披叶)】`pi1 ih8` <small>/pʰʝ1 iʔ8/<sup>如皋</sup></small> ① 本指蔬菜胚芽长成的叶片。现也指包在蔬菜外层的老叶，在剥除之列。<sup>\[如皋\]</sup> ② 青菜、芹菜之类蔬菜最先长出的位于外围的带柄叶片。<sup>\[泰州\]</sup>  
-1. 【[披肩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_jin.md#披肩)】`pi1 jin1` <sup>[东台]</sup> 妇女披在肩上的服饰。  
-1. 【[披肩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_jin.md#披肩)】`pi1 jin1` <small>/pʰʝ1 t͡ɕĩ1/<sup>泰兴</sup></small> 披在肩上的服饰。<sup>\[泰兴\]</sup>  
+1. 【[披肩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_jin.md#披肩)】`pi1 jin1` <small>/pʰʝ1 t͡ɕĩ1/<sup>泰兴</sup></small> 披在肩上的服饰。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[披麻戴孝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_ma_dae_xio.md#披麻戴孝)】`pi1 ma2 dae5 xio5` <sup>[如东]</sup> 父母死后，子女头戴白帽，帽后披着麻片，身穿白衣，腰扎稻草绳，脚穿白鞋，表示哀悼和敬爱，称披麻戴孝。  
-1. 【[披屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_oh.md#披屋)】`pi1 oh7` <sup>[兴化]</sup> 挨着正屋斜搭的小屋：“……如今我们又增造许多，装折许多材料，值得多了……”（《初刻》十五）。也说“披儿”。  
-1. 【[披屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_oh.md#披屋)】`pi1 oh7` <small>/pʰʝ1 ɔʔ7/<sup>泰兴</sup></small> 正屋旁依山墙所搭的小屋。<sup>\[泰兴\]</sup>  
+1. 【[披屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_oh.md#披屋)】`pi1 oh7` <small>/pʰi1 ɔʔ7/<sup>兴化</sup>, /pʰʝ1 ɔʔ7/<sup>泰兴</sup></small> ① 挨着正屋斜搭的小屋<sup>\[兴化\]</sup>：“……如今我们又增造许多，装折许多材料，值得多了……”（《初刻》十五）。也说“披儿”。<sup>\[兴化\]</sup> ② 正屋旁依山墙所搭的小屋。<sup>\[泰兴\]</sup>  
 1. 【[披<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_r.md#披<sub>儿</sub>)】`pi1 r` <small>/pʰʝ˞1/<sup>如皋</sup>, /pʰɿ1 ɚ/<sup>泰县</sup></small> ① 简陋的小房子 ② 傍正屋搭建的、屋顶向一面斜的便房<sup>\[如皋\]</sup>：厨房～、元宝屋儿两搭～。<sup>\[如皋\]</sup> ③ 大屋外边搭建的小屋。<sup>\[如东\]</sup> ④ 在正规屋子边子搭建的简陋小屋。<sup>\[泰县\]</sup>  
 1. 【[披纱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_sha.md#披纱)】`pi1 sha1` <sup>[兴化]</sup> 汉字笔划，形状是“广”。也称“广字头”。  
 1. 【[披头散发](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_teu_saen_faeh.md#披头散发)】`pi1 teu2 saen5 faeh7` <sup>[如东]</sup> 头发散乱的样子。  
@@ -417,8 +415,7 @@
 1. 【[皮𣻏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_xio.md#皮𣻏)】`pi2 xio1` <sup>[如东]</sup> 皮肤薄。比喻爱面子：红红～，不肯去说。  
 1. 【[皮血](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_xiuh.md#皮血)】`pi2 xiuh7` <sup>[如皋]</sup> 自尊：没皮血，没皮没血。  
 1. 【[皮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_zz.md#皮子)】`pi2 zz` <small>/pʰi2 t͡sɿ/<sup>兴化</sup>, /pʰʝ2 t͡sɿ/<sup>如皋</sup>, /pʰʝ2 t͡sɿ/<sup>泰兴</sup>, /pʰɿ2 t͡se/<sup>泰县</sup></small> ① 毛皮。<sup>\[如皋\]</sup> ② 人皮肤<sup>\[如皋\]</sup>：她～细泛（细腻）。<sup>\[如皋\]</sup> ③ 包子、饺子等食品的表层。<sup>\[如皋\]</sup> ④ 包饺子的面制品。<sup>\[东台\]</sup> ⑤ 皮袄的毛皮。<sup>\[东台\]</sup> ⑥ 皮肤<sup>\[兴化\]</sup>：二姑娘的～又白又细腻。<sup>\[兴化\]</sup> ⑦ 毛皮，多指羊皮，又叫“皮筒子”。<sup>\[兴化\]</sup> ⑧ 豆腐皮，又称“膜儿”。<sup>\[兴化\]</sup> ⑨ 皮肤<sup>\[泰县\]</sup>：这个伢儿～黑。<sup>\[泰县\]</sup> ⑩ 加工以后带毛的动物皮。<sup>\[泰州\]</sup> ⑪ 包或裹在物体外面的一层东西<sup>\[泰兴\]</sup>：扁食～<sup>\[泰兴\]</sup>｜浆～<sup>\[泰兴\]</sup>｜豆腐～<sup>\[泰兴\]</sup>  
-1. 【[纰漏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_leu.md#纰漏)】`pi2 leu6` <sup>[如东]</sup> 差错：出～。  
-1. 【[纰漏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_leu.md#纰漏)】`pi2 leu6` <small>/pʰʝ2 ləɪ1/<sup>泰兴</sup></small> 错误，疏失；问题。<sup>\[泰兴\]</sup>  
+1. 【[纰漏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_leu.md#纰漏)】`pi2 leu6` <small>/pʰʝ2 ləɪ1/<sup>泰兴</sup></small> ① 差错。<sup>\[如东\]</sup>：出～。<sup>\[如东\]</sup> ② 错误，疏失；问题。<sup>\[泰兴\]</sup>  
 1. 【[纰漏公司](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_leu_gon_sz.md#纰漏公司)】`pi2 leu6 gon1 sz1` <sup>[如东]</sup> 比喻经常闯祸的人。  
 1. 【[脾家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_jia.md#脾家)】`pi2 jia1` <small>/pʰi2 t͡ɕia1/<sup>兴化</sup>, /pʰʝ2 t͡ɕia1/<sup>如皋</sup>, /pʰɿ2 t͡ɕia1/<sup>泰县</sup></small> ① 脾气。<sup>\[如皋\]</sup><sup>\[如东\]</sup>：发～。<sup>\[如东\]</sup> ② 脾气，脾性<sup>\[东台\]</sup>：她～好！<sup>\[东台\]</sup> ③ 品性<sup>\[兴化\]</sup>：他的～不好，跟人借钱总不想还。<sup>\[兴化\]</sup> ④ 性情，也说“脾气”。<sup>\[兴化\]</sup>：老刘～不小，一碰就发火。<sup>\[兴化\]</sup> ⑤ 脾气<sup>\[泰县\]</sup>：这个～不丑。<sup>\[泰县\]</sup> ⑥ 脾气，怒气<sup>\[泰州\]</sup>：你有话好好的说，不要发～。<sup>\[泰州\]</sup>｜岁数大啊，～也大啊。<sup>\[泰州\]</sup> ⑦ 性格<sup>\[泰州\]</sup>：他就这个～，改不掉啊。<sup>\[泰州\]</sup>｜他～多好啊，做事多一当吖。<sup>\[泰州\]</sup>  
 1. 【[脾气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_qi.md#脾气)】`pi2 qi` <sup>[如东]</sup> 性情：～不好。  
@@ -856,8 +853,7 @@
 1. 【[抱不哭的伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_beh_koh_dii.md#抱不哭的伢<sub>儿</sub>)】`po6 beh7 koh7 dii nga2 r` <sup>[东台]</sup> 回避难题，拣容易做的事去做。  
 1. 【[抱草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_co.md#抱草)】`po6 co3` <sup>[东台]</sup> 搬运炊草（手工）至厨房，准备煮饭，亦称“捧草”。旧时茅草为生活的主要燃料。由于茅草不熬火，留下这样的民谣：烧锅如烧窑，～如跑报。  
 1. 【[抱粗腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_cv_ty.md#抱粗腿)】`po6 cv1 ty3` <sup>[泰州]</sup> 比喻巴结、攀附有钱有势的人：他正经本事没得，～的本事还是有的。  
-1. 【[抱佛脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_feh_jiah.md#抱佛脚)】`po6 feh8 jiah7` <sup>[如东]</sup> 抱住佛脚，祈求菩萨保佑：平时不复习，临时～。  
-1. 【[抱佛脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_feh_jiah.md#抱佛脚)】`po6 feh8 jiah7` <small>/pʰɔ1 fəʔ8 t͡ɕiɑʔ7/<sup>泰兴</sup></small> 称事先无准备而临时慌忙应付为抱佛脚。<sup>\[泰兴\]</sup>：平时不烧香，临时～<sup>\[泰兴\]</sup>  
+1. 【[抱佛脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_feh_jiah.md#抱佛脚)】`po6 feh8 jiah7` <small>/pʰɔ1 fəʔ8 t͡ɕiɑʔ7/<sup>泰兴</sup></small> ① 抱住佛脚，祈求菩萨保佑。<sup>\[如东\]</sup>：平时不复习，临时～。<sup>\[如东\]</sup> ② 称事先无准备而临时慌忙应付为抱佛脚。<sup>\[泰兴\]</sup>：平时不烧香，临时～<sup>\[泰兴\]</sup>  
 1. 【[抱角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_gah.md#抱角)】`po6 gah7` <sup>[兴化]</sup> 沿拐角的地方：沿着西墙向南，～左拐，便是胡家大院前门。（马春阳《翁婿同还乡》）  
 1. 【[抱腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_io.md#抱腰)】`po6 io1` <small>/pʰɔ6 iɔ1/<sup>兴化</sup>, /pʰɔ1 iɔ1/<sup>泰县</sup></small> ① 旧法接生，产妇坐者生产，身后有人搂着腰<sup>\[兴化\]</sup>：老娘也熟知各家的情况，哪个年长的女佣人可以当她的助手，当“～的”，不须临时现找。（汪曾祺《故里三陈》）<sup>\[兴化\]</sup> ② 做后盾<sup>\[兴化\]</sup>：有他～，你还怕甚的？<sup>\[兴化\]</sup> ③ 给产妇抱腰以助产：你老三老四做甚的，你还是我去～的唻！/老身为头是做媒，又会做牙婆，也会～，也会柜小的，也会说风情，也会做马泊六。（《水浒·24回》）<sup>\[泰县\]</sup> ④ 抱住产妇的腰以助产：你出生的时候，还是我去～的唻。<sup>\[泰县\]</sup>  
 1. 【[抱腰丹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_io_daen.md#抱腰丹)】`po6 io1 daen1` <sup>[如东]</sup> 一种恶性皮肤病，由丹毒链球菌侵入皮肤的小淋巴管引起腰部周围出现颗粒性红色斑点，奇痒难受。  
@@ -887,8 +883,7 @@
 1. 【[扑屋匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_oh_qian.md#扑屋匠)】`poh7 oh7 qian6` <sup>[如皋]</sup> 见“盖屋匠”。  
 1. 【[扑匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_qian.md#扑匠)】`poh7 qian` <sup>[如东]</sup> 建造和修理扑屋的小手工业者。  
 1. 【[拍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh.md#拍)】`poh7` <sup>[泰州]</sup> 拍打：烧黄鱼，～两个蒜头放进去烧。  
-1. 【[拍巴掌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_ba_zhan.md#拍巴掌)】`poh7 ba1 zhan` <sup>[东台]</sup> 拍手。  
-1. 【[拍巴掌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_ba_zhan.md#拍巴掌)】`poh7 ba1 zhan` <small>/pʰɔʔ7 pɑ1 t͡sɑŋ/<sup>泰兴</sup></small> 鼓掌，拍手。<sup>\[泰兴\]</sup>  
+1. 【[拍巴掌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_ba_zhan.md#拍巴掌)】`poh7 ba1 zhan` <small>/pʰɔʔ7 pɑ1 t͡sɑŋ/<sup>泰兴</sup></small> ① 拍手。<sup>\[东台\]</sup> ② 鼓掌，拍手。<sup>\[泰兴\]</sup>  
 1. 【[拍镲<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_cha_r.md#拍镲<sub>儿</sub>)】`poh7 cha3 r` <sup>[东台]</sup> 钹，像铙，一种打击乐器，是两个形同凉帽的圆铜片，顶上穿绸条相对拍打发声。  
 1. 【[拍碌秃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_loh_toh.md#拍碌秃)】`poh7 loh toh` <small>/pʰɔʔ7 lɔʔ tʰɔʔ/<sup>泰兴</sup></small> 象声词。形容物体落地的声音。<sup>\[泰兴\]</sup>  
 1. 【[拍马屁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_ma_pi.md#拍马屁)】`poh7 ma3 pi` <sup>[泰州]</sup> 谄媚奉承、讨好别人：这家伙人品不好，成天跟吖领导后头～，当领导的没得哪个不喜欢他。  
@@ -1226,8 +1221,7 @@
 1. 【[跋绞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh_jio.md#跋绞)】`puh8 jio3` <sup>[东台]</sup> 花销、费用：这一类的活动～太大，划不来，以后不能再搞啊。（“跋”疑似“盘”促化）  
 1. 【[钹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh.md#钹)】`puh8` <sup>[兴化]</sup> 把多出部分去掉：这块木头凸咖在外头，拿锯子～掉。  
 1. 【[拚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun.md#拚)】`pun1` <sup>[泰州]</sup> “拌”（普官切 pun1）的俗字。舍弃（时间精力金钱甚至生命等去争斗）：～死｜他敢拆我的房子，我就同他～命。  
-1. 【[拚不得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_beh_deh.md#拚不得)】`pun1 beh deh7` <sup>[如皋]</sup> 舍不得：购物时嫌价高，不愿多花钱。  
-1. 【[拚不得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_beh_deh.md#拚不得)】`pun1 beh deh7` <small>/pʰʊ̃1 pəʔ təʔ7/<sup>泰兴</sup></small> 舍不得，吝啬。<sup>\[泰兴\]</sup>  
+1. 【[拚不得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_beh_deh.md#拚不得)】`pun1 beh deh7` <small>/pʰʊ̃1 pəʔ təʔ7/<sup>如皋</sup>, /pʰʊ̃1 pəʔ təʔ7/<sup>泰兴</sup></small> ① 舍不得：购物时嫌价高，不愿多花钱。<sup>\[如皋\]</sup> ② 舍不得，吝啬。<sup>\[泰兴\]</sup>  
 1. 【[拚不起](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_beh_qi.md#拚不起)】`pun1 beh qi3` <sup>[如皋]</sup> 力量的能耐不能与人並比。  
 1. 【[拚不得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_beh_deh.md#拚不得)】`pun1 beh7 deh7` 舍不得  
 1. 【[拚得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_deh.md#拚得)】`pun1-paen6 deh` <sup>[兴化]</sup> 不惜一切地去做：～倾家荡产，跟他把这场官司打到底。｜你～死，我～埋！  
