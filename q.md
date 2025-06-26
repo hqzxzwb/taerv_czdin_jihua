@@ -11,7 +11,7 @@
 1. 【[攲里八怪的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_lii_baeh_guae.md#攲里八怪的)】`qi1 lii baeh7 guae5 dii` <sup>[如皋]</sup> 蹊跷。  
 1. 【[攲里攲跷的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_lii_qi_qio.md#攲里攲跷的)】`qi1 lii qi1 qio dii` <sup>[如皋]</sup> 蹊跷。  
 1. 【[攲跷八怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_qio_baeh_guae.md#攲跷八怪)】`qi1 qio baeh7 guae5` <small>/t͡ɕʰi1 t͡ɕʰiɔ pæʔ7 kuɛ5/<sup>兴化</sup></small> ① 反常；特别；奇怪<sup>\[东台\]</sup>：这吖热的天他还穿棉𧘸子，真是～的。<sup>\[东台\]</sup> ② 形容令人奇怪的事物<sup>\[兴化\]</sup>：江西来的动物展览，有好些～的动物。<sup>\[兴化\]</sup>  
-1. 【[攲跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_qio.md#攲跷)】`qi1 qio1` ① 奇怪，费解。<sup>\[如东\]</sup>：这样处理让人感觉～。<sup>\[如东\]</sup> ② 可疑，怪异而违背常情<sup>\[泰州\]</sup>：你俫都不曾说，她怎吖晓得的，有点儿～。<sup>\[泰州\]</sup>  
+1. 【[攲跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_qio.md#攲跷)】`qi1 qio1` <small>/t͡ɕʰʝ1 t͡ɕʰiɔ1/<sup>泰兴</sup></small> ① 奇怪，费解。<sup>\[如东\]</sup>：这样处理让人感觉～。<sup>\[如东\]</sup> ② 可疑，怪异而违背常情<sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：你俫都不曾说，她怎吖晓得的，有点儿～。<sup>\[泰州\]</sup>  
 1. 【[攲跷八怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_qio_baeh_guae.md#攲跷八怪)】`qi1 qio1 baeh7 guae5` <sup>[泰州]</sup> ① 非常可疑：单位上最近发生些～的事情，把大家弄得五点六点的。 ② 非常奇异：他从国外带啊些～的水果家来啊。  
 1. 【[期间<sub>儿</sub>窄料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_gaen_r_zheh.md#期间<sub>儿</sub>窄料)】`qi1 gaen1 r zheh7 lio6` <sup>[东台]</sup> 为做某事准备的材料只在预算之间，没有一点余地，紧巴巴的：明天来客多，菜要多买些，不能弄得～的。  
 1. 【[期境](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_jien.md#期境)】`qi1 jien` <sup>[兴化]</sup> ① 局势：等外头～平定下来再出去吧！ ② 境况：你的～也不好，覅管我俫吧！  
@@ -63,7 +63,7 @@
 1. 【[齐肚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_dv.md#齐肚)】`qi2 dv3` <sup>[如皋]</sup> 一种善斗的蟀蟋名。  
 1. 【[齐力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_lieh.md#齐力)】`qi2 lieh8` <sup>[如皋]</sup> 个个都成为大劳力：伢儿大啊，齐力咖，田里活技不够做。  
 1. 【[齐齐整整](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_qi_zhen_zhen.md#齐齐整整)】`qi2 qi2 zhen3 zhen3` <sup>[兴化]</sup> 形容整齐划一：一大批成品～的堆啊在仓库里。也说“齐整整”“齐崭崭”。  
-1. 【[齐巧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_qio.md#齐巧)】`qi2 qio3` <sup>[兴化]</sup> 碰巧、凑巧：钱典史去后，～上头有事来叫戴升进去……（《官场现形记》三）。“……数日前，～派了刚圣慕来……”（《老残游记》十五）  
+1. 【[齐巧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_qio.md#齐巧)】`qi2 qio3` <small>/t͡ɕʰi2 t͡ɕʰiɔ3/<sup>兴化</sup>, /t͡ɕʰʝ2 t͡ɕʰiɔ3/<sup>泰兴</sup></small> 碰巧、凑巧<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：钱典史去后，～上头有事来叫戴升进去……（《官场现形记》三）。“……数日前，～派了刚圣慕来……”（《老残游记》十五）<sup>\[兴化\]</sup>  
 1. 【[齐人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_ren.md#齐人)】`qi2 ren2` <sup>[兴化]</sup> 发信号集合人：……各营盘里，掌号～，把队伍都开到大堤上去。（《老残游记》十三）  
 1. 【[齐上戴家窑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_shan_dae_ga.md#齐上戴家窑)】`qi2 shan6 dae5 ga1 io2` <sup>[东台]</sup> ① 此话有两说：以西溪一个谣传害得乡邻们纷纷向戴家窑逃亡的故事，讽喻捕风捉影，一哄而起的现象。 ② 元末明初，张士诚不满官方横征暴敛，带领手下弟兄星夜杀向有驻兵的戴窑，接着又乘胜前进，向兴化打去，其势越打越强。这就有了“～，一路兴化村”的说法。（再参见“一路鲜花村”）  
 1. 【[齐刷刷的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_shuaeh_shuaeh_dii.md#齐刷刷的)】`qi2 shuaeh7 shuaeh7 dii` <sup>[东台]</sup> 整整齐齐：表演广播操的小学生～排成十路纵队。  

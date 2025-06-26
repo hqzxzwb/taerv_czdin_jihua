@@ -90,14 +90,17 @@
 1. 【[雨沰沰的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_dah_dah_dii.md#雨沰沰的)】`y3 dah7 dah7 dii` <sup>[如皋]</sup> 雨打、雨淋。  
 1. 【[雨沰漺漺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_dah_shuan_shuan.md#雨沰漺漺)】`y3 dah7 shuan2 shuan2` <sup>[兴化]</sup> 在雨中行走或停留，雨水淋在身上往下流淌：～的不要往外跑。  
 1. 【[雨沰𩆿𩆿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_dah_shuan_shuan.md#雨沰𩆿𩆿)】`y3 dah7 shuan2 shuan2` <sup>[泰州]</sup> 人在大雨之中行走，雨水沿着人的身体向下流淌的样子：这一刻儿～的，你怎吖走法，等雨小点儿再走吧。  
-1. 【[雨沰洵洵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_dah_xyen_xyen.md#雨沰洵洵)】`y3 dah7 xyen2 xyen2` <sup>[东台]</sup> 冒雨走路，浑身水淋淋的：外面～的，你还来看我，谢谢！  
+1. 【[雨沰□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_dah_suen_suen.md#雨沰□□)】`y3 dah7 suen2 suen2` <sup>[东台]</sup> 冒雨走路，浑身水淋淋的：外面～的，你还来看我，谢谢！  
 1. 【[雨陡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_deu.md#雨陡)】`y3 deu3` <sup>[如皋]</sup> 雨特别大。  
-1. 【[雨盖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_gae.md#雨盖)】`y3 gae5` <sup>[如东]</sup> 雨伞，称雨盖。  
-1. 【[雨夹雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_gaeh_xiuh.md#雨夹雪)】`y3 gaeh7 xiuh7` <small>/y3 kæʔ7 ɕyuʔ7/<sup>兴化</sup></small> ① 下雨的同时飘雪花。<sup>\[东台\]</sup> ② 行书作品夹着草字。<sup>\[东台\]</sup> ③ （喻）不纯粹的事物，如说普通话时杂有方言、语体文中杂有文言词语。<sup>\[兴化\]</sup> ④ 下雨的时候下雪。<sup>\[泰州\]</sup> ⑤ 一种饭食，在煮熟的菜面条里加上米饭混煮。<sup>\[泰州\]</sup>  
+1. 【[雨点子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_din_zz.md#雨点子)】`y3 din3 zz` <small>/y3 tĩ3 t͡sɿ/<sup>泰兴</sup></small> 形成雨的水点。<sup>\[泰兴\]</sup>  
+1. 【[雨盖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_gae.md#雨盖)】`y3 gae5` <small>/y3 kɛ5/<sup>泰兴</sup></small> 雨伞<sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
+1. 【[雨夹雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_gaeh_xiuh.md#雨夹雪)】`y3 gaeh7 xiuh7` <small>/y3 kæʔ7 ɕyuʔ7/<sup>兴化</sup>, /y3 kæʔ7 ɕyʊʔ7/<sup>泰兴</sup></small> ① 雨夹雪，天气现象<sup>\[东台\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup> ② 行书作品夹着草字。<sup>\[东台\]</sup> ③ （喻）不纯粹的事物，如说普通话时杂有方言、语体文中杂有文言词语。<sup>\[兴化\]</sup> ④ 一种饭食，在煮熟的菜面条里加上米饭混煮。<sup>\[泰州\]</sup>  
 1. 【[雨后送伞——过啊时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_heu_son_saen.md#雨后送伞——过啊时)】`y3 heu6 son5 saen3 gu5 a shr2` <sup>[东台]</sup>   
-1. 【[雨脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_jiah.md#雨脚)】`y3 jiah7` <sup>[如东]</sup> 下雨的密度：～大。  
+1. 【[雨脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_jiah.md#雨脚)】`y3 jiah7` <small>/y3 t͡ɕiɑʔ7/<sup>泰兴</sup></small> 下雨的密度。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>：～大。<sup>\[如东\]</sup>｜今朝～太大<sup>\[泰兴\]</sup>  
 1. 【[雨脚猛烈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_jiah_mon_lih.md#雨脚猛烈)】`y3 jiah7 mon3 lih8` <sup>[如东]</sup> 形容雨下得很大。  
 1. 【[雨具](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_jy.md#雨具)】`y3 jy5` <sup>[如东]</sup> 防雨的用具。包括雨伞蓑衣雨披斗棚、雨衣等。  
+1. 【[雨落咖稻田里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_lah_ga_to.md#雨落咖稻田里)】`y3 lah8 ga to6 tin2 lii` <small>/y3 lɑʔ8 ka tʰɔ1 tʰĩ2 ləɪ/<sup>泰兴</sup></small> 谓投其所好，义与“雪中送炭”“瞌睡送枕头”相似。<sup>\[泰兴\]</sup>  
+1. 【[雨落□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_lah_suen_suen.md#雨落□□)】`y3 lah8 suen2 suen2` <small>/y3 lɑʔ8 suəŋ2 suəŋ2/<sup>泰兴</sup></small> 雨水不断的样子。<sup>\[泰兴\]</sup>  
 1. 【[雨露](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_lv.md#雨露)】`y3 lv6` <sup>[如东]</sup> ① 雨和露。 ② 比喻恩惠。  
 1. 【[雨披](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_pi.md#雨披)】`y3 pi1` 雨衣  
 1. 【[雨棚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_pon.md#雨棚)】`y3 pon2` <sup>[兴化]</sup> 伸出屋外遮蔽阳光和风雨的设施。用钢筋混凝土浇制，或用竹木、钢管等搭架，上面覆盖帆布、塑料布面成。  

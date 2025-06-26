@@ -805,7 +805,7 @@
 1. 【[投生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_shen.md#投生)】`teu2 shen1` <small>/tʰɤ2 sən1/<sup>兴化</sup>, /tʰəɪ2 səŋ1/<sup>泰兴</sup></small> ① 迷信谓投胎。<sup>\[兴化\]</sup> ② （引）寻找生路<sup>\[兴化\]</sup>：她千里迢迢出来～，不能再推她下火炕。<sup>\[兴化\]</sup> ③ 投胎。迷信所说人或动物的生死轮回。即死后去投生重新来到世上。<sup>\[泰兴\]</sup>  
 1. 【[投宿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_soh.md#投宿)】`teu2 soh7` <small>/tʰəɪ2 sɔʔ7/<sup>泰兴</sup></small> 临时住宿。犹借宿、住宿。<sup>\[泰兴\]</sup>  
 1. 【[投锁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_su.md#投锁)】`teu2 su3` <sup>[兴化]</sup> ① 钥匙与锁簧相投，可以开启。 ② （喻）对象和方法得当：老两口的思想不通，要他大女婿去谈才～。 ③ （喻）中药对症：这剂药～，他吃下去病势就减轻吖。  
-1. 【[投胎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_tae.md#投胎)】`teu2 tae1` ① 人的灵魂转世了。比喻人或物被弄死（垮）了。<sup>\[如东\]</sup>：你这吖蛮揪，车子就要～啦。<sup>\[如东\]</sup> ② 迷信说法，死后灵魂投入母胎，转生世间。喻指投奔的方向<sup>\[东台\]</sup>：不要埋怨～投错啊。<sup>\[东台\]</sup>  
+1. 【[投胎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_tae.md#投胎)】`teu2 tae1` <small>/tʰəɪ2 tʰɛ1/<sup>泰兴</sup></small> 玄学概念，转世轮回<sup>\[泰兴\]</sup>\[东台：喻指投奔的方向\]\[如东：比喻人或物被弄死（垮）了。\]：你这吖蛮揪，车子就要～啦。<sup>\[如东\]</sup>｜不要埋怨～投错啊。<sup>\[东台\]</sup>  
 1. 【[投塘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_tan.md#投塘)】`teu2 tan2` <sup>[如东]</sup> 符合要求：我俫谈得蛮～的。对准机会。｜这下子去正～。  
 1. 【[投套](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_to.md#投套)】`teu2 to5` <sup>[兴化]</sup> ① 成套的东西各部分之间相吻合。 ② （引）相符：两个人说的话不～。  
 1. 【[投榫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_xyen.md#投榫)】`teu2 xyen3` <small>/tʰɤ2 ɕyn3/<sup>兴化</sup></small> ① 骨关节错位，进行整理复位，叫做投榫。也叫整骨。<sup>\[如东\]</sup> ② 将榫放入卯眼中。<sup>\[兴化\]</sup> ③ （喻）指和别人关系融洽<sup>\[兴化\]</sup>：这个人脾气怪，总是跟大伙儿不～。“榫”又音suen3。<sup>\[兴化\]</sup>  

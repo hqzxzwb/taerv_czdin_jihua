@@ -337,6 +337,7 @@
 1. 【[丧报](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_bo.md#丧报)】`san1 bo` <sup>[东台]</sup> 讣告。  
 1. 【[丧筵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_in.md#丧筵)】`san1 in2` <sup>[如东]</sup> 因丧事而举办的筵席。丧筵的菜肴数量为7碗8碟（单数）。  
 1. 【[丧门星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_men_xien.md#丧门星)】`san1 men2 xien1` <sup>[如东]</sup> 不受喜欢的人：你这个～，还不学好。  
+1. 【[丧门星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_men_xien.md#丧门星)】`san1 men2 xien1` <small>/sɑŋ1 məŋ2 ɕiŋ1/<sup>泰兴</sup></small> 喻称恶人或使人倒霉的人。<sup>\[泰兴\]</sup>  
 1. 【[丧棚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_pon.md#丧棚)】`san1 pon2` <sup>[如皋]</sup> 临时搭建的供操办丧事使用的大棚。  
 1. 【[丧气话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_qi_hua.md#丧气话)】`san1 qi5 hua6` <sup>[东台]</sup> 失去信心的话。  
 1. 【[丧事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_shr.md#丧事)】`san1 shr6` <sup>[如东]</sup> 人死后举办的祭祀活动称丧事。  
@@ -730,6 +731,7 @@
 1. 【[伤割人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_guh_ren.md#伤割人)】`shan1 guh7 ren2` <sup>[如东]</sup> 用言语讽刺挖苦人：不能～吖！  
 1. 【[伤阴德](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_ien_deh.md#伤阴德)】`shan1 ien1 deh7` <sup>[如东]</sup> 不做好事，损伤祖宗的德性：你在背后捣鬼，～咖！  
 1. 【[伤良心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_lian_xien.md#伤良心)】`shan1 lian2 xien1` <sup>[东台]</sup> 害人害得可怜，也伤害自己的良心（带同情弱者口气）。  
+1. 【[伤良心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_lian_xien.md#伤良心)】`shan1 lian2 xien1` <small>/sɑŋ1 liɑŋ2 ɕiŋ1/<sup>泰兴</sup></small> 违背道德良心做坏事。<sup>\[泰兴\]</sup>  
 1. 【[伤力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_lieh.md#伤力)】`shan1 lieh8` <small>/saŋ1 liɪʔ8/<sup>兴化</sup>, /sã1 liəʔ8/<sup>如皋</sup>, /sɑŋ1 liʔ8/<sup>泰兴</sup></small> ① 用力过度而受内伤。<sup>\[如皋\]</sup> ② 农村指常干重活伤了胃。<sup>\[东台\]</sup> ③ 因过劳而使身体受内伤<sup>\[兴化\]</sup>：郑老三气得发～，又是呕血，又是气喘。<sup>\[兴化\]</sup> ④ 过分劳累而致成的疾病。<sup>\[泰兴\]</sup>：箇期伤吖力，人没劲。<sup>\[泰兴\]</sup>  
 1. 【[伤廉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_lin.md#伤廉)】`shan1 lin2` <sup>[兴化]</sup> （借）超过一定承受能力：这一下子打得太重，他不～不哭。｜叫他拿五百块钱请客不算～，他还请得起。语出《孟子，离娄（下）》｜“可以取，可以无取，取～。”此处为套用。  
 1. 【[伤廉惠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_lin_huei.md#伤廉惠)】`shan1 lin2 huei` <sup>[泰州]</sup> 超过本人承受能力：老刘他工资低，教人家花三千多请客，伤吖廉惠唻。｜王老板家家里有的是钱，不要说花这万把块钱，就是用个十万、八万也不～。  

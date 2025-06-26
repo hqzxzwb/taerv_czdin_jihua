@@ -24,10 +24,11 @@
 1. 【[灾天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_tin.md#灾天)】`zae1 tin1` <sup>[如皋]</sup> 恶劣的天气。  
 1. 【[灾𧒘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_vae_r.md#灾𧒘<sub>儿</sub>)】`zae1 vae1 r` <sup>[泰县]</sup> 钱：你一个月的工资就这几个～，怎吖够你去赌噢？  
 1. 【[财翁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_ion.md#财翁)】`zae1 ion1` <sup>[如皋]</sup> 富有。  
+1. 【[宰拘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_jy.md#宰拘)】`zae3 jy` <small>/t͡ɕiɛ3 t͡ɕy/<sup>泰兴</sup></small> 一定要按某种规矩办，不灵活。<sup>\[泰兴\]</sup>  
 1. 【[宰宰拘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_zae_jy.md#宰宰拘)】`zae3 zae jy1` <small>/t͡sɛ3 t͡sɛ t͡ɕy1/<sup>如皋</sup></small> ① 一定<sup>\[如皋\]</sup>：不～。<sup>\[如皋\]</sup> ② 太拘泥、不可变通的意思<sup>\[东台\]</sup>：这事见机而作，不要～。<sup>\[东台\]</sup>  
 1. 【[宰宰拘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_zae_jy.md#宰宰拘)】`zae3 zae3 jy1` <small>/t͡se3 t͡se3 t͡ɕy1/<sup>泰县</sup></small> 固执。<sup>\[泰县\]</sup><sup>\[泰州\]</sup>：能上北大当然好，现在考的南京大学也不错，你就不要～唻。<sup>\[泰州\]</sup>  
 1. 【[宰宰拘拘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_zae_jy_jy.md#宰宰拘拘)】`zae3 zae3 jy1 jy1` <sup>[兴化]</sup> 一定的、一成不变的：而今的婚礼不～的行甚的大仪注。兴化词典作“者者拘拘”。也说“宰宰拘”。  
-1. 【[宰执](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_zheh.md#宰执)】`zae3 zheh` 固执，坚持<sup>\[泰州\]</sup>：朋友之间吃顿饭，他付钱要甚的紧，你就不要太～。<sup>\[泰州\]</sup>  
+1. 【[宰执](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_zheh.md#宰执)】`zae3 zheh` <small>/t͡ɕiɛ3 t͡səʔ/<sup>泰兴</sup></small> ① 固执，坚持<sup>\[泰州\]</sup>：朋友之间吃顿饭，他付钱要甚的紧，你就不要太～。<sup>\[泰州\]</sup> ② 坚执不变，不可融通。<sup>\[泰兴\]</sup>  
 1. 【[宰执](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_zheh.md#宰执)】`zae3 zheh7` <small>/t͡sɛ3 t͡səʔ7/<sup>兴化</sup>, /t͡se3 t͡səʔ7/<sup>泰县</sup></small> ① 固执、刻板<sup>\[东台\]</sup>：你要灵活点儿，不要太～。<sup>\[东台\]</sup> ② 迂执、拘泥<sup>\[兴化\]</sup>：老先生～，轻容易不跟人交往。兴化词典作“者执”。<sup>\[兴化\]</sup> ③ 固执，不占别人便宜。<sup>\[泰县\]</sup>  
 1. 【[载住咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_chuh_ga.md#载住咖)】`zae3 chuh8 ga` <sup>[如皋]</sup> 一定要，非要不可：他～要，你也没办法推辞。  
 1. 【[载定](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_tien.md#载定)】`zae3 tien6` <sup>[如皋]</sup> 贬指坚持要、坚持认为：你没有充足的依据怎吖就～吖是他做的咯？  
@@ -1633,8 +1634,10 @@
 1. 【[转潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_cho.md#转潮)】`zhun3 cho2` <small>/t͡sũ3 t͡sʰɔ2/<sup>兴化</sup>, /t͡sʊ̃3 t͡sʰɔ2/<sup>如皋</sup></small> ① 空气湿度大，物体由干变䵑乃至潮湿。<sup>\[如皋\]</sup> ② 本来干燥的物品，吸收了空气中的水分，变潮湿了。<sup>\[东台\]</sup> ③ 由于空气湿度大，居室和物品沾有水汽<sup>\[兴化\]</sup>：你望，你父亲那件老夹袄今天～，水都快往下滴了。（兴文：《小癞子招驸马》）<sup>\[兴化\]</sup> ④ 因为空气湿度饱和，致使已干衣物沾有湿气<sup>\[泰州\]</sup>：最近这些时天天落雨，家里湿气大啊没得命，橱子里栋的衣裳都转潮唻。<sup>\[泰州\]</sup>  
 1. 【[转刀<sub>儿</sub>块子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_do_r_kuae.md#转刀<sub>儿</sub>块子)】`zhun3 do1 r kuae5 zz` <sup>[如皋]</sup> 切一刀，转一下，切成有棱角的块子。  
 1. 【[转角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_gah.md#转角)】`zhun3 gah7` <sup>[东台]</sup> 拐弯处。  
+1. 【[转角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_gah.md#转角)】`zhun3 gah7` <small>/t͡sʊ̃3 kɑʔ7/<sup>泰兴</sup></small> 街巷等拐弯处。<sup>\[泰兴\]</sup>  
 1. 【[转瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_gua.md#转瓜)】`zhun3 gua1` <sup>[东台]</sup> 番瓜，即南瓜。渔民避讳语。因番的谐音翻，故避讳。  
 1. 【[转阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_ian.md#转阳)】`zhun3 ian2` <sup>[如皋]</sup> 见“和暴”。  
+1. 【[转阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_ian.md#转阳)】`zhun3 ian2` <small>/t͡sʊ̃3 iɑŋ2/<sup>泰兴</sup></small> 苏醒，复苏。<sup>\[泰兴\]</sup>  
 1. 【[转一转弯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_ieh_zhun_vaen.md#转一转弯)】`zhun3 ieh7 zhun3 vaen1` <sup>[泰州]</sup> 转一下弯，意谓想要收回自己一时冲动所作出的错误决定，又怕因此伤害自尊，而在内心纠结不已之时，通过由第三方出面提出让步措施，达到既收回错误决定而又保全自尊的目的：要是他俫谈吖僵吖，你就出来～。  
 1. 【[转筋消](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_jien_xio.md#转筋消)】`zhun3 jien1 xio1` <sup>[东台]</sup> 多指小孩贪吃，一转身就消化了：你哪是个～，才多晚又要吃？  
 1. 【[转来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_lae.md#转来)】`zhun3 lae` <small>/t͡sʊ̃3 lɛ/<sup>如皋</sup></small> ① 一般发音zu3 lae。过一会儿再、打转再<sup>\[如皋\]</sup>：～去。<sup>\[如皋\]</sup> ② 以后，回转来。相约用语。口语中常脱落鼻音说zhu3 lae。<sup>\[如皋\]</sup>  
@@ -1645,7 +1648,7 @@
 1. 【[转窍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_qio.md#转窍)】`zhun3 qio5` <sup>[如东]</sup> 想通了：她终于～。  
 1. 【[转䵑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_ren.md#转䵑)】`zhun3 ren6` <sup>[如皋]</sup> 因吸潮由脆变软。同“发䵑”：时霉天脆饼儿容易～｜炒花生天数多啊，～吖。  
 1. 【[转色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_seh.md#转色)】`zhun3 seh7` <small>/t͡sũ3 səʔ7/<sup>兴化</sup>, /t͡sʊ̃3 səʔ7/<sup>如皋</sup></small> ① 改变颜色：如人的脸色、炒菜的菜色、移苗后的叶色等。<sup>\[如皋\]</sup> ② 面色变化，多指由黄黑转红白：这个孩子几个月好日子一过，脸上倒转吖色。<sup>\[兴化\]</sup> ③ 农作物由黄变绿：水肥一上，秧苗转吖色。<sup>\[兴化\]</sup> ④ 脸色发生变化。<sup>\[泰州\]</sup> ⑤ 身体虚弱之人经过休养以后，脸上气色发生好的变化<sup>\[泰州\]</sup>：她歇咖个把月，脸上才转吖色。<sup>\[泰州\]</sup> ⑥ 植物叶片颜色由黄变绿或者由淡变浓<sup>\[泰州\]</sup>：肥料上吖三天，扁豆的叶子就转吖色。<sup>\[泰州\]</sup>  
-1. 【[转身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_shen.md#转身)】`zhun3 shen1` <small>/t͡sũ3 sən1/<sup>兴化</sup>, /t͡sʊ̃3 səŋ1/<sup>如皋</sup></small> ① 见“转爪”。<sup>\[如皋\]</sup> ② 离开：110的人一～，他俫又闹起来啊。｜众人见赵昇连住数日，并不～，愈加厌恶……（《古今小说》十三）<sup>\[兴化\]</sup>  
+1. 【[转身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_shen.md#转身)】`zhun3 shen1` <small>/t͡sũ3 sən1/<sup>兴化</sup>, /t͡sʊ̃3 səŋ1/<sup>如皋</sup></small> ① 见“转爪”。<sup>\[如皋\]</sup> ② 离开<sup>\[兴化\]</sup>：110的人一～，他俫又闹起来啊。<sup>\[兴化\]</sup>｜众人见赵昇连住数日，并不～，愈加厌恶……（《古今小说》十三）<sup>\[兴化\]</sup>  
 1. 【[转世投胎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_shr_teu_tae.md#转世投胎)】`zhun3 shr5 teu2 tae1` <sup>[如皋]</sup> 轮回。引指重来一次，常表示无望：要他回心转意，除非～。  
 1. 【[转头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_teu.md#转头)】`zhun3 teu` <sup>[如皋]</sup> 见“转来”。  
 1. 【[转头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_teu.md#转头)】`zhun3 teu2` <small>/t͡sũ3 tʰɤ2/<sup>兴化</sup>, /t͡sʊ̃3 tʰei2/<sup>如皋</sup></small> ① 往回走。<sup>\[如皋\]</sup> ② 下次。<sup>\[如皋\]</sup> ③ 过一会儿：你的事情～再说。<sup>\[兴化\]</sup> ④ 旧指借债到期不还，即本利相加，重新立券计息：“……况且利钱又重，三个月不还就要～……”（《梼杌闲评》十三）<sup>\[兴化\]</sup>  
@@ -1658,6 +1661,7 @@
 1. 【[转角落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_gah_lah.md#转角落)】`zhun5 gah7 lah` <sup>[如东]</sup> 转弯处的角落：东西放吖～里。  
 1. 【[转下子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_ha_zz.md#转下子)】`zhun5 ha zz` <sup>[东台]</sup> ① 出去逛一下； ② 引申为缓兵之计，调整对策。这笔债难要，先～再说。  
 1. 【[转魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_huen.md#转魂)】`zhun5 huen2` <sup>[如皋]</sup> 贬指转悠。  
+1. 【[转魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_huen.md#转魂)】`zhun5 huen2` <small>/t͡sʊ̃5 xuəŋ2/<sup>泰兴</sup></small> 到处乱转，闲走<sup>\[泰兴\]</sup>  
 1. 【[转野鸡圈络<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_ia_ji_qiun.md#转野鸡圈络<sub>儿</sub>)】`zhun5 ia3 ji1 qiun1 lah r` <sup>[如皋]</sup> 猎者打野鸡先在外围转悠。演为谈话的一种技巧。  
 1. 【[转𨳻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_ji_r.md#转𨳻<sub>儿</sub>)】`zhun5 ji r` <sup>[如皋]</sup> 旧式门窗的转轴。  
 1. 【[转基头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_ji_teu.md#转基头)】`zhun5 ji1 teu2` <sup>[如东]</sup> 房屋的一种结构形式。朝南屋跟朝西屋或朝东屋转角连在一起，室内可以通行。这种房屋结构称转基头。  
@@ -1668,6 +1672,7 @@
 1. 【[转来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_lae.md#转来)】`zhun5 lae` <sup>[如东]</sup> 回过来，过会儿：～再说。  
 1. 【[转来会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_lae_huei.md#转来会)】`zhun5 lae huei6` <sup>[如东]</sup> 稍后再相会：我俫～。  
 1. 【[转鞔鞔圈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_mun_mun_qiun.md#转鞔鞔圈<sub>儿</sub>)】`zhun5 mun2 mun2 qiun1 r` <sup>[如皋]</sup> 见“转野鸡圈络儿”。  
+1. 【[转盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_pun.md#转盘)】`zhun5 pun2` <small>/t͡sʊ̃5 pʰʊ̃2/<sup>泰兴</sup></small> ① 可以转动的圆盘<sup>\[泰兴\]</sup> ② 交通要道口所设的大圆盘。<sup>\[泰兴\]</sup>  
 1. 【[转腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_qian.md#转腔)】`zhun5 qian` <sup>[如皋]</sup> 拴羊颈可灵活转向的木头。  
 1. 【[转噍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_qio.md#转噍)】`zhun5 qio5` <sup>[如东]</sup> ① 牛反刍。 ② 比喻回旋：看来这件事还有可能～。  
 1. 【[转圈络<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_qiun_lah_r.md#转圈络<sub>儿</sub>)】`zhun5 qiun1 lah r` <sup>[如皋]</sup> 旋转。  

@@ -611,16 +611,17 @@
 1. 【[闰鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ruen_y.md#闰鱼)】`ruen6 y2` <small>/ɻuəŋ1 y2/<sup>如皋</sup></small> ① 长须鲸。哺乳纲，鲸目。旧传闰年可在南黄海出现。<sup>\[如皋\]</sup> ② 传说海洋中的一种大鱼，在海洋中犯了罪，龙王给予惩罚。每逢闰年，闰几月，就有几条鱼送上沙滩。<sup>\[如东\]</sup>  
 1. 【[软而敉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_er_mei.md#软而敉)】`run er mei2` <sup>[兴化]</sup> 形容人态度温和，语言谦卑：他是个～，丑话经他一说就圆范吖。  
 1. 【[软巴拉哈的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_ba_la_ha.md#软巴拉哈的)】`run3 ba la1 ha1 dii` <sup>[如皋]</sup> 手感软而难抓摸，不适。  
+1. 【[软巴拉叽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_ba_la_ji.md#软巴拉叽)】`run3 ba la1 ji1` <small>/ɻʊ̃3 pɑ lɑ1 t͡ɕʝ1/<sup>泰兴</sup></small> 软的，不硬。<sup>\[泰兴\]</sup>  
 1. 【[软巴拉西的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_ba_la_xi.md#软巴拉西的)】`run3 ba la1 xi1 dii` <sup>[如皋]</sup> 见“软巴拉哈的”。  
 1. 【[软巴蛋汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_ba_taen_tan.md#软巴蛋汤)】`run3 ba taen6 tan1` <sup>[东台]</sup> ［喻］软弱无力。也称“软面淡汤”。  
 1. 【[软巴拉哈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_ba_la_ha.md#软巴拉哈)】`run3 ba1 la1 ha1` <sup>[如东]</sup> 比较柔软：树枝～的，不好抓。  
 1. 【[软宝盖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_bo_gae.md#软宝盖)】`run3 bo3 gae5` <small>/lũ3 pɔ3 kɛ5/<sup>兴化</sup>, /ɻʊ̃3 pɔ3 kɛ5/<sup>如皋</sup></small> ① （冖）：写军冠。<sup>\[如皋\]</sup> ② 汉字部首，形状是“冖”。<sup>\[兴化\]</sup>  
 1. 【[软饱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_bo.md#软饱)】`run3 bo3` <small>/lũ3 pɔ3/<sup>兴化</sup>, /ɻõ3 pɔ3/<sup>泰县</sup></small> ① 凑合着吃了点，没有全饱<sup>\[东台\]</sup>：抗灾时艰苦，每顿只能～。<sup>\[东台\]</sup> ② 吃了稀薄的饮食得到的饱食感<sup>\[兴化\]</sup>：今朝两个人喝咖一箱啤酒，～啊。<sup>\[兴化\]</sup>｜谚曰：小狗子喝恶水——～。<sup>\[兴化\]</sup> ③ 以水、汤充饥。<sup>\[泰县\]</sup> ④ 饮水或者流质食物充饥<sup>\[泰州\]</sup>：才在他家喝咖两大碗绿豆汤，弄吖个～。<sup>\[泰州\]</sup>  
 1. 【[软处](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_chv.md#软处)】`run3 chv` <sup>[兴化]</sup> ① 弱点、短处：他纵容女儿养汉就是～。 ② 指人软弱、可欺。谚曰：硬处拖锹过，～好取泥。  
-1. 【[软档](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_dan.md#软档)】`run3 dan` <sup>[如皋]</sup> 腰侧软区。  
-1. 【[软当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_dan.md#软当)】`run3 dan1` <sup>[东台]</sup> 原指身体软弱的部位，引申指存在的薄弱环节：通过这次检查，一定要把～弥补起来。  
-1. 【[软当/软裆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_dan.md#软当/软裆)】`run3 dan1` ① 男性外生殖器部位以及其他身体表面没有骨骼支撑的部位，民间视为易遭到外来攻击的致命之处<sup>\[泰州\]</sup>：一撉儿打啊在他的～上。<sup>\[泰州\]</sup> ② 个人重大欠缺之处<sup>\[泰州\]</sup>：他这个人各个方面都不丑，就是学历低啊点儿，要不是这个～，老早就捱提拔当主任唻。<sup>\[泰州\]</sup>  
-1. 【[软裆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_dan.md#软裆)】`run3 dan1` <sup>[兴化]</sup> ① 指人身体上没有骨酪支护的部分，如腹部、胯裆等处。 ② （引）弱点和缺点：他再凶就捣他的～。也说“软塘”。  
+1. 【[软当/软裆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_dan.md#软当/软裆)】`run3 dan` <sup>[如皋]</sup> 腰侧软区。  
+1. 【[软当/软裆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_dan.md#软当/软裆)】`run3 dan1` <sup>[东台]</sup> 原指身体软弱的部位，引申指存在的薄弱环节：通过这次检查，一定要把～弥补起来。  
+1. 【[软当/软裆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_dan.md#软当/软裆)】`run3 dan1` <sup>[兴化]</sup> ① 指人身体上没有骨骼支护的部分，如腹部、胯裆等处。 ② （引）弱点和缺点：他再凶就捣他的～。也说“软塘”。  
+1. 【[软当/软裆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_dan.md#软当/软裆)】`run3 dan1` <small>/ɻʊ̃3 tɑŋ1/<sup>泰兴</sup></small> ① 男性外生殖器部位以及其他身体表面没有骨骼支撑的部位，民间视为易遭到外来攻击的致命之处<sup>\[泰州\]</sup>：一撉儿打啊在他的～上。<sup>\[泰州\]</sup> ② 个人重大欠缺之处<sup>\[泰州\]</sup>：他这个人各个方面都不丑，就是学历低啊点儿，要不是这个～，老早就捱提拔当主任唻。<sup>\[泰州\]</sup> ③ 喻弱点；存在问题的地方。<sup>\[泰兴\]</sup>：抓住他的～他就凶不起来了。<sup>\[泰兴\]</sup>  
 1. 【[软的耷西的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_dii_dah_xi.md#软的耷西的)】`run3 dii dah7 xi1 dii` <sup>[如皋]</sup> 见“软巴拉哈的”。  
 1. 【[软的麻下的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_dii_ma_ha.md#软的麻下的)】`run3 dii ma2 ha dii` <sup>[如皋]</sup> 见“软巴拉哈的”。  
 1. 【[软耳搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_er_daeh.md#软耳搭)】`run3 er3 daeh7` <sup>[兴化]</sup> 汉字偏旁，形状是“阝”，又称“耳搭”。  
@@ -628,14 +629,17 @@
 1. 【[软耳堂根子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_er_tan_gen.md#软耳堂根子)】`run3 er3 tan2 gen1 zz` <sup>[兴化]</sup> 形容缺乏主见的人：他是个～，东说东好，西说西好，没得主见。  
 1. 【[软功](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_gon.md#软功)】`run3 gon1` <small>/lũ3 koŋ1/<sup>兴化</sup>, /ɻʊ̃3 kɔŋ1/<sup>如皋</sup></small> ① 待人接物的一种方法。<sup>\[如皋\]</sup> ② 杂技、马戏中轻盈、柔软的功夫，和“硬功”相对。<sup>\[兴化\]</sup>  
 1. 【[软狠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_hen.md#软狠)】`run3 hen3` 表面并不强硬而实质上不容易对付<sup>\[泰州\]</sup>：你不要望她不同你𠵹，不同你吵，她这个是～，不怕你凶，你还就拿她没得办法。<sup>\[泰州\]</sup>  
-1. 【[软和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_hu.md#软和)】`run3 hu` <small>/ɻʊ̃3 xʊ/<sup>如皋</sup></small> 柔软。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰州\]</sup>：米饭煮得～。<sup>\[如东\]</sup>｜这条被单是新棉花胎，盖啊身上多～啊。<sup>\[泰州\]</sup>  
+1. 【[软和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_hu.md#软和)】`run3 hu` <small>/ɻʊ̃3 xʊ/<sup>如皋</sup>, /ɻʊ̃3 xɤɯ/<sup>泰兴</sup></small> 柔软。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰州\]</sup>\[泰兴：有时说作“软和和的”。\]：米饭煮得～。<sup>\[如东\]</sup>｜这条被单是新棉花胎，盖啊身上多～啊。<sup>\[泰州\]</sup>  
 1. 【[软和和的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_hu_hu_dii.md#软和和的)】`run3 hu hu dii` <sup>[如皋]</sup> 很柔软。  
+1. 【[软话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_hua.md#软话)】`run3 hua6` <small>/ɻʊ̃3 xuɑ1/<sup>泰兴</sup></small> 求情讨好的话。<sup>\[泰兴\]</sup>  
 1. 【[软回](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_huei.md#软回)】`run3 huei2` 比较委婉的拒绝<sup>\[泰州\]</sup>：人家已经～啊他，他还死皮赖化的去寻人家。<sup>\[泰州\]</sup>  
 1. 【[软叽耷咍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_ji_dah_hae.md#软叽耷咍)】`run3 ji dah7 hae1` <sup>[兴化]</sup> 变软、不跪：黄瓜摆的时间一长～的。也说“软叽耷烘”。  
 1. 【[软叽耷烘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_ji_dah_hon.md#软叽耷烘)】`run3 ji dah7 hon1` <sup>[兴化]</sup> 变软，不脆。见“软叽耷咍”。  
 1. 【[软肌耷懈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_ji_dah_hae.md#软肌耷懈)】`run3 ji1 dah7 hae6` <sup>[东台]</sup> 萎靡不振，软弱无力的样子：要有精神，～的没人喜欢。  
 1. 【[软劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_jien.md#软劲)】`run3 jien5` <sup>[如东]</sup> 身体乏力：这些日子我有点儿～。  
+1. 【[软壳蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_kah_hae.md#软壳蟹)】`run3 kah7 hae3` <small>/ɻʊ̃3 kʰɑʔ7 xɛ3/<sup>泰兴</sup></small> 刚蜕壳的蟹。<sup>\[泰兴\]</sup>  
 1. 【[软壳<sub>儿</sub>蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_kah_r_hae.md#软壳<sub>儿</sub>蟹)】`run3 kah7 r hae3` <sup>[如东]</sup> 刚脱壳的蟹，叫软壳儿蟹。比喻没有斗争精神的人：他是一个～。  
+1. 【[软壳子蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_kah_zz_taen.md#软壳子蛋)】`run3 kah7 zz taen6` <small>/ɻʊ̃3 kʰɑʔ7 t͡sɿ tʰɛ̃1/<sup>泰兴</sup></small> 鸡鸭提前生的蛋，其壳尚略软不坚硬。<sup>\[泰兴\]</sup>  
 1. 【[软肋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_leh.md#软肋)】`run3 leh8` <sup>[如东]</sup> 人的腹部侧面。这里没有勒骨保护，是人体最软弱的部位。比喻最软弱的地方：你拿住啊他的～。  
 1. 【[软里巴叽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_lii_ba_ji.md#软里巴叽)】`run3 lii ba1 ji1` <sup>[东台]</sup> 本指物体很软，也喻指人软弱无力：这铝合金～的，不耐用｜我俫在困难面前不能～的。  
 1. 【[软里耷㾂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_lii_dah_hae.md#软里耷㾂)】`run3 lii dah7 hae1` <sup>[泰州]</sup> ① A里BC，常见形容词的生动形式之一。 ② 植物因干旱而呈叶片低垂的样子：这棵吊兰忘掉浇水，望吖它这～的样子，弄得不好救不活唻。 ③ 人因而精神不振、浑身乏力的样子：你摸摸他的手，～的，怕的是不好过唻。 ④ 油炸食品因受潮而绵软样子：这种～的油条有甚的吃头？  
@@ -649,16 +653,18 @@
 1. 【[软吃软碰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_qieh_run_pon.md#软吃软碰)】`run3 qieh7 run3 pon5` <sup>[东台]</sup> 表面上软弱，实质上是运用软手段来对付对方。  
 1. 【[软席子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_qieh_zz.md#软席子)】`run3 qieh8 zz` <sup>[如皋]</sup> 可折叠的草席。  
 1. 【[软求](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_qieu.md#软求)】`run3 qieu2` <sup>[兴化]</sup> 低声下气，苦苦哀求：自己有错不能硬顶，只能～。｜众人一齐上前。毛二胡子自认不是……只求凤四老爹不要动手。（《儒林外史》五二）  
-1. 【[软熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_shoh.md#软熟)】`run3 shoh` <sup>[兴化]</sup> 形容柔软、纯熟：新棉花胎～。｜“身上毛都如彼一，只此三根如此硬枪，必然是救我命的。”（《西游记》七五）  
-1. 【[软熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_shoh.md#软熟)】`run3 shoh8` <small>/ɻʊ̃3 sɔʔ8/<sup>如皋</sup>, /ɻõ3 sɔʔ8/<sup>泰县</sup></small> ① 柔软匀和<sup>\[如皋\]</sup>：棉花胎蛮～的；玉米𪎉子饭难煮得这吖～。<sup>\[如皋\]</sup> ② 柔软。<sup>\[泰县\]</sup> ③ 食物松软爽口宜人<sup>\[泰州\]</sup>：这个馒头吙得多～咖，年纪大的吃咖正好。<sup>\[泰州\]</sup> ④ 丝、棉及其织品、毛皮及其制品松软宜人<sup>\[泰州\]</sup>：这件貂皮大衣的皮子蛮～的，你买掉多少钱吖？<sup>\[泰州\]</sup>  
+1. 【[软食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_sheh.md#软食)】`run3 sheh8` <small>/ɻʊ̃3 səʔ8/<sup>泰兴</sup></small> 容易咀嚼和消化的食物。<sup>\[泰兴\]</sup>  
+1. 【[软熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_shoh.md#软熟)】`run3 shoh8` <small>/lũ3 sɔʔ/<sup>兴化</sup>, /ɻʊ̃3 sɔʔ8/<sup>如皋</sup>, /ɻʊ̃3 sɔʔ/<sup>泰兴</sup>, /ɻõ3 sɔʔ8/<sup>泰县</sup></small> 柔软（性情、食品、织物等）<sup>\[兴化\]</sup><sup>\[如皋\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：新棉花胎～<sup>\[兴化\]</sup>｜“身上毛都如彼一，只此三根如此硬枪，必然是救我命的。”（《西游记》七五）<sup>\[兴化\]</sup>｜棉花胎蛮～的<sup>\[如皋\]</sup>｜玉米𪎉子饭难煮得这吖～。<sup>\[如皋\]</sup>｜这个馒头吙得多～咖，年纪大的吃咖正好。<sup>\[泰州\]</sup>｜这件貂皮大衣的皮子蛮～的，你买掉多少钱吖？<sup>\[泰州\]</sup>  
 1. 【[软酥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_sv.md#软酥)】`run3 sv1` <sup>[如东]</sup> 柔软而酥松：这些饼子比较～。  
 1. 【[软瘫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_taen.md#软瘫)】`run3 taen1` <sup>[兴化]</sup> ① 瘫痪症患者。 ② 因劳累或疾病而无力起坐：他做啊一天重活技，晚上～吖。  
+1. 【[软瘫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_taen_zz.md#软瘫子)】`run3 taen1 zz` <small>/ɻʊ̃3 tʰɛ̃1 t͡sɿ/<sup>泰兴</sup></small> 谓身体不坚强，不能负荷过重。喻懦弱无用的人。<sup>\[泰兴\]</sup>  
 1. 【[软𨂞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_taen.md#软𨂞)】`run3 taen5` <sup>[东台]</sup> 悄悄脱身，不落痕迹：个别人听说要派人下乡，不声不响的～吖。  
 1. 【[软塘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_tan.md#软塘)】`run3 tan2` <sup>[兴化]</sup> 见“软裆”。  
 1. 【[软调皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_tio_pi.md#软调皮)】`run3 tio2 pi2` <sup>[如皋]</sup> 委婉行事而不硬撞的个性或态度。  
 1. 【[软拖拖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_tu_tu.md#软拖拖)】`run3 tu tu1` <sup>[如皋]</sup> 顺从，不倔强。有时也有无奈的意思。  
 1. 【[软拖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_tu.md#软拖)】`run3 tu1` <sup>[如皋]</sup> 委婉地拖延。  
 1. 【[软枉瘫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_van_taen.md#软枉瘫)】`run3 van taen1` <sup>[兴化]</sup> 形容人全身无力：他一碰就往下倒，像得咖～。  
+1. 【[软王瘫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_van_taen_zz.md#软王瘫子)】`run3 van taen1 zz` <small>/ɻʊ̃3 uɑŋ tʰɛ̃1 t͡sɿ/<sup>泰兴</sup></small> 身体不强壮；不能吃重差。<sup>\[泰兴\]</sup>  
 1. 【[软汪汪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_van_van.md#软汪汪)】`run3 van1 van1` <sup>[东台]</sup> 松软下垂的样子：这根扁担～的，挑起东西来倒蛮适意。  
 1. 【[软黄<sub>儿</sub>蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_van_r_taen.md#软黄<sub>儿</sub>蛋)】`run3 van2 r taen6` <sup>[如皋]</sup> 鸡生下的有膜无壳蛋，或是宰鸡后取出的有膜无壳蛋。  
 1. 【[软下台](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/run_xia_tae.md#软下台)】`run3 xia6 tae2` <small>/lũ3 ɕia6 tʰɛ2/<sup>兴化</sup></small> 比喻找借口摆脱窘境<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：王二来个～，不说打不过人，而说自己不想打。<sup>\[兴化\]</sup>  
