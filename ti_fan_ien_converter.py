@@ -151,7 +151,9 @@ def 如皋(cz, pien_ien):
   if yen == 'r':
     yen = 'z'
 
-  if shen == 'h' and yen == 'v': # hv -> fv
+  if shen + gae + yen == 'zaeh' and cz == '咂': # 咂zuaeh
+    gae = 'u'
+  elif shen == 'h' and yen == 'v': # hv -> fv
     shen = 'f'
   elif shen == 'n' and yen == 'v': # nv -> nu
     yen = 'u'
