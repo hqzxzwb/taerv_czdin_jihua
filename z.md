@@ -42,9 +42,9 @@
 1. 【[再生稻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_shen_to.md#再生稻)】`zae5 shen1 to6` <small>/t͡sɛ5 sən1 tʰɔ6/<sup>兴化</sup></small> ① 禾本科植物稻秸收割后的再生苗。<sup>\[如东\]</sup> ② 水稻收割后在根茬上长出的植株。<sup>\[兴化\]</sup>  
 1. 【[再堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_tan.md#再堂)】`zae5 tan2` <sup>[如皋]</sup> 同曾祖的同族亲缘关系称。  
 1. 【[再再](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_zae.md#再再)】`zae5 zae5` <sup>[兴化]</sup> 一而再，再而三：说之～，他才答应明吖来。｜……谦之～，分宾主礼入座。（《火烧赤壁》七）  
-1. 【[咂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh.md#咂)】`zaeh7` <sup>[如皋]</sup> ① 唇、齿、舌与腭紧贴，忽然张口时的暴破清音。 ② 用嘴唇略吸：～一口酒。 ③ （如皋方音zuaeh7）  
+1. 【[咂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh.md#咂)】`zaeh7` <small>/t͡sueʔ7/<sup>如皋</sup></small> ① 唇、齿、舌与腭紧贴，忽然张口时的暴破清音。<sup>\[如皋\]</sup> ② 用嘴唇略吸<sup>\[如皋\]</sup>：～一口酒。<sup>\[如皋\]</sup>  
 1. 【[咂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh.md#咂)】`zaeh7` <small>/t͡ɕiæʔ7/<sup>泰兴</sup></small> 品尝；品辨<sup>\[泰兴\]</sup>  
-1. 【[咂嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh_jy.md#咂嘴)】`zaeh7 jy3` <small>/t͡seʔ7 t͡ɕy3/<sup>如皋</sup></small> ① 舌头抵住上颚发出吸气的声音，表示称赞、羡慕、惊讶等。<sup>\[如东\]</sup> ② 舌尖顶住上颚发出吸气音，表示赞赏、惊讶、惋惜等。<sup>\[东台\]</sup> ③ 吃时张口有声。<sup>\[如皋\]</sup> ④ 表示品尝滋味。<sup>\[如皋\]</sup> ⑤ 表示为难。<sup>\[如皋\]</sup> ⑥ （如皋方音zuaeh7 jy3）<sup>\[如皋\]</sup>  
+1. 【[咂嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh_jy.md#咂嘴)】`zaeh7 jy3` <small>/t͡sueʔ7 t͡ɕy3/<sup>如皋</sup></small> ① 舌头抵住上颚发出吸气的声音，表示称赞、羡慕、惊讶等。<sup>\[如东\]</sup> ② 舌尖顶住上颚发出吸气音，表示赞赏、惊讶、惋惜等。<sup>\[东台\]</sup> ③ 吃时张口有声。<sup>\[如皋\]</sup> ④ 表示品尝滋味。<sup>\[如皋\]</sup> ⑤ 表示为难。<sup>\[如皋\]</sup>  
 1. 【[咂味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh_vei.md#咂味)】`zaeh7 vei6` 用舌头吮吸品尝滋味，引申指拿老实人开玩笑来去了<sup>\[泰州\]</sup>：你是快活得没处抓痒，又拿人家老实人来～唻。<sup>\[泰州\]</sup>  
 1. 【[咂嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh_zuei.md#咂嘴)】`zaeh7 zuei3` <small>/t͡ɕiæʔ7 t͡suəɪ3/<sup>泰兴</sup></small> 以舌抵齿、嘴唇上下开合作声。表示称赞、企慕或为难、惋惜等。<sup>\[泰兴\]</sup>  
 1. 【[咂嘴通天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh_zuei_ton_tin.md#咂嘴通天)】`zaeh7 zuei3 ton1 tin1` <small>/t͡ɕiæʔ7 t͡suəɪ3 tʰɔŋ1 tʰĩ1/<sup>泰兴</sup></small> 比喻对某事某物极不满意，显出十分为难的样子。<sup>\[泰兴\]</sup>  
