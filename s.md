@@ -362,7 +362,7 @@
 1. 【[嗓囊管<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_nan_gun_r.md#嗓囊管<sub>儿</sub>)】`san3 nan2 gun3 r` <small>/sã3 nã2 kʊ˞3/<sup>如皋</sup></small> 喉咙，嗓子眼儿<sup>\[如皋\]</sup>\[如东：《如东方言词典》作“嗓朗（lan2）管儿”。\]  
 1. 【[嗓子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_zz.md#嗓子)】`san3 zz` <sup>[如东]</sup> 喉咙。  
 1. 【[嗓子眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_zz_ngaen_r.md#嗓子眼<sub>儿</sub>)】`san3 zz ngaen3 r` <sup>[如皋]</sup> 咽喉区的气管和食管：千不怕，万不怕，就怕～𧰵坝！  
-1. 【[搡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san.md#搡)】`san3` <small>/saŋ3/<sup>兴化</sup>, /sã3/<sup>如皋</sup></small> ① 猛力推拉。<sup>\[如皋\]</sup> ② 强推或强拉。<sup>\[如东\]</sup>：你不要～他。<sup>\[如东\]</sup> ③ 来回推拉<sup>\[东台\]</sup>：用力一～。<sup>\[东台\]</sup> ④ 猛推<sup>\[兴化\]</sup>：推推～～<sup>\[兴化\]</sup>｜老和尚大怒……提着郭孝子的领子，一路推～出门……（《儒林外史》三八）<sup>\[兴化\]</sup> ⑤ 猛推<sup>\[泰州\]</sup>：老王上去抓住他的领子一～，他脸都吓咖白咖。<sup>\[泰州\]</sup>｜你个女将同男的推推～～的，像个甚的样子。<sup>\[泰州\]</sup>  
+1. 【[搡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san.md#搡)】`san3` <small>/saŋ3/<sup>兴化</sup>, /sã3/<sup>如皋</sup></small> ① 猛力推拉。<sup>\[如皋\]</sup> ② 强推或强拉。<sup>\[如东\]</sup>：你不要～他。<sup>\[如东\]</sup> ③ 来回推拉<sup>\[东台\]</sup>：用力一～。<sup>\[东台\]</sup> ④ 猛推<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：推推～～<sup>\[兴化\]</sup>｜老和尚大怒……提着郭孝子的领子，一路推～出门……（《儒林外史》三八）<sup>\[兴化\]</sup>｜老王上去抓住他的领子一～，他脸都吓咖白咖。<sup>\[泰州\]</sup>｜你个女将同男的推推～～的，像个甚的样子。<sup>\[泰州\]</sup>  
 1. 【[搡拾人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_sheh_ren.md#搡拾人)】`san3 sheh8 ren2` <sup>[如东]</sup> 用恶言骂人：你不～。  
 1. 【[磉窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_ku.md#磉窠)】`san3 ku1` <small>/sã3 kʰʊ1/<sup>如皋</sup></small> ① 柱下石。<sup>\[如皋\]</sup> ② 填在房屋柱杆底部的石墩，圆形。<sup>\[如东\]</sup>  
 1. 【[磉窠墩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_ku_den_r.md#磉窠墩<sub>儿</sub>)】`san3 ku1 den1 r` <sup>[如皋]</sup> 见“磉窠”。  
@@ -1239,10 +1239,11 @@
 1. 【[伸后脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_heu_jiah.md#伸后脚)】`shen1 heu6 jiah7` <sup>[如皋]</sup> 喻留后路。  
 1. 【[伸腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_io.md#伸腰)】`shen1 io1` <small>/sən1 iɔ1/<sup>兴化</sup></small> ① 两手上举，使腰肌疏松拉长，称伸腰。<sup>\[如东\]</sup> ② （喻）大米吸足水份开始膨胀<sup>\[兴化\]</sup>：饭夹生，米还不～唻！<sup>\[兴化\]</sup>  
 1. 【[伸腰扭胳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_io_nieu_gaeh.md#伸腰扭胳)】`shen1 io1 nieu3 gaeh7` <sup>[东台]</sup> 多指小孩子靠在别人身上撒娇，也指故意搞怪。这里胳指胳膊。  
-1. 【[伸脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_jiah.md#伸脚)】`shen1 jiah7` <small>/səŋ1 t͡ɕiaʔ7/<sup>如皋</sup></small> ① 喻试探、预送信息、打基础：房子还不曾砌，他就来～，意图很明显，要弄一套：对方派人来，是～的，探探我方深浅的。<sup>\[如皋\]</sup> ② 用暗示方式伸手要某种待遇或要求对方做某事<sup>\[东台\]</sup>：职工说外地企业工资高，其实是向老总～。<sup>\[东台\]</sup>  
+1. 【[伸脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_jiah.md#伸脚)】`shen1 jiah7` <small>/səŋ1 t͡ɕiaʔ7/<sup>如皋</sup></small> ① 喻试探、预送信息、打基础<sup>\[如皋\]</sup>：房子还不曾砌，他就来～，意图很明显，要弄一套<sup>\[如皋\]</sup>｜对方派人来，是～的，探探我方深浅的。<sup>\[如皋\]</sup> ② 用暗示方式伸手要某种待遇或要求对方做某事<sup>\[东台\]</sup>：职工说外地企业工资高，其实是向老总～。<sup>\[东台\]</sup>  
 1. 【[伸懒腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_laen_io.md#伸懒腰)】`shen1 laen3 io1` ① 人疲乏时，两手上举，疏松腰肌，使人感觉松快。<sup>\[如东\]</sup> ② 因困乏或干活累，过分疲倦时，举起双臂伸直腰，深呼吸，以期提起精神，舒缓疲劳。<sup>\[东台\]</sup>  
 1. 【[伸吖一口气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_nga_ieh_keu.md#伸吖一口气)】`shen1 nga ieh7 keu3 qi5` <sup>[如皋]</sup> 喻出了怨气，心情舒展了。  
 1. 【[伸气活气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_qi_huh_qi.md#伸气活气)】`shen1 qi5 huh8 qi5` <sup>[兴化]</sup> 呼吸：颈项里钮子太紧，～有困难。｜肋骨里头～的觉察疼。  
+1. 【[伸气缩气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_qi_soh_qi.md#伸气缩气)】`shen1 qi5 soh7 qi5` <small>/səŋ1 t͡ɕʰʝ5 sɔʔ7 t͡ɕʰʝ5/<sup>泰兴</sup></small> 呼吸。<sup>\[泰兴\]</sup>：～，各人的福气<sup>\[泰兴\]</sup>  
 1. 【[伸手不见五指](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_sheu_beh_jin.md#伸手不见五指)】`shen1 sheu3 beh7 jin5 v3 zhr3` <small>/səŋ1 ɕiɤɯ3 pəʔ7 t͡ɕĩ5 ʋ3 t͡sɿ3/<sup>泰兴</sup></small> 谓天黑，看不见任何东西。<sup>\[泰兴\]</sup>  
 1. 【[伸手不见五指，张口不见牙齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_sheu_beh_jin.md#伸手不见五指，张口不见牙齿)】`shen1 sheu3 beh7 jin5 v3 zhr3 zhan1 keu3 beh7 jin5 nga2 chr3` <sup>[如皋]</sup> 漆黑一片。  
 1. 【[伸舌头他嘴里说话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_shih_teu_ta.md#伸舌头他嘴里说话)】`shen1 shih8 teu ta1 jy3 lii shuh7 hua6` <sup>[如皋]</sup> 说话暗示、暗中导向，而不明说。  
@@ -1504,8 +1505,9 @@
 1. 【[瘆人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_ren_zz.md#瘆人子)】`shen5 ren2 zz` <sup>[东台]</sup> 令人害怕或肉麻难受：我不敢看人家剥蛇，～！  
 1. 【[盛意谆谆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_i_zhuen_zhuen.md#盛意谆谆)】`shen5 i5 zhuen1 zhuen1` <sup>[东台]</sup> 一片盛情，非常诚恳。  
 1. 【[肾筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_jien.md#肾筋)】`shen5 jien1` <sup>[如皋]</sup> 剥取的畜类的阴茎和输精管。  
-1. 【[胜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen.md#胜)】`shen5` <small>/səŋ5/<sup>泰县</sup></small> 夸耀自己<sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：你才得咖一回奖，～甚的？<sup>\[东台\]</sup>｜她望见个人就～她小伙考上吖苏州大学。<sup>\[泰州\]</sup>｜她家男的同她买啊件衣裳，她也拿出来～，就像人家不曾穿过新衣裳是的。<sup>\[泰州\]</sup>  
+1. 【[胜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen.md#胜)】`shen5` <small>/səŋ5/<sup>泰兴</sup>, /səŋ5/<sup>泰县</sup></small> ① 夸耀自己<sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：你才得咖一回奖，～甚的？<sup>\[东台\]</sup>｜她望见个人就～她小伙考上吖苏州大学。<sup>\[泰州\]</sup>｜她家男的同她买啊件衣裳，她也拿出来～，就像人家不曾穿过新衣裳是的。<sup>\[泰州\]</sup> ② 胜过，超过。能干。<sup>\[泰兴\]</sup>：他家新妇～ngae，会办事<sup>\[泰兴\]</sup>｜他不～似我/他不比我更好<sup>\[泰兴\]</sup>  
 1. 【[胜虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_chon.md#胜虫)】`shen5 chon2` 喜欢向人炫耀的人。<sup>\[泰州\]</sup>  
+1. 【[胜色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_seh.md#胜色)】`shen5 seh7` <small>/səŋ5 səʔ7/<sup>泰兴</sup></small> （相比起来）胜于<sup>\[泰兴\]</sup>：（比起李四）张三～咖唻<sup>\[泰兴\]</sup>  
 1. 【[胜煞咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_shaeh_ga.md#胜煞咖)】`shen5 shaeh7 ga` <sup>[东台]</sup> 盛气凌人，喜欢显摆，好出风头。  
 1. 【[胜𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_son.md#胜𪨊)】`shen5 son2` <sup>[泰县]</sup> （禁忌语）好摆胜的人。  
 1. 【[胜歪歪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_vae_vae.md#胜歪歪)】`shen5 vae1 vae1` <sup>[兴化]</sup> 炫耀自己，令人恶心：她就欢喜～的显摆当官的丈夫。‖也说“胜巴巴”。  
@@ -1962,6 +1964,7 @@
 1. 【[苕子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_zz.md#苕子)】`sho5 zz` <sup>[兴化]</sup> 一种豆科植物，多用来做绿肥。  
 1. 【[佋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho.md#佋)】`sho6` 傻，呆；歪斜，不正  
 1. 【[叔伯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_boh.md#叔伯)】`shoh7 boh7` <sup>[东台]</sup> 非嫡亲关系：他和我是～弟兄，他儿子是我的～侄子。  
+1. 【[叔伯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_boh.md#叔伯)】`shoh7 boh7` <small>/sɔʔ7 pɔʔ7/<sup>泰兴</sup></small> 同祖父或同曾祖父的兄弟姐妹的关系。<sup>\[泰兴\]</sup>：～兄弟<sup>\[泰兴\]</sup>｜～姊妹<sup>\[泰兴\]</sup>｜～舅舅/母亲的叔伯兄弟<sup>\[泰兴\]</sup>  
 1. 【[叔伯伯父](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_boh_boh_fv.md#叔伯伯父)】`shoh7 boh7 boh7 fv6` <sup>[如东]</sup> 叔伯老老（爷爷）所生的年龄比父亲大的男子，称叔伯伯父。  
 1. 【[叔伯侄女](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_boh_chih_ny.md#叔伯侄女)】`shoh7 boh7 chih8 ny3` <sup>[如东]</sup> 叔伯伯父和叔伯叔父所生的女儿。  
 1. 【[叔伯侄女婿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_boh_chih_ny.md#叔伯侄女婿)】`shoh7 boh7 chih8 ny3 xy5` <sup>[如东]</sup> 叔伯侄女的丈夫。  
@@ -1986,8 +1989,8 @@
 1. 【[叔伯弟弟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_boh_ti_ti.md#叔伯弟弟)】`shoh7 boh7 ti6 ti` <sup>[如东]</sup> 叔伯伯父和叔伯叔父所生的年龄比自己小的男子。  
 1. 【[叔伯兄弟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_boh_xion_ti.md#叔伯兄弟)】`shoh7 boh7 xion1 ti` 堂兄弟  
 1. 【[叔伯兄弟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_boh_xion_ti.md#叔伯兄弟)】`shoh7 boh7 xion1 ti6` <sup>[如东]</sup> 叔伯哥哥和叔伯弟弟的通称  
-1. 【[叔丈母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_chan_mu.md#叔丈母)】`shoh7 chan6 mu` <small>/sɔʔ7 t͡sʰaŋ6 mo/<sup>兴化</sup></small> 妻的婶母。<sup>\[兴化\]</sup><sup>\[泰州\]</sup>  
-1. 【[叔丈人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_chan_ren.md#叔丈人)】`shoh7 chan6 ren` <small>/sɔʔ7 t͡sʰaŋ6 lən/<sup>兴化</sup></small> 妻的叔父。<sup>\[兴化\]</sup><sup>\[泰州\]</sup>  
+1. 【[叔丈母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_chan_mu.md#叔丈母)】`shoh7 chan6 mu` <small>/sɔʔ7 t͡sʰaŋ6 mo/<sup>兴化</sup>, /sɔʔ7 t͡sʰɑŋ1 mɤɯ/<sup>泰兴</sup></small> 妻的婶母。<sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>  
+1. 【[叔丈人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_chan_ren.md#叔丈人)】`shoh7 chan6 ren` <small>/sɔʔ7 t͡sʰaŋ6 lən/<sup>兴化</sup>, /sɔʔ7 t͡sʰɑŋ1 ɻəŋ/<sup>泰兴</sup></small> 妻的叔父。<sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>  
 1. 【[叔父](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_fv.md#叔父)】`shoh7 fv6` <sup>[如东]</sup> 父亲的弟弟。也称爷（i2）。  
 1. 【[叔母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_mu.md#叔母)】`shoh7 mu3` <sup>[如东]</sup> 娘娘，叔母。  
 1. 【[叔<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_r.md#叔<sub>儿</sub>)】`shoh7 r` <sup>[如皋]</sup> 叔叔。  
@@ -1996,6 +1999,7 @@
 1. 【[叔嫂换茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_so_hun_cha.md#叔嫂换茶)】`shoh7 so3 hun6 cha2` <sup>[如皋]</sup>   
 1. 【[叔太爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_tae_i.md#叔太爷)】`shoh7 tae5 i` <sup>[兴化]</sup> ① 在家族中和父亲同辈的男性：他俫是本家叔侄，一个是侄少，一个是～。 ② 父亲的朋友：你是～，不能黄你面子。  
 1. 【[叔子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_zz.md#叔子)】`shoh7 zz` <sup>[如东]</sup> 嫂嫂对丈夫弟弟的称谓。  
+1. 【[叔子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_zz.md#叔子)】`shoh7 zz` <small>/sɔʔ7 t͡sɿ/<sup>泰兴</sup></small> ① 与父同辈、年龄小于父亲者；叔父。<sup>\[泰兴\]</sup> ② 丈夫的弟弟。<sup>\[泰兴\]</sup>  
 1. 【[属](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh.md#属)】`shoh7` <sup>[泰州]</sup> 用十二生肖纪年：～龙｜～马  
 1. 【[属狗的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_geu_dii.md#属狗的)】`shoh7 geu3 dii` <sup>[如皋]</sup> 忠心、忠臣。  
 1. 【[属猴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_heu_dii.md#属猴的)】`shoh7 heu2 dii` <sup>[如皋]</sup> 不定神，动吖不歇。  
@@ -3437,6 +3441,6 @@
 1. 【[自家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ga.md#自家)】`sz6 ga1` <small>/sɿ1 ka1/<sup>如皋</sup>, /sɿ1 kɑ1/<sup>泰兴</sup>, /sɿ1 ka1/<sup>泰县</sup></small> 自己。<sup>\[如皋\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>\[东台：又 sz6 ga3\]  
 1. 【[自家的菩萨没香烧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ga_dii_pv.md#自家的菩萨没香烧)】`sz6 ga1 dii pv2 saeh meh8 xian1 sho1` <small>/sɿ1 kɑ1 təɪ pʰu2 ɕiæʔ məʔ8 ɕiɑŋ1 sɔ1/<sup>泰兴</sup></small> 喻自己的事尚不能办好，不可能帮人办事。<sup>\[泰兴\]</sup>  
 1. 【[自家家里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ga_ga_lii.md#自家家里)】`sz6 ga1 ga1 lii` <sup>[如皋]</sup> 自己家里。  
-1. 【[自有自便](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ieu_sz_pin.md#自有自便)】`sz6 ieu3 sz6 pin6` 自己拥有（相对于仰仗别人），自己方便。  
+1. 【[自有自便](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ieu_sz_pin.md#自有自便)】`sz6 ieu3 sz6 pin6` <small>/sɿ1 iɤɯ3 sɿ1 pʰĩ1/<sup>泰兴</sup></small> 自己拥有（相对于仰仗别人），自己方便。<sup>\[泰兴\]</sup>  
 1. 【[自有自顺便](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_ieu_sz_shuen.md#自有自顺便)】`sz6 ieu3 sz6 shuen6 pin` <sup>[东台]</sup> 自己有的东西使用更方便。  
 **[▲](#音序检索)**  

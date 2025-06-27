@@ -43,8 +43,11 @@
 1. 【[再堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_tan.md#再堂)】`zae5 tan2` <sup>[如皋]</sup> 同曾祖的同族亲缘关系称。  
 1. 【[再再](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_zae.md#再再)】`zae5 zae5` <sup>[兴化]</sup> 一而再，再而三：说之～，他才答应明吖来。｜……谦之～，分宾主礼入座。（《火烧赤壁》七）  
 1. 【[咂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh.md#咂)】`zaeh7` <sup>[如皋]</sup> ① 唇、齿、舌与腭紧贴，忽然张口时的暴破清音。 ② 用嘴唇略吸：～一口酒。 ③ （如皋方音zuaeh7）  
+1. 【[咂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh.md#咂)】`zaeh7` <small>/t͡ɕiæʔ7/<sup>泰兴</sup></small> 品尝；品辨<sup>\[泰兴\]</sup>  
 1. 【[咂嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh_jy.md#咂嘴)】`zaeh7 jy3` <small>/t͡seʔ7 t͡ɕy3/<sup>如皋</sup></small> ① 舌头抵住上颚发出吸气的声音，表示称赞、羡慕、惊讶等。<sup>\[如东\]</sup> ② 舌尖顶住上颚发出吸气音，表示赞赏、惊讶、惋惜等。<sup>\[东台\]</sup> ③ 吃时张口有声。<sup>\[如皋\]</sup> ④ 表示品尝滋味。<sup>\[如皋\]</sup> ⑤ 表示为难。<sup>\[如皋\]</sup> ⑥ （如皋方音zuaeh7 jy3）<sup>\[如皋\]</sup>  
 1. 【[咂味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh_vei.md#咂味)】`zaeh7 vei6` 用舌头吮吸品尝滋味，引申指拿老实人开玩笑来去了<sup>\[泰州\]</sup>：你是快活得没处抓痒，又拿人家老实人来～唻。<sup>\[泰州\]</sup>  
+1. 【[咂嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh_zuei.md#咂嘴)】`zaeh7 zuei3` <small>/t͡ɕiæʔ7 t͡suəɪ3/<sup>泰兴</sup></small> 以舌抵齿、嘴唇上下开合作声。表示称赞、企慕或为难、惋惜等。<sup>\[泰兴\]</sup>  
+1. 【[咂嘴通天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh_zuei_ton_tin.md#咂嘴通天)】`zaeh7 zuei3 ton1 tin1` <small>/t͡ɕiæʔ7 t͡suəɪ3 tʰɔŋ1 tʰĩ1/<sup>泰兴</sup></small> 比喻对某事某物极不满意，显出十分为难的样子。<sup>\[泰兴\]</sup>  
 1. 【[杂八斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh_baeh_deu.md#杂八斗)】`zaeh7 baeh7 deu5` <sup>[如皋]</sup> 杂七杂八的东西拼合起来的。  
 1. 【[杂八斗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh_baeh_deu_r.md#杂八斗<sub>儿</sub>)】`zaeh7 baeh7 deu5 r` <sup>[泰县]</sup> 拼凑的东西：这些都是些～。  
 1. 【[杂不拉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh_beh_la.md#杂不拉)】`zaeh7 beh la1` <sup>[泰州]</sup> 乱七八糟混合在一起的东西：好鱼都卖掉啊唻，就剩吖这些～的鱼，你要就拿啊跑。  
@@ -1631,7 +1634,7 @@
 1. 【[砖头佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_teu_lo_r.md#砖头佬<sub>儿</sub>)】`zhun1 teu2 lo3 r` <sup>[泰县]</sup> ① 断砖。 ② 为别人泄愤：你不能老是叫我去撂～。  
 1. 【[砖头瓦板<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_teu_va_baen.md#砖头瓦板<sub>儿</sub>)】`zhun1 teu2 va3 baen3 r` <sup>[东台]</sup> 碎砖碎瓦等建筑垃圾。  
 1. 【[转场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_chan.md#转场)】`zhun3 chan3` <small>/t͡sũ3 t͡sʰaŋ3/<sup>兴化</sup></small> ① 暂停争执，使气氛缓和<sup>\[兴化\]</sup>：你不要硬顶，转个场再说。<sup>\[兴化\]</sup>｜你先回避一下，好让他有个～。<sup>\[兴化\]</sup> ② 戏曲演员转换演出场次。<sup>\[泰州\]</sup> ③ 双方发生争执之时，一方暂时回避，等到气氛缓和以后再行商议<sup>\[泰州\]</sup>：你俫这样子吵法不行，老李你先转吖场，有话等一刻儿再说。<sup>\[泰州\]</sup>  
-1. 【[转潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_cho.md#转潮)】`zhun3 cho2` <small>/t͡sũ3 t͡sʰɔ2/<sup>兴化</sup>, /t͡sʊ̃3 t͡sʰɔ2/<sup>如皋</sup></small> ① 空气湿度大，物体由干变䵑乃至潮湿。<sup>\[如皋\]</sup> ② 本来干燥的物品，吸收了空气中的水分，变潮湿了。<sup>\[东台\]</sup> ③ 由于空气湿度大，居室和物品沾有水汽<sup>\[兴化\]</sup>：你望，你父亲那件老夹袄今天～，水都快往下滴了。（兴文：《小癞子招驸马》）<sup>\[兴化\]</sup> ④ 因为空气湿度饱和，致使已干衣物沾有湿气<sup>\[泰州\]</sup>：最近这些时天天落雨，家里湿气大啊没得命，橱子里栋的衣裳都转潮唻。<sup>\[泰州\]</sup>  
+1. 【[转潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_cho.md#转潮)】`zhun3 cho2` <small>/t͡sũ3 t͡sʰɔ2/<sup>兴化</sup>, /t͡sʊ̃3 t͡sʰɔ2/<sup>如皋</sup>, /t͡sʊ̃3 t͡sʰɔ2/<sup>泰兴</sup></small> 空气湿度大，物体（居室、地面、衣物或各种居家物品等等）由干变潮<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：你望，你父亲那件老夹袄今天～，水都快往下滴了。（兴文：《小癞子招驸马》）<sup>\[兴化\]</sup>｜最近这些时天天落雨，家里湿气大啊没得命，橱子里栋的衣裳都～唻。<sup>\[泰州\]</sup>  
 1. 【[转刀<sub>儿</sub>块子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_do_r_kuae.md#转刀<sub>儿</sub>块子)】`zhun3 do1 r kuae5 zz` <sup>[如皋]</sup> 切一刀，转一下，切成有棱角的块子。  
 1. 【[转角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_gah.md#转角)】`zhun3 gah7` <sup>[东台]</sup> 拐弯处。  
 1. 【[转角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_gah.md#转角)】`zhun3 gah7` <small>/t͡sʊ̃3 kɑʔ7/<sup>泰兴</sup></small> 街巷等拐弯处。<sup>\[泰兴\]</sup>  
@@ -1647,6 +1650,7 @@
 1. 【[转噍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_qio.md#转噍)】`zhun3 qio1` <sup>[如皋]</sup> ① 指反刍。 ② 同“转爪”。  
 1. 【[转窍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_qio.md#转窍)】`zhun3 qio5` <sup>[如东]</sup> 想通了：她终于～。  
 1. 【[转䵑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_ren.md#转䵑)】`zhun3 ren6` <sup>[如皋]</sup> 因吸潮由脆变软。同“发䵑”：时霉天脆饼儿容易～｜炒花生天数多啊，～吖。  
+1. 【[转䵑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_ren.md#转䵑)】`zhun3 ren6` <small>/t͡sʊ̃3 ɻəŋ1/<sup>泰兴</sup></small> 食物受潮变软。<sup>\[泰兴\]</sup>  
 1. 【[转色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_seh.md#转色)】`zhun3 seh7` <small>/t͡sũ3 səʔ7/<sup>兴化</sup>, /t͡sʊ̃3 səʔ7/<sup>如皋</sup></small> ① 改变颜色：如人的脸色、炒菜的菜色、移苗后的叶色等。<sup>\[如皋\]</sup> ② 面色变化，多指由黄黑转红白：这个孩子几个月好日子一过，脸上倒转吖色。<sup>\[兴化\]</sup> ③ 农作物由黄变绿：水肥一上，秧苗转吖色。<sup>\[兴化\]</sup> ④ 脸色发生变化。<sup>\[泰州\]</sup> ⑤ 身体虚弱之人经过休养以后，脸上气色发生好的变化<sup>\[泰州\]</sup>：她歇咖个把月，脸上才转吖色。<sup>\[泰州\]</sup> ⑥ 植物叶片颜色由黄变绿或者由淡变浓<sup>\[泰州\]</sup>：肥料上吖三天，扁豆的叶子就转吖色。<sup>\[泰州\]</sup>  
 1. 【[转身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_shen.md#转身)】`zhun3 shen1` <small>/t͡sũ3 sən1/<sup>兴化</sup>, /t͡sʊ̃3 səŋ1/<sup>如皋</sup></small> ① 见“转爪”。<sup>\[如皋\]</sup> ② 离开<sup>\[兴化\]</sup>：110的人一～，他俫又闹起来啊。<sup>\[兴化\]</sup>｜众人见赵昇连住数日，并不～，愈加厌恶……（《古今小说》十三）<sup>\[兴化\]</sup>  
 1. 【[转世投胎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_shr_teu_tae.md#转世投胎)】`zhun3 shr5 teu2 tae1` <sup>[如皋]</sup> 轮回。引指重来一次，常表示无望：要他回心转意，除非～。  
@@ -2134,6 +2138,7 @@
 1. 【[嘴紧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_jien.md#嘴紧)】`zuei3 jien3` <sup>[泰兴]</sup> 同“口紧”。  
 1. 【[嘴尖挂淘箩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_jin_gua_to.md#嘴尖挂淘箩)】`zuei3 jin1 gua5 to2 lu1` 形容人不开心不满意的样子，多用于小孩。  
 1. 【[嘴尖鼻子翘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_jin_pieh_zz.md#嘴尖鼻子翘)】`zuei3 jin1 pieh8 zz3 qio5` 形容人不开心不满意的样子，多用于小孩。  
+1. 【[嘴里没得味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_lii_meh_deh.md#嘴里没得味)】`zuei3 lii meh8 deh vei6` <small>/t͡suəɪ3 ləɪ məʔ8 təʔ ʋəɪ1/<sup>泰兴</sup></small> 嘴里觉不出滋味，常因生病或忧心等原因<sup>\[泰兴\]</sup>  
 1. 【[嘴码子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_ma_zz.md#嘴码子)】`zuei3 ma3 zz` <sup>[兴化]</sup> 嘴（指说话时的）：他～来得，能说会道的。  
 1. 【[嘴𤖭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_paen_zz.md#嘴𤖭子)】`zuei3 paen2 zz` <sup>[兴化]</sup> 嘴唇。  
 1. 【[嘴皮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_pi_zz.md#嘴皮子)】`zuei3 pi2 zz` <sup>[泰县]</sup> 嘴唇。  
@@ -2214,6 +2219,7 @@
 1. 【[龇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz.md#龇)】`zz1` <small>/t͡sɿ1/<sup>如皋</sup></small> ① 露齿。<sup>\[如皋\]</sup> ② 鹅之类以喙啄人<sup>\[泰州\]</sup>：捱鹅子～啊一口。<sup>\[泰州\]</sup>｜他家这个鸭子～人。<sup>\[泰州\]</sup>  
 1. 【[龇巴摞嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_ba_lu_jy.md#龇巴摞嘴)】`zz1 ba lu3 jy3` <sup>[泰县]</sup> 笑嘻嘻：他笑得～的，不晓得怎吖这吖高兴的。  
 1. 【[龇巴咧嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_ba_lae_jy.md#龇巴咧嘴)】`zz1 ba1 lae3 jy3` <sup>[泰州]</sup> 嘴向旁边斜着张开嘴巴露出牙齿的丑陋样子，意谓人之笑相不雅，贬义：你望他～的，笑得这个死形样子噢。｜你望你这伢儿，先头子还在这块哭的，这一刻儿又～的笑唻。  
+1. 【[龇巴咧嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_ba_lae_zuei.md#龇巴咧嘴)】`zz1 ba1 lae3 zuei3` <small>/t͡sɿ1 pɑ1 lɛ3 t͡suəɪ3/<sup>泰兴</sup></small> 笑嘻嘻的样子。<sup>\[泰兴\]</sup>  
 1. 【[龇巴录促](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_ba_loh_coh.md#龇巴录促)】`zz1 ba1 loh8 coh7` <sup>[泰州]</sup> 骂人嘴中啰啰唆唆、含沙射影攻击人的行为，詈词：这事又不是我弄的，只听吖你～的，甚的意思啊？｜这小伙再～的，就弄他两下子。  
 1. 【[龇而粕而](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_er_pah_er.md#龇而粕而)】`zz1 er pah7 er` <sup>[泰州]</sup> 嘴里说着诋毁人的脏话：你嘴里再～的，老子夯你！｜你在这块骂啊半天，不曾睬你，你同哪个～的啊？  
 1. 【[龇开来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_kae_lae.md#龇开来)】`zz1 kae1 lae` <sup>[东台]</sup> 龇，本指张开嘴看见牙，这里指物体裂开了口子。  

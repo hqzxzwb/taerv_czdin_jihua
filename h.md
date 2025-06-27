@@ -452,12 +452,14 @@
 1. 【[炕人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_ren.md#炕人)】`han5 ren2` <sup>[如东]</sup> 干燥而闷热：太阳大，蹾吖家里都感觉～。  
 1. 【[炕烧饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_sho_bien.md#炕烧饼)】`han5 sho1 bien3` <sup>[如东]</sup> 一种烹调方法。锅里放少许油，文火，将烧饼焙熟。  
 1. 【[巷口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_keu.md#巷口)】`han6 keu3` <sup>[兴化]</sup> 巷子的两端：你在～等他，他马上就家来。｜“街头～，用围幕挡严”（《红楼梦》第十八回）  
+1. 【[巷弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_lon.md#巷弄)】`han6 lon` <small>/xɑŋ1 lɔŋ/<sup>泰兴</sup></small> 巷子，小巷。<sup>\[泰兴\]</sup>  
 1. 【[巷<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_r.md#巷<sub>儿</sub>)】`han6 r` <sup>[如皋]</sup> 小巷：细～、夹～、獃～（死胡同）。  
 1. 【[巷头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_teu.md#巷头)】`han6 teu2` <sup>[兴化]</sup> 巷子的入口处及其附近地段，通常为街市：我家～上有酱园、南货店，还有澡堂、理发店。  
 1. 【[巷头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_teu.md#巷头)】`han6 teu2-3` <sup>[泰县]</sup> 巷口。  
 1. 【[巷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_zz.md#巷子)】`han6 zz` <small>/xaŋ6 t͡sɿ/<sup>兴化</sup></small> ① 两屋之间的通道。亦称弄堂。<sup>\[如东\]</sup> ② 屋宇之间狭窄的通道，即北方人所说的胡同。<sup>\[东台\]</sup> ③ 巷<sup>\[兴化\]</sup>：这条～里住有七八户人家。<sup>\[兴化\]</sup>  
 1. 【[巷子里逮驴——两头堵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_zz_lii_dae.md#巷子里逮驴——两头堵)】`han6 zz lii dae3 ly2 laen3 teu2 dv3` <sup>[东台]</sup>   
 1. 【[巷子里扛木头——直来直去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_zz_lii_kan.md#巷子里扛木头——直来直去)】`han6 zz lii kan2 moh8 teu cheh8 lae2 cheh8 qy5` <sup>[东台]</sup>   
+1. 【[巷子里头扛木头，直来直去的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_zz_lii_teu.md#巷子里头扛木头，直来直去的)】`han6 zz lii3 teu2 kan3 moh8 teu2 cheh8 lae2 cheh8 qy5 dii` <small>/xɑŋ1 t͡sɿ ləɪ3 tʰəɪ2 kʰɑŋ3 mɔʔ8 tʰəɪ2 t͡sʰəʔ8 lɛ2 t͡sʰəʔ8 t͡ɕʰy5 təɪ/<sup>泰兴</sup></small> 歇后语。喻办事说话不拐弯抹角。<sup>\[泰兴\]</sup>  
 1. 【[桁凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_den.md#桁凳)】`han6 den5` <sup>[如东]</sup> 搁置棱条的凳子。  
 1. 【[项门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_men.md#项门)】`han6 men2` <sup>[如东]</sup> 踏步床的踏板上到马桶处去的通道。  
 1. 【[吓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh.md#吓)】`heh7` <small>/xəʔ7/<sup>泰兴</sup></small> ① 吓，使害怕 ② 受惊吓<sup>\[如东\]</sup><sup>\[泰兴\]</sup>：～得扎实/受到严重惊吓<sup>\[泰兴\]</sup>  
@@ -2440,12 +2442,13 @@
 1. 【[虎刺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_cz.md#虎刺)】`hv3 cz5` <sup>[如东]</sup> 茜草科植物虎刺，常绿小灌木。  
 1. 【[虎耳草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_er_co.md#虎耳草)】`hv3 er3 co3` <sup>[如东]</sup> 虎耳草科植物虎耳草，多年生草本。  
 1. 【[虎也似的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_ia_shr_dii.md#虎也似的)】`hv3 ia3 shr6 dii` <sup>[泰州]</sup> 像老虎一样气势汹汹的样子：他～奔上来就要动手。  
-1. 【[虎口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_keu.md#虎口)】`hv3 keu3` <small>/fu3 kʰei3/<sup>如皋</sup></small> 大拇指与食指之间连接的部分。<sup>\[东台\]</sup><sup>\[如皋\]</sup>  
+1. 【[虎口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_keu.md#虎口)】`hv3 keu3` <small>/fu3 kʰei3/<sup>如皋</sup>, /fʋ3 kʰəɪ3/<sup>泰兴</sup></small> 大拇指与食指之间连接的部分。<sup>\[东台\]</sup><sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
 1. 【[虎落平阳被犬欺，失时凤凰不如鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_lah_pien_ian.md#虎落平阳被犬欺，失时凤凰不如鸡)】`hv3 lah8 pien2 ian2 pi6 qiun3 qi1 sheh7 shr2 fon6 huan2 beh7 rv2 ji1` <sup>[东台]</sup> 人的势力威风离不开一定环境。  
-1. 【[虎狼神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_lan_shen.md#虎狼神)】`hv3 lan2 shen2` <small>/fu3 lã2 səŋ2/<sup>如皋</sup>, /fu3 nɑŋ2 səŋ2/<sup>泰县</sup></small> ① 凶暴者。<sup>\[如皋\]</sup> ② 形容非常凶猛快捷的样子<sup>\[东台\]</sup>：他～样的冲上去。<sup>\[东台\]</sup> ③ 鲁莽，气势汹汹的人。<sup>\[泰县\]</sup>  
+1. 【[虎狼神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_lan_shen.md#虎狼神)】`hv3 lan2 shen2` <small>/fu3 lã2 səŋ2/<sup>如皋</sup>, /fʋ3 lɑŋ2 səŋ2/<sup>泰兴</sup>, /fu3 nɑŋ2 səŋ2/<sup>泰县</sup></small> ① 凶暴者。<sup>\[如皋\]</sup> ② 形容非常凶猛快捷的样子<sup>\[东台\]</sup>：他～样的冲上去。<sup>\[东台\]</sup> ③ 鲁莽，气势汹汹的人。<sup>\[泰县\]</sup> ④ 勇猛向前的样子。<sup>\[泰兴\]</sup>  
 1. 【[虎丫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_nga.md#虎丫)】`hv3 nga1` <small>/fu3 ŋa1/<sup>如皋</sup></small> 拇指与食指之间。<sup>\[如皋\]</sup>\[如东：也称虎口。\]：夹咖～里。<sup>\[如东\]</sup>  
 1. 【[虎牙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_nga.md#虎牙)】`hv3 nga2` <sup>[如东]</sup> 齿的一种，上下颌各有两枚，在门齿的两侧，齿冠锐利，便于撕裂食物。也称犬齿、犬牙。  
 1. 【[虎皮肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_pi_roh.md#虎皮肉)】`hv3 pi2 roh8` <small>/fu3 pʰʝ2 ɻɔʔ8/<sup>如皋</sup></small> 即“跑油肉”。<sup>\[如皋\]</sup>  
+1. 【[虎肉呆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_roh_dae_zz.md#虎肉呆子)】`hv3 roh8 dae1 zz` <small>/fʋ3 ɻɔʔ8 tɛ1 t͡sɿ/<sup>泰兴</sup></small> 虎头鲨。喻肥胖者。<sup>\[泰兴\]</sup>  
 1. 【[虎势狼威](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_shr_lan_vei.md#虎势狼威)】`hv3 shr5 lan2 vei1` <sup>[兴化]</sup> 令人畏惧的声势或气派：过去当官的出来，护兵一大群，～的真怕人子。  
 1. 【[虎头鞋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_teu_hae.md#虎头鞋)】`hv3 teu2 hae2` <small>/fu3 tʰei2 xɛ2/<sup>如皋</sup></small> 一种童鞋。鞋头绣成虎头形。<sup>\[如皋\]</sup>\[如东：有双目，有口，有须。小儿抓朞以及端午节穿，表示吉祥、雄伟和避邪。\]  
 1. 【[虎头花边瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_teu_hua_bin.md#虎头花边瓦)】`hv3 teu2 hua1 bin1 va3` <sup>[兴化]</sup> ① 檐前滴水的瓦，前面有虎头花边，故名。 ② （喻）旧谓流品底下，成份复杂的人群：他的朋友全是～，没几个周正人。  
@@ -2453,6 +2456,7 @@
 1. 【[虎头鲨<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_teu_sha_r.md#虎头鲨<sub>儿</sub>)】`hv3 teu2 sha1 r` <sup>[如皋]</sup> 塘鳢。  
 1. 【[虎头蛇尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_teu_sha_vei.md#虎头蛇尾)】`hv3 teu2 sha2 vei3` <sup>[东台]</sup> 办事不能善始善终，开始认真，后来马虎了事。  
 1. 【[虎跳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_tio.md#虎跳)】`hv3 tio5` <sup>[如皋]</sup> 手着地腿伸直侧滚翻。  
+1. 【[虎跳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_tio.md#虎跳)】`hv3 tio5` <small>/fʋ3 tʰiɔ5/<sup>泰兴</sup></small> 一种运动形式。双手着地，全身上下翻转。<sup>\[泰兴\]</sup>  
 1. 【[𢮎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv.md#𢮎)】`hv3` <small>/xu3/<sup>兴化</sup>, /fu3/<sup>如皋</sup>, /fu3/<sup>泰县</sup></small> 抛洒、泼洒<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：～种、～水、～粪、～灰，～泥。<sup>\[如皋\]</sup>｜把种子～啊田里<sup>\[东台\]</sup>｜～水<sup>\[东台\]</sup>｜赶在下雨前～化肥。<sup>\[东台\]</sup>｜家伙打掉了事小，油汤～在客家身上不像话（《武松》三）。<sup>\[兴化\]</sup>｜～水（把水倒掉）<sup>\[兴化\]</sup>｜～粪（向田间泼洒粪肥）<sup>\[兴化\]</sup>｜～菜水（给菜地浇水）。<sup>\[兴化\]</sup>｜担子打了翻掉了，炊饼打了～掉了。（《武松》一）<sup>\[兴化\]</sup>｜这盆脏水，～掉吧。<sup>\[泰县\]</sup>｜洗过脸把水～啊阴沟头去。<sup>\[泰州\]</sup>｜淘个米把米～啊一地。<sup>\[泰州\]</sup>  
 1. 【[𢮎臭水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_cheu_shuei.md#𢮎臭水)】`hv3 cheu5 shuei3` <small>/xu3 t͡sʰɤ5 suəi3/<sup>兴化</sup>, /fu3 t͡sʰei5 suei3/<sup>如皋</sup>, /fu3 t͡sʰɤɯ5 ɕyəɪ3/<sup>泰县</sup></small> ① 把脏水泼出去。<sup>\[如东\]</sup> ② 背后说别人的坏话。败坏别人的声誉。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup>\[东台：揭露对方隐私或诋毁污蔑对方\]：她就喜欢～。<sup>\[如东\]</sup>｜他俫两个人有意见，对过～。<sup>\[兴化\]</sup> ③ 将脏水泼在别人身上，比喻背后说人坏话<sup>\[泰州\]</sup>：你注意点儿，弄得不好有人在局长跟前𢮎你的臭水。<sup>\[泰州\]</sup>  
 1. 【[𢮎粪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_fen.md#𢮎粪)】`hv3 fen5` <sup>[如皋]</sup> 用料勺泼浇粪肥。  

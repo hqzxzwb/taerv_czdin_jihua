@@ -358,6 +358,7 @@
 1. 【[搲鱼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_y_r.md#搲鱼<sub>儿</sub>)】`va3 y2 r` <sup>[兴化]</sup> 即“搲疙瘩”。因煮熟的疙瘩浮在汤的表面，形似游鱼，故名。  
 1. 【[瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va.md#瓦)】`va3` <sup>[如东]</sup> 建筑材料。泥土烧制或水泥浇制，长方形，平面拱形或平形。覆盖在屋面上，用于挡雨水。  
 1. 【[瓦板<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_baen_r.md#瓦板<sub>儿</sub>)】`va3 baen3 r` <sup>[东台]</sup> 瓦。犹指碎瓦。（原文词条“瓪”，牵强。）  
+1. 【[瓦板子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_baen_zz.md#瓦板子)】`va3 baen3 zz` <small>/uɑ3 pɛ̃3 t͡sɿ/<sup>泰兴</sup></small> 瓦片，碎瓦<sup>\[泰兴\]</sup>  
 1. 【[瓦钵<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_buh_r.md#瓦钵<sub>儿</sub>)】`va3 buh7 r` <sup>[如东]</sup> 比较粗糙的陶器，用以盛水。  
 1. 【[瓦槽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_co.md#瓦槽)】`va3 co2` <sup>[如东]</sup> 屋面上用瓦片铺成的凹的槽，叫瓦槽。  
 1. 【[瓦瓷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_cz.md#瓦瓷)】`va3 cz2` <small>/ua3 t͡sʰɿ2/<sup>兴化</sup>, /ʋa3 t͡sʰɿ2/<sup>如皋</sup>, /uɑ3 t͡sʰɿ2/<sup>泰兴</sup></small> ① 瓷器的碎片。<sup>\[如皋\]</sup> ② 碎瓦片<sup>\[兴化\]</sup>：砸～。<sup>\[兴化\]</sup> ③ 碎瓷片<sup>\[兴化\]</sup>：碗～。<sup>\[兴化\]</sup> ④ 陶制品破损的碎片。<sup>\[泰兴\]</sup>  
@@ -854,7 +855,7 @@
 1. 【[煨罐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_gun_r.md#煨罐<sub>儿</sub>)】`vei1 gun5 r` <small>/ʋei1 kʊ˞5/<sup>如皋</sup></small> ① 一称焖锅儿。深帮，多为陶、紫铜质，供煮汤菜用。<sup>\[如皋\]</sup> ② 器皿。陶制，似小坛子，有柄，有盖，有嘴。主要用于煨药。<sup>\[如东\]</sup>  
 1. 【[煨秧亩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_ian_mu.md#煨秧亩)】`vei1 ian1 mu3` <sup>[东台]</sup> （民俗）正月半（元宵节）下午，用草在秧亩里烟熏，以熏死虫卵求丰年。  
 1. 【[煨汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_tan.md#煨汤)】`vei1 tan1` <sup>[兴化]</sup> 一种烹调方法，用微火慢慢地煮，将汤汁煮得很稠：老母鸡～。  
-1. 【[萎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei.md#萎)】`vei1` <small>/uəi1/<sup>兴化</sup>, /ʋəɪ1/<sup>泰县</sup></small> ① 疲倦，累<sup>\[东台\]</sup>：把你忙吖～啊。（“萎”读若“威”）。<sup>\[东台\]</sup> ② 疲乏<sup>\[兴化\]</sup>：他忙吖一天，刚晚就～下来啊。<sup>\[兴化\]</sup> ③ 疲劳：今吖他挑啊一天的泥，～煞咖。<sup>\[泰县\]</sup> ④ 捧、托，添：～毛窝。<sup>\[泰县\]</sup> ⑤ 疲惫，疲劳<sup>\[泰州\]</sup>：你俫挑啊～啊，就歇咖子。<sup>\[泰州\]</sup>｜爬啊一天的山，人～煞咖，夜饭一吃就上吖铺。<sup>\[泰州\]</sup>｜你一天说到晚，嘴哿～啊？<sup>\[泰州\]</sup>  
+1. 【[萎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei.md#萎)】`vei1` <small>/uəi1/<sup>兴化</sup>, /ʋəɪ1/<sup>泰县</sup></small> ① 疲倦，累<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：把你忙吖～啊。（“萎”读若“威”）。<sup>\[东台\]</sup>｜他忙吖一天，刚晚就～下来啊。<sup>\[兴化\]</sup>｜今吖他挑啊一天的泥，～煞咖。<sup>\[泰县\]</sup>｜你俫挑啊～啊，就歇咖子。<sup>\[泰州\]</sup>｜爬啊一天的山，人～煞咖，夜饭一吃就上吖铺。<sup>\[泰州\]</sup>｜你一天说到晚，嘴哿～啊？<sup>\[泰州\]</sup> ② 捧、托，添<sup>\[泰县\]</sup>：～毛窝<sup>\[泰县\]</sup>  
 1. 【[萎睏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_kuen.md#萎睏)】`vei1 kuen5` <sup>[兴化]</sup> 过度疲劳：他做啊一天重活技，吃夜饭的时候一阵～，筷子一放就睡着咖。  
 1. 【[萎煞咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_shaeh_ga.md#萎煞咖)】`vei1 shaeh7 ga` <sup>[东台]</sup> 疲劳极了。  
 1. 【[萎头耷屌的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_teu_dah_dio.md#萎头耷屌的)】`vei1 teu2 dah7 dio3 dii` <sup>[如皋]</sup> 见“萎头耷脑的”。  
@@ -954,8 +955,9 @@
 1. 【[卫生裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_shen_kv.md#卫生裤)】`vei6 shen1 kv5` <sup>[泰州]</sup> 一种外层光滑、内层有绒，比粗布厚的绒裤，功能类似头绳裤（毛裤）。  
 1. 【[卫生纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_shen_zhr.md#卫生纸)】`vei6 shen1 zhr3` <sup>[如东]</sup> 质量比较细密的手纸。  
 1. 【[卫身棍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_shen_guen.md#卫身棍)】`vei6 shen1 guen5` <sup>[兴化]</sup> 手杖的旧称。  
+1. 【[味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei.md#味)】`vei6` 气味或滋味  
 1. 【[味精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_jien.md#味精)】`vei6 jien1` <sup>[如东]</sup> 调味品。白色粉末，放在菜或汤里使其有鲜味。  
-1. 【[味口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_keu.md#味口)】`vei6 keu` <small>/uəi6 kʰɤ/<sup>兴化</sup></small> 指食物的味道。<sup>\[东台\]</sup><sup>\[兴化\]</sup>：这个西瓜～不错。<sup>\[兴化\]</sup>  
+1. 【[味口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_keu.md#味口)】`vei6 keu` <small>/uəi6 kʰɤ/<sup>兴化</sup>, /ʋəɪ1 kʰəɪ/<sup>泰兴</sup></small> 指食物的味道。<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：这个西瓜～不错。<sup>\[兴化\]</sup>  
 1. 【[味<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_r.md#味<sub>儿</sub>)】`vei6 r` <sup>[兴化]</sup> ① 身份、派头：来的人西装礼帽，～十足。 ② 韵味：裘派花脸真的是有～。  
 1. 【[味水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_shuei.md#味水)】`vei6 shuei3` <small>/uəi6 suəi3/<sup>兴化</sup></small> ① 味道。<sup>\[如东\]</sup>：这碗菜～不错。<sup>\[如东\]</sup> ② 味道<sup>\[兴化\]</sup>：西城口的烧鸡～不丑。<sup>\[兴化\]</sup> ③ （引）手段<sup>\[兴化\]</sup>：你还不曾尝到他的～唻！<sup>\[兴化\]</sup> ④ 滋味<sup>\[泰州\]</sup>：这家小拍档的菜～不丑。<sup>\[泰州\]</sup> ⑤ 比喻严厉的措施或者毒辣的手段<sup>\[泰州\]</sup>：他现在同你还算客气的唻，时间长吖，你就晓得他的～唻。<sup>\[泰州\]</sup>｜这小伙没大没小的，要八点二～他尝啊子。<sup>\[泰州\]</sup>  
 1. 【[味水<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_shuei_r.md#味水<sub>儿</sub>)】`vei6 shuei3 r` <sup>[如皋]</sup> 滋味，引指虐罚：让他尝点儿～。  

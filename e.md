@@ -2,6 +2,8 @@
 **[A](./a.md) | [B](./b.md) | [C](./c.md) | [D](./d.md) | [E](./e.md) | [F](./f.md) | [G](./g.md) | [H](./h.md) | [I](./i.md) | [J](./j.md) | [K](./k.md) | [L](./l.md) | [M](./m.md) | [N](./n.md) | [O](./o.md) | [P](./p.md) | [Q](./q.md) | [R](./r.md) | [S](./s.md) | [T](./t.md) | [U](./u.md) | [V](./v.md) | [X](./x.md) | [Y](./y.md) | [Z](./z.md)**  
 ## E
 1. 【[……儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh.md#……儿)】`eh` <sup>[东台]</sup> 儿缀的东台市区方言口音：茄～；小摊～；让你个子～。  
+1. 【[哎呀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh_ia.md#哎呀)】`eh ia` <small>/əʔ iɑ/<sup>泰兴</sup></small> 叹词。表示埋怨、不耐烦、惊讶等。<sup>\[泰兴\]</sup>  
+1. 【[哎哟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh_io.md#哎哟)】`eh io` <small>/əʔ iɔ/<sup>泰兴</sup></small> 表示惊讶或痛苦等。<sup>\[泰兴\]</sup>  
 1. 【[呃唷哇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh_io_va.md#呃唷哇)】`eh7 io va1` <sup>[兴化]</sup> 叹词。  
 1. 【[呃唷㗏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh_io_vae.md#呃唷㗏)】`eh7 io vae1` <sup>[兴化]</sup> ① 叹词。呼痛：～，肚子疼！ ② 讽刺语气：～，小王不简单！  
 1. 【[呃吁㗏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh_y_vae.md#呃吁㗏)】`eh7 y vae1` <sup>[泰州]</sup> 象声词，呼筒声：～～，疼煞咖唻。  

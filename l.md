@@ -1184,8 +1184,9 @@
 1. 【[凌辱罪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_roh_cuei.md#凌辱罪)】`lien2 roh8 cuei6` <sup>[兴化]</sup> 在精神上、肉体上长时间受折磨：细伢儿遇到狠心的晚娘，～难受㖸！｜我要是被他抓过去……先把～把我受够了，然后才能让我死。（《火烧赤壁》九）  
 1. 【[凌凙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_tah.md#凌凙)】`lien2 tah` <small>/liɪ̃2 tʰaʔ/<sup>兴化</sup>, /liəŋ2 tʰaʔ/<sup>如皋</sup></small> ① 冰锥儿。多见于雪后晴的檐下。长胡子上也偶见。<sup>\[如皋\]</sup> ② 冰锥<sup>\[兴化\]</sup>：而今天气变暖，屋檐口好多年没得～咖。<sup>\[兴化\]</sup>  
 1. 【[拎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien.md#拎)】`lien2, lien1` 提  
-1. 【[拎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien.md#拎)】`lien2` <small>/liɪ̃2/<sup>兴化</sup></small> ① 提。<sup>\[如东\]</sup>：～篮子。<sup>\[如东\]</sup> ② 提<sup>\[兴化\]</sup>：～水、～篮子。<sup>\[兴化\]</sup> ③ （借）概括<sup>\[兴化\]</sup>：把问题～起来谈。<sup>\[兴化\]</sup>  
-1. 【[拎包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_bo.md#拎包)】`lien2 bo1` <sup>[兴化]</sup> 手提包：老周从～里拿出介绍信。  
+1. 【[拎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien.md#拎)】`lien2` <small>/liɪ̃2/<sup>兴化</sup>, /liŋ2/<sup>泰兴</sup></small> ① 提。<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：～篮子。<sup>\[如东\]</sup>｜～水、～篮子。<sup>\[兴化\]</sup> ② （借）概括<sup>\[兴化\]</sup>：把问题～起来谈。<sup>\[兴化\]</sup>  
+1. 【[拎包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_bo.md#拎包)】`lien2 bo1` <small>/liɪ̃2 pɔ1/<sup>兴化</sup>, /liŋ2 pɔ1/<sup>泰兴</sup></small> 手提包<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：老周从～里拿出介绍信。<sup>\[兴化\]</sup>  
+1. 【[拎包的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_bo_dii.md#拎包的)】`lien2 bo1 dii` <small>/liŋ2 pɔ1 təɪ/<sup>泰兴</sup></small> 为人服务、打下手的。<sup>\[泰兴\]</sup>  
 1. 【[拎草鞋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_co_hae.md#拎草鞋)】`lien2 co3 hae2` <sup>[东台]</sup> 形容做不了大事，只能听人支派或协助别人做小事。  
 1. 【[棂子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_zz.md#棂子)】`lien2 zz` <sup>[如东]</sup> 窗户中间安装的木槅子。  
 1. 【[淋灰水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_huei_shuei.md#淋灰水)】`lien2 huei1 shuei3` <sup>[如皋]</sup> 见“𤃀灰水”。  

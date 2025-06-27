@@ -1811,7 +1811,7 @@
 1. 【[娶婆娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_pu_nian.md#娶婆娘)】`qy3 pu2 nian` <sup>[东台]</sup> （口语）讨老婆。  
 1. 【[娶亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_qien.md#娶亲)】`qy3 qien1` <sup>[如东]</sup> 男子娶妻。男子结婚。  
 1. 【[娶人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_ren.md#娶人)】`qy3 ren2` <sup>[如皋]</sup> 娶妻。  
-1. 【[去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy.md#去)】`qy5` <small>/t͡ɕʰy5/<sup>如皋</sup>, /t͡ɕʰy5/<sup>泰县</sup></small> ① 应酬、送<sup>\[如皋\]</sup>：～人情。<sup>\[如皋\]</sup> ② 出：又不要你～力。<sup>\[泰县\]</sup>  
+1. 【[去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy.md#去)】`qy5` <small>/t͡ɕʰy5/<sup>如皋</sup>, /t͡ɕʰy5/<sup>泰县</sup></small> ① 应酬、送<sup>\[如皋\]</sup>：～人情。<sup>\[如皋\]</sup> ② 出<sup>\[泰县\]</sup>：又不要你～力。<sup>\[泰县\]</sup>  
 1. 【[去啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_a.md#去啊)】`qy5 a` “掉啊（tio a）”在如东口语中的表达形式，用在入声动词后面：捱他吃去啊=捱他吃掉啊（被他吃掉了）；灯熄去啊=灯熄掉啊（灯熄掉了）。  
 1. 【[去啊灯油钱，坐啊黑地里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_a_den_ieu.md#去啊灯油钱，坐啊黑地里)】`qy5 a den1 ieu2 qin2 cu6 a heh7 ti6 lii` <sup>[东台]</sup> 做了好事没有人知道。  
 1. 【[去个肏薄𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_gu_reh_pah.md#去个肏薄𪨊)】`qy5 gu5 reh8 pah8 son2` <sup>[如皋]</sup> 恨恨地决定不去。  

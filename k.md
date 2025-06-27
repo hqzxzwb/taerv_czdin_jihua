@@ -335,7 +335,7 @@
 1. 【[啃青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken_qien.md#啃青)】`ken3 qien1` <sup>[兴化]</sup> ① 庄稼尚未成熟时就收下来吃。 ② 牲畜吃青苗：他把牛放吖人家田边上～。  
 1. 【[啃碗边子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken_un_bin_zz.md#啃碗边子)】`ken3 un3 bin1 zz` <sup>[泰县]</sup> 出卖劳力，遭人嘲笑的话。  
 1. 【[恳情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken_qien.md#恳情)】`ken3 qien2` <sup>[兴化]</sup> 求情：儿子在外闯祸，老子到处～，求人家原谅。｜他深知太公替奸夫～，暗中也替他女儿～。（扬二《探奸遭陷》）  
-1. 【[肯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken.md#肯)】`ken3` <small>/kʰən3/<sup>兴化</sup>, /kʰəŋ3/<sup>如皋</sup>, /kʰəŋ3/<sup>泰兴</sup>, /kʰəŋ3/<sup>泰县</sup></small> ① 愿意：他不～去远的落头上班。/他不愿意去远的地方上班。 ② 表示容易发生或者经常发生某动作：买木头勺儿，木头的不～坏，不像瓷的～坏。/买木头勺子，木头的不容易坏，不像瓷的容易坏。｜病不～好。/病很难好。 ③ 愿意。<sup>\[如东\]</sup>：不～。<sup>\[如东\]</sup> ④ 容易：汽油～着火。<sup>\[如皋\]</sup> ⑤ 表示同意<sup>\[东台\]</sup>：他～签字。<sup>\[东台\]</sup> ⑥ 容易<sup>\[东台\]</sup>：柳树最～长。<sup>\[东台\]</sup>  
+1. 【[肯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken.md#肯)】`ken3` <small>/kʰən3/<sup>兴化</sup>, /kʰəŋ3/<sup>如皋</sup>, /kʰəŋ3/<sup>泰兴</sup>, /kʰəŋ3/<sup>泰县</sup></small> ① 愿意：他不～去远的落头上班。/他不愿意去远的地方上班。 ② 表示容易发生或者经常发生某动作：买木头勺儿，木头的不～坏，不像瓷的～坏。/买木头勺子，木头的不容易坏，不像瓷的容易坏。｜病不～好。/病很难好。 ③ 愿意。<sup>\[如东\]</sup>：不～。<sup>\[如东\]</sup> ④ 容易<sup>\[如皋\]</sup><sup>\[东台\]</sup>：汽油～着火。<sup>\[如皋\]</sup>｜柳树最～长。<sup>\[东台\]</sup> ⑤ 表示同意<sup>\[东台\]</sup>：他～签字。<sup>\[东台\]</sup> ⑥ 表示应允，同意。<sup>\[泰兴\]</sup>  
 1. 【[肯做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken_zu.md#肯做)】`ken3 zu5` <sup>[东台]</sup> 喻意勤劳：这小伙不隑监，～。  
 1. 【[掯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken.md#掯)】`ken5` <small>/kʰən5/<sup>兴化</sup>, /kʰəŋ5/<sup>如皋</sup></small> ① 按，压 ② 压。<sup>\[如东\]</sup>：你把猪脚～住。<sup>\[如东\]</sup> ③ 揿，按。<sup>\[如皋\]</sup> ④ 用手按住、不让动摇。<sup>\[东台\]</sup> ⑤ 按、压<sup>\[兴化\]</sup>：一封检举信捱头子～住不让查。<sup>\[兴化\]</sup>｜捱他～住啊气都伸不出来。<sup>\[兴化\]</sup> ⑥ 按压<sup>\[泰州\]</sup>：你～住他，不要让他跑掉。<sup>\[泰州\]</sup> ⑦ 扣下<sup>\[泰州\]</sup>：你的审批报告捱～吖在省厅。<sup>\[泰州\]</sup> ⑧ 低头，埋头做事<sup>\[泰州\]</sup>：落咖榜，没得旁的法子，只好～起头来念书。<sup>\[泰州\]</sup>｜～头做活技。<sup>\[泰州\]</sup>  
 1. 【[掯嗤掯嗤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken_chr_ken_chr.md#掯嗤掯嗤)】`ken5 chr1 ken5 chr1` <sup>[兴化]</sup> ① 因使力而大声喘息：他在院子里整地，忙得～的。 ② 形容高烧病人呼吸急促的情态：烧得～的。  
@@ -796,6 +796,7 @@
 1. 【[狂嫖滥赌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan_pio_laen_dv.md#狂嫖滥赌)】`kuan2 pio2 laen6 dv3` <sup>[东台]</sup> 沉溺于嫖妓赌博：～的人绝不会有好下场。  
 1. 【[狂生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan_shen.md#狂生)】`kuan2 shen1` <sup>[东台]</sup> 无知妄为的人。  
 1. 【[圹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan.md#圹)】`kuan3` <sup>[如皋]</sup> 一种大型祖坟群，坟头连排呈半月形土丘。  
+1. 【[旷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan.md#旷)】`kuan5` <small>/kʰuɑŋ5/<sup>泰兴</sup></small> （衣物）太大<sup>\[泰兴\]</sup>：箇件衣裳穿吖身上嫌～<sup>\[泰兴\]</sup>  
 1. 【[旷场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan_chan.md#旷场)】`kuan5 chan2` <sup>[兴化]</sup> 大广场。  
 1. 【[旷野](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan_ia.md#旷野)】`kuan5 ia3` <sup>[东台]</sup> 空阔的原野。  
 1. 【[旷洋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan_ian.md#旷洋)】`kuan5 ian2` <sup>[东台]</sup> 没有约束地到处乱走。  

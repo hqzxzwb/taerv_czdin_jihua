@@ -2204,7 +2204,8 @@
 1. 【[到包底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_bo_di.md#到包底)】`do5 bo1 di3` <sup>[东台]</sup> 一直到最后：那人再三请他吃饭，可他～都不曾去。  
 1. 【[到得<sub>儿</sub>家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_deh_r_ga.md#到得<sub>儿</sub>家)】`do5 deh r ga1` <sup>[如皋]</sup> 儿童游戏用语。“家”是安全区。到达者唱此语  
 1. 【[到底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_di.md#到底)】`do5 di3` <sup>[如皋]</sup> ① 终究：他的狐狸尾巴～漏出来啊。 ② 最终：你～要怎样？ ③ 毕竟：他～要家来的。 ④ 见 doh7 din  
-1. 【[到家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_ga.md#到家)】`do5 ga1` ① 回到自己家里。<sup>\[如东\]</sup>：我已～。<sup>\[如东\]</sup> ② 形容达到很高的水平。<sup>\[如东\]</sup><sup>\[泰州\]</sup>：功夫～。<sup>\[如东\]</sup>｜听票友说，他唱的这个大悲调功夫还不～。<sup>\[泰州\]</sup> ③ 非常充分，严谨<sup>\[泰州\]</sup>：你俫的公关工作不～，要补课。<sup>\[泰州\]</sup>  
+1. 【[到顶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_dien.md#到顶)】`do5 dien3` <small>/tɔ5 tiŋ3/<sup>泰兴</sup></small> 达到极限，最高处。<sup>\[泰兴\]</sup>  
+1. 【[到家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_ga.md#到家)】`do5 ga1` <small>/tɔ5 kɑ1/<sup>泰兴</sup></small> ① 回到自己家里。<sup>\[如东\]</sup>：我已～。<sup>\[如东\]</sup> ② 形容达到很高的水平。<sup>\[如东\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：功夫～。<sup>\[如东\]</sup>｜听票友说，他唱的这个大悲调功夫还不～。<sup>\[泰州\]</sup>｜在书法艺术方面，他已基本～了<sup>\[泰兴\]</sup> ③ 非常充分，严谨<sup>\[泰州\]</sup>：你俫的公关工作不～，要补课。<sup>\[泰州\]</sup>  
 1. 【[到工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_gon.md#到工)】`do5 gon1` <sup>[泰州]</sup> 某项工作达到所需要的时间而产生出好的结果：今吖这排骨烧得到工，雪白的汤。｜这篇文章还不～，还要再花点儿时间修改。  
 1. 【[到斤不到两](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_jien_beh_do.md#到斤不到两)】`do5 jien1 beh7 do5 lian3` <sup>[兴化]</sup> 话说不到点子上，无端得罪人：（桃子说话）～的，跟她扯不上两句，就没了谈兴。（钱国怀《桃子》）  
 1. 【[到嘴不到肚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_jy_beh_do.md#到嘴不到肚)】`do5 jy3 beh7 do5 tv6` <sup>[如皋]</sup> 量少嚼在嘴里，没有东西咽下肚。  
@@ -2217,9 +2218,11 @@
 1. 【[到门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_men.md#到门)】`do5 men2` <small>/tɔ5 mən2/<sup>兴化</sup>, /tɔ5 məŋ2/<sup>如皋</sup></small> ① 到位，彻底<sup>\[如皋\]</sup>：这件理办得～。<sup>\[如皋\]</sup> ② 恰到好处<sup>\[兴化\]</sup>：这个水烫脚正～。<sup>\[兴化\]</sup>｜武松两个眼睛望着他，早了不能变，迟了也不能变……就要不迟不早，刚刚～，就这个顶要紧。（《武松》三）<sup>\[兴化\]</sup>  
 1. 【[到门铳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_men_chon.md#到门铳)】`do5 men2 chon5` <sup>[兴化]</sup> （喻）拦住别人话头：小张来说小王的不是，捱我一个～。  
 1. 【[到门的话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_men_dii_hua.md#到门的话)】`do5 men2 dii hua6` <sup>[如皋]</sup> 彻底的内情话，真话，实话。  
-1. 【[到甚的山砍甚的柴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_shen_nii_shaen.md#到甚的山砍甚的柴)】`do5 shen2 nii shaen1 kun3 shen2 nii shae2` <sup>[东台]</sup> 审时度势随机应变。  
+1. 【[到什的山砍什的柴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_shen_nii_shaen.md#到什的山砍什的柴)】`do5 shen2 nii shaen1 kun3 shen2 nii shae2` <sup>[东台]</sup> 审时度势随机应变。  
+1. 【[到什的山，樵什的柴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_shen_nii_shaen.md#到什的山，樵什的柴)】`do5 shen2 nii shaen1 qio2 shen2 nii shae2` <small>/tɔ5 səŋ2 nəɪ ɕiɛ̃1 t͡ɕʰiɔ2 səŋ2 nəɪ ɕiɛ2/<sup>泰兴</sup></small> 比喻说话做事要符合实际情况，因地制宜。也可以作入乡随俗解。<sup>\[泰兴\]</sup>  
 1. 【[到位（味）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_vei.md#到位（味）)】`do5 vei6` <sup>[如皋]</sup> ① 达到最佳状态：这次音乐会听得～｜他的话说得～。 ② 办事得体、完美：同你把事情做啊～啊，你放心。  
 1. 【[到嘴不到肚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_zuei_beh_do.md#到嘴不到肚)】`do5 zuei3 beh7 do5 tv6` <sup>[兴化]</sup> 食物太少，不能满足食欲：武二爷望望：酒虽好，吃的不过瘾，～。（《武松》一）  
+1. 【[到嘴不到肚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_zuei_beh_do.md#到嘴不到肚)】`do5 zuei3 beh7 do5 tv6` <small>/tɔ5 t͡suəɪ3 pəʔ7 tɔ5 tʰu1/<sup>泰兴</sup></small> 不能吃饱，满足不了需要。<sup>\[泰兴\]</sup>  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/doh.md#□)】`doh7` <small>/tɔʔ7/<sup>泰兴</sup></small> 量词，一坨（粪便）。<sup>\[泰兴\]</sup>  
 1. 【[㞘底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/doh_di.md#㞘底)】`doh7 di3` <sup>[兴化]</sup> 终点。《集韵·屋韵》都木切，《博雅》臀也。俗作“𡰪”：四路公交车到关门陈～。  
 1. 【[啄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/doh.md#啄)】`doh7` <small>/tɔʔ7/<sup>如皋</sup></small> ① 鸟吃食的动作<sup>\[如皋\]</sup><sup>\[泰州\]</sup>：鸡子～食，同鹐。<sup>\[如皋\]</sup>｜外头鸡子在下～你家晒的稻。<sup>\[泰州\]</sup> ② 缝纫机缝纫<sup>\[如皋\]</sup>：把布～下子。<sup>\[如皋\]</sup> ③ 用坚硬的嘴凿。《广韵》“丁木切。”<sup>\[东台\]</sup>：剥～有声。<sup>\[东台\]</sup>  

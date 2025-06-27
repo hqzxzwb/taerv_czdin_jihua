@@ -1517,7 +1517,6 @@
 1. 【[毷氉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_so.md#毷氉)】`mo6 so` <small>/mɔ1 sɔ/<sup>如皋</sup></small> ① 天气闷热，心情烦躁。<sup>\[如东\]</sup>：今朝～，不舒服。<sup>\[如东\]</sup> ② 天气闷热令人不适。<sup>\[如皋\]</sup> ③ 烦躁不安：痱子～起来啊，伢儿在身上只抓。<sup>\[如皋\]</sup>  
 1. 【[貌相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_xian.md#貌相)】`mo6 xian5` <small>/mɔ6 ɕiaŋ5/<sup>兴化</sup></small> ① 指人的相貌<sup>\[兴化\]</sup>：这个小伙～不丑。<sup>\[兴化\]</sup> ② 从外表看人<sup>\[兴化\]</sup>：人不可～，海水不可斗量。<sup>\[兴化\]</sup>  
 1. 【[嚜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh.md#嚜)】`moh8` <small>/mɔʔ8/<sup>兴化</sup>, /mɔʔ8/<sup>如皋</sup></small> 欺骗、蒙蔽。《集韵·德韵》密北切～，《博雅》～戾，欺也。<sup>\[兴化\]</sup><sup>\[如皋\]</sup><sup>\[泰州\]</sup>：你不要～人。<sup>\[兴化\]</sup>｜捱他说咖～住啊。<sup>\[兴化\]</sup>｜你不要～人，我不相信你的话。<sup>\[泰州\]</sup>｜你根本就不曾去过北京，你捱他～咖去啊唻。<sup>\[泰州\]</sup>  
-1. 【[嚜住啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_chv_a.md#嚜住啊)】`moh8 chv6 a` <sup>[如皋]</sup> 被懵住，未能反应过来。  
 1. 【[嚜大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_da.md#嚜大)】`moh8 da` <sup>[如皋]</sup> 蒙骗。  
 1. 【[嚜大佯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_da_ian.md#嚜大佯)】`moh8 da ian2` <sup>[如皋]</sup> 蒙骗俩：你不要同我玩～，我懂你的买买儿三。  
 1. 【[嚜打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_da.md#嚜打)】`moh8 da` <sup>[兴化]</sup> 哄骗：～人｜～老实人。  
@@ -1545,6 +1544,7 @@
 1. 【[木𧼩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_chon_r.md#木𧼩<sub>儿</sub>)】`moh8 chon5 r` <sup>[泰州]</sup> 说话做事不知深浅的小青年：这个～说话没得数，你不要睬他。｜这个～竟然同年纪大的动手。  
 1. 【[木住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_chv.md#木住)】`moh8 chv` <sup>[泰县]</sup> 蒙蔽，愣住。  
 1. 【[木樗木樗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_chv_moh_chv.md#木樗木樗)】`moh8 chv1 moh8 chv1` <sup>[泰州]</sup> 迟钝而又莽撞的样子：局里几个领导在里头开党组会，这小伙～的就跑进去啊，局长朝他相吖一眼，他吓咖掉头就走。  
+1. 【[木住啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_chv_a.md#木住啊)】`moh8 chv6 a` <small>/mɔʔ8 t͡sʰu1 a/<sup>如皋</sup>, /mɔʔ8 t͡sʰu1 a/<sup>泰兴</sup></small> ① 被懵住，未能反应过来。<sup>\[如皋\]</sup> ② 突然无话可说\[泰兴：（泰兴口语又“木住lei”）\]  
 1. 【[木□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_coh.md#木□)】`moh8 coh7` <sup>[泰县]</sup> 愚钝：这个人做事有些～。  
 1. 【[木锉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_cu.md#木锉)】`moh8 cu5` <sup>[如东]</sup> 锉的一种，齿较粗，用以锉木料。  
 1. 【[木打人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_da_ren.md#木打人)】`moh8 da ren` <sup>[泰县]</sup> 哄骗人：不要～。  
