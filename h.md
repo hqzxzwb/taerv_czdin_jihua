@@ -897,6 +897,8 @@
 1. 【[耗料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_lio.md#耗料)】`ho5 lio6` <sup>[如皋]</sup> 必须用或损耗的材料：做木模～多。  
 1. 【[耗人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_ren.md#耗人)】`ho5 ren2` <sup>[如东]</sup> 口渴：天气炎热，流啊许多汗，嘴里～。  
 1. 【[耗头大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_teu_da.md#耗头大)】`ho5 teu da6` <sup>[如皋]</sup> 损耗多。  
+1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho.md#□)】`ho6` <small>/xɔ1/<sup>泰兴</sup></small> 油脂酸败味。又叫～麻人味。<sup>\[泰兴\]</sup>：～啊了/（食物）因油脂酸败产生异味<sup>\[泰兴\]</sup>  
+1. 【[□麻人味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_ma_ren_vei.md#□麻人味)】`ho6 ma2 ren2 vei6` <small>/xɔ1 mɑ2 ɻəŋ2 ʋəɪ1/<sup>泰兴</sup></small> 油脂酸败味<sup>\[泰兴\]</sup>  
 1. 【[号](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho.md#号)】`ho6` <sup>[泰州]</sup> 量词，个，用于人的数量：来啊百十～人。  
 1. 【[号字](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_cz.md#号字)】`ho6 cz6` <sup>[兴化]</sup> 为便于记认，在物体上写字：拿大笔在墙上号“拆”字。｜在货物箱上～。  
 1. 【[号码](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_ma.md#号码)】`ho6 ma3` <sup>[如东]</sup> 表示事物次序的数字。  
@@ -2349,6 +2351,7 @@
 1. 【[呼而塌嗤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_er_taeh_chi.md#呼而塌嗤)】`hv1 er taeh7 chi1` <sup>[兴化]</sup> 形容酣睡的样子：他一上床就～的睏着咖。  
 1. 【[呼家庄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_ga_zhuan.md#呼家庄)】`hv1 ga1 zhuan1` <sup>[如东]</sup> 比喻睡觉：王二已经上吖～。  
 1. 【[呼吆喝六](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_io_huh_loh.md#呼吆喝六)】`hv1 io1 huh7 loh8` <sup>[兴化]</sup> ① 掷骰时的喊声（么、六是骰子的点子），泛指赌博时的喧闹声。 ② 形容盛气凌人的样子：（倪善继）见老子病势沉重，料是不起，便～，打童骂仆，预先装出家主公的架子来。（《古今小说》十）  
+1. 【[呼啦呼啦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_la_hv_la.md#呼啦呼啦)】`hv1 la1 hv1 la1` <small>/fʋ1 lɑ1 fʋ1 lɑ1/<sup>泰兴</sup></small> 象声词。形容风声、熟睡的呼吸声等声音。<sup>\[泰兴\]</sup>：睡得～的<sup>\[泰兴\]</sup>  
 1. 【[呼来喝去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_lae_huh_qy.md#呼来喝去)】`hv1 lae2 huh7 qy5` <small>/fu1 lɛ2 xʊʔ7 t͡ɕʰy5/<sup>如皋</sup></small> ① 粗暴叫喊使唤的样子。<sup>\[如皋\]</sup> ② 用粗暴的声音使唤人<sup>\[东台\]</sup>：你这吖～的，哪个睬你呀？！<sup>\[东台\]</sup>  
 1. 【[呼辣气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_laeh_qi.md#呼辣气)】`hv1 laeh8 qi5` <small>/fu1 leʔ8 t͡ɕʰʝ5/<sup>如皋</sup></small> ① 大蒜的一种特殊气味。<sup>\[如东\]</sup> ② 葱蒜的气味。<sup>\[如皋\]</sup> ③ 指食葱蒜类食物后人体散发出的气味。<sup>\[如皋\]</sup>  
 1. 【[烀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv.md#烀)】`hv1` <small>/xu1/<sup>兴化</sup></small> ① 一种烹饪方法。把食物放在锅里，加少量的水，盖紧锅盖，加热使变熟。 ② 放少量的水，盖紧锅盖，对食物半蒸半煮<sup>\[兴化\]</sup>：～山芋；～芋头。<sup>\[兴化\]</sup>  

@@ -98,6 +98,7 @@
 1. 【[䟺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pae.md#䟺)】`pae6` <sup>[泰县]</sup> 在泥水中踩踏：你看看把鞋子～啊这个样子。  
 1. 【[稗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pae_zz.md#稗子)】`pae6 zz` <sup>[如东]</sup> 禾本科植物稗，一年生草本。高约130厘米。秆直立或广展，线形。叶稍秃净。圆锥花序直立。颖果。生长在沼泽地，为水稻田杂草之一。  
 1. 【[败顶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pae_dien.md#败顶)】`pae6 dien3` <sup>[兴化]</sup> 头顶光秃：他四十岁不到，就败啊顶。  
+1. 【[败家小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pae_ga_xio.md#败家小)】`pae6 ga1 xio3` <small>/pʰɛ1 kɑ1 ɕiɔ3/<sup>泰兴</sup></small> 不务正业、挥霍家产、使家庭破落的子弟。<sup>\[泰兴\]</sup>  
 1. 【[败家小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pae_jia_xio.md#败家小)】`pae6 jia1 xio3` <small>/pʰɛ6 t͡ɕia1 ɕiɔ3/<sup>兴化</sup>, /pʰe1 t͡ɕia1 ɕiɔ3/<sup>泰县</sup></small> ① 指不务正业，挥霍家产的败家子。<sup>\[兴化\]</sup> ② 败家子。<sup>\[泰县\]</sup>  
 1. 【[败家子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pae_jia_zz.md#败家子)】`pae6 jia1 zz` ① 不务正业、挥霍家产的人。<sup>\[如东\]</sup> ② 不务正业，任意挥霍祖上家产的子弟<sup>\[泰州\]</sup>：祖上传的些东西都捱这个～败啊光吖。<sup>\[泰州\]</sup>  
 1. 【[败家子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pae_jia_zz.md#败家子)】`pae6 jia1 zz3` <sup>[东台]</sup> 不创业、挥霍家产的子弟。  

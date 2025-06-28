@@ -2216,7 +2216,7 @@
 1. 【[啰唣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_zo.md#啰唣)】`lu2 zo5` ① 吵闹骚扰<sup>\[泰州\]</sup>：妈妈岁数大啊，吃不消你俫～唻。<sup>\[泰州\]</sup> ② 内心烦躁不安的状态<sup>\[泰州\]</sup>：他这两天心里～得很，做事𠫓头落尾的。<sup>\[泰州\]</sup>  
 1. 【[箩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu.md#箩)】`lu2` <sup>[如东]</sup> 容器。竹篾或柳条编成，圆口方底，无盖，无环。体积较大。可盛谷物或其他物资。  
 1. 【[箩座](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_cu.md#箩座)】`lu2 cu6` <sup>[如东]</sup> 一种筛小麦屑的工具。木制，长方形，似柜。柜中搁置一张长方形的箩筛，将磨过的小麦放在里面，通过人工踩动踏板，拍打木桩，将小麦糏筛下来。  
-1. 【[箩底砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_di_zhun.md#箩底砖)】`lu2 di3 zhun1` <small>/lo2 təi3 t͡sũ1/<sup>兴化</sup>, /lʊ2 tʝ3 t͡sʊ̃1/<sup>如皋</sup></small> ① 正方形的黏土砖。<sup>\[兴化\]</sup> ② 铺地大方砖，形如箩底。<sup>\[如皋\]</sup> ③ 一种专门用于铺地的正方形砖头，边长30厘米左右，厚度小于墙砖，类似今日地面砖，大小似箩底，故名。<sup>\[泰州\]</sup>  
+1. 【[箩底砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_di_zhun.md#箩底砖)】`lu2 di3 zhun1` <small>/lo2 təi3 t͡sũ1/<sup>兴化</sup>, /lʊ2 tʝ3 t͡sʊ̃1/<sup>如皋</sup>, /lɤɯ2 t͡ɕʝ3 t͡sʊ̃1/<sup>泰兴</sup></small> ① 正方形的黏土砖。<sup>\[兴化\]</sup> ② 铺地大方砖，形如箩底。<sup>\[如皋\]</sup> ③ 一种专门用于铺地的正方形砖头，边长30厘米左右，厚度小于墙砖，类似今日地面砖，大小似箩底，故名。<sup>\[泰州\]</sup> ④ 一种正方形的大砖块，多用于铺地，等同于今地面砖。<sup>\[泰兴\]</sup>  
 1. 【[箩方](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_fan.md#箩方)】`lu2 fan1` <sup>[如东]</sup> 一种方砖，形似箩底，一般用于铺设地面。  
 1. 【[箩脚行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_jiah_han.md#箩脚行)】`lu2 jiah7 han2` <sup>[如皋]</sup> 旧时的搬运业，主营挑担、抬杠、推车，兼收殡葬。  
 1. 【[箩筐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_kuan.md#箩筐)】`lu2 kuan1` <sup>[如东]</sup> 用柳条编成的筐。  
@@ -2230,6 +2230,7 @@
 1. 【[罗汉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_hun_r.md#罗汉<sub>儿</sub>)】`lu2 hun5 r` <sup>[如皋]</sup> 罗汉鱼。  
 1. 【[罗汉松](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_hun_son.md#罗汉松)】`lu2 hun5 son1` <sup>[如东]</sup> 竹柏利，植物罗汉松，常绿乔木。  
 1. 【[罗汉鱼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_hun_y_r.md#罗汉鱼<sub>儿</sub>)】`lu2 hun5 y2 r` <sup>[泰县]</sup> 小鱼：养得像个～。  
+1. 【[罗汉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_hun_zz.md#罗汉子)】`lu2 hun5 zz` <small>/lɤɯ2 xʊ̃5 t͡sɿ/<sup>泰兴</sup></small> 一种小鱼，看上去长得很肥。<sup>\[泰兴\]</sup>：一条～烧十八锅子鲜汤<sup>\[泰兴\]</sup>  
 1. 【[罗柜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_kuei.md#罗柜)】`lu2 kuei6` <sup>[如皋]</sup> 磨坊用的筛面粉的大型木柜。人坐其中，脚踏机械，使罗筛来回筛动。  
 1. 【[罗罗<sub>儿</sub>鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_lu_r_guei.md#罗罗<sub>儿</sub>鬼)】`lu2 lu2 r guei3` <sup>[如东]</sup> ① 不成器的人：他俫是～。 ② 比喻调皮的小孩子：都是一些～。  
 1. 【[罗罗<sub>儿</sub>网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_lu_r_van.md#罗罗<sub>儿</sub>网)】`lu2 lu2 r van3` <sup>[如东]</sup> 蜘蛛网，蟢蟢网。  
@@ -2238,6 +2239,7 @@
 1. 【[罗皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_pi.md#罗皮)】`lu2 pi2` <small>/lo2 pʰi2/<sup>兴化</sup></small> 海蜇皮<sup>\[泰州\]</sup>\[兴化：可食用\]  
 1. 【[罗盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_pun.md#罗盘)】`lu2 pun2` <sup>[如东]</sup> 指示方向的仪器。也叫指南针。  
 1. 【[罗圈腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_qiun_tuei.md#罗圈腿)】`lu2 qiun1 tuei3` <sup>[如东]</sup> ① 两腿略呈弓形。 ② 两腿略呈弓形的人。  
+1. 【[罗圈腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_qiun_tuei.md#罗圈腿)】`lu2 qiun1 tuei3` <small>/lɤɯ2 t͡ɕʰyʊ̃1 tʰəɪ3/<sup>泰兴</sup></small> 双腿不直成弧形、畸形。<sup>\[泰兴\]</sup>  
 1. 【[罗筛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_shae.md#罗筛)】`lu2 shae1` <sup>[如皋]</sup> 用罗鞔的筛子，网眼很小，用以筛面、粉、糏。  
 1. 【[罗筛架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_shae_ga_zz.md#罗筛架子)】`lu2 shae1 ga5 zz` <sup>[如皋]</sup> 罗筛的支架。用两根约80cm长的毛竹片，竹皮向上，平行，两端装上燕尾形木片即成。  
 1. 【[罗□<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_un_r.md#罗□<sub>儿</sub>)】`lu2 un3 r` <sup>[泰州]</sup> 罗汉鱼的俗称，题型很小，头尖而略平扁，无须，繁殖时期雄鱼体色深黑，吻部、颊部出现珠星，卵椭圆形，粘附于石片、蚌壳上。  

@@ -587,7 +587,7 @@
 1. 【[常时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_shr.md#常时)】`chan2 shr` <small>/t͡sʰaŋ2 sɿ/<sup>兴化</sup></small> ① 经常；时常<sup>\[东台\]</sup>：他～来望我。也称“常兴”。（此处时轻读）<sup>\[东台\]</sup> ② 时常、经常<sup>\[兴化\]</sup>：他～在外地。<sup>\[兴化\]</sup>｜“他母舅全修义～带两个大老官到他家来走走……”（《儒林外史》五三）<sup>\[兴化\]</sup>  
 1. 【[常时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_shr.md#常时)】`chan2 shr2` <sup>[如皋]</sup> 经常。  
 1. 【[常行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_xien.md#常行)】`chan2 xien` <sup>[兴化]</sup> 经常地、连续地：他患有胆结石症，～疼得浑身大汗。  
-1. 【[常行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_xien.md#常行)】`chan2 xien2` <small>/t͡sʰã2 ɕiəŋ2/<sup>如皋</sup>, /t͡sʰɑŋ2 ɕiŋ2/<sup>泰县</sup></small> ① 经常。<sup>\[如皋\]</sup> ② 常常。<sup>\[泰县\]</sup>  
+1. 【[常行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_xien.md#常行)】`chan2 xien2` <small>/t͡sʰã2 ɕiəŋ2/<sup>如皋</sup>, /t͡sʰɑŋ2 ɕiŋ2/<sup>泰县</sup></small> 经常，常常<sup>\[如皋\]</sup><sup>\[泰县\]</sup>  
 1. 【[常庄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_zhuan.md#常庄)】`chan2 zhuan1` <sup>[兴化]</sup> ① 常住：老黄在江西采购木材，是～。 ② 住着不走：他在这块打～。 ③ 也作“常桩”。  
 1. 【[常桩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_zhuan.md#常桩)】`chan2 zhuan1` <sup>[如东]</sup> 玩耷子和过程中，牌牌都买桩，称常桩。比喻经常做：他是～。  
 1. 【[肠衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_i.md#肠衣)】`chan2 i1` <sup>[如皋]</sup> 见“小肠膜子”。  

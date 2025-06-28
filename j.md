@@ -45,7 +45,6 @@
 1. 【[荠菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_cae.md#荠菜)】`ji1 cae5` <sup>[东台]</sup> 十字花科，野生于田野。嫩株做蔬菜，全草可入药：～豆腐汤，环保又清爽。  
 1. 【[虮䗜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_lieu_r.md#虮䗜<sub>儿</sub>)】`ji1 lieu r` <small>/t͡ɕi1 liɤ ɚ/<sup>兴化</sup>, /t͡ɕʝ1 lyʊ˞/<sup>如皋</sup></small> ① 体小色灰的一种蚱蟟。<sup>\[如皋\]</sup> ② 蝉的一种，浅黑色或深橙色，间有白色斑纹，对触角，夏秋间翅羽磨擦发出吱吱声。<sup>\[兴化\]</sup>  
 1. 【[虮䗜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_lieu_r.md#虮䗜<sub>儿</sub>)】`ji1 lieu1 r` <sup>[如东]</sup> 蝉的一种，身体较小，鸣声响亮。  
-1. 【[虮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zz.md#虮子)】`ji1 zz` <small>/t͡ɕʝ1 t͡sɿ/<sup>如皋</sup></small> 虱子的卵。<sup>\[如东\]</sup><sup>\[如皋\]</sup>  
 1. 【[讥人富贵笑人贫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ren_fv_guei.md#讥人富贵笑人贫)】`ji1 ren2 fv5 guei5 xio5 ren2 pien2` <sup>[东台]</sup> （俗语）一种小市民心理。别人无论富贵还是贫穷，他都讥笑，既仇富，又嫌贫。  
 1. 【[饥饥瑟瑟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ji_seh_seh.md#饥饥瑟瑟)】`ji1 ji1 seh7 seh7` <sup>[如皋]</sup> 困窘态，寒酸样。  
 1. 【[鸡巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ba.md#鸡巴)】`ji1 ba` <small>/t͡ɕʝ1 pɑ/<sup>泰兴</sup></small> ① 男性阴茎。<sup>\[泰州\]</sup><sup>\[泰兴\]</sup> ② 詈语，表示极度轻蔑，用以发泄内心不满情绪<sup>\[泰州\]</sup>：他迟到不迟到关你～的是啊，要你嘴作淡来说咖？<sup>\[泰州\]</sup>  
@@ -149,6 +148,7 @@
 1. 【[挤七轧八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_qieh_kaeh_baeh.md#挤七轧八)】`ji3 qieh7 kaeh8 baeh7` <sup>[如东]</sup> 拥挤不堪：人多，～的，进不去。  
 1. 【[挤人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ren_zz.md#挤人子)】`ji3 ren zz` <sup>[如皋]</sup> 被挤得难受。  
 1. 【[挤扎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zhaeh.md#挤扎)】`ji3 zhaeh7` <sup>[泰县]</sup> 不肯宽容别人。  
+1. 【[虮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zz.md#虮子)】`ji3 zz` <small>/t͡ɕʝ3 t͡sɿ/<sup>如皋</sup>, /t͡ɕʝ3 t͡sɿ/<sup>泰兴</sup></small> 虱子的卵。<sup>\[如东\]</sup><sup>\[如皋\]</sup>\[泰兴：常比喻微细的事物。\]  
 1. 【[虮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zz.md#虮子)】`ji3 zz` <sup>[东台]</sup> 虱子的卵。  
 1. 【[㾵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#㾵)】`ji5` <sup>[如皋]</sup> 表皮的天然色斑（脸部另称）。有黑、青、紫、红等色。胎记。  
 1. 【[㾵识](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_sheh.md#㾵识)】`ji5 sheh7` <sup>[如皋]</sup> 胎记。一般写“记识”。  

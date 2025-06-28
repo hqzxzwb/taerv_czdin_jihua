@@ -525,7 +525,7 @@
 1. 【[烫人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_ren.md#烫人)】`tan5 ren2` ① 温度高，使人体不能贴近。<sup>\[如东\]</sup>：铁板～，不能拿。<sup>\[如东\]</sup> ② 人体接触高温物体时产生的疼痛感觉<sup>\[泰州\]</sup>：这个粥太～。<sup>\[泰州\]</sup>  
 1. 【[烫手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_sheu.md#烫手)】`tan5 sheu3` <sup>[如东]</sup> 温度太高，手指不能接触。  
 1. 【[烫头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_teu.md#烫头)】`tan5 teu2` <sup>[东台]</sup> 就是烫发。  
-1. 【[烫心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_xien.md#烫心)】`tan5 xien1` <small>/tʰaŋ5 ɕin1/<sup>兴化</sup>, /tʰã5 ɕiəŋ1/<sup>如皋</sup></small> ① 称心满意。作补语：这一趟耍子得～。<sup>\[如皋\]</sup> ② 心疼：花钱花得～。<sup>\[如皋\]</sup> ③ 满意。<sup>\[如东\]</sup>：不～。<sup>\[如东\]</sup> ④ 使受感动或得到安慰<sup>\[兴化\]</sup>：这几句好话让人～！<sup>\[兴化\]</sup>  
+1. 【[烫心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_xien.md#烫心)】`tan5 xien1` <small>/tʰaŋ5 ɕin1/<sup>兴化</sup>, /tʰã5 ɕiəŋ1/<sup>如皋</sup>, /tʰɑŋ5 ɕiŋ1/<sup>泰兴</sup></small> ① 称心满意。作补语<sup>\[如皋\]</sup>：这一趟耍子得～。<sup>\[如皋\]</sup> ② 心疼<sup>\[如皋\]</sup>：花钱花得～。<sup>\[如皋\]</sup> ③ 满意。<sup>\[如东\]</sup>：不～。<sup>\[如东\]</sup> ④ 使受感动或得到安慰<sup>\[兴化\]</sup>：这几句好话让人～！<sup>\[兴化\]</sup> ⑤ 心情舒畅、愉快<sup>\[泰兴\]</sup>  
 1. 【[烫粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_zhoh.md#烫粥)】`tan5 zhoh7` 将煮好的米饭加水煮成粥  
 1. 【[耥草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_co.md#耥草)】`tan5 co3` 农活名称，用耥耙耥去稻田中的杂草。<sup>\[泰州\]</sup>  
 1. 【[耥刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_do.md#耥刀)】`tan5 do1` <sup>[如皋]</sup> 在河底推割水草的工具，竹篙根部装有像水牛角的刀。  
@@ -2104,7 +2104,7 @@
 1. 【[段](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun.md#段)】`tun6` <sup>[东台]</sup> ① （量词）用于长条状物分成若干部分：一～木头。 ② （量词）表示一定的距离或事物的一部分：一～路｜一～文章。  
 1. 【[段落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_lah.md#段落)】`tun6 lah8` <sup>[如东]</sup> 根据文章内容划分成为另一部分。事情结束：告一～。  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv.md#□)】`tv1` <sup>[东台]</sup> 失败，负：他打麻将～掉几百块。  
-1. 【[图](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv.md#图)】`tv2` <sup>[如皋]</sup> 希图：～财、～做生意、～个好出语。  
+1. 【[图](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv.md#图)】`tv2` <small>/tʰu2/<sup>如皋</sup>, /tʰu2/<sup>泰兴</sup></small> 希图<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：～财、～做生意、～个好出语。<sup>\[如皋\]</sup>｜我箇大的把年纪，还～个什的？<sup>\[泰兴\]</sup>  
 1. 【[图赖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_lae.md#图赖)】`tv2 lae6` <sup>[兴化]</sup> ① 抵赖：“好好！你休要～。”（《广陵潮》二十） ② 把罪过推给别人：“这窦家小短命羔儿，输不起钱，就休要赌，为什么吊死了，～人！”（《岐路灯》五一）  
 1. 【[图软](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_run.md#图软)】`tv2 run3` <sup>[兴化]</sup> 贪图小利：他为～，上吖人家的当。  
 1. 【[图头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_teu.md#图头)】`tv2 teu` <sup>[泰县]</sup> 好处。  

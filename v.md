@@ -773,7 +773,7 @@
 1. 【[辋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van.md#辋)】`van3` <sup>[如皋]</sup> ① 轮周。 ② 车軬中的伞形齿轮：～子。  
 1. 【[辋子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_zz.md#辋子)】`van3 zz` <sup>[如皋]</sup> 竖立在车軬中央的木制巨型伞形齿轮。中轴的上端称天轴，下端称地轴。轮盘有8辐8斜牚，称八卦。齿数有97、103、107三种。  
 1. 【[魍魉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_lian.md#魍魉)】`van3 lian3` <sup>[如东]</sup> 传说中的怪物。比喻坏人。  
-1. 【[旺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van.md#旺)】`van5` <small>/uaŋ5/<sup>兴化</sup></small> ① 多、盛<sup>\[兴化\]</sup>：老邓家这次打井出水蛮～的。<sup>\[兴化\]</sup> ② 旺盛<sup>\[兴化\]</sup>：这个人家日子过得～。<sup>\[兴化\]</sup>｜这几棵树长得～。<sup>\[兴化\]</sup> ③ 火焰燃烧炽烈<sup>\[泰州\]</sup>：炭炉子的火不～，你拿扇子搧啊子。<sup>\[泰州\]</sup>  
+1. 【[旺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van.md#旺)】`van5` <small>/uaŋ5/<sup>兴化</sup>, /uɑŋ5/<sup>泰兴</sup></small> ① 多、盛<sup>\[兴化\]</sup>：老邓家这次打井出水蛮～的。<sup>\[兴化\]</sup> ② 旺盛<sup>\[兴化\]</sup>：这个人家日子过得～。<sup>\[兴化\]</sup>｜这几棵树长得～。<sup>\[兴化\]</sup> ③ 火焰燃烧炽烈<sup>\[泰州\]</sup>：炭炉子的火不～，你拿扇子搧啊子。<sup>\[泰州\]</sup> ④ 兴旺，旺盛。<sup>\[泰兴\]</sup>  
 1. 【[旺夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_fv.md#旺夫)】`van5 fv1` <sup>[如皋]</sup> 使丈夫发达、发财、兴旺。指女人。  
 1. 【[旺亮的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_lian_dii.md#旺亮的)】`van5 lian6 dii` <sup>[如皋]</sup> 表面光洁而明亮。  
 1. 【[旺年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_nin.md#旺年)】`van5 nin2` <sup>[兴化]</sup> 果树生长旺盛，结果多的年份。也说“大年”。  

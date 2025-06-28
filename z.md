@@ -95,7 +95,7 @@
 1. 【[昝<sub>儿</sub>风昝<sub>儿</sub>雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaen_r_fon_zaen.md#昝<sub>儿</sub>风昝<sub>儿</sub>雨)】`zaen3 r fon1 zaen3 r y3` <sup>[如皋]</sup> 喻脾气多变。  
 1. 【[灒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaen.md#灒)】`zaen5` <small>/t͡sɛ̃5/<sup>兴化</sup></small> ① 溅：巷子里汲砖～吖我一身泥水。《广韵·翰韵》则旰切：“～，水溅”。<sup>\[兴化\]</sup> ② 液体溅起<sup>\[泰州\]</sup>：锅里油～出来。<sup>\[泰州\]</sup>｜身上块块～的泥。<sup>\[泰州\]</sup>  
 1. 【[饡菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaen_cae.md#饡菜)】`zaen5 cae5` <sup>[如皋]</sup> 饮酒或吃饭时吃菜。  
-1. 【[饡酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaen_jieu.md#饡酒)】`zaen5 jieu3` <small>/t͡sẽ5 t͡ɕyʊ3/<sup>如皋</sup></small> ① 过酒，下酒。<sup>\[如皋\]</sup> ② 帮助下酒。<sup>\[如皋\]</sup> ③ 用一点儿菜，帮助吃酒。<sup>\[如东\]</sup>：红虾儿～。<sup>\[如东\]</sup>  
+1. 【[饡酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaen_jieu.md#饡酒)】`zaen5 jieu3` <small>/t͡sẽ5 t͡ɕyʊ3/<sup>如皋</sup></small> ① 过酒，帮助下酒。<sup>\[如皋\]</sup> ② 用一点儿菜，帮助吃酒。<sup>\[如东\]</sup>：红虾儿～。<sup>\[如东\]</sup>  
 1. 【[饡酒菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaen_jieu_cae.md#饡酒菜)】`zaen5 jieu3 cae5` <sup>[如皋]</sup> 供饮酒时吃的菜，多为冷切、咸菜、炒货。  
 1. 【[饡粥菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaen_zhoh_cae.md#饡粥菜)】`zaen5 zhoh7 cae5` <sup>[如皋]</sup> 吃粥时吃的菜，多为咸菜、酱菜。  
 1. 【[𪷽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaen.md#𪷽)】`zaen5` ［灒］溅  
@@ -481,6 +481,7 @@
 1. 【[扎粽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhaeh_zon_zz.md#扎粽子)】`zhaeh7 zon5 zz` <sup>[如东]</sup> ① 包粽子。 ② 把人捆扎起来，抛入河水中，称扎粽子。  
 1. 【[眨眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhaeh_ngaen.md#眨眼)】`zhaeh7 ngaen3` ① 上下眼皮一开一合的动作。<sup>\[如东\]</sup> ② 形容时间极短<sup>\[东台\]</sup>：～工夫。<sup>\[东台\]</sup>  
 1. 【[眨眼成功](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhaeh_ngaen_chen_gon.md#眨眼成功)】`zhaeh7 ngaen3 chen2 gon1` <sup>[如皋]</sup> 状极快速地完成。  
+1. 【[眨眼翻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhaeh_ngaen_faen.md#眨眼翻)】`zhaeh7 ngaen3 faen1` <small>/t͡ɕiæʔ7 ŋɛ̃3 fɛ̃1/<sup>泰兴</sup></small> 反应灵敏迅速，能立即回答、应变。<sup>\[泰兴\]</sup>  
 1. 【[眨眼功夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhaeh_ngaen_gon_fv.md#眨眼功夫)】`zhaeh7 ngaen3 gon1 fv` <sup>[兴化]</sup> 形容片刻时间：……无数的蝗虫，遮天盖地飞来。～，就把成片的秧苗吃得精光。（兴文《六月十六青苗会》）  
 1. 【[眨眼工夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhaeh_ngaen_gon_fv.md#眨眼工夫)】`zhaeh7 ngaen3 gon1 fv1` <sup>[如东]</sup> 一会儿：～就变吖。  
 1. 【[眨眼之工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhaeh_ngaen_zhr_gon.md#眨眼之工)】`zhaeh7 ngaen3 zhr1 gon1` <sup>[如皋]</sup> 状时间极短暂。  
@@ -681,8 +682,10 @@
 1. 【[胀光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_guan.md#胀光)】`zhan5 guan1` <sup>[兴化]</sup> 眼在强光刺激下的感觉，也说“羞光”。  
 1. 【[胀人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_ren.md#胀人)】`zhan5 ren2` <sup>[如东]</sup> 吃食物后，胃壁有受压迫而产生不舒服的感觉。  
 1. 【[账房先生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_fan_xin_shen.md#账房先生)】`zhan5 fan2 xin1 shen1` <sup>[如东]</sup> 旧时为东家管理财物的人。  
+1. 【[账房先生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_fan_xin_shen.md#账房先生)】`zhan5 fan2 xin1 shen1` <small>/t͡sɑŋ5 fɑŋ2 ɕĩ1 səŋ1/<sup>泰兴</sup></small> 旧时对管理账册者的尊称。<sup>\[泰兴\]</sup>  
 1. 【[账户](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_hv.md#账户)】`zhan5 hv6` <sup>[如东]</sup> 会计上指账簿中对各种资金运用、来源和周转过程等设置的分类。  
 1. 【[账簿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_pv.md#账簿)】`zhan5 pv6` <sup>[如东]</sup> 记载货币、货物出入事项的本子。  
+1. 【[账桌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_zhuah.md#账桌)】`zhan5 zhuah7` <small>/t͡sɑŋ5 t͡suɑʔ7/<sup>泰兴</sup></small> 旧时账房先生记账办事用的桌子。<sup>\[泰兴\]</sup>  
 1. 【[这吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_nga.md#这吖)】`zhan5 nga` <sup>[如皋]</sup> 这样。  
 1. 【[这吖点<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_nga_din_r.md#这吖点<sub>儿</sub>)】`zhan5 nga din3 r` <sup>[如皋]</sup> 这么一点点儿。  
 1. 【[这吖刻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_nga_keh_r.md#这吖刻<sub>儿</sub>)】`zhan5 nga keh9 r` <sup>[如皋]</sup> 这么一点儿时间。  
@@ -938,6 +941,7 @@
 1. 【[㤘筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheu_jien.md#㤘筋)】`zheu2 jien1` <sup>[兴化]</sup> 性情固执，不听劝说的人。  
 1. 【[㤘头六怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheu_teu_loh_guae.md#㤘头六怪)】`zheu3 teu2 loh8 guae5` <sup>[泰州]</sup> 指不服从或不配合的行为举止：王妈回嘴：“不高兴洗。跟强氏验不验嘴不嘴的。小六子更调皮，教他包糖他包盐，教他打酱油他打醋，㤘头六怪的。（注：㤘头六怪，性格、态度执拗不驯服。”（余又春《皮五辣子》《过年·冤枉官司》）｜这小伙～的，甚的事情都同你唱反调！  
 1. 【[肘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheu.md#肘)】`zheu3` <sup>[如皋]</sup> ① 手拐儿。 ② 宰猪后切下的一只从股到脚完整的后腿。  
+1. 【[咒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheu.md#咒)】`zheu5` <small>/t͡ɕiɤɯ5/<sup>泰兴</sup></small> 诅咒；咒骂<sup>\[泰兴\]</sup>  
 1. 【[咒语](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheu_y.md#咒语)】`zheu5 y3` <sup>[东台]</sup> 某些宗教或巫术，自称可以消灾降福的口诀：念～。  
 1. 【[昼心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheu_xien.md#昼心)】`zheu5 xien1` ① 正午，中午，大白天。 ② 中午。<sup>\[如东\]</sup>  
 1. 【[昼心里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheu_xien_lii.md#昼心里)】`zheu5 xien1 lii` <small>/t͡sei5 ɕiəŋ1 tei/<sup>如皋</sup></small> ① 白天阳光最强烈的时候。 ② 夏日中午。<sup>\[如皋\]</sup> ③ 中午。<sup>\[如皋\]</sup>  
@@ -1794,7 +1798,7 @@
 1. 【[蛀毛癣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_mo_xiun.md#蛀毛癣)】`zhv5 mo2 xiun3` <small>/t͡su5 mɔ2 ɕyũ3/<sup>兴化</sup>, /t͡su5 mɔ2 ɕyʊ̃3/<sup>如皋</sup></small> ① 头癣，有银屑，可致秃发。<sup>\[如皋\]</sup> ② 秃疮。<sup>\[兴化\]</sup>  
 1. 【[蛀牙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_nga.md#蛀牙)】`zhv5 nga2` <sup>[东台]</sup> 龋齿。  
 1. 【[蛀牙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_nga_zz.md#蛀牙子)】`zhv5 nga2 zz` <sup>[如东]</sup> 龋齿。  
-1. 【[𣥼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv.md#𣥼)】`zhv5` <sup>[如皋]</sup> 盛物于器：拿袋儿～米；把饭～啊淘箩儿里。  
+1. 【[𣥼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv.md#𣥼)】`zhv5` <small>/t͡su5/<sup>如皋</sup>, /t͡su5/<sup>泰兴</sup></small> 盛物于器<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：拿袋儿～米<sup>\[如皋\]</sup>｜把饭～啊淘箩儿里<sup>\[如皋\]</sup>｜把粮食～起来<sup>\[泰兴\]</sup>  
 1. 【[糟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo.md#糟)】`zo1` ① 酿酒剩下的渣滓。<sup>\[如东\]</sup> ② 酒酿<sup>\[东台\]</sup>：酒～、<sup>\[东台\]</sup> ③ 用酒糟腌制的鱼<sup>\[东台\]</sup>：～鱼。<sup>\[东台\]</sup> ④ 酒糟类食物<sup>\[东台\]</sup>：酒～蛋<sup>\[东台\]</sup>｜酒～天竺果子。<sup>\[东台\]</sup>  
 1. 【[糟饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_bien.md#糟饼)】`zo1 bien3` <sup>[东台]</sup> 以元麦面粉为主要原料，吃口较粗的饼。  
 1. 【[糟春鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_chuen_y.md#糟春鱼)】`zo1 chuen1 y2` <sup>[如东]</sup> 海味腌制品。春鱼（小黄鱼）洗净晒干，放入坛中，加酒糟、花椒、生姜，盐少许，封闭数月即成。肉呈深红色，柔韧疏松，醇香醉人。是如东特色海味品。  

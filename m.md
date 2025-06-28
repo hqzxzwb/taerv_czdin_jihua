@@ -838,7 +838,7 @@
 1. 【[明年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_nin.md#明年)】`men2 nin2` <sup>[泰县]</sup> 明年。  
 1. 【[明年子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_nin_zz.md#明年子)】`men2 nin2 zz` <sup>[东台]</sup> 明年。  
 1. 【[明朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_zho.md#明朝)】`men2 zho, men2 do` 明天  
-1. 【[明朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_zho.md#明朝)】`men2 zho` <small>/məŋ2 t͡sɔ/<sup>泰县</sup></small> ① 明天：～你哿家去噁？<sup>\[泰县\]</sup> ② 明天。<sup>\[泰县\]</sup>  
+1. 【[明朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_zho.md#明朝)】`men2 zho` <small>/məŋ2 t͡sɔ/<sup>泰兴</sup>, /məŋ2 t͡sɔ/<sup>泰县</sup></small> 明天<sup>\[泰县\]</sup><sup>\[泰兴\]</sup>：～你哿家去噁？<sup>\[泰县\]</sup>  
 1. 【[门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men.md#门)】`men2` <sup>[如东]</sup> 房屋、车、船、围墙等设施的出人口。  
 1. 【[门板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_baen.md#门板)】`men2 baen3` <sup>[如东]</sup> 门的面板。  
 1. 【[门帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_ban.md#门帮)】`men2 ban1` <sup>[如东]</sup> 门板两边的竖粱，起固定门板的作用。也叫门边丝。  
@@ -1138,14 +1138,14 @@
 1. 【[明板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_baen.md#明板)】`mien2 baen` <sup>[如东]</sup> 帆船舵扇中间的木板。  
 1. 【[明处](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_chv.md#明处)】`mien2 chv` <sup>[如皋]</sup> 见“亮处”。  
 1. 【[明处](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_chv.md#明处)】`mien2 chv5` <sup>[东台]</sup> 公开的场合：有话说在～。  
-1. 【[明打明](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_da_mien.md#明打明)】`mien2 da3 mien2` <small>/miɪ̃2 ta3 miɪ̃2/<sup>兴化</sup></small> ① 公开、不加掩饰<sup>\[如东\]</sup><sup>\[兴化\]</sup>：他～的把公家东西往家拖。<sup>\[兴化\]</sup> ② 公开透明地做某事<sup>\[泰州\]</sup>：我俫两个人～的谈对象，害怕哪个说闲话。<sup>\[泰州\]</sup>  
+1. 【[明打明](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_da_mien.md#明打明)】`mien2 da3 mien2` <small>/miɪ̃2 ta3 miɪ̃2/<sup>兴化</sup>, /miŋ2 tɑ3 miŋ2/<sup>泰兴</sup></small> ① 公开、不加掩饰<sup>\[如东\]</sup><sup>\[兴化\]</sup>：他～的把公家东西往家拖。<sup>\[兴化\]</sup> ② 公开透明地做某事<sup>\[泰州\]</sup>：我俫两个人～的谈对象，害怕哪个说闲话。<sup>\[泰州\]</sup> ③ 明明白白；明摆着的。<sup>\[泰兴\]</sup>  
 1. 【[明打明的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_da_mien_dii.md#明打明的)】`mien2 da3 mien2 dii` <sup>[如皋]</sup> 很明显：他这吖走棋，～是要吃车。  
 1. 【[明打明开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_da_mien_kae.md#明打明开)】`mien2 da3 mien2 kae1` <sup>[东台]</sup> 公开透明，毫不掩饰。  
 1. 【[明打明敲的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_da_mien_ko.md#明打明敲的)】`mien2 da3 mien2 ko1 dii` <sup>[如皋]</sup> 公开的，公然的；别人卖10元，我卖12元，～多卖两元——按质论价嘛！见“明摆的”。  
 1. 【[明的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_dii.md#明的)】`mien2 dii` <sup>[如皋]</sup> 很明显。  
 1. 【[明矾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_faen.md#明矾)】`mien2 faen2` <sup>[如东]</sup> 矿物明矾石经加工提炼而成的结晶。也叫白矾。  
 1. 【[明街](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_gae.md#明街)】`mien2 gae1` <sup>[如皋]</sup> 明代如皋建城时的街道。有东街、西街、南街，没有北街，成丁字形。  
-1. 【[明间](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_gaen.md#明间)】`mien2 gaen1` <small>/miəŋ2 kẽ1/<sup>如皋</sup>, /miŋ2 kɛ̃1/<sup>泰县</sup></small> ① 堂屋 ② 大屋中间的一间。也叫客间。<sup>\[如东\]</sup> ③ 平房的堂屋，敬神祖、会宾客、行宴会等活动在此进行，与房间相对。<sup>\[如皋\]</sup> ④ 正屋三间中间的一间房，采光较好。通常为客厅。<sup>\[东台\]</sup> ⑤ 堂屋。<sup>\[泰县\]</sup>  
+1. 【[明间](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_gaen.md#明间)】`mien2 gaen1` <small>/miəŋ2 kẽ1/<sup>如皋</sup>, /miŋ2 kɛ̃1/<sup>泰兴</sup>, /miŋ2 kɛ̃1/<sup>泰县</sup></small> ① 堂屋 ② 大屋中间的一间。也叫客间。<sup>\[如东\]</sup> ③ 平房的堂屋，敬神祖、会宾客、行宴会等活动在此进行，与房间相对。<sup>\[如皋\]</sup> ④ 正屋三间中间的一间房，采光较好。通常为客厅。<sup>\[东台\]</sup> ⑤ 堂屋。<sup>\[泰县\]</sup> ⑥ 外间。相对于里间。大而明亮的一间。<sup>\[泰兴\]</sup>  
 1. 【[明角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_gah.md#明角)】`mien2 gah7` <small>/miɪ̃2 kaʔ7/<sup>兴化</sup>, /miəŋ2 kaʔ7/<sup>如皋</sup></small> ① 赛璐珞：洋碱盒儿是～的。<sup>\[如皋\]</sup> ② 牛角锯、磨而成的薄片，有光泽、半透明<sup>\[兴化\]</sup>：～启子。<sup>\[兴化\]</sup> ③ 牡蛎、蚌等外壳磨成的薄片，半透明<sup>\[兴化\]</sup>：到晚上，点起几百盏～灯来，高高下下，照耀如同白日。（《儒林外史》三十）<sup>\[兴化\]</sup>  
 1. 【[明角灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_gah_den.md#明角灯)】`mien2 gah7 den1` <sup>[如皋]</sup> 旧时用赛璐珞做罩的灯具。  
 1. 【[明沟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_geu.md#明沟)】`mien2 geu1` <small>/miɪ̃2 kɤ1/<sup>兴化</sup></small> ① 田间排水的小型沟道。<sup>\[如东\]</sup> ② 屋面上的排水沟。<sup>\[兴化\]</sup> ③ 地面上未加盖的下水道。<sup>\[兴化\]</sup> ④ 顶部未加盖的排污水道，相对“阴沟”<sup>\[泰州\]</sup>：在旁边开条～，把里头的脏水引吖走。<sup>\[泰州\]</sup>  
@@ -1162,7 +1162,7 @@
 1. 【[明四门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_sz_men.md#明四门)】`mien2 sz5 men2` <sup>[如皋]</sup> 明代如皋四城门：东“靖海门”，南“澄江门”，西“饯日门”；北“拱极门。”  
 1. 【[明袋<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_tae_r.md#明袋<sub>儿</sub>)】`mien2 tae6 r` <sup>[如皋]</sup> 做在外面的衣袋，与暗袋儿相对。  
 1. 【[明田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_tin.md#明田)】`mien2 tin2` <sup>[如皋]</sup> 旧称海边在范公堤内的田。  
-1. 【[明瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_va.md#明瓦)】`mien2 va3` <small>/miɪ̃2 ua3/<sup>兴化</sup>, /miəŋ2 ʋa3/<sup>如皋</sup>, /miŋ2 ua3/<sup>泰县</sup></small> ① 旧时用云母磨成的小方薄片，嵌在窗子的小方格内，有透光作用，称～。<sup>\[如皋\]</sup> ② 天窗玻璃、玻璃瓦。<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup> ③ 旧指镶在窗桶上采光的明角。<sup>\[兴化\]</sup> ④ 古代用来采光的玻璃替代品，用牡蛎壳、蚌壳等磨制成的半透明薄片，嵌在屋顶、窗户之上，既能做瓦，又透光，故名。<sup>\[泰州\]</sup>  
+1. 【[明瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_va.md#明瓦)】`mien2 va3` <small>/miɪ̃2 ua3/<sup>兴化</sup>, /miəŋ2 ʋa3/<sup>如皋</sup>, /miŋ2 uɑ3/<sup>泰兴</sup>, /miŋ2 ua3/<sup>泰县</sup></small> ① 旧时用云母磨成的小方薄片，嵌在窗子的小方格内，有透光作用，称～。<sup>\[如皋\]</sup> ② 天窗玻璃、玻璃瓦。<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup> ③ 旧指镶在窗桶上采光的明角。<sup>\[兴化\]</sup> ④ 古代用来采光的玻璃替代品，用牡蛎壳、蚌壳等磨制成的半透明薄片，嵌在屋顶、窗户之上，既能做瓦，又透光，故名。<sup>\[泰州\]</sup> ⑤ 盖在屋上用于透光的瓦状玻璃片。<sup>\[泰兴\]</sup>  
 1. 【[明文](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_ven.md#明文)】`mien2 ven2` <sup>[如东]</sup> 公文。  
 1. 【[明星亮月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_xien_lian_iuh.md#明星亮月)】`mien2 xien1 lian6 iuh8` <small>/miɪ̃2 ɕin1 liaŋ6 yuʔ8/<sup>兴化</sup></small> ① 夜间天空没有云雾，星明月亮，表示天气晴朗。<sup>\[如东\]</sup>：今夜～。<sup>\[如东\]</sup> ② 形容晴朗月夜的情景<sup>\[兴化\]</sup>：外头～的，跑夜路怕甚的？<sup>\[兴化\]</sup> ③ 满天星光和满地月光的夜晚<sup>\[泰州\]</sup>：天不早唻，你俫还有十几里路要走，趁这一刻儿外头明星亮月的，你俫就早点走吧。<sup>\[泰州\]</sup>  
 1. 【[明星亮月的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_xien_lian_iuh.md#明星亮月的)】`mien2 xien1 lian6 iuh8 dii` <sup>[如皋]</sup> 睛朗有月亮的夜空。  

@@ -368,7 +368,7 @@
 1. 【[下脚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_jiah_zz.md#下脚子)】`xia6 jiah7 zz` <sup>[兴化]</sup> 挑剩或卖剩的东西：一篮子苹果全是～，拣不起来。也说“脚子货”。  
 1. 【[下劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_jien.md#下劲)】`xia6 jien5` ① 使劲的，努力的 ② 使劲。<sup>\[如东\]</sup>：～挖。<sup>\[如东\]</sup>  
 1. 【[下酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_jieu.md#下酒)】`xia6 jieu3` <small>/ɕiɑ1 t͡ɕiɤɯ3/<sup>泰兴</sup></small> 佐酒，与酒搭配。<sup>\[如东\]</sup><sup>\[泰兴\]</sup><sup>\[泰州\]</sup>：炒两个菜～。<sup>\[如东\]</sup>｜弄点儿花生米子～。<sup>\[泰州\]</sup>  
-1. 【[下酒菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_jieu_cae.md#下酒菜)】`xia6 jieu3 cae5` ① 为喝酒而制作的菜肴。<sup>\[如东\]</sup>：这盆炝虾儿是～。<sup>\[如东\]</sup> ② 有助于饮酒的菜。<sup>\[东台\]</sup>  
+1. 【[下酒菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_jieu_cae.md#下酒菜)】`xia6 jieu3 cae5` <small>/ɕiɑ1 t͡ɕiɤɯ3 t͡ɕʰiɛ5/<sup>泰兴</sup></small> 佐酒的菜肴<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>：这盆炝虾儿是～。<sup>\[如东\]</sup>  
 1. 【[下嘴边<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_jy_bin_r.md#下嘴边<sub>儿</sub>)】`xia6 jy3 bin1 r` <sup>[如皋]</sup> 下嘴唇。  
 1. 【[下卡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_ka_zz.md#下卡子)】`xia6 ka3 zz` <sup>[如皋]</sup> 将卡具放入河中捕鱼鳖等。  
 1. 【[下槛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_kaen.md#下槛)】`xia6 kaen3` <small>/ɕia6 kʰɛ̃3/<sup>兴化</sup>, /ɕiɑ1 kʰɛ̃3/<sup>泰兴</sup></small> ① 闼子门房檐下的和挨地面的横木，其上有槽，可以上下门板，上谓上槛，下谓～<sup>\[兴化\]</sup>：他左腿直立，右腿一悬，对准～拎起来就是一脚……（扬一《李逵劫法场》）<sup>\[兴化\]</sup> ② 门槛，门下边的横木。<sup>\[泰兴\]</sup>  

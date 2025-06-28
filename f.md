@@ -270,6 +270,7 @@
 1. 【[范公堤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_gon_ti.md#范公堤)】`faen5 gon1 ti2` <sup>[东台]</sup> 范仲淹任西溪盐官期间，组织民工将久已颓圯的唐代捍海堰修复并延长，后人称此堰为～。其旧址在东台境内即老204国道。  
 1. 【[贩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen.md#贩)】`faen5` <sup>[泰县]</sup> 既会出点子又会干  
 1. 【[贩搬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_bun.md#贩搬)】`faen5 bun1` <sup>[东台]</sup> 是对一种像贩子样搬来搬去的做法感到厌烦的批评语。  
+1. 【[贩祸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_hu.md#贩祸)】`faen5 hu6` <small>/fɛ̃5 xɤɯ1/<sup>泰兴</sup></small> 搬淡话惹祸。<sup>\[泰兴\]</sup>  
 1. 【[贩话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_hua.md#贩话)】`faen5 hua6` <small>/fɛ̃5 xua1/<sup>泰县</sup></small> 搬弄是非。<sup>\[东台\]</sup><sup>\[泰县\]</sup>  
 1. 【[贩脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_jiah_r.md#贩脚<sub>儿</sub>)】`faen5 jiah7 r` <sup>[东台]</sup> ① 经商赚钱有门路的人。 ② 频繁跳槽、婚姻多变的人。 ③ 专门搬弄是非的人。  
 1. 【[贩骡子贩马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_lu_zz_faen.md#贩骡子贩马)】`faen5 lu2 zz faen5 ma3` <small>/fɛ̃5 lɤɯ2 t͡sɿ fɛ̃5 mɑ3/<sup>泰兴</sup></small> 多话、搬弄是非，是“贩”的生动形式<sup>\[泰兴\]</sup>  
