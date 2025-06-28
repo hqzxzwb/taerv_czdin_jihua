@@ -1139,9 +1139,7 @@
 1. 【[拗犟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_jian.md#拗犟)】`ngo5 jian5` <sup>[兴化]</sup> 固执、不听劝导：他不敢～，只好顺从的坐下来。‖也作“傲强”｜《梼杌闲评》第二十回有“你且不要傲强，且收监”句。  
 1. 【[拗犟别调](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_jian_bih_dio.md#拗犟别调)】`ngo5 jian5 bih7 dio5` <sup>[兴化]</sup> 因主观偏激而和众人唱反调：他这个人～的，和他没谈头。  
 1. 【[拗口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_keu.md#拗口)】`ngo5 keu3` <small>/ŋɔ5 kʰei3/<sup>如皋</sup>, /ŋɔ5 kʰəɪ3/<sup>泰兴</sup></small> ① 绕舌、不顺口。<sup>\[如皋\]</sup> ② 文辞艰涩，不顺畅。<sup>\[如东\]</sup>：这篇文章念起来～。<sup>\[如东\]</sup> ③ 说起来别扭，不顺口。<sup>\[泰兴\]</sup>  
-1. 【[拗口气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_keu_qi.md#拗口气)】`ngo5 keu3 qi5` <sup>[东台]</sup> 对别人的轻视不服气，下定决心，发愤图强，干出业绩争口气，争个面子。  
-1. 【[拗口气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_keu_qi.md#拗口气)】`ngo5 keu3 qi5` <sup>[泰州]</sup> 通过较量显示一下志气，意为立志向上，不甘落后或者示弱：人家说你学习不行，你要～，下回子考把他看。  
-1. 【[拗口气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_keu_qi.md#拗口气)】`ngo5 keu3 qi5` <small>/ŋɔ5 kʰəɪ3 t͡ɕʰʝ5/<sup>泰兴</sup></small> 争气，挣回面子。<sup>\[泰兴\]</sup>  
+1. 【[拗口气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_keu_qi.md#拗口气)】`ngo5 keu3 qi5` <small>/ŋɔ5 kʰəɪ3 t͡ɕʰʝ5/<sup>泰兴</sup></small> ① 对别人的轻视不服气，下定决心，发愤图强，干出业绩争口气，争个面子。<sup>\[东台\]</sup> ② 通过较量显示一下志气，意为立志向上，不甘落后或者示弱<sup>\[泰州\]</sup>：人家说你学习不行，你要～，下回子考把他看。<sup>\[泰州\]</sup> ③ 争气，挣回面子。<sup>\[泰兴\]</sup>  
 1. 【[拗里毕卜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_lii_bieh_boh.md#拗里毕卜)】`ngo5 lii bieh7 boh7` <sup>[泰州]</sup> 以别出心裁的理由与人争辩：这家伙啊，你说东，他单说西，你说南，他偏说北，～的，你同他没法处。  
 1. 【[拗别](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_pih.md#拗别)】`ngo5 pih8` <sup>[如东]</sup> 违抗：你不要跟他～。  
 1. 【[拗气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_qi.md#拗气)】`ngo5 qi5` <sup>[兴化]</sup> 闹别扭：争气～｜“哥哥你何苦……这叫～损财呀。”（《武松》六）  
@@ -1149,8 +1147,7 @@
 1. 【[擙水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_shuei.md#擙水)】`ngo5 shuei3` <sup>[如皋]</sup> 用人力或畜力推动辋子戽水。  
 1. 【[隩壁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_bieh.md#隩壁)】`ngo5 bieh7` <sup>[如皋]</sup> 偏僻。  
 1. 【[隩廦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_bieh.md#隩廦)】`ngo5 bieh7` <sup>[如皋]</sup> 幽深隐蔽。  
-1. 【[隩僻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_pieh.md#隩僻)】`ngo5 pieh7` <sup>[兴化]</sup> 形容所处位置偏僻荒凉：以前西门一带十分～，现在成吖大马路。  
-1. 【[隩僻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_pieh.md#隩僻)】`ngo5 pieh7` <small>/ŋɔ5 pʰiʔ7/<sup>泰兴</sup></small> 偏僻；交通不便<sup>\[泰兴\]</sup>  
+1. 【[隩僻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_pieh.md#隩僻)】`ngo5 pieh7` <small>/ɔ5 pʰiɪʔ7/<sup>兴化</sup>, /ŋɔ5 pʰiʔ7/<sup>泰兴</sup></small> ① 形容所处位置偏僻荒凉<sup>\[兴化\]</sup>：以前西门一带十分～，现在成吖大马路。<sup>\[兴化\]</sup> ② 偏僻；交通不便<sup>\[泰兴\]</sup>  
 1. 【[傲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo.md#傲)】`ngo6` <small>/ɔ6/<sup>兴化</sup>, /ŋɔ1/<sup>如皋</sup>, /ɔ1/<sup>泰县</sup></small> ① 夸奖：没得新妇～新妇，有啊新妇恨新妇。<sup>\[如皋\]</sup> ② 鸟翼一上一下，叫做翱。<sup>\[如东\]</sup> ③ 比喻向上，向前。<sup>\[如东\]</sup>：这个伢儿学习好，村里人都～他。<sup>\[如东\]</sup> ④ ［引］赞美；夸奖<sup>\[东台\]</sup>：群众都～村支书是个好干部<sup>\[东台\]</sup>｜她追求小张，是～他有才干。<sup>\[东台\]</sup> ⑤ 夸赞<sup>\[兴化\]</sup>：奶奶逢人就～孙子聪明。<sup>\[兴化\]</sup> ⑥ 赞扬：个个～他。<sup>\[泰县\]</sup> ⑦ 称赞<sup>\[泰州\]</sup>：他到乡里去扶贫，在村里蹾吖不到半年，做啊不少实事，村里群众哪个不～他好。<sup>\[泰州\]</sup>｜不是有人在厂长面前～他文章写得好，组织上怎吖可能把他从车间调到宣传科来工作。<sup>\[泰州\]</sup>  
 1. 【[傲气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_qi.md#傲气)】`ngo6 qi5` <small>/ŋɔ1 t͡ɕʰʝ5/<sup>如皋</sup></small> ① 面对严酷现实，不气馁有志气，苦干。<sup>\[如皋\]</sup> ② 傲气。<sup>\[如皋\]</sup>  
 1. 【[傲头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_teu.md#傲头)】`ngo6 teu2` <sup>[如东]</sup> 头抬起来：～张望。  

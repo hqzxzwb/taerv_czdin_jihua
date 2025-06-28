@@ -279,8 +279,7 @@
 1. 【[陪伴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pei_pun.md#陪伴)】`pei2 pun6` <sup>[如东]</sup> 随同做伴。  
 1. 【[佩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pei.md#佩)】`pei5` <sup>[东台]</sup> ① 衣带上挂的装饰品：玉～｜珠～。 ② 敬仰，心悦诚服：～服｜敬～。  
 1. 【[佩兰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pei_laen.md#佩兰)】`pei5 laen2` <sup>[如东]</sup> 菊科植物佩兰，多年生草本。  
-1. 【[呸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pei.md#呸)】`pei5` <sup>[东台]</sup> 叹词，表示唾弃或斥责：～！你这个忘恩负义的东西！  
-1. 【[呸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pei.md#呸)】`pei5` <small>/pʰəɪ5/<sup>泰兴</sup></small> 表示斥责或鄙薄。语气词。<sup>\[泰兴\]</sup>  
+1. 【[呸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pei.md#呸)】`pei5` <small>/pʰəɪ5/<sup>泰兴</sup></small> ① 叹词，表示唾弃或斥责<sup>\[东台\]</sup>：～！你这个忘恩负义的东西！<sup>\[东台\]</sup> ② 表示斥责或鄙薄。语气词。<sup>\[泰兴\]</sup>  
 1. 【[配](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pei.md#配)】`pei5` <sup>[东台]</sup> ① 配偶：择～｜元～｜继～。 ② 成婚：婚～｜许～。 ③ 有计划的安排：分～｜支心。 ④ 把缺少的东西按规格补足或再制：～钥匙。  
 1. 【[配菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pei_cae.md#配菜)】`pei5 cae5` <small>/pʰəi5 t͡sʰɛ5/<sup>兴化</sup></small> ① 按菜单把做菜的原料配齐。<sup>\[兴化\]</sup> ② 厨师中负责配菜的，又称“红案”。<sup>\[兴化\]</sup> ③ 按照一定标准将每样菜的食材配齐。<sup>\[泰州\]</sup>  
 1. 【[配对<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pei_dy_r.md#配对<sub>儿</sub>)】`pei5 dy5 r` <sup>[如皋]</sup> ① 指人配成双。 ② 给单个的器物配成双。  

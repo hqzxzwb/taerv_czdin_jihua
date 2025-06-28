@@ -2221,8 +2221,7 @@
 1. 【[到什的山砍什的柴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_shen_nii_shaen.md#到什的山砍什的柴)】`do5 shen2 nii shaen1 kun3 shen2 nii shae2` <sup>[东台]</sup> 审时度势随机应变。  
 1. 【[到什的山，樵什的柴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_shen_nii_shaen.md#到什的山，樵什的柴)】`do5 shen2 nii shaen1 qio2 shen2 nii shae2` <small>/tɔ5 səŋ2 nəɪ ɕiɛ̃1 t͡ɕʰiɔ2 səŋ2 nəɪ ɕiɛ2/<sup>泰兴</sup></small> 比喻说话做事要符合实际情况，因地制宜。也可以作入乡随俗解。<sup>\[泰兴\]</sup>  
 1. 【[到位（味）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_vei.md#到位（味）)】`do5 vei6` <sup>[如皋]</sup> ① 达到最佳状态：这次音乐会听得～｜他的话说得～。 ② 办事得体、完美：同你把事情做啊～啊，你放心。  
-1. 【[到嘴不到肚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_zuei_beh_do.md#到嘴不到肚)】`do5 zuei3 beh7 do5 tv6` <sup>[兴化]</sup> 食物太少，不能满足食欲：武二爷望望：酒虽好，吃的不过瘾，～。（《武松》一）  
-1. 【[到嘴不到肚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_zuei_beh_do.md#到嘴不到肚)】`do5 zuei3 beh7 do5 tv6` <small>/tɔ5 t͡suəɪ3 pəʔ7 tɔ5 tʰu1/<sup>泰兴</sup></small> 不能吃饱，满足不了需要。<sup>\[泰兴\]</sup>  
+1. 【[到嘴不到肚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_zuei_beh_do.md#到嘴不到肚)】`do5 zuei3 beh7 do5 tv6` <small>/tɔ5 t͡suəi3 pəʔ7 tɔ5 tʰu6/<sup>兴化</sup>, /tɔ5 t͡suəɪ3 pəʔ7 tɔ5 tʰu1/<sup>泰兴</sup></small> ① 食物太少，不能满足食欲<sup>\[兴化\]</sup>：武二爷望望：酒虽好，吃的不过瘾，～。（《武松》一）<sup>\[兴化\]</sup> ② 不能吃饱，满足不了需要。<sup>\[泰兴\]</sup>  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/doh.md#□)】`doh7` <small>/tɔʔ7/<sup>泰兴</sup></small> 量词，一坨（粪便）。<sup>\[泰兴\]</sup>  
 1. 【[㞘底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/doh_di.md#㞘底)】`doh7 di3` <sup>[兴化]</sup> 终点。《集韵·屋韵》都木切，《博雅》臀也。俗作“𡰪”：四路公交车到关门陈～。  
 1. 【[啄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/doh.md#啄)】`doh7` <small>/tɔʔ7/<sup>如皋</sup></small> ① 鸟吃食的动作<sup>\[如皋\]</sup><sup>\[泰州\]</sup>：鸡子～食，同鹐。<sup>\[如皋\]</sup>｜外头鸡子在下～你家晒的稻。<sup>\[泰州\]</sup> ② 缝纫机缝纫<sup>\[如皋\]</sup>：把布～下子。<sup>\[如皋\]</sup> ③ 用坚硬的嘴凿。《广韵》“丁木切。”<sup>\[东台\]</sup>：剥～有声。<sup>\[东台\]</sup>  

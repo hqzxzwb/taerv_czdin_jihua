@@ -42,8 +42,7 @@
 1. 【[再生稻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_shen_to.md#再生稻)】`zae5 shen1 to6` <small>/t͡sɛ5 sən1 tʰɔ6/<sup>兴化</sup></small> ① 禾本科植物稻秸收割后的再生苗。<sup>\[如东\]</sup> ② 水稻收割后在根茬上长出的植株。<sup>\[兴化\]</sup>  
 1. 【[再堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_tan.md#再堂)】`zae5 tan2` <sup>[如皋]</sup> 同曾祖的同族亲缘关系称。  
 1. 【[再再](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_zae.md#再再)】`zae5 zae5` <sup>[兴化]</sup> 一而再，再而三：说之～，他才答应明吖来。｜……谦之～，分宾主礼入座。（《火烧赤壁》七）  
-1. 【[咂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh.md#咂)】`zaeh7` <small>/t͡sueʔ7/<sup>如皋</sup></small> ① 唇、齿、舌与腭紧贴，忽然张口时的暴破清音。<sup>\[如皋\]</sup> ② 用嘴唇略吸<sup>\[如皋\]</sup>：～一口酒。<sup>\[如皋\]</sup>  
-1. 【[咂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh.md#咂)】`zaeh7` <small>/t͡ɕiæʔ7/<sup>泰兴</sup></small> 品尝；品辨<sup>\[泰兴\]</sup>  
+1. 【[咂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh.md#咂)】`zaeh7` <small>/t͡sueʔ7/<sup>如皋</sup>, /t͡ɕiæʔ7/<sup>泰兴</sup></small> ① 唇、齿、舌与腭紧贴，忽然张口时的暴破清音。<sup>\[如皋\]</sup> ② 用嘴唇略吸<sup>\[如皋\]</sup>：～一口酒。<sup>\[如皋\]</sup> ③ 品尝；品辨<sup>\[泰兴\]</sup>  
 1. 【[咂嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh_jy.md#咂嘴)】`zaeh7 jy3` <small>/t͡sueʔ7 t͡ɕy3/<sup>如皋</sup></small> ① 舌头抵住上颚发出吸气的声音，表示称赞、羡慕、惊讶等。<sup>\[如东\]</sup> ② 舌尖顶住上颚发出吸气音，表示赞赏、惊讶、惋惜等。<sup>\[东台\]</sup> ③ 吃时张口有声。<sup>\[如皋\]</sup> ④ 表示品尝滋味。<sup>\[如皋\]</sup> ⑤ 表示为难。<sup>\[如皋\]</sup>  
 1. 【[咂味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh_vei.md#咂味)】`zaeh7 vei6` 用舌头吮吸品尝滋味，引申指拿老实人开玩笑来去了<sup>\[泰州\]</sup>：你是快活得没处抓痒，又拿人家老实人来～唻。<sup>\[泰州\]</sup>  
 1. 【[咂嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh_zuei.md#咂嘴)】`zaeh7 zuei3` <small>/t͡ɕiæʔ7 t͡suəɪ3/<sup>泰兴</sup></small> 以舌抵齿、嘴唇上下开合作声。表示称赞、企慕或为难、惋惜等。<sup>\[泰兴\]</sup>  
@@ -1636,11 +1635,9 @@
 1. 【[转场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_chan.md#转场)】`zhun3 chan3` <small>/t͡sũ3 t͡sʰaŋ3/<sup>兴化</sup></small> ① 暂停争执，使气氛缓和<sup>\[兴化\]</sup>：你不要硬顶，转个场再说。<sup>\[兴化\]</sup>｜你先回避一下，好让他有个～。<sup>\[兴化\]</sup> ② 戏曲演员转换演出场次。<sup>\[泰州\]</sup> ③ 双方发生争执之时，一方暂时回避，等到气氛缓和以后再行商议<sup>\[泰州\]</sup>：你俫这样子吵法不行，老李你先转吖场，有话等一刻儿再说。<sup>\[泰州\]</sup>  
 1. 【[转潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_cho.md#转潮)】`zhun3 cho2` <small>/t͡sũ3 t͡sʰɔ2/<sup>兴化</sup>, /t͡sʊ̃3 t͡sʰɔ2/<sup>如皋</sup>, /t͡sʊ̃3 t͡sʰɔ2/<sup>泰兴</sup></small> 空气湿度大，物体（居室、地面、衣物或各种居家物品等等）由干变潮<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：你望，你父亲那件老夹袄今天～，水都快往下滴了。（兴文：《小癞子招驸马》）<sup>\[兴化\]</sup>｜最近这些时天天落雨，家里湿气大啊没得命，橱子里栋的衣裳都～唻。<sup>\[泰州\]</sup>  
 1. 【[转刀<sub>儿</sub>块子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_do_r_kuae.md#转刀<sub>儿</sub>块子)】`zhun3 do1 r kuae5 zz` <sup>[如皋]</sup> 切一刀，转一下，切成有棱角的块子。  
-1. 【[转角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_gah.md#转角)】`zhun3 gah7` <sup>[东台]</sup> 拐弯处。  
-1. 【[转角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_gah.md#转角)】`zhun3 gah7` <small>/t͡sʊ̃3 kɑʔ7/<sup>泰兴</sup></small> 街巷等拐弯处。<sup>\[泰兴\]</sup>  
+1. 【[转角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_gah.md#转角)】`zhun3 gah7` <small>/t͡sʊ̃3 kɑʔ7/<sup>泰兴</sup></small> 街巷等拐弯处。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[转瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_gua.md#转瓜)】`zhun3 gua1` <sup>[东台]</sup> 番瓜，即南瓜。渔民避讳语。因番的谐音翻，故避讳。  
-1. 【[转阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_ian.md#转阳)】`zhun3 ian2` <sup>[如皋]</sup> 见“和暴”。  
-1. 【[转阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_ian.md#转阳)】`zhun3 ian2` <small>/t͡sʊ̃3 iɑŋ2/<sup>泰兴</sup></small> 苏醒，复苏。<sup>\[泰兴\]</sup>  
+1. 【[转阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_ian.md#转阳)】`zhun3 ian2` <small>/t͡sʊ̃3 iã2/<sup>如皋</sup>, /t͡sʊ̃3 iɑŋ2/<sup>泰兴</sup></small> ① 见“和暴”。<sup>\[如皋\]</sup> ② 苏醒，复苏。<sup>\[泰兴\]</sup>  
 1. 【[转一转弯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_ieh_zhun_vaen.md#转一转弯)】`zhun3 ieh7 zhun3 vaen1` <sup>[泰州]</sup> 转一下弯，意谓想要收回自己一时冲动所作出的错误决定，又怕因此伤害自尊，而在内心纠结不已之时，通过由第三方出面提出让步措施，达到既收回错误决定而又保全自尊的目的：要是他俫谈吖僵吖，你就出来～。  
 1. 【[转筋消](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_jien_xio.md#转筋消)】`zhun3 jien1 xio1` <sup>[东台]</sup> 多指小孩贪吃，一转身就消化了：你哪是个～，才多晚又要吃？  
 1. 【[转来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_lae.md#转来)】`zhun3 lae` <small>/t͡sʊ̃3 lɛ/<sup>如皋</sup></small> ① 一般发音zu3 lae。过一会儿再、打转再<sup>\[如皋\]</sup>：～去。<sup>\[如皋\]</sup> ② 以后，回转来。相约用语。口语中常脱落鼻音说zhu3 lae。<sup>\[如皋\]</sup>  
@@ -1649,8 +1646,7 @@
 1. 【[转念头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_nin_teu.md#转念头)】`zhun3 nin6 teu` <sup>[兴化]</sup> 动脑筋、打主意：他眼睛骨碌骨碌地，又在下～。  
 1. 【[转噍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_qio.md#转噍)】`zhun3 qio1` <sup>[如皋]</sup> ① 指反刍。 ② 同“转爪”。  
 1. 【[转窍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_qio.md#转窍)】`zhun3 qio5` <sup>[如东]</sup> 想通了：她终于～。  
-1. 【[转䵑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_ren.md#转䵑)】`zhun3 ren6` <sup>[如皋]</sup> 因吸潮由脆变软。同“发䵑”：时霉天脆饼儿容易～｜炒花生天数多啊，～吖。  
-1. 【[转䵑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_ren.md#转䵑)】`zhun3 ren6` <small>/t͡sʊ̃3 ɻəŋ1/<sup>泰兴</sup></small> 食物受潮变软。<sup>\[泰兴\]</sup>  
+1. 【[转䵑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_ren.md#转䵑)】`zhun3 ren6` <small>/t͡sʊ̃3 ɻəŋ1/<sup>如皋</sup>, /t͡sʊ̃3 ɻəŋ1/<sup>泰兴</sup></small> ① 因吸潮由脆变软。同“发䵑”。<sup>\[如皋\]</sup>：时霉天脆饼儿容易～<sup>\[如皋\]</sup>｜炒花生天数多啊，～吖。<sup>\[如皋\]</sup> ② 食物受潮变软。<sup>\[泰兴\]</sup>  
 1. 【[转色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_seh.md#转色)】`zhun3 seh7` <small>/t͡sũ3 səʔ7/<sup>兴化</sup>, /t͡sʊ̃3 səʔ7/<sup>如皋</sup></small> ① 改变颜色：如人的脸色、炒菜的菜色、移苗后的叶色等。<sup>\[如皋\]</sup> ② 面色变化，多指由黄黑转红白：这个孩子几个月好日子一过，脸上倒转吖色。<sup>\[兴化\]</sup> ③ 农作物由黄变绿：水肥一上，秧苗转吖色。<sup>\[兴化\]</sup> ④ 脸色发生变化。<sup>\[泰州\]</sup> ⑤ 身体虚弱之人经过休养以后，脸上气色发生好的变化<sup>\[泰州\]</sup>：她歇咖个把月，脸上才转吖色。<sup>\[泰州\]</sup> ⑥ 植物叶片颜色由黄变绿或者由淡变浓<sup>\[泰州\]</sup>：肥料上吖三天，扁豆的叶子就转吖色。<sup>\[泰州\]</sup>  
 1. 【[转身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_shen.md#转身)】`zhun3 shen1` <small>/t͡sũ3 sən1/<sup>兴化</sup>, /t͡sʊ̃3 səŋ1/<sup>如皋</sup></small> ① 见“转爪”。<sup>\[如皋\]</sup> ② 离开<sup>\[兴化\]</sup>：110的人一～，他俫又闹起来啊。<sup>\[兴化\]</sup>｜众人见赵昇连住数日，并不～，愈加厌恶……（《古今小说》十三）<sup>\[兴化\]</sup>  
 1. 【[转世投胎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_shr_teu_tae.md#转世投胎)】`zhun3 shr5 teu2 tae1` <sup>[如皋]</sup> 轮回。引指重来一次，常表示无望：要他回心转意，除非～。  
@@ -1664,8 +1660,7 @@
 1. 【[转智](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_zhr.md#转智)】`zhun3 zhr5` 根据情况变化而变化的智慧，亦即随机应变的智慧<sup>\[泰州\]</sup>：这小夫没得点点儿～，你不想上南京去开会，你就推家里有事就行吖唻。<sup>\[泰州\]</sup>｜这马马儿的～吓煞人，她不回你没得钱，告诉你钱在银行里还不曾到期，你哿好意思再同她开口啊。<sup>\[泰州\]</sup>  
 1. 【[转角落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_gah_lah.md#转角落)】`zhun5 gah7 lah` <sup>[如东]</sup> 转弯处的角落：东西放吖～里。  
 1. 【[转下子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_ha_zz.md#转下子)】`zhun5 ha zz` <sup>[东台]</sup> ① 出去逛一下； ② 引申为缓兵之计，调整对策。这笔债难要，先～再说。  
-1. 【[转魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_huen.md#转魂)】`zhun5 huen2` <sup>[如皋]</sup> 贬指转悠。  
-1. 【[转魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_huen.md#转魂)】`zhun5 huen2` <small>/t͡sʊ̃5 xuəŋ2/<sup>泰兴</sup></small> 到处乱转，闲走<sup>\[泰兴\]</sup>  
+1. 【[转魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_huen.md#转魂)】`zhun5 huen2` <small>/t͡sʊ̃5 xuəŋ2/<sup>如皋</sup>, /t͡sʊ̃5 xuəŋ2/<sup>泰兴</sup></small> ① 贬指转悠。<sup>\[如皋\]</sup> ② 到处乱转，闲走<sup>\[泰兴\]</sup>  
 1. 【[转野鸡圈络<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_ia_ji_qiun.md#转野鸡圈络<sub>儿</sub>)】`zhun5 ia3 ji1 qiun1 lah r` <sup>[如皋]</sup> 猎者打野鸡先在外围转悠。演为谈话的一种技巧。  
 1. 【[转𨳻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_ji_r.md#转𨳻<sub>儿</sub>)】`zhun5 ji r` <sup>[如皋]</sup> 旧式门窗的转轴。  
 1. 【[转基头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_ji_teu.md#转基头)】`zhun5 ji1 teu2` <sup>[如东]</sup> 房屋的一种结构形式。朝南屋跟朝西屋或朝东屋转角连在一起，室内可以通行。这种房屋结构称转基头。  

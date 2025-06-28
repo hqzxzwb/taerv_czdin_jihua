@@ -336,8 +336,7 @@
 1. 【[丧表](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_bio.md#丧表)】`san1 bio3` <sup>[如皋]</sup> 挂在大门外的为新死者戴孝的，按辈份关系称谓，排列的名单。白纸黑字，从右到左竖写。  
 1. 【[丧报](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_bo.md#丧报)】`san1 bo` <sup>[东台]</sup> 讣告。  
 1. 【[丧筵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_in.md#丧筵)】`san1 in2` <sup>[如东]</sup> 因丧事而举办的筵席。丧筵的菜肴数量为7碗8碟（单数）。  
-1. 【[丧门星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_men_xien.md#丧门星)】`san1 men2 xien1` <sup>[如东]</sup> 不受喜欢的人：你这个～，还不学好。  
-1. 【[丧门星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_men_xien.md#丧门星)】`san1 men2 xien1` <small>/sɑŋ1 məŋ2 ɕiŋ1/<sup>泰兴</sup></small> 喻称恶人或使人倒霉的人。<sup>\[泰兴\]</sup>  
+1. 【[丧门星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_men_xien.md#丧门星)】`san1 men2 xien1` <small>/sɑŋ1 məŋ2 ɕiŋ1/<sup>泰兴</sup></small> ① 不受喜欢的人。<sup>\[如东\]</sup>：你这个～，还不学好。<sup>\[如东\]</sup> ② 喻称恶人或使人倒霉的人。<sup>\[泰兴\]</sup>  
 1. 【[丧棚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_pon.md#丧棚)】`san1 pon2` <sup>[如皋]</sup> 临时搭建的供操办丧事使用的大棚。  
 1. 【[丧气话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_qi_hua.md#丧气话)】`san1 qi5 hua6` <sup>[东台]</sup> 失去信心的话。  
 1. 【[丧事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_shr.md#丧事)】`san1 shr6` <sup>[如东]</sup> 人死后举办的祭祀活动称丧事。  
@@ -730,8 +729,7 @@
 1. 【[伤膏失肌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_go_sheh_ji.md#伤膏失肌)】`shan1 go1 sheh7 ji1` <sup>[东台]</sup> 指暴饮暴食，伤了身体（膏，心尖脂肪；肌，肌肉）：出去应酬，不要吃得～的。  
 1. 【[伤割人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_guh_ren.md#伤割人)】`shan1 guh7 ren2` <sup>[如东]</sup> 用言语讽刺挖苦人：不能～吖！  
 1. 【[伤阴德](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_ien_deh.md#伤阴德)】`shan1 ien1 deh7` <sup>[如东]</sup> 不做好事，损伤祖宗的德性：你在背后捣鬼，～咖！  
-1. 【[伤良心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_lian_xien.md#伤良心)】`shan1 lian2 xien1` <sup>[东台]</sup> 害人害得可怜，也伤害自己的良心（带同情弱者口气）。  
-1. 【[伤良心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_lian_xien.md#伤良心)】`shan1 lian2 xien1` <small>/sɑŋ1 liɑŋ2 ɕiŋ1/<sup>泰兴</sup></small> 违背道德良心做坏事。<sup>\[泰兴\]</sup>  
+1. 【[伤良心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_lian_xien.md#伤良心)】`shan1 lian2 xien1` <small>/sɑŋ1 liɑŋ2 ɕiŋ1/<sup>泰兴</sup></small> ① 害人害得可怜，也伤害自己的良心（带同情弱者口气）。<sup>\[东台\]</sup> ② 违背道德良心做坏事。<sup>\[泰兴\]</sup>  
 1. 【[伤力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_lieh.md#伤力)】`shan1 lieh8` <small>/saŋ1 liɪʔ8/<sup>兴化</sup>, /sã1 liəʔ8/<sup>如皋</sup>, /sɑŋ1 liʔ8/<sup>泰兴</sup></small> ① 用力过度而受内伤。<sup>\[如皋\]</sup> ② 农村指常干重活伤了胃。<sup>\[东台\]</sup> ③ 因过劳而使身体受内伤<sup>\[兴化\]</sup>：郑老三气得发～，又是呕血，又是气喘。<sup>\[兴化\]</sup> ④ 过分劳累而致成的疾病。<sup>\[泰兴\]</sup>：箇期伤吖力，人没劲。<sup>\[泰兴\]</sup>  
 1. 【[伤廉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_lin.md#伤廉)】`shan1 lin2` <sup>[兴化]</sup> （借）超过一定承受能力：这一下子打得太重，他不～不哭。｜叫他拿五百块钱请客不算～，他还请得起。语出《孟子，离娄（下）》｜“可以取，可以无取，取～。”此处为套用。  
 1. 【[伤廉惠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_lin_huei.md#伤廉惠)】`shan1 lin2 huei` <sup>[泰州]</sup> 超过本人承受能力：老刘他工资低，教人家花三千多请客，伤吖廉惠唻。｜王老板家家里有的是钱，不要说花这万把块钱，就是用个十万、八万也不～。  
@@ -1963,8 +1961,7 @@
 1. 【[肖属](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_shoh.md#肖属)】`sho5 shoh` <small>/sɔ5 sɔʔ/<sup>如皋</sup></small> ① 十二生肖。属：属牛、属虎……。肖，属相相同，岁差为12的正整数倍：同肖（岁差为12×0）、大一肖（岁差为12×1）、小两肖（岁差为12×2）。<sup>\[如皋\]</sup> ② 人的生肖，也称属相，如属牛、属马等。<sup>\[如东\]</sup>  
 1. 【[苕子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_zz.md#苕子)】`sho5 zz` <sup>[兴化]</sup> 一种豆科植物，多用来做绿肥。  
 1. 【[佋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho.md#佋)】`sho6` 傻，呆；歪斜，不正  
-1. 【[叔伯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_boh.md#叔伯)】`shoh7 boh7` <sup>[东台]</sup> 非嫡亲关系：他和我是～弟兄，他儿子是我的～侄子。  
-1. 【[叔伯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_boh.md#叔伯)】`shoh7 boh7` <small>/sɔʔ7 pɔʔ7/<sup>泰兴</sup></small> 同祖父或同曾祖父的兄弟姐妹的关系。<sup>\[泰兴\]</sup>：～兄弟<sup>\[泰兴\]</sup>｜～姊妹<sup>\[泰兴\]</sup>｜～舅舅/母亲的叔伯兄弟<sup>\[泰兴\]</sup>  
+1. 【[叔伯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_boh.md#叔伯)】`shoh7 boh7` <small>/sɔʔ7 pɔʔ7/<sup>泰兴</sup></small> ① 非嫡亲关系<sup>\[东台\]</sup>：他和我是～弟兄，他儿子是我的～侄子。<sup>\[东台\]</sup> ② 同祖父或同曾祖父的兄弟姐妹的关系。<sup>\[泰兴\]</sup>：～兄弟<sup>\[泰兴\]</sup>｜～姊妹<sup>\[泰兴\]</sup>｜～舅舅/母亲的叔伯兄弟<sup>\[泰兴\]</sup>  
 1. 【[叔伯伯父](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_boh_boh_fv.md#叔伯伯父)】`shoh7 boh7 boh7 fv6` <sup>[如东]</sup> 叔伯老老（爷爷）所生的年龄比父亲大的男子，称叔伯伯父。  
 1. 【[叔伯侄女](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_boh_chih_ny.md#叔伯侄女)】`shoh7 boh7 chih8 ny3` <sup>[如东]</sup> 叔伯伯父和叔伯叔父所生的女儿。  
 1. 【[叔伯侄女婿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_boh_chih_ny.md#叔伯侄女婿)】`shoh7 boh7 chih8 ny3 xy5` <sup>[如东]</sup> 叔伯侄女的丈夫。  
@@ -1998,8 +1995,7 @@
 1. 【[叔嫂换茬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_so_hun_cha.md#叔嫂换茬)】`shoh7 so3 hun6 cha2` <sup>[如东]</sup> 哥哥死亡后，寡妇嫂嫂改嫁给叔子（弟弟），称叔嫂换茬。  
 1. 【[叔嫂换茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_so_hun_cha.md#叔嫂换茶)】`shoh7 so3 hun6 cha2` <sup>[如皋]</sup>   
 1. 【[叔太爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_tae_i.md#叔太爷)】`shoh7 tae5 i` <sup>[兴化]</sup> ① 在家族中和父亲同辈的男性：他俫是本家叔侄，一个是侄少，一个是～。 ② 父亲的朋友：你是～，不能黄你面子。  
-1. 【[叔子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_zz.md#叔子)】`shoh7 zz` <sup>[如东]</sup> 嫂嫂对丈夫弟弟的称谓。  
-1. 【[叔子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_zz.md#叔子)】`shoh7 zz` <small>/sɔʔ7 t͡sɿ/<sup>泰兴</sup></small> ① 与父同辈、年龄小于父亲者；叔父。<sup>\[泰兴\]</sup> ② 丈夫的弟弟。<sup>\[泰兴\]</sup>  
+1. 【[叔子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_zz.md#叔子)】`shoh7 zz` <small>/sɔʔ7 t͡sɿ/<sup>泰兴</sup></small> ① 与父同辈、年龄小于父亲者；叔父。<sup>\[泰兴\]</sup> ② 丈夫的弟弟。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
 1. 【[属](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh.md#属)】`shoh7` <sup>[泰州]</sup> 用十二生肖纪年：～龙｜～马  
 1. 【[属狗的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_geu_dii.md#属狗的)】`shoh7 geu3 dii` <sup>[如皋]</sup> 忠心、忠臣。  
 1. 【[属猴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shoh_heu_dii.md#属猴的)】`shoh7 heu2 dii` <sup>[如皋]</sup> 不定神，动吖不歇。  
