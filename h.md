@@ -1165,6 +1165,7 @@
 1. 【[河蚬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xin.md#河蚬)】`hu2 xin3` <sup>[如东]</sup> 蚬科动物河蚬，贝壳2片，略呈三角形，大小不一，大者约6厘米。  
 1. 【[河鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_y.md#河鱼)】`hu2 y2` ① 淡水鱼。有时专指鲫鱼。<sup>\[如东\]</sup> ② 生活在淡水河里的鱼。<sup>\[东台\]</sup>  
 1. 【[禾帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_ban.md#禾帮)】`hu2 ban1` <sup>[如皋]</sup> 禾字旁儿（禾）：和秋种。  
+1. 【[禾旁程](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_pan_chen.md#禾旁程)】`hu2 pan2 chen2` <small>/xɤɯ2 pʰɑŋ2 t͡sʰəŋ2/<sup>泰兴</sup></small> 程字的俗称。<sup>\[泰兴\]</sup>  
 1. 【[荷包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_bo.md#荷包)】`hu2 bo1` <small>/xo2 pɔ1/<sup>泰县</sup></small> ① 装饰品。用布缝制小袋，内装香草，系在身上能散发出幽幽的香味。<sup>\[如东\]</sup> ② 倾听。<sup>\[泰县\]</sup>  
 1. 【[荷包蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_bo_taen.md#荷包蛋)】`hu2 bo1 taen6` <small>/xʊ2 pɔ1 tʰẽ1/<sup>如皋</sup></small> ① 鸡蛋放在水中煮沸，蛋黄尚未硬结时，即捞起来，加糖，称荷包蛋。<sup>\[如东\]</sup> ② 去壳入油煎的整蛋。（去壳入水煮的整蛋叫蛋瘪子）<sup>\[如皋\]</sup>  
 1. 【[荷包蛵蛉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_bo_xien_lien.md#荷包蛵蛉<sub>儿</sub>)】`hu2 bo1 xien1 lien2 r` <sup>[如皋]</sup> 绿蜻蜓。体大而美。  

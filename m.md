@@ -842,6 +842,7 @@
 1. 【[门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men.md#门)】`men2` <sup>[如东]</sup> 房屋、车、船、围墙等设施的出人口。  
 1. 【[门板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_baen.md#门板)】`men2 baen3` <sup>[如东]</sup> 门的面板。  
 1. 【[门帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_ban.md#门帮)】`men2 ban1` <sup>[如东]</sup> 门板两边的竖粱，起固定门板的作用。也叫门边丝。  
+1. 【[门塴下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_bon_ha.md#门塴下)】`men2 bon5 ha` <small>/məŋ2 pɔŋ5 xɑ/<sup>泰兴</sup></small> 门扇与墙的夹角处<sup>\[泰兴\]</sup>  
 1. 【[门塴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_bon_r.md#门塴<sub>儿</sub>)】`men2 bon5 r` <sup>[如皋]</sup> 门扇与墙相夹处。  
 1. 【[门族](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_coh.md#门族)】`men2 coh8` <sup>[泰兴]</sup> 宗族，家族。  
 1. 【[门搭扣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_daeh_keu_r.md#门搭扣<sub>儿</sub>)】`men2 daeh7 keu1 r` <sup>[如皋]</sup> 见“门搭子”。  

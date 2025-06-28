@@ -260,7 +260,7 @@
 1. 【[涴算人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_sun_ren.md#涴算人)】`un5 sun5 ren2` <sup>[东台]</sup> 常常用麻烦事打扰别人，叫人不得清静，令人讨厌。  
 1. 【[谙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un.md#谙)】`un5` <sup>[东台]</sup> （惯用音）熟悉其中情况，掌握其规律：他搞这行当几十年，对这个业务是蛮～的。  
 1. 【[谙行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_han.md#谙行)】`un5 han2` <small>/ũ5 xaŋ2/<sup>兴化</sup></small> ① （惯用音）懂行，内行。<sup>\[东台\]</sup> ② 熟悉、内行：他对农业机械～，对水利不熟悉。<sup>\[兴化\]</sup>  
-1. 【[岸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un.md#岸)】`un6` <small>/ʊ̃1/<sup>如皋</sup></small> ① 打谷场：庄稼上吖～。<sup>\[如皋\]</sup> ② 滨临江、河、湖、海边缘的陆地<sup>\[东台\]</sup>：海～线<sup>\[东台\]</sup>｜河～<sup>\[东台\]</sup>｜～边。<sup>\[东台\]</sup>  
+1. 【[岸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un.md#岸)】`un6` <small>/ũ6/<sup>兴化</sup>, /ʊ̃1/<sup>如皋</sup>, /ʊ̃1/<sup>泰兴</sup>, /õ1/<sup>泰县</sup></small> ① 岸，水边陆地：～上｜河～ ② 打谷场<sup>\[如皋\]</sup>：庄稼上吖～<sup>\[如皋\]</sup>  
 1. 【[岸草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_co.md#岸草)】`un6 co3` <sup>[如皋]</sup> 固岸草。常见有高岸草乌蓲、苮棵、芒棵；低岸草芦苇、红草。  
 1. 【[岸坎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_kun.md#岸坎)】`un6 kun3` <sup>[兴化]</sup> 河边的坡岸：～子地势低，雨季大半下水。｜只见满河是鸭……也有埋在～草窝里的……（马春阳：《“小没魂”放鸭》）  
 1. 【[岸上划船——行不通](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_shan_hua_chun.md#岸上划船——行不通)】`un6 shan6 hua2 chun2 xien2 beh7 ton1` <sup>[东台]</sup>   

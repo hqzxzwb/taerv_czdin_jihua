@@ -377,6 +377,7 @@
 1. 【[方样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_ian.md#方样)】`fan1 ian` <sup>[兴化]</sup> 性情乖戾、悭吝：他的东西别人碰不得，～吖没魂。  
 1. 【[方言](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_in.md#方言)】`fan1 in2` <sup>[东台]</sup> 地方语言跟标准语有区别的部分：江淮～；东台～。  
 1. 【[方圆桌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_iun_zhuah.md#方圆桌)】`fan1 iun2 zhuah7` <sup>[如皋]</sup> 方桌四边有活动边，镶上则成圆桌。另见“三折圆桌”。  
+1. 【[方块](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_kuae.md#方块)】`fan1 kuae5` 扑克牌中菱形花色，♦️  
 1. 【[方命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_mien.md#方命)】`fan1 mien6` <small>/fɑŋ1 miŋ1/<sup>泰兴</sup></small> 违命，抗命。乡人多指小儿不听话，自作游戏或调皮等，称为方命。也作“放命”。西乡人多用“犯犟”。<sup>\[泰兴\]</sup>  
 1. 【[方眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_ngaen_r.md#方眼<sub>儿</sub>)】`fan1 ngaen3 r` <sup>[如皋]</sup> 方孔。  
 1. 【[方屁眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_pi_ngaen.md#方屁眼)】`fan1 pi5 ngaen` <small>/fɑŋ1 pʰʝ5 ŋɛ̃/<sup>泰兴</sup></small> 制造障碍、爱执撬分的人。责人语。<sup>\[泰兴\]</sup>  

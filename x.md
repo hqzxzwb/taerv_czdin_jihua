@@ -786,7 +786,7 @@
 1. 【[心挂两头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_gua_laen_teu.md#心挂两头)】`xien1 gua5 laen3 teu2` <small>/ɕin1 kua5 lɛ̃3 tʰɤ2/<sup>兴化</sup>, /ɕiŋ1 kuɑ5 lɛ̃3 tʰəɪ2/<sup>泰兴</sup></small> ① 思想不集中，一心牵挂着多方面<sup>\[兴化\]</sup>：你不要～，一心把学习搞好就行吖。<sup>\[兴化\]</sup>｜傅抚院此时～，正在进退两难的时候……（《官场现形记》二二）‖也说“心挂两肠”。<sup>\[兴化\]</sup> ② 心里牵挂两处或者两个方面<sup>\[泰州\]</sup>：你最好把家搬到泰州来，省得你人～。<sup>\[泰州\]</sup> ③ 心中挂念多处的事情，注意力不能集中。<sup>\[泰兴\]</sup>：上班就要注意力集中，不能～<sup>\[泰兴\]</sup>  
 1. 【[心官塘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_gun_tan_r.md#心官塘<sub>儿</sub>)】`xien1 gun1 tan2 r` <sup>[如皋]</sup> 胸骨剑突区凹处。  
 1. 【[心官塘<sub>儿</sub>不得满](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_gun_tan_r.md#心官塘<sub>儿</sub>不得满)】`xien1 gun1 tan2 r beh7 deh7 mun3` <sup>[如皋]</sup> 人心难足。  
-1. 【[心肝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_gun.md#心肝)】`xien1 gun1` <sup>[如东]</sup> 心和肝是人维持生命的最重要的器官。比喻宝贝，多指小儿。  
+1. 【[心肝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_gun.md#心肝)】`xien1 gun1` <sup>[如东]</sup> 比喻宝贝，多指小儿。  
 1. 【[心肝脑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_gun_no_zz.md#心肝脑子)】`xien1 gun1 no3 zz` <sup>[如东]</sup> 中医认为，心主思维，肝主神明，表现为人的思维能力和理智：不晓得你说的是甚的～。  
 1. 【[心肝器<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_gun_qi_r.md#心肝器<sub>儿</sub>)】`xien1 gun1 qi5 r` <sup>[如东]</sup> 爱宠的小孩。  
 1. 【[心肝肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_gun_roh.md#心肝肉)】`xien1 gun1 roh8` <sup>[如东]</sup> 比喻心爱的小儿：毛毛是她的～。  
@@ -1443,6 +1443,7 @@
 1. 【[小衭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_fv.md#小衭)】`xio3 fv1` <sup>[如东]</sup> 上衣右襟罩在左襟上，左襟称小衭。  
 1. 【[小衭<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_fv_r.md#小衭<sub>儿</sub>)】`xio3 fv1 r` <sup>[如皋]</sup> 底襟。  
 1. 【[小衭头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_fv_teu.md#小衭头)】`xio3 fv1 teu2` <sup>[如皋]</sup> 底襟。  
+1. 【[小家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ga.md#小家)】`xio3 ga1` <small>/ɕiɔ3 kɑ1/<sup>泰兴</sup></small> 旧称妾。原配夫人称为“大（tu6）家”。<sup>\[泰兴\]</sup>  
 1. 【[小家伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ga_hu.md#小家伙)】`xio3 ga1 hu3` <sup>[如东]</sup> ① 年纪轻的人：他还是一个～。 ② 对年轻人的称呼：～，你也来参加吧！  
 1. 【[小家子气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ga_zz_qi.md#小家子气)】`xio3 ga1 zz qi5` <sup>[如东]</sup> ① 不大方：还是这吖～。 ② 气量小：不要这吖～。  
 1. 【[小解](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_gae.md#小解)】`xio3 gae3` <sup>[东台]</sup> 小便，解小手。  
@@ -1505,7 +1506,6 @@
 1. 【[小鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ji.md#小鸡)】`xio3 ji1` <sup>[如东]</sup> 孵出不久的幼鸡。也叫雏鸡。  
 1. 【[小鸡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ji_r.md#小鸡<sub>儿</sub>)】`xio3 ji1 r` <small>/ɕiɔ3 t͡ɕʝ˞1/<sup>如皋</sup>, /ɕiɔ3 t͡sɿ1 ɚ/<sup>泰县</sup></small> ① 小孩的阴茎。<sup>\[如皋\]</sup> ② 小鸡。<sup>\[泰县\]</sup>  
 1. 【[小蓟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_ji.md#小蓟)】`xio3 ji5` <sup>[如东]</sup> 菊科植物小蓟，又名刺秸，多年生草本。具长匍匐根。茎直立，高约50厘米。茎生叶互生，长椭圆形或长圆状披针形，无柄，两面披蛛丝状绵毛，全缘或有波状疏锯齿，齿端具刺。头状花序单生于茎顶。花冠紫红色，细管状。瘦果长椭圆形，淡褐色。生长在路旁、沟边、田间或荒丘。  
-1. 【[小家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_jia.md#小家)】`xio3 jia1` <sup>[泰兴]</sup> 旧称妾。原配夫人称为“大（tu6）家”。  
 1. 【[小家寒气的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_jia_hun_qi.md#小家寒气的)】`xio3 jia1 hun2 qi5 dii` <sup>[泰兴]</sup> 小气，不大方。  
 1. 【[小家子气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_jia_zz_qi.md#小家子气)】`xio3 jia1 zz qi5` <sup>[泰州]</sup> ① 小户人家气派，人之举止拘谨而不自然：这姑娘到底是大家人家出来的，没得点儿～。 ② 人使用钱财太过吝啬而不大方：这小伙工资这吖高，出这点钱也太～唻。  
 1. 【[小姐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_jia.md#小姐)】`xio3 jia3` ① 成年未嫁的姑娘。<sup>\[如东\]</sup> ② 对年轻女子的尊称。<sup>\[如东\]</sup> ③ 妓女，宋代始称妓女为“小姐”。<sup>\[泰州\]</sup>  

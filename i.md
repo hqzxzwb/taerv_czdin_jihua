@@ -2073,12 +2073,13 @@
 1. 【[壅土](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_tv.md#壅土)】`ion5 tv3` <sup>[如东]</sup> 一种耕作方法，把泥土壅在植物根部，可以防止倒伏，促进生长。也叫培土。  
 1. 【[佣人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_ren.md#佣人)】`ion6 ren2` <sup>[如东]</sup> 保姆，旧时叫佣人。  
 1. 【[佣小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_xio.md#佣小)】`ion6 xio3` <sup>[如皋]</sup> ① 男佣之童工。 ② 讽刺话、自嘲话。  
-1. 【[用饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_faen.md#用饭)】`ion6 faen6` <sup>[如东]</sup> 吃饭。  
+1. 【[用饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_faen.md#用饭)】`ion6 faen6` <small>/iɔŋ1 fɛ̃1/<sup>泰兴</sup></small> 吃饭<sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
 1. 【[用计](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_ji.md#用计)】`ion6 ji5` <sup>[如东]</sup> 运用计谋：这个人会～。  
 1. 【[用劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_jien.md#用劲)】`ion6 jien5` 用力，努力  
 1. 【[用钱掐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_qin_kaeh.md#用钱掐)】`ion6 qin2 kaeh7` <sup>[如皋]</sup> 花钱时不肯多支一分，使人觉得“小气”。  
 1. 【[用钱如舀水，寻钱如上山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_qin_rv_io.md#用钱如舀水，寻钱如上山)】`ion6 qin2 rv2 io3 shuei3 qien2 qin2 rv2 shan6 shaen1` <sup>[东台]</sup> 用钱容易挣钱难。  
 1. 【[用钱如𢼤水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_qin_rv_vaeh.md#用钱如𢼤水)】`ion6 qin2 rv2 vaeh8 shuei3` <sup>[如皋]</sup> 状用钱多而快。𢼤（vaeh8），倒。  
+1. 【[用人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_ren.md#用人)】`ion6 ren2` <small>/iɔŋ1 ɻəŋ2/<sup>泰兴</sup></small> 使用人力<sup>\[泰兴\]</sup>  
 1. 【[用神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_shen.md#用神)】`ion6 shen2` <small>/ioŋ6 sən2/<sup>兴化</sup>, /iɔŋ1 səŋ2/<sup>如皋</sup></small> ① 凝神、费神。<sup>\[如皋\]</sup> ② 费力气、花功夫<sup>\[兴化\]</sup>：他五上六上没得，专在“七”（吃）上～。<sup>\[兴化\]</sup>  
 1. 【[用水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_shuei.md#用水)】`ion6 shuei3` <small>/ioŋ6 suəi3/<sup>兴化</sup>, /iɔŋ1 suei3/<sup>如皋</sup>, /iɔŋ1 suəɪ3/<sup>泰兴</sup></small> ① 只用不吃的水。<sup>\[如皋\]</sup> ② 女性清洗下身的代称。<sup>\[如皋\]</sup> ③ 妇女洗屁股，叫做用水。<sup>\[如东\]</sup> ④ 用于洗涤、浇花等方面的水，区别于“吃水”。<sup>\[兴化\]</sup> ⑤ 讳饰词，妇女晚间的个人卫生<sup>\[兴化\]</sup>：玉米坐在床沿，关照她们几个～……（毕飞宇《玉米》）<sup>\[兴化\]</sup> ⑥ 指妇女个人卫生活动。<sup>\[泰州\]</sup> ⑦ 专门用于洗涤、浇灌花草之类用途的水，相对“吃水”<sup>\[泰州\]</sup>：这个缸里打过矾的是吃水，洗东西的～在那个缸里。<sup>\[泰州\]</sup> ⑧ 妇女晚间搞个人卫生的隐饰语。<sup>\[泰兴\]</sup>  
 1. 【[用死劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_sz_jien.md#用死劲)】`ion6 sz3 jien5` <sup>[如皋]</sup> 用尽全力。又作死用劲。  

@@ -479,6 +479,7 @@
 1. 【[扎头布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhaeh_teu_bv.md#扎头布)】`zhaeh7 teu2 bv5` <small>/t͡seʔ7 tʰei2 pu5/<sup>如皋</sup></small> ① 旧时妇女头帕。青色方块土布，结在脑后。<sup>\[如皋\]</sup> ② 旧时妇女使用的青色方形粗布头帕。<sup>\[如东\]</sup> ③ 扎头的方形或长方形的头巾或布。<sup>\[如东\]</sup>  
 1. 【[扎头巾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhaeh_teu_jien.md#扎头巾)】`zhaeh7 teu2 jien1` <sup>[如东]</sup> 扎头的毛巾。  
 1. 【[扎粽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhaeh_zon_zz.md#扎粽子)】`zhaeh7 zon5 zz` <sup>[如东]</sup> ① 包粽子。 ② 把人捆扎起来，抛入河水中，称扎粽子。  
+1. 【[眨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhaeh.md#眨)】`zhaeh7` <small>/t͡sæʔ7/<sup>兴化</sup>, /t͡seʔ7/<sup>如皋</sup>, /t͡ɕiæʔ7/<sup>泰兴</sup>, /t͡sæʔ7/<sup>泰县</sup></small> 眼睑一开一闭：～眼睛｜眼睛一～｜眼睛～咖～的  
 1. 【[眨眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhaeh_ngaen.md#眨眼)】`zhaeh7 ngaen3` ① 上下眼皮一开一合的动作。<sup>\[如东\]</sup> ② 形容时间极短<sup>\[东台\]</sup>：～工夫。<sup>\[东台\]</sup>  
 1. 【[眨眼成功](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhaeh_ngaen_chen_gon.md#眨眼成功)】`zhaeh7 ngaen3 chen2 gon1` <sup>[如皋]</sup> 状极快速地完成。  
 1. 【[眨眼翻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhaeh_ngaen_faen.md#眨眼翻)】`zhaeh7 ngaen3 faen1` <small>/t͡ɕiæʔ7 ŋɛ̃3 fɛ̃1/<sup>泰兴</sup></small> 反应灵敏迅速，能立即回答、应变。<sup>\[泰兴\]</sup>  
