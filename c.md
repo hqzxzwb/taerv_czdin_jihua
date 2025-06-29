@@ -678,6 +678,7 @@
 1. 【[唱独脚戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_toh_jiah_xi.md#唱独脚戏)】`chan5 toh8 jiah7 xi5` <sup>[东台]</sup> ［喻］一个人独自做某事。  
 1. 【[唱小戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_xio_xi.md#唱小戏)】`chan5 xio3 xi5` <sup>[泰县]</sup> 指除京剧外的其他地方剧种。  
 1. 【[唱主角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_zhv_gah.md#唱主角)】`chan5 zhv3 gah7` <sup>[东台]</sup> ［喻］担负主要任务或起主导作用：这个课题由你来～。  
+1. 【[畅心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_xien.md#畅心)】`chan5 xien1, tan5 xien1` <small>/t͡sʰɑŋ5 ɕiŋ1/<sup>泰兴</sup></small> 心情舒畅、愉快<sup>\[泰兴\]</sup>  
 1. 【[丈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan.md#丈)】`chan6` <small>/t͡sʰaŋ6/<sup>兴化</sup>, /t͡sʰɑŋ1/<sup>泰兴</sup>, /t͡sʰɑŋ1/<sup>泰县</sup></small> 量词，计量尿次<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>：一～尿。<sup>\[兴化\]</sup>｜上午他才屙啊一～尿。<sup>\[泰县\]</sup>  
 1. 【[丈尺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_cheh.md#丈尺)】`chan6 cheh7` <sup>[如东]</sup> 测量土地的一种工具。有丈杆和弓尺两种。  
 1. 【[丈二的和尚——摸不着头脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_er_dii_hu.md#丈二的和尚——摸不着头脑)】`chan6 er6 dii hu2 shan mah8 beh7 chah8 teu2 no3` <sup>[东台]</sup>   
