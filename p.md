@@ -40,8 +40,7 @@
 1. 【[爬爬虾<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_pa_xia_r.md#爬爬虾<sub>儿</sub>)】`pa2 pa2 xia1 r` <sup>[如东]</sup> 虾的一种。体小，灰褐色。生活在淡水中。可食。  
 1. 【[爬墙虎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_qian_hv.md#爬墙虎)】`pa2 qian2 hv3` <sup>[兴化]</sup> 即“爬山虎”，高攀的落叶藤木，攀缘茎，叶子椭圆形，绿色，攀缘在墙壁上或树上。  
 1. 【[爬山虎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_shaen_hv.md#爬山虎)】`pa2 shaen1 hv3` <small>/pʰa2 sẽ1 fu3/<sup>如皋</sup>, /pʰɑ2 ɕiɛ̃1 fʋ3/<sup>泰兴</sup></small> ① 常春藤。又名地锦。<sup>\[如皋\]</sup> ② 葡萄科植物爬山虎，又名地锦，落叶藤本，卷须短，多分枝，先端具粘性吸盘。<sup>\[如东\]</sup> ③ 一种贴壁攀爬生长的多年生落叶藤本植物。<sup>\[泰兴\]</sup>  
-1. 【[爬上落下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_shan_lah_ha.md#爬上落下)】`pa2 shan6 lah8 ha6` <sup>[兴化]</sup> 形容爬上爬下，不停折腾：小双儿和小羊角不断在各自妈的膝头上～。（马春阳《谁是妻子》）  
-1. 【[爬上落下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_shan_lah_ha.md#爬上落下)】`pa2 shan6 lah8 ha6` <small>/pʰɑ2 sɑŋ1 lɑʔ8 xɑ1/<sup>泰兴</sup></small> 上去下来不停；疼痛难忍在床上翻来覆去。<sup>\[泰兴\]</sup>  
+1. 【[爬上落下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_shan_lah_ha.md#爬上落下)】`pa2 shan6 lah8 ha6` <small>/pʰa2 saŋ6 laʔ8 xa6/<sup>兴化</sup>, /pʰɑ2 sɑŋ1 lɑʔ8 xɑ1/<sup>泰兴</sup></small> ① 形容爬上爬下，不停折腾<sup>\[兴化\]</sup>：小双儿和小羊角不断在各自妈的膝头上～。（马春阳《谁是妻子》）<sup>\[兴化\]</sup> ② 上去下来不停；疼痛难忍在床上翻来覆去。<sup>\[泰兴\]</sup>  
 1. 【[爬上落下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_shan_lah_xia.md#爬上落下)】`pa2 shan6 lah8 xia6` <sup>[泰州]</sup> 攀到高处后又降到低处，多指儿童手足不停地忽至高处忽至低处的顽皮行为：你看住你家孙子，～的，跌咖来不得了。  
 1. 【[爬塘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_tan_r.md#爬塘<sub>儿</sub>)】`pa2 tan2 r` <sup>[如皋]</sup> 芋头分蘖，长出新的鳞茎。  
 1. 【[爬藤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_ten.md#爬藤)】`pa2 ten2` <small>/pʰa2 tʰəŋ2/<sup>如皋</sup></small> ① 藤蔓生长铺展。<sup>\[如皋\]</sup> ② 藤蔓生长铺展。<sup>\[如东\]</sup>  

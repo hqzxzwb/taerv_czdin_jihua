@@ -1124,8 +1124,7 @@
 1. 【[和水做香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_shuei_zu_xian.md#和水做香)】`hu2 shuei3 zu5 xian1` <sup>[如皋]</sup> 粗略洗一下，并未洗浄。  
 1. 【[和头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_teu.md#和头)】`hu2 teu` <small>/xʊ2 tʰei/<sup>如皋</sup></small> ① 掺入的东西。<sup>\[如皋\]</sup> ② 衬菜<sup>\[如皋\]</sup>：炒肉丝可用笋瓜儿、韭菜、大椒、茭瓜、嫩黄豆等一到几种做～。<sup>\[如皋\]</sup>  
 1. 【[和淘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_to.md#和淘)】`hu2 to2` <small>/xʊ2 tʰɔ2/<sup>如皋</sup></small> ① 混和在一起。<sup>\[如东\]</sup>：她不能与大家～。<sup>\[如东\]</sup> ② 关系和谐。<sup>\[如皋\]</sup>  
-1. 【[和性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xien.md#和性)】`hu2 xien5` <sup>[如皋]</sup> 见“和暴”。  
-1. 【[和性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xien.md#和性)】`hu2 xien5` <small>/xɤɯ2 ɕiŋ5/<sup>泰兴</sup></small> 寒气渐消，天气转暖。<sup>\[泰兴\]</sup>  
+1. 【[和性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xien.md#和性)】`hu2 xien5` <small>/xʊ2 ɕiəŋ5/<sup>如皋</sup>, /xɤɯ2 ɕiŋ5/<sup>泰兴</sup></small> ① 见“和暴”。<sup>\[如皋\]</sup> ② 寒气渐消，天气转暖。<sup>\[泰兴\]</sup>  
 1. 【[回头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_teu.md#回头)】`hu2 teu2` <small>/xo2 tʰɤɯ2/<sup>泰县</sup></small> ① 等一会儿，过一段时间<sup>\[泰县\]</sup><sup>\[东台\]</sup><sup>\[泰州\]</sup>：我～晚上去玩。<sup>\[泰县\]</sup>｜我先走，你～把门窗关好<sup>\[东台\]</sup>｜你～早点儿去呀！<sup>\[东台\]</sup>｜我这一刻儿忙，你的事～再说。<sup>\[泰州\]</sup>｜你忙你的，我～再来。<sup>\[泰州\]</sup> ② 等一会儿，用于提示未来的后果、风险等可能性。<sup>\[泰县\]</sup>\[东台：似“否则”、“不然”。\]：快走！～要迟到<sup>\[东台\]</sup>｜多吃点儿，～肚里饿。<sup>\[东台\]</sup>｜～他不证明怎吖弄相？<sup>\[泰县\]</sup>  
 1. 【[河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu.md#河)】`hu2` <sup>[如东]</sup> 在陆地上，天然或人工开凿的大水道，称河。  
 1. 【[河帮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_ban_zz.md#河帮子)】`hu2 ban1-3 zz` <sup>[泰县]</sup> 小沟岸。  
@@ -1284,19 +1283,16 @@
 1. 【[火烛小心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_zhoh_xio_xien.md#火烛小心)】`hu3 zhoh7 xio3 xien1` <sup>[如皋]</sup> 一首民歌，提醒注意防火。  
 1. 【[火种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_zhon.md#火种)】`hu3 zhon3` <sup>[如皋]</sup> 旧时取火难，民间常以耐燃物阴燃，留作火源，谓之～。如豆稭火中放一枚核桃，用灰盖紧，可阴燃12小时，保证随时取火。  
 1. 【[火纸筒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_zhr_ton_zz.md#火纸筒子)】`hu3 zhr3 ton3 zz` <sup>[兴化]</sup> 用涂过硝的火纸（表芯纸）搓成的细卷（硭子），供引火或点水烟用：又一个是卖～的。这人姓王……（《儒林外史》五五）  
-1. 【[货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu.md#货)】`hu5` 低价卖给别人  
-1. 【[货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu.md#货)】`hu5` <small>/xɤɯ5/<sup>泰兴</sup></small> 货物；商品<sup>\[泰兴\]</sup>：进～<sup>\[泰兴\]</sup>｜出～<sup>\[泰兴\]</sup>  
+1. 【[货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu.md#货)】`hu5` <small>/xɤɯ5/<sup>泰兴</sup></small> ① 低价卖给别人 ② 货物；商品<sup>\[泰兴\]</sup>：进～<sup>\[泰兴\]</sup>｜出～<sup>\[泰兴\]</sup>  
 1. 【[货船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_chun.md#货船)】`hu5 chun2` <sup>[如东]</sup> 装载货物的运输船。  
 1. 【[货到地头死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_do_ti_teu.md#货到地头死)】`hu5 do5 ti6 teu2 sz3` <sup>[兴化]</sup> 商品的集散地左右价格水平：这个价码他不卖，运到上海，还是这个价，～呀！  
 1. 【[货样三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_ian_saen.md#货样三)】`hu5 ian6 saen1` <sup>[如皋]</sup> 贬指某种花样、手法：看他玩甚的～？又称买卖三。  
 1. 【[货源](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_iun.md#货源)】`hu5 iun2` <sup>[如东]</sup> 物资的来源：～很多。  
 1. 【[货柜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_kuei.md#货柜)】`hu5 kuei6` <sup>[如皋]</sup> 商店装货物的柜子。  
 1. 【[货笿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_lah_r.md#货笿<sub>儿</sub>)】`hu5 lah8 r` <sup>[如皋]</sup> 挑运用的绳网。网底呈田字，有长系，一付两只。  
-1. 【[货郎担子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_lan_daen_zz.md#货郎担子)】`hu5 lan2 daen5 zz` <sup>[如皋]</sup> 挑担叫卖斫糖及小五洋杂货等的小贩。  
-1. 【[货郎担子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_lan_daen_zz.md#货郎担子)】`hu5 lan2 daen5 zz` <small>/xɤɯ5 lɑŋ2 tɛ̃5 t͡sɿ/<sup>泰兴</sup></small> 出售小百货的流动商贩的担子。也指货郎。<sup>\[泰兴\]</sup>  
+1. 【[货郎担子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_lan_daen_zz.md#货郎担子)】`hu5 lan2 daen5 zz` <small>/xʊ5 lã2 tẽ5 t͡sɿ/<sup>如皋</sup>, /xɤɯ5 lɑŋ2 tɛ̃5 t͡sɿ/<sup>泰兴</sup></small> ① 挑担叫卖斫糖及小五洋杂货等的小贩。<sup>\[如皋\]</sup> ② 出售小百货的流动商贩的担子。也指货郎。<sup>\[泰兴\]</sup>  
 1. 【[货郎笛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_lan_tieh_zz.md#货郎笛子)】`hu5 lan2 tieh8 zz` <sup>[如皋]</sup> 货郎一边走一边吹单手控音的竖笛，三孔四音（1235）。  
-1. 【[货色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_seh.md#货色)】`hu5 seh7` <sup>[如东]</sup> ① 货物（就品种和质量而说）：这是一批好～。 ② 比喻人的学问、作品等：陈宏肚子里有～。  
-1. 【[货色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_seh.md#货色)】`hu5 seh7` <small>/xɤɯ5 səʔ7/<sup>泰兴</sup></small> ① 货物的品种、质量<sup>\[泰兴\]</sup> ② 对人的蔑称<sup>\[泰兴\]</sup>  
+1. 【[货色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_seh.md#货色)】`hu5 seh7` <small>/xɤɯ5 səʔ7/<sup>泰兴</sup></small> ① 货物（就品种和质量而说）。<sup>\[如东\]</sup>：这是一批好～。<sup>\[如东\]</sup> ② 比喻人的学问、作品等。<sup>\[如东\]</sup>：陈宏肚子里有～。<sup>\[如东\]</sup> ③ 货物的品种、质量<sup>\[泰兴\]</sup> ④ 对人的蔑称<sup>\[泰兴\]</sup>  
 1. 【[货瘟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_ven.md#货瘟)】`hu5 ven1` <sup>[如东]</sup> 商品价格下跌：今朝～，卖不起钱来。  
 1. 【[货问三家不吃亏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_ven_saen_ga.md#货问三家不吃亏)】`hu5 ven6 saen1 ga1 beh7 qieh7 kuei1` <sup>[如皋]</sup> 多比较总能买到好的。  
 1. 【[𦽅凉水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_lian_shuei.md#𦽅凉水)】`hu5 lian2 shuei3` <sup>[如皋]</sup> 夏季的一种清凉饮料，由凉开水加薄荷（蔢𦽅）脑儿、香精、糖精、色素配制而成。  

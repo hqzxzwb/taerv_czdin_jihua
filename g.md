@@ -660,8 +660,7 @@
 1. 【[狗不肏娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_beh_reh_nian.md#狗不肏娘)】`geu3 beh7 reh8 nian2` <sup>[如东]</sup> 比喻非常疲劳，非常狼狈：今朝下海，做啊～的。  
 1. 【[狗屄衙门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_bi_ia_men.md#狗屄衙门)】`geu3 bi1 ia2 men2` <sup>[如东]</sup> 比喻某些人或单位只进不出的思想作风。  
 1. 【[狗鳖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_bih_zz.md#狗鳖子)】`geu3 bih7 zz` <sup>[如皋]</sup> 狗虱。  
-1. 【[狗宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_bo.md#狗宝)】`geu3 bo3` <sup>[如东]</sup> 犬科动物狗胃中的结石。  
-1. 【[狗宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_bo.md#狗宝)】`geu3 bo3` <small>/kəɪ3 pɔ3/<sup>泰兴</sup></small> 狗的胆囊、肾脏或膀胱结石，中医用于治痈疮、噎嗝等病。<sup>\[泰兴\]</sup>  
+1. 【[狗宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_bo.md#狗宝)】`geu3 bo3` <small>/kəɪ3 pɔ3/<sup>泰兴</sup></small> ① 狗胃中的结石。<sup>\[如东\]</sup> ② 狗的胆囊、肾脏或膀胱结石，中医用于治痈疮、噎嗝等病。<sup>\[泰兴\]</sup>  
 1. 【[狗二的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_er_dii.md#狗二的)】`geu3 er6 dii` <sup>[如皋]</sup> “肏”转为“二”，俏骂语。  
 1. 【[狗哼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_hen.md#狗哼)】`geu3 hen1` <sup>[兴化]</sup> 对哼、唱的贬义说法：饿得～；疼得～；热得～｜“从来南曲没有唱得这等妙的……如今京师虽有数十班，总似～一般。”（《梼杌闲评》七）  
 1. 【[狗獾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_hun.md#狗獾)】`geu3 hun1` <sup>[如东]</sup> 鼬科动物狗獾，体较肥大，身长55厘米。  
@@ -685,8 +684,7 @@
 1. 【[狗屁捣糙的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_pi_do_co.md#狗屁捣糙的)】`geu3 pi do3 co5 dii` <sup>[如皋]</sup> 状满口粗言秽语，人品粗鄙猥琐：他这个人～，我不睬他。  
 1. 【[狗皮倒到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_pi_do_do.md#狗皮倒到)】`geu3 pi2 do5 do5` <sup>[兴化]</sup> 见“狗皮倒灶”。  
 1. 【[狗皮倒灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_pi_do_zo.md#狗皮倒灶)】`geu3 pi2 do5 zo5` <sup>[兴化]</sup> 唠唠叨叨，找麻烦‖也说“狗皮倒倒。”：他经常来～的。｜你少要～的。  
-1. 【[狗皮膏药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_pi_go_iah.md#狗皮膏药)】`geu3 pi2 go1 iah` <sup>[东台]</sup> ［喻］骗人的货色。  
-1. 【[狗皮膏药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_pi_go_iah.md#狗皮膏药)】`geu3 pi2 go1 iah` <small>/kəɪ3 pʰʝ2 kɔ1 iɑʔ/<sup>泰兴</sup></small> 中医外用膏药。将药齊涂在小块狗皮上制成，能消淤止疼。旧时走江湖的人常假造狗皮膏药来骗取钱财，因用以比喻骗人的货色。<sup>\[泰兴\]</sup>  
+1. 【[狗皮膏药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_pi_go_iah.md#狗皮膏药)】`geu3 pi2 go1 iah` <small>/kəɪ3 pʰʝ2 kɔ1 iɑʔ/<sup>泰兴</sup></small> ① ［喻］骗人的货色。<sup>\[东台\]</sup> ② 中医外用膏药。将药齊涂在小块狗皮上制成，能消淤止疼。旧时走江湖的人常假造狗皮膏药来骗取钱财，因用以比喻骗人的货色。<sup>\[泰兴\]</sup>  
 1. 【[狗蜱子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_pi_zz.md#狗蜱子)】`geu3 pi2 zz` <sup>[如东]</sup> 寄生在狗身上的一种蜱，灰褐色，略呈圆形，吸狗的血液。也叫狗鳖子、狗豆子。  
 1. 【[狗屁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_pi.md#狗屁)】`geu3 pi5` <small>/kəɪ3 pʰʝ5/<sup>泰兴</sup></small> ① 比喻毫无用处。<sup>\[如东\]</sup>：放～！<sup>\[如东\]</sup> ② ［喻］指毫无价值。<sup>\[东台\]</sup> ③ 骂人语。比喻荒谬低劣、毫无价值的言词或事物。<sup>\[泰兴\]</sup>  
 1. 【[狗屁叨叨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_pi_do_do.md#狗屁叨叨)】`geu3 pi5 do1 do1` <sup>[泰州]</sup> 詈词，骂人没完没了地说荒谬低劣的话：你上班迟到，领导批评你两句，你～的，想领导再凶你两句啊？  
@@ -701,8 +699,7 @@
 1. 【[狗肏淡皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_reh_taen_pi.md#狗肏淡皮)】`geu3 reh8 taen6 pi2` <sup>[兴化]</sup> 原为国画技法“勾勒淡批”，讹变为市井语，意为无聊、没意思：有些胡编乱造的电视剧～，没得看头。  
 1. 【[狗肏淡屁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_reh_taen_pi.md#狗肏淡屁)】`geu3 reh8 taen6 pi5` <sup>[东台]</sup> 没有意义，不值一提。  
 1. 【[狗肉账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_roh_zhan.md#狗肉账)】`geu3 roh8 zhan5` <small>/kɤ3 lɔʔ8 t͡saŋ5/<sup>兴化</sup>, /kəɪ3 ɻɔʔ8 t͡sɑŋ5/<sup>泰兴</sup></small> ① 指鸡零狗碎的日用账，也指随手记载的收支账目<sup>\[兴化\]</sup>：他这本～旁人看不懂。<sup>\[兴化\]</sup> ② 坊间传说济公特别嗜好烧酒、狗肉，经常要大官、财主为其付账，后来遂以“狗肉账”比喻零零碎碎的吃喝账<sup>\[泰州\]</sup>：他出到差，这些乱七八糟的～就多啊不得命，哪一趟不要报个几千块钱。<sup>\[泰州\]</sup> ③ 谓账本记载零碎而紊乱，看不出头绪。<sup>\[泰兴\]</sup>  
-1. 【[狗屎烂臭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_shr_laen_cheu.md#狗屎烂臭)】`geu3 shr3 laen6 cheu5` <sup>[东台]</sup> ［喻］令人不齿的人和事。  
-1. 【[狗屎烂臭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_shr_laen_cheu.md#狗屎烂臭)】`geu3 shr3 laen6 cheu5` <small>/kəɪ3 sɿ3 lɛ̃1 t͡ɕʰiɤɯ5/<sup>泰兴</sup></small> 喻无人再愿理睬。多指人反复啰嗦穷嘴。<sup>\[泰兴\]</sup>：话说三遍，～<sup>\[泰兴\]</sup>  
+1. 【[狗屎烂臭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_shr_laen_cheu.md#狗屎烂臭)】`geu3 shr3 laen6 cheu5` <small>/kəɪ3 sɿ3 lɛ̃1 t͡ɕʰiɤɯ5/<sup>泰兴</sup></small> ① ［喻］令人不齿的人和事。<sup>\[东台\]</sup> ② 喻无人再愿理睬。多指人反复啰嗦穷嘴。<sup>\[泰兴\]</sup>：话说三遍，～<sup>\[泰兴\]</sup>  
 1. 【[狗屎螺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_shr_lu_r.md#狗屎螺<sub>儿</sub>)】`geu3 shr3 lu1 r` 蜗牛  
 1. 【[狗屎麻塘的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_shr_ma_tan.md#狗屎麻塘的)】`geu3 shr3 ma2 tan2 dii` <sup>[如皋]</sup> ① 胡扯蛮缠：你跟他谈话，他同你～，没处弄！ ② 事情办糟、办砸、不道地：事情办得～。  
 1. 【[狗事麻缠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_shr_ma_chin.md#狗事麻缠)】`geu3 shr6 ma2 chin6` <sup>[东台]</sup> （詈语）本应回避或远离某人或某物，却去亲近或撩逗引起麻烦：不要同醉汉～的。  
@@ -1413,8 +1410,7 @@
 1. 【[刮油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaeh_ieu.md#刮油)】`guaeh7 ieu2` <sup>[东台]</sup> 指占小便宜。  
 1. 【[刮浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaeh_jian.md#刮浆)】`guaeh7 jian1` <sup>[东台]</sup> 在丝织品等软布料背面涂上稀薄的浆糊，便于裁剪缝制。  
 1. 【[刮叫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaeh_jio.md#刮叫)】`guaeh7 jio5` <sup>[兴化]</sup> 好‖也说“刮刮叫”：养和园的点心～。  
-1. 【[刮鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaeh_pieh_zz.md#刮鼻子)】`guaeh7 pieh8 zz` <sup>[泰州]</sup> 用手刮对方鼻子，表示惩罚对方，多用于游戏时对输者的惩罚：今朝晚上打扑克，不来钱，哪个输掉就～。  
-1. 【[刮鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaeh_pieh_zz.md#刮鼻子)】`guaeh7 pieh8 zz` <small>/kuæʔ7 pʰiʔ8 t͡sɿ/<sup>泰兴</sup></small> 以手指刮他人的鼻梁，表示戏弄、贵罚。有时亦指批评。<sup>\[泰兴\]</sup>  
+1. 【[刮鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaeh_pieh_zz.md#刮鼻子)】`guaeh7 pieh8 zz` <small>/kuæʔ7 pʰiʔ8 t͡sɿ/<sup>泰兴</sup></small> ① 用手刮对方鼻子，表示惩罚对方，多用于游戏时对输者的惩罚<sup>\[泰州\]</sup>：今朝晚上打扑克，不来钱，哪个输掉就～。<sup>\[泰州\]</sup> ② 以手指刮他人的鼻梁，表示戏弄、贵罚。有时亦指批评。<sup>\[泰兴\]</sup>  
 1. 【[刮刨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaeh_po.md#刮刨)】`guaeh7 po6` <sup>[兴化]</sup> 木工用来刨圆（弧）形构件的刨子：……桶匠使刨子是往后拉。因为盆桶是圆的，这么使才方便，这种刨子叫做～。（汪《故里杂记》）  
 1. 【[刮人（子）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaeh_ren.md#刮人（子）)】`guaeh7 ren （zz）` <sup>[如皋]</sup> 胃中绞痛或像被刮一样的疼：肚里～。  
 1. 【[刮痧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaeh_sha.md#刮痧)】`guaeh7 sha1` <sup>[泰州]</sup> 民间治疗中暑、胃炎、肠炎、肢麻等病患的一种方法，用铜钱、光边瓷器蘸水或者油刮患者的颈、胸、背、肋等处，使之局部皮肤充血，从而减轻内部炎症。  
@@ -1796,8 +1792,7 @@
 1. 【[佮鞋绳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_hae_shen_r.md#佮鞋绳<sub>儿</sub>)】`guh7 hae2 shen2 r` <sup>[如皋]</sup> 见“佮线”。  
 1. 【[佮伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_hu.md#佮伙)】`guh7 hu3` ① 合作 ② 聚合在一起吃饭、干事。<sup>\[东台\]</sup> ③ 多人合资经营<sup>\[泰州\]</sup>：这个店是他俫三个人～弄的。<sup>\[泰州\]</sup> ④ 玩扑克牌、麻将之类游戏时，其中几人联手对付另外的人<sup>\[泰州\]</sup>：做块儿大牌儿弄吖玩的，说咖好啊不带～。<sup>\[泰州\]</sup>  
 1. 【[佮伙养性命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_hu_ian_xien.md#佮伙养性命)】`guh7 hu3 ian3 xien5 mien6` <sup>[东台]</sup> 相互帮助，共渡难关。  
-1. 【[佮药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_iah.md#佮药)】`guh7 iah8` <sup>[东台]</sup> 旧时中药铺代为加工粉、散、膏剂，将各味药材分别粉碎，和在一起，称之为～。  
-1. 【[佮药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_iah.md#佮药)】`guh7 iah8` <small>/kʊʔ7 iɑʔ8/<sup>泰兴</sup></small> 买药；取药<sup>\[泰兴\]</sup>  
+1. 【[佮药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_iah.md#佮药)】`guh7 iah8` <small>/kʊʔ7 iɑʔ8/<sup>泰兴</sup></small> ① 旧时中药铺代为加工粉、散、膏剂，将各味药材分别粉碎，和在一起，称之为～。<sup>\[东台\]</sup> ② 买药；取药<sup>\[泰兴\]</sup>  
 1. 【[佮养的猪子不得大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_ian_dii_zhv.md#佮养的猪子不得大)】`guh7 ian3 dii zhv1 zz beh7 deh7 da6` <sup>[东台]</sup> 如果责任不明相互扯皮，合作就没有好效果。  
 1. 【[佮一条裤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_ieh_tio_kv.md#佮一条裤子)】`guh7 ieh7 tio2 kv5 zz` <small>/kʊʔ7 iʔ7 tʰiɔ2 kʰu5 t͡sɿ/<sup>泰兴</sup></small> 比喻两人看法相同，行动一致。喻气味相投。多含贬义。<sup>\[泰兴\]</sup>  
 1. 【[佮用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_ion.md#佮用)】`guh7 ion6` <sup>[泰州]</sup> 多人轮流使用同一物品：手巾、脚布不能～，要各用各的。  

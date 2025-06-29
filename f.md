@@ -473,8 +473,7 @@
 1. 【[放汽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_qi.md#放汽)】`fan5 qi5` <sup>[兴化]</sup> 鸣放汽笛：加工厂～，工人下班吖。轮船～，快到岸吖。  
 1. 【[放樯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_qian.md#放樯)】`fan5 qian2` <sup>[如东]</sup> 帆船上的桅樯放倒，称放樯。  
 1. 【[放抢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_qian.md#放抢)】`fan5 qian3` <small>/fã5 t͡ɕʰiã3/<sup>如皋</sup></small> ① 抢购商品。<sup>\[如东\]</sup>：今天菠菜～。<sup>\[如东\]</sup> ② 一齐闹事，发展为抢劫。<sup>\[如皋\]</sup> ③ 喻抢购。<sup>\[如皋\]</sup>  
-1. 【[放轻巧屁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_qien_qio_pi.md#放轻巧屁)】`fan5 qien1 qio pi5` <sup>[东台]</sup> ［喻］戏言话说得太轻巧，事非经过不知难。  
-1. 【[放轻巧屁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_qien_qio_pi.md#放轻巧屁)】`fan5 qien1 qio pi5` <small>/fɑŋ5 t͡ɕʰiŋ1 t͡ɕʰiɔ pʰʝ5/<sup>泰兴</sup></small> 骂人语。喻看着他人做事，说过分无关紧要的风凉话。<sup>\[泰兴\]</sup>：吃的灯草灰，放的轻巧屁。<sup>\[泰兴\]</sup>  
+1. 【[放轻巧屁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_qien_qio_pi.md#放轻巧屁)】`fan5 qien1 qio pi5` <small>/fɑŋ5 t͡ɕʰiŋ1 t͡ɕʰiɔ pʰʝ5/<sup>泰兴</sup></small> ① ［喻］戏言话说得太轻巧，事非经过不知难。<sup>\[东台\]</sup> ② 骂人语。喻看着他人做事，说过分无关紧要的风凉话。<sup>\[泰兴\]</sup>：吃的灯草灰，放的轻巧屁。<sup>\[泰兴\]</sup>  
 1. 【[放钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_qin.md#放钱)】`fan5 qin2` <sup>[如东]</sup> 放高利贷。  
 1. 【[放撬子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_qio_zz.md#放撬子)】`fan5 qio5 zz` <sup>[如东]</sup> 在人走路时，伸出一只脚把他绊倒，叫做放撬子。  
 1. 【[放赦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_sha.md#放赦)】`fan5 sha5` <small>/faŋ5 sa5/<sup>兴化</sup>, /fã5 sa5/<sup>如皋</sup></small> ① 出门玩耍，无人管束。<sup>\[如东\]</sup> ② 放开限制，无拘无束。<sup>\[如皋\]</sup> ③ 得到赦免<sup>\[兴化\]</sup>：且说李平山就如～一般，回到本船之上。（《三侠五义》九五）<sup>\[兴化\]</sup> ④ （借）解除约束<sup>\[兴化\]</sup>：放暑假就像～，他不晓得怎吖玩法才好。<sup>\[兴化\]</sup>  
@@ -764,18 +763,14 @@
 1. 【[服降](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_qian.md#服降)】`foh8 qian2` <sup>[泰州]</sup> 承认对方能力、水平高于自己而佩服，服气。  
 1. 【[服软](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_run.md#服软)】`foh8 run3` <small>/fɔʔ8 ɻʊ̃3/<sup>泰兴</sup></small> 犹认输、认错。服从劝说。<sup>\[泰兴\]</sup>：～不服硬<sup>\[泰兴\]</sup>  
 1. 【[服软不服硬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_run_beh_foh.md#服软不服硬)】`foh8 run3 beh7 foh8 ngen6` <sup>[东台]</sup> 对委婉的批评、劝导可以接受，对强烈的指责反而抵制：这小伙～，要注意相处方法。  
-1. 【[服侍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_shr.md#服侍)】`foh8 shr` <sup>[兴化]</sup> 反语——对付。也作“伏侍”：那个歹徒太凶狠，几个民警～一个，才把他制伏。  
-1. 【[服侍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_shr.md#服侍)】`foh8 shr` <small>/fɔʔ8 sɿ/<sup>泰兴</sup></small> 侍候，照料。<sup>\[泰兴\]</sup>  
+1. 【[服侍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_shr.md#服侍)】`foh8 shr` <small>/fɔʔ8 sɿ/<sup>兴化</sup>, /fɔʔ8 sɿ/<sup>泰兴</sup></small> ① 反语——对付。也作“伏侍”。<sup>\[兴化\]</sup>：那个歹徒太凶狠，几个民警～一个，才把他制伏。<sup>\[兴化\]</sup> ② 侍候，照料。<sup>\[泰兴\]</sup>  
 1. 【[服侍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_shr.md#服侍)】`foh8 shr5` <sup>[东台]</sup> 照料、照应、侍候。  
 1. 【[服侍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_shr.md#服侍)】`foh8 shr6` <sup>[泰州]</sup> 在尊长、老人或者病人身边照料生活起居：他家老的住院，老李请吖假在医院里～。  
-1. 【[服输](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_shv.md#服输)】`foh8 shv1` <sup>[如皋]</sup> 认输。  
-1. 【[服输](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_shv.md#服输)】`foh8 shv1` <small>/fɔʔ8 su1/<sup>泰兴</sup></small> 认输，承认失败。<sup>\[泰兴\]</sup>  
+1. 【[服输](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_shv.md#服输)】`foh8 shv1` <small>/fɔʔ8 su1/<sup>如皋</sup>, /fɔʔ8 su1/<sup>泰兴</sup></small> 认输。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
 1. 【[服头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_teu.md#服头)】`foh8 teu2` <small>/fɔʔ8 tʰɤ2/<sup>兴化</sup></small> ① 渐渐适应<sup>\[兴化\]</sup>：他才调到基层工作不安心，慢慢的才～。<sup>\[兴化\]</sup> ② 经过一段时间以后，最初出现的不适应或者不习惯的情况，逐渐适应<sup>\[泰州\]</sup>：你才到泰州来生活，总有些不～，过些时候适应吖就没事唻。<sup>\[泰州\]</sup>  
-1. 【[服帖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_tih.md#服帖)】`foh8 tih7` <sup>[东台]</sup> ① 顺从、驯服：他有本领，调皮的人到他跟前都～得很。 ② 妥当，平稳：交他办的事没得哪桩不～。  
-1. 【[服帖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_tih.md#服帖)】`foh8 tih7` <small>/fɔʔ8 tʰiʔ7/<sup>泰兴</sup></small> 驯服，敬服。服服帖贴。<sup>\[泰兴\]</sup>  
+1. 【[服帖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_tih.md#服帖)】`foh8 tih7` <small>/fɔʔ8 tʰiʔ7/<sup>泰兴</sup></small> ① 顺从、驯服<sup>\[东台\]</sup>：他有本领，调皮的人到他跟前都～得很。<sup>\[东台\]</sup> ② 妥当，平稳<sup>\[东台\]</sup>：交他办的事没得哪桩不～。<sup>\[东台\]</sup> ③ 驯服，敬服。服服帖贴。<sup>\[泰兴\]</sup>  
 1. 【[服下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_xia.md#服下)】`foh8 xia6` <sup>[如皋]</sup> 认输。  
-1. 【[服降](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_xian.md#服降)】`foh8 xian2` <sup>[如皋]</sup> 认输，承认输了。  
-1. 【[服降](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_xian.md#服降)】`foh8 xian2` <small>/fɔʔ8 ɕiɑŋ2/<sup>泰兴</sup></small> 本指屈膝投降，乡人则指服软、认输等意。<sup>\[泰兴\]</sup>  
+1. 【[服降](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_xian.md#服降)】`foh8 xian2` <small>/fɔʔ8 t͡ɕʰiã2/<sup>如皋</sup>, /fɔʔ8 ɕiɑŋ2/<sup>泰兴</sup></small> ① 认输，承认输了。<sup>\[如皋\]</sup> ② 本指屈膝投降，乡人则指服软、认输等意。<sup>\[泰兴\]</sup>  
 1. 【[服周](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_zheu.md#服周)】`foh8 zheu1` <small>/fɔʔ8 t͡sɤ1/<sup>兴化</sup></small> ① 服输；服气。参见“服赌”和“不服周”。<sup>\[东台\]</sup> ② 即伏死。“周”为“周而复始”的首字，“始”与“死”同音<sup>\[兴化\]</sup>：你不～，板砖头砸天去！<sup>\[兴化\]</sup>  
 1. 【[丰利场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_li_chan.md#丰利场)】`fon1 li6 chan2` <sup>[如东]</sup> 宋太祖赵匡胤乾德年间（967年），建立如皋县丰利盐场。面积805平方公里。隶属于淮南东路泰州军。民国元年（1912年），丰利场并入掘港场，称丰掘场。  
 1. 【[丰利镇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_li_zhen.md#丰利镇)】`fon1 li6 zhen5` <sup>[如东]</sup> 如东古镇。唐代，为沿海村。相传唐·睿宗太极年间（712年），大圣寺旁边生长着两棵枫树，故名“枫树镇”“古枫镇”，后取丰利之义，名丰利镇。  

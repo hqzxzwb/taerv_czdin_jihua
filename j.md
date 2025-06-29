@@ -148,15 +148,13 @@
 1. 【[挤七轧八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_qieh_kaeh_baeh.md#挤七轧八)】`ji3 qieh7 kaeh8 baeh7` <sup>[如东]</sup> 拥挤不堪：人多，～的，进不去。  
 1. 【[挤人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ren_zz.md#挤人子)】`ji3 ren zz` <sup>[如皋]</sup> 被挤得难受。  
 1. 【[挤扎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zhaeh.md#挤扎)】`ji3 zhaeh7` <sup>[泰县]</sup> 不肯宽容别人。  
-1. 【[虮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zz.md#虮子)】`ji3 zz` <small>/t͡ɕʝ3 t͡sɿ/<sup>如皋</sup>, /t͡ɕʝ3 t͡sɿ/<sup>泰兴</sup></small> 虱子的卵。<sup>\[如东\]</sup><sup>\[如皋\]</sup>\[泰兴：常比喻微细的事物。\]  
-1. 【[虮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zz.md#虮子)】`ji3 zz` <sup>[东台]</sup> 虱子的卵。  
+1. 【[虮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zz.md#虮子)】`ji3 zz` <small>/t͡ɕʝ3 t͡sɿ/<sup>如皋</sup>, /t͡ɕʝ3 t͡sɿ/<sup>泰兴</sup></small> 虱子的卵。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup>\[泰兴：常比喻微细的事物。\]  
 1. 【[㾵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#㾵)】`ji5` <sup>[如皋]</sup> 表皮的天然色斑（脸部另称）。有黑、青、紫、红等色。胎记。  
 1. 【[㾵识](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_sheh.md#㾵识)】`ji5 sheh7` <sup>[如皋]</sup> 胎记。一般写“记识”。  
 1. 【[季抄牙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_cho_nga.md#季抄牙)】`ji5 cho1 nga2` <sup>[如东]</sup> 门牙排列不齐，叫做季抄牙。  
 1. 【[季家市到黄桥——二十五](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ga_shr_do.md#季家市到黄桥——二十五)】`ji5 ga shr6 do5 huan2 qio er6 sheh v3` <sup>[泰兴]</sup>   
 1. 【[季节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_jih.md#季节)】`ji5 jih7` <sup>[如东]</sup> 一年里某个特定的时期：农忙～。  
-1. 【[季节不饶人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_jih_beh_ro.md#季节不饶人)】`ji5 jih7 beh7 ro2 ren2` <sup>[东台]</sup> 农谚，种庄稼要遵循其客观规律，不能耽误农时。  
-1. 【[季节不饶人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_jih_beh_ro.md#季节不饶人)】`ji5 jih7 beh7 ro2 ren2` <small>/t͡ɕʝ5 t͡ɕiʔ7 pəʔ7 ɻɔ2 ɻəŋ2/<sup>泰兴</sup></small> 按一年四季安排农事，过了季节会失收，故云。<sup>\[泰兴\]</sup>  
+1. 【[季节不饶人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_jih_beh_ro.md#季节不饶人)】`ji5 jih7 beh7 ro2 ren2` <small>/t͡ɕʝ5 t͡ɕiʔ7 pəʔ7 ɻɔ2 ɻəŋ2/<sup>泰兴</sup></small> ① 农谚，种庄稼要遵循其客观规律，不能耽误农时。<sup>\[东台\]</sup> ② 按一年四季安排农事，过了季节会失收，故云。<sup>\[泰兴\]</sup>  
 1. 【[季节工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_jih_gon.md#季节工)】`ji5 jih7 gon1` <sup>[如东]</sup> 用工制度的一种。按照季节参加企业劳动的工人。  
 1. 【[寄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#寄)】`ji5` <sup>[如东]</sup> 东西暂时放在这里：我东西～你家。  
 1. 【[济](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#济)】`ji5` 左（手）。吴语区是尖音，所以不写成“季”。  
@@ -896,8 +894,7 @@
 1. 【[金鱼虫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_y_chon_zz.md#金鱼虫子)】`jien1 y2 chon2 zz` <sup>[兴化]</sup> 水蚤，可作金鱼的饵料。  
 1. 【[金鱼眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_y_ngaen.md#金鱼眼)】`jien1 y2 ngaen3` <small>/t͡ɕin1 y2 ɛ̃3/<sup>兴化</sup></small> ① （喻）形容突出的眼球。<sup>\[兴化\]</sup> ② 指微凸的眼球<sup>\[泰州\]</sup>：他这个～看上去不讨喜。<sup>\[泰州\]</sup>  
 1. 【[金汁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zheh.md#金汁)】`jien1 zheh7` <sup>[兴化]</sup> ① 指粪尿。 ② 对水的贬义说法：～子。  
-1. 【[金针](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zhen.md#金针)】`jien1 zhen1` <sup>[东台]</sup> 黄花菜的花，可作食物：～炒木耳。  
-1. 【[金针](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zhen.md#金针)】`jien1 zhen1` <small>/t͡ɕiŋ1 t͡səŋ1/<sup>泰兴</sup></small> 金针菜，多年生宿根草本植物。因其花蕾黄色，形似金针，故名。乡间的一种受欢迎的蔬菜。<sup>\[泰兴\]</sup>  
+1. 【[金针](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zhen.md#金针)】`jien1 zhen1` <small>/t͡ɕiŋ1 t͡səŋ1/<sup>泰兴</sup></small> ① 黄花菜的花，可作食物<sup>\[东台\]</sup>：～炒木耳。<sup>\[东台\]</sup> ② 金针菜，多年生宿根草本植物。因其花蕾黄色，形似金针，故名。乡间的一种受欢迎的蔬菜。<sup>\[泰兴\]</sup>  
 1. 【[金针菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zhen_cae.md#金针菜)】`jien1 zhen1 cae5` <sup>[如东]</sup> 百合科植物萱草的花蕾。  
 1. 【[金摺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zhr_r.md#金摺<sub>儿</sub>)】`jien1 zhr r` <sup>[如皋]</sup> 旧时用的摺迭式小账册。如租赁住房，房客持～交月租，房东在～上签收。  
 1. 【[金砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zhun.md#金砖)】`jien1 zhun1` <sup>[如东]</sup> 黄金铸造的砖，一只一两。  

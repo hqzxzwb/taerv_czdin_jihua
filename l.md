@@ -2238,8 +2238,7 @@
 1. 【[罗罗网<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_lu_van_r.md#罗罗网<sub>儿</sub>)】`lu2 lu2 van3 r` <small>/lo2 lo2 uaŋ3 ɚ/<sup>兴化</sup>, /lʊ2 lʊ2 ʋa˞3/<sup>如皋</sup></small> ① 蜘蛛网。<sup>\[如皋\]</sup><sup>\[如皋\]</sup><sup>\[兴化\]</sup> ② “罗网”的生动形式，蜘蛛网，以其捕食飞虫如罗捕鸟，故名<sup>\[泰州\]</sup>：这几间房子好些年不住人唻，梁上块块是～。<sup>\[泰州\]</sup>  
 1. 【[罗皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_pi.md#罗皮)】`lu2 pi2` <small>/lo2 pʰi2/<sup>兴化</sup></small> 海蜇皮<sup>\[泰州\]</sup>\[兴化：可食用\]  
 1. 【[罗盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_pun.md#罗盘)】`lu2 pun2` <sup>[如东]</sup> 指示方向的仪器。也叫指南针。  
-1. 【[罗圈腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_qiun_tuei.md#罗圈腿)】`lu2 qiun1 tuei3` <sup>[如东]</sup> ① 两腿略呈弓形。 ② 两腿略呈弓形的人。  
-1. 【[罗圈腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_qiun_tuei.md#罗圈腿)】`lu2 qiun1 tuei3` <small>/lɤɯ2 t͡ɕʰyʊ̃1 tʰəɪ3/<sup>泰兴</sup></small> 双腿不直成弧形、畸形。<sup>\[泰兴\]</sup>  
+1. 【[罗圈腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_qiun_tuei.md#罗圈腿)】`lu2 qiun1 tuei3` <small>/lɤɯ2 t͡ɕʰyʊ̃1 tʰəɪ3/<sup>泰兴</sup></small> ① 两腿略呈弓形。<sup>\[如东\]</sup> ② 两腿略呈弓形的人。<sup>\[如东\]</sup> ③ 双腿不直成弧形、畸形。<sup>\[泰兴\]</sup>  
 1. 【[罗筛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_shae.md#罗筛)】`lu2 shae1` <sup>[如皋]</sup> 用罗鞔的筛子，网眼很小，用以筛面、粉、糏。  
 1. 【[罗筛架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_shae_ga_zz.md#罗筛架子)】`lu2 shae1 ga5 zz` <sup>[如皋]</sup> 罗筛的支架。用两根约80cm长的毛竹片，竹皮向上，平行，两端装上燕尾形木片即成。  
 1. 【[罗□<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_un_r.md#罗□<sub>儿</sub>)】`lu2 un3 r` <sup>[泰州]</sup> 罗汉鱼的俗称，题型很小，头尖而略平扁，无须，繁殖时期雄鱼体色深黑，吻部、颊部出现珠星，卵椭圆形，粘附于石片、蚌壳上。  

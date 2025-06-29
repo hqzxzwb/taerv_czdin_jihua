@@ -291,6 +291,7 @@
 1. 【[写细字<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_xi_cz_r.md#写细字<sub>儿</sub>)】`xia3 xi5 cz6 r` <sup>[如皋]</sup> 耐心细致地做思想工作。见“玩软功”。  
 1. 【[卸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia.md#卸)】`xia5` <sup>[如皋]</sup> 成趸批发：他把货～啊把二道贩子。  
 1. 【[卸班](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_baen.md#卸班)】`xia5 baen1` <sup>[如东]</sup> 按照规定的上班时间结束工作，离开现场。通称下班。  
+1. 【[卸潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_cho.md#卸潮)】`xia5 cho2` <small>/ɕiɑ5 t͡sʰɔ2/<sup>泰兴</sup></small> 落潮；退潮。<sup>\[泰兴\]</sup>  
 1. 【[卸货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_hu.md#卸货)】`xia5 hu5` <sup>[如皋]</sup> 比喻排大便。  
 1. 【[卸肩膊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_jin_bah.md#卸肩膊)】`xia5 jin1 bah` <sup>[如皋]</sup> 卸去责任、负担。也指推卸责任。  
 1. 【[卸门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_men.md#卸门)】`xia5 men2` <sup>[兴化]</sup> 把门从窝子中除下，或从排子门上下槛的槽中抽出：学生意的早上起来打扫、～。  

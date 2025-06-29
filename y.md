@@ -40,8 +40,7 @@
 1. 【[虞美人果](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_mei_ren_gu.md#虞美人果)】`y2 mei3 ren2 gu3` <sup>[如东]</sup> 罂粟科植物丽春花的果实。  
 1. 【[鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y.md#鱼)】`y2` 鱼  
 1. 【[鱼饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_bien.md#鱼饼)】`y2 bien3` <sup>[如皋]</sup> 用鱼之肉打成腐，加蛋液葱姜等，手捏出圆状，下滚油炸成的黄色小球饼，食材。  
-1. 【[鱼叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_cha.md#鱼叉)】`y2 cha1` <sup>[如东]</sup> 戳鱼的工具。齿长，柄长。有排叉、灯笼叉、飞叉等种。  
-1. 【[鱼叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_cha.md#鱼叉)】`y2 cha1` <small>/y2 t͡sʰɑ1/<sup>泰兴</sup></small> 捕鱼用的叉。<sup>\[泰兴\]</sup>  
+1. 【[鱼叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_cha.md#鱼叉)】`y2 cha1` <small>/y2 t͡sʰɑ1/<sup>泰兴</sup></small> ① 戳鱼的工具。齿长，柄长。有排叉、灯笼叉、飞叉等种。<sup>\[如东\]</sup> ② 捕鱼用的叉。<sup>\[泰兴\]</sup>  
 1. 【[鱼虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_chon.md#鱼虫)】`y2 chon2` <sup>[兴化]</sup> 水蚤，可作金鱼的饵料。也称“金鱼虫子”。  
 1. 【[鱼镩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_cun.md#鱼镩)】`y2 cun5` <sup>[如皋]</sup> 皆缝麻袋的铁针。  
 1. 【[鱼刺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_cz.md#鱼刺)】`y2 cz5` <sup>[如皋]</sup> ① 鱼鳍上的硬刺。 ② 鱼卡、鱼骨尖刺。  
@@ -76,15 +75,13 @@
 1. 【[鱼鸦涎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_nga_saen.md#鱼鸦涎)】`y2 nga1 saen2` <sup>[如东]</sup> 鸬鹚科动物鸬鹚涏。  
 1. 【[鱼鸦翅羽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_nga_zhr_y.md#鱼鸦翅羽)】`y2 nga1 zhr5 y3` <sup>[如东]</sup> 鸬鹚科动物鸬鹚翅羽。  
 1. 【[鱼脑石](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_no_sheh.md#鱼脑石)】`y2 no3 sheh8` <sup>[如东]</sup> 石首科动物大黄鱼或小黄鱼头骨中的耳石。  
-1. 【[鱼箔子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_pah_zz.md#鱼箔子)】`y2 pah8 zz` <sup>[兴化]</sup> 由竹笼编成的帘子，用来打簖或在河湖中围拦养鱼。  
-1. 【[鱼箔子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_pah_zz.md#鱼箔子)】`y2 pah8 zz` <small>/y2 pʰɑʔ8 t͡sɿ/<sup>泰兴</sup></small> 竹编围养或捕鱼用的栅栏。<sup>\[泰兴\]</sup>  
+1. 【[鱼箔子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_pah_zz.md#鱼箔子)】`y2 pah8 zz` <small>/y2 pʰaʔ8 t͡sɿ/<sup>兴化</sup>, /y2 pʰɑʔ8 t͡sɿ/<sup>泰兴</sup></small> ① 由竹笼编成的帘子，用来打簖或在河湖中围拦养鱼。<sup>\[兴化\]</sup> ② 竹编围养或捕鱼用的栅栏。<sup>\[泰兴\]</sup>  
 1. 【[鱼鳔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_pio.md#鱼鳔)】`y2 pio5` <sup>[如东]</sup> 某些鱼类体内可以涨缩的囊状物。里面充满氮、氧、二氧化碳等气体。收缩时鱼下沉，膨涨时鱼上浮。有的鱼类的鳔有辅助听觉或呼吸等作用。大黄鱼、小黄鱼、鮸鱼以及其他鱼鳔，入中药。  
 1. 【[鱼泡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_po.md#鱼泡)】`y2 po5` <small>/y2 pʰɔ5/<sup>兴化</sup>, /y2 pʰɔ5/<sup>如皋</sup></small> ① 鱼鳔。<sup>\[如皋\]</sup> ② 鱼鳔。<sup>\[兴化\]</sup>  
 1. 【[鱼白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_poh.md#鱼白)】`y2 poh8` <sup>[如东]</sup> 鱼的精液。  
 1. 【[鱼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_r.md#鱼<sub>儿</sub>)】`y2 r` <sup>[泰县]</sup> 鱼。  
 1. 【[鱼生火，肉生痰，豆腐百页保平安](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_shen_hu_roh.md#鱼生火，肉生痰，豆腐百页保平安)】`y2 shen1 hu3 roh8 shen1 taen2 teu6 fv boh7 ih8 bo3 pien2 un1` <sup>[东台]</sup> 简约式生活有益于健康。  
-1. 【[鱼生四两各有主](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_shen_sz_lian.md#鱼生四两各有主)】`y2 shen1 sz5 lian3 gah7 ieu3 zhv3` <sup>[兴化]</sup> 俗语，说明人或物最后都有一定的归宿：“……小冻鱼煮起来我还没有吃，真是～……就把你这个畜生搭酒。”（《皮五辣子》一）  
-1. 【[鱼生四两各有主](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_shen_sz_lian.md#鱼生四两各有主)】`y2 shen1 sz5 lian3 gah7 ieu3 zhv3` <small>/y2 səŋ1 sɿ5 liɑŋ3 kɑʔ7 iɤɯ3 t͡su3/<sup>泰兴</sup></small> 谓鱼虽在水中，但未来落谁口中自有主人。喻财富终归有主。<sup>\[泰兴\]</sup>  
+1. 【[鱼生四两各有主](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_shen_sz_lian.md#鱼生四两各有主)】`y2 shen1 sz5 lian3 gah7 ieu3 zhv3` <small>/y2 sən1 sɿ5 liaŋ3 kaʔ7 iɤ3 t͡su3/<sup>兴化</sup>, /y2 səŋ1 sɿ5 liɑŋ3 kɑʔ7 iɤɯ3 t͡su3/<sup>泰兴</sup></small> ① 俗语，说明人或物最后都有一定的归宿<sup>\[兴化\]</sup>：“……小冻鱼煮起来我还没有吃，真是～……就把你这个畜生搭酒。”（《皮五辣子》一）<sup>\[兴化\]</sup> ② 谓鱼虽在水中，但未来落谁口中自有主人。喻财富终归有主。<sup>\[泰兴\]</sup>  
 1. 【[鱼汤面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_tan_min.md#鱼汤面)】`y2 tan1 min6` ① 东台地方著名美食，曾在1915年巴拿马万国博览会获金奖。其特点是汤白而不腻，味鲜而不腥，质厚而不黏。<sup>\[东台\]</sup> ② 泰州特色早茶之一，面条的底汤是用鲫鱼之类煨的鱼汤。<sup>\[泰州\]</sup>  
 1. 【[鱼塘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_tan.md#鱼塘)】`y2 tan2` <sup>[兴化]</sup> 养鱼的池塘：到～钓鱼去。  
 1. 【[鱼坞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_v_zz.md#鱼坞子)】`y2 v5 zz` <sup>[东台]</sup> 诱鱼护鱼的敞口塘。  

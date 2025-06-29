@@ -1411,9 +1411,7 @@
 1. 【[饱侉侉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_kua_kua.md#饱侉侉)】`bo3 kua3 kua3` <small>/pɔ3 kʰuɑ3 kʰuɑ3/<sup>泰兴</sup></small> （吃得）极饱<sup>\[泰兴\]</sup>：吃得～的<sup>\[泰兴\]</sup>  
 1. 【[饱𦙶𦙶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_kv_kv.md#饱𦙶𦙶)】`bo3 kv2 kv2` <small>/pɔ3 kʰu2 kʰu2/<sup>如皋</sup>, /pɔ3 kʰu2 kʰu2/<sup>泰兴</sup></small> 充满隆起状<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>\[东台：颗粒饱满；衣服穿得多；袋子装得满。\]：袋儿里塞得～的。<sup>\[如皋\]</sup>｜肚子吃得～的<sup>\[泰兴\]</sup>｜黄豆角子结得～的<sup>\[泰兴\]</sup>  
 1. 【[饱裸裸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_lu_lu.md#饱裸裸)】`bo3 lu lu` <sup>[东台]</sup> 形容饱满充实得遮不住露了出来：大田里玉米籽～的。  
-1. 【[饱闷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_men.md#饱闷)】`bo3 men5` <sup>[如皋]</sup> 胀闷感。  
-1. 【[饱闷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_men.md#饱闷)】`bo3 men5` <sup>[泰州]</sup> 一种不舒服的感觉，换着感觉腹中胀气，呼吸不畅：我这一刻儿有点儿～，你给我出去走个盹儿。  
-1. 【[饱闷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_men.md#饱闷)】`bo3 men5` <small>/pɔ3 məŋ5/<sup>泰兴</sup></small> 胃不舒服，有饱胀郁气之感。<sup>\[泰兴\]</sup>  
+1. 【[饱闷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_men.md#饱闷)】`bo3 men5` <small>/pɔ3 məŋ5/<sup>如皋</sup>, /pɔ3 məŋ5/<sup>泰兴</sup></small> ① 胀闷感。<sup>\[如皋\]</sup> ② 一种不舒服的感觉，换着感觉腹中胀气，呼吸不畅<sup>\[泰州\]</sup>：我这一刻儿有点儿～，你给我出去走个盹儿。<sup>\[泰州\]</sup> ③ 胃不舒服，有饱胀郁气之感。<sup>\[泰兴\]</sup>  
 1. 【[饱眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_ngaen.md#饱眼)】`bo3 ngaen3` <sup>[如东]</sup> 因为看见过多而感觉厌烦：天天吃鱼，大家都～吖。  
 1. 【[饱偄偄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_nun_nun.md#饱偄偄)】`bo3 nun nun5` <sup>[如皋]</sup> 丰满或隆起：她的脸～的。  
 1. 【[饱食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_sheh.md#饱食)】`bo3 sheh8` <sup>[如皋]</sup> 指禽畜吃饱的时候：猪子～称120斤，饿食不足  
