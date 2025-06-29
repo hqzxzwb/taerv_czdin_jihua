@@ -156,6 +156,7 @@
 1. 【[季家市到黄桥——二十五](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ga_shr_do.md#季家市到黄桥——二十五)】`ji5 ga shr6 do5 huan2 qio er6 sheh v3` <sup>[泰兴]</sup>   
 1. 【[季节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_jih.md#季节)】`ji5 jih7` <sup>[如东]</sup> 一年里某个特定的时期：农忙～。  
 1. 【[季节不饶人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_jih_beh_ro.md#季节不饶人)】`ji5 jih7 beh7 ro2 ren2` <sup>[东台]</sup> 农谚，种庄稼要遵循其客观规律，不能耽误农时。  
+1. 【[季节不饶人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_jih_beh_ro.md#季节不饶人)】`ji5 jih7 beh7 ro2 ren2` <small>/t͡ɕʝ5 t͡ɕiʔ7 pəʔ7 ɻɔ2 ɻəŋ2/<sup>泰兴</sup></small> 按一年四季安排农事，过了季节会失收，故云。<sup>\[泰兴\]</sup>  
 1. 【[季节工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_jih_gon.md#季节工)】`ji5 jih7 gon1` <sup>[如东]</sup> 用工制度的一种。按照季节参加企业劳动的工人。  
 1. 【[寄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#寄)】`ji5` <sup>[如东]</sup> 东西暂时放在这里：我东西～你家。  
 1. 【[济](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#济)】`ji5` 左（手）。吴语区是尖音，所以不写成“季”。  
@@ -163,8 +164,8 @@
 1. 【[济半边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_bun_bin.md#济半边)】`ji5 bun5 bin1` <sup>[如东]</sup> 左半边。  
 1. 【[济脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_jiah.md#济脚)】`ji5 jiah7` <small>/t͡ɕʝ5 t͡ɕiaʔ7/<sup>如皋</sup></small> ① 左脚。<sup>\[如东\]</sup> ② 左脚。<sup>\[如皋\]</sup>  
 1. 【[济㩭牙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ko_nga.md#济㩭牙)】`ji5 ko nga2` <sup>[如皋]</sup> 下门齿超出上门齿的口型。雅称“地包天”。  
-1. 【[济撇子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_pih_zz.md#济撇子)】`ji5 pih7 zz` <sup>[如东]</sup> 用左手干活儿或拿东西。  
-1. 【[济手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_sheu.md#济手)】`ji5 sheu3` <small>/t͡ɕʝ5 sei3/<sup>如皋</sup></small> 左手。<sup>\[如东\]</sup><sup>\[如皋\]</sup>  
+1. 【[济撇子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_pih_zz.md#济撇子)】`ji5 pih7 zz` <small>/t͡ɕʝ5 pʰiʔ7 t͡sɿ/<sup>泰兴</sup></small> 左利手<sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
+1. 【[济手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_sheu.md#济手)】`ji5 sheu3` <small>/t͡ɕʝ5 sei3/<sup>如皋</sup>, /t͡ɕʝ5 ɕiɤɯ3/<sup>泰兴</sup></small> 左手。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
 1. 【[济手彆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_sheu_bih_zz.md#济手彆子)】`ji5 sheu3 bih7 zz` <sup>[如皋]</sup> 左撇子。  
 1. 【[济手济脚的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_sheu_ji_jiah.md#济手济脚的)】`ji5 sheu3 ji5 jiah7 dii` <sup>[如皋]</sup> 常人右重。若用左手做事，会觉得动作笨拙、不利索。  
 1. 【[祭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#祭)】`ji5` <sup>[如皋]</sup> 旧时造桥、打井等易出人命事故，谓之祭。如～桥、～井、～塔、～路等。以此警戒闲人莫到。  

@@ -1321,6 +1321,7 @@
 1. 【[知趣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_qy.md#知趣)】`zhr1 qy5` <sup>[如东]</sup> 明白自己的地位和权力而采取适当的态度：人应该～。  
 1. 【[知人知面不知心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ren_zhr_min.md#知人知面不知心)】`zhr1 ren2 zhr1 min6 beh7 zhr1 xien1` <sup>[东台]</sup> 对人的了解不能看表面。  
 1. 【[知事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_shr.md#知事)】`zhr1 shr6` <sup>[如皋]</sup> 懂事、领悟、由幼稚而变得成熟。  
+1. 【[知事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_shr.md#知事)】`zhr1 shr6` <small>/t͡sɿ1 sɿ1/<sup>泰兴</sup></small> 通晓事理；懂事。<sup>\[泰兴\]</sup>：箇们大啊了，还不～啊？<sup>\[泰兴\]</sup>  
 1. 【[知书达理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_shv_taeh_li.md#知书达理)】`zhr1 shv1 taeh8 li3` <sup>[如东]</sup> 有文化，懂道理：明华～，不会乱来。  
 1. 【[知死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_sz.md#知死)】`zhr1 sz3` <sup>[兴化]</sup> 知道自己的处境不妙：他的问题开始暴露，但他至今还不～。  
 1. 【[知心话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_xien_hua.md#知心话)】`zhr1 xien1 hua6` <sup>[如东]</sup> 内心话：我说的都是～。  

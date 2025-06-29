@@ -1082,11 +1082,15 @@
 1. 【[撤跳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih_tio.md#撤跳)】`chih7 tio5` <sup>[兴化]</sup> 搬开搭在岸上的跳板：汽笛一响，水手连忙解缆，～开船。  
 1. 【[侄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih.md#侄)】`chih8` <sup>[东台]</sup> 哥或弟之子。  
 1. 【[侄女](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih_ny.md#侄女)】`chih8 ny` <sup>[如东]</sup> 同胞兄弟生养的女儿，称侄女儿。嫡亲兄弟的女儿，称嫡亲侄女儿，叔伯兄弟的女儿，称叔伯侄女儿。“侄”念避讳音。  
-1. 【[侄女婿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih_ny_xy.md#侄女婿)】`chih8 ny3 xy` <sup>[如东]</sup> 同胞兄弟女儿的丈夫，称侄女婿。嫡亲兄弟女儿的丈夫，称嫡亲侄女婿。叔伯兄弟女儿的丈夫称叔伯侄女婿。“侄”念避讳音。  
+1. 【[侄女儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih_ny_er.md#侄女儿)】`chih8 ny3 er2` <small>/t͡ɕʰiʔ8 ny3 ɚ2/<sup>泰兴</sup></small> 兄弟的女儿<sup>\[泰兴\]</sup>  
+1. 【[侄女婿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih_ny_xy.md#侄女婿)】`chih8 ny3 xy` <small>/t͡ɕʰiʔ8 ny3 ɕy/<sup>泰兴</sup></small> 侄女的丈夫<sup>\[如东\]</sup><sup>\[泰兴\]</sup>：嫡亲兄弟女儿的丈夫，称嫡亲侄女婿。叔伯兄弟女儿的丈夫称叔伯侄女婿。<sup>\[如东\]</sup>  
+1. 【[侄少爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih_sho_i.md#侄少爷)】`chih8 sho5 i` <small>/t͡ɕʰiʔ8 sɔ5 ʝ/<sup>泰兴</sup></small> 对侄子的尊称。<sup>\[泰兴\]</sup>  
+1. 【[侄孙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih_suen.md#侄孙)】`chih8 suen1` <small>/t͡ɕʰiʔ8 suəŋ1/<sup>泰兴</sup></small> 弟兄的孙子。<sup>\[泰兴\]</sup>  
 1. 【[侄孙女](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih_suen_ny.md#侄孙女)】`chih8 suen1 ny` <sup>[如东]</sup> 同胞兄弟的孙女，称侄孙女。嫡亲兄弟的孙女称嫡亲侄孙女。叔伯兄弟的孙女，称叔伯姪孙女。“侄”念避讳音。  
 1. 【[侄孙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih_suen_zz.md#侄孙子)】`chih8 suen1 zz` <sup>[如东]</sup> 同胞兄弟的孙子，称侄孙子。嫡亲兄弟的孙子，称嫡亲侄孙子。叔伯兄弟的孙子，称叔伯侄孙子。“侄”念避讳音。  
 1. 【[侄媳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih_xieh.md#侄媳)】`chih8 xieh7` <sup>[如东]</sup> 同胞兄弟儿子的媳妇称侄媳，嫡亲兄弟儿子的媳妇，称嫡亲侄媳妇。叔伯兄弟儿子的媳妇，称叔伯侄媳妇。“侄”念避讳音。  
-1. 【[侄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih_zz.md#侄子)】`chih8 zz` <sup>[如东]</sup> 同胞兄弟生养的儿子，称侄子。也称侄儿。嫡亲兄弟的儿子称嫡亲侄子。叔伯兄弟的儿子，称叔伯侄子。“侄”念避讳音。  
+1. 【[侄新妇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih_xien_fv.md#侄新妇)】`chih8 xien fv` <small>/t͡ɕʰiʔ8 ɕiŋ fʋ/<sup>泰兴</sup></small> 侄子的妻子。<sup>\[泰兴\]</sup>  
+1. 【[侄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih_zz.md#侄子)】`chih8 zz` <small>/t͡ɕʰiʔ8 t͡sɿ/<sup>泰兴</sup></small> 兄弟的儿子<sup>\[泰兴\]</sup>\[如东：也称侄儿。嫡亲兄弟的儿子称嫡亲侄子。叔伯兄弟的儿子，称叔伯侄子。\]  
 1. 【[缠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih.md#缠)】`chih8` <small>/t͡sʰiʔ8/<sup>如皋</sup>, /t͡ɕʰiɪʔ8/<sup>泰县</sup></small> ① 促化音。纠缠<sup>\[如皋\]</sup>：～事、打啊～起来呀。<sup>\[如皋\]</sup> ② 纠缠在一起，“缠”促化：这两个人～咖一起。<sup>\[泰县\]</sup> ③ 促化音。骚扰，纠缠<sup>\[泰州\]</sup>：这两年我就～她～的咖够煞咖。<sup>\[泰州\]</sup>  
 1. 【[缠人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih_ren.md#缠人)】`chih8 ren2` 促化音。因被纠缠而感到厌烦<sup>\[泰州\]</sup>：小区的这些杂事不晓得多～唻。<sup>\[泰州\]</sup>  
 1. 【[缠事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih_shr.md#缠事)】`chih8 shr6` <small>/t͡ɕʰiɪʔ8 sɿ1/<sup>泰县</sup></small> 闹事，纠缠不罢休，“缠”促化<sup>\[泰县\]</sup><sup>\[泰州\]</sup>：你不要～，过刻儿再说。<sup>\[泰县\]</sup>｜主任这两天忙，你不要去～。<sup>\[泰州\]</sup>  

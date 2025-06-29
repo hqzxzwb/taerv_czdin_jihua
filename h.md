@@ -1072,7 +1072,7 @@
 1. 【[横事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_shr.md#横事)】`hon6 shr6` <small>/xoŋ6 sɿ6/<sup>兴化</sup>, /xɔŋ1 sɿ1/<sup>如皋</sup></small> ① 凶事、横祸。谚：家有贤妻夫不遭～。<sup>\[如皋\]</sup> ② 意外的祸患<sup>\[兴化\]</sup>：毛二胡子酒醉打杀人，家里避啊～。也作“横祸”。<sup>\[兴化\]</sup>  
 1. 【[横死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_sz.md#横死)】`hon6 sz3` <sup>[兴化]</sup> 指各种非正常死亡：“……小二、小五俱遭～，剩得你一个……又闯出这场奇祸来……”（《水浒后传》一）  
 1. 【[伙家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_jia.md#伙家)】`hu1 jia` <small>/xɤɯ1 t͡ɕiɑ/<sup>泰兴</sup></small> 对同辈人或同伴的称呼，表示亲热、亲近。一般不用于对长辈或同伴中的年长者。<sup>\[泰兴\]</sup>  
-1. 【[吙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu.md#吙)】`hu1` <small>/xo1/<sup>兴化</sup>, /xʊ1/<sup>如皋</sup>, /xo1/<sup>泰县</sup></small> ① 一种烹饪方法，放在水上蒸。吙，同音借字。 ② 一种烹调方法。把食物放在锅里或吙络儿上，用文火焖熟。<sup>\[如东\]</sup> ③ 蒸：～馒头、汽～水。<sup>\[如皋\]</sup> ④ 薰：热汽～手、～。澡<sup>\[如皋\]</sup> ⑤ 灼痛：手洗啊大椒的，～人子。<sup>\[如皋\]</sup> ⑥ 用少量水，盖紧锅盖，将食物半蒸半煮。来客蒸糕点，馒头叫“～茶”。<sup>\[东台\]</sup> ⑦ 热气冒出<sup>\[兴化\]</sup>：热气把手～疼吖。兴化词典作“煆”，《集韵·麻韵》虚加切“～，火气。”<sup>\[兴化\]</sup> ⑧ 用锅把冷的东西蒸热：把馒头～啊子。<sup>\[泰县\]</sup> ⑨ 用蒸气加热蒸熟食物<sup>\[泰州\]</sup>：～馒头<sup>\[泰州\]</sup>｜～螃蟹<sup>\[泰州\]</sup> ⑩ 毛巾在热水中浸泡后，拧至半干，用于热敷<sup>\[泰州\]</sup>：他要闪吖唻，弄个手巾把子同他～啊子。<sup>\[泰州\]</sup>  
+1. 【[吙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu.md#吙)】`hu1` <small>/xo1/<sup>兴化</sup>, /xʊ1/<sup>如皋</sup>, /xo1/<sup>泰县</sup></small> ① 一种烹饪方法，放在水上蒸。吙，同音借字。 ② 一种烹调方法。把食物放在锅里或吙络儿上，用文火焖熟。<sup>\[如东\]</sup> ③ 蒸<sup>\[如皋\]</sup>：～馒头<sup>\[如皋\]</sup> ④ 薰<sup>\[如皋\]</sup>：热汽～手、～澡<sup>\[如皋\]</sup> ⑤ 灼痛<sup>\[如皋\]</sup>：手洗啊大椒的，～人子。<sup>\[如皋\]</sup> ⑥ 用少量水，盖紧锅盖，将食物半蒸半煮。来客蒸糕点，馒头叫“～茶”。<sup>\[东台\]</sup> ⑦ 热气冒出<sup>\[兴化\]</sup>：热气把手～疼吖。兴化词典作“煆”，《集韵·麻韵》虚加切“～，火气。”<sup>\[兴化\]</sup> ⑧ 用锅把冷的东西蒸热<sup>\[泰县\]</sup>：把馒头～啊子<sup>\[泰县\]</sup> ⑨ 用蒸气加热蒸熟食物<sup>\[泰州\]</sup>：～馒头<sup>\[泰州\]</sup>｜～螃蟹<sup>\[泰州\]</sup> ⑩ 毛巾在热水中浸泡后，拧至半干，用于热敷<sup>\[泰州\]</sup>：他要闪吖唻，弄个手巾把子同他～啊子。<sup>\[泰州\]</sup>  
 1. 【[吙茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_cha.md#吙茶)】`hu1 cha2` <sup>[如皋]</sup> 旧时乡村中的待客之礼。在一只大锅中烧开水兼吙馒头、糕之类，请客人饮用。即便近中午，也是先～，后煮饭。  
 1. 【[吙蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_hae.md#吙蟹)】`hu1 hae3` <sup>[如皋]</sup> 将活蟹洗净置锅内蒸熟。  
 1. 【[吙络<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_lah_r.md#吙络<sub>儿</sub>)】`hu1 lah8 r` <sup>[如东]</sup> 厨具。圆形或十字形，竹制或金属制，搁在锅中，上面放置食物，加温，使食物变热或蒸熟。也叫架子。  
@@ -1098,7 +1098,7 @@
 1. 【[欢喜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xi.md#欢喜)】`hu1 xi3` <sup>[泰州]</sup> 喜欢，喜欢：茨菇烧肉是最～吃的菜。  
 1. 【[灰堆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_dy.md#灰堆)】`hu1 dy1` <sup>[东台]</sup> 农家存放垃圾和抛灰的地方。可作肥料。（这里“灰”为特殊读法。）  
 1. 【[胢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu.md#胢)】`hu1` <sup>[东台]</sup> 肿起：捱百脚咬啊下子，这刻儿脚上～起来啊。东台词典写“䏨”。  
-1. 【[䗙䘆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xin.md#䗙䘆)】`hu2 xin1` <small>/xo2 ɕiɪ̃5/<sup>兴化</sup>, /xʊ2 ɕĩ1/<sup>如皋</sup>, /xo2 ɕiɪ̃1/<sup>泰县</sup></small> 蚯蚓<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[如皋\]</sup><sup>\[泰州\]</sup>\[如东：又俗音“河香”\]\[东台：又名曲蟮\]  
+1. 【[䗙䘆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xin.md#䗙䘆)】`hu2 xin1` <small>/xo2 ɕiɪ̃5/<sup>兴化</sup>, /xʊ2 ɕĩ1/<sup>如皋</sup>, /xɤɯ2 ɕĩ/<sup>泰兴</sup>, /xo2 ɕiɪ̃1/<sup>泰县</sup></small> 蚯蚓<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[如皋\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>\[如东：又俗音“河香”\]\[东台：又名曲蟮\]  
 1. 【[䗙䘆翻跟头——腰里悬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xin_faen_gen.md#䗙䘆翻跟头——腰里悬)】`hu2 xin1 faen1 gen1 teu2 io1 lii xiun2` <sup>[东台]</sup>   
 1. 【[䗙䘆呵屌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xin_hu_dio.md#䗙䘆呵屌<sub>儿</sub>)】`hu2 xin1 hu1 dio3 r` <sup>[如皋]</sup> 据说小孩包皮水肿是～所致。  
 1. 【[䗙䘆筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xin_jien.md#䗙䘆筋)】`hu2 xin1 jien1` <small>/xʊ2 ɕĩ1 t͡ɕiəŋ1/<sup>如皋</sup></small> ① 曲张的静脉血管。<sup>\[如皋\]</sup> ② 皮下主静脉血管。<sup>\[如皋\]</sup>  
@@ -1115,15 +1115,17 @@
 1. 【[和尚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_shan.md#和尚)】`hu2 shan` <sup>[如东]</sup> 出家修行的男佛教徒。  
 1. 【[和尚䁃轿子——空欢喜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_shan_bio_qio.md#和尚䁃轿子——空欢喜)】`hu2 shan bio1 qio6 zz kon1 hun1 xi3` <sup>[东台]</sup>   
 1. 【[和尚住瓦屋——沾的菩萨光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_shan_chv_va.md#和尚住瓦屋——沾的菩萨光)】`hu2 shan chv6 va3 oh7 zhin1 dii pv2 saeh7 guan1` <sup>[东台]</sup>   
-1. 【[和尚打伞——无发（法）无天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_shan_da_saen.md#和尚打伞——无发（法）无天)】`hu2 shan da3 saen3 v2 faeh7 v2 tin1` <sup>[东台]</sup>   
+1. 【[和尚打伞——无发（法）无天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_shan_da_saen.md#和尚打伞——无发（法）无天)】`hu2 shan da3 saen3 v2 faeh7 v2 tin1` <small>/xɤɯ2 t͡sʰɑŋ tɑ3 ɕiɛ̃3 ʋ2 fæʔ7 ʋ2 tʰĩ1/<sup>泰兴</sup></small> 歇后语，无法无天<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[和尚衭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_shan_fv.md#和尚衭)】`hu2 shan fv1` <sup>[兴化]</sup> 大襟上衣。旧时儿童穿这种衣服，希图避邪。  
-1. 【[和尚头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_shan_teu.md#和尚头)】`hu2 shan teu2` <small>/xʊ2 sã tʰei2/<sup>如皋</sup></small> ① 光头。<sup>\[如东\]</sup><sup>\[泰州\]</sup>：剃个和尚头吧，夏天这格局凉快。<sup>\[泰州\]</sup> ② 膝盖区。<sup>\[如皋\]</sup>  
+1. 【[和尚头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_shan_teu.md#和尚头)】`hu2 shan teu2` <small>/xʊ2 sã tʰei2/<sup>如皋</sup>, /xɤɯ2 t͡sʰɑŋ tʰəɪ2/<sup>泰兴</sup></small> ① 光头。<sup>\[如东\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：剃个和尚头吧，夏天这格局凉快。<sup>\[泰州\]</sup> ② 膝盖区。<sup>\[如皋\]</sup>  
 1. 【[和尚头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_shan_teu_r.md#和尚头<sub>儿</sub>)】`hu2 shan teu2 r` <sup>[泰州]</sup> 俗称毽子“跳”的踢法，将腿提起以膝盖至大腿部位向上顶起毽子，待其落下，用膝盖至大腿部位接住继续上顶。  
-1. 【[和事佬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_shr_lo.md#和事佬)】`hu2 shr6 lo3` ① 调解纠纷的人，特指无原则地调和的人。<sup>\[如东\]</sup>：他是一个～，还是让他去吧。<sup>\[如东\]</sup> ② 调停争端的人，特指无原则地进行调解的人。<sup>\[东台\]</sup> ③ 对双方的纠纷进行调解的人。<sup>\[泰州\]</sup>  
+1. 【[和尚望轿子，空欢喜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_shan_van_qio.md#和尚望轿子，空欢喜)】`hu2 shan van6 qio6 zz kon1 hu1 xi` <small>/xɤɯ2 t͡sʰɑŋ uɑŋ1 t͡ɕʰiɔ1 t͡sɿ kʰɔŋ1 xɤɯ1 ɕʝ/<sup>泰兴</sup></small> 歇后语。谓看着别人的好事美事，自己只好白白地高兴。<sup>\[泰兴\]</sup>  
+1. 【[和事佬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_shr_lo.md#和事佬)】`hu2 shr6 lo3` <small>/xɤɯ2 sɿ1 lɔ3/<sup>泰兴</sup></small> ① 调解纠纷的人，特指无原则地调和的人。<sup>\[如东\]</sup><sup>\[泰兴\]</sup><sup>\[东台\]</sup>：他是一个～，还是让他去吧。<sup>\[如东\]</sup> ② 对双方的纠纷进行调解的人。<sup>\[泰州\]</sup>  
 1. 【[和水做香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_shuei_zu_xian.md#和水做香)】`hu2 shuei3 zu5 xian1` <sup>[如皋]</sup> 粗略洗一下，并未洗浄。  
 1. 【[和头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_teu.md#和头)】`hu2 teu` <small>/xʊ2 tʰei/<sup>如皋</sup></small> ① 掺入的东西。<sup>\[如皋\]</sup> ② 衬菜<sup>\[如皋\]</sup>：炒肉丝可用笋瓜儿、韭菜、大椒、茭瓜、嫩黄豆等一到几种做～。<sup>\[如皋\]</sup>  
 1. 【[和淘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_to.md#和淘)】`hu2 to2` <small>/xʊ2 tʰɔ2/<sup>如皋</sup></small> ① 混和在一起。<sup>\[如东\]</sup>：她不能与大家～。<sup>\[如东\]</sup> ② 关系和谐。<sup>\[如皋\]</sup>  
 1. 【[和性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xien.md#和性)】`hu2 xien5` <sup>[如皋]</sup> 见“和暴”。  
+1. 【[和性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xien.md#和性)】`hu2 xien5` <small>/xɤɯ2 ɕiŋ5/<sup>泰兴</sup></small> 寒气渐消，天气转暖。<sup>\[泰兴\]</sup>  
 1. 【[回头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_teu.md#回头)】`hu2 teu2` <small>/xo2 tʰɤɯ2/<sup>泰县</sup></small> ① 等一会儿，过一段时间<sup>\[泰县\]</sup><sup>\[东台\]</sup><sup>\[泰州\]</sup>：我～晚上去玩。<sup>\[泰县\]</sup>｜我先走，你～把门窗关好<sup>\[东台\]</sup>｜你～早点儿去呀！<sup>\[东台\]</sup>｜我这一刻儿忙，你的事～再说。<sup>\[泰州\]</sup>｜你忙你的，我～再来。<sup>\[泰州\]</sup> ② 等一会儿，用于提示未来的后果、风险等可能性。<sup>\[泰县\]</sup>\[东台：似“否则”、“不然”。\]：快走！～要迟到<sup>\[东台\]</sup>｜多吃点儿，～肚里饿。<sup>\[东台\]</sup>｜～他不证明怎吖弄相？<sup>\[泰县\]</sup>  
 1. 【[河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu.md#河)】`hu2` <sup>[如东]</sup> 在陆地上，天然或人工开凿的大水道，称河。  
 1. 【[河帮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_ban_zz.md#河帮子)】`hu2 ban1-3 zz` <sup>[泰县]</sup> 小沟岸。  
@@ -2230,7 +2232,6 @@
 1. 【[獾猪<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_zhv_r.md#獾猪<sub>儿</sub>)】`hun1 zhv1 r` <sup>[东台]</sup> 体形大小似狗獾，但其鼻垫与上唇间裸露，吻鼻部狭长而圆，酷似猪鼻。  
 1. 【[獾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_zz.md#獾子)】`hun1 zz` <sup>[如东]</sup> 指如皋地区的人。  
 1. 【[蚶子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_zz.md#蚶子)】`hun1 zz` ① 蚶科动物魁蚶、泥蚶、毛蚶的总称。<sup>\[如东\]</sup> ② 也指四角蛤蜊。<sup>\[如东\]</sup> ③ 软体动物，深潜海边滩涂沙泥中，清明前后肉质鲜嫩，味道最肥美，称之为“菜花～”，常呈簇状分布。<sup>\[东台\]</sup>  
-1. 【[䗙䘆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_xin.md#䗙䘆)】`hun2 xin3` 蚯蚓，口语一般说hu2 xin1。  
 1. 【[含吖嘴里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_nga_jy_lii.md#含吖嘴里)】`hun2 nga jy3 lii` <sup>[东台]</sup> 即含在口中。  
 1. 【[含羞草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_xieu_co.md#含羞草)】`hun2 xieu1 co3` <sup>[如东]</sup> 豆科植物含羞草，高约1米。  
 1. 【[含笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_xio.md#含笑)】`hun2 xio5` <sup>[如东]</sup> 微微地笑。  

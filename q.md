@@ -519,7 +519,7 @@
 1. 【[橡实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_sheh.md#橡实)】`qian6 sheh8` <sup>[如东]</sup> 壳斗科植物麻栎果实。  
 1. 【[橡实壳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_sheh_kah.md#橡实壳)】`qian6 sheh8 kah7` <sup>[如东]</sup> 壳斗科植物麻栎壳斗。  
 1. 【[橡树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_shv.md#橡树)】`qian6 shv6` <sup>[如东]</sup> 壳斗科植物麻栎，也叫栎树、柞针树。落叶乔木。  
-1. 【[犟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian.md#犟)】`qian6` <small>/t͡ɕʰiɑŋ1/<sup>泰县</sup></small> ① 固执。<sup>\[如东\]</sup>：你不要～，还是听听别人的意见。<sup>\[如东\]</sup> ② 回嘴、强辩<sup>\[泰县\]</sup>：你不要～，还是听听老人的。<sup>\[泰县\]</sup> ③ 晚辈、下级当面与长辈、上级争辩<sup>\[泰州\]</sup>：上人就是说咖错啊，你拿耳朵听，你同上人～吖做甚的？<sup>\[泰州\]</sup>｜你单要同他～，何苦㖸。<sup>\[泰州\]</sup>  
+1. 【[犟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian.md#犟)】`qian6` <small>/t͡ɕʰiɑŋ1/<sup>泰兴</sup>, /t͡ɕʰiɑŋ1/<sup>泰县</sup></small> ① 固执。<sup>\[如东\]</sup>：你不要～，还是听听别人的意见。<sup>\[如东\]</sup> ② 回嘴、强辩<sup>\[泰县\]</sup>：你不要～，还是听听老人的。<sup>\[泰县\]</sup> ③ 晚辈、下级当面与长辈、上级争辩<sup>\[泰州\]</sup>：上人就是说咖错啊，你拿耳朵听，你同上人～吖做甚的？<sup>\[泰州\]</sup>｜你单要同他～，何苦㖸。<sup>\[泰州\]</sup> ④ 言语冲突，反驳<sup>\[泰兴\]</sup>：你不要硬～<sup>\[泰兴\]</sup>  
 1. 【[犟脾家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_pi_jia.md#犟脾家)】`qian6 pi2 jia1` <sup>[如东]</sup> 脾气十分固执：他是个～，不肯转变。  
 1. 【[犟脾气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_pi_qi.md#犟脾气)】`qian6 pi2 qi5` <sup>[如东]</sup> 倔犟的性格：不要耍～，有理好好说。  
 1. 【[犟神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_shen.md#犟神)】`qian6 shen2` <sup>[泰县]</sup> 专唱反调的人：不要太～。  

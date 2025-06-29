@@ -124,6 +124,8 @@
 1. 【[泰山风景区](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_shaen_fon_jien.md#泰山风景区)】`tae5 shaen1 fon1 jien3 qy1` <sup>[如皋]</sup> 存在于明朝和建国初，当时东有水绘园、西有霁峰园、南有露香园，北是城河。附近还有庙宇群。  
 1. 【[泰州青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_zheu_qien.md#泰州青)】`tae5 zheu1 qien1` <sup>[如皋]</sup> 青菜品种之一。见“碗儿青”。  
 1. 【[代](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#代)】`tae6` <sup>[如皋]</sup> 替，以现金代物：～奁（给新娘）、～墨（给新进学）、～箔（代纸箔）、～点（代供点）。  
+1. 【[垈/岱/埭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#垈/岱/埭)】`tae6` <small>/tʰɛ6/<sup>兴化</sup>, /tʰɛ1/<sup>如皋</sup>, /tʰɛ1/<sup>泰兴</sup>, /tʰe1/<sup>泰县</sup></small> 地名通名，旧作埭，今泰兴多作岱或垈：姚家～  
+1. 【[垈头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_teu.md#垈头)】`tae6 teu2` <small>/tʰɛ1 tʰəɪ2/<sup>泰兴</sup></small> 田块的长度<sup>\[泰兴\]</sup>：箇块田的～长ngae<sup>\[泰兴\]</sup>  
 1. 【[大锺垛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_don_teu.md#大锺垛)】`tae6 don1 teu2` <sup>[如皋]</sup> 地名。今记作“岱东头”，是原戴庄乡政府驻地。当地《秦氏宗谱》记载“明初秦氏移民至此，时名‘大锺垛’读作‘岱东头’”。如皋词典记音tae1 den1 tei2。  
 1. 【[大斧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_fv.md#大斧)】`tae6 fv` <small>/tʰɛ1 fʋ/<sup>泰兴</sup>, /tʰe1 fu/<sup>泰县</sup></small> 斧头<sup>\[泰县\]</sup><sup>\[泰兴\]</sup>：这把～快。<sup>\[泰县\]</sup>  
 1. 【[大斧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_fv.md#大斧)】`tae6 fv3` <small>/tʰɛ1 fu3/<sup>如皋</sup></small> ① 斧子 ② 旧斧头。<sup>\[如皋\]</sup> ③ 工具。铁制，口锋利，脑厚，一般方形。也叫斧头、斧子。<sup>\[如东\]</sup> ④ 斧头。谐音“代富”，砌房子时，亲戚赠送此物，喻意“代代富”。<sup>\[东台\]</sup> ⑤ 短柄斧头，木匠工具之一，一般家庭当作劈柴工具。<sup>\[泰州\]</sup>  
