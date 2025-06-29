@@ -989,7 +989,7 @@
 1. 【[进出气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_chueh_qi.md#进出气)】`jien5 chueh7 qi5` <sup>[如皋]</sup> 呼吸气。又说“伸缩气”。  
 1. 【[进港](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gan.md#进港)】`jien5 gan3` <sup>[如东]</sup> 船只由外海或外地驶进港湾，叫做进港。  
 1. 【[进贡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gon.md#进贡)】`jien5 gon5` ① 给人（多指对上）送礼。<sup>\[东台\]</sup> ② 扑克牌的一种规则，上轮最后一名在下轮出牌前，将手中最大的一张牌给上轮的第一名，上轮的第一名将自己手中最不需要的牌给上轮最后一名<sup>\[泰州\]</sup>：小李今朝的牌不好，好不容易抓啊张大王，还要～。<sup>\[泰州\]</sup>  
-1. 【[进项](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_han.md#进项)】`jien5 han6` <small>/t͡ɕiŋ5 xɑŋ1/<sup>泰兴</sup></small> 收入的钱，收益。<sup>\[泰兴\]</sup>：今年出去打工，没得什的～<sup>\[泰兴\]</sup>  
+1. 【[进项](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_han.md#进项)】`jien5 han6` <small>/t͡ɕiŋ5 xɑŋ1/<sup>泰兴</sup></small> 收入的钱，收益。<sup>\[泰兴\]</sup>：今年出去打工，没得甚的～<sup>\[泰兴\]</sup>  
 1. 【[进价](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_jia.md#进价)】`jien5 jia5` <sup>[如东]</sup> 购进商品时的价格。  
 1. 【[进深](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_shen.md#进深)】`jien5 shen1` <small>/t͡ɕiŋ5 səŋ1/<sup>泰兴</sup></small> ① 平房前墙内壁与后墙内壁之间的距离。以丈为计算单位，主要有丈二六、丈四六等。<sup>\[如东\]</sup> ② 房子的纵向长度。<sup>\[东台\]</sup>\[泰州：房屋内部纵向长度，从门至对面墙壁之间的垂直距离\]：他家房子的进深不小，至少要有五米。<sup>\[泰州\]</sup> ③ 院子或房间等前后的深度。<sup>\[泰兴\]</sup>  
 1. 【[进坞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_v.md#进坞)】`jien5 v5` <sup>[如东]</sup> 船只进坞维修。也叫上坞。  

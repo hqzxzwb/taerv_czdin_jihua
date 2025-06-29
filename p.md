@@ -943,7 +943,7 @@
 1. 【[白花败酱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_hua_pae_jian.md#白花败酱)】`poh8 hua1 pae6 jian5` <sup>[如东]</sup> 败酱科植物白花败酱，又名败酱，多年生草本。  
 1. 【[白话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_hua.md#白话)】`poh8 hua6` <sup>[如皋]</sup> ① 闲谈，聊天：说～。 ② 无作用的话。  
 1. 【[白谎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_huan.md#白谎)】`poh8 huan3` <small>/pʰɔʔ8 xuã3/<sup>如皋</sup>, /pʰɔʔ8 xuɑŋ3/<sup>泰兴</sup></small> ① 当面对质，揭穿谎言。<sup>\[如皋\]</sup> ② 拆穿谎言。<sup>\[如东\]</sup>：我要当面～。也叫白是非。<sup>\[如东\]</sup> ③ 揭开谎言。<sup>\[泰兴\]</sup>  
-1. 【[白虎星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_hv_xien.md#白虎星)】`poh8 hv3 xien1` <small>/pʰɔʔ8 fʋ3 ɕiŋ1/<sup>泰兴</sup></small> 特指迷信传说中的凶神，据说逢之不吉。<sup>\[泰兴\]</sup>：这个家伙真是白虎星下啊凡，什的坏事总做。<sup>\[泰兴\]</sup>  
+1. 【[白虎星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_hv_xien.md#白虎星)】`poh8 hv3 xien1` <small>/pʰɔʔ8 fʋ3 ɕiŋ1/<sup>泰兴</sup></small> 特指迷信传说中的凶神，据说逢之不吉。<sup>\[泰兴\]</sup>：这个家伙真是白虎星下啊凡，甚的坏事总做。<sup>\[泰兴\]</sup>  
 1. 【[白衣人士](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_i_ren_shr.md#白衣人士)】`poh8 i1 ren2 shr` <small>/pʰɔʔ8 ʝ1 ɻəŋ2 sɿ/<sup>泰兴</sup></small> 指平民百姓，亦指无功名无官职的士人。白衣，古代的平民服。<sup>\[泰兴\]</sup>：我是个～，不是干部。<sup>\[泰兴\]</sup>  
 1. 【[白胰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_i.md#白胰)】`poh8 i2` <sup>[如皋]</sup> 胰脏。  
 1. 【[白洋纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_ian_zhr.md#白洋纸)】`poh8 ian2 zhr3` <small>/pʰɔʔ8 iɑŋ2 t͡sɿ3/<sup>泰兴</sup></small> 白纸。<sup>\[泰兴\]</sup>  

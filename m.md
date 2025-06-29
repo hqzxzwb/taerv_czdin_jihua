@@ -1131,7 +1131,7 @@
 1. 【[名目账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_moh_zhan.md#名目账)】`mien2 moh8 zhan5` <small>/miəŋ2 mɔʔ8 t͡sã5/<sup>如皋</sup></small> ① 敷衍、象征性的表示，并无深交。<sup>\[如皋\]</sup> ② 表面的、不实在的，又作“意思账”。<sup>\[如皋\]</sup>  
 1. 【[名堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_tan.md#名堂)】`mien2 tan` <sup>[东台]</sup> ① 花样；名目。 ② 成就；结果：搞出～来。  
 1. 【[名堂三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_tan_saen.md#名堂三)】`mien2 tan saen1` <sup>[泰州]</sup> ① 名目，名义：这家伙不晓得搞甚的～来弄钱。 ② 花招，花样：你不睬他，看他有甚的～玩出来。  
-1. 【[名堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_tan.md#名堂)】`mien2 tan2` <small>/miŋ2 tʰɑŋ2/<sup>泰兴</sup></small> 办法，花样；结果，成就；内容，道理。<sup>\[泰兴\]</sup>：你到底玩什的～？<sup>\[泰兴\]</sup>｜今年亏得很，没得～<sup>\[泰兴\]</sup>｜格篇文章不晓得写的什的～<sup>\[泰兴\]</sup>  
+1. 【[名堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_tan.md#名堂)】`mien2 tan2` <small>/miŋ2 tʰɑŋ2/<sup>泰兴</sup></small> 办法，花样；结果，成就；内容，道理。<sup>\[泰兴\]</sup>：你到底玩甚的～？<sup>\[泰兴\]</sup>｜今年亏得很，没得～<sup>\[泰兴\]</sup>｜格篇文章不晓得写的甚的～<sup>\[泰兴\]</sup>  
 1. 【[名头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_teu.md#名头)】`mien2 teu` <sup>[兴化]</sup> 人的名声：你做这种丑事，把自己的～都弄低啊。  
 1. 【[明摆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_bae.md#明摆)】`mien2 bae3` <sup>[如皋]</sup> 公开的。  
 1. 【[明摆啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_bae_a.md#明摆啊)】`mien2 bae3 a` <sup>[如东]</sup> 东西摆放在明处。比喻公开：这个问题是～的。  

@@ -198,7 +198,7 @@
 1. 【[云尔雾尔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_er_v_er.md#云尔雾尔)】`yen2 er v5 er` <sup>[如东]</sup> 比喻头脑不清醒糊里糊涂的：王明一天到晚～的，怎吖能不出问题。  
 1. 【[云泛红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_faen_hon.md#云泛红)】`yen2 faen5 hon2` <sup>[如东]</sup> 彤云密布，灰色略红，可能下雪。  
 1. 【[云泛黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_faen_huan.md#云泛黄)】`yen2 faen5 huan2` <sup>[如东]</sup> 云层密布，呈现黄色可能降雨。  
-1. 【[云里雾里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_li_v_li.md#云里雾里)】`yen2 li3 v5 li3` <small>/yn2 ləi3 u6 ləi3/<sup>兴化</sup>, /yəŋ2 lʝ3 ʋ5 lʝ3/<sup>泰兴</sup></small> ① ［喻］形容说话漫无边际。<sup>\[东台\]</sup> ② 迷迷糊糊；懞懞懂懂。<sup>\[泰兴\]</sup>：他说的什的，我听吖半大天还是～的。<sup>\[泰兴\]</sup> ③ 稀里糊涂，一头雾水<sup>\[兴化\]</sup>：捱他一席话说得～，头绪全弄不清吖。<sup>\[兴化\]</sup>｜就这丫头一番话，把杨雄骗得～……（扬二《探奸遭陷》）<sup>\[兴化\]</sup>  
+1. 【[云里雾里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_li_v_li.md#云里雾里)】`yen2 li3 v5 li3` <small>/yn2 ləi3 u6 ləi3/<sup>兴化</sup>, /yəŋ2 lʝ3 ʋ5 lʝ3/<sup>泰兴</sup></small> ① ［喻］形容说话漫无边际。<sup>\[东台\]</sup> ② 迷迷糊糊；懞懞懂懂。<sup>\[泰兴\]</sup>：他说的甚的，我听吖半大天还是～的。<sup>\[泰兴\]</sup> ③ 稀里糊涂，一头雾水<sup>\[兴化\]</sup>：捱他一席话说得～，头绪全弄不清吖。<sup>\[兴化\]</sup>｜就这丫头一番话，把杨雄骗得～……（扬二《探奸遭陷》）<sup>\[兴化\]</sup>  
 1. 【[云里无知](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_lii_v_zhr.md#云里无知)】`yen2 lii v2 zhr1` <sup>[泰州]</sup> ① （泰州词典作“晕里无知”，发音阳平） ② 比喻身处险境而不自知，依然头脑发昏我行我素：厂长要开除他，他还在这块说话～的，真是没药医唻。｜纪委早就盯住他唻，他还～的天天跑啊去泡桑拿。  
 1. 【[云沗沗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_pan_pan.md#云沗沗)】`yen2 pan5 pan5` <sup>[如东]</sup> 天空多浮云：今朝～的，不会得太热。  
 1. 【[云沗沗的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_pan_pan_dii.md#云沗沗的)】`yen2 pan5 pan5 dii` <sup>[如皋]</sup> 多云天气。  

@@ -411,7 +411,7 @@
 1. 【[汤瓢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_pio.md#汤瓢)】`tan1 pio2` <sup>[东台]</sup> 调羹。  
 1. 【[汤婆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_pu_zz.md#汤婆子)】`tan1 pu2 zz` <sup>[兴化]</sup> 暖足汤壶：“终久暖和不成，我又想起来，～还没拿来呢。”（《红楼梦》五一）  
 1. 【[汤勺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_shah.md#汤勺)】`tan1 shah8` <small>/tʰaŋ1 saʔ8/<sup>兴化</sup>, /tʰã1 saʔ8/<sup>如皋</sup></small> ① 大号挂勺。<sup>\[如皋\]</sup> ② 羹匙。<sup>\[兴化\]</sup>  
-1. 【[汤水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_shuei.md#汤水)】`tan1 shuei` <small>/tʰã1 suei/<sup>如皋</sup>, /tʰɑŋ1 suəɪ/<sup>泰兴</sup></small> ① 煮饭粥的放水量。转指煮饭量<sup>\[如皋\]</sup>：人多～大。<sup>\[如皋\]</sup> ② 比喻财产。<sup>\[泰兴\]</sup>：我小户人家，没什的～<sup>\[泰兴\]</sup>  
+1. 【[汤水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_shuei.md#汤水)】`tan1 shuei` <small>/tʰã1 suei/<sup>如皋</sup>, /tʰɑŋ1 suəɪ/<sup>泰兴</sup></small> ① 煮饭粥的放水量。转指煮饭量<sup>\[如皋\]</sup>：人多～大。<sup>\[如皋\]</sup> ② 比喻财产。<sup>\[泰兴\]</sup>：我小户人家，没甚的～<sup>\[泰兴\]</sup>  
 1. 【[汤水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_shuei.md#汤水)】`tan1 shuei3` <small>/tʰaŋ1 suəi3/<sup>兴化</sup></small> ① 液体。<sup>\[如东\]</sup>：地下到处都是～。比喻东西。<sup>\[如东\]</sup>｜盖一幢楼房要不小的～。<sup>\[如东\]</sup> ② 指伙食和茶汤等<sup>\[兴化\]</sup>：他家～不丑。<sup>\[兴化\]</sup>｜进忠要口～也无人应，只得挨了起来……（《梼杌闲评》十七）<sup>\[兴化\]</sup>  
 1. 【[汤汤的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_tan_dii.md#汤汤的)】`tan1 tan1 dii` <sup>[泰州]</sup> 泛指做事毫不费力的样子：你是厂长，帮他在厂里调个工种，还不是～事啊。｜剩吖不到一碗饭，小伙头子正在长身体的时候，～就下去啊唻。  
 1. 【[汤汤水水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_tan_shuei_shuei.md#汤汤水水)】`tan1 tan1 shuei3 shuei3` <sup>[泰州]</sup> 含有荤菜、蔬菜及其汁液的菜肴：她住院这两天，汤汤水水都是她家婆妈妈送。  
@@ -1869,7 +1869,7 @@
 1. 【[动气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_qi.md#动气)】`ton6 qi5` <small>/tʰoŋ1 t͡sʰɿ5/<sup>泰县</sup></small> ① 生气。<sup>\[如东\]</sup>：你再说我要～啦。<sup>\[如东\]</sup> ② 生气。<sup>\[泰县\]</sup>  
 1. 【[动抢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_qian.md#动抢)】`ton6 qian3` <sup>[如皋]</sup> 出现抢劫行为。  
 1. 【[动静](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_qien.md#动静)】`ton6 qien6` <sup>[如东]</sup> 动作或说话的声音：你去听听～。  
-1. 【[动身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_shen.md#动身)】`ton6 shen1` <small>/tʰɔŋ1 səŋ1/<sup>泰兴</sup></small> 启程，出发<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>：何时～？<sup>\[如东\]</sup>｜你什的时候～上新疆吖？<sup>\[泰兴\]</sup>  
+1. 【[动身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_shen.md#动身)】`ton6 shen1` <small>/tʰɔŋ1 səŋ1/<sup>泰兴</sup></small> 启程，出发<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>：何时～？<sup>\[如东\]</sup>｜你甚的时候～上新疆吖？<sup>\[泰兴\]</sup>  
 1. 【[动手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_sheu.md#动手)】`ton6 sheu3` ① 打架。<sup>\[如东\]</sup> ② 开始做；用手行动<sup>\[东台\]</sup>  
 1. 【[动手动脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_sheu_ton_jiah.md#动手动脚)】`ton6 sheu3 ton6 jiah7` <small>/tʰoŋ6 sɤ3 tʰoŋ6 t͡ɕiaʔ7/<sup>兴化</sup>, /tʰɔŋ1 ɕiɤɯ3 tʰɔŋ1 t͡ɕiɑʔ7/<sup>泰兴</sup></small> ① 拳打脚踢<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：你是执行公务，不应该对老百姓～的。<sup>\[兴化\]</sup>｜人家还是姑娘家，你不好同人家～的。<sup>\[泰州\]</sup> ② 对女性的轻浮举动<sup>\[兴化\]</sup>：二姐儿低了头，只含笑不理。贾琏又不敢造次～的……（《红楼梦》六四）<sup>\[兴化\]</sup> ③ 谓男女间挑逗、戏弄一类的举动；打人、打架<sup>\[泰兴\]</sup>  
 1. 【[动动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_ton.md#动动)】`ton6 ton` <sup>[如东]</sup> 活动活动：不要尽坐啊下，要～。  
@@ -2107,7 +2107,7 @@
 1. 【[段](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun.md#段)】`tun6` <sup>[东台]</sup> ① （量词）用于长条状物分成若干部分：一～木头。 ② （量词）表示一定的距离或事物的一部分：一～路｜一～文章。  
 1. 【[段落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tun_lah.md#段落)】`tun6 lah8` <sup>[如东]</sup> 根据文章内容划分成为另一部分。事情结束：告一～。  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv.md#□)】`tv1` <sup>[东台]</sup> 失败，负：他打麻将～掉几百块。  
-1. 【[图](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv.md#图)】`tv2` <small>/tʰu2/<sup>如皋</sup>, /tʰu2/<sup>泰兴</sup></small> 希图<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：～财、～做生意、～个好出语。<sup>\[如皋\]</sup>｜我箇大的把年纪，还～个什的？<sup>\[泰兴\]</sup>  
+1. 【[图](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv.md#图)】`tv2` <small>/tʰu2/<sup>如皋</sup>, /tʰu2/<sup>泰兴</sup></small> 希图<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：～财、～做生意、～个好出语。<sup>\[如皋\]</sup>｜我箇大的把年纪，还～个甚的？<sup>\[泰兴\]</sup>  
 1. 【[图赖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_lae.md#图赖)】`tv2 lae6` <sup>[兴化]</sup> ① 抵赖：“好好！你休要～。”（《广陵潮》二十） ② 把罪过推给别人：“这窦家小短命羔儿，输不起钱，就休要赌，为什么吊死了，～人！”（《岐路灯》五一）  
 1. 【[图软](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_run.md#图软)】`tv2 run3` <sup>[兴化]</sup> 贪图小利：他为～，上吖人家的当。  
 1. 【[图头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_teu.md#图头)】`tv2 teu` <sup>[泰县]</sup> 好处。  
