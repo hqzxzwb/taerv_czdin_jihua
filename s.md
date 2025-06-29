@@ -528,7 +528,7 @@
 1. 【[傻里傻气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_lii_sha_qi.md#傻里傻气)】`sha3 lii sha3 qi5` <sup>[东台]</sup> 傻乎乎的样子。  
 1. 【[傻里傻气的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_lii_sha_qi.md#傻里傻气的)】`sha3 lii sha3 qi5 dii` <sup>[如皋]</sup> 愚鲁型精神病人。  
 1. 【[舍不得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_beh_deh.md#舍不得)】`sha3 beh7 deh7` <sup>[东台]</sup> 不愿意放弃，不愿付出。  
-1. 【[舍得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_deh.md#舍得)】`sha3 deh` <sup>[如皋]</sup> 舍得。  
+1. 【[舍得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_deh.md#舍得)】`sha3 deh` 舍得  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha.md#□)】`sha5` <sup>[泰州]</sup> ① （泰州词典作㽂，反切不合） ② 这个砂锅～啊唻，不能再煮东西唻。  
 1. 【[厦子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_zz.md#厦子)】`sha5 zz` 镶于正屋旁的厢屋<sup>\[泰州\]</sup>：他在旁边的空地上搭咖间～放东西。<sup>\[泰州\]</sup>  
 1. 【[嗄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha.md#嗄)】`sha5` <small>/sa5/<sup>兴化</sup>, /sa5/<sup>如皋</sup>, /sa5/<sup>泰县</sup></small> （喉咙、嗓子）音嘶哑<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰县\]</sup>：～喉咙<sup>\[如皋\]</sup>｜喉咙～啊，话说不出来<sup>\[如东\]</sup>｜喉咙冻～啊。<sup>\[兴化\]</sup>｜喉咙喊～啊。<sup>\[兴化\]</sup>｜她是天生的～喉咙。<sup>\[泰州\]</sup>｜连续上吖一个星期的课，嗓子都说咖～啊。<sup>\[泰州\]</sup>｜他今吖喉咙～啊。<sup>\[泰县\]</sup>  

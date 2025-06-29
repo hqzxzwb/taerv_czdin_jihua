@@ -83,6 +83,7 @@
 1. 【[齐捉捉的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_zhuah_zhuah_dii.md#齐捉捉的)】`qi2 zhuah7 zhuah7 dii` <sup>[东台]</sup> 整齐，无短缺：阖家老小～站吖跟前。  
 1. 【[启口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_keu.md#启口)】`qi3 keu3` <sup>[兴化]</sup> 开口：只见阁罗天子～问道……（《老残游记》二七）。“别的东西不来干渎，只这件，是宅上有余的，故此敢来～。”（《警世通言》二二）  
 1. 【[启明星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_mien_xien.md#启明星)】`qi3 mien2 xien1` <sup>[如皋]</sup> 金星。  
+1. 【[启蒙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_mon.md#启蒙)】`qi3 mon2` <small>/t͡ɕʰʝ3 mɔŋ2/<sup>泰兴</sup></small> 同“开蒙”。开导蒙昧者，使之明白道理；开始上学读书。<sup>\[泰兴\]</sup>  
 1. 【[杞柳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_lieu.md#杞柳)】`qi3 lieu3` <sup>[如东]</sup> 落叶灌木，叶子长椭圆形，莱荑花序，花暗紫色，雌雄异株。生长在水边。枝条可以编筐、篓、篮等物。  
 1. 【[起](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi.md#起)】`qi3` <sup>[泰州]</sup> ① 建造：他在近郊买啊块地，～啊一栋别墅。 ② 将物由下向上移动：木头高头全是洋钉儿，木匠～啊半天，才把它～掉啊。  
 1. 【[……起啊浪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_a_lan.md#……起啊浪)】`qi3 a lan6` <sup>[东台]</sup> 形容某种行动干得很起劲，情绪热烈，气氛高涨：腊月里大家都在下办年货，忙吖～。  
