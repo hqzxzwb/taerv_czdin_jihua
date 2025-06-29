@@ -1408,6 +1408,7 @@
 1. 【[饱喀喀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_ka_ka.md#饱喀喀)】`bo3 ka2 ka2` <sup>[兴化]</sup> 形容吃得很饱。旧时“数来宝”有云：两个烧饼一碗茶，肚子吃得～。  
 1. 【[饱拤拤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_ka_ka.md#饱拤拤)】`bo3 ka2 ka2` <sup>[如皋]</sup> 吃得过饱而微喘。  
 1. 【[饱拤拤的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_ka_ka_dii.md#饱拤拤的)】`bo3 ka2 ka2 dii` <sup>[东台]</sup> 饭、菜吃得既饱又痛快：今吖些弟兄一个个吃得～。  
+1. 【[饱侉侉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_kua_kua.md#饱侉侉)】`bo3 kua3 kua3` <small>/pɔ3 kʰuɑ3 kʰuɑ3/<sup>泰兴</sup></small> （吃得）极饱<sup>\[泰兴\]</sup>：吃得～的<sup>\[泰兴\]</sup>  
 1. 【[饱𦙶𦙶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_kv_kv.md#饱𦙶𦙶)】`bo3 kv2 kv2` <small>/pɔ3 kʰu2 kʰu2/<sup>如皋</sup>, /pɔ3 kʰu2 kʰu2/<sup>泰兴</sup></small> 充满隆起状<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>\[东台：颗粒饱满；衣服穿得多；袋子装得满。\]：袋儿里塞得～的。<sup>\[如皋\]</sup>｜肚子吃得～的<sup>\[泰兴\]</sup>｜黄豆角子结得～的<sup>\[泰兴\]</sup>  
 1. 【[饱裸裸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_lu_lu.md#饱裸裸)】`bo3 lu lu` <sup>[东台]</sup> 形容饱满充实得遮不住露了出来：大田里玉米籽～的。  
 1. 【[饱闷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_men.md#饱闷)】`bo3 men5` <sup>[如皋]</sup> 胀闷感。  

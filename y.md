@@ -41,15 +41,17 @@
 1. 【[鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y.md#鱼)】`y2` 鱼  
 1. 【[鱼饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_bien.md#鱼饼)】`y2 bien3` <sup>[如皋]</sup> 用鱼之肉打成腐，加蛋液葱姜等，手捏出圆状，下滚油炸成的黄色小球饼，食材。  
 1. 【[鱼叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_cha.md#鱼叉)】`y2 cha1` <sup>[如东]</sup> 戳鱼的工具。齿长，柄长。有排叉、灯笼叉、飞叉等种。  
+1. 【[鱼叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_cha.md#鱼叉)】`y2 cha1` <small>/y2 t͡sʰɑ1/<sup>泰兴</sup></small> 捕鱼用的叉。<sup>\[泰兴\]</sup>  
 1. 【[鱼虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_chon.md#鱼虫)】`y2 chon2` <sup>[兴化]</sup> 水蚤，可作金鱼的饵料。也称“金鱼虫子”。  
 1. 【[鱼镩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_cun.md#鱼镩)】`y2 cun5` <sup>[如皋]</sup> 皆缝麻袋的铁针。  
 1. 【[鱼刺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_cz.md#鱼刺)】`y2 cz5` <sup>[如皋]</sup> ① 鱼鳍上的硬刺。 ② 鱼卡、鱼骨尖刺。  
 1. 【[鱼斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_deu.md#鱼斗)】`y2 deu3` <sup>[如东]</sup> 房屋骑木下边的方形木料。有的雕花。  
 1. 【[鱼到啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_do_a.md#鱼到啊)】`y2 do5 a` <sup>[东台]</sup> 喜宴习俗。主莱上完以后，由一位师傅手捧一盘鱼，高声吆喝“～”，客人齐声应和“鱼存”，既暗示“鱼到酒止”，又用以祝愿主人“年年有余”。  
 1. 【[鱼到酒止](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_do_jieu_zhr.md#鱼到酒止)】`y2 do5 jieu3 zhr3` <sup>[泰州]</sup> 民俗，红白喜事筵席，最后一道正菜通常为红烧鱼，鱼上桌后，暗示客人下面要上饭了，客人就会停止闹酒，将杯中酒喝尽以后吃饭，谓之“鱼到酒止”：上鱼唻，～，大家把杯里酒干掉，吃饭吧。  
-1. 【[鱼冻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_don.md#鱼冻)】`y2 don5` <small>/y2 toŋ5/<sup>兴化</sup>, /y2 tɔŋ5/<sup>如皋</sup></small> ① 鱼汤结成的胶冻。<sup>\[如皋\]</sup> ② 鱼煮熟后，汁液在低温下凝结成乳状。<sup>\[如东\]</sup> ③ 红烧鱼的汤汁凝结而成的胶状物。<sup>\[兴化\]</sup> ④ 鱼汤凝固成固态胶体，冬季佳肴之一。<sup>\[泰州\]</sup>  
+1. 【[鱼冻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_don.md#鱼冻)】`y2 don5` <small>/y2 toŋ5/<sup>兴化</sup>, /y2 tɔŋ5/<sup>如皋</sup>, /y2 tɔŋ5/<sup>泰兴</sup></small> ① 鱼汤结成的胶冻。<sup>\[如皋\]</sup> ② 鱼煮熟后，汁液在低温下凝结成乳状。<sup>\[如东\]</sup> ③ 红烧鱼的汤汁凝结而成的胶状物。<sup>\[兴化\]</sup> ④ 鱼汤凝固成固态胶体，冬季佳肴之一。<sup>\[泰州\]</sup> ⑤ 食品。鱼烹煮后的汤汁凝结成的半固体。<sup>\[泰兴\]</sup>  
 1. 【[鱼簖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_dun.md#鱼簖)】`y2 dun5` <sup>[如皋]</sup> 大河上定点捕鱼虾蟹的拦河栅，及大扳罾等设施。  
-1. 【[鱼肚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_dv.md#鱼肚)】`y2 dv3` ① 鱼鳔。<sup>\[如东\]</sup> ② 用鲟、鲵鱼鳔制成的食物，高档海味之一。<sup>\[泰州\]</sup>  
+1. 【[鱼肚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_dv.md#鱼肚)】`y2 dv3` <small>/y2 tu3/<sup>泰兴</sup></small> ① 鱼鳔。<sup>\[如东\]</sup> ② 用鲟、鲵鱼鳔制成的食物，高档海味之一。<sup>\[泰州\]</sup> ③ 高档海鲜食品。用某些鱼类的鳔制成的上乘佳肴。<sup>\[泰兴\]</sup>  
+1. 【[鱼肚海参](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_dv_hae_shen.md#鱼肚海参)】`y2 dv3 hae3 shen1` <small>/y2 tu3 xɛ3 səŋ1/<sup>泰兴</sup></small> 泛指珍稀的海鲜、水产。<sup>\[泰兴\]</sup>  
 1. 【[鱼放吖在坞子里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_fan_nga_cae.md#鱼放吖在坞子里)】`y2 fan5 nga cae6 v5 zz lii` <sup>[东台]</sup> 把鱼捉到了篓子里。［喻］十拿九稳，成功的把握很大。  
 1. 【[鱼浮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_fv_zz.md#鱼浮子)】`y2 fv2 zz` <sup>[如皋]</sup> 钓鱼线上的浮标，常用鹅、鸭毛莛儿制成。  
 1. 【[鱼腐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_fv.md#鱼腐)】`y2 fv3` <sup>[如皋]</sup> 鱼之肉剁成的糜。见“鱼圆”。  
@@ -57,32 +59,39 @@
 1. 【[鱼拐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_guae_zz.md#鱼拐子)】`y2 guae3 zz` <small>/y2 kuɛ3 t͡sɿ/<sup>兴化</sup></small> ① 鱼的卵，煮熟后成块状，黄色<sup>\[兴化\]</sup>：“现在鲫鱼不肥，满肚子～。”（马春阳《昏迷再婚迷》）<sup>\[兴化\]</sup> ② 呈块状的鱼籽。<sup>\[泰州\]</sup>  
 1. 【[鱼干<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_gun_r.md#鱼干<sub>儿</sub>)】`y2 gun1 r` <sup>[如皋]</sup> 鱼制成的干货。  
 1. 【[鱼干子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_gun_zz.md#鱼干子)】`y2 gun1 zz` <sup>[兴化]</sup> 未经腌制而晒干的小鱼。  
+1. 【[鱼花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_hua.md#鱼花)】`y2 hua1` <small>/y2 xuɑ1/<sup>泰兴</sup></small> 鱼苗。<sup>\[泰兴\]</sup>：漂～<sup>\[泰兴\]</sup>  
 1. 【[鱼花<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_hua_r.md#鱼花<sub>儿</sub>)】`y2 hua1 r` <sup>[如东]</sup> 小鱼苗。  
 1. 【[鱼虎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_hv.md#鱼虎)】`y2 hv3` <sup>[如东]</sup> 翠鸟科动物翠鸟，体长约16厘米。嘴粗大而直先端不呈钩曲状，嘴峰稍圆而扁平，黑色。虹膜土黑色。头大，自额至枕蓝黑色，密杂翠蓝色横斑。额前左右边缘颊上部耳羽概栗棕色。颏、喉纯白。背面翠蓝色，肩和两翅的覆羽暗蓝色，稍杂以翠蓝色斑点。胸以下栗棕色。尾亦暗蓝。足短小，朱红色。单独栖于水边的树枝上。  
 1. 【[鱼𥲉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_hv_zz.md#鱼𥲉子)】`y2 hv5 zz` <small>/y2 fu5 t͡sɿ/<sup>如皋</sup></small> ① 篾制扁花瓶式鱼笼。<sup>\[如皋\]</sup> ② 一种圆口细颈呈扁壶状的盛鱼虾的篾篓。<sup>\[泰州\]</sup>  
 1. 【[鱼秧<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_ian_r.md#鱼秧<sub>儿</sub>)】`y2 ian1 r` <sup>[如皋]</sup> 鱼苗。  
-1. 【[鱼圆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_iun.md#鱼圆)】`y2 iun2` <small>/y2 yʊ̃2/<sup>如皋</sup></small> ① 用鱼之肉打成腐，加鸡蛋清和适量盐、水等和匀，手捏出圆状，下温汤凝成白色小圆子，稍沸而成菜料。极鲜嫩。<sup>\[如皋\]</sup> ② 鱼肉加调料做成圆子，肉嫩味鲜，营养丰富。<sup>\[如东\]</sup>  
+1. 【[鱼秧子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_ian_zz.md#鱼秧子)】`y2 ian1 zz` <small>/y2 yɑŋ1 t͡sɿ/<sup>泰兴</sup></small> 鱼苗<sup>\[泰兴\]</sup>  
+1. 【[鱼圆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_iun.md#鱼圆)】`y2 iun2` <small>/y2 yʊ̃2/<sup>如皋</sup>, /y2 yʊ̃2/<sup>泰兴</sup></small> ① 用鱼之肉打成腐，加鸡蛋清和适量盐、水等和匀，手捏出圆状，下温汤凝成白色小圆子，稍沸而成菜料。极鲜嫩。<sup>\[如皋\]</sup> ② 鱼肉加调料做成圆子，肉嫩味鲜，营养丰富。<sup>\[如东\]</sup> ③ 将鱼肉绞成细末加佐料作成的球状食品。<sup>\[泰兴\]</sup>  
+1. 【[鱼浇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_jio.md#鱼浇)】`y2 jio1` <small>/y2 t͡ɕiɔ1/<sup>泰兴</sup></small> 乡间美食。分脆浇、软浇两种。脆浇以脆花鱼泡汤而食，软浇则以花鱼块泡食之，均清香爽口，欲罢不能。汤则以新鲜鸡汤加佐料而成。黄桥鱼浇尤为可口。<sup>\[泰兴\]</sup>  
 1. 【[鱼卡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_ka.md#鱼卡)】`y2 ka3` <small>/y2 kʰa3/<sup>兴化</sup>, /y2 kʰa3/<sup>如皋</sup>, /ɻy2 kʰa3/<sup>泰县</sup></small> ① 鱼骨头，鱼刺<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup>：毛毛吃鱼要当心～。<sup>\[如东\]</sup> ② 工具。把竹篾扭弯，头部加套，套中存放铒料，鱼吞食时即被卡住。<sup>\[如东\]</sup>  
 1. 【[鱼𦟯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_leh.md#鱼𦟯)】`y2 leh8` <sup>[如皋]</sup> 鱼的精囊，似白油，与鱼一起煮食，味鲜嫩。  
 1. 【[鱼鳞云](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_lien_yen.md#鱼鳞云)】`y2 lien2 yen2` <sup>[如皋]</sup> 高空云景之一，大片若鱼鳞排列的云。  
+1. 【[鱼芒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_man.md#鱼芒)】`y2 man2` <small>/y2 mɑŋ2/<sup>泰兴</sup></small> 鱼刺<sup>\[泰兴\]</sup>  
 1. 【[鱼鸦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_nga.md#鱼鸦)】`y2 nga1` <small>/y2 ŋa1/<sup>如皋</sup></small> ① 鸬鹚。<sup>\[如皋\]</sup> ② 鸬鹚科动物鸬鹚，也称鹗、鱼鹰。体长约60厘米。嘴狭长呈圆锥形上嘴两侧有钩尖端有钩，下嘴有小蘷。上嘴黑褐，上嘴边缘和下嘴灰白，具砖红色斑。虹膜翠绿色。眼橄榄色；眼下橙黄色。嘴下具喉囊，有许多鲜黄色斑点捕获的鱼就放在囊内。体羽主要为黑色而带紫色金属光泽。生殖期间，胁下有一白色块斑。头后部有一不明显的羽冠。脚黑色4趾向前，具蹼及锐爪。栖息在河泊、沼泽及海滨，善潜水捕食鱼类。<sup>\[如东\]</sup>  
 1. 【[鱼鸦骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_nga_gueh.md#鱼鸦骨)】`y2 nga1 gueh7` <sup>[如东]</sup> 鸬鹚科动物鸬鹚骨。  
 1. 【[鱼鸦涎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_nga_saen.md#鱼鸦涎)】`y2 nga1 saen2` <sup>[如东]</sup> 鸬鹚科动物鸬鹚涏。  
 1. 【[鱼鸦翅羽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_nga_zhr_y.md#鱼鸦翅羽)】`y2 nga1 zhr5 y3` <sup>[如东]</sup> 鸬鹚科动物鸬鹚翅羽。  
 1. 【[鱼脑石](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_no_sheh.md#鱼脑石)】`y2 no3 sheh8` <sup>[如东]</sup> 石首科动物大黄鱼或小黄鱼头骨中的耳石。  
 1. 【[鱼箔子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_pah_zz.md#鱼箔子)】`y2 pah8 zz` <sup>[兴化]</sup> 由竹笼编成的帘子，用来打簖或在河湖中围拦养鱼。  
+1. 【[鱼箔子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_pah_zz.md#鱼箔子)】`y2 pah8 zz` <small>/y2 pʰɑʔ8 t͡sɿ/<sup>泰兴</sup></small> 竹编围养或捕鱼用的栅栏。<sup>\[泰兴\]</sup>  
 1. 【[鱼鳔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_pio.md#鱼鳔)】`y2 pio5` <sup>[如东]</sup> 某些鱼类体内可以涨缩的囊状物。里面充满氮、氧、二氧化碳等气体。收缩时鱼下沉，膨涨时鱼上浮。有的鱼类的鳔有辅助听觉或呼吸等作用。大黄鱼、小黄鱼、鮸鱼以及其他鱼鳔，入中药。  
 1. 【[鱼泡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_po.md#鱼泡)】`y2 po5` <small>/y2 pʰɔ5/<sup>兴化</sup>, /y2 pʰɔ5/<sup>如皋</sup></small> ① 鱼鳔。<sup>\[如皋\]</sup> ② 鱼鳔。<sup>\[兴化\]</sup>  
 1. 【[鱼白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_poh.md#鱼白)】`y2 poh8` <sup>[如东]</sup> 鱼的精液。  
 1. 【[鱼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_r.md#鱼<sub>儿</sub>)】`y2 r` <sup>[泰县]</sup> 鱼。  
 1. 【[鱼生火，肉生痰，豆腐百页保平安](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_shen_hu_roh.md#鱼生火，肉生痰，豆腐百页保平安)】`y2 shen1 hu3 roh8 shen1 taen2 teu6 fv boh7 ih8 bo3 pien2 un1` <sup>[东台]</sup> 简约式生活有益于健康。  
 1. 【[鱼生四两各有主](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_shen_sz_lian.md#鱼生四两各有主)】`y2 shen1 sz5 lian3 gah7 ieu3 zhv3` <sup>[兴化]</sup> 俗语，说明人或物最后都有一定的归宿：“……小冻鱼煮起来我还没有吃，真是～……就把你这个畜生搭酒。”（《皮五辣子》一）  
+1. 【[鱼生四两各有主](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_shen_sz_lian.md#鱼生四两各有主)】`y2 shen1 sz5 lian3 gah7 ieu3 zhv3` <small>/y2 səŋ1 sɿ5 liɑŋ3 kɑʔ7 iɤɯ3 t͡su3/<sup>泰兴</sup></small> 谓鱼虽在水中，但未来落谁口中自有主人。喻财富终归有主。<sup>\[泰兴\]</sup>  
 1. 【[鱼汤面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_tan_min.md#鱼汤面)】`y2 tan1 min6` ① 东台地方著名美食，曾在1915年巴拿马万国博览会获金奖。其特点是汤白而不腻，味鲜而不腥，质厚而不黏。<sup>\[东台\]</sup> ② 泰州特色早茶之一，面条的底汤是用鲫鱼之类煨的鱼汤。<sup>\[泰州\]</sup>  
 1. 【[鱼塘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_tan.md#鱼塘)】`y2 tan2` <sup>[兴化]</sup> 养鱼的池塘：到～钓鱼去。  
 1. 【[鱼坞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_v_zz.md#鱼坞子)】`y2 v5 zz` <sup>[东台]</sup> 诱鱼护鱼的敞口塘。  
 1. 【[鱼鲞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_xian.md#鱼鲞)】`y2 xian3` <small>/y2 ɕiã3/<sup>如皋</sup></small> ① 脊剖开而不割离制成的大鱼干，味美。<sup>\[如皋\]</sup> ② 海产品。将新鲜鱼剖开晒干，色淡白者为佳。<sup>\[如东\]</sup>  
 1. 【[鱼腥草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_xien_co.md#鱼腥草)】`y2 xien1 co3` <sup>[如东]</sup> 三白草科植物蕺菜，多年生草本。高约50厘米。茎下部伏地，节上生根。叶互生，心形，全缘，有细腺点，下面常紫色。穗状花序顶生。花白色。蒴果，卵圆形。种子多数，卵形。生长在阴湿地或水边。  
 1. 【[鱼腥气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_xien_qi.md#鱼腥气)】`y2 xien1 qi5` <sup>[如东]</sup> 鱼身上散发出来的一种特殊的腥气味。  
+1. 【[鱼籽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_zz.md#鱼籽)】`y2 zz3` <small>/y2 t͡sɿ3/<sup>泰兴</sup></small> 鱼卵<sup>\[泰兴\]</sup>  
 1. 【[雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y.md#雨)】`y3` <sup>[如东]</sup> 从云层中降向地面的水。云里的小水滴体积增大到不能悬浮在空气中时，就下降成为雨。  
 1. 【[雨塴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_bon_r.md#雨塴<sub>儿</sub>)】`y3 bon5 r` <sup>[如东]</sup> 下雨的间歇：我趁～家去。  
 1. 【[雨住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_chv.md#雨住)】`y3 chv6` <sup>[如东]</sup> 下雨停止：上午～。  

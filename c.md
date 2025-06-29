@@ -409,6 +409,7 @@
 1. 【[扯浆布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_jian_bv.md#扯浆布)】`cha3 jian1 bv5` <sup>[如皋]</sup> 做豆腐、磨粉等用于吊挂以漉去水分的白棉布兜。  
 1. 【[扯嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_jy.md#扯嘴)】`cha3 jy3` <sup>[如皋]</sup> 插言、不当的插言。  
 1. 【[扯裤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_kv_zz.md#扯裤子)】`cha3 kv5 zz` <sup>[如皋]</sup> 拉下裤腰。  
+1. 【[扯裤子放屁，多事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_kv_zz_fan.md#扯裤子放屁，多事)】`cha3 kv5 zz fan5 pi5 du1 shr6` <small>/t͡sʰɑ3 kʰu5 t͡sɿ fɑŋ5 pʰʝ5 tɤɯ1 sɿ1/<sup>泰兴</sup></small> 谓多此一举。<sup>\[泰兴\]</sup>  
 1. 【[扯两头马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_laen_teu_ma.md#扯两头马)】`cha3 laen3 teu2 ma3` <sup>[东台]</sup> 两处的事都要分心操劳：这段时间，他要在城里上班，又要到乡下服侍老人，～。  
 1. 【[扯两头马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_lian_teu_ma.md#扯两头马)】`cha3 lian3 teu2 ma3` <sup>[泰州]</sup> 比喻两处的事都要操心：你要上南京同新妇带伢儿，就在南京安心带伢儿，你要在泰州照顾老头子，就在泰州安心照顾老头子，像你这格局南京泰州来回奔，～肯定不行。  
 1. 【[扯铃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_lien.md#扯铃)】`cha3 lien2` <sup>[泰州]</sup> 空竹，一种竹子制作成的玩具。  

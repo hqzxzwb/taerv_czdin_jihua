@@ -1668,8 +1668,7 @@
 1. 【[漷泡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huah_po.md#漷泡)】`huah8 po1` <sup>[泰州]</sup> ① （泰州词典作阳入，故未写 㸌） ② 皮肤因受凉或摩擦过度、或被高温所灼而起水泡：你嘴边上都～唻，看来是寒凉受啊足咖唻。  
 1. 【[濩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huah.md#濩)】`huah8, vah8` ① 摇晃（液体） ② （液体）动荡的样子  
 1. 【[濩/漷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huah.md#濩/漷)】`huah8` <small>/xuaʔ8/<sup>兴化</sup></small> ① 液体晃荡<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：水舀得太满，～～的。<sup>\[兴化\]</sup>｜一担水挑到家～掉一半。<sup>\[兴化\]</sup>｜你盛吖浅吖点ㄦ就不～咖。<sup>\[泰州\]</sup>｜一担水跳到家就捱他～掉一半。<sup>\[泰州\]</sup> ② 在水中摆动物体，借助水流冲击使物体漂洗干净<sup>\[泰州\]</sup>：衣裳汏得差不多唻，在河里～咖子就行吖唻。<sup>\[泰州\]</sup>｜萝卜刚刚洗过啊，在清水里～～就干净吖唻。<sup>\[泰州\]</sup>  
-1. 【[霍闪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huah_shin.md#霍闪)】`huah8 shin3` <sup>[泰县]</sup> 闪电：落雨天～。  
-1. 【[霍闪/曤晱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huah_shin.md#霍闪/曤晱)】`huah8 shin3` <sup>[泰州]</sup> 打闪，电光急速掠过天空。  
+1. 【[霍闪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huah_shin.md#霍闪)】`huah8 shin3` <small>/xuɑʔ8 ɕĩ3/<sup>泰兴</sup>, /xuɑʔ8 ɕiɪ̃3/<sup>泰县</sup></small> 打闪，发生闪电<sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：落雨天～。<sup>\[泰县\]</sup>  
 1. 【[慌慌快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_huan_kuae.md#慌慌快)】`huan1 huan1 kuae5` <sup>[东台]</sup> 办事着急慌忙，速度快，但比较毛糙，质量不高。  
 1. 【[慌里慌张](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_lii_huan_zhan.md#慌里慌张)】`huan1 lii huan1 zhan1` <sup>[东台]</sup> 忙乱，不除一般沉着。  
 1. 【[荒场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_chan.md#荒场)】`huan1 chan` <sup>[如皋]</sup> 无主坟场。乱坟场。  
@@ -1857,6 +1856,7 @@
 1. 【[𣝗得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_deh.md#𣝗得)】`hueh8 deh` <sup>[如皋]</sup> 惊呆、痴呆状。  
 1. 【[𣝗髅<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_leu_r.md#𣝗髅<sub>儿</sub>)】`hueh8 leu2 r` <sup>[如东]</sup> ① 干枯无肉的死人头骨。 ② 比喻人的头：～不小。  
 1. 【[𣝗髅<sub>儿</sub>搬家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_leu_r_bun.md#𣝗髅<sub>儿</sub>搬家)】`hueh8 leu2 r bun1 jia1` <sup>[如东]</sup> 头被砍了。  
+1. 【[𣝗突](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_teh.md#𣝗突)】`hueh8 teh` <small>/xuəʔ8 tʰəʔ/<sup>泰兴</sup></small> 糊涂<sup>\[泰兴\]</sup>  
 1. 【[𣝗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_zz.md#𣝗子)】`hueh8 zz, veh8 zz` <sup>[如东]</sup> ① 果实中坚硬并包含种仁的部分。 ② 肌肤里的瘤块。  
 1. 【[𣝗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_zz.md#𣝗子)】`hueh8 zz` <small>/xuəʔ7 t͡sɿ/<sup>兴化</sup>, /xuəʔ8 t͡sɿ/<sup>如皋</sup>, /xuəʔ8 t͡se/<sup>泰县</sup></small> ① 果核<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup>：桃～、杏～。<sup>\[如皋\]</sup>｜桃～<sup>\[东台\]</sup>｜枣～；梨～<sup>\[兴化\]</sup> ② 皮下的硬块。<sup>\[如皋\]</sup> ③ 身上淋巴结肿大。<sup>\[如皋\]</sup> ④ 疙瘩<sup>\[泰县\]</sup>：心里有个～。<sup>\[泰县\]</sup>  
 1. 【[灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei.md#灰)】`huei1` <small>/xuəɪ1/<sup>泰兴</sup></small> ① 尘土<sup>\[泰州\]</sup>：把身上的～掸吖子再家来。<sup>\[泰州\]</sup> ② 垃圾<sup>\[泰州\]</sup>：把畚斗里的～倒啊外头灰堆上去。<sup>\[泰州\]</sup> ③ 垃圾；粉尘。<sup>\[泰兴\]</sup>  
@@ -2013,6 +2013,7 @@
 1. 【[婚期](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_qi.md#婚期)】`huen1 qi1` <sup>[东台]</sup> 结婚的日期。  
 1. 【[婚丧红白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_san_hon_poh.md#婚丧红白)】`huen1 san1 hon2 poh8` <sup>[兴化]</sup> 与婚、丧、喜、庆有关的事宜：……或有～等事，王夫人贺吊迎送，应酬不暇……（《红楼梦》五五）  
 1. 【[昏觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_go.md#昏觉)】`huen1 go5` <sup>[如皋]</sup> ① 熟睡难醒的样子。 ② 指“尿床”。  
+1. 【[昏话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_hua.md#昏话)】`huen1 hua6` <small>/xuəŋ1 xuɑ1/<sup>泰兴</sup></small> 犹胡话。没有根据或没有道理的话。<sup>\[泰兴\]</sup>  
 1. 【[昏里核登的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_lii_heh_den.md#昏里核登的)】`huen1 lii heh8 den1 dii` <sup>[如皋]</sup> 头脑发昏。  
 1. 【[昏里昏懂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_lii_huen_don.md#昏里昏懂)】`huen1 lii huen1 don3` <sup>[兴化]</sup> 昏头昏脑，思辨不清：这个糊涂账把我查得～的。  
 1. 【[昏里六冲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_lii_loh_chon.md#昏里六冲)】`huen1 lii loh8 chon5` <small>/xuəŋ1 nɿ nɔʔ8 t͡sʰoŋ5/<sup>泰县</sup></small> 昏头昏脑<sup>\[泰县\]</sup><sup>\[泰州\]</sup>\[东台：同“昏头六冲”。\]：你怎吖～的撞到我这许来啊？<sup>\[泰县\]</sup>｜处长刚才捱他俫几个人弄得～的，你的事明朝子再说吧。<sup>\[泰州\]</sup>｜他酒多啊，这一刻儿～的，这势子走，路上不安全。<sup>\[泰州\]</sup>  
@@ -2020,6 +2021,8 @@
 1. 【[昏头搭脑的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_teu_daeh_no.md#昏头搭脑的)】`huen1 teu2 daeh7 no3 dii` <sup>[如皋]</sup> 头脑发昏。  
 1. 【[昏头昏脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_teu_huen_no.md#昏头昏脑)】`huen1 teu2 huen1 no3` ① 神志不清，糊里糊涂。<sup>\[如东\]</sup>：这些日子，整天～的。<sup>\[如东\]</sup> ② 头脑昏沉，意识模糊。<sup>\[东台\]</sup>  
 1. 【[昏头六冲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_teu_loh_chon.md#昏头六冲)】`huen1 teu2 loh8 chon5` <small>/xuən1 tʰɤ2 lɔʔ8 t͡sʰoŋ5/<sup>兴化</sup>, /xuəŋ1 tʰei2 lɔʔ8 t͡sʰɔŋ5/<sup>如皋</sup></small> 头脑发昏，糊里糊涂<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[如皋\]</sup>：这两天血压升高，老是～的。<sup>\[东台\]</sup>｜这几天忙得～的。<sup>\[兴化\]</sup>｜他吃咖醉啊，头里～的。<sup>\[如皋\]</sup>  
+1. 【[昏头六十三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_teu_loh_sheh.md#昏头六十三)】`huen1 teu2 loh8 sheh saen1` <small>/xuəŋ1 tʰəɪ2 lɔʔ8 səʔ ɕiɛ̃1/<sup>泰兴</sup></small> 昏头昏脑的样子。<sup>\[泰兴\]</sup>  
+1. 【[昏头鹅<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_teu_ngu_r.md#昏头鹅<sub>儿</sub>)】`huen1 teu2 ngu2 r` <small>/xuəŋ1 tʰəɪ2 ŋɤɯ˞2/<sup>泰兴</sup></small> 喻人晕头转向，昏晕。<sup>\[泰兴\]</sup>  
 1. 【[昏头转向](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_teu_zhun_xian.md#昏头转向)】`huen1 teu2 zhun3 xian5` <sup>[东台]</sup> 头脑发昏，迷失方向。  
 1. 【[昏天黑地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_tin_heh_ti.md#昏天黑地)】`huen1 tin1 heh7 ti6` <sup>[东台]</sup> ［喻］形容头昏眼花。  
 1. 【[荤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen.md#荤)】`huen1` 肉类食物  
