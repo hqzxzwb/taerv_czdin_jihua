@@ -547,13 +547,13 @@
 1. 【[飞鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_y.md#飞鱼)】`fei1 y2` <sup>[如东]</sup> 飞鱼科动物燕鳐鱼，体长而扁圆，略呈梭形。  
 1. 【[飞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_zz.md#飞子)】`fei1 zz` <small>/fəi1 t͡sɿ/<sup>兴化</sup></small> ① 以纸条（古代以竹签）为据领取钱物的券、筹、符、发票等。（《汉典》释为一种以窄纸条做成，凭以领钱的筹码。）<sup>\[东台\]</sup>：“借书人把书单叫做～。” (汪曾祺《翠湖心影》)<sup>\[东台\]</sup> ② 商店收款后，发的顾客的简易取货凭证<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：服务员凭～上菜。<sup>\[兴化\]</sup>  
 1. 【[肥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei.md#肥)】`fei2` <small>/fəɪ2/<sup>泰县</sup></small> ① 菜肴中肥肉多，肥味浓厚。<sup>\[如东\]</sup>：肥肉多，太～。<sup>\[如东\]</sup> ② 宽大。<sup>\[如东\]</sup>：这件衣裳～。<sup>\[如东\]</sup> ③ 粗。<sup>\[泰县\]</sup> ④ 胖<sup>\[泰州\]</sup>：人长得太～，不好看。<sup>\[泰州\]</sup> ⑤ 粗<sup>\[泰州\]</sup>：这根竹子太～，不好用。<sup>\[泰州\]</sup>  
-1. 【[肥膘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_bio.md#肥膘)】`fei2 bio1` <small>/fəi2 piɔ1/<sup>兴化</sup>, /fei2 piɔ1/<sup>如皋</sup></small> ① 含脂肪多的肉，与“实膘”（瘦肉）相对。<sup>\[兴化\]</sup> ② 也指人虚胖，身上肌肉少。<sup>\[兴化\]</sup> ③ 肥肉的膘情，即肥肉的厚薄虚实。<sup>\[如皋\]</sup>  
+1. 【[肥膘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_bio.md#肥膘)】`fei2 bio1` <small>/fəi2 piɔ1/<sup>兴化</sup>, /fei2 piɔ1/<sup>如皋</sup>, /fəɪ2 piɔ1/<sup>泰兴</sup></small> ① 含脂肪多的肉，与“实膘”（瘦肉）相对。<sup>\[兴化\]</sup> ② 也指人虚胖，身上肌肉少。<sup>\[兴化\]</sup> ③ 肥肉的膘情，即肥肉的厚薄虚实。<sup>\[如皋\]</sup> ④ 肥肉。<sup>\[泰兴\]</sup>  
 1. 【[肥差事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_chae_shr.md#肥差事)】`fei2 chae1 shr6` <sup>[如皋]</sup> 轻松、赚钱多的交易。  
 1. 【[肥肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_chan.md#肥肠)】`fei2 chan2` <sup>[如东]</sup> 猪大肠。多指已经加工过的熟货。  
 1. 【[肥串](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_chun.md#肥串)】`fei2 chun` <sup>[兴化]</sup> ① 肥：这只鸭子蛮～的。 ② （借）指人的家底厚，有余资、剩米：他家表面寒酸，骨里～㗁！  
 1. 【[肥皂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_co.md#肥皂)】`fei2 co6` <sup>[如东]</sup> 洗涤污垢的化学制品，块状。一般用油脂和氢氧化钠制成。  
 1. 【[肥大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_da.md#肥大)】`fei2 da6` <sup>[如东]</sup> 形容很大。  
-1. 【[肥大块](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_da_kuae.md#肥大块)】`fei2 da6 kuae5` <sup>[东台]</sup> 大块的肥肉。  
+1. 【[肥大块](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_da_kuae.md#肥大块)】`fei2 da6 kuae5` <small>/fəɪ2 tɑ1 kʰuɛ5/<sup>泰兴</sup></small> 大块的肥肉<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[肥耷耷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_dah_dah.md#肥耷耷)】`fei2 dah7 dah7` <sup>[泰州]</sup> 烂熟肥肉包含脂肪、累累下垂的样子：今天的槽头肉，烧得～的，侭你吃。  
 1. 【[肥兜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_deu.md#肥兜)】`fei2 deu1` <sup>[东台]</sup> 指大吃大喝好饭好菜。  
 1. 【[肥㾑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_duh.md#肥㾑)】`fei2 duh7` <sup>[泰县]</sup> 富裕：这人～。  
@@ -575,7 +575,7 @@
 1. 【[肥水不落外人田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_shuei_beh_lah.md#肥水不落外人田)】`fei2 shuei3 beh7 lah8 vae6 ren2 tin2` <sup>[东台]</sup> ［喻］好处不给别人。  
 1. 【[肥头大耳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_teu_da_er.md#肥头大耳)】`fei2 teu2 da6 er3` <sup>[东台]</sup> 肥胖的样子。  
 1. 【[肥头胖脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_teu_pan_no.md#肥头胖脑)】`fei2 teu2 pan5 no3` <sup>[兴化]</sup> 身体肥胖，脑袋尤显硕大：他这年把吃公款吃得～的。  
-1. 【[肥田粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_tin_fen.md#肥田粉)】`fei2 tin2 fen3` <sup>[东台]</sup> 碳铵，肥料的一种。  
+1. 【[肥田粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_tin_fen.md#肥田粉)】`fei2 tin2 fen3` <small>/fəɪ2 tʰĩ2 fəŋ3/<sup>泰兴</sup></small> 碳铵，肥料的一种。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[肥正](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_zhen.md#肥正)】`fei2 zhen5` <sup>[泰县]</sup> 丰满。  
 1. 【[肥壮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_zhuan.md#肥壮)】`fei2 zhuan5` <sup>[如东]</sup> 肥厚壮实。  
 1. 【[肥猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_zhv.md#肥猪)】`fei2 zhv1` <sup>[如东]</sup> ① 骟过的猪。也叫壮猪。 ② 膘好的猪。  
@@ -757,15 +757,20 @@
 1. 【[服气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_qi.md#服气)】`foh8 qi5` ① 信服。<sup>\[如东\]</sup>：让他获奖，我～。<sup>\[如东\]</sup> ② 听从；信服。<sup>\[东台\]</sup>  
 1. 【[服邪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_qia.md#服邪)】`foh8 qia2` <sup>[兴化]</sup> 被迫认输：他开始不信大学生会种田，看见人家真的有一套才～。  
 1. 【[服降](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_qian.md#服降)】`foh8 qian2` <sup>[泰州]</sup> 承认对方能力、水平高于自己而佩服，服气。  
+1. 【[服软](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_run.md#服软)】`foh8 run3` <small>/fɔʔ8 ɻʊ̃3/<sup>泰兴</sup></small> 犹认输、认错。服从劝说。<sup>\[泰兴\]</sup>：～不服硬<sup>\[泰兴\]</sup>  
 1. 【[服软不服硬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_run_beh_foh.md#服软不服硬)】`foh8 run3 beh7 foh8 ngen6` <sup>[东台]</sup> 对委婉的批评、劝导可以接受，对强烈的指责反而抵制：这小伙～，要注意相处方法。  
 1. 【[服侍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_shr.md#服侍)】`foh8 shr` <sup>[兴化]</sup> 反语——对付。也作“伏侍”：那个歹徒太凶狠，几个民警～一个，才把他制伏。  
+1. 【[服侍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_shr.md#服侍)】`foh8 shr` <small>/fɔʔ8 sɿ/<sup>泰兴</sup></small> 侍候，照料。<sup>\[泰兴\]</sup>  
 1. 【[服侍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_shr.md#服侍)】`foh8 shr5` <sup>[东台]</sup> 照料、照应、侍候。  
 1. 【[服侍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_shr.md#服侍)】`foh8 shr6` <sup>[泰州]</sup> 在尊长、老人或者病人身边照料生活起居：他家老的住院，老李请吖假在医院里～。  
 1. 【[服输](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_shv.md#服输)】`foh8 shv1` <sup>[如皋]</sup> 认输。  
+1. 【[服输](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_shv.md#服输)】`foh8 shv1` <small>/fɔʔ8 su1/<sup>泰兴</sup></small> 认输，承认失败。<sup>\[泰兴\]</sup>  
 1. 【[服头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_teu.md#服头)】`foh8 teu2` <small>/fɔʔ8 tʰɤ2/<sup>兴化</sup></small> ① 渐渐适应<sup>\[兴化\]</sup>：他才调到基层工作不安心，慢慢的才～。<sup>\[兴化\]</sup> ② 经过一段时间以后，最初出现的不适应或者不习惯的情况，逐渐适应<sup>\[泰州\]</sup>：你才到泰州来生活，总有些不～，过些时候适应吖就没事唻。<sup>\[泰州\]</sup>  
 1. 【[服帖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_tih.md#服帖)】`foh8 tih7` <sup>[东台]</sup> ① 顺从、驯服：他有本领，调皮的人到他跟前都～得很。 ② 妥当，平稳：交他办的事没得哪桩不～。  
+1. 【[服帖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_tih.md#服帖)】`foh8 tih7` <small>/fɔʔ8 tʰiʔ7/<sup>泰兴</sup></small> 驯服，敬服。服服帖贴。<sup>\[泰兴\]</sup>  
 1. 【[服下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_xia.md#服下)】`foh8 xia6` <sup>[如皋]</sup> 认输。  
 1. 【[服降](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_xian.md#服降)】`foh8 xian2` <sup>[如皋]</sup> 认输，承认输了。  
+1. 【[服降](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_xian.md#服降)】`foh8 xian2` <small>/fɔʔ8 ɕiɑŋ2/<sup>泰兴</sup></small> 本指屈膝投降，乡人则指服软、认输等意。<sup>\[泰兴\]</sup>  
 1. 【[服周](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_zheu.md#服周)】`foh8 zheu1` <small>/fɔʔ8 t͡sɤ1/<sup>兴化</sup></small> ① 服输；服气。参见“服赌”和“不服周”。<sup>\[东台\]</sup> ② 即伏死。“周”为“周而复始”的首字，“始”与“死”同音<sup>\[兴化\]</sup>：你不～，板砖头砸天去！<sup>\[兴化\]</sup>  
 1. 【[丰利场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_li_chan.md#丰利场)】`fon1 li6 chan2` <sup>[如东]</sup> 宋太祖赵匡胤乾德年间（967年），建立如皋县丰利盐场。面积805平方公里。隶属于淮南东路泰州军。民国元年（1912年），丰利场并入掘港场，称丰掘场。  
 1. 【[丰利镇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_li_zhen.md#丰利镇)】`fon1 li6 zhen5` <sup>[如东]</sup> 如东古镇。唐代，为沿海村。相传唐·睿宗太极年间（712年），大圣寺旁边生长着两棵枫树，故名“枫树镇”“古枫镇”，后取丰利之义，名丰利镇。  

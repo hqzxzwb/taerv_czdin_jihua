@@ -1408,15 +1408,17 @@
 1. 【[饱喀喀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_ka_ka.md#饱喀喀)】`bo3 ka2 ka2` <sup>[兴化]</sup> 形容吃得很饱。旧时“数来宝”有云：两个烧饼一碗茶，肚子吃得～。  
 1. 【[饱拤拤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_ka_ka.md#饱拤拤)】`bo3 ka2 ka2` <sup>[如皋]</sup> 吃得过饱而微喘。  
 1. 【[饱拤拤的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_ka_ka_dii.md#饱拤拤的)】`bo3 ka2 ka2 dii` <sup>[东台]</sup> 饭、菜吃得既饱又痛快：今吖些弟兄一个个吃得～。  
-1. 【[饱𦙶𦙶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_kv_kv.md#饱𦙶𦙶)】`bo3 kv2 kv2` <small>/pɔ3 kʰu2 kʰu2/<sup>如皋</sup></small> ① 充满隆起状<sup>\[如皋\]</sup>：袋儿里塞得～的。<sup>\[如皋\]</sup> ② 颗粒饱满。<sup>\[东台\]</sup> ③ 形容衣服穿得多，袋子装得满。<sup>\[东台\]</sup>  
+1. 【[饱𦙶𦙶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_kv_kv.md#饱𦙶𦙶)】`bo3 kv2 kv2` <small>/pɔ3 kʰu2 kʰu2/<sup>如皋</sup>, /pɔ3 kʰu2 kʰu2/<sup>泰兴</sup></small> 充满隆起状<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>\[东台：颗粒饱满；衣服穿得多；袋子装得满。\]：袋儿里塞得～的。<sup>\[如皋\]</sup>｜肚子吃得～的<sup>\[泰兴\]</sup>｜黄豆角子结得～的<sup>\[泰兴\]</sup>  
 1. 【[饱裸裸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_lu_lu.md#饱裸裸)】`bo3 lu lu` <sup>[东台]</sup> 形容饱满充实得遮不住露了出来：大田里玉米籽～的。  
+1. 【[饱闷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_men.md#饱闷)】`bo3 men5` <sup>[如皋]</sup> 胀闷感。  
 1. 【[饱闷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_men.md#饱闷)】`bo3 men5` <sup>[泰州]</sup> 一种不舒服的感觉，换着感觉腹中胀气，呼吸不畅：我这一刻儿有点儿～，你给我出去走个盹儿。  
-1. 【[饱闷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_men.md#饱闷)】`bo3 men6` <sup>[如皋]</sup> 胀闷感。  
+1. 【[饱闷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_men.md#饱闷)】`bo3 men5` <small>/pɔ3 məŋ5/<sup>泰兴</sup></small> 胃不舒服，有饱胀郁气之感。<sup>\[泰兴\]</sup>  
 1. 【[饱眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_ngaen.md#饱眼)】`bo3 ngaen3` <sup>[如东]</sup> 因为看见过多而感觉厌烦：天天吃鱼，大家都～吖。  
 1. 【[饱偄偄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_nun_nun.md#饱偄偄)】`bo3 nun nun5` <sup>[如皋]</sup> 丰满或隆起：她的脸～的。  
 1. 【[饱食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_sheh.md#饱食)】`bo3 sheh8` <sup>[如皋]</sup> 指禽畜吃饱的时候：猪子～称120斤，饿食不足  
 1. 【[饱楦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_xiun.md#饱楦)】`bo3 xiun5` <sup>[兴化]</sup> 形容面部浑圆饱满：～脸儿。  
 1. 【[饱楦脸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_xiun_lin_r.md#饱楦脸<sub>儿</sub>)】`bo3 xiun5 lin3 r` <sup>[东台]</sup> 肌肉丰满的脸蛋。  
+1. 【[饱楦楦的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_xiun_xiun_dii.md#饱楦楦的)】`bo3 xiun5 xiun5 dii` <small>/pɔ3 ɕyʊ̃5 ɕyʊ̃5 təɪ/<sup>泰兴</sup></small> 饱满。饱鼓鼓的。<sup>\[泰兴\]</sup>  
 1. 【[饱楦子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_xiun_zz.md#饱楦子)】`bo3 xiun5 zz` <sup>[如皋]</sup> 脸型饱满的样子。  
 1. 【[□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_iun.md#□□)】`bo5 iun` <small>/pɔ5 yʊ̃/<sup>如皋</sup>, /pɔ5 yʊ̃/<sup>泰兴</sup></small> （詈）傻子，傻瓜，犹“丢架子的东西”<sup>\[泰兴\]</sup><sup>\[如皋\]</sup>  
 1. 【[堡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#堡)】`bo5` 地名用字。声调阴去。泰兴境内地名“堡”一般读此音：宣～，泰兴一镇，民间称宣家～。宣堡辖张家～、杨家～、石家～｜根思辖小杨家～、许家～  

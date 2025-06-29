@@ -1465,7 +1465,7 @@
 1. 【[□一冲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_ieh_chon.md#□一冲)】`mo3 ieh7 chon5` <sup>[如皋]</sup> 陡然、突然：我～遇到他，真的认不出来呀。  
 1. 【[㴘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo.md#㴘)】`mo3` <sup>[东台]</sup> 泡渍：你把这块肉下锅用水～下子。  
 1. 【[冇口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_keu.md#冇口)】`mo3 keu3` <sup>[如皋]</sup> 见“夹冇”。  
-1. 【[卯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo.md#卯)】`mo3` <small>/mɔ3/<sup>兴化</sup></small> ① 地支第四位。<sup>\[东台\]</sup> ② 旧时官衙规定～时开始办公（早晨5-7点），所以用～作为点名、签到的代称。<sup>\[东台\]</sup> ③ 逃脱<sup>\[兴化\]</sup>：这回又让他～掉啊。<sup>\[兴化\]</sup>  
+1. 【[卯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo.md#卯)】`mo3` <small>/mɔ3/<sup>兴化</sup></small> ① 地支第四位。 ② 旧时官衙规定～时开始办公（早晨5-7点），所以用～作为点名、签到的代称。<sup>\[东台\]</sup> ③ 逃脱<sup>\[兴化\]</sup>：这回又让他～掉啊。<sup>\[兴化\]</sup>  
 1. 【[卯住啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_chv_a.md#卯住啊)】`mo3 chv a` <small>/mɔ3 t͡sʰu a/<sup>泰兴</sup></small> 懵住，无话可说\[泰兴：泰兴口语又“卯住lei”\]：把他问吖～<sup>\[泰兴\]</sup>  
 1. 【[卯调](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_dio.md#卯调)】`mo3 dio5` <sup>[兴化]</sup> 说话过了头：这话说咖～，不好收回。也说“冒调”。  
 1. 【[卯口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_keu.md#卯口)】`mo3 keu3` <sup>[如东]</sup> 用绳索打成一个圆形的扣，叫卯口。  

@@ -661,6 +661,7 @@
 1. 【[狗屄衙门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_bi_ia_men.md#狗屄衙门)】`geu3 bi1 ia2 men2` <sup>[如东]</sup> 比喻某些人或单位只进不出的思想作风。  
 1. 【[狗鳖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_bih_zz.md#狗鳖子)】`geu3 bih7 zz` <sup>[如皋]</sup> 狗虱。  
 1. 【[狗宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_bo.md#狗宝)】`geu3 bo3` <sup>[如东]</sup> 犬科动物狗胃中的结石。  
+1. 【[狗宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_bo.md#狗宝)】`geu3 bo3` <small>/kəɪ3 pɔ3/<sup>泰兴</sup></small> 狗的胆囊、肾脏或膀胱结石，中医用于治痈疮、噎嗝等病。<sup>\[泰兴\]</sup>  
 1. 【[狗二的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_er_dii.md#狗二的)】`geu3 er6 dii` <sup>[如皋]</sup> “肏”转为“二”，俏骂语。  
 1. 【[狗哼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_hen.md#狗哼)】`geu3 hen1` <sup>[兴化]</sup> 对哼、唱的贬义说法：饿得～；疼得～；热得～｜“从来南曲没有唱得这等妙的……如今京师虽有数十班，总似～一般。”（《梼杌闲评》七）  
 1. 【[狗獾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_hun.md#狗獾)】`geu3 hun1` <sup>[如东]</sup> 鼬科动物狗獾，体较肥大，身长55厘米。  
@@ -676,7 +677,7 @@
 1. 【[狗脸栽毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_lin_zae_mo.md#狗脸栽毛)】`geu3 lin3 zae1 mo2` <sup>[兴化]</sup> 指人容易变脸、发急：这个人～，一翻脸六亲不认。  
 1. 【[狗奶子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_nae_zz.md#狗奶子)】`geu3 nae1 zz` <sup>[如东]</sup> 枸杞子。  
 1. 【[狗牙丁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_nga_dien_zz.md#狗牙丁子)】`geu3 nga2 dien1 zz` <sup>[兴化]</sup> 连续的锥形花边：小儿的衣领上绲了一转～。  
-1. 【[狗咬吕洞宾——不识好人心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_ngo_ly_ton.md#狗咬吕洞宾——不识好人心)】`geu3 ngo3 ly3 ton6 bien1 beh7 sheh7 ho3 ren2 xien1` <sup>[东台]</sup>   
+1. 【[狗咬吕洞宾——不识好人心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_ngo_ly_ton.md#狗咬吕洞宾——不识好人心)】`geu3 ngo3 ly3 ton6 bien1 beh7 sheh7 ho3 ren2 xien1` <small>/kəɪ3 ŋɔ3 ləɪ3 tʰɔŋ1 piŋ1 pəʔ7 səʔ7 xɔ3 ɻəŋ2 ɕiŋ1/<sup>泰兴</sup></small> 不知好歹<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[狗咬乌龟——寻不到头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_ngo_v_guei.md#狗咬乌龟——寻不到头)】`geu3 ngo3 v1 guei1 qien2 beh7 do5 teu2` <sup>[东台]</sup>   
 1. 【[狗尿尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_nio_suei.md#狗尿尿)】`geu3 nio6 suei1` <sup>[兴化]</sup> （喻）木匠术语，指制成的桌凳四条腿不在个平面上，像狗撒尿时一条腿翘着。  
 1. 【[狗爬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_pa.md#狗爬)】`geu3 pa2` <sup>[兴化]</sup> 初学游泳时的一种姿势，俯伏于水面，两臂两腿不规则地扑蹬。  
@@ -685,10 +686,11 @@
 1. 【[狗皮倒到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_pi_do_do.md#狗皮倒到)】`geu3 pi2 do5 do5` <sup>[兴化]</sup> 见“狗皮倒灶”。  
 1. 【[狗皮倒灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_pi_do_zo.md#狗皮倒灶)】`geu3 pi2 do5 zo5` <sup>[兴化]</sup> 唠唠叨叨，找麻烦‖也说“狗皮倒倒。”：他经常来～的。｜你少要～的。  
 1. 【[狗皮膏药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_pi_go_iah.md#狗皮膏药)】`geu3 pi2 go1 iah` <sup>[东台]</sup> ［喻］骗人的货色。  
+1. 【[狗皮膏药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_pi_go_iah.md#狗皮膏药)】`geu3 pi2 go1 iah` <small>/kəɪ3 pʰʝ2 kɔ1 iɑʔ/<sup>泰兴</sup></small> 中医外用膏药。将药齊涂在小块狗皮上制成，能消淤止疼。旧时走江湖的人常假造狗皮膏药来骗取钱财，因用以比喻骗人的货色。<sup>\[泰兴\]</sup>  
 1. 【[狗蜱子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_pi_zz.md#狗蜱子)】`geu3 pi2 zz` <sup>[如东]</sup> 寄生在狗身上的一种蜱，灰褐色，略呈圆形，吸狗的血液。也叫狗鳖子、狗豆子。  
-1. 【[狗屁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_pi.md#狗屁)】`geu3 pi5` ① 比喻毫无用处。<sup>\[如东\]</sup>：放～！<sup>\[如东\]</sup> ② ［喻］指毫无价值。<sup>\[东台\]</sup>  
+1. 【[狗屁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_pi.md#狗屁)】`geu3 pi5` <small>/kəɪ3 pʰʝ5/<sup>泰兴</sup></small> ① 比喻毫无用处。<sup>\[如东\]</sup>：放～！<sup>\[如东\]</sup> ② ［喻］指毫无价值。<sup>\[东台\]</sup> ③ 骂人语。比喻荒谬低劣、毫无价值的言词或事物。<sup>\[泰兴\]</sup>  
 1. 【[狗屁叨叨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_pi_do_do.md#狗屁叨叨)】`geu3 pi5 do1 do1` <sup>[泰州]</sup> 詈词，骂人没完没了地说荒谬低劣的话：你上班迟到，领导批评你两句，你～的，想领导再凶你两句啊？  
-1. 【[狗屁倒灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_pi_do_zo.md#狗屁倒灶)】`geu3 pi5 do3 zo5` ① （詈语）唠叨太多，或做一些伤感情的事，令人讨厌。<sup>\[东台\]</sup> ② 比喻胡言乱语，行为乱七八糟。它常用于形容一个人小气、喜欢斤斤计较，或者形容一个人做了见不得人的事情<sup>\[泰州\]</sup>：这马马儿的嘴不好，成天～的，单位上没得一个人喜欢她。<sup>\[泰州\]</sup>  
+1. 【[狗屁倒灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_pi_do_zo.md#狗屁倒灶)】`geu3 pi5 do3 zo5` <small>/kəɪ3 pʰʝ5 tɔ3 t͡sɔ5/<sup>泰兴</sup></small> ① （詈语）唠叨太多，或做一些伤感情的事，令人讨厌。<sup>\[东台\]</sup> ② 比喻胡言乱语，行为乱七八糟。它常用于形容一个人小气、喜欢斤斤计较，或者形容一个人做了见不得人的事情<sup>\[泰州\]</sup>：这马马儿的嘴不好，成天～的，单位上没得一个人喜欢她。<sup>\[泰州\]</sup> ③ 谓以恶劣的态度辱骂别人。或谓办事很不上路。<sup>\[泰兴\]</sup>  
 1. 【[狗屁牢骚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_pi_lo_so.md#狗屁牢骚)】`geu3 pi5 lo2 so1` <sup>[泰县]</sup> 让人讨厌的牢骚：你再～的，我就打你。  
 1. 【[狗七滥八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_qieh_laen_baeh.md#狗七滥八)】`geu3 qieh7 laen6 baeh7` <sup>[东台]</sup> 乱七八糟，杂七杂八。  
 1. 【[狗吃屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_qieh_shr.md#狗吃屎)】`geu3 qieh7 shr3` <sup>[东台]</sup> 身体向前跌倒，面部着地（含嘲讽意味）：摔啊个～。  
@@ -698,16 +700,18 @@
 1. 【[狗肏骚娘的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_reh_so_nian.md#狗肏骚娘的)】`geu3 reh8 so1 nian2 dii` <sup>[如皋]</sup> 形容很狼狈，很倒霉。  
 1. 【[狗肏淡皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_reh_taen_pi.md#狗肏淡皮)】`geu3 reh8 taen6 pi2` <sup>[兴化]</sup> 原为国画技法“勾勒淡批”，讹变为市井语，意为无聊、没意思：有些胡编乱造的电视剧～，没得看头。  
 1. 【[狗肏淡屁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_reh_taen_pi.md#狗肏淡屁)】`geu3 reh8 taen6 pi5` <sup>[东台]</sup> 没有意义，不值一提。  
-1. 【[狗肉账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_roh_zhan.md#狗肉账)】`geu3 roh8 zhan5` <small>/kɤ3 lɔʔ8 t͡saŋ5/<sup>兴化</sup></small> ① 指鸡零狗碎的日用账，也指随手记载的收支账目<sup>\[兴化\]</sup>：他这本～旁人看不懂。<sup>\[兴化\]</sup> ② 坊间传说济公特别嗜好烧酒、狗肉，经常要大官、财主为其付账，后来遂以“狗肉账”比喻零零碎碎的吃喝账<sup>\[泰州\]</sup>：他出到差，这些乱七八糟的～就多啊不得命，哪一趟不要报个几千块钱。<sup>\[泰州\]</sup>  
+1. 【[狗肉账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_roh_zhan.md#狗肉账)】`geu3 roh8 zhan5` <small>/kɤ3 lɔʔ8 t͡saŋ5/<sup>兴化</sup>, /kəɪ3 ɻɔʔ8 t͡sɑŋ5/<sup>泰兴</sup></small> ① 指鸡零狗碎的日用账，也指随手记载的收支账目<sup>\[兴化\]</sup>：他这本～旁人看不懂。<sup>\[兴化\]</sup> ② 坊间传说济公特别嗜好烧酒、狗肉，经常要大官、财主为其付账，后来遂以“狗肉账”比喻零零碎碎的吃喝账<sup>\[泰州\]</sup>：他出到差，这些乱七八糟的～就多啊不得命，哪一趟不要报个几千块钱。<sup>\[泰州\]</sup> ③ 谓账本记载零碎而紊乱，看不出头绪。<sup>\[泰兴\]</sup>  
 1. 【[狗屎烂臭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_shr_laen_cheu.md#狗屎烂臭)】`geu3 shr3 laen6 cheu5` <sup>[东台]</sup> ［喻］令人不齿的人和事。  
+1. 【[狗屎烂臭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_shr_laen_cheu.md#狗屎烂臭)】`geu3 shr3 laen6 cheu5` <small>/kəɪ3 sɿ3 lɛ̃1 t͡ɕʰiɤɯ5/<sup>泰兴</sup></small> 喻无人再愿理睬。多指人反复啰嗦穷嘴。<sup>\[泰兴\]</sup>：话说三遍，～<sup>\[泰兴\]</sup>  
 1. 【[狗屎螺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_shr_lu_r.md#狗屎螺<sub>儿</sub>)】`geu3 shr3 lu1 r` 蜗牛  
 1. 【[狗屎麻塘的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_shr_ma_tan.md#狗屎麻塘的)】`geu3 shr3 ma2 tan2 dii` <sup>[如皋]</sup> ① 胡扯蛮缠：你跟他谈话，他同你～，没处弄！ ② 事情办糟、办砸、不道地：事情办得～。  
 1. 【[狗事麻缠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_shr_ma_chin.md#狗事麻缠)】`geu3 shr6 ma2 chin6` <sup>[东台]</sup> （詈语）本应回避或远离某人或某物，却去亲近或撩逗引起麻烦：不要同醉汉～的。  
 1. 【[狗头狗脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_teu_geu_no.md#狗头狗脑)】`geu3 teu2 geu3 no3` <small>/kɤ3 tʰɤ2 kɤ3 lɔ3/<sup>兴化</sup>, /kɤɯ3 tʰɤɯ2 kɤɯ3 nɔ3/<sup>泰县</sup></small> ① 形容小男孩健壮、活泼<sup>\[兴化\]</sup>：你家小孙子～的，好玩㗁。<sup>\[兴化\]</sup> ② 健康、结实<sup>\[泰县\]</sup>：这伢儿～，个个欢喜。<sup>\[泰县\]</sup>  
 1. 【[狗头军师](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_teu_jyen_shr.md#狗头军师)】`geu3 teu2 jyen1 shr1` <sup>[泰州]</sup> 詈称在背后为人出谋划策的人：这家伙一肚子坏水，是你家老板的～。  
 1. 【[狗头帽<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_teu_mo_r.md#狗头帽<sub>儿</sub>)】`geu3 teu2 mo6 r` <sup>[如皋]</sup> 传统的幼儿风帽。玄色，有狗耳、眼和尾，加玉、银饰。可覆头颈，只露眼鼻。  
-1. 【[狗头上长角——装羊（洋、佯）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_teu_shan_zhan.md#狗头上长角——装羊（洋、佯）)】`geu3 teu2 shan zhan3 gah7 zhuan1 ian2` <sup>[东台]</sup>   
+1. 【[狗头上长角——装羊（洋、佯）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_teu_shan_zhan.md#狗头上长角——装羊（洋、佯）)】`geu3 teu2 shan zhan3 gah7 zhuan1 ian2` <small>/kəɪ3 tʰəɪ2 sɑŋ t͡sɑŋ3 kɑʔ7 t͡suɑŋ1 iɑŋ2/<sup>泰兴</sup></small> 装假<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[狗套头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_to_teu.md#狗套头)】`geu3 to5 teu2` <sup>[兴化]</sup> 俗指上衣不开襟，穿时要从头部套下的衫子。  
+1. 【[狗尾<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_vei_r.md#狗尾<sub>儿</sub>)】`geu3 vei3 r` <small>/kəɪ3 ʋəɪ˞3/<sup>泰兴</sup></small> 粟子。穗似狗尾，故称。<sup>\[泰兴\]</sup>  
 1. 【[狗尾<sub>儿</sub>草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_vei_r_co.md#狗尾<sub>儿</sub>草)】`geu3 vei3 r co3` <sup>[如皋]</sup> 莠。  
 1. 【[狗腥气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_xien_qi.md#狗腥气)】`geu3 xien qi5` <sup>[如皋]</sup> 狗子的气味，也常指人的不洁气味。  
 1. 【[狗小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_xio.md#狗小)】`geu3 xio3` <sup>[东台]</sup> 对孩子的昵称：来啊，～，奶奶给你买啊新衣服，快来穿。  
@@ -720,7 +724,7 @@
 1. 【[狗子赸鸭子——刮刮叫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_zz_shuaen_ngaeh.md#狗子赸鸭子——刮刮叫)】`geu3 zz shuaen1 ngaeh7 zz guaeh7 guaeh7 jio5` <sup>[东台]</sup>   
 1. 【[狗子𢪯舌头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_zz_tae_shih.md#狗子𢪯舌头)】`geu3 zz tae1 shih8 teu` <sup>[如皋]</sup> 犬无汗腺，伸舌散热，状天气热。  
 1. 【[狗子头上绑皂壳——装佯（羊）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_zz_teu_shan.md#狗子头上绑皂壳——装佯（羊）)】`geu3 zz teu2 shan ban3 co6 kah7 zhuan1 ian2` <sup>[如皋]</sup>   
-1. 【[狗子捉老鼠——多管闲事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_zz_zhuah_lo.md#狗子捉老鼠——多管闲事)】`geu3 zz zhuah7 lo3 chv3 du1 gun3 xiaen2 shr6` <sup>[东台]</sup>   
+1. 【[狗子捉老鼠——多管闲事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_zz_zhuah_lo.md#狗子捉老鼠——多管闲事)】`geu3 zz zhuah7 lo3 chv3 du1 gun3 xiaen2 shr6` <small>/kəɪ3 t͡sɿ t͡suɑʔ7 lɔ3 t͡sʰu3 tɤɯ1 kʊ̃3 ɕiɛ̃2 sɿ1/<sup>泰兴</sup></small> 多管闲事<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[苟急苟凑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_jieh_geu_ceu.md#苟急苟凑)】`geu3 jieh7 geu3 ceu5` <sup>[泰县]</sup> 结结巴巴：他～的读完这篇文章。  
 1. 【[苟长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_zhan.md#苟长)】`geu3 zhan3` <sup>[兴化]</sup> 谦称自己的年岁，意为苟活在世多少年了：本人今年～七十三岁，已经退休多年。也作“狗长”。  
 1. 【[够](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu.md#够)】`geu5` <small>/kei5/<sup>如皋</sup></small> ① 疲倦<sup>\[如皋\]</sup>：活技重，做啊～啊。<sup>\[如皋\]</sup> ② 厌<sup>\[如皋\]</sup>：上顿下顿的吃番瓜，吃咖～啊。<sup>\[如皋\]</sup> ③ 勉力伸长去触及。（原文作“彀”）<sup>\[如皋\]</sup>：拿竹棒儿到河里～皮球。<sup>\[如皋\]</sup> ④ 用手或手持较长的东西，伸向不易达到的地方去接触或拿来<sup>\[东台\]</sup>：～不着；～到啊。<sup>\[东台\]</sup> ⑤ （泰州词典作彀）<sup>\[泰州\]</sup> ⑥ 用手或者手持物触摸，触取<sup>\[泰州\]</sup>：你跳起来哿能～到这个篮球框子？<sup>\[泰州\]</sup> ⑦ 达到某种标准、程度、状态<sup>\[泰州\]</sup>：想寻局长帮忙，你还～不上。<sup>\[泰州\]</sup>  
