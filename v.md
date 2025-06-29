@@ -751,7 +751,9 @@
 1. 【[往家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ga.md#往家)】`van3 ga1` 回家  
 1. 【[往来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_lae.md#往来)】`van3 lae2` <sup>[如皋]</sup> ① 互相交往。 ② 经济交往：共～、～大。  
 1. 【[往年家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_nin_ga.md#往年家)】`van3 nin ga` <sup>[如皋]</sup> 过去的年份。  
+1. 【[往年子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_nin_zz.md#往年子)】`van3 nin2 zz` <small>/uɑŋ3 nĩ2 t͡sɿ/<sup>泰兴</sup></small> 以往的年头；从前。<sup>\[泰兴\]</sup>  
 1. 【[往日家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_rih_ga.md#往日家)】`van3 rih ga` <sup>[如皋]</sup> 见“朝日家”。  
+1. 【[往日家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_rih_ga.md#往日家)】`van3 rih ga` <small>/uɑŋ3 iʔ kɑ/<sup>泰兴</sup></small> 以前，从前，先前。<sup>\[泰兴\]</sup>  
 1. 【[往日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_rih.md#往日)】`van3 rih8` <sup>[如皋]</sup> 以往。  
 1. 【[往往是](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_van_shr.md#往往是)】`van3 van3 shr6` <sup>[东台]</sup> 常常是（这样）。  
 1. 【[枉空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_kon.md#枉空)】`van3 kon1` <sup>[如东]</sup> 想像：～主意。  

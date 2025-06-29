@@ -1862,7 +1862,7 @@
 1. 【[干咸菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_haen_cae.md#干咸菜)】`gun1 haen2 cae5` <small>/kʊ̃1 xɛ̃2 t͡ɕʰiɛ5/<sup>泰兴</sup></small> ① 盐渍干菜，又叫梅干菜、霉干菜、蒸咸菜。<sup>\[东台\]</sup> ② 晒干了的咸菜。<sup>\[泰兴\]</sup> ③ 晒干的水咸菜。制法<sup>\[泰州\]</sup>：将水咸菜晒至半干，将卤烧开，烫之；再晒，再烫；直至卤汁烫完，最后晒干，切碎，装坛封口，存放时间越长，颜色越红，味道越香。可以蒸于饭锅，出锅加以香油，直接食用；亦可与猪肉在一起红烧，菜名曰“干咸菜烧肉”，此菜乃是泰州人传统菜肴之一。<sup>\[泰州\]</sup>  
 1. 【[干涸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_hah.md#干涸)】`gun1 hah` <sup>[泰兴]</sup> 本意干旱厉害，没有水分。借喻穷酸贫苦。《玉如意》第6回：“郝家果然穷干涸，钱家实是有钱人。”  
 1. 【[干藃气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_hah_qi.md#干藃气)】`gun1 hah7 qi5` <sup>[如皋]</sup> 某些物体乾燥后的异味。  
-1. 【[干熯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_han.md#干熯)】`gun1 han5` <small>/kʊ̃1 xɑŋ5/<sup>泰兴</sup></small> 谓不雨干热的天气；以火使干、使熟。亦比喻冷落客人、使之尴尬的场面。<sup>\[泰兴\]</sup>  
+1. 【[干炕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_han.md#干炕)】`gun1 han5` <small>/kʊ̃1 xɑŋ5/<sup>泰兴</sup></small> 谓不雨干热的天气；以火使干、使熟。亦比喻冷落客人、使之尴尬的场面。<sup>\[泰兴\]</sup>  
 1. 【[干齑菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_ji_cae.md#干齑菜)】`gun1 ji1 cae5` <sup>[东台]</sup> 晒干的酸齑菜。  
 1. 【[干姜瘪枣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_jian_bih_zo.md#干姜瘪枣)】`gun1 jian1 bih7 zo3` <sup>[东台]</sup> 形容人营养不良，干瘦的样子。  
 1. 【[干姜瘪枣的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_jian_bih_zo.md#干姜瘪枣的)】`gun1 jian1 bih7 zo3 dii` <sup>[如皋]</sup> 干瘪，无生机的样子。  

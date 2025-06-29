@@ -980,7 +980,7 @@
 1. 【[咪马吽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ma_hon.md#咪马吽)】`mi1 ma hon1` <sup>[兴化]</sup> 形容人胡涂、马虎或善于应付：这个人一头的～。此语套用佛经的“吗呢吽”。  
 1. 【[咪咪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_mi.md#咪咪)】`mi1 mi` <sup>[如东]</sup> 猫叫唤的声音。  
 1. 【[渳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#渳)】`mi1` ① 用嘴唇轻轻地喝一口。<sup>\[如东\]</sup>：～一口五粮液。<sup>\[如东\]</sup> ② 一次饮少量的酒或者饮料<sup>\[泰州\]</sup>：酒要是喝不惯，就随意～点ㄦ。<sup>\[泰州\]</sup>｜刚刚～啊一口，这个药还不算苦。<sup>\[泰州\]</sup>  
-1. 【[渳渳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_mi.md#渳渳)】`mi1 mi1` <sup>[东台]</sup> 小口慢慢饮酒：他喜欢小～。（《说文解字》渳，饮歃也）  
+1. 【[渳渳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_mi.md#渳渳)】`mi1 mi` <sup>[东台]</sup> 小口慢慢饮酒：他喜欢小～  
 1. 【[眯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#眯)】`mi1` <small>/mi1/<sup>兴化</sup>, /mʝ1/<sup>如皋</sup></small> ① 闭目养神<sup>\[如皋\]</sup>：眼睛～啊下。<sup>\[如皋\]</sup> ② 小睡<sup>\[如皋\]</sup>：吃咖中饭要～刻儿。<sup>\[如皋\]</sup> ③ 眼皮微微合缝，或短时间假寐<sup>\[东台\]</sup>：我在沙发上～下子就好啊。<sup>\[东台\]</sup> ④ 睡着<sup>\[兴化\]</sup>：他在椅子上～着咖。<sup>\[兴化\]</sup> ⑤ 小睡，稍微睡一会儿<sup>\[泰州\]</sup>：大家嫑则声，让他～一刻ㄦ。<sup>\[泰州\]</sup>｜心里有事睡不着，在床上～啊个盹儿就起来啊。<sup>\[泰州\]</sup> ⑥ 药瓶高头的字太小，你把眼睛～起来望吖看，写的是甚的？<sup>\[泰州\]</sup>  
 1. 【[眯咖麻咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ga_ma_ga.md#眯咖麻咖)】`mi1 ga ma1 ga` <sup>[泰州]</sup> 行为浑浑噩噩的样子：这吖大的人，成天～的，你怎吖好㖸。  
 1. 【[眯马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ma.md#眯马)】`mi1 ma` <sup>[兴化]</sup> 形容稀里糊涂、马马虎虎。又说“眯眯马马”“眯儿马儿”“眯家马家”。  
@@ -1043,7 +1043,7 @@
 1. 【[□根子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_gen_zz.md#□根子)】`mi3 gen1 zz` <sup>[泰县]</sup> 追根求源。  
 1. 【[渳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#渳)】`mi3` <sup>[如皋]</sup> 略饮。  
 1. 【[渳下子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ha_zz.md#渳下子)】`mi3 ha6 zz` <sup>[如皋]</sup> 饮一下。喝一点。  
-1. 【[渳渳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_mi.md#渳渳)】`mi3 mi3` <sup>[如皋]</sup> 喝一喝，吃一吃。  
+1. 【[渳渳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_mi.md#渳渳)】`mi3 mi` <sup>[如皋]</sup> 喝一喝，吃一吃。  
 1. 【[眯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#眯)】`mi3` <small>/mi3/<sup>兴化</sup>, /mʝ3/<sup>如皋</sup></small> ① 异物入眼<sup>\[如皋\]</sup>：眼睛肚里～啊蠓虫儿。<sup>\[如皋\]</sup> ② 灰土、蠓虫之类进入眼内<sup>\[兴化\]</sup>：眼睛捱灰～吖。<sup>\[兴化\]</sup> ③ 碎物入眼<sup>\[泰州\]</sup>：灰埲埲的，～眼睛。<sup>\[泰州\]</sup>  
 1. 【[眯人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ren_zz.md#眯人子)】`mi3 ren zz` <sup>[如皋]</sup> 眼睑内有异物的不适感：结膜炎的痛感。  
 1. 【[眯细眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_xi_ngaen_r.md#眯细眼<sub>儿</sub>)】`mi3 xi5 ngaen3 r` <sup>[如东]</sup> ① 眼皮眯缝。 ② 眼皮眯缝的人。  
@@ -1184,13 +1184,14 @@
 1. 【[抿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_zz.md#抿子)】`mien3 zz` <sup>[兴化]</sup> 瓦工用砂浆勾墙缝的工具，由小铁棒做成，前端扁平。  
 1. 【[命大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_da.md#命大)】`mien6 da6` <sup>[东台]</sup> 命运好；幸运；难死：算你～，逃过啊这一劫。  
 1. 【[命根头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_gen_teu_zz.md#命根头子)】`mien6 gen1 teu2 zz` <sup>[如皋]</sup> 昵称最疼爱的晚辈或物件：爷娘家侄子，～；这条波斯绒毛狗是他的～。  
-1. 【[命根子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_gen_zz.md#命根子)】`mien6 gen1 zz` <small>/miəŋ1 kəŋ1 t͡sɿ/<sup>如皋</sup></small> ① 自己的生命。比喻心爱的子孙。<sup>\[如东\]</sup> ② 比喻最重要的事物。<sup>\[如东\]</sup> ③ 见“命根头子”。<sup>\[如皋\]</sup> ④ 指最重要的晚辈。<sup>\[东台\]</sup> ⑤ ［喻］最受重视的事物。<sup>\[东台\]</sup>  
+1. 【[命根子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_gen_zz.md#命根子)】`mien6 gen1 zz` <small>/miəŋ1 kəŋ1 t͡sɿ/<sup>如皋</sup>, /miŋ1 kəŋ1 t͡sɿ/<sup>泰兴</sup></small> ① 自己的生命。比喻心爱的子孙。<sup>\[如东\]</sup> ② 比喻最重要的事物。<sup>\[如东\]</sup> ③ 见“命根头子”。<sup>\[如皋\]</sup> ④ 指最重要的晚辈。<sup>\[东台\]</sup> ⑤ ［喻］最受重视的事物。<sup>\[东台\]</sup> ⑥ 比喻最重要、最受重视的事物或最受重视的人。<sup>\[泰兴\]</sup>  
 1. 【[命毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_mo.md#命毛)】`mien6 mo2` <sup>[东台]</sup> 生命的象征：他忽然看见一条大蛇在门前游走，～总吓咖没得啦！  
 1. 【[命头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_teu_zz.md#命头子)】`mien6 teu2 zz` <sup>[兴化]</sup> 俗谓性命：“……要是这夜挖到兴化，～还要玩掉呢！”（兴文《得胜湖的定名及传说》）  
 1. 【[命着子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_zhah_zz.md#命着子)】`mien6 zhah7 zz` <sup>[兴化]</sup> ① 关键所在：～在他手上，一时不好回他。 ② 致命的手段：跟他玩个～，叫他乖乖听话。  
 1. 【[命张](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_zhan.md#命张)】`mien6 zhan1` <sup>[如东]</sup> ① 茌耷子和游戏中，经过诸因素测算，这张牌对方成和的可能性非常大，称命张。 ② 比喻非常重要的问题：这个问题是～，要非常重视。  
 1. 【[谬奖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mieu_jian.md#谬奖)】`mieu6 jian3` <sup>[东台]</sup> （谦词）表示受到的评价或待遇超过自己的实际水平或贡献。  
 1. 【[□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mih_xih.md#□□)】`mih8 xih` <sup>[如皋]</sup> 装马虎，不急于理睬：这伢儿～吤，喊他不睬人，只顾忙他的杲子。  
+1. 【[咪咪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mih_mih.md#咪咪)】`mih8 mih8` <small>/miʔ8 miʔ8/<sup>泰兴</sup></small> 唤猫声<sup>\[泰兴\]</sup>  
 1. 【[灭茬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mih_cha.md#灭茬)】`mih8 cha5` <sup>[东台]</sup> 收割农作物后将留在田里的秸秆埋入土中。  
 1. 【[灭朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mih_cho.md#灭朝)】`mih8 cho2` <small>/miʔ8 t͡sʰɔ2/<sup>泰兴</sup></small> ① 改朝换代。<sup>\[东台\]</sup> ② 指因地震、海啸等特大自然灾害造成毁灭性灾难。<sup>\[东台\]</sup> ③ 彻底完蛋。<sup>\[泰兴\]</sup>：死人～失天火<sup>\[泰兴\]</sup>  
 1. 【[灭门其乎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mih_men_qi_hv.md#灭门其乎)】`mih8 men qi hv` 乱七八糟的，一塌糊涂的。“灭门绝户”的讹音。  
@@ -1465,11 +1466,12 @@
 1. 【[㴘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo.md#㴘)】`mo3` <sup>[东台]</sup> 泡渍：你把这块肉下锅用水～下子。  
 1. 【[冇口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_keu.md#冇口)】`mo3 keu3` <sup>[如皋]</sup> 见“夹冇”。  
 1. 【[卯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo.md#卯)】`mo3` <small>/mɔ3/<sup>兴化</sup></small> ① 地支第四位。<sup>\[东台\]</sup> ② 旧时官衙规定～时开始办公（早晨5-7点），所以用～作为点名、签到的代称。<sup>\[东台\]</sup> ③ 逃脱<sup>\[兴化\]</sup>：这回又让他～掉啊。<sup>\[兴化\]</sup>  
+1. 【[卯住啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_chv_a.md#卯住啊)】`mo3 chv a` <small>/mɔ3 t͡sʰu a/<sup>泰兴</sup></small> 懵住，无话可说\[泰兴：泰兴口语又“卯住lei”\]：把他问吖～<sup>\[泰兴\]</sup>  
 1. 【[卯调](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_dio.md#卯调)】`mo3 dio5` <sup>[兴化]</sup> 说话过了头：这话说咖～，不好收回。也说“冒调”。  
 1. 【[卯口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_keu.md#卯口)】`mo3 keu3` <sup>[如东]</sup> 用绳索打成一个圆形的扣，叫卯口。  
 1. 【[卯眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_ngaen.md#卯眼)】`mo3 ngaen3` <sup>[如东]</sup> 某些工件利用凹凸方式相连接的地方的凹进部分，称卯眼：正梁的的～打啊在两头。  
 1. 【[卯头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_teu.md#卯头)】`mo3 teu` <small>/mɔ3 tʰɤ/<sup>兴化</sup></small> ① 两根木头交叉扎成支架，能够夹住另一根木头，便于加工。这种装置叫做卯头。<sup>\[如东\]</sup> ② 买肉时，商家另加的一块碎肉，叫卯头。<sup>\[如东\]</sup> ③ 民俗<sup>\[兴化\]</sup>：购买猪肉时，在整块之外必须加一小块，谓“搭卯”，所加的小块肉即谓～。<sup>\[兴化\]</sup>  
-1. 【[卯掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_tio.md#卯掉)】`mo3 tio` <small>/mɔ3 tʰiɔ/<sup>泰县</sup></small> ① 过头：话说咖～啊。<sup>\[泰县\]</sup> ② 点卯之时某人未来而导致遗漏未点。泛指举行活动时漏掉应该参加的人，多指忘记或者没有通知应该来参加的人<sup>\[泰州\]</sup>：今朝下午开动员大会，连退休的党员都来唻，不曾～一个人。<sup>\[泰州\]</sup> ③ 指侥幸逃脱惩罚<sup>\[泰州\]</sup>：八个人全部捱公安局捉住啊，一个都不曾～。<sup>\[泰州\]</sup>  
+1. 【[卯掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_tio.md#卯掉)】`mo3 tio` <small>/mɔ3 tʰiɔ/<sup>泰县</sup></small> ① 过头<sup>\[泰县\]</sup>：话说咖～啊<sup>\[泰县\]</sup> ② 点卯之时某人未来而导致遗漏未点。泛指举行活动时漏掉应该参加的人，多指忘记或者没有通知应该来参加的人<sup>\[泰州\]</sup>：今朝下午开动员大会，连退休的党员都来唻，不曾～一个人。<sup>\[泰州\]</sup> ③ 指侥幸逃脱惩罚<sup>\[泰州\]</sup>：八个人全部捱公安局捉住啊，一个都不曾～。<sup>\[泰州\]</sup>  
 1. 【[卯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_zz.md#卯子)】`mo3 zz` 卖肉者在称好肉之后，再割一小块作为饶头的肉<sup>\[东台\]</sup>\[泰州：泰州词典作“昴子”，取其“一星的肉”之义。\]：大哥，又给你添～，满意啊吧？！<sup>\[东台\]</sup>  
 1. 【[懵一冲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_ieh_chon.md#懵一冲)】`mo3 ieh7 chon1` <sup>[如皋]</sup> 暂时性的，一时。  
 1. 【[瞀亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_lian.md#瞀亮)】`mo3 lian6` <sup>[泰州]</sup> 人刚脱离黑暗环境之时，眼睛突然受到阳光刺激而睁不开，或者不能适应特别强烈光的照射而使眼睛昏花：你才走黑处跑出来，这一刻儿突然望到太阳，怎吖得不～㖸。  

@@ -248,6 +248,7 @@
 1. 【[瘫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_zz.md#瘫子)】`taen1 zz` <sup>[如东]</sup> 双脚瘫痪的人。  
 1. 【[瘫子带亲——坐啊家里等](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_zz_dae_qien.md#瘫子带亲——坐啊家里等)】`taen1 zz dae5 qien1 cu6 a ga1 lii den3` <sup>[东台]</sup>   
 1. 【[瘫子𠫓咖井里——捞起来也是坐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_zz_teh_ga.md#瘫子𠫓咖井里——捞起来也是坐)】`taen1 zz teh7 ga jien3 lii lo2 qi3 lae2 ia3 shr6 cu6` <sup>[东台]</sup>   
+1. 【[贪多嚼不烂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_du_qiah_beh.md#贪多嚼不烂)】`taen1 du1 qiah8 beh7 laen6` <small>/tʰɛ̃1 tɤɯ1 t͡ɕʰiɑʔ8 pəʔ7 lɛ̃1/<sup>泰兴</sup></small> 喻一味求多，反而达不到目的。<sup>\[泰兴\]</sup>  
 1. 【[坛场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_chan.md#坛场)】`taen2 chan2` <small>/tʰɛ̃2 t͡sʰaŋ2/<sup>兴化</sup>, /tʰɛ̃2 t͡sʰɑŋ2/<sup>泰兴</sup></small> ① 旧时道士打醮设的神坛。借指因事占用的地方和摆设的东西<sup>\[兴化\]</sup>：砌房子～大唻！<sup>\[兴化\]</sup>｜在家里办菜请客要好大的～哎！<sup>\[兴化\]</sup> ② 举办重大家庭活动所用的地方<sup>\[泰州\]</sup>：他俫吃过啊都走啊，我俫老两口儿收拾～。<sup>\[泰州\]</sup> ③ 场地，办事的场面。<sup>\[泰兴\]</sup>：今朝他家娶亲，摆的～大唻。<sup>\[泰兴\]</sup>  
 1. 【[弹球](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_qieu.md#弹球)】`taen2 qieu2` <sup>[如皋]</sup> ① 一种供游戏用的玻璃球。 ② 游戏名，用玻璃球在地面上弹击，击中为赢。  
 1. 【[弹线](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_xin.md#弹线)】`taen2 xin5` <small>/tʰɛ̃2 ɕiɪ̃5/<sup>兴化</sup>, /tʰẽ2 ɕĩ5/<sup>如皋</sup></small> ① 木匠用木斗弹线迹。<sup>\[如皋\]</sup> ② 裁缝用粉线袋弹线迹。<sup>\[如皋\]</sup> ③ 用墨线或粉线在木料或布料上打线条。<sup>\[如东\]</sup> ④ 将墨线或粉线拉直绷紧，拈起一弹，在平面上留下直线。<sup>\[兴化\]</sup>  

@@ -32,14 +32,16 @@
 1. 【[爬蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_hae.md#爬蟹)】`pa2 hae3` 螃蟹  
 1. 【[爬窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_ku.md#爬窠)】`pa2 ku1` <small>/pʰa2 kʰʊ1/<sup>如皋</sup></small> ① 牲畜交配。<sup>\[如皋\]</sup> ② 牲畜交配，叫做爬窠。<sup>\[如东\]</sup> ③ 牲口自行交配。<sup>\[东台\]</sup>  
 1. 【[爬癞宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_lae_bo.md#爬癞宝)】`pa2 lae6 bo3` <sup>[如皋]</sup> 人爬行。  
+1. 【[爬爬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_pa.md#爬爬)】`pa2 pa2` <small>/pʰɑ2 pʰɑ2/<sup>泰兴</sup></small> 一种矮而小的单人坐凳。<sup>\[泰兴\]</sup>  
 1. 【[爬爬凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_pa_den.md#爬爬凳)】`pa2 pa2 den5` <small>/pʰa2 pʰa2 tən5/<sup>兴化</sup></small> ① 小矮凳。<sup>\[如东\]</sup> ② 小板凳。也称矮爬爬。<sup>\[东台\]</sup> ③ 又小又矮的凳子。<sup>\[兴化\]</sup> ④ 一种凳面较短的矮凳。<sup>\[泰州\]</sup>  
 1. 【[爬爬凳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_pa_den_r.md#爬爬凳<sub>儿</sub>)】`pa2 pa2 den5 r` <small>/pʰa2 pʰa2 tə˞5/<sup>如皋</sup>, /pʰa2 pʰa2 təŋ5 ɚ/<sup>泰县</sup></small> ① 矮小的凳子<sup>\[如皋\]</sup> ② 小矮凳。<sup>\[泰县\]</sup>  
 1. 【[爬爬角<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_pa_gah_r.md#爬爬角<sub>儿</sub>)】`pa2 pa2 gah7 r` <sup>[兴化]</sup> 女童在头顶两侧扎的上翘的小辫子。  
-1. 【[爬爬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_pa_r.md#爬爬<sub>儿</sub>)】`pa2 pa2 r` <small>/pʰa2 pʰa2 ɚ/<sup>兴化</sup>, /pʰa2 pʰa˞2/<sup>如皋</sup>, /pʰa2 pʰa2 ɚ/<sup>泰县</sup></small> ① 见“爬爬凳儿”。<sup>\[如皋\]</sup> ② 乌龟的隐语<sup>\[兴化\]</sup>：哪个哄你就是～。<sup>\[兴化\]</sup> ③ 小板凳：你把～拿过来。<sup>\[泰县\]</sup>  
+1. 【[爬爬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_pa_r.md#爬爬<sub>儿</sub>)】`pa2 pa2 r` <small>/pʰa2 pʰa2 ɚ/<sup>兴化</sup>, /pʰa2 pʰa˞2/<sup>如皋</sup>, /pʰa2 pʰa2 ɚ/<sup>泰县</sup></small> ① 小矮凳<sup>\[泰县\]</sup><sup>\[如皋\]</sup>：你把～拿过来<sup>\[泰县\]</sup> ② 乌龟的隐语<sup>\[兴化\]</sup>：哪个哄你就是～。<sup>\[兴化\]</sup>  
 1. 【[爬爬虾<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_pa_xia_r.md#爬爬虾<sub>儿</sub>)】`pa2 pa2 xia1 r` <sup>[如东]</sup> 虾的一种。体小，灰褐色。生活在淡水中。可食。  
 1. 【[爬墙虎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_qian_hv.md#爬墙虎)】`pa2 qian2 hv3` <sup>[兴化]</sup> 即“爬山虎”，高攀的落叶藤木，攀缘茎，叶子椭圆形，绿色，攀缘在墙壁上或树上。  
-1. 【[爬山虎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_shaen_hv.md#爬山虎)】`pa2 shaen1 hv3` <small>/pʰa2 sẽ1 fu3/<sup>如皋</sup></small> ① 常春藤。又名地锦。<sup>\[如皋\]</sup> ② 葡萄科植物爬山虎，又名地锦，落叶藤本，卷须短，多分枝，先端具粘性吸盘。<sup>\[如东\]</sup>  
+1. 【[爬山虎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_shaen_hv.md#爬山虎)】`pa2 shaen1 hv3` <small>/pʰa2 sẽ1 fu3/<sup>如皋</sup>, /pʰɑ2 ɕiɛ̃1 fʋ3/<sup>泰兴</sup></small> ① 常春藤。又名地锦。<sup>\[如皋\]</sup> ② 葡萄科植物爬山虎，又名地锦，落叶藤本，卷须短，多分枝，先端具粘性吸盘。<sup>\[如东\]</sup> ③ 一种贴壁攀爬生长的多年生落叶藤本植物。<sup>\[泰兴\]</sup>  
 1. 【[爬上落下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_shan_lah_ha.md#爬上落下)】`pa2 shan6 lah8 ha6` <sup>[兴化]</sup> 形容爬上爬下，不停折腾：小双儿和小羊角不断在各自妈的膝头上～。（马春阳《谁是妻子》）  
+1. 【[爬上落下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_shan_lah_ha.md#爬上落下)】`pa2 shan6 lah8 ha6` <small>/pʰɑ2 sɑŋ1 lɑʔ8 xɑ1/<sup>泰兴</sup></small> 上去下来不停；疼痛难忍在床上翻来覆去。<sup>\[泰兴\]</sup>  
 1. 【[爬上落下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_shan_lah_xia.md#爬上落下)】`pa2 shan6 lah8 xia6` <sup>[泰州]</sup> 攀到高处后又降到低处，多指儿童手足不停地忽至高处忽至低处的顽皮行为：你看住你家孙子，～的，跌咖来不得了。  
 1. 【[爬塘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_tan_r.md#爬塘<sub>儿</sub>)】`pa2 tan2 r` <sup>[如皋]</sup> 芋头分蘖，长出新的鳞茎。  
 1. 【[爬藤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_ten.md#爬藤)】`pa2 ten2` <small>/pʰa2 tʰəŋ2/<sup>如皋</sup></small> ① 藤蔓生长铺展。<sup>\[如皋\]</sup> ② 藤蔓生长铺展。<sup>\[如东\]</sup>  

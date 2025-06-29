@@ -1707,6 +1707,7 @@
 1. 【[受潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_cho.md#受潮)】`sheu6 cho2` <small>/sɤ6 t͡sʰɔ2/<sup>兴化</sup></small> ① 物体受空气中水分的侵袭而变得潮湿。<sup>\[如东\]</sup> ② 沾上潮湿气<sup>\[兴化\]</sup>：面粉～成吖团儿。<sup>\[兴化\]</sup>｜炮竹～放不响吖。<sup>\[兴化\]</sup> ③ 湿气渗入物体<sup>\[泰州\]</sup>：衣裳受啊潮。<sup>\[泰州\]</sup>  
 1. 【[受粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_fen.md#受粉)】`sheu6 fen3` <sup>[如东]</sup> 雄蕊的花粉传到雌蕊的柱头上，就雌蕊来说，叫做受粉。  
 1. 【[受夹棍气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_gaeh_guen_qi.md#受夹棍气)】`sheu6 gaeh7 guen5 qi5` <sup>[如皋]</sup> 处于矛盾双方的中间而两边受气。  
+1. 【[受黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_huan.md#受黄)】`sheu6 huan2` <small>/ɕiɤɯ1 xuɑŋ2/<sup>泰兴</sup></small> 被黄相，受人白眼。<sup>\[泰兴\]</sup>  
 1. 【[受用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_ion.md#受用)】`sheu6 ion6` <small>/sei1 iɔŋ1/<sup>如皋</sup></small> ① 耐用。<sup>\[如皋\]</sup> ② 能舒服、坦然<sup>\[如皋\]</sup>：这些肥肉吃下去哿～吖？<sup>\[如皋\]</sup> ③ 享受。<sup>\[如东\]</sup>：这们些东西够你～的啦。<sup>\[如东\]</sup> ④ 能够消化，吸收，得到享受<sup>\[东台\]</sup>：营养再好，不～不行。<sup>\[东台\]</sup> ⑤ 身心舒服（多用于否定式）<sup>\[东台\]</sup>：听吖这个话，他心里交关不～。<sup>\[东台\]</sup>  
 1. 【[受挤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_ji.md#受挤)】`sheu6 ji3` <sup>[兴化]</sup> 见“捱挤”。  
 1. 【[受记](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_ji.md#受记)】`sheu6 ji5` <small>/sɤ6 t͡ɕi5/<sup>兴化</sup></small> ① 旧指婴儿因被孕妇抱了而引起腹泻<sup>\[兴化\]</sup>：原来有这个俗忌，大凡怀胎的抱了孩子家，那孩子就坏了脾胃，要出青粪，谓之～，直到产后方痊。（《警世通言》二五）<sup>\[兴化\]</sup> ② 迷信说法，坊间以为孕妇不可以抱别人家婴儿，如果抱了就会导致婴儿腹泻不止<sup>\[泰州\]</sup>：大肚子不能抱人家伢儿，弄吖～不得了。<sup>\[泰州\]</sup> ③ 旧俗，婴儿成长期间，多病啼哭不止，送至佛寺接受记莂，寄名出家，坊间以为如此就可保佑婴儿健康成长<sup>\[泰州\]</sup>：把伢儿送吖庙里去～。<sup>\[泰州\]</sup>  
@@ -1718,7 +1719,8 @@
 1. 【[受看](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_kun.md#受看)】`sheu6 kun5` <sup>[如皋]</sup> 越看越好看。  
 1. 【[受凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_lian.md#受凉)】`sheu6 lian2` 身体因受风寒而致生病。<sup>\[泰州\]</sup>  
 1. 【[受闷气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_men_qi.md#受闷气)】`sheu6 men6 qi5` <sup>[兴化]</sup> 受了责备或欺侮无处发作或不便发作：“哥啊，溜撒的溜了，我们都是顶缸的，在此～哩！”（《西游记》七七）  
-1. 【[受病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_pien.md#受病)】`sheu6 pien6` <small>/sɤ6 pʰiɪ̃6/<sup>兴化</sup>, /sɤɯ1 pʰiŋ1/<sup>泰县</sup></small> ① 受气、受责怪<sup>\[兴化\]</sup>：这件事弄不好家去又要～。<sup>\[兴化\]</sup> ② 被人指责：今吖他在家～。<sup>\[泰县\]</sup> ③ 受到别人指责<sup>\[泰州\]</sup>：这件事你最好不要教我弄，弄得不好，要受你的病。<sup>\[泰州\]</sup>｜事情弄成这形象，他怎吖得不～㖸。<sup>\[泰州\]</sup>  
+1. 【[受熬熇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_ngo_ko.md#受熬熇)】`sheu6 ngo2 ko5` <small>/ɕiɤɯ1 ŋɔ2 kʰɔ5/<sup>泰兴</sup></small> 生活艰辛，衣食不周；精神受压抑，心绪不宁，担心受怕。<sup>\[泰兴\]</sup>  
+1. 【[受病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_pien.md#受病)】`sheu6 pien6` <small>/sɤ6 pʰiɪ̃6/<sup>兴化</sup>, /ɕiɤɯ1 pʰiŋ1/<sup>泰兴</sup>, /sɤɯ1 pʰiŋ1/<sup>泰县</sup></small> ① 受气、受责怪<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：这件事弄不好家去又要～。<sup>\[兴化\]</sup> ② 受到指责<sup>\[泰县\]</sup><sup>\[泰州\]</sup>：今吖他在家～<sup>\[泰县\]</sup>｜这件事你最好不要教我弄，弄得不好，要受你的病。<sup>\[泰州\]</sup>｜事情弄成这形象，他怎吖得不～㖸。<sup>\[泰州\]</sup>  
 1. 【[受气包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_qi_bo.md#受气包)】`sheu6 qi5 bo1` <sup>[如皋]</sup> 见“受气袋儿”。  
 1. 【[受气袋<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_qi_tae_r.md#受气袋<sub>儿</sub>)】`sheu6 qi5 tae6 r` <sup>[如皋]</sup> 枉受怒气、怨气者：你受啊人家的气，家来就同我发火，我是你的～！  
 1. 【[受罪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_qy.md#受罪)】`sheu6 qy6` <sup>[如东]</sup> 遭受折磨：蹾吖这间破屋里，真是～呀！比喻遇到不愉快的事情，心情不好。｜碰吖这种事，怎吖不～噢。  
@@ -2375,6 +2377,7 @@
 1. 【[爽气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_qi.md#爽气)】`shuan3 qi5` <small>/suã3 t͡ɕʰʝ5/<sup>如皋</sup></small> ① 爽快，豪爽<sup>\[如皋\]</sup>：她说话～，不欢喜韧。<sup>\[如皋\]</sup> ② 快速<sup>\[如皋\]</sup>：她做事～，一大堆的衣裳一刻儿就洗掉啊。<sup>\[如皋\]</sup> ③ 办事、处理问题爽快、干脆<sup>\[泰州\]</sup>：他这个人办事～。<sup>\[泰州\]</sup>  
 1. 【[爽手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_sheu.md#爽手)】`shuan3 sheu3` 器物长短、大小、轻重之类物理性能适中，使用起来便捷<sup>\[泰州\]</sup>：我用这个乒乓球拍子打起来～。<sup>\[泰州\]</sup>  
 1. 【[爽性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_xien.md#爽性)】`shuan3 xien5` 索性，干脆  
+1. 【[垂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei.md#垂)】`shuei2` <small>/suəɪ2/<sup>泰兴</sup></small> 向下；偏低。如木杆秤称物，秤杆末端向上为翘，向下为垂。<sup>\[泰兴\]</sup>  
 1. 【[垂头耷脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_teu_dah_no.md#垂头耷脑)】`shuei2 teu2 dah7 no3` <sup>[兴化]</sup> ① 形容懊丧的样子。 ② 形容萎靡不振的样子：……那三十多个家伙还是拖得～，走路都打瞌睡。（马春阳《夜袭叹气庙》）  
 1. 【[水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei.md#水)】`shuei3` <small>/suei3/<sup>如皋</sup></small> ① 水；凉水；泛指液体 ② 见“奅”。<sup>\[如皋\]</sup> ③ 量词<sup>\[如皋\]</sup>：这种布已经洗啊几～，一点儿不落色。<sup>\[如皋\]</sup> ④ 傻，不精明<sup>\[如皋\]</sup>：这伢儿太～，是个～虫儿。<sup>\[如皋\]</sup> ⑤ （吃）苦头，（上）当，（受）骗<sup>\[如皋\]</sup>：你上吖人家的～啦！<sup>\[如皋\]</sup>  
 1. 【[水芭蕉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_ba_jio.md#水芭蕉)】`shuei3 ba1 jio1` <sup>[如皋]</sup> 芭蕉。  

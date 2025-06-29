@@ -64,4 +64,5 @@
 1. 【[𨞑<sub>儿</sub>烂泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_r_laen_ni.md#𨞑<sub>儿</sub>烂泥)】`on5 r laen6 ni2, ngon5 r laen6 ni2` <sup>[如皋]</sup> 河底淤泥。  
 1. 【[𨞑味<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_vei_r.md#𨞑味<sub>儿</sub>)】`on5 vei6 r, ngon5 vei6 r` <sup>[如皋]</sup> 腐臭味。  
 1. 【[𨞑咂咂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_zaeh_zaeh.md#𨞑咂咂)】`on5 zaeh7 zaeh7` <sup>[东台]</sup> 很臭。（原文作“䐥”，声调不合）  
+1. 【[瓮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_zz.md#瓮子)】`on6 zz` <small>/ɔŋ1 t͡sɿ/<sup>泰兴</sup></small> 陶制盛器，小口大腹。<sup>\[泰兴\]</sup>  
 **[▲](#音序检索)**  

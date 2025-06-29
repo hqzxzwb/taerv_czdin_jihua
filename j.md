@@ -852,7 +852,7 @@
 1. 【[金呆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_dae_zz.md#金呆子)】`jien1 dae1 zz` <sup>[东台]</sup> ① 十足的呆子。 ② 对肚量大、风格高的“傻子”的昵称：你奉献多，真是～！  
 1. 【[金店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_din.md#金店)】`jien1 din5` <sup>[如东]</sup> 经营金银饰品的商店。  
 1. 【[金耳环](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_er_kuaen.md#金耳环)】`jien1 er3 kuaen2` <sup>[如东]</sup> 金制，环形，妇女带在耳朵上，作为装饰物和富贵的象征。  
-1. 【[金饭碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_faen_un.md#金饭碗)】`jien1 faen6 un3` ① 用黄金制成的饭碗。比喻非常富贵的职业。<sup>\[如东\]</sup>：捧吖～，还愁没饭吃。<sup>\[如东\]</sup> ② 比喻收入及待遇极好的职业<sup>\[泰州\]</sup>：他的工作不如你，你在银行里是～。<sup>\[泰州\]</sup>  
+1. 【[金饭碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_faen_un.md#金饭碗)】`jien1 faen6 un3` <small>/t͡ɕiŋ1 fɛ̃1 ʊ̃3/<sup>泰兴</sup></small> ① 用黄金制成的饭碗。比喻非常富贵的职业。<sup>\[如东\]</sup>：捧吖～，还愁没饭吃。<sup>\[如东\]</sup> ② 比喻收入及待遇极好的职业<sup>\[泰州\]</sup>：他的工作不如你，你在银行里是～。<sup>\[泰州\]</sup> ③ 喻不会失去的最好的职业。<sup>\[泰兴\]</sup>  
 1. 【[金戒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gae_zz.md#金戒子)】`jien1 gae5 zz` ① 套在手指上做纪念或装饰用的金环。正面有方形、椭圆形、长条形多种。也称金箍子、金戒戒儿。<sup>\[如东\]</sup> ② 金戒指。<sup>\[泰州\]</sup>  
 1. 【[金锏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gaen_zz.md#金锏子)】`jien1 gaen5 zz` <sup>[如皋]</sup> 金戒指。  
 1. 【[金刚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gan.md#金刚)】`jien1 gan1` <sup>[泰县]</sup> 机灵。  
@@ -874,6 +874,7 @@
 1. 【[金楼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_leu.md#金楼)】`jien1 leu2` <sup>[如东]</sup> 制造和经营金银饰物的工场和门市。  
 1. 【[金铃子<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_lien_zz_r.md#金铃子<sub>儿</sub>)】`jien1 lien2 zz3 r` <sup>[兴化]</sup> 一种小昆虫，形似蟋蟀而小。雄虫翅膀磨擦发出金属声。学名“双带拟蛉蟋”。  
 1. 【[金镏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_lieu_zz.md#金镏子)】`jien1 lieu5 zz` <sup>[兴化]</sup> 金戒指。戏称“金老三”  
+1. 【[金老三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_lo_saen.md#金老三)】`jien1 lo3 saen1` <small>/t͡ɕiŋ1 lɔ3 ɕiɛ̃1/<sup>泰兴</sup></small> 金首饰。黄金。<sup>\[泰兴\]</sup>  
 1. 【[金膜螐蚅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_mah_v_eh.md#金膜螐蚅)】`jien1 mah v1 eh7` <sup>[泰州]</sup> 金龟子。  
 1. 【[金门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_men.md#金门)】`jien1 men2` <sup>[如东]</sup> 帆船舵螯上供舵杆上下滑动的口。  
 1. 【[金门箍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_men_gv.md#金门箍)】`jien1 men2 gv1` <sup>[如东]</sup> 帆船金门两边的木板，固定在船尾板上。  
@@ -896,6 +897,7 @@
 1. 【[金鱼眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_y_ngaen.md#金鱼眼)】`jien1 y2 ngaen3` <small>/t͡ɕin1 y2 ɛ̃3/<sup>兴化</sup></small> ① （喻）形容突出的眼球。<sup>\[兴化\]</sup> ② 指微凸的眼球<sup>\[泰州\]</sup>：他这个～看上去不讨喜。<sup>\[泰州\]</sup>  
 1. 【[金汁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zheh.md#金汁)】`jien1 zheh7` <sup>[兴化]</sup> ① 指粪尿。 ② 对水的贬义说法：～子。  
 1. 【[金针](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zhen.md#金针)】`jien1 zhen1` <sup>[东台]</sup> 黄花菜的花，可作食物：～炒木耳。  
+1. 【[金针](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zhen.md#金针)】`jien1 zhen1` <small>/t͡ɕiŋ1 t͡səŋ1/<sup>泰兴</sup></small> 金针菜，多年生宿根草本植物。因其花蕾黄色，形似金针，故名。乡间的一种受欢迎的蔬菜。<sup>\[泰兴\]</sup>  
 1. 【[金针菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zhen_cae.md#金针菜)】`jien1 zhen1 cae5` <sup>[如东]</sup> 百合科植物萱草的花蕾。  
 1. 【[金摺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zhr_r.md#金摺<sub>儿</sub>)】`jien1 zhr r` <sup>[如皋]</sup> 旧时用的摺迭式小账册。如租赁住房，房客持～交月租，房东在～上签收。  
 1. 【[金砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zhun.md#金砖)】`jien1 zhun1` <sup>[如东]</sup> 黄金铸造的砖，一只一两。  

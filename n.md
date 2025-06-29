@@ -1516,12 +1516,15 @@
 1. 【[念鼠<sub>儿</sub>经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_chv_r_jien.md#念鼠<sub>儿</sub>经)】`nin6 chv3 r jien1` <sup>[如皋]</sup> ① 猫常有的腹内呜呜声。 ② 喻低声啰唆不停。  
 1. 【[念佛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_feh.md#念佛)】`nin6 feh8` <sup>[如东]</sup> 念诵佛经。比喻一个劲地说好话：她到处～。  
 1. 【[念鬼唧子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_guei_jieh_zz.md#念鬼唧子)】`nin6 guei3 jieh7 zz` <sup>[如东]</sup> 一个人偷偷地自言自语。  
+1. 【[念鬼经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_guei_jien.md#念鬼经)】`nin6 guei3 jien` <small>/nĩ1 kuəɪ3 t͡ɕiŋ/<sup>泰兴</sup></small> 小声念叨，别人听不清。<sup>\[泰兴\]</sup>  
 1. 【[念夜经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_ia_jien.md#念夜经)】`nin6 ia6 jien1` <small>/nĩ1 ia1 t͡ɕiəŋ1/<sup>如皋</sup></small> ① 白天延至夜晚的佛事。<sup>\[如皋\]</sup> ② 夜间做佛事。<sup>\[如皋\]</sup> ③ 人死后的第三天晚上，丧主请和尚、道士或尼姑念经，超度亡灵，这种祭祀活动叫做念夜经。<sup>\[如东\]</sup>  
 1. 【[念叽咕<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_ji_gv_r.md#念叽咕<sub>儿</sub>)】`nin6 ji1 gv1 r` <sup>[如东]</sup> 一个人轻轻地自言自语。  
-1. 【[念经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_jien.md#念经)】`nin6 jien1` <small>/nĩ1 t͡ɕiəŋ1/<sup>如皋</sup></small> ① 因想念而念叨：老太太天天～孙子。<sup>\[如皋\]</sup> ② 同情、怜悯：我～他是个孝子，把身上的钱总把啊他。<sup>\[如皋\]</sup> ③ 见“疼肉”。<sup>\[如皋\]</sup> ④ 念诵佛经。<sup>\[如东\]</sup> ⑤ 疼爱。<sup>\[如东\]</sup>：妈妈～儿子。<sup>\[如东\]</sup> ⑥ 同情。<sup>\[如东\]</sup>：个个人都～她。<sup>\[如东\]</sup> ⑦ 想念。<sup>\[如东\]</sup>：奶奶天天都～毛毛。<sup>\[如东\]</sup>  
+1. 【[念经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_jien.md#念经)】`nin6 jien1` <small>/nĩ1 t͡ɕiəŋ1/<sup>如皋</sup></small> ① 因想念而念叨<sup>\[如皋\]</sup>：老太太天天～孙子<sup>\[如皋\]</sup> ② 同情、怜悯<sup>\[如皋\]</sup><sup>\[如东\]</sup>：我～他是个孝子，把身上的钱总把啊他<sup>\[如皋\]</sup>｜个个人都～她。<sup>\[如东\]</sup> ③ 念诵佛经。<sup>\[如东\]</sup> ④ 疼爱。<sup>\[如东\]</sup>\[如皋：同“疼肉”。\]：妈妈～儿子。<sup>\[如东\]</sup> ⑤ 想念。<sup>\[如东\]</sup>：奶奶天天都～毛毛。<sup>\[如东\]</sup>  
+1. 【[念经放焰口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_jien_fan_in.md#念经放焰口)】`nin6 jien1 fan5 in6 keu3` <small>/nĩ1 t͡ɕiŋ1 fɑŋ5 ĩ1 kʰəɪ3/<sup>泰兴</sup></small> 念诵经文做道场以超度亡灵。迷信。<sup>\[泰兴\]</sup>  
 1. 【[念经人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_jien_ren_zz.md#念经人子)】`nin6 jien1 ren zz` <sup>[如皋]</sup> 令人同情、可怜：你把个小伢儿打得青的间紫的，多～啊！  
 1. 【[念嗑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_kuh.md#念嗑)】`nin6 kuh` <small>/liɪ̃6 kʰuʔ/<sup>兴化</sup></small> ① 因为想念而不停地念叨<sup>\[东台\]</sup>：婆奶奶刚才还～你呢！<sup>\[东台\]</sup> ② 因惦念而谈论<sup>\[兴化\]</sup>：几年不见，大家常常～你。<sup>\[兴化\]</sup>  
-1. 【[念书](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_shv.md#念书)】`nin6 shv1` ① 读书 ② 读书。上学。<sup>\[如东\]</sup>：他还在下～。<sup>\[如东\]</sup>  
+1. 【[念念丝丝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_nin_sz_sz.md#念念丝丝)】`nin6 nin6 sz1 sz1` <small>/nĩ1 nĩ1 sɿ1 sɿ1/<sup>泰兴</sup></small> 十分可怜的样子。<sup>\[泰兴\]</sup>  
+1. 【[念书](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_shv.md#念书)】`nin6 shv1` <small>/nĩ1 su1/<sup>泰兴</sup></small> ① 读书 ② 读书。上学。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>：他还在下～。<sup>\[如东\]</sup>  
 1. 【[念诵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_son.md#念诵)】`nin6 son6` <sup>[如东]</sup> 轻轻地叨念。  
 1. 【[念歪嘴经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_vae_zuei_jien.md#念歪嘴经)】`nin6 vae1 zuei3 jien1` <sup>[兴化]</sup> 背后说他人坏话：有意见当面交换，覅老在背后～。  
 1. 【[念想](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_xian.md#念想)】`nin6 xian` <sup>[东台]</sup> 想头：这支笔我用吖十来年吖，送把你留个～吧！  

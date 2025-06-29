@@ -457,9 +457,9 @@
 1. 【[巷头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_teu.md#巷头)】`han6 teu2` <sup>[兴化]</sup> 巷子的入口处及其附近地段，通常为街市：我家～上有酱园、南货店，还有澡堂、理发店。  
 1. 【[巷头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_teu.md#巷头)】`han6 teu2-3` <sup>[泰县]</sup> 巷口。  
 1. 【[巷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_zz.md#巷子)】`han6 zz` <small>/xaŋ6 t͡sɿ/<sup>兴化</sup></small> ① 两屋之间的通道。亦称弄堂。<sup>\[如东\]</sup> ② 屋宇之间狭窄的通道，即北方人所说的胡同。<sup>\[东台\]</sup> ③ 巷<sup>\[兴化\]</sup>：这条～里住有七八户人家。<sup>\[兴化\]</sup>  
+1. 【[巷子里头扛木头，直来直去的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_zz_li_teu.md#巷子里头扛木头，直来直去的)】`han6 zz li3 teu2 kan3 moh8 teu2 cheh8 lae2 cheh8 qy5 dii` <small>/xɑŋ1 t͡sɿ lʝ3 tʰəɪ2 kʰɑŋ3 mɔʔ8 tʰəɪ2 t͡sʰəʔ8 lɛ2 t͡sʰəʔ8 t͡ɕʰy5 təɪ/<sup>泰兴</sup></small> 歇后语。喻办事说话不拐弯抹角。<sup>\[泰兴\]</sup>  
 1. 【[巷子里逮驴——两头堵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_zz_lii_dae.md#巷子里逮驴——两头堵)】`han6 zz lii dae3 ly2 laen3 teu2 dv3` <sup>[东台]</sup>   
 1. 【[巷子里扛木头——直来直去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_zz_lii_kan.md#巷子里扛木头——直来直去)】`han6 zz lii kan2 moh8 teu cheh8 lae2 cheh8 qy5` <sup>[东台]</sup>   
-1. 【[巷子里头扛木头，直来直去的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_zz_lii_teu.md#巷子里头扛木头，直来直去的)】`han6 zz lii3 teu2 kan3 moh8 teu2 cheh8 lae2 cheh8 qy5 dii` <small>/xɑŋ1 t͡sɿ ləɪ3 tʰəɪ2 kʰɑŋ3 mɔʔ8 tʰəɪ2 t͡sʰəʔ8 lɛ2 t͡sʰəʔ8 t͡ɕʰy5 təɪ/<sup>泰兴</sup></small> 歇后语。喻办事说话不拐弯抹角。<sup>\[泰兴\]</sup>  
 1. 【[桁凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_den.md#桁凳)】`han6 den5` <sup>[如东]</sup> 搁置棱条的凳子。  
 1. 【[项门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_men.md#项门)】`han6 men2` <sup>[如东]</sup> 踏步床的踏板上到马桶处去的通道。  
 1. 【[吓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh.md#吓)】`heh7` <small>/xəʔ7/<sup>泰兴</sup></small> ① 吓，使害怕 ② 受惊吓<sup>\[如东\]</sup><sup>\[泰兴\]</sup>：～得扎实/受到严重惊吓<sup>\[泰兴\]</sup>  
@@ -1285,6 +1285,7 @@
 1. 【[火种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_zhon.md#火种)】`hu3 zhon3` <sup>[如皋]</sup> 旧时取火难，民间常以耐燃物阴燃，留作火源，谓之～。如豆稭火中放一枚核桃，用灰盖紧，可阴燃12小时，保证随时取火。  
 1. 【[火纸筒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_zhr_ton_zz.md#火纸筒子)】`hu3 zhr3 ton3 zz` <sup>[兴化]</sup> 用涂过硝的火纸（表芯纸）搓成的细卷（硭子），供引火或点水烟用：又一个是卖～的。这人姓王……（《儒林外史》五五）  
 1. 【[货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu.md#货)】`hu5` 低价卖给别人  
+1. 【[货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu.md#货)】`hu5` <small>/xɤɯ5/<sup>泰兴</sup></small> 货物；商品<sup>\[泰兴\]</sup>：进～<sup>\[泰兴\]</sup>｜出～<sup>\[泰兴\]</sup>  
 1. 【[货船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_chun.md#货船)】`hu5 chun2` <sup>[如东]</sup> 装载货物的运输船。  
 1. 【[货到地头死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_do_ti_teu.md#货到地头死)】`hu5 do5 ti6 teu2 sz3` <sup>[兴化]</sup> 商品的集散地左右价格水平：这个价码他不卖，运到上海，还是这个价，～呀！  
 1. 【[货样三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_ian_saen.md#货样三)】`hu5 ian6 saen1` <sup>[如皋]</sup> 贬指某种花样、手法：看他玩甚的～？又称买卖三。  
@@ -1292,8 +1293,10 @@
 1. 【[货柜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_kuei.md#货柜)】`hu5 kuei6` <sup>[如皋]</sup> 商店装货物的柜子。  
 1. 【[货笿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_lah_r.md#货笿<sub>儿</sub>)】`hu5 lah8 r` <sup>[如皋]</sup> 挑运用的绳网。网底呈田字，有长系，一付两只。  
 1. 【[货郎担子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_lan_daen_zz.md#货郎担子)】`hu5 lan2 daen5 zz` <sup>[如皋]</sup> 挑担叫卖斫糖及小五洋杂货等的小贩。  
+1. 【[货郎担子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_lan_daen_zz.md#货郎担子)】`hu5 lan2 daen5 zz` <small>/xɤɯ5 lɑŋ2 tɛ̃5 t͡sɿ/<sup>泰兴</sup></small> 出售小百货的流动商贩的担子。也指货郎。<sup>\[泰兴\]</sup>  
 1. 【[货郎笛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_lan_tieh_zz.md#货郎笛子)】`hu5 lan2 tieh8 zz` <sup>[如皋]</sup> 货郎一边走一边吹单手控音的竖笛，三孔四音（1235）。  
 1. 【[货色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_seh.md#货色)】`hu5 seh7` <sup>[如东]</sup> ① 货物（就品种和质量而说）：这是一批好～。 ② 比喻人的学问、作品等：陈宏肚子里有～。  
+1. 【[货色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_seh.md#货色)】`hu5 seh7` <small>/xɤɯ5 səʔ7/<sup>泰兴</sup></small> ① 货物的品种、质量<sup>\[泰兴\]</sup> ② 对人的蔑称<sup>\[泰兴\]</sup>  
 1. 【[货瘟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_ven.md#货瘟)】`hu5 ven1` <sup>[如东]</sup> 商品价格下跌：今朝～，卖不起钱来。  
 1. 【[货问三家不吃亏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_ven_saen_ga.md#货问三家不吃亏)】`hu5 ven6 saen1 ga1 beh7 qieh7 kuei1` <sup>[如皋]</sup> 多比较总能买到好的。  
 1. 【[𦽅凉水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_lian_shuei.md#𦽅凉水)】`hu5 lian2 shuei3` <sup>[如皋]</sup> 夏季的一种清凉饮料，由凉开水加薄荷（蔢𦽅）脑儿、香精、糖精、色素配制而成。  
@@ -2365,7 +2368,7 @@
 1. 【[湖心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_xien.md#湖心)】`hv2 xien1` <sup>[兴化]</sup> 湖泊的中央：这纵堡湖上，湖边的芦柴稳稳的，～的水面平平的……（马春阳《双灯照》）  
 1. 【[狐大仙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_da_xin.md#狐大仙)】`hv2 da6 xin1` <small>/xu2 ta ɕiɪ̃1/<sup>兴化</sup></small> 狐仙\[东台：旧时东台城称狐狸为“大仙”。逢年过节人们敬香供奉，祈求～保宅内老小平安。\]\[兴化：迷信的人惧狐、鼬为祟，敬称之为～\]：“……总以为有个～在跟着你哩！哪晓得你面前居然还用着细探子呢。”（《火烧赤壁》五）<sup>\[兴化\]</sup>  
 1. 【[狐狸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_li.md#狐狸)】`hv2 li2` <sup>[如东]</sup> 犬科动物狐狸，也称狐。  
-1. 【[狐狸精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_li_jien.md#狐狸精)】`hv2 li2 jien1` <small>/fu2 lʝ2 t͡ɕiəŋ1/<sup>如皋</sup></small> ① 传说中的狐狸精非常漂亮，比喻打扮妖艳的女人。<sup>\[如东\]</sup> ② 比喻狡猾的人。<sup>\[如东\]</sup> ③ 传说中的妖怪之一，由狐修炼而成。<sup>\[如皋\]</sup> ④ 詈语，专指勾引男人的女人。<sup>\[如皋\]</sup>  
+1. 【[狐狸精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_li_jien.md#狐狸精)】`hv2 li2 jien1` <small>/fu2 lʝ2 t͡ɕiəŋ1/<sup>如皋</sup>, /fʋ2 lʝ2 t͡ɕiŋ1/<sup>泰兴</sup></small> ① 传说中的狐狸精非常漂亮，比喻打扮妖艳的女人。<sup>\[如东\]</sup> ② 比喻狡猾的人。<sup>\[如东\]</sup> ③ 传说中的妖怪之一，由狐修炼而成。<sup>\[如皋\]</sup> ④ 詈语，专指勾引男人的女人。<sup>\[如皋\]</sup> ⑤ 狐仙、狐妖的俗称。常以喻妖冶淫荡的女子。<sup>\[泰兴\]</sup>  
 1. 【[狐狸精𢪯尾巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_li_jien_tae.md#狐狸精𢪯尾巴)】`hv2 li2 jien1 tae1 vei3 ba` <sup>[如皋]</sup> 打扮、伪装得再好，总要露出真相。  
 1. 【[狐臊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_so.md#狐臊)】`hv2 so1` <small>/xu2 sɔ/<sup>兴化</sup>, /ʋ2 sɔ1/<sup>泰兴</sup></small> 狐臭味。<sup>\[东台\]</sup><sup>\[泰州\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>  
 1. 【[狐臊气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_so_qi.md#狐臊气)】`hv2 so1 qi5` <sup>[如东]</sup> 由于腋窝、阴部等部位的皮肤内汗腺分泌异常而产生的刺鼻味。也称狐臭。  
