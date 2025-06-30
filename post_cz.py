@@ -16,6 +16,8 @@ def main():
         response.raise_for_status()
         results = response.json()
         for item in results:
+            if args.CZ not in str(item):
+                continue
             fields = [
                 item.get('trad', ''),
                 item.get('simp', ''),
