@@ -145,6 +145,7 @@
 1. 【[㗘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah.md#㗘)】`pah7` <small>/pʰaʔ7/<sup>兴化</sup>, /pʰaʔ7/<sup>如皋</sup></small> 用双唇取食、用嘴吸食<sup>\[如皋\]</sup><sup>\[兴化\]</sup>：支啊桌上～烧饼屑子。<sup>\[如皋\]</sup>｜才开奶的，伢儿的细嘴在奶子上只～。 <sup>\[如皋\]</sup>｜酒𢮎啊桌上吖，他连忙拿嘴去～。<sup>\[兴化\]</sup>｜大狼狗一口把牛肉～下去。《集韵·铎韵》匹各切“～，噍貌。”<sup>\[兴化\]</sup>  
 1. 【[㗘咖㗘的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_ga_pah_dii.md#㗘咖㗘的)】`pah7 ga pah7 dii` <sup>[东台]</sup> 形容作风飘浮，不踏实。  
 1. 【[㗘话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_hua.md#㗘话)】`pah7 hua6` <sup>[如皋]</sup> 假、大、空的话，神话故事等。  
+1. 【[㗘话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_hua.md#㗘话)】`pah7 hua6` <small>/pʰɑʔ7 xuɑ1/<sup>泰兴</sup></small> 闲话。大话，虚话。<sup>\[泰兴\]</sup>：说～<sup>\[泰兴\]</sup>  
 1. 【[㗘嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_jy.md#㗘嘴)】`pah7 jy3` <small>/pʰɑʔ7 t͡ɕy3/<sup>泰县</sup></small> ① 指口风不紧，或常说大话的人。<sup>\[东台\]</sup> ② 说大话：他是个～。<sup>\[泰县\]</sup>  
 1. 【[㗘头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_teu_zz.md#㗘头子)】`pah7 teu zz` <sup>[如皋]</sup> 责骂的话：吃～，把～他吃。与吃喷差不多。  
 1. 【[㗘天㗘地的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_tin_pah_ti.md#㗘天㗘地的)】`pah7 tin1 pah7 ti6 dii` <sup>[如皋]</sup> 爱吹牛，说话无定准，往往是人的一种个性。  
@@ -156,7 +157,6 @@
 1. 【[䨰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah.md#䨰)】`pah7` <small>/pʰaʔ7/<sup>如皋</sup>, /pʰɑʔ7/<sup>泰县</sup></small> 量词<sup>\[泰县\]</sup>\[如皋：常用于排泄物\]\[泰州：滩，用于糊状物体\]：一～涎、一～痰、一～屎。<sup>\[如皋\]</sup>｜一～屎<sup>\[泰县\]</sup>｜一～屎<sup>\[泰州\]</sup>  
 1. 【[噗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah.md#噗)】`pah7` <sup>[东台]</sup> 人或动物吃某种东西时，快速吸、喝发出的响声：他泡啊杯新茶，美滋滋的～咖一口。  
 1. 【[噗喥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_tah.md#噗喥)】`pah7 tah` <sup>[兴化]</sup> ① 象声词。东西从高处掉下的声音：碗朝地下一𠫓，～，打碎啊。 ② 关门声：～一声把门关起来。  
-1. 【[奅话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_hua.md#奅话)】`pah7 hua6` <small>/pʰɑʔ7 xuɑ1/<sup>泰兴</sup></small> 闲话。大话，虚话。<sup>\[泰兴\]</sup>：说～<sup>\[泰兴\]</sup>  
 1. 【[粕头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_teu.md#粕头)】`pah7 teu` <small>/pʰaʔ7 tʰɤ/<sup>兴化</sup>, /pʰɑʔ7 tʰɤɯ/<sup>泰县</sup></small> ① 语言中的糟粕。<sup>\[东台\]</sup>：有话好好说，不要带～！<sup>\[东台\]</sup> ② 讲话时口中带脏字眼<sup>\[兴化\]</sup>：当领导的说话带～，素质太差。<sup>\[兴化\]</sup> ③ 得罪人的秽语：他又在下骂～。<sup>\[泰县\]</sup> ④ 比喻粗话、脏话<sup>\[泰州\]</sup>：你嘴里放吖干净点儿，不要带～。<sup>\[泰州\]</sup>｜真的是没得爷娘教导，同人说话，嘴里～𠫓𠫓的。<sup>\[泰州\]</sup>  
 1. 【[粕头来哉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_teu_lae_zae.md#粕头来哉)】`pah7 teu lae2 zae1` <sup>[东台]</sup> 指满嘴脏话秽语。  
 1. 【[𩔈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah.md#𩔈)】`pah7` <small>/pʰaʔ7/<sup>如皋</sup>, /pʰɑʔ7/<sup>泰县</sup></small> 阔大，尤其描述脸、脚<sup>\[如皋\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：一双大～脚、一张大～脸。或写“奤”。<sup>\[如皋\]</sup>｜他的脚～吤。<sup>\[泰县\]</sup>｜这个细丫头生吖张大～脸，不好看。<sup>\[泰州\]</sup>｜他的脚～，店里卖的鞋子穿吖脚上嫌勒人。<sup>\[泰州\]</sup>  
@@ -1167,7 +1167,7 @@
 1. 【[破仿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_fan.md#破仿)】`pu5 fan3` <sup>[如皋]</sup> 私塾先生看学生的毛笔习字作业，用红笔作记号。  
 1. 【[破费](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_fei.md#破费)】`pu5 fei5` ① 花费。<sup>\[如东\]</sup> ② 花了钱<sup>\[东台\]</sup>：这次叫你～啊。<sup>\[东台\]</sup> ③ 称别人为自己花钱的客套话<sup>\[泰州\]</sup>：不好意思，今朝让你～唻。<sup>\[泰州\]</sup>  
 1. 【[破解](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_gae.md#破解)】`pu5 gae3` <small>/pʰo5 kɛ3/<sup>兴化</sup></small> ① 分析<sup>\[东台\]</sup>：这件事我～把你听。<sup>\[东台\]</sup> ② 分析、解释<sup>\[兴化\]</sup>：他是晓得周瑜并不是真病，只要自己～于他，病也就会好了。（《火烧赤壁》八）<sup>\[兴化\]</sup> ③ 用法术破除灾厄。<sup>\[泰州\]</sup> ④ 详细分析解释以消除误会或加深理解<sup>\[泰州\]</sup>：你把这里头的道理～啊把她听。<sup>\[泰州\]</sup>  
-1. 【[破锅子对个齾锅盖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_gu_zz_dy.md#破锅子对个齾锅盖)】`pu5 gu1 zz dy5 gu ngaeh8 gu1 gae5` <sup>[东台]</sup> 讽喻素质差的碰到一起了。  
+1. 【[破锅子对个𫜰锅盖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_gu_zz_dy.md#破锅子对个𫜰锅盖)】`pu5 gu1 zz dy5 gu ngaeh8 gu1 gae5` <sup>[东台]</sup> 讽喻素质差的碰到一起了。  
 1. 【[破瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_gua.md#破瓜)】`pu5 gua1` <sup>[如东]</sup> 香瓜破了露出了内囊。比喻内部情况或隐蔽情况暴露出来了：这件事终于破啊瓜。  
 1. 【[破罐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_gun_zz.md#破罐子)】`pu5 gun5 zz` <small>/pʰo5 kũ5 t͡sɿ/<sup>兴化</sup></small> ① （讽）坏了贞操的女人<sup>\[兴化\]</sup>：“他拐了我女孩儿，左右弄做～。”（杂剧《李遂负荆》）<sup>\[兴化\]</sup> ② 也指有劣迹，名声不好的人<sup>\[兴化\]</sup>：～破甩。<sup>\[兴化\]</sup> ③ 比喻有过性生活的未婚女性。<sup>\[泰州\]</sup>  
 1. 【[破罐子破摔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_gun_zz_pu.md#破罐子破摔)】`pu5 gun5 zz pu5 shuae1` <sup>[东台]</sup> ［喻］自暴自弃：走过弯路的人要悔过自新，不能～。  
