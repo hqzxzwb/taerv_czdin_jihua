@@ -6,7 +6,6 @@
 1. 【[啊哟外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/a_io_vae.md#啊哟外)】`a io vae` <small>/a iɔ ʋɛ/<sup>泰兴</sup></small> 口语。表示惊讶、疼痛等。<sup>\[泰兴\]</sup>  
 1. 【[啊哇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/a_va.md#啊哇)】`a va1` <sup>[兴化]</sup> 相当于语气词“了”“啦”：他走～。｜饭烧好～。  
 1. 【[啊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/a_zz.md#啊子)】`a zz` <small>/əʔ t͡sɿ/<sup>兴化</sup>, /a t͡sɿ/<sup>如皋</sup>, /a t͡sɿ/<sup>泰兴</sup>, /əʔ t͡se/<sup>泰县</sup></small> 相当于“下子”，接在阴声韵之后。<sup>\[泰州\]</sup><sup>\[泰兴\]</sup><sup>\[东台\]</sup>：试～；来～；请你出来～。｜你笑～。<sup>\[泰州\]</sup>｜你去～就行。<sup>\[泰州\]</sup>  
-1. 【[也](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/a.md#也)】`a3` <sup>[东台]</sup> “也ia3”的口语音。副词。表示同样、转折、让步等。  
 1. 【[嗳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/ae.md#嗳)】`ae1` <sup>[如皋]</sup> 叹词。轻呼声。  
 1. 【[嗳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/ae.md#嗳)】`ae2` <sup>[如皋]</sup> 叹词。警示声。  
 1. 【[嗳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/ae.md#嗳)】`ae3` <sup>[如皋]</sup> 叹词。否定声。  

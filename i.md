@@ -279,7 +279,6 @@
 1. 【[夜作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_zah.md#夜作)】`ia6 zah7` <sup>[泰县]</sup> ① 夜餐。 ② 开夜工：这几天开啊几个～。  
 1. 【[吔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iae.md#吔)】`iae` <sup>[如皋]</sup> 象声词，语气词。  
 1. 【[吔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iae.md#吔)】`iae3` <small>/iɛ3/<sup>泰兴</sup></small> 语气词，表示赞同<sup>\[泰兴\]</sup>：“天气预报哿是说的明朝落雨啊？”——“～”<sup>\[泰兴\]</sup>  
-1. 【[䶠屁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iaen_pi.md#䶠屁)】`iaen2 pi5` <sup>[泰县]</sup> （禁忌语）随便乱说：你不要～，哪个说的我不会打球？  
 1. 【[鷃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iaen.md#鷃)】`iaen5` <sup>[如东]</sup> 三趾鹑科动物黄脚三趾鷃，体长约16厘米，形似鹌鹑而略小。虹膜淡黄白色。上嘴微黑。上体大部为褐色与栗黄色相杂的羽毛，胸部两侧有黑褐色的圆点。脚黄色，只有三趾。生活在灌丛或草丛中。  
 1. 【[约](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah.md#约)】`iah7` <sup>[泰州]</sup> 粗略测算：你先挑上肩～～看，望吖你哿挑得动它。  
 1. 【[约住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_chv.md#约住)】`iah7 chv` <sup>[兴化]</sup> 控制住，不使过度：你说话～点，不能过头。｜请你～点儿喝，喝醉啊难为情。  
