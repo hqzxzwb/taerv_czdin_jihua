@@ -802,9 +802,7 @@
 1. 【[鄂家埭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngah_ga_tae.md#鄂家埭)】`ngah8 ga tae6` <sup>[如皋]</sup> 如皋江安镇的自然村名。  
 1. 【[𠵫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan.md#𠵫)】`ngan` <sup>[如皋]</sup> 语气助词：这杲子重～，难拿啷！  
 1. 【[䱀䲉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_sz.md#䱀䲉)】`ngan1 sz1` <small>/aŋ1 sɿ1/<sup>兴化</sup>, /ŋã1 sɿ/<sup>如皋</sup></small> 黄颡鱼。又音 ngan1 cz1/3。\[如皋：喻小孩胡闹蛮吵的样子。\]\[泰州：大头平扁，大口圆吻小眼，上下颌有绒毛状的细齿；胸部长平无鳞，后部稍稍侧扁，呈青黄色带不规则褐色斑纹；背鳍灰黑带黄，均具发达硬刺，活动时能发声。\]\[兴化：生活在沟河中的小型鱼类，无鳞。俗称“䱀䲉钉子”。又比喻会争会闹的人。\]：他像个～。<sup>\[兴化\]</sup>  
-1. 【[䱀䲉鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_sz_y.md#䱀䲉鱼)】`ngan1 sz1 y2` 黄颡鱼<sup>\[如东\]</sup><sup>\[东台\]</sup>  
-1. 【[䱀䲉鱼颊骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_sz_y_jih.md#䱀䲉鱼颊骨)】`ngan1 sz1 y2 jih7 gueh7` <sup>[如东]</sup> 鲿科动物黄颡鱼颊骨。  
-1. 【[䱀䲉鱼涎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_sz_y_saen.md#䱀䲉鱼涎)】`ngan1 sz1 y2 saen2` <sup>[如东]</sup> 鲿科动物黄颡鱼皮肤中分泌的黏液。  
+1. 【[䱀䲉鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_sz_y.md#䱀䲉鱼)】`ngan1 sz1 y2` 黄颡鱼<sup>\[如东\]</sup><sup>\[东台\]</sup>：～涎/～皮肤中分泌的黏液。<sup>\[如东\]</sup>｜～颊骨<sup>\[如东\]</sup>  
 1. 【[咉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan.md#咉)】`ngan1` <sup>[兴化]</sup> ① 喧闹：伢儿～饭｜～觉。 ② 争闹：每回分东西他总要～一气。｜她成天～吖要分家。 ③ 《广韵·荡韵》乌郎切“～，～～咽悲也。”  
 1. 【[咉窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_ku.md#咉窠)】`ngan1 ku1` <sup>[如皋]</sup> 蚊子晨昏聚飞交配，咉咉有声。  
 1. 【[肮狗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_geu_zz.md#肮狗子)】`ngan1 geu3 zz` <sup>[东台]</sup> 狗獾的俗称。  
@@ -824,7 +822,7 @@
 1. 【[炴烟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_in.md#炴烟)】`ngan3 in1` <sup>[东台]</sup> 物体没有充分燃烧而产生大量的烟：火烧秸秆，到处～，要综合利用变废为宝。也说“炴烟喷气”。见“𪸺烟”。  
 1. 【[𱞞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan.md#𱞞)】`ngan3` <small>/ŋã3/<sup>如皋</sup></small> ① 倔强、標悍的样子。<sup>\[如皋\]</sup> ② （𱞞）有硬铮、响当当之义<sup>\[东台\]</sup>：中华烟牌子～。<sup>\[东台\]</sup>  
 1. 【[𱞞巴来西的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_ba_lae_xi.md#𱞞巴来西的)】`ngan3 ba lae xi dii` <sup>[如皋]</sup> 见“𱞞ngan3”。  
-1. 【[𱞞脾家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_pi_ga.md#𱞞脾家)】`ngan3 pi2 ga1` <sup>[东台]</sup> 说一不二，并且说话算数的性格。  
+1. 【[𱞞脾家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_pi_jia.md#𱞞脾家)】`ngan3 pi2 jia1` <sup>[东台]</sup> 说一不二，并且说话算数的性格。  
 1. 【[扼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeh.md#扼)】`ngeh7` <sup>[如皋]</sup> ① 一种适于草、竹、篾的编织法。用经绳的：～苫子、～帘子、～箔子、～藁荐。 ② 翘压的，又作“打”：～𥭚障。  
 1. 【[扼憋憋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeh_bih_bih.md#扼憋憋)】`ngeh7 bih7 bih7` <sup>[泰州]</sup> 在外界正义行动或者舆论的压力下，被迫收回自己的错误决定：在过路群众的指责之下，小贩子～的把多收的钱退啊把年纪大的。｜大家强烈反对，他只好～的收回自己的意见。  
 1. 【[扼帘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeh_lin_zz.md#扼帘子)】`ngeh7 lin2 zz` <sup>[如东]</sup> 用绳子把芦苇秆或毛竹丝编成帘子，这种劳动叫做扼帘子。  
