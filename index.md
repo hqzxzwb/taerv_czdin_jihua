@@ -287,6 +287,7 @@
 1. 【[叽哇烦叫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_va_faen_jio.md#叽哇烦叫)】`ji1 va1 faen2 jio5` <sup>[如东]</sup> 大声吵闹：这些伢儿～的，不得安神。  
 1. 【[叽哇十召](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_va_sheh_cho.md#叽哇十召)】`ji1 va1 sheh8 cho6` <sup>[泰县]</sup> 大声吵闹。  
 1. 【[叽嗗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_vaeh.md#叽嗗)】`ji1 vaeh` <sup>[如皋]</sup> 象声词。  
+1. 【[机](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#机)】`ji1` <small>/t͡ɕi1/<sup>兴化</sup>, /t͡sɿ1/<sup>泰县</sup></small> ① 用机器碾米或将加水后的面粉轧成面条。<sup>\[兴化\]</sup> ② 碾<sup>\[泰县\]</sup>：你把米拿去～下子。<sup>\[泰县\]</sup>  
 [更多...](./j.md)
 ## K
 1. 【[抲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka.md#抲)】`ka1` <small>/kʰa1/<sup>兴化</sup>, /kʰa1/<sup>如皋</sup>, /kʰa1/<sup>泰县</sup></small> ① 揣、塞、放进<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：把钱～啊袋儿里。<sup>\[如皋\]</sup>｜把馒头朝嘴里～。<sup>\[如东\]</sup>｜把钱～啊袋里。<sup>\[东台\]</sup>｜吃不下去硬～。<sup>\[兴化\]</sup>｜街上卖的鸡子食都～得满满的。<sup>\[泰县\]</sup>｜他吃不下去就不要硬～他唻。<sup>\[泰州\]</sup>｜你多～点ㄦ馅心，包子才好吃。<sup>\[泰州\]</sup> ② 做事偷偷摸摸的<sup>\[东台\]</sup>：鬼～鬼～的。<sup>\[东台\]</sup> ③ 嵌<sup>\[兴化\]</sup>：桌子缝里～灰。<sup>\[兴化\]</sup> ④ 抓（《集韵》平声麻韵丘加切：“扼也，或作揢㧎”。）<sup>\[泰县\]</sup>：把药～住阿。<sup>\[泰县\]</sup> ⑤ 把钱物强行塞给别人<sup>\[泰州\]</sup>：临走的时候，老李又～啊两包烟把他。<sup>\[泰州\]</sup> ⑥ 强行安插人员<sup>\[泰州\]</sup>：编制已经满吖，上头又～啊两个人进来啊。<sup>\[泰州\]</sup>  

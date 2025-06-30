@@ -190,7 +190,7 @@
 1. 【[攮管尖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nan_gun_jin_zz.md#攮管尖子)】`nan3 gun3 jin1 zz` <sup>[如皋]</sup> 在攮管后下方的小桩，套车辫扣儿用。  
 1. 【[攮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nan_zz.md#攮子)】`nan3 zz` <sup>[东台]</sup> 匕首。  
 1. 【[攮子刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nan_zz_do.md#攮子刀)】`nan3 zz do1` <sup>[如东]</sup> 工具。铁制，头尖，口锋利，有短柄，似匕首。主要用于宰杀猪羊等牲口。也称攮子。  
-1. 【[儾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nan.md#儾)】`nan5` <small>/laŋ5/<sup>兴化</sup>, /nã5/<sup>如皋</sup></small> ① 松重；下垂。<sup>\[如皋\]</sup> ② 肥盛貌<sup>\[如皋\]</sup>：这块肉肥～～的。如皋词典写“腩”。<sup>\[如皋\]</sup> ③ 松抛、下垂。《广韵·宕韵》奴浪切：“～，缓也”。<sup>\[兴化\]</sup>：王胖子下巴跟肚子上的皮都～下来啊<sup>\[兴化\]</sup>｜棕绷的膛心～下来，不好睏吖<sup>\[兴化\]</sup>  
+1. 【[儾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nan.md#儾)】`nan5` <small>/laŋ5/<sup>兴化</sup>, /nã5/<sup>如皋</sup></small> ① 松重；下垂。<sup>\[如皋\]</sup> ② 肥盛貌<sup>\[如皋\]</sup>：这块肉肥～～的。如皋词典写“腩”。<sup>\[如皋\]</sup> ③ 松抛、下垂<sup>\[兴化\]</sup>：王胖子下巴跟肚子上的皮都～下来啊<sup>\[兴化\]</sup>｜棕绷的膛心～下来，不好睏吖<sup>\[兴化\]</sup>  
 1. 【[儾腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nan_io.md#儾腰)】`nan5 io1` <sup>[如东]</sup> 中间向下微弯：绳索～。  
 1. 【[儾儾<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nan_nan_r.md#儾儾<sub>儿</sub>)】`nan5 nan5-3 r` <sup>[东台]</sup> 猪胸腹部的肥而松的肉。  
 1. 【[儾皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nan_pi.md#儾皮)】`nan5 pi2` <sup>[如皋]</sup> 松弛下垂的皮肤。  
@@ -602,8 +602,7 @@
 1. 【[𫜰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh.md#𫜰)】`ngaeh8` <small>/æʔ8/<sup>兴化</sup></small> ① 器物上的缺口<sup>\[兴化\]</sup>：碗上碰个～子。<sup>\[兴化\]</sup>｜缸边上有～口子。<sup>\[兴化\]</sup>｜刀上有～子。<sup>\[兴化\]</sup> ② 牙上的小缺口。<sup>\[泰州\]</sup> ③ 器物上的齿形缺口。<sup>\[泰州\]</sup> ④ 陶瓷器口边上的缺口。<sup>\[泰州\]</sup>  
 1. 【[𫜰当<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh_dan_r.md#𫜰当<sub>儿</sub>)】`ngaeh8 dan1 r` <sup>[东台]</sup> 形容很小的空隙：车厢里交关挤，我寻到个～坐下来。  
 1. 【[𫜰咚𫜰咚的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh_don_ngaeh_don.md#𫜰咚𫜰咚的)】`ngaeh8 don3 ngaeh8 don3 dii` <sup>[东台]</sup> 不停地走路的样子，多用于嗔词：你歇歇神，哿好，不要老是～，走啊不歇。  
-1. 【[𫜰子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh_zz.md#𫜰子)】`ngaeh8 zz` （器皿上的）缺口，又称𫜰口。  
-1. 【[𫜰子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh_zz.md#𫜰子)】`ngaeh8 zz` <small>/ŋeʔ8 t͡sɿ/<sup>如皋</sup>, /æʔ8 t͡se/<sup>泰县</sup></small> ① 器皿口部的小缺子<sup>\[如皋\]</sup>：剪子口有啊～；碗边子碰吖个～。<sup>\[如皋\]</sup> ② 器皿上的缺损。<sup>\[如东\]</sup>：大碗上有个～。<sup>\[如东\]</sup> ③ 陶器，瓷器边缘磨损后出现的小缺口<sup>\[东台\]</sup>：青花瓷碗上有个～<sup>\[东台\]</sup> ④ 缺口，裂缝<sup>\[泰县\]</sup>：这个锅盖有个～<sup>\[泰县\]</sup>  
+1. 【[𫜰子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh_zz.md#𫜰子)】`ngaeh8 zz` <small>/ŋeʔ8 t͡sɿ/<sup>如皋</sup>, /æʔ8 t͡se/<sup>泰县</sup></small> ① （器皿上的）缺口，又称𫜰口。 ② 器皿口部的小缺子<sup>\[如皋\]</sup>：剪子口有啊～；碗边子碰吖个～。<sup>\[如皋\]</sup> ③ 器皿上的缺损。<sup>\[如东\]</sup>：大碗上有个～。<sup>\[如东\]</sup> ④ 陶器，瓷器边缘磨损后出现的小缺口<sup>\[东台\]</sup>：青花瓷碗上有个～<sup>\[东台\]</sup> ⑤ 缺口，裂缝<sup>\[泰县\]</sup>：这个锅盖有个～<sup>\[泰县\]</sup>  
 1. 【[淹吖心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_nga_xien.md#淹吖心)】`ngaen1 nga xien1` <sup>[如皋]</sup> 十分苦：他捱敌人捉咖去，吃的苦～。  
 1. 【[淹杀鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_shaeh_guei.md#淹杀鬼)】`ngaen1 shaeh guei3` <sup>[如皋]</sup> 见“河落鬼”。  
 1. 【[淹死海里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_sz_hae_lii.md#淹死海里)】`ngaen1 sz3 hae3 lii` <sup>[如东]</sup> 淹死在海洋里。渔民淹死海里后，往往连尸体都捞不回来，是非常悲惨的。这是咒骂渔民的话。  

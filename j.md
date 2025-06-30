@@ -27,7 +27,6 @@
 1. 【[叽哇烦叫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_va_faen_jio.md#叽哇烦叫)】`ji1 va1 faen2 jio5` <sup>[如东]</sup> 大声吵闹：这些伢儿～的，不得安神。  
 1. 【[叽哇十召](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_va_sheh_cho.md#叽哇十召)】`ji1 va1 sheh8 cho6` <sup>[泰县]</sup> 大声吵闹。  
 1. 【[叽嗗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_vaeh.md#叽嗗)】`ji1 vaeh` <sup>[如皋]</sup> 象声词。  
-1. 【[嵇公堤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_gon_ti.md#嵇公堤)】`ji1 gon1 ti2` <sup>[如东]</sup> 栟茶离海较近，海潮泛涨，虽有范公堤，但不能捍御。清雍正十二年（1734年），东台人周尧天等呈请河道总督嵇营筠奏准修建。自小洋口至磨担头，长20公里。嵇曾筠主筑，后人称“嵇公堤”。注：“嵇”在泰如话中念“移”，不念“机”。  
 1. 【[机](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#机)】`ji1` <small>/t͡ɕi1/<sup>兴化</sup>, /t͡sɿ1/<sup>泰县</sup></small> ① 用机器碾米或将加水后的面粉轧成面条。<sup>\[兴化\]</sup> ② 碾<sup>\[泰县\]</sup>：你把米拿去～下子。<sup>\[泰县\]</sup>  
 1. 【[机帆船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_faen_chun.md#机帆船)】`ji1 faen2 chun2` <sup>[如东]</sup> 渔船的一种。木壳，以内燃机与风帆为动力。吨位较大。主要从事海洋捕捞作业。  
 1. 【[机耕桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_gen_qio.md#机耕桥)】`ji1 gen1 qio2` <sup>[兴化]</sup> 能通过小型农业机械的钢筋混凝土桥梁。荷载略大于人行便桥。  
@@ -625,6 +624,7 @@
 1. 【[吃巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_ba.md#吃巴)】`jieh7 ba1` <sup>[如东]</sup> 说话不利落。也叫口吃。注：吃巴，普通话写作“结巴”。这里的“吃”不是“吃饭”的“喫”。  
 1. 【[吃謇<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_jin_r.md#吃謇<sub>儿</sub>)】`jieh7 jin3 r` <sup>[泰州]</sup> 口吃的人：他说话有点儿～，要是说话不吃酒更好啊唻。  
 1. 【[吃愣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_len.md#吃愣)】`jieh7 len6` <sup>[如皋]</sup> 结巴，口吃。  
+1. 【[吃愣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_len_zz.md#吃愣子)】`jieh7 len6 zz` <small>/t͡ɕiəʔ7 ləŋ1 t͡sɿ/<sup>泰兴</sup></small> 口吃，说话字音重复或中断。<sup>\[泰兴\]</sup>  
 1. 【[吃砟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_zha.md#吃砟)】`jieh7 zha3` <sup>[泰州]</sup> ① （泰州词典作吃𧬅） ② 比喻能力低下的人：你不要望他人模狗样的，实骨子就是个～，这件事就不要指望他唻。  
 1. 【[吉房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_fan.md#吉房)】`jieh7 fan2` <sup>[兴化]</sup> 空房，召租时的招徕用语：～召租。  
 1. 【[吉言](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_in.md#吉言)】`jieh7 in2` <small>/t͡ɕiʔ7 ĩ2/<sup>泰兴</sup></small> 好话，善言。吉祥之言。<sup>\[泰兴\]</sup>：借你的～，今朝赚吖笔钱<sup>\[泰兴\]</sup>  
@@ -744,8 +744,7 @@
 1. 【[京货店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_hu_din.md#京货店)】`jien1 hu5 din5` <small>/t͡ɕiəŋ1 xʊ5 tĩ5/<sup>如皋</sup></small> ① 销售北方货物的商店。<sup>\[如东\]</sup> ② 卖北方土、特品的商店。<sup>\[如皋\]</sup>  
 1. 【[京胡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_hv.md#京胡)】`jien1 hv2` <sup>[如皋]</sup> 高音胡琴。  
 1. 【[京腔京调](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_qian_jien_tio.md#京腔京调)】`jien1 qian1 jien1 tio6` <sup>[如皋]</sup> 北京人说话的腔调。  
-1. 【[京枣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zo.md#京枣)】`jien1 zo3` <sup>[如东]</sup> 糕点的一种。面粉经过发酵，加工成圆柱形。放在油中炸熟，再沾上糖。是普通糕点。  
-1. 【[京枣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zo.md#京枣)】`jien1 zo3` <small>/t͡ɕiŋ1 t͡sɔ3/<sup>泰兴</sup></small> 食品。油炸小面果，脆香可口。乡人旧时常作年节茶食。<sup>\[泰兴\]</sup>  
+1. 【[京枣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zo.md#京枣)】`jien1 zo3` <small>/t͡ɕiŋ1 t͡sɔ3/<sup>泰兴</sup></small> ① 糕点的一种。面粉经过发酵，加工成圆柱形。放在油中炸熟，再沾上糖。是普通糕点。<sup>\[如东\]</sup> ② 食品。油炸小面果，脆香可口。乡人旧时常作年节茶食。<sup>\[泰兴\]</sup>  
 1. 【[今吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_nga.md#今吖)】`jien1 nga` 今天。  
 1. 【[今日三，明日四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_rih_saen_mien.md#今日三，明日四)】`jien1 rih8 saen1 mien2 rih8 sz5` <sup>[兴化]</sup> ① 日复一日：“就这样，～，从偷人家的鸡蛋开始，到偷人家的钱、船、车、木排……”（兴文《鲢鱼宝》） ② 施延时日：他借钱时说好一年内归还，结果～，至今分文未还。 ③ 朝三暮四，反复无常：爱情要专一，不要～的。  
 1. 【[惊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien.md#惊)】`jien1` <small>/t͡ɕin1/<sup>兴化</sup>, /t͡ɕiəŋ1/<sup>如皋</sup></small> ① 痉挛，抽筋：～～憷憷的、～吖～的。<sup>\[如皋\]</sup> ② 惊风：惹～。如皋词典写“痉”。<sup>\[如皋\]</sup> ③ 婴幼儿因受意外刺激而害怕<sup>\[兴化\]</sup>：小儿～吖。<sup>\[兴化\]</sup> ④ 痱子受刺激而骤痒<sup>\[兴化\]</sup>：痱子一～，浑身发痒。<sup>\[兴化\]</sup> ⑤ 收到意外刺激而引起抽搐<sup>\[泰州\]</sup>：你喉咙小啊点ㄦ哉，不要把伢儿惊吖。<sup>\[泰州\]</sup>  

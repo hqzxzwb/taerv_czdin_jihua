@@ -144,8 +144,7 @@
 1. 【[办酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_jieu.md#办酒)】`paen6 jieu3` <sup>[如皋]</sup> 操办酒席。  
 1. 【[㗘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah.md#㗘)】`pah7` <small>/pʰaʔ7/<sup>兴化</sup>, /pʰaʔ7/<sup>如皋</sup></small> 用双唇取食、用嘴吸食<sup>\[如皋\]</sup><sup>\[兴化\]</sup>：支啊桌上～烧饼屑子。<sup>\[如皋\]</sup>｜才开奶的，伢儿的细嘴在奶子上只～。 <sup>\[如皋\]</sup>｜酒𢮎啊桌上吖，他连忙拿嘴去～。<sup>\[兴化\]</sup>｜大狼狗一口把牛肉～下去。《集韵·铎韵》匹各切“～，噍貌。”<sup>\[兴化\]</sup>  
 1. 【[㗘咖㗘的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_ga_pah_dii.md#㗘咖㗘的)】`pah7 ga pah7 dii` <sup>[东台]</sup> 形容作风飘浮，不踏实。  
-1. 【[㗘话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_hua.md#㗘话)】`pah7 hua6` <sup>[如皋]</sup> 假、大、空的话，神话故事等。  
-1. 【[㗘话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_hua.md#㗘话)】`pah7 hua6` <small>/pʰɑʔ7 xuɑ1/<sup>泰兴</sup></small> 闲话。大话，虚话。<sup>\[泰兴\]</sup>：说～<sup>\[泰兴\]</sup>  
+1. 【[㗘话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_hua.md#㗘话)】`pah7 hua6` <small>/pʰaʔ7 xua1/<sup>如皋</sup>, /pʰɑʔ7 xuɑ/<sup>泰兴</sup></small> ① 假、大、空的话，神话故事等。<sup>\[如皋\]</sup> ② 闲话。大话，虚话。<sup>\[泰兴\]</sup>：说～<sup>\[泰兴\]</sup>  
 1. 【[㗘嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_jy.md#㗘嘴)】`pah7 jy3` <small>/pʰɑʔ7 t͡ɕy3/<sup>泰县</sup></small> ① 指口风不紧，或常说大话的人。<sup>\[东台\]</sup> ② 说大话：他是个～。<sup>\[泰县\]</sup>  
 1. 【[㗘头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_teu_zz.md#㗘头子)】`pah7 teu zz` <sup>[如皋]</sup> 责骂的话：吃～，把～他吃。与吃喷差不多。  
 1. 【[㗘天㗘地的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_tin_pah_ti.md#㗘天㗘地的)】`pah7 tin1 pah7 ti6 dii` <sup>[如皋]</sup> 爱吹牛，说话无定准，往往是人的一种个性。  

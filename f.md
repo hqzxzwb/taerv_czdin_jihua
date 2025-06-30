@@ -610,6 +610,7 @@
 1. 【[分彼此](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_bi_cz.md#分彼此)】`fen1 bi3 cz3` <sup>[兴化]</sup> 双方分得很清楚：你这吖～关系就疏远吖。｜“……你等切不可自～，致生事端。”（《封神演义》七三）  
 1. 【[分凿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_cah.md#分凿)】`fen1 cah8` <sup>[如东]</sup> 工具。铁制，口锋利，有柄。规格有一、二、三、四、五、六、七、八分诸种。木工用以打眼。  
 1. 【[分岔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_cha.md#分岔)】`fen1 cha5` <sup>[兴化]</sup> 稻麦等农作物生长分蘖。也称“发棵”。  
+1. 【[分寸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_cuen.md#分寸)】`fen1 cuen` <small>/fəŋ1 t͡sʰuəŋ/<sup>泰兴</sup></small> 说话做事应掌握的尺度、界限。<sup>\[泰兴\]</sup>：说话要有点～，不要信口开河。<sup>\[泰兴\]</sup>  
 1. 【[分房减口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_fan_jiaen_keu.md#分房减口)】`fen1 fan2 jiaen3 keu3` <sup>[兴化]</sup> 从大家庭中分出支派或一部分人口，以减轻负担：为啊～，把大儿家四口子分出去另过。｜“……因为你那里六料不收，～，你父亲母亲带你到这里趁熟……”（《初刻》三三）  
 1. 【[分肥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_fei.md#分肥)】`fen1 fei2` ① 分红利。<sup>\[如东\]</sup>：他也参加～的。<sup>\[如东\]</sup> ② 分获财物。<sup>\[如东\]</sup> ③ 把别人的好处分掉一些。<sup>\[东台\]</sup> ④ 分取他人已获得的利益，多指不正当的利益<sup>\[泰州\]</sup>：就弄吖这吖两个钱，他也想来～。<sup>\[泰州\]</sup>  
 1. 【[分锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_gu.md#分锅)】`fen1 gu1` <small>/fəŋ1 kɤɯ1/<sup>泰兴</sup></small> 分立锅灶，即分家。<sup>\[泰兴\]</sup>：树大长丫，儿大分家。兄弟们总是要～吃饭的。<sup>\[泰兴\]</sup>  
@@ -968,8 +969,7 @@
 1. 【[俯就](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_qieu.md#俯就)】`fv3 qieu6` <small>/fu3 t͡ɕʰyʊ/<sup>如皋</sup>, /fu3 t͡ɕʰiɤɯ/<sup>泰县</sup></small> ① 将就，迁就。<sup>\[如东\]</sup>：只好～一点。<sup>\[如东\]</sup> ② 马虎一点，将就一下（同“架挂”）<sup>\[东台\]</sup>：这事要办得十分严谨，不能～。<sup>\[东台\]</sup> ③ 迁就<sup>\[如皋\]</sup>：伢儿不好过（生病），你～他点儿，不要惹他哭。<sup>\[如皋\]</sup> ④ 勉强<sup>\[如皋\]</sup>：这件旧衣裳～好穿。<sup>\[如皋\]</sup> ⑤ 敷衍<sup>\[如皋\]</sup>：你就～修下子算了。<sup>\[如皋\]</sup> ⑥ 马乎、将就<sup>\[泰县\]</sup>：你～点儿，不要收他的钱。<sup>\[泰县\]</sup>  
 1. 【[俯就<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_qieu_r.md#俯就<sub>儿</sub>)】`fv3 qieu6 r` 稍微，稍稍  
 1. 【[俯瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_va.md#俯瓦)】`fv3 va3` <sup>[如东]</sup> 瓦面朝上的瓦，叫俯瓦。  
-1. 【[府上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_shan.md#府上)】`fv3 shan` <sup>[东台]</sup> 敬辞，称对方的家庭。  
-1. 【[府上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_shan.md#府上)】`fv3 shan` <small>/fʋ3 sɑŋ/<sup>泰兴</sup></small> 对别人的家或老家的尊称。<sup>\[泰兴\]</sup>  
+1. 【[府上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_shan.md#府上)】`fv3 shan` <small>/fʋ3 sɑŋ/<sup>泰兴</sup></small> ① 敬辞，称对方的家庭。<sup>\[东台\]</sup> ② 对别人的家或老家的尊称。<sup>\[泰兴\]</sup>  
 1. 【[斧子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_zz.md#斧子)】`fv3 zz` <sup>[如东]</sup> 工具。铁制，头呈楔形，口锋利，有柄。用以砍砟木料。  
 1. 【[烰炭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_taen.md#烰炭)】`fv3 taen5` <sup>[如皋]</sup> 家制木炭。  
 1. 【[腐化](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_hua.md#腐化)】`fv3 hua5` ① 木头等材料受潮变质腐烂。<sup>\[如东\]</sup> ② 思想行为变坏。<sup>\[如东\]</sup>：你这个人～啊。<sup>\[如东\]</sup> ③ 不正当的男女关系。<sup>\[如东\]</sup> ④ 指人的思想行为变坏，多指干部生活作风方面，与别的女人发生性关系。<sup>\[东台\]</sup>  
@@ -1012,7 +1012,7 @@
 1. 【[父娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_nian.md#父娘)】`fv6 nian2` <sup>[兴化]</sup> 即父母（只在民谚中出现）：当家方知柴米贵，养儿才知～恩。  
 1. 【[父亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_qien.md#父亲)】`fv6 qien1` <sup>[如东]</sup> 生育自己的男子称父亲。有血缘关系的称生父，无血缘关系的称养父或继父。  
 1. 【[父<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_r.md#父<sub>儿</sub>)】`fv6 r` <sup>[泰县]</sup> 爸爸。  
-1. 【[父债子还](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_zhae_zz_huaen.md#父债子还)】`fv6 zhae5 zz3 huaen2` <small>/fu6 t͡sɛ5 t͡sɿ3 xuɛ̃2/<sup>兴化</sup></small> ① 俗谓父亲生前的债务，当由儿子来偿还<sup>\[兴化\]</sup>：“……王德富死了……～，我要向他王大爷要这个账……”（《皮五辣子》二）<sup>\[兴化\]</sup> ② 父亲生前签下的债务，子女应当负偿还责任。<sup>\[泰州\]</sup>  
+1. 【[父债子还](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_zhae_zz_huaen.md#父债子还)】`fv6 zhae5 zz3 huaen2` <small>/fu6 t͡sɛ5 t͡sɿ3 xuɛ̃2/<sup>兴化</sup>, /fʋ1 t͡ɕiɛ5 t͡sɿ3 xuɛ̃2/<sup>泰兴</sup></small> ① 俗谓父亲生前的债务，当由儿子来偿还<sup>\[兴化\]</sup>：“……王德富死了……～，我要向他王大爷要这个账……”（《皮五辣子》二）<sup>\[兴化\]</sup> ② 父亲生前签下的债务，子女应当负偿还责任。<sup>\[泰州\]</sup> ③ 儿子还父亲的债务，多用于父亲去世之后。<sup>\[泰兴\]</sup>：～古来的规矩<sup>\[泰兴\]</sup>  
 1. 【[父子兵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_zz_bien.md#父子兵)】`fv6 zz3 bien1` <sup>[东台]</sup> ［喻］上下一心、亲密团结的军队：无名氏《陈州粟米》第一折：“常言道：‘厮杀无如～’。”  
 1. 【[腐烂的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_laen_dii.md#腐烂的)】`fv6 laen6 dii` <sup>[东台]</sup> 形容很烂的样子。  
 1. 【[负啊命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_a_mien.md#负啊命)】`fv6 a mien6` <sup>[如皋]</sup> 拼命地：他捱松吖绑就～的遛。  

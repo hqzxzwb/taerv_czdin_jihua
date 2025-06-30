@@ -64,6 +64,7 @@
 1. 【[姨外外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_vae_vae.md#姨外外)】`i2 vae6 vae` 母亲的姨父<sup>\[如东\]</sup>  
 1. 【[姨兄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_xion.md#姨兄)】`i2 xion` <sup>[如东]</sup> 姨妈和姨娘生的年龄比自己大的男子。  
 1. 【[姨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_zz.md#姨子)】`i2 zz` <small>/i2 t͡sɿ/<sup>兴化</sup></small> 妻子的姐妹。<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：大～；小～。<sup>\[兴化\]</sup>  
+1. 【[嵇公堤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_gon_ti.md#嵇公堤)】`i2 gon1 ti2` <sup>[如东]</sup> 栟茶离海较近，海潮泛涨，虽有范公堤，但不能捍御。清雍正十二年（1734年），东台人周尧天等呈请河道总督嵇营筠奏准修建。自小洋口至磨担头，长20公里。嵇曾筠主筑，后人称“嵇公堤”。注：“嵇”在泰如话中念“移”，不念“机”。  
 1. 【[爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#爷)】`i2` <small>/i2/<sup>兴化</sup>, /ʝ2/<sup>如皋</sup></small> ① 叔叔（扬州音） ② 叔叔。称父亲的弟弟或比父亲年轻的长辈。<sup>\[如皋\]</sup> ③ 父亲的弟弟。通称叔父。<sup>\[如东\]</sup> ④ 父亲（兴盐边界某些村舍语）<sup>\[兴化\]</sup>  
 1. 【[疑猜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_cae.md#疑猜)】`i2 cae` 怀疑<sup>\[如东\]</sup>  
 1. 【[疑里大惑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_lii_da_hoh.md#疑里大惑)】`i2 lii da6 hoh8` <sup>[兴化]</sup> 疑心：他那个要笑不笑的样子，把人弄得～的。  
@@ -260,8 +261,7 @@
 1. 【[夜里家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_lii_ga.md#夜里家)】`ia6 lii ga` <small>/iɑ1 ləɪ kɑ/<sup>泰兴</sup></small> 夜里，黑夜。<sup>\[泰兴\]</sup>  
 1. 【[夜里狠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_lii_hen.md#夜里狠)】`ia6 lii hen3` <sup>[如皋]</sup> 见“夜里凶”。  
 1. 【[夜里落雨日里晴，懒婆娘气得心里疼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_lii_lah_y.md#夜里落雨日里晴，懒婆娘气得心里疼)】`ia6 lii lah8 y3 rih8 lii qien2 laen3 pu2 nian qi5 deh7 xien1 lii ten2` <sup>[如皋]</sup> 日里晴，不好玩耍又要做事，心里不疼才怪。  
-1. 【[夜里凶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_lii_xion.md#夜里凶)】`ia6 lii xion1` <sup>[如皋]</sup> ① 指某些疾病夜间严重。 ② 贬指女人夜里最能制服男人。  
-1. 【[夜里凶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_lii_xion.md#夜里凶)】`ia6 lii xion1` <small>/iɑ1 ləɪ ɕiɔŋ1/<sup>泰兴</sup></small> 夜上精神抖擞、劲头十足。1940年黄桥决战以后，乡人盛传“新四军变的，夜里凶”至今。<sup>\[泰兴\]</sup>  
+1. 【[夜里凶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_lii_xion.md#夜里凶)】`ia6 lii xion1` <small>/ia1 tei ɕiɔŋ1/<sup>如皋</sup>, /iɑ1 ləɪ ɕiɔŋ1/<sup>泰兴</sup></small> ① 指某些疾病夜间严重。<sup>\[如皋\]</sup> ② 贬指女人夜里最能制服男人。<sup>\[如皋\]</sup> ③ 夜上精神抖擞、劲头十足。1940年黄桥决战以后，乡人盛传“新四军变的，夜里凶”至今。<sup>\[泰兴\]</sup>  
 1. 【[夜摸星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_mah_xien.md#夜摸星)】`ia6 mah8 xien1` <sup>[东台]</sup> 习惯日不做夜摸索，或白天拖拉，夜间才出进度的人。  
 1. 【[夜摸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_mah_zz.md#夜摸子)】`ia6 mah8 zz` <small>/ia6 maʔ8 t͡sɿ/<sup>兴化</sup>, /ia1 mɑʔ8 t͡se/<sup>泰县</sup></small> 惯于夜间做事、活动的人。<sup>\[如东\]</sup><sup>\[泰县\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：他家老二是个～。<sup>\[泰县\]</sup>｜他是个～，天一黑劲头就来啊。<sup>\[兴化\]</sup>  
 1. 【[夜明砂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_mien_sha.md#夜明砂)】`ia6 mien2 sha1` <sup>[如东]</sup> 蝙蝠科动物蝙蝠的干燥粪便。  

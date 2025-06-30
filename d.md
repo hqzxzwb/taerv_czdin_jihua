@@ -1931,8 +1931,7 @@
 1. 【[店家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_jia.md#店家)】`din5 jia` <sup>[兴化]</sup> 店铺：同昌、广元是兴化著名的～。  
 1. 【[店口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_keu.md#店口)】`din5 keu3` <sup>[兴化]</sup> 即店铺：从～里买的货比摊儿上的地道。  
 1. 【[店面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_min.md#店面)】`din5 min6` <sup>[如皋]</sup> 店房的外观、规模。  
-1. 【[店面房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_min_fan.md#店面房)】`din5 min6 fan2` <sup>[东台]</sup> 沿街可以开店的房屋。  
-1. 【[店面房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_min_fan.md#店面房)】`din5 min6 fan2` <small>/tĩ5 mĩ1 fɑŋ2/<sup>泰兴</sup></small> 商店用作门市交易的临街房舍。<sup>\[泰兴\]</sup>  
+1. 【[店面房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_min_fan.md#店面房)】`din5 min6 fan2` <small>/tĩ5 mĩ1 fɑŋ2/<sup>泰兴</sup></small> ① 沿街可以开店的房屋。<sup>\[东台\]</sup> ② 商店用作门市交易的临街房舍。<sup>\[泰兴\]</sup>  
 1. 【[店铺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_pv.md#店铺)】`din5 pv5` <sup>[东台]</sup> 泛指商店。  
 1. 【[店堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_tan.md#店堂)】`din5 tan2` <small>/tĩ5 tʰã2/<sup>如皋</sup></small> ① 经营商品的房间，称店堂。<sup>\[如东\]</sup> ② 店房中柜台外的顾客活动空间。<sup>\[如皋\]</sup> ③ 商店营业的地方。<sup>\[东台\]</sup>  
 1. 【[殿底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_di.md#殿底)】`din5 di3` <sup>[兴化]</sup> 指最后的：（高跷队）～的是“火烧向大人”。三个角色……。（汪曾祺《故里三陈》）  

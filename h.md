@@ -1186,9 +1186,8 @@
 1. 【[伙仓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_can.md#伙仓)】`hu3 can1` <sup>[如皋]</sup> 炊事：开～（煮饭菜）。  
 1. 【[伙计](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_ji.md#伙计)】`hu3 ji5` <small>/xɤɯ3 t͡ɕʝ5/<sup>泰兴</sup></small> 旧指店员或其他被雇佣劳动者。<sup>\[泰兴\]</sup>  
 1. 【[伙家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_jia.md#伙家)】`hu3 jia` <sup>[兴化]</sup> ① 伙计、佣人。 ② 对朋友，熟人等比较随意的面称：“～，好力气，好膀条子！”（《武松》五）｜“～，今天夜里要防备大风大雨哩！”（马春阳《双灯照》）  
-1. 【[伙家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_jia.md#伙家)】`hu3 jia1` <sup>[如皋]</sup> 指在一起的人。昵称。詈指。  
 1. 【[伙家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_jia.md#伙家)】`hu3 jia1, hu1 jia1` <sup>[东台]</sup> 伙伴之间最常用的昵称，一般用于对同辈、晚辈或下级，而不是相反。在这里，“家”为“计啊”合音，“伙”习惯也读阴平。  
-1. 【[伙家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_jia.md#伙家)】`hu3 jia1` <small>/xo3 t͡ɕia1/<sup>泰县</sup></small> ① 同辈或长辈对下辈亲呢称呼<sup>\[泰县\]</sup>：～，等我下子<sup>\[泰县\]</sup> ② 共事的人，特指店主雇用的工人。<sup>\[泰州\]</sup> ③ 同龄、同事或同伴<sup>\[泰州\]</sup>：～，这件事就全看你的唻。<sup>\[泰州\]</sup>  
+1. 【[伙家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_jia.md#伙家)】`hu3 jia1` <small>/xʊ3 t͡ɕia1/<sup>如皋</sup>, /xo3 t͡ɕia1/<sup>泰县</sup></small> ① 指在一起的人。昵称。詈指。<sup>\[如皋\]</sup> ② 同辈或长辈对下辈亲呢称呼<sup>\[泰县\]</sup>：～，等我下子<sup>\[泰县\]</sup> ③ 共事的人，特指店主雇用的工人。<sup>\[泰州\]</sup> ④ 同龄、同事或同伴<sup>\[泰州\]</sup>：～，这件事就全看你的唻。<sup>\[泰州\]</sup>  
 1. 【[伙头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_teu.md#伙头)】`hu3 teu` <sup>[如东]</sup> 做饭的船工。  
 1. 【[火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu.md#火)】`hu3` <sup>[如皋]</sup> 皮肤的红斑疮、溃疡：他腿子上有块～，火辣火辣的疼。  
 1. 【[火把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_ba.md#火把)】`hu3 ba3` <sup>[泰州]</sup> 火炬：过去在乡里天黑走夜路就要打～唻。  
