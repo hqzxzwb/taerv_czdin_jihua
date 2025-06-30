@@ -235,15 +235,16 @@
 1. 【[夜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia.md#夜)】`ia6` <small>/ia1/<sup>如皋</sup>, /iɑ1/<sup>泰兴</sup></small> ① 入夜<sup>\[泰兴\]</sup><sup>\[如皋\]</sup>：外头～啊。<sup>\[如皋\]</sup>｜外头～得早。<sup>\[如皋\]</sup> ② 春节之前十天，每一天都称为“夜”，如腊月二十称“二十夜”<sup>\[泰兴\]</sup><sup>\[泰州\]</sup>：我俫工地上二十七～就放假唻。<sup>\[泰州\]</sup>  
 1. 【[夜啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_a.md#夜啊)】`ia6 a` <sup>[如皋]</sup> 天暗了，天黑了。  
 1. 【[夜邦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_ban.md#夜邦)】`ia6 ban1` <sup>[泰县]</sup> 夜里开的固定航线的客船。  
-1. 【[夜不收](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_beh_sheu.md#夜不收)】`ia6 beh sheu1` <small>/ia6 pəʔ sɤ1/<sup>兴化</sup>, /ia1 pəʔ sei1/<sup>如皋</sup>, /ia1 pəʔ sɤɯ1/<sup>泰县</sup></small> ① 詈语。指夜晚在外玩耍，不回家的小孩儿。<sup>\[如皋\]</sup> ② 深夜还在外面游荡的人。<sup>\[如东\]</sup><sup>\[泰县\]</sup>：你这个～，玩到现在才回来。<sup>\[泰县\]</sup> ③ 旧指驿卒递送紧急公文时，连夜赶路，夜不投宿。<sup>\[兴化\]</sup> ④ （戏）夜晚忘记收回的洗晒衣物及店铺的幌子等<sup>\[兴化\]</sup>：日晒黄金～。<sup>\[兴化\]</sup>  
+1. 【[夜不收](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_beh_sheu.md#夜不收)】`ia6 beh sheu1` <small>/ia6 pəʔ sɤ1/<sup>兴化</sup>, /ia1 pəʔ sei1/<sup>如皋</sup>, /iɑ1 pəʔ ɕiɤɯ1/<sup>泰兴</sup>, /ia1 pəʔ sɤɯ1/<sup>泰县</sup></small> ① 詈语。指夜晚在外玩耍，不回家的小孩儿。<sup>\[如皋\]</sup> ② 深夜还在外面游荡的人。<sup>\[如东\]</sup><sup>\[泰县\]</sup>：你这个～，玩到现在才回来。<sup>\[泰县\]</sup> ③ 旧指驿卒递送紧急公文时，连夜赶路，夜不投宿。<sup>\[兴化\]</sup> ④ （戏）夜晚忘记收回的洗晒衣物及店铺的幌子等<sup>\[兴化\]</sup>：日晒黄金～。<sup>\[兴化\]</sup> ⑤ 整夜在外游荡玩耍，不归家。<sup>\[泰兴\]</sup>  
 1. 【[夜餐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_caen.md#夜餐)】`ia6 caen1` 半夜吃的一顿加餐，一般是在夜间十点以后。<sup>\[泰州\]</sup>  
 1. 【[夜潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_cho.md#夜潮)】`ia6 cho2` <sup>[如皋]</sup> 学名鳓鱼。此为苏俗名。  
 1. 【[夜得来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_deh_lae_a.md#夜得来啊)】`ia6 deh7 lae2 a` <sup>[如皋]</sup> 天暗起来了，天黑下来了。  
 1. 【[夜得晏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_deh_ngaen.md#夜得晏)】`ia6 deh7 ngaen5` <sup>[如皋]</sup> 春分后昼长夜短，天黑得较晚。  
 1. 【[夜得早](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_deh_zo.md#夜得早)】`ia6 deh7 zo3` <sup>[如皋]</sup> 秋分后昼短夜长，天黑得较早。  
 1. 【[夜顿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_den_zz.md#夜顿子)】`ia6 den5 zz` <sup>[兴化]</sup> 夜餐：他每天临睡前要吃～。｜“……幸好跑得快，才滑出来，稍微慢一点，我也要被妖怪当～吃了……”（《皮五辣子》四）  
-1. 【[夜饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_faen.md#夜饭)】`ia6 faen6` <small>/ia6 fɛ̃6/<sup>兴化</sup></small> ① 晚饭 ② 晚饭<sup>\[东台\]</sup><sup>\[兴化\]</sup>：～～，吃到鸭子生蛋。<sup>\[东台\]</sup>｜谚曰：～～，吃到鸭子生蛋。<sup>\[兴化\]</sup>  
+1. 【[夜饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_faen.md#夜饭)】`ia6 faen6` <small>/ia6 fɛ̃6/<sup>兴化</sup>, /iɑ1 fɛ̃1/<sup>泰兴</sup></small> ① 晚饭 ② 晚饭<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：～～，吃到鸭子生蛋。<sup>\[东台\]</sup>｜谚曰：～～，吃到鸭子生蛋。<sup>\[兴化\]</sup>  
 1. 【[夜饭花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_faen_hua.md#夜饭花)】`ia6 faen6 hua1` <sup>[泰州]</sup> 紫茉莉的俗称，多年生早本花卉，株高可达一米，卵形叶片对生，内有浅色叶脉，花朵簇生呈花喇叭形，颜色种类较多，下午五点左右开花。  
+1. 【[夜饭夜饭，吃到鸭子生蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_faen_ia_faen.md#夜饭夜饭，吃到鸭子生蛋)】`ia6 faen6 ia6 faen6 qieh7 do5 ngaeh7 zz shen1 taen6` <small>/iɑ1 fɛ̃1 iɑ1 fɛ̃1 t͡ɕʰiəʔ7 tɔ5 ŋæʔ7 t͡sɿ səŋ1 tʰɛ̃1/<sup>泰兴</sup></small> 谓吃晚饭的时间迟早点都可以，不影响大局。鸭子生蛋的时间一般在黄昏期间。<sup>\[泰兴\]</sup>  
 1. 【[夜更头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_gen_teu.md#夜更头)】`ia6 gen1 teu` <small>/ia1 kəŋ1 tʰɤɯ/<sup>泰县</sup></small> 半夜三更。<sup>\[如东\]</sup><sup>\[泰县\]</sup>  
 1. 【[夜膏谯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_go_qio.md#夜膏谯)】`ia6 go1 qio` <sup>[兴化]</sup> 熬夜：打～。  
 1. 【[夜觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_go.md#夜觉)】`ia6 go5` <sup>[如皋]</sup> 夜里睡觉。有日觉接～之说。  
@@ -256,9 +257,11 @@
 1. 【[夜经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_jien.md#夜经)】`ia6 jien1` <sup>[如东]</sup> 人死后第三天晚上，举行关殓仪式，请和尚、道土或尼姑念经，这种祭祀活动称夜经。  
 1. 【[夜来香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_lae_xian.md#夜来香)】`ia6 lae2 xian1` <sup>[如东]</sup> 柳叶菜科植物红萼月，二年生草本。高约1米。茎直立，基部有红色长毛。叶互生，长椭圆状披针形，边缘有细锯齿。花黄色，单生于叶腋间。蒴果圆筒形。庭园中栽培。  
 1. 【[夜里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_lii.md#夜里)】`ia6 lii` <small>/ia1 tei/<sup>如皋</sup></small> 夜里。<sup>\[如皋\]</sup><sup>\[如东\]</sup>  
+1. 【[夜里家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_lii_ga.md#夜里家)】`ia6 lii ga` <small>/iɑ1 ləɪ kɑ/<sup>泰兴</sup></small> 夜里，黑夜。<sup>\[泰兴\]</sup>  
 1. 【[夜里狠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_lii_hen.md#夜里狠)】`ia6 lii hen3` <sup>[如皋]</sup> 见“夜里凶”。  
 1. 【[夜里落雨日里晴，懒婆娘气得心里疼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_lii_lah_y.md#夜里落雨日里晴，懒婆娘气得心里疼)】`ia6 lii lah8 y3 rih8 lii qien2 laen3 pu2 nian qi5 deh7 xien1 lii ten2` <sup>[如皋]</sup> 日里晴，不好玩耍又要做事，心里不疼才怪。  
 1. 【[夜里凶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_lii_xion.md#夜里凶)】`ia6 lii xion1` <sup>[如皋]</sup> ① 指某些疾病夜间严重。 ② 贬指女人夜里最能制服男人。  
+1. 【[夜里凶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_lii_xion.md#夜里凶)】`ia6 lii xion1` <small>/iɑ1 ləɪ ɕiɔŋ1/<sup>泰兴</sup></small> 夜上精神抖擞、劲头十足。1940年黄桥决战以后，乡人盛传“新四军变的，夜里凶”至今。<sup>\[泰兴\]</sup>  
 1. 【[夜摸星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_mah_xien.md#夜摸星)】`ia6 mah8 xien1` <sup>[东台]</sup> 习惯日不做夜摸索，或白天拖拉，夜间才出进度的人。  
 1. 【[夜摸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_mah_zz.md#夜摸子)】`ia6 mah8 zz` <small>/ia6 maʔ8 t͡sɿ/<sup>兴化</sup>, /ia1 mɑʔ8 t͡se/<sup>泰县</sup></small> 惯于夜间做事、活动的人。<sup>\[如东\]</sup><sup>\[泰县\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：他家老二是个～。<sup>\[泰县\]</sup>｜他是个～，天一黑劲头就来啊。<sup>\[兴化\]</sup>  
 1. 【[夜明砂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_mien_sha.md#夜明砂)】`ia6 mien2 sha1` <sup>[如东]</sup> 蝙蝠科动物蝙蝠的干燥粪便。  
@@ -276,6 +279,7 @@
 1. 【[夜心<sub>儿</sub>里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_xien_r_lii.md#夜心<sub>儿</sub>里)】`ia6 xien1 r lii` <sup>[如皋]</sup> 深夜、半夜。  
 1. 【[夜校](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_xio.md#夜校)】`ia6 xio6` <sup>[如东]</sup> 20世纪40年代，中国共产党领导下的革命根据地里对青年实施教育的民办业余学校，一般在晚上开课故名夜校。多数为初级小学程度也有相当于高级小学程度的。除文化课外，特别重视时事政策、生产军事卫生等知识的学习。建国初期，大量兴起，每村都有一所，成为对青年进行扫除文盲教育的主要机构。60年代停办。  
 1. 【[夜凶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_xion.md#夜凶)】`ia6 xion1` <small>/ia6 ɕioŋ1/<sup>兴化</sup></small> ① 白天没精打彩，夜晚精神十足的人<sup>\[兴化\]</sup>：他是个～，旁人睡啊觉他才来神！<sup>\[兴化\]</sup> ② 到了夜晚精力旺盛的人，用来形容喜欢夜间工作的人<sup>\[泰州\]</sup>：他是个～，天天写文章写到半夜。<sup>\[泰州\]</sup>  
+1. 【[夜作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_zah.md#夜作)】`ia6 zah` <small>/iɑ1 t͡sɑʔ/<sup>泰兴</sup></small> 夜间工作，做夜工。旧时妇女夜间做针线活谓做夜作。<sup>\[泰兴\]</sup>：过啊重阳节，～没得歇<sup>\[泰兴\]</sup>  
 1. 【[夜作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_zah.md#夜作)】`ia6 zah7` <sup>[泰县]</sup> ① 夜餐。 ② 开夜工：这几天开啊几个～。  
 1. 【[吔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iae.md#吔)】`iae` <sup>[如皋]</sup> 象声词，语气词。  
 1. 【[吔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iae.md#吔)】`iae3` <small>/iɛ3/<sup>泰兴</sup></small> 语气词，表示赞同<sup>\[泰兴\]</sup>：“天气预报哿是说的明朝落雨啊？”——“～”<sup>\[泰兴\]</sup>  
@@ -1419,8 +1423,8 @@
 1. 【[油煠豆腐——皮硬肚子空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_chaeh_teu_fv.md#油煠豆腐——皮硬肚子空)】`ieu2 chaeh8 teu6 fv pi2 ngen6 dv3 zz kon1` <sup>[东台]</sup>   
 1. 【[油抽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_cheu_zz.md#油抽子)】`ieu2 cheu1 zz` <sup>[如皋]</sup> 手拉式抽油器一根铁管，中有活塞，侧有出油嘴。  
 1. 【[油槽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_co.md#油槽)】`ieu2 co2` <sup>[如东]</sup> 油榨下面的槽沟，榨出的油由此流出。  
-1. 【[油粢/油糍/油餈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_cz.md#油粢/油糍/油餈)】`ieu2 cz2` 一种食品，加水搅糯米粉为厚糊状，用勺舀一小团置于锅中自然成一饼，用油煎熟即成。<sup>\[泰州\]</sup>  
 1. 【[油糍<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_cz_r.md#油糍<sub>儿</sub>)】`ieu2 cz2 r` <small>/iɤ2 t͡sʰɿ2 ɚ/<sup>兴化</sup>, /iɤɯ2 t͡sʰɿ2 ɚ/<sup>泰县</sup></small> 用油煎的糯米饼。<sup>\[如东\]</sup><sup>\[泰县\]</sup>\[兴化：油炸的糯米粉饼子。\]  
+1. 【[油餈/油粢/油糍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_cz.md#油餈/油粢/油糍)】`ieu2 cz2` 一种食品，加水搅糯米粉为厚糊状，用勺舀一小团置于锅中自然成一饼，用油煎熟即成。<sup>\[泰州\]</sup>  
 1. 【[油墩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_den_zz.md#油墩子)】`ieu2 den1 zz` <small>/iɤ2 tən1 t͡sɿ/<sup>兴化</sup></small> ① 东台传统下午点心，糯米粉兑面粉发酵油炸而成，扁圆形，今已少见。<sup>\[东台\]</sup> ② 油炸小吃，用白铁敲成的浅模，浇入稀面（糊），以萝卜丝等为馅，入油炸熟。<sup>\[兴化\]</sup>  
 1. 【[油端子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_dun_zz.md#油端子)】`ieu2 dun1 zz` <sup>[泰州]</sup> 地方特色小吃之一。制法：面粉调成稀糊，放入白铁制成的长柄椭圆或者圆形容器中，滚动使糊附在容器内壁，加入萝卜丝、盐、葱花、虾皮之类，盖上稀糊，容器浸入滚油煎熟，脱出即可食用。  
 1. 【[油锅里捞钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_gu_lii_lo.md#油锅里捞钱)】`ieu2 gu1 lii lo2 qin2` <sup>[东台]</sup> ［喻］不顾危险捞取钱财。  

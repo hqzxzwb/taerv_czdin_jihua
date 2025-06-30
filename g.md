@@ -548,6 +548,7 @@
 1. 【[今朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_zho.md#今朝)】`gen1 zho, gen1 do` <sup>[泰县]</sup> 今天：我～不去。  
 1. 【[今朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_zho.md#今朝)】`gen1 zho1` <small>/kəŋ1 t͡sɔ1/<sup>泰兴</sup></small> 今天<sup>\[泰兴\]</sup>  
 1. 【[庚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen.md#庚)】`gen1` <sup>[东台]</sup> ① 天干第七位。 ② 年龄：先生贵～几何？  
+1. 【[庚帖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_tih.md#庚帖)】`gen1 tih7` <small>/kəŋ1 tʰiʔ7/<sup>泰兴</sup></small> 旧俗订婚时男女双方交换的写有姓名、生辰八字、籍贯、祖宗三代等内容的帖子。其上载有年庚，故名。<sup>\[泰兴\]</sup>  
 1. 【[更把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_ba.md#更把)】`gen1 ba` <sup>[如东]</sup> ① 一更天（19时至20时）。 ② 大约一更（两个小时）左右。  
 1. 【[更把天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_ba_tin.md#更把天)】`gen1 ba tin1` <sup>[兴化]</sup> 旧时一夜分成五更，晚八时左右为初更，～约在九到十时左右。  
 1. 【[更更鸡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_gen_ji_r.md#更更鸡<sub>儿</sub>)】`gen1 gen1 ji1 r` <sup>[如皋]</sup> 每更皆啼的公鸡。  

@@ -457,7 +457,7 @@
 1. 【[巷头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_teu.md#巷头)】`han6 teu2` <sup>[兴化]</sup> 巷子的入口处及其附近地段，通常为街市：我家～上有酱园、南货店，还有澡堂、理发店。  
 1. 【[巷头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_teu.md#巷头)】`han6 teu2-3` <sup>[泰县]</sup> 巷口。  
 1. 【[巷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_zz.md#巷子)】`han6 zz` <small>/xaŋ6 t͡sɿ/<sup>兴化</sup></small> ① 两屋之间的通道。亦称弄堂。<sup>\[如东\]</sup> ② 屋宇之间狭窄的通道，即北方人所说的胡同。<sup>\[东台\]</sup> ③ 巷<sup>\[兴化\]</sup>：这条～里住有七八户人家。<sup>\[兴化\]</sup>  
-1. 【[巷子里头扛木头，直来直去的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_zz_li_teu.md#巷子里头扛木头，直来直去的)】`han6 zz li3 teu2 kan3 moh8 teu2 cheh8 lae2 cheh8 qy5 dii` <small>/xɑŋ1 t͡sɿ lʝ3 tʰəɪ2 kʰɑŋ3 mɔʔ8 tʰəɪ2 t͡sʰəʔ8 lɛ2 t͡sʰəʔ8 t͡ɕʰy5 təɪ/<sup>泰兴</sup></small> 歇后语。喻办事说话不拐弯抹角。<sup>\[泰兴\]</sup>  
+1. 【[巷子里头扛木头，直来直去的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_zz_li_teu.md#巷子里头扛木头，直来直去的)】`han6 zz li3 teu2 kan2 moh8 teu2 cheh8 lae2 cheh8 qy5 dii` <small>/xɑŋ1 t͡sɿ lʝ3 tʰəɪ2 kʰɑŋ2 mɔʔ8 tʰəɪ2 t͡sʰəʔ8 lɛ2 t͡sʰəʔ8 t͡ɕʰy5 təɪ/<sup>泰兴</sup></small> 歇后语。喻办事说话不拐弯抹角。<sup>\[泰兴\]</sup>  
 1. 【[巷子里逮驴——两头堵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_zz_lii_dae.md#巷子里逮驴——两头堵)】`han6 zz lii dae3 ly2 laen3 teu2 dv3` <sup>[东台]</sup>   
 1. 【[巷子里扛木头——直来直去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_zz_lii_kan.md#巷子里扛木头——直来直去)】`han6 zz lii kan2 moh8 teu cheh8 lae2 cheh8 qy5` <sup>[东台]</sup>   
 1. 【[桁凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_den.md#桁凳)】`han6 den5` <sup>[如东]</sup> 搁置棱条的凳子。  
@@ -542,7 +542,7 @@
 1. 【[黑芝麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_zhr_ma.md#黑芝麻)】`heh7 zhr1 ma` <sup>[如东]</sup> 胡麻科植物芝麻的黑色种子。  
 1. 【[黑早](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_zo.md#黑早)】`heh7 zo3` <sup>[兴化]</sup> 黎明前最黑暗的那段时间：次日，～起来，辞了船主人……。（《清平山堂话本，错认尸》）｜转眼到了十四，～，赖大的媳妇又进来请。（《红楼梦》四七）  
 1. 【[黑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_zz.md#黑子)】`heh7 zz` <small>/xəʔ7 t͡sɿ/<sup>如皋</sup></small> ① 皮肤黝黑的人。<sup>\[如东\]</sup> ② 皮色较黑的人。<sup>\[如皋\]</sup>  
-1. 【[黑㿳㿳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_zz_zz.md#黑㿳㿳)】`heh7 zz1 zz1` <small>/xəʔ7 t͡sɿ1 t͡sɿ1/<sup>兴化</sup>, /xəʔ7 t͡sɿ1 t͡sɿ1/<sup>如皋</sup>, /xəʔ7 t͡sɿ1 t͡sɿ1/<sup>泰县</sup></small> ① 状肤色偏黑。<sup>\[如皋\]</sup> ② 形容肤色很黑。<sup>\[东台\]</sup> ③ 黑乎乎。<sup>\[泰县\]</sup> ④ 形容肤色微黑。㿳，《集韵·之韵》庄持切：手足肤黑。<sup>\[兴化\]</sup>：他个子高高的，脸皮子～的<sup>\[兴化\]</sup>  
+1. 【[黑㿳㿳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_zz_zz.md#黑㿳㿳)】`heh7 zz1 zz1` <small>/xəʔ7 t͡sɿ1 t͡sɿ1/<sup>兴化</sup>, /xəʔ7 t͡sɿ1 t͡sɿ1/<sup>如皋</sup>, /xəʔ7 t͡sɿ1 t͡sɿ1/<sup>泰县</sup></small> ① 状肤色偏黑。<sup>\[如皋\]</sup> ② 形容肤色很黑。<sup>\[东台\]</sup> ③ 黑乎乎。<sup>\[泰县\]</sup> ④ 形容肤色微黑<sup>\[兴化\]</sup>：他个子高高的，脸皮子～的<sup>\[兴化\]</sup>  
 1. 【[黑滋滋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_zz_zz.md#黑滋滋)】`heh7 zz1 zz1` <sup>[如东]</sup> 皮肤黑而油腻。  
 1. 【[黑𪑿𪑿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_zz_zz.md#黑𪑿𪑿)】`heh7 zz1 zz1` <sup>[泰州]</sup> 人被太阳晒得很黑的样子：他脸上捱太阳晒得～的。  
 1. 【[黑仔苗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_zz_mio.md#黑仔苗)】`heh7 zz3 mio2` <sup>[如东]</sup> 鳗鱼苗生长到一定阶段，背上出现黑色，这种鱼苗叫黑仔苗。  
@@ -1186,9 +1186,9 @@
 1. 【[伙仓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_can.md#伙仓)】`hu3 can1` <sup>[如皋]</sup> 炊事：开～（煮饭菜）。  
 1. 【[伙计](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_ji.md#伙计)】`hu3 ji5` <small>/xɤɯ3 t͡ɕʝ5/<sup>泰兴</sup></small> 旧指店员或其他被雇佣劳动者。<sup>\[泰兴\]</sup>  
 1. 【[伙家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_jia.md#伙家)】`hu3 jia` <sup>[兴化]</sup> ① 伙计、佣人。 ② 对朋友，熟人等比较随意的面称：“～，好力气，好膀条子！”（《武松》五）｜“～，今天夜里要防备大风大雨哩！”（马春阳《双灯照》）  
-1. 【[伙（夥）家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_jia.md#伙（夥）家)】`hu3 jia1` <sup>[如皋]</sup> 指在一起的人。昵称。詈指。  
+1. 【[伙家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_jia.md#伙家)】`hu3 jia1` <sup>[如皋]</sup> 指在一起的人。昵称。詈指。  
 1. 【[伙家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_jia.md#伙家)】`hu3 jia1, hu1 jia1` <sup>[东台]</sup> 伙伴之间最常用的昵称，一般用于对同辈、晚辈或下级，而不是相反。在这里，“家”为“计啊”合音，“伙”习惯也读阴平。  
-1. 【[伙家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_jia.md#伙家)】`hu3 jia1` <small>/xo3 t͡ɕia1/<sup>泰县</sup></small> ① 同辈或长辈对下辈亲呢称呼：～，等我下子。<sup>\[泰县\]</sup> ② 共事的人，特指店主雇用的工人。<sup>\[泰州\]</sup> ③ 同龄、同事或同伴<sup>\[泰州\]</sup>：～，这件事就全看你的唻。<sup>\[泰州\]</sup>  
+1. 【[伙家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_jia.md#伙家)】`hu3 jia1` <small>/xo3 t͡ɕia1/<sup>泰县</sup></small> ① 同辈或长辈对下辈亲呢称呼<sup>\[泰县\]</sup>：～，等我下子<sup>\[泰县\]</sup> ② 共事的人，特指店主雇用的工人。<sup>\[泰州\]</sup> ③ 同龄、同事或同伴<sup>\[泰州\]</sup>：～，这件事就全看你的唻。<sup>\[泰州\]</sup>  
 1. 【[伙头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_teu.md#伙头)】`hu3 teu` <sup>[如东]</sup> 做饭的船工。  
 1. 【[火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu.md#火)】`hu3` <sup>[如皋]</sup> 皮肤的红斑疮、溃疡：他腿子上有块～，火辣火辣的疼。  
 1. 【[火把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_ba.md#火把)】`hu3 ba3` <sup>[泰州]</sup> 火炬：过去在乡里天黑走夜路就要打～唻。  

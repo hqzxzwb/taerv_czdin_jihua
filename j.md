@@ -745,6 +745,7 @@
 1. 【[京胡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_hv.md#京胡)】`jien1 hv2` <sup>[如皋]</sup> 高音胡琴。  
 1. 【[京腔京调](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_qian_jien_tio.md#京腔京调)】`jien1 qian1 jien1 tio6` <sup>[如皋]</sup> 北京人说话的腔调。  
 1. 【[京枣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zo.md#京枣)】`jien1 zo3` <sup>[如东]</sup> 糕点的一种。面粉经过发酵，加工成圆柱形。放在油中炸熟，再沾上糖。是普通糕点。  
+1. 【[京枣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zo.md#京枣)】`jien1 zo3` <small>/t͡ɕiŋ1 t͡sɔ3/<sup>泰兴</sup></small> 食品。油炸小面果，脆香可口。乡人旧时常作年节茶食。<sup>\[泰兴\]</sup>  
 1. 【[今吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_nga.md#今吖)】`jien1 nga` 今天。  
 1. 【[今日三，明日四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_rih_saen_mien.md#今日三，明日四)】`jien1 rih8 saen1 mien2 rih8 sz5` <sup>[兴化]</sup> ① 日复一日：“就这样，～，从偷人家的鸡蛋开始，到偷人家的钱、船、车、木排……”（兴文《鲢鱼宝》） ② 施延时日：他借钱时说好一年内归还，结果～，至今分文未还。 ③ 朝三暮四，反复无常：爱情要专一，不要～的。  
 1. 【[惊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien.md#惊)】`jien1` <small>/t͡ɕin1/<sup>兴化</sup>, /t͡ɕiəŋ1/<sup>如皋</sup></small> ① 痉挛，抽筋：～～憷憷的、～吖～的。<sup>\[如皋\]</sup> ② 惊风：惹～。如皋词典写“痉”。<sup>\[如皋\]</sup> ③ 婴幼儿因受意外刺激而害怕<sup>\[兴化\]</sup>：小儿～吖。<sup>\[兴化\]</sup> ④ 痱子受刺激而骤痒<sup>\[兴化\]</sup>：痱子一～，浑身发痒。<sup>\[兴化\]</sup> ⑤ 收到意外刺激而引起抽搐<sup>\[泰州\]</sup>：你喉咙小啊点ㄦ哉，不要把伢儿惊吖。<sup>\[泰州\]</sup>  

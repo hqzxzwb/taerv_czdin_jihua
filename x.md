@@ -621,7 +621,7 @@
 1. 【[香埲埲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_pon_pon.md#香埲埲)】`xian1 pon5 pon5` <sup>[泰县]</sup> 香气满溢：这个花生炒熟后～的。  
 1. 【[香埲埲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_pon_pon.md#香埲埲)】`xian1 pon6 pon6` <sup>[兴化]</sup> 形容香气四溢：她喜欢浓妆艳抹，把身上搽得～的。  
 1. 【[香蒲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_pv.md#香蒲)】`xian1 pv2` <sup>[如东]</sup> 香蒲科植物长苞香蒲，多年生草本。高约2米。根茎横走，有须根。茎直立。叶狭线形。圆柱状穗状花序。花小。坚果细小。生长在浅水中。叶子可以编蒲包、蒲席、蒲扇等。  
-1. 【[香期](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_qi.md#香期)】`xian1 qi1` <sup>[如皋]</sup> 庙会，各寺观的主神的诞生日、成道日、涅盘日等各有定期。后演为集市周期。  
+1. 【[香期](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_qi.md#香期)】`xian1 qi1` <small>/ɕiã1 t͡ɕʰʝ1/<sup>如皋</sup>, /ɕiɑŋ1 t͡ɕʰʝ1/<sup>泰兴</sup></small> 庙会<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：各寺观的主神的诞生日、成道日、涅盘日等各有定期。后演为集市周期。<sup>\[如皋\]</sup>  
 1. 【[香肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_roh.md#香肉)】`xian1 roh8` <sup>[如皋]</sup> ① 人的嘴唇称为“香”，嘴内粘膜称～，即使碰破也不发炎，并且容易愈合。 ② 香肉店出售的用“老汁”煮的猪头肉等。 ③ 趣指蚊子爱叮者：你是～，蚊子欢喜寻你。  
 1. 【[香肉卤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_roh_lv_zz.md#香肉卤子)】`xian1 roh8 lv3 zz` <sup>[如皋]</sup> 见“老汁”。  
 1. 【[香窜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_sun.md#香窜)】`xian1 sun` <sup>[兴化]</sup> ① 很香：栀子花蛮～的。 ② 吃香：老杨为人诚实，在外头～得很。  

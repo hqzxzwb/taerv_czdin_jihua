@@ -832,8 +832,7 @@
 1. 【[炮作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_zah.md#炮作)】`po5 zah7` 爆竹。<sup>\[泰州\]</sup>  
 1. 【[炮仗头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_zhan_teu_zz.md#炮仗头子)】`po5 zhan teu2 zz` <sup>[如东]</sup> 爆竹点火以后，头子就炸。比喻性子火爆：他是个～。  
 1. 【[炮仗线子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_zhan_xin_zz.md#炮仗线子)】`po5 zhan xin5 zz` <sup>[如东]</sup> 炮竹的引线，点火就着。比喻性情急躁，容易发火：他就像～一样，一点就炸。  
-1. 【[炮仗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_zhan.md#炮仗)】`po5 zhan5` <sup>[东台]</sup> 爆竹，多用于喜庆事。  
-1. 【[炮仗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_zhan.md#炮仗)】`po5 zhan5-3` <sup>[泰县]</sup> 爆竹：放～。  
+1. 【[炮仗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_zhan.md#炮仗)】`po5 zhan5` <small>/pʰɔ5 t͡sɑŋ5/<sup>泰兴</sup>, /pʰɔ5 t͡sɑŋ3/<sup>泰县</sup></small> 爆竹<sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>：放～<sup>\[泰县\]</sup>｜放～<sup>\[泰兴\]</sup>  
 1. 【[炮仗打啊嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_zhan_da_a.md#炮仗打啊嘴)】`po5 zhan5 da3 a jy3` <sup>[东台]</sup> ［喻］口出狂言，夸张离谱。  
 1. 【[炮仗捻子——一点就着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_zhan_nin_zz.md#炮仗捻子——一点就着)】`po5 zhan5 nin3 zz ieh7 din3 qieu6 chah8` <sup>[东台]</sup>   
 1. 【[炮子<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_zz_r.md#炮子<sub>儿</sub>)】`po5 zz3 r` <sup>[兴化]</sup> ① 老式火炮的弹丸，如碎石、碎铁等。 ② 骂人遭炮轰：这个～，不得好死！  

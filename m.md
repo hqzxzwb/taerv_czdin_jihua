@@ -506,7 +506,7 @@
 1. 【[忙时候](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_shr_heu.md#忙时候)】`man2 shr2 heu` <sup>[如皋]</sup> 最繁忙的时段。  
 1. 【[忙头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_teu.md#忙头)】`man2 teu2` <small>/maŋ2 tʰɤ2/<sup>兴化</sup></small> ① 忙的必要和意义<sup>\[兴化\]</sup>：“本没有什么～，所幸伍府上也是自家亲戚，不计较什么……”（《广陵潮》二六）<sup>\[兴化\]</sup> ② 做某件事的价值或意义<sup>\[泰州\]</sup>：这交易又弄不到个钱，没得～！<sup>\[泰州\]</sup>  
 1. 【[盲肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_chan.md#盲肠)】`man2 chan2` <sup>[东台]</sup> 大肠的一段，上接回肠，下接结肠。  
-1. 【[盲肠炎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_chan_in.md#盲肠炎)】`man2 chan2 in2` <sup>[东台]</sup> 阑尾炎的俗称。  
+1. 【[盲肠炎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_chan_in.md#盲肠炎)】`man2 chan2 in2` <small>/mɑŋ2 t͡sʰɑŋ2 ĩ2/<sup>泰兴</sup></small> 阑尾炎的俗称。<sup>\[泰兴\]</sup><sup>\[东台\]</sup>  
 1. 【[盲目](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_moh.md#盲目)】`man2 moh8` <sup>[如东]</sup> ① 双目失明。 ② 比喻对问题认识不清楚：不能～答应人家。  
 1. 【[盲棋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_qi.md#盲棋)】`man2 qi2` <sup>[东台]</sup> 眼睛不看棋盘而下的棋，多为中国象棋。  
 1. 【[盲人骑瞎马——乱闯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_ren_qi_haeh.md#盲人骑瞎马——乱闯)】`man2 ren2 qi2 haeh7 ma3 lun6 chuan3` <sup>[东台]</sup>   
@@ -1332,7 +1332,9 @@
 1. 【[苗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio_zz.md#苗子)】`mio2 zz` <small>/miɔ2 t͡sɿ/<sup>兴化</sup>, /miɔ2 t͡sɿ/<sup>如皋</sup>, /miɔ2 t͡sɿ/<sup>泰兴</sup></small> ① 指高粱、芦穄结穗的秆子。<sup>\[如东\]</sup>：芦穄～。<sup>\[如东\]</sup> ② 培养的对象。<sup>\[如东\]</sup> ③ 专指高粱、芦穄的最上段，脱粒后用作扎条帚、把儿及劈篾做工艺品。<sup>\[如皋\]</sup> ④ （喻）继承某种事业的年轻人<sup>\[兴化\]</sup>：他是个好～。<sup>\[兴化\]</sup> ⑤ 扎扫帚用的高梁秆<sup>\[兴化\]</sup>：芦秫～。<sup>\[兴化\]</sup> ⑥ （高粱/芦穄）已脱粒的穗子，多用于扎苕帚<sup>\[泰兴\]</sup>  
 1. 【[秒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio.md#秒)】`mio3` <sup>[如东]</sup> 计算时间的单位，等于一分种的六十分之一。  
 1. 【[妙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio.md#妙)】`mio6` <sup>[如东]</sup> ① 巧：这件事做得～。 ② 形容好。  
+1. 【[庙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio.md#庙)】`mio6` <small>/miɔ1/<sup>泰兴</sup></small> 供祭祀神、佛或前代贤哲的屋舍。如“城隍庙”、“东寺庙”等。<sup>\[泰兴\]</sup>  
 1. 【[庙上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio_shan.md#庙上)】`mio6 shan6` <sup>[如皋]</sup> 庙里，庙里的人或物。  
+1. 【[庙堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio_tan.md#庙堂)】`mio6 tan` <small>/miɔ1 tʰɑŋ/<sup>泰兴</sup></small> 庙宇。<sup>\[泰兴\]</sup>  
 1. 【[庙田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio_tin.md#庙田)】`mio6 tin2` <sup>[如东]</sup> 属寺庙所有的土地，称庙田。  
 1. 【[庙宇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio_y.md#庙宇)】`mio6 y3` <sup>[如东]</sup> 和尚修行的地方。也称寺庙。  
 1. 【[毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo.md#毛)】`mo2` <small>/mɔ2/<sup>兴化</sup>, /mɔ2/<sup>如皋</sup></small> ① 指生了霉菌丝：上～。<sup>\[如皋\]</sup> ② 找借口玩虘、生事：起～、发～。<sup>\[如皋\]</sup> ③ 除一般释义外，还指坏了、糟了<sup>\[东台\]</sup>：事情发咖～<sup>\[东台\]</sup>｜他俫这吖一闹，关系～掉啊。<sup>\[东台\]</sup> ④ 时指技艺不精者<sup>\[兴化\]</sup>：～师傅；～厨子。<sup>\[兴化\]</sup> ⑤ 接近<sup>\[兴化\]</sup>：“……标下今年活到～六十岁的人了……”（《官场现形记》三一）<sup>\[兴化\]</sup> ⑥ 形容脾气暴躁，容易发怒<sup>\[兴化\]</sup>：发～<sup>\[兴化\]</sup>｜……他们不敢啰唆，生怕把毛头星君弄～了……（扬说《济公斗蟋蟀》）<sup>\[兴化\]</sup> ⑦ 细小，表示轻视<sup>\[泰州\]</sup>：～丫头<sup>\[泰州\]</sup> ⑧ 生气，发怒<sup>\[泰州\]</sup>：把他弄吖～啊，同你不客气。<sup>\[泰州\]</sup> ⑨ 物体表面不整齐不光滑的样子<sup>\[泰州\]</sup>：袖口～啊唻。<sup>\[泰州\]</sup> ⑩ 不精确的，不纯净的<sup>\[泰州\]</sup>：女方亲眷来啊有～五桌人。<sup>\[泰州\]</sup> ⑪ 糟糕<sup>\[泰州\]</sup>：把事情弄吖～啊。<sup>\[泰州\]</sup>  
