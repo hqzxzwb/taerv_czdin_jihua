@@ -221,14 +221,20 @@
 1. 【[叉住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_chv.md#叉住)】`cha1 chv` <sup>[泰州]</sup> 托住人的腋部：他脚底下一滑，要不是老李手快～他，跌咖来不得轻。  
 1. 【[叉话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_hua.md#叉话)】`cha1 hua6` <sup>[兴化]</sup> 插嘴：我俫说周正事，你不要～。  
 1. 【[叉鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ji.md#叉鸡)】`cha1 ji1` <sup>[兴化]</sup> 偷鸡：哪块来的“桃子”？这是～的给鸡起的别名。～，……叫做“崩桃子”。（扬二《时迁偷鸡》）  
+1. 【[叉鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ji.md#叉鸡)】`cha1 ji1` <small>/t͡sʰɑ1 t͡ɕʝ1/<sup>泰兴</sup></small> 骂人语。谓作贼盗窃。或谓叉鸡贼。<sup>\[泰兴\]</sup>  
 1. 【[叉鸡贼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ji_ceh.md#叉鸡贼)】`cha1 ji1 ceh8` <sup>[泰兴]</sup> 小偷；专门偷鸡的贼。也有人称“叉鸡”，骂人语。  
+1. 【[叉鸡贼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ji_ceh.md#叉鸡贼)】`cha1 ji1 ceh8` <small>/t͡sʰa1 t͡ɕi1 t͡sʰəʔ8/<sup>兴化</sup>, /t͡sʰa1 t͡ɕʝ1 t͡sʰəʔ8/<sup>如皋</sup></small> ① 从路边偷鸡的贼。<sup>\[如皋\]</sup> ② 专门偷鸡的人。<sup>\[兴化\]</sup> ③ 泛指有偷摸行为的人。<sup>\[兴化\]</sup>  
 1. 【[叉鸡鹱子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ji_vah_zz.md#叉鸡鹱子)】`cha1 ji1 vah7 zz` <sup>[泰兴]</sup> 鹞鹰。能从空中俯冲下来啄食体小动物。  
+1. 【[叉交易](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_jio_i.md#叉交易)】`cha1 jio1 i` <sup>[如皋]</sup> 把同行的顾客拉过来。这是经商的大忌。  
+1. 【[叉口袋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_keu_tae.md#叉口袋)】`cha1 keu3 tae6` <sup>[如皋]</sup> 一种特大的布袋，袋口分衩，方底。  
 1. 【[叉老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_lo.md#叉老)】`cha1 lo3` <sup>[泰县]</sup> 扯铃（空竹）。  
+1. 【[叉面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_min.md#叉面)】`cha1 min6` <small>/t͡sʰa1 mĩ1/<sup>如皋</sup>, /t͡sʰa1 miɪ̃1/<sup>泰县</sup></small> ① 即“般水面”，别于“汤面”“糊糊儿面”。<sup>\[如皋\]</sup> ② 阳春面。<sup>\[泰县\]</sup>  
 1. 【[叉翁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_on_zz.md#叉翁子)】`cha1 on1 zz` <sup>[泰县]</sup> 扯铃，空竹。  
 1. 【[叉被单](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_pi_daen.md#叉被单)】`cha1 pi6 daen1` <sup>[如皋]</sup> 蹬开被子。  
 1. 【[叉手舞脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_sheu_v_jiah.md#叉手舞脚)】`cha1 sheu3 v3 jiah7` <sup>[如东]</sup> 手舞足蹈：他在那许～的，不晓得要做甚的。  
 1. 【[叉头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_teu_r.md#叉头<sub>儿</sub>)】`cha1 teu2 r` <sup>[兴化]</sup> 见“岔枝儿”。  
 1. 【[叉辋子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_van_zz.md#叉辋子)】`cha1 van3 zz` <sup>[如东]</sup> ① 把辋子挂起来。 ② 两手向上举动。  
+1. 【[叉鱼鹱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_y_vah_r.md#叉鱼鹱<sub>儿</sub>)】`cha1 y vah7 r` <sup>[如皋]</sup> 鸬鹚。见“鸦”。  
 1. 【[叉嘴叉舌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_zuei_cha_shih.md#叉嘴叉舌)】`cha1 zuei3 cha1 shih8` <sup>[兴化]</sup> 插嘴，在别人说话中间插进去说话：人家谈话，你不要～的。  
 1. 【[差](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha.md#差)】`cha1` <sup>[兴化]</sup> 欠：我～你的钱，到时候一定还你。  
 1. 【[差不多](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_beh_du.md#差不多)】`cha1 beh7 du1` <sup>[如东]</sup> ① 相差无几。 ② 一样的。  
@@ -240,12 +246,6 @@
 1. 【[差起来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_qi_lae_a.md#差起来啊)】`cha1 qi lae a` <sup>[如皋]</sup> 因预计不足而临场供应不够：菜吃咖～，要赶紧加菜。  
 1. 【[差<sub>儿</sub>不多的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_r_beh_du.md#差<sub>儿</sub>不多的)】`cha1 r beh7 du1 dii` 一般的，普通的，通常的：～人哪个懂㗁？/一般人谁懂啊？  
 1. 【[差掉啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_tio_a.md#差掉啊)】`cha1 tio a` <sup>[如皋]</sup> 因被多占而致短缺：第一批来的人多，把第二批人的份～。  
-1. 【[扠鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ji.md#扠鸡)】`cha1 ji1` <small>/t͡sʰɑ1 t͡ɕʝ1/<sup>泰兴</sup></small> 骂人语。谓作贼盗窃。或谓扠鸡贼。<sup>\[泰兴\]</sup>  
-1. 【[扠鸡贼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ji_ceh.md#扠鸡贼)】`cha1 ji1 ceh8` <small>/t͡sʰa1 t͡ɕi1 t͡sʰəʔ8/<sup>兴化</sup>, /t͡sʰa1 t͡ɕʝ1 t͡sʰəʔ8/<sup>如皋</sup></small> ① 从路边偷鸡的贼。<sup>\[如皋\]</sup> ② 专门偷鸡的人。<sup>\[兴化\]</sup> ③ 泛指有偷摸行为的人。<sup>\[兴化\]</sup>  
-1. 【[扠交易](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_jio_i.md#扠交易)】`cha1 jio1 i` <sup>[如皋]</sup> 把同行的顾客拉过来。这是经商的大忌。  
-1. 【[扠口袋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_keu_tae.md#扠口袋)】`cha1 keu3 tae6` <sup>[如皋]</sup> 一种特大的布袋，袋口分衩，方底。  
-1. 【[扠面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_min.md#扠面)】`cha1 min6` <small>/t͡sʰa1 mĩ1/<sup>如皋</sup>, /t͡sʰa1 miɪ̃1/<sup>泰县</sup></small> ① 即“般水面”，别于“汤面”“糊糊儿面”。<sup>\[如皋\]</sup> ② 阳春面。<sup>\[泰县\]</sup>  
-1. 【[扠鱼鹱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_y_vah_r.md#扠鱼鹱<sub>儿</sub>)】`cha1 y vah7 r` <sup>[如皋]</sup> 鸬鹚。见“鸦”。  
 1. 【[蛼螯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ho.md#蛼螯)】`cha1 ho1` <sup>[泰州]</sup> 文蛤。  
 1. 【[蛼螯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ngo.md#蛼螯)】`cha1 ngo` <small>/t͡sʰa1 ɔ/<sup>兴化</sup>, /t͡sʰa1 ŋɔ/<sup>如皋</sup></small> ① 软体动物，学名文蛤，生活在近海底，肉味鲜美，其壳可装歪歪油。也写作“蛼蛾”。<sup>\[东台\]</sup> ② 文蛤。蛼，《集韵·麻韵》昌遮切<sup>\[兴化\]</sup>：～，虫名，如蚬而大。<sup>\[兴化\]</sup> ③ 蛤蜊。又作车螯。<sup>\[如皋\]</sup>  
 1. 【[蛼螯饼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ngo_bien_r.md#蛼螯饼<sub>儿</sub>)】`cha1 ngo bien3 r` <sup>[如东]</sup> 把蛼螯肉削成碎末，加少量鸡蛋、面粉、调味品，做成饼儿，经油焖，色黄，味鲜，营养丰富。  

@@ -1825,7 +1825,7 @@
 1. 【[蜒二摸三的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_er_mah_saen.md#蜒二摸三的)】`in2 er6 mah8 saen1 dii` <sup>[如皋]</sup> 漫不经心的，有意无意的摸弄，耽搁时间。  
 1. 【[言帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_ban.md#言帮)】`in2 ban1` <sup>[如皋]</sup> （讠）：计论讽。  
 1. 【[言辞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_cz.md#言辞)】`in2 cz2` <sup>[如东]</sup> 言语：～之间，似乎不太满意。  
-1. 【[言多必失](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_du_bieh_sheh.md#言多必失)】`in2 du1 bieh7 sheh7` 话说多了就容易出错。<sup>\[东台\]</sup><sup>\[泰州\]</sup>：他的话嫌多，～，捱人家扠住啊唻！<sup>\[泰州\]</sup>  
+1. 【[言多必失](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_du_bieh_sheh.md#言多必失)】`in2 du1 bieh7 sheh7` 话说多了就容易出错。<sup>\[东台\]</sup><sup>\[泰州\]</sup>：他的话嫌多，～，捱人家叉住啊唻！<sup>\[泰州\]</sup>  
 1. 【[言高语低](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_go_y_di.md#言高语低)】`in2 go1 y3 di1` <sup>[兴化]</sup> 语言冲撞：日子苦一点儿倒不要紧，就是新妇～的，叫人受不了。  
 1. 【[言明](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_mien.md#言明)】`in2 mien2` <sup>[兴化]</sup> 做事先说清楚：我俫先小人后君子，有甚的事～在先。  
 1. 【[言三语四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_saen_y_sz.md#言三语四)】`in2 saen1 y3 sz5` <sup>[兴化]</sup> 议论长短，说闲话：是你不自重，引得些邻居～的。｜“……～把吾伤，说的话儿不中听。我若有些长和短，不怕婆婆不偿命！”（《清平山堂话本·快嘴李翠莲记》）  

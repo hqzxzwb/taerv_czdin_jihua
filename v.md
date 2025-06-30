@@ -668,7 +668,7 @@
 1. 【[曤亮的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_lian_dii.md#曤亮的)】`vah7 lian6 dii` <sup>[如皋]</sup> 喻表面光洁而明亮。  
 1. 【[矆睒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_shin.md#矆睒)】`vah7 shin3` 闪电。  
 1. 【[籰子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_zz.md#籰子)】`vah7 zz` <sup>[如皋]</sup> 络丝的一种工具，端面呈六角形的竹架，约高20cm径15cm，有轴孔，套装在“挑鞭”上，抛转以绕丝。  
-1. 【[鹱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah.md#鹱)】`vah7` <sup>[如皋]</sup> ① 池鹭：～子 ② 通指部分水鸟：苦～鸟（白胸秧鸡）、扠鱼～儿（鸬鹚）、伸头～儿（长腿长颈鸟）  
+1. 【[鹱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah.md#鹱)】`vah7` <sup>[如皋]</sup> ① 池鹭：～子 ② 通指部分水鸟：苦～鸟（白胸秧鸡）、叉鱼～儿（鸬鹚）、伸头～儿（长腿长颈鸟）  
 1. 【[鹱子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_zz.md#鹱子)】`vah7 zz` <small>/uaʔ7 t͡sɿ/<sup>兴化</sup>, /ʋaʔ7 t͡sɿ/<sup>如皋</sup></small> ① 池鹭。<sup>\[如皋\]</sup> ② 一种水鸟，白色，红嘴红足，比鸽略大。<sup>\[兴化\]</sup>  
 1. 【[龌龊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_chuah.md#龌龊)】`vah7 chuah` <sup>[兴化]</sup> 吃了哑吧亏，心里憋闷、怄气：他好心待人反而捱耍，才～吤！  
 1. 【[龌龊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vah_chuah.md#龌龊)】`vah7 chuah7` <small>/uɑʔ7 t͡ɕʰyɑʔ7/<sup>泰县</sup></small> ① 传说中的一种鬼怪。专司迷惑灵魂引诱闯祸、寻死。<sup>\[如东\]</sup>：秀秀投河可能遇上吖～。<sup>\[如东\]</sup> ② 上了当、吃了亏而又不好对人讲。<sup>\[如东\]</sup>：这件事真～。<sup>\[如东\]</sup> ③ 卑鄙狡猾。<sup>\[如东\]</sup>：这个人～得交关。<sup>\[如东\]</sup> ④ 肮脏。<sup>\[如东\]</sup> ⑤ ［引］深感委屈或后悔，越想越难受<sup>\[东台\]</sup>：他给啊我许多帮助，可是我过去误会啊，还说咖不少埋怨他的话，现在想想真是～煞咖。<sup>\[东台\]</sup> ⑥ 上了当吃了苦又不好对人讲。<sup>\[泰县\]</sup> ⑦ 不干净，令人恶心。<sup>\[泰县\]</sup> ⑧ 卑鄙，丑恶<sup>\[泰州\]</sup>：这种～的事只有他这种小人才做得出来。<sup>\[泰州\]</sup> ⑨ 肮脏不洁<sup>\[泰州\]</sup>：他炒得这个青菜～煞咖唻，上头烂泥都不曾弄得干净。<sup>\[泰州\]</sup>  

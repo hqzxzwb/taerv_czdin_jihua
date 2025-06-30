@@ -255,8 +255,8 @@
 1. 【[痰火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_hu.md#痰火)】`taen2 hu3` <sup>[兴化]</sup> 肺气肿、支气管哮喘之类的疾病：那位老人是有～的，一交跌去，半天喘不过气来。  
 1. 【[痰瘾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_ien.md#痰瘾)】`taen2 ien3` <sup>[兴化]</sup> 肺气肿：天一冷，他就发～。  
 1. 【[痰气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_qi.md#痰气)】`taen2 qi5` <sup>[兴化]</sup> ① 中风。 ② 精神病：大家晓得他有～，也不同他计较。  
-1. 【[繵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_zz.md#繵子)】`taen2 zz` <small>/tʰɛ̃2 t͡sɿ/<sup>兴化</sup>, /tʰẽ2 t͡sɿ/<sup>如皋</sup></small> ① 见“繵子绳儿”。<sup>\[如皋\]</sup> ② 绳索：麻绳～。繵：《集韵·寒韵》唐干切，绳也。<sup>\[兴化\]</sup>  
-1. 【[繵子绳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_zz_shen_r.md#繵子绳<sub>儿</sub>)】`taen2 zz shen2 r` <sup>[如皋]</sup> 种可供拉纤、包裝用的麻绳。  
+1. 【[繵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_zz.md#繵子)】`taen2 zz` <small>/tʰɛ̃2 t͡sɿ/<sup>兴化</sup>, /tʰẽ2 t͡sɿ/<sup>如皋</sup></small> ① 见“繵子绳儿”。<sup>\[如皋\]</sup> ② 绳索<sup>\[兴化\]</sup>：麻绳～<sup>\[兴化\]</sup>  
+1. 【[繵子绳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_zz_shen_r.md#繵子绳<sub>儿</sub>)】`taen2 zz shen2 r` <small>/tʰẽ2 t͡sɿ sə˞2/<sup>如皋</sup></small> 种可供拉纤、包装用的麻绳。<sup>\[如皋\]</sup>  
 1. 【[谈八鹉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_baeh_v.md#谈八鹉)】`taen2 baeh7 v3` <sup>[东台]</sup> 漫无边际地闲谈。（这里“八鹉”指八哥、鹦鹉）  
 1. 【[谈不到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_beh_do.md#谈不到)】`taen2 beh do5` <sup>[兴化]</sup> 无所谓、不计较：凭我俫的交情，钱吖钞的～。‖也作“说不到”。  
 1. 【[谈不拢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_beh_lon.md#谈不拢)】`taen2 beh lon3` <sup>[兴化]</sup> 通过交谈、协商，不能消除分岐：为换房的事，前后好几天都～。  

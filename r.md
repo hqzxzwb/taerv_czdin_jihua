@@ -315,7 +315,7 @@
 1. 【[认得你狠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_deh_nii_hen.md#认得你狠)】`ren6 deh nii3 hen3` <sup>[东台]</sup> 被迫承认对方强过自己，勉强默认对方的不合理要求。  
 1. 【[认得个扁担大的一字](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_deh_gu_bin.md#认得个扁担大的一字)】`ren6 deh7 gu bin3 daen5 da6 dii ieh7 cz` <sup>[如皋]</sup> 意为不识字。  
 1. 【[认得他（你）狠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_deh_ta_hen.md#认得他（你）狠)】`ren6 deh7 ta1 hen3` <sup>[如皋]</sup> 既表示退让，又表示要记住对方凶狠。  
-1. 【[认斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_deu.md#认斗)】`ren6 deu5` <sup>[如皋]</sup> 站出来接受不点名的挑战：一个老鸦十八扠，哪个～就是他！｜我家杲子少掉啊我就骂，我不曾说是你偷的，你何必～！  
+1. 【[认斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_deu.md#认斗)】`ren6 deu5` <sup>[如皋]</sup> 站出来接受不点名的挑战：一个老鸦十八叉，哪个～就是他！｜我家杲子少掉啊我就骂，我不曾说是你偷的，你何必～！  
 1. 【[认赌服输](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_dv_foh_shv.md#认赌服输)】`ren6 dv3 foh8 shv1` <sup>[如东]</sup> 承认失败：我～。  
 1. 【[认贩头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_faen_teu.md#认贩头)】`ren6 faen5 teu` <sup>[兴化]</sup> 经过对质，被迫承认搬舌丑行：他捱几个人证住，只好出来～。  
 1. 【[认范](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_faen.md#认范)】`ren6 faen6` <sup>[如皋]</sup> 被迫承认苛刻的条件。  

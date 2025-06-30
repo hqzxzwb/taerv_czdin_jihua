@@ -1877,7 +1877,7 @@
 1. 【[点灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_den.md#点灯)】`din3 den1` <sup>[如皋]</sup> 点亮油灯、蜡烛等照明灯具。  
 1. 【[点点<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_din_r.md#点点<sub>儿</sub>)】`din3 din r` <sup>[泰县]</sup> 一点点。  
 1. 【[点点戳戳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_din_chuah_chuah.md#点点戳戳)】`din3 din3 chuah7 chuah7` <small>/tiɪ̃3 tiɪ̃3 t͡sʰuaʔ7 t͡sʰuaʔ7/<sup>兴化</sup>, /tĩ3 tĩ3 t͡sʰuaʔ7 t͡sʰuaʔ7/<sup>如皋</sup></small> ① 指着背后议论是非。<sup>\[如皋\]</sup> ② 对人背后发议论<sup>\[兴化\]</sup>：小区的人～的，说她是老板的二奶。也说“指指戳戳”。<sup>\[兴化\]</sup>  
-1. 【[点点脚班](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_din_jiah_baen.md#点点脚班)】`din3 din3 jiah7 baen1` <sup>[如皋]</sup> 见“老鹰扠小鸡儿”。  
+1. 【[点点脚班](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_din_jiah_baen.md#点点脚班)】`din3 din3 jiah7 baen1` <sup>[如皋]</sup> 见“老鹰叉小鸡儿”。  
 1. 【[点点眼眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_din_ngaen_ngaen.md#点点眼眼)】`din3 din3 ngaen3 ngaen3` <sup>[泰州]</sup> ① 极其琐碎的小事：你～的事都去找人家，就不怕人家烦。 ② 极少：你就弄吖这～的东西，都不够他个人吃！ ③ 极小：这个药瓶儿高头～的字，我根本望不清。  
 1. 【[点电灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_din_den.md#点电灯)】`din3 din5 den1` <sup>[如皋]</sup> 使用电灯，开亮电灯。  
 1. 【[点刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_do.md#点刀)】`din3 do1` ① 堤西民间对肉圆的代称。<sup>\[东台\]</sup> ② 将肉糜塞在鱼肚内所结成的肉丸或者肉块。<sup>\[泰州\]</sup>  
