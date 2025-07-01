@@ -1244,8 +1244,7 @@
 1. 【[泥络子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_lah_zz.md#泥络子)】`ni2 lah8 zz` <sup>[如东]</sup> 工具。竹片或木条弯成月牙形，中间以绳索编织成网络，用以盛装泥垡头  
 1. 【[泥螺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_lu.md#泥螺)】`ni2 lu1` <small>/nʝ2 lʊ1/<sup>如皋</sup></small> ① 指东海浅海滩出产的食用螺。<sup>\[如皋\]</sup> ② 泊螺科动物泥螺，又名吐铁，贝壳圆形，质薄而脆，螺旋部不凸出，壳面平滑具有许多细致的环纹和纵纹。<sup>\[如东\]</sup> ③ 也称“蚰蚰儿”，生活于浅海滩上，壳卵圆形，经盐渍或酒糖渍后可作美食。<sup>\[东台\]</sup>  
 1. 【[泥螺耙<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_lu_pa_r.md#泥螺耙<sub>儿</sub>)】`ni2 lu1 pa2 r` <sup>[如东]</sup> 捕捉泥螺的工具。细线织成三角形，竹片穿口，似畚箕。具长柄。用于抓泥螺。  
-1. 【[泥萝卜揩段吃段](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_lu_poh_kae.md#泥萝卜揩段吃段)】`ni2 lu2 poh kae1 tun6 qieh7 tun6` <sup>[东台]</sup> 做事要有条理。  
-1. 【[泥萝卜揩段吃段](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_lu_poh_kae.md#泥萝卜揩段吃段)】`ni2 lu2 poh kae1 tun6 qieh7 tun6` <small>/nʝ2 lɤɯ2 pʰɔʔ kʰɛ1 tʰʊ̃1 t͡ɕʰiəʔ7 tʰʊ̃1/<sup>泰兴</sup></small> 比喻办事按计划一步一步地进行，不要想到那里办到那里。<sup>\[泰兴\]</sup>  
+1. 【[泥萝卜揩段吃段](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_lu_poh_kae.md#泥萝卜揩段吃段)】`ni2 lu2 poh kae1 tun6 qieh7 tun6` <small>/nʝ2 lɤɯ2 pʰɔʔ kʰɛ1 tʰʊ̃1 t͡ɕʰiəʔ7 tʰʊ̃1/<sup>泰兴</sup></small> ① 做事要有条理。<sup>\[东台\]</sup> ② 比喻办事按计划一步一步地进行，不要想到那里办到那里。<sup>\[泰兴\]</sup>  
 1. 【[泥炉担子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_lv_daen_zz.md#泥炉担子)】`ni2 lv2 daen5 zz` <sup>[如皋]</sup> 专门挑担上门帮助泥炉子。  
 1. 【[泥炉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_lv_zz.md#泥炉子)】`ni2 lv2 zz` <sup>[如皋]</sup> ① 用黏土等制作炉子。 ② 用黏土等制作成的炉子。  
 1. 【[泥路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_lv.md#泥路)】`ni2 lv6` <sup>[如皋]</sup> 土面路。  

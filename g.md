@@ -474,8 +474,7 @@
 1. 【[疙丁<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_dien_r.md#疙丁<sub>儿</sub>)】`geh7 dien1 r` <sup>[如东]</sup> 皮肤上孳生的小脓包。  
 1. 【[疙丁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_dien_zz.md#疙丁子)】`geh7 dien1 zz` <sup>[兴化]</sup> ① 疣，也称“瘊子”。 ② 器物上小的突起：摇控器上有一排排的～。  
 1. 【[疙㾭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_jieu.md#疙㾭)】`geh7 jieu5` <small>/kəʔ7 t͡ɕiɤɯ5/<sup>泰兴</sup></small> 弯，不直。<sup>\[泰兴\]</sup>：眉毛～/皱眉，苦恼之态<sup>\[泰兴\]</sup>  
-1. 【[疙里疙瘩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_lii_geh_daeh.md#疙里疙瘩)】`geh7 lii geh7 daeh7` <sup>[东台]</sup> 不平滑，不顺手。  
-1. 【[疙里疙瘩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_lii_geh_daeh.md#疙里疙瘩)】`geh7 lii geh7 daeh7` <small>/kəʔ7 ləɪ kəʔ7 tæʔ7/<sup>泰兴</sup></small> 粗糙，不平滑；不流畅，不顺利。<sup>\[泰兴\]</sup>  
+1. 【[疙里疙瘩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_lii_geh_daeh.md#疙里疙瘩)】`geh7 lii geh7 daeh7` <small>/kəʔ7 ləɪ kəʔ7 tæʔ7/<sup>泰兴</sup></small> ① 不平滑，不顺手。<sup>\[东台\]</sup> ② 粗糙，不平滑；不流畅，不顺利。<sup>\[泰兴\]</sup>  
 1. 【[疙里疙瘩的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_lii_geh_daeh.md#疙里疙瘩的)】`geh7 lii geh7 daeh7 dii` <sup>[如皋]</sup> ① 状有小凸起，不平：桌面子不曾打磨，手摸上去～。 ② 喻有小矛盾：两个人现在有点儿～。  
 1. 【[箇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh.md#箇)】`geh7` <small>/kəʔ7/<sup>泰兴</sup></small> ① 这，此。一些地区习惯说“箇”，另一些地区更习惯说“这(zha5)”。 ② 这么，如此，为“箇们”之省。<sup>\[泰兴\]</sup>：～大/这么大<sup>\[泰兴\]</sup>  
 1. 【[箇阵<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_chen_r.md#箇阵<sub>儿</sub>)】`geh7 chen6 r` 现在，这时候  

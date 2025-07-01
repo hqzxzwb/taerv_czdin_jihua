@@ -2395,8 +2395,7 @@
 1. 【[炉𥬭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_lih_zz.md#炉𥬭子)】`lv2 lih8 zz` <sup>[如皋]</sup> 炉底，为“册”形铁件。下储灰烬及供气，上供燃烧。  
 1. 【[炉前工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_qin_gon.md#炉前工)】`lv2 qin2 gon1` <sup>[如东]</sup> 工种的一种。以烧炉为职业的工人。  
 1. 【[炉膛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_tan.md#炉膛)】`lv2 tan2` <sup>[如东]</sup> 锅炉燃烧煤炭、砻糠或柴草的部位。  
-1. 【[炉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_zz.md#炉子)】`lv2 zz` <sup>[如东]</sup> ① 生火的设备。如茶水～。 ② 取暖器皿。铜制，圆柿形，有盖，盖上有孔，有环。盛火灰或木炭，用来取暖。  
-1. 【[炉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_zz.md#炉子)】`lv2 zz` <small>/lu2 t͡sɿ/<sup>泰兴</sup></small> 供烧煮、取暖等用的盛火器具。<sup>\[泰兴\]</sup>：煤球～<sup>\[泰兴\]</sup>  
+1. 【[炉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_zz.md#炉子)】`lv2 zz` <small>/lu2 t͡sɿ/<sup>泰兴</sup></small> ① 生火的设备<sup>\[如东\]</sup>：茶水～<sup>\[如东\]</sup> ② 取暖器皿。铜制，圆柿形，有盖，盖上有孔，有环。盛火灰或木炭，用来取暖。<sup>\[如东\]</sup> ③ 供烧煮、取暖等用的盛火器具。<sup>\[泰兴\]</sup>：煤球～<sup>\[泰兴\]</sup>  
 1. 【[芦笆障](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_ba_zhan.md#芦笆障)】`lv2 ba zhan5` <sup>[如皋]</sup> 见“板𥭚障”。  
 1. 【[芦笆根](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_ba_gen.md#芦笆根)】`lv2 ba1 gen1` <sup>[如皋]</sup> 芦苇的地下嫩茎，药用。夏天常用来泡茶，清凉解暑。  
 1. 【[芦笆障](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_ba_zhan.md#芦笆障)】`lv2 ba1 zhan5` <sup>[如皋]</sup> 用芦柴茎编成的板状物，作建材。  

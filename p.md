@@ -873,8 +873,7 @@
 1. 【[抱小腰<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_xio_io_r.md#抱小腰<sub>儿</sub>)】`po6 xio3 io1 r` <sup>[如皋]</sup> 从背后抱住下腰部。比喻支持者、拥护者、保护者。  
 1. 【[抱整](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_zhen.md#抱整)】`po6 zhen3` <sup>[兴化]</sup> 固执已见，认死理：他这个人就是～，不肯听人劝。也说“抱死理”。  
 1. 【[抱奘腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_zhuan_ty.md#抱奘腿)】`po6 zhuan3 ty3` <sup>[东台]</sup> ［喻］找靠山，拍马屁。  
-1. 【[暴灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_huei.md#暴灰)】`po6 huei1` <sup>[兴化]</sup> 草灰：谚曰：～也有发热之时。  
-1. 【[暴灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_huei.md#暴灰)】`po6 huei1` <small>/pʰɔ1 xuei1/<sup>如皋</sup>, /pʰɔ1 xuəɪ1/<sup>泰兴</sup></small> ① 柴薪灰烬 ② 灶下出的草木灰<sup>\[如皋\]</sup> ③ 灶膛里的草灰。<sup>\[如东\]</sup> ④ 锅膛里柴草的灰烬。<sup>\[东台\]</sup> ⑤ 草木灰。<sup>\[泰兴\]</sup>  
+1. 【[暴灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_huei.md#暴灰)】`po6 huei1` <small>/pʰɔ6 xuəi1/<sup>兴化</sup>, /pʰɔ1 xuei1/<sup>如皋</sup>, /pʰɔ1 xuəɪ1/<sup>泰兴</sup></small> ① 柴薪灰烬 ② 灶下出的草木灰<sup>\[如皋\]</sup> ③ 灶膛里的草灰。<sup>\[如东\]</sup> ④ 锅膛里柴草的灰烬。<sup>\[东台\]</sup> ⑤ 草木灰。<sup>\[泰兴\]</sup> ⑥ 草灰。<sup>\[兴化\]</sup>：谚曰：～也有发热之时。<sup>\[兴化\]</sup>  
 1. 【[暴腌咸菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_in_haen_cae.md#暴腌咸菜)】`po6 in1 haen2 cae5` <sup>[泰州]</sup> 一种腌制小菜，将青菜的披叶（青菜外圈的叶）用刀切碎，用盐揉匀，待其出卤以后，用手挤干盐卤，放置容器之中，一宿以后即可食用，可加麻油、酱油、辣椒拌后生食，亦可炒食。“以其醃制时间约在一宿”而名：择咖来的青菜披叶不要撂掉，留啊～。  
 1. 【[暴暴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_po_dii.md#暴暴的)】`po6 po6 dii` <sup>[如皋]</sup> 忽然地：他～一走，我觉察𨃯啊一大空｜人～来啊，家里一点儿菜总没得，要赶紧准备。  
 1. 【[啪录啪录](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_loh_poh_loh.md#啪录啪录)】`poh7 loh poh7 loh` <sup>[如皋]</sup> 状说话快而连续不止，像放连珠炮。  

@@ -840,9 +840,8 @@
 1. 【[柜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei.md#柜)】`kuei6` <sup>[如东]</sup> 容器。一般长方形，立体，木制，也有水泥制的。体积较大。主要用以贮藏粮食。  
 1. 【[柜模<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei_mu_r.md#柜模<sub>儿</sub>)】`kuei6 mu2 r` <sup>[如东]</sup> 比喻人的体型：他的～大。  
 1. 【[柜台](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei_tae.md#柜台)】`kuei6 tae2` ① 销售商品的家具，木板或玻璃制，立体，长方形。<sup>\[如东\]</sup> ② 商品柜的平面。<sup>\[如东\]</sup> ③ 营业用的器具，式样像柜但比较长，用木头或玻璃制成。<sup>\[东台\]</sup>  
-1. 【[跪打哭笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei_da_koh_xio.md#跪打哭笑)】`kuei6 da3 koh7 xio5` <sup>[兴化]</sup> 软硬兼施的各种手段：他有求于你，～全来。  
+1. 【[跪打哭笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei_da_koh_xio.md#跪打哭笑)】`kuei6 da3 koh7 xio5` <small>/kʰuəi6 ta3 kʰɔʔ7 ɕiɔ5/<sup>兴化</sup></small> ① 软硬兼施的各种手段<sup>\[兴化\]</sup>：他有求于你，～全来。<sup>\[兴化\]</sup> ② 比喻软硬兼施采用各种手段<sup>\[泰州\]</sup>：这马马儿为啊调工资，～全来，厂长望见她头就大啊唻。<sup>\[泰州\]</sup>  
 1. 【[跪打哭笑全堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei_da_koh_xio.md#跪打哭笑全堂)】`kuei6 da3 koh7 xio5 qiun2 tan2` <sup>[东台]</sup> 形容撒泼、耍赖各种胡闹手段，无所不用其极。  
-1. 【[跪打苦笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei_da_koh_xio.md#跪打苦笑)】`kuei6 da3 koh7 xio5` <sup>[泰州]</sup> 比喻软硬兼施采用各种手段：这马马儿为啊调工资，～全来，厂长望见她头就大啊唻。  
 1. 【[跪踏板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei_taeh_baen.md#跪踏板)】`kuei6 taeh8 baen3` <small>/kʰuəi6 tʰæʔ8 pɛ̃3/<sup>兴化</sup>, /kʰuei1 tʰeʔ8 pẽ3/<sup>如皋</sup></small> ① 男人花心，女人罚男人跪在踏板上，以示儆戒。<sup>\[如东\]</sup> ② 戏谑语，指怕老婆的男人被罚跪于床前的踏板上。<sup>\[如皋\]</sup> ③ 本指跪在床前的踏脚板上，现戏称丈夫受妻子的责备。<sup>\[东台\]</sup> ④ （戏）形容惧内者<sup>\[兴化\]</sup>：“犯大法就派在家～？”（兴文《吹牛》）<sup>\[兴化\]</sup> ⑤ 双膝跪在床前踏板上，旧时凶悍妻子体罚懦弱丈夫的一种手段。<sup>\[泰州\]</sup>  
 1. 【[坤膀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_ban.md#坤膀)】`kuen1 ban` <sup>[泰州]</sup> ① （泰州词典作 䐊膀） ② 形容身材高大魁梧：你家男将多～啊，衣裳要买啊大啊点儿。｜这小伙人长得～，百十斤的担子在他肩上轻飘飘的。  
 1. 【[坤表](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_bio.md#坤表)】`kuen1 bio3` <sup>[东台]</sup> 女式手表。  
