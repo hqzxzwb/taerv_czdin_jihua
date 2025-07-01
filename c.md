@@ -1182,7 +1182,7 @@
 1. 【[吵翻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_faen.md#吵翻)】`cho3 faen1` <sup>[泰州]</sup> 因为争吵彼此之间关系变坏、感情破裂：你俫两个人为这些小事～就没得意思唻。  
 1. 【[吵嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_jy.md#吵嘴)】`cho3 jy3` <sup>[东台]</sup> 争吵。  
 1. 【[吵嚷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_ran.md#吵嚷)】`cho3 ran3` <sup>[兴化]</sup> ① 乱喊乱叫：覅把伢儿～醒吖。 ② 许多人大声地说话或叫喊：此事一～，谁人不知，哪个不晓。（《三侠五义》六六）  
-1. 【[吵死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_sz.md#吵死)】`cho3 sz3` <small>/t͡sʰɔ3 sɿ3/<sup>兴化</sup></small> ① 激烈的争吵<sup>\[东台\]</sup>：不要𠵹丧～！<sup>\[东台\]</sup> ② 吵闹<sup>\[兴化\]</sup>：“起去罢，莫撞见老吴来吵死。”（《梼杌闲评》四）<sup>\[兴化\]</sup> ③ 大声起哄，故意胡闹，取笑<sup>\[泰州\]</sup>：没得他俫这几个好佬～，桌上就不热嘈唻。<sup>\[泰州\]</sup> ④ 激烈争吵<sup>\[泰州\]</sup>：听说他俫两个人在家里～，为的甚的事啊？<sup>\[泰州\]</sup>  
+1. 【[吵死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_sz.md#吵死)】`cho3 sz3` <small>/t͡sʰɔ3 sɿ3/<sup>兴化</sup>, /t͡sʰɔ3 sɿ3/<sup>泰兴</sup></small> ① 激烈的争吵<sup>\[东台\]</sup>：不要𠵹丧～！<sup>\[东台\]</sup> ② 吵闹<sup>\[兴化\]</sup>：“起去罢，莫撞见老吴来吵死。”（《梼杌闲评》四）<sup>\[兴化\]</sup> ③ 大声起哄，故意胡闹，取笑<sup>\[泰州\]</sup>：没得他俫这几个好佬～，桌上就不热嘈唻。<sup>\[泰州\]</sup> ④ 激烈争吵<sup>\[泰州\]</sup>：听说他俫两个人在家里～，为的甚的事啊？<sup>\[泰州\]</sup> ⑤ 吵闹；故意扰乱，使事情不好办。<sup>\[泰兴\]</sup>  
 1. 【[吵嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_zuei.md#吵嘴)】`cho3 zuei3` <sup>[如东]</sup> 争吵：他俫夫妻两个又在下～。  
 1. 【[炒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho.md#炒)】`cho3` <sup>[如东]</sup> 一种烹调方法。将菜洗净切好，放在锅里加油等作料，以烈火爆炒。  
 1. 【[炒啊锅子蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_a_gu_zz.md#炒啊锅子蟹)】`cho3 a gu1 zz hae3` <sup>[如东]</sup> 螃蟹放在锅里煮的时候，乱爬乱争，比喻你争他吵，非常混乱：他家～。  
@@ -1626,6 +1626,7 @@
 1. 【[出着咖唻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chueh_zhah_ga_lae.md#出着咖唻)】`chueh7 zhah ga lae` <sup>[如皋]</sup> 嗔语：～！弄这吖点儿菜怎吖请客咖？  
 1. 【[出账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chueh_zhan.md#出账)】`chueh7 zhan5` <sup>[兴化]</sup> 开支：这个月～太多。  
 1. 【[出真花<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chueh_zhen_hua_r.md#出真花<sub>儿</sub>)】`chueh7 zhen1 hua1 r` <sup>[如皋]</sup> 见“出花儿”。  
+1. 【[怵惧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chueh_jy.md#怵惧)】`chueh7 jy5` <small>/t͡sʰuəʔ7 t͡ɕy5/<sup>泰兴</sup></small> 恐惧，害怕。<sup>\[泰兴\]</sup>：你不要～，让我去<sup>\[泰兴\]</sup>  
 1. 【[吹打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuei_da.md#吹打)】`chuei1 da3` <sup>[兴化]</sup> ① 婚丧喜庆请乐工动乐。 ② 道士拜忏或放焰口时，演奏各种乐器：细吹细打。  
 1. 【[吹打写念跑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuei_da_xia_nin.md#吹打写念跑)】`chuei1 da3 xia3 nin6 po2` <sup>[如东]</sup> 这五种是～个人的基本功，比喻样样都能干。  
 1. 【[吹火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuei_hu.md#吹火)】`chuei1 hu3` <sup>[如皋]</sup> 用嘴或吹火棒对着炭火的火星儿吹气，使之旺燃。  

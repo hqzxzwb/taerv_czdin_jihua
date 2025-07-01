@@ -433,7 +433,7 @@
 1. 【[𧧭邻舍家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_lien_sha_ga.md#𧧭邻舍家)】`gan5 lien2 sha5 ga` <sup>[如皋]</sup>   
 1. 【[䞘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh.md#䞘)】`geh7` <sup>[东台]</sup> 单脚连续跳，（《玉篇》解行貌方音读若“隔”）：刘翔在2012年奥运会上一只腿捱𢴬倒，还坚持用另一只腿～到终点，了不起！  
 1. 【[䞘疆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_jian.md#䞘疆)】`geh7 jian1` <sup>[东台]</sup> 旧时小孩玩的一种游戏，在地上画格子，游戏者䞘着踢。也叫“跳房子”。  
-1. 【[䬣飣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_dien.md#䬣飣)】`geh7 dien1` <sup>[如皋]</sup> 荞麦面条，粗短。谚：荞麦糏～，三条一斤，用力一抽（cheu2），打破额头。  
+1. 【[䬣飣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_dien.md#䬣飣)】`geh7 dien1, geh7 dien0` <small>/kəʔ7 tiəŋ1/<sup>如皋</sup>, /kəʔ7 tiŋ1/<sup>泰兴</sup></small> ① 荞麦面条，粗短。谚：荞麦糏～，三条一斤，用力一抽（cheu2），打破额头。<sup>\[如皋\]</sup> ② 一种比较粗的面条，以手工擀成。如“荞麦屑～”等。<sup>\[泰兴\]</sup>  
 1. 【[哿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh.md#哿)】`geh7` <small>/kəʔ7/<sup>兴化</sup>, /kəʔ7/<sup>泰县</sup></small> ① 兴化东南乡音，是否，见gu3<sup>\[兴化\]</sup>：你～是溱潼人？<sup>\[兴化\]</sup>｜这车子～是你的？<sup>\[兴化\]</sup> ② 是否，见gu3<sup>\[泰县\]</sup>：这张白纸～有用㗁？<sup>\[泰县\]</sup>｜～是这本书啊？<sup>\[泰县\]</sup>｜你～曾谈谎？<sup>\[泰县\]</sup> ③ 用在动词前，表示征询，同gu3。<sup>\[泰州\]</sup>  
 1. 【[嗝啧病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_zeh_pien.md#嗝啧病)】`geh7 zeh7 pien6` <sup>[泰县]</sup> 食道癌。  
 1. 【[圪垛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_tu.md#圪垛)】`geh7 tu6` <sup>[兴化]</sup> 见“垛圪”。  
@@ -468,12 +468,14 @@
 1. 【[槅子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_zz.md#槅子)】`geh7 zz` <small>/kəʔ7 t͡sɿ/<sup>兴化</sup>, /kəʔ7 t͡sɿ/<sup>如皋</sup></small> ① 见“槅扇”。<sup>\[如皋\]</sup> ② 旧式建筑中的长窗，上部由细木条拼成格眼，内糊白纸或嵌明角。下部为木板<sup>\[兴化\]</sup>：这大厅的前面一排六扇～。<sup>\[兴化\]</sup> ③ 上半部安有格眼的落地长窗、门扇、屏风。<sup>\[泰州\]</sup>  
 1. 【[疙瘩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_daeh.md#疙瘩)】`geh7 daeh` <sup>[兴化]</sup> ① 煮面团，也称“面鱼儿”。 ② 粗面条：青菜下～。  
 1. 【[疙瘩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_daeh_r.md#疙瘩<sub>儿</sub>)】`geh7 daeh r, geh7 daeh7-3 r` <sup>[如皋]</sup> ① 一种汤糊中有小疙瘩的面食，又称糊糊儿。 ② 一种汤中有大块子的面食，又称面鱼儿  
-1. 【[疙瘩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_daeh.md#疙瘩)】`geh7 daeh7` ① 本指皮肤上凸起的或肌肉上结成的硬块。也指小球或者块状的东西。喻指不易解决的问题<sup>\[东台\]</sup>：想办法解开他们的～。<sup>\[东台\]</sup> ② 皮肤表层凸起的粒状或肿块<sup>\[泰州\]</sup>：他脸上全是骚～。<sup>\[泰州\]</sup> ③ 内心难以排解的不满想法<sup>\[泰州\]</sup>：心里的～还不曾化解得掉。<sup>\[泰州\]</sup>  
+1. 【[疙瘩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_daeh.md#疙瘩)】`geh7 daeh7` <small>/kəʔ7 tæʔ7/<sup>泰兴</sup></small> ① 本指皮肤上凸起的或肌肉上结成的硬块。也指小球或者块状的东西。喻指不易解决的问题<sup>\[东台\]</sup>：想办法解开他们的～。<sup>\[东台\]</sup> ② 皮肤表层凸起的粒状或肿块<sup>\[泰州\]</sup>：他脸上全是骚～。<sup>\[泰州\]</sup> ③ 内心难以排解的不满想法<sup>\[泰州\]</sup>：心里的～还不曾化解得掉。<sup>\[泰州\]</sup> ④ 皮肤或肌肉上突起的小肿块<sup>\[泰兴\]</sup>：起啊个～<sup>\[泰兴\]</sup> ⑤ 麻烦、闹别扭、小纠纷<sup>\[泰兴\]</sup>：他佼两个有点～<sup>\[泰兴\]</sup> ⑥ 食品：以麦粉作成的块状物<sup>\[泰兴\]</sup>：面～<sup>\[泰兴\]</sup>  
 1. 【[疙瘩/䬣𩟐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_daeh.md#疙瘩/䬣𩟐)】`geh7 daeh7` <sup>[泰州]</sup> 食物名称，用热水将面粉或米粉在碗中调成厚糊状面团，用勺搲入或者用筷子拨入滚水煮熟，呈不规则块状，按原料不同叫作米疙瘩，面疙瘩，荞麦疙瘩。米疙瘩一般不加油盐与粥同煮，面疙瘩与荞麦疙瘩一般与加油盐炒过的青菜同煮。  
 1. 【[疙瘩账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_daeh_zhan.md#疙瘩账)】`geh7 daeh7 zhan5` <sup>[兴化]</sup> 纠缠不清的糊涂账：“哪个耐烦和你算这些～……收了进去就是了！”（《儒林外史》三二）  
 1. 【[疙丁<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_dien_r.md#疙丁<sub>儿</sub>)】`geh7 dien1 r` <sup>[如东]</sup> 皮肤上孳生的小脓包。  
 1. 【[疙丁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_dien_zz.md#疙丁子)】`geh7 dien1 zz` <sup>[兴化]</sup> ① 疣，也称“瘊子”。 ② 器物上小的突起：摇控器上有一排排的～。  
+1. 【[疙㾭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_jieu.md#疙㾭)】`geh7 jieu5` <small>/kəʔ7 t͡ɕiɤɯ5/<sup>泰兴</sup></small> 弯，不直。<sup>\[泰兴\]</sup>：眉毛～/皱眉，苦恼之态<sup>\[泰兴\]</sup>  
 1. 【[疙里疙瘩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_lii_geh_daeh.md#疙里疙瘩)】`geh7 lii geh7 daeh7` <sup>[东台]</sup> 不平滑，不顺手。  
+1. 【[疙里疙瘩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_lii_geh_daeh.md#疙里疙瘩)】`geh7 lii geh7 daeh7` <small>/kəʔ7 ləɪ kəʔ7 tæʔ7/<sup>泰兴</sup></small> 粗糙，不平滑；不流畅，不顺利。<sup>\[泰兴\]</sup>  
 1. 【[疙里疙瘩的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_lii_geh_daeh.md#疙里疙瘩的)】`geh7 lii geh7 daeh7 dii` <sup>[如皋]</sup> ① 状有小凸起，不平：桌面子不曾打磨，手摸上去～。 ② 喻有小矛盾：两个人现在有点儿～。  
 1. 【[箇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh.md#箇)】`geh7` <small>/kəʔ7/<sup>泰兴</sup></small> ① 这，此。一些地区习惯说“箇”，另一些地区更习惯说“这(zha5)”。 ② 这么，如此，为“箇们”之省。<sup>\[泰兴\]</sup>：～大/这么大<sup>\[泰兴\]</sup>  
 1. 【[箇阵<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_chen_r.md#箇阵<sub>儿</sub>)】`geh7 chen6 r` 现在，这时候  

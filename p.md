@@ -753,7 +753,7 @@
 1. 【[抛抛滚滚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_po_guen_guen.md#抛抛滚滚)】`po1 po1 guen3 guen3` <small>/pʰɔ1 pʰɔ1 kuəŋ3 kuəŋ3/<sup>泰兴</sup></small> 谓球状物到处滚动<sup>\[泰兴\]</sup>：把豌豆泼咖一地，块块～的<sup>\[泰兴\]</sup>  
 1. 【[抛籰子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_vah_zz.md#抛籰子)】`po1 vah7 zz` <sup>[如皋]</sup> 络丝工人的一种操作。人坐着，右手掌心向上半握装了籰子的挑鞭，肘贴于腰间，使挑鞭置于臂下，将前段连续抛接，籰子右上旋，不断绕丝。  
 1. 【[泡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po.md#泡)】`po1` <sup>[泰县]</sup> 量词：一～屎。  
-1. 【[泡灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_huei.md#泡灰)】`po1 huei1` <small>/pʰɔ1 xuei1/<sup>如皋</sup></small> ① 柴薪灰烬 ② 灶下出的草木灰<sup>\[如皋\]</sup> ③ 灶膛里的草灰。<sup>\[如东\]</sup> ④ 锅膛里柴草的灰烬。<sup>\[东台\]</sup>  
+1. 【[泡话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_hua.md#泡话)】`po1 hua6` <small>/pʰɔ1 xuɑ1/<sup>泰兴</sup></small> 大话，吹牛的话。<sup>\[泰兴\]</sup>：吃咖羊卵子说～<sup>\[泰兴\]</sup>  
 1. 【[泡灰也有发焐的时候](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_huei_ia_ieu.md#泡灰也有发焐的时候)】`po1 huei1 ia3 ieu3 faeh7 v5 dii shr2 heu` <sup>[东台]</sup> 即使很困难，也有好转的希望。  
 1. 【[泡泡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_po_r.md#泡泡<sub>儿</sub>)】`po1 po1 r` <sup>[如东]</sup> 圆形物体，如弹子、轮圈等。  
 1. 【[泡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_r.md#泡<sub>儿</sub>)】`po1 r` <sup>[如东]</sup> 一种空心的圆形物体，如电灯泡儿。一种能够浮在水面上的物体，如空心玻璃球、空心塑料球等。也叫浮子。  
@@ -873,9 +873,10 @@
 1. 【[抱小腰<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_xio_io_r.md#抱小腰<sub>儿</sub>)】`po6 xio3 io1 r` <sup>[如皋]</sup> 从背后抱住下腰部。比喻支持者、拥护者、保护者。  
 1. 【[抱整](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_zhen.md#抱整)】`po6 zhen3` <sup>[兴化]</sup> 固执已见，认死理：他这个人就是～，不肯听人劝。也说“抱死理”。  
 1. 【[抱奘腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_zhuan_ty.md#抱奘腿)】`po6 zhuan3 ty3` <sup>[东台]</sup> ［喻］找靠山，拍马屁。  
+1. 【[暴灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_huei.md#暴灰)】`po6 huei1` <sup>[兴化]</sup> 草灰：谚曰：～也有发热之时。  
+1. 【[暴灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_huei.md#暴灰)】`po6 huei1` <small>/pʰɔ1 xuei1/<sup>如皋</sup>, /pʰɔ1 xuəɪ1/<sup>泰兴</sup></small> ① 柴薪灰烬 ② 灶下出的草木灰<sup>\[如皋\]</sup> ③ 灶膛里的草灰。<sup>\[如东\]</sup> ④ 锅膛里柴草的灰烬。<sup>\[东台\]</sup> ⑤ 草木灰。<sup>\[泰兴\]</sup>  
 1. 【[暴腌咸菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_in_haen_cae.md#暴腌咸菜)】`po6 in1 haen2 cae5` <sup>[泰州]</sup> 一种腌制小菜，将青菜的披叶（青菜外圈的叶）用刀切碎，用盐揉匀，待其出卤以后，用手挤干盐卤，放置容器之中，一宿以后即可食用，可加麻油、酱油、辣椒拌后生食，亦可炒食。“以其醃制时间约在一宿”而名：择咖来的青菜披叶不要撂掉，留啊～。  
 1. 【[暴暴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_po_dii.md#暴暴的)】`po6 po6 dii` <sup>[如皋]</sup> 忽然地：他～一走，我觉察𨃯啊一大空｜人～来啊，家里一点儿菜总没得，要赶紧准备。  
-1. 【[爆灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_huei.md#爆灰)】`po6 huei1` <sup>[兴化]</sup> 草灰：谚曰：～也有发热之时。  
 1. 【[啪录啪录](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_loh_poh_loh.md#啪录啪录)】`poh7 loh poh7 loh` <sup>[如皋]</sup> 状说话快而连续不止，像放连珠炮。  
 1. 【[扑板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_baen.md#扑板)】`poh7 baen3` <sup>[如东]</sup> 工具。木质，长方形，有柄。扑匠用来平整扑屋屋面。也叫木蟹。  
 1. 【[扑粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_fen.md#扑粉)】`poh7 fen3` <sup>[东台]</sup> ① 化妆用的香粉。 ② 爽身粉。  
@@ -1195,21 +1196,22 @@
 1. 【[泼菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh_cae.md#泼菜)】`puh7 cae5` <sup>[如皋]</sup> 沸水泼过的大头菜丝，供冷拌。  
 1. 【[泼车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh_cha.md#泼车)】`puh7 cha1` <sup>[兴化]</sup> 车轴上有八只无盖小水箱的人力车水工具，出水量大，但扬程较低。  
 1. 【[泼绰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh_chah.md#泼绰)】`puh7 chah` <sup>[兴化]</sup> 足够而有余：这点饭菜勉强够吃，就是不～。｜带三千块钱去游泰山和曲阜，够～的啊。‖也说“泼泼绰绰”。  
-1. 【[泼绰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh_chah.md#泼绰)】`puh7 chah7` <small>/pʰʊʔ7 t͡sʰaʔ7/<sup>如皋</sup></small> ① 丰足<sup>\[如皋\]</sup>：桌上的菜～，吃不了；钱～，侭你用。<sup>\[如皋\]</sup> ② 数量上宽裕，充足<sup>\[泰州\]</sup>：中上你把菜弄吖～点儿，弄吖少啊不够吃。<sup>\[泰州\]</sup>  
+1. 【[泼绰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh_chah.md#泼绰)】`puh7 chah7` <small>/pʰʊʔ7 t͡sʰaʔ7/<sup>如皋</sup>, /pʰʊʔ7 t͡sʰɑʔ7/<sup>泰兴</sup></small> ① 丰足<sup>\[如皋\]</sup>：桌上的菜～，吃不了；钱～，侭你用。<sup>\[如皋\]</sup> ② 数量上宽裕，充足<sup>\[泰州\]</sup>：中上你把菜弄吖～点儿，弄吖少啊不够吃。<sup>\[泰州\]</sup> ③ 很多；很丰富。<sup>\[泰兴\]</sup>  
 1. 【[泼出去的水，嫁出门的女](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh_chueh_qy_dii.md#泼出去的水，嫁出门的女)】`puh7 chueh7 qy5 dii xy3 ga5 chueh7 men2 dii ny3` <sup>[东台]</sup> 喻指事已了结，无法挽回。  
 1. 【[泼丹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh_daen.md#泼丹)】`puh7 daen1` <sup>[东台]</sup> 意同“泼火”。  
 1. 【[泼风大雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh_fon_da_y.md#泼风大雨)】`puh7 fon1 da6 y3` <sup>[如皋]</sup> 狂风暴雨。  
+1. 【[泼风泼雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh_fon_puh_y.md#泼风泼雨)】`puh7 fon1 puh7 y3` <small>/pʰʊʔ7 fɔŋ1 pʰʊʔ7 y3/<sup>泰兴</sup></small> 暴风骤雨。<sup>\[泰兴\]</sup>  
 1. 【[泼妇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh_fv.md#泼妇)】`puh7 fv6` 凶悍不讲道理的女人。<sup>\[泰州\]</sup>  
 1. 【[泼火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh_hu.md#泼火)】`puh7 hu3` <sup>[东台]</sup> 一种民间治疗土法。用以治疗“流火”（学名丹毒），也称泼丹，由施治者对发病部位泼水或喷水，口里念咒语等。  
 1. 【[泼货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh_hu.md#泼货)】`puh7 hu5` <sup>[如皋]</sup> 詈语，指凶狠放肆的女人。  
 1. 【[泼嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh_jy.md#泼嘴)】`puh7 jy3` <sup>[如东]</sup> 说话尖刻：这个婆娘是张～。  
 1. 【[泼辣/泼剌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh_laeh.md#泼辣/泼剌)】`puh7 laeh8` 女性凶悍蛮横。<sup>\[泰州\]</sup>  
-1. 【[泼冷水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh_len_shuei.md#泼冷水)】`puh7 len3 shuei3` <small>/pʰʊʔ7 ləŋ3 suei3/<sup>如皋</sup></small> ① 说泄气话（表示反对）。<sup>\[如皋\]</sup> ② 说风凉话，降低某人热情。<sup>\[东台\]</sup>  
+1. 【[泼冷水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh_len_shuei.md#泼冷水)】`puh7 len3 shuei3` <small>/pʰʊʔ7 ləŋ3 suei3/<sup>如皋</sup>, /pʰʊʔ7 ləŋ3 suəɪ3/<sup>泰兴</sup></small> ① 说泄气话（表示反对）。<sup>\[如皋\]</sup> ② 说风凉话，降低某人热情。<sup>\[东台\]</sup> ③ 比喻打击别人的积极性。<sup>\[泰兴\]</sup>  
 1. 【[泼伾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh_pi.md#泼伾)】`puh7 pi1` <sup>[东台]</sup> 有活力；不怕苦；不娇嫩。  
 1. 【[泼皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh_pi.md#泼皮)】`puh7 pi2` <sup>[兴化]</sup> ① 形容人有力气，能吃苦：这个小伙～，百十斤的担子挑起来就跑。 ② 生命力顾强：泡桐树真～，窖一根小树桩，几年一过就成吖大树。  
 1. 【[泼泼绰绰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh_puh_chah_chah.md#泼泼绰绰)】`puh7 puh7 chah7 chah7` <small>/pʰʊʔ7 pʰʊʔ7 t͡sʰaʔ7 t͡sʰaʔ7/<sup>如皋</sup></small> ① 见“泼绰”。<sup>\[如皋\]</sup> ② 丰富、宽裕有余<sup>\[东台\]</sup>：今年以来进项多，办这件事～。<sup>\[东台\]</sup>  
 1. 【[泼泼洒洒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh_puh_sa_sa.md#泼泼洒洒)】`puh7 puh7 sa3 sa3` <sup>[东台]</sup> 器皿中装得太多而溢出来：你少盛点儿，不能～的。  
-1. 【[泼泼撒撒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh_puh_saeh_saeh.md#泼泼撒撒)】`puh7 puh7 saeh7 saeh7` <small>/pʰuʔ7 pʰuʔ7 sæʔ7 sæʔ7/<sup>兴化</sup>, /pʰʊʔ7 pʰʊʔ7 seʔ7 seʔ7/<sup>如皋</sup></small> ① 装运中不断泼、洒、漏出。<sup>\[如皋\]</sup> ② 液体或小颗粒从容器中撒出<sup>\[兴化\]</sup>：你少装点儿，覅弄得～的。<sup>\[兴化\]</sup>｜“像老猪吃东西～的……”（《西游记》七二）<sup>\[兴化\]</sup> ③ 液体或者其他颗粒状的东西从容器里洒出来的样子<sup>\[泰州\]</sup>：笆斗里的小麦装得太满吖唻，弄得～的！<sup>\[泰州\]</sup>  
+1. 【[泼泼撒撒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh_puh_saeh_saeh.md#泼泼撒撒)】`puh7 puh7 saeh7 saeh7` <small>/pʰuʔ7 pʰuʔ7 sæʔ7 sæʔ7/<sup>兴化</sup>, /pʰʊʔ7 pʰʊʔ7 seʔ7 seʔ7/<sup>如皋</sup>, /pʰʊʔ7 pʰʊʔ7 ɕiæʔ7 ɕiæʔ7/<sup>泰兴</sup></small> ① 装运中不断泼、洒、漏出。<sup>\[如皋\]</sup> ② 液体或小颗粒从容器中撒出<sup>\[兴化\]</sup>：你少装点儿，覅弄得～的。<sup>\[兴化\]</sup>｜“像老猪吃东西～的……”（《西游记》七二）<sup>\[兴化\]</sup> ③ 液体或者其他颗粒状的东西从容器里洒出来的样子<sup>\[泰州\]</sup>：笆斗里的小麦装得太满吖唻，弄得～的！<sup>\[泰州\]</sup> ④ 形容水或其它物品从容器中散洒出来的样子。<sup>\[泰兴\]</sup>  
 1. 【[泼斜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh_qia.md#泼斜)】`puh7 qia2` <sup>[兴化]</sup> 行走时取弓弦直路：从这块～走要省里把路。  
 1. 【[泼吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh_qieh.md#泼吃)】`puh7 qieh7` <sup>[东台]</sup> 吃得多而快，且不挑食。  
 1. 【[泼势头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh_shr_teu.md#泼势头)】`puh7 shr5 teu2` <sup>[兴化]</sup> 形容又脏又乱：出去十来天，家里作成～。  

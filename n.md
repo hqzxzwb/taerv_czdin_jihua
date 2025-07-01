@@ -1224,7 +1224,7 @@
 1. 【[泥柮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_duh_zz.md#泥柮子)】`ni2 duh7 zz` <sup>[如东]</sup> 盛泥灰的一种小木桶、小铁桶或小塑料桶。  
 1. 【[泥堆堆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_dy_dy_r.md#泥堆堆<sub>儿</sub>)】`ni2 dy1 dy1 r` <sup>[如皋]</sup> 小土堆。  
 1. 【[泥堆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_dy_r.md#泥堆<sub>儿</sub>)】`ni2 dy1 r` <sup>[如皋]</sup> 疏松的小土堆。  
-1. 【[泥垡头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_faeh_teu.md#泥垡头)】`ni2 faeh8 teu` <sup>[如东]</sup> 土块儿。  
+1. 【[泥垡头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_faeh_teu.md#泥垡头)】`ni2 faeh8 teu` <small>/nʝ2 fæʔ8 tʰəɪ/<sup>泰兴</sup></small> 土块。<sup>\[泰兴\]</sup><sup>\[如东\]</sup>  
 1. 【[泥佛劝土佛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_feh_qiun_tv.md#泥佛劝土佛)】`ni2 feh8 qiun5 tv3 feh8` <sup>[兴化]</sup> （喻）处境相同或相似的人互相慰勉：他俫两个受骗的人～。｜“我的哥哥，你自顾了你罢，又～……”（《金瓶子梅词话》十三）  
 1. 【[泥狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_geu.md#泥狗)】`ni2 geu3` <sup>[东台]</sup> ① 一种两栖小动物，四肢短小，均具四趾。生有三对淡紅色外鳃。栖于多水草的河沼底部。 ② ［喻］非常顽皮，浑身有灰土的孩子。  
 1. 【[泥锅腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_gu_qian.md#泥锅腔)】`ni2 gu1 qian1` <sup>[东台]</sup> 用陶土或粘土做成的独体灶，像瓮坛，便于移动。过去多在船上使用。  
@@ -1244,13 +1244,15 @@
 1. 【[泥络子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_lah_zz.md#泥络子)】`ni2 lah8 zz` <sup>[如东]</sup> 工具。竹片或木条弯成月牙形，中间以绳索编织成网络，用以盛装泥垡头  
 1. 【[泥螺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_lu.md#泥螺)】`ni2 lu1` <small>/nʝ2 lʊ1/<sup>如皋</sup></small> ① 指东海浅海滩出产的食用螺。<sup>\[如皋\]</sup> ② 泊螺科动物泥螺，又名吐铁，贝壳圆形，质薄而脆，螺旋部不凸出，壳面平滑具有许多细致的环纹和纵纹。<sup>\[如东\]</sup> ③ 也称“蚰蚰儿”，生活于浅海滩上，壳卵圆形，经盐渍或酒糖渍后可作美食。<sup>\[东台\]</sup>  
 1. 【[泥螺耙<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_lu_pa_r.md#泥螺耙<sub>儿</sub>)】`ni2 lu1 pa2 r` <sup>[如东]</sup> 捕捉泥螺的工具。细线织成三角形，竹片穿口，似畚箕。具长柄。用于抓泥螺。  
-1. 【[泥萝卜揩段吃段](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_lu_poh_kae.md#泥萝卜揩段吃段)】`ni2 lu2 poh kae1 tun6 qieh7 tun6` <sup>[东台]</sup> ［喻］（俗语）做事没计划：做事要有条理，不能心。  
+1. 【[泥萝卜揩段吃段](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_lu_poh_kae.md#泥萝卜揩段吃段)】`ni2 lu2 poh kae1 tun6 qieh7 tun6` <sup>[东台]</sup> 做事要有条理。  
+1. 【[泥萝卜揩段吃段](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_lu_poh_kae.md#泥萝卜揩段吃段)】`ni2 lu2 poh kae1 tun6 qieh7 tun6` <small>/nʝ2 lɤɯ2 pʰɔʔ kʰɛ1 tʰʊ̃1 t͡ɕʰiəʔ7 tʰʊ̃1/<sup>泰兴</sup></small> 比喻办事按计划一步一步地进行，不要想到那里办到那里。<sup>\[泰兴\]</sup>  
 1. 【[泥炉担子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_lv_daen_zz.md#泥炉担子)】`ni2 lv2 daen5 zz` <sup>[如皋]</sup> 专门挑担上门帮助泥炉子。  
 1. 【[泥炉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_lv_zz.md#泥炉子)】`ni2 lv2 zz` <sup>[如皋]</sup> ① 用黏土等制作炉子。 ② 用黏土等制作成的炉子。  
 1. 【[泥路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_lv.md#泥路)】`ni2 lv6` <sup>[如皋]</sup> 土面路。  
 1. 【[泥门塞洞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_men_seh_ton.md#泥门塞洞)】`ni2 men2 seh7 ton6` <sup>[东台]</sup> ［喻］封锁信息，阻碍调查取证：他的情况已经捱纪委掌握咖，还想～，太不明智啊！  
 1. 【[泥囊粗㧟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_nan_cv_kuae.md#泥囊粗㧟)】`ni2 nan2 cv1 kuae6` <sup>[东台]</sup> 形容沾的泥土多，不干净。  
 1. 【[泥牛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_ngeu_r.md#泥牛<sub>儿</sub>)】`ni2 ngeu2 r` <sup>[兴化]</sup> 见“泥猴儿”。  
+1. 【[泥𨞑味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_on_vei.md#泥𨞑味)】`ni2 on5 vei6` <small>/nʝ2 ɔŋ5 ʋəɪ1/<sup>泰兴</sup></small> 泥腥味；泥土味。<sup>\[泰兴\]</sup>  
 1. 【[泥菩萨过河——自身难保](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_pv_saeh_gu.md#泥菩萨过河——自身难保)】`ni2 pv2 saeh7 gu5 hu2 cz6 shen1 naen2 bo3` <sup>[东台]</sup>   
 1. 【[泥菩萨身上长草——荒（慌）吖神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_pv_saeh_shen.md#泥菩萨身上长草——荒（慌）吖神)】`ni2 pv2 saeh7 shen1 shan6 zhan3 co3 huan1 nga shen2` <sup>[东台]</sup>   
 1. 【[泥匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_qian.md#泥匠)】`ni2 qian` <sup>[如东]</sup> 以建筑房屋为职业的小手工业者。  
@@ -1260,6 +1262,7 @@
 1. 【[泥鳅滑液](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_qieu_huaeh_ieh.md#泥鳅滑液)】`ni2 qieu1 huaeh8 ieh8` <sup>[如东]</sup> 鳅科动物泥鳅皮肤中分泌的黏液，入中药。治小便不通、热淋、痈肿。  
 1. 【[泥水匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_shuei_qian.md#泥水匠)】`ni2 shuei3 qian6` <sup>[如皋]</sup> 铲泥瓦工、水作。  
 1. 【[泥塑的神像——没心肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_sv_dii_shen.md#泥塑的神像——没心肠)】`ni2 sv5 dii shen2 qian6 meh8 xien1 chan2` <sup>[东台]</sup>   
+1. 【[泥塑木雕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_sv_moh_dio.md#泥塑木雕)】`ni2 sv5 moh8 dio1` <small>/nʝ2 su5 mɔʔ8 tiɔ1/<sup>泰兴</sup></small> 多形容人呆板、静止不动或没有表情。<sup>\[泰兴\]</sup>  
 1. 【[泥袋<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_tae_r.md#泥袋<sub>儿</sub>)】`ni2 tae6 r` <sup>[如皋]</sup> ① 建筑工人用以盛泥浆的布质用具。 ② 螃蟹、泥螺等的胃。  
 1. 【[泥搨<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_taeh_r.md#泥搨<sub>儿</sub>)】`ni2 taeh7 r` <small>/nʝ2 tʰe˞7/<sup>如皋</sup></small> ① 涂抹墙面的工具。<sup>\[如皋\]</sup> ② 工具。长方形的铁板，有手柄，用以抚平墙面。<sup>\[如东\]</sup>  
 1. 【[泥搨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_taeh_zz.md#泥搨子)】`ni2 taeh7 zz` <sup>[东台]</sup> 瓦工用来抹水泥、石灰浆的工具。  
@@ -1578,6 +1581,7 @@
 1. 【[闹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no.md#闹)】`no6` 踩踏  
 1. 【[闹包子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_bo_zz.md#闹包子)】`no6 bo1 zz` <small>/lɔ6 pɔ1 t͡sɿ/<sup>兴化</sup>, /nɔ1 pɔ1 t͡se/<sup>泰县</sup></small> ① 在某种事件中插一杠子，横生枝节<sup>\[东台\]</sup>：有不同意见好好说，不要在这许～。<sup>\[东台\]</sup> ② 大人戏称小孩在调皮捣蛋，增加麻烦。<sup>\[东台\]</sup> ③ 出不应有的笑话<sup>\[兴化\]</sup>：他这个高中生连借条也不会打，真是～。<sup>\[兴化\]</sup> ④ 无理取闹的人。<sup>\[泰县\]</sup> ⑤ 比喻犯下不应犯的错误<sup>\[泰州\]</sup>：本科生连个会议通知都写不好，你说哿是～。<sup>\[泰州\]</sup>  
 1. 【[闹蛼螯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_cha_ngo.md#闹蛼螯)】`no6 cha1 ngo` <sup>[如东]</sup> 捕取蛼螯的一种方式。双脚在海滩上踩动，使沙泥变软，将埋藏在沙泥中的蛼螯挤出来捕捉。  
+1. 【[闹场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_chan.md#闹场)】`no6 chan` <small>/nɔ1 t͡sʰɑŋ/<sup>泰兴</sup></small> 开台锣鼓<sup>\[泰兴\]</sup>：打～<sup>\[泰兴\]</sup>  
 1. 【[闹缠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_chin.md#闹缠)】`no6 chin6` 误将不相干的人或者事牵扯在一起<sup>\[泰州\]</sup>：这桩事情跟他俫两个没得点点儿关系，你就不要蹾吖这块～吧。<sup>\[泰州\]</sup>  
 1. 【[闹□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_co_co.md#闹□□)】`no6 co1 co1` <sup>[兴化]</sup> 吵嚷、喧哗：脚踏楼梯步步高，耳听金鸡～……（兴文《上梁嗑子》）  
 1. 【[闹发](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_faeh.md#闹发)】`no6 faeh7` <sup>[兴化]</sup> 水乡婚俗，喜宴后闹新房。俗曰：～～，闹啊才能发（财）。（见《兴化市志·民俗》）  
@@ -1588,13 +1592,15 @@
 1. 【[闹豪兴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_ho_xien.md#闹豪兴)】`no6 ho2 xien` <sup>[兴化]</sup> 起哄：竟有些大胆的少年人～，喊道｜“跟住武二爷走！”（《武松》三）也作“闹嚎好儿”。  
 1. 【[闹魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_huen.md#闹魂)】`no6 huen2` <small>/nɔ1 xuəŋ2/<sup>泰县</sup></small> ① 闹事<sup>\[泰县\]</sup>：今朝王二又来～。<sup>\[泰县\]</sup> ② 指人做事当儿戏<sup>\[泰州\]</sup>：他哪块是在下做作业，他是在下～。<sup>\[泰州\]</sup>｜你俫厂里成天～，哪块像个单位。<sup>\[泰州\]</sup>  
 1. 【[闹羊花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_ian_hua.md#闹羊花)】`no6 ian2 hua1` <sup>[如皋]</sup> 花杜鹃。有毒。时给行刑前的死囚喝～酒，使之精神麻木不太恐怖。  
-1. 【[闹酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_jieu.md#闹酒)】`no6 jieu3` 同桌喝酒之人相互斗嘴，以使对方多喝为乐<sup>\[泰州\]</sup>：他俫几个人～，老孙喝咖多啊，家来就上吖铺。<sup>\[泰州\]</sup>  
-1. 【[闹热](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_rih.md#闹热)】`no6 rih8` <small>/lɔ6 liɪʔ8/<sup>兴化</sup>, /nɔ1 ɻiʔ8/<sup>如皋</sup></small> ① 热闹。<sup>\[如皋\]</sup> ② “热闹”的逆序词<sup>\[兴化\]</sup>：……楼上才摆桌子，忽听得门外～……（《梼杌闲评》十四）<sup>\[兴化\]</sup>  
+1. 【[闹酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_jieu.md#闹酒)】`no6 jieu3` <small>/nɔ1 t͡ɕiɤɯ3/<sup>泰兴</sup></small> ① 同桌喝酒之人相互斗嘴，以使对方多喝为乐<sup>\[泰州\]</sup>：他俫几个人～，老孙喝咖多啊，家来就上吖铺。<sup>\[泰州\]</sup> ② 喝酒并喧闹。<sup>\[泰兴\]</sup>  
+1. 【[闹热](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_rih.md#闹热)】`no6 rih8` <small>/lɔ6 liɪʔ8/<sup>兴化</sup>, /nɔ1 ɻiʔ8/<sup>如皋</sup>, /nɔ1 iʔ8/<sup>泰兴</sup></small> 热闹。<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：……楼上才摆桌子，忽听得门外～……（《梼杌闲评》十四）<sup>\[兴化\]</sup>  
 1. 【[闹丧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_san.md#闹丧)】`no6 san1` <small>/lɔ6 saŋ1/<sup>兴化</sup>, /nɔ1 sã1/<sup>如皋</sup></small> ① 趁着丧事胡闹，提出一些非分的要求。<sup>\[如皋\]</sup> ② 代指胡闹。<sup>\[如皋\]</sup> ③ 趁治丧闹事。<sup>\[兴化\]</sup> ④ （借）对闹事者的指斥语<sup>\[兴化\]</sup>：“……现在我们庙内来些人，倒像～的……”（《施公案》一）<sup>\[兴化\]</sup> ⑤ 丧事期间死者亲属来向丧主寻衅争吵滋事。<sup>\[泰州\]</sup> ⑥ 泛指寻衅争吵、滋事<sup>\[泰州\]</sup>：下午几个下岗的人来～，一直闹到9点多钟才走。<sup>\[泰州\]</sup>  
 1. 【[闹烧胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_sho_hv_zz.md#闹烧胡子)】`no6 sho1 hv2 zz` <sup>[泰县]</sup> 络腮胡子。  
 1. 【[闹玩笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_vaen_xio.md#闹玩笑)】`no6 vaen2 xio5` <sup>[兴化]</sup> 见“闹笑”。  
+1. 【[闹新房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_xien_fan.md#闹新房)】`no6 xien1 fan2` <small>/nɔ1 ɕiŋ1 fɑŋ2/<sup>泰兴</sup></small> 民俗。在新房内哄闹取笑，增加喜庆气氛。<sup>\[泰兴\]</sup>  
 1. 【[闹新娘房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_xien_nian_fan.md#闹新娘房)】`no6 xien1 nian2 fan2` <sup>[泰州]</sup> 新婚之夜，亲友在新房中逗弄新郎、新娘，喧闹逗乐：他的几个老同学～闹到十一点才走。  
-1. 【[闹笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_xio.md#闹笑)】`no6 xio5` <small>/lɔ6 ɕiɔ5/<sup>兴化</sup></small> ① 开玩笑<sup>\[兴化\]</sup>：跟你～，覅当真。也说“闹玩笑”。<sup>\[兴化\]</sup> ② 相互嬉戏逗乐<sup>\[泰州\]</sup>：人家是跟你～的，你当真就不好唻。<sup>\[泰州\]</sup>  
+1. 【[闹笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_xio.md#闹笑)】`no6 xio5` <small>/lɔ6 ɕiɔ5/<sup>兴化</sup>, /nɔ1 ɕiɔ5/<sup>泰兴</sup></small> ① 开玩笑<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：跟你～，覅当真。也说“闹玩笑”。<sup>\[兴化\]</sup> ② 相互嬉戏逗乐<sup>\[泰州\]</sup>：人家是跟你～的，你当真就不好唻。<sup>\[泰州\]</sup>  
+1. 【[闹笑话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_xio_hua.md#闹笑话)】`no6 xio5 hua` <small>/nɔ1 ɕiɔ5 xuɑ/<sup>泰兴</sup></small> 出笑话。因粗心或缺乏知识、经验而出现可笑的错误。<sup>\[泰兴\]</sup>  
 1. 【[𩯆骚胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_so_hv_zz.md#𩯆骚胡子)】`no6 so hv2 zz` <sup>[泰州]</sup> 州人特指男子从下巴、嘴唇连着鬓角的粗硬胡子，络腮胡：他家弟兄几个都是个～，不晓得是遗传的哪个老祖宗的。  
 1. 【[农村](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non_cuen.md#农村)】`non2 cuen1` <sup>[如东]</sup> 以从事农业生产为主的劳动群众聚居的地方。  
 1. 【[农户](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/non_hv.md#农户)】`non2 hv6` <sup>[如东]</sup> 长期从事农业生产的人家。  
