@@ -2074,7 +2074,7 @@
 1. 【[摝起来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_qi_lae.md#摝起来)】`loh8 qi lae` <sup>[东台]</sup> 逮捕或拘留。  
 1. 【[摝稻草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_to_co.md#摝稻草)】`loh8 to6 co3` <sup>[东台]</sup> 喻指捞政治资本。  
 1. 【[漉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh.md#漉)】`loh8` <small>/lɔʔ8/<sup>如皋</sup>, /nɔʔ8/<sup>泰县</sup></small> ① 简单地洗汰。<sup>\[如东\]</sup>：把菜放在水里～。<sup>\[如东\]</sup> ② 洗：～个澡、放吖水里～下子。<sup>\[如皋\]</sup> ③ 湿，作词素：湿～～的。<sup>\[如皋\]</sup> ④ 用水浇湿<sup>\[东台\]</sup>：身上太脏吖，～个澡再睡不迟。<sup>\[东台\]</sup> ⑤ 汰洗不认真：下河再～下。<sup>\[泰县\]</sup> ⑥ 洗物之时将物体置于水中简单过滤一下取出<sup>\[泰州\]</sup>：菜我已经洗过啊唻，你下锅炒之前再～咖子。<sup>\[泰州\]</sup>｜我还有两件衣裳～咖子就同你上街去。<sup>\[泰州\]</sup>  
-1. 【[碌碡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_choh.md#碌碡)】`loh8 choh8-7` <sup>[东台]</sup> 碾谷物、压实场地的石磙。上面有平行的棱和槽。  
+1. 【[碌碡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_choh.md#碌碡)】`loh8 choh8` <small>/lɔʔ8 t͡sʰɔʔ8/<sup>泰兴</sup></small> 碾谷物、压实场地的石磙。上面有平行的棱和槽。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[碌郭碌郭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_guah_loh_guah.md#碌郭碌郭)】`loh8 guah7 loh8 guah` <sup>[如东]</sup> 眼睛一翻一翻的样子：小兰站吖在那许，眼睛～的。  
 1. 【[碌碌翻天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_loh_faen_tin.md#碌碌翻天)】`loh8 loh8 faen1 tin1` <sup>[如东]</sup> 乱打乱斗，十分厉害：闹啊～。  
 1. 【[碌碡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_toh.md#碌碡)】`loh8 toh8-7` <sup>[兴化]</sup> 圆筒形石磙，上有纵向沟槽，是碾压谷草脱粒或平整场地的农具。  

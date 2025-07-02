@@ -1383,20 +1383,23 @@
 1. 【[堡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#堡)】`bo3` <sup>[东台]</sup> 围有土墙的村镇，泛指村落，多用于地名：仇～；郭～。  
 1. 【[宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#宝)】`bo3` <sup>[东台]</sup> 加在某些名词或动词语词后构成名词，带有讽刺意味：来尿～儿；现世～；哭～儿。  
 1. 【[宝贝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_bei.md#宝贝)】`bo3 bei` <sup>[东台]</sup> ① 爱惜、珍视：他的脚踏车～煞咖，擦得闪亮。 ② 所珍爱的物品。  
+1. 【[宝贝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_bei.md#宝贝)】`bo3 bei` <small>/pɔ3 pəɪ/<sup>泰兴</sup></small> ① 珍奇的宝物<sup>\[泰兴\]</sup> ② 对亲爱者的昵称<sup>\[泰兴\]</sup> ③ 爱惜、珍视<sup>\[泰兴\]</sup>：箇个杲子多得很，不要～<sup>\[泰兴\]</sup>  
 1. 【[宝贝疙瘩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_bei_geh_daeh.md#宝贝疙瘩)】`bo3 bei geh7 daeh` <sup>[兴化]</sup> （喻）形容受宠爱的孩子：“……大老爹不放心的是我家的～姑娘啊！”（《皮五辣子》一）  
-1. 【[宝宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_bo.md#宝宝)】`bo3 bo` <sup>[泰州]</sup> 对小儿的昵称。  
+1. 【[宝宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_bo.md#宝宝)】`bo3 bo` <small>/pɔ3 pɔ/<sup>泰兴</sup></small> 对小儿的昵称。<sup>\[泰州\]</sup><sup>\[泰兴\]</sup>  
 1. 【[宝宝脾气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_bo_pi_qi.md#宝宝脾气)】`bo3 bo pi2 qi` <sup>[兴化]</sup> 像孩子似的性情：刘庭一吓，晓得姑奶奶是～，要是再喊不送，作兴他把口刀抽出来同我共刀……（扬一《扬州劫法场》）  
 1. 【[宝宝人<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_bo_ren_r.md#宝宝人<sub>儿</sub>)】`bo3 bo ren2 r` <sup>[兴化]</sup> ① 用碎布、石膏或泥土等制成的玩偶。 ② 图画或剪纸的小人像：姐弟两个把纸一层一层折起来，剪个～……（兴文《人的由来》）  
 1. 【[宝宝话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_bo_hua.md#宝宝话)】`bo3 bo3 hua6` <sup>[如皋]</sup> 小孩子的话  
-1. 【[宝宝脾家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_bo_pi_jia.md#宝宝脾家)】`bo3 bo3 pi2 jia1` <sup>[泰州]</sup> 小孩脾气：你这吖大的人唻，～还改不掉。  
+1. 【[宝宝脾家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_bo_pi_jia.md#宝宝脾家)】`bo3 bo3 pi2 jia1` <small>/pɔ3 pɔ3 pʰʝ2 t͡ɕiɑ1/<sup>泰兴</sup></small> 小孩脾气<sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：你这吖大的人唻，～还改不掉。<sup>\[泰州\]</sup>  
 1. 【[宝宝人<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_bo_ren_r.md#宝宝人<sub>儿</sub>)】`bo3 bo3 ren2 r` <sup>[泰州]</sup> 书籍等印刷品插图里的人物：你哿晓得书上印的这个～是甚的人？  
 1. 【[宝盖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_gae.md#宝盖)】`bo3 gae5` <sup>[如东]</sup> 棉花果子的外壳。  
-1. 【[宝盖头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_gae_teu.md#宝盖头)】`bo3 gae5 teu2` <sup>[兴化]</sup> 汉字部首，形状是“宀”。  
+1. 【[宝盖头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_gae_teu.md#宝盖头)】`bo3 gae5 teu2` <small>/pɔ3 kɛ5 tʰɤ2/<sup>兴化</sup>, /pɔ3 kɛ5 tʰəɪ2/<sup>泰兴</sup></small> 汉字部首，形状是“宀”。<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>  
 1. 【[宝盖头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_gae_teu_r.md#宝盖头<sub>儿</sub>)】`bo3 gae5 teu2 r` <sup>[如皋]</sup> 宝盖儿（宀）：宝，家，宿。  
+1. 【[宝货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_hu.md#宝货)】`bo3 hu5` <small>/pɔ3 xɤɯ5/<sup>泰兴</sup></small> 犹活宝、宝贝。对可鄙可笑者的蔑称。<sup>\[泰兴\]</sup>  
 1. 【[宝龙灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_lon_den.md#宝龙灯)】`bo3 lon2 den1` <sup>[东台]</sup> ① 宝贝的孩子。 ② 反语，指没有出息的人：他家里就这吖一个～，扶不上轿，搁不上墙。  
 1. 【[宝乔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_qio.md#宝乔)】`bo3 qio` <sup>[兴化]</sup> 自认为非常珍贵的东西：他买啊一台二手电脑，像个～，旁人碰不得。  
 1. 【[宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_r.md#宝<sub>儿</sub>)】`bo3 r` <sup>[如皋]</sup> 小孩的人称后缀，有名词化作用。序称：大～、二～、细～；指称：伤食～；爱称：压～、和～、祥～；贬称：赌稽～、偷～、好吃～、学舌～、哭～、赖学～；语：拿～。  
 1. 【[宝塔菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_taeh_cae.md#宝塔菜)】`bo3 taeh7 cae5` <small>/pɔ3 tʰæʔ7 t͡sʰɛ5/<sup>兴化</sup>, /pɔ3 tʰeʔ7 t͡sʰɛ5/<sup>如皋</sup></small> ① 甘露子即蜗螺儿菜。<sup>\[如皋\]</sup> ② 宝塔菜。<sup>\[如皋\]</sup> ③ 草石蚕，唇形科，多年生草本。<sup>\[兴化\]</sup> ④ 特指用这种植物的块茎腌制的酱菜。也称“螺丝菜”。<sup>\[兴化\]</sup>  
+1. 【[宝塔湾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_taeh_vaen.md#宝塔湾)】`bo3 taeh7 vaen1` <small>/pɔ3 tʰæʔ7 ʋɛ̃1/<sup>泰兴</sup></small> 地名，位于县城西侧。建有庆云寺，为江北著名风景区。<sup>\[泰兴\]</sup>  
 1. 【[宝塔猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_taeh_zhv.md#宝塔猪)】`bo3 taeh7 zhv1` <sup>[泰县]</sup> 一个圈中行大中小三类猪。  
 1. 【[饱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#饱)】`bo3` <small>/pɔ3/<sup>兴化</sup>, /pɔ3/<sup>如皋</sup></small> ① 秤的称量足<sup>\[如皋\]</sup>：称得～～的。<sup>\[如皋\]</sup> ② 起<sup>\[如皋\]</sup>：～起来啊。<sup>\[如皋\]</sup> ③ 胃中气<sup>\[如皋\]</sup>：䬵～。<sup>\[如皋\]</sup> ④ 籽粒饱满。<sup>\[如皋\]</sup> ⑤ 因超过忍受限度而反感<sup>\[兴化\]</sup>：……·他是）出名的花花公子，人称徐大少。说句不好听的话，郑板桥看到这种人就～了。（《郑板桥说·玉盎金盆徒自望》）<sup>\[兴化\]</sup> ⑥ 泛指充分满足<sup>\[泰州\]</sup>：捱他气～啊。<sup>\[泰州\]</sup> ⑦ 豆类植物的荚饱满<sup>\[泰州\]</sup>：才上市的蚕豆儿嫩是嫩，就是不曾长得˜。<sup>\[泰州\]</sup> ⑧ 皮球、轮胎之类物体充气很满<sup>\[泰州\]</sup>：脚踏车的后盘～啊，不能再打气啊。<sup>\[泰州\]</sup>  
 1. 【[饱啊饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_a_faen.md#饱啊饭)】`bo3 a faen6` <sup>[如皋]</sup> ① 康复到饭量正常了。 ② 见“上吖食”。  

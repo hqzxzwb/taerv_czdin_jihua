@@ -1767,6 +1767,7 @@
 1. 【[牡丹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_daen.md#牡丹)】`mu3 daen1` <sup>[如东]</sup> 毛茛科植物牡丹。  
 1. 【[牡蛎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_li.md#牡蛎)】`mu3 li6` <sup>[如东]</sup> 牡蛎科动物近江牡蛎。  
 1. 【[牡牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_ngeu.md#牡牛)】`mu3 ngeu2` <sup>[如东]</sup> 公牛。  
+1. 【[𣳠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu.md#𣳠)】`mu3` 泡沫，很多小气泡聚集在一起  
 1. 【[𣳠花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_hua.md#𣳠花)】`mu3 hua1` <sup>[如东]</sup> 浮在液体表面上的泡沫。  
 1. 【[磨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu.md#磨)】`mu6` <small>/mo6/<sup>兴化</sup>, /mʊ1/<sup>如皋</sup></small> ① 旋转。<sup>\[如东\]</sup>：～动。<sup>\[如东\]</sup> ② 移动。<sup>\[如东\]</sup>：你把水缸～下子。<sup>\[如东\]</sup> ③ 将笨重物体稍许倾斜，然后摆动移位<sup>\[如皋\]</sup>：把水缸～啊里头去点儿。<sup>\[如皋\]</sup> ④ 移动<sup>\[兴化\]</sup>：把凳子～啊子。<sup>\[兴化\]</sup> ⑤ 扭转<sup>\[兴化\]</sup>：他掏了一个小钱，往柜台面前的钱筒子里一甩……然后身子一～……（《皮五辣子》二）<sup>\[兴化\]</sup> ⑥ 暂借<sup>\[兴化\]</sup>：～钱交学费。<sup>\[兴化\]</sup> ⑦ 砌<sup>\[兴化\]</sup>：～土墼墙。<sup>\[兴化\]</sup>  
 1. 【[磨齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_chr.md#磨齿)】`mu6 chr3` <sup>[如皋]</sup> 上下磨片间边环部辐棱。上片逆时针运转时辐棱不断把磨料向外输送并磨碎。每条辐棱的横断面若锯齿，有“眠”和“陡”之分。过眠则磨不碎，过陡则磨不动或上片跳动不能工作  

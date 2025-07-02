@@ -414,6 +414,7 @@
 1. 【[歪歪理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_vae_li.md#歪歪理)】`vae1 vae1 li3` <sup>[东台]</sup> 没有理而强辩有理的话。  
 1. 【[歪嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_zuei.md#歪嘴)】`vae1 zuei3` <sup>[兴化]</sup> 一种暗示性动作：老头说着，把头掉过来，就望着施恩手下的打手～｜你们走唦。（《武松》六）  
 1. 【[歪嘴和尚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_zuei_hu_shan.md#歪嘴和尚)】`vae1 zuei3 hu2 shan` <sup>[兴化]</sup> （讽）常把好事办糟或把好经验学偏的人：他是～念不出真经来。  
+1. 【[歪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_zz.md#歪子)】`vae1 zz` <small>/ʋɛ1 t͡sɿ/<sup>泰兴</sup></small> 河蚌<sup>\[泰兴\]</sup>  
 1. 【[𧒘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_r.md#𧒘<sub>儿</sub>)】`vae1 r` <small>/uɛ1 ɚ/<sup>兴化</sup>, /ʋɛ˞1/<sup>如皋</sup>, /ʋe1 ɚ/<sup>泰县</sup></small> ① 贝壳 ② 蛤、蚌之壳。<sup>\[如皋\]</sup> ③ 蛼螯壳儿。<sup>\[如东\]</sup> ④ 贝壳，贝类动物的外壳。<sup>\[东台\]</sup> ⑤ 河蚌，俗名“河𧒘”。<sup>\[兴化\]</sup> ⑥ 河蚌。<sup>\[泰县\]</sup>  
 1. 【[𧒘<sub>儿</sub>墩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_r_den.md#𧒘<sub>儿</sub>墩)】`vae1 r den1` <sup>[如东]</sup> 𧒘儿壳堆积起来的墩儿。  
 1. 【[𧒘<sub>儿</sub>灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_r_den.md#𧒘<sub>儿</sub>灯)】`vae1 r den1` <small>/ʋɛ˞1 təŋ1/<sup>如皋</sup></small> ① 旧时，阴历七月三十，如皋南门外地藏庙兴灯会。自县衙前到庙门前，一条南大街两侧商家点地灯，相接成龙，又称～。<sup>\[如皋\]</sup> ② 一种民俗。人死后，用两只𧒘儿壳盛油，放一根灯草，点亮，搁在死者的头边和脚边，表示照亮行走的道路。<sup>\[如东\]</sup>  

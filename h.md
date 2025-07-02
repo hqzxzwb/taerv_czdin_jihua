@@ -1132,20 +1132,23 @@
 1. 【[河浜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_ban.md#河浜)】`hu2 ban1` <small>/xo2 paŋ1/<sup>兴化</sup></small> ① 河道 ② 河坡。此处生长的芦柴杂草统称为～草。（浜本指小河，东台人将河岸到河水之间称为～）<sup>\[东台\]</sup> ③ 河边<sup>\[兴化\]</sup>：小船离开～，划向河心去了。<sup>\[兴化\]</sup> ④ 小河小沟<sup>\[兴化\]</sup>：在～里捞渣肥。<sup>\[兴化\]</sup>  
 1. 【[河边口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_bin_keu.md#河边口)】`hu2 bin1 keu3` <small>/xo2 piɪ̃1 kʰɤ3/<sup>兴化</sup></small> ① 靠近河流的地方<sup>\[兴化\]</sup>：一到夏天，许多伢儿在～玩。<sup>\[兴化\]</sup> ② 河畔及附近地方。<sup>\[泰州\]</sup>  
 1. 【[河边无青草，不养多嘴牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_bin_v_qien.md#河边无青草，不养多嘴牛)】`hu2 bin1 v2 qien1 co3 beh7 ian3 du1 jy3 ngeu2` <sup>[如皋]</sup> 观棋不语。  
+1. 【[河豚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_den.md#河豚)】`hu2 den` <small>/xɤɯ2 təŋ/<sup>泰兴</sup></small> 鱼名。肉味鲜美，为名贵鱼种。西乡江中有出产。其肝脏、生殖腺及血液有剧毒，经处理后可作美味。<sup>\[泰兴\]</sup>  
 1. 【[河底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_di.md#河底)】`hu2 di3` <sup>[如东]</sup> 河流两岸之间储水的部分。也称河槽、河床。  
 1. 【[河底朝天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_di_cho_tin.md#河底朝天)】`hu2 di3 cho2 tin1` <sup>[如东]</sup> 河底干涸。  
 1. 【[河底<sub>儿</sub>朝天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_di_r_cho.md#河底<sub>儿</sub>朝天)】`hu2 di3 r cho2 tin1` <sup>[如皋]</sup> 河水干涸、河底裸露。  
 1. 【[河夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_fv.md#河夫)】`hu2 fv1` <sup>[东台]</sup> ① 不懂海性，不能下海的人。 ② 在内河从事渔业的人。  
+1. 【[河工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_gon.md#河工)】`hu2 gon1` <small>/xɤɯ2 kɔŋ1/<sup>泰兴</sup></small> 修统河堤、开浚河道等治水工程<sup>\[泰兴\]</sup>：上～<sup>\[泰兴\]</sup>  
 1. 【[河工粮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_gon_lian.md#河工粮)】`hu2 gon1 lian2` <sup>[东台]</sup> 为挑河的农民增补的粮食。  
 1. 【[河堰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_in.md#河堰)】`hu2 in5` <sup>[东台]</sup> 挖河的泥土堆积而成的圩子。也叫河堤：～上栽啊许多树。东台音hu1 in1。  
 1. 【[河口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_keu.md#河口)】`hu2 keu3` <small>/xo2 kʰɤ3/<sup>兴化</sup>, /xʊ2 kʰei3/<sup>如皋</sup></small> ① 河流的顶端或人口处。<sup>\[如东\]</sup>：小船停吖在～上。<sup>\[如东\]</sup> ② 河沿。即河床上端与陆地相接处。<sup>\[如皋\]</sup> ③ 和湖荡及其他河流交汇处。<sup>\[兴化\]</sup> ④ 河边。<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：你家妈妈下～汏衣裳去啊。<sup>\[泰州\]</sup>  
 1. 【[河坎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_kun.md#河坎)】`hu2 kun3` <sup>[泰州]</sup> 斜坡状河岸。  
 1. 【[河坎<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_kun_r.md#河坎<sub>儿</sub>)】`hu2 kun3 r` <small>/xʊ2 kʰʊ˞3/<sup>如皋</sup>, /xo2 kʰõ3 ɚ/<sup>泰县</sup></small> ① 河坡。<sup>\[如东\]</sup> ② 河床的斜坡。<sup>\[如皋\]</sup> ③ 河坡。<sup>\[泰县\]</sup>  
-1. 【[河坎子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_kun_zz.md#河坎子)】`hu2 kun3 zz` <small>/xo2 kʰũ3 t͡sɿ/<sup>兴化</sup></small> ① 河水与岸之间的地方。<sup>\[东台\]</sup> ② 河边的斜坡地<sup>\[兴化\]</sup>：“……老朽年老力衰，爬不得……”（扬二《圯桥进履》）<sup>\[兴化\]</sup>  
+1. 【[河坎子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_kun_zz.md#河坎子)】`hu2 kun3 zz` <small>/xo2 kʰũ3 t͡sɿ/<sup>兴化</sup>, /xɤɯ2 kʰʊ̃3 t͡sɿ/<sup>泰兴</sup></small> ① 河水与岸之间的地方。<sup>\[东台\]</sup> ② 河边的斜坡地<sup>\[兴化\]</sup>：“……老朽年老力衰，爬不得……”（扬二《圯桥进履》）<sup>\[兴化\]</sup> ③ 成阶梯状或斜坡状的河岸。<sup>\[泰兴\]</sup>  
 1. 【[河落鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_lah_guei.md#河落鬼)】`hu2 lah8 guei3` <small>/xo2 laʔ8 kuəi3/<sup>兴化</sup>, /xʊ2 laʔ8 kuei3/<sup>如皋</sup>, /xo2 nɑʔ8 kuəɪ3/<sup>泰县</sup></small> ① 河中淹死者，迷信者又指其鬼魂。<sup>\[如皋\]</sup> ② 传说人落水而亡变成的鬼。<sup>\[东台\]</sup> ③ 迷信指落水而亡者的鬼魂。<sup>\[兴化\]</sup> ④ 水鬼。<sup>\[泰县\]</sup> ⑤ 迷信特指溺水死亡之人在水中的灵魂。坊间迷信说法，以为河落鬼须找到替身方可重新转世投胎为人，后淹死者是先淹死者的替身。泰州城以北为里下河地区，水网密布，泰州城内亦是河道纵横，二十世纪七十年代以前，城内河流未遭污染，清澈河水就是居民饮用之水，夏天儿童常于河中游泳，多有溺亡事故发生，河落鬼就成为家长恐吓儿童之词。例如<sup>\[泰州\]</sup>：好噢，你瞒住大人下河去游澡，当心捱～拖啊走噢。<sup>\[泰州\]</sup>  
 1. 【[河浪水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_lan_shuei.md#河浪水)】`hu2 lan6 shuei3` <sup>[东台]</sup> 洪水。特指洪泽湖、高宝湖大堤溃决，西水下注。  
 1. 【[河里的泥鳅——翻不起大浪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_lii_dii_ni.md#河里的泥鳅——翻不起大浪)】`hu2 lii dii ni2 qieu1 faen1 beh7 qi3 da6 lan6` <sup>[东台]</sup>   
 1. 【[河里鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_lii_guei.md#河里鬼)】`hu2 lii guei3` <sup>[兴化]</sup> 迷信指落水而亡者的鬼魂。也称“河落鬼”。  
+1. 【[河里沗碌碡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_lii_pan_loh.md#河里沗碌碡)】`hu2 lii pan5 loh8 choh8` <small>/xɤɯ2 ləɪ pʰɑŋ5 lɔʔ8 t͡sʰɔʔ8/<sup>泰兴</sup></small> 喻指不可能出现的事情。<sup>\[泰兴\]</sup>  
 1. 【[河里鱼<sub>儿</sub>乱𪙍嘴，手里无叉不得取](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_lii_y_r.md#河里鱼<sub>儿</sub>乱𪙍嘴，手里无叉不得取)】`hu2 lii y2 r lun6 bah7 jy3 sheu3 lii v2 cha1 beh7 deh7 qy3` <sup>[如皋]</sup> 谑指无筷不好吃饭。  
 1. 【[河摝鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_loh_guei.md#河摝鬼)】`hu2 loh8 guei3` <sup>[如皋]</sup> 见“河落鬼”。  
 1. 【[河螺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_lu_r.md#河螺<sub>儿</sub>)】`hu2 lu1 r` <sup>[如东]</sup> 淡水螺的总称。  
@@ -1155,7 +1158,7 @@
 1. 【[河水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_shuei.md#河水)】`hu2 shuei3` <sup>[如皋]</sup> 河中水。中医称“阳水”。与“阴水”（井水）相对。  
 1. 【[河水煮河鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_shuei_zhv_hu.md#河水煮河鱼)】`hu2 shuei3 zhv3 hu2 y2` <sup>[兴化]</sup> （喻）还是原来的成分，性状没起变化：“……（没有肥料）总不能让田～吧。”（马春阳《姐妹姻缘船迷传》）｜拿清水洗你这身脏衣裳，～，有甚的用？  
 1. 【[河头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_teu.md#河头)】`hu2 teu2` <small>/xo2 tʰɤ2/<sup>兴化</sup>, /xo2 tʰɤɯ3/<sup>泰县</sup></small> ① 河的顶端。<sup>\[如东\]</sup> ② 河边<sup>\[兴化\]</sup>：米行～停满吖买粮和卖粮的船。<sup>\[兴化\]</sup> ③ 河口<sup>\[泰县\]</sup>  
-1. 【[河𧒘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_vae.md#河𧒘)】`hu2 vae1` <small>/xo2 uɛ1/<sup>兴化</sup>, /xʊ2 ʋɛ1/<sup>如皋</sup></small> ① 河蚌<sup>\[兴化\]</sup><sup>\[泰州\]</sup>\[如皋：瓣腮纲。\]\[如东：蚌科动物背角无齿蚌，贝壳2片，具有角突的卵圆形。\]\[东台：软体动物，有两个椭圆形外壳，可以开闭。\] ② 隐称女外阴。<sup>\[如皋\]</sup>  
+1. 【[河𧒘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_vae.md#河𧒘)】`hu2 vae1` <small>/xo2 uɛ1/<sup>兴化</sup>, /xʊ2 ʋɛ1/<sup>如皋</sup>, /xɤɯ2 ʋɛ1/<sup>泰兴</sup></small> ① 河蚌<sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>\[如皋：瓣腮纲。\]\[如东：蚌科动物背角无齿蚌，贝壳2片，具有角突的卵圆形。\]\[东台：软体动物，有两个椭圆形外壳，可以开闭。\] ② 隐称女外阴。<sup>\[如皋\]</sup>  
 1. 【[河𧒘精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_vae_jien.md#河𧒘精)】`hu2 vae1 jien1` <sup>[兴化]</sup> 迎神赛会中的角色，由女角扮演，身后背有一副大“蚌壳”：一出一出的会，到了陈澄家门口……～，荡湖船，吹弹歌舞，笙箫管笛……（扬一《通天河》）  
 1. 【[河𧒘壳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_vae_kah_r.md#河𧒘壳<sub>儿</sub>)】`hu2 vae1 kah7 r` <sup>[如皋]</sup> 蚌壳。  
 1. 【[河𧒘泪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_vae_luei.md#河𧒘泪)】`hu2 vae1 luei6` <sup>[如东]</sup> 蚌科动物背角无齿蚌体内分泌液，也称蚌泪  

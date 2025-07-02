@@ -1031,7 +1031,7 @@
 1. 【[性气慢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_qi_maen.md#性气慢)】`xien5 qi5 maen6` <sup>[如皋]</sup> 比喻人无脾气，不发怒。  
 1. 【[性情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_qien.md#性情)】`xien5 qien2` <sup>[如东]</sup> ① 性格。 ② 心情：～不好  
 1. 【[性水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_shuei.md#性水)】`xien5 shuei3` <sup>[如东]</sup> ① 特点，个性：你要摸清她的～。 ② 食物的品性：冬瓜的～好，病人也可以吃。 ③ 事物发展的规律。  
-1. 【[性子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_zz.md#性子)】`xien5 zz` <sup>[如东]</sup> 性格，脾气：～要放淡点儿。  
+1. 【[性子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_zz.md#性子)】`xien5 zz` <small>/ɕiŋ5 t͡sɿ/<sup>泰兴</sup></small> 性情，脾气。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>：～要放淡点儿。<sup>\[如东\]</sup>  
 1. 【[性子躁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_zz_zo.md#性子躁)】`xien5 zz zo5` <sup>[如东]</sup> 脾气急躁：不能～。  
 1. 【[臖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien.md#臖)】`xien5` <small>/ɕin5/<sup>兴化</sup>, /ɕiəŋ5/<sup>如皋</sup></small> 病痛波及他处\[泰州：生出恶性脓疮后的疼痛感觉，即由脓疮部位放射至其他部位的疼痛感\]\[如皋：由病灶波及\]\[兴化：肿痛波及他处\]：牙子疼～吖骨头里去啊<sup>\[如皋\]</sup>｜手爪儿疼，夹肢窝里～起𣝗子来啊<sup>\[如皋\]</sup>｜大腿丫巴疼得～起𣝗子来。<sup>\[兴化\]</sup>｜牙疼把半脸～吖肿起来。<sup>\[兴化\]</sup>｜屁股上生吖个疖子，大腿根子都～吖疼。<sup>\[泰州\]</sup>  
 1. 【[臖𣝗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_veh.md#臖𣝗)】`xien5 veh8` <sup>[东台]</sup> （腹股沟）淋巴发炎而成的肿块。（臖，《广韵》“许应切，肿起。”）  
