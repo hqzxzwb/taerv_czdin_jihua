@@ -2403,7 +2403,7 @@
 1. 【[芦笆障](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_ba_zhan.md#芦笆障)】`lv2 ba1 zhan5` <sup>[如皋]</sup> 用芦柴茎编成的板状物，作建材。  
 1. 【[芦芭嶂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_ba_zhan.md#芦芭嶂)】`lv2 ba1 zhan5` <sup>[如东]</sup> 芦苇编成的长方形的建筑材料。  
 1. 【[芦呆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_dae_zz.md#芦呆子)】`lv2 dae1 zz` <sup>[兴化]</sup> 兴化芦洲特产西瓜品种，个大、皮厚、迟熟，肉质酥甜。立秋前后上市。  
-1. 【[芦䉬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_fei.md#芦䉬)】`lv2 fei5` <small>/lu2 fəi5/<sup>兴化</sup>, /lu2 fei5/<sup>如皋</sup></small> ① 芦席，用芦苇篾或高粱秆篾编织而成，方形或长方形，用来铺垫或苫盖物资。<sup>\[如东\]</sup> ② 芦席。用芦柴篾编成。<sup>\[如皋\]</sup> ③ 用芦篾编成的席子。䉬，《广韵·废韵》方肺切<sup>\[兴化\]</sup>：芦䉬。<sup>\[兴化\]</sup> ④ 用芦苇编成的方形席子。<sup>\[泰州\]</sup>  
+1. 【[芦䉬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_fei.md#芦䉬)】`lv2 fei5` <small>/lu2 fəi5/<sup>兴化</sup>, /lu2 fei5/<sup>如皋</sup></small> ① 芦席，用芦苇篾或高粱秆篾编织而成，方形或长方形，用来铺垫或苫盖物资。<sup>\[如东\]</sup> ② 芦席。用芦柴篾编成。<sup>\[如皋\]</sup> ③ 用芦篾编成的席子。䉬，《广韵·废韵》方肺切，芦䉬。<sup>\[兴化\]</sup> ④ 用芦苇编成的方形席子。<sup>\[泰州\]</sup>  
 1. 【[芦根](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_gen.md#芦根)】`lv2 gen1` <sup>[如东]</sup> 禾本科植物芦苇根茎。  
 1. 【[芦花鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_hua_ji.md#芦花鸡)】`lv2 hua ji1` <sup>[兴化]</sup> 毛色以深黄为基调，间有白、黑色的鸡。  
 1. 【[芦花鸡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_hua_ji_zz.md#芦花鸡子)】`lv2 hua ji1 zz` <small>/lu2 xuɑ t͡ɕʝ1 t͡sɿ/<sup>泰兴</sup></small> 一种良种鸡，毛色若芦花，故名。<sup>\[泰兴\]</sup>  

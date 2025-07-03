@@ -881,7 +881,7 @@
 1. 【[新年大头的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_nin_da_teu.md#新年大头的)】`xien1 nin2 da6 teu2 dii` <sup>[如皋]</sup> 指春节间及刚过春节。  
 1. 【[新年头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_nin_teu.md#新年头)】`xien1 nin2 teu2` <sup>[泰州]</sup> 农历正月开头几天，一般指正月初一至正月十八期间：～里，你俫伢儿望见人要恭喜人。  
 1. 【[新年头里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_nin_teu_lii.md#新年头里)】`xien1 nin2 teu2 lii` <small>/ɕin1 liɪ̃2 tʰɤ2 ləi/<sup>兴化</sup></small> ① 春节期间。此时有许多规矩、禁忌，要说恭维话、发财话、长寿话，不说不吉利的话。例如，恭禧发财。<sup>\[如东\]</sup> ② 正月初的几天<sup>\[兴化\]</sup>：～说话要图吉利。<sup>\[兴化\]</sup> ③ 指农历正月初一至初十这段时间。在此期间，有诸如不骂人、不说不吉利话等禁忌<sup>\[泰州\]</sup>：～的，你说这些话哿顺遂啊！<sup>\[泰州\]</sup>  
-1. 【[新亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_qien.md#新亲)】`xien1 qien1` <small>/ɕin1 t͡ɕʰin1/<sup>兴化</sup>, /ɕiəŋ1 t͡ɕʰiəŋ1/<sup>如皋</sup></small> ① 新结亲而建立的亲戚关系。<sup>\[如皋\]</sup> ② 刚结成的姻亲<sup>\[兴化\]</sup>：刘、吴两家是才结的一门～。<sup>\[兴化\]</sup> ③ 新的亲戚。男女结婚以后，双方直系亲属互为新亲。<sup>\[泰州\]</sup>  
+1. 【[新亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_qien.md#新亲)】`xien1 qien1` <small>/ɕin1 t͡ɕʰin1/<sup>兴化</sup>, /ɕiəŋ1 t͡ɕʰiəŋ1/<sup>如皋</sup></small> 新结亲而建立的亲戚关系。<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：刘、吴两家是才结的一门～。<sup>\[兴化\]</sup>  
 1. 【[新净](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_qien.md#新净)】`xien1 qien6` <sup>[如皋]</sup> 新鲜。  
 1. 【[新净事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_qien_shr.md#新净事)】`xien1 qien6 shr` <sup>[如皋]</sup> 新鲜事。  
 1. 【[新上市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_shan_shr.md#新上市)】`xien1 shan6 shr6` <sup>[如皋]</sup> 适时上市的食品。  
@@ -893,7 +893,7 @@
 1. 【[星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien.md#星)】`xien1` <sup>[如皋]</sup> “些xia1”的俗音。这～、那～。  
 1. 【[星露](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_lv.md#星露)】`xien1 lv6` <sup>[如东]</sup> 露水。  
 1. 【[星<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_r.md#星<sub>儿</sub>)】`xien1 r` <sup>[如皋]</sup> 秤星。  
-1. 【[星<sub>儿</sub>撒<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_r_saeh_r.md#星<sub>儿</sub>撒<sub>儿</sub>)】`xien1 r saeh7 r` <sup>[兴化]</sup> 时断时续的零星小雨雪：天上～的，像没得大雨落。也说“星星撒撒”。  
+1. 【[星<sub>儿</sub>撒<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_r_saeh_r.md#星<sub>儿</sub>撒<sub>儿</sub>)】`xien1 r saeh7 r` <sup>[兴化]</sup> 时断时续的零星小雨雪。也说“星星撒撒”：天上～的，像没得大雨落。  
 1. 【[星星撒撒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_xien_saeh_saeh.md#星星撒撒)】`xien1 xien saeh7 saeh7` <sup>[兴化]</sup> 时断时续的零星小雨雪。  
 1. 【[星星点点](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_xien_din_din.md#星星点点)】`xien1 xien1 din3 din3` <sup>[如皋]</sup> 雨滴很稀。  
 1. 【[星星点点的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_xien_din_din.md#星星点点的)】`xien1 xien1 din3 din3 dii` <sup>[如皋]</sup> 散乱而稀疏的：开始落雨的刻儿是～。  
