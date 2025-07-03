@@ -539,7 +539,7 @@
 1. 【[趟浑水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_huen_xy.md#趟浑水)】`tan5 huen2 xy3` <sup>[东台]</sup> ［喻］跟着别人干坏事。  
 1. 【[趟鸭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_ngaeh.md#趟鸭)】`tan5 ngaeh7` <sup>[兴化]</sup> 大批量饲养的鸭子：群鸡～。  
 1. 【[趟趟上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_tan_shan.md#趟趟上)】`tan5 tan5 shan6` <sup>[东台]</sup> 指每个节目或项目都参与的人：昨子的表演他～，来事！  
-1. 【[宕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#宕)】`tan6` <small>/tʰaŋ6/<sup>兴化</sup></small> ① 拖延、搁起<sup>\[兴化\]</sup>：这种事情要抓紧办，千万不能再～。<sup>\[兴化\]</sup> ② 任意花费<sup>\[兴化\]</sup>：这几个钱背不住一～就光吖。<sup>\[兴化\]</sup> ③ 拖延<sup>\[泰州\]</sup>：最近手头有点ㄦ紧，差你的钱再～几天还把你吧。<sup>\[泰州\]</sup>  
+1. 【[宕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#宕)】`tan6` <small>/tʰaŋ6/<sup>兴化</sup>, /tʰɑŋ1/<sup>泰兴</sup></small> ① 拖延、搁起<sup>\[兴化\]</sup>：这种事情要抓紧办，千万不能再～。<sup>\[兴化\]</sup> ② 任意花费<sup>\[兴化\]</sup>：这几个钱背不住一～就光吖。<sup>\[兴化\]</sup> ③ 拖延<sup>\[泰州\]</sup>：最近手头有点ㄦ紧，差你的钱再～几天还把你吧。<sup>\[泰州\]</sup> ④ 拖延；搁置<sup>\[泰兴\]</sup>：～款<sup>\[泰兴\]</sup>  
 1. 【[荡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#荡)】`tan6` <small>/tʰaŋ6/<sup>兴化</sup>, /tʰã1/<sup>如皋</sup>, /tʰɑŋ1/<sup>泰县</sup></small> ① 原是浅湖沼泽，后淤积成陆，但地势低。地名通名中有保留：北～、高阳～。变名有草荡、荡子、荡里。<sup>\[如皋\]</sup> ② 闲逛（原文作“趤”，僻。）<sup>\[如皋\]</sup>：～马路<sup>\[如皋\]</sup>｜从东头～到西头<sup>\[如皋\]</sup> ③ 物体挂在绳上摆来摆去。<sup>\[如东\]</sup>：篮子挂啊绳上～。<sup>\[如东\]</sup> ④ 洗，汰。<sup>\[如东\]</sup>：洗好的碗再～下子。<sup>\[如东\]</sup> ⑤ 闲散懒惰。<sup>\[如东\]</sup>：他一天到晚在家里～。<sup>\[如东\]</sup> ⑥ 摇动；摆动。<sup>\[东台\]</sup> ⑦ 冲洗<sup>\[东台\]</sup>：把茶杯～一下。<sup>\[东台\]</sup> ⑧ 积水洼地，或称浅水湖<sup>\[东台\]</sup>：天鹅～、中～、六～。<sup>\[东台\]</sup> ⑨ 放纵，不检点<sup>\[东台\]</sup>：说话要负责任，不能“没提纲随口～”。<sup>\[东台\]</sup> ⑩ 划船动作<sup>\[兴化\]</sup>：只见有只小船从海面上远远～来……（《水浒后传》三六）<sup>\[兴化\]</sup>｜说着，万二虎猛～几桨，准准与巡逻船擦帮而来。（马春阳《夜袭叹气庙》）<sup>\[兴化\]</sup> ⑪ 将热水在容器间倒来倒去，使变凉<sup>\[兴化\]</sup>：～热茶。<sup>\[兴化\]</sup> ⑫ 将刀斧口在砖石糙面上来回刮，使锋利<sup>\[兴化\]</sup>：～刀。<sup>\[兴化\]</sup> ⑬ 汰<sup>\[泰县\]</sup>：碗洗好啊再～下子。<sup>\[泰县\]</sup> ⑭ 刀斧等在磨刀石、布上来回磨动<sup>\[泰州\]</sup>：这把厨刀有点钝唻，～啊子就好切吤。<sup>\[泰州\]</sup>｜剃头刀在布上～两下子。<sup>\[泰州\]</sup> ⑮ 稍稍碰到<sup>\[泰州\]</sup>：火剪子烧啊红吖，你让啊子，～到就是个泡。<sup>\[泰州\]</sup> ⑯ 摇动容器内的水，洗涤器具（*盪）<sup>\[泰州\]</sup>：把碗～吖子再盛饭。<sup>\[泰州\]</sup>  
 1. 【[荡刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_do.md#荡刀)】`tan6 do1` <sup>[如皋]</sup> 荡磨刀刃。  
 1. 【[荡刀布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_do_bv.md#荡刀布)】`tan6 do1 bv5` <small>/tʰaŋ6 tɔ1 pu5/<sup>兴化</sup>, /tʰã1 tɔ1 pu5/<sup>如皋</sup></small> ① 理发店荡磨剃刀的条状布。<sup>\[如皋\]</sup> ② 悬挂在理发店里，剃头匠用来荡抹剃头刀污垢的厚布。<sup>\[东台\]</sup> ③ 用于摩擦剃刀的帆布条。<sup>\[兴化\]</sup>  
@@ -1074,6 +1074,7 @@
 1. 【[定](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien.md#定)】`tien6` <sup>[如皋]</sup> 针法。用针线粗略连或绗（使两块布品固定住）：补补丁要先～后敲。  
 1. 【[定邦定式的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_ban_tien_sheh.md#定邦定式的)】`tien6 ban1 tien6 sheh7 dii` <sup>[如皋]</sup> 认真地，稳妥地。  
 1. 【[定不准](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_beh_zhuen.md#定不准)】`tien6 beh zhuen3` <sup>[如皋]</sup> 不敢认定、决定。  
+1. 【[定成](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_chen.md#定成)】`tien6 chen2` <small>/tʰiŋ1 t͡sʰəŋ2/<sup>泰兴</sup></small> 纸牌、麻将游戏中只要能得一张牌就能贏的局面。<sup>\[泰兴\]</sup>  
 1. 【[定当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_dan.md#定当)】`tien6 dan5` <small>/tʰiɪ̃6 taŋ5/<sup>兴化</sup></small> ① 妥当<sup>\[兴化\]</sup>：我先去报到，等安排～再接你俫去。<sup>\[兴化\]</sup> ② 处理或者安排确定而又妥当<sup>\[泰州\]</sup>：这桩事他忙吖几个月，还不曾忙吖～哎。<sup>\[泰州\]</sup>  
 1. 【[定法不是法](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_faeh_beh_shr.md#定法不是法)】`tien6 faeh7 beh7 shr6 faeh7` <sup>[兴化]</sup> 指计划不能一成不变：现在～，要随情况变化调整计划。｜“……怎的个招佃，怎的个议租，此时～，你们再听老爷太太的吩咐……”（《儿女英雄传》三三）“定”也说“作”。  
 1. 【[定风旗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_fon_qi.md#定风旗)】`tien6 fon1 qi2` <sup>[如东]</sup> 安装在帆船桅杆顶端的旗帜。它能随着风向旋转观测风向风力。  
@@ -1084,6 +1085,7 @@
 1. 【[定金](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_jien.md#定金)】`tien6 jien1` ① 抵押资金。<sup>\[如东\]</sup> ② 在商业活动中，双方谈妥之后，买方需预支付一定比例费用给卖方，称为“定金”。如买方返回，定金归卖方；若卖方返回，则需双倍返还给买方。<sup>\[泰州\]</sup>  
 1. 【[定力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_lieh.md#定力)】`tien6 lieh8` <small>/tʰiɪ̃6 liɪʔ8/<sup>兴化</sup></small> ① 有自我控制能力，遇事沉得住气<sup>\[兴化\]</sup>：王连方要是有这样的～，何至于落到这步田地（毕飞宇《玉米》）<sup>\[兴化\]</sup> ② 在面对诱惑、突变时表现出的不受干扰、处变不慌的自我控制能力<sup>\[泰州\]</sup>：做领导的人，没得点儿～还行。<sup>\[泰州\]</sup>  
 1. 【[定吖砣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_nga_tu.md#定吖砣)】`tien6 nga tu2` <sup>[东台]</sup> ［喻］没有多大发展空间：我看他考上大专就～，还想考重点大学？  
+1. 【[定眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_ngaen.md#定眼)】`tien6 ngaen` <small>/tʰiŋ1 ŋɛ̃/<sup>泰兴</sup></small> 詈语。骂人视力极差，不找事。<sup>\[泰兴\]</sup>  
 1. 【[定盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_pun.md#定盘)】`tien6 pun2` <sup>[如皋]</sup> 交易谈定，定局。  
 1. 【[定盘星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_pun_xien.md#定盘星)】`tien6 pun2 xien1` <sup>[如皋]</sup> 起点的秤星，重量为0。  
 1. 【[定亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_qien.md#定亲)】`tien6 qien1` <small>/tʰiŋ1 t͡ɕʰiŋ1/<sup>泰县</sup></small> ① 青年男女确定婚姻关系。<sup>\[如东\]</sup> ② 订婚：他是去年～的。<sup>\[泰县\]</sup>  
@@ -1099,6 +1101,7 @@
 1. 【[定心根](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_xien_gen.md#定心根)】`tien6 xien1 gen1` <sup>[如皋]</sup> 主椎根。  
 1. 【[定心丸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_xien_un.md#定心丸)】`tien6 xien1 un2` <small>/tʰiŋ1 ɕiŋ1 ʊ̃2/<sup>泰兴</sup></small> 比喻能使思想、情绪安定下来的言论或行动。<sup>\[如东\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：县长这吖表态，我俫就吃咖～吖啦。<sup>\[如东\]</sup>｜校长同他这格局一说，老陈才吃咖～。<sup>\[泰州\]</sup>  
 1. 【[定找<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_zho_r.md#定找<sub>儿</sub>)】`tien6 zho3 r` <small>/tʰiəŋ1 t͡sɔ˞3/<sup>如皋</sup></small> ① 故意，有意。也说“定倒儿”。<sup>\[如皋\]</sup> ② 故意：他是～打的，不是不详意。<sup>\[如皋\]</sup>  
+1. 【[定庄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_zhuan.md#定庄)】`tien6 zhuan1` <small>/tʰiŋ1 t͡suɑŋ1/<sup>泰兴</sup></small> 牌戏中的术语。谓如赢可得底数一倍或数倍的钱款，如输则必须付出一倍或数倍的钱款。<sup>\[泰兴\]</sup>  
 1. 【[定珠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_zhv.md#定珠)】`tien6 zhv1` <sup>[兴化]</sup> 以指人死前眼球呆滞无光：眼睛～啊。  
 1. 【[定做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_zu.md#定做)】`tien6 zu5` <small>/tʰiɪ̃6 t͡so5/<sup>兴化</sup></small> ① 为特定的顾客或预订者制作的产品<sup>\[兴化\]</sup>：这套西装是为老陈～的。<sup>\[兴化\]</sup> ② 商家按照客户要求专门制作商品<sup>\[泰州\]</sup>：他家装修的木门都是在木器厂～的。<sup>\[泰州\]</sup>  
 1. 【[帖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_zz.md#帖子)】`tih7 zz` <sup>[东台]</sup> ① 类似于今天的请柬。 ② 男女双方通婚用红纸互换生辰八字，叫“换～”。  
@@ -1484,7 +1487,8 @@
 1. 【[斢戗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_qian.md#斢戗)】`tio3 qian5` <sup>[如皋]</sup> ① 通常指调整船帆的方向以接受风力。词典作“……弶” ② 处事中为适应新情势随时调正原有立场。  
 1. 【[斢生意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_shen_i.md#斢生意)】`tio3 shen1 i` <sup>[如皋]</sup> 照顾、光顾生意。使对方获得生意。  
 1. 【[誂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio.md#誂)】`tio3` <sup>[泰州]</sup> 以言语挑动、离间他人：就是这个马马儿～得人家婆媳两个不和。  
-1. 【[誂祸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_hu.md#誂祸)】`tio3 hu6` <small>/tʰiɔ3 xʊ1/<sup>如皋</sup></small> ① 告诉，使受罚。<sup>\[如皋\]</sup> ② 背后说人坏话。<sup>\[如东\]</sup>：她又在～。<sup>\[如东\]</sup>  
+1. 【[誂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio.md#誂)】`tio3` <small>/tʰiɔ3/<sup>泰兴</sup></small> 逗引，诱惑。<sup>\[泰兴\]</sup>  
+1. 【[誂祸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_hu.md#誂祸)】`tio3 hu6` <small>/tʰiɔ3 xʊ1/<sup>如皋</sup>, /tʰiɔ3 xɤɯ1/<sup>泰兴</sup></small> ① 告诉，使受罚。<sup>\[如皋\]</sup> ② 背后说人坏话。<sup>\[如东\]</sup>：她又在～。<sup>\[如东\]</sup> ③ 制造矛盾。<sup>\[泰兴\]</sup>  
 1. 【[誂祸精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_hu_jien.md#誂祸精)】`tio3 hu6 jien1` <small>/tʰiɔ3 xʊ1 t͡ɕiəŋ1/<sup>如皋</sup></small> ① 詈语。专会誂祸的人。<sup>\[如皋\]</sup> ② 专门搬弄是非的人。<sup>\[东台\]</sup> ③ 喜欢在别人面前说人过错而挑拨别人关系的人。<sup>\[泰州\]</sup>  
 1. 【[粜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio.md#粜)】`tio5` <sup>[如东]</sup> 出卖。给：～你一笔生意。  
 1. 【[跳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio.md#跳)】`tio5` <small>/tʰiɔ5/<sup>兴化</sup>, /tʰiɔ5/<sup>如皋</sup></small> ① 一种烹调法，略炒，快炒：把韭菜～下子。<sup>\[如皋\]</sup> ② （借）活动<sup>\[兴化\]</sup>：家里一大摊的事，就靠老大一个人～。<sup>\[兴化\]</sup>｜没得资金，你有再大的本领也～不起来。<sup>\[兴化\]</sup>  

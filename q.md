@@ -272,6 +272,7 @@
 1. 【[笡头打架——硬上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_teu_da_jia.md#笡头打架——硬上)】`qia1 teu2 da3 jia5 ngen6 shan6` <sup>[东台]</sup>   
 1. 【[笡头沰烧饼——𧺕沰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_teu_dah_sho.md#笡头沰烧饼——𧺕沰)】`qia1 teu2 dah7 sho1 bien3 shah8 dah7` <sup>[东台]</sup>   
 1. 【[强住咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_chuh_ga.md#强住咖)】`qia2 chuh ga` <sup>[如皋]</sup> 强制着、逼迫着：小家伙不用心，要～他做作业。  
+1. 【[强意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_i.md#强意)】`qia2 i` <small>/t͡ɕʰiɑ2 ʝ/<sup>泰兴</sup></small> 以为；预料中的。不～，没有想到。<sup>\[泰兴\]</sup>  
 1. 【[强意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_i.md#强意)】`qia2 i5` <sup>[如皋]</sup> 在意、留神、注意：你哿～他来啊？不曾～。不～他死得这吖早。  
 1. 【[强如](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_rv.md#强如)】`qia2 rv` <sup>[如皋]</sup> 见“煞如”。  
 1. 【[强如](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_rv.md#强如)】`qia2 rv2` <small>/t͡ɕʰia2 ɻu2/<sup>如皋</sup>, /t͡ɕʰia2 ɻu2/<sup>泰县</sup></small> ① 作为是、假定是、等于是<sup>\[如皋\]</sup>：把伢儿吃吧，～我吃咖。<sup>\[如皋\]</sup> ② 就当，好像<sup>\[泰县\]</sup>：这事你不要老计较，～不晓得。<sup>\[泰县\]</sup> ③ 权且当作，退一步就算是的意思<sup>\[东台\]</sup>：今朝多走啊几十里冤枉路，～坐车旅游吧。<sup>\[东台\]</sup>  
@@ -1158,6 +1159,7 @@
 1. 【[净打净夯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_da_qien_han.md#净打净夯)】`qien6 da3 qien6 han1` <sup>[如东]</sup> 去除虚数，全部是实货。比喻纯收入：～一百元。  
 1. 【[净得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_deh.md#净得)】`qien6 deh7` 剔除所有开支后实际获得的纯利<sup>\[泰州\]</sup>：他在这个厂有股，一年至少～二十万。<sup>\[泰州\]</sup>  
 1. 【[净落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_lah.md#净落)】`qien6 lah8` <sup>[兴化]</sup> 除去开支实际所得：这笔交易，他～两万多块。｜每学期收了学杂费，全都归他处理。除了开销……他～多少，谁也不知道。（汪曾祺《星期天》）  
+1. 【[净落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_lah.md#净落)】`qien6 lah8` <small>/t͡ɕʰiŋ1 lɑʔ8/<sup>泰兴</sup></small> 纯利润；净利。单纯地得到。<sup>\[泰兴\]</sup>  
 1. 【[净盘将军](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_pun_jian_jyen.md#净盘将军)】`qien6 pun2 jian1 jyen1` <sup>[泰州]</sup> 对贪吃者的戏称：这小碗是～，一碗红烧肉上吖桌，他同你连汤带水全部下肚。  
 1. 【[净身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_shen.md#净身)】`qien6 shen1` <small>/t͡ɕʰin6 sən1/<sup>兴化</sup></small> ① 为临终的人洗擦身体<sup>\[兴化\]</sup>：眼见他颜色渐渐不行，急忙替他～，穿好衣服。<sup>\[兴化\]</sup> ② 洗澡的贬义说法。<sup>\[兴化\]</sup> ③ 除了随身穿的衣物之外，什么都没有带<sup>\[泰州\]</sup>：～出户。<sup>\[泰州\]</sup>  
 1. 【[净堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_tan.md#净堂)】`qien6 tan` <sup>[如东]</sup> 原来：～是这吖的。  

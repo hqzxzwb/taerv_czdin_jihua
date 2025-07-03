@@ -509,6 +509,7 @@
 1. 【[削水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiah_shuei.md#削水)】`xiah7 shuei3` <small>/ɕiaʔ7 suei3/<sup>如皋</sup></small> ① 屋面坡度。<sup>\[如皋\]</sup> ② 屋面流过雨水的能力、速度。<sup>\[如皋\]</sup> ③ 倒掉一些水。<sup>\[如东\]</sup>：把碗口仄过来～。<sup>\[如东\]</sup> ④ 屋面坡度，表示排水能力。<sup>\[如东\]</sup>：～快。<sup>\[如东\]</sup>  
 1. 【[削子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiah_zz.md#削子)】`xiah7 zz` <sup>[兴化]</sup> （讽）专找借口沾光或吃白食的人：他是～，哪块有事他就跳啊去吃白大。  
 1. 【[学费](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiah_fei.md#学费)】`xiah8 fei5` <sup>[如东]</sup> ① 学校规定的学生在校学习应缴纳的费用。 ② 个人求学的费用。  
+1. 【[学费](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiah_fei.md#学费)】`xiah8 fei5` <small>/ɕiɑʔ8 fəɪ5/<sup>泰兴</sup></small> 学生上学应缴的贵用。<sup>\[泰兴\]</sup>  
 1. 【[学狗爬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiah_geu_pa.md#学狗爬)】`xiah8 geu3 pa2` <sup>[泰州]</sup> 比喻不惜一切代价：不管多难，哪怕你～，三个月也要学会。  
 1. 【[学乖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiah_guae.md#学乖)】`xiah8 guae1` ① 学习他人经验<sup>\[泰州\]</sup>：安排你同老李去谈这笔生意，明白啊是让你跟吖老李后头～。<sup>\[泰州\]</sup> ② 学徒，在商店里学做买卖或者在作坊里学习技术<sup>\[泰州\]</sup>：你家爹爹十五岁就在人家澡堂子里～唻。<sup>\[泰州\]</sup>  
 1. 【[学馆钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiah_gun_qin.md#学馆钱)】`xiah8 gun qin2` <sup>[兴化]</sup> ① 旧时学生付给塾师的脩金。 ② 老辈口中的学费。  
@@ -524,7 +525,7 @@
 1. 【[学生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiah_shen.md#学生)】`xiah8 shen` <sup>[如东]</sup> ① 在学校读书的人。 ② 传授知识或技术的对象。  
 1. 【[学生意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiah_shen_i.md#学生意)】`xiah8 shen1 i` <small>/ɕiaʔ8 sən1 i/<sup>兴化</sup></small> ① 做学徒。<sup>\[东台\]</sup> ② 旧称在商店学徒<sup>\[兴化\]</sup>：他年纪不过三十多岁……教书没人要他，～又嫌岁数大，不中用了。（《老残游记》一）<sup>\[兴化\]</sup>｜“先生”以下，是～的。（汪曾祺《异秉》）<sup>\[兴化\]</sup>  
 1. 【[学士尺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiah_shr_cheh.md#学士尺)】`xiah8 shr6 cheh7` <sup>[如皋]</sup> 学生用的尺。  
-1. 【[学堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiah_tan.md#学堂)】`xiah8 tan2` ① 学校 ② 旧称学校为学堂。<sup>\[如东\]</sup> ③ 学校<sup>\[泰州\]</sup>：上～。<sup>\[泰州\]</sup>  
+1. 【[学堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiah_tan.md#学堂)】`xiah8 tan2` <small>/ɕiɑʔ8 tʰɑŋ2/<sup>泰兴</sup></small> ① 学校 ② 旧称学校为学堂。<sup>\[如东\]</sup> ③ 学校<sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：上～。<sup>\[泰州\]</sup>  
 1. 【[学位](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiah_vei.md#学位)】`xiah8 vei6` <sup>[如东]</sup> 某些国家根据专业学术水平而授予的称号，如博士、硕土等。  
 1. 【[学问](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiah_ven.md#学问)】`xiah8 ven6` <sup>[如东]</sup> ① 正确反映客观事物的系统知识。 ② 知识学识：有～。  
 1. 【[学校](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiah_xio.md#学校)】`xiah8 xio6` <sup>[如东]</sup> 专门进行教育的机构。  

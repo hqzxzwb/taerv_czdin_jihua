@@ -397,12 +397,13 @@
 1. 【[学](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hah.md#学)】`hah8` ① 学习 ② 学习，模仿。<sup>\[东台\]</sup>  
 1. 【[学狗爬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hah_geu_pa.md#学狗爬)】`hah8 geu3 pa2` <sup>[兴化]</sup> （喻）不能直立行走：“……他若言语支吾，我就将这秃驴打得～。”（《八窍珠》四）  
 1. 【[学乖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hah_guae.md#学乖)】`hah8 guae1` <small>/xaʔ8 kuɛ1/<sup>兴化</sup>, /xaʔ8 kuɛ1/<sup>如皋</sup></small> ① 学聪明一点儿。<sup>\[如东\]</sup>：你要～点儿。<sup>\[如东\]</sup> ② 接受教训，学习经验。俗说：不做利巴子不～。<sup>\[如皋\]</sup> ③ 吸取教训而学好。<sup>\[东台\]</sup> ④ 学知识、接受教训<sup>\[兴化\]</sup>：大人做事，好好跟吖后头～。<sup>\[兴化\]</sup>｜吃一回苦，学一次乖，不吃苦不～。<sup>\[兴化\]</sup> ⑤ 学徒<sup>\[兴化\]</sup>：～儿的。<sup>\[兴化\]</sup>  
+1. 【[学鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hah_guei.md#学鬼)】`hah8 guei3` <small>/xɑʔ8 kuəɪ3/<sup>泰兴</sup></small> 谓不学好，学坏事。<sup>\[泰兴\]</sup>：人不学～<sup>\[泰兴\]</sup>  
 1. 【[学嘴学舌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hah_jy_hah_shih.md#学嘴学舌)】`hah8 jy3 hah8 shih8` ① 模仿别人的话。<sup>\[东台\]</sup> ② 将听到的闲话转述给别人。<sup>\[泰州\]</sup> ③ 指小孩模仿大人说话，贬义<sup>\[泰州\]</sup>：大人谈正事，你俫小伢儿不要跟吖后栋～的！<sup>\[泰州\]</sup>  
 1. 【[学手艺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hah_sheu_i.md#学手艺)】`hah8 sheu3 i6` <sup>[如东]</sup> 学习技术。  
 1. 【[学手<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hah_sheu_r.md#学手<sub>儿</sub>)】`hah8 sheu3 r` <sup>[如东]</sup> 徒工。  
 1. 【[学舌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hah_shih.md#学舌)】`hah8 shih8` <sup>[如东]</sup> ① 重复别人的话：你就会～。 ② 背后传话：肯定是他～的。  
 1. 【[学舌宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hah_shih_bo.md#学舌宝)】`hah8 shih8 bo3` 学人说话的人，人云亦云的人。  
-1. 【[学嘴学舌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hah_zuei_hah_shih.md#学嘴学舌)】`hah8 zuei3 hah8 shih8` <small>/xaʔ8 t͡suəi3 xaʔ8 siɪʔ8/<sup>兴化</sup></small> ① 学话，传话。<sup>\[如东\]</sup>：不要～的。<sup>\[如东\]</sup> ② 小孩模仿或重复大人说话<sup>\[兴化\]</sup>：小大爷家覅～的。<sup>\[兴化\]</sup>  
+1. 【[学嘴学舌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hah_zuei_hah_shih.md#学嘴学舌)】`hah8 zuei3 hah8 shih8` <small>/xaʔ8 t͡suəi3 xaʔ8 siɪʔ8/<sup>兴化</sup>, /xɑʔ8 t͡suəɪ3 xɑʔ8 ɕiʔ8/<sup>泰兴</sup></small> ① 学话，传话。<sup>\[如东\]</sup>：不要～的。<sup>\[如东\]</sup> ② 小孩模仿或重复大人说话<sup>\[兴化\]</sup>：小大爷家覅～的。<sup>\[兴化\]</sup> ③ 学说别人的话。多指责骂小孩。<sup>\[泰兴\]</sup>  
 1. 【[学子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hah_zz.md#学子)】`hah8 zz` <sup>[如皋]</sup> 回声。与发声相同，如学舌者。  
 1. 【[貉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hah.md#貉)】`hah8` <sup>[东台]</sup> 一种哺乳动物（原文记音hah7）：一丘之～。  
 1. 【[鹤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hah.md#鹤)】`hah8` <sup>[东台]</sup> 头小颈长，脚细而高的鸟。  
@@ -1477,13 +1478,14 @@
 1. 【[画招](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_zho.md#画招)】`hua6 zho1` <small>/xua6 t͡sɔ1/<sup>兴化</sup>, /xua1 t͡sɔ1/<sup>如皋</sup></small> ① 招认并画押。<sup>\[如东\]</sup>：小偷已经～。<sup>\[如东\]</sup> ② 承认错误。<sup>\[如东\]</sup> ③ 招认并画押。今作认错<sup>\[如皋\]</sup>：伢儿软调皮，他惹啊祸，你寻到他，他就～画不及。<sup>\[如皋\]</sup> ④ 旧时，人犯在供状上画十字，表示所供属实<sup>\[兴化\]</sup>：招房飞笔写了口供。边公阅了，发令管九画了招。（《岐路灯》六四）<sup>\[兴化\]</sup> ⑤ 表示承认<sup>\[兴化\]</sup>：“这个，那个……我办了，我办了！”何九吓得连连～。（《武松》二）<sup>\[兴化\]</sup> ⑥ 保证今后不再犯<sup>\[兴化\]</sup>：小孩连忙～<sup>\[兴化\]</sup>｜“下回不咖。”<sup>\[兴化\]</sup>  
 1. 【[话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua.md#话)】`hua6` <sup>[泰县]</sup> 想：我心里～他咋还不曾来的。  
 1. 【[话把<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_ba_r.md#话把<sub>儿</sub>)】`hua6 ba3 r` <sup>[如东]</sup> 口实：不要把～落咖人家嘴里。  
-1. 【[话把子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_ba_zz.md#话把子)】`hua6 ba5 zz` <small>/xua6 pa5 t͡sɿ/<sup>兴化</sup>, /xua1 pa5 t͡sɿ/<sup>如皋</sup></small> ① 后半截话<sup>\[如皋\]</sup>：打你的～啦，我要问你……。<sup>\[如皋\]</sup> ② 话柄，被人当着谈资笑料的言论或行为<sup>\[兴化\]</sup>：这种事做不得，免得一世的～。<sup>\[兴化\]</sup>  
+1. 【[话把子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_ba_zz.md#话把子)】`hua6 ba5 zz` <small>/xua6 pa5 t͡sɿ/<sup>兴化</sup>, /xua1 pa5 t͡sɿ/<sup>如皋</sup>, /xuɑ1 pɑ5 t͡sɿ/<sup>泰兴</sup></small> ① 后半截话<sup>\[如皋\]</sup>：打你的～啦，我要问你……。<sup>\[如皋\]</sup> ② 话柄，被人当着谈资笑料的言论或行为<sup>\[兴化\]</sup>：这种事做不得，免得一世的～。<sup>\[兴化\]</sup> ③ 说话的语气、口吻。<sup>\[泰兴\]</sup>  
 1. 【[话欛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_ba.md#话欛)】`hua6 ba5` <sup>[泰州]</sup> 话柄，指不慎重的言语、行为成为舆论攻击的口实：你为这些小事落个～下来，真的值不得。  
 1. 【[话柄<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_bien_r.md#话柄<sub>儿</sub>)】`hua6 bien5 r` <sup>[如东]</sup> 口实。  
 1. 【[话茬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_cha_r.md#话茬<sub>儿</sub>)】`hua6 cha5 r` <sup>[兴化]</sup> ① 语言中的漏洞。 ② 说话时的停顿处：我接住他的一，把他说咖一遍。  
 1. 【[话长路远](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_chan_lv_iun.md#话长路远)】`hua6 chan2 lv6 iun3` <sup>[如皋]</sup> 叹语。表内容多且久远：提及往事就～吖。  
 1. 【[话音](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_ien.md#话音)】`hua6 ien1` <sup>[泰州]</sup> 说话的语气中透露出的话外之意：听她的话音像是对出书这件事的兴趣不高。  
 1. 【[话口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_keu.md#话口)】`hua6 keu3` <sup>[兴化]</sup> 口气、口风：听他的～像是不同意。  
+1. 【[话口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_keu.md#话口)】`hua6 keu3` <small>/xuɑ1 kʰəɪ3/<sup>泰兴</sup></small> 口气；口风。<sup>\[泰兴\]</sup>：～不小<sup>\[泰兴\]</sup>  
 1. 【[话篓子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_leu_zz.md#话篓子)】`hua6 leu3 zz` <sup>[兴化]</sup> （讽）饶舌的人：你惹上他，等于把～倒下来啊。  
 1. 【[话痨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_lo.md#话痨)】`hua6 lo2` <small>/xua6 lɔ2/<sup>兴化</sup></small> ① （讽）言语过多的人<sup>\[兴化\]</sup>：他一天到晚不住嘴的说，就像得咖～。<sup>\[兴化\]</sup> ② 话多，见人就说个不停的人。<sup>\[泰州\]</sup>  
 1. 【[话语](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_y.md#话语)】`hua6 y3` <sup>[兴化]</sup> ① 反映人们生活经验或愿望的俗语、谚语等：邻居好，赛全宝，这是有的。 ② 话柄：做新女婚时捱捉弄，倒留下～来啊。  
@@ -2039,6 +2041,7 @@
 1. 【[浑笃笃的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_doh_doh_dii.md#浑笃笃的)】`huen2 doh doh7 dii` <sup>[如皋]</sup> 浑浊不清的样子。  
 1. 【[浑笃笃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_doh_doh.md#浑笃笃)】`huen2 doh7 doh7` <sup>[如东]</sup> 浑浊不清：桶里的水～的。  
 1. 【[浑名](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_mien.md#浑名)】`huen2 mien2` <sup>[如东]</sup> 绰号。也称外号。  
+1. 【[浑名](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_mien.md#浑名)】`huen2 mien2` <small>/xuəŋ2 miŋ2/<sup>泰兴</sup></small> 外号，绰号。<sup>\[泰兴\]</sup>  
 1. 【[浑吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_nga.md#浑吖)】`huen2 nga` <small>/xuəŋ2 ŋa/<sup>如皋</sup>, /xuəŋ2 ŋəʔ/<sup>泰县</sup></small> ① 浑浊了。<sup>\[如皋\]</sup> ② 思维混乱，不知所措。常由糊涂、惊吓、忧虑等原因而起。<sup>\[泰县\]</sup><sup>\[如皋\]</sup><sup>\[泰州\]</sup>：证据朝他面前一摆，他就～。<sup>\[泰县\]</sup>｜不要望他现在神气，只要纪委一找他，他就～唻。<sup>\[泰州\]</sup>  
 1. 【[浑球](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_qieu.md#浑球)】`huen2 qieu2` <small>/xuən2 t͡ɕʰiɤ2/<sup>兴化</sup>, /xuəŋ5 t͡ɕʰiɤɯ2/<sup>泰县</sup></small> 詈语，犹糊涂蛋、混蛋<sup>\[兴化\]</sup><sup>\[泰县\]</sup>：这小伙是个～，老婆的相好当吖上宾招待。<sup>\[兴化\]</sup>  
 1. 【[浑身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_shen.md#浑身)】`huen2 shen1` <sup>[如东]</sup> 全身。  

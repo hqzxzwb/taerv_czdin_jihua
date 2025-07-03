@@ -394,6 +394,7 @@
 1. 【[房门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_men.md#房门)】`fan2 men2` <sup>[如东]</sup> 房间的出入处。  
 1. 【[房牙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_nga_zz.md#房牙子)】`fan2 nga2 zz` <sup>[兴化]</sup> 房屋买卖、租赁中介人的旧称。  
 1. 【[房契](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_qi.md#房契)】`fan2 qi5` <sup>[东台]</sup> 买卖房屋时所立的契约。  
+1. 【[房头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_teu.md#房头)】`fan2 teu2` <small>/fɑŋ2 tʰəɪ2/<sup>泰兴</sup></small> 家族分支。<sup>\[泰兴\]</sup>  
 1. 【[房务](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_v.md#房务)】`fan2 v` <sup>[兴化]</sup> 旧称房间里的家具：老黄的儿子结婚，女方陪的全～。  
 1. 【[房子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_zz.md#房子)】`fan2 zz` 房子  
 1. 【[防潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_cho.md#防潮)】`fan2 cho2` <sup>[东台]</sup> 防止潮湿。  

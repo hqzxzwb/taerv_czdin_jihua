@@ -1272,7 +1272,7 @@
 1. 【[肩膊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_bah.md#肩膊)】`jin1 bah7` <sup>[如东]</sup> 人的胳膊和躯干相连的部分，肩膀。  
 1. 【[肩膊眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_bah_ngaen_r.md#肩膊眼<sub>儿</sub>)】`jin1 bah7 ngaen3 r` <sup>[如东]</sup> 肩膀内侧。  
 1. 【[肩膊头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_bah_teu_r.md#肩膊头<sub>儿</sub>)】`jin1 bah7 teu2 r` <sup>[如东]</sup> 肩膀上部外端。  
-1. 【[肩膀拐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_ban_guae_zz.md#肩膀拐子)】`jin1 ban guae3 zz` <small>/t͡ɕiɪ̃1 paŋ kuɛ3 t͡sɿ/<sup>兴化</sup></small> ① 肩头。<sup>\[东台\]</sup> ② 肩头<sup>\[兴化\]</sup>：他用～撞人。<sup>\[兴化\]</sup>｜他～硬吖，不听话啊啦！也作“肩膀头子”。<sup>\[兴化\]</sup>  
+1. 【[肩膀拐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_ban_guae_zz.md#肩膀拐子)】`jin1 ban guae3 zz` <small>/t͡ɕiɪ̃1 paŋ kuɛ3 t͡sɿ/<sup>兴化</sup>, /t͡ɕĩ1 pɑŋ kuɛ3 t͡sɿ/<sup>泰兴</sup></small> 肩头。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>\[兴化：也作“肩膀头子”。\]：他用～撞人。<sup>\[兴化\]</sup>｜他～硬吖，不听话啊啦！<sup>\[兴化\]</sup>  
 1. 【[肩不能挑担，手不能提篮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_beh_nen_tio.md#肩不能挑担，手不能提篮)】`jin1 beh7 nen2 tio1 daen5 sheu3 beh7 nen2 ti2 laen2` <sup>[东台]</sup> 形容从小娇生惯养，缺乏锻炼，不曾参加过体力劳动。  
 1. 【[肩木梢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_moh_sho.md#肩木梢)】`jin1 moh8 sho1` <sup>[兴化]</sup> 见“扛木梢”。  
 1. 【[肩上肩下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_shan_jin_xia.md#肩上肩下)】`jin1 shan6 jin1 xia6` <sup>[东台]</sup> 两相比较，差距不大：我俫这个镇同他俫那个镇，经济总量～。  

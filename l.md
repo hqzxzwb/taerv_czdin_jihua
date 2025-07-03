@@ -673,8 +673,10 @@
 1. 【[郎不郎秀不秀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_beh_lan_xieu.md#郎不郎秀不秀)】`lan2 beh7 lan2 xieu5 beh7 xieu5` <sup>[东台]</sup> 不伦不类的意思。（元朝时称官僚、贵族子弟为“秀”，称平民子弟为“郎”）。  
 1. 【[郎丈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_chan.md#郎丈)】`lan2 chan6` <sup>[兴化]</sup> 女婿和岳父。也称“翁婿”。  
 1. 【[郎当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_dan.md#郎当)】`lan2 dan1` <sup>[如东]</sup> 自由散漫。  
+1. 【[郎当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_dan.md#郎当)】`lan2 dan1` <small>/lɑŋ2 tɑŋ1/<sup>泰兴</sup></small> 生活散漫，工作不负责任。<sup>\[泰兴\]</sup>  
 1. 【[郎中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_zhon.md#郎中)】`lan2 zhon` <sup>[兴化]</sup> 原指中医，今俗指江湖游医：～先生。｜谚曰：急惊风遇到慢～。  
 1. 【[郎中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_zhon.md#郎中)】`lan2 zhon1` <sup>[如东]</sup> 具有某种专业特长的医务人员。  
+1. 【[郎中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_zhon.md#郎中)】`lan2 zhon1` <small>/lɑŋ2 t͡sɔŋ1/<sup>泰兴</sup></small> 称卖药兼治病的人。多游走于街道乡间。<sup>\[泰兴\]</sup>：～不走回头路<sup>\[泰兴\]</sup>  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan.md#□)】`lan3` <sup>[泰州]</sup> 车船行驶迅速的样子：他人上吖小汽车就直～，眼睛一眨就望不见唻。｜你把篷扯起来，顺风顺水的，最多个把小时就～到兴化唻。  
 1. 【[哪吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_nga.md#哪吖)】`lan3 nga` <sup>[如皋]</sup> 怎么，怎么样。“怎吖”的方音。  
 1. 【[塱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan.md#塱)】`lan3` <sup>[如皋]</sup> 疄子：劚咖一～番芋。  
