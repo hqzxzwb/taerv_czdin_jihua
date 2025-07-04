@@ -1212,7 +1212,8 @@
 1. 【[嫌逊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_suen.md#嫌逊)】`xin2 suen5` <sup>[如东]</sup> 质量差，不喜欢：这种东西我～。  
 1. 【[嫌恶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_v.md#嫌恶)】`xin2 v` <sup>[如皋]</sup> 恶嫌，厌恶。  
 1. 【[嫌相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_xian.md#嫌相)】`xin2 xian5` ① 讨嫌的样子<sup>\[东台\]</sup>：你不曾望见他～呢，赖在讲台上不下来。<sup>\[东台\]</sup> ② 令人厌恶的样子<sup>\[泰州\]</sup>：你望她这个～样子噢。<sup>\[泰州\]</sup>  
-1. 【[弦子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_zz.md#弦子)】`xin2 zz` <sup>[东台]</sup> 以乐器的弦子喻指事情的来龙去脉：才将你俫说到这个事情，我想倒一下～。  
+1. 【[弦子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_zz.md#弦子)】`xin2 zz` <sup>[东台]</sup> 喻指事情的来龙去脉：才将你俫说到这个事情，我想倒一下～。  
+1. 【[弦子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_zz.md#弦子)】`xin2 zz` <small>/ɕĩ2 t͡sɿ/<sup>泰兴</sup></small> 弓弦、琴弦等。电灯、电话等电线也称“弦子”。<sup>\[泰兴\]</sup>  
 1. 【[贤德](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_deh.md#贤德)】`xin2 deh7` <sup>[如东]</sup> 德行好，良心善。  
 1. 【[贤惠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_huei.md#贤惠)】`xin2 huei6` ① 一般指妇女心地善良，待人和蔼。<sup>\[如东\]</sup> ② 指妇女心地善良，通情达理<sup>\[东台\]</sup>：他家新妇交关～。<sup>\[东台\]</sup>  
 1. 【[贤愚不等](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_y_beh_den.md#贤愚不等)】`xin2 y2 beh7 den3` <small>/ɕiɪ̃2 y2 pəʔ7 tən3/<sup>兴化</sup></small> ① 人有贤惠、粗野之分，不可能一样通情达理。<sup>\[东台\]</sup> ② 形容人色、人品参差不齐<sup>\[兴化\]</sup>：这吖多人在一块儿，～，好歹高低不同。<sup>\[兴化\]</sup> ③ 特指心术不正的人<sup>\[兴化\]</sup>：一旦有事，个别～的就想浑水摸鱼。<sup>\[兴化\]</sup>  
@@ -1254,7 +1255,7 @@
 1. 【[线刨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_po.md#线刨)】`xin5 po6` <sup>[如东]</sup> 工具。刨㐁狭窄，用以加工木料的线槽。  
 1. 【[线衫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_shaen_zz.md#线衫子)】`xin5 shaen1 zz` <sup>[兴化]</sup> 毛线衣。  
 1. 【[线砣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_tu_zz.md#线砣子)】`xin5 tu2 zz` <sup>[如皋]</sup> 打丝线的一种工具，小黄铜球上有铁丝柄，绕上丝，挂上架，搓转之，以加捻度。一副16枚。每枚重有8钱、1两、1.6两、3两、4两等5种。  
-1. 【[线香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_xian.md#线香)】`xin5 xian1` <small>/ɕĩ5 ɕiã1/<sup>如皋</sup></small> ① 敬神用品中径小若线的一种香。<sup>\[如皋\]</sup> ② 细长的香。<sup>\[东台\]</sup>  
+1. 【[线香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_xian.md#线香)】`xin5 xian1` <small>/ɕĩ5 ɕiã1/<sup>如皋</sup>, /ɕĩ5 ɕiɑŋ1/<sup>泰兴</sup></small> ① 敬神用品中径小若线的一种香。<sup>\[如皋\]</sup> ② 细长的香。<sup>\[东台\]</sup> ③ 用香料屑子做成的细长如线的香。<sup>\[泰兴\]</sup>  
 1. 【[线装书](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_zhuan_shv.md#线装书)】`xin5 zhuan1 shv1` <sup>[如东]</sup> 书籍装订法的一种，装订的线露在书的外面，是我国传统的装订法。  
 1. 【[现报](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_bo.md#现报)】`xin6 bo5` <small>/ɕiɪ̃6 pɔ5/<sup>兴化</sup></small> ① 丢人现眼 ② 当场出丑。<sup>\[如东\]</sup>：你个～，还有脸见人吖。<sup>\[如东\]</sup> ③ 同“现世报”。<sup>\[东台\]</sup> ④ 骂人的话，指上代或自身做坏事、种恶果，得到的报应。<sup>\[兴化\]</sup>  
 1. 【[现在](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_cae.md#现在)】`xin6 cae6` <sup>[兴化]</sup> 刚刚、正在发生的：我～心里烦，你不要再来闹啊。｜～没钱用，你还在外头大吃大喝。  

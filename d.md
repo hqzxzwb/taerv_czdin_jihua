@@ -1100,12 +1100,13 @@
 1. 【[单另](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_lien.md#单另)】`daen1 lien6` <sup>[如皋]</sup> 副词，相当于“单独、另外”：他的费用～开销。  
 1. 【[单另单](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_lien_daen.md#单另单)】`daen1 lien6 daen1` <sup>[兴化]</sup> 单独、个别的：出境旅游要组团行动，～不行。｜陈奶奶一个人～生活，不跟子女在一起。  
 1. 【[单遛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_lieu.md#单遛)】`daen1 lieu1` <sup>[如东]</sup> 一个人在外面游逛。  
+1. 【[单寥寥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_lio_lio.md#单寥寥)】`daen1 lio lio` <small>/tɛ̃1 liɔ liɔ/<sup>泰兴</sup></small> 谓单独的，唯一的，在数量上表示只有一个。<sup>\[泰兴\]</sup>  
 1. 【[单料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_lio.md#单料)】`daen1 lio6` <sup>[兴化]</sup> 指器物的用料比较单薄：这个面盆是～的，轻得很。  
 1. 【[单軂軂的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_lo_lo_dii.md#单軂軂的)】`daen1 lo1 lo1 dii` <sup>[如皋]</sup> 单独地、孤单地。  
 1. 【[单门独户](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_men_toh_hv.md#单门独户)】`daen1 men2 toh8 hv6` <sup>[兴化]</sup> ① 在一片地方居住的唯一人家。 ② 在某地区或村庄无同宗人家：姓莫的在庄上是～的。  
 1. 【[单门独院](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_men_toh_iun.md#单门独院)】`daen1 men2 toh8 iun6` <small>/tɛ̃1 mən2 tʰɔʔ8 yũ6/<sup>兴化</sup>, /tẽ1 məŋ2 tʰɔʔ8 yʊ̃1/<sup>如皋</sup></small> ① 一个院落为一户人家。<sup>\[如皋\]</sup> ② 在一门之内只住一户人家。也说“独门独院”。<sup>\[兴化\]</sup> ③ 拥有独立进出的门且由一个家庭居住的院落。<sup>\[泰州\]</sup>  
 1. 【[单片子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_pin_zz.md#单片子)】`daen1 pin5 zz` <sup>[兴化]</sup> ① 旧指单衫：身上穿吖一件～长袍。 ② （借）单程：兴化到深圳，～就是头两千公里。  
-1. 【[单票子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_pio_zz.md#单票子)】`daen1 pio5 zz` <small>/tɛ̃1 pʰiɔ5 t͡sɿ/<sup>兴化</sup>, /tẽ1 pʰiɔ5 t͡sɿ/<sup>如皋</sup></small> ① 面值小的纸币辅币。<sup>\[如皋\]</sup> ② 零钱、面额小的钞票<sup>\[兴化\]</sup>：身上不曾带～，出门搭公共汽车不顺便。<sup>\[兴化\]</sup>  
+1. 【[单票子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_pio_zz.md#单票子)】`daen1 pio5 zz` <small>/tɛ̃1 pʰiɔ5 t͡sɿ/<sup>兴化</sup>, /tẽ1 pʰiɔ5 t͡sɿ/<sup>如皋</sup>, /tɛ̃1 pʰiɔ5 t͡sɿ/<sup>泰兴</sup></small> ① 面值小的纸币辅币。<sup>\[如皋\]</sup> ② 零钱、面额小的钞票<sup>\[兴化\]</sup>：身上不曾带～，出门搭公共汽车不顺便。<sup>\[兴化\]</sup> ③ 零钱，面额较小的钱币。<sup>\[泰兴\]</sup>  
 1. 【[单泡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_po_zz.md#单泡子)】`daen1 po1 zz` <sup>[如皋]</sup> 单眼皮。  
 1. 【[单墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_qian.md#单墙)】`daen1 qian2` <sup>[如皋]</sup> 单砖墙。一般只作隔墙，不能承重。  
 1. 【[单<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_r.md#单<sub>儿</sub>)】`daen1 r` <sup>[如皋]</sup> 单子：药～、账～。  
@@ -1114,7 +1115,7 @@
 1. 【[单人舍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_ren_sha.md#单人舍)】`daen1 ren2 sha5` <sup>[兴化]</sup> 搭在田间看护庄稼的小屋。  
 1. 【[单身人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_shen_ren.md#单身人)】`daen1 shen ren2` <sup>[兴化]</sup> ① 一人独处，没有或未带眷属：他是～，在食堂带伙食。 ② 未携带重物的行人：“河里昨晚就有人跑，～过河很便当的。”（《老残游记》十六）  
 1. 【[单身人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_shen_ren.md#单身人)】`daen1 shen1 ren2` <sup>[泰州]</sup> 没有娶妻成家的人：他是单身人，一人吃饱，全家不饿。  
-1. 【[单头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_teu.md#单头)】`daen1 teu2` <small>/tɛ̃1 tʰɤ2/<sup>兴化</sup>, /tẽ1 tʰei2/<sup>如皋</sup></small> ① 肥育中的青年猪，在小猪与壮猪之间，体重60-100斤。<sup>\[如皋\]</sup> ② 零头，零碎的。<sup>\[东台\]</sup> ③ 单独的、分的<sup>\[兴化\]</sup>：河下行的全是～小船。<sup>\[兴化\]</sup> ④ 零星、小额的<sup>\[兴化\]</sup>：他从口袋里掏出一把～票子，数半天才三块多钱。<sup>\[兴化\]</sup> ⑤ 成对的物品中的一半<sup>\[泰州\]</sup>：这双袜子少掉一只，剩吖个～。<sup>\[泰州\]</sup> ⑥ 一元、一角、一分等单张小额钞票<sup>\[泰州\]</sup>：我身上只有大票子，找不开来，我去跟人家换点儿～来找把你。<sup>\[泰州\]</sup>  
+1. 【[单头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_teu.md#单头)】`daen1 teu2` <small>/tɛ̃1 tʰɤ2/<sup>兴化</sup>, /tẽ1 tʰei2/<sup>如皋</sup>, /tɛ̃1 tʰəɪ2/<sup>泰兴</sup></small> ① 肥育中的青年猪，在小猪与壮猪之间，体重60-100斤。<sup>\[如皋\]</sup> ② 零头，零碎的。<sup>\[东台\]</sup> ③ 单独的、分的<sup>\[兴化\]</sup>：河下行的全是～小船。<sup>\[兴化\]</sup> ④ 零星、小额的<sup>\[兴化\]</sup>：他从口袋里掏出一把～票子，数半天才三块多钱。<sup>\[兴化\]</sup> ⑤ 成对的物品中的一半<sup>\[泰州\]</sup>：这双袜子少掉一只，剩吖个～。<sup>\[泰州\]</sup> ⑥ 一元、一角、一分等单张小额钞票<sup>\[泰州\]</sup>：我身上只有大票子，找不开来，我去跟人家换点儿～来找把你。<sup>\[泰州\]</sup> ⑦ 百斤以内的猪谓之单头。西乡人谓之“客骡”。<sup>\[泰兴\]</sup>  
 1. 【[单头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_teu_r.md#单头<sub>儿</sub>)】`daen1 teu2 r` <sup>[泰县]</sup> 阉割过的未成熟约一百斤左右的猪。  
 1. 【[单头舍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_teu_sha.md#单头舍)】`daen1 teu2 sha5` <sup>[兴化]</sup> 建在田野中的独家农舍。  
 1. 【[单独](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_toh.md#单独)】`daen1 toh8` <sup>[如东]</sup> 一个人。  
@@ -1124,6 +1125,7 @@
 1. 【[单小褂裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_xio_gua_kv.md#单小褂裤)】`daen1 xio3 gua5 kv5` <sup>[兴化]</sup> 单层的上衣和裤子：他这次出门，除啊身上穿的，只带一身～。  
 1. 【[单桩桌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_zhuan_zhuah.md#单桩桌)】`daen1 zhuan1 zhuah7` <sup>[如东]</sup> 桌的一种。桌脚为一根柱子。  
 1. 【[单灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_zo.md#单灶)】`daen1 zo5` <sup>[如皋]</sup> 一口锅的灶，也叫“单间灶”。  
+1. 【[单子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_zz.md#单子)】`daen1 zz` <small>/tɛ̃1 t͡sɿ/<sup>泰兴</sup></small> 记载着事、物的纸条、药方子。<sup>\[泰兴\]</sup>  
 1. 【[担](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen.md#担)】`daen1` ① 简易的床铺。几块木板或芦芭嶂搁在两张板凳上，就是一张担。<sup>\[如东\]</sup> ② 物体的一端搁在某处<sup>\[东台\]</sup>：跳板的一头～吖在船上，一头～吖在岸上。<sup>\[东台\]</sup> ③ 顶<sup>\[东台\]</sup>：我这个会长不过～个名，具体工作都是他俫做的，功劳归他俫。<sup>\[东台\]</sup> ④ 条状物体两头部位搁在他物之上而使中间悬空或者条状物体中间部位搁在他物之上而使两头悬空<sup>\[泰州\]</sup>：你把𤕷板～上吖岸上去。<sup>\[泰州\]</sup>｜你把腰～吖在杠子上，手往下够。<sup>\[泰州\]</sup>  
 1. 【[担半头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_bun_teu.md#担半头)】`daen1 bun5 teu2` <sup>[泰县]</sup> 民间高利贷的一种方式。  
 1. 【[担当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_dan.md#担当)】`daen1 dan1` <sup>[东台]</sup> 担负，承当：要敢于～。  

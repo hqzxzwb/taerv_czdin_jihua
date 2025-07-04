@@ -1392,10 +1392,10 @@
 1. 【[洇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien.md#洇)】`ien5` ① 液体在物体上慢慢向四周蔓延。<sup>\[如东\]</sup>：这种纸不好，字写啊上头～。<sup>\[如东\]</sup> ② 液体渗透物体并向四周散开<sup>\[泰州\]</sup>：墨水滴咖上头的纸上，～吖底下的纸上唻。<sup>\[泰州\]</sup>｜把窗纸～破一个窟窿<sup>\[泰州\]</sup> ③ 水在土壤之中沿着缝隙渗透<sup>\[泰州\]</sup>：这盆吊兰干吖透啊唻，要～点儿水唻。<sup>\[泰州\]</sup>  
 1. 【[洇水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_shuei.md#洇水)】`ien5 shuei3` <sup>[如东]</sup> 液体从容器中慢慢渗出：水缸坏啊，向外～。  
 1. 【[瀴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien.md#瀴)】`ien5` <sup>[如皋]</sup> ① 介乎凉与冷之间：～凉、凉～。 ② 凉气袭人：石头～人子。 ③ 冷却：～木炭。  
-1. 【[瀴凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_lian.md#瀴凉)】`ien5 lian` <small>/iəŋ5 liã/<sup>如皋</sup></small> ① 凉而偏冷。<sup>\[如皋\]</sup> ② 夏天凉爽宜人环境，多指地上日照不到而且有潮气上泛的环境<sup>\[泰州\]</sup>：你家大楼的地下室里多～吖。<sup>\[泰州\]</sup>  
+1. 【[瀴凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_lian.md#瀴凉)】`ien5 lian` <sup>[如皋]</sup> 凉爽。  
+1. 【[瀴凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_lian.md#瀴凉)】`ien5 lian` <small>/iəŋ5 liã/<sup>如皋</sup>, /iŋ5 liɑŋ/<sup>泰兴</sup></small> ① 凉而偏冷。<sup>\[如皋\]</sup> ② 夏天凉爽宜人环境，多指地上日照不到而且有潮气上泛的环境<sup>\[泰州\]</sup>：你家大楼的地下室里多～吖。<sup>\[泰州\]</sup> ③ 凉，有凉意。<sup>\[泰兴\]</sup>  
 1. 【[瀴凉沰沰的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_lian_dah_dah.md#瀴凉沰沰的)】`ien5 lian dah7 dah7 dii` <sup>[如皋]</sup> 凉爽：伢儿额头上是～的。  
 1. 【[瀴凉沰沰<sub>儿</sub>的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_lian_dah_dah.md#瀴凉沰沰<sub>儿</sub>的)】`ien5 lian dah7 dah7 r dii` <sup>[如皋]</sup> 清凉宜人。  
-1. 【[瀴凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_lian.md#瀴凉)】`ien5 lian2` <sup>[如皋]</sup> 凉爽。  
 1. 【[瀴人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_ren_zz.md#瀴人子)】`ien5 ren zz` <sup>[如皋]</sup> 凉气袭人：这个家里终日见不到阳光，特别～，不能住人。  
 1. 【[窨井](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_jien.md#窨井)】`ien5 jien3` ① 上下水道或其他管线工程中，为便于检查或疏通而设置的井状建筑物。<sup>\[如东\]</sup> ② 地下管线工程中，为便于检查或疏通管道而设置的井状建筑物。<sup>\[东台\]</sup>  
 1. 【[窨水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_shuei.md#窨水)】`ien5 shuei3` <small>/in5 suəi3/<sup>兴化</sup></small> ① 将水放进田里，使土地潮湿。<sup>\[如东\]</sup>：土地干燥，要～。<sup>\[如东\]</sup> ② 冬干时，给麦田上一点水，保持土壤湿润。<sup>\[兴化\]</sup>  

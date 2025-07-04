@@ -812,6 +812,7 @@
 1. 【[美味香甜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_vei_xian_tin.md#美味香甜)】`mei3 vei6 xian1 tin2` <sup>[兴化]</sup> ① 食物鲜美可口。 ② （喻）日子过得舒服：你小日子过得～的，何必出去乱闯㗁？  
 1. 【[妹夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_fv.md#妹夫)】`mei6 fv1` <sup>[如东]</sup> 妹妹的丈夫。  
 1. 【[妹妹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_mei.md#妹妹)】`mei6 mei6` <sup>[如东]</sup> ① 同胞和亲戚中同辈而年龄比自己小的女予，称妹妹，也称妹子。根据 ② 血缘和亲属关系，分嫡亲妹妹、叔伯妹妹、堂妹妹、表妹妹。  
+1. 【[妹婿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_xi.md#妹婿)】`mei6 xi` <small>/məɪ1 ɕʝ/<sup>泰兴</sup></small> 妹妹的丈夫。<sup>\[泰兴\]</sup>  
 1. 【[妹婿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_xy.md#妹婿)】`mei6 xy5` <sup>[如东]</sup> 妹妹的丈夫。  
 1. 【[妹子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_zz.md#妹子)】`mei6 zz` <small>/məi6 t͡sɿ/<sup>兴化</sup>, /məɪ1 t͡se/<sup>泰县</sup></small> ① 妹妹<sup>\[兴化\]</sup>：嫡亲～<sup>\[兴化\]</sup>｜叔伯～<sup>\[兴化\]</sup>｜姨～。<sup>\[兴化\]</sup> ② 妹妹。<sup>\[泰县\]</sup>  
 1. 【[媚话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_hua.md#媚话)】`mei6 hua6` <sup>[如皋]</sup> ① 献媚的话。 ② 发嗲的话。 ③ 无用的话。  
@@ -1694,7 +1695,7 @@
 1. 【[蒙情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mon_qien.md#蒙情)】`mon2 qien2` <sup>[兴化]</sup> 客套话，表示承情：前朝～替我带东西家来，实在过意不去。  
 1. 【[蒙心肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mon_xien_roh.md#蒙心肉)】`mon2 xien1 roh8` <sup>[如皋]</sup> 横膈肌。  
 1. 【[蒙心蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mon_xien_taen.md#蒙心蛋)】`mon2 xien1 taen6` <sup>[如皋]</sup> 禽宰杀后，从腹中取出的卵。  
-1. 【[幪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mon.md#幪)】`mon3` <small>/moŋ3/<sup>兴化</sup>, /mɔŋ3/<sup>如皋</sup></small> ① 密：人～地窄；树秧得嫌~。<sup>\[如皋\]</sup> ② 密<sup>\[东台\]</sup>：这块田里的秧插得太～。<sup>\[东台\]</sup> ③ 稠、密<sup>\[兴化\]</sup>：筛子眼～得很。<sup>\[兴化\]</sup>｜树行子栽得～。<sup>\[兴化\]</sup>｜“……不瞒你说，我家媳妇养得太～了，一年一个，怎么吃得消……”（马春阳《小夫小妻解疙瘩》）<sup>\[兴化\]</sup> ④ 稠密<sup>\[泰州\]</sup>：这张渔网上头网眼织得猛。<sup>\[泰州\]</sup>｜秧栽得太稀啊唻，稍微～点ㄦ哉。<sup>\[泰州\]</sup>  
+1. 【[幪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mon.md#幪)】`mon3` <small>/moŋ3/<sup>兴化</sup>, /mɔŋ3/<sup>如皋</sup>, /mɔŋ3/<sup>泰兴</sup></small> 稠密<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：人～地窄<sup>\[如皋\]</sup>｜树秧得嫌～<sup>\[如皋\]</sup>｜这块田里的秧插得太～。<sup>\[东台\]</sup>｜筛子眼～得很。<sup>\[兴化\]</sup>｜树行子栽得～。<sup>\[兴化\]</sup>｜“……不瞒你说，我家媳妇养得太～了，一年一个，怎么吃得消……”（马春阳《小夫小妻解疙瘩》）<sup>\[兴化\]</sup>｜这张渔网上头网眼织得～。<sup>\[泰州\]</sup>｜秧栽得太稀啊唻，稍微～点ㄦ哉。<sup>\[泰州\]</sup>｜田里的麦～实实的<sup>\[泰兴\]</sup>  
 1. 【[幪𬙙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mon_fan.md#幪𬙙)】`mon3 fan1` <sup>[如东]</sup> 一种网具。网眼比较小，用以捕捉鱼虾。  
 1. 【[幪列](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mon_lih.md#幪列)】`mon3 lih8` <sup>[如东]</sup> 密集：田里的棉花苗嫌～。  
 1. 【[幪网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mon_van.md#幪网)】`mon3 van3` <sup>[如东]</sup> 捞网的一种。网眼很小。主要用于捕捞虾、蟹。  

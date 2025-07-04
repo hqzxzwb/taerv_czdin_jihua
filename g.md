@@ -2014,6 +2014,7 @@
 1. 【[姑娘家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_nian_ga.md#姑娘家)】`gv1 nian ga1` <sup>[如皋]</sup> “家”，一类人。意为要有做姑娘的风范。  
 1. 【[姑娘蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_nian_hae.md#姑娘蟹)】`gv1 nian hae3` 梭子蟹  
 1. 【[姑娘腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_nian_qian.md#姑娘腔)】`gv1 nian qian1` <sup>[如皋]</sup> 即娘娘腔。  
+1. 【[姑娘人家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_nian_ren_ga.md#姑娘人家)】`gv1 nian ren2 ga1` <small>/ku1 niɑŋ ɻəŋ2 kɑ1/<sup>泰兴</sup></small> 姑娘；姑娘们。<sup>\[泰兴\]</sup>  
 1. 【[姑娘不嫁，耽误嫂子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_nian_beh_ga.md#姑娘不嫁，耽误嫂子)】`gv1 nian2 beh7 ga5 daen1 v6 so3 zz` <sup>[东台]</sup> ① 喻指前面程序未完成，后面程序就进行不了。 ② 前人该做的事没有及时做影响着后来人。 ③ 原有位子不腾出，就影响进新人。  
 1. 【[姑婆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_pu.md#姑婆)】`gv1 pu2` <sup>[兴化]</sup> 丈夫的姑母。也称“姑奶奶”。  
 1. 【[姑婆婆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_pu_pu.md#姑婆婆)】`gv1 pu2 pu` <sup>[如皋]</sup> 见“姑外婆”。  
@@ -2027,8 +2028,9 @@
 1. 【[孤寡绝子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_gua_qiuh_zz.md#孤寡绝子)】`gv1 gua3 qiuh8 zz3, gv1 gua qiuh8 zz3` <sup>[如皋]</sup> 单身一人且无后代。  
 1. 【[孤鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_guei.md#孤鬼)】`gv1 guei3` <sup>[泰州]</sup> 或者没有亲人相依的人：她的子女都在外国，老头儿一死，就剩吖她一个～，只好上吖福利院。  
 1. 【[孤魂野鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_huen_ia_guei.md#孤魂野鬼)】`gv1 huen2 ia3 guei3` <sup>[东台]</sup> 指因天灾人祸而客死他乡无人问津的人。  
+1. 【[孤魂野鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_huen_ia_guei.md#孤魂野鬼)】`gv1 huen2 ia3 guei3` <small>/ku1 xuəŋ2 iɑ3 kuəɪ3/<sup>泰兴</sup></small> 谓无子女的人死去后的鬼魂。喻无依无靠，形影相吊者，或游荡无处落脚者。<sup>\[泰兴\]</sup>  
 1. 【[孤幼学堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_ieu_xiah_tan.md#孤幼学堂)】`gv1 ieu5 xiah8 tan2` <sup>[如皋]</sup> 清末（1906）知县周景焘捐俸创建。假南坛吕祖殿改建（在西南城脚三角池旁），收孤幼学童，供给午餐，半工半读。为私立初级小学堂。  
-1. 【[孤老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_lo.md#孤老)】`gv1 lo` <small>/ku1 lɔ/<sup>兴化</sup>, /ku1 lɔ/<sup>如皋</sup></small> ① 贬指与女人婚外恋的男人。（原文作“婟嫪”，音不全合）<sup>\[如皋\]</sup> ② 情夫。<sup>\[东台\]</sup> ③ 女子所私的人，包括嫖客、姘夫等<sup>\[兴化\]</sup>：偷～；放～。“你接着得意～也好了，怎该来啰唣我？”（《警世通言》二四）<sup>\[兴化\]</sup>  
+1. 【[孤老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_lo.md#孤老)】`gv1 lo` <small>/ku1 lɔ/<sup>兴化</sup>, /ku1 lɔ/<sup>如皋</sup>, /ku1 lɔ/<sup>泰兴</sup></small> ① 贬指与女人婚外恋的男人。（原文作“婟嫪”，音不全合）<sup>\[如皋\]</sup> ② 情夫。<sup>\[东台\]</sup> ③ 女子所私的人，包括嫖客、姘夫等<sup>\[兴化\]</sup>\[泰兴：又称“野孤老”\]：偷～；放～。“你接着得意～也好了，怎该来啰唣我？”（《警世通言》二四）<sup>\[兴化\]</sup>  
 1. 【[孤老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_lo.md#孤老)】`gv1 lo3` <small>/ku1 lɔ3/<sup>兴化</sup></small> ① 无子女的老人。<sup>\[东台\]</sup> ② 无子女、亲属，年老而孤独的人。<sup>\[兴化\]</sup> ③ 现在用作孤寡老人的节缩称谓。<sup>\[兴化\]</sup>  
 1. 【[孤痞秀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_pi_xieu.md#孤痞秀)】`gv1 pi xieu5` <sup>[如皋]</sup> 不敢见生分人，喜独处的习性。  
 1. 【[孤骚气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_so_qi.md#孤骚气)】`gv1 so1 qi` <sup>[东台]</sup> （贬）形容某人性格孤僻，气量小，相容性差：人家就是碰吖下子她的碗，她就大发脾气，真有点儿～！  
@@ -2043,7 +2045,7 @@
 1. 【[箍桶匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_ton_qian.md#箍桶匠)】`gv1 ton3 qian6, gv1 ton qian6` <sup>[如皋]</sup> 同“圆料匠”。箍盆箍桶的匠人。  
 1. 【[箍桶匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_ton_qian.md#箍桶匠)】`gv1 ton3 qian6` ① 或叫圆料匠，指专门制作盆、桶等圆木家具的工匠。<sup>\[东台\]</sup> ② 制作木桶木盆等的工匠。<sup>\[泰州\]</sup>  
 1. 【[箍网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_van.md#箍网)】`gv1 van3` <sup>[如皋]</sup> 围网。  
-1. 【[軱拐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_guae.md#軱拐)】`gv1 guae3` <small>/ku1 kuɛ3/<sup>兴化</sup>, /ku1 kuɛ3/<sup>如皋</sup></small> 脚踝，脚腕两旁凸起部分。俗作“孤拐”。<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>  
+1. 【[軱拐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_guae.md#軱拐)】`gv1 guae3` <small>/ku1 kuɛ3/<sup>兴化</sup>, /ku1 kuɛ3/<sup>如皋</sup>, /ku1 kuɛ3/<sup>泰兴</sup></small> 脚踝，脚腕两旁凸起部分。俗作“孤拐”。<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>  
 1. 【[估猜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_cae.md#估猜)】`gv3 cae1` <small>/ku3 t͡sʰɛ1/<sup>兴化</sup></small> ① 猜测、估摸<sup>\[兴化\]</sup>：这件事你是～的，不一定真实。<sup>\[兴化\]</sup> ② 大致推测<sup>\[泰州\]</sup>：老师～他这个成绩考不上苏州大学。<sup>\[泰州\]</sup>  
 1. 【[估估堆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_gv_dy_r.md#估估堆<sub>儿</sub>)】`gv3 gv dy1 r` <sup>[东台]</sup> 估计，推测（也作“毛估估”）：你的眼光好，～，这袋棉花值几钱？  
 1. 【[估估堆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_gv_dy_r.md#估估堆<sub>儿</sub>)】`gv3 gv3 dy1 r` <sup>[如皋]</sup> 对一堆物品的大略匡估。  

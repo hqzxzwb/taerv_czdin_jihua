@@ -863,7 +863,7 @@
 1. 【[成整<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_zhen_r.md#成整<sub>儿</sub>)】`chen2 zhen3 r` <sup>[泰州]</sup> 结果与主观愿望相反：事情本来是谈吖好的，捱他这吖一弄，～坏啊事。｜你不开口反而好，捱你这格局一说，他～来啊气。  
 1. 【[成整<sub>儿</sub>的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_zhen_r_dii.md#成整<sub>儿</sub>的)】`chen2 zhen3 r dii` <sup>[如皋]</sup> 反倒：教他留点儿的，他～总吃掉啊！  
 1. 【[成总](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_zon.md#成总)】`chen2 zon3` <sup>[如东]</sup> 一共：～有多少？  
-1. 【[承嗣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_cz.md#承嗣)】`chen2 cz2` <small>/t͡sʰən2 t͡sʰɿ2/<sup>兴化</sup>, /t͡sʰəŋ2 t͡sʰɿ2/<sup>如皋</sup></small> ① 过继。<sup>\[如皋\]</sup> ② 世袭；传代。<sup>\[东台\]</sup> ③ 本地指晚辈过继给没有儿子的父辈作儿子（多为侄儿到伯父或叔叔家）。<sup>\[东台\]</sup> ④ 旧俗，年老无子者，在侄辈中立一嗣子<sup>\[兴化\]</sup>：他～二房。<sup>\[兴化\]</sup> ⑤ 泛指继承宗祧。<sup>\[兴化\]</sup> ⑥ 夫妇年老无后之人，以近支兄弟、亲戚或者他人之子为后代，以续香火<sup>\[泰州\]</sup>：他家爷爷没得伢儿，他三岁就～过去啊。<sup>\[泰州\]</sup>  
+1. 【[承嗣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_cz.md#承嗣)】`chen2 cz2` <small>/t͡sʰən2 t͡sʰɿ2/<sup>兴化</sup>, /t͡sʰəŋ2 t͡sʰɿ2/<sup>如皋</sup>, /t͡sʰəŋ2 t͡sʰɿ2/<sup>泰兴</sup></small> ① 过继。<sup>\[如皋\]</sup> ② 世袭；传代。<sup>\[东台\]</sup> ③ 本地指晚辈过继给没有儿子的父辈作儿子（多为侄儿到伯父或叔叔家）。<sup>\[东台\]</sup> ④ 旧俗，年老无子者，在侄辈中立一嗣子<sup>\[兴化\]</sup>：他～二房。<sup>\[兴化\]</sup> ⑤ 泛指继承宗祧。<sup>\[兴化\]</sup> ⑥ 夫妇年老无后之人，以近支兄弟、亲戚或者他人之子为后代，以续香火<sup>\[泰州\]</sup>：他家爷爷没得伢儿，他三岁就～过去啊。<sup>\[泰州\]</sup> ⑦ 传代。旧指后代无男孩者将兄弟、亲属或其他人之子过继为已子。<sup>\[泰兴\]</sup>  
 1. 【[承情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_qien.md#承情)】`chen2 qien2` <sup>[如东]</sup> ① 多亏：～你帮忙。 ② 领受情谊：～各方支持。  
 1. 【[朆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen.md#朆)】`chen2` <sup>[如东]</sup> 未曾：今天他～来。  
 1. 【[朆有](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_ieu.md#朆有)】`chen2 ieu3` <sup>[如东]</sup> 不曾有：这张卡片～奖。  
@@ -2228,6 +2228,7 @@
 1. 【[蹿蕻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_hon.md#蹿蕻)】`cun1 hon5` <sup>[如皋]</sup> 抽薹。  
 1. 【[蹿火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_hu.md#蹿火)】`cun1 hu3` <sup>[兴化]</sup> 冒火：热得浑身～｜急得鼻子、眼睛～。  
 1. 【[蹿白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_poh.md#蹿白)】`cun1 poh8` <sup>[兴化]</sup> 妇女白带过多：她因为～，脸色发黄。  
+1. 【[蹿前落后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_qin_lah_heu.md#蹿前落后)】`cun1 qin2 lah8 heu6` <small>/t͡sʰʊ̃1 t͡ɕʰĩ2 lɑʔ8 xəɪ1/<sup>泰兴</sup></small> 谓有的在前，有的在后，很不整齐。<sup>\[泰兴\]</sup>  
 1. 【[镩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun.md#镩)】`cun1` <sup>[如皋]</sup> 大号锥形钢凿（硬度高）：打磨～、水～。  
 1. 【[蚕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun.md#蚕)】`cun2` <sup>[如东]</sup> 蚕蛾科昆虫家蚕、野蚕的总称，通常指家蚕。  
 1. 【[蚕蛹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_ion.md#蚕蛹)】`cun2 ion3` <sup>[如东]</sup> 蚕蛾科昆虫家蚕蛾的蛹。  

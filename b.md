@@ -1041,12 +1041,15 @@
 1. 【[屄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi.md#屄)】`bi1` <sup>[如东]</sup> 女子的生殖器。  
 1. 【[屄（毴、𣭈）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi.md#屄（毴、𣭈）)】`bi1` <sup>[泰州]</sup> ① 女性外生殖器：这个老～不是好东西！ ② 泛指部分雌性家畜外生殖器：敢同老王动手动脚的，当真是老鼠肏猫～，活得不耐烦！  
 1. 【[屄屄屌屌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_bi_dio_dio.md#屄屄屌屌)】`bi1 bi1 dio3 dio3` <sup>[兴化]</sup> ① （贬）男男女女。 ② 有关男女风化方面的事：你一开口又是～的事，真无聊。 ③ 也说“屄啊屌的”。  
+1. 【[屄屄屌屌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_bi_dio_dio.md#屄屄屌屌)】`bi1 bi1 dio3 dio3` <small>/pʝ1 pʝ1 tiɔ3 tiɔ3/<sup>泰兴</sup></small> 零零碎碎，不足挂齿的小事。男女之间见不得人的事。<sup>\[泰兴\]</sup>  
 1. 【[屄宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_bo.md#屄宝)】`bi1 bo3` <sup>[东台]</sup> 是一种戏谑的说法。比喻把一般东西看得十分珍贵。  
+1. 【[屄宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_bo.md#屄宝)】`bi1 bo3` <small>/pʝ1 pɔ3/<sup>泰兴</sup></small> 宝贝；珍贵的东西。贬义。轻蔑、讽刺味。<sup>\[泰兴\]</sup>  
 1. 【[屄大眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_da_ngaen.md#屄大眼)】`bi1 da ngaen3` <sup>[兴化]</sup> 骂人眼力不济，视觉模糊：你这个～，小偷站吖面前也看不清。  
 1. 【[屄贩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_faen_zz.md#屄贩子)】`bi1 faen5 zz` <sup>[如东]</sup> 不正经的女人。  
 1. 【[屄养的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_ian_dii.md#屄养的)】`bi1 ian3 dii` <sup>[泰州]</sup> ① 詈词，多为男性互相詈骂时的词。 ② 相当于“家伙”，粗话：老张这～这一趟生意赚吖不少，家来教他请客。  
 1. 【[屄嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_jy.md#屄嘴)】`bi1 jy3` （詈语）痛骂某人嘴里不干净，或者乱说。<sup>\[东台\]</sup><sup>\[泰州\]</sup>：人家是好是丑，要你～在外头先说甚的唦？<sup>\[泰州\]</sup>  
 1. 【[屄力大似山力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_lieh_da_sz.md#屄力大似山力)】`bi1 lieh8 da6 sz6 shaen1 lieh8` <sup>[东台]</sup> 痛骂不正经的女人对某些好色之徒诱惑力极大。  
+1. 【[屄头屌脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_teu_dio_lin.md#屄头屌脸)】`bi1 teu2 dio3 lin3` <small>/pʝ1 tʰəɪ2 tiɔ3 lĩ3/<sup>泰兴</sup></small> 犹狗血喷头。指被骂得极狼狈的样子。<sup>\[泰兴\]</sup>  
 1. 【[屄心子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_xien_zz.md#屄心子)】`bi1 xien1 zz` <sup>[兴化]</sup> ① 阴户。 ② （贬）细小的物件或小动物，如小猫小狗等：这个～抱家来哪天养得大？  
 1. 【[比死人多啊口气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_sz_ren_du.md#比死人多啊口气)】`bi3 sz3 ren2 du1 a keu3 qi5` <sup>[东台]</sup> 对某人的实际作用表示极端失望：你还指望他，他只～！  
 1. 【[比谈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_taen.md#比谈)】`bi3 taen2` <sup>[如皋]</sup> 打比喻：这是～的句话，不必放吖心里。  
@@ -1138,7 +1141,7 @@
 1. 【[冰锅冷灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_gu_len_zo.md#冰锅冷灶)】`bien1 gu1 len3 zo5` <small>/piŋ1 ko1 nəŋ3 t͡sɔ5/<sup>泰县</sup></small> ① 形容长时间不在家起火，家庭显得冷冷清清。<sup>\[东台\]</sup> ② 冷落：他父亲走啊以后，家里～的。<sup>\[泰县\]</sup> ③ 锅灶冰冷，即没有生火或过了吃饭时间<sup>\[泰州\]</sup>：已经中上12点唻，家里还是～的，哪块像个过日子的人家。<sup>\[泰州\]</sup> ④ 比喻家中寥落冷寂，没有生气<sup>\[泰州\]</sup>：他家里就他老头儿一个人，～的，有甚的意思啊？<sup>\[泰州\]</sup>  
 1. 【[冰河冻水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_hu_don_shuei.md#冰河冻水)】`bien1 hu2 don5 shuei3` <small>/piɪ̃1 xo2 toŋ5 suəi3/<sup>兴化</sup></small> ① 天很冷，河里都结了冰。<sup>\[东台\]</sup> ② ［喻］没有任何动静。<sup>\[东台\]</sup> ③ 天气严寒，水面被冰冻覆盖<sup>\[兴化\]</sup>：外头～的，劝你在家里蹾蹾。<sup>\[兴化\]</sup>  
 1. 【[冰寒水冻的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_hun_shuei_don.md#冰寒水冻的)】`bien1 hun2 shuei3 don5 dii` <sup>[如皋]</sup> 天气寒冷。意在奉劝人们在冬天注意保养节劳。  
-1. 【[冰瀴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_ien_dii.md#冰瀴的)】`bien1 ien5 dii` <sup>[如皋]</sup> 冰冷的。  
+1. 【[冰瀴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_ien_dii.md#冰瀴的)】`bien1 ien5 dii` <small>/piəŋ1 iəŋ5 tei/<sup>如皋</sup>, /piŋ1 iŋ5 təɪ/<sup>泰兴</sup></small> 冰冷的。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
 1. 【[冰冷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_len.md#冰冷)】`bien1 len3` <sup>[如东]</sup> 比较冷：今天的水～。  
 1. 【[冰冷彻骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_len_chih_gueh.md#冰冷彻骨)】`bien1 len3 chih7 gueh7` <sup>[兴化]</sup> 形容很冷，如同在低温下触摸冰块或金属等的感觉：腊月天在风头里摆摊子，冻得～的。  
 1. 【[冰凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_lian.md#冰凉)】`bien1 lian2` <sup>[如东]</sup> 很凉：你的手～。  

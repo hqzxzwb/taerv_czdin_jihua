@@ -309,7 +309,7 @@
 1. 【[假斯文](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_sz_ven.md#假斯文)】`jia3 sz1 ven2` <sup>[如东]</sup> ① 假装文雅：你不要～，我晓得你肚子里有多少墨水。 ② 假装客气：不要～。  
 1. 【[假头逆角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_teu_nieh_gah.md#假头逆角)】`jia3 teu2 nieh8 gah7` <small>/t͡ɕia3 tʰɤ2 liɪʔ8 kaʔ7/<sup>兴化</sup></small> ① 假充好汉，其实很差劲。<sup>\[东台\]</sup> ② （喻）形容人个性偏激，喜爱抬杠<sup>\[兴化\]</sup>：这个小伙有点～的，同他说不出甚的头绪来。<sup>\[兴化\]</sup>  
 1. 【[假戏真做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_xi_zhen_zu.md#假戏真做)】`jia3 xi5 zhen1 zu5` <sup>[泰州]</sup> 比喻造假的事情当做真的来做。  
-1. 【[姐夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_fv.md#姐夫)】`jia3 fv` ① 姐姐的丈夫。<sup>\[东台\]</sup> ② 姐姐的丈夫。<sup>\[泰州\]</sup>  
+1. 【[姐夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_fv.md#姐夫)】`jia3 fv` <small>/t͡ɕiɑ3 fʋ/<sup>泰兴</sup></small> 姐姐的丈夫。<sup>\[东台\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>  
 1. 【[姐夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_fv.md#姐夫)】`jia3 fv1` <sup>[如东]</sup> 姐姐的丈夫。  
 1. 【[姐姐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_jia.md#姐姐)】`jia3 jia3` ① 同胞和亲戚中同辈而年龄比自己大的女子，称姐姐。根据血缘和亲属关系，分嫡亲姐姐、叔伯姐姐、堂姐姐、表姐姐。<sup>\[如东\]</sup> ② 称呼比自己年长的同辈女子。<sup>\[泰州\]</sup>  
 1. 【[姐䗜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_lieu.md#姐䗜)】`jia3 lieu` <small>/t͡ɕia3 liɤ/<sup>兴化</sup>, /t͡ɕia3 niɤɯ/<sup>泰县</sup></small> 蝉<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[东台\]</sup>\[如东：黑蚱蝉\]  
@@ -777,6 +777,7 @@
 1. 【[筋骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gueh.md#筋骨)】`jien1 gueh7` <sup>[如东]</sup> 筋肉与骨骼。泛指体格：～好。  
 1. 【[筋皮里骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_pi_li_gueh.md#筋皮里骨)】`jien1 pi2 li3 gueh7` <sup>[如皋]</sup> 引指最精细深入的知识、经验。  
 1. 【[筋韧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_ren.md#筋韧)】`jien1 ren6` <small>/t͡ɕiəŋ1 ɻəŋ1/<sup>如皋</sup></small> ① 柔软而有韧性。<sup>\[如东\]</sup>：这种面条～。<sup>\[如东\]</sup> ② 食品柔韧而有弹性，耐嚼而不粘牙\[如皋：馒头做得好，吃起来有～。\] ③ 喻品味、内涵\[如皋：这篇文章细读起来还是蛮有～的。\]  
+1. 【[筋疼肉㾭的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_ten_roh_jieu.md#筋疼肉㾭的)】`jien1 ten2 roh8 jieu5 dii` <small>/t͡ɕiŋ1 tʰəŋ2 ɻɔʔ8 t͡ɕiɤɯ5 təɪ/<sup>泰兴</sup></small> 见自己的东西略有损失或影响而显示出的小气、吝惜的样子。<sup>\[泰兴\]</sup>  
 1. 【[筋拽拽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zhuae_zhuae.md#筋拽拽)】`jien1 zhuae5 zhuae5` <sup>[兴化]</sup> 形容食物有韧性：精面馒头一咬～的。  
 1. 【[粳谷奴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_goh_nv.md#粳谷奴)】`jien1 goh7 nv2` <sup>[如东]</sup> 水稻感染稻曲拟黑粉菌后的果穗。  
 1. 【[粳米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_mi.md#粳米)】`jien1 mi3` <sup>[如东]</sup> 禾本科植物粳稻的种仁。  
@@ -910,11 +911,11 @@
 1. 【[井潭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_tun.md#井潭)】`jien3 tun2` <sup>[如东]</sup> 干旱时，在河底挖土井，叫井潭。  
 1. 【[井砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zhun.md#井砖)】`jien3 zhun1` <sup>[如皋]</sup> 水井壁专用砖，横截面呈梯形。有的还有榫和榫眼，不易松动变形。  
 1. 【[井子舱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zz_can.md#井子舱)】`jien3 zz can1` <sup>[如东]</sup> 帆船的第4舱，是贮存淡水的舱室。也叫水井舱。  
-1. 【[侭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien.md#侭)】`jien3` <small>/t͡ɕiŋ3/<sup>泰县</sup></small> ① 繁体“儘”，随便，任凭：这些东西我～你来拣。<sup>\[泰县\]</sup> ② 任凭<sup>\[泰州\]</sup>：家里酒有的是，～你喝。<sup>\[泰州\]</sup>｜明吖反正是星期天，～睏。<sup>\[泰州\]</sup> ③ 首先满足某人需求之后，再考虑其他人<sup>\[泰州\]</sup>：你家妈妈每次烧菜都是～你俫先吃。<sup>\[泰州\]</sup>  
+1. 【[侭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien.md#侭)】`jien3` <sup>[东台]</sup> ① 让某些人或事物占先：廉租房要～特困户安排入住。 ② 尽量放开，不作任何限制：饭～吃｜汤～喝｜钱～用。  
+1. 【[侭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien.md#侭)】`jien3` <small>/t͡ɕiŋ3/<sup>泰县</sup></small> ① 随便，任凭<sup>\[泰县\]</sup>：这些东西我～你来拣<sup>\[泰县\]</sup> ② 任凭<sup>\[泰州\]</sup>：家里酒有的是，～你喝。<sup>\[泰州\]</sup>｜明吖反正是星期天，～睏。<sup>\[泰州\]</sup> ③ 首先满足某人需求之后，再考虑其他人<sup>\[泰州\]</sup>：你家妈妈每次烧菜都是～你俫先吃。<sup>\[泰州\]</sup>  
 1. 【[侭吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_nga.md#侭吖)】`jien3 nga` <sup>[泰县]</sup> 老是，经常：你～跟吖我做甚的？  
 1. 【[侭钱□货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_qin_keh_hu.md#侭钱□货)】`jien3 qin2 keh8 hu5` <sup>[泰州]</sup> 身上带了多少钱，就买多少钱货：我身上就带啊一万块钱，～，先弄一千斤家去，好的话，下回再来。  
 1. 【[侭旺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_van.md#侭旺)】`jien3 van5` <sup>[泰县]</sup> 正好：～开会的时候，停吖电。  
-1. 【[尽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien.md#尽)】`jien3` <sup>[东台]</sup> ① 让某些人或事物占先：廉租房要～特困户安排入住。 ② 尽量放开，不作任何限制：饭～吃｜汤～喝｜钱～用。  
 1. 【[尽饱揣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_bo_chuae.md#尽饱揣)】`jien3 bo3 chuae1` <sup>[兴化]</sup> 放开肚皮大吃：“……姑娘愿意跟着我，粘团粘糕～。”（兴文《三个女婿对对子》）  
 1. 【[尽草完粮事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_co_un_lian.md#尽草完粮事)】`jien3 co3 un2 lian2 shr6` <sup>[兴化]</sup> （喻）根据条件办事：你来多少干面我蒸多少馒头，反正～。  
 1. 【[尽打不喝水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_da_beh_huh.md#尽打不喝水)】`jien3 da3 beh7 huh7 xy3` <sup>[东台]</sup> 尽管满足，要多少有多少：今年烟酒多，大家放心，～。  
@@ -929,7 +930,7 @@
 1. 【[景致](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zhr.md#景致)】`jien3 zhr5` 风景  
 1. 【[景子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zz.md#景子)】`jien3 zz` <small>/t͡ɕin3 t͡sɿ/<sup>兴化</sup>, /t͡ɕiəŋ3 t͡sɿ/<sup>如皋</sup></small> 风景。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：拱极台～真不丑！<sup>\[兴化\]</sup>｜泰山公园春夏秋冬四季的～不一样。<sup>\[泰州\]</sup>  
 1. 【[漌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien.md#漌)】`jien3` <sup>[兴化]</sup> 将生肉放入锅中用文火煮一下，去掉腥味：～肉。  
-1. 【[紧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien.md#紧)】`jien3` <small>/t͡ɕin3/<sup>兴化</sup>, /t͡ɕiəŋ3/<sup>如皋</sup></small> ① 不宽裕：房子～、钱～。<sup>\[如皋\]</sup> ② 偏小：鞋子～，不好穿。<sup>\[如皋\]</sup> ③ 叮嘱<sup>\[兴化\]</sup>：再～他下子，免得到时忘掉。<sup>\[兴化\]</sup>  
+1. 【[紧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien.md#紧)】`jien3` <small>/t͡ɕin3/<sup>兴化</sup>, /t͡ɕiəŋ3/<sup>如皋</sup></small> ① 不宽裕<sup>\[如皋\]</sup>：房子～、钱～<sup>\[如皋\]</sup> ② 偏小<sup>\[如皋\]</sup>：鞋子～，不好穿<sup>\[如皋\]</sup> ③ 叮嘱<sup>\[兴化\]</sup>：再～他下子，免得到时忘掉。<sup>\[兴化\]</sup>  
 1. 【[紧巴巴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_ba_ba_dii.md#紧巴巴的)】`jien3 ba1 ba1 dii` <sup>[东台]</sup> 指经济上不宽裕。  
 1. 【[紧剥剥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_bah_bah.md#紧剥剥)】`jien3 bah7 bah7` <sup>[如东]</sup> 箍得很紧：这件衣服穿吖身上～的。  
 1. 【[紧绷绷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_bon_bon.md#紧绷绷)】`jien3 bon1 bon1` <sup>[如东]</sup> ① 拉得很紧：绳子拉啊～的。 ② 捆扎得很紧：裤腰带～的。 ③ 心情紧张。  
@@ -994,7 +995,7 @@
 1. 【[进账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zhan.md#进账)】`jien5 zhan5` <small>/t͡ɕiŋ5 t͡sɑŋ5/<sup>泰兴</sup></small> ① 进入账户。<sup>\[如东\]</sup>：这批资金应该～。<sup>\[如东\]</sup> ② 收入，收益。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>：今朝～多少？<sup>\[如东\]</sup>  
 1. 【[进宅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zheh.md#进宅)】`jien5 zheh7` <sup>[东台]</sup> 乔迁新居并举行仪式。避讳“贼ceh8”。  
 1. 【[进嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zuei.md#进嘴)】`jien5 zuei3` <sup>[兴化]</sup> 指吃东西或吃的东西：他烧的菜咸得不能～。｜“臭了生蛆的鸭子，还能～吗？”（马春阳《两个小社员》）  
-1. 【[𠢱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien.md#𠢱)】`jien5` <small>/t͡ɕin5/<sup>兴化</sup>, /t͡ɕiəŋ5/<sup>如皋</sup></small> ① 用力时肌肉紧张：他把手膀子一～。<sup>\[如皋\]</sup> ② 屏住气，憋足劲<sup>\[兴化\]</sup>：小家伙要拉屎，浑身全～起来啊。<sup>\[兴化\]</sup> ③ 屏气发力聚起身上肌肉<sup>\[泰州\]</sup>：他只要把膀子一～，上头就肌肉凸凸的。<sup>\[泰州\]</sup>｜你把身子～起来。<sup>\[泰州\]</sup>  
+1. 【[𠢱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien.md#𠢱)】`jien5` <small>/t͡ɕin5/<sup>兴化</sup>, /t͡ɕiəŋ5/<sup>如皋</sup></small> ① 用力时肌肉紧张<sup>\[如皋\]</sup>：他把手膀子一～<sup>\[如皋\]</sup> ② 屏住气，憋足劲<sup>\[兴化\]</sup>：小家伙要拉屎，浑身全～起来啊。<sup>\[兴化\]</sup> ③ 屏气发力聚起身上肌肉<sup>\[泰州\]</sup>：他只要把膀子一～，上头就肌肉凸凸的。<sup>\[泰州\]</sup>｜你把身子～起来。<sup>\[泰州\]</sup>  
 1. 【[𠢱住啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_chv_a.md#𠢱住啊)】`jien5 chv a` <sup>[如皋]</sup> 强忍住：她～，不哭，不淌眼泪。  
 1. 【[𠢱住啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_chv_a.md#𠢱住啊)】`jien5 chv a, jien5 chv ga` <sup>[东台]</sup> 忍住，憋住：他耐心听对方讲，自己有话也～不说。  
 1. 【[勼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu.md#勼)】`jieu1` <small>/t͡ɕiɤ1/<sup>兴化</sup>, /t͡ɕiɤɯ1/<sup>泰县</sup></small> ① 收缩。<sup>\[如东\]</sup><sup>\[泰县\]</sup>：纸～啊。<sup>\[如东\]</sup>｜一听这句话他的脸就～起来啊。<sup>\[泰县\]</sup> ② 皱缩<sup>\[兴化\]</sup>：眉毛一～、嘴一鼓，一脸的苦像。<sup>\[兴化\]</sup> ③ 不平整<sup>\[兴化\]</sup><sup>\[泰县\]</sup>：衣装穿吖～啊在身上。<sup>\[兴化\]</sup>｜这张纸都捱他弄吖～啊。<sup>\[泰县\]</sup>  
@@ -1555,13 +1556,16 @@
 1. 【[卷棚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiun_pon.md#卷棚)】`jiun3 pon2` <sup>[如皋]</sup> 顶盖可收卷的大棚，盆景架常用。  
 1. 【[卷铺盖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiun_pv_gae.md#卷铺盖)】`jiun3 pv1 gae5` <sup>[东台]</sup> ［喻］被辞退或解雇，离开原工作单位。  
 1. 【[卷心菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiun_xien_cae.md#卷心菜)】`jiun3 xien cae5` <sup>[如皋]</sup> 甘蓝。  
-1. 【[卷心菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiun_xien_cae.md#卷心菜)】`jiun3 xien1 cae5` <small>/t͡ɕyũ3 ɕin1 t͡sʰɛ5/<sup>兴化</sup></small> ① 十字花科植物甘蓝，二年生草本。高约90厘米。<sup>\[如东\]</sup> ② 见“牛心菜”。<sup>\[东台\]</sup> ③ 即包心菜（结球甘篮）。<sup>\[兴化\]</sup>  
+1. 【[卷心菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiun_xien_cae.md#卷心菜)】`jiun3 xien cae5` <small>/t͡ɕyũ3 ɕin t͡sʰɛ5/<sup>兴化</sup>, /t͡ɕyʊ̃3 ɕiŋ t͡ɕʰiɛ5/<sup>泰兴</sup></small> ① 十字花科植物甘蓝，二年生草本。高约90厘米。<sup>\[如东\]</sup> ② 见“牛心菜”。<sup>\[东台\]</sup> ③ 即包心菜（结球甘篮）。<sup>\[兴化\]</sup> ④ 包心菜。<sup>\[泰兴\]</sup>  
+1. 【[卷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiun_zz.md#卷子)】`jiun3 zz` <small>/t͡ɕyʊ̃3 t͡sɿ/<sup>泰兴</sup></small> ① 试卷<sup>\[泰兴\]</sup> ② 一种面食，面发酵蒸成，似馒头。加葱等辅料则叫“花卷”。<sup>\[泰兴\]</sup>  
+1. 【[卷子面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiun_zz_min.md#卷子面)】`jiun3 zz min6` <small>/t͡ɕyʊ̃3 t͡sɿ mĩ1/<sup>泰兴</sup></small> 挂面。<sup>\[泰兴\]</sup>  
 1. 【[𰴽（言卷）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiun.md#𰴽（言卷）)】`jiun3` <small>/t͡ɕyũ3/<sup>兴化</sup></small> ① 恶毒的、粗野的谩骂<sup>\[兴化\]</sup>：惹啊这个婆娘连～带骂的，叫人听不下去。<sup>\[兴化\]</sup>｜“……他还嘴里劈里剥刺的，叫我一顿～骂……”（《金瓶梅词话》七二）<sup>\[兴化\]</sup> ② ［同音］这里指骂人、嘲讽人<sup>\[东台\]</sup>：那家伙盛气凌人的，我把他～吖一通，他才不吱声吖。<sup>\[东台\]</sup> ③ 肆意谩骂，或连续斥责不容对方开口<sup>\[泰州\]</sup>：这小伙在旁边多嘴，捱老李～吖他一顿。<sup>\[泰州\]</sup>  
 1. 【[眷属](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiun_shoh.md#眷属)】`jiun5 shoh8` <sup>[如东]</sup> 家属；亲戚。  
 1. 【[绢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiun_r.md#绢<sub>儿</sub>)】`jiun5 r` <sup>[如皋]</sup> 手帕。  
 1. 【[□子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_zz.md#□子)】`jy1 zz` <sup>[泰县]</sup> 小猪。  
 1. 【[俱家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_jia.md#俱家)】`jy1 jia1` <sup>[如东]</sup> 统统：请你～拿过来。  
 1. 【[居住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_chv.md#居住)】`jy1 chv6` <sup>[如东]</sup> 长期生活的一个地方。  
+1. 【[居多](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_du.md#居多)】`jy1 du1` <small>/t͡ɕy1 tɤɯ1/<sup>泰兴</sup></small> 占多数<sup>\[泰兴\]</sup>：同意的人～<sup>\[泰兴\]</sup>  
 1. 【[居后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_heu.md#居后)】`jy1 heu6` <sup>[如皋]</sup> 空间或时间上都在后。  
 1. 【[居虎霸下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_hv_ba_xia.md#居虎霸下)】`jy1 hv3 ba5 xia6` <small>/t͡ɕy1 xu3 pa5 ɕia6/<sup>兴化</sup>, /t͡ɕy1 fu3 pa5 ɕia1/<sup>泰县</sup></small> ① 形容盛气凌人的样子<sup>\[兴化\]</sup>：他不过当个民兵营长，老～的训人。<sup>\[兴化\]</sup> ② 盛气凌人：他经常～的训人。<sup>\[泰县\]</sup>  
 1. 【[居因](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_ien.md#居因)】`jy1 ien1` <sup>[东台]</sup> 满以为、原以为：天气不好，～你不得来的。  
