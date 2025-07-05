@@ -149,10 +149,11 @@
 1. 【[细宝宝屙屎——节咖节的捅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_bo_bo_u.md#细宝宝屙屎——节咖节的捅)】`xi5 bo3 bo3 u1 shr3 jih7 ga jih7 dii ton3` <sup>[东台]</sup>   
 1. 【[细宝宝玩的麻雀——细命不长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_bo_bo_vaen.md#细宝宝玩的麻雀——细命不长)】`xi5 bo3 bo3 vaen2 dii ma2 jiah7 xi5 mien6 beh7 chan2` <sup>[东台]</sup>   
 1. 【[细菜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_cae_r.md#细菜<sub>儿</sub>)】`xi5 cae5 r` <sup>[如皋]</sup> 即“荠菜儿”。  
+1. 【[细吹细打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_chuei_xi_da.md#细吹细打)】`xi5 chuei1 xi5 da3` <small>/ɕʝ5 t͡sʰuəɪ1 ɕʝ5 tɑ3/<sup>泰兴</sup></small> 喻规模不大，犹“小打小敲”；或谓雨虽下得不大，但连续不断等。<sup>\[泰兴\]</sup>  
 1. 【[细草狗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_co_geu_r.md#细草狗<sub>儿</sub>)】`xi5 co3 geu3 r` <small>/sɿ5 t͡sʰɔ3 kɤɯ3 ɚ/<sup>泰县</sup></small> ① 小母狗。<sup>\[如东\]</sup> ② （禁忌语）指小女孩。<sup>\[泰县\]</sup>  
 1. 【[细草席](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_co_qieh.md#细草席)】`xi5 co3 qieh8` <sup>[泰县]</sup> 补席。  
 1. 【[细草席子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_co_qieh_zz.md#细草席子)】`xi5 co3 qieh8 zz` <sup>[如皋]</sup> 乡村话，别于凉席。  
-1. 【[细底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_di.md#细底)】`xi5 di3` <small>/ɕʝ5 tʝ3/<sup>如皋</sup></small> ① 见“底情”。<sup>\[如皋\]</sup> ② 即“底情”。<sup>\[如皋\]</sup> ③ 底细。<sup>\[如东\]</sup>：他晓得～。<sup>\[如东\]</sup>  
+1. 【[细底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_di.md#细底)】`xi5 di3` <small>/ɕʝ5 tʝ3/<sup>如皋</sup>, /ɕʝ5 t͡ɕʝ3/<sup>泰兴</sup></small> ① 即“底情”。<sup>\[如皋\]</sup> ② 底细。<sup>\[如东\]</sup>：他晓得～。<sup>\[如东\]</sup> ③ 底细。根源；内情。<sup>\[泰兴\]</sup>  
 1. 【[细的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_dii.md#细的)】`xi5 dii` <sup>[兴化]</sup> 小孩。  
 1. 【[细点滴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_din_dieh_r.md#细点滴<sub>儿</sub>)】`xi5 din3 dieh8 r` <sup>[东台]</sup> 形容很小、很少。（点滴二字也作尐尐）：衣服上有个～斑/这～饭不够他吃。  
 1. 【[细东西](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_don_xi.md#细东西)】`xi5 don1 xi1` <sup>[如皋]</sup> 见“细杲子”。  
@@ -164,25 +165,29 @@
 1. 【[细狗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_geu_r.md#细狗<sub>儿</sub>)】`xi5 geu3 r` <sup>[如东]</sup> ① 生下不久的狗。 ② 比喻很胖的婴儿。  
 1. 【[细狗肏的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_geu_reh_dii.md#细狗肏的)】`xi5 geu3 reh dii` <sup>[泰县]</sup> （禁忌语）指小孩。  
 1. 【[细杲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_go_zz.md#细杲子)】`xi5 go3 zz` <sup>[如皋]</sup> 多为对小孩的昵称。  
-1. 【[细鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_guei.md#细鬼)】`xi5 guei3` <small>/sɿ5 kuəɪ3/<sup>泰县</sup></small> ① 小孩。<sup>\[如东\]</sup> ② 小男孩。<sup>\[如东\]</sup> ③ （禁忌语）小孩。<sup>\[泰县\]</sup>  
+1. 【[细哥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_gu.md#细哥)】`xi5 gu1` <small>/ɕʝ5 kɤɯ1/<sup>泰兴</sup></small> 称年龄不大的男孩或小于自己的男人。<sup>\[泰兴\]</sup>  
+1. 【[细鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_guei.md#细鬼)】`xi5 guei3` <small>/ɕʝ5 kuəɪ3/<sup>泰兴</sup>, /sɿ5 kuəɪ3/<sup>泰县</sup></small> ① 小孩。<sup>\[如东\]</sup> ② 小男孩。<sup>\[如东\]</sup> ③ （禁忌语）小孩。<sup>\[泰县\]</sup> ④ 小鬼。<sup>\[泰兴\]</sup>  
 1. 【[细鬼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_guei_r.md#细鬼<sub>儿</sub>)】`xi5 guei3 r` <sup>[兴化]</sup> 对小孩的昵称：这个～倒蛮神气的。  
 1. 【[细鬼豆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_guei_teu_r.md#细鬼豆<sub>儿</sub>)】`xi5 guei3 teu6 r` <sup>[泰州]</sup> 蔑称矮而瘦小的人：这～还想同老李动手？  
 1. 【[细姑娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_gv_nian.md#细姑娘)】`xi5 gv1 nian2` <sup>[如东]</sup> ① 年纪轻的姑娘。 ② 排行最小的姑娘。  
 1. 【[细𪎉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_haen_r.md#细𪎉<sub>儿</sub>)】`xi5 haen6 r` <sup>[如皋]</sup> 𪎉子中较细的一种。  
 1. 【[细𪎉筛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_haen_shae.md#细𪎉筛)】`xi5 haen6 shae1` <sup>[如皋]</sup> 专筛细𪎉子的筛子。  
 1. 【[细侯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_heu.md#细侯)】`xi5 heu` <sup>[如东]</sup> 小男孩。  
-1. 【[细货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_hu.md#细货)】`xi5 hu5` <small>/ɕi5 xo5/<sup>兴化</sup>, /ɕʝ5 xʊ5/<sup>如皋</sup></small> ① 詈语、呢语，指小女孩。<sup>\[如皋\]</sup> ② 小孩（贬义）。<sup>\[如东\]</sup> ③ 对女孩轻薄的称谓<sup>\[兴化\]</sup>：“啊咦喂，还有～哩，这位大姑娘若实不丑……”（《武松》八）<sup>\[兴化\]</sup>  
+1. 【[细货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_hu.md#细货)】`xi5 hu5` <small>/ɕi5 xo5/<sup>兴化</sup>, /ɕʝ5 xʊ5/<sup>如皋</sup>, /ɕʝ5 xɤɯ5/<sup>泰兴</sup></small> ① 詈语、呢语，指小女孩。<sup>\[如皋\]</sup> ② 小孩（贬义）。<sup>\[如东\]</sup> ③ 对女孩轻薄的称谓<sup>\[兴化\]</sup>：“啊咦喂，还有～哩，这位大姑娘若实不丑……”（《武松》八）<sup>\[兴化\]</sup> ④ 多用于骂小女孩。<sup>\[泰兴\]</sup>  
 1. 【[细货<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_hu_r.md#细货<sub>儿</sub>)】`xi5 hu5 r` <sup>[泰县]</sup> （禁忌语）小女孩。  
 1. 【[细花子盐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_hua_zz_in.md#细花子盐)】`xi5 hua1 zz in2` <sup>[如皋]</sup> 精盐。  
+1. 【[细花子盐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_hua_zz_in.md#细花子盐)】`xi5 hua1 zz in2` <small>/ɕʝ5 xuɑ1 t͡sɿ ĩ2/<sup>泰兴</sup></small> 细盐。相对于“粗花子盐”。<sup>\[泰兴\]</sup>  
+1. 【[细话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_hua.md#细话)】`xi5 hua6` <small>/ɕʝ5 xuɑ1/<sup>泰兴</sup></small> 详细的话，慢慢地说的知心话。<sup>\[泰兴\]</sup>  
 1. 【[细乎乎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_hv_hv.md#细乎乎)】`xi5 hv hv` <sup>[如东]</sup> 细条形的东西：这根竹竿～的。  
 1. 【[细爷爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ia_ia.md#细爷爷)】`xi5 ia2 ia2-3` <sup>[东台]</sup> 最小的叔叔。  
 1. 【[细盐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_in.md#细盐)】`xi5 in2` <sup>[兴化]</sup> 经过加工的再制盐。  
 1. 【[细口腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_keu_io.md#细口腰)】`xi5 keu3 io1` <sup>[如东]</sup> ① 物体最细的地方。 ② 比喻事物的要害处：抓住啊～。  
-1. 【[细考](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ko.md#细考)】`xi5 ko` <small>/ɕʝ5 kʰɔ/<sup>如皋</sup></small> ① 仔细<sup>\[如皋\]</sup>：他做事～。<sup>\[如皋\]</sup> ② 细致<sup>\[如皋\]</sup>：他考虑得～。<sup>\[如皋\]</sup> ③ 精致<sup>\[如皋\]</sup>：钟表是～杲子。<sup>\[如皋\]</sup> ④ 精细<sup>\[如皋\]</sup>：他是～人。<sup>\[如皋\]</sup> ⑤ 柔弱<sup>\[如皋\]</sup>：丝毛狗儿太～，难养。<sup>\[如皋\]</sup> ⑥ 瘦小<sup>\[如皋\]</sup>：他的身型～。<sup>\[如皋\]</sup> ⑦ 同“xi5 qio”。<sup>\[东台\]</sup>  
+1. 【[细考](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ko.md#细考)】`xi5 ko` <small>/ɕʝ5 kʰɔ/<sup>如皋</sup>, /ɕʝ5 kʰɔ/<sup>泰兴</sup></small> ① 仔细<sup>\[如皋\]</sup>：他做事～。<sup>\[如皋\]</sup> ② 细致<sup>\[如皋\]</sup>：他考虑得～。<sup>\[如皋\]</sup> ③ 精致<sup>\[如皋\]</sup>：钟表是～杲子。<sup>\[如皋\]</sup> ④ 精细<sup>\[如皋\]</sup>：他是～人。<sup>\[如皋\]</sup> ⑤ 柔弱<sup>\[如皋\]</sup>：丝毛狗儿太～，难养。<sup>\[如皋\]</sup> ⑥ 瘦小<sup>\[如皋\]</sup>：他的身型～。<sup>\[如皋\]</sup> ⑦ 同“xi5 qio”。<sup>\[东台\]</sup> ⑧ 细致，精密<sup>\[泰兴\]</sup>：箇个玉如意雕得～来<sup>\[泰兴\]</sup>  
 1. 【[细㧟锹<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_kuae_qio_r.md#细㧟锹<sub>儿</sub>)】`xi5 kuae6 qio1 r` <sup>[东台]</sup> 见“㧟锹儿”。  
 1. 【[细骷髅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_kv_leu.md#细骷髅)】`xi5 kv1 leu` <sup>[泰州]</sup> 詈词，詈骂男孩：你这个～才多大点儿岁数，怎吖就学咖会偷东西的。  
 1. 【[细粮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_lian.md#细粮)】`xi5 lian2` <sup>[如东]</sup> 大米、小麦、獠米、荞麦等。  
 1. 【[细绺绺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_lieu_lieu.md#细绺绺)】`xi5 lieu3 lieu3` <sup>[如东]</sup> 细而长：这根棒儿～的，好用。  
+1. 【[细料木匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_lio_moh_qian.md#细料木匠)】`xi5 lio6 moh8 qian` <small>/ɕʝ5 liɔ1 mɔʔ8 t͡ɕʰiɑŋ/<sup>泰兴</sup></small> 做一些比较精致家具的木匠，区别于建房等大工程的粗料木匠工，或称高料木匠。<sup>\[泰兴\]</sup>  
 1. 【[细料木匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_lio_moh_qian.md#细料木匠)】`xi5 lio6 moh8 qian6` <sup>[东台]</sup> 从事雕刻、做精细活的木匠。  
 1. 【[细料匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_lio_qian.md#细料匠)】`xi5 lio6 qian` <sup>[如东]</sup> ① 制造家具的木工。 ② 比喻做事细致的人：他是个～。  
 1. 【[细料匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_lio_qian.md#细料匠)】`xi5 lio6 qian6` <small>/ɕi5 liɔ6 t͡ɕʰiaŋ6/<sup>兴化</sup>, /ɕʝ5 liɔ1 t͡ɕʰiã1/<sup>如皋</sup></small> ① 专做家具的木匠。与“高料匠、圆料匠”相对应。<sup>\[如皋\]</sup> ② 见“小料匠”。<sup>\[如皋\]</sup> ③ 以制作家具为主的木工。<sup>\[兴化\]</sup>  
@@ -198,6 +203,8 @@
 1. 【[细马<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ma_r.md#细马<sub>儿</sub>)】`xi5 ma3 r` <sup>[如东]</sup> 小便桶，似痰盂，一般木制。  
 1. 【[细摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_mah.md#细摸)】`xi5 mah` <sup>[如东]</sup> 仔细：他做事～。  
 1. 【[细貌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_mo.md#细貌)】`xi5 mo` <sup>[泰县]</sup> 仔细：这合同你～的看看再签字。  
+1. 【[细貌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_mo.md#细貌)】`xi5 mo` <small>/ɕʝ5 mɔ/<sup>泰兴</sup></small> 小心，不可大意。<sup>\[泰兴\]</sup>：你～点，不要把花瓶打掉lei<sup>\[泰兴\]</sup>  
+1. 【[细貌细貌，打点粮食不够送灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_mo_xi_mo.md#细貌细貌，打点粮食不够送灶)】`xi5 mo xi5 mo da3 din lian2 sheh8 beh7 geu5 son5 zo5` <small>/ɕʝ5 mɔ ɕʝ5 mɔ tɑ3 tĩ liɑŋ2 səʔ8 pəʔ7 kəɪ5 sɔŋ5 t͡sɔ5/<sup>泰兴</sup></small> 乡谚。谓种田不一定要细心。含戏谑意。后一句是“划皮打塘，囤子阻到屋梁”。<sup>\[泰兴\]</sup>  
 1. 【[细摩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_mu.md#细摩)】`xi5 mu` <sup>[如皋]</sup> 细致，仔细。  
 1. 【[细模细样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_mu_xi_ian.md#细模细样)】`xi5 mu2 xi5 ian6` <sup>[如皋]</sup> 瘦小。  
 1. 【[细拇指](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_mu_zheh.md#细拇指)】`xi5 mu3 zheh7` <sup>[如东]</sup> 小拇指。  
@@ -206,13 +213,16 @@
 1. 【[细拿宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_na_bo_r.md#细拿宝<sub>儿</sub>)】`xi5 na2 bo3 r` <sup>[东台]</sup> 同“细拿小”。  
 1. 【[细拿小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_na_xio.md#细拿小)】`xi5 na2 xio` <sup>[东台]</sup> 骂小孩的话，有时是昵称。  
 1. 【[细纳函子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_naeh_kaen_zz.md#细纳函子)】`xi5 naeh8 kaen2 zz` 见“纳函子”。  
-1. 【[细丫头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_nga_teu.md#细丫头)】`xi5 nga1 teu` ① 小姑娘。<sup>\[如东\]</sup> ② 对小女孩的昵称。<sup>\[东台\]</sup>  
-1. 【[细伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_nga_r.md#细伢<sub>儿</sub>)】`xi5 nga2 r` <small>/ɕʝ5 ŋa˞2/<sup>如皋</sup></small> ① 小孩 ② 小的孩子。<sup>\[如皋\]</sup> ③ 儿童。<sup>\[如东\]</sup>：来啊几个～。<sup>\[如东\]</sup>  
+1. 【[细丫头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_nga_teu.md#细丫头)】`xi5 nga1 teu` <small>/ɕʝ5 ŋɑ1 tʰəɪ/<sup>泰兴</sup></small> ① 小姑娘。<sup>\[如东\]</sup> ② 对小女孩的昵称。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
+1. 【[细伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_nga_r.md#细伢<sub>儿</sub>)】`xi5 nga2 r` <small>/ɕʝ5 ŋa˞2/<sup>如皋</sup>, /ɕʝ5 ŋɑ˞2/<sup>泰兴</sup></small> 小孩子<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰兴\]</sup>：来啊几个～。<sup>\[如东\]</sup>  
 1. 【[细伢<sub>儿</sub>吃泡泡糖——吞吞吐吐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_nga_r_qieh.md#细伢<sub>儿</sub>吃泡泡糖——吞吞吐吐)】`xi5 nga2 r qieh7 po1 po1 tan2 ten1 ten1 tv3 tv3` <sup>[东台]</sup>   
+1. 【[细伢<sub>儿</sub>嘴里套真言](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_nga_r_zuei.md#细伢<sub>儿</sub>嘴里套真言)】`xi5 nga2 r zuei3 lii to5 zhen1 in2` <small>/ɕʝ5 ŋɑ˞2 t͡suəɪ3 ləɪ tʰɔ5 t͡səŋ1 ĩ2/<sup>泰兴</sup></small> 谓小孩说的是真话，不会造假。<sup>\[泰兴\]</sup>  
 1. 【[细眼细孔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ngaen_xi_kon.md#细眼细孔)】`xi5 ngaen3 xi5 kon3` <sup>[如东]</sup> 形容面相好看，漂亮：这个姑娘～的，交关齐整。  
+1. 【[细眼细孔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ngaen_xi_kon.md#细眼细孔)】`xi5 ngaen3 xi5 kon3` <small>/ɕʝ5 ŋɛ̃3 ɕʝ5 kʰɔŋ3/<sup>泰兴</sup></small> 细小而匀称；很小。<sup>\[泰兴\]</sup>  
 1. 【[细腻耷耷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ni_dah_dah.md#细腻耷耷)】`xi5 ni dah7 dah7` <sup>[泰县]</sup> 细腻：这个米粉碾得～的。  
 1. 【[细腻搭搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ni_daeh_daeh.md#细腻搭搭)】`xi5 ni6 daeh7 daeh7` <sup>[如东]</sup> ① 面粉细碎而有黏性：这碗糯米屑圆子～的，好吃。 ② 比喻人的皮肤柔软细嫩：兰兰的皮肤～的。  
 1. 【[细拈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_nin.md#细拈)】`xi5 nin` <sup>[如皋]</sup> 仔细，细致。  
+1. 【[细皮嫩肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_pi_nen_roh.md#细皮嫩肉)】`xi5 pi2 nen6 roh8` <small>/ɕʝ5 pʰʝ2 nəŋ1 ɻɔʔ8/<sup>泰兴</sup></small> 皮肤白皙细嫩，姣好。<sup>\[泰兴\]</sup>  
 1. 【[细婆娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_pu_nian.md#细婆娘)】`xi5 pu2 nian2` <sup>[如东]</sup> ① 身材瘦弱的女人。 ② 小老婆：陈老板在外头有个～  
 1. 【[细器](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_qi.md#细器)】`xi5 qi5` ① 形容人身材瘦小。 ② 身材瘦弱。<sup>\[如东\]</sup>：这个姑娘～。<sup>\[如东\]</sup>  
 1. 【[细气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_qi.md#细气)】`xi5 qi5` <sup>[如皋]</sup> 瘦小：他长得～，细筋细骨的。  
@@ -228,10 +238,12 @@
 1. 【[细寿宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_sheu_bo.md#细寿宝)】`xi5 sheu6 bo` 小孩子，最小的儿子或者女儿。  
 1. 【[细梢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_sho_r.md#细梢<sub>儿</sub>)】`xi5 sho1 r` <sup>[如皋]</sup> ① 络丝时分出的细于肥梢儿的一类。 ② 细长端：藕的～、竹的～。  
 1. 【[细水长流](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_shuei_chan_lieu.md#细水长流)】`xi5 shuei3 chan2 lieu2` <sup>[泰州]</sup> 流量虽然很小但能长久流淌的水，喻指精细安排财物使用，保持经常不缺状态：这个伢儿过去在家里不晓得节省，现在上吖大学以后，懂得咖要细水长流唻，把两个零用钱把他，他要用好长时间唻。  
+1. 【[细𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_son.md#细𪨊)】`xi5 son2` <small>/ɕʝ5 sɔŋ2/<sup>泰兴</sup></small> 骂小孩的话<sup>\[泰兴\]</sup>  
 1. 【[细𪨊<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_son_r.md#细𪨊<sub>儿</sub>)】`xi5 son2 r` <sup>[东台]</sup> ① 指小孩子、小人物：（詈语）骂某个比自己年轻者｜那个～太不像话！ ② （昵称）你家～好玩！  
 1. 【[细头摸角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_teu_mah_gah.md#细头摸角)】`xi5 teu2 mah8 gah7` <sup>[兴化]</sup> 形容认真过细地：请你把电视机～的查啊子，看毛病在哪块。  
 1. 【[细头子犯上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_teu_zz_faen.md#细头子犯上)】`xi5 teu2 zz faen6 shan1` <sup>[如皋]</sup> 贬指冒犯尊长的行为。  
 1. 【[细豆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_teu_r.md#细豆<sub>儿</sub>)】`xi5 teu6 r` <sup>[泰州]</sup> ① 蔑称瘦小的人：他这个～还想同老王打架。 ② 蔑称地位或者职位低下的人：他在单位上～一个，说话不算数的。  
+1. 【[细挑席子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_tio_qieh_zz.md#细挑席子)】`xi5 tio qieh8 zz` <small>/ɕʝ5 tʰiɔ t͡ɕʰiʔ8 t͡sɿ/<sup>泰兴</sup></small> 一种用蒲丝编成的暧席，冬天使用，区别于夏日用的“凉席”。<sup>\[泰兴\]</sup>  
 1. 【[细条席](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_tio_qieh.md#细条席)】`xi5 tio2 qieh8` <sup>[如东]</sup> 铺在床上睡觉的席子，以席草编成，光滑凉爽。  
 1. 【[细网<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_van_r.md#细网<sub>儿</sub>)】`xi5 van3 r` <sup>[如东]</sup> 捞网的一种。网眼较细。作业时，渔人把细网儿扛在肩上，踩着潮头，追逐鱼群。一旦发现鱼群，迅速把网放下，飞快地在潮水中拼命向前推动，把鱼捞进网兜。  
 1. 【[细物](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_veh.md#细物)】`xi5 veh8` <sup>[兴化]</sup> 精致的东西，特指比较高档的食品：“哎哟喂，粗人吃～呢……”（扬二《混城》）  
@@ -247,7 +259,8 @@
 1. 【[细小伙<sub>儿</sub>养麻雀<sub>儿</sub>——死多活少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xio_hu_r.md#细小伙<sub>儿</sub>养麻雀<sub>儿</sub>——死多活少)】`xi5 xio3 hu3 r ian3 ma2 jiah7 r——sz3 du1 huh8 sho3` <sup>[如皋]</sup> 小孩养宠物，成活的不多。  
 1. 【[细鱼<sub>儿</sub>有个细肚肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_y_r_ieu.md#细鱼<sub>儿</sub>有个细肚肠)】`xi5 y2 r ieu3 gu5 xi5 tv6 chan2` <sup>[如皋]</sup> 就是小孩子也有他的小盘算、小计划。  
 1. 【[细云](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_yen.md#细云)】`xi5 yen2` <sup>[如皋]</sup> 络丝时分出的稍细的一类。  
-1. 【[细作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_zah.md#细作)】`xi5 zah7` <small>/ɕi5 t͡saʔ7/<sup>兴化</sup>, /ɕʝ5 t͡saʔ7/<sup>如皋</sup></small> ① 细致，仔细。<sup>\[如皋\]</sup> ② 仔细，细致。<sup>\[如皋\]</sup> ③ 仔细。<sup>\[如东\]</sup> ④ 细致；周到。小心谨慎。<sup>\[东台\]</sup> ⑤ 形容作事认真仔细（多指家务劳动而言）。<sup>\[兴化\]</sup> ⑥ 做事仔细，考虑周全<sup>\[泰州\]</sup>：老李他做事～得很。<sup>\[泰州\]</sup>｜当办公室主任的人要～，旁人不曾想到的你要想到。<sup>\[泰州\]</sup>  
+1. 【[细作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_zah.md#细作)】`xi5 zah7` <small>/ɕi5 t͡saʔ7/<sup>兴化</sup>, /ɕʝ5 t͡saʔ7/<sup>如皋</sup></small> ① 细致，仔细。<sup>\[如皋\]</sup><sup>\[如东\]</sup> ② 细致；周到。小心谨慎。<sup>\[东台\]</sup> ③ 形容作事认真仔细（多指家务劳动而言）。<sup>\[兴化\]</sup> ④ 做事仔细，考虑周全<sup>\[泰州\]</sup>：老李他做事～得很。<sup>\[泰州\]</sup>｜当办公室主任的人要～，旁人不曾想到的你要想到。<sup>\[泰州\]</sup>  
+1. 【[细作活技](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_zah_uh_qi.md#细作活技)】`xi5 zah7 uh8 qi` <small>/ɕʝ5 t͡sɑʔ7 ʊʔ8 t͡ɕʰʝ/<sup>泰兴</sup></small> 指必须耐心细致地进行的精细的工作。<sup>\[泰兴\]</sup>  
 1. 【[细砟砖<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_zha_zhun_r.md#细砟砖<sub>儿</sub>)】`xi5 zha3 zhun1 r` <sup>[如东]</sup> ① 很小很小的颗粒：剩下的都是一些～。 ② 最小的儿子：亮亮是我家的～。  
 1. 【[系](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#系)】`xi6` <small>/ɕi6/<sup>兴化</sup>, /ɕʝ1/<sup>如皋</sup></small> ① 提环、提绳等<sup>\[如皋\]</sup>：水桶～、笿儿～。<sup>\[如皋\]</sup> ② 用绳索或棍棒将物体从高处放到低处，或从低处拉到高处<sup>\[兴化\]</sup>：～上来～下去。甘婆子却又出去将那白纸灯笼～下来……（《三侠五义》一〇八）。<sup>\[兴化\]</sup> ③ 容器中液体沿缝隙、管道缓慢渗溢。<sup>\[兴化\]</sup> ④ 旋风将河湖中的水吸上天空，远看像水柱。这种现象俗称“乌龙～水”。<sup>\[兴化\]</sup> ⑤ 用绳捆住物体有高处放至低处，或由低处拉至高处<sup>\[泰州\]</sup>：弄个篮子把你，你把房顶上工具～下来。<sup>\[泰州\]</sup>｜你把井里的水～上来。<sup>\[泰州\]</sup> ⑥ 从高处顺着杆、棒下至低处<sup>\[泰州\]</sup>：你顺住旁边的电线杆子～下来。<sup>\[泰州\]</sup>  
 1. 【[系<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_r.md#系<sub>儿</sub>)】`xi6 r` <small>/sɿ1 ɚ/<sup>泰县</sup></small> ① 拉线。<sup>\[如东\]</sup>：风筝～。<sup>\[如东\]</sup> ② 竹篮、竹筐等工具上的拉绳。<sup>\[如东\]</sup>：鐅篮～。<sup>\[如东\]</sup> ③ 数：没～。<sup>\[泰县\]</sup>  
@@ -1250,6 +1263,7 @@
 1. 【[线板<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_baen_r.md#线板<sub>儿</sub>)】`xin5 baen3 r` <small>/ɕĩ5 pe˞3/<sup>如皋</sup></small> ① 做针线用的绕线板。<sup>\[如皋\]</sup> ② 绕线的工具。长条形，中间有一蜂腰。<sup>\[如东\]</sup>  
 1. 【[线锤<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_chuei_r.md#线锤<sub>儿</sub>)】`xin5 chuei2 r` <sup>[如皋]</sup> 家用佮绳（线）的工具。一根猪大膀骨，中穿一根带钩的铁钉。转动使线上捘。  
 1. 【[线粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_fen.md#线粉)】`xin5 fen3` <small>/ɕiɪ̃5 fən3/<sup>兴化</sup>, /ɕĩ5 fəŋ3/<sup>如皋</sup>, /ɕiɪ̃5 fəŋ3/<sup>泰县</sup></small> ① 粉丝。<sup>\[如皋\]</sup> ② 用淀粉制作的水粉条。<sup>\[东台\]</sup> ③ 粉丝。<sup>\[兴化\]</sup><sup>\[泰县\]</sup> ④ 泰州特产之一，一种以绿豆粉为原料制作成的细粉丝。<sup>\[泰州\]</sup>  
+1. 【[线缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_fon.md#线缝)】`xin5 fon6` <small>/ɕĩ5 fɔŋ1/<sup>泰兴</sup></small> 缝纫的布缝<sup>\[泰兴\]</sup>  
 1. 【[线脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_jiah.md#线脚)】`xin5 jiah7` <sup>[兴化]</sup> ① 针脚。 ② 线头：𠫓～。  
 1. 【[线锯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_jy.md#线锯)】`xin5 jy5` <sup>[如东]</sup> 工具。锯条狭窄，锯齿细密，用以加工圆料。  
 1. 【[线刨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_po.md#线刨)】`xin5 po6` <sup>[如东]</sup> 工具。刨㐁狭窄，用以加工木料的线槽。  

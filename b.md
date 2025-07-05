@@ -406,7 +406,7 @@
 1. 【[𢴬住咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_chuh_ga.md#𢴬住咖)】`baen5 chuh ga` <sup>[如皋]</sup> 被粘着、被牵制：本想外来耍耍，捱伢儿～，不得出头影。  
 1. 【[𢴬脚石](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_jiah_sheh.md#𢴬脚石)】`baen5 jiah7 sheh8` <sup>[如东]</sup> 比喻阻碍前进的人或事：不要做～。  
 1. 【[𢴬脚绳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_jiah_shen.md#𢴬脚绳)】`baen5 jiah7 shen2` <sup>[如皋]</sup> 喻指不能丢开的人或物的负担。  
-1. 【[𢴬手𢴬脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_sheu_baen_jiah.md#𢴬手𢴬脚)】`baen5 sheu3 baen5 jiah7` <sup>[东台]</sup> 碍手碍脚：这小伙痴里木墩的，站吖旁边反而～。  
+1. 【[𢴬手𢴬脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_sheu_baen_jiah.md#𢴬手𢴬脚)】`baen5 sheu3 baen5 jiah7` <small>/pɛ̃5 ɕiɤɯ3 pɛ̃5 t͡ɕiɑʔ7/<sup>泰兴</sup></small> 碍手碍脚<sup>\[东台\]</sup><sup>\[泰兴\]</sup>：这小伙痴里木墩的，站吖旁边反而～。<sup>\[东台\]</sup>  
 1. 【[𢴬子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_zz.md#𢴬子)】`baen5 zz` <sup>[东台]</sup> 摔跤时用一只脚别着对方的脚使其跌倒：下～；使～。  
 1. 【[䙏衫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_shaen_r.md#䙏衫<sub>儿</sub>)】`bah7 shaen1 r` <sup>[东台]</sup> 汗衫。也叫“幕衫儿”。  
 1. 【[剥剥断](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bah_bah_tun.md#剥剥断)】`bah7 bah7 tun6` <sup>[兴化]</sup> 棍棒、绳索等因腐朽而断成许多节：这绳子一拉～。  

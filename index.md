@@ -576,7 +576,7 @@
 1. 【[胎生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_shen.md#胎生)】`tae1 shen1` <sup>[如东]</sup> ① 先天：～如此。 ② 比喻根本：这个人～不好。  
 1. 【[苔啊凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_a_lian.md#苔啊凉)】`tae1 a lian2` <sup>[如皋]</sup> 见“苔凉”。  
 1. 【[苔凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_lian.md#苔凉)】`tae1 lian2` <sup>[如皋]</sup> 回归正常体温：以手试额，额凉如苔，不发热咖，～吖。  
-1. 【[𢪯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#𢪯)】`tae1` <small>/tʰɛ1/<sup>如皋</sup></small> ① 拖着，垂着，趿拉着 ② 松重<sup>\[如皋\]</sup>：绳子有点儿～。<sup>\[如皋\]</sup> ③ 下垂<sup>\[如皋\]</sup>：狐狸精～尾巴；带子～到地。<sup>\[如皋\]</sup> ④ 松垂的样子。<sup>\[如皋\]</sup> ⑤ 下垂。<sup>\[如东\]</sup>：绳索从树上～下来。<sup>\[如东\]</sup>  
+1. 【[𢪯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#𢪯)】`tae1` <small>/tʰɛ1/<sup>如皋</sup>, /tʰɛ1/<sup>泰兴</sup></small> ① 拖着，垂着，趿拉着 ② 松重<sup>\[如皋\]</sup>：绳子有点儿～。<sup>\[如皋\]</sup> ③ 下垂<sup>\[如皋\]</sup>：狐狸精～尾巴；带子～到地。<sup>\[如皋\]</sup> ④ 松垂的样子。<sup>\[如皋\]</sup> ⑤ 下垂。<sup>\[如东\]</sup>：绳索从树上～下来。<sup>\[如东\]</sup> ⑥ 向下垂。<sup>\[泰兴\]</sup>  
 1. 【[𢪯板<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_baen_r.md#𢪯板<sub>儿</sub>)】`tae1 baen3 r` ① 拖鞋 ② 一种木板儿拖鞋，前头有一个环套。通称𢪯板儿。<sup>\[如东\]</sup>  
 1. 【[𢪯裆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_dan.md#𢪯裆)】`tae1 dan1` <sup>[如皋]</sup> 裤裆大而下垂。  
 1. 【[𢪯黄龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_huan_lon.md#𢪯黄龙)】`tae1 huan2 lon` <sup>[如东]</sup> 脓性鼻涕从鼻孔里流出来。  

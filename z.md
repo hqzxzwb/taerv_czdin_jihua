@@ -748,6 +748,7 @@
 1. 【[窒当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_dan.md#窒当)】`zheh7 dan1` <small>/t͡səʔ7 taŋ1/<sup>兴化</sup>, /t͡səʔ7 tɑŋ1/<sup>泰县</sup></small> 车船在途中受阻<sup>\[兴化\]</sup><sup>\[泰县\]</sup>\[泰州：道路（河道）上的空着地方被行人、车辆（船舶）填满，意为道路交通堵塞\]：今朝进闸的船太多，～。<sup>\[兴化\]</sup>｜上午大雾，车子在路上～。<sup>\[兴化\]</sup>｜今吖汽车在路上～，所以晚点吖。<sup>\[泰县\]</sup>｜过去坡子街上移到星期天，路上就～。<sup>\[泰州\]</sup>  
 1. 【[窒皮打狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_pi_da_geu.md#窒皮打狗)】`zheh7 pi2 da3 geu3` <sup>[兴化]</sup> 形容空间太小：这地方～的，几个人一来就不好转身吖。  
 1. 【[窒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_zz.md#窒子)】`zheh7 zz` <small>/t͡səʔ7 t͡sɿ/<sup>如皋</sup></small> ① 瓶塞子。<sup>\[如皋\]</sup> ② 用来塞住瓶类容器的口的东西，塞子<sup>\[泰州\]</sup>：茶瓶～。<sup>\[泰州\]</sup>  
+1. 【[织布机](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_bv_ji.md#织布机)】`zheh7 bv5 ji1` <small>/t͡səʔ7 pu5 t͡ɕʝ1/<sup>泰兴</sup></small> 旧时民间织土布的木制机械，今已绝。<sup>\[泰兴\]</sup>  
 1. 【[织女星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_ny_xien.md#织女星)】`zheh7 ny3 xien1` <sup>[如东]</sup> 星座名，位于银河东侧天琴座。  
 1. 【[翟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh.md#翟)】`zheh7` <sup>[如皋]</sup> 姓。避同音“贼ceh8”讳改读。  
 1. 【[职分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_fen.md#职分)】`zheh7 fen` <small>/t͡səʔ7 fən/<sup>兴化</sup>, /t͡səʔ7 fəŋ/<sup>如皋</sup></small> 辈分。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[兴化\]</sup>\[泰州：辈分，在家族、亲友的长幼先后中所居的地位\]：谚：人小～大，坐啊窠儿里做老爹。<sup>\[如皋\]</sup>｜他人小～大，坐啊窠儿里就有人喊爹爹咾。<sup>\[兴化\]</sup>｜你不要望吖他人小，他的～不小。认真序起来你还要喊他舅舅唻。<sup>\[泰州\]</sup>  

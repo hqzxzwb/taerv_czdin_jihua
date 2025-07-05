@@ -138,7 +138,7 @@
 1. 【[𨂝水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_shuei.md#𨂝水)】`paen2 shuei3` ① 从水中走过去。<sup>\[如东\]</sup>：没得桥，我俫～过河吧。<sup>\[如东\]</sup> ② 蹚水过河，或在烂泥中行走。<sup>\[东台\]</sup>  
 1. 【[盼头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_teu.md#盼头)】`paen5 teu` <sup>[东台]</sup> 指可能实现的良好愿望。  
 1. 【[襻舌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_shih_r.md#襻舌<sub>儿</sub>)】`paen5 shih8 r` <sup>[兴化]</sup> 舌系带的俗称。  
-1. 【[襻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_zz.md#襻子)】`paen5 zz` <small>/pʰɛ̃5 t͡sɿ/<sup>兴化</sup></small> ① 用布条做的扣住钮扣的圈：钮～。<sup>\[兴化\]</sup> ② 披风之类的衣服上可以打结的布条。<sup>\[兴化\]</sup> ③ 形状或功能像襻子的东西：鞋一。<sup>\[兴化\]</sup> ④ 用圆布条做的扣住纽扣的套。<sup>\[泰州\]</sup>  
+1. 【[襻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_zz.md#襻子)】`paen5 zz` <small>/pʰɛ̃5 t͡sɿ/<sup>兴化</sup>, /pʰɛ̃5 t͡sɿ/<sup>泰兴</sup></small> ① 用布条做的扣住钮扣的圈<sup>\[兴化\]</sup>：钮～<sup>\[兴化\]</sup> ② 披风之类的衣服上可以打结的布条。<sup>\[兴化\]</sup> ③ 形状或功能像襻子的东西<sup>\[兴化\]</sup>：鞋～<sup>\[兴化\]</sup> ④ 用圆布条做的扣住纽扣的套。<sup>\[泰州\]</sup> ⑤ 维系器物的环圈<sup>\[泰兴\]</sup>：纽～<sup>\[泰兴\]</sup>  
 1. 【[办](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen.md#办)】`paen6` <sup>[东台]</sup> “及”或“赶上”：再不出发就来不～吖。  
 1. 【[办菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_cae.md#办菜)】`paen6 cae5` <sup>[如皋]</sup> 操办酒席。  
 1. 【[办饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_faen.md#办饭)】`paen6 faen6` <sup>[兴化]</sup> 做饭：来啊客，赶快～。｜那老者十分欢喜，道了几声“失迎”，又叫童子～。（《西游记》十五）  
@@ -432,6 +432,7 @@
 1. 【[痞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#痞)】`pi3` <sup>[如皋]</sup> 奇怪癖好：烟～（吞烟丝、烟灰）、土～（吞吃泥土）、纸～（吃纸团儿）、瓦～（嚼食瓦块）。  
 1. 【[痞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_zz.md#痞子)】`pi3 zz` 闲荡在社会底层的流氓无赖。<sup>\[泰州\]</sup>  
 1. 【[𤿎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#𤿎)】`pi3` <sup>[兴化]</sup> 破裂，《集韵·旨韵》普鄙切“《方言》南楚谓器破而未离曰～。”：凳腿子～掉啊。｜树枝～开啊。  
+1. 【[𤿎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#𤿎)】`pi3` <small>/pʰʝ3/<sup>泰兴</sup></small> 谓物虽坏面尚未离析，看上去仍像好的。<sup>\[泰兴\]</sup>：箇件衣裳～啊lo，不好穿<sup>\[泰兴\]</sup>  
 1. 【[屁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#屁)】`pi5` <small>/pʰʝ5/<sup>泰兴</sup></small> 没有。粗俗语。<sup>\[泰兴\]</sup>  
 1. 【[屁巴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_ba_zz.md#屁巴子)】`pi5 ba1 zz` <small>/pʰi5 pa1 t͡sɿ/<sup>兴化</sup>, /pʰʝ5 pa1 t͡sɿ/<sup>如皋</sup></small> ① 比喻什么都没有，什么都不是 ② 没有，没有了。<sup>\[如皋\]</sup> ③ 屁是从肛门喷出的一种臭气，不可能形成巴子。比喻什么都没有。<sup>\[如东\]</sup> ④ 什么也没有；不可能。<sup>\[东台\]</sup> ⑤ 屁，形容什么也没有。<sup>\[兴化\]</sup>  
 1. 【[屁大的辰光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_da_dii_chen.md#屁大的辰光)】`pi5 da6 dii chen2 guan1` <sup>[如皋]</sup> 短暂、一刻儿。  
