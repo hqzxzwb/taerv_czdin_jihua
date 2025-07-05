@@ -1311,7 +1311,7 @@
 1. 【[挂柏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_boh.md#挂柏)】`gua5 boh7` ① 清明节和十月朝上坟祭祖时，在坟头上插柏树枝挂纸条儿，叫挂柏。栟茶地区流行此俗。<sup>\[如东\]</sup> ② 指清明节前后祭祖扫墓。通常用红纸剪成繻子，夹在芦柴或青竹竿上，插在坟头。也叫“挽柏”。<sup>\[东台\]</sup>  
 1. 【[挂彩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_cae.md#挂彩)】`gua5 cae3` <sup>[如皋]</sup> 见“挂花”。  
 1. 【[挂夹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_gaeh.md#挂夹)】`gua5 gaeh7` <sup>[如皋]</sup> 见“挂肩”。  
-1. 【[挂角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_gah.md#挂角)】`gua5 gah7` <small>/kua5 kaʔ7/<sup>兴化</sup>, /kua5 kaʔ7/<sup>如皋</sup></small> ① 加座于桌角。<sup>\[如皋\]</sup> ② 方桌一桌八人吃饭，多来的人挤在桌角旁边叫“～”。<sup>\[东台\]</sup> ③ 象棋术语，指某棋子走到对方“九宫”的两角<sup>\[兴化\]</sup>：～将军。<sup>\[兴化\]</sup> ④ 每张方桌八个座位，如有九人必有一人～坐在桌角上进食。<sup>\[兴化\]</sup> ⑤ 一种特殊就座方式，一张方桌每边二人，假设九人入座，四边可坐八人，余下一人坐在桌角进食，称“挂角”<sup>\[泰州\]</sup>：桌子小也坐得下来，你俫大人先坐下来，两个伢儿～不就行吖唻。<sup>\[泰州\]</sup>  
+1. 【[挂角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_gah.md#挂角)】`gua5 gah7` <small>/kua5 kaʔ7/<sup>兴化</sup>, /kua5 kaʔ7/<sup>如皋</sup>, /kuɑ5 kɑʔ7/<sup>泰兴</sup></small> ① 加座于桌角。<sup>\[如皋\]</sup> ② 方桌一桌八人吃饭，多来的人挤在桌角旁边叫“～”。<sup>\[东台\]</sup> ③ 象棋术语，指某棋子走到对方“九宫”的两角<sup>\[兴化\]</sup>：～将军。<sup>\[兴化\]</sup> ④ 每张方桌八个座位，如有九人必有一人～坐在桌角上进食。<sup>\[兴化\]</sup> ⑤ 一种特殊就座方式，一张方桌每边二人，假设九人入座，四边可坐八人，余下一人坐在桌角进食，称“挂角”<sup>\[泰州\]</sup>：桌子小也坐得下来，你俫大人先坐下来，两个伢儿～不就行吖唻。<sup>\[泰州\]</sup> ⑥ 因桌面坐席已满，多余的人坐于桌角，谓之挂角。<sup>\[泰兴\]</sup>  
 1. 【[挂钩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_geu.md#挂钩)】`gua5 geu1` <sup>[如东]</sup> ① 弯形的钩子。有铁制的，有木制的：把淘箩挂啊～上。 ② 两人或单位达成某种联系，叫做挂钩。  
 1. 【[挂官](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_gun.md#挂官)】`gua5 gun1` <sup>[如东]</sup> 把官帽挂在壁上或摆在桌上而离开，表示主动辞职：～而走。  
 1. 【[挂黑板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_heh_baen.md#挂黑板)】`gua5 heh7 baen3` <sup>[如东]</sup> ① 将黑板挂起来。 ② 老师某个问题解答不出来而站在黑板前面发愁，好像挂在黑板上一样。  
@@ -1320,6 +1320,7 @@
 1. 【[挂话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_hua.md#挂话)】`gua5 hua6` <sup>[兴化]</sup> 互相交谈、打招呼：她家妯娌两个又～啦。  
 1. 【[挂黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_huan.md#挂黄)】`gua5 huan2` <sup>[兴化]</sup> 难堪：老侯多嘴多舌，捱头儿一臭，当众～。  
 1. 【[挂羊头卖狗肉——名不副实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_ian_teu_mae.md#挂羊头卖狗肉——名不副实)】`gua5 ian2 teu2 mae6 geu3 roh8 mien2 beh7 fv5 sheh8` <sup>[东台]</sup>   
+1. 【[挂盐水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_in_shuei.md#挂盐水)】`gua5 in2 shuei` <small>/kuɑ5 ĩ2 suəɪ/<sup>泰兴</sup></small> 输液<sup>\[泰兴\]</sup>  
 1. 【[挂浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_jian.md#挂浆)】`gua5 jian1` <sup>[如东]</sup> 浆水从墙壁上或其他物体上流下来。  
 1. 【[挂桨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_jian.md#挂桨)】`gua5 jian3` <small>/kua5 t͡ɕiaŋ3/<sup>兴化</sup></small> ① 一种船用推进器，配套柴油机悬挂在船的尾部。也称“挂桨机”。<sup>\[兴化\]</sup> ② 由柴油机和螺旋桨组合而成的推进机器，螺旋桨竖在水中旋转推动船体前进，以其桨挂船尾而得名，20世纪70年代盛行于下河农村，今已不见<sup>\[泰州\]</sup>：水泥船上安吖一台～。<sup>\[泰州\]</sup>  
 1. 【[挂金灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_jien_den.md#挂金灯)】`gua5 jien1 den1` <small>/kua5 t͡ɕiəŋ1 təŋ1/<sup>如皋</sup></small> ① 茄科植物酸浆宿萼或带有成熟果实的宿萼。<sup>\[如东\]</sup> ② 酸浆。<sup>\[如皋\]</sup>  
@@ -1332,12 +1333,13 @@
 1. 【[挂面拳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_min_qiun.md#挂面拳)】`gua5 min6 qiun2` <sup>[兴化]</sup> 挥拳击打面部：一个～，打得他满脸是血。  
 1. 【[挂念](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_nin.md#挂念)】`gua5 nin6` <sup>[如东]</sup> 心中惦念  
 1. 【[挂牌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_pae.md#挂牌)】`gua5 pae2` <sup>[如皋]</sup> ① 公布价目。 ② 指豆科植物结出嫩荚。 ③ 儿童游戏中叫暂停为～。  
+1. 【[挂起轴子就念经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_qi_choh_zz.md#挂起轴子就念经)】`gua5 qi choh8 zz qieu6 nin6 jien1` <small>/kuɑ5 t͡ɕʰʝ t͡sʰɔʔ8 t͡sɿ t͡ɕʰiɤɯ1 nĩ1 t͡ɕiŋ1/<sup>泰兴</sup></small> 比喻板起面孔就训斥人、熊人。<sup>\[泰兴\]</sup>  
 1. 【[挂气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_qi.md#挂气)】`gua5 qi5` <sup>[如皋]</sup> 下肢浮肿；下行性浮肿：脚面儿～。  
 1. 【[挂人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_ren_zz.md#挂人子)】`gua5 ren zz` <sup>[如皋]</sup> 下行性肿胀感：他的脸㾑咖，觉察～。  
 1. 【[挂勺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_shah.md#挂勺)】`gua5 shah8` <small>/kua5 saʔ8/<sup>如皋</sup></small> ① 大勺子，有柄，可以挂在墙上。<sup>\[如东\]</sup> ② 用于舀汤料、猪食等的大铜勺。<sup>\[如皋\]</sup>  
-1. 【[挂水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_shuei.md#挂水)】`gua5 shuei3` <small>/kua5 suəi3/<sup>兴化</sup></small> ① 给病人输液、打吊针。<sup>\[东台\]</sup> ② （戏）早茶、晚酒的隐语<sup>\[兴化\]</sup>：几个人～去啊。<sup>\[兴化\]</sup>  
+1. 【[挂水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_shuei.md#挂水)】`gua5 shuei3` <small>/kua5 suəi3/<sup>兴化</sup>, /kuɑ5 suəɪ3/<sup>泰兴</sup></small> ① 打吊针，输液。<sup>\[泰兴\]</sup><sup>\[东台\]</sup> ② （戏）早茶、晚酒的隐语<sup>\[兴化\]</sup>：几个人～去啊。<sup>\[兴化\]</sup>  
 1. 【[挂香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_xian.md#挂香)】`gua5 xian1` <sup>[兴化]</sup> 旧时迎神赛会中的一种迷信举动：每年五月迎会，都有许多磕拜香的，其中磕～的都是还了大愿的。｜后面是～的，则都是壮汉，用一个小铁钩勾进左右手臂的肉里，下系一个带链子的锡香炉，炉里烧者檀香。（汪曾祺《故里三陈》）  
-1. 【[挂相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_xian.md#挂相)】`gua5 xian5` <small>/kua5 ɕiaŋ5/<sup>兴化</sup>, /kua5 ɕiã5/<sup>如皋</sup>, /kua5 ɕiɑŋ5/<sup>泰县</sup></small> ① 丢相、丢面子，下不来台。<sup>\[如皋\]</sup> ② 出丑、现相、丢面子。<sup>\[东台\]</sup> ③ 当场出丑<sup>\[兴化\]</sup>：他再老气横秋的就拿他～。<sup>\[兴化\]</sup> ④ 下不了台<sup>\[泰县\]</sup>：你不服输就要～。<sup>\[泰县\]</sup>  
+1. 【[挂相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_xian.md#挂相)】`gua5 xian5` <small>/kua5 ɕiaŋ5/<sup>兴化</sup>, /kua5 ɕiã5/<sup>如皋</sup>, /kuɑ5 ɕiɑŋ5/<sup>泰兴</sup>, /kua5 ɕiɑŋ5/<sup>泰县</sup></small> ① 丢相、丢面子，下不来台。<sup>\[如皋\]</sup> ② 出丑、现相、丢面子。<sup>\[东台\]</sup> ③ 当场出丑<sup>\[兴化\]</sup>：他再老气横秋的就拿他～。<sup>\[兴化\]</sup> ④ 下不了台<sup>\[泰县\]</sup>：你不服输就要～。<sup>\[泰县\]</sup> ⑤ 惶相；出丑。<sup>\[泰兴\]</sup>  
 1. 【[挂线](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_xin.md#挂线)】`gua5 xin5` <sup>[如皋]</sup> 瓦工等取垂直度的方法之一。  
 1. 【[挂账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_zhan.md#挂账)】`gua5 zhan5` <small>/kua5 t͡saŋ5/<sup>兴化</sup></small> 欠账，赊账<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：他在这家饭店吃饭从来不～。<sup>\[泰州\]</sup>  
 1. 【[褂裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_kv.md#褂裤)】`gua5 kv5` <sup>[兴化]</sup> 中式单上衣和裤子的合称：小～；单～。  

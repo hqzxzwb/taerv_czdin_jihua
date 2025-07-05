@@ -811,6 +811,7 @@
 1. 【[乘凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_lian.md#乘凉)】`chen2 lian2` <sup>[如东]</sup> 在阴凉的地方休息：下午，我在东山头～。  
 1. 【[乘便](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_pin.md#乘便)】`chen2 pin6` <sup>[如东]</sup> 顺便：～去下子。  
 1. 【[呈子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_zz.md#呈子)】`chen2 zz` <sup>[如东]</sup> ① 状子。 ② 呈文：请你帮我写个～送匃县政府。  
+1. 【[城隍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_huan.md#城隍)】`chen2 huan` <small>/t͡sʰəŋ2 xuɑŋ/<sup>泰兴</sup></small> 传守护城池的神。其所居之庙为城隍庙。<sup>\[泰兴\]</sup>  
 1. 【[城隍会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_huan_huei.md#城隍会)】`chen2 huan2 huei6` <sup>[如皋]</sup> 城隍庙举行的庙会。如皋城隍会有春、秋两次，规模庞大，城老爷夫妇塑像出巡。途经东西大街、大寺巷、北大街、出北门至龙王庙歇驾，再东向经花市街，沿河边至三官殿歇驾，从东门回驾。马夫、执事、乐队、表演队、各行业会员提香炉随行。  
 1. 【[城隍庙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_huan_mio.md#城隍庙)】`chen2 huan2 mio6` <sup>[东台]</sup> 城隍为守护城池的神，～为祭祀城隍的庙。东台城隍庙原址在东台城河河南（东中老校区对面），后来被拆毁。  
 1. 【[城脚根](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_jiah_gen.md#城脚根)】`chen2 jiah7 gen1` <sup>[兴化]</sup> 城墙附近的地方：倪四在东门～也算一霸……（《皮五辣子》一）  
@@ -1649,34 +1650,42 @@
 1. 【[春菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_cae.md#春菜)】`chuen1 cae5` <sup>[如皋]</sup> 春天新上市的蔬菜。如：毛菜、雪里蕻、蒜苗、新种的青菜等。  
 1. 【[春打五九尾，饿啊像个鬼；春打六九头，庄稼不用愁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_da_v_jieu.md#春打五九尾，饿啊像个鬼；春打六九头，庄稼不用愁)】`chuen1 da3 v3 jieu3 vei3 ngu6 a qian6 gu guei3 chuen1 da3 loh8 jieu3 teu2 zhuan1 jia5 beh7 ion6 cheu2` <sup>[东台]</sup> 一般来说，立春在六九第一天比在五九最后一天年景好些。  
 1. 【[春凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_den.md#春凳)】`chuen1 den5` <sup>[如皋]</sup> ① 见“茶凳”。 ② 一般放在高橱前的阔面凳。  
+1. 【[春东风，雨祖宗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_don_fon_y.md#春东风，雨祖宗)】`chuen1 don1 fon1 y3 zv3 zon1` <small>/t͡sʰuəŋ1 tɔŋ1 fɔŋ1 y3 t͡su3 t͡sɔŋ1/<sup>泰兴</sup></small> 气象谚语。谓春天刮东风，阴雨天气将连绵不断。<sup>\[泰兴\]</sup>  
 1. 【[春二三月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_er_saen_iuh.md#春二三月)】`chuen1 er6 saen1 iuh8` <sup>[泰州]</sup> 农历二三月，春暖花开时节。  
 1. 【[春分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_fen.md#春分)】`chuen1 fen1` 二十四节气之一，通常在3月20日或21日。  
 1. 【[春风裂石头，不戴帽子裂额头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_fon_lih_sheh.md#春风裂石头，不戴帽子裂额头)】`chuen1 fon1 lih8 sheh8 teu beh7 dae5 mo6 zz lih8 ngeh8 teu` <sup>[东台]</sup> 春天要适当“焐”  
+1. 【[春风裂石头，不戴帽子裂额头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_fon_lih_sheh.md#春风裂石头，不戴帽子裂额头)】`chuen1 fon1 lih8 sheh8 teu beh7 dae5 mo6 zz lih8 ngeh8 teu` <small>/t͡sʰuəŋ1 fɔŋ1 liʔ8 səʔ8 tʰəɪ pəʔ7 tɛ5 mɔ1 t͡sɿ liʔ8 ŋəʔ8 tʰəɪ/<sup>泰兴</sup></small> 谓春风湿度小，极易干燥，容易引起皮肤干裂。<sup>\[泰兴\]</sup>  
 1. 【[春风裂石头，春天裂额头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_fon_lih_sheh.md#春风裂石头，春天裂额头)】`chuen1 fon1 lih8 sheh8 teu chuen1 tin1 lih8 ngeh8 teu` <sup>[如皋]</sup> 春天春风干燥。  
 1. 【[春红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_hon.md#春红)】`chuen1 hon2` <sup>[如东]</sup> 春季生产的虾米，色红，蛋白质含量高，味鲜美。  
+1. 【[春荒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_huan.md#春荒)】`chuen1 huan1` <small>/t͡sʰuəŋ1 xuɑŋ1/<sup>泰兴</sup></small> 春季青黄不接时的饥荒。<sup>\[泰兴\]</sup>：度～<sup>\[泰兴\]</sup>  
 1. 【[春腌菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_in_cae.md#春腌菜)】`chuen1 in1 cae5` <sup>[如皋]</sup> 用毛菜、雪里蕻、芥菜等洗净、切碎、盐腌装坛制成䴛菜。  
 1. 【[春季](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_ji.md#春季)】`chuen1 ji5` <sup>[如东]</sup> 从阴历正月至三月，为春季。  
 1. 【[春节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_jih.md#春节)】`chuen1 jih7` ① 传统节日。春节一词为立春节气的简称<sup>\[如东\]</sup> ② 农历正月初一，是我国传统的最重要的节日。<sup>\[东台\]</sup>  
 1. 【[春菊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_jioh.md#春菊)】`chuen1 jioh7` <sup>[如皋]</sup> 雏菊。  
-1. 【[春卷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_jiun.md#春卷)】`chuen1 jiun3` <small>/t͡sʰuəŋ1 t͡ɕyʊ̃3/<sup>如皋</sup></small> ① 一种冬、春间常吃的食品。薄面皮包调制好的馅，成卷状，油炸上盘。<sup>\[如皋\]</sup> ② 常吃的一种食品，用薄面皮裹馅，卷成长条形，经油炸熟吃。<sup>\[东台\]</sup> ③ 春卷，一种食品，用极薄的面皮裹馅成为圆筒状，油炸即可。<sup>\[泰州\]</sup>  
+1. 【[春卷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_jiun.md#春卷)】`chuen1 jiun3` <small>/t͡sʰuəŋ1 t͡ɕyʊ̃3/<sup>如皋</sup>, /t͡sʰuəŋ1 t͡ɕyʊ̃3/<sup>泰兴</sup></small> ① 一种冬、春间常吃的食品。薄面皮包调制好的馅，成卷状，油炸上盘。<sup>\[如皋\]</sup> ② 常吃的一种食品，用薄面皮裹馅，卷成长条形，经油炸熟吃。<sup>\[东台\]</sup> ③ 春卷，一种食品，用极薄的面皮裹馅成为圆筒状，油炸即可。<sup>\[泰州\]</sup> ④ 时令食品。开春上市，乡人多喜食。<sup>\[泰兴\]</sup>  
 1. 【[春卷皮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_jiun_pi_zz.md#春卷皮子)】`chuen1 jiun3 pi2 zz` <sup>[如皋]</sup> 包春卷的薄面皮。  
 1. 【[春冷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_len.md#春冷)】`chuen1 len3` <sup>[东台]</sup> 立春以后天气稍稍转暖又出现严寒。  
 1. 【[春联](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_lin.md#春联)】`chuen1 lin2` <sup>[如东]</sup> 春节贴在大门、房门、耳门以及楹柱上的对联，称春联。  
 1. 【[春雷一声十日寒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_ly_ieh_shen.md#春雷一声十日寒)】`chuen1 ly2 ieh7 shen1 sheh8 rih8 hun2` <sup>[东台]</sup> 农谚，春雷后有十来天低温。  
 1. 【[春牛倒地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_ngeu_do_ti.md#春牛倒地)】`chuen1 ngeu2 do3 ti6` <sup>[东台]</sup> （农谚）：～，四十五天。意思是立春如下雨，后面接二连三是阴雨天。  
+1. 【[春盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_pun.md#春盘)】`chuen1 pun` <small>/t͡sʰuəŋ1 pʰʊ̃/<sup>泰兴</sup></small> 民俗。旧时立春日以韭菜、果品、饼饵、蛋皮、粉皮等簇盘为食称春盘。亦作“春拌”。今多指春日乡间美食。<sup>\[泰兴\]</sup>  
 1. 【[春秋衫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_qieu_shaen.md#春秋衫)】`chuen1 qieu1 shaen1` <sup>[东台]</sup> 适合春秋二季穿的上衣。  
 1. 【[春色<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_seh_r.md#春色<sub>儿</sub>)】`chuen1 seh7 r` <sup>[兴化]</sup> ① 脱去冬装，换上春装：小洪今朝一身～。 ② 喜悦的冲色：小刘满脸～。  
-1. 【[春上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_shan.md#春上)】`chuen1 shan` <small>/t͡sʰuəŋ1 sã/<sup>如皋</sup></small> ① 春天。<sup>\[如东\]</sup>：～过来的。<sup>\[如东\]</sup> ② 春季。<sup>\[如皋\]</sup>  
+1. 【[春上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_shan.md#春上)】`chuen1 shan` <small>/t͡sʰuəŋ1 sã/<sup>如皋</sup>, /t͡sʰuəŋ1 sɑŋ/<sup>泰兴</sup></small> 春天，春季<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：～过来的。<sup>\[如东\]</sup>  
 1. 【[春上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_shan.md#春上)】`chuen1 shan6` <sup>[东台]</sup> 春季：今年～雨水多。  
 1. 【[春霜不过三朝雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_shuan_beh_gu.md#春霜不过三朝雨)】`chuen1 shuan1 beh7 gu5 saen1 zho1 y3` <sup>[东台]</sup> 农谚，春天打霜三天内有雨。  
-1. 【[春头上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_teu_shan.md#春头上)】`chuen1 teu2 shan` <small>/t͡sʰuən1 tʰɤ2 saŋ/<sup>兴化</sup>, /t͡sʰuəŋ1 tʰei2 sã/<sup>如皋</sup></small> ① 早春，正、二月间。<sup>\[如皋\]</sup> ② 泛指春天。<sup>\[兴化\]</sup>  
+1. 【[春头上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_teu_shan.md#春头上)】`chuen1 teu2 shan` <small>/t͡sʰuən1 tʰɤ2 saŋ/<sup>兴化</sup>, /t͡sʰuəŋ1 tʰei2 sã/<sup>如皋</sup>, /t͡sʰuəŋ1 tʰəɪ2 sɑŋ/<sup>泰兴</sup></small> ① 早春，正、二月间。<sup>\[如皋\]</sup> ② 泛指春天。<sup>\[兴化\]</sup> ③ 春开刚开始的时候。<sup>\[泰兴\]</sup>  
 1. 【[春天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_tin.md#春天)】`chuen1 tin1` <sup>[如东]</sup> 春季，通称春天。  
 1. 【[春天茅针花𪐏眼睛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_tin_mo_zhen.md#春天茅针花𪐏眼睛)】`chuen1 tin1 mo2 zhen1 hua1 deh7 ngaen3 jien1` <sup>[东台]</sup> 春困现象，春天人容易打瞌睡，眼皮像黏住了睁不开。  
+1. 【[春焐秋冻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_v_qieu_don.md#春焐秋冻)】`chuen1 v5 qieu1 don5` <small>/t͡sʰuəŋ1 ʋ5 t͡ɕʰiɤɯ1 tɔŋ5/<sup>泰兴</sup></small> 谓虽然气温变化但不能随便增减衣服，必须逐步适应。<sup>\[泰兴\]</sup>  
 1. 【[春雾日头夏雾雨，秋雾狂风冬雾雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_v_rih_teu.md#春雾日头夏雾雨，秋雾狂风冬雾雪)】`chuen1 v5 rih8 teu2 xia6 v5 y3 qieu1 v5 kuan2 fon1 don1 v5 xiuh7` <sup>[东台]</sup> 四季的雾带来的气象各不相同。  
-1. 【[春雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_xiuh.md#春雪)】`chuen1 xiuh7` <small>/t͡sʰuəŋ1 ɕyʊʔ7/<sup>如皋</sup></small> ① 开春以后下的雪，称春雪。春雪对庄家不利，谚语“春雪烂麦根”。<sup>\[如东\]</sup> ② 尽九以后下的雪。谚云：“春雪烂麦根”。<sup>\[如皋\]</sup>  
+1. 【[春雾雨，夏雾晴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_v_y_xia.md#春雾雨，夏雾晴)】`chuen1 v5 y3 xia6 v5 qien2` <small>/t͡sʰuəŋ1 ʋ5 y3 ɕiɑ1 ʋ5 t͡ɕʰiŋ2/<sup>泰兴</sup></small> 气象谚语。谓四季雾天的天气变化。下句为“秋雾凉风冬雾雪”。<sup>\[泰兴\]</sup>  
+1. 【[春雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_xiuh.md#春雪)】`chuen1 xiuh7` <small>/t͡sʰuəŋ1 ɕyʊʔ7/<sup>如皋</sup>, /t͡sʰuəŋ1 ɕyʊʔ7/<sup>泰兴</sup></small> ① 开春以后下的雪，称春雪。春雪对庄家不利，谚语“春雪烂麦根”。<sup>\[如东\]</sup> ② 尽九以后下的雪。谚云：“春雪烂麦根”。<sup>\[如皋\]</sup> ③ 立春以后下的雪。<sup>\[泰兴\]</sup>  
+1. 【[春雪倒老牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_xiuh_do_lo.md#春雪倒老牛)】`chuen1 xiuh7 do3 lo3 ngeu2` <small>/t͡sʰuəŋ1 ɕyʊʔ7 tɔ3 lɔ3 ŋəɪ2/<sup>泰兴</sup></small> 谓春雪对体弱多病的牛马畜类包括对老年人的健康均不利。<sup>\[泰兴\]</sup>  
 1. 【[春鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_y.md#春鱼)】`chuen1 y2` <small>/t͡sʰuəŋ1 y2/<sup>如皋</sup></small> ① 见“狼头儿鱼”。<sup>\[如皋\]</sup> ② 春季捕获上市的黄鱼的专称。（见“大眼睛”）每年清明前后进入近海产卵繁殖，立夏后离开渔场，此时鱼肉尤为肥美。<sup>\[东台\]</sup>  
 1. 【[春雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_y.md#春雨)】`chuen1 y3` <sup>[如皋]</sup> 早春的雨水。很珍贵。俗说“春雨贵如油”。  
-1. 【[春卮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_zhr.md#春卮)】`chuen1 zhr1` <small>/t͡sʰuən1 t͡sɿ1/<sup>兴化</sup></small> ① 农历正月里为请左邻右舍、亲朋好友而办的酒席。<sup>\[东台\]</sup> ② 新春间宴请亲朋好友<sup>\[兴化\]</sup>：今朝轮到老王家候～。<sup>\[兴化\]</sup>  
+1. 【[春雨不湿路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_y_beh_sheh_lv.md#春雨不湿路)】`chuen1 y3 beh7 sheh7 lv6` <small>/t͡sʰuəŋ1 y3 pəʔ7 səʔ7 lu1/<sup>泰兴</sup></small> 春雨一般较少，加之春日天干日长，故雨后路上很快就干，东乡犹然。<sup>\[泰兴\]</sup>  
+1. 【[春卮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_zhr.md#春卮)】`chuen1 zhr1` <small>/t͡sʰuən1 t͡sɿ1/<sup>兴化</sup>, /t͡sʰuəŋ1 t͡sɿ1/<sup>泰兴</sup></small> ① 农历正月里为请左邻右舍、亲朋好友而办的酒席。<sup>\[东台\]</sup> ② 新春间宴请亲朋好友<sup>\[兴化\]</sup>：今朝轮到老王家候～。<sup>\[兴化\]</sup> ③ 春酒。春节以后亲友相互宴请，曰“请春栀”。<sup>\[泰兴\]</sup>  
 1. 【[碜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen.md#碜)】`chuen3` <small>/t͡sʰuəŋ3/<sup>如皋</sup>, /t͡ɕʰyəŋ3/<sup>泰县</sup></small> ① 杂有沙子的不适感<sup>\[如皋\]</sup>：青菜不曾洗干净有点儿～<sup>\[如皋\]</sup>｜鞋子进沙子，脚穿吖肚里觉察～。<sup>\[如皋\]</sup> ② 夹泥沙<sup>\[泰县\]</sup>：饭里有沙子，吃起来～的。<sup>\[泰县\]</sup> ③ 含有泥沙食物对口腔的刺激所产生的粗糙感觉<sup>\[泰州\]</sup>：你先头子菜上的烂泥不曾洗得干净，这一刻儿菜吃咖嘴里～煞咖。<sup>\[泰州\]</sup>  
 1. 【[碜牙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_nga_zz.md#碜牙子)】`chuen3 nga2 zz` <sup>[如东]</sup> 食物中夹杂着泥沙，咀嚼时砸牙齿，叫做碜：这碗饭～牙子。  
 1. 【[衬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen.md#衬)】`chuen5` ① 以假意的过分的评价进行夸耀。<sup>\[如东\]</sup>：他在下～你！<sup>\[如东\]</sup> ② 垫于某个物体之下，取其“衬衣近身垫于外衣下面”之义<sup>\[泰州\]</sup>：鞋子嫌大，你在里头～个鞋垫儿。<sup>\[泰州\]</sup> ③ 特指菜肴之中主料之外添加配料<sup>\[泰州\]</sup>：总共就二斤肉，你多弄点萝卜～～，不然人多不够吃。<sup>\[泰州\]</sup>｜炒长鱼不～点儿洋葱不起香。<sup>\[泰州\]</sup>  

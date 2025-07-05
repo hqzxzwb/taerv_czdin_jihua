@@ -1963,6 +1963,7 @@
 1. 【[垛圪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_geh.md#垛圪)】`tu6 geh7` <sup>[兴化]</sup> 河潮中狭长的土丘：圩外地区，一匡匡稻田，一条条～，四周都是河港。  
 1. 【[垛田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_tin.md#垛田)】`tu6 tin2` <sup>[兴化]</sup> 兴化境内种植蔬菜杂粮的垛岸。一般四面或三面环水。  
 1. 【[垛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_zz.md#垛子)】`tu6 zz` <sup>[兴化]</sup> 河湖中的大土墩。  
+1. 【[垛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_zz.md#垛子)】`tu6 zz` <small>/tʰɤɯ1 t͡sɿ/<sup>泰兴</sup></small> 四面环水或四面低洼中间突出的部分。县域内作地名的颇多。如横垛、大元垛、张家垛等。<sup>\[泰兴\]</sup>  
 1. 【[大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#大)】`tu6` <sup>[东台]</sup> ～小（大儿子）｜～爹（大爷）｜～婆娘（排行老大的女人）｜～拇指头（大拇指）。  
 1. 【[大板床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_baen_chuan.md#大板床)】`tu6 baen3 chuan2` <sup>[如皋]</sup> 见“牛栏床”。  
 1. 【[大爹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_dia.md#大爹)】`tu6 dia1` <sup>[东台]</sup> 大爷  
