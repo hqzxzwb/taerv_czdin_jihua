@@ -343,7 +343,7 @@
 1. 【[走子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeu_zz.md#走子)】`zeu3 zz3` 将棋子移动至错误位置，比喻偏离原定计划<sup>\[泰州\]</sup>：领导交待的事，他绝对不敢～。<sup>\[泰州\]</sup>  
 1. 【[走子<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeu_zz_r.md#走子<sub>儿</sub>)】`zeu3 zz3 r` <small>/t͡sɤ3 t͡sɿ3 ɚ/<sup>兴化</sup>, /t͡sei3 t͡sɿ˞3/<sup>如皋</sup></small> ① 移动棋子。<sup>\[如皋\]</sup> ② 出了偏差、出了问题。<sup>\[如皋\]</sup> ③ 出差错<sup>\[兴化\]</sup>：你放心，这件事不得～。<sup>\[兴化\]</sup>  
 1. 【[喳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha.md#喳)】`zha1` <sup>[泰州]</sup> 语气词，跟在动词后，表示催促：你打～，只要你敢动一下子。｜你吃～，这吖细巧，哿是嫌菜不好吃咖？  
-1. 【[喳巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_ba.md#喳巴)】`zha1 ba` 大声说个不停的样子<sup>\[泰州\]</sup>：人家倒不则声唻，她还在下～啊不歇。<sup>\[泰州\]</sup>｜你不要听她瞎～，没得她说的这吖严重。<sup>\[泰州\]</sup>  
+1. 【[喳巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_ba.md#喳巴)】`zha1 ba` <small>/t͡sɑ1 pɑ/<sup>泰兴</sup></small> ① 大声说个不停的样子<sup>\[泰州\]</sup>：人家倒不则声唻，她还在下～啊不歇。<sup>\[泰州\]</sup>｜你不要听她瞎～，没得她说的这吖严重。<sup>\[泰州\]</sup> ② 议论。贬义。多指背后说长道短。<sup>\[泰兴\]</sup>：做格种事又不怕人～<sup>\[泰兴\]</sup>  
 1. 【[喳巴嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_ba_jy.md#喳巴嘴)】`zha1 ba jy3` <sup>[泰县]</sup> 不了解事实就乱说的人：这个人是个～，到啊那许只听他一个人的。  
 1. 【[喳巴嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_ba_jy.md#喳巴嘴)】`zha1 ba1 jy3` <sup>[东台]</sup> 说话随便，口无遮拦的人。（或作“奓巴嘴”，奓，张开。见《广韵》）  
 1. 【[喳巴喳巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_ba_zha_ba.md#喳巴喳巴)】`zha1 ba1 zha1 ba1` <small>/t͡sa1 pa1 t͡sa1 pa1/<sup>兴化</sup></small> ① 形容旁若无人地乱说一气<sup>\[东台\]</sup>：那天他不该～的说咖不歇。<sup>\[东台\]</sup> ② 形容自充其能，喜欢说三道四的人<sup>\[兴化\]</sup>：这个婆娘了不得！到哪块只听她～的。<sup>\[兴化\]</sup>  
