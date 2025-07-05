@@ -1468,13 +1468,13 @@
 1. 【[□一冲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_ieh_chon.md#□一冲)】`mo3 ieh7 chon5` <sup>[如皋]</sup> 陡然、突然：我～遇到他，真的认不出来呀。  
 1. 【[㴘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo.md#㴘)】`mo3` <sup>[东台]</sup> 泡渍：你把这块肉下锅用水～下子。  
 1. 【[冇口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_keu.md#冇口)】`mo3 keu3` <sup>[如皋]</sup> 见“夹冇”。  
-1. 【[卯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo.md#卯)】`mo3` <small>/mɔ3/<sup>兴化</sup></small> ① 地支第四位。 ② 旧时官衙规定～时开始办公（早晨5-7点），所以用～作为点名、签到的代称。<sup>\[东台\]</sup> ③ 逃脱<sup>\[兴化\]</sup>：这回又让他～掉啊。<sup>\[兴化\]</sup>  
+1. 【[卯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo.md#卯)】`mo3` <small>/mɔ3/<sup>兴化</sup>, /mɔ3/<sup>泰兴</sup></small> ① 地支第四位。 ② 旧时官衙规定～时开始办公（早晨5-7点），所以用～作为点名、签到的代称。<sup>\[东台\]</sup> ③ 逃脱<sup>\[兴化\]</sup>：这回又让他～掉啊。<sup>\[兴化\]</sup> ④ （螺丝）滑丝<sup>\[泰兴\]</sup>：螺丝～掉了，挤不下来/螺丝滑丝了，拧不下来<sup>\[泰兴\]</sup>  
 1. 【[卯住啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_chv_a.md#卯住啊)】`mo3 chv a` <small>/mɔ3 t͡sʰu a/<sup>泰兴</sup></small> 懵住，无话可说\[泰兴：泰兴口语又“卯住lei”\]：把他问吖～<sup>\[泰兴\]</sup>  
 1. 【[卯调](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_dio.md#卯调)】`mo3 dio5` <sup>[兴化]</sup> 说话过了头：这话说咖～，不好收回。也说“冒调”。  
 1. 【[卯口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_keu.md#卯口)】`mo3 keu3` <sup>[如东]</sup> 用绳索打成一个圆形的扣，叫卯口。  
 1. 【[卯眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_ngaen.md#卯眼)】`mo3 ngaen3` <sup>[如东]</sup> 某些工件利用凹凸方式相连接的地方的凹进部分，称卯眼：正梁的的～打啊在两头。  
 1. 【[卯头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_teu.md#卯头)】`mo3 teu` <small>/mɔ3 tʰɤ/<sup>兴化</sup></small> ① 两根木头交叉扎成支架，能够夹住另一根木头，便于加工。这种装置叫做卯头。<sup>\[如东\]</sup> ② 买肉时，商家另加的一块碎肉，叫卯头。<sup>\[如东\]</sup> ③ 民俗<sup>\[兴化\]</sup>：购买猪肉时，在整块之外必须加一小块，谓“搭卯”，所加的小块肉即谓～。<sup>\[兴化\]</sup>  
-1. 【[卯掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_tio.md#卯掉)】`mo3 tio` <small>/mɔ3 tʰiɔ/<sup>泰县</sup></small> ① 过头<sup>\[泰县\]</sup>：话说咖～啊<sup>\[泰县\]</sup> ② 点卯之时某人未来而导致遗漏未点。泛指举行活动时漏掉应该参加的人，多指忘记或者没有通知应该来参加的人<sup>\[泰州\]</sup>：今朝下午开动员大会，连退休的党员都来唻，不曾～一个人。<sup>\[泰州\]</sup> ③ 指侥幸逃脱惩罚<sup>\[泰州\]</sup>：八个人全部捱公安局捉住啊，一个都不曾～。<sup>\[泰州\]</sup>  
+1. 【[卯掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_tio.md#卯掉)】`mo3 tio` <small>/mɔ3 tʰiɔ/<sup>泰兴</sup>, /mɔ3 tʰiɔ/<sup>泰县</sup></small> ① 过头<sup>\[泰县\]</sup><sup>\[泰兴\]</sup>：话说咖～啊<sup>\[泰县\]</sup>｜吹牛吹啊～啊<sup>\[泰兴\]</sup> ② 点卯之时某人未来而导致遗漏未点。泛指举行活动时漏掉应该参加的人，多指忘记或者没有通知应该来参加的人<sup>\[泰州\]</sup>：今朝下午开动员大会，连退休的党员都来唻，不曾～一个人。<sup>\[泰州\]</sup> ③ 指侥幸逃脱惩罚<sup>\[泰州\]</sup>：八个人全部捱公安局捉住啊，一个都不曾～。<sup>\[泰州\]</sup>  
 1. 【[卯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_zz.md#卯子)】`mo3 zz` 卖肉者在称好肉之后，再割一小块作为饶头的肉<sup>\[东台\]</sup>\[泰州：泰州词典作“昴子”，取其“一星的肉”之义。\]：大哥，又给你添～，满意啊吧？！<sup>\[东台\]</sup>  
 1. 【[懵一冲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_ieh_chon.md#懵一冲)】`mo3 ieh7 chon1` <sup>[如皋]</sup> 暂时性的，一时。  
 1. 【[瞀亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_lian.md#瞀亮)】`mo3 lian6` <sup>[泰州]</sup> 人刚脱离黑暗环境之时，眼睛突然受到阳光刺激而睁不开，或者不能适应特别强烈光的照射而使眼睛昏花：你才走黑处跑出来，这一刻儿突然望到太阳，怎吖得不～㖸。  
