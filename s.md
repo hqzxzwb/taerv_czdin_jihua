@@ -427,6 +427,7 @@
 1. 【[杉货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_hu.md#杉货)】`sha1 hu5` <sup>[兴化]</sup> 指竹编的篮子、笿子、淘箩、筛、蒸笼、火把等商品：～店。  
 1. 【[杉揦子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_laeh_zz.md#杉揦子)】`sha1 laeh8 zz` <small>/sa1 læʔ8 t͡sɿ/<sup>兴化</sup>, /sa1 leʔ8 t͡sɿ/<sup>如皋</sup></small> ① 木制的粗大的城门栅。俗说<sup>\[如皋\]</sup>：（你）力气大，到西门城外去扛～。<sup>\[如皋\]</sup> ② 由杉木条做成的栅栏<sup>\[兴化\]</sup>：（李逵）睁圆怪眼，倒竖虎须……便把～撧葱般拔断……（《水浒传》七四）<sup>\[兴化\]</sup>  
 1. 【[栅揦子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_laeh_zz.md#栅揦子)】`sha1 laeh8 zz` <sup>[如东]</sup> 用竹片或木条编织起来的围墙。  
+1. 【[栅揦子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_laeh_zz.md#栅揦子)】`sha1 laeh8 zz` <small>/sɑ1 læʔ8 t͡sɿ/<sup>泰兴</sup></small> 栅栏。用竹子或芦苇编成的类似篙笆的东西。<sup>\[泰兴\]</sup>  
 1. 【[沙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha.md#沙)】`sha1` <small>/sa1/<sup>兴化</sup>, /sa1/<sup>泰县</sup></small> ① 细小的石粒。禾叶被虫咬过后出现小圆洞，称沙。<sup>\[如东\]</sup>：菜叶～。<sup>\[如东\]</sup> ② 形容惊惶失措的样子<sup>\[兴化\]</sup>：财务科长的问题一暴露，同案的几个头头全吓咖～啊。<sup>\[兴化\]</sup> ③ 滴漏：袋儿里的米～下来啊。<sup>\[泰县\]</sup> ④ 粒状物从容器中漏掉<sup>\[泰州\]</sup>：箩上有个洞，黄沙都～掉啊。袋子破啊啦，米～～的。<sup>\[泰州\]</sup> ⑤ 液体向下流淌<sup>\[泰州\]</sup>：感吖冒，清鼻涕～～的，揩啊不歇。<sup>\[泰州\]</sup>  
 1. 【[沙板田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_baen_tin.md#沙板田)】`sha1 baen3 tin2` <sup>[如皋]</sup> 沙壤中含沙多的田块。易板结，土质差。  
 1. 【[沙板土](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_baen_tv.md#沙板土)】`sha1 baen3 tv3` <sup>[如皋]</sup> 沙壤，易板结。  

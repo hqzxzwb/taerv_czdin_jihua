@@ -21,6 +21,7 @@
 1. 【[沃动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_ton.md#沃动)】`oh7 ton` <sup>[如东]</sup> 濛濛细雨密集地下着：外头的雨落咖～。  
 1. 【[䐥臭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_cheu.md#䐥臭)】`on1 cheu5` 很臭<sup>\[泰州\]</sup>：你几天不换袜子，～的。<sup>\[泰州\]</sup>  
 1. 【[嗡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_zz.md#嗡子)】`on1 zz` <sup>[兴化]</sup> 空竹：扯～（抖空竹）。  
+1. 【[瓮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_zz.md#瓮子)】`on1 zz` <small>/ɔŋ1 t͡sɿ/<sup>泰兴</sup></small> 陶制盛器，小口大腹。<sup>\[泰兴\]</sup>  
 1. 【[翁柿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_shr.md#翁柿)】`on1 shr6` <sup>[如皋]</sup> 一种大柿子。  
 1. 【[翁媳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_xieh.md#翁媳)】`on1 xieh7` <sup>[如皋]</sup> 见“公媳”。  
 1. 【[横板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_baen.md#横板)】`on2 baen3` <sup>[如东]</sup> 帆船船头上的一块横板。  
@@ -64,5 +65,4 @@
 1. 【[𨞑<sub>儿</sub>烂泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_r_laen_ni.md#𨞑<sub>儿</sub>烂泥)】`on5 r laen6 ni2, ngon5 r laen6 ni2` <sup>[如皋]</sup> 河底淤泥。  
 1. 【[𨞑味<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_vei_r.md#𨞑味<sub>儿</sub>)】`on5 vei6 r, ngon5 vei6 r` <sup>[如皋]</sup> 腐臭味。  
 1. 【[𨞑咂咂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_zaeh_zaeh.md#𨞑咂咂)】`on5 zaeh7 zaeh7` <sup>[东台]</sup> 很臭。（原文作“䐥”，声调不合）  
-1. 【[瓮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_zz.md#瓮子)】`on6 zz` <small>/ɔŋ1 t͡sɿ/<sup>泰兴</sup></small> 陶制盛器，小口大腹。<sup>\[泰兴\]</sup>  
 **[▲](#音序检索)**  

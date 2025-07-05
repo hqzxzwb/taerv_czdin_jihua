@@ -432,6 +432,7 @@
 1. 【[沃动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_ton.md#沃动)】`oh7 ton` <sup>[如东]</sup> 濛濛细雨密集地下着：外头的雨落咖～。  
 1. 【[䐥臭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_cheu.md#䐥臭)】`on1 cheu5` 很臭<sup>\[泰州\]</sup>：你几天不换袜子，～的。<sup>\[泰州\]</sup>  
 1. 【[嗡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_zz.md#嗡子)】`on1 zz` <sup>[兴化]</sup> 空竹：扯～（抖空竹）。  
+1. 【[瓮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_zz.md#瓮子)】`on1 zz` <small>/ɔŋ1 t͡sɿ/<sup>泰兴</sup></small> 陶制盛器，小口大腹。<sup>\[泰兴\]</sup>  
 1. 【[翁柿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_shr.md#翁柿)】`on1 shr6` <sup>[如皋]</sup> 一种大柿子。  
 1. 【[翁媳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_xieh.md#翁媳)】`on1 xieh7` <sup>[如皋]</sup> 见“公媳”。  
 [更多...](./o.md)

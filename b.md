@@ -1310,6 +1310,7 @@
 1. 【[标脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_lin.md#标脸)】`bio1 lin3` <sup>[兴化]</sup> 青年男子漂亮的脸蛋儿：小王今年二十出头，是个小～。｜咦喂，确实是副～嘛。（扬说《风雨同舟》）  
 1. 【[标皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_pi.md#标皮)】`bio1 pi2` <sup>[兴化]</sup> 树木靠皮的部分。标，《集韵·宵韵》卑遥切“木杪”。其本义是木头尾梢，和“皮”本非同一部分，在兴化方言中被合为一体：她抬头看着丈夫扛着木头尾和～板进来。（马《门》）  
 1. 【[标品](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_pien.md#标品)】`bio1 pien3` <small>/piɔ1 pʰiɪ̃3/<sup>兴化</sup></small> ① 多指漂亮的男子<sup>\[东台\]</sup>：他是个小～，工作又好，令人羡慕。<sup>\[东台\]</sup> ② 青年男子品貌标致<sup>\[兴化\]</sup>：小黄是个～，有几个女伢儿追过他。<sup>\[兴化\]</sup>｜这块来的这位，是个～，才合称哩。（扬说《风雨同舟》）<sup>\[兴化\]</sup> ③ 上乘，指男子风度仪容出众<sup>\[泰州\]</sup>：他的长相要放你单位肯定是～。<sup>\[泰州\]</sup>  
+1. 【[标致](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_zhr.md#标致)】`bio1 zhr5` <small>/piɔ1 t͡sɿ5/<sup>泰兴</sup></small> 优美：秀丽。乡间还有称言语中听之意。<sup>\[泰兴\]</sup>：他说得又～，又滑滴。<sup>\[泰兴\]</sup>  
 1. 【[滮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio.md#滮)】`bio1` ① 水喷出来的样子 ② （常指牲畜）腹泻  
 1. 【[膘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio.md#膘)】`bio1` <sup>[东台]</sup> 肥肉（多用于牲畜，用于人时带戏谑意）：长～｜跌～  
 1. 【[膘肥肉壮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bio_fei_roh_zhuan.md#膘肥肉壮)】`bio1 fei2 roh8 zhuan5` <sup>[兴化]</sup> ① 形容牲畜又肥又壮：（他）骑的是一匹银鬃马……～，鞍鞯踏蹬，无一不考究。（扬二《严秀打店》） ② 形容人高大健壮（带挪揄口吻）。  
