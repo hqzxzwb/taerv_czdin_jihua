@@ -880,15 +880,15 @@
 1. 【[一茫黑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_man_heh.md#一茫黑)】`ieh7 man2 heh7` <sup>[如东]</sup> 一片黑暗：今朝夜里～  
 1. 【[一茫亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_man_lian.md#一茫亮)】`ieh7 man2 lian6` <sup>[如东]</sup> 一片亮光：到处～。  
 1. 【[一门头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_men_teu.md#一门头)】`ieh7 men teu2` <sup>[如皋]</sup> 只有这一样。  
-1. 【[一门心思](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_men_xien_sz.md#一门心思)】`ieh7 men xien1 sz` <sup>[如皋]</sup> 专心，一心一意：我进吖课堂就～学习。  
+1. 【[一门心思](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_men_xien_sz.md#一门心思)】`ieh7 men xien1 sz` <small>/iəʔ7 məŋ ɕiəŋ1 sɿ/<sup>如皋</sup></small> 专心，一心一意<sup>\[如皋\]</sup>：我进吖课堂就～学习。<sup>\[如皋\]</sup>  
 1. 【[一门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_men.md#一门)】`ieh7 men2` <sup>[如东]</sup> ① 一族：就剩下他～。 ② 一科：只有～功课。  
 1. 【[一门腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_men_qian.md#一门腔)】`ieh7 men2 qian1` <small>/iəʔ7 mən t͡ɕʰiaŋ1/<sup>兴化</sup>, /iəʔ7 məŋ t͡ɕʰiã1/<sup>如皋</sup>, /iʔ7 məŋ t͡ɕʰiɑŋ1/<sup>泰兴</sup></small> ① 单一<sup>\[如皋\]</sup><sup>\[兴化\]</sup>：你不要～的做学问，也要管管儿女的事。<sup>\[如皋\]</sup>｜他的手艺～，在农村吃不开。<sup>\[兴化\]</sup> ② 固执，固守观念<sup>\[泰兴\]</sup><sup>\[泰州\]</sup>：处长就是～，认定老李不能胜任，大家也没得半点儿办法。<sup>\[泰州\]</sup> ③ 一种腔调，一样说法<sup>\[如东\]</sup><sup>\[泰州\]</sup>：他俫～的说。<sup>\[如东\]</sup>｜会上全是～，没得一个人帮老赵说一句话。<sup>\[泰州\]</sup>  
 1. 【[一米度三光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_mi_tv_saen.md#一米度三光)】`ieh7 mi3 tv6 saen1 guan1` <sup>[如皋]</sup> 一粒米能支持人度过三寸光阴（光影在地上移动三寸所需的时间）。教育人珍惜粮食。  
 1. 【[一米度三荒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_mi_tv_saen.md#一米度三荒)】`ieh7 mi3 tv6 saen1 huan1` <sup>[如皋]</sup> 一粒米能支持人度过三分饥荒。  
+1. 【[一面街](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_min_gae.md#一面街)】`ieh7 min gae1` <small>/iəʔ7 mĩ kɛ1/<sup>如皋</sup></small> ① 只在一侧有店的街道。<sup>\[如皋\]</sup> ② 旧时镇市临河，河边为路道，只有～。唐时鉴真和尚笔下的如皋镇，就是～；海安、白蒲等大小镇，旧时都如此。同“迎河街”。<sup>\[如皋\]</sup>  
 1. 【[一面不识](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_min_beh_sheh.md#一面不识)】`ieh7 min6 beh7 sheh7` <sup>[兴化]</sup> 因从未见过面而不认识对方：我跟他～，这吖贵重的东西怎吖敢交啊把他。  
 1. 【[一面打墙两面好看](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_min_da_qian.md#一面打墙两面好看)】`ieh7 min6 da3 qian2 laen3 min6 ho3 kun5` <sup>[东台]</sup> 一举两得双方满意，也作“一面打墙两面光”。  
 1. 【[一面倒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_min_do.md#一面倒)】`ieh7 min6 do3` <sup>[如东]</sup> ① 向一边倒。 ② 许多人顺着某一种意见：他俫是～。  
-1. 【[一面街](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_min_gae.md#一面街)】`ieh7 min6 gae1` <small>/iəʔ7 mĩ1 kɛ1/<sup>如皋</sup></small> ① 见“迎河街”。<sup>\[如皋\]</sup> ② 只在一侧有店的街道。<sup>\[如皋\]</sup> ③ 旧时镇市临河，河边为路道，只有～。唐时鉴真和尚笔下的如皋镇，就是～；海安、白蒲等大小镇，旧时都如此。<sup>\[如皋\]</sup>  
 1. 【[一面隑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_min_kae.md#一面隑)】`ieh7 min6 kae5` <sup>[如东]</sup> ① 靠向一边。 ② 许多人顺着某一种意见跟着跑：他俫是～。  
 1. 【[一面理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_min_li.md#一面理)】`ieh7 min6 li3` <sup>[如东]</sup> 一个方面的意见，片面的理由：他说的只是～。  
 1. 【[一面之交](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_min_zhr_jio.md#一面之交)】`ieh7 min6 zhr1 jio1` <sup>[泰兴]</sup> ① 谓只见过一面，相互了解不深。 ② 我与箇个人只有～，说不上有甚的感情。  
