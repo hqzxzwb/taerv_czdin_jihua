@@ -826,6 +826,7 @@
 1. 【[扼憋憋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeh_bih_bih.md#扼憋憋)】`ngeh7 bih7 bih7` <sup>[泰州]</sup> 在外界正义行动或者舆论的压力下，被迫收回自己的错误决定：在过路群众的指责之下，小贩子～的把多收的钱退啊把年纪大的。｜大家强烈反对，他只好～的收回自己的意见。  
 1. 【[扼帘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeh_lin_zz.md#扼帘子)】`ngeh7 lin2 zz` <sup>[如东]</sup> 用绳子把芦苇秆或毛竹丝编成帘子，这种劳动叫做扼帘子。  
 1. 【[轭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeh_zz.md#轭子)】`ngeh7 zz` <sup>[如皋]</sup> 架于骡、马肩部的夹具。相当于牛头，是牵引力的起点。  
+1. 【[呃/餩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeh.md#呃/餩)】`ngeh8` 气逆声，打嗝(呃逆，不是嗳气)声<sup>\[东台\]</sup><sup>\[泰州\]</sup>：打～。<sup>\[东台\]</sup>｜～打啊不歇，快点ㄦ家去加点ㄦ衣裳。<sup>\[泰州\]</sup>｜打～。<sup>\[泰州\]</sup>  
 1. 【[杌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeh_zz.md#杌子)】`ngeh8 zz, veh8 zz` 无靠背的椅子  
 1. 【[杌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeh_zz.md#杌子)】`ngeh8 zz` <sup>[如东]</sup> 一种四方形的凳。通常长38厘米，宽28厘米，高48厘米。  
 1. 【[轭头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeh_teu.md#轭头)】`ngeh8 teu` <sup>[兴化]</sup> 牛耕地、拉磨时架在肩头上的轭具。  
