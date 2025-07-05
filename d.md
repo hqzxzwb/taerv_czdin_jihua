@@ -2327,6 +2327,7 @@
 1. 【[冻吖河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_nga_hu.md#冻吖河)】`don5 nga hu2` <sup>[如皋]</sup> ① 见“封冻”。 ② 即封河。  
 1. 【[冻吖起啊瘤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_nga_qi_a.md#冻吖起啊瘤)】`don5 nga qi3 a lieu2` <sup>[如皋]</sup> 冰面有许多凸起，表示气温极低。  
 1. 【[冻𤖭<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_paen_r.md#冻𤖭<sub>儿</sub>)】`don5 paen2 r` <sup>[如皋]</sup> 薄冰。小冰块。  
+1. 【[冻片子皵皵的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_pin_zz_qiah.md#冻片子皵皵的)】`don5 pin5 zz qiah7 qiah7 dii` <small>/tɔŋ5 pʰĩ5 t͡sɿ t͡ɕʰiɑʔ7 t͡ɕʰiɑʔ7 təɪ/<sup>泰兴</sup></small> 地面或水面冰棱凸凹不平。指天气严寒。<sup>\[泰兴\]</sup>  
 1. 【[冻煞鬼变的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_shaeh_guei_bin.md#冻煞鬼变的)】`don5 shaeh guei3 bin5 dii` <small>/tɔŋ5 ɕiæʔ kuəɪ3 pĩ5 təɪ/<sup>泰兴</sup></small> 喻十分怕冷的人。<sup>\[泰兴\]</sup>  
 1. 【[冻水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_shuei.md#冻水)】`don5 shuei3` <sup>[如东]</sup> 水结冰：夜里冻吖水。  
 1. 【[冻豆腐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_teu_fv.md#冻豆腐)】`don5 teu fv` <small>/tɔŋ5 tʰəɪ fʋ/<sup>泰兴</sup></small> 冻过的豆腐，别有风味。<sup>\[泰兴\]</sup>  
