@@ -607,6 +607,7 @@
 1. 【[润和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ruen_hu.md#润和)】`ruen6 hu` <sup>[如皋]</sup> ① 牌气温和，态度和蔼：脾气～；说话～。 ② 醇，不辣：酒味～。 ③ 天气不冷不热、不乾不湿：天气～。  
 1. 【[润里抹杀的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ruen_lii_maeh_shaeh.md#润里抹杀的)】`ruen6 lii maeh8 shaeh7 dii` <sup>[如皋]</sup> ① 似潮非潮的感觉。 ② 喻脾气䵑而不爽。  
 1. 【[润湿湿的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ruen_sheh_sheh_dii.md#润湿湿的)】`ruen6 sheh7 sheh7 dii` <sup>[如皋]</sup> 湿漉漉的。  
+1. 【[闰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ruen.md#闰)】`ruen6` <small>/luən6/<sup>兴化</sup>, /ɻuəŋ1/<sup>如皋</sup>, /ɻuəŋ1/<sup>泰兴</sup>, /ɻuəŋ1/<sup>泰县</sup></small> 历法术语，农历中指有的年份比平常年多一个月：～五月/紧接在五月之后的置闰的月｜今年子～五月/今年是闰年，多出来的是闰五月  
 1. 【[闰月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ruen_iuh.md#闰月)】`ruen6 iuh8` <sup>[如东]</sup> 阴历每逢闰年所增加的一个月，称闰月。阳历每逢闰年的二月，称闰月。  
 1. 【[闰年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ruen_nin.md#闰年)】`ruen6 nin2` <sup>[如东]</sup> 阴历三年一闰，五年两闰，十九年七闰。闰年增加一个月，全年383天或384天。阳历每四百年中有九十七年闰年，闰年在二月末加一天，全年366天。  
 1. 【[闰鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ruen_y.md#闰鱼)】`ruen6 y2` <small>/ɻuəŋ1 y2/<sup>如皋</sup></small> ① 长须鲸。哺乳纲，鲸目。旧传闰年可在南黄海出现。<sup>\[如皋\]</sup> ② 传说海洋中的一种大鱼，在海洋中犯了罪，龙王给予惩罚。每逢闰年，闰几月，就有几条鱼送上沙滩。<sup>\[如东\]</sup>  
