@@ -210,6 +210,7 @@
 1. 【[作兴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_xien.md#作兴)】`zah7 xien5` <small>/t͡saʔ7 ɕiəŋ5/<sup>如皋</sup></small> ① 可以，应该。<sup>\[如皋\]</sup> ② 估计可能<sup>\[如皋\]</sup>：他这刻儿～还在家里。<sup>\[如皋\]</sup> ③ 能够；情理上许可。<sup>\[如东\]</sup>：虐待老人，不～。<sup>\[如东\]</sup>  
 1. 【[作兴慌忙的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_xien_huan_man.md#作兴慌忙的)】`zah7 xien5 huan1 man2 dii` <sup>[如皋]</sup> 匆匆忙忙：你不要～；你～上哪许去啊？  
 1. 【[作衅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_xien.md#作衅)】`zah7 xien5` <sup>[如皋]</sup> 取闹，挑衅：伢儿要钱，要不到就在家里～。  
+1. 【[作屑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_xih.md#作屑)】`zah7 xih7` <small>/t͡sɑʔ7 ɕiʔ7/<sup>泰兴</sup></small> 碎屑，边角废料。<sup>\[泰兴\]</sup>：他卖的瓜皮厚，～大<sup>\[泰兴\]</sup>  
 1. 【[作□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_xiuh.md#作□)】`zah7 xiuh7` 想方设法制造麻烦来折磨人<sup>\[泰州\]</sup>：他早点儿出去好，省得在家里～人。<sup>\[泰州\]</sup>  
 1. 【[作雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_xiuh.md#作雪)】`zah7 xiuh7` <small>/t͡saʔ7 ɕyuʔ7/<sup>兴化</sup>, /t͡saʔ7 ɕyʊʔ7/<sup>如皋</sup></small> ① 天气阴冷，彤云密布，预示将下雪。参见“焐雪”。<sup>\[如皋\]</sup> ② 冬天出现降雪的先兆<sup>\[兴化\]</sup>：天上彤云密布，冷气侵人，像～的样子。<sup>\[兴化\]</sup> ③ 天气忽阴忽晴预示可能降雪<sup>\[泰州\]</sup>：天阴吖阴的，望吖像是在下～。<sup>\[泰州\]</sup>  
 1. 【[作针](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_zhen.md#作针)】`zah7 zhen1` <small>/t͡sɑʔ7 t͡səŋ1/<sup>泰兴</sup></small> 比较长的大针，多用于缝被子。<sup>\[泰兴\]</sup>  

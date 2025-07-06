@@ -1631,6 +1631,7 @@
 1. 【[规整](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_zhen.md#规整)】`guei1 zhen3` <sup>[东台]</sup> 整齐，规矩。  
 1. 【[龟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei.md#龟)】`guei1` <sup>[如东]</sup> 龟科动物乌龟。  
 1. 【[龟板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_baen.md#龟板)】`guei1 baen3` <sup>[如东]</sup> 龟科动物乌龟的甲壳。  
+1. 【[龟不生蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_beh_shen_taen.md#龟不生蛋)】`guei1 beh7 shen1 taen6` <small>/kuəɪ1 pəʔ7 səŋ1 tʰɛ̃1/<sup>泰兴</sup></small> 喻穷极荒芜，连乌龟都不到的地方。<sup>\[泰兴\]</sup>  
 1. 【[龟背驮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_bei_tu.md#龟背驮)】`guei1 bei5 tu2` <sup>[如皋]</sup> 中部高四周低的地形。  
 1. 【[龟耷头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_dah_teu.md#龟耷头)】`guei1 dah7 teu2` <sup>[东台]</sup> 与“龟斀头”同义。又比喻胆小怕事，不敢出头。  
 1. 【[龟斀头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_doh_teu.md#龟斀头)】`guei1 doh7 teu2` <small>/kuəɪ1 tɔʔ7 tʰəɪ2/<sup>泰兴</sup></small> ① 原意指割去男性生殖器。后指妻子偷人，丈夫不敢过问。<sup>\[东台\]</sup> ② 谓妻有外遇者。<sup>\[泰兴\]</sup>  

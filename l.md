@@ -1825,6 +1825,7 @@
 1. 【[老口嫩声](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_keu_nen_shen.md#老口嫩声)】`lo3 keu3 nen6 shen1` <sup>[兴化]</sup> 老练的人说话出现疏漏，或有话难以出口：庞先生是～，他僵住了，晦气色的脸红得发紫。（扬一《凤雏理事》）  
 1. 【[老靠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ko.md#老靠)】`lo3 ko` <sup>[如皋]</sup> 经验成熟，办事可靠、完善。  
 1. 【[老靠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ko.md#老靠)】`lo3 ko5` <sup>[兴化]</sup> 稳妥、有把握：这件事再请头儿出下子面～些。  
+1. 【[老框框](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_kuan_kuan.md#老框框)】`lo3 kuan1 kuan1` <small>/lɔ3 kʰuɑŋ1 kʰuɑŋ1/<sup>泰兴</sup></small> 死板、陈旧的规矩。<sup>\[泰兴\]</sup>  
 1. 【[老来福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lae_foh.md#老来福)】`lo3 lae2 foh7` <sup>[如皋]</sup> 年纪大了后子女孝顺，经济宽裕，生活幸福。  
 1. 【[老来坏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lae_huae.md#老来坏)】`lo3 lae2 huae6` <sup>[如皋]</sup> 玉米、蚕豆、黄豆的籽粒在老熟时干瘪的现象。  
 1. 【[老来青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lae_qien.md#老来青)】`lo3 lae2 qien1` <sup>[兴化]</sup> ① 水稻的一个品种。 ② （借）形容人越活越年轻：她姐年交五十八……不仅貌似“老来俏”，里内确似～。（马春阳《昏迷再婚迷》）  
