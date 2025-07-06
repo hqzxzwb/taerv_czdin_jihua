@@ -2057,7 +2057,7 @@
 1. 【[育裙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ioh_qyen.md#育裙)】`ioh8 qyen2` <sup>[如皋]</sup> 青布长裙，旧时产妇坐盆分娩，皆穿此裙，故名。后农村男女老少皆穿。  
 1. 【[臃肿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_zhon.md#臃肿)】`ion1 zhon3` <sup>[如东]</sup> 肥胖：她有些～。  
 1. 【[雍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion.md#雍)】`ion1` <sup>[如东]</sup> 人的身体无力地倒下来：张老头两腿无力，不能走动，慢慢地～下来啊。  
-1. 【[容](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion.md#容)】`ion2` <small>/iɔŋ2/<sup>如皋</sup></small> ① 纵容，见“酿”。<sup>\[如皋\]</sup> ② 包容、容许：不～你瞎来！<sup>\[如皋\]</sup> ③ 纵容、包庇：你把伢儿～得这样子！<sup>\[如皋\]</sup> ④ 库容：仓库里～不下。<sup>\[如皋\]</sup> ⑤ 溺爱子女，对未成年晚辈所犯错误过度宽容<sup>\[泰州\]</sup>：他家上人把这个伢儿～得不上相。<sup>\[泰州\]</sup>｜你俫这一次不能再～他。<sup>\[泰州\]</sup>  
+1. 【[容](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion.md#容)】`ion2` <small>/iɔŋ2/<sup>如皋</sup></small> ① 包容、容许<sup>\[如皋\]</sup>：不～你瞎来！<sup>\[如皋\]</sup> ② 纵容、包庇\[如皋：同“酿”\]：你把伢儿～得这样子！<sup>\[如皋\]</sup> ③ 库容<sup>\[如皋\]</sup>：仓库里～不下<sup>\[如皋\]</sup> ④ 溺爱子女，对未成年晚辈所犯错误过度宽容<sup>\[泰州\]</sup>：他家上人把这个伢儿～得不上相。<sup>\[泰州\]</sup>｜你俫这一次不能再～他。<sup>\[泰州\]</sup>  
 1. 【[容从](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_con.md#容从)】`ion2 con2` <sup>[如东]</sup> 缓慢而轻巧地进行：打酒要～。  
 1. 【[容窥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_guei.md#容窥)】`ion2 guei1` <sup>[如东]</sup> 一种民间风俗。一面圆镜，上面画着太阳与月亮，称容窥。人死后，先放在胸前，后放在两脚之间。  
 1. 【[容易](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_i.md#容易)】`ion2 i` 容易，不难  

@@ -450,7 +450,6 @@
 1. 【[沙话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_hua.md#沙话)】`sha1 hua6` <sup>[兴化]</sup> 由于受到恐吓或压力，违背心愿说出犯忌的、暴露隐秘的话：小吴经不起几一盘，～全出来啊。  
 1. 【[沙鸡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_ji_r.md#沙鸡<sub>儿</sub>)】`sha1 ji1 r` <sup>[如东]</sup> 鸟。外形似鸽，喙短，微曲。翅尖长，飞行极快。灰褐色，有白色环纹。捕食海洋生物。生活在海滩上。  
 1. 【[沙浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_jian.md#沙浆)】`sha1 jian1` <sup>[兴化]</sup> 见“砂灰”。  
-1. 【[沙礓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_jian_r.md#沙礓<sub>儿</sub>)】`sha1 jian3 r` <sup>[东台]</sup> 夹在粮食里的沙粒等杂物。  
 1. 【[沙棘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_jieh.md#沙棘)】`sha1 jieh7` <sup>[如东]</sup> 一种酸枣树，耐碱，可以在沿海地区种植。  
 1. 【[沙兰杨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_laen_ian.md#沙兰杨)】`sha1 laen2 ian2` <sup>[如东]</sup> 杨柳科植物沙兰杨，落叶乔木。叶互生，卵状披针形。柔荑花序。耐碱，适宜如东县沿海地区种植。木质松软。  
 1. 【[沙里话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_li_hua.md#沙里话)】`sha1 li3 hua6` <sup>[如东]</sup> 吴语启海话。  
@@ -492,6 +491,7 @@
 1. 【[砂礓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_jian.md#砂礓)】`sha1 jian1` <small>/sɑ1 t͡ɕiɑŋ1/<sup>泰兴</sup></small> 小而坚硬的砂粒。<sup>\[泰兴\]</sup>  
 1. 【[砂礓石子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_jian_sheh_zz.md#砂礓石子)】`sha1 jian1 sheh8 zz` <small>/sɑ1 t͡ɕiɑŋ1 səʔ8 t͡sɿ/<sup>泰兴</sup></small> 很小的砂石块<sup>\[泰兴\]</sup>：把～拣掉<sup>\[泰兴\]</sup>  
 1. 【[砂礓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_jian.md#砂礓)】`sha1 jian3` 土壤中生成的石灰质结核体，多为碳酸钙与土粒结合而成，表面粗糙，不透水，一般呈颗粒状，稍大者呈块状<sup>\[泰州\]</sup>：你淘的米，里头的～都不曾拣得干净。<sup>\[泰州\]</sup>  
+1. 【[砂礓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_jian_r.md#砂礓<sub>儿</sub>)】`sha1 jian3 r` <sup>[东台]</sup> 夹在粮食里的沙粒等杂物。  
 1. 【[砂礓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_jian_r.md#砂礓<sub>儿</sub>)】`sha1 jian3 r` <small>/sa1 t͡ɕiaŋ3 ɚ/<sup>兴化</sup>, /sa1 t͡ɕia˞3/<sup>如皋</sup></small> ① 混在粮食、鞋内的石、砖、瓷、玻璃等的小颗粒。<sup>\[如皋\]</sup> ② 沙土中的细小石块、杂在米中的砂粒。<sup>\[兴化\]</sup>  
 1. 【[砂码礓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_ma_jian.md#砂码礓)】`sha1 ma jian3` <sup>[泰州]</sup> 石灰质的碎石颗粒：你淘的甚的米？淘箩里头的～都不曾拣得清。  
 1. 【[砂码礓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_ma_jian_r.md#砂码礓<sub>儿</sub>)】`sha1 ma3 jian3 r` <sup>[兴化]</sup> 见“砂礓儿”。  
