@@ -1938,7 +1938,9 @@
 1. 【[草把货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_ba_hu.md#草把货)】`co3 ba3 hu5` <sup>[东台]</sup> ① ［喻］没有文化，头脑简单的人：我是～，莫见笑。 ② 对待遇要求低的人。  
 1. 【[草把<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_ba_r.md#草把<sub>儿</sub>)】`co3 ba3 r` <sup>[如东]</sup> 一扎草：你往锅膛里送个～。  
 1. 【[草把人挂在城门口，三年也会说话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_ba_ren_gua.md#草把人挂在城门口，三年也会说话)】`co3 ba3 ren2 gua5 cae6 chen2 men2 keu3 saen1 nin2 ia3 huei6 shuh7 hua6` <sup>[东台]</sup> 见识多了，再笨的人也有知识。  
-1. 【[草包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_bo.md#草包)】`co3 bo1` <sup>[东台]</sup> ① 用草编织的包。 ② ［喻］愚笨、粗俗的人。  
+1. 【[草把头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_ba_teu.md#草把头)】`co3 ba3 teu2` <small>/t͡sʰɔ3 pɑ3 tʰəɪ2/<sup>泰兴</sup></small> 大头鲢鱼的俗称。<sup>\[泰兴\]</sup>  
+1. 【[草包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_bo.md#草包)】`co3 bo1` <sup>[东台]</sup> ［喻］愚笨、粗俗的人。  
+1. 【[草包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_bo.md#草包)】`co3 bo1` <small>/t͡sʰɔ3 pɔ1/<sup>泰兴</sup></small> 比喻没有真才实学、说话行动莽撞粗鲁的人。<sup>\[泰兴\]</sup>  
 1. 【[草秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_chen.md#草秤)】`co3 chen5` <sup>[如皋]</sup> 旧时草行称草的大号杆秤，称量很大，由秤店专造。  
 1. 【[草船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_chun.md#草船)】`co3 chun2` <sup>[如皋]</sup> 运草的船。  
 1. 【[草镩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_cun.md#草镩)】`co3 cun5` <sup>[如皋]</sup> 见“草钩子”。  
@@ -1975,9 +1977,12 @@
 1. 【[草路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_lv.md#草路)】`co3 lv6` <sup>[如皋]</sup> 江海边草田中由行人踏出的路。  
 1. 【[草莽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_man.md#草莽)】`co3 man3` <sup>[泰州]</sup> 落后愚昧、粗率冒失的人：这个小伙是个～，你同他说道理说不起来。  
 1. 【[草帽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_mo.md#草帽)】`co3 mo6` <sup>[如东]</sup> 用麦秸、关草等编成的帽子，有大边，夏天用来遮阳光。  
+1. 【[草帽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_mo.md#草帽)】`co3 mo6` <small>/t͡sʰɔ3 mɔ1/<sup>泰兴</sup></small> 也称“凉帽”。用麦秆等编成的帽子。式样繁多，夏日用来遮阳。<sup>\[泰兴\]</sup>  
 1. 【[草帽<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_mo_r.md#草帽<sub>儿</sub>)】`co3 mo6 r` <sup>[如皋]</sup> 草帽。  
 1. 【[草屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_oh.md#草屋)】`co3 oh7` <sup>[如东]</sup> 以茅草苫盖屋面的房屋。  
+1. 【[草屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_oh.md#草屋)】`co3 oh7` <small>/t͡sʰɔ3 ɔʔ7/<sup>泰兴</sup></small> 以草作为上盖的房子，今已少见。<sup>\[泰兴\]</sup>  
 1. 【[草棚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_pon_zz.md#草棚子)】`co3 pon2 zz` <sup>[兴化]</sup> ① 用竹木等搭架子，上面覆盖芦䉬、笆和草用来遮蔽阳光和风雨。 ② 草屋。  
+1. 【[草棚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_pon_zz.md#草棚子)】`co3 pon2 zz` <small>/t͡sʰɔ3 pʰɔŋ2 t͡sɿ/<sup>泰兴</sup></small> 盖草的简易住房。<sup>\[泰兴\]</sup>  
 1. 【[草匠收工——步步望下走](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_qian_sheu_gon.md#草匠收工——步步望下走)】`co3 qian6 sheu1 gon1 pv6 pv6 van6 ha6 zeu3` <sup>[东台]</sup>   
 1. 【[草席](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_qieh.md#草席)】`co3 qieh8` <sup>[如东]</sup> ① 用席草编织的席子。 ② 用芒棵编织的席子，主要用于晒粮和堆粮。  
 1. 【[草席子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_qieh_zz.md#草席子)】`co3 qieh8 zz` <sup>[如皋]</sup> 用席子草织的席子，卧具。  
@@ -1989,11 +1994,12 @@
 1. 【[草说咖竖起来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_shuh_ga_shv.md#草说咖竖起来)】`co3 shuh7 ga shv6 qi3 lae2` <sup>[东台]</sup> 对能说会道的夸张说法，也作“把爬爬凳说咖竖起来”。  
 1. 【[草台班](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_tae_baen.md#草台班)】`co3 tae2 baen1` <sup>[东台]</sup> 水平不高的戏班子，或其他行业不上档次的一班人。  
 1. 【[草台班子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_tae_baen_zz.md#草台班子)】`co3 tae2 baen1 zz` <sup>[泰州]</sup> 泛指在农村集镇流动演出的戏班。引申指临时拼凑而又不正规的团队：临时凑啊这吖个～，先舞起来再说。  
-1. 【[草台戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_tae_xi.md#草台戏)】`co3 tae2 xi5` ① 由草台班子唱的戏，喻指不正规的事物。<sup>\[东台\]</sup> ② 比喻质量比较差的集体活动<sup>\[泰州\]</sup>：他俫这几个人不曾弄过运动会，怎吖可能弄得好，就是弄起来也是个～。<sup>\[泰州\]</sup>  
+1. 【[草台戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_tae_xi.md#草台戏)】`co3 tae2 xi5` <small>/t͡sʰɔ3 tʰɛ2 ɕʝ5/<sup>泰兴</sup></small> ① 由草台班子唱的戏，喻指不正规的事物。<sup>\[东台\]</sup> ② 比喻质量比较差的集体活动<sup>\[泰州\]</sup>：他俫这几个人不曾弄过运动会，怎吖可能弄得好，就是弄起来也是个～。<sup>\[泰州\]</sup> ③ 不上档次的戏。比喻所从事的工作或事务不规范、七拼八凑。<sup>\[泰兴\]</sup>  
 1. 【[草袋架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_tae_ga_zz.md#草袋架子)】`co3 tae6 ga5 zz` <sup>[如皋]</sup> 专门打草袋的木架。  
 1. 【[草滩潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_taen_cho.md#草滩潮)】`co3 taen1 cho2` <sup>[东台]</sup> ① 七潮水。因七湖与吃潮谐音，弶港人避讳七，又因此潮大，涨到有草的滩涂上故名。 ② 七潮水。渔民避讳语。因七有不吉利的色彩，又因这一潮很大，一直涨到草滩处，故取名“草滩潮”。  
 1. 【[草谈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_taen.md#草谈)】`co3 taen2` <sup>[如东]</sup> 说话不文雅。  
 1. 【[草塘泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_tan_ni.md#草塘泥)】`co3 tan2 ni2` <sup>[如皋]</sup> 将草置泥塘内，和以粪尿，加水，用泥密封数月后做成的肥料。  
+1. 【[草塘泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_tan_ni.md#草塘泥)】`co3 tan2 ni2` <small>/t͡sʰɔ3 tʰɑŋ2 nʝ2/<sup>泰兴</sup></small> 一种以杂草、杂灰、烂泥沤制的肥料。<sup>\[泰兴\]</sup>  
 1. 【[草荡田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_tan_tin.md#草荡田)】`co3 tan6 tin2` <sup>[如皋]</sup> ① 浅湖淤积，杂草蓬生，尚未开垦的荒地。 ② 长满岸草的滩地、滩田。  
 1. 【[草荡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_tan_zz.md#草荡子)】`co3 tan6 zz` <sup>[如皋]</sup> 见“草荡田”。  
 1. 【[草𠫓咖来都是瘌子捆的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_teh_ga_lae.md#草𠫓咖来都是瘌子捆的)】`co3 teh7 ga lae2 du1 shr6 laeh8 zz kuen3 dii` <sup>[东台]</sup> 讽喻凭印象想当然的主观唯心论。  
@@ -2011,12 +2017,12 @@
 1. 【[草斫螂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_zhah_lan.md#草斫螂)】`co3 zhah7 lan` <sup>[如皋]</sup> 斑螳螂，螳螂目，体色灰黄。  
 1. 【[草账<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_zhan_r.md#草账<sub>儿</sub>)】`co3 zhan5 r` <sup>[如皋]</sup> 过秤、验收时实地记录用的账单，供记账核算用。  
 1. 【[草障](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_zhan.md#草障)】`co3 zhan5` <sup>[如皋]</sup> 将草加“把弣（加强筋）”用篾结扎成的板状物。  
-1. 【[草纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_zhr.md#草纸)】`co3 zhr3` ① 手纸，祭祀用纸。在如皋仅用来表示祭祀用纸。 ② 质地粗糙的纸。用于擦屁股。也称手纸。现称卫生纸。<sup>\[如东\]</sup> ③ 妇女卫生用纸。<sup>\[泰州\]</sup> ④ 擦秽用纸。<sup>\[泰州\]</sup> ⑤ 替代纸钱用作祭祀的一种浅黄色草纸。<sup>\[泰州\]</sup>  
+1. 【[草纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_zhr.md#草纸)】`co3 zhr3` <small>/t͡sʰɔ3 t͡sɿ3/<sup>泰兴</sup></small> ① 手纸，祭祀用纸。在如皋仅用来表示祭祀用纸。 ② 质地粗糙的纸。用于擦屁股。也称手纸。现称卫生纸。<sup>\[如东\]</sup> ③ 妇女卫生用纸。<sup>\[泰州\]</sup> ④ 擦秽用纸。<sup>\[泰州\]</sup> ⑤ 替代纸钱用作祭祀的一种浅黄色草纸。<sup>\[泰州\]</sup> ⑥ 卫生纸的俗称。<sup>\[泰兴\]</sup>  
 1. 【[草纸包扁食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_zhr_bo_bin.md#草纸包扁食)】`co3 zhr3 bo1 bin3 sheh` <sup>[如皋]</sup> 戏谑语，指揩了屁股的草纸。  
 1. 【[草纸佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_zhr_lo_r.md#草纸佬<sub>儿</sub>)】`co3 zhr3 lo3 r` <sup>[如皋]</sup> 最简单的风筝，用一张草纸，交叉插两根小麦秆或芦花，在交叉点系一根线就可以放飞。  
 1. 【[草纸账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_zhr_zhan.md#草纸账)】`co3 zhr3 zhan5` <sup>[兴化]</sup> 随手记在纸页上的账目：我也不是甚的会计，记一笔～而已。  
 1. 【[草灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_zo.md#草灶)】`co3 zo5` <sup>[如皋]</sup> 专用于烧草的砖灶。  
-1. 【[草𧂐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_zz.md#草𧂐)】`co3 zz5` <small>/t͡sʰɔ3 t͡sɿ5/<sup>如皋</sup></small> ① 草垛。<sup>\[如东\]</sup> ② 草垛。<sup>\[如皋\]</sup>  
+1. 【[草𧂐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_zz.md#草𧂐)】`co3 zz5` <small>/t͡sʰɔ3 t͡sɿ5/<sup>如皋</sup></small> 草垛。<sup>\[如东\]</sup><sup>\[如皋\]</sup>  
 1. 【[□交易](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_jio_i.md#□交易)】`co5 jio1 i` <sup>[如东]</sup> ① 寻找生意做。 ② 比喻找事情做：我是来～的。  
 1. 【[操蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_taen.md#操蛋)】`co5 taen6` <sup>[兴化]</sup> 斥骂人无理取闹：这许上班，你来做甚的？活～！  
 1. 【[糙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co.md#糙)】`co5` <small>/t͡sʰɔ5/<sup>如皋</sup></small> ① 擦、搓<sup>\[如皋\]</sup>：用糙板～。<sup>\[如皋\]</sup> ② 捣杵<sup>\[如皋\]</sup>：用㨟灰佬儿～芋头皮。<sup>\[如皋\]</sup> ③ 粗糙。<sup>\[如皋\]</sup> ④ 种子下地久旱不发芽，称为“干吖～掉啊”。<sup>\[如皋\]</sup>  

@@ -147,6 +147,7 @@
 1. 【[胡蜂<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_fon_r.md#胡蜂<sub>儿</sub>)】`v2 fon1 r` <sup>[如东]</sup> 胡蜂科昆虫大黄蜂，体大，黄色，尾部有毒刺，能蜇人。成群居住在起，营巢于树枝上或屋檐下。安装在槟榔上制服凶牛的小齿轮。  
 1. 【[胡蜂<sub>儿</sub>窝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_fon_r_u.md#胡蜂<sub>儿</sub>窝)】`v2 fon1 r u1` <sup>[如东]</sup> 胡蜂科昆虫大黄蜂蜂巢，又名露蜂房。  
 1. 【[胡蜂子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_fon_zz.md#胡蜂子)】`v2 fon1 zz3` <sup>[如东]</sup> 胡蜂科昆虫大黄蜂的幼虫，又称大黄蜂子。  
+1. 【[胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_zz.md#胡子)】`v2 zz` <small>/ʋ2 t͡sɿ/<sup>泰兴</sup></small> 胡须<sup>\[泰兴\]</sup>  
 1. 【[芜而不轨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_er_beh_guei.md#芜而不轨)】`v2 er2 beh7 guei3` <sup>[东台]</sup> ① 指某人鬼祟，不上正轨。 ② 素质芜劣，来路不正：交友要慎重，少与～的人来往。  
 1. 【[𩒾头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_teu.md#𩒾头)】`v2 teu2` 大头。<sup>\[泰州\]</sup>  
 1. 【[㳇水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_shuei.md#㳇水)】`v3 shuei3` <sup>[东台]</sup> 游泳。见于《水浒传》。（“㳇”读若“舞”）也作凫水。  
@@ -323,7 +324,7 @@
 1. 【[护疼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_ten.md#护疼)】`v6 ten2` <small>/ʋ1 tʰəŋ2/<sup>泰兴</sup></small> 保护疼痛处，怕疼。<sup>\[泰兴\]</sup>  
 1. 【[护脏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_zan.md#护脏)】`v6 zan1` <sup>[如皋]</sup> ① 挡住脏：定被单头～。 ② 掩盖污斑：白衣裳不～。  
 1. 【[瓠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v.md#瓠)】`v6` <sup>[兴化]</sup> 一年生草本植物，果实细长圆筒形，表皮淡青色，俗称“一条”。也称“～子”。“瓠”一读hv6（户）。  
-1. 【[瓠子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_zz.md#瓠子)】`v6 zz` <small>/u6 t͡sɿ/<sup>兴化</sup>, /ʋu1 t͡sɿ/<sup>如皋</sup>, /u1 t͡se/<sup>泰县</sup></small> ① 葫芦的一种，果实像雅梨，大可十多斤，老熟后剖开做瓢儿。<sup>\[如皋\]</sup> ② 一年生草本植物，茎蔓生，花白色，果实细长，圆筒形，表皮淡绿色，一种蔬菜。<sup>\[东台\]</sup> ③ （借）未成熟而采摘的西瓜，瓤及子种呈暗白色，肉板而无味。<sup>\[兴化\]</sup> ④ 葫芦。<sup>\[泰县\]</sup> ⑤ 不熟的西瓜。<sup>\[泰县\]</sup> ⑥ 头脑不清、糊里糊涂的人。<sup>\[泰县\]</sup>  
+1. 【[瓠子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_zz.md#瓠子)】`v6 zz` <small>/u6 t͡sɿ/<sup>兴化</sup>, /ʋu1 t͡sɿ/<sup>如皋</sup>, /u1 t͡se/<sup>泰县</sup></small> ① 葫芦的一种，果实像雅梨，大可十多斤，老熟后剖开做瓢儿。<sup>\[如皋\]</sup> ② 一年生草本植物，茎蔓生，花白色，果实细长，圆筒形，表皮淡绿色，一种蔬菜。<sup>\[东台\]</sup> ③ 葫芦。<sup>\[泰县\]</sup> ④ 不熟的西瓜。<sup>\[泰县\]</sup>\[兴化：（借）未成熟而采摘的西瓜，瓤及子种呈暗白色，肉板而无味。\] ⑤ 头脑不清、糊里糊涂的人。<sup>\[泰县\]</sup>  
 1. 【[雾水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_shuei.md#雾水)】`v6 shuei3` <sup>[兴化]</sup> ① 雾中悬浮的小水滴。 ② （喻）由于迷茫而模糊不清：这件事情真复杂，弄得我一头的～。  
 1. 【[哇污骨叽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_v_gueh_ji.md#哇污骨叽)】`va1 v gueh7 ji1` <sup>[东台]</sup> 令人作呕的感觉。  
 1. 【[哇乌打乌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_v_da_v.md#哇乌打乌)】`va1 v1 da3 v1` <sup>[泰州]</sup> 同“哇污沰污”。  

@@ -2193,6 +2193,7 @@
 1. 【[是业好容身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_ih_ho_ion.md#是业好容身)】`shr6 ih8 ho3 ion2 shen1` <small>/sɿ6 iɪʔ8 xɔ3 ioŋ2 sən1/<sup>兴化</sup>, /sɿ1 iʔ8 xɔ3 iɔŋ2 səŋ1/<sup>如皋</sup></small> ① 不管什么工作都可以安身养家。<sup>\[如皋\]</sup> ② 凡正当职业干起来都能维持生计<sup>\[兴化\]</sup>：“皮风山，你年纪轻轻，不能游手好闲，～，不管什么行业都可以的……”（《皮五辣子》三）。也作“是业能容身”。<sup>\[兴化\]</sup>  
 1. 【[是病怕三碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_pien_pa_saen.md#是病怕三碗)】`shr6 pien6 pa5 saen1 un3` <sup>[东台]</sup> 生了病，振作精神多吃饭增强营养，有助于康复。  
 1. 【[是树有根，是话有因](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_shv_ieu_gen.md#是树有根，是话有因)】`shr6 shv6 ieu3 gen1，shr6 hua6 ieu3 ien1` <sup>[如皋]</sup> 俗语。不管什么事，多少都有点根据。  
+1. 【[柿树不收税](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_shv_beh_sheu.md#柿树不收税)】`shr6 shv6 beh7 sheu1 shuei5` <small>/sɿ1 su1 pəʔ7 ɕiɤɯ1 suəɪ5/<sup>泰兴</sup></small> 民间传说。乡人盛传泰兴一古人名季三耷子以柿子进贡皇上，皇上食后觉鲜美异常，叫季多献上一些。季则答云因收税过重，柿树太少，不可多得。皇帝说“柿树不收税”。时天下凡是树都得缴税，季即高呼“万岁”，谢龙恩颁旨，“是树不收税”，为百姓减负不小。乡音“柿”、“是”音同，故云之也。<sup>\[泰兴\]</sup>  
 1. 【[柿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_zz.md#柿子)】`shr6 zz` <sup>[东台]</sup> 一种水果，成熟后为红色：东台市新街镇盛产方形～。  
 1. 【[䵘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua.md#䵘)】`shua3` <small>/sua3/<sup>如皋</sup>, /ɕya3/<sup>泰县</sup></small> ① （谷物）不黏，无糯性<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup>：场米是黏的，籼米是～的。<sup>\[如皋\]</sup>｜这米糕比较～。<sup>\[东台\]</sup>｜这个米粉是～的。<sup>\[泰县\]</sup> ② 过分灵活，不易掌控<sup>\[东台\]</sup>：这车子龙头太～<sup>\[东台\]</sup>｜这小伙太～。<sup>\[东台\]</sup> ③ 油滑、难以驾驭<sup>\[如皋\]</sup>：车龙头～。<sup>\[如皋\]</sup> ④ 弯曲<sup>\[泰县\]</sup>：手～啊。<sup>\[泰县\]</sup> ⑤ 很不可靠的话<sup>\[泰州\]</sup>：你也听得出来，这小伙的话有点～，估计他办不了。<sup>\[泰州\]</sup> ⑥ 弯曲，不正，物体质量不可靠<sup>\[泰州\]</sup>：瘦竹子搭架子，太～啊唻，怕的吃不消。<sup>\[泰州\]</sup>｜皮鞋底里头～的硬骨纸，太～啊唻，掌不住少年人穿。<sup>\[泰州\]</sup>  
 1. 【[䵘决](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_jiuh.md#䵘决)】`shua3 jiuh7` <sup>[泰县]</sup> 干脆、利索：他做事～。  
@@ -2819,17 +2820,18 @@
 1. 【[漱嘴缸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_jy_gan_r.md#漱嘴缸<sub>儿</sub>)】`shv5 jy3 gan1 r` <sup>[泰县]</sup> 漱口杯。  
 1. 【[漱口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_keu.md#漱口)】`shv5 keu3` <sup>[如东]</sup> 刷牙：早晨起来要～。  
 1. 【[漱嘴缸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_zuei_gan_zz.md#漱嘴缸子)】`shv5 zuei3 gan1 zz` <sup>[兴化]</sup> 盛漱口水用的有把的杯子。  
-1. 【[树膀子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_ban_zz.md#树膀子)】`shv6 ban3 zz` <sup>[如东]</sup> 树干。  
+1. 【[树膀子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_ban_zz.md#树膀子)】`shv6 ban3 zz` <small>/su1 pɑŋ3 t͡sɿ/<sup>泰兴</sup></small> 树干。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
 1. 【[树杈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_cha.md#树杈)】`shv6 cha1` <sup>[兴化]</sup> 树干分岔的部位：（孙新）跨在～内，双手抱着，一溜溜下去……（《水浒后传》二）。又称“树丫”。  
 1. 【[树大招风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_da_zho_fon.md#树大招风)】`shv6 da6 zho1 fon1` <sup>[东台]</sup> ［喻］因名气大引人注意或惹人嫉妒。  
 1. 【[树的影，人的名](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_dii_ien_ren.md#树的影，人的名)】`shv6 dii ien3， ren2 dii mien2` <sup>[东台]</sup> ［喻］人生在世要注意个人的形象、名誉。  
 1. 【[树秧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_ian.md#树秧)】`shv6 ian1` 树苗。<sup>\[泰州\]</sup>  
-1. 【[树秧子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_ian_zz.md#树秧子)】`shv6 ian1 zz` <sup>[兴化]</sup> 用于移植的树苗。  
+1. 【[树秧子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_ian_zz.md#树秧子)】`shv6 ian1 zz` <small>/su6 iaŋ1 t͡sɿ/<sup>兴化</sup>, /su1 yɑŋ1 t͡sɿ/<sup>泰兴</sup></small> ① 用于移植的树苗。<sup>\[兴化\]</sup> ② 树苗。<sup>\[泰兴\]</sup>  
+1. 【[树叶子𠫓下来怕打破头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_ih_zz_teh.md#树叶子𠫓下来怕打破头)】`shv6 ih8 zz teh7 ha6 lae pa5 da3 pu5 teu2` <small>/su1 iʔ8 t͡sɿ tʰəʔ7 xɑ1 lɛ pʰɑ5 tɑ3 pʰɤɯ5 tʰəɪ2/<sup>泰兴</sup></small> 形容极端胆小怕事。<sup>\[泰兴\]</sup>  
 1. 【[树叶子𠫓下来怕打头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_ih_zz_teh.md#树叶子𠫓下来怕打头)】`shv6 ih8 zz teh7 ha6 lae pa5 da3 teu2` <sup>[东台]</sup> 𠫓下来即掉下来，形容有的人过分胆小怕事；这人谨小慎微，简直是～。  
 1. 【[树棵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_ku.md#树棵)】`shv6 ku1` <small>/su1 kʰʊ1/<sup>如皋</sup>, /su1 kʰɤɯ1/<sup>泰兴</sup></small> 柱子<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
 1. 【[树窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_ku.md#树窠)】`shv6 ku1` <small>/su1 kʰɤɯ1/<sup>泰兴</sup></small> 灌木丛<sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：猫儿𠞖吖～里去啊。<sup>\[泰州\]</sup>  
 1. 【[树兰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_laen.md#树兰)】`shv6 laen2` <sup>[如皋]</sup> 米仔兰。  
-1. 【[树老根多，人老话多](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_lo_gen_du.md#树老根多，人老话多)】`shv6 lo3 gen1 du1 ren2 lo3 hua6 du1` <sup>[东台]</sup> 人的经历丰富了感慨就多，但也容易啰啰唆。  
+1. 【[树老根多，人老话多](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_lo_gen_du.md#树老根多，人老话多)】`shv6 lo3 gen1 du1 ren2 lo3 hua6 du1` <small>/su1 lɔ3 kəŋ1 tɤɯ1 ɻəŋ2 lɔ3 xuɑ1 tɤɯ1/<sup>泰兴</sup></small> ① 人的经历丰富了感慨就多，但也容易啰啰唆。<sup>\[东台\]</sup> ② 谓人老了喜欢啰嗦，重复的话多。<sup>\[泰兴\]</sup>  
 1. 【[树丫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_nga.md#树丫)】`shv6 nga1` <sup>[兴化]</sup> 见“树杈”。或作“树桠”。  
 1. 【[树桠巴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_nga_ba_r.md#树桠巴<sub>儿</sub>)】`shv6 nga1 ba1 r` <sup>[如东]</sup> 树的粗枝。  
 1. 【[树桠杈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_nga_cha_r.md#树桠杈<sub>儿</sub>)】`shv6 nga1 cha1 r` <sup>[如皋]</sup> 树枝的分叉处。  
@@ -2839,7 +2841,7 @@
 1. 【[树蓬墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_pon_qian.md#树蓬墙)】`shv6 pon2 qian2` <sup>[如皋]</sup> 树冠周圆。  
 1. 【[树条<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_tio_r.md#树条<sub>儿</sub>)】`shv6 tio2 r` <sup>[如东]</sup> 树细枝。  
 1. 【[树条子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_tio_zz.md#树条子)】`shv6 tio2 zz` <sup>[如皋]</sup> 树枝，枝条。  
-1. 【[树段子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_tun_zz.md#树段子)】`shv6 tun6 zz` <sup>[兴化]</sup> 树的主体，从地面向上，至分叉的部分。  
+1. 【[树段子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_tun_zz.md#树段子)】`shv6 tun6 zz` <small>/su6 tʰũ6 t͡sɿ/<sup>兴化</sup>, /su1 tʰʊ̃1 t͡sɿ/<sup>泰兴</sup></small> ① 树的主体，从地面向上，至分叉的部分。<sup>\[兴化\]</sup> ② 成段的树干。<sup>\[泰兴\]</sup>  
 1. 【[竖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv.md#竖)】`shv6` <sup>[兴化]</sup> 汉字笔划，形状是“｜”。  
 1. 【[竖𣑁<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_chon_r.md#竖𣑁<sub>儿</sub>)】`shv6 chon5 r` <sup>[如皋]</sup> 旧式家俱上的竖料。  
 1. 【[竖滴蛵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_dieh_xien.md#竖滴蛵)】`shv6 dieh7 xien1` <sup>[泰州]</sup> 竖蜻蜓。头朝下、脚朝上倒立，双手支撑全身。  

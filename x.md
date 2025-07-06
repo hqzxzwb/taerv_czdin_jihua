@@ -577,11 +577,11 @@
 1. 【[厢屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_oh.md#厢屋)】`xian1 oh7` 正屋前两侧的房屋<sup>\[泰州\]</sup>：东边的～是他的书房。<sup>\[泰州\]</sup>  
 1. 【[相帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ban.md#相帮)】`xian1 ban1` <sup>[兴化]</sup> 帮助：有叔叔、姨娘～，她一定能够完成学业。  
 1. 【[相附](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_fv.md#相附)】`xian1 fv` <sup>[兴化]</sup> 指人善于察颜观色，知道进退：他看势头不对，～的走开啊。  
-1. 【[相好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ho.md#相好)】`xian1 ho3` <small>/ɕiã1 xɔ3/<sup>如皋</sup></small> ① 婚外恋情：她家男将同人家姑娘～，她也有～的。<sup>\[如皋\]</sup> ② 关系密切。<sup>\[如东\]</sup>：世代～。<sup>\[如东\]</sup> ③ 有不正当的男女关系。<sup>\[如东\]</sup>  
+1. 【[相好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ho.md#相好)】`xian1 ho3` <small>/ɕiã1 xɔ3/<sup>如皋</sup>, /ɕiɑŋ1 xɔ3/<sup>泰兴</sup></small> ① 婚外恋情<sup>\[如皋\]</sup>：她家男将同人家姑娘～，她也有～的。<sup>\[如皋\]</sup> ② 关系密切。<sup>\[如东\]</sup>：世代～。<sup>\[如东\]</sup> ③ 有不正当的男女关系。<sup>\[如东\]</sup> ④ 旧时称狎客与过从甚密的妓女为“老相好”。<sup>\[泰兴\]</sup>  
 1. 【[相好的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ho_dii.md#相好的)】`xian1 ho3 dii` <small>/ɕiã1 xɔ3 tei/<sup>如皋</sup></small> ① 不分男女，现通指婚外恋的对方。<sup>\[如皋\]</sup> ② 通常指情人或恋人。<sup>\[东台\]</sup>  
 1. 【[相嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_jy.md#相嘴)】`xian1 jy3` <sup>[东台]</sup> 亲嘴；接吻。  
 1. 【[相拢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_lon.md#相拢)】`xian1 lon3` <sup>[如东]</sup> 两手互相插入对面的袖口里取暖：天气太冷，手都～吖。  
-1. 【[相骂没好言，相打没好拳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ma_meh_ho.md#相骂没好言，相打没好拳)】`xian1 ma6 meh8 ho3 in2 xian1 da3 meh8 ho3 qiun2` <sup>[东台]</sup> 人在愤恨情绪中总不理智，容易失言失手。  
+1. 【[相骂没好言，相打没好拳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ma_meh_ho.md#相骂没好言，相打没好拳)】`xian1 ma6 meh8 ho3 in2 xian1 da3 meh8 ho3 qiun2` <small>/ɕiɑŋ1 mɑ1 məʔ8 xɔ3 ĩ2 ɕiɑŋ1 tɑ3 məʔ8 xɔ3 t͡ɕʰyʊ̃2/<sup>泰兴</sup></small> ① 人在愤恨情绪中总不理智，容易失言失手。<sup>\[东台\]</sup> ② 谓双方相骂时没有好言语，相打时也是胡来，不顾后果。<sup>\[泰兴\]</sup>  
 1. 【[相配](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_pi.md#相配)】`xian1 pi5` <sup>[东台]</sup> 配合起来合适；相称。  
 1. 【[相巧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_qio.md#相巧)】`xian1 qio3` <small>/ɕiaŋ1 t͡ɕʰiɔ3/<sup>兴化</sup></small> ① 正合适<sup>\[兴化\]</sup>：等找到～的人就把伢儿送把你。<sup>\[兴化\]</sup>｜他今年三十岁了，有～的人替他说头亲事。<sup>\[兴化\]</sup> ② 未婚男女双方各种条件相当<sup>\[泰州\]</sup>：他还不曾成家，你帮吖打听住啊，哿有～的人家。<sup>\[泰州\]</sup> ③ 买卖双方均感到价格合适<sup>\[泰州\]</sup>：东西一般，价钱还算～，我就把它拿下来啊。<sup>\[泰州\]</sup>  
 1. 【[相识](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_sheh.md#相识)】`xian1 sheh7` <sup>[如东]</sup> 曾经认识。  
@@ -647,7 +647,7 @@
 1. 【[香樟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_zhan.md#香樟)】`xian1 zhan1` <sup>[如东]</sup> 樟树科植物黄樟，常绿乔木，高约25米。小枝具棱。叶互生，革质，叶形变化较大。圆锥花序或聚伞花序。花小，绿白色。果实球形，紫黑色。路边或庭园种植。全株有香气能防虫蛀。木材致密，适于制家具和手工艺品，枝叶可以提制樟脑。  
 1. 【[香烛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_zhoh.md#香烛)】`xian1 zhoh7` <sup>[东台]</sup> 敬神或祖先的香和蜡烛。  
 1. 【[香纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_zhr.md#香纸)】`xian1 zhr3` <sup>[兴化]</sup> （迷信）用来敬神的香烛、黄元之类：请～上庙敬香。  
-1. 【[香嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_zuei.md#香嘴)】`xian1 zuei3` <sup>[兴化]</sup> 亲嘴。  
+1. 【[香嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_zuei.md#香嘴)】`xian1 zuei3` <small>/ɕiaŋ1 t͡suəi3/<sup>兴化</sup>, /ɕiɑŋ1 t͡suəɪ3/<sup>泰兴</sup></small> 亲嘴。<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>  
 1. 【[降伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_foh.md#降伏)】`xian2 foh8` <sup>[东台]</sup> 制伏；使驯服。  
 1. 【[□棺材](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_gun_cae.md#□棺材)】`xian3 gun1 cae` <sup>[如皋]</sup> 给棺材𧂐缝、油漆。  
 1. 【[享](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian.md#享)】`xian3` <sup>[泰州]</sup> 将河蚌之类硬壳软体动物放在清水中煮，使硬壳张开以取肉：你把蚬子～啊子，把肉子剥下来炒韭菜。  
@@ -709,6 +709,7 @@
 1. 【[向西](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_xi.md#向西)】`xian5 xi1` <sup>[兴化]</sup> 死亡的隐语。迷信谓好人的亡魂将至西方“极乐世界”，故如是说。  
 1. 【[相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian.md#相)】`xian5` <small>/ɕiã5/<sup>如皋</sup>, /ɕiɑŋ5/<sup>泰县</sup></small> ① 看 ② 看：小伢儿会～人吖。<sup>\[如皋\]</sup> ③ 在动词、形容词后并带补语，表“……的样子”：他的吃～不好、这吖玩～不得了；不带补语，相当于“法”：怎吖弄～？这吖做～！<sup>\[如皋\]</sup> ④ 看。<sup>\[如东\]</sup>：你～相，这朵花儿多红。<sup>\[如东\]</sup> ⑤ 看：你～，这下子他又有新花头儿啦。<sup>\[泰县\]</sup> ⑥ 看<sup>\[泰州\]</sup>：我在门口～吖几回，也不曾～到个人来。<sup>\[泰州\]</sup>  
 1. 【[相不吃象](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_beh_qieh_xian.md#相不吃象)】`xian5 beh7 qieh7 xian5` <sup>[东台]</sup> 以象棋喻指彼此势均力敌，谁也不要伤害谁。  
+1. 【[相重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_chon.md#相重)】`xian5 chon` <small>/ɕiɑŋ5 t͡sʰɔŋ/<sup>泰兴</sup></small> 敬重，尊重。<sup>\[泰兴\]</sup>  
 1. 【[相椽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_chun_zz.md#相椽子)】`xian5 chun2 zz` <sup>[如皋]</sup> 面对着屋顶上的椽子。死后不得及时入殓，长期停放是一种苦事。  
 1. 【[相坐相坐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_cu_xian_cu.md#相坐相坐)】`xian5 cu6 xian5 cu6` <sup>[东台]</sup> 彼此都心中有数，要准确掂量各自的底线，不要出格。  
 1. 【[相呆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_dae.md#相呆)】`xian5 dae1` <small>/ɕiaŋ5 tɛ1/<sup>兴化</sup></small> ① 随便看看 ② 漫不经心地张望。<sup>\[如东\]</sup>：你不要站吖街上～。<sup>\[如东\]</sup> ③ 呆呆地站在旁边观看。<sup>\[东台\]</sup> ④ 看热闹、闲看。又称“卖呆”“望呆”。<sup>\[兴化\]</sup>：他才退休，感到无聊，就到街上～。<sup>\[兴化\]</sup>｜她相了一会呆，正要向城里县府走去。（马春阳《父女双婚事》）<sup>\[兴化\]</sup> ⑤ 漫无目的地观看与自己无关的事<sup>\[泰州\]</sup>：这细小伙一上街就～。<sup>\[泰州\]</sup>  
@@ -721,6 +722,7 @@
 1. 【[相脚头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_jiah_teu.md#相脚头)】`xian5 jiah7 teu` <sup>[兴化]</sup> 盗贼察看路径，窥探动静，准备作案：史进喝道｜“李吉！张我庄内做甚么？莫不来～？”（《水浒传》二）  
 1. 【[相见](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_jin.md#相见)】`xian5 jin5` ① 看见 ② 看见。<sup>\[如东\]</sup>  
 1. 【[相命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_mien.md#相命)】`xian5 mien6` <sup>[兴化]</sup> （借）根据事理推断。  
+1. 【[相命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_mien.md#相命)】`xian5 mien6` <small>/ɕiɑŋ5 miŋ1/<sup>泰兴</sup></small> 算命；预测命运。<sup>\[泰兴\]</sup>  
 1. 【[相面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_min.md#相面)】`xian5 min6` <small>/ɕiaŋ5 miɪ̃6/<sup>兴化</sup></small> ① 观察人的相貌推测祸福。<sup>\[如东\]</sup>：王二是一个～先生。<sup>\[如东\]</sup> ② （借）根据事理推断<sup>\[兴化\]</sup>：我跟你～，你这碗饭怕吃不长吖。‖也作“相命”。<sup>\[兴化\]</sup>  
 1. 【[相貌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_mo.md#相貌)】`xian5 mo6` <sup>[如东]</sup> 人的容貌。  
 1. 【[相吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_nga.md#相吖)】`xian5 nga` <small>/ɕiaŋ5 ŋəʔ/<sup>兴化</sup></small> ① 看着，相当于明明是，后面接转折意<sup>\[东台\]</sup>：这许～干净，他却嫌脏。<sup>\[东台\]</sup> ② 明明的<sup>\[兴化\]</sup>：这个钱～是他拿啊去的，现在不承认，想赖哪个？<sup>\[兴化\]</sup>  
@@ -1283,7 +1285,7 @@
 1. 【[现成媒人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_chen_mei_ren.md#现成媒人)】`xin6 chen2 mei2 ren` <sup>[兴化]</sup> 男女双方婚约已定，应聘参与各种礼仪活动的媒人。  
 1. 【[现搭现](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_daeh_xin.md#现搭现)】`xin6 daeh7 xin6` <sup>[如东]</sup> 在交易时，货款当场兑现：今朝买鱼要～。  
 1. 【[现沰现](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_dah_xin.md#现沰现)】`xin6 dah7 xin6` <sup>[泰县]</sup> 立即兑现。泰县方言志写“鲜耷鲜”。  
-1. 【[现贩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_faen.md#现贩)】`xin6 faen5` <small>/ɕĩ1 fɛ̃5/<sup>泰兴</sup></small> 骂人语。谓过于炫耀自己的才能、衣着等。<sup>\[泰兴\]</sup>  
+1. 【[现贩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_faen.md#现贩)】`xin6 faen5` <small>/ɕĩ1 fɛ̃5/<sup>泰兴</sup></small> ① 骂人语。谓过于炫耀自己的才能、衣着等。<sup>\[泰兴\]</sup> ② 多用于贵备女人爱打扮<sup>\[泰兴\]</sup>  
 1. 【[现刮现](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_guaeh_xin.md#现刮现)】`xin6 guaeh7 xin6` <small>/ɕiɪ̃6 kuæʔ7 ɕiɪ̃6/<sup>兴化</sup></small> ① 就是当场兑现，不欠账<sup>\[东台\]</sup>：他收到货，立即给钱，～！<sup>\[东台\]</sup> ② 赌现钱，不共赌账。<sup>\[兴化\]</sup> ③ （借）现金交易，不赊欠<sup>\[兴化\]</sup>：我俫～，概不悬欠。也说“现沰现”。<sup>\[兴化\]</sup> ④ 按照约定，钱货两清，当场兑现，不赊不欠<sup>\[泰州\]</sup>：现场促销，买二赠一，～。<sup>\[泰州\]</sup>｜晚上打牌来钱，输掉当场就把钱，～，没得钱的不要来。<sup>\[泰州\]</sup>  
 1. 【[现搳现](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_huaeh_xin.md#现搳现)】`xin6 huaeh7 xin6` <small>/ɕĩ1 xueʔ7 ɕĩ1/<sup>如皋</sup>, /ɕĩ1 xuæʔ7 ɕĩ1/<sup>泰兴</sup></small> ① 兑现，不欠账。<sup>\[如皋\]</sup> ② 谓当场兑现，不欠账；现金交易。<sup>\[泰兴\]</sup>  
 1. 【[现魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_huen.md#现魂)】`xin6 huen2` <sup>[如皋]</sup> 责备稍一显现就消失了：来就来过几天，不要来～！  

@@ -2386,6 +2386,7 @@
 1. 【[糊儿𤹉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_er_ha.md#糊儿𤹉)】`hv2 er2 ha3` <sup>[如皋]</sup> 糊涂得近于傻。  
 1. 【[糊儿𤹉二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_er_ha_er.md#糊儿𤹉二)】`hv2 er2 ha3 er` <sup>[如皋]</sup> 见“糊儿𤹉”  
 1. 【[糊而八涂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_er_baeh_tv.md#糊而八涂)】`hv2 er2 baeh7 tv2` <sup>[如东]</sup> 糊里糊涂：不能～的。  
+1. 【[糊而不涂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_er_beh_tv.md#糊而不涂)】`hv2 er2 beh7 tv2` <small>/fʋ2 ɚ2 pəʔ7 tʰu2/<sup>泰兴</sup></small> 糊涂<sup>\[泰兴\]</sup>：你不要～的<sup>\[泰兴\]</sup>  
 1. 【[糊而入汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_er_reh_tan.md#糊而入汤)】`hv2 er2 reh8 tan1` <sup>[如东]</sup> 糊里糊涂：这个人～的，不能做事。  
 1. 【[糊而入天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_er_reh_tin.md#糊而入天)】`hv2 er2 reh8 tin1` <sup>[如东]</sup> 糊里糊涂：不要一天到晚～的。  
 1. 【[糊糊搨搨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_hv_taeh_taeh.md#糊糊搨搨)】`hv2 hv2 taeh7 taeh7` <small>/xu2 xu2 tʰæʔ7 tʰæʔ7/<sup>兴化</sup>, /fu2 fu2 tʰeʔ7 tʰeʔ7/<sup>如皋</sup>, /fu2 fu2 tʰæʔ7 tʰæʔ7/<sup>泰县</sup></small> ① 用浆糊涂糊，有轻慢义<sup>\[如皋\]</sup>：纸扎库，～就卖大价钱。<sup>\[如皋\]</sup> ② 比喻敷衍应付<sup>\[如皋\]</sup>：他同你～的，根本就不曾认真办理过。<sup>\[如皋\]</sup> ③ 以粉刷墙壁的动作喻指做表面文章，不认真，应付了事。<sup>\[东台\]</sup> ④ 形容马虎了事<sup>\[兴化\]</sup><sup>\[泰县\]</sup>：他做事～的，好不了。<sup>\[兴化\]</sup>｜这事你不能～了事。<sup>\[泰县\]</sup> ⑤ 形容某些具体工作<sup>\[兴化\]</sup>：～，封封发发。<sup>\[兴化\]</sup> ⑥ 器物损坏以后，大的破洞用纸糊糊，小的破洞就用糨糊搨搨，比喻做事马虎，敷衍了事<sup>\[泰州\]</sup>：这吖重要的事，你俫不能就这样子～就算过去。<sup>\[泰州\]</sup>  
@@ -2403,19 +2404,21 @@
 1. 【[糊香饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_xian_bien.md#糊香饼)】`hv2 xian1 bien3` <sup>[兴化]</sup> 用发酵的薄面糊烙成的饼，有淡淡的酸甜味。  
 1. 【[胡打热说](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_da_rih_shuh.md#胡打热说)】`hv2 da rih8 shuh7` <sup>[兴化]</sup> ① 发高烧、说胡话。 ② （喻）吹得离谱：这个老家伙，就像发高烧差不多，～的。（《皮五辣子》一）  
 1. 【[胡大热说](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_da_rih_shuh.md#胡大热说)】`hv2 da6 rih8 shuh7` <sup>[泰州]</sup> 没有任何根据、不负责任地乱说：你不要听他～。  
+1. 【[胡而混](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_er_huen.md#胡而混)】`hv2 er2 huen5` <small>/fʋ2 ɚ2 xuəŋ5/<sup>泰兴</sup></small> 胡闹；糊里糊涂地生活，混日子。<sup>\[泰兴\]</sup>  
+1. 【[胡话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_hua.md#胡话)】`hv2 hua` <small>/fʋ2 xuɑ/<sup>泰兴</sup></small> 假话；胡说的话；村话，低俗的话。<sup>\[泰兴\]</sup>  
 1. 【[胡话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_hua.md#胡话)】`hv2 hua6` <sup>[如东]</sup> ① 因为神志昏迷而乱说：他是在下说～。 ② 没有根据的话。  
 1. 【[胡晃条子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_huan_tio_zz.md#胡晃条子)】`hv2 huan5 tio2 zz` <sup>[如东]</sup> 身体高而瘦。  
 1. 【[胡胡马马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_hv_ma_ma.md#胡胡马马)】`hv2 hv2 ma3 ma3` <sup>[如东]</sup> 不认真，不仔细：这件事要办好，不能～。  
 1. 【[胡羊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_ian.md#胡羊)】`hv2 ian2` <sup>[如东]</sup> 牛科动物绵羊的优良品种之一。公母都无角，毛白色。羔毛柔软。  
 1. 【[胡言乱语](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_in_lun_y.md#胡言乱语)】`hv2 in2 lun6 y3` <sup>[如东]</sup> 随意胡说。  
 1. 【[胡燕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_in.md#胡燕)】`hv2 in5` <sup>[如东]</sup> 燕科动物金腰燕，身体比家燕略大。  
-1. 【[胡椒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_jio.md#胡椒)】`hv2 jio1` ① 指辣椒。又称麻椒、麻胡椒、麻人椒。 ② 一种果实灯笼形或长条形的植物，有青椒（菜椒）、辣椒等不同品种。嫩时青绿色，成熟后变红，常做炒菜。<sup>\[东台\]</sup>  
+1. 【[胡椒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_jio.md#胡椒)】`hv2 jio1` <small>/fʋ2 t͡ɕiɔ1/<sup>泰兴</sup></small> ① 指辣椒。又称麻椒、麻胡椒、麻人椒。 ② 一种果实灯笼形或长条形的植物，有青椒（菜椒）、辣椒等不同品种。嫩时青绿色，成熟后变红，常做炒菜。<sup>\[东台\]</sup> ③ 辣椒。<sup>\[泰兴\]</sup>  
 1. 【[胡椒粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_jio_fen.md#胡椒粉)】`hv2 jio1 fen3` ① 调味品。胡椒树的子实研成粉末，香而辛辣，撒在菜肴中，可以调味。<sup>\[如东\]</sup> ② 白大川黑大川磨成的粉，辛辣，可作调料，也作中药。<sup>\[东台\]</sup>  
 1. 【[胡椒粉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_jio_fen_zz.md#胡椒粉子)】`hv2 jio1 fen3 zz` <sup>[兴化]</sup> 干辣椒磨成的粉末，可作调味品。  
 1. 【[胡椒栲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_jio_ko.md#胡椒栲)】`hv2 jio1 ko3` <sup>[如东]</sup> 如东北坎以东有一大片海滩，生长着盐蒿、獐毛、茅草，其中有一棵小树，高约二尺，似蒿，种子黑色，比绿豆略小，味辛辣，群众称为胡椒树。故名此地为胡椒栲。现在北坎垦区境内。胡椒树已绝种。  
 1. 【[胡椒末子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_jio_muh_zz.md#胡椒末子)】`hv2 jio1 muh8 zz` <sup>[兴化]</sup> 胡椒种子（未成熟的干后变黑为“黑胡椒”，成熟后去皮谓“白胡椒”）磨成的粉末，市场上称“小胡椒”“大川”，味辣香，用作调味品。  
 1. 【[胡椒眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_jio_ngaen_r.md#胡椒眼<sub>儿</sub>)】`hv2 jio1 ngaen3 r` <sup>[如皋]</sup> 编织品上的六角孔。  
-1. 【[胡椒心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_jio_xien.md#胡椒心)】`hv2 jio1 xien1` <sup>[兴化]</sup> （喻）毒辣的心肠。俗称嘴甜心辣的人为“洋糖嘴，～”。  
+1. 【[胡椒心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_jio_xien.md#胡椒心)】`hv2 jio1 xien1` <small>/xu2 t͡ɕiɔ1 ɕin1/<sup>兴化</sup>, /fʋ2 t͡ɕiɔ1 ɕiŋ1/<sup>泰兴</sup></small> 喻毒辣的心肠。<sup>\[泰兴\]</sup>\[兴化：俗称嘴甜心辣的人为“洋糖嘴，～”。\]  
 1. 【[胡来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_lae.md#胡来)】`hv2 lae2` <sup>[如东]</sup> 不按规矩，任意乱做：不可以～。  
 1. 【[胡里打滚的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_lii_da_guen.md#胡里打滚的)】`hv2 lii da3 guen3 dii` <sup>[如皋]</sup> 见“胡头乱说”。  
 1. 【[胡萝卜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_lu_poh.md#胡萝卜)】`hv2 lu2 poh` <small>/ʊʔ7 lɤɯ1 pʰɔʔ/<sup>泰兴</sup></small> 胡萝卜，伞形科植物<sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
@@ -2423,6 +2426,7 @@
 1. 【[胡闹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_no.md#胡闹)】`hv2 no6` <sup>[如东]</sup> 没有道理地打斗。  
 1. 【[胡𨑊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_non.md#胡𨑊)】`hv2 non2` <sup>[兴化]</sup> ① 勉强应付：这套衣裳款式老一点，先～穿吧！这件事不必认真，～过去算吖。 ② 欺骗、蒙混：～人。  
 1. 【[胡七皂八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_qieh_co_baeh.md#胡七皂八)】`hv2 qieh7 co6 baeh7` <sup>[兴化]</sup> 形容说话、办事不依规矩：他～的一揪，局面全乱吖。  
+1. 【[胡七乱八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_qieh_lun_baeh.md#胡七乱八)】`hv2 qieh7 lun6 baeh7` <small>/fʋ2 t͡ɕʰiəʔ7 lʊ̃1 pæʔ7/<sup>泰兴</sup></small> 乱七八糟；胡乱。<sup>\[泰兴\]</sup>  
 1. 【[胡<sub>儿</sub>𤹉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_r_ha.md#胡<sub>儿</sub>𤹉)】`hv2 r ha3` <sup>[如皋]</sup> 稀里糊涂的。  
 1. 【[胡说八道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_shuh_baeh_to.md#胡说八道)】`hv2 shuh7 baeh7 to6` <sup>[如东]</sup> 没有根据地东扯西拉。  
 1. 【[胡思乱想](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_sz_lun_xian.md#胡思乱想)】`hv2 sz1 lun6 xian3` <sup>[如东]</sup> 没有根据地东猜西想。  

@@ -1654,6 +1654,8 @@
 1. 【[挪动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nuh_ton.md#挪动)】`nuh8 ton` <small>/nʊʔ8 tʰɔŋ/<sup>泰兴</sup></small> 移动。<sup>\[泰兴\]</sup>  
 1. 【[纳福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nuh_foh.md#纳福)】`nuh8 foh7` <sup>[如皋]</sup> 享福。  
 1. 【[衲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nuh_zz.md#衲子)】`nuh8 zz` <small>/luʔ8 t͡sɿ/<sup>兴化</sup>, /nʊʔ8 t͡sɿ/<sup>如皋</sup>, /nʊʔ8 t͡se/<sup>泰县</sup></small> 尿布<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>\[兴化：特指双层或铺了棉絮的垫子\]：尿布～。<sup>\[兴化\]</sup>  
+1. 【[南](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nun.md#南)】`nun2` 南（方位）  
+1. 【[南坝桥牛角瓜，北关桥牛说话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nun_ba_qio_ngeu.md#南坝桥牛角瓜，北关桥牛说话)】`nun2 ba qio2 ngeu2 gah7 gua1 boh7 guaen qio2 ngeu2 shuh7 hua6` <small>/nʊ̃2 pɑ t͡ɕʰiɔ2 ŋəɪ2 kɑʔ7 kuɑ1 pɔʔ7 kuɛ̃ t͡ɕʰiɔ2 ŋəɪ2 sʊʔ7 xuɑ1/<sup>泰兴</sup></small> 南坝桥、北关桥为黄桥的两座桥，相距二里左右。喻传言容易走样变味，不可轻信。<sup>\[泰兴\]</sup>  
 1. 【[南北场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nun_boh_chan.md#南北场)】`nun2 boh7 chan2` 南北面邻居  
 1. 【[南北货店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nun_boh_hu_din.md#南北货店)】`nun2 boh7 hu5 din5` <sup>[如皋]</sup> 经营南、北方土特产的店铺。  
 1. 【[南场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nun_chan.md#南场)】`nun2 chan2` 南面邻居  
@@ -1667,6 +1669,7 @@
 1. 【[南瓜子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nun_gua_zz.md#南瓜子)】`nun2 gua1 zz3` <sup>[如东]</sup> 葫芦科植物南瓜种子。  
 1. 【[南货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nun_hu.md#南货)】`nun2 hu5` ① 南方所出产的货物，如笋干、火腿等。也称广货。<sup>\[如东\]</sup> ② 南方所出产的土产品，如笋干、荔枝、桂圆等干货。<sup>\[东台\]</sup>  
 1. 【[南货店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nun_hu_din.md#南货店)】`nun2 hu5 din5` <sup>[如东]</sup> 销售南方货物的商店。  
+1. 【[南野里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nun_ia_lii.md#南野里)】`nun2 ia3 lii` <small>/nʊ̃2 iɑ3 ləɪ/<sup>泰兴</sup></small> 南面的田野；南面的少数几户人家。<sup>\[泰兴\]</sup>  
 1. 【[南境](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nun_jien.md#南境)】`nun2 jien` 泛指南边的地方  
 1. 【[南坎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nun_kun.md#南坎)】`nun2 kun3` 如东乡镇名，镇政府所在地大豫镇。2001年和兵房、丁店、棉场合并为新的大豫镇。  
 1. 【[南里扯北里牵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nun_lii_cha_boh.md#南里扯北里牵)】`nun2 lii cha3 boh7 lii qin1` <sup>[如皋]</sup> 漫无中心、不着边际的聊天。  
