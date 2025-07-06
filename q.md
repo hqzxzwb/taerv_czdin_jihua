@@ -262,6 +262,7 @@
 1. 【[忌生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_shen.md#忌生)】`qi6 shen1` <sup>[如皋]</sup> 怕见生人。  
 1. 【[忌嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_zuei.md#忌嘴)】`qi6 zuei3` <small>/t͡ɕʰʝ1 t͡suəɪ3/<sup>泰兴</sup></small> 谓因疾病、服药而忌食某些食物。<sup>\[泰兴\]</sup>  
 1. 【[荠菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_cae.md#荠菜)】`qi6 cae5` ① 十字花科植物荠菜，一年生或二年生草本。<sup>\[如东\]</sup> ② 荠菜，一年或二年生草本植物，花小，白色，嫩菜味道鲜美，用来制作春卷、饺子、烧饼、圆子馅心。<sup>\[泰州\]</sup>  
+1. 【[荠菜花<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_cae_hua_r.md#荠菜花<sub>儿</sub>)】`qi6 cae5 hua1 r` <small>/t͡ɕʰʝ1 t͡ɕʰiɛ5 xuɑ˞1/<sup>泰兴</sup></small> 荠菜。一种野菜，嫩时味道鲜美。<sup>\[泰兴\]</sup>  
 1. 【[鲚鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_y.md#鲚鱼)】`qi6 y2` <sup>[如东]</sup> 鳀科动物鲚鱼，又名刀鱼、凤尾鱼。  
 1. 【[𢭄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi.md#𢭄)】`qi6` <sup>[兴化]</sup> 身体和其他物体（如墙壁）挨得过近，不便伸直：～住身子，不便操作。兴化词典写“𢼨”，《广韵·支韵》去奇切｜“～，不正也”。（声调不合）  
 1. 【[□颈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_jien.md#□颈)】`qia1 jien3` <sup>[泰县]</sup> 落枕：不好，今吖颈项有点儿～。  

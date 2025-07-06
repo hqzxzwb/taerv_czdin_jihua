@@ -306,11 +306,14 @@
 1. 【[药单子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_daen_zz.md#药单子)】`iah8 daen1 zz` <sup>[兴化]</sup> 中医处方：拿～上街打药。  
 1. 【[药戥子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_den_zz.md#药戥子)】`iah8 den3 zz` <sup>[如皋]</sup> 配方时称中药的小戥子秤。  
 1. 【[药店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_din.md#药店)】`iah8 din5` <sup>[如皋]</sup> 习惯指中药铺。  
+1. 【[药店的甘草，头一味（位）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_din_dii_gun.md#药店的甘草，头一味（位）)】`iah8 din5 dii gun1 co3 teu2 ieh7 vei6` <small>/iɑʔ8 tĩ5 təɪ kʊ̃1 t͡sʰɔ3 tʰəɪ2 iʔ7 ʋəɪ1/<sup>泰兴</sup></small> 歇后语。甘草，一种中药，味甜，为中药中常用多用药，一般中药方中第一味为甘草，喻“第一位”。<sup>\[泰兴\]</sup>  
 1. 【[药店先生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_din_xin_shen.md#药店先生)】`iah8 din5 xin1 shen1` <sup>[如皋]</sup> 中药药师。  
+1. 【[药方子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_fan_zz.md#药方子)】`iah8 fan1 zz` <small>/iɑʔ8 fɑŋ1 t͡sɿ/<sup>泰兴</sup></small> 医生所开的方剂。有时略称“方子”。又作药单子。<sup>\[泰兴\]</sup>  
 1. 【[药房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_fan.md#药房)】`iah8 fan2` <sup>[如皋]</sup> 习惯指西药铺、部门。  
 1. 【[药罐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_gun_r.md#药罐<sub>儿</sub>)】`iah8 gun5 r` <small>/iaʔ8 kʊ˞5/<sup>如皋</sup></small> ① 药罐子的口语式的儿化。<sup>\[如皋\]</sup> ② 熬药的罐子。<sup>\[如东\]</sup> ③ 比喻经常生病吃药的人。<sup>\[如东\]</sup>：他是一个～。<sup>\[如东\]</sup>  
 1. 【[药罐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_gun_zz.md#药罐子)】`iah8 gun5 zz` <small>/iaʔ8 kʊ̃5 t͡sɿ/<sup>如皋</sup></small> ① 煎中药用的白砂罐子。<sup>\[如皋\]</sup> ② 喻多病，经常服药的人。<sup>\[如皋\]</sup><sup>\[东台\]</sup>  
 1. 【[药引子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_ien_zz.md#药引子)】`iah8 ien3 zz` <sup>[东台]</sup> 中药药剂中另加的一些药物，能加强药剂的效力。  
+1. 【[药引子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_ien_zz.md#药引子)】`iah8 ien3 zz` <small>/iɑʔ8 iŋ3 t͡sɿ/<sup>泰兴</sup></small> 中药方剂中附加的药味，能调节药性，增强药效。<sup>\[泰兴\]</sup>  
 1. 【[药铺店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_pv_din.md#药铺店)】`iah8 pv5 din5` <sup>[如皋]</sup> 药店。  
 1. 【[药人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_ren.md#药人)】`iah8 ren2` <small>/iaʔ8 lən2/<sup>兴化</sup></small> ① 用有毒的食物害人。<sup>\[东台\]</sup> ② 有毒<sup>\[兴化\]</sup>：这东西～，不能碰。<sup>\[兴化\]</sup>｜谚曰：～的不吃，犯法的不做。<sup>\[兴化\]</sup> ③ 用药毒人。<sup>\[泰州\]</sup> ④ 设下圈套诱人上当<sup>\[泰州\]</sup>：他的话你不要信，他这个是～唻。<sup>\[泰州\]</sup>｜大家一起共事是缘分，有意见当面讲，不作兴～。<sup>\[泰州\]</sup>  
 1. 【[药杀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_shaeh.md#药杀)】`iah8 shaeh` <sup>[兴化]</sup> ① 使中毒：有人在猪食里下毒，一次～十几头猪。｜他表叔吃野蘑菇～咖。 ② （喻）语言刻毒、呕人：他人虽小，说出话来～人。  
@@ -320,6 +323,7 @@
 1. 【[药水棉花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_shuei_min_hua.md#药水棉花)】`iah8 shuei3 min2 hua1` <sup>[如皋]</sup> 医院用的药棉。  
 1. 【[药死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_sz.md#药死)】`iah8 sz3` 毒死<sup>\[如东\]</sup>  
 1. 【[药铫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_tio_r.md#药铫<sub>儿</sub>)】`iah8 tio6 r` <small>/iaʔ8 tʰiɔ˞1/<sup>如皋</sup></small> 煎中药用的容器<sup>\[如东\]</sup>\[如皋：带柄的白砂锅儿。\]  
+1. 【[药铫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_tio_zz.md#药铫子)】`iah8 tio6 zz` <small>/iɑʔ8 tʰiɔ1 t͡sɿ/<sup>泰兴</sup></small> 煎中药的器皿。多为金属或陶制品。<sup>\[泰兴\]</sup>  
 1. 【[药腥气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_xien_qi.md#药腥气)】`iah8 xien1 qi` <sup>[如皋]</sup> 非药品而有药气味。  
 1. 【[药渣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_zha_zz.md#药渣子)】`iah8 zha1 zz` <sup>[如皋]</sup> 中药出汁后的渣子。旧俗倒在路中央，传说扁鹊夜巡可见正误。  
 1. 【[药子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_zz.md#药子)】`iah8 zz` <sup>[东台]</sup> 堤东一带对陌生男人的旧称：那个～说话是北方口音。  

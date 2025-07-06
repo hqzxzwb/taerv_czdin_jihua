@@ -1293,6 +1293,7 @@
 1. 【[检点](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_din.md#检点)】`jin3 din3` <sup>[东台]</sup> 自我检查，注意约束：你要注意形象，言行要多加～。  
 1. 【[茧<sub>儿</sub>雄鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_r_ion_ji.md#茧<sub>儿</sub>雄鸡)】`jin3 r ion2 ji1` <sup>[如皋]</sup> 用四只废蚕茧经剪裁、填料、染色缝成的雄鸡。常为端午节饰物。  
 1. 【[茧子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_zz.md#茧子)】`jin3 zz` <sup>[兴化]</sup> 蚕茧。  
+1. 【[茧子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_zz.md#茧子)】`jin3 zz` <small>/t͡ɕĩ3 t͡sɿ/<sup>泰兴</sup></small> 蚕茧。<sup>\[泰兴\]</sup>  
 1. 【[趼子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_zz.md#趼子)】`jin3 zz` <sup>[东台]</sup> 手掌或脚掌上因摩擦而生成的硬皮。也作“茧子”。  
 1. 【[健子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_zz.md#健子)】`jin5 zz` <sup>[泰县]</sup> 雄性仔猪。  
 1. 【[剑麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_ma.md#剑麻)】`jin5 ma2` <sup>[如东]</sup> 龙舌兰科植物剑麻，多年生半木质状粗壮植物。  
