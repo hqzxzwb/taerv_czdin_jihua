@@ -8,7 +8,7 @@ cha2 faen6
 cha2 faen
 + 饮食。
   * 东台方言词典
-  * 泰兴
+  * 泰兴方言辞典
 
 # 车軬
 cha1 faen6
