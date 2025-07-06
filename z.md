@@ -1629,6 +1629,7 @@
 1. 【[砖儿何厚，瓦儿何𣻏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_er_hu_heu.md#砖儿何厚，瓦儿何𣻏)】`zhun1 er hu2 heu6 va3 er hu2 xio1` <sup>[东台]</sup> ［喻］人情冷暖世态炎凉：他冷眼旁观周围一切，感慨地说｜“～，哪个还会帮哪个的忙？”  
 1. 【[砖盖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_gae.md#砖盖)】`zhun1 gae5` <sup>[如东]</sup> 场院用砖铺地，称砖盖。  
 1. 【[砖井](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_jien.md#砖井)】`zhun1 jien3` <sup>[如皋]</sup> 用砖为壁贡成的水井，旧时常见。  
+1. 【[砖坯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_pei_zz.md#砖坯子)】`zhun1 pei1 zz` <small>/t͡sʊ̃1 pʰəɪ1 t͡sɿ/<sup>泰兴</sup></small> 已成砖形的泥坯。<sup>\[泰兴\]</sup>  
 1. 【[砖墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_qian.md#砖墙)】`zhun1 qian2` <sup>[如皋]</sup> 砖砌的墙。  
 1. 【[砖匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_qian.md#砖匠)】`zhun1 qian6` <sup>[如皋]</sup> 制砖的工匠。  
 1. 【[砖桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_qio.md#砖桥)】`zhun1 qio2` <sup>[如皋]</sup> 旧时砖砌的拱桥。  
@@ -1640,6 +1641,7 @@
 1. 【[砖头路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_teu_lv.md#砖头路)】`zhun1 teu lv6` <sup>[如皋]</sup> 砖铺面的路。  
 1. 【[砖头头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_teu_teu_r.md#砖头头<sub>儿</sub>)】`zhun1 teu teu2 r` <sup>[如东]</sup> 𥏘（qiuh8）头儿砖。  
 1. 【[砖头地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_teu_ti.md#砖头地)】`zhun1 teu ti6` <sup>[如皋]</sup> 用砖头铺成的地。  
+1. 【[砖头瓦矻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_teu_va_kueh.md#砖头瓦矻)】`zhun1 teu va3 kueh` <small>/t͡sʊ̃1 tʰəɪ uɑ3 kʰuəʔ/<sup>泰兴</sup></small> 碎砖乱瓦。<sup>\[泰兴\]</sup>  
 1. 【[砖头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_teu.md#砖头)】`zhun1 teu2` <sup>[如东]</sup> 种建筑材料。把黏土制成砖坯，多为长方形，放在窑中烧熟强度增加。一般实心，也有中间有孔的称空心砖。  
 1. 【[砖头佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_teu_lo_r.md#砖头佬<sub>儿</sub>)】`zhun1 teu2 lo3 r` <sup>[泰县]</sup> ① 断砖。 ② 为别人泄愤：你不能老是叫我去撂～。  
 1. 【[砖头瓦板<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_teu_va_baen.md#砖头瓦板<sub>儿</sub>)】`zhun1 teu2 va3 baen3 r` <sup>[东台]</sup> 碎砖碎瓦等建筑垃圾。  

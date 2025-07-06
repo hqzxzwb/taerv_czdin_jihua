@@ -1992,15 +1992,18 @@
 1. 【[舀油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_ieu.md#舀油)】`io3 ieu2` <sup>[兴化]</sup> 戏指两口子逗嘴为戏：人家两口子～，你俫拉的甚的劝？  
 1. 【[舀子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_zz.md#舀子)】`io3 zz` ① 舀东西的工具 ② 水舀子的简称。<sup>\[如东\]</sup> ③ 海滩上像勺子一样圆形的水洼，渔民称为舀子。<sup>\[如东\]</sup>：我俫在北～里捞虾儿。<sup>\[如东\]</sup>  
 1. 【[䌁扣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_keu.md#䌁扣)】`io5 keu1` <sup>[如皋]</sup> 见“䌁子”。  
+1. 【[䌁扣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_keu.md#䌁扣)】`io5 keu1` <small>/iɔ5 kʰəɪ1/<sup>泰兴</sup></small> 用于捆麦秆、稻草等临时拧成的绳状秸秆。<sup>\[泰兴\]</sup>  
 1. 【[䌁<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_r.md#䌁<sub>儿</sub>)】`io5 r` <sup>[如皋]</sup> 扭绞状的物体：麻花～、丝～、屎～。  
-1. 【[䌁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_zz.md#䌁子)】`io5 zz` <small>/iɔ5 t͡sɿ/<sup>兴化</sup>, /iɔ5 t͡sɿ/<sup>如皋</sup></small> ① 有捻度的单股绳或绳状物：绞～、草～。<sup>\[如皋\]</sup> ② 用草绞成的绳，较粗，供固定茅屋屋草用。<sup>\[如东\]</sup> ③ 用稻草、茅草等搅成的粗绳<sup>\[东台\]</sup>：用草～子捆秸秆。<sup>\[东台\]</sup> ④ 捆扎庄稼或蔬菜的单股草绳。兴化词典作“要子”，《广韵·笑韵》於笑切，“要，约也。”《说文》“约，缠束也。”<sup>\[兴化\]</sup>  
+1. 【[䌁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_zz.md#䌁子)】`io5 zz` <small>/iɔ5 t͡sɿ/<sup>兴化</sup>, /iɔ5 t͡sɿ/<sup>如皋</sup>, /iɔ5 t͡sɿ/<sup>泰兴</sup></small> ① 有捻度的单股绳或绳状物：绞～、草～。<sup>\[如皋\]</sup> ② 用草绞成的绳，较粗，供固定茅屋屋草用。<sup>\[如东\]</sup> ③ 用稻草、茅草等搅成的粗绳<sup>\[东台\]</sup>：用草～子捆秸秆。<sup>\[东台\]</sup> ④ 捆扎庄稼或蔬菜的单股草绳。兴化词典作“要子”，《广韵·笑韵》於笑切，“要，约也。”《说文》“约，缠束也。”<sup>\[兴化\]</sup> ⑤ 用麦秆、稻草临时拧成的绳状物。<sup>\[泰兴\]</sup>  
 1. 【[要不咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_beh_ga.md#要不咖)】`io5 beh7 ga` 相当于普通话的“不是这样样才怪呢，肯定是这样的”，一般用在别人做出否定回答时。  
 1. 【[要不然](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_beh_rin.md#要不然)】`io5 beh7 rin2` <sup>[泰州]</sup> ① 如果不是这样的话，就会那样：哪个教你同处长老相的，～就是你出国吤。 ② 如果不同意这样做，就那样做：弄个五香牛肉，哿行，～就换个肴肉吧。  
 1. 【[要得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_deh.md#要得)】`io5 deh` <sup>[兴化]</sup> 表示同意：好，这个办法～。  
 1. 【[要得好，到临了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_deh_ho_do.md#要得好，到临了)】`io5 deh7 ho3 do5 lien2 lio3` <sup>[东台]</sup> 原意指卖东西卖到最后，总会有某种优惠，喻意事情的结局往往比较好。  
+1. 【[要得好，到临了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_deh_ho_do.md#要得好，到临了)】`io5 deh7 ho3 do5 lien2 lio3` <small>/iɔ5 təʔ7 xɔ3 tɔ5 liŋ2 liɔ3/<sup>泰兴</sup></small> 临了，最后。谓留到最后的总是最好的。<sup>\[泰兴\]</sup>  
+1. 【[要得好，老包小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_deh_ho_lo.md#要得好，老包小)】`io5 deh7 ho3 lo3 bo1 xio3` <small>/iɔ5 təʔ7 xɔ3 lɔ3 pɔ1 ɕiɔ3/<sup>泰兴</sup></small> 谓老人对年轻人要多包涵一点，不要过于计较，事情就好办了。<sup>\[泰兴\]</sup>  
 1. 【[要得好，祖上好；要得饱，隔夜饱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_deh_ho_zv.md#要得好，祖上好；要得饱，隔夜饱)】`io5 deh7 ho3 zv3 shan ho3 io5 deh7 bo3 geh7 ia6 bo3` <sup>[如皋]</sup>   
 1. 【[要得俏，骨子俏；硬打扮，人要笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_deh_qio_gueh.md#要得俏，骨子俏；硬打扮，人要笑)】`io5 deh7 qio5 gueh7 zz qio5 ngen6 da3 baen5 ren2 io5 xio5` <sup>[如皋]</sup>   
-1. 【[要得人不知，除非己莫为](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_deh_ren_beh.md#要得人不知，除非己莫为)】`io5 deh7 ren2 beh7 zhr1 chv2 fei1 ji3 mah8 vei2` <sup>[东台]</sup> 不能以侥幸心理做坏事。  
+1. 【[要得人不知，除非己莫为](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_deh_ren_beh.md#要得人不知，除非己莫为)】`io5 deh7 ren2 beh7 zhr1 chv2 fei1 ji3 mah8 vei2` <small>/iɔ5 təʔ7 ɻəŋ2 pəʔ7 t͡sɿ1 t͡sʰu2 fəɪ1 t͡ɕʝ3 mɑʔ8 ʋəɪ2/<sup>泰兴</sup></small> ① 不能以侥幸心理做坏事。<sup>\[东台\]</sup> ② 谓要想清白无辜，只有不做坏事，别无选择。<sup>\[泰兴\]</sup>  
 1. 【[要得如我愿，除非两个我](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_deh_rv_ngu.md#要得如我愿，除非两个我)】`io5 deh7 rv2 ngu3 iun6 chv2 fei1 laen3 gu ngu3` <sup>[如皋]</sup>   
 1. 【[要多还少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_du_huaen_sho.md#要多还少)】`io5 du1 huaen2 sho3` <sup>[如皋]</sup> 买卖谈判。  
 1. 【[要饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_faen.md#要饭)】`io5 faen6` <sup>[如东]</sup> 乞求施舍：没得办法，我只好出去～。  
@@ -2066,6 +2069,7 @@
 1. 【[容者……不到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_zhae_beh_do.md#容者……不到)】`ion2 zhae3 beh7 do5` <sup>[如皋]</sup> 难以得到：容者吃不到、容者买不到。  
 1. 【[容仗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_zhan.md#容仗)】`ion2 zhan5` <sup>[东台]</sup> 对孩子或手下人的缺点错误放任不管：对小伙不能太～。  
 1. 【[溶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion.md#溶)】`ion2` <sup>[如东]</sup> ① 物体膨松的状态。 ② 粉碎：把纸撕～吖。  
+1. 【[荣业](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_ih.md#荣业)】`ion2 ih8` <small>/iɔŋ2 iʔ8/<sup>泰兴</sup></small> 工作；行当<sup>\[泰兴\]</sup>：要找个～做做<sup>\[泰兴\]</sup>  
 1. 【[荣辱不觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_roh_beh_gah.md#荣辱不觉)】`ion2 roh8 beh7 gah7` <sup>[东台]</sup> 办事缺乏道德标准，对什么是光荣，什么是耻辱弄不清。  
 1. 【[融冻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_don.md#融冻)】`ion2 don5` ① 冰雪融化 ② 化冰。<sup>\[如东\]</sup>  
 1. 【[融泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_ni.md#融泥)】`ion2 ni2` <sup>[如东]</sup> ① 河塘淤积的烂泥。 ② 烂泥。  

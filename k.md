@@ -966,6 +966,7 @@
 1. 【[款子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_zz.md#款子)】`kun3 zz` <sup>[如东]</sup> 资金。  
 1. 【[砍价](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_jia.md#砍价)】`kun3 jia5` <sup>[东台]</sup> 尽量压低商品的销售价。  
 1. 【[砍头疮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_teu_chuan.md#砍头疮)】`kun3 teu2 chuan1` <sup>[东台]</sup> 通常指生在脖子后部的痈。此痈生在敏感部位，死亡率较高，故有此名。  
+1. 【[砍头疮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_teu_chuan.md#砍头疮)】`kun3 teu2 chuan1` <small>/kʰʊ̃3 tʰəɪ2 t͡sʰuɑŋ1/<sup>泰兴</sup></small> 两肩之间、背上部的痈疽。<sup>\[泰兴\]</sup>  
 1. 【[砍头刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_teu_do.md#砍头刀)】`kun3 teu2 do1` <sup>[如皋]</sup> 詈语。意为第一个被杀头。  
 1. 【[砍桩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_zhuan.md#砍桩)】`kun3 zhuan1` <sup>[兴化]</sup> 限时完工：今吖割麦，三个人～，明吖还有别的活计等吖做。  
 1. 【[䀍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun.md#䀍)】`kun5` <sup>[如东]</sup> 盖子由上往下扣，叫䀍：把鸡～住。  

@@ -2032,9 +2032,10 @@
 1. 【[荤的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_dii.md#荤的)】`huen1 dii` <sup>[兴化]</sup> 内容涉及性的粗俗话题：“二伢子，今天说的是什么书啊？”“噢，全是～。”（兴文《永福泉无头案》）  
 1. 【[荤饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_faen.md#荤饭)】`huen1 faen6` <sup>[如东]</sup> ① 饭的一种。大米饭中加猪肉等荤菜，叫做荤饭。 ② 指鱼肉酒菜全有的饭餐。  
 1. 【[荤夹素](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_gaeh_sv.md#荤夹素)】`huen1 gaeh7 sv5` <sup>[如皋]</sup> ① 有荤有素的菜，即家常菜。 ② 说话中带草字。  
-1. 【[荤话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_hua.md#荤话)】`huen1 hua6` 充满色情的粗话。<sup>\[东台\]</sup><sup>\[泰州\]</sup>：他这个人是没得～不开口。<sup>\[泰州\]</sup>｜这小伙不上路子，说咖说的，～就出来唻。<sup>\[泰州\]</sup>  
+1. 【[荤话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_hua.md#荤话)】`huen1 hua6` <small>/xuəŋ1 xuɑ1/<sup>泰兴</sup></small> ① 充满色情的粗话。<sup>\[东台\]</sup><sup>\[泰州\]</sup>：他这个人是没得～不开口。<sup>\[泰州\]</sup>｜这小伙不上路子，说咖说的，～就出来唻。<sup>\[泰州\]</sup> ② 村话；粗俗低级的语言。<sup>\[泰兴\]</sup>  
 1. 【[荤油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_ieu.md#荤油)】`huen1 ieu2` <small>/xuən1 iɤ2/<sup>兴化</sup>, /xuəŋ1 iɤɯ2/<sup>泰兴</sup></small> 食用的动物油。多指熬好的猪油。<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>  
 1. 【[荤油丁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_ieu_dien_zz.md#荤油丁子)】`huen1 ieu2 dien1 zz` <sup>[兴化]</sup> 见“脂油丁子”。  
+1. 【[荤盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_pun.md#荤盘)】`huen1 pun2` <small>/xuəŋ1 pʰʊ̃2/<sup>泰兴</sup></small> 带肋骨的猪肉。多用于敬神鬼菩萨。<sup>\[泰兴\]</sup>  
 1. 【[荤期](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_qi.md#荤期)】`huen1 qi1` <sup>[如皋]</sup> 周期食谱中吃荤菜的日子。  
 1. 【[荤段<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_tun_r.md#荤段<sub>儿</sub>)】`huen1 tun6-dun5 r` <sup>[兴化]</sup> 粗俗的故事或笑话：这天，巧儿听一个女人说了一段关于黄瓜的～，笑得前合后仰。（钱国怀《水流千转》）。  
 1. 【[荤段子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_tun_zz.md#荤段子)】`huen1 tun6-dun5 zz` <sup>[东台]</sup> 充满色情的一段话。  
@@ -2075,7 +2076,7 @@
 1. 【[混世魔王](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_shr_mu_van.md#混世魔王)】`huen5 shr5 mu2 van2` <sup>[东台]</sup> ［喻］扰乱世界、给人们带来严重危害的恶人：这个～终于捱执行吖死刑。  
 1. 【[混账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_zhan.md#混账)】`huen5 zhan5` 言语行动无理无耻。<sup>\[如东\]</sup><sup>\[东台\]</sup>：他是一个～东西。<sup>\[如东\]</sup>｜那是～话<sup>\[东台\]</sup>｜这个～东西真坏。<sup>\[东台\]</sup>  
 1. 【[混子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_zz.md#混子)】`huen5 zz` <small>/xuən5 t͡sɿ/<sup>兴化</sup>, /xuəŋ5 t͡sɿ/<sup>如皋</sup></small> ① 善与各种人、各种环境、各种复杂情况打交道的人。<sup>\[如皋\]</sup> ② 又称混脚，指游手好闲不务正业混日子的人。<sup>\[东台\]</sup> ③ 混迹于社会某阶层，某行业中的人<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：这人是有名的～，专门抱粗腿，说二话。<sup>\[兴化\]</sup>｜这家伙是钢材市场出咖名的～。<sup>\[泰州\]</sup>  
-1. 【[溷/荤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen.md#溷/荤)】`huen5` 葱蒜气味  
+1. 【[溷/荤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen.md#溷/荤)】`huen5` 葱、蒜、韭等的辛味  
 1. 【[溷吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_nga.md#溷吖)】`huen5 nga` <sup>[如皋]</sup> 鱼肉类开始变质有臭味。  
 1. 【[溷气味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_qi_vei.md#溷气味)】`huen5 qi vei6` <sup>[兴化]</sup> 指葱、蒜、非之类特有的气味：他喜欢吃大蒜，一嘴的～。  
 1. 【[溷气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_qi.md#溷气)】`huen5 qi5` <small>/xuəŋ5 t͡ɕʰʝ5/<sup>如皋</sup></small> ① 葱、蒜、韭之类的辛味。<sup>\[如皋\]</sup><sup>\[东台\]</sup>：刚刚吃咖大蒜，嘴里一阵～味。<sup>\[东台\]</sup> ② 指葱蒜之类食品。见“五荤”。<sup>\[如皋\]</sup>  

@@ -483,11 +483,14 @@
 1. 【[砂场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_chan.md#砂场)】`sha1 chan2` <sup>[如东]</sup> 堆放黄沙、石子儿、瓜子片的场地。  
 1. 【[砂缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_gan.md#砂缸)】`sha1 gan1` <small>/sa1 kaŋ1/<sup>兴化</sup>, /sa1 kã1/<sup>如皋</sup></small> ① 径略大于深的无釉大缸。多用于制酱。<sup>\[如皋\]</sup> ② 缸的一种。陶制，比较粗糙。圆桶形，体积大。高120厘米，口径88厘米，底径65厘米。用以装物。<sup>\[如东\]</sup> ③ 盛东西的器物，底小口大，陶土烧制而成，不上釉。<sup>\[兴化\]</sup>  
 1. 【[砂锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_gu.md#砂锅)】`sha1 gu1` <sup>[如东]</sup> 锅的一种。砂泥制，圆形，有盖，有的有柄或环。有各种规格。用来焖菜或煎中药。  
+1. 【[砂锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_gu.md#砂锅)】`sha1 gu1` <small>/sɑ1 kɤɯ1/<sup>泰兴</sup></small> 用粘土为原料烧制成的锅。<sup>\[泰兴\]</sup>  
 1. 【[砂锅炒豆子——又跳又蹦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_gu_cho_teu.md#砂锅炒豆子——又跳又蹦)】`sha1 gu1 cho3 teu6 zz ieu6 tio5 ieu6 bon5` <sup>[东台]</sup>   
 1. 【[砂锅<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_gu_r.md#砂锅<sub>儿</sub>)】`sha1 gu1 r` <sup>[如皋]</sup> 浅帮的白砂海洋锅。  
 1. 【[砂䀇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_gv.md#砂䀇)】`sha1 gv1` <sup>[如皋]</sup> ① 高帮的梨形白砂海洋锅。 ② 子宫：～下来啊（子宫下垂）。 ③ 胃：医～（慢慢地吃）。  
 1. 【[砂鼓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_gv.md#砂鼓)】`sha1 gv3` <sup>[如东]</sup> 小肠滑落到阴囊里，呈鼓状，称砂鼓。  
 1. 【[砂灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_huei.md#砂灰)】`sha1 huei1` <sup>[兴化]</sup> 由一定比例的砂（沙）和胶结材料——水泥、石灰浆等加水和成，是砌砖石用的黏结物质和粉制墙壁的材料。也叫“灰浆”“沙浆”。  
+1. 【[砂礓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_jian.md#砂礓)】`sha1 jian1` <small>/sɑ1 t͡ɕiɑŋ1/<sup>泰兴</sup></small> 小而坚硬的砂粒。<sup>\[泰兴\]</sup>  
+1. 【[砂礓石子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_jian_sheh_zz.md#砂礓石子)】`sha1 jian1 sheh8 zz` <small>/sɑ1 t͡ɕiɑŋ1 səʔ8 t͡sɿ/<sup>泰兴</sup></small> 很小的砂石块<sup>\[泰兴\]</sup>：把～拣掉<sup>\[泰兴\]</sup>  
 1. 【[砂礓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_jian.md#砂礓)】`sha1 jian3` 土壤中生成的石灰质结核体，多为碳酸钙与土粒结合而成，表面粗糙，不透水，一般呈颗粒状，稍大者呈块状<sup>\[泰州\]</sup>：你淘的米，里头的～都不曾拣得干净。<sup>\[泰州\]</sup>  
 1. 【[砂礓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_jian_r.md#砂礓<sub>儿</sub>)】`sha1 jian3 r` <small>/sa1 t͡ɕiaŋ3 ɚ/<sup>兴化</sup>, /sa1 t͡ɕia˞3/<sup>如皋</sup></small> ① 混在粮食、鞋内的石、砖、瓷、玻璃等的小颗粒。<sup>\[如皋\]</sup> ② 沙土中的细小石块、杂在米中的砂粒。<sup>\[兴化\]</sup>  
 1. 【[砂码礓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_ma_jian.md#砂码礓)】`sha1 ma jian3` <sup>[泰州]</sup> 石灰质的碎石颗粒：你淘的甚的米？淘箩里头的～都不曾拣得清。  

@@ -1223,6 +1223,7 @@
 1. 【[棹水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_shuei.md#棹水)】`cho6 shuei3` <small>/t͡sʰɔ1 suei3/<sup>如皋</sup></small> ① 向前拨水。<sup>\[如皋\]</sup> ② 向前拨水为棹水，向后拨水为划水：他站吖河里，朝岸上的人群～：两人面对面，～打仗。<sup>\[如皋\]</sup>  
 1. 【[肇事鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_shr_guei.md#肇事鬼)】`cho6 shr6 guei3` <sup>[如东]</sup> 制造事端的人，多指小孩：真是一个～。  
 1. 【[赵家园](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_ga_iun.md#赵家园)】`cho6 ga1 iun2` <sup>[东台]</sup> 地名，现朝阳新村东首。清末状元张謇创办的母里师范原址就在此附近。  
+1. 【[赵公元帅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_gon_iun_shuae.md#赵公元帅)】`cho6 gon1 iun2 shuae5` <small>/t͡sʰɔ1 kɔŋ1 yʊ̃2 ɕyɛ5/<sup>泰兴</sup></small> 指赵玄坛、赵公明，民间奉其为财神。农历正月初五敬财神，即敬赵公元帅也。<sup>\[泰兴\]</sup>  
 1. 【[搐鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh_pieh_zz.md#搐鼻子)】`choh7 pieh8 zz` <small>/t͡sʰɔʔ7 pʰiəʔ8 t͡sɿ/<sup>如皋</sup></small> ① 擤鼻涕时，用力出气。<sup>\[如东\]</sup> ② 辨别气味。<sup>\[如东\]</sup>：他站吖厨房里～。<sup>\[如东\]</sup> ③ 表示为难。<sup>\[如东\]</sup>：听到这件事，他～。<sup>\[如东\]</sup> ④ 鼻子不断嗅气的动作。<sup>\[如皋\]</sup> ⑤ 鼻子收缩的样子。<sup>\[如皋\]</sup> ⑥ 嗅以辨气味。<sup>\[如皋\]</sup> ⑦ 表示为难。<sup>\[如皋\]</sup>  
 1. 【[珿斩齐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh_zhaen_qi.md#珿斩齐)】`choh7 zhaen3 qi2` <sup>[如皋]</sup> 状很齐整。珿，初六切：“齐也”。  
 1. 【[畜牲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh_shen.md#畜牲)】`choh7 shen` <sup>[如皋]</sup> ① 禽兽鱼虫等。 ② 贬指违礼之人：～货、活～、精～、做～事、人毛～。  

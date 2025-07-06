@@ -1033,7 +1033,7 @@
 1. 【[筳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_r.md#筳<sub>儿</sub>)】`tien2 r` 杆子。<sup>\[如东\]</sup>：火柴～。<sup>\[如东\]</sup>  
 1. 【[筳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_zz.md#筳子)】`tien2 zz` <small>/tʰiəŋ2 t͡sɿ/<sup>如皋</sup></small> 纺棉花用的铁轴子。<sup>\[如皋\]</sup>  
 1. 【[莛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_r.md#莛<sub>儿</sub>)】`tien2 r` <small>/tʰiə˞2/<sup>如皋</sup></small> 草本植物嫩的花茎<sup>\[如皋\]</sup>：韭菜～。<sup>\[如皋\]</sup>  
-1. 【[莛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_zz.md#莛子)】`tien2 zz` <small>/tʰiɪ̃2 t͡sɿ/<sup>兴化</sup>, /tʰiəŋ2 t͡sɿ/<sup>如皋</sup></small> ① 做本蜡烛烛心的红草茎。<sup>\[如皋\]</sup> ② 蔬菜等的花轴。<sup>\[东台\]</sup> ③ 玉米去粒后的棒棒。<sup>\[东台\]</sup> ④ 某些草本植物的茎（多指未成熟时）<sup>\[兴化\]</sup>：荷叶～；芦秫～。<sup>\[兴化\]</sup>  
+1. 【[莛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_zz.md#莛子)】`tien2 zz` <small>/tʰiɪ̃2 t͡sɿ/<sup>兴化</sup>, /tʰiəŋ2 t͡sɿ/<sup>如皋</sup>, /tʰiŋ2 t͡sɿ/<sup>泰兴</sup></small> ① 做本蜡烛烛心的红草茎。<sup>\[如皋\]</sup> ② 蔬菜等的花轴。<sup>\[东台\]</sup> ③ 玉米去粒后的棒棒。<sup>\[东台\]</sup> ④ 某些草本植物的茎（多指未成熟时）<sup>\[兴化\]</sup>：荷叶～；芦秫～。<sup>\[兴化\]</sup> ⑤ 植物的茎。<sup>\[泰兴\]</sup>  
 1. 【[葶苈子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_lieh_zz.md#葶苈子)】`tien2 lieh8 zz` <sup>[如东]</sup> 十字花科植物独行菜，一年生或二年生草本。高约30厘米。茎直立。叶互生，上部叶线形，较小，全缘。长总状花序，顶生。花小。短角果，卵状椭圆形，扁平。种子倒卵状椭圆形，淡红棕色。生长在田野、荒地、路旁。  
 1. 【[听装](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_zhuan.md#听装)】`tien3 zhuan1` <sup>[兴化]</sup> 用听子包装的商品：～香烟；～奶粉。  
 1. 【[听子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_zz.md#听子)】`tien3 zz` <sup>[兴化]</sup> 装食品、香烟等物的马口铁罐或筒：一～饼干｜一～中华香烟。  
@@ -1412,11 +1412,15 @@
 1. 【[垫规](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_guei.md#垫规)】`tin6 guei1` <sup>[东台]</sup> 相当于定金。是买方给卖方先支付一定数额金钱的保证方式。如买卖成交，定金则作为预付款；如不成交，则由违约方按定金额向对方赔偿。  
 1. 【[垫棺材](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_gun_cae.md#垫棺材)】`tin6 gun1 cae` <sup>[如皋]</sup> 喻抵命。  
 1. 【[垫棺材底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_gun_cae_di.md#垫棺材底)】`tin6 gun1 cae2 di3` <sup>[兴化]</sup> 本义为殉葬，引伸为偿命：“你把小媳妇逼死……拿你抵命，拿你～……”（《皮五辣子》三）  
+1. 【[垫棺材底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_gun_cae_di.md#垫棺材底)】`tin6 gun1 cae2 di3` <small>/tʰĩ1 kʊ̃1 t͡ɕʰiɛ2 t͡ɕʝ3/<sup>泰兴</sup></small> 抵命；偿命。多用于发狠的话。<sup>\[泰兴\]</sup>  
+1. 【[垫下子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_ha_zz.md#垫下子)】`tin6 ha6 zz` <small>/tʰĩ1 xɑ1 t͡sɿ/<sup>泰兴</sup></small> 暂时替人付钱。<sup>\[泰兴\]</sup>  
 1. 【[垫脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_jiah.md#垫脚)】`tin6 jiah7` <sup>[兴化]</sup> 找临时职业或住所：你初来乍到｜先找个事～，以后再求发展。也说“站脚”。  
+1. 【[垫肩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_jin.md#垫肩)】`tin6 jin1` <small>/tʰĩ1 t͡ɕĩ1/<sup>泰兴</sup></small> 挑或扛东西时放在肩膀上的垫子，用来減少摩擦，保护衣服和皮肤。<sup>\[泰兴\]</sup>  
 1. 【[垫被](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_pi.md#垫被)】`tin6 pi6` <small>/tʰiɪ̃6 pʰi6/<sup>兴化</sup>, /tʰĩ1 pʰʝ1/<sup>如皋</sup></small> ① 睡觉时垫在身下的被褥 ② 床上身下的被子。<sup>\[如皋\]</sup> ③ 褥子<sup>\[兴化\]</sup>：～太𣻏（xio1）。<sup>\[兴化\]</sup> ④ 铺在床上的褥子<sup>\[泰州\]</sup>：天冷吖唻，你铺上再加一条～吧。<sup>\[泰州\]</sup>  
 1. 【[垫钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_qin.md#垫钱)】`tin6 qin2` 暂时替人付钱。<sup>\[泰州\]</sup>  
 1. 【[垫箱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_xian.md#垫箱)】`tin6 xian1` 民俗，女儿出嫁之时，娘家必陪箱子，做母亲的在女儿出嫁之日，要将娘家陪嫁箱内四个箱角中的三个箱角分别摆上现金作为女儿的私房钱，多为666元、6666元或者888元、8888元。剩下一个箱角由女儿公婆在成亲之日开箱之时摆放，其数不得少于女儿娘家三个箱角之钱总数。为防富裕家庭女方母亲垫钱过多，导致家庭相对困难男方母亲难堪，多由媒人居中沟通，事先约定“垫箱”钱数。<sup>\[泰州\]</sup>  
 1. 【[垫支](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_zhr.md#垫支)】`tin6 zhr1` <sup>[东台]</sup> 暂时代替支付。  
+1. 【[垫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_zz.md#垫子)】`tin6 zz` <small>/tʰĩ1 t͡sɿ/<sup>泰兴</sup></small> 垫在器物或地面上的用品。<sup>\[泰兴\]</sup>  
 1. 【[电火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hu.md#电火)】`tin6 hu3` <sup>[兴化]</sup> 电：～晚上六点钟来。  
 1. 【[电话杆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hua_gun_zz.md#电话杆子)】`tin6 hua6 gun3 zz` <sup>[兴化]</sup> ① （喻）喜欢搬弄是非的人。 ② 战时敌方坐探，为敌方通风报信的人。  
 1. 【[挑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio.md#挑)】`tio1` <small>/tʰiɔ1/<sup>兴化</sup>, /tʰiɔ1/<sup>泰兴</sup></small> ① 用刀尖向前剖开物体。一种捕鱼网具。圆锥形，口宽约1丈5尺，身长约2丈5尺。麻绳或聚乙稀线结成，眼大。作业时，用一根竹竿撑开挑口，挂在船体两边，放人海洋中捕鱼。<sup>\[如东\]</sup> ② 拨出<sup>\[兴化\]</sup>：把刺～出来。<sup>\[兴化\]</sup> ③ 挖取<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：～野菜<sup>\[兴化\]</sup>｜三四个乡间的老妇人在那丹墀里～荠菜……（《儒林外史》五五）<sup>\[兴化\]</sup>｜～草，～野菜<sup>\[泰兴\]</sup> ④ 扁担等两头挂着东西，用肩担着<sup>\[泰兴\]</sup><sup>\[如东\]</sup>  
