@@ -1243,7 +1243,7 @@
 1. 【[棉线坊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_xin_fan.md#棉线坊)】`min2 xin5 fan1` <sup>[如皋]</sup> 专门生产棉线的作坊。  
 1. 【[棉线针](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_xin_zhen.md#棉线针)】`min2 xin5 zhen1` <small>/mĩ2 ɕĩ5 t͡səŋ1/<sup>如皋</sup>, /miɪ̃2 ɕiɪ̃5 t͡səŋ1/<sup>泰县</sup></small> ① 穿棉线的针，比丝线针稍大。比扎鞋底的针小，本身又有大、小号之分。<sup>\[如皋\]</sup> ② 缝衣针。<sup>\[泰县\]</sup>  
 1. 【[棉子油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_zz_ieu.md#棉子油)】`min2 zz3 ieu2` <sup>[如东]</sup> 锦葵科植物草棉种子所榨取的脂肪油。  
-1. 【[眠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min.md#眠)】`min2` <small>/mĩ2/<sup>如皋</sup></small> ① 睡觉，一般用于趴著睡觉的动物。 ② 牲畜伏下。<sup>\[如东\]</sup>：水牛～下来啊。<sup>\[如东\]</sup> ③ 指动物伏下。<sup>\[如皋\]</sup> ④ 指人睡眠的深度：睡得～、睡不～。<sup>\[如皋\]</sup>  
+1. 【[眠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min.md#眠)】`min2` <small>/mĩ2/<sup>如皋</sup></small> ① 指动物伏下。<sup>\[如东\]</sup><sup>\[如皋\]</sup>：水牛～下来啊。<sup>\[如东\]</sup> ② 指人睡眠的深度<sup>\[如皋\]</sup>：睡得～、睡不～。<sup>\[如皋\]</sup>  
 1. 【[眠沟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_geu.md#眠沟)】`min2 geu1` <sup>[如东]</sup> 水车部件。水车棱凳上安装轴瓦，水车车轴箍头铞儿搁在上面，支撑车轴旋转。  
 1. 【[眠锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_gu.md#眠锅)】`min2 gu1` <sup>[如东]</sup> 勺形的头部连着一根管筒，像旱烟台，白铁皮制。调烧酒时，横放在甑子里的酒酿上，头部承接凝结的水蒸气，通过管道流出来，即是白酒。这种装置叫做眠锅。  
 1. 【[眠鸭<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_ngaeh_r.md#眠鸭<sub>儿</sub>)】`min2 ngaeh7 r` <sup>[如东]</sup> 睡眠状态的鸭子。比喻因为缺少睡眠而昏昏欲睡的的人。  
@@ -1274,53 +1274,60 @@
 1. 【[面抽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_cheu.md#面抽)】`min6 cheu1` <sup>[如皋]</sup> 酱油的一种。甜面酱的缸中，“抽”篓抽出的乳液，味鲜甜。  
 1. 【[面店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_din.md#面店)】`min6 din5` <sup>[如皋]</sup> ① 制售面条的店家。 ② 卖煮面条、馄饨等的店家。  
 1. 【[面腐盆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_fv_pen.md#面腐盆)】`min6 fv3 pen2` <sup>[泰县]</sup> 糊涂人。  
+1. 【[面疙瘩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_geh_daeh.md#面疙瘩)】`min6 geh7 daeh` <small>/mĩ1 kəʔ7 tæʔ/<sup>泰兴</sup></small> 食品。以面粉调和作成的块状物。<sup>\[泰兴\]</sup>  
 1. 【[面光光的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_guan_guan_dii.md#面光光的)】`min6 guan1 guan1 dii` <sup>[泰州]</sup> 没有一点面子，因觉羞愧而觉难堪：前两天我还同她说咖两句，大家心里都不开心，你教我现在去请她，～，你还是教旁的人去同她说吧。  
 1. 【[面花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hua.md#面花)】`min6 hua1` <sup>[如皋]</sup> 杆秤向上一面的秤星。  
 1. 【[面黄肌瘦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_huan_ji_sheu.md#面黄肌瘦)】`min6 huan2 ji1 sheu5` <sup>[如东]</sup> 形容病情沉重：只见他～的，恐怕不行4。  
 1. 【[面糊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hv.md#面糊)】`min6 hv` <sup>[泰州]</sup> 用水与小麦面粉调和而成的、可以粘贴东西的糊状物。  
 1. 【[面糊脑<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hv_no_r.md#面糊脑<sub>儿</sub>)】`min6 hv no3 r` <sup>[泰县]</sup> 浆糊。  
 1. 【[面糊盆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hv_pen.md#面糊盆)】`min6 hv pen2` <sup>[兴化]</sup> （喻）糊涂人：他是个～，酒一喝甚的事都不清楚啊。  
+1. 【[面糊盆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hv_pen.md#面糊盆)】`min6 hv pen2` <small>/mĩ1 fʋ pʰəŋ2/<sup>泰兴</sup></small> 比喻办事糊里糊涂，拖拖拉拉，不果断明晰。<sup>\[泰兴\]</sup>  
 1. 【[面糊手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hv_sheu.md#面糊手)】`min6 hv sheu3` <sup>[东台]</sup> 指经常挪用公私款，且账目不清的人。  
+1. 【[面糊手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hv_sheu.md#面糊手)】`min6 hv sheu3` <small>/mĩ1 fʋ ɕiɤɯ3/<sup>泰兴</sup></small> 比喻喜欢贪小便宜，凡过手的东西“经手不穷”，总要捞上一点。<sup>\[泰兴\]</sup>  
 1. 【[面糊刷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hv_shuaeh_zz.md#面糊刷子)】`min6 hv shuaeh7 zz` <sup>[兴化]</sup> （喻）专拿甜言蜜语笼络人者：他是有名的～，几句话准把你说咖高兴起来。  
 1. 【[面糊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hv.md#面糊)】`min6 hv2` <sup>[兴化]</sup> 浆糊。  
 1. 【[面糊刷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hv_shuaeh_zz.md#面糊刷子)】`min6 hv2 shuaeh7 zz` <sup>[东台]</sup> ［喻］指无原则地和稀泥：有矛盾要及时解决，不能当～。  
-1. 【[面糊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hv.md#面糊)】`min6 hv6` <small>/mĩ1 fu1/<sup>如皋</sup></small> ① 糨糊。<sup>\[如东\]</sup> ② 浆糊，粘合剂。半熟时有黏性<sup>\[如皋\]</sup>  
+1. 【[面糊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hv.md#面糊)】`min6 hv6` <small>/mĩ1 fu1/<sup>如皋</sup>, /mĩ1 fʋ1/<sup>泰兴</sup></small> 浆糊，粘合剂<sup>\[如东\]</sup><sup>\[泰兴\]</sup>\[如皋：半熟时有黏性\]  
 1. 【[面糊糊<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hv_hv_r.md#面糊糊<sub>儿</sub>)】`min6 hv6 hv6 r` <small>/mĩ1 fu1 fu˞1/<sup>如皋</sup></small> ① 小麦粉放在水中搅拌成糊状，倒入开水中，配青菜叶，煮熟的食物。<sup>\[如东\]</sup> ② 水煮面粉液，食品。熟透则不黏。<sup>\[如皋\]</sup>  
 1. 【[面糊脑<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hv_no_r.md#面糊脑<sub>儿</sub>)】`min6 hv6 no3 r` <sup>[如东]</sup> 用小麦粉做成的面糊糊。  
 1. 【[面糊手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hv_sheu.md#面糊手)】`min6 hv6 sheu3` <sup>[如东]</sup> 爱占小便宜的人。  
 1. 【[面糊刷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hv_shuaeh_zz.md#面糊刷子)】`min6 hv6 shuaeh7 zz` <small>/mĩ1 fu1 sueʔ7 t͡sɿ/<sup>如皋</sup></small> ① 喻敷衍或平衡人际关系的表现，或指人。<sup>\[如皋\]</sup> ② 本义涂面糊的子，引申指擅长化解矛盾、息事宁人的人<sup>\[泰州\]</sup>：办公室主任不好当，方方面面的矛盾难免，就不开老李这把～。<sup>\[泰州\]</sup>  
-1. 【[面筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_jien.md#面筋)】`min6 jien1` 食品，洗去面中的淀粉，余下的蛋白质\[如东：小麦面和麸皮入水揉洗后所获得的胶黏状物质。\]\[泰州：用小麦面粉加水拌和，洗去其中所含淀粉，剩下凝结成团的混合蛋白质就是面筋\]\[东台：用面粉加水拌和，洗去其中所含淀粉，剩下的混合蛋白质。\]：老太吃素，你还不如买点儿～送把他得济。<sup>\[泰州\]</sup>  
+1. 【[面筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_jien.md#面筋)】`min6 jien1` <small>/mĩ1 t͡ɕiŋ1/<sup>泰兴</sup></small> 食品，洗去面中的淀粉，余下的蛋白质<sup>\[泰兴\]</sup>\[如东：小麦面和麸皮入水揉洗后所获得的胶黏状物质。\]\[泰州：用小麦面粉加水拌和，洗去其中所含淀粉，剩下凝结成团的混合蛋白质就是面筋\]\[东台：用面粉加水拌和，洗去其中所含淀粉，剩下的混合蛋白质。\]：老太吃素，你还不如买点儿～送把他得济。<sup>\[泰州\]</sup>  
 1. 【[面筋黐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_jien_chr.md#面筋黐)】`min6 jien1 chr1` <sup>[泰县]</sup> 用米麦制成的粘合剂  
 1. 【[面筋泡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_jien_po_r.md#面筋泡<sub>儿</sub>)】`min6 jien1 po1 r` <sup>[如皋]</sup> 油发面筋，泡若圆球，内可衬肉糜馅。  
 1. 【[面愧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_kuei.md#面愧)】`min6 kuei5` <sup>[兴化]</sup> 感到惭愧：自己做啊对不起人的事，有点～。  
-1. 【[面磕地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_kuh_ti.md#面磕地)】`min6 kuh7 ti6` <small>/miɪ̃6 kʰuʔ7 tʰəi6/<sup>兴化</sup>, /mĩ1 kʰʊʔ7 tʰʝ1/<sup>如皋</sup></small> ① 俯跌。<sup>\[如皋\]</sup> ② 身体向前跌倒，面部接触到地面<sup>\[兴化\]</sup>：他由于用力过猛，向前一个～，跌得满嘴流血。<sup>\[兴化\]</sup>  
+1. 【[面磕地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_kuh_ti.md#面磕地)】`min6 kuh7 ti6` <small>/miɪ̃6 kʰuʔ7 tʰəi6/<sup>兴化</sup>, /mĩ1 kʰʊʔ7 tʰʝ1/<sup>如皋</sup>, /mĩ1 kʰʊʔ7 t͡ɕʰʝ1/<sup>泰兴</sup></small> ① 俯跌。<sup>\[如皋\]</sup> ② 身体向前跌倒，面部接触到地面<sup>\[兴化\]</sup>：他由于用力过猛，向前一个～，跌得满嘴流血。<sup>\[兴化\]</sup> ③ 摔跤时面部着地。<sup>\[泰兴\]</sup>  
 1. 【[面磕地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_kuh_ti.md#面磕地)】`min6 kuh8 ti6` <sup>[东台]</sup> 也叫“狗吃屎”，指面部朝下跌了个跟头。  
 1. 【[面里花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_li_hua.md#面里花)】`min6 li3 hua1` <sup>[如皋]</sup> 有的杆秤有八面花，上面的里花称之。  
 1. 【[面梁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_lian.md#面梁)】`min6 lian2` <sup>[兴化]</sup> 船的隔舱横梁上部较宽厚的板：王殿宝连岸都不敢上，坐在船～上说……（马春阳《风里雨里》）  
 1. 【[面门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_men.md#面门)】`min6 men2` <small>/miɪ̃6 mən2/<sup>兴化</sup>, /mĩ1 məŋ2/<sup>如皋</sup>, /miɪ̃1 məŋ2/<sup>泰县</sup></small> ① 面孔。<sup>\[如东\]</sup> ② 门牙。<sup>\[如东\]</sup> ③ 脸部。<sup>\[如皋\]</sup> ④ 指面部<sup>\[兴化\]</sup>：也是人极计生，被他绰起一斧，正中刘官人～，扑地倒了。（《京本通俗小说·错斩崔宁》）<sup>\[兴化\]</sup> ⑤ 门牙。<sup>\[泰县\]</sup>  
 1. 【[面面是情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_min_shr_qien.md#面面是情)】`min6 min6 shr5 qien2` <sup>[东台]</sup> 碍于面子，不好当面得罪人。也作“面面之情”。  
 1. 【[面饽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_peh.md#面饽)】`min6 peh8` <sup>[兴化]</sup> 为免面酵沾手，在做面食时所用的干面粉。或称“饽”。  
-1. 【[面盆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_pen.md#面盆)】`min6 pen2` <small>/miɪ̃6 pʰən2/<sup>兴化</sup>, /miɪ̃1 pʰəŋ2/<sup>泰县</sup></small> ① 洗脸盆<sup>\[兴化\]</sup>：（潘金莲）慌忙去～里洗落了胭粉。（《水浒传》二六）<sup>\[兴化\]</sup> ② 洗脸盆。<sup>\[泰县\]</sup>  
+1. 【[面盆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_pen.md#面盆)】`min6 pen2` <small>/miɪ̃6 pʰən2/<sup>兴化</sup>, /miɪ̃1 pʰəŋ2/<sup>泰县</sup></small> 洗脸盆<sup>\[兴化\]</sup><sup>\[泰县\]</sup>：（潘金莲）慌忙去～里洗落了胭粉。（《水浒传》二六）<sup>\[兴化\]</sup>  
 1. 【[面皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_pi.md#面皮)】`min6 pi2` <small>/miɪ̃6 pʰi2/<sup>兴化</sup></small> ① 人脸上的皮肤。<sup>\[如东\]</sup> ② 面子。<sup>\[如东\]</sup>：不要～。<sup>\[如东\]</sup> ③ 面食的一种。小麦糏加工成片状，放人开水中煮熟。<sup>\[如东\]</sup> ④ 肤色、表情<sup>\[兴化\]</sup>：白净～<sup>\[兴化\]</sup>｜紫棠色～！张都监看了大怒，变了～。（《水浒传》三十）<sup>\[兴化\]</sup> ⑤ 情面、脸面<sup>\[兴化\]</sup>：“（小人）凭托柴大官人～，径投大寨入伙……”（《水浒传》十一）<sup>\[兴化\]</sup>｜幸亏他这副～还生得既厚且老……（《广陵南》七十）<sup>\[兴化\]</sup>  
 1. 【[面盘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_pun_z.md#面盘子)】`min6 pun3 z` 脸，面孔。  
+1. 【[面情账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_qien_zhan.md#面情账)】`min6 qien zhan5` <small>/mĩ1 t͡ɕʰiŋ t͡sɑŋ5/<sup>泰兴</sup></small> 同“面子帐”。<sup>\[泰兴\]</sup>  
+1. 【[面情难下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_qien_naen_xia.md#面情难下)】`min6 qien2 naen2 xia6` <small>/mĩ1 t͡ɕʰiŋ2 nɛ̃2 ɕiɑ1/<sup>泰兴</sup></small> 在面情上说不过去；下不了面子。<sup>\[泰兴\]</sup>  
 1. 【[面食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_sheh.md#面食)】`min6 sheh8` <small>/mĩ1 səʔ8/<sup>如皋</sup></small> ① 以小麦面为主的食品。<sup>\[如东\]</sup> ② 乾面食品的总称。<sup>\[如皋\]</sup>  
 1. 【[面生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_shen.md#面生)】`min6 shen1` ① 没有见过面。比喻不熟悉。<sup>\[如东\]</sup>：这个人我俫～。<sup>\[如东\]</sup> ② 面貌生疏<sup>\[东台\]</sup>：这位先生看起来～，请问尊姓大名？<sup>\[东台\]</sup>  
 1. 【[面熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_shoh.md#面熟)】`min6 shoh8` ① 对方的面貌有些印象。<sup>\[如东\]</sup> ② 面貌熟悉（但说不出是谁）<sup>\[东台\]</sup>：看起来～。<sup>\[东台\]</sup>  
 1. 【[面酸粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_sun_zhoh.md#面酸粥)】`min6 sun1 zhoh7` <sup>[泰县]</sup> 菜粥里下面条。  
+1. 【[面台](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_tae.md#面台)】`min6 tae2` <small>/mĩ1 tʰɛ2/<sup>泰兴</sup></small> 擀面用的宽大坚实的长方形桌子。<sup>\[泰兴\]</sup>  
 1. 【[面搨涂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_taeh_tv.md#面搨涂)】`min6 taeh7 tv2` <sup>[如东]</sup> 表面上很强，实质上非常软弱：张三是个～。  
 1. 【[面汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_tan.md#面汤)】`min6 tan1` <sup>[兴化]</sup> ① 煮过面条的水。 ② 兑了汤料用来拌熟面条的汤汁。  
 1. 【[面头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_teu.md#面头)】`min6 teu2` <sup>[兴化]</sup> 祝寿时，寿面上部用红纸条圈着的一小把面条。  
 1. 【[面头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_teu_zz.md#面头子)】`min6 teu2 zz` <sup>[兴化]</sup> 被碰断的粹面条。  
-1. 【[面桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_ton.md#面桶)】`min6 ton3` <small>/miɪ̃6 tʰoŋ3/<sup>兴化</sup>, /miɪ̃1 tʰoŋ3/<sup>泰县</sup></small> ① 洗脸用的小木盆。<sup>\[兴化\]</sup> ② 洗澡桶。<sup>\[泰县\]</sup>  
+1. 【[面桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_ton.md#面桶)】`min6 ton3` <small>/miɪ̃6 tʰoŋ3/<sup>兴化</sup>, /mĩ1 tʰɔŋ3/<sup>泰兴</sup>, /miɪ̃1 tʰoŋ3/<sup>泰县</sup></small> ① 洗脸用的小木盆。<sup>\[兴化\]</sup> ② 洗澡桶。<sup>\[泰县\]</sup> ③ 浅盆，一般指洗脚盆<sup>\[泰兴\]</sup>  
 1. 【[面桶马子——三日新](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_ton_ma_zz.md#面桶马子——三日新)】`min6 ton3 ma3 zz saen1 rih8 xien1` <sup>[东台]</sup>   
 1. 【[面瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_va.md#面瓦)】`min6 va3` <sup>[如皋]</sup> 屋面上瓦背向上的瓦盖瓦，别于底瓦。  
 1. 【[面外花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_vae_hua.md#面外花)】`min6 vae6 hua1` <sup>[如皋]</sup> 有的杆秤有八面花，上面的外花称之。  
 1. 【[面相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_xian.md#面相)】`min6 xian5` <sup>[如东]</sup> 相貌，样子。  
 1. 【[面鱼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_y_r.md#面鱼<sub>儿</sub>)】`min6 y2 r` <small>/mĩ1 y˞2/<sup>如皋</sup></small> ① 间银鱼。鱼纲，鲱形目。<sup>\[如皋\]</sup> ② 水煮的不规则面疙丁。<sup>\[如皋\]</sup> ③ 用面粉加水刮成一条条小鱼状，下在沸水里煮熟食用，堤东一带又叫捺鱼儿、刮抓底。北方人叫“面疙瘩”。<sup>\[东台\]</sup>  
 1. 【[面子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_zz.md#面子)】`min6 zz` <sup>[如东]</sup> ① 物体的表面：书～好。 ② 人的脸面。 ③ 表皮，表层：被～。 ④ 体面，情面：丢不下～。  
+1. 【[面子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_zz.md#面子)】`min6 zz` <small>/mĩ1 t͡sɿ/<sup>泰兴</sup></small> ① 情面<sup>\[泰兴\]</sup>：把～<sup>\[泰兴\]</sup> ② 衣被的罩面<sup>\[泰兴\]</sup>：被～、大衣～<sup>\[泰兴\]</sup>  
 1. 【[面子话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_zz_hua.md#面子话)】`min6 zz hua6` <small>/miɪ̃6 t͡sɿ xua6/<sup>兴化</sup></small> ① 没有实际意义的情面话<sup>\[兴化\]</sup>：我俫不是外人，你行就行，覅说～。<sup>\[兴化\]</sup> ② 照顾情面的话<sup>\[泰州\]</sup>：不要望他说得好听，全是些～，你不要当回事。<sup>\[泰州\]</sup>  
 1. 【[面子上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_zz_shan.md#面子上)】`min6 zz shan6` <sup>[如皋]</sup> 外表上、表面上、情面上。  
-1. 【[面子账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_zz_zhan.md#面子账)】`min6 zz zhan5` <small>/miɪ̃6 t͡sɿ t͡saŋ5/<sup>兴化</sup>, /mĩ1 t͡sɿ t͡sã5/<sup>如皋</sup></small> ① 表面上的人情。<sup>\[如东\]</sup> ② 情谊很浅。<sup>\[如皋\]</sup> ③ 为照顾情面而敷衍<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：他去电话替你打招呼不过是～，有用没用他才不管。<sup>\[兴化\]</sup>｜老李同他关系一般，这一回子他家姑娘结婚，老李出咖100块也是～。<sup>\[泰州\]</sup>  
+1. 【[面子账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_zz_zhan.md#面子账)】`min6 zz zhan5` <small>/miɪ̃6 t͡sɿ t͡saŋ5/<sup>兴化</sup>, /mĩ1 t͡sɿ t͡sã5/<sup>如皋</sup>, /mĩ1 t͡sɿ t͡sɑŋ5/<sup>泰兴</sup></small> ① 表面上的人情。<sup>\[如东\]</sup> ② 情谊很浅。<sup>\[如皋\]</sup> ③ 为照顾情面而敷衍<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：他去电话替你打招呼不过是～，有用没用他才不管。<sup>\[兴化\]</sup>｜老李同他关系一般，这一回子他家姑娘结婚，老李出咖100块也是～。<sup>\[泰州\]</sup> ④ 应付场面；做做样子<sup>\[泰兴\]</sup>  
 1. 【[面子<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_zz_r.md#面子<sub>儿</sub>)】`min6 zz3 r` <sup>[如皋]</sup> 面条量的单位：一个子儿面（约2市两左右的一小堆）、半个子儿面。  
 1. 【[喵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio.md#喵)】`mio` <sup>[如皋]</sup> 猫叫声。  
 1. 【[描红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio_hon.md#描红)】`mio2 hon2` <sup>[如东]</sup> 练习毛笔字的一种方法。在红色的字上蒙纸，照着描绘，叫做描红。  

@@ -413,9 +413,11 @@
 1. 【[歪<sub>儿</sub>跩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_r_zhuae_r.md#歪<sub>儿</sub>跩<sub>儿</sub>)】`vae1 r zhuae3 r` <sup>[兴化]</sup> ① 形容步履蹒舞：他喝得～的。 ② 形容格调低下：请你少把～的人朝家带。｜这些～的节目没看头。  
 1. 【[歪头笡脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_teu_jia_no.md#歪头笡脑)】`vae1 teu2 jia3 no3` <sup>[东台]</sup> 形容歪歪扭扭，极不整齐。  
 1. 【[歪歪理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_vae_li.md#歪歪理)】`vae1 vae1 li3` <sup>[东台]</sup> 没有理而强辩有理的话。  
-1. 【[歪嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_zuei.md#歪嘴)】`vae1 zuei3` <sup>[兴化]</sup> 一种暗示性动作：老头说着，把头掉过来，就望着施恩手下的打手～｜你们走唦。（《武松》六）  
+1. 【[歪嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_zuei.md#歪嘴)】`vae1 zuei3` <sup>[兴化]</sup> 一种暗示性动作：老头说着，把头掉过来，就望着施恩手下的打手～：你们走唦。（《武松》六）  
+1. 【[歪嘴吹喇叭，邪调](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_zuei_chuei_la.md#歪嘴吹喇叭，邪调)】`vae1 zuei3 chuei1 la3 ba qia2 dio5` <small>/ʋɛ1 t͡suəɪ3 t͡sʰuəɪ1 lɑ3 pɑ t͡ɕʰiɑ2 tiɔ5/<sup>泰兴</sup></small> 歇后语。比喻不讲正理，胡搅蛮缠。<sup>\[泰兴\]</sup>  
 1. 【[歪嘴和尚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_zuei_hu_shan.md#歪嘴和尚)】`vae1 zuei3 hu2 shan` <sup>[兴化]</sup> （讽）常把好事办糟或把好经验学偏的人：他是～念不出真经来。  
 1. 【[歪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_zz.md#歪子)】`vae1 zz` <small>/ʋɛ1 t͡sɿ/<sup>泰兴</sup></small> 河蚌<sup>\[泰兴\]</sup>  
+1. 【[歪子油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_zz_ieu.md#歪子油)】`vae1 zz ieu2` <small>/ʋɛ1 t͡sɿ iɤɯ2/<sup>泰兴</sup></small> 以文蛤壳装的防裂护肤油脂。<sup>\[泰兴\]</sup>  
 1. 【[𧒘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_r.md#𧒘<sub>儿</sub>)】`vae1 r` <small>/uɛ1 ɚ/<sup>兴化</sup>, /ʋɛ˞1/<sup>如皋</sup>, /ʋe1 ɚ/<sup>泰县</sup></small> ① 贝壳 ② 蛤、蚌之壳。<sup>\[如皋\]</sup> ③ 蛼螯壳儿。<sup>\[如东\]</sup> ④ 贝壳，贝类动物的外壳。<sup>\[东台\]</sup> ⑤ 河蚌，俗名“河𧒘”。<sup>\[兴化\]</sup> ⑥ 河蚌。<sup>\[泰县\]</sup>  
 1. 【[𧒘<sub>儿</sub>墩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_r_den.md#𧒘<sub>儿</sub>墩)】`vae1 r den1` <sup>[如东]</sup> 𧒘儿壳堆积起来的墩儿。  
 1. 【[𧒘<sub>儿</sub>灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vae_r_den.md#𧒘<sub>儿</sub>灯)】`vae1 r den1` <small>/ʋɛ˞1 təŋ1/<sup>如皋</sup></small> ① 旧时，阴历七月三十，如皋南门外地藏庙兴灯会。自县衙前到庙门前，一条南大街两侧商家点地灯，相接成龙，又称～。<sup>\[如皋\]</sup> ② 一种民俗。人死后，用两只𧒘儿壳盛油，放一根灯草，点亮，搁在死者的头边和脚边，表示照亮行走的道路。<sup>\[如东\]</sup>  

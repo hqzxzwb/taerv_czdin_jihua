@@ -136,7 +136,7 @@
 1. 【[耐用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_ion.md#耐用)】`nae6 ion6` <sup>[如皋]</sup> 长久使用而不坏。  
 1. 【[耐饿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_ngu.md#耐饿)】`nae6 ngu6` <sup>[如皋]</sup> ① 常指消化时间长可觉得经久不饿的食物：吃场米饭～，吃粥不～。 ② 能忍受饥饿。  
 1. 【[耐实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_sheh.md#耐实)】`nae6 sheh8` <sup>[如东]</sup> 能够忍耐：这个姑娘～。  
-1. 【[耐涴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_u.md#耐涴)】`nae6 u5` <small>/lɛ6 o5/<sup>兴化</sup>, /ne1 o5/<sup>泰县</sup></small> ① 耐脏 ② 耐脏。<sup>\[东台\]</sup> ③ 耐脏<sup>\[兴化\]</sup>：深色的衣裳～，浅色的不～。<sup>\[兴化\]</sup> ④ 不容易脏<sup>\[泰县\]</sup>：这件衣服～。<sup>\[泰县\]</sup>  
+1. 【[耐涴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_u.md#耐涴)】`nae6 u5` <small>/lɛ6 o5/<sup>兴化</sup>, /nɛ1 ɤɯ5/<sup>泰兴</sup>, /ne1 o5/<sup>泰县</sup></small> 耐脏。<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup><sup>\[泰县\]</sup>：深色的衣裳～，浅色的不～。<sup>\[兴化\]</sup>｜这件衣服～。<sup>\[泰县\]</sup>  
 1. 【[耐暍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_uh.md#耐暍)】`nae6 uh7` <sup>[如皋]</sup> 长期放在阴暗潮湿环境中不腐朽。  
 1. 【[耐暗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_un.md#耐暗)】`nae6 un5` <small>/nɛ1 ʊ̃5/<sup>如皋</sup></small> ① 能遮掩<sup>\[如皋\]</sup>：这衣裳颜色深，～．穿吖几天看不出脏。<sup>\[如皋\]</sup> ② 布料颜色暗淡耐脏。<sup>\[如东\]</sup>：这种布料～。<sup>\[如东\]</sup>  
 1. 【[耐洗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_xi.md#耐洗)】`nae6 xi3` <sup>[兴化]</sup> 谓衣料厚而结实，经得起反复搓洗：劳动卡的衣裳～。  
@@ -1530,6 +1530,7 @@
 1. 【[念歪嘴经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_vae_zuei_jien.md#念歪嘴经)】`nin6 vae1 zuei3 jien1` <sup>[兴化]</sup> 背后说他人坏话：有意见当面交换，覅老在背后～。  
 1. 【[念想](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_xian.md#念想)】`nin6 xian` <sup>[东台]</sup> 想头：这支笔我用吖十来年吖，送把你留个～吧！  
 1. 【[砚墨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_moh.md#砚墨)】`nin6 moh8` <small>/nĩ1 mɔʔ8/<sup>泰兴</sup></small> 文具之一。用于磨墨的黑色固体物，条状。<sup>\[泰兴\]</sup>  
+1. 【[砚墨水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_moh_shuei.md#砚墨水)】`nin6 moh8 shuei` <small>/nĩ1 mɔʔ8 suəɪ/<sup>泰兴</sup></small> 喻文化；有文化。<sup>\[泰兴\]</sup>：吃咖点儿～<sup>\[泰兴\]</sup>  
 1. 【[砚台](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_tae.md#砚台)】`nin6 tae2` <sup>[如东]</sup> 文具。石制，长方形或椭圆形，用于研墨写字。  
 1. 【[砚瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_va.md#砚瓦)】`nin6 va3` <small>/nĩ1 uɑ3/<sup>泰兴</sup></small> 砚台。<sup>\[泰兴\]</sup>  
 1. 【[□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio_ny.md#□□)】`nio3 ny` <sup>[如皋]</sup> 唤猪声。  

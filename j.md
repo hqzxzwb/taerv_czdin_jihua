@@ -443,7 +443,7 @@
 1. 【[脚髈髈<sub>儿</sub>奘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_pan_pan_r.md#脚髈髈<sub>儿</sub>奘)】`jiah7 pan3 pan3 r zhuan3` 形容人脉广，路道粗。  
 1. 【[脚髈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_pan_r.md#脚髈<sub>儿</sub>)】`jiah7 pan3 r` <sup>[如东]</sup> 大腿。  
 1. 【[脚髈子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_pan_zz.md#脚髈子)】`jiah7 pan3 zz` <sup>[如皋]</sup> 腿。  
-1. 【[脚盆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_pen.md#脚盆)】`jiah7 pen2` <small>/t͡ɕiaʔ7 pʰəŋ2/<sup>如皋</sup></small> 日常用具，一种盆\[如皋：旧时妇女专用的高脚反边的杉木盆，现在洗脚的盆统称～。\]\[如东：洗脚用的盆。一般比较大。\]\[泰州：用来洗脚洗下身的盆，圆形，旧时平民多用木板以篾箍成，后来多用铜箍、铁箍，亦可用来洗衣、洗鞋。\]  
+1. 【[脚盆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_pen.md#脚盆)】`jiah7 pen2` <small>/t͡ɕiaʔ7 pʰəŋ2/<sup>如皋</sup>, /t͡ɕiɑʔ7 pʰəŋ2/<sup>泰兴</sup></small> 日常用具，一种盆\[如皋：旧时妇女专用的高脚反边的杉木盆，现在洗脚的盆统称～。\]\[如东：洗脚用的盆。一般比较大。\]\[泰兴：洗脚盆\]\[泰州：用来洗脚洗下身的盆，圆形，旧时平民多用木板以篾箍成，后来多用铜箍、铁箍，亦可用来洗衣、洗鞋。\]  
 1. 【[脚碰脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_pon_jiah.md#脚碰脚)】`jiah7 pon5 jiah7` <sup>[兴化]</sup> ① 经常在一起厮混的人。 ② 同一辈的人：大家都是～的，有甚的事说不开呀？  
 1. 【[脚步站稳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_pv_zhaen_ven.md#脚步站稳)】`jiah7 pv6 zhaen5 ven3` <sup>[泰州]</sup> 比喻打好立身基础，即拿定主张坚持原则，不给他人责难留下借口：别人贪污你管不了，你自己～就行。  
 1. 【[脚步子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_pv_zz.md#脚步子)】`jiah7 pv6 zz` <sup>[兴化]</sup> 为尔后留下的回旋余地：跟他办事先把～站起来，免得以后包包怨怨的。  
@@ -465,6 +465,7 @@
 1. 【[脚头散](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_teu_saen.md#脚头散)】`jiah7 teu saen3` <sup>[兴化]</sup> 缺乏耐性，喜欢走动：这位先生肚子里倒不丑，就是～。  
 1. 【[脚头<sub>儿</sub>踢得起来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_teu_r_tieh.md#脚头<sub>儿</sub>踢得起来)】`jiah7 teu2 r tieh7 deh7 qi3 lae2` <sup>[东台]</sup> 形容很多，不稀奇。  
 1. 【[脚头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_teu_zz.md#脚头子)】`jiah7 teu2 zz` <sup>[兴化]</sup> ① 行走能力：他～快。 ② 脚的力量：他～有劲，一脚能把个蛮牛踢倒。  
+1. 【[脚桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_ton.md#脚桶)】`jiah7 ton` <small>/t͡ɕiɑʔ7 tʰɔŋ/<sup>泰兴</sup></small> 大木盆，洗澡盆<sup>\[泰兴\]</sup>  
 1. 【[脚桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_ton.md#脚桶)】`jiah7 ton3` <sup>[兴化]</sup> 即洗足或坐浴用的圆桶，有平底的或四足的。  
 1. 【[脚驮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_tu_zz.md#脚驮子)】`jiah7 tu2 zz` <sup>[如皋]</sup> 脚弓背部。  
 1. 【[脚腿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_tuei_zz.md#脚腿子)】`jiah7 tuei3 zz` <sup>[如东]</sup> 腿：～发软。  

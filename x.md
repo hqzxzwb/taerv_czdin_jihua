@@ -104,6 +104,7 @@
 1. 【[洗一水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ieh_shuei.md#洗一水)】`xi3 ieh7 shuei3` <sup>[东台]</sup> 指衣服下水洗一次。  
 1. 【[洗几告](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ji_go.md#洗几告)】`xi3 ji3 go5` <sup>[东台]</sup> 洗几遍。  
 1. 【[洗脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_jiah.md#洗脚)】`xi3 jiah7` <sup>[如皋]</sup> ① 就是洗脚。 ② 讳称清洗阴部。  
+1. 【[洗脸盆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_lin_pen.md#洗脸盆)】`xi3 lin pen2` <small>/ɕʝ3 lĩ pʰəŋ2/<sup>泰兴</sup></small> 洗脸盆<sup>\[泰兴\]</sup>  
 1. 【[洗马池](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ma_chr.md#洗马池)】`xi3 ma3 chr2` <sup>[东台]</sup> 地名，位于东台城大月塘附近。相传唐太宗李世民遇险，马陷淤泥河，曾在此洗马。  
 1. 【[洗牙硍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_nga_ken.md#洗牙硍)】`xi3 nga2 ken5` <small>/ɕʝ3 ŋa2 kʰəŋ5/<sup>如皋</sup></small> ① 讲解、劝说无效后的叹语。<sup>\[如皋\]</sup> ② 洗刷牙缝中的污垢。通常称刷牙。<sup>\[如东\]</sup> ③ 比喻没紧没慢地说话。<sup>\[如东\]</sup>：没功夫跟你～。<sup>\[如东\]</sup>  
 1. 【[洗眼睛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ngaen_jien.md#洗眼睛)】`xi3 ngaen3 jien` <sup>[如皋]</sup> ① 用清水或淡盐水喷或浸眼睛，是一种卫生、治眼疾的方法。 ② 旧时理发店服务项目之一，用剃刀背棱刮眼黏膜，有快感。但有危险而不卫生，后被禁止。  

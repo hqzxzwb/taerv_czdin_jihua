@@ -2212,21 +2212,23 @@
 1. 【[耍货<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_hu_r.md#耍货<sub>儿</sub>)】`shua3 hu5 r` <small>/sua3 xʊ˞5/<sup>如皋</sup>, /ɕya3 xo5 ɚ/<sup>泰县</sup></small> ① 玩具 ② 玩具。<sup>\[如皋\]</sup> ③ 焰火。<sup>\[如皋\]</sup> ④ 指贪玩而不务实的人。<sup>\[如皋\]</sup> ⑤ 玩具。游手好闲的人。<sup>\[如东\]</sup>：张家二姑娘是个～。<sup>\[如东\]</sup> ⑥ 比喻活泼可爱的小孩。<sup>\[如东\]</sup>：你家这个～，真不丑呀！<sup>\[如东\]</sup> ⑦ 玩耍之物。<sup>\[东台\]</sup> ⑧ 零食。<sup>\[东台\]</sup> ⑨ 易碎的物品。<sup>\[泰县\]</sup>  
 1. 【[耍花枪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_hua_qian.md#耍花枪)】`shua3 hua1 qian1` <sup>[如皋]</sup> 耍花招。  
 1. 【[耍话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_hua.md#耍话)】`shua3 hua6` 不可当真的话<sup>\[泰州\]</sup>：他同你说的这些～，你就不必当真唻。<sup>\[泰州\]</sup>  
-1. 【[耍滑头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_huaeh_teu.md#耍滑头)】`shua3 huaeh8 teu2` <sup>[如东]</sup> 使用手段使自己省力或免负责任：他在下～，你要当心。  
+1. 【[耍滑头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_huaeh_teu.md#耍滑头)】`shua3 huaeh8 teu2` <small>/suɑ3 xuæʔ8 tʰəɪ2/<sup>泰兴</sup></small> 使用手段使自己省力或免负责任。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>：他在下～，你要当心。<sup>\[如东\]</sup>  
 1. 【[耍会<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_huei_r.md#耍会<sub>儿</sub>)】`shua3 huei6 r` 呆会儿，过一会儿。  
 1. 【[耍油扣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_ieu_keu.md#耍油扣)】`shua3 ieu2 keu5` <sup>[兴化]</sup> 虚言应付：我跟他追索欠款，他一再～。  
 1. 【[耍友](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_ieu.md#耍友)】`shua3 ieu3` <small>/sua3 yʊ3/<sup>如皋</sup></small> ① 爱玩耍的人。<sup>\[如皋\]</sup> ② 玩耍的朋友。<sup>\[如皋\]</sup> ③ 一起玩耍的朋友。<sup>\[如东\]</sup>：这是我的几个～。<sup>\[如东\]</sup>  
 1. 【[耍刻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_keh_r.md#耍刻<sub>儿</sub>)】`shua3 keh9 r` <sup>[如皋]</sup> 见“耍子刻儿”。  
 1. 【[耍赖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_lae.md#耍赖)】`shua3 lae6` <sup>[如皋]</sup> 刁钻耍赖皮。  
+1. 【[耍派头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_pae_teu.md#耍派头)】`shua3 pae5 teu` <small>/suɑ3 pʰɛ5 tʰəɪ/<sup>泰兴</sup></small> 显示自己的威势或气派。<sup>\[泰兴\]</sup>  
 1. 【[耍气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_qi.md#耍气)】`shua3 qi` <sup>[如皋]</sup> 油滑、难以驾驭：三轮车的龙头～；这小伙～，你难用得动他，就是用吖也不能得心应手。  
 1. 【[耍趣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_qy.md#耍趣)】`shua3 qy` <sup>[兴化]</sup> 形容言语、动作灵活敏捷：她做事蛮～的。  
 1. 【[耍耍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_shua.md#耍耍)】`shua3 shua` <sup>[如皋]</sup> ① 玩玩，散步。休息休息。 ② 漫谈、谈心、开玩笑、戏弄的代称。  
+1. 【[耍耍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_shua.md#耍耍)】`shua3 shua` <small>/suɑ3 suɑ/<sup>泰兴</sup></small> 玩玩，玩耍。<sup>\[泰兴\]</sup>  
 1. 【[耍无赖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_v_lae.md#耍无赖)】`shua3 v2 lae6` <sup>[东台]</sup> 使用放讹、撒泼、装病等蛮不讲理的手段闹事。  
 1. 【[耍务烟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_v_in.md#耍务烟)】`shua3 v6 in1` <sup>[东台]</sup> 抽烟只是抽着玩，没上瘾。  
 1. 【[耍心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_xien.md#耍心)】`shua3 xien` <small>/suɑ3 ɕiŋ/<sup>泰兴</sup></small> 玩心<sup>\[泰兴\]</sup>  
 1. 【[耍心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_xien.md#耍心)】`shua3 xien1` <sup>[如东]</sup> 贪玩的思想或念头。  
 1. 【[耍心重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_xien_chon.md#耍心重)】`shua3 xien1 chon6` <small>/sua3 ɕiəŋ1 t͡sʰɔŋ1/<sup>如皋</sup></small> ① 玩心重，贪玩 ② 贪玩。<sup>\[如皋\]</sup> ③ 非常贪玩。<sup>\[如东\]</sup>：这个伢儿～。<sup>\[如东\]</sup>  
-1. 【[耍子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_zz.md#耍子)】`shua3 zz` <small>/sua3 t͡sɿ/<sup>兴化</sup>, /sua3 t͡sɿ/<sup>如皋</sup>, /ɕya3 t͡se/<sup>泰县</sup></small> ① 玩，玩乐 ② 玩耍。<sup>\[如皋\]</sup> ③ 游玩。<sup>\[如东\]</sup>：你来～。<sup>\[如东\]</sup> ④ 玩耍。见《汉宫秋》一［赚煞］曲<sup>\[东台\]</sup>：陡！量你到的那城，且与你斗三百合～。<sup>\[东台\]</sup> ⑤ 玩要、玩儿<sup>\[兴化\]</sup>：他放学不家去，在外头～。<sup>\[兴化\]</sup>｜“是他！是他！把他长长的绳儿拴在柱料上～！”（《西游记》三四）<sup>\[兴化\]</sup> ⑥ 玩：来～。<sup>\[泰县\]</sup>  
+1. 【[耍子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_zz.md#耍子)】`shua3 zz` <small>/sua3 t͡sɿ/<sup>兴化</sup>, /sua3 t͡sɿ/<sup>如皋</sup>, /suɑ3 t͡sɿ/<sup>泰兴</sup>, /ɕya3 t͡se/<sup>泰县</sup></small> 玩，玩乐<sup>\[如皋\]</sup><sup>\[泰兴\]</sup><sup>\[泰县\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[如东\]</sup>：来～。<sup>\[泰县\]</sup>｜陡！量你到的那城，且与你斗三百合～。<sup>\[东台\]</sup>｜他放学不家去，在外头～。<sup>\[兴化\]</sup>｜“是他！是他！把他长长的绳儿拴在柱科上～！”（《西游记》三四）<sup>\[兴化\]</sup>｜你来～。<sup>\[如东\]</sup>  
 1. 【[耍子刻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_zz_keh_r.md#耍子刻<sub>儿</sub>)】`shua3 zz keh9 r` <small>/sua3 t͡sɿ kʰə˞9/<sup>如皋</sup></small> ① 玩一会儿。<sup>\[如皋\]</sup> ② 挽留用语。<sup>\[如皋\]</sup> ③ 逗留一会儿。比喻耽搁一会儿。<sup>\[如东\]</sup>：我在这里～就家来。<sup>\[如东\]</sup>  
 1. 【[刷当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_dan.md#刷当)】`shua5 dan1` <sup>[东台]</sup> 妥帖、恰当。  
 1. 【[刷净](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_qien.md#刷净)】`shua5 qien` <sup>[兴化]</sup> 清爽、洁净：老朱家里蛮～的。  

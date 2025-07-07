@@ -1192,8 +1192,7 @@
 1. 【[沰得个淋头佛似的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_deh_gu_lien.md#沰得个淋头佛似的)】`dah7 deh gu lien2 teu2 feh8 shr6 dii` <sup>[如皋]</sup> 从头到脚被雨淋透了。淋头佛：释伽牟尼降生后，有九龙喷水浴佛。  
 1. 【[沰锅腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_gu_qian.md#沰锅腔)】`dah7 gu1 qian1` <sup>[兴化]</sup> 用泥和稻草做锅腔：儿歌：眼睛眵～，煮粥不稠汤。  
 1. 【[沰锅腔<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_gu_qian_r.md#沰锅腔<sub>儿</sub>)】`dah7 gu1 qian1 r` <sup>[如皋]</sup> 自制锅箱儿。  
-1. 【[沰害](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_hae.md#沰害)】`dah7 hae` <sup>[东台]</sup> 陷害、栽赃、强加：他是正派人，所谓贪污是坏人～他的。  
-1. 【[沰害](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_hae.md#沰害)】`dah7 hae6` <small>/tɑʔ7 xe1/<sup>泰县</sup></small> 栽害，陷害。<sup>\[泰县\]</sup>  
+1. 【[沰害](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_hae.md#沰害)】`dah7 hae6` <small>/tɑʔ7 xɛ/<sup>泰兴</sup>, /tɑʔ7 xe1/<sup>泰县</sup></small> 栽害，陷害，诬陷<sup>\[泰县\]</sup><sup>\[泰兴\]</sup><sup>\[东台\]</sup>：你不作兴～人<sup>\[泰兴\]</sup>｜他是正派人，所谓贪污是坏人～他的。<sup>\[东台\]</sup>  
 1. 【[沰印](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_ien.md#沰印)】`dah7 ien5` <sup>[兴化]</sup> ① 盖公章。 ② （借）个别公务人员留下的劣迹：这个人到处～，不能外派。  
 1. 【[沰酱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_jian.md#沰酱)】`dah7 jian5` <sup>[如东]</sup> 乱放东西：你在家里～，到处都是袋儿。  
 1. 【[沰嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_jy.md#沰嘴)】`dah7 jy3` <sup>[如皋]</sup> 把嘴塞住。指自己或自家有了短处，不好再指责、嘲笑他人了。  
@@ -1208,13 +1207,14 @@
 1. 【[沰雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_y.md#沰雨)】`dah7 y3` <small>/taʔ7 y3/<sup>兴化</sup>, /taʔ7 y3/<sup>如皋</sup>, /tɑʔ7 y3/<sup>泰兴</sup>, /tɑʔ7 ɻy3/<sup>泰县</sup></small> ① 淋雨：你不要站吖外头～。 ② 遭雨淋。（沰有落、浇、淋、滴等义）<sup>\[东台\]</sup>  
 1. 【[沰渣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_zha.md#沰渣)】`dah7 zha1` <sup>[兴化]</sup> 在泥塘里放鲜牧草及河湖中各种有机物（渣），发酵后成优质有机肥。  
 1. 【[笚板<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_baen_r.md#笚板<sub>儿</sub>)】`dah7 baen3 r` <small>/taʔ7 pe˞3/<sup>如皋</sup></small> ① 一种乐器，说快板、快书者用。<sup>\[如皋\]</sup> ② 两块互相敲击，用来说快板的小竹板。（笚，竹相击也）<sup>\[东台\]</sup>  
-1. 【[耷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah.md#耷)】`dah7` <small>/taʔ7/<sup>兴化</sup>, /taʔ7/<sup>如皋</sup></small> ① 松垂下来。<sup>\[如皋\]</sup> ② 秤尾偏下。见“袒”。<sup>\[如皋\]</sup> ③ 皮肤松弛下垂<sup>\[兴化\]</sup>：肚皮瘦得～下来。<sup>\[兴化\]</sup>｜上眼皮萎啊～下来。<sup>\[兴化\]</sup> ④ 垂挂<sup>\[兴化\]</sup>：猪耳头～咖下。<sup>\[兴化\]</sup>｜狗尾巴～下来。<sup>\[兴化\]</sup> ⑤ 下垂样子（泰州词典作軃）<sup>\[泰州\]</sup>：你望他头～咖来，看来不曾借到钱。<sup>\[泰州\]</sup>｜你这些时是怎吖弄的啊，脸上的皮都瘦啊～咖唻啊。（泰州词典作“㿯、㿴”）<sup>\[泰州\]</sup>  
+1. 【[耷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah.md#耷)】`dah7` <small>/taʔ7/<sup>兴化</sup>, /taʔ7/<sup>如皋</sup>, /tɑʔ7/<sup>泰兴</sup></small> ① 松垂下来。<sup>\[如皋\]</sup> ② 秤尾偏下。见“袒”。<sup>\[如皋\]</sup> ③ 皮肤松弛下垂<sup>\[兴化\]</sup>：肚皮瘦得～下来。<sup>\[兴化\]</sup>｜上眼皮萎啊～下来。<sup>\[兴化\]</sup> ④ 垂挂<sup>\[兴化\]</sup>：猪耳头～咖下。<sup>\[兴化\]</sup>｜狗尾巴～下来。<sup>\[兴化\]</sup> ⑤ 下垂样子（泰州词典作軃）<sup>\[泰州\]</sup>：你望他头～咖来，看来不曾借到钱。<sup>\[泰州\]</sup>｜你这些时是怎吖弄的啊，脸上的皮都瘦啊～咖唻啊。（泰州词典作“㿯、㿴”）<sup>\[泰州\]</sup> ⑥ 向下垂<sup>\[泰兴\]</sup>：眼皮一～<sup>\[泰兴\]</sup>  
 1. 【[耷耷<sub>儿</sub>痴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_dah_r_chr.md#耷耷<sub>儿</sub>痴)】`dah7 dah7 r chr1` <sup>[如东]</sup> 爱玩耍而无节制的人：王二是个～。  
 1. 【[耷耷<sub>儿</sub>话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_dah_r_hua.md#耷耷<sub>儿</sub>话)】`dah7 dah7 r hua6` <sup>[如东]</sup> ① 开玩笑的话：他在下说～。 ② 幽默的话：王二就欢喜说～。  
 1. 【[耷咖下来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_ga_ha_lae.md#耷咖下来啊)】`dah7 ga ha6 lae a` <sup>[如皋]</sup> 下垂：头～、叶子～、耳头～。  
 1. 【[耷眼梢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_ngaen_sho.md#耷眼梢)】`dah7 ngaen3 sho1` <sup>[如皋]</sup> 外眼角偏下的眼形。  
 1. 【[耷皮眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_pi_ngaen.md#耷皮眼)】`dah7 pi2 ngaen3` <sup>[如皋]</sup> 上眼睑松垂的眼形。  
 1. 【[耷穗头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_qy_teu_r.md#耷穗头<sub>儿</sub>)】`dah7 qy6 teu2 r` <sup>[如皋]</sup> 稷型圆椎花序：稻、糜、穄之穗，成熟即垂。  
+1. 【[耷舌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_shih_zz.md#耷舌子)】`dah7 shih zz` <small>/tɑʔ7 ɕiʔ t͡sɿ/<sup>泰兴</sup></small> ① 口钝，口齿不清<sup>\[泰兴\]</sup> ② 一些舌状物：风箱通风孔的活动盖片、鞋舌、帽舌、锁舌等<sup>\[泰兴\]</sup>  
 1. 【[耷舌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_shih_r.md#耷舌<sub>儿</sub>)】`dah7 shih8 r` <small>/tɑʔ7 ɕiɪʔ8 ɚ/<sup>泰县</sup></small> ① 一种布鞋。<sup>\[泰县\]</sup> ② 帽檐。<sup>\[泰县\]</sup> ③ 舌头不灵活，说话含糊的人<sup>\[东台\]</sup><sup>\[泰州\]</sup>\[泰县：结巴。\]：他是个～，你同他唩蛮唩不清。<sup>\[泰州\]</sup>  
 1. 【[耷帅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_shuae.md#耷帅)】`dah7 shuae5` <sup>[如皋]</sup> 贬指愚笨者、弱者。  
 1. 【[耷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_zz.md#耷子)】`dah7 zz` <small>/taʔ7 t͡sɿ/<sup>如皋</sup></small> ① 娇惯成性者<sup>\[如皋\]</sup>：叼子～，爬上桌子。<sup>\[如皋\]</sup> ② 耷子和等和种的基本构成单位，由三张花色相同数码相连的牌组成。<sup>\[如东\]</sup>  
