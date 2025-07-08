@@ -54,8 +54,7 @@
 1. 【[怕丑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_cheu.md#怕丑)】`pa5 cheu3` <small>/pʰa5 t͡sʰɤ3/<sup>兴化</sup>, /pʰa5 t͡sʰei3/<sup>如皋</sup>, /pʰa5 t͡sʰɤɯ3/<sup>泰县</sup></small> ① 怕羞（但语气重）。<sup>\[如皋\]</sup> ② 怕出丑。<sup>\[如皋\]</sup> ③ 害羞。<sup>\[如东\]</sup>：她～。<sup>\[如东\]</sup> ④ 害羞。也说“怕难为情”。<sup>\[东台\]</sup> ⑤ 害羞、感到难为情<sup>\[兴化\]</sup>：他也不～，不说自己不行，光说哥哥本领高。（《武松》五）<sup>\[兴化\]</sup> ⑥ 害羞<sup>\[泰县\]</sup><sup>\[泰州\]</sup>：这大姑娘～。<sup>\[泰县\]</sup>｜这个伢儿望你是个生人，还有点儿～。<sup>\[泰州\]</sup>  
 1. 【[怕的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_dii.md#怕的)】`pa5 dii` <small>/pʰa5 təi/<sup>兴化</sup>, /pʰa5 tei/<sup>如皋</sup>, /pʰɑ5 təɪ/<sup>泰兴</sup></small> ① 也许，恐怕 ② 估计、可能、也许、恐怕<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：这堆芋头～有二百斤。<sup>\[如皋\]</sup>｜～不来。<sup>\[如皋\]</sup>｜他～不来啊。<sup>\[如东\]</sup>｜～要落雨。<sup>\[东台\]</sup>｜……还好手里抱的那根桃木，要不然的话，～早就淹死了。（兴文《兴化城的传说》）<sup>\[兴化\]</sup>｜他早上捱纪委带啊走啊，～出不来唻。<sup>\[泰州\]</sup>｜他做事比较谨慎，～不会同意。<sup>\[泰州\]</sup>  
 1. 【[怕惶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_huan.md#怕惶)】`pa5 huan2` <sup>[泰县]</sup> 羞答答：你去你的，不要这吖～。  
-1. 【[怕惧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_jy.md#怕惧)】`pa5 jy` 害怕而有所顾忌<sup>\[泰州\]</sup>：现在的伢儿对老师没点儿～。<sup>\[泰州\]</sup>  
-1. 【[怕惧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_jy.md#怕惧)】`pa5 jy` <small>/pʰɑ5 t͡ɕy/<sup>泰兴</sup></small> 害怕<sup>\[泰兴\]</sup>：箇个伢儿没得～<sup>\[泰兴\]</sup>  
+1. 【[怕惧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_jy.md#怕惧)】`pa5 jy` <small>/pʰɑ5 t͡ɕy/<sup>泰兴</sup></small> ① 害怕而有所顾忌<sup>\[泰州\]</sup>：现在的伢儿对老师没点儿～。<sup>\[泰州\]</sup> ② 害怕<sup>\[泰兴\]</sup>：箇个伢儿没得～<sup>\[泰兴\]</sup>  
 1. 【[怕梦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_mon.md#怕梦)】`pa5 mon6` <sup>[兴化]</sup> 噩梦：他夜里做～，吓咖喊起来。  
 1. 【[怕你如忌鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_nii_rv_qi.md#怕你如忌鬼)】`pa5 nii rv2 qi6 guei3` <sup>[如皋]</sup> 非常怕他（你）。有贬义。  
 1. 【[怕怕悒悒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_pa_ieh_ieh.md#怕怕悒悒)】`pa5 pa5 ieh7 ieh7` <sup>[东台]</sup> 又叫怕怕瑟瑟，担惊受怕的样子。  
@@ -431,8 +430,7 @@
 1. 【[否](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#否)】`pi3` <sup>[东台]</sup> 引称秤不足秤，或指怠慢：这许条件差，招待贵客有点～。  
 1. 【[痞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#痞)】`pi3` <sup>[如皋]</sup> 奇怪癖好：烟～（吞烟丝、烟灰）、土～（吞吃泥土）、纸～（吃纸团儿）、瓦～（嚼食瓦块）。  
 1. 【[痞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_zz.md#痞子)】`pi3 zz` 闲荡在社会底层的流氓无赖。<sup>\[泰州\]</sup>  
-1. 【[𤿎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#𤿎)】`pi3` <sup>[兴化]</sup> 破裂，《集韵·旨韵》普鄙切“《方言》南楚谓器破而未离曰～。”：凳腿子～掉啊。｜树枝～开啊。  
-1. 【[𤿎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#𤿎)】`pi3` <small>/pʰʝ3/<sup>泰兴</sup></small> 谓物虽坏面尚未离析，看上去仍像好的。<sup>\[泰兴\]</sup>：箇件衣裳～啊lo，不好穿<sup>\[泰兴\]</sup>  
+1. 【[𤿎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#𤿎)】`pi3` <small>/pʰi3/<sup>兴化</sup>, /pʰʝ3/<sup>泰兴</sup></small> ① 破裂，《集韵·旨韵》普鄙切“《方言》南楚谓器破而未离曰～。”<sup>\[兴化\]</sup>：凳腿子～掉啊。<sup>\[兴化\]</sup>｜树枝～开啊。<sup>\[兴化\]</sup> ② 谓物虽坏面尚未离析，看上去仍像好的。<sup>\[泰兴\]</sup>：箇件衣裳～啊lo，不好穿<sup>\[泰兴\]</sup>  
 1. 【[屁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#屁)】`pi5` <small>/pʰʝ5/<sup>泰兴</sup></small> 没有。粗俗语。<sup>\[泰兴\]</sup>  
 1. 【[屁巴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_ba_zz.md#屁巴子)】`pi5 ba1 zz` <small>/pʰi5 pa1 t͡sɿ/<sup>兴化</sup>, /pʰʝ5 pa1 t͡sɿ/<sup>如皋</sup></small> ① 比喻什么都没有，什么都不是 ② 没有，没有了。<sup>\[如皋\]</sup> ③ 屁是从肛门喷出的一种臭气，不可能形成巴子。比喻什么都没有。<sup>\[如东\]</sup> ④ 什么也没有；不可能。<sup>\[东台\]</sup> ⑤ 屁，形容什么也没有。<sup>\[兴化\]</sup>  
 1. 【[屁大的辰光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_da_dii_chen.md#屁大的辰光)】`pi5 da6 dii chen2 guan1` <sup>[如皋]</sup> 短暂、一刻儿。  

@@ -1280,10 +1280,8 @@
 1. 【[面黄肌瘦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_huan_ji_sheu.md#面黄肌瘦)】`min6 huan2 ji1 sheu5` <sup>[如东]</sup> 形容病情沉重：只见他～的，恐怕不行4。  
 1. 【[面糊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hv.md#面糊)】`min6 hv` <sup>[泰州]</sup> 用水与小麦面粉调和而成的、可以粘贴东西的糊状物。  
 1. 【[面糊脑<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hv_no_r.md#面糊脑<sub>儿</sub>)】`min6 hv no3 r` <sup>[泰县]</sup> 浆糊。  
-1. 【[面糊盆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hv_pen.md#面糊盆)】`min6 hv pen2` <sup>[兴化]</sup> （喻）糊涂人：他是个～，酒一喝甚的事都不清楚啊。  
-1. 【[面糊盆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hv_pen.md#面糊盆)】`min6 hv pen2` <small>/mĩ1 fʋ pʰəŋ2/<sup>泰兴</sup></small> 比喻办事糊里糊涂，拖拖拉拉，不果断明晰。<sup>\[泰兴\]</sup>  
-1. 【[面糊手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hv_sheu.md#面糊手)】`min6 hv sheu3` <sup>[东台]</sup> 指经常挪用公私款，且账目不清的人。  
-1. 【[面糊手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hv_sheu.md#面糊手)】`min6 hv sheu3` <small>/mĩ1 fʋ ɕiɤɯ3/<sup>泰兴</sup></small> 比喻喜欢贪小便宜，凡过手的东西“经手不穷”，总要捞上一点。<sup>\[泰兴\]</sup>  
+1. 【[面糊盆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hv_pen.md#面糊盆)】`min6 hv pen2` <small>/miɪ̃6 xu pʰən2/<sup>兴化</sup>, /mĩ1 fʋ pʰəŋ2/<sup>泰兴</sup></small> ① （喻）糊涂人<sup>\[兴化\]</sup>：他是个～，酒一喝甚的事都不清楚啊。<sup>\[兴化\]</sup> ② 比喻办事糊里糊涂，拖拖拉拉，不果断明晰。<sup>\[泰兴\]</sup>  
+1. 【[面糊手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hv_sheu.md#面糊手)】`min6 hv sheu3` <small>/mĩ1 fʋ ɕiɤɯ3/<sup>泰兴</sup></small> ① 指经常挪用公私款，且账目不清的人。<sup>\[东台\]</sup> ② 比喻喜欢贪小便宜，凡过手的东西“经手不穷”，总要捞上一点。<sup>\[泰兴\]</sup>  
 1. 【[面糊刷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hv_shuaeh_zz.md#面糊刷子)】`min6 hv shuaeh7 zz` <sup>[兴化]</sup> （喻）专拿甜言蜜语笼络人者：他是有名的～，几句话准把你说咖高兴起来。  
 1. 【[面糊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hv.md#面糊)】`min6 hv2` <sup>[兴化]</sup> 浆糊。  
 1. 【[面糊刷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hv_shuaeh_zz.md#面糊刷子)】`min6 hv2 shuaeh7 zz` <sup>[东台]</sup> ［喻］指无原则地和稀泥：有矛盾要及时解决，不能当～。  
@@ -1325,8 +1323,7 @@
 1. 【[面外花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_vae_hua.md#面外花)】`min6 vae6 hua1` <sup>[如皋]</sup> 有的杆秤有八面花，上面的外花称之。  
 1. 【[面相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_xian.md#面相)】`min6 xian5` <sup>[如东]</sup> 相貌，样子。  
 1. 【[面鱼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_y_r.md#面鱼<sub>儿</sub>)】`min6 y2 r` <small>/mĩ1 y˞2/<sup>如皋</sup></small> ① 间银鱼。鱼纲，鲱形目。<sup>\[如皋\]</sup> ② 水煮的不规则面疙丁。<sup>\[如皋\]</sup> ③ 用面粉加水刮成一条条小鱼状，下在沸水里煮熟食用，堤东一带又叫捺鱼儿、刮抓底。北方人叫“面疙瘩”。<sup>\[东台\]</sup>  
-1. 【[面子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_zz.md#面子)】`min6 zz` <sup>[如东]</sup> ① 物体的表面：书～好。 ② 人的脸面。 ③ 表皮，表层：被～。 ④ 体面，情面：丢不下～。  
-1. 【[面子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_zz.md#面子)】`min6 zz` <small>/mĩ1 t͡sɿ/<sup>泰兴</sup></small> ① 情面<sup>\[泰兴\]</sup>：把～<sup>\[泰兴\]</sup> ② 衣被的罩面<sup>\[泰兴\]</sup>：被～、大衣～<sup>\[泰兴\]</sup>  
+1. 【[面子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_zz.md#面子)】`min6 zz` <small>/mĩ1 t͡sɿ/<sup>泰兴</sup></small> ① 物体的表面。<sup>\[如东\]</sup>：书～好。<sup>\[如东\]</sup> ② 人的脸面。<sup>\[如东\]</sup> ③ 表皮，表层。<sup>\[如东\]</sup>：被～。<sup>\[如东\]</sup> ④ 体面，情面。<sup>\[如东\]</sup>：丢不下～。<sup>\[如东\]</sup> ⑤ 情面<sup>\[泰兴\]</sup>：把～<sup>\[泰兴\]</sup> ⑥ 衣被的罩面<sup>\[泰兴\]</sup>：被～、大衣～<sup>\[泰兴\]</sup>  
 1. 【[面子话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_zz_hua.md#面子话)】`min6 zz hua6` <small>/miɪ̃6 t͡sɿ xua6/<sup>兴化</sup></small> ① 没有实际意义的情面话<sup>\[兴化\]</sup>：我俫不是外人，你行就行，覅说～。<sup>\[兴化\]</sup> ② 照顾情面的话<sup>\[泰州\]</sup>：不要望他说得好听，全是些～，你不要当回事。<sup>\[泰州\]</sup>  
 1. 【[面子上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_zz_shan.md#面子上)】`min6 zz shan6` <sup>[如皋]</sup> 外表上、表面上、情面上。  
 1. 【[面子账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_zz_zhan.md#面子账)】`min6 zz zhan5` <small>/miɪ̃6 t͡sɿ t͡saŋ5/<sup>兴化</sup>, /mĩ1 t͡sɿ t͡sã5/<sup>如皋</sup>, /mĩ1 t͡sɿ t͡sɑŋ5/<sup>泰兴</sup></small> ① 表面上的人情。<sup>\[如东\]</sup> ② 情谊很浅。<sup>\[如皋\]</sup> ③ 为照顾情面而敷衍<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：他去电话替你打招呼不过是～，有用没用他才不管。<sup>\[兴化\]</sup>｜老李同他关系一般，这一回子他家姑娘结婚，老李出咖100块也是～。<sup>\[泰州\]</sup> ④ 应付场面；做做样子<sup>\[泰兴\]</sup>  

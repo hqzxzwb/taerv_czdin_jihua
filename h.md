@@ -1487,8 +1487,7 @@
 1. 【[话茬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_cha_r.md#话茬<sub>儿</sub>)】`hua6 cha5 r` <sup>[兴化]</sup> ① 语言中的漏洞。 ② 说话时的停顿处：我接住他的一，把他说咖一遍。  
 1. 【[话长路远](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_chan_lv_iun.md#话长路远)】`hua6 chan2 lv6 iun3` <sup>[如皋]</sup> 叹语。表内容多且久远：提及往事就～吖。  
 1. 【[话音](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_ien.md#话音)】`hua6 ien1` <sup>[泰州]</sup> 说话的语气中透露出的话外之意：听她的话音像是对出书这件事的兴趣不高。  
-1. 【[话口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_keu.md#话口)】`hua6 keu3` <sup>[兴化]</sup> 口气、口风：听他的～像是不同意。  
-1. 【[话口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_keu.md#话口)】`hua6 keu3` <small>/xuɑ1 kʰəɪ3/<sup>泰兴</sup></small> 口气；口风。<sup>\[泰兴\]</sup>：～不小<sup>\[泰兴\]</sup>  
+1. 【[话口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_keu.md#话口)】`hua6 keu3` <small>/xua6 kʰɤ3/<sup>兴化</sup>, /xuɑ1 kʰəɪ3/<sup>泰兴</sup></small> 口气、口风<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：听他的～像是不同意。<sup>\[兴化\]</sup>｜～不小<sup>\[泰兴\]</sup>  
 1. 【[话篓子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_leu_zz.md#话篓子)】`hua6 leu3 zz` <sup>[兴化]</sup> （讽）饶舌的人：你惹上他，等于把～倒下来啊。  
 1. 【[话痨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_lo.md#话痨)】`hua6 lo2` <small>/xua6 lɔ2/<sup>兴化</sup></small> ① （讽）言语过多的人<sup>\[兴化\]</sup>：他一天到晚不住嘴的说，就像得咖～。<sup>\[兴化\]</sup> ② 话多，见人就说个不停的人。<sup>\[泰州\]</sup>  
 1. 【[话语](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_y.md#话语)】`hua6 y3` <sup>[兴化]</sup> ① 反映人们生活经验或愿望的俗语、谚语等：邻居好，赛全宝，这是有的。 ② 话柄：做新女婚时捱捉弄，倒留下～来啊。  
@@ -2045,8 +2044,7 @@
 1. 【[孟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen.md#孟)】`huen2` <small>/xuəŋ2/<sup>如皋</sup></small> 孟姓讳音“梦”<sup>\[如皋\]</sup><sup>\[东台\]</sup>：或改音xi3<sup>\[如皋\]</sup>  
 1. 【[浑笃笃的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_doh_doh_dii.md#浑笃笃的)】`huen2 doh doh7 dii` <sup>[如皋]</sup> 浑浊不清的样子。  
 1. 【[浑笃笃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_doh_doh.md#浑笃笃)】`huen2 doh7 doh7` <sup>[如东]</sup> 浑浊不清：桶里的水～的。  
-1. 【[浑名](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_mien.md#浑名)】`huen2 mien2` <sup>[如东]</sup> 绰号。也称外号。  
-1. 【[浑名](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_mien.md#浑名)】`huen2 mien2` <small>/xuəŋ2 miŋ2/<sup>泰兴</sup></small> 外号，绰号。<sup>\[泰兴\]</sup>  
+1. 【[浑名](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_mien.md#浑名)】`huen2 mien2` <small>/xuəŋ2 miŋ2/<sup>泰兴</sup></small> 外号，绰号。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
 1. 【[浑吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_nga.md#浑吖)】`huen2 nga` <small>/xuəŋ2 ŋa/<sup>如皋</sup>, /xuəŋ2 ŋəʔ/<sup>泰县</sup></small> ① 浑浊了。<sup>\[如皋\]</sup> ② 思维混乱，不知所措。常由糊涂、惊吓、忧虑等原因而起。<sup>\[泰县\]</sup><sup>\[如皋\]</sup><sup>\[泰州\]</sup>：证据朝他面前一摆，他就～。<sup>\[泰县\]</sup>｜不要望他现在神气，只要纪委一找他，他就～唻。<sup>\[泰州\]</sup>  
 1. 【[浑球](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_qieu.md#浑球)】`huen2 qieu2` <small>/xuən2 t͡ɕʰiɤ2/<sup>兴化</sup>, /xuəŋ5 t͡ɕʰiɤɯ2/<sup>泰县</sup></small> 詈语，犹糊涂蛋、混蛋<sup>\[兴化\]</sup><sup>\[泰县\]</sup>：这小伙是个～，老婆的相好当吖上宾招待。<sup>\[兴化\]</sup>  
 1. 【[浑身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_shen.md#浑身)】`huen2 shen1` <sup>[如东]</sup> 全身。  

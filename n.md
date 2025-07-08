@@ -370,8 +370,7 @@
 1. 【[哑子砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz_zhun.md#哑子砖)】`nga3 zz zhun1` <sup>[如皋]</sup> 为火侯不足而“不开声”且有烟迹（喜鹊斑）的砖头。  
 1. 【[垩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga.md#垩)】`nga5` <small>/ŋa5/<sup>如皋</sup></small> 施肥。<sup>\[东台\]</sup>\[如皋：可带宾语，～壮气、～豆饼、～粪、～玉米、～麦。\]\[泰州：给土壤施肥料\]：庄稼要～足基肥。<sup>\[东台\]</sup>  
 1. 【[垩本](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_ben.md#垩本)】`nga5 ben3` <sup>[兴化]</sup> 肥料，多指人粪尿等自然肥料：上街取～。｜“你看我个子矮小，身体瘦弱……没有肥料欠～呀……”（《武松》二）  
-1. 【[垩粪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_fen.md#垩粪)】`nga5 fen5` <sup>[泰州]</sup> ① （泰州词典垩阴平） ② 给田里的庄稼浇粪。  
-1. 【[垩粪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_fen.md#垩粪)】`nga5 fen5` <small>/ŋɑ5 fəŋ5/<sup>泰兴</sup></small> 肥料；施肥。<sup>\[泰兴\]</sup>  
+1. 【[垩粪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_fen.md#垩粪)】`nga5 fen5` <small>/ŋɑ5 fəŋ5/<sup>泰兴</sup></small> ① 给田里的庄稼浇粪。<sup>\[泰州\]</sup> ② 肥料；施肥。<sup>\[泰兴\]</sup>  
 1. 【[垩用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_ion.md#垩用)】`nga5 ion` <sup>[东台]</sup> 农村里人畜肥的俗称。  
 1. 【[垩用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_ion.md#垩用)】`nga5 ion6` <sup>[如东]</sup> 肥料：准备给玉米上～。  
 1. 【[垩田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_tin.md#垩田)】`nga5 tin2` <small>/a5 tʰiɪ̃2/<sup>兴化</sup></small> ① 施肥。<sup>\[如东\]</sup> ② 向田中施肥<sup>\[兴化\]</sup>：下湖罱渣～。<sup>\[兴化\]</sup>  

@@ -313,8 +313,7 @@
 1. 【[药房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_fan.md#药房)】`iah8 fan2` <sup>[如皋]</sup> 习惯指西药铺、部门。  
 1. 【[药罐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_gun_r.md#药罐<sub>儿</sub>)】`iah8 gun5 r` <small>/iaʔ8 kʊ˞5/<sup>如皋</sup></small> ① 药罐子的口语式的儿化。<sup>\[如皋\]</sup> ② 熬药的罐子。<sup>\[如东\]</sup> ③ 比喻经常生病吃药的人。<sup>\[如东\]</sup>：他是一个～。<sup>\[如东\]</sup>  
 1. 【[药罐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_gun_zz.md#药罐子)】`iah8 gun5 zz` <small>/iaʔ8 kʊ̃5 t͡sɿ/<sup>如皋</sup></small> ① 煎中药用的白砂罐子。<sup>\[如皋\]</sup> ② 喻多病，经常服药的人。<sup>\[如皋\]</sup><sup>\[东台\]</sup>  
-1. 【[药引子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_ien_zz.md#药引子)】`iah8 ien3 zz` <sup>[东台]</sup> 中药药剂中另加的一些药物，能加强药剂的效力。  
-1. 【[药引子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_ien_zz.md#药引子)】`iah8 ien3 zz` <small>/iɑʔ8 iŋ3 t͡sɿ/<sup>泰兴</sup></small> 中药方剂中附加的药味，能调节药性，增强药效。<sup>\[泰兴\]</sup>  
+1. 【[药引子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_ien_zz.md#药引子)】`iah8 ien3 zz` <small>/iɑʔ8 iŋ3 t͡sɿ/<sup>泰兴</sup></small> ① 中药药剂中另加的一些药物，能加强药剂的效力。<sup>\[东台\]</sup> ② 中药方剂中附加的药味，能调节药性，增强药效。<sup>\[泰兴\]</sup>  
 1. 【[药铺店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_pv_din.md#药铺店)】`iah8 pv5 din5` <sup>[如皋]</sup> 药店。  
 1. 【[药人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_ren.md#药人)】`iah8 ren2` <small>/iaʔ8 lən2/<sup>兴化</sup></small> ① 用有毒的食物害人。<sup>\[东台\]</sup> ② 有毒<sup>\[兴化\]</sup>：这东西～，不能碰。<sup>\[兴化\]</sup>｜谚曰：～的不吃，犯法的不做。<sup>\[兴化\]</sup> ③ 用药毒人。<sup>\[泰州\]</sup> ④ 设下圈套诱人上当<sup>\[泰州\]</sup>：他的话你不要信，他这个是～唻。<sup>\[泰州\]</sup>｜大家一起共事是缘分，有意见当面讲，不作兴～。<sup>\[泰州\]</sup>  
 1. 【[药杀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_shaeh.md#药杀)】`iah8 shaeh` <sup>[兴化]</sup> ① 使中毒：有人在猪食里下毒，一次～十几头猪。｜他表叔吃野蘑菇～咖。 ② （喻）语言刻毒、呕人：他人虽小，说出话来～人。  
@@ -1397,8 +1396,7 @@
 1. 【[洇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien.md#洇)】`ien5` ① 液体在物体上慢慢向四周蔓延。<sup>\[如东\]</sup>：这种纸不好，字写啊上头～。<sup>\[如东\]</sup> ② 液体渗透物体并向四周散开<sup>\[泰州\]</sup>：墨水滴咖上头的纸上，～吖底下的纸上唻。<sup>\[泰州\]</sup>｜把窗纸～破一个窟窿<sup>\[泰州\]</sup> ③ 水在土壤之中沿着缝隙渗透<sup>\[泰州\]</sup>：这盆吊兰干吖透啊唻，要～点儿水唻。<sup>\[泰州\]</sup>  
 1. 【[洇水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_shuei.md#洇水)】`ien5 shuei3` <sup>[如东]</sup> 液体从容器中慢慢渗出：水缸坏啊，向外～。  
 1. 【[瀴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien.md#瀴)】`ien5` <sup>[如皋]</sup> ① 介乎凉与冷之间：～凉、凉～。 ② 凉气袭人：石头～人子。 ③ 冷却：～木炭。  
-1. 【[瀴凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_lian.md#瀴凉)】`ien5 lian` <sup>[如皋]</sup> 凉爽。  
-1. 【[瀴凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_lian.md#瀴凉)】`ien5 lian` <small>/iəŋ5 liã/<sup>如皋</sup>, /iŋ5 liɑŋ/<sup>泰兴</sup></small> ① 凉而偏冷。<sup>\[如皋\]</sup> ② 夏天凉爽宜人环境，多指地上日照不到而且有潮气上泛的环境<sup>\[泰州\]</sup>：你家大楼的地下室里多～吖。<sup>\[泰州\]</sup> ③ 凉，有凉意。<sup>\[泰兴\]</sup>  
+1. 【[瀴凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_lian.md#瀴凉)】`ien5 lian` <small>/iəŋ5 liã/<sup>如皋</sup>, /iŋ5 liɑŋ/<sup>泰兴</sup></small> ① 凉爽。<sup>\[如皋\]</sup> ② 凉而偏冷。<sup>\[如皋\]</sup> ③ 夏天凉爽宜人环境，多指地上日照不到而且有潮气上泛的环境<sup>\[泰州\]</sup>：你家大楼的地下室里多～吖。<sup>\[泰州\]</sup> ④ 凉，有凉意。<sup>\[泰兴\]</sup>  
 1. 【[瀴凉沰沰的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_lian_dah_dah.md#瀴凉沰沰的)】`ien5 lian dah7 dah7 dii` <sup>[如皋]</sup> 凉爽：伢儿额头上是～的。  
 1. 【[瀴凉沰沰<sub>儿</sub>的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_lian_dah_dah.md#瀴凉沰沰<sub>儿</sub>的)】`ien5 lian dah7 dah7 r dii` <sup>[如皋]</sup> 清凉宜人。  
 1. 【[瀴人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_ren_zz.md#瀴人子)】`ien5 ren zz` <sup>[如皋]</sup> 凉气袭人：这个家里终日见不到阳光，特别～，不能住人。  
@@ -1448,8 +1446,7 @@
 1. 【[油葫芦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_hv_lv.md#油葫芦)】`ieu2 hv2 lv2` <sup>[如东]</sup> 蟋蟀科昆虫油葫芦，又称大头狗，体长圆形，长约2厘米。体背黑褐色，有光泽；腹面较淡。有复眼1对。翅2对，前翅淡褐色，有光泽，后翅黄褐色。足3对，后足腿节粗壮。尾毛1对，褐色；雌者有1产卵管，视之俨若3尾。栖于杂草内或砖瓦、土块下。昼伏夜出，性好斗。  
 1. 【[油衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_i.md#油衣)】`ieu2 i1` <small>/iɤɯ2 ʝ1/<sup>泰兴</sup></small> 旧时用桐油在帆布上涂制成的雨衣。<sup>\[泰兴\]</sup>  
 1. 【[油烟味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_in_vei.md#油烟味)】`ieu2 in1 vei6` <small>/iɤɯ2 ĩ1 ʋəɪ1/<sup>泰兴</sup></small> 烹调或燃点油灯时所产生的油烟气味。<sup>\[泰兴\]</sup>  
-1. 【[油叽麻哈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_ji_ma_ha.md#油叽麻哈)】`ieu2 ji ma2 ha1` <sup>[兴化]</sup> 形容衣物油迹斑斑，脏污不堪：你这身工作服～的，半河水都洗不干净。  
-1. 【[油叽麻哈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_ji_ma_ha.md#油叽麻哈)】`ieu2 ji ma2 ha1` <small>/iɤɯ2 t͡ɕʝ mɑ2 xɑ1/<sup>泰兴</sup></small> 油迹斑斑；到处是油，不干净。<sup>\[泰兴\]</sup>  
+1. 【[油叽麻哈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_ji_ma_ha.md#油叽麻哈)】`ieu2 ji ma2 ha1` <small>/iɤ2 t͡ɕi ma2 xa1/<sup>兴化</sup>, /iɤɯ2 t͡ɕʝ mɑ2 xɑ1/<sup>泰兴</sup></small> ① 形容衣物油迹斑斑，脏污不堪<sup>\[兴化\]</sup>：你这身工作服～的，半河水都洗不干净。<sup>\[兴化\]</sup> ② 油迹斑斑；到处是油，不干净。<sup>\[泰兴\]</sup>  
 1. 【[油脚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_jiah_zz.md#油脚子)】`ieu2 jiah7 zz` <sup>[如皋]</sup> 油的沉淀物。  
 1. 【[油尖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_jin.md#油尖)】`ieu2 jin1` <sup>[如皋]</sup> 油坊榨油用的木楔。  
 1. 【[油嘴打花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_jy_da_hua.md#油嘴打花)】`ieu2 jy3 da3 hua1` <small>/iɤɯ2 t͡ɕy3 ta3 xua1/<sup>泰县</sup></small> ① 说话随便无分寸，显出一副神气的样子：这个人～，你不要跟他往来。<sup>\[泰县\]</sup> ② 凭借说话油滑、善于狡辩歪才而口无遮拦地乱开玩笑<sup>\[泰州\]</sup>：同你说正事，你不要～的，哿好？<sup>\[泰州\]</sup>  
@@ -1992,15 +1989,13 @@
 1. 【[舀粪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_fen.md#舀粪)】`io3 fen5` <sup>[如皋]</sup> 用料勺舀取粪池中的粪肥料。  
 1. 【[舀油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_ieu.md#舀油)】`io3 ieu2` <sup>[兴化]</sup> 戏指两口子逗嘴为戏：人家两口子～，你俫拉的甚的劝？  
 1. 【[舀子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_zz.md#舀子)】`io3 zz` ① 舀东西的工具 ② 水舀子的简称。<sup>\[如东\]</sup> ③ 海滩上像勺子一样圆形的水洼，渔民称为舀子。<sup>\[如东\]</sup>：我俫在北～里捞虾儿。<sup>\[如东\]</sup>  
-1. 【[䌁扣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_keu.md#䌁扣)】`io5 keu1` <sup>[如皋]</sup> 见“䌁子”。  
-1. 【[䌁扣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_keu.md#䌁扣)】`io5 keu1` <small>/iɔ5 kʰəɪ1/<sup>泰兴</sup></small> 用于捆麦秆、稻草等临时拧成的绳状秸秆。<sup>\[泰兴\]</sup>  
+1. 【[䌁扣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_keu.md#䌁扣)】`io5 keu1` <small>/iɔ5 kʰei1/<sup>如皋</sup>, /iɔ5 kʰəɪ1/<sup>泰兴</sup></small> ① 见“䌁子”。<sup>\[如皋\]</sup> ② 用于捆麦秆、稻草等临时拧成的绳状秸秆。<sup>\[泰兴\]</sup>  
 1. 【[䌁<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_r.md#䌁<sub>儿</sub>)】`io5 r` <sup>[如皋]</sup> 扭绞状的物体：麻花～、丝～、屎～。  
 1. 【[䌁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_zz.md#䌁子)】`io5 zz` <small>/iɔ5 t͡sɿ/<sup>兴化</sup>, /iɔ5 t͡sɿ/<sup>如皋</sup>, /iɔ5 t͡sɿ/<sup>泰兴</sup></small> ① 有捻度的单股绳或绳状物：绞～、草～。<sup>\[如皋\]</sup> ② 用草绞成的绳，较粗，供固定茅屋屋草用。<sup>\[如东\]</sup> ③ 用稻草、茅草等搅成的粗绳<sup>\[东台\]</sup>：用草～子捆秸秆。<sup>\[东台\]</sup> ④ 捆扎庄稼或蔬菜的单股草绳。兴化词典作“要子”，《广韵·笑韵》於笑切，“要，约也。”《说文》“约，缠束也。”<sup>\[兴化\]</sup> ⑤ 用麦秆、稻草临时拧成的绳状物。<sup>\[泰兴\]</sup>  
 1. 【[要不咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_beh_ga.md#要不咖)】`io5 beh7 ga` 相当于普通话的“不是这样样才怪呢，肯定是这样的”，一般用在别人做出否定回答时。  
 1. 【[要不然](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_beh_rin.md#要不然)】`io5 beh7 rin2` <sup>[泰州]</sup> ① 如果不是这样的话，就会那样：哪个教你同处长老相的，～就是你出国吤。 ② 如果不同意这样做，就那样做：弄个五香牛肉，哿行，～就换个肴肉吧。  
 1. 【[要得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_deh.md#要得)】`io5 deh` <sup>[兴化]</sup> 表示同意：好，这个办法～。  
-1. 【[要得好，到临了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_deh_ho_do.md#要得好，到临了)】`io5 deh7 ho3 do5 lien2 lio3` <sup>[东台]</sup> 原意指卖东西卖到最后，总会有某种优惠，喻意事情的结局往往比较好。  
-1. 【[要得好，到临了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_deh_ho_do.md#要得好，到临了)】`io5 deh7 ho3 do5 lien2 lio3` <small>/iɔ5 təʔ7 xɔ3 tɔ5 liŋ2 liɔ3/<sup>泰兴</sup></small> 临了，最后。谓留到最后的总是最好的。<sup>\[泰兴\]</sup>  
+1. 【[要得好，到临了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_deh_ho_do.md#要得好，到临了)】`io5 deh7 ho3 do5 lien2 lio3` <small>/iɔ5 təʔ7 xɔ3 tɔ5 liŋ2 liɔ3/<sup>泰兴</sup></small> ① 原意指卖东西卖到最后，总会有某种优惠，喻意事情的结局往往比较好。<sup>\[东台\]</sup> ② 临了，最后。谓留到最后的总是最好的。<sup>\[泰兴\]</sup>  
 1. 【[要得好，老包小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_deh_ho_lo.md#要得好，老包小)】`io5 deh7 ho3 lo3 bo1 xio3` <small>/iɔ5 təʔ7 xɔ3 lɔ3 pɔ1 ɕiɔ3/<sup>泰兴</sup></small> 谓老人对年轻人要多包涵一点，不要过于计较，事情就好办了。<sup>\[泰兴\]</sup>  
 1. 【[要得好，祖上好；要得饱，隔夜饱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_deh_ho_zv.md#要得好，祖上好；要得饱，隔夜饱)】`io5 deh7 ho3 zv3 shan ho3 io5 deh7 bo3 geh7 ia6 bo3` <sup>[如皋]</sup>   
 1. 【[要得俏，骨子俏；硬打扮，人要笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_deh_qio_gueh.md#要得俏，骨子俏；硬打扮，人要笑)】`io5 deh7 qio5 gueh7 zz qio5 ngen6 da3 baen5 ren2 io5 xio5` <sup>[如皋]</sup>   

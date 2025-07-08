@@ -517,8 +517,7 @@
 1. 【[挖空心思](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_kon_xien_sz.md#挖空心思)】`vaeh7 kon1 xien1 sz` <sup>[如东]</sup> 想尽一切办法：他～解决问题。  
 1. 【[挖孔<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_kon_r.md#挖孔<sub>儿</sub>)】`vaeh7 kon3 r` <sup>[如东]</sup> 想尽各种法子：他～弄钱。  
 1. 【[挖里挖窟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_lii_vaeh_kueh.md#挖里挖窟)】`vaeh7 lii vaeh7 kueh7` <sup>[东台]</sup> 赞叹语言刁钻、辛辣，很特别，不知道从哪儿挖来的。  
-1. 【[挖墙脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_qian_jiah.md#挖墙脚)】`vaeh7 qian2 jiah7` <sup>[如东]</sup> 挖墙基。比喻破坏别人的基业。  
-1. 【[挖墙脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_qian_jiah.md#挖墙脚)】`vaeh7 qian2 jiah7` <small>/ʋæʔ7 t͡ɕʰiɑŋ2 t͡ɕiɑʔ7/<sup>泰兴</sup></small> 拆台；比喻从根本上损害别人。<sup>\[泰兴\]</sup>  
+1. 【[挖墙脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_qian_jiah.md#挖墙脚)】`vaeh7 qian2 jiah7` <small>/ʋæʔ7 t͡ɕʰiɑŋ2 t͡ɕiɑʔ7/<sup>泰兴</sup></small> ① 挖墙基。比喻破坏别人的基业。<sup>\[如东\]</sup> ② 拆台；比喻从根本上损害别人。<sup>\[泰兴\]</sup>  
 1. 【[挖艄篙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_sho_go.md#挖艄篙)】`vaeh7 sho1 go1` <sup>[泰县]</sup> 加后劲。  
 1. 【[挖祖坟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_zv_fen.md#挖祖坟)】`vaeh7 zv3 fen2` <sup>[如东]</sup> 把祖宗的棺材从坟墓中挖掘出来。表示对某人的深仇大恨。  
 1. 【[滑滴滴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_dieh_dieh.md#滑滴滴)】`vaeh8 dieh7 dieh7` <small>/ʋæʔ8 tiɪʔ7 tiɪʔ7/<sup>泰县</sup></small> ① 指衣物平滑整洁。<sup>\[东台\]</sup> ② ［喻］事情办得调适、圆满。又作滑滴滴、滑滑滴滴。<sup>\[东台\]</sup> ③ 非常光滑<sup>\[泰县\]</sup>：这桌面漆得～的。<sup>\[泰县\]</sup> ④ 物体表面非常光滑的样子<sup>\[泰州\]</sup>：窗子擦得多干净吖，玻璃摸上去～的。<sup>\[泰州\]</sup> ⑤ 比喻事情安排非常妥帖，让人无可挑剔<sup>\[泰州\]</sup>：王漆匠的手艺没得话说，漆咖好的家具望上去～的。<sup>\[泰州\]</sup>  

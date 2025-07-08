@@ -913,8 +913,7 @@
 1. 【[井潭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_tun.md#井潭)】`jien3 tun2` <sup>[如东]</sup> 干旱时，在河底挖土井，叫井潭。  
 1. 【[井砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zhun.md#井砖)】`jien3 zhun1` <sup>[如皋]</sup> 水井壁专用砖，横截面呈梯形。有的还有榫和榫眼，不易松动变形。  
 1. 【[井子舱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zz_can.md#井子舱)】`jien3 zz can1` <sup>[如东]</sup> 帆船的第4舱，是贮存淡水的舱室。也叫水井舱。  
-1. 【[侭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien.md#侭)】`jien3` <sup>[东台]</sup> ① 让某些人或事物占先：廉租房要～特困户安排入住。 ② 尽量放开，不作任何限制：饭～吃｜汤～喝｜钱～用。  
-1. 【[侭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien.md#侭)】`jien3` <small>/t͡ɕiŋ3/<sup>泰县</sup></small> ① 随便，任凭<sup>\[泰县\]</sup>：这些东西我～你来拣<sup>\[泰县\]</sup> ② 任凭<sup>\[泰州\]</sup>：家里酒有的是，～你喝。<sup>\[泰州\]</sup>｜明吖反正是星期天，～睏。<sup>\[泰州\]</sup> ③ 首先满足某人需求之后，再考虑其他人<sup>\[泰州\]</sup>：你家妈妈每次烧菜都是～你俫先吃。<sup>\[泰州\]</sup>  
+1. 【[侭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien.md#侭)】`jien3` <small>/t͡ɕiŋ3/<sup>泰县</sup></small> ① 让某些人或事物占先<sup>\[东台\]</sup>：廉租房要～特困户安排入住。<sup>\[东台\]</sup> ② 尽量放开，不作任何限制<sup>\[东台\]</sup>：饭～吃<sup>\[东台\]</sup>｜汤～喝<sup>\[东台\]</sup>｜钱～用。<sup>\[东台\]</sup> ③ 随便，任凭<sup>\[泰县\]</sup><sup>\[泰州\]</sup>：这些东西我～你来拣<sup>\[泰县\]</sup>｜家里酒有的是，～你喝。<sup>\[泰州\]</sup>｜明吖反正是星期天，～睏。<sup>\[泰州\]</sup> ④ 首先满足某人需求之后，再考虑其他人<sup>\[泰州\]</sup>：你家妈妈每次烧菜都是～你俫先吃。<sup>\[泰州\]</sup>  
 1. 【[侭吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_nga.md#侭吖)】`jien3 nga` <sup>[泰县]</sup> 老是，经常：你～跟吖我做甚的？  
 1. 【[侭钱□货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_qin_keh_hu.md#侭钱□货)】`jien3 qin2 keh8 hu5` <sup>[泰州]</sup> 身上带了多少钱，就买多少钱货：我身上就带啊一万块钱，～，先弄一千斤家去，好的话，下回再来。  
 1. 【[侭旺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_van.md#侭旺)】`jien3 van5` <sup>[泰县]</sup> 正好：～开会的时候，停吖电。  
@@ -1294,8 +1293,7 @@
 1. 【[剪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_zz.md#剪子)】`jin3 zz` <small>/t͡ɕĩ3 t͡sɿ/<sup>如皋</sup>, /t͡ɕĩ3 t͡sɿ/<sup>泰兴</sup>, /t͡ɕiɪ̃3 t͡se/<sup>泰县</sup></small> 剪刀。<sup>\[如皋\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>  
 1. 【[检点](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_din.md#检点)】`jin3 din3` <sup>[东台]</sup> 自我检查，注意约束：你要注意形象，言行要多加～。  
 1. 【[茧<sub>儿</sub>雄鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_r_ion_ji.md#茧<sub>儿</sub>雄鸡)】`jin3 r ion2 ji1` <sup>[如皋]</sup> 用四只废蚕茧经剪裁、填料、染色缝成的雄鸡。常为端午节饰物。  
-1. 【[茧子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_zz.md#茧子)】`jin3 zz` <sup>[兴化]</sup> 蚕茧。  
-1. 【[茧子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_zz.md#茧子)】`jin3 zz` <small>/t͡ɕĩ3 t͡sɿ/<sup>泰兴</sup></small> 蚕茧。<sup>\[泰兴\]</sup>  
+1. 【[茧子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_zz.md#茧子)】`jin3 zz` <small>/t͡ɕiɪ̃3 t͡sɿ/<sup>兴化</sup>, /t͡ɕĩ3 t͡sɿ/<sup>泰兴</sup></small> 蚕茧。<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>  
 1. 【[趼子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_zz.md#趼子)】`jin3 zz` <sup>[东台]</sup> 手掌或脚掌上因摩擦而生成的硬皮。也作“茧子”。  
 1. 【[健子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_zz.md#健子)】`jin5 zz` <sup>[泰县]</sup> 雄性仔猪。  
 1. 【[剑麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_ma.md#剑麻)】`jin5 ma2` <sup>[如东]</sup> 龙舌兰科植物剑麻，多年生半木质状粗壮植物。  
@@ -1558,8 +1556,7 @@
 1. 【[卷芒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiun_man_zz.md#卷芒子)】`jiun3 man2 zz` <sup>[东台]</sup> 将原书纸卷成细长条，供抽水烟时点火用。  
 1. 【[卷棚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiun_pon.md#卷棚)】`jiun3 pon2` <sup>[如皋]</sup> 顶盖可收卷的大棚，盆景架常用。  
 1. 【[卷铺盖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiun_pv_gae.md#卷铺盖)】`jiun3 pv1 gae5` <sup>[东台]</sup> ［喻］被辞退或解雇，离开原工作单位。  
-1. 【[卷心菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiun_xien_cae.md#卷心菜)】`jiun3 xien cae5` <sup>[如皋]</sup> 甘蓝。  
-1. 【[卷心菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiun_xien_cae.md#卷心菜)】`jiun3 xien cae5` <small>/t͡ɕyũ3 ɕin t͡sʰɛ5/<sup>兴化</sup>, /t͡ɕyʊ̃3 ɕiŋ t͡ɕʰiɛ5/<sup>泰兴</sup></small> ① 十字花科植物甘蓝，二年生草本。高约90厘米。<sup>\[如东\]</sup> ② 见“牛心菜”。<sup>\[东台\]</sup> ③ 即包心菜（结球甘篮）。<sup>\[兴化\]</sup> ④ 包心菜。<sup>\[泰兴\]</sup>  
+1. 【[卷心菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiun_xien_cae.md#卷心菜)】`jiun3 xien cae5` <small>/t͡ɕyũ3 ɕin t͡sʰɛ5/<sup>兴化</sup>, /t͡ɕyʊ̃3 ɕiəŋ t͡sʰɛ5/<sup>如皋</sup>, /t͡ɕyʊ̃3 ɕiŋ t͡ɕʰiɛ5/<sup>泰兴</sup></small> ① 甘蓝。<sup>\[如皋\]</sup><sup>\[如东\]</sup> ② 见“牛心菜”。<sup>\[东台\]</sup> ③ 即包心菜（结球甘篮）。<sup>\[兴化\]</sup> ④ 包心菜。<sup>\[泰兴\]</sup>  
 1. 【[卷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiun_zz.md#卷子)】`jiun3 zz` <small>/t͡ɕyʊ̃3 t͡sɿ/<sup>泰兴</sup></small> ① 试卷<sup>\[泰兴\]</sup> ② 一种面食，面发酵蒸成，似馒头。加葱等辅料则叫“花卷”。<sup>\[泰兴\]</sup>  
 1. 【[卷子面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiun_zz_min.md#卷子面)】`jiun3 zz min6` <small>/t͡ɕyʊ̃3 t͡sɿ mĩ1/<sup>泰兴</sup></small> 挂面。<sup>\[泰兴\]</sup>  
 1. 【[𰴽（言卷）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiun.md#𰴽（言卷）)】`jiun3` <small>/t͡ɕyũ3/<sup>兴化</sup></small> ① 恶毒的、粗野的谩骂<sup>\[兴化\]</sup>：惹啊这个婆娘连～带骂的，叫人听不下去。<sup>\[兴化\]</sup>｜“……他还嘴里劈里剥刺的，叫我一顿～骂……”（《金瓶梅词话》七二）<sup>\[兴化\]</sup> ② ［同音］这里指骂人、嘲讽人<sup>\[东台\]</sup>：那家伙盛气凌人的，我把他～吖一通，他才不吱声吖。<sup>\[东台\]</sup> ③ 肆意谩骂，或连续斥责不容对方开口<sup>\[泰州\]</sup>：这小伙在旁边多嘴，捱老李～吖他一顿。<sup>\[泰州\]</sup>  

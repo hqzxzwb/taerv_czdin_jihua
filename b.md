@@ -456,8 +456,7 @@
 1. 【[帮厨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ban_chv.md#帮厨)】`ban1 chv2` <sup>[东台]</sup> ① 非炊事人员下厨房打下手，协助做事。 ② 农村近年来发展起来的流动代办酒席人员。  
 1. 【[帮倒忙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ban_do_man.md#帮倒忙)】`ban1 do5 man2` ① 表面上帮忙而实际上反添麻烦。<sup>\[如东\]</sup> ② 本来是出于好意想帮助别人，结果反而给别人带来麻烦<sup>\[泰州\]</sup>：你这种急性子脾家最好不要去，去啊弄不好就是～。<sup>\[泰州\]</sup>  
 1. 【[帮扶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ban_fv.md#帮扶)】`ban1 fv2` <sup>[兴化]</sup> 协助、扶持：有事大家～，你不要愁。｜“此乃一点小事，要人～则甚……”（《八窍珠》二九）  
-1. 【[帮工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ban_gon.md#帮工)】`ban1 gon1` <sup>[东台]</sup> 多指受雇帮助干活。  
-1. 【[帮工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ban_gon.md#帮工)】`ban1 gon1` <small>/pɑŋ1 kɔŋ1/<sup>泰兴</sup></small> 临时性地帮助工作，犹言打零工。<sup>\[泰兴\]</sup>  
+1. 【[帮工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ban_gon.md#帮工)】`ban1 gon1` <small>/pɑŋ1 kɔŋ1/<sup>泰兴</sup></small> ① 多指受雇帮助干活。<sup>\[东台\]</sup> ② 临时性地帮助工作，犹言打零工。<sup>\[泰兴\]</sup>  
 1. 【[帮坎子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ban_kun_zz.md#帮坎子)】`ban1 kun3 zz` <sup>[如皋]</sup> 用土、草、皮等加固、修补河床的斜坡。  
 1. 【[帮腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ban_qian.md#帮腔)】`ban1 qian1` <small>/pɑŋ1 t͡ɕʰiɑŋ1/<sup>泰兴</sup></small> ① 说话表示支持别人。<sup>\[如东\]</sup> ② 站在一旁帮助讲话。<sup>\[东台\]</sup> ③ 戏曲演出时，后台或者场上的人帮唱，以烘托演员的唱腔，渲染气氛，叙述环境、剧中人的心情，引申比喻支持或附和别人的说法<sup>\[泰州\]</sup>：只要处长说到话，他就跟吖后头～。<sup>\[泰州\]</sup> ④ 喻支持或附和别人的说法。含贬义。<sup>\[泰兴\]</sup>  
 1. 【[帮岸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ban_un_zz.md#帮岸子)】`ban1 un6 zz` <sup>[如皋]</sup> 用土、草、皮等加固、修补河床的斜坡。  
@@ -1042,10 +1041,8 @@
 1. 【[奔港](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_gan.md#奔港)】`ben5 gan3` <sup>[兴化]</sup> 形容胃口好、食欲强：他吃茶饭～㗁。  
 1. 【[屄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi.md#屄)】`bi1` <sup>[如东]</sup> 女子的生殖器。  
 1. 【[屄（毴、𣭈）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi.md#屄（毴、𣭈）)】`bi1` <sup>[泰州]</sup> ① 女性外生殖器：这个老～不是好东西！ ② 泛指部分雌性家畜外生殖器：敢同老王动手动脚的，当真是老鼠肏猫～，活得不耐烦！  
-1. 【[屄屄屌屌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_bi_dio_dio.md#屄屄屌屌)】`bi1 bi1 dio3 dio3` <sup>[兴化]</sup> ① （贬）男男女女。 ② 有关男女风化方面的事：你一开口又是～的事，真无聊。 ③ 也说“屄啊屌的”。  
-1. 【[屄屄屌屌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_bi_dio_dio.md#屄屄屌屌)】`bi1 bi1 dio3 dio3` <small>/pʝ1 pʝ1 tiɔ3 tiɔ3/<sup>泰兴</sup></small> 零零碎碎，不足挂齿的小事。男女之间见不得人的事。<sup>\[泰兴\]</sup>  
-1. 【[屄宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_bo.md#屄宝)】`bi1 bo3` <sup>[东台]</sup> 是一种戏谑的说法。比喻把一般东西看得十分珍贵。  
-1. 【[屄宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_bo.md#屄宝)】`bi1 bo3` <small>/pʝ1 pɔ3/<sup>泰兴</sup></small> 宝贝；珍贵的东西。贬义。轻蔑、讽刺味。<sup>\[泰兴\]</sup>  
+1. 【[屄屄屌屌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_bi_dio_dio.md#屄屄屌屌)】`bi1 bi1 dio3 dio3` <small>/pi1 pi1 tiɔ3 tiɔ3/<sup>兴化</sup>, /pʝ1 pʝ1 tiɔ3 tiɔ3/<sup>泰兴</sup></small> ① （贬）男男女女。<sup>\[兴化\]</sup> ② 有关男女风化方面的事<sup>\[兴化\]</sup>：你一开口又是～的事，真无聊。<sup>\[兴化\]</sup> ③ 也说“屄啊屌的”。<sup>\[兴化\]</sup> ④ 零零碎碎，不足挂齿的小事。男女之间见不得人的事。<sup>\[泰兴\]</sup>  
+1. 【[屄宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_bo.md#屄宝)】`bi1 bo3` <small>/pʝ1 pɔ3/<sup>泰兴</sup></small> ① 是一种戏谑的说法。比喻把一般东西看得十分珍贵。<sup>\[东台\]</sup> ② 宝贝；珍贵的东西。贬义。轻蔑、讽刺味。<sup>\[泰兴\]</sup>  
 1. 【[屄大眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_da_ngaen.md#屄大眼)】`bi1 da ngaen3` <sup>[兴化]</sup> 骂人眼力不济，视觉模糊：你这个～，小偷站吖面前也看不清。  
 1. 【[屄贩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_faen_zz.md#屄贩子)】`bi1 faen5 zz` <sup>[如东]</sup> 不正经的女人。  
 1. 【[屄养的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_ian_dii.md#屄养的)】`bi1 ian3 dii` <sup>[泰州]</sup> ① 詈词，多为男性互相詈骂时的词。 ② 相当于“家伙”，粗话：老张这～这一趟生意赚吖不少，家来教他请客。  
@@ -1388,8 +1385,7 @@
 1. 【[保准](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_zhuen.md#保准)】`bo3 zhuen3` <sup>[兴化]</sup> 肯定：村主任这时候～下啊田。  
 1. 【[堡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#堡)】`bo3` <sup>[东台]</sup> 围有土墙的村镇，泛指村落，多用于地名：仇～；郭～。  
 1. 【[宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#宝)】`bo3` <sup>[东台]</sup> 加在某些名词或动词语词后构成名词，带有讽刺意味：来尿～儿；现世～；哭～儿。  
-1. 【[宝贝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_bei.md#宝贝)】`bo3 bei` <sup>[东台]</sup> ① 爱惜、珍视：他的脚踏车～煞咖，擦得闪亮。 ② 所珍爱的物品。  
-1. 【[宝贝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_bei.md#宝贝)】`bo3 bei` <small>/pɔ3 pəɪ/<sup>泰兴</sup></small> ① 珍奇的宝物<sup>\[泰兴\]</sup> ② 对亲爱者的昵称<sup>\[泰兴\]</sup> ③ 爱惜、珍视<sup>\[泰兴\]</sup>：箇个杲子多得很，不要～<sup>\[泰兴\]</sup>  
+1. 【[宝贝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_bei.md#宝贝)】`bo3 bei` <small>/pɔ3 pəɪ/<sup>泰兴</sup></small> ① 所珍爱的物品。<sup>\[东台\]</sup> ② 珍奇的宝物<sup>\[泰兴\]</sup> ③ 对亲爱者的昵称<sup>\[泰兴\]</sup> ④ 爱惜、珍视<sup>\[泰兴\]</sup><sup>\[东台\]</sup>：箇个杲子多得很，不要～<sup>\[泰兴\]</sup>｜他的脚踏车～煞咖，擦得闪亮。<sup>\[东台\]</sup>  
 1. 【[宝贝疙瘩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_bei_geh_daeh.md#宝贝疙瘩)】`bo3 bei geh7 daeh` <sup>[兴化]</sup> （喻）形容受宠爱的孩子：“……大老爹不放心的是我家的～姑娘啊！”（《皮五辣子》一）  
 1. 【[宝宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_bo.md#宝宝)】`bo3 bo` <small>/pɔ3 pɔ/<sup>泰兴</sup></small> 对小儿的昵称。<sup>\[泰州\]</sup><sup>\[泰兴\]</sup>  
 1. 【[宝宝脾气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_bo_pi_qi.md#宝宝脾气)】`bo3 bo pi2 qi` <sup>[兴化]</sup> 像孩子似的性情：刘庭一吓，晓得姑奶奶是～，要是再喊不送，作兴他把口刀抽出来同我共刀……（扬一《扬州劫法场》）  

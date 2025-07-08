@@ -1000,8 +1000,7 @@
 1. 【[轻耗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ho.md#轻耗)】`qien1 ho` <sup>[如东]</sup> ① 花费力气较小：～活技。 ② 重量较轻：这种材料～。  
 1. 【[轻耗活技](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ho_huh_qi.md#轻耗活技)】`qien1 ho huh8 qi` <sup>[如东]</sup> 消耗体力比较小的劳动：锄草是～。  
 1. 【[轻会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_huei.md#轻会)】`qien1 huei6` <sup>[如皋]</sup> “请会”中，在后得到的会钱（得到的利息多）。  
-1. 【[轻言悄语](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_in_qio_y.md#轻言悄语)】`qien1 in2 qio3 y3` <sup>[兴化]</sup> 形容态度温和，说话语气平级：他对人说话～的，交关亲切。也说“轻言细语”。  
-1. 【[轻言悄语](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_in_qio_y.md#轻言悄语)】`qien1 in2 qio3 y3` <small>/t͡ɕʰiŋ1 ĩ2 t͡ɕʰiɔ3 y3/<sup>泰兴</sup></small> 形容说话声音低而柔和。<sup>\[泰兴\]</sup>  
+1. 【[轻言悄语](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_in_qio_y.md#轻言悄语)】`qien1 in2 qio3 y3` <small>/t͡ɕʰin1 iɪ̃2 t͡ɕʰiɔ3 y3/<sup>兴化</sup>, /t͡ɕʰiŋ1 ĩ2 t͡ɕʰiɔ3 y3/<sup>泰兴</sup></small> ① 形容态度温和，说话语气平级<sup>\[兴化\]</sup>：他对人说话～的，交关亲切。也说“轻言细语”。<sup>\[兴化\]</sup> ② 形容说话声音低而柔和。<sup>\[泰兴\]</sup>  
 1. 【[轻言小语](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_in_xio_y.md#轻言小语)】`qien1 in2 xio3 y3` <sup>[如东]</sup> 小声说话：妈妈对兰兰总是～地说话。  
 1. 【[轻容易](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ion_i.md#轻容易)】`qien1 ion2 i` <small>/t͡ɕʰin1 ioŋ2 i/<sup>兴化</sup>, /t͡ɕʰiŋ1 iɔŋ2 ʝ/<sup>泰兴</sup></small> ① 轻易。<sup>\[如东\]</sup>：～不上街。<sup>\[如东\]</sup> ② 很容易地（多为否定用法）<sup>\[兴化\]</sup>：他住啊落乡，～不上城来。<sup>\[兴化\]</sup>｜（公明）把黄龙真人泥丸宫上用符印压住元神，～不得脱逃。（《封神演义》四七）<sup>\[兴化\]</sup> ③ 难得，不容易<sup>\[泰州\]</sup>：他这个人脾家好，～不同底下人发火。<sup>\[泰州\]</sup> ④ 很容易。一般加“不”，表示否定。<sup>\[泰兴\]</sup>  
 1. 【[轻容易不](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ion_i_beh.md#轻容易不)】`qien1 ion2 i beh7` <small>/t͡ɕʰiəŋ1 iɔŋ2 ʝ pəʔ7/<sup>如皋</sup></small> ① 不轻易，难得。<sup>\[如皋\]</sup> ② 不容易，难得。<sup>\[如皋\]</sup>  
@@ -1165,8 +1164,7 @@
 1. 【[净办](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_baen.md#净办)】`qien6 baen5` <sup>[兴化]</sup> 清净、安宁：学校里放吖学，蛮～的。｜“……如常吃官司，教我要便随衙听侯，不曾有一个月～……”（《水浒传》二四）也作“静办”。《警世通言》第二十卷有“没一日～”句。  
 1. 【[净打净夯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_da_qien_han.md#净打净夯)】`qien6 da3 qien6 han1` <sup>[如东]</sup> 去除虚数，全部是实货。比喻纯收入：～一百元。  
 1. 【[净得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_deh.md#净得)】`qien6 deh7` 剔除所有开支后实际获得的纯利<sup>\[泰州\]</sup>：他在这个厂有股，一年至少～二十万。<sup>\[泰州\]</sup>  
-1. 【[净落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_lah.md#净落)】`qien6 lah8` <sup>[兴化]</sup> 除去开支实际所得：这笔交易，他～两万多块。｜每学期收了学杂费，全都归他处理。除了开销……他～多少，谁也不知道。（汪曾祺《星期天》）  
-1. 【[净落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_lah.md#净落)】`qien6 lah8` <small>/t͡ɕʰiŋ1 lɑʔ8/<sup>泰兴</sup></small> 纯利润；净利。单纯地得到。<sup>\[泰兴\]</sup>  
+1. 【[净落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_lah.md#净落)】`qien6 lah8` <small>/t͡ɕʰin6 laʔ8/<sup>兴化</sup>, /t͡ɕʰiŋ1 lɑʔ8/<sup>泰兴</sup></small> ① 除去开支实际所得<sup>\[兴化\]</sup>：这笔交易，他～两万多块。<sup>\[兴化\]</sup>｜每学期收了学杂费，全都归他处理。除了开销……他～多少，谁也不知道。（汪曾祺《星期天》）<sup>\[兴化\]</sup> ② 纯利润；净利。单纯地得到。<sup>\[泰兴\]</sup>  
 1. 【[净盘将军](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_pun_jian_jyen.md#净盘将军)】`qien6 pun2 jian1 jyen1` <sup>[泰州]</sup> 对贪吃者的戏称：这小碗是～，一碗红烧肉上吖桌，他同你连汤带水全部下肚。  
 1. 【[净身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_shen.md#净身)】`qien6 shen1` <small>/t͡ɕʰin6 sən1/<sup>兴化</sup></small> ① 为临终的人洗擦身体<sup>\[兴化\]</sup>：眼见他颜色渐渐不行，急忙替他～，穿好衣服。<sup>\[兴化\]</sup> ② 洗澡的贬义说法。<sup>\[兴化\]</sup> ③ 除了随身穿的衣物之外，什么都没有带<sup>\[泰州\]</sup>：～出户。<sup>\[泰州\]</sup>  
 1. 【[净堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_tan.md#净堂)】`qien6 tan` <sup>[如东]</sup> 原来：～是这吖的。  

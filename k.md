@@ -503,8 +503,7 @@
 1. 【[靠张](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_zhan.md#靠张)】`ko5 zhan1` <sup>[泰州]</sup> 麻将术语，某一张牌与其上下的牌可以靠在以其，诸如五饼与四饼、六饼靠，六条与五条、七条靠，等等：他抓的牌都不～，只好打掉它。  
 1. 【[靠资](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_zz.md#靠资)】`ko5 zz1` <small>/kʰɔ5 t͡sɿ1/<sup>如皋</sup>, /kʰɔ5 t͡sɿ1/<sup>泰县</sup></small> 沾光。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup>\[东台：吃白食\]：这两天家属外出，我就到姐姐家～。<sup>\[东台\]</sup>｜要自力更生，不要老想吖去别人那块～。<sup>\[东台\]</sup>｜今朝他又来～。<sup>\[泰县\]</sup>  
 1. 【[㩭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko.md#㩭)】`ko6` <small>/kʰɔ6/<sup>兴化</sup>, /kʰɔ1/<sup>如皋</sup></small> 缠绕、交叉<sup>\[兴化\]</sup>\[东台：两条小腿相交。\]\[如皋：纠缠，言、行、理、形皆有之\]：说～～儿理、同你～、～事。<sup>\[如皋\]</sup>｜坐要有坐相，不要两个腿～啊一起。<sup>\[东台\]</sup>｜～住头。<sup>\[兴化\]</sup>｜十字～儿。<sup>\[兴化\]</sup>  
-1. 【[㩭边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_bin.md#㩭边)】`ko6 bin1` <sup>[如皋]</sup> 锁边机给布料锁边。  
-1. 【[㩭边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_bin.md#㩭边)】`ko6 bin1` <small>/kʰɔ1 pĩ1/<sup>泰兴</sup></small> 用～机将织物裁剪过的边缘部分缝合起来，不使松散。<sup>\[泰兴\]</sup>  
+1. 【[㩭边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_bin.md#㩭边)】`ko6 bin1` <small>/kʰɔ1 pĩ1/<sup>如皋</sup>, /kʰɔ1 pĩ1/<sup>泰兴</sup></small> ① 锁边机给布料锁边。<sup>\[如皋\]</sup> ② 用～机将织物裁剪过的边缘部分缝合起来，不使松散。<sup>\[泰兴\]</sup>  
 1. 【[㩭夹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_gaeh.md#㩭夹)】`ko6 gaeh7` <sup>[东台]</sup> 相互之间纠缠在一起，理事不清楚：这里头有～，不能随便说是说非。  
 1. 【[㩭梗<sub>儿</sub>白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_gen_r_poh.md#㩭梗<sub>儿</sub>白)】`ko6 gen3 r poh8` <sup>[如皋]</sup> 初冬上市供腌咸菜用的青菜，白梗多而高，且互相交叉，故名。  
 1. 【[㩭㩭<sub>儿</sub>理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_ko_r_li.md#㩭㩭<sub>儿</sub>理)】`ko6 ko6 r li3` <sup>[如皋]</sup> 不正当的理由、或故意胡蛮缠的歪理。  
@@ -537,8 +536,7 @@
 1. 【[酷秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/koh_chen.md#酷秤)】`koh7 chen5` <sup>[泰州]</sup> 所称之物重量不足：这个人做生意不规矩，买他的菜回回～。｜你把秤称吖准啊，不要～。  
 1. 【[空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon.md#空)】`kon1` <sup>[如东]</sup> 没有东西：房间是～的。  
 1. 【[空坐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_cu.md#空坐)】`kon1 cu6` <small>/kʰoŋ1 t͡sʰo6/<sup>兴化</sup>, /kʰɔŋ1 t͡sʰʊ1/<sup>如皋</sup>, /kʰɔŋ1 t͡sʰɤɯ1/<sup>泰兴</sup></small> 客套话，指对来客招待过于简单或未遂来意。<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：今吖让你～，实在对不起。<sup>\[兴化\]</sup>｜教你在这块～唻，真不好意思。<sup>\[泰州\]</sup>  
-1. 【[空大空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_da_kon.md#空大空)】`kon1 da kon1` <sup>[兴化]</sup> 文章或言论内容空泛不切合实际：那篇报道看起来神乎其神，其实是～。  
-1. 【[空大空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_da_kon.md#空大空)】`kon1 da kon1` <small>/kʰɔŋ1 tɑ kʰɔŋ1/<sup>泰兴</sup></small> 空的，什么都没有。<sup>\[泰兴\]</sup>  
+1. 【[空大空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_da_kon.md#空大空)】`kon1 da kon1` <small>/kʰoŋ1 ta kʰoŋ1/<sup>兴化</sup>, /kʰɔŋ1 tɑ kʰɔŋ1/<sup>泰兴</sup></small> ① 文章或言论内容空泛不切合实际<sup>\[兴化\]</sup>：那篇报道看起来神乎其神，其实是～。<sup>\[兴化\]</sup> ② 空的，什么都没有。<sup>\[泰兴\]</sup>  
 1. 【[空打空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_da_kon.md#空打空)】`kon1 da3 kon1` <sup>[泰州]</sup> ① 建筑物内部没有器物：房间里头搬得～，一样东西都不曾留下来。 ② 说话或者文章没有实质性的内容：他在会上讲吖半天，全是～的套话。｜他写的这个材料没得甚的实质内容，这种～的东西没得说服力。  
 1. 【[空架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_ga_zz.md#空架子)】`kon1 ga5 zz` <small>/kʰoŋ1 ka5 t͡sɿ/<sup>兴化</sup></small> ① 表面好看，内部空虚<sup>\[兴化\]</sup>：这个家红红火火支撑了几百年，原来是个～……（毕飞宇《明天遥遥无期》）<sup>\[兴化\]</sup> ② 比喻表面十分风光而实质非常困难<sup>\[泰州\]</sup>：不要望他穿得这吖讲究，家里其实没得甚的钱，就是个～。<sup>\[泰州\]</sup>  
 1. 【[空棺材出葬——木（目）中无人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_gun_cae_chueh.md#空棺材出葬——木（目）中无人)】`kon1 gun1 cae chueh7 zan5 moh8 zhon1 v2 ren2` <sup>[东台]</sup>   
@@ -547,8 +545,7 @@
 1. 【[空乎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_hv.md#空乎)】`kon1 hv1` <sup>[泰州]</sup> 白白浪费时间或者精力：他今朝怕的不得家来唻，你先家去，～你在这块等。｜～他忙吖半天，客人有事不曾来。  
 1. 【[空壳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_kah_zz.md#空壳子)】`kon1 kah7 zz` <small>/kʰɔŋ1 kʰɑʔ7 t͡sɿ/<sup>泰兴</sup></small> 比喻没有真才实学的人或徒具形式的事物。<sup>\[泰兴\]</sup>  
 1. 【[空口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_keu.md#空口)】`kon1 keu3` <small>/kʰɔŋ1 kʰei3/<sup>如皋</sup></small> ① 没有吃饭的时候。<sup>\[如东\]</sup>：不要～吃菜。<sup>\[如东\]</sup> ② 比喻没有证据。<sup>\[如东\]</sup>：～说白话。<sup>\[如东\]</sup> ③ 未有依据、礼物、他人的协助，单凭嘴说：你～去说，说三天三夜也没得用。<sup>\[如皋\]</sup>  
-1. 【[空口说白话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_keu_shuh_poh.md#空口说白话)】`kon1 keu3 shuh7 poh8 hua6` <sup>[东台]</sup> 形容光说不做，或没有给别人好处：办事不能～。  
-1. 【[空口说白话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_keu_shuh_poh.md#空口说白话)】`kon1 keu3 shuh7 poh8 hua6` <small>/kʰɔŋ1 kʰəɪ3 sʊʔ7 pʰɔʔ8 xuɑ1/<sup>泰兴</sup></small> 形容光说话不做事，或光说而没有行动证明；也作请人办事要以钱物表达心意，不能单纯口头相请。<sup>\[泰兴\]</sup>  
+1. 【[空口说白话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_keu_shuh_poh.md#空口说白话)】`kon1 keu3 shuh7 poh8 hua6` <small>/kʰɔŋ1 kʰəɪ3 sʊʔ7 pʰɔʔ8 xuɑ1/<sup>泰兴</sup></small> ① 形容光说不做，或没有给别人好处<sup>\[东台\]</sup>：办事不能～。<sup>\[东台\]</sup> ② 形容光说话不做事，或光说而没有行动证明；也作请人办事要以钱物表达心意，不能单纯口头相请。<sup>\[泰兴\]</sup>  
 1. 【[空口无凭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_keu_v_pien.md#空口无凭)】`kon1 keu3 v2 pien2` <sup>[泰州]</sup> 光是嘴说而无真凭实据：他嘴上答应没得用，～要教他写下来。  
 1. 【[空空如也](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_kon_rv_ia.md#空空如也)】`kon1 kon1 rv2 ia3` <sup>[如皋]</sup> 指空旷，什么都没有。  
 1. 【[空山野洼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_shaen_ia_va.md#空山野洼)】`kon1 shaen1 ia3 va5` <sup>[东台]</sup> 没有人烟的荒野。  
@@ -965,8 +962,7 @@
 1. 【[款待](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_tae.md#款待)】`kun3 tae6` <sup>[东台]</sup> 亲切优厚地招待（东台方音kun3 dae5）：这次受到你俫热情～，非常感谢。  
 1. 【[款子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_zz.md#款子)】`kun3 zz` <sup>[如东]</sup> 资金。  
 1. 【[砍价](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_jia.md#砍价)】`kun3 jia5` <sup>[东台]</sup> 尽量压低商品的销售价。  
-1. 【[砍头疮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_teu_chuan.md#砍头疮)】`kun3 teu2 chuan1` <sup>[东台]</sup> 通常指生在脖子后部的痈。此痈生在敏感部位，死亡率较高，故有此名。  
-1. 【[砍头疮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_teu_chuan.md#砍头疮)】`kun3 teu2 chuan1` <small>/kʰʊ̃3 tʰəɪ2 t͡sʰuɑŋ1/<sup>泰兴</sup></small> 两肩之间、背上部的痈疽。<sup>\[泰兴\]</sup>  
+1. 【[砍头疮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_teu_chuan.md#砍头疮)】`kun3 teu2 chuan1` <small>/kʰʊ̃3 tʰəɪ2 t͡sʰuɑŋ1/<sup>泰兴</sup></small> ① 通常指生在脖子后部的痈。此痈生在敏感部位，死亡率较高，故有此名。<sup>\[东台\]</sup> ② 两肩之间、背上部的痈疽。<sup>\[泰兴\]</sup>  
 1. 【[砍头刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_teu_do.md#砍头刀)】`kun3 teu2 do1` <sup>[如皋]</sup> 詈语。意为第一个被杀头。  
 1. 【[砍桩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_zhuan.md#砍桩)】`kun3 zhuan1` <sup>[兴化]</sup> 限时完工：今吖割麦，三个人～，明吖还有别的活计等吖做。  
 1. 【[䀍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun.md#䀍)】`kun5` <sup>[如东]</sup> 盖子由上往下扣，叫䀍：把鸡～住。  

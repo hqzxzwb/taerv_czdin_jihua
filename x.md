@@ -176,8 +176,7 @@
 1. 【[细侯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_heu.md#细侯)】`xi5 heu` <sup>[如东]</sup> 小男孩。  
 1. 【[细货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_hu.md#细货)】`xi5 hu5` <small>/ɕi5 xo5/<sup>兴化</sup>, /ɕʝ5 xʊ5/<sup>如皋</sup>, /ɕʝ5 xɤɯ5/<sup>泰兴</sup></small> ① 詈语、呢语，指小女孩。<sup>\[如皋\]</sup> ② 小孩（贬义）。<sup>\[如东\]</sup> ③ 对女孩轻薄的称谓<sup>\[兴化\]</sup>：“啊咦喂，还有～哩，这位大姑娘若实不丑……”（《武松》八）<sup>\[兴化\]</sup> ④ 多用于骂小女孩。<sup>\[泰兴\]</sup>  
 1. 【[细货<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_hu_r.md#细货<sub>儿</sub>)】`xi5 hu5 r` <sup>[泰县]</sup> （禁忌语）小女孩。  
-1. 【[细花子盐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_hua_zz_in.md#细花子盐)】`xi5 hua1 zz in2` <sup>[如皋]</sup> 精盐。  
-1. 【[细花子盐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_hua_zz_in.md#细花子盐)】`xi5 hua1 zz in2` <small>/ɕʝ5 xuɑ1 t͡sɿ ĩ2/<sup>泰兴</sup></small> 细盐。相对于“粗花子盐”。<sup>\[泰兴\]</sup>  
+1. 【[细花子盐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_hua_zz_in.md#细花子盐)】`xi5 hua1 zz in2` <small>/ɕʝ5 xua1 t͡sɿ ĩ2/<sup>如皋</sup>, /ɕʝ5 xuɑ1 t͡sɿ ĩ2/<sup>泰兴</sup></small> 精盐，细盐<sup>\[如皋\]</sup>\[泰兴：相对于“粗花子盐”。\]  
 1. 【[细话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_hua.md#细话)】`xi5 hua6` <small>/ɕʝ5 xuɑ1/<sup>泰兴</sup></small> 详细的话，慢慢地说的知心话。<sup>\[泰兴\]</sup>  
 1. 【[细乎乎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_hv_hv.md#细乎乎)】`xi5 hv hv` <sup>[如东]</sup> 细条形的东西：这根竹竿～的。  
 1. 【[细爷爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ia_ia.md#细爷爷)】`xi5 ia2 ia2-3` <sup>[东台]</sup> 最小的叔叔。  
@@ -203,8 +202,7 @@
 1. 【[细嫲嫲<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ma_ma_r.md#细嫲嫲<sub>儿</sub>)】`xi5 ma3 ma3 r` <sup>[如皋]</sup> ① 指妾。 ② 贬指少妇。  
 1. 【[细马<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ma_r.md#细马<sub>儿</sub>)】`xi5 ma3 r` <sup>[如东]</sup> 小便桶，似痰盂，一般木制。  
 1. 【[细摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_mah.md#细摸)】`xi5 mah` <sup>[如东]</sup> 仔细：他做事～。  
-1. 【[细貌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_mo.md#细貌)】`xi5 mo` <sup>[泰县]</sup> 仔细：这合同你～的看看再签字。  
-1. 【[细貌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_mo.md#细貌)】`xi5 mo` <small>/ɕʝ5 mɔ/<sup>泰兴</sup></small> 小心，不可大意。<sup>\[泰兴\]</sup>：你～点，不要把花瓶打掉lei<sup>\[泰兴\]</sup>  
+1. 【[细貌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_mo.md#细貌)】`xi5 mo` <small>/ɕʝ5 mɔ/<sup>泰兴</sup>, /sɿ5 mɔ/<sup>泰县</sup></small> 仔细，小心<sup>\[泰县\]</sup><sup>\[泰兴\]</sup>：这合同你～的看看再签字。<sup>\[泰县\]</sup>｜你～点，不要把花瓶打掉lei<sup>\[泰兴\]</sup>  
 1. 【[细貌细貌，打点粮食不够送灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_mo_xi_mo.md#细貌细貌，打点粮食不够送灶)】`xi5 mo xi5 mo da3 din lian2 sheh8 beh7 geu5 son5 zo5` <small>/ɕʝ5 mɔ ɕʝ5 mɔ tɑ3 tĩ liɑŋ2 səʔ8 pəʔ7 kəɪ5 sɔŋ5 t͡sɔ5/<sup>泰兴</sup></small> 乡谚。谓种田不一定要细心。含戏谑意。后一句是“划皮打塘，囤子阻到屋梁”。<sup>\[泰兴\]</sup>  
 1. 【[细摩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_mu.md#细摩)】`xi5 mu` <sup>[如皋]</sup> 细致，仔细。  
 1. 【[细模细样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_mu_xi_ian.md#细模细样)】`xi5 mu2 xi5 ian6` <sup>[如皋]</sup> 瘦小。  
@@ -218,8 +216,7 @@
 1. 【[细伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_nga_r.md#细伢<sub>儿</sub>)】`xi5 nga2 r` <small>/ɕʝ5 ŋa˞2/<sup>如皋</sup>, /ɕʝ5 ŋɑ˞2/<sup>泰兴</sup></small> 小孩子<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰兴\]</sup>：来啊几个～。<sup>\[如东\]</sup>  
 1. 【[细伢<sub>儿</sub>吃泡泡糖——吞吞吐吐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_nga_r_qieh.md#细伢<sub>儿</sub>吃泡泡糖——吞吞吐吐)】`xi5 nga2 r qieh7 po1 po1 tan2 ten1 ten1 tv3 tv3` <sup>[东台]</sup>   
 1. 【[细伢<sub>儿</sub>嘴里套真言](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_nga_r_zuei.md#细伢<sub>儿</sub>嘴里套真言)】`xi5 nga2 r zuei3 lii to5 zhen1 in2` <small>/ɕʝ5 ŋɑ˞2 t͡suəɪ3 ləɪ tʰɔ5 t͡səŋ1 ĩ2/<sup>泰兴</sup></small> 谓小孩说的是真话，不会造假。<sup>\[泰兴\]</sup>  
-1. 【[细眼细孔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ngaen_xi_kon.md#细眼细孔)】`xi5 ngaen3 xi5 kon3` <sup>[如东]</sup> 形容面相好看，漂亮：这个姑娘～的，交关齐整。  
-1. 【[细眼细孔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ngaen_xi_kon.md#细眼细孔)】`xi5 ngaen3 xi5 kon3` <small>/ɕʝ5 ŋɛ̃3 ɕʝ5 kʰɔŋ3/<sup>泰兴</sup></small> 细小而匀称；很小。<sup>\[泰兴\]</sup>  
+1. 【[细眼细孔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ngaen_xi_kon.md#细眼细孔)】`xi5 ngaen3 xi5 kon3` <small>/ɕʝ5 ŋɛ̃3 ɕʝ5 kʰɔŋ3/<sup>泰兴</sup></small> ① 形容面相好看，漂亮。<sup>\[如东\]</sup>：这个姑娘～的，交关齐整。<sup>\[如东\]</sup> ② 细小而匀称；很小。<sup>\[泰兴\]</sup>  
 1. 【[细腻耷耷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ni_dah_dah.md#细腻耷耷)】`xi5 ni dah7 dah7` <sup>[泰县]</sup> 细腻：这个米粉碾得～的。  
 1. 【[细腻搭搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ni_daeh_daeh.md#细腻搭搭)】`xi5 ni6 daeh7 daeh7` <sup>[如东]</sup> ① 面粉细碎而有黏性：这碗糯米屑圆子～的，好吃。 ② 比喻人的皮肤柔软细嫩：兰兰的皮肤～的。  
 1. 【[细拈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_nin.md#细拈)】`xi5 nin` <sup>[如皋]</sup> 仔细，细致。  
@@ -522,8 +519,7 @@
 1. 【[削筷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiah_kuae_zz.md#削筷子)】`xiah7 kuae5 zz` <sup>[东台]</sup> ［喻］边做边丢：要跟踪服务，不能像～，一做一撂。  
 1. 【[削水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiah_shuei.md#削水)】`xiah7 shuei3` <small>/ɕiaʔ7 suei3/<sup>如皋</sup></small> ① 屋面坡度。<sup>\[如皋\]</sup> ② 屋面流过雨水的能力、速度。<sup>\[如皋\]</sup> ③ 倒掉一些水。<sup>\[如东\]</sup>：把碗口仄过来～。<sup>\[如东\]</sup> ④ 屋面坡度，表示排水能力。<sup>\[如东\]</sup>：～快。<sup>\[如东\]</sup>  
 1. 【[削子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiah_zz.md#削子)】`xiah7 zz` <sup>[兴化]</sup> （讽）专找借口沾光或吃白食的人：他是～，哪块有事他就跳啊去吃白大。  
-1. 【[学费](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiah_fei.md#学费)】`xiah8 fei5` <sup>[如东]</sup> ① 学校规定的学生在校学习应缴纳的费用。 ② 个人求学的费用。  
-1. 【[学费](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiah_fei.md#学费)】`xiah8 fei5` <small>/ɕiɑʔ8 fəɪ5/<sup>泰兴</sup></small> 学生上学应缴的贵用。<sup>\[泰兴\]</sup>  
+1. 【[学费](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiah_fei.md#学费)】`xiah8 fei5` <small>/ɕiɑʔ8 fəɪ5/<sup>泰兴</sup></small> ① 个人求学的费用。<sup>\[如东\]</sup> ② 学生上学应缴的贵用。<sup>\[泰兴\]</sup><sup>\[如东\]</sup>  
 1. 【[学狗爬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiah_geu_pa.md#学狗爬)】`xiah8 geu3 pa2` <sup>[泰州]</sup> 比喻不惜一切代价：不管多难，哪怕你～，三个月也要学会。  
 1. 【[学乖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiah_guae.md#学乖)】`xiah8 guae1` ① 学习他人经验<sup>\[泰州\]</sup>：安排你同老李去谈这笔生意，明白啊是让你跟吖老李后头～。<sup>\[泰州\]</sup> ② 学徒，在商店里学做买卖或者在作坊里学习技术<sup>\[泰州\]</sup>：你家爹爹十五岁就在人家澡堂子里～唻。<sup>\[泰州\]</sup>  
 1. 【[学馆钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiah_gun_qin.md#学馆钱)】`xiah8 gun qin2` <sup>[兴化]</sup> ① 旧时学生付给塾师的脩金。 ② 老辈口中的学费。  
@@ -722,8 +718,7 @@
 1. 【[相验](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_in.md#相验)】`xian5 in` <sup>[如皋]</sup> 官方验尸。  
 1. 【[相脚头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_jiah_teu.md#相脚头)】`xian5 jiah7 teu` <sup>[兴化]</sup> 盗贼察看路径，窥探动静，准备作案：史进喝道｜“李吉！张我庄内做甚么？莫不来～？”（《水浒传》二）  
 1. 【[相见](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_jin.md#相见)】`xian5 jin5` ① 看见 ② 看见。<sup>\[如东\]</sup>  
-1. 【[相命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_mien.md#相命)】`xian5 mien6` <sup>[兴化]</sup> （借）根据事理推断。  
-1. 【[相命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_mien.md#相命)】`xian5 mien6` <small>/ɕiɑŋ5 miŋ1/<sup>泰兴</sup></small> 算命；预测命运。<sup>\[泰兴\]</sup>  
+1. 【[相命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_mien.md#相命)】`xian5 mien6` <small>/ɕiaŋ5 miɪ̃6/<sup>兴化</sup>, /ɕiɑŋ5 miŋ1/<sup>泰兴</sup></small> ① （借）根据事理推断。<sup>\[兴化\]</sup> ② 算命；预测命运。<sup>\[泰兴\]</sup>  
 1. 【[相面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_min.md#相面)】`xian5 min6` <small>/ɕiaŋ5 miɪ̃6/<sup>兴化</sup></small> ① 观察人的相貌推测祸福。<sup>\[如东\]</sup>：王二是一个～先生。<sup>\[如东\]</sup> ② （借）根据事理推断<sup>\[兴化\]</sup>：我跟你～，你这碗饭怕吃不长吖。‖也作“相命”。<sup>\[兴化\]</sup>  
 1. 【[相貌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_mo.md#相貌)】`xian5 mo6` <sup>[如东]</sup> 人的容貌。  
 1. 【[相吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_nga.md#相吖)】`xian5 nga` <small>/ɕiaŋ5 ŋəʔ/<sup>兴化</sup></small> ① 看着，相当于明明是，后面接转折意<sup>\[东台\]</sup>：这许～干净，他却嫌脏。<sup>\[东台\]</sup> ② 明明的<sup>\[兴化\]</sup>：这个钱～是他拿啊去的，现在不承认，想赖哪个？<sup>\[兴化\]</sup>  
@@ -1228,8 +1223,7 @@
 1. 【[嫌逊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_suen.md#嫌逊)】`xin2 suen5` <sup>[如东]</sup> 质量差，不喜欢：这种东西我～。  
 1. 【[嫌恶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_v.md#嫌恶)】`xin2 v` <sup>[如皋]</sup> 恶嫌，厌恶。  
 1. 【[嫌相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_xian.md#嫌相)】`xin2 xian5` ① 讨嫌的样子<sup>\[东台\]</sup>：你不曾望见他～呢，赖在讲台上不下来。<sup>\[东台\]</sup> ② 令人厌恶的样子<sup>\[泰州\]</sup>：你望她这个～样子噢。<sup>\[泰州\]</sup>  
-1. 【[弦子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_zz.md#弦子)】`xin2 zz` <sup>[东台]</sup> 喻指事情的来龙去脉：才将你俫说到这个事情，我想倒一下～。  
-1. 【[弦子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_zz.md#弦子)】`xin2 zz` <small>/ɕĩ2 t͡sɿ/<sup>泰兴</sup></small> 弓弦、琴弦等。电灯、电话等电线也称“弦子”。<sup>\[泰兴\]</sup>  
+1. 【[弦子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_zz.md#弦子)】`xin2 zz` <small>/ɕĩ2 t͡sɿ/<sup>泰兴</sup></small> ① 喻指事情的来龙去脉<sup>\[东台\]</sup>：才将你俫说到这个事情，我想倒一下～。<sup>\[东台\]</sup> ② 弓弦、琴弦等。电灯、电话等电线也称“弦子”。<sup>\[泰兴\]</sup>  
 1. 【[贤德](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_deh.md#贤德)】`xin2 deh7` <sup>[如东]</sup> 德行好，良心善。  
 1. 【[贤惠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_huei.md#贤惠)】`xin2 huei6` ① 一般指妇女心地善良，待人和蔼。<sup>\[如东\]</sup> ② 指妇女心地善良，通情达理<sup>\[东台\]</sup>：他家新妇交关～。<sup>\[东台\]</sup>  
 1. 【[贤愚不等](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_y_beh_den.md#贤愚不等)】`xin2 y2 beh7 den3` <small>/ɕiɪ̃2 y2 pəʔ7 tən3/<sup>兴化</sup></small> ① 人有贤惠、粗野之分，不可能一样通情达理。<sup>\[东台\]</sup> ② 形容人色、人品参差不齐<sup>\[兴化\]</sup>：这吖多人在一块儿，～，好歹高低不同。<sup>\[兴化\]</sup> ③ 特指心术不正的人<sup>\[兴化\]</sup>：一旦有事，个别～的就想浑水摸鱼。<sup>\[兴化\]</sup>  

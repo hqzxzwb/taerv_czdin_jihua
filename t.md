@@ -1017,8 +1017,7 @@
 1. 【[笛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tieh_zz.md#笛子)】`tieh8 zz` <sup>[东台]</sup> 横吹的管乐器，用竹子制成，上面有一排供吹气、蒙笛膜和调节发音的孔。  
 1. 【[荻柴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tieh_shae_r.md#荻柴<sub>儿</sub>)】`tieh8 shae2 r` <small>/tʰiɪʔ8 t͡sʰɛ2 ɚ/<sup>兴化</sup>, /tʰiəʔ8 sɛ˞2/<sup>如皋</sup>, /tiɪʔ7 t͡sʰe2 ɚ/<sup>泰县</sup></small> ① 乌蓲。一种固岸草。禾本科多年生草本植物，茎叶有白粉。地下茎特别发达。<sup>\[如皋\]</sup> ② 见“红毛荻子”。<sup>\[兴化\]</sup> ③ 细而矮小的芦苇杆。<sup>\[泰县\]</sup>  
 1. 【[听](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien.md#听)】`tien1, tien3` <small>/tʰiŋ1/<sup>泰兴</sup></small> 量词。装食品、香烟等东西的小铁皮罐。<sup>\[泰兴\]</sup>：拿两～啤酒。<sup>\[泰兴\]</sup>  
-1. 【[停](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien.md#停)】`tien2` <small>/tʰiɪ̃2/<sup>兴化</sup></small> ① 遗体入殓或火化之前置于灵床上<sup>\[兴化\]</sup>：死人～吖家里三天火化的。<sup>\[兴化\]</sup> ② 旧称暂厝待葬<sup>\[兴化\]</sup>：棺材～吖大庙里。<sup>\[兴化\]</sup> ③ 总数几等份中的一份<sup>\[兴化\]</sup>：这项工程三～儿已经完成两～儿。<sup>\[兴化\]</sup>｜当晚闻达奔飞虎峪，计点军兵，三～去一。（《水浒传》六三）<sup>\[兴化\]</sup> ④ 停放尸体<sup>\[泰州\]</sup>：他家老的夜里走的，～吖在庙里。<sup>\[泰州\]</sup> ⑤ 总数分成几份当中的一份<sup>\[泰州\]</sup>：这条路五～做啊四～，顶多还有20天就完工。<sup>\[泰州\]</sup>  
-1. 【[停](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien.md#停)】`tien2` <small>/tʰiŋ2/<sup>泰兴</sup></small> 詈语，睡觉<sup>\[泰兴\]</sup>  
+1. 【[停](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien.md#停)】`tien2` <small>/tʰiɪ̃2/<sup>兴化</sup>, /tʰiŋ2/<sup>泰兴</sup></small> ① 遗体入殓或火化之前置于灵床上<sup>\[兴化\]</sup>：死人～吖家里三天火化的。<sup>\[兴化\]</sup> ② 旧称暂厝待葬<sup>\[兴化\]</sup>：棺材～吖大庙里。<sup>\[兴化\]</sup> ③ 总数几等份中的一份<sup>\[兴化\]</sup>：这项工程三～儿已经完成两～儿。<sup>\[兴化\]</sup>｜当晚闻达奔飞虎峪，计点军兵，三～去一。（《水浒传》六三）<sup>\[兴化\]</sup> ④ 停放尸体<sup>\[泰州\]</sup>：他家老的夜里走的，～吖在庙里。<sup>\[泰州\]</sup> ⑤ 总数分成几份当中的一份<sup>\[泰州\]</sup>：这条路五～做啊四～，顶多还有20天就完工。<sup>\[泰州\]</sup> ⑥ 詈语，睡觉<sup>\[泰兴\]</sup>  
 1. 【[停滞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_chr.md#停滞)】`tien2 chr5` <sup>[兴化]</sup> 饮食不消化，滞留胃中：“……旧年我病了，却是伤寒，内里饮食～……”（《红楼梦》五一）  
 1. 【[停床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_chuan.md#停床)】`tien2 chuan2` <small>/tʰiɪ̃2 t͡sʰuaŋ2/<sup>兴化</sup>, /tʰiŋ2 t͡sʰuɑŋ2/<sup>泰兴</sup></small> ① 一种民俗。一块木板或棺材盖，这就是停床。人死后，将尸体搁置在上面，称上停床。<sup>\[如东\]</sup> ② 停放尸体的床。也称“灵床”。<sup>\[兴化\]</sup> ③ 死者未入棺前停放的“床”。<sup>\[泰州\]</sup> ④ 骂人语。睡觉。<sup>\[泰兴\]</sup>  
 1. 【[停刻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_keh.md#停刻)】`tien2 keh7` <sup>[兴化]</sup> 过一会儿：你先走一步，我～就来。｜“～见了面就有喜信的”。（《官场现形记》三）  
@@ -1411,8 +1410,7 @@
 1. 【[垫工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_gon.md#垫工)】`tin6 gon1` <sup>[兴化]</sup> 临时代工：老王请假一个月，由老李～。  
 1. 【[垫规](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_guei.md#垫规)】`tin6 guei1` <sup>[东台]</sup> 相当于定金。是买方给卖方先支付一定数额金钱的保证方式。如买卖成交，定金则作为预付款；如不成交，则由违约方按定金额向对方赔偿。  
 1. 【[垫棺材](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_gun_cae.md#垫棺材)】`tin6 gun1 cae` <sup>[如皋]</sup> 喻抵命。  
-1. 【[垫棺材底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_gun_cae_di.md#垫棺材底)】`tin6 gun1 cae2 di3` <sup>[兴化]</sup> 本义为殉葬，引伸为偿命：“你把小媳妇逼死……拿你抵命，拿你～……”（《皮五辣子》三）  
-1. 【[垫棺材底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_gun_cae_di.md#垫棺材底)】`tin6 gun1 cae2 di3` <small>/tʰĩ1 kʊ̃1 t͡ɕʰiɛ2 t͡ɕʝ3/<sup>泰兴</sup></small> 抵命；偿命。多用于发狠的话。<sup>\[泰兴\]</sup>  
+1. 【[垫棺材底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_gun_cae_di.md#垫棺材底)】`tin6 gun1 cae2 di3` <small>/tʰiɪ̃6 kũ1 t͡sʰɛ2 təi3/<sup>兴化</sup>, /tʰĩ1 kʊ̃1 t͡ɕʰiɛ2 t͡ɕʝ3/<sup>泰兴</sup></small> ① 本义为殉葬，引伸为偿命<sup>\[兴化\]</sup>：“你把小媳妇逼死……拿你抵命，拿你～……”（《皮五辣子》三）<sup>\[兴化\]</sup> ② 抵命；偿命。多用于发狠的话。<sup>\[泰兴\]</sup>  
 1. 【[垫下子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_ha_zz.md#垫下子)】`tin6 ha6 zz` <small>/tʰĩ1 xɑ1 t͡sɿ/<sup>泰兴</sup></small> 暂时替人付钱。<sup>\[泰兴\]</sup>  
 1. 【[垫脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_jiah.md#垫脚)】`tin6 jiah7` <sup>[兴化]</sup> 找临时职业或住所：你初来乍到｜先找个事～，以后再求发展。也说“站脚”。  
 1. 【[垫肩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_jin.md#垫肩)】`tin6 jin1` <small>/tʰĩ1 t͡ɕĩ1/<sup>泰兴</sup></small> 挑或扛东西时放在肩膀上的垫子，用来減少摩擦，保护衣服和皮肤。<sup>\[泰兴\]</sup>  
@@ -1428,8 +1426,7 @@
 1. 【[挑拨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_buh.md#挑拨)】`tio1 buh7` <sup>[如东]</sup> 制造矛盾：～关系。  
 1. 【[挑舱板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_can_baen.md#挑舱板)】`tio1 can1 baen3` <sup>[兴化]</sup> 木船上盖舱口用的木板。  
 1. 【[挑草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_co.md#挑草)】`tio1 co3` <sup>[东台]</sup> 在以炊草为燃料的年代，专为用户送草上门的一种职业。  
-1. 【[挑刺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_cz.md#挑刺)】`tio1 cz5` <sup>[东台]</sup> ［喻］挑毛病。  
-1. 【[挑刺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_cz.md#挑刺)】`tio1 cz5` <small>/tʰiɔ1 t͡sʰɿ5/<sup>泰兴</sup></small> 挑除所戳的刺。喻寻找存在的问题。<sup>\[泰兴\]</sup>  
+1. 【[挑刺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_cz.md#挑刺)】`tio1 cz5` <small>/tʰiɔ1 t͡sʰɿ5/<sup>泰兴</sup></small> ① ［喻］挑毛病。<sup>\[东台\]</sup> ② 挑除所戳的刺。喻寻找存在的问题。<sup>\[泰兴\]</sup>  
 1. 【[挑刺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_cz_r.md#挑刺<sub>儿</sub>)】`tio1 cz5 r` <sup>[如东]</sup> 寻找问题：他就会～。  
 1. 【[挑担<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_daen_r.md#挑担<sub>儿</sub>)】`tio1 daen5 r` <sup>[如皋]</sup> ① 挑两筐杂、百货沿途叫卖。 ② 指一天只吃两顿。  
 1. 【[挑担挖沟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_daen_vaeh_geu.md#挑担挖沟)】`tio1 daen5 vaeh7 geu1` <sup>[兴化]</sup> （引）从享重体力劳动：春贵不能罱泥，也吃不消～，不能算大劳力……（钱国怀《潘家女》）  
@@ -1497,8 +1494,7 @@
 1. 【[斢肩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_jin.md#斢肩)】`tio3 jin1` <sup>[如皋]</sup> 换肩。  
 1. 【[斢戗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_qian.md#斢戗)】`tio3 qian5` <sup>[如皋]</sup> ① 通常指调整船帆的方向以接受风力。词典作“……弶” ② 处事中为适应新情势随时调正原有立场。  
 1. 【[斢生意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_shen_i.md#斢生意)】`tio3 shen1 i` <sup>[如皋]</sup> 照顾、光顾生意。使对方获得生意。  
-1. 【[誂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio.md#誂)】`tio3` <sup>[泰州]</sup> 以言语挑动、离间他人：就是这个马马儿～得人家婆媳两个不和。  
-1. 【[誂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio.md#誂)】`tio3` <small>/tʰiɔ3/<sup>泰兴</sup></small> 逗引，诱惑。<sup>\[泰兴\]</sup>  
+1. 【[誂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio.md#誂)】`tio3` <small>/tʰiɔ3/<sup>泰兴</sup></small> ① 以言语挑动、离间他人<sup>\[泰州\]</sup>：就是这个马马儿～得人家婆媳两个不和。<sup>\[泰州\]</sup> ② 逗引，诱惑。<sup>\[泰兴\]</sup>  
 1. 【[誂祸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_hu.md#誂祸)】`tio3 hu6` <small>/tʰiɔ3 xʊ1/<sup>如皋</sup>, /tʰiɔ3 xɤɯ1/<sup>泰兴</sup></small> ① 告诉，使受罚。<sup>\[如皋\]</sup> ② 背后说人坏话。<sup>\[如东\]</sup>：她又在～。<sup>\[如东\]</sup> ③ 制造矛盾。<sup>\[泰兴\]</sup>  
 1. 【[誂祸精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_hu_jien.md#誂祸精)】`tio3 hu6 jien1` <small>/tʰiɔ3 xʊ1 t͡ɕiəŋ1/<sup>如皋</sup></small> ① 詈语。专会誂祸的人。<sup>\[如皋\]</sup> ② 专门搬弄是非的人。<sup>\[东台\]</sup> ③ 喜欢在别人面前说人过错而挑拨别人关系的人。<sup>\[泰州\]</sup>  
 1. 【[粜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio.md#粜)】`tio5` <sup>[如东]</sup> 出卖。给：～你一笔生意。  
@@ -1972,8 +1968,7 @@
 1. 【[垛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#垛)】`tu6` <small>/tʰʊ1/<sup>如皋</sup>, /tʰɤɯ1/<sup>泰兴</sup></small> 地名通名。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>：狮子～、蒋家、迥家～、王家～。<sup>\[如皋\]</sup>｜梁～、何～。<sup>\[东台\]</sup>｜横～<sup>\[泰兴\]</sup>  
 1. 【[垛圪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_geh.md#垛圪)】`tu6 geh7` <sup>[兴化]</sup> 河潮中狭长的土丘：圩外地区，一匡匡稻田，一条条～，四周都是河港。  
 1. 【[垛田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_tin.md#垛田)】`tu6 tin2` <sup>[兴化]</sup> 兴化境内种植蔬菜杂粮的垛岸。一般四面或三面环水。  
-1. 【[垛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_zz.md#垛子)】`tu6 zz` <sup>[兴化]</sup> 河湖中的大土墩。  
-1. 【[垛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_zz.md#垛子)】`tu6 zz` <small>/tʰɤɯ1 t͡sɿ/<sup>泰兴</sup></small> 四面环水或四面低洼中间突出的部分。县域内作地名的颇多。如横垛、大元垛、张家垛等。<sup>\[泰兴\]</sup>  
+1. 【[垛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_zz.md#垛子)】`tu6 zz` <small>/tʰo6 t͡sɿ/<sup>兴化</sup>, /tʰɤɯ1 t͡sɿ/<sup>泰兴</sup></small> ① 河湖中的大土墩。<sup>\[兴化\]</sup> ② 四面环水或四面低洼中间突出的部分。县域内作地名的颇多。如横垛、大元垛、张家垛等。<sup>\[泰兴\]</sup>  
 1. 【[大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#大)】`tu6` <sup>[东台]</sup> ～小（大儿子）｜～爹（大爷）｜～婆娘（排行老大的女人）｜～拇指头（大拇指）。  
 1. 【[大板床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_baen_chuan.md#大板床)】`tu6 baen3 chuan2` <sup>[如皋]</sup> 见“牛栏床”。  
 1. 【[大爹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_dia.md#大爹)】`tu6 dia1` <sup>[东台]</sup> 大爷  

@@ -340,11 +340,9 @@
 1. 【[茶干<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_gun_r.md#茶干<sub>儿</sub>)】`cha2 gun1 r` <small>/t͡sʰa2 kʊ˞1/<sup>如皋</sup></small> ① 豆制品。豆腐脑用布包起来经过挤压变硬而成，块状，有白色的，也有酱色的。<sup>\[如东\]</sup> ② 黄豆制品。2cm见方的小块，用五香、茶叶、酱油及其它作料煮成。白蒲～为名特产。<sup>\[如皋\]</sup>  
 1. 【[茶馆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_gun.md#茶馆)】`cha2 gun3` <sup>[如皋]</sup> 旧时饮食店的通称。又分为清～、荤～、素～、清真～。  
 1. 【[茶馆搬家——另起炉灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_gun_bun_ga.md#茶馆搬家——另起炉灶)】`cha2 gun3 bun1 ga1 lien6 qi3 lv2 zo5` <sup>[东台]</sup>   
-1. 【[茶馆店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_gun_din.md#茶馆店)】`cha2 gun3 din5` <sup>[如皋]</sup> 见“茶馆”。  
-1. 【[茶馆店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_gun_din.md#茶馆店)】`cha2 gun3 din5` <small>/t͡sʰɑ2 kʊ̃3 tĩ5/<sup>泰兴</sup></small> 以售茶及小食为主的小店。<sup>\[泰兴\]</sup>  
+1. 【[茶馆店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_gun_din.md#茶馆店)】`cha2 gun3 din5` <small>/t͡sʰa2 kʊ̃3 tĩ5/<sup>如皋</sup>, /t͡sʰɑ2 kʊ̃3 tĩ5/<sup>泰兴</sup></small> ① 见“茶馆”。<sup>\[如皋\]</sup> ② 以售茶及小食为主的小店。<sup>\[泰兴\]</sup>  
 1. 【[茶花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_hua.md#茶花)】`cha2 hua1` <sup>[泰州]</sup> 山茶花。  
-1. 【[茶壶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_hv.md#茶壶)】`cha2 hv2` <sup>[如东]</sup> 茶具。圆形或棱形，有环和嘴，锡、铜或铁制，烧水用。  
-1. 【[茶壶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_hv.md#茶壶)】`cha2 hv2` <small>/t͡sʰɑ2 fʋ2/<sup>泰兴</sup></small> 装茶、泡茶之用具。<sup>\[泰兴\]</sup>  
+1. 【[茶壶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_hv.md#茶壶)】`cha2 hv2` <small>/t͡sʰɑ2 fʋ2/<sup>泰兴</sup></small> ① 茶具。圆形或棱形，有环和嘴，锡、铜或铁制，烧水用。<sup>\[如东\]</sup> ② 装茶、泡茶之用具。<sup>\[泰兴\]</sup>  
 1. 【[茶壶把子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_hv_ba_zz.md#茶壶把子)】`cha2 hv2 ba5 zz` <sup>[如东]</sup> 茶壶环。  
 1. 【[茶壶打掉把子——落个嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_hv_da_tio.md#茶壶打掉把子——落个嘴)】`cha2 hv2 da3 tio ba5 zz lah8 gu jy3` <sup>[东台]</sup>   
 1. 【[茶壶酒壶，马马虎虎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_hv_jieu_hv.md#茶壶酒壶，马马虎虎)】`cha2 hv2 jieu3 hv2 ma1 ma1 hv hv` <small>/t͡sʰɑ2 fʋ2 t͡ɕiɤɯ3 fʋ2 mɑ1 mɑ1 fʋ fʋ/<sup>泰兴</sup></small> 马虎。得过且过。<sup>\[泰兴\]</sup>  
@@ -359,8 +357,7 @@
 1. 【[茶叶蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ih_taen.md#茶叶蛋)】`cha2 ih8 taen6` <small>/t͡sʰɑ2 iʔ8 tʰɛ̃1/<sup>泰兴</sup></small> ① 先将鸡蛋煮熟，再把蛋壳敲裂，放进配有茶叶、八角、桂皮、香叶、酱油等作料的水中煮。色赭，味香。<sup>\[如东\]</sup> ② 和茶叶同煮的鸡蛋。<sup>\[泰州\]</sup> ③ 加茶叶、酱油、茴香等佐料煮熟的蛋。<sup>\[泰兴\]</sup>  
 1. 【[茶几](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ji.md#茶几)】`cha2 ji3` <small>/t͡sʰa2 t͡ɕʝ3/<sup>如皋</sup>, /t͡sʰɑ2 t͡ɕʝ3/<sup>泰兴</sup></small> ① 放置茶具的家具，比桌子小，多为长方形。<sup>\[如东\]</sup> ② 旧式家俱之一，椅子间放茶碗的几。<sup>\[如皋\]</sup> ③ 较矮的长条形家用器具，主要用于摆放茶杯果品之类以待客，故名。<sup>\[泰兴\]</sup>  
 1. 【[茶脚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_jiah_zz.md#茶脚子)】`cha2 jiah7 zz` <sup>[兴化]</sup> 茶具中剩下的茶水。  
-1. 【[茶硍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ken.md#茶硍)】`cha2 ken5` <sup>[东台]</sup> 茶具用久了洗得不干净，留下来的深褐色污垢。  
-1. 【[茶硍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ken.md#茶硍)】`cha2 ken5` <small>/t͡sʰɑ2 kʰəŋ5/<sup>泰兴</sup></small> 附于茶杯上的茶垢。<sup>\[泰兴\]</sup>  
+1. 【[茶硍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ken.md#茶硍)】`cha2 ken5` <small>/t͡sʰɑ2 kʰəŋ5/<sup>泰兴</sup></small> 茶垢<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[茶礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_li.md#茶礼)】`cha2 li3` <small>/t͡sʰɑ2 lʝ3/<sup>泰兴</sup></small> 旧俗缔结婚姻的聘礼。<sup>\[泰兴\]</sup>  
 1. 【[茶米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_mi.md#茶米)】`cha2 mi3` <small>/t͡sʰa2 mi3/<sup>兴化</sup></small> ① 糯米。<sup>\[如东\]</sup> ② 糯米。<sup>\[兴化\]</sup>  
 1. 【[茶米饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_mi_faen.md#茶米饭)】`cha2 mi3 faen6` <sup>[如东]</sup> 饭的一种。用糯米做成，香而具黏性，营养丰富。  
@@ -1116,8 +1113,7 @@
 1. 【[缠话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin_hua.md#缠话)】`chin6 hua6` <sup>[如皋]</sup> 事理糊涂不清的话。  
 1. 【[缠浑汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin_huen_tan.md#缠浑汤)】`chin6 huen2 tan1` <sup>[如东]</sup> 趁机纠缠：他在下～。  
 1. 【[缠蛮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin_maen.md#缠蛮)】`chin6 maen2` <small>/t͡sʰiɪ̃6 mɛ̃2/<sup>兴化</sup>, /t͡sʰĩ1 mẽ2/<sup>如皋</sup></small> ① 打扰、麻烦。<sup>\[如皋\]</sup> ② 因意思不清楚而胡乱猜测<sup>\[兴化\]</sup>：你不晓得哪码对哪码，覅瞎～。<sup>\[兴化\]</sup> ③ 胡搅蛮缠<sup>\[兴化\]</sup>：他明知自己的要求达不到，硬在这块～。<sup>\[兴化\]</sup>｜姑娘这个时候晓得，但有意在这块跟鲍老～……（扬一《扬州劫法场》）<sup>\[兴化\]</sup>  
-1. 【[缠七缠八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin_qieh_chin_baeh.md#缠七缠八)】`chin6 qieh7 chin6 baeh7` <sup>[如东]</sup> 纠缠不清：你不要在这许～。  
-1. 【[缠七缠八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin_qieh_chin_baeh.md#缠七缠八)】`chin6 qieh7 chin6 baeh7` <small>/t͡ɕʰĩ1 t͡ɕʰiəʔ7 t͡ɕʰĩ1 pæʔ7/<sup>泰兴</sup></small> 乱七八糟；理不清头绪。<sup>\[泰兴\]</sup>  
+1. 【[缠七缠八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin_qieh_chin_baeh.md#缠七缠八)】`chin6 qieh7 chin6 baeh7` <small>/t͡ɕʰĩ1 t͡ɕʰiəʔ7 t͡ɕʰĩ1 pæʔ7/<sup>泰兴</sup></small> ① 纠缠不清。<sup>\[如东\]</sup>：你不要在这许～。<sup>\[如东\]</sup> ② 乱七八糟；理不清头绪。<sup>\[泰兴\]</sup>  
 1. 【[缠穷事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin_qion_shr.md#缠穷事)】`chin6 qion2 shr6` <sup>[东台]</sup> 同“缠事”，语气更气愤：不能上的项目硬要上，～！  
 1. 【[缠神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin_shen.md#缠神)】`chin6 shen2` <small>/t͡ɕʰĩ1 səŋ2/<sup>泰兴</sup></small> 犹牵事，劳神。<sup>\[泰兴\]</sup>  
 1. 【[缠事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin_shr.md#缠事)】`chin6 shr6-1` <sup>[如东]</sup> 纠缠：不要～。  
@@ -1661,8 +1657,7 @@
 1. 【[春东风，雨祖宗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_don_fon_y.md#春东风，雨祖宗)】`chuen1 don1 fon1 y3 zv3 zon1` <small>/t͡sʰuəŋ1 tɔŋ1 fɔŋ1 y3 t͡su3 t͡sɔŋ1/<sup>泰兴</sup></small> 气象谚语。谓春天刮东风，阴雨天气将连绵不断。<sup>\[泰兴\]</sup>  
 1. 【[春二三月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_er_saen_iuh.md#春二三月)】`chuen1 er6 saen1 iuh8` <sup>[泰州]</sup> 农历二三月，春暖花开时节。  
 1. 【[春分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_fen.md#春分)】`chuen1 fen1` 二十四节气之一，通常在3月20日或21日。  
-1. 【[春风裂石头，不戴帽子裂额头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_fon_lih_sheh.md#春风裂石头，不戴帽子裂额头)】`chuen1 fon1 lih8 sheh8 teu beh7 dae5 mo6 zz lih8 ngeh8 teu` <sup>[东台]</sup> 春天要适当“焐”  
-1. 【[春风裂石头，不戴帽子裂额头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_fon_lih_sheh.md#春风裂石头，不戴帽子裂额头)】`chuen1 fon1 lih8 sheh8 teu beh7 dae5 mo6 zz lih8 ngeh8 teu` <small>/t͡sʰuəŋ1 fɔŋ1 liʔ8 səʔ8 tʰəɪ pəʔ7 tɛ5 mɔ1 t͡sɿ liʔ8 ŋəʔ8 tʰəɪ/<sup>泰兴</sup></small> 谓春风湿度小，极易干燥，容易引起皮肤干裂。<sup>\[泰兴\]</sup>  
+1. 【[春风裂石头，不戴帽子裂额头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_fon_lih_sheh.md#春风裂石头，不戴帽子裂额头)】`chuen1 fon1 lih8 sheh8 teu beh7 dae5 mo6 zz lih8 ngeh8 teu` <small>/t͡sʰuəŋ1 fɔŋ1 liʔ8 səʔ8 tʰəɪ pəʔ7 tɛ5 mɔ1 t͡sɿ liʔ8 ŋəʔ8 tʰəɪ/<sup>泰兴</sup></small> ① 春天要适当“焐”<sup>\[东台\]</sup> ② 谓春风湿度小，极易干燥，容易引起皮肤干裂。<sup>\[泰兴\]</sup>  
 1. 【[春风裂石头，春天裂额头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_fon_lih_sheh.md#春风裂石头，春天裂额头)】`chuen1 fon1 lih8 sheh8 teu chuen1 tin1 lih8 ngeh8 teu` <sup>[如皋]</sup> 春天春风干燥。  
 1. 【[春红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_hon.md#春红)】`chuen1 hon2` <sup>[如东]</sup> 春季生产的虾米，色红，蛋白质含量高，味鲜美。  
 1. 【[春荒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_huan.md#春荒)】`chuen1 huan1` <small>/t͡sʰuəŋ1 xuɑŋ1/<sup>泰兴</sup></small> 春季青黄不接时的饥荒。<sup>\[泰兴\]</sup>：度～<sup>\[泰兴\]</sup>  
@@ -1947,8 +1942,7 @@
 1. 【[草把<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_ba_r.md#草把<sub>儿</sub>)】`co3 ba3 r` <sup>[如东]</sup> 一扎草：你往锅膛里送个～。  
 1. 【[草把人挂在城门口，三年也会说话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_ba_ren_gua.md#草把人挂在城门口，三年也会说话)】`co3 ba3 ren2 gua5 cae6 chen2 men2 keu3 saen1 nin2 ia3 huei6 shuh7 hua6` <sup>[东台]</sup> 见识多了，再笨的人也有知识。  
 1. 【[草把头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_ba_teu.md#草把头)】`co3 ba3 teu2` <small>/t͡sʰɔ3 pɑ3 tʰəɪ2/<sup>泰兴</sup></small> 大头鲢鱼的俗称。<sup>\[泰兴\]</sup>  
-1. 【[草包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_bo.md#草包)】`co3 bo1` <sup>[东台]</sup> ［喻］愚笨、粗俗的人。  
-1. 【[草包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_bo.md#草包)】`co3 bo1` <small>/t͡sʰɔ3 pɔ1/<sup>泰兴</sup></small> 比喻没有真才实学、说话行动莽撞粗鲁的人。<sup>\[泰兴\]</sup>  
+1. 【[草包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_bo.md#草包)】`co3 bo1` <small>/t͡sʰɔ3 pɔ1/<sup>泰兴</sup></small> ① ［喻］愚笨、粗俗的人。<sup>\[东台\]</sup> ② 比喻没有真才实学、说话行动莽撞粗鲁的人。<sup>\[泰兴\]</sup>  
 1. 【[草秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_chen.md#草秤)】`co3 chen5` <sup>[如皋]</sup> 旧时草行称草的大号杆秤，称量很大，由秤店专造。  
 1. 【[草船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_chun.md#草船)】`co3 chun2` <sup>[如皋]</sup> 运草的船。  
 1. 【[草镩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_cun.md#草镩)】`co3 cun5` <sup>[如皋]</sup> 见“草钩子”。  
@@ -1985,13 +1979,10 @@
 1. 【[草炉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_lv_zz.md#草炉子)】`co3 lv2 zz` <sup>[如皋]</sup> 烧草用的炉子。  
 1. 【[草路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_lv.md#草路)】`co3 lv6` <sup>[如皋]</sup> 江海边草田中由行人踏出的路。  
 1. 【[草莽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_man.md#草莽)】`co3 man3` <sup>[泰州]</sup> 落后愚昧、粗率冒失的人：这个小伙是个～，你同他说道理说不起来。  
-1. 【[草帽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_mo.md#草帽)】`co3 mo6` <sup>[如东]</sup> 用麦秸、关草等编成的帽子，有大边，夏天用来遮阳光。  
-1. 【[草帽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_mo.md#草帽)】`co3 mo6` <small>/t͡sʰɔ3 mɔ1/<sup>泰兴</sup></small> 也称“凉帽”。用麦秆等编成的帽子。式样繁多，夏日用来遮阳。<sup>\[泰兴\]</sup>  
+1. 【[草帽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_mo.md#草帽)】`co3 mo6` <small>/t͡sʰɔ3 mɔ1/<sup>泰兴</sup></small> ① 用麦秸、关草等编成的帽子，有大边，夏天用来遮阳光。<sup>\[如东\]</sup> ② 也称“凉帽”。用麦秆等编成的帽子。式样繁多，夏日用来遮阳。<sup>\[泰兴\]</sup>  
 1. 【[草帽<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_mo_r.md#草帽<sub>儿</sub>)】`co3 mo6 r` <sup>[如皋]</sup> 草帽。  
-1. 【[草屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_oh.md#草屋)】`co3 oh7` <sup>[如东]</sup> 以茅草苫盖屋面的房屋。  
-1. 【[草屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_oh.md#草屋)】`co3 oh7` <small>/t͡sʰɔ3 ɔʔ7/<sup>泰兴</sup></small> 以草作为上盖的房子，今已少见。<sup>\[泰兴\]</sup>  
-1. 【[草棚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_pon_zz.md#草棚子)】`co3 pon2 zz` <sup>[兴化]</sup> ① 用竹木等搭架子，上面覆盖芦䉬、笆和草用来遮蔽阳光和风雨。 ② 草屋。  
-1. 【[草棚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_pon_zz.md#草棚子)】`co3 pon2 zz` <small>/t͡sʰɔ3 pʰɔŋ2 t͡sɿ/<sup>泰兴</sup></small> 盖草的简易住房。<sup>\[泰兴\]</sup>  
+1. 【[草屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_oh.md#草屋)】`co3 oh7` <small>/t͡sʰɔ3 ɔʔ7/<sup>泰兴</sup></small> ① 以茅草苫盖屋面的房屋。<sup>\[如东\]</sup> ② 以草作为上盖的房子，今已少见。<sup>\[泰兴\]</sup>  
+1. 【[草棚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_pon_zz.md#草棚子)】`co3 pon2 zz` <small>/t͡sʰɔ3 pʰoŋ2 t͡sɿ/<sup>兴化</sup>, /t͡sʰɔ3 pʰɔŋ2 t͡sɿ/<sup>泰兴</sup></small> ① 用竹木等搭架子，上面覆盖芦䉬、笆和草用来遮蔽阳光和风雨。<sup>\[兴化\]</sup> ② 草屋。<sup>\[兴化\]</sup> ③ 盖草的简易住房。<sup>\[泰兴\]</sup>  
 1. 【[草匠收工——步步望下走](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_qian_sheu_gon.md#草匠收工——步步望下走)】`co3 qian6 sheu1 gon1 pv6 pv6 van6 ha6 zeu3` <sup>[东台]</sup>   
 1. 【[草席](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_qieh.md#草席)】`co3 qieh8` <sup>[如东]</sup> ① 用席草编织的席子。 ② 用芒棵编织的席子，主要用于晒粮和堆粮。  
 1. 【[草席子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_qieh_zz.md#草席子)】`co3 qieh8 zz` <sup>[如皋]</sup> 用席子草织的席子，卧具。  
@@ -2007,8 +1998,7 @@
 1. 【[草袋架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_tae_ga_zz.md#草袋架子)】`co3 tae6 ga5 zz` <sup>[如皋]</sup> 专门打草袋的木架。  
 1. 【[草滩潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_taen_cho.md#草滩潮)】`co3 taen1 cho2` <sup>[东台]</sup> ① 七潮水。因七湖与吃潮谐音，弶港人避讳七，又因此潮大，涨到有草的滩涂上故名。 ② 七潮水。渔民避讳语。因七有不吉利的色彩，又因这一潮很大，一直涨到草滩处，故取名“草滩潮”。  
 1. 【[草谈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_taen.md#草谈)】`co3 taen2` <sup>[如东]</sup> 说话不文雅。  
-1. 【[草塘泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_tan_ni.md#草塘泥)】`co3 tan2 ni2` <sup>[如皋]</sup> 将草置泥塘内，和以粪尿，加水，用泥密封数月后做成的肥料。  
-1. 【[草塘泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_tan_ni.md#草塘泥)】`co3 tan2 ni2` <small>/t͡sʰɔ3 tʰɑŋ2 nʝ2/<sup>泰兴</sup></small> 一种以杂草、杂灰、烂泥沤制的肥料。<sup>\[泰兴\]</sup>  
+1. 【[草塘泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_tan_ni.md#草塘泥)】`co3 tan2 ni2` <small>/t͡sʰɔ3 tʰã2 nʝ2/<sup>如皋</sup>, /t͡sʰɔ3 tʰɑŋ2 nʝ2/<sup>泰兴</sup></small> ① 将草置泥塘内，和以粪尿，加水，用泥密封数月后做成的肥料。<sup>\[如皋\]</sup> ② 一种以杂草、杂灰、烂泥沤制的肥料。<sup>\[泰兴\]</sup>  
 1. 【[草荡田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_tan_tin.md#草荡田)】`co3 tan6 tin2` <sup>[如皋]</sup> ① 浅湖淤积，杂草蓬生，尚未开垦的荒地。 ② 长满岸草的滩地、滩田。  
 1. 【[草荡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_tan_zz.md#草荡子)】`co3 tan6 zz` <sup>[如皋]</sup> 见“草荡田”。  
 1. 【[草𠫓咖来都是瘌子捆的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_teh_ga_lae.md#草𠫓咖来都是瘌子捆的)】`co3 teh7 ga lae2 du1 shr6 laeh8 zz kuen3 dii` <sup>[东台]</sup> 讽喻凭印象想当然的主观唯心论。  

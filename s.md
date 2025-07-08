@@ -426,8 +426,7 @@
 1. 【[㸺牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_ngeu.md#㸺牛)】`sha1 ngeu2` <small>/sa1 ŋei2/<sup>如皋</sup></small> ① 母牛。<sup>\[如皋\]</sup> ② 母黄牛<sup>\[泰州\]</sup>：这条老～耕田不行唻。<sup>\[泰州\]</sup>  
 1. 【[杉货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_hu.md#杉货)】`sha1 hu5` <sup>[兴化]</sup> 指竹编的篮子、笿子、淘箩、筛、蒸笼、火把等商品：～店。  
 1. 【[杉揦子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_laeh_zz.md#杉揦子)】`sha1 laeh8 zz` <small>/sa1 læʔ8 t͡sɿ/<sup>兴化</sup>, /sa1 leʔ8 t͡sɿ/<sup>如皋</sup></small> ① 木制的粗大的城门栅。俗说<sup>\[如皋\]</sup>：（你）力气大，到西门城外去扛～。<sup>\[如皋\]</sup> ② 由杉木条做成的栅栏<sup>\[兴化\]</sup>：（李逵）睁圆怪眼，倒竖虎须……便把～撧葱般拔断……（《水浒传》七四）<sup>\[兴化\]</sup>  
-1. 【[栅揦子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_laeh_zz.md#栅揦子)】`sha1 laeh8 zz` <sup>[如东]</sup> 用竹片或木条编织起来的围墙。  
-1. 【[栅揦子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_laeh_zz.md#栅揦子)】`sha1 laeh8 zz` <small>/sɑ1 læʔ8 t͡sɿ/<sup>泰兴</sup></small> 栅栏。用竹子或芦苇编成的类似篙笆的东西。<sup>\[泰兴\]</sup>  
+1. 【[栅揦子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_laeh_zz.md#栅揦子)】`sha1 laeh8 zz` <small>/sɑ1 læʔ8 t͡sɿ/<sup>泰兴</sup></small> ① 用竹片或木条编织起来的围墙。<sup>\[如东\]</sup> ② 栅栏。用竹子或芦苇编成的类似篙笆的东西。<sup>\[泰兴\]</sup>  
 1. 【[沙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha.md#沙)】`sha1` <small>/sa1/<sup>兴化</sup>, /sa1/<sup>泰县</sup></small> ① 细小的石粒。禾叶被虫咬过后出现小圆洞，称沙。<sup>\[如东\]</sup>：菜叶～。<sup>\[如东\]</sup> ② 形容惊惶失措的样子<sup>\[兴化\]</sup>：财务科长的问题一暴露，同案的几个头头全吓咖～啊。<sup>\[兴化\]</sup> ③ 滴漏：袋儿里的米～下来啊。<sup>\[泰县\]</sup> ④ 粒状物从容器中漏掉<sup>\[泰州\]</sup>：箩上有个洞，黄沙都～掉啊。袋子破啊啦，米～～的。<sup>\[泰州\]</sup> ⑤ 液体向下流淌<sup>\[泰州\]</sup>：感吖冒，清鼻涕～～的，揩啊不歇。<sup>\[泰州\]</sup>  
 1. 【[沙板田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_baen_tin.md#沙板田)】`sha1 baen3 tin2` <sup>[如皋]</sup> 沙壤中含沙多的田块。易板结，土质差。  
 1. 【[沙板土](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_baen_tv.md#沙板土)】`sha1 baen3 tv3` <sup>[如皋]</sup> 沙壤，易板结。  
@@ -481,8 +480,7 @@
 1. 【[痧子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_zz.md#痧子)】`sha1 zz` <sup>[如皋]</sup> 麻疹。  
 1. 【[砂场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_chan.md#砂场)】`sha1 chan2` <sup>[如东]</sup> 堆放黄沙、石子儿、瓜子片的场地。  
 1. 【[砂缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_gan.md#砂缸)】`sha1 gan1` <small>/sa1 kaŋ1/<sup>兴化</sup>, /sa1 kã1/<sup>如皋</sup></small> ① 径略大于深的无釉大缸。多用于制酱。<sup>\[如皋\]</sup> ② 缸的一种。陶制，比较粗糙。圆桶形，体积大。高120厘米，口径88厘米，底径65厘米。用以装物。<sup>\[如东\]</sup> ③ 盛东西的器物，底小口大，陶土烧制而成，不上釉。<sup>\[兴化\]</sup>  
-1. 【[砂锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_gu.md#砂锅)】`sha1 gu1` <sup>[如东]</sup> 锅的一种。砂泥制，圆形，有盖，有的有柄或环。有各种规格。用来焖菜或煎中药。  
-1. 【[砂锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_gu.md#砂锅)】`sha1 gu1` <small>/sɑ1 kɤɯ1/<sup>泰兴</sup></small> 用粘土为原料烧制成的锅。<sup>\[泰兴\]</sup>  
+1. 【[砂锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_gu.md#砂锅)】`sha1 gu1` <small>/sɑ1 kɤɯ1/<sup>泰兴</sup></small> ① 锅的一种。砂泥制，圆形，有盖，有的有柄或环。有各种规格。用来焖菜或煎中药。<sup>\[如东\]</sup> ② 用粘土为原料烧制成的锅。<sup>\[泰兴\]</sup>  
 1. 【[砂锅炒豆子——又跳又蹦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_gu_cho_teu.md#砂锅炒豆子——又跳又蹦)】`sha1 gu1 cho3 teu6 zz ieu6 tio5 ieu6 bon5` <sup>[东台]</sup>   
 1. 【[砂锅<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_gu_r.md#砂锅<sub>儿</sub>)】`sha1 gu1 r` <sup>[如皋]</sup> 浅帮的白砂海洋锅。  
 1. 【[砂䀇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_gv.md#砂䀇)】`sha1 gv1` <sup>[如皋]</sup> ① 高帮的梨形白砂海洋锅。 ② 子宫：～下来啊（子宫下垂）。 ③ 胃：医～（慢慢地吃）。  
@@ -491,8 +489,7 @@
 1. 【[砂礓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_jian.md#砂礓)】`sha1 jian1` <small>/sɑ1 t͡ɕiɑŋ1/<sup>泰兴</sup></small> 小而坚硬的砂粒。<sup>\[泰兴\]</sup>  
 1. 【[砂礓石子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_jian_sheh_zz.md#砂礓石子)】`sha1 jian1 sheh8 zz` <small>/sɑ1 t͡ɕiɑŋ1 səʔ8 t͡sɿ/<sup>泰兴</sup></small> 很小的砂石块<sup>\[泰兴\]</sup>：把～拣掉<sup>\[泰兴\]</sup>  
 1. 【[砂礓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_jian.md#砂礓)】`sha1 jian3` 土壤中生成的石灰质结核体，多为碳酸钙与土粒结合而成，表面粗糙，不透水，一般呈颗粒状，稍大者呈块状<sup>\[泰州\]</sup>：你淘的米，里头的～都不曾拣得干净。<sup>\[泰州\]</sup>  
-1. 【[砂礓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_jian_r.md#砂礓<sub>儿</sub>)】`sha1 jian3 r` <sup>[东台]</sup> 夹在粮食里的沙粒等杂物。  
-1. 【[砂礓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_jian_r.md#砂礓<sub>儿</sub>)】`sha1 jian3 r` <small>/sa1 t͡ɕiaŋ3 ɚ/<sup>兴化</sup>, /sa1 t͡ɕia˞3/<sup>如皋</sup></small> ① 混在粮食、鞋内的石、砖、瓷、玻璃等的小颗粒。<sup>\[如皋\]</sup> ② 沙土中的细小石块、杂在米中的砂粒。<sup>\[兴化\]</sup>  
+1. 【[砂礓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_jian_r.md#砂礓<sub>儿</sub>)】`sha1 jian3 r` <small>/sa1 t͡ɕiaŋ3 ɚ/<sup>兴化</sup>, /sa1 t͡ɕia˞3/<sup>如皋</sup></small> ① 夹在粮食里的沙粒等杂物。<sup>\[东台\]</sup> ② 混在粮食、鞋内的石、砖、瓷、玻璃等的小颗粒。<sup>\[如皋\]</sup> ③ 沙土中的细小石块、杂在米中的砂粒。<sup>\[兴化\]</sup>  
 1. 【[砂码礓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_ma_jian.md#砂码礓)】`sha1 ma jian3` <sup>[泰州]</sup> 石灰质的碎石颗粒：你淘的甚的米？淘箩里头的～都不曾拣得清。  
 1. 【[砂码礓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_ma_jian_r.md#砂码礓<sub>儿</sub>)】`sha1 ma3 jian3 r` <sup>[兴化]</sup> 见“砂礓儿”。  
 1. 【[砂囊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_nan.md#砂囊)】`sha1 nan2` <sup>[如皋]</sup> 禽胃。  
@@ -1147,8 +1144,7 @@
 1. 【[实心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_xien.md#实心)】`sheh8 xien1` ① 物体中间无孔，称实心。<sup>\[如东\]</sup> ② 圆子之类未包馅心<sup>\[泰州\]</sup>：～圆子。<sup>\[泰州\]</sup> ③ 萝卜的肉因水分充足而没有隙孔<sup>\[泰州\]</sup>：这个萝卜是才走田里扯上来的，个个～。<sup>\[泰州\]</sup>  
 1. 【[实心果<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_xien_gu_r.md#实心果<sub>儿</sub>)】`sheh8 xien1 gu3 r` <sup>[如皋]</sup> ① 童身：他是个～，至今不曾结过婚。 ② 状敦实：这小伙浑身是肉，是个～。 ③ 状纯真、单一：他是～，待你好就是真好，没得任何虚情假意。  
 1. 【[实心馒头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_xien_mun_teu.md#实心馒头)】`sheh8 xien1 mun2 teu` <sup>[如皋]</sup> 无馅馒头。有多种形制。  
-1. 【[实心墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_xien_qian.md#实心墙)】`sheh8 xien1 qian2` <sup>[如东]</sup> 用平砖砌成的墙称实心墙。  
-1. 【[实心墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_xien_qian.md#实心墙)】`sheh8 xien1 qian2` <small>/səʔ8 ɕiŋ1 t͡ɕʰiɑŋ2/<sup>泰兴</sup></small> 填满泥、碎砖的墙壁。<sup>\[泰兴\]</sup>  
+1. 【[实心墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_xien_qian.md#实心墙)】`sheh8 xien1 qian2` <small>/səʔ8 ɕiŋ1 t͡ɕʰiɑŋ2/<sup>泰兴</sup></small> ① 用平砖砌成的墙称实心墙。<sup>\[如东\]</sup> ② 填满泥、碎砖的墙壁。<sup>\[泰兴\]</sup>  
 1. 【[实心实意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_xien_sheh_i.md#实心实意)】`sheh8 xien1 sheh8 i5` <small>/səʔ8 ɕin1 səʔ8 i5/<sup>兴化</sup></small> 真心诚意<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：我倒是～地想帮他，可他就是不领情。<sup>\[兴化\]</sup>｜老周人厚道，待哪个人都是～的。<sup>\[泰州\]</sup>  
 1. 【[实心肚脐眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_xien_tv_qi.md#实心肚脐眼<sub>儿</sub>)】`sheh8 xien1 tv6 qi2 ngaen3 r` <sup>[东台]</sup> ① 指心地诚实：我是个～，你不要同我来虚的。 ② 心中无鬼，别无用心。  
 1. 【[实信](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_xien.md#实信)】`sheh8 xien5` <small>/səʔ8 ɕin5/<sup>兴化</sup>, /səʔ8 ɕiəŋ5/<sup>如皋</sup></small> ① 真实可靠的信息<sup>\[如皋\]</sup>：夜，她一直等到～才睡的。<sup>\[如皋\]</sup> ② 确实的消息<sup>\[兴化\]</sup>：至今没得～，心焦得很。<sup>\[兴化\]</sup>｜“……半路上遇着跟随军士，将此铜棍还我方得～……”（《说岳金传》七五）<sup>\[兴化\]</sup>  
@@ -2061,8 +2057,7 @@
 1. 【[诗文跩跩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_ven_zhuae_zhuae.md#诗文跩跩)】`shr1 ven2 zhuae3 zhuae3` <sup>[泰州]</sup> 说话有意夹杂古人诗句、文言而很自得的样子：这小伙是个甚的人吖，你同他谈个心，他都～的，就像学问大煞咖。  
 1. 【[弛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr.md#弛)】`shr2` <small>/sɿ2/<sup>如皋</sup>, /sɿ2/<sup>泰县</sup></small> ① 松垂<sup>\[如皋\]</sup>：房粱后角～下来啊。<sup>\[如皋\]</sup> ② 下沉<sup>\[如皋\]</sup>：磉棵墩儿～下去啊。<sup>\[如皋\]</sup> ③ 踩空<sup>\[如皋\]</sup>：脚下～啊下子。<sup>\[如皋\]</sup> ④ 松下来<sup>\[东台\]</sup>：门～啊劲。<sup>\[东台\]</sup> ⑤ 下沉<sup>\[东台\]</sup>：门窝子～下来啊。<sup>\[东台\]</sup> ⑥ 东西微微下陷。<sup>\[泰县\]</sup> ⑦ 物体中间部分凹陷下沉<sup>\[泰州\]</sup>：棚子漏雨，地下漏啊潮啊，中间的柱子都～下去啊。<sup>\[泰州\]</sup>｜缸里的咸菜弄石头一压，～啊好些下去啊。<sup>\[泰州\]</sup>  
 1. 【[弛啊空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_a_kon.md#弛啊空)】`shr2 a kon5` <sup>[东台]</sup> 指脚踩在空处，或东西未打中目标，打在空处：他一脚～，跌咖个跟头。  
-1. 【[弛腰落㧟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_io_lah_kuae.md#弛腰落㧟)】`shr2 io1 lah8 kuae3` <sup>[泰县]</sup> ① 衣服不合身。 ② 指人言行不规范：他就是这吖一个～的人。  
-1. 【[弛腰落擓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_io_lah_kuae.md#弛腰落擓)】`shr2 io1 lah8 kuae3` <sup>[泰州]</sup> 衣服肥大导致腰部凹进就像下垂旗帜一样：你家爸爸多胖吖唻，他的衣裳你就能穿吖？你穿吖身上～的，还不快点脱咖来。  
+1. 【[弛腰落㧟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_io_lah_kuae.md#弛腰落㧟)】`shr2 io1 lah8 kuae3` <small>/sɿ2 iɔ1 nɑʔ8 kʰue3/<sup>泰县</sup></small> ① 衣服不合身。<sup>\[泰县\]</sup> ② 指人言行不规范<sup>\[泰县\]</sup>：他就是这吖一个～的人。<sup>\[泰县\]</sup> ③ 衣服肥大导致腰部凹进就像下垂旗帜一样<sup>\[泰州\]</sup>：你家爸爸多胖吖唻，他的衣裳你就能穿吖？你穿吖身上～的，还不快点脱咖来。<sup>\[泰州\]</sup>  
 1. 【[时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr.md#时)】`shr2` <small>/sɿ2/<sup>兴化</sup></small> ① 计时单位，等于一个平均太阳日的二十四分之一。<sup>\[如东\]</sup> ② 时运。<sup>\[兴化\]</sup>：谚曰：有～猫儿凶似虎，失时凤凰不如鸡。<sup>\[兴化\]</sup>  
 1. 【[时不时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_beh_shr.md#时不时)】`shr2 beh7 shr2` <small>/sɿ2 pəʔ7 sɿ2/<sup>兴化</sup>, /sɿ2 pəʔ7 sɿ2/<sup>泰兴</sup></small> ① 时常<sup>\[东台\]</sup>：他～来逛逛。<sup>\[东台\]</sup> ② 经常、时常<sup>\[兴化\]</sup>：他～的光顾娱乐场所。<sup>\[兴化\]</sup> ③ 时间不固定的，不止一次的<sup>\[泰州\]</sup>：这几个老同学～的聚一次。<sup>\[泰州\]</sup> ④ 时时，经常。<sup>\[泰兴\]</sup>：他～的到我箇许耍耍<sup>\[泰兴\]</sup>  
 1. 【[时不时的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_beh_shr_dii.md#时不时的)】`shr2 beh7 shr2 dii` <sup>[如皋]</sup> 经常地，不定期的。  
@@ -2223,8 +2218,7 @@
 1. 【[耍派头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_pae_teu.md#耍派头)】`shua3 pae5 teu` <small>/suɑ3 pʰɛ5 tʰəɪ/<sup>泰兴</sup></small> 显示自己的威势或气派。<sup>\[泰兴\]</sup>  
 1. 【[耍气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_qi.md#耍气)】`shua3 qi` <sup>[如皋]</sup> 油滑、难以驾驭：三轮车的龙头～；这小伙～，你难用得动他，就是用吖也不能得心应手。  
 1. 【[耍趣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_qy.md#耍趣)】`shua3 qy` <sup>[兴化]</sup> 形容言语、动作灵活敏捷：她做事蛮～的。  
-1. 【[耍耍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_shua.md#耍耍)】`shua3 shua` <sup>[如皋]</sup> ① 玩玩，散步。休息休息。 ② 漫谈、谈心、开玩笑、戏弄的代称。  
-1. 【[耍耍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_shua.md#耍耍)】`shua3 shua` <small>/suɑ3 suɑ/<sup>泰兴</sup></small> 玩玩，玩耍。<sup>\[泰兴\]</sup>  
+1. 【[耍耍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_shua.md#耍耍)】`shua3 shua` <small>/sua3 sua/<sup>如皋</sup>, /suɑ3 suɑ/<sup>泰兴</sup></small> ① 玩玩，散步。休息休息。<sup>\[如皋\]</sup> ② 漫谈、谈心、开玩笑、戏弄的代称。<sup>\[如皋\]</sup> ③ 玩玩，玩耍。<sup>\[泰兴\]</sup>  
 1. 【[耍无赖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_v_lae.md#耍无赖)】`shua3 v2 lae6` <sup>[东台]</sup> 使用放讹、撒泼、装病等蛮不讲理的手段闹事。  
 1. 【[耍务烟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_v_in.md#耍务烟)】`shua3 v6 in1` <sup>[东台]</sup> 抽烟只是抽着玩，没上瘾。  
 1. 【[耍心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shua_xien.md#耍心)】`shua3 xien` <small>/suɑ3 ɕiŋ/<sup>泰兴</sup></small> 玩心<sup>\[泰兴\]</sup>  
