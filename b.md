@@ -1158,6 +1158,7 @@
 1. 【[槟榔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_lan.md#槟榔)】`bien1 lan2` ① 穿在牛鼻子中的木棍或铜棍，一头系绳，供牵牛用。<sup>\[如东\]</sup> ② 常绿乔木，树干很高，羽状复叶。果实可以吃，也供药用。<sup>\[东台\]</sup>  
 1. 【[𧏖山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_shaen.md#𧏖山)】`bien1 shaen1` <sup>[如东]</sup> 掘港的雅称。据《如皋县志》记载，古时，掘港西北部有一座由蛼蛤壳堆积起来的小山，在阳光照耀下，闪烁升腾，犹如珍珠，故称𧏖山。  
 1. 【[丙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien.md#丙)】`bien3` <sup>[东台]</sup> 天干的第三位。  
+1. 【[丙弓理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_gon_li.md#丙弓理)】`bien3 gon1 li3` <sup>[泰县]</sup> 歪理。  
 1. 【[比](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien.md#比)】`bien3` <sup>[如皋]</sup> 比，避讳音，介词：事情做啊成吖功～吃肉总快活些。  
 1. 【[饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien.md#饼)】`bien3` <sup>[如皋]</sup> 量词，计数饼形物品：一～蚊烟香；一～带子。  
 1. 【[饼肥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_fei.md#饼肥)】`bien3 fei2` <sup>[东台]</sup> 豆饼、棉籽饼、菜籽饼、花生饼等肥料的通称。  
@@ -1265,7 +1266,6 @@
 1. 【[扁担肩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_daen_jin_zz.md#扁担肩子)】`bin3 daen5 jin1 zz` <sup>[如东]</sup> 扁担两端的装置，木扁担钉两根桩儿，竹扁担做成蘑姑形，起阻止扁担绳滑脱作用。  
 1. 【[扁担绳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_daen_shen.md#扁担绳)】`bin3 daen5 shen2` <sup>[如东]</sup> 专用麻绳，一头粗，一头细，粗的一头系着钩子。  
 1. 【[扁弓理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_gon_li.md#扁弓理)】`bin3 gon1-goh7 li3` <sup>[泰州]</sup> 歪理：你的车子撞吖人家，不同人家上医院看，还要人家赔你的车子，这是讲的哪一家的～！｜凡事有个先来后到，你在人家后头来的，还讲～怪人家不让你先买，真不曾见过像你这吖不讲理的人。  
-1. 【[扁弓理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_gon_li.md#扁弓理)】`bin3 gon1 li3` <sup>[泰县]</sup> 歪理。  
 1. 【[扁螂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_lan.md#扁螂)】`bin3 lan` <small>/pĩ3 lã/<sup>如皋</sup>, /piɪ̃3 nɑŋ/<sup>泰县</sup></small> ① 温带臭虫。昆虫纲，半翅目。<sup>\[如皋\]</sup> ② 臭虫。<sup>\[泰县\]</sup>  
 1. 【[扁螂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_lan.md#扁螂)】`bin3 lan2` <small>/piɪ̃3 nɑŋ2/<sup>泰县</sup></small> ① 一种臭虫，体呈扁形，寄生在居室环境中，吸人血的害虫。<sup>\[东台\]</sup> ② 臭虫：床上有～。<sup>\[泰县\]</sup>  
 1. 【[扁毛畜牲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_mo_choh_shen.md#扁毛畜牲)】`bin3 mo2 choh7 shen` <sup>[如皋]</sup> 指禽类。  
