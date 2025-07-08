@@ -876,7 +876,7 @@
 1. 【[漏春年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_chuen_nin.md#漏春年)】`leu6 chuen1 nin2` <sup>[东台]</sup> 春节后才立春的年头。  
 1. 【[漏单](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_daen.md#漏单)】`leu6 daen1` <small>/lɤ6 tɛ̃1/<sup>兴化</sup></small> ① 落单，一人独处或单人行路<sup>\[兴化\]</sup>：你覅凶，等你哪天子～狠狠𢪎你一顿。<sup>\[兴化\]</sup> ② 个人离开群体。<sup>\[兴化\]</sup>  
 1. 【[漏斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_deu.md#漏斗)】`leu6 deu3` <sup>[如东]</sup> 由一个锥形的斗和一根管子构成，能够把液体或颗粒、粉末灌进小口容器里。  
-1. 【[漏缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_fon.md#漏缝)】`leu6 fon6` <sup>[兴化]</sup> 缝隙：板壁上有几处，透过光来。  
+1. 【[漏缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_fon.md#漏缝)】`leu6 fon6` <sup>[兴化]</sup> 缝隙：板壁上有几处～，透过光来。  
 1. 【[漏嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_jy.md#漏嘴)】`leu6 jy3` <sup>[东台]</sup> 不留神透露了秘密。  
 1. 【[漏口风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_keu_fon.md#漏口风)】`leu6 keu3 fon1` <sup>[兴化]</sup> 出言不慎，走漏了消息：有人～，说我俫单位不久要撤并。  
 1. 【[漏眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_ngaen.md#漏眼)】`leu6 ngaen3` <sup>[兴化]</sup> 避人的事情或珍藏的钱物被别人发现：你的钱漏啊小偷的眼，不捱偷才怪唻！  

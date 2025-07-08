@@ -1274,7 +1274,7 @@
 1. 【[面抽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_cheu.md#面抽)】`min6 cheu1` <sup>[如皋]</sup> 酱油的一种。甜面酱的缸中，“抽”篓抽出的乳液，味鲜甜。  
 1. 【[面店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_din.md#面店)】`min6 din5` <sup>[如皋]</sup> ① 制售面条的店家。 ② 卖煮面条、馄饨等的店家。  
 1. 【[面腐盆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_fv_pen.md#面腐盆)】`min6 fv3 pen2` <sup>[泰县]</sup> 糊涂人。  
-1. 【[面疙瘩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_geh_daeh.md#面疙瘩)】`min6 geh7 daeh` <small>/mĩ1 kəʔ7 tæʔ/<sup>泰兴</sup></small> 食品。以面粉调和作成的块状物。<sup>\[泰兴\]</sup>  
+1. 【[面疙瘩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_geh_daeh.md#面疙瘩)】`min6 geh7 daeh` <small>/mĩ1 kəʔ7 tæʔ/<sup>泰兴</sup></small> 食品。以面粉调和作成的块状物。煮熟即食，方便实在。<sup>\[泰兴\]</sup>  
 1. 【[面光光的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_guan_guan_dii.md#面光光的)】`min6 guan1 guan1 dii` <sup>[泰州]</sup> 没有一点面子，因觉羞愧而觉难堪：前两天我还同她说咖两句，大家心里都不开心，你教我现在去请她，～，你还是教旁的人去同她说吧。  
 1. 【[面花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hua.md#面花)】`min6 hua1` <sup>[如皋]</sup> 杆秤向上一面的秤星。  
 1. 【[面黄肌瘦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_huan_ji_sheu.md#面黄肌瘦)】`min6 huan2 ji1 sheu5` <sup>[如东]</sup> 形容病情沉重：只见他～的，恐怕不行4。  
@@ -1295,6 +1295,7 @@
 1. 【[面筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_jien.md#面筋)】`min6 jien1` <small>/mĩ1 t͡ɕiŋ1/<sup>泰兴</sup></small> 食品，洗去面中的淀粉，余下的蛋白质<sup>\[泰兴\]</sup>\[如东：小麦面和麸皮入水揉洗后所获得的胶黏状物质。\]\[泰州：用小麦面粉加水拌和，洗去其中所含淀粉，剩下凝结成团的混合蛋白质就是面筋\]\[东台：用面粉加水拌和，洗去其中所含淀粉，剩下的混合蛋白质。\]：老太吃素，你还不如买点儿～送把他得济。<sup>\[泰州\]</sup>  
 1. 【[面筋黐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_jien_chr.md#面筋黐)】`min6 jien1 chr1` <sup>[泰县]</sup> 用米麦制成的粘合剂  
 1. 【[面筋泡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_jien_po_r.md#面筋泡<sub>儿</sub>)】`min6 jien1 po1 r` <sup>[如皋]</sup> 油发面筋，泡若圆球，内可衬肉糜馅。  
+1. 【[面孔理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_kon_li.md#面孔理)】`min6 kon li3` <small>/mĩ1 kʰɔŋ lʝ3/<sup>泰兴</sup></small> 蛮理，歪理。<sup>\[泰兴\]</sup>  
 1. 【[面愧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_kuei.md#面愧)】`min6 kuei5` <sup>[兴化]</sup> 感到惭愧：自己做啊对不起人的事，有点～。  
 1. 【[面磕地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_kuh_ti.md#面磕地)】`min6 kuh7 ti6` <small>/miɪ̃6 kʰuʔ7 tʰəi6/<sup>兴化</sup>, /mĩ1 kʰʊʔ7 tʰʝ1/<sup>如皋</sup>, /mĩ1 kʰʊʔ7 t͡ɕʰʝ1/<sup>泰兴</sup></small> ① 俯跌。<sup>\[如皋\]</sup> ② 身体向前跌倒，面部接触到地面<sup>\[兴化\]</sup>：他由于用力过猛，向前一个～，跌得满嘴流血。<sup>\[兴化\]</sup> ③ 摔跤时面部着地。<sup>\[泰兴\]</sup>  
 1. 【[面磕地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_kuh_ti.md#面磕地)】`min6 kuh8 ti6` <sup>[东台]</sup> 也叫“狗吃屎”，指面部朝下跌了个跟头。  
@@ -1306,6 +1307,7 @@
 1. 【[面盆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_pen.md#面盆)】`min6 pen2` <small>/miɪ̃6 pʰən2/<sup>兴化</sup>, /miɪ̃1 pʰəŋ2/<sup>泰县</sup></small> 洗脸盆<sup>\[兴化\]</sup><sup>\[泰县\]</sup>：（潘金莲）慌忙去～里洗落了胭粉。（《水浒传》二六）<sup>\[兴化\]</sup>  
 1. 【[面皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_pi.md#面皮)】`min6 pi2` <small>/miɪ̃6 pʰi2/<sup>兴化</sup></small> ① 人脸上的皮肤。<sup>\[如东\]</sup> ② 面子。<sup>\[如东\]</sup>：不要～。<sup>\[如东\]</sup> ③ 面食的一种。小麦糏加工成片状，放人开水中煮熟。<sup>\[如东\]</sup> ④ 肤色、表情<sup>\[兴化\]</sup>：白净～<sup>\[兴化\]</sup>｜紫棠色～！张都监看了大怒，变了～。（《水浒传》三十）<sup>\[兴化\]</sup> ⑤ 情面、脸面<sup>\[兴化\]</sup>：“（小人）凭托柴大官人～，径投大寨入伙……”（《水浒传》十一）<sup>\[兴化\]</sup>｜幸亏他这副～还生得既厚且老……（《广陵南》七十）<sup>\[兴化\]</sup>  
 1. 【[面盘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_pun_z.md#面盘子)】`min6 pun3 z` 脸，面孔。  
+1. 【[面墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_qian.md#面墙)】`min6 qian2` <small>/mĩ1 t͡ɕʰiɑŋ2/<sup>泰兴</sup></small> 房屋朝前的墻。<sup>\[泰兴\]</sup>  
 1. 【[面情账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_qien_zhan.md#面情账)】`min6 qien zhan5` <small>/mĩ1 t͡ɕʰiŋ t͡sɑŋ5/<sup>泰兴</sup></small> 同“面子帐”。<sup>\[泰兴\]</sup>  
 1. 【[面情难下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_qien_naen_xia.md#面情难下)】`min6 qien2 naen2 xia6` <small>/mĩ1 t͡ɕʰiŋ2 nɛ̃2 ɕiɑ1/<sup>泰兴</sup></small> 在面情上说不过去；下不了面子。<sup>\[泰兴\]</sup>  
 1. 【[面食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_sheh.md#面食)】`min6 sheh8` <small>/mĩ1 səʔ8/<sup>如皋</sup></small> ① 以小麦面为主的食品。<sup>\[如东\]</sup> ② 乾面食品的总称。<sup>\[如皋\]</sup>  

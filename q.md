@@ -992,16 +992,18 @@
 1. 【[清蒸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_zhen.md#清蒸)】`qien1 zhen1` <sup>[东台]</sup> 烹调法，清水文火䊳之。  
 1. 【[蜻蜓吃尾巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_tien_qieh_vei.md#蜻蜓吃尾巴)】`qien1 tien2 qieh7 vei3 ba` <sup>[兴化]</sup> （喻）自己花费，并非他人所请或施舍：谚曰：～——自吃自。  
 1. 【[轻巴轻巴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ba_qien_ba.md#轻巴轻巴的)】`qien1 ba1 qien1 ba1 dii` <sup>[如皋]</sup> 贬指轻浮的样子。  
+1. 【[轻重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_chon.md#轻重)】`qien1 chon6` <small>/t͡ɕʰiŋ1 t͡sʰɔŋ1/<sup>泰兴</sup></small> 比喻做事的适当程度。<sup>\[泰兴\]</sup>  
 1. 【[轻的哪一家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_dii_la_ieh.md#轻的哪一家)】`qien1 dii la3 ieh7 jia1` <sup>[如皋]</sup> 责语，叫对方不要轻浮。  
 1. 【[轻浮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_fv.md#轻浮)】`qien1 fv2` <sup>[如东]</sup> 举止轻佻，不稳重：太～啊。  
-1. 【[轻骨头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_gueh_teu.md#轻骨头)】`qien1 gueh7 teu` <small>/t͡ɕʰiəŋ1 kuəʔ7 tʰei/<sup>如皋</sup></small> 詈语\[如东：举止轻佻的人\]\[如皋：指人格低下。\]\[东台：指低贱、缺乏自尊的人。\]  
+1. 【[轻骨头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_gueh_teu.md#轻骨头)】`qien1 gueh7 teu` <small>/t͡ɕʰiəŋ1 kuəʔ7 tʰei/<sup>如皋</sup>, /t͡ɕʰiŋ1 kuəʔ7 tʰəɪ/<sup>泰兴</sup></small> 詈语\[如东：举止轻佻的人\]\[泰兴：举止轻浮的人\]\[如皋：指人格低下。\]\[东台：指低贱、缺乏自尊的人。\]  
 1. 【[轻好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ho.md#轻好)】`qien1 ho` 轻巧  
 1. 【[轻耗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ho.md#轻耗)】`qien1 ho` <sup>[如东]</sup> ① 花费力气较小：～活技。 ② 重量较轻：这种材料～。  
 1. 【[轻耗活技](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ho_huh_qi.md#轻耗活技)】`qien1 ho huh8 qi` <sup>[如东]</sup> 消耗体力比较小的劳动：锄草是～。  
 1. 【[轻会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_huei.md#轻会)】`qien1 huei6` <sup>[如皋]</sup> “请会”中，在后得到的会钱（得到的利息多）。  
-1. 【[轻言悄语](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_in_qio_y.md#轻言悄语)】`qien1 in2 qio1 y3` <sup>[兴化]</sup> 形容态度温和，说话语气平级：他对人说话～的，交关亲切。也说“轻言细语”。  
+1. 【[轻言悄语](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_in_qio_y.md#轻言悄语)】`qien1 in2 qio3 y3` <sup>[兴化]</sup> 形容态度温和，说话语气平级：他对人说话～的，交关亲切。也说“轻言细语”。  
+1. 【[轻言悄语](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_in_qio_y.md#轻言悄语)】`qien1 in2 qio3 y3` <small>/t͡ɕʰiŋ1 ĩ2 t͡ɕʰiɔ3 y3/<sup>泰兴</sup></small> 形容说话声音低而柔和。<sup>\[泰兴\]</sup>  
 1. 【[轻言小语](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_in_xio_y.md#轻言小语)】`qien1 in2 xio3 y3` <sup>[如东]</sup> 小声说话：妈妈对兰兰总是～地说话。  
-1. 【[轻容易](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ion_i.md#轻容易)】`qien1 ion2 i` <small>/t͡ɕʰin1 ioŋ2 i/<sup>兴化</sup></small> ① 轻易。<sup>\[如东\]</sup>：～不上街。<sup>\[如东\]</sup> ② 很容易地（多为否定用法）<sup>\[兴化\]</sup>：他住啊落乡，～不上城来。<sup>\[兴化\]</sup>｜（公明）把黄龙真人泥丸宫上用符印压住元神，～不得脱逃。（《封神演义》四七）<sup>\[兴化\]</sup> ③ 难得，不容易<sup>\[泰州\]</sup>：他这个人脾家好，～不同底下人发火。<sup>\[泰州\]</sup>  
+1. 【[轻容易](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ion_i.md#轻容易)】`qien1 ion2 i` <small>/t͡ɕʰin1 ioŋ2 i/<sup>兴化</sup>, /t͡ɕʰiŋ1 iɔŋ2 ʝ/<sup>泰兴</sup></small> ① 轻易。<sup>\[如东\]</sup>：～不上街。<sup>\[如东\]</sup> ② 很容易地（多为否定用法）<sup>\[兴化\]</sup>：他住啊落乡，～不上城来。<sup>\[兴化\]</sup>｜（公明）把黄龙真人泥丸宫上用符印压住元神，～不得脱逃。（《封神演义》四七）<sup>\[兴化\]</sup> ③ 难得，不容易<sup>\[泰州\]</sup>：他这个人脾家好，～不同底下人发火。<sup>\[泰州\]</sup> ④ 很容易。一般加“不”，表示否定。<sup>\[泰兴\]</sup>  
 1. 【[轻容易不](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ion_i_beh.md#轻容易不)】`qien1 ion2 i beh7` <small>/t͡ɕʰiəŋ1 iɔŋ2 ʝ pəʔ7/<sup>如皋</sup></small> ① 不轻易，难得。<sup>\[如皋\]</sup> ② 不容易，难得。<sup>\[如皋\]</sup>  
 1. 【[轻脚鬼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_jiah_guei_r.md#轻脚鬼<sub>儿</sub>)】`qien1 jiah7 guei3 r` <sup>[如皋]</sup> 昵指轻轻走来的人，轻手轻脚的人。  
 1. 【[轻嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_jy.md#轻嘴)】`qien1 jy3` <sup>[如东]</sup> 随便说话。  
@@ -1015,6 +1017,7 @@
 1. 【[轻薄货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_pah_hu.md#轻薄货)】`qien1 pah8 hu5` <sup>[如皋]</sup> 见“轻神货”。  
 1. 【[轻屁屁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_pi_pi.md#轻屁屁)】`qien1 pi5 pi5` <sup>[泰州]</sup> 夸张形容非常轻：包里不曾放多少东西，拎吖手上～，你笃定拎得动。  
 1. 【[轻飘飘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_pio_pio.md#轻飘飘)】`qien1 pio1 pio1` <sup>[泰州]</sup> ① 物体重量轻：担子不重，挑啊肩上～的。 ② 做某事不难：撑20个引体向上，还不是～的。 ③ 轻易造成某种情况：大家在会上研究定吖下来的事，捱他一句话就～的否决掉啊。  
+1. 【[轻飘飘的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_pio_pio_dii.md#轻飘飘的)】`qien1 pio1 pio1 dii` <small>/t͡ɕʰiŋ1 pʰiɔ1 pʰiɔ1 təɪ/<sup>泰兴</sup></small> 轻快灵活，轻松自在；重量很小。<sup>\[泰兴\]</sup>  
 1. 【[轻泡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_po.md#轻泡)】`qien1 po5` <sup>[兴化]</sup> 体积大，质量轻的货物：旧船只能装运糠、草之类的～货。  
 1. 【[轻轻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_qien_r.md#轻轻<sub>儿</sub>)】`qien1 qien r` <small>/t͡ɕʰiŋ1 t͡ɕʰiŋ ɚ/<sup>泰县</sup></small> 轻轻地<sup>\[泰县\]</sup><sup>\[泰州\]</sup>：隔壁上夜班的人在下睡觉，你下楼要～走。<sup>\[泰州\]</sup>｜他～走到她跟前，把她吓咖一跳。<sup>\[泰州\]</sup>  
 1. 【[轻轻毌毌的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_qien_kuaeh_kuaeh.md#轻轻毌毌的)】`qien1 qien1 kuaeh8 kuaeh8 dii` <sup>[如皋]</sup> 责语，指举止不庄重的样子。  
@@ -1026,6 +1029,7 @@
 1. 【[轻饶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ro.md#轻饶)】`qien1 ro2` <sup>[兴化]</sup> 轻易放过，不再追究或报复：你得罪啊他，决不会～你。｜世人度量狭窄，心术刻薄……莫说犯出不是来，他肯～了你！（《古今小说》六）也说“轻卖”。  
 1. 【[轻神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_shen.md#轻神)】`qien1 shen2` <small>/t͡ɕʰiəŋ1 səŋ2/<sup>如皋</sup></small> ① 轻浮、撒娇。<sup>\[如皋\]</sup> ② 举止轻佻。<sup>\[如东\]</sup>  
 1. 【[轻神货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_shen_hu.md#轻神货)】`qien1 shen2 hu5` <sup>[如皋]</sup> ① 詈语或昵语。指不庄重的人。 ② 指爱撒娇的人。  
+1. 【[轻手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_sheu.md#轻手)】`qien1 sheu3` <small>/t͡ɕʰiŋ1 ɕiɤɯ3/<sup>泰兴</sup></small> 动不动就以手击人或乱拿不应拿的东西。<sup>\[泰兴\]</sup>  
 1. 【[轻手掩脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_sheu_in_jiah.md#轻手掩脚)】`qien1 sheu3 in3 jiah7` <sup>[兴化]</sup> 形容用力小，动作轻：他下夜班家来～的上床睡觉。  
 1. 【[轻手轻脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_sheu_qien_jiah.md#轻手轻脚)】`qien1 sheu3 qien1 jiah7` ① 小心谨慎。<sup>\[如东\]</sup> ② 行走之时轻移步慢摇臂，留神不让手脚碰到物体而弄出响声，形容人行走时小心翼翼的样子<sup>\[泰州\]</sup>：他轻手轻脚的走到人跟前，把我吓咖一跳。<sup>\[泰州\]</sup>  
 1. 【[轻事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_shr.md#轻事)】`qien1 shr` <small>/t͡ɕʰiəŋ1 sɿ/<sup>如皋</sup>, /t͡ɕʰiŋ1 sɿ/<sup>泰县</sup></small> ① 撒娇、卖蘣<sup>\[如皋\]</sup>：十几岁的丫头还同妈妈～。<sup>\[如皋\]</sup> ② 亲昵，泰县方言志作“亲私”<sup>\[泰县\]</sup>：这个伢儿见到她妈妈就有点儿～。<sup>\[泰县\]</sup>  
@@ -1492,6 +1496,7 @@
 1. 【[芡实茎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_sheh_jien.md#芡实茎)】`qin5 sheh8 jien1` <sup>[如东]</sup> 唾莲科植物芡实花茎。  
 1. 【[茜草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_co.md#茜草)】`qin5 co3` <sup>[如东]</sup> 茜草科植物茜草，多年生攀援草本。  
 1. 【[件头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_teu.md#件头)】`qin6 teu` <sup>[兴化]</sup> 机械工具上的零部件：这种机器上的～配不到，没法修理。  
+1. 【[牵瓜藤揽瓠子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_gua_ten_laen.md#牵瓜藤揽瓠子)】`qin6 gua1 ten2 laen3 v6 zz` <small>/t͡ɕʰĩ1 kuɑ1 tʰəŋ2 lɛ̃3 ʋ1 t͡sɿ/<sup>泰兴</sup></small> 办事东扯西拉，条理不清。犹“麻田里扯到菜田里”。<sup>\[泰兴\]</sup>  
 1. 【[贱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin.md#贱)】`qin6` <sup>[如皋]</sup> 詈语，指人格低下。  
 1. 【[贱货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_hu.md#贱货)】`qin6 hu5` <small>/t͡ɕʰiɪ̃6 xo5/<sup>兴化</sup>, /t͡ɕʰĩ1 xʊ5/<sup>如皋</sup></small> ① 詈语，多指女人。<sup>\[如皋\]</sup> ② 詈语，一般指不正派的女人。<sup>\[东台\]</sup><sup>\[泰州\]</sup> ③ 不值钱的东西。<sup>\[兴化\]</sup> ④ （借）骂人下贱不自重<sup>\[兴化\]</sup>：这个婆娘好日子不过，丢下伢儿跟人私奔，真是个～。<sup>\[兴化\]</sup>  
 1. 【[贱买](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_mae.md#贱买)】`qin6 mae3` <sup>[兴化]</sup> 用低价购进商品：这件上衣五十多块钱，真是～啊。  
@@ -1553,7 +1558,7 @@
 1. 【[燋干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_gun.md#燋干)】`qio2 gun1` <sup>[如东]</sup> 干燥：稻草晒得～。  
 1. 【[瞧不上眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_beh_shan_ngaen.md#瞧不上眼)】`qio2 beh7 shan6 ngaen3` <sup>[如皋]</sup> 藐视、看不上眼。  
 1. 【[瞧举](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_jy.md#瞧举)】`qio2 jy3` <sup>[如东]</sup> 看得起：你不要～他不起。  
-1. 【[翘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#翘)】`qio2` <small>/t͡ɕʰiɔ2/<sup>兴化</sup>, /t͡ɕʰiɔ2/<sup>如皋</sup>, /t͡ɕʰiɔ2/<sup>泰县</sup></small> ① 翘起，不平整。 ② 不平：桌子面儿～啊。<sup>\[如皋\]</sup> ③ 不正：碗口是～的。<sup>\[如皋\]</sup> ④ 木板表面因受潮而不平。<sup>\[如东\]</sup>：这块木板～啊。<sup>\[如东\]</sup> ⑤ 物体变形，不平整了<sup>\[东台\]</sup>：这块板子～掉啊，不好打门。<sup>\[东台\]</sup> ⑥ 物翘而僵<sup>\[兴化\]</sup>：杂木板一晒就～起来啊。<sup>\[兴化\]</sup> ⑦ 不正，不平：这张桌子有点儿～。<sup>\[泰县\]</sup> ⑧ 板状物体扭曲而高低不平<sup>\[泰州\]</sup>：潮板子要放吖在家里慢慢阴干，不能在太阳心里晒，一晒就～啊唻。<sup>\[泰州\]</sup>  
+1. 【[翘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#翘)】`qio2` <small>/t͡ɕʰiɔ2/<sup>兴化</sup>, /t͡ɕʰiɔ2/<sup>如皋</sup>, /t͡ɕʰiɔ2/<sup>泰兴</sup>, /t͡ɕʰiɔ2/<sup>泰县</sup></small> ① 翘起，不平整。 ② 不平<sup>\[如皋\]</sup>：桌子面儿～啊<sup>\[如皋\]</sup> ③ 不正<sup>\[如皋\]</sup>：碗口是～的<sup>\[如皋\]</sup> ④ 木板表面因受潮而不平。<sup>\[如东\]</sup>：这块木板～啊。<sup>\[如东\]</sup> ⑤ 物体变形，不平整了<sup>\[东台\]</sup><sup>\[泰兴\]</sup>：这块板子～掉啊，不好打门。<sup>\[东台\]</sup>｜湿木板一晒就～<sup>\[泰兴\]</sup> ⑥ 物翘而僵<sup>\[兴化\]</sup>：杂木板一晒就～起来啊。<sup>\[兴化\]</sup> ⑦ 不正，不平：这张桌子有点儿～。<sup>\[泰县\]</sup> ⑧ 板状物体扭曲而高低不平<sup>\[泰州\]</sup>：潮板子要放吖在家里慢慢阴干，不能在太阳心里晒，一晒就～啊唻。<sup>\[泰州\]</sup>  
 1. 【[翘二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_er.md#翘二)】`qio2 er6` <sup>[如皋]</sup> 用片编织的一种方法：一排经篾，二上二下两分后，压进一根纬。再右移一根经篾，继续两分压进纬篾，成品无孔。  
 1. 【[翘公笡母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_gon_jia_mu.md#翘公笡母)】`qio2 gon1 jia3 mu3` <sup>[东台]</sup> 形容不平整的样子，喻指言行不端正。（这里“笡”为又音）  
 1. 【[翘一](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_ieh.md#翘一)】`qio2 ieh7` <sup>[如皋]</sup> 用片编织的一种方法：一排经篾，一上一下两分后压进一根纬篾，成品有方孔。  
@@ -1741,10 +1746,10 @@
 1. 【[绝子绝孙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_zz_qiuh_suen.md#绝子绝孙)】`qiuh8 zz3 qiuh8 suen1` ① （詈语）指子孙断绝。<sup>\[东台\]</sup> ② 断绝子孙，骂人所做事情极其缺德，詈词<sup>\[泰州\]</sup>：这是哪个～的人做的缺德事啊！<sup>\[泰州\]</sup>  
 1. 【[绝子绝孙绝房门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_zz_qiuh_suen.md#绝子绝孙绝房门)】`qiuh8 zz3 qiuh8 suen1 qiuh8 fan2 men2` <sup>[如皋]</sup> 詈语。指后代断绝，房族断绝。  
 1. 【[𥏘头<sub>儿</sub>砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_teu_r_zhun.md#𥏘头<sub>儿</sub>砖)】`qiuh8 teu2 r zhun1` <sup>[如东]</sup> 断了的砖头。也叫砖头头儿、砖头佬儿。  
-1. 【[圈络<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_lah_r.md#圈络<sub>儿</sub>)】`qiun1 lah r` <sup>[如皋]</sup> 圈套。  
 1. 【[圈浪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_lan.md#圈浪)】`qiun1 lan` <sup>[如皋]</sup> 见“圈令”。  
+1. 【[圈浪<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_lan_r.md#圈浪<sub>儿</sub>)】`qiun1 lan r` <sup>[如皋]</sup> 圈套。  
 1. 【[圈零](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_lien.md#圈零)】`qiun1 lien2` <sup>[如东]</sup> 来回一趟，称为一个圈零：我跑啊几个～。  
-1. 【[圈令](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_lien.md#圈令)】`qiun1 lien6` <sup>[如皋]</sup> ① 来回：跑～、转～。 ② 量词，来回：一个～。  
+1. 【[圈令](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_lien.md#圈令)】`qiun1 lien6` <sup>[如皋]</sup> 来回：跑～、转～、一个～。  
 1. 【[圈盘腿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_pun_ty_r.md#圈盘腿<sub>儿</sub>)】`qiun1 pun2 ty3 r` <sup>[如皋]</sup> “o”型腿。幼年缺鈣造成的畸型腿。  
 1. 【[圈圈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_qiun_r.md#圈圈<sub>儿</sub>)】`qiun1 qiun1 r` <sup>[如东]</sup> ① 在一个地方旋转：打～ ② 一种圆形的箍：推～。  
 1. 【[圈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_r.md#圈<sub>儿</sub>)】`qiun1 r` <small>/t͡ɕʰyʊ˞1/<sup>如皋</sup></small> ① 耳环及其他环状物。<sup>\[如皋\]</sup> ② 太阳月亮周围的光圈<sup>\[泰州\]</sup>：亮月子边上有个～。<sup>\[泰州\]</sup>  

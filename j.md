@@ -904,6 +904,7 @@
 1. 【[井](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien.md#井)】`jien3` <sup>[如东]</sup> 从地面往下打成的能够汲取地下水的圆洞，称井。井壁一般由砖砌成，也有用水泥浇铸的。  
 1. 【[井底泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_di_ni.md#井底泥)】`jien3 di3 ni2` <sup>[如东]</sup> 淤积在井底的灰黑色泥土。  
 1. 【[井甃子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_duh_zz.md#井甃子)】`jien3 duh7 zz` <small>/t͡ɕiəŋ3 tʊʔ7 t͡sɿ/<sup>如皋</sup></small> ① 井壁的层次。一层为一甃。<sup>\[如东\]</sup> ② 井壁的每一层。甃又是井深的量词，每甃为一井砖的长度，现代用标准砖为24cm：18甃、24甃、30甃。<sup>\[如皋\]</sup>  
+1. 【[井加子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_ga_zz.md#井加子)】`jien3 ga1 zz` <small>/t͡ɕiŋ3 kɑ1 t͡sɿ/<sup>泰兴</sup></small> 井框，井口栅栏<sup>\[泰兴\]</sup>  
 1. 【[井滉凉水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_huan_lian_shuei.md#井滉凉水)】`jien3 huan5 lian2 shuei3` <sup>[如皋]</sup> 夏天的井水，使人觉得清凉而舒适。  
 1. 【[井要淘，人要教](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_io_to_ren.md#井要淘，人要教)】`jien3 io5 to2 ren2 io5 jio5` <sup>[泰兴]</sup> 井要常淘水才能正常滲出：人要教育才能成才。  
 1. 【[井栏边草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_laen_bin_co.md#井栏边草)】`jien3 laen2 bin1 co3` <sup>[如东]</sup> 凤尾蕨科植物亮凤尾蕨草，常绿多年生草本。  

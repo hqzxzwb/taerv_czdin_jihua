@@ -747,7 +747,7 @@
 1. 【[相相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_xian.md#相相)】`xian5 xian` <sup>[如东]</sup> 看看：你去～，外面哿还有东西？  
 1. 【[相中相，不上当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_zhon_xian_beh.md#相中相，不上当)】`xian5 zhon1 xian5 beh7 shan6 dan5` <sup>[东台]</sup> 彼此彼此，谁也不要欺负谁。  
 1. 【[象不吃象](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_beh_qieh_xian.md#象不吃象)】`xian5 beh7 qieh7 xian5` <sup>[兴化]</sup> 中国象棋中的“象”不能互“吃”。借指境遇相似的人不必互相过不去：你做你的生意，我做我的买卖，我俫～。  
-1. 【[㽺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieh.md#㽺)】`xieh7` <sup>[兴化]</sup> 反应慢，不灵敏：这个伢儿有点儿～，你跟他说话，他眼直翻。兴化词典作“㤸”，《广韵·锡韵》许激切｜“㤸，心不安也。”义不全合。  
+1. 【[㽺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieh.md#㽺)】`xieh7` <sup>[兴化]</sup> 反应慢，不灵敏。兴化词典作“㤸”，《广韵·锡韵》许激切“㤸，心不安也。”义不全合：这个伢儿有点儿～，你跟他说话，他眼直翻。  
 1. 【[㽺㽺的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieh_xieh_dii.md#㽺㽺的)】`xieh7 xieh7 dii` <sup>[兴化]</sup> 稀里糊涂的：他成天～的，外头的大事一点也不晓得。  
 1. 【[吸沰黐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieh_dah_chr.md#吸沰黐)】`xieh7 dah chr1` <sup>[兴化]</sup> ① 形容物体无弹力：这个东西～，落地不蹦。 ② （借）不成功：这次应聘又是～。  
 1. 【[吸铁石](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieh_tih_sheh.md#吸铁石)】`xieh7 tih7 sheh8` 磁铁  

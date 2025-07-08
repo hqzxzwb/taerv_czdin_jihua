@@ -1826,6 +1826,7 @@
 1. 【[奀奀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dih_dih_r.md#奀奀<sub>儿</sub>)】`dih7 dih8 r` <sup>[泰县]</sup> 一点点：这个碗～小。  
 1. 【[奀点<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dih_din_r.md#奀点<sub>儿</sub>)】`dih7 din3 r` <sup>[如东]</sup> 很少很少。  
 1. 【[奀尕尕子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dih_ga_ga_zz.md#奀尕尕子)】`dih7 ga2 ga2 zz` <sup>[兴化]</sup> 小，一点点。  
+1. 【[玷辱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dih_roh.md#玷辱)】`dih7 roh` <small>/tiʔ7 ɻɔʔ/<sup>泰兴</sup></small> 丢人，丢架子；蒙受耻辱。<sup>\[泰兴\]</sup>  
 1. 【[碟子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dih_zz.md#碟子)】`dih7 zz` <sup>[如东]</sup> 盘子的一种。瓷制，一般质地精致，饰有花纹。口径较小，底平，盘浅。有多种规格。  
 1. 【[碟子里盛水——一眼看到底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dih_zz_li_shen.md#碟子里盛水——一眼看到底)】`dih7 zz li3 shen2 shuei3 ieh7 ngaen3 kun5 do5 di3` <sup>[东台]</sup>   
 1. 【[窒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dih_zz.md#窒子)】`dih7 zz` <sup>[如东]</sup> ① 一种圆形的塞子。 ② 装在木柄后端的横档，有圆形的，也有长形的，叫做稿子。也叫捏手儿。  
@@ -1879,22 +1880,24 @@
 1. 【[扂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din.md#扂)】`din3` <sup>[如皋]</sup> 撑。  
 1. 【[扂子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_zz.md#扂子)】`din3 zz` <sup>[如皋]</sup> ① 撑子：关门后内加的斜撑子。 ② 墙向一边歪时加的斜撑子。 ③ 不能承重时加撑的支柱。  
 1. 【[点](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din.md#点)】`din3` <small>/tĩ3/<sup>如皋</sup></small> ① 平面上的一个极小的单位。<sup>\[如东\]</sup> ② 数。<sup>\[如东\]</sup>：这些钱，请当面～清。<sup>\[如东\]</sup> ③ 鱼浮子在上下轻动，表示有鱼吃饵。<sup>\[如皋\]</sup>  
+1. 【[点兵捉将](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_bien_zhuah_jian.md#点兵捉将)】`din3 bien1 zhuah7 jian5` <small>/tĩ3 piŋ1 t͡suɑʔ7 t͡ɕiɑŋ5/<sup>泰兴</sup></small> 组织人员（上马办某事）。<sup>\[泰兴\]</sup>  
 1. 【[点拨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_buh.md#点拨)】`din3 buh7` ① 指点，教诲。<sup>\[如东\]</sup> ② 指出来使人知道<sup>\[东台\]</sup>：他在商场买啊假货，经人～，向消协举报，才获得赔偿。<sup>\[东台\]</sup>  
 1. 【[点菜吃饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_cae_qieh_faen.md#点菜吃饭)】`din3 cae5 qieh7 faen6` <sup>[如皋]</sup> 随心所好，想吃什么就点什么，不必自己动手做。  
 1. 【[点灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_den.md#点灯)】`din3 den1` <sup>[如皋]</sup> 点亮油灯、蜡烛等照明灯具。  
 1. 【[点点<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_din_r.md#点点<sub>儿</sub>)】`din3 din r` <sup>[泰县]</sup> 一点点。  
+1. 【[点点<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_din_r.md#点点<sub>儿</sub>)】`din3 din r` <small>/tĩ3 ti˞/<sup>泰兴</sup></small> 一点儿，一点点。<sup>\[泰兴\]</sup>  
 1. 【[点点戳戳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_din_chuah_chuah.md#点点戳戳)】`din3 din3 chuah7 chuah7` <small>/tiɪ̃3 tiɪ̃3 t͡sʰuaʔ7 t͡sʰuaʔ7/<sup>兴化</sup>, /tĩ3 tĩ3 t͡sʰuaʔ7 t͡sʰuaʔ7/<sup>如皋</sup></small> ① 指着背后议论是非。<sup>\[如皋\]</sup> ② 对人背后发议论<sup>\[兴化\]</sup>：小区的人～的，说她是老板的二奶。也说“指指戳戳”。<sup>\[兴化\]</sup>  
 1. 【[点点脚班](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_din_jiah_baen.md#点点脚班)】`din3 din3 jiah7 baen1` <sup>[如皋]</sup> 见“老鹰叉小鸡儿”。  
 1. 【[点点眼眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_din_ngaen_ngaen.md#点点眼眼)】`din3 din3 ngaen3 ngaen3` <sup>[泰州]</sup> ① 极其琐碎的小事：你～的事都去找人家，就不怕人家烦。 ② 极少：你就弄吖这～的东西，都不够他个人吃！ ③ 极小：这个药瓶儿高头～的字，我根本望不清。  
 1. 【[点电灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_din_den.md#点电灯)】`din3 din5 den1` <sup>[如皋]</sup> 使用电灯，开亮电灯。  
 1. 【[点刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_do.md#点刀)】`din3 do1` ① 堤西民间对肉圆的代称。<sup>\[东台\]</sup> ② 将肉糜塞在鱼肚内所结成的肉丸或者肉块。<sup>\[泰州\]</sup>  
 1. 【[点到为知](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_do_vei_zhr.md#点到为知)】`din3 do5 vei2 zhr1` <sup>[兴化]</sup> 只要稍加提示或启发，就明白了对方的意思：谚曰：光棍～。也作“点到为止”。  
-1. 【[点到为止](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_do_vei_zhr.md#点到为止)】`din3 do5 vei2 zhr3` ① ［喻］讲话时稍微点到要害处，就不再往下说<sup>\[东台\]</sup>：你是个聪明人，今吖子～，明朝再细谈。<sup>\[东台\]</sup> ② 说话时只是轻轻触及话题的边缘,而不必深入谈论,但是已经让对方明了意图即可。<sup>\[泰州\]</sup>  
+1. 【[点到为止](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_do_vei_zhr.md#点到为止)】`din3 do5 vei2 zhr3` <small>/tĩ3 tɔ5 ʋəɪ2 t͡sɿ3/<sup>泰兴</sup></small> ① ［喻］讲话时稍微点到要害处，就不再往下说<sup>\[东台\]</sup>：你是个聪明人，今吖子～，明朝再细谈。<sup>\[东台\]</sup> ② 说话时只是轻轻触及话题的边缘,而不必深入谈论,但是已经让对方明了意图即可。<sup>\[泰州\]</sup> ③ 只说到这个分寸上，以下的不说。<sup>\[泰兴\]</sup>  
 1. 【[点粪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_fen.md#点粪)】`din3 fen5` <sup>[如皋]</sup> 用料勺向定点处浇适量的粪肥。  
 1. 【[点杆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_gun.md#点杆)】`din3 gun1` <sup>[如东]</sup> ① 支撑物体的杆子。 ② 帆船上测量水深的竹竿。  
 1. 【[点红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_hon.md#点红)】`din3 hon2` <small>/tĩ3 xɔŋ2/<sup>如皋</sup></small> ① 用刀刺猪、羊等牲畜的心血管使之出血死亡，叫做点红。<sup>\[如东\]</sup> ② 杀猪，用刀刺进猪心脏放血。<sup>\[如皋\]</sup>  
-1. 【[点红刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_hon_do.md#点红刀)】`din3 hon2 do1` <small>/tiɪ̃3 xoŋ2 tɔ1/<sup>兴化</sup>, /tĩ3 xɔŋ2 tɔ1/<sup>如皋</sup>, /tiɪ̃3 xoŋ2 tɔ1/<sup>泰县</sup></small> ① 杀猪刀。<sup>\[如皋\]</sup> ② 宰杀牲畜用的尖刀。<sup>\[兴化\]</sup> ③ 杀猪刀。<sup>\[泰县\]</sup>  
-1. 【[点火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_hu.md#点火)】`din3 hu3` <small>/tĩ3 xʊ3/<sup>如皋</sup></small> ① 用火柴把柴草点燃。<sup>\[如东\]</sup> ② 用电火花通过机械装置把汽油或柴油点燃，从而使内燃机发动起来。<sup>\[如东\]</sup> ③ 引火种<sup>\[如皋\]</sup>：拿硭子到香炉上～。<sup>\[如皋\]</sup>  
+1. 【[点红刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_hon_do.md#点红刀)】`din3 hon2 do1` <small>/tiɪ̃3 xoŋ2 tɔ1/<sup>兴化</sup>, /tĩ3 xɔŋ2 tɔ1/<sup>如皋</sup>, /tĩ3 xɔŋ2 tɔ1/<sup>泰兴</sup>, /tiɪ̃3 xoŋ2 tɔ1/<sup>泰县</sup></small> ① 杀猪刀。<sup>\[如皋\]</sup><sup>\[泰县\]</sup> ② 宰杀牲畜用的尖刀。<sup>\[兴化\]</sup>\[泰兴：十分锋利\]  
+1. 【[点火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_hu.md#点火)】`din3 hu3` <small>/tĩ3 xʊ3/<sup>如皋</sup>, /tĩ3 xɤɯ3/<sup>泰兴</sup></small> ① 用火柴把柴草点燃。<sup>\[如东\]</sup> ② 用电火花通过机械装置把汽油或柴油点燃，从而使内燃机发动起来。<sup>\[如东\]</sup> ③ 引火种<sup>\[如皋\]</sup>：拿硭子到香炉上～。<sup>\[如皋\]</sup> ④ 比喻挑起事端。<sup>\[泰兴\]</sup>  
 1. 【[点火线子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_hu_xin_zz.md#点火线子)】`din3 hu3 xin5 zz` <sup>[如东]</sup> 导火索。比喻引起事端的人：这件事，王二是～。  
 1. 【[点油灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_ieu_den.md#点油灯)】`din3 ieu2 den1` <sup>[如东]</sup> 人死后，在头与脚旁点上一盏油灯。一般用豆油，称香油。用灯草做灯芯，表示照明。  
 1. 【[点饥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_ji.md#点饥)】`din3 ji1` <sup>[如东]</sup> 吃很少一点儿食物权且充饥。  
@@ -1906,7 +1909,8 @@
 1. 【[点麻筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_ma_jien.md#点麻筋)】`din3 ma2 jien1` <sup>[如皋]</sup> 说话击中要害使对方畏惧。  
 1. 【[点码<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_ma_r.md#点码<sub>儿</sub>)】`din3 ma3 r` <sup>[东台]</sup> 一点点，稍微有一点：冬天早更头五点钟天才～亮。  
 1. 【[点名在卯的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_mien_cae_mo.md#点名在卯的)】`din3 mien2 cae6 mo3 dii` <sup>[如皋]</sup> 登记在册、记录在册的。  
-1. 【[点卯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_mo.md#点卯)】`din3 mo3` ① 旧时官署每天卯时查点到班人员，称为点卯。<sup>\[如东\]</sup> ② 泛指上班点到。<sup>\[如东\]</sup>：我每天都要去～。<sup>\[如东\]</sup> ③ 旧时官厅在卯时查点到班人员，即点名。今指到时上班应付差事。<sup>\[东台\]</sup> ④ 先去单位报到一下以后人就离开或者先去单位上很短时间的班以后人就离开<sup>\[泰州\]</sup>：你先到医院去排队，我到单位点个卯就过来。<sup>\[泰州\]</sup>  
+1. 【[点明](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_mien.md#点明)】`din3 mien2` <small>/tĩ3 miŋ2/<sup>泰兴</sup></small> 把话说明白，挑破。<sup>\[泰兴\]</sup>  
+1. 【[点卯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_mo.md#点卯)】`din3 mo3` <small>/tĩ3 mɔ3/<sup>泰兴</sup></small> ① 旧时官署每天卯时查点到班人员，称为点卯。<sup>\[如东\]</sup> ② 泛指上班点到。<sup>\[如东\]</sup>：我每天都要去～。<sup>\[如东\]</sup> ③ 旧时官厅在卯时查点到班人员，即点名。今指到时上班应付差事。<sup>\[东台\]</sup> ④ 先去单位报到一下以后人就离开或者先去单位上很短时间的班以后人就离开<sup>\[泰州\]</sup>：你先到医院去排队，我到单位点个卯就过来。<sup>\[泰州\]</sup> ⑤ 旧时衙门官员查点到班人员。因在卯时进行，故名。后泛指点名。<sup>\[泰兴\]</sup>  
 1. 【[点吖半点](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_nga_bun_din.md#点吖半点)】`din3 nga bun5 din3` <sup>[东台]</sup> 一点点：安全是大事，～的差错，都不能容忍。  
 1. 【[点吖点的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_nga_din_dii.md#点吖点的)】`din3 nga din3 dii` <sup>[如皋]</sup> 状开始下雨，雨滴稀。  
 1. 【[点吖眼的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_nga_ngaen_dii.md#点吖眼的)】`din3 nga ngaen3 dii` <sup>[东台]</sup> 很少的意思：～不要计较。  
@@ -1923,11 +1927,13 @@
 1. 【[点头之交](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_teu_zhr_jio.md#点头之交)】`din3 teu2 zhr1 jio1` <small>/tiɪ̃3 tʰɤ2 t͡sɿ1 t͡ɕiɔ1/<sup>兴化</sup>, /tĩ3 tʰei2 t͡sɿ1 t͡ɕiɔ1/<sup>如皋</sup></small> ① 情谊很浅。<sup>\[如皋\]</sup> ② 两个人之间只是一般地见面点点头、打招呼，并没有更多的交往。<sup>\[东台\]</sup> ③ 相互认识而无深交<sup>\[兴化\]</sup>：我跟他只有～，这吖大的事找他肯定不行。也作“泛泛之交”。<sup>\[兴化\]</sup> ④ 比喻只是认识而无深交<sup>\[泰州\]</sup>：我跟他只是～。<sup>\[泰州\]</sup>  
 1. 【[点铜锡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_ton_xieh.md#点铜锡)】`din3 ton2 xieh7` <small>/tiɪ̃3 tʰoŋ2 ɕiəʔ7/<sup>兴化</sup>, /tĩ3 tʰɔŋ2 ɕiəʔ7/<sup>如皋</sup></small> ① 锡与少量铜的合金。旧时做锡器用。<sup>\[如皋\]</sup> ② 纯度高可用于焊接铜的锡。也称“点锡”。<sup>\[兴化\]</sup>  
 1. 【[点心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_xien.md#点心)】`din3 xien` <sup>[兴化]</sup> ① 糕饼之类食品。 ② 特指茶馆出售的包子、烧卖、蒸饺等有馅的食品。  
+1. 【[点心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_xien.md#点心)】`din3 xien` <small>/tĩ3 ɕiŋ/<sup>泰兴</sup></small> 糕点之类的食品。<sup>\[泰兴\]</sup>  
 1. 【[点心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_xien.md#点心)】`din3 xien1` <sup>[如东]</sup> 糕饼一类的食品：吃～。  
 1. 【[点钟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_zhon.md#点钟)】`din3 zhon1` <sup>[泰州]</sup> 钟表上的小时：九～。  
 1. 【[点纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_zhr.md#点纸)】`din3 zhr3` <sup>[东台]</sup> 给祖宗亡人烧纸钱。  
 1. 【[点主](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_zhv.md#点主)】`din3 zhv3` <small>/tiɪ̃3 t͡su3/<sup>兴化</sup>, /tĩ3 t͡su3/<sup>如皋</sup></small> ① 仪式。请有德者或名人用新毛笔蘸亲子指尖血，在新牌位的某某府君之王位的“王”字上点一笔，使成“主”字。表示安灵于此，在家享祭祀。见“亡人牌子”。<sup>\[如皋\]</sup> ② 为死者立的“木主”（牌位）上先用黑笔书写“xx之王”字样，再由长辈或有身份的人在“王”字上加红点成“主”字，谓之～。<sup>\[兴化\]</sup> ③ 旧时人死以后，后人要为死者建立木主（俗称“牌位”），上书死者姓名以供祭祀。木主制成以后，先用黑墨书写“先考（先妣）×××之神王”，再请德高望重长辈或者具有较高社会地位的人用红墨在“王”字之上加上红点，使“王”成“主”。<sup>\[泰州\]</sup>  
 1. 【[点子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_zz.md#点子)】`din3 zz` <sup>[东台]</sup> ① 液体的小滴。 ② 办法，主意：想吖个好～。 ③ 走势：今吖的牌～蛮正的。  
+1. 【[点子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_zz.md#点子)】`din3 zz` <small>/tĩ3 t͡sɿ/<sup>泰兴</sup></small> ① 小的痕迹<sup>\[泰兴\]</sup> ② 骰子上的点数<sup>\[泰兴\]</sup> ③ 办法，主意<sup>\[泰兴\]</sup>：出～<sup>\[泰兴\]</sup>  
 1. 【[垫步](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_pv.md#垫步)】`din5 pv6` <sup>[兴化]</sup> 武侠小说中常见的一种步法，即后足用力一蹬，大步纵身向前：这个孩子见老爷明附，一个～，赠一儿窜出了腰门……（扬一《扬州劫法场》）  
 1. 【[垫嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_zuei.md#垫嘴)】`din5 zuei3` <sup>[兴化]</sup> 以告密或进谗言陷害他人：如果不是坏人～，那位地下党员不会被鬼子抓走。｜《梼杌闲评》第四十三回有“客巴巴又从旁～”句。‖也作“垫子”。  
 1. 【[店保](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_bo.md#店保)】`din5 bo3` <sup>[兴化]</sup> 由商店出面担保被保人身份及信誉等事项。‖也称“铺保”。  

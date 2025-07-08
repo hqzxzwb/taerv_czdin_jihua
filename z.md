@@ -1688,7 +1688,7 @@
 1. 【[转盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_pun.md#转盘)】`zhun5 pun2` <small>/t͡sʊ̃5 pʰʊ̃2/<sup>泰兴</sup></small> ① 可以转动的圆盘<sup>\[泰兴\]</sup> ② 交通要道口所设的大圆盘。<sup>\[泰兴\]</sup>  
 1. 【[转腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_qian.md#转腔)】`zhun5 qian` <sup>[如皋]</sup> 拴羊颈可灵活转向的木头。  
 1. 【[转噍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_qio.md#转噍)】`zhun5 qio5` <sup>[如东]</sup> ① 牛反刍。 ② 比喻回旋：看来这件事还有可能～。  
-1. 【[转圈络<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_qiun_lah_r.md#转圈络<sub>儿</sub>)】`zhun5 qiun1 lah r` <sup>[如皋]</sup> 旋转。  
+1. 【[转圈浪<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_qiun_lan_r.md#转圈浪<sub>儿</sub>)】`zhun5 qiun1 lan r` <sup>[如皋]</sup> 旋转。  
 1. 【[转圈圈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_qiun_qiun_r.md#转圈圈<sub>儿</sub>)】`zhun5 qiun1 qiun1 r` <small>/t͡sʊ̃5 t͡ɕʰyʊ̃1 t͡ɕʰyʊ˞1/<sup>如皋</sup></small> ① 旋转。<sup>\[如皋\]</sup> ② 绕圈子。<sup>\[如东\]</sup> ③ 比喻说话拐弯抹角，不直爽。<sup>\[如东\]</sup>：你不要～，有话就说。<sup>\[如东\]</sup>  
 1. 【[转身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_shen.md#转身)】`zhun5 shen1` <sup>[如东]</sup> 身体旋转。比喻迅速：～就走啊。  
 1. 【[转弯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_vaen.md#转弯)】`zhun5 vaen1` <sup>[如东]</sup> 改变方向：在前头～。  
