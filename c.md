@@ -1242,7 +1242,7 @@
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh.md#□)】`choh8` <sup>[泰州]</sup> 用手抓住物体一端猛然发力外拉：你少用点儿力气，不要把大门～咖坏啊。｜这把锁就是锁啊也等于不曾锁，我只要用力一～就～咖来唻。  
 1. 【[啄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh.md#啄)】`choh8` <sup>[如东]</sup> 用嘴取食东西：红烧肉摆啊桌上，许多苍蝇在上头～。  
 1. 【[啄木鸟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh_moh_nio.md#啄木鸟)】`choh8 moh8 nio3` <sup>[如东]</sup> 啄木鸟科动物斑啄木鸟、绿啄木鸟和黑枕啄木鸟。  
-1. 【[妯娌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh_li.md#妯娌)】`choh8 li` ① 哥哥和弟弟的妻子的合称。<sup>\[如东\]</sup> ② 弟兄们的妻子之间的关系。<sup>\[东台\]</sup> ③ 哥哥、弟弟之妻的合称。<sup>\[泰州\]</sup>  
+1. 【[妯娌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh_li.md#妯娌)】`choh8 li` <small>/t͡sʰɔʔ8 ləɪ/<sup>泰兴</sup></small> 兄弟之妻相互的关系，或她们的合称<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>  
 1. 【[轴闩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh_shuaen.md#轴闩)】`choh8 shuaen1` <sup>[如皋]</sup> 水车踏车轴上的“拐子柄”，横穿踏车轴的轴心，其两端装拐子。比如四人轴，有4根拐子柄，在轴的横切圆面上，八等分均布。  
 1. 【[轴头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh_teu.md#轴头)】`choh8 teu2` <sup>[如皋]</sup> 泛指轴的头部：小车儿车轴呈鼓形，㲀辐。车轴两端另嵌檀木作～，极为承重耐磨。  
 1. 【[轴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/choh_zz.md#轴子)】`choh8 zz` <small>/t͡sʰɔʔ8 t͡sɿ/<sup>如皋</sup>, /t͡sʰɔʔ8 t͡sɿ/<sup>泰兴</sup>, /t͡sʰɔʔ8 t͡se/<sup>泰县</sup></small> ① 中堂。也称挂轴。有字画两种。<sup>\[如东\]</sup> ② 指字画卷轴：菩萨～。<sup>\[如皋\]</sup> ③ 中堂挂轴画。<sup>\[泰县\]</sup> ④ 车轮盘中心的圆杆形坚轴<sup>\[泰兴\]</sup> ⑤ 安在挂壁字画的下端便于悬挂或卷起的圆杆。供裱装书画的轴形物。<sup>\[泰兴\]</sup>  
