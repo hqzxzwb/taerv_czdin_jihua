@@ -8,3 +8,8 @@ la3 hae shuh7 la3 hae lio3
 la3 hae shuh7 la3 hae xio1
 > 如皋方言词典
 - 不管在哪里说过，说过就算了，作为未曾说。
+
+# 哪许说哪许散
+la3 hae shuh7 la3 hae saen5
++ 谓说了就结束了，不再传言。多指不可或不宜告人的话。
+  * 泰兴方言辞典
