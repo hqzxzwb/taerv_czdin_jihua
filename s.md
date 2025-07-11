@@ -772,6 +772,7 @@
 1. 【[尝味水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_vei_shuei.md#尝味水)】`shan2 vei6 shuei3` <sup>[如皋]</sup> 第一次碰了某人的钉子，知道他的为人之道。变体“尝……味水”：尝过他的味水、尝尝他的味水。  
 1. 【[尝新](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_xien.md#尝新)】`shan2 xien1` <small>/saŋ2 ɕin1/<sup>兴化</sup>, /sã2 ɕiəŋ1/<sup>如皋</sup></small> ① 吃应时的或未吃过的食物。谚：见新不死。<sup>\[如皋\]</sup> ② 吃到刚刚上市的新鲜产品，表示一种超前享受。<sup>\[如东\]</sup>：蚕豆上市我买啊一点儿家来～。<sup>\[如东\]</sup> ③ 民俗<sup>\[兴化\]</sup>：新稻登场前，农民先向神灵供奉新米饭～。‖也说“荐新”。<sup>\[兴化\]</sup>  
 1. 【[尝鲜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_xin.md#尝鲜)】`shan2 xin1` <sup>[东台]</sup> 品尝新上市的食品。  
+1. 【[尝鲜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_xin.md#尝鲜)】`shan2 xin1` <small>/sɑŋ2 ɕĩ1/<sup>泰兴</sup></small> 品尝某种新鲜的食品。<sup>\[泰兴\]</sup>  
 1. 【[晌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan.md#晌)】`shan3` <sup>[兴化]</sup> 中午：外头不中不～的，想吃甚的东西啊！  
 1. 【[晌心里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_xien_lii.md#晌心里)】`shan3 xien1 lii` <sup>[东台]</sup> 正午时分，一天中气温最高时。（同“午心晌里”）  
 1. 【[赏号](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_ho.md#赏号)】`shan3 ho6` <sup>[如皋]</sup> 赏给的钱。  

@@ -1690,6 +1690,7 @@
 1. 【[咽喉屌<sub>儿</sub>如踏碓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih_heu_dio_r.md#咽喉屌<sub>儿</sub>如踏碓)】`ih7 heu2 dio3 r rv2 taeh8 dy5` <sup>[东台]</sup> 形容馋涎欲滴。踏碓是过去用石头春稻的动作。  
 1. 【[噎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih.md#噎)】`ih7` ① 食物塞住了嗓子。 ② 食物堵住食道<sup>\[东台\]</sup>：慢慢吃，当心吃咖～住啊<sup>\[东台\]</sup>｜因～废食。<sup>\[东台\]</sup> ③ 食物堵住喉咙<sup>\[泰州\]</sup>：没得人同你抢，你慢点儿吃，不要吃咖～咖。<sup>\[泰州\]</sup>  
 1. 【[噎咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih_ga.md#噎咖)】`ih7 ga` <sup>[如皋]</sup> 食物暂时阻滞于食管内的难受感。  
+1. 【[噎人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih_ren.md#噎人)】`ih7 ren` <small>/iʔ7 ɻəŋ/<sup>泰兴</sup></small> 食物干涩难以下咽。<sup>\[泰兴\]</sup>  
 1. 【[噎人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih_ren_zz.md#噎人子)】`ih7 ren zz` <sup>[如皋]</sup> 食物过乾，难以下噎。  
 1. 【[噎人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih_ren.md#噎人)】`ih7 ren2` <sup>[如东]</sup> 食物黏性大，吞噎时，喉管有挤胀的感觉。  
 1. 【[擪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih.md#擪)】`ih7` <small>/iʔ7/<sup>如皋</sup></small> ① 往身边塞<sup>\[如皋\]</sup>：～被单头。如皋词典写“掖”。<sup>\[如皋\]</sup> ② 轻按<sup>\[东台\]</sup>：快把伤口～下子。<sup>\[东台\]</sup> ③ 贴近<sup>\[东台\]</sup>：他～咖妈妈怀里<sup>\[东台\]</sup>｜奶奶宝贝她，她也～奶奶。<sup>\[东台\]</sup> ④ 用布、纸之类轻轻按在少量液体上将其吸走<sup>\[泰州\]</sup>：你弄餐巾纸把滴咖桌上的油～掉。<sup>\[泰州\]</sup>｜他手上划啊个口子，你拿棉花同他～咖子。<sup>\[泰州\]</sup> ⑤ （泰州词典作瘞）<sup>\[泰州\]</sup> ⑥ 撒粉末、粒状物覆盖他物之上<sup>\[泰州\]</sup>：伢儿屙啊地下唻，弄点儿灰把它～掉。<sup>\[泰州\]</sup>｜伢儿颈项里全是痱子，弄点儿粉同他～咖子。<sup>\[泰州\]</sup>  

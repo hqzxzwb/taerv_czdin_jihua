@@ -655,9 +655,10 @@
 1. 【[享堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_tan.md#享堂)】`xian3 tan2` <sup>[如皋]</sup> ① 封建时代受皇封的墓地，建有园林、牌坊、翁仲、～祭房如：戴连奎墓在东陈以东，称戴家～，南乡有吴家～。 ② 单指墓地上的祭房。 ③ 地名通名。《如皋县地名录》载有多处。但各自用字不一。此从《辞源》。  
 1. 【[响阵头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_chen_teu.md#响阵头)】`xian3 chen6 teu` <sup>[如皋]</sup> 夏天，阵头云到了，雷声隆隆，狂风大作，就是不下雨。  
 1. 【[响大雷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_da_ly.md#响大雷)】`xian3 da6 ly2` <sup>[如皋]</sup> 炸雷。  
+1. 【[响钉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_dien.md#响钉)】`xian3 dien1` <small>/ɕiɑŋ3 tiŋ1/<sup>泰兴</sup></small> 丧俗之一。死者装殓加盖后以长钉将棺封死。加钉的过程曰“响钉”，子女亲属跪哭号丧。<sup>\[泰兴\]</sup>  
 1. 【[响活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_huh.md#响活)】`xian3 huh` <sup>[如皋]</sup> 夜间或白天幽静中意外出现的细微响声或动静：我一个人在家里，夜里一有啊～就没法对付咯。  
 1. 【[响雷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_luei.md#响雷)】`xian3 luei2, xian3 ly2` 打雷  
-1. 【[响雷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_luei.md#响雷)】`xian3 luei2` <small>/ɕiaŋ3 luəi2/<sup>兴化</sup></small> ① 打雷。<sup>\[如东\]</sup>：刚过春节就～。<sup>\[如东\]</sup> ② 打雷<sup>\[兴化\]</sup>：外头～啊，快点儿进来。<sup>\[兴化\]</sup>  
+1. 【[响雷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_luei.md#响雷)】`xian3 luei2` <small>/ɕiaŋ3 luəi2/<sup>兴化</sup>, /ɕiɑŋ3 ləɪ2/<sup>泰兴</sup></small> 打雷<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：刚过春节就～。<sup>\[如东\]</sup>｜外头～啊，快点儿进来。<sup>\[兴化\]</sup>  
 1. 【[响雷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ly.md#响雷)】`xian3 ly2` <small>/ɕiã3 ly2/<sup>如皋</sup></small> 打雷。<sup>\[如皋\]</sup><sup>\[泰州\]</sup>  
 1. 【[响雷辰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ly_chen.md#响雷辰)】`xian3 ly2 chen2` <sup>[如皋]</sup> 打雷。  
 1. 【[响雷打头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ly_da_teu.md#响雷打头)】`xian3 ly2 da3 teu2` ① 指做了不道德的事，要遭老天惩罚。这是古人对道德、法律必须敬畏的意识<sup>\[东台\]</sup>：不孝父母会～<sup>\[东台\]</sup>｜糟蹋粮食要～。<sup>\[东台\]</sup> ② 雷击脑袋，亦即被雷劈死，旧时家长用来教育儿童不可糟蹋、浪费粮食之词，意谓如果糟蹋、浪费粮食，雨天响雷之时就会被雷劈死<sup>\[泰州\]</sup>：饭吃不掉，下顿热咖子哉再吃，你把它倒掉，就不怕～！<sup>\[泰州\]</sup>  
@@ -976,7 +977,7 @@
 1. 【[省睡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_shuei.md#省睡)】`xien3 shuei` <sup>[兴化]</sup> 指睡觉时比较警醒：这几天外头毛糙，大家夜里～点儿。｜“小道便是五更报晓的头陀，教人～……”（《水浒传》四五）也作“醒睡”。  
 1. 【[醒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien.md#醒)】`xien3` <sup>[泰县]</sup> 强行把弯的东西扳直。  
 1. 【[醒浮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_fv.md#醒浮)】`xien3 fv2` <sup>[如皋]</sup> 垂钓中经常轻提钓丝，防钩饵被埋住并引起游鱼注意。  
-1. 【[醒觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_go.md#醒觉)】`xien3 go5` <small>/ɕin3 kɔ5/<sup>兴化</sup></small> ① 睡醒了。<sup>\[如东\]</sup> ② 从睡眠状态中醒来<sup>\[兴化\]</sup>：“……只怕五更睡着了，不知省觉……”（《水浒传》四五）。<sup>\[兴化\]</sup> ③ 睡眠状态结束<sup>\[泰州\]</sup>：他一直睡到九点多钟都不曾～。<sup>\[泰州\]</sup>  
+1. 【[醒觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_go.md#醒觉)】`xien3 go5` <small>/ɕin3 kɔ5/<sup>兴化</sup>, /ɕiŋ3 kɔ5/<sup>泰兴</sup></small> ① 睡醒了。<sup>\[如东\]</sup> ② 从睡眠状态中醒来<sup>\[兴化\]</sup>：“……只怕五更睡着了，不知省觉……”（《水浒传》四五）。<sup>\[兴化\]</sup> ③ 睡眠状态结束<sup>\[泰州\]</sup>：他一直睡到九点多钟都不曾～。<sup>\[泰州\]</sup> ④ 苏醒，睡醒。<sup>\[泰兴\]</sup>  
 1. 【[醒酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_jieu.md#醒酒)】`xien3 jieu3` ① 解除酒毒。<sup>\[如东\]</sup> ② 酒毒已经过去。<sup>\[如东\]</sup> ③ 从醉酒状态中苏醒<sup>\[泰州\]</sup>：你去弄杯冷茶来，把他喝咖去～。<sup>\[泰州\]</sup>  
 1. 【[醒棵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_ku.md#醒棵)】`xien3 ku1` <small>/ɕin3 kʰo1/<sup>兴化</sup>, /ɕiəŋ3 kʰʊ1/<sup>如皋</sup>, /ɕiŋ3 kʰo1/<sup>泰县</sup></small> ① 移栽后成活。<sup>\[如皋\]</sup> ② 植物移栽后成活，叫醒棵。<sup>\[如东\]</sup>：稻秧～。<sup>\[如东\]</sup> ③ 植物移栽后复活，蔫了的叶子又舒展开来，有了生机。<sup>\[东台\]</sup> ④ 移栽后的秧苗成活<sup>\[兴化\]</sup>：瓜秧子～啊。<sup>\[兴化\]</sup>｜（他）一面抬头看看大片秧苗，早茬含苞了，中茬分蘖了，晚茬～了。（马春阳《大队长和她的妻子》）<sup>\[兴化\]</sup> ⑤ 苗复活：秧～。<sup>\[泰县\]</sup> ⑥ 移植的秧苗开始成活生长<sup>\[泰州\]</sup>：前朝子栽的青菜秧儿全部～唻。<sup>\[泰州\]</sup>  
 1. 【[醒瞌睡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_kuh_shuei.md#醒瞌睡)】`xien3 kuh7 shuei` <sup>[如皋]</sup> 打瞌睡时设法清醒。  

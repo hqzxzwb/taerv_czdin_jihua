@@ -355,8 +355,9 @@
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga.md#□)】`nga3` <sup>[如皋]</sup> 我、我们。如皋东北乡、唐洋、李堡、栟茶、西场一带有此音。  
 1. 【[哑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga.md#哑)】`nga3` <small>/ŋa3/<sup>如皋</sup></small> ① 哑，不能言 ② 嘶哑<sup>\[如皋\]</sup>：碗有啊～声。<sup>\[如皋\]</sup>  
 1. 【[哑巴亏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_ba_kuei.md#哑巴亏)】`nga3 ba kuei1` <sup>[如东]</sup> 吃了亏而不愿说或不能说。  
+1. 【[哑巴亏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_ba_kuei.md#哑巴亏)】`nga3 ba kuei1` <sup>[东台]</sup> ［喻］吃了亏不敢声张。  
+1. 【[哑巴亏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_ba_kuei.md#哑巴亏)】`nga3 ba kuei1` <small>/ŋɑ3 pɑ kʰuəɪ1/<sup>泰兴</sup></small> 指吃了亏不便说或不愿说。<sup>\[泰兴\]</sup>  
 1. 【[哑巴小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_ba_xio.md#哑巴小)】`nga3 ba xio3` <small>/a3 pa ɕiɔ3/<sup>兴化</sup>, /a3 pa ɕiɔ3/<sup>泰县</sup></small> ① 由于生理缺陷或因病不能说话的人，多指年龄较小者。<sup>\[兴化\]</sup> ② （讽）性格内向，平时少言寡语的人。<sup>\[兴化\]</sup> ③ 哑巴。<sup>\[泰县\]</sup> ④ 怕跟人说话的人。<sup>\[泰县\]</sup>  
-1. 【[哑巴亏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_ba_kuei.md#哑巴亏)】`nga3 ba1 kuei1` <sup>[东台]</sup> ［喻］吃了亏不敢声张。  
 1. 【[哑巴吃黄连——有苦难言](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_ba_qieh_huan.md#哑巴吃黄连——有苦难言)】`nga3 ba1 qieh7 huan2 lin2 ieu3 kv3 naen2 in2` <sup>[东台]</sup>   
 1. 【[哑巴吃饺子——心中有数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_ba_qieh_jio.md#哑巴吃饺子——心中有数)】`nga3 ba1 qieh7 jio3 zz xien1 zhon1 ieu3 shv5` <sup>[东台]</sup>   
 1. 【[哑火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_hu.md#哑火)】`nga3 hu3` <sup>[兴化]</sup> 失效的子弹：这发子弹是～。也称“瞎火”。  
@@ -364,7 +365,7 @@
 1. 【[哑噎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_ih.md#哑噎)】`nga3 ih7` <sup>[东台]</sup> 无话可说的样子。  
 1. 【[哑谜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_mi.md#哑谜)】`nga3 mi2` <sup>[如东]</sup> ① 隐晦的话。 ② 比喻难以猜测的问题：他在下跟你打～。  
 1. 【[哑蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_taen.md#哑蛋)】`nga3 taen6` <sup>[兴化]</sup> 壳上有璺的蛋：三斤～全卖把你，少收你一块钱。  
-1. 【[哑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#哑子)】`nga3 zz` <small>/a3 t͡sɿ/<sup>兴化</sup>, /ŋa3 t͡sɿ/<sup>如皋</sup>, /ŋɑ3 t͡sɿ/<sup>泰兴</sup></small> ① 哑巴。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[如东\]</sup><sup>\[泰兴\]</sup> ② 雌蝉，不鸣，尾部有刀状生殖器。<sup>\[如皋\]</sup> ③ 雌性昆虫不会鸣叫，称哑子。<sup>\[如东\]</sup> ④ 未炸响的爆竹。<sup>\[东台\]</sup> ⑤ 哑蛋。<sup>\[兴化\]</sup>  
+1. 【[哑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#哑子)】`nga3 zz` <small>/a3 t͡sɿ/<sup>兴化</sup>, /ŋa3 t͡sɿ/<sup>如皋</sup>, /ŋɑ3 t͡sɿ/<sup>泰兴</sup></small> ① 哑巴。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[如东\]</sup><sup>\[泰兴\]</sup> ② 雌蝉，不鸣，尾部有刀状生殖器。<sup>\[如皋\]</sup> ③ 雌性昆虫不会鸣叫，称哑子。<sup>\[如东\]</sup> ④ 未炸响的爆竹。<sup>\[东台\]</sup><sup>\[泰兴\]</sup> ⑤ 哑蛋。<sup>\[兴化\]</sup>  
 1. 【[哑子好说话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz_ho_shuh.md#哑子好说话)】`nga3 zz ho5 shuh7 hua6` <sup>[如皋]</sup> 聋哑人急欲表达心愿，却说不出话来，只好巴巴乱叫，不断比划，而别人又不能领会，他更为着急。谓之～。  
 1. 【[哑子讨老婆——喜不可言](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz_to_lo.md#哑子讨老婆——喜不可言)】`nga3 zz to3 lo3 pu xi3 beh7 ku3 in2` <sup>[东台]</sup>   
 1. 【[哑子砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz_zhun.md#哑子砖)】`nga3 zz zhun1` <sup>[如皋]</sup> 为火侯不足而“不开声”且有烟迹（喜鹊斑）的砖头。  
@@ -1100,6 +1101,7 @@
 1. 【[咬不准](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_beh_zhuen.md#咬不准)】`ngo3 beh7 zhuen3` <sup>[如东]</sup> 把握不准：这个问题，我～。  
 1. 【[咬屌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_dio.md#咬屌)】`ngo3 dio3` <sup>[兴化]</sup> 骂人的粗话，嘲笑对方无可奈何：我打啊你，～吧！  
 1. 【[咬屌犟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_dio_qian.md#咬屌犟)】`ngo3 dio3 qian6` <sup>[如东]</sup> 比喻脾气固执，不听劝说：你不要～，要听听别人的意见。  
+1. 【[咬耳朵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_er_do.md#咬耳朵)】`ngo3 er3 do` <small>/ŋɔ3 ɚ3 tɔ/<sup>泰兴</sup></small> 谓低声细语，小声耳语。<sup>\[泰兴\]</sup>  
 1. 【[咬耳朵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_er_du.md#咬耳朵)】`ngo3 er3 du1` <sup>[东台]</sup> ① 凑到别人耳朵边上小声说话。 ② ［喻］指悄悄提醒。  
 1. 【[咬耳头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_er_teu.md#咬耳头)】`ngo3 er3 teu` <sup>[如东]</sup> 凑近耳朵低声说话，不让别人听见：他俫在下～。  
 1. 【[咬家鞑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_ga_taeh_zz.md#咬家鞑子)】`ngo3 ga1 taeh8 zz` <sup>[兴化]</sup> 内部不和，互相攻讦：他俫遇事就～，从来不想团结起来对外。  
@@ -1107,7 +1109,7 @@
 1. 【[咬劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_jien.md#咬劲)】`ngo3 jien5` <sup>[兴化]</sup> 形容食品干硬、有韧性：（这种茶干）很结实，嚼起来很有～，越吃越香，是佐茶的妙品……（汪曾祺《桥边小说三篇·茶干》）  
 1. 【[咬扣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_keu.md#咬扣)】`ngo3 keu1` <small>/ŋɔ3 kʰei1/<sup>如皋</sup>, /ɔ3 kʰɤɯ1/<sup>泰县</sup></small> ① 说定了，立合同或誓言，不准改变<sup>\[如皋\]</sup> ② 咬定。<sup>\[泰县\]</sup>  
 1. 【[咬扣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_keu_r.md#咬扣<sub>儿</sub>)】`ngo3 keu1 r` <sup>[如东]</sup> 两人咬定，不向外说：他俫两个人～。  
-1. 【[咬口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_keu.md#咬口)】`ngo3 keu3` <small>/ɔ3 kʰɤ3/<sup>兴化</sup></small> ① 交口，预先讲明白<sup>\[兴化\]</sup>：双方先咬下口来，免得以后反悔。<sup>\[兴化\]</sup> ② 双方针对相关事项事前交代清楚以后，再次相互确认，以防事后反悔<sup>\[泰州\]</sup>：这件事当初你同人家咬啊口的，现在怎吖好反悔？<sup>\[泰州\]</sup>  
+1. 【[咬口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_keu.md#咬口)】`ngo3 keu3` <small>/ɔ3 kʰɤ3/<sup>兴化</sup>, /ŋɔ3 kʰəɪ3/<sup>泰兴</sup></small> ① 交口，预先讲明白<sup>\[兴化\]</sup>：双方先咬下口来，免得以后反悔。<sup>\[兴化\]</sup> ② 双方针对相关事项事前交代清楚以后，再次相互确认，以防事后反悔<sup>\[泰州\]</sup>：这件事当初你同人家咬啊口的，现在怎吖好反悔？<sup>\[泰州\]</sup> ③ 落实，不得反悔。也说“老口”。<sup>\[泰兴\]</sup>  
 1. 【[咬口三声](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_keu_saen_shen.md#咬口三声)】`ngo3 keu3 saen1 shen1` <sup>[兴化]</sup> 一再声明、反复争辩：他～的说明，这件事与他无关。  
 1. 【[咬口生姜喝口醋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_keu_shen_jian.md#咬口生姜喝口醋)】`ngo3 keu3 shen1 jian1 huh7 keu3 cv5` <small>/ɔ3 kʰɤ3 sən1 t͡ɕiaŋ1 xuʔ7 kʰɤ3 t͡sʰu5/<sup>兴化</sup></small> ① “姜”为辛，“醋”为酸，合在一起为“辛酸”。喻意下定决心，矢志不渝，力求成功。<sup>\[东台\]</sup> ② （喻）辛酸备尝，受尽了艰难困苦<sup>\[兴化\]</sup>：“……我没有生人之乐的了，只不过恋着女儿，～的挨命……”（《广陵潮》四五）<sup>\[兴化\]</sup>  
 1. 【[咬癞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_lae_zz.md#咬癞子)】`ngo3 lae6 zz` <sup>[兴化]</sup> ① 出了事故互相推卸责任。 ② 接受任务或遇某种摊派时互相推诿：说到哪个下乡搞调查，几个人又～。  
@@ -1118,9 +1120,10 @@
 1. 【[咬人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_ren.md#咬人)】`ngo3 ren` <sup>[如皋]</sup> 见“咬手”。  
 1. 【[咬人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_ren.md#咬人)】`ngo3 ren2` ① 本指动物用嘴伤害人。<sup>\[东台\]</sup> ② ［喻］指供出有关嫌疑人或责任人。<sup>\[东台\]</sup> ③ 诬陷他人<sup>\[泰州\]</sup>：你只要行得正，就不怕他～。<sup>\[泰州\]</sup> ④ 犯罪之人揭发尚未暴露的同伙<sup>\[泰州\]</sup>：他捱关起来不到三天，就咬啊四个人出来啊。<sup>\[泰州\]</sup>  
 1. 【[咬手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_sheu.md#咬手)】`ngo3 sheu3` <small>/ɔ3 sɤ3/<sup>兴化</sup>, /ŋɔ3 sei3/<sup>如皋</sup></small> ① 手接触冷气、冷水、冷物的痛感。<sup>\[如皋\]</sup> ② （借）冬天水冷，刺激性大<sup>\[兴化\]</sup>：这个冻水太～。<sup>\[兴化\]</sup> ③ 事情难办，遇到麻烦<sup>\[兴化\]</sup>：这件事有点～。！<sup>\[兴化\]</sup>  
+1. 【[咬舌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_shih_zz.md#咬舌子)】`ngo3 shih8 zz` <small>/ŋɔ3 ɕiʔ8 t͡sɿ/<sup>泰兴</sup></small> 指说话时舌尖常接触牙齿，发音不清。<sup>\[泰兴\]</sup>  
 1. 【[咬头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_teu.md#咬头)】`ngo3 teu2` <sup>[如皋]</sup> 咬断丝、线等打结后的多余处。  
 1. 【[咬定](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_tien.md#咬定)】`ngo3 tien6` <sup>[如东]</sup> 供词坚持不变：王二～不改。  
-1. 【[咬子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_zz.md#咬子)】`ngo3 zz3` <small>/ɔ3 t͡sɿ3/<sup>兴化</sup>, /ŋɔ3 t͡sɿ3/<sup>如皋</sup>, /ɔ3 t͡sɿ3/<sup>泰县</sup></small> 春夏之交，鱼类互相追逐、产卵，俗谓～。<sup>\[泰州\]</sup><sup>\[如东\]</sup>\[兴化：又叫“追子”。\]\[如皋：雄鱼紧随雌鱼后上方一边游，一边产卵授精。\]\[泰县：（泰县方言志“子”作轻声，释义“鱼散子”。可疑）\]：天气再暖和点儿，缸里的金鱼就要～唻。<sup>\[泰州\]</sup>  
+1. 【[咬子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_zz.md#咬子)】`ngo3 zz3` <small>/ɔ3 t͡sɿ3/<sup>兴化</sup>, /ŋɔ3 t͡sɿ3/<sup>如皋</sup>, /ŋɔ3 t͡sɿ3/<sup>泰兴</sup>, /ɔ3 t͡sɿ3/<sup>泰县</sup></small> 春夏之交，鱼类互相追逐、产卵，俗谓～。<sup>\[泰州\]</sup><sup>\[如东\]</sup><sup>\[泰兴\]</sup>\[兴化：又叫“追子”。\]\[如皋：雄鱼紧随雌鱼后上方一边游，一边产卵授精。\]\[泰县：（泰县方言志“子”作轻声，释义“鱼散子”。可疑）\]：天气再暖和点儿，缸里的金鱼就要～唻。<sup>\[泰州\]</sup>  
 1. 【[袄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo.md#袄)】`ngo3` <small>/ŋɔ3/<sup>如皋</sup></small> ① 棉𧘸子、棉衣。<sup>\[如皋\]</sup> ② 见“𧘸子”。<sup>\[如皋\]</sup>  
 1. 【[坳沟头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_geu_teu_zz.md#坳沟头子)】`ngo5 geu1 teu2 zz` <sup>[兴化]</sup> 一端不通行的小河沟。也作“坳子”。  
 1. 【[坳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_zz.md#坳子)】`ngo5 zz` <sup>[兴化]</sup> 一端不通行的小河沟。  

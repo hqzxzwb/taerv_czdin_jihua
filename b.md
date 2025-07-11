@@ -935,8 +935,9 @@
 1. 【[背空子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_kon_zz.md#背空子)】`bei1 kon5 zz` <sup>[泰州]</sup> 负债：你借归借，要及时还，千万不能～。  
 1. 【[背累](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_luei.md#背累)】`bei1 luei6` <sup>[东台]</sup> 受别人牵连，遭受伤害。  
 1. 【[背伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_nga_r.md#背伢<sub>儿</sub>)】`bei1 nga2 r` <sup>[如东]</sup> 把小孩驮在背上。  
-1. 【[背纤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_qin.md#背纤)】`bei1 qin5` <sup>[兴化]</sup> 把纤绳放在背上拉：过去行船，顺风扯篷，顶风～、用篙、用桨。也称“拉纤”。  
-1. 【[背纤/縴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_qin.md#背纤/縴)】`bei1 qin5` <sup>[泰州]</sup> 背着纤绳，人以绳拉船：现在已经望不到人～唻。  
+1. 【[背纤/背縴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_qin.md#背纤/背縴)】`bei1 qin5` <sup>[兴化]</sup> 把纤绳放在背上拉：过去行船，顺风扯篷，顶风～、用篙、用桨。也称“拉纤”。  
+1. 【[背纤/背縴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_qin.md#背纤/背縴)】`bei1 qin5` <sup>[泰州]</sup> 背着纤绳，人以绳拉船：现在已经望不到人～唻。  
+1. 【[背纤/背縴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_qin.md#背纤/背縴)】`bei1 qin5` <small>/pəɪ1 t͡ɕʰĩ5/<sup>泰兴</sup></small> 以纤绳拉船。<sup>\[泰兴\]</sup>  
 1. 【[背锹<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_qio_r.md#背锹<sub>儿</sub>)】`bei1 qio1 r` <small>/pei1 t͡ɕʰiɔ˞1/<sup>如皋</sup></small> ① 锹放在肩头上背着。<sup>\[如东\]</sup> ② 小孩死了，草席包着，用锹柄背着去埋葬。也叫背锹楠子。这是咒骂小孩的话。<sup>\[如东\]</sup>：你这个～，我不打死你！<sup>\[如东\]</sup> ③ 见“㧟锹儿”。<sup>\[如皋\]</sup> ④ 詈、昵语。原意指用鍬背着装了死孩子的“函子”去掩埋。<sup>\[如皋\]</sup>  
 1. 【[背屎笿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_shr_lah_r.md#背屎笿<sub>儿</sub>)】`bei1 shr3 lah8 r` <sup>[如皋]</sup> ① 拾粪。 ② 扛、挑时前轻后重，复以手压前部，称之。 ③ 谑指穿中式裤时裤腰后部离开腰带的样子。  
 1. 【[背死尸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_sz_shr.md#背死尸)】`bei1 sz3 shr1` <sup>[东台]</sup> （詈语）指很不愿意背，但又没法拒绝：要我把这吖重的西瓜带到山顶，简直是～。  
@@ -947,12 +948,13 @@
 1. 【[背啊后头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_a_heu_teu.md#背啊后头)】`bei5 a heu6 teu` <sup>[东台]</sup> 双手倒剪放在背后：旧时学校要求学生上课时双手要～。  
 1. 【[背绑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_ban.md#背绑)】`bei5 ban3` <small>/pei5 pã3/<sup>如皋</sup></small> ① 把双手放在背后捆绑起来。<sup>\[如皋\]</sup> ② 双手被捆绑在背后<sup>\[东台\]</sup>：他再犯犟，麻绳～把他送进去。<sup>\[东台\]</sup>  
 1. 【[背褡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_daeh.md#背褡)】`bei5 daeh7` <sup>[兴化]</sup> 一种无袖的短上衣，即背心。也称“背搭”：汗衫～儿；棉～儿。  
+1. 【[背褡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_daeh_zz.md#背褡子)】`bei5 daeh7 zz` <small>/pəɪ5 tæʔ7 t͡sɿ/<sup>泰兴</sup></small> 背心；搭在肩上装衣服杂物的口袋。<sup>\[泰兴\]</sup>  
 1. 【[背底下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_di_ha.md#背底下)】`bei5 di ha6` <sup>[兴化]</sup> 私下：这句话我俫只能～说说。  
 1. 【[背光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_guan.md#背光)】`bei5 guan1` <sup>[东台]</sup> 光线不能直接照射过来。  
 1. 【[背后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_heu.md#背后)】`bei5 heu6` <sup>[如东]</sup> 身后。  
 1. 【[背晦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_huei.md#背晦)】`bei5 huei5` <sup>[兴化]</sup> 年老胡涂：老爷爷如今上吖年纪，不免有点儿～。  
 1. 【[背阴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_ien.md#背阴)】`bei5 ien1` <sup>[如东]</sup> 阳光照射不到的地方。  
-1. 【[背脊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_jieh.md#背脊)】`bei5 jieh7` <sup>[如东]</sup> 背部。  
+1. 【[背脊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_jieh.md#背脊)】`bei5 jieh7` <small>/pəɪ5 t͡ɕiʔ7/<sup>泰兴</sup></small> 背部。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
 1. 【[背脊后头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_jieh_heu_teu.md#背脊后头)】`bei5 jieh7 heu6 teu` <sup>[如皋]</sup> ① 背部。 ② 背后，身后。  
 1. 【[背脊心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_jieh_xien.md#背脊心)】`bei5 jieh7 xien1` <sup>[泰州]</sup> 人的背部中间部位：～痒吖不得命，你同我抓啊子。  
 1. 【[背理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_li.md#背理)】`bei5 li3` <sup>[如东]</sup> 没有理。  
@@ -960,8 +962,9 @@
 1. 【[背气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_qi.md#背气)】`bei5 qi5` <sup>[泰州]</sup> 呼吸因受到刺激而暂时停止：他是背气，同他拍两下子就没事唻。  
 1. 【[背手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_sheu.md#背手)】`bei5 sheu3` <sup>[如东]</sup> 两手放在背后。  
 1. 【[背手亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_sheu_lian.md#背手亮)】`bei5 sheu3 lian6` <sup>[兴化]</sup> 光线从右侧射来，被手的影子遮着：把身子转过来，这吖写字～。  
-1. 【[背时/悖时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_shr.md#背时/悖时)】`bei5 shr2` <small>/pəi5 sɿ2/<sup>兴化</sup>, /pei5 sɿ2/<sup>如皋</sup></small> ① 时运不好，诸事不顺。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰州\]</sup>：王二一生～。<sup>\[如东\]</sup> ② 不合时宜<sup>\[兴化\]</sup>：他上吖年纪，有些～啊，遇事总喜欢唠叨几句。<sup>\[兴化\]</sup> ③ 过时，不合时尚<sup>\[泰州\]</sup>：这件衣裳的式样早就～唻，他俫少年人没得眼睛相。<sup>\[泰州\]</sup>  
+1. 【[背时/悖时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_shr.md#背时/悖时)】`bei5 shr2` <small>/pəi5 sɿ2/<sup>兴化</sup>, /pei5 sɿ2/<sup>如皋</sup>, /pəɪ5 sɿ2/<sup>泰兴</sup></small> ① 时运不好，诸事不顺。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰州\]</sup>：王二一生～。<sup>\[如东\]</sup> ② 不合时宜<sup>\[兴化\]</sup>：他上吖年纪，有些～啊，遇事总喜欢唠叨几句。<sup>\[兴化\]</sup> ③ 过时，不合时尚<sup>\[泰州\]</sup>：这件衣裳的式样早就～唻，他俫少年人没得眼睛相。<sup>\[泰州\]</sup> ④ 倒霉；不走运。<sup>\[泰兴\]</sup>  
 1. 【[背地里头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_ti_li_teu.md#背地里头)】`bei5 ti6 li3 teu` <sup>[东台]</sup> 私下，不当面暗地里的意思。  
+1. 【[背地里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_ti_lii.md#背地里)】`bei5 ti6 lii` <small>/pəɪ5 t͡ɕʰʝ1 ləɪ/<sup>泰兴</sup></small> 暗中；暗地里背着人做事。<sup>\[泰兴\]</sup>  
 1. 【[背道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_to.md#背道)】`bei5 to` <sup>[兴化]</sup> 偏僻的地方：那个地方～，晚上路过要留点儿神。  
 1. 【[背道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_to.md#背道)】`bei5 to6` <small>/pei5 tʰɔ1/<sup>如皋</sup></small> 偏僻闭塞<sup>\[如皋\]</sup><sup>\[泰州\]</sup>：～小路<sup>\[泰州\]</sup>｜他家住的这个地方稍微～点儿。<sup>\[泰州\]</sup>  
 1. 【[背心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_xien.md#背心)】`bei5 xien1` <sup>[如皋]</sup> 背部中央。  

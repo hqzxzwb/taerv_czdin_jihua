@@ -273,6 +273,8 @@
 1. 【[骂架](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_jia.md#骂架)】`ma6 jia5` <sup>[如东]</sup> 吵架斗嘴。  
 1. 【[骂骂咧咧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma_lae_lae.md#骂骂咧咧)】`ma6 ma6 lae1 lae1` <sup>[东台]</sup> 一边说话，一边骂人。  
 1. 【[骂名](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_mien.md#骂名)】`ma6 mien2` <sup>[泰州]</sup> 坏的名声：他蹾过好几个单位，没得一个地方有～。  
+1. 【[骂名](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_mien.md#骂名)】`ma6 mien2` <small>/mɑ1 miŋ2/<sup>泰兴</sup></small> 很坏的名声。<sup>\[泰兴\]</sup>  
+1. 【[骂天摵地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_tin_seh_ti.md#骂天摵地)】`ma6 tin1 seh7 ti6` <small>/mɑ1 tʰĩ1 səʔ7 t͡ɕʰʝ1/<sup>泰兴</sup></small> 谓态度恶劣、面色愠怒之态。<sup>\[泰兴\]</sup>  
 1. 【[埋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae.md#埋)】`mae2` <small>/mɛ2/<sup>兴化</sup>, /mɛ2/<sup>如皋</sup>, /me2/<sup>泰县</sup></small> ① 蹲、登、躲（暂时在）。如皋西乡话<sup>\[如皋\]</sup>：你先～啊这许．我等刻儿来接你。<sup>\[如皋\]</sup> ② 除一般释义外，东台话里还有停留、迟钝之义<sup>\[东台\]</sup>：你老～在那块做甚的？<sup>\[东台\]</sup> ③ 蹲<sup>\[兴化\]</sup>：～啊家里不出来。<sup>\[兴化\]</sup>｜你这几天～啊哪许嗲？<sup>\[兴化\]</sup> ④ 留、蹲：今朝你就～在这块吧。<sup>\[泰县\]</sup>  
 1. 【[埋敦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_den.md#埋敦)】`mae2 den` ① 形容动作呆板、不活劲。或作“埋钝”。<sup>\[东台\]</sup> ② 指稀饭煮得厚墩墩的。<sup>\[东台\]</sup>  
 1. 【[埋顿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_den.md#埋顿)】`mae2 den5` <small>/me2 təŋ5/<sup>泰县</sup></small> ① 行动迟缓。<sup>\[如东\]</sup>：张三做事怎吖这吖～。<sup>\[如东\]</sup> ② 没有精神：这个鸡子最近～，不晓得甚的原因。<sup>\[泰县\]</sup>  
@@ -978,6 +980,8 @@
 1. 【[闷灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_zo.md#闷灶)】`men6 zo5` <sup>[如皋]</sup> 无烟囱的灶。  
 1. 【[闷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_zz.md#闷子)】`men6 zz` <small>/mən6 t͡sɿ/<sup>兴化</sup>, /məŋ1 t͡sɿ/<sup>泰兴</sup></small> ① 性格内向的人<sup>\[兴化\]</sup>：银子性格比较开朗，可男人三宝却是个～，三变淡打不出个闷屁来。（钱国怀：《桃子》）<sup>\[兴化\]</sup> ② 性格内向不愿意与人交流的人<sup>\[泰州\]</sup>：这小伙是个～，同他蹾住块儿，一天都说不到三句话，真没得意思。<sup>\[泰州\]</sup> ③ 一种陶制器皿，有盖，可作锅用。<sup>\[泰兴\]</sup>  
 1. 【[哞<sub>儿</sub>哞<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meu_r_meu_r.md#哞<sub>儿</sub>哞<sub>儿</sub>)】`meu r meu r` <sup>[如皋]</sup> 牛鸣叫之声。  
+1. 【[咪里马拉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_lii_ma_la.md#咪里马拉)】`mi1 lii ma1 la` <small>/mʝ1 ləɪ mɑ1 lɑ/<sup>泰兴</sup></small> 拖拖拉拉<sup>\[泰兴\]</sup>  
+1. 【[咪马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ma.md#咪马)】`mi1 ma` <small>/mʝ1 mɑ/<sup>泰兴</sup></small> 慢，拖拉<sup>\[泰兴\]</sup>  
 1. 【[咪马吽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ma_hon.md#咪马吽)】`mi1 ma hon1` <sup>[兴化]</sup> 形容人胡涂、马虎或善于应付：这个人一头的～。此语套用佛经的“吗呢吽”。  
 1. 【[咪咪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_mi.md#咪咪)】`mi1 mi` <sup>[如东]</sup> 猫叫唤的声音。  
 1. 【[渳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#渳)】`mi1` ① 用嘴唇轻轻地喝一口。<sup>\[如东\]</sup>：～一口五粮液。<sup>\[如东\]</sup> ② 一次饮少量的酒或者饮料<sup>\[泰州\]</sup>：酒要是喝不惯，就随意～点ㄦ。<sup>\[泰州\]</sup>｜刚刚～啊一口，这个药还不算苦。<sup>\[泰州\]</sup>  
@@ -988,7 +992,7 @@
 1. 【[眯马人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ma_ren.md#眯马人)】`mi1 ma ren2` <sup>[如皋]</sup> 宽厚不争或糊涂的人。  
 1. 【[眯麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ma.md#眯麻)】`mi1 ma` <small>/mʝ1 ma/<sup>如皋</sup></small> ① 宽厚忍让，不计较。<sup>\[如皋\]</sup> ② 马虎胡涂。<sup>\[如皋\]</sup> ③ 头脑浑浑噩噩样子<sup>\[泰州\]</sup>：老王这个人～得很，这件事估计他说不清。<sup>\[泰州\]</sup> ④ 做事马虎的样子<sup>\[泰州\]</sup>：儿子上学的事是大事，你要当个事办，不能～。<sup>\[泰州\]</sup>｜做事不能～。<sup>\[泰州\]</sup>  
 1. 【[眯麻人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ma_ren.md#眯麻人)】`mi1 ma ren2` <sup>[如皋]</sup> 糊涂人。  
-1. 【[眯马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ma.md#眯马)】`mi1 ma1` <sup>[东台]</sup> ① 打瞌睡，眼睛睁不开的样子。 ② 形容人没精神：做事马虎｜要清醒，不能做～官。  
+1. 【[眯马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ma.md#眯马)】`mi1 ma1` <sup>[东台]</sup> ① 打瞌睡，眼睛睁不开的样子。 ② 形容人没精神，做事马虎：要清醒，不能做～官。  
 1. 【[眯麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ma.md#眯麻)】`mi1 ma1` <sup>[泰县]</sup> ① 不果断：这个人比较～。 ② 瞌睡，慢慢地想睡觉：今朝他忙吖一天，现在～下来啊啦。  
 1. 【[眯眯麻麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_mi_ma_ma.md#眯眯麻麻)】`mi1 mi1 ma1 ma1` <sup>[泰州]</sup> 做事马马虎虎的样子：你同私人老板打工，做事不能～的。  
 1. 【[眯猫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_mo_r.md#眯猫<sub>儿</sub>)】`mi1 mo2 r` <sup>[如东]</sup> 母猫。  

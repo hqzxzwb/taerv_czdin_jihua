@@ -80,14 +80,16 @@
 1. 【[漓黄龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_van_lon.md#漓黄龙)】`la2 van2 lon2` <sup>[如皋]</sup> 流鼻涕。  
 1. 【[漓尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_xy.md#漓尿)】`la2 xy1` <small>/la2 ɕy1/<sup>如皋</sup></small> ① 尿床。<sup>\[如东\]</sup> ② 尿床，排尿失禁。<sup>\[如皋\]</sup>  
 1. 【[漓尿宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_xy_bo_r.md#漓尿宝<sub>儿</sub>)】`la2 xy1 bo3 r` <small>/la2 ɕy1 pɔ˞3/<sup>如皋</sup></small> ① 尿床的小孩。<sup>\[如东\]</sup> ② 嘲笑用语。指经常尿床的人，主要指小孩。<sup>\[如皋\]</sup> ③ 大蓑蛾的幼虫，藏在用叶、柄裹成的长椎形茧中，挂在树枝上。<sup>\[如皋\]</sup>  
-1. 【[哪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la.md#哪)】`la3` <small>/na3/<sup>泰县</sup></small> ① 疑问代词。<sup>\[如东\]</sup> ② 难道，哪里<sup>\[泰县\]</sup>：这事～是我做的？<sup>\[泰县\]</sup>  
+1. 【[哪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la.md#哪)】`la3` <small>/na3/<sup>泰县</sup></small> ① 疑问代词 ② 难道，哪里<sup>\[泰县\]</sup>：这事～是我做的？<sup>\[泰县\]</sup>  
 1. 【[哪啊咑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_a_da.md#哪啊咑)】`la3 a da3` <sup>[兴化]</sup> （兴化东部乡镇口语）问哪儿去了：冯二家小伙～？  
 1. 【[哪把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ba.md#哪把)】`la3 ba3` <sup>[兴化]</sup> 费力、费时：这吖多的菜～一吃吤！｜这吖多的东西～一搬㖸！  
 1. 【[哪百年的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_boh_nin_dii.md#哪百年的)】`la3 boh7 nin2 dii` <sup>[泰州]</sup> ① 意谓过时：先结婚，后养伢儿，你说的这是～话，现在带啊身上去领结婚证的吓煞人唻！ ② 意谓“无可查考”：我也不晓得同他是～亲，我家老的都不曾听说过。  
 1. 【[哪百年上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_boh_nin_shan.md#哪百年上)】`la3 boh7 nin2 shan` <sup>[如皋]</sup> 年代久远。  
 1. 【[哪百年子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_boh_nin_zz.md#哪百年子)】`la3 boh7 nin2 zz` <sup>[东台]</sup> 对时间太久的夸张说法：那是～的事，哪个记得？  
+1. 【[哪百年子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_boh_nin_zz.md#哪百年子)】`la3 boh7 nin2 zz` <small>/lɑ3 pɔʔ7 nĩ2 t͡sɿ/<sup>泰兴</sup></small> 极言久前，或极言永远不能实现<sup>\[泰兴\]</sup>：他说的不晓得是～的事<sup>\[泰兴\]</sup>｜到～才轮到我哦<sup>\[泰兴\]</sup>  
 1. 【[哪对过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_duei_gu.md#哪对过)】`la3 duei5 gu5` <sup>[如东]</sup> ① 什么地方：东西放吖～？ ② 什么地方的对面。  
 1. 【[哪家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ga.md#哪家)】`la3 ga` <sup>[兴化]</sup> 问谁人、谁家：这是～的规矩？｜这是～的小大爷？  
+1. 【[哪家的伢<sub>儿</sub>哪家抱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ga_dii_nga.md#哪家的伢<sub>儿</sub>哪家抱)】`la3 ga dii nga2 r la3 ga po6` <small>/lɑ3 kɑ təɪ ŋɑ˞2 lɑ3 kɑ pʰɔ1/<sup>泰兴</sup></small> 喻各人、各家的事自己办好，各人自扫门前雪。<sup>\[泰兴\]</sup>  
 1. 【[哪个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_gu.md#哪个)】`la3 gu5, la3 gu5-3` 谁  
 1. 【[哪个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_gu.md#哪个)】`la3 gu5` <small>/la3 ko5/<sup>兴化</sup>, /la3 kʊ5/<sup>如皋</sup>, /lɑ3 kɤɯ/<sup>泰兴</sup>, /na3 ko/<sup>泰县</sup></small> 哪一个；谁<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup><sup>\[泰县\]</sup>：你说的是～？<sup>\[如东\]</sup>｜这是～说的？<sup>\[兴化\]</sup>｜到啊庄上，认不得～？<sup>\[兴化\]</sup>｜他是～？<sup>\[泰县\]</sup>  
 1. 【[哪个晓得啋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_gu_xio_deh.md#哪个晓得啋)】`la3 gu5 xio3 deh7 cae` <sup>[如皋]</sup> 叹息语，哪个知道会这样呢：他才在这许好好儿的，家去就死啊，～！  
@@ -96,6 +98,7 @@
 1. 【[哪许沉船哪许捞锅腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_hae_chen_chun.md#哪许沉船哪许捞锅腔)】`la3 hae chen2 chun2 la3 hae lo2 gu1 qian1` <sup>[东台]</sup> 哪里跌倒或者受损就在哪里补救。  
 1. 【[哪许点<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_hae_din_r.md#哪许点<sub>儿</sub>)】`la3 hae din3 r` <sup>[如皋]</sup> 哪里。  
 1. 【[哪许说哪许了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_hae_shuh_la.md#哪许说哪许了)】`la3 hae shuh7 la3 hae lio3` <sup>[兴化]</sup> 要求对谈话内容不外传，也不必深究：这件事我俫两个人晓得就好啊，～。  
+1. 【[哪许说哪许散](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_hae_shuh_la.md#哪许说哪许散)】`la3 hae shuh7 la3 hae saen5` <small>/lɑ3 xɛ sʊʔ7 lɑ3 xɛ ɕiɛ̃5/<sup>泰兴</sup></small> 谓说了就结束了，不再传言。多指不可或不宜告人的话。<sup>\[泰兴\]</sup>  
 1. 【[哪许说哪许消](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_hae_shuh_la.md#哪许说哪许消)】`la3 hae shuh7 la3 hae xio1` <sup>[如皋]</sup> 不管在哪里说过，说过就算了，作为未曾说。  
 1. 【[哪许通吖哪许](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_hae_ton_nga.md#哪许通吖哪许)】`la3 hae1 ton5 nga la3 hae1` <sup>[东台]</sup> 指事情的来龙去脉及各种关系：我刚来，还不晓得～。  
 1. 【[哪许](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_hae.md#哪许)】`la3 hae5` <sup>[兴化]</sup> ① 疑问，相当于哪儿、哪里：问方所｜你上～去？｜你走～来的？｜你～不舒服？ ② 虚指或任指：他想到～说到～。 ③ 通过反诘达到否定：他～是大学生啊？连高中也不曾毕业。  
@@ -106,6 +109,7 @@
 1. 【[哪一马对哪一车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ieh_ma_dy.md#哪一马对哪一车)】`la3 ieh7 ma3 dy5 la3 ieh7 jy1` <sup>[东台]</sup> 搞不清头绪，全乱套了。  
 1. 【[哪一门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ieh_men.md#哪一门)】`la3 ieh7 men2` <small>/la3 iəʔ7 mən2/<sup>兴化</sup></small> ① 用于反诘句，什么、什么道理<sup>\[兴化\]</sup>：有责任我自己负，要他急的～？<sup>\[兴化\]</sup> ② 哪一家的，通过疑问表示否定<sup>\[泰州\]</sup>：人家又不是说的你，你生的～的气？<sup>\[泰州\]</sup>｜他是你的～亲啊，我怎吖不曾听你说过的？<sup>\[泰州\]</sup>  
 1. 【[哪有猫<sub>儿</sub>不吃腥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ieu_mo_r.md#哪有猫<sub>儿</sub>不吃腥)】`la3 ieu3 mo2 r beh7 qieh7 xien1` <sup>[东台]</sup> 讽喻某类人物必然干出某类坏事。  
+1. 【[哪有闲钱补笊篱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ieu_xiaen_qin.md#哪有闲钱补笊篱)】`la3 ieu3 xiaen2 qin2 bv3 zho3 lei` <small>/lɑ3 iɤɯ3 ɕiɛ̃2 t͡ɕʰĩ2 pu3 t͡sɔ3 ləɪ/<sup>泰兴</sup></small> 比喻无钱办某件不重要的事情。<sup>\[泰兴\]</sup>  
 1. 【[哪月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_iuh.md#哪月)】`la3 iuh8` <sup>[如东]</sup> 哪一月。  
 1. 【[哪脚下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_jiah_ha.md#哪脚下)】`la3 jiah7 ha` <small>/la3 t͡ɕiaʔ7 xa/<sup>如皋</sup></small> ① 哪里。<sup>\[如东\]</sup> ② 哪儿。<sup>\[如皋\]</sup>  
 1. 【[哪境](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_jien.md#哪境)】`la3 jien` 哪边  
@@ -1170,7 +1174,7 @@
 1. 【[临辰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_chen.md#临辰)】`lien2 chen2` <sup>[东台]</sup> 快临近某一时辰：12点吃饭，1点钟就出发，～吃了收拾收拾午睡就睡不成了。  
 1. 【[临到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_do.md#临到)】`lien2 do5` <sup>[东台]</sup> 轮到；将到的意思。  
 1. 【[临窠达月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_ku_taeh_iuh.md#临窠达月)】`lien2 ku1 taeh8 iuh8` <sup>[如东]</sup> 妇女即将分娩。  
-1. 【[临了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_lio.md#临了)】`lien2 lio3` ① 最后。<sup>\[如东\]</sup><sup>\[东台\]</sup>：～还是他去。<sup>\[如东\]</sup>｜要得好，到～。<sup>\[东台\]</sup> ② 接近结束时，最后<sup>\[泰州\]</sup>：他头上来还可以，弄到～还是老李赢吖。<sup>\[泰州\]</sup>  
+1. 【[临了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_lio.md#临了)】`lien2 lio3` <small>/liŋ2 liɔ3/<sup>泰兴</sup></small> 最后，末了。<sup>\[泰兴\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰州\]</sup>：～还是他去。<sup>\[如东\]</sup>｜要得好，到～。<sup>\[东台\]</sup>｜他头上来还可以，弄到～还是老李赢吖。<sup>\[泰州\]</sup>  
 1. 【[临上轿，穿耳朵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_shan_qio_chun.md#临上轿，穿耳朵)】`lien2 shan6 qio6 chun1 er3 do` <sup>[东台]</sup> 以姑娘出嫁喻指准备工作太仓促，没有回旋余地。  
 1. 【[临时工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_shr_gon.md#临时工)】`lien2 shr2 gon1` <sup>[如东]</sup> 用工制度的一种。临时招募参加企业劳动的工人。  
 1. 【[临时待月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_shr_tae_iuh.md#临时待月)】`lien2 shr2 tae6 iuh8` <small>/liɪ̃2 sɿ2 tʰɛ6 yuʔ8/<sup>兴化</sup>, /niŋ2 sɿ2 tʰe1 yʊʔ8/<sup>泰县</sup></small> ① 妇女怀孕足月，即将分娩。<sup>\[兴化\]</sup> ② 即将临产。<sup>\[泰县\]</sup>  

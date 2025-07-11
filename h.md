@@ -9,6 +9,8 @@
 1. 【[哈不郎当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_beh_lan_dan.md#哈不郎当)】`ha1 beh7 lan2 dan1` <sup>[东台]</sup> 拢共，合在一起：这个月的收入～头两万块钱。  
 1. 【[哈而糊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_er_hv.md#哈而糊)】`ha1 er hv2` <sup>[如东]</sup> 糊里糊涂：出门办事不能～。  
 1. 【[哈而糊之](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_er_hv_zhr.md#哈而糊之)】`ha1 er hv2 zhr` <sup>[兴化]</sup> 形容人糊里糊涂的：他一天到晚～的，除啊喝酒就是睡觉。  
+1. 【[哈痒痒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ian_ian.md#哈痒痒)】`ha1 ian3 ian` <small>/xɑ1 iɑŋ3 iɑŋ/<sup>泰兴</sup></small> 搔以使痒<sup>\[泰兴\]</sup>  
+1. 【[哈鸡鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ji_ji.md#哈鸡鸡)】`ha1 ji1 ji` <small>/xɑ1 t͡ɕʝ1 t͡ɕʝ/<sup>泰兴</sup></small> 哈痒痒。<sup>\[泰兴\]</sup>  
 1. 【[虾荒蟹熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_huan_hae_shoh.md#虾荒蟹熟)】`ha1 huan1 hae3 shoh8` <sup>[东台]</sup> （农谚）一般虾多是灾年，蟹多是丰年。  
 1. 【[虾箩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_lu.md#虾箩)】`ha1 lu2` <sup>[如东]</sup> 容器。竹篾编成，口圆底方，有背带。渔民捕捞时，背在身上存放鱼虾等。  
 1. 【[虾<sub>儿</sub>叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_r_cha.md#虾<sub>儿</sub>叉)】`ha1 r cha1` <sup>[如皋]</sup> 专戳沼虾的针叉。  
@@ -62,11 +64,12 @@
 1. 【[还不曾会跑就想吖溜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_beh_cen_huei.md#还不曾会跑就想吖溜)】`ha2 beh cen2 huei6 po2 qieu6 xian3 nga lieu1` <small>/xɑ2 pəʔ t͡sʰəŋ2 xuəɪ1 pʰɔ2 t͡ɕʰiɤɯ1 ɕiɑŋ3 ŋa ləɪ1/<sup>泰兴</sup></small> 喻毫无基础、本领，就想办大事。溜，大步快走。<sup>\[泰兴\]</sup>  
 1. 【[哈巴郎当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ba_lan_dan.md#哈巴郎当)】`ha3 ba lan2 dan1` <sup>[泰县]</sup> 总共：我～就这几角钱。  
 1. 【[哈喇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_la.md#哈喇)】`ha3 la` <sup>[泰州]</sup> 蒙古语音译，指事情搞大了：他家小伙结婚本来只打算请四五桌人，哪晓得把人一排，～啊唻，没得20桌弄不下来。｜我俫厂里发年终奖，就是个人发1000块，3000多个人发咖子，也～啊唻。  
+1. 【[哈马郎当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ma_lan_dan.md#哈马郎当)】`ha3 ma lan2 dan1` <small>/xɑ3 mɑ lɑŋ2 tɑŋ1/<sup>泰兴</sup></small> 总共，合计。<sup>\[泰兴\]</sup>  
 1. 【[𤹉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha.md#𤹉)】`ha3` <sup>[如皋]</sup> （借字）胡涂，不精明。  
 1. 【[𤹉爹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_dia.md#𤹉爹)】`ha3 dia1` <sup>[泰县]</sup> 糊涂人。  
 1. 【[𤹉货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_hu.md#𤹉货)】`ha3 hu5` <sup>[泰县]</sup> 傻子。  
 1. 【[𤹉话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_hua.md#𤹉话)】`ha3 hua6` <sup>[泰州]</sup> 傻话，愚蠢的话。  
-1. 【[𤹉糊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_hv.md#𤹉糊)】`ha3 hv` <sup>[泰兴]</sup> 稀里糊涂。也说𤹉𤹉糊：箇个事还能～呢？/这个事难道可以稀里糊涂吗？  
+1. 【[𤹉糊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_hv.md#𤹉糊)】`ha3 hv` <small>/xɑ3 fʋ/<sup>泰兴</sup></small> 马虎，稀里糊涂，不负责任。也说𤹉𤹉糊。<sup>\[泰兴\]</sup>：箇个事还能～呢？/这个事难道可以稀里糊涂吗？<sup>\[泰兴\]</sup>  
 1. 【[𤹉里𤹉气的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_lii_ha_qi.md#𤹉里𤹉气的)】`ha3 lii ha3 qi5 dii` <sup>[如皋]</sup> 傻乎乎的。  
 1. 【[𤹉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_r.md#𤹉<sub>儿</sub>)】`ha3 r` <small>/xa˞3/<sup>如皋</sup>, /xa3 ɚ/<sup>泰县</sup></small> 即“傻瓜”。<sup>\[如皋\]</sup><sup>\[泰县\]</sup>  
 1. 【[𤹉<sub>儿</sub>糊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_r_hv.md#𤹉<sub>儿</sub>糊)】`ha3 r hv2` <small>/xa˞3 fu2/<sup>如皋</sup>, /xa3 ɚ fu2/<sup>泰县</sup></small> ① 稀里糊涂的。<sup>\[如皋\]</sup> ② 糊涂。<sup>\[泰县\]</sup>  
@@ -1048,9 +1051,10 @@
 1. 【[红枣<sub>儿</sub>茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_zo_r_cha.md#红枣<sub>儿</sub>茶)】`hon2 zo3 r cha2` <sup>[如皋]</sup> 煮红枣儿放红糖，待客作茶用。  
 1. 【[红枣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_zo_zz.md#红枣子)】`hon2 zo3 zz` <small>/xɔŋ2 t͡sɔ3 t͡sɿ/<sup>泰兴</sup></small> 红枣。<sup>\[泰兴\]</sup>  
 1. 【[红嘴鸥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_zuei_ngeu.md#红嘴鸥)】`hon2 zuei3 ngeu1` <sup>[如东]</sup> 鸥科动物红嘴鸥，也称海鸥。  
-1. 【[哄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon.md#哄)】`hon3` <sup>[东台]</sup> ① 说谎；欺骗。 ② 哄逗：～伢儿。  
+1. 【[哄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon.md#哄)】`hon3` <small>/xoŋ3/<sup>兴化</sup>, /xɔŋ3/<sup>如皋</sup>, /xɔŋ3/<sup>泰兴</sup>, /xoŋ3/<sup>泰县</sup></small> ① 欺骗 ② 哄逗：～伢儿。  
 1. 【[哄肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_dv_zz.md#哄肚子)】`hon3 dv3 zz` <sup>[如皋]</sup> 吃的食物质量差，好似吃饱了，其实容易饿。  
 1. 【[哄吓诈骗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_heh_zha_pin.md#哄吓诈骗)】`hon3 heh7 zha5 pin5` <small>/xoŋ3 xəʔ7 t͡sa5 pʰiɪ̃5/<sup>兴化</sup></small> ① 指各种欺诈或威胁手段<sup>\[兴化\]</sup>：更有那使促狭的，通同了几个人，～，逼得别人大醉，以为笑乐。（《广陵潮》三三）<sup>\[兴化\]</sup> ② 泛指各种威胁欺诈手段<sup>\[泰州\]</sup>：这小伙走江湖的，你同他玩～不得用。<sup>\[泰州\]</sup>  
+1. 【[哄鸡子上窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_ji_zz_shan.md#哄鸡子上窠)】`hon3 ji1 zz shan6 ku1` <small>/xɔŋ3 t͡ɕʝ1 t͡sɿ sɑŋ1 kʰɤɯ1/<sup>泰兴</sup></small> 比喻逗引、诱惑人上当。<sup>\[泰兴\]</sup>  
 1. 【[哄伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_nga_r.md#哄伢<sub>儿</sub>)】`hon3 nga2 r` <sup>[如皋]</sup> 带小孩。  
 1. 【[哄人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_ren.md#哄人)】`hon3 ren2` <small>/xɔŋ3 ɻəŋ2/<sup>如皋</sup>, /xɔŋ3 ɻəŋ2/<sup>泰兴</sup></small> 骗人。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
 1. 【[哄煞婆做煞婆，𠵹煞婆歇煞婆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_shaeh_pu_zu.md#哄煞婆做煞婆，𠵹煞婆歇煞婆)】`hon3 shaeh7 pu2 zu5 shaeh7 pu2 gan1 shaeh7 pu2 xih7 shaeh7 pu2` <sup>[东台]</sup> 儿媳妇尊重婆婆，婆婆就有积极性。  

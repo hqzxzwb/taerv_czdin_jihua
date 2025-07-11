@@ -212,6 +212,8 @@
 1. 【[哈不郎当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_beh_lan_dan.md#哈不郎当)】`ha1 beh7 lan2 dan1` <sup>[东台]</sup> 拢共，合在一起：这个月的收入～头两万块钱。  
 1. 【[哈而糊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_er_hv.md#哈而糊)】`ha1 er hv2` <sup>[如东]</sup> 糊里糊涂：出门办事不能～。  
 1. 【[哈而糊之](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_er_hv_zhr.md#哈而糊之)】`ha1 er hv2 zhr` <sup>[兴化]</sup> 形容人糊里糊涂的：他一天到晚～的，除啊喝酒就是睡觉。  
+1. 【[哈痒痒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ian_ian.md#哈痒痒)】`ha1 ian3 ian` <small>/xɑ1 iɑŋ3 iɑŋ/<sup>泰兴</sup></small> 搔以使痒<sup>\[泰兴\]</sup>  
+1. 【[哈鸡鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ji_ji.md#哈鸡鸡)】`ha1 ji1 ji` <small>/xɑ1 t͡ɕʝ1 t͡ɕʝ/<sup>泰兴</sup></small> 哈痒痒。<sup>\[泰兴\]</sup>  
 1. 【[虾荒蟹熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_huan_hae_shoh.md#虾荒蟹熟)】`ha1 huan1 hae3 shoh8` <sup>[东台]</sup> （农谚）一般虾多是灾年，蟹多是丰年。  
 1. 【[虾箩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_lu.md#虾箩)】`ha1 lu2` <sup>[如东]</sup> 容器。竹篾编成，口圆底方，有背带。渔民捕捞时，背在身上存放鱼虾等。  
 1. 【[虾<sub>儿</sub>叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_r_cha.md#虾<sub>儿</sub>叉)】`ha1 r cha1` <sup>[如皋]</sup> 专戳沼虾的针叉。  
