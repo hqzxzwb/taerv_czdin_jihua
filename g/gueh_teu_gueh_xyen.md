@@ -29,3 +29,9 @@ gueh7 teu gueh7 xyen3 r lii
   - ～都痒。
 - 内里坏、坏透了
   - 从～坏起。
+
+# 骨头骨榫
+gueh7 teu gueh7 xyen3
++ 全身的骨关节。
+  * 泰兴方言辞典
+    - 感冒了，～里难过。
