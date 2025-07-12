@@ -1285,6 +1285,7 @@
 1. 【[褈种火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_zhon_hu.md#褈种火)】`chon2 zhon3 hu3` <sup>[如皋]</sup> 给取暖用的炉子添燃料。  
 1. 【[重倒话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_do_hua.md#重倒话)】`chon2 do hua6` <sup>[如皋]</sup> 啰唆、说话重复紊乱。  
 1. 【[重倒话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_do_hua.md#重倒话)】`chon2 do5 hua6` <sup>[东台]</sup> 啰唆，重三倒四的话。  
+1. 【[重阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_ian.md#重阳)】`chon2 ian2` <small>/t͡sʰɔŋ2 iɑŋ2/<sup>泰兴</sup></small> 农历九月初九重阳节。古时谓九为阳数之极，九月初九故称“重阳”。乡间有登高敬老等俗。乡人云：“吃咖重阳酒，夜作不离手。吃咖重阳糕，就把晚茶撂。”谓不需要再吃小食了。又称“九九重阳”。“九九”因与“久久”同音，故又有长久长寿的含义。<sup>\[泰兴\]</sup>  
 1. 【[重阳暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_ian_bo.md#重阳暴)】`chon2 ian2 bo5` <small>/t͡sʰoŋ2 iaŋ2 pɔ5/<sup>兴化</sup>, /t͡sʰɔŋ2 iã2 pɔ5/<sup>如皋</sup></small> ① 重阳节前后到来的寒流。<sup>\[如皋\]</sup> ② 农历九月，因寒流引起的大风降温天气<sup>\[兴化\]</sup>：这年“双抢”季节，一场～兜头刮来，气势汹汹……（马春阳《姐妹姻缘船迷传》）<sup>\[兴化\]</sup>  
 1. 【[重阳糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_ian_go.md#重阳糕)】`chon2 ian2 go1` <small>/t͡sʰoŋ2 iaŋ2 kɔ1/<sup>兴化</sup>, /t͡sʰɔŋ2 iã2 kɔ1/<sup>如皋</sup></small> ① 糕点的一种。糯米屑加糖制成，一般长方形，有的在糕面上布饰红绿花纹。重阳节食用。<sup>\[如东\]</sup> ② 菊花形糯米粉蒸糕，插有重阳旗儿。<sup>\[如皋\]</sup> ③ 重阳节敬神用的黏糕，菱形。<sup>\[兴化\]</sup> ④ 重阳节的节庆食品，菱形，上插三角形旗，坊间以为此日吃糕，取其“百事俱高”之义。<sup>\[泰州\]</sup>  
 1. 【[重阳酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_ian_jieu.md#重阳酒)】`chon2 ian2 jieu3` <sup>[如皋]</sup> 俗说“吃咖重阳酒，便把夜作咎”，是旧时作坊老板待工人的酒席。  
@@ -1296,9 +1297,11 @@
 1. 【[重起重落桩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_qi_chon_lah.md#重起重落桩)】`chon2 qi3 chon2 lah8 zhuan1` <sup>[东台]</sup> ［喻］指一切重新开始。  
 1. 【[重三倒四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_saen_do_sz.md#重三倒四)】`chon2 saen1 do3 sz5` <sup>[泰州]</sup> 重复颠倒说了很多次：你在这块～的说咖半天，我还不曾弄清你的意思。｜他岁数大啊，说话南面有点儿～的，你带谅点儿。  
 1. 【[重三倒四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_saen_do_sz.md#重三倒四)】`chon2 saen1 do5 sz5` <small>/t͡sʰoŋ2 sɛ̃1 tɔ5 sɿ5/<sup>兴化</sup></small> ① 颠来倒去，反夏无常。<sup>\[如东\]</sup>：说话不要～的。<sup>\[如东\]</sup> ② 形容说话重复啰唆，颠颠倒倒，某个意思翻来覆去说。<sup>\[东台\]</sup> ③ 形容语言啰唆，多次重复<sup>\[兴化\]</sup>：一件小事他～的说，烦死个人。<sup>\[兴化\]</sup>  
-1. 【[重孙女](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_suen_ny.md#重孙女)】`chon2 suen1 ny3` <sup>[东台]</sup> 即曾孙女，孙子的女儿。  
+1. 【[重孙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_suen.md#重孙)】`chon2 suen1` <small>/t͡sʰɔŋ2 suəŋ1/<sup>泰兴</sup></small> 曾孙，孙子的儿子。<sup>\[泰兴\]</sup>  
+1. 【[重孙女](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_suen_ny.md#重孙女)】`chon2 suen1 ny3` <small>/t͡sʰɔŋ2 suəŋ1 ny3/<sup>泰兴</sup></small> 曾孙女，孙子的女儿。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[重孙<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_suen_r.md#重孙<sub>儿</sub>)】`chon2 suen1 r` <sup>[东台]</sup> 即曾孙，孙子的儿子。  
 1. 【[重孙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_suen_zz.md#重孙子)】`chon2 suen1 zz` <sup>[泰州]</sup> 孙子的儿子。  
+1. 【[重田花生没得剥，重田芋头一层壳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_tin_hua_shen.md#重田花生没得剥，重田芋头一层壳)】`chon2 tin2 hua1 shen1 meh8 deh bah7 chon2 tin2 y6 teu ieh7 cen2 kah7` <small>/t͡sʰɔŋ2 tʰĩ2 xuɑ1 səŋ1 məʔ8 təʔ pɑʔ7 t͡sʰɔŋ2 tʰĩ2 y1 tʰəɪ iʔ7 t͡sʰəŋ2 kʰɑʔ7/<sup>泰兴</sup></small> 农谚。谓种田每年要换茬口，否则会歉收。<sup>\[泰兴\]</sup>  
 1. 【[重条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_tio.md#重条)】`chon2 tio2` <small>/t͡sʰoŋ2 tʰiɔ2/<sup>兴化</sup>, /t͡sʰɔŋ2 tʰiɔ2/<sup>如皋</sup>, /t͡sʰoŋ2 tʰiɔ2/<sup>泰县</sup></small> ① 包在鞋底盖板边沿上的布条。<sup>\[如皋\]</sup> ② 包在鞋底边沿上的布条。<sup>\[兴化\]</sup> ③ 缝鞋底时，包在底边上的布条。<sup>\[泰县\]</sup>  
 1. 【[重新](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_xien.md#重新)】`chon2 xien1` <sup>[如东]</sup> 再一次从头开始：～做。  
 1. 【[重张](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_zhan.md#重张)】`chon2 zhan1` <sup>[如东]</sup> 在耷子和的耷子中重叠的相同牌，这张牌叫重张。也称驼子。  
@@ -2049,6 +2052,8 @@
 1. 【[促](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh.md#促)】`coh7` <small>/t͡sʰɔʔ7/<sup>兴化</sup></small> ① 诡诈、缺德<sup>\[兴化\]</sup>：这个人太～，怕没得老人家做。<sup>\[兴化\]</sup> ② （泰州词典作諔）<sup>\[泰州\]</sup> ③ 用诡诈的手段捉弄人或者恶作剧<sup>\[泰州\]</sup>：这个小伙～咖不得命，老孙经常捱他弄得哭笑不得。<sup>\[泰州\]</sup>｜老李多～咯，他大杯肚里全是矿泉水，同小赵杯里倒的是真酒，三杯一干，就把小赵弄吖醉啊。<sup>\[泰州\]</sup>  
 1. 【[促阳寿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_ian_sheu.md#促阳寿)】`coh7 ian2 sheu6` <sup>[如皋]</sup> 宿命论观，因为人过于促狭而缩短寿命。  
 1. 【[促掐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_kaeh.md#促掐)】`coh7 kaeh` <sup>[兴化]</sup> 刻薄刁钻，暗中使坏作弄人。书面语多作“促狭”：他专做～事，捉弄老实人。｜“又做这等短命～的事！于你何干，何故定要害他……”（《水浒传》四一）  
+1. 【[促掐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_kaeh.md#促掐)】`coh7 kaeh` <small>/t͡sʰɔʔ7 kʰæʔ/<sup>泰兴</sup></small> 捉弄人；搞恶作剧；阴毒奸刁。也作“促掐”。<sup>\[泰兴\]</sup>：～～，过不到十八<sup>\[泰兴\]</sup>  
+1. 【[促掐鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_kaeh_guei.md#促掐鬼)】`coh7 kaeh guei3` <small>/t͡sʰɔʔ7 kʰæʔ kuəɪ3/<sup>泰兴</sup></small> 搞恶作剧的人。<sup>\[泰兴\]</sup>  
 1. 【[促掐痨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_kaeh_lo.md#促掐痨)】`coh7 kaeh7 lo2` <sup>[兴化]</sup> 专爱捉弄人的人：这个～坏点子多，一不留神就吃他的亏！  
 1. 【[促狭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_kuaeh.md#促狭)】`coh7 kuaeh` <small>/t͡sʰɔʔ7 kʰueʔ/<sup>如皋</sup>, /t͡sʰɔʔ7 kʰuæʔ/<sup>泰县</sup></small> ① 采用狡猾的主意或手段使对方上当。<sup>\[如东\]</sup>：季长如用吖个～主意，让王长明上吖当。<sup>\[如东\]</sup> ② 刁钻刻薄，爱捉弄人。<sup>\[如皋\]</sup> ③ 刁滑。<sup>\[泰县\]</sup> ④ 搞恶作剧捉弄人的行为<sup>\[泰州\]</sup>：这个小伙多～咖，小王同他在做块儿，吃咖他不少苦头。<sup>\[泰州\]</sup>  
 1. 【[促狭鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_kuaeh_guei.md#促狭鬼)】`coh7 kuaeh guei3` <small>/t͡sʰɔʔ7 kʰueʔ kuei3/<sup>如皋</sup></small> ① 非常狡诈的人。<sup>\[如东\]</sup> ② 促狭的人。<sup>\[如皋\]</sup>  

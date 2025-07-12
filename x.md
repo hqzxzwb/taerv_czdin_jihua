@@ -602,22 +602,23 @@
 1. 【[香肚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_dv.md#香肚)】`xian1 dv3` <sup>[兴化]</sup> 用猪直肠灌上碎肉和调料制成的食品。  
 1. 【[香肚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_dv_r.md#香肚<sub>儿</sub>)】`xian1 dv3 r` <sup>[如皋]</sup> 用猪膀胱膜灌猪肉馅呈球形的食品，每只250g左右。  
 1. 【[香附](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_fv.md#香附)】`xian1 fv6` <sup>[如东]</sup> 莎科植物莎草，多年生草本。匍匐根茎长，先端具肥大纺锤形的块根，外皮紫褐色。茎高95厘米，锐三角形。叶窄棱形。穗状花序。小坚果卵形。生长在田野间。  
-1. 【[香瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_gua.md#香瓜)】`xian1 gua1` <small>/ɕiaŋ1 kua1/<sup>兴化</sup></small> ① 葫芦科植物甜瓜，一年生匍匐草本。茎上具深槽，卷须攀援它物，具刺毛。叶互生，近圆形，掌状浅裂，边缘具不整齐锯齿。花单性同株，黄色。瓠果肉质，一般为椭圆形，通常黄白色或绿色。果内一般黄绿色，芳香。种子多数，黄色或灰白色。<sup>\[如东\]</sup> ② 甜瓜的一种，扁圆形，皮白或浅背色，味香甜，质脆嫩。也称“蹦瓜”。<sup>\[兴化\]</sup> ③ 泰州城北郊乡下产的一种生食甜瓜，夏季成熟，青色，表面有棱，以其香甜，故名。<sup>\[泰州\]</sup>  
+1. 【[香瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_gua.md#香瓜)】`xian1 gua1` <small>/ɕiaŋ1 kua1/<sup>兴化</sup>, /ɕiɑŋ1 kuɑ1/<sup>泰兴</sup></small> ① 葫芦科植物甜瓜，一年生匍匐草本。茎上具深槽，卷须攀援它物，具刺毛。叶互生，近圆形，掌状浅裂，边缘具不整齐锯齿。花单性同株，黄色。瓠果肉质，一般为椭圆形，通常黄白色或绿色。果内一般黄绿色，芳香。种子多数，黄色或灰白色。<sup>\[如东\]</sup> ② 甜瓜的一种，扁圆形，皮白或浅背色，味香甜，质脆嫩。也称“蹦瓜”。<sup>\[兴化\]</sup> ③ 泰州城北郊乡下产的一种生食甜瓜，夏季成熟，青色，表面有棱，以其香甜，故名。<sup>\[泰州\]</sup> ④ 甜瓜。一种味道甜美的瓜。<sup>\[泰兴\]</sup>  
 1. 【[香瓜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_gua_r.md#香瓜<sub>儿</sub>)】`xian1 gua1 r` <sup>[泰县]</sup> 黄金瓜。  
 1. 【[香干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_gun.md#香干)】`xian1 gun1` <small>/ɕiã1 kʊ̃1/<sup>如皋</sup></small> ① 五香煮的茶干。与“臭干”（臭卤浸制）相对。<sup>\[如皋\]</sup> ② 经过酱油、香料煮过的豆腐干。又叫茶干。<sup>\[东台\]</sup> ③ 相对“臭干”，一种豆腐干的名称，方约5厘米，厚约0.6厘米，酱色，制作时，加入茴香、花椒、大料、桂皮、丁香之类调味香料，通常直接食用，是大众下酒菜之一，也可以炒食，也可切碎充作饺子、点心的馅料。<sup>\[泰州\]</sup>  
 1. 【[香蒿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ho.md#香蒿)】`xian1 ho1` <sup>[如东]</sup> 菊科植物黄花蒿，一年生草本。高约1.5米。茎直立，圆柱形，表面具有纵浅槽幼时绿色，老时变为枯黄色；下部木质化，上部多分枝。叶互生，3回羽状细裂。头状花序球形，下垂，排列成圆锥花序。花黄色，管状。瘦果卵形，微小，淡褐色。生长在河岸砂地及海边。茎、花有特异香味，可制香精。  
+1. 【[香荷芋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_hu_y.md#香荷芋)】`xian1 hu y6` <small>/ɕiɑŋ1 xɤɯ y1/<sup>泰兴</sup></small> 一种品种较好的芋头。煮熟后结实有咬嚼，有香味。<sup>\[泰兴\]</sup>  
 1. 【[香䗙䘆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_hu_xin.md#香䗙䘆)】`xian1 hu2 xin1` <sup>[如皋]</sup> 体小如线香的红色蚯蚓，常作钓饵。又名红䗙䘆。与“臊䗙䘆”相对。  
 1. 【[香火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_hu.md#香火)】`xian1 hu3` <sup>[如东]</sup> ① 祭祀神佛和祖宗时点燃的香和烛。 ② 比喻有人传宗接代：不能断吖～。 ③ 寺庙中照料香火的人。也称庙祝。  
 1. 【[香火戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_hu_xi.md#香火戏)】`xian1 hu3 xi5` <sup>[兴化]</sup> 一种地方小戏，由“香火”数人，用打击乐器伴奏，边舞边唱，内容多为神鬼故事等。  
 1. 【[香花菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_hua_cae.md#香花菜)】`xian1 hua1 cae5` <sup>[如东]</sup> 唇形科植物留兰香，又名绿薄荷，多年生草本。高约13米。根茎曼延。茎方形，呈紫色或深绿争。叶对生，披针形，边缘具锯齿。轮伞花序密集成顶生穗状花序。花冠紫色或白色。小坚果卵形，黑色。裁培。  
-1. 【[香灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_huei.md#香灰)】`xian1 huei1` <small>/ɕiã1 xuei1/<sup>如皋</sup></small> ① 敬神香火的灰烬。<sup>\[如皋\]</sup> ② 线香燃烧后剩下的灰。<sup>\[如东\]</sup>  
+1. 【[香灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_huei.md#香灰)】`xian1 huei1` <small>/ɕiã1 xuei1/<sup>如皋</sup>, /ɕiɑŋ1 xuəɪ1/<sup>泰兴</sup></small> ① 敬神香火的灰烬。<sup>\[如皋\]</sup> ② 线香燃烧后剩下的灰。<sup>\[如东\]</sup> ③ 香燃烧后剩下的灰。特指敬祖先、神佛烧香剩余的灰。<sup>\[泰兴\]</sup>  
 1. 【[香胰子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_i_zz.md#香胰子)】`xian1 i2 zz` <sup>[兴化]</sup> 香皂的旧称。  
 1. 【[香油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ieu.md#香油)】`xian1 ieu2` <small>/ɕiaŋ1 iɤ2/<sup>兴化</sup>, /ɕiã1 yʊ2/<sup>如皋</sup>, /ɕiɑŋ1 iɤɯ2/<sup>泰县</sup></small> ① 豆油。<sup>\[如皋\]</sup> ② 敬神、鬼用的油，传统用大豆油。<sup>\[如皋\]</sup> ③ 芝麻油。<sup>\[如东\]</sup> ④ 泛指食用植物油。<sup>\[东台\]</sup> ⑤ 指豆油、菜籽油等植物油，而非芝麻油。<sup>\[兴化\]</sup> ⑥ 食油。<sup>\[泰县\]</sup> ⑦ 豆油、花生油、菜籽油等植物油，相对“麻油”。<sup>\[泰州\]</sup>  
 1. 【[香油灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ieu_den.md#香油灯)】`xian1 ieu2 den1` <small>/ɕiã1 yʊ2 təŋ1/<sup>如皋</sup>, /ɕiɑŋ1 iɤɯ2 təŋ1/<sup>泰县</sup></small> ① 用豆油点亮的旧式灯具。<sup>\[如皋\]</sup> ② 油灯的一种，由灯台和灯盘构成。灯草为灯芯；豆油为燃料。<sup>\[如东\]</sup> ③ 油灯的一种。<sup>\[泰县\]</sup> ④ 以植物油为燃料，以灯草为灯芯的照明用灯，旧时寺庙的长明灯以及死人灵前均用此灯。<sup>\[泰州\]</sup>  
 1. 【[香油真禁漺，漺漺二三两](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ieu_zhen_jien.md#香油真禁漺，漺漺二三两)】`xian1 ieu2 zhen1 jien1 shuan3 shuan3 shuan3 er6 saen1 lian3` <sup>[如皋]</sup> 香油瓶慢慢漺。  
 1. 【[香烟店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_in_din.md#香烟店)】`xian1 in1 din5` <sup>[如皋]</sup> 经销卷烟的店铺。与“水烟店”、“旱烟店”相对。  
-1. 【[香烟壳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_in_kah_zz.md#香烟壳子)】`xian1 in1 kah7 zz` <sup>[兴化]</sup> 香烟盒。  
-1. 【[香烟屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_in_pi_gu.md#香烟屁股)】`xian1 in1 pi5 gu` <sup>[兴化]</sup> 烟头子。  
+1. 【[香烟壳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_in_kah_zz.md#香烟壳子)】`xian1 in1 kah7 zz` <small>/ɕiaŋ1 iɪ̃1 kʰaʔ7 t͡sɿ/<sup>兴化</sup>, /ɕiɑŋ1 ĩ1 kʰɑʔ7 t͡sɿ/<sup>泰兴</sup></small> 香烟盒。<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>  
+1. 【[香烟屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_in_pi_gu.md#香烟屁股)】`xian1 in1 pi5 gu` <small>/ɕiaŋ1 iɪ̃1 pʰi5 ko/<sup>兴化</sup>, /ɕiɑŋ1 ĩ1 pʰʝ5 kɤɯ/<sup>泰兴</sup></small> 烟头，烟蒂<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>  
 1. 【[香橼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_iun.md#香橼)】`xian1 iun2` ① 芸香科植物香橼，常绿乔木。高约6米。茎枝光滑无短刺。叶互生，革质长椭圆形，全缘。总状花序，芳香。花白色。柑果圆形，橙黄色。田边或庭园栽植。<sup>\[如东\]</sup> ② 枸橼别名。常绿小乔木或者大灌木，叶子呈卵圆形，总状花序，花瓣内白，外淡紫色，果实为长圆形，黄色，果皮粗厚，供人观赏或者把玩嗅其香气。<sup>\[泰州\]</sup>  
 1. 【[香橼黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_iun_huan.md#香橼黄)】`xian1 iun2 huan2` <sup>[如皋]</sup> 见“香橼皮”。  
 1. 【[香橼露](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_iun_lv.md#香橼露)】`xian1 iun2 lv6` <sup>[如东]</sup> 芸香科植物香橼果实的蒸馏液。  
@@ -627,6 +628,7 @@
 1. 【[香嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_jy.md#香嘴)】`xian1 jy3` 接吻。<sup>\[泰州\]</sup>  
 1. 【[香口碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_keu_un.md#香口碗)】`xian1 keu3 un3` <sup>[如皋]</sup> 人初丧时放在材头点香的碗，内𣥼米。  
 1. 【[香罗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_lu.md#香罗)】`xian1 lu2` <sup>[如皋]</sup> 晒香的匾筐，中间镶绫罗。  
+1. 【[香炉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_lv.md#香炉)】`xian1 lv` <small>/ɕiɑŋ1 lu/<sup>泰兴</sup></small> 烛台焚香燃烛的器具。<sup>\[泰兴\]</sup>  
 1. 【[香𤖭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_paen.md#香𤖭)】`xian1 paen2` <sup>[东台]</sup> 本指供亡人的器皿，通常用来詈称饭碗。  
 1. 【[香喷喷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_pen_pen.md#香喷喷)】`xian1 pen5 pen5` <sup>[东台]</sup> 形容香气扑鼻。  
 1. 【[香埲埲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_pon_pon.md#香埲埲)】`xian1 pon5 pon5` <sup>[泰县]</sup> 香气满溢：这个花生炒熟后～的。  
@@ -637,6 +639,7 @@
 1. 【[香肉卤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_roh_lv_zz.md#香肉卤子)】`xian1 roh8 lv3 zz` <sup>[如皋]</sup> 见“老汁”。  
 1. 【[香窜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_sun.md#香窜)】`xian1 sun` <sup>[兴化]</sup> ① 很香：栀子花蛮～的。 ② 吃香：老杨为人诚实，在外头～得很。  
 1. 【[香袋<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_tae_r.md#香袋<sub>儿</sub>)】`xian1 tae6 r` <small>/ɕiaŋ1 tʰɛ6 ɚ/<sup>兴化</sup>, /ɕiã1 tʰɛ˞1/<sup>如皋</sup></small> ① 装有香料供佩載的各式小布袋，外形有桃子、猫儿头、蒜头儿、老虎等。<sup>\[如皋\]</sup> ② 贬指依赖父母不能独立的青少年。<sup>\[如皋\]</sup> ③ 旧时系在腰带上的绣花小口袋，内注香料<sup>\[兴化\]</sup>：“……旧年好一年的功夫，做了个～……”（《红楼梦》三二）<sup>\[兴化\]</sup> ④ （喻）嘲讽跟路的孩子<sup>\[兴化\]</sup>：老王今朝把个～带啊来啊。<sup>\[兴化\]</sup>  
+1. 【[香袋子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_tae_zz.md#香袋子)】`xian1 tae6 zz` <small>/ɕiɑŋ1 tʰɛ1 t͡sɿ/<sup>泰兴</sup></small> 装有香料的小袋子。旧时人们常佩戴在身上，以避秽邪之气，也作装饰品。<sup>\[泰兴\]</sup>  
 1. 【[香塘芋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_tan_y.md#香塘芋)】`xian1 tan2 y6` <sup>[如皋]</sup> 芋的一种，块茎的鳞毛圈层密，芽胚多，色红。成熟期退产量不高，但煮食结实而香，是优质芋。其花似藕，淡黄，雅香。  
 1. 【[香案](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_un.md#香案)】`xian1 un5` ① 长条形的桌子，摆在堂屋后壁中间，供上香敬菩萨和祖宗之用。<sup>\[如东\]</sup> ② 放置香炉的桌子。<sup>\[东台\]</sup>  
 1. 【[香香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_xian.md#香香)】`xian1 xian1` <sup>[兴化]</sup> 儿童语，谓孩子的嘴、脸、手：来，把～送把阿姨闻闻。  
@@ -1000,7 +1003,7 @@
 1. 【[信嘴荡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_jy_tan.md#信嘴荡)】`xien5 jy3 tan6` <sup>[如皋]</sup> 不负责任地信口说。  
 1. 【[信壳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_kah.md#信壳)】`xien5 kah7` 信封。<sup>\[泰州\]</sup>  
 1. 【[信壳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_kah_r.md#信壳<sub>儿</sub>)】`xien5 kah7 r` <small>/ɕiəŋ5 kʰa˞7/<sup>如皋</sup></small> ① 信封 ② 信封。<sup>\[如皋\]</sup>  
-1. 【[信壳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_kah_zz.md#信壳子)】`xien5 kah7 zz` <sup>[兴化]</sup> 信封。  
+1. 【[信壳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_kah_zz.md#信壳子)】`xien5 kah7 zz` <small>/ɕin5 kʰaʔ7 t͡sɿ/<sup>兴化</sup>, /ɕiŋ5 kʰɑʔ7 t͡sɿ/<sup>泰兴</sup></small> 信封。<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>  
 1. 【[信口开河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_keu_kae_hu.md#信口开河)】`xien5 keu3 kae1 hu2` <sup>[如东]</sup> 随便乱说：不要～，以免影响团结。  
 1. 【[信口𧪦佯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_keu_taeh_ian.md#信口𧪦佯)】`xien5 keu3 taeh7 ian2` <sup>[如皋]</sup> 见“信嘴𧪦佯”。  
 1. 【[信瓤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_nan_zz.md#信瓤子)】`xien5 nan2 zz` <sup>[兴化]</sup> 写好了装在信封里的信：他把～抽出来看吖一遍。  

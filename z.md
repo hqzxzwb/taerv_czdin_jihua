@@ -238,7 +238,7 @@
 1. 【[曾祖父](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_zv_fv.md#曾祖父)】`zen1 zv3 fv6` <sup>[如东]</sup> 父亲的祖父。  
 1. 【[曾祖母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_zv_mu.md#曾祖母)】`zen1 zv3 mu3` <sup>[如东]</sup> 父亲的祖母。  
 1. 【[罾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen.md#罾)】`zen1` 一种四方形渔网。\[东台：按大小和捕鱼方法不同，分踢～、扳～、大～等。（见“扳罾”）\]\[如东：竹竿撑开四角，放入水中，依靠下放上拉进行捕鱼\]  
-1. 【[怎吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_nga.md#怎吖)】`zen3 nga` <small>/t͡sən3 ŋəʔ/<sup>兴化</sup>, /t͡səŋ3 ŋa/<sup>如皋</sup>, /t͡səŋ3 ŋəʔ/<sup>泰县</sup></small> ① 怎么、怎么样<sup>\[如东\]</sup><sup>\[泰县\]</sup>\[如皋：合音为zan3，za3\]\[兴化：境内其他地方也读作jien3 nga。\]：你要～？<sup>\[如东\]</sup> ② 老是：这事你～说的，我晓得咖啦。<sup>\[泰县\]</sup>  
+1. 【[怎吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_nga.md#怎吖)】`zen3 nga` <small>/t͡sən3 ŋəʔ/<sup>兴化</sup>, /t͡səŋ3 ŋa/<sup>如皋</sup>, /t͡sɑŋ3 ŋa/<sup>泰兴</sup>, /t͡səŋ3 ŋəʔ/<sup>泰县</sup></small> ① 怎么、怎么样<sup>\[如东\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>\[如皋：合音为zan3，za3\]\[兴化：境内其他地方也读作jien3 nga。\]：你要～？<sup>\[如东\]</sup> ② 老是<sup>\[泰县\]</sup>：这事你～说的，我晓得咖啦。<sup>\[泰县\]</sup>  
 1. 【[怎吖好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_nga_ho.md#怎吖好)】`zen3 nga ho3` <sup>[东台]</sup> 一种无可奈何的口气，意思是不知道怎样才好。  
 1. 【[怎吖好意思](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_nga_ho_i.md#怎吖好意思)】`zen3 nga ho3 i5 sz` <sup>[东台]</sup> 一种难为情、无法求人的尴尬心态：我多次烦你，～？  
 1. 【[怎吖好㖸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_nga_ho_naeh.md#怎吖好㖸)】`zen3 nga ho3 naeh` <sup>[泰州]</sup> ① （如皋“怎吖好𠸪”） ② 自言自语之语，意谓怎样做才妥当呢，表示对前景的深切担忧：这个伢儿六门功课四门不及格，～！｜他俫厂里工资都发不出，～！  
