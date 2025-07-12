@@ -941,6 +941,7 @@
 1. 【[胃口大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_keu_da.md#胃口大)】`vei5 keu3 da6` <sup>[如皋]</sup> 贪多，贪心。  
 1. 【[胃气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_qi.md#胃气)】`vei5 qi5` <sup>[兴化]</sup> 胃部因受寒而疼痛难忍：他正在下发～，肚子里疼得要命。  
 1. 【[胃气疼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_qi_ten.md#胃气疼)】`vei5 qi5 ten2` <sup>[泰州]</sup> 胃部产生疼痛感：他这个～是老毛病唻。  
+1. 【[胃气疼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_qi_ten.md#胃气疼)】`vei5 qi5 ten2` <small>/ʋəɪ5 t͡ɕʰʝ5 tʰəŋ2/<sup>泰兴</sup></small> 胃病。<sup>\[泰兴\]</sup>  
 1. 【[胃气痛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_qi_ton.md#胃气痛)】`vei5 qi5 ton5` <sup>[如东]</sup> 患胃炎、胃溃疡等病症，胃部有痛疼的感觉。  
 1. 【[胃子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_zz.md#胃子)】`vei5 zz` <sup>[泰县]</sup> 胃。  
 1. 【[詴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei.md#詴)】`vei5` <sup>[泰州]</sup> 呼喊人的声音，一般写“喂”。  

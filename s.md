@@ -2186,6 +2186,7 @@
 1. 【[是爿摊<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_baen_taen_r.md#是爿摊<sub>儿</sub>)】`shr6 baen5 taen1 r` <sup>[东台]</sup> 这是一句俏皮话。两人交谈，甲说“不是的”，乙心里不赞同，便故意撇开，说“不是店，～”。前半句与“不是的”语音相近，后半句轻松幽默地把话题转到了店与摊方面。  
 1. 【[是必](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_bieh.md#是必)】`shr6 bieh7` <sup>[兴化]</sup> 无论如何、一定：你不管多忙，～帮我把信带到。  
 1. 【[是长是短](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_chan_shr_dun.md#是长是短)】`shr6 chan2 shr6 dun3` <sup>[如皋]</sup> 到底怎么样：～，你要说出个子、午、卯、酉来。  
+1. 【[是凡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_faen.md#是凡)】`shr6 faen` <small>/sɿ1 fɛ̃/<sup>泰兴</sup></small> 凡是。<sup>\[泰兴\]</sup>  
 1. 【[是非精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_fei_jien.md#是非精)】`shr6 fei1 jien1` <sup>[如皋]</sup> 贬指爱搬弄是非的人。  
 1. 【[是非窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_fei_ku.md#是非窠)】`shr6 fei1 ku1` <small>/sɿ1 fei1 kʰʊ1/<sup>如皋</sup></small> ① 贬指爱搬弄是非的人家、团体。<sup>\[如皋\]</sup> ② 指矛盾集中，问题成堆的地方<sup>\[东台\]</sup>：那许是个～，最好不去。<sup>\[东台\]</sup>  
 1. 【[是非窝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_fei_u.md#是非窝)】`shr6 fei1 u1` <sup>[泰州]</sup> ① 矛盾、纠纷集中之处：你去的这个车间是个～，三个领导四条心，你在里头说话要注意。 ② 违法违纪现象严重的地方：这家公司大官大捞，小官小捞，早晚要出大事，你是本分人，最好还是离开这个～。  
@@ -2863,8 +2864,10 @@
 1. 【[竖头肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_teu_roh.md#竖头肉)】`shv6 teu2 roh8` <sup>[如东]</sup> 鸡眼。  
 1. 【[竖蜓蛵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_tien_xien.md#竖蜓蛵)】`shv6 tien2 xien` <sup>[如皋]</sup> 竖蜻蜒。倒立的动作。  
 1. 【[竖蜓星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_tien_xien.md#竖蜓星)】`shv6 tien2 xien1` <sup>[如东]</sup> 竖蜻蜓。两手向下撑地，双脚向上。也称倒立。  
+1. 【[竖叠蛵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_tih_xien.md#竖叠蛵)】`shv6 tih8 xien1` <small>/su1 tʰiʔ8 ɕiŋ1/<sup>泰兴</sup></small> 双手着地倒立的姿态。也作“竖蜻蜓”。<sup>\[泰兴\]</sup>  
 1. 【[竖心帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_xien_ban.md#竖心帮)】`shv6 xien1 ban1` <sup>[如皋]</sup> 竖心旁。  
 1. 【[竖心旁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_xien_pan.md#竖心旁)】`shv6 xien1 pan2` <sup>[兴化]</sup> 汉字偏旁，在左边，形状为“忄”。  
+1. 【[竖心旁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_xien_pan.md#竖心旁)】`shv6 xien1 pan2` <small>/su1 ɕiŋ1 pʰɑŋ2/<sup>泰兴</sup></small> 汉字偏旁之一，形若“忄”。<sup>\[泰兴\]</sup>  
 1. 【[竖在](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_zae.md#竖在)】`shv6 zae` <sup>[泰县]</sup> 无论如何，反正：～我要去。  
 1. 【[竖砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_zhun.md#竖砖)】`shv6 zhun1` <sup>[如皋]</sup> 长边向上砌的砖。  
 1. 【[嗾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so.md#嗾)】`so1` <sup>[泰州]</sup> 发出使狗咬人的声音：老远就听见他～啊～的唤狗子。  
@@ -3080,6 +3083,7 @@
 1. 【[尿硍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suei_ken.md#尿硍)】`suei1 ken5` <sup>[兴化]</sup> 经常接触尿液的便池、便桶及尿壶等，留下的像结石一样的痕迹。  
 1. 【[尿脬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suei_po.md#尿脬)】`suei1 po1` <small>/suəɪ1 pʰɔ1/<sup>泰兴</sup></small> 膀胱的俗称。<sup>\[泰兴\]</sup>：～打头，不疼也昏闷。<sup>\[泰兴\]</sup>  
 1. 【[尿头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suei_teu.md#尿头)】`suei1 teu` <sup>[兴化]</sup> 指两次小便相隔时间：～长；～短。  
+1. 【[虽则](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suei_zeh.md#虽则)】`suei1 zeh` <small>/suəɪ1 t͡səʔ/<sup>泰兴</sup></small> 虽然。<sup>\[泰兴\]</sup>  
 1. 【[岁月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suei_iuh.md#岁月)】`suei5 iuh8` <sup>[东台]</sup> 年月：～不饶人。  
 1. 【[岁交春](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suei_jio_chuen.md#岁交春)】`suei5 jio1 chuen1` <sup>[兴化]</sup> 正月初一子时（指0时至1时前那段）正逢立春。20世纪仅有1943年一次：谚曰：百年难遇～。  
 1. 【[岁数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suei_shv.md#岁数)】`suei5 shv` 年龄，年岁  

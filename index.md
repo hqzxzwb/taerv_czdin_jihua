@@ -216,7 +216,9 @@
 1. 【[哈鸡鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ji_ji.md#哈鸡鸡)】`ha1 ji1 ji` <small>/xɑ1 t͡ɕʝ1 t͡ɕʝ/<sup>泰兴</sup></small> 哈痒痒。<sup>\[泰兴\]</sup>  
 1. 【[虾荒蟹熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_huan_hae_shoh.md#虾荒蟹熟)】`ha1 huan1 hae3 shoh8` <sup>[东台]</sup> （农谚）一般虾多是灾年，蟹多是丰年。  
 1. 【[虾箩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_lu.md#虾箩)】`ha1 lu2` <sup>[如东]</sup> 容器。竹篾编成，口圆底方，有背带。渔民捕捞时，背在身上存放鱼虾等。  
+1. 【[虾<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_r.md#虾<sub>儿</sub>)】`ha1 r` <small>/xɑ˞1/<sup>泰兴</sup></small> 虾。<sup>\[泰兴\]</sup>  
 1. 【[虾<sub>儿</sub>叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_r_cha.md#虾<sub>儿</sub>叉)】`ha1 r cha1` <sup>[如皋]</sup> 专戳沼虾的针叉。  
+1. 【[虾<sub>儿</sub>钓青鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_r_dio_qien.md#虾<sub>儿</sub>钓青鱼)】`ha1 r dio5 qien1 y` <small>/xɑ˞1 tiɔ5 t͡ɕʰiŋ1 y/<sup>泰兴</sup></small> 虾、鱼小大之比，喻以小取大，占人便宜。<sup>\[泰兴\]</sup>  
 1. 【[虾<sub>儿</sub>刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_r_do.md#虾<sub>儿</sub>刀)】`ha1 r do1` <sup>[如皋]</sup> 虾的额角。  
 1. 【[虾<sub>儿</sub>油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_r_ieu.md#虾<sub>儿</sub>油)】`ha1 r ieu2` <sup>[如皋]</sup> 用海虾制成的酱油。  
 1. 【[虾<sub>儿</sub>笼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_r_lon.md#虾<sub>儿</sub>笼)】`ha1 r lon2` <sup>[泰县]</sup> 篾制的捕虾的工具。  
@@ -224,7 +226,7 @@
 1. 【[虾<sub>儿</sub>笼子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_r_lon_zz.md#虾<sub>儿</sub>笼子)】`ha1 r lon2 zz` <sup>[兴化]</sup> 笼制的捕虾工具，里边设饵，虾进去之后便出不来。  
 1. 【[虾<sub>儿</sub>罗汉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_r_lu_hun.md#虾<sub>儿</sub>罗汉<sub>儿</sub>)】`ha1 r lu2 hun5 r` <sup>[如皋]</sup> ① 比喻小而杂。 ② 比喻不管大小多少全都……。  
 1. 【[虾<sub>儿</sub>芒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_r_man.md#虾<sub>儿</sub>芒)】`ha1 r man2` <sup>[如皋]</sup> 虾的触须（剪去时则与胸部附肢统称）。  
-1. 【[虾<sub>儿</sub>𨁝跳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_r_peh_tio.md#虾<sub>儿</sub>𨁝跳)】`ha1 r peh8 tio5` <small>/xa1 ɚ pʰəʔ8 tʰiɔ5/<sup>兴化</sup>, /xa1 ɚ pʰəʔ8 tʰiɔ5/<sup>泰县</sup></small> ① 犹“雀跃”。形容高兴、热情或活泼的样子。<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup>：新姑爷上门，老两口忙得～的。<sup>\[兴化\]</sup>｜他见到他爸爸就～的。<sup>\[泰县\]</sup> ② 刚起水的虾活蹦乱跳的样子，比喻干得热火朝天的样子<sup>\[泰州\]</sup>：小李结婚的那天，几个朋友跑过来～的帮忙。<sup>\[泰州\]</sup>｜下午要开表彰大会，大家～的忙吖一早上。<sup>\[泰州\]</sup>  
+1. 【[虾<sub>儿</sub>𨁝跳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_r_peh_tio.md#虾<sub>儿</sub>𨁝跳)】`ha1 r peh8 tio5` <small>/xa1 ɚ pʰəʔ8 tʰiɔ5/<sup>兴化</sup>, /xɑ˞1 pʰəʔ8 tʰiɔ5/<sup>泰兴</sup>, /xa1 ɚ pʰəʔ8 tʰiɔ5/<sup>泰县</sup></small> ① 犹“雀跃”。形容高兴、热情或活泼的样子。<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup>：新姑爷上门，老两口忙得～的。<sup>\[兴化\]</sup>｜他见到他爸爸就～的。<sup>\[泰县\]</sup> ② 刚起水的虾活蹦乱跳的样子，比喻干得热火朝天的样子<sup>\[泰州\]</sup>：小李结婚的那天，几个朋友跑过来～的帮忙。<sup>\[泰州\]</sup>｜下午要开表彰大会，大家～的忙吖一早上。<sup>\[泰州\]</sup> ③ 比喻非常高兴、蹦蹦跳跳的样子。<sup>\[泰兴\]</sup>  
 1. 【[虾<sub>儿</sub>埲灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_r_pon_zo.md#虾<sub>儿</sub>埲灶)】`ha1 r pon6 zo5` <sup>[兴化]</sup> 虾在热锅中活蹦乱跳。（喻）形容张惶无措的样子：他一遇事就像～，全乱吖套。  
 1. 【[虾<sub>儿</sub>钳䶠的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_r_qin_ngaen.md#虾<sub>儿</sub>钳䶠的)】`ha1 r qin2 ngaen2 dii` <sup>[如皋]</sup> 轻度骚扰、取闹：他欢喜～，一刻儿就碰你下子。  
 [更多...](./h.md)
@@ -441,6 +443,7 @@
 ## P
 1. 【[派司](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_sz.md#派司)】`pa1 sz` <sup>[东台]</sup> ① 英文pass音译。 ② 指出入证、通行证等。 ③ 指通过；准予通过（检查、关卡、考试等）。 ④ 结束：这个事看来要～啊。  
 1. 【[趴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa.md#趴)】`pa1` <sup>[东台]</sup> 胸腹朝下卧倒，或身体往前靠在物体上。  
+1. 【[趴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa.md#趴)】`pa1` <small>/pʰɑ1/<sup>泰兴</sup></small> 手、足、面、胸向下之态。<sup>\[泰兴\]</sup>  
 1. 【[趴啊下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_a_ha.md#趴啊下)】`pa1 a ha` <sup>[如皋]</sup> 趴着。  
 1. 【[趴趴<sub>儿</sub>屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_pa_r_oh.md#趴趴<sub>儿</sub>屋)】`pa1 pa1 r oh7` <sup>[如东]</sup> 一种小型的低矮的小屋，像龟壳一样。  
 1. 【[趴窝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_u.md#趴窝)】`pa1 u1` <sup>[东台]</sup> 家禽伏在窝里不动，［喻］机动车辆失去动力无法前进。  

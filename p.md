@@ -3,6 +3,7 @@
 ## P
 1. 【[派司](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_sz.md#派司)】`pa1 sz` <sup>[东台]</sup> ① 英文pass音译。 ② 指出入证、通行证等。 ③ 指通过；准予通过（检查、关卡、考试等）。 ④ 结束：这个事看来要～啊。  
 1. 【[趴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa.md#趴)】`pa1` <sup>[东台]</sup> 胸腹朝下卧倒，或身体往前靠在物体上。  
+1. 【[趴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa.md#趴)】`pa1` <small>/pʰɑ1/<sup>泰兴</sup></small> 手、足、面、胸向下之态。<sup>\[泰兴\]</sup>  
 1. 【[趴啊下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_a_ha.md#趴啊下)】`pa1 a ha` <sup>[如皋]</sup> 趴着。  
 1. 【[趴趴<sub>儿</sub>屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_pa_r_oh.md#趴趴<sub>儿</sub>屋)】`pa1 pa1 r oh7` <sup>[如东]</sup> 一种小型的低矮的小屋，像龟壳一样。  
 1. 【[趴窝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_u.md#趴窝)】`pa1 u1` <sup>[东台]</sup> 家禽伏在窝里不动，［喻］机动车辆失去动力无法前进。  
@@ -614,6 +615,7 @@
 1. 【[评工记分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_gon_ji_fen.md#评工记分)】`pien2 gon1 ji5 fen1` <small>/pʰiŋ2 kɔŋ1 t͡ɕʝ5 fəŋ1/<sup>泰兴</sup></small> 大呼隆时期（主要是人民公社时期）评定社员劳动成绩、计算工分的一种方法。<sup>\[泰兴\]</sup>  
 1. 【[品](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien.md#品)】`pien3` <small>/pʰiɪ̃3/<sup>兴化</sup>, /pʰiəŋ3/<sup>如皋</sup></small> ① 物品。<sup>\[如皋\]</sup> ② 体察好坏。<sup>\[如皋\]</sup> ③ 性格<sup>\[兴化\]</sup>：他就是这个～，说打就上屋。<sup>\[兴化\]</sup> ④ 品质<sup>\[兴化\]</sup>：……我也不晓得他们这班文人的～这个丑法子·（《火烧赤壁》一）<sup>\[兴化\]</sup>  
 1. 【[品理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_li.md#品理)】`pien3 li3` <sup>[如东]</sup> 评理：对于这个问题，我来要～。  
+1. 【[品貌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_mo.md#品貌)】`pien3 mo` <small>/pʰiŋ3 mɔ/<sup>泰兴</sup></small> 相貌，大样。<sup>\[泰兴\]</sup>  
 1. 【[品貌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_mo_r.md#品貌<sub>儿</sub>)】`pien3 mo6 r` <sup>[如皋]</sup> 品行相貌：姑娘的～是上等的。  
 1. 【[品相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_xian.md#品相)】`pien3 xian5` <sup>[如皋]</sup> 举止行为的习惯样式及所反映的教养程度：他吃饭的～不好，嘴只咂，像猪。  
 1. 【[牝牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_ngeu.md#牝牛)】`pien5 ngeu2` <sup>[如东]</sup> 母牛。  

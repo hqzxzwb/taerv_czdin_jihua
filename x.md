@@ -1234,6 +1234,7 @@
 1. 【[显原身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_iun_shen.md#显原身)】`xin3 iun2 shen1` <sup>[如东]</sup> 露出本来的身份：这个人来啊时间不长就～。  
 1. 【[显原形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_iun_xien.md#显原形)】`xin3 iun2 xien2` <sup>[如东]</sup> 露出本来面目：他终于显吖原形。  
 1. 【[显灵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_lien.md#显灵)】`xin3 lien2` <sup>[东台]</sup> 迷信的人指神鬼显形，让人感受到其威力。  
+1. 【[显灵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_lien.md#显灵)】`xin3 lien2` <small>/ɕĩ3 liŋ2/<sup>泰兴</sup></small> 迷信说神鬼现象或神鬼发出声响、威力，称为“显灵”。<sup>\[泰兴\]</sup>  
 1. 【[显老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_lo.md#显老)】`xin3 lo3` <sup>[兴化]</sup> 现出老相，容貌和年龄不相称：他这几年走南闯北，脸上～。也说“觉老”。  
 1. 【[显能](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_nen.md#显能)】`xin3 nen2` <sup>[如皋]</sup> 卖弄，表现才干。  
 1. 【[显能耐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_nen_nae.md#显能耐)】`xin3 nen2 nae6` <sup>[如皋]</sup> 卖弄。  
@@ -1285,12 +1286,13 @@
 1. 【[现刮现](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_guaeh_xin.md#现刮现)】`xin6 guaeh7 xin6` <small>/ɕiɪ̃6 kuæʔ7 ɕiɪ̃6/<sup>兴化</sup></small> ① 就是当场兑现，不欠账<sup>\[东台\]</sup>：他收到货，立即给钱，～！<sup>\[东台\]</sup> ② 赌现钱，不共赌账。<sup>\[兴化\]</sup> ③ （借）现金交易，不赊欠<sup>\[兴化\]</sup>：我俫～，概不悬欠。也说“现沰现”。<sup>\[兴化\]</sup> ④ 按照约定，钱货两清，当场兑现，不赊不欠<sup>\[泰州\]</sup>：现场促销，买二赠一，～。<sup>\[泰州\]</sup>｜晚上打牌来钱，输掉当场就把钱，～，没得钱的不要来。<sup>\[泰州\]</sup>  
 1. 【[现搳现](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_huaeh_xin.md#现搳现)】`xin6 huaeh7 xin6` <small>/ɕĩ1 xueʔ7 ɕĩ1/<sup>如皋</sup>, /ɕĩ1 xuæʔ7 ɕĩ1/<sup>泰兴</sup></small> ① 兑现，不欠账。<sup>\[如皋\]</sup> ② 谓当场兑现，不欠账；现金交易。<sup>\[泰兴\]</sup>  
 1. 【[现魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_huen.md#现魂)】`xin6 huen2` <sup>[如皋]</sup> 责备稍一显现就消失了：来就来过几天，不要来～！  
+1. 【[现魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_huen.md#现魂)】`xin6 huen2` <small>/ɕĩ1 xuəŋ2/<sup>泰兴</sup></small> 现眼；丢人。<sup>\[泰兴\]</sup>  
 1. 【[现枯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_kv.md#现枯)】`xin6 kv1` <sup>[兴化]</sup> 事情败露：他挪用公款，月终结账的时候～啊。  
 1. 【[现瘌相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_laeh_xian.md#现瘌相)】`xin6 laeh8 xian5` <sup>[泰州]</sup> 比喻隐藏的坏人或造假的坏事暴露：平常望吖他还算老实，直到现在纪委找啊他，他才现吖瘌相。  
 1. 【[现吖光<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_nga_guan_r.md#现吖光<sub>儿</sub>)】`xin6 nga guan1 r` <sup>[如皋]</sup> 真相被揭露出来了。  
 1. 【[现吖现的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_nga_xin_dii.md#现吖现的)】`xin6 nga xin6 dii` <sup>[如皋]</sup> 忽明忽暗忽隐忽现的样子。  
 1. 【[现眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_ngaen.md#现眼)】`xin6 ngaen3` <sup>[如东]</sup> 出丑，丢脸：不要再～吖啦。  
-1. 【[现眼目](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_ngaen_moh.md#现眼目)】`xin6 ngaen3 moh8` <small>/ɕĩ1 ŋẽ3 mɔʔ8/<sup>如皋</sup></small> ① 表示瞧不起所做的事，做了会丢相：他送吖这点儿礼上丈母家去，真真～。<sup>\[如皋\]</sup> ② 出洋相。<sup>\[如东\]</sup>：家去吧，不要在这许～。<sup>\[如东\]</sup> ③ 当场出丑，出洋相<sup>\[东台\]</sup>：他平时不好好练，现在上台～！<sup>\[东台\]</sup>  
+1. 【[现眼目](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_ngaen_moh.md#现眼目)】`xin6 ngaen3 moh8` <small>/ɕĩ1 ŋẽ3 mɔʔ8/<sup>如皋</sup>, /ɕĩ1 ŋɛ̃3 mɔʔ8/<sup>泰兴</sup></small> ① 表示瞧不起所做的事，做了会丢相<sup>\[如皋\]</sup>：他送吖这点儿礼上丈母家去，真真～。<sup>\[如皋\]</sup> ② 出洋相。<sup>\[如东\]</sup>：家去吧，不要在这许～。<sup>\[如东\]</sup> ③ 当场出丑，出洋相<sup>\[东台\]</sup>：他平时不好好练，现在上台～！<sup>\[东台\]</sup> ④ 丢人现眼。<sup>\[泰兴\]</sup>  
 1. 【[现人眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_ren_ngaen.md#现人眼)】`xin6 ren2 ngaen3` <small>/ɕĩ1 ɻəŋ2 ŋɛ̃3/<sup>泰兴</sup></small> ① 当场丢脸，出洋相。<sup>\[如东\]</sup>：不要在这许～。<sup>\[如东\]</sup> ② 犹现形，丢架子。<sup>\[泰兴\]</sup>  
 1. 【[现身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_shen.md#现身)】`xin6 shen1` <sup>[兴化]</sup> 指人在一定场合露面：你在一旁䁃䁃，先覅～。｜“你们明早走去看看，不要～。”（《梼杌闲评》四）  
 1. 【[现世](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_shr.md#现世)】`xin6 shr5` <small>/ɕĩ1 sɿ5/<sup>泰兴</sup>, /ɕiɪ̃5 sɿ5/<sup>泰县</sup></small> ① 出丑，丢脸。<sup>\[如东\]</sup><sup>\[泰兴\]</sup><sup>\[泰州\]</sup>：你不要在外头～。<sup>\[如东\]</sup>｜你滚吖走吧，不要弄吖在这块～。<sup>\[泰州\]</sup> ② 也叫“现世宝”，即出丑，丢脸的意思<sup>\[东台\]</sup>：活～。有时也是昵称<sup>\[东台\]</sup>｜你个～，还带啊礼物。<sup>\[东台\]</sup> ③ 丢人<sup>\[泰县\]</sup>：你不要～，快回家去。<sup>\[泰县\]</sup>  

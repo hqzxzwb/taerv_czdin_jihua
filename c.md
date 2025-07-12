@@ -160,6 +160,7 @@
 1. 【[昨咖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cah_ga_zz.md#昨咖子)】`cah8 ga zz` <sup>[泰县]</sup> 昨天。  
 1. 【[昨<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cah_r.md#昨<sub>儿</sub>)】`cah8 r` 昨天  
 1. 【[昨天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cah_tin.md#昨天)】`cah8 tin1` <sup>[如东]</sup> 今天的前一天。也称昨儿、昨朝。  
+1. 【[昨朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cah_zho.md#昨朝)】`cah8 zho1` <small>/t͡sʰəʔ7 t͡sɔ1/<sup>泰兴</sup></small> 昨天<sup>\[泰兴\]</sup>  
 1. 【[昨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cah_zz.md#昨子)】`cah8 zz` 昨天  
 1. 【[仓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/can.md#仓)】`can1` <sup>[东台]</sup> 本指仓库。用于地名。  
 1. 【[舱板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/can_baen.md#舱板)】`can1 baen3` <sup>[兴化]</sup> 木船上盖舱口用的木板。也作“挑舱板”。  

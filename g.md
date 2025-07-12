@@ -151,10 +151,14 @@
 1. 【[戒色子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_seh_zz.md#戒色子)】`gae5 seh7 zz` <sup>[兴化]</sup> ① 戒方。 ② 戒指。  
 1. 【[戒指<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_zhr_r.md#戒指<sub>儿</sub>)】`gae5 zhr3 r` <sup>[如皋]</sup> 戒指。  
 1. 【[戒子<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_zz_r.md#戒子<sub>儿</sub>)】`gae5 zz3 r` <sup>[如皋]</sup> 戒尺。旧时先生体罚学生，打手心用。  
+1. 【[界河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_hu.md#界河)】`gae5 hu2` <small>/kɛ5 xɤɯ2/<sup>泰兴</sup></small> 分界之处的河。<sup>\[泰兴\]</sup>  
 1. 【[界坷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_ku.md#界坷)】`gae5 ku` <sup>[如皋]</sup> ① 见“界坎儿”。 ② 见“田岸子”。  
+1. 【[界棵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_ku.md#界棵)】`gae5 ku` <small>/kɛ5 kʰɤɯ/<sup>泰兴</sup></small> 分界之处的标志。乡间多以枸杞标记。<sup>\[泰兴\]</sup>  
 1. 【[界坎<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_kun_r.md#界坎<sub>儿</sub>)】`gae5 kun3 r` <sup>[如皋]</sup> 田界、地界的土埂。  
+1. 【[界墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_qian.md#界墙)】`gae5 qian2` <small>/kɛ5 t͡ɕʰiɑŋ2/<sup>泰兴</sup></small> 作为分界的墙壁。<sup>\[泰兴\]</sup>  
 1. 【[界岸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_un.md#界岸)】`gae5 un6` <sup>[如东]</sup> ① 土地周边分界的堤岸。 ② 田块周边的小堤。 ③ 田埂。  
 1. 【[界岸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_un_r.md#界岸<sub>儿</sub>)】`gae5 un6 r` <sup>[兴化]</sup> ① 田间小路。 ② 也指不同业主田地之间分界的小土埂。  
+1. 【[界址](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_zhr.md#界址)】`gae5 zhr3` <small>/kɛ5 t͡sɿ3/<sup>泰兴</sup></small> 土地分界之处的标志。<sup>\[泰兴\]</sup>  
 1. 【[盖戳子，拿角子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_chuah_zz_na.md#盖戳子，拿角子)】`gae5 chuah7 zz na2 gah7 zz` <sup>[东台]</sup> 指过去盖印章领工资。  
 1. 【[盖住盒子摇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_chv_huh_zz.md#盖住盒子摇)】`gae5 chv huh8 zz io2` <sup>[兴化]</sup> 不让事态扩大，而在一定范围内悄悄处理：“……你若是验出来，我包管是个死命，我劝你不如～，便宜你许多呢！”（《广陵潮五》）  
 1. 【[盖烦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_faen.md#盖烦)】`gae5 faen2` <small>/kɛ5 fẽ2/<sup>如皋</sup>, /ke5 fɛ̃2/<sup>泰县</sup></small> ① 帮着掩盖、打掩护。<sup>\[如皋\]</sup> ② 巧妙地掩饰<sup>\[东台\]</sup>：妈妈见小伙惹新妇生吖气，连忙～说“他是开玩笑的，不要当真！”<sup>\[东台\]</sup> ③ 掩盖<sup>\[泰县\]</sup>：你不要～吖。<sup>\[泰县\]</sup>  
@@ -1276,9 +1280,10 @@
 1. 【[瓜子脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_zz_lin.md#瓜子脸)】`gua1 zz3 lin3` <sup>[泰州]</sup> 脸形微长偏窄，上部略圆稍款，下部略尖的面庞。  
 1. 【[瓜子片](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_zz_pin.md#瓜子片)】`gua1 zz3 pin5` <small>/kuɑ1 t͡sɿ3 pʰĩ5/<sup>泰兴</sup></small> 形似瓜子的小石片，作建筑材料用。<sup>\[泰兴\]</sup>  
 1. 【[瓜子<sub>儿</sub>脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_zz_r_lin.md#瓜子<sub>儿</sub>脸)】`gua1 zz3 r lin3` <sup>[如东]</sup> 上宽下狭的脸相：她长的是一副～。  
+1. 【[剐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua.md#剐)】`gua3` <small>/kuɑ3/<sup>泰兴</sup></small> 分割人体的酷刑。乡间骂人语有“凌肉碎剐”。<sup>\[泰兴\]</sup>  
 1. 【[剐草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_co.md#剐草)】`gua3 co3` <small>/kua3 t͡sʰɔ3/<sup>兴化</sup>, /kua3 t͡sʰɔ3/<sup>如皋</sup></small> 割草<sup>\[东台\]</sup><sup>\[兴化\]</sup>\[如皋：割取岸草上部的嫩茎叶饲牛。\]\[泰州：用镰刀割青草\]：下田～。<sup>\[兴化\]</sup>｜姑嫂两个下田～去啊。<sup>\[泰州\]</sup>  
 1. 【[剐麦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_moh.md#剐麦)】`gua3 moh8` <sup>[泰州]</sup> 用镰刀收割成熟的麦子。  
-1. 【[剐人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_ren.md#剐人)】`gua3 ren` <small>/kua3 lən/<sup>兴化</sup></small> ① 吃了某食品，引起胃子像刀刮一样难受。<sup>\[东台\]</sup> ② （借）多吃了萝卜之类的东西以后，胃中极端饥饿而又泛酸的那种感觉。<sup>\[兴化\]</sup> ③ 胃受某些药物强烈刺激后的不适感。<sup>\[兴化\]</sup>  
+1. 【[剐人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_ren.md#剐人)】`gua3 ren` <small>/kua3 lən/<sup>兴化</sup>, /kuɑ3 ɻəŋ/<sup>泰兴</sup></small> ① 吃了某食品，引起胃子像刀刮一样难受。<sup>\[东台\]</sup> ② （借）多吃了萝卜之类的东西以后，胃中极端饥饿而又泛酸的那种感觉。<sup>\[兴化\]</sup> ③ 胃受某些药物强烈刺激后的不适感。<sup>\[兴化\]</sup> ④ 胃中难受；饥饿之感。<sup>\[泰兴\]</sup>  
 1. 【[剐人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_ren.md#剐人)】`gua3 ren2` <sup>[泰州]</sup> 吃了过量生萝卜、生山芋之类的食物之后胃中产生的刀割似的难受感觉：肚肚里～吖不得命。  
 1. 【[寡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua.md#寡)】`gua3` <small>/kua3/<sup>如皋</sup>, /kua3/<sup>泰县</sup></small> ① 形容饮食不好，没有油水。 ② 缺少<sup>\[如皋\]</sup>：抱伢儿不脱～，不是尿就是㞎。<sup>\[如皋\]</sup> ③ 量少；<sup>\[东台\]</sup> ④ 淡而无味<sup>\[东台\]</sup>：清汤～水。<sup>\[东台\]</sup> ⑤ 尽是，老是<sup>\[泰县\]</sup>：你怎吖～朝她家跑？<sup>\[泰县\]</sup>  
 1. 【[寡而无故的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_er_v_gv.md#寡而无故的)】`gua3 er v2 gv5 dii` <sup>[如皋]</sup> 平白无故的。  
@@ -1587,29 +1592,35 @@
 1. 【[骨里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_li.md#骨里)】`gueh7 li3` <small>/kuəʔ7 lʝ3/<sup>如皋</sup>, /kuəʔ7 nɿ3/<sup>泰县</sup></small> 暗中<sup>\[如皋\]</sup><sup>\[泰县\]</sup>：他～在帮你忙。<sup>\[如皋\]</sup>｜他～恨死你。<sup>\[泰县\]</sup>  
 1. 【[骨里骨揣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_lii_gueh_chuae.md#骨里骨揣)】`gueh7 lii gueh7 chuae1` <sup>[东台]</sup> ① 指食物中含有不易嚼碎的块状物。 ② ［引］不协调的部分：那人在这许有点儿～的，最好调走。  
 1. 【[骨里青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_lii_qien.md#骨里青)】`gueh7 lii qien1` <sup>[兴化]</sup> 一种甜瓜，皮黄白，肉青色，俗谓皮熟～。  
+1. 【[骨里巧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_lii_qio.md#骨里巧)】`gueh7 lii qio3` <small>/kuəʔ7 ləɪ t͡ɕʰiɔ3/<sup>泰兴</sup></small> 比喻聪明，无师自通，一学就会。<sup>\[泰兴\]</sup>  
 1. 【[骨碌骨碌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_loh_gueh_loh.md#骨碌骨碌)】`gueh7 loh gueh7 loh` <sup>[如皋]</sup> ① 翻滚状、闪滚状：他的眼睛～只翻。 ② 象声词：他肚里～的响。  
+1. 【[骨牌杌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_pae_veh_zz.md#骨牌杌子)】`gueh7 pae2 veh8 zz` <small>/kuəʔ7 pʰɛ2 ʋəʔ8 t͡sɿ/<sup>泰兴</sup></small> 面呈长方形似骨牌的杌子。<sup>\[泰兴\]</sup>  
 1. 【[骨髈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_pan.md#骨髈)】`gueh7 pan` <small>/kuəʔ7 pʰaŋ/<sup>兴化</sup>, /kuəʔ7 pʰã/<sup>如皋</sup></small> ① 骨架、身块<sup>\[如皋\]</sup>：他的～大。<sup>\[如皋\]</sup> ② 骨架<sup>\[兴化\]</sup>：老周～大，虽瘦不难看。<sup>\[兴化\]</sup>  
 1. 【[骨髈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_pan.md#骨髈)】`gueh7 pan3` <sup>[泰州]</sup> 骨架：你望他像蛮胖的，其实他并不胖，他是～大。  
 1. 【[骨盆肩角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_pen_jin_gah.md#骨盆肩角)】`gueh7 pen2 jin1 gah` <sup>[如皋]</sup> 下腰部的骨角。  
 1. 【[骨桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_qio.md#骨桥)】`gueh7 qio2` <sup>[东台]</sup> ［喻］指未协调好的环节：婆媳两个不愉快，恐怕里面有～。  
 1. 【[骨窍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_qio.md#骨窍)】`gueh7 qio5` <sup>[泰县]</sup> 诀窍：开汽车有甚的～？  
 1. 【[骨殖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_sheh.md#骨殖)】`gueh7 sheh` <sup>[如皋]</sup> 贬指事物（如皋词典写“骨什”）：这是甚的～咖！  
+1. 【[骨殖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_sheh.md#骨殖)】`gueh7 sheh` <small>/kuəʔ7 səʔ/<sup>泰兴</sup></small> 棺材中死人的骨头。借称很不好的东西。<sup>\[泰兴\]</sup>：箇个～杲昃没得用场<sup>\[泰兴\]</sup>  
 1. 【[骨殖头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_sheh_teu_zz.md#骨殖头子)】`gueh7 sheh teu2 zz` <sup>[如皋]</sup> 见“骨殖”。  
 1. 【[骨头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_teu.md#骨头)】`gueh7 teu` <small>/kuəʔ7 tʰɤ/<sup>兴化</sup>, /kuəʔ7 tʰei/<sup>如皋</sup></small> ① 人和脊椎动物体内支持身体、保护内脏的坚硬组织，主要成分是碳酸钙和磷酸钙。根据形状不同，分长骨、短骨、扁骨等。<sup>\[如东\]</sup> ② 喻话中带刺<sup>\[如皋\]</sup>：他的话中带～。<sup>\[如皋\]</sup> ③ 这里不是生物名词，而是带有否定色彩的口头禅。<sup>\[东台\]</sup> ④ 根本不是，根本没有<sup>\[东台\]</sup>：人家说他赚吖几万块。他说：“～！”（意思是根本没有。）<sup>\[东台\]</sup> ⑤ 讨厌物的附加词<sup>\[东台\]</sup>：麦子好收，但～稭儿没处去。<sup>\[东台\]</sup> ⑥ （喻）话里含有不满情绪和讽刺意味<sup>\[兴化\]</sup>：～话少说<sup>\[兴化\]</sup>｜你话里有～。<sup>\[兴化\]</sup>  
-1. 【[骨头打鼓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_teu_da_gv.md#骨头打鼓)】`gueh7 teu da3 gv3` <small>/kuəʔ7 tʰɤ ta3 ku3/<sup>兴化</sup></small> ① 人已死了很久，骨头都可以拿出来敲鼓了。比喻早已过时。<sup>\[如东\]</sup>：～啊，还说他甚的。<sup>\[如东\]</sup> ② 指人死去多时<sup>\[兴化\]</sup>：我父母早就～，你不必拿他俫上话。<sup>\[兴化\]</sup>  
+1. 【[骨头打鼓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_teu_da_gv.md#骨头打鼓)】`gueh7 teu da3 gv3` <small>/kuəʔ7 tʰɤ ta3 ku3/<sup>兴化</sup>, /kuəʔ7 tʰəɪ tɑ3 ku3/<sup>泰兴</sup></small> ① 人已死了很久，骨头都可以拿出来敲鼓了。比喻早已过时。<sup>\[如东\]</sup>：～啊，还说他甚的。<sup>\[如东\]</sup> ② 指人死去多时<sup>\[兴化\]</sup>：我父母早就～，你不必拿他俫上话。<sup>\[兴化\]</sup> ③ 用骨头来敲鼓。谓人死去时间已经很长了。<sup>\[泰兴\]</sup>  
+1. 【[骨头骨榫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_teu_gueh_xyen.md#骨头骨榫)】`gueh7 teu gueh7 xyen3` <small>/kuəʔ7 tʰəɪ kuəʔ7 ɕyəŋ3/<sup>泰兴</sup></small> 全身的骨关节。<sup>\[泰兴\]</sup>：感冒了，～里难过。<sup>\[泰兴\]</sup>  
 1. 【[骨头骨髓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_teu_gueh_xyen.md#骨头骨髓)】`gueh7 teu gueh7 xyen3` ① 身体内外所有部分。<sup>\[如东\]</sup>：我～的痛。<sup>\[如东\]</sup> ② 比喻身体上的每个部分<sup>\[泰州\]</sup>：你做儿子的，身上连～都是你家老子把你的。<sup>\[泰州\]</sup>  
 1. 【[骨头骨髓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_teu_gueh_xyen.md#骨头骨髓<sub>儿</sub>)】`gueh7 teu gueh7 xyen3 r` <sup>[泰县]</sup> ① 身体的所有部分。 ② 泛指人的一切情况：你～都是我的。  
 1. 【[骨头骨髓<sub>儿</sub>里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_teu_gueh_xyen.md#骨头骨髓<sub>儿</sub>里)】`gueh7 teu gueh7 xyen3 r lii` <sup>[如皋]</sup> ① 状身体上到处：～都痒。 ② 内里坏、坏透了：从～坏起。  
 1. 【[骨头油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_teu_ieu.md#骨头油)】`gueh7 teu ieu2` <sup>[如皋]</sup> 猪骨煮出的油，脱水而成。味香，胆固醇极高。  
 1. 【[骨头连吖筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_teu_lin_nga.md#骨头连吖筋)】`gueh7 teu lin2 nga jien1` <sup>[东台]</sup> ［喻］指割不断的紧密联系：她俫几个人～，关系好得扎实呢！  
 1. 【[骨头轻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_teu_qien.md#骨头轻)】`gueh7 teu qien1` <small>/kuəʔ7 tʰɤ t͡ɕʰin1/<sup>兴化</sup>, /kuəʔ7 tʰei t͡ɕʰiəŋ1/<sup>如皋</sup></small> ① 举止轻佻。<sup>\[如东\]</sup>：这吖～，没得人看得起。<sup>\[如东\]</sup> ② 指人格不高尚、举止轻佻。<sup>\[如皋\]</sup> ③ 斥人不知自重<sup>\[兴化\]</sup>：这个人～，把点儿脸他就浮起来！<sup>\[兴化\]</sup> ④ 旧指出身低下的人。也说“轻骨头”。<sup>\[兴化\]</sup> ⑤ 詈词，轻浮的人<sup>\[泰州\]</sup>：这小伙～，是个把不得穷脸的人。<sup>\[泰州\]</sup>  
-1. 【[骨头作痒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_teu_zah_ian.md#骨头作痒)】`gueh7 teu zah7 ian3` ① 比喻调皮，要挨打。<sup>\[如东\]</sup>：你不听话，～，吖。<sup>\[如东\]</sup> ② 詈词，骂人讨打<sup>\[泰州\]</sup>：你哿是～吖？<sup>\[泰州\]</sup>  
+1. 【[骨头作痒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_teu_zah_ian.md#骨头作痒)】`gueh7 teu zah7 ian3` <small>/kuəʔ7 tʰəɪ t͡sɑʔ7 iɑŋ3/<sup>泰兴</sup></small> ① 比喻调皮，要挨打。<sup>\[如东\]</sup>：你不听话，～，吖。<sup>\[如东\]</sup> ② 詈词，骂人讨打<sup>\[泰州\]</sup>：你哿是～吖？<sup>\[泰州\]</sup> ③ 谓讨打。<sup>\[泰兴\]</sup>  
 1. 【[骨头骨髓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_teu_gueh_xyen.md#骨头骨髓<sub>儿</sub>)】`gueh7 teu2 gueh7 xyen3 r` <sup>[东台]</sup> ① 指浑身每一处（由里向外）：瘾君子犯毒瘾的时候，～总疼。 ② ［引］所有财产、宝贝：他临走时恨不得把～都带走。  
 1. 【[骨血](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_xiuh.md#骨血)】`gueh7 xiuh7` <sup>[东台]</sup> 指子女等后代：亲～。  
 1. 【[骨榫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_xyen.md#骨榫)】`gueh7 xyen3` <sup>[兴化]</sup> 关节、骨头的连接处｜也作“骨节骨榫”：他狠狠一拳，把对方左肩的～打脱咖。｜逢阴天身上～的疼。  
 1. 【[骨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_zz.md#骨子)】`gueh7 zz` <sup>[兴化]</sup> ① 身板：他老虽老，～还可以！ ② 骨气：做人一点儿～没得，活咖下有甚的意思？ ③ 熬糖熬到扯得起丝，谓熬出～来。 ④ 袼褙：鞋～。  
+1. 【[骨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_zz.md#骨子)】`gueh7 zz` <small>/kuəʔ7 t͡sɿ/<sup>泰兴</sup></small> 比喻实质或内在的东西。<sup>\[泰兴\]</sup>：～里头不是箇样子的<sup>\[泰兴\]</sup>  
 1. 【[骨子里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_zz_li.md#骨子里)】`gueh7 zz li3` <sup>[泰州]</sup> 实质上，本质上：不要望她平常不大开口，其实～是个有主见的人。｜这小伙表面上蛮老实的，～就数他最鬼坏。  
 1. 【[骨子里头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_zz_li_teu.md#骨子里头)】`gueh7 zz li3 teu` <sup>[如东]</sup> ① 根子里头：～不好。 ② 实际上：～不是箇吖。  
+1. 【[骨子里头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_zz_li_teu.md#骨子里头)】`gueh7 zz li3 teu` <small>/kuəʔ7 t͡sɿ lʝ3 tʰəɪ/<sup>泰兴</sup></small> 实质上。<sup>\[泰兴\]</sup>  
 1. 【[骨子里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_zz_lii.md#骨子里)】`gueh7 zz lii` <small>/kuəʔ7 t͡sɿ ləi/<sup>兴化</sup></small> ① ［喻］内心或实质上<sup>\[东台\]</sup>：她表面上不动声色，～已经默许这门亲事啊。<sup>\[东台\]</sup> ② （喻）内心和实质上<sup>\[兴化\]</sup>：他表面做好人，～心狠手辣。<sup>\[兴化\]</sup>｜精明强干同尖酸刻薄，外表看差不多，～是截然不同的。<sup>\[兴化\]</sup> ③ 私下、暗中<sup>\[兴化\]</sup>：他俫～的事哪个总不清爽。‖也作“骨里”。<sup>\[兴化\]</sup>  
 1. 【[归着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_zhah.md#归着)】`guei zhah7` <sup>[泰州]</sup> ① 归宿，人的最终着落之处：你老在外头漂来漂去不是个事，还是家来找份收入稳定的工作，成个家，将来老啊也有个～。 ② 物体的固定存放之处：你把身份证随手乱丢，没得个～，等到要用的时候找不到就怪人。  
 1. 【[归家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_ga.md#归家)】`guei1 ga1` <small>/kuəɪ1 kɑ1/<sup>泰兴</sup></small> 返回家中<sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：他走早上出来，到现在还不曾～。<sup>\[泰州\]</sup>｜箇个伢儿天天耍子啊不～。<sup>\[泰兴\]</sup>  
@@ -1731,8 +1742,10 @@
 1. 【[桂花露](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_hua_lv.md#桂花露)】`guei5 hua1 lv6` <sup>[如东]</sup> 木樨科植物木樨的花经蒸馏而得的液体。  
 1. 【[桂皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_pi.md#桂皮)】`guei5 pi2` <sup>[如东]</sup> 樟科植物细叶香桂，常绿高大乔木。  
 1. 【[桂片糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_pin_go.md#桂片糕)】`guei5 pin5 go1` <small>/kuei5 pʰĩ5 kɔ1/<sup>如皋</sup></small> ① 糕点的一种。糯米屑、花生米、白糖等混和，加工蒸熟，切成片状，酥松香甜。<sup>\[如东\]</sup> ② 一种茶食，加桂花的云片糕。<sup>\[如皋\]</sup>  
+1. 【[贵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei.md#贵)】`guei5` 价高  
 1. 【[贵货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_hu.md#贵货)】`guei5 hu5` <sup>[如皋]</sup> 价高或价高而质差的货物。  
 1. 【[贵贱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_qin.md#贵贱)】`guei5 qin6` <sup>[兴化]</sup> 反正、无论如何：不管怎吖求他，他～就是不点头。｜他今吖太吃力，～不肯去。  
+1. 【[贵人多忘事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_ren_du_van.md#贵人多忘事)】`guei5 ren2 du1 van6 shr6` <small>/kuəɪ5 ɻəŋ2 tɤɯ1 uɑŋ1 sɿ1/<sup>泰兴</sup></small> 讥诮显贵者不念旧交，忘记昔日之情，或嘲人健忘。<sup>\[泰兴\]</sup>  
 1. 【[鳜鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_y.md#鳜鱼)】`guei5 y2` <sup>[如东]</sup> 鳜科动物鳜鱼。  
 1. 【[滚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guen.md#滚)】`guen3` <small>/kuəŋ3/<sup>如皋</sup>, /kuəŋ3/<sup>泰县</sup></small> ① 熟透<sup>\[如皋\]</sup>：～瓜烂熟。<sup>\[如皋\]</sup> ② 灼痛<sup>\[如皋\]</sup>：眼睛害，～人子疼。<sup>\[如皋\]</sup> ③ 表煮沸次数的量词<sup>\[如皋\]</sup>：粽子起码要烧三～。<sup>\[如皋\]</sup> ④ 砌<sup>\[泰县\]</sup>：～猪圈。<sup>\[泰县\]</sup> ⑤ 水沸腾<sup>\[泰州\]</sup>：锅里的水～吖唻，好下饺ㄦ啊唻。<sup>\[泰州\]</sup>  
 1. 【[滚茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guen_cha.md#滚茶)】`guen3 cha2` <sup>[兴化]</sup> ① 开水。 ② 开水沏的茶叶茶。  

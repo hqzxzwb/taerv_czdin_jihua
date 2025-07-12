@@ -372,6 +372,7 @@
 1. 【[眍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu.md#眍)】`keu1` ① 眼睛凹陷。<sup>\[东台\]</sup> ② 眼睛凹在眼眶里<sup>\[泰州\]</sup>：他两个眼睛～得蛮深的。<sup>\[泰州\]</sup>  
 1. 【[眍眍<sub>儿</sub>眼睛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_keu_r_ngaen.md#眍眍<sub>儿</sub>眼睛)】`keu1 keu1 r ngaen3 jien` <small>/kʰəɪ1 kʰəɪ˞1 ŋɛ̃3 t͡ɕiŋ/<sup>泰兴</sup></small> 谓眼眶深陷，眼睛落塘。<sup>\[泰兴\]</sup>  
 1. 【[眍眼睛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_ngaen_jien.md#眍眼睛)】`keu1 ngaen3 jien1` <small>/kʰei1 ŋẽ3 t͡ɕiəŋ1/<sup>如皋</sup></small> ① 眼球深陷在眼眶里。<sup>\[如东\]</sup> ② 眼球深陷下去的人。<sup>\[如东\]</sup> ③ 目凹，眼球位深。白种人尽是如此。<sup>\[如皋\]</sup>  
+1. 【[眍眼睛凹鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_ngaen_jien_va.md#眍眼睛凹鼻子)】`keu1 ngaen3 jien1 va5 pieh8 zz` <small>/kʰəɪ1 ŋɛ̃3 t͡ɕiŋ1 uɑ5 pʰiʔ8 t͡sɿ/<sup>泰兴</sup></small> 谓相貌丑陋。<sup>\[泰兴\]</sup>  
 1. 【[眍眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_ngaen_r.md#眍眼<sub>儿</sub>)】`keu1 ngaen3 r` <sup>[兴化]</sup> 眼球深陷在眼眶里边：前边来了一位～、高鼻子的外国人。  
 1. 【[剾巴剾巴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_ba_keu_ba.md#剾巴剾巴的)】`keu2 ba1 keu2 ba1 dii` <sup>[东台]</sup> 指做某件事的能力或实力不足而勉强去做。态度很认真，但效果不明显。  
 1. 【[彄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu.md#彄)】`keu2` <sup>[如东]</sup> 身体向前微弯：他走路的时候，上身有点儿～。  
@@ -645,6 +646,7 @@
 1. 【[刳皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_pi.md#刳皮)】`kua2 pi2` <sup>[东台]</sup> ① 刮、削表皮，使之干净。 ② ［引］批评，指责：他捱老板～。  
 1. 【[刳碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_un.md#刳碗)】`kua2 un3` <sup>[泰州]</sup> 用筷子或者汤匙将粘在碗底的食物刮离。  
 1. 【[刳芋头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_y_teu.md#刳芋头)】`kua2 y6 teu` <sup>[东台]</sup> 本指刮芋头皮。也戏称剃头（理发），特指剃光头。  
+1. 【[刳芋头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_y_teu.md#刳芋头)】`kua2 y6 teu` <small>/kʰuɑ2 y1 tʰəɪ/<sup>泰兴</sup></small> 以刀或锋利的硬片将芋头的皮清除掉。<sup>\[泰兴\]</sup>  
 1. 【[侉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua.md#侉)】`kua3` <small>/kʰua3/<sup>兴化</sup>, /kʰua3/<sup>如皋</sup>, /kʰuɑ3/<sup>泰兴</sup></small> ① 办事或说话有些蛮七蛮八。<sup>\[如东\]</sup>：这个人有些儿～。<sup>\[如东\]</sup> ② 粗放、粗犷<sup>\[如皋\]</sup>：她带伢儿带得～。<sup>\[如皋\]</sup> ③ 形容泼辣，没娇气<sup>\[兴化\]</sup>：小二子最～，不怕吃苦。<sup>\[兴化\]</sup> ④ 形容人说话、办事不细致，粗糙、粗鲁。<sup>\[泰兴\]</sup>  
 1. 【[侉饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_bien.md#侉饼)】`kua3 bien3` <small>/kʰua3 piɪ̃3/<sup>兴化</sup>, /kʰua3 piəŋ3/<sup>如皋</sup>, /kʰuɑ3 piŋ3/<sup>泰兴</sup></small> ① 初由山东人在如皋烙的大而厚的甜面饼，切丫儿卖。因而得名。<sup>\[如皋\]</sup> ② 由北方人传入的，在平底锅上烙的又厚又硬的饼，北方人称“锅饼”。又名“杠子饼”。<sup>\[兴化\]</sup> ③ 一种用面粉发酵做成的大而厚的圆饼，须切开方可食。<sup>\[泰兴\]</sup>  
 1. 【[侉搭搭的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_daeh_daeh_dii.md#侉搭搭的)】`kua3 daeh7 daeh7 dii` <sup>[如皋]</sup> 见“侉”。  

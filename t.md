@@ -300,8 +300,9 @@
 1. 【[叹气湾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_qi_vaen.md#叹气湾)】`taen5 qi5 vaen1` <sup>[兴化]</sup> （戏）到了失望的境界：这次求职的事又上吖～，没得指望吖。  
 1. 【[炭火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_hu.md#炭火)】`taen5 hu3` <sup>[兴化]</sup> ① 烧煤产生的火焰：～热气高。 ② 指燃料开支：每天的～还得好几块钱哎！  
 1. 【[炭球<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_qieu_r.md#炭球<sub>儿</sub>)】`taen5 qieu2 r` <sup>[兴化]</sup> ① 煤球。 ② 蜂窝煤。  
-1. 【[炭屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_shr.md#炭屎)】`taen5 shr3` <small>/tʰɛ̃5 sɿ3/<sup>兴化</sup>, /tʰẽ5 sɿ3/<sup>如皋</sup>, /tʰɛ̃5 sɿ3/<sup>泰县</sup></small> ① 煤渣。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup> ② 见“死炭”。<sup>\[兴化\]</sup> ③ 煤渣。<sup>\[泰县\]</sup><sup>\[泰州\]</sup>  
+1. 【[炭屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_shr.md#炭屎)】`taen5 shr3` <small>/tʰɛ̃5 sɿ3/<sup>兴化</sup>, /tʰẽ5 sɿ3/<sup>如皋</sup>, /tʰɛ̃5 sɿ3/<sup>泰兴</sup>, /tʰɛ̃5 sɿ3/<sup>泰县</sup></small> 煤渣。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>\[兴化：又叫“死炭”。\]  
 1. 【[炭屎路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_shr_lv.md#炭屎路)】`taen5 shr3 lv6` <sup>[如皋]</sup> 媒渣铺面的简易道路。  
+1. 【[炭屎砟子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_shr_zha_zz.md#炭屎砟子)】`taen5 shr3 zha3 zz` <small>/tʰɛ̃5 sɿ3 t͡sɑ3 t͡sɿ/<sup>泰兴</sup></small> 烧剩的煤灰。<sup>\[泰兴\]</sup>  
 1. 【[炭渣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_zha_zz.md#炭渣子)】`taen5 zha1 zz` <sup>[兴化]</sup> 煤炭燃烧后的余烬。也称“煤渣”“炭屎”“炭灰”。  
 1. 【[𨂞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen.md#𨂞)】`taen5` <small>/tʰɛ̃5/<sup>兴化</sup>, /tʰẽ5/<sup>如皋</sup></small> ① 下滑<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup>：～下去、望下～。<sup>\[如皋\]</sup>｜他从椅子上～下去了。<sup>\[东台\]</sup>｜～滑梯；～江（江岸坍塌）。<sup>\[兴化\]</sup> ② 悄悄地溜掉<sup>\[兴化\]</sup>：他一见势头不妙，忙从人群里～掉啊。<sup>\[兴化\]</sup>  
 1. 【[𨂞吖兴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_nga_xien.md#𨂞吖兴)】`taen5 nga xien5` <sup>[东台]</sup> 人对某种事物的兴趣消退：本来大家想上纺织项目，听说行情不好，总～。  
@@ -1109,8 +1110,10 @@
 1. 【[定珠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_zhv.md#定珠)】`tien6 zhv1` <sup>[兴化]</sup> 以指人死前眼球呆滞无光：眼睛～啊。  
 1. 【[定做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_zu.md#定做)】`tien6 zu5` <small>/tʰiɪ̃6 t͡so5/<sup>兴化</sup></small> ① 为特定的顾客或预订者制作的产品<sup>\[兴化\]</sup>：这套西装是为老陈～的。<sup>\[兴化\]</sup> ② 商家按照客户要求专门制作商品<sup>\[泰州\]</sup>：他家装修的木门都是在木器厂～的。<sup>\[泰州\]</sup>  
 1. 【[帖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_zz.md#帖子)】`tih7 zz` <sup>[东台]</sup> ① 类似于今天的请柬。 ② 男女双方通婚用红纸互换生辰八字，叫“换～”。  
+1. 【[贴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih.md#贴)】`tih7` <small>/tʰiʔ7/<sup>泰兴</sup></small> 补偿；补贴。黏附，张贴。紧靠。<sup>\[泰兴\]</sup>  
 1. 【[贴边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_bin.md#贴边)】`tih7 bin1` <sup>[东台]</sup> 缝在衣服里子边上的布条。  
-1. 【[贴福字](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_foh_cz.md#贴福字)】`tih7 foh7 cz6` <small>/tʰiɪʔ7 fɔʔ7 t͡sʰɿ6/<sup>兴化</sup>, /tʰiɪʔ7 fɔʔ7 t͡sʰɿ1/<sup>泰县</sup></small> ① 春节，在大门米柜上贴福字，表示富贵幸福。比喻说好话，恭维。<sup>\[如东\]</sup>：你就会～啊！<sup>\[如东\]</sup> ② ［喻］说恭维话。<sup>\[东台\]</sup> ③ 说好话、顺耳的话<sup>\[兴化\]</sup>：他专会～，有话也不直说。也说“贴顺遂条儿”。<sup>\[兴化\]</sup> ④ 恭维，奉承。<sup>\[泰县\]</sup> ⑤ 民俗，每年春节，除夕这天，家家户户都要在大门或者门楣、墙壁，甚至家具、农具上贴上大大小小红纸斗方的“福”字，并将“福”字有意倒贴，取“福到”之意。<sup>\[泰州\]</sup> ⑥ 比喻说对人有利的话<sup>\[泰州\]</sup>：市委组织部来开座谈会，征求对提拔小李的意见，上头定下来的，大家还有甚的说的，个个～。<sup>\[泰州\]</sup>  
+1. 【[贴发](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_faeh.md#贴发)】`tih7 faeh7` <small>/tʰiʔ7 fæʔ7/<sup>泰兴</sup></small> 打发，支派。<sup>\[泰兴\]</sup>  
+1. 【[贴福字](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_foh_cz.md#贴福字)】`tih7 foh7 cz6` <small>/tʰiɪʔ7 fɔʔ7 t͡sʰɿ6/<sup>兴化</sup>, /tʰiʔ7 fɔʔ7 t͡sʰɿ1/<sup>泰兴</sup>, /tʰiɪʔ7 fɔʔ7 t͡sʰɿ1/<sup>泰县</sup></small> ① 春节，在大门米柜上贴福字，表示富贵幸福。比喻说好话，恭维。<sup>\[如东\]</sup>：你就会～啊！<sup>\[如东\]</sup> ② ［喻］说恭维话。<sup>\[东台\]</sup> ③ 说好话、顺耳的话<sup>\[兴化\]</sup>：他专会～，有话也不直说。也说“贴顺遂条儿”。<sup>\[兴化\]</sup> ④ 恭维，奉承。<sup>\[泰县\]</sup> ⑤ 民俗，每年春节，除夕这天，家家户户都要在大门或者门楣、墙壁，甚至家具、农具上贴上大大小小红纸斗方的“福”字，并将“福”字有意倒贴，取“福到”之意。<sup>\[泰州\]</sup> ⑥ 比喻说对人有利的话<sup>\[泰州\]</sup>：市委组织部来开座谈会，征求对提拔小李的意见，上头定下来的，大家还有甚的说的，个个～。<sup>\[泰州\]</sup> ⑦ 说中听的话；喻溜须拍马。<sup>\[泰兴\]</sup>  
 1. 【[贴己](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_ji.md#贴己)】`tih7 ji3` <sup>[兴化]</sup> ① 家庭成员的个人积蓄：～钱｜她把～钱拿出来把儿子交学费。 ② 关系密切：还是女儿～。  
 1. 【[贴脚板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_jiah_baen.md#贴脚板)】`tih7 jiah7 baen3` <sup>[如东]</sup> 床帮前沿下部的木板。一般三块，上面雕刻花纹。  
 1. 【[贴壳黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_kah_huan.md#贴壳黄)】`tih7 kah7 huan2` <sup>[兴化]</sup> ① 形容螃蟹肥硕：谚曰：九月的螃蟹～。 ② （喻）家道殷实：他家是～，骨里厚实！  
@@ -1127,6 +1130,7 @@
 1. 【[贴贴顶头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_tih_dien_teu.md#贴贴顶头)】`tih7 tih7 dien3 teu2` <sup>[如皋]</sup> 最顶头。  
 1. 【[贴贴闲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_tih_xiaen.md#贴贴闲)】`tih7 tih7 xiaen2` <sup>[东台]</sup> 工资外赚的小额收入，以补零用。  
 1. 【[贴痛风膏药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_ton_fon_go.md#贴痛风膏药)】`tih7 ton5 fon1 go1 iah8` <sup>[东台]</sup> ［喻］给别人穿小鞋，有意找麻烦。  
+1. 【[贴相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_xian.md#贴相)】`tih7 xian5` <small>/tʰiʔ7 ɕiɑŋ5/<sup>泰兴</sup></small> 拍马屁。<sup>\[泰兴\]</sup>  
 1. 【[贴心话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_xien_hua.md#贴心话)】`tih7 xien1 hua6` <sup>[如东]</sup> 知心话。  
 1. 【[贴小像子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_xio_xian_zz.md#贴小像子)】`tih7 xio3 xian5 zz` <sup>[东台]</sup> 背后议论人（多指说坏话）。  
 1. 【[铁钯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_ba.md#铁钯)】`tih7 ba1` <sup>[如皋]</sup> ① 从两边相夹以锔碗的铁皮钯。 ② 加固墙体的铁锔。 ③ 补缸用的铁锔。  

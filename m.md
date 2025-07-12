@@ -167,6 +167,7 @@
 1. 【[蚂虮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ji.md#蚂虮)】`ma3 ji1` <small>/ma3 t͡ɕʝ1/<sup>如皋</sup></small> 即蚂蝗。蛭纲动物。<sup>\[如皋\]</sup><sup>\[东台\]</sup>  
 1. 【[蚂䗇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_jioh.md#蚂䗇)】`ma3 jioh` <sup>[泰兴]</sup> 水蛭。或音 ma3 jiah。  
 1. 【[蚂蝆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_mi.md#蚂蝆)】`ma3 mi3` <sup>[如皋]</sup> 蚂蚁。  
+1. 【[蚂蝗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_van.md#蚂蝗)】`ma3 van2` <small>/mɑ3 uɑŋ2/<sup>泰兴</sup></small> 水蛭<sup>\[泰兴\]</sup>  
 1. 【[蚂蟥缠住咖鹭鸶脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_van_chih_chuh.md#蚂蟥缠住咖鹭鸶脚)】`ma3 van2 chih8 chuh7 ga lv6 sz1 jiah7` <sup>[如皋]</sup> 比喻被纠缠住，甩也甩不开。chih8，缠（chin6）的促化音。  
 1. 【[马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma.md#马)】`ma3` <sup>[如东]</sup> 马科动物马。  
 1. 【[马鞭草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_bin_co.md#马鞭草)】`ma3 bin1 co3` <sup>[如东]</sup> 马鞭草科植物马鞭草，多年生草本。  
