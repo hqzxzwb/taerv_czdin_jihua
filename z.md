@@ -1265,6 +1265,7 @@
 1. 【[中心圆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_xien_iun_r.md#中心圆<sub>儿</sub>)】`zhon5 xien1 iun2 r` <sup>[东台]</sup> ［喻］指特别赏识和中意的下级或晚辈。  
 1. 【[众人挖给一人挑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_ren_vaeh_gei.md#众人挖给一人挑)】`zhon5 ren2 vaeh7 gei5 ieh7 ren2 tio1` <sup>[东台]</sup> 喻指忙闲不均，多人不卖力，把难事推给个把人。  
 1. 【[种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon.md#种)】`zhon5` <sup>[如皋]</sup> ① 种植。 ② 接种疫苗：～牛痘。  
+1. 【[种花花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_hua_hua.md#种花花)】`zhon5 hua1 hua` <small>/t͡sɔŋ5 xuɑ1 xuɑ/<sup>泰兴</sup></small> 种牛痘。<sup>\[泰兴\]</sup>  
 1. 【[种花<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_hua_r.md#种花<sub>儿</sub>)】`zhon5 hua1 r` <sup>[兴化]</sup> 种牛痘。  
 1. 【[种麦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_moh.md#种麦)】`zhon5 moh8` <sup>[如东]</sup> 在田里撒下麦种。  
 1. 【[种五谷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_v_goh.md#种五谷)】`zhon5 v3 goh7` <sup>[如皋]</sup> 葬俗之一。出殡过程中，棺材出大门的时候，一人在棺上打伞并转动，一人抛五谷，随伞酒落，表示死者行前祝愿家中丰产丰收，生活富足。  

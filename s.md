@@ -1280,6 +1280,7 @@
 1. 【[深更半夜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_gen_bun_ia.md#深更半夜)】`shen1 gen1 bun5 ia6` <sup>[东台]</sup> 夜已很深，到了子时左右。  
 1. 【[深潭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_tun.md#深潭)】`shen1 tun2` <sup>[如皋]</sup> ① 很深的漏斗状水塘。 ② 水下的深塘。  
 1. 【[牲氏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_shr.md#牲氏)】`shen1 shr` <sup>[兴化]</sup> 牲口：夜里要起来喂～。  
+1. 【[牲氏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_shr.md#牲氏)】`shen1 shr` <small>/səŋ1 sɿ/<sup>泰兴</sup></small> 乡人谓家养的各种动物为牲氏。如牛、马、猪、羊、鸡、鸭、狗、猫等。非家养的则谓之“野牲氏”。<sup>\[泰兴\]</sup>  
 1. 【[牲豕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_shr.md#牲豕)】`shen1 shr` <sup>[如皋]</sup> 兽类：他家成吖动物园，家～、野～总有。  
 1. 【[生不带来，死不带走](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_beh_dae_lae.md#生不带来，死不带走)】`shen1 beh7 dae5 lae2 sz3 beh7 dae5 zeu3` <sup>[东台]</sup> 人要豁达，想开，不要为一己私利斤斤计较。  
 1. 【[生不犟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_beh_qian.md#生不犟)】`shen1 beh7 qian6` <sup>[如东]</sup> 脾气固执，不听劝说：你不要～。  

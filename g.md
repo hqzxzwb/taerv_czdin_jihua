@@ -350,6 +350,7 @@
 1. 【[江芦柴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_lv_shae.md#江芦柴)】`gan1 lv2 shae2` <sup>[兴化]</sup> 又称芦竹。一种株型较大的芦苇。  
 1. 【[纲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_zz.md#纲子)】`gan1 zz` <sup>[如东]</sup> 网口上的一根粗绳，叫纲子。简称纲。  
 1. 【[缸塴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_bon_r.md#缸塴<sub>儿</sub>)】`gan1 bon5 r` <sup>[如皋]</sup> 缸与邻物相夹的空间。  
+1. 【[缸锅腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_gu_qian.md#缸锅腔)】`gan1 gu1 qian1` <small>/kɑŋ1 kɤɯ1 t͡ɕʰiɑŋ1/<sup>泰兴</sup></small> 像小缸似的无烟囱的小锅灶。可移动。<sup>\[泰兴\]</sup>  
 1. 【[缸脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_jiah_r.md#缸脚<sub>儿</sub>)】`gan1 jiah7 r` <sup>[如皋]</sup> ① 水缸底的沉淀物 ② 缸底的余水、余物。  
 1. 【[缸脚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_jiah_zz.md#缸脚子)】`gan1 jiah7 zz` <sup>[兴化]</sup> 水缸中的沉淀物：刮～。  
 1. 【[缸𤖭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_paen.md#缸𤖭)】`gan1 paen2` <sup>[如皋]</sup> 陶缸、陶器的碎片。  
@@ -357,17 +358,21 @@
 1. 【[缸炭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_taen.md#缸炭)】`gan1 taen5` <sup>[如皋]</sup> 窑制木炭。常以缸或油纸篓儿装运，故名。  
 1. 【[缸瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_va.md#缸瓦)】`gan1 va3` <sup>[东台]</sup> 用砂子、陶土等混合而烧成的瓦，也指陶器的碎片：大炼钢铁时有人用～炼钢，荒唐！  
 1. 【[缸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_zz.md#缸子)】`gan1 zz` <sup>[东台]</sup> 喝水或盛东西用的器皿。  
+1. 【[缸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_zz.md#缸子)】`gan1 zz` <small>/kɑŋ1 t͡sɿ/<sup>泰兴</sup></small> 大茶杯，茶缸。<sup>\[泰兴\]</sup>  
 1. 【[豇豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_teu.md#豇豆)】`gan1 teu6` 豇豆。常见蔬菜。  
 1. 【[豇豆角<sub>儿</sub>下面——清汤清水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_teu_gah_r.md#豇豆角<sub>儿</sub>下面——清汤清水)】`gan1 teu6 gah7 r xia6 min6 qien1 tan1 qien1 shuei3` <sup>[东台]</sup>   
 1. 【[钢尺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_cheh.md#钢尺)】`gan1 cheh7` <sup>[如东]</sup> 度量工具。金属制成，有直尺、角尺、圈尺、卡尺等多种。  
+1. 【[钢骨水泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_gueh_shuei_ni.md#钢骨水泥)】`gan1 gueh7 shuei3 ni2` <small>/kɑŋ1 kuəʔ7 suəɪ3 nʝ2/<sup>泰兴</sup></small> 钢筋混凝土。<sup>\[泰兴\]</sup>  
 1. 【[钢火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_hu.md#钢火)】`gan1 hu3` <sup>[兴化]</sup> 刀、斧等刃具的质量：凿子、斧头～不行。｜并无好～（《说岳全传》第十回）  
 1. 【[钢筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_jien.md#钢筋)】`gan1 jien1` ① 钢筋混泥土中所用的长条钢材。按断面形状可分为圆钢筋、方钢筋等，按表面形状可分为光钢筋、竹节钢筋、螺纹钢筋等。<sup>\[如东\]</sup> ② 混凝土中所用的钢材。<sup>\[东台\]</sup>  
 1. 【[钢精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_jien.md#钢精)】`gan1 jien1` <sup>[如东]</sup> 制造日用器皿的铝材。也叫钢种。  
 1. 【[钢精锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_jien_gu.md#钢精锅)】`gan1 jien1 gu1` ① 以钢精为原料制成的锅，轻，不生锈。也叫钢种锅。<sup>\[如东\]</sup> ② 指用铝制造的锅子，民间常称为“钢甑锅”或“钢种锅”。<sup>\[东台\]</sup>  
 1. 【[钢口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_keu.md#钢口)】`gan1 keu` <sup>[东台]</sup> 指刀、剑等刃部的质量：这把薄刀～不错。  
 1. 【[钢丝车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_sz_cha.md#钢丝车)】`gan1 sz1 cha1` <sup>[如皋]</sup> 自行车的旧称。  
+1. 【[钢丝车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_sz_cha.md#钢丝车)】`gan1 sz1 cha1` <small>/kɑŋ1 sɿ1 t͡sʰɑ1/<sup>泰兴</sup></small> 自行车<sup>\[泰兴\]</sup>  
 1. 【[钢丝车<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_sz_cha_r.md#钢丝车<sub>儿</sub>)】`gan1 sz1 cha1 r` <small>/kɑŋ1 sɿ1 t͡sʰa1 ɚ/<sup>泰县</sup></small> ① 自行车的旧称。<sup>\[东台\]</sup> ② 自行车。<sup>\[泰县\]</sup>  
 1. 【[钢丝车子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_sz_cha_zz.md#钢丝车子)】`gan1 sz1 cha1 zz` <sup>[兴化]</sup> 自行车。  
+1. 【[钢盅锅子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_zhon_gu_zz.md#钢盅锅子)】`gan1 zhon gu1 zz` <small>/kɑŋ1 t͡sɔŋ kɤɯ1 t͡sɿ/<sup>泰兴</sup></small> 铝锅。<sup>\[泰兴\]</sup>  
 1. 【[钢种锅<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_zhon_gu_r.md#钢种锅<sub>儿</sub>)】`gan1 zhon gu1 r, gan1 zen gu1 r` 平底圆锅  
 1. 【[钢种锅<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_zhon_gu_r.md#钢种锅<sub>儿</sub>)】`gan1 zhon gu1 r` <sup>[泰州]</sup> 铝锅。  
 1. 【[𠵹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan.md#𠵹)】`gan1` <small>/kaŋ1/<sup>兴化</sup>, /kã1/<sup>如皋</sup>, /kɑŋ1/<sup>泰县</sup></small> [争吵](https://dict.variants.moe.edu.tw/dictView.jsp?ID=80723&la=0)<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：他家“三天一召，两天一～”，不是过日子的。<sup>\[如皋\]</sup>｜他家两口子性格不合，平常不是～，就是打。<sup>\[兴化\]</sup>｜我不跟你～。<sup>\[泰县\]</sup>｜交我～了两句，走出来。（金瓶梅·52回）<sup>\[泰县\]</sup>｜两个人整天～得没得命。<sup>\[泰县\]</sup>｜两个人～吖半天，没得人劝得下来。<sup>\[泰州\]</sup>｜你俫成天～～吵吵的，像个甚的样子？<sup>\[泰州\]</sup>  

@@ -1148,6 +1148,7 @@
 1. 【[超朞走](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_ji_zeu.md#超朞走)】`cho1 ji1 zeu3` <small>/t͡sʰɔ1 t͡ɕʝ1 t͡sei3/<sup>如皋</sup></small> ① 婴儿未满周岁即会走路，是发育良好的表现。<sup>\[如皋\]</sup> ② 婴儿未过周岁就会走路，“超”指能力超过同龄婴儿，“朞”指周岁。<sup>\[东台\]</sup>  
 1. 【[超头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_teu.md#超头)】`cho1 teu2` <sup>[兴化]</sup> 抢在前头到达目的地：一个个直奔中军帐。有人～奔寝帐来摇醒曹操……（《火烧赤壁》五）也作“穿头”。  
 1. 【[钞票](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_pio.md#钞票)】`cho1 pio5` <sup>[如东]</sup> 纸币。  
+1. 【[钞票](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_pio.md#钞票)】`cho1 pio5` <small>/t͡sʰɔ1 pʰiɔ5/<sup>泰兴</sup></small> 纸币；钱的通称。<sup>\[泰兴\]</sup>  
 1. 【[朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho.md#朝)】`cho2` 针对  
 1. 【[朝贺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_hu.md#朝贺)】`cho2 hu` <sup>[东台]</sup> 暗示要表示点（请客或送礼）的意思。  
 1. 【[朝阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_ian.md#朝阳)】`cho2 ian2` <sup>[如东]</sup> 向着太阳的地方或方向。  

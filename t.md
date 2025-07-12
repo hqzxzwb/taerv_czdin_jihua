@@ -641,9 +641,12 @@
 1. 【[忳事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_shr.md#忳事)】`ten6 shr` <sup>[如皋]</sup> ① 嫌少：送这点儿杲子，倒～！ ② 不吉利：看见吖两头蛇就～；见屁股不打就～。 ③ 嘲笑、挖苦、作弄：你不要弄这些话去～他。  
 1. 【[忳事话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_shr_hua.md#忳事话)】`ten6 shr hua6` <sup>[如皋]</sup> 小气话，显得失体、丢面子或不吉利的话：他会说～话，好像八世里不曾吃过。  
 1. 【[钝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten.md#钝)】`ten6` <sup>[东台]</sup> 刀不快：刀～吖，快去磨。  
+1. 【[钝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten.md#钝)】`ten6` <small>/tʰəŋ1/<sup>泰兴</sup></small> ① 不锋利。<sup>\[泰兴\]</sup>：刀钝吖lo，要磨下子。<sup>\[泰兴\]</sup> ② 笨拙，迟钝。<sup>\[泰兴\]</sup>：箇个伢儿不～<sup>\[泰兴\]</sup>  
+1. 【[钝锅子，漏屎缸，穷人家的杲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_gu_zz_leu.md#钝锅子，漏屎缸，穷人家的杲子)】`ten6 gu1 zz leu6 shr3 gan qion2 ren2 ga1 dii go3 zz` <small>/tʰəŋ1 kɤɯ1 t͡sɿ ləɪ1 sɿ3 kɑŋ t͡ɕʰiɔŋ2 ɻəŋ2 kɑ1 təɪ kɔ3 t͡sɿ/<sup>泰兴</sup></small> 谓锅底灰很厚，多用了烧草；粪缸漏肥料，白白遭受损失，会使家庭贫穷。<sup>\[泰兴\]</sup>  
 1. 【[钝事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_shr.md#钝事)】`ten6 shr` <sup>[兴化]</sup> ① 不吉利：触霉头｜～不剌的。 ② （迷信）见了该避讳的事：～三年。  
 1. 【[钝事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_shr.md#钝事)】`ten6 shr6` <sup>[东台]</sup> 不吉利：新年头里的，就𠵹丧打架，～。  
 1. 【[钝事话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_shr_hua.md#钝事话)】`ten6 shr6 hua6` <sup>[东台]</sup> 不吉利的话：腊月皇天的，想得起来的说这些～。  
+1. 【[钝拙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_zhuh.md#钝拙)】`ten6 zhuh7` <small>/tʰəŋ1 t͡sʊʔ7/<sup>泰兴</sup></small> 愚钝、笨拙。<sup>\[泰兴\]</sup>  
 1. 【[钝灶漏茅缸，穷人家的大王](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_zo_leu_mo.md#钝灶漏茅缸，穷人家的大王)】`ten6 zo5 leu6 mo2 gan1 qion2 ren2 ga1 dii tae6 van` <sup>[东台]</sup> 要科学管理，不能忽视吃喝拉撒等日常细节。  
 1. 【[偷宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_bo_r.md#偷宝<sub>儿</sub>)】`teu1 bo3 r` <small>/tʰei1 pɔ˞3/<sup>如皋</sup></small> ① 婚前孕或先孕后婚所生子女。<sup>\[如皋\]</sup> ② 指未婚夫妻生的孩子。<sup>\[东台\]</sup>  
 1. 【[偷饭碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_faen_un.md#偷饭碗)】`teu1 faen6 un3` <sup>[如东]</sup> 一种民俗。如果死者是90岁以上的老人，送人情、吃斋饭的人要偷一只饭碗带回去给自己的后代使用，讨个长寿的吉利。  

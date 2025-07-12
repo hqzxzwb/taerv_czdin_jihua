@@ -1190,6 +1190,7 @@
 1. 【[秋场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_chan.md#秋场)】`qieu1 chan2` <sup>[如东]</sup> 秋季：～收成不好。  
 1. 【[秋呆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_dae_zz.md#秋呆子)】`qieu1 dae1 zz` <small>/t͡ɕʰiɤ1 tɛ1 t͡sɿ/<sup>兴化</sup></small> ① 同“秋老虎”。<sup>\[东台\]</sup> ② 立秋后天气持续高温<sup>\[兴化\]</sup>：发～。<sup>\[兴化\]</sup> ③ 秋后连续降雨，水位居高不下。<sup>\[兴化\]</sup>  
 1. 【[秋分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_fen.md#秋分)】`qieu1 fen1` 二十四节气之一，这一天白天与夜晚一样长，通常在9月23日或前后一两天。  
+1. 【[秋干出黄金](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_gun_chueh_huan.md#秋干出黄金)】`qieu1 gun1 chueh7 huan2 jien1` <small>/t͡ɕʰiɤɯ1 kʊ̃1 t͡sʰuəʔ7 xuɑŋ2 t͡ɕiŋ1/<sup>泰兴</sup></small> 农谚。谓秋干少雨，庄稼会大丰收。<sup>\[泰兴\]</sup>  
 1. 【[秋后的蚂蚱——蹦不了几天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_heu_dii_maeh.md#秋后的蚂蚱——蹦不了几天)】`qieu1 heu6 dii maeh8 zha bon5 beh7 lio3 ji3 tin1` <sup>[东台]</sup>   
 1. 【[秋季](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_ji.md#秋季)】`qieu1 ji5` <sup>[如东]</sup> 阴历七月至九月为秋季。  
 1. 【[秋讲究](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_jian_jieu.md#秋讲究)】`qieu1 jian3 jieu` <sup>[泰县]</sup> 疟疾。  
@@ -1200,6 +1201,8 @@
 1. 【[秋上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_shan.md#秋上)】`qieu1 shan` <sup>[如皋]</sup> 秋季。  
 1. 【[秋天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_tin.md#秋天)】`qieu1 tin1` <sup>[如东]</sup> 秋季。也称秋里、秋上。  
 1. 【[秋天的石榴——合不拢嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_tin_dii_sheh.md#秋天的石榴——合不拢嘴)】`qieu1 tin1 dii sheh8 lieu huh8 beh7 lon3 jy3` <sup>[东台]</sup>   
+1. 【[秋天怕夜睛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_tin_pa_ia.md#秋天怕夜睛)】`qieu1 tin1 pa5 ia6 qien2` <small>/t͡ɕʰiɤɯ1 tʰĩ1 pʰɑ5 iɑ1 t͡ɕʰiŋ2/<sup>泰兴</sup></small> 天气谚语。谓秋夜晴朗可能要下雨。<sup>\[泰兴\]</sup>  
+1. 【[秋天无雨北风多，起到南风是雨窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_tin_v_y.md#秋天无雨北风多，起到南风是雨窠)】`qieu1 tin1 v2 y3 boh7 fon du1 qi3 do5 nun2 fon1 shr6 y3 ku1` <small>/t͡ɕʰiɤɯ1 tʰĩ1 ʋ2 y3 pɔʔ7 fɔŋ tɤɯ1 t͡ɕʰʝ3 tɔ5 nʊ̃2 fɔŋ1 sɿ1 y3 kʰɤɯ1/<sup>泰兴</sup></small> 气象谚语。谓秋天刮南风将要下雨。<sup>\[泰兴\]</sup>  
 1. 【[邱场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_chan.md#邱场)】`qieu1 chan2` <sup>[如皋]</sup> 本名西场，因邱陞将军战死于此而改名。  
 1. 【[邱公祠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_gon_cz.md#邱公祠)】`qieu1 gon1 cz2` <sup>[如皋]</sup> 原在如城老体育场东侧，祀明·嘉靖年间扬州副将邱陞。因其在如皋杀倭寇而牺牲。受皇封，立庙祭祀。  
 1. 【[鳅宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_bo_r.md#鳅宝<sub>儿</sub>)】`qieu1 bo3 r` <sup>[如皋]</sup> 见“鳅鱼”。  

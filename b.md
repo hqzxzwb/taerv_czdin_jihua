@@ -162,8 +162,7 @@
 1. 【[霸实/坝实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_sheh.md#霸实/坝实)】`ba5 sheh` <small>/pa5 səʔ/<sup>兴化</sup>, /pa5 səʔ/<sup>如皋</sup>, /pa5 səʔ/<sup>泰县</sup></small> ① 结实。<sup>\[如东\]</sup>：这只箩筐～。<sup>\[如东\]</sup> ② 形容用物工具结实牢固。<sup>\[如皋\]</sup> ③ 结实。（多指用物器具）<sup>\[东台\]</sup> ④ 结实。<sup>\[泰县\]</sup>：这张椅子蛮～。<sup>\[泰县\]</sup> ⑤ 物体坚固耐重压<sup>\[泰州\]</sup>：祖上传吖唻的这张床打得～，用吖有四五十年还好好的。<sup>\[泰州\]</sup> ⑥ 指人的身体魁梧能干重体力活<sup>\[泰州\]</sup>：小二子身体多～咖，二百斤担子挑得飞飞的。<sup>\[泰州\]</sup> ⑦ 形容器物牢固耐用<sup>\[兴化\]</sup>：这张藤椅蛮～的。<sup>\[兴化\]</sup>  
 1. 【[霸王请客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_van_qien_keh.md#霸王请客)】`ba5 van2 qien3 keh7` <sup>[东台]</sup> 强行请人到场，不让推辞。  
 1. 【[𬥐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae.md#𬥐)】`bae1` <sup>[兴化]</sup> ① 父亲：～～。 ② 父亲的兄或弟：大～；二～；三～。 ③ 和父亲年岁、辈份相当的男性：张大～；王二～。  
-1. 【[𬥐𬥐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_bae.md#𬥐𬥐)】`bae1 bae` <small>/pɛ1 pɛ/<sup>如皋</sup>, /pɛ1 pɛ/<sup>泰兴</sup></small> ① 父亲<sup>\[泰州\]</sup>\[如皋：如皋北乡称。\] ② 父亲的妹妹。或泛指父亲的姊或妹。<sup>\[泰兴\]</sup>  
-1. 【[𬥐𬥐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_bae.md#𬥐𬥐)】`bae1 bae1, bae1 bae3` <sup>[东台]</sup> 爸爸的旧称。  
+1. 【[𬥐𬥐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_bae.md#𬥐𬥐)】`bae1 bae` <small>/pɛ1 pɛ/<sup>如皋</sup>, /pɛ1 pɛ/<sup>泰兴</sup></small> ① 父亲<sup>\[泰州\]</sup>\[东台：又bae1 bae3\]\[如皋：如皋北乡称。\] ② 父亲的妹妹。或泛指父亲的姊或妹。<sup>\[泰兴\]</sup>  
 1. 【[摆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae.md#摆)】`bae3` <small>/pɛ3/<sup>兴化</sup>, /pɛ3/<sup>如皋</sup></small> ① 放。<sup>\[如东\]</sup> ② 死人停放。<sup>\[如皋\]</sup> ③ 詈语。指睡。<sup>\[如皋\]</sup> ④ 除一般释义外，特指停放尸体。故用此词须有所避讳。<sup>\[东台\]</sup> ⑤ 死的隐语<sup>\[兴化\]</sup>：他～下来连棺材也没得。<sup>\[兴化\]</sup>  
 1. 【[摆啊明吖说](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_a_mien_nga.md#摆啊明吖说)】`bae3 a mien2 nga shuh7` <sup>[东台]</sup> 开诚布公地说。  
 1. 【[摆不住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_beh_chv.md#摆不住)】`bae3 beh7 chv6` <sup>[如皋]</sup> 见“袒”。  
@@ -218,12 +217,14 @@
 1. 【[拜布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_bv.md#拜布)】`bae5 bv5` <sup>[东台]</sup> 请客送礼，打招呼，拜托。  
 1. 【[拜材头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_cae_teu.md#拜材头)】`bae5 cae2 teu2` <sup>[兴化]</sup> 背在灵堂向棺材跪拜：钱典史连忙跪倒，同～的一样，叩了三个头……（《官场现形记》三）  
 1. 【[拜斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_deu.md#拜斗)】`bae5 deu3` <small>/pɛ5 tɤ3/<sup>兴化</sup></small> ① 一种禳灾、祈福的迷信活动<sup>\[兴化\]</sup>：孩子大病好了，到四神观～谢神。<sup>\[兴化\]</sup>｜原来吴月娘……每月吃斋三次，逢七～焚香……。（《金瓶梅词话》二一）<sup>\[兴化\]</sup> ② 拜北斗七星，道教祈祷仪式之一，民间用以禳灾祈福。<sup>\[泰州\]</sup>  
+1. 【[拜伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_foh.md#拜伏)】`bae5 foh8` <small>/pɛ5 fɔʔ8/<sup>泰兴</sup></small> 佩服之极。也作“拜服”。<sup>\[泰兴\]</sup>  
 1. 【[拜蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_hae.md#拜蟹)】`bae5 hae3` <sup>[如东]</sup> 方蟹科动物拜蟹，也叫毛脚蟛蜞。全体被坚硬的甲壳。头胸甲长约4厘米，长方形，淡灰色。眼具短柄，能活动。螫足1对，长而大，步足4对，生长刚毛。腹部退化，雄者呈三角形，雌者圆形。生活在沙滩上，穴居。可食。为如东常见蟹种。  
 1. 【[拜匣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_haeh.md#拜匣)】`bae5 haeh8` <sup>[兴化]</sup> 见“拜盒”。  
-1. 【[拜盒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_huh.md#拜盒)】`bae5 huh8` <small>/pɛ5 xuʔ8/<sup>兴化</sup></small> ① 旧时婚丧喜庆投送请柬、拜帖的木制器皿。<sup>\[东台\]</sup> ② 旧时盛放礼品或柬帖的长方形木匣。也称“拜匣”。<sup>\[兴化\]</sup> ③ 旧时送节礼、圆礼等用的担盒，有提梁，一般由人抬。<sup>\[兴化\]</sup>  
+1. 【[拜盒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_huh.md#拜盒)】`bae5 huh8` <small>/pɛ5 xuʔ8/<sup>兴化</sup>, /pɛ5 xʊʔ8/<sup>泰兴</sup></small> ① 旧时婚丧喜庆投送请柬、拜帖的木制器皿。<sup>\[东台\]</sup> ② 旧时盛放礼品或柬帖的长方形木匣。也称“拜匣”。<sup>\[兴化\]</sup> ③ 旧时送节礼、圆礼等用的担盒，有提梁，一般由人抬。<sup>\[兴化\]</sup> ④ 旧时拜见客人装礼单、请柬的精制的小盒。<sup>\[泰兴\]</sup>  
+1. 【[拜家堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_jia_tan.md#拜家堂)】`bae5 jia1 tan` <small>/pɛ5 t͡ɕiɑ1 tʰɑŋ/<sup>泰兴</sup></small> 旧时婚礼中的一种仪式。指新郎新娘参拜天地后拜家主神位。<sup>\[泰兴\]</sup>  
 1. 【[拜寿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_sheu.md#拜寿)】`bae5 sheu6` <sup>[如东]</sup> 祝贺寿辰。  
 1. 【[拜托](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_tah.md#拜托)】`bae5 tah7` <sup>[如东]</sup> 请人为自己负责某种事情。  
-1. 【[拜垫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_tin.md#拜垫)】`bae5 tin6` <small>/pɛ5 tʰĩ1/<sup>如皋</sup></small> ① 跪拜时垫在膝下的软垫。由布、草等做成。<sup>\[如皋\]</sup> ② 跪拜神灵祖先用的蒲团。<sup>\[东台\]</sup> ③ 行磕头礼时垫在膝部下的圆形厚垫子。<sup>\[泰州\]</sup>  
+1. 【[拜垫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_tin.md#拜垫)】`bae5 tin6` <small>/pɛ5 tʰĩ1/<sup>如皋</sup>, /pɛ5 tʰĩ/<sup>泰兴</sup></small> ① 跪拜时垫在膝下的软垫。由布、草等做成。<sup>\[如皋\]</sup> ② 跪拜神灵祖先用的蒲团。<sup>\[东台\]</sup> ③ 行磕头礼时垫在膝部下的圆形厚垫子。<sup>\[泰州\]</sup> ④ 跪拜用的垫子。<sup>\[泰兴\]</sup>  
 1. 【[拜垫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_tin_zz.md#拜垫子)】`bae5 tin6 zz` <sup>[兴化]</sup> 供下跪时垫膝用的垫子，用香蒲编成或用布缝成外皮，内铺稻草或絮棉而成：（皮五辣子）鞋子穿起来，拔起米，站在～上。（《皮五辣子》二）  
 1. 【[拜读](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_toh.md#拜读)】`bae5 toh8` <sup>[如东]</sup> 恭敬地阅读对方的著作。  
 1. 【[拜香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_xian.md#拜香)】`bae5 xian1` <sup>[兴化]</sup> 旧时，父母为患病的小孩许愿，愈后逢迎神赛会即磕～还愿。届时，手持香凳，插安息香，自庙中出脚跑遍全城，逢庙宇、桥梁、巷口即磕头作揖，有的“披枷戴锁”，数步一回头，数步叩首。（见《兴化市志·民俗》）  
