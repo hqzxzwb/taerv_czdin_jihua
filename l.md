@@ -468,7 +468,7 @@
 1. 【[览花嘴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_hua_jy_r.md#览花嘴<sub>儿</sub>)】`laen3 hua1 jy3 r` <sup>[如东]</sup> ① 形容嘴宽而大。 ② 比喻堤岸上出现豁口：海堤上出现吖一个～。  
 1. 【[览怀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_huae.md#览怀)】`laen3 huae2` <sup>[如东]</sup> 胸前的衣服张开来。  
 1. 【[滥笔头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_bieh_teu_zz.md#滥笔头子)】`laen6 bieh7 teu2 zz` <sup>[兴化]</sup> 喜欢写写画画的人：我是个～，看到、想到就写下来，自娱自乐。  
-1. 【[滥好人/烂好人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ho_ren.md#滥好人/烂好人)】`laen6 ho3 ren2` <small>/lɛ̃6 xɔ3 lən2/<sup>兴化</sup>, /lẽ1 xɔ3 ɻəŋ2/<sup>如皋</sup></small> ① 指乐于助人的人，贬指玲珑讨好的人。<sup>\[如皋\]</sup> ② 无原则地帮别人忙的人<sup>\[东台\]</sup>：好事要做，但要坚持原则，不能当～。<sup>\[东台\]</sup> ③ 指与人为善，乐于助人的人<sup>\[兴化\]</sup>：老吴是个～，有事找他一定背帮忙。<sup>\[兴化\]</sup> ④ 不讲原则的厚道人。<sup>\[泰州\]</sup>  
+1. 【[滥好人/烂好人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ho_ren.md#滥好人/烂好人)】`laen6 ho3 ren2` <small>/lɛ̃6 xɔ3 lən2/<sup>兴化</sup>, /lẽ1 xɔ3 ɻəŋ2/<sup>如皋</sup>, /lɛ̃1 xɔ3 ɻəŋ2/<sup>泰兴</sup></small> ① 指乐于助人的人，贬指玲珑讨好的人。<sup>\[如皋\]</sup> ② 无原则地帮别人忙的人<sup>\[东台\]</sup>：好事要做，但要坚持原则，不能当～。<sup>\[东台\]</sup> ③ 指与人为善，乐于助人的人<sup>\[兴化\]</sup>：老吴是个～，有事找他一定背帮忙。<sup>\[兴化\]</sup> ④ 不讲原则的厚道人。<sup>\[泰州\]</sup> ⑤ 老好人。<sup>\[泰兴\]</sup>  
 1. 【[滥货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_hu.md#滥货)】`laen6 hu5` <small>/lẽ1 xʊ5/<sup>如皋</sup>, /nɛ̃1 xo5/<sup>泰县</sup></small> ① 詈语，指下流女人。<sup>\[如皋\]</sup> ② 作风不正的女人。<sup>\[泰县\]</sup>  
 1. 【[滥义<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_i_r.md#滥义<sub>儿</sub>)】`laen6 i6 r` <sup>[如皋]</sup> 见“滥好人”。  
 1. 【[滥烟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_in.md#滥烟)】`laen6 in1` 吸烟没有节制的人<sup>\[泰州\]</sup>：他这个～一天要抽两包烟。<sup>\[泰州\]</sup>  
@@ -486,13 +486,14 @@
 1. 【[烂沰沰的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_dah_dah_dii.md#烂沰沰的)】`laen6 dah7 dah7 dii` <sup>[东台]</sup> 稀烂的样子：刚罱的河泥还～。  
 1. 【[烂饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_faen.md#烂饭)】`laen6 faen6` 煮得很软的米饭  
 1. 【[烂狗屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_geu_shr.md#烂狗屎)】`laen6 geu3 shr3` <sup>[如东]</sup> 比喻没有人喜欢，没有人需要：那是一堆～。  
-1. 【[烂货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_hu.md#烂货)】`laen6 hu5` <small>/lɛ̃6 xo5/<sup>兴化</sup></small> ① 比喻生活作风不正派的女人。<sup>\[如东\]</sup> ② 指乱搞两性关系的女人：“这丫头弄出恁样事来……原来也是个不成才的～……”（《醒世恒言》十六）<sup>\[兴化\]</sup> ③ 詈词，乱搞男女关系的人。<sup>\[泰州\]</sup>  
+1. 【[烂货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_hu.md#烂货)】`laen6 hu5` <small>/lɛ̃6 xo5/<sup>兴化</sup>, /lɛ̃1 xɤɯ5/<sup>泰兴</sup></small> ① 比喻生活作风不正派的女人。<sup>\[如东\]</sup> ② 指乱搞两性关系的女人：“这丫头弄出恁样事来……原来也是个不成才的～……”（《醒世恒言》十六）<sup>\[兴化\]</sup> ③ 詈词，乱搞男女关系的人。<sup>\[泰州\]</sup> ④ 指行放荡、作风不正的女人。<sup>\[泰兴\]</sup>  
 1. 【[烂姱子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_hv_zz.md#烂姱子)】`laen6 hv6 zz` <sup>[兴化]</sup> 指行为放荡的女人：她是个～，不要脸的。姱，《集韵·姥韵》后五切：性不端良谓之～。（声调不合）‖俗作“烂瓠子”。  
 1. 【[烂叽滑煞的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ji_vaeh_shaeh.md#烂叽滑煞的)】`laen6 ji1 vaeh8 shaeh7 dii` <sup>[如皋]</sup> 状较烂、较糊湿：搌布上总是～。  
 1. 【[烂鸡黄<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ji_van_r.md#烂鸡黄<sub>儿</sub>)】`laen6 ji1 van2 r` <sup>[如皋]</sup> 烂的鸡屎（含尿）。  
 1. 【[烂脚丫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_jiah_nga_r.md#烂脚丫<sub>儿</sub>)】`laen6 jiah7 nga1 r` <small>/lẽ1 t͡ɕiaʔ7 ŋa˞1/<sup>如皋</sup></small> ① 脚气。<sup>\[如东\]</sup> ② 脚气病，趾间皮烂流水，极痒。<sup>\[如皋\]</sup> ③ 鳢肠。<sup>\[如皋\]</sup>  
 1. 【[烂脚髈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_jiah_pan.md#烂脚髈)】`laen6 jiah7 pan3` <sup>[如东]</sup> 脚腿溃疡。  
 1. 【[烂烂泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_laen_ni.md#烂烂泥)】`laen6 laen6 ni2` <sup>[如皋]</sup> 含水多难成形的泥。  
+1. 【[烂麻绳扣住活鸽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ma_shen_keu.md#烂麻绳扣住活鸽子)】`laen6 ma2 shen2 keu5 chv uh8 guh7 zz` <small>/lɛ̃1 mɑ2 səŋ2 kʰəɪ5 t͡sʰu ʊʔ8 kʊʔ7 t͡sɿ/<sup>泰兴</sup></small> 喻在不能发挥自己特长的行业中做事，留也不自在，走又走不了。<sup>\[泰兴\]</sup>  
 1. 【[烂马子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ma_zz.md#烂马子)】`laen6 ma3 zz` <sup>[泰州]</sup> 讥讽喜欢长时间坐在马桶上的人。  
 1. 【[烂漠咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_mah_ga.md#烂漠咖)】`laen6 mah ga` <sup>[东台]</sup> 被人批评得太多，简直都被嫌烂了。  
 1. 【[烂眯搭眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_mi_daeh_ngaen.md#烂眯搭眼)】`laen6 mi1 daeh7 ngaen3` <sup>[东台]</sup> 不爽，让人看了恶心。  
@@ -505,6 +506,7 @@
 1. 【[烂眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ngaen_r.md#烂眼<sub>儿</sub>)】`laen6 ngaen3 r` <small>/lẽ1 ŋe˞3/<sup>如皋</sup></small> ① 眼睑周边发炎。<sup>\[如东\]</sup> ② 慢性眼睑粘膜炎。<sup>\[如皋\]</sup>  
 1. 【[烂眼<sub>儿</sub>搭孔的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ngaen_r_daeh.md#烂眼<sub>儿</sub>搭孔的)】`laen6 ngaen3 r daeh7 kon3 dii` <sup>[如皋]</sup> 烂而难耐的样子。  
 1. 【[烂眼子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ngaen_zz.md#烂眼子)】`laen6 ngaen3 zz` <sup>[东台]</sup> 除了指眼疾外，喻指软弱可欺，容易被人把什么缺陷、贵任都推到自己头上的那种人。  
+1. 【[烂泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ni.md#烂泥)】`laen6 ni` <small>/lɛ̃1 nʝ/<sup>泰兴</sup></small> 稀烂的泥土。<sup>\[泰兴\]</sup>  
 1. 【[烂泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ni.md#烂泥)】`laen6 ni2` <small>/lɛ̃6 ləi2/<sup>兴化</sup>, /lẽ1 nʝ2/<sup>如皋</sup></small> ① 潮湿的泥土 ② 泛指泥土 ③ 泥土。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup>：他不曾穿鞋子，脚上沾满吖～。<sup>\[兴化\]</sup> ④ 含水较多的厚糊状泥土<sup>\[泰州\]</sup>：落雨，走过来脚上全是～。<sup>\[泰州\]</sup> ⑤ 亦可以指较干燥的泥土<sup>\[泰州\]</sup>：弄点儿～家来，花盆要换土唻。<sup>\[泰州\]</sup>  
 1. 【[烂泥巴巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ni_ba_ba.md#烂泥巴巴)】`laen6 ni2 ba1 ba` <sup>[兴化]</sup> 半干的泥。  
 1. 【[烂泥堕堕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ni_du_du.md#烂泥堕堕)】`laen6 ni2 du5 du5` <sup>[泰州]</sup> 糊状的泥土坠落不停的样子，多指身体或者物体表面沾满泥的样子：你望你身上～的，弄点水把泥冲掉再家来。｜你卖的这个胡萝卜～的，你要是肯便宜点儿，我就称两斤。  
@@ -518,6 +520,7 @@
 1. 【[烂屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_shr.md#烂屎)】`laen6 shr3` <small>/lẽ1 sɿ3/<sup>如皋</sup>, /nɛ̃1 sɿ3/<sup>泰县</sup></small> ① 稀薄的大便。<sup>\[如东\]</sup> ② 比喻没有作用的人。<sup>\[如东\]</sup>：～无用。<sup>\[如东\]</sup> ③ 指大便不成形，但也不是水样大便，与“硬屎”相对。<sup>\[如皋\]</sup> ④ 没用的人：这个人是～。<sup>\[泰县\]</sup>  
 1. 【[烂屎无用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_shr_v_ion.md#烂屎无用)】`laen6 shr3 v2 ion6` <small>/lẽ1 sɿ3 ʋu2 iɔŋ1/<sup>如皋</sup></small> ① 比喻软弱，没有能力。<sup>\[如东\]</sup>：这个人～的。<sup>\[如东\]</sup> ② 毫无作用，毫无价值。<sup>\[如皋\]</sup> ③ 状人毫无能力。<sup>\[如皋\]</sup> ④ ［喻］指一点用处也没有。<sup>\[东台\]</sup>  
 1. 【[烂摊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_taen_zz.md#烂摊子)】`laen6 taen1 zz` <sup>[东台]</sup> ［喻］不可收拾的局面。  
+1. 【[烂摊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_taen_zz.md#烂摊子)】`laen6 taen1 zz` <small>/lɛ̃1 tʰɛ̃1 t͡sɿ/<sup>泰兴</sup></small> 凌乱破残的摊子。比喻难于收拾的混乱局面。<sup>\[泰兴\]</sup>  
 1. 【[烂桃子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_to_zz.md#烂桃子)】`laen6 to2 zz` <sup>[兴化]</sup> 形容作风靡烂的女人：她是个～，一搭就上。  
 1. 【[烂污](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_v.md#烂污)】`laen6 v` <sup>[兴化]</sup> ① 稀屎。 ② 品行恶劣的人：……后来见他～不堪，群相裹足。姚氏也就愈趋愈下……（《广陵潮》六九）也作“滥污”。  
 1. 【[烂污货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_v_hu.md#烂污货)】`laen6 v hu5` <sup>[泰州]</sup> 比喻生活作风不好、行为放荡的女人。  
@@ -1052,7 +1055,7 @@
 1. 【[凉月爹爹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_iuh_dia_dia.md#凉月爹爹)】`lian2 iuh8 dia1 dia` <sup>[兴化]</sup> 儿童语，月亮：～，照见家家。  
 1. 【[凉月<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_iuh_r.md#凉月<sub>儿</sub>)】`lian2 iuh8 r` <sup>[如东]</sup> 月亮。  
 1. 【[凉月心里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_iuh_xien_lii.md#凉月心里)】`lian2 iuh8 xien1 lii` <sup>[兴化]</sup> 月光照射到的地方。  
-1. 【[凉月子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_iuh_zz.md#凉月子)】`lian2 iuh8 zz` <small>/liã2 yʊʔ8 t͡sɿ/<sup>如皋</sup>, /niɑŋ2 yʊʔ8 t͡se/<sup>泰县</sup></small> ① 一种风筝。用竹篾扎成圆圈，糊纸，似月亮，中间横一根轴，两头插上芦苇花，系一线，即可放上天。<sup>\[如东\]</sup> ② 月亮。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup>  
+1. 【[凉月子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_iuh_zz.md#凉月子)】`lian2 iuh8 zz` <small>/liã2 yʊʔ8 t͡sɿ/<sup>如皋</sup>, /liɑŋ2 iʔ8 t͡sɿ/<sup>泰兴</sup>, /niɑŋ2 yʊʔ8 t͡se/<sup>泰县</sup></small> ① 一种风筝。用竹篾扎成圆圈，糊纸，似月亮，中间横一根轴，两头插上芦苇花，系一线，即可放上天。<sup>\[如东\]</sup> ② 月亮。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>  
 1. 【[凉月子底下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_iuh_zz_di.md#凉月子底下)】`lian2 iuh8 zz di3 ha` <sup>[如皋]</sup> 月光下。  
 1. 【[凉月子窠啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_iuh_zz_ku.md#凉月子窠啊)】`lian2 iuh8 zz ku1 a` <sup>[如皋]</sup> 月晕。  
 1. 【[凉月子心里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_iuh_zz_xien.md#凉月子心里)】`lian2 iuh8 zz xien1 lii` <sup>[如皋]</sup> 月光下。  
@@ -1096,19 +1099,22 @@
 1. 【[亮粑粑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_ba_ba.md#亮粑粑)】`lian6 ba1 ba1` <sup>[如皋]</sup> 月亮（儿语）。天上发光的饼。  
 1. 【[亮杯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_bei.md#亮杯)】`lian6 bei1` <sup>[如东]</sup> 助酒兴的一种方法。自己站起来，表示与客人一起把杯中酒喝干，叫做亮杯：请～。  
 1. 【[亮处](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_chv.md#亮处)】`lian6 chv` <sup>[如皋]</sup> ① 明亮的地方：他在暗处，你在～。 ② 比喻美好的地方：白鸽子拣～飞。  
+1. 【[亮光光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_guan_guan.md#亮光光)】`lian6 guan1 guan1` <small>/liɑŋ1 kuɑŋ1 kuɑŋ1/<sup>泰兴</sup></small> 形容物体表面非常光亮。<sup>\[泰兴\]</sup>  
 1. 【[亮曤曤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_huah_huah.md#亮曤曤)】`lian6 huah8 huah8` <sup>[泰州]</sup> 光芒闪烁的样子：这把刀才请人磨过的，～。｜家里换吖200支光的灯泡，照得～的。  
 1. 【[亮月<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_iuh_r.md#亮月<sub>儿</sub>)】`lian6 iuh8 r` 月亮  
 1. 【[亮脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_jiah.md#亮脚)】`lian6 jiah7` <sup>[兴化]</sup> 木工行话，即橱柜的腿：这对厨子式样蛮好，就是～嫌短，不登称。  
 1. 【[亮亮牛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_lian_ngeu_r.md#亮亮牛<sub>儿</sub>)】`lian6 lian6 ngeu2 r` <sup>[兴化]</sup> 天牛。一种有害昆虫。  
 1. 【[亮吖云脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_nga_yen_jiah.md#亮吖云脚)】`lian6 nga yen2 jiah7` <sup>[如皋]</sup> 下雨时远望，云层下方渐亮，表示雨渐小渐止。  
 1. 【[亮净](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_qien.md#亮净)】`lian6 qien` <sup>[如皋]</sup> 明亮而洁净。  
+1. 【[亮净](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_qien.md#亮净)】`lian6 qien` <small>/liɑŋ1 t͡ɕʰiŋ/<sup>泰兴</sup></small> 明亮而干净，使人感到舒适。<sup>\[泰兴\]</sup>  
 1. 【[亮堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_tan.md#亮堂)】`lian6 tan` <sup>[如东]</sup> 明亮。  
 1. 【[亮头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_teu.md#亮头)】`lian6 teu` <sup>[兴化]</sup> ① 发光：夏天早上四点多钟东边就有～啊。 ② 光泽：清漆～大。 ③ 衣物磨损起花：他的衣袖起啊～。  
 1. 【[亮头亮眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_teu_lian_ngaen.md#亮头亮眼)】`lian6 teu lian6 ngaen3` <sup>[兴化]</sup> 尚有天光的时候：你～的不抓紧，天黑咖熬灯费火的才着忙。  
 1. 【[亮头亮眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_teu_lian_ngaen.md#亮头亮眼)】`lian6 teu2 lian6 ngaen3` ① 光线比较明亮。<sup>\[如东\]</sup>：早早收工，～的。<sup>\[如东\]</sup> ② 太阳下山以后、天黑之前尚有光亮这段时间<sup>\[泰州\]</sup>：天还不曾黑，趁现在～的，早点把外栋晒的些东西收家去。<sup>\[泰州\]</sup>  
+1. 【[亮头亮眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_teu_lian_ngaen.md#亮头亮眼)】`lian6 teu2 lian6 ngaen3` <small>/liɑŋ1 tʰəɪ2 liɑŋ1 ŋɛ̃3/<sup>泰兴</sup></small> 十分明亮，光线很好。<sup>\[泰兴\]</sup>  
 1. 【[亮头亮眼的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_teu_lian_ngaen.md#亮头亮眼的)】`lian6 teu2 lian6 ngaen3 dii` <sup>[如皋]</sup> 白天，光线明亮，有抓紧、趁亮时做事，不要拖到夜晚的意思。  
 1. 【[亮相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_xian.md#亮相)】`lian6 xian5` <sup>[如东]</sup> 露出真面目。  
-1. 【[亮星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_xien.md#亮星)】`lian6 xien1` <small>/liã1 ɕiəŋ1/<sup>如皋</sup>, /niɑŋ1 ɕiŋ1/<sup>泰县</sup></small> ① 星光或者月光很亮的晚上 ② 阴历初八至二十三之间，月亮在空中，光线明亮，称亮星。<sup>\[如东\]</sup> ③ 天空没有云雾，星光闪烁，这种天气称亮星。<sup>\[如东\]</sup> ④ 有月的夜间。一般指阴历初八至二十三之间，即使乌云密布，天色也亮，不会一片漆黑。<sup>\[如皋\]</sup> ⑤ 明亮的夜晚。<sup>\[东台\]</sup> ⑥ 有月亮：今朝是～。<sup>\[泰县\]</sup> ⑦ 月光明亮的夜晚或星光很亮的夜晚<sup>\[泰州\]</sup>：趁这一刻儿～，你俫早点儿走吧。<sup>\[泰州\]</sup>  
+1. 【[亮星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_xien.md#亮星)】`lian6 xien1` <small>/liã1 ɕiəŋ1/<sup>如皋</sup>, /liɑŋ1 ɕiŋ1/<sup>泰兴</sup>, /niɑŋ1 ɕiŋ1/<sup>泰县</sup></small> ① 星光或者月光很亮的晚上 ② 阴历初八至二十三之间，月亮在空中，光线明亮，称亮星。<sup>\[如东\]</sup> ③ 天空没有云雾，星光闪烁，这种天气称亮星。<sup>\[如东\]</sup> ④ 有月的夜间。一般指阴历初八至二十三之间，即使乌云密布，天色也亮，不会一片漆黑。<sup>\[如皋\]</sup> ⑤ 明亮的夜晚。<sup>\[东台\]</sup> ⑥ 有月亮：今朝是～。<sup>\[泰县\]</sup> ⑦ 月光明亮的夜晚或星光很亮的夜晚<sup>\[泰州\]</sup>：趁这一刻儿～，你俫早点儿走吧。<sup>\[泰州\]</sup> ⑧ 皓月当空，不是伸手不见五指的黑夜。<sup>\[泰兴\]</sup>  
 1. 【[亮星夜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_xien_ia.md#亮星夜)】`lian6 xien1 ia6` <sup>[兴化]</sup> 有月光的夜晚：这种～里踏上几十里路车子没问题。  
 1. 【[谅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian.md#谅)】`lian6` <sup>[东台]</sup> 料想：～你也不敢来。  
 1. 【[谅想](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_xian.md#谅想)】`lian6 xian3` <sup>[兴化]</sup> 估摸：～他不敢动真的。  

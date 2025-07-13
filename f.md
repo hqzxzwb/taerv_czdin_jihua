@@ -796,11 +796,11 @@
 1. 【[封王](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_van.md#封王)】`fon1 van2` <sup>[如皋]</sup> 责语，指横行霸道：你这吖横七坚八的，你～吖啦！  
 1. 【[疯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon.md#疯)】`fon1` <small>/foŋ1/<sup>兴化</sup>, /fɔŋ1/<sup>如皋</sup>, /foŋ1/<sup>泰县</sup></small> ① 神经失去控制。<sup>\[如东\]</sup> ② 喜欢说笑或举止轻狂。<sup>\[如东\]</sup>：这个丫头～哎。<sup>\[如东\]</sup> ③ 常指小孩贪玩无节制<sup>\[如皋\]</sup>：晚上不能～，～吖夜里要漓尿！<sup>\[如皋\]</sup> ④ 爱说爱闹，举止欠庄重<sup>\[兴化\]</sup>：这个丫头就是爱～，一点不敦实。<sup>\[兴化\]</sup> ⑤ 幼儿大笑大闹<sup>\[兴化\]</sup>：别～吖，晚上～吖夜里来尿。<sup>\[兴化\]</sup> ⑥ 喜欢说笑打闹或举止轻狂<sup>\[泰县\]</sup>：这个丫头会～。<sup>\[泰县\]</sup>  
 1. 【[疯疯癫癫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_fon_din_din.md#疯疯癫癫)】`fon1 fon1 din1 din1` <sup>[如东]</sup> ① 精神失常的样子。 ② 形容言语行动十分轻狂。  
-1. 【[疯疯𧺕𧺕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_fon_shah_shah.md#疯疯𧺕𧺕)】`fon1 fon1 shah8 shah8` <small>/foŋ1 foŋ1 saʔ8 saʔ8/<sup>兴化</sup>, /foŋ1 foŋ1 sɑʔ8 sɑʔ8/<sup>泰县</sup></small> ① 举止轻狂超出常态<sup>\[兴化\]</sup>：她整天～的，叫人不放心。<sup>\[兴化\]</sup> ② 疯癫。<sup>\[泰县\]</sup> ③ 指女性尽情嬉闹而不稳重的样子。<sup>\[泰州\]</sup>  
+1. 【[疯疯𧺕𧺕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_fon_shah_shah.md#疯疯𧺕𧺕)】`fon1 fon1 shah8 shah8` <small>/foŋ1 foŋ1 saʔ8 saʔ8/<sup>兴化</sup>, /fɔŋ1 fɔŋ1 sɑʔ8 sɑʔ8/<sup>泰兴</sup>, /foŋ1 foŋ1 sɑʔ8 sɑʔ8/<sup>泰县</sup></small> ① 举止轻狂超出常态<sup>\[兴化\]</sup>：她整天～的，叫人不放心。<sup>\[兴化\]</sup> ② 疯癫。<sup>\[泰县\]</sup> ③ 指女性尽情嬉闹而不稳重的样子。<sup>\[泰州\]</sup> ④ 行为举止不同于常人，有病癲之态。贬语。<sup>\[泰兴\]</sup>  
 1. 【[疯疯𧺕𧺕的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_fon_shah_shah.md#疯疯𧺕𧺕的)】`fon1 fon1 shah8 shah8 dii` <sup>[如皋]</sup> ① 举止轻度失常，精神病态。 ② 责语，指不端庄、不稳重，轻浮状。  
 1. 【[疯狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_geu.md#疯狗)】`fon1 geu3` <sup>[如东]</sup> 患狂犬病的狗。比喻随便乱说别人坏话的人：他像～样的，乱咬人。  
 1. 【[疯狗病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_geu_pien.md#疯狗病)】`fon1 geu3 pien6` <sup>[如皋]</sup> 狂犬病。  
-1. 【[疯话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_hua.md#疯话)】`fon1 hua6` <small>/fɔŋ1 xua1/<sup>如皋</sup></small> ① 不正常的奇怪的话。<sup>\[如皋\]</sup> ② 神经错乱、精神失常的人说的话，狂妄或者不合常理的话<sup>\[泰州\]</sup>：他说的这些～，你俫都不要睬他。<sup>\[泰州\]</sup>  
+1. 【[疯话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_hua.md#疯话)】`fon1 hua6` <small>/fɔŋ1 xua1/<sup>如皋</sup>, /fɔŋ1 xuɑ1/<sup>泰兴</sup></small> ① 不正常的奇怪的话。<sup>\[如皋\]</sup> ② 神经错乱、精神失常的人说的话，狂妄或者不合常理的话<sup>\[泰州\]</sup>：他说的这些～，你俫都不要睬他。<sup>\[泰州\]</sup> ③ 颠三倒四的话；不合常理的话。<sup>\[泰兴\]</sup>  
 1. 【[疯里𧺕痴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_lii_shah_chr.md#疯里𧺕痴)】`fon1 lii shah chr1` <sup>[泰县]</sup> 不稳重：他～。  
 1. 【[疯里𧺕兮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_lii_shah_xi.md#疯里𧺕兮)】`fon1 lii shah8 xi1` <sup>[东台]</sup> 神经失常、以疯作邪的样子，形容人言语行动轻狂或超出常态。又作“疯里𧺕气”。  
 1. 【[疯蚂蚁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_ma_i.md#疯蚂蚁)】`fon1 ma3 i3` <sup>[泰州]</sup> 一种个体较大有翅膀、蜇人的蚂蚁。  
@@ -814,9 +814,11 @@
 1. 【[疯情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_qien.md#疯情)】`fon1 qien2` <sup>[如皋]</sup> 母畜发情时狂燥不安的样子。  
 1. 【[疯事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_shr.md#疯事)】`fon1 shr6` <sup>[如皋]</sup> 见“疯”。指小孩贪玩无节制。  
 1. 【[疯痰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_taen.md#疯痰)】`fon1 taen2` <sup>[兴化]</sup> 精神失常：他两眼失神，嘴里叽叽咕咕的乱说，像是得咖～。｜……凡是～，心窍塞住了，两个眼睛就没神了……（扬二《古城会》）  
-1. 【[疯天𧺕地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_tin_shah_ti.md#疯天𧺕地)】`fon1 tin1 shah8 ti6` <sup>[如皋]</sup> 责语，指举止轻浮、不稳重。  
+1. 【[疯天𧺕地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_tin_shah_ti.md#疯天𧺕地)】`fon1 tin1 shah8 ti6` <small>/fɔŋ1 tʰĩ1 saʔ8 tʰʝ1/<sup>如皋</sup>, /fɔŋ1 tʰĩ1 sɑʔ8 t͡ɕʰʝ1/<sup>泰兴</sup></small> ① 责语，指举止轻浮、不稳重。<sup>\[如皋\]</sup> ② 行为疯癫<sup>\[泰兴\]</sup>  
 1. 【[疯嬉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_xi.md#疯嬉)】`fon1 xi1` <sup>[泰州]</sup> 儿童不受管束或者无节制地尽情嬉闹：你～噢，夜里伺候啊画龙嗷。｜他放吖学就在外头～，不到吃夜饭不家来。  
 1. 【[疯长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_zhan.md#疯长)】`fon1 zhan3` <sup>[如东]</sup> 不正常的极度生长：玉米～。  
+1. 【[疯长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_zhan.md#疯长)】`fon1 zhan3` <small>/fɔŋ1 t͡sɑŋ3/<sup>泰兴</sup></small> 农作物茎叶发育过旺，不结果实。<sup>\[泰兴\]</sup>  
+1. 【[疯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_zz.md#疯子)】`fon1 zz` <small>/fɔŋ1 t͡sɿ/<sup>泰兴</sup></small> 患有严重精神病的人。借指行为异常的人。<sup>\[泰兴\]</sup>  
 1. 【[蜂蚂蚁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_ma_i.md#蜂蚂蚁)】`fon1 ma3 i3` <sup>[如皋]</sup> 田间常见的一种大黑蚂蚁，体长约8mm，有的有翅。膜翅目。“蜂蚂蝆（mi3）”。  
 1. 【[蜂吖𦞈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_nga_heu.md#蜂吖𦞈)】`fon1 nga heu2` <sup>[泰州]</sup> 脸部水肿导致眼睛难以睁开的样子：他脸上害啊个疖子，肿吖～。  
 1. 【[蜂<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_r.md#蜂<sub>儿</sub>)】`fon1 r` <sup>[泰县]</sup> 蜜蜂。  
@@ -867,7 +869,7 @@
 1. 【[风俗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_soh.md#风俗)】`fon1 soh` <small>/fɔŋ1 sɔʔ/<sup>泰兴</sup></small> 相沿积久而成的风气、习俗。<sup>\[泰兴\]</sup>：对你佼箇许的～，我只略知一二。<sup>\[泰兴\]</sup>  
 1. 【[风丝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_sz_r.md#风丝<sub>儿</sub>)】`fon1 sz1 r` <sup>[如皋]</sup> 极细微的风。  
 1. 【[风丝丝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_sz_sz.md#风丝丝)】`fon1 sz1 sz1` <sup>[兴化]</sup> 形容微风吹拂：头发捱～吹乱吖。  
-1. 【[风瘫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_taen.md#风瘫)】`fon1 taen` <small>/fɔŋ1 tʰɛ̃/<sup>泰兴</sup></small> 中风瘫痪。常用作骂人语。<sup>\[泰兴\]</sup>  
+1. 【[风瘫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_taen.md#风瘫)】`fon1 taen` <small>/fɔŋ1 tʰɛ̃/<sup>泰兴</sup></small> 瘫痪。常用作骂人语。<sup>\[泰兴\]</sup>  
 1. 【[风痰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_taen.md#风痰)】`fon1 taen2` <sup>[如皋]</sup> 一种精神病。  
 1. 【[风头里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_teu_lii.md#风头里)】`fon1 teu lii` <sup>[如东]</sup> 大风的中心地带：他站吖～。  
 1. 【[风头上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_teu_shan.md#风头上)】`fon1 teu shan` <sup>[如东]</sup> 大风刚到达的地带：他正好在～。  

@@ -1063,6 +1063,7 @@
 1. 【[休想](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_xian.md#休想)】`xieu1 xian3` <sup>[如东]</sup> ① 不要想：这种空头计划～成功。 ② 不可能：你要一个人去北京，～。  
 1. 【[修](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu.md#修)】`xieu1` <small>/ɕiɤɯ1/<sup>泰兴</sup></small> 修行，常用于：修行（而得到）<sup>\[泰兴\]</sup>：她是前世里～到的<sup>\[泰兴\]</sup>  
 1. 【[修锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_gu.md#修锅)】`xieu1 gu1` <sup>[如皋]</sup> 修补铸铁锅。  
+1. 【[修锅锔碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_gu_jioh_un.md#修锅锔碗)】`xieu1 gu1 jioh7 un3` <small>/ɕiɤɯ1 kɤɯ1 t͡ɕiɔʔ7 ʊ̃3/<sup>泰兴</sup></small> 修理损坏的锅碗。<sup>\[泰兴\]</sup>  
 1. 【[修锅匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_gu_qian.md#修锅匠)】`xieu1 gu1 qian6` <small>/ɕyʊ1 kʊ1 t͡ɕʰiã1/<sup>如皋</sup>, /ɕiɤɯ1 kɤɯ1 t͡ɕʰiɑŋ1/<sup>泰兴</sup></small> 专门修锅、碗的工匠。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
 1. 【[修好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_ho.md#修好)】`xieu1 ho3` <sup>[兴化]</sup> 见“修善”。  
 1. 【[修脚刀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_jiah_do_r.md#修脚刀<sub>儿</sub>)】`xieu1 jiah7 do1 r` <sup>[如皋]</sup> 俗云：“～，慢慢儿𠛵。”喻用慢功夫对付，或指这种人。  

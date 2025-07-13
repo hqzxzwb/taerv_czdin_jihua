@@ -769,8 +769,8 @@
 1. 【[后梢翘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_sho_qio.md#后梢翘)】`heu6 sho1 qio5` <small>/xəɪ1 sɔ1 t͡ɕʰiɔ5/<sup>泰兴</sup></small> 俗以最后取得令人满意的成果、成效者为“后梢翘”。<sup>\[泰兴\]</sup>  
 1. 【[后事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_shr.md#后事)】`heu6 shr6` <sup>[东台]</sup> 丧事及死者的遗留问题。  
 1. 【[后头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_teu.md#后头)】`heu6 teu` <small>/xɤ6 tʰɤ/<sup>兴化</sup>, /xei1 tʰei/<sup>如皋</sup></small> ① 之后，以后，后面 ② 后面。与前相对。<sup>\[如皋\]</sup> ③ 与“朝南”“向阳”相对。<sup>\[如皋\]</sup> ④ 后来<sup>\[兴化\]</sup>：“妈妈，正为～日子短了，因此烦恼……”（《醒世恒言》二十）<sup>\[兴化\]</sup> ⑤ 后面<sup>\[泰州\]</sup>：你稍微慢点儿开，等啊子～的车子。<sup>\[泰州\]</sup>  
-1. 【[后头家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_teu_ga.md#后头家)】`heu6 teu ga1` <small>/xəɪ1 tʰəɪ kɑ1/<sup>泰兴</sup></small> 正房后面的房子，或前后两进的后一进房子。<sup>\[泰兴\]</sup>  
 1. 【[后头家里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_teu_ga_lii.md#后头家里)】`heu6 teu ga1 lii` <sup>[如皋]</sup> ① 后面的房屋里。 ② 后面住的那一家。  
+1. 【[后头家里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_teu_ga_lii.md#后头家里)】`heu6 teu ga1 lii` <small>/xəɪ1 tʰəɪ kɑ1 ləɪ/<sup>泰兴</sup></small> 正房后面的房子，或前后两进的后一进房子。<sup>\[泰兴\]</sup>  
 1. 【[后天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_tin.md#后天)】`heu6 tin1` <sup>[如东]</sup> 往后第三天。后朝。  
 1. 【[后添汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_tin_tan.md#后添汤)】`heu6 tin1 tan1` <small>/xɤ6 tʰiɪ̃1 tʰaŋ1/<sup>兴化</sup></small> ① 后续援助（主要指来自家庭的）。<sup>\[东台\]</sup> ② 做菜、煮汤圆或面条时，后加的汤（热水）。<sup>\[兴化\]</sup> ③ （借）后加的或外加的<sup>\[兴化\]</sup>：这次到黄山旅游，原计划十个人，～又来啊两个。<sup>\[兴化\]</sup>  
 1. 【[后通](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_ton.md#后通)】`heu6 ton` <sup>[东台]</sup> 后头。  
@@ -1340,6 +1340,7 @@
 1. 【[花担子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_daen_zz.md#花担子)】`hua1 daen5 zz` <small>/xua1 tɛ̃5 t͡sɿ/<sup>兴化</sup>, /xuɑ1 tɛ̃5 t͡sɿ/<sup>泰兴</sup></small> ① 迎神赛会中的一个行当，由盛装少女用极软的扁担，挑着鲜花装饰的担子，一步一颤，三进一退，按节拍做出各种动作。<sup>\[兴化\]</sup> ② 文娱表演的一种形式。一漂亮的少女挑着装满花束的担子边唱边走，宣传时新内容。<sup>\[泰兴\]</sup>  
 1. 【[花虴蛨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_deh_moh.md#花虴蛨)】`hua1 deh7 moh` <sup>[如皋]</sup> 花胫绿纹蝗。直翅目。  
 1. 【[花费](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_fei.md#花费)】`hua1 fei5` <small>/xuɑ1 fəɪ5/<sup>泰兴</sup></small> 消耗，支用。<sup>\[泰兴\]</sup>  
+1. 【[花疯心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_fon_xien.md#花疯心)】`hua1 fon1 xien1` <small>/xuɑ1 fɔŋ1 ɕiŋ1/<sup>泰兴</sup></small> 被外界的事迷住了，难以收回神来。\[泰兴：《泰兴方言辞典》作“疯花心”\]：耍子啊花疯吖心<sup>\[泰兴\]</sup>  
 1. 【[花钩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_geu.md#花钩)】`hua1 geu1` <sup>[如东]</sup> 农具。铁制，前端呈弓形，后边有横把手，用来拔棉花秸。  
 1. 【[花鼓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_gv_r.md#花鼓<sub>儿</sub>)】`hua1 gv3 r` <sup>[兴化]</sup> ① 一种鼓形的瓷质容器，有盖。 ② 一种结构简单的风筝，长六角形，上下两边略短，中间突出。  
 1. 【[花蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_hae.md#花蟹)】`hua1 hae3` 花蟹，一种小海蟹。  
