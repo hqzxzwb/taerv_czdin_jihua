@@ -85,8 +85,7 @@
 1. 【[哪把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ba.md#哪把)】`la3 ba3` <sup>[兴化]</sup> 费力、费时：这吖多的菜～一吃吤！｜这吖多的东西～一搬㖸！  
 1. 【[哪百年的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_boh_nin_dii.md#哪百年的)】`la3 boh7 nin2 dii` <sup>[泰州]</sup> ① 意谓过时：先结婚，后养伢儿，你说的这是～话，现在带啊身上去领结婚证的吓煞人唻！ ② 意谓“无可查考”：我也不晓得同他是～亲，我家老的都不曾听说过。  
 1. 【[哪百年上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_boh_nin_shan.md#哪百年上)】`la3 boh7 nin2 shan` <sup>[如皋]</sup> 年代久远。  
-1. 【[哪百年子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_boh_nin_zz.md#哪百年子)】`la3 boh7 nin2 zz` <sup>[东台]</sup> 对时间太久的夸张说法：那是～的事，哪个记得？  
-1. 【[哪百年子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_boh_nin_zz.md#哪百年子)】`la3 boh7 nin2 zz` <small>/lɑ3 pɔʔ7 nĩ2 t͡sɿ/<sup>泰兴</sup></small> 极言久前，或极言永远不能实现<sup>\[泰兴\]</sup>：他说的不晓得是～的事<sup>\[泰兴\]</sup>｜到～才轮到我哦<sup>\[泰兴\]</sup>  
+1. 【[哪百年子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_boh_nin_zz.md#哪百年子)】`la3 boh7 nin2 zz` <small>/lɑ3 pɔʔ7 nĩ2 t͡sɿ/<sup>泰兴</sup></small> ① 对时间太久的夸张说法<sup>\[东台\]</sup>：那是～的事，哪个记得？<sup>\[东台\]</sup> ② 极言久前，或极言永远不能实现<sup>\[泰兴\]</sup>：他说的不晓得是～的事<sup>\[泰兴\]</sup>｜到～才轮到我哦<sup>\[泰兴\]</sup>  
 1. 【[哪对过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_duei_gu.md#哪对过)】`la3 duei5 gu5` <sup>[如东]</sup> ① 什么地方：东西放吖～？ ② 什么地方的对面。  
 1. 【[哪家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ga.md#哪家)】`la3 ga` <sup>[兴化]</sup> 问谁人、谁家：这是～的规矩？｜这是～的小大爷？  
 1. 【[哪家的伢<sub>儿</sub>哪家抱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ga_dii_nga.md#哪家的伢<sub>儿</sub>哪家抱)】`la3 ga dii nga2 r la3 ga po6` <small>/lɑ3 kɑ təɪ ŋɑ˞2 lɑ3 kɑ pʰɔ1/<sup>泰兴</sup></small> 喻各人、各家的事自己办好，各人自扫门前雪。<sup>\[泰兴\]</sup>  

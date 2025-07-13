@@ -357,8 +357,7 @@
 1. 【[缸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_r.md#缸<sub>儿</sub>)】`gan1 r` <sup>[兴化]</sup> 喝茶或盛东西用的器物，圆筒形。也称“缸子”：茶～；糖～；玻璃～；瓷～  
 1. 【[缸炭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_taen.md#缸炭)】`gan1 taen5` <sup>[如皋]</sup> 窑制木炭。常以缸或油纸篓儿装运，故名。  
 1. 【[缸瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_va.md#缸瓦)】`gan1 va3` <sup>[东台]</sup> 用砂子、陶土等混合而烧成的瓦，也指陶器的碎片：大炼钢铁时有人用～炼钢，荒唐！  
-1. 【[缸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_zz.md#缸子)】`gan1 zz` <sup>[东台]</sup> 喝水或盛东西用的器皿。  
-1. 【[缸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_zz.md#缸子)】`gan1 zz` <small>/kɑŋ1 t͡sɿ/<sup>泰兴</sup></small> 大茶杯，茶缸。<sup>\[泰兴\]</sup>  
+1. 【[缸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_zz.md#缸子)】`gan1 zz` <small>/kɑŋ1 t͡sɿ/<sup>泰兴</sup></small> ① 喝水或盛东西用的器皿。<sup>\[东台\]</sup> ② 大茶杯，茶缸。<sup>\[泰兴\]</sup>  
 1. 【[豇豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_teu.md#豇豆)】`gan1 teu6` 豇豆。常见蔬菜。  
 1. 【[豇豆角<sub>儿</sub>下面——清汤清水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_teu_gah_r.md#豇豆角<sub>儿</sub>下面——清汤清水)】`gan1 teu6 gah7 r xia6 min6 qien1 tan1 qien1 shuei3` <sup>[东台]</sup>   
 1. 【[钢尺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_cheh.md#钢尺)】`gan1 cheh7` <sup>[如东]</sup> 度量工具。金属制成，有直尺、角尺、圈尺、卡尺等多种。  
@@ -368,8 +367,7 @@
 1. 【[钢精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_jien.md#钢精)】`gan1 jien1` <sup>[如东]</sup> 制造日用器皿的铝材。也叫钢种。  
 1. 【[钢精锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_jien_gu.md#钢精锅)】`gan1 jien1 gu1` ① 以钢精为原料制成的锅，轻，不生锈。也叫钢种锅。<sup>\[如东\]</sup> ② 指用铝制造的锅子，民间常称为“钢甑锅”或“钢种锅”。<sup>\[东台\]</sup>  
 1. 【[钢口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_keu.md#钢口)】`gan1 keu` <sup>[东台]</sup> 指刀、剑等刃部的质量：这把薄刀～不错。  
-1. 【[钢丝车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_sz_cha.md#钢丝车)】`gan1 sz1 cha1` <sup>[如皋]</sup> 自行车的旧称。  
-1. 【[钢丝车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_sz_cha.md#钢丝车)】`gan1 sz1 cha1` <small>/kɑŋ1 sɿ1 t͡sʰɑ1/<sup>泰兴</sup></small> 自行车<sup>\[泰兴\]</sup>  
+1. 【[钢丝车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_sz_cha.md#钢丝车)】`gan1 sz1 cha1` <small>/kã1 sɿ1 t͡sʰa1/<sup>如皋</sup>, /kɑŋ1 sɿ1 t͡sʰɑ1/<sup>泰兴</sup></small> 自行车<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
 1. 【[钢丝车<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_sz_cha_r.md#钢丝车<sub>儿</sub>)】`gan1 sz1 cha1 r` <small>/kɑŋ1 sɿ1 t͡sʰa1 ɚ/<sup>泰县</sup></small> ① 自行车的旧称。<sup>\[东台\]</sup> ② 自行车。<sup>\[泰县\]</sup>  
 1. 【[钢丝车子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_sz_cha_zz.md#钢丝车子)】`gan1 sz1 cha1 zz` <sup>[兴化]</sup> 自行车。  
 1. 【[钢盅锅子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_zhon_gu_zz.md#钢盅锅子)】`gan1 zhon gu1 zz` <small>/kɑŋ1 t͡sɔŋ kɤɯ1 t͡sɿ/<sup>泰兴</sup></small> 铝锅。<sup>\[泰兴\]</sup>  
@@ -1606,8 +1604,7 @@
 1. 【[骨盆肩角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_pen_jin_gah.md#骨盆肩角)】`gueh7 pen2 jin1 gah` <sup>[如皋]</sup> 下腰部的骨角。  
 1. 【[骨桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_qio.md#骨桥)】`gueh7 qio2` <sup>[东台]</sup> ［喻］指未协调好的环节：婆媳两个不愉快，恐怕里面有～。  
 1. 【[骨窍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_qio.md#骨窍)】`gueh7 qio5` <sup>[泰县]</sup> 诀窍：开汽车有甚的～？  
-1. 【[骨殖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_sheh.md#骨殖)】`gueh7 sheh` <sup>[如皋]</sup> 贬指事物（如皋词典写“骨什”）：这是甚的～咖！  
-1. 【[骨殖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_sheh.md#骨殖)】`gueh7 sheh` <small>/kuəʔ7 səʔ/<sup>泰兴</sup></small> 棺材中死人的骨头。借称很不好的东西。<sup>\[泰兴\]</sup>：箇个～杲昃没得用场<sup>\[泰兴\]</sup>  
+1. 【[骨殖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_sheh.md#骨殖)】`gueh7 sheh` <small>/kuəʔ7 səʔ/<sup>如皋</sup>, /kuəʔ7 səʔ/<sup>泰兴</sup></small> 贬指事物<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：这是甚的～咖！<sup>\[如皋\]</sup>｜箇个～杲昃没得用场<sup>\[泰兴\]</sup>  
 1. 【[骨殖头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_sheh_teu_zz.md#骨殖头子)】`gueh7 sheh teu2 zz` <sup>[如皋]</sup> 见“骨殖”。  
 1. 【[骨头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_teu.md#骨头)】`gueh7 teu` <small>/kuəʔ7 tʰɤ/<sup>兴化</sup>, /kuəʔ7 tʰei/<sup>如皋</sup></small> ① 人和脊椎动物体内支持身体、保护内脏的坚硬组织，主要成分是碳酸钙和磷酸钙。根据形状不同，分长骨、短骨、扁骨等。<sup>\[如东\]</sup> ② 喻话中带刺<sup>\[如皋\]</sup>：他的话中带～。<sup>\[如皋\]</sup> ③ 这里不是生物名词，而是带有否定色彩的口头禅。<sup>\[东台\]</sup> ④ 根本不是，根本没有<sup>\[东台\]</sup>：人家说他赚吖几万块。他说：“～！”（意思是根本没有。）<sup>\[东台\]</sup> ⑤ 讨厌物的附加词<sup>\[东台\]</sup>：麦子好收，但～稭儿没处去。<sup>\[东台\]</sup> ⑥ （喻）话里含有不满情绪和讽刺意味<sup>\[兴化\]</sup>：～话少说<sup>\[兴化\]</sup>｜你话里有～。<sup>\[兴化\]</sup>  
 1. 【[骨头打鼓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_teu_da_gv.md#骨头打鼓)】`gueh7 teu da3 gv3` <small>/kuəʔ7 tʰɤ ta3 ku3/<sup>兴化</sup>, /kuəʔ7 tʰəɪ tɑ3 ku3/<sup>泰兴</sup></small> ① 人已死了很久，骨头都可以拿出来敲鼓了。比喻早已过时。<sup>\[如东\]</sup>：～啊，还说他甚的。<sup>\[如东\]</sup> ② 指人死去多时<sup>\[兴化\]</sup>：我父母早就～，你不必拿他俫上话。<sup>\[兴化\]</sup> ③ 用骨头来敲鼓。谓人死去时间已经很长了。<sup>\[泰兴\]</sup>  
@@ -1622,11 +1619,9 @@
 1. 【[骨头骨髓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_teu_gueh_xyen.md#骨头骨髓<sub>儿</sub>)】`gueh7 teu2 gueh7 xyen3 r` <sup>[东台]</sup> ① 指浑身每一处（由里向外）：瘾君子犯毒瘾的时候，～总疼。 ② ［引］所有财产、宝贝：他临走时恨不得把～都带走。  
 1. 【[骨血](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_xiuh.md#骨血)】`gueh7 xiuh7` <sup>[东台]</sup> 指子女等后代：亲～。  
 1. 【[骨榫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_xyen.md#骨榫)】`gueh7 xyen3` <sup>[兴化]</sup> 关节、骨头的连接处｜也作“骨节骨榫”：他狠狠一拳，把对方左肩的～打脱咖。｜逢阴天身上～的疼。  
-1. 【[骨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_zz.md#骨子)】`gueh7 zz` <sup>[兴化]</sup> ① 身板：他老虽老，～还可以！ ② 骨气：做人一点儿～没得，活咖下有甚的意思？ ③ 熬糖熬到扯得起丝，谓熬出～来。 ④ 袼褙：鞋～。  
-1. 【[骨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_zz.md#骨子)】`gueh7 zz` <small>/kuəʔ7 t͡sɿ/<sup>泰兴</sup></small> 比喻实质或内在的东西。<sup>\[泰兴\]</sup>：～里头不是箇样子的<sup>\[泰兴\]</sup>  
+1. 【[骨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_zz.md#骨子)】`gueh7 zz` <small>/kuəʔ7 t͡sɿ/<sup>兴化</sup>, /kuəʔ7 t͡sɿ/<sup>泰兴</sup></small> ① 身板<sup>\[兴化\]</sup>：他老虽老，～还可以！<sup>\[兴化\]</sup> ② 骨气<sup>\[兴化\]</sup>：做人一点儿～没得，活咖下有甚的意思？<sup>\[兴化\]</sup> ③ 熬糖熬到扯得起丝，谓熬出～来。<sup>\[兴化\]</sup> ④ 袼褙<sup>\[兴化\]</sup>：鞋～。<sup>\[兴化\]</sup> ⑤ 比喻实质或内在的东西。<sup>\[泰兴\]</sup>：～里头不是箇样子的<sup>\[泰兴\]</sup>  
 1. 【[骨子里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_zz_li.md#骨子里)】`gueh7 zz li3` <sup>[泰州]</sup> 实质上，本质上：不要望她平常不大开口，其实～是个有主见的人。｜这小伙表面上蛮老实的，～就数他最鬼坏。  
-1. 【[骨子里头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_zz_li_teu.md#骨子里头)】`gueh7 zz li3 teu` <sup>[如东]</sup> ① 根子里头：～不好。 ② 实际上：～不是箇吖。  
-1. 【[骨子里头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_zz_li_teu.md#骨子里头)】`gueh7 zz li3 teu` <small>/kuəʔ7 t͡sɿ lʝ3 tʰəɪ/<sup>泰兴</sup></small> 实质上。<sup>\[泰兴\]</sup>  
+1. 【[骨子里头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_zz_li_teu.md#骨子里头)】`gueh7 zz li3 teu` <small>/kuəʔ7 t͡sɿ lʝ3 tʰəɪ/<sup>泰兴</sup></small> ① 根子里头。<sup>\[如东\]</sup>：～不好。<sup>\[如东\]</sup> ② 实际上。<sup>\[如东\]</sup>：～不是箇吖。<sup>\[如东\]</sup> ③ 实质上。<sup>\[泰兴\]</sup>  
 1. 【[骨子里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_zz_lii.md#骨子里)】`gueh7 zz lii` <small>/kuəʔ7 t͡sɿ ləi/<sup>兴化</sup></small> ① ［喻］内心或实质上<sup>\[东台\]</sup>：她表面上不动声色，～已经默许这门亲事啊。<sup>\[东台\]</sup> ② （喻）内心和实质上<sup>\[兴化\]</sup>：他表面做好人，～心狠手辣。<sup>\[兴化\]</sup>｜精明强干同尖酸刻薄，外表看差不多，～是截然不同的。<sup>\[兴化\]</sup> ③ 私下、暗中<sup>\[兴化\]</sup>：他俫～的事哪个总不清爽。‖也作“骨里”。<sup>\[兴化\]</sup>  
 1. 【[归着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_zhah.md#归着)】`guei zhah7` <sup>[泰州]</sup> ① 归宿，人的最终着落之处：你老在外头漂来漂去不是个事，还是家来找份收入稳定的工作，成个家，将来老啊也有个～。 ② 物体的固定存放之处：你把身份证随手乱丢，没得个～，等到要用的时候找不到就怪人。  
 1. 【[归家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_ga.md#归家)】`guei1 ga1` <small>/kuəɪ1 kɑ1/<sup>泰兴</sup></small> 返回家中<sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：他走早上出来，到现在还不曾～。<sup>\[泰州\]</sup>｜箇个伢儿天天耍子啊不～。<sup>\[泰兴\]</sup>  
@@ -1668,8 +1663,7 @@
 1. 【[……鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei.md#……鬼)】`guei3` <sup>[东台]</sup> 用在句末表示对前面内容的否定：好个～（不好）｜睬你个～（不理睬你）。  
 1. 【[鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei.md#鬼)】`guei3` <small>/kuəi3/<sup>兴化</sup>, /kuei3/<sup>如皋</sup>, /kuəɪ3/<sup>泰兴</sup></small> ① 人死后的灵魂。<sup>\[如东\]</sup> ② 狡猾。<sup>\[如东\]</sup><sup>\[如皋\]</sup>：这个人～啊交关。<sup>\[如东\]</sup>｜他～得交关，你不要想瞒得过他！<sup>\[如皋\]</sup> ③ 狡猾、不光明<sup>\[兴化\]</sup>：这个家伙行事～得很，害怕见人。<sup>\[兴化\]</sup>｜好事不瞒人，你又做甚的～事啊？<sup>\[兴化\]</sup> ④ 吝啬，不大方<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：他～啊死啊，一钱如命！<sup>\[如皋\]</sup>｜她～得凶哎！结婚连个喜糖也舍不得分。<sup>\[兴化\]</sup>｜箇个人～煞咖lei<sup>\[泰兴\]</sup> ⑤ 对人的蔑称，指人心术不正<sup>\[泰兴\]</sup>：那个～没得什的了不起。<sup>\[泰兴\]</sup>  
 1. 【[鬼巴啬眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_ba_seh_ngaen.md#鬼巴啬眼)】`guei3 ba seh7 ngaen3` <sup>[兴化]</sup> 吝啬、出手太小：这个人做事～的，请八个客，一共捧出三样菜。  
-1. 【[鬼把戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_ba_xi.md#鬼把戏)】`guei3 ba3 xi5` <sup>[泰州]</sup> 比喻阴险手段或者捉弄人的诡计：你这点儿～捱人识破啊就不值钱唻。  
-1. 【[鬼把戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_ba_xi.md#鬼把戏)】`guei3 ba3 xi5` <small>/kuəɪ3 pɑ3 ɕʝ5/<sup>泰兴</sup></small> 阴险的手段，伎俩；暗中捉弄人的手段。<sup>\[泰兴\]</sup>  
+1. 【[鬼把戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_ba_xi.md#鬼把戏)】`guei3 ba3 xi5` <small>/kuəɪ3 pɑ3 ɕʝ5/<sup>泰兴</sup></small> ① 比喻阴险手段或者捉弄人的诡计<sup>\[泰州\]</sup>：你这点儿～捱人识破啊就不值钱唻。<sup>\[泰州\]</sup> ② 阴险的手段，伎俩；暗中捉弄人的手段。<sup>\[泰兴\]</sup>  
 1. 【[鬼不搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_beh_daeh.md#鬼不搭)】`guei3 beh7 daeh7` <sup>[泰州]</sup> 连鬼也不愿意搭理，比喻人缘极差的人：这丫头是个～，没得一个人同她啰唆。  
 1. 【[鬼笔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_bieh.md#鬼笔)】`guei3 bieh7` <sup>[如东]</sup> 鬼笔科植物细皱鬼笔。  
 1. 【[鬼吵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_cho.md#鬼吵)】`guei3 cho3` <sup>[泰州]</sup> 詈语，骂人大声吵闹：这两个人着实犯对，稍微有不对就～唻。  
@@ -1698,13 +1692,11 @@
 1. 【[鬼花头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_hua_teu.md#鬼花头)】`guei3 hua1 teu2` ① 不光明正大的计谋。<sup>\[东台\]</sup> ② 阴险手段或者暗中捉弄人的诡计<sup>\[泰州\]</sup>：只要望他脸上笑嘻嘻的，肯定就有～。<sup>\[泰州\]</sup>  
 1. 【[鬼画符](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_hua_fv.md#鬼画符)】`guei3 hua6 fv2` ① 写字潦草，难以辨认。<sup>\[东台\]</sup> ② ［喻］办事毛糙，质量差。<sup>\[东台\]</sup> ③ 乱画，瞎画。又音guei3 hua6 hv2。<sup>\[如东\]</sup>：他根本不会写字，他在下～。<sup>\[如东\]</sup> ④ 比喻写字潦草拙劣<sup>\[泰州\]</sup>：他心不通吖这高头，就是写字也是～。<sup>\[泰州\]</sup>  
 1. 【[鬼画三符](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_hua_saen_fv.md#鬼画三符)】`guei3 hua6 saen1 fv2` <sup>[泰县]</sup> 变换手法骗人的意思：你覅听他～的。  
-1. 【[鬼话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_hua.md#鬼话)】`guei3 hua6` <sup>[泰州]</sup> ① 谎言，不可相信的话：你不要相信他说的这些～。 ② 悄悄说的不让他人知晓的话：这两个人又躲啊后头说～去唻。  
-1. 【[鬼话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_hua.md#鬼话)】`guei3 hua6` <small>/kuəɪ3 xuɑ1/<sup>泰兴</sup></small> 谎话；胡话<sup>\[泰兴\]</sup>  
+1. 【[鬼话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_hua.md#鬼话)】`guei3 hua6` <small>/kuəɪ3 xuɑ1/<sup>泰兴</sup></small> ① 谎言，不可相信的话<sup>\[泰州\]</sup>：你不要相信他说的这些～。<sup>\[泰州\]</sup> ② 悄悄说的不让他人知晓的话<sup>\[泰州\]</sup>：这两个人又躲啊后头说～去唻。<sup>\[泰州\]</sup> ③ 谎话；胡话<sup>\[泰兴\]</sup>  
 1. 【[鬼坏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_huae.md#鬼坏)】`guei3 huae6` <small>/kuəi3 xuɛ6/<sup>兴化</sup></small> ① 形容聪明、机灵、点子多<sup>\[兴化\]</sup>：小孙子～，三言两语就把奶奶逗笑啊。<sup>\[兴化\]</sup> ② 人表面忠厚讷言，实质工于心计<sup>\[泰州\]</sup>：这个马马儿平时不多说话，一副老实样子，其实她骨子里～。<sup>\[泰州\]</sup>  
 1. 【[鬼摇三四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_io_saen_sz.md#鬼摇三四)】`guei3 io saen1 sz5` <small>/kuəɪ3 iɔ ɕiɛ̃1 sɿ5/<sup>泰兴</sup></small> 装腔作势，故弄玄虚。类似于“变鬼”。<sup>\[泰兴\]</sup>：张三出去蹲吖几年，现在跟本乡人也～的说普通话。<sup>\[泰兴\]</sup>  
 1. 【[鬼精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_jien.md#鬼精)】`guei3 jien1` <sup>[泰州]</sup> 为人处世算计特别精明而不肯吃一点小亏的人：这小伙是个～，不会得把便宜你占。  
-1. 【[鬼节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_jih.md#鬼节)】`guei3 jih7` <sup>[如皋]</sup> 习俗中主祭祀的节日。主要有：清明、七月半、十月朝、小冬。  
-1. 【[鬼节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_jih.md#鬼节)】`guei3 jih7` <small>/kuəɪ3 t͡ɕiʔ7/<sup>泰兴</sup></small> 乡人谓清明、农历七月半、冬至三大祭祀先人的节日为鬼节。<sup>\[泰兴\]</sup>  
+1. 【[鬼节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_jih.md#鬼节)】`guei3 jih7` <small>/kuei3 t͡ɕiʔ7/<sup>如皋</sup>, /kuəɪ3 t͡ɕiʔ7/<sup>泰兴</sup></small> ① 习俗中主祭祀的节日。主要有：清明、七月半、十月朝、小冬。<sup>\[如皋\]</sup> ② 乡人谓清明、农历七月半、冬至三大祭祀先人的节日为鬼节。<sup>\[泰兴\]</sup>  
 1. 【[鬼抲鬼抲的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_ka_guei_ka.md#鬼抲鬼抲的)】`guei3 ka1 guei3 ka1 dii` <sup>[东台]</sup> 行为神秘，不大气。  
 1. 【[鬼柳杨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_lieu_ian.md#鬼柳杨)】`guei3 lieu3 ian2` <small>/kuəɪ3 ləɪ3 iɑŋ2/<sup>泰兴</sup></small> 杨树的一种。乡间俗称。<sup>\[泰兴\]</sup>  
 1. 【[鬼里鬼气的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_lii_guei_qi.md#鬼里鬼气的)】`guei3 lii guei3 qi5 dii` <sup>[如皋]</sup> 小气者，不大方的样子。  
@@ -1739,13 +1731,11 @@
 1. 【[鬼头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_teu_r.md#鬼头<sub>儿</sub>)】`guei3 teu2 r` <sup>[如东]</sup> 爱出坏主意的人：他是一个～，你要当心。  
 1. 【[鬼豆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_teu_r.md#鬼豆<sub>儿</sub>)】`guei3 teu6 r` <small>/kuei3 tʰei˞1/<sup>如皋</sup>, /kuəɪ3 tʰɤɯ1 ɚ/<sup>泰县</sup></small> ① 狡猾的人。<sup>\[如东\]</sup>：他是个～，经常捉弄人。<sup>\[如东\]</sup> ② 吝啬的人。<sup>\[如东\]</sup>：这个人像个～，小气啊没魂。<sup>\[如东\]</sup> ③ 吝啬小气者。<sup>\[如皋\]</sup> ④ 小气，不大方。<sup>\[东台\]</sup> ⑤ 吝啬的人<sup>\[泰县\]</sup>：她是个～。<sup>\[泰县\]</sup>  
 1. 【[鬼豆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_teu_zz.md#鬼豆子)】`guei3 teu6 zz` <sup>[兴化]</sup> ① 毛囊脓肿。 ② （借）吝啬的人：她是个～，小钱也啬不出一个来。  
-1. 【[鬼剃头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_ti_teu.md#鬼剃头)】`guei3 ti5 teu2` <sup>[如东]</sup> 头发突然脱落，多为神经性突然脱发。  
-1. 【[鬼剃头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_ti_teu.md#鬼剃头)】`guei3 ti5 teu2` <small>/kuəɪ3 t͡ɕʰʝ5 tʰəɪ2/<sup>泰兴</sup></small> 斑秃的俗称。<sup>\[泰兴\]</sup>  
+1. 【[鬼剃头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_ti_teu.md#鬼剃头)】`guei3 ti5 teu2` <small>/kuəɪ3 t͡ɕʰʝ5 tʰəɪ2/<sup>泰兴</sup></small> ① 头发突然脱落，多为神经性突然脱发。<sup>\[如东\]</sup> ② 斑秃的俗称。<sup>\[泰兴\]</sup>  
 1. 【[鬼套头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_to_teu.md#鬼套头)】`guei3 to5 teu2` <sup>[如东]</sup> 一种棉帽，圆筒形，套在头上，把头、脸遮起来保暖，上部有月牙孔，露出两只眼睛观看外面。  
 1. 【[鬼驼驼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_tu_tu_r.md#鬼驼驼<sub>儿</sub>)】`guei3 tu2 tu2 r` <sup>[如东]</sup> 爱出坏主意而又胆小怕事的人：王老太是个～。  
 1. 【[鬼五鬼六](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_v_guei_loh.md#鬼五鬼六)】`guei3 v3 guei3 loh8` <small>/kuəɪ3 ʋ3 kuəɪ3 lɔʔ8/<sup>泰兴</sup></small> 犹鬼鬼祟祟，背着人干事。<sup>\[泰兴\]</sup>  
-1. 【[鬼画符](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_va_fv.md#鬼画符)】`guei3 va6 fv2` <sup>[如皋]</sup> 踢毽子的一种技法：单脚画过未落下的毽子然后踢起。熟练者可连踢数个。  
-1. 【[鬼画符](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_va_fv.md#鬼画符)】`guei3 va6 fv2` <small>/kuəɪ3 uɑ1 fʋ2/<sup>泰兴</sup></small> 比喻写字不讲究，乱涂乱画。<sup>\[泰兴\]</sup>  
+1. 【[鬼画符](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_va_fv.md#鬼画符)】`guei3 va6 fv2` <small>/kuei3 ʋa1 fu2/<sup>如皋</sup>, /kuəɪ3 uɑ1 fʋ2/<sup>泰兴</sup></small> ① 踢毽子的一种技法：单脚画过未落下的毽子然后踢起。熟练者可连踢数个。<sup>\[如皋\]</sup> ② 比喻写字不讲究，乱涂乱画。<sup>\[泰兴\]</sup>  
 1. 【[鬼味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_vei.md#鬼味)】`guei3 vei6` <sup>[如皋]</sup> 奇怪的味、难闻的味。  
 1. 【[鬼相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_xian.md#鬼相)】`guei3 xian5` <sup>[兴化]</sup> 见“鬼形”。  
 1. 【[鬼心思重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_xien_sz_chon.md#鬼心思重)】`guei3 xien1 sz chon6` <small>/kuəɪ3 ɕiŋ1 sɿ t͡sʰɔŋ1/<sup>泰兴</sup></small> 不放心他人；不正当的心思挂在心头。<sup>\[泰兴\]</sup>  

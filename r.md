@@ -449,8 +449,7 @@
 1. 【[饶得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_deh.md#饶得)】`ro2 deh7` <sup>[如皋]</sup> 虽然、尽管：～他会说，还是说不过你。  
 1. 【[饶你过天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_nii_gu_tin.md#饶你过天)】`ro2 nii3 gu5 tin1` <sup>[东台]</sup> 宽恕，免于责罚：这回子～，下次再犯就不客气！  
 1. 【[饶人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_ren.md#饶人)】`ro2 ren2` <sup>[如东]</sup> 对人宽容：他就是不～。  
-1. 【[饶头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_teu.md#饶头)】`ro2 teu` <sup>[如皋]</sup> 额外添加的：买肉有夹冇，卖菜有～。  
-1. 【[饶头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_teu.md#饶头)】`ro2 teu` <small>/ɻɔ2 tʰəɪ/<sup>泰兴</sup></small> 额外添补的少量的东西。<sup>\[泰兴\]</sup>  
+1. 【[饶头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_teu.md#饶头)】`ro2 teu` <small>/ɻɔ2 tʰei/<sup>如皋</sup>, /ɻɔ2 tʰəɪ/<sup>泰兴</sup></small> ① 额外添加的<sup>\[如皋\]</sup>：买肉有夹冇，卖菜有～。<sup>\[如皋\]</sup> ② 额外添补的少量的东西。<sup>\[泰兴\]</sup>  
 1. 【[扰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro.md#扰)】`ro3` <small>/ɻɔ3/<sup>如皋</sup></small> ① 叨扰。我～啊他两块肉；我不作兴～你！<sup>\[如皋\]</sup> ② 白占便宜：值二角钱的货，卖啊你一块钱，～啊你啦！<sup>\[如皋\]</sup> ③ 用手来回推动物体，使其摇摆。<sup>\[如东\]</sup>：先～竹竿，再拨起来。<sup>\[如东\]</sup> ④ 叨扰，接受他人饮食招待<sup>\[泰州\]</sup>：春上我上南京开会顺便去望他，～过他一顿饭。<sup>\[泰州\]</sup>  
 1. 【[扰啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_a.md#扰啊)】`ro3 a` <sup>[东台]</sup> 扰，指打扰：～通常指吃了人家的｜前朝～你一顿。  
 1. 【[绕弯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_vaen_zz.md#绕弯子)】`ro3 vaen1-3 zz` <sup>[东台]</sup> ［喻］说话不直截了当。  

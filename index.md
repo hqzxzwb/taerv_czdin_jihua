@@ -442,8 +442,7 @@
 [更多...](./o.md)
 ## P
 1. 【[派司](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_sz.md#派司)】`pa1 sz` <sup>[东台]</sup> ① 英文pass音译。 ② 指出入证、通行证等。 ③ 指通过；准予通过（检查、关卡、考试等）。 ④ 结束：这个事看来要～啊。  
-1. 【[趴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa.md#趴)】`pa1` <sup>[东台]</sup> 胸腹朝下卧倒，或身体往前靠在物体上。  
-1. 【[趴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa.md#趴)】`pa1` <small>/pʰɑ1/<sup>泰兴</sup></small> 手、足、面、胸向下之态。<sup>\[泰兴\]</sup>  
+1. 【[趴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa.md#趴)】`pa1` <small>/pʰɑ1/<sup>泰兴</sup></small> ① 胸腹朝下卧倒，或身体往前靠在物体上。<sup>\[东台\]</sup> ② 手、足、面、胸向下之态。<sup>\[泰兴\]</sup>  
 1. 【[趴啊下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_a_ha.md#趴啊下)】`pa1 a ha` <sup>[如皋]</sup> 趴着。  
 1. 【[趴趴<sub>儿</sub>屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_pa_r_oh.md#趴趴<sub>儿</sub>屋)】`pa1 pa1 r oh7` <sup>[如东]</sup> 一种小型的低矮的小屋，像龟壳一样。  
 1. 【[趴窝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_u.md#趴窝)】`pa1 u1` <sup>[东台]</sup> 家禽伏在窝里不动，［喻］机动车辆失去动力无法前进。  
@@ -470,6 +469,8 @@
 1. 【[爬肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_dv_zz.md#爬肚子)】`pa2 dv3 zz` <sup>[如皋]</sup> 詈语。儿子非礼娘或指非礼娘的儿子。此语一责母亲溺爱，一责被溺爱的儿子品质恶劣。  
 1. 【[爬根草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_gen_co.md#爬根草)】`pa2 gen1 co3` <sup>[如东]</sup> 多年生草本植物。茎蔓生，叶尖长，每节生根。花白色，很小。生长在田边、路旁，繁殖力强，防害农作物。  
 1. 【[爬高上梯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_go_shan_ti.md#爬高上梯)】`pa2 go1 shan6 ti1` <small>/pʰa2 kɔ1 saŋ6 tʰəi1/<sup>兴化</sup></small> ① 爬上高处<sup>\[兴化\]</sup>：你太顽皮，动不动～的，跌下来覅哭。<sup>\[兴化\]</sup> ② 登梯攀到高处。<sup>\[泰州\]</sup> ③ 泛指登高作业<sup>\[泰州\]</sup>：他家老大在供电局工作，成天～，蛮危险的。<sup>\[泰州\]</sup>｜没得点儿～的本事，也不能在消防队里蹾吖。<sup>\[泰州\]</sup>  
+1. 【[爬蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_hae.md#爬蟹)】`pa2 hae3` 螃蟹  
+1. 【[爬窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_ku.md#爬窠)】`pa2 ku1` <small>/pʰa2 kʰʊ1/<sup>如皋</sup></small> ① 牲畜交配。<sup>\[如皋\]</sup> ② 牲畜交配，叫做爬窠。<sup>\[如东\]</sup> ③ 牲口自行交配。<sup>\[东台\]</sup>  
 [更多...](./p.md)
 ## Q
 1. 【[㩻/攲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi.md#㩻/攲)】`qi1` <sup>[泰州]</sup> ① 倾斜不正：这张橱子～啊一边，要在东边垫块板子就平吖唻。 ② 人或物体进入狭窄、低矮空间被迫倾斜不正，因受空间束缚以致无法正常伸展：楼上这个斜阁子上又小又矮，他个子大，身子～住啊唻，不好动。｜这个三门冰箱太大，你家楼梯太狭，～住啊，搬不上去。  

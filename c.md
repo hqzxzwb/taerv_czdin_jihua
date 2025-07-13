@@ -1147,8 +1147,7 @@
 1. 【[超百行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_boh_han.md#超百行)】`cho1 boh7 han2` <sup>[如东]</sup> ① 超过百行的范围。 ② 比喻超过本职范围，捞话说，捞事做：不要做～。  
 1. 【[超朞走](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_ji_zeu.md#超朞走)】`cho1 ji1 zeu3` <small>/t͡sʰɔ1 t͡ɕʝ1 t͡sei3/<sup>如皋</sup></small> ① 婴儿未满周岁即会走路，是发育良好的表现。<sup>\[如皋\]</sup> ② 婴儿未过周岁就会走路，“超”指能力超过同龄婴儿，“朞”指周岁。<sup>\[东台\]</sup>  
 1. 【[超头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_teu.md#超头)】`cho1 teu2` <sup>[兴化]</sup> 抢在前头到达目的地：一个个直奔中军帐。有人～奔寝帐来摇醒曹操……（《火烧赤壁》五）也作“穿头”。  
-1. 【[钞票](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_pio.md#钞票)】`cho1 pio5` <sup>[如东]</sup> 纸币。  
-1. 【[钞票](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_pio.md#钞票)】`cho1 pio5` <small>/t͡sʰɔ1 pʰiɔ5/<sup>泰兴</sup></small> 纸币；钱的通称。<sup>\[泰兴\]</sup>  
+1. 【[钞票](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_pio.md#钞票)】`cho1 pio5` <small>/t͡sʰɔ1 pʰiɔ5/<sup>泰兴</sup></small> 纸币。<sup>\[如东\]</sup>\[泰兴：或钱的通称。\]  
 1. 【[朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho.md#朝)】`cho2` 针对  
 1. 【[朝贺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_hu.md#朝贺)】`cho2 hu` <sup>[东台]</sup> 暗示要表示点（请客或送礼）的意思。  
 1. 【[朝阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_ian.md#朝阳)】`cho2 ian2` <sup>[如东]</sup> 向着太阳的地方或方向。  
@@ -2051,8 +2050,7 @@
 1. 【[造罪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_qy.md#造罪)】`co6 qy6` <sup>[如东]</sup> 自己给自己制造麻烦、困难。  
 1. 【[促](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh.md#促)】`coh7` <small>/t͡sʰɔʔ7/<sup>兴化</sup></small> ① 诡诈、缺德<sup>\[兴化\]</sup>：这个人太～，怕没得老人家做。<sup>\[兴化\]</sup> ② （泰州词典作諔）<sup>\[泰州\]</sup> ③ 用诡诈的手段捉弄人或者恶作剧<sup>\[泰州\]</sup>：这个小伙～咖不得命，老孙经常捱他弄得哭笑不得。<sup>\[泰州\]</sup>｜老李多～咯，他大杯肚里全是矿泉水，同小赵杯里倒的是真酒，三杯一干，就把小赵弄吖醉啊。<sup>\[泰州\]</sup>  
 1. 【[促阳寿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_ian_sheu.md#促阳寿)】`coh7 ian2 sheu6` <sup>[如皋]</sup> 宿命论观，因为人过于促狭而缩短寿命。  
-1. 【[促掐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_kaeh.md#促掐)】`coh7 kaeh` <sup>[兴化]</sup> 刻薄刁钻，暗中使坏作弄人。书面语多作“促狭”：他专做～事，捉弄老实人。｜“又做这等短命～的事！于你何干，何故定要害他……”（《水浒传》四一）  
-1. 【[促掐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_kaeh.md#促掐)】`coh7 kaeh` <small>/t͡sʰɔʔ7 kʰæʔ/<sup>泰兴</sup></small> 捉弄人；搞恶作剧；阴毒奸刁。也作“促掐”。<sup>\[泰兴\]</sup>：～～，过不到十八<sup>\[泰兴\]</sup>  
+1. 【[促掐/促狭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_kaeh.md#促掐/促狭)】`coh7 kaeh` <small>/t͡sʰɔʔ7 kʰæʔ/<sup>兴化</sup>, /t͡sʰɔʔ7 kʰæʔ/<sup>泰兴</sup></small> ① 刻薄刁钻，暗中使坏作弄人<sup>\[兴化\]</sup>：他专做～事，捉弄老实人。<sup>\[兴化\]</sup>｜“又做这等短命～的事！于你何干，何故定要害他……”（《水浒传》四一）<sup>\[兴化\]</sup> ② 捉弄人；搞恶作剧；阴毒奸刁<sup>\[泰兴\]</sup>：～～，过不到十八<sup>\[泰兴\]</sup>  
 1. 【[促掐鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_kaeh_guei.md#促掐鬼)】`coh7 kaeh guei3` <small>/t͡sʰɔʔ7 kʰæʔ kuəɪ3/<sup>泰兴</sup></small> 搞恶作剧的人。<sup>\[泰兴\]</sup>  
 1. 【[促掐痨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_kaeh_lo.md#促掐痨)】`coh7 kaeh7 lo2` <sup>[兴化]</sup> 专爱捉弄人的人：这个～坏点子多，一不留神就吃他的亏！  
 1. 【[促狭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_kuaeh.md#促狭)】`coh7 kuaeh` <small>/t͡sʰɔʔ7 kʰueʔ/<sup>如皋</sup>, /t͡sʰɔʔ7 kʰuæʔ/<sup>泰县</sup></small> ① 采用狡猾的主意或手段使对方上当。<sup>\[如东\]</sup>：季长如用吖个～主意，让王长明上吖当。<sup>\[如东\]</sup> ② 刁钻刻薄，爱捉弄人。<sup>\[如皋\]</sup> ③ 刁滑。<sup>\[泰县\]</sup> ④ 搞恶作剧捉弄人的行为<sup>\[泰州\]</sup>：这个小伙多～咖，小王同他在做块儿，吃咖他不少苦头。<sup>\[泰州\]</sup>  

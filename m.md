@@ -273,8 +273,7 @@
 1. 【[骂街](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_gae.md#骂街)】`ma6 gae1` <sup>[东台]</sup> 不指明对象，在公共场所大声谩骂：泼妇～。  
 1. 【[骂架](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_jia.md#骂架)】`ma6 jia5` <sup>[如东]</sup> 吵架斗嘴。  
 1. 【[骂骂咧咧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma_lae_lae.md#骂骂咧咧)】`ma6 ma6 lae1 lae1` <sup>[东台]</sup> 一边说话，一边骂人。  
-1. 【[骂名](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_mien.md#骂名)】`ma6 mien2` <sup>[泰州]</sup> 坏的名声：他蹾过好几个单位，没得一个地方有～。  
-1. 【[骂名](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_mien.md#骂名)】`ma6 mien2` <small>/mɑ1 miŋ2/<sup>泰兴</sup></small> 很坏的名声。<sup>\[泰兴\]</sup>  
+1. 【[骂名](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_mien.md#骂名)】`ma6 mien2` <small>/mɑ1 miŋ2/<sup>泰兴</sup></small> 坏的名声<sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：他蹾过好几个单位，没得一个地方有～。<sup>\[泰州\]</sup>  
 1. 【[骂天摵地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_tin_seh_ti.md#骂天摵地)】`ma6 tin1 seh7 ti6` <small>/mɑ1 tʰĩ1 səʔ7 t͡ɕʰʝ1/<sup>泰兴</sup></small> 谓态度恶劣、面色愠怒之态。<sup>\[泰兴\]</sup>  
 1. 【[埋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae.md#埋)】`mae2` <small>/mɛ2/<sup>兴化</sup>, /mɛ2/<sup>如皋</sup>, /me2/<sup>泰县</sup></small> ① 蹲、登、躲（暂时在）。如皋西乡话<sup>\[如皋\]</sup>：你先～啊这许．我等刻儿来接你。<sup>\[如皋\]</sup> ② 除一般释义外，东台话里还有停留、迟钝之义<sup>\[东台\]</sup>：你老～在那块做甚的？<sup>\[东台\]</sup> ③ 蹲<sup>\[兴化\]</sup>：～啊家里不出来。<sup>\[兴化\]</sup>｜你这几天～啊哪许嗲？<sup>\[兴化\]</sup> ④ 留、蹲：今朝你就～在这块吧。<sup>\[泰县\]</sup>  
 1. 【[埋敦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mae_den.md#埋敦)】`mae2 den` ① 形容动作呆板、不活劲。或作“埋钝”。<sup>\[东台\]</sup> ② 指稀饭煮得厚墩墩的。<sup>\[东台\]</sup>  

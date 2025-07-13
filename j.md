@@ -1102,8 +1102,7 @@
 1. 【[韭菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_cae.md#韭菜)】`jieu3 cae5` <sup>[如东]</sup> 百合科植物韭菜，多年生草本。  
 1. 【[韭菜炖蛋——算葱（充）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_cae_den_taen.md#韭菜炖蛋——算葱（充）)】`jieu3 cae5 den5 taen6 sun5 con1 （chon1）` <sup>[东台]</sup>   
 1. 【[韭菜黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_cae_huan.md#韭菜黄)】`jieu3 cae5 huan2` <sup>[兴化]</sup> 冬季在室内培育的韭菜，浅黄黄色，味淡而鲜。也作“韭黄”。  
-1. 【[韭黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_huan.md#韭黄)】`jieu3 huan2` <sup>[泰州]</sup> 冬天在温室内培育出的韭菜嫩苗，颜色浅黄。  
-1. 【[韭黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_huan.md#韭黄)】`jieu3 huan2` <small>/t͡ɕiɤɯ3 xuɑŋ2/<sup>泰兴</sup></small> 冬季培育的韭菜，颜色浅黄，嫩而味美。<sup>\[泰兴\]</sup>  
+1. 【[韭黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_huan.md#韭黄)】`jieu3 huan2` <small>/t͡ɕiɤɯ3 xuɑŋ2/<sup>泰兴</sup></small> ① 冬天在温室内培育出的韭菜嫩苗，颜色浅黄。<sup>\[泰州\]</sup> ② 冬季培育的韭菜，颜色浅黄，嫩而味美。<sup>\[泰兴\]</sup>  
 1. 【[□鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_y.md#□鱼)】`jieu5 y2` <sup>[泰县]</sup> 鲫鱼。  
 1. 【[㾭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu.md#㾭)】`jieu5` <small>/t͡ɕiɤ5/<sup>兴化</sup>, /t͡ɕyʊ5/<sup>如皋</sup>, /t͡ɕiɤɯ5/<sup>泰县</sup></small> ① 收缩<sup>\[如皋\]</sup><sup>\[泰县\]</sup>：蚂蜞爬起来一伸一～的。<sup>\[如皋\]</sup>｜脸上的皮都～起来啊。<sup>\[泰县\]</sup> ② 缩<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup>：衣服～得一塌糊涂。<sup>\[东台\]</sup>｜离化工厂老远，他的鼻子就～起来啊。那个气味真的呛人！<sup>\[东台\]</sup>｜化纤的东西，热水一烫就～起来啊。<sup>\[兴化\]</sup>｜他刚才说得好好的，这刻儿话又～掉啊。<sup>\[泰县\]</sup> ③ 中途退却<sup>\[东台\]</sup>：大家说咖好啊的事，不能随意往后～。<sup>\[东台\]</sup> ④ 卷曲<sup>\[兴化\]</sup>：冻吖～起来<sup>\[兴化\]</sup> ⑤ 腿部痉挛弯曲无法伸直<sup>\[泰州\]</sup>：～筋<sup>\[泰州\]</sup>｜水太烫吖唻，你把腿子～起来。<sup>\[泰州\]</sup> ⑥ 收缩，缩短<sup>\[泰州\]</sup>：真丝衣裳不能用开水烫，一烫就～得不像样子唻。<sup>\[泰州\]</sup>｜这两天他老是～啊一副脸。<sup>\[泰州\]</sup> ⑦ 往后退，往回收<sup>\[泰州\]</sup>：刚刚还答应请客的，现在有～起来啊唻。<sup>\[泰州\]</sup>｜不要望他嘴上凶，真动到手他就望后～唻。<sup>\[泰州\]</sup>  
 1. 【[㾭啊家里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_a_ga_lii.md#㾭啊家里)】`jieu5 a ga1 lii` <sup>[如东]</sup> 躲在家里不出来。  
@@ -1443,22 +1442,20 @@
 1. 【[焦头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_teu.md#焦头)】`jio1 teu2` <sup>[兴化]</sup> 见“枯头”。  
 1. 【[焦头烂额](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_teu_laen_ngeh.md#焦头烂额)】`jio1 teu2 laen6 ngeh8` <sup>[如东]</sup> 头额都被烧焦了，比喻非常糟糕，非常狼狈。  
 1. 【[焦心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_xien.md#焦心)】`jio1 xien1` <sup>[兴化]</sup> 忧愁、多愁善感：他～重，儿子考上不大学懊恼，考上吖又为他学费、生活费～。  
-1. 【[焦屑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_xih.md#焦屑)】`jio1 xih7` <sup>[如东]</sup> 元麦、大米炒熟后磨成的粉面，又名米麦麨，色黄味香，加开水调和即可吃，是一种方便食品。  
-1. 【[焦糏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_xih.md#焦糏)】`jio1 xih7` <sup>[如皋]</sup> 炒新大麦、元麦仁磨成的粉。  
+1. 【[焦糏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_xih.md#焦糏)】`jio1 xih7` <small>/t͡ɕiɔ1 ɕiʔ7/<sup>如皋</sup></small> ① 元麦、大米炒熟后磨成的粉面，又名米麦麨，色黄味香，加开水调和即可吃，是一种方便食品。<sup>\[如东\]</sup> ② 炒新大麦、元麦仁磨成的粉。<sup>\[如皋\]</sup>  
 1. 【[焦糏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_xiuh.md#焦糏)】`jio1 xiuh` <small>/t͡ɕiɔ1 ɕyʊʔ/<sup>泰县</sup></small> ① 大麦或元麦炒熟磨成的细面粉。<sup>\[泰县\]</sup> ② 炒面，一种方便食品，用糯米粉或者小麦面粉在锅中炒熟，开水一冲即可食用。<sup>\[泰州\]</sup>  
-1. 【[焦屑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_xiuh.md#焦屑)】`jio1 xiuh7` <sup>[东台]</sup> 炒熟的面粉或米粉，用开水泡了吃：（童谣）六月六，吃筷～长块肉。  
-1. 【[焦糏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_xiuh.md#焦糏)】`jio1 xiuh7` <sup>[兴化]</sup> 炒面。有糯米和小麦的两种。  
+1. 【[焦糏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_xiuh.md#焦糏)】`jio1 xiuh7` <small>/t͡ɕiɔ1 ɕyuʔ7/<sup>兴化</sup></small> ① 炒熟的面粉或米粉，用开水泡了吃<sup>\[东台\]</sup>：（童谣）六月六，吃筷～长块肉。<sup>\[东台\]</sup> ② 炒面。有糯米和小麦的两种。<sup>\[兴化\]</sup>  
 1. 【[蛟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio.md#蛟)】`jio1` <sup>[如皋]</sup> 扬子鳄。鼍龙。今很少见。  
 1. 【[蛟水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_shuei.md#蛟水)】`jio1 shuei3` <sup>[如皋]</sup> 长江发的大水。旧传常能见蛟，而以为即蛟所为。  
 1. 【[谯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio.md#谯)】`jio1` <sup>[泰州]</sup> 讥讽：你心里没得数啊，人家～你都不晓得。  
 1. 【[谯话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_hua.md#谯话)】`jio1 hua6` <sup>[泰州]</sup> 含有挖苦意味的话：他同你说的是～，你不曾听得出来？人家心情方方不好，你还在旁边说～，真没得意思。  
-1. 【[敽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio.md#敽)】`jio3` <small>/t͡ɕiɔ3/<sup>如皋</sup></small> ① 缝合<sup>\[如皋\]</sup> ② 把手工织物的各部分连缀起来。<sup>\[东台\]</sup>  
+1. 【[敽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio.md#敽)】`jio3` <small>/t͡ɕiɔ3/<sup>兴化</sup>, /t͡ɕiɔ3/<sup>如皋</sup></small> ① 缝合<sup>\[如皋\]</sup> ② 把手工织物的各部分连缀起来。<sup>\[东台\]</sup> ③ 用大针脚缝<sup>\[兴化\]</sup>：这个小伙把衣服脱下，姑娘接过来，随手拿了根针……就这么三针两针～好了。（扬一《扬州劫法场》）<sup>\[兴化\]</sup> ④ 缝<sup>\[泰州\]</sup>：你帮他把衣裳～两针就是唻。<sup>\[泰州\]</sup>  
 1. 【[敽赖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_lae_zz.md#敽赖子)】`jio3 lae6 zz` <sup>[泰州]</sup> 接受工作任务是以他人为借口推辞工作，或者要挟他人也要承担同样的工作任务：就这点儿事情，你做掉就是，不要再～唻。｜这小伙多吃点儿苦都不行，叫他做到事就～。  
 1. 【[狡辞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_cz.md#狡辞)】`jio3 cz2` <sup>[如皋]</sup> 狡辩的理由。  
 1. 【[狡辞重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_cz_chon.md#狡辞重)】`jio3 cz2 chon6` <sup>[如皋]</sup> 会说狡辩话且歪理多。  
 1. 【[狡戗理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_qian_li.md#狡戗理)】`jio3 qian li3` <sup>[如皋]</sup> 狡辩的理由。  
 1. 【[狡戗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_qian.md#狡戗)】`jio3 qian1` <sup>[如皋]</sup> 狡辩。  
-1. 【[绞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio.md#绞)】`jio3` <small>/t͡ɕiɔ3/<sup>兴化</sup>, /t͡ɕiɔ3/<sup>泰兴</sup></small> ① 玄学说法，有～、犯～即双方命理犯冲，对一方或双方命运不利。也比喻双方相处不合。<sup>\[泰兴\]</sup><sup>\[东台\]</sup>：箇门亲事他家妈妈不情愿，说的找人算吖的，两个人有～唻<sup>\[泰兴\]</sup>｜如果领导班子犯～，工作就搞不好。<sup>\[东台\]</sup> ② 用大针脚缝<sup>\[兴化\]</sup>：这个小伙把衣服脱下，姑娘接过来，随手拿了根针……就这么三针两针～好了。（扬一《扬州劫法场》）<sup>\[兴化\]</sup> ③ 缝<sup>\[泰州\]</sup>：你帮他把衣裳～两针就是唻。<sup>\[泰州\]</sup>  
+1. 【[绞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio.md#绞)】`jio3` <small>/t͡ɕiɔ3/<sup>泰兴</sup></small> 玄学说法，有～、犯～即双方命理犯冲，对一方或双方命运不利。也比喻双方相处不合。<sup>\[泰兴\]</sup><sup>\[东台\]</sup>：箇门亲事他家妈妈不情愿，说的找人算吖的，两个人有～唻<sup>\[泰兴\]</sup>｜如果领导班子犯～，工作就搞不好。<sup>\[东台\]</sup>  
 1. 【[绞菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_cae.md#绞菜)】`jio3 cae5` <small>/t͡ɕiɔ3 t͡sʰɛ5/<sup>如皋</sup></small> ① 粗鲁地搛菜，大口地吃菜，不够文雅。<sup>\[如东\]</sup>：不要这样～。<sup>\[如东\]</sup> ② 粗鲁地搛菜、吃菜，不顾别人、不讲礼节。<sup>\[如皋\]</sup>  
 1. 【[绞肠痧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_chan_sha.md#绞肠痧)】`jio3 chan2 sha1` <sup>[如东]</sup> 阑尾炎。  
 1. 【[绞关](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_guaen.md#绞关)】`jio3 guaen1` <sup>[兴化]</sup> 土制绞盘，利用轮轴原理制成的起重设备：众当差的忙用～另绞一排连环船到曹操的官座对过停泊下来。（《火烧赤壁》七）  
@@ -1476,7 +1473,7 @@
 1. 【[饺子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_zz.md#饺子)】`jio3 zz` <sup>[如东]</sup> 食品。面粉加工成较厚的圆形皮，将白菜肉泥、芹菜肉泥或荠莱肉泥等馅儿包起来，用手捏成半圆形，这种食品叫做饺子。然后放入开水中煮熟。一般不吃汤。  
 1. 【[𢄺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio.md#𢄺)】`jio3` <sup>[泰兴]</sup> 擦拭：～台子/擦桌子  
 1. 【[𢄺布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_bv.md#𢄺布)】`jio3 bv` <sup>[泰兴]</sup> 抹布  
-1. 【[叫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio.md#叫)】`jio5` <small>/t͡ɕiɔ5/<sup>如皋</sup></small> ① 旧俗称人受惊吓则魂魄失落而致病，把魂～回来病就好了：伢儿捱吓咖，你替他～下子。<sup>\[如皋\]</sup> ② 渐裂有声：熟西瓜，你拿刀一点，看吖望下～。也说“笑”。<sup>\[如皋\]</sup>  
+1. 【[叫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio.md#叫)】`jio5` <small>/t͡ɕiɔ5/<sup>如皋</sup></small> ① 旧俗称人受惊吓则魂魄失落而致病，把魂～回来病就好了<sup>\[如皋\]</sup>：伢儿捱吓咖，你替他～下子。<sup>\[如皋\]</sup> ② 渐裂有声\[如皋：也说“笑”。\]：熟西瓜，你拿刀一点，看吖望下～。<sup>\[如皋\]</sup>  
 1. 【[叫啊明吖的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_a_mien_nga.md#叫啊明吖的)】`jio5 a mien2 nga dii` <sup>[如皋]</sup> 见“叫明”。  
 1. 【[叫不应](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_beh_ien.md#叫不应)】`jio5 beh ien5` <sup>[兴化]</sup> 说话不明或无人听：他又睡着咖，～。  
 1. 【[叫不应](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_beh_ien.md#叫不应)】`jio5 beh7 ien5` <sup>[泰州]</sup> 呼人而无回应，意谓人已经昏迷或者进入弥留状态：他家老的在医院里，夜里两点钟的时候就～唻。  

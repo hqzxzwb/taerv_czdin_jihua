@@ -1063,8 +1063,7 @@
 1. 【[休想](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_xian.md#休想)】`xieu1 xian3` <sup>[如东]</sup> ① 不要想：这种空头计划～成功。 ② 不可能：你要一个人去北京，～。  
 1. 【[修](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu.md#修)】`xieu1` <small>/ɕiɤɯ1/<sup>泰兴</sup></small> 修行，常用于：修行（而得到）<sup>\[泰兴\]</sup>：她是前世里～到的<sup>\[泰兴\]</sup>  
 1. 【[修锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_gu.md#修锅)】`xieu1 gu1` <sup>[如皋]</sup> 修补铸铁锅。  
-1. 【[修锅匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_gu_qian.md#修锅匠)】`xieu1 gu1 qian6` <sup>[如皋]</sup> 专门修锅、碗的工匠。  
-1. 【[修锅匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_gu_qian.md#修锅匠)】`xieu1 gu1 qian6` <small>/ɕiɤɯ1 kɤɯ1 t͡ɕʰiɑŋ1/<sup>泰兴</sup></small> 昔时修理坏锅为业的匠人。<sup>\[泰兴\]</sup>  
+1. 【[修锅匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_gu_qian.md#修锅匠)】`xieu1 gu1 qian6` <small>/ɕyʊ1 kʊ1 t͡ɕʰiã1/<sup>如皋</sup>, /ɕiɤɯ1 kɤɯ1 t͡ɕʰiɑŋ1/<sup>泰兴</sup></small> 专门修锅、碗的工匠。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
 1. 【[修好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_ho.md#修好)】`xieu1 ho3` <sup>[兴化]</sup> 见“修善”。  
 1. 【[修脚刀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_jiah_do_r.md#修脚刀<sub>儿</sub>)】`xieu1 jiah7 do1 r` <sup>[如皋]</sup> 俗云：“～，慢慢儿𠛵。”喻用慢功夫对付，或指这种人。  
 1. 【[修理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_li.md#修理)】`xieu1 li3` <sup>[如东]</sup> 使损坏的东西恢复原来的状况和作用：～自行车。  
@@ -1239,8 +1238,7 @@
 1. 【[显魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_huen.md#显魂)】`xin3 huen2` <sup>[兴化]</sup> ① （迷信）死者灵魂出现。 ② 用来骂讨厌的人在眼前出现：“……早不来，迟不来，刚在这个当儿来～！”（《广陵潮》四五）  
 1. 【[显原身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_iun_shen.md#显原身)】`xin3 iun2 shen1` <sup>[如东]</sup> 露出本来的身份：这个人来啊时间不长就～。  
 1. 【[显原形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_iun_xien.md#显原形)】`xin3 iun2 xien2` <sup>[如东]</sup> 露出本来面目：他终于显吖原形。  
-1. 【[显灵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_lien.md#显灵)】`xin3 lien2` <sup>[东台]</sup> 迷信的人指神鬼显形，让人感受到其威力。  
-1. 【[显灵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_lien.md#显灵)】`xin3 lien2` <small>/ɕĩ3 liŋ2/<sup>泰兴</sup></small> 迷信说神鬼现象或神鬼发出声响、威力，称为“显灵”。<sup>\[泰兴\]</sup>  
+1. 【[显灵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_lien.md#显灵)】`xin3 lien2` <small>/ɕĩ3 liŋ2/<sup>泰兴</sup></small> ① 迷信的人指神鬼显形，让人感受到其威力。<sup>\[东台\]</sup> ② 迷信说神鬼现象或神鬼发出声响、威力，称为“显灵”。<sup>\[泰兴\]</sup>  
 1. 【[显老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_lo.md#显老)】`xin3 lo3` <sup>[兴化]</sup> 现出老相，容貌和年龄不相称：他这几年走南闯北，脸上～。也说“觉老”。  
 1. 【[显能](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_nen.md#显能)】`xin3 nen2` <sup>[如皋]</sup> 卖弄，表现才干。  
 1. 【[显能耐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_nen_nae.md#显能耐)】`xin3 nen2 nae6` <sup>[如皋]</sup> 卖弄。  
@@ -1291,8 +1289,7 @@
 1. 【[现贩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_faen.md#现贩)】`xin6 faen5` <small>/ɕĩ1 fɛ̃5/<sup>泰兴</sup></small> ① 骂人语。谓过于炫耀自己的才能、衣着等。<sup>\[泰兴\]</sup> ② 多用于贵备女人爱打扮<sup>\[泰兴\]</sup>  
 1. 【[现刮现](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_guaeh_xin.md#现刮现)】`xin6 guaeh7 xin6` <small>/ɕiɪ̃6 kuæʔ7 ɕiɪ̃6/<sup>兴化</sup></small> ① 就是当场兑现，不欠账<sup>\[东台\]</sup>：他收到货，立即给钱，～！<sup>\[东台\]</sup> ② 赌现钱，不共赌账。<sup>\[兴化\]</sup> ③ （借）现金交易，不赊欠<sup>\[兴化\]</sup>：我俫～，概不悬欠。也说“现沰现”。<sup>\[兴化\]</sup> ④ 按照约定，钱货两清，当场兑现，不赊不欠<sup>\[泰州\]</sup>：现场促销，买二赠一，～。<sup>\[泰州\]</sup>｜晚上打牌来钱，输掉当场就把钱，～，没得钱的不要来。<sup>\[泰州\]</sup>  
 1. 【[现搳现](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_huaeh_xin.md#现搳现)】`xin6 huaeh7 xin6` <small>/ɕĩ1 xueʔ7 ɕĩ1/<sup>如皋</sup>, /ɕĩ1 xuæʔ7 ɕĩ1/<sup>泰兴</sup></small> ① 兑现，不欠账。<sup>\[如皋\]</sup> ② 谓当场兑现，不欠账；现金交易。<sup>\[泰兴\]</sup>  
-1. 【[现魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_huen.md#现魂)】`xin6 huen2` <sup>[如皋]</sup> 责备稍一显现就消失了：来就来过几天，不要来～！  
-1. 【[现魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_huen.md#现魂)】`xin6 huen2` <small>/ɕĩ1 xuəŋ2/<sup>泰兴</sup></small> 现眼；丢人。<sup>\[泰兴\]</sup>  
+1. 【[现魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_huen.md#现魂)】`xin6 huen2` <small>/ɕĩ1 xuəŋ2/<sup>如皋</sup>, /ɕĩ1 xuəŋ2/<sup>泰兴</sup></small> ① 责备稍一显现就消失了<sup>\[如皋\]</sup>：来就来过几天，不要来～！<sup>\[如皋\]</sup> ② 现眼；丢人。<sup>\[泰兴\]</sup>  
 1. 【[现枯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_kv.md#现枯)】`xin6 kv1` <sup>[兴化]</sup> 事情败露：他挪用公款，月终结账的时候～啊。  
 1. 【[现瘌相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_laeh_xian.md#现瘌相)】`xin6 laeh8 xian5` <sup>[泰州]</sup> 比喻隐藏的坏人或造假的坏事暴露：平常望吖他还算老实，直到现在纪委找啊他，他才现吖瘌相。  
 1. 【[现吖光<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_nga_guan_r.md#现吖光<sub>儿</sub>)】`xin6 nga guan1 r` <sup>[如皋]</sup> 真相被揭露出来了。  

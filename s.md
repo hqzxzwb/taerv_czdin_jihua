@@ -771,8 +771,7 @@
 1. 【[尝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan.md#尝)】`shan2` ① 品尝 ② 少许吃一点儿，品品滋味。<sup>\[如东\]</sup>  
 1. 【[尝味水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_vei_shuei.md#尝味水)】`shan2 vei6 shuei3` <sup>[如皋]</sup> 第一次碰了某人的钉子，知道他的为人之道。变体“尝……味水”：尝过他的味水、尝尝他的味水。  
 1. 【[尝新](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_xien.md#尝新)】`shan2 xien1` <small>/saŋ2 ɕin1/<sup>兴化</sup>, /sã2 ɕiəŋ1/<sup>如皋</sup></small> ① 吃应时的或未吃过的食物。谚：见新不死。<sup>\[如皋\]</sup> ② 吃到刚刚上市的新鲜产品，表示一种超前享受。<sup>\[如东\]</sup>：蚕豆上市我买啊一点儿家来～。<sup>\[如东\]</sup> ③ 民俗<sup>\[兴化\]</sup>：新稻登场前，农民先向神灵供奉新米饭～。‖也说“荐新”。<sup>\[兴化\]</sup>  
-1. 【[尝鲜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_xin.md#尝鲜)】`shan2 xin1` <sup>[东台]</sup> 品尝新上市的食品。  
-1. 【[尝鲜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_xin.md#尝鲜)】`shan2 xin1` <small>/sɑŋ2 ɕĩ1/<sup>泰兴</sup></small> 品尝某种新鲜的食品。<sup>\[泰兴\]</sup>  
+1. 【[尝鲜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_xin.md#尝鲜)】`shan2 xin1` <small>/sɑŋ2 ɕĩ1/<sup>泰兴</sup></small> ① 品尝新上市的食品。<sup>\[东台\]</sup> ② 品尝某种新鲜的食品。<sup>\[泰兴\]</sup>  
 1. 【[晌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan.md#晌)】`shan3` <sup>[兴化]</sup> 中午：外头不中不～的，想吃甚的东西啊！  
 1. 【[晌心里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_xien_lii.md#晌心里)】`shan3 xien1 lii` <sup>[东台]</sup> 正午时分，一天中气温最高时。（同“午心晌里”）  
 1. 【[赏号](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_ho.md#赏号)】`shan3 ho6` <sup>[如皋]</sup> 赏给的钱。  
@@ -1282,8 +1281,7 @@
 1. 【[深造](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_co.md#深造)】`shen1 co5` <sup>[东台]</sup> 进一步的学习和研究：杨爹把女儿送到北京～去啊。  
 1. 【[深更半夜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_gen_bun_ia.md#深更半夜)】`shen1 gen1 bun5 ia6` <sup>[东台]</sup> 夜已很深，到了子时左右。  
 1. 【[深潭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_tun.md#深潭)】`shen1 tun2` <sup>[如皋]</sup> ① 很深的漏斗状水塘。 ② 水下的深塘。  
-1. 【[牲氏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_shr.md#牲氏)】`shen1 shr` <sup>[兴化]</sup> 牲口：夜里要起来喂～。  
-1. 【[牲氏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_shr.md#牲氏)】`shen1 shr` <small>/səŋ1 sɿ/<sup>泰兴</sup></small> 乡人谓家养的各种动物为牲氏。如牛、马、猪、羊、鸡、鸭、狗、猫等。非家养的则谓之“野牲氏”。<sup>\[泰兴\]</sup>  
+1. 【[牲氏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_shr.md#牲氏)】`shen1 shr` <small>/sən1 sɿ/<sup>兴化</sup>, /səŋ1 sɿ/<sup>泰兴</sup></small> ① 牲口<sup>\[兴化\]</sup>：夜里要起来喂～。<sup>\[兴化\]</sup> ② 乡人谓家养的各种动物为牲氏。如牛、马、猪、羊、鸡、鸭、狗、猫等。非家养的则谓之“野牲氏”。<sup>\[泰兴\]</sup>  
 1. 【[牲豕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_shr.md#牲豕)】`shen1 shr` <sup>[如皋]</sup> 兽类：他家成吖动物园，家～、野～总有。  
 1. 【[生不带来，死不带走](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_beh_dae_lae.md#生不带来，死不带走)】`shen1 beh7 dae5 lae2 sz3 beh7 dae5 zeu3` <sup>[东台]</sup> 人要豁达，想开，不要为一己私利斤斤计较。  
 1. 【[生不犟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_beh_qian.md#生不犟)】`shen1 beh7 qian6` <sup>[如东]</sup> 脾气固执，不听劝说：你不要～。  
@@ -2648,11 +2646,9 @@
 1. 【[顺𠵹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_gan.md#顺𠵹)】`shuen6 gan1` <small>/ɕyəŋ1 kɑŋ1/<sup>泰县</sup></small> ① 用隐讳的语言表达自己意图<sup>\[泰县\]</sup>：你不要～，我请你吃一顿就好啊。<sup>\[泰县\]</sup> ② 用谦逊的语言表达本人想法，婉转不直接<sup>\[泰州\]</sup>：你就不要～唻，你的意思我晓得咖，你是想要我出这笔钱。<sup>\[泰州\]</sup>  
 1. 【[顺口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_keu.md#顺口)】`shuen6 keu3` <sup>[如东]</sup> 随口：～说出来啊。  
 1. 【[顺口溜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_keu_lieu.md#顺口溜)】`shuen6 keu3 lieu1` <sup>[泰州]</sup> 流行在民间的口头韵文，句子长短不限，纯用口语，聚聚押韵，说起来极顺口：这小伙嘴巴子来得，一张嘴就是～。  
-1. 【[顺溜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_lieu.md#顺溜)】`shuen6 lieu` <sup>[兴化]</sup> ① 顺当：这次办执照蛮～的，不曾跑腿费口舌。｜“做事是要～，难道第一次空手回山不成……”（《说唐》二二） ② 顺畅，有次序：这篇文章有条有理，读起来～！  
-1. 【[顺溜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_lieu.md#顺溜)】`shuen6 lieu` <small>/suəŋ1 ləɪ/<sup>泰兴</sup></small> 顺利，无任何阻碍。<sup>\[泰兴\]</sup>  
+1. 【[顺溜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_lieu.md#顺溜)】`shuen6 lieu` <small>/suən6 liɤ/<sup>兴化</sup>, /suəŋ1 ləɪ/<sup>泰兴</sup></small> ① 顺当<sup>\[兴化\]</sup>：这次办执照蛮～的，不曾跑腿费口舌。<sup>\[兴化\]</sup>｜“做事是要～，难道第一次空手回山不成……”（《说唐》二二）<sup>\[兴化\]</sup> ② 顺畅，有次序<sup>\[兴化\]</sup>：这篇文章有条有理，读起来～！<sup>\[兴化\]</sup> ③ 顺利，无任何阻碍。<sup>\[泰兴\]</sup>  
 1. 【[顺料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_lio.md#顺料)】`shuen6 lio6` <sup>[如东]</sup> 房子梁架。  
-1. 【[顺路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_lv.md#顺路)】`shuen6 lv6` <sup>[东台]</sup> ① 顺着所走的路线走。 ② 很方便，正巧经过那里。  
-1. 【[顺路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_lv.md#顺路)】`shuen6 lv6` <small>/suəŋ1 lu1/<sup>泰兴</sup></small> 顺着所走的路线恰巧也到另一处<sup>\[泰兴\]</sup>  
+1. 【[顺路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_lv.md#顺路)】`shuen6 lv6` <small>/suəŋ1 lu1/<sup>泰兴</sup></small> ① 顺着所走的路线走。<sup>\[东台\]</sup> ② 很方便，正巧经过那里。<sup>\[东台\]</sup> ③ 顺着所走的路线恰巧也到另一处<sup>\[泰兴\]</sup>  
 1. 【[顺毛抹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_mo_maeh.md#顺毛抹)】`shuen6 mo2 maeh8` <sup>[兴化]</sup> （借）拣其爱听的话说：我捱他吵得没法，只好～，怎说怎好。  
 1. 【[顺毛羽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_mo_y.md#顺毛羽)】`shuen6 mo2 y3` <sup>[如东]</sup> 鸡或其他鸟禽梳理羽毛。比喻顺着某人的脾气或意见说话、办事：你要～做才行。  
 1. 【[顺磨子转](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_mu_zz_zhun.md#顺磨子转)】`shuen6 mu6 zz zhun5` <small>/suəŋ1 mɤɯ1 t͡sɿ t͡sʊ̃5/<sup>泰兴</sup></small> 顺着磨子转动的方向（逆时针方向）转。排列顺序的一种方法。<sup>\[泰兴\]</sup>  
@@ -2679,8 +2675,7 @@
 1. 【[顺手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_sheu.md#顺手)】`shuen6 sheu3` <small>/suəŋ1 sei3/<sup>如皋</sup>, /suəŋ1 ɕiɤɯ3/<sup>泰兴</sup></small> ① 适于手作<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：这吖摆放操作～。<sup>\[如皋\]</sup> ② 顺带<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰兴\]</sup>：你做事的时候～带啊做下子。<sup>\[如皋\]</sup>｜～带过来啊。<sup>\[如东\]</sup> ③ 顺利无阻<sup>\[如皋\]</sup>：事情办得～。<sup>\[如皋\]</sup> ④ 无意识地<sup>\[如皋\]</sup>：～一带，把个碗打掉啊。<sup>\[如皋\]</sup> ⑤ 向心运动<sup>\[如皋\]</sup>：打～巴掌而不是打季手（反手）巴掌。<sup>\[如皋\]</sup> ⑥ 右手，相对于济手（左手）<sup>\[泰兴\]</sup>  
 1. 【[顺时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_shr.md#顺时)】`shuen6 shr2` <small>/suəŋ1 sɿ2/<sup>泰兴</sup></small> 谓顺应时宜；适时。<sup>\[泰兴\]</sup>  
 1. 【[顺势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_shr.md#顺势)】`shuen6 shr5` <sup>[如东]</sup> 顺着趋势：～一拉就倒啊。  
-1. 【[顺事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_shr.md#顺事)】`shuen6 shr6` <sup>[兴化]</sup> 顺心如意或理所当然的事情，区别于“横事”：“松子，俗话说，‘姐夫续弦小姨子，自家树上摘梨子’，～么，该合了。”（马春阳《姐妹姻缘船迷传》）  
-1. 【[顺事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_shr.md#顺事)】`shuen6 shr6` <small>/suəŋ1 sɿ1/<sup>泰兴</sup></small> 顺便之事。<sup>\[泰兴\]</sup>：鼻屎淌吖嘴里，～<sup>\[泰兴\]</sup>  
+1. 【[顺事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_shr.md#顺事)】`shuen6 shr6` <small>/suən6 sɿ6/<sup>兴化</sup>, /suəŋ1 sɿ1/<sup>泰兴</sup></small> ① 顺心如意或理所当然的事情，区别于“横事”<sup>\[兴化\]</sup>：“松子，俗话说，‘姐夫续弦小姨子，自家树上摘梨子’，～么，该合了。”（马春阳《姐妹姻缘船迷传》）<sup>\[兴化\]</sup> ② 顺便之事。<sup>\[泰兴\]</sup>：鼻屎淌吖嘴里，～<sup>\[泰兴\]</sup>  
 1. 【[顺水人情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_shuei_ren_qien.md#顺水人情)】`shuen6 shuei3 ren2 qien2` ① 不费代价的成人之美的好事<sup>\[东台\]</sup>：我支持他养鸡，对我卖饲料也有好处，～为甚的不做啦！<sup>\[东台\]</sup> ② 利用机会、就势不费力气顺便给人的好处<sup>\[泰州\]</sup>：领导都同意啊，你正好乐得做个顺水人情。<sup>\[泰州\]</sup>  
 1. 【[顺顺戗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_shuen_qian.md#顺顺戗)】`shuen6 shuen6 qian5` <sup>[如皋]</sup> 使之顺戕。  
 1. 【[顺丝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_sz.md#顺丝)】`shuen6 sz1` <sup>[如皋]</sup> 顺着纤维的走向：切牛肉要切丁头丝，不要～切；刨柏木要～，弄不好要皵丝。  
@@ -2881,8 +2876,7 @@
 1. 【[竖蜓星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_tien_xien.md#竖蜓星)】`shv6 tien2 xien1` <sup>[如东]</sup> 竖蜻蜓。两手向下撑地，双脚向上。也称倒立。  
 1. 【[竖叠蛵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_tih_xien.md#竖叠蛵)】`shv6 tih8 xien1` <small>/su1 tʰiʔ8 ɕiŋ1/<sup>泰兴</sup></small> 双手着地倒立的姿态。也作“竖蜻蜓”。<sup>\[泰兴\]</sup>  
 1. 【[竖心帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_xien_ban.md#竖心帮)】`shv6 xien1 ban1` <sup>[如皋]</sup> 竖心旁。  
-1. 【[竖心旁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_xien_pan.md#竖心旁)】`shv6 xien1 pan2` <sup>[兴化]</sup> 汉字偏旁，在左边，形状为“忄”。  
-1. 【[竖心旁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_xien_pan.md#竖心旁)】`shv6 xien1 pan2` <small>/su1 ɕiŋ1 pʰɑŋ2/<sup>泰兴</sup></small> 汉字偏旁之一，形若“忄”。<sup>\[泰兴\]</sup>  
+1. 【[竖心旁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_xien_pan.md#竖心旁)】`shv6 xien1 pan2` <small>/su6 ɕin1 pʰaŋ2/<sup>兴化</sup>, /su1 ɕiŋ1 pʰɑŋ2/<sup>泰兴</sup></small> 汉字偏旁，“忄”。<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>  
 1. 【[竖在](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_zae.md#竖在)】`shv6 zae` <sup>[泰县]</sup> 无论如何，反正：～我要去。  
 1. 【[竖砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_zhun.md#竖砖)】`shv6 zhun1` <sup>[如皋]</sup> 长边向上砌的砖。  
 1. 【[嗾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so.md#嗾)】`so1` <sup>[泰州]</sup> 发出使狗咬人的声音：老远就听见他～啊～的唤狗子。  

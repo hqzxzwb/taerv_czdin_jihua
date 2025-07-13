@@ -354,9 +354,7 @@
 1. 【[𠽫巴瞽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_ba_gv_zz.md#𠽫巴瞽子)】`nga2 ba1 gv3 zz` <sup>[泰州]</sup> 詈骂说话不负责任的人：你这小伙～，这些话就能瞎嚼㖸？  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga.md#□)】`nga3` <sup>[如皋]</sup> 我、我们。如皋东北乡、唐洋、李堡、栟茶、西场一带有此音。  
 1. 【[哑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga.md#哑)】`nga3` <small>/ŋa3/<sup>如皋</sup></small> ① 哑，不能言 ② 嘶哑<sup>\[如皋\]</sup>：碗有啊～声。<sup>\[如皋\]</sup>  
-1. 【[哑巴亏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_ba_kuei.md#哑巴亏)】`nga3 ba kuei1` <sup>[如东]</sup> 吃了亏而不愿说或不能说。  
-1. 【[哑巴亏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_ba_kuei.md#哑巴亏)】`nga3 ba kuei1` <sup>[东台]</sup> ［喻］吃了亏不敢声张。  
-1. 【[哑巴亏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_ba_kuei.md#哑巴亏)】`nga3 ba kuei1` <small>/ŋɑ3 pɑ kʰuəɪ1/<sup>泰兴</sup></small> 指吃了亏不便说或不愿说。<sup>\[泰兴\]</sup>  
+1. 【[哑巴亏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_ba_kuei.md#哑巴亏)】`nga3 ba kuei1` <small>/ŋɑ3 pɑ kʰuəɪ1/<sup>泰兴</sup></small> ① 吃了亏而不愿说或不能说。<sup>\[如东\]</sup> ② ［喻］吃了亏不敢声张。<sup>\[东台\]</sup> ③ 指吃了亏不便说或不愿说。<sup>\[泰兴\]</sup>  
 1. 【[哑巴小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_ba_xio.md#哑巴小)】`nga3 ba xio3` <small>/a3 pa ɕiɔ3/<sup>兴化</sup>, /a3 pa ɕiɔ3/<sup>泰县</sup></small> ① 由于生理缺陷或因病不能说话的人，多指年龄较小者。<sup>\[兴化\]</sup> ② （讽）性格内向，平时少言寡语的人。<sup>\[兴化\]</sup> ③ 哑巴。<sup>\[泰县\]</sup> ④ 怕跟人说话的人。<sup>\[泰县\]</sup>  
 1. 【[哑巴吃黄连——有苦难言](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_ba_qieh_huan.md#哑巴吃黄连——有苦难言)】`nga3 ba1 qieh7 huan2 lin2 ieu3 kv3 naen2 in2` <sup>[东台]</sup>   
 1. 【[哑巴吃饺子——心中有数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_ba_qieh_jio.md#哑巴吃饺子——心中有数)】`nga3 ba1 qieh7 jio3 zz xien1 zhon1 ieu3 shv5` <sup>[东台]</sup>   

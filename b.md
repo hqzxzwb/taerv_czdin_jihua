@@ -936,9 +936,7 @@
 1. 【[背空子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_kon_zz.md#背空子)】`bei1 kon5 zz` <sup>[泰州]</sup> 负债：你借归借，要及时还，千万不能～。  
 1. 【[背累](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_luei.md#背累)】`bei1 luei6` <sup>[东台]</sup> 受别人牵连，遭受伤害。  
 1. 【[背伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_nga_r.md#背伢<sub>儿</sub>)】`bei1 nga2 r` <sup>[如东]</sup> 把小孩驮在背上。  
-1. 【[背纤/背縴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_qin.md#背纤/背縴)】`bei1 qin5` <sup>[兴化]</sup> 把纤绳放在背上拉：过去行船，顺风扯篷，顶风～、用篙、用桨。也称“拉纤”。  
-1. 【[背纤/背縴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_qin.md#背纤/背縴)】`bei1 qin5` <sup>[泰州]</sup> 背着纤绳，人以绳拉船：现在已经望不到人～唻。  
-1. 【[背纤/背縴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_qin.md#背纤/背縴)】`bei1 qin5` <small>/pəɪ1 t͡ɕʰĩ5/<sup>泰兴</sup></small> 以纤绳拉船。<sup>\[泰兴\]</sup>  
+1. 【[背纤/背縴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_qin.md#背纤/背縴)】`bei1 qin5` <small>/pəi1 t͡ɕʰiɪ̃5/<sup>兴化</sup>, /pəɪ1 t͡ɕʰĩ5/<sup>泰兴</sup></small> 用纤绳拉船前进<sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：过去行船，顺风扯篷，顶风～、用篙、用桨。也称“拉纤”。<sup>\[兴化\]</sup>｜现在已经望不到人～唻。<sup>\[泰州\]</sup>  
 1. 【[背锹<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_qio_r.md#背锹<sub>儿</sub>)】`bei1 qio1 r` <small>/pei1 t͡ɕʰiɔ˞1/<sup>如皋</sup></small> ① 锹放在肩头上背着。<sup>\[如东\]</sup> ② 小孩死了，草席包着，用锹柄背着去埋葬。也叫背锹楠子。这是咒骂小孩的话。<sup>\[如东\]</sup>：你这个～，我不打死你！<sup>\[如东\]</sup> ③ 见“㧟锹儿”。<sup>\[如皋\]</sup> ④ 詈、昵语。原意指用鍬背着装了死孩子的“函子”去掩埋。<sup>\[如皋\]</sup>  
 1. 【[背屎笿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_shr_lah_r.md#背屎笿<sub>儿</sub>)】`bei1 shr3 lah8 r` <sup>[如皋]</sup> ① 拾粪。 ② 扛、挑时前轻后重，复以手压前部，称之。 ③ 谑指穿中式裤时裤腰后部离开腰带的样子。  
 1. 【[背死尸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bei_sz_shr.md#背死尸)】`bei1 sz3 shr1` <sup>[东台]</sup> （詈语）指很不愿意背，但又没法拒绝：要我把这吖重的西瓜带到山顶，简直是～。  
@@ -1161,8 +1159,7 @@
 1. 【[丙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien.md#丙)】`bien3` <sup>[东台]</sup> 天干的第三位。  
 1. 【[丙弓理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_gon_li.md#丙弓理)】`bien3 gon1 li3` <sup>[泰县]</sup> 歪理。  
 1. 【[比](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien.md#比)】`bien3` <sup>[如皋]</sup> 比，避讳音，介词：事情做啊成吖功～吃肉总快活些。  
-1. 【[饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien.md#饼)】`bien3` <sup>[如皋]</sup> 量词，计数饼形物品：一～蚊烟香；一～带子。  
-1. 【[饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien.md#饼)】`bien3` <small>/piŋ3/<sup>泰兴</sup></small> 略称豆饼、花生饼等。<sup>\[泰兴\]</sup>  
+1. 【[饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien.md#饼)】`bien3` <small>/piəŋ3/<sup>如皋</sup>, /piŋ3/<sup>泰兴</sup></small> ① 量词，计数饼形物品<sup>\[如皋\]</sup>：一～蚊烟香；一～带子。<sup>\[如皋\]</sup> ② 略称豆饼、花生饼等。<sup>\[泰兴\]</sup>  
 1. 【[饼肥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_fei.md#饼肥)】`bien3 fei2` <sup>[东台]</sup> 豆饼、棉籽饼、菜籽饼、花生饼等肥料的通称。  
 1. 【[饼角<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_gah_r.md#饼角<sub>儿</sub>)】`bien3 gah7 r` <sup>[东台]</sup> 蒸好的饼冷却后，切成薄片晒干贮藏：做活计，最经饥的粮饭就是～。  
 1. 【[饼酱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_jian.md#饼酱)】`bien3 jian5` <small>/piəŋ3 t͡ɕiã5/<sup>如皋</sup></small> ① 调味品。将黄豆或蚕豆等发酵加工制成，绛红色。含有多种氨基酸，味道鲜美，营养丰富，是良好的调味品。也叫豆酱、豆瓣酱。<sup>\[如东\]</sup> ② 用黄豆饼为主做成的酱。<sup>\[如皋\]</sup>  

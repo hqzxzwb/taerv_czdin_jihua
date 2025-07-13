@@ -2,8 +2,7 @@
 **[A](./a.md) | [B](./b.md) | [C](./c.md) | [D](./d.md) | [E](./e.md) | [F](./f.md) | [G](./g.md) | [H](./h.md) | [I](./i.md) | [J](./j.md) | [K](./k.md) | [L](./l.md) | [M](./m.md) | [N](./n.md) | [O](./o.md) | [P](./p.md) | [Q](./q.md) | [R](./r.md) | [S](./s.md) | [T](./t.md) | [U](./u.md) | [V](./v.md) | [X](./x.md) | [Y](./y.md) | [Z](./z.md)**  
 ## P
 1. 【[派司](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_sz.md#派司)】`pa1 sz` <sup>[东台]</sup> ① 英文pass音译。 ② 指出入证、通行证等。 ③ 指通过；准予通过（检查、关卡、考试等）。 ④ 结束：这个事看来要～啊。  
-1. 【[趴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa.md#趴)】`pa1` <sup>[东台]</sup> 胸腹朝下卧倒，或身体往前靠在物体上。  
-1. 【[趴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa.md#趴)】`pa1` <small>/pʰɑ1/<sup>泰兴</sup></small> 手、足、面、胸向下之态。<sup>\[泰兴\]</sup>  
+1. 【[趴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa.md#趴)】`pa1` <small>/pʰɑ1/<sup>泰兴</sup></small> ① 胸腹朝下卧倒，或身体往前靠在物体上。<sup>\[东台\]</sup> ② 手、足、面、胸向下之态。<sup>\[泰兴\]</sup>  
 1. 【[趴啊下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_a_ha.md#趴啊下)】`pa1 a ha` <sup>[如皋]</sup> 趴着。  
 1. 【[趴趴<sub>儿</sub>屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_pa_r_oh.md#趴趴<sub>儿</sub>屋)】`pa1 pa1 r oh7` <sup>[如东]</sup> 一种小型的低矮的小屋，像龟壳一样。  
 1. 【[趴窝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_u.md#趴窝)】`pa1 u1` <sup>[东台]</sup> 家禽伏在窝里不动，［喻］机动车辆失去动力无法前进。  
@@ -231,8 +230,7 @@
 1. 【[肨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan.md#肨)】`pan5` <sup>[如皋]</sup> 浮肿：她肾脏有病，脸发～。  
 1. 【[胖大海](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_da_hae.md#胖大海)】`pan5 da6 hae3` <small>/pʰɑŋ5 tɑ1 xɛ3/<sup>泰兴</sup></small> 落叶乔木。种子可入药，治喉痛、咳嗽、声哑等。<sup>\[泰兴\]</sup>  
 1. 【[胖墩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_den.md#胖墩)】`pan5 den1` <sup>[东台]</sup> 称矮而胖的人，多指儿童。  
-1. 【[胖墩墩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_den_den.md#胖墩墩)】`pan5 den1 den1` <sup>[东台]</sup> 形容人矮胖而结实。  
-1. 【[胖墩墩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_den_den.md#胖墩墩)】`pan5 den1 den1` <small>/pʰɑŋ5 təŋ1 təŋ1/<sup>泰兴</sup></small> 肥胖而壮实。<sup>\[泰兴\]</sup>  
+1. 【[胖墩墩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_den_den.md#胖墩墩)】`pan5 den1 den1` <small>/pʰɑŋ5 təŋ1 təŋ1/<sup>泰兴</sup></small> ① 形容人矮胖而结实。<sup>\[东台\]</sup> ② 肥胖而壮实。<sup>\[泰兴\]</sup>  
 1. 【[胖墩墩的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_den_den_dii.md#胖墩墩的)】`pan5 den1 den1 dii` <sup>[如皋]</sup> 体态丰满的样子。胖胖的。  
 1. 【[胖墩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_den_r.md#胖墩<sub>儿</sub>)】`pan5 den1 r` <sup>[如东]</sup> 矮而胖的人。  
 1. 【[胖㾑㾑的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_duh_duh_dii.md#胖㾑㾑的)】`pan5 duh7 duh7 dii` <small>/pʰã5 tʊʔ7 tʊʔ7 tei/<sup>如皋</sup>, /pʰɑŋ5 tʊʔ7 tʊʔ7 təɪ/<sup>泰兴</sup></small> 体态丰满的样子。胖胖的。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  

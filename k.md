@@ -645,8 +645,7 @@
 1. 【[刳毛芋头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_mo_y_teu.md#刳毛芋头)】`kua2 mo2 y6 teu` <sup>[如皋]</sup> ① 指芋头刮去皮。 ② 比喻男人剃发。  
 1. 【[刳皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_pi.md#刳皮)】`kua2 pi2` <sup>[东台]</sup> ① 刮、削表皮，使之干净。 ② ［引］批评，指责：他捱老板～。  
 1. 【[刳碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_un.md#刳碗)】`kua2 un3` <sup>[泰州]</sup> 用筷子或者汤匙将粘在碗底的食物刮离。  
-1. 【[刳芋头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_y_teu.md#刳芋头)】`kua2 y6 teu` <sup>[东台]</sup> 本指刮芋头皮。也戏称剃头（理发），特指剃光头。  
-1. 【[刳芋头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_y_teu.md#刳芋头)】`kua2 y6 teu` <small>/kʰuɑ2 y1 tʰəɪ/<sup>泰兴</sup></small> 以刀或锋利的硬片将芋头的皮清除掉。<sup>\[泰兴\]</sup>  
+1. 【[刳芋头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_y_teu.md#刳芋头)】`kua2 y6 teu` <small>/kʰuɑ2 y1 tʰəɪ/<sup>泰兴</sup></small> ① 本指刮芋头皮。也戏称剃头（理发），特指剃光头。<sup>\[东台\]</sup> ② 以刀或锋利的硬片将芋头的皮清除掉。<sup>\[泰兴\]</sup>  
 1. 【[侉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua.md#侉)】`kua3` <small>/kʰua3/<sup>兴化</sup>, /kʰua3/<sup>如皋</sup>, /kʰuɑ3/<sup>泰兴</sup></small> ① 办事或说话有些蛮七蛮八。<sup>\[如东\]</sup>：这个人有些儿～。<sup>\[如东\]</sup> ② 粗放、粗犷<sup>\[如皋\]</sup>：她带伢儿带得～。<sup>\[如皋\]</sup> ③ 形容泼辣，没娇气<sup>\[兴化\]</sup>：小二子最～，不怕吃苦。<sup>\[兴化\]</sup> ④ 形容人说话、办事不细致，粗糙、粗鲁。<sup>\[泰兴\]</sup>  
 1. 【[侉饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_bien.md#侉饼)】`kua3 bien3` <small>/kʰua3 piɪ̃3/<sup>兴化</sup>, /kʰua3 piəŋ3/<sup>如皋</sup>, /kʰuɑ3 piŋ3/<sup>泰兴</sup></small> ① 初由山东人在如皋烙的大而厚的甜面饼，切丫儿卖。因而得名。<sup>\[如皋\]</sup> ② 由北方人传入的，在平底锅上烙的又厚又硬的饼，北方人称“锅饼”。又名“杠子饼”。<sup>\[兴化\]</sup> ③ 一种用面粉发酵做成的大而厚的圆饼，须切开方可食。<sup>\[泰兴\]</sup>  
 1. 【[侉搭搭的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kua_daeh_daeh_dii.md#侉搭搭的)】`kua3 daeh7 daeh7 dii` <sup>[如皋]</sup> 见“侉”。  
