@@ -933,6 +933,7 @@
 1. 【[辛苦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_kv.md#辛苦)】`xien1 kv3` <sup>[如东]</sup> ① 身心劳苦：吃～。 ② 套话：你～啊！  
 1. 【[辛苦钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_kv_qin.md#辛苦钱)】`xien1 kv3 qin2` <sup>[如皋]</sup> 辛勤劳动所挣来的钱。  
 1. 【[辛酸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_sun.md#辛酸)】`xien1 sun1` <sup>[如东]</sup> 痛苦悲伤：非常  
+1. 【[形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien.md#形)】`xien2` <small>/ɕin2/<sup>兴化</sup>, /ɕiəŋ2/<sup>如皋</sup>, /ɕiŋ2/<sup>泰兴</sup>, /ɕiŋ2/<sup>泰县</sup></small> （人的）某种形象、样子，接于描述形态的词之后：狠～/凶狠的样子｜狼狈～/狼狈的样子｜呆～/痴呆的形象｜𪨊～｜死～  
 1. 【[形都丧吖净吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_du_san_nga.md#形都丧吖净吖)】`xien2 du1 san5 nga qien6 nga` <sup>[东台]</sup> 严重损害形象，丢尽可了面子：那家伙瞎吹牛，又捱知情人当场反驳，真是～。（参见“丧形”）  
 1. 【[形样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_ian.md#形样)】`xien2 ian6` <sup>[如东]</sup> 形象，样子：看你是个甚的～。  
 1. 【[形势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_shr.md#形势)】`xien2 shr` <sup>[兴化]</sup> 形象、样子：这个小伙不装～，第一次上丈母娘家就喝醉酒。  
@@ -1060,8 +1061,10 @@
 1. 【[杏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_zz.md#杏子)】`xien6 zz` <sup>[如东]</sup> 蔷薇科植物杏的果实。  
 1. 【[休闲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_xiaen.md#休闲)】`xieu1 xiaen2` <sup>[如东]</sup> 休息玩耍：那是一个～的地方。  
 1. 【[休想](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_xian.md#休想)】`xieu1 xian3` <sup>[如东]</sup> ① 不要想：这种空头计划～成功。 ② 不可能：你要一个人去北京，～。  
+1. 【[修](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu.md#修)】`xieu1` <small>/ɕiɤɯ1/<sup>泰兴</sup></small> 修行，常用于：修行（而得到）<sup>\[泰兴\]</sup>：她是前世里～到的<sup>\[泰兴\]</sup>  
 1. 【[修锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_gu.md#修锅)】`xieu1 gu1` <sup>[如皋]</sup> 修补铸铁锅。  
 1. 【[修锅匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_gu_qian.md#修锅匠)】`xieu1 gu1 qian6` <sup>[如皋]</sup> 专门修锅、碗的工匠。  
+1. 【[修锅匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_gu_qian.md#修锅匠)】`xieu1 gu1 qian6` <small>/ɕiɤɯ1 kɤɯ1 t͡ɕʰiɑŋ1/<sup>泰兴</sup></small> 昔时修理坏锅为业的匠人。<sup>\[泰兴\]</sup>  
 1. 【[修好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_ho.md#修好)】`xieu1 ho3` <sup>[兴化]</sup> 见“修善”。  
 1. 【[修脚刀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_jiah_do_r.md#修脚刀<sub>儿</sub>)】`xieu1 jiah7 do1 r` <sup>[如皋]</sup> 俗云：“～，慢慢儿𠛵。”喻用慢功夫对付，或指这种人。  
 1. 【[修理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_li.md#修理)】`xieu1 li3` <sup>[如东]</sup> 使损坏的东西恢复原来的状况和作用：～自行车。  
@@ -1110,7 +1113,7 @@
 1. 【[屑屑<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_xih_r.md#屑屑<sub>儿</sub>)】`xih7 xih7 r` <sup>[如东]</sup> 又细又碎的东西。  
 1. 【[屑子话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_zz_hua.md#屑子话)】`xih7 zz hua6` <sup>[如东]</sup> 无关紧要的言语：那都是一些～。  
 1. 【[揭不开锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_beh_kae_gu.md#揭不开锅)】`xih7 beh7 kae1 gu1` <sup>[如皋]</sup> 断炊。没得吃的了。揭，又音jih7。  
-1. 【[歇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih.md#歇)】`xih7` <small>/ɕiɪʔ7/<sup>兴化</sup>, /ɕiʔ7/<sup>如皋</sup></small> ① 睡觉<sup>\[如皋\]</sup>：今朝晚上～咖这许，明朝再走。<sup>\[如皋\]</sup> ② 睡眠<sup>\[兴化\]</sup>：长老领智深到方丈～了一夜。（《水浒传》四）<sup>\[兴化\]</sup> ③ 休息<sup>\[泰州\]</sup>：你多～两天再上班。<sup>\[泰州\]</sup> ④ 停止<sup>\[泰州\]</sup>：从早上忙到现在都不曾～。<sup>\[泰州\]</sup> ⑤ 放下肩上挑的或者抬的东西<sup>\[泰州\]</sup>：你把担子～咖来。<sup>\[泰州\]</sup>  
+1. 【[歇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih.md#歇)】`xih7` <small>/ɕiɪʔ7/<sup>兴化</sup>, /ɕiʔ7/<sup>如皋</sup></small> ① 睡觉<sup>\[如皋\]</sup><sup>\[兴化\]</sup>：今朝晚上～咖这许，明朝再走。<sup>\[如皋\]</sup>｜长老领智深到方丈～了一夜。（《水浒传》四）<sup>\[兴化\]</sup> ② 休息<sup>\[泰州\]</sup>：你多～两天再上班。<sup>\[泰州\]</sup> ③ 停止<sup>\[泰州\]</sup>：从早上忙到现在都不曾～。<sup>\[泰州\]</sup> ④ 放下肩上挑的或者抬的东西<sup>\[泰州\]</sup>：你把担子～咖来。<sup>\[泰州\]</sup>  
 1. 【[歇咖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_ga_zz.md#歇咖子)】`xih7 ga zz` <sup>[东台]</sup> 歇一下；短时间休息。  
 1. 【[歇觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_go.md#歇觉)】`xih7 go5` <sup>[兴化]</sup> 睡觉：他己经～啊，覅吵！  
 1. 【[歇个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_gu.md#歇个)】`xih7 gu` <sup>[如皋]</sup> 见“早晚”。  

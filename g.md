@@ -629,7 +629,7 @@
 1. 【[勾打连环](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_da_lin_kuaen.md#勾打连环)】`geu1 da lin2 kuaen2` <sup>[兴化]</sup> ① 连结、勾结在起：这起案件从外部到内部～的，不好破。｜他俫沾亲搭故，～的。 ② 拉拉扯扯：果然那姑娘始则还行躲避，后来逐渐熟了，也就～有说有笑。（《广陵潮》二三）  
 1. 【[勾打连环](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_da_lin_kuaen.md#勾打连环)】`geu1 da3 lin2 kuaen2` <sup>[东台]</sup> 形容相互勾结，错综复杂。  
 1. 【[勾搭连环](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_daeh_lin_kuaen.md#勾搭连环)】`geu1 daeh7 lin2 kuaen2` <sup>[泰州]</sup> 双方或多方搭上关系，互相往来：小冯最近同姓陈的～的，不晓得他俫有要搞甚的名堂。｜厂里办公室的这几个人啊，背景～的，同你一时说不清。  
-1. 【[勾刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_do.md#勾刀)】`geu1 do1` <small>/kəɪ1 tɔ1/<sup>泰兴</sup></small> 镰刀类的弯形农具，用于割草或稻禾等。<sup>\[泰兴\]</sup>  
+1. 【[勾刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_do.md#勾刀)】`geu1 do1` <small>/kəɪ1 tɔ1/<sup>泰兴</sup></small> 镰刀类的弯形农具，用于割草或稻禾等。又“～儿”。<sup>\[泰兴\]</sup>  
 1. 【[勾缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_fon.md#勾缝)】`geu1 fon6` <small>/kəɪ1 fɔŋ1/<sup>泰兴</sup></small> 瓦工沿砖缝勾勒填缝，以使墙体牢实美观。<sup>\[泰兴\]</sup>  
 1. 【[勾魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_huen.md#勾魂)】`geu1 huen2` <small>/kəɪ1 xuəŋ2/<sup>泰兴</sup></small> 勾摄魂灵。喻勾引，诱骗（去干不好的事）。贬义。<sup>\[泰兴\]</sup>  
 1. 【[勾肩搭背](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_jin_daeh_bei.md#勾肩搭背)】`geu1 jin1 daeh7 bei5` <small>/kɤ1 t͡ɕiɪ̃1 tæʔ7 pəi5/<sup>兴化</sup>, /kei1 t͡ɕĩ1 teʔ7 pei5/<sup>如皋</sup>, /kəɪ1 t͡ɕĩ1 tæʔ7 pəɪ5/<sup>泰兴</sup></small> ① 贬指互相用手勾住肩背。<sup>\[如皋\]</sup> ② 见“驮肩搭背”。<sup>\[如皋\]</sup> ③ 把手搭在别人的肩上，表示相互关系亲密。<sup>\[东台\]</sup> ④ 互相用手搭着对方的肩膀或背，表示亲呢。‖也说“驮肩搭背”。<sup>\[兴化\]</sup> ⑤ 互相用手搭住对方的肩或背，表示亲热。贬义。<sup>\[泰兴\]</sup>：他佼两个一天到夜～的，有多少好事做啊？<sup>\[泰兴\]</sup>  
@@ -660,6 +660,7 @@
 1. 【[钩刀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_do_r.md#钩刀<sub>儿</sub>)】`geu1 do1 r` <sup>[如皋]</sup> 一种镰刀，刀体短而弯，有库可㲀木柄。  
 1. 【[钩刀子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_do_zz.md#钩刀子)】`geu1 do1 zz` <sup>[兴化]</sup> 一种镰刀，刀身短而弯。  
 1. 【[钩拉<sub>儿</sub>鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_la_r_pieh.md#钩拉<sub>儿</sub>鼻子)】`geu1 la1 r pieh8 zz` <sup>[如皋]</sup> 鹰嘴型鼻子。  
+1. 【[钩屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_shr.md#钩屎)】`geu1 shr3` <small>/kəɪ1 sɿ3/<sup>泰兴</sup></small> 拾粪。<sup>\[泰兴\]</sup>  
 1. 【[枸檵头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_ji_teu_r.md#枸檵头<sub>儿</sub>)】`geu3 ji teu2 r` <sup>[泰州]</sup> 枸杞头部鲜嫩茎叶。  
 1. 【[枸檵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_ji_zz.md#枸檵子)】`geu3 ji5 zz` 枸杞。  
 1. 【[枸杞条子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_qi_tio_zz.md#枸杞条子)】`geu3 qi3 tio2 zz` <small>/kəɪ3 t͡ɕʰʝ3 tʰiɔ2 t͡sɿ/<sup>泰兴</sup></small> 枸杞植株<sup>\[泰兴\]</sup>  

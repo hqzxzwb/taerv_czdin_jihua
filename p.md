@@ -229,11 +229,13 @@
 1. 【[沗头鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_teu_y.md#沗头鱼)】`pan5 teu2 y2` <sup>[东台]</sup> 一种淡水鱼，身体暗黑色，鳞细，头大，眼睛靠近头的下部。学名鳙鱼。  
 1. 【[沗碗<sub>儿</sub>灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_un_r_den.md#沗碗<sub>儿</sub>灯)】`pan5 un3 r den1` <sup>[如皋]</sup> 碗中𣥼油作灯，点燃后置河中漂行。旧时如城七月三十地藏庙庙会有此类灯。  
 1. 【[肨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan.md#肨)】`pan5` <sup>[如皋]</sup> 浮肿：她肾脏有病，脸发～。  
+1. 【[胖大海](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_da_hae.md#胖大海)】`pan5 da6 hae3` <small>/pʰɑŋ5 tɑ1 xɛ3/<sup>泰兴</sup></small> 落叶乔木。种子可入药，治喉痛、咳嗽、声哑等。<sup>\[泰兴\]</sup>  
 1. 【[胖墩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_den.md#胖墩)】`pan5 den1` <sup>[东台]</sup> 称矮而胖的人，多指儿童。  
 1. 【[胖墩墩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_den_den.md#胖墩墩)】`pan5 den1 den1` <sup>[东台]</sup> 形容人矮胖而结实。  
+1. 【[胖墩墩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_den_den.md#胖墩墩)】`pan5 den1 den1` <small>/pʰɑŋ5 təŋ1 təŋ1/<sup>泰兴</sup></small> 肥胖而壮实。<sup>\[泰兴\]</sup>  
 1. 【[胖墩墩的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_den_den_dii.md#胖墩墩的)】`pan5 den1 den1 dii` <sup>[如皋]</sup> 体态丰满的样子。胖胖的。  
 1. 【[胖墩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_den_r.md#胖墩<sub>儿</sub>)】`pan5 den1 r` <sup>[如东]</sup> 矮而胖的人。  
-1. 【[胖㾑㾑的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_duh_duh_dii.md#胖㾑㾑的)】`pan5 duh7 duh7 dii` <sup>[如皋]</sup> 体态丰满的样子。胖胖的。  
+1. 【[胖㾑㾑的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_duh_duh_dii.md#胖㾑㾑的)】`pan5 duh7 duh7 dii` <small>/pʰã5 tʊʔ7 tʊʔ7 tei/<sup>如皋</sup>, /pʰɑŋ5 tʊʔ7 tʊʔ7 təɪ/<sup>泰兴</sup></small> 体态丰满的样子。胖胖的。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
 1. 【[胖狗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_geu_r.md#胖狗<sub>儿</sub>)】`pan5 geu3 r` <sup>[如东]</sup> 肥胖的小狗儿。比喻婴儿健壮活泼：这个伢儿长得像个～。  
 1. 【[胖和合<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_hu_huh_r.md#胖和合<sub>儿</sub>)】`pan5 hu2 huh8 r` <sup>[如皋]</sup> 称肥胖的青少年。  
 1. 【[胖乎乎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_hv_hv.md#胖乎乎)】`pan5 hv1 hv1` <sup>[东台]</sup> 形容人肥胖。  

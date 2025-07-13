@@ -594,6 +594,7 @@
 1. 【[狠声噁气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_shen_vah_qi.md#狠声噁气)】`hen3 shen vah7 qi5` <small>/xəŋ3 səŋ uɑʔ7 t͡ɕʰʝ5/<sup>泰兴</sup></small> 大声叫骂，态度恶劣。<sup>\[泰兴\]</sup>  
 1. 【[狠声恶气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_shen_ngah_qi.md#狠声恶气)】`hen3 shen1 ngah7 qi5` <sup>[东台]</sup> 口声不好，出言吐语气汹汹的样子。又叫“狠声𪙍气”：有话好好说，不要～的。  
 1. 【[狠心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_xien.md#狠心)】`hen3 xien1` <sup>[如东]</sup> 决心：他箇吖～，让人想不到。  
+1. 【[狠形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_xien.md#狠形)】`hen3 xien2` <small>/xəŋ3 ɕiŋ2/<sup>泰兴</sup></small> 凶狠的样子。<sup>\[泰兴\]</sup>  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen.md#□)】`hen5` <small>/xən5/<sup>兴化</sup>, /xəŋ5/<sup>如皋</sup>, /xəŋ5/<sup>泰兴</sup>, /xəŋ5/<sup>泰县</sup></small> 紧紧黏附：他跌咖个跟头，烂泥～吖在衣裳上䢢不掉，污糟煞咖  
 1. 【[䬶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen.md#䬶)】`hen5` <sup>[如皋]</sup> ① 小气：这个人～，你不要想叫他拔一根汗毛儿出来。 ② 过于节俭：他过日子～，一年到头肉总舍不得买一回。 ③ 艰苦积聚：他慢慢儿～，终于～吖一份家业；～气。 ④ 贪：～食。 ⑤ 皮色干瘪：他的脸皮子～的，一点儿不像个少年人。 ⑥ 干瘪，不松脆：萝卜放的时间长吖，发咖～。  
 1. 【[䬶𩞰<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_deh_r.md#䬶𩞰<sub>儿</sub>)】`hen5 deh7-3 r` <sup>[如皋]</sup> 从盛尽的粥锅、面锅中铲起的团团。  

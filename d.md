@@ -1107,6 +1107,7 @@
 1. 【[单寥寥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_lio_lio.md#单寥寥)】`daen1 lio lio` <small>/tɛ̃1 liɔ liɔ/<sup>泰兴</sup></small> 谓单独的，唯一的，在数量上表示只有一个。<sup>\[泰兴\]</sup>  
 1. 【[单料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_lio.md#单料)】`daen1 lio6` <sup>[兴化]</sup> 指器物的用料比较单薄：这个面盆是～的，轻得很。  
 1. 【[单軂軂的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_lo_lo_dii.md#单軂軂的)】`daen1 lo1 lo1 dii` <sup>[如皋]</sup> 单独地、孤单地。  
+1. 【[单门独当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_men_toh_dan.md#单门独当)】`daen1 men2 toh8 dan1` <small>/tɛ̃1 məŋ2 tʰɔʔ8 tɑŋ1/<sup>泰兴</sup></small> 独门独户<sup>\[泰兴\]</sup>  
 1. 【[单门独户](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_men_toh_hv.md#单门独户)】`daen1 men2 toh8 hv6` <sup>[兴化]</sup> ① 在一片地方居住的唯一人家。 ② 在某地区或村庄无同宗人家：姓莫的在庄上是～的。  
 1. 【[单门独院](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_men_toh_iun.md#单门独院)】`daen1 men2 toh8 iun6` <small>/tɛ̃1 mən2 tʰɔʔ8 yũ6/<sup>兴化</sup>, /tẽ1 məŋ2 tʰɔʔ8 yʊ̃1/<sup>如皋</sup></small> ① 一个院落为一户人家。<sup>\[如皋\]</sup> ② 在一门之内只住一户人家。也说“独门独院”。<sup>\[兴化\]</sup> ③ 拥有独立进出的门且由一个家庭居住的院落。<sup>\[泰州\]</sup>  
 1. 【[单片子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_pin_zz.md#单片子)】`daen1 pin5 zz` <sup>[兴化]</sup> ① 旧指单衫：身上穿吖一件～长袍。 ② （借）单程：兴化到深圳，～就是头两千公里。  

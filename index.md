@@ -574,10 +574,14 @@
 1. 【[胎胞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_bo.md#胎胞)】`tae1 bo1` <sup>[兴化]</sup> 胞衣。  
 1. 【[胎谐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_hae.md#胎谐)】`tae1 hae` <small>/tʰɛ1 xɛ/<sup>如皋</sup>, /tʰɛ1 xɛ/<sup>泰兴</sup></small> 好。多用否定或疑问式。<sup>\[泰兴\]</sup>\[如东：吉利，顺利等\]\[东台：有出息有本事守规矩等。\]\[如皋：有出息，还可指事物\]\[泰州：长进，上进，多指人在学问、技艺、品行某一方面有所进步\]：这什衣裳没款式，不～。<sup>\[如皋\]</sup>｜他俫这吖下去会不～的。<sup>\[如东\]</sup>｜这件事不～。<sup>\[如东\]</sup>｜伢儿你要放吖～点儿，争取考个一百分。<sup>\[泰州\]</sup>｜这小伙不～，弄吖在家里偷他家老子的好香烟吃。<sup>\[泰州\]</sup>｜今年雨性不调直，田里长得不～<sup>\[泰兴\]</sup>  
 1. 【[胎货<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_hu_r.md#胎货<sub>儿</sub>)】`tae1 hu5 r` <sup>[如皋]</sup> 新生儿的身块、体重：～大，有8斤。  
+1. 【[胎记](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ji.md#胎记)】`tae1 ji5` <small>/tʰɛ1 t͡ɕʝ5/<sup>泰兴</sup></small> 人一出生身上就有的痕迹。<sup>\[泰兴\]</sup>  
 1. 【[胎里带](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_lii_dae.md#胎里带)】`tae1 lii dae5` <small>/tʰɛ1 ləi tɛ5/<sup>兴化</sup></small> ① 先天性的（毛病）。<sup>\[东台\]</sup> ② 先天的，与生俱来的<sup>\[兴化\]</sup>：他脸上一块黑斑是～的。<sup>\[兴化\]</sup>｜……且他眉心中原有米粒大的一点胭脂㾵，从～来的。（《红楼梦》四）<sup>\[兴化\]</sup>  
+1. 【[胎里带的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_lii_dae_dii.md#胎里带的)】`tae1 lii dae5 dii` <small>/tʰɛ1 ləɪ tɛ5 təɪ/<sup>泰兴</sup></small> 谓与生俱来的体表的印记。<sup>\[泰兴\]</sup>  
 1. 【[胎里病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_lii_pien.md#胎里病)】`tae1 lii pien6` <sup>[如皋]</sup> 通指人或物与生俱来的缺陷、毛病。  
+1. 【[胎毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_mo.md#胎毛)】`tae1 mo2` <small>/tʰɛ1 mɔ2/<sup>泰兴</sup></small> 胎发。婴幼儿未剃过的头发。<sup>\[泰兴\]</sup>  
 1. 【[胎毛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_mo_r.md#胎毛<sub>儿</sub>)】`tae1 mo2 r` <sup>[如皋]</sup> 胎发。  
 1. 【[胎盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_pun.md#胎盘)】`tae1 pun2` <sup>[如东]</sup> 健康人的胎盘，又名紫河车。  
+1. 【[胎气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_qi.md#胎气)】`tae1 qi5` <small>/tʰɛ1 t͡ɕʰʝ5/<sup>泰兴</sup></small> 孕妇气血运行的情况。<sup>\[泰兴\]</sup>  
 1. 【[胎生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_shen.md#胎生)】`tae1 shen1` <sup>[如东]</sup> ① 先天：～如此。 ② 比喻根本：这个人～不好。  
 1. 【[苔啊凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_a_lian.md#苔啊凉)】`tae1 a lian2` <sup>[如皋]</sup> 见“苔凉”。  
 1. 【[苔凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_lian.md#苔凉)】`tae1 lian2` <sup>[如皋]</sup> 回归正常体温：以手试额，额凉如苔，不发热咖，～吖。  

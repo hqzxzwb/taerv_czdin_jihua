@@ -987,6 +987,7 @@
 1. 【[看房基](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_fan_ji.md#看房基)】`kun5 fan2 ji1` <sup>[如东]</sup> 选择建房的地方。  
 1. 【[看风水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_fon_shuei.md#看风水)】`kun5 fon1 shuei3` <small>/kʰʊ̃5 fɔŋ1 suəɪ3/<sup>泰兴</sup></small> ① 选择住宅、坟地的地理形势，叫做看风水。<sup>\[如东\]</sup> ② 根据宅地、坟地的地理位置判定对家族及子女盛衰吉凶的影响。这本来是有一定道理的，但说玄了就有迷信色彩。<sup>\[东台\]</sup> ③ 根据风水学观点，建房、造等要根据地理形势选择吉地，称为“观风水”。传会给家庭及子孙后代带来吉祥，有些方面带有一定迷信色彩。<sup>\[泰兴\]</sup>  
 1. 【[看风下戗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_fon_xia_qian.md#看风下戗)】`kun5 fon1 xia6 qian5` <sup>[如东]</sup> 有什么风，就怎样使篷航行。比喻根据实际情况说话办事。词典作“……弶”：要多动脑子，～。  
+1. 【[看缝下𣜂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_fon_xia_saeh.md#看缝下𣜂)】`kun5 fon6 xia6 saeh7` <small>/kʰʊ̃5 fɔŋ1 ɕiɑ1 ɕiæʔ7/<sup>泰兴</sup></small> 𣜂，木楔。喻根据实际情况，采取不同的措施。<sup>\[泰兴\]</sup>  
 1. 【[看富贵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_fv_guei.md#看富贵)】`kun5 fv5 guei5` <sup>[如东]</sup> 观看死者的尸体。也叫看死人。  
 1. 【[看古黄历](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_gv_huan_lieh.md#看古黄历)】`kun5 gv3 huan2 lieh8` <sup>[泰州]</sup> 比喻抱着过时的陈腐观念。  
 1. 【[看会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_huei.md#看会)】`kun5 huei6` <sup>[兴化]</sup> 观看迎神赛会：我俫这许许多父老乡亲，平时除啊吃茶、打牌，就是到处去～。  
@@ -1029,7 +1030,6 @@
 1. 【[看涨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_zhan.md#看涨)】`kun5 zhan3` <sup>[如东]</sup> 商品迅速涨价：棉花～。  
 1. 【[看中看](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_zhon_kun.md#看中看)】`kun5 zhon kun5` <sup>[兴化]</sup> 互相依赖，互相推托：他家老人生病，几个儿子～，一个也不主动送老人上医院  
 1. 【[看中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_zhon.md#看中)】`kun5 zhon5` <sup>[东台]</sup> 经过观察，感觉合适。  
-1. 【[看缝下𣜂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_fon_xia_saeh.md#看缝下𣜂)】`kun6 fon6 xia6 saeh7` <small>/kʰʊ̃1 fɔŋ1 ɕiɑ1 ɕiæʔ7/<sup>泰兴</sup></small> 𣜂，木楔。喻根据实际情况，采取不同的措施。<sup>\[泰兴\]</sup>  
 1. 【[枯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv.md#枯)】`kv1` <small>/kʰu1/<sup>兴化</sup></small> ① 焦、糊<sup>\[兴化\]</sup>：饭烧～啊；草晒～啊。<sup>\[兴化\]</sup> ② 焦，物体经火烧后呈黄黑色<sup>\[泰州\]</sup>：把饭烧啊～啊。<sup>\[泰州\]</sup>｜家里失咖火，柱子烧啊～啊。<sup>\[泰州\]</sup>  
 1. 【[枯膊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_bah_zz.md#枯膊子)】`kv1 bah7 zz` <sup>[泰县]</sup> 过分肥胖的人：他是个～。  
 1. 【[枯茶色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_cha_seh.md#枯茶色)】`kv1 cha2 seh7` <sup>[兴化]</sup> 像栗子壳那样的颜色。现通称“咖啡色”。  

@@ -1162,6 +1162,7 @@
 1. 【[丙弓理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_gon_li.md#丙弓理)】`bien3 gon1 li3` <sup>[泰县]</sup> 歪理。  
 1. 【[比](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien.md#比)】`bien3` <sup>[如皋]</sup> 比，避讳音，介词：事情做啊成吖功～吃肉总快活些。  
 1. 【[饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien.md#饼)】`bien3` <sup>[如皋]</sup> 量词，计数饼形物品：一～蚊烟香；一～带子。  
+1. 【[饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien.md#饼)】`bien3` <small>/piŋ3/<sup>泰兴</sup></small> 略称豆饼、花生饼等。<sup>\[泰兴\]</sup>  
 1. 【[饼肥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_fei.md#饼肥)】`bien3 fei2` <sup>[东台]</sup> 豆饼、棉籽饼、菜籽饼、花生饼等肥料的通称。  
 1. 【[饼角<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_gah_r.md#饼角<sub>儿</sub>)】`bien3 gah7 r` <sup>[东台]</sup> 蒸好的饼冷却后，切成薄片晒干贮藏：做活计，最经饥的粮饭就是～。  
 1. 【[饼酱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_jian.md#饼酱)】`bien3 jian5` <small>/piəŋ3 t͡ɕiã5/<sup>如皋</sup></small> ① 调味品。将黄豆或蚕豆等发酵加工制成，绛红色。含有多种氨基酸，味道鲜美，营养丰富，是良好的调味品。也叫豆酱、豆瓣酱。<sup>\[如东\]</sup> ② 用黄豆饼为主做成的酱。<sup>\[如皋\]</sup>  
@@ -1170,6 +1171,7 @@
 1. 【[饼刨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_po_zz.md#饼刨子)】`bien3 po6 zz` <sup>[如皋]</sup> 刨豆饼的专用刨子。  
 1. 【[饼<sub>儿</sub>粑<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_r_ba_r.md#饼<sub>儿</sub>粑<sub>儿</sub>)】`bien3 r ba1 r` <sup>[如皋]</sup> 泛指家制饼类。  
 1. 【[饼<sub>儿</sub>花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_r_hua.md#饼<sub>儿</sub>花)】`bien3 r hua1` <sup>[如皋]</sup> 蜀葵。锦葵科。  
+1. 【[饼子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_zz.md#饼子)】`bien3 zz` <small>/piŋ3 t͡sɿ/<sup>泰兴</sup></small> 泛称各种烧饼。<sup>\[泰兴\]</sup>  
 1. 【[并](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien.md#并)】`bien5` <small>/piɪ̃5/<sup>兴化</sup>, /piəŋ5/<sup>如皋</sup>, /piŋ5/<sup>泰县</sup></small> ① 比，比赛<sup>\[如皋\]</sup>：大家一起儿～下子，看哪个快！<sup>\[如皋\]</sup> ② 双方较劲，相持<sup>\[东台\]</sup>：他俫两个拗膀子，～到这刻儿还不分胜负。<sup>\[东台\]</sup> ③ 坚持对立、互不相让<sup>\[兴化\]</sup>：你不答应他的要求，他就跟你～！<sup>\[兴化\]</sup> ④ 倒是，却是<sup>\[泰县\]</sup><sup>\[泰州\]</sup>：我～想去的。<sup>\[泰县\]</sup>｜总以为老赵要在会上讲的，哪晓得老赵一字不曾开口，～是老李讲吖几句。<sup>\[泰州\]</sup>｜人家不曾说你半句不好，～讲你几句好话！<sup>\[泰州\]</sup>  
 1. 【[并本事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_ben_shr.md#并本事)】`bien5 ben3 shr` <sup>[如皋]</sup> 比谁的本领强。  
 1. 【[并堆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bien_duei_r.md#并堆<sub>儿</sub>)】`bien5 duei1 r` <sup>[如皋]</sup> 聚集一起。  

@@ -14,10 +14,14 @@
 1. 【[胎胞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_bo.md#胎胞)】`tae1 bo1` <sup>[兴化]</sup> 胞衣。  
 1. 【[胎谐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_hae.md#胎谐)】`tae1 hae` <small>/tʰɛ1 xɛ/<sup>如皋</sup>, /tʰɛ1 xɛ/<sup>泰兴</sup></small> 好。多用否定或疑问式。<sup>\[泰兴\]</sup>\[如东：吉利，顺利等\]\[东台：有出息有本事守规矩等。\]\[如皋：有出息，还可指事物\]\[泰州：长进，上进，多指人在学问、技艺、品行某一方面有所进步\]：这什衣裳没款式，不～。<sup>\[如皋\]</sup>｜他俫这吖下去会不～的。<sup>\[如东\]</sup>｜这件事不～。<sup>\[如东\]</sup>｜伢儿你要放吖～点儿，争取考个一百分。<sup>\[泰州\]</sup>｜这小伙不～，弄吖在家里偷他家老子的好香烟吃。<sup>\[泰州\]</sup>｜今年雨性不调直，田里长得不～<sup>\[泰兴\]</sup>  
 1. 【[胎货<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_hu_r.md#胎货<sub>儿</sub>)】`tae1 hu5 r` <sup>[如皋]</sup> 新生儿的身块、体重：～大，有8斤。  
+1. 【[胎记](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ji.md#胎记)】`tae1 ji5` <small>/tʰɛ1 t͡ɕʝ5/<sup>泰兴</sup></small> 人一出生身上就有的痕迹。<sup>\[泰兴\]</sup>  
 1. 【[胎里带](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_lii_dae.md#胎里带)】`tae1 lii dae5` <small>/tʰɛ1 ləi tɛ5/<sup>兴化</sup></small> ① 先天性的（毛病）。<sup>\[东台\]</sup> ② 先天的，与生俱来的<sup>\[兴化\]</sup>：他脸上一块黑斑是～的。<sup>\[兴化\]</sup>｜……且他眉心中原有米粒大的一点胭脂㾵，从～来的。（《红楼梦》四）<sup>\[兴化\]</sup>  
+1. 【[胎里带的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_lii_dae_dii.md#胎里带的)】`tae1 lii dae5 dii` <small>/tʰɛ1 ləɪ tɛ5 təɪ/<sup>泰兴</sup></small> 谓与生俱来的体表的印记。<sup>\[泰兴\]</sup>  
 1. 【[胎里病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_lii_pien.md#胎里病)】`tae1 lii pien6` <sup>[如皋]</sup> 通指人或物与生俱来的缺陷、毛病。  
+1. 【[胎毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_mo.md#胎毛)】`tae1 mo2` <small>/tʰɛ1 mɔ2/<sup>泰兴</sup></small> 胎发。婴幼儿未剃过的头发。<sup>\[泰兴\]</sup>  
 1. 【[胎毛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_mo_r.md#胎毛<sub>儿</sub>)】`tae1 mo2 r` <sup>[如皋]</sup> 胎发。  
 1. 【[胎盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_pun.md#胎盘)】`tae1 pun2` <sup>[如东]</sup> 健康人的胎盘，又名紫河车。  
+1. 【[胎气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_qi.md#胎气)】`tae1 qi5` <small>/tʰɛ1 t͡ɕʰʝ5/<sup>泰兴</sup></small> 孕妇气血运行的情况。<sup>\[泰兴\]</sup>  
 1. 【[胎生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_shen.md#胎生)】`tae1 shen1` <sup>[如东]</sup> ① 先天：～如此。 ② 比喻根本：这个人～不好。  
 1. 【[苔啊凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_a_lian.md#苔啊凉)】`tae1 a lian2` <sup>[如皋]</sup> 见“苔凉”。  
 1. 【[苔凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_lian.md#苔凉)】`tae1 lian2` <sup>[如皋]</sup> 回归正常体温：以手试额，额凉如苔，不发热咖，～吖。  
@@ -1689,7 +1693,7 @@
 1. 【[道地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_ti.md#道地)】`to6 ti6` <sup>[如皋]</sup> 地道。  
 1. 【[道道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_to.md#道道)】`to6 to6` <sup>[泰州]</sup> 处置方法或者处理技术：他说咖半天，也不曾说出个～来。｜他做主任这吖些年，没得点～怎吖行吖。  
 1. 【[道学](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_xiah.md#道学)】`to6 xiah` <sup>[东台]</sup> 道理。东台堤西地区一些人的说法。  
-1. 【[溻湿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_sheh.md#溻湿)】`toh7 sheh7` <sup>[如皋]</sup> 湿透了。  
+1. 【[溻湿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_sheh.md#溻湿)】`toh7 sheh7` <small>/tʰɔʔ7 səʔ7/<sup>如皋</sup>, /tʰɔʔ7 səʔ7/<sup>泰兴</sup></small> 湿透了。<sup>\[如皋\]</sup>\[泰兴：又toh7 toh7 sheh7\]  
 1. 【[秃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh.md#秃)】`toh7` <small>/tʰɔʔ7/<sup>兴化</sup>, /tʰɔʔ7/<sup>如皋</sup></small> ① 减：一斤～一两；竹堆子的总～点儿。<sup>\[如皋\]</sup> ② 减少。<sup>\[如东\]</sup>：～去2元。<sup>\[如东\]</sup> ③ 减掉<sup>\[兴化\]</sup>：十个～去两个，还剩八个。<sup>\[兴化\]</sup> ④ 物体被磨损<sup>\[泰州\]</sup>：这把大斧的口～咖唻，要磨下子。<sup>\[泰州\]</sup> ⑤ 砍去<sup>\[泰州\]</sup>：30多棵杨树夜里捱人家～掉啊。<sup>\[泰州\]</sup> ⑥ 缩减，去除<sup>\[泰州\]</sup>：一共30个人，～去请假的两个人，还有28个人。<sup>\[泰州\]</sup>  
 1. 【[秃膀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_ban.md#秃膀)】`toh7 ban3` 被截去手或者部分上肢的胳膊<sup>\[泰州\]</sup>：打鬼子的时候他膀子受啊重伤，当时不曾有药治，反手现在成吖～。<sup>\[泰州\]</sup>  
 1. 【[秃膀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_ban_r.md#秃膀<sub>儿</sub>)】`toh7 ban3 r` <sup>[泰县]</sup> 一只手臂残废。  
@@ -1730,20 +1734,23 @@
 1. 【[独怀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_huae.md#独怀)】`toh8 huae2` <sup>[兴化]</sup> 婴儿习惯于某一个人照料：小明捱他奶奶领吖～，到其他人手上就大哭大闹。  
 1. 【[独脚髈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_jiah_pan_r.md#独脚髈<sub>儿</sub>)】`toh8 jiah7 pan3 r` <sup>[如皋]</sup> 只有一条健全腿的肢残者。  
 1. 【[独脚戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_jiah_xi.md#独脚戏)】`toh8 jiah7 xi5` <sup>[泰州]</sup> ① 不用配角，只有一个演员演出的戏。 ② 独自一人而无帮手做某事：单位上就他一个领导，一个人唱～。  
+1. 【[独脚戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_jiah_xi.md#独脚戏)】`toh8 jiah7 xi5` <small>/tʰɔʔ8 t͡ɕiɑʔ7 ɕʝ5/<sup>泰兴</sup></small> 不用配角，单独演戏。比喻一人单独行事。<sup>\[泰兴\]</sup>  
 1. 【[独乐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_lah.md#独乐)】`toh8 lah8` <sup>[东台]</sup> 一人行乐：司马相如《上林赋》｜“务在～，不顾众庶。”  
-1. 【[独门独院](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_men_toh_iun.md#独门独院)】`toh8 men2 toh8 iun6` <small>/tʰɔʔ8 mən2 tʰɔʔ8 yũ6/<sup>兴化</sup></small> ① 单独居住的房屋院落。<sup>\[东台\]</sup> ② 一个门内只住一户人家<sup>\[兴化\]</sup>：他老家三间一厨房，～。<sup>\[兴化\]</sup>  
+1. 【[独门独院](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_men_toh_iun.md#独门独院)】`toh8 men2 toh8 iun6` <small>/tʰɔʔ8 mən2 tʰɔʔ8 yũ6/<sup>兴化</sup>, /tʰɔʔ8 məŋ2 tʰɔʔ8 yʊ̃1/<sup>泰兴</sup></small> ① 单独居住的房屋院落。<sup>\[东台\]</sup> ② 一个门内只住一户人家<sup>\[兴化\]</sup>：他老家三间一厨房，～。<sup>\[兴化\]</sup> ③ 谓一家独住一处房舍。<sup>\[泰兴\]</sup>  
 1. 【[独木桥上唱戏——心宽路不宽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_moh_qio_shan.md#独木桥上唱戏——心宽路不宽)】`toh8 moh8 qio2 shan chan5 xi5 xien1 kun1 lv6 beh7 kun1` <sup>[东台]</sup>   
 1. 【[独眼龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_ngaen_lon.md#独眼龙)】`toh8 ngaen3 lon2` <sup>[泰州]</sup> 瞎了一只眼睛的人。  
+1. 【[独眼龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_ngaen_lon.md#独眼龙)】`toh8 ngaen3 lon2` <small>/tʰɔʔ8 ŋɛ̃3 lɔŋ2/<sup>泰兴</sup></small> 只有一只眼管用的人。<sup>\[泰兴\]</sup>  
 1. 【[独眼龙看戏——一目了然](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_ngaen_lon_kun.md#独眼龙看戏——一目了然)】`toh8 ngaen3 lon2 kun5 xi5 ieh7 moh8 lio3 rin2` <sup>[东台]</sup>   
 1. 【[独巧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_qio.md#独巧)】`toh8 qio3` <small>/tʰɔʔ8 t͡ɕʰiɔ3/<sup>兴化</sup>, /tʰɔʔ8 t͡ɕʰiɔ3/<sup>如皋</sup>, /tʰɔʔ8 t͡ɕʰiɔ3/<sup>泰兴</sup>, /tʰɔʔ8 t͡ɕʰiɔ3/<sup>泰县</sup></small> ① 十分凑巧<sup>\[如皋\]</sup>：他朝朝总在家里，～你今朝来他出去啊！<sup>\[如皋\]</sup> ② 恰巧、偏偏<sup>\[兴化\]</sup>：早不落雨，晚不落雨，～出去旅游它落起雨来啊。<sup>\[兴化\]</sup> ③ 碰巧<sup>\[泰县\]</sup>：他今朝～不曾来。<sup>\[泰县\]</sup> ④ 恰巧。<sup>\[泰兴\]</sup>  
 1. 【[独食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_sheh.md#独食)】`toh8 sheh8` <sup>[如皋]</sup> ① 指药。 ② 不与别人共享的食物。  
+1. 【[独食盆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_sheh_pen.md#独食盆)】`toh8 sheh8 pen2` <small>/tʰɔʔ8 səʔ8 pʰəŋ2/<sup>泰兴</sup></small> 只有一个人享受的饮食起居等方面的利益。<sup>\[泰兴\]</sup>  
 1. 【[独手<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_sheu_r.md#独手<sub>儿</sub>)】`toh8 sheu3 r` <sup>[如皋]</sup> 只有一只手的肢残者。  
 1. 【[独扇子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_shin_zz.md#独扇子)】`toh8 shin5 zz` <sup>[兴化]</sup> 指一副门框或一个门膛内只有一扇门：他家大门、堂屋门都是对开，房门是～。‖也作“独扇门”。  
 1. 【[独市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_shr.md#独市)】`toh8 shr6` <small>/tʰɔʔ8 sɿ6/<sup>兴化</sup>, /tʰɔʔ8 sɿ1/<sup>如皋</sup></small> 独家经营。<sup>\[如皋\]</sup>\[泰州：一定地域之内，只有一家商店营业\]\[兴化：仅有一处销售点\]：这种牌子的香烟别家没有，只有他家卖～。<sup>\[兴化\]</sup>｜全庄就是一爿小商店，卖的～。<sup>\[兴化\]</sup>｜这条街上只有他家一家～杂货店。<sup>\[泰州\]</sup>  
 1. 【[独睡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_shuei_r.md#独睡<sub>儿</sub>)】`toh8 shuei r` <sup>[如皋]</sup> 单人卧具：～床、～被单。  
 1. 【[独睡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_shuei_zz.md#独睡子)】`toh8 shuei5 zz` <sup>[兴化]</sup> 单人床及与之配套的席和蚊账等：～床｜～席子。  
 1. 【[独蒜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_sun.md#独蒜)】`toh8 sun5` <sup>[东台]</sup> 一个大蒜不像通常含有多个蒜瓣，只有一个整果。  
-1. 【[独吞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_ten.md#独吞)】`toh8 ten1` <small>/tʰɔʔ8 tʰəŋ1/<sup>如皋</sup></small> ① 大家的财富被一人占有。<sup>\[如皋\]</sup> ② 自己一人独占。<sup>\[如东\]</sup>：这些东西你不能～。<sup>\[如东\]</sup>  
+1. 【[独吞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_ten.md#独吞)】`toh8 ten1` <small>/tʰɔʔ8 tʰəŋ1/<sup>如皋</sup>, /tʰɔʔ8 tʰəŋ1/<sup>泰兴</sup></small> ① 大家的财富被一人占有。<sup>\[如皋\]</sup> ② 自己一人独占。<sup>\[如东\]</sup>：这些东西你不能～。<sup>\[如东\]</sup> ③ 谓利益为一个人所占有。<sup>\[泰兴\]</sup>  
 1. 【[独独](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_toh.md#独独)】`toh8 toh8` <small>/tʰɔʔ8 tʰɔʔ8/<sup>兴化</sup>, /tʰɔʔ8 tʰɔʔ8/<sup>如皋</sup></small> ① 唯有、唯一。即唯独。<sup>\[如皋\]</sup> ② 偏偏<sup>\[兴化\]</sup>：几万人中只有一个特等奖，～捱他得咖去啊。<sup>\[兴化\]</sup>  
 1. 【[独独的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_toh_dii.md#独独的)】`toh8 toh8 dii` <sup>[如皋]</sup> 见“独独”。  
 1. 【[独种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_zhon.md#独种)】`toh8 zhon3` <small>/tʰɔʔ8 t͡soŋ3/<sup>兴化</sup></small> ① 独根苗，对独生子女的戏称。<sup>\[兴化\]</sup> ② 家族或者家庭之中只有一个孩子<sup>\[泰州\]</sup>：他家三房就佮咖这吖一个～。<sup>\[泰州\]</sup>  

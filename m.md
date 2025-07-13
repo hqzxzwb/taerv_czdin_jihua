@@ -1640,6 +1640,7 @@
 1. 【[目目相蠚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_moh_xian_hah.md#目目相蠚)】`moh8 moh8 xian5 hah7` <sup>[东台]</sup> 指某物品制作精细，各部件之间无缝对接。（目，大项中的小项；蠚，靠近）  
 1. 【[目无尊长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_v_zuen_zhan.md#目无尊长)】`moh8 v2 zuen1 zhan3` <sup>[东台]</sup> 不把长辈放在眼里，形容狂妄无礼。  
 1. 【[穆色布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_seh_bv.md#穆色布)】`moh8 seh7 bv5` <sup>[如皋]</sup> 蓝灰色布。常用于戴孝。  
+1. 【[脉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh.md#脉)】`moh8` <small>/mɔʔ8/<sup>泰兴</sup></small> 血管；脉搏、脉息。<sup>\[泰兴\]</sup>  
 1. 【[脉金](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_jien.md#脉金)】`moh8 jien1` <sup>[东台]</sup> 旧时给中医看病的酬金。  
 1. 【[脉窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_ku.md#脉窠)】`moh8 ku1` <sup>[如皋]</sup> 腕关节处。内侧供诊脉。  
 1. 【[脉窠拐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_ku_guae_r.md#脉窠拐<sub>儿</sub>)】`moh8 ku1 guae3 r` <sup>[如皋]</sup> 尺骨下端的凸起。  
