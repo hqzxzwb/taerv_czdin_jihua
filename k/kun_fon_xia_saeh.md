@@ -1,4 +1,4 @@
 # 看缝下𣜂
-kun6 fon6 xia6 saeh7
+kun5 fon6 xia6 saeh7
 + 𣜂，木楔。喻根据实际情况，采取不同的措施。
   * 泰兴方言辞典
