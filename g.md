@@ -1665,13 +1665,14 @@
 1. 【[癸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei.md#癸)】`guei3` <sup>[东台]</sup> 天干第十位。  
 1. 【[诡嘘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_xy.md#诡嘘)】`guei3 xy1` <sup>[泰州]</sup> 没有道理或者不合情理的话：你不要听他～，根本没得这回事。｜这个人就落咖～，加工资这件事人事局的文还不曾下唻。  
 1. 【[……鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei.md#……鬼)】`guei3` <sup>[东台]</sup> 用在句末表示对前面内容的否定：好个～（不好）｜睬你个～（不理睬你）。  
-1. 【[鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei.md#鬼)】`guei3` <small>/kuəi3/<sup>兴化</sup>, /kuei3/<sup>如皋</sup></small> ① 吝啬 ② 人死后的灵魂。<sup>\[如东\]</sup> ③ 狡猾。<sup>\[如东\]</sup>：这个人～啊交关。<sup>\[如东\]</sup> ④ 不大方<sup>\[如皋\]</sup>：他～啊死啊，一钱如命！<sup>\[如皋\]</sup> ⑤ 狡猾<sup>\[如皋\]</sup>：他～得交关，你不要想瞒得过他！<sup>\[如皋\]</sup> ⑥ 除本意外，指小气、吝啬。<sup>\[东台\]</sup> ⑦ 狡猾、不光明<sup>\[兴化\]</sup>：这个家伙行事～得很，害怕见人。<sup>\[兴化\]</sup>｜好事不瞒人，你又做甚的～事啊？<sup>\[兴化\]</sup> ⑧ 吝啬<sup>\[兴化\]</sup>：她～得凶哎！结婚连个喜糖也舍不得分。<sup>\[兴化\]</sup>  
+1. 【[鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei.md#鬼)】`guei3` <small>/kuəi3/<sup>兴化</sup>, /kuei3/<sup>如皋</sup>, /kuəɪ3/<sup>泰兴</sup></small> ① 人死后的灵魂。<sup>\[如东\]</sup> ② 狡猾。<sup>\[如东\]</sup><sup>\[如皋\]</sup>：这个人～啊交关。<sup>\[如东\]</sup>｜他～得交关，你不要想瞒得过他！<sup>\[如皋\]</sup> ③ 狡猾、不光明<sup>\[兴化\]</sup>：这个家伙行事～得很，害怕见人。<sup>\[兴化\]</sup>｜好事不瞒人，你又做甚的～事啊？<sup>\[兴化\]</sup> ④ 吝啬，不大方<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：他～啊死啊，一钱如命！<sup>\[如皋\]</sup>｜她～得凶哎！结婚连个喜糖也舍不得分。<sup>\[兴化\]</sup>｜箇个人～煞咖lei<sup>\[泰兴\]</sup> ⑤ 对人的蔑称，指人心术不正<sup>\[泰兴\]</sup>：那个～没得什的了不起。<sup>\[泰兴\]</sup>  
 1. 【[鬼巴啬眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_ba_seh_ngaen.md#鬼巴啬眼)】`guei3 ba seh7 ngaen3` <sup>[兴化]</sup> 吝啬、出手太小：这个人做事～的，请八个客，一共捧出三样菜。  
 1. 【[鬼把戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_ba_xi.md#鬼把戏)】`guei3 ba3 xi5` <sup>[泰州]</sup> 比喻阴险手段或者捉弄人的诡计：你这点儿～捱人识破啊就不值钱唻。  
+1. 【[鬼把戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_ba_xi.md#鬼把戏)】`guei3 ba3 xi5` <small>/kuəɪ3 pɑ3 ɕʝ5/<sup>泰兴</sup></small> 阴险的手段，伎俩；暗中捉弄人的手段。<sup>\[泰兴\]</sup>  
 1. 【[鬼不搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_beh_daeh.md#鬼不搭)】`guei3 beh7 daeh7` <sup>[泰州]</sup> 连鬼也不愿意搭理，比喻人缘极差的人：这丫头是个～，没得一个人同她啰唆。  
 1. 【[鬼笔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_bieh.md#鬼笔)】`guei3 bieh7` <sup>[如东]</sup> 鬼笔科植物细皱鬼笔。  
 1. 【[鬼吵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_cho.md#鬼吵)】`guei3 cho3` <sup>[泰州]</sup> 詈语，骂人大声吵闹：这两个人着实犯对，稍微有不对就～唻。  
-1. 【[鬼召](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_cho.md#鬼召)】`guei3 cho6` <small>/kuəi3 t͡sʰɔ6/<sup>兴化</sup></small> ① （詈语）乱喊乱叫。<sup>\[东台\]</sup> ② 斥人大声叫喊（原文作“鬼吵”，声调不合）<sup>\[兴化\]</sup>  
+1. 【[鬼召](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_cho.md#鬼召)】`guei3 cho6` <small>/kuəi3 t͡sʰɔ6/<sup>兴化</sup>, /kuəɪ3 t͡sʰɔ1/<sup>泰兴</sup></small> ① （詈语）乱喊乱叫。<sup>\[东台\]</sup> ② 斥人大声叫喊<sup>\[兴化\]</sup> ③ 大哭大叫，吵嚷。<sup>\[泰兴\]</sup>  
 1. 【[鬼召呐喊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_cho_naeh_haen.md#鬼召呐喊)】`guei3 cho6 naeh8 haen3` <sup>[泰州]</sup> 声嘶力竭地喊叫：这小伙是个甚的坯料，动不动就～的。  
 1. 【[鬼施坏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_chr_huae.md#鬼施坏)】`guei3 chr1 huae6` <sup>[东台]</sup> 用鬼主意使坏。  
 1. 【[鬼打更](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_da_gen.md#鬼打更)】`guei3 da3 gen1` <sup>[兴化]</sup> （喻）胡乱，没定准的事：“……我家卖茶，叫做～。三年前六月初三下雪的那一日，卖了一个泡茶，直到如今不发市……”（《水浒传》二四）  
@@ -1682,61 +1683,76 @@
 1. 【[鬼屌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_dio_r.md#鬼屌<sub>儿</sub>)】`guei3 dio3 r` <sup>[东台]</sup> 是对一些小气鬼的蔑称。  
 1. 【[鬼倒肏邪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_do_reh_qia.md#鬼倒肏邪)】`guei3 do reh8 qia2` <small>/kuəi3 tɔ ləʔ8 t͡ɕʰia2/<sup>兴化</sup>, /kuəɪ3 tɔ ɻyəʔ8 t͡ɕʰia2/<sup>泰县</sup></small> ① 歪门邪道<sup>\[泰县\]</sup>：不要看他～的，还真能赚到钱。<sup>\[泰县\]</sup> ② 指歪门邪道<sup>\[兴化\]</sup>：而今～的反而弄到钱。<sup>\[兴化\]</sup>  
 1. 【[鬼倒肏邪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_do_reh_qia.md#鬼倒肏邪)】`guei3 do5 reh8 qia2` <sup>[泰州]</sup> ① 比喻不正当的手段、途径：这些～的事不能做，到临了肯定没得好果子吃。 ② 鬼鬼祟祟的样子：成天～的，到底是怎吖回事？  
-1. 【[鬼风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_fon.md#鬼风)】`guei3 fon1` <sup>[如皋]</sup> 小的旋风：迷信者认为烧纸化库时产生的小旋风是鬼来抢钱。  
+1. 【[鬼风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_fon.md#鬼风)】`guei3 fon1` <small>/kuei3 fɔŋ1/<sup>如皋</sup>, /kuəɪ3 fɔŋ1/<sup>泰兴</sup></small> 小的旋风<sup>\[泰兴\]</sup>\[如皋：迷信者认为烧纸化库时产生的小旋风是鬼来抢钱。\]  
 1. 【[鬼家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_ga.md#鬼家)】`guei3 ga` <sup>[如皋]</sup> 地名，如皋长庄乡的一个自然村。  
+1. 【[鬼啯鬼啯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_goh_guei_goh.md#鬼啯鬼啯)】`guei3 goh7 guei3 goh7` <small>/kuəɪ3 kɔʔ7 kuəɪ3 kɔʔ7/<sup>泰兴</sup></small> 谓窃窃私语。贬语。<sup>\[泰兴\]</sup>  
 1. 【[鬼郭捣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_guah_do_r.md#鬼郭捣<sub>儿</sub>)】`guei3 guah7 do3 r` <sup>[东台]</sup> 鬼名堂、鬼花招的意思。  
 1. 【[鬼鬼祟祟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_guei_suei_suei.md#鬼鬼祟祟)】`guei3 guei3 suei5 suei5` <sup>[如东]</sup> 偷偷摸摸。  
 1. 【[鬼鬼魆魆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_guei_xyeh_xyeh.md#鬼鬼魆魆)】`guei3 guei3 xyeh7 xyeh7` <sup>[东台]</sup> 举止言谈躲躲闪闪，鬼鬼祟祟，不慷慨大方。  
 1. 【[鬼还有三个交好的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_hae_ieu_saen.md#鬼还有三个交好的)】`guei3 hae2 ieu3 saen1 gu jio1 ho3 dii` <sup>[东台]</sup> 素质再差的人也有朋友，涉及相关人事要谨慎。  
 1. 【[鬼喊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_haen.md#鬼喊)】`guei3 haen5` <sup>[兴化]</sup> 斥人大声叫喊：将胡通手股一勒，勒得胡通鬼喊（《八窍珠》第九回）  
-1. 【[鬼火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_hu.md#鬼火)】`guei3 hu3` ① 坟场上的磷火，后喻意背后出坏主意叫“点鬼火”。<sup>\[东台\]</sup> ② 夜晚时在墓地出现的绿色磷光，迷信者以为是鬼点的灯<sup>\[泰州\]</sup>：他在乡里荒田心里望见过～。<sup>\[泰州\]</sup> ③ 指没有理由、没有原因的无名火<sup>\[泰州\]</sup>：只要望见他就是一头的～。<sup>\[泰州\]</sup>  
+1. 【[鬼嚎/鬼号](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_ho.md#鬼嚎/鬼号)】`guei3 ho2` <small>/kuəɪ3 xɔ2/<sup>泰兴</sup></small> 大声怪叫；叫喊哭闹。<sup>\[泰兴\]</sup>  
+1. 【[鬼火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_hu.md#鬼火)】`guei3 hu3` <small>/kuəɪ3 xɤɯ3/<sup>泰兴</sup></small> ① 坟场上的磷火，后喻意背后出坏主意叫“点鬼火”。<sup>\[东台\]</sup> ② 夜晚时在墓地出现的绿色磷光，迷信者以为是鬼点的灯<sup>\[泰州\]</sup>：他在乡里荒田心里望见过～。<sup>\[泰州\]</sup> ③ 指没有理由、没有原因的无名火<sup>\[泰州\]</sup>：只要望见他就是一头的～。<sup>\[泰州\]</sup> ④ 磷火。迷信者以为是幽灵之火，故称。<sup>\[泰兴\]</sup>  
 1. 【[鬼花头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_hua_teu.md#鬼花头)】`guei3 hua1 teu` <sup>[兴化]</sup> 阴险、不正的手段：他只要达到目的，甚的～总玩得出来。  
 1. 【[鬼花头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_hua_teu.md#鬼花头)】`guei3 hua1 teu2` ① 不光明正大的计谋。<sup>\[东台\]</sup> ② 阴险手段或者暗中捉弄人的诡计<sup>\[泰州\]</sup>：只要望他脸上笑嘻嘻的，肯定就有～。<sup>\[泰州\]</sup>  
 1. 【[鬼画符](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_hua_fv.md#鬼画符)】`guei3 hua6 fv2` ① 写字潦草，难以辨认。<sup>\[东台\]</sup> ② ［喻］办事毛糙，质量差。<sup>\[东台\]</sup> ③ 乱画，瞎画。又音guei3 hua6 hv2。<sup>\[如东\]</sup>：他根本不会写字，他在下～。<sup>\[如东\]</sup> ④ 比喻写字潦草拙劣<sup>\[泰州\]</sup>：他心不通吖这高头，就是写字也是～。<sup>\[泰州\]</sup>  
 1. 【[鬼画三符](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_hua_saen_fv.md#鬼画三符)】`guei3 hua6 saen1 fv2` <sup>[泰县]</sup> 变换手法骗人的意思：你覅听他～的。  
 1. 【[鬼话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_hua.md#鬼话)】`guei3 hua6` <sup>[泰州]</sup> ① 谎言，不可相信的话：你不要相信他说的这些～。 ② 悄悄说的不让他人知晓的话：这两个人又躲啊后头说～去唻。  
+1. 【[鬼话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_hua.md#鬼话)】`guei3 hua6` <small>/kuəɪ3 xuɑ1/<sup>泰兴</sup></small> 谎话；胡话<sup>\[泰兴\]</sup>  
 1. 【[鬼坏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_huae.md#鬼坏)】`guei3 huae6` <small>/kuəi3 xuɛ6/<sup>兴化</sup></small> ① 形容聪明、机灵、点子多<sup>\[兴化\]</sup>：小孙子～，三言两语就把奶奶逗笑啊。<sup>\[兴化\]</sup> ② 人表面忠厚讷言，实质工于心计<sup>\[泰州\]</sup>：这个马马儿平时不多说话，一副老实样子，其实她骨子里～。<sup>\[泰州\]</sup>  
 1. 【[鬼摇三四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_io_saen_sz.md#鬼摇三四)】`guei3 io saen1 sz5` <small>/kuəɪ3 iɔ ɕiɛ̃1 sɿ5/<sup>泰兴</sup></small> 装腔作势，故弄玄虚。类似于“变鬼”。<sup>\[泰兴\]</sup>：张三出去蹲吖几年，现在跟本乡人也～的说普通话。<sup>\[泰兴\]</sup>  
 1. 【[鬼精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_jien.md#鬼精)】`guei3 jien1` <sup>[泰州]</sup> 为人处世算计特别精明而不肯吃一点小亏的人：这小伙是个～，不会得把便宜你占。  
 1. 【[鬼节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_jih.md#鬼节)】`guei3 jih7` <sup>[如皋]</sup> 习俗中主祭祀的节日。主要有：清明、七月半、十月朝、小冬。  
+1. 【[鬼节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_jih.md#鬼节)】`guei3 jih7` <small>/kuəɪ3 t͡ɕiʔ7/<sup>泰兴</sup></small> 乡人谓清明、农历七月半、冬至三大祭祀先人的节日为鬼节。<sup>\[泰兴\]</sup>  
 1. 【[鬼抲鬼抲的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_ka_guei_ka.md#鬼抲鬼抲的)】`guei3 ka1 guei3 ka1 dii` <sup>[东台]</sup> 行为神秘，不大气。  
+1. 【[鬼柳杨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_lieu_ian.md#鬼柳杨)】`guei3 lieu3 ian2` <small>/kuəɪ3 ləɪ3 iɑŋ2/<sup>泰兴</sup></small> 杨树的一种。乡间俗称。<sup>\[泰兴\]</sup>  
 1. 【[鬼里鬼气的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_lii_guei_qi.md#鬼里鬼气的)】`guei3 lii guei3 qi5 dii` <sup>[如皋]</sup> 小气者，不大方的样子。  
 1. 【[鬼里鬼屑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_lii_guei_xiuh.md#鬼里鬼屑)】`guei3 lii guei3 xiuh7` <sup>[兴化]</sup> 形容言行鬼祟：有话摆上桌面子，覅～的。  
 1. 【[鬼里鬼祟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_lii_guei_xiuh.md#鬼里鬼祟)】`guei3 lii guei3 xiuh7` <sup>[泰州]</sup> “鬼祟”的生动形式，做事不光明正大：你家小伙这两天～的，不晓得弄甚的东西。  
 1. 【[鬼里鬼魆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_lii_guei_xyeh.md#鬼里鬼魆)】`guei3 lii guei3 xyeh7` <sup>[泰县]</sup> 鬼鬼祟祟：这个人～的，一点不正派。  
+1. 【[鬼脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_lin.md#鬼脸)】`guei3 lin3` <small>/kuəɪ3 lĩ3/<sup>泰兴</sup></small> 滑稽的面部表情。<sup>\[泰兴\]</sup>  
 1. 【[鬼脸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_lin_r.md#鬼脸<sub>儿</sub>)】`guei3 lin3 r` <sup>[如东]</sup> ① 面具：上街匄伢儿买个～。 ② 做丑脸儿：他在下做～。  
 1. 【[鬼脸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_lin_zz.md#鬼脸子)】`guei3 lin3 zz` <small>/kuəi3 liɪ̃3 t͡sɿ/<sup>兴化</sup></small> ① 某些孕妇或重病人面部的深褐斑。<sup>\[兴化\]</sup> ② 仿照戏曲中的人物脸谱制成的面具。<sup>\[泰州\]</sup> ③ 比喻人故意挤眉弄眼，龇牙咧嘴做出的滑稽或丑恶的面部表情<sup>\[泰州\]</sup>：做～。<sup>\[泰州\]</sup>  
 1. 【[鬼捞啬洼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_lo_seh_va.md#鬼捞啬洼)】`guei3 lo1 seh7 va1` <sup>[东台]</sup> ［喻］非常小气，办事鬼鬼祟祟的样子。  
+1. 【[鬼捞拾搲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_lo_sheh_va.md#鬼捞拾搲)】`guei3 lo2 sheh8 va3` <small>/kuəɪ3 lɔ2 səʔ8 uɑ3/<sup>泰兴</sup></small> 谓不管做什么总要沾人一点、拿一点东西。喜欢揩油。小气。<sup>\[泰兴\]</sup>  
 1. 【[鬼佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_lo_r.md#鬼佬<sub>儿</sub>)】`guei3 lo3 r` <sup>[东台]</sup> 小气吝啬的人。  
 1. 【[鬼弄鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_lon_guei.md#鬼弄鬼)】`guei3 lon6 guei3` <sup>[泰州]</sup> 背着他人鬼鬼祟祟搞名堂的样子：你这两天在房间里～的，在下弄甚的？  
 1. 【[鬼马刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_ma_do.md#鬼马刀)】`guei3 ma do1` <sup>[泰州]</sup> ① （泰州词典作“鬼门道”） ② 阴险想法或者邪恶打算：他这人不是吃亏的人，底下他的些～有得同你玩唻。｜他是甚的人，你以为他不晓得你玩的～，他不曾同你点吖破啊吧。  
 1. 【[鬼眯鬼眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_mi_guei_ngaen.md#鬼眯鬼眼)】`guei3 mi1 guei3 ngaen3` <small>/kuəɪ3 mɿ1 kuəɪ3 ɛ̃3/<sup>泰县</sup></small> ① 不大方，不气派。<sup>\[如东\]</sup>：这个人～的，不晓得要做甚的。<sup>\[如东\]</sup> ② 不明显。<sup>\[如东\]</sup>：桃树上长吖一个疤，～的，哪个看得见吖。<sup>\[如东\]</sup> ③ 不明显。<sup>\[泰县\]</sup> ④ 体积很小。<sup>\[泰县\]</sup> ⑤ 不气派<sup>\[泰县\]</sup>：这点礼～的，怎吖好意思送吖把人家。<sup>\[泰县\]</sup>  
 1. 【[鬼眉鬼眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_mi_guei_ngaen.md#鬼眉鬼眼)】`guei3 mi2 guei3 ngaen3` <sup>[泰州]</sup> ① 人瘦小猥琐的样子：这丫头～的样子，你家小伙看不上。 ② 规模不大：他也就这吖大的出息，弄个厂也是～的。 ③ 数量很少或者体积很小：她这个小气鬼子，弄吖这点儿菜，～，弄得人家筷子都不敢伸。  
+1. 【[鬼迷路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_mi_lv.md#鬼迷路)】`guei3 mi2 lv6` <small>/kuəɪ3 mʝ2 lu1/<sup>泰兴</sup></small> 指黑夜迷路，老在一个地方打转。又称“鬼打墙”。<sup>\[泰兴\]</sup>  
 1. 【[鬼迷心窍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_mi_xien_qio.md#鬼迷心窍)】`guei3 mi2 xien1 qio5` <sup>[如东]</sup> 被假话迷住了头脑：他与走私贩子混吖一起，真是～！  
-1. 【[鬼麦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_moh.md#鬼麦)】`guei3 moh8` <small>/kuei3 mɔʔ8/<sup>如皋</sup></small> ① 麦作物的黑粉菌病株及孢子体。<sup>\[如皋\]</sup> ② 有黑穗病的麦，生病麦穗变成黑粉，隔着苞叶可见黑色粉团。<sup>\[泰州\]</sup>  
+1. 【[鬼麦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_moh.md#鬼麦)】`guei3 moh8` <small>/kuei3 mɔʔ8/<sup>如皋</sup>, /kuəɪ3 mɔʔ8/<sup>泰兴</sup></small> ① 麦作物的黑粉菌病株及孢子体。<sup>\[如皋\]</sup> ② 有黑穗病的麦，生病麦穗变成黑粉，隔着苞叶可见黑色粉团。<sup>\[泰州\]</sup> ③ 有黑穗病的麦子。<sup>\[泰兴\]</sup>  
 1. 【[鬼食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_sheh.md#鬼食)】`guei3 sheh8` ① ［喻］食品分量少。<sup>\[东台\]</sup> ② 乍看起来体积不小而实际可食用部分很少的食品<sup>\[泰州\]</sup>：癞葡萄是个～，剥咖来里头没得甚的肉子。<sup>\[泰州\]</sup>  
 1. 【[鬼声鬼气的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_shen_guei_qi.md#鬼声鬼气的)】`guei3 shen1 guei3 qi5 dii` <sup>[如皋]</sup> 状说话的腔调难听。  
 1. 【[鬼手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_sheu.md#鬼手)】`guei3 sheu3` <sup>[兴化]</sup> 形容手又脏又冷。  
 1. 【[鬼势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_shr.md#鬼势)】`guei3 shr5` <sup>[泰县]</sup> 鬼样，泰县方言志作“鬼似”：你相相你这个～，家去换身衣装。  
 1. 【[鬼势样子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_shr_ian_zz.md#鬼势样子)】`guei3 shr5 ian6 zz` <sup>[泰州]</sup> 猥琐不大气的样子：他就这个～，听说还是个科长唻。｜这种～的青菜，你也要两块一斤。  
 1. 【[鬼事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_shr.md#鬼事)】`guei3 shr6` <small>/kuəi3 sɿ6/<sup>兴化</sup></small> ① 瞒人的事<sup>\[兴化\]</sup>：好事不瞒人，你覅在家里做这些～。<sup>\[兴化\]</sup> ② 比喻鬼鬼祟祟、见不得人的事<sup>\[泰州\]</sup>：你不要以为你做这些～旁人不晓得。<sup>\[泰州\]</sup>  
+1. 【[鬼市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_shr.md#鬼市)】`guei3 shr6` <small>/kuəɪ3 sɿ1/<sup>泰兴</sup></small> 多在夜间经营、经营时间较短的市场。<sup>\[泰兴\]</sup>  
 1. 【[鬼头街](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_teu_gae.md#鬼头街)】`guei3 teu gae1` <sup>[如皋]</sup> 地名，在丁堰镇西三里处。是1946年苏中战役之皋南丁林两次战斗的主战场。  
 1. 【[鬼头文章的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_teu_ven_zhan.md#鬼头文章的)】`guei3 teu ven2 zhan1 dii` <sup>[如皋]</sup> 不大方，小家子气十足的样子。  
+1. 【[鬼头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_teu.md#鬼头)】`guei3 teu2` <small>/kuəɪ3 tʰəɪ2/<sup>泰兴</sup></small> 骂人语。吝啬鬼。<sup>\[泰兴\]</sup>  
 1. 【[鬼头鬼脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_teu_guei_no.md#鬼头鬼脑)】`guei3 teu2 guei3 no3` ① 偷偷摸摸，躲躲闪闪。<sup>\[如东\]</sup>：这个人～的，不晓得想做甚的。<sup>\[如东\]</sup> ② 办事小气，捧不上台面。<sup>\[东台\]</sup>  
 1. 【[鬼头蛮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_teu_maen_zz.md#鬼头蛮子)】`guei3 teu2 maen2 zz` <sup>[东台]</sup> 对素质低的人的蔑称。  
 1. 【[鬼头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_teu_r.md#鬼头<sub>儿</sub>)】`guei3 teu2 r` <sup>[如东]</sup> 爱出坏主意的人：他是一个～，你要当心。  
 1. 【[鬼豆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_teu_r.md#鬼豆<sub>儿</sub>)】`guei3 teu6 r` <small>/kuei3 tʰei˞1/<sup>如皋</sup>, /kuəɪ3 tʰɤɯ1 ɚ/<sup>泰县</sup></small> ① 狡猾的人。<sup>\[如东\]</sup>：他是个～，经常捉弄人。<sup>\[如东\]</sup> ② 吝啬的人。<sup>\[如东\]</sup>：这个人像个～，小气啊没魂。<sup>\[如东\]</sup> ③ 吝啬小气者。<sup>\[如皋\]</sup> ④ 小气，不大方。<sup>\[东台\]</sup> ⑤ 吝啬的人<sup>\[泰县\]</sup>：她是个～。<sup>\[泰县\]</sup>  
 1. 【[鬼豆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_teu_zz.md#鬼豆子)】`guei3 teu6 zz` <sup>[兴化]</sup> ① 毛囊脓肿。 ② （借）吝啬的人：她是个～，小钱也啬不出一个来。  
 1. 【[鬼剃头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_ti_teu.md#鬼剃头)】`guei3 ti5 teu2` <sup>[如东]</sup> 头发突然脱落，多为神经性突然脱发。  
+1. 【[鬼剃头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_ti_teu.md#鬼剃头)】`guei3 ti5 teu2` <small>/kuəɪ3 t͡ɕʰʝ5 tʰəɪ2/<sup>泰兴</sup></small> 斑秃的俗称。<sup>\[泰兴\]</sup>  
 1. 【[鬼套头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_to_teu.md#鬼套头)】`guei3 to5 teu2` <sup>[如东]</sup> 一种棉帽，圆筒形，套在头上，把头、脸遮起来保暖，上部有月牙孔，露出两只眼睛观看外面。  
 1. 【[鬼驼驼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_tu_tu_r.md#鬼驼驼<sub>儿</sub>)】`guei3 tu2 tu2 r` <sup>[如东]</sup> 爱出坏主意而又胆小怕事的人：王老太是个～。  
+1. 【[鬼五鬼六](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_v_guei_loh.md#鬼五鬼六)】`guei3 v3 guei3 loh8` <small>/kuəɪ3 ʋ3 kuəɪ3 lɔʔ8/<sup>泰兴</sup></small> 犹鬼鬼祟祟，背着人干事。<sup>\[泰兴\]</sup>  
 1. 【[鬼画符](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_va_fv.md#鬼画符)】`guei3 va6 fv2` <sup>[如皋]</sup> 踢毽子的一种技法：单脚画过未落下的毽子然后踢起。熟练者可连踢数个。  
+1. 【[鬼画符](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_va_fv.md#鬼画符)】`guei3 va6 fv2` <small>/kuəɪ3 uɑ1 fʋ2/<sup>泰兴</sup></small> 比喻写字不讲究，乱涂乱画。<sup>\[泰兴\]</sup>  
 1. 【[鬼味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_vei.md#鬼味)】`guei3 vei6` <sup>[如皋]</sup> 奇怪的味、难闻的味。  
 1. 【[鬼相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_xian.md#鬼相)】`guei3 xian5` <sup>[兴化]</sup> 见“鬼形”。  
+1. 【[鬼心思重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_xien_sz_chon.md#鬼心思重)】`guei3 xien1 sz chon6` <small>/kuəɪ3 ɕiŋ1 sɿ t͡sʰɔŋ1/<sup>泰兴</sup></small> 不放心他人；不正当的心思挂在心头。<sup>\[泰兴\]</sup>  
 1. 【[鬼蛵蛉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_xien_lien_r.md#鬼蛵蛉<sub>儿</sub>)】`guei3 xien1 lien r` <sup>[如皋]</sup> 蚁蛉，翅黑色，飞行时扑动如蝶。  
 1. 【[鬼形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_xien.md#鬼形)】`guei3 xien2` <small>/kuəi3 ɕin2/<sup>兴化</sup>, /kuei3 ɕiəŋ2/<sup>如皋</sup></small> ① 难看的样子。<sup>\[如皋\]</sup> ② 猥琐难看的样子<sup>\[兴化\]</sup>：覅看他这个～样子，他还喜欢出头露面哎！<sup>\[兴化\]</sup> ③ 装出滑稽相逗人笑。‖也作“鬼相”。<sup>\[兴化\]</sup> ④ 指怪异、丑陋、猥琐的样子<sup>\[泰州\]</sup>：你望他穿吖件𣻏(xio1，薄)褂子，动得这个～样子。<sup>\[泰州\]</sup>  
 1. 【[鬼形样子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_xien_ian_zz.md#鬼形样子)】`guei3 xien2 ian6 zz` <sup>[东台]</sup> 鬼头鬼脑，形象可憎。也称鬼式、鬼势。  
 1. 【[鬼形架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_xien_jia_zz.md#鬼形架子)】`guei3 xien2 jia5 zz` <sup>[如皋]</sup> 难看的样子。  
+1. 【[鬼魆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_xyeh.md#鬼魆)】`guei3 xyeh7` <small>/kuəɪ3 ɕyəʔ7/<sup>泰兴</sup></small> 不光明正大。<sup>\[泰兴\]</sup>  
 1. 【[鬼玉米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_y_mi.md#鬼玉米)】`guei3 y6 mi` <sup>[如皋]</sup> 玉米黑粉菌病株及孢子体。  
 1. 【[鬼针草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_zhen_co.md#鬼针草)】`guei3 zhen1 co3` <sup>[如东]</sup> 菊科植物鬼针草，一年生草本。  
 1. 【[鬼爪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_zhua_zz.md#鬼爪子)】`guei3 zhua3 zz` <sup>[兴化]</sup> 形容手又冷又脏：小家伙这双～冻得冰冷彻骨的。也称“鬼手”。  

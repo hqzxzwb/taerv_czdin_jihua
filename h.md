@@ -329,6 +329,7 @@
 1. 【[匣小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haeh_xio.md#匣小)】`haeh8 xio3` <sup>[泰县]</sup> （禁忌语）小孩。  
 1. 【[匣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haeh_zz.md#匣子)】`haeh8 zz` <small>/xæʔ8 t͡sɿ/<sup>兴化</sup>, /xæʔ8 t͡se/<sup>泰县</sup></small> ① 装东西的盒子。<sup>\[东台\]</sup> ② 有盖的木盒。<sup>\[兴化\]</sup> ③ 装物用具。<sup>\[泰县\]</sup> ④ 装殓小孩的小棺材<sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[东台\]</sup>\[兴化：一种粗劣的小棺材。借来咒骂小孩\]：～；野～；纳～。<sup>\[兴化\]</sup>  
 1. 【[狭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haeh.md#狭)】`haeh8` 窄  
+1. 【[狭狭<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haeh_haeh_r.md#狭狭<sub>儿</sub>)】`haeh8 haeh r, haeh8 3 r` <small>/xæʔ8 xæ˞/<sup>泰兴</sup></small> 狭窄，狭小；宽度小。<sup>\[泰兴\]</sup>  
 1. 【[狭𣻏脸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haeh_xio_lin_r.md#狭𣻏脸<sub>儿</sub>)】`haeh8 xio1 lin3 r` <sup>[东台]</sup> 瘦而长的脸。  
 1. 【[𢜩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen.md#𢜩)】`haen1` <small>/xɛ̃1/<sup>兴化</sup>, /xẽ1/<sup>如皋</sup>, /xɛ̃1/<sup>泰县</sup></small> ① 笨拙、慢<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup>：她做事，手脚～。<sup>\[如东\]</sup>｜年纪大啊做事～吖。<sup>\[如皋\]</sup>｜他太～。<sup>\[东台\]</sup>｜这个小伙～头～脑的。<sup>\[兴化\]</sup>｜他做事非常～。<sup>\[泰县\]</sup> ② 耗费（时间）<sup>\[如皋\]</sup>：～工夫。<sup>\[如皋\]</sup>｜～啊你多少晚的时间，真不好意思！<sup>\[如皋\]</sup> ③ 呆滞、怕动<sup>\[兴化\]</sup>：他一天到晚～吖家里。<sup>\[兴化\]</sup>  
 1. 【[𢜩面筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_min_jien.md#𢜩面筋)】`haen1 min6 jien1` <sup>[泰县]</sup> 说话拖泥带水的人：这个人是个～，你不要跟他说。  
@@ -1700,7 +1701,7 @@
 1. 【[皇帝的妈妈——太后（厚）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_di_dii_ma.md#皇帝的妈妈——太后（厚）)】`huan2 di dii ma1 ma1 tae5 heu6` <sup>[如皋]</sup>   
 1. 【[皇帝是假，福气是真](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_di_shr_jia.md#皇帝是假，福气是真)】`huan2 di shr6 jia3 foh7 qi5 shr6 zhen1` <sup>[东台]</sup> 地位并不重要，生活幸福才真值得追求。  
 1. 【[皇粮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_lian.md#皇粮)】`huan2 lian2` <sup>[东台]</sup> 借旧时说法，指由国家提供的经费：公务员是吃～的人，理当秉公办事。  
-1. 【[皇历](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_lieh.md#皇历)】`huan2 lieh8` ① 历书，也称“黄历”<sup>\[东台\]</sup>：要与时俱进，不能老翻旧～。<sup>\[东台\]</sup> ② 俗称日历，封建时代历书由钦天监编制，皇帝鉴定以后颁布使用，故名。又以封面黄纸，而称黄历。<sup>\[泰州\]</sup>  
+1. 【[皇历/黄历](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_lieh.md#皇历/黄历)】`huan2 lieh8` <small>/xuɑŋ2 liʔ8/<sup>泰兴</sup></small> ① 历书<sup>\[东台\]</sup><sup>\[泰兴\]</sup>：要与时俱进，不能老翻旧～。<sup>\[东台\]</sup> ② 俗称日历，封建时代历书由钦天监编制，皇帝鉴定以后颁布使用，故名。又以封面黄纸，而称黄历。<sup>\[泰州\]</sup>  
 1. 【[皇天白日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_tin_poh_rih.md#皇天白日)】`huan2 tin1 poh8 rih8` <sup>[如东]</sup> 天气晴朗：～，带甚的雨伞！  
 1. 【[皇岸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_un.md#皇岸)】`huan2 un6` <sup>[如东]</sup> 宋孝宗赵昚乾道七年（1171年），泰州知州徐子寅兴工修筑海堤，令沿海各盐场官员，分别在所属地境筑堤御潮。自海安旧场起，东接洋口、环港、长沙，经掘港至花市街以西3公里的九总桥（古岸头）。全长47.5公里。百姓称皇岸。因西接范公堤，也称范公堤。  
 1. 【[艎板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_baen.md#艎板)】`huan2 baen3` <small>/xuaŋ2 pɛ̃3/<sup>兴化</sup>, /xuã2 pẽ3/<sup>如皋</sup></small> 盖舱船板\[泰州：盖在大船船舱上的木板。\]\[如皋：盖舱的横板。\]\[兴化：覆盖船舱的板\]：那艄公便去～底下摸出那把明晃晃板刀来……（《水浒传》三七）<sup>\[兴化\]</sup>｜谚曰：逮到鱼～也会说话。<sup>\[兴化\]</sup>  

@@ -136,6 +136,7 @@
 1. 【[大蒜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_sun.md#大蒜)】`tae6 sun5` <small>/tʰɛ1 sʊ̃/<sup>泰兴</sup>, /tʰe1 sõ5/<sup>泰县</sup></small> 大蒜。<sup>\[泰县\]</sup><sup>\[泰兴\]</sup>  
 1. 【[待慢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_maen.md#待慢)】`tae6 maen6` <sup>[泰州]</sup> 待慢，接待人不周到。  
 1. 【[待媒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_mei.md#待媒)】`tae6 mei2` <sup>[兴化]</sup> 宴请媒人，表示谢意：媒人在婚前及喜日是受人尊重的。无论贫富，请家要请吃三顿酒，请媒酒、～酒和谢媒酒。（马春阳《扬州水乡婚俗散记》）  
+1. 【[待媒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_mei.md#待媒)】`tae6 mei2` <small>/tʰɛ1 məɪ2/<sup>泰兴</sup></small> 民俗。招待媒人。多指新婚前的主要的一次。<sup>\[泰兴\]</sup>  
 1. 【[待女](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ny.md#待女)】`tae6 ny3` <sup>[东台]</sup> 姑娘出嫁前一天的酒席。这一天男方称“暖轿”。  
 1. 【[待匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_qian.md#待匠)】`tae6 qian6` <sup>[东台]</sup> 指工程竣工，招待工匠：房子明吖～。  
 1. 【[怠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#怠)】`tae6` <sup>[兴化]</sup> （借）松懈：这件事就是他～下来的。  
@@ -1591,6 +1592,7 @@
 1. 【[淘屎板子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_shr_baen_zz.md#淘屎板子)】`to2 shr3 baen3 zz` <sup>[东台]</sup> ［喻］指非常淘气的孩子。  
 1. 【[逃啊跑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_a_po.md#逃啊跑)】`to2 a po2` <sup>[如东]</sup> 迅速地向前跑。偷偷地出走。  
 1. 【[逃反](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_faen.md#逃反)】`to2 faen3` <sup>[如东]</sup> 逃难：日本鬼子来啊，群众总～走啊。  
+1. 【[逃学](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_hah.md#逃学)】`to2 hah8` <small>/tʰɔ2 xɑʔ8/<sup>泰兴</sup></small> 无故不上学，旷课。<sup>\[泰兴\]</sup>  
 1. 【[逃荒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_huan.md#逃荒)】`to2 huan1` <sup>[如东]</sup> 因遇灾荒而逃往外地去。  
 1. 【[逃命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_mien.md#逃命)】`to2 mien6` <sup>[如东]</sup> 躲避危险。  
 1. 【[逃难](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_naen.md#逃难)】`to2 naen6` ① 为躲避灾难而逃往别处。<sup>\[如东\]</sup> ② 旧时常遇兵匪、水患、敌机轰炸，为避伤害，民众纷纷～。<sup>\[东台\]</sup>  
@@ -1716,9 +1718,10 @@
 1. 【[毒心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_xien.md#毒心)】`toh8 xien1` <small>/tʰɔʔ8 ɕiəŋ1/<sup>如皋</sup></small> ① 让人操心，不听话。令人讨厌的。 ② 狠毒：这个人～，你要注意点儿。<sup>\[如皋\]</sup> ③ 常作补语，表程度深：骂得～！打得～！<sup>\[如皋\]</sup> ④ 狠心。可恨。<sup>\[如东\]</sup>：蚊子叮人，才～哎。<sup>\[如东\]</sup>  
 1. 【[独膀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_ban_r.md#独膀<sub>儿</sub>)】`toh8 ban3 r` <sup>[如皋]</sup> 只有一只健全手臂的肢残者。  
 1. 【[独自](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_cz.md#独自)】`toh8 cz6` <sup>[如东]</sup> 单独一个人：我～去。  
-1. 【[独凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_den.md#独凳)】`toh8 den5` <small>/tʰɔʔ8 tən5/<sup>兴化</sup></small> 一个人坐的凳子。<sup>\[东台\]</sup>\[兴化：也称“一人凳”。\]\[泰州：相对“大凳”而言。\]  
+1. 【[独凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_den.md#独凳)】`toh8 den5` <small>/tʰɔʔ8 tən5/<sup>兴化</sup>, /tʰɔʔ8 təŋ5/<sup>泰兴</sup></small> 一个人坐的凳子。<sup>\[东台\]</sup>\[兴化：也称“一人凳”。\]\[泰兴：单人坐的稍高的凳子。\]\[泰州：相对“大凳”而言。\]  
 1. 【[独凳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_den_r.md#独凳<sub>儿</sub>)】`toh8 den5 r` <sup>[如皋]</sup> 单人高凳。  
 1. 【[独端](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_dun.md#独端)】`toh8 dun1` <sup>[兴化]</sup> 独自占有：他是两房唯一的伢儿了，所有财产由他～。  
+1. 【[独端](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_dun.md#独端)】`toh8 dun1` <small>/tʰɔʔ8 tʊ̃1/<sup>泰兴</sup></small> 独占，一个人占有全部东西。<sup>\[泰兴\]</sup>  
 1. 【[独家门楼子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_ga_men_leu.md#独家门楼子)】`toh8 ga men2 leu2 zz` <sup>[兴化]</sup> 一片地段唯一的人家：他家住啊街南的一户～里。  
 1. 【[独角戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_gah_xi.md#独角戏)】`toh8 gah7 xi5` <sup>[东台]</sup> ① 不用配角独演全戏。 ② ［喻］一人行事，无人配合。也作“独脚戏”。  
 1. 【[独个<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_gu_r.md#独个<sub>儿</sub>)】`toh8 gu r` <sup>[如东]</sup> 单独一个人：我～去北京。  
@@ -1732,7 +1735,7 @@
 1. 【[独木桥上唱戏——心宽路不宽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_moh_qio_shan.md#独木桥上唱戏——心宽路不宽)】`toh8 moh8 qio2 shan chan5 xi5 xien1 kun1 lv6 beh7 kun1` <sup>[东台]</sup>   
 1. 【[独眼龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_ngaen_lon.md#独眼龙)】`toh8 ngaen3 lon2` <sup>[泰州]</sup> 瞎了一只眼睛的人。  
 1. 【[独眼龙看戏——一目了然](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_ngaen_lon_kun.md#独眼龙看戏——一目了然)】`toh8 ngaen3 lon2 kun5 xi5 ieh7 moh8 lio3 rin2` <sup>[东台]</sup>   
-1. 【[独巧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_qio.md#独巧)】`toh8 qio3` <small>/tʰɔʔ8 t͡ɕʰiɔ3/<sup>兴化</sup>, /tʰɔʔ8 t͡ɕʰiɔ3/<sup>如皋</sup>, /tʰɔʔ8 t͡ɕʰiɔ3/<sup>泰县</sup></small> ① 十分凑巧：他朝朝总在家里，～你今朝来他出去啊！<sup>\[如皋\]</sup> ② 恰巧、偏偏<sup>\[兴化\]</sup>：早不落雨，晚不落雨，～出去旅游它落起雨来啊。<sup>\[兴化\]</sup> ③ 碰巧：他今朝～不曾来。<sup>\[泰县\]</sup>  
+1. 【[独巧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_qio.md#独巧)】`toh8 qio3` <small>/tʰɔʔ8 t͡ɕʰiɔ3/<sup>兴化</sup>, /tʰɔʔ8 t͡ɕʰiɔ3/<sup>如皋</sup>, /tʰɔʔ8 t͡ɕʰiɔ3/<sup>泰兴</sup>, /tʰɔʔ8 t͡ɕʰiɔ3/<sup>泰县</sup></small> ① 十分凑巧<sup>\[如皋\]</sup>：他朝朝总在家里，～你今朝来他出去啊！<sup>\[如皋\]</sup> ② 恰巧、偏偏<sup>\[兴化\]</sup>：早不落雨，晚不落雨，～出去旅游它落起雨来啊。<sup>\[兴化\]</sup> ③ 碰巧<sup>\[泰县\]</sup>：他今朝～不曾来。<sup>\[泰县\]</sup> ④ 恰巧。<sup>\[泰兴\]</sup>  
 1. 【[独食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_sheh.md#独食)】`toh8 sheh8` <sup>[如皋]</sup> ① 指药。 ② 不与别人共享的食物。  
 1. 【[独手<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_sheu_r.md#独手<sub>儿</sub>)】`toh8 sheu3 r` <sup>[如皋]</sup> 只有一只手的肢残者。  
 1. 【[独扇子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_shin_zz.md#独扇子)】`toh8 shin5 zz` <sup>[兴化]</sup> 指一副门框或一个门膛内只有一扇门：他家大门、堂屋门都是对开，房门是～。‖也作“独扇门”。  

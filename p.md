@@ -302,6 +302,7 @@
 1. 【[盆<sub>儿</sub>鲳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pen_r_chan.md#盆<sub>儿</sub>鲳)】`pen2 r chan1` <sup>[如东]</sup> 大鲳鳊鱼，称盆儿鲳。  
 1. 【[盆汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pen_tan.md#盆汤)】`pen2 tan1` <sup>[东台]</sup> 旧式澡堂里专设的澡盆沐浴的项目，比“池汤”雅洁。  
 1. 【[盆桶店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pen_ton_din.md#盆桶店)】`pen2 ton3 din5` <sup>[如皋]</sup> 制作和销售杉木盆桶的店家。有时属嫁妆店的支店。  
+1. 【[盆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pen_zz.md#盆子)】`pen2 zz` <small>/pʰəŋ2 t͡sɿ/<sup>泰兴</sup></small> 口大底小的较浅的盛器。<sup>\[泰兴\]</sup>  
 1. 【[𢅯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pen.md#𢅯)】`pen2` <sup>[东台]</sup> 布袋因容物太多而裂开，木质盆桶因干燥或断箍而解体。（《说文·巾部》“𢅯，扶忿切，以囊盛谷，太满坼裂也。”）：袋子塞得太满，快要～开来啊。  
 1. 【[喷喷香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pen_pen_xian.md#喷喷香)】`pen5 pen5 xian1` <sup>[泰州]</sup> ① 食物香气极为浓郁：才起锅的韭菜黄炒长鱼，～，把你俫下酒没得话说。 ② 比喻受到他人重视：他有一手好技术，走到哪个单位都～。  
 1. 【[喷喷香的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pen_pen_xian_dii.md#喷喷香的)】`pen5 pen5 xian1 dii` <sup>[如皋]</sup> 很香，阵阵香气扑鼻。  

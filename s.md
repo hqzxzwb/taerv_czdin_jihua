@@ -1231,12 +1231,14 @@
 1. 【[食不重餐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_beh_chon_caen.md#食不重餐)】`sheh8 beh7 chon2 caen1` <sup>[兴化]</sup> 用过主餐后不再吃第二顿：覅客气，～，我已经吃过啊。  
 1. 【[食肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_chan.md#食肠)】`sheh8 chan` 食量，依次进食的饭量<sup>\[泰州\]</sup>：他俫少年人的～大，你要多弄几个菜。<sup>\[泰州\]</sup>  
 1. 【[食肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_chan.md#食肠)】`sheh8 chan2` <sup>[兴化]</sup> 指食量：那呆子真个～大｜看他不抬头，一连就吃有十数碗。（《西游记》二十）｜这位六老爷本来～甚大……。（《施公案》九三）人名  
+1. 【[食槽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_co.md#食槽)】`sheh8 co2` <small>/səʔ8 t͡sʰɔ2/<sup>泰兴</sup></small> 喂家畜时装饲料的槽器。<sup>\[泰兴\]</sup>  
 1. 【[食肚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_dv_r.md#食肚<sub>儿</sub>)】`sheh8 dv3 r` <sup>[如皋]</sup> 胃。  
 1. 【[食盒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_huh.md#食盒)】`sheh8 huh8` <sup>[如皋]</sup> 装食品的盒子。有篾器、木器。饭店送菜到客户家时常用它。  
 1. 【[食盐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_in.md#食盐)】`sheh8 in2` <sup>[如东]</sup> 海水经煎晒而成的结晶体。  
 1. 【[食涌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_ion.md#食涌)】`sheh8 ion3` <sup>[兴化]</sup> 指人工投食多或天然饵料丰富：“听他爸说，鸭子～就会生双黄蛋了。”（马春阳《“小没魂”放鸭》）  
 1. 【[食睏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_kuen.md#食睏)】`sheh8 kuen5` <sup>[兴化]</sup> 进餐后犯困欲睡：原来是艾虎饮后～，他又睡着了。（《三侠五义》八七）  
 1. 【[食量](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_lian.md#食量)】`sheh8 lian6` <sup>[如皋]</sup> 饭量、进食量。  
+1. 【[食盆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_pen.md#食盆)】`sheh8 pen2` <small>/səʔ8 pʰəŋ2/<sup>泰兴</sup></small> 禽畜吃食用的盆。<sup>\[泰兴\]</sup>  
 1. 【[食台](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_tae.md#食台)】`sheh8 tae2` <sup>[如皋]</sup> 旧时农村中厨房内常用的，长方板面有囥可放厨具的木桌子，上可擀面、切菜，下可放碗筷，又好围坐着吃饭。  
 1. 【[食袋<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_tae_r.md#食袋<sub>儿</sub>)】`sheh8 tae6 r` <small>/səʔ8 tʰɛ˞1/<sup>如皋</sup></small> ① 禽类嗉囊。<sup>\[如皋\]</sup> ② 胃子。<sup>\[东台\]</sup>  
 1. 【[伸后脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_heu_jiah.md#伸后脚)】`shen1 heu6 jiah7` <sup>[如皋]</sup> 喻留后路。  
@@ -2635,8 +2637,10 @@
 1. 【[顺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen.md#顺)】`shuen6` <small>/suən6/<sup>兴化</sup>, /suəŋ1/<sup>如皋</sup>, /suəŋ1/<sup>泰兴</sup>, /ɕyəŋ1/<sup>泰县</sup></small> ① 收拾整理<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup><sup>\[泰州\]</sup>：把橱里～～。<sup>\[如皋\]</sup>｜你把东西～下子。<sup>\[如东\]</sup>｜把房间～～，伢儿要家来过暑假。<sup>\[兴化\]</sup>｜……里面直～并了三张大桌，又添换了果馔摆好。（《红楼梦》五四）<sup>\[兴化\]</sup>｜你把家里～下子。<sup>\[泰县\]</sup>｜你先把家里～下子<sup>\[泰兴\]</sup>｜东西搬到新家里，一铺狼烟的，我在家里～吖一早天才～吖好啊。<sup>\[泰州\]</sup>｜你下午在家里把家里～～，晚上有人来打牌。<sup>\[泰州\]</sup> ② 暗指偷<sup>\[如皋\]</sup>：他把钱～吖走啊。<sup>\[如皋\]</sup> ③ 方便。<sup>\[如东\]</sup>：这次去，蛮～的。<sup>\[如东\]</sup> ④ 顺手拿取<sup>\[兴化\]</sup>：我刚买的书不晓得哪个～吖走啊。<sup>\[兴化\]</sup> ⑤ 吃<sup>\[泰兴\]</sup>：今朝到我箇块～下子<sup>\[泰兴\]</sup>  
 1. 【[顺住毛羽抹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_chv_mo_y.md#顺住毛羽抹)】`shuen6 chv6 mo2 y3 maeh8` <small>/suəŋ1 t͡sʰu1 mɔ2 y3 mæʔ8/<sup>泰兴</sup></small> 顺着毛的长势抚摸。比喻顺着人的脾气、语气说话、办事，迎合他人的秉性。<sup>\[泰兴\]</sup>  
 1. 【[顺带](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_dae.md#顺带)】`shuen6 dae5` <sup>[如东]</sup> 顺便：你到北坎去，～帮我买点儿菜。  
-1. 【[顺当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_dan.md#顺当)】`shuen6 dan5` <sup>[如东]</sup> 顺利：这次办手续非常～。  
+1. 【[顺带不为偷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_dae_beh_vei.md#顺带不为偷)】`shuen6 dae5 beh7 vei2 teu1` <small>/suəŋ1 tɛ5 pəʔ7 ʋəɪ2 tʰəɪ1/<sup>泰兴</sup></small> 顺便捎带的一点东西不能作为偷窃。含讥讽意。<sup>\[泰兴\]</sup>  
+1. 【[顺当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_dan.md#顺当)】`shuen6 dan1` <small>/suəŋ1 tɑŋ1/<sup>泰兴</sup></small> 顺利。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>：这次办手续非常～。<sup>\[如东\]</sup>  
 1. 【[顺东西](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_don_xi.md#顺东西)】`shuen6 don1 xi1` <sup>[东台]</sup> 整理、理顺东西。  
+1. 【[顺耳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_er.md#顺耳)】`shuen6 er3` <small>/suəŋ1 ɚ3/<sup>泰兴</sup></small> 听得进，愿意听；和顺悦耳。<sup>\[泰兴\]</sup>  
 1. 【[顺风吹火——不费吹灰之力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_fon_chuei_hu.md#顺风吹火——不费吹灰之力)】`shuen6 fon1 chuei1 hu3 beh7 fei5 chuei1 huei1 zhr1 lieh8` <sup>[东台]</sup>   
 1. 【[顺风顺水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_fon_shuen_shuei.md#顺风顺水)】`shuen6 fon1 shuen6 shuei3` <sup>[兴化]</sup> （喻）人的处境顺利：老刘这一向～，非常得意。  
 1. 【[顺间](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_gaen.md#顺间)】`shuen6 gaen1` <small>/suəŋ1 kẽ1/<sup>如皋</sup></small> ① 房间的横向宽度：这是七架梁的房子，丈四大六的～（檩长为木尺一丈四尺六寸六分，约为1.39市尺≈4.623米）。<sup>\[如皋\]</sup> ② 见“开间”。<sup>\[如皋\]</sup>  
@@ -2644,14 +2648,17 @@
 1. 【[顺口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_keu.md#顺口)】`shuen6 keu3` <sup>[如东]</sup> 随口：～说出来啊。  
 1. 【[顺口溜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_keu_lieu.md#顺口溜)】`shuen6 keu3 lieu1` <sup>[泰州]</sup> 流行在民间的口头韵文，句子长短不限，纯用口语，聚聚押韵，说起来极顺口：这小伙嘴巴子来得，一张嘴就是～。  
 1. 【[顺溜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_lieu.md#顺溜)】`shuen6 lieu` <sup>[兴化]</sup> ① 顺当：这次办执照蛮～的，不曾跑腿费口舌。｜“做事是要～，难道第一次空手回山不成……”（《说唐》二二） ② 顺畅，有次序：这篇文章有条有理，读起来～！  
+1. 【[顺溜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_lieu.md#顺溜)】`shuen6 lieu` <small>/suəŋ1 ləɪ/<sup>泰兴</sup></small> 顺利，无任何阻碍。<sup>\[泰兴\]</sup>  
 1. 【[顺料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_lio.md#顺料)】`shuen6 lio6` <sup>[如东]</sup> 房子梁架。  
 1. 【[顺路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_lv.md#顺路)】`shuen6 lv6` <sup>[东台]</sup> ① 顺着所走的路线走。 ② 很方便，正巧经过那里。  
+1. 【[顺路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_lv.md#顺路)】`shuen6 lv6` <small>/suəŋ1 lu1/<sup>泰兴</sup></small> 顺着所走的路线恰巧也到另一处<sup>\[泰兴\]</sup>  
 1. 【[顺毛抹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_mo_maeh.md#顺毛抹)】`shuen6 mo2 maeh8` <sup>[兴化]</sup> （借）拣其爱听的话说：我捱他吵得没法，只好～，怎说怎好。  
 1. 【[顺毛羽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_mo_y.md#顺毛羽)】`shuen6 mo2 y3` <sup>[如东]</sup> 鸡或其他鸟禽梳理羽毛。比喻顺着某人的脾气或意见说话、办事：你要～做才行。  
 1. 【[顺磨子转](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_mu_zz_zhun.md#顺磨子转)】`shuen6 mu6 zz zhun5` <small>/suəŋ1 mɤɯ1 t͡sɿ t͡sʊ̃5/<sup>泰兴</sup></small> 顺着磨子转动的方向（逆时针方向）转。排列顺序的一种方法。<sup>\[泰兴\]</sup>  
 1. 【[顺吖毛须抹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_nga_mo_xy.md#顺吖毛须抹)】`shuen6 nga mo2 xy1 maeh8` <sup>[东台]</sup> （贬）投其所好，或者迁就其不好的习性：他脾家坏，为啊免气着，些同事常常～。  
 1. 【[顺吖毛羽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_nga_mo_y.md#顺吖毛羽)】`shuen6 nga mo2 y3` <sup>[如东]</sup> ① 顺着趋势：你要～做，才能成功。 ② 顺着脾气：你要～说，他才听得进去。  
 1. 【[顺吖毛羽抹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_nga_mo_y.md#顺吖毛羽抹)】`shuen6 nga mo2 y3 maeh8` <sup>[如皋]</sup> 顺从习性特点对待处理，不致闹对立。  
+1. 【[顺眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_ngaen.md#顺眼)】`shuen6 ngaen3` <small>/suəŋ1 ŋɛ̃3/<sup>泰兴</sup></small> 看得舒服；愿意者。<sup>\[泰兴\]</sup>  
 1. 【[顺便](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_pin.md#顺便)】`shuen6 pin6` <small>/ɕyəŋ1 pʰiɪ̃1/<sup>泰县</sup></small> ① 乘做某事的方便而做另外的事。<sup>\[如东\]</sup>：请你～把东西带给小李。<sup>\[如东\]</sup> ② 吃便饭：今吖你在我家～。<sup>\[泰县\]</sup>  
 1. 【[顺便车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_pin_cha.md#顺便车)】`shuen6 pin6 cha1` <sup>[泰州]</sup> 顺风车，顺路的车：早上起来晏吖，不曾打到票，是趁人家厂里的～来的。  
 1. 【[顺便船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_pin_chun.md#顺便船)】`shuen6 pin6 chun2` <small>/suən6 pʰiɪ̃6 t͡sʰũ2/<sup>兴化</sup></small> ① 顺路的而不是专门雇的船只<sup>\[兴化\]</sup>：（高先生）来到庄东的官河边张望，想找条～回家。（兴文《误走盐城》）<sup>\[兴化\]</sup> ② 顺路的船。<sup>\[泰州\]</sup>  
@@ -2659,6 +2666,7 @@
 1. 【[顺便话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_pin_hua.md#顺便话)】`shuen6 pin6 hua6` <sup>[兴化]</sup> 随口说出，而无实施打算的话：“留他吃饭”不过是句～，不想他就当吖真。  
 1. 【[顺便人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_pin_ren.md#顺便人)】`shuen6 pin6 ren2` <small>/suən6 pʰiɪ̃6 lən2/<sup>兴化</sup></small> ① 趁便受委托办的人。<sup>\[兴化\]</sup> ② 去某处办事时，受人委托，顺便帮助他人做某事的人<sup>\[泰州\]</sup>：皮鞋同你买啊，有～就带把你。<sup>\[泰州\]</sup>  
 1. 【[顺便人情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_pin_ren_qien.md#顺便人情)】`shuen6 pin6 ren2 qien2` <sup>[如皋]</sup> 顺势而非专门地做的人情。  
+1. 【[顺便之事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_pin_zhr_shr.md#顺便之事)】`shuen6 pin6 zhr1 shr6` <small>/suəŋ1 pʰĩ1 t͡sɿ1 sɿ1/<sup>泰兴</sup></small> 趁着做某事时的方便同时做的另一件事。<sup>\[泰兴\]</sup>：我今朝反正要上黄桥，帮你带个杲子，是～<sup>\[泰兴\]</sup>  
 1. 【[顺气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_qi.md#顺气)】`shuen6 qi5` <sup>[如皋]</sup> 气息和顺，使心情平静下来。  
 1. 【[顺戗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_qian.md#顺戗)】`shuen6 qian5` <sup>[如皋]</sup> 合理，有条理：他会做事，做起来块块～。  
 1. 【[顺遂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_qy.md#顺遂)】`shuen6 qy` <small>/suən6 t͡ɕʰy/<sup>兴化</sup></small> ① 吉利<sup>\[兴化\]</sup>：今朝不～，一早上就有人来找麻烦。<sup>\[兴化\]</sup>｜“……上毛炕还要图个～，你这个是安的什么心”（《广陵潮》五）<sup>\[兴化\]</sup> ② 吉利，旧时迷信，以为无故与死人相关的东西接触会给自己带来不详，为“不顺遂”，即“不吉利”。<sup>\[泰州\]</sup> ③ 事情进行顺利，合乎心意<sup>\[泰州\]</sup>：托你的福，这一向生意～，天天有进账，晚上请你过来喝酒。<sup>\[泰州\]</sup> ④ 泛指吉利<sup>\[泰州\]</sup>：清大老早的，你嘴里瞎说甚的啊，也不图个～！<sup>\[泰州\]</sup>  
@@ -2668,8 +2676,10 @@
 1. 【[顺遂条<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_qy_tio_r.md#顺遂条<sub>儿</sub>)】`shuen6 qy6 tio2 r` <sup>[如皋]</sup> 过春节时用红纸书写并在院室内外张贴的吉利话，如：对我生财、黄金万两、人畜两旺、五谷丰登、太公在此百无禁忌、五福临门、寿比南山、和为贵等。  
 1. 【[顺人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_ren.md#顺人)】`shuen6 ren2` <sup>[兴化]</sup> 趁便受委托办的人：你要的东西有～就带过去。｜“……事不宜迟，如今东店有～上京，就带了去……”（《岐路灯》三十）也称“顺便人”。  
 1. 【[顺手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_sheu.md#顺手)】`shuen6 sheu3` <small>/suəŋ1 sei3/<sup>如皋</sup>, /suəŋ1 ɕiɤɯ3/<sup>泰兴</sup></small> ① 适于手作<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：这吖摆放操作～。<sup>\[如皋\]</sup> ② 顺带<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰兴\]</sup>：你做事的时候～带啊做下子。<sup>\[如皋\]</sup>｜～带过来啊。<sup>\[如东\]</sup> ③ 顺利无阻<sup>\[如皋\]</sup>：事情办得～。<sup>\[如皋\]</sup> ④ 无意识地<sup>\[如皋\]</sup>：～一带，把个碗打掉啊。<sup>\[如皋\]</sup> ⑤ 向心运动<sup>\[如皋\]</sup>：打～巴掌而不是打季手（反手）巴掌。<sup>\[如皋\]</sup> ⑥ 右手，相对于济手（左手）<sup>\[泰兴\]</sup>  
+1. 【[顺时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_shr.md#顺时)】`shuen6 shr2` <small>/suəŋ1 sɿ2/<sup>泰兴</sup></small> 谓顺应时宜；适时。<sup>\[泰兴\]</sup>  
 1. 【[顺势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_shr.md#顺势)】`shuen6 shr5` <sup>[如东]</sup> 顺着趋势：～一拉就倒啊。  
 1. 【[顺事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_shr.md#顺事)】`shuen6 shr6` <sup>[兴化]</sup> 顺心如意或理所当然的事情，区别于“横事”：“松子，俗话说，‘姐夫续弦小姨子，自家树上摘梨子’，～么，该合了。”（马春阳《姐妹姻缘船迷传》）  
+1. 【[顺事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_shr.md#顺事)】`shuen6 shr6` <small>/suəŋ1 sɿ1/<sup>泰兴</sup></small> 顺便之事。<sup>\[泰兴\]</sup>：鼻屎淌吖嘴里，～<sup>\[泰兴\]</sup>  
 1. 【[顺水人情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_shuei_ren_qien.md#顺水人情)】`shuen6 shuei3 ren2 qien2` ① 不费代价的成人之美的好事<sup>\[东台\]</sup>：我支持他养鸡，对我卖饲料也有好处，～为甚的不做啦！<sup>\[东台\]</sup> ② 利用机会、就势不费力气顺便给人的好处<sup>\[泰州\]</sup>：领导都同意啊，你正好乐得做个顺水人情。<sup>\[泰州\]</sup>  
 1. 【[顺顺戗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_shuen_qian.md#顺顺戗)】`shuen6 shuen6 qian5` <sup>[如皋]</sup> 使之顺戕。  
 1. 【[顺丝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_sz.md#顺丝)】`shuen6 sz1` <sup>[如皋]</sup> 顺着纤维的走向：切牛肉要切丁头丝，不要～切；刨柏木要～，弄不好要皵丝。  

@@ -343,6 +343,7 @@
 1. 【[佯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian.md#佯)】`ian2` <sup>[如东]</sup> 人在要死亡而尚未死亡时的迷糊状态，叫做佯：王二～吖在家里。  
 1. 【[佯咳嗽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_keh_seu.md#佯咳嗽)】`ian2 keh7 seu5` <sup>[如皋]</sup> 假装咳嗽，以示告知、警告、提醒：老爹醒睡，夜的里他家门口经过，停吖刻儿，他就～。  
 1. 【[佯心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_xien.md#佯心)】`ian2 xien1` <sup>[东台]</sup> 装模作样给人看，自以为别人不懂。  
+1. 【[徉徜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_chan.md#徉徜)】`ian2 chan2` <small>/iɑŋ2 t͡sʰɑŋ2/<sup>泰兴</sup></small> 徜徉。安闲自在地行走。喻生活舒适，心情舒畅。<sup>\[泰兴\]</sup>  
 1. 【[扬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian.md#扬)】`ian2` <small>/iɑŋ2/<sup>泰兴</sup></small> 乘风去秕。<sup>\[泰兴\]</sup>  
 1. 【[扬䜺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_chae_r.md#扬䜺<sub>儿</sub>)】`ian2 chae3 r` <small>/iã2 t͡sʰɛ˞3/<sup>如皋</sup>, /iɑŋ2 t͡sʰe3 ɚ/<sup>泰县</sup></small> ① 煮䜺儿粥时，待锅中水沸，将䜺儿飘入汤中，并不断搅动。<sup>\[如皋\]</sup> ② 将元麦或大麦䜺儿倒进锅里煮成粥或饭。<sup>\[如东\]</sup> ③ 用麦粉煮稀饭的一种方法。<sup>\[泰县\]</sup>  
 1. 【[扬䜺子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_chae_zz.md#扬䜺子)】`ian2 chae3 zz` <sup>[兴化]</sup> 煮䜺子粥时，将䜺子均匀地撒在温水锅中煮熟，以免生团、夹生。  
