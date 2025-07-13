@@ -1458,7 +1458,7 @@
 1. 【[狡辞重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_cz_chon.md#狡辞重)】`jio3 cz2 chon6` <sup>[如皋]</sup> 会说狡辩话且歪理多。  
 1. 【[狡戗理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_qian_li.md#狡戗理)】`jio3 qian li3` <sup>[如皋]</sup> 狡辩的理由。  
 1. 【[狡戗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_qian.md#狡戗)】`jio3 qian1` <sup>[如皋]</sup> 狡辩。  
-1. 【[绞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio.md#绞)】`jio3` <small>/t͡ɕiɔ3/<sup>兴化</sup></small> ① 迷信说法，两人命相不合。引申为双方合不来<sup>\[东台\]</sup>：如果领导班子犯～，工作就搞不好。<sup>\[东台\]</sup> ② 用大针脚缝<sup>\[兴化\]</sup>：这个小伙把衣服脱下，姑娘接过来，随手拿了根针……就这么三针两针～好了。（扬一《扬州劫法场》）<sup>\[兴化\]</sup> ③ 缝<sup>\[泰州\]</sup>：你帮他把衣裳～两针就是唻。<sup>\[泰州\]</sup>  
+1. 【[绞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio.md#绞)】`jio3` <small>/t͡ɕiɔ3/<sup>兴化</sup>, /t͡ɕiɔ3/<sup>泰兴</sup></small> ① 玄学说法，有～、犯～即双方命理犯冲，对一方或双方命运不利。也比喻双方相处不合。<sup>\[泰兴\]</sup><sup>\[东台\]</sup>：箇门亲事他家妈妈不情愿，说的找人算吖的，两个人有～唻<sup>\[泰兴\]</sup>｜如果领导班子犯～，工作就搞不好。<sup>\[东台\]</sup> ② 用大针脚缝<sup>\[兴化\]</sup>：这个小伙把衣服脱下，姑娘接过来，随手拿了根针……就这么三针两针～好了。（扬一《扬州劫法场》）<sup>\[兴化\]</sup> ③ 缝<sup>\[泰州\]</sup>：你帮他把衣裳～两针就是唻。<sup>\[泰州\]</sup>  
 1. 【[绞菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_cae.md#绞菜)】`jio3 cae5` <small>/t͡ɕiɔ3 t͡sʰɛ5/<sup>如皋</sup></small> ① 粗鲁地搛菜，大口地吃菜，不够文雅。<sup>\[如东\]</sup>：不要这样～。<sup>\[如东\]</sup> ② 粗鲁地搛菜、吃菜，不顾别人、不讲礼节。<sup>\[如皋\]</sup>  
 1. 【[绞肠痧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_chan_sha.md#绞肠痧)】`jio3 chan2 sha1` <sup>[如东]</sup> 阑尾炎。  
 1. 【[绞关](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_guaen.md#绞关)】`jio3 guaen1` <sup>[兴化]</sup> 土制绞盘，利用轮轴原理制成的起重设备：众当差的忙用～另绞一排连环船到曹操的官座对过停泊下来。（《火烧赤壁》七）  
