@@ -236,9 +236,10 @@
 1. 【[叉鱼鹱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_y_vah_r.md#叉鱼鹱<sub>儿</sub>)】`cha1 y vah7 r` <sup>[如皋]</sup> 鸬鹚。见“鸦”。  
 1. 【[叉嘴叉舌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_zuei_cha_shih.md#叉嘴叉舌)】`cha1 zuei3 cha1 shih8` <sup>[兴化]</sup> 插嘴，在别人说话中间插进去说话：人家谈话，你不要～的。  
 1. 【[差](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha.md#差)】`cha1` <sup>[兴化]</sup> 欠：我～你的钱，到时候一定还你。  
+1. 【[差板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_baen.md#差板)】`cha1 baen` <small>/t͡sʰɑ1 pɛ̃/<sup>泰兴</sup></small> （与规定的要求或数量）差一点，少一点。<sup>\[泰兴\]</sup>  
 1. 【[差不多](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_beh_du.md#差不多)】`cha1 beh7 du1` <sup>[如东]</sup> ① 相差无几。 ② 一样的。  
 1. 【[差不离](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_beh_li.md#差不离)】`cha1 beh7 li2` <sup>[如东]</sup> 差不多。  
-1. 【[差点<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_din_r.md#差点<sub>儿</sub>)】`cha1 din3 r` <small>/t͡sʰa1 ti˞3/<sup>如皋</sup></small> ① 相差很少。<sup>\[如东\]</sup> ② 见“推扳点儿”。<sup>\[如皋\]</sup>  
+1. 【[差点<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_din_r.md#差点<sub>儿</sub>)】`cha1 din3 r` <small>/t͡sʰa1 ti˞3/<sup>如皋</sup>, /t͡sʰɑ1 ti˞3/<sup>泰兴</sup></small> ① 相差很少。<sup>\[如东\]</sup> ② 见“推扳点儿”。<sup>\[如皋\]</sup> ③ 质量稍次。<sup>\[泰兴\]</sup> ④ 表示某种事情接近实现。<sup>\[泰兴\]</sup>：～被打啊<sup>\[泰兴\]</sup>  
 1. 【[……差掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_dio.md#……差掉)】`cha1 dio` <sup>[东台]</sup> ① 前面的分配过了头，后面的得不到应有的份额。 ② 在差额竞争中被淘汰。  
 1. 【[差而不多](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_er_beh_du.md#差而不多)】`cha1 er2 beh7 du` <sup>[如东]</sup> 相差不多。  
 1. 【[差一窍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ieh_qio.md#差一窍)】`cha1 ieh7 qio5` <sup>[泰州]</sup> 缺心眼，指人行为笨拙，愚蠢：他做甚的事都～，没得一桩事教你放心。｜他上南京开会的时候，不顺便去望吖子大大，现在要专门开车子上南京望大大，说他～，他还不服气。  

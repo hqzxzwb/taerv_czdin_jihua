@@ -1954,6 +1954,7 @@
 1. 【[总](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zon.md#总)】`zon3` <small>/t͡soŋ3/<sup>兴化</sup>, /t͡sɔŋ3/<sup>如皋</sup>, /t͡sɔŋ3/<sup>泰兴</sup>, /t͡soŋ3/<sup>泰县</sup></small> ① 都：箇些杲子～是他的/这些东西都是他的 ② 元代设置的灶户行政组织。每一百户为一总，每十户为一甲。最多的地区有四十总。设总催，负责征税、兵役等行政工作。<sup>\[如东\]</sup> ③ 大约，估计<sup>\[如东\]</sup>：这件衣裳千把块钱～要的。<sup>\[如东\]</sup>｜说咖要来，～要来的吧。<sup>\[如东\]</sup>｜他的个子～在一米八朝上。<sup>\[如东\]</sup>  
 1. 【[总在](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zon_cae.md#总在)】`zon3 cae6` ① 都在<sup>\[泰州\]</sup>：他中上～食堂吃饭。<sup>\[泰州\]</sup> ② 大约是在<sup>\[泰州\]</sup>：这件衣裳是真丝的，～二千块钱朝上。<sup>\[泰州\]</sup>  
 1. 【[总归](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zon_guei.md#总归)】`zon3 guei1` <sup>[东台]</sup> 总之的意思。  
+1. 【[总归](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zon_guei.md#总归)】`zon3 guei1` <small>/t͡sɔŋ3 kuəɪ1/<sup>泰兴</sup></small> 总的来说。<sup>\[泰兴\]</sup>  
 1. 【[总共](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zon_kon.md#总共)】`zon3 kon6-gon5` <sup>[如皋]</sup> 总计。  
 1. 【[粽箬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zon_rah.md#粽箬)】`zon5 rah8` <small>/t͡soŋ5 laʔ8/<sup>兴化</sup>, /t͡sɔŋ5 ɻɑʔ/<sup>泰兴</sup></small> 粽叶<sup>\[东台\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>\[兴化：也称“柴叶子”。\]：这打下的苇叶，专作裹粽子之用，当地人称之为～。（刘仁前·《楚水风物》）<sup>\[兴化\]</sup>  
 1. 【[粽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zon_zz.md#粽子)】`zon5 zz` <sup>[如东]</sup> 食品。以糯米、穄米等为主要原料，用芦箬包裹起来，呈三角形或锥体形，放入锅中煮熟，此种食品称综子。质韧，味香，一般在端午节食用。  

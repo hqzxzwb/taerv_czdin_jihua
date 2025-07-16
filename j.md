@@ -509,7 +509,7 @@
 1. 【[姜黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_huan.md#姜黄)】`jian1 huan2` <sup>[如皋]</sup> 见“黄孔儿”。  
 1. 【[姜榔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_lan.md#姜榔)】`jian1 lan` <sup>[如皋]</sup> 芋头、生姜的老块茎。  
 1. 【[姜榔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_lan.md#姜榔)】`jian1 lan2` <small>/t͡ɕiã1 lã2/<sup>如皋</sup></small> ① 芋头地下茎的老茎，口味欠佳。<sup>\[如东\]</sup> ② 见“芋头老头”。<sup>\[如皋\]</sup>  
-1. 【[姜是老的辣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_shr_lo_dii.md#姜是老的辣)】`jian1 shr6 lo3 dii laeh8` ① ［喻］指老年人经验丰富、老道，办事成功率高。<sup>\[东台\]</sup> ② 喻指老年人经验丰富。<sup>\[东台\]</sup>  
+1. 【[姜是老的辣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_shr_lo_dii.md#姜是老的辣)】`jian1 shr6 lo3 dii laeh8` <small>/t͡ɕiɑŋ1 sɿ1 lɔ3 təɪ læʔ8/<sup>泰兴</sup></small> ［喻］指老年人经验丰富、老道，办事成功率高。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[姜丝肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_sz_roh.md#姜丝肉)】`jian1 sz1 roh8` <sup>[如皋]</sup> 猪精肉细丝，与生姜丝、酱瓜子丝等分炒后拌和再复炒而成的冬季菜。  
 1. 【[姜太公](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_tae_gon.md#姜太公)】`jian1 tae5 gon1` <sup>[如东]</sup> 姜子牙，名尚，曾在昆仑山学道，后奉师命下山辅佐周王伐纣，完成兴周大业，发榜封神。民间奉姜子牙为宅神，房屋二架上贴“太公在此，百无禁忌”的条幅。  
 1. 【[姜太公钓鱼——愿者上钩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_tae_gon_dio.md#姜太公钓鱼——愿者上钩)】`jian1 tae5 gon1 dio5 y2 iun6 zhae3 shan6 geu1` <sup>[东台]</sup>   

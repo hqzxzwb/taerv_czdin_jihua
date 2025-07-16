@@ -548,7 +548,7 @@
 1. 【[洒圈网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa_qiun_van.md#洒圈网)】`sa3 qiun1 van3` <sup>[东台]</sup> 本指大面积捕鱼的手段，［喻］一人向全桌人敬酒。  
 1. 【[洒趣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa_qy.md#洒趣)】`sa3 qy5` <sup>[兴化]</sup> ① 形容心情舒畅。 ② 无拘无束：你在我家覅见外，放～点儿。  
 1. 【[洒水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa_shuei.md#洒水)】`sa3 shuei3` <sup>[如东]</sup> 用刷子蘸水向物体上抖落：向黄瓜苗上～。  
-1. 【[洒脱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa_tuh.md#洒脱)】`sa3 tuh7` ① （言谈、举止）自然，大方。<sup>\[如东\]</sup>：这个伢儿经过大学学习，现在变得相当～。<sup>\[如东\]</sup> ② 言谈举止潇洒，不拘束。<sup>\[东台\]</sup>  
+1. 【[洒脱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa_tuh.md#洒脱)】`sa3 tuh7` <small>/sɑ3 tʰʊʔ7/<sup>泰兴</sup></small> ① （言谈、举止）自然，大方。<sup>\[如东\]</sup>：这个伢儿经过大学学习，现在变得相当～。<sup>\[如东\]</sup> ② 言谈举止潇洒，不拘束。<sup>\[东台\]</sup> ③ 自然，不拘束。潇洒。<sup>\[泰兴\]</sup>  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa.md#□)】`sa5` <sup>[泰州]</sup> 敲击有裂缝的陶器时发出的声音：这个缸敲啊有～声，怕的有点ㄦ漏。  
 1. 【[塞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa.md#塞)】`sa5` <small>/sa5/<sup>兴化</sup>, /sa5/<sup>如皋</sup></small> ① 抲进<sup>\[如皋\]</sup>：望嘴里～棉花。<sup>\[如皋\]</sup> ② 用干的纸筋灰、油石灰、麻丝等物把木桶、木船的缝隙堵塞起来<sup>\[兴化\]</sup>：～桶；～𪳄子；～船板。<sup>\[兴化\]</sup>  
 1. 【[㗷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sae.md#㗷)】`sae` <sup>[兴化]</sup> 表示不耐烦的语气：快点走～！｜别吵～！  

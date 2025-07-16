@@ -18,7 +18,7 @@
 1. 【[洒圈网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa_qiun_van.md#洒圈网)】`sa3 qiun1 van3` <sup>[东台]</sup> 本指大面积捕鱼的手段，［喻］一人向全桌人敬酒。  
 1. 【[洒趣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa_qy.md#洒趣)】`sa3 qy5` <sup>[兴化]</sup> ① 形容心情舒畅。 ② 无拘无束：你在我家覅见外，放～点儿。  
 1. 【[洒水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa_shuei.md#洒水)】`sa3 shuei3` <sup>[如东]</sup> 用刷子蘸水向物体上抖落：向黄瓜苗上～。  
-1. 【[洒脱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa_tuh.md#洒脱)】`sa3 tuh7` ① （言谈、举止）自然，大方。<sup>\[如东\]</sup>：这个伢儿经过大学学习，现在变得相当～。<sup>\[如东\]</sup> ② 言谈举止潇洒，不拘束。<sup>\[东台\]</sup>  
+1. 【[洒脱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa_tuh.md#洒脱)】`sa3 tuh7` <small>/sɑ3 tʰʊʔ7/<sup>泰兴</sup></small> ① （言谈、举止）自然，大方。<sup>\[如东\]</sup>：这个伢儿经过大学学习，现在变得相当～。<sup>\[如东\]</sup> ② 言谈举止潇洒，不拘束。<sup>\[东台\]</sup> ③ 自然，不拘束。潇洒。<sup>\[泰兴\]</sup>  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa.md#□)】`sa5` <sup>[泰州]</sup> 敲击有裂缝的陶器时发出的声音：这个缸敲啊有～声，怕的有点ㄦ漏。  
 1. 【[塞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa.md#塞)】`sa5` <small>/sa5/<sup>兴化</sup>, /sa5/<sup>如皋</sup></small> ① 抲进<sup>\[如皋\]</sup>：望嘴里～棉花。<sup>\[如皋\]</sup> ② 用干的纸筋灰、油石灰、麻丝等物把木桶、木船的缝隙堵塞起来<sup>\[兴化\]</sup>：～桶；～𪳄子；～船板。<sup>\[兴化\]</sup>  
 1. 【[㗷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sae.md#㗷)】`sae` <sup>[兴化]</sup> 表示不耐烦的语气：快点走～！｜别吵～！  
@@ -3031,7 +3031,7 @@
 1. 【[送房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_fan.md#送房)】`son5 fan2` <sup>[如皋]</sup> 结婚仪程之一。由福佬儿偕上人送新娘、新郎进洞房，并随手带房门。  
 1. 【[送浮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_fv.md#送浮)】`son5 fv2` <sup>[如皋]</sup> 钓鱼时下沉的浮子忽然上升并高出水面，表示鱼吃食由低头转为抬头，即将离钩。此时起钓最佳。  
 1. 【[送棺材](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_gun_cae.md#送棺材)】`son5 gun1 cae` <sup>[如皋]</sup> ① 赠送棺材给贫者收殓。 ② 詈语：要我送吖把你呀？——～。  
-1. 【[送红蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_hon_taen.md#送红蛋)】`son5 hon2 taen6` <small>/sɔŋ5 xɔŋ2 tʰẽ1/<sup>如皋</sup></small> ① 送染了红壳的煮鸡蛋给亲友，告知生了小孩的信息。<sup>\[如皋\]</sup> ② 民俗，生养小孩以后，一星期内，产妇家煮熟的鸡蛋外壳染成红色，分送“红蛋”给亲朋好友报喜，所送红蛋个数必须逢单（男性睾丸为二，逢双称为“卵蛋”，坊间以为不敬）三、五、七、九、十一、十三、十五不等，如送五只以上红蛋，收红蛋者要看月子（看望产妇）。<sup>\[泰州\]</sup>  
+1. 【[送红蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_hon_taen.md#送红蛋)】`son5 hon2 taen6` <small>/sɔŋ5 xɔŋ2 tʰẽ1/<sup>如皋</sup>, /sɔŋ5 xɔŋ2 tʰɛ̃1/<sup>泰兴</sup></small> ① 送染了红壳的煮鸡蛋给亲友，告知生了小孩的信息。<sup>\[如皋\]</sup> ② 民俗，生养小孩以后，一星期内，产妇家煮熟的鸡蛋外壳染成红色，分送“红蛋”给亲朋好友报喜，所送红蛋个数必须逢单（男性睾丸为二，逢双称为“卵蛋”，坊间以为不敬）三、五、七、九、十一、十三、十五不等，如送五只以上红蛋，收红蛋者要看月子（看望产妇）。<sup>\[泰州\]</sup> ③ 民俗。新生儿出生，产妇家为亲友邻舍送红蛋。生女孩送大红蛋（蛋全染成红色），生男孩为花红蛋。<sup>\[泰兴\]</sup>  
 1. 【[送贺份](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_hu_fen.md#送贺份)】`son5 hu6 fen6` <sup>[如东]</sup> 亲戚朋友之间互相送礼，叫做送贺份。  
 1. 【[送花圈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_hua_qiun.md#送花圈)】`son5 hua1 qiun1` <sup>[如东]</sup> 城镇里的人死了，单位或亲友送一只花圈以及其他礼品，表示对死者的悼念和尊敬。这是20世纪60年代兴起的风俗。  
 1. 【[送盒<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_huh_r.md#送盒<sub>儿</sub>)】`son5 huh8 r` <sup>[如东]</sup> 比喻把钱或物白白地送给别人：他又在下～。  
@@ -3041,21 +3041,28 @@
 1. 【[送节礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_jih_li.md#送节礼)】`son5 jih7 li3` <sup>[如皋]</sup> 定婚之后开始，男方逢端午、中秋、春节给女家送礼（有的还包括四时八节）。  
 1. 【[送瞌睡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_kuh_shuei.md#送瞌睡)】`son5 kuh7 shuei` <sup>[如皋]</sup> 见“醒瞌睡”。  
 1. 【[送老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_lo.md#送老)】`son5 lo3` <small>/soŋ5 lɔ3/<sup>兴化</sup>, /sɔŋ5 lɔ3/<sup>如皋</sup></small> ① 詈语，寿衣。<sup>\[如皋\]</sup> ② 对尊亲临终前的照料并为其治丧<sup>\[兴化\]</sup>：他赶回家为老母亲～。<sup>\[兴化\]</sup>｜“……把白马卖了，买口棺材，与师父～，大家散火……”（《西游记》三二）<sup>\[兴化\]</sup> ③ 衣服的贬义说法<sup>\[兴化\]</sup>：这几件～难洗唻！<sup>\[兴化\]</sup>  
+1. 【[送米粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_mi_zhoh.md#送米粥)】`son5 mi3 zhoh7` <small>/sɔŋ5 mʝ3 t͡sɔʔ7/<sup>泰兴</sup></small> 民俗。新生儿出生，产妇家为亲友邻居送米粥等，大家共贺。亲友等以小钱回赠。<sup>\[泰兴\]</sup>  
+1. 【[送年礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_nin_li.md#送年礼)】`son5 nin2 li3` <small>/sɔŋ5 nĩ2 lʝ3/<sup>泰兴</sup></small> 民俗。春节前娘家为新婚女儿女婿送炒花生、鱼肉、馒头糕点等等过年的礼品。<sup>\[泰兴\]</sup>  
 1. 【[送亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_qien.md#送亲)】`son5 qien1` <small>/soŋ5 t͡ɕʰin1/<sup>兴化</sup>, /sɔŋ5 t͡ɕʰiəŋ1/<sup>如皋</sup></small> ① 旧式婚仪之一新娘出门时，有兄弟二人手提灯笼随轿（车）护送，至中途，男方接亲，互行鞠躬礼，不说话，各回。<sup>\[如皋\]</sup> ② 农村婚俗<sup>\[兴化\]</sup>：喜日，近亲属数人（偶数）随轿子船送新娘至婆家拜堂成亲。<sup>\[兴化\]</sup> ③ 民俗，男女成亲当日，旧时女方少年亲属随同花轿送新娘到男方家中，途中遇到男方接亲之人即返回。<sup>\[泰州\]</sup>  
 1. 【[送穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_qion.md#送穷)】`son5 qion2` <sup>[如皋]</sup> 年三十，檐插芝麻稭、柏枝、冬青枝，上挂元宝纸钱，称送穷。即穷神见此，认为此家富有，不敢上门。  
 1. 【[送日子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_rih_zz.md#送日子)】`son5 rih8 zz` <sup>[兴化]</sup> 婚俗：男方用大红柬帖将喜期正式通知女方。  
+1. 【[送日子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_rih_zz.md#送日子)】`son5 rih8 zz` <small>/sɔŋ5 iʔ8 t͡sɿ/<sup>泰兴</sup></small> 旧俗结婚之前，男方把挑选的吉日送给女方，谓之“送日子”。也称“行日帖”。<sup>\[泰兴\]</sup>  
 1. 【[送塞包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_sae_bo.md#送塞包)】`son5 sae1 bo1` <sup>[东台]</sup> ［喻］把不吉利的或者不喜欢的东西送出去，（见“塞包”）  
 1. 【[送三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_saen.md#送三)】`son5 saen1` <sup>[如皋]</sup> 新丧三日内，每天去土地庙送饭、化锞的习俗。据说是灵魂暂押庙中，三日后才去地府之故。  
 1. 【[送丧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_san.md#送丧)】`son5 san1` <sup>[如皋]</sup> 给新死者上祭品。  
+1. 【[送生日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_shen_rih.md#送生日)】`son5 shen1 rih` <small>/sɔŋ5 səŋ1 iʔ/<sup>泰兴</sup></small> 民俗。娘家为新婚女儿送去生日礼物。时间为新婚后的第一次生日，暗示亲家以后不可忘记。<sup>\[泰兴\]</sup>  
 1. 【[送顺遂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_shuen_qy.md#送顺遂)】`son5 shuen6 qy6` <sup>[如皋]</sup> 说不吉利的话。  
 1. 【[送死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_sz.md#送死)】`son5 sz3` <small>/soŋ5 sɿ3/<sup>兴化</sup></small> ① （詈语）指衣服<sup>\[东台\]</sup><sup>\[兴化\]</sup>：你身上的～都望不见布眼吖！<sup>\[东台\]</sup>｜这几件～穿上身不曾洗过。<sup>\[兴化\]</sup> ② 自寻死路。<sup>\[泰州\]</sup>  
 1. 【[送死信](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_sz_xien.md#送死信)】`son5 sz3 xien5` <small>/sɔŋ5 sɿ3 ɕiəŋ5/<sup>如皋</sup></small> ① 报死讯的信。<sup>\[如皋\]</sup> ② 由孝子登门告知死讯，下半跪礼；或将烧角书信送（寄）达。凡至亲不漏，而且要极快。<sup>\[如皋\]</sup>  
 1. 【[送汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_tan.md#送汤)】`son5 tan1` 妇女生养坐月子期间，亲戚送去老母鸡之类的可烧汤进补的食物。<sup>\[泰州\]</sup>  
 1. 【[送铜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_ton.md#送铜)】`son5 ton2` <sup>[兴化]</sup> 乱花钱：覅拿公家的钱～。｜你拿我的钱～心不疼。  
+1. 【[送夏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_xia.md#送夏)】`son5 xia6` <small>/sɔŋ5 ɕiɑ1/<sup>泰兴</sup></small> 指端午前夕，娘家为新婚女儿女婿送夏令用品，如夏衣、阳伞、凉帽、扇子、凉席及粉子等等。俗名“送端午礼”。<sup>\[泰兴\]</sup>  
 1. 【[送信](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_xien.md#送信)】`son5 xien5` <sup>[如东]</sup> 递送书信。透露消息。送死信。父母死后，长子披麻戴孝给亲戚报告消息。一把雨伞，伞柄朝前，伞头朝后。父亲死了，雨伞夹在左手腋下；母亲死了，雨伞夹在右手腋下。看见亲戚，左膝下跪行礼，然后站起来报告死亡情况，并邀请奔丧。  
+1. 【[送信](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_xien.md#送信)】`son5 xien5` <small>/sɔŋ5 ɕiŋ5/<sup>泰兴</sup></small> 传达信息。乡人特指送死信，而正常送信件者称为“跑信”，如称邮递员为“跑信的”。<sup>\[泰兴\]</sup>  
 1. 【[送信的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_xien_dii.md#送信的)】`son5 xien5 dii` <sup>[如皋]</sup> 邮递员的旧称。  
 1. 【[送葬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_zan.md#送葬)】`son5 zan5` <sup>[如东]</sup> 送死者到坟地去，叫做送葬。  
-1. 【[送灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_zo.md#送灶)】`son5 zo5` <small>/soŋ5 t͡sɔ5/<sup>兴化</sup>, /sɔŋ5 t͡sɔ5/<sup>如皋</sup></small> ① 腊月二十四夜，在灶神像前敬香，供赤豆儿饭、马草（稻草四小段）、马料（麸皮少许）、灶糖（一小块麦芽糖）。然后烧化旧神像和灶灯，送灶神上天述职。<sup>\[如皋\]</sup> ② 一种民俗。阴历腊月二十四日晚，在厨房灶前举行祭祀仪式。扎纸马，供赤豆饭，烧纸钱，送灶神上天庭。灶神两边有一副对联，曰：上天言好事，下界保平安。<sup>\[如东\]</sup> ③ 见“灶老爷”。<sup>\[东台\]</sup> ④ 旧俗：腊月二十四日晚，民户设馔及麦芽糖（灶糖），撒草豆，焚香烛、纸马，送灶王爷“上天言好事”。<sup>\[兴化\]</sup> ⑤ 民俗，农历腊月二十三日或二四四日晚上（坊间有“官三民四娼五”只说，做官人家为二十三日，市民人家为二十四日，娼家为二十五日）设食祭祀灶神，称为送灶。迷信认为，灶神此日上天，要向天帝禀报一家善恶之事，故在此晚祭送灶神，希望他上天多说合家好话，下界保佑合家平安。送灶之日，必食糯米饭、芹菜豆腐汤，取“勤劳兜富”之义。<sup>\[泰州\]</sup>  
+1. 【[送终](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_zhon.md#送终)】`son5 zhon1` <small>/sɔŋ5 t͡sɔŋ1/<sup>泰兴</sup></small> 为死者办理丧事。亦指老人临终时亲属在旁照料。<sup>\[泰兴\]</sup>  
+1. 【[送灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_zo.md#送灶)】`son5 zo5` <small>/soŋ5 t͡sɔ5/<sup>兴化</sup>, /sɔŋ5 t͡sɔ5/<sup>如皋</sup>, /sɔŋ5 t͡sɔ5/<sup>泰兴</sup></small> ① 腊月二十四夜，在灶神像前敬香，供赤豆儿饭、马草（稻草四小段）、马料（麸皮少许）、灶糖（一小块麦芽糖）。然后烧化旧神像和灶灯，送灶神上天述职。<sup>\[如皋\]</sup> ② 一种民俗。阴历腊月二十四日晚，在厨房灶前举行祭祀仪式。扎纸马，供赤豆饭，烧纸钱，送灶神上天庭。灶神两边有一副对联，曰：上天言好事，下界保平安。<sup>\[如东\]</sup> ③ 见“灶老爷”。<sup>\[东台\]</sup> ④ 旧俗：腊月二十四日晚，民户设馔及麦芽糖（灶糖），撒草豆，焚香烛、纸马，送灶王爷“上天言好事”。<sup>\[兴化\]</sup> ⑤ 民俗，农历腊月二十三日或二四四日晚上（坊间有“官三民四娼五”只说，做官人家为二十三日，市民人家为二十四日，娼家为二十五日）设食祭祀灶神，称为送灶。迷信认为，灶神此日上天，要向天帝禀报一家善恶之事，故在此晚祭送灶神，希望他上天多说合家好话，下界保佑合家平安。送灶之日，必食糯米饭、芹菜豆腐汤，取“勤劳兜富”之义。<sup>\[泰州\]</sup> ⑥ 民俗。农历腊月廿四送灶神上天，大年三十迎灶神回位。<sup>\[泰兴\]</sup>  
 1. 【[梭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su.md#梭)】`su1` ① 一种加工方法，用钢丝锯或狭条锯将木料锯开。<sup>\[如东\]</sup> ② 来来去去锯东西<sup>\[东台\]</sup>：把凸咖在上面的铁钉～掉<sup>\[东台\]</sup>｜这许树枝太密，要～掉一些。<sup>\[东台\]</sup>  
 1. 【[梭床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_chuan.md#梭床)】`su1 chuan2` <sup>[如皋]</sup> 织布机上让梭子来去滑动的木槽。  
 1. 【[梭钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_qin.md#梭钱)】`su1 qin2` <sup>[兴化]</sup> 旧时的一种儿童游戏：一块整砖支起一斜坡，参与者高举铜板向砖面落下，滚在前的砸后边的，砸到为赢。  

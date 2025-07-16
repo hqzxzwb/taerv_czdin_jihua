@@ -548,20 +548,22 @@
 1. 【[阳水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_shuei.md#阳水)】`ian2 shuei3` <sup>[如皋]</sup> 阳光下流动的水，如江水、河水、雨水。  
 1. 【[阳台](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_tae.md#阳台)】`ian2 tae2` <sup>[如东]</sup> 楼房上面朝太阳的晒台。  
 1. 【[阳瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_va.md#阳瓦)】`ian2 va3` <sup>[如东]</sup> 瓦面朝上的瓦。  
-1. 【[养](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian.md#养)】`ian3` <small>/iaŋ3/<sup>兴化</sup>, /iã3/<sup>如皋</sup>, /iɑŋ3/<sup>泰兴</sup>, /iɑŋ3/<sup>泰县</sup></small> ① 生育<sup>\[东台\]</sup><sup>\[泰州\]</sup>：她～吖个小伙<sup>\[东台\]</sup>｜我比她～得晏<sup>\[东台\]</sup>｜她家新妇～吖个八斤重的大小伙。<sup>\[泰州\]</sup> ② 使舒服<sup>\[兴化\]</sup>：这双鞋子～脚<sup>\[兴化\]</sup>｜手柄～手<sup>\[兴化\]</sup>｜我们坐在船舱铺着的稻草上……既～屁股，又使人觉得舒坦。（马春阳《翁婿同还乡》）<sup>\[兴化\]</sup> ③ 形容有控制地<sup>\[兴化\]</sup>：力气不要用足，～住点儿。<sup>\[兴化\]</sup> ④ 抚育、照顾<sup>\[泰州\]</sup>：他是爹爹奶奶～吖大啊的。<sup>\[泰州\]</sup> ⑤ 面条烧熟以后停火，使面条在汤中稍作停留<sup>\[泰州\]</sup>：面要吃烂的，再多～一刻儿。<sup>\[泰州\]</sup>｜饺儿里头包的生肉，要在锅里～～再吃。<sup>\[泰州\]</sup> ⑥ 饲养（畜禽）：～猪子；～鸡子  
+1. 【[养](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian.md#养)】`ian3` <small>/iaŋ3/<sup>兴化</sup>, /iã3/<sup>如皋</sup>, /iɑŋ3/<sup>泰兴</sup>, /iɑŋ3/<sup>泰县</sup></small> ① 生育<sup>\[东台\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：她～吖个小伙<sup>\[东台\]</sup>｜我比她～得晏<sup>\[东台\]</sup>｜她家新妇～吖个八斤重的大小伙。<sup>\[泰州\]</sup>｜～吖个小伙<sup>\[泰兴\]</sup> ② 使舒服<sup>\[兴化\]</sup>：这双鞋子～脚<sup>\[兴化\]</sup>｜手柄～手<sup>\[兴化\]</sup>｜我们坐在船舱铺着的稻草上……既～屁股，又使人觉得舒坦。（马春阳《翁婿同还乡》）<sup>\[兴化\]</sup> ③ 形容有控制地<sup>\[兴化\]</sup>：力气不要用足，～住点儿。<sup>\[兴化\]</sup> ④ 抚育、照顾<sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：他是爹爹奶奶～吖大啊的。<sup>\[泰州\]</sup>｜由我负责～伢儿<sup>\[泰兴\]</sup> ⑤ 面条烧熟以后停火，使面条在汤中稍作停留<sup>\[泰州\]</sup>：面要吃烂的，再多～一刻儿。<sup>\[泰州\]</sup>｜饺儿里头包的生肉，要在锅里～～再吃。<sup>\[泰州\]</sup> ⑥ 饲养（畜禽）：～猪子；～鸡子  
 1. 【[养不好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_beh_ho.md#养不好)】`ian3 beh7 ho3` <sup>[如皋]</sup> 身体一直瘦弱，无法使之健壮。  
 1. 【[养不醒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_beh_xien.md#养不醒)】`ian3 beh7 xien3` <sup>[如皋]</sup> 病、伤、生育之后，身体未能康复。  
 1. 【[养膘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_bio.md#养膘)】`ian3 bio1` <sup>[如皋]</sup> ① 多指畜牲长肉、增重。 ② 谑指人易长肉。  
 1. 【[养住咖病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_chuh_ga_pien.md#养住咖病)】`ian3 chuh ga pien6` <sup>[如皋]</sup> 医生治病故意拖延以多赚钱的不道德行为。  
 1. 【[养得狗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_deh_geu_zz.md#养得狗子)】`ian3 deh geu3 zz` <sup>[如皋]</sup> ① 避讳语，指婴儿健壮。讳“胖、壮、好”字样。 ② 戏谑语，用于成年人。  
 1. 【[养儿育女的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_er_ioh_ny.md#养儿育女的)】`ian3 er2 ioh8 ny3 dii` <sup>[如皋]</sup> 意为有儿女的人，应当懂理，有道德，不做亏心事，为儿女留后路：我也～，不会害你！  
-1. 【[养儿胜似父，要钱做甚用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_er_shen_sz.md#养儿胜似父，要钱做甚用)】`ian3 er2 shen5 sz6 fv6 io5 qin2 zu5 shen ion6` <sup>[东台]</sup> 只要儿子有出息，钱多钱少无所谓。  
+1. 【[养儿胜似父](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_er_shen_sz.md#养儿胜似父)】`ian3 er2 shen5 sz fv6` <small>/iɑŋ3 ɚ2 səŋ5 sɿ fʋ1/<sup>泰兴</sup></small> 谓一代更比一代强。<sup>\[泰兴\]</sup>  
+1. 【[养儿胜似父，要钱做甚用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_er_shen_sz.md#养儿胜似父，要钱做甚用)】`ian3 er2 shen5 sz fv6 io5 qin2 zu5 shen ion6` <sup>[东台]</sup> 只要儿子有出息，钱多钱少无所谓。  
 1. 【[养父（母）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_fv.md#养父（母）)】`ian3 fv6 （mu3）` <sup>[东台]</sup> 指抚养自己的非生身父（母）亲。  
 1. 【[养家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ga.md#养家)】`ian3 ga1` <sup>[东台]</sup> 供给家庭成员生活所需。  
 1. 【[养家活口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ga_huh_keu.md#养家活口)】`ian3 ga1 huh8 keu3` ① 担负一家人的生活重任。<sup>\[如东\]</sup> ② 挣钱维持一家人的生活<sup>\[泰州\]</sup>：大家都是工薪阶层、靠工资～的人。<sup>\[泰州\]</sup>  
+1. 【[养孤老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_gv_lo.md#养孤老)】`ian3 gv1 lo` <small>/iɑŋ3 ku1 lɔ/<sup>泰兴</sup></small> 谓妇女与情夫私通。<sup>\[泰兴\]</sup>  
 1. 【[养油蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ieu_taen.md#养油蛋)】`ian3 ieu2 taen6` <sup>[泰县]</sup> 油煎蛋。  
 1. 【[养家活口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_jia_huh_keu.md#养家活口)】`ian3 jia1 huh8 keu3` <sup>[兴化]</sup> 养活家庭成员，也作“养家餬口”：我是手艺人，靠一双手来～。｜这两种东西，本来是炮仗店附带做做的，靠它赚钱吃饭，～的，怎么行呢？（汪曾祺《岁寒三友》）  
-1. 【[养脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_jiah.md#养脚)】`ian3 jiah7` <small>/iã3 t͡ɕiaʔ7/<sup>如皋</sup></small> ① 喻鞋子宽松合脚。<sup>\[如皋\]</sup> ② 鞋的大小适中，质料松软，穿在脚上感到舒坦<sup>\[泰州\]</sup>：太太做的走鞋，穿吖脚上～。<sup>\[泰州\]</sup>  
+1. 【[养脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_jiah.md#养脚)】`ian3 jiah7` <small>/iã3 t͡ɕiaʔ7/<sup>如皋</sup>, /iɑŋ3 t͡ɕiɑʔ7/<sup>泰兴</sup></small> ① 喻鞋子宽松合脚。<sup>\[如皋\]</sup> ② 鞋的大小适中，质料松软，穿在脚上感到舒坦<sup>\[泰州\]</sup>：太太做的走鞋，穿吖脚上～。<sup>\[泰州\]</sup> ③ 谓所穿的鞋合脚<sup>\[泰兴\]</sup>：箇双皮鞋只叫个～<sup>\[泰兴\]</sup>  
 1. 【[养精神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_jien_shen.md#养精神)】`ian3 jien1 shen` <small>/iaŋ3 t͡ɕin1 sən/<sup>兴化</sup></small> ① 使精神饱满舒畅<sup>\[兴化\]</sup>：没钱打肉吃，睡觉～。<sup>\[兴化\]</sup> ② 通过睡眠休息积蓄精力<sup>\[泰州\]</sup>：没钱打肉吃，睡觉～。<sup>\[泰州\]</sup>  
 1. 【[养命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_mien.md#养命)】`ian3 mien6` <small>/iaŋ3 miɪ̃6/<sup>兴化</sup></small> 维持生命\[兴化：也作“养性命”。\]\[泰州：提供食物和生活用品而维持生命\]：寻钱～，不能为钱送命。<sup>\[兴化\]</sup>｜这两锭银子乃是～之根，不争失了……一家良普，没甚过活……（《醒世恒言》十八）。<sup>\[兴化\]</sup>｜谚曰：佮伙儿～。<sup>\[兴化\]</sup>｜不是为啊～，也不得做这个交易。<sup>\[泰州\]</sup>  
 1. 【[养面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_min.md#养面)】`ian3 min6` <sup>[兴化]</sup> 将面条放在开水中多煮一会儿，使烂一些：来一腕～一。区别于“戗面”。  
@@ -585,6 +587,8 @@
 1. 【[养体](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ti.md#养体)】`ian3 ti3` <sup>[如皋]</sup> 见“长肉”。  
 1. 【[养息](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_xieh.md#养息)】`ian3 xieh7` <small>/iaŋ3 ɕiəʔ7/<sup>兴化</sup></small> 休息、休养、调养<sup>\[如东\]</sup><sup>\[兴化\]</sup>：你需要～一段时间。<sup>\[如东\]</sup>｜你一路辛苦，不妨在家～两天再来上班。<sup>\[兴化\]</sup>  
 1. 【[养血](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_xiuh.md#养血)】`ian3 xiuh7` <sup>[如皋]</sup> ① 使血液质量正常。 ② 多造血。  
+1. 【[养种像种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_zhon_qian_zhon.md#养种像种)】`ian3 zhon3 qian6 zhon3` <small>/iɑŋ3 t͡sɔŋ3 t͡ɕʰiɑŋ1 t͡sɔŋ3/<sup>泰兴</sup></small> 戏语。谓子女外貌、性格脾气像父母。<sup>\[泰兴\]</sup>  
+1. 【[养猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_zhv.md#养猪)】`ian3 zhv` <small>/iɑŋ3 t͡su/<sup>泰兴</sup></small> 小苗猪。买回来饲养的小猪。<sup>\[泰兴\]</sup>：捉两只～家来<sup>\[泰兴\]</sup>  
 1. 【[养子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_zz.md#养子)】`ian3 zz3` <sup>[东台]</sup> 领养的儿子。  
 1. 【[痒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian.md#痒)】`ian3` <sup>[如东]</sup> 皮肤受到轻微刺激时而引起的想挠的感觉。  
 1. 【[痒疮<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_chuan_r.md#痒疮<sub>儿</sub>)】`ian3 chuan1 r` <sup>[如皋]</sup> 疥疮。  
