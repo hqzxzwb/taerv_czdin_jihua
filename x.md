@@ -98,30 +98,37 @@
 1. 【[喜烛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_zhoh.md#喜烛)】`xi3 zhoh7` <sup>[如皋]</sup> 喜事、敬神用的红色精制蜡烛。  
 1. 【[喜孜孜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_zz_zz.md#喜孜孜)】`xi3 zz1 zz1` <sup>[兴化]</sup> 形容心里很欢喜：王氏～回来，向曹氏说了一遍。（《岐路灯》三）  
 1. 【[洗锅把<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_gu_ba_r.md#洗锅把<sub>儿</sub>)】`xi3 gu1 ba3 r` <sup>[如皋]</sup> 洗刷锅灶的草把儿。用高粱苗子、篾丝、乌蓲根等捆扎而成。  
+1. 【[洗锅把<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_gu_ba_r.md#洗锅把<sub>儿</sub>)】`xi3 gu1 ba3 r` <small>/ɕʝ3 kɤɯ1 pɑ˞3/<sup>泰兴</sup></small> 洗锅刷碗用的多由芦穄苗子扎成的小用具。<sup>\[泰兴\]</sup>  
 1. 【[洗锅把子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_gu_ba_zz.md#洗锅把子)】`xi3 gu1 ba3 zz` <sup>[兴化]</sup> 用成束高粱苗扎成的洗锅用具。  
 1. 【[洗干净身子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_gun_qien_shen.md#洗干净身子)】`xi3 gun1 qien shen1 zz` <sup>[东台]</sup> ［喻］指为自己开脱责任。  
 1. 【[洗衣盆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_i_pen.md#洗衣盆)】`xi3 i1 pen2` <sup>[如皋]</sup> 传统用阔边无脚杉木圆盆。与洗脚盆要绝对分开。有男人农裳不沾秽气之意。  
 1. 【[洗一水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ieh_shuei.md#洗一水)】`xi3 ieh7 shuei3` <sup>[东台]</sup> 指衣服下水洗一次。  
 1. 【[洗几告](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ji_go.md#洗几告)】`xi3 ji3 go5` <sup>[东台]</sup> 洗几遍。  
+1. 【[洗脚布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_jiah_bv.md#洗脚布)】`xi3 jiah bv5` <small>/ɕʝ3 t͡ɕiɑʔ pu5/<sup>泰兴</sup></small> 洗脚用的毛巾。<sup>\[泰兴\]</sup>  
 1. 【[洗脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_jiah.md#洗脚)】`xi3 jiah7` <sup>[如皋]</sup> ① 就是洗脚。 ② 讳称清洗阴部。  
+1. 【[洗脸布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_lin_bv.md#洗脸布)】`xi3 lin bv5` <small>/ɕʝ3 lĩ pu5/<sup>泰兴</sup></small> 洗脸用的毛巾。<sup>\[泰兴\]</sup>  
+1. 【[洗脸布揩脚，不分上下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_lin_bv_kae.md#洗脸布揩脚，不分上下)】`xi3 lin bv5 kae1 jiah7 beh7 fen1 shan6 ha6` <small>/ɕʝ3 lĩ pu5 kʰɛ1 t͡ɕiɑʔ7 pəʔ7 fəŋ1 sɑŋ1 xɑ1/<sup>泰兴</sup></small> 歇后语。喻人不讲礼貌，犹“没大没小的”。<sup>\[泰兴\]</sup>  
 1. 【[洗脸盆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_lin_pen.md#洗脸盆)】`xi3 lin pen2` <small>/ɕʝ3 lĩ pʰəŋ2/<sup>泰兴</sup></small> 洗脸盆<sup>\[泰兴\]</sup>  
+1. 【[洗脸架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_lin_ga_zz.md#洗脸架子)】`xi3 lin3 ga5 zz` <small>/ɕʝ3 lĩ3 kɑ5 t͡sɿ/<sup>泰兴</sup></small> 脸盆架。<sup>\[泰兴\]</sup>  
 1. 【[洗马池](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ma_chr.md#洗马池)】`xi3 ma3 chr2` <sup>[东台]</sup> 地名，位于东台城大月塘附近。相传唐太宗李世民遇险，马陷淤泥河，曾在此洗马。  
 1. 【[洗牙硍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_nga_ken.md#洗牙硍)】`xi3 nga2 ken5` <small>/ɕʝ3 ŋa2 kʰəŋ5/<sup>如皋</sup></small> ① 讲解、劝说无效后的叹语。<sup>\[如皋\]</sup> ② 洗刷牙缝中的污垢。通常称刷牙。<sup>\[如东\]</sup> ③ 比喻没紧没慢地说话。<sup>\[如东\]</sup>：没功夫跟你～。<sup>\[如东\]</sup>  
 1. 【[洗眼睛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ngaen_jien.md#洗眼睛)】`xi3 ngaen3 jien` <sup>[如皋]</sup> ① 用清水或淡盐水喷或浸眼睛，是一种卫生、治眼疾的方法。 ② 旧时理发店服务项目之一，用剃刀背棱刮眼黏膜，有快感。但有危险而不卫生，后被禁止。  
 1. 【[洗牌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_pae.md#洗牌)】`xi3 pae2` <sup>[东台]</sup> 把牌打乱，重新码齐。  
 1. 【[洗屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_pi_gu.md#洗屁股)】`xi3 pi5 gu` <small>/ɕʝ3 pʰʝ5 kʊ/<sup>如皋</sup></small> ① 讳称“洗脚”。<sup>\[如皋\]</sup> ② 为婴儿清洗时直称～。<sup>\[如皋\]</sup> ③ 用水清洁阴部。<sup>\[如东\]</sup>  
-1. 【[洗三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_saen.md#洗三)】`xi3 saen1` <small>/sɿ3 sɛ̃1/<sup>泰县</sup></small> ① 婴儿出生第三天擦洗全身，叫做洗三。<sup>\[如东\]</sup> ② 婴儿出生后第三日所举行的仪礼。古称汤饼会。<sup>\[东台\]</sup> ③ 婴儿出生的第三天。<sup>\[泰县\]</sup> ④ 民俗，婴儿出生后第三日，举行沐浴仪式，请接生老娘为婴儿洗澡，并说鸽子，洗涤污秽，消灾免难，祈祥求福。<sup>\[泰州\]</sup>  
+1. 【[洗三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_saen.md#洗三)】`xi3 saen1` <small>/ɕʝ3 ɕiɛ̃1/<sup>泰兴</sup>, /sɿ3 sɛ̃1/<sup>泰县</sup></small> ① 婴儿出生第三天擦洗全身，叫做洗三。<sup>\[如东\]</sup> ② 婴儿出生后第三日所举行的仪礼。古称汤饼会。<sup>\[东台\]</sup> ③ 婴儿出生的第三天。<sup>\[泰县\]</sup> ④ 民俗，婴儿出生后第三日，举行沐浴仪式，请接生老娘为婴儿洗澡，并说鸽子，洗涤污秽，消灾免难，祈祥求福。<sup>\[泰州\]</sup> ⑤ 旧俗婴儿生后第三日亲朋会集庆贺，给婴儿洗澡，曰洗三。<sup>\[泰兴\]</sup>  
 1. 【[洗手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_sheu.md#洗手)】`xi3 sheu3` <sup>[如东]</sup> ① 用水把手洗干净。 ② 比喻改变过去肮脏的思想和行为。  
 1. 【[洗手把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_sheu_ba.md#洗手把)】`xi3 sheu3 ba3` <sup>[泰县]</sup> （数词）五。  
 1. 【[洗手咸菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_sheu_haen_cae.md#洗手咸菜)】`xi3 sheu3 haen2 cae5` <sup>[东台]</sup> 现腌现吃的咸菜。  
 1. 【[洗堂草把<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_tan_co_ba.md#洗堂草把<sub>儿</sub>)】`xi3 tan2 co3 ba3 r` <sup>[如皋]</sup> 烧饼店用洗炉膛子的草把。  
 1. 【[洗头交](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_teu_go.md#洗头交)】`xi3 teu2 go5` <sup>[东台]</sup> 洗第一遍。  
 1. 【[洗碗抹杂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_un_maeh_zaeh.md#洗碗抹杂)】`xi3 un3 maeh8 zaeh7` <sup>[如皋]</sup> 厨房杂事，家务琐事。  
+1. 【[洗洗渌渌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xi_loh_loh.md#洗洗渌渌)】`xi3 xi loh8 loh` <small>/ɕʝ3 ɕʝ lɔʔ8 lɔʔ/<sup>泰兴</sup></small> 浆洗衣被等杂活。<sup>\[泰兴\]</sup>  
 1. 【[洗猪匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_zhv_qian.md#洗猪匠)】`xi3 zhv1 qian6` <sup>[东台]</sup> 旧时农村对兽医的俗称。  
-1. 【[洗澡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_zo.md#洗澡)】`xi3 zo3` <small>/ɕʝ3 t͡sɔ3/<sup>如皋</sup></small> ① 游泳<sup>\[如皋\]</sup>：下河～。<sup>\[如皋\]</sup> ② 擦身。<sup>\[如东\]</sup>：她在房间里～。<sup>\[如东\]</sup> ③ 游泳。<sup>\[如东\]</sup>：他俫几个在河里～。<sup>\[如东\]</sup>  
+1. 【[洗澡布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_zo_bv.md#洗澡布)】`xi3 zo bv5` <small>/ɕʝ3 t͡sɔ pu5/<sup>泰兴</sup></small> 洗澡用的毛巾。<sup>\[泰兴\]</sup>  
+1. 【[洗澡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_zo.md#洗澡)】`xi3 zo3` <small>/ɕʝ3 t͡sɔ3/<sup>如皋</sup></small> ① 游泳<sup>\[如皋\]</sup><sup>\[如东\]</sup>：下河～。<sup>\[如皋\]</sup>｜他俫几个在河里～。<sup>\[如东\]</sup> ② 擦身。<sup>\[如东\]</sup>：她在房间里～。<sup>\[如东\]</sup>  
 1. 【[洗澡盆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_zo_pen.md#洗澡盆)】`xi3 zo3 pen2` <sup>[如皋]</sup> 洗澡用的长盆，前低后高。见“澡盆”。现已少见。  
 1. 【[洗澡手巾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_zo_sheu_jien.md#洗澡手巾)】`xi3 zo3 sheu3 jien1` <sup>[如皋]</sup> 浴巾。  
-1. 【[洗澡堂子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_zo_tan_zz.md#洗澡堂子)】`xi3 zo3 tan2 zz` <sup>[如皋]</sup> 公共浴室。  
+1. 【[洗澡堂子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_zo_tan_zz.md#洗澡堂子)】`xi3 zo3 tan2 zz` <small>/ɕʝ3 t͡sɔ3 tʰã2 t͡sɿ/<sup>如皋</sup>, /ɕʝ3 t͡sɔ3 tʰɑŋ2 t͡sɿ/<sup>泰兴</sup></small> 公共浴室。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
 1. 【[蟢蟢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xi.md#蟢蟢)】`xi3 xi` <sup>[东台]</sup> 蜘蛛的一种。又叫蟢蟢蛛儿。因“蟢”与“喜”谐音，旧时常当作喜庆的征兆。  
 1. 【[蟢蟢蛛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xi_zhv_r.md#蟢蟢蛛<sub>儿</sub>)】`xi3 xi zhv1 r` <small>/ɕi3 ɕi t͡su1 ɚ/<sup>兴化</sup></small> ① 同“蟢蟢”<sup>\[东台\]</sup> ② 蜘蛛。<sup>\[兴化\]</sup>  
 1. 【[蟢蟢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xi_r.md#蟢蟢<sub>儿</sub>)】`xi3 xi3 r` <small>/ɕʝ3 ɕʝ˞3/<sup>如皋</sup></small> ① 蜘蛛 ② 蜘蛛。<sup>\[如皋\]</sup> ③ 圆网蛛科动物大腹圆网蛛，体圆形或椭圆形，头胸部被有背甲1枚。口小，适于吮吸。单眼4对。头胸部下有附肢6对，第1对为钳角，似大颚，呈单螯状，通毒腺。第2对为脚须，似触角，雄性末端膨大成交配器。其余4对为步足，中间丛生细毛，跗节末端有钩爪2枚。腹部圆大而软。腹后端有疣状纺锤突3对，通纺绩腺，能分泌一种粘液，凝结成丝而结网。常结网于树间、檐下。<sup>\[如东\]</sup>  

@@ -2416,8 +2416,8 @@
 1. 【[躲水猫猫<sub>儿</sub>寻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_shuei_mo_mo.md#躲水猫猫<sub>儿</sub>寻)】`du3 shuei3 mo2 mo2 r qien2` <sup>[如皋]</sup> 水中捉迷藏。  
 1. 【[躲水蒙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_shuei_mon_zz.md#躲水蒙子)】`du3 shuei3 mon2 zz` <sup>[兴化]</sup> 捉迷藏。  
 1. 【[躲雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_y.md#躲雨)】`du3 y3` <sup>[如东]</sup> 走进有顶篷的地方，避免被雨水淋湿。  
-1. 【[□□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_lah_do.md#□□□)】`du5 lah do1` <sup>[泰兴]</sup> 詈语，具体含义不详：枪毙杀头～  
 1. 【[剁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du.md#剁)】`du5` <small>/tʊ5/<sup>如皋</sup>, /tɤɯ5/<sup>泰兴</sup></small> ① 用刀向下砍。<sup>\[如东\]</sup>：～肉。<sup>\[如东\]</sup> ② 文字删削<sup>\[如皋\]</sup>：中间～掉一大段文字。如皋词典写“剟”。<sup>\[如皋\]</sup> ③ 举起刀斧用力向下砍断<sup>\[泰州\]</sup>：把排骨～啊子。<sup>\[泰州\]</sup> ④ 砍，用力切割，斫。<sup>\[泰兴\]</sup>：～骨头<sup>\[泰兴\]</sup>  
+1. 【[剁□刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_lah_do.md#剁□刀)】`du5 lah do1` <small>/tɤɯ5 lɑʔ tɔ1/<sup>泰兴</sup></small> 詈语，具体含义不详<sup>\[泰兴\]</sup>：枪毙杀头～<sup>\[泰兴\]</sup>  
 1. 【[剁肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_roh.md#剁肉)】`du5 roh8` <sup>[如东]</sup> ① 把肉砍碎：中午吃饺儿，我切莱，你～。 ② 把肉割下来。  
 1. 【[剁手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_sheu.md#剁手)】`du5 sheu3` <small>/to5 sɤ3/<sup>兴化</sup></small> ① （喻）被迫写下认错改悔的文书<sup>\[兴化\]</sup>：我的话全是真的，不相信～把你。<sup>\[兴化\]</sup> ② 表示确认自己说的话，不反悔，如果反悔就剁下自己的一只手，旧时人受冤枉无法证明清白，就以“断指”来表示自己所言属实<sup>\[泰州\]</sup>：你要是还不相信的话，我就～把你。<sup>\[泰州\]</sup>  
 1. 【[剁头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_teu.md#剁头)】`du5 teu2` <sup>[如东]</sup> 杀头，砍头：犯吖死罪，要～的。  

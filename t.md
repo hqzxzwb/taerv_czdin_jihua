@@ -1897,6 +1897,7 @@
 1. 【[动动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_ton.md#动动)】`ton6 ton` <sup>[如东]</sup> 活动活动：不要尽坐啊下，要～。  
 1. 【[动众](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_zhon.md#动众)】`ton6 zhon5` <small>/tʰɔŋ1 t͡sɔŋ5/<sup>如皋</sup></small> ① 说话狂妄，得罪大家。<sup>\[如皋\]</sup> ② 技艺、本领超过一般人。<sup>\[如皋\]</sup> ③ 引起公愤。<sup>\[如皋\]</sup> ④ 犯众怒：你说话不要～！<sup>\[如皋\]</sup>  
 1. 【[洞里人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_li_ren.md#洞里人)】`ton6 li3 ren2` <sup>[如东]</sup> 指老鼠。  
+1. 【[洞洞眼眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_ton_ngaen_ngaen.md#洞洞眼眼)】`ton6 ton6 ngaen3 ngaen3` <small>/tʰɔŋ1 tʰɔŋ1 ŋɛ̃3 ŋɛ̃3/<sup>泰兴</sup></small> 谓十分破烂的样子。<sup>\[泰兴\]</sup>  
 1. 【[胴宫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_gon.md#胴宫)】`ton6 gon1` <sup>[如东]</sup> 肛门：～出血。  
 1. 【[胴疘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_gon.md#胴疘)】`ton6 gon1` <sup>[如皋]</sup> 肛门上方的括约肌管道，有病时会坠出。  
 1. 【[胴疘头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_gon_teu_zz.md#胴疘头子)】`ton6 gon1 teu2 zz` <sup>[东台]</sup> 指肛门：～𠫓下来了，淌呃好些血。《文字集略》云｜“脱疘，下部病也。”  

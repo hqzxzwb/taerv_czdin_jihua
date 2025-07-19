@@ -270,13 +270,14 @@
 1. 【[三朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_zho.md#三朝)】`saen1 zho1` <small>/sɛ̃1 t͡sɔ1/<sup>兴化</sup>, /sẽ1 t͡sɔ1/<sup>如皋</sup>, /ɕiɛ̃1 t͡sɔ1/<sup>泰兴</sup></small> ① 结婚或生育的第三天。<sup>\[如皋\]</sup> ② 指新婚后的第三天。旧俗这一天新妇回娘家。<sup>\[东台\]</sup> ③ 婴儿出生后第三天，旧俗这一天为婴儿洗澡所举行的仪礼，称“洗三”。<sup>\[东台\]</sup> ④ 新婚的第三日。<sup>\[兴化\]</sup> ⑤ 婴儿出生的第三天。<sup>\[兴化\]</sup> ⑥ 旧俗指婚后或产后的第三天。乡间婚俗男方连续三日热闹称“大三朝”，一天内办完喜事为“一天圆”；产后第三日亦称三朝，娘家为女儿及新生儿送礼称“洗三”。<sup>\[泰兴\]</sup> ⑦ 结婚后的第三天<sup>\[泰州\]</sup>：他家姑娘、女婿今朝～回门。<sup>\[泰州\]</sup> ⑧ 出生后的第三天<sup>\[泰州\]</sup>：老李家孙子今朝～，办吖六桌洗三酒。<sup>\[泰州\]</sup>  
 1. 【[三砖一丁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_zhun_ieh_dien.md#三砖一丁)】`saen1 zhun1 ieh7 dien1` <sup>[如皋]</sup> 砌墙排砖的一种方法。  
 1. 【[三祖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_zv.md#三祖)】`saen1 zv3` <sup>[如东]</sup> 中华民族的共同祖先，一说是炎帝、黄帝称我们是“炎黄子孙”，一说是炎帝黄帝、蚩尤，称我们是“三祖后代”。  
-1. 【[涎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen.md#涎)】`saen2` <small>/sẽ2/<sup>如皋</sup></small> ① 口水 ② 口水，唾液。<sup>\[如皋\]</sup> ③ 唾液：吐～、漓～。<sup>\[如皋\]</sup> ④ 唾液。<sup>\[如东\]</sup>：这个伢儿漓（la2）～。<sup>\[如东\]</sup>  
+1. 【[涎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen.md#涎)】`saen2` <small>/sẽ2/<sup>如皋</sup>, /ɕiɛ̃2/<sup>泰兴</sup></small> ① 口水 ② 口水，唾液。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰兴\]</sup>：吐～、漓～。<sup>\[如皋\]</sup>｜这个伢儿漓（la2）～。<sup>\[如东\]</sup>  
 1. 【[涎滴滴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_dieh_dieh_dii.md#涎滴滴的)】`saen2 dieh7 dieh7 dii` <sup>[如皋]</sup> 见“涎漓漓的”。  
 1. 【[涎袈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_ga_r.md#涎袈<sub>儿</sub>)】`saen2 ga1 r` <small>/sẽ2 ka˞1/<sup>如皋</sup></small> ① 小孩用的围嘴。<sup>\[如皋\]</sup> ② 围在小孩脖子下边挡唾液和脏物的一块方布或椭圆形的布。<sup>\[如东\]</sup> ③ 围在幼儿项下、胸前的布，平时防止小儿口水，主要用于幼儿吃饭时，防止饮食弄脏身上衣服。<sup>\[泰州\]</sup>  
 1. 【[涎花<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_hua_r.md#涎花<sub>儿</sub>)】`saen2 hua1 r` <sup>[如东]</sup> 唾沫。  
 1. 【[涎漓漓的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_la_la_dii.md#涎漓漓的)】`saen2 la2 la2 dii` <sup>[如皋]</sup> ① 状馋。 ② 状年老。 ③ 状病态。  
 1. 【[涎沫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_muh_zz.md#涎沫子)】`saen2 muh8 zz` <sup>[如皋]</sup> 唾液。  
 1. 【[涎沫子味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_muh_zz_vei.md#涎沫子味)】`saen2 muh8 zz vei6` <sup>[如皋]</sup> 唾液干后的臭味。  
+1. 【[涎水直漓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_shuei_cheh_la.md#涎水直漓)】`saen2 shuei cheh8 la2` <small>/ɕiɛ̃2 suəɪ t͡sʰəʔ8 lɑ2/<sup>泰兴</sup></small> 流口水不停。<sup>\[泰兴\]</sup>  
 1. 【[涎水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_shuei.md#涎水)】`saen2 shuei3` <sup>[东台]</sup> 口水，较多的唾沫：咽～。  
 1. 【[涎胎<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_tae_r.md#涎胎<sub>儿</sub>)】`saen2 tae1 r` <sup>[如东]</sup> 口腔中汾泌唾液的腺体。  
 1. 【[涎胎<sub>儿</sub>破啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_tae_r_pu.md#涎胎<sub>儿</sub>破啊)】`saen2 tae1 r pu5 a` <sup>[如东]</sup> 小儿唾液腺体发生异常，嘴里经常淌口水，称涎胎儿破了。  

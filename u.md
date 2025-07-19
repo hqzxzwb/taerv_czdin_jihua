@@ -93,7 +93,9 @@
 1. 【[𢉥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh.md#𢉥)】`uh7` <small>/uʔ7/<sup>兴化</sup>, /ʊʔ7/<sup>如皋</sup></small> ① 阴暗矮小，有闷感<sup>\[如皋\]</sup>：房子太～，三个人住不下来。<sup>\[如皋\]</sup> ② 房屋低矮，令人有压抑感<sup>\[兴化\]</sup>：顶棚搭得低，就像～咖头上。《广韵·曷的》乌葛切“～，屋迫”。<sup>\[兴化\]</sup> ③ 房间空间小引起的压迫感<sup>\[泰州\]</sup>：家里地方小，东西多，人蹾吖里头～煞咖。<sup>\[泰州\]</sup>｜你睡啊这点点大的小阁子上不嫌～人吖。<sup>\[泰州\]</sup>  
 1. 【[𤎣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh.md#𤎣)】`uh7` <small>/uʔ7/<sup>兴化</sup>, /ʊʔ7/<sup>如皋</sup>, /ʊʔ7/<sup>泰县</sup></small> ① 水煮，食品的煮法<sup>\[如皋\]</sup>：～芋头、～玉米棒头儿。<sup>\[如皋\]</sup> ② 喻行贿<sup>\[如皋\]</sup>：他想升官就拿钱～顶门上司。<sup>\[如皋\]</sup> ③ 一种烹调方法。把食物放在锅里，加盖，焖熟。<sup>\[如东\]</sup>：～红薯。<sup>\[如东\]</sup> ④ 加水闷煮<sup>\[东台\]</sup>：～山芋<sup>\[东台\]</sup>｜～稻头。<sup>\[东台\]</sup> ⑤ 大火蒸煮<sup>\[兴化\]</sup>：～山芋<sup>\[兴化\]</sup>｜～老菱。《集韵·合韵》遏合切“～，烹菜也”。<sup>\[兴化\]</sup> ⑥ 煮：～黄豆。<sup>\[泰县\]</sup> ⑦ 煮菜，加足够水，盖紧锅盖煮熟<sup>\[泰州\]</sup>：～老菱<sup>\[泰州\]</sup>｜～山芋<sup>\[泰州\]</sup>  
 1. 【[活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh.md#活)】`uh8` <sup>[东台]</sup> 松动：榫头～咖啦。  
+1. 【[活剥剥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_bah_bah.md#活剥剥)】`uh8 bah7 bah7` <small>/ʊʔ8 pɑʔ7 pɑʔ7/<sup>泰兴</sup></small> 喻丢人现眼；丢架子。<sup>\[泰兴\]</sup>：～，惹气着<sup>\[泰兴\]</sup>  
 1. 【[活剥剥的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_bah_bah_dii.md#活剥剥的)】`uh8 bah7 bah7 dii` <sup>[东台]</sup> 活生生的（带痛惜口气）：他家～小伢儿捱鬼子打死啊。  
+1. 【[活剥皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_bah_pi.md#活剥皮)】`uh8 bah7 pi2` <small>/ʊʔ8 pɑʔ7 pʰʝ2/<sup>泰兴</sup></small> 麻（植物）的一种俗称。收获后剥皮取麻，故名。<sup>\[泰兴\]</sup>  
 1. 【[活财神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_cae_shen.md#活财神)】`uh8 cae2 shen2` <sup>[如皋]</sup> 褒指有钱或对我生财之人。贬指惹事非或无事生非之人。  
 1. 【[活贼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_ceh.md#活贼)】`uh8 ceh8` <sup>[如皋]</sup> 窃贼。  
 1. 【[活贼扒<sub>儿</sub>手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_ceh_pa_r.md#活贼扒<sub>儿</sub>手)】`uh8 ceh8 pa2 r sheu3` <sup>[如皋]</sup> 詈语。骂惯偷。  
@@ -101,28 +103,38 @@
 1. 【[活抽牵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_cheu_qin.md#活抽牵)】`uh8 cheu1 qin1` <sup>[东台]</sup> （詈语）也称“瞎抽牵”。同“抽牵”。  
 1. 【[活缠蛮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_chin_maen.md#活缠蛮)】`uh8 chin6 maen2` <sup>[东台]</sup> 同“活缠事”。  
 1. 【[活缠事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_chin_shr.md#活缠事)】`uh8 chin6 shr6` <sup>[东台]</sup> （詈语）同“缠事”。也称瞎缠事、蛮不讲理。  
-1. 【[活泛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_faen.md#活泛)】`uh8 faen5` <small>/ʊʔ8 fẽ5/<sup>如皋</sup></small> ① 灵活、灵便、宽裕<sup>\[如皋\]</sup>：车子～；手里～；处世～。<sup>\[如皋\]</sup> ② 动作敏捷、灵活，处事机灵。泛指经济宽裕<sup>\[东台\]</sup>：他手头～。<sup>\[东台\]</sup>  
+1. 【[活法](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_faeh.md#活法)】`uh8 faeh7` <small>/ʊʔ8 fæʔ7/<sup>泰兴</sup></small> 灵活的原则、方法。<sup>\[泰兴\]</sup>：除了死法想～<sup>\[泰兴\]</sup>  
+1. 【[活泛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_faen.md#活泛)】`uh8 faen` <small>/ʊʔ8 fẽ/<sup>如皋</sup>, /ʊʔ8 fɛ̃/<sup>泰兴</sup></small> ① 灵活、灵便、宽裕<sup>\[如皋\]</sup>：车子～；手里～；处世～。<sup>\[如皋\]</sup> ② 动作敏捷、灵活，处事机灵。泛指经济宽裕<sup>\[东台\]</sup>：他手头～。<sup>\[东台\]</sup> ③ 动作敏捷灵活；为人处世灵活。<sup>\[泰兴\]</sup>  
 1. 【[活搞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_go.md#活搞)】`uh8 go3` <sup>[如皋]</sup> 胡搅蛮缠。  
-1. 【[活鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_guei.md#活鬼)】`uh8 guei3` <small>/ʊʔ8 kuei3/<sup>如皋</sup></small> ① 贬、詈、昵语。<sup>\[如皋\]</sup> ② （詈语）骂对方人品太差。<sup>\[东台\]</sup>  
+1. 【[活鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_guei.md#活鬼)】`uh8 guei3` <small>/ʊʔ8 kuei3/<sup>如皋</sup>, /ʊʔ8 kuəɪ3/<sup>泰兴</sup></small> ① 贬、詈、昵语。<sup>\[如皋\]</sup> ② （詈语）骂对方人品太差。<sup>\[东台\]</sup> ③ 谑语。谓人狡黠灵活。<sup>\[泰兴\]</sup>  
 1. 【[活下来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_ha_lae.md#活下来)】`uh8 ha lae` <sup>[如皋]</sup> ① 存活下来。 ② 反复扳动使分开：把榫头走榫眼里～。  
 1. 【[活计](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_ji.md#活计)】`uh8 ji5` <sup>[东台]</sup> 活儿，分工的任务。  
 1. 【[活经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_jien.md#活经)】`uh8 jien1` <sup>[东台]</sup> 少女发育，开始来月经。  
 1. 【[活劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_jien.md#活劲)】`uh8 jien5` <sup>[东台]</sup> 灵活，不呆板。  
+1. 【[活结](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_jih.md#活结)】`uh8 jih7` <small>/ʊʔ8 t͡ɕiʔ7/<sup>泰兴</sup></small> 一拉就开的结，与死结相对。<sup>\[泰兴\]</sup>  
 1. 【[活嘴活下巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_jy_uh_ha.md#活嘴活下巴)】`uh8 jy3 uh8 ha6 ba1` <sup>[东台]</sup> 形容能说会道，什么事都能说得活灵活现。  
 1. 【[活络](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_lah.md#活络)】`uh8 lah` <sup>[如皋]</sup> 见“活泛”。  
 1. 【[活落盐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_lah_in.md#活落盐)】`uh8 lah8 in2` <sup>[如皋]</sup> 进舱时趁活加盐腌制的小黄鱼。品质好。  
 1. 【[活捱搅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_ngae_go.md#活捱搅)】`uh8 ngae2 go3` <sup>[如皋]</sup> 见“活遭罪”。  
 1. 【[活嚼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_qiah.md#活嚼)】`uh8 qiah8` <sup>[如皋]</sup> 胡说八道。  
+1. 【[活嚼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_qiah.md#活嚼)】`uh8 qiah8` <small>/ʊʔ8 t͡ɕʰiɑʔ8/<sup>泰兴</sup></small> 骂人语。犹胡说。<sup>\[泰兴\]</sup>  
 1. 【[活嚼大三光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_qiah_da_saen.md#活嚼大三光)】`uh8 qiah8 da6 saen1 guan1` <sup>[东台]</sup> （詈语）严厉斥责对方是完全没有根据的瞎说。  
 1. 【[活嚼大头蛆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_qiah_da_teu.md#活嚼大头蛆)】`uh8 qiah8 da6 teu2 qy1` <small>/ʊʔ8 t͡ɕʰiaʔ8 ta1 tʰei2 t͡ɕʰy1/<sup>如皋</sup></small> ① 乱说、胡说。无影子的说，不计后果的说。<sup>\[如皋\]</sup> ② 同“活嚼大三光”。（参见“嚼蛆”“嚼瘟蛆”）<sup>\[东台\]</sup>  
 1. 【[活伤良心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_shan_lian_xien.md#活伤良心)】`uh8 shan1 lian2 xien1` <sup>[东台]</sup> 见“伤良心”。  
-1. 【[活食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_sheh.md#活食)】`uh8 sheh8` <small>/ʊʔ8 səʔ8/<sup>如皋</sup></small> ① 以鲜活的小动物为食<sup>\[如皋\]</sup>：鸡子吃咖～就长得快。<sup>\[如皋\]</sup> ② 以活物充当食物。<sup>\[东台\]</sup> ③ ［喻］指固定收入之外的活收入。<sup>\[东台\]</sup>  
+1. 【[活食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_sheh.md#活食)】`uh8 sheh8` <small>/ʊʔ8 səʔ8/<sup>如皋</sup>, /ʊʔ8 səʔ8/<sup>泰兴</sup></small> ① 以鲜活的小动物为食<sup>\[如皋\]</sup>：鸡子吃咖～就长得快。<sup>\[如皋\]</sup> ② 以活物充当食物。<sup>\[东台\]</sup> ③ ［喻］指固定收入之外的活收入。<sup>\[东台\]</sup> ④ 比喻所从事的工作每天都有一定的收人。也指虫类是禽鸟的食物。<sup>\[泰兴\]</sup>：他是吃～的<sup>\[泰兴\]</sup>  
+1. 【[活守寡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_sheu_gua.md#活守寡)】`uh8 sheu3 gua3` <small>/ʊʔ8 ɕiɤɯ3 kuɑ3/<sup>泰兴</sup></small> 谓已婚女子长期不能和丈夫在一起。也说守活寡。<sup>\[泰兴\]</sup>  
+1. 【[活受罪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_sheu_cuei.md#活受罪)】`uh8 sheu6 cuei6` <small>/ʊʔ8 ɕiɤɯ1 t͡sʰuəɪ1/<sup>泰兴</sup></small> 喻遭受无法摆脱的苦难。<sup>\[泰兴\]</sup>  
 1. 【[活水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_shuei.md#活水)】`uh8 shuei3` <sup>[东台]</sup> 流动不腐的水。  
+1. 【[活水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_shuei.md#活水)】`uh8 shuei3` <small>/ʊʔ8 suəɪ3/<sup>泰兴</sup></small> 常流动的水。<sup>\[泰兴\]</sup>  
 1. 【[活死人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_sz_ren.md#活死人)】`uh8 sz3 ren` <sup>[如皋]</sup> 虽活着，等于死了。  
 1. 【[活达](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_taeh.md#活达)】`uh8 taeh` <sup>[东台]</sup> 反应灵敏，灵活。  
 1. 【[活形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_xien.md#活形)】`uh8 xien2` <sup>[如皋]</sup> 对“死形”的反驳语，同样指“难看”。  
+1. 【[活鲜活剥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_xin_uh_bah.md#活鲜活剥)】`uh8 xin1 uh8 bah7` <small>/ʊʔ8 ɕĩ1 ʊʔ8 pɑʔ7/<sup>泰兴</sup></small> 鲜活的，不是死的。多指买鸡鸭鱼虾等作菜用的动物。<sup>\[泰兴\]</sup>  
 1. 【[活鲜活跳的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_xin_uh_tio.md#活鲜活跳的)】`uh8 xin1 uh8 tio5 dii` <sup>[如皋]</sup> 生命力旺盛的样子。  
 1. 【[活鲜鲜的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_xin_xin_dii.md#活鲜鲜的)】`uh8 xin1 xin1 dii` <sup>[如皋]</sup> 见“活鲜活跳的”。  
+1. 【[活鲜鲜的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_xin_xin_dii.md#活鲜鲜的)】`uh8 xin1 xin1 dii` <small>/ʊʔ8 ɕĩ1 ɕĩ1 təɪ/<sup>泰兴</sup></small> 活的，充满生机的。<sup>\[泰兴\]</sup>  
+1. 【[活现报](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_xin_bo.md#活现报)】`uh8 xin6 bo5` <small>/ʊʔ8 ɕĩ1 pɔ5/<sup>泰兴</sup></small> 现世的报应。<sup>\[泰兴\]</sup>  
+1. 【[活现世](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_xin_shr.md#活现世)】`uh8 xin6 shr5` <small>/ʊʔ8 ɕĩ1 sɿ5/<sup>泰兴</sup></small> 犹现世宝；丢人现眼。<sup>\[泰兴\]</sup>  
 1. 【[活血](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_xiuh.md#活血)】`uh8 xiuh` <sup>[如皋]</sup> 见“活泛”。  
 1. 【[活血](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_xiuh.md#活血)】`uh8 xiuh7` <sup>[东台]</sup> 促使血脉流畅的办法。  
 1. 【[活作操](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_zah_co.md#活作操)】`uh8 zah7 co1` <sup>[如皋]</sup> 贬指、叹息故意生事或浪费的行为。  

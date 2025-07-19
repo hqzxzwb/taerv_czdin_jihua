@@ -1206,7 +1206,7 @@
 1. 【[秋上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_shan.md#秋上)】`qieu1 shan` <sup>[如皋]</sup> 秋季。  
 1. 【[秋天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_tin.md#秋天)】`qieu1 tin1` <sup>[如东]</sup> 秋季。也称秋里、秋上。  
 1. 【[秋天的石榴——合不拢嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_tin_dii_sheh.md#秋天的石榴——合不拢嘴)】`qieu1 tin1 dii sheh8 lieu huh8 beh7 lon3 jy3` <sup>[东台]</sup>   
-1. 【[秋天怕夜睛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_tin_pa_ia.md#秋天怕夜睛)】`qieu1 tin1 pa5 ia6 qien2` <small>/t͡ɕʰiɤɯ1 tʰĩ1 pʰɑ5 iɑ1 t͡ɕʰiŋ2/<sup>泰兴</sup></small> 天气谚语。谓秋夜晴朗可能要下雨。<sup>\[泰兴\]</sup>  
+1. 【[秋天怕夜晴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_tin_pa_ia.md#秋天怕夜晴)】`qieu1 tin1 pa5 ia6 qien2` <small>/t͡ɕʰiɤɯ1 tʰĩ1 pʰɑ5 iɑ1 t͡ɕʰiŋ2/<sup>泰兴</sup></small> 天气谚语。谓秋夜晴朗可能要下雨。<sup>\[泰兴\]</sup>  
 1. 【[秋天无雨北风多，起到南风是雨窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_tin_v_y.md#秋天无雨北风多，起到南风是雨窠)】`qieu1 tin1 v2 y3 boh7 fon du1 qi3 do5 nun2 fon1 shr6 y3 ku1` <small>/t͡ɕʰiɤɯ1 tʰĩ1 ʋ2 y3 pɔʔ7 fɔŋ tɤɯ1 t͡ɕʰʝ3 tɔ5 nʊ̃2 fɔŋ1 sɿ1 y3 kʰɤɯ1/<sup>泰兴</sup></small> 气象谚语。谓秋天刮南风将要下雨。<sup>\[泰兴\]</sup>  
 1. 【[邱场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_chan.md#邱场)】`qieu1 chan2` <sup>[如皋]</sup> 本名西场，因邱陞将军战死于此而改名。  
 1. 【[邱公祠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_gon_cz.md#邱公祠)】`qieu1 gon1 cz2` <sup>[如皋]</sup> 原在如城老体育场东侧，祀明·嘉靖年间扬州副将邱陞。因其在如皋杀倭寇而牺牲。受皇封，立庙祭祀。  
