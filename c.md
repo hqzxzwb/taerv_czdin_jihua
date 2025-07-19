@@ -2340,7 +2340,6 @@
 1. 【[龇牙咧嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_nga_lae_zuei.md#龇牙咧嘴)】`cz1 nga2 lae3 zuei3` <sup>[如东]</sup> ① 凶狠的样子：你看她那个～样子。 ② 疼痛难忍的样子：王明肚子疼吖～的。  
 1. 【[嗣父母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_fv_mu.md#嗣父母)】`cz2 fv6 mu3` <sup>[如皋]</sup> 过继的父母。  
 1. 【[嗣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_zz.md#嗣子)】`cz2 zz3` <small>/t͡sʰɿ2 t͡sɿ3/<sup>如皋</sup></small> 过继的儿子。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup>  
-1. 【[慈姑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_gv.md#慈姑)】`cz2 gv1` <small>/t͡sʰɿ2 ku1/<sup>泰兴</sup></small> ① 泽泻科植物慈姑，也称茨菰。<sup>\[如东\]</sup><sup>\[泰州\]</sup> ② 一种水生根类蔬菜，果实埋水下土中。\[泰兴：又音cz2 gou1，cz2 kou1\]  
 1. 【[慈怜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_lin.md#慈怜)】`cz2 lin` <sup>[东台]</sup> 慈爱，善良，心软，富有同情心：这个女的心～，看到人家生重病就流眼泪。  
 1. 【[慈怜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_lin.md#慈怜)】`cz2 lin2` <sup>[如皋]</sup> 富同情心，心肠软。  
 1. 【[慈怜心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_lin_xien.md#慈怜心)】`cz2 lin2 xien1` <sup>[兴化]</sup> 慈悲和怜悯心理：老太太～重，常常周济穷乡邻。  
@@ -2355,7 +2354,7 @@
 1. 【[糍尔糊尔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_er_hv_er.md#糍尔糊尔)】`cz2 er hv2 er` <sup>[如东]</sup> 迷迷糊糊：这个人～的，不能委托他出去办事。  
 1. 【[糍饭团](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_faen_tun.md#糍饭团)】`cz2 faen6 tun2` <sup>[如皋]</sup> 糯米饭抐成的团，作点心。  
 1. 【[糍糊邋酱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_hv_laeh_jian.md#糍糊邋酱)】`cz2 hv2 laeh8 jian5` <sup>[如东]</sup> ① 食物黏糊。 ② 泥浆容烂：刚落过雨，路上～的。 ③ 办事不清爽：这个人做事一的。  
-1. 【[茨菰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_gv.md#茨菰)】`cz2 gv1` <sup>[东台]</sup> 水生植物，叶子像箭头，开白花，地下球茎作蔬菜。（也作“慈姑”）  
+1. 【[茨菰/慈姑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_gv.md#茨菰/慈姑)】`cz2 gv1` <small>/t͡sʰɿ2 ku1/<sup>泰兴</sup></small> 水生植物，地下球茎作蔬菜<sup>\[如东\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>\[东台：又音cz2 gou1，cz2 kou1\]  
 1. 【[茨菰青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_gv_qien.md#茨菰青)】`cz2 gv1 qien1` <sup>[如皋]</sup> 像茨菰一样的青色。  
 1. 【[茨菰烧肉——肉头带把子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_gv_sho_roh.md#茨菰烧肉——肉头带把子)】`cz2 gv1 sho1 roh8 roh8 teu2 dae5 ba5 zz` <sup>[东台]</sup>   
 1. 【[词颂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_son.md#词颂)】`cz2 son6` <sup>[如东]</sup> ① 诉颂。也作辞颂。 ② 比喻又生岔枝：她又生吖～。  
