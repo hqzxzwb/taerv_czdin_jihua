@@ -269,7 +269,7 @@
 1. 【[𢭄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi.md#𢭄)】`qi6` <sup>[兴化]</sup> 身体和其他物体（如墙壁）挨得过近，不便伸直：～住身子，不便操作。兴化词典写“𢼨”，《广韵·支韵》去奇切｜“～，不正也”。（声调不合）  
 1. 【[□颈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_jien.md#□颈)】`qia1 jien3` <sup>[泰县]</sup> 落枕：不好，今吖颈项有点儿～。  
 1. 【[奊头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_teu_r.md#奊头<sub>儿</sub>)】`qia1 teu2 r` <sup>[如皋]</sup> ① 颈椎歪斜造成头位畸型。或指人。 ② 头歪着：看～。  
-1. 【[笡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia.md#笡)】`qia1` ① 物体倾斜。<sup>\[如东\]</sup>：竹竿～啊。<sup>\[如东\]</sup> ② 不正，歪斜<sup>\[泰州\]</sup>：你把身子～下子，让他先过去。<sup>\[泰州\]</sup>｜镜框子不曾挂得正，～啊北边去啊唻。<sup>\[泰州\]</sup>  
+1. 【[笡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia.md#笡)】`qia1` 不正，歪斜<sup>\[如东\]</sup><sup>\[泰州\]</sup>：竹竿～啊。<sup>\[如东\]</sup>｜你把身子～下子，让他先过去。<sup>\[泰州\]</sup>｜镜框子不曾挂得正，～啊北边去啊唻。<sup>\[泰州\]</sup>  
 1. 【[笡下子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_ha_zz.md#笡下子)】`qia1 ha zz` <sup>[东台]</sup> 稍微躺一下或靠一会，作短暂休息。  
 1. 【[笡头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_teu.md#笡头)】`qia1 teu2` ① 头歪着。歪着头的人。<sup>\[如东\]</sup> ② 歪脖子，脑袋不正。<sup>\[东台\]</sup>  
 1. 【[笡头打架——硬上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_teu_da_jia.md#笡头打架——硬上)】`qia1 teu2 da3 jia5 ngen6 shan6` <sup>[东台]</sup>   
@@ -324,7 +324,7 @@
 1. 【[茄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_zz.md#茄子)】`qia2 zz` <small>/t͡ɕʰyɑ2 t͡sɿ/<sup>泰兴</sup></small> 茄子<sup>\[泰兴\]</sup>  
 1. 【[详意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_i.md#详意)】`qia2 i` <small>/t͡ɕʰiɑ2 ʝ/<sup>泰兴</sup></small> 以为；预料中的。不～，没有想到。<sup>\[泰兴\]</sup>  
 1. 【[详意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_i.md#详意)】`qia2 i5` <sup>[如皋]</sup> 在意、留神、注意：你哿～他来啊？不曾～。不～他死得这吖早。  
-1. 【[邪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia.md#邪)】`qia2` <small>/t͡ɕʰia2/<sup>兴化</sup>, /t͡ɕʰia2/<sup>如皋</sup>, /t͡ɕʰiɑ2/<sup>泰兴</sup>, /t͡ɕʰia2/<sup>泰县</sup></small> ① 形容人蛮不讲理：你覅（bae5）跟我～。/你别跟我不讲道理。｜那个人～唻。/那个人真不讲理。 ② 不讲理<sup>\[如皋\]</sup>：～儿头、你同他行～不行。<sup>\[如皋\]</sup> ③ 顽强；这伢儿～，受啊伤不哭。<sup>\[如皋\]</sup> ④ 鬼怪迷人<sup>\[如皋\]</sup>：中吖～。<sup>\[如皋\]</sup> ⑤ 横蛮不讲道理。<sup>\[如东\]</sup>：他非常～。<sup>\[如东\]</sup> ⑥ 蛮横不讲理：这个人太～，不上道子。<sup>\[泰县\]</sup> ⑦ 蛮横，霸道<sup>\[泰州\]</sup>：你～甚的东西，你后来的，就派排啊人家后头。<sup>\[泰州\]</sup>  
+1. 【[邪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia.md#邪)】`qia2` <small>/t͡ɕʰia2/<sup>兴化</sup>, /t͡ɕʰia2/<sup>如皋</sup>, /t͡ɕʰiɑ2/<sup>泰兴</sup>, /t͡ɕʰia2/<sup>泰县</sup></small> ① 形容人蛮不讲理。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：你覅（bae5）跟我～。/你别跟我不讲道理。｜那个人～唻。/那个人真不讲理。｜～儿头、你同他行～不行。<sup>\[如皋\]</sup>｜他非常～。<sup>\[如东\]</sup>｜这个人太～，不上道子。<sup>\[泰县\]</sup>｜你～甚的东西，你后来的，就派排啊人家后头。<sup>\[泰州\]</sup> ② 顽强<sup>\[如皋\]</sup>：这伢儿～，受啊伤不哭。<sup>\[如皋\]</sup> ③ 鬼怪迷人<sup>\[如皋\]</sup>：中吖～。<sup>\[如皋\]</sup>  
 1. 【[邪巴刳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_ba_kua.md#邪巴刳)】`qia2 ba kua2` <sup>[如皋]</sup> 强行索取、强制行动，或指这种人。  
 1. 【[邪八古东的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_baeh_gv_don.md#邪八古东的)】`qia2 baeh7 gv3 don1 dii` <sup>[如皋]</sup> 胡搞蛮缠地。  
 1. 【[邪梆梆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_ban_ban.md#邪梆梆)】`qia2 ban1 ban1` <sup>[泰州]</sup> 蛮横霸道又强硬的样子：这小伙～的，上来就要同小王动手。  
@@ -341,11 +341,11 @@
 1. 【[邪掉耳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_tio_er.md#邪掉耳)】`qia2 tio6 er3` <sup>[东台]</sup> 牙齿。（邪掉了右耳旁，就是牙）。本条目也是一个谜面：到医院去看～。  
 1. 【[邪舞𧺕刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_v_shah_do.md#邪舞𧺕刀)】`qia2 v3 shah8 do1` <sup>[如东]</sup> 横蛮，强硬：这个人～的，不像话。  
 1. 【[且看](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_kun.md#且看)】`qia3 kun5` <sup>[如皋]</sup> 看一看，等一等，再说：～他怎吖做相。  
-1. 【[笡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia.md#笡)】`qia5` <sup>[兴化]</sup> ① 倾斜：屋～下来啊。 ② 死亡的隐语：老的望下一～，看你靠哪个？《广韵·祃韵》迁谢切｜“～，斜逆也。”  
+1. 【[笡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia.md#笡)】`qia5` <sup>[如皋]</sup> 倾斜：房子～啊上吖东。  
+1. 【[笡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia.md#笡)】`qia5` <sup>[兴化]</sup> ① 倾斜：屋～下来啊。 ② 死亡的隐语：老的望下一～，看你靠哪个？  
 1. 【[笡山坡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_shaen_pu.md#笡山坡)】`qia5 shaen1 pu1` <sup>[泰州]</sup> 斜坡。  
 1. 【[笡山势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_shaen_shr.md#笡山势)】`qia5 shaen1 shr5` <sup>[兴化]</sup> 形容倾斜的姿势：庙门口四大金刚全是～｜镇江金山宝塔——～。  
 1. 【[笡头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_teu.md#笡头)】`qia5 teu2` 脑袋总是偏向一侧的人。<sup>\[泰州\]</sup>  
-1. 【[趄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia.md#趄)】`qia5` <sup>[如皋]</sup> 倾斜：房子～啊上吖东。  
 1. 【[趄过来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_gu_lae_a.md#趄过来啊)】`qia5 gu5 lae a` <sup>[如皋]</sup> 向自己方向倾斜：房子已经～。  
 1. 【[趄过去啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_gu_qy_a.md#趄过去啊)】`qia5 gu5 qy a` <sup>[如皋]</sup> 向对方方向倾斜。  
 1. 【[㓔啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_a.md#㓔啊)】`qia6 a` <sup>[如皋]</sup> 凋谢了。  
