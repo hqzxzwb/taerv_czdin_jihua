@@ -275,8 +275,6 @@
 1. 【[笡头打架——硬上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_teu_da_jia.md#笡头打架——硬上)】`qia1 teu2 da3 jia5 ngen6 shan6` <sup>[东台]</sup>   
 1. 【[笡头沰烧饼——𧺕沰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_teu_dah_sho.md#笡头沰烧饼——𧺕沰)】`qia1 teu2 dah7 sho1 bien3 shah8 dah7` <sup>[东台]</sup>   
 1. 【[强住咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_chuh_ga.md#强住咖)】`qia2 chuh ga` <sup>[如皋]</sup> 强制着、逼迫着：小家伙不用心，要～他做作业。  
-1. 【[强意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_i.md#强意)】`qia2 i` <small>/t͡ɕʰiɑ2 ʝ/<sup>泰兴</sup></small> 以为；预料中的。不～，没有想到。<sup>\[泰兴\]</sup>  
-1. 【[强意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_i.md#强意)】`qia2 i5` <sup>[如皋]</sup> 在意、留神、注意：你哿～他来啊？不曾～。不～他死得这吖早。  
 1. 【[强如](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_rv.md#强如)】`qia2 rv` <sup>[如皋]</sup> 见“煞如”。  
 1. 【[强如](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_rv.md#强如)】`qia2 rv2` <small>/t͡ɕʰia2 ɻu2/<sup>如皋</sup>, /t͡ɕʰia2 ɻu2/<sup>泰县</sup></small> ① 作为是、假定是、等于是<sup>\[如皋\]</sup>：把伢儿吃吧，～我吃咖。<sup>\[如皋\]</sup> ② 就当，好像<sup>\[泰县\]</sup>：这事你不要老计较，～不晓得。<sup>\[泰县\]</sup> ③ 权且当作，退一步就算是的意思<sup>\[东台\]</sup>：今朝多走啊几十里冤枉路，～坐车旅游吧。<sup>\[东台\]</sup>  
 1. 【[斜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia.md#斜)】`qia2` <sup>[兴化]</sup> 蛮横无理：这个小伙～得很，无事别惹他。  
@@ -324,6 +322,8 @@
 1. 【[茄<sub>儿</sub>饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_r_bien.md#茄<sub>儿</sub>饼)】`qia2 r bien3` <sup>[如皋]</sup> 茄子片夹馅蘸面浆，用少许油焵成的饼。  
 1. 【[茄<sub>儿</sub>瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_r_gua.md#茄<sub>儿</sub>瓜)】`qia2 r gua1` <sup>[如皋]</sup> 一种含水多的味淡的甜瓜。瓜体大，椭圆形，淡苹果绿色，有棱线。  
 1. 【[茄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_zz.md#茄子)】`qia2 zz` <small>/t͡ɕʰyɑ2 t͡sɿ/<sup>泰兴</sup></small> 茄子<sup>\[泰兴\]</sup>  
+1. 【[详意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_i.md#详意)】`qia2 i` <small>/t͡ɕʰiɑ2 ʝ/<sup>泰兴</sup></small> 以为；预料中的。不～，没有想到。<sup>\[泰兴\]</sup>  
+1. 【[详意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_i.md#详意)】`qia2 i5` <sup>[如皋]</sup> 在意、留神、注意：你哿～他来啊？不曾～。不～他死得这吖早。  
 1. 【[邪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia.md#邪)】`qia2` <small>/t͡ɕʰia2/<sup>兴化</sup>, /t͡ɕʰia2/<sup>如皋</sup>, /t͡ɕʰiɑ2/<sup>泰兴</sup>, /t͡ɕʰia2/<sup>泰县</sup></small> ① 形容人蛮不讲理：你覅（bae5）跟我～。/你别跟我不讲道理。｜那个人～唻。/那个人真不讲理。 ② 不讲理<sup>\[如皋\]</sup>：～儿头、你同他行～不行。<sup>\[如皋\]</sup> ③ 顽强；这伢儿～，受啊伤不哭。<sup>\[如皋\]</sup> ④ 鬼怪迷人<sup>\[如皋\]</sup>：中吖～。<sup>\[如皋\]</sup> ⑤ 横蛮不讲道理。<sup>\[如东\]</sup>：他非常～。<sup>\[如东\]</sup> ⑥ 蛮横不讲理：这个人太～，不上道子。<sup>\[泰县\]</sup> ⑦ 蛮横，霸道<sup>\[泰州\]</sup>：你～甚的东西，你后来的，就派排啊人家后头。<sup>\[泰州\]</sup>  
 1. 【[邪巴刳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_ba_kua.md#邪巴刳)】`qia2 ba kua2` <sup>[如皋]</sup> 强行索取、强制行动，或指这种人。  
 1. 【[邪八古东的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_baeh_gv_don.md#邪八古东的)】`qia2 baeh7 gv3 don1 dii` <sup>[如皋]</sup> 胡搞蛮缠地。  
@@ -461,7 +461,7 @@
 1. 【[蔷薇露](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_vei_lv.md#蔷薇露)】`qian2 vei2 lv6` <sup>[如东]</sup> 蔷薇科植物蔷薇花的蒸馏液。  
 1. 【[蔷薇子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_vei_zz.md#蔷薇子)】`qian2 vei2 zz3` <sup>[如东]</sup> 蔷薇科植物蔷薇果实。  
 1. 【[详](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian.md#详)】`qian2` <sup>[兴化]</sup> 分析、推想：你把情况说出来让我～～看  
-1. 【[详疑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_i.md#详疑)】`qian2 i` <sup>[兴化]</sup> 以为、想到：我不曾～堂堂的经理会偷人家汽车。  
+1. 【[详意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_i.md#详意)】`qian2 i` <sup>[兴化]</sup> 以为、想到：我不曾～堂堂的经理会偷人家汽车。  
 1. 【[详音](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_ien.md#详音)】`qian2 ien1` <sup>[如东]</sup> 抓住一点进行猜测：我～，他不愿意啊。  
 1. 【[详音<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_ien_r.md#详音<sub>儿</sub>)】`qian2 ien1 r` <sup>[泰县]</sup> 抓住一点猜透：这个方言你不能老是～。  
 1. 【[详梦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_mon.md#详梦)】`qian2 mon6` <small>/t͡ɕʰiaŋ2 moŋ6/<sup>兴化</sup>, /t͡ɕʰiã2 mɔŋ1/<sup>如皋</sup></small> ① 对梦境作分析推理，以判断凶吉。<sup>\[如皋\]</sup> ② 解说梦中的吉凶<sup>\[东台\]</sup>：夜里做啊个噩梦，请你帮我详下子。<sup>\[东台\]</sup> ③ （迷信）分析梦境，判断吉凶，或猜测所预示的征兆。<sup>\[兴化\]</sup>  
