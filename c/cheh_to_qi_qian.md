@@ -1,5 +1,5 @@
 # 直道其详
-cheh8 to6 qi2 qian2
+cheh8 to6(dt,xh:do5) qi2 qian2
 + 直截了当地说明情况，表达意见。
   * 东台方言词典
 + 有话直接说
