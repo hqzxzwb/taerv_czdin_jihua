@@ -776,6 +776,7 @@
 1. 【[斤两](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_lian.md#斤两)】`jien1 lian3` <sup>[东台]</sup> 分量：你看这个山芋有多少～？  
 1. 【[斤两担子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_lian_daen_zz.md#斤两担子)】`jien1 lian3 daen5 zz` <small>/t͡ɕin1 liaŋ3 tɛ̃5 t͡sɿ/<sup>兴化</sup>, /t͡ɕiəŋ1 liã3 tẽ5 t͡sɿ/<sup>如皋</sup></small> ① 责任、压力：我同他谈过啊，这个任务～不轻，要认真对待。<sup>\[如皋\]</sup> ② ［喻］指应承担的责任<sup>\[东台\]</sup>：把点儿～他，教他有点压力。<sup>\[东台\]</sup> ③ （喻）指承担的责任<sup>\[兴化\]</sup>：孙儿孙女回老家过暑假，老人的～重哎！<sup>\[兴化\]</sup>  
 1. 【[斤求两](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_qieu_lian.md#斤求两)】`jien1 qieu2 lian3` <sup>[如皋]</sup> 口诀。  
+1. 【[津湿的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_sheh_dii.md#津湿的)】`jien1 sheh7 dii` <small>/t͡ɕiŋ1 səʔ7 təɪ/<sup>泰兴</sup></small> 透湿；湿透。<sup>\[泰兴\]</sup>  
 1. 【[禁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien.md#禁)】`jien1` <sup>[如皋]</sup> 抖：打寒～、打尿～。如皋词典写“痉”。  
 1. 【[禁不住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_beh_chv.md#禁不住)】`jien1 beh chv6` <sup>[如皋]</sup> 忍耐不住。  
 1. 【[筋暴暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_bo_bo.md#筋暴暴)】`jien1 bo5 bo5` <sup>[泰州]</sup> 皮肤表面青筋凸起的样子：你望他勒嗓子的形相嗷，颈项里～的。  

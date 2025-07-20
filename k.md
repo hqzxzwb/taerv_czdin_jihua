@@ -282,14 +282,16 @@
 1. 【[咳咳锻锻的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_keh_dun_dun.md#咳咳锻锻的)】`keh7 keh7 dun5 dun5 dii` <sup>[东台]</sup> 形容咳嗽不断，震动得难受的样子：您老人家～，怎吖能麻烦你？（见“锻”）  
 1. 【[客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh.md#客)】`keh7` <sup>[如皋]</sup> 量词，相当于“份”：一～饭、一～礼。  
 1. 【[客辈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_bei.md#客辈)】`keh7 bei5` <sup>[东台]</sup> 客人：你是～，请坐上首。  
-1. 【[客边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_bin.md#客边)】`keh7 bin1` <small>/kʰəʔ7 piɪ̃1/<sup>兴化</sup>, /kʰəʔ7 pĩ1/<sup>如皋</sup></small> 客方，客人，客人的身份、地位<sup>\[如皋\]</sup>\[泰州：旅居他乡或做客于他人家庭\]\[兴化：身在外地或在别人家，处于为客地位\]：他是～，大家要尊重他。<sup>\[如皋\]</sup>｜他是～人，不好多话。<sup>\[兴化\]</sup>｜“虽说是舅母家如同自己家一样，到底是～……”（《红楼梦》二六）<sup>\[兴化\]</sup>｜你难得去一回是～，他当然同你客气唻。<sup>\[泰州\]</sup>  
+1. 【[客边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_bin.md#客边)】`keh7 bin1` <small>/kʰəʔ7 piɪ̃1/<sup>兴化</sup>, /kʰəʔ7 pĩ1/<sup>如皋</sup>, /kʰəʔ7 pĩ1/<sup>泰兴</sup></small> 客方，客人，客人的身份、地位<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>\[泰州：旅居他乡或做客于他人家庭\]\[兴化：身在外地或在别人家，处于为客地位\]：他是～，大家要尊重他。<sup>\[如皋\]</sup>｜他是～人，不好多话。<sup>\[兴化\]</sup>｜“虽说是舅母家如同自己家一样，到底是～……”（《红楼梦》二六）<sup>\[兴化\]</sup>｜你难得去一回是～，他当然同你客气唻。<sup>\[泰州\]</sup>  
 1. 【[客边人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_bin_ren.md#客边人)】`keh7 bin1 ren2` <sup>[如皋]</sup> 外人、外地人。  
 1. 【[客边账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_bin_zhan.md#客边账)】`keh7 bin1 zhan5` <sup>[泰州]</sup> 因对方是外来客人而不得不表示的一点客气，意谓表现出的客气主要出于礼节因素：你在这块挂职，能蹾几天，人家同你客气是～，你不要当做真的，真的以为自己有多了不起。  
-1. 【[客栈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_chaen.md#客栈)】`keh7 chaen6` ① 住人和存放货物的店铺。<sup>\[如东\]</sup> ② 旧时设施简陋的旅馆，有的兼供客商堆货并且待办货运，今日指规模比较小的简易旅馆。<sup>\[泰州\]</sup>  
+1. 【[客栈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_chaen.md#客栈)】`keh7 chaen6` <small>/kʰəʔ7 t͡ɕʰiɛ̃1/<sup>泰兴</sup></small> ① 住人和存放货物的店铺。<sup>\[如东\]</sup> ② 旧时设施简陋的旅馆，有的兼供客商堆货并且待办货运，今日指规模比较小的简易旅馆。<sup>\[泰州\]</sup> ③ 小旅馆。<sup>\[泰兴\]</sup>  
 1. 【[客家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_jia.md#客家)】`keh7 jia` <sup>[兴化]</sup> 对主家而言，指顾客或投行的客商：“……不管怎样……不能让～吃咸菜过年啊！”（《郑板桥传说·大年初一卖扇子》）  
 1. 【[客家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_jia.md#客家)】`keh7 jia1` <small>/kʰəʔ7 t͡ɕia1/<sup>如皋</sup></small> ① 见“客边”。<sup>\[如皋\]</sup> ② 商家顾客<sup>\[泰州\]</sup>：店里来啊几个老～，你快点儿去招呼啊子。<sup>\[泰州\]</sup>  
 1. 【[客居<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_jy_r.md#客居<sub>儿</sub>)】`keh7 jy1 r` <sup>[兴化]</sup> 较小的偏屋。因常供来客暂住，故名。  
+1. 【[客来客打发](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_lae_keh_da.md#客来客打发)】`keh7 lae2 keh7 da3 faeh` <small>/kʰəʔ7 lɛ2 kʰəʔ7 tɑ3 fæʔ/<sup>泰兴</sup></small> 谓用客人来的礼物、礼金款待客人，犹“拿恁的馒头杵恁的嘴”、“来人吃来物”之意。<sup>\[泰兴\]</sup>  
 1. 【[客来扫地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_lae_so_ti.md#客来扫地)】`keh7 lae2 so3 ti6` <sup>[东台]</sup> 指招待客人准备不充分，另一意即为虚情假意。  
+1. 【[客来扫地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_lae_so_ti.md#客来扫地)】`keh7 lae2 so3 ti6` <small>/kʰəʔ7 lɛ2 sɔ3 t͡ɕʰʝ1/<sup>泰兴</sup></small> 谓不懂礼节，不重视礼节。<sup>\[泰兴\]</sup>  
 1. 【[客流](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_lieu.md#客流)】`keh7 lieu2` <sup>[如东]</sup> 一百斤左右的生猪，称客流。也称客郎。  
 1. 【[客气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_qi.md#客气)】`keh7 qi` <sup>[兴化]</sup> ① 讲究、优雅：房子虽小，布置倒还～。 ② 体面有身份：他家平时不用茶叶，有～点儿的人来啊，才忙吖洗茶杯寻茶叶泡茶。  
 1. 【[客气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_qi.md#客气)】`keh7 qi5` <sup>[如皋]</sup> 考究：他家装修得～啦！她身上打扮得～啷！  
@@ -297,6 +299,7 @@
 1. 【[客情客交](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_qien_keh_jio.md#客情客交)】`keh7 qien2 keh7 jio1` <sup>[如皋]</sup> 表面应酬，情谊不深。  
 1. 【[客随主便](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_qy_zhv_pin.md#客随主便)】`keh7 qy2 zhv3 pin6` <sup>[东台]</sup> 客人服从主人安排。  
 1. 【[客散主人安](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_saen_zhv_ren.md#客散主人安)】`keh7 saen5 zhv3 ren2 un1` <sup>[东台]</sup> 客人走了主人才能安下心来收拾整理，忙别的事。  
+1. 【[客散主人安](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_saen_zhv_ren.md#客散主人安)】`keh7 saen5 zhv3 ren2 un1` <small>/kʰəʔ7 ɕiɛ̃5 t͡su3 ɻəŋ2 ʊ̃1/<sup>泰兴</sup></small> 谓客人离开后主人才可以安心休息。<sup>\[泰兴\]</sup>  
 1. 【[客师](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_shr.md#客师)】`keh7 shr1` <small>/kʰəʔ7 sɿ1/<sup>兴化</sup>, /kʰəʔ7 sɿ1/<sup>如皋</sup></small> ① 见“客边”。<sup>\[如皋\]</sup> ② 从外面请来帮助工作的行家里手或关键人物。<sup>\[东台\]</sup> ③ 僧尼做佛事因人手不够，邀其他庙庵僧尼加入，俗谓“请～。”<sup>\[兴化\]</sup> ④ （借）临时帮忙的人<sup>\[兴化\]</sup>：实在忙不过来，只好请～。<sup>\[兴化\]</sup>  
 1. 【[客水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_shuei.md#客水)】`keh7 shuei3` <small>/kʰəʔ7 suəi3/<sup>兴化</sup></small> ① 从上游或周边地区流来的水<sup>\[兴化\]</sup>：大雨不停地下着，天雨加～，外坝的外河水位猛涨三尺。（马春阳《城里来的年轻人》）<sup>\[兴化\]</sup> ② 非本地域河流上游流过来的水<sup>\[泰州\]</sup>：1991年发大水，兴化的～都淌吖泰州来啊。<sup>\[泰州\]</sup>  
 1. 【[客堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_tan.md#客堂)】`keh7 tan2` <sup>[如东]</sup> 客厅。平房一般叫做明间。  

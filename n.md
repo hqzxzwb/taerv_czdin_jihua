@@ -1566,6 +1566,7 @@
 1. 【[蛲虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_chon.md#蛲虫)】`no2 chon2` <sup>[如东]</sup> 寄生虫。身体很小，白色，像线头。寄生在人体的小肠下部和大肠里。雌虫常从肛门里爬出来产卵。患者常觉肛门奇痒，并有消瘦、食欲不振等症状。  
 1. 【[铙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no.md#铙)】`no2` <sup>[如东]</sup> 打击乐器，两个圆形铜片，中间突起成半球形，两片拍打，能够发出响声。  
 1. 【[恼火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_hu.md#恼火)】`no3 hu3` <sup>[东台]</sup> 因愤恨、恼怒而发火。  
+1. 【[恼闷愁愁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_men_cheu_cheu.md#恼闷愁愁)】`no3 men cheu2 cheu2` <small>/nɔ3 məŋ t͡sʰɤɯ2 t͡sʰɤɯ2/<sup>泰兴</sup></small> 愁闷不乐的样子。<sup>\[泰兴\]</sup>  
 1. 【[恼闷惆怅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_men_cheu_chan.md#恼闷惆怅)】`no3 men6 cheu2 chan5` <sup>[兴化]</sup> 心情须闷、苦恼：（程咬金）心中也在～……吃饭、穿衣、还债、添本钱，怎么办？（扬二《程咬金卖筢子》）  
 1. 【[恼人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_ren.md#恼人)】`no3 ren2` <small>/lɔ3 lən2/<sup>兴化</sup></small> ① 得罪人。<sup>\[东台\]</sup> ② 惹人嫉根<sup>\[兴化\]</sup>：这种～肠子恶人心的事千万做不得！<sup>\[兴化\]</sup>  
 1. 【[恼人心，恶人肠的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_ren_xien_ngah.md#恼人心，恶人肠的)】`no3 ren2 xien1 ngah7 ren2 chan2 dii` <sup>[如皋]</sup> 使人伤心，使人恶嫌，使人恼怒。  

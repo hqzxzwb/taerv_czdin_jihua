@@ -581,6 +581,7 @@
 1. 【[□的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_nii.md#□的)】`hen2 nii2` <sup>[如东]</sup> 什么。“甚的”的另一种说法。  
 1. 【[哼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen.md#哼)】`hen2` <sup>[如皋]</sup> 合嘴轻唱旋律。  
 1. 【[喤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen.md#喤)】`hen2` <small>/xəŋ2/<sup>如皋</sup></small> ① 呻吟。<sup>\[如皋\]</sup> ② 细声而无泪地哭。<sup>\[如皋\]</sup> ③ 人在痛苦时欲哭未哭，嘴里发出的声音。<sup>\[东台\]</sup>  
+1. 【[恒苦修心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_kv_xieu_xien.md#恒苦修心)】`hen2 kv3 xieu1 xien1` <small>/xəŋ2 kʰu3 ɕiɤɯ1 ɕiŋ1/<sup>泰兴</sup></small> 能长期耐心吃苦，修养心性，干一番事业。谓下了极大的决心。<sup>\[泰兴\]</sup>  
 1. 【[衡衡步步的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_hen_pv_pv.md#衡衡步步的)】`hen2 hen2 pv6 pv6 dii` <sup>[如皋]</sup> 当心当意地、毫不松懈地。  
 1. 【[狠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen.md#狠)】`hen3` <sup>[如东]</sup> ① 厉害：这个人～。 ② 能力强：他～，让他去做吧。  
 1. 【[狠霸霸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_ba_ba.md#狠霸霸)】`hen3 ba5 ba5` <sup>[兴化]</sup> 形容凶狠的样子：他当个治安员，一天到晚～的。  
@@ -598,7 +599,7 @@
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen.md#□)】`hen5` <small>/xən5/<sup>兴化</sup>, /xəŋ5/<sup>如皋</sup>, /xəŋ5/<sup>泰兴</sup>, /xəŋ5/<sup>泰县</sup></small> 紧紧黏附：他跌咖个跟头，烂泥～吖在衣裳上䢢不掉，污糟煞咖  
 1. 【[䬶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen.md#䬶)】`hen5` <sup>[如皋]</sup> ① 小气：这个人～，你不要想叫他拔一根汗毛儿出来。 ② 过于节俭：他过日子～，一年到头肉总舍不得买一回。 ③ 艰苦积聚：他慢慢儿～，终于～吖一份家业；～气。 ④ 贪：～食。 ⑤ 皮色干瘪：他的脸皮子～的，一点儿不像个少年人。 ⑥ 干瘪，不松脆：萝卜放的时间长吖，发咖～。  
 1. 【[䬶𩞰<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_deh_r.md#䬶𩞰<sub>儿</sub>)】`hen5 deh7-3 r` <sup>[如皋]</sup> 从盛尽的粥锅、面锅中铲起的团团。  
-1. 【[䬶食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_sheh.md#䬶食)】`hen5 sheh8` <sup>[如皋]</sup> 贪食、贪吃。故易致“伤食”。  
+1. 【[䬶食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_sheh.md#䬶食)】`hen5 sheh8` <small>/xəŋ5 səʔ8/<sup>如皋</sup>, /xəŋ5 səʔ8/<sup>泰兴</sup></small> ① 贪食、贪吃。故易致“伤食”。<sup>\[如皋\]</sup> ② 食量超常，多食<sup>\[泰兴\]</sup>  
 1. 【[䬶死瓜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_sz_gua_r.md#䬶死瓜<sub>儿</sub>)】`hen5 sz gua1 r` <sup>[如皋]</sup> ① 极为小气、吝啬。 ② 焦黄干瘪的样子。  
 1. 【[垳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen.md#垳)】`hen5` ① 海滩上涨潮时淹没、退潮后露出的沙面，称垳。<sup>\[如东\]</sup> ② 指沙的水下延伸部分，比沙的高滩部分低。渔民称渔舟插竹张网之处为～。<sup>\[东台\]</sup>  
 1. 【[垳场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_chan.md#垳场)】`hen5 chan2` <sup>[如东]</sup> 渔民采掘蛼螯、蛤蜊等贝类的沙滩以及捕捞鱼虾的浅海港汊，称垳场。  
@@ -618,6 +619,7 @@
 1. 【[恨悢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_lian.md#恨悢)】`hen6 lian` <small>/xəŋ1 liɑŋ/<sup>泰兴</sup></small> 遗憾，悔恨<sup>\[泰兴\]</sup>：想到箇个事我就～<sup>\[泰兴\]</sup>  
 1. 【[恨命穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_mien_qion.md#恨命穷)】`hen6 mien6 qion2` <small>/xən6 miɪ̃6 t͡ɕʰioŋ2/<sup>兴化</sup></small> ① 贪食的代名词。引申为贪心太大。<sup>\[东台\]</sup> ② 贪大、贪多<sup>\[兴化\]</sup>：他一个人买上两笼包子当早饭，真是～。<sup>\[兴化\]</sup> ③ 抱怨自己命运注定贫穷，所以碰到一次机会就疯狂攫取<sup>\[泰州\]</sup>：这小伙～，上吖桌一气就吃咖二十个包子，怎吖不吃咖伤吖。<sup>\[泰州\]</sup> ④ 冀图一次就完成极大工作量<sup>\[泰州\]</sup>：这些砖头一担是挑不走的，你不要～，分个几担挑的好。<sup>\[泰州\]</sup>  
 1. 【[恨虱子烧棉袄——不值得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_sheh_zz_sho.md#恨虱子烧棉袄——不值得)】`hen6 sheh7 zz sho1 min2 ngo3 beh7 cheh8 deh7` <sup>[东台]</sup>   
+1. 【[恨心穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_xien_qion.md#恨心穷)】`hen6 xien1 qion2` <small>/xəŋ1 ɕiŋ1 t͡ɕʰiɔŋ2/<sup>泰兴</sup></small> 谓自己的水平、能力、气力不能达到办理某项工作的限度却硬要去操办某事。<sup>\[泰兴\]</sup>  
 1. 【[恨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_zz.md#恨子)】`hen6 zz` <sup>[如东]</sup> ① 小气，吝啬。 ② 小气吝啬的人。  
 1. 【[杏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_zz.md#杏子)】`hen6 zz, xien6 zz` 杏：～树  
 1. 【[胻梁骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_lian_gueh.md#胻梁骨)】`hen6 lian gueh7` <sup>[兴化]</sup> 胫骨。胻，《集韵·梗韵》下梗切：胫也。  
@@ -1243,7 +1245,8 @@
 1. 【[火萤虫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_ien_chon_r.md#火萤虫<sub>儿</sub>)】`hu3 ien chon2 r` <sup>[如皋]</sup> 萤火虫。本地指黄萤。又称火焰虫。  
 1. 【[火萤虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_ien_chon.md#火萤虫)】`hu3 ien2 chon2` <small>/xɤɯ3 iŋ2 t͡sʰɔŋ2/<sup>泰兴</sup></small> 萤火虫<sup>\[东台\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>  
 1. 【[火萤虫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_ien_chon_r.md#火萤虫<sub>儿</sub>)】`hu3 ien2 chon2 r` <small>/xo3 in2 t͡sʰoŋ2 ɚ/<sup>兴化</sup>, /xo3 iŋ2 t͡sʰoŋ2 ɚ/<sup>泰县</sup></small> ① 即“萤火虫”。<sup>\[兴化\]</sup> ② 萤火虫。<sup>\[泰县\]</sup>  
-1. 【[火油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_ieu.md#火油)】`hu3 ieu2` <small>/xo3 iɤ2/<sup>兴化</sup>, /xʊ3 yʊ2/<sup>如皋</sup></small> ① 煤油。旧称洋油。<sup>\[如皋\]</sup> ② 煤油。<sup>\[兴化\]</sup>  
+1. 【[火油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_ieu.md#火油)】`hu3 ieu2` <small>/xo3 iɤ2/<sup>兴化</sup>, /xʊ3 yʊ2/<sup>如皋</sup>, /xɤɯ3 iɤɯ2/<sup>泰兴</sup></small> 煤油。<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>\[如皋：旧称洋油。\]  
+1. 【[火油灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_ieu_den.md#火油灯)】`hu3 ieu2 den1` <small>/xɤɯ3 iɤɯ2 təŋ1/<sup>泰兴</sup></small> 煤油灯<sup>\[泰兴\]</sup>  
 1. 【[火焰灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_in_den.md#火焰灯)】`hu3 in den1` <sup>[如皋]</sup> 灯光如豆的小油灯。  
 1. 【[火急火燎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_jieh_hu_lio.md#火急火燎)】`hu3 jieh7 hu3 lio2` <sup>[如东]</sup> 形容非常急躁：王明～的说：“你怎吖还不去的啦！”  
 1. 【[火酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_jieu.md#火酒)】`hu3 jieu3` <small>/xo3 t͡ɕiɤ3/<sup>兴化</sup>, /xʊ3 t͡ɕyʊ3/<sup>如皋</sup></small> ① 烧酒。65°以上，可燃。<sup>\[如皋\]</sup> ② 酒精。<sup>\[兴化\]</sup>  

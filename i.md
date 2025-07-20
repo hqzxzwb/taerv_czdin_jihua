@@ -373,45 +373,50 @@
 1. 【[洋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian.md#洋)】`ian2` <sup>[兴化]</sup> ① 幼小动物：小～鸡｜小～猪儿。 ② 调皮、撒娇：覅～，好好写作业去。  
 1. 【[洋扁豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_bin_teu.md#洋扁豆)】`ian2 bin3 teu6` <sup>[如皋]</sup> 一种大荚扁豆，荚似皂荚。  
 1. 【[洋北堤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_boh_ti.md#洋北堤)】`ian2 boh7 ti2` <sup>[如东]</sup> 小洋口闸外迁时修筑。两期工程：第一期工程，2000年12月15日至2001年7月9日结束，修筑8.766公里。第二期工程，2003年11月18日至2005年3月4日结束，修筑3.5公里。采用机械化作业，每期工程动用民力0.1万人。  
-1. 【[洋布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_bv.md#洋布)】`ian2 bv5` <small>/iã2 pu5/<sup>如皋</sup></small> ① 见“大布”。<sup>\[如皋\]</sup> ② 旧时称机织布为洋布。<sup>\[如东\]</sup>  
+1. 【[洋布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_bv.md#洋布)】`ian2 bv5` <small>/iã2 pu5/<sup>如皋</sup>, /iɑŋ2 pu5/<sup>泰兴</sup></small> ① 见“大布”。<sup>\[如皋\]</sup> ② 旧时称机织布为洋布。<sup>\[如东\]</sup> ③ 旧时称机器织的平纹布，与手工织的“土布”相对。<sup>\[泰兴\]</sup>  
+1. 【[洋财](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_cae.md#洋财)】`ian2 cae2` <small>/iɑŋ2 t͡ɕʰiɛ2/<sup>泰兴</sup></small> 意外之财。<sup>\[泰兴\]</sup>：发～<sup>\[泰兴\]</sup>  
 1. 【[洋车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_cha.md#洋车)】`ian2 cha1` <sup>[兴化]</sup> 改进型的风车，木制提水工具。由风力吹转天轴上的车篷，经传动装置带动龙骨水车向田间灌水。  
 1. 【[洋戳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_chuah.md#洋戳)】`ian2 chuah7` <sup>[如东]</sup> 假的：你不要做～吧。  
-1. 【[洋葱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_con.md#洋葱)】`ian2 con1` <sup>[如东]</sup> 百合科植物洋葱，多年生草本。具强烈的香气。鱗茎大，球形或扁球形，外包赤红色皮膜。叶圆柱形，中空。花葶圆柱形，中空。伞形花序，球形。花粉红色或近于白色。蒴果。种子多数。田间种植。  
+1. 【[洋葱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_con.md#洋葱)】`ian2 con1` 洋葱，植物，常见蔬菜  
 1. 【[洋瓷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_cz.md#洋瓷)】`ian2 cz2` 俗称搪瓷，以石英、长石、硝石、碳酸钠等高温熔制成珐琅，涂于低碳薄钢板冲压成的各式器皿胚胎上，待干燥后送入炉内焙烧而成。<sup>\[泰州\]</sup>  
+1. 【[洋瓷碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_cz_un.md#洋瓷碗)】`ian2 cz2 un3` <small>/iɑŋ2 t͡sʰɿ2 ʊ̃3/<sup>泰兴</sup></small> 搪瓷碗。<sup>\[泰兴\]</sup>  
 1. 【[洋大头菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_da_teu_cae.md#洋大头菜)】`ian2 da6 teu2 cae5` <sup>[如皋]</sup> 芜菁甘兰。十字花科。  
 1. 【[洋灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_den.md#洋灯)】`ian2 den1` <small>/iã2 təŋ1/<sup>如皋</sup>, /iɑŋ2 təŋ1/<sup>泰兴</sup></small> ① 点洋油（煤油）的灯。<sup>\[如皋\]</sup> ② 即孔明灯。民俗，元宵节期间晚上施放～，县域内以曲霞地方此风最盛。<sup>\[泰兴\]</sup>  
 1. 【[洋灯罩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_den_zho_r.md#洋灯罩<sub>儿</sub>)】`ian2 den1 zho5 r` <sup>[如皋]</sup> 葫芦形玻璃罩儿，原称“美孚罩”。  
-1. 【[洋钉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_dien.md#洋钉)】`ian2 dien1` 铁钉。<sup>\[东台\]</sup>\[泰州：机器轧的圆钉，顶圆片形，钉身呈圆柱形，旧时从国外引进，故名。\]  
+1. 【[洋钉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_dien.md#洋钉)】`ian2 dien1` <small>/iɑŋ2 tiŋ1/<sup>泰兴</sup></small> 铁钉。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>\[泰州：机器轧的圆钉，顶圆片形，钉身呈圆柱形，旧时从国外引进，故名。\]  
 1. 【[洋钉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_dien_r.md#洋钉<sub>儿</sub>)】`ian2 dien1 r` 铁钉  
 1. 【[洋而打精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_er_da_jien.md#洋而打精)】`ian2 er da3 jien1` <sup>[东台]</sup> 办事不慎重、不严肃，没精打采的样子。  
 1. 【[洋而㗘呲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_er_pah_cz.md#洋而㗘呲)】`ian2 er pah7 cz1` <small>/iaŋ2 ɚ pʰaʔ7 t͡sʰɿ1/<sup>兴化</sup></small> ① 形容说话随便，不知轻重<sup>\[兴化\]</sup>：他～的，没得正调。<sup>\[兴化\]</sup> ② 不稳重、不实在，真本事不大，但眼角高，还好出风头。<sup>\[东台\]</sup>  
 1. 【[洋番芋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_faen_y.md#洋番芋)】`ian2 faen1 y6` 土豆，马铃薯  
+1. 【[洋房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_fan.md#洋房)】`ian2 fan2` <small>/iɑŋ2 fɑŋ2/<sup>泰兴</sup></small> 外国式样的房子，后称式样新颖的房子。<sup>\[泰兴\]</sup>  
 1. 【[洋家喜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ga_xi_r.md#洋家喜<sub>儿</sub>)】`ian2 ga xi3 r` <sup>[如皋]</sup> 灰喜鹊。  
 1. 【[洋碱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_gaen.md#洋碱)】`ian2 gaen3` <small>/iã2 kẽ3/<sup>如皋</sup></small> 肥皂的旧称。<sup>\[如皋\]</sup><sup>\[如东\]</sup>  
+1. 【[洋鼓洋号](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_gv_ian_ho.md#洋鼓洋号)】`ian2 gv3 ian2 ho6` <small>/iɑŋ2 ku3 iɑŋ2 xɔ1/<sup>泰兴</sup></small> 由西洋传入的鼓号。<sup>\[泰兴\]</sup>  
 1. 【[洋号](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ho.md#洋号)】`ian2 ho6` <sup>[如皋]</sup> 现代军号，与原牛角、海螺等“号角”相对。  
 1. 【[洋火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_hu.md#洋火)】`ian2 hu3` 火柴  
 1. 【[洋火盒<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_hu_huh_r.md#洋火盒<sub>儿</sub>)】`ian2 hu3 huh8 r` <sup>[泰县]</sup> 火柴盒。  
+1. 【[洋化<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_hua_r.md#洋化<sub>儿</sub>)】`ian2 hua5 r` <small>/iɑŋ2 xuɑ˞5/<sup>泰兴</sup></small> 受外国影响较深，生活习惯、服饰起居诸方面模仿外国人，乡人谓其洋化儿。贬义。或谓新奇而不伦不类的东西。<sup>\[泰兴\]</sup>  
 1. 【[洋画<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_hua_r.md#洋画<sub>儿</sub>)】`ian2 hua6 r` <sup>[兴化]</sup> ① 儿童玩的硬纸画片。 ② 最初的招贴画和广告画。  
 1. 【[洋话唱曲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_hua_chan_qioh.md#洋话唱曲)】`ian2 hua6 chan5 qioh7` <sup>[东台]</sup> 说话得意洋洋，经常哼着小调的样子，也称“哼歌浪唱”。  
-1. 【[洋灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_huei.md#洋灰)】`ian2 huei1` <small>/iaŋ2 xuəi1/<sup>兴化</sup>, /iã2 xuei1/<sup>如皋</sup></small> ① 由石灰块氧化而成的粉末，相对于“块灰”。<sup>\[兴化\]</sup> ② 石灰粉，用于刷白、消毒。<sup>\[东台\]</sup> ③ 生石灰粉。<sup>\[如皋\]</sup> ④ 现在称作水泥，一种建筑材料，混合石灰石和黏土烧成块状，机器碾成粉末，使用时加入细沙拌水，干燥以后坚硬如石。<sup>\[泰州\]</sup>  
-1. 【[洋油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ieu.md#洋油)】`ian2 ieu2` 煤油<sup>\[如东\]</sup><sup>\[泰州\]</sup>\[东台：火油\]  
+1. 【[洋灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_huei.md#洋灰)】`ian2 huei1` <small>/iaŋ2 xuəi1/<sup>兴化</sup>, /iã2 xuei1/<sup>如皋</sup>, /iɑŋ2 xuəɪ1/<sup>泰兴</sup></small> ① 由石灰块氧化而成的粉末，相对于“块灰”。<sup>\[兴化\]</sup> ② 石灰粉，用于刷白、消毒。<sup>\[东台\]</sup> ③ 生石灰粉。<sup>\[如皋\]</sup> ④ 现在称作水泥，一种建筑材料，混合石灰石和黏土烧成块状，机器碾成粉末，使用时加入细沙拌水，干燥以后坚硬如石。<sup>\[泰州\]</sup> ⑤ 石灰粉。<sup>\[泰兴\]</sup>  
+1. 【[洋油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ieu.md#洋油)】`ian2 ieu2` <small>/iɑŋ2 iɤɯ2/<sup>泰兴</sup></small> 煤油<sup>\[如东\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>\[东台：火油\]  
 1. 【[洋油灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ieu_den.md#洋油灯)】`ian2 ieu2 den1` <small>/iaŋ2 iɤ2 tən1/<sup>兴化</sup>, /iɑŋ2 iɤɯ2 təŋ1/<sup>泰县</sup></small> 煤油灯。<sup>\[泰县\]</sup>\[兴化：一般带有玻璃灯罩。也称“洋灯”。\]\[泰州：电灯普及前的主要照明工具，下为烛台状的玻璃灯座用来贮存煤油，上面安有形似蛤蟆嘴的灯头，点燃灯头，发光照明，灯头上是葫芦形的灯罩，灯头一侧设有旋钮，通过转动调整灯芯高低，以控制灯的亮度。\]  
 1. 【[洋油壶子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ieu_hv_zz.md#洋油壶子)】`ian2 ieu2 hv2 zz` <sup>[兴化]</sup> 言语轻佻，举止有乖常理的人：他是～，跟他有理讲不起来。  
 1. 【[洋油味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ieu_vei.md#洋油味)】`ian2 ieu2 vei6` <sup>[兴化]</sup> （讽）有神经质的人：他～发起来啊，大家覅惹他。也说“洋油子”。  
-1. 【[洋圆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_iun.md#洋圆)】`ian2 iun2` <small>/iaŋ2 yũ2/<sup>兴化</sup></small> 圆钢筋，即线材。<sup>\[兴化\]</sup><sup>\[泰州\]</sup>\[东台：建筑用的较细的钢筋。\]  
-1. 【[洋机](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ji.md#洋机)】`ian2 ji1` <small>/iã2 t͡ɕʝ1/<sup>如皋</sup>, /iɑŋ2 t͡sɿ1/<sup>泰县</sup></small> 缝纫机。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup>\[泰州：旧时多为外国制造。20世纪70年代以前，坊间将其与脚踏车、收音机并称为“三大件”。\]  
+1. 【[洋圆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_iun.md#洋圆)】`ian2 iun2` <small>/iaŋ2 yũ2/<sup>兴化</sup>, /iɑŋ2 yʊ̃2/<sup>泰兴</sup></small> 圆钢筋，即线材。<sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>\[东台：建筑用的较细的钢筋。\]  
+1. 【[洋机](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ji.md#洋机)】`ian2 ji1` <small>/iã2 t͡ɕʝ1/<sup>如皋</sup>, /iɑŋ2 t͡ɕʝ1/<sup>泰兴</sup>, /iɑŋ2 t͡sɿ1/<sup>泰县</sup></small> 缝纫机。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>\[泰州：旧时多为外国制造。20世纪70年代以前，坊间将其与脚踏车、收音机并称为“三大件”。\]  
 1. 【[洋机店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ji_din.md#洋机店)】`ian2 ji1 din5` <small>/iã2 t͡ɕʝ1 tĩ5/<sup>如皋</sup></small> ① 缝西服的店。<sup>\[如皋\]</sup> ② 现在通称缝纫店。与“裁衣店”手工缝制中服的店家相对。<sup>\[如皋\]</sup> ③ 用缝纫机做衣服的作坊。<sup>\[东台\]</sup>  
 1. 【[洋机针](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ji_zhen.md#洋机针)】`ian2 ji1 zhen1` <sup>[如皋]</sup> 缝纫机用针。  
 1. 【[洋鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ji.md#洋鸡)】`ian2 ji1` 从外国引进的鸡。<sup>\[泰州\]</sup>  
 1. 【[洋鸡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ji_r.md#洋鸡<sub>儿</sub>)】`ian2 ji1 r` <sup>[如皋]</sup> 一种小巧的，非本地种的鸡子，多白羽。  
-1. 【[洋碱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_jiaen.md#洋碱)】`ian2 jiaen3` <small>/iɑŋ2 t͡ɕiɛ̃3/<sup>泰县</sup></small> ① 肥皂 ② 肥皂。<sup>\[泰县\]</sup><sup>\[泰州\]</sup>  
+1. 【[洋碱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_jiaen.md#洋碱)】`ian2 jiaen3` <small>/iɑŋ2 t͡ɕiɛ̃3/<sup>泰兴</sup>, /iɑŋ2 t͡ɕiɛ̃3/<sup>泰县</sup></small> ① 肥皂 ② 肥皂。<sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>  
 1. 【[洋金花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_jien_hua.md#洋金花)】`ian2 jien1 hua1` <small>/iã2 t͡ɕiəŋ1 xua1/<sup>如皋</sup></small> 曼陀罗。<sup>\[如皋\]</sup>\[如东：茄科植物白曼陀罗，一年生草本。茎直立，圆柱形高约60厘米。基部木质化。叶互生，卵形、长卵形或心脏形，全缘或近三角状短齿。花单生于叶腋或上部分枝间，淡黄绿色。蒴果球形，表面有疏短刺，成熟后由绿变为淡褐色。种子多数，略呈三角形。生长在岸坡或住宅附近。\]  
 1. 【[洋口港](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_keu_gan.md#洋口港)】`ian2 keu3 gan3` <sup>[如东]</sup> 如东沿海商港。位于长沙镇以东、南黄海兰（烂）沙洋。水深20～30米。可泊10至30万吨级大型船舶。2003年11月18日开工建设，2008年10月28日初步通航。  
 1. 【[洋口港堤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_keu_gan_ti.md#洋口港堤)】`ian2 keu3 gan3 ti2` <sup>[如东]</sup> 洋口港临港工业区围堤，简称洋口港堤。2003年12月16日开工，20058月20日结束。全长8公里。机械化作业，动用民力0.1万人。  
 1. 【[洋口农场堤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_keu_non_chan.md#洋口农场堤)】`ian2 keu3 non2 chan2 ti2` <sup>[如东]</sup> 如皋县筹建如皋盐场而修筑。起自小洋口闸东侧，绕老海堤外滩面，接于老海堤十六总，全长14.9公里。1960年11月，如皋县调集2万多民力动工，于1961年4月竣工，完成土方2055万立方米。顶高程8米，顶宽5-6米。1960年七月半汛大潮堤防破口15米以上。当年10月，堤防退后100米，筑新堤1.2公里。白水滩是险工堤段，为防汛重点。经过长期维修加固，以及堤外积长淤高，险情渐趋缓和。  
 1. 【[洋款](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_kun.md#洋款)】`ian2 kun3` <sup>[兴化]</sup> 穷讲究：你少～吧，把肚子吃饱就不丑啊。  
 1. 【[洋蜡金纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_laeh_jien_zhr.md#洋蜡金纸)】`ian2 laeh8 jien1 zhr3` <sup>[如皋]</sup> 彩光纸。源自德国。  
-1. 【[洋蜡烛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_laeh_zhoh.md#洋蜡烛)】`ian2 laeh8 zhoh7` <small>/iã2 leʔ8 t͡sɔʔ7/<sup>如皋</sup></small> 矿烛。<sup>\[如皋\]</sup>\[如东：旧时称白蜡烛为洋蜡烛。\]  
+1. 【[洋蜡烛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_laeh_zhoh.md#洋蜡烛)】`ian2 laeh8 zhoh7` <small>/iã2 leʔ8 t͡sɔʔ7/<sup>如皋</sup>, /iɑŋ2 læʔ8 t͡sɔʔ7/<sup>泰兴</sup></small> 矿烛。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>\[如东：旧时称白蜡烛为洋蜡烛。\]  
 1. 【[洋蜡烛台](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_laeh_zhoh_tae.md#洋蜡烛台)】`ian2 laeh8 zhoh7 tae2` <sup>[如皋]</sup> 矿烛台。  
 1. 【[洋辣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_laeh_r.md#洋辣<sub>儿</sub>)】`ian2 laeh8 r` <sup>[如皋]</sup> 见“洋辣子”。  
 1. 【[洋辣子/杨瘌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_laeh_zz.md#洋辣子/杨瘌子)】`ian2 laeh8 zz` <small>/iaŋ2 læʔ8 t͡sɿ/<sup>兴化</sup>, /iɑŋ2 læʔ8 t͡sɿ/<sup>泰兴</sup>, /iɑŋ2 næʔ8 t͡se/<sup>泰县</sup></small> ① 刺蛾幼虫<sup>\[泰县\]</sup><sup>\[兴化\]</sup>\[如东：体表黄色，有棕色条纹。全身长棕色刚毛。触及，能分泌一种毒汁，刺激人的皮肤。\]\[东台：又叫毛毛虫。果木害虫，黄刺蛾的幼虫。人体碰到它就会红肿，又麻又痒。\] ② ［喻］性格外向，说话带刺，有理无理都要攻击别人的人。<sup>\[东台\]</sup> ③ ［喻］胡搅蛮缠的人<sup>\[兴化\]</sup>：他是～，混身是刺，捱他黏上就麻烦吖。<sup>\[兴化\]</sup> ④ 雀瓮蛾的幼虫。体黄绿，表面有硬毛，具酸性毒，喜食果木叶，是一种害虫。<sup>\[泰兴\]</sup>  
@@ -427,7 +432,8 @@
 1. 【[洋码<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ma_r.md#洋码<sub>儿</sub>)】`ian2 ma3 r` <sup>[如皋]</sup> 阿拉伯数字。  
 1. 【[洋马齿苋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ma_chr_haen.md#洋马齿苋)】`ian2 ma3 chr3 haen6` <sup>[如皋]</sup> 半枝莲。一种小型花卉。  
 1. 【[洋名广](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_mien_guan.md#洋名广)】`ian2 mien2 guan3` <sup>[兴化]</sup> 花样、名堂：昨晚七八百一桌也不晓得吃的甚的～？｜他子午卯酉半大天，也不曾说出个～来。  
-1. 【[洋面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_min.md#洋面)】`ian2 min6` <small>/iaŋ2 miɪ̃6/<sup>兴化</sup>, /iã2 mĩ1/<sup>如皋</sup></small> 机制小麦粉，机器加工的干面<sup>\[如皋\]</sup><sup>\[兴化\]</sup>\[泰州：旧时指机器磨出的面粉，机器从国外引进，故名。\]：～袋子。<sup>\[兴化\]</sup>  
+1. 【[洋名广](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_mien_guan.md#洋名广)】`ian2 mien2 guan3` <small>/iɑŋ2 miŋ2 kuɑŋ3/<sup>泰兴</sup></small> 事情的头绪；具体而让人明白的内容<sup>\[泰兴\]</sup>：他说咖半天，我不曾听到个～<sup>\[泰兴\]</sup>  
+1. 【[洋面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_min.md#洋面)】`ian2 min6` <small>/iaŋ2 miɪ̃6/<sup>兴化</sup>, /iã2 mĩ1/<sup>如皋</sup>, /iɑŋ2 mĩ1/<sup>泰兴</sup></small> 机制小麦粉，机器加工的干面<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>\[泰州：旧时指机器磨出的面粉，机器从国外引进，故名。\]：～袋子。<sup>\[兴化\]</sup>  
 1. 【[洋面广](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_min_guan.md#洋面广)】`ian2 min6 guan3` <sup>[东台]</sup> 或作“洋文广”。不着边际的乱说。  
 1. 【[洋茉莉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_muh_li.md#洋茉莉)】`ian2 muh8 li` <sup>[如皋]</sup> 香水草。  
 1. 【[洋鸦雀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_nga_jiah.md#洋鸦雀)】`ian2 nga1 jiah7` <sup>[如东]</sup> 鸦科动物灰喜鹊，也叫山喜鹊、马尾鹊。体长约40厘米。头部黑色，天蓝色的大尾巴。常在住宅旁活动，喜结群穿梭于林间。鸣叫声较为单调。爱吃昆虫，兼食浆果与种子。属益鸟。  
@@ -436,37 +442,43 @@
 1. 【[洋瓮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_on.md#洋瓮)】`ian2 on5` <small>/iaŋ2 oŋ5/<sup>兴化</sup>, /iɑŋ2 oŋ1/<sup>泰县</sup></small> ① 陶器，一种内外都涂了釉的瓮子。<sup>\[兴化\]</sup> ② 搪瓷茶缸。<sup>\[泰县\]</sup>  
 1. 【[洋㗘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_pah_zz.md#洋㗘子)】`ian2 pah7 zz` <sup>[泰县]</sup> ① 大红萝卜。 ② 说假话的人：这个人是个～。  
 1. 【[洋瓶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_pien.md#洋瓶)】`ian2 pien2` <sup>[兴化]</sup> 长颈玻璃瓶。  
-1. 【[洋盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_pun.md#洋盘)】`ian2 pun2` <small>/iaŋ2 pʰũ2/<sup>兴化</sup>, /iɑŋ2 pʰõ2/<sup>泰县</sup></small> ① 华而不实\[泰县：不切实际、贪大求洋\]\[东台：样子很气派，但不实惠。\]\[如东：表面漂亮，并不实用的东西。\]：那是一些～货。<sup>\[如东\]</sup>｜你买的这件衣服真是～。<sup>\[泰县\]</sup> ② 洋相。<sup>\[如东\]</sup>：出他的～。<sup>\[如东\]</sup> ③ 不切实际的想法或做法。<sup>\[如东\]</sup>：这些打算都是～。<sup>\[如东\]</sup> ④ 外行\[兴化：外行、不谙事理的人\]\[泰州：对某些事物缺乏经验、容易被人愚弄的人\]：这次上街，捱人当～宰啊。<sup>\[兴化\]</sup>｜你俫这一套我多少懂点儿，覅把我当～。<sup>\[兴化\]</sup>｜你不要把他当～，这里头的关木三儿他全清。<sup>\[泰州\]</sup>｜你这副眼镜在泰州买就～吖唻，到丹阳去买顶多一半的钱。<sup>\[泰州\]</sup>  
+1. 【[洋盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_pun.md#洋盘)】`ian2 pun2` <small>/iaŋ2 pʰũ2/<sup>兴化</sup>, /iɑŋ2 pʰʊ̃2/<sup>泰兴</sup>, /iɑŋ2 pʰõ2/<sup>泰县</sup></small> ① 华而不实；华而不实的东西<sup>\[如东\]</sup><sup>\[泰兴\]</sup>\[泰县：不切实际、贪大求洋\]\[东台：样子很气派，但不实惠。\]：那是一些～货。<sup>\[如东\]</sup>｜你买的这件衣服真是～。<sup>\[泰县\]</sup> ② 洋相。<sup>\[如东\]</sup>：出他的～。<sup>\[如东\]</sup> ③ 不切实际的想法或做法。<sup>\[如东\]</sup>：这些打算都是～。<sup>\[如东\]</sup> ④ 外行\[兴化：外行、不谙事理的人\]\[泰州：对某些事物缺乏经验、容易被人愚弄的人\]\[泰兴：指不精明、不内行、容易被人愚弄的人。\]：这次上街，捱人当～宰啊。<sup>\[兴化\]</sup>｜你俫这一套我多少懂点儿，覅把我当～。<sup>\[兴化\]</sup>｜你不要把他当～，这里头的关木三儿他全清。<sup>\[泰州\]</sup>｜你这副眼镜在泰州买就～吖唻，到丹阳去买顶多一半的钱。<sup>\[泰州\]</sup>  
 1. 【[洋盘广](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_pun_guan.md#洋盘广)】`ian2 pun2 guan3` <sup>[如皋]</sup> 海阔天空，随意漫谈，无主题，无结论。  
-1. 【[洋盘货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_pun_hu.md#洋盘货)】`ian2 pun2 hu5` <small>/iã2 pʰʊ̃2 xʊ5/<sup>如皋</sup></small> 好看而不实用，价高而不实惠的东西。<sup>\[如皋\]</sup><sup>\[如东\]</sup>  
+1. 【[洋盘货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_pun_hu.md#洋盘货)】`ian2 pun2 hu5` <small>/iã2 pʰʊ̃2 xʊ5/<sup>如皋</sup>, /iɑŋ2 pʰʊ̃2 xɤɯ5/<sup>泰兴</sup></small> 好看而不实用，价高而不实惠的东西。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
 1. 【[洋盘话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_pun_hua.md#洋盘话)】`ian2 pun2 hua6` <sup>[如东]</sup> 海阔天空，随便乱说：这些人说的都是～。  
-1. 【[洋气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_qi.md#洋气)】`ian2 qi5` <small>/iaŋ2 t͡ɕʰi/<sup>兴化</sup></small> 时髦，新潮<sup>\[如东\]</sup><sup>\[东台\]</sup>\[泰州：人或者物表现出的外国的情趣、格调、风度、式样等\]\[兴化：衣饰、家具等式样新颖、受看\]：这身衣裳十分～。<sup>\[如东\]</sup>｜他走美国带家来的这件衣裳多～啊。<sup>\[泰州\]</sup>｜这套家具蛮～的。<sup>\[兴化\]</sup>｜这种布料花色～。<sup>\[兴化\]</sup>  
+1. 【[洋气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_qi.md#洋气)】`ian2 qi5` <small>/iaŋ2 t͡ɕʰi/<sup>兴化</sup>, /iɑŋ2 t͡ɕʰʝ/<sup>泰兴</sup></small> 时髦，新潮<sup>\[如东\]</sup><sup>\[东台\]</sup>\[泰州：人或者物表现出的外国的情趣、格调、风度、式样等\]\[泰兴：有外国人味道、式样新颖独特的模样。\]\[兴化：衣饰、家具等式样新颖、受看\]：这身衣裳十分～。<sup>\[如东\]</sup>｜他走美国带家来的这件衣裳多～啊。<sup>\[泰州\]</sup>｜这套家具蛮～的。<sup>\[兴化\]</sup>｜这种布料花色～。<sup>\[兴化\]</sup>  
 1. 【[洋钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_qin.md#洋钱)】`ian2 qin2` <sup>[东台]</sup> 银元。  
+1. 【[洋钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_qin.md#洋钱)】`ian2 qin2` <small>/iɑŋ2 t͡ɕʰĩ2/<sup>泰兴</sup></small> 银元的俗称。最初由外国（西班牙）流入中国，故名。<sup>\[泰兴\]</sup>  
 1. 【[洋锹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_qio.md#洋锹)】`ian2 qio1` <sup>[兴化]</sup> 挖土或铲东西的工具，用铁皮锻打而成。有平口和圆口的两种，装有长柄。  
+1. 【[洋锹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_qio.md#洋锹)】`ian2 qio1` <small>/iɑŋ2 t͡ɕʰiɔ1/<sup>泰兴</sup></small> 铁锹。<sup>\[泰兴\]</sup>  
 1. 【[洋桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_qio.md#洋桥)】`ian2 qio2` <small>/iaŋ2 t͡ɕʰiɔ2/<sup>兴化</sup>, /iã2 t͡ɕʰiɔ2/<sup>如皋</sup></small> ① 见“大桥”。<sup>\[如皋\]</sup> ② 可以通行汽车的钢筋混凝土大桥<sup>\[兴化\]</sup>：南门大～<sup>\[兴化\]</sup>｜头部～<sup>\[兴化\]</sup>｜二部～。<sup>\[兴化\]</sup>  
 1. 【[洋<sub>儿</sub>八㧟的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_r_baeh_kuae.md#洋<sub>儿</sub>八㧟的)】`ian2 r baeh7 kuae3 dii` <sup>[如皋]</sup> 指不守规距，颠狂貌。  
 1. 【[洋<sub>儿</sub>不㧟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_r_beh_kuae.md#洋<sub>儿</sub>不㧟)】`ian2 r beh7 kuae3` <sup>[兴化]</sup> 见“洋三㧟四”。  
 1. 【[洋<sub>儿</sub>㧟疯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_r_kuae_fon.md#洋<sub>儿</sub>㧟疯)】`ian2 r kuae3 fon1` <sup>[如皋]</sup> 癫狂貌  
+1. 【[洋而八㧟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_r_baeh_kuae.md#洋而八㧟)】`ian2 r baeh7 kuae3` <small>/iɑ˞2 pæʔ7 kʰuɛ3/<sup>泰兴</sup></small> 打扮洋气，举止言语轻浮的样子。<sup>\[泰兴\]</sup>  
 1. 【[洋人<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ren_r.md#洋人<sub>儿</sub>)】`ian2 ren2 r` <sup>[兴化]</sup> 玩具：洋娃娃。  
 1. 【[洋三㧟四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_saen_kuae_sz.md#洋三㧟四)】`ian2 saen1 kuae3 sz5` <sup>[兴化]</sup> 形容人举止轻浮，疯疯癫癫：她不是唱，就是跳，再不就是打打闹闹，成天～的。  
 1. 【[洋伞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_saen.md#洋伞)】`ian2 saen3` <sup>[如皋]</sup> 机制钢丝骨架布伞。与本伞、纸伞相对。  
+1. 【[洋伞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_saen.md#洋伞)】`ian2 saen3` <small>/iɑŋ2 ɕiɛ̃3/<sup>泰兴</sup></small> 用铁丝做伞骨，蒙以彩布的伞。这种伞由外国传入，故名。<sup>\[泰兴\]</sup>  
+1. 【[洋纱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_sha.md#洋纱)】`ian2 sha1` <small>/iɑŋ2 sɑ1/<sup>泰兴</sup></small> 棉纱。<sup>\[泰兴\]</sup>  
 1. 【[洋山芋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_shaen_y.md#洋山芋)】`ian2 shaen1 y` <small>/iaŋ2 sɛ̃1 y/<sup>兴化</sup></small> 马铃薯。<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>  
 1. 【[洋上吖天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_shan_nga_tin.md#洋上吖天)】`ian2 shan6 nga tin1` <sup>[如东]</sup> 时髦得很。  
 1. 【[洋式](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_sheh.md#洋式)】`ian2 sheh7` <sup>[如皋]</sup> 洋气的。  
 1. 【[洋生姜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_shen_jian.md#洋生姜)】`ian2 shen1 jian1` <sup>[泰州]</sup> 菊芋，草本植物，秋季开黄色小盘花，形如菊，原产美洲，17世纪传入欧洲，后来传入中国。  
 1. 【[洋柿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_shr_zz.md#洋柿子)】`ian2 shr6 zz` <small>/iaŋ2 sɿ6 t͡sɿ/<sup>兴化</sup>, /iɑŋ2 sɿ1 t͡se/<sup>泰县</sup></small> 西红柿。<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>  
 1. 【[洋蒜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_sun.md#洋蒜)】`ian2 sun5` <sup>[如皋]</sup> 一种大蒜，形粗大而味淡。与“本蒜”相对。  
-1. 【[洋糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_tan.md#洋糖)】`ian2 tan2` <small>/iaŋ2 tʰaŋ2/<sup>兴化</sup></small> 白砂糖的旧称<sup>\[兴化\]</sup><sup>\[泰州\]</sup>\[如东：或泛指白糖和红糖。\]：～㴷粽子。<sup>\[兴化\]</sup>  
+1. 【[洋糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_tan.md#洋糖)】`ian2 tan2` <small>/iaŋ2 tʰaŋ2/<sup>兴化</sup>, /iɑŋ2 tʰɑŋ2/<sup>泰兴</sup></small> 白砂糖的旧称<sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>\[如东：或泛指白糖和红糖。\]：～㴷粽子。<sup>\[兴化\]</sup>  
 1. 【[洋糖酒醉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_tan_jieu_jy.md#洋糖酒醉)】`ian2 tan2 jieu3 jy5` <sup>[泰县]</sup> 傻里傻气像个醉汉。  
 1. 【[洋糖嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_tan_jy.md#洋糖嘴)】`ian2 tan2 jy3` <sup>[泰县]</sup> 尽说好话的人：你不要听他说，他是个～。  
 1. 【[洋糖嘴，胡椒心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_tan_zuei_hv.md#洋糖嘴，胡椒心)】`ian2 tan2 zuei3 hv2 jio1 xien1` <sup>[兴化]</sup> 嘴上说得甜蜜，内心却阴险毒辣：这个人～，他的好话不能相信。  
+1. 【[洋糖嘴，胡椒心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_tan_zuei_hv.md#洋糖嘴，胡椒心)】`ian2 tan2 zuei3 hv2 jio1 xien1` <small>/iɑŋ2 tʰɑŋ2 t͡suəɪ3 fʋ2 t͡ɕiɔ1 ɕiŋ1/<sup>泰兴</sup></small> 讥人心狠但嘴上说起来非常甜蜜中听。<sup>\[泰兴\]</sup>：～，就差拿刀要人命<sup>\[泰兴\]</sup>  
 1. 【[洋头绳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_teu_shen.md#洋头绳)】`ian2 teu2 shen2` <sup>[兴化]</sup> 毛线：他上身穿的～褂子。  
 1. 【[洋田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_tin.md#洋田)】`ian2 tin2` <sup>[如皋]</sup> 农田中的盐碱地，不宜耕种。  
 1. 【[洋条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_tio.md#洋条)】`ian2 tio2` <sup>[东台]</sup> 镀锌的铁丝。因颜色像铅，所以又叫“铅丝”。  
 1. 【[洋坛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_tun.md#洋坛)】`ian2 tun2` <small>/iã2 tʰʊ̃2/<sup>如皋</sup></small> 一种坛或缸\[如皋：一种容量如大缸的坛，内、外有釉，外有图案，因而或称龙坛、荷花～、花鱼～等。\]\[如东：缸的一种。陶制，比较精致，内外上釉。圆桶形，口较小，壁较薄。用来贮水或物。\]  
 1. 【[洋碗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_un_r.md#洋碗<sub>儿</sub>)】`ian2 un3 r` <sup>[如皋]</sup> 搪瓷碗的旧称。  
 1. 【[洋务<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_v_r.md#洋务<sub>儿</sub>)】`ian2 v r` <sup>[如皋]</sup> 作风华而不实，或指人。  
-1. 【[洋瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_va.md#洋瓦)】`ian2 va3` <small>/iaŋ2 ua3/<sup>兴化</sup>, /iã2 ʋa3/<sup>如皋</sup></small> 机制平瓦。<sup>\[如皋\]</sup>\[兴化：也称“大瓦”。长方形机制平瓦，是盖屋面的主要材料。\]\[如东：泥土制，长方开，面平，中间有排水槽。多数红色。\]\[泰州：用机器制坯的欧美样式的长方形平瓦。\]  
+1. 【[洋瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_va.md#洋瓦)】`ian2 va3` <small>/iaŋ2 ua3/<sup>兴化</sup>, /iã2 ʋa3/<sup>如皋</sup>, /iɑŋ2 uɑ3/<sup>泰兴</sup></small> 机制平瓦。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>\[兴化：也称“大瓦”。长方形机制平瓦，是盖屋面的主要材料。\]\[如东：泥土制，长方开，面平，中间有排水槽。多数红色。\]\[泰州：用机器制坯的欧美样式的长方形平瓦。\]  
 1. 【[洋袜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_vaeh.md#洋袜)】`ian2 vaeh8` <sup>[如皋]</sup> 机织袜。与布袜相对。  
 1. 【[洋袜子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_vaeh_zz.md#洋袜子)】`ian2 vaeh8 zz` <sup>[如东]</sup> 旧时称以丝线为原料、用机械织成的袜子为洋袜子。  
 1. 【[洋嬉嬉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_xi_xi.md#洋嬉嬉)】`ian2 xi1 xi1` <sup>[泰县]</sup> 嬉皮笑脸：你不要～的，严肃点儿。  
@@ -477,6 +489,7 @@
 1. 【[洋锡𤖭<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_xieh_paen_r.md#洋锡𤖭<sub>儿</sub>)】`ian2 xieh7 paen2 r` <sup>[泰县]</sup> 铁皮。  
 1. 【[洋锡皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_xieh_pi.md#洋锡皮)】`ian2 xieh7 pi2` <sup>[兴化]</sup> ① 镀锌铁皮。 ② 马口铁。  
 1. 【[洋锡皮<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_xieh_pi_r.md#洋锡皮<sub>儿</sub>)】`ian2 xieh7 pi2 r` <sup>[如东]</sup> 白铁皮。  
+1. 【[洋锡皮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_xieh_pi_zz.md#洋锡皮子)】`ian2 xieh7 pi2 zz` <small>/iɑŋ2 ɕiʔ7 pʰʝ2 t͡sɿ/<sup>泰兴</sup></small> 较薄的白铁皮。<sup>\[泰兴\]</sup>  
 1. 【[洋锡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_xieh_r.md#洋锡<sub>儿</sub>)】`ian2 xieh7 r` <sup>[如皋]</sup> 小块的白铁皮。  
 1. 【[洋蛵䗜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_xien_lieu_r.md#洋蛵䗜<sub>儿</sub>)】`ian2 xien1 lieu r` <sup>[如东]</sup> 蜻蜓的一种。体形大，后背有绿色的斑纹，尾部有绿色的环纹。  
 1. 【[洋行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_xien.md#洋行)】`ian2 xien2` 指人肆无忌惮的言行<sup>\[泰州\]</sup>：人家是让他的，他倒～起来啊，把人家弄吖来啊火，夯吖他一顿。<sup>\[泰州\]</sup>｜本来老李已经不同他说咖，这小伙反而越说越～，你说老李哿得咖买他这个活鬼的账。<sup>\[泰州\]</sup>  
@@ -490,6 +503,7 @@
 1. 【[洋钟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_zhon.md#洋钟)】`ian2 zhon1` <sup>[如皋]</sup> 计时工具。与“本钟”相对。  
 1. 【[洋种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_zhon.md#洋种)】`ian2 zhon3` <sup>[如皋]</sup> ① 外国传来的品种：～猪子、～马。 ② 指人体格壮、块头大。  
 1. 【[洋种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_zhon.md#洋种)】`ian2 zhon5` <sup>[如皋]</sup> 用天花疫苗接种。  
+1. 【[洋纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_zhr.md#洋纸)】`ian2 zhr3` <small>/iɑŋ2 t͡sɿ3/<sup>泰兴</sup></small> 白纸。<sup>\[泰兴\]</sup>  
 1. 【[洋猪头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_zhv_teu.md#洋猪头)】`ian2 zhv1 teu2` <sup>[泰州]</sup> 受到他人吹捧后，不顾实际需要而去做某事，比喻行事只求表面风光而不讲究实效：这人是个～，人家说咖两句好话，他就像不得了啊唻。  
 1. 【[炀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian.md#炀)】`ian2` <small>/iaŋ2/<sup>兴化</sup></small> ① 固体在高温下化为液体<sup>\[兴化\]</sup>：铁皮太薄，一焊就～掉啊。《广韵·阳韵》与章切“～，释金”。<sup>\[兴化\]</sup> ② 金属氧化<sup>\[泰州\]</sup>：钢种锅儿几年不用，底都～掉唻。<sup>\[泰州\]</sup>  
 1. 【[烊灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_huei.md#烊灰)】`ian2 huei1` <small>/iã2 xuei1/<sup>如皋</sup></small> 使生石灰块子烊成粉末。<sup>\[如皋\]</sup><sup>\[如东\]</sup>  
