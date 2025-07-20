@@ -816,8 +816,7 @@
 1. 【[疯痰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_taen.md#疯痰)】`fon1 taen2` <sup>[兴化]</sup> 精神失常：他两眼失神，嘴里叽叽咕咕的乱说，像是得咖～。｜……凡是～，心窍塞住了，两个眼睛就没神了……（扬二《古城会》）  
 1. 【[疯天𧺕地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_tin_shah_ti.md#疯天𧺕地)】`fon1 tin1 shah8 ti6` <small>/fɔŋ1 tʰĩ1 saʔ8 tʰʝ1/<sup>如皋</sup>, /fɔŋ1 tʰĩ1 sɑʔ8 t͡ɕʰʝ1/<sup>泰兴</sup></small> ① 责语，指举止轻浮、不稳重。<sup>\[如皋\]</sup> ② 行为疯癫<sup>\[泰兴\]</sup>  
 1. 【[疯嬉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_xi.md#疯嬉)】`fon1 xi1` <sup>[泰州]</sup> 儿童不受管束或者无节制地尽情嬉闹：你～噢，夜里伺候啊画龙嗷。｜他放吖学就在外头～，不到吃夜饭不家来。  
-1. 【[疯长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_zhan.md#疯长)】`fon1 zhan3` <sup>[如东]</sup> 不正常的极度生长：玉米～。  
-1. 【[疯长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_zhan.md#疯长)】`fon1 zhan3` <small>/fɔŋ1 t͡sɑŋ3/<sup>泰兴</sup></small> 农作物茎叶发育过旺，不结果实。<sup>\[泰兴\]</sup>  
+1. 【[疯长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_zhan.md#疯长)】`fon1 zhan3` <small>/fɔŋ1 t͡sɑŋ3/<sup>泰兴</sup></small> ① 不正常的极度生长。<sup>\[如东\]</sup>：玉米～。<sup>\[如东\]</sup> ② 农作物茎叶发育过旺，不结果实。<sup>\[泰兴\]</sup>  
 1. 【[疯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_zz.md#疯子)】`fon1 zz` <small>/fɔŋ1 t͡sɿ/<sup>泰兴</sup></small> 患有严重精神病的人。借指行为异常的人。<sup>\[泰兴\]</sup>  
 1. 【[蜂蚂蚁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_ma_i.md#蜂蚂蚁)】`fon1 ma3 i3` <sup>[如皋]</sup> 田间常见的一种大黑蚂蚁，体长约8mm，有的有翅。膜翅目。“蜂蚂蝆（mi3）”。  
 1. 【[蜂吖𦞈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_nga_heu.md#蜂吖𦞈)】`fon1 nga heu2` <sup>[泰州]</sup> 脸部水肿导致眼睛难以睁开的样子：他脸上害啊个疖子，肿吖～。  

@@ -834,8 +834,7 @@
 1. 【[炮仗草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_chan_co.md#炮仗草)】`po5 chan6 co3` <small>/pʰɔ5 t͡sʰã1 t͡sʰɔ3/<sup>如皋</sup></small> ① 碾过的小麦秸，燃时有爆裂声。<sup>\[如皋\]</sup> ② 小麦秸，即齐草。<sup>\[如皋\]</sup>  
 1. 【[炮灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_huei.md#炮灰)】`po5 huei1` ① 炮弹中的火药爆炸以后就没有任何作用了。比喻在战争中白白送死的人。根据上级命令把炮弹打出去杀人。比喻替别人卖力气。<sup>\[如东\]</sup>：你不要替他当～。<sup>\[如东\]</sup> ② 稻草、麦草燃烧后留下的灰烬<sup>\[泰州\]</sup>：锅膛里的～塞咖满吖唻。<sup>\[泰州\]</sup>  
 1. 【[炮楼子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_leu_zz.md#炮楼子)】`po5 leu2 zz` <small>/pʰɔ5 ləɪ2 t͡sɿ/<sup>泰兴</sup></small> 战争年代碉堡的俗称。<sup>\[泰兴\]</sup>  
-1. 【[炮筒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_ton_zz.md#炮筒子)】`po5 ton3 zz` <sup>[如东]</sup> 炮筒子是直的。比喻说话直爽：他是个～。  
-1. 【[炮筒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_ton_zz.md#炮筒子)】`po5 ton3 zz` <small>/pʰɔ5 tʰɔŋ3 t͡sɿ/<sup>泰兴</sup></small> 比喻性情急躁、心直口快、好发议论的人。<sup>\[泰兴\]</sup>  
+1. 【[炮筒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_ton_zz.md#炮筒子)】`po5 ton3 zz` <small>/pʰɔ5 tʰɔŋ3 t͡sɿ/<sup>泰兴</sup></small> ① 比喻说话直爽。<sup>\[如东\]</sup>：他是个～。<sup>\[如东\]</sup> ② 比喻性情急躁、心直口快、好发议论的人。<sup>\[泰兴\]</sup>  
 1. 【[炮作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_zah.md#炮作)】`po5 zah7` 爆竹。<sup>\[泰州\]</sup>  
 1. 【[炮仗头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_zhan_teu_zz.md#炮仗头子)】`po5 zhan teu2 zz` <sup>[如东]</sup> 爆竹点火以后，头子就炸。比喻性子火爆：他是个～。  
 1. 【[炮仗线子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_zhan_xin_zz.md#炮仗线子)】`po5 zhan xin5 zz` <sup>[如东]</sup> 炮竹的引线，点火就着。比喻性情急躁，容易发火：他就像～一样，一点就炸。  

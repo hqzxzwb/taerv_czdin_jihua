@@ -536,8 +536,7 @@
 1. 【[𢼤臭水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_cheu_shuei.md#𢼤臭水)】`vaeh8 cheu5 shuei3` <sup>[如皋]</sup> 背后说他人的坏话，坏人名誉。  
 1. 【[𢼤粪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_fen.md#𢼤粪)】`vaeh8 fen5` <sup>[如皋]</sup> 用料勺泼浇粪肥。  
 1. 【[𢼤水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_shuei.md#𢼤水)】`vaeh8 shuei3` ① 将水倒尽 ② 一种民俗。姑娘出嫁时，将姑娘洗脸的水泼在花轿前。水泼出去后，就收不回来了，表示出嫁后不要想家。<sup>\[如东\]</sup>  
-1. 【[弯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen.md#弯)】`vaen1` <sup>[如东]</sup> 弯曲。  
-1. 【[弯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen.md#弯)】`vaen1` <small>/ʋɛ̃1/<sup>泰兴</sup></small> 说话办事不直爽，故意兜圈子。<sup>\[泰兴\]</sup>  
+1. 【[弯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen.md#弯)】`vaen1` <small>/ʋɛ̃1/<sup>泰兴</sup></small> ① 弯曲。<sup>\[如东\]</sup> ② 说话办事不直爽，故意兜圈子。<sup>\[泰兴\]</sup>  
 1. 【[弯刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_do.md#弯刀)】`vaen1 do1` <sup>[如皋]</sup> 刀体比钩刀长而狭，无库，楔㲀于木柄槽中，多用于割稻。  
 1. 【[弯刀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_do_r.md#弯刀<sub>儿</sub>)】`vaen1 do1 r` <sup>[泰县]</sup> 镰刀。  
 1. 【[弯刀子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_do_zz.md#弯刀子)】`vaen1 do1 zz` <sup>[兴化]</sup> 用于割草或制野菜的刀，形似镰刀而短。  

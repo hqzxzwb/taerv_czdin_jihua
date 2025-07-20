@@ -341,8 +341,7 @@
 1. 【[邪掉耳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_tio_er.md#邪掉耳)】`qia2 tio6 er3` <sup>[东台]</sup> 牙齿。（邪掉了右耳旁，就是牙）。本条目也是一个谜面：到医院去看～。  
 1. 【[邪舞𧺕刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_v_shah_do.md#邪舞𧺕刀)】`qia2 v3 shah8 do1` <sup>[如东]</sup> 横蛮，强硬：这个人～的，不像话。  
 1. 【[且看](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_kun.md#且看)】`qia3 kun5` <sup>[如皋]</sup> 看一看，等一等，再说：～他怎吖做相。  
-1. 【[笡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia.md#笡)】`qia5` <sup>[如皋]</sup> 倾斜：房子～啊上吖东。  
-1. 【[笡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia.md#笡)】`qia5` <sup>[兴化]</sup> ① 倾斜：屋～下来啊。 ② 死亡的隐语：老的望下一～，看你靠哪个？  
+1. 【[笡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia.md#笡)】`qia5` <small>/t͡ɕʰia5/<sup>兴化</sup>, /t͡ɕʰia5/<sup>如皋</sup></small> ① 倾斜<sup>\[如皋\]</sup><sup>\[兴化\]</sup>：房子～啊上吖东。<sup>\[如皋\]</sup>｜屋～下来啊。<sup>\[兴化\]</sup> ② 死亡的隐语<sup>\[兴化\]</sup>：老的望下一～，看你靠哪个？<sup>\[兴化\]</sup>  
 1. 【[笡山坡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_shaen_pu.md#笡山坡)】`qia5 shaen1 pu1` <sup>[泰州]</sup> 斜坡。  
 1. 【[笡山势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_shaen_shr.md#笡山势)】`qia5 shaen1 shr5` <sup>[兴化]</sup> 形容倾斜的姿势：庙门口四大金刚全是～｜镇江金山宝塔——～。  
 1. 【[笡头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_teu.md#笡头)】`qia5 teu2` 脑袋总是偏向一侧的人。<sup>\[泰州\]</sup>  
@@ -1155,9 +1154,7 @@
 1. 【[亲家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ga.md#亲家)】`qien5 ga` <small>/t͡ɕʰiəŋ5 ka/<sup>如皋</sup>, /t͡ɕʰiŋ5 kɑ/<sup>泰兴</sup></small> 姻亲的双方家族间长辈的关系<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
 1. 【[亲家公](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ga_gon.md#亲家公)】`qien5 ga gon` <sup>[泰州]</sup> 自己的父母对自己配偶的父亲的称呼。  
 1. 【[亲家公](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ga_gon.md#亲家公)】`qien5 ga gon1` <small>/t͡ɕʰiŋ5 kɑ kɔŋ1/<sup>泰兴</sup></small> 称儿子的岳父或女儿的公公。<sup>\[东台\]</sup><sup>\[泰兴\]</sup><sup>\[如东\]</sup>  
-1. 【[亲家母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ga_mu.md#亲家母)】`qien5 ga mu` <sup>[泰州]</sup> 自己父母对自己配偶的母亲的称呼。  
-1. 【[亲家母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ga_mu.md#亲家母)】`qien5 ga mu` <small>/t͡ɕʰiŋ5 kɑ mɤɯ/<sup>泰兴</sup></small> 对儿子的岳母或女儿的婆婆的称呼。<sup>\[泰兴\]</sup>  
-1. 【[亲家母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ga_mu.md#亲家母)】`qien5 ga mu3` ① 女儿的母亲和女婿的母亲。<sup>\[如东\]</sup> ② 称儿子的岳母或女儿的婆婆。<sup>\[东台\]</sup>  
+1. 【[亲家母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ga_mu.md#亲家母)】`qien5 ga mu3` <small>/t͡ɕʰiŋ5 kɑ mɤɯ/<sup>泰兴</sup></small> 称儿子的岳母或女儿的婆婆。<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>  
 1. 【[亲家母到啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ga_mu_do.md#亲家母到啊)】`qien5 ga mu3 do5 a` <small>/t͡ɕʰiəŋ5 ka mʊ3 tɔ5 a/<sup>如皋</sup></small> ① 行月经。<sup>\[如皋\]</sup> ② 隐指来了月经。<sup>\[如皋\]</sup>  
 1. 【[亲家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_jia.md#亲家)】`qien5 jia` 因两家儿女相婚配而形成的亲戚关系。<sup>\[泰州\]</sup>  
 1. 【[揿/搇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien.md#揿/搇)】`qien5` <small>/t͡ɕʰin5/<sup>兴化</sup>, /t͡ɕʰiəŋ5/<sup>如皋</sup>, /t͡ɕʰiŋ5/<sup>泰兴</sup>, /t͡ɕʰiŋ5/<sup>泰县</sup></small> 按，按压<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：～钮｜用力把羊子～住。<sup>\[如东\]</sup>｜前边堵车，急得些司机不停～喇叭。<sup>\[兴化\]</sup>｜把衣裳上的纽子～吖好啊。<sup>\[泰州\]</sup>  
@@ -1442,8 +1439,7 @@
 1. 【[前头老子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_teu_lo_zz.md#前头老子)】`qin2 teu lo3 zz` <small>/t͡ɕʰĩ2 tʰei lɔ3 t͡sɿ/<sup>如皋</sup></small> ① 母再婚后，指称随母生活儿女的生父。<sup>\[如皋\]</sup> ② 母亲的前夫。<sup>\[如东\]</sup>  
 1. 【[前天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_tin.md#前天)】`qin2 tin1` <sup>[如东]</sup> 往前第三天。也称前儿、前朝、前子。  
 1. 【[前途](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_tv.md#前途)】`qin2 tv2` <sup>[兴化]</sup> 打交道中的对方：这种钢材～愿出每吨一千五，你同意就成交。  
-1. 【[前些时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_xia_shr.md#前些时)】`qin2 xia1 shr2` <sup>[如皋]</sup> 前一段时间。  
-1. 【[前些时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_xia_shr.md#前些时)】`qin2 xia1 shr2` <small>/t͡ɕʰĩ2 ɕiɑ1 sɿ2/<sup>泰兴</sup></small> 前些时候<sup>\[泰兴\]</sup>  
+1. 【[前些时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_xia_shr.md#前些时)】`qin2 xia1 shr2` <small>/t͡ɕʰĩ2 ɕia1 sɿ2/<sup>如皋</sup>, /t͡ɕʰĩ2 ɕiɑ1 sɿ2/<sup>泰兴</sup></small> 前一段时间，前些时候<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
 1. 【[前向](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_xian.md#前向)】`qin2 xian5` <sup>[兴化]</sup> 前些时候：“有劳，有劳。～若非诸贤弟济助，我的骨殖几乎归不成土……”（《醒世姻缘传》四二）  
 1. 【[前向时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_xian_shr.md#前向时)】`qin2 xian5 shr2` <small>/t͡ɕʰiɪ̃2 ɕiaŋ5 sɿ2/<sup>兴化</sup></small> ① 前些日子<sup>\[东台\]</sup>：我～在南京。<sup>\[东台\]</sup> ② 前些时候。<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：～同他在做块儿喝过一次酒。<sup>\[泰州\]</sup>  
 1. 【[前走后空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_zeu_heu_kon.md#前走后空)】`qin2 zeu3 heu6 kon1` <sup>[兴化]</sup> 因疏于防范而被钻了空子：我出去忘吖锁门，捱人～偷啊钱包。｜“将军可晓得有个～啊……你将军一走，万一曹兵来了，哪一个来保护刘皇叔呢？”（扬说《长坡坡张飞用计》）  

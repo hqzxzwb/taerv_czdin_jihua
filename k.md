@@ -290,16 +290,14 @@
 1. 【[客家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_jia.md#客家)】`keh7 jia1` <small>/kʰəʔ7 t͡ɕia1/<sup>如皋</sup></small> ① 见“客边”。<sup>\[如皋\]</sup> ② 商家顾客<sup>\[泰州\]</sup>：店里来啊几个老～，你快点儿去招呼啊子。<sup>\[泰州\]</sup>  
 1. 【[客居<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_jy_r.md#客居<sub>儿</sub>)】`keh7 jy1 r` <sup>[兴化]</sup> 较小的偏屋。因常供来客暂住，故名。  
 1. 【[客来客打发](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_lae_keh_da.md#客来客打发)】`keh7 lae2 keh7 da3 faeh` <small>/kʰəʔ7 lɛ2 kʰəʔ7 tɑ3 fæʔ/<sup>泰兴</sup></small> 谓用客人来的礼物、礼金款待客人，犹“拿恁的馒头杵恁的嘴”、“来人吃来物”之意。<sup>\[泰兴\]</sup>  
-1. 【[客来扫地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_lae_so_ti.md#客来扫地)】`keh7 lae2 so3 ti6` <sup>[东台]</sup> 指招待客人准备不充分，另一意即为虚情假意。  
-1. 【[客来扫地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_lae_so_ti.md#客来扫地)】`keh7 lae2 so3 ti6` <small>/kʰəʔ7 lɛ2 sɔ3 t͡ɕʰʝ1/<sup>泰兴</sup></small> 谓不懂礼节，不重视礼节。<sup>\[泰兴\]</sup>  
+1. 【[客来扫地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_lae_so_ti.md#客来扫地)】`keh7 lae2 so3 ti6` <small>/kʰəʔ7 lɛ2 sɔ3 t͡ɕʰʝ1/<sup>泰兴</sup></small> ① 指招待客人准备不充分，另一意即为虚情假意。<sup>\[东台\]</sup> ② 谓不懂礼节，不重视礼节。<sup>\[泰兴\]</sup>  
 1. 【[客流](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_lieu.md#客流)】`keh7 lieu2` <sup>[如东]</sup> 一百斤左右的生猪，称客流。也称客郎。  
 1. 【[客气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_qi.md#客气)】`keh7 qi` <sup>[兴化]</sup> ① 讲究、优雅：房子虽小，布置倒还～。 ② 体面有身份：他家平时不用茶叶，有～点儿的人来啊，才忙吖洗茶杯寻茶叶泡茶。  
 1. 【[客气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_qi.md#客气)】`keh7 qi5` <sup>[如皋]</sup> 考究：他家装修得～啦！她身上打扮得～啷！  
 1. 【[客情账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_qien_zhan.md#客情账)】`keh7 qien zhan5` <sup>[兴化]</sup> 因某种关系而敷衍：我替他帮忙不过是～。  
 1. 【[客情客交](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_qien_keh_jio.md#客情客交)】`keh7 qien2 keh7 jio1` <sup>[如皋]</sup> 表面应酬，情谊不深。  
 1. 【[客随主便](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_qy_zhv_pin.md#客随主便)】`keh7 qy2 zhv3 pin6` <sup>[东台]</sup> 客人服从主人安排。  
-1. 【[客散主人安](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_saen_zhv_ren.md#客散主人安)】`keh7 saen5 zhv3 ren2 un1` <sup>[东台]</sup> 客人走了主人才能安下心来收拾整理，忙别的事。  
-1. 【[客散主人安](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_saen_zhv_ren.md#客散主人安)】`keh7 saen5 zhv3 ren2 un1` <small>/kʰəʔ7 ɕiɛ̃5 t͡su3 ɻəŋ2 ʊ̃1/<sup>泰兴</sup></small> 谓客人离开后主人才可以安心休息。<sup>\[泰兴\]</sup>  
+1. 【[客散主人安](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_saen_zhv_ren.md#客散主人安)】`keh7 saen5 zhv3 ren2 un1` <small>/kʰəʔ7 ɕiɛ̃5 t͡su3 ɻəŋ2 ʊ̃1/<sup>泰兴</sup></small> ① 客人走了主人才能安下心来收拾整理，忙别的事。<sup>\[东台\]</sup> ② 谓客人离开后主人才可以安心休息。<sup>\[泰兴\]</sup>  
 1. 【[客师](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_shr.md#客师)】`keh7 shr1` <small>/kʰəʔ7 sɿ1/<sup>兴化</sup>, /kʰəʔ7 sɿ1/<sup>如皋</sup></small> ① 见“客边”。<sup>\[如皋\]</sup> ② 从外面请来帮助工作的行家里手或关键人物。<sup>\[东台\]</sup> ③ 僧尼做佛事因人手不够，邀其他庙庵僧尼加入，俗谓“请～。”<sup>\[兴化\]</sup> ④ （借）临时帮忙的人<sup>\[兴化\]</sup>：实在忙不过来，只好请～。<sup>\[兴化\]</sup>  
 1. 【[客水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_shuei.md#客水)】`keh7 shuei3` <small>/kʰəʔ7 suəi3/<sup>兴化</sup></small> ① 从上游或周边地区流来的水<sup>\[兴化\]</sup>：大雨不停地下着，天雨加～，外坝的外河水位猛涨三尺。（马春阳《城里来的年轻人》）<sup>\[兴化\]</sup> ② 非本地域河流上游流过来的水<sup>\[泰州\]</sup>：1991年发大水，兴化的～都淌吖泰州来啊。<sup>\[泰州\]</sup>  
 1. 【[客堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keh_tan.md#客堂)】`keh7 tan2` <sup>[如东]</sup> 客厅。平房一般叫做明间。  
@@ -579,8 +577,7 @@
 1. 【[空心寡肚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_xien_gua_tv.md#空心寡肚)】`kon1 xien1 gua3 tv6` <sup>[兴化]</sup> 饿着肚皮没吃东西：我～的哪许有力气帮你挑水啊！  
 1. 【[空心莲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_xien_lin.md#空心莲)】`kon1 xien1 lin2` <sup>[如东]</sup> 一年生或多年生草本植物。茎圆形，中空，上部直立水面，下部匍匐蔓延在水中。花白色。生在河沟中。可作猪饲料。也叫空心莲子草。通称水花生。  
 1. 【[空心萝卜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_xien_lu_poh.md#空心萝卜)】`kon1 xien1 lu2 poh8` <small>/kʰɔŋ1 ɕiŋ1 lɤɯ2 pʰɔʔ8/<sup>泰兴</sup></small> 即将起苔或存放已久的萝卜，芯子发松起空。<sup>\[泰兴\]</sup>  
-1. 【[空心墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_xien_qian.md#空心墙)】`kon1 xien1 qian2` <sup>[如东]</sup> 用仄砖砌成的墙，称空心墙。也称斗子墙。  
-1. 【[空心墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_xien_qian.md#空心墙)】`kon1 xien1 qian2` <small>/kʰɔŋ1 ɕiŋ1 t͡ɕʰiɑŋ2/<sup>泰兴</sup></small> 不填碎砖瓦、泥的墙。<sup>\[泰兴\]</sup>  
+1. 【[空心墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_xien_qian.md#空心墙)】`kon1 xien1 qian2` <small>/kʰɔŋ1 ɕiŋ1 t͡ɕʰiɑŋ2/<sup>泰兴</sup></small> ① 用仄砖砌成的墙，称空心墙。也称斗子墙。<sup>\[如东\]</sup> ② 不填碎砖瓦、泥的墙。<sup>\[泰兴\]</sup>  
 1. 【[空心肚的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_xien_tv_dii.md#空心肚的)】`kon1 xien1 tv6 dii` <sup>[如皋]</sup> ① 清晨食前：化验肝功能，要～去抽血；一大早起来，～念书最容易记得。 ② 每顿食前：柿子要饭后吃，～不要吃。  
 1. 【[穹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon.md#穹)】`kon2` <small>/kʰɔŋ2/<sup>如皋</sup></small> ① 隆起，拱起 ② 鼓起来<sup>\[如皋\]</sup>：被单～吖下。<sup>\[如皋\]</sup> ③ 膨胀起来<sup>\[如皋\]</sup>：馒头蒸吖～起来啊。<sup>\[如皋\]</sup> ④ 物体向外隆起、撑起。<sup>\[东台\]</sup> ⑤ 隆起成圆弧形<sup>\[泰州\]</sup>：他跌咖个跟头，额头上～吖个大瘤。<sup>\[泰州\]</sup>｜你不能再吃咖，肚子都～出来啊。<sup>\[泰州\]</sup>  
 1. 【[孔二奶奶——姜黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_er_nae_nae.md#孔二奶奶——姜黄)】`kon3 er6 nae3 nae jian1 huan2` <sup>[如皋]</sup> 黄孔儿。  

@@ -519,8 +519,7 @@
 1. 【[烂舌头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_shih_teu.md#烂舌头)】`laen6 shih8 teu` <sup>[如皋]</sup> 詈语，责说出不利的、不该说的话的人。  
 1. 【[烂屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_shr.md#烂屎)】`laen6 shr3` <small>/lẽ1 sɿ3/<sup>如皋</sup>, /nɛ̃1 sɿ3/<sup>泰县</sup></small> ① 稀薄的大便。<sup>\[如东\]</sup> ② 比喻没有作用的人。<sup>\[如东\]</sup>：～无用。<sup>\[如东\]</sup> ③ 指大便不成形，但也不是水样大便，与“硬屎”相对。<sup>\[如皋\]</sup> ④ 没用的人：这个人是～。<sup>\[泰县\]</sup>  
 1. 【[烂屎无用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_shr_v_ion.md#烂屎无用)】`laen6 shr3 v2 ion6` <small>/lẽ1 sɿ3 ʋu2 iɔŋ1/<sup>如皋</sup></small> ① 比喻软弱，没有能力。<sup>\[如东\]</sup>：这个人～的。<sup>\[如东\]</sup> ② 毫无作用，毫无价值。<sup>\[如皋\]</sup> ③ 状人毫无能力。<sup>\[如皋\]</sup> ④ ［喻］指一点用处也没有。<sup>\[东台\]</sup>  
-1. 【[烂摊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_taen_zz.md#烂摊子)】`laen6 taen1 zz` <sup>[东台]</sup> ［喻］不可收拾的局面。  
-1. 【[烂摊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_taen_zz.md#烂摊子)】`laen6 taen1 zz` <small>/lɛ̃1 tʰɛ̃1 t͡sɿ/<sup>泰兴</sup></small> 凌乱破残的摊子。比喻难于收拾的混乱局面。<sup>\[泰兴\]</sup>  
+1. 【[烂摊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_taen_zz.md#烂摊子)】`laen6 taen1 zz` <small>/lɛ̃1 tʰɛ̃1 t͡sɿ/<sup>泰兴</sup></small> 比喻难以收拾的局面<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[烂桃子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_to_zz.md#烂桃子)】`laen6 to2 zz` <sup>[兴化]</sup> 形容作风靡烂的女人：她是个～，一搭就上。  
 1. 【[烂污](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_v.md#烂污)】`laen6 v` <sup>[兴化]</sup> ① 稀屎。 ② 品行恶劣的人：……后来见他～不堪，群相裹足。姚氏也就愈趋愈下……（《广陵潮》六九）也作“滥污”。  
 1. 【[烂污货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_v_hu.md#烂污货)】`laen6 v hu5` <sup>[泰州]</sup> 比喻生活作风不好、行为放荡的女人。  
@@ -1105,14 +1104,12 @@
 1. 【[亮脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_jiah.md#亮脚)】`lian6 jiah7` <sup>[兴化]</sup> 木工行话，即橱柜的腿：这对厨子式样蛮好，就是～嫌短，不登称。  
 1. 【[亮亮牛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_lian_ngeu_r.md#亮亮牛<sub>儿</sub>)】`lian6 lian6 ngeu2 r` <sup>[兴化]</sup> 天牛。一种有害昆虫。  
 1. 【[亮吖云脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_nga_yen_jiah.md#亮吖云脚)】`lian6 nga yen2 jiah7` <sup>[如皋]</sup> 下雨时远望，云层下方渐亮，表示雨渐小渐止。  
-1. 【[亮净](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_qien.md#亮净)】`lian6 qien` <sup>[如皋]</sup> 明亮而洁净。  
-1. 【[亮净](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_qien.md#亮净)】`lian6 qien` <small>/liɑŋ1 t͡ɕʰiŋ/<sup>泰兴</sup></small> 明亮而干净，使人感到舒适。<sup>\[泰兴\]</sup>  
+1. 【[亮净](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_qien.md#亮净)】`lian6 qien` <small>/liã1 t͡ɕʰiəŋ/<sup>如皋</sup>, /liɑŋ1 t͡ɕʰiŋ/<sup>泰兴</sup></small> 明亮而洁净。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
 1. 【[亮堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_tan.md#亮堂)】`lian6 tan` <sup>[如东]</sup> 明亮。  
 1. 【[亮头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_teu.md#亮头)】`lian6 teu` <sup>[兴化]</sup> ① 发光：夏天早上四点多钟东边就有～啊。 ② 光泽：清漆～大。 ③ 衣物磨损起花：他的衣袖起啊～。  
 1. 【[亮头亮眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_teu_lian_ngaen.md#亮头亮眼)】`lian6 teu lian6 ngaen3` <sup>[兴化]</sup> 尚有天光的时候：你～的不抓紧，天黑咖熬灯费火的才着忙。  
-1. 【[亮头亮眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_teu_lian_ngaen.md#亮头亮眼)】`lian6 teu2 lian6 ngaen3` ① 光线比较明亮。<sup>\[如东\]</sup>：早早收工，～的。<sup>\[如东\]</sup> ② 太阳下山以后、天黑之前尚有光亮这段时间<sup>\[泰州\]</sup>：天还不曾黑，趁现在～的，早点把外栋晒的些东西收家去。<sup>\[泰州\]</sup>  
-1. 【[亮头亮眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_teu_lian_ngaen.md#亮头亮眼)】`lian6 teu2 lian6 ngaen3` <small>/liɑŋ1 tʰəɪ2 liɑŋ1 ŋɛ̃3/<sup>泰兴</sup></small> 十分明亮，光线很好。<sup>\[泰兴\]</sup>  
-1. 【[亮头亮眼的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_teu_lian_ngaen.md#亮头亮眼的)】`lian6 teu2 lian6 ngaen3 dii` <sup>[如皋]</sup> 白天，光线明亮，有抓紧、趁亮时做事，不要拖到夜晚的意思。  
+1. 【[亮头亮眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_teu_lian_ngaen.md#亮头亮眼)】`lian6 teu lian6 ngaen3` <small>/liɑŋ1 tʰəɪ liɑŋ1 ŋɛ̃3/<sup>泰兴</sup></small> ① 光线比较明亮。<sup>\[如东\]</sup>：早早收工，～的。<sup>\[如东\]</sup> ② 太阳下山以后、天黑之前尚有光亮这段时间<sup>\[泰州\]</sup>：天还不曾黑，趁现在～的，早点把外栋晒的些东西收家去。<sup>\[泰州\]</sup> ③ 十分明亮，光线很好。<sup>\[泰兴\]</sup>  
+1. 【[亮头亮眼的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_teu_lian_ngaen.md#亮头亮眼的)】`lian6 teu lian6 ngaen3 dii` <sup>[如皋]</sup> 白天，光线明亮，有抓紧、趁亮时做事，不要拖到夜晚的意思。  
 1. 【[亮相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_xian.md#亮相)】`lian6 xian5` <sup>[如东]</sup> 露出真面目。  
 1. 【[亮星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_xien.md#亮星)】`lian6 xien1` <small>/liã1 ɕiəŋ1/<sup>如皋</sup>, /liɑŋ1 ɕiŋ1/<sup>泰兴</sup>, /niɑŋ1 ɕiŋ1/<sup>泰县</sup></small> ① 星光或者月光很亮的晚上 ② 阴历初八至二十三之间，月亮在空中，光线明亮，称亮星。<sup>\[如东\]</sup> ③ 天空没有云雾，星光闪烁，这种天气称亮星。<sup>\[如东\]</sup> ④ 有月的夜间。一般指阴历初八至二十三之间，即使乌云密布，天色也亮，不会一片漆黑。<sup>\[如皋\]</sup> ⑤ 明亮的夜晚。<sup>\[东台\]</sup> ⑥ 有月亮：今朝是～。<sup>\[泰县\]</sup> ⑦ 月光明亮的夜晚或星光很亮的夜晚<sup>\[泰州\]</sup>：趁这一刻儿～，你俫早点儿走吧。<sup>\[泰州\]</sup> ⑧ 皓月当空，不是伸手不见五指的黑夜。<sup>\[泰兴\]</sup>  
 1. 【[亮星夜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_xien_ia.md#亮星夜)】`lian6 xien1 ia6` <sup>[兴化]</sup> 有月光的夜晚：这种～里踏上几十里路车子没问题。  

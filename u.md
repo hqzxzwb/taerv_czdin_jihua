@@ -116,23 +116,20 @@
 1. 【[活络](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_lah.md#活络)】`uh8 lah` <sup>[如皋]</sup> 见“活泛”。  
 1. 【[活落盐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_lah_in.md#活落盐)】`uh8 lah8 in2` <sup>[如皋]</sup> 进舱时趁活加盐腌制的小黄鱼。品质好。  
 1. 【[活捱搅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_ngae_go.md#活捱搅)】`uh8 ngae2 go3` <sup>[如皋]</sup> 见“活遭罪”。  
-1. 【[活嚼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_qiah.md#活嚼)】`uh8 qiah8` <sup>[如皋]</sup> 胡说八道。  
-1. 【[活嚼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_qiah.md#活嚼)】`uh8 qiah8` <small>/ʊʔ8 t͡ɕʰiɑʔ8/<sup>泰兴</sup></small> 骂人语。犹胡说。<sup>\[泰兴\]</sup>  
+1. 【[活嚼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_qiah.md#活嚼)】`uh8 qiah8` <small>/ʊʔ8 t͡ɕʰiaʔ8/<sup>如皋</sup>, /ʊʔ8 t͡ɕʰiɑʔ8/<sup>泰兴</sup></small> 胡说八道。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
 1. 【[活嚼大三光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_qiah_da_saen.md#活嚼大三光)】`uh8 qiah8 da6 saen1 guan1` <sup>[东台]</sup> （詈语）严厉斥责对方是完全没有根据的瞎说。  
 1. 【[活嚼大头蛆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_qiah_da_teu.md#活嚼大头蛆)】`uh8 qiah8 da6 teu2 qy1` <small>/ʊʔ8 t͡ɕʰiaʔ8 ta1 tʰei2 t͡ɕʰy1/<sup>如皋</sup></small> ① 乱说、胡说。无影子的说，不计后果的说。<sup>\[如皋\]</sup> ② 同“活嚼大三光”。（参见“嚼蛆”“嚼瘟蛆”）<sup>\[东台\]</sup>  
 1. 【[活伤良心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_shan_lian_xien.md#活伤良心)】`uh8 shan1 lian2 xien1` <sup>[东台]</sup> 见“伤良心”。  
 1. 【[活食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_sheh.md#活食)】`uh8 sheh8` <small>/ʊʔ8 səʔ8/<sup>如皋</sup>, /ʊʔ8 səʔ8/<sup>泰兴</sup></small> ① 以鲜活的小动物为食<sup>\[如皋\]</sup>：鸡子吃咖～就长得快。<sup>\[如皋\]</sup> ② 以活物充当食物。<sup>\[东台\]</sup> ③ ［喻］指固定收入之外的活收入。<sup>\[东台\]</sup> ④ 比喻所从事的工作每天都有一定的收人。也指虫类是禽鸟的食物。<sup>\[泰兴\]</sup>：他是吃～的<sup>\[泰兴\]</sup>  
 1. 【[活守寡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_sheu_gua.md#活守寡)】`uh8 sheu3 gua3` <small>/ʊʔ8 ɕiɤɯ3 kuɑ3/<sup>泰兴</sup></small> 谓已婚女子长期不能和丈夫在一起。也说守活寡。<sup>\[泰兴\]</sup>  
 1. 【[活受罪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_sheu_cuei.md#活受罪)】`uh8 sheu6 cuei6` <small>/ʊʔ8 ɕiɤɯ1 t͡sʰuəɪ1/<sup>泰兴</sup></small> 喻遭受无法摆脱的苦难。<sup>\[泰兴\]</sup>  
-1. 【[活水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_shuei.md#活水)】`uh8 shuei3` <sup>[东台]</sup> 流动不腐的水。  
-1. 【[活水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_shuei.md#活水)】`uh8 shuei3` <small>/ʊʔ8 suəɪ3/<sup>泰兴</sup></small> 常流动的水。<sup>\[泰兴\]</sup>  
+1. 【[活水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_shuei.md#活水)】`uh8 shuei3` <small>/ʊʔ8 suəɪ3/<sup>泰兴</sup></small> 流动不腐的水。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[活死人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_sz_ren.md#活死人)】`uh8 sz3 ren` <sup>[如皋]</sup> 虽活着，等于死了。  
 1. 【[活达](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_taeh.md#活达)】`uh8 taeh` <sup>[东台]</sup> 反应灵敏，灵活。  
 1. 【[活形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_xien.md#活形)】`uh8 xien2` <sup>[如皋]</sup> 对“死形”的反驳语，同样指“难看”。  
 1. 【[活鲜活剥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_xin_uh_bah.md#活鲜活剥)】`uh8 xin1 uh8 bah7` <small>/ʊʔ8 ɕĩ1 ʊʔ8 pɑʔ7/<sup>泰兴</sup></small> 鲜活的，不是死的。多指买鸡鸭鱼虾等作菜用的动物。<sup>\[泰兴\]</sup>  
 1. 【[活鲜活跳的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_xin_uh_tio.md#活鲜活跳的)】`uh8 xin1 uh8 tio5 dii` <sup>[如皋]</sup> 生命力旺盛的样子。  
-1. 【[活鲜鲜的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_xin_xin_dii.md#活鲜鲜的)】`uh8 xin1 xin1 dii` <sup>[如皋]</sup> 见“活鲜活跳的”。  
-1. 【[活鲜鲜的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_xin_xin_dii.md#活鲜鲜的)】`uh8 xin1 xin1 dii` <small>/ʊʔ8 ɕĩ1 ɕĩ1 təɪ/<sup>泰兴</sup></small> 活的，充满生机的。<sup>\[泰兴\]</sup>  
+1. 【[活鲜鲜的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_xin_xin_dii.md#活鲜鲜的)】`uh8 xin1 xin1 dii` <small>/ʊʔ8 ɕĩ1 ɕĩ1 tei/<sup>如皋</sup>, /ʊʔ8 ɕĩ1 ɕĩ1 təɪ/<sup>泰兴</sup></small> ① 见“活鲜活跳的”。<sup>\[如皋\]</sup> ② 活的，充满生机的。<sup>\[泰兴\]</sup>  
 1. 【[活现报](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_xin_bo.md#活现报)】`uh8 xin6 bo5` <small>/ʊʔ8 ɕĩ1 pɔ5/<sup>泰兴</sup></small> 现世的报应。<sup>\[泰兴\]</sup>  
 1. 【[活现世](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_xin_shr.md#活现世)】`uh8 xin6 shr5` <small>/ʊʔ8 ɕĩ1 sɿ5/<sup>泰兴</sup></small> 犹现世宝；丢人现眼。<sup>\[泰兴\]</sup>  
 1. 【[活血](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_xiuh.md#活血)】`uh8 xiuh` <sup>[如皋]</sup> 见“活泛”。  

@@ -771,8 +771,7 @@
 1. 【[后梢翘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_sho_qio.md#后梢翘)】`heu6 sho1 qio5` <small>/xəɪ1 sɔ1 t͡ɕʰiɔ5/<sup>泰兴</sup></small> 俗以最后取得令人满意的成果、成效者为“后梢翘”。<sup>\[泰兴\]</sup>  
 1. 【[后事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_shr.md#后事)】`heu6 shr6` <sup>[东台]</sup> 丧事及死者的遗留问题。  
 1. 【[后头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_teu.md#后头)】`heu6 teu` <small>/xɤ6 tʰɤ/<sup>兴化</sup>, /xei1 tʰei/<sup>如皋</sup></small> ① 之后，以后，后面 ② 后面。与前相对。<sup>\[如皋\]</sup> ③ 与“朝南”“向阳”相对。<sup>\[如皋\]</sup> ④ 后来<sup>\[兴化\]</sup>：“妈妈，正为～日子短了，因此烦恼……”（《醒世恒言》二十）<sup>\[兴化\]</sup> ⑤ 后面<sup>\[泰州\]</sup>：你稍微慢点儿开，等啊子～的车子。<sup>\[泰州\]</sup>  
-1. 【[后头家里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_teu_ga_lii.md#后头家里)】`heu6 teu ga1 lii` <sup>[如皋]</sup> ① 后面的房屋里。 ② 后面住的那一家。  
-1. 【[后头家里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_teu_ga_lii.md#后头家里)】`heu6 teu ga1 lii` <small>/xəɪ1 tʰəɪ kɑ1 ləɪ/<sup>泰兴</sup></small> 正房后面的房子，或前后两进的后一进房子。<sup>\[泰兴\]</sup>  
+1. 【[后头家里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_teu_ga_lii.md#后头家里)】`heu6 teu ga1 lii` <small>/xei1 tʰei ka1 tei/<sup>如皋</sup>, /xəɪ1 tʰəɪ kɑ1 ləɪ/<sup>泰兴</sup></small> ① 后面的房屋里。<sup>\[如皋\]</sup> ② 后面住的那一家。<sup>\[如皋\]</sup> ③ 正房后面的房子，或前后两进的后一进房子。<sup>\[泰兴\]</sup>  
 1. 【[后天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_tin.md#后天)】`heu6 tin1` <sup>[如东]</sup> 往后第三天。后朝。  
 1. 【[后添汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_tin_tan.md#后添汤)】`heu6 tin1 tan1` <small>/xɤ6 tʰiɪ̃1 tʰaŋ1/<sup>兴化</sup></small> ① 后续援助（主要指来自家庭的）。<sup>\[东台\]</sup> ② 做菜、煮汤圆或面条时，后加的汤（热水）。<sup>\[兴化\]</sup> ③ （借）后加的或外加的<sup>\[兴化\]</sup>：这次到黄山旅游，原计划十个人，～又来啊两个。<sup>\[兴化\]</sup>  
 1. 【[后通](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_ton.md#后通)】`heu6 ton` <sup>[东台]</sup> 后头。  
@@ -2162,8 +2161,7 @@
 1. 【[活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh.md#活)】`huh8` <small>/xuʔ8/<sup>兴化</sup>, /xʊʔ8/<sup>如皋</sup>, /xʊʔ8/<sup>泰兴</sup>, /xʊʔ8/<sup>泰县</sup></small> ① 抖动；颤抖<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：把堂灰～下去｜手抖抖～～的｜一～抖，二～战<sup>\[兴化\]</sup>｜救火车一响，老太太吓得直～。<sup>\[兴化\]</sup>｜衣裳穿得少，人冻得～～的。<sup>\[泰州\]</sup>｜把袋子～咖子，把里头米倒啊清吖。<sup>\[泰州\]</sup> ② 物体可以移动、转动、解开<sup>\[泰州\]</sup>：这把锁死啊唻，你去换把～锁来锁。<sup>\[泰州\]</sup> ③ 物体连接处发生松动<sup>\[泰州\]</sup>：螺丝帽子～咖唻，要紧下子。<sup>\[泰州\]</sup>  
 1. 【[活剥剥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_bah_bah.md#活剥剥)】`huh8 bah7 bah7` <small>/xuʔ8 paʔ7 paʔ7/<sup>兴化</sup>, /xʊʔ8 pɑʔ7 pɑʔ7/<sup>泰县</sup></small> 活生生。<sup>\[如东\]</sup><sup>\[泰县\]</sup>\[兴化：也说“活鲜鲜”。\]\[泰州：眼看着生命在活着时受到伤害而死亡\]：～的死啊。<sup>\[如东\]</sup>｜小花狗捱人家～的打死啊。<sup>\[兴化\]</sup>｜他上街买啊几条～的大鱼。<sup>\[泰县\]</sup>｜你亲眼望见这个人捱汽车～的轧杀咖的。<sup>\[泰州\]</sup>  
 1. 【[活剥剥的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_bah_bah_dii.md#活剥剥的)】`huh8 bah7 bah7 dii` <sup>[如皋]</sup> 叹息，指导致不良后果：这本书～捱他糟蹋掉啊。  
-1. 【[活宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_bo.md#活宝)】`huh8 bo3` <sup>[东台]</sup> ① 形容极其珍贵。 ② 指无能或滑稽可笑的人。  
-1. 【[活宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_bo.md#活宝)】`huh8 bo3` <small>/xʊʔ8 pɔ3/<sup>泰兴</sup></small> 指无能或滑稽可笑的人。<sup>\[泰兴\]</sup>  
+1. 【[活宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_bo.md#活宝)】`huh8 bo3` <small>/xʊʔ8 pɔ3/<sup>泰兴</sup></small> ① 形容极其珍贵。<sup>\[东台\]</sup> ② 指无能或滑稽可笑的人。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[活报应](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_bo_ien.md#活报应)】`huh8 bo5 ien5` <sup>[泰州]</sup> 让人看到行恶之人在活着时得到恶劣报应：卖假药的人得咖癌症，真是～！  
 1. 【[活蹦乱跳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_bon_lun_tio.md#活蹦乱跳)】`huh8 bon5 lun6 tio5` <sup>[如东]</sup> 活泼好动：这些青年都是～的。  
 1. 【[活贼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_ceh.md#活贼)】`huh8 ceh8` <small>/xuʔ8 t͡sʰəʔ8/<sup>兴化</sup>, /xʊʔ8 t͡sʰəʔ8/<sup>泰县</sup></small> ① 骂贼的话<sup>\[兴化\]</sup>：～扒手<sup>\[兴化\]</sup>｜“～！我是过来人，哄得的？”（《三刻》二四）<sup>\[兴化\]</sup> ② （禁忌语）贼。<sup>\[泰县\]</sup> ③ 活生生的邪恶之人，极不正派的人，詈词<sup>\[泰州\]</sup>：这种缺德的事情肯定是他俫这几个～弄的。<sup>\[泰州\]</sup>  
@@ -2177,8 +2175,7 @@
 1. 【[活猴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_heu.md#活猴)】`huh8 heu2` <sup>[兴化]</sup> （喻）女儿和外孙。农历二月二，已嫁闺女挈夫将雏回到娘家：谚曰：二月二，龙拾头，家家带～。  
 1. 【[活河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_hu.md#活河)】`huh8 hu2` <sup>[兴化]</sup> 有源头的常流水。  
 1. 【[活活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_huh.md#活活)】`huh8 huh8` <small>/xʊʔ8 xʊʔ8/<sup>泰县</sup></small> 抖动抖动。<sup>\[如东\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：衣裳上头都是草，脱下来～。<sup>\[如东\]</sup>｜你把身上的灰～干净。<sup>\[泰县\]</sup>｜你把袋子～，把里头到啊干净吖。<sup>\[泰州\]</sup>｜落雪天，零下五六度，老先生只穿吖件单褂子，人冻得～的。<sup>\[泰州\]</sup>  
-1. 【[活活抖抖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_huh_deu_deu.md#活活抖抖)】`huh8 huh8 deu3 deu3` <sup>[东台]</sup> 发抖，打颤，哆嗦，战战兢兢的样子：你看他冻得～的。  
-1. 【[活活抖抖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_huh_deu_deu.md#活活抖抖)】`huh8 huh8 deu3 deu3` <small>/xʊʔ8 xʊʔ8 təɪ3 təɪ3/<sup>泰兴</sup></small> 因恐惧全身不停地抖动。<sup>\[泰兴\]</sup>  
+1. 【[活活抖抖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_huh_deu_deu.md#活活抖抖)】`huh8 huh8 deu3 deu3` <small>/xʊʔ8 xʊʔ8 təɪ3 təɪ3/<sup>泰兴</sup></small> ① 发抖，打颤，哆嗦，战战兢兢的样子<sup>\[东台\]</sup>：你看他冻得～的。<sup>\[东台\]</sup> ② 因恐惧全身不停地抖动。<sup>\[泰兴\]</sup>  
 1. 【[活活的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_huh_dii.md#活活的)】`huh8 huh8 dii` <sup>[泰州]</sup> 因受到寒气刺激或者气愤至极而致身体抖动不止的样子：零下五度，他只穿吖件破棉袄，人动得～。｜听说儿子在外头打架，把人家打啊伤吖，他在家里气得～。  
 1. 【[活活浪浪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_huh_lan_lan.md#活活浪浪)】`huh8 huh8 lan6 lan6` <sup>[如东]</sup> 摇摇晃晃：脚手架一～，你俫要注意安全。  
 1. 【[活活<sub>儿</sub>病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_huh_r_pien.md#活活<sub>儿</sub>病)】`huh8 huh8 r pien6` <sup>[如皋]</sup> 不住颤抖的病。帕金森氏综合症。  
@@ -2212,8 +2209,7 @@
 1. 【[活像](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_qian.md#活像)】`huh8 qian6` <small>/ʊʔ8 t͡ɕʰiã1/<sup>如皋</sup></small> 极像；酷似。<sup>\[东台\]</sup><sup>\[泰州\]</sup><sup>\[如皋\]</sup>：他当时说得～真的一样，教你不得不信。<sup>\[泰州\]</sup>  
 1. 【[活像真的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_qian_zhen_dii.md#活像真的)】`huh8 qian6 zhen1 dii` <sup>[东台]</sup> ① 形容绘画或艺术描写惟妙惟肖，逼真传神。（褒） ② 形容极会吹牛撒谎。（贬）  
 1. 【[活情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_qien.md#活情)】`huh8 qien2` <sup>[兴化]</sup> ① 形容菜肴鲜、脆、嫩：虾仁炒得蛮～的。 ② 形容人态度灵活、不呆板：她觉得他不够～，有点出土文物的味道。（钱国怀《行路难》）  
-1. 【[活钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_qin.md#活钱)】`huh8 qin2` <sup>[泰州]</sup> ① 固定职业收入以外，依靠第二职业所赚的非固定收入：他日里上班，晚上出去摆摊儿弄两个～。 ② 可以灵活使用的钱：男人家身上总要留两个～，三朋四友吃个早茶的钱都拿不出，不丢架子啊？  
-1. 【[活钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_qin.md#活钱)】`huh8 qin2` <small>/xʊʔ8 t͡ɕʰĩ2/<sup>泰兴</sup></small> 正常收入之外的钱。<sup>\[泰兴\]</sup>  
+1. 【[活钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_qin.md#活钱)】`huh8 qin2` <small>/xʊʔ8 t͡ɕʰĩ2/<sup>泰兴</sup></small> ① 固定职业收入以外，依靠第二职业所赚的非固定收入<sup>\[泰州\]</sup>：他日里上班，晚上出去摆摊儿弄两个～。<sup>\[泰州\]</sup> ② 可以灵活使用的钱<sup>\[泰州\]</sup>：男人家身上总要留两个～，三朋四友吃个早茶的钱都拿不出，不丢架子啊？<sup>\[泰州\]</sup> ③ 正常收入之外的钱。<sup>\[泰兴\]</sup>  
 1. 【[活穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_qion.md#活穷)】`huh8 qion2` <small>/xʊʔ8 t͡ɕʰiɔŋ2/<sup>如皋</sup>, /xʊʔ8 t͡ɕʰiɔŋ2/<sup>泰兴</sup></small> 哭穷。另见“嗑穷”。<sup>\[如东\]</sup><sup>\[如皋\]</sup>\[泰兴：硬说自己穷得很。\]：王二嫂就会～。<sup>\[如东\]</sup>  
 1. 【[活人妻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_ren_qi.md#活人妻)】`huh8 ren2 qi1` <sup>[兴化]</sup> 有夫之妇或离异后前夫尚在的女人：“……什么好老婆，一个贼～淫妇……”（《金瓶梅词话》七二）｜“这盗卖发妻，是他说合，把人家～卖了么？”（《岐路灯》四十）  
 1. 【[活丧形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_san_xien.md#活丧形)】`huh8 san5 xien2` <small>/xʊʔ8 sɑŋ5 ɕiŋ2/<sup>泰县</sup></small> 形象太差，简直丢尽面子。<sup>\[东台\]</sup><sup>\[泰县\]</sup>：你不要～。<sup>\[泰县\]</sup>  

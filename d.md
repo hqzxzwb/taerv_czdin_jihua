@@ -895,13 +895,10 @@
 1. 【[呆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae.md#呆)】`dae1` ① 傻，不聪明 ② 除一般释义外，东台话还当副词用，与“很”近义<sup>\[东台\]</sup>：他～好啊<sup>\[东台\]</sup>｜这件衣服～漂亮！<sup>\[东台\]</sup>  
 1. 【[呆啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_a.md#呆啊)】`dae1 a` <sup>[如皋]</sup> 患了精神病。  
 1. 【[呆啊肫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_a_den.md#呆啊肫)】`dae1 a den1` <sup>[东台]</sup> ① 家禽吃得过多，胃子装不下。 ② ［喻］人吃得过饱，行动不便：现在要科学养生，不能吃咖～。  
-1. 【[呆巴入猴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_ba_reh_heu.md#呆巴入猴)】`dae1 ba reh8 heu2` <small>/tɛ1 pa ləʔ8 xɤ2/<sup>兴化</sup>, /tɛ1 pa ɻəʔ8 xei2/<sup>如皋</sup>, /tɛ1 pɑ ɻəʔ8 xəɪ2/<sup>泰兴</sup></small> 形容呆傻<sup>\[兴化\]</sup><sup>\[泰兴\]</sup><sup>\[如皋\]</sup>：～的。<sup>\[兴化\]</sup>  
-1. 【[呆巴入猴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_ba_reh_heu.md#呆巴入猴)】`dae1 ba reh8 heu2` <sup>[泰州]</sup> 愚蠢，呆傻：会上大家都不表态，只有这小伙～的说咖一气。  
-1. 【[呆巴入猴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_ba_reh_heu.md#呆巴入猴)】`dae1 ba reh8 heu2` <sup>[东台]</sup> 形容做事没有分寸。  
+1. 【[呆巴入猴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_ba_reh_heu.md#呆巴入猴)】`dae1 ba reh8 heu2` <small>/tɛ1 pa ləʔ8 xɤ2/<sup>兴化</sup>, /tɛ1 pa ɻəʔ8 xei2/<sup>如皋</sup>, /tɛ1 pɑ ɻəʔ8 xəɪ2/<sup>泰兴</sup></small> ① 形容呆傻<sup>\[兴化\]</sup><sup>\[泰兴\]</sup><sup>\[如皋\]</sup><sup>\[泰州\]</sup>：～的。<sup>\[兴化\]</sup>｜会上大家都不表态，只有这小伙～的说咖一气。<sup>\[泰州\]</sup> ② 形容做事没有分寸。<sup>\[东台\]</sup>  
 1. 【[呆巴拉哈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_ba_la_ha.md#呆巴拉哈)】`dae1 ba1 la ha` <sup>[如东]</sup> 不聪明，不灵活：王五儿是个～的人。  
 1. 【[呆巴入冲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_ba_reh_chon.md#呆巴入冲)】`dae1 ba1 reh8 chon5` <sup>[东台]</sup> 形容头脑简单，贸然行事。  
-1. 【[呆不入猴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_beh_reh_heu.md#呆不入猴)】`dae1 beh reh8 heu2` 傻乎乎的，傻不啦叽的  
-1. 【[呆不入猴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_beh_reh_heu.md#呆不入猴)】`dae1 beh reh8 heu2` <small>/te1 pəʔ ɻyəʔ8 xɤɯ2/<sup>泰县</sup></small> ① 比喻非常痴呆。<sup>\[如东\]</sup>：不要像他那吖～的。<sup>\[如东\]</sup> ② 做事没主张<sup>\[泰县\]</sup>：他做事有点～。<sup>\[泰县\]</sup> ③ 冒失，不知轻重。<sup>\[泰县\]</sup>  
+1. 【[呆不入猴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_beh_reh_heu.md#呆不入猴)】`dae1 beh reh8 heu2` <small>/te1 pəʔ ɻyəʔ8 xɤɯ2/<sup>泰县</sup></small> ① 傻乎乎的，傻不啦叽的 ② 比喻非常痴呆。<sup>\[如东\]</sup>：不要像他那吖～的。<sup>\[如东\]</sup> ③ 做事没主张<sup>\[泰县\]</sup>：他做事有点～。<sup>\[泰县\]</sup> ④ 冒失，不知轻重。<sup>\[泰县\]</sup>  
 1. 【[呆串吖皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_chun_nga_pi.md#呆串吖皮)】`dae1 chun5 nga pi2` <sup>[泰州]</sup> 被人剥皮也不知道，愚蠢到了极点：他对领导有意见自己不提，教你去提，你对领导又没得意见，你同他提甚的意见，你说你哿是～？  
 1. 【[呆呆的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_dae_dii.md#呆呆的)】`dae1 dae1 dii` <sup>[如皋]</sup> 经常地：他～去赌钱。  
 1. 【[呆登登](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_den_den.md#呆登登)】`dae1 den1 den1` <sup>[泰县]</sup> 傻乎乎：这小子～的。  

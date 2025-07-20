@@ -363,8 +363,7 @@
 1. 【[甲等](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiaeh_den.md#甲等)】`jiaeh7 den3` <sup>[东台]</sup> 最优的一等：他的操行等第捱评为～。  
 1. 【[甲鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiaeh_y.md#甲鱼)】`jiaeh7 y2` <small>/t͡ɕieʔ7 y2/<sup>如皋</sup></small> ① 鳖。<sup>\[如皋\]</sup> ② 鳖。<sup>\[东台\]</sup>  
 1. 【[甲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiaeh_zz.md#甲子)】`jiaeh7 zz3` <sup>[东台]</sup> 用干支纪年时，六十组干支字轮一周叫一个甲子（即六十年）。  
-1. 【[奸刁巨滑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiaen_dio_qy_huaeh.md#奸刁巨滑)】`jiaen1 dio1 qy6 huaeh8` <sup>[兴化]</sup> 形容十分奸诈狡猾：这个老脚鱼～，一般人弄不过他！  
-1. 【[奸刁巨滑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiaen_dio_qy_huaeh.md#奸刁巨滑)】`jiaen1 dio1 qy6 huaeh8` <sup>[泰州]</sup> 手段狡诈而又狡猾：这个老家伙～，你要防住他点儿。  
+1. 【[奸刁巨滑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiaen_dio_qy_huaeh.md#奸刁巨滑)】`jiaen1 dio1 qy6 huaeh8` <small>/t͡ɕiɛ̃1 tiɔ1 t͡ɕʰy6 xuæʔ8/<sup>兴化</sup></small> ① 形容十分奸诈狡猾<sup>\[兴化\]</sup>：这个老脚鱼～，一般人弄不过他！<sup>\[兴化\]</sup> ② 手段狡诈而又狡猾<sup>\[泰州\]</sup>：这个老家伙～，你要防住他点儿。<sup>\[泰州\]</sup>  
 1. 【[奸刁悉滑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiaen_dio_xyeh_huaeh.md#奸刁悉滑)】`jiaen1 dio1 xyeh7 huaeh8` <small>/t͡ɕiɛ̃1 tiɔ1 ɕyəʔ7 xuæʔ8/<sup>泰兴</sup></small> 尖刻刁钻、油头滑脑，贬语。<sup>\[泰兴\]</sup>  
 1. 【[奸计](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiaen_ji.md#奸计)】`jiaen1 ji5` <sup>[东台]</sup> 奸诈的计谋。  
 1. 【[奸狡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiaen_jio.md#奸狡)】`jiaen1 jio` <sup>[泰州]</sup> 处理事情过程中的分寸及注意事项：这小伙没得一点儿～，大人谈的这些事情，哪块轮到你说？｜你说他这个人哿有点儿～，客人还不曾懂筷子唻，他抢先同自己弄吖一大块。  
@@ -523,8 +522,7 @@
 1. 【[将养](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_ian.md#将养)】`jian1 ian3` <sup>[如皋]</sup> 调理休养。  
 1. 【[将将](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_jian.md#将将)】`jian1 jian1` <small>/t͡ɕiã1 t͡ɕiã1/<sup>如皋</sup>, /t͡ɕiɑŋ1 t͡ɕiɑŋ1/<sup>泰兴</sup>, /t͡ɕiɑŋ1 t͡ɕiɑŋ/<sup>泰县</sup></small> ① 刚刚，适才 ② 正好 ③ 正好<sup>\[如东\]</sup><sup>\[泰县\]</sup>\[如皋：又音 jian1 jian2\]：～合适<sup>\[如东\]</sup>｜他～在这许，你俫好好谈谈。<sup>\[泰县\]</sup>｜我到家的刻儿，她～把饭煮啊好啊。<sup>\[如皋\]</sup> ④ 刚才<sup>\[泰兴\]</sup>  
 1. 【[将将好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_jian_ho.md#将将好)】`jian1 jian1 ho3` <sup>[东台]</sup> 正巧，刚好。  
-1. 【[将军](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_jyen.md#将军)】`jian1 jyen1` <sup>[东台]</sup> 这里不是指军衔。是指下象棋时要吃对方的将、帅。比喻给人出难题：质检员叫他当场调试产品，将吖他一军。  
-1. 【[将军](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_jyen.md#将军)】`jian1 jyen1` <small>/t͡ɕiɑŋ1 t͡ɕyəŋ1/<sup>泰兴</sup></small> ① 军衔名称。 ② 象棋术语。比喻给人下马威。<sup>\[泰兴\]</sup>  
+1. 【[将军](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_jyen.md#将军)】`jian1 jyen1` <small>/t͡ɕiɑŋ1 t͡ɕyəŋ1/<sup>泰兴</sup></small> ① 比喻给人出难题<sup>\[东台\]</sup>：质检员叫他当场调试产品，将吖他一军。<sup>\[东台\]</sup> ② 军衔名称。 ③ 象棋术语。比喻给人下马威。<sup>\[泰兴\]</sup>  
 1. 【[将军柱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_jyen_chv.md#将军柱)】`jian1 jyen1 chv6` <sup>[兴化]</sup> ① 堂前两侧的大柱。 ② （喻）颈椎骨：他捱人一拳打啊～上，当下就瘫下来啊。  
 1. 【[将军庙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_jyen_mio.md#将军庙)】`jian1 jyen1 mio6` <sup>[如皋]</sup> 如城北门外有将军庙，祀刘猛将军。因治蝗有功，封为蚂蚱菩萨  
 1. 【[将吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_nga.md#将吖)】`jian1 nga` <sup>[兴化]</sup> 刚刚、刚才：他～走，你就追得来，真是不巧。  

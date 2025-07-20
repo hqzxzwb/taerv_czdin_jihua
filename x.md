@@ -97,8 +97,7 @@
 1. 【[喜笺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xin.md#喜笺)】`xi3 xin5` <sup>[如皋]</sup> 逢喜庆事在门楣、堂屋圣柜前过梁上贴挂的镞（coh8）成图案的条形、矩形红纸笺。（丧事则按年用白、绿、黄纸，第四年恢复红纸。）  
 1. 【[喜烛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_zhoh.md#喜烛)】`xi3 zhoh7` <sup>[如皋]</sup> 喜事、敬神用的红色精制蜡烛。  
 1. 【[喜孜孜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_zz_zz.md#喜孜孜)】`xi3 zz1 zz1` <sup>[兴化]</sup> 形容心里很欢喜：王氏～回来，向曹氏说了一遍。（《岐路灯》三）  
-1. 【[洗锅把<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_gu_ba_r.md#洗锅把<sub>儿</sub>)】`xi3 gu1 ba3 r` <sup>[如皋]</sup> 洗刷锅灶的草把儿。用高粱苗子、篾丝、乌蓲根等捆扎而成。  
-1. 【[洗锅把<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_gu_ba_r.md#洗锅把<sub>儿</sub>)】`xi3 gu1 ba3 r` <small>/ɕʝ3 kɤɯ1 pɑ˞3/<sup>泰兴</sup></small> 洗锅刷碗用的多由芦穄苗子扎成的小用具。<sup>\[泰兴\]</sup>  
+1. 【[洗锅把<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_gu_ba_r.md#洗锅把<sub>儿</sub>)】`xi3 gu1 ba3 r` <small>/ɕʝ3 kʊ1 pa˞3/<sup>如皋</sup>, /ɕʝ3 kɤɯ1 pɑ˞3/<sup>泰兴</sup></small> 洗刷锅灶的草把儿。\[泰兴：多由芦穄苗子扎成\]\[如皋：用高粱苗子、篾丝、乌蓲根等捆扎而成。\]  
 1. 【[洗锅把子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_gu_ba_zz.md#洗锅把子)】`xi3 gu1 ba3 zz` <sup>[兴化]</sup> 用成束高粱苗扎成的洗锅用具。  
 1. 【[洗干净身子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_gun_qien_shen.md#洗干净身子)】`xi3 gun1 qien shen1 zz` <sup>[东台]</sup> ［喻］指为自己开脱责任。  
 1. 【[洗衣盆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_i_pen.md#洗衣盆)】`xi3 i1 pen2` <sup>[如皋]</sup> 传统用阔边无脚杉木圆盆。与洗脚盆要绝对分开。有男人农裳不沾秽气之意。  

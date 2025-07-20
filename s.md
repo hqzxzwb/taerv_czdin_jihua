@@ -3046,8 +3046,7 @@
 1. 【[送年礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_nin_li.md#送年礼)】`son5 nin2 li3` <small>/sɔŋ5 nĩ2 lʝ3/<sup>泰兴</sup></small> 民俗。春节前娘家为新婚女儿女婿送炒花生、鱼肉、馒头糕点等等过年的礼品。<sup>\[泰兴\]</sup>  
 1. 【[送亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_qien.md#送亲)】`son5 qien1` <small>/soŋ5 t͡ɕʰin1/<sup>兴化</sup>, /sɔŋ5 t͡ɕʰiəŋ1/<sup>如皋</sup></small> ① 旧式婚仪之一新娘出门时，有兄弟二人手提灯笼随轿（车）护送，至中途，男方接亲，互行鞠躬礼，不说话，各回。<sup>\[如皋\]</sup> ② 农村婚俗<sup>\[兴化\]</sup>：喜日，近亲属数人（偶数）随轿子船送新娘至婆家拜堂成亲。<sup>\[兴化\]</sup> ③ 民俗，男女成亲当日，旧时女方少年亲属随同花轿送新娘到男方家中，途中遇到男方接亲之人即返回。<sup>\[泰州\]</sup>  
 1. 【[送穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_qion.md#送穷)】`son5 qion2` <sup>[如皋]</sup> 年三十，檐插芝麻稭、柏枝、冬青枝，上挂元宝纸钱，称送穷。即穷神见此，认为此家富有，不敢上门。  
-1. 【[送日子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_rih_zz.md#送日子)】`son5 rih8 zz` <sup>[兴化]</sup> 婚俗：男方用大红柬帖将喜期正式通知女方。  
-1. 【[送日子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_rih_zz.md#送日子)】`son5 rih8 zz` <small>/sɔŋ5 iʔ8 t͡sɿ/<sup>泰兴</sup></small> 旧俗结婚之前，男方把挑选的吉日送给女方，谓之“送日子”。也称“行日帖”。<sup>\[泰兴\]</sup>  
+1. 【[送日子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_rih_zz.md#送日子)】`son5 rih8 zz` <small>/soŋ5 liɪʔ8 t͡sɿ/<sup>兴化</sup>, /sɔŋ5 iʔ8 t͡sɿ/<sup>泰兴</sup></small> ① 婚俗，男方用大红柬帖将喜期正式通知女方。<sup>\[兴化\]</sup> ② 旧俗结婚之前，男方把挑选的吉日送给女方，谓之“送日子”。也称“行日帖”。<sup>\[泰兴\]</sup>  
 1. 【[送塞包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_sae_bo.md#送塞包)】`son5 sae1 bo1` <sup>[东台]</sup> ［喻］把不吉利的或者不喜欢的东西送出去，（见“塞包”）  
 1. 【[送三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_saen.md#送三)】`son5 saen1` <sup>[如皋]</sup> 新丧三日内，每天去土地庙送饭、化锞的习俗。据说是灵魂暂押庙中，三日后才去地府之故。  
 1. 【[送丧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_san.md#送丧)】`son5 san1` <sup>[如皋]</sup> 给新死者上祭品。  
@@ -3058,8 +3057,7 @@
 1. 【[送汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_tan.md#送汤)】`son5 tan1` 妇女生养坐月子期间，亲戚送去老母鸡之类的可烧汤进补的食物。<sup>\[泰州\]</sup>  
 1. 【[送铜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_ton.md#送铜)】`son5 ton2` <sup>[兴化]</sup> 乱花钱：覅拿公家的钱～。｜你拿我的钱～心不疼。  
 1. 【[送夏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_xia.md#送夏)】`son5 xia6` <small>/sɔŋ5 ɕiɑ1/<sup>泰兴</sup></small> 指端午前夕，娘家为新婚女儿女婿送夏令用品，如夏衣、阳伞、凉帽、扇子、凉席及粉子等等。俗名“送端午礼”。<sup>\[泰兴\]</sup>  
-1. 【[送信](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_xien.md#送信)】`son5 xien5` <sup>[如东]</sup> 递送书信。透露消息。送死信。父母死后，长子披麻戴孝给亲戚报告消息。一把雨伞，伞柄朝前，伞头朝后。父亲死了，雨伞夹在左手腋下；母亲死了，雨伞夹在右手腋下。看见亲戚，左膝下跪行礼，然后站起来报告死亡情况，并邀请奔丧。  
-1. 【[送信](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_xien.md#送信)】`son5 xien5` <small>/sɔŋ5 ɕiŋ5/<sup>泰兴</sup></small> 传达信息。乡人特指送死信，而正常送信件者称为“跑信”，如称邮递员为“跑信的”。<sup>\[泰兴\]</sup>  
+1. 【[送信](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_xien.md#送信)】`son5 xien5` <small>/sɔŋ5 ɕiŋ5/<sup>泰兴</sup></small> ① 递送书信。透露消息。送死信。父母死后，长子披麻戴孝给亲戚报告消息。一把雨伞，伞柄朝前，伞头朝后。父亲死了，雨伞夹在左手腋下；母亲死了，雨伞夹在右手腋下。看见亲戚，左膝下跪行礼，然后站起来报告死亡情况，并邀请奔丧。<sup>\[如东\]</sup> ② 传达信息。乡人特指送死信，而正常送信件者称为“跑信”，如称邮递员为“跑信的”。<sup>\[泰兴\]</sup>  
 1. 【[送信的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_xien_dii.md#送信的)】`son5 xien5 dii` <sup>[如皋]</sup> 邮递员的旧称。  
 1. 【[送葬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_zan.md#送葬)】`son5 zan5` <sup>[如东]</sup> 送死者到坟地去，叫做送葬。  
 1. 【[送终](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_zhon.md#送终)】`son5 zhon1` <small>/sɔŋ5 t͡sɔŋ1/<sup>泰兴</sup></small> 为死者办理丧事。亦指老人临终时亲属在旁照料。<sup>\[泰兴\]</sup>  
