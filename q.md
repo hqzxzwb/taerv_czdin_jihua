@@ -132,7 +132,7 @@
 1. 【[起屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_oh.md#起屋)】`qi3 oh7` <small>/t͡ɕʰi3 ɔʔ7/<sup>兴化</sup>, /t͡ɕʰʝ3 ɔʔ7/<sup>如皋</sup></small> 建房。<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[如东\]</sup>：谚曰：拆屋一顿饭，～动陈粮。<sup>\[兴化\]</sup>｜～三担米，拆屋一顿饭。<sup>\[泰州\]</sup>  
 1. 【[起屋三担米，拆屋一阵风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_oh_saen_daen.md#起屋三担米，拆屋一阵风)】`qi3 oh7 saen1 daen5 mi3 cheh7 oh7 ieh7 chen6 fon1` <small>/t͡ɕʰʝ3 ɔʔ7 ɕiɛ̃1 tɛ̃5 mʝ3 t͡sʰəʔ7 ɔʔ7 iʔ7 t͡sʰəŋ1 fɔŋ1/<sup>泰兴</sup></small> 喻建造房子要花很大的功夫，耗费很多资财，而拆除房子则速度很快。<sup>\[泰兴\]</sup>  
 1. 【[起屋三担米，拆屋一顿饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_oh_saen_daen.md#起屋三担米，拆屋一顿饭)】`qi3 oh7 saen1 daen5 mi3 cheh7 oh7 ieh7 den5 faen6` <sup>[东台]</sup> 创业艰难败家易，或建设艰难毁坏易。  
-1. 【[起屋同箍桶匠商议](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_oh_ton_gv.md#起屋同箍桶匠商议)】`qi3 oh7 ton2 gv1 ton qian1 shan1 i` <small>/t͡ɕʰʝ3 ɔʔ7 tʰɔŋ2 ku1 tʰɔŋ t͡ɕʰiɑŋ1 sɑŋ1 ʝ/<sup>泰兴</sup></small> 比喻跟外行的人讨论事情怎么处理。<sup>\[泰兴\]</sup>  
+1. 【[起屋同箍桶匠商议](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_oh_ton_gv.md#起屋同箍桶匠商议)】`qi3 oh7 ton2 gv1 ton qian shan1 i` <small>/t͡ɕʰʝ3 ɔʔ7 tʰɔŋ2 ku1 tʰɔŋ t͡ɕʰiɑŋ sɑŋ1 ʝ/<sup>泰兴</sup></small> 比喻跟外行的人讨论事情怎么处理。<sup>\[泰兴\]</sup>  
 1. 【[起跑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_po.md#起跑)】`qi3 po2` <sup>[如东]</sup> 开始跑：今朝8点～。  
 1. 【[起铺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_pv.md#起铺)】`qi3 pv5` <sup>[如皋]</sup> ① 起床。 ② 拆搬铺盖。  
 1. 【[起步](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_pv.md#起步)】`qi3 pv6` <sup>[如东]</sup> 开始走：刚～。  

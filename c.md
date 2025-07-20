@@ -1730,35 +1730,42 @@
 1. 【[穿当漏空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_dan_leu_kon.md#穿当漏空)】`chun1 dan1 leu6 kon5` <small>/t͡sʰũ1 taŋ1 lɤ6 kʰoŋ5/<sup>兴化</sup></small> ① 就是见缝插针，把一点空隙时间都用起来。<sup>\[东台\]</sup> ② 在忙碌中抽出一点空闲时间：这些日子太忙，我只能～的上医院去看看老朋友。<sup>\[兴化\]</sup>  
 1. 【[穿钉鞋，㪬拐棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_dien_hae_chuah.md#穿钉鞋，㪬拐棒)】`chun1 dien1 hae2 chuah8 guae3 pan6` <small>/t͡sʰʊ̃1 tiəŋ1 xɛ2 t͡sʰuaʔ8 kuɛ3 pʰã1/<sup>如皋</sup></small> ① 稳上加稳。<sup>\[如皋\]</sup> ② ［喻］形容人做事过分谨慎小心，不敢越雷池一步。<sup>\[东台\]</sup>  
 1. 【[穿钉鞋㪬拐棒——稳吖又稳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_dien_hae_chuah.md#穿钉鞋㪬拐棒——稳吖又稳)】`chun1 dien1 hae2 chuah8 guae3 pan6 ven3 nga ieu6 ven3` <sup>[东台]</sup>   
+1. 【[穿耳朵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_er_do.md#穿耳朵)】`chun1 er3 do` <small>/t͡sʰʊ̃1 ɚ3 tɔ/<sup>泰兴</sup></small> 为戴耳环在耳朵上穿孔。<sup>\[泰兴\]</sup>  
 1. 【[穿后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_heu.md#穿后)】`chun1 heu6` <sup>[东台]</sup> 就是推迟向后的意思。  
 1. 【[穿花榫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_hua_suen.md#穿花榫)】`chun1 hua1 suen3` <sup>[如皋]</sup> 三维交角处的榫头和榫眼。  
 1. 【[穿画缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_hua_fon.md#穿画缝)】`chun1 hua6 fon6` <sup>[如皋]</sup> 交叉而过，并未见到：你俫走啊个～。  
 1. 【[穿衣裳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_i_shan.md#穿衣裳)】`chun1 i1 shan` <sup>[如东]</sup> ① 把衣裳穿在身上。 ② 民间的一种风俗，给死人穿衣裳，一般要讲五条领、七条领、九条领，即五件、七件、九件等。  
 1. 【[穿一条裤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_ieh_tio_kv.md#穿一条裤子)】`chun1 ieh7 tio2 kv5 zz` <sup>[东台]</sup> ［喻］互相勾结，互相包庇。  
+1. 【[穿引线](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_ien_xin.md#穿引线)】`chun1 ien3 xin` <small>/t͡sʰʊ̃1 iŋ3 ɕĩ/<sup>泰兴</sup></small> 穿针。<sup>\[泰兴\]</sup>  
 1. 【[穿脚钢丝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_jiah_gan_sz.md#穿脚钢丝)】`chun1 jiah7 gan1 sz1` <sup>[如东]</sup> 用钢丝穿住脚，人就不能行走。比喻固定在一个单位的人：王二现在是～。  
 1. 【[穿驹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_jy.md#穿驹)】`chun1 jy1` <sup>[如东]</sup> 年轻的母牛。  
 1. 【[穿开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_kae.md#穿开)】`chun1 kae1` <sup>[兴化]</sup> 岔开、分散开：儿子娶亲，女儿出嫁，两件事～办，弄吖在一起忙不开。  
 1. 【[穿开裆裤的兄弟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_kae_dan_kv.md#穿开裆裤的兄弟)】`chun1 kae1 dan1 kv5 dii xion1 ti` <sup>[如皋]</sup> 从小一块长大的兄弟。  
 1. 【[穿口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_keu.md#穿口)】`chun1 keu3` <sup>[如东]</sup> 帆船上从船头到船尾的两根封口的长木条，位于舱口两边。  
 1. 【[穿孔的车胎——泄咖气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_kon_dii_cha.md#穿孔的车胎——泄咖气)】`chun1 kon3 dii cha1 tae1 xih7 ga qi5` <sup>[东台]</sup>   
-1. 【[穿连裆裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_lin_dan_kv.md#穿连裆裤)】`chun1 lin2 dan1 kv5` <small>/t͡sʰũ1 liɪ̃2 taŋ1 kʰu5/<sup>兴化</sup></small> ① （喻）互相勾结干坏事<sup>\[兴化\]</sup>：他俫穿的～，查到这个，就跑不了那个。<sup>\[兴化\]</sup> ② 比喻双方因为利益相关而勾结在一起<sup>\[泰州\]</sup>：他俫两个是～的。<sup>\[泰州\]</sup>  
+1. 【[穿连裆裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_lin_dan_kv.md#穿连裆裤)】`chun1 lin2 dan1 kv5` <small>/t͡sʰũ1 liɪ̃2 taŋ1 kʰu5/<sup>兴化</sup>, /t͡sʰʊ̃1 lĩ2 tɑŋ1 kʰu5/<sup>泰兴</sup></small> ① （喻）互相勾结干坏事<sup>\[兴化\]</sup>：他俫穿的～，查到这个，就跑不了那个。<sup>\[兴化\]</sup> ② 比喻双方因为利益相关而勾结在一起<sup>\[泰州\]</sup>：他俫两个是～的。<sup>\[泰州\]</sup> ③ 喻相互串通、勾结。<sup>\[泰兴\]</sup>  
 1. 【[穿连裆裤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_lin_dan_kv.md#穿连裆裤子)】`chun1 lin2 dan1 kv5 zz` <sup>[如皋]</sup> 喻串通一气。  
+1. 【[穿鼻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_pieh.md#穿鼻)】`chun1 pieh8` <small>/t͡sʰʊ̃1 pʰiʔ8/<sup>泰兴</sup></small> 给牲畜用绳索或铁环穿鼻中隔。<sup>\[泰兴\]</sup>  
 1. 【[穿鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_pieh_zz.md#穿鼻子)】`chun1 pieh8 zz` <sup>[如皋]</sup> 给青年牛刺穿鼻中膈，装上“鼻桊儿”，开始教习劳作。  
 1. 【[穿斜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_qia.md#穿斜)】`chun1 qia2` <sup>[如东]</sup> 前后或左右错开：这些东西你要～啊摆。  
 1. 【[穿斜缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_qia_fon.md#穿斜缝)】`chun1 qia2 fon6` <sup>[如东]</sup> 从旁边穿插过去：我俫走啊个～。  
 1. 【[穿前](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_qin.md#穿前)】`chun1 qin2` <small>/t͡sʰũ1 t͡ɕʰiɪ̃2/<sup>兴化</sup></small> ① 就是提前的意思<sup>\[东台\]</sup>：你一定要～过去，早做安排。<sup>\[东台\]</sup> ② 抢在前头。<sup>\[兴化\]</sup>  
 1. 【[穿翘门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_qio_men.md#穿翘门)】`chun1 qio1 men2` <sup>[如皋]</sup> 用原木排列从中做穿横木做成的门，很坚固。旧时民房常用。  
 1. 【[穿腮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_sae.md#穿腮)】`chun1 sae1` <sup>[如东]</sup> 吃进粗而硬的食物，有刺腮的感觉：玉米䜺儿粗，吃起来～。  
+1. 【[穿是威风，吃是受用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_shr_vei_fon.md#穿是威风，吃是受用)】`chun1 shr6 vei1 fon1 qieh7 shr6 sheu6 ion6` <small>/t͡sʰʊ̃1 sɿ1 ʋəɪ1 fɔŋ1 t͡ɕʰiəʔ7 sɿ1 ɕiɤɯ1 iɔŋ1/<sup>泰兴</sup></small> 穿着美观给人以一种好感，享受美食是自己受用，对健康有利。<sup>\[泰兴\]</sup>  
 1. 【[穿梭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_su.md#穿梭)】`chun1 su1` <sup>[如东]</sup> 织布的梭子来回活动很快，比喻来往人员很快很多：操场上的人像～样的。  
 1. 【[穿蓑衣打火——惹火上身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_su_i_da.md#穿蓑衣打火——惹火上身)】`chun1 su1 i1 da3 hu3 ra3 hu3 shan6 shen1` <sup>[东台]</sup>   
-1. 【[穿堂风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_tan_fon.md#穿堂风)】`chun1 tan2 fon1` <small>/t͡sʰʊ̃1 tʰɑŋ2 fɔŋ1/<sup>泰兴</sup></small> ① 在两屋之间、大门与后窗之间穿过的风，称穿堂风。<sup>\[如东\]</sup> ② 穿堂而过的自然通风。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
+1. 【[穿堂风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_tan_fon.md#穿堂风)】`chun1 tan2 fon1` <small>/t͡sʰʊ̃1 tʰɑŋ2 fɔŋ1/<sup>泰兴</sup></small> 穿堂而过的自然通风。<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[穿堂屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_tan_oh.md#穿堂屋)】`chun1 tan2 oh7` <sup>[如皋]</sup> 作过道的房屋。  
 1. 【[穿头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_teu.md#穿头)】`chun1 teu2` <sup>[兴化]</sup> ① 见“超头”。 ② 抢在前头：工会组织老教师去扬州旅游，由主席～去安排食宿。也作“穿前”。  
 1. 【[穿西装戴瓜皮帽——土洋并举](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_xi_zhuan_dae.md#穿西装戴瓜皮帽——土洋并举)】`chun1 xi1 zhuan1 dae5 gua1 pi2 mo6 tv3 ian2 pien6 jy3` <sup>[东台]</sup>   
 1. 【[穿心过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_xien_gu.md#穿心过)】`chun1 xien1 gu5` <sup>[兴化]</sup> 从心脏或中心部位通过：他对啊靶子，一箭射个～。  
+1. 【[穿心过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_xien_gu.md#穿心过)】`chun1 xien1 gu5` <small>/t͡sʰʊ̃1 ɕiŋ1 kɤɯ5/<sup>泰兴</sup></small> 从正中穿过去。<sup>\[泰兴\]</sup>  
 1. 【[穿星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_xien.md#穿星)】`chun1 xien1` <small>/t͡sʰũ1 ɕin1/<sup>兴化</sup>, /t͡sʰõ1 ɕiŋ1/<sup>泰县</sup></small> 流星<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：夏天晚上乘凉，常看到天上～。<sup>\[兴化\]</sup>  
 1. 【[穿销门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_xio_men.md#穿销门)】`chun1 xio1 men2` <sup>[兴化]</sup> 由小木方排列，从中凿眼，横穿木片而成的门。因其牢固，旧式民居常用来做大门。  
+1. 【[穿销门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_xio_men.md#穿销门)】`chun1 xio1 men2` <small>/t͡sʰʊ̃1 ɕiɔ1 məŋ2/<sup>泰兴</sup></small> 从木心穿过的牢固的大门，与“板儿门”相区别。<sup>\[泰兴\]</sup>  
 1. 【[穿小鞋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_xio_hae.md#穿小鞋)】`chun1 xio3 hae2` ① ［喻］对人实施报复，限制、约束、刁难，让其难以工作。<sup>\[东台\]</sup> ② 比喻刁难他人<sup>\[泰州\]</sup>：你得罪啊处长，当心他同你～。<sup>\[泰州\]</sup>  
+1. 【[穿孝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_xio.md#穿孝)】`chun1 xio5` <small>/t͡sʰʊ̃1 ɕiɔ5/<sup>泰兴</sup></small> 为悼念死者而穿着孝服。<sup>\[泰兴\]</sup>  
 1. 【[穿综](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_zon.md#穿综)】`chun1 zon5` <sup>[如皋]</sup> 将经纱一根根穿过综档的工序。  
 1. 【[𠯀泡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_po_r.md#𠯀泡<sub>儿</sub>)】`chun1 po1 r` <sup>[如皋]</sup> ① 状婴儿学话中突然冒出的字音。 ② 贬指不负责任地暗中议论、传闻。  
 1. 【[传](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun.md#传)】`chun2` <small>/t͡sʰũ2/<sup>兴化</sup></small> ① 将液体注入另一容器中：壶里水开啊，拿个热水瓶来下子。<sup>\[兴化\]</sup> ② 将锅、铫中烧开的水注入热水瓶中<sup>\[泰州\]</sup>：水透啊唻，你把它～吖茶瓶里头去。<sup>\[泰州\]</sup>｜他脚上是～水时不小心烫吖来的。<sup>\[泰州\]</sup>  

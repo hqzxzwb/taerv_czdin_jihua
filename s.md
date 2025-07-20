@@ -2682,22 +2682,31 @@
 1. 【[顺丝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_sz.md#顺丝)】`shuen6 sz1` <sup>[如皋]</sup> 顺着纤维的走向：切牛肉要切丁头丝，不要～切；刨柏木要～，弄不好要皵丝。  
 1. 【[顺趟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_tan.md#顺趟)】`shuen6 tan5` <small>/suəŋ1 tʰã5/<sup>如皋</sup></small> ① 顺利：事情办得～。<sup>\[如皋\]</sup> ② 合理、悦目、顺心：家具布置得～。<sup>\[如皋\]</sup> ③ 顺利。<sup>\[如东\]</sup>：这次交易十分～。<sup>\[如东\]</sup>  
 1. 【[说不到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_beh_do.md#说不到)】`shuh7 beh do5` <sup>[泰县]</sup> 不用谢、不要紧：“这件事你帮吖大忙。”“～，我应该做的。”  
+1. 【[说不到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_beh_do.md#说不到)】`shuh7 beh do5` <small>/sʊʔ7 pəʔ tɔ5/<sup>泰兴</sup></small> 谈不上。多用作回答对方的客套话。<sup>\[泰兴\]</sup>  
 1. 【[说不上嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_beh_shan_jy.md#说不上嘴)】`shuh7 beh shan6 jy3` <sup>[泰州]</sup> ① 因自感丢人而说不出口：你家丫头这些～的事，你同人家说咖做甚的，也不嫌丢架子！ ② 因自感意义太小而值不得说：还有些～的小事就不在会上说咖，以后单独同你说吧！  
 1. 【[说不出个𪎉子和米来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_beh_chueh_gu.md#说不出个𪎉子和米来)】`shuh7 beh7 chueh7 gu haen6 zz hu2 mi3 lae` <sup>[东台]</sup> 说不出道道，分不清彼此。  
+1. 【[说不出口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_beh_chueh_keu.md#说不出口)】`shuh7 beh7 chueh7 keu3` <small>/sʊʔ7 pəʔ7 t͡sʰuəʔ7 kʰəɪ3/<sup>泰兴</sup></small> 不好意思说。<sup>\[泰兴\]</sup>  
 1. 【[说不来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_beh_lae.md#说不来)】`shuh7 beh7 lae2` <small>/sʊʔ7 pəʔ7 lɛ2/<sup>如皋</sup></small> ① 话不投机 ② 有直感而不能说清<sup>\[如皋\]</sup>：他的表现让人～；这种气味怪得很，～。<sup>\[如皋\]</sup> ③ 有感觉而说不清楚。<sup>\[如东\]</sup> ④ 话不投机。<sup>\[东台\]</sup> ⑤ 说不准<sup>\[东台\]</sup>：我～苏州话。<sup>\[东台\]</sup>  
+1. 【[说不上嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_beh_shan_zuei.md#说不上嘴)】`shuh7 beh7 shan6 zuei3` <small>/sʊʔ7 pəʔ7 sɑŋ1 t͡suəɪ3/<sup>泰兴</sup></small> 犹言说不出口，不值得说。<sup>\[泰兴\]</sup>  
 1. 【[说壁脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_bieh_jiah.md#说壁脚)】`shuh7 bieh7 jiah7` <sup>[如东]</sup> 在背后说别人的坏话。  
 1. 【[说㪬话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_chuah_hua.md#说㪬话)】`shuh7 chuah8 hua6` <sup>[东台]</sup> 说话太直，不拐弯，不留后手，让人难以接受。  
 1. 【[说打就挦毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_da_qieu_qin.md#说打就挦毛)】`shuh7 da3 qieu6 qin2 mo2` <sup>[东台]</sup> 形容不由分说，说了就动手，不加思考，多含贬义。  
+1. 【[说打就动手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_da_qieu_ton.md#说打就动手)】`shuh7 da3 qieu6 ton6 sheu3` <small>/sʊʔ7 tɑ3 t͡ɕʰiɤɯ1 tʰɔŋ1 ɕiɤɯ3/<sup>泰兴</sup></small> 喻一旦决定，就立即行动，雷厉风行。也说“说打就前跑”。<sup>\[泰兴\]</sup>  
+1. 【[说大话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_da_hua.md#说大话)】`shuh7 da6 hua6` <small>/sʊʔ7 tɑ1 xuɑ1/<sup>泰兴</sup></small> 夸口；吹牛。<sup>\[泰兴\]</sup>  
 1. 【[说大话，用小钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_da_hua_ion.md#说大话，用小钱)】`shuh7 da6 hua6 ion6 xio3 qin2` <sup>[东台]</sup> （俗语）形容人口头慷慨，实际上非常吝啬。  
+1. 【[说大话用小钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_da_hua_ion.md#说大话用小钱)】`shuh7 da6 hua6 ion6 xio3 qin2` <small>/sʊʔ7 tɑ1 xuɑ1 iɔŋ1 ɕiɔ3 t͡ɕʰĩ2/<sup>泰兴</sup></small> 谓口头慷慨，而行为吝啬。亦比喻口说大话，行事胆小。<sup>\[泰兴\]</sup>  
 1. 【[说大话用小钱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_da_hua_ion.md#说大话用小钱<sub>儿</sub>)】`shuh7 da6 hua6 ion6 xio3 qin2 r` <sup>[如皋]</sup> 一种既说话摆富，待人又很吝啬的人格。  
+1. 【[说得过去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_deh_gu_qy.md#说得过去)】`shuh7 deh gu5 qy5` <small>/sʊʔ7 təʔ kɤɯ5 t͡ɕʰy5/<sup>泰兴</sup></small> 大体上合乎情理；还能令人稍感满意。<sup>\[泰兴\]</sup>  
 1. 【[说得的咖博的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_deh_dieh_ga.md#说得的咖博的)】`shuh7 deh7 dieh7 ga bah7 dii` <sup>[东台]</sup> 形容言之凿凿，十分肯定。  
 1. 【[说得来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_deh_lae.md#说得来)】`shuh7 deh7 lae2` 说话投机  
 1. 【[说的如长的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_dii_rv_zhan.md#说的如长的)】`shuh7 dii rv2 zhan3 dii` <sup>[东台]</sup> 说话算数，言而有信。  
 1. 【[说到家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_do_ga.md#说到家)】`shuh7 do5 ga1` <sup>[东台]</sup> 毫无保留，解释清楚了。  
 1. 【[说到天亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_do_tin_lian.md#说到天亮)】`shuh7 do5 tin1 lian6` ① 说到最后<sup>\[东台\]</sup>：～，这件事还是非解决不可。<sup>\[东台\]</sup> ② 从现在起一直说到天亮，意谓哪怕说的时间再长<sup>\[泰州\]</sup>：这事你不要再说吤，不同意就是不同意，你就是说到天亮也没得用。<sup>\[泰州\]</sup>  
-1. 【[说二话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_er_hua.md#说二话)】`shuh7 er6 hua6` ① 说话不算数，反悔。<sup>\[如东\]</sup>：不能～。<sup>\[如东\]</sup> ② 不承认原先的约定或承诺，言而无信。<sup>\[东台\]</sup>  
+1. 【[说二话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_er_hua.md#说二话)】`shuh7 er6 hua6` <small>/sʊʔ7 ɚ1 xuɑ1/<sup>泰兴</sup></small> ① 说话不算数，反悔。<sup>\[如东\]</sup>：不能～。<sup>\[如东\]</sup> ② 不承认原先的约定或承诺，言而无信。<sup>\[东台\]</sup> ③ 改口，说话不守信用。<sup>\[泰兴\]</sup>  
+1. 【[说法](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_faeh.md#说法)】`shuh7 faeh` <small>/sʊʔ7 fæʔ/<sup>泰兴</sup></small> 意见；见解。<sup>\[泰兴\]</sup>：他不曾把个～<sup>\[泰兴\]</sup>  
 1. 【[说法](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_faeh.md#说法)】`shuh7 faeh7` <sup>[如东]</sup> 意见，看法。僧人讲解佛经，称说法。  
 1. 【[说方说圆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_fan_shuh_iun.md#说方说圆)】`shuh7 fan1 shuh7 iun2` <sup>[东台]</sup> 说好说歹，百般劝解请求。  
+1. 【[说方说圆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_fan_shuh_iun.md#说方说圆)】`shuh7 fan1 shuh7 iun2` <small>/sʊʔ7 fɑŋ1 sʊʔ7 yʊ̃2/<sup>泰兴</sup></small> 谓百般劝说或请求。<sup>\[泰兴\]</sup>  
 1. 【[说疯话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_fon_hua.md#说疯话)】`shuh7 fon1 hua6` <sup>[东台]</sup> 说一些违背常理，夸大其词的话语，有颠颠倒倒之嫌。  
 1. 【[说富贵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_fv_guei.md#说富贵)】`shuh7 fv5 guei5` <sup>[如东]</sup> 在砌屋上梁或迎娶媳妇时说唱的吉祥歌谣，称说富贵，也称说歌子。对人说好听的话：他就喜欢听～。  
 1. 【[说咖八捧的话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_ga_baeh_pon.md#说咖八捧的话)】`shuh7 ga baeh7 pon3 dii hua6` <sup>[东台]</sup> 形容说了很多很多，可惜没有达到目的。  
@@ -2719,12 +2728,13 @@
 1. 【[说馉饳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_guaeh_do_r.md#说馉饳<sub>儿</sub>)】`shuh7 guaeh7 do1 r` <sup>[如东]</sup> 说俏皮话。  
 1. 【[说鬼话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_guei_hua.md#说鬼话)】`shuh7 guei3 hua6` ① 偷偷地说不好听的话。<sup>\[如东\]</sup> ② 编造不可信的谎言。<sup>\[泰州\]</sup> ③ 背后说别人的坏话<sup>\[泰州\]</sup>：你不要把她当好人，这马马儿在领导跟前不晓得说咖你多少鬼话。<sup>\[泰州\]</sup>  
 1. 【[说詥子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_guh_zz.md#说詥子)】`shuh7 guh zz` <sup>[如皋]</sup> ① 俗用“说鸽子”。 ② 说顺遂、祝颂的韵语。 ③ 贬指说不顺遂的话。  
-1. 【[说鸽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_guh_zz.md#说鸽子)】`shuh7 guh7 zz` <small>/suʔ7 kuʔ7 t͡sɿ/<sup>兴化</sup></small> ① 上梁时请人讲吉利话，谓“请人说鸽子” ② 玩笑式地说某人好话，旁人谓之“同某人说鸽子” ③ ［同音］在办喜事场合说成套的贺喜顺口溜。（也作“说穀子”，因穀有吉利、善、好之义）<sup>\[东台\]</sup> ④ 民间建房上梁或新人拜堂时，说的四言八句的吉利话。<sup>\[兴化\]</sup> ⑤ 民间举行建房上梁、新船下水、新人拜堂、灵柩下葬等仪式时所说的吉利话，多为随时即兴的顺口溜。说鸽子者多为兼职之人，建房上梁、新船下水多为木匠，新人拜堂多为主持婚礼司仪，灵柩下葬多为土工。<sup>\[泰州\]</sup>  
+1. 【[说鸽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_guh_zz.md#说鸽子)】`shuh7 guh7 zz` <small>/suʔ7 kuʔ7 t͡sɿ/<sup>兴化</sup>, /sʊʔ7 kʊʔ7 t͡sɿ/<sup>泰兴</sup></small> ① 上梁时请人讲吉利话，谓“请人说鸽子” ② 玩笑式地说某人好话，旁人谓之“同某人说鸽子” ③ ［同音］在办喜事场合说成套的贺喜顺口溜。（也作“说穀子”，因穀有吉利、善、好之义）<sup>\[东台\]</sup> ④ 民间建房上梁或新人拜堂时，说的四言八句的吉利话。<sup>\[兴化\]</sup> ⑤ 民间举行建房上梁、新船下水、新人拜堂、灵柩下葬等仪式时所说的吉利话，多为随时即兴的顺口溜。说鸽子者多为兼职之人，建房上梁、新船下水多为木匠，新人拜堂多为主持婚礼司仪，灵柩下葬多为土工。<sup>\[泰州\]</sup> ⑥ 乡间砌屋上梁、支锅立灶铺圈底、婚丧喜庆等大事由匠人说的吉祥之言。<sup>\[泰兴\]</sup>  
 1. 【[说鼓<sub>儿</sub>书](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_gv_r_shv.md#说鼓<sub>儿</sub>书)】`shuh7 gv3 r shv1` <sup>[如皋]</sup> ① 一种说唱文艺，近似“京韵大鼓”的形式。 ② 耐心劝说：他教育人有耐心，如～。  
 1. 【[说鼓<sub>儿</sub>书的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_gv_r_shv.md#说鼓<sub>儿</sub>书的)】`shuh7 gv3 r shv1 dii` <sup>[东台]</sup> ［喻］指胡乱地编造一些故事情节骗人。  
 1. 【[说瞎话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_haeh_hua.md#说瞎话)】`shuh7 haeh7 hua6` ① 违背良心，发表与客观事实不相符的言论。<sup>\[东台\]</sup> ② 说颠倒是非、混淆黑白的话。<sup>\[泰州\]</sup>  
 1. 【[说好啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_ho_a.md#说好啊)】`shuh7 ho3 a` <sup>[如东]</sup> 商议妥当了。  
 1. 【[说和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_hu.md#说和)】`shuh7 hu2` <sup>[如东]</sup> 劝说和解：他俫有矛盾，还是你去～吧。  
+1. 【[说和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_hu.md#说和)】`shuh7 hu2` <small>/sʊʔ7 xɤɯ2/<sup>泰兴</sup></small> 调解双方的争执；劝说使和解。<sup>\[泰兴\]</sup>  
 1. 【[说话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_hua.md#说话)】`shuh7 hua6` <sup>[如皋]</sup> 谈判：兄弟分家，请舅老爹家来～。  
 1. 【[说话不打嘴里过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_hua_beh_da.md#说话不打嘴里过)】`shuh7 hua6 beh7 da3 jy3 lii gu5` <sup>[东台]</sup> 形容说话随意，很少思考。  
 1. 【[说谎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_huan.md#说谎)】`shuh7 huan3` <sup>[如东]</sup> 说假话：不要～。  
@@ -2749,29 +2759,34 @@
 1. 【[说了未了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_lio_vei_lio.md#说了未了)】`shuh7 lio3 vei6 lio3` <sup>[东台]</sup> 说来说去总之一句话的意思：～，做人要诚实，不能耍滑。  
 1. 【[说蛮话<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_maen_hua_r.md#说蛮话<sub>儿</sub>)】`shuh7 maen2 hua6 r` <sup>[如皋]</sup> 见“说冒话儿”。  
 1. 【[说没相管](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_meh_xian_gun.md#说没相管)】`shuh7 meh8 xian5 gun3` <sup>[如皋]</sup> ① 说没根没据的话。 ② 说的话无足轻重。  
+1. 【[说媒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_mei.md#说媒)】`shuh7 mei2` <small>/sʊʔ7 məɪ2/<sup>泰兴</sup></small> 做媒；介绍婚姻。<sup>\[泰兴\]</sup>  
 1. 【[说冒话<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_mo_hua_r.md#说冒话<sub>儿</sub>)】`shuh7 mo6 hua6 r` <small>/sʊʔ7 mɔ1 xua˞1/<sup>如皋</sup></small> ① 状婴儿学话中突然冒出的字音。<sup>\[如皋\]</sup> ② 小孩刚学语，偶尔冒出一句、半句话来。<sup>\[如皋\]</sup>  
 1. 【[说满](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_mun.md#说满)】`shuh7 mun3` <sup>[兴化]</sup> 指说话不留余地：话不能～，要等等再说。｜“……只怪俺昨日话语～，遭此磨难。”（《八窍珠》七七）  
 1. 【[说……鸟<sub>儿</sub>话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_nio_r_hua.md#说……鸟<sub>儿</sub>话)】`shuh7 nio3 r hua6` <sup>[东台]</sup> 背后说某某的坏话。  
 1. 【[说㗘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_pah.md#说㗘)】`shuh7 pah7` <small>/sʊʔ7 pʰaʔ7/<sup>如皋</sup></small> ① 见“谈㗘”。<sup>\[如皋\]</sup> ② 说荒诞、古怪的故事。如皋词典写“𧭤”。<sup>\[如皋\]</sup>  
 1. 【[说嗙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_pan.md#说嗙)】`shuh7 pan5` <sup>[如东]</sup> 说故事，吹牛皮。  
 1. 【[说屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_pi_gu.md#说屁股)】`shuh7 pi5 gu` <sup>[如东]</sup> 背后说人坏话：不要～。  
-1. 【[说病话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_pien_hua.md#说病话)】`shuh7 pien6 hua6` <small>/sʊʔ7 pʰiəŋ1 xua1/<sup>如皋</sup></small> ① 指编排别人、打笑别人的诙谐话。<sup>\[如皋\]</sup> ② 说一些阴阳怪气的话，打击别人，以此发泄嫉妒的心情。<sup>\[东台\]</sup>  
+1. 【[说病话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_pien_hua.md#说病话)】`shuh7 pien6 hua6` <small>/sʊʔ7 pʰiəŋ1 xua1/<sup>如皋</sup>, /sʊʔ7 pʰiŋ1 xuɑ1/<sup>泰兴</sup></small> ① 指编排别人、打笑别人的诙谐话。<sup>\[如皋\]</sup> ② 说一些阴阳怪气的话，打击别人，以此发泄嫉妒的心情。<sup>\[东台\]</sup> ③ 说胡话；说没有意义的话。<sup>\[泰兴\]</sup>  
 1. 【[说骗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_pin.md#说骗)】`shuh7 pin5` <sup>[兴化]</sup> 用谎言欺骗人：他靠～卖假药。｜（高赞）大骂尤辰无理，做这等欺三瞒四的媒人，～人家女儿。（《醒世恒言》七）》  
 1. 【[说飘飘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_pio_pio_r.md#说飘飘<sub>儿</sub>)】`shuh7 pio1 pio1 r` <sup>[泰县]</sup> 说话不负责任，随便：他经常说～。  
 1. 【[说奅话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_po_hua.md#说奅话)】`shuh7 po5 hua6` <sup>[东台]</sup> 说大话骗人。也叫“喇奅”。（奅，音炮，大话骗人也。）  
+1. 【[说奅话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_po_hua.md#说奅话)】`shuh7 po5 hua6` <small>/sʊʔ7 pʰɔ5 xuɑ1/<sup>泰兴</sup></small> 说大话<sup>\[泰兴\]</sup>：吃咖羊卵子～<sup>\[泰兴\]</sup>  
 1. 【[说白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_poh.md#说白)】`shuh7 poh8` <sup>[兴化]</sup> 讲故事：晚上乘凉，我～把你听。  
 1. 【[说白咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_poh_ga.md#说白咖)】`shuh7 poh8 ga` <sup>[泰州]</sup> 说白了，说得明白一点：这句话～，就是教你出钱。  
 1. 【[说白话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_poh_hua.md#说白话)】`shuh7 poh8 hua6` <sup>[东台]</sup> ① 说话不兑现。 ② 光说，没有实质性表示：空口～。  
 1. 【[说破嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_pu_jy.md#说破嘴)】`shuh7 pu5 jy3` <sup>[东台]</sup> 费尽口舌。  
+1. 【[说情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_qien.md#说情)】`shuh7 qien2` <small>/sʊʔ7 t͡ɕʰiŋ2/<sup>泰兴</sup></small> 向人求情。<sup>\[泰兴\]</sup>  
 1. 【[说人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_ren.md#说人)】`shuh7 ren2` 批评议论他人的不是<sup>\[泰州\]</sup>：你不要光～，你自己也不是甚的好人。<sup>\[泰州\]</sup>  
 1. 【[说人家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_ren_ga.md#说人家)】`shuh7 ren2 ga` <sup>[泰州]</sup> 帮助未婚或者在家女子做媒、找婆家：他家丫头不小唻，还不曾有人同她～。  
-1. 【[说三道四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_saen_to_sz.md#说三道四)】`shuh7 saen1 to6 sz5` ① 议论长短。<sup>\[如东\]</sup>：不要～的。<sup>\[如东\]</sup> ② 不是说这样，就是说那样，意谓不负责任地胡乱议论、指责他人<sup>\[泰州\]</sup>：她想复婚她本人做主，临不到你～！<sup>\[泰州\]</sup>  
+1. 【[说人家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_ren_ga.md#说人家)】`shuh7 ren2 ga1` <small>/sʊʔ7 ɻɑŋ2 kɑ1/<sup>泰兴</sup></small> 说亲；找婆家。<sup>\[泰兴\]</sup>  
+1. 【[说三道四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_saen_to_sz.md#说三道四)】`shuh7 saen1 to6 sz5` <small>/sʊʔ7 ɕiɛ̃1 tʰɔ1 sɿ5/<sup>泰兴</sup></small> ① 议论长短。<sup>\[如东\]</sup>：不要～的。<sup>\[如东\]</sup> ② 不是说这样，就是说那样，意谓不负责任地胡乱议论、指责他人<sup>\[泰州\]</sup>：她想复婚她本人做主，临不到你～！<sup>\[泰州\]</sup> ③ 乱加谈论；批评，指摘。<sup>\[泰兴\]</sup>  
 1. 【[说馊话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_seu_hua.md#说馊话)】`shuh7 seu1 hua6` <sup>[如皋]</sup> 说让人听了窝心的话。  
 1. 【[说实话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_sheh_hua.md#说实话)】`shuh7 sheh8 hua6` <sup>[如东]</sup> 叙说真实的情况：你要～。  
 1. 【[说神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_shen.md#说神)】`shuh7 shen2` <sup>[东台]</sup> 说话滔滔不绝的人。  
 1. 【[说势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_shr.md#说势)】`shuh7 shr5` <sup>[泰县]</sup> 说话的态度。  
 1. 【[说书](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_shv.md#说书)】`shuh7 shv1` <sup>[如东]</sup> 念书。一个人念，许多人听，可以整本地念完。  
 1. 【[说死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_sz.md#说死)】`shuh7 sz3` ① 说尽，无论怎样说<sup>\[泰州\]</sup>：你同他这种人就是～啊也没得用。<sup>\[泰州\]</sup> ② 双方明确某项约定<sup>\[泰州\]</sup>：大家都把话～，明朝早上9点布店门口见，不见不散。<sup>\[泰州\]</sup> ③ 所作出的意见不可更改或者没有回旋余地<sup>\[泰州\]</sup>：你不要抢先把话～，你要是这格局说，我就没法去同人家协商唻。<sup>\[泰州\]</sup>  
+1. 【[说死话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_sz_hua.md#说死话)】`shuh7 sz3 hua` <small>/sʊʔ7 sɿ3 xuɑ/<sup>泰兴</sup></small> 骂人说蛮不讲理的话。<sup>\[泰兴\]</sup>  
 1. 【[说钝事话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_ten_shr_hua.md#说钝事话)】`shuh7 ten6 shr6 hua6` <sup>[东台]</sup> 说不吉利的话。  
 1. 【[说头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_teu.md#说头)】`shuh7 teu` <sup>[如皋]</sup> 见“讲头”。  
 1. 【[说定吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_tien_nga.md#说定吖)】`shuh7 tien6 nga` <sup>[如东]</sup> 确定下来了：这个问题我俫～。  
@@ -2779,7 +2794,7 @@
 1. 【[说戏话<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_xi_hua_r.md#说戏话<sub>儿</sub>)】`shuh7 xi5 hua6 r` <sup>[如东]</sup> 说笑话：不是我～，你应该承认不对。  
 1. 【[说闲话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_xiaen_hua.md#说闲话)】`shuh7 xiaen2 hua6` <sup>[泰州]</sup> 议论他人是非：你只要自己做得正，就不怕人家～。  
 1. 【[说相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_xian.md#说相)】`shuh7 xian` ① 说法<sup>\[泰州\]</sup>：你去问吖他，看看他有甚的～。<sup>\[泰州\]</sup> ② 值得计较或者争论之处，多做否定句式<sup>\[泰州\]</sup>：总共加起来不过就这两个钱，你出我出都一样，没得多大～。<sup>\[泰州\]</sup>｜大家都是从小一起玩的朋友，就是哪个吃点儿亏，又有甚的～。<sup>\[泰州\]</sup>  
-1. 【[说相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_xian.md#说相)】`shuh7 xian5` <small>/suʔ7 ɕiaŋ5/<sup>兴化</sup>, /sʊʔ7 ɕiã5/<sup>如皋</sup>, /sʊʔ7 ɕiɑŋ5/<sup>泰县</sup></small> ① 说话的习惯方式、态度、外相等<sup>\[如皋\]</sup>：你不要以为他是怪你的呀，他俫吃公安饭的就是这吖～。<sup>\[如皋\]</sup> ② 说法<sup>\[如皋\]</sup>：好，就这吖～，下午办手续。<sup>\[如皋\]</sup> ③ 说法。<sup>\[如东\]</sup>：你要有个～。<sup>\[如东\]</sup> ④ 说话的方法。<sup>\[如东\]</sup>：看你怎吖～。<sup>\[如东\]</sup> ⑤ 说法<sup>\[兴化\]</sup>：对，就是这个～！<sup>\[兴化\]</sup> ⑥ 说话时的语气和态度<sup>\[兴化\]</sup>：老赵为人直爽，有时好心好意，就是～不好看。<sup>\[兴化\]</sup> ⑦ 说法。<sup>\[泰县\]</sup>  
+1. 【[说相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_xian.md#说相)】`shuh7 xian5` <small>/suʔ7 ɕiaŋ5/<sup>兴化</sup>, /sʊʔ7 ɕiã5/<sup>如皋</sup>, /sʊʔ7 ɕiɑŋ5/<sup>泰兴</sup>, /sʊʔ7 ɕiɑŋ5/<sup>泰县</sup></small> ① 说话的习惯方式、态度、外相等<sup>\[如皋\]</sup>：你不要以为他是怪你的呀，他俫吃公安饭的就是这吖～。<sup>\[如皋\]</sup> ② 说法<sup>\[如皋\]</sup>：好，就这吖～，下午办手续。<sup>\[如皋\]</sup> ③ 说法。<sup>\[如东\]</sup>：你要有个～。<sup>\[如东\]</sup> ④ 说话的方法。<sup>\[如东\]</sup>：看你怎吖～。<sup>\[如东\]</sup> ⑤ 说法<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>：对，就是这个～！<sup>\[兴化\]</sup> ⑥ 说话时的语气和态度<sup>\[兴化\]</sup>：老赵为人直爽，有时好心好意，就是～不好看。<sup>\[兴化\]</sup>  
 1. 【[说屑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_xih_zz.md#说屑子)】`shuh7 xih7 zz` <sup>[东台]</sup> ① 原指叙述琐碎故事。 ② ［喻］故意扯淡。  
 1. 【[说笑话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_xio_hua.md#说笑话)】`shuh7 xio5 hua6` <sup>[如东]</sup> 开玩笑。  
 1. 【[说语](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_y.md#说语)】`shuh7 y` <sup>[如皋]</sup> 根据、来源：他这吖说相总有个～的。  
