@@ -592,7 +592,7 @@
 1. 【[狠命的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_mien_dii.md#狠命的)】`hen3 mien6 dii` <sup>[如皋]</sup> 拼命的：～做活技；～搝钱。  
 1. 【[狠人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_ren.md#狠人)】`hen3 ren2` <sup>[兴化]</sup> ① 手段厉害的人：这是个～，不好对付。 ② 心肠狠毒，态度蛮横的人：你覅看他像个真的，遇到～也只好拉倒！  
 1. 【[狠声𪙍气的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_shen_bah_qi.md#狠声𪙍气的)】`hen3 shen bah7 qi5 dii` <sup>[如皋]</sup> 状说话的态度凶狠。  
-1. 【[狠声噁气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_shen_vah_qi.md#狠声噁气)】`hen3 shen vah7 qi5` <small>/xəŋ3 səŋ uɑʔ7 t͡ɕʰʝ5/<sup>泰兴</sup></small> 大声叫骂，态度恶劣。<sup>\[泰兴\]</sup>  
+1. 【[狠声嗀气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_shen_vah_qi.md#狠声嗀气)】`hen3 shen vah7 qi5` <small>/xəŋ3 səŋ uɑʔ7 t͡ɕʰʝ5/<sup>泰兴</sup></small> 大声叫骂，态度恶劣。<sup>\[泰兴\]</sup>  
 1. 【[狠声恶气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_shen_ngah_qi.md#狠声恶气)】`hen3 shen1 ngah7 qi5` <sup>[东台]</sup> 口声不好，出言吐语气汹汹的样子。又叫“狠声𪙍气”：有话好好说，不要～的。  
 1. 【[狠心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_xien.md#狠心)】`hen3 xien1` <sup>[如东]</sup> 决心：他箇吖～，让人想不到。  
 1. 【[狠形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_xien.md#狠形)】`hen3 xien2` <small>/xəŋ3 ɕiŋ2/<sup>泰兴</sup></small> 凶狠的样子。<sup>\[泰兴\]</sup>  

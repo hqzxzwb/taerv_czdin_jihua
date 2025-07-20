@@ -580,7 +580,7 @@
 1. 【[空心莲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_xien_lin.md#空心莲)】`kon1 xien1 lin2` <sup>[如东]</sup> 一年生或多年生草本植物。茎圆形，中空，上部直立水面，下部匍匐蔓延在水中。花白色。生在河沟中。可作猪饲料。也叫空心莲子草。通称水花生。  
 1. 【[空心萝卜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_xien_lu_poh.md#空心萝卜)】`kon1 xien1 lu2 poh8` <small>/kʰɔŋ1 ɕiŋ1 lɤɯ2 pʰɔʔ8/<sup>泰兴</sup></small> 即将起苔或存放已久的萝卜，芯子发松起空。<sup>\[泰兴\]</sup>  
 1. 【[空心墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_xien_qian.md#空心墙)】`kon1 xien1 qian2` <sup>[如东]</sup> 用仄砖砌成的墙，称空心墙。也称斗子墙。  
-1. 【[空心墻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_xien_qian.md#空心墻)】`kon1 xien1 qian2` <small>/kʰɔŋ1 ɕiŋ1 t͡ɕʰiɑŋ2/<sup>泰兴</sup></small> 不填碎砖瓦、泥的墙。<sup>\[泰兴\]</sup>  
+1. 【[空心墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_xien_qian.md#空心墙)】`kon1 xien1 qian2` <small>/kʰɔŋ1 ɕiŋ1 t͡ɕʰiɑŋ2/<sup>泰兴</sup></small> 不填碎砖瓦、泥的墙。<sup>\[泰兴\]</sup>  
 1. 【[空心肚的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_xien_tv_dii.md#空心肚的)】`kon1 xien1 tv6 dii` <sup>[如皋]</sup> ① 清晨食前：化验肝功能，要～去抽血；一大早起来，～念书最容易记得。 ② 每顿食前：柿子要饭后吃，～不要吃。  
 1. 【[穹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon.md#穹)】`kon2` <small>/kʰɔŋ2/<sup>如皋</sup></small> ① 隆起，拱起 ② 鼓起来<sup>\[如皋\]</sup>：被单～吖下。<sup>\[如皋\]</sup> ③ 膨胀起来<sup>\[如皋\]</sup>：馒头蒸吖～起来啊。<sup>\[如皋\]</sup> ④ 物体向外隆起、撑起。<sup>\[东台\]</sup> ⑤ 隆起成圆弧形<sup>\[泰州\]</sup>：他跌咖个跟头，额头上～吖个大瘤。<sup>\[泰州\]</sup>｜你不能再吃咖，肚子都～出来啊。<sup>\[泰州\]</sup>  
 1. 【[孔二奶奶——姜黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kon_er_nae_nae.md#孔二奶奶——姜黄)】`kon3 er6 nae3 nae jian1 huan2` <sup>[如皋]</sup> 黄孔儿。  

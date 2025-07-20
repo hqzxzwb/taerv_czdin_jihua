@@ -364,7 +364,7 @@
 1. 【[甲鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiaeh_y.md#甲鱼)】`jiaeh7 y2` <small>/t͡ɕieʔ7 y2/<sup>如皋</sup></small> ① 鳖。<sup>\[如皋\]</sup> ② 鳖。<sup>\[东台\]</sup>  
 1. 【[甲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiaeh_zz.md#甲子)】`jiaeh7 zz3` <sup>[东台]</sup> 用干支纪年时，六十组干支字轮一周叫一个甲子（即六十年）。  
 1. 【[奸刁巨滑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiaen_dio_qy_huaeh.md#奸刁巨滑)】`jiaen1 dio1 qy6 huaeh8` <sup>[兴化]</sup> 形容十分奸诈狡猾：这个老脚鱼～，一般人弄不过他！  
-1. 【[奸刁巨滑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiaen_dio_qy_huaen.md#奸刁巨滑)】`jiaen1 dio1 qy6 huaen8` <sup>[泰州]</sup> 手段狡诈而又狡猾：这个老家伙～，你要防住他点儿。  
+1. 【[奸刁巨滑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiaen_dio_qy_huaeh.md#奸刁巨滑)】`jiaen1 dio1 qy6 huaeh8` <sup>[泰州]</sup> 手段狡诈而又狡猾：这个老家伙～，你要防住他点儿。  
 1. 【[奸刁悉滑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiaen_dio_xyeh_huaeh.md#奸刁悉滑)】`jiaen1 dio1 xyeh7 huaeh8` <small>/t͡ɕiɛ̃1 tiɔ1 ɕyəʔ7 xuæʔ8/<sup>泰兴</sup></small> 尖刻刁钻、油头滑脑，贬语。<sup>\[泰兴\]</sup>  
 1. 【[奸计](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiaen_ji.md#奸计)】`jiaen1 ji5` <sup>[东台]</sup> 奸诈的计谋。  
 1. 【[奸狡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiaen_jio.md#奸狡)】`jiaen1 jio` <sup>[泰州]</sup> 处理事情过程中的分寸及注意事项：这小伙没得一点儿～，大人谈的这些事情，哪块轮到你说？｜你说他这个人哿有点儿～，客人还不曾懂筷子唻，他抢先同自己弄吖一大块。  
