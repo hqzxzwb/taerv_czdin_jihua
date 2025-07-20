@@ -5,20 +5,17 @@ lian6 teu lian6 ngaen3
   - 你～的不抓紧，天黑咖熬灯费火的才着忙。
 
 # 亮头亮眼
-lian6 teu2 lian6 ngaen3
+lian6 teu lian6 ngaen3
 + 光线比较明亮。
   * 如东方言词典
   - 早早收工，～的。
 + 太阳下山以后、天黑之前尚有光亮这段时间
   * 泰州方言词典4
   - 天还不曾黑，趁现在～的，早点把外栋晒的些东西收家去。
-
-# 亮头亮眼
-lian6 teu2 lian6 ngaen3
 + 十分明亮，光线很好。
   * 泰兴方言辞典
 
 # 亮头亮眼的
-lian6 teu2 lian6 ngaen3 dii
+lian6 teu lian6 ngaen3 dii
 > 如皋方言词典
 - 白天，光线明亮，有抓紧、趁亮时做事，不要拖到夜晚的意思。
