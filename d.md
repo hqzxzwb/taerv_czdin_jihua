@@ -1529,6 +1529,7 @@
 1. 【[陡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu.md#陡)】`deu3` <sup>[如皋]</sup> 雨势急：雨～。  
 1. 【[陡陡弯<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_deu_vaen_r.md#陡陡弯<sub>儿</sub>)】`deu3 deu3 vaen1 r` <sup>[东台]</sup> 头脑不冷静，容易情绪化，喜欢走极端、陡转弯的人。  
 1. 【[陡发万金](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_faeh_vaen_jien.md#陡发万金)】`deu3 faeh7 vaen6 jien1` <sup>[如皋]</sup> 横财。  
+1. 【[陡发万金](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_faeh_vaen_jien.md#陡发万金)】`deu3 faeh7 vaen6 jien1` <small>/təɪ3 fæʔ7 ʋɛ̃1 t͡ɕiŋ1/<sup>泰兴</sup></small> 突然发了大财。<sup>\[泰兴\]</sup>  
 1. 【[陡锅子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_gu_zz.md#陡锅子)】`deu3 gu1 zz` <sup>[如皋]</sup> 深底铸铁锅。  
 1. 【[陡急](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_jieh.md#陡急)】`deu3 jieh7` <sup>[如皋]</sup> 性急，动作粗鲁。  
 1. 【[陡急陡急的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_jieh_deu_jieh.md#陡急陡急的)】`deu3 jieh7 deu3 jieh7 dii` <sup>[如皋]</sup> 见“陡急”。  
@@ -1536,6 +1537,8 @@
 1. 【[陡恐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_kon.md#陡恐)】`deu3 kon3` <small>/tɤ3 kʰoŋ3/<sup>兴化</sup>, /tei3 kʰɔŋ3/<sup>如皋</sup></small> ① 突然，忽然。<sup>\[如东\]</sup>：刚刚说好的，～又变吖。<sup>\[如东\]</sup> ② 陡然。<sup>\[如皋\]</sup> ③ 突然地<sup>\[兴化\]</sup>：刚才还明星亮月的，～的来一阵大风大雨。<sup>\[兴化\]</sup>  
 1. 【[陡恐的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_kon_dii.md#陡恐的)】`deu3 kon3 dii` <sup>[如皋]</sup> 陡然的，突然。  
 1. 【[陡坎子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_kun_zz.md#陡坎子)】`deu3 kun3 zz` <sup>[兴化]</sup> 陡峭的河岸。  
+1. 【[陡莽的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_man_dii.md#陡莽的)】`deu3 man3 dii` <small>/təɪ3 mɑŋ3 təɪ/<sup>泰兴</sup></small> 突然；顿时。<sup>\[泰兴\]</sup>  
+1. 【[陡莽失惊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_man_sheh_jien.md#陡莽失惊)】`deu3 man3 sheh7 jien1` <small>/təɪ3 mɑŋ3 səʔ7 t͡ɕiŋ1/<sup>泰兴</sup></small> 突如其来，毫无思想准备。<sup>\[泰兴\]</sup>  
 1. 【[陡然](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_rin.md#陡然)】`deu3 rin2` <small>/tɤɯ3 iɪ̃2/<sup>泰县</sup></small> 突然<sup>\[泰县\]</sup><sup>\[泰州\]</sup>：他～的不来啊。<sup>\[泰县\]</sup>｜她说得行行的，就～的哭起来啊。<sup>\[泰州\]</sup>  
 1. 【[陡砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_zhun.md#陡砖)】`deu3 zhun1` <sup>[如皋]</sup> 砖块侧立着（侧面向上）砌墙。与“平砖（平面向上）、竖砖（端面向上）”相对。  
 1. 【[斗（鬥）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu.md#斗（鬥）)】`deu5` <small>/tei5/<sup>如皋</sup></small> ① 主动找<sup>\[如皋\]</sup>：雄鸡～母鸡，～交易。<sup>\[如皋\]</sup> ② 挑动、挑起争端<sup>\[如皋\]</sup>：是他～我，我才还手的。<sup>\[如皋\]</sup> ③ 争斗<sup>\[如皋\]</sup>：坐山观虎～；好～的鸡儿不长毛。<sup>\[如皋\]</sup> ④ 凑合<sup>\[如皋\]</sup>：～股子、～份子。<sup>\[如皋\]</sup> ⑤ 相合，拼合<sup>\[如皋\]</sup><sup>\[泰州\]</sup>：～缝合榫。<sup>\[如皋\]</sup>｜这几块小板子～啊子就是一块大板子。<sup>\[泰州\]</sup> ⑥ （泰州词典作𨁋）<sup>\[泰州\]</sup> ⑦ 前进之时足尖碰到硬物受阻，惯性导致前倾<sup>\[泰州\]</sup>：刚才不曾注意，捱脚底下的石子ㄦ～啊下子，还好不曾跌跟头。<sup>\[泰州\]</sup> ⑧ 用刨子刨物体，用锯子锯物时，刀口、锯口碰到硬块后被弹起<sup>\[泰州\]</sup>：这个木头里头有钉子，锯的时候要当心，不要把家伙～啊坏啊。<sup>\[泰州\]</sup>  
@@ -1982,7 +1985,7 @@
 1. 【[刁主意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_zhv_i.md#刁主意)】`dio1 zhv3 i` <sup>[如皋]</sup> 巧妙而又尖钻的主意。  
 1. 【[刁蛀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_zhv.md#刁蛀)】`dio1 zhv5` <sup>[东台]</sup> 刁钻刻薄的人。  
 1. 【[刁钻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_zun.md#刁钻)】`dio1 zun1` <sup>[东台]</sup> 狡猾奸诈：～刻薄。  
-1. 【[刟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio.md#刟)】`dio1` <small>/tiɔ1/<sup>兴化</sup>, /tiɔ1/<sup>如皋</sup></small> ① 牴<sup>\[如皋\]</sup>：～人牛、用头顶～他的下巴。<sup>\[如皋\]</sup> ② 牛羊以角触人。《集韵·萧韵》丁聊切：“～，《广雅》断也”。<sup>\[兴化\]</sup>：～人牛。<sup>\[兴化\]</sup> ③ 头上有角的哺乳动物以角触人<sup>\[泰州\]</sup>：他家这个样子～人，你俫伢儿让吖远吖点儿哉。<sup>\[泰州\]</sup>  
+1. 【[刟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio.md#刟)】`dio1` <small>/tiɔ1/<sup>兴化</sup>, /tiɔ1/<sup>如皋</sup>, /tiɔ1/<sup>泰兴</sup></small> 牴，（牛羊）以角触人。<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：～人牛、用头顶～他的下巴。<sup>\[如皋\]</sup>｜～人牛。<sup>\[兴化\]</sup>｜他家这个样子～人，你俫伢儿让吖远吖点儿哉。<sup>\[泰州\]</sup>  
 1. 【[刟人牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_ren_ngeu.md#刟人牛)】`dio1 ren2 ngeu2` <small>/tiɔ1 ɻəŋ2 ŋei2/<sup>如皋</sup>, /tiɔ1 ɻəŋ2 ŋəɪ2/<sup>泰兴</sup>, /tiɔ1 ɻəŋ ɤɯ2/<sup>泰县</sup></small> 常以角牴人的牛。也比喻好斗的、常找人麻烦的人。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>：～，好活技。<sup>\[泰兴\]</sup>  
 1. 【[叼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio.md#叼)】`dio1` ① 说话口齿不清，口吃。 ② 用嘴衔住<sup>\[泰州\]</sup>：刚才望见他嘴里～啊支香烟向东去啊。<sup>\[泰州\]</sup> ③ 用唇、齿夹着少量食物进食<sup>\[泰州\]</sup>：哿是这些菜不对你的胃口啊，我望吖你像有点儿～啊～的样子。<sup>\[泰州\]</sup>  
 1. 【[叼屄耷咍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_bi_dah_hae.md#叼屄耷咍)】`dio1 bi1 dah7 hae1` <sup>[如东]</sup> 说话的声调矫揉造作，嗨嗨呀呀的：王秀秀跟人说话总是～的，听吖人心里不舒服。  
@@ -1998,15 +2001,15 @@
 1. 【[雕画匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_hua_qian.md#雕画匠)】`dio1 hua6 qian6` <sup>[如皋]</sup> 专事木雕、砖雕、石雕的工匠。  
 1. 【[雕画砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_hua_zhun.md#雕画砖)】`dio1 hua6 zhun1` <sup>[如皋]</sup> ① 供作砖雕的精制砖。砖质细腻，无气孔、无杂质。 ② 有砖雕的砖。  
 1. 【[雕匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_qian.md#雕匠)】`dio1 qian6` <sup>[如东]</sup> 从事雕刻的小手工业者。  
-1. 【[屌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio.md#屌)】`dio3` <sup>[如皋]</sup> ① 粗鄙语，也说“屌子”。 ② 指“没有”：你哿有钱吖——～！ ③ 事情不济：事情～啊啦，没法想吖啦！  
+1. 【[屌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio.md#屌)】`dio3` <small>/tiɔ3/<sup>如皋</sup>, /tiɔ3/<sup>泰兴</sup></small> 粗鄙语，指没有、事情不济等等，也说“屌子”。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：你哿有钱吖——～！<sup>\[如皋\]</sup>｜事情～啊啦，没法想吖啦！<sup>\[如皋\]</sup>  
 1. 【[屌塴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_bon_r.md#屌塴<sub>儿</sub>)】`dio3 bon5 r` 腹股沟。  
 1. 【[屌咚屌咚的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_don_dio_don.md#屌咚屌咚的)】`dio3 don3 dio3 don3 dii` <sup>[东台]</sup> 形容不知趣，或没精打采地走路的样子。  
-1. 【[屌儿郎当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_er_lan_dan.md#屌儿郎当)】`dio3 er2 lan2 dan1` <small>/tiɔ3 ɚ2 lɑŋ2 tɑŋ1/<sup>泰兴</sup></small> ① 形容仪容不整，作风散漫。<sup>\[东台\]</sup> ② 形容作风散漫、态度不严肃、仪容不整等。<sup>\[泰兴\]</sup>  
 1. 【[屌话饰卵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_hua_sheh_lun.md#屌话饰卵)】`dio3 hua sheh7 lun3` <sup>[如东]</sup> 比喻胡说八道，满口谎言：这个人～的，不要相信。  
 1. 【[屌郎当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_lan_dan.md#屌郎当)】`dio3 lan2 dan1` <sup>[东台]</sup> 男人（多指男孩）一丝不挂的样子。  
-1. 【[屌毛灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_mo_huei.md#屌毛灰)】`dio3 mo2 huei1` <small>/tiɔ3 mɔ2 xuei1/<sup>如皋</sup></small> ① 比喻没有用的人。<sup>\[如东\]</sup>：他是个～。<sup>\[如东\]</sup> ② 轻微得不值提、不屑一说或指什么都没有。<sup>\[如皋\]</sup> ③ 见“卵毛灰”。<sup>\[如皋\]</sup> ④ 粗话，表示极度轻蔑<sup>\[泰州\]</sup>：（甲）你嘴里不要瞎说八道的，当心他收拾你！（乙）～，他就是人在这块，也没得哪个怕他。<sup>\[泰州\]</sup>  
+1. 【[屌毛灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_mo_huei.md#屌毛灰)】`dio3 mo2 huei1` <small>/tiɔ3 mɔ2 xuei1/<sup>如皋</sup>, /tiɔ3 mɔ2 xuəɪ1/<sup>泰兴</sup></small> ① 比喻没有用的人。<sup>\[如东\]</sup>：他是个～。<sup>\[如东\]</sup> ② 轻微得不值提、不屑一说或指什么都没有。<sup>\[如皋\]</sup> ③ 见“卵毛灰”。<sup>\[如皋\]</sup> ④ 粗话，表示极度轻蔑<sup>\[泰州\]</sup>：（甲）你嘴里不要瞎说八道的，当心他收拾你！（乙）～，他就是人在这块，也没得哪个怕他。<sup>\[泰州\]</sup> ⑤ 粗鄙语。无，没有。<sup>\[泰兴\]</sup>  
 1. 【[屌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_r.md#屌<sub>儿</sub>)】`dio3 r` <small>/tiɔ˞3/<sup>如皋</sup></small> 阴茎<sup>\[如东\]</sup><sup>\[如皋\]</sup>  
 1. 【[屌<sub>儿</sub>郎当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_r_lan_dan.md#屌<sub>儿</sub>郎当)】`dio3 r lan2 dan1` <sup>[如东]</sup> ① 作风散漫：办事不能～的。 ② 仪容不整：看他那个～的样子。  
+1. 【[屌<sub>儿</sub>郎当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_r_lan_dan.md#屌<sub>儿</sub>郎当)】`dio3 r lan2 dan1` <small>/tiɔ˞3 lɑŋ2 tɑŋ1/<sup>泰兴</sup></small> ① 形容仪容不整，作风散漫。<sup>\[东台\]</sup> ② 形容作风散漫、态度不严肃、仪容不整等。<sup>\[泰兴\]</sup>  
 1. 【[屌人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_ren.md#屌人)】`dio3 ren2` <sup>[泰州]</sup> 对人的蔑称。  
 1. 【[屌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_zz.md#屌子)】`dio3 zz` <small>/tiɔ3 t͡sɿ/<sup>如皋</sup>, /tiɔ3 t͡se/<sup>泰县</sup></small> 阴茎<sup>\[泰县\]</sup><sup>\[如皋\]</sup>  
 1. 【[屌子打连耞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_zz_da_lin.md#屌子打连耞)】`dio3 zz da3 lin2 gae1` <sup>[东台]</sup> 形容贫穷得一无所有。  

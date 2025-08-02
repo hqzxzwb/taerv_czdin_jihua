@@ -456,14 +456,17 @@
 1. 【[绕账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_zhan.md#绕账)】`ro5 zhan5` <small>/ɻɔ5 t͡sã5/<sup>如皋</sup></small> ① 敷衍应付<sup>\[如皋\]</sup><sup>\[泰州\]</sup>：他同你玩～，不是真心。<sup>\[如皋\]</sup>｜你同他又没得多大交情，你～买两个花瓶送把他就是唻。<sup>\[泰州\]</sup>｜晚上要吃酒，中上就～下点儿面吃咖子吧。<sup>\[泰州\]</sup> ② 质量差<sup>\[如皋\]</sup>：这种货～，不能买。<sup>\[如皋\]</sup>  
 1. 【[绕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro.md#绕)】`ro6` <sup>[泰州]</sup> 被纠缠，无法摆脱窘境：弄到临了把自己～进去啊唻。  
 1. 【[绕住咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_chuh_ga.md#绕住咖)】`ro6 chuh8 ga` <sup>[如皋]</sup> 被一种“理由”套住，一时难辨。  
+1. 【[绕搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_daeh.md#绕搭)】`ro6 daeh7` <small>/ɻɔ1 tæʔ7/<sup>泰兴</sup></small> 缠搭；缠绕。纠缠，兜搭。<sup>\[泰兴\]</sup>  
 1. 【[绕刀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_do_r.md#绕刀<sub>儿</sub>)】`ro6 do1 r` <sup>[如皋]</sup> 用诡辩术把对方套住。  
 1. 【[绕过去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_gu_qy.md#绕过去)】`ro6 gu qy5` <sup>[如皋]</sup> 绕过障碍：到小王家从窑前～就到。  
 1. 【[绕下子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_ha_zz.md#绕下子)】`ro6 ha zz` <sup>[如皋]</sup> 应付一下，看一看：上司下来检查，～就跑。  
 1. 【[绕路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_lv.md#绕路)】`ro6 lv6` <small>/lɔ6 lu6/<sup>兴化</sup></small> ① 不走捷径，而走较远的路<sup>\[兴化\]</sup>：兴化经高邮到徐州～，最好从临泽过去。<sup>\[兴化\]</sup> ② 不走最直接的路而改由较远的路径迂回到达。<sup>\[泰州\]</sup>  
-1. 【[绕门经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_men_jien.md#绕门经)】`ro6 men2 jien1` <small>/lɔ6 mən2 t͡ɕin1/<sup>兴化</sup>, /ɻɔ1 məŋ2 t͡ɕiəŋ1/<sup>如皋</sup>, /ɻɔ1 məŋ2 t͡ɕiŋ1/<sup>泰县</sup></small> ① 掩盖、蒙混、糊弄别人的手法。<sup>\[如皋\]</sup> ② 假话；圈套。<sup>\[如东\]</sup>：都是～。<sup>\[如东\]</sup> ③ 欺骗人的伎俩<sup>\[东台\]</sup>：自己要规范财务，还要谨防别人的～。<sup>\[东台\]</sup> ④ 迷惑人、糊弄人的鬼花样<sup>\[兴化\]</sup>：（他）好的东西未学到，七绕八绕的～学到不少。（《皮五辣子》一）<sup>\[兴化\]</sup> ⑤ 敷衍。<sup>\[泰县\]</sup> ⑥ 找借口。<sup>\[泰县\]</sup>  
+1. 【[绕门经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_men_jien.md#绕门经)】`ro6 men2 jien1` <small>/lɔ6 mən2 t͡ɕin1/<sup>兴化</sup>, /ɻɔ1 məŋ2 t͡ɕiəŋ1/<sup>如皋</sup>, /ɻɔ1 məŋ2 t͡ɕiŋ1/<sup>泰兴</sup>, /ɻɔ1 məŋ2 t͡ɕiŋ1/<sup>泰县</sup></small> ① 掩盖、蒙混、糊弄别人的手法。<sup>\[如皋\]</sup> ② 假话；圈套。<sup>\[如东\]</sup>：都是～。<sup>\[如东\]</sup> ③ 欺骗人的伎俩<sup>\[东台\]</sup>：自己要规范财务，还要谨防别人的～。<sup>\[东台\]</sup> ④ 迷惑人、糊弄人的鬼花样<sup>\[兴化\]</sup>：（他）好的东西未学到，七绕八绕的～学到不少。（《皮五辣子》一）<sup>\[兴化\]</sup> ⑤ 敷衍。<sup>\[泰县\]</sup> ⑥ 找借口。<sup>\[泰县\]</sup> ⑦ 原指和尚敷衍了事地念经，马马虎虎交代一下。后喻工作马虎了事。亦称为“鬼点子”，说话做事弯弯绕。<sup>\[泰兴\]</sup>  
 1. 【[绕牙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_nga_zz.md#绕牙子)】`ro6 nga2 zz` <sup>[如皋]</sup> 食物缠住牙齿：韭菜～。  
 1. 【[绕圈子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_qiun_zz.md#绕圈子)】`ro6 qiun1 zz` <sup>[泰州]</sup> 说话不直截了当。  
+1. 【[绕圈子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_qiun_zz.md#绕圈子)】`ro6 qiun1 zz` <small>/ɻɔ1 t͡ɕʰyʊ̃1 t͡sɿ/<sup>泰兴</sup></small> 走迂回曲折的弯路；比喻说话不直截了当。也作“绕弯子”。<sup>\[泰兴\]</sup>  
 1. 【[绕人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_ren.md#绕人)】`ro6 ren2` <small>/lɔ6 lən2/<sup>兴化</sup>, /ɻɔ1 ɻəŋ2/<sup>如皋</sup></small> ① 用诡辩术把对方套住。<sup>\[如皋\]</sup> ② 蒙骗人。<sup>\[兴化\]</sup> ③ 问题复杂难解<sup>\[兴化\]</sup>：这个问题～哩，好不容易才钻出来。<sup>\[兴化\]</sup> ④ 在说笑中占人便宜。<sup>\[兴化\]</sup>  
+1. 【[绕日锃亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_rih_zen_lian.md#绕日锃亮)】`ro6 rih8 zen5 lian6` <small>/ɻɔ1 iʔ8 t͡səŋ5 liɑŋ1/<sup>泰兴</sup></small> 非常明亮的样子。<sup>\[泰兴\]</sup>  
 1. 【[绕绕账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_ro_zhan.md#绕绕账)】`ro6 ro6 zhan5` <sup>[东台]</sup> 账务涉及的几个方面互为债权债务关系，见“㩭㩭账”。  
 1. 【[绕绕账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_ro_zhan.md#绕绕账)】`ro6-5 ro6-5 zhan5` <sup>[东台]</sup> 办事极不认真，走过场，敷衍了事。（注意这里“绕”阴去声；）  
 1. 【[绕手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_sheu.md#绕手)】`ro6 sheu3` 缠在手上，指事情不太好办<sup>\[泰州\]</sup>：这桩事有点儿～，他要着实懂点儿脑筋。<sup>\[泰州\]</sup>  
@@ -601,6 +604,7 @@
 1. 【[绒毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ron_mo.md#绒毛)】`ron2 mo2` <small>/ɻɔŋ2 mɔ2/<sup>如皋</sup></small> ① 鸟兽细软的毛。<sup>\[如皋\]</sup> ② 鸟兽长在贴近皮肤处的柔软而又茂密的细毛<sup>\[泰州\]</sup>：养鸡场里头～飞飞的，脏煞咖。<sup>\[泰州\]</sup>  
 1. 【[绒球球的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ron_qieu_qieu_dii.md#绒球球的)】`ron2 qieu2 qieu2 dii` <sup>[如皋]</sup> 纤维成团而细软蓬松的样子。  
 1. 【[绒丝抖抖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ron_sz_deu_deu.md#绒丝抖抖)】`ron2 sz1 deu3 deu3` <small>/ɻɔŋ2 sɿ1 təɪ3 təɪ3/<sup>泰兴</sup></small> 无数细毛浓密而又柔和的样子。<sup>\[泰兴\]</sup>  
+1. 【[绒毯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ron_taen.md#绒毯)】`ron2 taen3` <small>/ɻɔŋ2 tʰɛ̃3/<sup>泰兴</sup></small> 用驼毛或羊毛、棉毛等织成的毯子。<sup>\[泰兴\]</sup>  
 1. 【[绒线衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ron_xin_i.md#绒线衣)】`ron2 xin5 i1` <sup>[兴化]</sup> 用毛线织成的衫裤。  
 1. 【[冗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ron.md#冗)】`ron5` <small>/ɻɔŋ5/<sup>如皋</sup></small> ① 差、弱、无用<sup>\[如皋\]</sup>：货色～、本事～、～脚儿。<sup>\[如皋\]</sup> ② 软弱，无能。<sup>\[如东\]</sup>：这个人太～。<sup>\[如东\]</sup> ③ 太差。<sup>\[东台\]</sup>  
 1. 【[冗脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ron_jiah_r.md#冗脚<sub>儿</sub>)】`ron5 jiah7 r` <sup>[如皋]</sup> 无用、能力差的人。  

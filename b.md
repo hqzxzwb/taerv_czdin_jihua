@@ -471,9 +471,11 @@
 1. 【[绑架](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ban_jia.md#绑架)】`ban3 jia5` <sup>[东台]</sup> 用强力把人劫走。  
 1. 【[绑来（去）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ban_lae.md#绑来（去）)】`ban3 lae2 （qy5）` <sup>[东台]</sup> 被迫着必须来（去）：本来我今吖有事，儿子高考需要人照应，我～帮帮忙。  
 1. 【[绑票](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ban_pio.md#绑票)】`ban3 pio5` <sup>[东台]</sup> 捆绑人质，勒索钱财。  
+1. 【[绑票](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ban_pio.md#绑票)】`ban3 pio5` <small>/pɑŋ3 pʰiɔ5/<sup>泰兴</sup></small> 旧称掳人勒赎。<sup>\[泰兴\]</sup>  
 1. 【[绑人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ban_ren.md#绑人)】`ban3 ren` <sup>[兴化]</sup> 因衣服窄小或受潮收缩，使身体产生紧束感：“那来这身衣服！这么～！”（马春阳《告状》）  
 1. 【[绑死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ban_sz.md#绑死)】`ban3 sz3` <small>/paŋ3 sɿ3/<sup>兴化</sup></small> ① 必死无疑<sup>\[东台\]</sup>：企业如不改革，就要～。<sup>\[东台\]</sup> ② 共同陷于困境，大家都活不了<sup>\[东台\]</sup>：要放活一部分人，不能都～。<sup>\[东台\]</sup> ③ 一起在困境中观望、等待<sup>\[兴化\]</sup>：与其在这块～，不如各找头路。<sup>\[兴化\]</sup> ④ 双方绑在一起去死，比喻在困境中一起等待死亡<sup>\[泰州\]</sup>：这件事总要想个法子，大家蹾吖一起儿～不是个事。<sup>\[泰州\]</sup>  
 1. 【[绑腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ban_tuei.md#绑腿)】`ban3 tuei3` <sup>[如东]</sup> 缠裹小腿的布带。  
+1. 【[绑腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ban_tuei.md#绑腿)】`ban3 tuei3` <small>/pɑŋ3 tʰəɪ3/<sup>泰兴</sup></small> 裹腿的布带。<sup>\[泰兴\]</sup>  
 1. 【[膀臂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ban_bi.md#膀臂)】`ban3 bi5` <sup>[兴化]</sup> 胳膊：他的～伸出来有别人的小腿粗。  
 1. 【[膀拐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ban_guae_r.md#膀拐<sub>儿</sub>)】`ban3 guae3 r` <small>/pɑŋ3 kue3 ɚ/<sup>泰县</sup></small> ① 胳膊肘儿。<sup>\[东台\]</sup> ② 胳膊。<sup>\[泰县\]</sup> ③ 胳膊肘儿。<sup>\[泰县\]</sup> ④ 非嫡系。<sup>\[泰县\]</sup>  
 1. 【[膀拐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ban_guae_zz.md#膀拐子)】`ban3 guae3 zz` <sup>[兴化]</sup> 上下臂关节外侧突出处：这时，靳小蒙又用～碰姨爹的背后……（马春阳《翁婿同还乡》）  

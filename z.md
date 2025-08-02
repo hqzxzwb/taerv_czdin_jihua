@@ -950,6 +950,7 @@
 1. 【[咒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheu.md#咒)】`zheu5` <small>/t͡ɕiɤɯ5/<sup>泰兴</sup></small> 诅咒；咒骂<sup>\[泰兴\]</sup>  
 1. 【[咒语](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheu_y.md#咒语)】`zheu5 y3` <sup>[东台]</sup> 某些宗教或巫术，自称可以消灾降福的口诀：念～。  
 1. 【[昼心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheu_xien.md#昼心)】`zheu5 xien1` ① 正午，中午，大白天。 ② 中午。<sup>\[如东\]</sup>  
+1. 【[昼心家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheu_xien_ga.md#昼心家)】`zheu5 xien1 ga` <small>/t͡ɕiɤɯ5 ɕiŋ1 kɑ/<sup>泰兴</sup></small> 白天。中午。<sup>\[泰兴\]</sup>  
 1. 【[昼心里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheu_xien_lii.md#昼心里)】`zheu5 xien1 lii` <small>/t͡sei5 ɕiəŋ1 tei/<sup>如皋</sup></small> ① 白天阳光最强烈的时候。 ② 夏日中午。<sup>\[如皋\]</sup> ③ 中午。<sup>\[如皋\]</sup>  
 1. 【[皱里马哄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheu_lii_ma_hon.md#皱里马哄)】`zheu5 lii ma hon1` <sup>[东台]</sup> 衣服皱巴巴，不挺括。  
 1. 【[皱里皱巴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheu_lii_zheu_ba.md#皱里皱巴的)】`zheu5 lii zheu5 ba1 dii` <sup>[如皋]</sup> 皱褶不平的样子。  

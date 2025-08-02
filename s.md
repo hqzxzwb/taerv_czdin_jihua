@@ -2118,24 +2118,30 @@
 1. 【[使黑心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_heh_xien.md#使黑心)】`shr3 heh7 xien1` ① 使坏 ② 出坏主意。<sup>\[如东\]</sup>  
 1. 【[史](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr.md#史)】`shr3` <sup>[如皋]</sup> 姓。避讳读“喜、诨、吏”。  
 1. 【[始□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_mae.md#始□)】`shr3 mae` ① 当初如果不是那样，现在也就不会这样<sup>\[泰州\]</sup>：～让他去唻，事情也许就能弄吖一当吖唻。<sup>\[泰州\]</sup>｜～你不上高中就进厂的话，也不得下乡插队唻。<sup>\[泰州\]</sup> ② 早知现在这样，当初就该那样<sup>\[泰州\]</sup>：早说他老人家不来，～我不请假唻。<sup>\[泰州\]</sup>｜早晓得这哦电影没意思，～我去打牌唻。<sup>\[泰州\]</sup>  
-1. 【[屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr.md#屎)】`shr3` <sup>[泰州]</sup> 排泄出的污垢：眼～｜鼻～  
+1. 【[屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr.md#屎)】`shr3` <small>/sɿ3/<sup>兴化</sup>, /sɿ3/<sup>如皋</sup>, /sɿ3/<sup>泰兴</sup>, /sɿ3/<sup>泰县</sup></small> ① 粪便 ② 其他排泄出的污垢：眼～｜鼻～  
+1. 【[屎到屁眼沟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_do_pi_ngaen.md#屎到屁眼沟)】`shr3 do5 pi5 ngaen3-1 geu1` <small>/sɿ3 tɔ5 pʰʝ5 ŋɛ̃3 kəɪ1/<sup>泰兴</sup></small> 喻非常着急的样子。<sup>\[泰兴\]</sup>  
 1. 【[屎肚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_dv_r.md#屎肚<sub>儿</sub>)】`shr3 dv3 r` <sup>[如皋]</sup> 宰牲所取之胃。  
+1. 【[屎缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_gan.md#屎缸)】`shr3 gan` <small>/sɿ3 kɑŋ/<sup>泰兴</sup></small> 粪缸；粪池。<sup>\[泰兴\]</sup>  
 1. 【[屎缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_gan.md#屎缸)】`shr3 gan1` <sup>[东台]</sup> 粪坑的俗称。  
 1. 【[屎䌁<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_io_r.md#屎䌁<sub>儿</sub>)】`shr3 io5 r` <sup>[如皋]</sup> 条状粪便：狗～。  
 1. 【[屎礓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_jian_r.md#屎礓<sub>儿</sub>)】`shr3 jian3 r` <sup>[如皋]</sup> 大便。粗鄙语：屙～、把你～打啊流下来！  
 1. 【[屎急扒塘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_jieh_ba_tan.md#屎急扒塘)】`shr3 jieh7 ba1 tan2` <sup>[兴化]</sup> 临时着急了才去挖塘排泄。（喻）平时拖拉疲塌，事到临头才着忙：他不到临时不着忙，真是～。  
 1. 【[屎急扒塘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_jieh_pa_tan.md#屎急扒塘)】`shr3 jieh7 pa2 tan2` <sup>[东台]</sup> ［喻］准备工作过于仓促，几乎来不及了：防灾抗灾的各项事务要及早上马，不能等到灾害临头，弄得～的。  
+1. 【[屎急扒塘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_jieh_pa_tan.md#屎急扒塘)】`shr3 jieh7 pa2 tan2` <small>/sɿ3 t͡ɕiʔ7 pʰɑ2 tʰɑŋ2/<sup>泰兴</sup></small> 事到临头才着手办理。<sup>\[泰兴\]</sup>  
 1. 【[屎急屁来催](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_jieh_pi_lae.md#屎急屁来催)】`shr3 jieh7 pi5 lae2 qy1` <sup>[东台]</sup> ［喻］形容事情紧急，弄得手忙脚乱，难以招架。  
 1. 【[屎急屁来追](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_jieh_pi_lae.md#屎急屁来追)】`shr3 jieh7 pi5 lae2 zhuei1` <sup>[如皋]</sup> 形容急促之时又加紧追，迫对方完成。  
 1. 【[屎橛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_jiuh_zz.md#屎橛子)】`shr3 jiuh7 zz` <small>/sɿ3 t͡ɕyuʔ7 t͡sɿ/<sup>兴化</sup></small> ① 硬粪团。也说“屎礓儿”。<sup>\[兴化\]</sup> ② 粗短而干燥的粪便。<sup>\[泰州\]</sup>  
+1. 【[屎硍烂脏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_ken_laen_zan.md#屎硍烂脏)】`shr3 ken5 laen6 zan1` <small>/sɿ3 kʰəŋ5 lɛ̃1 t͡sɑŋ1/<sup>泰兴</sup></small> 脏极。<sup>\[泰兴\]</sup>  
 1. 【[屎笿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_lah_r.md#屎笿<sub>儿</sub>)】`shr3 lah8 r` <sup>[如皋]</sup> 拾粪用的篾粪箕，有很高的竹系，供用屎扒儿柄背着走。  
 1. 【[屎笿<sub>儿</sub>先生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_lah_r_xin.md#屎笿<sub>儿</sub>先生)】`shr3 lah8 r xin1 shen1` <sup>[如皋]</sup> 对老师的蔑称。  
-1. 【[屎笿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_lah_zz.md#屎笿子)】`shr3 lah8 zz` <sup>[泰县]</sup> 装粪的竹筐。  
+1. 【[屎笿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_lah_zz.md#屎笿子)】`shr3 lah8 zz` <small>/sɿ3 lɑʔ8 t͡sɿ/<sup>泰兴</sup>, /sɿ3 nɑʔ8 t͡se/<sup>泰县</sup></small> 装粪的竹筐。<sup>\[泰县\]</sup><sup>\[泰兴\]</sup>  
 1. 【[屎里和啊尿里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_li_hu_a.md#屎里和啊尿里)】`shr3 li hu2 a xy1 lii` <sup>[东台]</sup> 乱七八糟搅和在一起。  
 1. 【[屎杩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_ma_zz.md#屎杩子)】`shr3 ma3 zz` <sup>[如东]</sup> 帆船上的厕所，设在船尾。  
 1. 【[屎扒<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_pa_r.md#屎扒<sub>儿</sub>)】`shr3 pa2 r` <sup>[如皋]</sup> 拾粪用的长柄扒儿。  
 1. 【[屎棋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_qi.md#屎棋)】`shr3 qi2` <sup>[东台]</sup> 低劣的棋艺，也指下棋下得臭的人。  
 1. 【[屎茄<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_qia_r.md#屎茄<sub>儿</sub>)】`shr3 qia2 r` <sup>[兴化]</sup> （戏）谓把粪便拉在身上的婴儿：她手上捧的～。  
+1. 【[屎勺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_shah.md#屎勺)】`shr3 shah8` <small>/sɿ3 sɑʔ8/<sup>泰兴</sup></small> 拾粪的工具。<sup>\[泰兴\]</sup>  
+1. 【[屎勺脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_shah_lin.md#屎勺脸)】`shr3 shah8 lin3` <small>/sɿ3 sɑʔ8 lĩ3/<sup>泰兴</sup></small> 喻人相貌不佳，脸面不美。<sup>\[泰兴\]</sup>  
 1. 【[屎勺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_shah_r.md#屎勺<sub>儿</sub>)】`shr3 shah8 r` <sup>[如皋]</sup> 见“屎扒儿”。  
 1. 【[屎摊<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_taen_r.md#屎摊<sub>儿</sub>)】`shr3 taen1 r` <sup>[兴化]</sup> （戏）指幼童拉在地上的粪便：这个小家伙喜欢摆～。  
 1. 【[屎塘瓜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shr_tan_gua_r.md#屎塘瓜<sub>儿</sub>)】`shr3 tan2 gua1 r` <sup>[如皋]</sup> 野生甜瓜，很小，成熟迟，但味很甜。多由鸟兽粪便中的种子生长结瓜。另比喻死脑筋。  

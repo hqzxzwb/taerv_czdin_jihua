@@ -347,6 +347,7 @@
 1. 【[架](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia.md#架)】`jia5` <small>/t͡ɕia5/<sup>兴化</sup></small> ① 房屋上的横梁，称架。一根，称一架。<sup>\[如东\]</sup> ② 单位。<sup>\[如东\]</sup>：一～风琴。<sup>\[如东\]</sup> ③ 吆喝牛起步的口语。<sup>\[如东\]</sup> ④ 吹捧、放纵<sup>\[兴化\]</sup>：……再遇到个呆叔父把我一～，我就飘起来了……（扬说《秦琼让印》）<sup>\[兴化\]</sup> ⑤ 桁条根数及两桁间距离。俗以“几～梁”表明房屋进深。（原文作“𢉤”，义不合）<sup>\[兴化\]</sup> ⑥ 屋架或者山墙上的桁条根数<sup>\[泰州\]</sup>：三～梁<sup>\[泰州\]</sup>｜七～梁的房子<sup>\[泰州\]</sup>  
 1. 【[架啊起](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_a_qi.md#架啊起)】`jia5 a qi3` <sup>[东台]</sup> 经得起：他身体强，～冻。  
 1. 【[架不住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_beh_chv.md#架不住)】`jia5 beh7 chv6` <sup>[如东]</sup> 经受不了：～拷问，他就招供吖。  
+1. 【[架不住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_beh_chv.md#架不住)】`jia5 beh7 chv6` <small>/t͡ɕiɑ5 pəʔ7 t͡sʰu1/<sup>泰兴</sup></small> 禁不住；受不住。<sup>\[泰兴\]</sup>  
 1. 【[架不起](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_beh_qi.md#架不起)】`jia5 beh7 qi3` ① 经不住，受不起 ② 再也经受不起。<sup>\[如东\]</sup>：～折磨啊。<sup>\[如东\]</sup>  
 1. 【[架挂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_gua.md#架挂)】`jia5 gua5` <sup>[东台]</sup> 不过分讲究，可以稍微马虎点：今天菜不多，午餐～点儿。  
 1. 【[架架势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_jia_shr.md#架架势)】`jia5 jia5 shr5` <sup>[东台]</sup> 帮帮忙：你就～噻！  
@@ -355,6 +356,7 @@
 1. 【[架步](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_pv.md#架步)】`jia5 pv6` <sup>[兴化]</sup> ① 每两根桁条之间的距离。 ② 由桁条的根数构成的房屋进深。  
 1. 【[架势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_shr.md#架势)】`jia5 shr5` ① 一种姿势。<sup>\[如东\]</sup>：摆出个～。<sup>\[如东\]</sup> ② 一种气势。<sup>\[如东\]</sup>：看他那个～。<sup>\[如东\]</sup> ③ 帮忙<sup>\[东台\]</sup>：这事难为你～。<sup>\[东台\]</sup>  
 1. 【[架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_zz.md#架子)】`jia5 zz` <sup>[如东]</sup> ① 由木头、竹竿、钢管等材料纵横交错地搭建的一种装置，用于搁置器物、支撑物体或安装工具：竹～。 ② 自高自大、装腔作势的作风：不要摆～。 ③ 姿势，样子：看他是个甚的～？  
+1. 【[架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_zz.md#架子)】`jia5 zz` <small>/t͡ɕiɑ5 t͡sɿ/<sup>泰兴</sup></small> 派头。多指骄矜的姿态和装腔作势的作风。<sup>\[泰兴\]</sup>  
 1. 【[驾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia.md#驾)】`jia5` <small>/t͡ɕia5/<sup>兴化</sup>, /t͡ɕia5/<sup>如皋</sup></small> ① 令马前进。<sup>\[如皋\]</sup> ② 用某种借口走开<sup>\[兴化\]</sup>：他看到这许有事，连忙～掉啊。<sup>\[兴化\]</sup>  
 1. 【[阶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiae.md#阶)】`jiae1` <sup>[东台]</sup> 建筑物中用砖、石等分层砌成的附属部分，多在门前或坡道上供人上下用：旧时西溪泰山寺天妃山前有多层石～，远远望去显得十分肃穆庄严。  
 1. 【[解](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiae.md#解)】`jiae3` <sup>[东台]</sup> ① 剖开，分开。 ② 把束缚着、系着的东西打开。  
@@ -1182,7 +1184,7 @@
 1. 【[结发夫妻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_faeh_fv_qi.md#结发夫妻)】`jih7 faeh7 fv1 qi1` <sup>[泰州]</sup> 原配夫妻：他俫是～，不是二婚。  
 1. 【[结角<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_gah_r.md#结角<sub>儿</sub>)】`jih7 gah r` <sup>[如皋]</sup> 豆科植物结出荚来。  
 1. 【[结恭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_gon.md#结恭)】`jih7 gon1` <small>/t͡ɕiʔ7 kɔŋ1/<sup>如皋</sup></small> ① 便秘。<sup>\[如东\]</sup>：这几天我～，难受死啊。<sup>\[如东\]</sup> ② 大便燥结，难解出。<sup>\[如皋\]</sup>  
-1. 【[结棍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_guen.md#结棍)】`jih7 guen5` <small>/t͡ɕiɪʔ7 kuən5/<sup>兴化</sup>, /t͡ɕiɪʔ7 kuəŋ5/<sup>泰县</sup></small> ① 厉害（强）<sup>\[东台\]</sup><sup>\[泰县\]</sup>：这项目赚钱～<sup>\[东台\]</sup>｜这个人～，你弄不过他。<sup>\[东台\]</sup> ② 厉害（严重，程度深）<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：这一下子打得太～。<sup>\[兴化\]</sup>｜“……兄弟啊，今朝夜里冷得～吖！”（《皮五辣子》二）<sup>\[兴化\]</sup>｜他这一回伤得～，起码要在家里歇三个月。<sup>\[泰州\]</sup> ③ 形容物体坚固。<sup>\[如东\]</sup> ④ 形容身体健壮。<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup>：身子骨～。<sup>\[东台\]</sup>｜他身体～。<sup>\[兴化\]</sup>  
+1. 【[结棍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_guen.md#结棍)】`jih7 guen5` <small>/t͡ɕiɪʔ7 kuən5/<sup>兴化</sup>, /t͡ɕiʔ7 kuəŋ5/<sup>泰兴</sup>, /t͡ɕiɪʔ7 kuəŋ5/<sup>泰县</sup></small> ① 厉害（强）<sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>：这项目赚钱～<sup>\[东台\]</sup>｜这个人～，你弄不过他。<sup>\[东台\]</sup> ② 厉害（严重，程度深）<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：这一下子打得太～。<sup>\[兴化\]</sup>｜“……兄弟啊，今朝夜里冷得～吖！”（《皮五辣子》二）<sup>\[兴化\]</sup>｜他这一回伤得～，起码要在家里歇三个月。<sup>\[泰州\]</sup> ③ 形容物体坚固。<sup>\[如东\]</sup> ④ 形容身体健壮。<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>：身子骨～。<sup>\[东台\]</sup>｜他身体～。<sup>\[兴化\]</sup>  
 1. 【[结喉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_heu_r.md#结喉<sub>儿</sub>)】`jih7 heu2 r` <sup>[兴化]</sup> 喉结：他太瘦，～突出多高。  
 1. 【[结衣裳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_i_shan.md#结衣裳)】`jih7 i1 shan` 织毛衣  
 1. 【[结阴亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_ien_qien.md#结阴亲)】`jih7 ien1 qien1` <sup>[如皋]</sup> 给死者结亲的陋习。  
@@ -1191,11 +1193,14 @@
 1. 【[结结<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_jih_r.md#结结<sub>儿</sub>)】`jih7 jih7 r` <small>/t͡ɕiɪʔ7 t͡ɕiɪʔ7 ɚ/<sup>泰县</sup></small> ① 口吃的人。也称结巴。<sup>\[东台\]</sup> ② 口吃。<sup>\[泰县\]</sup>  
 1. 【[结结皱皱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_jih_zheu_zheu.md#结结皱皱)】`jih7 jih7 zheu5 zheu5` <sup>[兴化]</sup> “结皱”的生动形式。  
 1. 【[结交](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_jio.md#结交)】`jih7 jio1` <sup>[如东]</sup> ① 结识：我这次出门～啊一个朋友。 ② 交往：不要与这些人～。  
+1. 【[结交](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_jio.md#结交)】`jih7 jio1` <small>/t͡ɕiʔ7 t͡ɕiɔ1/<sup>泰兴</sup></small> 与人交往，建立情谊。<sup>\[泰兴\]</sup>  
+1. 【[结亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_qien.md#结亲)】`jih7 qien1` <small>/t͡ɕiʔ7 t͡ɕʰiŋ1/<sup>泰兴</sup></small> 两家结成亲戚。<sup>\[泰兴\]</sup>  
 1. 【[结实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_sheh.md#结实)】`jih7 sheh` <sup>[如东]</sup> ① 牢固：这只水桶～。 ② 硬：这种木料～。 ③ 健壮：身体～。  
 1. 【[结胎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_tae.md#结胎)】`jih7 tae1` <sup>[如皋]</sup> 受精怀孕。  
 1. 【[结头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_teu.md#结头)】`jih7 teu2` <sup>[兴化]</sup> 绳、线的连结点：这根绳儿有两个～。｜这根电线～多，不能用。  
-1. 【[结毒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_toh.md#结毒)】`jih7 toh8` <small>/t͡ɕiɪʔ7 tʰɔʔ8/<sup>兴化</sup>, /t͡ɕiʔ7 tʰɔʔ8/<sup>如皋</sup></small> ① 成仇<sup>\[如皋\]</sup>：我俫～结咖在上次争执上。<sup>\[如皋\]</sup> ② 产生仇隙<sup>\[兴化\]</sup>：你揭发他的不法行为，他要跟你～咖。<sup>\[兴化\]</sup>  
+1. 【[结毒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_toh.md#结毒)】`jih7 toh8` <small>/t͡ɕiɪʔ7 tʰɔʔ8/<sup>兴化</sup>, /t͡ɕiʔ7 tʰɔʔ8/<sup>如皋</sup>, /t͡ɕiʔ7 tʰɔʔ8/<sup>泰兴</sup></small> ① 成仇<sup>\[如皋\]</sup>：我俫～结咖在上次争执上。<sup>\[如皋\]</sup> ② 产生仇隙<sup>\[兴化\]</sup>：你揭发他的不法行为，他要跟你～咖。<sup>\[兴化\]</sup> ③ 留下仇恨。<sup>\[泰兴\]</sup>  
 1. 【[结讟/结毒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_toh.md#结讟/结毒)】`jih7 toh8` <sup>[泰州]</sup> ① 结下难解的仇恨或怨恨：这两个人～深吖唻，好不了唻。 ② 作恶或者犯下罪行，多指浪费食物之类暴殄天物的行为，坊间以为浪费食物乃是犯罪行为，要遭受天的惩罚：这条话语中上只动吖一筷子，摆到晚上没得事的，你把他倒掉，也太～咖唻。  
+1. 【[结席](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_xieh.md#结席)】`jih7 xieh8` <small>/t͡ɕiʔ7 ɕiʔ8/<sup>泰兴</sup></small> 酒席结束。<sup>\[泰兴\]</sup>  
 1. 【[结账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_zhan.md#结账)】`jih7 zhan5` <sup>[如东]</sup> 结算账目：明天～。  
 1. 【[结皱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_zheu.md#结皱)】`jih7 zheu5` <small>/t͡ɕiɪʔ7 t͡sɤ5/<sup>兴化</sup>, /t͡ɕiɪʔ7 t͡sɤɯ5/<sup>泰县</sup></small> ① 不顺<sup>\[兴化\]</sup>：这次事情办得～。<sup>\[兴化\]</sup> ② 说话不连贯<sup>\[兴化\]</sup>：他一见上级说话就～啊。<sup>\[兴化\]</sup> ③ 不顺利、辣手：这件事还就～唻，到现在都不曾办成功。<sup>\[泰县\]</sup>  
 1. 【[节巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_ba.md#节巴)】`jih7 ba1` <small>/t͡ɕiʔ7 pɑ1/<sup>泰兴</sup>, /t͡ɕiɪʔ7 pa1/<sup>泰县</sup></small> ① 植物主秆分节的地方。<sup>\[如东\]</sup>：芦穄上有五个～。<sup>\[如东\]</sup> ② 竹节、结<sup>\[泰县\]</sup>：这个竹子～多。<sup>\[泰县\]</sup> ③ 物体各段之间相连接的地方，竹木的主干砍去枝节后留下的疤痕<sup>\[泰兴\]</sup>：竹～<sup>\[泰兴\]</sup>｜今朝我捉咖一只竹～猫儿。<sup>\[泰兴\]</sup> ④ 喻指事情遇到的阻难<sup>\[泰兴\]</sup>  
@@ -1463,7 +1468,10 @@
 1. 【[绞河草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_hu_co.md#绞河草)】`jio3 hu2 co3` <sup>[如皋]</sup> 取河中水草作饲料或肥料。先用刀推铲河草根部然后用两根长竹杆夹住，绞裹上岸。  
 1. 【[绞绞<sub>儿</sub>捘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_jio_r_zuen.md#绞绞<sub>儿</sub>捘)】`jio3 jio3 r zuen5` <sup>[如东]</sup> 绳索绞了许多捘：麻绳上吖～。  
 1. 【[绞赖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_lae_zz.md#绞赖子)】`jio3 lae6 zz` <sup>[东台]</sup> 遇到麻烦互相推诿：碰到难事～不是个办法，要群策群力，迎难而上，才能解决问题。  
+1. 【[绞理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_li.md#绞理)】`jio3 li3` <small>/t͡ɕiɔ3 lʝ3/<sup>泰兴</sup></small> 争辩道理<sup>\[泰兴\]</sup>  
 1. 【[绞脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_lin.md#绞脸)】`jio3 lin3` <sup>[东台]</sup> 也叫“开脸”“扯脸”。  
+1. 【[绞脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_lin.md#绞脸)】`jio3 lin3` <small>/t͡ɕiɔ3 lĩ3/<sup>泰兴</sup></small> 旧时妇女的修容术。用细线交互缠绞除去脸上的汗毛。<sup>\[泰兴\]</sup>  
+1. 【[绞真](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_zhen.md#绞真)】`jio3 zhen1` <small>/t͡ɕiɔ3 t͡səŋ1/<sup>泰兴</sup></small> 当真；当正经事。十分认真。<sup>\[泰兴\]</sup>  
 1. 【[绞捘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_zuen.md#绞捘)】`jio3 zuen5` <sup>[如东]</sup> 绳索旋转上捘。  
 1. 【[缴梢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_sho.md#缴梢)】`jio3 sho1` <sup>[兴化]</sup> 收头、结局：你现在又嫖又赌，将来怎吖～？  
 1. 【[铰链](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_lin.md#铰链)】`jio3 lin6` <sup>[如东]</sup> 连接两个器物的装置。一个器物能够围着另一个器物开合。也叫合页。  

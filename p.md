@@ -569,6 +569,7 @@
 1. 【[拼市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_shr.md#拼市)】`pien1 shr6` 商家打价格战，一般是竞相降价以吸引顾客。<sup>\[泰州\]</sup>  
 1. 【[拼头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_teu.md#拼头)】`pien1 teu` <sup>[兴化]</sup> 商量：我有件事跟你～～。  
 1. 【[拼头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_teu.md#拼头)】`pien1 teu2` 找几个知己朋友来认真商量<sup>\[泰州\]</sup>：我同几个朋友～过唻，他要是不答应我的条件就打官司。<sup>\[泰州\]</sup>  
+1. 【[屏风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_fon.md#屏风)】`pien2 fon1` <small>/pʰiŋ2 fɔŋ1/<sup>泰兴</sup></small> 室内装饰品，可移动、伸展、缩小，多用于遮隔。<sup>\[泰兴\]</sup>  
 1. 【[平扒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_ba.md#平扒)】`pien2 ba1` <sup>[如皋]</sup> 平均分摊：这次出差由你管钱，回头家来～。  
 1. 【[平班](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_baen.md#平班)】`pien2 baen1` <small>/pʰiɪ̃2 pɛ̃1/<sup>兴化</sup>, /pʰiəŋ2 pẽ1/<sup>如皋</sup>, /pʰiŋ2 pɛ̃1/<sup>泰兴</sup></small> 平辈，同辈。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>\[东台：也称平辈\]：他俫两个人～<sup>\[东台\]</sup>｜表哥表弟都是～人。<sup>\[东台\]</sup>｜他俫虽然说相差二十岁，实际是～。<sup>\[兴化\]</sup>｜你俫都是王老师的研究生，是～。<sup>\[泰州\]</sup>  
 1. 【[平班对口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_baen_duei_keu.md#平班对口)】`pien2 baen1 duei5 keu3` <sup>[兴化]</sup> ① 平辈的人。 ② 相互平等的：夫妻是～的，谁也别想欺负谁。  

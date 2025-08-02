@@ -789,6 +789,8 @@
 1. 【[玫瑰饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_guei_bien.md#玫瑰饼)】`mei2 guei1 bien3` <sup>[如皋]</sup> 即凉团。  
 1. 【[玫瑰花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_guei_hua.md#玫瑰花)】`mei2 guei1 hua1` <sup>[如东]</sup> 蔷薇科植物玫瑰，直立乔木。  
 1. 【[玫瑰露](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_guei_lv.md#玫瑰露)】`mei2 guei1 lv6` <sup>[如东]</sup> 蔷薇科植物玫瑰花的蒸馏液。  
+1. 【[眉花<sub>儿</sub>眼笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_hua_r_ngaen.md#眉花<sub>儿</sub>眼笑)】`mei2 hua1 r ngaen3 xio5` <small>/məɪ2 xuɑ˞1 ŋɛ̃3 ɕiɔ5/<sup>泰兴</sup></small> 形容非常高兴，兴奋的样子。<sup>\[泰兴\]</sup>  
+1. 【[眉目](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_moh.md#眉目)】`mei2 moh8` <small>/məɪ2 mɔʔ8/<sup>泰兴</sup></small> 比喻事情的要领、头绪或条理。<sup>\[泰兴\]</sup>  
 1. 【[脢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei.md#脢)】`mei2` <sup>[兴化]</sup> 牲畜背上的肉。俗称～子｜～条｜腰～。《说文·肉部》“～，背肉也。”字又作“脄”。  
 1. 【[脢条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_tio.md#脢条)】`mei2 tio2` <small>/mei2 tʰiɔ2/<sup>如皋</sup></small> 里脊肉\[泰州：猪脊椎两旁瘦肉。\]\[如皋：猪脊骨两侧的长条精肉。肉色微白，质地细嫩，是上好肉。\]\[如东：贴在猪脊梁（内脊）上的一块长条形瘦肉。肉嫩味鲜。\]  
 1. 【[脢条肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_tio_roh.md#脢条肉)】`mei2 tio2 roh8` <sup>[东台]</sup> 里脊肉。脢，《广韵》莫怀切：“脊侧之肉”。  

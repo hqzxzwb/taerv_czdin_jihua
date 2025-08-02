@@ -601,9 +601,9 @@
 1. 【[费剌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_laeh.md#费剌)】`fei5 laeh` <sup>[兴化]</sup> 形容衣履磨损快：这个小的穿衣装～。  
 1. 【[费难](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_naen.md#费难)】`fei5 naen2` <sup>[兴化]</sup> 感到为难，不容易做到：青年汉子拾米扛稻不～。（刘仁前《香河风情·香香店》）｜你转云头到江西龙虎山，见大真人张杰……他若～，你与他同登秋叶而行。（《八窍珠》七六）  
 1. 【[费神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_shen.md#费神)】`fei5 shen2` <sup>[如东]</sup> ① 动脑筋：这个问题请你～。 ② 花费脑筋：看这本书真的～。  
-1. 【[费事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_shr.md#费事)】`fei5 shr6` ① 麻烦，有周折。<sup>\[东台\]</sup> ② 事情麻烦而不好办<sup>\[泰州\]</sup>：对你来说不～。<sup>\[泰州\]</sup>  
+1. 【[费事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_shr.md#费事)】`fei5 shr6` <small>/fəɪ5 sɿ1/<sup>泰兴</sup></small> 麻烦，有周折，难办<sup>\[东台\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：对你来说不～。<sup>\[泰州\]</sup>  
 1. 【[费事剌功](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_shr_laeh_gon.md#费事剌功)】`fei5 shr6 laeh8 gon1` <sup>[兴化]</sup> 事情复杂，要耗费心神去做：～的把东西做出来，他又不要啊，气人哎。  
-1. 【[费心劳碌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_xien_lo_loh.md#费心劳碌)】`fei5 xien1 lo2 loh8` <small>/fəi5 ɕin1 lɔ2 lɔʔ8/<sup>兴化</sup>, /fei5 ɕiəŋ1 lɔ2 lɔʔ8/<sup>如皋</sup></small> ① 费神、操劳、忙碌。<sup>\[如皋\]</sup> ② 耗费心神，辛苦操劳<sup>\[兴化\]</sup>：～地把儿女领大，成家立业，自己也就老啊。<sup>\[兴化\]</sup>  
+1. 【[费心劳碌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_xien_lo_loh.md#费心劳碌)】`fei5 xien1 lo2 loh8` <small>/fəi5 ɕin1 lɔ2 lɔʔ8/<sup>兴化</sup>, /fei5 ɕiəŋ1 lɔ2 lɔʔ8/<sup>如皋</sup>, /fəɪ5 ɕiŋ1 lɔ2 lɔʔ8/<sup>泰兴</sup></small> ① 费神、操劳、忙碌。<sup>\[如皋\]</sup> ② 耗费心神，辛苦操劳<sup>\[兴化\]</sup>：～地把儿女领大，成家立业，自己也就老啊。<sup>\[兴化\]</sup> ③ 需花费很大的精神、力气。<sup>\[泰兴\]</sup>  
 1. 【[费心碌碌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_xien_loh_loh.md#费心碌碌)】`fei5 xien1 loh8 loh8` <sup>[东台]</sup> 对忙忙碌碌的成果肯定、尊重的意思：父母亲～忙起来一桌菜，不吃对不起他俫。  
 1. 【[费心血](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_xien_xiuh.md#费心血)】`fei5 xien1 xiuh7` <sup>[如皋]</sup> 耗费心血。  
 1. 【[分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen.md#分)】`fen1` <sup>[如东]</sup> ① 时间单位，等于一小时的六十分之一。 ② 将东西分开。  

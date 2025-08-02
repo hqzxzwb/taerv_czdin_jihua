@@ -1148,7 +1148,7 @@
 1. 【[歇歇脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_xih_jiah.md#歇歇脚)】`xih7 xih7 jiah7` <sup>[如东]</sup> 休息一会儿：我俫跑啊交关时间吖，现在～吧。  
 1. 【[歇歇神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_xih_shen.md#歇歇神)】`xih7 xih7 shen2` <small>/ɕiʔ7 ɕiʔ7 səŋ2/<sup>如皋</sup></small> ① 见“歇神”。<sup>\[如皋\]</sup> ② （贬）不再劳烦<sup>\[东台\]</sup>：有人过问这件事，你就～吧。<sup>\[东台\]</sup>  
 1. 【[歇作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_zah.md#歇作)】`xih7 zah7` <small>/ɕiɪʔ7 t͡saʔ7/<sup>兴化</sup>, /ɕiʔ7 t͡saʔ7/<sup>如皋</sup></small> ① 停止作业。<sup>\[如皋\]</sup> ② 结束，不再进行。<sup>\[东台\]</sup> ③ 停工<sup>\[兴化\]</sup>：木匠吃晚饭。<sup>\[兴化\]</sup> ④ 停业<sup>\[兴化\]</sup>：这个店半死不活的，不如早点～。<sup>\[兴化\]</sup>  
-1. 【[歇昼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_zheu.md#歇昼)】`xih7 zheu5` <small>/ɕiʔ7 t͡sei5/<sup>如皋</sup></small> ① 夏季中午休息。<sup>\[如皋\]</sup> ② 下雨天，中午停止下雨的一段时间，叫做歇昼。<sup>\[如东\]</sup> ③ 夏天中午休息。<sup>\[如东\]</sup>  
+1. 【[歇昼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_zheu.md#歇昼)】`xih7 zheu5` <small>/ɕiʔ7 t͡sei5/<sup>如皋</sup>, /ɕiʔ7 t͡ɕiɤɯ5/<sup>泰兴</sup></small> ① 夏季中午休息。<sup>\[如皋\]</sup><sup>\[如东\]</sup> ② 下雨天，中午停止下雨的一段时间，叫做歇昼。<sup>\[如东\]</sup> ③ 午睡<sup>\[泰兴\]</sup>  
 1. 【[歇中觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_zhon_go.md#歇中觉)】`xih7 zhon1 go5` <sup>[兴化]</sup> 睡午觉：他饭后总要～，这个是雷打不动的。｜“才吃了一口饭，歇了中觉了。你且这屋里略坐坐”。（《红楼梦》七二）  
 1. 【[洽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih.md#洽)】`xih7` <sup>[东台]</sup> 联系。（反切不合）  
 1. 【[糏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih.md#糏)】`xih7, xyeh7, xiuh7` 面粉  

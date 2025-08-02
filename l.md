@@ -544,6 +544,7 @@
 1. 【[笿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_r.md#笿<sub>儿</sub>)】`lah8 r` <small>/la˞8/<sup>如皋</sup></small> ① 篮子。<sup>\[如东\]</sup> ② 篾丝、篾片编制的小竹篮<sup>\[如皋\]</sup>：通州～、元宝～。<sup>\[如皋\]</sup>  
 1. 【[笿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_zz.md#笿子)】`lah8 zz` <small>/laʔ8 t͡sɿ/<sup>兴化</sup>, /laʔ8 t͡sɿ/<sup>如皋</sup>, /nɑʔ8 t͡se/<sup>泰县</sup></small> ① 篮子 ② 见“笿儿”。<sup>\[如皋\]</sup> ③ 竹篮子。<sup>\[东台\]</sup> ④ 大竹篮。民谣<sup>\[兴化\]</sup>：乡下人上街，大～一㧟……《广韵·铎韵》卢各切<sup>\[兴化\]</sup>｜“～，笼～”。<sup>\[兴化\]</sup> ⑤ 菜篮子。<sup>\[泰县\]</sup>  
 1. 【[笿子/络子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_zz.md#笿子/络子)】`lah8 zz` 竹篾编的有提梁的粗篮。<sup>\[泰州\]</sup>  
+1. 【[络腮胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_sae_hv_zz.md#络腮胡子)】`lah8 sae1 hv2 zz` <small>/lɑʔ8 ɕiɛ1 fʋ2 t͡sɿ/<sup>泰兴</sup></small> 连着鬓角的胡子。<sup>\[泰兴\]</sup>  
 1. 【[络丝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_sz.md#络丝)】`lah8 sz1` <sup>[如皋]</sup> 旧时的手工缫丝极为不匀。由女工将大絖丝分绕在各个丝径相似的籰子上。这种工作称为～。见“分籰子”。  
 1. 【[络絮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_xy.md#络絮)】`lah8 xy5` <sup>[如皋]</sup> 棉花胎（袋）破损的样子，喻人潦倒无神气或笨拙无为的样子。  
 1. 【[络絮形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_xy_xien.md#络絮形)】`lah8 xy5 xien2` <sup>[如皋]</sup> 见“络絮”。  
@@ -1553,8 +1554,8 @@
 1. 【[料酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_jieu.md#料酒)】`lio6 jieu3` <sup>[如东]</sup> 在劳动过程中，上午10时和下午3时，吃一餐酒菜，叫料酒。  
 1. 【[料摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_mah.md#料摸)】`lio6 mah8` 预测<sup>\[泰州\]</sup>：你说他哿有点儿～，出差不把钱带啊足咖，弄吖天天吃方便面。<sup>\[泰州\]</sup>｜你怎吖也没得～的，这种大事就敢交把小年轻去弄。<sup>\[泰州\]</sup>  
 1. 【[料峭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_qio.md#料峭)】`lio6 qio` <sup>[泰县]</sup> 身材瘦而高：这个人长得～唻。  
+1. 【[料勺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_shah.md#料勺)】`lio6 shah8` <sup>[如东]</sup> 农具。圆桶形，木制，高12厘米，口径26厘米，底径24厘米，柄长160厘米。主要用来舀粪、舀水。  
 1. 【[料勺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_shah.md#料勺)】`lio6 shah8` <small>/liɔ1 saʔ8/<sup>如皋</sup>, /niɔ1 sɑʔ8/<sup>泰县</sup></small> ① 舀粪的有长柄的木勺。<sup>\[如皋\]</sup> ② 舀粪的木勺。<sup>\[泰县\]</sup>  
-1. 【[料杓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_shah.md#料杓)】`lio6 shah8` <sup>[如东]</sup> 农具。圆桶形，木制，高1 2厘米，口径26厘米，底径24厘米，柄长160厘米。主要用来舀冀、舀水。  
 1. 【[料作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_zah.md#料作)】`lio6 zah` <small>/liɔ6 t͡saʔ/<sup>兴化</sup></small> ① 材料<sup>\[兴化\]</sup>：你要我替你打家具，自己把～拿过来。<sup>\[兴化\]</sup> ② 建房、制作家具等所用的大小原木、木方等原料。<sup>\[泰州\]</sup>  
 1. 【[料子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_zz.md#料子)】`lio6 zz` <small>/liɔ6 t͡sɿ/<sup>兴化</sup>, /niɔ1 t͡se/<sup>泰县</sup></small> ① 材料。<sup>\[如东\]</sup> ② ［喻］材料，人才。<sup>\[东台\]</sup> ③ 特指毛料<sup>\[兴化\]</sup>：～西装；～大衣。<sup>\[兴化\]</sup> ④ 舀粪便的勺子。<sup>\[泰县\]</sup> ⑤ 做衣服的材料。<sup>\[泰州\]</sup> ⑥ 特指毛纺布料。<sup>\[泰州\]</sup>  
 1. 【[𩻻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio.md#𩻻)】`lio6` <sup>[东台]</sup> 䱗鱼：白～。  

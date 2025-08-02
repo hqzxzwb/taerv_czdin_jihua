@@ -436,7 +436,7 @@
 1. 【[吭气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_qi.md#吭气)】`han2 qi5` <small>/xã2 t͡ɕʰʝ5/<sup>如皋</sup></small> ① 见“吭”。<sup>\[如皋\]</sup> ② 喘气<sup>\[东台\]</sup>：他跑啊100米就～。<sup>\[东台\]</sup>  
 1. 【[杭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han.md#杭)】`han2` <small>/xɑŋ2/<sup>泰兴</sup></small> 承受、支撑\[泰兴：（泰兴方言辞典释“顶得住，能顶住”，不通。）\]：不要紧，箇个活计我～得住<sup>\[泰兴\]</sup>  
 1. 【[杭棉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_min.md#杭棉)】`han2 min2` <sup>[如皋]</sup> 原产于杭州的薄薄的棉絮：秋凉起来啊，伢儿要穿～衣裳｜～被单，2斤一条。  
-1. 【[绗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han.md#绗)】`han2` <small>/xã2/<sup>如皋</sup>, /xɑŋ2/<sup>泰县</sup></small> ① 大针脚连（针连针）<sup>\[如皋\]</sup>：～棉𧘸子、～被单。<sup>\[如皋\]</sup> ② 用针线连接面子、里子和里面棉花等<sup>\[东台\]</sup>：～被子；～棉袄。<sup>\[东台\]</sup> ③ 缝衣服的一种方法<sup>\[泰县\]</sup>：～棉𧘸子。<sup>\[泰县\]</sup> ④ 用线粗缝棉衣棉被之类，保持夹层棉絮稳定<sup>\[泰州\]</sup>：～被单。<sup>\[泰州\]</sup>  
+1. 【[绗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han.md#绗)】`han2` <small>/xã2/<sup>如皋</sup>, /xɑŋ2/<sup>泰兴</sup>, /xɑŋ2/<sup>泰县</sup></small> ① 大针脚连（针连针）<sup>\[如皋\]</sup>：～棉𧘸子、～被单。<sup>\[如皋\]</sup> ② 用针线连接面子、里子和里面棉花等<sup>\[东台\]</sup>：～被子；～棉袄。<sup>\[东台\]</sup> ③ 缝衣服的一种方法<sup>\[泰县\]</sup>：～棉𧘸子。<sup>\[泰县\]</sup> ④ 用线粗缝棉衣棉被之类，保持夹层棉絮稳定<sup>\[泰州\]</sup>：～被单。<sup>\[泰州\]</sup> ⑤ 一种缝纫法。用针线将里子和面子及夹层物（如棉絮）粗缝起来，使其固定。<sup>\[泰兴\]</sup>  
 1. 【[绗被子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_pi_zz.md#绗被子)】`han2 pi6 zz` <sup>[如东]</sup> 用针线固定被面子和被里子。缝合时，针脚疏密相间，棉线大部分藏在夹层中间。  
 1. 【[绗线](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_xin.md#绗线)】`han2 xin5` <sup>[如皋]</sup> 专用于缝的线，因被绗物不同而有别，常为稍粗的棉线或丝线。  
 1. 【[绗针](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/han_zhen.md#绗针)】`han2 zhen1` <sup>[如皋]</sup> 专用细长棉线针，专用于绗缝。  
@@ -1318,8 +1318,10 @@
 1. 【[贺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu.md#贺)】`hu6` <small>/xʊ1/<sup>如皋</sup></small> ① 祝贺、庆贺<sup>\[如皋\]</sup><sup>\[东台\]</sup>：～寿、～喜。<sup>\[如皋\]</sup>｜帮老人家～寿。<sup>\[东台\]</sup> ② 夸赞以怂恿、激发<sup>\[如皋\]</sup>：伢儿禁不起～，一～就颠狂。<sup>\[如皋\]</sup>  
 1. 【[贺份](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_fen.md#贺份)】`hu6 fen6` <sup>[如东]</sup> 在建造房屋等活动中，亲戚朋友赠送礼物，称贺份。  
 1. 【[贺份酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_fen_jieu.md#贺份酒)】`hu6 fen6 jieu3` <sup>[如东]</sup> 因亲戚朋友赠送贺份而举办的答谢酒筵，叫做贺份酒。  
+1. 【[贺奉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_fon.md#贺奉)】`hu6 fon6` <small>/xɤɯ1 fɔŋ1/<sup>泰兴</sup></small> 拍马；贴相，说好听的话。<sup>\[泰兴\]</sup>  
 1. 【[贺九不贺十](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_jieu_beh_hu.md#贺九不贺十)】`hu6 jieu3 beh7 hu6 sheh8` <sup>[如皋]</sup> 旧俗虚岁逢10称整生日，隆重庆贺。虚岁60称花甲，进入老年期。只贺59虚岁，而不贺60虚岁。此后凡整生日皆～。  
 1. 【[贺年片](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_nin_pin.md#贺年片)】`hu6 nin2 pin5` <sup>[如东]</sup> 春节时寄给亲友祝贺新年的帖片。此俗产生于宋代，称送门状，送飞帖。  
+1. 【[贺生日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_shen_rih.md#贺生日)】`hu6 shen1 rih` <small>/xɤɯ1 səŋ1 iʔ/<sup>泰兴</sup></small> 祝贺生日；贺寿。<sup>\[泰兴\]</sup>  
 1. 【[贺寿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_sheu.md#贺寿)】`hu6 sheu6` <sup>[如东]</sup> 祝贺寿诞，称贺寿。这一天，要举办吃寿面、喝寿酒等隆重的祝寿活动。贺寿，要遵守这样几条规矩：六十岁之前，称过生日，不贺寿；六十岁之后，进入花甲，称寿诞，举行贺寿；父亲在世，儿子不能贺寿，只能叫过生日，名曰“父在子不专”；贺寿的年龄以虚岁记算，有些地区逢九，例如五十九岁、六十九岁、七十九岁、八十九岁、九十九岁等，称贺九不贺十；有些地区逢十，例如六十岁、七十岁、八十岁、九十岁等。  
 1. 【[花子拭巾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_zz_sheh_jien.md#花子拭巾)】`hua zz sheh7 jien1` <sup>[泰州]</sup> 花子用的拭巾，比喻身上穿的衣服邋遢破烂的样子：你也同老孙买两件衣裳，成天～的，要捱人家说的。  
 1. 【[划糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_go.md#划糕)】`hua1 go1` <sup>[东台]</sup> 将糯米粉蒸成糕。（因米粉上糕箱时需用木尺划故名）  
