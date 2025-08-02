@@ -2355,6 +2355,7 @@
 1. 【[瓷实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_sheh.md#瓷实)】`cz2 sheh8` <sup>[兴化]</sup> 结实、扎实：这块老地基蛮～的。  
 1. 【[瓷瓦子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_va_zz.md#瓷瓦子)】`cz2 va3 zz` <sup>[兴化]</sup> 碎瓷片：“……依我的主意……只叫他们垫着～跪在太阳地下……”（《红梦梦》六一）。目也说“碗瓦瓷”。  
 1. 【[祠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz.md#祠)】`cz2` <sup>[东台]</sup> 旧时指供奉鬼神、祖先或先贤的庙堂：家～。  
+1. 【[祠先](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_xin.md#祠先)】`cz2 xin1` <small>/t͡sʰɿ2 ɕĩ1/<sup>泰兴</sup></small> 供美食佳肴于先祖神位前。多于鬼节之日中午。先人去世之日（周年）中午设祭亦曰“祠先”。<sup>\[泰兴\]</sup>  
 1. 【[糍粑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_ba.md#糍粑)】`cz2 ba1` <small>/t͡sʰɿ2 pa1/<sup>兴化</sup>, /t͡sʰɿ2 pa1/<sup>如皋</sup></small> ① 糯米粉做成片状，放在锅中焵熟。<sup>\[如东\]</sup> ② 糯米粉糊用油焵成的甜饼。<sup>\[如皋\]</sup> ③ 油煎糯米蒸饼。喻指粗暴的责难和贬损<sup>\[东台\]</sup>：吃咖你个～。<sup>\[东台\]</sup> ④ 一种食品，用糯米饭和上糖或葱盐做成饼状，再用油煎。<sup>\[兴化\]</sup> ⑤ （借）被人呵斥谓“吃～”。<sup>\[兴化\]</sup> ⑥ 以蒸熟的糯米为原料，用油炸熟的饼，多为长方形。<sup>\[泰州\]</sup> ⑦ 比喻斥责<sup>\[泰州\]</sup>：一上班就吃咖处长一个大～。<sup>\[泰州\]</sup>｜他这刻儿脸色不好，你不要讨～吃。<sup>\[泰州\]</sup>  
 1. 【[糍粑烫脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_ba_tan_lin.md#糍粑烫脸)】`cz2 ba1 tan5 lin3` <sup>[兴化]</sup> 形容呵斥人的汹汹气势：动不动捱他～的，哪个也受不了。  
 1. 【[糍尔糊尔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_er_hv_er.md#糍尔糊尔)】`cz2 er hv2 er` <sup>[如东]</sup> 迷迷糊糊：这个人～的，不能委托他出去办事。  

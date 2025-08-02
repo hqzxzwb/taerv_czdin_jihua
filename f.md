@@ -251,7 +251,7 @@
 1. 【[反正](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_zhen.md#反正)】`faen3 zhen5` <sup>[如皋]</sup> 见“里外里”。  
 1. 【[返重工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_chon_gon.md#返重工)】`faen3 chon2 gon1` <sup>[如东]</sup> 翻工。  
 1. 【[返青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_qien.md#返青)】`faen3 qien1` <small>/fɛ̃3 t͡ɕʰiŋ1/<sup>泰兴</sup></small> 指某些植物的幼苗移栽或越冬后，由黄变绿恢复生长的状态。<sup>\[泰兴\]</sup>  
-1. 【[㽹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen.md#㽹)】`faen5` <small>/fɛ̃5/<sup>兴化</sup></small> ① 恶心，想呕吐<sup>\[东台\]</sup>：作～。（《玉篇》“㽹，吐㽹也。”）<sup>\[东台\]</sup> ② 胃子不舒服，恶心欲吐。《广韵·愿韵》芳万切：“～，吐㽹。”<sup>\[兴化\]</sup>：油腻东西吃多啊，心里作～。<sup>\[兴化\]</sup>｜心里～～的要吐。<sup>\[兴化\]</sup> ③ 反胃，恶心欲吐，见“作㽹”<sup>\[泰州\]</sup>：心里～～的，难过煞咖。<sup>\[泰州\]</sup>  
+1. 【[㽹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen.md#㽹)】`faen5` <small>/fɛ̃5/<sup>兴化</sup>, /fɛ̃5/<sup>泰兴</sup></small> ① 恶心，想呕吐<sup>\[东台\]</sup>：作～。<sup>\[东台\]</sup> ② 胃子不舒服，恶心欲吐。<sup>\[兴化\]</sup>：油腻东西吃多啊，心里作～。<sup>\[兴化\]</sup>｜心里～～的要吐。<sup>\[兴化\]</sup> ③ 反胃，恶心欲吐，见“作㽹”<sup>\[泰州\]</sup>：心里～～的，难过煞咖。<sup>\[泰州\]</sup> ④ 胃里感觉不舒服，恶心作呕。<sup>\[泰兴\]</sup>：作～<sup>\[泰兴\]</sup>  
 1. 【[㽹㽹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_faen.md#㽹㽹)】`faen5 faen5` <sup>[泰县]</sup> 身体不适，要呕吐的样子：昨朝受啊凉，心里头～。  
 1. 【[㽹㽹的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_faen_dii.md#㽹㽹的)】`faen5 faen5 dii` <sup>[泰州]</sup> 恶心欲吐的感觉：先头子心里～，这一刻儿好啊唻。  
 1. 【[㽹酸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_sun.md#㽹酸)】`faen5 sun1` <sup>[泰州]</sup> 胃中酸水顺着食道涌上喉咙：他这刻儿心里～。  
@@ -919,8 +919,8 @@
 1. 【[敷心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_xien.md#敷心)】`fv1 xien1` <sup>[东台]</sup> 极其用心、认真（“敷”有“足、够”之义，故“敷心”可理解为“尽心”“全心”）：多亏你～，这件事才办成功吖。  
 1. 【[稃子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_zz.md#稃子)】`fv1 zz` <sup>[如东]</sup> 小麦等植物花外包着的硬壳。  
 1. 【[肤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv.md#肤)】`fv1` <sup>[东台]</sup> ① 人体表皮：体无完～；切～之痛。 ② 浅薄：我的认识～浅，请多多指教。  
-1. 【[衭领](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_lien.md#衭领)】`fv1 lien3` <small>/fu1 liəŋ3/<sup>如皋</sup></small> ① 前领和衭头处。<sup>\[如皋\]</sup> ② 即衭襟，衣服的前襟<sup>\[东台\]</sup>：一把揪啊他的～就走。<sup>\[东台\]</sup> ③ 上衣服前襟连接衣领口附近部分<sup>\[泰州\]</sup>：老李上去一把就住他的～，就望派出所拉。<sup>\[泰州\]</sup>  
-1. 【[衭头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_teu.md#衭头)】`fv1 teu2` <small>/fu1 tʰɤ2/<sup>兴化</sup>, /fu1 tʰei2/<sup>如皋</sup></small> ① 上衣的前胸处。<sup>\[如皋\]</sup> ② 上衣、袍子前面的部分，即前襟。衭，《广韵·虞韵》甫无切<sup>\[兴化\]</sup>：衣前襟。<sup>\[兴化\]</sup>  
+1. 【[衭领](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_lien.md#衭领)】`fv1 lien3` <small>/fu1 liəŋ3/<sup>如皋</sup>, /fʋ1 liŋ3/<sup>泰兴</sup></small> ① 前领和衭头处。<sup>\[如皋\]</sup> ② 即衭襟，衣服的前襟<sup>\[东台\]</sup>：一把揪啊他的～就走。<sup>\[东台\]</sup> ③ 上衣服前襟连接衣领口附近部分<sup>\[泰州\]</sup>：老李上去一把揪住他的～，就望派出所拉。<sup>\[泰州\]</sup> ④ 衣服的前襟与衣领。泛指衣服前上部。<sup>\[泰兴\]</sup>：抓住他的～<sup>\[泰兴\]</sup>  
+1. 【[衭头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_teu.md#衭头)】`fv1 teu2` <small>/fu1 tʰɤ2/<sup>兴化</sup>, /fu1 tʰei2/<sup>如皋</sup>, /fʋ1 tʰəɪ2/<sup>泰兴</sup></small> ① 上衣的前胸处。<sup>\[如皋\]</sup> ② 上衣、袍子前面的部分，即前襟。<sup>\[兴化\]</sup> ③ 衣服的前襟。<sup>\[泰兴\]</sup>  
 1. 【[衭头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_teu_r.md#衭头<sub>儿</sub>)】`fv1 teu2 r` <sup>[如东]</sup> 衣襟的左上角，称衭头儿。  
 1. 【[麸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_zz.md#麸子)】`fv1 zz` ① 通常指小麦磨面筛过后剩下的麦皮和碎屑。<sup>\[如东\]</sup> ② 通常指小麦磨成面，筛过后剩下的麦皮和碎屑，也称麸皮。<sup>\[东台\]</sup>  
 1. 【[㾰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv.md#㾰)】`fv2` <sup>[如皋]</sup> 儿语，指疼。另音hu2。  

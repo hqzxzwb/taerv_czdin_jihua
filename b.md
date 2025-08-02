@@ -1259,6 +1259,7 @@
 1. 【[扁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin.md#扁)】`bin3` <small>/pĩ3/<sup>如皋</sup>, /piɪ̃3/<sup>泰县</sup></small> ① 平<sup>\[如皋\]</sup>：大～脸。<sup>\[如皋\]</sup> ② 凹<sup>\[如皋\]</sup>：丁香花分公、母，母花是～花。<sup>\[如皋\]</sup> ③ 身体侧斜不正<sup>\[泰县\]</sup>：～过身子。<sup>\[泰县\]</sup>  
 1. 【[扁粑粑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_ba_ba.md#扁粑粑)】`bin3 ba1 ba1` <sup>[如皋]</sup> 状很扁的物体：馒头酵太𣻏，蒸起馒头来不站笼，像个～。这种鱼的身子是～儿。  
 1. 【[扁担肩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_daen_jin_zz.md#扁担肩子)】`bin3 daen jin1 zz` <sup>[如皋]</sup> 扁担两头的止滑装置。木扁担装1-2根短桩，竹扁担削成蛇头形。  
+1. 【[扁担头子上探的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_daen_teu_zz.md#扁担头子上探的)】`bin3 daen teu2 zz shan tun5 dii` <small>/pĩ3 tɛ̃ tʰəɪ2 t͡sɿ sɑŋ tʰʊ̃5 təɪ/<sup>泰兴</sup></small> 自谦者谓才向别人学了一点点。<sup>\[泰兴\]</sup>：我是才从师父扁担头子上探吖点儿<sup>\[泰兴\]</sup>  
 1. 【[扁担系<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_daen_xi_r.md#扁担系<sub>儿</sub>)】`bin3 daen xi6 r` <sup>[如皋]</sup> ① 一付担绳。 ② 一付货络儿。  
 1. 【[扁担](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_daen.md#扁担)】`bin3 daen5` <sup>[如东]</sup> 工具。长条形，木制或竹制。用以挑东西。  
 1. 【[扁担](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_daen.md#扁担)】`bin3 daen5-taen` <sup>[东台]</sup> 挑东西或抬东西的工具，用竹片或木头制成。  
@@ -1266,8 +1267,8 @@
 1. 【[扁担肩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_daen_jin_zz.md#扁担肩子)】`bin3 daen5 jin1 zz` <sup>[如东]</sup> 扁担两端的装置，木扁担钉两根桩儿，竹扁担做成蘑姑形，起阻止扁担绳滑脱作用。  
 1. 【[扁担绳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_daen_shen.md#扁担绳)】`bin3 daen5 shen2` <sup>[如东]</sup> 专用麻绳，一头粗，一头细，粗的一头系着钩子。  
 1. 【[扁弓理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_gon_li.md#扁弓理)】`bin3 gon1-goh7 li3` <sup>[泰州]</sup> 歪理：你的车子撞吖人家，不同人家上医院看，还要人家赔你的车子，这是讲的哪一家的～！｜凡事有个先来后到，你在人家后头来的，还讲～怪人家不让你先买，真不曾见过像你这吖不讲理的人。  
-1. 【[扁螂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_lan.md#扁螂)】`bin3 lan` <small>/pĩ3 lã/<sup>如皋</sup>, /piɪ̃3 nɑŋ/<sup>泰县</sup></small> ① 温带臭虫。昆虫纲，半翅目。<sup>\[如皋\]</sup> ② 臭虫。<sup>\[泰县\]</sup>  
-1. 【[扁螂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_lan.md#扁螂)】`bin3 lan2` <small>/piɪ̃3 nɑŋ2/<sup>泰县</sup></small> ① 一种臭虫，体呈扁形，寄生在居室环境中，吸人血的害虫。<sup>\[东台\]</sup> ② 臭虫：床上有～。<sup>\[泰县\]</sup>  
+1. 【[扁螂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_lan.md#扁螂)】`bin3 lan` <small>/pĩ3 lã/<sup>如皋</sup>, /pĩ3 lɑŋ/<sup>泰兴</sup>, /piɪ̃3 nɑŋ/<sup>泰县</sup></small> ① 温带臭虫。昆虫纲，半翅目。<sup>\[如皋\]</sup> ② 臭虫。<sup>\[泰县\]</sup><sup>\[泰兴\]</sup>  
+1. 【[扁螂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_lan.md#扁螂)】`bin3 lan2` 一种臭虫，体呈扁形，寄生在居室环境中，吸人血的害虫。<sup>\[东台\]</sup>  
 1. 【[扁毛畜牲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_mo_choh_shen.md#扁毛畜牲)】`bin3 mo2 choh7 shen` <sup>[如皋]</sup> 指禽类。  
 1. 【[扁毛畜生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_mo_choh_shen.md#扁毛畜生)】`bin3 mo2 choh7 shen` <sup>[兴化]</sup> 指鸟类：“这个～！猫嚼头的亡人！把我们衣服都雕去了”（《西游记》七二）  
 1. 【[扁毛众生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_mo_zhon_shen.md#扁毛众生)】`bin3 mo2 zhon1 shen1` <sup>[如东]</sup> 禽类，羽毛呈扁状，如鸡、鸭、鹅等。  
@@ -1276,9 +1277,10 @@
 1. 【[扁食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_sheh.md#扁食)】`bin3 sheh8` <sup>[如东]</sup> ① 馄饨，也称饺儿 ② 节令食品。用小麦面做皮子，糖、芝麻、花生末做馅儿，包成各种形状，如畚箕状、针箍状、帽子状等，煮熟或蒸熟，在阴历七月十五日早晨吃。  
 1. 【[扁塌塌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_taeh_taeh.md#扁塌塌)】`bin3 taeh7 taeh7` <sup>[如皋]</sup> 见“扁粑粑”。  
 1. 【[扁螳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_tan.md#扁螳)】`bin3 tan2` <sup>[兴化]</sup> 壁虱。也称“臭壁”“臭虫”。  
-1. 【[扁豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_teu.md#扁豆)】`bin3 teu6` ① 豆科植物扁豆。 ② 一年生草本植物，嫩荚是普通蔬菜，白～种子可入药。<sup>\[东台\]</sup> ③ 一年生草本植物，花白色或紫色。<sup>\[泰州\]</sup>  
+1. 【[扁豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_teu.md#扁豆)】`bin3 teu6` <small>/pĩ3 tʰəɪ1/<sup>泰兴</sup></small> ① 豆科植物扁豆。 ② 一年生草本植物，嫩荚是普通蔬菜，白～种子可入药。<sup>\[东台\]</sup> ③ 一年生草本植物，花白色或紫色。<sup>\[泰州\]</sup> ④ 一年生草本植物，荚果扁平。蔬菜。嫩时焯后晒干，与荤共烹，作佳肴，乡人极喜食。<sup>\[泰兴\]</sup>  
 1. 【[扁豆架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_teu_ga_zz.md#扁豆架子)】`bin3 teu6 ga5 zz` <sup>[兴化]</sup> 芦柴扎成的连续方格，供扁豆牵藤用。  
 1. 【[扁豆衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_teu_i.md#扁豆衣)】`bin3 teu6 i1` <sup>[如东]</sup> 豆科植物扁豆的干燥种皮。  
+1. 【[扁团](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_tun.md#扁团)】`bin3 tun2` <small>/pĩ3 tʰʊ̃2/<sup>泰兴</sup></small> 食品。以荞麦面包馅蒸熟，因其状扁而圆，故名。<sup>\[泰兴\]</sup>  
 1. 【[扁蟢蟢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_xi_xi_r.md#扁蟢蟢<sub>儿</sub>)】`bin3 xi3 xi3 r` <sup>[如皋]</sup> 壁蛛。  
 1. 【[扁砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_zhun.md#扁砖)】`bin3 zhun1` <sup>[如东]</sup> 砖块平放，称扁砖。  
 1. 【[扁砖墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_zhun_qian.md#扁砖墙)】`bin3 zhun1 qian2` <sup>[如皋]</sup> 见“平砖墙”。  

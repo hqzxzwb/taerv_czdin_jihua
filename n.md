@@ -1656,6 +1656,7 @@
 1. 【[内兄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nuei_xion.md#内兄)】`nuei6 xion1` <sup>[如东]</sup> 妻子的哥哥。  
 1. 【[内庄抄发](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nuei_zhuan_cho_faeh.md#内庄抄发)】`nuei6 zhuan1 cho1 faeh7` <sup>[如皋]</sup> 内庄，内设批发部。抄，照本抄号，不赚钱。  
 1. 【[挪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nuh.md#挪)】`nuh8` <sup>[如皋]</sup> ① 小移动：屁股～下子。 ② 移用。  
+1. 【[挪掇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nuh_duh.md#挪掇)】`nuh8 duh7` <small>/nʊʔ8 tʊʔ7/<sup>泰兴</sup></small> 行动迟钝，不爽利、不方便的样子。<sup>\[泰兴\]</sup>  
 1. 【[挪动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nuh_ton.md#挪动)】`nuh8 ton` <small>/nʊʔ8 tʰɔŋ/<sup>泰兴</sup></small> 移动。<sup>\[泰兴\]</sup>  
 1. 【[纳福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nuh_foh.md#纳福)】`nuh8 foh7` <sup>[如皋]</sup> 享福。  
 1. 【[衲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nuh_zz.md#衲子)】`nuh8 zz` <small>/luʔ8 t͡sɿ/<sup>兴化</sup>, /nʊʔ8 t͡sɿ/<sup>如皋</sup>, /nʊʔ8 t͡se/<sup>泰县</sup></small> 尿布<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>\[兴化：特指双层或铺了棉絮的垫子\]：尿布～。<sup>\[兴化\]</sup>  

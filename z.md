@@ -397,6 +397,7 @@
 1. 【[炸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha.md#炸)】`zha5` <sup>[如皋]</sup> 胀：头疼吖～下来啊！  
 1. 【[炸炒米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_cho_mi.md#炸炒米)】`zha5 cho3 mi3` <small>/t͡sa5 t͡sʰɔ3 mi3/<sup>兴化</sup>, /t͡sa5 t͡sʰɔ3 mɿ3/<sup>泰县</sup></small> ① 用炒米机膨化大米。<sup>\[东台\]</sup> ② 爆米花。<sup>\[兴化\]</sup> ③ 爆米花。<sup>\[泰县\]</sup>  
 1. 【[炸箍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_gv.md#炸箍)】`zha5 gv1` <sup>[兴化]</sup> ① 木桶的箍因过紧而开裂：谚曰：箍紧必炸。 ② 箍成木桶的板块因干燥收缩而脱落。  
+1. 【[炸金花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_jien_hua.md#炸金花)】`zha5 jien1 hua1` <small>/t͡sɑ5 t͡ɕiŋ1 xuɑ1/<sup>泰兴</sup></small> 扑克娱乐形式之一。有时用于赌博。<sup>\[泰兴\]</sup>  
 1. 【[炸雷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_luei.md#炸雷)】`zha5 luei2` <small>/t͡sa5 luəi2/<sup>兴化</sup></small> ① 雷声就像爆竹一样在附近炸响，清脆而响亮。<sup>\[如东\]</sup> ② 近处发生闪电而产生的巨响。<sup>\[兴化\]</sup>  
 1. 【[炸雷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_ly.md#炸雷)】`zha5 ly2` <sup>[如皋]</sup> 雷声极响，惊天动地。  
 1. 【[炸麻串](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_ma_chun.md#炸麻串)】`zha5 ma2 chun5` <sup>[东台]</sup> （堤东口音中串若团，去声）正月半民俗，用柴草扎成把子点燃后沿着田埂河边舞动。既是呼应普天同庆的元宵灯火，也是祈求新年丰收红火。童谣：“正月半，～，拾个穗头称斤半，爹爹称，奶奶看。”  
@@ -2192,6 +2193,7 @@
 1. 【[钻工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zun_gon.md#钻工)】`zun5 gon1` <sup>[如东]</sup> 工种的一种。以操纵钻床为职业的工人。  
 1. 【[租得来的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zv_deh_lae_dii.md#租得来的)】`zv1 deh lae2 dii` <sup>[东台]</sup> 嘲笑别人老穿同一件衣服，天气热了也不脱，就像交了租金，不穿白不穿似的。  
 1. 【[租金](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zv_jien.md#租金)】`zv1 jien1` <sup>[如东]</sup> 出租物品的价钱。  
+1. 【[祖传](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zv_chun.md#祖传)】`zv3 chun2` <small>/t͡su3 t͡sʰʊ̃2/<sup>泰兴</sup></small> 祖宗所传留的东西。有时指人的秉性。<sup>\[泰兴\]</sup>  
 1. 【[祖坟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zv_fen.md#祖坟)】`zv3 fen2` <sup>[如东]</sup> 埋葬祖宗的坟地。  
 1. 【[祖父](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zv_fv.md#祖父)】`zv3 fv6` <sup>[如东]</sup> 父亲的父亲。也称爷爷、老老。  
 1. 【[祖茔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zv_ien.md#祖茔)】`zv3 ien2` <sup>[如东]</sup> 祖坟。  
@@ -2199,16 +2201,19 @@
 1. 【[祖老太](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zv_lo_tae.md#祖老太)】`zv3 lo3 tae5` <sup>[如皋]</sup> 见“祖老爹”。  
 1. 【[祖母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zv_mu.md#祖母)】`zv3 mu3` <sup>[如东]</sup> 父亲的母亲。也称奶奶。  
 1. 【[祖奶奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zv_nae_nae.md#祖奶奶)】`zv3 nae3 nae` <small>/t͡su3 lɛ3 lɛ/<sup>兴化</sup></small> ① 高祖母。<sup>\[如东\]</sup> ② 女性中辈分较高者。<sup>\[兴化\]</sup> ③ 泼辣女性的自称，犹自称“祖宗”。<sup>\[兴化\]</sup>  
+1. 【[祖上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zv_shan.md#祖上)】`zv3 shan` <small>/t͡su3 sɑŋ/<sup>泰兴</sup></small> 祖先；上代。<sup>\[泰兴\]</sup>：乡人云：“要得饱，隔夜饱；要得好，～好。”<sup>\[泰兴\]</sup>  
 1. 【[祖上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zv_shan.md#祖上)】`zv3 shan6` <sup>[如东]</sup> 先辈：这个是～留下来的资产。  
 1. 【[祖孙八代](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zv_suen_baeh_tae.md#祖孙八代)】`zv3 suen1 baeh7 tae6` <sup>[如东]</sup> 祖祖辈辈：希望你家～都兴旺。  
 1. 【[祖太太](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zv_tae_tae.md#祖太太)】`zv3 tae5 tae` <sup>[如东]</sup> 高祖父。  
 1. 【[祖代相传](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zv_tae_xian_chun.md#祖代相传)】`zv3 tae6 xian5 chun2` <sup>[如东]</sup> 家族的风俗或技术一代一代地向下流传：李家勤俭的风俗～。  
 1. 【[祖先龛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zv_xin_kun_zz.md#祖先龛子)】`zv3 xin1 kun1 zz` <sup>[东台]</sup> 摆放历代祖先木牌位神主的仿真亭阁。  
+1. 【[祖宗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zv_zon.md#祖宗)】`zv3 zon` <small>/t͡su3 t͡sɔŋ/<sup>泰兴</sup></small> 泛指祖先。<sup>\[泰兴\]</sup>  
 1. 【[祖宗八代](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zv_zon_baeh_tae.md#祖宗八代)】`zv3 zon baeh7 tae6` <sup>[兴化]</sup> 列祖列宗。极言“祖宗十八代”。  
+1. 【[祖宗八代](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zv_zon_baeh_tae.md#祖宗八代)】`zv3 zon baeh7 tae6` <small>/t͡su3 t͡sɔŋ pæʔ7 tʰɛ1/<sup>泰兴</sup></small> 泛指祖宗上辈。常用于骂人或对人鄙夷的场合。<sup>\[泰兴\]</sup>  
 1. 【[祖宗十八代](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zv_zon_sheh_baeh.md#祖宗十八代)】`zv3 zon sheh8 baeh7 tae6` <sup>[兴化]</sup> 列祖列宗。  
 1. 【[祖宗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zv_zon.md#祖宗)】`zv3 zon1` <sup>[如东]</sup> ① 对长辈的通称。 ② 年尊的长者。 ③ 对儿子的既疼爱又批评的称呼：我的～，你不要调皮！  
 1. 【[祖宗八代](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zv_zon_baeh_tae.md#祖宗八代)】`zv3 zon1 baeh7 tae6` <sup>[东台]</sup> 通常指从自己的父母向止，依次序为祖父母、曾祖父母、高祖父母、天祖父母、烈祖父母、太祖父母、远祖父母、鼻祖父母。（向下的次序见“屑屑孙儿”）  
-1. 【[祖宗亡人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zv_zon_van_ren.md#祖宗亡人)】`zv3 zon1 van2 ren2` ① 已经死亡的前辈。<sup>\[如东\]</sup> ② 已故长辈。清明、农历七月半、冬至和大年三十民间有敬一的习俗，“早烧清明（祭奠）晚烧冬（冬至），七月半等不到小日中”。<sup>\[东台\]</sup>  
+1. 【[祖宗亡人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zv_zon_van_ren.md#祖宗亡人)】`zv3 zon1 van2 ren2` <small>/t͡su3 t͡sɔŋ uɑŋ2 ɻəŋ2/<sup>泰兴</sup></small> ① 已经死亡的前辈。<sup>\[如东\]</sup> ② 已故长辈。清明、农历七月半、冬至和大年三十民间有敬一的习俗，“早烧清明（祭奠）晚烧冬（冬至），七月半等不到小日中”。<sup>\[东台\]</sup> ③ 过世的祖先。<sup>\[泰兴\]</sup>  
 1. 【[阻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zv.md#阻)】`zv3` <small>/t͡su3/<sup>如皋</sup>, /t͡su3/<sup>泰县</sup></small> ① 指顶塞，胀闷感<sup>\[如皋\]</sup>：心门口觉察～着咖<sup>\[如皋\]</sup>｜他吃得太多，一直～到喉咙管儿。<sup>\[如皋\]</sup> ② 挡，拦。<sup>\[如东\]</sup>：你要把他～住，那许不能去。<sup>\[如东\]</sup> ③ 满<sup>\[泰县\]</sup>：东西太多，一直～到门口。<sup>\[泰县\]</sup> ④ 挡<sup>\[泰县\]</sup>：这块木头～啊路上。<sup>\[泰县\]</sup> ⑤ 挡，位于使人不能前进之处<sup>\[泰州\]</sup>：他～啊在大门口，外头人进不来。<sup>\[泰州\]</sup> ⑥ 堵<sup>\[泰州\]</sup>：他早上吃的粽子，到这一刻儿还～在心里，难过得狠。<sup>\[泰州\]</sup>  
 1. 【[阻嘴棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zv_jy_pan.md#阻嘴棒)】`zv3 jy3 pan6` <sup>[泰县]</sup> 磨房里顶住牲口嘴，不让它偷吃的棍子。  
 1. 【[阻老<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zv_lo_r.md#阻老<sub>儿</sub>)】`zv3 lo3 r` <sup>[兴化]</sup> 最后、边缘：他家住啊庄西头～一家。  

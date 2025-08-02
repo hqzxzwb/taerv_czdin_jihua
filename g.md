@@ -1858,6 +1858,7 @@
 1. 【[颌腮墩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_sae_den_r.md#颌腮墩<sub>儿</sub>)】`guh7 sae1 den1 r` <sup>[如皋]</sup> 见“颌腮”。  
 1. 【[鸽子窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_zz_ku.md#鸽子窠)】`guh7 zz ku1` <small>/kuʔ7 t͡sɿ kʰo1/<sup>兴化</sup></small> ① 指鸽子居住的窝棚。<sup>\[东台\]</sup> ② 一种砖墙结构，也喻指居住的环境窄小。<sup>\[东台\]</sup> ③ （喻）一种空心墙<sup>\[兴化\]</sup>：砌～的墙。<sup>\[兴化\]</sup> ④ （借）形容房舍窄小<sup>\[兴化\]</sup>：他俫几个人挤啊一间～里。<sup>\[兴化\]</sup> ⑤ 养鸽子的人为家鸽搭建的方格形小窝。<sup>\[泰州\]</sup> ⑥ 比喻居住之处狭小。<sup>\[泰州\]</sup>  
 1. 【[鸽子眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_zz_ngaen.md#鸽子眼)】`guh7 zz ngaen3` <sup>[泰县]</sup> 玉米。  
+1. 【[冠子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_zz.md#冠子)】`gun1 zz` <small>/kʊ̃1 t͡sɿ/<sup>泰兴</sup></small> 禽鸟类头上冠状突起物。多为红色。<sup>\[泰兴\]</sup>：鸡～<sup>\[泰兴\]</sup>  
 1. 【[官](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun.md#官)】`gun1` <sup>[兴化]</sup> 指公众的、较大的：～街；～巷；～河（干河）；～道（人道）。  
 1. 【[官不大，僚不小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_beh_da_lio.md#官不大，僚不小)】`gun1 beh7 da6 lio2 beh7 xio3` <sup>[东台]</sup> 指少数地位、级别并不十分高的官员的官僚主义作风。  
 1. 【[官不限病人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_beh_xiaen_pien.md#官不限病人)】`gun1 beh7 xiaen6 pien6 ren2` <sup>[东台]</sup> 对有病的人理当放宽要求。  

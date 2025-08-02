@@ -920,10 +920,12 @@
 1. 【[体面担子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_min_daen_zz.md#体面担子)】`ti3 min daen5 zz` <small>/t͡ɕʰʝ3 mĩ tɛ̃5 t͡sɿ/<sup>泰兴</sup></small> 民俗。婚庆之日，男方去女方迎亲，房族中一能人必挑一十分漂亮体面的装有各种礼品的担子随迎亲队伍去女方家，女方家迎接并收礼、还礼，作正式亲戚往来。<sup>\[泰兴\]</sup>  
 1. 【[剃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti.md#剃)】`ti5` <sup>[如东]</sup> 把物体锯断：你用锯子把这根木头～掉。  
 1. 【[剃光头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_guan_teu.md#剃光头)】`ti5 guan1 teu2` <sup>[东台]</sup> 在计分比赛中一分未得，或一局未贏，又称送鸭蛋。  
+1. 【[剃光头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_guan_teu.md#剃光头)】`ti5 guan1 teu2` <small>/t͡ɕʰʝ5 kuɑŋ1 tʰəɪ2/<sup>泰兴</sup></small> 本指剃光头发。喻在比赛、竞争中没有取得任何名次或一分未得。<sup>\[泰兴\]</sup>  
 1. 【[剃头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_teu.md#剃头)】`ti5 teu2` <small>/tʰʝ5 tʰei2/<sup>如皋</sup></small> ① 用剃刀剃去头发。或泛指理发。<sup>\[如皋\]</sup><sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰州\]</sup> ② 教训某人<sup>\[如皋\]</sup>：给某人～。<sup>\[如皋\]</sup>  
-1. 【[剃头店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_teu_din.md#剃头店)】`ti5 teu2 din5` <sup>[如皋]</sup> 理发店。  
+1. 【[剃头店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_teu_din.md#剃头店)】`ti5 teu2 din5` <small>/tʰʝ5 tʰei2 tĩ5/<sup>如皋</sup>, /t͡ɕʰʝ5 tʰəɪ2 tĩ5/<sup>泰兴</sup></small> 理发店<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
+1. 【[剃头刀子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_teu_do_zz.md#剃头刀子)】`ti5 teu2 do1 zz` <small>/t͡ɕʰʝ5 tʰəɪ2 tɔ1 t͡sɿ/<sup>泰兴</sup></small> 剃刀。<sup>\[泰兴\]</sup>  
 1. 【[剃头匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_teu_qian.md#剃头匠)】`ti5 teu2 qian` <sup>[东台]</sup> 理发师的俗称。  
-1. 【[剃头匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_teu_qian.md#剃头匠)】`ti5 teu2 qian6` <small>/tʰʝ5 tʰei2 t͡ɕʰiã1/<sup>如皋</sup></small> ① 理发师的旧称。<sup>\[如皋\]</sup> ② 理发师。<sup>\[如皋\]</sup>  
+1. 【[剃头匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_teu_qian.md#剃头匠)】`ti5 teu2 qian6` <small>/tʰʝ5 tʰei2 t͡ɕʰiã1/<sup>如皋</sup>, /t͡ɕʰʝ5 tʰəɪ2 t͡ɕʰiɑŋ1/<sup>泰兴</sup></small> 理发师。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
 1. 【[剃头匠的担子——一头热](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_teu_qian_dii.md#剃头匠的担子——一头热)】`ti5 teu2 qian6 dii daen5 zz ieh7 teu2 rih8` <sup>[东台]</sup>   
 1. 【[替](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti.md#替)】`ti5` <small>/tʰəi5/<sup>兴化</sup>, /tʰʝ5/<sup>如皋</sup></small> ① 连词“和、跟、同”<sup>\[如皋\]</sup>：我～你一齐儿去。<sup>\[如皋\]</sup> ② 介词“代、帮、给”<sup>\[如皋\]</sup>：你～他去还书。<sup>\[如皋\]</sup> ③ 动词“代替、协助”<sup>\[如皋\]</sup>：～手脚，找～身。<sup>\[如皋\]</sup> ④ 量词，相当“批”“次”<sup>\[兴化\]</sup>：你不在家，几～人寻过你啊。<sup>\[兴化\]</sup>｜“昨日所约如何？褚家又是三五～入我家来过了。”（《初刻》十三）<sup>\[兴化\]</sup>  
 1. 【[替差](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_cha.md#替差)】`ti5 cha1` <sup>[东台]</sup> 顶替别人做某件事。  
