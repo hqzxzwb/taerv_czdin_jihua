@@ -830,7 +830,7 @@
 1. 【[高桩平顶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_zhuan_pien_dien.md#高桩平顶)】`go1 zhuan1 pien2 dien3` <sup>[兴化]</sup> 一种男子的发式，即“小平头”。  
 1. 【[高祖父](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_zv_fv.md#高祖父)】`go1 zv3 fv6` <sup>[如东]</sup> 父亲的曾祖父。  
 1. 【[高祖母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_zv_mu.md#高祖母)】`go1 zv3 mu3` <sup>[如东]</sup> 父亲的曾祖母。  
-1. 【[㽱肠痧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_chan_sha.md#㽱肠痧)】`go3 chan2 sha1` <small>/kɔ3 t͡sʰaŋ2 sa1/<sup>兴化</sup>, /kɔ3 t͡sʰã2 sa1/<sup>如皋</sup></small> ① 中医病名。西医叫阑尾炎。俗称盲肠炎。<sup>\[如皋\]</sup> ② 一种腹部剧痛的病症。㽱，《广韵·巧的》古巧切：腹中急痛。<sup>\[兴化\]</sup>  
+1. 【[㽱肠痧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_chan_sha.md#㽱肠痧)】`go3 chan2 sha1` <small>/kɔ3 t͡sʰaŋ2 sa1/<sup>兴化</sup>, /kɔ3 t͡sʰã2 sa1/<sup>如皋</sup>, /kɔ3 t͡sʰɑŋ2 sɑ1/<sup>泰兴</sup></small> ① 中医病名。西医叫阑尾炎。俗称盲肠炎。<sup>\[如皋\]</sup> ② 一种腹部剧痛的病症。㽱，《广韵·巧的》古巧切：腹中急痛。<sup>\[兴化\]</sup> ③ 肠梗阻。<sup>\[泰兴\]</sup> ④ 中医特指不吐不泻而有剧烈腹痛的霍乱病人。<sup>\[泰州\]</sup>  
 1. 【[㽱人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_ren.md#㽱人)】`go3 ren` <sup>[如皋]</sup> 胃酸多，胃不适。  
 1. 【[㽱人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_ren_zz.md#㽱人子)】`go3 ren zz` <sup>[如皋]</sup> 见“㽱人”。  
 1. 【[㽱人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_ren.md#㽱人)】`go3 ren2` ① 胃部不舒服，有绞痛感觉。<sup>\[如东\]</sup> ② 胃难受，像被搅动似的。<sup>\[东台\]</sup>  
@@ -865,12 +865,12 @@
 1. 【[杲昃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_zeh.md#杲昃)】`go3 zeh7, go3 zz` 东西，物事：你在做甚的～。  
 1. 【[杲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_zz.md#杲子)】`go3 zz` <small>/kɔ3 t͡sɿ/<sup>兴化</sup>, /kɔ3 t͡sɿ/<sup>如皋</sup>, /kɔ3 t͡sɿ/<sup>泰兴</sup>, /kɔ3 t͡se/<sup>泰县</sup></small> ① 东西，事物。<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>\[如皋：这是泰如口语中最有代表性的词之一。北方官话为“东西”，吴语为“物事”。\]：这是甚的～？<sup>\[如东\]</sup>｜这～真不错。<sup>\[泰县\]</sup>｜你在街上买啊些甚的～家来啊？<sup>\[泰州\]</sup> ② 道理。<sup>\[如东\]</sup><sup>\[兴化\]</sup>：这个伢儿不晓得～，请你多多关照。<sup>\[如东\]</sup>｜这个小儿蛮懂～的。<sup>\[兴化\]</sup>  
 1. 【[绞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go.md#绞)】`go3` <sup>[泰县]</sup> 纠缠：这框线都～住块儿。  
-1. 【[绞肠痧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_chan_sha.md#绞肠痧)】`go3 chan2 sha1` <sup>[泰州]</sup> 中医特指不吐不泻而有剧烈腹痛的霍乱病人。  
 1. 【[绞担绳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_daen_shen.md#绞担绳)】`go3 daen5 shen2` <sup>[如皋]</sup> 手工绞制挑担的麻绳，一般三股。  
 1. 【[绞吊桶绳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_dio_ton_shen.md#绞吊桶绳)】`go3 dio5 ton3 shen2` <sup>[如皋]</sup> 手工绞制吊桶用的草绳。  
 1. 【[绞绞<sub>儿</sub>理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_go_r_li.md#绞绞<sub>儿</sub>理)】`go3 go r li3` <small>/kɔ3 kɔ˞ lʝ3/<sup>如皋</sup></small> 不正当的理由、或故意胡蛮缠的歪理。<sup>\[如皋\]</sup>  
 1. 【[绞关](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_guaen.md#绞关)】`go3 guaen1` <sup>[如东]</sup> ① 盘车上的推杠。 ② 控制水车升降的木棍。  
-1. 【[绞䌁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_io_zz.md#绞䌁子)】`go3 io5 zz` <small>/kɔ3 iɔ5 t͡sɿ/<sup>兴化</sup>, /kɔ3 iɔ5 t͡sɿ/<sup>如皋</sup>, /kɔ3 iɔ5 t͡se/<sup>泰县</sup></small> ① 用草拧成纹路很粗的绳。<sup>\[如东\]</sup> ② 比喻不停地无理纠缠。<sup>\[如东\]</sup>：她又在下～。<sup>\[如东\]</sup> ③ 搞事情。<sup>\[如皋\]</sup> ④ 将稻草等扭成束，用来捆扎稭秆、蔬菜等物。<sup>\[兴化\]</sup> ⑤ （喻）幼儿扭来扭去<sup>\[兴化\]</sup>：这孩子抱啊手上就像～。<sup>\[兴化\]</sup> ⑥ 用草绞紧捆东西。<sup>\[泰县\]</sup>  
+1. 【[绞䌁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_io_zz.md#绞䌁子)】`go3 io5 zz` <small>/kɔ3 iɔ5 t͡sɿ/<sup>兴化</sup>, /kɔ3 iɔ5 t͡sɿ/<sup>如皋</sup>, /kɔ3 iɔ5 t͡sɿ/<sup>泰兴</sup>, /kɔ3 iɔ5 t͡se/<sup>泰县</sup></small> ① 用草拧成纹路很粗的绳。<sup>\[如东\]</sup> ② 比喻不停地无理纠缠。<sup>\[如东\]</sup>：她又在下～。<sup>\[如东\]</sup> ③ 搞事情。<sup>\[如皋\]</sup> ④ 将稻草等扭成束，用来捆扎稭秆、蔬菜等物。<sup>\[兴化\]</sup> ⑤ （喻）幼儿扭来扭去<sup>\[兴化\]</sup>：这孩子抱啊手上就像～。<sup>\[兴化\]</sup> ⑥ 用草绞紧捆东西。<sup>\[泰县\]</sup> ⑦ 用麦、稻草绞成简易的索子。<sup>\[泰兴\]</sup>  
+1. 【[绞赖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_lae_zz.md#绞赖子)】`go3 lae6 zz` <small>/kɔ3 lɛ1 t͡sɿ/<sup>泰兴</sup></small> 相互抵赖、辩驳。<sup>\[泰兴\]</sup>  
 1. 【[绞<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_r.md#绞<sub>儿</sub>)】`go3 r` <sup>[如皋]</sup> 量词。适用于纱、丝、线等：一～线、一个～的生丝。  
 1. 【[绞绳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_shen.md#绞绳)】`go3 shen2` <sup>[如东]</sup> 加工绳索。有一个人进行的，也有两个人进行的。  
 1. 【[绞绳架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_shen_ga_zz.md#绞绳架子)】`go3 shen2 ga5 zz` <sup>[如皋]</sup> 制作麻绳的木架。  

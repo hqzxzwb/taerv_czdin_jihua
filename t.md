@@ -1868,6 +1868,7 @@
 1. 【[统共](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_kon.md#统共)】`ton3 kon6` <small>/tʰɔŋ3 kʰɔŋ1/<sup>如皋</sup>, /tʰoŋ3 kʰoŋ1/<sup>泰县</sup></small> ① 一共，合计。<sup>\[如皋\]</sup> ② 全部。<sup>\[如东\]</sup>：～多少？<sup>\[如东\]</sup> ③ 统统，一共。<sup>\[东台\]</sup> ④ 全部：我～只有三张票。<sup>\[泰县\]</sup>  
 1. 【[统吃黄汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_qieh_huan_tan.md#统吃黄汤)】`ton3 qieh7 huan2 tan1` <sup>[如东]</sup> 全部收归自己：这些海货，王扬明～。  
 1. 【[统统](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_ton.md#统统)】`ton3 ton` <sup>[泰县]</sup> 都：请你俫～～去。  
+1. 【[统子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_zz.md#统子)】`ton3 zz` <small>/tʰɔŋ3 t͡sɿ/<sup>泰兴</sup></small> 作衣服用的毛皮料子的俗称。<sup>\[泰兴\]</sup>：皮～<sup>\[泰兴\]</sup>  
 1. 【[痛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton.md#痛)】`ton5` <sup>[如东]</sup> 疼痛。  
 1. 【[痛兮兮的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_xi_xi_dii.md#痛兮兮的)】`ton5 xi xi dii` <sup>[如皋]</sup> 有点儿痛。  
 1. 【[蘣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton.md#蘣)】`ton5` <small>/tʰoŋ5/<sup>兴化</sup>, /tʰɔŋ5/<sup>如皋</sup>, /tʰoŋ5/<sup>泰县</sup></small> ① 可爱，俊美 ② 俊美、可爱。<sup>\[如皋\]</sup> ③ 撒娇<sup>\[如皋\]</sup><sup>\[兴化\]</sup>：发～<sup>\[如皋\]</sup>｜～相<sup>\[兴化\]</sup>｜覅～<sup>\[兴化\]</sup> ④ 长相漂亮，惹人喜爱。<sup>\[如东\]</sup>：这个伢儿长得～哎。<sup>\[如东\]</sup> ⑤ 指长相标致、漂亮，多数情况下指小孩。<sup>\[东台\]</sup> ⑥ 可爱、漂亮<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：这个伢儿～哎。<sup>\[兴化\]</sup>｜～肉<sup>\[兴化\]</sup>｜～娇娇<sup>\[兴化\]</sup>｜小吴的对象生得蛮～的。<sup>\[兴化\]</sup>｜这个伢儿真～吖<sup>\[泰县\]</sup>｜他家细丫头长啊～得加思唻。<sup>\[泰州\]</sup> ⑦ 讥讽成年人言行幼稚<sup>\[泰州\]</sup>：这个马马儿成天就像～煞咖，不晓得自己是多大的个人唻。<sup>\[泰州\]</sup>  
@@ -2027,6 +2028,7 @@
 1. 【[退悔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_huei.md#退悔)】`tuei5 huei3` <sup>[兴化]</sup> 退亲、悔亲：小唐见未婚夫不长进，对婚约产生了～之意。  
 1. 【[退婚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_huen.md#退婚)】`tuei5 huen1` <sup>[如东]</sup> 解除婚约；离婚。  
 1. 【[退炕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_kan.md#退炕)】`tuei5 kan5` <sup>[兴化]</sup> 体温由高降到正常。‖也说“退烧”“退热”。  
+1. 【[退皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_pi.md#退皮)】`tuei5 pi2` <small>/tʰəɪ5 pʰʝ2/<sup>泰兴</sup></small> 去除所称货物的外包装的重量。<sup>\[泰兴\]</sup>  
 1. 【[退步](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_pv.md#退步)】`tuei5 pv6` <sup>[如东]</sup> 向后移步。比喻思想、工作等不如以前了。  
 1. 【[退热](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_rih.md#退热)】`tuei5 rih8` <sup>[兴化]</sup> 体温由高降到正常。  
 1. 【[退烧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_sho.md#退烧)】`tuei5 sho1` <sup>[兴化]</sup> 体温由高降到正常。  
