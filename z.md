@@ -1080,8 +1080,7 @@
 1. 【[沼虾<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_ha_r.md#沼虾<sub>儿</sub>)】`zho3 ha1 r` <sup>[如皋]</sup> 青虾。  
 1. 【[沼虾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_xia.md#沼虾)】`zho3 xia1` <sup>[东台]</sup> 又称青虾，淡水河里生长的虾，属于长臂虾科。旧时也写作“早虾”。  
 1. 【[爪牙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_nga.md#爪牙)】`zho3 nga2` <sup>[东台]</sup> 坏人的党羽、帮手。  
-1. 【[爪筢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_pa_r.md#爪筢<sub>儿</sub>)】`zho3 pa2 r` <sup>[如皋]</sup> 拉集乱草的多齿筢。用毛竹或铁丝制造头部，加长柄。  
-1. 【[爪筢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_pa_r.md#爪筢<sub>儿</sub>)】`zho3 pa2 r` <sup>[如东]</sup> 工具。条状毛竹经过热加工，头部制成弯钩，拼成扇形，一般14齿。用作筢草。  
+1. 【[爪筢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_pa_r.md#爪筢<sub>儿</sub>)】`zho3 pa2 r` <small>/t͡sɔ3 pʰa˞2/<sup>如皋</sup></small> ① 拉集乱草的多齿筢。用毛竹或铁丝制造头部，加长柄。<sup>\[如皋\]</sup> ② 工具。条状毛竹经过热加工，头部制成弯钩，拼成扇形，一般14齿。用作筢草。<sup>\[如东\]</sup>  
 1. 【[笊漏<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_leu_r.md#笊漏<sub>儿</sub>)】`zho3 leu r` <small>/t͡sɔ3 lei˞/<sup>如皋</sup></small> 篾丝或金属丝编成的漏勺儿。<sup>\[东台\]</sup><sup>\[如皋\]</sup>：下饺子要用～捞。<sup>\[东台\]</sup>  
 1. 【[笊篱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_li.md#笊篱)】`zho3 li2` <sup>[如东]</sup> 工具。用金属丝或竹篾、柳条编成，一般圆形，能漏水，有长柄。用来捞取水中的东西。  
 1. 【[照](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho.md#照)】`zho5` <small>/t͡sɔ5/<sup>兴化</sup>, /t͡sɔ5/<sup>如皋</sup></small> ① 略晒一下：衣裳放吖太阳底下～刻儿。<sup>\[如皋\]</sup> ② 用聚光镜聚阳光：～火。<sup>\[如皋\]</sup> ③ 见<sup>\[兴化\]</sup>：眼不～。<sup>\[兴化\]</sup> ④ 略晒一晒<sup>\[兴化\]</sup>：化纤衣装～一～就要收起来。<sup>\[兴化\]</sup> ⑤ （儿童语）行、好、就这样办<sup>\[兴化\]</sup>：～行；～同意。<sup>\[兴化\]</sup> ⑥ 同样<sup>\[兴化\]</sup>：“你去喝那小木院里的水，喝了～会说话。”（兴文《为什么只有人会说话》）<sup>\[兴化\]</sup>  
@@ -1603,6 +1602,7 @@
 1. 【[赘脾家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuei_pi_jia.md#赘脾家)】`zhuei5 pi2 jia` <sup>[东台]</sup> 固执己见，认死理。  
 1. 【[赘人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuei_ren.md#赘人)】`zhuei5 ren2` <sup>[如东]</sup> ① 胃部坠痛。 ② 比喻物体重：这个伢儿身体好，抱啊手上～。如东词典写“坠人”。  
 1. 【[赘斯文](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuei_sz_ven.md#赘斯文)】`zhuei5 sz1 ven2` <sup>[东台]</sup> 迂腐，过分抠字眼儿：读书要灵活运用，不能当～。  
+1. 【[赘执](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuei_zheh.md#赘执)】`zhuei5 zheh7` <small>/t͡suəɪ5 t͡səʔ7/<sup>泰兴</sup></small> 刨根问底，穷追猛究<sup>\[泰兴\]</sup>：侭吖～，把人烦煞咖唻<sup>\[泰兴\]</sup>｜他箇个人嫌～/他太～了<sup>\[泰兴\]</sup>  
 1. 【[肫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuen.md#肫)】`zhuen1` <sup>[泰州]</sup> 禽类的胃：鹅～  
 1. 【[肫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuen_zz.md#肫子)】`zhuen1 zz` <sup>[如皋]</sup> 禽的胃，即砂囊：鸡～、鸭～。  
 1. 【[衠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuen.md#衠)】`zhuen1` <sup>[如皋]</sup> 纯：这萝卜种是～的，另外一种有点儿杂。  

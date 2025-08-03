@@ -920,7 +920,6 @@
 1. 【[井砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zhun.md#井砖)】`jien3 zhun1` <sup>[如皋]</sup> 水井壁专用砖，横截面呈梯形。有的还有榫和榫眼，不易松动变形。  
 1. 【[井子舱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zz_can.md#井子舱)】`jien3 zz can1` <sup>[如东]</sup> 帆船的第4舱，是贮存淡水的舱室。也叫水井舱。  
 1. 【[侭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien.md#侭)】`jien3` <small>/t͡ɕiŋ3/<sup>泰县</sup></small> ① 让某些人或事物占先<sup>\[东台\]</sup>：廉租房要～特困户安排入住。<sup>\[东台\]</sup> ② 尽量放开，不作任何限制<sup>\[东台\]</sup>：饭～吃<sup>\[东台\]</sup>｜汤～喝<sup>\[东台\]</sup>｜钱～用。<sup>\[东台\]</sup> ③ 随便，任凭<sup>\[泰县\]</sup><sup>\[泰州\]</sup>：这些东西我～你来拣<sup>\[泰县\]</sup>｜家里酒有的是，～你喝。<sup>\[泰州\]</sup>｜明吖反正是星期天，～睏。<sup>\[泰州\]</sup> ④ 首先满足某人需求之后，再考虑其他人<sup>\[泰州\]</sup>：你家妈妈每次烧菜都是～你俫先吃。<sup>\[泰州\]</sup>  
-1. 【[侭吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_nga.md#侭吖)】`jien3 nga` <sup>[泰县]</sup> 老是，经常：你～跟吖我做甚的？  
 1. 【[侭钱□货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_qin_keh_hu.md#侭钱□货)】`jien3 qin2 keh8 hu5` <sup>[泰州]</sup> 身上带了多少钱，就买多少钱货：我身上就带啊一万块钱，～，先弄一千斤家去，好的话，下回再来。  
 1. 【[侭旺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_van.md#侭旺)】`jien3 van5` <sup>[泰县]</sup> 正好：～开会的时候，停吖电。  
 1. 【[尽饱揣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_bo_chuae.md#尽饱揣)】`jien3 bo3 chuae1` <sup>[兴化]</sup> 放开肚皮大吃：“……姑娘愿意跟着我，粘团粘糕～。”（兴文《三个女婿对对子》）  
@@ -928,8 +927,7 @@
 1. 【[尽打不喝水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_da_beh_huh.md#尽打不喝水)】`jien3 da3 beh7 huh7 xy3` <sup>[东台]</sup> 尽管满足，要多少有多少：今年烟酒多，大家放心，～。  
 1. 【[尽管](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gun.md#尽管)】`jien3 gun3` <sup>[东台]</sup> ① 尽情、放手、放开：有什么事你～说，我来服务。 ② 在通语中作转折连词。  
 1. 【[尽蜡烛念经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_laeh_zhoh_nin.md#尽蜡烛念经)】`jien3 laeh8 zhoh nin6 jien1` <sup>[兴化]</sup> （喻）按既定条件做完工作：～，砚台上的墨写完，决不再写啊。  
-1. 【[尽吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_nga.md#尽吖)】`jien3 nga` <sup>[东台]</sup> 尽情的、不停的：这事已经过去了，你不要～说噻。  
-1. 【[尽吖/侭吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_nga.md#尽吖/侭吖)】`jien3 nga` <sup>[泰州]</sup> 放任自己一直做某事：这件事他已经认吖错，你～闹，就没得意思唻。  
+1. 【[尽吖/侭吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_nga.md#尽吖/侭吖)】`jien3 nga` <small>/t͡ɕiŋ3 ŋəʔ/<sup>泰县</sup></small> ① 尽情地、不停地<sup>\[东台\]</sup>：这事已经过去了，你不要～说噻。<sup>\[东台\]</sup> ② 老是，经常<sup>\[泰县\]</sup>：你～跟吖我做甚的？<sup>\[泰县\]</sup> ③ 放任自己一直做某事<sup>\[泰州\]</sup>：这件事他已经认吖错，你～闹，就没得意思唻。<sup>\[泰州\]</sup>  
 1. 【[尽吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_qieh.md#尽吃)】`jien3 qieh7` <sup>[东台]</sup> 放开吃，不受任何限制。  
 1. 【[尽钱克货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_qin_keh_hu.md#尽钱克货)】`jien3 qin2 keh7 hu5` <sup>[东台]</sup> 有多少钱，买多少货。  
 1. 【[尽嗓子摡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_san_zz_gae.md#尽嗓子摡)】`jien3 san3 zz gae1` <sup>[东台]</sup> 形容放开喉咙大声说话，唱歌，或嚎啕大哭的状态。  
