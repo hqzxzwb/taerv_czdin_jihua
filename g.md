@@ -617,6 +617,7 @@
 1. 【[梗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen.md#梗)】`gen3` <small>/kən3/<sup>兴化</sup></small> ① 植物的茎 ② 食物停在胃中难以消化<sup>\[兴化\]</sup>：～吖心里难过。<sup>\[兴化\]</sup> ③ 心中郁闷、难受<sup>\[兴化\]</sup>：他这句浊话我听吖～吖心里好长时间。<sup>\[兴化\]</sup>  
 1. 【[梗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_zz.md#梗子)】`gen3 zz` <small>/kən3 t͡sɿ/<sup>兴化</sup></small> ① 某些植物的茎<sup>\[兴化\]</sup>\[泰州：叶类蔬菜的叶柄\]\[东台：或枝\]：菜～。<sup>\[东台\]</sup>｜花～；菜～。<sup>\[兴化\]</sup>｜择药芹要把叶子打掉，把～留下来。<sup>\[泰州\]</sup> ② ［喻］不协调的部分<sup>\[东台\]</sup>：当心有人从中作～。<sup>\[东台\]</sup>  
 1. 【[耿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen.md#耿)】`gen3` <sup>[兴化]</sup> 暴出：……余大先生气得两脸紫涨，颈子里的筋都～出来……（《儒林外史》四六）  
+1. 【[埂岸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_un.md#埂岸)】`gen5 un6` <small>/kəŋ5 ʊ̃1/<sup>泰兴</sup></small> 很小的土堤，土埂。<sup>\[泰兴\]</sup>  
 1. 【[更加](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_jia.md#更加)】`gen5 jia1` <sup>[如东]</sup> 表示程度上又深了一层：～好。  
 1. 【[箇吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_nga.md#箇吖)】`gen5 nga` <sup>[如东]</sup> 这样：～好？  
 1. 【[佝背腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geu_bei_io.md#佝背腰)】`geu1 bei io1` <sup>[兴化]</sup> 指背脊向前弯曲：他是～。  

@@ -3228,6 +3228,7 @@
 1. 【[嗉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv.md#嗉)】`sv5` <sup>[东台]</sup> 鸟类食管下端盛食物的囊。  
 1. 【[塑料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_lio.md#塑料)】`sv5 lio6` <sup>[如东]</sup> 树脂等高分子化合物与配料混合，再经加热加压而形成的具有一定形状的材料。在常温下不再变形。种类很多，如电木、赛璐珞、聚氯乙烯等。一般有质轻、绝缘耐腐蚀耐磨等特点。广泛应用于飞机、车辆、船舶电机、机械、化学建筑等工业，也用来制造各种日用品。  
 1. 【[塑匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_qian.md#塑匠)】`sv5 qian` <sup>[如东]</sup> 从事泥塑业务的小手业者。  
+1. 【[素](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv.md#素)】`sv5` <small>/su5/<sup>泰兴</sup></small> 蔬食，与“荤”相对。<sup>\[泰兴\]</sup>  
 1. 【[素菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_cae.md#素菜)】`sv5 cae5` <small>/su5 t͡sʰɛ5/<sup>如皋</sup></small> ① 纯植物性材料做的冷拌菜，又名十香菜。<sup>\[如皋\]</sup> ② 蔬菜、瓜果等用植物油烹调的菜肴，与“荤菜”相对<sup>\[东台\]</sup>：现在人们讲究保健，喜食～。<sup>\[东台\]</sup> ③ 专为春节做的一种咸菜，以切碎的水芹菜、刀切的百叶丝、铁刨刨的胡萝卜丝为主原料（有些人家还会加黑木耳、金针菜、虾皮等），以生姜米、青蒜花为辅料，用豆油或者菜油混炒而成。<sup>\[泰州\]</sup>  
 1. 【[素茶馆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_cha_gun.md#素茶馆)】`sv5 cha2 gun3` <sup>[如皋]</sup> 卖素食的饭店：功德林～。  
 1. 【[素常](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_chan.md#素常)】`sv5 chan2` <sup>[如皋]</sup> 平常、平时。  
@@ -3235,9 +3236,10 @@
 1. 【[素粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_fen.md#素粉)】`sv5 fen3` <sup>[兴化]</sup> 制成后泡在水中的粉条。水粉。  
 1. 【[素和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_hv.md#素和)】`sv5 hv` <sup>[如东]</sup> 在耷子和（长牌）游戏中，全部由耷子构成的和称素和。  
 1. 【[素油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_ieu.md#素油)】`sv5 ieu2` <sup>[东台]</sup> 供食用的植物油。  
-1. 【[素鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_ji.md#素鸡)】`sv5 ji1` <small>/su5 t͡ɕi1/<sup>兴化</sup>, /su5 t͡ɕʝ1/<sup>如皋</sup></small> ① 卜页卷成柱状扎紧，加五香等作料煮透，切成的片，鲜嫩若鸡肉，故名。<sup>\[如皋\]</sup> ② 百页卷起来，加调料煮透，切成小块，似鸡肉，味道鲜。这种菜叫素鸡。<sup>\[如东\]</sup> ③ 用百叶卷紧加卤汁调料煮成的小菜。<sup>\[东台\]</sup> ④ 豆制品，由多层百叶或豆腐皮卷叠压制面成。<sup>\[兴化\]</sup> ⑤ 一种豆制食品，用多层百叶卷压而成。<sup>\[泰州\]</sup>  
+1. 【[素油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_ieu.md#素油)】`sv5 ieu2` <small>/su5 iɤɯ2/<sup>泰兴</sup></small> 从植物的果实中榨取的食用油。例如花生油、黄豆油、菜籽油。<sup>\[泰兴\]</sup>  
+1. 【[素鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_ji.md#素鸡)】`sv5 ji1` <small>/su5 t͡ɕi1/<sup>兴化</sup>, /su5 t͡ɕʝ1/<sup>如皋</sup>, /su5 t͡ɕʝ1/<sup>泰兴</sup></small> ① 卜页卷成柱状扎紧，加五香等作料煮透，切成的片，鲜嫩若鸡肉，故名。<sup>\[如皋\]</sup> ② 百页卷起来，加调料煮透，切成小块，似鸡肉，味道鲜。这种菜叫素鸡。<sup>\[如东\]</sup> ③ 用百叶卷紧加卤汁调料煮成的小菜。<sup>\[东台\]</sup> ④ 豆制品，由多层百叶或豆腐皮卷叠压制面成。<sup>\[兴化\]</sup> ⑤ 一种豆制食品，用多层百叶卷压而成。<sup>\[泰州\]</sup> ⑥ 豆制食品，状似鸡肉。<sup>\[泰兴\]</sup>  
 1. 【[素酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_jieu.md#素酒)】`sv5 jieu3` <sup>[兴化]</sup> ① 就着素菜喝的酒。 ② 全用素菜，不用荤菜的筵席。  
-1. 【[素净](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_qien.md#素净)】`sv5 qien` ① 朴素大方的修饰<sup>\[东台\]</sup>：她穿得蛮～的。<sup>\[东台\]</sup> ② 室内装饰高雅，简洁大器，相对“奢华”<sup>\[泰州\]</sup>：他家家里布置得蛮～的，一望就晓得是知识分子的家。<sup>\[泰州\]</sup> ③ 化妆不施脂粉，显得朴实整洁，相对“浓艳”<sup>\[泰州\]</sup>：她欢喜～打扮，从来不用化妆品。<sup>\[泰州\]</sup> ④ 服装颜色淡雅，质朴清纯，相对“华丽”<sup>\[泰州\]</sup>：你穿得这吖～。<sup>\[泰州\]</sup> ⑤ 泛指蔬菜瓜果之类食物清淡不油腻<sup>\[泰州\]</sup>：最近荤的吃得嫌多，今朝中上的菜弄吖～点儿。<sup>\[泰州\]</sup>  
+1. 【[素净](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_qien.md#素净)】`sv5 qien` <small>/su5 t͡ɕʰiŋ/<sup>泰兴</sup></small> ① 朴素大方的修饰<sup>\[东台\]</sup>：她穿得蛮～的。<sup>\[东台\]</sup> ② 室内装饰高雅，简洁大器，相对“奢华”<sup>\[泰州\]</sup>：他家家里布置得蛮～的，一望就晓得是知识分子的家。<sup>\[泰州\]</sup> ③ 化妆不施脂粉，显得朴实整洁，相对“浓艳”<sup>\[泰州\]</sup>：她欢喜～打扮，从来不用化妆品。<sup>\[泰州\]</sup> ④ 服装颜色淡雅，质朴清纯，相对“华丽”<sup>\[泰州\]</sup>：你穿得这吖～。<sup>\[泰州\]</sup> ⑤ 泛指蔬菜瓜果之类食物清淡不油腻<sup>\[泰州\]</sup>：最近荤的吃得嫌多，今朝中上的菜弄吖～点儿。<sup>\[泰州\]</sup> ⑥ 色彩淡雅，不浓艳。<sup>\[泰兴\]</sup>  
 1. 【[素净](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_qien.md#素净)】`sv5 qien6` <sup>[如皋]</sup> ① 素食。 ② 素雅。  
 1. 【[素色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_seh.md#素色)】`sv5 seh7` <sup>[东台]</sup> 白色或淡色。  
 1. 【[素食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_sheh.md#素食)】`sv5 sheh8` <sup>[如东]</sup> 素饭。  

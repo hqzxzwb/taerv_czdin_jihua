@@ -351,6 +351,7 @@
 1. 【[班辈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_bei.md#班辈)】`baen1 bei5` <small>/pɛ̃1 pəi5/<sup>兴化</sup>, /pẽ1 pei5/<sup>如皋</sup></small> ① 班，平行。辈，上下。总指辈分。<sup>\[如皋\]</sup> ② 辈分，也叫字序<sup>\[东台\]</sup>：不要看她年纪轻，她的～～还就蛮高的。<sup>\[东台\]</sup> ③ 辈份：他娶表姐的女儿为妻，也不问差与不差。<sup>\[兴化\]</sup> ④ 也指同辈：（滕爷）又问：“嫁的甚人？”刘氏道：“是～的裁缝叫沈八汉。”（《古今小说》十）<sup>\[兴化\]</sup>  
 1. 【[班房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_fan.md#班房)】`baen1 fan2` <sup>[东台]</sup> 监狱或拘留所。  
 1. 【[班母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_mu.md#班母)】`baen1 mu3` <sup>[如皋]</sup> 木匠用木斗中墨线顶端的钩子。  
+1. 【[班配](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_pei.md#班配)】`baen1 pei5` <small>/pɛ̃1 pʰəɪ5/<sup>泰兴</sup></small> 指结亲的双方相配。亦指所交的朋友等方面相配。<sup>\[泰兴\]</sup>  
 1. 【[般配](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_pei.md#般配)】`baen1 pei5` <sup>[泰州]</sup> 品类对称，结亲双方各种条件相称：他俫这两个人谈对象，望望也不～啊。  
 1. 【[板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen.md#板)】`baen3` <small>/pɛ̃3/<sup>兴化</sup>, /pẽ3/<sup>如皋</sup></small> ① 古板、呆板：他的脾气～。<sup>\[如皋\]</sup> ② 硬、直：年纪大啊，腰发～；这种毯子蛮～气的。<sup>\[如皋\]</sup> ③ 僵持：互相～住啊，事情不好办。<sup>\[如皋\]</sup> ④ 作副词，意为一定：我估计他今朝～家来。<sup>\[兴化\]</sup>  
 1. 【[板板□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_baen_ih_ih.md#板板□□)】`baen3 baen3 ih7 ih7` <small>/pɛ̃3 pɛ̃3 iɪʔ7 iɪʔ7/<sup>兴化</sup>, /pɛ̃3 pɛ̃3 iʔ7 iʔ7/<sup>泰兴</sup></small> ① “板□”的生动形式。<sup>\[兴化\]</sup> ② 平平整整。<sup>\[泰兴\]</sup>  
@@ -1058,6 +1059,7 @@
 1. 【[比谈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_taen.md#比谈)】`bi3 taen2` <sup>[如皋]</sup> 打比喻：这是～的句话，不必放吖心里。  
 1. 【[比中比](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_zhon_bi.md#比中比)】`bi3 zhon1 bi3` <sup>[如皋]</sup> 反复比较选择。  
 1. 【[比嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_zuei.md#比嘴)】`bi3 zuei3` <sup>[兴化]</sup> 自夸：“……做啥？我们跟你～呀……”（扬一《李逵劫法场》）  
+1. 【[比子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_zz.md#比子)】`bi3 zz` <small>/pʝ3 t͡sɿ/<sup>泰兴</sup></small> （名词）比方，比喻<sup>\[泰兴\]</sup>：箇是我打的一个～<sup>\[泰兴\]</sup>  
 1. 【[泌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi.md#泌)】`bi5` ① 挡住渣滓把液体倒出来<sup>\[东台\]</sup>：三斤鲫鱼慢慢熬，～出一大盆鲜汤。<sup>\[东台\]</sup> ② （音闭）倾汁留物，以物挡住容器中的固体而将液体倾倒出来<sup>\[泰州\]</sup>：把碗肚里的汤～掉点儿再吃。<sup>\[泰州\]</sup>  
 1. 【[秘方](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_fan.md#秘方)】`bi5 fan1` ① 民间保留的不见医学著作的偏方。<sup>\[如东\]</sup> ② 祖上秘传的药方<sup>\[东台\]</sup>：他用～把牛皮癣治好啊。<sup>\[东台\]</sup>  
 1. 【[臂膊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_bah.md#臂膊)】`bi5 bah7` <sup>[兴化]</sup> 胳膊。  

@@ -1562,6 +1562,7 @@
 1. 【[了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo.md#了)】`lo, ngo, go` <sup>[泰兴]</sup> 助词，了。读音因前字韵尾而不同：“吃咖啦？”“吃咖～（lo）”  
 1. 【[恅愺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_co.md#恅愺)】`lo1 co` <sup>[如皋]</sup> 物品脏而混杂。  
 1. 【[捞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo.md#捞)】`lo1` <sup>[兴化]</sup> 顺手拿：她到婆婆家见甚的～甚的！  
+1. 【[捞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo.md#捞)】`lo1` <small>/lɔ1/<sup>泰兴</sup></small> 不正当取得，偷窃、贪污等<sup>\[泰兴\]</sup>：箇个人块块～<sup>\[泰兴\]</sup>  
 1. 【[捞油水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ieu_shuei.md#捞油水)】`lo1 ieu2 shuei` <sup>[兴化]</sup> 用不正当手段取得钱财：他趁房屋拆迁～，捱拆迁户举报。  
 1. 【[捞脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_jiah.md#捞脚)】`lo1 jiah7` <sup>[如皋]</sup> 会捞钱物的人。  
 1. 【[捞摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_mah.md#捞摸)】`lo1 mah` <sup>[如皋]</sup> 手感厚实：这块布摸咖手上蛮有～的；那块布就没得～。  
@@ -1581,7 +1582,9 @@
 1. 【[劳心命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_xien_mien.md#劳心命)】`lo2 xien1 mien6` <sup>[兴化]</sup> 宿命说法，谓人命中注定该操心劳碌：她是个～，连睡觉都睁吖一只眼睛。也作“劳心病”。  
 1. 【[劳心早](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_xien_zo.md#劳心早)】`lo2 xien1 zo3` <sup>[如东]</sup> 提前思考：你现在就准备伢儿的婚事，真的是～！  
 1. 【[唠叨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_do.md#唠叨)】`lo2 do1` <sup>[如东]</sup> 啰唆。  
-1. 【[捞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo.md#捞)】`lo2` <small>/lɔ2/<sup>兴化</sup>, /lɔ2/<sup>如皋</sup></small> ① 拿，取。<sup>\[如东\]</sup>：今天没事做，出去～捞。<sup>\[如东\]</sup> ② 提、卷，使上移：～衣袖、～下褪。<sup>\[如皋\]</sup> ③ 撩、揭<sup>\[兴化\]</sup>：把袍子～起来<sup>\[兴化\]</sup>｜把衣袖～上去。<sup>\[兴化\]</sup>  
+1. 【[捞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo.md#捞)】`lo2` <small>/lɔ2/<sup>兴化</sup>, /lɔ2/<sup>如皋</sup></small> ① 拿，取。<sup>\[如东\]</sup>：今天没事做，出去～捞。<sup>\[如东\]</sup> ② 提、卷，使上移<sup>\[如皋\]</sup>：～衣袖、～下褪。<sup>\[如皋\]</sup> ③ 撩、揭<sup>\[兴化\]</sup>：把袍子～起来<sup>\[兴化\]</sup>｜把衣袖～上去。<sup>\[兴化\]</sup>  
+1. 【[捞到贼子没棒打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_do_ceh_zz.md#捞到贼子没棒打)】`lo2 do ceh8 zz meh8 pan6 da3` <small>/lɔ2 tɔ t͡sʰəʔ8 t͡sɿ məʔ8 pʰɑŋ1 tɑ3/<sup>泰兴</sup></small> 比喻难得抓到个劳动力就死命加压，迫使劳作。<sup>\[泰兴\]</sup>  
+1. 【[捞到黄牛当马骑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_do_huan_ngeu.md#捞到黄牛当马骑)】`lo2 do5 huan2 ngeu2 dan5 ma3 qi2` <small>/lɔ2 tɔ5 xuɑŋ2 ŋəɪ2 tɑŋ5 mɑ3 t͡ɕʰʝ2/<sup>泰兴</sup></small> 形容只要抓到手的东西，不管其状态如何、质量好差，就任意使用。<sup>\[泰兴\]</sup>  
 1. 【[捞二摸三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_er_mah_saen.md#捞二摸三)】`lo2 er6 mah8 saen1` <sup>[如皋]</sup> 手脚不干净，小偷小摸。  
 1. 【[捞刮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_guaeh.md#捞刮)】`lo2 guaeh7` <sup>[如东]</sup> ① 用手在身上捞摸抓痒：这个伢儿经常用手在身上～。 ② 比喻捞外快：这个人欢喜～。  
 1. 【[捞蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_hae.md#捞蟹)】`lo2 hae3` <sup>[如东]</sup> 一种捕捞方式。涨潮时，渔民迎着潮头，用捞网在港汊中迅速地向前推动，从而把蟹兜进网袋。  
@@ -1589,7 +1592,7 @@
 1. 【[捞油水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ieu_shuei.md#捞油水)】`lo2 ieu2 shuei3` ① （贬）捞取份外好处。<sup>\[东台\]</sup> ② 以不正当手段获取公家或者集体钱物<sup>\[泰州\]</sup>：这个家伙分管基建的时候，捞啊公家不少有水。<sup>\[泰州\]</sup>  
 1. 【[捞疄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lien_zz.md#捞疄子)】`lo2 lien2 zz` <sup>[如皋]</sup> 在田间挖槽堆垅，供栽植芋头、番芋等块茎作物。  
 1. 【[捞捞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lo.md#捞捞)】`lo2 lo2` <sup>[如东]</sup> ① 企图获取分外的东西：他想出去～。 ② 做做：现在没事做，我想出去～。  
-1. 【[捞摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_mah.md#捞摸)】`lo2 mah8` ① 好处，外快。<sup>\[如东\]</sup>：你在那许可能有点儿～。<sup>\[如东\]</sup> ② ［喻］有东西可捞可摸，有内容有滋味<sup>\[东台\]</sup>：光喝粥，没～。<sup>\[东台\]</sup>  
+1. 【[捞摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_mah.md#捞摸)】`lo2 mah8` <small>/lɔ2 mɑʔ8/<sup>泰兴</sup></small> ① 好处，外快。<sup>\[如东\]</sup>：你在那许可能有点儿～。<sup>\[如东\]</sup> ② ［喻］有东西可捞可摸，有内容有滋味<sup>\[东台\]</sup>：光喝粥，没～。<sup>\[东台\]</sup> ③ 向水中探物。亦指寻取<sup>\[泰兴\]</sup>：多里～、没得～<sup>\[泰兴\]</sup>  
 1. 【[捞钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_qin.md#捞钱)】`lo2 qin2` <sup>[如东]</sup> 拿取不属于自己的资金。  
 1. 【[捞钱搁债](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_qin_gah_zhae.md#捞钱搁债)】`lo2 qin2 gah7 zhae5` <sup>[如东]</sup> 四处捞钱，欠了很多债：不能～，那啊日子会不好过。  
 1. 【[捞浅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_qin.md#捞浅)】`lo2 qin3` <sup>[如皋]</sup> 加深河底。  
@@ -1603,7 +1606,7 @@
 1. 【[捞鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_y.md#捞鱼)】`lo2 y2` <sup>[如东]</sup> 一种捕捞方式。涨潮时，渔民迎着潮头，用捞网在港汊中迅速地向前推动，从而把鱼兜进网袋。  
 1. 【[捞鱼摸虾，势误庄稼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_y_mah_xia.md#捞鱼摸虾，势误庄稼)】`lo2 y2 mah8 xia1 shr5 v6 zhuan1 jia` <sup>[如皋]</sup> 干杂事虽获小利，但耽误了庄稼。  
 1. 【[捞债𧒘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_zhae_vae_r.md#捞债𧒘<sub>儿</sub>)】`lo2 zhae5 vae1 r` <sup>[如东]</sup> 欠人家的钱：我家还空不少～唻。  
-1. 【[牢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo.md#牢)】`lo2` <small>/lɔ2/<sup>如皋</sup></small> ① 牢固、结实：房子起得～；人～物～。<sup>\[如皋\]</sup> ② 放在名词之前，表示辱骂<sup>\[泰州\]</sup>：把你的～笔放放好。<sup>\[泰州\]</sup>｜他饭吃过啊，～碗也不洗。<sup>\[泰州\]</sup>｜这个～酒有甚的喝头。<sup>\[泰州\]</sup>  
+1. 【[牢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo.md#牢)】`lo2` <small>/lɔ2/<sup>如皋</sup></small> ① 牢固、结实<sup>\[如皋\]</sup>：房子起得～；人～物～。<sup>\[如皋\]</sup> ② 放在名词之前，表示辱骂<sup>\[泰州\]</sup>：把你的～笔放放好。<sup>\[泰州\]</sup>｜他饭吃过啊，～碗也不洗。<sup>\[泰州\]</sup>｜这个～酒有甚的喝头。<sup>\[泰州\]</sup>  
 1. 【[牢饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_faen.md#牢饭)】`lo2 faen6` <small>/lɔ2 fɛ̃6/<sup>兴化</sup></small> ① 在监狱中服刑者吃的饭食<sup>\[兴化\]</sup>：拿～。<sup>\[兴化\]</sup> ② 对饭食的贬义说法<sup>\[兴化\]</sup>：曹操越想越怄。～没有吃得成，险些把老命送掉了。（《火烧赤壁》九）‖也作“牢食”。<sup>\[兴化\]</sup> ③ 监牢中的犯人吃的饭。<sup>\[泰州\]</sup> ④ 比喻极难做的职业<sup>\[泰州\]</sup>：这碗～吃咖够啊，我老早就想辞职不做啊。<sup>\[泰州\]</sup>  
 1. 【[牢监](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_gaen.md#牢监)】`lo2 gaen1` <small>/lɔ2 kɛ̃1/<sup>兴化</sup></small> ① 牢房 ② 监狱。<sup>\[兴化\]</sup>  
 1. 【[牢靠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ko.md#牢靠)】`lo2 ko5` ① 结实。<sup>\[如东\]</sup> ② 器物牢固结实，可以放心<sup>\[泰州\]</sup>：这栋大楼的地基打得相当～。<sup>\[泰州\]</sup> ③ 做事稳妥可靠，可以信赖<sup>\[泰州\]</sup>：你把事情交把他俫几个狗肉朋友去弄哿～啊？<sup>\[泰州\]</sup>  

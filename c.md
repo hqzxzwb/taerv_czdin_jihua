@@ -2261,6 +2261,9 @@
 1. 【[镩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun.md#镩)】`cun1` <sup>[如皋]</sup> 大号锥形钢凿（硬度高）：打磨～、水～。  
 1. 【[蚕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun.md#蚕)】`cun2` <sup>[如东]</sup> 蚕蛾科昆虫家蚕、野蚕的总称，通常指家蚕。  
 1. 【[蚕蛹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_ion.md#蚕蛹)】`cun2 ion3` <sup>[如东]</sup> 蚕蛾科昆虫家蚕蛾的蛹。  
+1. 【[蚕蛹子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_ion_zz.md#蚕蛹子)】`cun2 ion3 zz` <small>/t͡sʰʊ̃2 iɔŋ3 t͡sɿ/<sup>泰兴</sup></small> 蚕蛹。蚕吐丝结茧以后变成的蛹。<sup>\[泰兴\]</sup>  
+1. 【[蚕茧子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_jin_zz.md#蚕茧子)】`cun2 jin1 zz` <small>/t͡sʰʊ̃2 t͡ɕĩ1 t͡sɿ/<sup>泰兴</sup></small> 蚕茧。<sup>\[泰兴\]</sup>  
+1. 【[蚕老麦黄一复时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_lo_moh_van.md#蚕老麦黄一复时)】`cun2 lo3 moh8 van2 ieh7 foh7 shr2` <small>/t͡sʰʊ̃2 lɔ3 mɔʔ8 uɑŋ2 iʔ7 fɔʔ7 sɿ2/<sup>泰兴</sup></small> 麦黄成熟的时候，蚕子到老上山作茧只要一天一夜的时间。<sup>\[泰兴\]</sup>  
 1. 【[蚕蛾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_ngu.md#蚕蛾)】`cun2 ngu2` <sup>[如东]</sup> 蚕科昆虫家蚕蛾。  
 1. 【[蚕蛾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_ngu_zz.md#蚕蛾子)】`cun2 ngu2 zz3` <sup>[如东]</sup> 蚕科昆虫家蚕蛾的卵。  
 1. 【[蚕<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_r.md#蚕<sub>儿</sub>)】`cun2 r` <sup>[泰县]</sup> 蚕。  
@@ -2270,7 +2273,9 @@
 1. 【[蚕桑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_san.md#蚕桑)】`cun2 san1` <sup>[如东]</sup> 桑树的一种，秆矮，叶大，为家蚕主要食料。  
 1. 【[蚕沙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_sha.md#蚕沙)】`cun2 sha1` <sup>[如东]</sup> 蚕科昆虫家蚕蛾幼虫的干燥粪便。  
 1. 【[蚕沙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_sha_zz.md#蚕沙子)】`cun2 sha1 zz` <sup>[东台]</sup> 蚕粪。一粒一粒的像沙子。  
+1. 【[蚕沙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_sha_zz.md#蚕沙子)】`cun2 sha1 zz` <small>/t͡sʰʊ̃2 sɑ1 t͡sɿ/<sup>泰兴</sup></small> 蚕屎。黑色的小颗粒。<sup>\[泰兴\]</sup>  
 1. 【[蚕山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_shaen.md#蚕山)】`cun2 shaen1` <sup>[兴化]</sup> 供蚕“上山”吐丝作茧的设备，用整齐稻草或麦秸等扎成。  
+1. 【[蚕豆瓣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_teu_baen_zz.md#蚕豆瓣子)】`cun2 teu baen5 zz` <small>/t͡sʰʊ̃2 tʰəɪ pɛ̃5 t͡sɿ/<sup>泰兴</sup></small> 蚕豆瓣。<sup>\[泰兴\]</sup>  
 1. 【[蚕豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_teu.md#蚕豆)】`cun2 teu6` 蚕豆<sup>\[泰州\]</sup>\[东台：与麦子同期种、收的植物。茎方中空，果实有荚，种子是本地主要豆类食品之一。\]\[如东：也叫寒豆、胡豆。\]：岁数大啊，炒的蚕豆嚼不动唻。<sup>\[泰州\]</sup>  
 1. 【[蚕豆瓣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_teu_baen_r.md#蚕豆瓣<sub>儿</sub>)】`cun2 teu6 baen5 r` <sup>[如东]</sup> 蚕豆籽去壳后的肉仁。  
 1. 【[蚕豆粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_teu_fen.md#蚕豆粉)】`cun2 teu6 fen3` <sup>[如东]</sup> 以蚕豆为原料做成的粉丝。也叫豆粉、冬粉。  
@@ -2280,6 +2285,7 @@
 1. 【[蚕蜕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_tuei.md#蚕蜕)】`cun2 tuei5` <sup>[如东]</sup> 蚕蛾科昆虫家蚕蛾幼虫的蜕皮。  
 1. 【[蚕蜕纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_tuei_zhr.md#蚕蜕纸)】`cun2 tuei5 zhr3` <sup>[如东]</sup> 蚕科昆虫家蚕蛾卵子孵化后的卵壳。  
 1. 【[蚕纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_zhr.md#蚕纸)】`cun2 zhr3` <sup>[兴化]</sup> ① 供蚕产卵的纸。 ② 产有蚕卵的纸：今年养吖三张～。  
+1. 【[蚕子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_zz.md#蚕子)】`cun2 zz` <small>/t͡sʰʊ̃2 t͡sɿ/<sup>泰兴</sup></small> 蚕。<sup>\[泰兴\]</sup>  
 1. 【[䅟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun.md#䅟)】`cun3` <sup>[东台]</sup> ～子，混在米里的草种。  
 1. 【[䅟的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_dii.md#䅟的)】`cun3 dii` <sup>[如皋]</sup> 不黏不䵑，不适口：冷馒头吃起来是～的。  
 1. 【[䅟吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_nga.md#䅟吖)】`cun3 nga` <sup>[如皋]</sup> 指纤维没有了韧性，发脆，易折断、易毁坏。  

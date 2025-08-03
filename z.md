@@ -1779,6 +1779,7 @@
 1. 【[猪髓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_xyen.md#猪髓)】`zhv1 xyen3` <sup>[如东]</sup> 猪科动物猪的骨髓或骨体。  
 1. 【[猪杂碎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_zaeh_xy.md#猪杂碎)】`zhv1 zaeh7 xy5` <sup>[如皋]</sup> 香肉店售煮熟的猪头肉、腮肉、舌、耳以外的杂碎，如喉咙管儿、鼻孔、脑子、眼睛、骨间肉。  
 1. 【[猪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_zz.md#猪子)】`zhv1 zz` 猪  
+1. 【[珠巷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_han.md#珠巷)】`zhv1 han6` <small>/t͡su1 xɑŋ1/<sup>泰兴</sup></small> 黄桥一名巷。传昔时多作珠宝生意者居住、流动。故名。<sup>\[泰兴\]</sup>  
 1. 【[珠花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_hua.md#珠花)】`zhv1 hua1` <sup>[东台]</sup> 一种用珠宝精工细琢的发簪。旧时台城女性头饰。  
 1. 【[诸葛菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_guh_cae.md#诸葛菜)】`zhv1 guh7 cae5` <sup>[如皋]</sup> 二月蓝。  
 1. 【[诸泡交易诸泡怨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_po_jio_i.md#诸泡交易诸泡怨)】`zhv1 po1 jio1 i6 zhv1 po1 iun5` <sup>[东台]</sup> 每个行业都有难处，干久了都会产生疲劳感厌倦感。  
