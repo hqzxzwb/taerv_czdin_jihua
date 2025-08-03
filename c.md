@@ -1104,7 +1104,7 @@
 1. 【[缠身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin_shen.md#缠身)】`chin2 shen1` <sup>[东台]</sup> 脱不开身：公务繁忙，杂事～。  
 1. 【[缠手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin_sheu.md#缠手)】`chin2 sheu3` <sup>[东台]</sup> 事务甩不开或矛盾摆不脱：最近～事多，只好放弃旅游。  
 1. 【[𢷹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin.md#𢷹)】`chin5` <sup>[泰州]</sup> 用力揉压面团使面团内的水分均匀：把面在桌子上多～个盹儿再擀。｜早上五点钟就开始～酵。  
-1. 【[𢷹酵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin_go.md#𢷹酵)】`chin5 go5` <small>/t͡sʰĩ5 kɔ5/<sup>如皋</sup></small> ① 将面团反复盘弄，使所含蛋白质面筋化。<sup>\[如皋\]</sup> ② 见“手面”。<sup>\[如皋\]</sup> ③ 见“盘酵”。<sup>\[如皋\]</sup> ④ 面粉加进酵头（酵母菌）后，和水搅拌，以便发酵。<sup>\[东台\]</sup> ⑤ 将含有酵母的有机物揉入面团之中使之均匀分布。<sup>\[泰州\]</sup>  
+1. 【[𢷹酵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin_go.md#𢷹酵)】`chin5 go5` <small>/t͡sʰĩ5 kɔ5/<sup>如皋</sup></small> ① 将面团反复盘弄，使所含蛋白质面筋化。参见“手面”“盘酵”。<sup>\[如皋\]</sup> ② 面粉加进酵头（酵母菌）后，和水搅拌，以便发酵。<sup>\[东台\]</sup> ③ 将含有酵母的有机物揉入面团之中使之均匀分布。<sup>\[泰州\]</sup>  
 1. 【[𢷹面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin_min.md#𢷹面)】`chin5 min6` <sup>[东台]</sup> 和面。“𢷹”读阴去声。  
 1. 【[𢷹神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin_shen.md#𢷹神)】`chin5 shen2` <sup>[东台]</sup> 因为烦琐的事务缠手，很费精气神。  
 1. 【[𢷹酥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin_sv.md#𢷹酥)】`chin5 sv1` <sup>[如皋]</sup> 面粉调油盘缠成团，称为酥，做烧饼“插酥”用到。  
@@ -1759,11 +1759,9 @@
 1. 【[穿堂屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_tan_oh.md#穿堂屋)】`chun1 tan2 oh7` <sup>[如皋]</sup> 作过道的房屋。  
 1. 【[穿头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_teu.md#穿头)】`chun1 teu2` <sup>[兴化]</sup> ① 见“超头”。 ② 抢在前头：工会组织老教师去扬州旅游，由主席～去安排食宿。也作“穿前”。  
 1. 【[穿西装戴瓜皮帽——土洋并举](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_xi_zhuan_dae.md#穿西装戴瓜皮帽——土洋并举)】`chun1 xi1 zhuan1 dae5 gua1 pi2 mo6 tv3 ian2 pien6 jy3` <sup>[东台]</sup>   
-1. 【[穿心过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_xien_gu.md#穿心过)】`chun1 xien1 gu5` <sup>[兴化]</sup> 从心脏或中心部位通过：他对啊靶子，一箭射个～。  
-1. 【[穿心过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_xien_gu.md#穿心过)】`chun1 xien1 gu5` <small>/t͡sʰʊ̃1 ɕiŋ1 kɤɯ5/<sup>泰兴</sup></small> 从正中穿过去。<sup>\[泰兴\]</sup>  
+1. 【[穿心过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_xien_gu.md#穿心过)】`chun1 xien1 gu5` <small>/t͡sʰũ1 ɕin1 ko5/<sup>兴化</sup>, /t͡sʰʊ̃1 ɕiŋ1 kɤɯ5/<sup>泰兴</sup></small> ① 从心脏或中心部位通过<sup>\[兴化\]</sup>：他对啊靶子，一箭射个～。<sup>\[兴化\]</sup> ② 从正中穿过去。<sup>\[泰兴\]</sup>  
 1. 【[穿星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_xien.md#穿星)】`chun1 xien1` <small>/t͡sʰũ1 ɕin1/<sup>兴化</sup>, /t͡sʰõ1 ɕiŋ1/<sup>泰县</sup></small> 流星<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：夏天晚上乘凉，常看到天上～。<sup>\[兴化\]</sup>  
-1. 【[穿销门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_xio_men.md#穿销门)】`chun1 xio1 men2` <sup>[兴化]</sup> 由小木方排列，从中凿眼，横穿木片而成的门。因其牢固，旧式民居常用来做大门。  
-1. 【[穿销门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_xio_men.md#穿销门)】`chun1 xio1 men2` <small>/t͡sʰʊ̃1 ɕiɔ1 məŋ2/<sup>泰兴</sup></small> 从木心穿过的牢固的大门，与“板儿门”相区别。<sup>\[泰兴\]</sup>  
+1. 【[穿销门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_xio_men.md#穿销门)】`chun1 xio1 men2` <small>/t͡sʰũ1 ɕiɔ1 mən2/<sup>兴化</sup>, /t͡sʰʊ̃1 ɕiɔ1 məŋ2/<sup>泰兴</sup></small> ① 由小木方排列，从中凿眼，横穿木片而成的门。因其牢固，旧式民居常用来做大门。<sup>\[兴化\]</sup> ② 从木心穿过的牢固的大门，与“板儿门”相区别。<sup>\[泰兴\]</sup>  
 1. 【[穿小鞋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_xio_hae.md#穿小鞋)】`chun1 xio3 hae2` ① ［喻］对人实施报复，限制、约束、刁难，让其难以工作。<sup>\[东台\]</sup> ② 比喻刁难他人<sup>\[泰州\]</sup>：你得罪啊处长，当心他同你～。<sup>\[泰州\]</sup>  
 1. 【[穿孝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_xio.md#穿孝)】`chun1 xio5` <small>/t͡sʰʊ̃1 ɕiɔ5/<sup>泰兴</sup></small> 为悼念死者而穿着孝服。<sup>\[泰兴\]</sup>  
 1. 【[穿综](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_zon.md#穿综)】`chun1 zon5` <sup>[如皋]</sup> 将经纱一根根穿过综档的工序。  
@@ -2272,8 +2270,7 @@
 1. 【[蚕<sub>儿</sub>子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_r_zz.md#蚕<sub>儿</sub>子)】`cun2 r zz3` <sup>[如皋]</sup> 家蚕卵。  
 1. 【[蚕桑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_san.md#蚕桑)】`cun2 san1` <sup>[如东]</sup> 桑树的一种，秆矮，叶大，为家蚕主要食料。  
 1. 【[蚕沙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_sha.md#蚕沙)】`cun2 sha1` <sup>[如东]</sup> 蚕科昆虫家蚕蛾幼虫的干燥粪便。  
-1. 【[蚕沙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_sha_zz.md#蚕沙子)】`cun2 sha1 zz` <sup>[东台]</sup> 蚕粪。一粒一粒的像沙子。  
-1. 【[蚕沙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_sha_zz.md#蚕沙子)】`cun2 sha1 zz` <small>/t͡sʰʊ̃2 sɑ1 t͡sɿ/<sup>泰兴</sup></small> 蚕屎。黑色的小颗粒。<sup>\[泰兴\]</sup>  
+1. 【[蚕沙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_sha_zz.md#蚕沙子)】`cun2 sha1 zz` <small>/t͡sʰʊ̃2 sɑ1 t͡sɿ/<sup>泰兴</sup></small> 蚕粪。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[蚕山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_shaen.md#蚕山)】`cun2 shaen1` <sup>[兴化]</sup> 供蚕“上山”吐丝作茧的设备，用整齐稻草或麦秸等扎成。  
 1. 【[蚕豆瓣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_teu_baen_zz.md#蚕豆瓣子)】`cun2 teu baen5 zz` <small>/t͡sʰʊ̃2 tʰəɪ pɛ̃5 t͡sɿ/<sup>泰兴</sup></small> 蚕豆瓣。<sup>\[泰兴\]</sup>  
 1. 【[蚕豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_teu.md#蚕豆)】`cun2 teu6` 蚕豆<sup>\[泰州\]</sup>\[东台：与麦子同期种、收的植物。茎方中空，果实有荚，种子是本地主要豆类食品之一。\]\[如东：也叫寒豆、胡豆。\]：岁数大啊，炒的蚕豆嚼不动唻。<sup>\[泰州\]</sup>  

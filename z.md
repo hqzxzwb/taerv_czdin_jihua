@@ -777,8 +777,8 @@
 1. 【[揁床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_chuan.md#揁床)】`zhen1 chuan2` <sup>[东台]</sup> 把床的部件整合成完整的床。  
 1. 【[揁帐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zhan_zz.md#揁帐子)】`zhen1 zhan5 zz` ① 把蚊帐架起来、挂起来。<sup>\[东台\]</sup> ② 将两根帐竹子伸进帐子前后两边帐管之中，架好或吊好帐管竹，挂上帐子，使之张开。<sup>\[泰州\]</sup>  
 1. 【[搸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen.md#搸)】`zhen1` <small>/t͡sən1/<sup>兴化</sup></small> ① 把木楔打进缝隙，叫做搸。<sup>\[如东\]</sup> ② 塞进，安装<sup>\[东台\]</sup>：铲锹要～个柄。<sup>\[东台\]</sup> ③ 撞击使紧合<sup>\[东台\]</sup>：～锄头；～铲子。<sup>\[东台\]</sup> ④ 组装<sup>\[兴化\]</sup>：～斧柄<sup>\[兴化\]</sup>｜～刀柄<sup>\[兴化\]</sup>｜～床｜（凌振）先令军健～（振）起炮架，直去水边竖起，准备放炮。（《水浒传》五五）<sup>\[兴化\]</sup> ⑤ 塞进，将木制斧柄塞进斧头上的孔中，或者将到尾塞进木柄之中<sup>\[泰州\]</sup>：你把大斧～起来。<sup>\[泰州\]</sup>｜家里这把菜刀～的时间不长，最近用得比较凶，又用吖松吖唻。<sup>\[泰州\]</sup> ⑥ 组装<sup>\[泰州\]</sup>：你先把大床～起来。<sup>\[泰州\]</sup>｜师傅老早就把炒米机～吖好啊，你俫把米拿过来吧。<sup>\[泰州\]</sup>  
-1. 【[搸柄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_bien.md#搸柄)】`zhen1 bien5` <sup>[如皋]</sup> 装柄并钉紧：搸锹儿柄、搸钉耙柄、搸镰刀儿柄。  
-1. 【[搸钉筢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_dien_pa.md#搸钉筢)】`zhen1 dien1 pa2` <sup>[如东]</sup> 钉耙柄插入钉耙脑中，用木楔加紧，叫做搸钉耙。  
+1. 【[搸柄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_bien.md#搸柄)】`zhen1 bien5` <sup>[如皋]</sup> 装柄并钉紧：搸锹儿柄、搸钉筢柄、搸镰刀儿柄。  
+1. 【[搸钉筢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_dien_pa.md#搸钉筢)】`zhen1 dien1 pa2` <sup>[如东]</sup> 钉筢柄插入钉筢脑中，用木楔加紧，叫做搸钉筢。  
 1. 【[搸𣜂/楔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_saeh.md#搸𣜂/楔)】`zhen1 saeh7` <sup>[东台]</sup> 填充空隙的小木片。  
 1. 【[搸榫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_xyen.md#搸榫)】`zhen1 xyen3` <sup>[如皋]</sup> 榫头与榫眼装配紧固。  
 1. 【[正月半](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_iuh_bun.md#正月半)】`zhen1 iuh bun5` 农历正月十五，即元宵节。  
@@ -1024,7 +1024,7 @@
 1. 【[招魂幡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_huen_faen.md#招魂幡)】`zho1 huen2 faen1` <sup>[如东]</sup> 招喊死者魂灵回来授用祭品、金钱的纸幡。分大幡儿与小幡儿两种。大幡儿由红、黄绿三色纸剪成圆柱状系在芦秆的中部。小幡儿由红、黄、绿三色纸剪成条状，夹在芦秆头部。清明节举行祭祀活动时，大幡儿插在坟茔帽子的上面，小幡儿插在坟茔帽子的四周。  
 1. 【[招女婿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_ny_xy.md#招女婿)】`zho1 ny3 xy` <sup>[泰州]</sup> 男女结婚时，男方入赘，到女家生活，生的小孩随岳父姓。  
 1. 【[招女婿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_ny_xy.md#招女婿)】`zho1 ny3 xy5` <sup>[如皋]</sup> 男子入赘女家。  
-1. 【[招耙<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_pa_r.md#招耙<sub>儿</sub>)】`zho1 pa2 r` <sup>[东台]</sup> 划草、聚拢草的工具，一头长柄，一头是一排胡弯的竹齿。  
+1. 【[招筢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_pa_r.md#招筢<sub>儿</sub>)】`zho1 pa2 r` <sup>[东台]</sup> 划草、聚拢草的工具，一头长柄，一头是一排胡弯的竹齿。  
 1. 【[招牌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_pae.md#招牌)】`zho1 pae2` ① 商店机构作为标识的牌子<sup>\[如东\]</sup><sup>\[泰州\]</sup> ② 比喻借名。<sup>\[如东\]</sup>：借他的～去办事。<sup>\[如东\]</sup> ③ 比喻最拿手的，可以代表商家技艺水平的东西。<sup>\[泰州\]</sup>  
 1. 【[招牌纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_pae_zhr.md#招牌纸)】`zho1 pae2 zhr3` <sup>[兴化]</sup> ① 夹在商品里的广告。 ② 商品的说明书。  
 1. 【[招被单头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_pi_daen_teu.md#招被单头)】`zho1 pi6 daen1 teu2` <sup>[如皋]</sup> 招，回覆。绗被单时，把被头的被里回复到被面上再绗。也指盖被子时，将被单头折起。  
@@ -1080,10 +1080,10 @@
 1. 【[沼虾<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_ha_r.md#沼虾<sub>儿</sub>)】`zho3 ha1 r` <sup>[如皋]</sup> 青虾。  
 1. 【[沼虾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_xia.md#沼虾)】`zho3 xia1` <sup>[东台]</sup> 又称青虾，淡水河里生长的虾，属于长臂虾科。旧时也写作“早虾”。  
 1. 【[爪牙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_nga.md#爪牙)】`zho3 nga2` <sup>[东台]</sup> 坏人的党羽、帮手。  
+1. 【[爪筢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_pa_r.md#爪筢<sub>儿</sub>)】`zho3 pa2 r` <sup>[如皋]</sup> 拉集乱草的多齿筢。用毛竹或铁丝制造头部，加长柄。  
 1. 【[爪筢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_pa_r.md#爪筢<sub>儿</sub>)】`zho3 pa2 r` <sup>[如东]</sup> 工具。条状毛竹经过热加工，头部制成弯钩，拼成扇形，一般14齿。用作筢草。  
 1. 【[笊漏<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_leu_r.md#笊漏<sub>儿</sub>)】`zho3 leu r` <small>/t͡sɔ3 lei˞/<sup>如皋</sup></small> 篾丝或金属丝编成的漏勺儿。<sup>\[东台\]</sup><sup>\[如皋\]</sup>：下饺子要用～捞。<sup>\[东台\]</sup>  
 1. 【[笊篱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_li.md#笊篱)】`zho3 li2` <sup>[如东]</sup> 工具。用金属丝或竹篾、柳条编成，一般圆形，能漏水，有长柄。用来捞取水中的东西。  
-1. 【[笊筢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_pa_r.md#笊筢<sub>儿</sub>)】`zho3 pa2 r` <sup>[如皋]</sup> 拉集乱草的多齿筢。用毛竹或铁丝制造头部，加长柄。  
 1. 【[照](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho.md#照)】`zho5` <small>/t͡sɔ5/<sup>兴化</sup>, /t͡sɔ5/<sup>如皋</sup></small> ① 略晒一下：衣裳放吖太阳底下～刻儿。<sup>\[如皋\]</sup> ② 用聚光镜聚阳光：～火。<sup>\[如皋\]</sup> ③ 见<sup>\[兴化\]</sup>：眼不～。<sup>\[兴化\]</sup> ④ 略晒一晒<sup>\[兴化\]</sup>：化纤衣装～一～就要收起来。<sup>\[兴化\]</sup> ⑤ （儿童语）行、好、就这样办<sup>\[兴化\]</sup>：～行；～同意。<sup>\[兴化\]</sup> ⑥ 同样<sup>\[兴化\]</sup>：“你去喝那小木院里的水，喝了～会说话。”（兴文《为什么只有人会说话》）<sup>\[兴化\]</sup>  
 1. 【[照把势打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_ba_shr_da.md#照把势打)】`zho5 ba3 shr da3` <sup>[兴化]</sup> 按照原来的计划办：他来不来你覅管，你～。  
 1. 【[照把子摵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_ba_zz_seh.md#照把子摵)】`zho5 ba3 zz seh7` <small>/t͡sɔ5 pa3 t͡se səʔ7/<sup>泰县</sup></small> ① 照现成套路走，省得创新<sup>\[东台\]</sup>：不管他俫怎吖看，你的节目还是照你的把子摵！<sup>\[东台\]</sup> ② 按样子办：你～不会错。<sup>\[泰县\]</sup>  
@@ -1117,7 +1117,7 @@
 1. 【[罩网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_van.md#罩网)】`zho5 van3` <sup>[如皋]</sup> 罩状的小渔网。  
 1. 【[竹帘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_lin_zz.md#竹帘子)】`zhoh lin2 zz` <sup>[如皋]</sup> 门窗用的竹丝扼成的卷帘。  
 1. 【[□气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_qi.md#□气)】`zhoh7 qi5` <sup>[东台]</sup> 傍晚的气体，与早晨阳气上升相对。  
-1. 【[㔉田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_tin.md#㔉田)】`zhoh7 tin2` <sup>[东台]</sup> 用锄头或钉耙翻地。  
+1. 【[㔉田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_tin.md#㔉田)】`zhoh7 tin2` <sup>[东台]</sup> 用锄头或钉筢翻地。  
 1. 【[劚锄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_chv.md#劚锄)】`zhoh7 chv2` <sup>[如皋]</sup> 短柄锄，收割时用以斫断高秆禾的根部。  
 1. 【[喌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh.md#喌)】`zhoh7` <sup>[泰州]</sup> 唤鸡声：～，～，～。  
 1. 【[斸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh.md#斸)】`zhoh7` <small>/t͡sɔʔ7/<sup>如皋</sup></small> ① 用有齿或钩的一端，斫击或挖、拉\[如东：杆子由上往下用力着地，叫筑。\]\[泰州：用钉筢等有铁齿的器具翻地\]\[如皋：用钉钯翻土、用短柄锄斫挖\]：岂知斸地种田家，官税频催没人织。（李贺《嘲少年》）<sup>\[泰州\]</sup>｜幽人不喜凡草生，秋锄劚得寒青青。（李咸用《小松歌》）<sup>\[泰州\]</sup>｜把田～下子。<sup>\[泰州\]</sup>｜～田、～番芋、～花生<sup>\[如皋\]</sup>｜～玉米稭儿<sup>\[如皋\]</sup> ② 比喻取得极难取得的某种成绩或成功<sup>\[泰州\]</sup>：他买的彩票中吖大奖，真的捱他～住唻。<sup>\[泰州\]</sup> ③ 颠簸。<sup>\[如东\]</sup>：车子～咖～的。<sup>\[如东\]</sup>  
@@ -1435,7 +1435,7 @@
 1. 【[抓么<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_mu_r.md#抓么<sub>儿</sub>)】`zhua1 mu3 r` <sup>[如皋]</sup> 用七枚杏核或其他物品，以各种方式抓、抛、接，并计数，以比胜负的游戏。  
 1. 【[抓姆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_mu_r.md#抓姆<sub>儿</sub>)】`zhua1 mu3 r` <sup>[兴化]</sup> 一种游戏，见“拿磨儿”。  
 1. 【[抓拿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_na.md#抓拿)】`zhua1 na2` <sup>[兴化]</sup> ① 可凭借或依靠的人或物：参考书捱人借走啊，轮到自己要用倒没～啊。｜每个单位有专人负责，我俫下去才有～。 ② 有据可查：“嘿，卧龙先生，你的话都是空的，叫人没处～……”（《火烧赤壁》二）  
-1. 【[抓泥螺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_ni_lu.md#抓泥螺)】`zhua1 ni2 lu1` <sup>[如东]</sup> 退潮后，泥螺在沙面上蠕行。捕捉者用泥螺耙儿由前向后一拉，即把泥螺扒进网兜然后倒人入海子。这种捕捉方法称抓泥螺。  
+1. 【[抓泥螺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_ni_lu.md#抓泥螺)】`zhua1 ni2 lu1` <sup>[如东]</sup> 退潮后，泥螺在沙面上蠕行。捕捉者用泥螺筢儿由前向后一拉，即把泥螺扒进网兜然后倒人入海子。这种捕捉方法称抓泥螺。  
 1. 【[抓寻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_qien.md#抓寻)】`zhua1 qien2` <sup>[兴化]</sup> ① 寻找：这吖大的县城，囥个把人到哪许～。 ② 抓挠、对付事情的办法：宝玉急的手脚正没～处，只见贾政的小厮走来，逼着他出去了。（《红楼梦》三三）  
 1. 【[抓肉望脸上沰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_roh_van_lin.md#抓肉望脸上沰)】`zhua1 roh8 van6 lin3 shan6 dah7` <small>/t͡suɑ1 ɻɔʔ8 uɑŋ1 lĩ3 sɑŋ1 tɑʔ7/<sup>泰兴</sup></small> ① ［喻］指装门面、充好汉。<sup>\[东台\]</sup> ② 喻自我标榜，美化自己。<sup>\[泰兴\]</sup>  
 1. 【[抓色<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhua_sheh_r.md#抓色<sub>儿</sub>)】`zhua1 sheh7 r` <sup>[如东]</sup> 掷色儿。也叫掷骰子。  
@@ -1710,7 +1710,7 @@
 1. 【[株里块垃的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_lii_kuae_laeh.md#株里块垃的)】`zhv1 lii kuae5 laeh dii` <sup>[如皋]</sup> 不规则的肿块。  
 1. 【[猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv.md#猪)】`zhv1` <sup>[如东]</sup> ① 猪科动物猪，躯体肥胖，头大，鼻长，眼小，耳壳大而下垂，四肢短小，颈粗，颈背生鬃毛。尾小。家庭饲养。 ② 比喻笨拙：你这个人～唻！  
 1. 【[猪八戒过河——不带嘴拱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_baeh_gae_gu.md#猪八戒过河——不带嘴拱)】`zhv1 baeh7 gae5 gu5 hu2 beh7 dae5 jy3 gon3` <sup>[东台]</sup>   
-1. 【[猪八戒败阵——倒打一耙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_baeh_gae_pae.md#猪八戒败阵——倒打一耙)】`zhv1 baeh7 gae5 pae6 chen6 do5 da3 ieh7 pa2` <sup>[东台]</sup>   
+1. 【[猪八戒败阵——倒打一筢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_baeh_gae_pae.md#猪八戒败阵——倒打一筢)】`zhv1 baeh7 gae5 pae6 chen6 do5 da3 ieh7 pa2` <sup>[东台]</sup>   
 1. 【[猪八戒吃人参果——食而不知其味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_baeh_gae_qieh.md#猪八戒吃人参果——食而不知其味)】`zhv1 baeh7 gae5 qieh7 ren2 shen1 gu3——sheh8 er2 beh7 zhr1 qi2 vei6`   
 1. 【[猪八戒照镜子——里外不是人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_baeh_gae_zho.md#猪八戒照镜子——里外不是人)】`zhv1 baeh7 gae5 zho5 jien5 zz li3 vae6 beh7 shr6 ren2` <sup>[东台]</sup>   
 1. 【[猪包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_bo.md#猪包)】`zhv1 bo1` <sup>[泰县]</sup> 卖猪的钱。  
@@ -2210,8 +2210,7 @@
 1. 【[祖代相传](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zv_tae_xian_chun.md#祖代相传)】`zv3 tae6 xian5 chun2` <sup>[如东]</sup> 家族的风俗或技术一代一代地向下流传：李家勤俭的风俗～。  
 1. 【[祖先龛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zv_xin_kun_zz.md#祖先龛子)】`zv3 xin1 kun1 zz` <sup>[东台]</sup> 摆放历代祖先木牌位神主的仿真亭阁。  
 1. 【[祖宗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zv_zon.md#祖宗)】`zv3 zon` <small>/t͡su3 t͡sɔŋ/<sup>泰兴</sup></small> 泛指祖先。<sup>\[泰兴\]</sup>  
-1. 【[祖宗八代](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zv_zon_baeh_tae.md#祖宗八代)】`zv3 zon baeh7 tae6` <sup>[兴化]</sup> 列祖列宗。极言“祖宗十八代”。  
-1. 【[祖宗八代](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zv_zon_baeh_tae.md#祖宗八代)】`zv3 zon baeh7 tae6` <small>/t͡su3 t͡sɔŋ pæʔ7 tʰɛ1/<sup>泰兴</sup></small> 泛指祖宗上辈。常用于骂人或对人鄙夷的场合。<sup>\[泰兴\]</sup>  
+1. 【[祖宗八代](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zv_zon_baeh_tae.md#祖宗八代)】`zv3 zon baeh7 tae6` <small>/t͡su3 t͡soŋ pæʔ7 tʰɛ6/<sup>兴化</sup>, /t͡su3 t͡sɔŋ pæʔ7 tʰɛ1/<sup>泰兴</sup></small> ① 列祖列宗。极言则“祖宗十八代”。<sup>\[兴化\]</sup> ② 泛指祖宗上辈。常用于骂人或对人鄙夷的场合。<sup>\[泰兴\]</sup>  
 1. 【[祖宗十八代](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zv_zon_sheh_baeh.md#祖宗十八代)】`zv3 zon sheh8 baeh7 tae6` <sup>[兴化]</sup> 列祖列宗。  
 1. 【[祖宗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zv_zon.md#祖宗)】`zv3 zon1` <sup>[如东]</sup> ① 对长辈的通称。 ② 年尊的长者。 ③ 对儿子的既疼爱又批评的称呼：我的～，你不要调皮！  
 1. 【[祖宗八代](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zv_zon_baeh_tae.md#祖宗八代)】`zv3 zon1 baeh7 tae6` <sup>[东台]</sup> 通常指从自己的父母向止，依次序为祖父母、曾祖父母、高祖父母、天祖父母、烈祖父母、太祖父母、远祖父母、鼻祖父母。（向下的次序见“屑屑孙儿”）  

@@ -174,7 +174,7 @@
 1. 【[翻眼六大颈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_ngaen_loh_da.md#翻眼六大颈)】`faen1 ngaen3 loh8 da jien3` <sup>[兴化]</sup> 瞪眼，跟人发脾气：他动不动就～的，些伢儿个个怕他。  
 1. 【[翻眼无情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_ngaen_v_qien.md#翻眼无情)】`faen1 ngaen3 v2 qien2` <sup>[如东]</sup> 眼睛一翻，不承认过去的情分。  
 1. 【[翻拗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_ngo.md#翻拗)】`faen1 ngo5` <sup>[兴化]</sup> 翻身挺起：连留孩也上了手，拽住他企图往上～的腿。（汪曾祺：《羊舍一夕》）  
-1. 【[翻耙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_pa.md#翻耙)】`faen1 pa2` <small>/fɛ̃1 pʰa2/<sup>兴化</sup></small> ① 钉耙的一种。四齿，齿条粗，方而尖。主要用以翻地。<sup>\[如东\]</sup> ② 一种翻场农具，在竹柄前安有一块长方形木板<sup>\[兴化\]</sup>：（她）干起活来，不管日夜，真是丢了～拿扫竹……（马春阳：《告状》）<sup>\[兴化\]</sup>  
+1. 【[翻筢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_pa.md#翻筢)】`faen1 pa2` <small>/fɛ̃1 pʰa2/<sup>兴化</sup></small> ① 钉筢的一种。四齿，齿条粗，方而尖。主要用以翻地。<sup>\[如东\]</sup> ② 一种翻场农具，在竹柄前安有一块长方形木板<sup>\[兴化\]</sup>：（她）干起活来，不管日夜，真是丢了～拿扫竹……（马春阳：《告状》）<sup>\[兴化\]</sup>  
 1. 【[翻泡泡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_po_po.md#翻泡泡)】`faen1 po1 po1` <sup>[兴化]</sup> 液体中泛起的气泡。儿童语：大街上说话，阴沟塘里～（插话）。  
 1. 【[翻泡泡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_po_po_r.md#翻泡泡<sub>儿</sub>)】`faen1 po1 po1 r` <sup>[如东]</sup> ① 液体里冒气泡儿。 ② 比喻多说没有作用的话：你就欢喜～。  
 1. 【[翻泡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_po_r.md#翻泡<sub>儿</sub>)】`faen1 po1 r` <sup>[泰州]</sup> 翻起水泡。指对立者出现行动的迹象：这件事就找你俫的意见办，个别人要～也不怕。  
@@ -192,7 +192,7 @@
 1. 【[翻头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_teu.md#翻头)】`faen1 teu2` <small>/fɛ̃1 tʰɤ2/<sup>兴化</sup></small> ① 轮转<sup>\[兴化\]</sup>：十五个人三班倒，每人一班，五天一～。<sup>\[兴化\]</sup> ② 一个过程结束以后，重新从头开始<sup>\[泰州\]</sup>：他英语复习咖一交（go5）之后，又～复习咖一交。<sup>\[泰州\]</sup>  
 1. 【[翻头脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_teu_jiah.md#翻头脚)】`faen1 teu2 jiah7` <sup>[东台]</sup> 把库存物资彻底翻一遍：今吖要把仓库里的存粮翻个头脚。  
 1. 【[翻头碌眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_teu_loh_ngaen.md#翻头碌眼)】`faen1 teu2 loh8 ngaen3` <sup>[如东]</sup> 眼神特别，不安分的样子：这个人～的，要注意。  
-1. 【[翻田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_tin.md#翻田)】`faen1 tin2` <sup>[如东]</sup> 一种耕作方法。用钉耙或铁锹把田里的土壤翻开来，通风透光，杀虫，增肥。  
+1. 【[翻田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_tin.md#翻田)】`faen1 tin2` <sup>[如东]</sup> 一种耕作方法。用钉筢或铁锹把田里的土壤翻开来，通风透光，杀虫，增肥。  
 1. 【[翻箱倒柜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_xian_do_kuei.md#翻箱倒柜)】`faen1 xian1 do3 kuei6` 在箱子框子里到处找东西，并且翻的乱七八糟  
 1. 【[翻箱笼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_xian_lon.md#翻箱笼)】`faen1 xian1 lon2` <sup>[如东]</sup> ① 到处乱翻，寻找东西口：他在家里～。 ② 比喻兜老底：请你不要～。  
 1. 【[翻箱<sub>儿</sub>倒笼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_xian_r_do.md#翻箱<sub>儿</sub>倒笼<sub>儿</sub>)】`faen1 xian1 r do5 lon3 r` <sup>[如皋]</sup> 乱找、乱翻。  
@@ -218,7 +218,7 @@
 1. 【[反齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_chr.md#反齿)】`faen3 chr3` <small>/fɛ̃3 t͡sʰɿ3/<sup>兴化</sup>, /fɛ̃3 t͡sʰɿ3/<sup>泰县</sup></small> ① 推翻原来说的话<sup>\[兴化\]</sup>：《扬州说书选·闯昭关》中有“他来求你，你可反齿”句。<sup>\[兴化\]</sup> ② 不承认<sup>\[泰县\]</sup>：你前朝才答应帮我忙的，今朝怎吖就～啦！<sup>\[泰县\]</sup>  
 1. 【[反滴水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_dieh_shuei.md#反滴水)】`faen3 dieh7 shuei3` <sup>[如东]</sup> 踏步床前边的装饰物，方柱形，一般雕花镶金。  
 1. 【[反而](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_er.md#反而)】`faen3 er2` <sup>[泰州]</sup> 表示与初衷相反或者出乎意料。  
-1. 【[反过钉耙斸天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_gu_dien_pa.md#反过钉耙斸天)】`faen3 gu5 dien1 pa zhoh7 tin1` <small>/fɛ̃3 kɤɯ5 tiŋ1 pʰɑ t͡sɔʔ7 tʰĩ1/<sup>泰兴</sup></small> 喻亏理者反诬有理者，企图占上风。犹“倒打一耙”。<sup>\[泰兴\]</sup>：现在他竟～，不放我过身。<sup>\[泰兴\]</sup>  
+1. 【[反过钉筢斸天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_gu_dien_pa.md#反过钉筢斸天)】`faen3 gu5 dien1 pa zhoh7 tin1` <small>/fɛ̃3 kɤɯ5 tiŋ1 pʰɑ t͡sɔʔ7 tʰĩ1/<sup>泰兴</sup></small> 喻亏理者反诬有理者，企图占上风。犹“倒打一筢”。<sup>\[泰兴\]</sup>：现在他竟～，不放我过身。<sup>\[泰兴\]</sup>  
 1. 【[反卦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_gua.md#反卦)】`faen3 gua5` <sup>[兴化]</sup> 改变原来的意见、承诺等：三哥养鱼得利，村里突然～，鱼塘不让他承包啊。  
 1. 【[反骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_gueh.md#反骨)】`faen3 gueh7` <small>/fɛ̃3 kuəʔ7/<sup>泰兴</sup></small> 谓有反叛的骨相，乡人常用作骂不听正确意见者。<sup>\[泰兴\]</sup>  
 1. 【[反喉咙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_heu_lon.md#反喉咙)】`faen3 heu2 lon2-3` <sup>[东台]</sup> 唱歌时声音高低不准，音律不齐。也称“左嗓子”。  

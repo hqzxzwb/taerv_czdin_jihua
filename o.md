@@ -9,10 +9,8 @@
 1. 【[屋顶子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_dien_zz.md#屋顶子)】`oh7 dien3 zz` <small>/ɔʔ7 tiŋ3 t͡sɿ/<sup>泰兴</sup></small> 房屋的最高部分。<sup>\[泰兴\]</sup>  
 1. 【[屋搁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_gah_zz.md#屋搁子)】`oh7 gah7 zz` <small>/ɔʔ7 kɑʔ7 t͡sɿ/<sup>泰兴</sup></small> 架于屋面用于铺瓦的木条、竹条等。<sup>\[泰兴\]</sup>  
 1. 【[屋后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_heu.md#屋后)】`oh7 heu6` <sup>[如东]</sup> 房屋的后边。  
-1. 【[屋后头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_heu_teu.md#屋后头)】`oh7 heu6 teu` <sup>[兴化]</sup> 住房的后头。也称“家后头”：我家～是个大巷  
-1. 【[屋后头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_heu_teu.md#屋后头)】`oh7 heu6 teu` <small>/ɔʔ7 xəɪ1 tʰəɪ/<sup>泰兴</sup></small> 屋后。<sup>\[泰兴\]</sup>  
-1. 【[屋檐头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_in_teu.md#屋檐头)】`oh7 in2 teu` <sup>[东台]</sup> 屋面伸出墙外的部分。  
-1. 【[屋檐头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_in_teu.md#屋檐头)】`oh7 in2 teu` <small>/ɔʔ7 ĩ2 tʰəɪ/<sup>泰兴</sup></small> 屋檐。<sup>\[泰兴\]</sup>  
+1. 【[屋后头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_heu_teu.md#屋后头)】`oh7 heu6 teu` <small>/ɔʔ7 xɤ6 tʰɤ/<sup>兴化</sup>, /ɔʔ7 xəɪ1 tʰəɪ/<sup>泰兴</sup></small> ① 住房的后头。也称“家后头”。<sup>\[兴化\]</sup>：我家～是个大巷<sup>\[兴化\]</sup> ② 屋后。<sup>\[泰兴\]</sup>  
+1. 【[屋檐头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_in_teu.md#屋檐头)】`oh7 in2 teu` <small>/ɔʔ7 ĩ2 tʰəɪ/<sup>泰兴</sup></small> ① 屋面伸出墙外的部分。<sup>\[东台\]</sup> ② 屋檐。<sup>\[泰兴\]</sup>  
 1. 【[屋脊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_jieh.md#屋脊)】`oh7 jieh7` <sup>[如东]</sup> 屋顶中间高起的部分。  
 1. 【[屋脊上的冬瓜——两边滚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_jieh_shan_dii.md#屋脊上的冬瓜——两边滚)】`oh7 jieh7 shan6 dii don1 gua1 laen3 bin1 guen3` <sup>[东台]</sup>   
 1. 【[屋脊上的番瓜，两边滚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_jieh_shan_dii.md#屋脊上的番瓜，两边滚)】`oh7 jieh7 shan6 dii faen1 gua1 laen3 bin1 guen3` <small>/ɔʔ7 t͡ɕiʔ7 sɑŋ1 təɪ fɛ̃1 kuɑ1 lɛ̃3 pĩ1 kuəŋ3/<sup>泰兴</sup></small> 歇后语。喻两面派的小人行为。<sup>\[泰兴\]</sup>  
@@ -21,9 +19,8 @@
 1. 【[屋梁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_lian.md#屋梁)】`oh7 lian2` <sup>[兴化]</sup> 檩。架在屋架或山墙上面用来支持椽子盖屋面的长条形构件。也称“桁条”。  
 1. 【[屋里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_lii.md#屋里)】`oh7 lii` <sup>[兴化]</sup> 房屋里面：覅站吖外头，请～坐。｜把～屋外打扫得干干净净。也说“家里”。  
 1. 【[屋山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_shaen.md#屋山)】`oh7 shaen1` <sup>[如东]</sup> 房屋的两边。  
-1. 【[屋山头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_shaen_teu.md#屋山头)】`oh7 shaen1 teu2` <sup>[兴化]</sup> 山墙和靠近山墙的地方：他在～栽啊两棵水杉。｜……望见泰伯祠的大殿，～倒了半边。（《儒林外史》五五）  
 1. 【[屋山头/屋𣓒头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_shaen_teu.md#屋山头/屋𣓒头)】`oh7 shaen1 teu2` <sup>[泰州]</sup> 紧靠在屋脊两端下方左右两侧的墙壁：空调外机装吖两边～上是最合理的。  
-1. 【[屋山头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_shaen_teu.md#屋山头)】`oh7 shaen1 teu2` <small>/ɔʔ7 ɕiɛ̃1 tʰəɪ2/<sup>泰兴</sup></small> 房屋的山墙边。<sup>\[泰兴\]</sup>  
+1. 【[屋山头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_shaen_teu.md#屋山头)】`oh7 shaen1 teu2` <small>/ɔʔ7 sɛ̃1 tʰɤ2/<sup>兴化</sup>, /ɔʔ7 ɕiɛ̃1 tʰəɪ2/<sup>泰兴</sup></small> ① 山墙和靠近山墙的地方<sup>\[兴化\]</sup>：他在～栽啊两棵水杉。<sup>\[兴化\]</sup>｜……望见泰伯祠的大殿，～倒了半边。（《儒林外史》五五）<sup>\[兴化\]</sup> ② 房屋的山墙边。<sup>\[泰兴\]</sup>  
 1. 【[沃动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_ton.md#沃动)】`oh7 ton` <sup>[如东]</sup> 濛濛细雨密集地下着：外头的雨落咖～。  
 1. 【[䐥臭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_cheu.md#䐥臭)】`on1 cheu5` 很臭<sup>\[泰州\]</sup>：你几天不换袜子，～的。<sup>\[泰州\]</sup>  
 1. 【[嗡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_zz.md#嗡子)】`on1 zz` <sup>[兴化]</sup> 空竹：扯～（抖空竹）。  

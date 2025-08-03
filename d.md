@@ -1454,8 +1454,7 @@
 1. 【[等歇<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_xih_r.md#等歇<sub>儿</sub>)】`den3 xih9 r` <sup>[东台]</sup> 等一会儿。也称“过等儿”“隔歇儿”“等歇歇儿”。  
 1. 【[等雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_xiuh.md#等雪)】`den3 xiuh7` <sup>[兴化]</sup> 天色阴沉，朝阳屋面的积雪不化，预示还要降雪。  
 1. 【[等尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_xy.md#等尿)】`den3 xy1` <sup>[如皋]</sup> 用便盆侍侯排小便。  
-1. 【[趸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den.md#趸)】`den3` <sup>[东台]</sup> 整批的：成～｜～交。  
-1. 【[趸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den.md#趸)】`den3` <small>/təŋ3/<sup>泰兴</sup></small> 整批，成批。多指买卖货物。<sup>\[泰兴\]</sup>：你要买成～儿的买去，点儿眼儿的我不卖<sup>\[泰兴\]</sup>  
+1. 【[趸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den.md#趸)】`den3` <small>/təŋ3/<sup>泰兴</sup></small> ① 整批的<sup>\[东台\]</sup>：成～<sup>\[东台\]</sup>｜～交。<sup>\[东台\]</sup> ② 整批，成批。多指买卖货物。<sup>\[泰兴\]</sup>：你要买成～儿的买去，点儿眼儿的我不卖<sup>\[泰兴\]</sup>  
 1. 【[凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den.md#凳)】`den5` <sup>[东台]</sup> 有腿没有靠背的坐具：搬个～子来｜板～｜小圆～儿。  
 1. 【[凳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_r.md#凳<sub>儿</sub>)】`den5 r` <small>/təŋ5 ɚ/<sup>泰县</sup></small> ① 供人坐的家具，没有身靠背，长条形，四只脚。<sup>\[如东\]</sup> ② 凳子。<sup>\[泰县\]</sup>  
 1. 【[扽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den.md#扽)】`den5` <small>/tən5/<sup>兴化</sup>, /təŋ5/<sup>如皋</sup>, /təŋ5/<sup>泰兴</sup>, /təŋ5/<sup>泰县</sup></small> ① 拉。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup>\[泰兴：用力猛地拉。猛劲拉\]\[泰州：迅速有力拉动物体使之伸直或者平整、拉断、拉脱等等\]：把绳儿～～长。<sup>\[如东\]</sup>｜他轻轻儿～她衣角。<sup>\[如皋\]</sup>｜把线～紧！<sup>\[东台\]</sup>｜把绳子～紧<sup>\[兴化\]</sup>｜把衬衣朝下～～。<sup>\[兴化\]</sup>｜把开关～断吖。<sup>\[泰县\]</sup>｜绳子不结实，一～就断吖唻。<sup>\[泰州\]</sup> ② 贪吃<sup>\[泰县\]</sup>  
@@ -1530,8 +1529,7 @@
 1. 【[斗子墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_zz_qian.md#斗子墙)】`deu3 zz qian2` <sup>[如东]</sup> 用仄砖砌起来的墙。  
 1. 【[陡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu.md#陡)】`deu3` <sup>[如皋]</sup> 雨势急：雨～。  
 1. 【[陡陡弯<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_deu_vaen_r.md#陡陡弯<sub>儿</sub>)】`deu3 deu3 vaen1 r` <sup>[东台]</sup> 头脑不冷静，容易情绪化，喜欢走极端、陡转弯的人。  
-1. 【[陡发万金](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_faeh_vaen_jien.md#陡发万金)】`deu3 faeh7 vaen6 jien1` <sup>[如皋]</sup> 横财。  
-1. 【[陡发万金](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_faeh_vaen_jien.md#陡发万金)】`deu3 faeh7 vaen6 jien1` <small>/təɪ3 fæʔ7 ʋɛ̃1 t͡ɕiŋ1/<sup>泰兴</sup></small> 突然发了大财。<sup>\[泰兴\]</sup>  
+1. 【[陡发万金](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_faeh_vaen_jien.md#陡发万金)】`deu3 faeh7 vaen6 jien1` <small>/tei3 feʔ7 ʋẽ1 t͡ɕiəŋ1/<sup>如皋</sup>, /təɪ3 fæʔ7 ʋɛ̃1 t͡ɕiŋ1/<sup>泰兴</sup></small> ① 横财。<sup>\[如皋\]</sup> ② 突然发了大财。<sup>\[泰兴\]</sup>  
 1. 【[陡锅子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_gu_zz.md#陡锅子)】`deu3 gu1 zz` <sup>[如皋]</sup> 深底铸铁锅。  
 1. 【[陡急](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_jieh.md#陡急)】`deu3 jieh7` <sup>[如皋]</sup> 性急，动作粗鲁。  
 1. 【[陡急陡急的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_jieh_deu_jieh.md#陡急陡急的)】`deu3 jieh7 deu3 jieh7 dii` <sup>[如皋]</sup> 见“陡急”。  
@@ -1700,12 +1698,12 @@
 1. 【[钉鞋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_hae.md#钉鞋)】`dien1 hae2` <small>/tiŋ1 xɛ2/<sup>泰兴</sup></small> ① 雨鞋底部钉上圆头钉，起扒滑作用。这种鞋称钉鞋。<sup>\[如东\]</sup> ② 旧时雨鞋，鞋底钉上大帽子钉。<sup>\[东台\]</sup> ③ 运动员所穿跑鞋、跳鞋的统称。<sup>\[东台\]</sup> ④ 旧时雨鞋，鞋帮刷桐油防水浸透，以其鞋底上有圆头防滑铁钉，故名。<sup>\[泰州\]</sup> ⑤ 旧式雨鞋。用布做成，并以桐油油过，鞋底下加有圆头铁钉以防滑。<sup>\[泰兴\]</sup>  
 1. 【[钉鞋底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_hae_di.md#钉鞋底)】`dien1 hae2 di3` <sup>[东台]</sup> 纳鞋底。  
 1. 【[钉螺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_lu.md#钉螺)】`dien1 lu2` <sup>[如东]</sup> 锥螺科动物钉螺，壳小，尖塔形，有螺层七个左右。  
-1. 【[钉耙锄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_pa_chv_zz.md#钉耙锄子)】`dien1 pa chv2 zz` <small>/tiŋ1 pʰɑ sɤɯ2 t͡sɿ/<sup>泰兴</sup></small> 泛指各种小型农具。<sup>\[泰兴\]</sup>  
-1. 【[钉耙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_pa.md#钉耙)】`dien1 pa2` ① 农具。铁制，有四只齿。用以翻地。<sup>\[如东\]</sup> ② 一种齿形如钉的农具。<sup>\[东台\]</sup>  
-1. 【[钉耙柄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_pa_bien.md#钉耙柄)】`dien1 pa2 bien5` <sup>[如东]</sup> 固定钉耙的竹竿或木杆。  
-1. 【[钉耙齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_pa_chr.md#钉耙齿)】`dien1 pa2 chr3` <sup>[如东]</sup> 由钉耙头延伸下来的长条，铁制，扁形或方形、圆形，尖端锋利。  
-1. 【[钉耙大锹——不出土气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_pa_da_qio.md#钉耙大锹——不出土气)】`dien1 pa2 da6 qio1 beh7 chueh7 tv3 qi5` <sup>[东台]</sup>   
-1. 【[钉耙头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_pa_teu.md#钉耙头)】`dien1 pa2 teu2` <sup>[如东]</sup> 钉耙齿的汇集处，有孔，供揕柄用。  
+1. 【[钉筢锄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_pa_chv_zz.md#钉筢锄子)】`dien1 pa chv2 zz` <small>/tiŋ1 pʰɑ sɤɯ2 t͡sɿ/<sup>泰兴</sup></small> 泛指各种小型农具。<sup>\[泰兴\]</sup>  
+1. 【[钉筢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_pa.md#钉筢)】`dien1 pa2` ① 农具。铁制，有四只齿。用以翻地。<sup>\[如东\]</sup> ② 一种齿形如钉的农具。<sup>\[东台\]</sup>  
+1. 【[钉筢柄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_pa_bien.md#钉筢柄)】`dien1 pa2 bien5` <sup>[如东]</sup> 固定钉筢的竹竿或木杆。  
+1. 【[钉筢齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_pa_chr.md#钉筢齿)】`dien1 pa2 chr3` <sup>[如东]</sup> 由钉筢头延伸下来的长条，铁制，扁形或方形、圆形，尖端锋利。  
+1. 【[钉筢大锹——不出土气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_pa_da_qio.md#钉筢大锹——不出土气)】`dien1 pa2 da6 qio1 beh7 chueh7 tv3 qi5` <sup>[东台]</sup>   
+1. 【[钉筢头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_pa_teu.md#钉筢头)】`dien1 pa2 teu2` <sup>[如东]</sup> 钉筢齿的汇集处，有孔，供揕柄用。  
 1. 【[钉坛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_tun.md#钉坛)】`dien1 tun2` <sup>[如东]</sup> 容器。陶制。规格不一，一般的标准，身高53厘米，颈高3厘米，口直径13厘米，肩直径28厘米，底直径23厘米。用以盛酒、醋、油等物。  
 1. 【[钉子槐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_zz_huae.md#钉子槐)】`dien1 zz huae2` <sup>[泰兴]</sup> 长刺的槐树。  
 1. 【[钉子霜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dien_zz_shuan.md#钉子霜)】`dien1 zz shuan1` <sup>[如皋]</sup> 霜晶可接连很长，若钉子，表示霜大。  
@@ -1789,7 +1787,7 @@
 1. 【[丢点<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_din_r.md#丢点<sub>儿</sub>)】`dieu1 din3 r` <small>/tiɤɯ1 tiɪ̃3 ɚ/<sup>泰县</sup></small> ① 雨点儿从天上一点一点的落下来，表示开始下雨了。<sup>\[如东\]</sup>：外面丢起点儿来啊。<sup>\[如东\]</sup> ② 开始下雨<sup>\[泰县\]</sup>：天又～啊啦。<sup>\[泰县\]</sup>  
 1. 【[丢点子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_din_zz.md#丢点子)】`dieu1 din3 zz` <sup>[东台]</sup> 大雨前落下的稀疏的雨点。即开始下雨。  
 1. 【[丢功](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_gon.md#丢功)】`dieu1 gon1` <small>/tiɤ1 koŋ1/<sup>兴化</sup></small> ① 原有功夫由于长时间不接触而荒疏<sup>\[兴化\]</sup>：几年不上舞台，嗓子、身段全～吖。<sup>\[兴化\]</sup> ② 某种技能犹豫长时间不操练而显得荒疏<sup>\[泰州\]</sup>：他十几年不上台唱戏，早已经～唻。<sup>\[泰州\]</sup>｜现在一分钟还能打一百多个字，看来不曾～。<sup>\[泰州\]</sup>  
-1. 【[丢下翻耙拿扫竹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_ha_faen_pa.md#丢下翻耙拿扫竹)】`dieu1 ha faen1 pa2 na2 so5 zhoh7` <small>/tiɤ1 xa fɛ̃1 pʰa2 la2 sɔ5 t͡sɔʔ7/<sup>兴化</sup>, /təɪ1 xɑ fɛ̃1 pʰɑ2 nɑ2 sɔ5 t͡sɔʔ7/<sup>泰兴</sup></small> ① 形容人勤劳把家，搁下这样，又做那样<sup>\[兴化\]</sup>：你家弟新妇勤力吤，～，一天到晚手不闲。<sup>\[兴化\]</sup> ② 谓放下这样又干那样。形容勤劳，不肯休息。<sup>\[泰兴\]</sup> ③ 不停地主动找活干。<sup>\[东台\]</sup>  
+1. 【[丢下翻筢拿扫竹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_ha_faen_pa.md#丢下翻筢拿扫竹)】`dieu1 ha faen1 pa2 na2 so5 zhoh7` <small>/tiɤ1 xa fɛ̃1 pʰa2 la2 sɔ5 t͡sɔʔ7/<sup>兴化</sup>, /təɪ1 xɑ fɛ̃1 pʰɑ2 nɑ2 sɔ5 t͡sɔʔ7/<sup>泰兴</sup></small> ① 形容人勤劳把家，搁下这样，又做那样<sup>\[兴化\]</sup>：你家弟新妇勤力吤，～，一天到晚手不闲。<sup>\[兴化\]</sup> ② 谓放下这样又干那样。形容勤劳，不肯休息。<sup>\[泰兴\]</sup> ③ 不停地主动找活干。<sup>\[东台\]</sup>  
 1. 【[丢黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_huan.md#丢黄)】`dieu1 huan2` <small>/tyʊ1 xuã2/<sup>如皋</sup></small> ① 丢面子。<sup>\[如东\]</sup> ② 失体、丢面子。自觉惭愧。<sup>\[如皋\]</sup> ③ 见“黄孔儿”。<sup>\[如皋\]</sup>  
 1. 【[丢忆头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_ieh_teu.md#丢忆头)】`dieu1 ieh7 teu` <sup>[如皋]</sup> 人将去，留下值回忆、纪念的东西、话语、事件。  
 1. 【[丢架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_jia_zz.md#丢架子)】`dieu1 jia5 zz` <sup>[泰州]</sup> ① 失去派头，排场：他说起来有钱，这一回小伙结婚，桌上连包中华烟都没得，怎吖就不怕～的？ ② 丢脸，出丑：他这个拿过全市象棋冠军的人输啊把个才出道的小年轻，真～。  
@@ -1811,8 +1809,8 @@
 1. 【[丢定](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_tien.md#丢定)】`dieu1 tien6` <sup>[兴化]</sup> 买卖成交后，买方先付小部分货款给卖方，定下这批货。如到期不找补货款提货，则定金不再返还。  
 1. 【[丢定规](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_tien_guei.md#丢定规)】`dieu1 tien6 guei` <sup>[如皋]</sup> 给定金。  
 1. 【[丢定钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_tien_qin.md#丢定钱)】`dieu1 tien6 qin2` <sup>[东台]</sup> 事先付出一定的押金（保证金），对买卖双方都有约束，保证约定或合同履行。民间也叫“给垫亏”。  
-1. 【[丢掉翻耙拿扫帚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_tio_faen_pa.md#丢掉翻耙拿扫帚)】`dieu1 tio faen1 pa2 na2 so5 zheu3` <sup>[东台]</sup> 形容非常勤快，做好这样又拿起那样活计来做。（《红楼梦》四十七回用此词语）  
-1. 【[丢掉耙<sub>儿</sub>拿扫帚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_tio_pa_r.md#丢掉耙<sub>儿</sub>拿扫帚)】`dieu1 tio pa2 r na2 so3 zheu3` <sup>[如皋]</sup> ① 喻见眼生情，做个不停。 ② 见“见眼生情”。  
+1. 【[丢掉翻筢拿扫帚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_tio_faen_pa.md#丢掉翻筢拿扫帚)】`dieu1 tio faen1 pa2 na2 so5 zheu3` <sup>[东台]</sup> 形容非常勤快，做好这样又拿起那样活计来做。（《红楼梦》四十七回用此词语）  
+1. 【[丢掉筢<sub>儿</sub>拿扫帚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_tio_pa_r.md#丢掉筢<sub>儿</sub>拿扫帚)】`dieu1 tio pa2 r na2 so3 zheu3` <sup>[如皋]</sup> ① 喻见眼生情，做个不停。 ② 见“见眼生情”。  
 1. 【[丢掉西瓜拾个芝麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_tio_xi_gua.md#丢掉西瓜拾个芝麻)】`dieu1 tio xi1 gua1 sheh8 gu zhr1 ma2` <sup>[东台]</sup> （俗语）因小失大。  
 1. 【[丢相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_xian.md#丢相)】`dieu1 xian5` <small>/tiɤ1 ɕiaŋ5/<sup>兴化</sup>, /tyʊ1 ɕiã5/<sup>如皋</sup></small> ① 失体。<sup>\[如皋\]</sup> ② 丢脸挂相。<sup>\[东台\]</sup> ③ 出丑，丢人。<sup>\[兴化\]</sup>  
 1. 【[丢形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieu_xien.md#丢形)】`dieu1 xien2` <small>/tyʊ1 ɕiəŋ2/<sup>如皋</sup>, /təɪ1 ɕiŋ2/<sup>泰兴</sup></small> ① 失体面。<sup>\[如皋\]</sup> ② 丢脸，丢架子。<sup>\[泰兴\]</sup>  
@@ -2010,8 +2008,7 @@
 1. 【[屌郎当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_lan_dan.md#屌郎当)】`dio3 lan2 dan1` <sup>[东台]</sup> 男人（多指男孩）一丝不挂的样子。  
 1. 【[屌毛灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_mo_huei.md#屌毛灰)】`dio3 mo2 huei1` <small>/tiɔ3 mɔ2 xuei1/<sup>如皋</sup>, /tiɔ3 mɔ2 xuəɪ1/<sup>泰兴</sup></small> ① 比喻没有用的人。<sup>\[如东\]</sup>：他是个～。<sup>\[如东\]</sup> ② 轻微得不值提、不屑一说或指什么都没有。<sup>\[如皋\]</sup> ③ 见“卵毛灰”。<sup>\[如皋\]</sup> ④ 粗话，表示极度轻蔑<sup>\[泰州\]</sup>：（甲）你嘴里不要瞎说八道的，当心他收拾你！（乙）～，他就是人在这块，也没得哪个怕他。<sup>\[泰州\]</sup> ⑤ 粗鄙语。无，没有。<sup>\[泰兴\]</sup>  
 1. 【[屌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_r.md#屌<sub>儿</sub>)】`dio3 r` <small>/tiɔ˞3/<sup>如皋</sup></small> 阴茎<sup>\[如东\]</sup><sup>\[如皋\]</sup>  
-1. 【[屌<sub>儿</sub>郎当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_r_lan_dan.md#屌<sub>儿</sub>郎当)】`dio3 r lan2 dan1` <sup>[如东]</sup> ① 作风散漫：办事不能～的。 ② 仪容不整：看他那个～的样子。  
-1. 【[屌<sub>儿</sub>郎当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_r_lan_dan.md#屌<sub>儿</sub>郎当)】`dio3 r lan2 dan1` <small>/tiɔ˞3 lɑŋ2 tɑŋ1/<sup>泰兴</sup></small> ① 形容仪容不整，作风散漫。<sup>\[东台\]</sup> ② 形容作风散漫、态度不严肃、仪容不整等。<sup>\[泰兴\]</sup>  
+1. 【[屌<sub>儿</sub>郎当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_r_lan_dan.md#屌<sub>儿</sub>郎当)】`dio3 r lan2 dan1` <small>/tiɔ˞3 lɑŋ2 tɑŋ1/<sup>泰兴</sup></small> ① 作风散漫。<sup>\[如东\]</sup>：办事不能～的。<sup>\[如东\]</sup> ② 仪容不整。<sup>\[如东\]</sup>：看他那个～的样子。<sup>\[如东\]</sup> ③ 形容仪容不整，作风散漫。<sup>\[东台\]</sup> ④ 形容作风散漫、态度不严肃、仪容不整等。<sup>\[泰兴\]</sup>  
 1. 【[屌人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_ren.md#屌人)】`dio3 ren2` <sup>[泰州]</sup> 对人的蔑称。  
 1. 【[屌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_zz.md#屌子)】`dio3 zz` <small>/tiɔ3 t͡sɿ/<sup>如皋</sup>, /tiɔ3 t͡se/<sup>泰县</sup></small> 阴茎<sup>\[泰县\]</sup><sup>\[如皋\]</sup>  
 1. 【[屌子打连耞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_zz_da_lin.md#屌子打连耞)】`dio3 zz da3 lin2 gae1` <sup>[东台]</sup> 形容贫穷得一无所有。  

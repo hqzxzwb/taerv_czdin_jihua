@@ -1405,7 +1405,7 @@
 1. 【[花生酥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_shen_sv.md#花生酥)】`hua1 shen sv1` <sup>[兴化]</sup> 以花生的碎屑和莲糖为主要原料制成的酥糖。  
 1. 【[花生糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_shen_tan.md#花生糖)】`hua1 shen tan2` <small>/xua1 sən tʰaŋ2/<sup>兴化</sup>, /xuɑ1 səŋ tʰɑŋ2/<sup>泰兴</sup></small> ① 由炒熟的花生米、砂糖和糖稀一起熬成，冷却后切成小方块。<sup>\[兴化\]</sup> ② 以花生仁为主要原料做成的糖，香脆可口。<sup>\[泰兴\]</sup>  
 1. 【[花生衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_shen_i.md#花生衣)】`hua1 shen1 i1` <sup>[如东]</sup> 包裹花生米的皮，红色或淡红色，人中药，有止血作用。  
-1. 【[花生耙<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_shen_pa_r.md#花生耙<sub>儿</sub>)】`hua1 shen1 pa2 r` <sup>[如东]</sup> 农具。铁制，四齿，较短，有柄。用以锄花生。  
+1. 【[花生筢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_shen_pa_r.md#花生筢<sub>儿</sub>)】`hua1 shen1 pa2 r` <sup>[如东]</sup> 农具。铁制，四齿，较短，有柄。用以锄花生。  
 1. 【[花生筛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_shen_shae_zz.md#花生筛子)】`hua1 shen1 shae1 zz` <sup>[如皋]</sup> 专用于收花生的筛子。  
 1. 【[花太阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_tae_ian.md#花太阳)】`hua1 tae5 ian` <sup>[如皋]</sup> 与阴影相间的阳光，光线不强。常见为：云缝中透射出一束束阳光。或竹园、树荫下的一块块光圈、光斑。  
 1. 【[花头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hua_teu.md#花头)】`hua1 teu` <sup>[如东]</sup> 技俩：他在下耍甚的～？  

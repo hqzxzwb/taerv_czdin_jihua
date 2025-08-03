@@ -91,10 +91,10 @@
 1. 【[㨟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae.md#㨟)】`gae1` <small>/kɛ1/<sup>兴化</sup>, /kɛ1/<sup>如皋</sup>, /kɛ1/<sup>泰兴</sup>, /ke1/<sup>泰县</sup></small> ① 拨，拨动<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup><sup>\[泰州\]</sup>：拿筷儿把大碗里的饭～啊汤碗儿里。<sup>\[如皋\]</sup>｜用筷子～菜<sup>\[东台\]</sup>｜把锅门口草～下子。<sup>\[东台\]</sup>｜他把好菜往我碗里～。<sup>\[兴化\]</sup>｜把盘子里的毛豆米儿～点儿来吃吃。<sup>\[泰县\]</sup>｜我用脚～他，教他少说两句<sup>\[泰兴\]</sup>｜饭盛得太多，你～掉点ㄦ吧。<sup>\[泰州\]</sup>｜他用膀子一～，旁边的人捱他～得翻翻的。<sup>\[泰州\]</sup> ② 推开<sup>\[兴化\]</sup>：他把桌子上的东西通通～下地。<sup>\[兴化\]</sup> ③ 扒<sup>\[兴化\]</sup>：一大碗米饭他一刻儿就～下肚啊。<sup>\[兴化\]</sup> ④ 信口乱说<sup>\[兴化\]</sup>：他说话不顾场合信嘴瞎～。<sup>\[兴化\]</sup> ⑤ 比喻随意、不负责任乱说<sup>\[泰州\]</sup>：你这些话不能瞎～，当心人家打你嘴巴子。<sup>\[泰州\]</sup>｜你在这块～两句不要紧，外去不能乱～啊。<sup>\[泰州\]</sup>  
 1. 【[㨟饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_faen.md#㨟饭)】`gae1 faen6` <sup>[如皋]</sup> 见“减饭”。  
 1. 【[㨟灰佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_huei_lo_r.md#㨟灰佬<sub>儿</sub>)】`gae1 huei1 lo3 r` <small>/kɛ1 xuei1 lɔ˞3/<sup>如皋</sup></small> ① 从灶膛中出灰的长柄上有大头的木制工具。<sup>\[如皋\]</sup> ② 灶下出草木灰的工具。<sup>\[如皋\]</sup> ③ 旧式灶锅膛里拨灰的用具。也称“扒灰佬儿”。<sup>\[东台\]</sup>  
-1. 【[㨟灰耙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_huei_pa.md#㨟灰耙)】`gae1 huei1 pa2` <sup>[泰县]</sup> 木制的扒灰的用具。  
-1. 【[㨟耙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_pa.md#㨟耙)】`gae1 pa2` <sup>[如皋]</sup> 闸门形耙。2-3人操作，前拉后推，用以聚榖物等。  
+1. 【[㨟灰筢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_huei_pa.md#㨟灰筢)】`gae1 huei1 pa2` <sup>[泰县]</sup> 木制的扒灰的用具。  
+1. 【[㨟筢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_pa.md#㨟筢)】`gae1 pa2` <sup>[如皋]</sup> 闸门形筢。2-3人操作，前拉后推，用以聚榖物等。  
 1. 【[㨟屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_shr.md#㨟屎)】`gae1 shr3` <sup>[如东]</sup> 把大便向旁边推移。多指猪屎。  
-1. 【[㨟屎耙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_shr_pa.md#㨟屎耙)】`gae1 shr3 pa2` <sup>[如东]</sup> 搅扒猪圈中猪屎的工具。有齿，有柄，形似爪耙。  
+1. 【[㨟屎筢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_shr_pa.md#㨟屎筢)】`gae1 shr3 pa2` <sup>[如东]</sup> 搅扒猪圈中猪屎的工具。有齿，有柄，形似爪筢。  
 1. 【[杚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae.md#杚)】`gae1` <sup>[如东]</sup> 量谷物时用以刮平斗斛的工具。  
 1. 【[稭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae.md#稭)】`gae1` 农作物秸秆：豆～  
 1. 【[稭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_zz.md#稭子)】`gae1 zz` <small>/kɛ1 t͡sɿ/<sup>兴化</sup></small> ① 农作物脱粒后剩下的茎叶<sup>\[东台\]</sup>：～要还田，不能随意焚烧。<sup>\[东台\]</sup> ② 农作物脱粒后剩下的茎<sup>\[兴化\]</sup>：黄豆～；棉花～；芦秫～。<sup>\[兴化\]</sup>  
@@ -577,8 +577,9 @@
 1. 【[根子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_zz.md#根子)】`gen1 zz` <sup>[如皋]</sup> ① 最深最老的：脓～、老～。 ② 基础：墙～。 ③ 关系网络：他在农村的～深。  
 1. 【[羹米茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_mi_cha.md#羹米茶)】`gen1 mi3 cha2` <small>/kən1 mi3 t͡sʰa2/<sup>兴化</sup></small> ① 将糯米炒得微黄加水煮成的粥，可助消化。<sup>\[兴化\]</sup> ② 一种传统夏令主食，将米（糯米、大米、小米都可以）置于锅中炒熟以后加水煮粥，待其凉后食用，清汤清水，呈酱红色，锅巴香味。<sup>\[泰州\]</sup>  
 1. 【[耕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen.md#耕)】`gen1` <sup>[如皋]</sup> 从底部翻动：～粥锅；圆子下锅后要～下子。  
-1. 【[耕不到耙不到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_beh_do_pa.md#耕不到耙不到)】`gen1 beh7 do5 pa2 beh7 do5` <sup>[东台]</sup> 以种田比喻那种什么风险都没有的太平岗位。  
+1. 【[耕不到筢不到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_beh_do_pa.md#耕不到筢不到)】`gen1 beh7 do5 pa2 beh7 do5` <sup>[东台]</sup> 以种田比喻那种什么风险都没有的太平岗位。  
 1. 【[耕田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_tin.md#耕田)】`gen1 tin2` <sup>[如东]</sup> 一种耕作方法。用犁等工具把板结的田地翻松，以便播种。  
+1. 【[耕田耙地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_tin_pa_ti.md#耕田耙地)】`gen1 tin2 pa6 ti6` <small>/kəŋ1 tʰĩ2 pʰɑ1 t͡ɕʰʝ1/<sup>泰兴</sup></small> 泛指从事农业劳动。种田。<sup>\[泰兴\]</sup>  
 1. 【[跟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen.md#跟)】`gen1` <sup>[兴化]</sup> 旧指女人未经媒娶，今指未履行法定手续而和男人同居：这个男人是她后来～的。又作“跟人”。  
 1. 【[跟班](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_baen.md#跟班)】`gen1 baen1` ① 跟着师傅或别人做事。<sup>\[如东\]</sup>：我还在下～作业。<sup>\[如东\]</sup> ② 旧时大户人家或衙门老爷身边的随从。<sup>\[东台\]</sup>  
 1. 【[跟不上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_beh_shan.md#跟不上)】`gen1 beh shan6` <sup>[兴化]</sup> 比不上：我是乡下人，她是城里人，我打扮死啊也～吖！  
@@ -894,8 +895,7 @@
 1. 【[窖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go.md#窖)】`go5` <small>/kɔ5/<sup>兴化</sup>, /kɔ5/<sup>如皋</sup>, /kɔ5/<sup>泰县</sup></small> ① 埋藏。<sup>\[如东\]</sup>：把番薯～啊地下。<sup>\[如东\]</sup> ② 埋<sup>\[如皋\]</sup>：～番芋；～死狗。<sup>\[如皋\]</sup> ③ 埋<sup>\[东台\]</sup>：～山芋；～萝卜；～绿肥<sup>\[东台\]</sup>｜～人田（詈语）<sup>\[东台\]</sup> ④ 埋<sup>\[兴化\]</sup>：～死人。<sup>\[兴化\]</sup> ⑤ 把贵重东西藏埋起来<sup>\[兴化\]</sup>：“……祖上传下一坛金元宝……忘记了～在芦苇里什么地方……”（兴文《翻宝》）<sup>\[兴化\]</sup> ⑥ 《广韵·效韵》古孝切“～，仓～。”<sup>\[兴化\]</sup> ⑦ 埋葬<sup>\[泰县\]</sup>：尸体～啊在坟里。<sup>\[泰县\]</sup> ⑧ 将物埋入地中<sup>\[泰州\]</sup>：挖个洞把死老鼠～起来。<sup>\[泰州\]</sup> ⑨ 特指土葬<sup>\[泰州\]</sup>：他家老的～啊在森森庄。<sup>\[泰州\]</sup> ⑩ 泛指埋藏与其他物品之下<sup>\[泰州\]</sup>：他把一万块钱弄纸包啊～啊在米缸里。<sup>\[泰州\]</sup>  
 1. 【[窖宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_bo.md#窖宝)】`go5 bo3` <sup>[如皋]</sup> 詈语。咒骂对方被土埋掉。  
 1. 【[窖草塘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_co_tan.md#窖草塘)】`go5 co3 tan2` <sup>[兴化]</sup> 用青草、河泥等沤肥。  
-1. 【[窖作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_zah.md#窖作)】`go5 zah7` <small>/kɔ5 t͡saʔ7/<sup>兴化</sup>, /kɔ5 t͡saʔ7/<sup>如皋</sup>, /kɔ5 t͡sɑʔ7/<sup>泰兴</sup>, /kɔ5 t͡sɑʔ7/<sup>泰县</sup></small> 糟蹋，浪费。<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>\[如皋：同掼掉、作掉\]：不要～。<sup>\[如东\]</sup>｜不能～粮食<sup>\[如皋\]</sup>｜不要～粮食，粒粒皆辛苦啊！<sup>\[东台\]</sup>｜你～起来凶哎，三个人叫啊一桌菜，怎吖噇得下去！<sup>\[兴化\]</sup>｜饭吃不下去就放吖那块儿，不要～。<sup>\[泰县\]</sup>  
-1. 【[窖作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_zah.md#窖作)】`go5 zah7` <sup>[泰州]</sup> 浪费：一大桌子菜，有的菜都不曾动，太～咖唻。  
+1. 【[窖作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_zah.md#窖作)】`go5 zah7` <small>/kɔ5 t͡saʔ7/<sup>兴化</sup>, /kɔ5 t͡saʔ7/<sup>如皋</sup>, /kɔ5 t͡sɑʔ7/<sup>泰兴</sup>, /kɔ5 t͡sɑʔ7/<sup>泰县</sup></small> 糟蹋，浪费。<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup><sup>\[泰州\]</sup>\[如皋：同掼掉、作掉\]：不要～。<sup>\[如东\]</sup>｜不能～粮食<sup>\[如皋\]</sup>｜不要～粮食，粒粒皆辛苦啊！<sup>\[东台\]</sup>｜你～起来凶哎，三个人叫啊一桌菜，怎吖噇得下去！<sup>\[兴化\]</sup>｜饭吃不下去就放吖那块儿，不要～。<sup>\[泰县\]</sup>｜一大桌子菜，有的菜都不曾动，太～咖唻。<sup>\[泰州\]</sup>  
 1. 【[窖作掉啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_zah_tio_a.md#窖作掉啊)】`go5 zah7 tio a` <sup>[如皋]</sup> 浪费了。  
 1. 【[窖爪<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_zhua_r.md#窖爪<sub>儿</sub>)】`go5 zhua3 r` <sup>[泰县]</sup> 鞋子。  
 1. 【[窖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_zz.md#窖子)】`go5 zz` <sup>[兴化]</sup> 收藏东西的地洞或坑：地～；粮食～。  

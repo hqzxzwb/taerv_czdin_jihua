@@ -1108,8 +1108,7 @@
 1. 【[亮净](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_qien.md#亮净)】`lian6 qien` <small>/liã1 t͡ɕʰiəŋ/<sup>如皋</sup>, /liɑŋ1 t͡ɕʰiŋ/<sup>泰兴</sup></small> 明亮而洁净。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
 1. 【[亮堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_tan.md#亮堂)】`lian6 tan` <sup>[如东]</sup> 明亮。  
 1. 【[亮头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_teu.md#亮头)】`lian6 teu` <sup>[兴化]</sup> ① 发光：夏天早上四点多钟东边就有～啊。 ② 光泽：清漆～大。 ③ 衣物磨损起花：他的衣袖起啊～。  
-1. 【[亮头亮眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_teu_lian_ngaen.md#亮头亮眼)】`lian6 teu lian6 ngaen3` <sup>[兴化]</sup> 尚有天光的时候：你～的不抓紧，天黑咖熬灯费火的才着忙。  
-1. 【[亮头亮眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_teu_lian_ngaen.md#亮头亮眼)】`lian6 teu lian6 ngaen3` <small>/liɑŋ1 tʰəɪ liɑŋ1 ŋɛ̃3/<sup>泰兴</sup></small> ① 光线比较明亮。<sup>\[如东\]</sup>：早早收工，～的。<sup>\[如东\]</sup> ② 太阳下山以后、天黑之前尚有光亮这段时间<sup>\[泰州\]</sup>：天还不曾黑，趁现在～的，早点把外栋晒的些东西收家去。<sup>\[泰州\]</sup> ③ 十分明亮，光线很好。<sup>\[泰兴\]</sup>  
+1. 【[亮头亮眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_teu_lian_ngaen.md#亮头亮眼)】`lian6 teu lian6 ngaen3` <small>/liaŋ6 tʰɤ liaŋ6 ɛ̃3/<sup>兴化</sup>, /liɑŋ1 tʰəɪ liɑŋ1 ŋɛ̃3/<sup>泰兴</sup></small> ① 尚有天光的时候<sup>\[兴化\]</sup>：你～的不抓紧，天黑咖熬灯费火的才着忙。<sup>\[兴化\]</sup> ② 光线比较明亮。<sup>\[如东\]</sup>：早早收工，～的。<sup>\[如东\]</sup> ③ 太阳下山以后、天黑之前尚有光亮这段时间<sup>\[泰州\]</sup>：天还不曾黑，趁现在～的，早点把外栋晒的些东西收家去。<sup>\[泰州\]</sup> ④ 十分明亮，光线很好。<sup>\[泰兴\]</sup>  
 1. 【[亮头亮眼的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_teu_lian_ngaen.md#亮头亮眼的)】`lian6 teu lian6 ngaen3 dii` <sup>[如皋]</sup> 白天，光线明亮，有抓紧、趁亮时做事，不要拖到夜晚的意思。  
 1. 【[亮相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_xian.md#亮相)】`lian6 xian5` <sup>[如东]</sup> 露出真面目。  
 1. 【[亮星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_xien.md#亮星)】`lian6 xien1` <small>/liã1 ɕiəŋ1/<sup>如皋</sup>, /liɑŋ1 ɕiŋ1/<sup>泰兴</sup>, /niɑŋ1 ɕiŋ1/<sup>泰县</sup></small> ① 星光或者月光很亮的晚上 ② 阴历初八至二十三之间，月亮在空中，光线明亮，称亮星。<sup>\[如东\]</sup> ③ 天空没有云雾，星光闪烁，这种天气称亮星。<sup>\[如东\]</sup> ④ 有月的夜间。一般指阴历初八至二十三之间，即使乌云密布，天色也亮，不会一片漆黑。<sup>\[如皋\]</sup> ⑤ 明亮的夜晚。<sup>\[东台\]</sup> ⑥ 有月亮：今朝是～。<sup>\[泰县\]</sup> ⑦ 月光明亮的夜晚或星光很亮的夜晚<sup>\[泰州\]</sup>：趁这一刻儿～，你俫早点儿走吧。<sup>\[泰州\]</sup> ⑧ 皓月当空，不是伸手不见五指的黑夜。<sup>\[泰兴\]</sup>  
@@ -1554,15 +1553,13 @@
 1. 【[料酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_jieu.md#料酒)】`lio6 jieu3` <sup>[如东]</sup> 在劳动过程中，上午10时和下午3时，吃一餐酒菜，叫料酒。  
 1. 【[料摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_mah.md#料摸)】`lio6 mah8` 预测<sup>\[泰州\]</sup>：你说他哿有点儿～，出差不把钱带啊足咖，弄吖天天吃方便面。<sup>\[泰州\]</sup>｜你怎吖也没得～的，这种大事就敢交把小年轻去弄。<sup>\[泰州\]</sup>  
 1. 【[料峭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_qio.md#料峭)】`lio6 qio` <sup>[泰县]</sup> 身材瘦而高：这个人长得～唻。  
-1. 【[料勺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_shah.md#料勺)】`lio6 shah8` <sup>[如东]</sup> 农具。圆桶形，木制，高12厘米，口径26厘米，底径24厘米，柄长160厘米。主要用来舀粪、舀水。  
-1. 【[料勺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_shah.md#料勺)】`lio6 shah8` <small>/liɔ1 saʔ8/<sup>如皋</sup>, /niɔ1 sɑʔ8/<sup>泰县</sup></small> ① 舀粪的有长柄的木勺。<sup>\[如皋\]</sup> ② 舀粪的木勺。<sup>\[泰县\]</sup>  
+1. 【[料勺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_shah.md#料勺)】`lio6 shah8` <small>/liɔ1 saʔ8/<sup>如皋</sup>, /niɔ1 sɑʔ8/<sup>泰县</sup></small> ① 农具。圆桶形，木制，高12厘米，口径26厘米，底径24厘米，柄长160厘米。主要用来舀粪、舀水。<sup>\[如东\]</sup> ② 舀粪的有长柄的木勺。<sup>\[如皋\]</sup> ③ 舀粪的木勺。<sup>\[泰县\]</sup>  
 1. 【[料作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_zah.md#料作)】`lio6 zah` <small>/liɔ6 t͡saʔ/<sup>兴化</sup></small> ① 材料<sup>\[兴化\]</sup>：你要我替你打家具，自己把～拿过来。<sup>\[兴化\]</sup> ② 建房、制作家具等所用的大小原木、木方等原料。<sup>\[泰州\]</sup>  
 1. 【[料子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_zz.md#料子)】`lio6 zz` <small>/liɔ6 t͡sɿ/<sup>兴化</sup>, /niɔ1 t͡se/<sup>泰县</sup></small> ① 材料。<sup>\[如东\]</sup> ② ［喻］材料，人才。<sup>\[东台\]</sup> ③ 特指毛料<sup>\[兴化\]</sup>：～西装；～大衣。<sup>\[兴化\]</sup> ④ 舀粪便的勺子。<sup>\[泰县\]</sup> ⑤ 做衣服的材料。<sup>\[泰州\]</sup> ⑥ 特指毛纺布料。<sup>\[泰州\]</sup>  
 1. 【[𩻻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio.md#𩻻)】`lio6` <sup>[东台]</sup> 䱗鱼：白～。  
 1. 【[了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo.md#了)】`lo, ngo, go` <sup>[泰兴]</sup> 助词，了。读音因前字韵尾而不同：“吃咖啦？”“吃咖～（lo）”  
 1. 【[恅愺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_co.md#恅愺)】`lo1 co` <sup>[如皋]</sup> 物品脏而混杂。  
-1. 【[捞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo.md#捞)】`lo1` <sup>[兴化]</sup> 顺手拿：她到婆婆家见甚的～甚的！  
-1. 【[捞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo.md#捞)】`lo1` <small>/lɔ1/<sup>泰兴</sup></small> 不正当取得，偷窃、贪污等<sup>\[泰兴\]</sup>：箇个人块块～<sup>\[泰兴\]</sup>  
+1. 【[捞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo.md#捞)】`lo1` <small>/lɔ1/<sup>兴化</sup>, /lɔ1/<sup>泰兴</sup></small> ① 顺手拿<sup>\[兴化\]</sup>：她到婆婆家见甚的～甚的！<sup>\[兴化\]</sup> ② 不正当取得，偷窃、贪污等<sup>\[泰兴\]</sup>：箇个人块块～<sup>\[泰兴\]</sup>  
 1. 【[捞油水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ieu_shuei.md#捞油水)】`lo1 ieu2 shuei` <sup>[兴化]</sup> 用不正当手段取得钱财：他趁房屋拆迁～，捱拆迁户举报。  
 1. 【[捞脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_jiah.md#捞脚)】`lo1 jiah7` <sup>[如皋]</sup> 会捞钱物的人。  
 1. 【[捞摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_mah.md#捞摸)】`lo1 mah` <sup>[如皋]</sup> 手感厚实：这块布摸咖手上蛮有～的；那块布就没得～。  
@@ -2298,7 +2295,7 @@
 1. 【[剆剆藤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_lu_ten.md#剆剆藤)】`lu3 lu3 ten2` <small>/lo3 lo3 tʰən2/<sup>兴化</sup>, /no3 no3 tʰəŋ2/<sup>泰县</sup></small> ① 本指一种缠绕攀援的藤蔓。<sup>\[东台\]</sup> ② ［喻］纠缠不休的人<sup>\[东台\]</sup>：那人蛮不讲理，像～一样缠吖他。<sup>\[东台\]</sup> ③ 一种茎上布满小刺的蔓生植物，即葎草。<sup>\[兴化\]</sup> ④ （喻）能长时间纠缠的人<sup>\[兴化\]</sup>：她是有名的～，捱她沾上难脱身！<sup>\[兴化\]</sup> ⑤ 惯于纠缠人的人。<sup>\[泰县\]</sup> ⑥ 葎草长满倒刺的藤。<sup>\[泰州\]</sup> ⑦ 比喻一旦惹上以后就会死命纠缠、不依不饶的人<sup>\[泰州\]</sup>：这户儿是个～，你不要惹他，最好让他远点儿。<sup>\[泰州\]</sup>  
 1. 【[剆嗓子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_san_zz.md#剆嗓子)】`lu3 san3 zz` <sup>[如皋]</sup> 刀割喉部。  
 1. 【[剆手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_sheu.md#剆手)】`lu3 sheu3` <sup>[如东]</sup> 割手。  
-1. 【[那](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu.md#那)】`lu5` <sup>[如东]</sup> 指示代词。指示远的人、事物、时间、处所性质、状态等。  
+1. 【[那](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu.md#那)】`lu5` 远指代词  
 1. 【[那个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_gu.md#那个)】`lu5 gu` <sup>[东台]</sup> 某件事或某种态度的代词：～事要注意｜你这个人太～（太不像话），别怪我～（不客气）。  
 1. 【[那个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_gu.md#那个)】`lu5 gu5` <sup>[如东]</sup> 那个。  
 1. 【[那许](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_hae.md#那许)】`lu5 hae` <small>/lʊ5 xɛ/<sup>如皋</sup></small> ① 那里。<sup>\[如东\]</sup>：不要在～种花生。<sup>\[如东\]</sup> ② 那儿，那里。<sup>\[如皋\]</sup> ③ 那里。<sup>\[如皋\]</sup> ④ 那里。<sup>\[如东\]</sup>  
@@ -2311,7 +2308,7 @@
 1. 【[那境](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_jien.md#那境)】`lu5 jien5` <sup>[如皋]</sup> ① 也说lu5 jin5。那边，那一方。 ② 阴间  
 1. 【[那刻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_keh_r.md#那刻<sub>儿</sub>)】`lu5 keh9 r` <sup>[如皋]</sup> 那时，那会儿。  
 1. 【[那块](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_kuae.md#那块)】`lu5 kuae` <sup>[如东]</sup> 那里。  
-1. 【[那块](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_kuae.md#那块)】`lu5 kuae5` <small>/lʊ5 kʰuɛ5/<sup>如皋</sup>, /no5 kʰue5/<sup>泰县</sup></small> ① 那里。<sup>\[如东\]</sup> ② 那里。<sup>\[如皋\]</sup> ③ 那里：你到～去。<sup>\[泰县\]</sup>  
+1. 【[那块](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_kuae.md#那块)】`lu5 kuae5` <small>/lʊ5 kʰuɛ5/<sup>如皋</sup>, /no5 kʰue5/<sup>泰县</sup></small> 那里，那儿。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：你到～去。<sup>\[泰县\]</sup>  
 1. 【[那年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_nin.md#那年)】`lu5 nin2` <sup>[如东]</sup> 那一年。  
 1. 【[那日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_rih.md#那日)】`lu5 rih8` <sup>[如东]</sup> 那一日。  
 1. 【[那时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_shr.md#那时)】`lu5 shr2` <sup>[如东]</sup> 那个时候。  
@@ -2324,7 +2321,6 @@
 1. 【[摞宝塔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_bo_taeh.md#摞宝塔)】`lu6 bo3 taeh7` <sup>[如皋]</sup> ① 集体体育运动之一：叠罗汉。 ② 珠算练习法，即“百子图”：1＋2＋……＋100=5050。  
 1. 【[摞橱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_chv.md#摞橱)】`lu6 chv2` <small>/lo6 t͡sʰu2/<sup>兴化</sup>, /lʊ1 t͡sʰu2/<sup>如皋</sup></small> ① 指旧式上下分节的衣橱。<sup>\[如皋\]</sup> ② 一种由二层或三层相叠的橱柜，对开橱门。门膛有雕花木板或玻璃镜面。<sup>\[兴化\]</sup> ③ 一种家具，两张或者三张矮橱叠成一张大橱。<sup>\[泰州\]</sup>  
 1. 【[摞摞扎扎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_lu_zhaeh_zhaeh.md#摞摞扎扎)】`lu6 lu6 zhaeh7 zhaeh7` <sup>[兴化]</sup> 把东西聚扰一起、拾掇整齐：把文件、书籍和笔记本～，准备家去度假。  
-1. 【[那块](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_kuae.md#那块)】`lu6 kuae5` 那里，那儿。<sup>\[泰州\]</sup>  
 1. 【[擂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/luei.md#擂)】`luei2` <sup>[如东]</sup> 磨擦：用绳子来回～，把木槽磨光滑。  
 1. 【[累堆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/luei_duei.md#累堆)】`luei2 duei` ① 人的体型臃肿粗笨的样子<sup>\[泰州\]</sup>：你望你～得这样子噢。<sup>\[泰州\]</sup> ② 物体臃肿笨重的样子<sup>\[泰州\]</sup>：这个沙发太～啊唻。<sup>\[泰州\]</sup> ③ 非常糟糕<sup>\[泰州\]</sup>：这件事捱你弄吖～啊唻。<sup>\[泰州\]</sup>  
 1. 【[累堆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/luei_duei.md#累堆)】`luei2 duei1` 累赘的，麻烦的，事物很费时间或者占据很大空间的。  

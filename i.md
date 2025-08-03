@@ -731,7 +731,7 @@
 1. 【[一而当之](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_er_dan_zhr.md#一而当之)】`ieh7 er dan5 zhr1` <small>/iɪʔ7 ɚ tɑŋ5 t͡sɿ1/<sup>泰县</sup></small> ① 稳妥<sup>\[泰县\]</sup>：他做事～的。<sup>\[泰县\]</sup> ② “一当”的生动形式，因胸有成竹而从容不迫的样子，略带些许讥嘲意味<sup>\[泰州\]</sup>：苏州大学的录取通知书还不曾到，家里的人都急咖不得命，只有他老先生本人还在家里～的看他的书。<sup>\[泰州\]</sup> ③ 有条不紊，不慌不忙。也称“一一当当”。<sup>\[东台\]</sup>  
 1. 【[一发生活两发做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_faeh_shen_huh.md#一发生活两发做)】`ieh7 faeh shen1 huh laen3 faeh zu5` <sup>[如皋]</sup> 状做得慢、拖拉、做重复工。  
 1. 【[一发头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_faeh_teu.md#一发头)】`ieh7 faeh7 teu2` <sup>[泰州]</sup> 一次做完需要几次才能完成的事：你的事情真见做，就这吖点儿事情，你～弄掉就算吖唻。  
-1. 【[一番生活两番做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_faen_shen_huh.md#一番生活两番做)】`ieh7 faen shen1 huh laen3 faen zu5` <sup>[兴化]</sup> 重复劳动或无功劳动：晒干的麦子趁手在场上扬干净，不要耙来耙去，～。  
+1. 【[一番生活两番做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_faen_shen_huh.md#一番生活两番做)】`ieh7 faen shen1 huh laen3 faen zu5` <sup>[兴化]</sup> 重复劳动或无功劳动：晒干的麦子趁手在场上扬干净，不要筢来筢去，～。  
 1. 【[一番生意两番做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_faen_shen_i.md#一番生意两番做)】`ieh7 faen shen1 i laen3 faen zu5` <sup>[泰兴]</sup> 借指只需办一次就可以完成的事偏偏要做两次，而效果却是一样的。乡人有“盛起饭来炒啊吃”一说，其义相似。  
 1. 【[一帆风顺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_faen_fon_shuen.md#一帆风顺)】`ieh7 faen2 fon1 shuen6` <sup>[如东]</sup> 航船遇上顺风。比喻做事十分顺利：愿你～。  
 1. 【[一范水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_faen_shuei.md#一范水)】`ieh7 faen5 shuei3` <small>/iəʔ7 fẽ5 suei3/<sup>如皋</sup></small> ① 人踏水车戽水，把计数的筹码丢完为～。分40转、60转两种。见“撂筹码”。<sup>\[如皋\]</sup> ② 车水比赛时，丢完规定的筹码为一范水。一般为49筹。<sup>\[如东\]</sup>  
@@ -1164,7 +1164,7 @@
 1. 【[抑物](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_veh.md#抑物)】`ieh7 veh8` <sup>[如皋]</sup> 起收敛作用的食品：种吖牛痘，先吃“发味”如花菠菜、鸡蛋、鲫鱼；足浆后要吃～，如黑鱼。  
 1. 【[揖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh.md#揖)】`ieh7` <sup>[东台]</sup> 拱手行礼：打躬作～。  
 1. 【[揖草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_co.md#揖草)】`ieh7 co3` <sup>[如东]</sup> 把散草收拢成堆。  
-1. 【[揖耙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_pa.md#揖耙)】`ieh7 pa2` <sup>[如东]</sup> 农具。木制，三只齿，粗而长，有柄。用以揖草。  
+1. 【[揖筢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_pa.md#揖筢)】`ieh7 pa2` <sup>[如东]</sup> 农具。木制，三只齿，粗而长，有柄。用以揖草。  
 1. 【[浥里浥𪞚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_lii_ieh_cheh.md#浥里浥𪞚)】`ieh7 lii ieh7 cheh7` <sup>[兴化]</sup> 形容物品上沾有潮湿气：梅雨天气洗的东西总有点儿～的。  
 1. 【[贳器店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_qi_din.md#贳器店)】`ieh7 qi5 din5` <sup>[如皋]</sup> 出租礼器、礼服及家中陈设等的店。旧时如城有好几家。  
 1. 【[赢家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_ga.md#赢家)】`ien ga1` <sup>[东台]</sup> 指赌博或比赛中获胜的一方。  
